@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:38:39 UTC
+# Standings for team2 as of 2026-06-07 09:39:18 UTC
 
 **Total Participants:** 1690
 
@@ -14,7 +14,7 @@
 | 6 | 8775 | A.j. Langley |
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
-| 9 | 6240 | Christina Shell |
+| 9 | 6241 | Christina Shell |
 | 10 | 6114 | Morgann McDaniel |
 | 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
@@ -76,9 +76,9 @@
 | 68 | 982 | Nawang Nawang |
 | 69 | 976 | Criccett Hooper-Smith |
 | 70 | 971 | Debra Henry |
-| 71 | 921 | Block Dog |
-| 72 | 913 | Amber Salazar |
-| 73 | 908 | Nerdy Climber |
+| 71 | 968 | Nerdy Climber |
+| 72 | 921 | Block Dog |
+| 73 | 913 | Amber Salazar |
 | 74 | 899 | Marie Luciano |
 | 75 | 882 | Lisa Breiding |
 | 76 | 864 | Helen Thomas |
@@ -92,8 +92,8 @@
 | 84 | 818 | Lily |
 | 85 | 802 | Charley Bedford |
 | 86 | 800 | Renee Freeman Jacobson |
-| 87 | 799 | Elizabeth Sallas |
-| 88 | 799 | Poppy |
+| 87 | 799 | Poppy |
+| 88 | 799 | Elizabeth Sallas |
 | 89 | 774 | Deborah Boyce Minor |
 | 90 | 771 | Charlie Wilson |
 | 91 | 766 | Sarah Griffey |
@@ -152,8 +152,8 @@
 | 144 | 417 | Jenny Graham |
 | 145 | 416 | Suki Jacobs |
 | 146 | 412 | Zarah Kettler |
-| 147 | 408 | Ashley Green |
-| 148 | 404 | Jgato |
+| 147 | 409 | Jgato |
+| 148 | 408 | Ashley Green |
 | 149 | 393 | DomDomsNana |
 | 150 | 390 | La chulis |
 | 151 | 389 | Bridget N Jonathan Franz |
@@ -1110,111 +1110,111 @@
 | 1102 | 34 | Angela VanOstrand |
 | 1103 | 34 | Tina Kinney |
 | 1104 | 34 | Auntie YaYa |
-| 1105 | 34 | Katie Magner |
-| 1106 | 34 | Marlo Perry |
-| 1107 | 34 | mee |
-| 1108 | 34 | Sassafras Cass |
-| 1109 | 33 | Ryan Sanders |
-| 1110 | 33 | June Salevao |
-| 1111 | 33 | Nicole Hjelmen |
-| 1112 | 33 | Mandeee |
-| 1113 | 33 | Rachel Huber |
-| 1114 | 33 | Tito Garcia |
-| 1115 | 33 | Maja Hauff |
-| 1116 | 33 | Nicki McGill |
-| 1117 | 33 | Brooke Marie Fox |
-| 1118 | 33 | Gilbert Medina |
-| 1119 | 33 | Heather Nicole |
-| 1120 | 33 | Cool cee |
-| 1121 | 33 | Em |
-| 1122 | 33 | Debbie Embry |
-| 1123 | 33 | Octavia Jus Mae Hill |
-| 1124 | 32 | Courtney Elizabeth Hartnagel |
-| 1125 | 32 | Brandy McCleary |
-| 1126 | 32 | Monica Gonzalez Rios |
-| 1127 | 32 | Amanda Bryte |
-| 1128 | 32 | Spicy Enchilada |
-| 1129 | 32 | Viani09 |
-| 1130 | 32 | Deanna Mc |
-| 1131 | 32 | Lively Liner |
-| 1132 | 32 | RaeRae |
-| 1133 | 32 | Churube Finwoiisopw |
-| 1134 | 32 | Lori Yelvington Cain |
-| 1135 | 32 | Stephanie |
+| 1105 | 34 | mee |
+| 1106 | 34 | Sassafras Cass |
+| 1107 | 34 | Katie Magner |
+| 1108 | 34 | Marlo Perry |
+| 1109 | 33 | Mandeee |
+| 1110 | 33 | Em |
+| 1111 | 33 | June Salevao |
+| 1112 | 33 | Ryan Sanders |
+| 1113 | 33 | Nicole Hjelmen |
+| 1114 | 33 | Rachel Huber |
+| 1115 | 33 | Tito Garcia |
+| 1116 | 33 | Maja Hauff |
+| 1117 | 33 | Nicki McGill |
+| 1118 | 33 | Brooke Marie Fox |
+| 1119 | 33 | Octavia Jus Mae Hill |
+| 1120 | 33 | Debbie Embry |
+| 1121 | 33 | Cool cee |
+| 1122 | 33 | Heather Nicole |
+| 1123 | 33 | Gilbert Medina |
+| 1124 | 32 | Stephanie |
+| 1125 | 32 | Lively Liner |
+| 1126 | 32 | Dandy Matchzone |
+| 1127 | 32 | Brandy McCleary |
+| 1128 | 32 | Courtney Elizabeth Hartnagel |
+| 1129 | 32 | Zany Dasher |
+| 1130 | 32 | RaeRae |
+| 1131 | 32 | Monica Gonzalez Rios |
+| 1132 | 32 | Amanda Bryte |
+| 1133 | 32 | Spicy Enchilada |
+| 1134 | 32 | Viani09 |
+| 1135 | 32 | Deanna Mc |
 | 1136 | 32 | Chelsea Harriss |
-| 1137 | 32 | Zany Dasher |
-| 1138 | 32 | Foc |
-| 1139 | 31 | Jenn |
-| 1140 | 31 | Ronald Granger |
-| 1141 | 31 | Amanda Neal |
+| 1137 | 32 | Foc |
+| 1138 | 32 | Lori Yelvington Cain |
+| 1139 | 32 | Churube Finwoiisopw |
+| 1140 | 31 | Louise LeBlanc |
+| 1141 | 31 | Monique Williams |
 | 1142 | 31 | Dan Ramsey |
-| 1143 | 31 | Cranky Fit |
-| 1144 | 31 | Louise LeBlanc |
-| 1145 | 31 | Trinni Hansen |
-| 1146 | 31 | Monique Williams |
-| 1147 | 30 | Brett Mullins |
-| 1148 | 30 | Tessa Kalili |
-| 1149 | 30 | ASL |
-| 1150 | 30 | Melissa Willson |
-| 1151 | 30 | Linda Jeanne Knop |
-| 1152 | 30 | Snappy Fitblock |
-| 1153 | 30 | Lakeisha Ryder |
-| 1154 | 30 | Ashley Fleming |
-| 1155 | 30 | Amy ATen |
-| 1156 | 30 | gene15 |
-| 1157 | 30 | Bridgett Smith |
-| 1158 | 30 | Dustyn Sims |
-| 1159 | 30 | Alexis Turner |
-| 1160 | 30 | Ashley Lee DeHaan |
-| 1161 | 30 | Brave Blockmatch |
-| 1162 | 30 | Heather Hill Davidson |
-| 1163 | 30 | Beachmama |
-| 1164 | 30 | Carol Whited Loza |
-| 1165 | 30 | Busted9mm |
-| 1166 | 30 | Cool Balancer |
-| 1167 | 30 | Dottie Leavy Van Deventer |
-| 1168 | 30 | Daring Spinzone |
-| 1169 | 30 | bigdog |
-| 1170 | 30 | Edward Conyers |
-| 1171 | 30 | Chipper Zigzag |
-| 1172 | 30 | Dee |
-| 1173 | 30 | Marla Paden |
-| 1174 | 30 | David Cadiente |
-| 1175 | 30 | ktabzz |
-| 1176 | 30 | SarahandAaron Prim |
-| 1177 | 30 | Heather Schardan |
-| 1178 | 30 | Alexis Abner |
-| 1179 | 30 | Amanda Mason Scott |
-| 1180 | 30 | Loriane Shumate Griggs |
-| 1181 | 30 | Carrie Rutter-Bail |
-| 1182 | 30 | Barbara Fields |
+| 1143 | 31 | Trinni Hansen |
+| 1144 | 31 | Cranky Fit |
+| 1145 | 31 | Ronald Granger |
+| 1146 | 31 | Jenn |
+| 1147 | 31 | Amanda Neal |
+| 1148 | 30 | Dustyn Sims |
+| 1149 | 30 | Tessa Kalili |
+| 1150 | 30 | Brett Mullins |
+| 1151 | 30 | Ashley Lee DeHaan |
+| 1152 | 30 | Melissa Willson |
+| 1153 | 30 | gene15 |
+| 1154 | 30 | ASL |
+| 1155 | 30 | Ashley Fleming |
+| 1156 | 30 | Heather Hill Davidson |
+| 1157 | 30 | Amy ATen |
+| 1158 | 30 | Bridgett Smith |
+| 1159 | 30 | Beachmama |
+| 1160 | 30 | Linda Jeanne Knop |
+| 1161 | 30 | Alexis Turner |
+| 1162 | 30 | Lakeisha Ryder |
+| 1163 | 30 | Snappy Fitblock |
+| 1164 | 30 | Brave Blockmatch |
+| 1165 | 30 | Carol Whited Loza |
+| 1166 | 30 | JEEPER |
+| 1167 | 30 | Amanda Mason Scott |
+| 1168 | 30 | Heather Schardan |
+| 1169 | 30 | Marla Paden |
+| 1170 | 30 | Dee |
+| 1171 | 30 | Cool Balancer |
+| 1172 | 30 | Dottie Leavy Van Deventer |
+| 1173 | 30 | Daring Spinzone |
+| 1174 | 30 | bigdog |
+| 1175 | 30 | Edward Conyers |
+| 1176 | 30 | Chipper Zigzag |
+| 1177 | 30 | David Cadiente |
+| 1178 | 30 | ktabzz |
+| 1179 | 30 | SarahandAaron Prim |
+| 1180 | 30 | Alexis Abner |
+| 1181 | 30 | Loriane Shumate Griggs |
+| 1182 | 30 | Carrie Rutter-Bail |
 | 1183 | 30 | Megan |
-| 1184 | 30 | JEEPER |
-| 1185 | 29 | Staci Carl |
-| 1186 | 29 | Michii |
-| 1187 | 29 | Alessandria Anderson |
-| 1188 | 29 | Amy Chauvin |
+| 1184 | 30 | Barbara Fields |
+| 1185 | 30 | Busted9mm |
+| 1186 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 1187 | 29 | Staci Carl |
+| 1188 | 29 | Daring Pivotfall |
 | 1189 | 29 | Renee Craig |
-| 1190 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 1191 | 29 | Daring Pivotfall |
-| 1192 | 29 | Dandy Matchzone |
-| 1193 | 29 | Betty Muise |
-| 1194 | 29 | Jill Bobst Marple |
-| 1195 | 29 | Danita Moon |
-| 1196 | 29 | Makayla Grubbs |
+| 1190 | 29 | Alessandria Anderson |
+| 1191 | 29 | Jill Bobst Marple |
+| 1192 | 29 | Michii |
+| 1193 | 29 | Danita Moon |
+| 1194 | 29 | Makayla Grubbs |
+| 1195 | 29 | Amy Chauvin |
+| 1196 | 29 | Betty Muise |
 | 1197 | 29 | Erin Marie Smith |
 | 1198 | 29 | Kylee Pruitt |
-| 1199 | 29 | Amanda Jungclaus |
-| 1200 | 29 | Jessica Gayle Sears |
-| 1201 | 29 | Brandy Westfall-panchari |
-| 1202 | 29 | Michele Stewart |
-| 1203 | 29 | Travis Bundrum |
-| 1204 | 28 | Bonez |
-| 1205 | 28 | AmyShea |
-| 1206 | 28 | Dana Vaiden Rivers |
-| 1207 | 28 | Mark Havens |
-| 1208 | 28 | Glitzy Stack |
-| 1209 | 28 | Courtney Freeman |
+| 1199 | 29 | Travis Bundrum |
+| 1200 | 29 | Amanda Jungclaus |
+| 1201 | 29 | Michele Stewart |
+| 1202 | 29 | Brandy Westfall-panchari |
+| 1203 | 29 | Jessica Gayle Sears |
+| 1204 | 28 | Courtney Freeman |
+| 1205 | 28 | Dana Vaiden Rivers |
+| 1206 | 28 | Glitzy Stack |
+| 1207 | 28 | Bonez |
+| 1208 | 28 | AmyShea |
+| 1209 | 28 | Mark Havens |
 | 1210 | 28 | Snippy Brickzone |
 | 1211 | 28 | LK |
 | 1212 | 28 | Stacey Peters |
