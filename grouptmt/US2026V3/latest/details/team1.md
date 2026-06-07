@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:12:18 UTC
+# Standings for team1 as of 2026-06-07 11:12:40 UTC
 
 **Total Participants:** 1444
 
@@ -15,7 +15,7 @@
 | 7 | 7059 | Tracy Cohen |
 | 8 | 6802 | Cozy Edge |
 | 9 | 6679 | Death by SnuSnu |
-| 10 | 6337 | Dyane Leah Ware |
+| 10 | 6486 | Dyane Leah Ware |
 | 11 | 6150 | Songne Arif |
 | 12 | 5508 | Jocelyn Pope-Sewell |
 | 13 | 5282 | Plucky Swipe |
@@ -56,8 +56,8 @@
 | 48 | 1140 | JoJo |
 | 49 | 1133 | Jennifer To |
 | 50 | 1120 | Ryan Meilleur |
-| 51 | 1067 | Catara Renae Oliver |
-| 52 | 1062 | D'Andra Stewart |
+| 51 | 1092 | D'Andra Stewart |
+| 52 | 1067 | Catara Renae Oliver |
 | 53 | 1052 | Shortstak |
 | 54 | 1046 | Spicy Balancer |
 | 55 | 1024 | Chill Clusterer |
@@ -452,46 +452,46 @@
 | 444 | 100 | Kesha Brady |
 | 445 | 100 | Mary Phillippi Blanton |
 | 446 | 100 | Seddrick |
-| 447 | 100 | Cornelius Neal |
-| 448 | 100 | Jean Regis |
+| 447 | 100 | Natasha Rucker |
+| 448 | 100 | Cornelius Neal |
 | 449 | 100 | Kennedi Brazziel |
 | 450 | 100 | Leavon Smith |
-| 451 | 100 | Natasha Rucker |
+| 451 | 100 | Jean Regis |
 | 452 | 100 | $hort Dog |
 | 453 | 99 | Mahagony Small |
-| 454 | 99 | Ciera Peace |
-| 455 | 99 | SeanSanchez |
+| 454 | 99 | SeanSanchez |
+| 455 | 99 | Ciera Peace |
 | 456 | 99 | ChunLi |
-| 457 | 98 | Shannon Carriger |
-| 458 | 98 | Michael Smith |
-| 459 | 98 | Sharee Robinson |
-| 460 | 98 | Dorian Griffin |
-| 461 | 97 | Nichole Horsley-Conn |
-| 462 | 97 | Lootch |
-| 463 | 97 | Erin Sabol |
-| 464 | 97 | Twisty Cascadeclear |
-| 465 | 97 | Kristie |
-| 466 | 97 | NewEve |
-| 467 | 97 | Andrew Jay Vaughn |
-| 468 | 97 | Shanell Thomas |
+| 457 | 98 | Dorian Griffin |
+| 458 | 98 | Shannon Carriger |
+| 459 | 98 | Michael Smith |
+| 460 | 98 | Sharee Robinson |
+| 461 | 97 | Lootch |
+| 462 | 97 | Erin Sabol |
+| 463 | 97 | Twisty Cascadeclear |
+| 464 | 97 | NewEve |
+| 465 | 97 | Andrew Jay Vaughn |
+| 466 | 97 | Kristie |
+| 467 | 97 | Shanell Thomas |
+| 468 | 97 | Nichole Horsley-Conn |
 | 469 | 96 | Sherri Keys |
 | 470 | 96 | Yazz |
 | 471 | 95 | Jelyfish |
 | 472 | 95 | Shiny Lift |
 | 473 | 95 | Stephen Glaze |
-| 474 | 94 | Ta'Kaiyah M. Spann |
-| 475 | 94 | Derald Miller |
-| 476 | 94 | Sha Anderson |
-| 477 | 93 | Rene Hicks |
-| 478 | 93 | C Lo Green |
-| 479 | 93 | Lucy |
-| 480 | 93 | Chino Baby |
-| 481 | 93 | FunTime |
-| 482 | 93 | Anastasia |
-| 483 | 93 | Kimberly Susan Privette |
-| 484 | 92 | Kimberly Anderson |
-| 485 | 92 | Boldy Matchbuilder |
-| 486 | 92 | Bold Clusterer |
+| 474 | 95 | Bold Clusterer |
+| 475 | 94 | Ta'Kaiyah M. Spann |
+| 476 | 94 | Derald Miller |
+| 477 | 94 | Sha Anderson |
+| 478 | 93 | Rene Hicks |
+| 479 | 93 | C Lo Green |
+| 480 | 93 | FunTime |
+| 481 | 93 | Lucy |
+| 482 | 93 | Chino Baby |
+| 483 | 93 | Anastasia |
+| 484 | 93 | Kimberly Susan Privette |
+| 485 | 92 | Kimberly Anderson |
+| 486 | 92 | Boldy Matchbuilder |
 | 487 | 92 | Pretty Yella |
 | 488 | 91 | David A Alvino |
 | 489 | 91 | Aaron Hartmann |
