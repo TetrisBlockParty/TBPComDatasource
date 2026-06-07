@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:54:19 UTC
+# Standings for team1 as of 2026-06-07 18:54:41 UTC
 
 **Total Participants:** 1542
 
@@ -267,13 +267,13 @@
 | 259 | 229 | Ann White |
 | 260 | 225 | Zappy Riser |
 | 261 | 225 | TT |
-| 262 | 220 | Tanya Clayton |
-| 263 | 220 | Christian Pham |
-| 264 | 220 | Chandler Magee |
-| 265 | 219 | Smiley Clearpiece |
-| 266 | 218 | Mikayla |
-| 267 | 212 | Simply-Beautiful007 |
-| 268 | 212 | Nobles Brandon |
+| 262 | 221 | Nobles Brandon |
+| 263 | 220 | Tanya Clayton |
+| 264 | 220 | Christian Pham |
+| 265 | 220 | Chandler Magee |
+| 266 | 219 | Smiley Clearpiece |
+| 267 | 218 | Mikayla |
+| 268 | 212 | Simply-Beautiful007 |
 | 269 | 212 | Trina Greenwood |
 | 270 | 211 | Charletha Williams |
 | 271 | 211 | Boldy Liner |
@@ -653,79 +653,79 @@
 | 645 | 81 | TRUBBLE45 |
 | 646 | 81 | Sara |
 | 647 | 81 | Angela L Charles |
-| 648 | 80 | PSD |
-| 649 | 80 | Chevalier Burley |
-| 650 | 80 | Gerold Folk Haddock |
-| 651 | 80 | NedaWin |
-| 652 | 80 | Amaadi Ward |
-| 653 | 80 | Kp |
-| 654 | 80 | Christopher L Crites |
-| 655 | 80 | Yashicha Hertzock |
-| 656 | 80 | Chereese Harris |
-| 657 | 80 | Victoria Smith |
-| 658 | 80 | Lauren Farkas |
-| 659 | 80 | Kanary Karotz |
+| 648 | 80 | Lisa420 |
+| 649 | 80 | Christopher L Crites |
+| 650 | 80 | Yashicha Hertzock |
+| 651 | 80 | Kp |
+| 652 | 80 | NedaWin |
+| 653 | 80 | Amaadi Ward |
+| 654 | 80 | Gerold Folk Haddock |
+| 655 | 80 | Chereese Harris |
+| 656 | 80 | Chevalier Burley |
+| 657 | 80 | PSD |
+| 658 | 80 | Kamilya Rembert |
+| 659 | 80 | Lauren Farkas |
 | 660 | 80 | Kimberly Noble |
-| 661 | 80 | Charles Johnson |
-| 662 | 80 | Keith Big-Sixx Mackell |
-| 663 | 80 | Big Bovice |
-| 664 | 80 | Tory Miller |
-| 665 | 80 | Lady Scorpio |
-| 666 | 80 | Kamilya Rembert |
-| 667 | 80 | Lisa420 |
-| 668 | 80 | Latore Maxie |
-| 669 | 80 | Tracey Johnson |
-| 670 | 80 | Cynthia Bradley |
-| 671 | 79 | Kim Holzmiller |
-| 672 | 79 | Evette Moreno |
-| 673 | 79 | Kyra Coleman |
-| 674 | 79 | Naee Bee |
-| 675 | 79 | TY Newme Batts |
-| 676 | 79 | Montréal Mars |
-| 677 | 78 | Smiley3000 |
-| 678 | 78 | Solomon Valarie |
+| 661 | 80 | Kanary Karotz |
+| 662 | 80 | Cynthia Bradley |
+| 663 | 80 | Tracey Johnson |
+| 664 | 80 | Latore Maxie |
+| 665 | 80 | Charles Johnson |
+| 666 | 80 | Lady Scorpio |
+| 667 | 80 | Keith Big-Sixx Mackell |
+| 668 | 80 | Tory Miller |
+| 669 | 80 | Big Bovice |
+| 670 | 80 | Victoria Smith |
+| 671 | 79 | Evette Moreno |
+| 672 | 79 | Naee Bee |
+| 673 | 79 | Montréal Mars |
+| 674 | 79 | TY Newme Batts |
+| 675 | 79 | Kyra Coleman |
+| 676 | 79 | Kim Holzmiller |
+| 677 | 79 | Danny M GR |
+| 678 | 78 | Smiley3000 |
 | 679 | 78 | Azeiare Ziare |
-| 680 | 78 | Kahh |
-| 681 | 78 | Ryan Runyan |
-| 682 | 78 | Callie Mae |
-| 683 | 78 | Krystal Maynard |
-| 684 | 78 | Dirty Deeds |
-| 685 | 77 | EvaLynn NeCole |
+| 680 | 78 | Dirty Deeds |
+| 681 | 78 | Krystal Maynard |
+| 682 | 78 | Solomon Valarie |
+| 683 | 78 | Ryan Runyan |
+| 684 | 78 | Callie Mae |
+| 685 | 78 | Kahh |
 | 686 | 77 | Kayel Good |
-| 687 | 77 | DellaLucretia Thomas |
-| 688 | 77 | Casey Chapman |
-| 689 | 77 | Ysma Simmons |
-| 690 | 77 | Dana Hawes |
-| 691 | 76 | Earl Williams |
-| 692 | 76 | LaSharon Jackson |
-| 693 | 76 | lady |
-| 694 | 76 | Giggly Shatterline |
-| 695 | 76 | Shakmar |
-| 696 | 75 | Jennifer Moore |
-| 697 | 75 | Courtney Robinson |
-| 698 | 75 | Erika |
-| 699 | 75 | Teresa Bean |
-| 700 | 75 | Blocksy |
-| 701 | 75 | sasha |
-| 702 | 75 | Boldy Pivoty |
-| 703 | 75 | Tiffany Jean Hinson |
-| 704 | 75 | Angie Lebron |
-| 705 | 74 | Cortrell Foster |
-| 706 | 74 | Glitzy Clusterer |
-| 707 | 74 | Danny M GR |
-| 708 | 74 | Ace Hardware |
-| 709 | 74 | Sabrina Wilkerson |
+| 687 | 77 | Dana Hawes |
+| 688 | 77 | Ysma Simmons |
+| 689 | 77 | DellaLucretia Thomas |
+| 690 | 77 | EvaLynn NeCole |
+| 691 | 77 | Casey Chapman |
+| 692 | 76 | Earl Williams |
+| 693 | 76 | Giggly Shatterline |
+| 694 | 76 | LaSharon Jackson |
+| 695 | 76 | lady |
+| 696 | 76 | Shakmar |
+| 697 | 75 | Angie Lebron |
+| 698 | 75 | Courtney Robinson |
+| 699 | 75 | Erika |
+| 700 | 75 | Teresa Bean |
+| 701 | 75 | Blocksy |
+| 702 | 75 | Jennifer Moore |
+| 703 | 75 | sasha |
+| 704 | 75 | Boldy Pivoty |
+| 705 | 75 | Tiffany Jean Hinson |
+| 706 | 74 | Tetrisdestroyer |
+| 707 | 74 | Meow Meow |
+| 708 | 74 | Sabrina Wilkerson |
+| 709 | 74 | Renee Marshall |
 | 710 | 74 | Coco |
-| 711 | 74 | Tetrisdestroyer |
-| 712 | 74 | Meow Meow |
-| 713 | 74 | Renee Marshall |
+| 711 | 74 | Cortrell Foster |
+| 712 | 74 | Glitzy Clusterer |
+| 713 | 74 | Ace Hardware |
 | 714 | 73 | Abigail Newman Sweet |
 | 715 | 73 | Crystal Garay |
-| 716 | 72 | BB |
-| 717 | 72 | Comedian Gdane |
-| 718 | 72 | Clipzby |
-| 719 | 72 | Juicy |
-| 720 | 72 | TeeMaster Barber IsLyfe |
+| 716 | 72 | Clipzby |
+| 717 | 72 | TeeMaster Barber IsLyfe |
+| 718 | 72 | BB |
+| 719 | 72 | Comedian Gdane |
+| 720 | 72 | Juicy |
 | 721 | 72 | Ashanti Eden |
 | 722 | 72 | John Spath |
 | 723 | 72 | Ladybug |
@@ -1217,33 +1217,33 @@
 | 1209 | 25 | Nicole Freeman |
 | 1210 | 24 | TanB53 |
 | 1211 | 24 | Beverly Redd-Fountain |
-| 1212 | 24 | Brittany Cole |
-| 1213 | 24 | Danielle Scholfield |
-| 1214 | 24 | Kevin Witdaflute |
-| 1215 | 23 | Brave Combofall |
-| 1216 | 23 | Arturo Hernandez II |
+| 1212 | 24 | Danielle Scholfield |
+| 1213 | 24 | Brittany Cole |
+| 1214 | 24 | Null Kim |
+| 1215 | 24 | Kevin Witdaflute |
+| 1216 | 23 | Tabitha Dupre-Allen |
 | 1217 | 23 | Snippy T-spin |
-| 1218 | 23 | smash56! |
-| 1219 | 23 | Vontesha Kidd |
-| 1220 | 23 | Sherry D Singleton |
-| 1221 | 23 | Tabitha Dupre-Allen |
-| 1222 | 23 | Nicolej |
-| 1223 | 23 | Jamie Lea Popp |
-| 1224 | 23 | Desi |
+| 1218 | 23 | Brave Combofall |
+| 1219 | 23 | Arturo Hernandez II |
+| 1220 | 23 | smash56! |
+| 1221 | 23 | Vontesha Kidd |
+| 1222 | 23 | Sherry D Singleton |
+| 1223 | 23 | Nicolej |
+| 1224 | 23 | Jamie Lea Popp |
 | 1225 | 23 | Giggleme |
-| 1226 | 23 | Major314 |
-| 1227 | 23 | Genevieve Nieves |
-| 1228 | 22 | Jazzy Drop |
-| 1229 | 22 | Jucee |
-| 1230 | 22 | Chipper Smasher |
-| 1231 | 22 | Chipper Clicker |
-| 1232 | 22 | Queen Baby 5 |
-| 1233 | 22 | Sicily Bailey |
-| 1234 | 22 | Jennifer Diamond |
-| 1235 | 22 | Iván Cedeño |
-| 1236 | 22 | Jasmine Hariston-Estis |
-| 1237 | 22 | Jhinarra Walker |
-| 1238 | 22 | Null Kim |
+| 1226 | 23 | Desi |
+| 1227 | 23 | Major314 |
+| 1228 | 23 | Genevieve Nieves |
+| 1229 | 22 | Chipper Smasher |
+| 1230 | 22 | Jazzy Drop |
+| 1231 | 22 | Jucee |
+| 1232 | 22 | Chipper Clicker |
+| 1233 | 22 | Queen Baby 5 |
+| 1234 | 22 | Sicily Bailey |
+| 1235 | 22 | Jennifer Diamond |
+| 1236 | 22 | Iván Cedeño |
+| 1237 | 22 | Jasmine Hariston-Estis |
+| 1238 | 22 | Jhinarra Walker |
 | 1239 | 22 | Cheryl Miller |
 | 1240 | 22 | ShayePooh |
 | 1241 | 21 | jasi |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:54:19 UTC
+# Standings for team2 as of 2026-06-07 18:54:41 UTC
 
 **Total Participants:** 1860
 
@@ -261,8 +261,8 @@
 | 253 | 283 | Glitzy Base |
 | 254 | 280 | Loopy Dropper |
 | 255 | 279 | Curly Windbreaker |
-| 256 | 278 | Amy Nicole McCanne |
-| 257 | 276 | Chipper Stackbuilder |
+| 256 | 278 | Chipper Stackbuilder |
+| 257 | 278 | Amy Nicole McCanne |
 | 258 | 276 | AndrewandShela Gornik |
 | 259 | 267 | Karly Moore |
 | 260 | 266 | Kathleen Keogh Van Schoyck |
@@ -403,18 +403,18 @@
 | 395 | 169 | Aldotfus Williams |
 | 396 | 169 | Derrick |
 | 397 | 169 | Jaimie Walters |
-| 398 | 168 | Missy Renia |
-| 399 | 168 | Brian Favre |
-| 400 | 168 | Gwendolyn Boykin Mobbs |
-| 401 | 167 | Spicy Snapclear |
+| 398 | 168 | Melmel |
+| 399 | 168 | Missy Renia |
+| 400 | 168 | Brian Favre |
+| 401 | 168 | Gwendolyn Boykin Mobbs |
 | 402 | 167 | Sarah Jane Gorsuch |
 | 403 | 167 | Amber Carpenter |
 | 404 | 167 | Michael Carmichael |
 | 405 | 167 | Chummy Faller |
-| 406 | 167 | Cara Rivera |
-| 407 | 166 | Wayne Johnson |
-| 408 | 166 | Jessica Connot |
-| 409 | 166 | Melmel |
+| 406 | 167 | Spicy Snapclear |
+| 407 | 167 | Cara Rivera |
+| 408 | 166 | Wayne Johnson |
+| 409 | 166 | Jessica Connot |
 | 410 | 165 | Sandy Justus |
 | 411 | 164 | Loopy Tower |
 | 412 | 164 | Sillyk |
@@ -1522,9 +1522,9 @@
 | 1514 | 20 | Ashley Cadle |
 | 1515 | 20 | Ciera Adams |
 | 1516 | 20 | Chummy Smasher |
-| 1517 | 20 | Jade007 |
+| 1517 | 20 | Sandra Betz |
 | 1518 | 20 | Jamaica Flowers |
-| 1519 | 20 | Sandra Betz |
+| 1519 | 20 | Jade007 |
 | 1520 | 20 | Melissa Kinsley |
 | 1521 | 20 | Lori Rose |
 | 1522 | 20 | Kenya Johnson |
@@ -1566,9 +1566,9 @@
 | 1558 | 19 | Stephanie Thompson |
 | 1559 | 18 | Cathy Cobb |
 | 1560 | 18 | Crafty Dashgrid |
-| 1561 | 18 | Loony Glider |
+| 1561 | 18 | Glitzy Linkfall |
 | 1562 | 18 | Dizzy Glidezone |
-| 1563 | 18 | Glitzy Linkfall |
+| 1563 | 18 | Loony Glider |
 | 1564 | 18 | Gen |
 | 1565 | 18 | Jennifer Gould |
 | 1566 | 18 | Randy Clevenger |
@@ -1608,123 +1608,123 @@
 | 1600 | 17 | Sk8Mom |
 | 1601 | 16 | Charity Black |
 | 1602 | 16 | Flashy Blockfall |
-| 1603 | 16 | Diane Pinkston Massey |
-| 1604 | 16 | Sweety764u |
-| 1605 | 16 | Elliot |
-| 1606 | 16 | Kimberly Rochon |
-| 1607 | 16 | Patty White |
-| 1608 | 16 | Tonya Reed |
-| 1609 | 16 | Amanda Jimenez |
-| 1610 | 16 | Jennifer M Mitchell |
-| 1611 | 16 | Kaylyn Wickham |
-| 1612 | 16 | Ashley Gracelynn Tiner |
-| 1613 | 16 | Eugene Brown |
-| 1614 | 16 | Sarah Elizabeth Foret |
-| 1615 | 16 | Jeremy Monceaux |
-| 1616 | 16 | JesseJo |
-| 1617 | 15 | Haneef Akram |
-| 1618 | 15 | Nana |
-| 1619 | 15 | Julie Vargas |
-| 1620 | 15 | sally |
-| 1621 | 15 | Lisa Marie |
-| 1622 | 15 | Amlisi |
-| 1623 | 15 | Poppy Slice |
-| 1624 | 15 | Twisty Patternblock |
-| 1625 | 15 | Christine Ann Eras |
-| 1626 | 15 | Jacqueline Leigh Zuzinec |
-| 1627 | 15 | Sharon Wade |
-| 1628 | 15 | Tipsy Matchgrid |
-| 1629 | 15 | Tetris |
-| 1630 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1631 | 15 | Samantha |
-| 1632 | 15 | Denise Baker |
-| 1633 | 15 | Chass |
-| 1634 | 15 | Jennifer Nelson |
+| 1603 | 16 | Joffee Joffer |
+| 1604 | 16 | Diane Pinkston Massey |
+| 1605 | 16 | Sweety764u |
+| 1606 | 16 | Elliot |
+| 1607 | 16 | Kimberly Rochon |
+| 1608 | 16 | Patty White |
+| 1609 | 16 | Tonya Reed |
+| 1610 | 16 | Amanda Jimenez |
+| 1611 | 16 | Jennifer M Mitchell |
+| 1612 | 16 | Kaylyn Wickham |
+| 1613 | 16 | Ashley Gracelynn Tiner |
+| 1614 | 16 | Eugene Brown |
+| 1615 | 16 | Sarah Elizabeth Foret |
+| 1616 | 16 | Jeremy Monceaux |
+| 1617 | 16 | JesseJo |
+| 1618 | 15 | Haneef Akram |
+| 1619 | 15 | Nana |
+| 1620 | 15 | Julie Vargas |
+| 1621 | 15 | sally |
+| 1622 | 15 | Lisa Marie |
+| 1623 | 15 | Amlisi |
+| 1624 | 15 | Poppy Slice |
+| 1625 | 15 | Twisty Patternblock |
+| 1626 | 15 | Christine Ann Eras |
+| 1627 | 15 | Jacqueline Leigh Zuzinec |
+| 1628 | 15 | Sharon Wade |
+| 1629 | 15 | Tipsy Matchgrid |
+| 1630 | 15 | Tetris |
+| 1631 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1632 | 15 | Samantha |
+| 1633 | 15 | Denise Baker |
+| 1634 | 15 | Chass |
 | 1635 | 15 | Spunky Snapfall |
-| 1636 | 15 | Linda Riegsecker |
+| 1636 | 15 | Jennifer Nelson |
 | 1637 | 15 | Rhonda McManus - Kimbrough |
-| 1638 | 15 | AlDan |
-| 1639 | 15 | BoxerMom |
-| 1640 | 15 | SabinawNorman Adams |
-| 1641 | 15 | Aaron Henry |
-| 1642 | 14 | Imat Yesmar |
-| 1643 | 14 | Manuel Lucero Jr. |
+| 1638 | 15 | Linda Riegsecker |
+| 1639 | 15 | AlDan |
+| 1640 | 15 | BoxerMom |
+| 1641 | 15 | SabinawNorman Adams |
+| 1642 | 15 | Aaron Henry |
+| 1643 | 14 | Imat Yesmar |
 | 1644 | 14 | Raymond Sadler |
 | 1645 | 14 | ElizaThornberry |
-| 1646 | 14 | Jodi Deninno |
-| 1647 | 14 | Joseph Austin Prince |
-| 1648 | 14 | Beaglemom |
-| 1649 | 14 | Randy Taylor |
-| 1650 | 14 | Marshall Payne |
-| 1651 | 14 | Christopher Pulley |
-| 1652 | 14 | Symmy Norton |
-| 1653 | 14 | Angelica Champlin |
-| 1654 | 14 | MiMi’26 |
-| 1655 | 14 | BlockBreaker |
-| 1656 | 14 | Susan R. Hammons Cunningham |
-| 1657 | 14 | John Sewell |
-| 1658 | 14 | Terri Beddard |
-| 1659 | 14 | Randi Moore |
-| 1660 | 14 | Flex |
-| 1661 | 14 | Crystal Owen Yocolano |
-| 1662 | 13 | Smiley Clearer |
-| 1663 | 13 | Trena Sapp |
-| 1664 | 13 | Cristy Ayala |
-| 1665 | 13 | Torb |
-| 1666 | 13 | Nickishan Richrds |
-| 1667 | 13 | Sam Blinn |
-| 1668 | 13 | Tara Feineis |
-| 1669 | 13 | Patience Thompson |
-| 1670 | 13 | Dreamy Wipepiece |
-| 1671 | 13 | Bad Juju |
-| 1672 | 13 | Deborah Fowler |
-| 1673 | 13 | Judy Bailey |
-| 1674 | 13 | Jill Gelhausen |
-| 1675 | 13 | lion king |
-| 1676 | 13 | Treau Torres |
+| 1646 | 14 | Manuel Lucero Jr. |
+| 1647 | 14 | Jodi Deninno |
+| 1648 | 14 | Joseph Austin Prince |
+| 1649 | 14 | Beaglemom |
+| 1650 | 14 | Randy Taylor |
+| 1651 | 14 | Marshall Payne |
+| 1652 | 14 | Christopher Pulley |
+| 1653 | 14 | Symmy Norton |
+| 1654 | 14 | Angelica Champlin |
+| 1655 | 14 | MiMi’26 |
+| 1656 | 14 | BlockBreaker |
+| 1657 | 14 | Susan R. Hammons Cunningham |
+| 1658 | 14 | John Sewell |
+| 1659 | 14 | Terri Beddard |
+| 1660 | 14 | Randi Moore |
+| 1661 | 14 | Flex |
+| 1662 | 14 | Crystal Owen Yocolano |
+| 1663 | 13 | Smiley Clearer |
+| 1664 | 13 | Trena Sapp |
+| 1665 | 13 | Cristy Ayala |
+| 1666 | 13 | Torb |
+| 1667 | 13 | Nickishan Richrds |
+| 1668 | 13 | Sam Blinn |
+| 1669 | 13 | Tara Feineis |
+| 1670 | 13 | Patience Thompson |
+| 1671 | 13 | Dreamy Wipepiece |
+| 1672 | 13 | Bad Juju |
+| 1673 | 13 | Deborah Fowler |
+| 1674 | 13 | Judy Bailey |
+| 1675 | 13 | Jill Gelhausen |
+| 1676 | 13 | Frothy Faller |
 | 1677 | 13 | Chad Praytor |
-| 1678 | 13 | Sunnylynn Hodge |
-| 1679 | 13 | Frothy Faller |
-| 1680 | 12 | Nikki Blilie |
-| 1681 | 12 | Zippy Blockmatch |
-| 1682 | 12 | Chipper Gridroll |
-| 1683 | 12 | Roberta Granados |
-| 1684 | 12 | Anarcho |
-| 1685 | 12 | Danid |
-| 1686 | 12 | Kjsranch |
-| 1687 | 12 | Brandy Moore |
-| 1688 | 12 | Angi Carter |
-| 1689 | 12 | Jacob nitro |
-| 1690 | 12 | Phyllis DiCristo |
-| 1691 | 12 | Squyrt |
-| 1692 | 12 | Samantha Morrison |
-| 1693 | 12 | Silly Twister |
-| 1694 | 12 | Mary |
-| 1695 | 12 | Mariah Wells |
-| 1696 | 12 | Jolly Blockroll |
-| 1697 | 12 | April Owings |
-| 1698 | 12 | Redangel |
-| 1699 | 12 | Sindy08 |
-| 1700 | 12 | Quirky Brickroll |
-| 1701 | 11 | Snippy Blockfall |
-| 1702 | 11 | Patty Smith |
-| 1703 | 11 | Merine Mott |
-| 1704 | 11 | cole |
-| 1705 | 11 | Lou Sassole |
-| 1706 | 11 | Robert E Tracy |
-| 1707 | 11 | Snappy Matchgrid |
-| 1708 | 11 | Krystal Snow |
-| 1709 | 11 | Lisa |
-| 1710 | 11 | Forever Young |
+| 1678 | 13 | lion king |
+| 1679 | 13 | Treau Torres |
+| 1680 | 13 | Sunnylynn Hodge |
+| 1681 | 12 | Chipper Gridroll |
+| 1682 | 12 | Roberta Granados |
+| 1683 | 12 | Anarcho |
+| 1684 | 12 | Danid |
+| 1685 | 12 | Kjsranch |
+| 1686 | 12 | Brandy Moore |
+| 1687 | 12 | Nikki Blilie |
+| 1688 | 12 | Zippy Blockmatch |
+| 1689 | 12 | Angi Carter |
+| 1690 | 12 | Jacob nitro |
+| 1691 | 12 | Phyllis DiCristo |
+| 1692 | 12 | Squyrt |
+| 1693 | 12 | Samantha Morrison |
+| 1694 | 12 | Silly Twister |
+| 1695 | 12 | Mary |
+| 1696 | 12 | Mariah Wells |
+| 1697 | 12 | Jolly Blockroll |
+| 1698 | 12 | April Owings |
+| 1699 | 12 | Redangel |
+| 1700 | 12 | Sindy08 |
+| 1701 | 12 | Quirky Brickroll |
+| 1702 | 11 | Snippy Blockfall |
+| 1703 | 11 | Patty Smith |
+| 1704 | 11 | Merine Mott |
+| 1705 | 11 | cole |
+| 1706 | 11 | Lou Sassole |
+| 1707 | 11 | Robert E Tracy |
+| 1708 | 11 | Snappy Matchgrid |
+| 1709 | 11 | Krystal Snow |
+| 1710 | 11 | Happy Shatterblock |
 | 1711 | 11 | Amanda Nicholson |
-| 1712 | 11 | Happy Shatterblock |
-| 1713 | 11 | Trixie |
-| 1714 | 10 | ANNIE CHAOS |
-| 1715 | 10 | crysamoctama57 |
-| 1716 | 10 | Mistress |
-| 1717 | 10 | April Appleton |
-| 1718 | 10 | Vee Waller |
-| 1719 | 10 | Joffee Joffer |
+| 1712 | 11 | Lisa |
+| 1713 | 11 | Forever Young |
+| 1714 | 11 | Trixie |
+| 1715 | 10 | Mistress |
+| 1716 | 10 | ANNIE CHAOS |
+| 1717 | 10 | crysamoctama57 |
+| 1718 | 10 | April Appleton |
+| 1719 | 10 | Vee Waller |
 | 1720 | 10 | Clever Clusterfit |
 | 1721 | 10 | Hasty Linker |
 | 1722 | 10 | Daniela Solis |
