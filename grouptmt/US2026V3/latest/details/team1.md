@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:15:19 UTC
+# Standings for team1 as of 2026-06-07 21:16:20 UTC
 
 **Total Participants:** 1581
 
@@ -22,7 +22,7 @@
 | 14 | 5511 | Timothy Robert |
 | 15 | 5282 | Plucky Swipe |
 | 16 | 5131 | Hunter Rayborn |
-| 17 | 3872 | Tekedra Wilson |
+| 17 | 3972 | Tekedra Wilson |
 | 18 | 3845 | Cassidy Butler |
 | 19 | 3776 | Pdubbl3 |
 | 20 | 3721 | Chandler Spencer |
@@ -271,8 +271,8 @@
 | 263 | 239 | ♈️ Ariesbaby |
 | 264 | 238 | Tootsie Pop |
 | 265 | 237 | Kenny 'Tailormade' Boyd |
-| 266 | 236 | Amber Wilson |
-| 267 | 235 | TT |
+| 266 | 237 | TT |
+| 267 | 236 | Amber Wilson |
 | 268 | 235 | Michele Simpson |
 | 269 | 233 | Simone Bailey |
 | 270 | 230 | Boldy Liner |
@@ -398,12 +398,12 @@
 | 390 | 151 | Dede Tate |
 | 391 | 151 | Miera Nicole |
 | 392 | 150 | Jean Regis |
-| 393 | 150 | Jhaime |
-| 394 | 150 | Deveda Williams |
-| 395 | 149 | Katrina Ramey |
-| 396 | 149 | HarleyJane |
-| 397 | 149 | Chasem45 |
-| 398 | 148 | Chummy Frame |
+| 393 | 150 | Chummy Frame |
+| 394 | 150 | Jhaime |
+| 395 | 150 | Deveda Williams |
+| 396 | 149 | Katrina Ramey |
+| 397 | 149 | HarleyJane |
+| 398 | 149 | Chasem45 |
 | 399 | 147 | Perky Balancer |
 | 400 | 147 | Joka NoTime ForHataz |
 | 401 | 146 | KeeKee Williams |
@@ -616,39 +616,39 @@
 | 608 | 93 | C Lo Green |
 | 609 | 93 | Rene Hicks |
 | 610 | 93 | Holly Baker |
-| 611 | 93 | Victor |
-| 612 | 93 | Antoinette Kelly |
-| 613 | 92 | Poppy Twister |
-| 614 | 92 | Barbramerri Tarboro |
-| 615 | 92 | Juicy |
-| 616 | 92 | Terrance Tindall |
-| 617 | 91 | David A Alvino |
-| 618 | 91 | Lounique |
-| 619 | 91 | Soubletzy |
-| 620 | 90 | messyboots |
-| 621 | 90 | Rissa Rozay |
-| 622 | 90 | Shameka Tiffany |
-| 623 | 90 | Essence Jones |
-| 624 | 90 | rb |
-| 625 | 90 | mya |
-| 626 | 90 | Esha I'msoproudofmyself Davis |
-| 627 | 90 | crumb bumc |
-| 628 | 90 | Slinky Fallzone |
-| 629 | 89 | Marc Papa |
-| 630 | 89 | Daring Riserfit |
-| 631 | 89 | Jazzy Bridger |
-| 632 | 89 | Ashley Davis |
+| 611 | 93 | JesusSaves 😇 |
+| 612 | 93 | Victor |
+| 613 | 93 | Antoinette Kelly |
+| 614 | 92 | Poppy Twister |
+| 615 | 92 | Barbramerri Tarboro |
+| 616 | 92 | Juicy |
+| 617 | 92 | Terrance Tindall |
+| 618 | 91 | David A Alvino |
+| 619 | 91 | Lounique |
+| 620 | 91 | Soubletzy |
+| 621 | 90 | messyboots |
+| 622 | 90 | Rissa Rozay |
+| 623 | 90 | Shameka Tiffany |
+| 624 | 90 | Essence Jones |
+| 625 | 90 | rb |
+| 626 | 90 | mya |
+| 627 | 90 | Esha I'msoproudofmyself Davis |
+| 628 | 90 | crumb bumc |
+| 629 | 90 | Slinky Fallzone |
+| 630 | 89 | Marc Papa |
+| 631 | 89 | Daring Riserfit |
+| 632 | 89 | Jazzy Bridger |
 | 633 | 89 | Tracy Feyler |
 | 634 | 89 | Naee Bee |
-| 635 | 88 | Vera Beckford |
-| 636 | 88 | Spicy Shatterblock |
-| 637 | 88 | Rachel Renae Bettis |
+| 635 | 89 | Ashley Davis |
+| 636 | 88 | Vera Beckford |
+| 637 | 88 | Spicy Shatterblock |
 | 638 | 88 | Sallie Sanborn |
-| 639 | 87 | OhNoZer0 |
-| 640 | 87 | JesusSaves 😇 |
+| 639 | 88 | Rachel Renae Bettis |
+| 640 | 87 | Joseph Vs Cap |
 | 641 | 87 | Natalie Burroughs |
-| 642 | 87 | Pj Rojas |
-| 643 | 87 | Joseph Vs Cap |
+| 642 | 87 | OhNoZer0 |
+| 643 | 87 | Pj Rojas |
 | 644 | 86 | Marie Wilson |
 | 645 | 86 | Tweet Turner |
 | 646 | 86 | Messy Live |
