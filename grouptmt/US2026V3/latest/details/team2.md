@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:00:19 UTC
+# Standings for team2 as of 2026-06-07 17:00:40 UTC
 
 **Total Participants:** 1818
 
@@ -393,7 +393,7 @@
 | 385 | 167 | Amber Carpenter |
 | 386 | 167 | Spicy Snapclear |
 | 387 | 167 | Chummy Faller |
-| 388 | 166 | KazzyKay |
+| 388 | 167 | KazzyKay |
 | 389 | 166 | Melmel |
 | 390 | 166 | Katie Jones |
 | 391 | 165 | Sandy Justus |
