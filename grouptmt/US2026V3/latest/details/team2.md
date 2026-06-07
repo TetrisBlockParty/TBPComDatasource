@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:36:18 UTC
+# Standings for team2 as of 2026-06-07 08:36:40 UTC
 
 **Total Participants:** 1683
 
@@ -133,7 +133,7 @@
 | 125 | 515 | Loony Faller |
 | 126 | 500 | Courtney McCulley |
 | 127 | 500 | Suki Kaur |
-| 128 | 486 | Jackie Tupper |
+| 128 | 487 | Jackie Tupper |
 | 129 | 483 | Karen Reid Cenkush |
 | 130 | 477 | Amy Gale |
 | 131 | 476 | snowwol |
