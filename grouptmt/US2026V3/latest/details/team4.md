@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:28:17 UTC
+# Standings for team4 as of 2026-06-07 08:28:40 UTC
 
 **Total Participants:** 1417
 
@@ -55,8 +55,8 @@
 | 47 | 1249 | Charlie Lewis |
 | 48 | 1200 | Caitlin Johnson |
 | 49 | 1128 | MysticMaven |
-| 50 | 1089 | Ning Quiambao |
-| 51 | 1089 | Bryan DjMagnum Evans |
+| 50 | 1089 | Bryan DjMagnum Evans |
+| 51 | 1089 | Ning Quiambao |
 | 52 | 1063 | Chummy Rollzone |
 | 53 | 1049 | Chris Covington |
 | 54 | 1035 | Adam J Leong |
@@ -90,8 +90,8 @@
 | 82 | 661 | Jenn Fitzgerald |
 | 83 | 654 | Jonathan Hewitt |
 | 84 | 646 | Blayne Kole |
-| 85 | 644 | woopa 716 |
-| 86 | 644 | Kelly Bernard |
+| 85 | 644 | Kelly Bernard |
+| 86 | 644 | woopa 716 |
 | 87 | 641 | Tommy Bond |
 | 88 | 638 | Kay |
 | 89 | 634 | GeorgeButts |
@@ -129,9 +129,9 @@
 | 121 | 415 | Chuck Gannon |
 | 122 | 414 | Gigglycat |
 | 123 | 406 | Kelley Roach |
-| 124 | 400 | Cherry |
-| 125 | 400 | Amber Doyle |
-| 126 | 400 | DexterDobbins |
+| 124 | 400 | Amber Doyle |
+| 125 | 400 | DexterDobbins |
+| 126 | 400 | Cherry |
 | 127 | 400 | Nicole Peoples |
 | 128 | 397 | Real Talk Vibes |
 | 129 | 396 | Jackie Jackson |
@@ -247,35 +247,35 @@
 | 239 | 181 | Spicy Chicken |
 | 240 | 181 | Alyson M Kehler |
 | 241 | 181 | EL Booger |
-| 242 | 180 | ariel |
-| 243 | 179 | LaTanya GeminiondaRise Johnson |
-| 244 | 178 | Tamara Triplet |
-| 245 | 178 | Jacqueline Jackii Ramos |
-| 246 | 177 | Damon Gaston |
-| 247 | 177 | Chirpy Link |
-| 248 | 177 | Mark Norton |
-| 249 | 176 | Nicole Dombrow |
-| 250 | 175 | Jackie Miller |
-| 251 | 174 | Clashy |
-| 252 | 174 | Maria Castillo |
+| 242 | 180 | Maria Castillo |
+| 243 | 180 | ariel |
+| 244 | 179 | LaTanya GeminiondaRise Johnson |
+| 245 | 178 | Tamara Triplet |
+| 246 | 178 | Jacqueline Jackii Ramos |
+| 247 | 177 | Damon Gaston |
+| 248 | 177 | Chirpy Link |
+| 249 | 177 | Mark Norton |
+| 250 | 176 | Nicole Dombrow |
+| 251 | 175 | Jackie Miller |
+| 252 | 174 | Clashy |
 | 253 | 173 | Ashley Mcdonald |
 | 254 | 172 | No Time |
 | 255 | 171 | Bridget Stevens |
 | 256 | 170 | Tina Shalay Hayes |
 | 257 | 169 | Tiffany Smith |
 | 258 | 169 | Andrick |
-| 259 | 167 | Brainbabe |
-| 260 | 167 | Littlebrat |
-| 261 | 167 | Jackie Polanco |
+| 259 | 167 | Jackie Polanco |
+| 260 | 167 | Brainbabe |
+| 261 | 167 | Littlebrat |
 | 262 | 166 | bollo |
 | 263 | 165 | Ryan Paul Clark-Ramsey |
 | 264 | 165 | Erika Seaton |
 | 265 | 164 | Stacy G |
 | 266 | 162 | Kelly Howland |
 | 267 | 161 | Bouncy |
-| 268 | 160 | kellie |
+| 268 | 160 | Fran Aaron-Ring |
 | 269 | 160 | Morgan Stevens |
-| 270 | 160 | Fran Aaron-Ring |
+| 270 | 160 | kellie |
 | 271 | 160 | Frothy Pattern |
 | 272 | 159 | JoAnn Summerlot Ratliff |
 | 273 | 158 | Joseph Hunter |
@@ -283,11 +283,11 @@
 | 275 | 157 | Matthew Wilcox |
 | 276 | 157 | Tipsy Zonebuilder |
 | 277 | 157 | Baysoph |
-| 278 | 155 | Bonnie Powell |
+| 278 | 155 | Shayna Vaigneur-Hall |
 | 279 | 155 | Danny Frausto |
-| 280 | 155 | Shayna Vaigneur-Hall |
-| 281 | 154 | Karen Davis |
-| 282 | 154 | Lani |
+| 280 | 155 | Bonnie Powell |
+| 281 | 154 | Lani |
+| 282 | 154 | Karen Davis |
 | 283 | 152 | Samara Garcia |
 | 284 | 152 | Jumpy Builderpiece |
 | 285 | 151 | Troy Zanelli |

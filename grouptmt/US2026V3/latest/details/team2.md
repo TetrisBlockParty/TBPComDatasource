@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:28:17 UTC
+# Standings for team2 as of 2026-06-07 08:28:40 UTC
 
 **Total Participants:** 1680
 
@@ -74,7 +74,7 @@
 | 66 | 984 | Dane Marko |
 | 67 | 982 | Nawang Nawang |
 | 68 | 971 | Debra Henry |
-| 69 | 956 | Criccett Hooper-Smith |
+| 69 | 966 | Criccett Hooper-Smith |
 | 70 | 947 | Kvothe |
 | 71 | 921 | Block Dog |
 | 72 | 913 | Amber Salazar |
@@ -465,73 +465,73 @@
 | 457 | 112 | Kristen |
 | 458 | 111 | Joannah Capilitan |
 | 459 | 110 | Heather Billodeau |
-| 460 | 110 | LittleHippoEars |
-| 461 | 110 | Wendy Durrence Jones |
+| 460 | 110 | Zappy Liney |
+| 461 | 110 | LittleHippoEars |
 | 462 | 110 | Rachel M. Farnsworth |
-| 463 | 110 | Zappy Liney |
+| 463 | 110 | Wendy Durrence Jones |
 | 464 | 109 | Sillyk |
 | 465 | 109 | Partin |
 | 466 | 108 | Maurii93 |
 | 467 | 108 | Sherri Caillet Aucoin |
-| 468 | 107 | Stephanie Smith Robinson |
+| 468 | 107 | Carole Brown |
 | 469 | 107 | Cassandra Green |
 | 470 | 107 | Kenzie |
-| 471 | 107 | Carole Brown |
-| 472 | 107 | Boldy Fitclear |
+| 471 | 107 | Boldy Fitclear |
+| 472 | 107 | Stephanie Smith Robinson |
 | 473 | 107 | Sam Brewster |
 | 474 | 106 | Cassandra Milner |
 | 475 | 106 | Francesca Wagenhoffer |
 | 476 | 106 | Chummy Snapbuilder |
-| 477 | 105 | Michael Saunders |
-| 478 | 105 | Leigh Wilkerson |
-| 479 | 105 | Gabrielle Rivera |
-| 480 | 105 | Trisha Schneider |
-| 481 | 105 | Saucy Wrecker |
-| 482 | 105 | Candi Cane |
-| 483 | 104 | Earline Dupuy Bordelon |
-| 484 | 104 | Roe Sarmiento |
-| 485 | 103 | Elizabeth Kline |
-| 486 | 102 | Nicole Sides KrazyKoop |
-| 487 | 102 | Lively Curve |
+| 477 | 106 | Martha Lynn Wiggins |
+| 478 | 105 | Candi Cane |
+| 479 | 105 | Michael Saunders |
+| 480 | 105 | Leigh Wilkerson |
+| 481 | 105 | Gabrielle Rivera |
+| 482 | 105 | Trisha Schneider |
+| 483 | 105 | Saucy Wrecker |
+| 484 | 104 | Earline Dupuy Bordelon |
+| 485 | 104 | Roe Sarmiento |
+| 486 | 103 | Elizabeth Kline |
+| 487 | 102 | Nicole Sides KrazyKoop |
 | 488 | 102 | Alissa Ary |
-| 489 | 102 | Erin Moore Galloway |
+| 489 | 102 | Lively Curve |
 | 490 | 102 | Wendy Mcbride |
-| 491 | 101 | Jennifer Lalk |
-| 492 | 100 | Jessica Perkins |
-| 493 | 100 | Brenda Shannon |
-| 494 | 100 | Nicole Suber |
-| 495 | 100 | Alice Petterborg Barberich |
-| 496 | 100 | Mandy |
-| 497 | 100 | Gluten Gremlin |
-| 498 | 100 | Michael Carmichael |
-| 499 | 99 | Kaylene Rigas |
-| 500 | 99 | Melissa Abbott |
-| 501 | 98 | Justin McCray |
-| 502 | 98 | Mary Carriere |
-| 503 | 98 | Ashlee Johnson |
-| 504 | 98 | Lindsey Ross |
+| 491 | 102 | Erin Moore Galloway |
+| 492 | 101 | Jennifer Lalk |
+| 493 | 100 | Jessica Perkins |
+| 494 | 100 | Brenda Shannon |
+| 495 | 100 | Nicole Suber |
+| 496 | 100 | Alice Petterborg Barberich |
+| 497 | 100 | Mandy |
+| 498 | 100 | Gluten Gremlin |
+| 499 | 100 | Michael Carmichael |
+| 500 | 99 | Kaylene Rigas |
+| 501 | 99 | Melissa Abbott |
+| 502 | 98 | Justin McCray |
+| 503 | 98 | Mary Carriere |
+| 504 | 98 | Ashlee Johnson |
 | 505 | 98 | Sandy Rundel Holderman |
-| 506 | 97 | Adri Perez |
-| 507 | 97 | Donna Segletes Kay |
+| 506 | 98 | Lindsey Ross |
+| 507 | 97 | Sandra Pursell |
 | 508 | 97 | Tracy Tokarz |
-| 509 | 97 | Cozy Cascade |
-| 510 | 97 | Sandra Pursell |
-| 511 | 97 | Brooke Kaune |
-| 512 | 97 | Abby |
-| 513 | 96 | Katrien |
+| 509 | 97 | Abby |
+| 510 | 97 | Brooke Kaune |
+| 511 | 97 | Cozy Cascade |
+| 512 | 97 | Donna Segletes Kay |
+| 513 | 97 | Adri Perez |
 | 514 | 96 | Breezy |
 | 515 | 96 | Shawn Jensen |
-| 516 | 96 | IncrediDragon |
+| 516 | 96 | Brooklyn Todd |
 | 517 | 96 | Andrea Rawson |
-| 518 | 96 | Brooklyn Todd |
-| 519 | 95 | Ava Speedy |
+| 518 | 96 | IncrediDragon |
+| 519 | 96 | Katrien |
 | 520 | 95 | Leighla Davis |
-| 521 | 94 | Martha Lynn Wiggins |
-| 522 | 94 | Mandy Van Laningham Bishop |
-| 523 | 94 | MUMBLES |
-| 524 | 94 | Paige Lynette Sohl |
-| 525 | 93 | Hillary Frank |
-| 526 | 93 | Mataya |
+| 521 | 95 | Ava Speedy |
+| 522 | 94 | Paige Lynette Sohl |
+| 523 | 94 | Mandy Van Laningham Bishop |
+| 524 | 94 | MUMBLES |
+| 525 | 93 | Mataya |
+| 526 | 93 | Hillary Frank |
 | 527 | 93 | Cheery Tilefall |
 | 528 | 93 | Connie Breeden |
 | 529 | 92 | Belinda Gullion Austin |
