@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:52:19 UTC
+# Standings for team4 as of 2026-06-07 18:52:39 UTC
 
 **Total Participants:** 1574
 
@@ -131,9 +131,9 @@
 | 123 | 474 | Melissa WC |
 | 124 | 469 | Gigglycat |
 | 125 | 468 | Tina Shalay Hayes |
-| 126 | 461 | Cranky Towerbuilder |
-| 127 | 461 | Kayla Fuentes |
-| 128 | 460 | Ermadette |
+| 126 | 462 | Ermadette |
+| 127 | 461 | Cranky Towerbuilder |
+| 128 | 461 | Kayla Fuentes |
 | 129 | 457 | Lisa Garcia |
 | 130 | 452 | Sarah Berry Stevens |
 | 131 | 443 | Crissy Hoffman |
