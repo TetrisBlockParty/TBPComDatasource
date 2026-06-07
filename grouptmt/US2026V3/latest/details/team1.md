@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:34:18 UTC
+# Standings for team1 as of 2026-06-07 15:34:39 UTC
 
 **Total Participants:** 1494
 
@@ -158,74 +158,74 @@
 | 150 | 360 | Felicia Cain |
 | 151 | 353 | Lashaunda |
 | 152 | 351 | Uneekly Mayde |
-| 153 | 348 | LeeLee08 |
-| 154 | 348 | pooh |
+| 153 | 348 | pooh |
+| 154 | 348 | LeeLee08 |
 | 155 | 341 | Joey Albright |
 | 156 | 340 | Spicy Risepiece |
 | 157 | 339 | Ty Øtg |
 | 158 | 338 | Sheila Burnham |
 | 159 | 334 | Chuck Quarles |
 | 160 | 333 | La'Chae Nickole |
-| 161 | 331 | Tina Mitchell |
-| 162 | 331 | Simmone T. Kadiri |
+| 161 | 331 | Simmone T. Kadiri |
+| 162 | 331 | Tina Mitchell |
 | 163 | 330 | Jessica Russell |
 | 164 | 325 | Tishauna Virgo |
 | 165 | 320 | Tamara N Lee |
 | 166 | 318 | Mimi 1.0 |
-| 167 | 316 | Tammye Turner |
-| 168 | 315 | Nerdy Snapfall |
-| 169 | 312 | Michelle Titus |
-| 170 | 311 | Dee McCool |
-| 171 | 310 | Chantelle Lee |
-| 172 | 308 | Dena Marie Lee |
-| 173 | 307 | Therealdywoune Peay |
-| 174 | 306 | Devin West |
-| 175 | 304 | Calvin Green |
-| 176 | 303 | Roberta Lynn |
-| 177 | 300 | Atlantalindi |
-| 178 | 300 | David Fuentes |
-| 179 | 299 | IThinkNot |
+| 167 | 317 | Crystal Anderson |
+| 168 | 316 | Tammye Turner |
+| 169 | 315 | Nerdy Snapfall |
+| 170 | 312 | Michelle Titus |
+| 171 | 311 | Dee McCool |
+| 172 | 310 | Chantelle Lee |
+| 173 | 308 | Dena Marie Lee |
+| 174 | 307 | Therealdywoune Peay |
+| 175 | 306 | Devin West |
+| 176 | 304 | Calvin Green |
+| 177 | 303 | Roberta Lynn |
+| 178 | 300 | Atlantalindi |
+| 179 | 300 | David Fuentes |
 | 180 | 299 | Kenny MrOnethousand Peck |
-| 181 | 298 | Randizzle |
-| 182 | 298 | Byron Mario Cawthon |
-| 183 | 297 | Ebony |
-| 184 | 297 | Crystal Anderson |
-| 185 | 296 | Nikki Hogan |
-| 186 | 296 | Latisha Fairley |
+| 181 | 299 | IThinkNot |
+| 182 | 298 | Randizzle |
+| 183 | 298 | Byron Mario Cawthon |
+| 184 | 297 | Ebony |
+| 185 | 296 | NastyFriend |
+| 186 | 296 | Nikki Hogan |
 | 187 | 296 | Rolanda Williams |
-| 188 | 296 | NastyFriend |
+| 188 | 296 | Latisha Fairley |
 | 189 | 295 | Jayjay Rich |
-| 190 | 293 | Mic Balew |
-| 191 | 293 | Tonya Lee Sanders |
+| 190 | 293 | Tonya Lee Sanders |
+| 191 | 293 | Mic Balew |
 | 192 | 291 | Brian Taylor |
-| 193 | 290 | Frisky Fallmatch |
-| 194 | 290 | Kaleisha Smith |
+| 193 | 290 | Kaleisha Smith |
+| 194 | 290 | Frisky Fallmatch |
 | 195 | 290 | Eugina Slater |
 | 196 | 288 | Block King |
 | 197 | 287 | Rackemwillie34 |
-| 198 | 285 | Helen Smith |
-| 199 | 285 | Marcheta Cervantez |
-| 200 | 285 | Ashley MyBeauty Daniels |
+| 198 | 285 | Marcheta Cervantez |
+| 199 | 285 | Ashley MyBeauty Daniels |
+| 200 | 285 | Helen Smith |
 | 201 | 284 | Karebear |
 | 202 | 283 | BULLSEYE |
 | 203 | 282 | SyTheEvilGenius1 |
 | 204 | 281 | Po Marley |
 | 205 | 279 | Reginald Frank |
-| 206 | 278 | Alana Renee |
-| 207 | 278 | Sharon Cail |
+| 206 | 278 | Sharon Cail |
+| 207 | 278 | Alana Renee |
 | 208 | 277 | Rhonda Williams Warner |
 | 209 | 276 | Cortaz Lawrie |
 | 210 | 275 | Chris Sladoje |
 | 211 | 275 | Jawaun Daniels |
 | 212 | 272 | Katherine Short |
-| 213 | 270 | Salim Thugger |
-| 214 | 270 | xXEKUNXx |
+| 213 | 270 | xXEKUNXx |
+| 214 | 270 | Salim Thugger |
 | 215 | 269 | DaGuy |
 | 216 | 262 | Robbie Cheeseman |
-| 217 | 261 | Slim Shedidthat |
-| 218 | 261 | Jhonny Maii |
-| 219 | 260 | Natasha Rucker |
-| 220 | 260 | Ketrell Bailey |
+| 217 | 261 | Jhonny Maii |
+| 218 | 261 | Slim Shedidthat |
+| 219 | 260 | Ketrell Bailey |
+| 220 | 260 | Natasha Rucker |
 | 221 | 259 | Brave Clearbuilder |
 | 222 | 257 | Cathy Young |
 | 223 | 257 | Mafio SO |
@@ -236,16 +236,16 @@
 | 228 | 250 | Penee Wiggins |
 | 229 | 250 | Davionte DaeDae Hopson-Rodriguez |
 | 230 | 249 | Falisa Bell |
-| 231 | 248 | Yasmin Nakea Wright |
-| 232 | 248 | Jazzy Fireflighters |
+| 231 | 248 | Jazzy Fireflighters |
+| 232 | 248 | Yasmin Nakea Wright |
 | 233 | 246 | Denise B |
 | 234 | 245 | Zachary Colegrove |
-| 235 | 245 | Derrius SeriousLee Burks |
-| 236 | 245 | Bre Poston |
-| 237 | 244 | Teddy Davis |
-| 238 | 244 | Frisky Fall |
-| 239 | 240 | Rayya Kiser |
-| 240 | 240 | Chilly Wipebuilder |
+| 235 | 245 | Bre Poston |
+| 236 | 245 | Derrius SeriousLee Burks |
+| 237 | 244 | Frisky Fall |
+| 238 | 244 | Teddy Davis |
+| 239 | 240 | Chilly Wipebuilder |
+| 240 | 240 | Rayya Kiser |
 | 241 | 239 | ♈️ Ariesbaby |
 | 242 | 238 | Queenie Perry |
 | 243 | 236 | Amber Wilson |

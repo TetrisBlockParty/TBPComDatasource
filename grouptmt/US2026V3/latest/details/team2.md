@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 15:34:18 UTC
+# Standings for team2 as of 2026-06-07 15:34:39 UTC
 
 **Total Participants:** 1791
 
@@ -201,9 +201,9 @@
 | 193 | 342 | Bri St Peter |
 | 194 | 339 | Loopy Curvebuilder |
 | 195 | 336 | Ratchet |
-| 196 | 333 | Snappy Blockbuilder |
-| 197 | 333 | Christina Maria |
-| 198 | 329 | Danielle Blount |
+| 196 | 334 | Danielle Blount |
+| 197 | 333 | Snappy Blockbuilder |
+| 198 | 333 | Christina Maria |
 | 199 | 328 | Keri Mears |
 | 200 | 328 | Tim Tim |
 | 201 | 326 | Jat |
@@ -713,9 +713,9 @@
 | 705 | 81 | Robin Stutler |
 | 706 | 81 | Squared |
 | 707 | 81 | Paula |
-| 708 | 80 | Patty Sparkman |
-| 709 | 80 | Ramona Guillermo |
-| 710 | 80 | Cody Gates |
+| 708 | 80 | Ramona Guillermo |
+| 709 | 80 | Cody Gates |
+| 710 | 80 | Patty Sparkman |
 | 711 | 80 | Tami Leontyuk |
 | 712 | 80 | Cory Lynn |
 | 713 | 80 | Michelle Anne |
@@ -805,9 +805,9 @@
 | 797 | 70 | Abby Dexter |
 | 798 | 70 | Ava Taber |
 | 799 | 70 | Doug Small |
-| 800 | 70 | Lori |
-| 801 | 70 | Ques Pryor |
-| 802 | 70 | TheAggie12 |
+| 800 | 70 | Ques Pryor |
+| 801 | 70 | TheAggie12 |
+| 802 | 70 | Lori |
 | 803 | 69 | DragonJB2020 |
 | 804 | 69 | Mona Wagner |
 | 805 | 69 | Aubrey Gates |
@@ -896,10 +896,10 @@
 | 888 | 60 | Donutz |
 | 889 | 60 | Sharilyn Jackson |
 | 890 | 60 | Brandi Williams |
-| 891 | 60 | Audrey Morris |
-| 892 | 60 | Scott Lyles |
-| 893 | 60 | Tiffany Lewis |
-| 894 | 60 | MattandAngie Hopkins |
+| 891 | 60 | MattandAngie Hopkins |
+| 892 | 60 | Tiffany Lewis |
+| 893 | 60 | Audrey Morris |
+| 894 | 60 | Scott Lyles |
 | 895 | 59 | Nerdy Gridlock |
 | 896 | 59 | Carrie Smith Negron |
 | 897 | 59 | Carmina Truoiolo |
@@ -1017,9 +1017,9 @@
 | 1009 | 50 | Debra May |
 | 1010 | 50 | Tracy Coe |
 | 1011 | 50 | Jami Borges |
-| 1012 | 50 | himesamayuki77 |
+| 1012 | 50 | Samantha Rhone |
 | 1013 | 50 | Hannah Meadows Hammond |
-| 1014 | 50 | Samantha Rhone |
+| 1014 | 50 | himesamayuki77 |
 | 1015 | 49 | James Maness |
 | 1016 | 49 | Laura Fagans |
 | 1017 | 49 | jme |
@@ -1034,52 +1034,52 @@
 | 1026 | 48 | Laura Zavala |
 | 1027 | 48 | Dizzy Dropzone |
 | 1028 | 48 | Ollie |
-| 1029 | 48 | Melissa Mae |
-| 1030 | 47 | Sara Moericke |
-| 1031 | 47 | Suzanne Davis |
-| 1032 | 47 | Emily |
-| 1033 | 47 | Alexis Meyers |
-| 1034 | 47 | Christina Whitehead |
-| 1035 | 47 | Lisa Rose |
-| 1036 | 47 | Mandeee |
-| 1037 | 47 | Goofy Bridger |
-| 1038 | 47 | Spicy Enchilada |
-| 1039 | 47 | Rae |
-| 1040 | 47 | Frothy Zonebuilder |
-| 1041 | 47 | Ozge Akgun Tokat |
-| 1042 | 46 | Dani Newton |
-| 1043 | 46 | Denise Morehart |
-| 1044 | 46 | shell |
-| 1045 | 46 | Giggly Buildgrid |
-| 1046 | 46 | Thomas Chris |
-| 1047 | 46 | Shannon Vanlester |
-| 1048 | 46 | Matthew Black |
-| 1049 | 46 | Tabitha Ann Bullins-Cobb |
-| 1050 | 46 | Chill Clearbuilder |
-| 1051 | 46 | Brittany Nichole Ellenburg |
-| 1052 | 46 | Collins |
-| 1053 | 46 | Kalli Bonin |
-| 1054 | 45 | Giggy Snapper |
-| 1055 | 45 | Witty Brickster |
-| 1056 | 45 | Chatty |
-| 1057 | 45 | Nora Buchan |
-| 1058 | 45 | Thomas Johnstone |
-| 1059 | 45 | C.L. Deslongchamp |
-| 1060 | 45 | Chill Wipegrid |
-| 1061 | 45 | SaraAnn Gray Philbrick |
-| 1062 | 45 | Linzy Ratliff |
-| 1063 | 45 | Breanna Dykes |
-| 1064 | 44 | Cuca Perez |
-| 1065 | 44 | Jenna Thorn |
-| 1066 | 44 | Blocker |
-| 1067 | 44 | Katie Boen |
-| 1068 | 44 | Kassie D Harmon |
-| 1069 | 44 | Cathy Lee Stoneking |
-| 1070 | 44 | Nicole Dyer |
-| 1071 | 44 | Robert W Schwartz |
-| 1072 | 44 | Dandy Column |
-| 1073 | 44 | Jackie Moran Tiller |
-| 1074 | 44 | Heather Nicole |
+| 1029 | 48 | Heather Nicole |
+| 1030 | 48 | Melissa Mae |
+| 1031 | 47 | Sara Moericke |
+| 1032 | 47 | Suzanne Davis |
+| 1033 | 47 | Emily |
+| 1034 | 47 | Alexis Meyers |
+| 1035 | 47 | Christina Whitehead |
+| 1036 | 47 | Lisa Rose |
+| 1037 | 47 | Mandeee |
+| 1038 | 47 | Goofy Bridger |
+| 1039 | 47 | Spicy Enchilada |
+| 1040 | 47 | Rae |
+| 1041 | 47 | Frothy Zonebuilder |
+| 1042 | 47 | Ozge Akgun Tokat |
+| 1043 | 46 | Dani Newton |
+| 1044 | 46 | Denise Morehart |
+| 1045 | 46 | shell |
+| 1046 | 46 | Giggly Buildgrid |
+| 1047 | 46 | Thomas Chris |
+| 1048 | 46 | Shannon Vanlester |
+| 1049 | 46 | Matthew Black |
+| 1050 | 46 | Tabitha Ann Bullins-Cobb |
+| 1051 | 46 | Chill Clearbuilder |
+| 1052 | 46 | Brittany Nichole Ellenburg |
+| 1053 | 46 | Collins |
+| 1054 | 46 | Kalli Bonin |
+| 1055 | 45 | Giggy Snapper |
+| 1056 | 45 | Witty Brickster |
+| 1057 | 45 | Chatty |
+| 1058 | 45 | Nora Buchan |
+| 1059 | 45 | Thomas Johnstone |
+| 1060 | 45 | C.L. Deslongchamp |
+| 1061 | 45 | Chill Wipegrid |
+| 1062 | 45 | SaraAnn Gray Philbrick |
+| 1063 | 45 | Linzy Ratliff |
+| 1064 | 45 | Breanna Dykes |
+| 1065 | 44 | Cuca Perez |
+| 1066 | 44 | Jenna Thorn |
+| 1067 | 44 | Blocker |
+| 1068 | 44 | Katie Boen |
+| 1069 | 44 | Kassie D Harmon |
+| 1070 | 44 | Cathy Lee Stoneking |
+| 1071 | 44 | Nicole Dyer |
+| 1072 | 44 | Robert W Schwartz |
+| 1073 | 44 | Dandy Column |
+| 1074 | 44 | Jackie Moran Tiller |
 | 1075 | 43 | Kayla Faulkiner |
 | 1076 | 43 | Kourtney Heiden-Hudson |
 | 1077 | 43 | Betty Muise |
@@ -1096,8 +1096,8 @@
 | 1088 | 42 | MJLovesHer#OneMistake |
 | 1089 | 42 | Shylo Bryant-Brunson |
 | 1090 | 42 | Jolly Balanceblock |
-| 1091 | 42 | Christopher S Lawyer |
-| 1092 | 42 | Lori Antrim Nichols |
+| 1091 | 42 | Lori Antrim Nichols |
+| 1092 | 42 | Christopher S Lawyer |
 | 1093 | 41 | Jenifer Seeley |
 | 1094 | 41 | Steve Eakins |
 | 1095 | 41 | KS Hengesbach |
@@ -1138,9 +1138,9 @@
 | 1130 | 40 | Ariya Colson |
 | 1131 | 40 | Patty Ann Hendrickson |
 | 1132 | 40 | Deezie |
-| 1133 | 40 | Heather Klaus |
+| 1133 | 40 | Giddy Climber |
 | 1134 | 40 | Michelle Brown |
-| 1135 | 40 | Giddy Climber |
+| 1135 | 40 | Heather Klaus |
 | 1136 | 39 | Catey Salazar |
 | 1137 | 39 | Crafty Shatterer |
 | 1138 | 39 | Kristen Alta |
@@ -1198,9 +1198,9 @@
 | 1190 | 36 | Deborah Lint Odom |
 | 1191 | 36 | Slinky Linkgrid |
 | 1192 | 36 | Bobbie Carrol |
-| 1193 | 36 | Megan McDevitt |
+| 1193 | 36 | October Fitch |
 | 1194 | 36 | Jessi Ann |
-| 1195 | 36 | October Fitch |
+| 1195 | 36 | Megan McDevitt |
 | 1196 | 35 | Chris Wilber |
 | 1197 | 35 | RaeRae |
 | 1198 | 35 | Jstang |
