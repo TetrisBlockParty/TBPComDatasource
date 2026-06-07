@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:12:39 UTC
+# Standings for team4 as of 2026-06-07 09:13:19 UTC
 
 **Total Participants:** 1426
 
@@ -172,32 +172,32 @@
 | 164 | 285 | TRUCHILD777$$$ |
 | 165 | 282 | Nicole |
 | 166 | 281 | Margie Thomas |
-| 167 | 280 | Slimm |
+| 167 | 281 | Misty Leigh |
 | 168 | 280 | Suzanne Carter |
-| 169 | 279 | Iforget |
-| 170 | 279 | Brick House |
-| 171 | 277 | Giggly Tilt |
-| 172 | 273 | Danielle Mitchell |
-| 173 | 270 | Jojo Ann |
-| 174 | 269 | Scamp Jones |
-| 175 | 268 | Megan Vick |
-| 176 | 267 | QueenLi86 |
-| 177 | 262 | squareMel |
-| 178 | 261 | Gracie Ornelas |
-| 179 | 261 | Waxboss |
-| 180 | 259 | Jessica Peyton |
-| 181 | 253 | Tammy June |
-| 182 | 248 | Perky Riserbuilder |
-| 183 | 247 | LastBoi |
-| 184 | 247 | Maria Castillo |
-| 185 | 245 | Lucy Honer |
-| 186 | 244 | matt |
-| 187 | 242 | Shepreneur Sade |
-| 188 | 242 | Danny Ortiz |
-| 189 | 241 | Lush Fitblock |
-| 190 | 241 | Alma López Morales |
-| 191 | 241 | Tawna Curry |
-| 192 | 241 | Misty Leigh |
+| 169 | 280 | Slimm |
+| 170 | 279 | Iforget |
+| 171 | 279 | Brick House |
+| 172 | 277 | Giggly Tilt |
+| 173 | 273 | Danielle Mitchell |
+| 174 | 270 | Jojo Ann |
+| 175 | 269 | Scamp Jones |
+| 176 | 268 | Megan Vick |
+| 177 | 267 | QueenLi86 |
+| 178 | 262 | squareMel |
+| 179 | 261 | Gracie Ornelas |
+| 180 | 261 | Waxboss |
+| 181 | 259 | Jessica Peyton |
+| 182 | 253 | Tammy June |
+| 183 | 248 | Perky Riserbuilder |
+| 184 | 247 | LastBoi |
+| 185 | 247 | Maria Castillo |
+| 186 | 245 | Lucy Honer |
+| 187 | 244 | matt |
+| 188 | 242 | Shepreneur Sade |
+| 189 | 242 | Danny Ortiz |
+| 190 | 241 | Lush Fitblock |
+| 191 | 241 | Alma López Morales |
+| 192 | 241 | Tawna Curry |
 | 193 | 237 | Anna Gribble |
 | 194 | 236 | BusterBear56 |
 | 195 | 236 | Becky McCool |
@@ -278,8 +278,8 @@
 | 270 | 161 | Bouncy |
 | 271 | 160 | kellie |
 | 272 | 160 | Fran Aaron-Ring |
-| 273 | 160 | Morgan Stevens |
-| 274 | 160 | Frothy Pattern |
+| 273 | 160 | Frothy Pattern |
+| 274 | 160 | Morgan Stevens |
 | 275 | 159 | JoAnn Summerlot Ratliff |
 | 276 | 159 | Logan Two-dubs Baker |
 | 277 | 158 | Joseph Hunter |
@@ -307,8 +307,8 @@
 | 299 | 144 | Dapper Strikerpiece |
 | 300 | 143 | Brennan Shea Greene |
 | 301 | 142 | Rachel Lemos |
-| 302 | 142 | Chris McBlockster |
-| 303 | 142 | Nerdy Faller |
+| 302 | 142 | Nerdy Faller |
+| 303 | 142 | Chris McBlockster |
 | 304 | 141 | Chilly Pivot |
 | 305 | 141 | JuicyJuice |
 | 306 | 141 | Justin Michael |
@@ -615,36 +615,36 @@
 | 607 | 67 | Glittara |
 | 608 | 67 | SueSally |
 | 609 | 67 | Wacky Snaplink |
-| 610 | 67 | Playful Raccoon |
-| 611 | 67 | Mc3003 |
-| 612 | 67 | Peterson Cottontail |
-| 613 | 67 | Noa Lee |
-| 614 | 67 | Ashley DuVall |
-| 615 | 67 | Snappy Stack |
-| 616 | 66 | chefjaydawg |
-| 617 | 66 | Mann Manson |
-| 618 | 66 | Joyce Hampton |
-| 619 | 66 | Dapper Tiltpiece |
-| 620 | 66 | Jennifer Brucz |
-| 621 | 66 | james |
-| 622 | 65 | Rocky |
-| 623 | 65 | Tony Clark |
-| 624 | 65 | Lacie Powers |
-| 625 | 65 | Genger |
-| 626 | 65 | Yvette Johnson |
-| 627 | 65 | Deborah Ayliffe |
-| 628 | 65 | Knijur Callins |
-| 629 | 65 | Cranky Twistpiece |
-| 630 | 65 | Dinah Mccall |
-| 631 | 65 | Breezy Wife |
-| 632 | 65 | Monte Smith |
-| 633 | 65 | Youngkueen |
-| 634 | 65 | Lovetetris |
-| 635 | 65 | Jailen Harper |
-| 636 | 65 | Gabby Simones |
-| 637 | 64 | Mmm |
-| 638 | 64 | Giggy Risegrid |
-| 639 | 64 | Clever Brickzone |
+| 610 | 67 | Clever Brickzone |
+| 611 | 67 | Playful Raccoon |
+| 612 | 67 | Mc3003 |
+| 613 | 67 | Peterson Cottontail |
+| 614 | 67 | Noa Lee |
+| 615 | 67 | Ashley DuVall |
+| 616 | 67 | Snappy Stack |
+| 617 | 66 | chefjaydawg |
+| 618 | 66 | Mann Manson |
+| 619 | 66 | Joyce Hampton |
+| 620 | 66 | Dapper Tiltpiece |
+| 621 | 66 | Jennifer Brucz |
+| 622 | 66 | james |
+| 623 | 65 | Rocky |
+| 624 | 65 | Tony Clark |
+| 625 | 65 | Lacie Powers |
+| 626 | 65 | Genger |
+| 627 | 65 | Yvette Johnson |
+| 628 | 65 | Deborah Ayliffe |
+| 629 | 65 | Knijur Callins |
+| 630 | 65 | Cranky Twistpiece |
+| 631 | 65 | Dinah Mccall |
+| 632 | 65 | Breezy Wife |
+| 633 | 65 | Monte Smith |
+| 634 | 65 | Youngkueen |
+| 635 | 65 | Lovetetris |
+| 636 | 65 | Jailen Harper |
+| 637 | 65 | Gabby Simones |
+| 638 | 64 | Mmm |
+| 639 | 64 | Giggy Risegrid |
 | 640 | 64 | Surviving Be Back Soon |
 | 641 | 64 | MamaC |
 | 642 | 64 | Nicole Ambrose |
