@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 16:08:42 UTC
+# Standings for team2 as of 2026-06-07 16:09:19 UTC
 
 **Total Participants:** 1800
 
@@ -106,9 +106,9 @@
 | 98 | 802 | Charley Bedford |
 | 99 | 800 | LEW |
 | 100 | 794 | Deborah Boyce Minor |
-| 101 | 775 | Smiley Dropper |
-| 102 | 774 | Sarah Griffey |
-| 103 | 760 | Suki Kaur |
+| 101 | 780 | Suki Kaur |
+| 102 | 775 | Smiley Dropper |
+| 103 | 774 | Sarah Griffey |
 | 104 | 760 | haune |
 | 105 | 756 | snowwol |
 | 106 | 750 | Denise Potter |
@@ -414,22 +414,22 @@
 | 406 | 158 | Meagan Grimmett Washburn |
 | 407 | 156 | Robin G |
 | 408 | 156 | Charlotte Castelli |
-| 409 | 156 | Aurora June Brock |
-| 410 | 156 | meg |
-| 411 | 156 | TetrisMama |
-| 412 | 156 | Tango Sierra |
-| 413 | 155 | Adriana Daniela Agapie |
-| 414 | 154 | murd3rmous3 |
-| 415 | 154 | Belle |
-| 416 | 153 | Jumpy Dashpiece |
-| 417 | 153 | Gabrielle Wilson |
-| 418 | 153 | Cortney Coleman |
-| 419 | 152 | Cindy Scott |
-| 420 | 151 | Amy Lea Hamilton |
-| 421 | 150 | Plucky Grabber |
+| 409 | 156 | Tango Sierra |
+| 410 | 156 | Aurora June Brock |
+| 411 | 156 | meg |
+| 412 | 156 | TetrisMama |
+| 413 | 155 | Crystal Poss |
+| 414 | 155 | Adriana Daniela Agapie |
+| 415 | 154 | murd3rmous3 |
+| 416 | 154 | Belle |
+| 417 | 153 | Cortney Coleman |
+| 418 | 153 | Gabrielle Wilson |
+| 419 | 153 | Jumpy Dashpiece |
+| 420 | 152 | Cindy Scott |
+| 421 | 151 | Amy Lea Hamilton |
 | 422 | 150 | Gluten Gremlin |
-| 423 | 150 | Tina |
-| 424 | 150 | Crystal Poss |
+| 423 | 150 | Plucky Grabber |
+| 424 | 150 | Tina |
 | 425 | 150 | Marylin Eacker |
 | 426 | 149 | Jenni LeBlanc |
 | 427 | 148 | Hillary Frank |
@@ -793,32 +793,32 @@
 | 785 | 71 | Sandy Lynn |
 | 786 | 71 | Kiersty Redder |
 | 787 | 71 | Jennifer Leigh |
-| 788 | 71 | Jolly Twisterfit |
-| 789 | 71 | Patrick Ohanlon |
-| 790 | 71 | John C Morrison |
-| 791 | 71 | Yari |
-| 792 | 71 | Carebear05 |
-| 793 | 70 | Peter Fogg |
+| 788 | 71 | Peter Fogg |
+| 789 | 71 | Jolly Twisterfit |
+| 790 | 71 | Patrick Ohanlon |
+| 791 | 71 | John C Morrison |
+| 792 | 71 | Yari |
+| 793 | 71 | Carebear05 |
 | 794 | 70 | Michelle Fry-Cash |
-| 795 | 70 | Giggy Linkgrid |
-| 796 | 70 | Momi Kamohai |
-| 797 | 70 | Christi Hooper |
-| 798 | 70 | Abby Dexter |
-| 799 | 70 | Amy D Coble |
-| 800 | 70 | Stazy Warner |
-| 801 | 70 | Brenda Zona |
-| 802 | 70 | Christina Reid |
-| 803 | 70 | Melissa Clogher White |
-| 804 | 70 | Patti Ward |
-| 805 | 70 | Teea Makensi Meyer |
-| 806 | 70 | Jennifer Lewellyn Hutchins |
+| 795 | 70 | Elnaz Mokleh |
+| 796 | 70 | Giggy Linkgrid |
+| 797 | 70 | Momi Kamohai |
+| 798 | 70 | Christi Hooper |
+| 799 | 70 | Abby Dexter |
+| 800 | 70 | Amy D Coble |
+| 801 | 70 | Stazy Warner |
+| 802 | 70 | Brenda Zona |
+| 803 | 70 | Christina Reid |
+| 804 | 70 | Melissa Clogher White |
+| 805 | 70 | Jennifer Lewellyn Hutchins |
+| 806 | 70 | Teea Makensi Meyer |
 | 807 | 70 | Ava Taber |
 | 808 | 70 | Elizabeth Henry |
 | 809 | 70 | Doug Small |
-| 810 | 70 | Duck |
-| 811 | 70 | Cassafrass |
-| 812 | 70 | Andrea Spinelli |
-| 813 | 70 | Elnaz Mokleh |
+| 810 | 70 | Patti Ward |
+| 811 | 70 | Duck |
+| 812 | 70 | Cassafrass |
+| 813 | 70 | Andrea Spinelli |
 | 814 | 70 | TheAggie12 |
 | 815 | 70 | Lori |
 | 816 | 70 | Ques Pryor |
