@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:06:18 UTC
+# Standings for team4 as of 2026-06-07 10:06:42 UTC
 
 **Total Participants:** 1439
 
@@ -24,7 +24,7 @@
 | 16 | 3797 | Hanan Hana |
 | 17 | 3784 | Tyra Brooke Everman Forest |
 | 18 | 3776 | Dana Smith |
-| 19 | 3743 | Bubbly Twistpiece |
+| 19 | 3748 | Bubbly Twistpiece |
 | 20 | 3701 | BertaF1irta |
 | 21 | 3667 | Daring Ziggy |
 | 22 | 3643 | Jackie Lucas |
@@ -171,7 +171,7 @@
 | 163 | 291 | shawna |
 | 164 | 289 | Chiquita Blue |
 | 165 | 286 | matt |
-| 166 | 285 | Maria Castillo |
+| 166 | 286 | Maria Castillo |
 | 167 | 285 | TRUCHILD777$$$ |
 | 168 | 283 | Scamp Jones |
 | 169 | 282 | Nicole |
@@ -313,12 +313,12 @@
 | 305 | 142 | Rachel Lemos |
 | 306 | 142 | Chris McBlockster |
 | 307 | 141 | Justin Michael |
-| 308 | 141 | Chilly Pivot |
-| 309 | 141 | JuicyJuice |
-| 310 | 140 | Billy Baker |
-| 311 | 139 | Name |
-| 312 | 138 | Rose Anna Safi |
-| 313 | 138 | Dawn Phelps |
+| 308 | 141 | Dawn Phelps |
+| 309 | 141 | Chilly Pivot |
+| 310 | 141 | JuicyJuice |
+| 311 | 140 | Billy Baker |
+| 312 | 139 | Name |
+| 313 | 138 | Rose Anna Safi |
 | 314 | 138 | Tina Thomas |
 | 315 | 138 | Cindy |
 | 316 | 137 | Deborah Silberg |
@@ -440,17 +440,17 @@
 | 432 | 99 | Chirpy Snapclear |
 | 433 | 99 | Tamika Ashli Bonner |
 | 434 | 99 | Melissa Quinn |
-| 435 | 98 | Deva Marie Barber |
-| 436 | 98 | Jacqueline Arce |
-| 437 | 98 | Mark Fitch Jr. |
-| 438 | 98 | katy |
-| 439 | 97 | Dawn Marie Trujillo |
-| 440 | 97 | Betsy Froemming |
-| 441 | 97 | SupaFly |
-| 442 | 97 | Jace McCullough |
+| 435 | 99 | Jace McCullough |
+| 436 | 98 | Deva Marie Barber |
+| 437 | 98 | Jacqueline Arce |
+| 438 | 98 | Mark Fitch Jr. |
+| 439 | 98 | katy |
+| 440 | 97 | Dawn Marie Trujillo |
+| 441 | 97 | Betsy Froemming |
+| 442 | 97 | SupaFly |
 | 443 | 96 | Cheeky Fallzone |
-| 444 | 96 | Diana Fernandez |
-| 445 | 96 | Jennifer Garcia |
+| 444 | 96 | Jennifer Garcia |
+| 445 | 96 | Diana Fernandez |
 | 446 | 96 | Scrumptious |
 | 447 | 96 | Nessa Smith |
 | 448 | 95 | Tiffany Roberts |
