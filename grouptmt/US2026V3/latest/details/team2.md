@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 15:56:18 UTC
+# Standings for team2 as of 2026-06-07 15:56:41 UTC
 
 **Total Participants:** 1796
 
@@ -12,7 +12,7 @@
 | 4 | 9827 | Crystalin Heath Lewis |
 | 5 | 9576 | Jason Wood |
 | 6 | 8775 | A.j. Langley |
-| 7 | 8290 | Mocha |
+| 7 | 8484 | Mocha |
 | 8 | 7687 | Lacey Nolting |
 | 9 | 7000 | Crafty Ziggy |
 | 10 | 6282 | Christina Shell |
@@ -160,7 +160,7 @@
 | 152 | 462 | Cool Balancer |
 | 153 | 458 | Kaycie Shaffer |
 | 154 | 453 | Kimberly Cowan |
-| 155 | 440 | Zarah Kettler |
+| 155 | 446 | Zarah Kettler |
 | 156 | 438 | Michelle Rich Burkhart |
 | 157 | 436 | MegaPooh |
 | 158 | 436 | Gill |
@@ -388,17 +388,17 @@
 | 380 | 166 | Katie Jones |
 | 381 | 166 | Melmel |
 | 382 | 165 | Sandy Justus |
-| 383 | 164 | Sillyk |
-| 384 | 164 | Loopy Tower |
-| 385 | 164 | Cara Rivera |
-| 386 | 164 | Elliott Mikila |
-| 387 | 164 | Aldotfus Williams |
-| 388 | 163 | Zany Cascader |
-| 389 | 163 | Rosalie Call Kehlenbeck |
-| 390 | 163 | Joannah Capilitan |
-| 391 | 162 | Ashley Voelz |
-| 392 | 162 | Wacky Holder |
-| 393 | 162 | Jacquelyn Snyder Dumas |
+| 383 | 165 | Jacquelyn Snyder Dumas |
+| 384 | 164 | Sillyk |
+| 385 | 164 | Loopy Tower |
+| 386 | 164 | Cara Rivera |
+| 387 | 164 | Elliott Mikila |
+| 388 | 164 | Aldotfus Williams |
+| 389 | 163 | Zany Cascader |
+| 390 | 163 | Rosalie Call Kehlenbeck |
+| 391 | 163 | Joannah Capilitan |
+| 392 | 162 | Ashley Voelz |
+| 393 | 162 | Wacky Holder |
 | 394 | 161 | Rydin Dirt |
 | 395 | 161 | Silly Tiltbuilder |
 | 396 | 160 | Jamin |
@@ -966,22 +966,22 @@
 | 958 | 55 | Teloney Humphrey |
 | 959 | 55 | Misty McElroy |
 | 960 | 55 | BrendaLee NolanBos |
-| 961 | 55 | BB |
-| 962 | 55 | Tish |
-| 963 | 55 | Joanne Haynes |
-| 964 | 54 | Melissa Mae |
-| 965 | 54 | Jess Duehring |
-| 966 | 54 | Christina Nycol |
-| 967 | 54 | Josie Mendivil |
-| 968 | 54 | Rae Madewell |
-| 969 | 54 | WhitS |
-| 970 | 54 | Ashley Diana |
-| 971 | 53 | Maithan Conour |
-| 972 | 53 | Dawn Marie |
-| 973 | 53 | CK Hancock |
-| 974 | 53 | Jeannine Murphy |
-| 975 | 53 | Topknot13 |
-| 976 | 53 | KS Hengesbach |
+| 961 | 55 | KS Hengesbach |
+| 962 | 55 | BB |
+| 963 | 55 | Tish |
+| 964 | 55 | Joanne Haynes |
+| 965 | 54 | Melissa Mae |
+| 966 | 54 | Jess Duehring |
+| 967 | 54 | Christina Nycol |
+| 968 | 54 | Josie Mendivil |
+| 969 | 54 | Rae Madewell |
+| 970 | 54 | WhitS |
+| 971 | 54 | Ashley Diana |
+| 972 | 53 | Maithan Conour |
+| 973 | 53 | Dawn Marie |
+| 974 | 53 | CK Hancock |
+| 975 | 53 | Jeannine Murphy |
+| 976 | 53 | Topknot13 |
 | 977 | 53 | Frisky Linkmatch |
 | 978 | 53 | Pamela Gambrell |
 | 979 | 53 | Peppy Piececlear |
