@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:12:41 UTC
+# Standings for team2 as of 2026-06-07 07:13:20 UTC
 
 **Total Participants:** 1667
 
@@ -46,11 +46,11 @@
 | 38 | 2133 | Frisky Balanceblock |
 | 39 | 2032 | Andrew Weissenborn |
 | 40 | 1906 | Jennifer Corder |
-| 41 | 1841 | Frilly Match |
-| 42 | 1835 | Elizabeth Mooney |
-| 43 | 1820 | Tom Badgley |
-| 44 | 1803 | Julie Trede Amerson |
-| 45 | 1736 | Andre Love |
+| 41 | 1898 | Andre Love |
+| 42 | 1841 | Frilly Match |
+| 43 | 1835 | Elizabeth Mooney |
+| 44 | 1820 | Tom Badgley |
+| 45 | 1803 | Julie Trede Amerson |
 | 46 | 1692 | Matt Hardin |
 | 47 | 1678 | Betty Barrett |
 | 48 | 1657 | Heather Marie-Tarlton Britt |
@@ -75,7 +75,7 @@
 | 67 | 956 | Criccett Hooper-Smith |
 | 68 | 947 | Kvothe |
 | 69 | 921 | Block Dog |
-| 70 | 904 | Amber Salazar |
+| 70 | 907 | Amber Salazar |
 | 71 | 882 | Lisa Breiding |
 | 72 | 864 | Helen Thomas |
 | 73 | 861 | Marquita Toliver |
@@ -270,19 +270,19 @@
 | 262 | 209 | Patria Osuoha |
 | 263 | 209 | Chill Line |
 | 264 | 207 | Amber Cogdill |
-| 265 | 206 | Liseth Vasquez |
-| 266 | 206 | Jodi Johnson |
-| 267 | 205 | Karly Moore |
-| 268 | 205 | Melisa |
-| 269 | 201 | Lyric Price |
+| 265 | 206 | Jodi Johnson |
+| 266 | 206 | Liseth Vasquez |
+| 267 | 206 | Lyric Price |
+| 268 | 205 | Karly Moore |
+| 269 | 205 | Melisa |
 | 270 | 201 | Danielle Pack Lewellen |
 | 271 | 201 | Jeffrey Smith |
 | 272 | 201 | Melissa Nash |
-| 273 | 200 | Sarah Grundisch |
-| 274 | 200 | Eric Wayne Maschman |
+| 273 | 200 | Eric Wayne Maschman |
+| 274 | 200 | August Christy Lathrop |
 | 275 | 200 | Al Smith Jr |
-| 276 | 200 | August Christy Lathrop |
-| 277 | 200 | Physhie |
+| 276 | 200 | Physhie |
+| 277 | 200 | Sarah Grundisch |
 | 278 | 200 | Nathan Walker |
 | 279 | 200 | ShiverMeSplinter |
 | 280 | 200 | Tony Medina |
@@ -1604,13 +1604,13 @@
 | 1596 | 8 | Beth Engberg |
 | 1597 | 8 | Loony Ziggy |
 | 1598 | 8 | Chill Racker |
-| 1599 | 8 | Cherry L. Salama |
-| 1600 | 7 | Collins |
-| 1601 | 7 | bluesky |
-| 1602 | 7 | Mighty Tiltpiece |
-| 1603 | 7 | Charity Black |
-| 1604 | 7 | Sasha Hamilton |
-| 1605 | 7 | Perky Party |
+| 1599 | 8 | Perky Party |
+| 1600 | 8 | Cherry L. Salama |
+| 1601 | 7 | Collins |
+| 1602 | 7 | bluesky |
+| 1603 | 7 | Mighty Tiltpiece |
+| 1604 | 7 | Charity Black |
+| 1605 | 7 | Sasha Hamilton |
 | 1606 | 7 | Holly Riley |
 | 1607 | 7 | Kyle |
 | 1608 | 7 | Nikki Layman |
