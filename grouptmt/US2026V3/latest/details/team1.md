@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:30:18 UTC
+# Standings for team1 as of 2026-06-07 03:30:41 UTC
 
 **Total Participants:** 1319
 
@@ -368,11 +368,11 @@
 | 360 | 104 | Tyiesha Pie Farmer |
 | 361 | 103 | Lynnette WheelerBushnell |
 | 362 | 102 | Maribel Vasquez |
-| 363 | 102 | Sarah Steckbauer |
-| 364 | 101 | HarleyJane |
-| 365 | 101 | Mommy Frank |
-| 366 | 101 | Joana Thompson |
-| 367 | 101 | Peppy Glider |
+| 363 | 102 | Peppy Glider |
+| 364 | 102 | Sarah Steckbauer |
+| 365 | 101 | HarleyJane |
+| 366 | 101 | Mommy Frank |
+| 367 | 101 | Joana Thompson |
 | 368 | 100 | Kennedi Brazziel |
 | 369 | 100 | Mary Phillippi Blanton |
 | 370 | 100 | Natasha Rucker |
