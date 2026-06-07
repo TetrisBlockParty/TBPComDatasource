@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:34:18 UTC
+# Standings for team2 as of 2026-06-07 09:34:40 UTC
 
 **Total Participants:** 1689
 
@@ -78,9 +78,9 @@
 | 70 | 971 | Debra Henry |
 | 71 | 921 | Block Dog |
 | 72 | 913 | Amber Salazar |
-| 73 | 899 | Marie Luciano |
-| 74 | 882 | Lisa Breiding |
-| 75 | 868 | Nerdy Climber |
+| 73 | 908 | Nerdy Climber |
+| 74 | 899 | Marie Luciano |
+| 75 | 882 | Lisa Breiding |
 | 76 | 864 | Helen Thomas |
 | 77 | 861 | Marquita Toliver |
 | 78 | 853 | Mikki Torres |
