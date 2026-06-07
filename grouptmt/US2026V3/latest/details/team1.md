@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:20:40 UTC
+# Standings for team1 as of 2026-06-07 06:21:17 UTC
 
 **Total Participants:** 1392
 
@@ -300,9 +300,9 @@
 | 292 | 148 | LaToya Chambers |
 | 293 | 147 | Telisha Mims |
 | 294 | 147 | MACHETEEDDIE513 |
-| 295 | 146 | Simone Bailey |
-| 296 | 146 | BlackQueen105 |
-| 297 | 144 | Steve Reno |
+| 295 | 146 | Steve Reno |
+| 296 | 146 | Simone Bailey |
+| 297 | 146 | BlackQueen105 |
 | 298 | 143 | BULLSEYE |
 | 299 | 142 | Matthieu Pistone |
 | 300 | 142 | Charlene Baltimore |
@@ -1304,12 +1304,12 @@
 | 1296 | 10 | Quirky Slammer |
 | 1297 | 10 | Shawn Himes |
 | 1298 | 10 | Ciera Spottedelk |
-| 1299 | 9 | Shaun Baker |
-| 1300 | 9 | Shell Poke |
-| 1301 | 9 | Clifford Petroske |
-| 1302 | 9 | Brika Brika |
-| 1303 | 9 | Sunset Owens |
-| 1304 | 9 | Quirky Spinblock |
+| 1299 | 10 | Quirky Spinblock |
+| 1300 | 9 | Shaun Baker |
+| 1301 | 9 | Shell Poke |
+| 1302 | 9 | Clifford Petroske |
+| 1303 | 9 | Brika Brika |
+| 1304 | 9 | Sunset Owens |
 | 1305 | 9 | Dana |
 | 1306 | 9 | Noni |
 | 1307 | 9 | meatballs |
