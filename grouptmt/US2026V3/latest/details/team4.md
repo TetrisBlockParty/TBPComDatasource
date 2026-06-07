@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:38:18 UTC
+# Standings for team4 as of 2026-06-07 02:38:40 UTC
 
 **Total Participants:** 1287
 
@@ -104,9 +104,9 @@
 | 96 | 440 | Jewelz |
 | 97 | 429 | iiPurgeV2 |
 | 98 | 422 | Sarah Berry Stevens |
-| 99 | 418 | GeorgeButts |
-| 100 | 416 | Ermadette |
-| 101 | 404 | Lisa Garcia |
+| 99 | 419 | Lisa Garcia |
+| 100 | 418 | GeorgeButts |
+| 101 | 416 | Ermadette |
 | 102 | 400 | DexterDobbins |
 | 103 | 400 | Nicole Peoples |
 | 104 | 400 | Amber Doyle |
@@ -414,22 +414,22 @@
 | 406 | 88 | Deva Marie Barber |
 | 407 | 88 | SandyEva |
 | 408 | 87 | Alex Armour |
-| 409 | 87 | da1ndonly |
-| 410 | 87 | Tyson Stroppel |
-| 411 | 87 | Limbo |
-| 412 | 86 | Brandi Sauer |
-| 413 | 86 | Stef |
-| 414 | 86 | Courtney Niichole |
-| 415 | 86 | Jessica Jones Bolton |
-| 416 | 86 | Autumn Maher |
-| 417 | 86 | SupaFly |
-| 418 | 86 | Swanky Builderline |
-| 419 | 86 | ManOfSteel |
-| 420 | 85 | MelodiousDeez |
-| 421 | 85 | Darren Miguel |
-| 422 | 85 | Dolores Falco |
+| 409 | 87 | Kari Smith |
+| 410 | 87 | da1ndonly |
+| 411 | 87 | Tyson Stroppel |
+| 412 | 87 | Limbo |
+| 413 | 86 | Brandi Sauer |
+| 414 | 86 | Stef |
+| 415 | 86 | Courtney Niichole |
+| 416 | 86 | Jessica Jones Bolton |
+| 417 | 86 | Autumn Maher |
+| 418 | 86 | SupaFly |
+| 419 | 86 | Swanky Builderline |
+| 420 | 86 | ManOfSteel |
+| 421 | 85 | MelodiousDeez |
+| 422 | 85 | Darren Miguel |
 | 423 | 85 | Wacky Brick |
-| 424 | 85 | Kari Smith |
+| 424 | 85 | Dolores Falco |
 | 425 | 84 | Clashy |
 | 426 | 84 | Playa |
 | 427 | 84 | Sharon Tyler |
@@ -661,66 +661,66 @@
 | 653 | 51 | Michellee Lewis |
 | 654 | 51 | Kimberly Civinski |
 | 655 | 51 | Snippy Racker |
-| 656 | 51 | Vergie Michael |
-| 657 | 51 | Gerald Richard Franke |
+| 656 | 51 | Gerald Richard Franke |
+| 657 | 51 | Vergie Michael |
 | 658 | 51 | Tod Jae |
 | 659 | 51 | Clever Patterner |
 | 660 | 51 | JustLessie |
 | 661 | 51 | Curved carrot |
 | 662 | 51 | Poppy |
 | 663 | 51 | LilRain |
-| 664 | 50 | Erica Armstrong Baz |
-| 665 | 50 | Slinky Column |
-| 666 | 50 | Jacqueline Wright |
-| 667 | 50 | Alex Dawn |
-| 668 | 50 | Hooti Smile |
-| 669 | 50 | Diane Obungu |
-| 670 | 50 | Loony Edge |
-| 671 | 50 | Nova Kain |
+| 664 | 50 | Charity Thomas |
+| 665 | 50 | Erica Armstrong Baz |
+| 666 | 50 | Slinky Column |
+| 667 | 50 | Jacqueline Wright |
+| 668 | 50 | Alex Dawn |
+| 669 | 50 | Hooti Smile |
+| 670 | 50 | Diane Obungu |
+| 671 | 50 | Loony Edge |
 | 672 | 50 | Ash Gribble |
-| 673 | 50 | Daniel Lossman |
-| 674 | 50 | Melissa Elizabeth |
-| 675 | 50 | Lizard |
-| 676 | 50 | Smiley Wipeblock |
-| 677 | 50 | Bhakti Sawarkar |
-| 678 | 50 | Heather Griffin |
-| 679 | 50 | Kelley Roach |
-| 680 | 50 | Ralph Hell Rell Williams |
-| 681 | 50 | Edward White |
-| 682 | 50 | Genger |
-| 683 | 50 | Michael Cruz |
-| 684 | 49 | Kandylands |
-| 685 | 49 | Daffney Starr |
-| 686 | 49 | Meghan Etchells |
-| 687 | 49 | smarty |
-| 688 | 49 | Karen Riexinger |
-| 689 | 49 | Ben Figueroa |
-| 690 | 49 | LeRoy jenkins |
-| 691 | 49 | Charity Thomas |
-| 692 | 49 | Candiecane324 |
-| 693 | 49 | Angelo L Casillas |
+| 673 | 50 | Nova Kain |
+| 674 | 50 | Daniel Lossman |
+| 675 | 50 | Michael Cruz |
+| 676 | 50 | Lizard |
+| 677 | 50 | Smiley Wipeblock |
+| 678 | 50 | Edward White |
+| 679 | 50 | Ralph Hell Rell Williams |
+| 680 | 50 | Genger |
+| 681 | 50 | Kelley Roach |
+| 682 | 50 | Heather Griffin |
+| 683 | 50 | Melissa Elizabeth |
+| 684 | 50 | Bhakti Sawarkar |
+| 685 | 49 | Mrsjcraw18 |
+| 686 | 49 | Kandylands |
+| 687 | 49 | LeRoy jenkins |
+| 688 | 49 | Ben Figueroa |
+| 689 | 49 | smarty |
+| 690 | 49 | Meghan Etchells |
+| 691 | 49 | Daffney Starr |
+| 692 | 49 | Karen Riexinger |
+| 693 | 49 | Candiecane324 |
 | 694 | 49 | Tammy Wells |
 | 695 | 49 | Nerdy Faller |
-| 696 | 49 | Mrsjcraw18 |
+| 696 | 49 | Angelo L Casillas |
 | 697 | 49 | Matthew Wilcox |
-| 698 | 48 | Brandi Gray |
-| 699 | 48 | REPENT |
-| 700 | 48 | Joseph Anthony Watkins |
-| 701 | 48 | ButterfliesRFree |
-| 702 | 48 | Suzi Smas |
-| 703 | 48 | Travis Whitner |
-| 704 | 48 | Mike Artis |
+| 698 | 48 | Mike Artis |
+| 699 | 48 | Joseph Anthony Watkins |
+| 700 | 48 | REPENT |
+| 701 | 48 | Brandi Gray |
+| 702 | 48 | ButterfliesRFree |
+| 703 | 48 | Scot Matthew Bergdorf |
+| 704 | 48 | Suzi Smas |
 | 705 | 48 | ŁųŁų |
 | 706 | 48 | Debby Muniz |
 | 707 | 48 | Hayze |
-| 708 | 48 | Scot Matthew Bergdorf |
-| 709 | 47 | Lizzzzzz |
-| 710 | 47 | Lush Twisterfit |
-| 711 | 47 | Jace McCullough |
+| 708 | 48 | Travis Whitner |
+| 709 | 47 | Jace McCullough |
+| 710 | 47 | Lizzzzzz |
+| 711 | 47 | Lush Twisterfit |
 | 712 | 47 | Linda |
-| 713 | 46 | Heidi Hala |
-| 714 | 46 | Esmond Johnson IV |
-| 715 | 46 | Koren Heersink |
+| 713 | 46 | Esmond Johnson IV |
+| 714 | 46 | Koren Heersink |
+| 715 | 46 | Heidi Hala |
 | 716 | 46 | La Ah Ox |
 | 717 | 46 | Lashae |
 | 718 | 46 | Elise Ann |
