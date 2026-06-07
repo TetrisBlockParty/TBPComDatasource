@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:30:20 UTC
+# Standings for team1 as of 2026-06-07 17:30:40 UTC
 
 **Total Participants:** 1522
 
@@ -93,8 +93,8 @@
 | 85 | 749 | Aviv Zehavi |
 | 86 | 719 | Moomoo |
 | 87 | 710 | ing410 |
-| 88 | 689 | Jaida King |
-| 89 | 688 | Dawn L Washington-Feuquay |
+| 88 | 700 | Dawn L Washington-Feuquay |
+| 89 | 689 | Jaida King |
 | 90 | 679 | Chirpy Corner |
 | 91 | 678 | No_Other_Choice |
 | 92 | 677 | Eartha Brown |
@@ -349,44 +349,44 @@
 | 341 | 159 | Bambi Johnson |
 | 342 | 158 | Charlene Baltimore |
 | 343 | 158 | Kimberly Linares Hernandez |
-| 344 | 157 | Courtney Cicoria |
-| 345 | 157 | Hasty Glidezone |
+| 344 | 157 | Hasty Glidezone |
+| 345 | 157 | Courtney Cicoria |
 | 346 | 156 | Cheeky Twistpiece |
-| 347 | 156 | De'Nell Edwards |
-| 348 | 156 | SceneGreenz Wali |
-| 349 | 156 | Shalya Terry |
-| 350 | 156 | Alyssa Rae |
-| 351 | 156 | Tee Spinks |
+| 347 | 156 | Tee Spinks |
+| 348 | 156 | Alyssa Rae |
+| 349 | 156 | De'Nell Edwards |
+| 350 | 156 | SceneGreenz Wali |
+| 351 | 156 | Shalya Terry |
 | 352 | 155 | Lazy Tiltpiece |
 | 353 | 154 | Matthieu Pistone |
-| 354 | 153 | Teresa Yanira Cepeda |
-| 355 | 153 | CJ Robinson |
+| 354 | 153 | CJ Robinson |
+| 355 | 153 | Teresa Yanira Cepeda |
 | 356 | 152 | Wacky Stackbuilder |
 | 357 | 152 | Jolly Tilefall |
 | 358 | 152 | Phillip Vasquez |
-| 359 | 151 | Miera Nicole |
-| 360 | 151 | Brittany Fells |
-| 361 | 151 | Nickeya Phillips |
-| 362 | 150 | Jean Regis |
-| 363 | 150 | Elizabeth Vega Coreano |
-| 364 | 150 | Deveda Williams |
-| 365 | 150 | Telisha Mims |
-| 366 | 149 | Manda Allen |
-| 367 | 149 | Anthony |
-| 368 | 149 | HarleyJane |
-| 369 | 149 | Chasem45 |
-| 370 | 148 | Dedra M Prester |
-| 371 | 148 | LaToya Chambers |
-| 372 | 147 | Joka NoTime ForHataz |
+| 359 | 151 | Daring Blockclear |
+| 360 | 151 | Miera Nicole |
+| 361 | 151 | Brittany Fells |
+| 362 | 151 | Nickeya Phillips |
+| 363 | 150 | Deveda Williams |
+| 364 | 150 | Telisha Mims |
+| 365 | 150 | Jean Regis |
+| 366 | 150 | Elizabeth Vega Coreano |
+| 367 | 149 | HarleyJane |
+| 368 | 149 | Chasem45 |
+| 369 | 149 | Manda Allen |
+| 370 | 149 | Anthony |
+| 371 | 148 | Dedra M Prester |
+| 372 | 148 | LaToya Chambers |
 | 373 | 147 | Perky Balancer |
-| 374 | 146 | Jae Thompson-Tyus |
-| 375 | 146 | whatever |
-| 376 | 146 | MamushiOh |
-| 377 | 146 | Lakiesha Crawford |
-| 378 | 146 | KeeKee Williams |
-| 379 | 146 | Chummy Frame |
-| 380 | 145 | Giggy Tower |
-| 381 | 145 | Daring Blockclear |
+| 374 | 147 | Joka NoTime ForHataz |
+| 375 | 146 | Jae Thompson-Tyus |
+| 376 | 146 | whatever |
+| 377 | 146 | MamushiOh |
+| 378 | 146 | Lakiesha Crawford |
+| 379 | 146 | KeeKee Williams |
+| 380 | 146 | Chummy Frame |
+| 381 | 145 | Giggy Tower |
 | 382 | 145 | Squaw Ki Ng |
 | 383 | 144 | Brittanie Wardlow |
 | 384 | 143 | Dandy Brickfit |
@@ -1427,69 +1427,69 @@
 | 1419 | 10 | Ladii Libra |
 | 1420 | 10 | Kim Smith |
 | 1421 | 10 | LaShawyn Wood |
-| 1422 | 10 | OneBuke FollowMe |
-| 1423 | 10 | Michael Lindenlauf |
+| 1422 | 10 | Antonia Pike |
+| 1423 | 10 | Tynetta Scott |
 | 1424 | 10 | Ciera Spottedelk |
-| 1425 | 10 | Antonia Pike |
-| 1426 | 10 | Tynetta Scott |
-| 1427 | 10 | Upt |
+| 1425 | 10 | Upt |
+| 1426 | 10 | Michael Lindenlauf |
+| 1427 | 10 | OneBuke FollowMe |
 | 1428 | 10 | Happymama |
-| 1429 | 9 | Catelyn Neal |
-| 1430 | 9 | Chummy Twisterfit |
-| 1431 | 9 | Yester |
-| 1432 | 9 | Frisky Linkblock |
-| 1433 | 9 | Groovy Twisterfit |
-| 1434 | 9 | Lia Covington |
-| 1435 | 9 | Shell Poke |
-| 1436 | 9 | Beverly S. Robinson |
-| 1437 | 9 | Snippy T-spin |
-| 1438 | 9 | Sunset Owens |
-| 1439 | 9 | Shaun Baker |
-| 1440 | 9 | Clifford Petroske |
-| 1441 | 9 | Mars |
+| 1429 | 9 | Frisky Linkblock |
+| 1430 | 9 | Groovy Twisterfit |
+| 1431 | 9 | Chummy Twisterfit |
+| 1432 | 9 | Lia Covington |
+| 1433 | 9 | Shell Poke |
+| 1434 | 9 | Beverly S. Robinson |
+| 1435 | 9 | Snippy T-spin |
+| 1436 | 9 | Sunset Owens |
+| 1437 | 9 | Shaun Baker |
+| 1438 | 9 | Yester |
+| 1439 | 9 | Catelyn Neal |
+| 1440 | 9 | Mars |
+| 1441 | 9 | Clifford Petroske |
 | 1442 | 9 | Duckey |
 | 1443 | 9 | Dana |
-| 1444 | 9 | ummm |
-| 1445 | 9 | Noni |
-| 1446 | 9 | John Lovato |
-| 1447 | 8 | David Anthony |
-| 1448 | 8 | Chevonne Huggins |
-| 1449 | 8 | Andrew James |
-| 1450 | 8 | Ferocity |
-| 1451 | 8 | jus_ry |
-| 1452 | 8 | Null Kim |
-| 1453 | 8 | Dana Hill |
-| 1454 | 8 | Frothy Matchpiece |
-| 1455 | 8 | Chill Tumbler |
+| 1444 | 9 | Noni |
+| 1445 | 9 | John Lovato |
+| 1446 | 9 | ummm |
+| 1447 | 8 | Andrew James |
+| 1448 | 8 | Ferocity |
+| 1449 | 8 | Kim Ratcliff Leatherman |
+| 1450 | 8 | jus_ry |
+| 1451 | 8 | Giggly Gridder |
+| 1452 | 8 | Dana Hill |
+| 1453 | 8 | Elizabeth Castro |
+| 1454 | 8 | Null Kim |
+| 1455 | 8 | Chevonne Huggins |
 | 1456 | 8 | Sean Walker |
-| 1457 | 8 | Almarasha Grice |
-| 1458 | 8 | Nissa |
-| 1459 | 8 | Rixo Blax |
-| 1460 | 8 | Elizabeth Castro |
+| 1457 | 8 | Frothy Matchpiece |
+| 1458 | 8 | Chill Tumbler |
+| 1459 | 8 | Almarasha Grice |
+| 1460 | 8 | Nissa |
 | 1461 | 8 | Groovy Riseclear |
-| 1462 | 8 | Kim Ratcliff Leatherman |
-| 1463 | 7 | Mary2 |
-| 1464 | 7 | KingSlim82 |
-| 1465 | 7 | Quana |
-| 1466 | 7 | Deadra Graham |
+| 1462 | 8 | David Anthony |
+| 1463 | 8 | Rixo Blax |
+| 1464 | 7 | Mary2 |
+| 1465 | 7 | KingSlim82 |
+| 1466 | 7 | Quana |
 | 1467 | 7 | Milfchaser530 |
 | 1468 | 7 | Joey Hoover |
-| 1469 | 7 | Stephanie L Jeffries Moultrie |
-| 1470 | 7 | RMGreen |
-| 1471 | 7 | Shane Brucewayne |
-| 1472 | 7 | Lawanda Conley |
-| 1473 | 7 | Sheena Hamilton |
-| 1474 | 7 | Court Ney |
-| 1475 | 7 | Alexis Farquer |
-| 1476 | 7 | Zondria Barnes |
-| 1477 | 7 | linda m |
-| 1478 | 7 | Lively Stagger |
-| 1479 | 7 | Marla |
-| 1480 | 7 | Brandon Knox |
-| 1481 | 7 | Andrew Harris |
-| 1482 | 7 | Hulk |
-| 1483 | 7 | Bryan Dell |
-| 1484 | 7 | Giggly Gridder |
+| 1469 | 7 | Deadra Graham |
+| 1470 | 7 | Stephanie L Jeffries Moultrie |
+| 1471 | 7 | RMGreen |
+| 1472 | 7 | Shane Brucewayne |
+| 1473 | 7 | Lawanda Conley |
+| 1474 | 7 | Sheena Hamilton |
+| 1475 | 7 | Court Ney |
+| 1476 | 7 | Alexis Farquer |
+| 1477 | 7 | Zondria Barnes |
+| 1478 | 7 | linda m |
+| 1479 | 7 | Lively Stagger |
+| 1480 | 7 | Marla |
+| 1481 | 7 | Brandon Knox |
+| 1482 | 7 | Andrew Harris |
+| 1483 | 7 | Hulk |
+| 1484 | 7 | Bryan Dell |
 | 1485 | 7 | John Boone |
 | 1486 | 7 | Teresa F. Campos Eaton |
 | 1487 | 6 | Lynn Formby |

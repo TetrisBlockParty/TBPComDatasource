@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:30:20 UTC
+# Standings for team2 as of 2026-06-07 17:30:40 UTC
 
 **Total Participants:** 1834
 
@@ -32,8 +32,8 @@
 | 24 | 3981 | Bobbi |
 | 25 | 3932 | Jewels |
 | 26 | 3812 | Crystal M Sowden |
-| 27 | 3698 | Christina Jambard Sampier |
-| 28 | 3682 | Spunky Clicker |
+| 27 | 3701 | Spunky Clicker |
+| 28 | 3698 | Christina Jambard Sampier |
 | 29 | 3611 | Cassie Swart |
 | 30 | 3580 | Danni Campa |
 | 31 | 3514 | Traci Elizabeth |
@@ -82,7 +82,7 @@
 | 74 | 1140 | Mikki Torres |
 | 75 | 1115 | Eileen Egan |
 | 76 | 1114 | Giddy Slamdrop |
-| 77 | 1080 | Jayke Edward |
+| 77 | 1083 | Jayke Edward |
 | 78 | 1072 | Kvothe |
 | 79 | 1070 | Michelle Maulsby |
 | 80 | 1062 | Lisa Breiding |
@@ -313,27 +313,27 @@
 | 305 | 218 | Anthony Swift |
 | 306 | 218 | Erica South |
 | 307 | 217 | Amanda Priddy |
-| 308 | 216 | Alicia Kinney |
-| 309 | 216 | Swanky Fitline |
+| 308 | 216 | Swanky Fitline |
+| 309 | 216 | Alicia Kinney |
 | 310 | 214 | Stephany Green |
 | 311 | 212 | Flashy Hitter |
 | 312 | 212 | Boldy Fitclear |
 | 313 | 210 | Zappy Liney |
 | 314 | 210 | Robin G |
-| 315 | 209 | Chill Line |
-| 316 | 209 | Patria Osuoha |
-| 317 | 209 | Kevin Mccoy |
-| 318 | 209 | Kimmyc |
-| 319 | 207 | Amber Cogdill |
-| 320 | 207 | Joanna Trevin Thompson |
-| 321 | 206 | Jodi Johnson |
-| 322 | 206 | Carolyn McNaughton |
-| 323 | 204 | Teddy Williams |
-| 324 | 203 | Harper |
-| 325 | 203 | Jill Goff |
-| 326 | 202 | Tango Sierra |
-| 327 | 201 | Melissa Nash |
-| 328 | 201 | meg |
+| 315 | 209 | Kimmyc |
+| 316 | 209 | Kevin Mccoy |
+| 317 | 209 | Patria Osuoha |
+| 318 | 209 | Chill Line |
+| 319 | 207 | Joanna Trevin Thompson |
+| 320 | 207 | Amber Cogdill |
+| 321 | 206 | Carolyn McNaughton |
+| 322 | 206 | meg |
+| 323 | 206 | Jodi Johnson |
+| 324 | 204 | Teddy Williams |
+| 325 | 203 | Harper |
+| 326 | 203 | Jill Goff |
+| 327 | 202 | Tango Sierra |
+| 328 | 201 | Melissa Nash |
 | 329 | 200 | Al Smith Jr |
 | 330 | 200 | August Christy Lathrop |
 | 331 | 200 | ShiverMeSplinter |
@@ -783,89 +783,89 @@
 | 775 | 77 | Raymond Dawson |
 | 776 | 77 | y |
 | 777 | 77 | Jolly Builderpiece |
-| 778 | 76 | Roger Kirksey |
+| 778 | 76 | Ashley Diana |
 | 779 | 76 | Tiffany Fitch |
 | 780 | 76 | ReiRei |
-| 781 | 76 | Jim Wright |
-| 782 | 76 | Kris Dusza Dodus |
-| 783 | 76 | Joe Dirilo |
-| 784 | 76 | Ashley Diana |
-| 785 | 75 | Bennie Farbo |
-| 786 | 75 | Sam Schwieso |
-| 787 | 75 | Clever Fallmatch |
+| 781 | 76 | Roger Kirksey |
+| 782 | 76 | Jim Wright |
+| 783 | 76 | Kris Dusza Dodus |
+| 784 | 76 | Joe Dirilo |
+| 785 | 75 | Laura Turner |
+| 786 | 75 | Bennie Farbo |
+| 787 | 75 | Sam Schwieso |
 | 788 | 75 | Jessica Bowman |
 | 789 | 75 | Groovy Glider |
 | 790 | 75 | Mrs biotch |
 | 791 | 75 | joey |
 | 792 | 75 | Allison Peterson |
-| 793 | 75 | William Dowd |
-| 794 | 74 | Nicole Treadway |
-| 795 | 74 | Brandi Vandevanter-Duke |
+| 793 | 75 | Clever Fallmatch |
+| 794 | 75 | William Dowd |
+| 795 | 74 | Christina Kearns |
 | 796 | 74 | Valeri Bradley |
-| 797 | 74 | Christina Kearns |
-| 798 | 74 | Bethany Nestor |
-| 799 | 74 | Peter Fogg |
-| 800 | 74 | Natasha Lee |
-| 801 | 74 | Cool Patternbuilder |
-| 802 | 73 | Just Me |
-| 803 | 73 | Alisha Shelton |
-| 804 | 73 | Mellzey |
-| 805 | 73 | BugMansMom |
-| 806 | 73 | Chirpy Combofall |
-| 807 | 73 | Carmina Truoiolo |
-| 808 | 73 | Elodie Deveyer |
-| 809 | 73 | blockrocker |
-| 810 | 73 | Sunny Spinzone |
-| 811 | 72 | Aubrey Gates |
-| 812 | 72 | Lu Wallace |
-| 813 | 72 | Audrey Bickford |
-| 814 | 72 | Kendi |
-| 815 | 72 | Stacy Lynn |
-| 816 | 72 | Saucy Lifter |
-| 817 | 72 | R.w. Buck |
-| 818 | 71 | Sandy Lynn |
-| 819 | 71 | Carebear05 |
-| 820 | 71 | John C Morrison |
-| 821 | 71 | Jennifer Leigh |
-| 822 | 71 | Michelle Arnold |
-| 823 | 71 | Pamela Gambrell |
-| 824 | 71 | Kiersty Redder |
-| 825 | 71 | Yari |
-| 826 | 70 | Christina Reid |
-| 827 | 70 | Kelly Hall Whitt |
+| 797 | 74 | Nicole Treadway |
+| 798 | 74 | Brandi Vandevanter-Duke |
+| 799 | 74 | Cool Patternbuilder |
+| 800 | 74 | Peter Fogg |
+| 801 | 74 | Natasha Lee |
+| 802 | 74 | Bethany Nestor |
+| 803 | 73 | blockrocker |
+| 804 | 73 | Sunny Spinzone |
+| 805 | 73 | Carmina Truoiolo |
+| 806 | 73 | Alisha Shelton |
+| 807 | 73 | Elodie Deveyer |
+| 808 | 73 | Mellzey |
+| 809 | 73 | Chirpy Combofall |
+| 810 | 73 | BugMansMom |
+| 811 | 73 | Just Me |
+| 812 | 72 | R.w. Buck |
+| 813 | 72 | Kendi |
+| 814 | 72 | Audrey Bickford |
+| 815 | 72 | Lu Wallace |
+| 816 | 72 | Stacy Lynn |
+| 817 | 72 | Saucy Lifter |
+| 818 | 72 | Aubrey Gates |
+| 819 | 71 | Sandy Lynn |
+| 820 | 71 | Kiersty Redder |
+| 821 | 71 | Michelle Arnold |
+| 822 | 71 | Yari |
+| 823 | 71 | Carebear05 |
+| 824 | 71 | John C Morrison |
+| 825 | 71 | Jennifer Leigh |
+| 826 | 71 | Pamela Gambrell |
+| 827 | 70 | Michelle Fry-Cash |
 | 828 | 70 | Christi Hooper |
 | 829 | 70 | Andrea Spinelli |
 | 830 | 70 | Doug Small |
 | 831 | 70 | Patti Ward |
 | 832 | 70 | Stazy Warner |
-| 833 | 70 | Latrell Thomas |
-| 834 | 70 | Jennifer Lewellyn Hutchins |
-| 835 | 70 | Amy D Coble |
-| 836 | 70 | Laura Turner |
-| 837 | 70 | Michelle Fry-Cash |
+| 833 | 70 | Brenda Zona |
+| 834 | 70 | Teea Makensi Meyer |
+| 835 | 70 | Melissa Clogher White |
+| 836 | 70 | Amy D Coble |
+| 837 | 70 | Duck |
 | 838 | 70 | Elizabeth Henry |
-| 839 | 70 | Duck |
-| 840 | 70 | Brenda Zona |
-| 841 | 70 | Abby Dexter |
-| 842 | 70 | Cassafrass |
-| 843 | 70 | Momi Kamohai |
-| 844 | 70 | Elnaz Mokleh |
-| 845 | 70 | Giggy Linkgrid |
-| 846 | 70 | Melissa Clogher White |
-| 847 | 70 | Teea Makensi Meyer |
+| 839 | 70 | Momi Kamohai |
+| 840 | 70 | Cassafrass |
+| 841 | 70 | Kelly Hall Whitt |
+| 842 | 70 | Abby Dexter |
+| 843 | 70 | Giggy Linkgrid |
+| 844 | 70 | Latrell Thomas |
+| 845 | 70 | Christina Reid |
+| 846 | 70 | Elnaz Mokleh |
+| 847 | 70 | Jennifer Lewellyn Hutchins |
 | 848 | 70 | Ava Taber |
 | 849 | 70 | Lori |
 | 850 | 70 | TheAggie12 |
 | 851 | 70 | Ques Pryor |
 | 852 | 69 | DragonJB2020 |
-| 853 | 69 | Lydia Shonee |
-| 854 | 69 | REE4 |
+| 853 | 69 | REE4 |
+| 854 | 69 | Cranky Brickzone |
 | 855 | 69 | Chipper Towerzone |
-| 856 | 69 | Cynthia Dawn Reitz Hanson |
-| 857 | 69 | John Perkins |
-| 858 | 69 | Cranky Brickzone |
-| 859 | 69 | KS Hengesbach |
-| 860 | 69 | Mona Wagner |
+| 856 | 69 | KS Hengesbach |
+| 857 | 69 | Cynthia Dawn Reitz Hanson |
+| 858 | 69 | John Perkins |
+| 859 | 69 | Mona Wagner |
+| 860 | 69 | Lydia Shonee |
 | 861 | 69 | Loretta Crow |
 | 862 | 69 | David Skelton |
 | 863 | 68 | Kim Powers |
