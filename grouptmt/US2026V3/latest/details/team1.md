@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:34:19 UTC
+# Standings for team1 as of 2026-06-07 23:34:41 UTC
 
 **Total Participants:** 1619
 
@@ -86,8 +86,8 @@
 | 78 | 882 | Jon Gathers |
 | 79 | 877 | Brian Bohanon II |
 | 80 | 873 | Janine Hunter |
-| 81 | 844 | Moomoo |
-| 82 | 812 | She Higgy |
+| 81 | 847 | She Higgy |
+| 82 | 844 | Moomoo |
 | 83 | 809 | Jazzy Dashpiece |
 | 84 | 800 | Chenell Gillard |
 | 85 | 796 | Jaida De'Anne Cox |
@@ -115,9 +115,9 @@
 | 107 | 622 | Alana Renee |
 | 108 | 619 | Ottison Dianna |
 | 109 | 618 | Voice |
-| 110 | 612 | Andi McGreevy |
-| 111 | 612 | Quirky Fallgrid |
-| 112 | 607 | Chris Caniglia |
+| 110 | 613 | Chris Caniglia |
+| 111 | 612 | Andi McGreevy |
+| 112 | 612 | Quirky Fallgrid |
 | 113 | 604 | Mimi 1.0 |
 | 114 | 604 | W.A. Simpson |
 | 115 | 601 | JaszyBadd |
@@ -159,9 +159,9 @@
 | 151 | 420 | Jessica Carter |
 | 152 | 417 | Dena Marie Lee |
 | 153 | 414 | Ebony Waynes-robinson |
-| 154 | 405 | SPNLover24 |
-| 155 | 404 | Hyper Slamdrop |
-| 156 | 399 | Ty Øtg |
+| 154 | 409 | Ty Øtg |
+| 155 | 405 | SPNLover24 |
+| 156 | 404 | Hyper Slamdrop |
 | 157 | 393 | Sharon Cail |
 | 158 | 393 | La'Chae Nickole |
 | 159 | 389 | Roberta Lynn |
@@ -469,25 +469,25 @@
 | 461 | 129 | Lucy |
 | 462 | 129 | Zany Breaker |
 | 463 | 129 | Lynn |
-| 464 | 129 | Loopy Tiler |
-| 465 | 129 | JesusSaves 😇 |
-| 466 | 129 | Lozuna |
-| 467 | 129 | Mathew Trudell |
-| 468 | 129 | wmedina67 |
+| 464 | 129 | JesusSaves 😇 |
+| 465 | 129 | wmedina67 |
+| 466 | 129 | Mathew Trudell |
+| 467 | 129 | Lozuna |
+| 468 | 129 | Loopy Tiler |
 | 469 | 128 | Aaron Hartmann |
 | 470 | 128 | Kimberly Anderson |
 | 471 | 128 | Jack Vlasak |
 | 472 | 128 | BonnieB |
-| 473 | 127 | Kyra Coleman |
-| 474 | 127 | Ozell Jones Jr. |
-| 475 | 127 | Karen Denen |
-| 476 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 477 | 127 | MonaSparks |
-| 478 | 126 | Chris Holland |
-| 479 | 126 | Kahliah Baker |
-| 480 | 126 | Laurie Napper |
-| 481 | 125 | Taz Ballard |
-| 482 | 125 | Twisty Cascadeclear |
+| 473 | 127 | Ozell Jones Jr. |
+| 474 | 127 | Twisty Cascadeclear |
+| 475 | 127 | Kyra Coleman |
+| 476 | 127 | Karen Denen |
+| 477 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 478 | 127 | MonaSparks |
+| 479 | 126 | Chris Holland |
+| 480 | 126 | Kahliah Baker |
+| 481 | 126 | Laurie Napper |
+| 482 | 125 | Taz Ballard |
 | 483 | 125 | Dizzy Dashy |
 | 484 | 125 | Christina Singleton |
 | 485 | 124 | Jes Marie |
