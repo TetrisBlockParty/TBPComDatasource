@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:02:18 UTC
+# Standings for team1 as of 2026-06-07 03:02:40 UTC
 
 **Total Participants:** 1305
 
@@ -84,18 +84,18 @@
 | 76 | 678 | No_Other_Choice |
 | 77 | 658 | Eartha Brown |
 | 78 | 638 | Jaida De'Anne Cox |
-| 79 | 620 | IamJust Neyamijah Washington Sr. |
-| 80 | 607 | Ebo Got-Time |
-| 81 | 601 | JaszyBadd |
-| 82 | 598 | Ivana Schmidt |
-| 83 | 587 | KenpachisGirl |
-| 84 | 586 | Kellie Hall |
-| 85 | 580 | Chirpy Corner |
-| 86 | 552 | Carolynne Walker-Bell |
-| 87 | 550 | PandaPrincess |
-| 88 | 548 | Ottison Dianna |
-| 89 | 541 | Andi McGreevy |
-| 90 | 536 | Kkbk |
+| 79 | 633 | Kkbk |
+| 80 | 620 | IamJust Neyamijah Washington Sr. |
+| 81 | 607 | Ebo Got-Time |
+| 82 | 601 | JaszyBadd |
+| 83 | 598 | Ivana Schmidt |
+| 84 | 587 | KenpachisGirl |
+| 85 | 586 | Kellie Hall |
+| 86 | 580 | Chirpy Corner |
+| 87 | 552 | Carolynne Walker-Bell |
+| 88 | 550 | PandaPrincess |
+| 89 | 548 | Ottison Dianna |
+| 90 | 541 | Andi McGreevy |
 | 91 | 527 | MommaCia |
 | 92 | 513 | Moomoo |
 | 93 | 511 | Dizzy Dropper |
