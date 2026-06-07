@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 15:08:19 UTC
+# Standings for team2 as of 2026-06-07 15:08:42 UTC
 
 **Total Participants:** 1783
 
@@ -435,10 +435,10 @@
 | 427 | 143 | Spicy Basepiece |
 | 428 | 143 | Matt Wylie |
 | 429 | 143 | Paula Haskins |
-| 430 | 142 | Spunky Cascadeclear |
-| 431 | 141 | Gabrielle Wilson |
-| 432 | 141 | Layla Petroff |
-| 433 | 141 | Jacquelyn Snyder Dumas |
+| 430 | 142 | Gabrielle Wilson |
+| 431 | 142 | Spunky Cascadeclear |
+| 432 | 141 | Jacquelyn Snyder Dumas |
+| 433 | 141 | Layla Petroff |
 | 434 | 140 | Bouncy Snapmatch |
 | 435 | 140 | Kristi Chestnut |
 | 436 | 140 | Starvinmarvin |
