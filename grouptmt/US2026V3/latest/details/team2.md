@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:40:43 UTC
+# Standings for team2 as of 2026-06-07 05:41:18 UTC
 
 **Total Participants:** 1638
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Tim Ix |
-| 11 | 6114 | Morgann McDaniel |
+| 10 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -83,8 +83,8 @@
 | 75 | 829 | Gabriella Humphreys |
 | 76 | 819 | Beverly Lynn Mills |
 | 77 | 802 | Charley Bedford |
-| 78 | 799 | Poppy |
-| 79 | 799 | Elizabeth Sallas |
+| 78 | 799 | Elizabeth Sallas |
+| 79 | 799 | Poppy |
 | 80 | 792 | Marquetta Johnson |
 | 81 | 779 | Marie Luciano |
 | 82 | 774 | Deborah Boyce Minor |
@@ -103,8 +103,8 @@
 | 95 | 655 | Lily |
 | 96 | 654 | Bon Lynn |
 | 97 | 652 | Epic Frame |
-| 98 | 632 | Allie Bug |
-| 99 | 632 | Wmk Rathbun |
+| 98 | 632 | Wmk Rathbun |
+| 99 | 632 | Allie Bug |
 | 100 | 629 | Mirr Lulu |
 | 101 | 627 | Le Sandy |
 | 102 | 612 | Josh Twilley |
@@ -147,20 +147,20 @@
 | 139 | 411 | MarioKarasovic |
 | 140 | 408 | Ashley Green |
 | 141 | 404 | Jgato |
-| 142 | 400 | Smashanator |
-| 143 | 400 | Zarah Kettler |
-| 144 | 400 | Gloria May Shook |
+| 142 | 400 | Gloria May Shook |
+| 143 | 400 | Smashanator |
+| 144 | 400 | Zarah Kettler |
 | 145 | 390 | La chulis |
 | 146 | 389 | haune |
 | 147 | 386 | Frilly Dashfit |
 | 148 | 381 | Joslyn Johnson |
 | 149 | 380 | Zany Blockclear |
-| 150 | 375 | MaddieCherie |
-| 151 | 375 | Milad Arzani |
+| 150 | 375 | Milad Arzani |
+| 151 | 375 | MaddieCherie |
 | 152 | 365 | Branden Frankowski |
 | 153 | 362 | Nutty Curver |
-| 154 | 357 | Erin Thomas |
-| 155 | 357 | Crystal Allen |
+| 154 | 357 | Crystal Allen |
+| 155 | 357 | Erin Thomas |
 | 156 | 356 | Joni Michelle Morgan |
 | 157 | 354 | Zesty Strikerbuilder |
 | 158 | 353 | DomDomsNana |
@@ -169,12 +169,12 @@
 | 161 | 343 | Theresa Marie |
 | 162 | 342 | Bri St Peter |
 | 163 | 340 | Jason Cook |
-| 164 | 340 | Mom |
-| 165 | 340 | Amy Gregg |
+| 164 | 340 | Amy Gregg |
+| 165 | 340 | Mom |
 | 166 | 336 | Jef Wassom |
 | 167 | 333 | Christina Maria |
-| 168 | 328 | Tim Tim |
-| 169 | 328 | Keri Mears |
+| 168 | 328 | Keri Mears |
+| 169 | 328 | Tim Tim |
 | 170 | 323 | Shannon Wilson |
 | 171 | 322 | Nikki Hayes |
 | 172 | 319 | Flower_child |
@@ -183,18 +183,18 @@
 | 175 | 310 | Jennifer Smith |
 | 176 | 303 | Chirpy Grid |
 | 177 | 302 | Hypee |
-| 178 | 300 | Hector |
-| 179 | 300 | Linda Guay |
-| 180 | 299 | Amber-leigh Williams |
-| 181 | 299 | Mookshake |
+| 178 | 300 | Linda Guay |
+| 179 | 300 | Hector |
+| 180 | 299 | Mookshake |
+| 181 | 299 | Amber-leigh Williams |
 | 182 | 298 | Heather Burgett |
 | 183 | 298 | Breeana Bennett |
-| 184 | 296 | Brenda Jones |
-| 185 | 296 | Snappy Combo |
-| 186 | 296 | Sara Perkins |
+| 184 | 296 | Sara Perkins |
+| 185 | 296 | Brenda Jones |
+| 186 | 296 | Snappy Combo |
 | 187 | 295 | Brittney Williams |
-| 188 | 294 | DayDreamer79 |
-| 189 | 294 | Vistabrat |
+| 188 | 294 | Vistabrat |
+| 189 | 294 | DayDreamer79 |
 | 190 | 292 | James Ward |
 | 191 | 291 | Flashy Twistline |
 | 192 | 285 | Samantha Carman |
@@ -210,16 +210,16 @@
 | 202 | 263 | Glitzy Base |
 | 203 | 262 | Cool Balancer |
 | 204 | 260 | Snappy Blockbuilder |
-| 205 | 259 | Jessica Lynn |
-| 206 | 259 | Angie Kowalsky Olson |
+| 205 | 259 | Angie Kowalsky Olson |
+| 206 | 259 | Jessica Lynn |
 | 207 | 257 | Jat |
-| 208 | 253 | Hilliary Beyer |
-| 209 | 253 | Marge Cromer |
+| 208 | 253 | Marge Cromer |
+| 209 | 253 | Hilliary Beyer |
 | 210 | 252 | Kathy Strickland |
-| 211 | 250 | marsam |
-| 212 | 250 | Iesha Cupil |
-| 213 | 247 | Brittni Lawrence |
-| 214 | 247 | Melissa Thomas |
+| 211 | 250 | Iesha Cupil |
+| 212 | 250 | marsam |
+| 213 | 247 | Melissa Thomas |
+| 214 | 247 | Brittni Lawrence |
 | 215 | 247 | Fudgie Pie |
 | 216 | 246 | Brooke Lynn Marie Adelaide |
 | 217 | 242 | Nikki EightySixed |
@@ -345,19 +345,19 @@
 | 337 | 156 | Melmel |
 | 338 | 156 | Monique Frantz |
 | 339 | 155 | Ratchet |
-| 340 | 154 | KazzyKay |
-| 341 | 154 | Alonzo Reed |
-| 342 | 153 | Cortney Coleman |
-| 343 | 152 | Rocroc mo |
-| 344 | 151 | Marilyn Mendoza |
-| 345 | 151 | Amy Lea Hamilton |
-| 346 | 150 | Camilo Moreno |
-| 347 | 150 | Crystal Poss |
-| 348 | 150 | Zany Wrecker |
-| 349 | 150 | Marylin Eacker |
-| 350 | 149 | Jenni LeBlanc |
-| 351 | 148 | murd3rmous3 |
-| 352 | 148 | Charlotte Castelli |
+| 340 | 154 | Charlotte Castelli |
+| 341 | 154 | KazzyKay |
+| 342 | 154 | Alonzo Reed |
+| 343 | 153 | Cortney Coleman |
+| 344 | 152 | Rocroc mo |
+| 345 | 151 | Marilyn Mendoza |
+| 346 | 151 | Amy Lea Hamilton |
+| 347 | 150 | Camilo Moreno |
+| 348 | 150 | Crystal Poss |
+| 349 | 150 | Zany Wrecker |
+| 350 | 150 | Marylin Eacker |
+| 351 | 149 | Jenni LeBlanc |
+| 352 | 148 | murd3rmous3 |
 | 353 | 148 | Nano. |
 | 354 | 147 | Aldotfus Williams |
 | 355 | 146 | Darla Nolt |
