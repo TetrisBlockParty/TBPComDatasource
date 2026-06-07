@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 03:32:18 UTC
+# Standings for team4 as of 2026-06-07 03:32:40 UTC
 
 **Total Participants:** 1318
 
@@ -487,51 +487,51 @@
 | 479 | 79 | Gean DeJesus |
 | 480 | 79 | Audrianna Skaff |
 | 481 | 79 | yourmomz |
-| 482 | 79 | JoAnn Summerlot Ratliff |
-| 483 | 79 | Giggy Snapgrid |
+| 482 | 79 | Giggy Snapgrid |
+| 483 | 79 | Jacinta Hooker-Brown |
 | 484 | 79 | Has2brat |
-| 485 | 79 | Jacinta Hooker-Brown |
-| 486 | 78 | Dena Lynn Rogers |
-| 487 | 78 | Mint Marquez |
+| 485 | 79 | JoAnn Summerlot Ratliff |
+| 486 | 78 | Mint Marquez |
+| 487 | 78 | Dena Lynn Rogers |
 | 488 | 77 | Ajohnna Frazee |
 | 489 | 77 | Bonique Bier |
-| 490 | 76 | Perry Ransom |
-| 491 | 76 | Frisky Balance |
-| 492 | 75 | Shawna Downey |
-| 493 | 75 | Kristen Nicole Depp-Stewart |
-| 494 | 75 | BookwormCate |
+| 490 | 76 | Frisky Balance |
+| 491 | 76 | Perry Ransom |
+| 492 | 76 | Clever Patterner |
+| 493 | 75 | Shawna Downey |
+| 494 | 75 | Kristen Nicole Depp-Stewart |
 | 495 | 75 | Marco A. Sandoval |
-| 496 | 74 | Charity Thomas |
+| 496 | 75 | BookwormCate |
 | 497 | 74 | Ami Ferguson |
-| 498 | 74 | Jason Moves |
-| 499 | 74 | Clever Patterner |
+| 498 | 74 | Charity Thomas |
+| 499 | 74 | Jason Moves |
 | 500 | 73 | Marcus Fontenot |
 | 501 | 73 | Csigirlnc |
 | 502 | 73 | Happy Toast |
-| 503 | 73 | Tiffany Roberts |
-| 504 | 73 | Destiny Starr LeValdo |
+| 503 | 73 | Destiny Starr LeValdo |
+| 504 | 73 | Tiffany Roberts |
 | 505 | 73 | Giggly Rollpiece |
-| 506 | 72 | Deana Teck |
+| 506 | 72 | sierrabeth |
 | 507 | 72 | Loretta Hendricks |
 | 508 | 72 | Fancy Riser |
 | 509 | 72 | Virgil Mayfield-Brown |
 | 510 | 72 | Ian T Parker |
-| 511 | 72 | sierrabeth |
-| 512 | 71 | Kat Foreman |
+| 511 | 72 | Deana Teck |
+| 512 | 71 | Fancy Rollfit |
 | 513 | 71 | Ana Ruiz |
-| 514 | 71 | Fancy Rollfit |
-| 515 | 71 | Alizabeth Garcia |
-| 516 | 71 | Giggy Blockpiece |
-| 517 | 71 | Taquilla Branch |
-| 518 | 71 | Jace McCullough |
-| 519 | 71 | Snazzy Fitclear |
-| 520 | 70 | Joha Mldo Castillo |
+| 514 | 71 | Alizabeth Garcia |
+| 515 | 71 | Giggy Blockpiece |
+| 516 | 71 | Taquilla Branch |
+| 517 | 71 | Jace McCullough |
+| 518 | 71 | Snazzy Fitclear |
+| 519 | 71 | Kat Foreman |
+| 520 | 70 | Kimberly Devon |
 | 521 | 70 | Giggy Splitter |
-| 522 | 70 | Charlene Nicole Guidry |
+| 522 | 70 | Joha Mldo Castillo |
 | 523 | 70 | LilithMoon |
-| 524 | 70 | Kimberly Devon |
-| 525 | 70 | Winter Moon |
-| 526 | 70 | Breezy Blockzone |
+| 524 | 70 | Charlene Nicole Guidry |
+| 525 | 70 | Breezy Blockzone |
+| 526 | 70 | Winter Moon |
 | 527 | 69 | Beth Belanger |
 | 528 | 69 | Jj Johnson |
 | 529 | 69 | Khylee DarDar |
