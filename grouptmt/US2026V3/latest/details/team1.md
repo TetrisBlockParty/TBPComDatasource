@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:25:18 UTC
+# Standings for team1 as of 2026-06-07 11:26:18 UTC
 
 **Total Participants:** 1445
 
@@ -32,7 +32,7 @@
 | 24 | 2415 | Yolanda McDonald |
 | 25 | 2269 | Mary Jenkins |
 | 26 | 2076 | April Inboden |
-| 27 | 2005 | Epic Snapfall |
+| 27 | 2015 | Epic Snapfall |
 | 28 | 1988 | Jo NewmindNewfocus Bell |
 | 29 | 1983 | COSA303 |
 | 30 | 1938 | Linzie Marie |
@@ -1424,10 +1424,10 @@
 | 1416 | 6 | Kyshia |
 | 1417 | 6 | NEM0228 |
 | 1418 | 6 | Tammy Hooser |
-| 1419 | 6 | Stevie Malcon |
-| 1420 | 6 | CK |
-| 1421 | 6 | Evee |
-| 1422 | 5 | Aanngie Aanngie |
+| 1419 | 6 | Evee |
+| 1420 | 6 | Stevie Malcon |
+| 1421 | 6 | CK |
+| 1422 | 5 | Angelique Thomas |
 | 1423 | 5 | Schuyler Carson Jackson |
 | 1424 | 5 | Godz Chosen |
 | 1425 | 5 | BlessedBeauty |
@@ -1438,19 +1438,19 @@
 | 1430 | 5 | Joy Baker |
 | 1431 | 5 | Marissa Sweet |
 | 1432 | 5 | Alonzo Kirkland |
-| 1433 | 5 | Mighty Riserbuilder |
-| 1434 | 5 | Jason Riley |
-| 1435 | 5 | Ashley Horne |
-| 1436 | 5 | Derek Beverly |
-| 1437 | 5 | the guy |
-| 1438 | 5 | Tito Divyn |
-| 1439 | 5 | pettymexoxo |
+| 1433 | 5 | Aanngie Aanngie |
+| 1434 | 5 | Mighty Riserbuilder |
+| 1435 | 5 | Jason Riley |
+| 1436 | 5 | Annette DeLoatch Thompson |
+| 1437 | 5 | Carol Washington |
+| 1438 | 5 | Jackie Sanasay |
+| 1439 | 5 | Happy |
 | 1440 | 5 | VERA DAME |
-| 1441 | 5 | Happy |
-| 1442 | 5 | Jackie Sanasay |
-| 1443 | 5 | Carol Washington |
-| 1444 | 5 | Annette DeLoatch Thompson |
-| 1445 | 5 | Angelique Thomas |
+| 1441 | 5 | pettymexoxo |
+| 1442 | 5 | Tito Divyn |
+| 1443 | 5 | the guy |
+| 1444 | 5 | Derek Beverly |
+| 1445 | 5 | Ashley Horne |
 
 ---
 *Standings created by tournaments datasource generation tool*
