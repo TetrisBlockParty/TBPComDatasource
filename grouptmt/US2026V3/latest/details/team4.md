@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 06:22:19 UTC
+# Standings for team4 as of 2026-06-07 06:22:40 UTC
 
 **Total Participants:** 1388
 
@@ -146,37 +146,37 @@
 | 138 | 350 | 2 kool |
 | 139 | 346 | Alexis Cor |
 | 140 | 345 | RotatedWrongAgain |
-| 141 | 343 | Cinta Marie |
-| 142 | 340 | Futrell Brent |
-| 143 | 340 | MomyLiz |
-| 144 | 333 | Andrew Dang |
-| 145 | 333 | Taz |
-| 146 | 326 | Bobbie Harrell |
-| 147 | 317 | J |
-| 148 | 315 | Thomasena Eady Reid |
-| 149 | 315 | Shelby |
-| 150 | 311 | Jesse Olive |
-| 151 | 307 | Debby Ruof |
-| 152 | 300 | Genag |
-| 153 | 296 | Randy M Hatch |
-| 154 | 294 | Dazzle Dragon |
-| 155 | 292 | Katie Martin |
-| 156 | 287 | Sisi RedVelvet Reneè |
-| 157 | 282 | Nicole |
-| 158 | 281 | Margie Thomas |
-| 159 | 280 | Suzanne Carter |
-| 160 | 279 | Brick House |
-| 161 | 277 | Giggly Tilt |
-| 162 | 273 | Danielle Mitchell |
-| 163 | 270 | Jojo Ann |
-| 164 | 265 | shawna |
-| 165 | 262 | squareMel |
-| 166 | 261 | Waxboss |
-| 167 | 259 | Megan Vick |
-| 168 | 259 | Jessica Peyton |
-| 169 | 253 | Tammy June |
-| 170 | 248 | Perky Riserbuilder |
-| 171 | 248 | Michelle Ross |
+| 141 | 344 | Michelle Ross |
+| 142 | 343 | Cinta Marie |
+| 143 | 340 | Futrell Brent |
+| 144 | 340 | MomyLiz |
+| 145 | 333 | Andrew Dang |
+| 146 | 333 | Taz |
+| 147 | 326 | Bobbie Harrell |
+| 148 | 317 | J |
+| 149 | 315 | Thomasena Eady Reid |
+| 150 | 315 | Shelby |
+| 151 | 311 | Jesse Olive |
+| 152 | 307 | Debby Ruof |
+| 153 | 300 | Genag |
+| 154 | 296 | Randy M Hatch |
+| 155 | 294 | Dazzle Dragon |
+| 156 | 292 | Katie Martin |
+| 157 | 287 | Sisi RedVelvet Reneè |
+| 158 | 282 | Nicole |
+| 159 | 281 | Margie Thomas |
+| 160 | 280 | Suzanne Carter |
+| 161 | 279 | Brick House |
+| 162 | 277 | Giggly Tilt |
+| 163 | 273 | Danielle Mitchell |
+| 164 | 270 | Jojo Ann |
+| 165 | 265 | shawna |
+| 166 | 262 | squareMel |
+| 167 | 261 | Waxboss |
+| 168 | 259 | Megan Vick |
+| 169 | 259 | Jessica Peyton |
+| 170 | 253 | Tammy June |
+| 171 | 248 | Perky Riserbuilder |
 | 172 | 247 | QueenLi86 |
 | 173 | 247 | LastBoi |
 | 174 | 244 | matt |

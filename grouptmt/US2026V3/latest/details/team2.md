@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:22:19 UTC
+# Standings for team2 as of 2026-06-07 06:22:40 UTC
 
 **Total Participants:** 1656
 
@@ -113,7 +113,7 @@
 | 105 | 592 | Brandon Link |
 | 106 | 588 | Kellie Sharp Godfrey |
 | 107 | 585 | Rhonda Diebold |
-| 108 | 582 | Alison Waller |
+| 108 | 585 | Alison Waller |
 | 109 | 581 | Dsabrina Maxey |
 | 110 | 578 | Krisanne Kesner-Lonsby |
 | 111 | 577 | Lindsay Klemp |
