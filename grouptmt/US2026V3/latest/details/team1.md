@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:15:18 UTC
+# Standings for team1 as of 2026-06-07 12:16:18 UTC
 
 **Total Participants:** 1449
 
@@ -13,8 +13,8 @@
 | 5 | 8120 | Carrie English |
 | 6 | 7602 | Charlie Roehm |
 | 7 | 7059 | Tracy Cohen |
-| 8 | 6802 | Cozy Edge |
-| 9 | 6801 | Dyane Leah Ware |
+| 8 | 6835 | Dyane Leah Ware |
+| 9 | 6802 | Cozy Edge |
 | 10 | 6754 | Death by SnuSnu |
 | 11 | 6150 | Songne Arif |
 | 12 | 5512 | Jocelyn Pope-Sewell |
@@ -155,7 +155,7 @@
 | 147 | 351 | Uneekly Mayde |
 | 148 | 348 | LeeLee08 |
 | 149 | 348 | pooh |
-| 150 | 341 | Ceilo Marie |
+| 150 | 345 | Ceilo Marie |
 | 151 | 339 | Ty Øtg |
 | 152 | 338 | Sheila Burnham |
 | 153 | 333 | La'Chae Nickole |
@@ -262,14 +262,14 @@
 | 254 | 191 | DaGuy |
 | 255 | 190 | Chipper Snapper |
 | 256 | 189 | LaShaun Stinson |
-| 257 | 188 | Cheeky Pop |
-| 258 | 187 | Kenny MrOnethousand Peck |
-| 259 | 187 | MACHETEEDDIE513 |
-| 260 | 187 | Heather Aurelia |
-| 261 | 186 | Snippy Breaker |
-| 262 | 186 | Stephen Providenti |
-| 263 | 186 | Lesley Brunkus Cianfaglione |
-| 264 | 185 | Richard Flex |
+| 257 | 189 | Richard Flex |
+| 258 | 188 | Cheeky Pop |
+| 259 | 187 | Kenny MrOnethousand Peck |
+| 260 | 187 | MACHETEEDDIE513 |
+| 261 | 187 | Heather Aurelia |
+| 262 | 186 | Snippy Breaker |
+| 263 | 186 | Stephen Providenti |
+| 264 | 186 | Lesley Brunkus Cianfaglione |
 | 265 | 184 | Bbyunicorn |
 | 266 | 184 | Dai Bo |
 | 267 | 183 | Wild Out Nai |
@@ -720,48 +720,48 @@
 | 712 | 59 | Sugar Foot |
 | 713 | 59 | Tonny Williams |
 | 714 | 59 | OhNoZer0 |
-| 715 | 59 | Elizabeth Hopkins |
-| 716 | 59 | Kortney Adams |
+| 715 | 59 | Kim Holzmiller |
+| 716 | 59 | Elizabeth Hopkins |
 | 717 | 59 | Twisty Brickfit |
-| 718 | 59 | Evette Moreno |
-| 719 | 59 | Tamyka E Williams |
-| 720 | 59 | Fatty May |
-| 721 | 58 | Gabriela Hernandez |
-| 722 | 58 | Tiffany Jean Hinson |
-| 723 | 58 | NickyJay Jones |
-| 724 | 58 | Brandy Way |
-| 725 | 58 | Alexandrla Smith |
+| 718 | 59 | Kortney Adams |
+| 719 | 59 | Evette Moreno |
+| 720 | 59 | Tamyka E Williams |
+| 721 | 59 | Fatty May |
+| 722 | 58 | Gabriela Hernandez |
+| 723 | 58 | Tiffany Jean Hinson |
+| 724 | 58 | NickyJay Jones |
+| 725 | 58 | Brandy Way |
 | 726 | 58 | CoaCoa Myles |
-| 727 | 57 | Danny Talbot |
-| 728 | 57 | Kenny 'Tailormade' Boyd |
-| 729 | 57 | Pinky Pink |
-| 730 | 57 | Christy Quick |
-| 731 | 57 | Desire Rice |
-| 732 | 57 | Angela L Charles |
-| 733 | 56 | QueenzMo |
+| 727 | 58 | Alexandrla Smith |
+| 728 | 57 | Danny Talbot |
+| 729 | 57 | Kenny 'Tailormade' Boyd |
+| 730 | 57 | Desire Rice |
+| 731 | 57 | Pinky Pink |
+| 732 | 57 | Christy Quick |
+| 733 | 57 | Angela L Charles |
 | 734 | 56 | Sally Elizabeth Hopson |
-| 735 | 56 | Kim Holzmiller |
+| 735 | 56 | Kyle Conley |
 | 736 | 56 | Lisa Ivy |
 | 737 | 56 | jeremy92 |
-| 738 | 56 | Kyle Conley |
+| 738 | 56 | QueenzMo |
 | 739 | 56 | Chanel White |
 | 740 | 56 | Nona Harriel |
 | 741 | 56 | Maria Baez Medina |
-| 742 | 55 | nameno |
+| 742 | 55 | Kyle Franklin |
 | 743 | 55 | Jane Lame |
-| 744 | 55 | PSD |
-| 745 | 55 | Vernon Hoyt |
-| 746 | 55 | Shakmar |
-| 747 | 55 | Kyle Franklin |
-| 748 | 55 | KoolKimJay |
+| 744 | 55 | Shakmar |
+| 745 | 55 | PSD |
+| 746 | 55 | KoolKimJay |
+| 747 | 55 | nameno |
+| 748 | 55 | Vernon Hoyt |
 | 749 | 55 | Witty Clear |
-| 750 | 54 | Bubbly Slammer |
-| 751 | 54 | deeno |
-| 752 | 54 | Katness |
-| 753 | 54 | Felicia Yahuah Johnson |
+| 750 | 54 | deeno |
+| 751 | 54 | Bubbly Slammer |
+| 752 | 54 | Markeita Jones |
+| 753 | 54 | Katness |
 | 754 | 54 | Dennis Ripley |
-| 755 | 54 | Meepycat |
-| 756 | 54 | Markeita Jones |
+| 755 | 54 | Felicia Yahuah Johnson |
+| 756 | 54 | Meepycat |
 | 757 | 54 | Embracing Hair |
 | 758 | 54 | Ace Hardware |
 | 759 | 54 | John Spath |
@@ -863,54 +863,54 @@
 | 855 | 45 | Cali Lee |
 | 856 | 45 | Sweet BayBee |
 | 857 | 45 | Matraca Young |
-| 858 | 45 | Cheery Linkfall |
+| 858 | 45 | Tony P Burke |
 | 859 | 45 | Lawreniesha Burkley |
-| 860 | 44 | Tez Mays |
-| 861 | 44 | GiantBehemoth |
-| 862 | 44 | Teresa Menefee |
-| 863 | 44 | Nic Nic |
-| 864 | 44 | LaSharon Jackson |
-| 865 | 44 | Connor Leon Cluff |
-| 866 | 44 | BonnieB |
-| 867 | 43 | Block |
-| 868 | 43 | Vivian Bunnell Myers |
-| 869 | 43 | Corbin Henry |
-| 870 | 43 | Amihan |
-| 871 | 43 | Daphne Ceasar |
-| 872 | 43 | Louise Parker |
-| 873 | 43 | Giggy Brickfit |
-| 874 | 42 | Rikki Moran |
-| 875 | 42 | Taneka Howell |
-| 876 | 42 | Willson06 |
-| 877 | 42 | Ray Baker |
-| 878 | 42 | Peppy Wipeblock |
-| 879 | 42 | Bianca Nawlinsgurl Ferguson |
-| 880 | 42 | Lucy Range |
+| 860 | 45 | Cheery Linkfall |
+| 861 | 44 | LaSharon Jackson |
+| 862 | 44 | Tez Mays |
+| 863 | 44 | GiantBehemoth |
+| 864 | 44 | Teresa Menefee |
+| 865 | 44 | Nic Nic |
+| 866 | 44 | Connor Leon Cluff |
+| 867 | 44 | BonnieB |
+| 868 | 43 | Block |
+| 869 | 43 | Daphne Ceasar |
+| 870 | 43 | Vivian Bunnell Myers |
+| 871 | 43 | Amihan |
+| 872 | 43 | Corbin Henry |
+| 873 | 43 | Louise Parker |
+| 874 | 43 | Giggy Brickfit |
+| 875 | 42 | Rikki Moran |
+| 876 | 42 | Taneka Howell |
+| 877 | 42 | Willson06 |
+| 878 | 42 | Ray Baker |
+| 879 | 42 | Peppy Wipeblock |
+| 880 | 42 | Bianca Nawlinsgurl Ferguson |
 | 881 | 42 | Wacky Spinfit |
 | 882 | 42 | Shanna Green Williams |
-| 883 | 42 | Emeka Agu |
-| 884 | 42 | Gary Kyle |
-| 885 | 42 | Sunny Riserbuilder |
-| 886 | 42 | TeeMaster Barber IsLyfe |
-| 887 | 42 | Louise |
-| 888 | 42 | Tony P Burke |
+| 883 | 42 | Lucy Range |
+| 884 | 42 | Emeka Agu |
+| 885 | 42 | TeeMaster Barber IsLyfe |
+| 886 | 42 | Gary Kyle |
+| 887 | 42 | Sunny Riserbuilder |
+| 888 | 42 | Louise |
 | 889 | 42 | Tammy Scott Mallen |
 | 890 | 42 | Brii Michelle Lamb |
-| 891 | 41 | Laura |
+| 891 | 41 | WOOLFF |
 | 892 | 41 | Cranky Fall |
 | 893 | 41 | Deihja Weaver |
 | 894 | 41 | NataAllDay |
-| 895 | 41 | WOOLFF |
-| 896 | 41 | Delitra Perkins Hatter |
-| 897 | 41 | Crafty Witch |
-| 898 | 41 | Danielle Marie Lewis |
+| 895 | 41 | Delitra Perkins Hatter |
+| 896 | 41 | Danielle Marie Lewis |
+| 897 | 41 | Laura |
+| 898 | 41 | Crafty Witch |
 | 899 | 41 | JLynn Mind Ur's Blackwell |
 | 900 | 40 | Flashy Slam |
-| 901 | 40 | PattyPower |
+| 901 | 40 | Abby |
 | 902 | 40 | Krystal Maynard |
-| 903 | 40 | Abby |
-| 904 | 40 | nay |
-| 905 | 40 | Melissa Hershberger |
+| 903 | 40 | nay |
+| 904 | 40 | Melissa Hershberger |
+| 905 | 40 | PattyPower |
 | 906 | 40 | Genne Scott |
 | 907 | 40 | Ashanti Eden |
 | 908 | 40 | SherylU |
