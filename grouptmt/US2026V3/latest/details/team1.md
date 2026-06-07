@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 22:38:40 UTC
+# Standings for team1 as of 2026-06-07 22:39:18 UTC
 
 **Total Participants:** 1600
 
@@ -189,14 +189,14 @@
 | 181 | 340 | Tamara N Lee |
 | 182 | 340 | Spicy Risepiece |
 | 183 | 339 | Ty Øtg |
-| 184 | 334 | Jayjay Rich |
-| 185 | 333 | La'Chae Nickole |
-| 186 | 330 | Jessica Russell |
-| 187 | 330 | Davionte DaeDae Hopson-Rodriguez |
-| 188 | 330 | Eugina Slater |
-| 189 | 330 | Po Marley |
-| 190 | 328 | Karebear |
-| 191 | 327 | Ebony |
+| 184 | 337 | Ebony |
+| 185 | 334 | Jayjay Rich |
+| 186 | 333 | La'Chae Nickole |
+| 187 | 330 | Jessica Russell |
+| 188 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 189 | 330 | Eugina Slater |
+| 190 | 330 | Po Marley |
+| 191 | 328 | Karebear |
 | 192 | 318 | Nerdy Snapfall |
 | 193 | 318 | Mic Balew |
 | 194 | 316 | Latisha Fairley |
@@ -204,11 +204,11 @@
 | 196 | 311 | Nobles Brandon |
 | 197 | 310 | Chantelle Lee |
 | 198 | 310 | Denise B |
-| 199 | 309 | Zachary Colegrove |
-| 200 | 309 | IThinkNot |
-| 201 | 308 | NastyFriend |
-| 202 | 307 | Byron Mario Cawthon |
-| 203 | 307 | Calvin Green |
+| 199 | 310 | Calvin Green |
+| 200 | 309 | Zachary Colegrove |
+| 201 | 309 | IThinkNot |
+| 202 | 308 | NastyFriend |
+| 203 | 307 | Byron Mario Cawthon |
 | 204 | 306 | Devin West |
 | 205 | 305 | Salim Thugger |
 | 206 | 301 | Steve Reno |
@@ -1519,93 +1519,93 @@
 | 1511 | 9 | Zondria Barnes |
 | 1512 | 9 | LadyMosley |
 | 1513 | 9 | Lia Covington |
-| 1514 | 9 | Clifford Petroske |
-| 1515 | 9 | ummm |
-| 1516 | 9 | Mars |
+| 1514 | 9 | Mars |
+| 1515 | 9 | Shaun Baker |
+| 1516 | 9 | Noni |
 | 1517 | 9 | Dana |
-| 1518 | 9 | Noni |
-| 1519 | 9 | Catelyn Neal |
-| 1520 | 9 | Sunset Owens |
-| 1521 | 9 | John Lovato |
-| 1522 | 9 | Shell Poke |
-| 1523 | 9 | Frisky Linkblock |
-| 1524 | 9 | Groovy Twisterfit |
-| 1525 | 9 | Yester |
-| 1526 | 9 | Beverly S. Robinson |
-| 1527 | 9 | Shaun Baker |
-| 1528 | 9 | Duckey |
-| 1529 | 9 | Geno Bankroll McGill |
-| 1530 | 8 | Ferocity |
-| 1531 | 8 | Rixo Blax |
-| 1532 | 8 | Nissa |
-| 1533 | 8 | David Anthony |
-| 1534 | 8 | Elizabeth Castro |
-| 1535 | 8 | Frothy Matchpiece |
-| 1536 | 8 | Chill Tumbler |
-| 1537 | 8 | Almarasha Grice |
-| 1538 | 8 | jus_ry |
-| 1539 | 8 | Alex Jacks |
-| 1540 | 8 | Hasty Shatterbuilder |
-| 1541 | 8 | Jädaa Laa'Destïnyy |
-| 1542 | 8 | Groovy Riseclear |
-| 1543 | 8 | Sean Walker |
-| 1544 | 8 | Andrew James |
-| 1545 | 8 | Chevonne Huggins |
-| 1546 | 7 | Milfchaser530 |
-| 1547 | 7 | Teresa F. Campos Eaton |
-| 1548 | 7 | KingSlim82 |
-| 1549 | 7 | John Boone |
-| 1550 | 7 | Sheena Hamilton |
-| 1551 | 7 | Jamal Richmond |
-| 1552 | 7 | Hyper Basepiece |
-| 1553 | 7 | RMGreen |
-| 1554 | 7 | Edward Croom |
-| 1555 | 7 | Lively Edgefit |
-| 1556 | 7 | Shane Brucewayne |
-| 1557 | 7 | Bryan Dell |
-| 1558 | 7 | linda m |
-| 1559 | 7 | Court Ney |
-| 1560 | 7 | Alexis Farquer |
-| 1561 | 7 | Deadra Graham |
-| 1562 | 7 | Dimitri Moore |
-| 1563 | 7 | Mary2 |
-| 1564 | 7 | Quana |
-| 1565 | 7 | Joey Hoover |
-| 1566 | 7 | Stephanie L Jeffries Moultrie |
-| 1567 | 7 | Frisky Cascadefit |
-| 1568 | 7 | Lively Stagger |
-| 1569 | 7 | Andrew Harris |
-| 1570 | 7 | Marla |
-| 1571 | 6 | Stevie Malcon |
-| 1572 | 6 | CK |
-| 1573 | 6 | Shadena M Carter Mba |
-| 1574 | 6 | NEM0228 |
-| 1575 | 6 | Kyshia |
-| 1576 | 6 | Shiny Crusher |
-| 1577 | 6 | party t-rex 27 |
-| 1578 | 6 | Tammy Hooser |
-| 1579 | 6 | Michael Gray |
-| 1580 | 6 | Andrae Robinson |
-| 1581 | 6 | Lynn Formby |
-| 1582 | 6 | Nerdy Slam |
-| 1583 | 5 | VERA DAME |
-| 1584 | 5 | BlessedBeauty |
-| 1585 | 5 | Stephanie Zuniga Tullock |
-| 1586 | 5 | Carol Washington |
-| 1587 | 5 | Jennifer Haton Kreighbaum |
-| 1588 | 5 | Happy |
-| 1589 | 5 | pettymexoxo |
-| 1590 | 5 | the guy |
-| 1591 | 5 | Annette DeLoatch Thompson |
-| 1592 | 5 | Aanngie Aanngie |
-| 1593 | 5 | Schuyler Carson Jackson |
-| 1594 | 5 | Godz Chosen |
-| 1595 | 5 | Zesty Brickline |
-| 1596 | 5 | Andy Barnett |
-| 1597 | 5 | Joy Baker |
-| 1598 | 5 | Derek Beverly |
-| 1599 | 5 | Angelique Thomas |
-| 1600 | 5 | MrKeith Debraux |
+| 1518 | 9 | Clifford Petroske |
+| 1519 | 9 | John Lovato |
+| 1520 | 9 | Yester |
+| 1521 | 9 | Frisky Linkblock |
+| 1522 | 9 | Duckey |
+| 1523 | 9 | Geno Bankroll McGill |
+| 1524 | 9 | Shell Poke |
+| 1525 | 9 | Sunset Owens |
+| 1526 | 9 | Catelyn Neal |
+| 1527 | 9 | Beverly S. Robinson |
+| 1528 | 9 | ummm |
+| 1529 | 9 | Groovy Twisterfit |
+| 1530 | 8 | Nissa |
+| 1531 | 8 | Ferocity |
+| 1532 | 8 | Elizabeth Castro |
+| 1533 | 8 | Frothy Matchpiece |
+| 1534 | 8 | Chill Tumbler |
+| 1535 | 8 | Almarasha Grice |
+| 1536 | 8 | Groovy Riseclear |
+| 1537 | 8 | Chevonne Huggins |
+| 1538 | 8 | Andrew James |
+| 1539 | 8 | David Anthony |
+| 1540 | 8 | jus_ry |
+| 1541 | 8 | Hasty Shatterbuilder |
+| 1542 | 8 | Rixo Blax |
+| 1543 | 8 | Alex Jacks |
+| 1544 | 8 | Sean Walker |
+| 1545 | 8 | Jädaa Laa'Destïnyy |
+| 1546 | 7 | KingSlim82 |
+| 1547 | 7 | Milfchaser530 |
+| 1548 | 7 | John Boone |
+| 1549 | 7 | Teresa F. Campos Eaton |
+| 1550 | 7 | Hyper Basepiece |
+| 1551 | 7 | Andrew Harris |
+| 1552 | 7 | Marla |
+| 1553 | 7 | Sheena Hamilton |
+| 1554 | 7 | Lively Stagger |
+| 1555 | 7 | Deadra Graham |
+| 1556 | 7 | Alexis Farquer |
+| 1557 | 7 | Lively Edgefit |
+| 1558 | 7 | Shane Brucewayne |
+| 1559 | 7 | Dimitri Moore |
+| 1560 | 7 | RMGreen |
+| 1561 | 7 | Frisky Cascadefit |
+| 1562 | 7 | Bryan Dell |
+| 1563 | 7 | Stephanie L Jeffries Moultrie |
+| 1564 | 7 | Joey Hoover |
+| 1565 | 7 | Edward Croom |
+| 1566 | 7 | Quana |
+| 1567 | 7 | linda m |
+| 1568 | 7 | Mary2 |
+| 1569 | 7 | Court Ney |
+| 1570 | 7 | Jamal Richmond |
+| 1571 | 6 | NEM0228 |
+| 1572 | 6 | Stevie Malcon |
+| 1573 | 6 | Kyshia |
+| 1574 | 6 | CK |
+| 1575 | 6 | Nerdy Slam |
+| 1576 | 6 | Lynn Formby |
+| 1577 | 6 | Andrae Robinson |
+| 1578 | 6 | Michael Gray |
+| 1579 | 6 | Tammy Hooser |
+| 1580 | 6 | party t-rex 27 |
+| 1581 | 6 | Shiny Crusher |
+| 1582 | 6 | Shadena M Carter Mba |
+| 1583 | 5 | Happy |
+| 1584 | 5 | Stephanie Zuniga Tullock |
+| 1585 | 5 | BlessedBeauty |
+| 1586 | 5 | pettymexoxo |
+| 1587 | 5 | Derek Beverly |
+| 1588 | 5 | Carol Washington |
+| 1589 | 5 | Jennifer Haton Kreighbaum |
+| 1590 | 5 | MrKeith Debraux |
+| 1591 | 5 | Angelique Thomas |
+| 1592 | 5 | Joy Baker |
+| 1593 | 5 | Andy Barnett |
+| 1594 | 5 | Zesty Brickline |
+| 1595 | 5 | Godz Chosen |
+| 1596 | 5 | Schuyler Carson Jackson |
+| 1597 | 5 | Aanngie Aanngie |
+| 1598 | 5 | Annette DeLoatch Thompson |
+| 1599 | 5 | VERA DAME |
+| 1600 | 5 | the guy |
 
 ---
 *Standings created by tournaments datasource generation tool*
