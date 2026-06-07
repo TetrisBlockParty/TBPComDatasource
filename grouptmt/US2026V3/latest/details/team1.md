@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:48:19 UTC
+# Standings for team1 as of 2026-06-07 11:48:40 UTC
 
 **Total Participants:** 1446
 
@@ -95,7 +95,7 @@
 | 87 | 668 | Jonathan Vee Jay |
 | 88 | 661 | Bre Maugh |
 | 89 | 659 | Moomoo |
-| 90 | 621 | Kellie Hall |
+| 90 | 641 | Kellie Hall |
 | 91 | 620 | IamJust Neyamijah Washington Sr. |
 | 92 | 613 | Big Tina |
 | 93 | 601 | JaszyBadd |
@@ -467,10 +467,10 @@
 | 459 | 99 | SeanSanchez |
 | 460 | 98 | Shannon Carriger |
 | 461 | 98 | Sharee Robinson |
-| 462 | 98 | Dorian Griffin |
-| 463 | 98 | Michael Smith |
-| 464 | 97 | Kristie |
-| 465 | 97 | Boldy Matchbuilder |
+| 462 | 98 | Boldy Matchbuilder |
+| 463 | 98 | Dorian Griffin |
+| 464 | 98 | Michael Smith |
+| 465 | 97 | Kristie |
 | 466 | 97 | Shanell Thomas |
 | 467 | 97 | NewEve |
 | 468 | 97 | Erin Sabol |
