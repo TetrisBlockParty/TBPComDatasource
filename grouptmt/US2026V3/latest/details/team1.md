@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:52:41 UTC
+# Standings for team1 as of 2026-06-07 09:53:19 UTC
 
 **Total Participants:** 1435
 
@@ -54,8 +54,8 @@
 | 46 | 1140 | JoJo |
 | 47 | 1133 | Jennifer To |
 | 48 | 1120 | Ryan Meilleur |
-| 49 | 1067 | Catara Renae Oliver |
-| 50 | 1056 | Robyn Caldwell |
+| 49 | 1116 | Robyn Caldwell |
+| 50 | 1067 | Catara Renae Oliver |
 | 51 | 1052 | Shortstak |
 | 52 | 1046 | Spicy Balancer |
 | 53 | 1024 | Chill Clusterer |
