@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 06:58:19 UTC
+# Standings for team4 as of 2026-06-07 06:58:40 UTC
 
 **Total Participants:** 1396
 
@@ -223,11 +223,11 @@
 | 215 | 199 | Chiquita Blue |
 | 216 | 197 | Iforget |
 | 217 | 197 | Tiggerjake |
-| 218 | 195 | Sean Mccleary |
-| 219 | 194 | Jenn Norcross |
-| 220 | 194 | Lisa lisa |
-| 221 | 193 | Tiffany Bunker-Hill |
-| 222 | 190 | Lucy Honer |
+| 218 | 195 | Lucy Honer |
+| 219 | 195 | Sean Mccleary |
+| 220 | 194 | Jenn Norcross |
+| 221 | 194 | Lisa lisa |
+| 222 | 193 | Tiffany Bunker-Hill |
 | 223 | 188 | Lee Ann Gibby |
 | 224 | 187 | Leslie Ann Carter |
 | 225 | 187 | Tipsy Builderline |
