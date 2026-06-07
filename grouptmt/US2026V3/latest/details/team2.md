@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:53:18 UTC
+# Standings for team2 as of 2026-06-07 08:54:20 UTC
 
 **Total Participants:** 1685
 
@@ -34,11 +34,11 @@
 | 26 | 3100 | Danni Campa |
 | 27 | 3090 | Spunky Clicker |
 | 28 | 2936 | Ashley Miller |
-| 29 | 2763 | Angelica Jelli Gillaspy |
-| 30 | 2715 | Angie BBlock |
-| 31 | 2701 | Charles Varca |
-| 32 | 2700 | boblawboblaw |
-| 33 | 2646 | Andre Love |
+| 29 | 2791 | Andre Love |
+| 30 | 2763 | Angelica Jelli Gillaspy |
+| 31 | 2715 | Angie BBlock |
+| 32 | 2701 | Charles Varca |
+| 33 | 2700 | boblawboblaw |
 | 34 | 2640 | Sean Rippa |
 | 35 | 2583 | Quirky Catcher |
 | 36 | 2500 | Anthony Lilley |
@@ -90,8 +90,8 @@
 | 82 | 818 | Lily |
 | 83 | 802 | Charley Bedford |
 | 84 | 800 | Renee Freeman Jacobson |
-| 85 | 799 | Elizabeth Sallas |
-| 86 | 799 | Poppy |
+| 85 | 799 | Poppy |
+| 86 | 799 | Elizabeth Sallas |
 | 87 | 779 | Marie Luciano |
 | 88 | 774 | Deborah Boyce Minor |
 | 89 | 771 | Charlie Wilson |
@@ -99,25 +99,25 @@
 | 91 | 757 | Jazzy Faller |
 | 92 | 750 | Denise Potter |
 | 93 | 749 | Brandi Thompson |
-| 94 | 721 | Hoppy Rotate |
-| 95 | 721 | Smiley Dropper |
+| 94 | 721 | Smiley Dropper |
+| 95 | 721 | Hoppy Rotate |
 | 96 | 685 | Sigmamom |
 | 97 | 666 | Epic Frame |
 | 98 | 656 | Loopy Cascadepiece |
 | 99 | 654 | Bon Lynn |
 | 100 | 639 | Alison Waller |
-| 101 | 632 | Wmk Rathbun |
-| 102 | 632 | Allie Bug |
-| 103 | 629 | Mirr Lulu |
-| 104 | 627 | Le Sandy |
-| 105 | 620 | Amber-leigh Williams |
-| 106 | 612 | Josh Twilley |
-| 107 | 600 | LEW |
-| 108 | 592 | Brandon Link |
-| 109 | 588 | Kellie Sharp Godfrey |
-| 110 | 585 | Rhonda Diebold |
-| 111 | 581 | Dsabrina Maxey |
-| 112 | 580 | Nerdy Climber |
+| 101 | 632 | Allie Bug |
+| 102 | 632 | Wmk Rathbun |
+| 103 | 631 | Nerdy Climber |
+| 104 | 629 | Mirr Lulu |
+| 105 | 627 | Le Sandy |
+| 106 | 620 | Amber-leigh Williams |
+| 107 | 612 | Josh Twilley |
+| 108 | 600 | LEW |
+| 109 | 592 | Brandon Link |
+| 110 | 588 | Kellie Sharp Godfrey |
+| 111 | 585 | Rhonda Diebold |
+| 112 | 581 | Dsabrina Maxey |
 | 113 | 578 | Krisanne Kesner-Lonsby |
 | 114 | 577 | Lindsay Klemp |
 | 115 | 574 | Brandy McCune Reep |
@@ -155,13 +155,13 @@
 | 147 | 404 | Jgato |
 | 148 | 393 | DomDomsNana |
 | 149 | 390 | La chulis |
-| 150 | 389 | Bridget N Jonathan Franz |
-| 151 | 389 | haune |
+| 150 | 389 | haune |
+| 151 | 389 | Bridget N Jonathan Franz |
 | 152 | 386 | Frilly Dashfit |
 | 153 | 381 | Joslyn Johnson |
 | 154 | 380 | Zany Blockclear |
-| 155 | 375 | MaddieCherie |
-| 156 | 375 | Milad Arzani |
+| 155 | 375 | Milad Arzani |
+| 156 | 375 | MaddieCherie |
 | 157 | 365 | Branden Frankowski |
 | 158 | 362 | Nutty Curver |
 | 159 | 360 | Jacob Carpenter |
@@ -172,36 +172,36 @@
 | 164 | 354 | Zesty Strikerbuilder |
 | 165 | 348 | Eric Drane |
 | 166 | 344 | Traci Abern |
-| 167 | 343 | Jason Cook |
-| 168 | 343 | Theresa Marie |
+| 167 | 343 | Theresa Marie |
+| 168 | 343 | Jason Cook |
 | 169 | 342 | Bri St Peter |
-| 170 | 340 | Amy Gregg |
-| 171 | 340 | Mom |
+| 170 | 340 | Mom |
+| 171 | 340 | Amy Gregg |
 | 172 | 339 | Loopy Curvebuilder |
 | 173 | 336 | Jef Wassom |
 | 174 | 333 | Christina Maria |
-| 175 | 328 | Tim Tim |
-| 176 | 328 | Keri Mears |
+| 175 | 328 | Keri Mears |
+| 176 | 328 | Tim Tim |
 | 177 | 325 | Fudgie Pie |
 | 178 | 323 | Shannon Wilson |
 | 179 | 322 | Nikki Hayes |
 | 180 | 319 | Flower_child |
-| 181 | 314 | Danielle Blount |
-| 182 | 314 | DayDreamer79 |
+| 181 | 314 | DayDreamer79 |
+| 182 | 314 | Danielle Blount |
 | 183 | 311 | Hoppy Mover |
 | 184 | 310 | Jennifer Smith |
 | 185 | 309 | Ratchet |
 | 186 | 303 | Chirpy Grid |
 | 187 | 302 | Hypee |
-| 188 | 300 | Hector |
-| 189 | 300 | Linda Guay |
+| 188 | 300 | Linda Guay |
+| 189 | 300 | Hector |
 | 190 | 299 | Mookshake |
-| 191 | 298 | Breeana Bennett |
+| 191 | 298 | Heather Burgett |
 | 192 | 298 | Rob Owens |
-| 193 | 298 | Heather Burgett |
-| 194 | 296 | Brenda Jones |
+| 193 | 298 | Breeana Bennett |
+| 194 | 296 | Snappy Combo |
 | 195 | 296 | Sara Perkins |
-| 196 | 296 | Snappy Combo |
+| 196 | 296 | Brenda Jones |
 | 197 | 295 | Brittney Williams |
 | 198 | 294 | Vistabrat |
 | 199 | 292 | Sarah Mccolgan |
