@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:50:19 UTC
+# Standings for team1 as of 2026-06-07 12:50:42 UTC
 
 **Total Participants:** 1454
 
@@ -79,7 +79,7 @@
 | 71 | 854 | Eric Mcgaughy |
 | 72 | 836 | Tiana Moore |
 | 73 | 803 | Kimberly Hernandez |
-| 74 | 796 | Jazzy Dashpiece |
+| 74 | 798 | Jazzy Dashpiece |
 | 75 | 784 | Todd C. Clemens |
 | 76 | 766 | Jaida De'Anne Cox |
 | 77 | 764 | Joy Citizen Pickney |

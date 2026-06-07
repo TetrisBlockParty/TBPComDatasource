@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:50:19 UTC
+# Standings for team2 as of 2026-06-07 12:50:42 UTC
 
 **Total Participants:** 1731
 
@@ -23,7 +23,7 @@
 | 15 | 4668 | Lola C Davis |
 | 16 | 4355 | Alexia Reagan |
 | 17 | 4160 | Kathleen M Cox |
-| 18 | 4021 | Renee Weedling |
+| 18 | 4027 | Renee Weedling |
 | 19 | 3997 | Ber |
 | 20 | 3984 | Amber |
 | 21 | 3981 | Bobbi |
@@ -465,58 +465,58 @@
 | 457 | 125 | Kathryn |
 | 458 | 125 | Jessica Connot |
 | 459 | 125 | Sherri E Woods Hess |
-| 460 | 124 | Wendy Durrence Jones |
-| 461 | 124 | Angeleye A James |
-| 462 | 123 | Simone F |
-| 463 | 123 | Mandy Van Laningham Bishop |
-| 464 | 123 | Partin |
+| 460 | 124 | Angeleye A James |
+| 461 | 124 | Wendy Durrence Jones |
+| 462 | 123 | Partin |
+| 463 | 123 | Simone F |
+| 464 | 123 | Mandy Van Laningham Bishop |
 | 465 | 123 | Martha Lynn Wiggins |
 | 466 | 122 | Kevin Patrick |
 | 467 | 122 | Maria Ward |
-| 468 | 120 | Christine James |
-| 469 | 120 | Carlos J Blas |
-| 470 | 120 | Wendy McKee |
+| 468 | 121 | Chummy Snapbuilder |
+| 469 | 120 | Saucy Wrecker |
+| 470 | 120 | Nichole Wilson |
 | 471 | 120 | Adam Latin |
-| 472 | 120 | Nichole Wilson |
-| 473 | 120 | Saucy Wrecker |
-| 474 | 120 | Keisha Robinson |
-| 475 | 120 | ChefDeb |
-| 476 | 119 | Kenzie |
+| 472 | 120 | Wendy McKee |
+| 473 | 120 | Carlos J Blas |
+| 474 | 120 | ChefDeb |
+| 475 | 120 | Keisha Robinson |
+| 476 | 120 | Christine James |
 | 477 | 119 | Candi Cane |
-| 478 | 118 | Kawana Nesbitt |
-| 479 | 118 | Ceci |
-| 480 | 118 | Crystal Robinson |
-| 481 | 117 | Poppy Strikerbuilder |
-| 482 | 117 | CAL1KAWS559 |
-| 483 | 116 | Violet Olivares |
+| 478 | 119 | Kenzie |
+| 479 | 118 | Kawana Nesbitt |
+| 480 | 118 | Ceci |
+| 481 | 118 | Crystal Robinson |
+| 482 | 117 | Poppy Strikerbuilder |
+| 483 | 117 | CAL1KAWS559 |
 | 484 | 116 | Joshua Dye |
-| 485 | 116 | Epic Framezone |
-| 486 | 115 | Leticia Tillman |
+| 485 | 116 | Violet Olivares |
+| 486 | 116 | Epic Framezone |
 | 487 | 115 | Muffin Popper |
-| 488 | 115 | Amber Carpenter |
-| 489 | 115 | Nova |
-| 490 | 114 | Melissa Abbott |
-| 491 | 113 | Meagan Grimmett Washburn |
-| 492 | 113 | Lively Curve |
-| 493 | 112 | Mike Mordhorst |
+| 488 | 115 | Nova |
+| 489 | 115 | Leticia Tillman |
+| 490 | 115 | Amber Carpenter |
+| 491 | 114 | Melissa Abbott |
+| 492 | 113 | Meagan Grimmett Washburn |
+| 493 | 113 | Lively Curve |
 | 494 | 112 | LadyDeath |
-| 495 | 112 | Kristen |
-| 496 | 111 | Mama G |
-| 497 | 110 | Rachel M. Farnsworth |
-| 498 | 110 | LittleHippoEars |
-| 499 | 109 | Sillyk |
-| 500 | 109 | Jillian Marie |
+| 495 | 112 | Mike Mordhorst |
+| 496 | 112 | Kristen |
+| 497 | 111 | Mama G |
+| 498 | 110 | Rachel M. Farnsworth |
+| 499 | 110 | LittleHippoEars |
+| 500 | 109 | Sillyk |
 | 501 | 109 | Po Yee |
-| 502 | 109 | Chummy Snapbuilder |
-| 503 | 108 | Sherri Caillet Aucoin |
-| 504 | 108 | Heather Vircik |
-| 505 | 108 | Maurii93 |
+| 502 | 109 | Jillian Marie |
+| 503 | 108 | Heather Vircik |
+| 504 | 108 | Maurii93 |
+| 505 | 108 | Sherri Caillet Aucoin |
 | 506 | 108 | Terie Safrit |
-| 507 | 107 | Carole Brown |
-| 508 | 107 | Sam Brewster |
-| 509 | 107 | Stephanie Smith Robinson |
-| 510 | 107 | IncrediDragon |
-| 511 | 107 | Boldy Fitclear |
+| 507 | 107 | IncrediDragon |
+| 508 | 107 | Carole Brown |
+| 509 | 107 | Boldy Fitclear |
+| 510 | 107 | Sam Brewster |
+| 511 | 107 | Stephanie Smith Robinson |
 | 512 | 107 | Josephina |
 | 513 | 107 | Cassandra Green |
 | 514 | 106 | Cassandra Milner |
