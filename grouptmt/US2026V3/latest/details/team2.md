@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:24:39 UTC
+# Standings for team2 as of 2026-06-07 08:25:18 UTC
 
 **Total Participants:** 1680
 
@@ -732,31 +732,31 @@
 | 724 | 64 | Laura Anderson |
 | 725 | 64 | Michelle Arnold |
 | 726 | 63 | April Elaine Messenger |
-| 727 | 63 | Queen |
-| 728 | 63 | Kimmi Blake |
-| 729 | 63 | Connie McCoy |
-| 730 | 63 | Connie Marie Cornell Lerma |
-| 731 | 63 | Rosalie Call Kehlenbeck |
-| 732 | 62 | Saucy Clearzone |
-| 733 | 62 | Diamond Balotje |
-| 734 | 62 | Jessica Murphree |
+| 727 | 63 | Connie McCoy |
+| 728 | 63 | Queen |
+| 729 | 63 | Kimmi Blake |
+| 730 | 63 | CEK |
+| 731 | 63 | Connie Marie Cornell Lerma |
+| 732 | 63 | Rosalie Call Kehlenbeck |
+| 733 | 62 | Jessica Murphree |
+| 734 | 62 | Diamond Balotje |
 | 735 | 62 | Amy Walker |
-| 736 | 62 | Goldie |
-| 737 | 62 | Jana Campbell |
+| 736 | 62 | Jana Campbell |
+| 737 | 62 | Goldie |
 | 738 | 62 | Alana Albritton Seals |
-| 739 | 62 | Rebekah Holland |
-| 740 | 61 | Marcia Davis |
-| 741 | 61 | Mouh Ity |
-| 742 | 61 | Clever Fallmatch |
-| 743 | 61 | Bubbly Dash |
-| 744 | 61 | Glitzy Matchclear |
-| 745 | 61 | Samantha Bugg Stitcher |
-| 746 | 61 | Wacky Stack |
-| 747 | 61 | Ken Vaughn |
-| 748 | 61 | Lil G |
-| 749 | 61 | Damion Morrison |
-| 750 | 61 | Dame Smith |
-| 751 | 60 | Jaimie Walters |
+| 739 | 62 | Saucy Clearzone |
+| 740 | 62 | Rebekah Holland |
+| 741 | 61 | Glitzy Matchclear |
+| 742 | 61 | Bubbly Dash |
+| 743 | 61 | Samantha Bugg Stitcher |
+| 744 | 61 | Clever Fallmatch |
+| 745 | 61 | Marcia Davis |
+| 746 | 61 | Damion Morrison |
+| 747 | 61 | Mouh Ity |
+| 748 | 61 | Wacky Stack |
+| 749 | 61 | Ken Vaughn |
+| 750 | 61 | Lil G |
+| 751 | 61 | Dame Smith |
 | 752 | 60 | Jenna Stahl |
 | 753 | 60 | Snippy Shifter |
 | 754 | 60 | Speedy Gridder |
@@ -764,9 +764,9 @@
 | 756 | 60 | Tonya Greger |
 | 757 | 60 | Doowop40 |
 | 758 | 60 | Gammawms |
-| 759 | 60 | Emily Carns |
-| 760 | 60 | Nicole Chestnut |
-| 761 | 60 | CEK |
+| 759 | 60 | Jaimie Walters |
+| 760 | 60 | Emily Carns |
+| 761 | 60 | Nicole Chestnut |
 | 762 | 60 | Justtony Fareal |
 | 763 | 60 | Chirpy Clearpiece |
 | 764 | 60 | Grimwitch |

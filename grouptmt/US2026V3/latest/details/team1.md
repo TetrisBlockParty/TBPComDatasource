@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:24:39 UTC
+# Standings for team1 as of 2026-06-07 08:25:18 UTC
 
 **Total Participants:** 1424
 
@@ -359,11 +359,11 @@
 | 351 | 125 | Dedra M Prester |
 | 352 | 125 | LaTonya Myers |
 | 353 | 125 | Dizzy Dashy |
-| 354 | 123 | Cauiasia DeJ'ae |
-| 355 | 123 | Rachael Bakowicz Edwards |
-| 356 | 122 | De'Nell Edwards |
-| 357 | 122 | Xana Zania Bopp |
-| 358 | 122 | Eric Spencer Whitaker |
+| 354 | 124 | Eric Spencer Whitaker |
+| 355 | 123 | Cauiasia DeJ'ae |
+| 356 | 123 | Rachael Bakowicz Edwards |
+| 357 | 122 | De'Nell Edwards |
+| 358 | 122 | Xana Zania Bopp |
 | 359 | 121 | Shanaa Germany Crittenden |
 | 360 | 121 | Tiana Monique |
 | 361 | 121 | Bubbly Piececlear |
