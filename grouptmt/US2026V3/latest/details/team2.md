@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:28:20 UTC
+# Standings for team2 as of 2026-06-07 09:28:41 UTC
 
 **Total Participants:** 1689
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Tim Ix |
-| 11 | 6114 | Morgann McDaniel |
+| 10 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -92,23 +92,23 @@
 | 84 | 818 | Lily |
 | 85 | 802 | Charley Bedford |
 | 86 | 800 | Renee Freeman Jacobson |
-| 87 | 799 | Poppy |
-| 88 | 799 | Elizabeth Sallas |
+| 87 | 799 | Elizabeth Sallas |
+| 88 | 799 | Poppy |
 | 89 | 774 | Deborah Boyce Minor |
 | 90 | 771 | Charlie Wilson |
 | 91 | 766 | Sarah Griffey |
 | 92 | 757 | Jazzy Faller |
 | 93 | 750 | Denise Potter |
 | 94 | 749 | Brandi Thompson |
-| 95 | 721 | Hoppy Rotate |
-| 96 | 721 | Smiley Dropper |
+| 95 | 721 | Smiley Dropper |
+| 96 | 721 | Hoppy Rotate |
 | 97 | 685 | Sigmamom |
 | 98 | 666 | Epic Frame |
 | 99 | 656 | Loopy Cascadepiece |
 | 100 | 654 | Bon Lynn |
 | 101 | 639 | Alison Waller |
-| 102 | 632 | Allie Bug |
-| 103 | 632 | Wmk Rathbun |
+| 102 | 632 | Wmk Rathbun |
+| 103 | 632 | Allie Bug |
 | 104 | 629 | Mirr Lulu |
 | 105 | 627 | Le Sandy |
 | 106 | 620 | Amber-leigh Williams |
@@ -166,15 +166,15 @@
 | 158 | 365 | Branden Frankowski |
 | 159 | 360 | Jacob Carpenter |
 | 160 | 359 | Sarah Mccolgan |
-| 161 | 357 | Crystal Allen |
-| 162 | 357 | Erin Thomas |
+| 161 | 357 | Erin Thomas |
+| 162 | 357 | Crystal Allen |
 | 163 | 356 | Lisa Underwood Desmond |
 | 164 | 356 | Joni Michelle Morgan |
 | 165 | 354 | Zesty Strikerbuilder |
 | 166 | 348 | Eric Drane |
 | 167 | 347 | Traci Abern |
-| 168 | 343 | Jason Cook |
-| 169 | 343 | Theresa Marie |
+| 168 | 343 | Theresa Marie |
+| 169 | 343 | Jason Cook |
 | 170 | 342 | Bri St Peter |
 | 171 | 340 | Amy Gregg |
 | 172 | 340 | Mom |
