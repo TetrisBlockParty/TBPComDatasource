@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:00:41 UTC
+# Standings for team4 as of 2026-06-07 07:01:18 UTC
 
 **Total Participants:** 1396
 
@@ -207,66 +207,66 @@
 | 199 | 219 | Plucky Shatterfit |
 | 200 | 218 | Lori Stembridge |
 | 201 | 215 | Jj Johnson |
-| 202 | 213 | Cheery Risegrid |
-| 203 | 211 | Pepone Pepe |
-| 204 | 211 | Goofy Riser |
-| 205 | 211 | Renee Sapp |
-| 206 | 210 | Stephanie Myers |
-| 207 | 207 | Aramat |
-| 208 | 205 | Kristen Wallace |
-| 209 | 204 | Joseph Anthony Watkins |
-| 210 | 202 | Iforget |
-| 211 | 201 | Crystal Hammonds |
-| 212 | 200 | Sarah Montagne Forsberg |
-| 213 | 199 | Lively Blockpiece |
-| 214 | 199 | Janet Willoughby |
-| 215 | 199 | Chiquita Blue |
-| 216 | 199 | Colin |
-| 217 | 197 | Tiggerjake |
-| 218 | 195 | Lucy Honer |
+| 202 | 215 | Lucy Honer |
+| 203 | 213 | Cheery Risegrid |
+| 204 | 211 | Pepone Pepe |
+| 205 | 211 | Goofy Riser |
+| 206 | 211 | Renee Sapp |
+| 207 | 210 | Stephanie Myers |
+| 208 | 207 | Aramat |
+| 209 | 205 | Kristen Wallace |
+| 210 | 204 | Joseph Anthony Watkins |
+| 211 | 202 | Iforget |
+| 212 | 201 | Crystal Hammonds |
+| 213 | 200 | Sarah Montagne Forsberg |
+| 214 | 199 | Lively Blockpiece |
+| 215 | 199 | Janet Willoughby |
+| 216 | 199 | Chiquita Blue |
+| 217 | 199 | Colin |
+| 218 | 197 | Tiggerjake |
 | 219 | 195 | Sean Mccleary |
-| 220 | 194 | Lisa lisa |
-| 221 | 194 | Jenn Norcross |
+| 220 | 194 | Jenn Norcross |
+| 221 | 194 | Lisa lisa |
 | 222 | 193 | Tiffany Bunker-Hill |
 | 223 | 188 | Lee Ann Gibby |
 | 224 | 187 | Tipsy Builderline |
 | 225 | 187 | Leslie Ann Carter |
-| 226 | 186 | Snippy Splitter |
-| 227 | 186 | Kimyatta Cavin |
-| 228 | 185 | Britney Kitora |
-| 229 | 185 | Dae Von |
+| 226 | 186 | Kimyatta Cavin |
+| 227 | 186 | Snippy Splitter |
+| 228 | 185 | Dae Von |
+| 229 | 185 | Britney Kitora |
 | 230 | 185 | PerfectPieces |
-| 231 | 183 | Brandy Lynn |
-| 232 | 183 | Tara Delay Hill |
+| 231 | 183 | Tara Delay Hill |
+| 232 | 183 | Brandy Lynn |
 | 233 | 182 | Jeremy |
-| 234 | 181 | Spicy Chicken |
-| 235 | 181 | Alyson M Kehler |
-| 236 | 181 | EL Booger |
+| 234 | 181 | Alyson M Kehler |
+| 235 | 181 | EL Booger |
+| 236 | 181 | Spicy Chicken |
 | 237 | 180 | ariel |
 | 238 | 179 | LaTanya GeminiondaRise Johnson |
 | 239 | 178 | Tamara Triplet |
-| 240 | 177 | Chirpy Link |
-| 241 | 177 | Damon Gaston |
-| 242 | 177 | Mark Norton |
+| 240 | 177 | Mark Norton |
+| 241 | 177 | Chirpy Link |
+| 242 | 177 | Damon Gaston |
 | 243 | 176 | Nicole Dombrow |
 | 244 | 175 | Jackie Miller |
 | 245 | 173 | Ashley Mcdonald |
 | 246 | 172 | No Time |
 | 247 | 171 | Bridget Stevens |
-| 248 | 169 | Tiffany Smith |
-| 249 | 169 | Andrick |
-| 250 | 167 | Brainbabe |
-| 251 | 167 | Littlebrat |
-| 252 | 167 | Jackie Polanco |
+| 248 | 169 | Andrick |
+| 249 | 169 | Tiffany Smith |
+| 250 | 167 | Littlebrat |
+| 251 | 167 | Jackie Polanco |
+| 252 | 167 | Brainbabe |
 | 253 | 166 | bollo |
 | 254 | 165 | Ryan Paul Clark-Ramsey |
 | 255 | 165 | Erika Seaton |
 | 256 | 164 | Stacy G |
 | 257 | 161 | Bouncy |
 | 258 | 160 | Fran Aaron-Ring |
-| 259 | 160 | Morgan Stevens |
+| 259 | 160 | kellie |
 | 260 | 160 | Frothy Pattern |
-| 261 | 160 | kellie |
+| 261 | 160 | Morgan Stevens |
 | 262 | 159 | Jacqueline Jackii Ramos |
 | 263 | 159 | JoAnn Summerlot Ratliff |
 | 264 | 158 | Joseph Hunter |
@@ -523,60 +523,60 @@
 | 515 | 80 | Keke Johnson |
 | 516 | 80 | Tre'nya Smith |
 | 517 | 80 | Alicia |
-| 518 | 79 | Gean DeJesus |
-| 519 | 79 | Audrianna Skaff |
-| 520 | 79 | Melissa Lowe |
-| 521 | 79 | Azahares Alonso |
-| 522 | 79 | Jacinta Hooker-Brown |
-| 523 | 79 | Has2brat |
-| 524 | 79 | Dru Lui |
-| 525 | 79 | Lul Babie |
-| 526 | 79 | Lisa Jones |
-| 527 | 78 | Destiny Starr LeValdo |
-| 528 | 78 | Dena Lynn Rogers |
-| 529 | 78 | Mint Marquez |
-| 530 | 78 | Shaunna Caldwell |
-| 531 | 77 | Ajohnna Frazee |
-| 532 | 77 | Alizabeth Garcia |
-| 533 | 77 | Bonique Bier |
-| 534 | 77 | Gary Smallwood |
-| 535 | 76 | Frisky Balance |
-| 536 | 76 | Perry Ransom |
-| 537 | 76 | Boldy Striker |
-| 538 | 75 | Kristen Nicole Depp-Stewart |
-| 539 | 75 | BookwormCate |
-| 540 | 75 | Marco A. Sandoval |
-| 541 | 74 | Tiffany Taylor |
-| 542 | 74 | Linda |
-| 543 | 74 | Ami Ferguson |
-| 544 | 74 | Chirpy Corner |
-| 545 | 73 | Mrs Peabod |
-| 546 | 73 | Giggly Rollpiece |
-| 547 | 73 | Marcus Fontenot |
-| 548 | 73 | maria |
-| 549 | 73 | Csigirlnc |
-| 550 | 72 | Fancy Riser |
-| 551 | 72 | Virgil Mayfield-Brown |
-| 552 | 72 | Deana Teck |
-| 553 | 72 | Kat Foreman |
-| 554 | 72 | sierrabeth |
-| 555 | 72 | Loretta Hendricks |
-| 556 | 71 | Fancy Rollfit |
-| 557 | 71 | Ana Ruiz |
-| 558 | 71 | Jace McCullough |
-| 559 | 71 | Giggy Blockpiece |
-| 560 | 71 | Taquilla Branch |
-| 561 | 71 | Snazzy Fitclear |
-| 562 | 71 | Brenda Gustamantes |
-| 563 | 71 | Missionary Meda |
-| 564 | 70 | Kimberly Devon |
-| 565 | 70 | Giggy Splitter |
-| 566 | 70 | LilithMoon |
-| 567 | 70 | Breezy Blockzone |
-| 568 | 70 | Charlene Nicole Guidry |
-| 569 | 70 | Winter Moon |
-| 570 | 70 | Joha Mldo Castillo |
-| 571 | 70 | Bammer |
+| 518 | 79 | Bammer |
+| 519 | 79 | Gean DeJesus |
+| 520 | 79 | Audrianna Skaff |
+| 521 | 79 | Melissa Lowe |
+| 522 | 79 | Azahares Alonso |
+| 523 | 79 | Jacinta Hooker-Brown |
+| 524 | 79 | Has2brat |
+| 525 | 79 | Dru Lui |
+| 526 | 79 | Lul Babie |
+| 527 | 79 | Lisa Jones |
+| 528 | 78 | Destiny Starr LeValdo |
+| 529 | 78 | Dena Lynn Rogers |
+| 530 | 78 | Mint Marquez |
+| 531 | 78 | Shaunna Caldwell |
+| 532 | 77 | Ajohnna Frazee |
+| 533 | 77 | Alizabeth Garcia |
+| 534 | 77 | Bonique Bier |
+| 535 | 77 | Gary Smallwood |
+| 536 | 76 | Frisky Balance |
+| 537 | 76 | Perry Ransom |
+| 538 | 76 | Boldy Striker |
+| 539 | 75 | Kristen Nicole Depp-Stewart |
+| 540 | 75 | BookwormCate |
+| 541 | 75 | Marco A. Sandoval |
+| 542 | 74 | Tiffany Taylor |
+| 543 | 74 | Linda |
+| 544 | 74 | Ami Ferguson |
+| 545 | 74 | Chirpy Corner |
+| 546 | 73 | Mrs Peabod |
+| 547 | 73 | Giggly Rollpiece |
+| 548 | 73 | Marcus Fontenot |
+| 549 | 73 | maria |
+| 550 | 73 | Csigirlnc |
+| 551 | 72 | Fancy Riser |
+| 552 | 72 | Virgil Mayfield-Brown |
+| 553 | 72 | Deana Teck |
+| 554 | 72 | Kat Foreman |
+| 555 | 72 | sierrabeth |
+| 556 | 72 | Loretta Hendricks |
+| 557 | 71 | Fancy Rollfit |
+| 558 | 71 | Ana Ruiz |
+| 559 | 71 | Jace McCullough |
+| 560 | 71 | Giggy Blockpiece |
+| 561 | 71 | Taquilla Branch |
+| 562 | 71 | Snazzy Fitclear |
+| 563 | 71 | Brenda Gustamantes |
+| 564 | 71 | Missionary Meda |
+| 565 | 70 | Kimberly Devon |
+| 566 | 70 | Giggy Splitter |
+| 567 | 70 | LilithMoon |
+| 568 | 70 | Breezy Blockzone |
+| 569 | 70 | Charlene Nicole Guidry |
+| 570 | 70 | Winter Moon |
+| 571 | 70 | Joha Mldo Castillo |
 | 572 | 69 | Alicia Cook |
 | 573 | 69 | Gigi5 |
 | 574 | 69 | Beth Belanger |
@@ -623,29 +623,29 @@
 | 615 | 64 | Mmm |
 | 616 | 64 | Surviving Be Back Soon |
 | 617 | 64 | David Lay |
-| 618 | 64 | Deb 07 |
-| 619 | 63 | JP |
-| 620 | 63 | Brenda Mueller |
-| 621 | 63 | Cassie N Danica Flaherty |
-| 622 | 63 | Shirley A. Godfrey |
-| 623 | 63 | MattJennifer Marie Ericson |
-| 624 | 63 | Marina |
-| 625 | 63 | Phredda Helene Gavornik |
-| 626 | 63 | ButterfliesRFree |
-| 627 | 63 | Swanky Brickzone |
-| 628 | 63 | Amber Jalbert |
-| 629 | 62 | Mar Mar |
-| 630 | 62 | SueSally |
-| 631 | 62 | Stephanie Brock |
-| 632 | 62 | MamaC |
+| 618 | 64 | MamaC |
+| 619 | 64 | Deb 07 |
+| 620 | 63 | JP |
+| 621 | 63 | Brenda Mueller |
+| 622 | 63 | Cassie N Danica Flaherty |
+| 623 | 63 | Shirley A. Godfrey |
+| 624 | 63 | MattJennifer Marie Ericson |
+| 625 | 63 | Marina |
+| 626 | 63 | Phredda Helene Gavornik |
+| 627 | 63 | ButterfliesRFree |
+| 628 | 63 | Swanky Brickzone |
+| 629 | 63 | Amber Jalbert |
+| 630 | 62 | Mar Mar |
+| 631 | 62 | SueSally |
+| 632 | 62 | Stephanie Brock |
 | 633 | 62 | 94Blockhead |
 | 634 | 62 | ShaniP |
 | 635 | 61 | Elisha Thompson |
 | 636 | 61 | Danielle Sulano |
 | 637 | 61 | JustLessie |
-| 638 | 61 | Joe Win |
-| 639 | 61 | Nikcole Alexis Bryan |
-| 640 | 61 | Luunii |
+| 638 | 61 | Nikcole Alexis Bryan |
+| 639 | 61 | Luunii |
+| 640 | 61 | Joe Win |
 | 641 | 61 | Maicy Darrah |
 | 642 | 61 | Butterfly |
 | 643 | 60 | Brett |
