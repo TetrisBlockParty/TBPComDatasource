@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:08:18 UTC
+# Standings for team2 as of 2026-06-07 09:08:39 UTC
 
 **Total Participants:** 1687
 
@@ -178,11 +178,11 @@
 | 170 | 340 | Amy Gregg |
 | 171 | 340 | Mom |
 | 172 | 339 | Loopy Curvebuilder |
-| 173 | 336 | Jef Wassom |
-| 174 | 333 | Christina Maria |
-| 175 | 328 | Keri Mears |
-| 176 | 328 | Tim Tim |
-| 177 | 327 | Sarah Mccolgan |
+| 173 | 337 | Sarah Mccolgan |
+| 174 | 336 | Jef Wassom |
+| 175 | 333 | Christina Maria |
+| 176 | 328 | Keri Mears |
+| 177 | 328 | Tim Tim |
 | 178 | 325 | Fudgie Pie |
 | 179 | 323 | Shannon Wilson |
 | 180 | 322 | Nikki Hayes |

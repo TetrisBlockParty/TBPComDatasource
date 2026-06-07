@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:08:18 UTC
+# Standings for team1 as of 2026-06-07 09:08:39 UTC
 
 **Total Participants:** 1430
 
@@ -52,7 +52,7 @@
 | 44 | 1176 | Daylene Johannes |
 | 45 | 1170 | Ashley Espeut |
 | 46 | 1120 | Ryan Meilleur |
-| 47 | 1108 | Jennifer To |
+| 47 | 1118 | Jennifer To |
 | 48 | 1067 | Catara Renae Oliver |
 | 49 | 1052 | Shortstak |
 | 50 | 1046 | Spicy Balancer |
