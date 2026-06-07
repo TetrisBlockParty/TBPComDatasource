@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:34:18 UTC
+# Standings for team1 as of 2026-06-07 02:34:41 UTC
 
 **Total Participants:** 1295
 
@@ -88,12 +88,12 @@
 | 80 | 586 | Kellie Hall |
 | 81 | 584 | Todd C. Clemens |
 | 82 | 580 | Chirpy Corner |
-| 83 | 552 | Carolynne Walker-Bell |
-| 84 | 550 | PandaPrincess |
-| 85 | 548 | Ottison Dianna |
-| 86 | 541 | Andi McGreevy |
-| 87 | 527 | MommaCia |
-| 88 | 516 | Catara Renae Oliver |
+| 83 | 565 | Catara Renae Oliver |
+| 84 | 552 | Carolynne Walker-Bell |
+| 85 | 550 | PandaPrincess |
+| 86 | 548 | Ottison Dianna |
+| 87 | 541 | Andi McGreevy |
+| 88 | 527 | MommaCia |
 | 89 | 513 | Moomoo |
 | 90 | 511 | Abraham Espaillat |
 | 91 | 511 | Dizzy Dropper |
@@ -568,51 +568,51 @@
 | 560 | 61 | Tonya Thomas |
 | 561 | 61 | Essence Jones |
 | 562 | 61 | Jumpy Gridlock |
-| 563 | 60 | Lauren Farkas |
-| 564 | 60 | Demi Ovalle |
-| 565 | 60 | Xana Zania Bopp |
-| 566 | 60 | lookin |
-| 567 | 60 | Tellisa Payne |
-| 568 | 60 | Missy Myvette |
+| 563 | 61 | Giggly Tiltbuilder |
+| 564 | 60 | lookin |
+| 565 | 60 | Lauren Farkas |
+| 566 | 60 | Demi Ovalle |
+| 567 | 60 | Xana Zania Bopp |
+| 568 | 60 | Tellisa Payne |
 | 569 | 60 | Deveda Williams |
-| 570 | 60 | Yellowguy3 |
-| 571 | 60 | Chuck Quarles |
-| 572 | 60 | Angie Smith |
-| 573 | 60 | Malcolm Stanley |
-| 574 | 60 | Mom3granny2 |
-| 575 | 60 | Jenna Renee |
-| 576 | 60 | Jose Rodriguez |
-| 577 | 60 | Adrian Harris |
-| 578 | 60 | Coco |
-| 579 | 60 | Dianne Clagon |
-| 580 | 59 | Evette Moreno |
-| 581 | 59 | Keith Johnson |
-| 582 | 59 | Danny M GR |
-| 583 | 59 | OhNoZer0 |
-| 584 | 59 | Darrel Pemberton |
-| 585 | 59 | Elizabeth Hopkins |
-| 586 | 59 | Kortney Adams |
-| 587 | 59 | Desi Guerra |
-| 588 | 59 | Tonny Williams |
-| 589 | 59 | Giggly Tiltbuilder |
-| 590 | 59 | Stephen Garland |
-| 591 | 59 | Smiley Tilebuilder |
-| 592 | 58 | Bambi Love |
-| 593 | 58 | CoaCoa Myles |
-| 594 | 58 | Brandy Way |
+| 570 | 60 | Missy Myvette |
+| 571 | 60 | Yellowguy3 |
+| 572 | 60 | Chuck Quarles |
+| 573 | 60 | Angie Smith |
+| 574 | 60 | Malcolm Stanley |
+| 575 | 60 | Mom3granny2 |
+| 576 | 60 | Jenna Renee |
+| 577 | 60 | Jose Rodriguez |
+| 578 | 60 | Adrian Harris |
+| 579 | 60 | Coco |
+| 580 | 60 | Dianne Clagon |
+| 581 | 59 | Evette Moreno |
+| 582 | 59 | Keith Johnson |
+| 583 | 59 | Darrel Pemberton |
+| 584 | 59 | OhNoZer0 |
+| 585 | 59 | Danny M GR |
+| 586 | 59 | Desi Guerra |
+| 587 | 59 | Elizabeth Hopkins |
+| 588 | 59 | Kortney Adams |
+| 589 | 59 | Smiley Tilebuilder |
+| 590 | 59 | Tonny Williams |
+| 591 | 59 | Stephen Garland |
+| 592 | 58 | Alexandrla Smith |
+| 593 | 58 | Sha Anderson |
+| 594 | 58 | Bambi Love |
 | 595 | 58 | FunTime |
-| 596 | 58 | Gabriela Hernandez |
-| 597 | 58 | Alexandrla Smith |
-| 598 | 58 | Sha Anderson |
-| 599 | 57 | Kenny 'Tailormade' Boyd |
+| 596 | 58 | CoaCoa Myles |
+| 597 | 58 | Brandy Way |
+| 598 | 58 | Gabriela Hernandez |
+| 599 | 57 | Sugar Foot |
 | 600 | 57 | Raquel Ortiz |
-| 601 | 57 | Letrishia Andrews |
-| 602 | 57 | Elizabeth Vega Coreano |
-| 603 | 57 | Danny Talbot |
-| 604 | 57 | Angela L Charles |
-| 605 | 57 | Faith Armone |
-| 606 | 57 | Blocksy |
-| 607 | 57 | Sugar Foot |
+| 601 | 57 | Angela L Charles |
+| 602 | 57 | Danny Talbot |
+| 603 | 57 | Kenny 'Tailormade' Boyd |
+| 604 | 57 | Letrishia Andrews |
+| 605 | 57 | Elizabeth Vega Coreano |
+| 606 | 57 | Faith Armone |
+| 607 | 57 | Blocksy |
 | 608 | 57 | ImmeKC |
 | 609 | 56 | Lisa Ivy |
 | 610 | 56 | Nona Harriel |
@@ -981,27 +981,27 @@
 | 973 | 23 | Major314 |
 | 974 | 23 | Shona ShayShay Jones |
 | 975 | 23 | Vontesha Kidd |
-| 976 | 23 | Sherry D Singleton |
-| 977 | 23 | Tabitha Dupre-Allen |
+| 976 | 23 | Tabitha Dupre-Allen |
+| 977 | 23 | Sherry D Singleton |
 | 978 | 23 | DaemahnFriday |
-| 979 | 22 | ShayePooh |
+| 979 | 22 | Embracing Hair |
 | 980 | 22 | Jasmine Hariston-Estis |
 | 981 | 22 | Iván Cedeño |
 | 982 | 22 | Kevin Witdaflute |
-| 983 | 22 | tg |
-| 984 | 22 | Williams Candace |
-| 985 | 21 | Alize |
-| 986 | 21 | Zappy Zoney |
-| 987 | 21 | Chanel White |
+| 983 | 22 | ShayePooh |
+| 984 | 22 | tg |
+| 985 | 22 | Williams Candace |
+| 986 | 21 | Alize |
+| 987 | 21 | Zappy Zoney |
 | 988 | 21 | Cheeky Wipegrid |
-| 989 | 21 | lady |
+| 989 | 21 | Chanel White |
 | 990 | 21 | Christy |
-| 991 | 21 | Carl Proby |
-| 992 | 21 | Slinky Puzzler |
-| 993 | 21 | Crafty Witch |
-| 994 | 21 | Felicia Yahuah Johnson |
-| 995 | 21 | Rachael R Gull |
-| 996 | 21 | Embracing Hair |
+| 991 | 21 | lady |
+| 992 | 21 | Carl Proby |
+| 993 | 21 | Slinky Puzzler |
+| 994 | 21 | Crafty Witch |
+| 995 | 21 | Felicia Yahuah Johnson |
+| 996 | 21 | Rachael R Gull |
 | 997 | 21 | Samona Mcculler |
 | 998 | 21 | Desiree Ryder |
 | 999 | 20 | Cynthia Potter |
@@ -1278,11 +1278,11 @@
 | 1270 | 6 | CK |
 | 1271 | 6 | Frilly Riserbuilder |
 | 1272 | 6 | Wu May |
-| 1273 | 6 | Kyshia |
-| 1274 | 6 | Nerdy Slam |
+| 1273 | 6 | Nerdy Slam |
+| 1274 | 6 | smash56! |
 | 1275 | 6 | Simone Dublin |
-| 1276 | 6 | smash56! |
-| 1277 | 5 | pettymexoxo |
+| 1276 | 6 | Kyshia |
+| 1277 | 5 | Zesty Clearer |
 | 1278 | 5 | Stephanie Zuniga Tullock |
 | 1279 | 5 | VERA DAME |
 | 1280 | 5 | Angelique Thomas |
@@ -1291,16 +1291,16 @@
 | 1283 | 5 | Andy Barnett |
 | 1284 | 5 | Schuyler Carson Jackson |
 | 1285 | 5 | Mario Meliodas |
-| 1286 | 5 | Meshia |
-| 1287 | 5 | Marissa Sweet |
-| 1288 | 5 | DRIFTER |
-| 1289 | 5 | Derek Beverly |
-| 1290 | 5 | Aanngie Aanngie |
-| 1291 | 5 | the guy |
-| 1292 | 5 | Tito Divyn |
-| 1293 | 5 | Zesty Clearer |
-| 1294 | 5 | Annette DeLoatch Thompson |
-| 1295 | 5 | Chill Linkroll |
+| 1286 | 5 | Chill Linkroll |
+| 1287 | 5 | Meshia |
+| 1288 | 5 | pettymexoxo |
+| 1289 | 5 | Marissa Sweet |
+| 1290 | 5 | DRIFTER |
+| 1291 | 5 | Derek Beverly |
+| 1292 | 5 | Aanngie Aanngie |
+| 1293 | 5 | the guy |
+| 1294 | 5 | Tito Divyn |
+| 1295 | 5 | Annette DeLoatch Thompson |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:34:18 UTC
+# Standings for team4 as of 2026-06-07 02:34:41 UTC
 
 **Total Participants:** 1287
 
@@ -43,8 +43,8 @@
 | 35 | 1333 | Alexandria Frazier |
 | 36 | 1249 | Charlie Lewis |
 | 37 | 1200 | Caitlin Johnson |
-| 38 | 1089 | Ning Quiambao |
-| 39 | 1089 | Bryan DjMagnum Evans |
+| 38 | 1089 | Bryan DjMagnum Evans |
+| 39 | 1089 | Ning Quiambao |
 | 40 | 985 | Nick Graber |
 | 41 | 971 | Loony Towerer |
 | 42 | 966 | BertaF1irta |
@@ -77,8 +77,8 @@
 | 69 | 660 | Jenn Fitzgerald |
 | 70 | 654 | Jonathan Hewitt |
 | 71 | 646 | Blayne Kole |
-| 72 | 644 | Kelly Bernard |
-| 73 | 644 | woopa 716 |
+| 72 | 644 | woopa 716 |
+| 73 | 644 | Kelly Bernard |
 | 74 | 638 | Annastaissia Todd |
 | 75 | 623 | Hairy Snake |
 | 76 | 622 | Dheeh Robles |
@@ -106,11 +106,11 @@
 | 98 | 422 | Sarah Berry Stevens |
 | 99 | 418 | GeorgeButts |
 | 100 | 416 | Ermadette |
-| 101 | 400 | Nicole Peoples |
+| 101 | 400 | Sassy Column |
 | 102 | 400 | DexterDobbins |
-| 103 | 400 | Gigglycat |
-| 104 | 400 | Amber Doyle |
-| 105 | 400 | Sassy Column |
+| 103 | 400 | Amber Doyle |
+| 104 | 400 | Gigglycat |
+| 105 | 400 | Nicole Peoples |
 | 106 | 398 | Kay |
 | 107 | 398 | Cherry |
 | 108 | 397 | Real Talk Vibes |
@@ -121,8 +121,8 @@
 | 113 | 378 | Kim |
 | 114 | 376 | Jason Garnatz |
 | 115 | 374 | Daryn Elliott |
-| 116 | 373 | Boldy Rumbler |
-| 117 | 373 | Tanita Jobe |
+| 116 | 373 | Tanita Jobe |
+| 117 | 373 | Boldy Rumbler |
 | 118 | 371 | Snappy Fitzone |
 | 119 | 359 | BCO22 |
 | 120 | 358 | Joyce Myers |
@@ -130,18 +130,18 @@
 | 122 | 347 | Nikki Fuller Johnson |
 | 123 | 346 | Alexis Cor |
 | 124 | 345 | RotatedWrongAgain |
-| 125 | 343 | Gorica Prusina |
-| 126 | 343 | Cinta Marie |
+| 125 | 343 | Cinta Marie |
+| 126 | 343 | Gorica Prusina |
 | 127 | 326 | Bobbie Harrell |
 | 128 | 322 | Taz |
 | 129 | 320 | Futrell Brent |
 | 130 | 317 | J |
-| 131 | 315 | Thomasena Eady Reid |
-| 132 | 315 | Andrew Dang |
+| 131 | 315 | Andrew Dang |
+| 132 | 315 | Thomasena Eady Reid |
 | 133 | 311 | Jesse Olive |
 | 134 | 307 | Debby Ruof |
-| 135 | 300 | Hasty Builder |
-| 136 | 300 | Genag |
+| 135 | 300 | Genag |
+| 136 | 300 | Hasty Builder |
 | 137 | 300 | 2 kool |
 | 138 | 292 | Katie Martin |
 | 139 | 290 | Dana Smith |
@@ -161,8 +161,8 @@
 | 153 | 244 | matt |
 | 154 | 237 | Anna Gribble |
 | 155 | 235 | Hwanger Land |
-| 156 | 233 | Christy Beezley-Forbush |
-| 157 | 233 | Sisi RedVelvet Reneè |
+| 156 | 233 | Sisi RedVelvet Reneè |
+| 157 | 233 | Christy Beezley-Forbush |
 | 158 | 232 | Scamp Jones |
 | 159 | 231 | Becky McCool |
 | 160 | 230 | gabs |
@@ -172,51 +172,51 @@
 | 164 | 224 | TRUCHILD777$$$ |
 | 165 | 223 | Slimm |
 | 166 | 222 | Danny Ortiz |
-| 167 | 220 | MomyLiz |
-| 168 | 220 | Shmeedo |
-| 169 | 220 | Magz |
-| 170 | 220 | Silly Risegrid |
+| 167 | 220 | Shmeedo |
+| 168 | 220 | MomyLiz |
+| 169 | 220 | Silly Risegrid |
+| 170 | 220 | Magz |
 | 171 | 218 | Dubiousdust |
 | 172 | 215 | Perky Riserbuilder |
 | 173 | 212 | blockhead |
-| 174 | 211 | Renee Sapp |
-| 175 | 211 | Goofy Riser |
+| 174 | 211 | Goofy Riser |
+| 175 | 211 | Renee Sapp |
 | 176 | 210 | Stephanie Myers |
 | 177 | 207 | Aramat |
 | 178 | 207 | Katie Lynn Petit |
-| 179 | 203 | Patrick Alley |
-| 180 | 203 | Megan Vick |
+| 179 | 203 | Megan Vick |
+| 180 | 203 | Patrick Alley |
 | 181 | 200 | Sarah Montagne Forsberg |
 | 182 | 199 | Colin |
 | 183 | 197 | Tiggerjake |
 | 184 | 195 | Lively Blockpiece |
 | 185 | 195 | Sean Mccleary |
-| 186 | 194 | Lisa lisa |
-| 187 | 194 | Chiquita Blue |
+| 186 | 194 | Chiquita Blue |
+| 187 | 194 | Lisa lisa |
 | 188 | 194 | Jenn Norcross |
 | 189 | 193 | Tiffany Bunker-Hill |
-| 190 | 191 | Dee Wizz |
-| 191 | 191 | Alma López Morales |
+| 190 | 191 | Alma López Morales |
+| 191 | 191 | Dee Wizz |
 | 192 | 190 | BusterBear56 |
 | 193 | 188 | Lee Ann Gibby |
 | 194 | 188 | Pepone Pepe |
-| 195 | 187 | Devinlee Brown |
-| 196 | 187 | Leslie Ann Carter |
+| 195 | 187 | Leslie Ann Carter |
+| 196 | 187 | Devinlee Brown |
 | 197 | 186 | Kimyatta Cavin |
-| 198 | 185 | Dae Von |
-| 199 | 185 | PerfectPieces |
+| 198 | 185 | PerfectPieces |
+| 199 | 185 | Dae Von |
 | 200 | 184 | Lucy Honer |
 | 201 | 183 | Tara Delay Hill |
-| 202 | 183 | Brandy Lynn |
-| 203 | 183 | Tammy June |
-| 204 | 181 | Alyson M Kehler |
-| 205 | 181 | EL Booger |
+| 202 | 183 | Tammy June |
+| 203 | 183 | Brandy Lynn |
+| 204 | 181 | EL Booger |
+| 205 | 181 | Alyson M Kehler |
 | 206 | 180 | ariel |
 | 207 | 179 | LaTanya GeminiondaRise Johnson |
 | 208 | 178 | Tamara Triplet |
 | 209 | 178 | Spicy Chicken |
-| 210 | 177 | Damon Gaston |
-| 211 | 177 | Chirpy Link |
+| 210 | 177 | Chirpy Link |
+| 211 | 177 | Damon Gaston |
 | 212 | 176 | Nicole Dombrow |
 | 213 | 175 | Jackie Miller |
 | 214 | 173 | Ashley Mcdonald |
@@ -230,31 +230,31 @@
 | 222 | 164 | Stacy G |
 | 223 | 162 | Shocinda Sherwood |
 | 224 | 160 | Morgan Stevens |
-| 225 | 160 | Frothy Pattern |
-| 226 | 160 | Tipsy Builderline |
-| 227 | 159 | kellie |
-| 228 | 159 | Jackie Polanco |
+| 225 | 160 | Tipsy Builderline |
+| 226 | 160 | Frothy Pattern |
+| 227 | 159 | Jackie Polanco |
+| 228 | 159 | kellie |
 | 229 | 158 | Bouncy |
-| 230 | 157 | Laguya |
-| 231 | 157 | Mark Norton |
+| 230 | 157 | Mark Norton |
+| 231 | 157 | Laguya |
 | 232 | 156 | Janet Sanfilippo Sullivan |
 | 233 | 155 | Shayna Vaigneur-Hall |
 | 234 | 155 | Bonnie Powell |
 | 235 | 154 | No Time |
-| 236 | 154 | Lani |
-| 237 | 154 | Andrick |
+| 236 | 154 | Andrick |
+| 237 | 154 | Lani |
 | 238 | 153 | Chris Covington |
 | 239 | 153 | Shelby |
 | 240 | 153 | Queen B |
 | 241 | 152 | Samara Garcia |
 | 242 | 152 | Jumpy Builderpiece |
-| 243 | 150 | MrsReap |
-| 244 | 150 | Heidi Anne Scheiderer |
+| 243 | 150 | Heidi Anne Scheiderer |
+| 244 | 150 | MrsReap |
 | 245 | 150 | Lush Fitblock |
-| 246 | 148 | Joseph Hunter |
-| 247 | 148 | Smiley Gridzone |
-| 248 | 147 | Hannah Pazar |
-| 249 | 147 | EvoKitty |
+| 246 | 148 | Smiley Gridzone |
+| 247 | 148 | Joseph Hunter |
+| 248 | 147 | EvoKitty |
+| 249 | 147 | Hannah Pazar |
 | 250 | 146 | Jasmine Marie |
 | 251 | 145 | Erika Seaton |
 | 252 | 145 | June Hoffman |
@@ -631,14 +631,14 @@
 | 623 | 56 | Natalie Ohrtman Strand |
 | 624 | 56 | Dapper Tiltpiece |
 | 625 | 56 | Jennifer Brucz |
-| 626 | 55 | Bee |
-| 627 | 55 | Cherrel M. Causey |
-| 628 | 55 | Erika Rubio |
-| 629 | 55 | Krissy Smith |
-| 630 | 55 | The Jazziest |
-| 631 | 55 | Donny Keets |
-| 632 | 55 | Julian Gasque |
-| 633 | 54 | Brittany |
+| 626 | 56 | Brittany |
+| 627 | 55 | Bee |
+| 628 | 55 | Cherrel M. Causey |
+| 629 | 55 | Erika Rubio |
+| 630 | 55 | Krissy Smith |
+| 631 | 55 | The Jazziest |
+| 632 | 55 | Donny Keets |
+| 633 | 55 | Julian Gasque |
 | 634 | 54 | Bean |
 | 635 | 54 | Lisa Ferriero-Daudin |
 | 636 | 54 | Leslie |
