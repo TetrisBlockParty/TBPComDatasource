@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 02:16:18 UTC
+# Standings for team4 as of 2026-06-07 02:16:40 UTC
 
 **Total Participants:** 1274
 
@@ -43,8 +43,8 @@
 | 35 | 1333 | Alexandria Frazier |
 | 36 | 1249 | Charlie Lewis |
 | 37 | 1200 | Caitlin Johnson |
-| 38 | 1089 | Ning Quiambao |
-| 39 | 1089 | Bryan DjMagnum Evans |
+| 38 | 1089 | Bryan DjMagnum Evans |
+| 39 | 1089 | Ning Quiambao |
 | 40 | 985 | Nick Graber |
 | 41 | 971 | Loony Towerer |
 | 42 | 966 | BertaF1irta |
@@ -161,8 +161,8 @@
 | 153 | 244 | matt |
 | 154 | 237 | Anna Gribble |
 | 155 | 235 | Hwanger Land |
-| 156 | 233 | Sisi RedVelvet Reneè |
-| 157 | 233 | Christy Beezley-Forbush |
+| 156 | 233 | Christy Beezley-Forbush |
+| 157 | 233 | Sisi RedVelvet Reneè |
 | 158 | 232 | Scamp Jones |
 | 159 | 231 | Becky McCool |
 | 160 | 230 | gabs |
@@ -171,15 +171,15 @@
 | 163 | 224 | TRUCHILD777$$$ |
 | 164 | 223 | Slimm |
 | 165 | 222 | Danny Ortiz |
-| 166 | 220 | Silly Risegrid |
+| 166 | 220 | Magz |
 | 167 | 220 | MomyLiz |
-| 168 | 220 | Shmeedo |
-| 169 | 220 | Magz |
+| 168 | 220 | Silly Risegrid |
+| 169 | 220 | Shmeedo |
 | 170 | 218 | Dubiousdust |
 | 171 | 215 | Perky Riserbuilder |
 | 172 | 212 | blockhead |
-| 173 | 211 | Renee Sapp |
-| 174 | 211 | Goofy Riser |
+| 173 | 211 | Goofy Riser |
+| 174 | 211 | Renee Sapp |
 | 175 | 210 | Stephanie Myers |
 | 176 | 207 | Katie Lynn Petit |
 | 177 | 207 | Aramat |
@@ -188,14 +188,14 @@
 | 180 | 200 | Sarah Montagne Forsberg |
 | 181 | 199 | Colin |
 | 182 | 197 | Tiggerjake |
-| 183 | 195 | Lively Blockpiece |
-| 184 | 195 | Sean Mccleary |
+| 183 | 195 | Sean Mccleary |
+| 184 | 195 | Lively Blockpiece |
 | 185 | 194 | Jenn Norcross |
-| 186 | 194 | Chiquita Blue |
-| 187 | 194 | Lisa lisa |
+| 186 | 194 | Lisa lisa |
+| 187 | 194 | Chiquita Blue |
 | 188 | 193 | Tiffany Bunker-Hill |
-| 189 | 191 | Alma López Morales |
-| 190 | 191 | Dee Wizz |
+| 189 | 191 | Dee Wizz |
+| 190 | 191 | Alma López Morales |
 | 191 | 190 | BusterBear56 |
 | 192 | 188 | Lee Ann Gibby |
 | 193 | 188 | Pepone Pepe |
@@ -205,20 +205,20 @@
 | 197 | 185 | PerfectPieces |
 | 198 | 185 | Dae Von |
 | 199 | 184 | Lucy Honer |
-| 200 | 183 | Tara Delay Hill |
-| 201 | 183 | Brandy Lynn |
+| 200 | 183 | Brandy Lynn |
+| 201 | 183 | Tara Delay Hill |
 | 202 | 183 | Tammy June |
-| 203 | 181 | EL Booger |
-| 204 | 179 | LaTanya GeminiondaRise Johnson |
+| 203 | 181 | Alyson M Kehler |
+| 204 | 181 | EL Booger |
 | 205 | 179 | ariel |
-| 206 | 178 | Spicy Chicken |
+| 206 | 179 | LaTanya GeminiondaRise Johnson |
 | 207 | 178 | Tamara Triplet |
-| 208 | 177 | Chirpy Link |
-| 209 | 177 | Damon Gaston |
-| 210 | 175 | Jackie Miller |
-| 211 | 173 | Ashley Mcdonald |
-| 212 | 172 | Tawna Curry |
-| 213 | 171 | Alyson M Kehler |
+| 208 | 178 | Spicy Chicken |
+| 209 | 177 | Chirpy Link |
+| 210 | 177 | Damon Gaston |
+| 211 | 175 | Jackie Miller |
+| 212 | 173 | Ashley Mcdonald |
+| 213 | 172 | Tawna Curry |
 | 214 | 171 | Crystal Hammonds |
 | 215 | 169 | Tiffany Smith |
 | 216 | 167 | Littlebrat |
