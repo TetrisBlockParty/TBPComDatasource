@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:40:39 UTC
+# Standings for team2 as of 2026-06-07 06:41:18 UTC
 
 **Total Participants:** 1660
 
@@ -40,8 +40,8 @@
 | 32 | 2640 | Sean Rippa |
 | 33 | 2583 | Quirky Catcher |
 | 34 | 2500 | Anthony Lilley |
-| 35 | 2287 | Christina Jambard Sampier |
-| 36 | 2249 | Angelica Jelli Gillaspy |
+| 35 | 2288 | Angelica Jelli Gillaspy |
+| 36 | 2287 | Christina Jambard Sampier |
 | 37 | 2210 | Bea Bee |
 | 38 | 2133 | Frisky Balanceblock |
 | 39 | 2032 | Andrew Weissenborn |
@@ -149,9 +149,9 @@
 | 141 | 411 | MarioKarasovic |
 | 142 | 408 | Ashley Green |
 | 143 | 404 | Jgato |
-| 144 | 400 | Smashanator |
-| 145 | 400 | Zarah Kettler |
-| 146 | 400 | Gloria May Shook |
+| 144 | 404 | Gloria May Shook |
+| 145 | 400 | Smashanator |
+| 146 | 400 | Zarah Kettler |
 | 147 | 393 | DomDomsNana |
 | 148 | 390 | La chulis |
 | 149 | 389 | haune |
@@ -182,32 +182,32 @@
 | 174 | 322 | Nikki Hayes |
 | 175 | 319 | Flower_child |
 | 176 | 314 | Danielle Blount |
-| 177 | 311 | Hoppy Mover |
-| 178 | 310 | Jennifer Smith |
-| 179 | 304 | DayDreamer79 |
+| 177 | 314 | DayDreamer79 |
+| 178 | 311 | Hoppy Mover |
+| 179 | 310 | Jennifer Smith |
 | 180 | 303 | Chirpy Grid |
 | 181 | 302 | Hypee |
 | 182 | 300 | Linda Guay |
 | 183 | 300 | Hector |
 | 184 | 299 | Mookshake |
-| 185 | 298 | Breeana Bennett |
-| 186 | 298 | Rob Owens |
-| 187 | 298 | Heather Burgett |
-| 188 | 296 | Sara Perkins |
-| 189 | 296 | Snappy Combo |
-| 190 | 296 | Brenda Jones |
+| 185 | 298 | Rob Owens |
+| 186 | 298 | Heather Burgett |
+| 187 | 298 | Breeana Bennett |
+| 188 | 296 | Snappy Combo |
+| 189 | 296 | Brenda Jones |
+| 190 | 296 | Sara Perkins |
 | 191 | 295 | Brittney Williams |
 | 192 | 294 | Vistabrat |
 | 193 | 292 | James Ward |
 | 194 | 291 | Flashy Twistline |
-| 195 | 285 | Samantha Carman |
-| 196 | 285 | H |
+| 195 | 285 | H |
+| 196 | 285 | Samantha Carman |
 | 197 | 284 | Becca Marie |
 | 198 | 282 | Nova Nova |
 | 199 | 281 | MegaPooh |
 | 200 | 280 | Patricia Carroll |
-| 201 | 278 | Ashley Billiot Rhodes |
-| 202 | 278 | Amy Nicole McCanne |
+| 201 | 278 | Amy Nicole McCanne |
+| 202 | 278 | Ashley Billiot Rhodes |
 | 203 | 277 | Sarah Mccolgan |
 | 204 | 275 | Lisa Underwood Desmond |
 | 205 | 274 | Amber Wolf |
