@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:24:19 UTC
+# Standings for team1 as of 2026-06-07 18:24:40 UTC
 
 **Total Participants:** 1534
 
@@ -96,7 +96,7 @@
 | 88 | 719 | Moomoo |
 | 89 | 710 | ing410 |
 | 90 | 700 | Felicia Williams |
-| 91 | 689 | Jaida King |
+| 91 | 693 | Jaida King |
 | 92 | 679 | Chirpy Corner |
 | 93 | 678 | No_Other_Choice |
 | 94 | 668 | Jonathan Vee Jay |
