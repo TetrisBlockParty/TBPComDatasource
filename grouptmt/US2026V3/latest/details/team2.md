@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:00:18 UTC
+# Standings for team2 as of 2026-06-07 06:00:40 UTC
 
 **Total Participants:** 1646
 
@@ -1019,96 +1019,96 @@
 | 1011 | 37 | Brooke Allred |
 | 1012 | 37 | Suzee |
 | 1013 | 37 | Rosie |
-| 1014 | 37 | Jack |
+| 1014 | 37 | Mona Wagner |
 | 1015 | 37 | Jazzy Snapfit |
-| 1016 | 37 | Mona Wagner |
+| 1016 | 37 | Jack |
 | 1017 | 37 | Annie Hebdon |
-| 1018 | 37 | Amber Marie |
-| 1019 | 37 | Dizzy Gridder |
-| 1020 | 37 | Leon Welch |
-| 1021 | 37 | SunnySquare |
-| 1022 | 36 | Samantha LeBlanc |
-| 1023 | 36 | Rey Huber |
-| 1024 | 36 | Calah Amore |
-| 1025 | 36 | YAKO |
-| 1026 | 36 | Brandon Ray Holt |
-| 1027 | 36 | Bobbie Carrol |
+| 1018 | 37 | Leon Welch |
+| 1019 | 37 | Audrey Wood |
+| 1020 | 37 | Amber Marie |
+| 1021 | 37 | Dizzy Gridder |
+| 1022 | 37 | SunnySquare |
+| 1023 | 36 | Debra Patten |
+| 1024 | 36 | Eugene Clawson |
+| 1025 | 36 | Brandon Ray Holt |
+| 1026 | 36 | YAKO |
+| 1027 | 36 | Calah Amore |
 | 1028 | 36 | Slinky Linkgrid |
-| 1029 | 36 | Bennie Farbo |
-| 1030 | 36 | giggly gal |
+| 1029 | 36 | Bobbie Carrol |
+| 1030 | 36 | Bennie Farbo |
 | 1031 | 36 | Deborah Lint Odom |
-| 1032 | 36 | Debra Patten |
-| 1033 | 36 | Eugene Clawson |
-| 1034 | 36 | Duke Morley |
-| 1035 | 36 | Witty Clearbuilder |
-| 1036 | 36 | James Brown |
-| 1037 | 36 | Jen |
-| 1038 | 36 | Amanda Stanley |
-| 1039 | 36 | Armordguy |
-| 1040 | 36 | Audrey Phillips |
-| 1041 | 36 | Pleaze Marshall |
-| 1042 | 36 | Jennifer Leigh |
-| 1043 | 36 | ReiRei |
-| 1044 | 36 | Christina Hanson |
-| 1045 | 35 | Snazzy Clusterfit |
+| 1032 | 36 | giggly gal |
+| 1033 | 36 | Samantha LeBlanc |
+| 1034 | 36 | Rey Huber |
+| 1035 | 36 | James Brown |
+| 1036 | 36 | Duke Morley |
+| 1037 | 36 | Witty Clearbuilder |
+| 1038 | 36 | Jen |
+| 1039 | 36 | Amanda Stanley |
+| 1040 | 36 | Armordguy |
+| 1041 | 36 | Audrey Phillips |
+| 1042 | 36 | Pleaze Marshall |
+| 1043 | 36 | Jennifer Leigh |
+| 1044 | 36 | ReiRei |
+| 1045 | 36 | Christina Hanson |
 | 1046 | 35 | Signerlisa |
-| 1047 | 35 | Mrs biotch |
-| 1048 | 35 | Raffa |
-| 1049 | 35 | Jessica Jones |
-| 1050 | 35 | Isiwin |
-| 1051 | 35 | Rachael Roberts |
-| 1052 | 35 | Silly square |
-| 1053 | 35 | Patrick Ohanlon |
-| 1054 | 35 | Goofy Bridger |
-| 1055 | 35 | Nerdy Base |
-| 1056 | 35 | blockrocker |
-| 1057 | 34 | Katie Magner |
-| 1058 | 34 | Twisty Snapmatch |
-| 1059 | 34 | Sleepypanda67 |
-| 1060 | 34 | Marlo Perry |
-| 1061 | 34 | Tina Kinney |
-| 1062 | 34 | Sassafras Cass |
-| 1063 | 34 | Angela VanOstrand |
-| 1064 | 34 | Firebone |
-| 1065 | 34 | Auntie YaYa |
-| 1066 | 34 | mee |
-| 1067 | 34 | Dena Cudjo |
-| 1068 | 34 | Jumpy Linkroll |
-| 1069 | 33 | Giggly Buildgrid |
-| 1070 | 33 | Nicki McGill |
-| 1071 | 33 | Brooke Marie Fox |
-| 1072 | 33 | Rachel Huber |
-| 1073 | 33 | Mandeee |
-| 1074 | 33 | Debbie Embry |
-| 1075 | 33 | Cool cee |
-| 1076 | 33 | Maja Hauff |
-| 1077 | 33 | Tito Garcia |
-| 1078 | 33 | Gilbert Medina |
-| 1079 | 33 | Octavia Jus Mae Hill |
-| 1080 | 33 | Ryan Sanders |
-| 1081 | 33 | Em |
+| 1047 | 35 | Snazzy Clusterfit |
+| 1048 | 35 | Mrs biotch |
+| 1049 | 35 | Raffa |
+| 1050 | 35 | Jessica Jones |
+| 1051 | 35 | Isiwin |
+| 1052 | 35 | Rachael Roberts |
+| 1053 | 35 | Silly square |
+| 1054 | 35 | Nerdy Base |
+| 1055 | 35 | blockrocker |
+| 1056 | 35 | Patrick Ohanlon |
+| 1057 | 35 | Goofy Bridger |
+| 1058 | 34 | Katie Magner |
+| 1059 | 34 | Firebone |
+| 1060 | 34 | Sleepypanda67 |
+| 1061 | 34 | Twisty Snapmatch |
+| 1062 | 34 | Tina Kinney |
+| 1063 | 34 | Sassafras Cass |
+| 1064 | 34 | Angela VanOstrand |
+| 1065 | 34 | Marlo Perry |
+| 1066 | 34 | Jumpy Linkroll |
+| 1067 | 34 | Auntie YaYa |
+| 1068 | 34 | mee |
+| 1069 | 34 | Dena Cudjo |
+| 1070 | 33 | Gilbert Medina |
+| 1071 | 33 | Nicki McGill |
+| 1072 | 33 | Brooke Marie Fox |
+| 1073 | 33 | Cool cee |
+| 1074 | 33 | Maja Hauff |
+| 1075 | 33 | Debbie Embry |
+| 1076 | 33 | Octavia Jus Mae Hill |
+| 1077 | 33 | Em |
+| 1078 | 33 | Rachel Huber |
+| 1079 | 33 | Ryan Sanders |
+| 1080 | 33 | Mandeee |
+| 1081 | 33 | Giggly Buildgrid |
 | 1082 | 33 | Kaitlyn Hurst |
 | 1083 | 33 | Nicole Hjelmen |
-| 1084 | 32 | Viani09 |
-| 1085 | 32 | Audrey Wood |
-| 1086 | 32 | Mandy Smart |
+| 1084 | 33 | Tito Garcia |
+| 1085 | 32 | Chelsea Harriss |
+| 1086 | 32 | Viani09 |
 | 1087 | 32 | Courtney Elizabeth Hartnagel |
 | 1088 | 32 | Stephanie |
-| 1089 | 32 | Brandy McCleary |
-| 1090 | 32 | Lively Liner |
-| 1091 | 32 | Foc |
-| 1092 | 32 | Spicy Enchilada |
-| 1093 | 32 | Chelsea Harriss |
-| 1094 | 32 | Lori Yelvington Cain |
-| 1095 | 32 | Amanda Bryte |
-| 1096 | 31 | MJLovesHer#OneMistake |
-| 1097 | 31 | Cranky Fit |
-| 1098 | 31 | Trinni Hansen |
+| 1089 | 32 | Foc |
+| 1090 | 32 | Amanda Bryte |
+| 1091 | 32 | Lori Yelvington Cain |
+| 1092 | 32 | Brandy McCleary |
+| 1093 | 32 | Spicy Enchilada |
+| 1094 | 32 | Mandy Smart |
+| 1095 | 32 | Lively Liner |
+| 1096 | 31 | Dan Ramsey |
+| 1097 | 31 | Amanda Neal |
+| 1098 | 31 | MJLovesHer#OneMistake |
 | 1099 | 31 | Monique Williams |
 | 1100 | 31 | Jenn |
 | 1101 | 31 | Ronald Granger |
-| 1102 | 31 | Amanda Neal |
-| 1103 | 31 | Dan Ramsey |
+| 1102 | 31 | Trinni Hansen |
+| 1103 | 31 | Cranky Fit |
 | 1104 | 30 | Edward Conyers |
 | 1105 | 30 | Cool Balancer |
 | 1106 | 30 | Snappy Fitblock |
