@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:08:18 UTC
+# Standings for team2 as of 2026-06-07 20:08:39 UTC
 
 **Total Participants:** 1882
 
@@ -194,18 +194,18 @@
 | 186 | 395 | Sarah Mccolgan |
 | 187 | 390 | La chulis |
 | 188 | 390 | Joni Michelle Morgan |
-| 189 | 385 | Amy Gregg |
-| 190 | 384 | Lisa Underwood Desmond |
-| 191 | 383 | Jenna Stahl |
-| 192 | 382 | Nikki Hayes |
-| 193 | 381 | Joslyn Johnson |
-| 194 | 376 | Melissa Thomas |
-| 195 | 376 | AndyJo |
-| 196 | 376 | Jason Cook |
-| 197 | 376 | Jamie Fenyus |
-| 198 | 375 | Milad Arzani |
-| 199 | 375 | Branden Frankowski |
-| 200 | 374 | Twisty Buildgrid |
+| 189 | 389 | Twisty Buildgrid |
+| 190 | 385 | Amy Gregg |
+| 191 | 384 | Lisa Underwood Desmond |
+| 192 | 383 | Jenna Stahl |
+| 193 | 382 | Nikki Hayes |
+| 194 | 381 | Joslyn Johnson |
+| 195 | 376 | Melissa Thomas |
+| 196 | 376 | AndyJo |
+| 197 | 376 | Jason Cook |
+| 198 | 376 | Jamie Fenyus |
+| 199 | 375 | Milad Arzani |
+| 200 | 375 | Branden Frankowski |
 | 201 | 373 | Hoppy Mover |
 | 202 | 371 | Brittni Lawrence |
 | 203 | 370 | giamy |
@@ -452,9 +452,9 @@
 | 444 | 158 | Meagan Grimmett Washburn |
 | 445 | 157 | Spunky Cascadeclear |
 | 446 | 156 | Charlotte Castelli |
-| 447 | 156 | Aurora June Brock |
+| 447 | 156 | murd3rmous3 |
 | 448 | 156 | TetrisMama |
-| 449 | 154 | murd3rmous3 |
+| 449 | 156 | Aurora June Brock |
 | 450 | 154 | Chummy Snapbuilder |
 | 451 | 154 | Belle |
 | 452 | 153 | Cortney Coleman |
@@ -1333,39 +1333,39 @@
 | 1325 | 33 | Paula Martin |
 | 1326 | 33 | Bonez |
 | 1327 | 33 | David Thomas |
-| 1328 | 33 | BikerBorn BikerBred |
-| 1329 | 33 | June Salevao |
-| 1330 | 32 | Swanky Fallmatch |
-| 1331 | 32 | Michelle Shemon |
-| 1332 | 32 | LK |
-| 1333 | 32 | Courtney Elizabeth Hartnagel |
-| 1334 | 32 | Viani09 |
-| 1335 | 32 | Adrian Alvarez |
-| 1336 | 32 | Hyper Striker |
-| 1337 | 32 | Chelsea Harriss |
-| 1338 | 32 | Zany Dasher |
-| 1339 | 32 | Amanda Bryte |
-| 1340 | 32 | Lively Liner |
-| 1341 | 32 | Peppy Piececlear |
-| 1342 | 32 | Lori Yelvington Cain |
-| 1343 | 32 | Foc |
-| 1344 | 32 | Nikki Layman |
-| 1345 | 31 | Rob Phillips |
-| 1346 | 31 | Yvonne Rodriguez |
-| 1347 | 31 | Cranky Fit |
-| 1348 | 31 | Dan Ramsey |
-| 1349 | 31 | Ronald Granger |
-| 1350 | 31 | Trinni Hansen |
-| 1351 | 31 | Monique Williams |
-| 1352 | 31 | Louise LeBlanc |
-| 1353 | 31 | Jazzy Cornerfall |
+| 1328 | 33 | Snoop |
+| 1329 | 33 | BikerBorn BikerBred |
+| 1330 | 33 | June Salevao |
+| 1331 | 32 | Swanky Fallmatch |
+| 1332 | 32 | Michelle Shemon |
+| 1333 | 32 | LK |
+| 1334 | 32 | Courtney Elizabeth Hartnagel |
+| 1335 | 32 | Viani09 |
+| 1336 | 32 | Adrian Alvarez |
+| 1337 | 32 | Hyper Striker |
+| 1338 | 32 | Chelsea Harriss |
+| 1339 | 32 | Zany Dasher |
+| 1340 | 32 | Amanda Bryte |
+| 1341 | 32 | Lively Liner |
+| 1342 | 32 | Peppy Piececlear |
+| 1343 | 32 | Lori Yelvington Cain |
+| 1344 | 32 | Foc |
+| 1345 | 32 | Nikki Layman |
+| 1346 | 31 | Rob Phillips |
+| 1347 | 31 | Yvonne Rodriguez |
+| 1348 | 31 | Cranky Fit |
+| 1349 | 31 | Dan Ramsey |
+| 1350 | 31 | Ronald Granger |
+| 1351 | 31 | Trinni Hansen |
+| 1352 | 31 | Monique Williams |
+| 1353 | 31 | Louise LeBlanc |
 | 1354 | 31 | Jenn |
-| 1355 | 31 | Jazzy Gridclear |
-| 1356 | 31 | Hoppy Linkblock |
-| 1357 | 30 | Tommi Lynn Lawson |
-| 1358 | 30 | Julie Lint |
-| 1359 | 30 | Casie |
-| 1360 | 30 | Snoop |
+| 1355 | 31 | Jazzy Cornerfall |
+| 1356 | 31 | Jazzy Gridclear |
+| 1357 | 31 | Hoppy Linkblock |
+| 1358 | 30 | Tommi Lynn Lawson |
+| 1359 | 30 | Julie Lint |
+| 1360 | 30 | Casie |
 | 1361 | 30 | Dandy Brickbuilder |
 | 1362 | 30 | Patty Brown |
 | 1363 | 30 | Carrie Rutter-Bail |
@@ -1648,51 +1648,51 @@
 | 1640 | 15 | Haneef Akram |
 | 1641 | 15 | Amlisi |
 | 1642 | 15 | Tipsy Matchgrid |
-| 1643 | 15 | Lisa Marie |
-| 1644 | 15 | Christine Ann Eras |
-| 1645 | 15 | Poppy Slice |
-| 1646 | 15 | Julie Vargas |
-| 1647 | 15 | Sharon Wade |
-| 1648 | 15 | Nana |
-| 1649 | 15 | Jacqueline Leigh Zuzinec |
+| 1643 | 15 | Julie Vargas |
+| 1644 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1645 | 15 | Christine Ann Eras |
+| 1646 | 15 | Poppy Slice |
+| 1647 | 15 | sally |
+| 1648 | 15 | Samantha |
+| 1649 | 15 | Twisty Patternblock |
 | 1650 | 15 | Tetris |
-| 1651 | 15 | Samantha |
-| 1652 | 15 | Twisty Patternblock |
-| 1653 | 15 | sally |
-| 1654 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1651 | 15 | Jacqueline Leigh Zuzinec |
+| 1652 | 15 | Nana |
+| 1653 | 15 | Lisa Marie |
+| 1654 | 15 | Sharon Wade |
 | 1655 | 15 | Rhonda McManus - Kimbrough |
 | 1656 | 15 | Denise Baker |
 | 1657 | 15 | Aaron Henry |
 | 1658 | 15 | Linda Riegsecker |
 | 1659 | 15 | Spunky Snapfall |
-| 1660 | 15 | AlDan |
+| 1660 | 15 | Michele Miessner |
 | 1661 | 15 | Andrea Lauren Smith |
-| 1662 | 15 | Chass |
+| 1662 | 15 | AlDan |
 | 1663 | 15 | SabinawNorman Adams |
-| 1664 | 15 | Jennifer Nelson |
-| 1665 | 14 | Michele Miessner |
+| 1664 | 15 | Chass |
+| 1665 | 15 | Jennifer Nelson |
 | 1666 | 14 | Imat Yesmar |
 | 1667 | 14 | Raymond Sadler |
 | 1668 | 14 | Manuel Lucero Jr. |
-| 1669 | 14 | Terri Beddard |
-| 1670 | 14 | Joseph Austin Prince |
+| 1669 | 14 | Mighty Piecebuilder |
+| 1670 | 14 | Flex |
 | 1671 | 14 | BlockBreaker |
-| 1672 | 14 | Flex |
+| 1672 | 14 | Joseph Austin Prince |
 | 1673 | 14 | Angelica Champlin |
 | 1674 | 14 | John Sewell |
-| 1675 | 14 | Beaglemom |
-| 1676 | 14 | Christopher Pulley |
-| 1677 | 14 | Randi Moore |
-| 1678 | 14 | Crystal Owen Yocolano |
-| 1679 | 14 | Jodi Deninno |
-| 1680 | 14 | Marshall Payne |
-| 1681 | 14 | Randy Taylor |
-| 1682 | 14 | MiMi’26 |
-| 1683 | 14 | Symmy Norton |
-| 1684 | 14 | Susan R. Hammons Cunningham |
-| 1685 | 13 | Tara Feineis |
-| 1686 | 13 | Sam Blinn |
-| 1687 | 13 | Mighty Piecebuilder |
+| 1675 | 14 | Terri Beddard |
+| 1676 | 14 | Beaglemom |
+| 1677 | 14 | Christopher Pulley |
+| 1678 | 14 | Randi Moore |
+| 1679 | 14 | Crystal Owen Yocolano |
+| 1680 | 14 | Jodi Deninno |
+| 1681 | 14 | Marshall Payne |
+| 1682 | 14 | Randy Taylor |
+| 1683 | 14 | MiMi’26 |
+| 1684 | 14 | Symmy Norton |
+| 1685 | 14 | Susan R. Hammons Cunningham |
+| 1686 | 13 | Tara Feineis |
+| 1687 | 13 | Sam Blinn |
 | 1688 | 13 | Smiley Clearer |
 | 1689 | 13 | Torb |
 | 1690 | 13 | Nickishan Richrds |
@@ -1705,16 +1705,16 @@
 | 1697 | 13 | Cristy Ayala |
 | 1698 | 13 | Sunnylynn Hodge |
 | 1699 | 13 | Brave Curver |
-| 1700 | 13 | Treau Torres |
-| 1701 | 13 | Cool Cornerfall |
-| 1702 | 13 | Chad Praytor |
-| 1703 | 13 | Kandie Warren |
-| 1704 | 13 | Patience Thompson |
+| 1700 | 13 | Cool Cornerfall |
+| 1701 | 13 | Chad Praytor |
+| 1702 | 13 | Kandie Warren |
+| 1703 | 13 | Patience Thompson |
+| 1704 | 13 | Treau Torres |
 | 1705 | 13 | lion king |
 | 1706 | 12 | Angi Carter |
-| 1707 | 12 | Chipper Gridroll |
-| 1708 | 12 | Brandy Moore |
-| 1709 | 12 | Jacob nitro |
+| 1707 | 12 | Jacob nitro |
+| 1708 | 12 | Chipper Gridroll |
+| 1709 | 12 | Brandy Moore |
 | 1710 | 12 | Anarcho |
 | 1711 | 12 | Kjsranch |
 | 1712 | 12 | Zippy Blockmatch |
