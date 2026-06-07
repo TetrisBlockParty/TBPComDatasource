@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:20:42 UTC
+# Standings for team1 as of 2026-06-07 11:21:18 UTC
 
 **Total Participants:** 1444
 
@@ -23,8 +23,8 @@
 | 15 | 4588 | Debbie Carswell |
 | 16 | 4511 | Timothy Robert |
 | 17 | 3767 | Pdubbl3 |
-| 18 | 3039 | Chummy Combo |
-| 19 | 3003 | Cassidy Butler |
+| 18 | 3247 | Cassidy Butler |
+| 19 | 3039 | Chummy Combo |
 | 20 | 2863 | Sha Harris |
 | 21 | 2536 | jaimie |
 | 22 | 2521 | Chandler Spencer |
@@ -552,14 +552,14 @@
 | 544 | 81 | Crystal Cheresnowsky |
 | 545 | 81 | Logan Frost |
 | 546 | 81 | TRUBBLE45 |
-| 547 | 80 | Cynthia Bradley |
-| 548 | 80 | Charles Johnson |
+| 547 | 80 | Christopher L Crites |
+| 548 | 80 | Cynthia Bradley |
 | 549 | 80 | Lester Malone |
-| 550 | 80 | Christopher L Crites |
-| 551 | 80 | Kamilya Rembert |
+| 550 | 80 | Charles Johnson |
+| 551 | 80 | Big Bovice |
 | 552 | 80 | Kp |
-| 553 | 80 | Giggy Edgefit |
-| 554 | 80 | Big Bovice |
+| 553 | 80 | Kamilya Rembert |
+| 554 | 80 | Giggy Edgefit |
 | 555 | 80 | Latore Maxie |
 | 556 | 80 | NedaWin |
 | 557 | 80 | Chevalier Burley |
@@ -571,80 +571,80 @@
 | 563 | 80 | Lady Scorpio |
 | 564 | 80 | Kimberly Noble |
 | 565 | 80 | Spicy Shatterblock |
-| 566 | 79 | Montréal Mars |
+| 566 | 79 | Tracy Feyler |
 | 567 | 79 | Nerdy Climber |
-| 568 | 79 | Tracy Feyler |
-| 569 | 78 | Kahh |
-| 570 | 78 | Ryan Runyan |
-| 571 | 78 | Solomon Valarie |
-| 572 | 78 | Smiley3000 |
-| 573 | 78 | Rachel Renae Bettis |
-| 574 | 78 | Claudia Price |
-| 575 | 78 | Azeiare Ziare |
-| 576 | 77 | Dana Hawes |
-| 577 | 77 | EvaLynn NeCole |
-| 578 | 76 | Giggly Shatterline |
-| 579 | 76 | lady |
-| 580 | 76 | Paul Pendley |
-| 581 | 76 | Angelique Talbot |
-| 582 | 76 | Essence Jones |
-| 583 | 75 | Angie Lebron |
-| 584 | 75 | Jennifer Moore |
-| 585 | 75 | Erika |
-| 586 | 75 | Jimmy Shannon |
-| 587 | 75 | sasha |
-| 588 | 75 | MzJuice Box |
-| 589 | 75 | Courtney Robinson |
-| 590 | 74 | Renee Marshall |
-| 591 | 74 | Nichelle Warren |
-| 592 | 74 | Sabrina Wilkerson |
-| 593 | 74 | Glitzy Clusterer |
-| 594 | 74 | Casey Chapman |
-| 595 | 74 | Cortrell Foster |
-| 596 | 74 | Sunny Clicky |
-| 597 | 74 | Kimmie Gargano |
+| 568 | 79 | Montréal Mars |
+| 569 | 78 | Azeiare Ziare |
+| 570 | 78 | Dreamzzz |
+| 571 | 78 | Ryan Runyan |
+| 572 | 78 | Kahh |
+| 573 | 78 | Solomon Valarie |
+| 574 | 78 | Smiley3000 |
+| 575 | 78 | Rachel Renae Bettis |
+| 576 | 78 | Claudia Price |
+| 577 | 77 | Dana Hawes |
+| 578 | 77 | EvaLynn NeCole |
+| 579 | 76 | Angelique Talbot |
+| 580 | 76 | lady |
+| 581 | 76 | Paul Pendley |
+| 582 | 76 | Giggly Shatterline |
+| 583 | 76 | Essence Jones |
+| 584 | 75 | Angie Lebron |
+| 585 | 75 | Jennifer Moore |
+| 586 | 75 | Erika |
+| 587 | 75 | MzJuice Box |
+| 588 | 75 | Courtney Robinson |
+| 589 | 75 | sasha |
+| 590 | 75 | Jimmy Shannon |
+| 591 | 74 | Glitzy Clusterer |
+| 592 | 74 | Cortrell Foster |
+| 593 | 74 | Nichelle Warren |
+| 594 | 74 | Sunny Clicky |
+| 595 | 74 | Sabrina Wilkerson |
+| 596 | 74 | Kimmie Gargano |
+| 597 | 74 | Renee Marshall |
 | 598 | 74 | Tetrisdestroyer |
-| 599 | 73 | Marlynnnnn |
-| 600 | 72 | JesusSaves 😇 |
-| 601 | 72 | ImmeKC |
-| 602 | 72 | Nekka |
-| 603 | 72 | Comedian Gdane |
-| 604 | 72 | Marlainia Boyd |
+| 599 | 74 | Casey Chapman |
+| 600 | 73 | Marlynnnnn |
+| 601 | 72 | Comedian Gdane |
+| 602 | 72 | Marlainia Boyd |
+| 603 | 72 | Nekka |
+| 604 | 72 | Lauraly |
 | 605 | 72 | Poppy Twister |
-| 606 | 72 | Lauraly |
-| 607 | 71 | akosua |
-| 608 | 71 | KimChii |
-| 609 | 71 | HBTone |
-| 610 | 71 | Abigail Newman Sweet |
-| 611 | 71 | Chereese Harris |
-| 612 | 71 | Tori Carter |
-| 613 | 70 | Smøke DGAF |
+| 606 | 72 | JesusSaves 😇 |
+| 607 | 72 | ImmeKC |
+| 608 | 71 | akosua |
+| 609 | 71 | Tori Carter |
+| 610 | 71 | KimChii |
+| 611 | 71 | HBTone |
+| 612 | 71 | Abigail Newman Sweet |
+| 613 | 71 | Chereese Harris |
 | 614 | 70 | Angela Kitchens |
-| 615 | 70 | Blocksy |
-| 616 | 70 | Marshall Davis |
-| 617 | 70 | Shea Ladynick Henderson |
-| 618 | 70 | West Racks |
-| 619 | 70 | Duncan Timothy |
-| 620 | 70 | Rachel Lopez |
-| 621 | 70 | Meow Meow |
-| 622 | 69 | Rochelle Nash-Evans |
-| 623 | 69 | Jose Rodriguez |
-| 624 | 69 | Sara |
-| 625 | 69 | Keith Johnson |
-| 626 | 69 | Adrian Harris |
-| 627 | 68 | BB |
-| 628 | 68 | Giddy Staggerpiece |
-| 629 | 68 | Christopher Shaw-Black |
-| 630 | 68 | Sallie Sanborn |
-| 631 | 68 | Dreamzzz |
+| 615 | 70 | Smøke DGAF |
+| 616 | 70 | Blocksy |
+| 617 | 70 | Marshall Davis |
+| 618 | 70 | Shea Ladynick Henderson |
+| 619 | 70 | West Racks |
+| 620 | 70 | Duncan Timothy |
+| 621 | 70 | Rachel Lopez |
+| 622 | 70 | Meow Meow |
+| 623 | 69 | Rochelle Nash-Evans |
+| 624 | 69 | Jose Rodriguez |
+| 625 | 69 | Sara |
+| 626 | 69 | Keith Johnson |
+| 627 | 69 | Adrian Harris |
+| 628 | 68 | BB |
+| 629 | 68 | Giddy Staggerpiece |
+| 630 | 68 | Christopher Shaw-Black |
+| 631 | 68 | Sallie Sanborn |
 | 632 | 68 | Pj Rojas |
 | 633 | 67 | Montego Allen |
 | 634 | 67 | LexiiSamayaa |
 | 635 | 67 | Esha I'msoproudofmyself Davis |
-| 636 | 67 | Sarah Barnum |
-| 637 | 67 | Sharon Lynn |
-| 638 | 67 | Nikkizz |
-| 639 | 67 | Michele Elizabeth McKay-Johnson |
+| 636 | 67 | Sharon Lynn |
+| 637 | 67 | Nikkizz |
+| 638 | 67 | Michele Elizabeth McKay-Johnson |
+| 639 | 67 | Sarah Barnum |
 | 640 | 66 | Jess |
 | 641 | 66 | Callie Mae |
 | 642 | 66 | GracefulOwl808 |
@@ -658,17 +658,17 @@
 | 650 | 65 | Rande Smith |
 | 651 | 65 | Wayne Savannah |
 | 652 | 65 | Gbnola |
-| 653 | 65 | Dede Tate |
-| 654 | 65 | Trixie |
-| 655 | 65 | Tesiree Cray |
-| 656 | 65 | Jazzy Bridger |
-| 657 | 64 | DirtiestofMikes |
-| 658 | 64 | Elaine Youmans |
-| 659 | 64 | Joseph Vs Cap |
-| 660 | 64 | Marbama |
-| 661 | 64 | Chris Nelson |
-| 662 | 64 | DellaLucretia Thomas |
-| 663 | 64 | Earl Williams |
+| 653 | 65 | Jazzy Bridger |
+| 654 | 65 | Dede Tate |
+| 655 | 65 | Trixie |
+| 656 | 65 | Tesiree Cray |
+| 657 | 64 | Elaine Youmans |
+| 658 | 64 | Joseph Vs Cap |
+| 659 | 64 | Marbama |
+| 660 | 64 | Chris Nelson |
+| 661 | 64 | DellaLucretia Thomas |
+| 662 | 64 | Earl Williams |
+| 663 | 64 | DirtiestofMikes |
 | 664 | 64 | Dandy Brickfit |
 | 665 | 64 | Jumpy Gridlock |
 | 666 | 63 | Natasha Harris |
@@ -678,8 +678,8 @@
 | 670 | 63 | Shawna Passwater |
 | 671 | 63 | Mellie Mel |
 | 672 | 62 | Stephen Garland |
-| 673 | 62 | Stephanie Ellis |
-| 674 | 62 | Nedine Ray |
+| 673 | 62 | Nedine Ray |
+| 674 | 62 | Stephanie Ellis |
 | 675 | 62 | Cj Chimelis |
 | 676 | 62 | Jack Mehof |
 | 677 | 61 | Squaw Ki Ng |
@@ -717,9 +717,9 @@
 | 709 | 59 | Elizabeth Hopkins |
 | 710 | 59 | Smiley Tilebuilder |
 | 711 | 59 | Fatty May |
-| 712 | 59 | Danny M GR |
-| 713 | 58 | CoaCoa Myles |
-| 714 | 58 | Boldy Pivoty |
+| 712 | 59 | Boldy Pivoty |
+| 713 | 59 | Danny M GR |
+| 714 | 58 | CoaCoa Myles |
 | 715 | 58 | Alexandrla Smith |
 | 716 | 58 | NickyJay Jones |
 | 717 | 58 | Gabriela Hernandez |

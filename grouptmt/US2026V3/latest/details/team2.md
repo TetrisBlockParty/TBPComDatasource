@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:20:42 UTC
+# Standings for team2 as of 2026-06-07 11:21:18 UTC
 
 **Total Participants:** 1705
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 23864 | Summer Harrison |
 | 2 | 11700 | Mochi |
-| 3 | 10480 | Puce guide 9156 |
+| 3 | 10738 | Puce guide 9156 |
 | 4 | 9827 | Crystalin Heath Lewis |
 | 5 | 9576 | Jason Wood |
 | 6 | 8775 | A.j. Langley |
@@ -248,10 +248,10 @@
 | 240 | 241 | Boldy Wobbler |
 | 241 | 240 | PaiBri |
 | 242 | 239 | Norma Ortiz |
-| 243 | 237 | Michelle Luke Banta |
-| 244 | 236 | Lush Party |
-| 245 | 234 | Larry Cross |
-| 246 | 234 | Jenny |
+| 243 | 238 | Jenny |
+| 244 | 237 | Michelle Luke Banta |
+| 245 | 236 | Lush Party |
+| 246 | 234 | Larry Cross |
 | 247 | 234 | Nicole Plummer |
 | 248 | 234 | AndyJo |
 | 249 | 233 | Amie Marks |
@@ -289,31 +289,31 @@
 | 281 | 205 | Karly Moore |
 | 282 | 205 | Melisa |
 | 283 | 204 | Teddy Williams |
-| 284 | 201 | Anthony Swift |
-| 285 | 201 | Danielle Pack Lewellen |
+| 284 | 201 | Danielle Pack Lewellen |
+| 285 | 201 | Anthony Swift |
 | 286 | 201 | Melissa Nash |
 | 287 | 201 | Jeffrey Smith |
-| 288 | 200 | Nathan Walker |
+| 288 | 200 | August Christy Lathrop |
 | 289 | 200 | Eric Wayne Maschman |
 | 290 | 200 | Precious Womack |
-| 291 | 200 | August Christy Lathrop |
+| 291 | 200 | StacyBabee |
 | 292 | 200 | ShiverMeSplinter |
-| 293 | 200 | Sarah Grundisch |
-| 294 | 200 | Physhie |
-| 295 | 200 | Al Smith Jr |
-| 296 | 200 | Tony Medina |
-| 297 | 198 | Amy Taylor Pomerenk |
-| 298 | 197 | Laverne Ellis Blair |
-| 299 | 196 | Greenie |
-| 300 | 195 | Pamela Raye |
-| 301 | 195 | Bb |
-| 302 | 195 | Thomas Tyrone |
-| 303 | 193 | Jason Cunningham |
-| 304 | 192 | Jill Goff |
-| 305 | 192 | Greta Warden |
-| 306 | 191 | Marilyn Mendoza |
-| 307 | 191 | Jessica Christine |
-| 308 | 188 | StacyBabee |
+| 293 | 200 | Nathan Walker |
+| 294 | 200 | Sarah Grundisch |
+| 295 | 200 | Physhie |
+| 296 | 200 | Al Smith Jr |
+| 297 | 200 | Tony Medina |
+| 298 | 198 | Amy Taylor Pomerenk |
+| 299 | 197 | Laverne Ellis Blair |
+| 300 | 196 | Greenie |
+| 301 | 195 | Pamela Raye |
+| 302 | 195 | Bb |
+| 303 | 195 | Thomas Tyrone |
+| 304 | 193 | Jason Cunningham |
+| 305 | 192 | Jill Goff |
+| 306 | 192 | Greta Warden |
+| 307 | 191 | Marilyn Mendoza |
+| 308 | 191 | Jessica Christine |
 | 309 | 188 | Ray Daisy |
 | 310 | 187 | Curly Windbreaker |
 | 311 | 185 | Krystle L Coon |
