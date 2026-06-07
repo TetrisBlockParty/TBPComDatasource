@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-07 16:40:18 UTC
+# Standings for team4 as of 2026-06-07 16:40:41 UTC
 
-**Total Participants:** 1534
+**Total Participants:** 1535
 
 ## Participant Scores
 
@@ -263,8 +263,8 @@
 | 255 | 196 | Loopy Clusterline |
 | 256 | 196 | Karen Davis |
 | 257 | 195 | Sean Mccleary |
-| 258 | 195 | Stasia |
-| 259 | 195 | Dawn Phelps |
+| 258 | 195 | Dawn Phelps |
+| 259 | 195 | Stasia |
 | 260 | 194 | Lisa lisa |
 | 261 | 193 | Tiffany Bunker-Hill |
 | 262 | 193 | Ash Gribble |
@@ -317,8 +317,8 @@
 | 309 | 166 | Cheeky Fallzone |
 | 310 | 165 | Blockcrusher |
 | 311 | 165 | Ryan Paul Clark-Ramsey |
-| 312 | 162 | Samara Garcia |
-| 313 | 162 | Dapper Strikerpiece |
+| 312 | 162 | Dapper Strikerpiece |
+| 313 | 162 | Samara Garcia |
 | 314 | 162 | Melika Zeheb |
 | 315 | 162 | Chonda OhanaMomma Michelle |
 | 316 | 161 | Snazzy Corner |
@@ -435,10 +435,10 @@
 | 427 | 120 | Saucy Wipepiece |
 | 428 | 120 | Holly Wessel |
 | 429 | 120 | 1694AF |
-| 430 | 120 | Joab Gonzalez |
-| 431 | 120 | Will E Ayala |
+| 430 | 120 | Will E Ayala |
+| 431 | 120 | Stotty |
 | 432 | 120 | Lul Babie |
-| 433 | 120 | Stotty |
+| 433 | 120 | Joab Gonzalez |
 | 434 | 119 | Shawna Downey |
 | 435 | 119 | aga |
 | 436 | 119 | Ashley Jenkins |
@@ -450,8 +450,8 @@
 | 442 | 117 | Noa Lee |
 | 443 | 117 | Tyson Stroppel |
 | 444 | 117 | yourmomz |
-| 445 | 117 | Fancy Tilefall |
-| 446 | 117 | Laurie Patrick |
+| 445 | 117 | Laurie Patrick |
+| 446 | 117 | Fancy Tilefall |
 | 447 | 116 | BookwormCate |
 | 448 | 116 | Toon Up |
 | 449 | 116 | Aaron Turner |
@@ -522,8 +522,8 @@
 | 514 | 100 | Knijur Callins |
 | 515 | 100 | Hasty Dropzone |
 | 516 | 99 | Erica Pompey |
-| 517 | 99 | Melissa Quinn |
-| 518 | 99 | Darren Miguel |
+| 517 | 99 | Darren Miguel |
+| 518 | 99 | Melissa Quinn |
 | 519 | 99 | Tamika Ashli Bonner |
 | 520 | 99 | Inez Nez |
 | 521 | 99 | Haylee Talkington |
@@ -624,10 +624,10 @@
 | 616 | 83 | Snippy Racker |
 | 617 | 83 | Peter Babineaux Jr |
 | 618 | 83 | Ricardo Arias |
-| 619 | 83 | Lady |
-| 620 | 83 | Peachy Piecefit |
-| 621 | 82 | Charity Thomas |
-| 622 | 82 | Amanda Snow |
+| 619 | 83 | Peachy Piecefit |
+| 620 | 83 | Lady |
+| 621 | 82 | Amanda Snow |
+| 622 | 82 | Charity Thomas |
 | 623 | 82 | Joshua Hunt |
 | 624 | 82 | Dapper Tiltpiece |
 | 625 | 82 | Cari Underwood |
@@ -693,8 +693,8 @@
 | 685 | 72 | shonaberry |
 | 686 | 72 | sierrabeth |
 | 687 | 72 | Fancy Riser |
-| 688 | 72 | Peterson Cottontail |
-| 689 | 72 | Virgil Mayfield-Brown |
+| 688 | 72 | Virgil Mayfield-Brown |
+| 689 | 72 | Peterson Cottontail |
 | 690 | 71 | Giggy Blockpiece |
 | 691 | 71 | Brenda Gustamantes |
 | 692 | 71 | Taquilla Branch |
@@ -1487,59 +1487,60 @@
 | 1479 | 8 | Happy shelli |
 | 1480 | 8 | Nums |
 | 1481 | 8 | Frisky Blocker |
-| 1482 | 8 | Phoebe Tracy |
-| 1483 | 8 | Gerald Marx |
+| 1482 | 8 | Gerald Marx |
+| 1483 | 8 | Billy Brasher |
 | 1484 | 8 | Lewis Potts |
-| 1485 | 8 | Billy Brasher |
+| 1485 | 8 | Phoebe Tracy |
 | 1486 | 8 | Shania Richmond |
 | 1487 | 8 | Mac James |
 | 1488 | 7 | John Brandon Kinney |
 | 1489 | 7 | Brandy Dark |
 | 1490 | 7 | Malinda Fife |
-| 1491 | 7 | Michael McIntire |
-| 1492 | 7 | Misty Mathers |
-| 1493 | 7 | Sammmzzz |
-| 1494 | 7 | Estmercy |
-| 1495 | 7 | Sheries |
-| 1496 | 7 | pippy |
-| 1497 | 7 | Heather Smith-Carter |
-| 1498 | 7 | Crystal Parker Bryant |
-| 1499 | 7 | Chipper Hitter |
-| 1500 | 7 | Spicy Faller |
+| 1491 | 7 | Estmercy |
+| 1492 | 7 | Sheries |
+| 1493 | 7 | pippy |
+| 1494 | 7 | Sammmzzz |
+| 1495 | 7 | Heather Smith-Carter |
+| 1496 | 7 | Crystal Parker Bryant |
+| 1497 | 7 | Kristen Templeman |
+| 1498 | 7 | Spicy Faller |
+| 1499 | 7 | Michael McIntire |
+| 1500 | 7 | Misty Mathers |
 | 1501 | 7 | Kelly Pool |
 | 1502 | 7 | PDubz |
-| 1503 | 7 | Dannie Ems |
-| 1504 | 7 | Glendala Whitewing |
-| 1505 | 7 | Kristen Templeman |
-| 1506 | 7 | Angela Mertz |
-| 1507 | 7 | Amanda KN |
-| 1508 | 7 | Peaches3569 |
-| 1509 | 7 | Rican |
-| 1510 | 6 | Melly |
-| 1511 | 6 | Spunky Winder |
-| 1512 | 6 | April McWhite |
-| 1513 | 6 | Kelly |
-| 1514 | 6 | Theamazingspiderman |
-| 1515 | 6 | Goodie |
+| 1503 | 7 | Rican |
+| 1504 | 7 | Peaches3569 |
+| 1505 | 7 | Amanda KN |
+| 1506 | 7 | Chipper Hitter |
+| 1507 | 7 | Angela Mertz |
+| 1508 | 7 | Glendala Whitewing |
+| 1509 | 7 | Dannie Ems |
+| 1510 | 6 | Richierich Gonzalez |
+| 1511 | 6 | April McWhite |
+| 1512 | 6 | Jasmine Turner |
+| 1513 | 6 | Sherry Heilig |
+| 1514 | 6 | Goodie |
+| 1515 | 6 | Melly |
 | 1516 | 6 | Funky Zonebuilder |
-| 1517 | 6 | Selina Moore |
-| 1518 | 6 | Jasmine Turner |
-| 1519 | 6 | Loony Brickzone |
-| 1520 | 6 | Richierich Gonzalez |
-| 1521 | 6 | Frothy Gridmatch |
-| 1522 | 6 | Rachel |
-| 1523 | 5 | Cheery Twister |
-| 1524 | 5 | Swanky Zigzag |
-| 1525 | 5 | Tippet |
-| 1526 | 5 | Debbie Johnson |
-| 1527 | 5 | Linda Monique |
-| 1528 | 5 | James Lackey |
-| 1529 | 5 | Sean Ha |
-| 1530 | 5 | Chad N Tori Steiner |
-| 1531 | 5 | Tina Berdeja |
-| 1532 | 5 | Liz R |
+| 1517 | 6 | Spunky Winder |
+| 1518 | 6 | Loony Brickzone |
+| 1519 | 6 | Kelly |
+| 1520 | 6 | Theamazingspiderman |
+| 1521 | 6 | Selina Moore |
+| 1522 | 6 | Frothy Gridmatch |
+| 1523 | 6 | Rachel |
+| 1524 | 5 | Cheery Twister |
+| 1525 | 5 | Swanky Zigzag |
+| 1526 | 5 | Tippet |
+| 1527 | 5 | James Lackey |
+| 1528 | 5 | Sean Ha |
+| 1529 | 5 | Chad N Tori Steiner |
+| 1530 | 5 | Tina Berdeja |
+| 1531 | 5 | Liz R |
+| 1532 | 5 | Linda Monique |
 | 1533 | 5 | Laura Ratliff |
 | 1534 | 5 | Theonei |
+| 1535 | 5 | Debbie Johnson |
 
 ---
 *Standings created by tournaments datasource generation tool*
