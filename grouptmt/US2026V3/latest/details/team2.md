@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:08:18 UTC
+# Standings for team2 as of 2026-06-07 00:08:39 UTC
 
 **Total Participants:** 1466
 
@@ -46,8 +46,8 @@
 | 38 | 1740 | Ashley Miller |
 | 39 | 1678 | Betty Barrett |
 | 40 | 1510 | Shandrea Crawford |
-| 41 | 1501 | Monica Galli |
-| 42 | 1499 | Rose Schaffner-Kibler |
+| 41 | 1505 | Rose Schaffner-Kibler |
+| 42 | 1501 | Monica Galli |
 | 43 | 1482 | Aubree Richard |
 | 44 | 1442 | Christina Jambard Sampier |
 | 45 | 1428 | Happy Pivotfall |
@@ -136,8 +136,8 @@
 | 128 | 348 | Eric Drane |
 | 129 | 348 | Pooh |
 | 130 | 347 | Zesty Strikerbuilder |
-| 131 | 342 | Bri St Peter |
-| 132 | 340 | Zarah Kettler |
+| 131 | 342 | Zarah Kettler |
+| 132 | 342 | Bri St Peter |
 | 133 | 340 | Mom |
 | 134 | 332 | Jason Cook |
 | 135 | 328 | Jgato |
