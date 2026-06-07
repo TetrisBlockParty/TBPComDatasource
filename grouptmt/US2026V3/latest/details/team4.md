@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 15:40:18 UTC
+# Standings for team4 as of 2026-06-07 15:40:43 UTC
 
 **Total Participants:** 1516
 
@@ -1271,23 +1271,23 @@
 | 1263 | 20 | Alicia LaFaye |
 | 1264 | 20 | beauxie |
 | 1265 | 20 | Elizabeth Ann Caro |
-| 1266 | 20 | David Kirschner |
+| 1266 | 20 | Frby Amberr |
 | 1267 | 20 | Kortnie Kate Patino |
-| 1268 | 20 | Frby Amberr |
+| 1268 | 20 | David Kirschner |
 | 1269 | 20 | Daring Towerer |
 | 1270 | 20 | Nikki |
 | 1271 | 20 | Vanessa Sykes |
 | 1272 | 20 | Ryan Luperena |
 | 1273 | 20 | Kris McMahon |
 | 1274 | 20 | Cool Towerer |
-| 1275 | 20 | Amy |
+| 1275 | 20 | Sha Ta Nay Mitchell |
 | 1276 | 20 | Jennifer Naughton |
-| 1277 | 20 | Sha Ta Nay Mitchell |
+| 1277 | 20 | Amy |
 | 1278 | 20 | Caroline Peralta |
 | 1279 | 19 | Archer Family Mayhem |
-| 1280 | 19 | Jordan Tamayia Williams |
+| 1280 | 19 | Christine Raine Jalili |
 | 1281 | 19 | Dawn Mortimer |
-| 1282 | 19 | Christine Raine Jalili |
+| 1282 | 19 | Jordan Tamayia Williams |
 | 1283 | 19 | Giggly Gridzone |
 | 1284 | 19 | Ashie |
 | 1285 | 19 | Kariana Gonzalez Ortiz |
@@ -1298,124 +1298,124 @@
 | 1290 | 18 | Dewy |
 | 1291 | 18 | Alana Joe |
 | 1292 | 18 | Becca Milliron |
-| 1293 | 18 | Amina Walker |
-| 1294 | 18 | Glitter |
-| 1295 | 18 | Jamie Legeness |
+| 1293 | 18 | Jamie Legeness |
+| 1294 | 18 | Amina Walker |
+| 1295 | 18 | Glitter |
 | 1296 | 18 | Frilly Riserpiece |
-| 1297 | 18 | Playboy916 |
-| 1298 | 18 | Gary Moore |
-| 1299 | 17 | Shane Snyder |
-| 1300 | 17 | FitMeDiva |
+| 1297 | 18 | Gary Moore |
+| 1298 | 18 | Playboy916 |
+| 1299 | 17 | FitMeDiva |
+| 1300 | 17 | Spunky Gridzone |
 | 1301 | 17 | happy cupcake |
 | 1302 | 17 | Kennita Cox |
-| 1303 | 17 | Glitzy Crasher |
-| 1304 | 17 | Crystal Morrin |
-| 1305 | 17 | Cody Richard |
-| 1306 | 16 | Kiaralis Ashley Hancock |
-| 1307 | 16 | Valerie Morrison |
-| 1308 | 16 | Samantha Lohmeyer |
-| 1309 | 16 | Dana Smith |
-| 1310 | 16 | LuLazer27 |
-| 1311 | 16 | Layne Davis |
-| 1312 | 16 | Harpreet Rojas |
-| 1313 | 16 | Bruce Hobbs |
-| 1314 | 16 | Dandy Linkgrid |
-| 1315 | 16 | Nissi |
+| 1303 | 17 | Crystal Morrin |
+| 1304 | 17 | Glitzy Crasher |
+| 1305 | 17 | Shane Snyder |
+| 1306 | 17 | Cody Richard |
+| 1307 | 16 | Kiaralis Ashley Hancock |
+| 1308 | 16 | Valerie Morrison |
+| 1309 | 16 | Layne Davis |
+| 1310 | 16 | Samantha Lohmeyer |
+| 1311 | 16 | Dana Smith |
+| 1312 | 16 | LuLazer27 |
+| 1313 | 16 | Harpreet Rojas |
+| 1314 | 16 | Bruce Hobbs |
+| 1315 | 16 | Dandy Linkgrid |
 | 1316 | 16 | Melissa Robinson |
-| 1317 | 16 | Snappy Blockzone |
-| 1318 | 16 | Fancy Tiley |
+| 1317 | 16 | Nissi |
+| 1318 | 16 | Snappy Blockzone |
 | 1319 | 16 | EKM |
-| 1320 | 16 | Fumiko Demello |
-| 1321 | 16 | Iesha Jefferson |
-| 1322 | 16 | Maliyah An |
-| 1323 | 16 | Ashley McGeehan |
-| 1324 | 16 | Mr.Corbin |
-| 1325 | 16 | Dee Modest |
+| 1320 | 16 | Fancy Tiley |
+| 1321 | 16 | Fumiko Demello |
+| 1322 | 16 | Iesha Jefferson |
+| 1323 | 16 | Dee Modest |
+| 1324 | 16 | Maliyah An |
+| 1325 | 16 | Mr.Corbin |
 | 1326 | 16 | Pauline Cortez |
 | 1327 | 16 | Funky Riserpiece |
-| 1328 | 15 | Speedy Rollbuilder |
-| 1329 | 15 | Stacey Heartful |
-| 1330 | 15 | Nicole Gilmore |
-| 1331 | 15 | Hasty Grabber |
-| 1332 | 15 | babygirlw |
-| 1333 | 15 | Kiara Johnson |
-| 1334 | 15 | Mandi Rexroat |
-| 1335 | 15 | Ash |
-| 1336 | 15 | Wacky Clusterer |
-| 1337 | 15 | Mumsy |
-| 1338 | 15 | Chelsea Costa |
-| 1339 | 15 | Chilly Glidezone |
-| 1340 | 15 | Chris Abney |
-| 1341 | 15 | Tha Don |
-| 1342 | 15 | Tricki Woo |
-| 1343 | 15 | Medrano Cruz Yaquelyn |
-| 1344 | 15 | Diana Acosta |
-| 1345 | 15 | Angela Correa |
-| 1346 | 15 | John Wertz |
-| 1347 | 14 | Blanchie Wingo |
-| 1348 | 14 | mrsduke420 |
-| 1349 | 14 | Gellix |
-| 1350 | 14 | Donovan Parmenter Gagne |
-| 1351 | 14 | Breezy Striker |
-| 1352 | 14 | G Money |
-| 1353 | 14 | Tina Louise |
-| 1354 | 14 | Tammy Santiago |
+| 1328 | 16 | Ashley McGeehan |
+| 1329 | 15 | Hasty Grabber |
+| 1330 | 15 | Ash |
+| 1331 | 15 | Wacky Clusterer |
+| 1332 | 15 | Nicole Gilmore |
+| 1333 | 15 | Speedy Rollbuilder |
+| 1334 | 15 | Mumsy |
+| 1335 | 15 | Stacey Heartful |
+| 1336 | 15 | babygirlw |
+| 1337 | 15 | Mandi Rexroat |
+| 1338 | 15 | Kiara Johnson |
+| 1339 | 15 | Chelsea Costa |
+| 1340 | 15 | Chilly Glidezone |
+| 1341 | 15 | Chris Abney |
+| 1342 | 15 | Tha Don |
+| 1343 | 15 | Tricki Woo |
+| 1344 | 15 | Medrano Cruz Yaquelyn |
+| 1345 | 15 | Diana Acosta |
+| 1346 | 15 | Angela Correa |
+| 1347 | 15 | John Wertz |
+| 1348 | 14 | Blanchie Wingo |
+| 1349 | 14 | mrsduke420 |
+| 1350 | 14 | Gellix |
+| 1351 | 14 | Karissa Bailey |
+| 1352 | 14 | BreOunna Zonye Littleton |
+| 1353 | 14 | Heather Dornberger |
+| 1354 | 14 | Tina Louise |
 | 1355 | 14 | Heather Crowe |
-| 1356 | 14 | Karissa Bailey |
-| 1357 | 14 | BreOunna Zonye Littleton |
-| 1358 | 14 | Heather Dornberger |
-| 1359 | 14 | Mighty Clicky |
-| 1360 | 14 | Nakkia Mobley |
+| 1356 | 14 | Tammy Santiago |
+| 1357 | 14 | Donovan Parmenter Gagne |
+| 1358 | 14 | Jolene Stieren |
+| 1359 | 14 | Breezy Striker |
+| 1360 | 14 | Snippy Twister |
 | 1361 | 14 | Tonya Cross |
-| 1362 | 14 | Bookgirl69 |
-| 1363 | 14 | Snippy Twister |
-| 1364 | 14 | Jolene Stieren |
-| 1365 | 13 | Liz Aimé Acosta Guilarte |
-| 1366 | 13 | Speedy Snapclear |
-| 1367 | 13 | Frothy Pivotfall |
-| 1368 | 13 | Simone Marie Thrasher |
+| 1362 | 14 | Nakkia Mobley |
+| 1363 | 14 | G Money |
+| 1364 | 14 | Mighty Clicky |
+| 1365 | 14 | Bookgirl69 |
+| 1366 | 13 | Frothy Pivotfall |
+| 1367 | 13 | Simone Marie Thrasher |
+| 1368 | 13 | Swanky Spinzone |
 | 1369 | 13 | Bryce McGee |
-| 1370 | 13 | Jason Ervin |
-| 1371 | 13 | Swanky Spinzone |
-| 1372 | 13 | juler |
-| 1373 | 13 | Margarita Santana |
-| 1374 | 13 | Willedtra Griffin |
-| 1375 | 13 | Jackie Russo-Edens |
-| 1376 | 12 | Tonya Raymundo |
-| 1377 | 12 | Crafty Clicker |
-| 1378 | 12 | Mee |
-| 1379 | 12 | Rooney |
-| 1380 | 12 | Bouncy Clusterline |
-| 1381 | 12 | ESPERANTU |
-| 1382 | 12 | Tamara Gay |
-| 1383 | 12 | NotAkaren Barker |
-| 1384 | 12 | Carolyn Lalak |
-| 1385 | 12 | Tatiyana Hockett |
-| 1386 | 12 | Jacquelyn L Whitsitt |
-| 1387 | 12 | Spunky Gridzone |
-| 1388 | 12 | Delashawne Hodgson |
-| 1389 | 11 | Brooke |
-| 1390 | 11 | Bryan Odle |
-| 1391 | 11 | Bold Clear |
-| 1392 | 11 | AngReBo |
-| 1393 | 11 | OFOZO |
-| 1394 | 11 | Yam My |
-| 1395 | 11 | Zanny |
-| 1396 | 11 | Eric Mellinger |
-| 1397 | 11 | Teresa Lescinskas |
-| 1398 | 11 | Laurelez R. Carmen |
-| 1399 | 11 | Kristan Hoffman |
-| 1400 | 11 | Clever Linkfall |
-| 1401 | 11 | Amowe |
-| 1402 | 11 | Idella Cobb Strickland |
-| 1403 | 11 | Matt Akm |
-| 1404 | 10 | ToneDeaf |
-| 1405 | 10 | Charlie Thornton |
+| 1370 | 13 | Liz Aimé Acosta Guilarte |
+| 1371 | 13 | Speedy Snapclear |
+| 1372 | 13 | Jason Ervin |
+| 1373 | 13 | juler |
+| 1374 | 13 | Margarita Santana |
+| 1375 | 13 | Willedtra Griffin |
+| 1376 | 13 | Jackie Russo-Edens |
+| 1377 | 12 | Tonya Raymundo |
+| 1378 | 12 | Crafty Clicker |
+| 1379 | 12 | Mee |
+| 1380 | 12 | Rooney |
+| 1381 | 12 | Jacquelyn L Whitsitt |
+| 1382 | 12 | Tatiyana Hockett |
+| 1383 | 12 | ESPERANTU |
+| 1384 | 12 | NotAkaren Barker |
+| 1385 | 12 | Delashawne Hodgson |
+| 1386 | 12 | Tamara Gay |
+| 1387 | 12 | Bouncy Clusterline |
+| 1388 | 12 | Carolyn Lalak |
+| 1389 | 11 | Yam My |
+| 1390 | 11 | Brooke |
+| 1391 | 11 | OFOZO |
+| 1392 | 11 | Bryan Odle |
+| 1393 | 11 | Kristan Hoffman |
+| 1394 | 11 | Bold Clear |
+| 1395 | 11 | Laurelez R. Carmen |
+| 1396 | 11 | AngReBo |
+| 1397 | 11 | Zanny |
+| 1398 | 11 | Clever Linkfall |
+| 1399 | 11 | Eric Mellinger |
+| 1400 | 11 | Amowe |
+| 1401 | 11 | Matt Akm |
+| 1402 | 11 | Teresa Lescinskas |
+| 1403 | 11 | Idella Cobb Strickland |
+| 1404 | 10 | Christine Niles |
+| 1405 | 10 | ToneDeaf |
 | 1406 | 10 | Larredo Covington |
-| 1407 | 10 | JIGsaw ~(•¿°)~ |
-| 1408 | 10 | Christine Niles |
-| 1409 | 10 | tmnt |
-| 1410 | 10 | Speedy Brick |
+| 1407 | 10 | Charlie Thornton |
+| 1408 | 10 | tmnt |
+| 1409 | 10 | Speedy Brick |
+| 1410 | 10 | JIGsaw ~(•¿°)~ |
 | 1411 | 10 | Nicole Washington |
 | 1412 | 10 | Lazy Crusher |
 | 1413 | 10 | Karen Denise Ann Veitch |

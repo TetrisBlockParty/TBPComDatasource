@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:40:18 UTC
+# Standings for team1 as of 2026-06-07 15:40:43 UTC
 
 **Total Participants:** 1495
 
@@ -74,11 +74,11 @@
 | 66 | 897 | BYM4L |
 | 67 | 894 | Danielle Barthelme |
 | 68 | 885 | Blockhead |
-| 69 | 882 | Jon Gathers |
-| 70 | 877 | Brian Bohanon II |
-| 71 | 873 | Janine Hunter |
-| 72 | 868 | Eric Mcgaughy |
-| 73 | 863 | Court Court |
+| 69 | 883 | Court Court |
+| 70 | 882 | Jon Gathers |
+| 71 | 877 | Brian Bohanon II |
+| 72 | 873 | Janine Hunter |
+| 73 | 868 | Eric Mcgaughy |
 | 74 | 836 | Tiana Moore |
 | 75 | 803 | Kimberly Hernandez |
 | 76 | 799 | Jazzy Dashpiece |
