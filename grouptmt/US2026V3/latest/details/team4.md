@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:30:19 UTC
+# Standings for team4 as of 2026-06-07 12:30:42 UTC
 
 **Total Participants:** 1459
 
@@ -346,24 +346,24 @@
 | 338 | 137 | Maricela Joslin |
 | 339 | 137 | Deborah Silberg |
 | 340 | 136 | Lively Cascadebuilder |
-| 341 | 136 | King |
+| 341 | 136 | WeeWooWee |
 | 342 | 136 | Slinky Stackzone |
-| 343 | 136 | WeeWooWee |
+| 343 | 136 | King |
 | 344 | 135 | Quiomarie Cotto |
 | 345 | 135 | crobb77 |
 | 346 | 135 | Shia Marie |
 | 347 | 134 | All knowing |
 | 348 | 133 | Sonia Cordero-Martinez |
-| 349 | 131 | Swanky Snapgrid |
-| 350 | 131 | Diana Fernandez |
+| 349 | 131 | Stasia |
+| 350 | 131 | Swanky Snapgrid |
 | 351 | 131 | Dominique Melendez |
-| 352 | 131 | Stasia |
+| 352 | 131 | Diana Fernandez |
 | 353 | 131 | Lanelva Tiredofbs Marshall |
 | 354 | 130 | Bhakti Sawarkar |
 | 355 | 130 | Rita Ann |
-| 356 | 129 | Dizzy Slammer |
-| 357 | 129 | Has2brat |
-| 358 | 129 | Simone |
+| 356 | 129 | Simone |
+| 357 | 129 | Dizzy Slammer |
+| 358 | 129 | Has2brat |
 | 359 | 129 | Shauna Davis |
 | 360 | 129 | Sandra Stark |
 | 361 | 128 | Sherry Mooney |
@@ -390,12 +390,12 @@
 | 382 | 120 | Ada Rodriguez Spradley |
 | 383 | 120 | Natalie Dillard |
 | 384 | 120 | 1694AF |
-| 385 | 120 | Glamorous Gracey |
-| 386 | 120 | Carla Woodard |
-| 387 | 120 | Shiny Brick |
-| 388 | 120 | Lul Babie |
-| 389 | 120 | Cool Risepiece |
-| 390 | 120 | Joab Gonzalez |
+| 385 | 120 | Carla Woodard |
+| 386 | 120 | Shiny Brick |
+| 387 | 120 | Lul Babie |
+| 388 | 120 | Joab Gonzalez |
+| 389 | 120 | Glamorous Gracey |
+| 390 | 120 | Cool Risepiece |
 | 391 | 119 | aga |
 | 392 | 119 | Rae Saunders |
 | 393 | 119 | Dennis Montoya |
@@ -406,16 +406,16 @@
 | 398 | 117 | Fancy Tilefall |
 | 399 | 117 | Tyson Stroppel |
 | 400 | 116 | Toon Up |
-| 401 | 116 | Stef |
-| 402 | 116 | Henry Lanier |
-| 403 | 116 | Solace Grace |
+| 401 | 116 | Solace Grace |
+| 402 | 116 | Stef |
+| 403 | 116 | Henry Lanier |
 | 404 | 116 | Aaron Turner |
 | 405 | 114 | Suzanne North |
 | 406 | 114 | Ashley Eskridge |
 | 407 | 114 | Shawna Downey |
 | 408 | 113 | Nicole Colby McCloskey |
-| 409 | 113 | George Palacios |
-| 410 | 113 | Brandon Bedenbaugh |
+| 409 | 113 | Brandon Bedenbaugh |
+| 410 | 113 | George Palacios |
 | 411 | 113 | Melissa Anne |
 | 412 | 113 | TheazO |
 | 413 | 113 | Tarsha Thomas-Martinez |
@@ -426,8 +426,8 @@
 | 418 | 110 | Anna Ryan |
 | 419 | 110 | jaz |
 | 420 | 110 | Luna |
-| 421 | 109 | Chirpy Snapclear |
-| 422 | 109 | Ross Bryant |
+| 421 | 109 | Ross Bryant |
+| 422 | 109 | Chirpy Snapclear |
 | 423 | 109 | Edward White |
 | 424 | 108 | Kaps |
 | 425 | 108 | SandyEva |
@@ -545,8 +545,8 @@
 | 537 | 84 | Playa |
 | 538 | 84 | Sharon Tyler |
 | 539 | 84 | Darryl Shufford |
-| 540 | 83 | Ricardo Arias |
-| 541 | 83 | Peachy Piecefit |
+| 540 | 83 | Peachy Piecefit |
+| 541 | 83 | Ricardo Arias |
 | 542 | 83 | Jason Moves |
 | 543 | 83 | Lady |
 | 544 | 83 | Erik Clary |
@@ -561,35 +561,35 @@
 | 553 | 82 | Charity Thomas |
 | 554 | 81 | GingaNinja |
 | 555 | 81 | Giggy Snapgrid |
-| 556 | 81 | Marisela Alvarado |
-| 557 | 81 | PsyDMom |
-| 558 | 80 | Happy Filler |
-| 559 | 80 | Josh Keith Travierso |
-| 560 | 80 | Will E Ayala |
-| 561 | 80 | Lady Dolphin |
-| 562 | 80 | Krista Diaz |
-| 563 | 80 | Marie Adkins |
-| 564 | 80 | bofe |
-| 565 | 80 | Alicia |
-| 566 | 80 | Alice Eisnor-Martens |
-| 567 | 80 | Lovetetris |
-| 568 | 80 | Keke Johnson |
-| 569 | 80 | Kelly Miller Williams |
-| 570 | 79 | Melissa Lowe |
-| 571 | 79 | Lindsey DeRosa |
-| 572 | 79 | Dru Lui |
-| 573 | 79 | Audrianna Skaff |
-| 574 | 79 | Jacinta Hooker-Brown |
-| 575 | 79 | Deb 07 |
-| 576 | 79 | Lisa Jones |
-| 577 | 79 | Gean DeJesus |
-| 578 | 78 | Mint Marquez |
-| 579 | 78 | Destiny Starr LeValdo |
-| 580 | 78 | Shaunna Caldwell |
-| 581 | 78 | Christopher Lindsey |
-| 582 | 77 | Ajohnna Frazee |
-| 583 | 77 | Oc Tive |
-| 584 | 77 | Gary Smallwood |
+| 556 | 81 | Gary Smallwood |
+| 557 | 81 | Marisela Alvarado |
+| 558 | 81 | PsyDMom |
+| 559 | 80 | Happy Filler |
+| 560 | 80 | Josh Keith Travierso |
+| 561 | 80 | Will E Ayala |
+| 562 | 80 | Lady Dolphin |
+| 563 | 80 | Krista Diaz |
+| 564 | 80 | Marie Adkins |
+| 565 | 80 | bofe |
+| 566 | 80 | Alicia |
+| 567 | 80 | Alice Eisnor-Martens |
+| 568 | 80 | Lovetetris |
+| 569 | 80 | Keke Johnson |
+| 570 | 80 | Kelly Miller Williams |
+| 571 | 79 | Melissa Lowe |
+| 572 | 79 | Lindsey DeRosa |
+| 573 | 79 | Dru Lui |
+| 574 | 79 | Audrianna Skaff |
+| 575 | 79 | Jacinta Hooker-Brown |
+| 576 | 79 | Deb 07 |
+| 577 | 79 | Lisa Jones |
+| 578 | 79 | Gean DeJesus |
+| 579 | 78 | Mint Marquez |
+| 580 | 78 | Destiny Starr LeValdo |
+| 581 | 78 | Shaunna Caldwell |
+| 582 | 78 | Christopher Lindsey |
+| 583 | 77 | Ajohnna Frazee |
+| 584 | 77 | Oc Tive |
 | 585 | 77 | Deana Teck |
 | 586 | 77 | Cherrel M. Causey |
 | 587 | 76 | GETBOXED! |

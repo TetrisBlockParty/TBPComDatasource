@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:30:19 UTC
+# Standings for team1 as of 2026-06-07 12:30:42 UTC
 
 **Total Participants:** 1453
 
@@ -217,22 +217,22 @@
 | 209 | 248 | Yasmin Nakea Wright |
 | 210 | 246 | Byron Mario Cawthon |
 | 211 | 246 | Denise B |
-| 212 | 245 | Derrius SeriousLee Burks |
-| 213 | 245 | Bre Poston |
+| 212 | 245 | Bre Poston |
+| 213 | 245 | Rhonda Williams Warner |
 | 214 | 245 | Zachary Colegrove |
-| 215 | 245 | Rhonda Williams Warner |
+| 215 | 245 | Derrius SeriousLee Burks |
 | 216 | 241 | SyTheEvilGenius1 |
-| 217 | 240 | Rayya Kiser |
-| 218 | 238 | Queenie Perry |
-| 219 | 237 | David Fuentes |
-| 220 | 236 | Nutty Spinblock |
-| 221 | 235 | Michele Simpson |
-| 222 | 234 | Dacia Hicks |
-| 223 | 231 | Mic Balew |
-| 224 | 229 | Ann White |
-| 225 | 228 | Latisha Fairley |
-| 226 | 227 | Slinky Puzzler |
-| 227 | 221 | Reginald Frank |
+| 217 | 240 | Reginald Frank |
+| 218 | 240 | Rayya Kiser |
+| 219 | 238 | Queenie Perry |
+| 220 | 237 | David Fuentes |
+| 221 | 236 | Nutty Spinblock |
+| 222 | 235 | Michele Simpson |
+| 223 | 234 | Dacia Hicks |
+| 224 | 231 | Mic Balew |
+| 225 | 229 | Ann White |
+| 226 | 228 | Latisha Fairley |
+| 227 | 227 | Slinky Puzzler |
 | 228 | 220 | Slim Shedidthat |
 | 229 | 219 | Jhonny Maii |
 | 230 | 217 | Koi |
@@ -733,46 +733,46 @@
 | 725 | 59 | Smiley Tilebuilder |
 | 726 | 58 | NickyJay Jones |
 | 727 | 58 | CoaCoa Myles |
-| 728 | 58 | Gabriela Hernandez |
+| 728 | 58 | Brandy Way |
 | 729 | 58 | Alexandrla Smith |
-| 730 | 58 | Brandy Way |
-| 731 | 57 | Angela L Charles |
-| 732 | 57 | Kenny 'Tailormade' Boyd |
-| 733 | 57 | Danny Talbot |
+| 730 | 58 | Gabriela Hernandez |
+| 731 | 57 | Vonda House |
+| 732 | 57 | Desire Rice |
+| 733 | 57 | Pinky Pink |
 | 734 | 57 | Christy Quick |
-| 735 | 57 | Pinky Pink |
-| 736 | 57 | Desire Rice |
-| 737 | 56 | QueenzMo |
-| 738 | 56 | Sally Elizabeth Hopson |
-| 739 | 56 | Nona Harriel |
-| 740 | 56 | Lisa Ivy |
-| 741 | 56 | Kyle Conley |
-| 742 | 56 | Maria Baez Medina |
-| 743 | 56 | jeremy92 |
-| 744 | 56 | Chanel White |
-| 745 | 55 | Shakmar |
+| 735 | 57 | Danny Talbot |
+| 736 | 57 | Kenny 'Tailormade' Boyd |
+| 737 | 57 | Angela L Charles |
+| 738 | 56 | Nona Harriel |
+| 739 | 56 | QueenzMo |
+| 740 | 56 | Sally Elizabeth Hopson |
+| 741 | 56 | Lisa Ivy |
+| 742 | 56 | Kyle Conley |
+| 743 | 56 | Maria Baez Medina |
+| 744 | 56 | jeremy92 |
+| 745 | 56 | Chanel White |
 | 746 | 55 | PSD |
-| 747 | 55 | Kyle Franklin |
-| 748 | 55 | KoolKimJay |
-| 749 | 55 | Jane Lame |
-| 750 | 55 | nameno |
-| 751 | 55 | Vernon Hoyt |
-| 752 | 55 | Witty Clear |
-| 753 | 54 | Dennis Ripley |
+| 747 | 55 | Shakmar |
+| 748 | 55 | Kyle Franklin |
+| 749 | 55 | KoolKimJay |
+| 750 | 55 | Jane Lame |
+| 751 | 55 | nameno |
+| 752 | 55 | Vernon Hoyt |
+| 753 | 55 | Witty Clear |
 | 754 | 54 | deeno |
-| 755 | 54 | Kashh |
+| 755 | 54 | Dennis Ripley |
 | 756 | 54 | Bubbly Slammer |
 | 757 | 54 | Ace Hardware |
-| 758 | 54 | Antoinette Kelly |
-| 759 | 54 | Embracing Hair |
-| 760 | 54 | Katness |
-| 761 | 54 | Markeita Jones |
-| 762 | 54 | Felicia Yahuah Johnson |
-| 763 | 54 | John Spath |
-| 764 | 53 | Williams Candace |
-| 765 | 53 | Barbramerri Tarboro |
+| 758 | 54 | Kashh |
+| 759 | 54 | Antoinette Kelly |
+| 760 | 54 | Embracing Hair |
+| 761 | 54 | Katness |
+| 762 | 54 | Markeita Jones |
+| 763 | 54 | Felicia Yahuah Johnson |
+| 764 | 54 | John Spath |
+| 765 | 53 | Williams Candace |
 | 766 | 53 | brite |
-| 767 | 53 | Vonda House |
+| 767 | 53 | Barbramerri Tarboro |
 | 768 | 53 | Clever Wrecker |
 | 769 | 53 | Haakuu |
 | 770 | 53 | Heather Wilson |
