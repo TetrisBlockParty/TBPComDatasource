@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:36:40 UTC
+# Standings for team1 as of 2026-06-07 08:37:18 UTC
 
 **Total Participants:** 1427
 
@@ -207,39 +207,39 @@
 | 199 | 240 | Rayya Kiser |
 | 200 | 240 | Salim Thugger |
 | 201 | 238 | Queenie Perry |
-| 202 | 237 | David Fuentes |
-| 203 | 236 | Nutty Spinblock |
-| 204 | 236 | IThinkNot |
-| 205 | 235 | Michele Simpson |
-| 206 | 235 | De'Laonzeo Anthony |
-| 207 | 234 | Dacia Hicks |
-| 208 | 229 | Ann White |
-| 209 | 228 | Latisha Fairley |
-| 210 | 222 | Mic Balew |
-| 211 | 220 | Slim Shedidthat |
-| 212 | 220 | Devin West |
-| 213 | 217 | Koi |
-| 214 | 217 | Reginald Frank |
-| 215 | 216 | Nerdy Snapfall |
-| 216 | 214 | Teddy Davis |
-| 217 | 212 | Nobles Brandon |
-| 218 | 210 | Dion Gray |
-| 219 | 210 | Jenna Renee |
-| 220 | 206 | Curtis T Cirno |
-| 221 | 205 | Tishauna Virgo |
-| 222 | 204 | Shameka Thrasher |
-| 223 | 202 | Slinky Puzzler |
-| 224 | 201 | Bre Poston |
-| 225 | 200 | Christian Pham |
-| 226 | 199 | Fina McKinnis |
-| 227 | 198 | Robbie Cheeseman |
-| 228 | 197 | Steve Reno |
-| 229 | 197 | Smiley Clearpiece |
-| 230 | 196 | Chilly Wipebuilder |
-| 231 | 195 | Rayshawn Cohen |
-| 232 | 195 | Brittnay Wright |
-| 233 | 194 | Daris Swearington |
-| 234 | 194 | Chuck Quarles |
+| 202 | 237 | Jenna Renee |
+| 203 | 237 | David Fuentes |
+| 204 | 236 | Nutty Spinblock |
+| 205 | 236 | IThinkNot |
+| 206 | 235 | Michele Simpson |
+| 207 | 235 | De'Laonzeo Anthony |
+| 208 | 234 | Dacia Hicks |
+| 209 | 229 | Ann White |
+| 210 | 228 | Latisha Fairley |
+| 211 | 222 | Mic Balew |
+| 212 | 220 | Slim Shedidthat |
+| 213 | 220 | Devin West |
+| 214 | 218 | Chuck Quarles |
+| 215 | 217 | Reginald Frank |
+| 216 | 217 | Koi |
+| 217 | 216 | Nerdy Snapfall |
+| 218 | 214 | Teddy Davis |
+| 219 | 212 | Nobles Brandon |
+| 220 | 210 | Dion Gray |
+| 221 | 206 | Curtis T Cirno |
+| 222 | 205 | Tishauna Virgo |
+| 223 | 204 | Shameka Thrasher |
+| 224 | 202 | Slinky Puzzler |
+| 225 | 201 | Bre Poston |
+| 226 | 200 | Christian Pham |
+| 227 | 199 | Fina McKinnis |
+| 228 | 198 | Robbie Cheeseman |
+| 229 | 197 | Steve Reno |
+| 230 | 197 | Smiley Clearpiece |
+| 231 | 196 | Chilly Wipebuilder |
+| 232 | 195 | Rayshawn Cohen |
+| 233 | 195 | Brittnay Wright |
+| 234 | 194 | Daris Swearington |
 | 235 | 193 | Mikayla |
 | 236 | 192 | Katherine Short |
 | 237 | 192 | Trina Greenwood |
@@ -297,12 +297,12 @@
 | 289 | 156 | Cheeky Twistpiece |
 | 290 | 156 | SceneGreenz Wali |
 | 291 | 156 | Snippy Breaker |
-| 292 | 155 | Lazy Tiltpiece |
-| 293 | 154 | Sammie Walker |
-| 294 | 154 | Slinky Snapbuilder |
-| 295 | 153 | Rackemwillie34 |
-| 296 | 153 | Tipsy Linkroll |
-| 297 | 152 | Jhonny Maii |
+| 292 | 155 | Jhonny Maii |
+| 293 | 155 | Lazy Tiltpiece |
+| 294 | 154 | Sammie Walker |
+| 295 | 154 | Slinky Snapbuilder |
+| 296 | 153 | Rackemwillie34 |
+| 297 | 153 | Tipsy Linkroll |
 | 298 | 152 | Jolly Tilefall |
 | 299 | 150 | Simone Bailey |
 | 300 | 150 | Slinky Party |
@@ -826,63 +826,63 @@
 | 818 | 45 | Jason Saputo |
 | 819 | 45 | Matraca Young |
 | 820 | 45 | Brave Balanceblock |
-| 821 | 44 | BonnieB |
-| 822 | 44 | Shakmar |
-| 823 | 44 | JoZanna Washington |
-| 824 | 44 | LaSharon Jackson |
-| 825 | 44 | GiantBehemoth |
-| 826 | 44 | Nic Nic |
-| 827 | 44 | Tez Mays |
-| 828 | 44 | Teresa Menefee |
-| 829 | 44 | Connor Leon Cluff |
-| 830 | 44 | Renee Marshall |
-| 831 | 44 | Danielle Barthelme |
-| 832 | 43 | Vivian Bunnell Myers |
-| 833 | 43 | Giggy Brickfit |
-| 834 | 43 | Evelyn Epps |
-| 835 | 43 | Corbin Henry |
-| 836 | 43 | Block |
-| 837 | 43 | Louise Parker |
-| 838 | 43 | Hasty Glidezone |
-| 839 | 43 | Daphne Ceasar |
-| 840 | 43 | Amihan |
-| 841 | 42 | Sally Elizabeth Hopson |
-| 842 | 42 | TeeMaster Barber IsLyfe |
-| 843 | 42 | Ray Baker |
-| 844 | 42 | Emeka Agu |
-| 845 | 42 | Taneka Howell |
-| 846 | 42 | Shanna Green Williams |
-| 847 | 42 | Tammy Scott Mallen |
-| 848 | 42 | Brii Michelle Lamb |
-| 849 | 42 | Jason A Giantonio |
+| 821 | 45 | Jason A Giantonio |
+| 822 | 44 | BonnieB |
+| 823 | 44 | Shakmar |
+| 824 | 44 | JoZanna Washington |
+| 825 | 44 | LaSharon Jackson |
+| 826 | 44 | GiantBehemoth |
+| 827 | 44 | Nic Nic |
+| 828 | 44 | Tez Mays |
+| 829 | 44 | Teresa Menefee |
+| 830 | 44 | Connor Leon Cluff |
+| 831 | 44 | Renee Marshall |
+| 832 | 44 | Danielle Barthelme |
+| 833 | 43 | Evelyn Epps |
+| 834 | 43 | Amihan |
+| 835 | 43 | Daphne Ceasar |
+| 836 | 43 | Hasty Glidezone |
+| 837 | 43 | Vivian Bunnell Myers |
+| 838 | 43 | Louise Parker |
+| 839 | 43 | Block |
+| 840 | 43 | Corbin Henry |
+| 841 | 43 | Giggy Brickfit |
+| 842 | 42 | Brii Michelle Lamb |
+| 843 | 42 | Emeka Agu |
+| 844 | 42 | Ray Baker |
+| 845 | 42 | TeeMaster Barber IsLyfe |
+| 846 | 42 | Taneka Howell |
+| 847 | 42 | Sally Elizabeth Hopson |
+| 848 | 42 | Louise |
+| 849 | 42 | Shanna Green Williams |
 | 850 | 42 | Sunny Riserbuilder |
-| 851 | 42 | Wacky Spinfit |
-| 852 | 42 | Gary Kyle |
-| 853 | 42 | Rikki Moran |
-| 854 | 42 | Peppy Wipeblock |
-| 855 | 42 | Louise |
-| 856 | 41 | Laura |
-| 857 | 41 | WOOLFF |
-| 858 | 41 | Cranky Fall |
-| 859 | 41 | Deihja Weaver |
-| 860 | 41 | Danielle Marie Lewis |
-| 861 | 41 | NataAllDay |
-| 862 | 41 | JLynn Mind Ur's Blackwell |
-| 863 | 41 | Delitra Perkins Hatter |
-| 864 | 41 | Crafty Witch |
-| 865 | 40 | PattyPower |
-| 866 | 40 | Laura Wesley |
-| 867 | 40 | Billz143 |
-| 868 | 40 | nay |
-| 869 | 40 | Genne Scott |
-| 870 | 40 | Melissa Hershberger |
-| 871 | 40 | Dannie |
-| 872 | 40 | Jasmine Bates |
-| 873 | 40 | Shaun Anderson |
-| 874 | 40 | Flashy Slam |
-| 875 | 40 | Shauntai Holiday |
-| 876 | 40 | Ashanti Eden |
-| 877 | 40 | Marcello Rush |
+| 851 | 42 | Tammy Scott Mallen |
+| 852 | 42 | Wacky Spinfit |
+| 853 | 42 | Peppy Wipeblock |
+| 854 | 42 | Gary Kyle |
+| 855 | 42 | Rikki Moran |
+| 856 | 41 | Deihja Weaver |
+| 857 | 41 | NataAllDay |
+| 858 | 41 | Danielle Marie Lewis |
+| 859 | 41 | JLynn Mind Ur's Blackwell |
+| 860 | 41 | Cranky Fall |
+| 861 | 41 | Delitra Perkins Hatter |
+| 862 | 41 | Crafty Witch |
+| 863 | 41 | Laura |
+| 864 | 41 | WOOLFF |
+| 865 | 40 | Dannie |
+| 866 | 40 | Ashanti Eden |
+| 867 | 40 | Marcello Rush |
+| 868 | 40 | Billz143 |
+| 869 | 40 | Melissa Hershberger |
+| 870 | 40 | PattyPower |
+| 871 | 40 | nay |
+| 872 | 40 | Laura Wesley |
+| 873 | 40 | Flashy Slam |
+| 874 | 40 | Shauntai Holiday |
+| 875 | 40 | Shaun Anderson |
+| 876 | 40 | Jasmine Bates |
+| 877 | 40 | Genne Scott |
 | 878 | 40 | Mikemike Zonethree |
 | 879 | 40 | SherylU |
 | 880 | 40 | Cj Chimelis |

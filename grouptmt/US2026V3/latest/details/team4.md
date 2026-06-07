@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:36:40 UTC
+# Standings for team4 as of 2026-06-07 08:37:18 UTC
 
 **Total Participants:** 1418
 
@@ -28,7 +28,7 @@
 | 20 | 3643 | Jackie Lucas |
 | 21 | 3612 | Tonya Brooks-Johnson |
 | 22 | 3508 | Hasty Builder |
-| 23 | 3181 | Bubbly Twistpiece |
+| 23 | 3196 | Bubbly Twistpiece |
 | 24 | 3150 | Destiny Dyer |
 | 25 | 3095 | Irene Arreguin |
 | 26 | 3069 | Squirrel Donkey |
