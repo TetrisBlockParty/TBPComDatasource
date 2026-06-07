@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:38:19 UTC
+# Standings for team1 as of 2026-06-07 07:38:40 UTC
 
 **Total Participants:** 1416
 
@@ -70,7 +70,7 @@
 | 62 | 873 | Janine Hunter |
 | 63 | 870 | Blockhead |
 | 64 | 863 | Court Court |
-| 65 | 842 | Eric Mcgaughy |
+| 65 | 845 | Eric Mcgaughy |
 | 66 | 836 | Tiana Moore |
 | 67 | 805 | Weeze |
 | 68 | 803 | Kimberly Hernandez |
@@ -610,8 +610,8 @@
 | 602 | 67 | LexiiSamayaa |
 | 603 | 67 | Michele Elizabeth McKay-Johnson |
 | 604 | 67 | Esha I'msoproudofmyself Davis |
-| 605 | 67 | Sarah Barnum |
-| 606 | 67 | Kahh |
+| 605 | 67 | Kahh |
+| 606 | 67 | Sarah Barnum |
 | 607 | 67 | Nikkizz |
 | 608 | 66 | GracefulOwl808 |
 | 609 | 66 | Jess |
@@ -628,88 +628,88 @@
 | 620 | 65 | Erica Charlise |
 | 621 | 65 | Wayne Savannah |
 | 622 | 65 | Dede Tate |
-| 623 | 65 | Gbnola |
-| 624 | 65 | Trixie |
-| 625 | 64 | Giddy Staggerpiece |
-| 626 | 64 | DirtiestofMikes |
-| 627 | 64 | DellaLucretia Thomas |
-| 628 | 64 | Dandy Brickfit |
-| 629 | 64 | Jumpy Gridlock |
-| 630 | 64 | Elaine Youmans |
-| 631 | 64 | Chereese Harris |
-| 632 | 64 | Joseph Vs Cap |
-| 633 | 64 | Chris Nelson |
+| 623 | 65 | Trixie |
+| 624 | 65 | Gbnola |
+| 625 | 64 | DirtiestofMikes |
+| 626 | 64 | Giddy Staggerpiece |
+| 627 | 64 | Elaine Youmans |
+| 628 | 64 | Chris Nelson |
+| 629 | 64 | Dandy Brickfit |
+| 630 | 64 | Joseph Vs Cap |
+| 631 | 64 | DellaLucretia Thomas |
+| 632 | 64 | Jumpy Gridlock |
+| 633 | 64 | Chereese Harris |
 | 634 | 63 | Ahsokadog |
-| 635 | 63 | Shakuria Cortia Burney |
+| 635 | 63 | Yashicha Hertzock |
 | 636 | 63 | Shawna Passwater |
-| 637 | 63 | Poppy Smasher |
-| 638 | 63 | Yashicha Hertzock |
-| 639 | 63 | Natasha Harris |
-| 640 | 63 | Mellie Mel |
+| 637 | 63 | Shakuria Cortia Burney |
+| 638 | 63 | Poppy Smasher |
+| 639 | 63 | Mellie Mel |
+| 640 | 63 | Natasha Harris |
 | 641 | 62 | Nedine Ray |
-| 642 | 62 | Stephanie Ellis |
-| 643 | 62 | Jack Mehof |
-| 644 | 62 | Stephen Garland |
-| 645 | 61 | Raquel Ortiz |
-| 646 | 61 | Desi Guerra |
-| 647 | 61 | Squaw Ki Ng |
+| 642 | 62 | Stephen Garland |
+| 643 | 62 | Stephanie Ellis |
+| 644 | 62 | Pj Rojas |
+| 645 | 62 | Jack Mehof |
+| 646 | 61 | Squaw Ki Ng |
+| 647 | 61 | Desi Guerra |
 | 648 | 61 | Tonya Thomas |
 | 649 | 61 | Erika |
-| 650 | 61 | Taz Ballard |
-| 651 | 60 | lookin |
-| 652 | 60 | Deveda Williams |
-| 653 | 60 | Demi Ovalle |
-| 654 | 60 | Angie Smith |
-| 655 | 60 | Jennifer Endean |
-| 656 | 60 | Mom3granny2 |
-| 657 | 60 | Yellowguy3 |
-| 658 | 60 | Swanky Glide |
-| 659 | 60 | Missy Myvette |
-| 660 | 60 | Ashlie Mo |
-| 661 | 60 | Tellisa Payne |
-| 662 | 60 | Tanesha Ga'sFinest Corbett |
+| 650 | 61 | Raquel Ortiz |
+| 651 | 61 | Taz Ballard |
+| 652 | 60 | lookin |
+| 653 | 60 | Jennifer Endean |
+| 654 | 60 | Demi Ovalle |
+| 655 | 60 | Angie Smith |
+| 656 | 60 | Deveda Williams |
+| 657 | 60 | Tanesha Ga'sFinest Corbett |
+| 658 | 60 | Lauren Farkas |
+| 659 | 60 | Malcolm Stanley |
+| 660 | 60 | Frankey Chi |
+| 661 | 60 | Coco |
+| 662 | 60 | Dianne Clagon |
 | 663 | 60 | Crystal Garay |
-| 664 | 60 | Dianne Clagon |
-| 665 | 60 | Coco |
-| 666 | 60 | Frankey Chi |
-| 667 | 60 | Malcolm Stanley |
-| 668 | 60 | Lauren Farkas |
-| 669 | 59 | Smiley Tilebuilder |
+| 664 | 60 | Mom3granny2 |
+| 665 | 60 | Tellisa Payne |
+| 666 | 60 | Ashlie Mo |
+| 667 | 60 | Missy Myvette |
+| 668 | 60 | Swanky Glide |
+| 669 | 60 | Yellowguy3 |
 | 670 | 59 | Danny M GR |
 | 671 | 59 | Tonny Williams |
-| 672 | 59 | Fatty May |
-| 673 | 59 | Elizabeth Hopkins |
-| 674 | 59 | Darrel Pemberton |
-| 675 | 59 | OhNoZer0 |
-| 676 | 59 | Parris Wright |
-| 677 | 59 | EvaLynn NeCole |
-| 678 | 59 | Kortney Adams |
-| 679 | 59 | Evette Moreno |
-| 680 | 59 | Sugar Foot |
-| 681 | 59 | Twisty Brickfit |
-| 682 | 58 | Gabriela Hernandez |
-| 683 | 58 | NickyJay Jones |
-| 684 | 58 | CoaCoa Myles |
-| 685 | 58 | Sha Anderson |
-| 686 | 58 | Alexandrla Smith |
-| 687 | 58 | FunTime |
-| 688 | 58 | Brandy Way |
-| 689 | 57 | Christy Quick |
-| 690 | 57 | ImmeKC |
-| 691 | 57 | Pinky Pink |
-| 692 | 57 | Angela L Charles |
-| 693 | 57 | Paul Pendley |
-| 694 | 57 | Kenny 'Tailormade' Boyd |
-| 695 | 57 | Danny Talbot |
-| 696 | 57 | Desire Rice |
-| 697 | 56 | Duncan Timothy |
-| 698 | 56 | Nona Harriel |
-| 699 | 56 | Lisa Ivy |
-| 700 | 56 | jeremy92 |
-| 701 | 56 | Chanel White |
-| 702 | 56 | Kyle Conley |
-| 703 | 56 | Pj Rojas |
-| 704 | 56 | QueenzMo |
+| 672 | 59 | Smiley Tilebuilder |
+| 673 | 59 | Fatty May |
+| 674 | 59 | Elizabeth Hopkins |
+| 675 | 59 | Darrel Pemberton |
+| 676 | 59 | OhNoZer0 |
+| 677 | 59 | Parris Wright |
+| 678 | 59 | EvaLynn NeCole |
+| 679 | 59 | Kortney Adams |
+| 680 | 59 | Evette Moreno |
+| 681 | 59 | Sugar Foot |
+| 682 | 59 | Twisty Brickfit |
+| 683 | 58 | Gabriela Hernandez |
+| 684 | 58 | NickyJay Jones |
+| 685 | 58 | CoaCoa Myles |
+| 686 | 58 | Sha Anderson |
+| 687 | 58 | Alexandrla Smith |
+| 688 | 58 | FunTime |
+| 689 | 58 | Brandy Way |
+| 690 | 57 | Christy Quick |
+| 691 | 57 | ImmeKC |
+| 692 | 57 | Pinky Pink |
+| 693 | 57 | Angela L Charles |
+| 694 | 57 | Paul Pendley |
+| 695 | 57 | Kenny 'Tailormade' Boyd |
+| 696 | 57 | Danny Talbot |
+| 697 | 57 | Desire Rice |
+| 698 | 56 | Duncan Timothy |
+| 699 | 56 | Nona Harriel |
+| 700 | 56 | Lisa Ivy |
+| 701 | 56 | jeremy92 |
+| 702 | 56 | QueenzMo |
+| 703 | 56 | Kyle Conley |
+| 704 | 56 | Chanel White |
 | 705 | 56 | Maria Baez Medina |
 | 706 | 55 | Witty Clear |
 | 707 | 55 | Kyle Franklin |

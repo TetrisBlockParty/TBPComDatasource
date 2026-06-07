@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:38:19 UTC
+# Standings for team4 as of 2026-06-07 07:38:40 UTC
 
 **Total Participants:** 1410
 
@@ -53,7 +53,7 @@
 | 45 | 1357 | 626 |
 | 46 | 1249 | Charlie Lewis |
 | 47 | 1200 | Caitlin Johnson |
-| 48 | 1117 | Victoria Ver |
+| 48 | 1137 | Victoria Ver |
 | 49 | 1089 | Ning Quiambao |
 | 50 | 1089 | Bryan DjMagnum Evans |
 | 51 | 1060 | Chummy Rollzone |
@@ -98,10 +98,10 @@
 | 90 | 607 | Jeremy Lopez |
 | 91 | 604 | GeorgeButts |
 | 92 | 594 | Маркус Вік |
-| 93 | 580 | Dandy Clearfit |
-| 94 | 567 | Lynn Grimes |
-| 95 | 562 | Sweet Stacker |
-| 96 | 561 | Tommy Bond |
+| 93 | 591 | Tommy Bond |
+| 94 | 580 | Dandy Clearfit |
+| 95 | 567 | Lynn Grimes |
+| 96 | 562 | Sweet Stacker |
 | 97 | 547 | Kay |
 | 98 | 530 | Jewelz |
 | 99 | 516 | Caitlyn Wang |
@@ -171,32 +171,32 @@
 | 163 | 281 | Margie Thomas |
 | 164 | 280 | Slimm |
 | 165 | 280 | Suzanne Carter |
-| 166 | 279 | Brick House |
-| 167 | 277 | Giggly Tilt |
-| 168 | 273 | Danielle Mitchell |
-| 169 | 270 | Jojo Ann |
-| 170 | 268 | Megan Vick |
-| 171 | 266 | shawna |
-| 172 | 264 | Chiquita Blue |
+| 166 | 279 | Chiquita Blue |
+| 167 | 279 | Brick House |
+| 168 | 277 | Giggly Tilt |
+| 169 | 273 | Danielle Mitchell |
+| 170 | 270 | Jojo Ann |
+| 171 | 268 | Megan Vick |
+| 172 | 266 | shawna |
 | 173 | 262 | squareMel |
 | 174 | 261 | Waxboss |
 | 175 | 259 | Jessica Peyton |
-| 176 | 253 | Tammy June |
-| 177 | 249 | QueenLi86 |
+| 176 | 255 | QueenLi86 |
+| 177 | 253 | Tammy June |
 | 178 | 248 | Perky Riserbuilder |
 | 179 | 248 | Scamp Jones |
 | 180 | 247 | LastBoi |
 | 181 | 244 | matt |
 | 182 | 243 | Lucy Honer |
-| 183 | 242 | Danny Ortiz |
-| 184 | 242 | Shepreneur Sade |
-| 185 | 241 | Lush Fitblock |
-| 186 | 241 | Tawna Curry |
-| 187 | 241 | Alma López Morales |
-| 188 | 237 | Iforget |
+| 183 | 242 | Shepreneur Sade |
+| 184 | 242 | Iforget |
+| 185 | 242 | Danny Ortiz |
+| 186 | 241 | Alma López Morales |
+| 187 | 241 | Tawna Curry |
+| 188 | 241 | Lush Fitblock |
 | 189 | 237 | Anna Gribble |
-| 190 | 236 | BusterBear56 |
-| 191 | 236 | Becky McCool |
+| 190 | 236 | Becky McCool |
+| 191 | 236 | BusterBear56 |
 | 192 | 233 | Christy Beezley-Forbush |
 | 193 | 231 | Patrick Alley |
 | 194 | 230 | gabs |
