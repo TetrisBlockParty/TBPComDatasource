@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:40:19 UTC
+# Standings for team2 as of 2026-06-07 08:40:40 UTC
 
 **Total Participants:** 1684
 
@@ -221,17 +221,17 @@
 | 213 | 263 | Snappy Blockbuilder |
 | 214 | 263 | Glitzy Base |
 | 215 | 262 | Cool Balancer |
-| 216 | 261 | AndrewandShela Gornik |
-| 217 | 261 | Jessica Lynn |
+| 216 | 261 | Jessica Lynn |
+| 217 | 261 | AndrewandShela Gornik |
 | 218 | 259 | Angie Kowalsky Olson |
-| 219 | 257 | Xandrea Jones |
-| 220 | 257 | Jat |
+| 219 | 257 | Jat |
+| 220 | 257 | Xandrea Jones |
 | 221 | 253 | Marge Cromer |
 | 222 | 253 | Hilliary Beyer |
 | 223 | 252 | Kathy Strickland |
-| 224 | 250 | marsam |
+| 224 | 250 | Iesha Cupil |
 | 225 | 250 | Nikki EightySixed |
-| 226 | 250 | Iesha Cupil |
+| 226 | 250 | marsam |
 | 227 | 247 | Melissa Thomas |
 | 228 | 247 | Brittni Lawrence |
 | 229 | 246 | Brooke Lynn Marie Adelaide |
@@ -240,17 +240,17 @@
 | 232 | 239 | Norma Ortiz |
 | 233 | 237 | Michelle Luke Banta |
 | 234 | 236 | Lush Party |
-| 235 | 235 | Tami Kay Williams Watson |
-| 236 | 234 | Chipper Stackbuilder |
-| 237 | 234 | AndyJo |
-| 238 | 234 | Larry Cross |
-| 239 | 233 | Jeanna Mendez |
+| 235 | 235 | Elizabeth Henry |
+| 236 | 235 | Tami Kay Williams Watson |
+| 237 | 234 | Chipper Stackbuilder |
+| 238 | 234 | AndyJo |
+| 239 | 234 | Larry Cross |
 | 240 | 233 | Amie Marks |
-| 241 | 232 | Pam Bauder Ludwig |
-| 242 | 230 | Brandy Chinelle |
-| 243 | 230 | Kelly Vedder |
-| 244 | 227 | Laura Melton |
-| 245 | 227 | Elizabeth Henry |
+| 241 | 233 | Jeanna Mendez |
+| 242 | 232 | Pam Bauder Ludwig |
+| 243 | 230 | Brandy Chinelle |
+| 244 | 230 | Kelly Vedder |
+| 245 | 227 | Laura Melton |
 | 246 | 227 | Groovy Snapper |
 | 247 | 225 | Jenny |
 | 248 | 225 | Cheery Towerzone |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:40:19 UTC
+# Standings for team1 as of 2026-06-07 08:40:40 UTC
 
 **Total Participants:** 1427
 
@@ -193,13 +193,13 @@
 | 185 | 256 | Alana Renee |
 | 186 | 254 | Tonya McElroy |
 | 187 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 188 | 249 | Falisa Bell |
-| 189 | 249 | Cee Emm |
-| 190 | 248 | Yasmin Nakea Wright |
-| 191 | 248 | Jazzy Fireflighters |
-| 192 | 248 | Sharon Cail |
-| 193 | 246 | Denise B |
-| 194 | 246 | Byron Mario Cawthon |
+| 188 | 249 | Cee Emm |
+| 189 | 249 | Falisa Bell |
+| 190 | 248 | Sharon Cail |
+| 191 | 248 | Yasmin Nakea Wright |
+| 192 | 248 | Jazzy Fireflighters |
+| 193 | 246 | Byron Mario Cawthon |
+| 194 | 246 | Denise B |
 | 195 | 245 | Rhonda Williams Warner |
 | 196 | 245 | Zachary Colegrove |
 | 197 | 245 | Bre Poston |
@@ -208,22 +208,22 @@
 | 200 | 240 | Salim Thugger |
 | 201 | 240 | Rayya Kiser |
 | 202 | 238 | Queenie Perry |
-| 203 | 237 | David Fuentes |
-| 204 | 237 | Jenna Renee |
-| 205 | 236 | IThinkNot |
-| 206 | 236 | Nutty Spinblock |
-| 207 | 235 | De'Laonzeo Anthony |
-| 208 | 235 | Michele Simpson |
-| 209 | 234 | Dacia Hicks |
-| 210 | 229 | Ann White |
-| 211 | 228 | Latisha Fairley |
-| 212 | 228 | Dynah Gordon |
-| 213 | 222 | Mic Balew |
-| 214 | 220 | Devin West |
-| 215 | 220 | Slim Shedidthat |
-| 216 | 218 | Chuck Quarles |
-| 217 | 217 | Reginald Frank |
-| 218 | 217 | Koi |
+| 203 | 237 | Jenna Renee |
+| 204 | 237 | David Fuentes |
+| 205 | 236 | Nutty Spinblock |
+| 206 | 236 | IThinkNot |
+| 207 | 235 | Michele Simpson |
+| 208 | 235 | Chuck Quarles |
+| 209 | 235 | De'Laonzeo Anthony |
+| 210 | 234 | Dacia Hicks |
+| 211 | 229 | Ann White |
+| 212 | 228 | Latisha Fairley |
+| 213 | 228 | Dynah Gordon |
+| 214 | 222 | Mic Balew |
+| 215 | 220 | Devin West |
+| 216 | 220 | Slim Shedidthat |
+| 217 | 217 | Koi |
+| 218 | 217 | Reginald Frank |
 | 219 | 216 | Nerdy Snapfall |
 | 220 | 214 | Teddy Davis |
 | 221 | 212 | Nobles Brandon |
@@ -235,18 +235,18 @@
 | 227 | 200 | Christian Pham |
 | 228 | 199 | Fina McKinnis |
 | 229 | 198 | Robbie Cheeseman |
-| 230 | 197 | Steve Reno |
-| 231 | 197 | Smiley Clearpiece |
+| 230 | 197 | Smiley Clearpiece |
+| 231 | 197 | Steve Reno |
 | 232 | 196 | Chilly Wipebuilder |
 | 233 | 195 | Brittnay Wright |
 | 234 | 195 | Rayshawn Cohen |
 | 235 | 194 | Daris Swearington |
 | 236 | 193 | Mikayla |
-| 237 | 192 | Trina Greenwood |
-| 238 | 192 | Katherine Short |
-| 239 | 191 | DaGuy |
-| 240 | 191 | Emily Wright |
-| 241 | 191 | Kelli Couture |
+| 237 | 192 | Katherine Short |
+| 238 | 192 | Trina Greenwood |
+| 239 | 191 | Emily Wright |
+| 240 | 191 | Kelli Couture |
+| 241 | 191 | DaGuy |
 | 242 | 189 | LaShaun Stinson |
 | 243 | 188 | Cheeky Pop |
 | 244 | 187 | Heather Aurelia |
@@ -255,15 +255,15 @@
 | 247 | 186 | Stephen Providenti |
 | 248 | 186 | Lesley Brunkus Cianfaglione |
 | 249 | 185 | Richard Flex |
-| 250 | 184 | Frisky Fall |
+| 250 | 184 | Dai Bo |
 | 251 | 184 | Bbyunicorn |
-| 252 | 184 | Dai Bo |
+| 252 | 184 | Frisky Fall |
 | 253 | 183 | Wild Out Nai |
 | 254 | 182 | Hyper Blocky |
 | 255 | 181 | Rachel Zimmerman |
-| 256 | 180 | Melissa D. M. Hornsby |
+| 256 | 180 | Zippy Lifter |
 | 257 | 180 | Ann Chung |
-| 258 | 180 | Zippy Lifter |
+| 258 | 180 | Melissa D. M. Hornsby |
 | 259 | 179 | Amber Wilson |
 | 260 | 179 | ♈️ Ariesbaby |
 | 261 | 178 | Randizzle |
@@ -271,20 +271,20 @@
 | 263 | 173 | Chipper Snapper |
 | 264 | 171 | Boldy Liner |
 | 265 | 170 | Hailey Hil |
-| 266 | 169 | Asha Langford |
-| 267 | 169 | Jai |
-| 268 | 166 | 신재호 |
-| 269 | 166 | Poppy Buildout |
-| 270 | 166 | Valerie Alexander |
-| 271 | 166 | Tarnisha Neicy Jones |
+| 266 | 169 | Jai |
+| 267 | 169 | Asha Langford |
+| 268 | 166 | Valerie Alexander |
+| 269 | 166 | Tarnisha Neicy Jones |
+| 270 | 166 | 신재호 |
+| 271 | 166 | Poppy Buildout |
 | 272 | 165 | Tanisha Taylor |
 | 273 | 164 | TT |
-| 274 | 163 | Mafio SO |
-| 275 | 163 | Zappy Riser |
-| 276 | 162 | JaClanDiah |
-| 277 | 162 | Amy Lynn Leifheit |
+| 274 | 163 | Zappy Riser |
+| 275 | 163 | Mafio SO |
+| 276 | 162 | Clever Fitblock |
+| 277 | 162 | JaClanDiah |
 | 278 | 162 | Speedy Stacky |
-| 279 | 162 | Clever Fitblock |
+| 279 | 162 | Amy Lynn Leifheit |
 | 280 | 160 | Carolyn Smith |
 | 281 | 160 | Jhonny Maii |
 | 282 | 160 | Spicy Risepiece |
