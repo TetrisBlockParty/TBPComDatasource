@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:12:42 UTC
+# Standings for team1 as of 2026-06-07 18:13:19 UTC
 
 **Total Participants:** 1531
 
@@ -158,12 +158,12 @@
 | 150 | 380 | Dulo |
 | 151 | 377 | Jenna Renee |
 | 152 | 377 | AF Cruz |
-| 153 | 370 | Allison Baxter |
-| 154 | 367 | Leebo Slice |
-| 155 | 363 | Christina Rebecca |
-| 156 | 361 | John Staub |
-| 157 | 360 | Felicia Cain |
-| 158 | 359 | Atlantalindi |
+| 153 | 374 | Atlantalindi |
+| 154 | 370 | Allison Baxter |
+| 155 | 367 | Leebo Slice |
+| 156 | 363 | Christina Rebecca |
+| 157 | 361 | John Staub |
+| 158 | 360 | Felicia Cain |
 | 159 | 358 | Dena Marie Lee |
 | 160 | 355 | Tishauna Virgo |
 | 161 | 353 | Lashaunda |
@@ -277,8 +277,8 @@
 | 269 | 211 | LaShaun Stinson |
 | 270 | 210 | Dion Gray |
 | 271 | 209 | Shameka Thrasher |
-| 272 | 208 | Simone Bailey |
-| 273 | 207 | Charletha Williams |
+| 272 | 208 | Charletha Williams |
+| 273 | 208 | Simone Bailey |
 | 274 | 207 | Melissa D. M. Hornsby |
 | 275 | 206 | Curtis T Cirno |
 | 276 | 205 | Stephen Providenti |
@@ -681,37 +681,37 @@
 | 673 | 78 | Krystal Maynard |
 | 674 | 78 | Ryan Runyan |
 | 675 | 77 | EvaLynn NeCole |
-| 676 | 77 | rb |
-| 677 | 77 | DellaLucretia Thomas |
+| 676 | 77 | Casey Chapman |
+| 677 | 77 | rb |
 | 678 | 77 | Dana Hawes |
-| 679 | 77 | Ysma Simmons |
-| 680 | 76 | Shakmar |
-| 681 | 76 | Pj Rojas |
-| 682 | 76 | lady |
-| 683 | 76 | Angelique Talbot |
-| 684 | 76 | Giggly Shatterline |
-| 685 | 76 | LaSharon Jackson |
-| 686 | 76 | Earl Williams |
-| 687 | 75 | Erika |
-| 688 | 75 | Angie Lebron |
-| 689 | 75 | Teresa Bean |
-| 690 | 75 | sasha |
-| 691 | 75 | Blocksy |
-| 692 | 75 | Jennifer Moore |
-| 693 | 75 | Boldy Pivoty |
-| 694 | 75 | Tiffany Jean Hinson |
-| 695 | 75 | Courtney Robinson |
-| 696 | 74 | Coco |
-| 697 | 74 | Meow Meow |
-| 698 | 74 | Ace Hardware |
+| 679 | 77 | DellaLucretia Thomas |
+| 680 | 77 | Ysma Simmons |
+| 681 | 76 | Shakmar |
+| 682 | 76 | Pj Rojas |
+| 683 | 76 | lady |
+| 684 | 76 | Angelique Talbot |
+| 685 | 76 | Giggly Shatterline |
+| 686 | 76 | LaSharon Jackson |
+| 687 | 76 | Earl Williams |
+| 688 | 75 | Erika |
+| 689 | 75 | Angie Lebron |
+| 690 | 75 | Teresa Bean |
+| 691 | 75 | sasha |
+| 692 | 75 | Blocksy |
+| 693 | 75 | Jennifer Moore |
+| 694 | 75 | Boldy Pivoty |
+| 695 | 75 | Tiffany Jean Hinson |
+| 696 | 75 | Courtney Robinson |
+| 697 | 74 | Danny M GR |
+| 698 | 74 | Cortrell Foster |
 | 699 | 74 | Sunny Clicky |
-| 700 | 74 | Cortrell Foster |
-| 701 | 74 | Danny M GR |
-| 702 | 74 | Renee Marshall |
-| 703 | 74 | Sabrina Wilkerson |
-| 704 | 74 | Tetrisdestroyer |
-| 705 | 74 | Glitzy Clusterer |
-| 706 | 74 | Casey Chapman |
+| 700 | 74 | Renee Marshall |
+| 701 | 74 | Sabrina Wilkerson |
+| 702 | 74 | Ace Hardware |
+| 703 | 74 | Tetrisdestroyer |
+| 704 | 74 | Glitzy Clusterer |
+| 705 | 74 | Meow Meow |
+| 706 | 74 | Coco |
 | 707 | 73 | Crystal Garay |
 | 708 | 73 | Abigail Newman Sweet |
 | 709 | 72 | Comedian Gdane |
