@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:28:41 UTC
+# Standings for team1 as of 2026-06-07 09:29:18 UTC
 
 **Total Participants:** 1432
 
@@ -92,16 +92,16 @@
 | 84 | 678 | No_Other_Choice |
 | 85 | 677 | Eartha Brown |
 | 86 | 661 | Bre Maugh |
-| 87 | 620 | IamJust Neyamijah Washington Sr. |
-| 88 | 613 | Big Tina |
-| 89 | 601 | JaszyBadd |
-| 90 | 588 | Shontanese Adams |
-| 91 | 587 | KenpachisGirl |
+| 87 | 646 | Danielle Barthelme |
+| 88 | 620 | IamJust Neyamijah Washington Sr. |
+| 89 | 613 | Big Tina |
+| 90 | 601 | JaszyBadd |
+| 91 | 588 | Shontanese Adams |
 | 92 | 587 | She Higgy |
-| 93 | 586 | Kellie Hall |
-| 94 | 582 | Danielle Barthelme |
-| 95 | 570 | PandaPrincess |
-| 96 | 570 | Keeta Chickswit Scott |
+| 93 | 587 | KenpachisGirl |
+| 94 | 586 | Kellie Hall |
+| 95 | 570 | Keeta Chickswit Scott |
+| 96 | 570 | PandaPrincess |
 | 97 | 568 | MamaBear |
 | 98 | 564 | Voice |
 | 99 | 552 | Carolynne Walker-Bell |
@@ -148,9 +148,9 @@
 | 140 | 361 | John Staub |
 | 141 | 353 | Lashaunda |
 | 142 | 351 | Uneekly Mayde |
-| 143 | 348 | LeeLee08 |
-| 144 | 348 | Jenna Renee |
-| 145 | 348 | pooh |
+| 143 | 348 | Jenna Renee |
+| 144 | 348 | pooh |
+| 145 | 348 | LeeLee08 |
 | 146 | 339 | Ty Øtg |
 | 147 | 336 | Ceilo Marie |
 | 148 | 331 | Joey Albright |

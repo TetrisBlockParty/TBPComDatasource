@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:28:41 UTC
+# Standings for team2 as of 2026-06-07 09:29:18 UTC
 
 **Total Participants:** 1689
 
@@ -230,23 +230,23 @@
 | 222 | 253 | Marge Cromer |
 | 223 | 253 | Hilliary Beyer |
 | 224 | 252 | Kathy Strickland |
-| 225 | 250 | marsam |
-| 226 | 250 | Nikki EightySixed |
+| 225 | 250 | Nikki EightySixed |
+| 226 | 250 | marsam |
 | 227 | 250 | Iesha Cupil |
 | 228 | 247 | Melissa Thomas |
 | 229 | 247 | Brittni Lawrence |
 | 230 | 246 | Brooke Lynn Marie Adelaide |
 | 231 | 241 | Boldy Wobbler |
-| 232 | 240 | PaiBri |
-| 233 | 239 | Norma Ortiz |
-| 234 | 237 | Michelle Luke Banta |
-| 235 | 236 | Lush Party |
-| 236 | 235 | Tami Kay Williams Watson |
-| 237 | 235 | Elizabeth Henry |
+| 232 | 241 | Elizabeth Henry |
+| 233 | 240 | PaiBri |
+| 234 | 239 | Norma Ortiz |
+| 235 | 237 | Michelle Luke Banta |
+| 236 | 236 | Lush Party |
+| 237 | 235 | Tami Kay Williams Watson |
 | 238 | 234 | Larry Cross |
 | 239 | 234 | AndyJo |
-| 240 | 233 | Amie Marks |
-| 241 | 233 | Jeanna Mendez |
+| 240 | 233 | Jeanna Mendez |
+| 241 | 233 | Amie Marks |
 | 242 | 232 | Pam Bauder Ludwig |
 | 243 | 230 | Kelly Vedder |
 | 244 | 230 | Brandy Chinelle |
