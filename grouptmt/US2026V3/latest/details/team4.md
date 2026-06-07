@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:12:18 UTC
+# Standings for team4 as of 2026-06-07 09:12:39 UTC
 
 **Total Participants:** 1426
 
@@ -70,8 +70,8 @@
 | 62 | 892 | Alala.Cersei |
 | 63 | 880 | Snippy Grid |
 | 64 | 876 | SMV |
-| 65 | 848 | Beee |
-| 66 | 840 | J |
+| 65 | 866 | J |
+| 66 | 848 | Beee |
 | 67 | 836 | Blind Bette |
 | 68 | 832 | Jason Allen |
 | 69 | 830 | Kitsune Bi |
