@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:24:42 UTC
+# Standings for team2 as of 2026-06-07 07:25:17 UTC
 
 **Total Participants:** 1668
 
@@ -135,7 +135,7 @@
 | 127 | 483 | Karen Reid Cenkush |
 | 128 | 477 | Amy Gale |
 | 129 | 476 | snowwol |
-| 130 | 467 | Gloria May Shook |
+| 130 | 469 | Gloria May Shook |
 | 131 | 466 | Judy Long |
 | 132 | 458 | Kaycie Shaffer |
 | 133 | 448 | Pooh |

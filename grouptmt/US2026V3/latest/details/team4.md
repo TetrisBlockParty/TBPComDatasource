@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:24:42 UTC
+# Standings for team4 as of 2026-06-07 07:25:17 UTC
 
 **Total Participants:** 1404
 
@@ -812,10 +812,10 @@
 | 804 | 46 | Epic Curver |
 | 805 | 46 | Sadeha Simpson |
 | 806 | 45 | Kim Miller |
-| 807 | 45 | Becky Bernazal |
-| 808 | 45 | idk240 |
-| 809 | 45 | Dsay Yates |
-| 810 | 45 | LaShieka Noland |
+| 807 | 45 | idk240 |
+| 808 | 45 | LaShieka Noland |
+| 809 | 45 | Becky Bernazal |
+| 810 | 45 | Dsay Yates |
 | 811 | 45 | Stephanie Meinhart |
 | 812 | 45 | Manolo Canety |
 | 813 | 45 | LandO |
@@ -837,8 +837,8 @@
 | 829 | 44 | Cauntay Youngking Williams |
 | 830 | 44 | Rhonda Dowling |
 | 831 | 44 | Jazzy Rollout |
-| 832 | 44 | Jenny Torres |
-| 833 | 44 | Tracy Marino |
+| 832 | 44 | Tracy Marino |
+| 833 | 44 | Jenny Torres |
 | 834 | 43 | Miguel Teixeira |
 | 835 | 43 | Heidi Lyn Ramirez |
 | 836 | 43 | Purple Queen |
@@ -862,8 +862,8 @@
 | 854 | 42 | Agent |
 | 855 | 42 | Abby Waterman |
 | 856 | 41 | Rebecca Sloan |
-| 857 | 41 | Misty Leigh |
-| 858 | 41 | Rebekah Anne Macias |
+| 857 | 41 | Rebekah Anne Macias |
+| 858 | 41 | Misty Leigh |
 | 859 | 41 | Clever Shuffler |
 | 860 | 41 | Memphiago Tenninois |
 | 861 | 41 | Kasey Lynne |
@@ -893,21 +893,21 @@
 | 885 | 40 | Amanda Albritton Moore |
 | 886 | 40 | BigCup ReeseCup |
 | 887 | 40 | Steven Patshy |
-| 888 | 40 | RustyMaster40 |
+| 888 | 40 | KrisTina2007 |
 | 889 | 40 | Aim Georgia Bros Scott |
-| 890 | 40 | Zesty Lift |
+| 890 | 40 | RustyMaster40 |
 | 891 | 40 | Regina Williams |
-| 892 | 40 | KrisTina2007 |
-| 893 | 40 | Felicia Harrison |
-| 894 | 40 | MamaBear3 |
-| 895 | 40 | Sherri Lynn |
-| 896 | 40 | AVA |
-| 897 | 40 | Carissa Thorne-See |
+| 892 | 40 | Zesty Lift |
+| 893 | 40 | AVA |
+| 894 | 40 | Felicia Harrison |
+| 895 | 40 | Carissa Thorne-See |
+| 896 | 40 | Sherri Lynn |
+| 897 | 40 | MamaBear3 |
 | 898 | 39 | Megan Lynn |
-| 899 | 39 | Andy Petersen |
-| 900 | 39 | Candice Sellers Worley |
+| 899 | 39 | Candice Sellers Worley |
+| 900 | 39 | Merrick Marion |
 | 901 | 39 | Allrise99 |
-| 902 | 39 | Merrick Marion |
+| 902 | 39 | Andy Petersen |
 | 903 | 39 | Jillian Marie |
 | 904 | 39 | Chris Davis |
 | 905 | 39 | Casey Thomas |
@@ -926,10 +926,10 @@
 | 918 | 38 | JP Chua |
 | 919 | 38 | Robin M Casebolt |
 | 920 | 38 | ImagineKaijus |
-| 921 | 37 | Shannon Lee |
-| 922 | 37 | alxhue04 |
-| 923 | 37 | Katherine Stec |
-| 924 | 37 | Tay |
+| 921 | 37 | alxhue04 |
+| 922 | 37 | Shannon Lee |
+| 923 | 37 | Tay |
+| 924 | 37 | Katherine Stec |
 | 925 | 37 | LISHA 2 U |
 | 926 | 37 | KingCas |
 | 927 | 37 | Heather Cline |
@@ -951,18 +951,18 @@
 | 943 | 36 | Austin Tan |
 | 944 | 36 | Emily Lowe |
 | 945 | 36 | Krazylegzzzz |
-| 946 | 36 | Quiles Yaitza |
-| 947 | 36 | Stacey Hyde |
-| 948 | 36 | Alyssa Berg |
-| 949 | 36 | Electric Storm |
-| 950 | 36 | Lamont |
-| 951 | 36 | Tonia Kay |
+| 946 | 36 | Alyssa Berg |
+| 947 | 36 | Quiles Yaitza |
+| 948 | 36 | Stacey Hyde |
+| 949 | 36 | Tonia Kay |
+| 950 | 36 | Electric Storm |
+| 951 | 36 | Lamont |
 | 952 | 36 | Peppy Linefit |
-| 953 | 35 | Loony Dashgrid |
-| 954 | 35 | Peachy Grabber |
+| 953 | 35 | Beezy |
+| 954 | 35 | Joshua Conwell |
 | 955 | 35 | Jodi Haman-wheeler |
-| 956 | 35 | Beezy |
-| 957 | 35 | Joshua Conwell |
+| 956 | 35 | Loony Dashgrid |
+| 957 | 35 | Peachy Grabber |
 | 958 | 35 | Rebecca Renaud |
 | 959 | 35 | Jessica Marie Flores |
 | 960 | 35 | Pretty_Rican |
@@ -983,11 +983,11 @@
 | 975 | 34 | Tommy Thomas |
 | 976 | 34 | Sunshine Dreamchaser Whitfield |
 | 977 | 34 | Sherri Lorent |
-| 978 | 34 | Bold Snapper |
-| 979 | 34 | Combo Snappy |
-| 980 | 33 | Shupurplenurkle |
+| 978 | 34 | Combo Snappy |
+| 979 | 34 | Bold Snapper |
+| 980 | 33 | Christopher Ponceja |
 | 981 | 33 | Chris |
-| 982 | 33 | Christopher Ponceja |
+| 982 | 33 | Shupurplenurkle |
 | 983 | 33 | Tracy Ann Frederick |
 | 984 | 33 | MsThick SrtLady Williams |
 | 985 | 33 | Joe Joe |
@@ -999,51 +999,51 @@
 | 991 | 32 | Happy Strikerpiece |
 | 992 | 32 | Hyper Snaplink |
 | 993 | 32 | Ali Nicole |
-| 994 | 32 | Rezinbauer Spicer |
-| 995 | 32 | Boldy Clicky |
-| 996 | 31 | Amy Gutierrez |
+| 994 | 32 | Marie Culbert |
+| 995 | 32 | Rezinbauer Spicer |
+| 996 | 32 | Boldy Clicky |
 | 997 | 31 | beTrue76 |
-| 998 | 31 | Kristen Lester |
-| 999 | 31 | Groovy Stacker |
-| 1000 | 31 | Grace Mariie |
-| 1001 | 31 | Amanda Serrano Ruffner |
-| 1002 | 31 | Breezy Blockzone |
-| 1003 | 31 | Breezy Brickline |
-| 1004 | 31 | Cflixer |
-| 1005 | 31 | Renita Jordan |
-| 1006 | 31 | LaToya LeBlanc |
-| 1007 | 30 | Lush Balanceblock |
-| 1008 | 30 | Deanne Silverdahl |
-| 1009 | 30 | Perky Balanceblock |
-| 1010 | 30 | Sydney Taylor Sileno |
-| 1011 | 30 | Lmg |
-| 1012 | 30 | Tati |
-| 1013 | 30 | San |
-| 1014 | 30 | Jesus Fuentes III |
-| 1015 | 30 | Janna Bruss |
-| 1016 | 30 | Funky Rollzone |
-| 1017 | 30 | Spicy Holder |
-| 1018 | 30 | Shirley Tow Middaugh |
-| 1019 | 30 | Loopy Wipeout |
-| 1020 | 30 | Jennie |
-| 1021 | 30 | Krystalclear |
-| 1022 | 30 | Michelle Sager |
-| 1023 | 30 | Lizette Chaires |
-| 1024 | 30 | Krushie |
-| 1025 | 30 | Sarah |
-| 1026 | 30 | Toya Rimson |
-| 1027 | 30 | Ali Garcia |
-| 1028 | 30 | Frisky Framezone |
-| 1029 | 30 | Kimberly Nkwopara |
+| 998 | 31 | Amy Gutierrez |
+| 999 | 31 | Kristen Lester |
+| 1000 | 31 | Groovy Stacker |
+| 1001 | 31 | Grace Mariie |
+| 1002 | 31 | Amanda Serrano Ruffner |
+| 1003 | 31 | Breezy Blockzone |
+| 1004 | 31 | Breezy Brickline |
+| 1005 | 31 | Cflixer |
+| 1006 | 31 | Renita Jordan |
+| 1007 | 31 | LaToya LeBlanc |
+| 1008 | 30 | Lush Balanceblock |
+| 1009 | 30 | Deanne Silverdahl |
+| 1010 | 30 | Perky Balanceblock |
+| 1011 | 30 | Sydney Taylor Sileno |
+| 1012 | 30 | Lmg |
+| 1013 | 30 | Tati |
+| 1014 | 30 | San |
+| 1015 | 30 | Jesus Fuentes III |
+| 1016 | 30 | Janna Bruss |
+| 1017 | 30 | Funky Rollzone |
+| 1018 | 30 | Spicy Holder |
+| 1019 | 30 | Shirley Tow Middaugh |
+| 1020 | 30 | Loopy Wipeout |
+| 1021 | 30 | Kimberly Nkwopara |
+| 1022 | 30 | Krystalclear |
+| 1023 | 30 | Michelle Sager |
+| 1024 | 30 | Lizette Chaires |
+| 1025 | 30 | Krushie |
+| 1026 | 30 | Sarah |
+| 1027 | 30 | Toya Rimson |
+| 1028 | 30 | Ali Garcia |
+| 1029 | 30 | Frisky Framezone |
 | 1030 | 30 | Christopher Farias |
-| 1031 | 30 | BrokenDiamond |
-| 1032 | 30 | Nerdy Piecebuilder |
-| 1033 | 30 | Weird Cat |
-| 1034 | 30 | Donna Winget |
-| 1035 | 30 | Audacious |
-| 1036 | 30 | Derrek Lee |
-| 1037 | 30 | Amori85 |
-| 1038 | 30 | Marie Culbert |
+| 1031 | 30 | Jennie |
+| 1032 | 30 | BrokenDiamond |
+| 1033 | 30 | Nerdy Piecebuilder |
+| 1034 | 30 | Weird Cat |
+| 1035 | 30 | Donna Winget |
+| 1036 | 30 | Audacious |
+| 1037 | 30 | Derrek Lee |
+| 1038 | 30 | Amori85 |
 | 1039 | 29 | Karr |
 | 1040 | 29 | Wayne Hendricks |
 | 1041 | 29 | Kelley Shoop |
