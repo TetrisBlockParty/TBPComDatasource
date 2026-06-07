@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:52:20 UTC
+# Standings for team2 as of 2026-06-07 20:52:41 UTC
 
 **Total Participants:** 1899
 
@@ -721,155 +721,155 @@
 | 713 | 92 | Tim Moore |
 | 714 | 92 | Belinda Gullion Austin |
 | 715 | 92 | Jayda Walters |
-| 716 | 92 | Chirpy Clearpiece |
+| 716 | 92 | John Perkins |
 | 717 | 92 | Linzy Ratliff |
-| 718 | 92 | John Perkins |
+| 718 | 92 | Chirpy Clearpiece |
 | 719 | 92 | Stoney McMillion |
-| 720 | 91 | Smiley Cornerfall |
-| 721 | 91 | Tito Garcia |
-| 722 | 91 | Tamara Whiteley |
+| 720 | 91 | Tito Garcia |
+| 721 | 91 | Tamara Whiteley |
+| 722 | 91 | Smiley Cornerfall |
 | 723 | 91 | Ava Taber |
 | 724 | 90 | Lesley Stoeckle |
-| 725 | 90 | Tiffany Hassanshahi |
-| 726 | 90 | Arik DiLorenzo |
-| 727 | 90 | Diane Byrd |
-| 728 | 90 | Deena-Neal Peryer |
-| 729 | 90 | Helen Townsend |
+| 725 | 90 | Deena-Neal Peryer |
+| 726 | 90 | Diane Byrd |
+| 727 | 90 | Helen Townsend |
+| 728 | 90 | Lacie B |
+| 729 | 90 | Tiffany Hassanshahi |
 | 730 | 90 | Naomi Jaynes |
-| 731 | 90 | Lacie B |
+| 731 | 90 | Arik DiLorenzo |
 | 732 | 89 | Manda |
 | 733 | 89 | Tami Weiss |
 | 734 | 89 | Patrick Woodard |
-| 735 | 89 | Bouncy Cluster |
-| 736 | 88 | Amanda Bailey |
-| 737 | 88 | Lisa Chapman |
-| 738 | 88 | Missy Tubb Overly |
-| 739 | 88 | Connie Marie Cornell Lerma |
-| 740 | 88 | Witty Riser |
-| 741 | 88 | Quirky Gridclear |
-| 742 | 88 | BrendaLee NolanBos |
-| 743 | 87 | BB |
+| 735 | 89 | Chilly Surge |
+| 736 | 89 | Bouncy Cluster |
+| 737 | 88 | Quirky Gridclear |
+| 738 | 88 | BrendaLee NolanBos |
+| 739 | 88 | Lisa Chapman |
+| 740 | 88 | Amanda Bailey |
+| 741 | 88 | Connie Marie Cornell Lerma |
+| 742 | 88 | Missy Tubb Overly |
+| 743 | 88 | Witty Riser |
 | 744 | 87 | Sara Karels |
-| 745 | 87 | Wendy Michelle Wise-Ledford |
-| 746 | 87 | Dhelsie Qurasima |
-| 747 | 87 | Tetrismastrr |
-| 748 | 86 | shell |
+| 745 | 87 | BB |
+| 746 | 87 | Tetrismastrr |
+| 747 | 87 | Dhelsie Qurasima |
+| 748 | 87 | Wendy Michelle Wise-Ledford |
 | 749 | 86 | Jessica Murphree |
 | 750 | 86 | Samantha Brown |
-| 751 | 86 | Talyn Domingues |
-| 752 | 86 | Lazy Staggerpiece |
-| 753 | 86 | Frisky Twist |
-| 754 | 86 | bozzycat |
-| 755 | 86 | Brandy McCleary |
-| 756 | 85 | Frisky Linkbuilder |
-| 757 | 85 | Nerdy Linebuilder |
+| 751 | 86 | Brandy McCleary |
+| 752 | 86 | bozzycat |
+| 753 | 86 | Talyn Domingues |
+| 754 | 86 | Lazy Staggerpiece |
+| 755 | 86 | Frisky Twist |
+| 756 | 86 | shell |
+| 757 | 85 | Wacky Stack |
 | 758 | 85 | Daisy Girl |
-| 759 | 85 | Jeremy Daurbigny |
-| 760 | 85 | Seamus |
-| 761 | 85 | Allison Peterson |
-| 762 | 85 | Val |
-| 763 | 85 | Heather |
-| 764 | 85 | Jason P. Schwartz |
-| 765 | 85 | Wacky Stack |
-| 766 | 85 | Tonya Marino |
-| 767 | 85 | James Moore |
-| 768 | 84 | Stacey Loretta Wallace |
-| 769 | 84 | Joshua Hopkins |
+| 759 | 85 | Val |
+| 760 | 85 | Heather |
+| 761 | 85 | Jeremy Daurbigny |
+| 762 | 85 | Frisky Linkbuilder |
+| 763 | 85 | Jason P. Schwartz |
+| 764 | 85 | Nerdy Linebuilder |
+| 765 | 85 | Seamus |
+| 766 | 85 | Allison Peterson |
+| 767 | 85 | Tonya Marino |
+| 768 | 85 | James Moore |
+| 769 | 84 | Stacey Loretta Wallace |
 | 770 | 84 | Jolly Twisterfit |
-| 771 | 84 | Calah Amore |
-| 772 | 83 | Dawnypooh |
-| 773 | 83 | Jazzy Snapfit |
-| 774 | 83 | Becky Kennon |
-| 775 | 83 | Louis Brudzinski |
-| 776 | 83 | CEK |
-| 777 | 83 | CATFISH |
-| 778 | 83 | Billy Pittman |
-| 779 | 82 | Mikaela Byrd |
-| 780 | 82 | Alimae |
-| 781 | 82 | Kendi |
-| 782 | 82 | wutrwerdz |
-| 783 | 82 | Nutty Fitzone |
+| 771 | 84 | Joshua Hopkins |
+| 772 | 84 | Calah Amore |
+| 773 | 83 | Dawnypooh |
+| 774 | 83 | Louis Brudzinski |
+| 775 | 83 | CATFISH |
+| 776 | 83 | Becky Kennon |
+| 777 | 83 | Jazzy Snapfit |
+| 778 | 83 | CEK |
+| 779 | 83 | Billy Pittman |
+| 780 | 82 | Kendi |
+| 781 | 82 | Alimae |
+| 782 | 82 | Mikaela Byrd |
+| 783 | 82 | wutrwerdz |
 | 784 | 82 | Rubics cube |
 | 785 | 82 | Peter Fogg |
-| 786 | 81 | Heather Hi |
-| 787 | 81 | Mee Maw |
-| 788 | 81 | Missy Savage-Justice |
-| 789 | 81 | Zesty Zoney |
-| 790 | 81 | YldBoar |
+| 786 | 82 | Nutty Fitzone |
+| 787 | 81 | Heather Hi |
+| 788 | 81 | Mee Maw |
+| 789 | 81 | Shiny Matchpiece |
+| 790 | 81 | Chris Delauro |
 | 791 | 81 | Quina Jesse Fejaran |
-| 792 | 81 | Shiny Matchpiece |
-| 793 | 81 | Chris Delauro |
-| 794 | 81 | Robin Stutler |
+| 792 | 81 | Robin Stutler |
+| 793 | 81 | YldBoar |
+| 794 | 81 | Zesty Zoney |
 | 795 | 81 | Evelyn Olive Kalmbach |
 | 796 | 81 | Jessica Spivey Cooper |
-| 797 | 81 | Paula |
-| 798 | 80 | Sandy Molina |
-| 799 | 80 | Jennifer Robinson |
-| 800 | 80 | Patty Sparkman |
-| 801 | 80 | Chris Christ |
-| 802 | 80 | Ramona Guillermo |
-| 803 | 80 | PrissyPris |
-| 804 | 80 | Tami Leontyuk |
-| 805 | 80 | Christina Whitehead |
-| 806 | 80 | Mandeee |
+| 797 | 81 | Missy Savage-Justice |
+| 798 | 81 | Paula |
+| 799 | 80 | Sandy Molina |
+| 800 | 80 | Jennifer Robinson |
+| 801 | 80 | Patty Sparkman |
+| 802 | 80 | Chris Christ |
+| 803 | 80 | Ramona Guillermo |
+| 804 | 80 | Dayna Messer-Thelen |
+| 805 | 80 | Roger Kirksey |
+| 806 | 80 | Tami Leontyuk |
 | 807 | 80 | Nicole Hogue |
-| 808 | 80 | Tonya Greger |
-| 809 | 80 | Roger Kirksey |
-| 810 | 80 | Dayna Messer-Thelen |
-| 811 | 80 | Charith Lorelle Watson |
-| 812 | 80 | Jenny Bishop |
-| 813 | 80 | Cool Patternbuilder |
-| 814 | 80 | Cory Lynn |
-| 815 | 80 | Michelle Anne |
-| 816 | 80 | Chilly Surge |
-| 817 | 80 | Nerdy Spinfit |
-| 818 | 79 | Bruni |
-| 819 | 79 | Monica Gonzalez Rios |
-| 820 | 79 | Aeryal Snow |
-| 821 | 79 | Sandra Rotton Bragg |
-| 822 | 79 | ReiRei |
-| 823 | 79 | Laura Anderson |
-| 824 | 79 | Lezley Hawkins |
-| 825 | 79 | Cheryl Graves Downard |
-| 826 | 79 | KCBlocker |
+| 808 | 80 | Charith Lorelle Watson |
+| 809 | 80 | Jenny Bishop |
+| 810 | 80 | Michelle Anne |
+| 811 | 80 | PrissyPris |
+| 812 | 80 | Nerdy Spinfit |
+| 813 | 80 | Christina Whitehead |
+| 814 | 80 | Mandeee |
+| 815 | 80 | Tonya Greger |
+| 816 | 80 | Cory Lynn |
+| 817 | 80 | Cool Patternbuilder |
+| 818 | 79 | Laura Anderson |
+| 819 | 79 | Sandra Rotton Bragg |
+| 820 | 79 | Lezley Hawkins |
+| 821 | 79 | Aeryal Snow |
+| 822 | 79 | Monica Gonzalez Rios |
+| 823 | 79 | Bruni |
+| 824 | 79 | KCBlocker |
+| 825 | 79 | ReiRei |
+| 826 | 79 | Cheryl Graves Downard |
 | 827 | 79 | Nichole Fuller |
-| 828 | 78 | Shelby Wilson |
-| 829 | 78 | y |
+| 828 | 78 | Mona Smith |
+| 829 | 78 | Shelby Wilson |
 | 830 | 78 | Danyell Flood-Morning |
-| 831 | 78 | Aaron Jones |
-| 832 | 78 | Mona Smith |
-| 833 | 77 | Renee Craig |
-| 834 | 77 | Jolly Builderpiece |
-| 835 | 77 | Amber Simonton |
-| 836 | 77 | Michael Delozier |
-| 837 | 77 | Raymond Dawson |
+| 831 | 78 | y |
+| 832 | 78 | Aaron Jones |
+| 833 | 77 | Amber Simonton |
+| 834 | 77 | Michael Delozier |
+| 835 | 77 | Raymond Dawson |
+| 836 | 77 | Renee Craig |
+| 837 | 77 | Jolly Builderpiece |
 | 838 | 77 | Fallon Moss |
 | 839 | 76 | Nancy Schwartz Gusman-Oliver |
 | 840 | 76 | Joe Dirilo |
-| 841 | 76 | Zaniya Brown |
-| 842 | 76 | Tiffany Fitch |
-| 843 | 76 | Busted9mm |
-| 844 | 76 | Kris Dusza Dodus |
-| 845 | 76 | TiffTaff |
-| 846 | 76 | Ashley Diana |
-| 847 | 75 | joey |
-| 848 | 75 | Clever Fallmatch |
-| 849 | 75 | Rae |
-| 850 | 75 | Mrs biotch |
-| 851 | 75 | Bennie Farbo |
-| 852 | 75 | Laura Turner |
+| 841 | 76 | Kris Dusza Dodus |
+| 842 | 76 | Busted9mm |
+| 843 | 76 | TiffTaff |
+| 844 | 76 | Tiffany Fitch |
+| 845 | 76 | Ashley Diana |
+| 846 | 76 | Zaniya Brown |
+| 847 | 75 | Bennie Farbo |
+| 848 | 75 | Mrs biotch |
+| 849 | 75 | Laura Turner |
+| 850 | 75 | Clever Fallmatch |
+| 851 | 75 | Rae |
+| 852 | 75 | joey |
 | 853 | 75 | Sam Schwieso |
 | 854 | 75 | William Dowd |
 | 855 | 74 | Candace Mihm |
 | 856 | 74 | Carol Whited Loza |
 | 857 | 74 | Valeri Bradley |
-| 858 | 74 | Bethany Nestor |
-| 859 | 74 | Nicole Treadway |
-| 860 | 74 | Christina Kearns |
-| 861 | 74 | Natasha Lee |
+| 858 | 74 | Natasha Lee |
+| 859 | 74 | Bethany Nestor |
+| 860 | 74 | Nicole Treadway |
+| 861 | 74 | Christina Kearns |
 | 862 | 73 | Mellzey |
-| 863 | 73 | Alisha Shelton |
-| 864 | 73 | blockrocker |
+| 863 | 73 | blockrocker |
+| 864 | 73 | Alisha Shelton |
 | 865 | 73 | Sunny Spinzone |
 | 866 | 73 | BugMansMom |
 | 867 | 73 | Carmina Truoiolo |
