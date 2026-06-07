@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:48:39 UTC
+# Standings for team1 as of 2026-06-07 09:49:17 UTC
 
 **Total Participants:** 1434
 
@@ -335,66 +335,66 @@
 | 327 | 140 | rls |
 | 328 | 139 | kitten |
 | 329 | 138 | Tamika Rocheteau |
-| 330 | 137 | Lisa Fletcher |
-| 331 | 137 | Giggy Tower |
-| 332 | 137 | Tay |
-| 333 | 137 | Nickeya Phillips |
+| 330 | 137 | Tay |
+| 331 | 137 | Lisa Fletcher |
+| 332 | 137 | Nickeya Phillips |
+| 333 | 137 | Giggy Tower |
 | 334 | 136 | Alyssa Rae |
 | 335 | 136 | McKayla Owens |
 | 336 | 135 | Saucy Tile |
 | 337 | 135 | Sean White |
-| 338 | 134 | Brittanie Wardlow |
-| 339 | 134 | De'Nell Edwards |
-| 340 | 134 | Peppy Glider |
+| 338 | 134 | Peppy Glider |
+| 339 | 134 | Brittanie Wardlow |
+| 340 | 134 | De'Nell Edwards |
 | 341 | 134 | Perky Pusher |
 | 342 | 133 | Tasha |
-| 343 | 132 | Tremaine Hiler |
-| 344 | 132 | Chirpy Buildgrid |
+| 343 | 132 | Chirpy Buildgrid |
+| 344 | 132 | Tremaine Hiler |
 | 345 | 131 | Sarah Clark |
-| 346 | 130 | Jessica Davis |
-| 347 | 130 | Adrian Wilson |
-| 348 | 130 | Crystal Anderson |
+| 346 | 131 | Tyiesha Pie Farmer |
+| 347 | 130 | Jessica Davis |
+| 348 | 130 | Maribel Vasquez |
 | 349 | 130 | Miera Nicole |
-| 350 | 130 | Maribel Vasquez |
-| 351 | 130 | Murg4dr01d |
-| 352 | 129 | Mathew Trudell |
+| 350 | 130 | Crystal Anderson |
+| 351 | 130 | Adrian Wilson |
+| 352 | 130 | Murg4dr01d |
 | 353 | 129 | Loopy Tiler |
-| 354 | 128 | Darrel K Pemberton |
-| 355 | 128 | Jack Vlasak |
-| 356 | 127 | Ozell Jones Jr. |
+| 354 | 129 | Mathew Trudell |
+| 355 | 128 | Darrel K Pemberton |
+| 356 | 128 | Jack Vlasak |
 | 357 | 127 | Treneil Daffin |
-| 358 | 127 | Comedian Prince Paul |
-| 359 | 126 | Brittany Fells |
-| 360 | 126 | Breezy Catcher |
-| 361 | 125 | Dizzy Dashy |
-| 362 | 125 | LaTonya Myers |
+| 358 | 127 | Ozell Jones Jr. |
+| 359 | 127 | Comedian Prince Paul |
+| 360 | 126 | Brittany Fells |
+| 361 | 126 | Breezy Catcher |
+| 362 | 125 | Dizzy Dashy |
 | 363 | 125 | Dedra M Prester |
-| 364 | 125 | Tyiesha Pie Farmer |
+| 364 | 125 | LaTonya Myers |
 | 365 | 124 | The DUBZ |
 | 366 | 123 | Cauiasia DeJ'ae |
 | 367 | 123 | Rachael Bakowicz Edwards |
 | 368 | 122 | Xana Zania Bopp |
 | 369 | 121 | Shanaa Germany Crittenden |
 | 370 | 121 | Bubbly Piececlear |
-| 371 | 121 | Tiana Monique |
-| 372 | 121 | Tee Spinks |
-| 373 | 120 | Teri Marie Clayton |
-| 374 | 120 | Katrina Ramey |
-| 375 | 120 | Guy Incognito |
-| 376 | 120 | Tanya Clayton |
+| 371 | 121 | Tee Spinks |
+| 372 | 121 | Tiana Monique |
+| 373 | 120 | Guy Incognito |
+| 374 | 120 | Tanya Clayton |
+| 375 | 120 | Teri Marie Clayton |
+| 376 | 120 | Katrina Ramey |
 | 377 | 119 | Lexx Robins |
 | 378 | 119 | Kelvin Cook |
-| 379 | 118 | izzybella |
-| 380 | 118 | Hasty Pivoty |
+| 379 | 118 | Hasty Pivoty |
+| 380 | 118 | izzybella |
 | 381 | 117 | MonaSparks |
 | 382 | 117 | Choc |
 | 383 | 116 | Shalya Terry |
-| 384 | 115 | BabyCakes |
-| 385 | 115 | Ashleyy Netchert |
+| 384 | 115 | Ashleyy Netchert |
+| 385 | 115 | BabyCakes |
 | 386 | 115 | wmedina67 |
 | 387 | 114 | Nina Davis |
-| 388 | 114 | Faith Armone |
-| 389 | 114 | LAhoneybun82 |
+| 388 | 114 | LAhoneybun82 |
+| 389 | 114 | Faith Armone |
 | 390 | 113 | Shakuria Cortia Burney |
 | 391 | 112 | Jennah |
 | 392 | 112 | GamerQueenDS |
