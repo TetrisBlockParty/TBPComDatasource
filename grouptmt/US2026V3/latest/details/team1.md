@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:43:18 UTC
+# Standings for team1 as of 2026-06-07 08:44:19 UTC
 
 **Total Participants:** 1428
 
@@ -185,32 +185,32 @@
 | 177 | 270 | xXEKUNXx |
 | 178 | 260 | Ketrell Bailey |
 | 179 | 259 | Brave Clearbuilder |
-| 180 | 258 | Dynah Gordon |
-| 181 | 258 | Jayjay Rich |
-| 182 | 257 | Po Marley |
-| 183 | 257 | Ebony |
-| 184 | 257 | Calvin Green |
+| 180 | 258 | Jayjay Rich |
+| 181 | 258 | Dynah Gordon |
+| 182 | 257 | Calvin Green |
+| 183 | 257 | Po Marley |
+| 184 | 257 | Cathy Young |
 | 185 | 257 | De'Laonzeo Anthony |
-| 186 | 257 | Cathy Young |
+| 186 | 257 | Ebony |
 | 187 | 256 | Alana Renee |
 | 188 | 254 | Tonya McElroy |
 | 189 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 190 | 249 | Falisa Bell |
-| 191 | 249 | Cee Emm |
-| 192 | 248 | Jazzy Fireflighters |
+| 190 | 249 | Cee Emm |
+| 191 | 249 | Jenna Renee |
+| 192 | 249 | Falisa Bell |
 | 193 | 248 | Sharon Cail |
 | 194 | 248 | Yasmin Nakea Wright |
-| 195 | 246 | Byron Mario Cawthon |
+| 195 | 248 | Jazzy Fireflighters |
 | 196 | 246 | Denise B |
-| 197 | 245 | Zachary Colegrove |
-| 198 | 245 | Rhonda Williams Warner |
-| 199 | 245 | Bre Poston |
-| 200 | 245 | Derrius SeriousLee Burks |
-| 201 | 241 | SyTheEvilGenius1 |
-| 202 | 240 | Rayya Kiser |
-| 203 | 240 | Salim Thugger |
-| 204 | 238 | Queenie Perry |
-| 205 | 237 | Jenna Renee |
+| 197 | 246 | Byron Mario Cawthon |
+| 198 | 245 | Derrius SeriousLee Burks |
+| 199 | 245 | Zachary Colegrove |
+| 200 | 245 | Rhonda Williams Warner |
+| 201 | 245 | Bre Poston |
+| 202 | 241 | SyTheEvilGenius1 |
+| 203 | 240 | Rayya Kiser |
+| 204 | 240 | Salim Thugger |
+| 205 | 238 | Queenie Perry |
 | 206 | 237 | David Fuentes |
 | 207 | 236 | IThinkNot |
 | 208 | 236 | Nutty Spinblock |
@@ -614,26 +614,26 @@
 | 606 | 69 | Keith Johnson |
 | 607 | 69 | Jose Rodriguez |
 | 608 | 69 | Rochelle Nash-Evans |
-| 609 | 69 | Sara |
-| 610 | 68 | Christopher Shaw-Black |
-| 611 | 68 | Dreamzzz |
-| 612 | 68 | Sallie Sanborn |
-| 613 | 67 | Hyedie Badie |
-| 614 | 67 | Sarah Barnum |
-| 615 | 67 | Nikkizz |
-| 616 | 67 | Michele Elizabeth McKay-Johnson |
-| 617 | 67 | LexiiSamayaa |
-| 618 | 67 | Kahh |
-| 619 | 67 | Esha I'msoproudofmyself Davis |
-| 620 | 66 | GracefulOwl808 |
-| 621 | 66 | Terrie |
-| 622 | 66 | Raquele Hines |
-| 623 | 66 | Sylvia Offically A Mcgowan |
-| 624 | 66 | Jess |
-| 625 | 66 | Mami Badd |
-| 626 | 66 | Callie Mae |
-| 627 | 66 | Letrishia Andrews |
-| 628 | 66 | Frances Davis |
+| 609 | 69 | Frances Davis |
+| 610 | 69 | Sara |
+| 611 | 68 | Christopher Shaw-Black |
+| 612 | 68 | Dreamzzz |
+| 613 | 68 | Sallie Sanborn |
+| 614 | 67 | Hyedie Badie |
+| 615 | 67 | Sarah Barnum |
+| 616 | 67 | Nikkizz |
+| 617 | 67 | Michele Elizabeth McKay-Johnson |
+| 618 | 67 | LexiiSamayaa |
+| 619 | 67 | Kahh |
+| 620 | 67 | Esha I'msoproudofmyself Davis |
+| 621 | 66 | GracefulOwl808 |
+| 622 | 66 | Terrie |
+| 623 | 66 | Raquele Hines |
+| 624 | 66 | Sylvia Offically A Mcgowan |
+| 625 | 66 | Jess |
+| 626 | 66 | Mami Badd |
+| 627 | 66 | Callie Mae |
+| 628 | 66 | Letrishia Andrews |
 | 629 | 65 | Pj Rojas |
 | 630 | 65 | Tesiree Cray |
 | 631 | 65 | Jazzy Bridger |
@@ -1266,13 +1266,13 @@
 | 1258 | 14 | Nerdy Curvetile |
 | 1259 | 14 | Jennifer Levan |
 | 1260 | 14 | Zany Pivot |
-| 1261 | 14 | Fancy Mover |
-| 1262 | 13 | Beth Ingham |
-| 1263 | 13 | random |
-| 1264 | 13 | Bianca Nawlinsgurl Ferguson |
-| 1265 | 13 | PuddenPop |
-| 1266 | 13 | Chinkey Overit |
-| 1267 | 13 | Marcus Roberts |
+| 1261 | 14 | Marcus Roberts |
+| 1262 | 14 | Fancy Mover |
+| 1263 | 13 | Beth Ingham |
+| 1264 | 13 | random |
+| 1265 | 13 | Bianca Nawlinsgurl Ferguson |
+| 1266 | 13 | PuddenPop |
+| 1267 | 13 | Chinkey Overit |
 | 1268 | 13 | Hoppy Rumbler |
 | 1269 | 13 | Krystal Maynard |
 | 1270 | 13 | Emma Adams |
