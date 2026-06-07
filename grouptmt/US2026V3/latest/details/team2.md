@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:12:39 UTC
+# Standings for team2 as of 2026-06-07 02:13:18 UTC
 
 **Total Participants:** 1527
 
@@ -118,8 +118,8 @@
 | 110 | 480 | Courtney McCulley |
 | 111 | 477 | Amy Gale |
 | 112 | 476 | snowwol |
-| 113 | 472 | Lily |
-| 114 | 472 | Le Sandy |
+| 113 | 472 | Le Sandy |
+| 114 | 472 | Lily |
 | 115 | 470 | Smiley Dropper |
 | 116 | 466 | Judy Long |
 | 117 | 462 | Josh Twilley |
@@ -147,10 +147,10 @@
 | 139 | 343 | Theresa Marie |
 | 140 | 342 | Bri St Peter |
 | 141 | 340 | Mom |
-| 142 | 333 | Jackie Tupper |
+| 142 | 334 | Jackie Tupper |
 | 143 | 332 | Jason Cook |
-| 144 | 328 | Tim Tim |
-| 145 | 328 | Keri Mears |
+| 144 | 328 | Keri Mears |
+| 145 | 328 | Tim Tim |
 | 146 | 327 | Gloria May Shook |
 | 147 | 325 | Amy Gregg |
 | 148 | 323 | Shannon Wilson |
@@ -164,17 +164,17 @@
 | 156 | 310 | Jennifer Smith |
 | 157 | 309 | Ashley Green |
 | 158 | 305 | haune |
-| 159 | 302 | Hypee |
-| 160 | 300 | Linda Guay |
-| 161 | 300 | Hector |
-| 162 | 299 | Mookshake |
-| 163 | 298 | Breeana Bennett |
-| 164 | 298 | Heather Burgett |
-| 165 | 296 | Snappy Combo |
-| 166 | 294 | Vistabrat |
-| 167 | 293 | Erin Thomas |
-| 168 | 292 | James Ward |
-| 169 | 292 | Flower_child |
+| 159 | 302 | Flower_child |
+| 160 | 302 | Hypee |
+| 161 | 300 | Linda Guay |
+| 162 | 300 | Hector |
+| 163 | 299 | Mookshake |
+| 164 | 298 | Breeana Bennett |
+| 165 | 298 | Heather Burgett |
+| 166 | 296 | Snappy Combo |
+| 167 | 294 | Vistabrat |
+| 168 | 293 | Erin Thomas |
+| 169 | 292 | James Ward |
 | 170 | 291 | Flashy Twistline |
 | 171 | 285 | Samantha Carman |
 | 172 | 284 | Renee Freeman Jacobson |
@@ -313,39 +313,39 @@
 | 305 | 150 | Marylin Eacker |
 | 306 | 150 | Zany Wrecker |
 | 307 | 149 | Jenni LeBlanc |
-| 308 | 148 | Nano. |
+| 308 | 149 | Tango Sierra |
 | 309 | 148 | murd3rmous3 |
-| 310 | 148 | Curly Windbreaker |
-| 311 | 148 | Amy Lea Hamilton |
-| 312 | 146 | Darla Nolt |
-| 313 | 145 | Alicia Parrish |
-| 314 | 144 | Cortney Coleman |
-| 315 | 144 | Will Jones |
-| 316 | 144 | Jamie Fenyus |
-| 317 | 143 | Amanda L Strong |
-| 318 | 143 | Tango Sierra |
+| 310 | 148 | Nano. |
+| 311 | 148 | Curly Windbreaker |
+| 312 | 148 | Amy Lea Hamilton |
+| 313 | 146 | Darla Nolt |
+| 314 | 145 | Alicia Parrish |
+| 315 | 144 | Cortney Coleman |
+| 316 | 144 | Will Jones |
+| 317 | 144 | Jamie Fenyus |
+| 318 | 143 | Amanda L Strong |
 | 319 | 143 | Spicy Basepiece |
 | 320 | 142 | Nikki EightySixed |
 | 321 | 141 | Joslyn Johnson |
-| 322 | 140 | Teddy Williams |
+| 322 | 140 | Sharon L Brazelton |
 | 323 | 140 | Alison Waller |
 | 324 | 140 | Billie Jensen |
-| 325 | 140 | Sharon L Brazelton |
-| 326 | 139 | Charles E Mccardell |
-| 327 | 139 | Funway998 |
-| 328 | 139 | Loopy Tower |
+| 325 | 140 | Teddy Williams |
+| 326 | 139 | Funway998 |
+| 327 | 139 | Loopy Tower |
+| 328 | 139 | Charles E Mccardell |
 | 329 | 138 | NickandJess Reynolds |
 | 330 | 138 | Ashley Miller |
 | 331 | 137 | Ashley Voelz |
 | 332 | 137 | Sandra Belk |
-| 333 | 136 | Mtnblzr |
-| 334 | 136 | Jumpy Dashpiece |
+| 333 | 136 | Sara Perkins |
+| 334 | 136 | Mtnblzr |
 | 335 | 136 | Lauren Maxwell |
-| 336 | 136 | Sara Perkins |
-| 337 | 135 | KazzyKay |
-| 338 | 135 | Erica South |
-| 339 | 134 | Sabrina Hardrick |
-| 340 | 134 | Joanna Trevin Thompson |
+| 336 | 136 | Jumpy Dashpiece |
+| 337 | 135 | Erica South |
+| 338 | 135 | KazzyKay |
+| 339 | 134 | Joanna Trevin Thompson |
+| 340 | 134 | Sabrina Hardrick |
 | 341 | 133 | Chirpy Grid |
 | 342 | 133 | Rob Owens |
 | 343 | 133 | Tara |
@@ -949,38 +949,38 @@
 | 941 | 36 | Duke Morley |
 | 942 | 36 | YAKO |
 | 943 | 36 | Audrey Phillips |
-| 944 | 36 | Calah Amore |
-| 945 | 36 | James Brown |
-| 946 | 36 | Debra Patten |
-| 947 | 36 | Christina Hanson |
-| 948 | 36 | Deborah Lint Odom |
-| 949 | 36 | Jennifer Leigh |
-| 950 | 36 | Amanda Stanley |
-| 951 | 36 | Rey Huber |
-| 952 | 35 | Snazzy Clusterfit |
-| 953 | 35 | Rachael Roberts |
-| 954 | 35 | Raffa |
-| 955 | 35 | Nerdy Base |
-| 956 | 35 | Anthony Chavez |
+| 944 | 36 | James Brown |
+| 945 | 36 | Calah Amore |
+| 946 | 36 | Dandy Column |
+| 947 | 36 | Debra Patten |
+| 948 | 36 | Christina Hanson |
+| 949 | 36 | Deborah Lint Odom |
+| 950 | 36 | Jennifer Leigh |
+| 951 | 36 | Amanda Stanley |
+| 952 | 36 | Rey Huber |
+| 953 | 35 | Silly square |
+| 954 | 35 | Rachael Roberts |
+| 955 | 35 | Raffa |
+| 956 | 35 | Nerdy Base |
 | 957 | 35 | Naomi Jaynes |
-| 958 | 35 | Signerlisa |
-| 959 | 35 | Jessica Jones |
-| 960 | 35 | Isiwin |
-| 961 | 35 | Silly square |
-| 962 | 35 | Jay Theriault |
-| 963 | 35 | blockrocker |
-| 964 | 34 | Tina Kinney |
-| 965 | 34 | Twisty Snapmatch |
+| 958 | 35 | Anthony Chavez |
+| 959 | 35 | Isiwin |
+| 960 | 35 | Signerlisa |
+| 961 | 35 | Jessica Jones |
+| 962 | 35 | Snazzy Clusterfit |
+| 963 | 35 | Jay Theriault |
+| 964 | 35 | blockrocker |
+| 965 | 34 | Tina Kinney |
 | 966 | 34 | Mouh Med |
 | 967 | 34 | Witty Clearbuilder |
-| 968 | 34 | Dena Cudjo |
-| 969 | 34 | Angela VanOstrand |
-| 970 | 34 | Sleepypanda67 |
-| 971 | 34 | Marlo Perry |
-| 972 | 34 | Auntie YaYa |
-| 973 | 34 | mee |
-| 974 | 33 | Tito Garcia |
-| 975 | 33 | Dandy Column |
+| 968 | 34 | Twisty Snapmatch |
+| 969 | 34 | Dena Cudjo |
+| 970 | 34 | Angela VanOstrand |
+| 971 | 34 | Auntie YaYa |
+| 972 | 34 | Sleepypanda67 |
+| 973 | 34 | Marlo Perry |
+| 974 | 34 | mee |
+| 975 | 33 | Tito Garcia |
 | 976 | 33 | Nicole Hjelmen |
 | 977 | 33 | Kaitlyn Hurst |
 | 978 | 33 | Em |
