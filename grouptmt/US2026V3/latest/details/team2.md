@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:18:20 UTC
+# Standings for team2 as of 2026-06-07 20:18:41 UTC
 
 **Total Participants:** 1887
 
@@ -471,15 +471,15 @@
 | 463 | 149 | Jenni LeBlanc |
 | 464 | 149 | IncrediDragon |
 | 465 | 148 | Lively Curve |
-| 466 | 148 | NickandJess Reynolds |
-| 467 | 148 | rageking |
-| 468 | 147 | Charity Hauser |
-| 469 | 146 | Darla Nolt |
-| 470 | 146 | Dana Wilson |
-| 471 | 145 | Lee Leonard |
-| 472 | 145 | Thy Bui |
-| 473 | 145 | Justin Stark |
-| 474 | 145 | Holly Huval |
+| 466 | 148 | Holly Huval |
+| 467 | 148 | NickandJess Reynolds |
+| 468 | 148 | rageking |
+| 469 | 147 | Charity Hauser |
+| 470 | 146 | Darla Nolt |
+| 471 | 146 | Dana Wilson |
+| 472 | 145 | Lee Leonard |
+| 473 | 145 | Thy Bui |
+| 474 | 145 | Justin Stark |
 | 475 | 145 | Muffin Popper |
 | 476 | 145 | Alicia Parrish |
 | 477 | 145 | MamaRachel |

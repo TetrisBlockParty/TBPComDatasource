@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 20:18:20 UTC
+# Standings for team4 as of 2026-06-07 20:18:41 UTC
 
 **Total Participants:** 1596
 
@@ -189,12 +189,12 @@
 | 181 | 317 | Sisi RedVelvet Reneè |
 | 182 | 317 | Debby Ruof |
 | 183 | 317 | Lush Fitblock |
-| 184 | 315 | Thomasena Eady Reid |
-| 185 | 314 | Slimm |
-| 186 | 310 | Fran Aaron-Ring |
-| 187 | 308 | Plucky Shatterfit |
-| 188 | 308 | matt |
-| 189 | 305 | Aramat |
+| 184 | 315 | Aramat |
+| 185 | 315 | Thomasena Eady Reid |
+| 186 | 314 | Slimm |
+| 187 | 310 | Fran Aaron-Ring |
+| 188 | 308 | Plucky Shatterfit |
+| 189 | 308 | matt |
 | 190 | 303 | Brick House |
 | 191 | 302 | Danny Ortiz |
 | 192 | 300 | Genag |
@@ -354,19 +354,19 @@
 | 346 | 162 | Stephanie Brock |
 | 347 | 162 | Samara Garcia |
 | 348 | 161 | Dominique Melendez |
-| 349 | 160 | Mrs |
-| 350 | 160 | Frothy Pattern |
-| 351 | 160 | Bre Dee |
-| 352 | 160 | Cool Risepiece |
-| 353 | 159 | Dandy Cascade |
-| 354 | 159 | Henry Lanier |
-| 355 | 159 | Chirpy Snapclear |
-| 356 | 159 | JoAnn Summerlot Ratliff |
-| 357 | 158 | Juvon SupaShawdii Brooks |
-| 358 | 157 | Laguya |
-| 359 | 157 | Deborah Silberg |
-| 360 | 157 | Jazzy Gridder |
-| 361 | 156 | Sherry Mooney |
+| 349 | 160 | Cool Risepiece |
+| 350 | 160 | Mrs |
+| 351 | 160 | Frothy Pattern |
+| 352 | 160 | Sherry Mooney |
+| 353 | 160 | Bre Dee |
+| 354 | 159 | Dandy Cascade |
+| 355 | 159 | Henry Lanier |
+| 356 | 159 | Chirpy Snapclear |
+| 357 | 159 | JoAnn Summerlot Ratliff |
+| 358 | 158 | Juvon SupaShawdii Brooks |
+| 359 | 157 | Laguya |
+| 360 | 157 | Deborah Silberg |
+| 361 | 157 | Jazzy Gridder |
 | 362 | 155 | Shayna Vaigneur-Hall |
 | 363 | 155 | Drh4090 |
 | 364 | 155 | Cherrypir05 |
