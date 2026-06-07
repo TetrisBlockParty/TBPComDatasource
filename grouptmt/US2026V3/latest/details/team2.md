@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:30:19 UTC
+# Standings for team2 as of 2026-06-07 22:30:42 UTC
 
 **Total Participants:** 1930
 
@@ -225,8 +225,8 @@
 | 217 | 362 | Jennifer Smith |
 | 218 | 360 | Jacob Carpenter |
 | 219 | 358 | Breeana Bennett |
-| 220 | 349 | Theresa Hollinger |
-| 221 | 349 | Lindsey Ford |
+| 220 | 354 | Lindsey Ford |
+| 221 | 349 | Theresa Hollinger |
 | 222 | 347 | Traci Abern |
 | 223 | 346 | Katrien |
 | 224 | 344 | Nikki EightySixed |
