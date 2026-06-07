@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:54:20 UTC
+# Standings for team4 as of 2026-06-07 14:54:42 UTC
 
 **Total Participants:** 1496
 
@@ -114,10 +114,10 @@
 | 106 | 550 | Nicole Peoples |
 | 107 | 534 | vag1974 |
 | 108 | 530 | Jewelz |
-| 109 | 521 | Misty Leigh |
-| 110 | 520 | Irma |
-| 111 | 516 | Caitlyn Wang |
-| 112 | 515 | iiPurgeV2 |
+| 109 | 525 | iiPurgeV2 |
+| 110 | 521 | Misty Leigh |
+| 111 | 520 | Irma |
+| 112 | 516 | Caitlyn Wang |
 | 113 | 512 | Esther Hadassah |
 | 114 | 511 | Nikki Fuller Johnson |
 | 115 | 510 | Krysten Danielle Richard |
@@ -456,12 +456,12 @@
 | 448 | 109 | Ross Bryant |
 | 449 | 109 | Chirpy Snapclear |
 | 450 | 109 | Edward White |
-| 451 | 109 | PsyDMom |
-| 452 | 108 | Kaps |
-| 453 | 108 | SandyEva |
-| 454 | 107 | Kay |
-| 455 | 107 | Drh4090 |
-| 456 | 107 | Jace McCullough |
+| 451 | 109 | Jace McCullough |
+| 452 | 109 | PsyDMom |
+| 453 | 108 | Kaps |
+| 454 | 108 | SandyEva |
+| 455 | 107 | Kay |
+| 456 | 107 | Drh4090 |
 | 457 | 107 | Bonique Bier |
 | 458 | 106 | Corey Jackson |
 | 459 | 106 | Ami Ferguson |
