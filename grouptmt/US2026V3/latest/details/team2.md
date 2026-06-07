@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:42:18 UTC
+# Standings for team2 as of 2026-06-07 21:42:41 UTC
 
 **Total Participants:** 1913
 
@@ -196,26 +196,26 @@
 | 188 | 404 | Cristi Doris |
 | 189 | 403 | Flower_child |
 | 190 | 402 | Zesty Strikerbuilder |
-| 191 | 399 | MaddieCherie |
-| 192 | 395 | Sarah Mccolgan |
-| 193 | 392 | Bri St Peter |
-| 194 | 391 | Christina Maria |
-| 195 | 391 | Joni Michelle Morgan |
-| 196 | 390 | La chulis |
-| 197 | 389 | Sara Perkins |
-| 198 | 385 | Amy Gregg |
-| 199 | 384 | Lisa Underwood Desmond |
-| 200 | 383 | Jenna Stahl |
-| 201 | 382 | Nikki Hayes |
-| 202 | 381 | Joslyn Johnson |
-| 203 | 376 | Jamie Fenyus |
-| 204 | 376 | AndyJo |
-| 205 | 375 | Branden Frankowski |
-| 206 | 375 | Milad Arzani |
-| 207 | 373 | Hoppy Mover |
-| 208 | 373 | H |
-| 209 | 373 | Goofy Gridclear |
-| 210 | 371 | DukeDino |
+| 191 | 401 | DukeDino |
+| 192 | 399 | MaddieCherie |
+| 193 | 395 | Sarah Mccolgan |
+| 194 | 392 | Bri St Peter |
+| 195 | 391 | Christina Maria |
+| 196 | 391 | Joni Michelle Morgan |
+| 197 | 390 | La chulis |
+| 198 | 389 | Sara Perkins |
+| 199 | 385 | Amy Gregg |
+| 200 | 384 | Lisa Underwood Desmond |
+| 201 | 383 | Jenna Stahl |
+| 202 | 382 | Nikki Hayes |
+| 203 | 381 | Joslyn Johnson |
+| 204 | 376 | Jamie Fenyus |
+| 205 | 376 | AndyJo |
+| 206 | 375 | Branden Frankowski |
+| 207 | 375 | Milad Arzani |
+| 208 | 373 | Hoppy Mover |
+| 209 | 373 | H |
+| 210 | 373 | Goofy Gridclear |
 | 211 | 371 | Brittni Lawrence |
 | 212 | 370 | giamy |
 | 213 | 367 | Justin McCray |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:42:18 UTC
+# Standings for team1 as of 2026-06-07 21:42:41 UTC
 
 **Total Participants:** 1584
 
@@ -90,9 +90,9 @@
 | 82 | 800 | Chenell Gillard |
 | 83 | 796 | Jaida De'Anne Cox |
 | 84 | 784 | Todd C. Clemens |
-| 85 | 764 | Joy Citizen Pickney |
-| 86 | 763 | Richard Horton |
-| 87 | 762 | Moomoo |
+| 85 | 782 | Moomoo |
+| 86 | 764 | Joy Citizen Pickney |
+| 87 | 763 | Richard Horton |
 | 88 | 749 | Aviv Zehavi |
 | 89 | 743 | Tameka Jones |
 | 90 | 740 | Dawn L Washington-Feuquay |
@@ -159,11 +159,11 @@
 | 151 | 405 | SPNLover24 |
 | 152 | 404 | Hyper Slamdrop |
 | 153 | 401 | Shell Lewis |
-| 154 | 391 | Frisky Fallmatch |
-| 155 | 389 | GrkGdess |
-| 156 | 389 | Roberta Lynn |
-| 157 | 387 | Crystal Anderson |
-| 158 | 386 | Kaleisha Smith |
+| 154 | 397 | Kaleisha Smith |
+| 155 | 391 | Frisky Fallmatch |
+| 156 | 389 | GrkGdess |
+| 157 | 389 | Roberta Lynn |
+| 158 | 387 | Crystal Anderson |
 | 159 | 384 | Christana Imjustbutton Stone |
 | 160 | 383 | Sheila Burnham |
 | 161 | 380 | Felicia Cain |
