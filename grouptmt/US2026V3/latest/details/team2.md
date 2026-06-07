@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:36:18 UTC
+# Standings for team2 as of 2026-06-07 12:36:41 UTC
 
 **Total Participants:** 1723
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 23864 | Summer Harrison |
-| 2 | 13200 | Mochi |
+| 2 | 13500 | Mochi |
 | 3 | 11154 | Puce guide 9156 |
 | 4 | 9827 | Crystalin Heath Lewis |
 | 5 | 9576 | Jason Wood |
