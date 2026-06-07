@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:44:19 UTC
+# Standings for team1 as of 2026-06-07 15:44:41 UTC
 
 **Total Participants:** 1497
 
@@ -86,9 +86,9 @@
 | 78 | 766 | Jaida De'Anne Cox |
 | 79 | 764 | Joy Citizen Pickney |
 | 80 | 763 | Richard Horton |
-| 81 | 749 | Aviv Zehavi |
-| 82 | 710 | ing410 |
-| 83 | 701 | Ceilo Marie |
+| 81 | 750 | Ceilo Marie |
+| 82 | 749 | Aviv Zehavi |
+| 83 | 710 | ing410 |
 | 84 | 689 | Jaida King |
 | 85 | 688 | Dawn L Washington-Feuquay |
 | 86 | 679 | Chirpy Corner |
@@ -254,7 +254,7 @@
 | 246 | 234 | Dacia Hicks |
 | 247 | 231 | Rachel Zimmerman |
 | 248 | 229 | Ann White |
-| 249 | 227 | Steve Reno |
+| 249 | 228 | Steve Reno |
 | 250 | 226 | Slinky Brickmatch |
 | 251 | 220 | Christian Pham |
 | 252 | 217 | Koi |
