@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:26:17 UTC
+# Standings for team2 as of 2026-06-07 06:26:40 UTC
 
 **Total Participants:** 1657
 
@@ -290,45 +290,45 @@
 | 282 | 192 | Greta Warden |
 | 283 | 192 | Olivia Jefferson |
 | 284 | 191 | Jessica Christine |
-| 285 | 188 | Ray Daisy |
-| 286 | 187 | Curly Windbreaker |
-| 287 | 185 | Krystle L Coon |
-| 288 | 184 | SEH |
-| 289 | 184 | Theresa Hollinger |
-| 290 | 181 | Theresa Huddleston |
-| 291 | 181 | Jamie Adams |
-| 292 | 180 | Happy |
-| 293 | 180 | Skye Ehret |
-| 294 | 180 | Precious Womack |
-| 295 | 180 | phamous1 |
-| 296 | 180 | Loopy Dropper |
-| 297 | 179 | Santara Ferguson |
-| 298 | 178 | Kelly Rogers |
-| 299 | 177 | Xandrea Jones |
-| 300 | 177 | Jennifer McClure |
-| 301 | 176 | Kim Hunt |
-| 302 | 175 | Michelle M Braley |
-| 303 | 175 | Lashanda Bertram |
-| 304 | 174 | ZBee |
-| 305 | 174 | Rocroc mo |
-| 306 | 174 | Jerry L Morales |
-| 307 | 172 | Mikia Stokes |
-| 308 | 172 | Victoria Pale |
-| 309 | 172 | Carolyn McNaughton |
-| 310 | 171 | Tina Marie |
+| 285 | 189 | Loopy Curvebuilder |
+| 286 | 188 | Ray Daisy |
+| 287 | 187 | Curly Windbreaker |
+| 288 | 185 | Krystle L Coon |
+| 289 | 184 | SEH |
+| 290 | 184 | Theresa Hollinger |
+| 291 | 181 | Theresa Huddleston |
+| 292 | 181 | Jamie Adams |
+| 293 | 180 | Happy |
+| 294 | 180 | Skye Ehret |
+| 295 | 180 | Precious Womack |
+| 296 | 180 | phamous1 |
+| 297 | 180 | Loopy Dropper |
+| 298 | 179 | Santara Ferguson |
+| 299 | 178 | Kelly Rogers |
+| 300 | 177 | Xandrea Jones |
+| 301 | 177 | Jennifer McClure |
+| 302 | 176 | Kim Hunt |
+| 303 | 175 | Michelle M Braley |
+| 304 | 175 | Lashanda Bertram |
+| 305 | 174 | Jerry L Morales |
+| 306 | 174 | ZBee |
+| 307 | 174 | Rocroc mo |
+| 308 | 172 | Mikia Stokes |
+| 309 | 172 | Victoria Pale |
+| 310 | 172 | Carolyn McNaughton |
 | 311 | 171 | Lyric Price |
-| 312 | 170 | Loopy Curvebuilder |
+| 312 | 171 | Tina Marie |
 | 313 | 170 | Bengy Lead |
-| 314 | 170 | Thomas Tyrone |
-| 315 | 170 | Harper |
-| 316 | 169 | Angie Bishop |
-| 317 | 169 | Derrick |
-| 318 | 168 | StacyBabee |
-| 319 | 168 | Avie Lou |
-| 320 | 168 | Spicy Risegrid |
-| 321 | 168 | Chasity Simpson |
-| 322 | 168 | Danielle Lyons |
-| 323 | 168 | Missy Renia |
+| 314 | 170 | Harper |
+| 315 | 170 | Thomas Tyrone |
+| 316 | 169 | Derrick |
+| 317 | 169 | Angie Bishop |
+| 318 | 168 | Chasity Simpson |
+| 319 | 168 | Danielle Lyons |
+| 320 | 168 | Missy Renia |
+| 321 | 168 | StacyBabee |
+| 322 | 168 | Avie Lou |
+| 323 | 168 | Spicy Risegrid |
 | 324 | 166 | Kimmyc |
 | 325 | 165 | Lindsey Ford |
 | 326 | 164 | Cara Rivera |
@@ -403,31 +403,31 @@
 | 395 | 130 | Gwendolyn Boykin Mobbs |
 | 396 | 130 | Charity Hauser |
 | 397 | 130 | Jenn |
-| 398 | 129 | Melissa Fink |
+| 398 | 129 | Nikki Hatch |
 | 399 | 129 | Perii Reynoso |
 | 400 | 129 | Armando Sabedra |
 | 401 | 129 | Belle |
 | 402 | 129 | Sandy Justus |
 | 403 | 129 | Kristi K Milner |
-| 404 | 128 | rageking |
-| 405 | 127 | Tina |
+| 404 | 129 | Melissa Fink |
+| 405 | 128 | rageking |
 | 406 | 127 | Nicky Steigerwalt |
 | 407 | 127 | Tammy Roth |
 | 408 | 127 | Aurora June Brock |
 | 409 | 127 | Stephanie |
-| 410 | 126 | Nikki Hatch |
+| 410 | 127 | Tina |
 | 411 | 126 | Anthony Swift |
-| 412 | 125 | Jessica Connot |
+| 412 | 125 | Wayne Johnson |
 | 413 | 125 | Kathryn |
-| 414 | 125 | Wayne Johnson |
+| 414 | 125 | Jessica Connot |
 | 415 | 124 | Jason Burris |
 | 416 | 124 | Angeleye A James |
-| 417 | 123 | Simone F |
-| 418 | 123 | Sassy Twistbuilder |
+| 417 | 123 | Sassy Twistbuilder |
+| 418 | 123 | Simone F |
 | 419 | 123 | Jumpy Matchbuilder |
-| 420 | 122 | Maria Ward |
+| 420 | 122 | Kevin Patrick |
 | 421 | 122 | Katie Jones |
-| 422 | 122 | Kevin Patrick |
+| 422 | 122 | Maria Ward |
 | 423 | 121 | Lisa Allen Frisk |
 | 424 | 120 | Carlos J Blas |
 | 425 | 120 | Starvinmarvin |
