@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:54:21 UTC
+# Standings for team1 as of 2026-06-07 23:54:40 UTC
 
 **Total Participants:** 1624
 
@@ -73,9 +73,9 @@
 | 65 | 1024 | Chill Clusterer |
 | 66 | 1017 | Lisa Müller |
 | 67 | 996 | Kimberly Hernandez |
-| 68 | 981 | Court Court |
-| 69 | 980 | Bre Maugh |
-| 70 | 974 | Eric Mcgaughy |
+| 68 | 994 | Eric Mcgaughy |
+| 69 | 981 | Court Court |
+| 70 | 980 | Bre Maugh |
 | 71 | 939 | Uneekly Mayde |
 | 72 | 935 | Whitney Butler |
 | 73 | 923 | Tiana Moore |

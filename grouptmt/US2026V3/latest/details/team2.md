@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 23:54:21 UTC
+# Standings for team2 as of 2026-06-07 23:54:40 UTC
 
 **Total Participants:** 1961
 
@@ -414,8 +414,8 @@
 | 406 | 185 | Vicki Flippo |
 | 407 | 185 | Monee Stronger |
 | 408 | 185 | Sillyk |
-| 409 | 185 | Frothy Fallgrid |
-| 410 | 185 | Krystle L Coon |
+| 409 | 185 | Krystle L Coon |
+| 410 | 185 | Frothy Fallgrid |
 | 411 | 184 | Melissa Abbott |
 | 412 | 183 | andee |
 | 413 | 182 | Jacquelyn Snyder Dumas |
@@ -581,8 +581,8 @@
 | 573 | 130 | ChefDeb |
 | 574 | 130 | Marilyn Strickland |
 | 575 | 130 | Sunny Tiltbuilder |
-| 576 | 130 | Jenn |
-| 577 | 130 | Desia Walker |
+| 576 | 130 | Desia Walker |
+| 577 | 130 | Jenn |
 | 578 | 129 | Susan Bosell |
 | 579 | 129 | Heather Vircik |
 | 580 | 129 | Kristi K Milner |
@@ -671,10 +671,10 @@
 | 663 | 111 | Shiny Spinfit |
 | 664 | 110 | Patti Ward |
 | 665 | 110 | gene15 |
-| 666 | 110 | Carrie Hayes Lankford |
-| 667 | 110 | straighttiptoe |
-| 668 | 110 | Christina German |
-| 669 | 110 | Twisty Matcher |
+| 666 | 110 | Twisty Matcher |
+| 667 | 110 | Christina German |
+| 668 | 110 | straighttiptoe |
+| 669 | 110 | Carrie Hayes Lankford |
 | 670 | 109 | Jessica Rose Engebretson |
 | 671 | 109 | Po Yee |
 | 672 | 109 | Jillian Marie |
@@ -754,8 +754,8 @@
 | 746 | 97 | Abby |
 | 747 | 97 | Nichole Fuller |
 | 748 | 97 | ASL |
-| 749 | 96 | Smiley Staggerpiece |
-| 750 | 96 | Shawn Jensen |
+| 749 | 96 | Shawn Jensen |
+| 750 | 96 | Smiley Staggerpiece |
 | 751 | 96 | Rhonda Driskill |
 | 752 | 96 | Mouh Ity |
 | 753 | 96 | Shaylee Haltiner |
@@ -868,50 +868,50 @@
 | 860 | 81 | Missy Savage-Justice |
 | 861 | 81 | YldBoar |
 | 862 | 81 | Paula |
-| 863 | 81 | YUKITATA |
-| 864 | 80 | Patty Sparkman |
-| 865 | 80 | Chris Christ |
-| 866 | 80 | Jennifer Robinson |
-| 867 | 80 | Lori |
-| 868 | 80 | Sandy Molina |
-| 869 | 80 | Jenny Bishop |
-| 870 | 80 | Ramona Guillermo |
-| 871 | 80 | Nerdy Spinfit |
-| 872 | 80 | PrissyPris |
-| 873 | 80 | Charith Lorelle Watson |
-| 874 | 80 | Tami Leontyuk |
-| 875 | 80 | Christina Whitehead |
-| 876 | 80 | Cory Lynn |
-| 877 | 80 | Bonita Alexander |
-| 878 | 80 | Tonya Greger |
-| 879 | 80 | Michelle Anne |
-| 880 | 79 | Sandra Rotton Bragg |
-| 881 | 79 | KCBlocker |
-| 882 | 79 | Monica Gonzalez Rios |
-| 883 | 79 | Aeryal Snow |
-| 884 | 79 | Zappy Pivotfall |
-| 885 | 79 | Bruni |
-| 886 | 79 | Laura Anderson |
-| 887 | 79 | Lezley Hawkins |
-| 888 | 78 | y |
-| 889 | 78 | Aaron Jones |
-| 890 | 78 | Mona Smith |
-| 891 | 78 | Danyell Flood-Morning |
-| 892 | 78 | Shelby Wilson |
-| 893 | 78 | Lindsey Davidson |
-| 894 | 78 | Kendra Sizemore |
-| 895 | 77 | Fallon Moss |
-| 896 | 77 | LyndaLou |
-| 897 | 77 | Raymond Dawson |
-| 898 | 77 | Amber Simonton |
-| 899 | 77 | Jolly Builderpiece |
-| 900 | 77 | Renee Craig |
-| 901 | 76 | Tiffany Fitch |
-| 902 | 76 | Ashley Diana |
-| 903 | 76 | Katie Boen |
-| 904 | 76 | Kris Dusza Dodus |
-| 905 | 76 | Joe Dirilo |
-| 906 | 76 | DNice |
+| 863 | 81 | DNice |
+| 864 | 81 | YUKITATA |
+| 865 | 80 | Lori |
+| 866 | 80 | Patty Sparkman |
+| 867 | 80 | Ramona Guillermo |
+| 868 | 80 | Chris Christ |
+| 869 | 80 | Jennifer Robinson |
+| 870 | 80 | Sandy Molina |
+| 871 | 80 | Jenny Bishop |
+| 872 | 80 | Nerdy Spinfit |
+| 873 | 80 | PrissyPris |
+| 874 | 80 | Charith Lorelle Watson |
+| 875 | 80 | Tami Leontyuk |
+| 876 | 80 | Christina Whitehead |
+| 877 | 80 | Cory Lynn |
+| 878 | 80 | Bonita Alexander |
+| 879 | 80 | Tonya Greger |
+| 880 | 80 | Michelle Anne |
+| 881 | 79 | Sandra Rotton Bragg |
+| 882 | 79 | KCBlocker |
+| 883 | 79 | Monica Gonzalez Rios |
+| 884 | 79 | Aeryal Snow |
+| 885 | 79 | Zappy Pivotfall |
+| 886 | 79 | Bruni |
+| 887 | 79 | Laura Anderson |
+| 888 | 79 | Lezley Hawkins |
+| 889 | 78 | y |
+| 890 | 78 | Aaron Jones |
+| 891 | 78 | Mona Smith |
+| 892 | 78 | Danyell Flood-Morning |
+| 893 | 78 | Shelby Wilson |
+| 894 | 78 | Lindsey Davidson |
+| 895 | 78 | Kendra Sizemore |
+| 896 | 77 | Fallon Moss |
+| 897 | 77 | LyndaLou |
+| 898 | 77 | Raymond Dawson |
+| 899 | 77 | Amber Simonton |
+| 900 | 77 | Jolly Builderpiece |
+| 901 | 77 | Renee Craig |
+| 902 | 76 | Tiffany Fitch |
+| 903 | 76 | Ashley Diana |
+| 904 | 76 | Katie Boen |
+| 905 | 76 | Kris Dusza Dodus |
+| 906 | 76 | Joe Dirilo |
 | 907 | 76 | Nancy Schwartz Gusman-Oliver |
 | 908 | 76 | Steve Eakins |
 | 909 | 76 | BoxerMom |
@@ -978,11 +978,11 @@
 | 970 | 70 | Cassafrass |
 | 971 | 70 | Alisha Kralicek Trainham |
 | 972 | 70 | Stazy Warner |
-| 973 | 70 | TheAggie12 |
-| 974 | 70 | Elizabeth Henry |
+| 973 | 70 | Elizabeth Henry |
+| 974 | 70 | TheAggie12 |
 | 975 | 69 | Jessica Veness-Toth |
-| 976 | 69 | DragonJB2020 |
-| 977 | 69 | Ashley Fleming |
+| 976 | 69 | Ashley Fleming |
+| 977 | 69 | DragonJB2020 |
 | 978 | 69 | Loretta Crow |
 | 979 | 69 | REE4 |
 | 980 | 69 | Mona Wagner |
@@ -1945,11 +1945,11 @@
 | 1937 | 5 | Quirky Liney |
 | 1938 | 5 | sam |
 | 1939 | 5 | Twisty Tower |
-| 1940 | 5 | Hillary Pizzuti |
-| 1941 | 5 | Karen Moore |
-| 1942 | 5 | Cheery Filler |
-| 1943 | 5 | Loony Matcher |
-| 1944 | 5 | Splashy |
+| 1940 | 5 | Splashy |
+| 1941 | 5 | Hillary Pizzuti |
+| 1942 | 5 | Karen Moore |
+| 1943 | 5 | Cheery Filler |
+| 1944 | 5 | Loony Matcher |
 | 1945 | 5 | Julie Ann Jacobs |
 | 1946 | 5 | Jennifer Roper Stanley |
 | 1947 | 5 | Chilly Twistbuilder |
