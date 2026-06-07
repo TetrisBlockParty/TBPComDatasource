@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:54:18 UTC
+# Standings for team2 as of 2026-06-07 09:54:40 UTC
 
 **Total Participants:** 1694
 
@@ -543,90 +543,90 @@
 | 535 | 93 | Hillary Frank |
 | 536 | 92 | Jayda Walters |
 | 537 | 92 | Tim Moore |
-| 538 | 92 | Thy Bui |
-| 539 | 92 | Belinda Gullion Austin |
-| 540 | 91 | Heather Vircik |
-| 541 | 91 | Smiley Cornerfall |
-| 542 | 91 | Kimberly Davis |
-| 543 | 90 | Eva Lopez |
-| 544 | 90 | Naomi Jaynes |
+| 538 | 92 | Belinda Gullion Austin |
+| 539 | 92 | Thy Bui |
+| 540 | 91 | Kimberly Davis |
+| 541 | 91 | Barb Kiser |
+| 542 | 91 | Smiley Cornerfall |
+| 543 | 91 | Heather Vircik |
+| 544 | 90 | Ssirkus |
 | 545 | 90 | Rhonda Driskill |
-| 546 | 90 | Rescuegirl76 |
-| 547 | 90 | Lacie B |
-| 548 | 90 | Lesley Stoeckle |
-| 549 | 90 | Ssirkus |
-| 550 | 89 | Patrick Woodard |
-| 551 | 89 | Tami Weiss |
-| 552 | 88 | Holly Huval |
+| 546 | 90 | Lesley Stoeckle |
+| 547 | 90 | Naomi Jaynes |
+| 548 | 90 | Lacie B |
+| 549 | 90 | Rescuegirl76 |
+| 550 | 90 | Eva Lopez |
+| 551 | 89 | Patrick Woodard |
+| 552 | 89 | Tami Weiss |
 | 553 | 88 | Chesney |
-| 554 | 88 | Frilly Shiftsnap |
-| 555 | 88 | Amanda Bailey |
-| 556 | 87 | Sarah Jane Gorsuch |
+| 554 | 88 | Amanda Bailey |
+| 555 | 88 | Holly Huval |
+| 556 | 88 | Frilly Shiftsnap |
 | 557 | 87 | Lee Leonard |
 | 558 | 87 | Tetrismastrr |
-| 559 | 87 | Julibeth Wells |
-| 560 | 86 | Dad |
+| 559 | 87 | Sarah Jane Gorsuch |
+| 560 | 87 | Julibeth Wells |
 | 561 | 86 | Susie Conger |
 | 562 | 86 | Nicole Ashbaugh |
-| 563 | 86 | bozzycat |
-| 564 | 85 | Ginger Nesbitt |
-| 565 | 85 | Frisky Linkbuilder |
-| 566 | 85 | Seamus |
-| 567 | 85 | ChefDeb |
-| 568 | 85 | Daisy Girl |
-| 569 | 85 | Tonya Marino |
-| 570 | 84 | Stoney McMillion |
-| 571 | 84 | Coleen Yoder |
-| 572 | 84 | Shannon Posner |
-| 573 | 84 | Matt Wylie |
-| 574 | 83 | Louis Brudzinski |
-| 575 | 83 | Dawnypooh |
-| 576 | 83 | CATFISH |
-| 577 | 83 | Billy Pittman |
-| 578 | 83 | TetrisMama |
-| 579 | 83 | Mouh Med |
-| 580 | 83 | Becky Kennon |
-| 581 | 83 | Morgan Olson Pingree |
-| 582 | 83 | Amber Marie |
-| 583 | 82 | Kati Eckstein |
-| 584 | 82 | Kimberly Brooks |
-| 585 | 82 | Madonna Ash |
-| 586 | 82 | Kelly |
+| 563 | 86 | Dad |
+| 564 | 86 | bozzycat |
+| 565 | 85 | Ginger Nesbitt |
+| 566 | 85 | Tonya Marino |
+| 567 | 85 | Seamus |
+| 568 | 85 | ChefDeb |
+| 569 | 85 | Frisky Linkbuilder |
+| 570 | 85 | Daisy Girl |
+| 571 | 84 | Stoney McMillion |
+| 572 | 84 | Matt Wylie |
+| 573 | 84 | Coleen Yoder |
+| 574 | 84 | Shannon Posner |
+| 575 | 83 | Morgan Olson Pingree |
+| 576 | 83 | Louis Brudzinski |
+| 577 | 83 | Amber Marie |
+| 578 | 83 | CATFISH |
+| 579 | 83 | Becky Kennon |
+| 580 | 83 | TetrisMama |
+| 581 | 83 | Billy Pittman |
+| 582 | 83 | Dawnypooh |
+| 583 | 83 | Mouh Med |
+| 584 | 82 | Madonna Ash |
+| 585 | 82 | Kati Eckstein |
+| 586 | 82 | Kimberly Brooks |
 | 587 | 82 | Mikaela Byrd |
-| 588 | 81 | Gina Louise Parker |
-| 589 | 81 | Heather Hi |
-| 590 | 81 | YldBoar |
-| 591 | 81 | Chris Delauro |
-| 592 | 81 | Barb Kiser |
+| 588 | 82 | Kelly |
+| 589 | 81 | Gina Louise Parker |
+| 590 | 81 | Erin Lemanski |
+| 591 | 81 | Justin Stark |
+| 592 | 81 | Robin Stutler |
 | 593 | 81 | Evelyn Olive Kalmbach |
-| 594 | 81 | Shiny Spinfit |
+| 594 | 81 | YldBoar |
 | 595 | 81 | Quina Jesse Fejaran |
-| 596 | 81 | Erin Lemanski |
-| 597 | 81 | Justin Stark |
-| 598 | 81 | Zesty Zoney |
-| 599 | 81 | Robin Stutler |
-| 600 | 80 | Ashley Eneboe |
-| 601 | 80 | Julie Alexander Sykes |
-| 602 | 80 | Carl Mccoy |
-| 603 | 80 | Tami Leontyuk |
-| 604 | 80 | Cory Lynn |
-| 605 | 80 | Marilyn Strickland |
-| 606 | 80 | Cody Gates |
+| 596 | 81 | Zesty Zoney |
+| 597 | 81 | Heather Hi |
+| 598 | 81 | Chris Delauro |
+| 599 | 81 | Shiny Spinfit |
+| 600 | 80 | Brian Favre |
+| 601 | 80 | Cody Gates |
+| 602 | 80 | Julie Alexander Sykes |
+| 603 | 80 | Carl Mccoy |
+| 604 | 80 | Ashley Eneboe |
+| 605 | 80 | Cory Lynn |
+| 606 | 80 | Marilyn Strickland |
 | 607 | 80 | Ramona Guillermo |
 | 608 | 80 | Michelle Anne |
-| 609 | 80 | Brian Favre |
-| 610 | 80 | Sydney Cheyenne |
-| 611 | 80 | Renee Siems |
-| 612 | 80 | Nicole Hogue |
-| 613 | 80 | Denita Kaherl |
-| 614 | 80 | Dayna Messer-Thelen |
-| 615 | 80 | Jimmy Francis Shasta Bambi |
-| 616 | 80 | Jamin |
-| 617 | 80 | Plucky Grabber |
-| 618 | 79 | Jillian Marie |
-| 619 | 79 | Layla Petroff |
-| 620 | 79 | Michele Rogers |
-| 621 | 79 | Lezley Hawkins |
+| 609 | 80 | Plucky Grabber |
+| 610 | 80 | Tami Leontyuk |
+| 611 | 80 | Sydney Cheyenne |
+| 612 | 80 | Renee Siems |
+| 613 | 80 | Nicole Hogue |
+| 614 | 80 | Denita Kaherl |
+| 615 | 80 | Dayna Messer-Thelen |
+| 616 | 80 | Jimmy Francis Shasta Bambi |
+| 617 | 80 | Jamin |
+| 618 | 79 | Layla Petroff |
+| 619 | 79 | Michele Rogers |
+| 620 | 79 | Lezley Hawkins |
+| 621 | 79 | Jillian Marie |
 | 622 | 79 | Bruni |
 | 623 | 79 | Aeryal Snow |
 | 624 | 78 | Alycia Marie Zelensky |
