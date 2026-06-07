@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:42:41 UTC
+# Standings for team1 as of 2026-06-07 17:43:18 UTC
 
 **Total Participants:** 1524
 
@@ -30,7 +30,7 @@
 | 22 | 3039 | Chummy Combo |
 | 23 | 2863 | Sha Harris |
 | 24 | 2708 | Ebo Got-Time |
-| 25 | 2561 | Yolanda McDonald |
+| 25 | 2564 | Yolanda McDonald |
 | 26 | 2446 | Juan Kandiss Escobedo Irwin |
 | 27 | 2445 | Cool Bridger |
 | 28 | 2331 | Zappy Brickline |
@@ -113,12 +113,12 @@
 | 105 | 587 | KenpachisGirl |
 | 106 | 586 | Andi McGreevy |
 | 107 | 585 | Alana Renee |
-| 108 | 579 | PandaPrincess |
-| 109 | 575 | Tameka Jones |
-| 110 | 574 | W.A. Simpson |
-| 111 | 570 | Keeta Chickswit Scott |
-| 112 | 568 | MamaBear |
-| 113 | 564 | Quirky Fallgrid |
+| 108 | 580 | Quirky Fallgrid |
+| 109 | 579 | PandaPrincess |
+| 110 | 575 | Tameka Jones |
+| 111 | 574 | W.A. Simpson |
+| 112 | 570 | Keeta Chickswit Scott |
+| 113 | 568 | MamaBear |
 | 114 | 561 | Carolynne Walker-Bell |
 | 115 | 551 | Bambi Love |
 | 116 | 548 | Ottison Dianna |
@@ -551,77 +551,77 @@
 | 543 | 96 | Yazz |
 | 544 | 96 | Sherri Keys |
 | 545 | 96 | Shea Ladynick Henderson |
-| 546 | 95 | Adrian Harris |
-| 547 | 95 | Paul Pendley |
-| 548 | 95 | Angela Kitchens |
+| 546 | 95 | Jelyfish |
+| 547 | 95 | Adrian Harris |
+| 548 | 95 | TieMs BHughez |
 | 549 | 95 | Nona Harriel |
 | 550 | 95 | Shiny Lift |
-| 551 | 95 | Jelyfish |
-| 552 | 94 | Sha Anderson |
-| 553 | 94 | Derald Miller |
-| 554 | 94 | Marlainia Boyd |
-| 555 | 93 | Rene Hicks |
-| 556 | 93 | FunTime |
+| 551 | 95 | Angela Kitchens |
+| 552 | 95 | Paul Pendley |
+| 553 | 94 | Marlainia Boyd |
+| 554 | 94 | Derald Miller |
+| 555 | 94 | Sha Anderson |
+| 556 | 93 | Rene Hicks |
 | 557 | 93 | Cynthia Cruell |
-| 558 | 93 | Holly Baker |
-| 559 | 93 | C Lo Green |
-| 560 | 92 | Zappy Snapgrid |
+| 558 | 93 | FunTime |
+| 559 | 93 | Holly Baker |
+| 560 | 93 | C Lo Green |
 | 561 | 92 | Terrance Tindall |
-| 562 | 92 | Kimberly Anderson |
-| 563 | 92 | Cachet A Ward |
-| 564 | 92 | Poppy Twister |
-| 565 | 92 | Lauraly |
-| 566 | 91 | Zappy Clearfit |
-| 567 | 91 | David A Alvino |
-| 568 | 91 | Karen Denen |
-| 569 | 91 | Aaron Hartmann |
-| 570 | 91 | Soubletzy |
-| 571 | 90 | mya |
-| 572 | 90 | Shameka Tiffany |
-| 573 | 90 | Slinky Fallzone |
-| 574 | 90 | Essence Jones |
-| 575 | 90 | crumb bumc |
+| 562 | 92 | Zappy Snapgrid |
+| 563 | 92 | Kimberly Anderson |
+| 564 | 92 | Cachet A Ward |
+| 565 | 92 | Poppy Twister |
+| 566 | 92 | Lauraly |
+| 567 | 91 | Zappy Clearfit |
+| 568 | 91 | David A Alvino |
+| 569 | 91 | Karen Denen |
+| 570 | 91 | Aaron Hartmann |
+| 571 | 91 | Soubletzy |
+| 572 | 90 | mya |
+| 573 | 90 | Shameka Tiffany |
+| 574 | 90 | Slinky Fallzone |
+| 575 | 90 | Essence Jones |
 | 576 | 90 | Rissa Rozay |
-| 577 | 89 | Rochelle Nash-Evans |
-| 578 | 89 | Tracy Feyler |
+| 577 | 90 | crumb bumc |
+| 578 | 89 | Marc Papa |
 | 579 | 89 | Daring Riserfit |
-| 580 | 89 | Jazzy Bridger |
-| 581 | 89 | Marc Papa |
-| 582 | 88 | Sallie Sanborn |
-| 583 | 88 | Guard Up |
-| 584 | 88 | Brenda Malachi-butler |
-| 585 | 88 | TieMs BHughez |
+| 580 | 89 | Tracy Feyler |
+| 581 | 89 | Rochelle Nash-Evans |
+| 582 | 89 | Jazzy Bridger |
+| 583 | 88 | Sallie Sanborn |
+| 584 | 88 | Guard Up |
+| 585 | 88 | Brenda Malachi-butler |
 | 586 | 87 | Joseph Vs Cap |
 | 587 | 87 | Natalie Burroughs |
-| 588 | 86 | Giggly Tiltbuilder |
-| 589 | 86 | Marie Wilson |
-| 590 | 86 | Cm |
-| 591 | 86 | Danny Talbot |
-| 592 | 86 | Tweet Turner |
-| 593 | 86 | Kendra McIntyre |
+| 588 | 86 | Kendra McIntyre |
+| 589 | 86 | Tweet Turner |
+| 590 | 86 | Giggly Tiltbuilder |
+| 591 | 86 | Messy Live |
+| 592 | 86 | Danny Talbot |
+| 593 | 86 | Giddy Staggerpiece |
 | 594 | 86 | MrsDontPlay |
-| 595 | 86 | Messy Live |
-| 596 | 86 | krd |
-| 597 | 86 | Melissa Olvera |
-| 598 | 86 | Giddy Staggerpiece |
-| 599 | 85 | DaemahnFriday |
-| 600 | 85 | TotoCherue |
-| 601 | 85 | Victor |
-| 602 | 85 | Sarah Swietlicki - Lopez |
-| 603 | 85 | Eric Machuca |
-| 604 | 85 | DirtiestofMikes |
-| 605 | 85 | De'Mear McKinney |
-| 606 | 85 | Barbramerri Tarboro |
-| 607 | 85 | Bobby Chestefield |
+| 595 | 86 | Marie Wilson |
+| 596 | 86 | Cm |
+| 597 | 86 | krd |
+| 598 | 86 | Melissa Olvera |
+| 599 | 85 | Barbramerri Tarboro |
+| 600 | 85 | DaemahnFriday |
+| 601 | 85 | Bobby Chestefield |
+| 602 | 85 | TotoCherue |
+| 603 | 85 | De'Mear McKinney |
+| 604 | 85 | Sarah Swietlicki - Lopez |
+| 605 | 85 | Victor |
+| 606 | 85 | Eric Machuca |
+| 607 | 85 | DirtiestofMikes |
 | 608 | 85 | Amy Villalpando |
 | 609 | 85 | Sonia Binti Mfalme |
-| 610 | 84 | Saucy Faller |
-| 611 | 84 | Esha I'msoproudofmyself Davis |
-| 612 | 84 | Dawn Basemore |
-| 613 | 84 | Just2Play$ |
-| 614 | 84 | Angela Brown Babin |
-| 615 | 84 | Desi Guerra |
-| 616 | 84 | Franklin Sotelo |
+| 610 | 84 | Esha I'msoproudofmyself Davis |
+| 611 | 84 | Dawn Basemore |
+| 612 | 84 | Just2Play$ |
+| 613 | 84 | Angela Brown Babin |
+| 614 | 84 | Desi Guerra |
+| 615 | 84 | Franklin Sotelo |
+| 616 | 84 | Saucy Faller |
 | 617 | 83 | Kimmie Gargano |
 | 618 | 83 | MrsMeadows2019 |
 | 619 | 83 | Jackytrain52 |
