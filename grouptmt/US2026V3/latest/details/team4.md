@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:06:40 UTC
+# Standings for team4 as of 2026-06-07 08:07:19 UTC
 
 **Total Participants:** 1416
 
@@ -121,9 +121,9 @@
 | 113 | 432 | Sarah Berry Stevens |
 | 114 | 430 | Kaash Brxtt |
 | 115 | 429 | iiPurgeV2 |
-| 116 | 421 | Michelle Ross |
-| 117 | 418 | Aisha Estrada |
-| 118 | 416 | Ermadette |
+| 116 | 421 | Ermadette |
+| 117 | 421 | Michelle Ross |
+| 118 | 418 | Aisha Estrada |
 | 119 | 415 | Chuck Gannon |
 | 120 | 414 | Gigglycat |
 | 121 | 406 | Kelley Roach |
@@ -589,40 +589,40 @@
 | 581 | 70 | Joha Mldo Castillo |
 | 582 | 70 | Giggy Splitter |
 | 583 | 70 | LilithMoon |
-| 584 | 70 | Jeri Anne Stormo-Toman |
-| 585 | 70 | Kimberly Devon |
+| 584 | 70 | Kimberly Devon |
+| 585 | 70 | Jeri Anne Stormo-Toman |
 | 586 | 70 | Winter Moon |
 | 587 | 69 | Gigi5 |
 | 588 | 69 | Alicia Cook |
-| 589 | 69 | Beth Belanger |
-| 590 | 69 | Breezy Rollfit |
-| 591 | 69 | GETBOXED! |
-| 592 | 69 | Khylee DarDar |
-| 593 | 69 | Logan Two-dubs Baker |
-| 594 | 68 | Poptart |
-| 595 | 68 | Vonni McLean |
-| 596 | 68 | JustLessie |
+| 589 | 69 | JustLessie |
+| 590 | 69 | Beth Belanger |
+| 591 | 69 | Breezy Rollfit |
+| 592 | 69 | GETBOXED! |
+| 593 | 69 | Khylee DarDar |
+| 594 | 69 | Logan Two-dubs Baker |
+| 595 | 68 | Poptart |
+| 596 | 68 | Vonni McLean |
 | 597 | 68 | Keys Tome |
 | 598 | 68 | Paula Renee McCracken |
-| 599 | 67 | Playful Raccoon |
-| 600 | 67 | Peterson Cottontail |
-| 601 | 67 | Noa Lee |
-| 602 | 67 | Snappy Stack |
-| 603 | 67 | Mc3003 |
-| 604 | 67 | Wacky Snaplink |
+| 599 | 67 | Peterson Cottontail |
+| 600 | 67 | Noa Lee |
+| 601 | 67 | Snappy Stack |
+| 602 | 67 | Mc3003 |
+| 603 | 67 | Wacky Snaplink |
+| 604 | 67 | Playful Raccoon |
 | 605 | 67 | Ashley DuVall |
 | 606 | 67 | Glittara |
 | 607 | 66 | Joyce Hampton |
-| 608 | 66 | Mann Manson |
-| 609 | 66 | james |
-| 610 | 66 | chefjaydawg |
-| 611 | 66 | Dapper Tiltpiece |
-| 612 | 65 | Monte Smith |
-| 613 | 65 | Dinah Mccall |
-| 614 | 65 | Youngkueen |
+| 608 | 66 | james |
+| 609 | 66 | chefjaydawg |
+| 610 | 66 | Dapper Tiltpiece |
+| 611 | 66 | Mann Manson |
+| 612 | 65 | Rocky |
+| 613 | 65 | Monte Smith |
+| 614 | 65 | Dinah Mccall |
 | 615 | 65 | Yvette Johnson |
-| 616 | 65 | Rocky |
-| 617 | 65 | Cranky Twistpiece |
+| 616 | 65 | Cranky Twistpiece |
+| 617 | 65 | Youngkueen |
 | 618 | 65 | Breezy Wife |
 | 619 | 65 | Genger |
 | 620 | 65 | Deborah Ayliffe |

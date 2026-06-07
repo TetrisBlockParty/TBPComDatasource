@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:06:40 UTC
+# Standings for team2 as of 2026-06-07 08:07:19 UTC
 
 **Total Participants:** 1678
 
@@ -364,23 +364,23 @@
 | 356 | 151 | Amy Lea Hamilton |
 | 357 | 151 | Marilyn Mendoza |
 | 358 | 150 | Marylin Eacker |
-| 359 | 150 | Camilo Moreno |
-| 360 | 150 | Zany Wrecker |
-| 361 | 150 | Crystal Poss |
+| 359 | 150 | Crystal Poss |
+| 360 | 150 | Camilo Moreno |
+| 361 | 150 | Zany Wrecker |
 | 362 | 149 | Jenni LeBlanc |
-| 363 | 148 | Nano. |
-| 364 | 148 | Ashley Miller |
-| 365 | 146 | Darla Nolt |
-| 366 | 146 | Anthony Swift |
-| 367 | 145 | Alicia Parrish |
-| 368 | 144 | Funway998 |
-| 369 | 144 | Will Jones |
+| 363 | 148 | Ashley Miller |
+| 364 | 148 | Nano. |
+| 365 | 146 | Anthony Swift |
+| 366 | 146 | Darla Nolt |
+| 367 | 146 | Sassy Twistbuilder |
+| 368 | 145 | Alicia Parrish |
+| 369 | 144 | Funway998 |
 | 370 | 144 | Analee Nicole Jones |
-| 371 | 143 | Spicy Basepiece |
-| 372 | 143 | Amanda L Strong |
-| 373 | 143 | Paula Haskins |
-| 374 | 142 | Spunky Cascadeclear |
-| 375 | 142 | Sassy Twistbuilder |
+| 371 | 144 | Will Jones |
+| 372 | 143 | Spicy Basepiece |
+| 373 | 143 | Amanda L Strong |
+| 374 | 143 | Paula Haskins |
+| 375 | 142 | Spunky Cascadeclear |
 | 376 | 141 | Jacquelyn Snyder Dumas |
 | 377 | 141 | Loopy Tower |
 | 378 | 140 | Billie Jensen |
@@ -393,10 +393,10 @@
 | 385 | 138 | Amber Smith |
 | 386 | 138 | NickandJess Reynolds |
 | 387 | 138 | James Sayers |
-| 388 | 137 | Ashley Voelz |
-| 389 | 137 | Sandra Belk |
-| 390 | 136 | Mtnblzr |
-| 391 | 136 | Lauren Maxwell |
+| 388 | 137 | Sandra Belk |
+| 389 | 137 | Ashley Voelz |
+| 390 | 136 | Lauren Maxwell |
+| 391 | 136 | Mtnblzr |
 | 392 | 136 | Jumpy Dashpiece |
 | 393 | 135 | Naomi Walker |
 | 394 | 133 | Angela Hogan |
