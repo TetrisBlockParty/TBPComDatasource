@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 20:26:19 UTC
+# Standings for team2 as of 2026-06-07 20:26:40 UTC
 
 **Total Participants:** 1888
 
@@ -351,10 +351,10 @@
 | 343 | 206 | Jodi Johnson |
 | 344 | 206 | Tango Sierra |
 | 345 | 206 | Dad |
-| 346 | 204 | Rick |
-| 347 | 204 | Teddy Williams |
-| 348 | 203 | Jill Goff |
-| 349 | 203 | Alonzo Reed |
+| 346 | 205 | Alonzo Reed |
+| 347 | 204 | Rick |
+| 348 | 204 | Teddy Williams |
+| 349 | 203 | Jill Goff |
 | 350 | 203 | Harper |
 | 351 | 201 | Melissa Nash |
 | 352 | 201 | Amber Smith |
@@ -370,54 +370,54 @@
 | 362 | 195 | Bb |
 | 363 | 193 | Jason Cunningham |
 | 364 | 192 | Raine |
-| 365 | 191 | Jessica Christine |
-| 366 | 190 | Naomi Walker |
-| 367 | 190 | Aldotfus Williams |
-| 368 | 190 | Sherri E Woods Hess |
-| 369 | 190 | Marylin Eacker |
-| 370 | 190 | Lisa Allen Frisk |
-| 371 | 189 | Brian Favre |
-| 372 | 189 | Danielle Lyons |
-| 373 | 188 | Chummy Faller |
+| 365 | 191 | Melmel |
+| 366 | 191 | Jessica Christine |
+| 367 | 190 | Naomi Walker |
+| 368 | 190 | Aldotfus Williams |
+| 369 | 190 | Sherri E Woods Hess |
+| 370 | 190 | Marylin Eacker |
+| 371 | 190 | Lisa Allen Frisk |
+| 372 | 189 | Brian Favre |
+| 373 | 189 | Danielle Lyons |
 | 374 | 188 | Rachel Nilles |
-| 375 | 188 | Melmel |
+| 375 | 188 | Chummy Faller |
 | 376 | 186 | Mouh Med |
-| 377 | 185 | Monee Stronger |
-| 378 | 185 | Vicki Flippo |
-| 379 | 185 | Maria Ward |
+| 377 | 185 | Vicki Flippo |
+| 378 | 185 | Maria Ward |
+| 379 | 185 | Monee Stronger |
 | 380 | 185 | Krystle L Coon |
 | 381 | 183 | andee |
 | 382 | 181 | Victoria Pale |
 | 383 | 181 | Nano. |
 | 384 | 181 | Jamie Adams |
 | 385 | 180 | Happy |
-| 386 | 180 | Skye Ehret |
-| 387 | 180 | phamous1 |
-| 388 | 180 | Dawn Kroptavich |
-| 389 | 180 | Zany Wrecker |
+| 386 | 180 | phamous1 |
+| 387 | 180 | Skye Ehret |
+| 388 | 180 | Zany Wrecker |
+| 389 | 180 | Dawn Kroptavich |
 | 390 | 179 | Bengy Lead |
 | 391 | 178 | Duke Morley |
-| 392 | 177 | Reign Hustler |
-| 393 | 177 | Jennifer McClure |
-| 394 | 175 | Jacquelyn Snyder Dumas |
-| 395 | 175 | Ashley Voelz |
+| 392 | 177 | Jennifer McClure |
+| 393 | 177 | Reign Hustler |
+| 394 | 175 | Amanda Bottorff |
+| 395 | 175 | Lashanda Bertram |
 | 396 | 175 | Epic Tilemaker |
-| 397 | 175 | Lashanda Bertram |
-| 398 | 175 | Amanda Bottorff |
-| 399 | 175 | Tina Marie |
-| 400 | 174 | Rocroc mo |
-| 401 | 174 | Laurie |
-| 402 | 174 | Jerry L Morales |
-| 403 | 174 | ZBee |
+| 397 | 175 | Ashley Voelz |
+| 398 | 175 | Tina Marie |
+| 399 | 175 | Jacquelyn Snyder Dumas |
+| 400 | 174 | Laurie |
+| 401 | 174 | Rocroc mo |
+| 402 | 174 | ZBee |
+| 403 | 174 | Jerry L Morales |
 | 404 | 173 | Brandi Vandevanter-Duke |
 | 405 | 172 | Mikia Stokes |
 | 406 | 171 | KazzyKay |
-| 407 | 171 | Katie Jones |
+| 407 | 171 | Jessica Connot |
 | 408 | 171 | Michael Carmichael |
-| 409 | 171 | Jessica Connot |
-| 410 | 170 | Gluten Gremlin |
-| 411 | 170 | Amber Carpenter |
-| 412 | 170 | Camilo Moreno |
+| 409 | 171 | Katie Jones |
+| 410 | 170 | Camilo Moreno |
+| 411 | 170 | Gluten Gremlin |
+| 412 | 170 | Amber Carpenter |
 | 413 | 169 | Derrick |
 | 414 | 169 | Rydin Dirt |
 | 415 | 169 | Joannah Capilitan |
