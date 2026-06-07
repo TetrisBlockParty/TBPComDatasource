@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 14:58:18 UTC
+# Standings for team4 as of 2026-06-07 14:58:39 UTC
 
 **Total Participants:** 1497
 
@@ -20,8 +20,8 @@
 | 12 | 4772 | Anna Moses |
 | 13 | 4633 | Bubbly Twistpiece |
 | 14 | 4323 | Nia Mayfield |
-| 15 | 4265 | Chris Hills |
-| 16 | 4258 | t |
+| 15 | 4295 | t |
+| 16 | 4265 | Chris Hills |
 | 17 | 4256 | Squirrel Donkey |
 | 18 | 4139 | Bryony Nicholson |
 | 19 | 3917 | TitiLo72 |
@@ -111,10 +111,10 @@
 | 103 | 586 | Jason Garnatz |
 | 104 | 580 | Dandy Clearfit |
 | 105 | 560 | Becky Doll-Hall |
-| 106 | 550 | Nicole Peoples |
-| 107 | 534 | vag1974 |
-| 108 | 530 | Jewelz |
-| 109 | 525 | iiPurgeV2 |
+| 106 | 555 | iiPurgeV2 |
+| 107 | 550 | Nicole Peoples |
+| 108 | 534 | vag1974 |
+| 109 | 530 | Jewelz |
 | 110 | 521 | Misty Leigh |
 | 111 | 520 | Irma |
 | 112 | 516 | Caitlyn Wang |
@@ -228,8 +228,8 @@
 | 220 | 226 | Sassy Rollpiece |
 | 221 | 225 | Dubiousdust |
 | 222 | 225 | No Time |
-| 223 | 225 | Chirpy Link |
-| 224 | 225 | Kristen Wallace |
+| 223 | 225 | Kristen Wallace |
+| 224 | 225 | Chirpy Link |
 | 225 | 223 | Queen B |
 | 226 | 221 | Jackie Miller |
 | 227 | 220 | CIRAZYPNOY |
@@ -270,8 +270,8 @@
 | 262 | 186 | Snippy Splitter |
 | 263 | 185 | Dae Von |
 | 264 | 185 | Britney Kitora |
-| 265 | 183 | Solace Grace |
-| 266 | 183 | Brandy Lynn |
+| 265 | 183 | Brandy Lynn |
+| 266 | 183 | Solace Grace |
 | 267 | 183 | Tara Delay Hill |
 | 268 | 183 | Logan Two-dubs Baker |
 | 269 | 183 | Ash Gribble |
@@ -304,27 +304,27 @@
 | 296 | 167 | Anthony Lewis |
 | 297 | 167 | Brainbabe |
 | 298 | 167 | Littlebrat |
-| 299 | 166 | Susan Stofberg Beltran |
-| 300 | 166 | Cindy |
-| 301 | 165 | Ryan Paul Clark-Ramsey |
-| 302 | 165 | Blockcrusher |
-| 303 | 165 | Erika Seaton |
-| 304 | 162 | Chonda OhanaMomma Michelle |
-| 305 | 162 | Dapper Strikerpiece |
-| 306 | 161 | Bouncy |
-| 307 | 161 | Snazzy Corner |
-| 308 | 160 | Frothy Pattern |
-| 309 | 160 | Mrs |
+| 299 | 166 | Cheeky Fallzone |
+| 300 | 166 | Susan Stofberg Beltran |
+| 301 | 166 | Cindy |
+| 302 | 165 | Ryan Paul Clark-Ramsey |
+| 303 | 165 | Blockcrusher |
+| 304 | 165 | Erika Seaton |
+| 305 | 162 | Chonda OhanaMomma Michelle |
+| 306 | 162 | Dapper Strikerpiece |
+| 307 | 161 | Bouncy |
+| 308 | 161 | Snazzy Corner |
+| 309 | 160 | Frothy Pattern |
 | 310 | 160 | Shiny Brick |
-| 311 | 159 | JoAnn Summerlot Ratliff |
-| 312 | 158 | Dena Lynn Rogers |
-| 313 | 158 | Corie A. Brinson |
-| 314 | 157 | Laguya |
-| 315 | 157 | Deborah Silberg |
-| 316 | 156 | Sherry Mooney |
-| 317 | 156 | Cheeky Fallzone |
-| 318 | 155 | Shayna Vaigneur-Hall |
-| 319 | 155 | Cherrypir05 |
+| 311 | 160 | Mrs |
+| 312 | 159 | JoAnn Summerlot Ratliff |
+| 313 | 158 | Dena Lynn Rogers |
+| 314 | 158 | Corie A. Brinson |
+| 315 | 157 | Laguya |
+| 316 | 157 | Deborah Silberg |
+| 317 | 156 | Sherry Mooney |
+| 318 | 155 | Cherrypir05 |
+| 319 | 155 | Shayna Vaigneur-Hall |
 | 320 | 154 | Lani |
 | 321 | 153 | Shawntae Mccary |
 | 322 | 152 | Funky Tiler |
@@ -348,8 +348,8 @@
 | 340 | 147 | Allysha McFarland |
 | 341 | 146 | Zesty Twistpiece |
 | 342 | 146 | Maegon Brazille |
-| 343 | 146 | Jasmine Marie |
-| 344 | 146 | SupaFly |
+| 343 | 146 | SupaFly |
+| 344 | 146 | Jasmine Marie |
 | 345 | 144 | Dizzy Slammer |
 | 346 | 143 | Brennan Shea Greene |
 | 347 | 143 | Jennifer Garcia |
@@ -362,8 +362,8 @@
 | 354 | 140 | Wanda Simmons |
 | 355 | 139 | Name |
 | 356 | 138 | Rose Anna Safi |
-| 357 | 137 | Happy Shatterfit |
-| 358 | 137 | Maricela Joslin |
+| 357 | 137 | Maricela Joslin |
+| 358 | 137 | Happy Shatterfit |
 | 359 | 137 | Robert Moore |
 | 360 | 137 | Jrr |
 | 361 | 136 | Lively Cascadebuilder |
@@ -1001,8 +1001,8 @@
 | 993 | 39 | Theo Stamps |
 | 994 | 39 | Allrise99 |
 | 995 | 39 | Megan Lynn |
-| 996 | 39 | Cas Gio |
-| 997 | 38 | Khiem Hernandez |
+| 996 | 39 | Khiem Hernandez |
+| 997 | 39 | Cas Gio |
 | 998 | 38 | FuzzyBunny |
 | 999 | 38 | Monique Anne Edwards |
 | 1000 | 38 | ImagineKaijus |

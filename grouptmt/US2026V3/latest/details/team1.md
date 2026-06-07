@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:58:18 UTC
+# Standings for team1 as of 2026-06-07 14:58:39 UTC
 
 **Total Participants:** 1483
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 25500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 9646 | Carrie English |
+| 3 | 9696 | Carrie English |
 | 4 | 9170 | Charnay Peacock |
 | 5 | 8746 | Tyeina Johnson |
 | 6 | 8152 | Songne Arif |
@@ -152,9 +152,9 @@
 | 144 | 367 | Ebony Waynes-robinson |
 | 145 | 367 | Leebo Slice |
 | 146 | 363 | Christina Rebecca |
-| 147 | 361 | John Staub |
-| 148 | 360 | Felicia Cain |
-| 149 | 358 | Ceilo Marie |
+| 147 | 361 | Ceilo Marie |
+| 148 | 361 | John Staub |
+| 149 | 360 | Felicia Cain |
 | 150 | 353 | Lashaunda |
 | 151 | 351 | Uneekly Mayde |
 | 152 | 348 | pooh |
@@ -536,33 +536,33 @@
 | 528 | 92 | Pretty Yella |
 | 529 | 92 | Kimberly Anderson |
 | 530 | 92 | Terrance Tindall |
-| 531 | 92 | Poppy Twister |
-| 532 | 92 | Lauraly |
-| 533 | 91 | Zappy Clearfit |
-| 534 | 91 | David A Alvino |
-| 535 | 91 | Aaron Hartmann |
-| 536 | 91 | Jenni Hardman |
-| 537 | 90 | Jjhandsome |
-| 538 | 90 | CJ Robinson |
-| 539 | 90 | Shameka Tiffany |
-| 540 | 90 | crumb bumc |
-| 541 | 90 | mya |
-| 542 | 89 | Daring Riserfit |
-| 543 | 89 | Tracy Feyler |
-| 544 | 89 | Cynthia Cruell |
-| 545 | 89 | Jazzy Bridger |
-| 546 | 88 | Brenda Malachi-butler |
-| 547 | 88 | Soubletzy |
-| 548 | 88 | Sallie Sanborn |
-| 549 | 88 | Guard Up |
-| 550 | 87 | Chummy Frame |
-| 551 | 87 | Cachet A Ward |
-| 552 | 87 | Joseph Vs Cap |
-| 553 | 87 | Natalie Burroughs |
-| 554 | 86 | Marie Wilson |
-| 555 | 86 | Melissa Olvera |
+| 531 | 92 | Stephen Garland |
+| 532 | 92 | Poppy Twister |
+| 533 | 92 | Lauraly |
+| 534 | 91 | Zappy Clearfit |
+| 535 | 91 | David A Alvino |
+| 536 | 91 | Aaron Hartmann |
+| 537 | 91 | Jenni Hardman |
+| 538 | 90 | Jjhandsome |
+| 539 | 90 | CJ Robinson |
+| 540 | 90 | Shameka Tiffany |
+| 541 | 90 | crumb bumc |
+| 542 | 90 | mya |
+| 543 | 89 | Daring Riserfit |
+| 544 | 89 | Tracy Feyler |
+| 545 | 89 | Cynthia Cruell |
+| 546 | 89 | Jazzy Bridger |
+| 547 | 88 | Brenda Malachi-butler |
+| 548 | 88 | Soubletzy |
+| 549 | 88 | Sallie Sanborn |
+| 550 | 88 | Guard Up |
+| 551 | 87 | Chummy Frame |
+| 552 | 87 | Cachet A Ward |
+| 553 | 87 | Joseph Vs Cap |
+| 554 | 87 | Natalie Burroughs |
+| 555 | 86 | Marie Wilson |
 | 556 | 86 | krd |
-| 557 | 86 | Stephen Garland |
+| 557 | 86 | Melissa Olvera |
 | 558 | 86 | Messy Live |
 | 559 | 86 | Giggly Tiltbuilder |
 | 560 | 86 | Tweet Turner |
@@ -786,32 +786,32 @@
 | 778 | 56 | Chanel White |
 | 779 | 56 | Maria Baez Medina |
 | 780 | 56 | jeremy92 |
-| 781 | 56 | Sally Elizabeth Hopson |
-| 782 | 56 | Kyle Conley |
-| 783 | 55 | Crtjstr |
-| 784 | 55 | Kyle Franklin |
-| 785 | 55 | Vernon Hoyt |
-| 786 | 55 | Jane Lame |
-| 787 | 55 | nameno |
-| 788 | 55 | Witty Clear |
+| 781 | 56 | Kyle Conley |
+| 782 | 56 | Sally Elizabeth Hopson |
+| 783 | 55 | Erica Campbell-Stillings |
+| 784 | 55 | Crtjstr |
+| 785 | 55 | Kyle Franklin |
+| 786 | 55 | nameno |
+| 787 | 55 | Witty Clear |
+| 788 | 55 | KoolKimJay |
 | 789 | 55 | Shakmar |
-| 790 | 55 | KoolKimJay |
-| 791 | 55 | PSD |
-| 792 | 54 | Felicia Yahuah Johnson |
-| 793 | 54 | Markeita Jones |
-| 794 | 54 | Ace Hardware |
-| 795 | 54 | Embracing Hair |
+| 790 | 55 | PSD |
+| 791 | 55 | Jane Lame |
+| 792 | 55 | Vernon Hoyt |
+| 793 | 54 | deeno |
+| 794 | 54 | Felicia Yahuah Johnson |
+| 795 | 54 | John Spath |
 | 796 | 54 | Dennis Ripley |
-| 797 | 54 | deeno |
-| 798 | 54 | John Spath |
+| 797 | 54 | Embracing Hair |
+| 798 | 54 | Ace Hardware |
 | 799 | 54 | Kashh |
-| 800 | 54 | Katness |
-| 801 | 53 | Haakuu |
+| 800 | 54 | Markeita Jones |
+| 801 | 54 | Katness |
 | 802 | 53 | brite |
 | 803 | 53 | Linda Lasha Messenger |
 | 804 | 53 | Heather Wilson |
-| 805 | 53 | Shona ShayShay Jones |
-| 806 | 53 | Erica Campbell-Stillings |
+| 805 | 53 | Haakuu |
+| 806 | 53 | Shona ShayShay Jones |
 | 807 | 53 | Clever Wrecker |
 | 808 | 53 | Xrandomx |
 | 809 | 53 | Morenita Rodriguez |
