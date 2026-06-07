@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:48:19 UTC
+# Standings for team2 as of 2026-06-07 21:48:42 UTC
 
 **Total Participants:** 1914
 
@@ -87,8 +87,8 @@
 | 79 | 1122 | Lisa Breiding |
 | 80 | 1119 | Beverly Lynn Mills |
 | 81 | 1115 | Eileen Egan |
-| 82 | 1105 | Amber-leigh Williams |
-| 83 | 1092 | Jayke Edward |
+| 82 | 1111 | Jayke Edward |
+| 83 | 1105 | Amber-leigh Williams |
 | 84 | 1072 | Kvothe |
 | 85 | 1070 | Michelle Maulsby |
 | 86 | 1047 | Charlie Wilson |
@@ -105,8 +105,8 @@
 | 97 | 899 | Marie Luciano |
 | 98 | 880 | Renee Freeman Jacobson |
 | 99 | 869 | Marquetta Johnson |
-| 100 | 864 | haune |
-| 101 | 864 | Helen Thomas |
+| 100 | 864 | Helen Thomas |
+| 101 | 864 | haune |
 | 102 | 839 | Brandi Thompson |
 | 103 | 832 | Amber Triguero |
 | 104 | 825 | Smiley Dropper |
@@ -334,11 +334,11 @@
 | 326 | 223 | Santara Ferguson |
 | 327 | 222 | Kimmyc |
 | 328 | 221 | Bianca Woodruff |
-| 329 | 220 | ShiverMeSplinter |
-| 330 | 220 | Sherri E Woods Hess |
-| 331 | 220 | Flashy Basegrid |
-| 332 | 220 | Carlos J Blas |
-| 333 | 219 | Aldotfus Williams |
+| 329 | 221 | Aldotfus Williams |
+| 330 | 220 | ShiverMeSplinter |
+| 331 | 220 | Sherri E Woods Hess |
+| 332 | 220 | Flashy Basegrid |
+| 333 | 220 | Carlos J Blas |
 | 334 | 219 | Stella |
 | 335 | 218 | Anthony Swift |
 | 336 | 218 | Julie Alexander Sykes |
@@ -598,73 +598,73 @@
 | 590 | 118 | Frilly Shiftsnap |
 | 591 | 118 | Goldie |
 | 592 | 118 | Cassandra Green |
-| 593 | 118 | Busted9mm |
-| 594 | 118 | Kimberly Brooks |
+| 593 | 118 | Kimberly Brooks |
+| 594 | 118 | Busted9mm |
 | 595 | 118 | Momof2wigglebutts |
 | 596 | 118 | Tracey Cox |
 | 597 | 118 | Kawana Nesbitt |
-| 598 | 117 | Terie Safrit |
-| 599 | 117 | Brenda Shannon |
+| 598 | 117 | Brenda Shannon |
+| 599 | 117 | Terie Safrit |
 | 600 | 117 | TNGal |
 | 601 | 117 | Poppy Strikerbuilder |
 | 602 | 117 | CAL1KAWS559 |
 | 603 | 116 | Nerdy Gridlock |
-| 604 | 116 | Riggins Terry |
-| 605 | 116 | Joshua Dye |
-| 606 | 116 | Spunky Linkblock |
-| 607 | 116 | Sara Dunn |
-| 608 | 115 | Leticia Tillman |
-| 609 | 115 | Patty Ann Hendrickson |
-| 610 | 115 | Roe Sarmiento |
-| 611 | 115 | Edward Conyers |
-| 612 | 114 | Ginger Nesbitt |
+| 604 | 116 | Janelle Edgecombe |
+| 605 | 116 | Sara Dunn |
+| 606 | 116 | Joshua Dye |
+| 607 | 116 | Riggins Terry |
+| 608 | 116 | Spunky Linkblock |
+| 609 | 115 | Roe Sarmiento |
+| 610 | 115 | Edward Conyers |
+| 611 | 115 | Leticia Tillman |
+| 612 | 115 | Patty Ann Hendrickson |
 | 613 | 114 | Melissa Abbott |
-| 614 | 114 | Julibeth Wells |
-| 615 | 113 | Gina Leal |
+| 614 | 114 | Ginger Nesbitt |
+| 615 | 114 | Julibeth Wells |
 | 616 | 113 | Chipper Towerzone |
-| 617 | 112 | Nicole Ashbaugh |
-| 618 | 112 | Newtwidebody |
-| 619 | 112 | Spencer Ryder |
+| 617 | 113 | Gina Leal |
+| 618 | 112 | Nicole Ashbaugh |
+| 619 | 112 | Newtwidebody |
 | 620 | 112 | Rebekah Holland |
-| 621 | 111 | Shiny Spinfit |
-| 622 | 111 | Erin Lemanski |
-| 623 | 110 | Dandy Tiltgrid |
-| 624 | 110 | Patti Ward |
-| 625 | 110 | Christina German |
-| 626 | 109 | Po Yee |
-| 627 | 109 | Shannon Posner |
-| 628 | 109 | Nicole Suber |
-| 629 | 109 | Jillian Marie |
-| 630 | 109 | WhitS |
-| 631 | 108 | Maurii93 |
-| 632 | 108 | Brooklyn Todd |
-| 633 | 108 | Gino Positano |
-| 634 | 108 | Kelly |
-| 635 | 108 | Queen |
-| 636 | 107 | Carole Brown |
+| 621 | 112 | Spencer Ryder |
+| 622 | 111 | Shiny Spinfit |
+| 623 | 111 | Erin Lemanski |
+| 624 | 110 | Dandy Tiltgrid |
+| 625 | 110 | Patti Ward |
+| 626 | 110 | Christina German |
+| 627 | 109 | Jillian Marie |
+| 628 | 109 | WhitS |
+| 629 | 109 | Nicole Suber |
+| 630 | 109 | Po Yee |
+| 631 | 109 | Shannon Posner |
+| 632 | 108 | Queen |
+| 633 | 108 | Kelly |
+| 634 | 108 | Gino Positano |
+| 635 | 108 | Brooklyn Todd |
+| 636 | 108 | Maurii93 |
 | 637 | 107 | Chelsea Frye |
-| 638 | 107 | Stephanie Smith Robinson |
-| 639 | 107 | Sam Brewster |
+| 638 | 107 | Sam Brewster |
+| 639 | 107 | Carole Brown |
 | 640 | 107 | Chesney |
-| 641 | 107 | Kalli Bonin |
-| 642 | 106 | Janelle Edgecombe |
+| 641 | 107 | Stephanie Smith Robinson |
+| 642 | 107 | Kalli Bonin |
 | 643 | 106 | Francesca Wagenhoffer |
 | 644 | 106 | Mary Whitaker |
-| 645 | 106 | Pamela Gambrell |
-| 646 | 106 | Cassandra Milner |
-| 647 | 106 | Andrea Rawson |
-| 648 | 105 | Courtney Madison Hart |
+| 645 | 106 | Andrea Rawson |
+| 646 | 106 | Pamela Gambrell |
+| 647 | 106 | Cassandra Milner |
+| 648 | 105 | Squared |
 | 649 | 105 | Goofy Shatterbuilder |
-| 650 | 105 | Leigh Wilkerson |
-| 651 | 105 | Trisha Schneider |
+| 650 | 105 | Cranky Basepiece |
+| 651 | 105 | Leigh Wilkerson |
 | 652 | 105 | Michael Saunders |
-| 653 | 105 | Cranky Basepiece |
-| 654 | 105 | Squared |
+| 653 | 105 | Courtney Madison Hart |
+| 654 | 105 | Trisha Schneider |
 | 655 | 105 | Gabrielle Rivera |
-| 656 | 104 | Holly Barefoot |
-| 657 | 104 | Patrick Ohanlon |
-| 658 | 104 | Morgan Olson Pingree |
-| 659 | 104 | Vicke Patterson |
+| 656 | 104 | Patrick Ohanlon |
+| 657 | 104 | Holly Barefoot |
+| 658 | 104 | Vicke Patterson |
+| 659 | 104 | Morgan Olson Pingree |
 | 660 | 103 | Darla Ragsdale |
 | 661 | 103 | Josh Vietz |
 | 662 | 103 | Giddy Chiseler |

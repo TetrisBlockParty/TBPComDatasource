@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:48:19 UTC
+# Standings for team1 as of 2026-06-07 21:48:42 UTC
 
 **Total Participants:** 1587
 
@@ -555,42 +555,42 @@
 | 547 | 103 | Juan Alvarez |
 | 548 | 102 | Stephen Garland |
 | 549 | 102 | Mom3granny2 |
-| 550 | 101 | Tito Divyn |
+| 550 | 102 | Jessie N Michael Silvers |
 | 551 | 101 | Wacky Wipepiece |
 | 552 | 101 | star |
-| 553 | 101 | Nerdy Climber |
-| 554 | 101 | Elaine Pauley |
-| 555 | 101 | Raymond Boosie Freeman |
-| 556 | 101 | Mommy Frank |
-| 557 | 101 | Angela Kitchens |
-| 558 | 100 | Tracey Johnson |
+| 553 | 101 | Tito Divyn |
+| 554 | 101 | Nerdy Climber |
+| 555 | 101 | Elaine Pauley |
+| 556 | 101 | Raymond Boosie Freeman |
+| 557 | 101 | Mommy Frank |
+| 558 | 101 | Angela Kitchens |
 | 559 | 100 | Oldheads |
 | 560 | 100 | Bubbly Slammer |
 | 561 | 100 | Tessa Gaskin |
 | 562 | 100 | Cornelius Neal |
 | 563 | 100 | Peppy Towerbuilder |
-| 564 | 100 | Kennedi Brazziel |
-| 565 | 100 | Dianne Clagon |
+| 564 | 100 | Tracey Johnson |
+| 565 | 100 | Kennedi Brazziel |
 | 566 | 100 | Stephen Glaze |
-| 567 | 100 | Octavia Bsb Johnson |
-| 568 | 100 | Lester Malone |
-| 569 | 100 | Jessie N Michael Silvers |
-| 570 | 100 | Erica Charlise |
+| 567 | 100 | Dianne Clagon |
+| 568 | 100 | Erica Charlise |
+| 569 | 100 | Lester Malone |
+| 570 | 100 | Octavia Bsb Johnson |
 | 571 | 99 | Chino Baby |
-| 572 | 99 | Danny Talbot |
-| 573 | 99 | Boymama917 |
-| 574 | 99 | Twisty Cascadeclear |
-| 575 | 99 | Rochelle Nash-Evans |
-| 576 | 98 | Christopher Shaw-Black |
-| 577 | 98 | Azeiare Ziare |
-| 578 | 98 | Jelyfish |
-| 579 | 98 | Sharee Robinson |
-| 580 | 98 | Michael Smith |
-| 581 | 98 | Shannon Carriger |
-| 582 | 98 | Jjhandsome |
-| 583 | 97 | Nichole Horsley-Conn |
-| 584 | 97 | Lootch |
-| 585 | 97 | Kristie |
+| 572 | 99 | Twisty Cascadeclear |
+| 573 | 99 | Rochelle Nash-Evans |
+| 574 | 99 | Boymama917 |
+| 575 | 99 | Danny Talbot |
+| 576 | 98 | Michael Smith |
+| 577 | 98 | Shannon Carriger |
+| 578 | 98 | Sharee Robinson |
+| 579 | 98 | Jelyfish |
+| 580 | 98 | Jjhandsome |
+| 581 | 98 | Azeiare Ziare |
+| 582 | 98 | Christopher Shaw-Black |
+| 583 | 97 | Kristie |
+| 584 | 97 | Nichole Horsley-Conn |
+| 585 | 97 | Lootch |
 | 586 | 97 | Shanell Thomas |
 | 587 | 97 | Kayel Good |
 | 588 | 97 | Dizzy Gridmatch |
