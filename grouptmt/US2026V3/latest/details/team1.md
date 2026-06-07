@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:57:18 UTC
+# Standings for team1 as of 2026-06-07 18:58:18 UTC
 
 **Total Participants:** 1543
 
@@ -14,7 +14,7 @@
 | 6 | 8158 | Charlie Roehm |
 | 7 | 8152 | Songne Arif |
 | 8 | 7362 | Dyane Leah Ware |
-| 9 | 7312 | Debbie Carswell |
+| 9 | 7332 | Debbie Carswell |
 | 10 | 7059 | Tracy Cohen |
 | 11 | 6802 | Cozy Edge |
 | 12 | 6754 | Death by SnuSnu |
@@ -124,9 +124,9 @@
 | 116 | 548 | Ottison Dianna |
 | 117 | 547 | Dynah Gordon |
 | 118 | 534 | Gael Quintana |
-| 119 | 532 | Chris Caniglia |
-| 120 | 527 | MommaCia |
-| 121 | 522 | Robbie Cheeseman |
+| 119 | 533 | Robbie Cheeseman |
+| 120 | 532 | Chris Caniglia |
+| 121 | 527 | MommaCia |
 | 122 | 513 | Rackemwillie34 |
 | 123 | 511 | Dizzy Dropper |
 | 124 | 511 | Abraham Espaillat |
