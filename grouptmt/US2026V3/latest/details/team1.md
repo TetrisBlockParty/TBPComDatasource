@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:56:18 UTC
+# Standings for team1 as of 2026-06-07 08:56:40 UTC
 
 **Total Participants:** 1428
 
@@ -140,7 +140,7 @@
 | 132 | 377 | AF Cruz |
 | 133 | 370 | Tameka Jones |
 | 134 | 370 | Allison Baxter |
-| 135 | 366 | Ebony Waynes-robinson |
+| 135 | 367 | Ebony Waynes-robinson |
 | 136 | 366 | Andre Sanon |
 | 137 | 363 | Christina Rebecca |
 | 138 | 353 | Lashaunda |
