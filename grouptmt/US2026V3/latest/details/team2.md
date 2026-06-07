@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:06:18 UTC
+# Standings for team2 as of 2026-06-07 11:06:41 UTC
 
 **Total Participants:** 1703
 
@@ -82,7 +82,7 @@
 | 74 | 921 | Block Dog |
 | 75 | 913 | Amber Salazar |
 | 76 | 899 | Marie Luciano |
-| 77 | 883 | Gabriella Humphreys |
+| 77 | 893 | Gabriella Humphreys |
 | 78 | 882 | Lisa Breiding |
 | 79 | 864 | Helen Thomas |
 | 80 | 861 | Marquita Toliver |
@@ -173,14 +173,14 @@
 | 165 | 357 | Erin Thomas |
 | 166 | 356 | Joni Michelle Morgan |
 | 167 | 354 | Zesty Strikerbuilder |
-| 168 | 348 | Eric Drane |
-| 169 | 347 | Traci Abern |
-| 170 | 343 | Theresa Marie |
-| 171 | 343 | Jason Cook |
-| 172 | 342 | Bri St Peter |
-| 173 | 340 | Mom |
-| 174 | 339 | Loopy Curvebuilder |
-| 175 | 338 | Sully |
+| 168 | 348 | Sully |
+| 169 | 348 | Eric Drane |
+| 170 | 347 | Traci Abern |
+| 171 | 343 | Theresa Marie |
+| 172 | 343 | Jason Cook |
+| 173 | 342 | Bri St Peter |
+| 174 | 340 | Mom |
+| 175 | 339 | Loopy Curvebuilder |
 | 176 | 336 | Jef Wassom |
 | 177 | 333 | Christina Maria |
 | 178 | 332 | Ratchet |
@@ -399,8 +399,8 @@
 | 391 | 142 | Spunky Cascadeclear |
 | 392 | 141 | Loopy Tower |
 | 393 | 141 | Jacquelyn Snyder Dumas |
-| 394 | 140 | Sharon L Brazelton |
-| 395 | 140 | Starvinmarvin |
+| 394 | 140 | Starvinmarvin |
+| 395 | 140 | Sharon L Brazelton |
 | 396 | 140 | Rescuegirl76 |
 | 397 | 139 | rebel4lyfe |
 | 398 | 139 | Charles E Mccardell |
@@ -410,38 +410,38 @@
 | 402 | 138 | NickandJess Reynolds |
 | 403 | 138 | James Sayers |
 | 404 | 138 | Melissa Fink |
-| 405 | 137 | Ashley Voelz |
-| 406 | 137 | Sandra Belk |
+| 405 | 137 | Sandra Belk |
+| 406 | 137 | Ashley Voelz |
 | 407 | 136 | Jumpy Dashpiece |
 | 408 | 136 | Mtnblzr |
 | 409 | 136 | Lauren Maxwell |
 | 410 | 135 | Naomi Walker |
 | 411 | 133 | Tara |
 | 412 | 133 | Angela Hogan |
-| 413 | 132 | Raine |
-| 414 | 132 | Ava Speedy |
-| 415 | 132 | Reign Hustler |
-| 416 | 131 | Teresa Mandich |
-| 417 | 131 | Heather Billodeau |
-| 418 | 131 | MamaRachel |
-| 419 | 130 | Charity Hauser |
-| 420 | 130 | Cristi Doris |
-| 421 | 130 | Jenn |
-| 422 | 130 | Jumpy Matchbuilder |
-| 423 | 130 | Gwendolyn Boykin Mobbs |
-| 424 | 129 | Armando Sabedra |
-| 425 | 129 | Jackie Walker |
-| 426 | 129 | Sandy Justus |
-| 427 | 129 | Belle |
-| 428 | 129 | Kristi K Milner |
-| 429 | 129 | Perii Reynoso |
-| 430 | 129 | Nikki Hatch |
-| 431 | 128 | rageking |
-| 432 | 127 | Tammy Roth |
-| 433 | 127 | Stephanie |
+| 413 | 133 | TetrisMama |
+| 414 | 132 | Raine |
+| 415 | 132 | Ava Speedy |
+| 416 | 132 | Reign Hustler |
+| 417 | 131 | Teresa Mandich |
+| 418 | 131 | Heather Billodeau |
+| 419 | 131 | MamaRachel |
+| 420 | 130 | Charity Hauser |
+| 421 | 130 | Gwendolyn Boykin Mobbs |
+| 422 | 130 | Jenn |
+| 423 | 130 | Cristi Doris |
+| 424 | 130 | Jumpy Matchbuilder |
+| 425 | 129 | Nikki Hatch |
+| 426 | 129 | Armando Sabedra |
+| 427 | 129 | Jackie Walker |
+| 428 | 129 | Sandy Justus |
+| 429 | 129 | Belle |
+| 430 | 129 | Perii Reynoso |
+| 431 | 129 | Kristi K Milner |
+| 432 | 128 | rageking |
+| 433 | 127 | Tammy Roth |
 | 434 | 127 | Aurora June Brock |
-| 435 | 127 | TetrisMama |
-| 436 | 127 | Tina |
+| 435 | 127 | Tina |
+| 436 | 127 | Stephanie |
 | 437 | 127 | Nicky Steigerwalt |
 | 438 | 126 | Tamtam |
 | 439 | 125 | Jessica Connot |
@@ -450,14 +450,14 @@
 | 442 | 124 | Jason Burris |
 | 443 | 123 | Simone F |
 | 444 | 123 | Mandy Van Laningham Bishop |
-| 445 | 122 | Maria Ward |
+| 445 | 122 | Kevin Patrick |
 | 446 | 122 | Katie Jones |
-| 447 | 122 | Sarah Louise Cobb |
-| 448 | 122 | Kevin Patrick |
+| 447 | 122 | Maria Ward |
+| 448 | 122 | Sarah Louise Cobb |
 | 449 | 120 | Kevin Mccoy |
-| 450 | 120 | Nichole Wilson |
-| 451 | 120 | Keisha Robinson |
-| 452 | 120 | Christine James |
+| 450 | 120 | Christine James |
+| 451 | 120 | Nichole Wilson |
+| 452 | 120 | Keisha Robinson |
 | 453 | 120 | Adam Latin |
 | 454 | 120 | Wendy McKee |
 | 455 | 120 | Carlos J Blas |

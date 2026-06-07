@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:06:18 UTC
+# Standings for team4 as of 2026-06-07 11:06:41 UTC
 
 **Total Participants:** 1446
 
@@ -171,12 +171,12 @@
 | 163 | 291 | shawna |
 | 164 | 289 | Chiquita Blue |
 | 165 | 288 | LastBoi |
-| 166 | 288 | Maria Castillo |
-| 167 | 286 | matt |
-| 168 | 286 | Perky Riserbuilder |
-| 169 | 285 | TRUCHILD777$$$ |
-| 170 | 283 | Scamp Jones |
-| 171 | 283 | Danielle Mitchell |
+| 166 | 288 | Danielle Mitchell |
+| 167 | 288 | Maria Castillo |
+| 168 | 286 | matt |
+| 169 | 286 | Perky Riserbuilder |
+| 170 | 285 | TRUCHILD777$$$ |
+| 171 | 283 | Scamp Jones |
 | 172 | 282 | Nicole |
 | 173 | 281 | Margie Thomas |
 | 174 | 281 | Misty Leigh |
@@ -609,8 +609,8 @@
 | 601 | 70 | Breezy Blockzone |
 | 602 | 70 | Kimberly Devon |
 | 603 | 70 | Joha Mldo Castillo |
-| 604 | 70 | Winter Moon |
-| 605 | 70 | Jeri Anne Stormo-Toman |
+| 604 | 70 | Jeri Anne Stormo-Toman |
+| 605 | 70 | Winter Moon |
 | 606 | 70 | LilithMoon |
 | 607 | 69 | Beth Belanger |
 | 608 | 69 | Khylee DarDar |
@@ -644,14 +644,14 @@
 | 636 | 66 | Jennifer Brucz |
 | 637 | 65 | Breezy Wife |
 | 638 | 65 | Genger |
-| 639 | 65 | Tony Clark |
-| 640 | 65 | Deborah Ayliffe |
-| 641 | 65 | Yvette Johnson |
+| 639 | 65 | Deborah Ayliffe |
+| 640 | 65 | Yvette Johnson |
+| 641 | 65 | Tony Clark |
 | 642 | 65 | Rocky |
-| 643 | 65 | Knijur Callins |
+| 643 | 65 | Monte Smith |
 | 644 | 65 | Pap337 |
-| 645 | 65 | Monte Smith |
-| 646 | 65 | Youngkueen |
+| 645 | 65 | Youngkueen |
+| 646 | 65 | Knijur Callins |
 | 647 | 65 | Lovetetris |
 | 648 | 65 | Jailen Harper |
 | 649 | 65 | Lacie Powers |
@@ -662,92 +662,92 @@
 | 654 | 64 | Surviving Be Back Soon |
 | 655 | 64 | David Lay |
 | 656 | 64 | Nicole Ambrose |
-| 657 | 64 | MamaC |
-| 658 | 64 | Daring Brickbuilder |
-| 659 | 63 | ButterfliesRFree |
-| 660 | 63 | Marina |
+| 657 | 64 | Daring Brickbuilder |
+| 658 | 64 | MamaC |
+| 659 | 63 | Marina |
+| 660 | 63 | ButterfliesRFree |
 | 661 | 63 | Shirley A. Godfrey |
-| 662 | 63 | Cassie N Danica Flaherty |
-| 663 | 63 | JP |
-| 664 | 63 | MattJennifer Marie Ericson |
-| 665 | 63 | Phredda Helene Gavornik |
-| 666 | 63 | Lush Twisterfit |
-| 667 | 63 | Brenda Mueller |
-| 668 | 63 | Renzo Tonini |
-| 669 | 63 | Amber Jalbert |
-| 670 | 63 | Maria Munoz |
-| 671 | 63 | Swanky Brickzone |
-| 672 | 62 | Mar Mar |
-| 673 | 62 | Stephanie Brock |
-| 674 | 62 | ShaniP |
-| 675 | 62 | 94Blockhead |
-| 676 | 61 | Joe Win |
-| 677 | 61 | Nikcole Alexis Bryan |
-| 678 | 61 | Danielle Sulano |
-| 679 | 61 | Maicy Darrah |
-| 680 | 61 | Butterfly |
-| 681 | 61 | Elisha Thompson |
-| 682 | 61 | Luunii |
-| 683 | 60 | Anthony Magaraci |
-| 684 | 60 | Uh Lesh Uh |
-| 685 | 60 | Rin |
-| 686 | 60 | Brett |
-| 687 | 60 | Elizabeth Putansu |
-| 688 | 60 | Lizard |
-| 689 | 60 | Justin Janachovsky |
-| 690 | 60 | Kristine Hj Han |
-| 691 | 60 | Helen Bradley |
-| 692 | 60 | Jessica Kelly |
-| 693 | 60 | Tod Jae |
-| 694 | 60 | Nerdy Brickster |
-| 695 | 60 | Poppy |
-| 696 | 60 | Chris Rowe |
-| 697 | 60 | Angela Adamo-Tash |
-| 698 | 60 | Tiffy |
+| 662 | 63 | Poppy |
+| 663 | 63 | Cassie N Danica Flaherty |
+| 664 | 63 | JP |
+| 665 | 63 | MattJennifer Marie Ericson |
+| 666 | 63 | Phredda Helene Gavornik |
+| 667 | 63 | Lush Twisterfit |
+| 668 | 63 | Brenda Mueller |
+| 669 | 63 | Renzo Tonini |
+| 670 | 63 | Amber Jalbert |
+| 671 | 63 | Maria Munoz |
+| 672 | 63 | Swanky Brickzone |
+| 673 | 62 | Mar Mar |
+| 674 | 62 | Stephanie Brock |
+| 675 | 62 | ShaniP |
+| 676 | 62 | 94Blockhead |
+| 677 | 61 | Joe Win |
+| 678 | 61 | Nikcole Alexis Bryan |
+| 679 | 61 | Danielle Sulano |
+| 680 | 61 | Maicy Darrah |
+| 681 | 61 | Butterfly |
+| 682 | 61 | Elisha Thompson |
+| 683 | 61 | Luunii |
+| 684 | 60 | Anthony Magaraci |
+| 685 | 60 | Uh Lesh Uh |
+| 686 | 60 | Rin |
+| 687 | 60 | Brett |
+| 688 | 60 | Elizabeth Putansu |
+| 689 | 60 | Lizard |
+| 690 | 60 | Justin Janachovsky |
+| 691 | 60 | Kristine Hj Han |
+| 692 | 60 | Helen Bradley |
+| 693 | 60 | Jessica Kelly |
+| 694 | 60 | BethB |
+| 695 | 60 | Tod Jae |
+| 696 | 60 | Breezy Brickfit |
+| 697 | 60 | Robert Crow |
+| 698 | 60 | Kena T. Tanner |
 | 699 | 60 | DanceAngel |
-| 700 | 60 | BethB |
-| 701 | 60 | Kena T. Tanner |
-| 702 | 60 | Robert Crow |
-| 703 | 60 | Breezy Brickfit |
-| 704 | 59 | Tammy Lasseigne |
-| 705 | 59 | Jeni |
-| 706 | 59 | Miranda Brown |
-| 707 | 59 | Anthony Kollar |
-| 708 | 59 | Trang Nguyen |
+| 700 | 60 | Nerdy Brickster |
+| 701 | 60 | Angela Adamo-Tash |
+| 702 | 60 | Chris Rowe |
+| 703 | 60 | Tiffy |
+| 704 | 59 | Jeni |
+| 705 | 59 | Trang Nguyen |
+| 706 | 59 | Anthony Kollar |
+| 707 | 59 | Miranda Brown |
+| 708 | 59 | Tammy Lasseigne |
 | 709 | 59 | Giggy Bridgepiece |
 | 710 | 58 | Yaya Selbor |
 | 711 | 58 | Groovy Towerbuilder |
 | 712 | 58 | Alicia Blunt |
 | 713 | 58 | Jessica Sanchez |
 | 714 | 58 | h_chloe10 |
-| 715 | 58 | Kimberly Lusk |
+| 715 | 58 | Brittany |
 | 716 | 58 | Kelli Miller |
-| 717 | 58 | Brittany |
-| 718 | 57 | Erich EMac McIntosh |
-| 719 | 57 | Hotstuff |
-| 720 | 57 | Lala |
-| 721 | 57 | PapaB |
-| 722 | 57 | Волна Бог |
-| 723 | 57 | Erica Pompey |
-| 724 | 57 | Leslie |
-| 725 | 57 | Heather Hilferty |
+| 717 | 58 | Kimberly Lusk |
+| 718 | 57 | PapaB |
+| 719 | 57 | Lala |
+| 720 | 57 | Erich EMac McIntosh |
+| 721 | 57 | Hotstuff |
+| 722 | 57 | Erica Pompey |
+| 723 | 57 | Волна Бог |
+| 724 | 57 | Heather Hilferty |
+| 725 | 57 | Leslie |
 | 726 | 57 | alxhue04 |
 | 727 | 57 | Merritt Brandt |
 | 728 | 56 | JuicyJay |
 | 729 | 56 | Lashae |
 | 730 | 56 | tigerlilly |
-| 731 | 56 | Kayla Haddenham |
-| 732 | 56 | Vicente Bolaños Jr. |
-| 733 | 56 | Zappy Matchgrid |
-| 734 | 56 | Meela Abdurrab |
+| 731 | 56 | Blessedmom865 |
+| 732 | 56 | Kayla Haddenham |
+| 733 | 56 | Alaina Rousseau |
+| 734 | 56 | Vicente Bolaños Jr. |
 | 735 | 56 | Natalie Ohrtman Strand |
-| 736 | 56 | Blessedmom865 |
-| 737 | 56 | Alaina Rousseau |
-| 738 | 55 | The Jazziest |
-| 739 | 55 | Donny Keets |
-| 740 | 55 | Melissa Wilson |
-| 741 | 55 | pussface |
-| 742 | 55 | Erika Rubio |
+| 736 | 56 | Zappy Matchgrid |
+| 737 | 56 | Meela Abdurrab |
+| 738 | 55 | pussface |
+| 739 | 55 | Melissa Wilson |
+| 740 | 55 | Erika Rubio |
+| 741 | 55 | Donny Keets |
+| 742 | 55 | The Jazziest |
 | 743 | 55 | bofe |
 | 744 | 55 | Julian Gasque |
 | 745 | 55 | Bee |
