@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:15:17 UTC
+# Standings for team2 as of 2026-06-07 09:16:19 UTC
 
 **Total Participants:** 1688
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Morgann McDaniel |
-| 11 | 6114 | Tim Ix |
+| 10 | 6114 | Tim Ix |
+| 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -100,8 +100,8 @@
 | 92 | 750 | Denise Potter |
 | 93 | 749 | Brandi Thompson |
 | 94 | 748 | Nerdy Climber |
-| 95 | 721 | Smiley Dropper |
-| 96 | 721 | Hoppy Rotate |
+| 95 | 721 | Hoppy Rotate |
+| 96 | 721 | Smiley Dropper |
 | 97 | 685 | Sigmamom |
 | 98 | 666 | Epic Frame |
 | 99 | 656 | Loopy Cascadepiece |
@@ -140,8 +140,8 @@
 | 132 | 466 | Judy Long |
 | 133 | 458 | Kaycie Shaffer |
 | 134 | 453 | Kimberly Cowan |
-| 135 | 448 | Pooh |
-| 136 | 446 | Bubbly Strikerpiece |
+| 135 | 450 | Bubbly Strikerpiece |
+| 136 | 448 | Pooh |
 | 137 | 438 | Zappy Pattern |
 | 138 | 438 | Michelle Rich Burkhart |
 | 139 | 436 | Gill |
