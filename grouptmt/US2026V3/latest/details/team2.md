@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:40:18 UTC
+# Standings for team2 as of 2026-06-07 09:40:41 UTC
 
 **Total Participants:** 1691
 
@@ -151,7 +151,7 @@
 | 143 | 419 | Cool Climber |
 | 144 | 417 | Jenny Graham |
 | 145 | 416 | Suki Jacobs |
-| 146 | 412 | Zarah Kettler |
+| 146 | 414 | Zarah Kettler |
 | 147 | 409 | Jgato |
 | 148 | 408 | Ashley Green |
 | 149 | 393 | DomDomsNana |

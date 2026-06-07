@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:40:18 UTC
+# Standings for team4 as of 2026-06-07 09:40:41 UTC
 
 **Total Participants:** 1429
 
@@ -307,17 +307,17 @@
 | 299 | 145 | June Hoffman |
 | 300 | 144 | Dapper Strikerpiece |
 | 301 | 143 | Brennan Shea Greene |
-| 302 | 142 | Rachel Lemos |
-| 303 | 142 | Chris McBlockster |
-| 304 | 141 | JuicyJuice |
-| 305 | 141 | Justin Michael |
-| 306 | 141 | Chilly Pivot |
-| 307 | 140 | Billy Baker |
-| 308 | 139 | Name |
-| 309 | 138 | Tina Thomas |
-| 310 | 138 | Rose Anna Safi |
-| 311 | 138 | Cindy |
-| 312 | 138 | Zesty Twistpiece |
+| 302 | 143 | Zesty Twistpiece |
+| 303 | 142 | Rachel Lemos |
+| 304 | 142 | Chris McBlockster |
+| 305 | 141 | JuicyJuice |
+| 306 | 141 | Justin Michael |
+| 307 | 141 | Chilly Pivot |
+| 308 | 140 | Billy Baker |
+| 309 | 139 | Name |
+| 310 | 138 | Tina Thomas |
+| 311 | 138 | Rose Anna Safi |
+| 312 | 138 | Cindy |
 | 313 | 137 | Deborah Silberg |
 | 314 | 136 | King |
 | 315 | 136 | WeeWooWee |
