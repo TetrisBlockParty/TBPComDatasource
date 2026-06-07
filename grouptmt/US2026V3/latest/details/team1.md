@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:30:40 UTC
+# Standings for team1 as of 2026-06-07 11:31:18 UTC
 
 **Total Participants:** 1445
 
@@ -479,62 +479,62 @@
 | 471 | 96 | Sherri Keys |
 | 472 | 96 | Yazz |
 | 473 | 95 | Shiny Lift |
-| 474 | 95 | Jelyfish |
-| 475 | 95 | Bold Clusterer |
-| 476 | 94 | Ta'Kaiyah M. Spann |
-| 477 | 94 | Derald Miller |
-| 478 | 94 | Sha Anderson |
-| 479 | 93 | FunTime |
-| 480 | 93 | Rene Hicks |
-| 481 | 93 | Anastasia |
-| 482 | 93 | C Lo Green |
-| 483 | 93 | Kimberly Susan Privette |
-| 484 | 93 | Chino Baby |
+| 474 | 95 | Bold Clusterer |
+| 475 | 95 | Erica Charlise |
+| 476 | 95 | Jelyfish |
+| 477 | 94 | Sha Anderson |
+| 478 | 94 | Derald Miller |
+| 479 | 94 | Ta'Kaiyah M. Spann |
+| 480 | 93 | C Lo Green |
+| 481 | 93 | Chino Baby |
+| 482 | 93 | FunTime |
+| 483 | 93 | Rene Hicks |
+| 484 | 93 | Kimberly Susan Privette |
 | 485 | 93 | Lucy |
-| 486 | 92 | Pretty Yella |
+| 486 | 93 | Anastasia |
 | 487 | 92 | Boldy Matchbuilder |
 | 488 | 92 | Kimberly Anderson |
-| 489 | 91 | Zappy Clearfit |
+| 489 | 92 | Pretty Yella |
 | 490 | 91 | Aaron Hartmann |
-| 491 | 91 | David A Alvino |
-| 492 | 90 | Nora Mahmoud |
+| 491 | 91 | Zappy Clearfit |
+| 492 | 91 | David A Alvino |
 | 493 | 90 | CJ Robinson |
 | 494 | 90 | Jjhandsome |
-| 495 | 90 | Shameka Tiffany |
-| 496 | 90 | crumb bumc |
-| 497 | 90 | Lilly Brown |
-| 498 | 89 | Cynthia Cruell |
-| 499 | 89 | Jenni Hardman |
-| 500 | 89 | Zany Breaker |
-| 501 | 88 | Brenda Malachi-butler |
-| 502 | 88 | Guard Up |
-| 503 | 88 | Soubletzy |
+| 495 | 90 | Nora Mahmoud |
+| 496 | 90 | Lilly Brown |
+| 497 | 90 | Shameka Tiffany |
+| 498 | 90 | crumb bumc |
+| 499 | 89 | Zany Breaker |
+| 500 | 89 | Cynthia Cruell |
+| 501 | 89 | Jenni Hardman |
+| 502 | 88 | Soubletzy |
+| 503 | 88 | Guard Up |
 | 504 | 88 | Daring Riserfit |
-| 505 | 87 | Chummy Frame |
-| 506 | 87 | Natalie Burroughs |
-| 507 | 87 | Cachet A Ward |
-| 508 | 87 | Holly Baker |
-| 509 | 86 | Kendra McIntyre |
-| 510 | 86 | Donna Payne |
+| 505 | 88 | Brenda Malachi-butler |
+| 506 | 87 | Cachet A Ward |
+| 507 | 87 | Chummy Frame |
+| 508 | 87 | Natalie Burroughs |
+| 509 | 87 | Holly Baker |
+| 510 | 86 | Marie Wilson |
 | 511 | 86 | Tweet Turner |
 | 512 | 86 | Giggly Tiltbuilder |
-| 513 | 86 | whatever |
-| 514 | 86 | Melissa Olvera |
-| 515 | 86 | krd |
-| 516 | 86 | Messy Live |
-| 517 | 86 | Cm |
-| 518 | 86 | Marie Wilson |
-| 519 | 85 | Hardtohandle91 |
-| 520 | 85 | Amy Villalpando |
-| 521 | 85 | Bobby Chestefield |
-| 522 | 85 | Sonia Binti Mfalme |
-| 523 | 85 | De'Mear McKinney |
-| 524 | 85 | TotoCherue |
-| 525 | 85 | Jae Thompson-Tyus |
-| 526 | 85 | Eric Machuca |
-| 527 | 85 | DaemahnFriday |
-| 528 | 85 | Erica Charlise |
-| 529 | 85 | Sarah Swietlicki - Lopez |
+| 513 | 86 | Kendra McIntyre |
+| 514 | 86 | Messy Live |
+| 515 | 86 | Cm |
+| 516 | 86 | whatever |
+| 517 | 86 | Melissa Olvera |
+| 518 | 86 | Donna Payne |
+| 519 | 86 | krd |
+| 520 | 85 | Sonia Binti Mfalme |
+| 521 | 85 | De'Mear McKinney |
+| 522 | 85 | Bobby Chestefield |
+| 523 | 85 | TotoCherue |
+| 524 | 85 | Jae Thompson-Tyus |
+| 525 | 85 | Eric Machuca |
+| 526 | 85 | DaemahnFriday |
+| 527 | 85 | Sarah Swietlicki - Lopez |
+| 528 | 85 | Hardtohandle91 |
+| 529 | 85 | Amy Villalpando |
 | 530 | 84 | Angela Brown Babin |
 | 531 | 84 | Just2Play$ |
 | 532 | 84 | Saucy Faller |
@@ -940,88 +940,88 @@
 | 932 | 39 | Vonda House |
 | 933 | 39 | Meepycat |
 | 934 | 39 | Juanita Quezaire |
-| 935 | 39 | Laysa Nunez |
-| 936 | 39 | TY Newme Batts |
-| 937 | 38 | Jroc Tyra Taylor |
-| 938 | 38 | Krista Shanice |
-| 939 | 38 | Nicole Coko Thomas |
+| 935 | 39 | TY Newme Batts |
+| 936 | 39 | Laysa Nunez |
+| 937 | 38 | Krista Shanice |
+| 938 | 38 | Nicole Coko Thomas |
+| 939 | 38 | Jroc Tyra Taylor |
 | 940 | 38 | Kahliah Baker |
 | 941 | 38 | Monica Fields |
 | 942 | 38 | Quwana Hall |
 | 943 | 38 | Phoenix |
 | 944 | 38 | hope |
-| 945 | 38 | Undeniable Williams |
-| 946 | 38 | Spicy Tiler |
+| 945 | 38 | Spicy Tiler |
+| 946 | 38 | Undeniable Williams |
 | 947 | 37 | Richelle Beck |
 | 948 | 37 | Kendra KJ Joyner |
-| 949 | 37 | Jb Mzresilience |
-| 950 | 37 | Lil T |
-| 951 | 37 | Spunky Strikerbuilder |
-| 952 | 37 | Kween Pilot |
-| 953 | 37 | Megan Jones |
-| 954 | 37 | Felicia Yahuah Johnson |
-| 955 | 37 | Chris Rogers |
-| 956 | 36 | LaMinda Todd |
-| 957 | 36 | tg |
-| 958 | 36 | Mazi Johnson |
-| 959 | 36 | Tangy Moore |
-| 960 | 36 | Geneva Carter |
-| 961 | 36 | Ivan Israel |
-| 962 | 36 | Frilly Lifter |
-| 963 | 35 | Charise McGee |
-| 964 | 35 | Riq Wokhardt |
-| 965 | 35 | Sashaleo |
+| 949 | 37 | Willson06 |
+| 950 | 37 | Jb Mzresilience |
+| 951 | 37 | Lil T |
+| 952 | 37 | Spunky Strikerbuilder |
+| 953 | 37 | Kween Pilot |
+| 954 | 37 | Megan Jones |
+| 955 | 37 | Felicia Yahuah Johnson |
+| 956 | 37 | Chris Rogers |
+| 957 | 36 | LaMinda Todd |
+| 958 | 36 | tg |
+| 959 | 36 | Mazi Johnson |
+| 960 | 36 | Tangy Moore |
+| 961 | 36 | Geneva Carter |
+| 962 | 36 | Ivan Israel |
+| 963 | 36 | Frilly Lifter |
+| 964 | 35 | Charise McGee |
+| 965 | 35 | Happy Blocky |
 | 966 | 35 | Brandy Jaszewski |
-| 967 | 35 | Happy Blocky |
-| 968 | 35 | Spicy Hedgehog |
-| 969 | 35 | Giggy Clusterer |
-| 970 | 35 | Frilly Glidepiece |
-| 971 | 35 | Crafty Link |
-| 972 | 35 | Poyre Shelton |
-| 973 | 35 | Margie Toni Corley |
-| 974 | 35 | Anthony Collins |
-| 975 | 35 | TieMs BHughez |
-| 976 | 35 | Chill Linkroll |
-| 977 | 35 | Kanesha Jackson |
-| 978 | 35 | Khatyrah Burnette |
-| 979 | 34 | Bouncy Brickroll |
-| 980 | 34 | Jeremy Pope |
-| 981 | 34 | Alyssa H |
-| 982 | 34 | XYZ |
-| 983 | 34 | Donnie Withthebody |
-| 984 | 34 | Temeshia Brooks Washington |
-| 985 | 34 | Zayy Wavyy |
-| 986 | 34 | Oaklonboy mike |
-| 987 | 33 | Krose Byers |
+| 967 | 35 | Sashaleo |
+| 968 | 35 | Riq Wokhardt |
+| 969 | 35 | Poyre Shelton |
+| 970 | 35 | Margie Toni Corley |
+| 971 | 35 | TieMs BHughez |
+| 972 | 35 | Spicy Hedgehog |
+| 973 | 35 | Chill Linkroll |
+| 974 | 35 | Giggy Clusterer |
+| 975 | 35 | Frilly Glidepiece |
+| 976 | 35 | Khatyrah Burnette |
+| 977 | 35 | Crafty Link |
+| 978 | 35 | Kanesha Jackson |
+| 979 | 35 | Anthony Collins |
+| 980 | 34 | Oaklonboy mike |
+| 981 | 34 | Donnie Withthebody |
+| 982 | 34 | Alyssa H |
+| 983 | 34 | Zayy Wavyy |
+| 984 | 34 | XYZ |
+| 985 | 34 | Jeremy Pope |
+| 986 | 34 | Bouncy Brickroll |
+| 987 | 34 | Temeshia Brooks Washington |
 | 988 | 33 | Candy Lee |
-| 989 | 33 | Tony P Burke |
-| 990 | 33 | Tweet |
-| 991 | 33 | Cori Cleland |
-| 992 | 33 | Melanie Houghton-McCann |
-| 993 | 33 | Koz176 |
-| 994 | 33 | Flash97 |
-| 995 | 33 | Nikiya |
-| 996 | 33 | Clever Blocker |
-| 997 | 33 | Willson06 |
-| 998 | 33 | Brianna Floyd |
-| 999 | 32 | Tomme Poliwka |
+| 989 | 33 | Brianna Floyd |
+| 990 | 33 | Tony P Burke |
+| 991 | 33 | Tweet |
+| 992 | 33 | Koz176 |
+| 993 | 33 | Melanie Houghton-McCann |
+| 994 | 33 | Nikiya |
+| 995 | 33 | Flash97 |
+| 996 | 33 | Krose Byers |
+| 997 | 33 | Clever Blocker |
+| 998 | 33 | Cori Cleland |
+| 999 | 32 | Tessa Felice Hill |
 | 1000 | 32 | Alisia Johns |
-| 1001 | 32 | LaQuita White |
-| 1002 | 32 | Stephanie Scott |
-| 1003 | 32 | Chummy Liner |
-| 1004 | 32 | Linda Lasha Messenger |
-| 1005 | 32 | Stephanie Vinson |
-| 1006 | 32 | Seirra Robinson |
-| 1007 | 32 | Erica Campbell-Stillings |
-| 1008 | 32 | Tessa Felice Hill |
-| 1009 | 32 | Melvin Simpson |
-| 1010 | 32 | TBabii24 |
-| 1011 | 32 | Dandy Blockfall |
-| 1012 | 32 | Nikita Jones |
-| 1013 | 31 | Samona Mcculler |
+| 1001 | 32 | Nikita Jones |
+| 1002 | 32 | Dandy Blockfall |
+| 1003 | 32 | TBabii24 |
+| 1004 | 32 | Melvin Simpson |
+| 1005 | 32 | Tomme Poliwka |
+| 1006 | 32 | Erica Campbell-Stillings |
+| 1007 | 32 | Seirra Robinson |
+| 1008 | 32 | Stephanie Scott |
+| 1009 | 32 | Chummy Liner |
+| 1010 | 32 | Linda Lasha Messenger |
+| 1011 | 32 | LaQuita White |
+| 1012 | 32 | Stephanie Vinson |
+| 1013 | 31 | Dirty Deeds |
 | 1014 | 31 | Alize |
 | 1015 | 31 | Edward Hickmon |
-| 1016 | 31 | Dirty Deeds |
+| 1016 | 31 | Samona Mcculler |
 | 1017 | 31 | kingbrook |
 | 1018 | 31 | Krista McNair |
 | 1019 | 31 | Plucky Clearpiece |

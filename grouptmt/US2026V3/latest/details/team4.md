@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:30:40 UTC
+# Standings for team4 as of 2026-06-07 11:31:18 UTC
 
 **Total Participants:** 1451
 
@@ -112,16 +112,16 @@
 | 104 | 511 | Nikki Fuller Johnson |
 | 105 | 510 | Krysten Danielle Richard |
 | 106 | 503 | CJ |
-| 107 | 483 | Katie Lynn Petit |
-| 108 | 477 | Malik Thompson |
-| 109 | 476 | Jason Garnatz |
-| 110 | 474 | Melissa WC |
-| 111 | 473 | vag1974 |
-| 112 | 469 | Gigglycat |
-| 113 | 461 | Kayla Fuentes |
-| 114 | 461 | Cranky Towerbuilder |
-| 115 | 457 | Lisa Garcia |
-| 116 | 450 | Sassy Column |
+| 107 | 500 | Sassy Column |
+| 108 | 483 | Katie Lynn Petit |
+| 109 | 477 | Malik Thompson |
+| 110 | 476 | Jason Garnatz |
+| 111 | 474 | Melissa WC |
+| 112 | 473 | vag1974 |
+| 113 | 469 | Gigglycat |
+| 114 | 461 | Kayla Fuentes |
+| 115 | 461 | Cranky Towerbuilder |
+| 116 | 457 | Lisa Garcia |
 | 117 | 443 | Crissy Hoffman |
 | 118 | 437 | Ermadette |
 | 119 | 433 | Gorica Prusina |
@@ -229,7 +229,7 @@
 | 221 | 210 | Stephanie Myers |
 | 222 | 207 | Aramat |
 | 223 | 205 | Kristen Wallace |
-| 224 | 201 | Crystal Hammonds |
+| 224 | 202 | Crystal Hammonds |
 | 225 | 200 | Sarah Montagne Forsberg |
 | 226 | 199 | Janet Willoughby |
 | 227 | 199 | Lively Blockpiece |
