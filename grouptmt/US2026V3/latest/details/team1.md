@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:54:18 UTC
+# Standings for team1 as of 2026-06-07 06:54:40 UTC
 
 **Total Participants:** 1406
 
@@ -744,57 +744,57 @@
 | 736 | 50 | Teresa Yanira Cepeda |
 | 737 | 50 | Denell Sims |
 | 738 | 50 | Tramaine Crockrum |
-| 739 | 50 | MsBobby Patrick |
+| 739 | 50 | Daring Linkfall |
 | 740 | 50 | Slinky Fallzone |
-| 741 | 50 | Tootsie Pop |
+| 741 | 50 | MsBobby Patrick |
 | 742 | 50 | Crystal Garay |
-| 743 | 50 | Bold Spinblock |
-| 744 | 50 | Rissa Rozay |
-| 745 | 50 | Victoria Smith |
-| 746 | 50 | Daring Linkfall |
-| 747 | 49 | Ashley Davis |
+| 743 | 50 | Rissa Rozay |
+| 744 | 50 | Bold Spinblock |
+| 745 | 50 | Tootsie Pop |
+| 746 | 50 | Victoria Smith |
+| 747 | 49 | SnazzyIvy |
 | 748 | 49 | Latoya Carson |
-| 749 | 49 | Saucy Crusher |
-| 750 | 49 | Teisha Scott |
-| 751 | 49 | SnazzyIvy |
-| 752 | 49 | Stronger Wiser Better |
-| 753 | 48 | Bubbly Crawler |
-| 754 | 48 | Stanley Dixon |
-| 755 | 48 | Rieshelda Marie White |
-| 756 | 48 | Kàrma Lee |
-| 757 | 48 | Juicy |
-| 758 | 48 | LoveLee |
-| 759 | 48 | jaz |
-| 760 | 48 | Duncan Timothy |
-| 761 | 48 | Eli Delao |
-| 762 | 48 | LaTonya Rivers |
+| 749 | 49 | Stronger Wiser Better |
+| 750 | 49 | Saucy Crusher |
+| 751 | 49 | Ashley Davis |
+| 752 | 49 | Teisha Scott |
+| 753 | 48 | Juicy |
+| 754 | 48 | LoveLee |
+| 755 | 48 | Kàrma Lee |
+| 756 | 48 | Rieshelda Marie White |
+| 757 | 48 | Bubbly Crawler |
+| 758 | 48 | Eli Delao |
+| 759 | 48 | Paul Pendley |
+| 760 | 48 | LaTonya Rivers |
+| 761 | 48 | Stanley Dixon |
+| 762 | 48 | Markeita Jones |
 | 763 | 48 | Rhianna Dinki Austin |
-| 764 | 48 | Markeita Jones |
-| 765 | 47 | Tyrone Porter |
-| 766 | 47 | Denise Cunningham-English |
-| 767 | 47 | RylonJones |
-| 768 | 47 | Tushama Cheris Okraku |
-| 769 | 47 | Jessie N Michael Silvers |
-| 770 | 47 | Taylor Jordan Hollis |
-| 771 | 47 | Octavia Bsb Johnson |
-| 772 | 47 | Kevin Turner |
-| 773 | 47 | Jodie |
-| 774 | 47 | Jojo M |
-| 775 | 46 | Jenni |
+| 764 | 48 | jaz |
+| 765 | 48 | Duncan Timothy |
+| 766 | 47 | Jojo M |
+| 767 | 47 | Denise Cunningham-English |
+| 768 | 47 | Tyrone Porter |
+| 769 | 47 | Jodie |
+| 770 | 47 | RylonJones |
+| 771 | 47 | Kevin Turner |
+| 772 | 47 | Tushama Cheris Okraku |
+| 773 | 47 | Octavia Bsb Johnson |
+| 774 | 47 | Jessie N Michael Silvers |
+| 775 | 47 | Taylor Jordan Hollis |
 | 776 | 46 | TrapQween39Bi |
 | 777 | 46 | Rosalind Chatman |
 | 778 | 46 | Lucille Wilson Davis |
-| 779 | 46 | Felicia Dungey |
-| 780 | 46 | Smiley Bridgepiece |
-| 781 | 46 | Ja'mice Nelson |
-| 782 | 46 | Elizabeth Green |
-| 783 | 46 | Kim Holzmiller |
-| 784 | 46 | David A Alvino |
-| 785 | 46 | Kimberly Red |
-| 786 | 45 | Y3llOWFAC3 |
-| 787 | 45 | Cali Lee |
-| 788 | 45 | Lawreniesha Burkley |
-| 789 | 45 | Paul Pendley |
+| 779 | 46 | Jenni |
+| 780 | 46 | Felicia Dungey |
+| 781 | 46 | Smiley Bridgepiece |
+| 782 | 46 | Ja'mice Nelson |
+| 783 | 46 | Elizabeth Green |
+| 784 | 46 | Kim Holzmiller |
+| 785 | 46 | David A Alvino |
+| 786 | 46 | Kimberly Red |
+| 787 | 45 | Y3llOWFAC3 |
+| 788 | 45 | Cali Lee |
+| 789 | 45 | Lawreniesha Burkley |
 | 790 | 45 | Matraca Young |
 | 791 | 45 | Skye |
 | 792 | 45 | WReckitraff |
@@ -1309,59 +1309,59 @@
 | 1301 | 10 | Crystal Segura |
 | 1302 | 10 | Omar Dotray |
 | 1303 | 10 | Terry Lee Moya |
-| 1304 | 10 | Jackee Chee-Ming |
+| 1304 | 10 | OneBuke FollowMe |
 | 1305 | 10 | Ladii Libra |
-| 1306 | 10 | Happymama |
-| 1307 | 10 | Semaj Johnson |
-| 1308 | 10 | Kim Smith |
-| 1309 | 10 | OneBuke FollowMe |
-| 1310 | 10 | Quirky Slammer |
-| 1311 | 10 | Steve Renelus |
-| 1312 | 10 | Nope Young |
-| 1313 | 9 | Shell Poke |
-| 1314 | 9 | Noni |
-| 1315 | 9 | Shemeka Bates |
-| 1316 | 9 | Shaun Baker |
+| 1306 | 10 | Davina Valentino |
+| 1307 | 10 | Happymama |
+| 1308 | 10 | Semaj Johnson |
+| 1309 | 10 | Kim Smith |
+| 1310 | 10 | Jackee Chee-Ming |
+| 1311 | 10 | Quirky Slammer |
+| 1312 | 10 | Steve Renelus |
+| 1313 | 10 | Nope Young |
+| 1314 | 9 | Shell Poke |
+| 1315 | 9 | Noni |
+| 1316 | 9 | Shemeka Bates |
 | 1317 | 9 | Clifford Petroske |
-| 1318 | 9 | Dana |
-| 1319 | 9 | Catelyn Neal |
+| 1318 | 9 | Shaun Baker |
+| 1319 | 9 | Dana |
 | 1320 | 9 | Frisky Linkblock |
 | 1321 | 9 | John Lovato |
 | 1322 | 9 | Yester |
-| 1323 | 9 | ummm |
-| 1324 | 9 | Mars |
-| 1325 | 9 | Beverly S. Robinson |
+| 1323 | 9 | Catelyn Neal |
+| 1324 | 9 | ummm |
+| 1325 | 9 | Duckey |
 | 1326 | 9 | Sunset Owens |
-| 1327 | 9 | Brika Brika |
+| 1327 | 9 | Beverly S. Robinson |
 | 1328 | 9 | meatballs |
-| 1329 | 9 | Duckey |
-| 1330 | 8 | MsSassygee Boom |
-| 1331 | 8 | Chevonne Huggins |
-| 1332 | 8 | Nicolej |
-| 1333 | 8 | Dana Hill |
+| 1329 | 9 | Brika Brika |
+| 1330 | 9 | Mars |
+| 1331 | 8 | Frothy Matchpiece |
+| 1332 | 8 | Queen Baby 5 |
+| 1333 | 8 | Groovy Riseclear |
 | 1334 | 8 | Elizabeth Castro |
-| 1335 | 8 | Giggleme |
-| 1336 | 8 | Nissa |
-| 1337 | 8 | Frothy Matchpiece |
-| 1338 | 8 | Queen Baby 5 |
-| 1339 | 8 | Groovy Riseclear |
-| 1340 | 8 | Almarasha Grice |
-| 1341 | 8 | Plucky Twist |
-| 1342 | 8 | Sean Walker |
-| 1343 | 8 | Rixo Blax |
-| 1344 | 8 | jus_ry |
-| 1345 | 8 | Ferocity |
-| 1346 | 8 | meep |
-| 1347 | 8 | Chill Tumbler |
-| 1348 | 8 | Macho Lewis |
-| 1349 | 8 | Dave Breaker |
-| 1350 | 8 | Andrew James |
-| 1351 | 8 | Chantae Maxwell |
-| 1352 | 8 | Desi |
-| 1353 | 7 | Deantenique Smalls |
-| 1354 | 7 | KingSlim82 |
-| 1355 | 7 | Mary2 |
-| 1356 | 7 | Davina Valentino |
+| 1335 | 8 | Plucky Twist |
+| 1336 | 8 | MsSassygee Boom |
+| 1337 | 8 | Almarasha Grice |
+| 1338 | 8 | Giggleme |
+| 1339 | 8 | Dana Hill |
+| 1340 | 8 | Nicolej |
+| 1341 | 8 | Chevonne Huggins |
+| 1342 | 8 | Desi |
+| 1343 | 8 | Nissa |
+| 1344 | 8 | Sean Walker |
+| 1345 | 8 | Rixo Blax |
+| 1346 | 8 | jus_ry |
+| 1347 | 8 | Ferocity |
+| 1348 | 8 | meep |
+| 1349 | 8 | Chill Tumbler |
+| 1350 | 8 | Macho Lewis |
+| 1351 | 8 | Dave Breaker |
+| 1352 | 8 | Andrew James |
+| 1353 | 8 | Chantae Maxwell |
+| 1354 | 7 | Mary2 |
+| 1355 | 7 | KingSlim82 |
+| 1356 | 7 | Deantenique Smalls |
 | 1357 | 7 | Milfchaser530 |
 | 1358 | 7 | Quana |
 | 1359 | 7 | Alexis Farquer |
