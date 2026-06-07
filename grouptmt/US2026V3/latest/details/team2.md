@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:40:41 UTC
+# Standings for team2 as of 2026-06-07 21:41:19 UTC
 
 **Total Participants:** 1913
 
@@ -49,7 +49,7 @@
 | 41 | 2707 | Bea Bee |
 | 42 | 2640 | Sean Rippa |
 | 43 | 2500 | Anthony Lilley |
-| 44 | 2265 | Frisky Balanceblock |
+| 44 | 2275 | Frisky Balanceblock |
 | 45 | 2236 | Andrew Weissenborn |
 | 46 | 2209 | Aubree Richard |
 | 47 | 2090 | Betty Barrett |
@@ -199,8 +199,8 @@
 | 191 | 399 | MaddieCherie |
 | 192 | 395 | Sarah Mccolgan |
 | 193 | 392 | Bri St Peter |
-| 194 | 391 | Christina Maria |
-| 195 | 390 | Joni Michelle Morgan |
+| 194 | 391 | Joni Michelle Morgan |
+| 195 | 391 | Christina Maria |
 | 196 | 390 | La chulis |
 | 197 | 389 | Sara Perkins |
 | 198 | 385 | Amy Gregg |
@@ -1553,100 +1553,100 @@
 | 1545 | 21 | Loony Snapclear |
 | 1546 | 21 | Mandy |
 | 1547 | 21 | Chill Shatterclear |
-| 1548 | 21 | Mona Good |
-| 1549 | 21 | Rachel Burkett |
-| 1550 | 21 | twistyzone |
-| 1551 | 21 | Black Sheep |
-| 1552 | 21 | Jennifer Chapel |
-| 1553 | 21 | Mario Hillman |
-| 1554 | 21 | Amanda Knox |
-| 1555 | 21 | Shannie |
-| 1556 | 21 | sally |
-| 1557 | 21 | Sandra Mathes Reece |
-| 1558 | 21 | Tina Thomason |
-| 1559 | 21 | Johnathon Mendiola |
-| 1560 | 20 | Tasha Gilbert |
-| 1561 | 20 | Lori Rose |
-| 1562 | 20 | Tipsy Slice |
-| 1563 | 20 | Witty Matchfit |
-| 1564 | 20 | Bonita Alexander |
-| 1565 | 20 | Deborah Morey-avila |
-| 1566 | 20 | Rick Green |
-| 1567 | 20 | Valerie Roberts |
-| 1568 | 20 | Amanda Gann |
-| 1569 | 20 | Stacie Taylor |
-| 1570 | 20 | Bigbb |
-| 1571 | 20 | Adam Winters |
-| 1572 | 20 | Melanie Hernandez |
-| 1573 | 20 | Boldy Patterner |
-| 1574 | 20 | Mitsy Lang |
-| 1575 | 20 | Chris |
-| 1576 | 20 | Kim Hoopes Townsend |
-| 1577 | 20 | JrsWife |
-| 1578 | 20 | Diamond Mitchell |
-| 1579 | 20 | Chummy Smasher |
-| 1580 | 20 | Ciera Adams |
-| 1581 | 20 | Jade007 |
-| 1582 | 20 | Jamaica Flowers |
-| 1583 | 20 | KT Scott |
-| 1584 | 20 | Sandra Betz |
-| 1585 | 20 | Katie Thacker |
-| 1586 | 20 | Krickett M. Curtis |
-| 1587 | 20 | Spunky Riserfit |
-| 1588 | 20 | Shana Campbell |
-| 1589 | 20 | Deion Marshall |
-| 1590 | 20 | Daniel Flathers |
-| 1591 | 20 | Melissa Kinsley |
-| 1592 | 20 | Twisty Glider |
-| 1593 | 20 | Jenn Wittkamp |
-| 1594 | 19 | Kevin Osbourne |
-| 1595 | 19 | Chill Racker |
-| 1596 | 19 | Stephanie Thompson |
-| 1597 | 19 | Liliana Mills |
-| 1598 | 19 | Snazzy Racker |
-| 1599 | 19 | Clever Balancefit |
-| 1600 | 19 | Jodi Deninno |
-| 1601 | 19 | Milwaukee Area Cleaning |
-| 1602 | 19 | Ashley Bryant-hatcher |
-| 1603 | 19 | Tetra Maniac |
-| 1604 | 19 | Nicole Slimick |
-| 1605 | 19 | Jackie Hayslip |
-| 1606 | 19 | Lindsay Gregory |
-| 1607 | 19 | Tabitha Porter |
-| 1608 | 19 | latte |
-| 1609 | 19 | Chris Cooper |
-| 1610 | 19 | Alicia Abston |
-| 1611 | 19 | Sandra Kopas Stetka |
-| 1612 | 18 | Miggy Gonzalez |
-| 1613 | 18 | Glitzy Stackbuilder |
-| 1614 | 18 | Randy Clevenger |
-| 1615 | 18 | Steven Desmon Thompson |
-| 1616 | 18 | Brandi Lynn Tumey |
-| 1617 | 18 | bob |
-| 1618 | 18 | Taran Evans |
-| 1619 | 18 | Ashley Shazes |
-| 1620 | 18 | Frothy Line |
-| 1621 | 18 | Alison Welsh |
-| 1622 | 18 | Ashley Wolford |
-| 1623 | 18 | Rugrat Angi Bechstein |
-| 1624 | 18 | FabTeach |
-| 1625 | 18 | Squyrt |
-| 1626 | 18 | Piper Michael |
-| 1627 | 18 | Araiiya |
-| 1628 | 18 | Peachy Piecebuilder |
-| 1629 | 18 | Curley natioN |
-| 1630 | 18 | Tavia Teschendorf Sliffe |
-| 1631 | 18 | Daimien Jarem |
-| 1632 | 18 | Kris Lea |
-| 1633 | 18 | Cynthia Vornlocker |
-| 1634 | 18 | Crafty Dashgrid |
-| 1635 | 18 | Glitzy Linkfall |
-| 1636 | 18 | K2N |
-| 1637 | 18 | Dizzy Glidezone |
-| 1638 | 18 | Loony Glider |
-| 1639 | 18 | Anita Blackshear |
-| 1640 | 18 | Chrystal Rodriguez |
-| 1641 | 18 | Frothy Faller |
+| 1548 | 21 | twistyzone |
+| 1549 | 21 | Mona Good |
+| 1550 | 21 | Frothy Faller |
+| 1551 | 21 | Rachel Burkett |
+| 1552 | 21 | Black Sheep |
+| 1553 | 21 | Jennifer Chapel |
+| 1554 | 21 | Mario Hillman |
+| 1555 | 21 | Amanda Knox |
+| 1556 | 21 | Shannie |
+| 1557 | 21 | sally |
+| 1558 | 21 | Sandra Mathes Reece |
+| 1559 | 21 | Tina Thomason |
+| 1560 | 21 | Johnathon Mendiola |
+| 1561 | 20 | Tasha Gilbert |
+| 1562 | 20 | Lori Rose |
+| 1563 | 20 | Tipsy Slice |
+| 1564 | 20 | Witty Matchfit |
+| 1565 | 20 | Bonita Alexander |
+| 1566 | 20 | Deborah Morey-avila |
+| 1567 | 20 | Rick Green |
+| 1568 | 20 | Valerie Roberts |
+| 1569 | 20 | Amanda Gann |
+| 1570 | 20 | Stacie Taylor |
+| 1571 | 20 | Bigbb |
+| 1572 | 20 | Adam Winters |
+| 1573 | 20 | Melanie Hernandez |
+| 1574 | 20 | Boldy Patterner |
+| 1575 | 20 | Mitsy Lang |
+| 1576 | 20 | Chris |
+| 1577 | 20 | Jamaica Flowers |
+| 1578 | 20 | Jenn Wittkamp |
+| 1579 | 20 | Kim Hoopes Townsend |
+| 1580 | 20 | JrsWife |
+| 1581 | 20 | Diamond Mitchell |
+| 1582 | 20 | Chummy Smasher |
+| 1583 | 20 | Twisty Glider |
+| 1584 | 20 | Ciera Adams |
+| 1585 | 20 | Jade007 |
+| 1586 | 20 | Daniel Flathers |
+| 1587 | 20 | KT Scott |
+| 1588 | 20 | Sandra Betz |
+| 1589 | 20 | Katie Thacker |
+| 1590 | 20 | Melissa Kinsley |
+| 1591 | 20 | Krickett M. Curtis |
+| 1592 | 20 | Spunky Riserfit |
+| 1593 | 20 | Shana Campbell |
+| 1594 | 20 | Deion Marshall |
+| 1595 | 19 | Stephanie Thompson |
+| 1596 | 19 | Kevin Osbourne |
+| 1597 | 19 | Chill Racker |
+| 1598 | 19 | Liliana Mills |
+| 1599 | 19 | Snazzy Racker |
+| 1600 | 19 | Clever Balancefit |
+| 1601 | 19 | Jodi Deninno |
+| 1602 | 19 | Milwaukee Area Cleaning |
+| 1603 | 19 | Ashley Bryant-hatcher |
+| 1604 | 19 | Tetra Maniac |
+| 1605 | 19 | Nicole Slimick |
+| 1606 | 19 | Jackie Hayslip |
+| 1607 | 19 | Lindsay Gregory |
+| 1608 | 19 | Tabitha Porter |
+| 1609 | 19 | latte |
+| 1610 | 19 | Chris Cooper |
+| 1611 | 19 | Alicia Abston |
+| 1612 | 19 | Sandra Kopas Stetka |
+| 1613 | 18 | Miggy Gonzalez |
+| 1614 | 18 | Glitzy Stackbuilder |
+| 1615 | 18 | Randy Clevenger |
+| 1616 | 18 | Steven Desmon Thompson |
+| 1617 | 18 | Brandi Lynn Tumey |
+| 1618 | 18 | bob |
+| 1619 | 18 | Taran Evans |
+| 1620 | 18 | Ashley Shazes |
+| 1621 | 18 | Frothy Line |
+| 1622 | 18 | Alison Welsh |
+| 1623 | 18 | Ashley Wolford |
+| 1624 | 18 | Rugrat Angi Bechstein |
+| 1625 | 18 | FabTeach |
+| 1626 | 18 | Squyrt |
+| 1627 | 18 | Piper Michael |
+| 1628 | 18 | Araiiya |
+| 1629 | 18 | Peachy Piecebuilder |
+| 1630 | 18 | Curley natioN |
+| 1631 | 18 | Tavia Teschendorf Sliffe |
+| 1632 | 18 | Daimien Jarem |
+| 1633 | 18 | Kris Lea |
+| 1634 | 18 | Cynthia Vornlocker |
+| 1635 | 18 | Crafty Dashgrid |
+| 1636 | 18 | Glitzy Linkfall |
+| 1637 | 18 | K2N |
+| 1638 | 18 | Dizzy Glidezone |
+| 1639 | 18 | Loony Glider |
+| 1640 | 18 | Anita Blackshear |
+| 1641 | 18 | Chrystal Rodriguez |
 | 1642 | 18 | Gen |
 | 1643 | 18 | Cathy Cobb |
 | 1644 | 18 | Pam Martin |
