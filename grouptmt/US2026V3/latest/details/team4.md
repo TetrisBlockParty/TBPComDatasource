@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:30:40 UTC
+# Standings for team4 as of 2026-06-07 08:31:17 UTC
 
 **Total Participants:** 1417
 
@@ -1191,93 +1191,93 @@
 | 1183 | 20 | Bren70 |
 | 1184 | 20 | Rebecca Watters |
 | 1185 | 19 | Archer Family Mayhem |
-| 1186 | 19 | Giggly Gridzone |
-| 1187 | 19 | Domenique Wilson |
-| 1188 | 19 | Redhead girl |
-| 1189 | 19 | Kariana Gonzalez Ortiz |
-| 1190 | 19 | Ashie |
-| 1191 | 18 | Angel Boges |
-| 1192 | 18 | Dewy |
-| 1193 | 18 | Jamie Legeness |
-| 1194 | 18 | Stacia Marie |
-| 1195 | 18 | Christine Raine Jalili |
-| 1196 | 18 | Gary Moore |
-| 1197 | 18 | Frilly Riserpiece |
-| 1198 | 18 | Alana Joe |
-| 1199 | 18 | Amina Walker |
+| 1186 | 19 | James Moore |
+| 1187 | 19 | Giggly Gridzone |
+| 1188 | 19 | Domenique Wilson |
+| 1189 | 19 | Redhead girl |
+| 1190 | 19 | Kariana Gonzalez Ortiz |
+| 1191 | 19 | Ashie |
+| 1192 | 18 | Angel Boges |
+| 1193 | 18 | Dewy |
+| 1194 | 18 | Jamie Legeness |
+| 1195 | 18 | Stacia Marie |
+| 1196 | 18 | Christine Raine Jalili |
+| 1197 | 18 | Gary Moore |
+| 1198 | 18 | Frilly Riserpiece |
+| 1199 | 18 | Alana Joe |
 | 1200 | 18 | Becca Milliron |
 | 1201 | 18 | Playboy916 |
 | 1202 | 18 | Glitter |
-| 1203 | 17 | Cecilia Hicks |
-| 1204 | 17 | Kennita Cox |
-| 1205 | 17 | happy cupcake |
-| 1206 | 17 | Erik Clary |
-| 1207 | 17 | Glitzy Crasher |
-| 1208 | 17 | Wali Muhammad |
-| 1209 | 17 | Crystal Morrin |
-| 1210 | 17 | Cody Richard |
-| 1211 | 17 | Shane Snyder |
-| 1212 | 16 | Mr.Corbin |
-| 1213 | 16 | Layne Davis |
-| 1214 | 16 | Dee Modest |
-| 1215 | 16 | Valerie Morrison |
-| 1216 | 16 | Kiaralis Ashley Hancock |
-| 1217 | 16 | Melissa Robinson |
-| 1218 | 16 | Dana Smith |
-| 1219 | 16 | Dandy Linkgrid |
-| 1220 | 16 | Katy Roman |
-| 1221 | 16 | Iesha Jefferson |
-| 1222 | 16 | Nissi |
-| 1223 | 16 | Fancy Tiley |
-| 1224 | 16 | Ashley McGeehan |
-| 1225 | 16 | Samantha Lohmeyer |
-| 1226 | 16 | LuLazer27 |
-| 1227 | 16 | EKM |
-| 1228 | 16 | Maliyah An |
-| 1229 | 16 | Pauline Cortez |
-| 1230 | 16 | Fumiko Demello |
-| 1231 | 16 | Bruce Hobbs |
-| 1232 | 15 | Speedy Rollbuilder |
-| 1233 | 15 | Kiara Johnson |
+| 1203 | 18 | Amina Walker |
+| 1204 | 17 | Cecilia Hicks |
+| 1205 | 17 | Erik Clary |
+| 1206 | 17 | Kennita Cox |
+| 1207 | 17 | happy cupcake |
+| 1208 | 17 | Glitzy Crasher |
+| 1209 | 17 | Wali Muhammad |
+| 1210 | 17 | Crystal Morrin |
+| 1211 | 17 | Cody Richard |
+| 1212 | 17 | Shane Snyder |
+| 1213 | 16 | Mr.Corbin |
+| 1214 | 16 | Layne Davis |
+| 1215 | 16 | Dee Modest |
+| 1216 | 16 | Valerie Morrison |
+| 1217 | 16 | Kiaralis Ashley Hancock |
+| 1218 | 16 | Nissi |
+| 1219 | 16 | Bruce Hobbs |
+| 1220 | 16 | Fancy Tiley |
+| 1221 | 16 | Fumiko Demello |
+| 1222 | 16 | Dana Smith |
+| 1223 | 16 | Dandy Linkgrid |
+| 1224 | 16 | Samantha Lohmeyer |
+| 1225 | 16 | Iesha Jefferson |
+| 1226 | 16 | Melissa Robinson |
+| 1227 | 16 | Katy Roman |
+| 1228 | 16 | LuLazer27 |
+| 1229 | 16 | Maliyah An |
+| 1230 | 16 | Pauline Cortez |
+| 1231 | 16 | Ashley McGeehan |
+| 1232 | 16 | EKM |
+| 1233 | 15 | Mumsy |
 | 1234 | 15 | Chris Abney |
 | 1235 | 15 | Chilly Glidezone |
-| 1236 | 15 | Mumsy |
-| 1237 | 15 | Chelsea Costa |
-| 1238 | 15 | Ash |
-| 1239 | 15 | Stacey Heartful |
-| 1240 | 15 | Jordan Tamayia Williams |
-| 1241 | 15 | Tricki Woo |
-| 1242 | 15 | Tha Don |
-| 1243 | 15 | Angela Correa |
-| 1244 | 15 | babygirlw |
-| 1245 | 15 | Wacky Clusterer |
-| 1246 | 15 | Nicole Gilmore |
-| 1247 | 15 | DuvaDova Ahava |
-| 1248 | 15 | Diana Acosta |
-| 1249 | 15 | Cas Gio |
-| 1250 | 15 | John Wertz |
-| 1251 | 15 | Hasty Grabber |
-| 1252 | 15 | Mandi Rexroat |
-| 1253 | 15 | Medrano Cruz Yaquelyn |
-| 1254 | 14 | mrsduke420 |
-| 1255 | 14 | G Money |
-| 1256 | 14 | Gellix |
-| 1257 | 14 | Breezy Striker |
-| 1258 | 14 | Erica Hardwick |
-| 1259 | 14 | Donovan Parmenter Gagne |
-| 1260 | 14 | Kathy Lindsay |
-| 1261 | 14 | Bookgirl69 |
-| 1262 | 14 | Tina Louise |
-| 1263 | 14 | Mighty Clicky |
-| 1264 | 14 | BreOunna Zonye Littleton |
-| 1265 | 14 | Tammy Santiago |
-| 1266 | 14 | Heather Crowe |
-| 1267 | 14 | James Moore |
+| 1236 | 15 | Ash |
+| 1237 | 15 | Stacey Heartful |
+| 1238 | 15 | Speedy Rollbuilder |
+| 1239 | 15 | Jordan Tamayia Williams |
+| 1240 | 15 | Kiara Johnson |
+| 1241 | 15 | Chelsea Costa |
+| 1242 | 15 | Tricki Woo |
+| 1243 | 15 | Tha Don |
+| 1244 | 15 | Angela Correa |
+| 1245 | 15 | babygirlw |
+| 1246 | 15 | Wacky Clusterer |
+| 1247 | 15 | Nicole Gilmore |
+| 1248 | 15 | DuvaDova Ahava |
+| 1249 | 15 | Diana Acosta |
+| 1250 | 15 | Cas Gio |
+| 1251 | 15 | John Wertz |
+| 1252 | 15 | Hasty Grabber |
+| 1253 | 15 | Mandi Rexroat |
+| 1254 | 15 | Medrano Cruz Yaquelyn |
+| 1255 | 14 | mrsduke420 |
+| 1256 | 14 | G Money |
+| 1257 | 14 | Gellix |
+| 1258 | 14 | Breezy Striker |
+| 1259 | 14 | Erica Hardwick |
+| 1260 | 14 | Donovan Parmenter Gagne |
+| 1261 | 14 | Tina Louise |
+| 1262 | 14 | Mighty Clicky |
+| 1263 | 14 | Bookgirl69 |
+| 1264 | 14 | Kathy Lindsay |
+| 1265 | 14 | BreOunna Zonye Littleton |
+| 1266 | 14 | Tammy Santiago |
+| 1267 | 14 | Heather Crowe |
 | 1268 | 14 | Heather Dornberger |
 | 1269 | 14 | Jolene Stieren |
 | 1270 | 13 | Frothy Pivotfall |
-| 1271 | 13 | Swanky Spinzone |
-| 1272 | 13 | Speedy Snapclear |
+| 1271 | 13 | Speedy Snapclear |
+| 1272 | 13 | Swanky Spinzone |
 | 1273 | 13 | Liz Aimé Acosta Guilarte |
 | 1274 | 13 | Jason Ervin |
 | 1275 | 13 | Tiffany Brooke |
@@ -1305,8 +1305,8 @@
 | 1297 | 11 | Karissa Bailey |
 | 1298 | 11 | Brooke |
 | 1299 | 11 | Amowe |
-| 1300 | 11 | Zanny |
-| 1301 | 11 | Matt Akm |
+| 1300 | 11 | Matt Akm |
+| 1301 | 11 | Zanny |
 | 1302 | 11 | Red |
 | 1303 | 11 | Bryan Odle |
 | 1304 | 11 | Teresa Lescinskas |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:30:40 UTC
+# Standings for team2 as of 2026-06-07 08:31:17 UTC
 
 **Total Participants:** 1680
 
@@ -346,8 +346,8 @@
 | 338 | 163 | Zany Cascader |
 | 339 | 162 | Amanda Bottorff |
 | 340 | 162 | Wacky Holder |
-| 341 | 161 | Silly Tiltbuilder |
-| 342 | 161 | Sassy Twistbuilder |
+| 341 | 162 | Sassy Twistbuilder |
+| 342 | 161 | Silly Tiltbuilder |
 | 343 | 161 | Erica South |
 | 344 | 160 | Melmel |
 | 345 | 160 | Elizabeth Cornelius |
@@ -355,8 +355,8 @@
 | 347 | 159 | Misty Noe |
 | 348 | 159 | Jennifer Vitro |
 | 349 | 159 | Jason Cunningham |
-| 350 | 158 | KazzyKay |
-| 351 | 158 | Rachel Nilles |
+| 350 | 158 | Rachel Nilles |
+| 351 | 158 | KazzyKay |
 | 352 | 157 | Spicy Snapclear |
 | 353 | 156 | Charlotte Castelli |
 | 354 | 156 | meg |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:30:40 UTC
+# Standings for team1 as of 2026-06-07 08:31:17 UTC
 
 **Total Participants:** 1425
 
@@ -182,7 +182,7 @@
 | 174 | 275 | Jawaun Daniels |
 | 175 | 275 | Chris Sladoje |
 | 176 | 274 | NastyFriend |
-| 177 | 260 | xXEKUNXx |
+| 177 | 270 | xXEKUNXx |
 | 178 | 260 | Ketrell Bailey |
 | 179 | 259 | Brave Clearbuilder |
 | 180 | 258 | Jayjay Rich |
@@ -230,22 +230,22 @@
 | 222 | 202 | Slinky Puzzler |
 | 223 | 201 | Bre Poston |
 | 224 | 200 | Christian Pham |
-| 225 | 199 | Fina McKinnis |
-| 226 | 198 | Robbie Cheeseman |
-| 227 | 197 | Steve Reno |
-| 228 | 197 | Smiley Clearpiece |
-| 229 | 196 | Chilly Wipebuilder |
-| 230 | 195 | Rayshawn Cohen |
-| 231 | 195 | Brittnay Wright |
-| 232 | 194 | Chuck Quarles |
-| 233 | 194 | Daris Swearington |
-| 234 | 193 | Mikayla |
-| 235 | 192 | Trina Greenwood |
-| 236 | 192 | Katherine Short |
-| 237 | 191 | Kelli Couture |
-| 238 | 191 | DaGuy |
-| 239 | 191 | Emily Wright |
-| 240 | 190 | Jenna Renee |
+| 225 | 200 | Jenna Renee |
+| 226 | 199 | Fina McKinnis |
+| 227 | 198 | Robbie Cheeseman |
+| 228 | 197 | Steve Reno |
+| 229 | 197 | Smiley Clearpiece |
+| 230 | 196 | Chilly Wipebuilder |
+| 231 | 195 | Rayshawn Cohen |
+| 232 | 195 | Brittnay Wright |
+| 233 | 194 | Chuck Quarles |
+| 234 | 194 | Daris Swearington |
+| 235 | 193 | Mikayla |
+| 236 | 192 | Trina Greenwood |
+| 237 | 192 | Katherine Short |
+| 238 | 191 | Kelli Couture |
+| 239 | 191 | DaGuy |
+| 240 | 191 | Emily Wright |
 | 241 | 189 | LaShaun Stinson |
 | 242 | 188 | Cheeky Pop |
 | 243 | 187 | Kenny MrOnethousand Peck |
