@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:24:41 UTC
+# Standings for team4 as of 2026-06-07 19:25:19 UTC
 
 **Total Participants:** 1583
 
@@ -104,14 +104,14 @@
 | 96 | 693 | Hairy Snake |
 | 97 | 692 | Jeremy Lopez |
 | 98 | 678 | Jenn Fitzgerald |
-| 99 | 676 | GeorgeButts |
-| 100 | 668 | Kay |
-| 101 | 664 | adrian |
-| 102 | 651 | Jason Garnatz |
-| 103 | 641 | Tommy Bond |
-| 104 | 637 | Gracie Ornelas |
-| 105 | 622 | Lynn Grimes |
-| 106 | 618 | Tina Shalay Hayes |
+| 99 | 676 | Tina Shalay Hayes |
+| 100 | 676 | GeorgeButts |
+| 101 | 668 | Kay |
+| 102 | 664 | adrian |
+| 103 | 651 | Jason Garnatz |
+| 104 | 641 | Tommy Bond |
+| 105 | 637 | Gracie Ornelas |
+| 106 | 622 | Lynn Grimes |
 | 107 | 610 | Dandy Clearfit |
 | 108 | 593 | Caitlyn Wang |
 | 109 | 576 | Irma |
@@ -120,8 +120,8 @@
 | 112 | 555 | iiPurgeV2 |
 | 113 | 550 | Nicole Peoples |
 | 114 | 534 | vag1974 |
-| 115 | 530 | CJ |
-| 116 | 530 | Jewelz |
+| 115 | 530 | Jewelz |
+| 116 | 530 | CJ |
 | 117 | 528 | Katie Lynn Petit |
 | 118 | 521 | Misty Leigh |
 | 119 | 520 | Kim |
@@ -310,13 +310,13 @@
 | 302 | 181 | Ashley Mcdonald |
 | 303 | 180 | Goofy Linkmatch |
 | 304 | 180 | ariel |
-| 305 | 180 | Cindy |
-| 306 | 179 | LaTanya GeminiondaRise Johnson |
-| 307 | 178 | Jacqueline Jackii Ramos |
-| 308 | 178 | Tamara Triplet |
-| 309 | 178 | Joseph Hunter |
-| 310 | 177 | Sandra Stark |
-| 311 | 177 | kellie |
+| 305 | 180 | kellie |
+| 306 | 180 | Cindy |
+| 307 | 179 | LaTanya GeminiondaRise Johnson |
+| 308 | 178 | Jacqueline Jackii Ramos |
+| 309 | 178 | Tamara Triplet |
+| 310 | 178 | Joseph Hunter |
+| 311 | 177 | Sandra Stark |
 | 312 | 176 | Smiley Gridzone |
 | 313 | 176 | Jumpy Builderpiece |
 | 314 | 176 | Chonda OhanaMomma Michelle |
