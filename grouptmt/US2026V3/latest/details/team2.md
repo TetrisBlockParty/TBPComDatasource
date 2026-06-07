@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:20:18 UTC
+# Standings for team2 as of 2026-06-07 11:20:42 UTC
 
 **Total Participants:** 1705
 
@@ -29,8 +29,8 @@
 | 21 | 3812 | Crystal M Sowden |
 | 22 | 3707 | Renee Weedling |
 | 23 | 3514 | Traci Elizabeth |
-| 24 | 3181 | Bobbi |
-| 25 | 3148 | Kathleen M Cox |
+| 24 | 3198 | Kathleen M Cox |
+| 25 | 3181 | Bobbi |
 | 26 | 3100 | Danni Campa |
 | 27 | 3090 | Spunky Clicker |
 | 28 | 3076 | Ashley Miller |
@@ -418,9 +418,9 @@
 | 410 | 136 | Lauren Maxwell |
 | 411 | 136 | Mtnblzr |
 | 412 | 135 | Naomi Walker |
-| 413 | 133 | Sandy Justus |
-| 414 | 133 | Angela Hogan |
-| 415 | 133 | TetrisMama |
+| 413 | 134 | TetrisMama |
+| 414 | 133 | Sandy Justus |
+| 415 | 133 | Angela Hogan |
 | 416 | 132 | Reign Hustler |
 | 417 | 132 | Ava Speedy |
 | 418 | 132 | Raine |
