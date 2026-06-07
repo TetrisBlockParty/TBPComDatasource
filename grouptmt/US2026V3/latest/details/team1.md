@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 20:43:18 UTC
+# Standings for team1 as of 2026-06-07 20:44:18 UTC
 
 **Total Participants:** 1574
 
@@ -91,7 +91,7 @@
 | 83 | 764 | Joy Citizen Pickney |
 | 84 | 763 | Richard Horton |
 | 85 | 749 | Aviv Zehavi |
-| 86 | 742 | Moomoo |
+| 86 | 748 | Moomoo |
 | 87 | 740 | Dawn L Washington-Feuquay |
 | 88 | 734 | MamaBear |
 | 89 | 728 | PandaPrincess |
@@ -800,68 +800,68 @@
 | 792 | 66 | Sylvia Offically A Mcgowan |
 | 793 | 66 | GracefulOwl808 |
 | 794 | 66 | Letrishia Andrews |
-| 795 | 65 | Rande Smith |
-| 796 | 65 | LAdYPOLy |
-| 797 | 65 | Trixie |
-| 798 | 65 | Tesiree Cray |
-| 799 | 65 | Khatyrah Burnette |
-| 800 | 65 | Renee J. Thomas |
-| 801 | 65 | Vonda House |
-| 802 | 65 | Furlough Leslie |
-| 803 | 64 | Tomme Poliwka |
-| 804 | 64 | Elaine Youmans |
-| 805 | 64 | Marbama |
-| 806 | 63 | Tony P Burke |
-| 807 | 63 | Tip318 |
-| 808 | 63 | Gary Kyle |
-| 809 | 63 | Heather Wilson |
-| 810 | 63 | Poppy Smasher |
-| 811 | 63 | Natasha Harris |
-| 812 | 63 | Ahsokadog |
-| 813 | 63 | Shawna Passwater |
-| 814 | 63 | Tonny Williams |
-| 815 | 63 | Ounquan Wright |
-| 816 | 63 | Jason Saputo |
-| 817 | 62 | Bunnie Celtavini |
-| 818 | 62 | Amihan |
-| 819 | 62 | Quwana Hall |
+| 795 | 66 | Undeniable Williams |
+| 796 | 65 | Rande Smith |
+| 797 | 65 | LAdYPOLy |
+| 798 | 65 | Trixie |
+| 799 | 65 | Tesiree Cray |
+| 800 | 65 | Khatyrah Burnette |
+| 801 | 65 | Renee J. Thomas |
+| 802 | 65 | Vonda House |
+| 803 | 65 | Furlough Leslie |
+| 804 | 64 | Tomme Poliwka |
+| 805 | 64 | Elaine Youmans |
+| 806 | 64 | Marbama |
+| 807 | 63 | Tony P Burke |
+| 808 | 63 | Tip318 |
+| 809 | 63 | Gary Kyle |
+| 810 | 63 | Heather Wilson |
+| 811 | 63 | Poppy Smasher |
+| 812 | 63 | Natasha Harris |
+| 813 | 63 | Ahsokadog |
+| 814 | 63 | Shawna Passwater |
+| 815 | 63 | Tonny Williams |
+| 816 | 63 | Ounquan Wright |
+| 817 | 63 | Jason Saputo |
+| 818 | 62 | Nedine Ray |
+| 819 | 62 | Amihan |
 | 820 | 62 | Shona ShayShay Jones |
-| 821 | 62 | Spicy Hedgehog |
+| 821 | 62 | Quwana Hall |
 | 822 | 62 | Tia Hazelton |
-| 823 | 62 | Delitra Perkins Hatter |
-| 824 | 62 | Nedine Ray |
+| 823 | 62 | AshMo |
+| 824 | 62 | Chris Rogers |
 | 825 | 62 | S.S |
-| 826 | 62 | Cj Chimelis |
-| 827 | 62 | Chris Rogers |
-| 828 | 62 | AshMo |
-| 829 | 61 | Tonya Thomas |
-| 830 | 60 | Haakuu |
-| 831 | 60 | Dianne Clagon |
-| 832 | 60 | Stanley Dixon |
-| 833 | 60 | Pinky Pink |
-| 834 | 60 | Tanesha Ga'sFinest Corbett |
-| 835 | 60 | Laysa Nunez |
-| 836 | 60 | Demi Ovalle |
-| 837 | 60 | Tyrone Porter |
-| 838 | 60 | Jennifer Endean |
-| 839 | 60 | Missy Myvette |
-| 840 | 60 | Juan Lewis |
-| 841 | 60 | Tellisa Payne |
-| 842 | 60 | Undeniable Williams |
-| 843 | 60 | lizlizliz |
-| 844 | 60 | SherylU |
-| 845 | 60 | lookin |
-| 846 | 60 | Yellowguy3 |
-| 847 | 60 | Swanky Glide |
+| 826 | 62 | Delitra Perkins Hatter |
+| 827 | 62 | Cj Chimelis |
+| 828 | 62 | Spicy Hedgehog |
+| 829 | 62 | Bunnie Celtavini |
+| 830 | 61 | Tonya Thomas |
+| 831 | 60 | Swanky Glide |
+| 832 | 60 | Yellowguy3 |
+| 833 | 60 | Juan Lewis |
+| 834 | 60 | Missy Myvette |
+| 835 | 60 | Pinky Pink |
+| 836 | 60 | Tellisa Payne |
+| 837 | 60 | Stanley Dixon |
+| 838 | 60 | Dianne Clagon |
+| 839 | 60 | Haakuu |
+| 840 | 60 | lizlizliz |
+| 841 | 60 | SherylU |
+| 842 | 60 | Tanesha Ga'sFinest Corbett |
+| 843 | 60 | Laysa Nunez |
+| 844 | 60 | Malcolm Stanley |
+| 845 | 60 | Jennifer Endean |
+| 846 | 60 | Demi Ovalle |
+| 847 | 60 | lookin |
 | 848 | 60 | Andy Rivera |
-| 849 | 60 | Malcolm Stanley |
-| 850 | 59 | squints |
-| 851 | 59 | Sweet BayBee |
-| 852 | 59 | Teresa Menefee |
-| 853 | 59 | Tamyka E Williams |
-| 854 | 59 | Andrea Jackson |
-| 855 | 59 | Erica Campbell-Stillings |
-| 856 | 59 | Wacky Spinfit |
+| 849 | 60 | Tyrone Porter |
+| 850 | 59 | Wacky Spinfit |
+| 851 | 59 | Teresa Menefee |
+| 852 | 59 | Sweet BayBee |
+| 853 | 59 | squints |
+| 854 | 59 | Erica Campbell-Stillings |
+| 855 | 59 | Andrea Jackson |
+| 856 | 59 | Tamyka E Williams |
 | 857 | 59 | Sugar Foot |
 | 858 | 59 | Parris Wright |
 | 859 | 59 | Darrel Pemberton |
@@ -942,14 +942,14 @@
 | 934 | 49 | Brika Brika |
 | 935 | 49 | Ķïrãã Ďãvïss |
 | 936 | 49 | Macho Lewis |
-| 937 | 48 | Bubbly Crawler |
-| 938 | 48 | jaz |
-| 939 | 48 | Melanie Houghton-McCann |
-| 940 | 48 | Davina Valentino |
-| 941 | 48 | LoveLee |
-| 942 | 48 | Eli Delao |
-| 943 | 48 | P C |
-| 944 | 47 | AnnaM |
+| 937 | 48 | AnnaM |
+| 938 | 48 | Bubbly Crawler |
+| 939 | 48 | jaz |
+| 940 | 48 | Melanie Houghton-McCann |
+| 941 | 48 | Davina Valentino |
+| 942 | 48 | LoveLee |
+| 943 | 48 | Eli Delao |
+| 944 | 48 | P C |
 | 945 | 47 | Austin Smith |
 | 946 | 47 | Jodie |
 | 947 | 47 | Taylor Jordan Hollis |
