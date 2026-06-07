@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:20:44 UTC
+# Standings for team1 as of 2026-06-07 21:21:19 UTC
 
 **Total Participants:** 1581
 
@@ -87,8 +87,8 @@
 | 79 | 873 | Janine Hunter |
 | 80 | 860 | IamJust Neyamijah Washington Sr. |
 | 81 | 804 | Jazzy Dashpiece |
-| 82 | 784 | Todd C. Clemens |
-| 83 | 780 | Chenell Gillard |
+| 82 | 800 | Chenell Gillard |
+| 83 | 784 | Todd C. Clemens |
 | 84 | 776 | Jaida De'Anne Cox |
 | 85 | 764 | Joy Citizen Pickney |
 | 86 | 763 | Richard Horton |
@@ -160,22 +160,22 @@
 | 152 | 401 | Shell Lewis |
 | 153 | 391 | Frisky Fallmatch |
 | 154 | 389 | Roberta Lynn |
-| 155 | 389 | Tammye Turner |
-| 156 | 389 | GrkGdess |
+| 155 | 389 | GrkGdess |
+| 156 | 389 | Tammye Turner |
 | 157 | 387 | Crystal Anderson |
 | 158 | 384 | Christana Imjustbutton Stone |
 | 159 | 383 | Sheila Burnham |
 | 160 | 380 | Dulo |
-| 161 | 377 | Jenna Renee |
+| 161 | 380 | Felicia Cain |
 | 162 | 377 | AF Cruz |
-| 163 | 370 | Allison Baxter |
-| 164 | 367 | Leebo Slice |
-| 165 | 367 | Lashaunda |
-| 166 | 365 | Simmone T. Kadiri |
-| 167 | 365 | Tishauna Virgo |
-| 168 | 363 | Christina Rebecca |
-| 169 | 361 | John Staub |
-| 170 | 360 | Felicia Cain |
+| 163 | 377 | Jenna Renee |
+| 164 | 370 | Allison Baxter |
+| 165 | 367 | Leebo Slice |
+| 166 | 367 | Lashaunda |
+| 167 | 365 | Simmone T. Kadiri |
+| 168 | 365 | Tishauna Virgo |
+| 169 | 363 | Christina Rebecca |
+| 170 | 361 | John Staub |
 | 171 | 359 | pooh |
 | 172 | 353 | Chuck Quarles |
 | 173 | 351 | Haley Bell |
@@ -215,9 +215,9 @@
 | 207 | 293 | Tonya Lee Sanders |
 | 208 | 292 | Trina Greenwood |
 | 209 | 291 | Brian Taylor |
-| 210 | 290 | Kaleisha Smith |
-| 211 | 290 | Davionte DaeDae Hopson-Rodriguez |
-| 212 | 289 | Zachary Colegrove |
+| 210 | 290 | Zachary Colegrove |
+| 211 | 290 | Kaleisha Smith |
+| 212 | 290 | Davionte DaeDae Hopson-Rodriguez |
 | 213 | 289 | Cortaz Lawrie |
 | 214 | 289 | Brave Clearbuilder |
 | 215 | 288 | Block King |
@@ -330,10 +330,10 @@
 | 322 | 183 | Mary Phillippi Blanton |
 | 323 | 180 | Eric Spencer Whitaker |
 | 324 | 180 | Zippy Lifter |
-| 325 | 180 | Daddy |
-| 326 | 179 | Brand Nu |
-| 327 | 179 | Lively Riserpiece |
-| 328 | 177 | LaToya Chambers |
+| 325 | 180 | LaToya Chambers |
+| 326 | 180 | Daddy |
+| 327 | 179 | Brand Nu |
+| 328 | 179 | Lively Riserpiece |
 | 329 | 177 | Valerie Alexander |
 | 330 | 175 | Amy Lynn Leifheit |
 | 331 | 174 | ChunLi |
@@ -667,58 +667,58 @@
 | 659 | 85 | Eric Machuca |
 | 660 | 85 | Desi Guerra |
 | 661 | 85 | De'Mear McKinney |
-| 662 | 85 | Sarah Swietlicki - Lopez |
-| 663 | 85 | Ashlie Mo |
-| 664 | 85 | TotoCherue |
-| 665 | 85 | Bobby Chestefield |
-| 666 | 84 | Dawn Basemore |
-| 667 | 84 | Saucy Faller |
-| 668 | 84 | Jack Mehof |
-| 669 | 84 | Franklin Sotelo |
-| 670 | 84 | TRUBBLE45 |
+| 662 | 85 | Bobby Chestefield |
+| 663 | 85 | Sarah Swietlicki - Lopez |
+| 664 | 85 | Ashlie Mo |
+| 665 | 85 | TotoCherue |
+| 666 | 84 | Franklin Sotelo |
+| 667 | 84 | Jack Mehof |
+| 668 | 84 | Saucy Faller |
+| 669 | 84 | TRUBBLE45 |
+| 670 | 84 | Dawn Basemore |
 | 671 | 84 | Just2Play$ |
-| 672 | 83 | Chris Nelson |
-| 673 | 83 | Sandra Mims |
-| 674 | 83 | MrsMeadows2019 |
+| 672 | 83 | Ryan Runyan |
+| 673 | 83 | MrsMeadows2019 |
+| 674 | 83 | Sandra Mims |
 | 675 | 83 | John C Sexton |
-| 676 | 82 | Duncan Timothy |
-| 677 | 82 | Kim Holzmiller |
+| 676 | 83 | Chris Nelson |
+| 677 | 82 | Dana Hawes |
 | 678 | 82 | Johnathan Deese |
-| 679 | 82 | Dana Hawes |
-| 680 | 81 | Samona Mcculler |
-| 681 | 81 | Angela L Charles |
-| 682 | 81 | Kizzy Clark |
-| 683 | 80 | PSD |
-| 684 | 80 | NedaWin |
-| 685 | 80 | SherylU |
-| 686 | 80 | Big Bovice |
-| 687 | 80 | Charles Johnson |
-| 688 | 80 | Amaadi Ward |
-| 689 | 80 | Tory Miller |
-| 690 | 80 | Kamilya Rembert |
-| 691 | 80 | Keith Big-Sixx Mackell |
-| 692 | 80 | Chereese Harris |
-| 693 | 80 | Kanary Karotz |
-| 694 | 80 | Kimberly Noble |
-| 695 | 80 | Victoria Smith |
-| 696 | 80 | Lady Scorpio |
-| 697 | 80 | Latore Maxie |
-| 698 | 80 | Gerold Folk Haddock |
-| 699 | 80 | Yashicha Hertzock |
-| 700 | 80 | Christopher L Crites |
-| 701 | 80 | Chevalier Burley |
-| 702 | 80 | StingerD |
-| 703 | 80 | Lisa420 |
+| 679 | 82 | Duncan Timothy |
+| 680 | 82 | Kim Holzmiller |
+| 681 | 81 | Samona Mcculler |
+| 682 | 81 | Angela L Charles |
+| 683 | 81 | Kizzy Clark |
+| 684 | 80 | Tory Miller |
+| 685 | 80 | Keith Big-Sixx Mackell |
+| 686 | 80 | Charles Johnson |
+| 687 | 80 | Big Bovice |
+| 688 | 80 | PSD |
+| 689 | 80 | NedaWin |
+| 690 | 80 | SherylU |
+| 691 | 80 | Amaadi Ward |
+| 692 | 80 | Kamilya Rembert |
+| 693 | 80 | Chereese Harris |
+| 694 | 80 | Kanary Karotz |
+| 695 | 80 | Kimberly Noble |
+| 696 | 80 | Victoria Smith |
+| 697 | 80 | Lady Scorpio |
+| 698 | 80 | Latore Maxie |
+| 699 | 80 | Gerold Folk Haddock |
+| 700 | 80 | Yashicha Hertzock |
+| 701 | 80 | Christopher L Crites |
+| 702 | 80 | Chevalier Burley |
+| 703 | 80 | StingerD |
 | 704 | 80 | Lauren Farkas |
-| 705 | 79 | Montréal Mars |
-| 706 | 79 | Felicia Woods |
-| 707 | 79 | Evette Moreno |
-| 708 | 79 | Danny M GR |
-| 709 | 79 | Casey Chapman |
+| 705 | 80 | Lisa420 |
+| 706 | 79 | Casey Chapman |
+| 707 | 79 | Felicia Woods |
+| 708 | 79 | Evette Moreno |
+| 709 | 79 | Danny M GR |
 | 710 | 79 | Christy Quick |
-| 711 | 78 | Dirty Deeds |
-| 712 | 78 | Callie Mae |
-| 713 | 78 | Ryan Runyan |
+| 711 | 79 | Montréal Mars |
+| 712 | 78 | Dirty Deeds |
+| 713 | 78 | Callie Mae |
 | 714 | 78 | Solomon Valarie |
 | 715 | 78 | Krystal Maynard |
 | 716 | 78 | Kahh |
