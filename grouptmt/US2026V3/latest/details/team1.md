@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:44:18 UTC
+# Standings for team1 as of 2026-06-07 04:44:40 UTC
 
 **Total Participants:** 1351
 
@@ -88,8 +88,8 @@
 | 80 | 688 | Dawn L Washington-Feuquay |
 | 81 | 678 | No_Other_Choice |
 | 82 | 660 | Eartha Brown |
-| 83 | 645 | Ebo Got-Time |
-| 84 | 641 | Bre Maugh |
+| 83 | 651 | Bre Maugh |
+| 84 | 645 | Ebo Got-Time |
 | 85 | 628 | Chirpy Corner |
 | 86 | 620 | IamJust Neyamijah Washington Sr. |
 | 87 | 601 | JaszyBadd |
@@ -194,12 +194,12 @@
 | 186 | 241 | Byron Mario Cawthon |
 | 187 | 241 | SyTheEvilGenius1 |
 | 188 | 240 | Rayya Kiser |
-| 189 | 237 | David Fuentes |
-| 190 | 236 | IThinkNot |
-| 191 | 236 | Nutty Spinblock |
-| 192 | 235 | Michele Simpson |
-| 193 | 234 | Eugina Slater |
-| 194 | 233 | Christina Rebecca |
+| 189 | 238 | Christina Rebecca |
+| 190 | 237 | David Fuentes |
+| 191 | 236 | IThinkNot |
+| 192 | 236 | Nutty Spinblock |
+| 193 | 235 | Michele Simpson |
+| 194 | 234 | Eugina Slater |
 | 195 | 228 | Dacia Hicks |
 | 196 | 227 | Therealdywoune Peay |
 | 197 | 225 | Rhonda Williams Warner |
