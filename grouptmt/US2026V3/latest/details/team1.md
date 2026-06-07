@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:06:19 UTC
+# Standings for team1 as of 2026-06-07 19:06:41 UTC
 
 **Total Participants:** 1544
 
@@ -629,79 +629,79 @@
 | 621 | 85 | De'Mear McKinney |
 | 622 | 85 | Sarah Swietlicki - Lopez |
 | 623 | 85 | rb |
-| 624 | 85 | Barbramerri Tarboro |
-| 625 | 85 | Sonia Binti Mfalme |
-| 626 | 85 | Amy Villalpando |
-| 627 | 85 | TotoCherue |
-| 628 | 84 | Jack Mehof |
-| 629 | 84 | Angela Brown Babin |
-| 630 | 84 | Saucy Faller |
-| 631 | 84 | Franklin Sotelo |
-| 632 | 84 | Desi Guerra |
-| 633 | 84 | Dawn Basemore |
-| 634 | 84 | Just2Play$ |
-| 635 | 83 | Montego Allen |
-| 636 | 83 | MrsMeadows2019 |
-| 637 | 83 | Sandra Mims |
-| 638 | 83 | Antoinette Kelly |
-| 639 | 83 | Chris Nelson |
-| 640 | 83 | John C Sexton |
-| 641 | 83 | Kimmie Gargano |
-| 642 | 82 | akosua |
-| 643 | 82 | OhNoZer0 |
-| 644 | 82 | Duncan Timothy |
+| 624 | 85 | akosua |
+| 625 | 85 | Barbramerri Tarboro |
+| 626 | 85 | Sonia Binti Mfalme |
+| 627 | 85 | Amy Villalpando |
+| 628 | 85 | TotoCherue |
+| 629 | 84 | Jack Mehof |
+| 630 | 84 | Angela Brown Babin |
+| 631 | 84 | Saucy Faller |
+| 632 | 84 | Franklin Sotelo |
+| 633 | 84 | Just2Play$ |
+| 634 | 84 | Dawn Basemore |
+| 635 | 84 | Desi Guerra |
+| 636 | 83 | Montego Allen |
+| 637 | 83 | Antoinette Kelly |
+| 638 | 83 | Kimmie Gargano |
+| 639 | 83 | John C Sexton |
+| 640 | 83 | Chris Nelson |
+| 641 | 83 | Sandra Mims |
+| 642 | 83 | MrsMeadows2019 |
+| 643 | 82 | Duncan Timothy |
+| 644 | 82 | OhNoZer0 |
 | 645 | 82 | Johnathan Deese |
-| 646 | 81 | TRUBBLE45 |
-| 647 | 81 | Kizzy Clark |
-| 648 | 81 | Angela L Charles |
-| 649 | 81 | Pj Rojas |
-| 650 | 81 | Sara |
+| 646 | 81 | Angela L Charles |
+| 647 | 81 | Sara |
+| 648 | 81 | Pj Rojas |
+| 649 | 81 | TRUBBLE45 |
+| 650 | 81 | Kizzy Clark |
 | 651 | 81 | Samona Mcculler |
-| 652 | 80 | NedaWin |
-| 653 | 80 | Yashicha Hertzock |
-| 654 | 80 | Charles Johnson |
-| 655 | 80 | Lady Scorpio |
-| 656 | 80 | Lisa420 |
-| 657 | 80 | Cynthia Bradley |
-| 658 | 80 | Tory Miller |
-| 659 | 80 | Kamilya Rembert |
-| 660 | 80 | Kanary Karotz |
-| 661 | 80 | Tracey Johnson |
-| 662 | 80 | Chevalier Burley |
-| 663 | 80 | Victoria Smith |
-| 664 | 80 | Keith Big-Sixx Mackell |
-| 665 | 80 | Lauren Farkas |
-| 666 | 80 | Big Bovice |
-| 667 | 80 | Chereese Harris |
-| 668 | 80 | Christopher L Crites |
-| 669 | 80 | Kp |
-| 670 | 80 | Gerold Folk Haddock |
-| 671 | 80 | Kimberly Noble |
-| 672 | 80 | PSD |
-| 673 | 80 | Latore Maxie |
-| 674 | 80 | Amaadi Ward |
-| 675 | 79 | Evette Moreno |
-| 676 | 79 | TY Newme Batts |
+| 652 | 80 | Lauren Farkas |
+| 653 | 80 | Big Bovice |
+| 654 | 80 | Gerold Folk Haddock |
+| 655 | 80 | Kp |
+| 656 | 80 | Chereese Harris |
+| 657 | 80 | Yashicha Hertzock |
+| 658 | 80 | NedaWin |
+| 659 | 80 | Charles Johnson |
+| 660 | 80 | Kamilya Rembert |
+| 661 | 80 | Kanary Karotz |
+| 662 | 80 | Keith Big-Sixx Mackell |
+| 663 | 80 | Lisa420 |
+| 664 | 80 | Cynthia Bradley |
+| 665 | 80 | Victoria Smith |
+| 666 | 80 | Tory Miller |
+| 667 | 80 | Chevalier Burley |
+| 668 | 80 | Amaadi Ward |
+| 669 | 80 | Christopher L Crites |
+| 670 | 80 | Latore Maxie |
+| 671 | 80 | Tracey Johnson |
+| 672 | 80 | Lady Scorpio |
+| 673 | 80 | PSD |
+| 674 | 80 | Kimberly Noble |
+| 675 | 79 | Kyra Coleman |
+| 676 | 79 | Kim Holzmiller |
 | 677 | 79 | Danny M GR |
 | 678 | 79 | Montréal Mars |
-| 679 | 79 | Kim Holzmiller |
-| 680 | 79 | Kyra Coleman |
-| 681 | 78 | Krystal Maynard |
-| 682 | 78 | Callie Mae |
-| 683 | 78 | Azeiare Ziare |
-| 684 | 78 | Solomon Valarie |
-| 685 | 78 | Smiley3000 |
-| 686 | 78 | Kahh |
-| 687 | 78 | Ryan Runyan |
+| 679 | 79 | Evette Moreno |
+| 680 | 79 | TY Newme Batts |
+| 681 | 78 | Kahh |
+| 682 | 78 | Ryan Runyan |
+| 683 | 78 | Smiley3000 |
+| 684 | 78 | Krystal Maynard |
+| 685 | 78 | Callie Mae |
+| 686 | 78 | Azeiare Ziare |
+| 687 | 78 | Solomon Valarie |
 | 688 | 78 | Dirty Deeds |
 | 689 | 77 | Ysma Simmons |
-| 690 | 77 | EvaLynn NeCole |
-| 691 | 77 | DellaLucretia Thomas |
-| 692 | 77 | Casey Chapman |
-| 693 | 77 | Dana Hawes |
-| 694 | 76 | Giggly Shatterline |
+| 690 | 77 | Casey Chapman |
+| 691 | 77 | Dana Hawes |
+| 692 | 77 | EvaLynn NeCole |
+| 693 | 77 | DellaLucretia Thomas |
+| 694 | 76 | Earl Williams |
 | 695 | 76 | lady |
-| 696 | 76 | Earl Williams |
+| 696 | 76 | Giggly Shatterline |
 | 697 | 76 | LaSharon Jackson |
 | 698 | 76 | Shakmar |
 | 699 | 75 | Angie Lebron |
