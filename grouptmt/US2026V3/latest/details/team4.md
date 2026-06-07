@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:50:20 UTC
+# Standings for team4 as of 2026-06-07 19:50:41 UTC
 
 **Total Participants:** 1590
 
@@ -22,8 +22,8 @@
 | 14 | 4633 | Bubbly Twistpiece |
 | 15 | 4476 | Squirrel Donkey |
 | 16 | 4363 | t |
-| 17 | 4334 | Nia Mayfield |
-| 18 | 4286 | Chris Hills |
+| 17 | 4351 | Chris Hills |
+| 18 | 4334 | Nia Mayfield |
 | 19 | 4139 | Bryony Nicholson |
 | 20 | 4054 | Witty Clicky |
 | 21 | 3954 | Jackie Lucas |
@@ -297,8 +297,8 @@
 | 289 | 190 | Morgan Stevens |
 | 290 | 190 | Lora Schallert |
 | 291 | 188 | Mark Norton |
-| 292 | 188 | Jumpy Builderpiece |
-| 293 | 188 | Lee Ann Gibby |
+| 292 | 188 | Lee Ann Gibby |
+| 293 | 188 | Jumpy Builderpiece |
 | 294 | 188 | Logan Two-dubs Baker |
 | 295 | 187 | Kelly Howland |
 | 296 | 187 | Tipsy Builderline |
@@ -307,9 +307,9 @@
 | 299 | 185 | Dae Von |
 | 300 | 185 | Britney Kitora |
 | 301 | 184 | Rachel Lemos |
-| 302 | 184 | bollo |
-| 303 | 183 | Brandy Lynn |
-| 304 | 182 | Snazzy Corner |
+| 302 | 184 | Snazzy Corner |
+| 303 | 184 | bollo |
+| 304 | 183 | Brandy Lynn |
 | 305 | 182 | Swanky Snapgrid |
 | 306 | 181 | Ashley Mcdonald |
 | 307 | 181 | Mark Fitch Jr. |
