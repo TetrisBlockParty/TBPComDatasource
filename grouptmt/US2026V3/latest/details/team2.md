@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:02:18 UTC
+# Standings for team2 as of 2026-06-07 09:02:41 UTC
 
 **Total Participants:** 1686
 
@@ -90,25 +90,25 @@
 | 82 | 818 | Lily |
 | 83 | 802 | Charley Bedford |
 | 84 | 800 | Renee Freeman Jacobson |
-| 85 | 799 | Marie Luciano |
-| 86 | 799 | Poppy |
-| 87 | 799 | Elizabeth Sallas |
+| 85 | 799 | Elizabeth Sallas |
+| 86 | 799 | Marie Luciano |
+| 87 | 799 | Poppy |
 | 88 | 774 | Deborah Boyce Minor |
 | 89 | 771 | Charlie Wilson |
 | 90 | 766 | Sarah Griffey |
 | 91 | 757 | Jazzy Faller |
 | 92 | 750 | Denise Potter |
 | 93 | 749 | Brandi Thompson |
-| 94 | 721 | Smiley Dropper |
-| 95 | 721 | Hoppy Rotate |
+| 94 | 721 | Hoppy Rotate |
+| 95 | 721 | Smiley Dropper |
 | 96 | 708 | Nerdy Climber |
 | 97 | 685 | Sigmamom |
 | 98 | 666 | Epic Frame |
 | 99 | 656 | Loopy Cascadepiece |
 | 100 | 654 | Bon Lynn |
 | 101 | 639 | Alison Waller |
-| 102 | 632 | Allie Bug |
-| 103 | 632 | Wmk Rathbun |
+| 102 | 632 | Wmk Rathbun |
+| 103 | 632 | Allie Bug |
 | 104 | 629 | Mirr Lulu |
 | 105 | 627 | Le Sandy |
 | 106 | 620 | Amber-leigh Williams |
@@ -121,8 +121,8 @@
 | 113 | 578 | Krisanne Kesner-Lonsby |
 | 114 | 577 | Lindsay Klemp |
 | 115 | 574 | Brandy McCune Reep |
-| 116 | 563 | Tisha Hairston |
-| 117 | 563 | Allison Jarman |
+| 116 | 563 | Allison Jarman |
+| 117 | 563 | Tisha Hairston |
 | 118 | 553 | Jamie Jones |
 | 119 | 549 | Kathleen Dumbazz |
 | 120 | 547 | Nettrainer |
@@ -131,9 +131,9 @@
 | 123 | 528 | Amanda Sikes |
 | 124 | 516 | Amber Miller Wirick |
 | 125 | 515 | Loony Faller |
-| 126 | 500 | Courtney McCulley |
-| 127 | 500 | Suki Kaur |
-| 128 | 500 | Jackie Tupper |
+| 126 | 504 | Jackie Tupper |
+| 127 | 500 | Courtney McCulley |
+| 128 | 500 | Suki Kaur |
 | 129 | 483 | Karen Reid Cenkush |
 | 130 | 477 | Amy Gale |
 | 131 | 476 | snowwol |
@@ -150,8 +150,8 @@
 | 142 | 417 | Jenny Graham |
 | 143 | 416 | Suki Jacobs |
 | 144 | 411 | MarioKarasovic |
-| 145 | 408 | Ashley Green |
-| 146 | 408 | Zarah Kettler |
+| 145 | 408 | Zarah Kettler |
+| 146 | 408 | Ashley Green |
 | 147 | 404 | Jgato |
 | 148 | 393 | DomDomsNana |
 | 149 | 390 | La chulis |
@@ -165,10 +165,10 @@
 | 157 | 365 | Branden Frankowski |
 | 158 | 362 | Nutty Curver |
 | 159 | 360 | Jacob Carpenter |
-| 160 | 357 | Crystal Allen |
-| 161 | 357 | Erin Thomas |
-| 162 | 356 | Lisa Underwood Desmond |
-| 163 | 356 | Joni Michelle Morgan |
+| 160 | 357 | Erin Thomas |
+| 161 | 357 | Crystal Allen |
+| 162 | 356 | Joni Michelle Morgan |
+| 163 | 356 | Lisa Underwood Desmond |
 | 164 | 354 | Zesty Strikerbuilder |
 | 165 | 348 | Eric Drane |
 | 166 | 344 | Traci Abern |
@@ -180,15 +180,15 @@
 | 172 | 339 | Loopy Curvebuilder |
 | 173 | 336 | Jef Wassom |
 | 174 | 333 | Christina Maria |
-| 175 | 328 | Tim Tim |
-| 176 | 328 | Keri Mears |
+| 175 | 328 | Keri Mears |
+| 176 | 328 | Tim Tim |
 | 177 | 325 | Fudgie Pie |
 | 178 | 323 | Shannon Wilson |
 | 179 | 322 | Nikki Hayes |
 | 180 | 319 | Flower_child |
-| 181 | 314 | DayDreamer79 |
-| 182 | 314 | Danielle Blount |
-| 183 | 312 | Sarah Mccolgan |
+| 181 | 317 | Sarah Mccolgan |
+| 182 | 314 | DayDreamer79 |
+| 183 | 314 | Danielle Blount |
 | 184 | 311 | Hoppy Mover |
 | 185 | 310 | Jennifer Smith |
 | 186 | 309 | Ratchet |
@@ -349,29 +349,29 @@
 | 341 | 162 | Wacky Holder |
 | 342 | 161 | Erica South |
 | 343 | 161 | Silly Tiltbuilder |
-| 344 | 161 | Rydin Dirt |
-| 345 | 160 | Elizabeth Cornelius |
-| 346 | 160 | Camilo Moreno |
-| 347 | 160 | Melmel |
+| 344 | 161 | Melmel |
+| 345 | 161 | Rydin Dirt |
+| 346 | 160 | Elizabeth Cornelius |
+| 347 | 160 | Camilo Moreno |
 | 348 | 159 | Misty Noe |
 | 349 | 159 | Jason Cunningham |
 | 350 | 159 | Jennifer Vitro |
 | 351 | 158 | KazzyKay |
 | 352 | 158 | Rachel Nilles |
 | 353 | 157 | Spicy Snapclear |
-| 354 | 156 | meg |
-| 355 | 156 | Jamie Fenyus |
-| 356 | 156 | Tango Sierra |
+| 354 | 156 | Jamie Fenyus |
+| 355 | 156 | Tango Sierra |
+| 356 | 156 | meg |
 | 357 | 156 | Monique Frantz |
 | 358 | 156 | Charlotte Castelli |
 | 359 | 154 | Alonzo Reed |
 | 360 | 154 | murd3rmous3 |
 | 361 | 153 | Cortney Coleman |
-| 362 | 151 | Amy Lea Hamilton |
-| 363 | 151 | Marilyn Mendoza |
-| 364 | 150 | Crystal Poss |
-| 365 | 150 | Zany Wrecker |
-| 366 | 150 | Marylin Eacker |
+| 362 | 151 | Marilyn Mendoza |
+| 363 | 151 | Amy Lea Hamilton |
+| 364 | 150 | Marylin Eacker |
+| 365 | 150 | Crystal Poss |
+| 366 | 150 | Zany Wrecker |
 | 367 | 149 | Jenni LeBlanc |
 | 368 | 148 | Ashley Miller |
 | 369 | 148 | Nano. |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:02:18 UTC
+# Standings for team1 as of 2026-06-07 09:02:41 UTC
 
 **Total Participants:** 1429
 
@@ -338,11 +338,11 @@
 | 330 | 135 | Saucy Tile |
 | 331 | 135 | Skippy |
 | 332 | 135 | Sean White |
-| 333 | 134 | Peppy Glider |
-| 334 | 134 | Brittanie Wardlow |
-| 335 | 134 | Perky Pusher |
-| 336 | 133 | Tasha |
-| 337 | 132 | De'Nell Edwards |
+| 333 | 134 | De'Nell Edwards |
+| 334 | 134 | Peppy Glider |
+| 335 | 134 | Brittanie Wardlow |
+| 336 | 134 | Perky Pusher |
+| 337 | 133 | Tasha |
 | 338 | 132 | Chirpy Buildgrid |
 | 339 | 132 | Tremaine Hiler |
 | 340 | 131 | Sarah Clark |

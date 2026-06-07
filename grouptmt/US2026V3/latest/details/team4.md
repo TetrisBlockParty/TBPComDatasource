@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 09:02:18 UTC
+# Standings for team4 as of 2026-06-07 09:02:41 UTC
 
 **Total Participants:** 1423
 
@@ -80,27 +80,27 @@
 | 72 | 791 | J |
 | 73 | 788 | Shaina Sharp |
 | 74 | 750 | Trice Stevenson |
-| 75 | 730 | Chaz Duncan |
-| 76 | 729 | Keesha Muro |
-| 77 | 720 | Carly Stempien |
-| 78 | 718 | Phil Peterson |
-| 79 | 711 | Shelby |
-| 80 | 679 | Dana Fontanez |
-| 81 | 676 | Sharidan Klinginsmith |
-| 82 | 672 | Heather Preston |
-| 83 | 661 | Jenn Fitzgerald |
-| 84 | 654 | Jonathan Hewitt |
-| 85 | 646 | Blayne Kole |
-| 86 | 644 | Kelly Bernard |
-| 87 | 644 | woopa 716 |
-| 88 | 641 | Tommy Bond |
-| 89 | 638 | Kay |
-| 90 | 634 | GeorgeButts |
-| 91 | 623 | Hairy Snake |
-| 92 | 620 | Fancy Crasher |
-| 93 | 614 | adrian |
-| 94 | 607 | Jeremy Lopez |
-| 95 | 594 | Маркус Вік |
+| 75 | 737 | Маркус Вік |
+| 76 | 730 | Chaz Duncan |
+| 77 | 729 | Keesha Muro |
+| 78 | 720 | Carly Stempien |
+| 79 | 718 | Phil Peterson |
+| 80 | 711 | Shelby |
+| 81 | 679 | Dana Fontanez |
+| 82 | 676 | Sharidan Klinginsmith |
+| 83 | 672 | Heather Preston |
+| 84 | 661 | Jenn Fitzgerald |
+| 85 | 654 | Jonathan Hewitt |
+| 86 | 646 | Blayne Kole |
+| 87 | 644 | Kelly Bernard |
+| 88 | 644 | woopa 716 |
+| 89 | 641 | Tommy Bond |
+| 90 | 638 | Kay |
+| 91 | 634 | GeorgeButts |
+| 92 | 623 | Hairy Snake |
+| 93 | 620 | Fancy Crasher |
+| 94 | 614 | adrian |
+| 95 | 607 | Jeremy Lopez |
 | 96 | 580 | Dandy Clearfit |
 | 97 | 567 | Lynn Grimes |
 | 98 | 562 | Sweet Stacker |
