@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:44:19 UTC
+# Standings for team2 as of 2026-06-07 09:44:41 UTC
 
 **Total Participants:** 1691
 
@@ -150,9 +150,9 @@
 | 142 | 428 | Steven Craig |
 | 143 | 419 | Cool Climber |
 | 144 | 417 | Jenny Graham |
-| 145 | 416 | Suki Jacobs |
-| 146 | 415 | Jgato |
-| 147 | 414 | Zarah Kettler |
+| 145 | 416 | Zarah Kettler |
+| 146 | 416 | Suki Jacobs |
+| 147 | 415 | Jgato |
 | 148 | 408 | Ashley Green |
 | 149 | 393 | DomDomsNana |
 | 150 | 390 | La chulis |
@@ -358,35 +358,35 @@
 | 350 | 160 | Elizabeth Cornelius |
 | 351 | 160 | Billie Jensen |
 | 352 | 160 | Camilo Moreno |
-| 353 | 159 | Misty Noe |
-| 354 | 159 | Jennifer Vitro |
-| 355 | 158 | Rachel Nilles |
+| 353 | 159 | Nicole Plummer |
+| 354 | 159 | Misty Noe |
+| 355 | 159 | Jennifer Vitro |
 | 356 | 158 | KazzyKay |
-| 357 | 157 | Spicy Snapclear |
-| 358 | 156 | Jamie Fenyus |
-| 359 | 156 | Charlotte Castelli |
-| 360 | 156 | meg |
-| 361 | 156 | Monique Frantz |
-| 362 | 156 | Tango Sierra |
-| 363 | 154 | Alonzo Reed |
-| 364 | 154 | murd3rmous3 |
-| 365 | 153 | Cortney Coleman |
-| 366 | 151 | Amy Lea Hamilton |
-| 367 | 150 | Marylin Eacker |
-| 368 | 150 | Zany Wrecker |
-| 369 | 150 | Crystal Poss |
-| 370 | 149 | Jenni LeBlanc |
-| 371 | 149 | Nicole Plummer |
+| 357 | 158 | Rachel Nilles |
+| 358 | 157 | Spicy Snapclear |
+| 359 | 156 | Jamie Fenyus |
+| 360 | 156 | Charlotte Castelli |
+| 361 | 156 | meg |
+| 362 | 156 | Monique Frantz |
+| 363 | 156 | Tango Sierra |
+| 364 | 154 | Alonzo Reed |
+| 365 | 154 | murd3rmous3 |
+| 366 | 153 | Cortney Coleman |
+| 367 | 151 | Amy Lea Hamilton |
+| 368 | 150 | Crystal Poss |
+| 369 | 150 | Zany Wrecker |
+| 370 | 150 | Marylin Eacker |
+| 371 | 149 | Jenni LeBlanc |
 | 372 | 148 | Nano. |
-| 373 | 148 | Ashley Miller |
-| 374 | 148 | Wayne Johnson |
+| 373 | 148 | Wayne Johnson |
+| 374 | 148 | Ashley Miller |
 | 375 | 146 | Darla Nolt |
 | 376 | 145 | Alicia Parrish |
-| 377 | 144 | Will Jones |
-| 378 | 144 | Analee Nicole Jones |
+| 377 | 144 | Analee Nicole Jones |
+| 378 | 144 | Will Jones |
 | 379 | 144 | Funway998 |
-| 380 | 143 | Spicy Basepiece |
-| 381 | 143 | Amanda L Strong |
+| 380 | 143 | Amanda L Strong |
+| 381 | 143 | Spicy Basepiece |
 | 382 | 143 | Paula Haskins |
 | 383 | 142 | Spunky Cascadeclear |
 | 384 | 141 | Jacquelyn Snyder Dumas |
