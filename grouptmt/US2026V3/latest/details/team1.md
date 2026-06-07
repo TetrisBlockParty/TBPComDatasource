@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:18:41 UTC
+# Standings for team1 as of 2026-06-07 09:19:18 UTC
 
 **Total Participants:** 1431
 
@@ -145,7 +145,7 @@
 | 137 | 370 | Allison Baxter |
 | 138 | 367 | Ebony Waynes-robinson |
 | 139 | 363 | Christina Rebecca |
-| 140 | 356 | John Staub |
+| 140 | 361 | John Staub |
 | 141 | 353 | Lashaunda |
 | 142 | 351 | Uneekly Mayde |
 | 143 | 348 | LeeLee08 |
@@ -490,9 +490,9 @@
 | 482 | 89 | Zany Breaker |
 | 483 | 89 | LuckyStar |
 | 484 | 89 | Cynthia Cruell |
-| 485 | 88 | Brenda Malachi-butler |
-| 486 | 88 | Daring Riserfit |
-| 487 | 88 | 大竹直之 |
+| 485 | 89 | 大竹直之 |
+| 486 | 88 | Brenda Malachi-butler |
+| 487 | 88 | Daring Riserfit |
 | 488 | 88 | Soubletzy |
 | 489 | 87 | Holly Baker |
 | 490 | 87 | Chummy Frame |
