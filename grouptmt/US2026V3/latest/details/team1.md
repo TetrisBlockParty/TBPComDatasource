@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:04:20 UTC
+# Standings for team1 as of 2026-06-07 00:04:40 UTC
 
 **Total Participants:** 1227
 
@@ -558,68 +558,68 @@
 | 550 | 59 | Darrel Pemberton |
 | 551 | 59 | Tonny Williams |
 | 552 | 58 | Sha Anderson |
-| 553 | 58 | Kimberly Susan Privette |
-| 554 | 58 | Alexandrla Smith |
-| 555 | 58 | FunTime |
-| 556 | 58 | Derald Miller |
+| 553 | 58 | Alexandrla Smith |
+| 554 | 58 | Kimberly Susan Privette |
+| 555 | 58 | Derald Miller |
+| 556 | 58 | FunTime |
 | 557 | 58 | Brandy Way |
 | 558 | 58 | Bambi Love |
 | 559 | 58 | CoaCoa Myles |
 | 560 | 57 | Blocksy |
-| 561 | 57 | Danny Talbot |
-| 562 | 57 | Anastasia |
-| 563 | 57 | Sugar Foot |
-| 564 | 57 | Elizabeth Vega Coreano |
-| 565 | 57 | Letrishia Andrews |
-| 566 | 57 | Faith Armone |
-| 567 | 57 | Raquel Ortiz |
-| 568 | 56 | Lisa Ivy |
-| 569 | 56 | Bold Clusterer |
-| 570 | 55 | Desi Guerra |
-| 571 | 55 | Dreamzzz |
+| 561 | 57 | Solomon Valarie |
+| 562 | 57 | Danny Talbot |
+| 563 | 57 | Anastasia |
+| 564 | 57 | Sugar Foot |
+| 565 | 57 | Elizabeth Vega Coreano |
+| 566 | 57 | Letrishia Andrews |
+| 567 | 57 | Faith Armone |
+| 568 | 57 | Raquel Ortiz |
+| 569 | 56 | Lisa Ivy |
+| 570 | 56 | Bold Clusterer |
+| 571 | 55 | Desi Guerra |
 | 572 | 55 | KoolKimJay |
-| 573 | 55 | Kyle Franklin |
+| 573 | 55 | Dreamzzz |
 | 574 | 55 | Twisty Brickfit |
-| 575 | 55 | nameno |
-| 576 | 55 | Jane Lame |
-| 577 | 55 | Earl Williams |
-| 578 | 55 | Casey Chapman |
-| 579 | 55 | Terrie |
-| 580 | 54 | Kyle Conley |
-| 581 | 54 | TRUBBLE45 |
-| 582 | 54 | Aaron Hartmann |
-| 583 | 54 | Ace Hardware |
-| 584 | 54 | John Spath |
-| 585 | 54 | Boldy Pivoty |
+| 575 | 55 | Kyle Franklin |
+| 576 | 55 | nameno |
+| 577 | 55 | Jane Lame |
+| 578 | 55 | Earl Williams |
+| 579 | 55 | Casey Chapman |
+| 580 | 55 | Terrie |
+| 581 | 54 | ImmeKC |
+| 582 | 54 | TRUBBLE45 |
+| 583 | 54 | Aaron Hartmann |
+| 584 | 54 | Ace Hardware |
+| 585 | 54 | John Spath |
 | 586 | 54 | Ryan Runyan |
-| 587 | 54 | ImmeKC |
-| 588 | 54 | Kashh |
-| 589 | 54 | Gbnola |
+| 587 | 54 | Gbnola |
+| 588 | 54 | Kyle Conley |
+| 589 | 54 | Boldy Pivoty |
 | 590 | 54 | Melissa Olvera |
-| 591 | 53 | Cortrell Foster |
+| 591 | 54 | Kashh |
 | 592 | 53 | Mellie Mel |
 | 593 | 53 | Morenita Rodriguez |
 | 594 | 53 | Lady Scorpio |
 | 595 | 53 | Barbramerri Tarboro |
 | 596 | 53 | akosua |
-| 597 | 53 | Xrandomx |
-| 598 | 53 | Haakuu |
-| 599 | 53 | Heather Wilson |
-| 600 | 53 | Clever Wrecker |
-| 601 | 52 | Gabriela Hernandez |
-| 602 | 52 | Giggly Tiltbuilder |
-| 603 | 52 | Vannie G |
+| 597 | 53 | Cortrell Foster |
+| 598 | 53 | Heather Wilson |
+| 599 | 53 | Xrandomx |
+| 600 | 53 | Haakuu |
+| 601 | 53 | Clever Wrecker |
+| 602 | 52 | Gabriela Hernandez |
+| 603 | 52 | Giggly Tiltbuilder |
 | 604 | 52 | Loopy Risepiece |
-| 605 | 51 | Angela L Charles |
-| 606 | 51 | Shanjerrica Taylor Rosell |
-| 607 | 51 | messyboots |
-| 608 | 51 | Solomon Valarie |
-| 609 | 51 | Poppy Smasher |
-| 610 | 51 | BrettanMary Adkins |
-| 611 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 612 | 50 | Victoria Smith |
-| 613 | 50 | Daring Linkfall |
-| 614 | 50 | Teresa Yanira Cepeda |
+| 605 | 52 | Vannie G |
+| 606 | 51 | Poppy Smasher |
+| 607 | 51 | BrettanMary Adkins |
+| 608 | 51 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 609 | 51 | Angela L Charles |
+| 610 | 51 | messyboots |
+| 611 | 51 | Shanjerrica Taylor Rosell |
+| 612 | 50 | Teresa Yanira Cepeda |
+| 613 | 50 | Victoria Smith |
+| 614 | 50 | Daring Linkfall |
 | 615 | 50 | Jes Marie |
 | 616 | 50 | Denell Sims |
 | 617 | 50 | Rissa Rozay |

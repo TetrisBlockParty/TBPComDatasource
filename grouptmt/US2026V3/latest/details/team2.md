@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:04:20 UTC
+# Standings for team2 as of 2026-06-07 00:04:40 UTC
 
 **Total Participants:** 1464
 
@@ -88,7 +88,7 @@
 | 80 | 694 | Angie Mccain |
 | 81 | 671 | Brandi Thompson |
 | 82 | 647 | Loopy Cascadepiece |
-| 83 | 633 | Epic Frame |
+| 83 | 635 | Epic Frame |
 | 84 | 632 | Allie Bug |
 | 85 | 632 | Wmk Rathbun |
 | 86 | 631 | Nawang Nawang |
@@ -1299,50 +1299,50 @@
 | 1291 | 12 | Ashley Shazes |
 | 1292 | 12 | Phyllis DiCristo |
 | 1293 | 12 | Happy Curvebuilder |
-| 1294 | 12 | Mary |
-| 1295 | 12 | Haneef Akram |
-| 1296 | 12 | Sindy08 |
+| 1294 | 12 | Mariah Wells |
+| 1295 | 12 | Mary |
+| 1296 | 12 | Haneef Akram |
 | 1297 | 12 | Jazzy Snapfit |
 | 1298 | 12 | Silly Twister |
-| 1299 | 11 | Patty Smith |
-| 1300 | 11 | Jeffrey Smith |
+| 1299 | 12 | Sindy08 |
+| 1300 | 11 | Patty Smith |
 | 1301 | 11 | Robert E Tracy |
-| 1302 | 11 | Cindy Brown |
-| 1303 | 11 | Dandy Matchzone |
-| 1304 | 11 | Purpleroyalty11 |
-| 1305 | 11 | Snappy Matchgrid |
-| 1306 | 11 | Curley natioN |
+| 1302 | 11 | Jeffrey Smith |
+| 1303 | 11 | Snappy Matchgrid |
+| 1304 | 11 | Cindy Brown |
+| 1305 | 11 | Jumpy Linkroll |
+| 1306 | 11 | Mrs biotch |
 | 1307 | 11 | Merine Mott |
-| 1308 | 11 | Mrs biotch |
-| 1309 | 11 | Mariah Wells |
-| 1310 | 11 | Jumpy Linkroll |
-| 1311 | 10 | Jennifer Gould |
-| 1312 | 10 | Justin Furne |
-| 1313 | 10 | Steve Appel |
-| 1314 | 10 | Aislinn Lowe |
-| 1315 | 10 | Lacey Johnson |
-| 1316 | 10 | TyShantelle |
+| 1308 | 11 | Dandy Matchzone |
+| 1309 | 11 | Purpleroyalty11 |
+| 1310 | 11 | Curley natioN |
+| 1311 | 10 | Rachelle Parker |
+| 1312 | 10 | Jennifer Gould |
+| 1313 | 10 | Melissa Aycock |
+| 1314 | 10 | Sharon Wade |
+| 1315 | 10 | Rob Phillips |
+| 1316 | 10 | Ducky West |
 | 1317 | 10 | Donna Casey |
-| 1318 | 10 | Ducky West |
-| 1319 | 10 | Berta Hurley |
-| 1320 | 10 | Mitsy Lang |
-| 1321 | 10 | Rob Phillips |
-| 1322 | 10 | Lisa Schwobe |
-| 1323 | 10 | Sharon Wade |
-| 1324 | 10 | Melissa Aycock |
-| 1325 | 10 | Goofy Shatterbuilder |
-| 1326 | 10 | Sam Schwieso |
-| 1327 | 10 | Tracy Coe |
-| 1328 | 10 | Dandy Fill |
-| 1329 | 10 | Angiela Hope Boggs |
-| 1330 | 10 | Rachelle Parker |
+| 1318 | 10 | Lacey Johnson |
+| 1319 | 10 | Aislinn Lowe |
+| 1320 | 10 | Steve Appel |
+| 1321 | 10 | Justin Furne |
+| 1322 | 10 | Sam Schwieso |
+| 1323 | 10 | Tracy Coe |
+| 1324 | 10 | Dandy Fill |
+| 1325 | 10 | Crafty Combo |
+| 1326 | 10 | Joe Duffer |
+| 1327 | 10 | Cardisa Hall |
+| 1328 | 10 | Jennifer Bell |
+| 1329 | 10 | Dawnie Rodarte |
+| 1330 | 10 | Rachel Switala |
 | 1331 | 10 | Erin Marie Smith |
-| 1332 | 10 | Crafty Combo |
-| 1333 | 10 | Rachel Switala |
-| 1334 | 10 | Joe Duffer |
-| 1335 | 10 | Cardisa Hall |
-| 1336 | 10 | Jennifer Bell |
-| 1337 | 10 | Dawnie Rodarte |
+| 1332 | 10 | Lisa Schwobe |
+| 1333 | 10 | Mitsy Lang |
+| 1334 | 10 | Berta Hurley |
+| 1335 | 10 | TyShantelle |
+| 1336 | 10 | Angiela Hope Boggs |
+| 1337 | 10 | Goofy Shatterbuilder |
 | 1338 | 10 | Chipper Zigzag |
 | 1339 | 10 | Bold Blockline |
 | 1340 | 10 | Aguilar Rita |
