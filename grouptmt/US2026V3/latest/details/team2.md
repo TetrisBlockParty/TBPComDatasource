@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:00:19 UTC
+# Standings for team2 as of 2026-06-07 04:00:39 UTC
 
 **Total Participants:** 1589
 
@@ -44,7 +44,7 @@
 | 36 | 2032 | Andrew Weissenborn |
 | 37 | 1957 | Lola C Davis |
 | 38 | 1906 | Jennifer Corder |
-| 39 | 1870 | Quirky Catcher |
+| 39 | 1880 | Quirky Catcher |
 | 40 | 1841 | Frilly Match |
 | 41 | 1835 | Elizabeth Mooney |
 | 42 | 1820 | Tom Badgley |
@@ -1219,48 +1219,48 @@
 | 1211 | 21 | Cathy Lee Stoneking |
 | 1212 | 21 | Erica Abreu |
 | 1213 | 21 | Cyrus Ramirez |
-| 1214 | 21 | Chill Shatterclear |
-| 1215 | 21 | Shannie |
+| 1214 | 21 | Shannie |
+| 1215 | 21 | Chill Shatterclear |
 | 1216 | 21 | Sandra Mathes Reece |
 | 1217 | 21 | Mario Hillman |
 | 1218 | 21 | Amber Myers |
-| 1219 | 21 | Tina Thomason |
-| 1220 | 21 | Johnathon Mendiola |
-| 1221 | 21 | Swanky Twister |
-| 1222 | 21 | GiGi Cool |
+| 1219 | 21 | Black Sheep |
+| 1220 | 21 | Tina Thomason |
+| 1221 | 21 | Johnathon Mendiola |
+| 1222 | 21 | Swanky Twister |
 | 1223 | 21 | Cammy Riley |
-| 1224 | 21 | Mandy |
-| 1225 | 21 | Lively Shatter |
-| 1226 | 20 | Gloria Appleton |
+| 1224 | 21 | Lively Shatter |
+| 1225 | 21 | Mandy |
+| 1226 | 21 | GiGi Cool |
 | 1227 | 20 | Tasha Gilbert |
 | 1228 | 20 | Ava Taber |
 | 1229 | 20 | Tonya Templin Smith |
-| 1230 | 20 | Thomas Chris |
-| 1231 | 20 | Ava |
+| 1230 | 20 | Ava |
+| 1231 | 20 | Thomas Chris |
 | 1232 | 20 | Tabetha Cooper |
 | 1233 | 20 | Valerie Roberts |
-| 1234 | 20 | Krickett M. Curtis |
-| 1235 | 20 | Tipsy Slice |
+| 1234 | 20 | Tipsy Slice |
+| 1235 | 20 | Krickett M. Curtis |
 | 1236 | 20 | Jessica Murphree |
-| 1237 | 20 | Carebear05 |
-| 1238 | 20 | Amanda |
+| 1237 | 20 | Amanda |
+| 1238 | 20 | Carebear05 |
 | 1239 | 20 | Katie Thacker |
-| 1240 | 20 | Binska |
-| 1241 | 20 | Kenya Johnson |
+| 1240 | 20 | Kenya Johnson |
+| 1241 | 20 | Binska |
 | 1242 | 20 | Bouncy Snapmatch |
 | 1243 | 20 | Adam Winters |
-| 1244 | 20 | Alana Albritton Seals |
+| 1244 | 20 | Bigbb |
 | 1245 | 20 | Stacie Taylor |
 | 1246 | 20 | Chris |
 | 1247 | 20 | Amanda Gann |
 | 1248 | 20 | Nerdy Linebuilder |
 | 1249 | 20 | Elizabeth Henry |
 | 1250 | 20 | Dapper Pivotfall |
-| 1251 | 20 | Nerdy Spinfit |
+| 1251 | 20 | Gloria Appleton |
 | 1252 | 20 | Holly Barefoot |
 | 1253 | 20 | Yvonne Rodriguez |
-| 1254 | 20 | Danyell Flood-Morning |
-| 1255 | 20 | Bigbb |
+| 1254 | 20 | Alana Albritton Seals |
+| 1255 | 20 | Danyell Flood-Morning |
 | 1256 | 20 | Shalice Jacobs |
 | 1257 | 20 | Dustyn Sims |
 | 1258 | 20 | Boldy Patterner |
@@ -1268,26 +1268,26 @@
 | 1260 | 20 | Bonita Alexander |
 | 1261 | 20 | Roger Kee |
 | 1262 | 20 | Deborah Morey-avila |
-| 1263 | 19 | latte |
-| 1264 | 19 | Alisha Shelton |
-| 1265 | 19 | Aguilar Rita |
-| 1266 | 19 | Destiny Turner |
-| 1267 | 19 | Jackie Hayslip |
-| 1268 | 19 | Lindsay Gregory |
-| 1269 | 19 | Jessica Rose Engebretson |
-| 1270 | 19 | Chris Cooper |
-| 1271 | 19 | Sandra Kopas Stetka |
-| 1272 | 19 | Tetra Maniac |
-| 1273 | 19 | Jason Janssen |
+| 1263 | 20 | Nerdy Spinfit |
+| 1264 | 19 | latte |
+| 1265 | 19 | Alisha Shelton |
+| 1266 | 19 | Aguilar Rita |
+| 1267 | 19 | Destiny Turner |
+| 1268 | 19 | Jackie Hayslip |
+| 1269 | 19 | Lindsay Gregory |
+| 1270 | 19 | Jessica Rose Engebretson |
+| 1271 | 19 | Chris Cooper |
+| 1272 | 19 | Sandra Kopas Stetka |
+| 1273 | 19 | Tetra Maniac |
 | 1274 | 19 | Nicole Slimick |
-| 1275 | 19 | Ashley Bryant-hatcher |
+| 1275 | 19 | Jason Janssen |
 | 1276 | 19 | Snazzy Racker |
-| 1277 | 19 | jme |
-| 1278 | 19 | Teloney Humphrey |
-| 1279 | 18 | Taran Evans |
-| 1280 | 18 | Piper Michael |
-| 1281 | 18 | SturgStang |
-| 1282 | 18 | Black Sheep |
+| 1277 | 19 | Ashley Bryant-hatcher |
+| 1278 | 19 | jme |
+| 1279 | 19 | Teloney Humphrey |
+| 1280 | 18 | SturgStang |
+| 1281 | 18 | Piper Michael |
+| 1282 | 18 | Araiiya |
 | 1283 | 18 | Cynthia Vornlocker |
 | 1284 | 18 | Daimien Jarem |
 | 1285 | 18 | Glitzy Stackbuilder |
@@ -1296,15 +1296,15 @@
 | 1288 | 18 | Miggy Gonzalez |
 | 1289 | 18 | Darla |
 | 1290 | 18 | Nicole Treadway |
-| 1291 | 18 | Lexi Chouinard |
-| 1292 | 18 | Araiiya |
+| 1291 | 18 | James Maness |
+| 1292 | 18 | Lexi Chouinard |
 | 1293 | 18 | Adrian Alvarez |
 | 1294 | 18 | Aaron Jones |
 | 1295 | 18 | Ashley Wolford |
 | 1296 | 18 | FabTeach |
-| 1297 | 18 | James Maness |
-| 1298 | 18 | Katie Magner |
-| 1299 | 18 | Alison Welsh |
+| 1297 | 18 | Taran Evans |
+| 1298 | 18 | Alison Welsh |
+| 1299 | 18 | Katie Magner |
 | 1300 | 17 | Smiley Edgefit |
 | 1301 | 17 | Sassy Snapfall |
 | 1302 | 17 | Shane Peavey |
@@ -1324,12 +1324,12 @@
 | 1316 | 16 | Ashley Shazes |
 | 1317 | 16 | Amanda Jimenez |
 | 1318 | 16 | Patty White |
-| 1319 | 16 | JesseJo |
-| 1320 | 16 | Chilly Fall |
-| 1321 | 16 | Diane Pinkston Massey |
+| 1319 | 16 | Jennifer M Mitchell |
+| 1320 | 16 | JesseJo |
+| 1321 | 16 | Chilly Fall |
 | 1322 | 16 | Brittany Paul |
-| 1323 | 16 | Jeremy Monceaux |
-| 1324 | 16 | Jennifer M Mitchell |
+| 1323 | 16 | Diane Pinkston Massey |
+| 1324 | 16 | Jeremy Monceaux |
 | 1325 | 16 | Sandy Molina |
 | 1326 | 16 | Ashley Gracelynn Tiner |
 | 1327 | 16 | Kaylyn Wickham |
@@ -1342,7 +1342,7 @@
 | 1334 | 15 | Tetris |
 | 1335 | 15 | Sir Paco |
 | 1336 | 15 | Jacqueline Leigh Zuzinec |
-| 1337 | 15 | Tipsy Matchgrid |
+| 1337 | 15 | Amlisi |
 | 1338 | 15 | Maureen MomtoDolores GeorgeBrian |
 | 1339 | 15 | Wendy Morrison |
 | 1340 | 15 | Rachel Wooldridge |
@@ -1353,21 +1353,21 @@
 | 1345 | 15 | Julie Vargas |
 | 1346 | 15 | Lisa Marie |
 | 1347 | 15 | Amy Hahn Nickels |
-| 1348 | 15 | Amlisi |
-| 1349 | 15 | sally |
-| 1350 | 15 | Rochelle O'Loughlin |
-| 1351 | 15 | Timone907 |
-| 1352 | 14 | Michele Choate |
-| 1353 | 14 | Buffy Diane Blake |
-| 1354 | 14 | Angelica Champlin |
-| 1355 | 14 | Beaglemom |
+| 1348 | 15 | sally |
+| 1349 | 15 | Rochelle O'Loughlin |
+| 1350 | 15 | Timone907 |
+| 1351 | 15 | Tipsy Matchgrid |
+| 1352 | 14 | Beaglemom |
+| 1353 | 14 | Flex |
+| 1354 | 14 | Buffy Diane Blake |
+| 1355 | 14 | Angelica Champlin |
 | 1356 | 14 | Jennifer Gould |
 | 1357 | 14 | Susan R. Hammons Cunningham |
-| 1358 | 14 | Randy Taylor |
-| 1359 | 14 | John Sewell |
-| 1360 | 14 | Flex |
-| 1361 | 14 | Christopher Pulley |
-| 1362 | 14 | TiffTaff |
+| 1358 | 14 | Michele Choate |
+| 1359 | 14 | Randy Taylor |
+| 1360 | 14 | John Sewell |
+| 1361 | 14 | TiffTaff |
+| 1362 | 14 | Christopher Pulley |
 | 1363 | 14 | Blocker |
 | 1364 | 14 | Symmy Norton |
 | 1365 | 14 | Joseph Austin Prince |
@@ -1432,10 +1432,10 @@
 | 1424 | 10 | Twisty Snapclear |
 | 1425 | 10 | Jaelyn Orr |
 | 1426 | 10 | Nickishan Richrds |
-| 1427 | 10 | Rachel Nunn |
+| 1427 | 10 | LaChalle Shay |
 | 1428 | 10 | Joey Grillo |
 | 1429 | 10 | Laura Rake |
-| 1430 | 10 | LaChalle Shay |
+| 1430 | 10 | Rachel Nunn |
 | 1431 | 10 | Ducky West |
 | 1432 | 10 | Randy Clevenger |
 | 1433 | 10 | Crasher |
@@ -1576,25 +1576,25 @@
 | 1568 | 5 | Agnes Gable |
 | 1569 | 5 | Fisherman Jackson |
 | 1570 | 5 | Quirky Liney |
-| 1571 | 5 | Julie Ann Jacobs |
+| 1571 | 5 | Groovy Buildout |
 | 1572 | 5 | Nolife |
 | 1573 | 5 | Nikki |
 | 1574 | 5 | Snappy Zonepiece |
 | 1575 | 5 | Jon Torres |
 | 1576 | 5 | Diamond Mitchell |
 | 1577 | 5 | Errkuh |
-| 1578 | 5 | Flynn Flibble |
-| 1579 | 5 | Jennifer Roper Stanley |
-| 1580 | 5 | Mala Phonchanthasone |
-| 1581 | 5 | Chris Weddel |
-| 1582 | 5 | Groovy Buildout |
-| 1583 | 5 | Dapper Clearpiece |
-| 1584 | 5 | Teri |
-| 1585 | 5 | Chirpy Towerer |
-| 1586 | 5 | Jennifer Mauler Schmidt |
-| 1587 | 5 | Mercedes Lowery |
-| 1588 | 5 | featherz |
-| 1589 | 5 | Brittany Weatherspoon |
+| 1578 | 5 | Julie Ann Jacobs |
+| 1579 | 5 | Flynn Flibble |
+| 1580 | 5 | Jennifer Roper Stanley |
+| 1581 | 5 | Dapper Clearpiece |
+| 1582 | 5 | Brittany Weatherspoon |
+| 1583 | 5 | featherz |
+| 1584 | 5 | Mercedes Lowery |
+| 1585 | 5 | Jennifer Mauler Schmidt |
+| 1586 | 5 | Chirpy Towerer |
+| 1587 | 5 | Teri |
+| 1588 | 5 | Chris Weddel |
+| 1589 | 5 | Mala Phonchanthasone |
 
 ---
 *Standings created by tournaments datasource generation tool*
