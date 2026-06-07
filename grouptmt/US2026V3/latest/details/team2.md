@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:11:18 UTC
+# Standings for team2 as of 2026-06-07 11:12:18 UTC
 
 **Total Participants:** 1704
 
@@ -67,10 +67,10 @@
 | 59 | 1250 | Marie Edmonds |
 | 60 | 1249 | Poppy |
 | 61 | 1192 | Angie Mccain |
-| 62 | 1148 | Nerdy Climber |
-| 63 | 1117 | Mikki Torres |
-| 64 | 1114 | Giddy Slamdrop |
-| 65 | 1103 | DarkHorse |
+| 62 | 1151 | DarkHorse |
+| 63 | 1148 | Nerdy Climber |
+| 64 | 1117 | Mikki Torres |
+| 65 | 1114 | Giddy Slamdrop |
 | 66 | 1081 | Nawang Nawang |
 | 67 | 1070 | Michelle Maulsby |
 | 68 | 1053 | Kvothe |
@@ -79,9 +79,9 @@
 | 71 | 986 | Criccett Hooper-Smith |
 | 72 | 984 | Dane Marko |
 | 73 | 971 | Debra Henry |
-| 74 | 921 | Block Dog |
-| 75 | 913 | Amber Salazar |
-| 76 | 903 | Gabriella Humphreys |
+| 74 | 931 | Gabriella Humphreys |
+| 75 | 921 | Block Dog |
+| 76 | 913 | Amber Salazar |
 | 77 | 899 | Marie Luciano |
 | 78 | 882 | Lisa Breiding |
 | 79 | 864 | Helen Thomas |
@@ -256,11 +256,11 @@
 | 248 | 233 | Amie Marks |
 | 249 | 233 | Jeanna Mendez |
 | 250 | 230 | Brandy Chinelle |
-| 251 | 230 | Kelly Vedder |
-| 252 | 229 | Ariel Gundersen |
-| 253 | 228 | Lora Via |
-| 254 | 227 | Laura Melton |
-| 255 | 227 | Jenny |
+| 251 | 230 | Jenny |
+| 252 | 230 | Kelly Vedder |
+| 253 | 229 | Ariel Gundersen |
+| 254 | 228 | Lora Via |
+| 255 | 227 | Laura Melton |
 | 256 | 225 | Cheery Towerzone |
 | 257 | 225 | Theresa Huddleston |
 | 258 | 224 | Kathleen Keogh Van Schoyck |
@@ -386,63 +386,63 @@
 | 378 | 150 | Crystal Poss |
 | 379 | 149 | Jenni LeBlanc |
 | 380 | 148 | Nano. |
-| 381 | 148 | Ashley Miller |
-| 382 | 148 | Wayne Johnson |
-| 383 | 146 | Darla Nolt |
-| 384 | 145 | Alicia Parrish |
-| 385 | 144 | Will Jones |
-| 386 | 144 | Analee Nicole Jones |
-| 387 | 144 | Funway998 |
-| 388 | 143 | Paula Haskins |
-| 389 | 143 | Amanda L Strong |
+| 381 | 148 | Gwendolyn Boykin Mobbs |
+| 382 | 148 | Ashley Miller |
+| 383 | 148 | Wayne Johnson |
+| 384 | 146 | Darla Nolt |
+| 385 | 145 | Alicia Parrish |
+| 386 | 144 | Will Jones |
+| 387 | 144 | Analee Nicole Jones |
+| 388 | 144 | Funway998 |
+| 389 | 143 | Paula Haskins |
 | 390 | 143 | Spicy Basepiece |
-| 391 | 142 | Spunky Cascadeclear |
-| 392 | 141 | Jacquelyn Snyder Dumas |
+| 391 | 143 | Amanda L Strong |
+| 392 | 142 | Spunky Cascadeclear |
 | 393 | 141 | Loopy Tower |
-| 394 | 140 | Sharon L Brazelton |
-| 395 | 140 | Rescuegirl76 |
+| 394 | 141 | Jacquelyn Snyder Dumas |
+| 395 | 140 | Sharon L Brazelton |
 | 396 | 140 | Starvinmarvin |
-| 397 | 139 | rebel4lyfe |
+| 397 | 140 | Rescuegirl76 |
 | 398 | 139 | Gabrielle Wilson |
-| 399 | 139 | Charles E Mccardell |
-| 400 | 139 | andee |
-| 401 | 138 | James Sayers |
-| 402 | 138 | NickandJess Reynolds |
-| 403 | 138 | Melissa Fink |
-| 404 | 138 | Amber Smith |
-| 405 | 137 | Sandra Belk |
+| 399 | 139 | rebel4lyfe |
+| 400 | 139 | Charles E Mccardell |
+| 401 | 139 | andee |
+| 402 | 138 | Amber Smith |
+| 403 | 138 | James Sayers |
+| 404 | 138 | Melissa Fink |
+| 405 | 138 | NickandJess Reynolds |
 | 406 | 137 | Ashley Voelz |
-| 407 | 136 | Lauren Maxwell |
-| 408 | 136 | Jumpy Dashpiece |
-| 409 | 136 | Mtnblzr |
-| 410 | 135 | Gwendolyn Boykin Mobbs |
+| 407 | 137 | Sandra Belk |
+| 408 | 136 | Lauren Maxwell |
+| 409 | 136 | Jumpy Dashpiece |
+| 410 | 136 | Mtnblzr |
 | 411 | 135 | Naomi Walker |
 | 412 | 133 | Angela Hogan |
 | 413 | 133 | Tara |
 | 414 | 133 | TetrisMama |
-| 415 | 132 | Reign Hustler |
-| 416 | 132 | Ava Speedy |
+| 415 | 132 | Ava Speedy |
+| 416 | 132 | Reign Hustler |
 | 417 | 132 | Raine |
 | 418 | 131 | MamaRachel |
 | 419 | 131 | Teresa Mandich |
 | 420 | 131 | Heather Billodeau |
 | 421 | 130 | Charity Hauser |
 | 422 | 130 | Jenn |
-| 423 | 130 | Jumpy Matchbuilder |
-| 424 | 130 | Cristi Doris |
-| 425 | 129 | Sandy Justus |
-| 426 | 129 | Nikki Hatch |
-| 427 | 129 | Armando Sabedra |
+| 423 | 130 | Cristi Doris |
+| 424 | 130 | Jumpy Matchbuilder |
+| 425 | 129 | Kristi K Milner |
+| 426 | 129 | Armando Sabedra |
+| 427 | 129 | Sandy Justus |
 | 428 | 129 | Perii Reynoso |
 | 429 | 129 | Jackie Walker |
-| 430 | 129 | Kristi K Milner |
-| 431 | 129 | Belle |
+| 430 | 129 | Belle |
+| 431 | 129 | Nikki Hatch |
 | 432 | 128 | rageking |
-| 433 | 127 | Stephanie |
-| 434 | 127 | Aurora June Brock |
-| 435 | 127 | Tammy Roth |
-| 436 | 127 | Nicky Steigerwalt |
-| 437 | 127 | Tina |
+| 433 | 127 | Tammy Roth |
+| 434 | 127 | Tina |
+| 435 | 127 | Nicky Steigerwalt |
+| 436 | 127 | Stephanie |
+| 437 | 127 | Aurora June Brock |
 | 438 | 126 | Tamtam |
 | 439 | 125 | Jessica Connot |
 | 440 | 125 | Kathryn |
