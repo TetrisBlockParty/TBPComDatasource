@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 16:22:18 UTC
+# Standings for team1 as of 2026-06-07 16:22:42 UTC
 
 **Total Participants:** 1505
 
@@ -17,7 +17,7 @@
 | 9 | 7059 | Tracy Cohen |
 | 10 | 6802 | Cozy Edge |
 | 11 | 6754 | Death by SnuSnu |
-| 12 | 6644 | Debbie Carswell |
+| 12 | 6664 | Debbie Carswell |
 | 13 | 5512 | Jocelyn Pope-Sewell |
 | 14 | 5511 | Timothy Robert |
 | 15 | 5282 | Plucky Swipe |
