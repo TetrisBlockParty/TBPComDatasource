@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:38:18 UTC
+# Standings for team2 as of 2026-06-07 06:38:41 UTC
 
 **Total Participants:** 1660
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6240 | Christina Shell |
-| 10 | 6114 | Tim Ix |
-| 11 | 6114 | Morgann McDaniel |
+| 10 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Tim Ix |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -85,8 +85,8 @@
 | 77 | 829 | Gabriella Humphreys |
 | 78 | 819 | Beverly Lynn Mills |
 | 79 | 802 | Charley Bedford |
-| 80 | 799 | Poppy |
-| 81 | 799 | Elizabeth Sallas |
+| 80 | 799 | Elizabeth Sallas |
+| 81 | 799 | Poppy |
 | 82 | 792 | Marquetta Johnson |
 | 83 | 788 | Nawang Nawang |
 | 84 | 779 | Marie Luciano |
@@ -128,8 +128,8 @@
 | 120 | 528 | Amanda Sikes |
 | 121 | 516 | Amber Miller Wirick |
 | 122 | 515 | Loony Faller |
-| 123 | 500 | Suki Kaur |
-| 124 | 500 | Courtney McCulley |
+| 123 | 500 | Courtney McCulley |
+| 124 | 500 | Suki Kaur |
 | 125 | 486 | Jackie Tupper |
 | 126 | 483 | Karen Reid Cenkush |
 | 127 | 477 | Amy Gale |
@@ -149,9 +149,9 @@
 | 141 | 411 | MarioKarasovic |
 | 142 | 408 | Ashley Green |
 | 143 | 404 | Jgato |
-| 144 | 400 | Smashanator |
-| 145 | 400 | Zarah Kettler |
-| 146 | 400 | Gloria May Shook |
+| 144 | 400 | Gloria May Shook |
+| 145 | 400 | Smashanator |
+| 146 | 400 | Zarah Kettler |
 | 147 | 393 | DomDomsNana |
 | 148 | 390 | La chulis |
 | 149 | 389 | haune |
@@ -163,21 +163,21 @@
 | 155 | 365 | Branden Frankowski |
 | 156 | 362 | Nutty Curver |
 | 157 | 360 | Jacob Carpenter |
-| 158 | 357 | Crystal Allen |
-| 159 | 357 | Erin Thomas |
+| 158 | 357 | Erin Thomas |
+| 159 | 357 | Crystal Allen |
 | 160 | 356 | Joni Michelle Morgan |
 | 161 | 354 | Zesty Strikerbuilder |
 | 162 | 348 | Eric Drane |
 | 163 | 344 | Traci Abern |
-| 164 | 343 | Jason Cook |
-| 165 | 343 | Theresa Marie |
+| 164 | 343 | Theresa Marie |
+| 165 | 343 | Jason Cook |
 | 166 | 342 | Bri St Peter |
 | 167 | 340 | Amy Gregg |
 | 168 | 340 | Mom |
 | 169 | 336 | Jef Wassom |
 | 170 | 333 | Christina Maria |
-| 171 | 328 | Tim Tim |
-| 172 | 328 | Keri Mears |
+| 171 | 328 | Keri Mears |
+| 172 | 328 | Tim Tim |
 | 173 | 323 | Shannon Wilson |
 | 174 | 322 | Nikki Hayes |
 | 175 | 319 | Flower_child |
