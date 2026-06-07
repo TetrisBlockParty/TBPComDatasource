@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:26:20 UTC
+# Standings for team1 as of 2026-06-07 15:26:41 UTC
 
 **Total Participants:** 1491
 
@@ -440,8 +440,8 @@
 | 432 | 118 | Hasty Pivoty |
 | 433 | 118 | Amanda Woodruff |
 | 434 | 117 | Joana Thompson |
-| 435 | 117 | MonaSparks |
-| 436 | 117 | Jeffrey Barrows |
+| 435 | 117 | Jeffrey Barrows |
+| 436 | 117 | MonaSparks |
 | 437 | 116 | Yadira Salgado |
 | 438 | 116 | Jess |
 | 439 | 115 | BabyCakes |
@@ -454,23 +454,23 @@
 | 446 | 112 | GamerQueenDS |
 | 447 | 112 | Nyhlah Patterson |
 | 448 | 112 | Jennah |
-| 449 | 111 | Angie Smith |
-| 450 | 111 | Ad Doctor |
-| 451 | 111 | Daring Blockclear |
-| 452 | 110 | Slinky Clearzone |
-| 453 | 110 | Nisha Sunshine Jenkins |
-| 454 | 110 | Nora Mahmoud |
-| 455 | 110 | Chandler Magee |
-| 456 | 109 | Tamika Fisher |
-| 457 | 109 | Rufus |
-| 458 | 109 | Frances Davis |
-| 459 | 109 | Manda Allen |
-| 460 | 109 | Zany Breaker |
+| 449 | 111 | Ad Doctor |
+| 450 | 111 | Angie Smith |
+| 451 | 111 | Zany Breaker |
+| 452 | 111 | Daring Blockclear |
+| 453 | 110 | Slinky Clearzone |
+| 454 | 110 | Chandler Magee |
+| 455 | 110 | Nora Mahmoud |
+| 456 | 110 | Nisha Sunshine Jenkins |
+| 457 | 109 | Frances Davis |
+| 458 | 109 | Tamika Fisher |
+| 459 | 109 | Rufus |
+| 460 | 109 | Manda Allen |
 | 461 | 109 | Dorian Griffin |
 | 462 | 109 | Kortney Adams |
-| 463 | 105 | Wayne Savannah |
-| 464 | 105 | Lucy |
-| 465 | 105 | QueenShay AllGood |
+| 463 | 105 | QueenShay AllGood |
+| 464 | 105 | Wayne Savannah |
+| 465 | 105 | Lucy |
 | 466 | 105 | Mighty Dropper |
 | 467 | 105 | Ja'mice Nelson |
 | 468 | 105 | Analiza Ramos |
