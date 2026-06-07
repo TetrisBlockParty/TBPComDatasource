@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:35:18 UTC
+# Standings for team2 as of 2026-06-07 06:36:19 UTC
 
 **Total Participants:** 1659
 
@@ -96,8 +96,8 @@
 | 88 | 757 | Jazzy Faller |
 | 89 | 750 | Renee Freeman Jacobson |
 | 90 | 731 | Brandi Thompson |
-| 91 | 721 | Hoppy Rotate |
-| 92 | 717 | Lily |
+| 91 | 729 | Lily |
+| 92 | 721 | Hoppy Rotate |
 | 93 | 711 | Smiley Dropper |
 | 94 | 700 | Denise Potter |
 | 95 | 685 | Sigmamom |
