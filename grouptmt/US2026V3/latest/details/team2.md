@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:54:20 UTC
+# Standings for team2 as of 2026-06-07 17:54:40 UTC
 
 **Total Participants:** 1838
 
@@ -90,8 +90,8 @@
 | 82 | 1020 | Ruby Sandberg |
 | 83 | 1011 | Criccett Hooper-Smith |
 | 84 | 1000 | LEW |
-| 85 | 987 | Charlie Wilson |
-| 86 | 985 | Dane Marko |
+| 85 | 988 | Dane Marko |
+| 86 | 987 | Charlie Wilson |
 | 87 | 970 | Bridget N Jonathan Franz |
 | 88 | 916 | Amber Salazar |
 | 89 | 899 | Marie Luciano |
@@ -759,32 +759,32 @@
 | 751 | 80 | Ramona Guillermo |
 | 752 | 80 | Patty Sparkman |
 | 753 | 80 | Jennifer Robinson |
-| 754 | 80 | Dayna Messer-Thelen |
-| 755 | 80 | Charith Lorelle Watson |
-| 756 | 80 | Christina Whitehead |
-| 757 | 80 | Mandeee |
-| 758 | 80 | Cory Lynn |
-| 759 | 80 | Nicole Hogue |
-| 760 | 80 | PrissyPris |
-| 761 | 80 | Nerdy Spinfit |
-| 762 | 80 | Michelle Anne |
-| 763 | 80 | Tami Leontyuk |
-| 764 | 80 | Tonya Greger |
-| 765 | 79 | ReiRei |
-| 766 | 79 | Monica Gonzalez Rios |
-| 767 | 79 | Lezley Hawkins |
-| 768 | 79 | Michelle Powers Chattaway |
-| 769 | 79 | Bruni |
-| 770 | 79 | Cheryl Graves Downard |
-| 771 | 79 | Aeryal Snow |
-| 772 | 78 | Aaron Jones |
-| 773 | 78 | David Skelton |
-| 774 | 78 | Mona Smith |
-| 775 | 78 | Shelby Wilson |
-| 776 | 78 | Alycia Marie Zelensky |
-| 777 | 78 | Danyell Flood-Morning |
-| 778 | 78 | Steven |
-| 779 | 78 | Sandy Molina |
+| 754 | 80 | Sandy Molina |
+| 755 | 80 | Dayna Messer-Thelen |
+| 756 | 80 | Charith Lorelle Watson |
+| 757 | 80 | Christina Whitehead |
+| 758 | 80 | Mandeee |
+| 759 | 80 | Cory Lynn |
+| 760 | 80 | Nicole Hogue |
+| 761 | 80 | PrissyPris |
+| 762 | 80 | Nerdy Spinfit |
+| 763 | 80 | Michelle Anne |
+| 764 | 80 | Tami Leontyuk |
+| 765 | 80 | Tonya Greger |
+| 766 | 79 | ReiRei |
+| 767 | 79 | Monica Gonzalez Rios |
+| 768 | 79 | Lezley Hawkins |
+| 769 | 79 | Michelle Powers Chattaway |
+| 770 | 79 | Bruni |
+| 771 | 79 | Cheryl Graves Downard |
+| 772 | 79 | Aeryal Snow |
+| 773 | 78 | Aaron Jones |
+| 774 | 78 | David Skelton |
+| 775 | 78 | Mona Smith |
+| 776 | 78 | Shelby Wilson |
+| 777 | 78 | Alycia Marie Zelensky |
+| 778 | 78 | Danyell Flood-Morning |
+| 779 | 78 | Steven |
 | 780 | 77 | Talyn Domingues |
 | 781 | 77 | Pamela Gambrell |
 | 782 | 77 | Jolly Builderpiece |

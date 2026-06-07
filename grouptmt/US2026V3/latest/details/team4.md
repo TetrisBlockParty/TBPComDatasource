@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 17:54:20 UTC
+# Standings for team4 as of 2026-06-07 17:54:40 UTC
 
 **Total Participants:** 1561
 
@@ -1178,54 +1178,54 @@
 | 1170 | 30 | Spicy Holder |
 | 1171 | 30 | Katy Roman |
 | 1172 | 30 | Spidaman86 |
-| 1173 | 30 | Funky Rollzone |
-| 1174 | 30 | San |
-| 1175 | 30 | Jennie |
-| 1176 | 30 | Deanne Silverdahl |
-| 1177 | 30 | Ali Garcia |
-| 1178 | 30 | Tati |
-| 1179 | 30 | Nerdy Piecebuilder |
-| 1180 | 30 | Sydney Taylor Sileno |
-| 1181 | 30 | Loopy Wipeout |
-| 1182 | 29 | Wynisha Johnson |
-| 1183 | 29 | Kelley Shoop |
-| 1184 | 29 | Ciara Brown |
-| 1185 | 29 | Garett Lahti |
-| 1186 | 29 | CRsLady |
-| 1187 | 29 | Crafty Linkfall |
-| 1188 | 29 | Mrs.J2013 |
-| 1189 | 29 | MzCeleste Brooks |
-| 1190 | 29 | Marion Wade |
-| 1191 | 29 | Wayne Hendricks |
-| 1192 | 29 | Unknown |
-| 1193 | 29 | Epic Dashfit |
-| 1194 | 29 | Naybel85 |
-| 1195 | 29 | Slinky Snapfit |
-| 1196 | 28 | FUNBAT |
-| 1197 | 28 | bribop |
-| 1198 | 28 | nanaz86 |
-| 1199 | 28 | Catherine Garza |
-| 1200 | 28 | Mindy Phariss |
-| 1201 | 28 | Leslee Bentley DeLong |
-| 1202 | 27 | Twisty Gridclear |
-| 1203 | 27 | boo |
-| 1204 | 27 | Izz |
-| 1205 | 27 | Simone Marie Thrasher |
-| 1206 | 27 | BlockFlakes |
-| 1207 | 27 | Jaison Horton |
-| 1208 | 27 | Myranda Gereau |
-| 1209 | 27 | Shirley Williams |
-| 1210 | 27 | Loopy Bridger |
-| 1211 | 27 | PIPPI |
-| 1212 | 27 | Street724 |
-| 1213 | 26 | Ivyleata McFadden |
+| 1173 | 30 | Kendall Rhodie |
+| 1174 | 30 | Funky Rollzone |
+| 1175 | 30 | San |
+| 1176 | 30 | Jennie |
+| 1177 | 30 | Loopy Wipeout |
+| 1178 | 30 | Deanne Silverdahl |
+| 1179 | 30 | Sydney Taylor Sileno |
+| 1180 | 30 | Ali Garcia |
+| 1181 | 30 | Nerdy Piecebuilder |
+| 1182 | 30 | Tati |
+| 1183 | 29 | Wayne Hendricks |
+| 1184 | 29 | Marion Wade |
+| 1185 | 29 | MzCeleste Brooks |
+| 1186 | 29 | Mrs.J2013 |
+| 1187 | 29 | CRsLady |
+| 1188 | 29 | Ciara Brown |
+| 1189 | 29 | Kelley Shoop |
+| 1190 | 29 | Wynisha Johnson |
+| 1191 | 29 | Garett Lahti |
+| 1192 | 29 | Crafty Linkfall |
+| 1193 | 29 | Unknown |
+| 1194 | 29 | Epic Dashfit |
+| 1195 | 29 | Naybel85 |
+| 1196 | 29 | Slinky Snapfit |
+| 1197 | 28 | FUNBAT |
+| 1198 | 28 | bribop |
+| 1199 | 28 | nanaz86 |
+| 1200 | 28 | Catherine Garza |
+| 1201 | 28 | Mindy Phariss |
+| 1202 | 28 | Leslee Bentley DeLong |
+| 1203 | 27 | Twisty Gridclear |
+| 1204 | 27 | Jaison Horton |
+| 1205 | 27 | boo |
+| 1206 | 27 | Izz |
+| 1207 | 27 | Myranda Gereau |
+| 1208 | 27 | Simone Marie Thrasher |
+| 1209 | 27 | BlockFlakes |
+| 1210 | 27 | Shirley Williams |
+| 1211 | 27 | Loopy Bridger |
+| 1212 | 27 | PIPPI |
+| 1213 | 27 | Street724 |
 | 1214 | 26 | Rebecca Rae Reed |
-| 1215 | 26 | Rob$GEE |
-| 1216 | 26 | Leslie Marie WarClub |
-| 1217 | 26 | Love GH |
-| 1218 | 26 | Kevin Lyles |
-| 1219 | 26 | AJscooter |
-| 1220 | 26 | taya |
+| 1215 | 26 | taya |
+| 1216 | 26 | Kevin Lyles |
+| 1217 | 26 | Ivyleata McFadden |
+| 1218 | 26 | Leslie Marie WarClub |
+| 1219 | 26 | Love GH |
+| 1220 | 26 | Rob$GEE |
 | 1221 | 26 | Michelle Clark |
 | 1222 | 26 | Lacey Decker |
 | 1223 | 26 | Jessica Huber |
@@ -1233,12 +1233,12 @@
 | 1225 | 26 | Shakita Moore-Bernard |
 | 1226 | 26 | Hannah Harkness |
 | 1227 | 26 | Debra James |
-| 1228 | 25 | Chabetta |
-| 1229 | 25 | Amy |
-| 1230 | 25 | Alicia Horsea Rojas |
-| 1231 | 25 | Kitty Kat |
-| 1232 | 25 | Daisy Jaramillo |
-| 1233 | 25 | Honey Honey |
+| 1228 | 26 | AJscooter |
+| 1229 | 25 | Chabetta |
+| 1230 | 25 | Amy |
+| 1231 | 25 | Alicia Horsea Rojas |
+| 1232 | 25 | Kitty Kat |
+| 1233 | 25 | Daisy Jaramillo |
 | 1234 | 25 | chapis |
 | 1235 | 25 | Kiki Moore |
 | 1236 | 25 | Tipsy toesy |
@@ -1246,8 +1246,8 @@
 | 1238 | 25 | Laryssia Taylor |
 | 1239 | 25 | Littleshark |
 | 1240 | 25 | José A Torres |
-| 1241 | 25 | Kendall Rhodie |
-| 1242 | 25 | Giggy Mover |
+| 1241 | 25 | Giggy Mover |
+| 1242 | 25 | Honey Honey |
 | 1243 | 24 | Flashy Wipebuilder |
 | 1244 | 24 | Jenni |
 | 1245 | 24 | Pamela Kaye |

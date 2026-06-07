@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 17:54:20 UTC
+# Standings for team1 as of 2026-06-07 17:54:40 UTC
 
 **Total Participants:** 1529
 
@@ -28,8 +28,8 @@
 | 20 | 3695 | jaimie |
 | 21 | 3372 | Tekedra Wilson |
 | 22 | 3039 | Chummy Combo |
-| 23 | 2863 | Sha Harris |
-| 24 | 2801 | Yolanda McDonald |
+| 23 | 2894 | Yolanda McDonald |
+| 24 | 2863 | Sha Harris |
 | 25 | 2708 | Ebo Got-Time |
 | 26 | 2446 | Juan Kandiss Escobedo Irwin |
 | 27 | 2445 | Cool Bridger |
@@ -139,8 +139,8 @@
 | 131 | 456 | Andre Sanon |
 | 132 | 452 | Kenny MrOnethousand Peck |
 | 133 | 444 | Kevin M. McGhee Jr |
-| 134 | 443 | Jamal Itzjusmall Chambers |
-| 135 | 442 | Lesley Brunkus Cianfaglione |
+| 134 | 444 | Lesley Brunkus Cianfaglione |
+| 135 | 443 | Jamal Itzjusmall Chambers |
 | 136 | 441 | Slinky Puzzler |
 | 137 | 439 | Asani CHumba |
 | 138 | 437 | Tobey Marberry |
@@ -149,8 +149,8 @@
 | 141 | 420 | Jessica Carter |
 | 142 | 414 | Jason Mungin |
 | 143 | 404 | Hyper Slamdrop |
-| 144 | 401 | Shell Lewis |
-| 145 | 400 | Ebony Waynes-robinson |
+| 144 | 402 | Ebony Waynes-robinson |
+| 145 | 401 | Shell Lewis |
 | 146 | 393 | SPNLover24 |
 | 147 | 389 | GrkGdess |
 | 148 | 384 | Christana Imjustbutton Stone |
