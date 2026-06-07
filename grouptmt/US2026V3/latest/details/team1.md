@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:14:17 UTC
+# Standings for team1 as of 2026-06-07 15:14:39 UTC
 
 **Total Participants:** 1489
 
@@ -77,8 +77,8 @@
 | 69 | 873 | Janine Hunter |
 | 70 | 868 | Eric Mcgaughy |
 | 71 | 863 | Court Court |
-| 72 | 836 | Tiana Moore |
-| 73 | 836 | Bre Maugh |
+| 72 | 862 | Bre Maugh |
+| 73 | 836 | Tiana Moore |
 | 74 | 815 | Corey Cawthon |
 | 75 | 803 | Kimberly Hernandez |
 | 76 | 799 | Jazzy Dashpiece |
@@ -218,31 +218,31 @@
 | 210 | 272 | Katherine Short |
 | 211 | 270 | Salim Thugger |
 | 212 | 270 | xXEKUNXx |
-| 213 | 269 | Reginald Frank |
-| 214 | 269 | DaGuy |
+| 213 | 269 | DaGuy |
+| 214 | 269 | Reginald Frank |
 | 215 | 261 | Jhonny Maii |
 | 216 | 260 | Natasha Rucker |
 | 217 | 260 | Ketrell Bailey |
 | 218 | 259 | Brave Clearbuilder |
 | 219 | 257 | Mafio SO |
-| 220 | 257 | Crystal Anderson |
-| 221 | 257 | Cathy Young |
-| 222 | 256 | Keke Ferguson |
-| 223 | 256 | Erin Sabol |
-| 224 | 254 | Tonya McElroy |
-| 225 | 253 | Tasha |
-| 226 | 250 | Davionte DaeDae Hopson-Rodriguez |
-| 227 | 250 | Penee Wiggins |
-| 228 | 249 | Falisa Bell |
-| 229 | 248 | Jazzy Fireflighters |
-| 230 | 248 | Yasmin Nakea Wright |
-| 231 | 246 | Denise B |
-| 232 | 245 | Bre Poston |
-| 233 | 245 | Derrius SeriousLee Burks |
-| 234 | 245 | Zachary Colegrove |
-| 235 | 244 | Teddy Davis |
-| 236 | 244 | Frisky Fall |
-| 237 | 242 | Robbie Cheeseman |
+| 220 | 257 | Robbie Cheeseman |
+| 221 | 257 | Crystal Anderson |
+| 222 | 257 | Cathy Young |
+| 223 | 256 | Keke Ferguson |
+| 224 | 256 | Erin Sabol |
+| 225 | 254 | Tonya McElroy |
+| 226 | 253 | Tasha |
+| 227 | 250 | Davionte DaeDae Hopson-Rodriguez |
+| 228 | 250 | Penee Wiggins |
+| 229 | 249 | Falisa Bell |
+| 230 | 248 | Jazzy Fireflighters |
+| 231 | 248 | Yasmin Nakea Wright |
+| 232 | 246 | Denise B |
+| 233 | 245 | Bre Poston |
+| 234 | 245 | Derrius SeriousLee Burks |
+| 235 | 245 | Zachary Colegrove |
+| 236 | 244 | Teddy Davis |
+| 237 | 244 | Frisky Fall |
 | 238 | 240 | Rayya Kiser |
 | 239 | 240 | Slim Shedidthat |
 | 240 | 239 | ♈️ Ariesbaby |
