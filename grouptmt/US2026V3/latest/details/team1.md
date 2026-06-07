@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:12:40 UTC
+# Standings for team1 as of 2026-06-07 13:13:18 UTC
 
 **Total Participants:** 1463
 
@@ -41,7 +41,7 @@
 | 33 | 1855 | Speedy Spinblock |
 | 34 | 1785 | Jamie Willis |
 | 35 | 1677 | Markeeta Lipscomb |
-| 36 | 1622 | Brian Stackhouse |
+| 36 | 1632 | Brian Stackhouse |
 | 37 | 1550 | Cool Bridger |
 | 38 | 1500 | Chris Russell |
 | 39 | 1453 | Janet Cooke |
@@ -315,12 +315,12 @@
 | 307 | 160 | Zippy Tilefall |
 | 308 | 160 | Tyiesha Pie Farmer |
 | 309 | 160 | Carolyn Smith |
-| 310 | 159 | TBABYJ |
-| 311 | 159 | Penee Wiggins |
-| 312 | 158 | Kimberly Linares Hernandez |
-| 313 | 157 | Courtney Cicoria |
-| 314 | 156 | Cheeky Twistpiece |
-| 315 | 156 | Nina Davis |
+| 310 | 159 | Nina Davis |
+| 311 | 159 | TBABYJ |
+| 312 | 159 | Penee Wiggins |
+| 313 | 158 | Kimberly Linares Hernandez |
+| 314 | 157 | Courtney Cicoria |
+| 315 | 156 | Cheeky Twistpiece |
 | 316 | 156 | Shalya Terry |
 | 317 | 156 | SceneGreenz Wali |
 | 318 | 156 | Alyssa Rae |
@@ -485,42 +485,42 @@
 | 477 | 99 | ChunLi |
 | 478 | 99 | SeanSanchez |
 | 479 | 99 | Ciera Peace |
-| 480 | 98 | Michael Smith |
-| 481 | 98 | Shannon Carriger |
-| 482 | 98 | Sharee Robinson |
-| 483 | 98 | Dorian Griffin |
-| 484 | 97 | Kristie |
-| 485 | 97 | Nichole Horsley-Conn |
-| 486 | 97 | NewEve |
-| 487 | 97 | Shanell Thomas |
-| 488 | 97 | Andrew Jay Vaughn |
-| 489 | 97 | Lootch |
+| 480 | 99 | Nora Mahmoud |
+| 481 | 98 | Michael Smith |
+| 482 | 98 | Shannon Carriger |
+| 483 | 98 | Sharee Robinson |
+| 484 | 98 | Dorian Griffin |
+| 485 | 97 | Kristie |
+| 486 | 97 | Nichole Horsley-Conn |
+| 487 | 97 | NewEve |
+| 488 | 97 | Shanell Thomas |
+| 489 | 97 | Andrew Jay Vaughn |
 | 490 | 97 | Twisty Cascadeclear |
-| 491 | 96 | Sherri Keys |
-| 492 | 96 | Yazz |
-| 493 | 96 | Octavia Bsb Johnson |
-| 494 | 95 | Adrian Harris |
+| 491 | 97 | Lootch |
+| 492 | 96 | Sherri Keys |
+| 493 | 96 | Yazz |
+| 494 | 96 | Octavia Bsb Johnson |
 | 495 | 95 | Jelyfish |
-| 496 | 95 | Paul Pendley |
-| 497 | 95 | Shiny Lift |
-| 498 | 95 | Bold Clusterer |
-| 499 | 94 | Sha Anderson |
-| 500 | 94 | Jes Marie |
-| 501 | 94 | Ta'Kaiyah M. Spann |
-| 502 | 94 | Nora Mahmoud |
-| 503 | 94 | Derald Miller |
-| 504 | 93 | Kimberly Susan Privette |
-| 505 | 93 | C Lo Green |
-| 506 | 93 | Chino Baby |
-| 507 | 93 | FunTime |
-| 508 | 93 | Anastasia |
+| 496 | 95 | Shiny Lift |
+| 497 | 95 | Bold Clusterer |
+| 498 | 95 | Adrian Harris |
+| 499 | 95 | Paul Pendley |
+| 500 | 94 | Ta'Kaiyah M. Spann |
+| 501 | 94 | Jes Marie |
+| 502 | 94 | Derald Miller |
+| 503 | 94 | Sha Anderson |
+| 504 | 93 | C Lo Green |
+| 505 | 93 | Anastasia |
+| 506 | 93 | FunTime |
+| 507 | 93 | Chino Baby |
+| 508 | 93 | Kimberly Susan Privette |
 | 509 | 93 | Rene Hicks |
-| 510 | 92 | Pretty Yella |
-| 511 | 92 | Kimberly Anderson |
+| 510 | 92 | Kimberly Anderson |
+| 511 | 92 | Pretty Yella |
 | 512 | 92 | Poppy Twister |
-| 513 | 91 | Aaron Hartmann |
+| 513 | 91 | Zappy Clearfit |
 | 514 | 91 | David A Alvino |
-| 515 | 91 | Zappy Clearfit |
+| 515 | 91 | Aaron Hartmann |
 | 516 | 90 | Jjhandsome |
 | 517 | 90 | Shameka Tiffany |
 | 518 | 90 | CJ Robinson |
