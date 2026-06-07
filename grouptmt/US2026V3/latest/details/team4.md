@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 13:34:19 UTC
+# Standings for team4 as of 2026-06-07 13:34:42 UTC
 
 **Total Participants:** 1471
 
@@ -16,7 +16,7 @@
 | 8 | 5469 | Kait Confetti |
 | 9 | 5300 | Candice Driver |
 | 10 | 5102 | Jerald Jones |
-| 11 | 4782 | delilahbelle |
+| 11 | 4815 | delilahbelle |
 | 12 | 4772 | Anna Moses |
 | 13 | 4513 | Bubbly Twistpiece |
 | 14 | 4323 | Nia Mayfield |
@@ -172,34 +172,34 @@
 | 164 | 311 | Jesse Olive |
 | 165 | 304 | Dazzle Dragon |
 | 166 | 303 | Sisi RedVelvet Reneè |
-| 167 | 300 | Genag |
-| 168 | 297 | beTrue76 |
-| 169 | 296 | Randy M Hatch |
-| 170 | 294 | Yesenia Castro Monreal |
-| 171 | 293 | Scamp Jones |
-| 172 | 292 | Danielle Mitchell |
-| 173 | 291 | shawna |
-| 174 | 289 | Piece of Cake |
+| 167 | 300 | Fran Aaron-Ring |
+| 168 | 300 | Genag |
+| 169 | 297 | beTrue76 |
+| 170 | 296 | Randy M Hatch |
+| 171 | 294 | Yesenia Castro Monreal |
+| 172 | 293 | Scamp Jones |
+| 173 | 292 | Danielle Mitchell |
+| 174 | 291 | shawna |
 | 175 | 289 | Chiquita Blue |
-| 176 | 288 | Maria Castillo |
-| 177 | 288 | LastBoi |
-| 178 | 286 | Perky Riserbuilder |
-| 179 | 286 | matt |
-| 180 | 285 | TRUCHILD777$$$ |
-| 181 | 284 | Megan Vick |
-| 182 | 282 | Nicole |
-| 183 | 282 | Goofy Riser |
-| 184 | 281 | Waxboss |
-| 185 | 281 | Margie Thomas |
-| 186 | 280 | Slimm |
-| 187 | 280 | Fran Aaron-Ring |
+| 176 | 289 | Piece of Cake |
+| 177 | 288 | Maria Castillo |
+| 178 | 288 | LastBoi |
+| 179 | 286 | Perky Riserbuilder |
+| 180 | 286 | matt |
+| 181 | 285 | TRUCHILD777$$$ |
+| 182 | 284 | Megan Vick |
+| 183 | 282 | Nicole |
+| 184 | 282 | Goofy Riser |
+| 185 | 281 | Waxboss |
+| 186 | 281 | Margie Thomas |
+| 187 | 280 | Slimm |
 | 188 | 279 | Anna Gribble |
 | 189 | 279 | QueenLi86 |
 | 190 | 279 | Iforget |
 | 191 | 279 | Brick House |
 | 192 | 277 | Giggly Tilt |
-| 193 | 270 | Magz |
-| 194 | 270 | Tawna Curry |
+| 193 | 270 | Tawna Curry |
+| 194 | 270 | Magz |
 | 195 | 270 | Jojo Ann |
 | 196 | 268 | Shepreneur Sade |
 | 197 | 267 | Lush Fitblock |
@@ -303,17 +303,17 @@
 | 295 | 161 | Snazzy Corner |
 | 296 | 161 | Cindy |
 | 297 | 161 | Bouncy |
-| 298 | 160 | kellie |
-| 299 | 160 | Shiny Brick |
-| 300 | 160 | Frothy Pattern |
-| 301 | 159 | JoAnn Summerlot Ratliff |
-| 302 | 159 | Logan Two-dubs Baker |
-| 303 | 158 | Dena Lynn Rogers |
-| 304 | 158 | Corie A. Brinson |
-| 305 | 158 | Joseph Hunter |
-| 306 | 157 | Matthew Wilcox |
-| 307 | 157 | Laguya |
-| 308 | 156 | Smiley Gridzone |
+| 298 | 161 | Smiley Gridzone |
+| 299 | 160 | kellie |
+| 300 | 160 | Shiny Brick |
+| 301 | 160 | Frothy Pattern |
+| 302 | 159 | JoAnn Summerlot Ratliff |
+| 303 | 159 | Logan Two-dubs Baker |
+| 304 | 158 | Dena Lynn Rogers |
+| 305 | 158 | Corie A. Brinson |
+| 306 | 158 | Joseph Hunter |
+| 307 | 157 | Matthew Wilcox |
+| 308 | 157 | Laguya |
 | 309 | 155 | Shayna Vaigneur-Hall |
 | 310 | 155 | Cherrypir05 |
 | 311 | 154 | Lani |
