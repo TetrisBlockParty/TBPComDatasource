@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:02:18 UTC
+# Standings for team2 as of 2026-06-07 12:02:42 UTC
 
 **Total Participants:** 1716
 
@@ -30,7 +30,7 @@
 | 22 | 3812 | Crystal M Sowden |
 | 23 | 3707 | Renee Weedling |
 | 24 | 3514 | Traci Elizabeth |
-| 25 | 3281 | Bobbi |
+| 25 | 3381 | Bobbi |
 | 26 | 3100 | Danni Campa |
 | 27 | 3090 | Spunky Clicker |
 | 28 | 3076 | Ashley Miller |
@@ -76,8 +76,8 @@
 | 68 | 1070 | Michelle Maulsby |
 | 69 | 1053 | Kvothe |
 | 70 | 1020 | Ruby Sandberg |
-| 71 | 997 | Eileen Egan |
-| 72 | 991 | Criccett Hooper-Smith |
+| 71 | 1006 | Criccett Hooper-Smith |
+| 72 | 997 | Eileen Egan |
 | 73 | 984 | Dane Marko |
 | 74 | 982 | Gabriella Humphreys |
 | 75 | 971 | Debra Henry |
@@ -103,7 +103,7 @@
 | 95 | 750 | Denise Potter |
 | 96 | 749 | haune |
 | 97 | 743 | Hoppy Rotate |
-| 98 | 732 | Smiley Dropper |
+| 98 | 737 | Smiley Dropper |
 | 99 | 685 | Sigmamom |
 | 100 | 670 | Krisanne Kesner-Lonsby |
 | 101 | 666 | Epic Frame |
@@ -617,29 +617,29 @@
 | 609 | 83 | CATFISH |
 | 610 | 83 | Becky Kennon |
 | 611 | 83 | Louis Brudzinski |
-| 612 | 82 | Kati Eckstein |
-| 613 | 82 | Mikaela Byrd |
+| 612 | 82 | Mikaela Byrd |
+| 613 | 82 | Kati Eckstein |
 | 614 | 82 | Madonna Ash |
-| 615 | 82 | Kimberly Brooks |
-| 616 | 82 | Kelly |
-| 617 | 81 | Justin Stark |
-| 618 | 81 | Heather Hi |
-| 619 | 81 | Evelyn Olive Kalmbach |
-| 620 | 81 | Robin Stutler |
-| 621 | 81 | Shiny Spinfit |
-| 622 | 81 | Quina Jesse Fejaran |
-| 623 | 81 | Chris Delauro |
-| 624 | 81 | Erin Lemanski |
-| 625 | 81 | Zesty Zoney |
-| 626 | 81 | Squared |
-| 627 | 81 | Samantha Bugg Stitcher |
-| 628 | 81 | YldBoar |
-| 629 | 80 | Jamin |
-| 630 | 80 | Brian Favre |
-| 631 | 80 | Plucky Grabber |
-| 632 | 80 | Ramona Guillermo |
-| 633 | 80 | Michelle Anne |
-| 634 | 80 | Denita Kaherl |
+| 615 | 82 | Denita Kaherl |
+| 616 | 82 | Kimberly Brooks |
+| 617 | 82 | Kelly |
+| 618 | 81 | Chris Delauro |
+| 619 | 81 | Heather Hi |
+| 620 | 81 | Evelyn Olive Kalmbach |
+| 621 | 81 | Robin Stutler |
+| 622 | 81 | Shiny Spinfit |
+| 623 | 81 | Quina Jesse Fejaran |
+| 624 | 81 | Justin Stark |
+| 625 | 81 | Erin Lemanski |
+| 626 | 81 | Zesty Zoney |
+| 627 | 81 | Squared |
+| 628 | 81 | Samantha Bugg Stitcher |
+| 629 | 81 | YldBoar |
+| 630 | 80 | Jamin |
+| 631 | 80 | Brian Favre |
+| 632 | 80 | Plucky Grabber |
+| 633 | 80 | Ramona Guillermo |
+| 634 | 80 | Michelle Anne |
 | 635 | 80 | Ashley Eneboe |
 | 636 | 80 | Cody Gates |
 | 637 | 80 | Carl Mccoy |
