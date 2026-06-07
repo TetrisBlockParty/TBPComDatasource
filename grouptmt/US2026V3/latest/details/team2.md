@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:37:18 UTC
+# Standings for team2 as of 2026-06-07 08:38:19 UTC
 
 **Total Participants:** 1683
 
@@ -285,32 +285,32 @@
 | 277 | 201 | Jeffrey Smith |
 | 278 | 200 | Sarah Grundisch |
 | 279 | 200 | Al Smith Jr |
-| 280 | 200 | Eric Wayne Maschman |
-| 281 | 200 | Physhie |
+| 280 | 200 | Physhie |
+| 281 | 200 | Eric Wayne Maschman |
 | 282 | 200 | August Christy Lathrop |
 | 283 | 200 | Tony Medina |
 | 284 | 200 | ShiverMeSplinter |
 | 285 | 200 | Nathan Walker |
 | 286 | 198 | Amy Taylor Pomerenk |
 | 287 | 196 | Greenie |
-| 288 | 195 | Bb |
+| 288 | 195 | Joanna Trevin Thompson |
 | 289 | 195 | Pamela Raye |
-| 290 | 195 | Laverne Ellis Blair |
-| 291 | 192 | Greta Warden |
-| 292 | 192 | Jill Goff |
-| 293 | 191 | Jessica Christine |
-| 294 | 188 | Theresa Huddleston |
-| 295 | 188 | Ray Daisy |
-| 296 | 187 | Curly Windbreaker |
-| 297 | 185 | Krystle L Coon |
-| 298 | 184 | SEH |
-| 299 | 184 | Theresa Hollinger |
-| 300 | 183 | Joanna Trevin Thompson |
+| 290 | 195 | Bb |
+| 291 | 195 | Laverne Ellis Blair |
+| 292 | 192 | Greta Warden |
+| 293 | 192 | Jill Goff |
+| 294 | 191 | Jessica Christine |
+| 295 | 188 | Theresa Huddleston |
+| 296 | 188 | Ray Daisy |
+| 297 | 187 | Curly Windbreaker |
+| 298 | 185 | Krystle L Coon |
+| 299 | 184 | SEH |
+| 300 | 184 | Theresa Hollinger |
 | 301 | 181 | Jamie Adams |
 | 302 | 180 | Loopy Dropper |
-| 303 | 180 | phamous1 |
+| 303 | 180 | Happy |
 | 304 | 180 | Skye Ehret |
-| 305 | 180 | Happy |
+| 305 | 180 | phamous1 |
 | 306 | 180 | Precious Womack |
 | 307 | 179 | Santara Ferguson |
 | 308 | 178 | Kelly Rogers |
@@ -322,17 +322,17 @@
 | 314 | 175 | Lashanda Bertram |
 | 315 | 175 | Epic Tilemaker |
 | 316 | 175 | Michelle M Braley |
-| 317 | 174 | Rocroc mo |
-| 318 | 174 | Jerry L Morales |
-| 319 | 174 | ZBee |
+| 317 | 174 | ZBee |
+| 318 | 174 | Rocroc mo |
+| 319 | 174 | Jerry L Morales |
 | 320 | 172 | Victoria Pale |
-| 321 | 172 | Carolyn McNaughton |
-| 322 | 172 | Mikia Stokes |
+| 321 | 172 | Mikia Stokes |
+| 322 | 172 | Carolyn McNaughton |
 | 323 | 170 | Bengy Lead |
-| 324 | 170 | Thomas Tyrone |
-| 325 | 170 | Harper |
-| 326 | 169 | Angie Bishop |
-| 327 | 169 | Derrick |
+| 324 | 170 | Harper |
+| 325 | 170 | Thomas Tyrone |
+| 326 | 169 | Derrick |
+| 327 | 169 | Angie Bishop |
 | 328 | 168 | Avie Lou |
 | 329 | 168 | StacyBabee |
 | 330 | 168 | Danielle Lyons |
