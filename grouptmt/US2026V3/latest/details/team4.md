@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 10:10:40 UTC
+# Standings for team4 as of 2026-06-07 10:11:18 UTC
 
 **Total Participants:** 1440
 
@@ -24,7 +24,7 @@
 | 16 | 3797 | Hanan Hana |
 | 17 | 3784 | Tyra Brooke Everman Forest |
 | 18 | 3776 | Dana Smith |
-| 19 | 3758 | Bubbly Twistpiece |
+| 19 | 3763 | Bubbly Twistpiece |
 | 20 | 3701 | BertaF1irta |
 | 21 | 3667 | Daring Ziggy |
 | 22 | 3643 | Jackie Lucas |
