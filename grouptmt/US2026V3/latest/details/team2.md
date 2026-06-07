@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:38:18 UTC
+# Standings for team2 as of 2026-06-07 10:38:40 UTC
 
 **Total Participants:** 1701
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 23444 | Summer Harrison |
+| 1 | 23496 | Summer Harrison |
 | 2 | 11700 | Mochi |
 | 3 | 10480 | Puce guide 9156 |
 | 4 | 9827 | Crystalin Heath Lewis |
@@ -149,7 +149,7 @@
 | 141 | 438 | Zappy Pattern |
 | 142 | 436 | Gill |
 | 143 | 428 | Steven Craig |
-| 144 | 421 | Groovy Snapper |
+| 144 | 422 | Groovy Snapper |
 | 145 | 420 | Zarah Kettler |
 | 146 | 419 | Cool Climber |
 | 147 | 417 | Jenny Graham |
