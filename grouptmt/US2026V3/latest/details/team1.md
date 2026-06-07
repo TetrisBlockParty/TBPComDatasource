@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:26:18 UTC
+# Standings for team1 as of 2026-06-07 10:26:40 UTC
 
 **Total Participants:** 1439
 
@@ -320,9 +320,9 @@
 | 312 | 149 | Christopher Dreamsareality McEachin |
 | 313 | 149 | HarleyJane |
 | 314 | 148 | LaToya Chambers |
-| 315 | 147 | MACHETEEDDIE513 |
-| 316 | 147 | Telisha Mims |
-| 317 | 147 | De'Nell Edwards |
+| 315 | 148 | De'Nell Edwards |
+| 316 | 147 | MACHETEEDDIE513 |
+| 317 | 147 | Telisha Mims |
 | 318 | 146 | BlackQueen105 |
 | 319 | 146 | Lakiesha Crawford |
 | 320 | 143 | BULLSEYE |

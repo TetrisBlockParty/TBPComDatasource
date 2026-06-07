@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 10:26:18 UTC
+# Standings for team2 as of 2026-06-07 10:26:40 UTC
 
 **Total Participants:** 1697
 
@@ -366,96 +366,96 @@
 | 358 | 160 | Camilo Moreno |
 | 359 | 160 | Billie Jensen |
 | 360 | 160 | Elizabeth Cornelius |
-| 361 | 159 | Misty Noe |
-| 362 | 159 | Jennifer Vitro |
+| 361 | 159 | Jennifer Vitro |
+| 362 | 159 | Misty Noe |
 | 363 | 158 | KazzyKay |
 | 364 | 158 | Rachel Nilles |
-| 365 | 156 | meg |
-| 366 | 156 | Tango Sierra |
-| 367 | 156 | Jamie Fenyus |
-| 368 | 156 | Monique Frantz |
-| 369 | 156 | Charlotte Castelli |
+| 365 | 156 | Charlotte Castelli |
+| 366 | 156 | meg |
+| 367 | 156 | Monique Frantz |
+| 368 | 156 | Tango Sierra |
+| 369 | 156 | Jamie Fenyus |
 | 370 | 154 | murd3rmous3 |
 | 371 | 153 | Cortney Coleman |
 | 372 | 151 | Amy Lea Hamilton |
-| 373 | 150 | Zany Wrecker |
-| 374 | 150 | Crystal Poss |
-| 375 | 150 | Marylin Eacker |
+| 373 | 150 | Crystal Poss |
+| 374 | 150 | Marylin Eacker |
+| 375 | 150 | Zany Wrecker |
 | 376 | 149 | Jenni LeBlanc |
-| 377 | 148 | Wayne Johnson |
-| 378 | 148 | Ashley Miller |
-| 379 | 148 | Nano. |
+| 377 | 148 | Nano. |
+| 378 | 148 | Wayne Johnson |
+| 379 | 148 | Ashley Miller |
 | 380 | 146 | Darla Nolt |
 | 381 | 145 | Alicia Parrish |
-| 382 | 144 | Funway998 |
+| 382 | 144 | Analee Nicole Jones |
 | 383 | 144 | Will Jones |
-| 384 | 144 | Analee Nicole Jones |
-| 385 | 143 | Amanda L Strong |
-| 386 | 143 | Paula Haskins |
-| 387 | 143 | Spicy Basepiece |
+| 384 | 144 | Funway998 |
+| 385 | 143 | Spicy Basepiece |
+| 386 | 143 | Amanda L Strong |
+| 387 | 143 | Paula Haskins |
 | 388 | 142 | Spunky Cascadeclear |
 | 389 | 141 | Jacquelyn Snyder Dumas |
 | 390 | 141 | Loopy Tower |
 | 391 | 140 | Sharon L Brazelton |
-| 392 | 139 | Charles E Mccardell |
-| 393 | 139 | rebel4lyfe |
-| 394 | 139 | Gabrielle Wilson |
+| 392 | 139 | Gabrielle Wilson |
+| 393 | 139 | Charles E Mccardell |
+| 394 | 139 | rebel4lyfe |
 | 395 | 139 | andee |
-| 396 | 138 | James Sayers |
+| 396 | 138 | Amber Smith |
 | 397 | 138 | NickandJess Reynolds |
-| 398 | 138 | Amber Smith |
+| 398 | 138 | James Sayers |
 | 399 | 137 | Sandra Belk |
 | 400 | 137 | Ashley Voelz |
-| 401 | 136 | Jumpy Dashpiece |
-| 402 | 136 | Mtnblzr |
+| 401 | 136 | Mtnblzr |
+| 402 | 136 | Jumpy Dashpiece |
 | 403 | 136 | Lauren Maxwell |
 | 404 | 135 | Naomi Walker |
 | 405 | 133 | Angela Hogan |
 | 406 | 133 | Tara |
-| 407 | 132 | Reign Hustler |
-| 408 | 132 | Raine |
+| 407 | 132 | Raine |
+| 408 | 132 | Reign Hustler |
 | 409 | 131 | MamaRachel |
 | 410 | 131 | Heather Billodeau |
 | 411 | 131 | Teresa Mandich |
-| 412 | 130 | Jenn |
+| 412 | 130 | Gwendolyn Boykin Mobbs |
 | 413 | 130 | Cristi Doris |
-| 414 | 130 | Gwendolyn Boykin Mobbs |
-| 415 | 130 | Jumpy Matchbuilder |
-| 416 | 130 | Charity Hauser |
-| 417 | 129 | Melissa Fink |
-| 418 | 129 | Sandy Justus |
-| 419 | 129 | Nikki Hatch |
-| 420 | 129 | Kristi K Milner |
-| 421 | 129 | Perii Reynoso |
-| 422 | 129 | Armando Sabedra |
-| 423 | 129 | Jackie Walker |
-| 424 | 129 | Belle |
+| 414 | 130 | Jenn |
+| 415 | 130 | Charity Hauser |
+| 416 | 130 | Jumpy Matchbuilder |
+| 417 | 129 | Sandy Justus |
+| 418 | 129 | Nikki Hatch |
+| 419 | 129 | Belle |
+| 420 | 129 | Jackie Walker |
+| 421 | 129 | Kristi K Milner |
+| 422 | 129 | Melissa Fink |
+| 423 | 129 | Perii Reynoso |
+| 424 | 129 | Armando Sabedra |
 | 425 | 128 | rageking |
 | 426 | 127 | Stephanie |
-| 427 | 127 | Aurora June Brock |
-| 428 | 127 | Tammy Roth |
+| 427 | 127 | Tammy Roth |
+| 428 | 127 | Aurora June Brock |
 | 429 | 127 | Nicky Steigerwalt |
 | 430 | 127 | Tina |
 | 431 | 126 | Tamtam |
 | 432 | 125 | Jessica Connot |
 | 433 | 125 | Kathryn |
-| 434 | 124 | Jason Burris |
-| 435 | 124 | Angeleye A James |
-| 436 | 123 | Simone F |
-| 437 | 123 | Mandy Van Laningham Bishop |
-| 438 | 123 | Joannah Capilitan |
+| 434 | 125 | Joannah Capilitan |
+| 435 | 124 | Jason Burris |
+| 436 | 124 | Angeleye A James |
+| 437 | 123 | Simone F |
+| 438 | 123 | Mandy Van Laningham Bishop |
 | 439 | 122 | Maria Ward |
 | 440 | 122 | Sarah Louise Cobb |
 | 441 | 122 | Kevin Patrick |
 | 442 | 122 | Katie Jones |
-| 443 | 120 | Kevin Mccoy |
-| 444 | 120 | Nichole Wilson |
-| 445 | 120 | Christine James |
-| 446 | 120 | Adam Latin |
-| 447 | 120 | Carlos J Blas |
-| 448 | 120 | Wendy McKee |
-| 449 | 120 | Keisha Robinson |
-| 450 | 120 | Starvinmarvin |
+| 443 | 120 | Starvinmarvin |
+| 444 | 120 | Wendy McKee |
+| 445 | 120 | Nichole Wilson |
+| 446 | 120 | Carlos J Blas |
+| 447 | 120 | Keisha Robinson |
+| 448 | 120 | Kevin Mccoy |
+| 449 | 120 | Adam Latin |
+| 450 | 120 | Christine James |
 | 451 | 119 | Martha Lynn Wiggins |
 | 452 | 119 | Candi Cane |
 | 453 | 119 | Vicki Flippo |
@@ -465,32 +465,32 @@
 | 457 | 118 | Ceci |
 | 458 | 117 | Poppy Strikerbuilder |
 | 459 | 117 | CAL1KAWS559 |
-| 460 | 116 | Sherri E Woods Hess |
-| 461 | 116 | Joshua Dye |
-| 462 | 115 | Nova |
-| 463 | 115 | Leticia Tillman |
-| 464 | 115 | Muffin Popper |
-| 465 | 115 | Amber Carpenter |
+| 460 | 116 | Joshua Dye |
+| 461 | 116 | Sherri E Woods Hess |
+| 462 | 115 | Muffin Popper |
+| 463 | 115 | Amber Carpenter |
+| 464 | 115 | Nova |
+| 465 | 115 | Leticia Tillman |
 | 466 | 114 | Epic Framezone |
 | 467 | 113 | Meagan Grimmett Washburn |
-| 468 | 112 | Kristen |
-| 469 | 112 | LadyDeath |
+| 468 | 112 | LadyDeath |
+| 469 | 112 | Kristen |
 | 470 | 112 | Mike Mordhorst |
-| 471 | 110 | Zappy Liney |
-| 472 | 110 | Wendy Durrence Jones |
-| 473 | 110 | LittleHippoEars |
-| 474 | 110 | Rachel M. Farnsworth |
-| 475 | 109 | Sillyk |
-| 476 | 109 | Partin |
+| 471 | 110 | Rachel M. Farnsworth |
+| 472 | 110 | LittleHippoEars |
+| 473 | 110 | Zappy Liney |
+| 474 | 110 | Wendy Durrence Jones |
+| 475 | 109 | Partin |
+| 476 | 109 | Sillyk |
 | 477 | 108 | Maurii93 |
 | 478 | 108 | Sherri Caillet Aucoin |
 | 479 | 108 | Terie Safrit |
-| 480 | 107 | Cassandra Green |
-| 481 | 107 | Carole Brown |
-| 482 | 107 | Kenzie |
-| 483 | 107 | Sam Brewster |
-| 484 | 107 | Boldy Fitclear |
-| 485 | 107 | Stephanie Smith Robinson |
+| 480 | 107 | Boldy Fitclear |
+| 481 | 107 | Cassandra Green |
+| 482 | 107 | Stephanie Smith Robinson |
+| 483 | 107 | Kenzie |
+| 484 | 107 | Carole Brown |
+| 485 | 107 | Sam Brewster |
 | 486 | 106 | Chummy Snapbuilder |
 | 487 | 106 | Cassandra Milner |
 | 488 | 106 | Francesca Wagenhoffer |
