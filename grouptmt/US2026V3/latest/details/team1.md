@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:23:16 UTC
+# Standings for team1 as of 2026-06-07 00:24:18 UTC
 
 **Total Participants:** 1233
 
@@ -23,7 +23,7 @@
 | 15 | 3142 | Debbie Carswell |
 | 16 | 3039 | Chummy Combo |
 | 17 | 3003 | Cassidy Butler |
-| 18 | 2763 | Sha Harris |
+| 18 | 2813 | Sha Harris |
 | 19 | 2596 | Pdubbl3 |
 | 20 | 2536 | jaimie |
 | 21 | 2415 | Yolanda McDonald |
@@ -211,10 +211,10 @@
 | 203 | 184 | Frisky Fall |
 | 204 | 184 | Dai Bo |
 | 205 | 182 | Hyper Blocky |
-| 206 | 180 | Zippy Lifter |
-| 207 | 180 | Melissa D. M. Hornsby |
-| 208 | 179 | ♈️ Ariesbaby |
-| 209 | 179 | Amber Wilson |
+| 206 | 180 | Melissa D. M. Hornsby |
+| 207 | 180 | Zippy Lifter |
+| 208 | 179 | Amber Wilson |
+| 209 | 179 | ♈️ Ariesbaby |
 | 210 | 178 | IThinkNot |
 | 211 | 176 | Nikki Hogan |
 | 212 | 176 | Jessica Russell |
@@ -226,29 +226,29 @@
 | 218 | 168 | Tina Mitchell |
 | 219 | 167 | Jai |
 | 220 | 166 | Tarnisha Neicy Jones |
-| 221 | 165 | Queenie Perry |
-| 222 | 164 | Richard Flex |
-| 223 | 163 | Mafio SO |
-| 224 | 162 | JaClanDiah |
-| 225 | 161 | LaShaun Stinson |
+| 221 | 166 | Slim Shedidthat |
+| 222 | 165 | Queenie Perry |
+| 223 | 164 | Richard Flex |
+| 224 | 163 | Mafio SO |
+| 225 | 162 | JaClanDiah |
 | 226 | 161 | Dawn L Washington-Feuquay |
-| 227 | 160 | Carolyn Smith |
+| 227 | 161 | LaShaun Stinson |
 | 228 | 160 | Spicy Risepiece |
-| 229 | 160 | Jamie Willis |
-| 230 | 160 | DaGuy |
+| 229 | 160 | Carolyn Smith |
+| 230 | 160 | Jamie Willis |
 | 231 | 160 | Sara Meri |
-| 232 | 159 | Fina McKinnis |
-| 233 | 158 | Slim Shedidthat |
+| 232 | 160 | DaGuy |
+| 233 | 159 | Fina McKinnis |
 | 234 | 158 | Kimberly Linares Hernandez |
 | 235 | 157 | 신재호 |
 | 236 | 156 | Cheeky Twistpiece |
-| 237 | 153 | Rackemwillie34 |
-| 238 | 153 | Chris Caniglia |
-| 239 | 152 | Jolly Tilefall |
-| 240 | 151 | Randizzle |
-| 241 | 149 | Lively Riserpiece |
-| 242 | 149 | Christopher Dreamsareality McEachin |
-| 243 | 149 | Chasem45 |
+| 237 | 154 | Randizzle |
+| 238 | 153 | Rackemwillie34 |
+| 239 | 153 | Chris Caniglia |
+| 240 | 152 | Jolly Tilefall |
+| 241 | 149 | Chasem45 |
+| 242 | 149 | Lively Riserpiece |
+| 243 | 149 | Christopher Dreamsareality McEachin |
 | 244 | 148 | SceneGreenz Wali |
 | 245 | 147 | MACHETEEDDIE513 |
 | 246 | 147 | Sammie Walker |
@@ -1192,50 +1192,50 @@
 | 1184 | 7 | J Dot Flo |
 | 1185 | 7 | Andrew Harris |
 | 1186 | 7 | Zany Patternblock |
-| 1187 | 7 | KingSlim82 |
+| 1187 | 7 | Milfchaser530 |
 | 1188 | 7 | whatever |
-| 1189 | 7 | Stephanie L Jeffries Moultrie |
-| 1190 | 7 | Sheena Hamilton |
-| 1191 | 7 | Teresa F. Campos Eaton |
-| 1192 | 7 | Joey Hoover |
-| 1193 | 7 | Zachary Sinclair |
-| 1194 | 7 | Mary2 |
-| 1195 | 7 | Milfchaser530 |
+| 1189 | 7 | Sheena Hamilton |
+| 1190 | 7 | Stephanie L Jeffries Moultrie |
+| 1191 | 7 | Zachary Sinclair |
+| 1192 | 7 | Teresa F. Campos Eaton |
+| 1193 | 7 | Joey Hoover |
+| 1194 | 7 | KingSlim82 |
+| 1195 | 7 | Mary2 |
 | 1196 | 7 | Deadra Graham |
 | 1197 | 7 | Deantenique Smalls |
 | 1198 | 7 | Jhonny Maii |
 | 1199 | 7 | Quana |
 | 1200 | 7 | Ann White |
 | 1201 | 7 | Shane Brucewayne |
-| 1202 | 6 | Nerdy Riser |
-| 1203 | 6 | Nerdy Slam |
-| 1204 | 6 | Simone Dublin |
-| 1205 | 6 | Kyshia |
-| 1206 | 6 | Wu May |
-| 1207 | 6 | Terry Lee Moya |
-| 1208 | 6 | NEM0228 |
-| 1209 | 6 | smash56! |
-| 1210 | 6 | Andrae Robinson |
-| 1211 | 6 | CK |
-| 1212 | 6 | Frilly Riserbuilder |
-| 1213 | 5 | Tito Divyn |
+| 1202 | 6 | Carmen Claudio |
+| 1203 | 6 | Nerdy Riser |
+| 1204 | 6 | Nerdy Slam |
+| 1205 | 6 | Simone Dublin |
+| 1206 | 6 | Kyshia |
+| 1207 | 6 | Wu May |
+| 1208 | 6 | Terry Lee Moya |
+| 1209 | 6 | NEM0228 |
+| 1210 | 6 | smash56! |
+| 1211 | 6 | Andrae Robinson |
+| 1212 | 6 | CK |
+| 1213 | 6 | Frilly Riserbuilder |
 | 1214 | 5 | Zesty Clearer |
-| 1215 | 5 | Annette DeLoatch Thompson |
-| 1216 | 5 | Zappy Clearfit |
-| 1217 | 5 | Stephanie Zuniga Tullock |
-| 1218 | 5 | Angelique Thomas |
-| 1219 | 5 | Happy |
-| 1220 | 5 | Carmen Claudio |
+| 1215 | 5 | Tito Divyn |
+| 1216 | 5 | Annette DeLoatch Thompson |
+| 1217 | 5 | Zappy Clearfit |
+| 1218 | 5 | Stephanie Zuniga Tullock |
+| 1219 | 5 | Angelique Thomas |
+| 1220 | 5 | Happy |
 | 1221 | 5 | Rachael R Gull |
-| 1222 | 5 | Derek Beverly |
-| 1223 | 5 | pettymexoxo |
-| 1224 | 5 | the guy |
-| 1225 | 5 | Mario Meliodas |
+| 1222 | 5 | pettymexoxo |
+| 1223 | 5 | Alonzo Kirkland |
+| 1224 | 5 | Derek Beverly |
+| 1225 | 5 | the guy |
 | 1226 | 5 | Meshia |
 | 1227 | 5 | VERA DAME |
-| 1228 | 5 | Andy Barnett |
+| 1228 | 5 | Mario Meliodas |
 | 1229 | 5 | Chill Linkroll |
-| 1230 | 5 | Alonzo Kirkland |
+| 1230 | 5 | Andy Barnett |
 | 1231 | 5 | Marissa Sweet |
 | 1232 | 5 | DRIFTER |
 | 1233 | 5 | Aanngie Aanngie |
