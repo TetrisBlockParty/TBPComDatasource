@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:38:17 UTC
+# Standings for team1 as of 2026-06-07 00:38:39 UTC
 
 **Total Participants:** 1238
 
@@ -276,36 +276,36 @@
 | 268 | 131 | Koi |
 | 269 | 131 | Matthieu Pistone |
 | 270 | 130 | Miera Nicole |
-| 271 | 130 | Jessica Davis |
-| 272 | 130 | Crystal Anderson |
+| 271 | 130 | Crystal Anderson |
+| 272 | 130 | Jessica Davis |
 | 273 | 129 | Lisa Fletcher |
 | 274 | 129 | Mathew Trudell |
 | 275 | 128 | Jack Vlasak |
 | 276 | 128 | Darrel K Pemberton |
-| 277 | 127 | Treneil Daffin |
+| 277 | 127 | Giggy Tower |
 | 278 | 127 | Telisha Mims |
-| 279 | 126 | Simone Bailey |
-| 280 | 126 | Bre Poston |
-| 281 | 125 | Dizzy Dashy |
+| 279 | 127 | Treneil Daffin |
+| 280 | 126 | Simone Bailey |
+| 281 | 126 | Bre Poston |
 | 282 | 125 | Brittanie Wardlow |
-| 283 | 125 | Jayjay Rich |
-| 284 | 125 | LaTonya Myers |
-| 285 | 124 | Tipsy Linkroll |
-| 286 | 124 | Courtney Cicoria |
-| 287 | 123 | Cauiasia DeJ'ae |
-| 288 | 123 | kitten |
-| 289 | 123 | Rachael Bakowicz Edwards |
-| 290 | 122 | Giggy Tower |
+| 283 | 125 | Dizzy Dashy |
+| 284 | 125 | Jayjay Rich |
+| 285 | 125 | LaTonya Myers |
+| 286 | 124 | Tipsy Linkroll |
+| 287 | 124 | Courtney Cicoria |
+| 288 | 123 | Cauiasia DeJ'ae |
+| 289 | 123 | kitten |
+| 290 | 123 | Rachael Bakowicz Edwards |
 | 291 | 121 | Tiana Monique |
 | 292 | 121 | Bubbly Piececlear |
 | 293 | 120 | Dynah Gordon |
-| 294 | 120 | Nerdy Blockpiece |
-| 295 | 120 | Charlene Baltimore |
-| 296 | 120 | Lazy Tiltpiece |
-| 297 | 120 | Valerie Alexander |
-| 298 | 120 | Tanya Clayton |
-| 299 | 120 | Sarah Clark |
-| 300 | 120 | TT |
+| 294 | 120 | Charlene Baltimore |
+| 295 | 120 | Lazy Tiltpiece |
+| 296 | 120 | Valerie Alexander |
+| 297 | 120 | Tanya Clayton |
+| 298 | 120 | Sarah Clark |
+| 299 | 120 | TT |
+| 300 | 120 | Nerdy Blockpiece |
 | 301 | 120 | Katrina Ramey |
 | 302 | 120 | Guy Incognito |
 | 303 | 120 | Trina Greenwood |

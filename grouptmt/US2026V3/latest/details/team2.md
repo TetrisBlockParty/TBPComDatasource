@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:38:17 UTC
+# Standings for team2 as of 2026-06-07 00:38:39 UTC
 
 **Total Participants:** 1481
 
@@ -160,16 +160,16 @@
 | 152 | 303 | Hoppy Mover |
 | 153 | 302 | Hypee |
 | 154 | 300 | Linda Guay |
-| 155 | 298 | Breeana Bennett |
-| 156 | 298 | Heather Burgett |
-| 157 | 296 | Snappy Combo |
-| 158 | 294 | Vistabrat |
-| 159 | 293 | Erin Thomas |
-| 160 | 292 | James Ward |
-| 161 | 291 | Flashy Twistline |
-| 162 | 282 | Renee Freeman Jacobson |
-| 163 | 280 | Patricia Carroll |
-| 164 | 280 | Hector |
+| 155 | 300 | Hector |
+| 156 | 298 | Breeana Bennett |
+| 157 | 298 | Heather Burgett |
+| 158 | 296 | Snappy Combo |
+| 159 | 294 | Vistabrat |
+| 160 | 293 | Erin Thomas |
+| 161 | 292 | James Ward |
+| 162 | 291 | Flashy Twistline |
+| 163 | 282 | Renee Freeman Jacobson |
+| 164 | 280 | Patricia Carroll |
 | 165 | 280 | Brittney Williams |
 | 166 | 278 | Ashley Billiot Rhodes |
 | 167 | 277 | DayDreamer79 |
