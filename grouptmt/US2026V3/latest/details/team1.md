@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:18:19 UTC
+# Standings for team1 as of 2026-06-07 09:18:41 UTC
 
 **Total Participants:** 1431
 
@@ -9,7 +9,7 @@
 | 1 | 22000 | Kalynn Parks |
 | 2 | 19500 | Ariel |
 | 3 | 9170 | Charnay Peacock |
-| 4 | 8046 | Tyeina Johnson |
+| 4 | 8446 | Tyeina Johnson |
 | 5 | 7732 | Carrie English |
 | 6 | 7602 | Charlie Roehm |
 | 7 | 7059 | Tracy Cohen |
@@ -474,57 +474,57 @@
 | 466 | 93 | Kimberly Susan Privette |
 | 467 | 93 | Lucy |
 | 468 | 93 | Chino Baby |
-| 469 | 92 | Pretty Yella |
+| 469 | 92 | Boldy Matchbuilder |
 | 470 | 92 | Nyhlah Patterson |
-| 471 | 91 | Aaron Hartmann |
-| 472 | 91 | David A Alvino |
-| 473 | 90 | Lilly Brown |
-| 474 | 90 | Jjhandsome |
-| 475 | 90 | Yashica Smith |
+| 471 | 92 | Pretty Yella |
+| 472 | 91 | Aaron Hartmann |
+| 473 | 91 | David A Alvino |
+| 474 | 90 | Nora Mahmoud |
+| 475 | 90 | Jjhandsome |
 | 476 | 90 | CJ Robinson |
-| 477 | 90 | Shameka Tiffany |
-| 478 | 90 | crumb bumc |
-| 479 | 90 | Nora Mahmoud |
-| 480 | 89 | Zany Breaker |
-| 481 | 89 | LuckyStar |
-| 482 | 89 | Cynthia Cruell |
-| 483 | 89 | Jenni Hardman |
-| 484 | 88 | Daring Riserfit |
+| 477 | 90 | Yashica Smith |
+| 478 | 90 | Shameka Tiffany |
+| 479 | 90 | crumb bumc |
+| 480 | 90 | Lilly Brown |
+| 481 | 89 | Jenni Hardman |
+| 482 | 89 | Zany Breaker |
+| 483 | 89 | LuckyStar |
+| 484 | 89 | Cynthia Cruell |
 | 485 | 88 | Brenda Malachi-butler |
-| 486 | 88 | Soubletzy |
+| 486 | 88 | Daring Riserfit |
 | 487 | 88 | 大竹直之 |
-| 488 | 87 | Holly Baker |
-| 489 | 87 | Natalie Burroughs |
-| 490 | 87 | Cachet A Ward |
-| 491 | 87 | Chummy Frame |
-| 492 | 86 | Melissa Olvera |
-| 493 | 86 | Giggly Tiltbuilder |
-| 494 | 86 | Kendra McIntyre |
-| 495 | 86 | whatever |
-| 496 | 86 | Cm |
-| 497 | 86 | Marie Wilson |
-| 498 | 86 | Donna Payne |
-| 499 | 86 | krd |
-| 500 | 86 | Tweet Turner |
-| 501 | 86 | Messy Live |
-| 502 | 85 | Sonia Binti Mfalme |
-| 503 | 85 | Hardtohandle91 |
-| 504 | 85 | Bobby Chestefield |
-| 505 | 85 | Eric Machuca |
-| 506 | 85 | Amy Villalpando |
-| 507 | 85 | Jae Thompson-Tyus |
-| 508 | 85 | TotoCherue |
-| 509 | 85 | De'Mear McKinney |
-| 510 | 85 | Sarah Swietlicki - Lopez |
+| 488 | 88 | Soubletzy |
+| 489 | 87 | Holly Baker |
+| 490 | 87 | Chummy Frame |
+| 491 | 87 | Natalie Burroughs |
+| 492 | 87 | Cachet A Ward |
+| 493 | 86 | Messy Live |
+| 494 | 86 | Giggly Tiltbuilder |
+| 495 | 86 | Kendra McIntyre |
+| 496 | 86 | Melissa Olvera |
+| 497 | 86 | whatever |
+| 498 | 86 | krd |
+| 499 | 86 | Cm |
+| 500 | 86 | Marie Wilson |
+| 501 | 86 | Donna Payne |
+| 502 | 86 | Tweet Turner |
+| 503 | 85 | Sarah Swietlicki - Lopez |
+| 504 | 85 | Eric Machuca |
+| 505 | 85 | De'Mear McKinney |
+| 506 | 85 | TotoCherue |
+| 507 | 85 | Hardtohandle91 |
+| 508 | 85 | Sonia Binti Mfalme |
+| 509 | 85 | Amy Villalpando |
+| 510 | 85 | Jae Thompson-Tyus |
 | 511 | 85 | DaemahnFriday |
-| 512 | 84 | Angela Brown Babin |
-| 513 | 84 | Just2Play$ |
+| 512 | 85 | Bobby Chestefield |
+| 513 | 84 | Guard Up |
 | 514 | 84 | Zappy Snapgrid |
-| 515 | 84 | Guard Up |
-| 516 | 84 | Dawn Basemore |
-| 517 | 84 | Franklin Sotelo |
-| 518 | 84 | Saucy Faller |
-| 519 | 84 | Boldy Matchbuilder |
+| 515 | 84 | Dawn Basemore |
+| 516 | 84 | Franklin Sotelo |
+| 517 | 84 | Angela Brown Babin |
+| 518 | 84 | Just2Play$ |
+| 519 | 84 | Saucy Faller |
 | 520 | 83 | Jackytrain52 |
 | 521 | 83 | MrsMeadows2019 |
 | 522 | 83 | Victor |
