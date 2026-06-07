@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:52:42 UTC
+# Standings for team2 as of 2026-06-07 07:53:18 UTC
 
 **Total Participants:** 1674
 
@@ -127,8 +127,8 @@
 | 119 | 547 | Nettrainer |
 | 120 | 541 | Ricardo Ewart |
 | 121 | 528 | Amanda Sikes |
-| 122 | 516 | Amber Miller Wirick |
-| 123 | 516 | Gloria May Shook |
+| 122 | 520 | Gloria May Shook |
+| 123 | 516 | Amber Miller Wirick |
 | 124 | 515 | Loony Faller |
 | 125 | 500 | Suki Kaur |
 | 126 | 500 | Courtney McCulley |
@@ -1324,54 +1324,54 @@
 | 1316 | 20 | Tabetha Cooper |
 | 1317 | 20 | Deborah Morey-avila |
 | 1318 | 20 | Boldy Patterner |
-| 1319 | 20 | Chris |
-| 1320 | 20 | Tasha Gilbert |
-| 1321 | 20 | Roger Kee |
-| 1322 | 20 | Thomas Chris |
-| 1323 | 20 | Bonita Alexander |
+| 1319 | 20 | Bigbb |
+| 1320 | 20 | Bonita Alexander |
+| 1321 | 20 | Tasha Gilbert |
+| 1322 | 20 | Roger Kee |
+| 1323 | 20 | Thomas Chris |
 | 1324 | 20 | Lori Rose |
 | 1325 | 20 | Holly Barefoot |
 | 1326 | 20 | Elizabeth Henry |
 | 1327 | 20 | Ciera Adams |
 | 1328 | 20 | Jade007 |
-| 1329 | 20 | Carebear05 |
-| 1330 | 20 | Bigbb |
-| 1331 | 20 | Katie Thacker |
+| 1329 | 20 | Chris |
+| 1330 | 20 | Carebear05 |
+| 1331 | 20 | Krickett M. Curtis |
 | 1332 | 20 | Amanda Gann |
 | 1333 | 20 | Kenya Johnson |
-| 1334 | 20 | Krickett M. Curtis |
-| 1335 | 20 | Valerie Roberts |
-| 1336 | 19 | Nicole Slimick |
-| 1337 | 19 | Alicia Abston |
-| 1338 | 19 | Lindsay Gregory |
-| 1339 | 19 | Ashley Bryant-hatcher |
-| 1340 | 19 | Liliana Mills |
-| 1341 | 19 | Jessica Rose Engebretson |
-| 1342 | 19 | Tetra Maniac |
-| 1343 | 19 | Chris Cooper |
-| 1344 | 19 | Sandra Kopas Stetka |
-| 1345 | 19 | Jackie Hayslip |
-| 1346 | 19 | Aguilar Rita |
-| 1347 | 19 | latte |
-| 1348 | 19 | Snazzy Racker |
-| 1349 | 18 | Cathy Cobb |
-| 1350 | 18 | Cozy Curve |
-| 1351 | 18 | Araiiya |
-| 1352 | 18 | SturgStang |
-| 1353 | 18 | Randy Clevenger |
-| 1354 | 18 | Miggy Gonzalez |
-| 1355 | 18 | Alison Welsh |
-| 1356 | 18 | Lexi Chouinard |
-| 1357 | 18 | Beej Blake |
-| 1358 | 18 | Cynthia Vornlocker |
-| 1359 | 18 | Glitzy Stackbuilder |
-| 1360 | 18 | Ashley Wolford |
-| 1361 | 18 | Aaron Jones |
-| 1362 | 18 | Rugrat Angi Bechstein |
-| 1363 | 18 | Adrian Alvarez |
-| 1364 | 18 | William Richardson |
-| 1365 | 18 | Ashley Shazes |
-| 1366 | 18 | June Salevao |
+| 1334 | 20 | Valerie Roberts |
+| 1335 | 20 | Katie Thacker |
+| 1336 | 19 | Jessica Rose Engebretson |
+| 1337 | 19 | Lindsay Gregory |
+| 1338 | 19 | Nicole Slimick |
+| 1339 | 19 | Alicia Abston |
+| 1340 | 19 | Snazzy Racker |
+| 1341 | 19 | Chris Cooper |
+| 1342 | 19 | Aguilar Rita |
+| 1343 | 19 | Jackie Hayslip |
+| 1344 | 19 | Ashley Bryant-hatcher |
+| 1345 | 19 | latte |
+| 1346 | 19 | Liliana Mills |
+| 1347 | 19 | Tetra Maniac |
+| 1348 | 19 | June Salevao |
+| 1349 | 19 | Sandra Kopas Stetka |
+| 1350 | 18 | Beej Blake |
+| 1351 | 18 | Cathy Cobb |
+| 1352 | 18 | Alison Welsh |
+| 1353 | 18 | Araiiya |
+| 1354 | 18 | SturgStang |
+| 1355 | 18 | Randy Clevenger |
+| 1356 | 18 | Cozy Curve |
+| 1357 | 18 | Miggy Gonzalez |
+| 1358 | 18 | Lexi Chouinard |
+| 1359 | 18 | Cynthia Vornlocker |
+| 1360 | 18 | Glitzy Stackbuilder |
+| 1361 | 18 | Ashley Wolford |
+| 1362 | 18 | Aaron Jones |
+| 1363 | 18 | Rugrat Angi Bechstein |
+| 1364 | 18 | Adrian Alvarez |
+| 1365 | 18 | William Richardson |
+| 1366 | 18 | Ashley Shazes |
 | 1367 | 18 | Taran Evans |
 | 1368 | 18 | Kris Lea |
 | 1369 | 18 | Daimien Jarem |
