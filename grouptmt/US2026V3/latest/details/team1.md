@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:52:39 UTC
+# Standings for team1 as of 2026-06-07 18:53:18 UTC
 
 **Total Participants:** 1542
 
@@ -14,7 +14,7 @@
 | 6 | 8158 | Charlie Roehm |
 | 7 | 8152 | Songne Arif |
 | 8 | 7362 | Dyane Leah Ware |
-| 9 | 7232 | Debbie Carswell |
+| 9 | 7272 | Debbie Carswell |
 | 10 | 7059 | Tracy Cohen |
 | 11 | 6802 | Cozy Edge |
 | 12 | 6754 | Death by SnuSnu |
@@ -38,11 +38,11 @@
 | 30 | 2165 | Epic Snapfall |
 | 31 | 2164 | Jo NewmindNewfocus Bell |
 | 32 | 2161 | Ivana Schmidt |
-| 33 | 2122 | Brian Stackhouse |
-| 34 | 2099 | Jamie Willis |
-| 35 | 2076 | April Inboden |
-| 36 | 2045 | COSA303 |
-| 37 | 1938 | Linzie Marie |
+| 33 | 2138 | Linzie Marie |
+| 34 | 2122 | Brian Stackhouse |
+| 35 | 2099 | Jamie Willis |
+| 36 | 2076 | April Inboden |
+| 37 | 2045 | COSA303 |
 | 38 | 1855 | Speedy Spinblock |
 | 39 | 1796 | Erika Windom |
 | 40 | 1677 | Markeeta Lipscomb |
@@ -131,7 +131,7 @@
 | 123 | 511 | Abraham Espaillat |
 | 124 | 510 | Cj Gorman |
 | 125 | 504 | ELM |
-| 126 | 498 | Atlantalindi |
+| 126 | 503 | Atlantalindi |
 | 127 | 495 | De'Laonzeo Anthony |
 | 128 | 494 | DaVonte' Cretter |
 | 129 | 492 | Robbie Cheeseman |
