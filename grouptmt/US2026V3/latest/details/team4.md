@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:46:19 UTC
+# Standings for team4 as of 2026-06-07 12:46:41 UTC
 
 **Total Participants:** 1460
 
@@ -299,8 +299,8 @@
 | 291 | 160 | Frothy Pattern |
 | 292 | 160 | Fran Aaron-Ring |
 | 293 | 160 | kellie |
-| 294 | 159 | Logan Two-dubs Baker |
-| 295 | 159 | JoAnn Summerlot Ratliff |
+| 294 | 159 | JoAnn Summerlot Ratliff |
+| 295 | 159 | Logan Two-dubs Baker |
 | 296 | 158 | Dena Lynn Rogers |
 | 297 | 158 | Joseph Hunter |
 | 298 | 158 | Corie A. Brinson |
@@ -314,24 +314,24 @@
 | 306 | 153 | June Hoffman |
 | 307 | 152 | Samara Garcia |
 | 308 | 152 | Jumpy Builderpiece |
-| 309 | 152 | Funky Tiler |
+| 309 | 152 | Pepper |
 | 310 | 152 | Nerdy Faller |
-| 311 | 151 | Bean |
-| 312 | 151 | Troy Zanelli |
-| 313 | 150 | Justin Michael |
-| 314 | 150 | Heidi Anne Scheiderer |
+| 311 | 152 | Funky Tiler |
+| 312 | 151 | Bean |
+| 313 | 151 | Troy Zanelli |
+| 314 | 150 | Justin Michael |
 | 315 | 150 | Hardy Fuller |
 | 316 | 150 | MrsReap |
-| 317 | 148 | Smiley Gridzone |
-| 318 | 148 | Melika Zeheb |
-| 319 | 147 | Allysha McFarland |
-| 320 | 147 | EvoKitty |
-| 321 | 147 | Pepper |
-| 322 | 146 | Zesty Twistpiece |
-| 323 | 146 | SupaFly |
-| 324 | 146 | Maegon Brazille |
-| 325 | 146 | Cheeky Fallzone |
-| 326 | 146 | Jasmine Marie |
+| 317 | 150 | Heidi Anne Scheiderer |
+| 318 | 148 | Smiley Gridzone |
+| 319 | 148 | Melika Zeheb |
+| 320 | 147 | Allysha McFarland |
+| 321 | 147 | EvoKitty |
+| 322 | 146 | SupaFly |
+| 323 | 146 | Maegon Brazille |
+| 324 | 146 | Cheeky Fallzone |
+| 325 | 146 | Jasmine Marie |
+| 326 | 146 | Zesty Twistpiece |
 | 327 | 144 | Dapper Strikerpiece |
 | 328 | 144 | Jennifer Fisher Franklin |
 | 329 | 143 | Brennan Shea Greene |
@@ -366,19 +366,19 @@
 | 358 | 129 | Simone |
 | 359 | 129 | Has2brat |
 | 360 | 129 | Dizzy Slammer |
-| 361 | 129 | Sandra Stark |
-| 362 | 129 | Shauna Davis |
+| 361 | 129 | Shauna Davis |
+| 362 | 129 | Sandra Stark |
 | 363 | 128 | Sherry Mooney |
 | 364 | 128 | Juvon SupaShawdii Brooks |
 | 365 | 128 | Lana Tran |
 | 366 | 127 | Cheeky Climber |
 | 367 | 127 | zoes |
-| 368 | 127 | Jrr |
-| 369 | 127 | Jen Smith |
+| 368 | 127 | Jen Smith |
+| 369 | 127 | Jrr |
 | 370 | 126 | Karen Small |
 | 371 | 125 | DizzB400 |
-| 372 | 124 | Bammer |
-| 373 | 124 | Tasha Suzanne Prisbrey |
+| 372 | 124 | Tasha Suzanne Prisbrey |
+| 373 | 124 | Bammer |
 | 374 | 124 | Shanna Fragen |
 | 375 | 122 | Mighty1 |
 | 376 | 122 | Holly Bramel |
