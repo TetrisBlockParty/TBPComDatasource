@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:28:41 UTC
+# Standings for team1 as of 2026-06-07 06:29:19 UTC
 
 **Total Participants:** 1396
 
@@ -1355,53 +1355,53 @@
 | 1347 | 7 | Joey Hoover |
 | 1348 | 7 | Deadra Graham |
 | 1349 | 7 | RMGreen |
-| 1350 | 7 | Stephanie L Jeffries Moultrie |
-| 1351 | 7 | Quana |
-| 1352 | 7 | Sheena Hamilton |
-| 1353 | 7 | Zachary Sinclair |
-| 1354 | 7 | Deantenique Smalls |
-| 1355 | 7 | J Dot Flo |
-| 1356 | 7 | Teresa F. Campos Eaton |
-| 1357 | 7 | Alexis Farquer |
-| 1358 | 7 | Milfchaser530 |
-| 1359 | 7 | KingSlim82 |
-| 1360 | 7 | Court Ney |
-| 1361 | 7 | linda m |
-| 1362 | 7 | Bryan Dell |
+| 1350 | 7 | Sheena Hamilton |
+| 1351 | 7 | Zachary Sinclair |
+| 1352 | 7 | Deantenique Smalls |
+| 1353 | 7 | J Dot Flo |
+| 1354 | 7 | Teresa F. Campos Eaton |
+| 1355 | 7 | Quana |
+| 1356 | 7 | Alexis Farquer |
+| 1357 | 7 | Milfchaser530 |
+| 1358 | 7 | KingSlim82 |
+| 1359 | 7 | Court Ney |
+| 1360 | 7 | linda m |
+| 1361 | 7 | Bryan Dell |
+| 1362 | 7 | Stephanie L Jeffries Moultrie |
 | 1363 | 6 | Andrae Robinson |
-| 1364 | 6 | smash56! |
-| 1365 | 6 | party t-rex 27 |
-| 1366 | 6 | Nerdy Slam |
-| 1367 | 6 | Shiny Crusher |
-| 1368 | 6 | NEM0228 |
-| 1369 | 6 | CK |
-| 1370 | 6 | Stevie Malcon |
-| 1371 | 6 | Tammy Hooser |
-| 1372 | 6 | Kyshia |
-| 1373 | 5 | Angelique Thomas |
-| 1374 | 5 | Joy Baker |
-| 1375 | 5 | Andy Barnett |
-| 1376 | 5 | Alonzo Kirkland |
-| 1377 | 5 | Zesty Brickline |
-| 1378 | 5 | Ashley Horne |
-| 1379 | 5 | Godz Chosen |
-| 1380 | 5 | Stephanie Zuniga Tullock |
-| 1381 | 5 | Schuyler Carson Jackson |
-| 1382 | 5 | the guy |
-| 1383 | 5 | Chill Linkroll |
-| 1384 | 5 | Marissa Sweet |
-| 1385 | 5 | VERA DAME |
-| 1386 | 5 | pettymexoxo |
-| 1387 | 5 | Happy |
-| 1388 | 5 | Annette DeLoatch Thompson |
-| 1389 | 5 | Jason Riley |
-| 1390 | 5 | Derek Beverly |
-| 1391 | 5 | Mighty Riserbuilder |
-| 1392 | 5 | Jackie Sanasay |
-| 1393 | 5 | Tito Divyn |
-| 1394 | 5 | Aanngie Aanngie |
-| 1395 | 5 | DRIFTER |
-| 1396 | 5 | Meshia |
+| 1364 | 6 | Kyshia |
+| 1365 | 6 | Tammy Hooser |
+| 1366 | 6 | smash56! |
+| 1367 | 6 | Stevie Malcon |
+| 1368 | 6 | party t-rex 27 |
+| 1369 | 6 | Nerdy Slam |
+| 1370 | 6 | NEM0228 |
+| 1371 | 6 | CK |
+| 1372 | 6 | Shiny Crusher |
+| 1373 | 5 | Godz Chosen |
+| 1374 | 5 | Meshia |
+| 1375 | 5 | Schuyler Carson Jackson |
+| 1376 | 5 | the guy |
+| 1377 | 5 | Joy Baker |
+| 1378 | 5 | Stephanie Zuniga Tullock |
+| 1379 | 5 | Alonzo Kirkland |
+| 1380 | 5 | Zesty Brickline |
+| 1381 | 5 | Angelique Thomas |
+| 1382 | 5 | Andy Barnett |
+| 1383 | 5 | Marissa Sweet |
+| 1384 | 5 | DRIFTER |
+| 1385 | 5 | Aanngie Aanngie |
+| 1386 | 5 | Jackie Sanasay |
+| 1387 | 5 | Mighty Riserbuilder |
+| 1388 | 5 | Jason Riley |
+| 1389 | 5 | Annette DeLoatch Thompson |
+| 1390 | 5 | Happy |
+| 1391 | 5 | Chill Linkroll |
+| 1392 | 5 | VERA DAME |
+| 1393 | 5 | pettymexoxo |
+| 1394 | 5 | Ashley Horne |
+| 1395 | 5 | Derek Beverly |
+| 1396 | 5 | Tito Divyn |
 
 ---
 *Standings created by tournaments datasource generation tool*
