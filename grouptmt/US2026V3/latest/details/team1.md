@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:16:19 UTC
+# Standings for team1 as of 2026-06-07 18:16:41 UTC
 
 **Total Participants:** 1532
 
@@ -53,10 +53,10 @@
 | 45 | 1376 | Robyn Caldwell |
 | 46 | 1343 | Jennifer To |
 | 47 | 1333 | Jacoby E Fleming |
-| 48 | 1249 | Ashley Espeut |
-| 49 | 1239 | Holly Jolly |
-| 50 | 1233 | Cherry Rose |
-| 51 | 1224 | JoJo |
+| 48 | 1284 | JoJo |
+| 49 | 1249 | Ashley Espeut |
+| 50 | 1239 | Holly Jolly |
+| 51 | 1233 | Cherry Rose |
 | 52 | 1221 | Daylene Johannes |
 | 53 | 1126 | Ryan Meilleur |
 | 54 | 1102 | D'Andra Stewart |
