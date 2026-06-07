@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:58:19 UTC
+# Standings for team2 as of 2026-06-07 12:58:39 UTC
 
 **Total Participants:** 1734
 
@@ -43,9 +43,9 @@
 | 35 | 2700 | boblawboblaw |
 | 36 | 2640 | Sean Rippa |
 | 37 | 2500 | Anthony Lilley |
-| 38 | 2287 | Christina Jambard Sampier |
-| 39 | 2262 | Frisky Balanceblock |
-| 40 | 2258 | Julie Trede Amerson |
+| 38 | 2408 | Julie Trede Amerson |
+| 39 | 2287 | Christina Jambard Sampier |
+| 40 | 2262 | Frisky Balanceblock |
 | 41 | 2210 | Bea Bee |
 | 42 | 2209 | Aubree Richard |
 | 43 | 2032 | Andrew Weissenborn |

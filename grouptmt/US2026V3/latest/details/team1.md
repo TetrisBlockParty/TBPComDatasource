@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 12:58:19 UTC
+# Standings for team1 as of 2026-06-07 12:58:39 UTC
 
 **Total Participants:** 1456
 
@@ -221,25 +221,25 @@
 | 213 | 245 | Zachary Colegrove |
 | 214 | 245 | Rhonda Williams Warner |
 | 215 | 245 | Bre Poston |
-| 216 | 241 | SyTheEvilGenius1 |
-| 217 | 240 | Rayya Kiser |
-| 218 | 240 | Reginald Frank |
-| 219 | 238 | Queenie Perry |
-| 220 | 237 | David Fuentes |
-| 221 | 236 | Nutty Spinblock |
-| 222 | 235 | Michele Simpson |
-| 223 | 234 | Dacia Hicks |
-| 224 | 231 | Mic Balew |
-| 225 | 229 | Ann White |
-| 226 | 228 | Latisha Fairley |
-| 227 | 227 | Slinky Puzzler |
-| 228 | 223 | BULLSEYE |
+| 216 | 243 | BULLSEYE |
+| 217 | 241 | SyTheEvilGenius1 |
+| 218 | 240 | Rayya Kiser |
+| 219 | 240 | Reginald Frank |
+| 220 | 238 | Queenie Perry |
+| 221 | 237 | David Fuentes |
+| 222 | 236 | Nutty Spinblock |
+| 223 | 235 | Michele Simpson |
+| 224 | 234 | Dacia Hicks |
+| 225 | 231 | Mic Balew |
+| 226 | 229 | Ann White |
+| 227 | 228 | Latisha Fairley |
+| 228 | 227 | Slinky Puzzler |
 | 229 | 220 | Slim Shedidthat |
 | 230 | 219 | Jhonny Maii |
 | 231 | 217 | Koi |
 | 232 | 214 | Teddy Davis |
-| 233 | 212 | Steve Reno |
-| 234 | 212 | Nobles Brandon |
+| 233 | 212 | Nobles Brandon |
+| 234 | 212 | Steve Reno |
 | 235 | 211 | Boldy Liner |
 | 236 | 210 | Dion Gray |
 | 237 | 207 | Melissa D. M. Hornsby |
@@ -591,38 +591,38 @@
 | 583 | 80 | Chevalier Burley |
 | 584 | 80 | Latore Maxie |
 | 585 | 79 | Montréal Mars |
-| 586 | 79 | Nerdy Climber |
-| 587 | 79 | Evette Moreno |
+| 586 | 79 | Jimmy Shannon |
+| 587 | 79 | Nerdy Climber |
 | 588 | 79 | TieMs BHughez |
-| 589 | 78 | Claudia Price |
-| 590 | 78 | Solomon Valarie |
-| 591 | 78 | Smiley3000 |
-| 592 | 78 | Ryan Runyan |
-| 593 | 78 | Azeiare Ziare |
-| 594 | 78 | Rachel Renae Bettis |
+| 589 | 79 | Evette Moreno |
+| 590 | 78 | Claudia Price |
+| 591 | 78 | Solomon Valarie |
+| 592 | 78 | Smiley3000 |
+| 593 | 78 | Ryan Runyan |
+| 594 | 78 | Azeiare Ziare |
 | 595 | 78 | Kahh |
-| 596 | 77 | Dana Hawes |
-| 597 | 77 | Jimmy Shannon |
+| 596 | 78 | Rachel Renae Bettis |
+| 597 | 77 | Dana Hawes |
 | 598 | 77 | Ysma Simmons |
 | 599 | 77 | EvaLynn NeCole |
-| 600 | 76 | Essence Jones |
-| 601 | 76 | lady |
-| 602 | 76 | Angelique Talbot |
-| 603 | 76 | Giggly Shatterline |
-| 604 | 76 | Earl Williams |
-| 605 | 75 | Erika |
-| 606 | 75 | Jennifer Moore |
-| 607 | 75 | sasha |
+| 600 | 76 | Angelique Talbot |
+| 601 | 76 | Essence Jones |
+| 602 | 76 | lady |
+| 603 | 76 | Earl Williams |
+| 604 | 76 | Giggly Shatterline |
+| 605 | 75 | Angie Lebron |
+| 606 | 75 | Erika |
+| 607 | 75 | Jennifer Moore |
 | 608 | 75 | Courtney Robinson |
-| 609 | 75 | Angie Lebron |
-| 610 | 74 | Sabrina Wilkerson |
-| 611 | 74 | Tetrisdestroyer |
-| 612 | 74 | Cortrell Foster |
-| 613 | 74 | Glitzy Clusterer |
-| 614 | 74 | Casey Chapman |
-| 615 | 74 | Sunny Clicky |
-| 616 | 74 | Renee Marshall |
-| 617 | 74 | Kimmie Gargano |
+| 609 | 75 | sasha |
+| 610 | 74 | Tetrisdestroyer |
+| 611 | 74 | Renee Marshall |
+| 612 | 74 | Sunny Clicky |
+| 613 | 74 | Casey Chapman |
+| 614 | 74 | Sabrina Wilkerson |
+| 615 | 74 | Cortrell Foster |
+| 616 | 74 | Kimmie Gargano |
+| 617 | 74 | Glitzy Clusterer |
 | 618 | 73 | Boldy Pivoty |
 | 619 | 73 | Marlynnnnn |
 | 620 | 72 | Nekka |
