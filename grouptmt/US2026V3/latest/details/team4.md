@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 19:32:41 UTC
+# Standings for team4 as of 2026-06-07 19:33:19 UTC
 
 **Total Participants:** 1587
 
@@ -9,7 +9,7 @@
 | 1 | 15897 | Lyza |
 | 2 | 13000 | Jessica Sheehan |
 | 3 | 12315 | Lisa Cullum |
-| 4 | 10524 | Hanan Hana |
+| 4 | 11374 | Hanan Hana |
 | 5 | 10200 | Cinny |
 | 6 | 7442 | ktothet |
 | 7 | 6401 | BertaF1irta |
@@ -771,36 +771,36 @@
 | 763 | 67 | Kimberly Ann |
 | 764 | 67 | Michael Cruz |
 | 765 | 67 | Playful Raccoon |
-| 766 | 67 | Tony Clark |
-| 767 | 67 | Glittara |
+| 766 | 67 | Glittara |
+| 767 | 67 | Tony Clark |
 | 768 | 67 | Andy Petersen |
 | 769 | 67 | Yournightmare |
 | 770 | 67 | Wacky Snaplink |
 | 771 | 66 | Joyce Hampton |
-| 772 | 66 | Leslie |
-| 773 | 66 | Jennifer Brucz |
-| 774 | 66 | Scarlett Ashley Clark |
-| 775 | 66 | james |
-| 776 | 65 | Lacie Powers |
-| 777 | 65 | Dinah Mccall |
-| 778 | 65 | Genger |
-| 779 | 65 | Youngkueen |
-| 780 | 65 | Gabby Simones |
-| 781 | 65 | Rocky |
-| 782 | 65 | Yvette Johnson |
-| 783 | 65 | Pap337 |
-| 784 | 64 | Giggy Bridgepiece |
-| 785 | 64 | Daring Brickbuilder |
-| 786 | 64 | JuicyJay |
-| 787 | 64 | Brittany |
-| 788 | 64 | Daffney Starr |
-| 789 | 64 | Tod Jae |
-| 790 | 64 | MamaC |
-| 791 | 63 | Shirley A. Godfrey |
-| 792 | 63 | Nachos |
+| 772 | 66 | MattJennifer Marie Ericson |
+| 773 | 66 | Leslie |
+| 774 | 66 | Jennifer Brucz |
+| 775 | 66 | Scarlett Ashley Clark |
+| 776 | 66 | james |
+| 777 | 65 | Lacie Powers |
+| 778 | 65 | Dinah Mccall |
+| 779 | 65 | Genger |
+| 780 | 65 | Youngkueen |
+| 781 | 65 | Gabby Simones |
+| 782 | 65 | Rocky |
+| 783 | 65 | Yvette Johnson |
+| 784 | 65 | Pap337 |
+| 785 | 64 | Giggy Bridgepiece |
+| 786 | 64 | Daring Brickbuilder |
+| 787 | 64 | JuicyJay |
+| 788 | 64 | Brittany |
+| 789 | 64 | Daffney Starr |
+| 790 | 64 | Tod Jae |
+| 791 | 64 | MamaC |
+| 792 | 63 | Shirley A. Godfrey |
 | 793 | 63 | JP |
-| 794 | 63 | Lush Twisterfit |
-| 795 | 63 | MattJennifer Marie Ericson |
+| 794 | 63 | Nachos |
+| 795 | 63 | Lush Twisterfit |
 | 796 | 63 | ButterfliesRFree |
 | 797 | 63 | Cassie N Danica Flaherty |
 | 798 | 63 | Renzo Tonini |
@@ -1203,9 +1203,9 @@
 | 1195 | 30 | Sherri G Davis |
 | 1196 | 30 | Audacious |
 | 1197 | 30 | Shirley Tow Middaugh |
-| 1198 | 30 | Katy Roman |
-| 1199 | 30 | Jesus Fuentes III |
-| 1200 | 30 | Spidaman86 |
+| 1198 | 30 | Spidaman86 |
+| 1199 | 30 | Katy Roman |
+| 1200 | 30 | Jesus Fuentes III |
 | 1201 | 30 | Funky Rollzone |
 | 1202 | 30 | Tati |
 | 1203 | 30 | Janna Bruss |
@@ -1213,33 +1213,33 @@
 | 1205 | 30 | Daring Towerer |
 | 1206 | 30 | Deanne Silverdahl |
 | 1207 | 30 | Donna Winget |
-| 1208 | 29 | Mrs.J2013 |
+| 1208 | 29 | Unknown |
 | 1209 | 29 | Wayne Hendricks |
-| 1210 | 29 | Kelley Shoop |
-| 1211 | 29 | Marion Wade |
+| 1210 | 29 | Marion Wade |
+| 1211 | 29 | Kelley Shoop |
 | 1212 | 29 | Wynisha Johnson |
 | 1213 | 29 | Crafty Linkfall |
 | 1214 | 29 | Ciara Brown |
 | 1215 | 29 | Epic Dashfit |
-| 1216 | 29 | MzCeleste Brooks |
-| 1217 | 29 | Garett Lahti |
-| 1218 | 29 | Naybel85 |
-| 1219 | 29 | CRsLady |
-| 1220 | 29 | Unknown |
+| 1216 | 29 | Mrs.J2013 |
+| 1217 | 29 | MzCeleste Brooks |
+| 1218 | 29 | Garett Lahti |
+| 1219 | 29 | Naybel85 |
+| 1220 | 29 | CRsLady |
 | 1221 | 28 | Mindy Phariss |
-| 1222 | 28 | nanaz86 |
+| 1222 | 28 | Colin hollenbeck |
 | 1223 | 28 | Catherine Garza |
-| 1224 | 28 | FUNBAT |
+| 1224 | 28 | nanaz86 |
 | 1225 | 28 | Leslee Bentley DeLong |
-| 1226 | 28 | Hannah Harkness |
-| 1227 | 27 | Jaison Horton |
-| 1228 | 27 | Glitter |
-| 1229 | 27 | BlockFlakes |
-| 1230 | 27 | boo |
-| 1231 | 27 | Izz |
-| 1232 | 27 | PIPPI |
-| 1233 | 27 | Myranda Gereau |
-| 1234 | 27 | Colin hollenbeck |
+| 1226 | 28 | FUNBAT |
+| 1227 | 28 | Hannah Harkness |
+| 1228 | 27 | Jaison Horton |
+| 1229 | 27 | Glitter |
+| 1230 | 27 | BlockFlakes |
+| 1231 | 27 | boo |
+| 1232 | 27 | Izz |
+| 1233 | 27 | PIPPI |
+| 1234 | 27 | Myranda Gereau |
 | 1235 | 27 | Street724 |
 | 1236 | 27 | Shirley Williams |
 | 1237 | 27 | Loopy Bridger |
