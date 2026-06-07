@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:22:42 UTC
+# Standings for team2 as of 2026-06-07 18:23:18 UTC
 
 **Total Participants:** 1847
 
@@ -15,7 +15,7 @@
 | 7 | 8484 | Mocha |
 | 8 | 7687 | Lacey Nolting |
 | 9 | 7000 | Crafty Ziggy |
-| 10 | 6442 | Christina Shell |
+| 10 | 6482 | Christina Shell |
 | 11 | 6114 | Morgann McDaniel |
 | 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
@@ -40,7 +40,7 @@
 | 32 | 3471 | Andre Love |
 | 33 | 3076 | Ashley Miller |
 | 34 | 2982 | Charles Varca |
-| 35 | 2950 | Quirky Catcher |
+| 35 | 2955 | Quirky Catcher |
 | 36 | 2863 | Angelica Jelli Gillaspy |
 | 37 | 2790 | Logan Basham |
 | 38 | 2715 | Angie BBlock |
@@ -187,13 +187,13 @@
 | 179 | 390 | La chulis |
 | 180 | 385 | Amy Gregg |
 | 181 | 384 | Lisa Underwood Desmond |
-| 182 | 382 | Nikki Hayes |
-| 183 | 381 | Joslyn Johnson |
-| 184 | 381 | Lyric Price |
+| 182 | 384 | Lyric Price |
+| 183 | 382 | Nikki Hayes |
+| 184 | 381 | Joslyn Johnson |
 | 185 | 379 | Joni Michelle Morgan |
-| 186 | 376 | Jason Cook |
-| 187 | 376 | Nutty Curver |
-| 188 | 376 | AndyJo |
+| 186 | 376 | Nutty Curver |
+| 187 | 376 | AndyJo |
+| 188 | 376 | Jason Cook |
 | 189 | 375 | Branden Frankowski |
 | 190 | 375 | Milad Arzani |
 | 191 | 373 | Hoppy Mover |
@@ -230,10 +230,10 @@
 | 222 | 320 | Xandrea Jones |
 | 223 | 318 | Melissa Thomas |
 | 224 | 317 | Nikki EightySixed |
-| 225 | 311 | Lindsey Ford |
-| 226 | 310 | Greta Warden |
-| 227 | 307 | Nova Nova |
-| 228 | 307 | Twisty Buildgrid |
+| 225 | 317 | Twisty Buildgrid |
+| 226 | 311 | Lindsey Ford |
+| 227 | 310 | Greta Warden |
+| 228 | 307 | Nova Nova |
 | 229 | 304 | Heather Burgett |
 | 230 | 302 | Margie Ann Naffziger |
 | 231 | 302 | Hypee |
