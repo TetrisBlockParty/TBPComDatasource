@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:20:42 UTC
+# Standings for team1 as of 2026-06-07 15:21:20 UTC
 
 **Total Participants:** 1489
 
@@ -298,10 +298,10 @@
 | 290 | 186 | Sarah Clark |
 | 291 | 184 | Bbyunicorn |
 | 292 | 184 | Dai Bo |
-| 293 | 183 | Wild Out Nai |
-| 294 | 180 | Zippy Lifter |
-| 295 | 180 | Ann Chung |
-| 296 | 180 | Mary Phillippi Blanton |
+| 293 | 183 | Mary Phillippi Blanton |
+| 294 | 183 | Wild Out Nai |
+| 295 | 180 | Zippy Lifter |
+| 296 | 180 | Ann Chung |
 | 297 | 179 | Brand Nu |
 | 298 | 175 | Amy Lynn Leifheit |
 | 299 | 174 | Nina Davis |
@@ -600,43 +600,43 @@
 | 592 | 82 | Happy Blockpiece |
 | 593 | 82 | OhNoZer0 |
 | 594 | 81 | Montego Allen |
-| 595 | 81 | Sara |
-| 596 | 81 | Angela L Charles |
-| 597 | 81 | Shea Ladynick Henderson |
-| 598 | 81 | TRUBBLE45 |
-| 599 | 80 | Chevalier Burley |
-| 600 | 80 | Spicy Shatterblock |
-| 601 | 80 | Lisa420 |
-| 602 | 80 | NedaWin |
-| 603 | 80 | Christopher L Crites |
-| 604 | 80 | Lauren Farkas |
-| 605 | 80 | Cynthia Bradley |
-| 606 | 80 | Charles Johnson |
-| 607 | 80 | Kimberly Noble |
-| 608 | 80 | Big Bovice |
-| 609 | 80 | Gerold Folk Haddock |
-| 610 | 80 | Latore Maxie |
-| 611 | 80 | Tracey Johnson |
-| 612 | 80 | Kamilya Rembert |
-| 613 | 80 | Kp |
-| 614 | 80 | Victoria Smith |
-| 615 | 80 | Lester Malone |
+| 595 | 81 | Angela L Charles |
+| 596 | 81 | Sara |
+| 597 | 81 | BonnieB |
+| 598 | 81 | Shea Ladynick Henderson |
+| 599 | 81 | TRUBBLE45 |
+| 600 | 80 | Chevalier Burley |
+| 601 | 80 | Tracey Johnson |
+| 602 | 80 | Lisa420 |
+| 603 | 80 | NedaWin |
+| 604 | 80 | Christopher L Crites |
+| 605 | 80 | Lauren Farkas |
+| 606 | 80 | Cynthia Bradley |
+| 607 | 80 | Charles Johnson |
+| 608 | 80 | Kimberly Noble |
+| 609 | 80 | Big Bovice |
+| 610 | 80 | Gerold Folk Haddock |
+| 611 | 80 | Latore Maxie |
+| 612 | 80 | Spicy Shatterblock |
+| 613 | 80 | Lester Malone |
+| 614 | 80 | Chereese Harris |
+| 615 | 80 | Kamilya Rembert |
 | 616 | 80 | Lady Scorpio |
-| 617 | 80 | Chereese Harris |
-| 618 | 79 | Nerdy Climber |
-| 619 | 79 | Boymama917 |
+| 617 | 80 | Victoria Smith |
+| 618 | 80 | Kp |
+| 619 | 79 | Nerdy Climber |
 | 620 | 79 | Kim Holzmiller |
-| 621 | 79 | Naee Bee |
-| 622 | 79 | Evette Moreno |
-| 623 | 79 | TieMs BHughez |
-| 624 | 79 | Montréal Mars |
-| 625 | 78 | Solomon Valarie |
+| 621 | 79 | Boymama917 |
+| 622 | 79 | Naee Bee |
+| 623 | 79 | Evette Moreno |
+| 624 | 79 | TieMs BHughez |
+| 625 | 79 | Montréal Mars |
 | 626 | 78 | Rachel Renae Bettis |
-| 627 | 78 | Claudia Price |
-| 628 | 78 | Kahh |
-| 629 | 78 | Smiley3000 |
-| 630 | 78 | Ryan Runyan |
-| 631 | 78 | BonnieB |
+| 627 | 78 | Solomon Valarie |
+| 628 | 78 | Claudia Price |
+| 629 | 78 | Kahh |
+| 630 | 78 | Smiley3000 |
+| 631 | 78 | Ryan Runyan |
 | 632 | 78 | Azeiare Ziare |
 | 633 | 77 | Ysma Simmons |
 | 634 | 77 | Dirty Deeds |
