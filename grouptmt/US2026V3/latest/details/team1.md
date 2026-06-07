@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 23:26:19 UTC
+# Standings for team1 as of 2026-06-07 23:26:40 UTC
 
 **Total Participants:** 1617
 
@@ -199,7 +199,7 @@
 | 191 | 330 | Eugina Slater |
 | 192 | 330 | Davionte DaeDae Hopson-Rodriguez |
 | 193 | 328 | Karebear |
-| 194 | 321 | Rolanda Williams |
+| 194 | 327 | Rolanda Williams |
 | 195 | 318 | Nerdy Snapfall |
 | 196 | 316 | Latisha Fairley |
 | 197 | 315 | Chantelle Lee |
