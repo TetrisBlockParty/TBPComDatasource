@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 02:10:18 UTC
+# Standings for team2 as of 2026-06-07 02:10:40 UTC
 
 **Total Participants:** 1525
 
@@ -144,72 +144,72 @@
 | 136 | 348 | Eric Drane |
 | 137 | 347 | Zesty Strikerbuilder |
 | 138 | 344 | Traci Abern |
-| 139 | 342 | Bri St Peter |
-| 140 | 340 | Mom |
-| 141 | 333 | Jackie Tupper |
-| 142 | 332 | Jason Cook |
-| 143 | 328 | Keri Mears |
+| 139 | 343 | Theresa Marie |
+| 140 | 342 | Bri St Peter |
+| 141 | 340 | Mom |
+| 142 | 333 | Jackie Tupper |
+| 143 | 332 | Jason Cook |
 | 144 | 328 | Tim Tim |
-| 145 | 327 | Gloria May Shook |
-| 146 | 325 | Amy Gregg |
-| 147 | 323 | Shannon Wilson |
-| 148 | 322 | Nikki Hayes |
-| 149 | 320 | Zany Blockclear |
-| 150 | 319 | Michelle Rich Burkhart |
-| 151 | 317 | Ruby Sandberg |
-| 152 | 315 | Milad Arzani |
-| 153 | 314 | Danielle Blount |
-| 154 | 313 | Theresa Marie |
+| 145 | 328 | Keri Mears |
+| 146 | 327 | Gloria May Shook |
+| 147 | 325 | Amy Gregg |
+| 148 | 323 | Shannon Wilson |
+| 149 | 322 | Nikki Hayes |
+| 150 | 320 | Zany Blockclear |
+| 151 | 319 | Michelle Rich Burkhart |
+| 152 | 317 | Ruby Sandberg |
+| 153 | 315 | Milad Arzani |
+| 154 | 314 | Danielle Blount |
 | 155 | 311 | Hoppy Mover |
 | 156 | 310 | Jennifer Smith |
 | 157 | 309 | Ashley Green |
 | 158 | 305 | haune |
 | 159 | 302 | Hypee |
-| 160 | 300 | Hector |
-| 161 | 300 | Linda Guay |
+| 160 | 300 | Linda Guay |
+| 161 | 300 | Hector |
 | 162 | 299 | Mookshake |
-| 163 | 298 | Heather Burgett |
-| 164 | 298 | Breeana Bennett |
+| 163 | 298 | Breeana Bennett |
+| 164 | 298 | Heather Burgett |
 | 165 | 296 | Snappy Combo |
 | 166 | 294 | Vistabrat |
 | 167 | 293 | Erin Thomas |
-| 168 | 292 | Flower_child |
-| 169 | 292 | James Ward |
+| 168 | 292 | James Ward |
+| 169 | 292 | Flower_child |
 | 170 | 291 | Flashy Twistline |
 | 171 | 285 | Samantha Carman |
 | 172 | 284 | Renee Freeman Jacobson |
-| 173 | 280 | Nova Nova |
-| 174 | 280 | Brittney Williams |
-| 175 | 280 | Patricia Carroll |
-| 176 | 280 | H |
+| 173 | 280 | Brittney Williams |
+| 174 | 280 | Patricia Carroll |
+| 175 | 280 | H |
+| 176 | 280 | Nova Nova |
 | 177 | 278 | Ashley Billiot Rhodes |
-| 178 | 277 | DayDreamer79 |
-| 179 | 277 | Sarah Mccolgan |
+| 178 | 277 | Sarah Mccolgan |
+| 179 | 277 | DayDreamer79 |
 | 180 | 270 | Amber Wolf |
 | 181 | 270 | Brenda Jones |
 | 182 | 269 | Ackerman 85 |
 | 183 | 262 | Cool Balancer |
 | 184 | 261 | Becca Marie |
 | 185 | 260 | Nettrainer |
-| 186 | 260 | Snappy Blockbuilder |
-| 187 | 260 | giamy |
+| 186 | 260 | giamy |
+| 187 | 260 | Snappy Blockbuilder |
 | 188 | 259 | Angie Kowalsky Olson |
-| 189 | 253 | Hilliary Beyer |
-| 190 | 253 | Marge Cromer |
+| 189 | 253 | Marge Cromer |
+| 190 | 253 | Hilliary Beyer |
 | 191 | 252 | Kathy Strickland |
 | 192 | 251 | Jessica Lynn |
 | 193 | 250 | marsam |
 | 194 | 247 | Brittni Lawrence |
-| 195 | 247 | Melissa Thomas |
-| 196 | 247 | Fudgie Pie |
+| 195 | 247 | Fudgie Pie |
+| 196 | 247 | Melissa Thomas |
 | 197 | 246 | Brooke Lynn Marie Adelaide |
 | 198 | 241 | Boldy Wobbler |
 | 199 | 240 | Iesha Cupil |
 | 200 | 236 | Lush Party |
 | 201 | 234 | Larry Cross |
 | 202 | 234 | Chipper Stackbuilder |
-| 203 | 233 | Amie Marks |
-| 204 | 233 | Lisa Underwood Desmond |
+| 203 | 233 | Lisa Underwood Desmond |
+| 204 | 233 | Amie Marks |
 | 205 | 232 | Pam Bauder Ludwig |
 | 206 | 230 | Brandy Chinelle |
 | 207 | 225 | Cheery Towerzone |
@@ -324,9 +324,9 @@
 | 316 | 144 | Cortney Coleman |
 | 317 | 143 | Amanda L Strong |
 | 318 | 143 | Spicy Basepiece |
-| 319 | 142 | Nikki EightySixed |
-| 320 | 141 | Joslyn Johnson |
-| 321 | 141 | Tango Sierra |
+| 319 | 143 | Tango Sierra |
+| 320 | 142 | Nikki EightySixed |
+| 321 | 141 | Joslyn Johnson |
 | 322 | 140 | Teddy Williams |
 | 323 | 140 | Billie Jensen |
 | 324 | 140 | Sharon L Brazelton |
@@ -366,10 +366,10 @@
 | 358 | 129 | Perii Reynoso |
 | 359 | 127 | Aurora June Brock |
 | 360 | 127 | Stephanie |
-| 361 | 127 | Tammy Roth |
-| 362 | 125 | Ariel Gundersen |
-| 363 | 125 | Gwendolyn Boykin Mobbs |
-| 364 | 124 | Tina |
+| 361 | 127 | Tina |
+| 362 | 127 | Tammy Roth |
+| 363 | 125 | Ariel Gundersen |
+| 364 | 125 | Gwendolyn Boykin Mobbs |
 | 365 | 124 | Anthony Swift |
 | 366 | 124 | Jason Burris |
 | 367 | 124 | Angeleye A James |
@@ -487,27 +487,27 @@
 | 479 | 88 | Tami Kay Williams Watson |
 | 480 | 88 | Cozy Cascade |
 | 481 | 88 | Frilly Shiftsnap |
-| 482 | 87 | Kristen |
-| 483 | 87 | Sarah Jane Gorsuch |
+| 482 | 87 | Sarah Jane Gorsuch |
+| 483 | 87 | Kristen |
 | 484 | 87 | Jackie Walker |
-| 485 | 86 | Susie Conger |
+| 485 | 86 | bozzycat |
 | 486 | 86 | Dad |
-| 487 | 85 | Frisky Linkbuilder |
-| 488 | 85 | Christine James |
-| 489 | 85 | ChefDeb |
-| 490 | 85 | Sarah Louise Cobb |
-| 491 | 85 | Tonya Marino |
-| 492 | 85 | Rhonda Driskill |
-| 493 | 85 | Daisy Girl |
-| 494 | 85 | Christina Maria |
-| 495 | 84 | Stoney McMillion |
+| 487 | 86 | Susie Conger |
+| 488 | 85 | Christina Maria |
+| 489 | 85 | Christine James |
+| 490 | 85 | ChefDeb |
+| 491 | 85 | Sarah Louise Cobb |
+| 492 | 85 | Tonya Marino |
+| 493 | 85 | Frisky Linkbuilder |
+| 494 | 85 | Rhonda Driskill |
+| 495 | 85 | Daisy Girl |
 | 496 | 84 | Martha Lynn Wiggins |
-| 497 | 83 | bozzycat |
-| 498 | 83 | Billy Pittman |
+| 497 | 84 | Stoney McMillion |
+| 498 | 83 | Belinda Gullion Austin |
 | 499 | 83 | Katrien |
-| 500 | 83 | Belinda Gullion Austin |
-| 501 | 83 | TetrisMama |
-| 502 | 83 | Louis Brudzinski |
+| 500 | 83 | TetrisMama |
+| 501 | 83 | Louis Brudzinski |
+| 502 | 83 | Billy Pittman |
 | 503 | 83 | Chummy Snapbuilder |
 | 504 | 82 | Kelly |
 | 505 | 82 | Silly Tiltbuilder |

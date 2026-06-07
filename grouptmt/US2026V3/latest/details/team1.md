@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:10:18 UTC
+# Standings for team1 as of 2026-06-07 02:10:40 UTC
 
 **Total Participants:** 1283
 
@@ -79,12 +79,12 @@
 | 71 | 678 | No_Other_Choice |
 | 72 | 658 | Eartha Brown |
 | 73 | 620 | IamJust Neyamijah Washington Sr. |
-| 74 | 607 | Ebo Got-Time |
-| 75 | 605 | JoJo |
-| 76 | 601 | JaszyBadd |
-| 77 | 598 | Ivana Schmidt |
-| 78 | 587 | KenpachisGirl |
-| 79 | 587 | Eric Mcgaughy |
+| 74 | 610 | Eric Mcgaughy |
+| 75 | 607 | Ebo Got-Time |
+| 76 | 605 | JoJo |
+| 77 | 601 | JaszyBadd |
+| 78 | 598 | Ivana Schmidt |
+| 79 | 587 | KenpachisGirl |
 | 80 | 586 | Kellie Hall |
 | 81 | 584 | Todd C. Clemens |
 | 82 | 552 | Carolynne Walker-Bell |
