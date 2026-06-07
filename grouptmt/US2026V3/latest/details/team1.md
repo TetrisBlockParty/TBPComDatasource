@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 09:17:18 UTC
+# Standings for team1 as of 2026-06-07 09:18:19 UTC
 
 **Total Participants:** 1431
 
@@ -435,29 +435,29 @@
 | 427 | 100 | Oldheads |
 | 428 | 100 | Kennedi Brazziel |
 | 429 | 100 | Kesha Brady |
-| 430 | 100 | Jean Regis |
-| 431 | 100 | Tessa Gaskin |
+| 430 | 100 | Tessa Gaskin |
+| 431 | 100 | Jean Regis |
 | 432 | 100 | Natasha Rucker |
 | 433 | 99 | ChunLi |
 | 434 | 99 | Ciera Peace |
-| 435 | 99 | Travis Davison |
-| 436 | 99 | Mahagony Small |
+| 435 | 99 | Mahagony Small |
+| 436 | 99 | Travis Davison |
 | 437 | 99 | SeanSanchez |
 | 438 | 98 | Michael Smith |
-| 439 | 98 | Dorian Griffin |
-| 440 | 98 | Sharee Robinson |
-| 441 | 98 | Shannon Carriger |
-| 442 | 97 | Andrew Jay Vaughn |
-| 443 | 97 | Shanell Thomas |
-| 444 | 97 | Lootch |
+| 439 | 98 | Frances Davis |
+| 440 | 98 | Dorian Griffin |
+| 441 | 98 | Sharee Robinson |
+| 442 | 98 | Shannon Carriger |
+| 443 | 97 | Andrew Jay Vaughn |
+| 444 | 97 | Shanell Thomas |
 | 445 | 97 | Erin Sabol |
-| 446 | 97 | Twisty Cascadeclear |
-| 447 | 97 | Kristie |
-| 448 | 97 | Nichole Horsley-Conn |
-| 449 | 97 | NewEve |
-| 450 | 96 | Sherri Keys |
-| 451 | 96 | Yazz |
-| 452 | 96 | Frances Davis |
+| 446 | 97 | Lootch |
+| 447 | 97 | Twisty Cascadeclear |
+| 448 | 97 | Kristie |
+| 449 | 97 | Nichole Horsley-Conn |
+| 450 | 97 | NewEve |
+| 451 | 96 | Sherri Keys |
+| 452 | 96 | Yazz |
 | 453 | 95 | Stephen Glaze |
 | 454 | 95 | Jelyfish |
 | 455 | 95 | Shiny Lift |
@@ -664,10 +664,10 @@
 | 656 | 62 | Stephen Garland |
 | 657 | 62 | Stephanie Ellis |
 | 658 | 62 | Nedine Ray |
-| 659 | 62 | Jack Mehof |
-| 660 | 61 | Tonya Thomas |
-| 661 | 61 | Taz Ballard |
-| 662 | 61 | Earl Williams |
+| 659 | 62 | Earl Williams |
+| 660 | 62 | Jack Mehof |
+| 661 | 61 | Tonya Thomas |
+| 662 | 61 | Taz Ballard |
 | 663 | 61 | Raquel Ortiz |
 | 664 | 61 | Desi Guerra |
 | 665 | 61 | Squaw Ki Ng |
