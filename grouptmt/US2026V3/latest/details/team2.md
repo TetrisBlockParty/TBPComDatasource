@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 05:54:18 UTC
+# Standings for team2 as of 2026-06-07 05:54:39 UTC
 
 **Total Participants:** 1644
 
@@ -438,13 +438,13 @@
 | 430 | 118 | Ceci |
 | 431 | 117 | Poppy Strikerbuilder |
 | 432 | 116 | Joshua Dye |
-| 433 | 116 | Sherri E Woods Hess |
-| 434 | 115 | Nova |
-| 435 | 115 | Muffin Popper |
-| 436 | 115 | Amber Carpenter |
-| 437 | 114 | MamaRachel |
-| 438 | 114 | Epic Framezone |
-| 439 | 114 | Amber Smith |
+| 433 | 116 | Amber Smith |
+| 434 | 116 | Sherri E Woods Hess |
+| 435 | 115 | Nova |
+| 436 | 115 | Muffin Popper |
+| 437 | 115 | Amber Carpenter |
+| 438 | 114 | MamaRachel |
+| 439 | 114 | Epic Framezone |
 | 440 | 113 | Flashy Hitter |
 | 441 | 113 | Meagan Grimmett Washburn |
 | 442 | 112 | LadyDeath |
@@ -619,109 +619,109 @@
 | 611 | 77 | Jason Lamporte |
 | 612 | 76 | Jim Wright |
 | 613 | 76 | Roger Kirksey |
-| 614 | 76 | Tiffany Fitch |
+| 614 | 76 | Sara Dunn |
 | 615 | 76 | Lively Twisterfit |
-| 616 | 76 | Sara Dunn |
-| 617 | 75 | Jeff Pottgether |
-| 618 | 75 | joey |
-| 619 | 75 | Mama G |
-| 620 | 75 | Dandy Tiltgrid |
-| 621 | 75 | Groovy Glider |
+| 616 | 76 | Tiffany Fitch |
+| 617 | 75 | Groovy Glider |
+| 618 | 75 | Mama G |
+| 619 | 75 | Dandy Tiltgrid |
+| 620 | 75 | joey |
+| 621 | 75 | Jeff Pottgether |
 | 622 | 75 | Courtney Madison Hart |
 | 623 | 74 | Natasha Lee |
-| 624 | 74 | Valeri Bradley |
-| 625 | 74 | Laurie |
-| 626 | 74 | Christina Kearns |
-| 627 | 74 | Shaylee Haltiner |
-| 628 | 74 | Bethany Nestor |
-| 629 | 74 | Cool Patternbuilder |
-| 630 | 73 | Sunny Spinzone |
-| 631 | 73 | Chirpy Combofall |
-| 632 | 73 | BugMansMom |
-| 633 | 72 | Stacy Lynn |
-| 634 | 72 | Mary Whitaker |
-| 635 | 72 | Kendi |
-| 636 | 72 | Barb Kiser |
-| 637 | 72 | Stephanie Smith Robinson |
-| 638 | 72 | Audrey Bickford |
+| 624 | 74 | Shaylee Haltiner |
+| 625 | 74 | Cool Patternbuilder |
+| 626 | 74 | Laurie |
+| 627 | 74 | Bethany Nestor |
+| 628 | 74 | Valeri Bradley |
+| 629 | 74 | Christina Kearns |
+| 630 | 73 | Chirpy Combofall |
+| 631 | 73 | BugMansMom |
+| 632 | 73 | Sunny Spinzone |
+| 633 | 72 | Mary Whitaker |
+| 634 | 72 | Barb Kiser |
+| 635 | 72 | Stephanie Smith Robinson |
+| 636 | 72 | Kendi |
+| 637 | 72 | Audrey Bickford |
+| 638 | 72 | Stacy Lynn |
 | 639 | 71 | Missy Tubb Overly |
 | 640 | 71 | Amanda Bottorff |
-| 641 | 71 | Sandy Lynn |
+| 641 | 71 | Yari |
 | 642 | 71 | John C Morrison |
-| 643 | 71 | Violet Olivares |
-| 644 | 71 | Yari |
-| 645 | 70 | Tiffany Ann |
+| 643 | 71 | Sandy Lynn |
+| 644 | 71 | Violet Olivares |
+| 645 | 70 | Ava Taber |
 | 646 | 70 | Josephina |
 | 647 | 70 | Andrea Spinelli |
-| 648 | 70 | Carrie Hayes Lankford |
+| 648 | 70 | Tiffany Ann |
 | 649 | 70 | Doug Small |
-| 650 | 70 | Jennifer Lewellyn Hutchins |
-| 651 | 70 | Brenda Zona |
-| 652 | 70 | Michelle Fry-Cash |
-| 653 | 70 | Helen Townsend |
-| 654 | 70 | Momi Kamohai |
-| 655 | 70 | Amy D Coble |
-| 656 | 70 | Ava Taber |
-| 657 | 70 | Twisty Matchfit |
-| 658 | 70 | Teea Makensi Meyer |
-| 659 | 70 | Ques Pryor |
-| 660 | 70 | Patti Ward |
-| 661 | 70 | Christi Hooper |
-| 662 | 70 | Jennifer Covington |
-| 663 | 69 | Denna Marteney |
-| 664 | 69 | Momof2wigglebutts |
-| 665 | 69 | Chipper Towerzone |
+| 650 | 70 | Carrie Hayes Lankford |
+| 651 | 70 | Twisty Matchfit |
+| 652 | 70 | Jennifer Lewellyn Hutchins |
+| 653 | 70 | Jennifer Covington |
+| 654 | 70 | Christi Hooper |
+| 655 | 70 | Christina Reid |
+| 656 | 70 | Teea Makensi Meyer |
+| 657 | 70 | Ques Pryor |
+| 658 | 70 | Patti Ward |
+| 659 | 70 | Amy D Coble |
+| 660 | 70 | Momi Kamohai |
+| 661 | 70 | Helen Townsend |
+| 662 | 70 | Brenda Zona |
+| 663 | 70 | Michelle Fry-Cash |
+| 664 | 69 | Loretta Crow |
+| 665 | 69 | Momof2wigglebutts |
 | 666 | 69 | REE4 |
-| 667 | 69 | Nutty Fitzone |
-| 668 | 69 | Cranky Brickzone |
-| 669 | 69 | Chelsea Frye |
-| 670 | 69 | Loretta Crow |
-| 671 | 69 | Michelle Powers Chattaway |
-| 672 | 69 | Cynthia Dawn Reitz Hanson |
-| 673 | 68 | Kristi Chestnut |
-| 674 | 68 | Sara BlueEyes |
-| 675 | 68 | Rydin Dirt |
-| 676 | 68 | Kim Powers |
-| 677 | 68 | Terie Safrit |
-| 678 | 68 | Danyell Flood-Morning |
-| 679 | 68 | Fancy Stacker |
-| 680 | 68 | Morgan Olson Pingree |
-| 681 | 68 | Bonnie Huckleberry |
-| 682 | 67 | Saucy Lifter |
-| 683 | 67 | Miguel360 |
-| 684 | 67 | Zaniya Brown |
+| 667 | 69 | Cranky Brickzone |
+| 668 | 69 | Nutty Fitzone |
+| 669 | 69 | Denna Marteney |
+| 670 | 69 | Cynthia Dawn Reitz Hanson |
+| 671 | 69 | Chelsea Frye |
+| 672 | 69 | Michelle Powers Chattaway |
+| 673 | 69 | Chipper Towerzone |
+| 674 | 68 | Danyell Flood-Morning |
+| 675 | 68 | Morgan Olson Pingree |
+| 676 | 68 | Terie Safrit |
+| 677 | 68 | Sara BlueEyes |
+| 678 | 68 | Rydin Dirt |
+| 679 | 68 | Bonnie Huckleberry |
+| 680 | 68 | Fancy Stacker |
+| 681 | 68 | Kristi Chestnut |
+| 682 | 68 | Kim Powers |
+| 683 | 67 | Saucy Lifter |
+| 684 | 67 | Miguel360 |
 | 685 | 67 | Sunny Tiltbuilder |
 | 686 | 67 | Heather |
-| 687 | 66 | Joshua Hopkins |
-| 688 | 66 | Tammy Botkin |
-| 689 | 66 | Staci Walker |
-| 690 | 66 | Perky Linebuilder |
-| 691 | 65 | Seamus |
-| 692 | 65 | nogo |
-| 693 | 65 | Dana Wilson |
-| 694 | 65 | True |
-| 695 | 65 | David Skelton |
-| 696 | 65 | Nina-Christina Cusyck |
-| 697 | 65 | Tamara Whiteley |
+| 687 | 67 | Zaniya Brown |
+| 688 | 66 | Joshua Hopkins |
+| 689 | 66 | Tammy Botkin |
+| 690 | 66 | Staci Walker |
+| 691 | 66 | Perky Linebuilder |
+| 692 | 65 | Seamus |
+| 693 | 65 | nogo |
+| 694 | 65 | Dana Wilson |
+| 695 | 65 | True |
+| 696 | 65 | David Skelton |
+| 697 | 65 | Nina-Christina Cusyck |
 | 698 | 65 | Stacey Loretta Wallace |
-| 699 | 65 | Belinda Head |
-| 700 | 64 | Ssirkus |
-| 701 | 64 | Laura Anderson |
-| 702 | 64 | Michelle Arnold |
-| 703 | 63 | Kimmi Blake |
-| 704 | 63 | Rosalie Call Kehlenbeck |
-| 705 | 63 | Kiersty Redder |
-| 706 | 63 | April Elaine Messenger |
-| 707 | 63 | Connie McCoy |
-| 708 | 63 | John Perkins |
-| 709 | 63 | Chris Delauro |
-| 710 | 63 | Queen |
-| 711 | 62 | Christina Reid |
-| 712 | 62 | Amber Simonton |
-| 713 | 62 | Jana Campbell |
-| 714 | 62 | Rebekah Holland |
-| 715 | 62 | Alana Albritton Seals |
-| 716 | 62 | Amy Walker |
+| 699 | 65 | Tamara Whiteley |
+| 700 | 65 | Belinda Head |
+| 701 | 64 | Ssirkus |
+| 702 | 64 | Laura Anderson |
+| 703 | 64 | Michelle Arnold |
+| 704 | 63 | Chris Delauro |
+| 705 | 63 | Rosalie Call Kehlenbeck |
+| 706 | 63 | John Perkins |
+| 707 | 63 | Queen |
+| 708 | 63 | Connie McCoy |
+| 709 | 63 | Kiersty Redder |
+| 710 | 63 | April Elaine Messenger |
+| 711 | 63 | Kimmi Blake |
+| 712 | 62 | Rebekah Holland |
+| 713 | 62 | Alana Albritton Seals |
+| 714 | 62 | Amy Walker |
+| 715 | 62 | Jana Campbell |
+| 716 | 62 | Amber Simonton |
 | 717 | 62 | Goldie |
 | 718 | 62 | Diamond Balotje |
 | 719 | 61 | Samantha Bugg Stitcher |
