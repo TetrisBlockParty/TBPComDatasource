@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:34:40 UTC
+# Standings for team1 as of 2026-06-07 10:35:18 UTC
 
 **Total Participants:** 1439
 
@@ -52,7 +52,7 @@
 | 44 | 1225 | Ashley Espeut |
 | 45 | 1219 | Holly Jolly |
 | 46 | 1195 | Tekedra Wilson |
-| 47 | 1181 | Daylene Johannes |
+| 47 | 1186 | Daylene Johannes |
 | 48 | 1140 | JoJo |
 | 49 | 1133 | Jennifer To |
 | 50 | 1120 | Ryan Meilleur |
@@ -624,29 +624,29 @@
 | 616 | 69 | Jose Rodriguez |
 | 617 | 69 | Adrian Harris |
 | 618 | 69 | Keith Johnson |
-| 619 | 69 | Sara |
-| 620 | 69 | Rochelle Nash-Evans |
-| 621 | 68 | Christopher Shaw-Black |
-| 622 | 68 | Dreamzzz |
-| 623 | 68 | Sallie Sanborn |
-| 624 | 67 | Nikkizz |
-| 625 | 67 | Sarah Barnum |
-| 626 | 67 | Michele Elizabeth McKay-Johnson |
-| 627 | 67 | Kahh |
-| 628 | 67 | Montego Allen |
-| 629 | 67 | Esha I'msoproudofmyself Davis |
-| 630 | 67 | LexiiSamayaa |
-| 631 | 67 | Sharon Lynn |
-| 632 | 66 | Terrie |
+| 619 | 69 | TRUBBLE45 |
+| 620 | 69 | Sara |
+| 621 | 69 | Rochelle Nash-Evans |
+| 622 | 68 | Sallie Sanborn |
+| 623 | 68 | Dreamzzz |
+| 624 | 68 | Christopher Shaw-Black |
+| 625 | 67 | Sharon Lynn |
+| 626 | 67 | LexiiSamayaa |
+| 627 | 67 | Montego Allen |
+| 628 | 67 | Kahh |
+| 629 | 67 | Michele Elizabeth McKay-Johnson |
+| 630 | 67 | Sarah Barnum |
+| 631 | 67 | Nikkizz |
+| 632 | 67 | Esha I'msoproudofmyself Davis |
 | 633 | 66 | Raquele Hines |
 | 634 | 66 | Mami Badd |
-| 635 | 66 | Callie Mae |
-| 636 | 66 | Sylvia Offically A Mcgowan |
-| 637 | 66 | GracefulOwl808 |
-| 638 | 66 | Jess |
-| 639 | 66 | Letrishia Andrews |
-| 640 | 65 | Trixie |
-| 641 | 65 | TRUBBLE45 |
+| 635 | 66 | Terrie |
+| 636 | 66 | Callie Mae |
+| 637 | 66 | Sylvia Offically A Mcgowan |
+| 638 | 66 | GracefulOwl808 |
+| 639 | 66 | Jess |
+| 640 | 66 | Letrishia Andrews |
+| 641 | 65 | Trixie |
 | 642 | 65 | Pj Rojas |
 | 643 | 65 | Dede Tate |
 | 644 | 65 | Rande Smith |
