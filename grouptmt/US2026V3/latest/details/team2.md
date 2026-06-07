@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:58:18 UTC
+# Standings for team2 as of 2026-06-07 08:58:42 UTC
 
 **Total Participants:** 1685
 
@@ -91,8 +91,8 @@
 | 83 | 802 | Charley Bedford |
 | 84 | 800 | Renee Freeman Jacobson |
 | 85 | 799 | Elizabeth Sallas |
-| 86 | 799 | Poppy |
-| 87 | 779 | Marie Luciano |
+| 86 | 799 | Marie Luciano |
+| 87 | 799 | Poppy |
 | 88 | 774 | Deborah Boyce Minor |
 | 89 | 771 | Charlie Wilson |
 | 90 | 766 | Sarah Griffey |
@@ -106,8 +106,8 @@
 | 98 | 656 | Loopy Cascadepiece |
 | 99 | 654 | Bon Lynn |
 | 100 | 639 | Alison Waller |
-| 101 | 632 | Allie Bug |
-| 102 | 632 | Wmk Rathbun |
+| 101 | 632 | Wmk Rathbun |
+| 102 | 632 | Allie Bug |
 | 103 | 631 | Nerdy Climber |
 | 104 | 629 | Mirr Lulu |
 | 105 | 627 | Le Sandy |
@@ -131,9 +131,9 @@
 | 123 | 528 | Amanda Sikes |
 | 124 | 516 | Amber Miller Wirick |
 | 125 | 515 | Loony Faller |
-| 126 | 500 | Jackie Tupper |
+| 126 | 500 | Suki Kaur |
 | 127 | 500 | Courtney McCulley |
-| 128 | 500 | Suki Kaur |
+| 128 | 500 | Jackie Tupper |
 | 129 | 483 | Karen Reid Cenkush |
 | 130 | 477 | Amy Gale |
 | 131 | 476 | snowwol |
