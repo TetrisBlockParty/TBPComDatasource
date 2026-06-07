@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 13:47:19 UTC
+# Standings for team2 as of 2026-06-07 13:48:18 UTC
 
 **Total Participants:** 1754
 
@@ -18,7 +18,7 @@
 | 10 | 6114 | Tim Ix |
 | 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
-| 13 | 5000 | boblawboblaw |
+| 13 | 5150 | boblawboblaw |
 | 14 | 4963 | Dapper Rollout |
 | 15 | 4800 | Crafty Ziggy |
 | 16 | 4668 | Lola C Davis |
@@ -107,9 +107,9 @@
 | 99 | 750 | Denise Potter |
 | 100 | 749 | haune |
 | 101 | 743 | Hoppy Rotate |
-| 102 | 694 | Josh Twilley |
-| 103 | 685 | Sigmamom |
-| 104 | 684 | Bon Lynn |
+| 102 | 694 | Bon Lynn |
+| 103 | 694 | Josh Twilley |
+| 104 | 685 | Sigmamom |
 | 105 | 670 | Krisanne Kesner-Lonsby |
 | 106 | 666 | Epic Frame |
 | 107 | 656 | Loopy Cascadepiece |
@@ -443,49 +443,49 @@
 | 435 | 136 | Mtnblzr |
 | 436 | 136 | Lauren Maxwell |
 | 437 | 136 | Mandy Van Laningham Bishop |
-| 438 | 135 | Naomi Walker |
-| 439 | 135 | Firebone |
+| 438 | 135 | Firebone |
+| 439 | 135 | Naomi Walker |
 | 440 | 134 | Heather Billodeau |
 | 441 | 134 | Reign Hustler |
 | 442 | 134 | TetrisMama |
 | 443 | 133 | Robin G |
 | 444 | 133 | Angela Hogan |
-| 445 | 132 | Ava Speedy |
-| 446 | 132 | Raine |
-| 447 | 131 | Wendy McKee |
-| 448 | 131 | Teresa Mandich |
-| 449 | 131 | Dame Smith |
-| 450 | 131 | MamaRachel |
-| 451 | 131 | Lyndzey Sciscoe |
-| 452 | 130 | Cristi Doris |
-| 453 | 130 | ChefDeb |
-| 454 | 130 | Saucy Wrecker |
-| 455 | 130 | Jenn |
-| 456 | 130 | Charity Hauser |
-| 457 | 130 | Jumpy Matchbuilder |
-| 458 | 130 | Jennifer Covington |
-| 459 | 129 | Perii Reynoso |
-| 460 | 129 | Armando Sabedra |
-| 461 | 129 | Nova |
-| 462 | 129 | Jackie Walker |
-| 463 | 129 | Kristi K Milner |
-| 464 | 129 | Nikki Hatch |
-| 465 | 129 | Heather Vircik |
-| 466 | 128 | Wendy Durrence Jones |
-| 467 | 128 | rageking |
-| 468 | 127 | Nicky Steigerwalt |
-| 469 | 127 | Tina |
-| 470 | 127 | Tammy Roth |
-| 471 | 126 | Tamtam |
-| 472 | 125 | Jessica Connot |
-| 473 | 125 | Epic Framezone |
-| 474 | 125 | Kathryn |
-| 475 | 125 | Justin Stark |
+| 445 | 133 | Justin Stark |
+| 446 | 132 | Ava Speedy |
+| 447 | 132 | Raine |
+| 448 | 131 | Wendy McKee |
+| 449 | 131 | Teresa Mandich |
+| 450 | 131 | Dame Smith |
+| 451 | 131 | MamaRachel |
+| 452 | 131 | Lyndzey Sciscoe |
+| 453 | 130 | Cristi Doris |
+| 454 | 130 | Jumpy Matchbuilder |
+| 455 | 130 | Saucy Wrecker |
+| 456 | 130 | ChefDeb |
+| 457 | 130 | Jennifer Covington |
+| 458 | 130 | Jenn |
+| 459 | 130 | Charity Hauser |
+| 460 | 129 | Kristi K Milner |
+| 461 | 129 | Nikki Hatch |
+| 462 | 129 | Nova |
+| 463 | 129 | Armando Sabedra |
+| 464 | 129 | Perii Reynoso |
+| 465 | 129 | Jackie Walker |
+| 466 | 129 | Heather Vircik |
+| 467 | 128 | Wendy Durrence Jones |
+| 468 | 128 | rageking |
+| 469 | 127 | Nicky Steigerwalt |
+| 470 | 127 | Tina |
+| 471 | 127 | Tammy Roth |
+| 472 | 126 | Tamtam |
+| 473 | 125 | Jessica Connot |
+| 474 | 125 | Epic Framezone |
+| 475 | 125 | Kathryn |
 | 476 | 124 | Angeleye A James |
 | 477 | 123 | Partin |
 | 478 | 123 | Simone F |
-| 479 | 122 | Maria Ward |
-| 480 | 122 | Kevin Patrick |
+| 479 | 122 | Kevin Patrick |
+| 480 | 122 | Maria Ward |
 | 481 | 121 | Chummy Snapbuilder |
 | 482 | 120 | LittleHippoEars |
 | 483 | 120 | Keisha Robinson |
@@ -954,81 +954,81 @@
 | 946 | 50 | Tabitha Palen |
 | 947 | 50 | Debra May |
 | 948 | 50 | Brittany Kay |
-| 949 | 50 | Rubics cube |
-| 950 | 50 | Bouncy Snapmatch |
-| 951 | 50 | Duke Morley |
-| 952 | 50 | Stephen Gillam |
-| 953 | 50 | Susan Moyer |
+| 949 | 50 | Dawn Thuringer-Baird |
+| 950 | 50 | Rubics cube |
+| 951 | 50 | Bouncy Snapmatch |
+| 952 | 50 | Duke Morley |
+| 953 | 50 | Stephen Gillam |
 | 954 | 50 | Timone907 |
-| 955 | 50 | Michael James |
-| 956 | 50 | Ashley Jones |
-| 957 | 50 | Charith Lorelle Watson |
-| 958 | 50 | Jennifer Wymer |
-| 959 | 50 | Matt Solomon |
-| 960 | 50 | Angie Rose |
-| 961 | 50 | Stephania Edwards |
-| 962 | 50 | Dawn Thuringer-Baird |
-| 963 | 50 | Sarah Rodriguez |
+| 955 | 50 | Susan Moyer |
+| 956 | 50 | Jennifer Wymer |
+| 957 | 50 | Matt Solomon |
+| 958 | 50 | Michael James |
+| 959 | 50 | Charith Lorelle Watson |
+| 960 | 50 | Ashley Jones |
+| 961 | 50 | Sarah Rodriguez |
+| 962 | 50 | Angie Rose |
+| 963 | 50 | Stephania Edwards |
 | 964 | 50 | Hannah Meadows Hammond |
 | 965 | 50 | Samantha Rhone |
-| 966 | 49 | James Maness |
-| 967 | 49 | Laura Fagans |
-| 968 | 49 | jme |
+| 966 | 49 | jme |
+| 967 | 49 | James Maness |
+| 968 | 49 | Laura Fagans |
 | 969 | 49 | unvoiced |
 | 970 | 48 | Pleaze Marshall |
-| 971 | 48 | Katelynn Hunt |
-| 972 | 48 | Krystle McCaslin |
-| 973 | 48 | Madbull |
-| 974 | 48 | Dizzy Dropzone |
-| 975 | 48 | Hoppy Gridder |
-| 976 | 48 | Anthony Kordich |
-| 977 | 48 | Laura Zavala |
+| 971 | 48 | Krystle McCaslin |
+| 972 | 48 | Madbull |
+| 973 | 48 | Dizzy Dropzone |
+| 974 | 48 | Hoppy Gridder |
+| 975 | 48 | Anthony Kordich |
+| 976 | 48 | Laura Zavala |
+| 977 | 48 | Katelynn Hunt |
 | 978 | 48 | Ollie |
-| 979 | 47 | Errkuh |
-| 980 | 47 | Mellzey |
-| 981 | 47 | Rae |
-| 982 | 47 | Spicy Enchilada |
-| 983 | 47 | Frothy Zonebuilder |
-| 984 | 47 | Lisa Rose |
-| 985 | 47 | Alexis Meyers |
-| 986 | 47 | Christina Whitehead |
-| 987 | 47 | Suzanne Davis |
-| 988 | 47 | Sara Moericke |
-| 989 | 47 | Rmk |
-| 990 | 47 | Goofy Bridger |
-| 991 | 47 | Emily |
-| 992 | 47 | Ozge Akgun Tokat |
-| 993 | 46 | Thomas Chris |
-| 994 | 46 | y |
-| 995 | 46 | Matthew Black |
-| 996 | 46 | Tabitha Ann Bullins-Cobb |
-| 997 | 46 | Chill Clearbuilder |
-| 998 | 46 | Melissa Mae |
-| 999 | 46 | Shannon Vanlester |
-| 1000 | 46 | Brittany Nichole Ellenburg |
-| 1001 | 46 | Mrs biotch |
-| 1002 | 46 | Giggly Buildgrid |
-| 1003 | 46 | Dani Newton |
+| 979 | 47 | Samantha Smith |
+| 980 | 47 | Frothy Zonebuilder |
+| 981 | 47 | Spicy Enchilada |
+| 982 | 47 | Emily |
+| 983 | 47 | Errkuh |
+| 984 | 47 | Mellzey |
+| 985 | 47 | Rmk |
+| 986 | 47 | Lisa Rose |
+| 987 | 47 | Rae |
+| 988 | 47 | Alexis Meyers |
+| 989 | 47 | Christina Whitehead |
+| 990 | 47 | Suzanne Davis |
+| 991 | 47 | Sara Moericke |
+| 992 | 47 | Goofy Bridger |
+| 993 | 47 | Ozge Akgun Tokat |
+| 994 | 46 | Brittany Nichole Ellenburg |
+| 995 | 46 | Chill Clearbuilder |
+| 996 | 46 | Thomas Chris |
+| 997 | 46 | Shannon Vanlester |
+| 998 | 46 | Matthew Black |
+| 999 | 46 | Melissa Mae |
+| 1000 | 46 | y |
+| 1001 | 46 | Dani Newton |
+| 1002 | 46 | Mrs biotch |
+| 1003 | 46 | Giggly Buildgrid |
 | 1004 | 46 | shell |
 | 1005 | 46 | Carlee Becher |
-| 1006 | 46 | Collins |
-| 1007 | 46 | Cindy Wellman |
-| 1008 | 45 | Denise Morehart |
+| 1006 | 46 | Tabitha Ann Bullins-Cobb |
+| 1007 | 46 | Collins |
+| 1008 | 46 | Cindy Wellman |
 | 1009 | 45 | Thomas Johnstone |
-| 1010 | 45 | SaraAnn Gray Philbrick |
-| 1011 | 45 | Jessica LeNeave |
-| 1012 | 45 | C.L. Deslongchamp |
-| 1013 | 45 | Chatty |
-| 1014 | 45 | Witty Brickster |
-| 1015 | 45 | Linzy Ratliff |
-| 1016 | 45 | Breanna Dykes |
-| 1017 | 45 | Chill Wipegrid |
-| 1018 | 45 | Nora Buchan |
-| 1019 | 44 | Jackie Moran Tiller |
-| 1020 | 44 | Samantha Smith |
-| 1021 | 44 | Katie Boen |
-| 1022 | 44 | Blocker |
-| 1023 | 44 | Robert W Schwartz |
+| 1010 | 45 | C.L. Deslongchamp |
+| 1011 | 45 | Denise Morehart |
+| 1012 | 45 | Jessica LeNeave |
+| 1013 | 45 | Nora Buchan |
+| 1014 | 45 | SaraAnn Gray Philbrick |
+| 1015 | 45 | Chill Wipegrid |
+| 1016 | 45 | Chatty |
+| 1017 | 45 | Breanna Dykes |
+| 1018 | 45 | Linzy Ratliff |
+| 1019 | 45 | Witty Brickster |
+| 1020 | 44 | Katie Boen |
+| 1021 | 44 | Robert W Schwartz |
+| 1022 | 44 | Jackie Moran Tiller |
+| 1023 | 44 | Blocker |
 | 1024 | 44 | Kassie D Harmon |
 | 1025 | 44 | Jenna Thorn |
 | 1026 | 44 | Cody Bohannan |
