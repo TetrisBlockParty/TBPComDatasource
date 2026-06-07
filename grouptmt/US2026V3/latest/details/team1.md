@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:02:19 UTC
+# Standings for team1 as of 2026-06-07 06:02:40 UTC
 
 **Total Participants:** 1387
 
@@ -1015,88 +1015,88 @@
 | 1007 | 27 | Venna Cooper |
 | 1008 | 27 | Mrs |
 | 1009 | 27 | Brave Gridmatch |
-| 1010 | 27 | katia |
-| 1011 | 27 | Tina Criam |
-| 1012 | 27 | Ramon Leno Coolridge |
-| 1013 | 27 | Cameo Tweed |
-| 1014 | 27 | Kidgib5 |
-| 1015 | 27 | Ayanna James |
+| 1010 | 27 | Cameo Tweed |
+| 1011 | 27 | Kidgib5 |
+| 1012 | 27 | Jeremy Hendrix |
+| 1013 | 27 | Ayanna James |
+| 1014 | 27 | Ramon Leno Coolridge |
+| 1015 | 27 | Tina Criam |
 | 1016 | 27 | Shaylyn Lockwood |
-| 1017 | 27 | Jeremy Hendrix |
-| 1018 | 26 | Caitlin Michele |
-| 1019 | 26 | Hoppy Buildsnap |
-| 1020 | 26 | BB |
-| 1021 | 26 | Batty B |
-| 1022 | 26 | Kala Miller |
-| 1023 | 26 | Rose Smith |
-| 1024 | 26 | Stacy Nicole |
-| 1025 | 26 | Teena K Macon |
-| 1026 | 26 | Pastors Du Bose |
-| 1027 | 26 | Lively Strikesnap |
-| 1028 | 26 | Twisty Dashy |
-| 1029 | 26 | Ana Torres |
-| 1030 | 25 | rummy |
-| 1031 | 25 | Linny Loop |
-| 1032 | 25 | Dinky da Don |
-| 1033 | 25 | Heru Ogun Yeshua EL |
-| 1034 | 25 | Maxine Williams |
-| 1035 | 25 | marie |
-| 1036 | 25 | Angela Kitchens |
+| 1017 | 27 | katia |
+| 1018 | 26 | Teena K Macon |
+| 1019 | 26 | Kala Miller |
+| 1020 | 26 | Caitlin Michele |
+| 1021 | 26 | Pastors Du Bose |
+| 1022 | 26 | Stacy Nicole |
+| 1023 | 26 | Lively Strikesnap |
+| 1024 | 26 | Twisty Dashy |
+| 1025 | 26 | Ana Torres |
+| 1026 | 26 | BB |
+| 1027 | 26 | Rose Smith |
+| 1028 | 26 | Hoppy Buildsnap |
+| 1029 | 26 | Batty B |
+| 1030 | 25 | Angela Kitchens |
+| 1031 | 25 | Heru Ogun Yeshua EL |
+| 1032 | 25 | marie |
+| 1033 | 25 | Thelma Samuels |
+| 1034 | 25 | rummy |
+| 1035 | 25 | Panda Vibes |
+| 1036 | 25 | Dinky da Don |
 | 1037 | 25 | PennyCandee |
-| 1038 | 25 | Thelma Samuels |
-| 1039 | 24 | beeutifullll |
+| 1038 | 25 | Maxine Williams |
+| 1039 | 25 | Linny Loop |
 | 1040 | 24 | Tweet |
-| 1041 | 24 | Meme23 |
-| 1042 | 24 | Tiffany Jean Hinson |
-| 1043 | 24 | Kiki |
-| 1044 | 24 | Andrea Jackson |
-| 1045 | 24 | Kizzy Clark |
-| 1046 | 24 | Kevin Witdaflute |
-| 1047 | 24 | Mumitt |
-| 1048 | 24 | Brittany Cole |
-| 1049 | 24 | Kyra Coleman |
-| 1050 | 24 | Carl Proby |
-| 1051 | 24 | Danielle Scholfield |
-| 1052 | 23 | Major314 |
-| 1053 | 23 | Tabitha Dupre-Allen |
+| 1041 | 24 | Kizzy Clark |
+| 1042 | 24 | Kiki |
+| 1043 | 24 | Meme23 |
+| 1044 | 24 | Mumitt |
+| 1045 | 24 | Danielle Scholfield |
+| 1046 | 24 | beeutifullll |
+| 1047 | 24 | Kyra Coleman |
+| 1048 | 24 | Carl Proby |
+| 1049 | 24 | Brittany Cole |
+| 1050 | 24 | Kevin Witdaflute |
+| 1051 | 24 | Andrea Jackson |
+| 1052 | 24 | Tiffany Jean Hinson |
+| 1053 | 23 | Jamie Lea Popp |
 | 1054 | 23 | Vontesha Kidd |
-| 1055 | 23 | Taylor Keisha |
-| 1056 | 23 | Sherry D Singleton |
-| 1057 | 23 | Genevieve Nieves |
-| 1058 | 23 | Jamie Lea Popp |
-| 1059 | 23 | Ladybug |
-| 1060 | 23 | Arturo Hernandez II |
-| 1061 | 22 | Williams Candace |
-| 1062 | 22 | Jasmine Hariston-Estis |
-| 1063 | 22 | Iván Cedeño |
-| 1064 | 22 | Sicily Bailey |
-| 1065 | 22 | Jazzy Drop |
-| 1066 | 22 | ShayePooh |
-| 1067 | 22 | Chipper Clicker |
-| 1068 | 21 | Rachael R Gull |
-| 1069 | 21 | Panda Vibes |
-| 1070 | 21 | Tonia Lance |
-| 1071 | 21 | Christy |
-| 1072 | 21 | Samona Mcculler |
-| 1073 | 21 | Alize |
-| 1074 | 21 | Cheeky Wipegrid |
+| 1055 | 23 | Tabitha Dupre-Allen |
+| 1056 | 23 | Major314 |
+| 1057 | 23 | Sherry D Singleton |
+| 1058 | 23 | Ladybug |
+| 1059 | 23 | Arturo Hernandez II |
+| 1060 | 23 | Taylor Keisha |
+| 1061 | 23 | Genevieve Nieves |
+| 1062 | 22 | Iván Cedeño |
+| 1063 | 22 | Williams Candace |
+| 1064 | 22 | Jasmine Hariston-Estis |
+| 1065 | 22 | Sicily Bailey |
+| 1066 | 22 | Jazzy Drop |
+| 1067 | 22 | ShayePooh |
+| 1068 | 22 | Chipper Clicker |
+| 1069 | 21 | Tonia Lance |
+| 1070 | 21 | Christy |
+| 1071 | 21 | Samona Mcculler |
+| 1072 | 21 | Alize |
+| 1073 | 21 | Cheeky Wipegrid |
+| 1074 | 21 | Rachael R Gull |
 | 1075 | 21 | Madam Suki |
 | 1076 | 21 | Felicia Yahuah Johnson |
-| 1077 | 21 | Donnie Withthebody |
-| 1078 | 21 | Desiree Ryder |
+| 1077 | 21 | Desiree Ryder |
+| 1078 | 21 | Donnie Withthebody |
 | 1079 | 21 | Zappy Zoney |
 | 1080 | 21 | Montego Allen |
-| 1081 | 20 | Jeffrey Pierce-Overton |
+| 1081 | 20 | Anthony D Holmes |
 | 1082 | 20 | Jonathan McKenzie |
-| 1083 | 20 | Anthony D Holmes |
-| 1084 | 20 | Jhaime |
-| 1085 | 20 | POOH |
-| 1086 | 20 | Biggestboss Ransom |
+| 1083 | 20 | Jhaime |
+| 1084 | 20 | POOH |
+| 1085 | 20 | Biggestboss Ransom |
+| 1086 | 20 | Jeffrey Pierce-Overton |
 | 1087 | 20 | Lynette Manning |
-| 1088 | 20 | Chill Curvebuilder |
-| 1089 | 20 | B.L. Perry |
-| 1090 | 20 | Kenneth Hefney |
-| 1091 | 20 | Anthony Intrabartolo |
+| 1088 | 20 | B.L. Perry |
+| 1089 | 20 | Chill Curvebuilder |
+| 1090 | 20 | Anthony Intrabartolo |
+| 1091 | 20 | Kenneth Hefney |
 | 1092 | 20 | Phillip White |
 | 1093 | 20 | Nikki Vaughn |
 | 1094 | 20 | Tipsy Builderline |
