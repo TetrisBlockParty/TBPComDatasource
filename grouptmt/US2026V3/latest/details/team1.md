@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:38:19 UTC
+# Standings for team1 as of 2026-06-07 08:38:41 UTC
 
 **Total Participants:** 1427
 
@@ -45,11 +45,11 @@
 | 37 | 1453 | Janet Cooke |
 | 38 | 1445 | Erika Windom |
 | 39 | 1429 | Jolly Dropzone |
-| 40 | 1242 | Jacoby E Fleming |
-| 41 | 1233 | Cherry Rose |
-| 42 | 1195 | Tekedra Wilson |
-| 43 | 1176 | Daylene Johannes |
-| 44 | 1133 | Ebo Got-Time |
+| 40 | 1330 | Ebo Got-Time |
+| 41 | 1242 | Jacoby E Fleming |
+| 42 | 1233 | Cherry Rose |
+| 43 | 1195 | Tekedra Wilson |
+| 44 | 1176 | Daylene Johannes |
 | 45 | 1120 | Ryan Meilleur |
 | 46 | 1093 | Jennifer To |
 | 47 | 1067 | Catara Renae Oliver |
