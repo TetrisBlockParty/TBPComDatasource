@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:06:18 UTC
+# Standings for team1 as of 2026-06-07 04:06:40 UTC
 
 **Total Participants:** 1334
 
@@ -34,17 +34,17 @@
 | 26 | 1938 | Linzie Marie |
 | 27 | 1855 | Speedy Spinblock |
 | 28 | 1815 | Epic Snapfall |
-| 29 | 1676 | Mary Jenkins |
-| 30 | 1614 | COSA303 |
-| 31 | 1602 | Brian Stackhouse |
-| 32 | 1457 | Markeeta Lipscomb |
-| 33 | 1445 | Erika Windom |
-| 34 | 1430 | Chris Russell |
-| 35 | 1429 | Jolly Dropzone |
-| 36 | 1420 | Janet Cooke |
-| 37 | 1400 | Cool Bridger |
-| 38 | 1359 | Jo NewmindNewfocus Bell |
-| 39 | 1285 | Jamie Willis |
+| 29 | 1685 | Jamie Willis |
+| 30 | 1676 | Mary Jenkins |
+| 31 | 1614 | COSA303 |
+| 32 | 1602 | Brian Stackhouse |
+| 33 | 1457 | Markeeta Lipscomb |
+| 34 | 1445 | Erika Windom |
+| 35 | 1430 | Chris Russell |
+| 36 | 1429 | Jolly Dropzone |
+| 37 | 1420 | Janet Cooke |
+| 38 | 1400 | Cool Bridger |
+| 39 | 1359 | Jo NewmindNewfocus Bell |
 | 40 | 1242 | Jacoby E Fleming |
 | 41 | 1233 | Cherry Rose |
 | 42 | 1195 | Tekedra Wilson |
@@ -1194,7 +1194,7 @@
 | 1186 | 12 | toye69 |
 | 1187 | 12 | Tempee |
 | 1188 | 12 | Farah Simpson |
-| 1189 | 12 | BigMike |
+| 1189 | 12 | Montego Allen |
 | 1190 | 12 | Nicole Coko Thomas |
 | 1191 | 12 | Jason A Giantonio |
 | 1192 | 12 | Silly Spinblock |
@@ -1207,11 +1207,11 @@
 | 1199 | 12 | Joseph Ware Jr. |
 | 1200 | 12 | BigDawg Lessley |
 | 1201 | 12 | Mike Hromowyk |
-| 1202 | 11 | Montego Allen |
-| 1203 | 11 | pizzapie |
-| 1204 | 11 | Felicia Woods |
-| 1205 | 11 | KiJoCo |
-| 1206 | 11 | Bianca Nawlinsgurl Ferguson |
+| 1202 | 12 | BigMike |
+| 1203 | 11 | Bianca Nawlinsgurl Ferguson |
+| 1204 | 11 | pizzapie |
+| 1205 | 11 | Felicia Woods |
+| 1206 | 11 | KiJoCo |
 | 1207 | 11 | Fred Caston |
 | 1208 | 11 | Tamyka E Williams |
 | 1209 | 11 | Evelyn Epps |
@@ -1224,122 +1224,122 @@
 | 1216 | 10 | Jimel Fraser |
 | 1217 | 10 | Steve Renelus |
 | 1218 | 10 | Semaj Johnson |
-| 1219 | 10 | Leon Brown III |
-| 1220 | 10 | Willard Junior |
-| 1221 | 10 | Blaze |
-| 1222 | 10 | Crystal Segura |
-| 1223 | 10 | Terry Lee Moya |
-| 1224 | 10 | Tranica Sterling |
-| 1225 | 10 | Manda Pecora |
-| 1226 | 10 | Omar Dotray |
-| 1227 | 10 | Upt |
-| 1228 | 10 | Tynetta Scott |
-| 1229 | 10 | Kim Smith |
-| 1230 | 10 | Nope Young |
-| 1231 | 10 | OneBuke FollowMe |
-| 1232 | 10 | Damien Fonseca |
-| 1233 | 10 | Happymama |
-| 1234 | 10 | Hasty Brickzone |
-| 1235 | 10 | Alisha Dawson Crouch |
-| 1236 | 10 | Wacky Riserpiece |
-| 1237 | 10 | Tea |
-| 1238 | 10 | Shawn Himes |
-| 1239 | 10 | Papi |
-| 1240 | 10 | Ladii Libra |
+| 1219 | 10 | Kim Smith |
+| 1220 | 10 | Crystal Segura |
+| 1221 | 10 | Terry Lee Moya |
+| 1222 | 10 | Blaze |
+| 1223 | 10 | Tranica Sterling |
+| 1224 | 10 | Manda Pecora |
+| 1225 | 10 | Omar Dotray |
+| 1226 | 10 | Upt |
+| 1227 | 10 | Tynetta Scott |
+| 1228 | 10 | Willard Junior |
+| 1229 | 10 | Leon Brown III |
+| 1230 | 10 | Tea |
+| 1231 | 10 | Nope Young |
+| 1232 | 10 | OneBuke FollowMe |
+| 1233 | 10 | Damien Fonseca |
+| 1234 | 10 | Happymama |
+| 1235 | 10 | Hasty Brickzone |
+| 1236 | 10 | Papi |
+| 1237 | 10 | Alisha Dawson Crouch |
+| 1238 | 10 | Wacky Riserpiece |
+| 1239 | 10 | Ladii Libra |
+| 1240 | 10 | Shawn Himes |
 | 1241 | 10 | Yvonne Aggers |
-| 1242 | 9 | Sunset Owens |
-| 1243 | 9 | Frisky Linkblock |
-| 1244 | 9 | Beverly S. Robinson |
-| 1245 | 9 | Shaun Baker |
-| 1246 | 9 | Catelyn Neal |
-| 1247 | 9 | meatballs |
-| 1248 | 9 | Anthony T. Fults |
-| 1249 | 9 | squints |
+| 1242 | 9 | John Lovato |
+| 1243 | 9 | Noni |
+| 1244 | 9 | Dana |
+| 1245 | 9 | Beverly S. Robinson |
+| 1246 | 9 | Sunset Owens |
+| 1247 | 9 | Mars |
+| 1248 | 9 | Catelyn Neal |
+| 1249 | 9 | Beth Ingham |
 | 1250 | 9 | ummm |
-| 1251 | 9 | Beth Ingham |
-| 1252 | 9 | Mars |
-| 1253 | 9 | Dana |
-| 1254 | 9 | Noni |
-| 1255 | 9 | John Lovato |
-| 1256 | 9 | Shemeka Bates |
-| 1257 | 9 | Shell Poke |
-| 1258 | 9 | Yester |
+| 1251 | 9 | Anthony T. Fults |
+| 1252 | 9 | squints |
+| 1253 | 9 | Yester |
+| 1254 | 9 | Clifford Petroske |
+| 1255 | 9 | Shemeka Bates |
+| 1256 | 9 | Brika Brika |
+| 1257 | 9 | Frisky Linkblock |
+| 1258 | 9 | Shell Poke |
 | 1259 | 9 | Duckey |
-| 1260 | 9 | Clifford Petroske |
-| 1261 | 9 | Brika Brika |
-| 1262 | 8 | Chill Tumbler |
-| 1263 | 8 | Tiffany Jean Hinson |
-| 1264 | 8 | jus_ry |
-| 1265 | 8 | Teena K Macon |
-| 1266 | 8 | Macho Lewis |
-| 1267 | 8 | Dana Hill |
-| 1268 | 8 | Nicolej |
-| 1269 | 8 | Chantae Maxwell |
-| 1270 | 8 | Sean Walker |
-| 1271 | 8 | Almarasha Grice |
-| 1272 | 8 | Groovy Riseclear |
-| 1273 | 8 | Chevonne Huggins |
-| 1274 | 8 | Ferocity |
-| 1275 | 8 | Rixo Blax |
-| 1276 | 8 | Frothy Matchpiece |
-| 1277 | 8 | MsSassygee Boom |
-| 1278 | 8 | Elizabeth Castro |
-| 1279 | 8 | Plucky Twist |
-| 1280 | 8 | Queen Baby 5 |
-| 1281 | 8 | Kiyeri |
-| 1282 | 8 | Desi |
-| 1283 | 8 | Nissa |
-| 1284 | 8 | meep |
-| 1285 | 7 | Andrew Harris |
+| 1260 | 9 | Shaun Baker |
+| 1261 | 9 | meatballs |
+| 1262 | 8 | meep |
+| 1263 | 8 | Sean Walker |
+| 1264 | 8 | Groovy Riseclear |
+| 1265 | 8 | Kiyeri |
+| 1266 | 8 | Chantae Maxwell |
+| 1267 | 8 | Chevonne Huggins |
+| 1268 | 8 | Macho Lewis |
+| 1269 | 8 | Ferocity |
+| 1270 | 8 | Teena K Macon |
+| 1271 | 8 | Dana Hill |
+| 1272 | 8 | Chill Tumbler |
+| 1273 | 8 | Rixo Blax |
+| 1274 | 8 | Almarasha Grice |
+| 1275 | 8 | Plucky Twist |
+| 1276 | 8 | Nicolej |
+| 1277 | 8 | Desi |
+| 1278 | 8 | Nissa |
+| 1279 | 8 | jus_ry |
+| 1280 | 8 | MsSassygee Boom |
+| 1281 | 8 | Elizabeth Castro |
+| 1282 | 8 | Tiffany Jean Hinson |
+| 1283 | 8 | Queen Baby 5 |
+| 1284 | 8 | Frothy Matchpiece |
+| 1285 | 7 | Quana |
 | 1286 | 7 | Deadra Graham |
-| 1287 | 7 | Deantenique Smalls |
-| 1288 | 7 | Bryan Dell |
-| 1289 | 7 | Zachary Sinclair |
-| 1290 | 7 | Court Ney |
-| 1291 | 7 | Quana |
+| 1287 | 7 | Andrew Harris |
+| 1288 | 7 | Joey Hoover |
+| 1289 | 7 | Bryan Dell |
+| 1290 | 7 | Zachary Sinclair |
+| 1291 | 7 | Court Ney |
 | 1292 | 7 | Stephanie L Jeffries Moultrie |
-| 1293 | 7 | Mary2 |
-| 1294 | 7 | KingSlim82 |
+| 1293 | 7 | KingSlim82 |
+| 1294 | 7 | Shane Brucewayne |
 | 1295 | 7 | Milfchaser530 |
-| 1296 | 7 | Alexis Farquer |
-| 1297 | 7 | Sheena Hamilton |
+| 1296 | 7 | Deantenique Smalls |
+| 1297 | 7 | Alexis Farquer |
 | 1298 | 7 | J Dot Flo |
-| 1299 | 7 | Shane Brucewayne |
-| 1300 | 7 | Teresa F. Campos Eaton |
-| 1301 | 7 | Joey Hoover |
-| 1302 | 6 | party t-rex 27 |
-| 1303 | 6 | Tammy Hooser |
-| 1304 | 6 | Andrae Robinson |
-| 1305 | 6 | Kyshia |
+| 1299 | 7 | Mary2 |
+| 1300 | 7 | Sheena Hamilton |
+| 1301 | 7 | Teresa F. Campos Eaton |
+| 1302 | 6 | CK |
+| 1303 | 6 | Nerdy Slam |
+| 1304 | 6 | smash56! |
+| 1305 | 6 | Tammy Hooser |
 | 1306 | 6 | NEM0228 |
-| 1307 | 6 | CK |
-| 1308 | 6 | Frilly Riserbuilder |
-| 1309 | 6 | Nerdy Slam |
-| 1310 | 6 | smash56! |
-| 1311 | 5 | Stephanie Zuniga Tullock |
-| 1312 | 5 | Derek Beverly |
-| 1313 | 5 | pettymexoxo |
-| 1314 | 5 | Happy |
-| 1315 | 5 | Andy Barnett |
+| 1307 | 6 | Frilly Riserbuilder |
+| 1308 | 6 | party t-rex 27 |
+| 1309 | 6 | Kyshia |
+| 1310 | 6 | Andrae Robinson |
+| 1311 | 5 | Derek Beverly |
+| 1312 | 5 | Stephanie Zuniga Tullock |
+| 1313 | 5 | Happy |
+| 1314 | 5 | pettymexoxo |
+| 1315 | 5 | Zesty Clearer |
 | 1316 | 5 | Tito Divyn |
-| 1317 | 5 | the guy |
-| 1318 | 5 | Joy Baker |
-| 1319 | 5 | Zesty Brickline |
-| 1320 | 5 | Godz Chosen |
-| 1321 | 5 | Schuyler Carson Jackson |
-| 1322 | 5 | Mario Meliodas |
-| 1323 | 5 | Jackie Sanasay |
-| 1324 | 5 | Dave Breaker |
-| 1325 | 5 | Alonzo Kirkland |
+| 1317 | 5 | Angelique Thomas |
+| 1318 | 5 | Alonzo Kirkland |
+| 1319 | 5 | Dave Breaker |
+| 1320 | 5 | Joy Baker |
+| 1321 | 5 | Andy Barnett |
+| 1322 | 5 | Zesty Brickline |
+| 1323 | 5 | Godz Chosen |
+| 1324 | 5 | Schuyler Carson Jackson |
+| 1325 | 5 | Mario Meliodas |
 | 1326 | 5 | Meshia |
-| 1327 | 5 | DRIFTER |
-| 1328 | 5 | Aanngie Aanngie |
-| 1329 | 5 | Zesty Clearer |
+| 1327 | 5 | the guy |
+| 1328 | 5 | VERA DAME |
+| 1329 | 5 | Chill Linkroll |
 | 1330 | 5 | Annette DeLoatch Thompson |
-| 1331 | 5 | Angelique Thomas |
-| 1332 | 5 | Chill Linkroll |
+| 1331 | 5 | Aanngie Aanngie |
+| 1332 | 5 | DRIFTER |
 | 1333 | 5 | Marissa Sweet |
-| 1334 | 5 | VERA DAME |
+| 1334 | 5 | Jackie Sanasay |
 
 ---
 *Standings created by tournaments datasource generation tool*
