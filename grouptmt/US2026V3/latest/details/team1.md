@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 13:18:19 UTC
+# Standings for team1 as of 2026-06-07 13:18:40 UTC
 
 **Total Participants:** 1465
 
@@ -98,11 +98,11 @@
 | 90 | 661 | Bre Maugh |
 | 91 | 620 | IamJust Neyamijah Washington Sr. |
 | 92 | 613 | Big Tina |
-| 93 | 601 | JaszyBadd |
-| 94 | 588 | Shontanese Adams |
-| 95 | 587 | KenpachisGirl |
-| 96 | 587 | She Higgy |
-| 97 | 576 | Sarah Marie |
+| 93 | 606 | Sarah Marie |
+| 94 | 601 | JaszyBadd |
+| 95 | 588 | Shontanese Adams |
+| 96 | 587 | KenpachisGirl |
+| 97 | 587 | She Higgy |
 | 98 | 570 | Keeta Chickswit Scott |
 | 99 | 570 | PandaPrincess |
 | 100 | 568 | MamaBear |
@@ -180,18 +180,18 @@
 | 172 | 297 | Tammye Turner |
 | 173 | 296 | Rolanda Williams |
 | 174 | 296 | Tamara N Lee |
-| 175 | 293 | Calvin Green |
-| 176 | 291 | Brian Taylor |
-| 177 | 290 | Kaleisha Smith |
-| 178 | 290 | Eugina Slater |
-| 179 | 290 | Frisky Fallmatch |
-| 180 | 287 | Rackemwillie34 |
-| 181 | 285 | Marcheta Cervantez |
-| 182 | 285 | Ashley MyBeauty Daniels |
-| 183 | 285 | Helen Smith |
-| 184 | 284 | Karebear |
-| 185 | 283 | BULLSEYE |
-| 186 | 280 | Tonya Lee Sanders |
+| 175 | 293 | Tonya Lee Sanders |
+| 176 | 293 | Calvin Green |
+| 177 | 291 | Brian Taylor |
+| 178 | 290 | Kaleisha Smith |
+| 179 | 290 | Eugina Slater |
+| 180 | 290 | Frisky Fallmatch |
+| 181 | 287 | Rackemwillie34 |
+| 182 | 285 | Marcheta Cervantez |
+| 183 | 285 | Ashley MyBeauty Daniels |
+| 184 | 285 | Helen Smith |
+| 185 | 284 | Karebear |
+| 186 | 283 | BULLSEYE |
 | 187 | 278 | Alana Renee |
 | 188 | 278 | Sharon Cail |
 | 189 | 276 | Cortaz Lawrie |
@@ -238,11 +238,11 @@
 | 230 | 220 | Christian Pham |
 | 231 | 219 | Jhonny Maii |
 | 232 | 217 | Koi |
-| 233 | 214 | Teddy Davis |
-| 234 | 212 | Steve Reno |
-| 235 | 212 | Nobles Brandon |
-| 236 | 211 | Boldy Liner |
-| 237 | 211 | Lesley Brunkus Cianfaglione |
+| 233 | 216 | Lesley Brunkus Cianfaglione |
+| 234 | 214 | Teddy Davis |
+| 235 | 212 | Steve Reno |
+| 236 | 212 | Nobles Brandon |
+| 237 | 211 | Boldy Liner |
 | 238 | 210 | Dion Gray |
 | 239 | 207 | Melissa D. M. Hornsby |
 | 240 | 206 | Curtis T Cirno |
