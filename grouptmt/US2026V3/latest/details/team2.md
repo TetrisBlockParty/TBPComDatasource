@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 00:30:18 UTC
+# Standings for team2 as of 2026-06-07 00:30:42 UTC
 
 **Total Participants:** 1473
 
@@ -513,84 +513,84 @@
 | 505 | 78 | Arik DiLorenzo |
 | 506 | 78 | Alycia Marie Zelensky |
 | 507 | 77 | Fallon Moss |
-| 508 | 77 | MamaRachel |
+| 508 | 77 | Jason Lamporte |
 | 509 | 77 | Raymond Dawson |
-| 510 | 77 | Jason Lamporte |
+| 510 | 77 | MamaRachel |
 | 511 | 76 | Sara Dunn |
-| 512 | 76 | Dad |
+| 512 | 76 | Tiffany Fitch |
 | 513 | 76 | Lively Twisterfit |
-| 514 | 76 | Tiffany Fitch |
+| 514 | 76 | Dad |
 | 515 | 76 | Evelyn Olive Kalmbach |
-| 516 | 75 | Jeff Pottgether |
-| 517 | 75 | Becky Kennon |
-| 518 | 75 | joey |
-| 519 | 75 | Mama G |
-| 520 | 75 | Carl Mccoy |
-| 521 | 75 | Courtney Madison Hart |
+| 516 | 75 | Becky Kennon |
+| 517 | 75 | Jeff Pottgether |
+| 518 | 75 | Courtney Madison Hart |
+| 519 | 75 | Carl Mccoy |
+| 520 | 75 | Mama G |
+| 521 | 75 | joey |
 | 522 | 74 | Laurie |
-| 523 | 74 | Derrick |
-| 524 | 74 | Bethany Nestor |
+| 523 | 74 | Bethany Nestor |
+| 524 | 74 | Derrick |
 | 525 | 74 | Valeri Bradley |
 | 526 | 74 | Natasha Lee |
-| 527 | 73 | bozzycat |
-| 528 | 73 | TNGal |
-| 529 | 73 | Gina Louise Parker |
-| 530 | 73 | Chirpy Combofall |
-| 531 | 73 | Joannah Capilitan |
-| 532 | 73 | BugMansMom |
-| 533 | 73 | Sunny Spinzone |
-| 534 | 72 | Dandy Tiltgrid |
-| 535 | 72 | Stephanie Smith Robinson |
+| 527 | 74 | Holly Huval |
+| 528 | 73 | Sunny Spinzone |
+| 529 | 73 | TNGal |
+| 530 | 73 | Gina Louise Parker |
+| 531 | 73 | Chirpy Combofall |
+| 532 | 73 | bozzycat |
+| 533 | 73 | Joannah Capilitan |
+| 534 | 73 | BugMansMom |
+| 535 | 72 | Kendi |
 | 536 | 72 | Stacy Lynn |
 | 537 | 72 | Angela Hogan |
-| 538 | 72 | Audrey Bickford |
-| 539 | 72 | Kati Eckstein |
-| 540 | 72 | Barb Kiser |
-| 541 | 72 | Kendi |
+| 538 | 72 | Barb Kiser |
+| 539 | 72 | Audrey Bickford |
+| 540 | 72 | Dandy Tiltgrid |
+| 541 | 72 | Kati Eckstein |
 | 542 | 72 | Spunky Linkblock |
-| 543 | 71 | CATFISH |
-| 544 | 71 | Amanda Bottorff |
-| 545 | 71 | Justin Stark |
-| 546 | 71 | Sandy Lynn |
-| 547 | 71 | Violet Olivares |
-| 548 | 71 | Groovy Glider |
-| 549 | 71 | Chilly Surge |
+| 543 | 72 | Stephanie Smith Robinson |
+| 544 | 71 | Sandy Lynn |
+| 545 | 71 | Amanda Bottorff |
+| 546 | 71 | Justin Stark |
+| 547 | 71 | John C Morrison |
+| 548 | 71 | CATFISH |
+| 549 | 71 | Violet Olivares |
 | 550 | 71 | Hillary Frank |
-| 551 | 71 | John C Morrison |
-| 552 | 70 | Patti Ward |
-| 553 | 70 | Josephina |
-| 554 | 70 | Jennifer Lewellyn Hutchins |
-| 555 | 70 | Brenda Zona |
-| 556 | 70 | Holly Huval |
-| 557 | 70 | Andrea Spinelli |
-| 558 | 70 | Twisty Matchfit |
-| 559 | 70 | Carrie Hayes Lankford |
+| 551 | 71 | Groovy Glider |
+| 552 | 71 | Chilly Surge |
+| 553 | 70 | Patti Ward |
+| 554 | 70 | Josephina |
+| 555 | 70 | Jennifer Lewellyn Hutchins |
+| 556 | 70 | Brenda Zona |
+| 557 | 70 | Doug Small |
+| 558 | 70 | Momi Kamohai |
+| 559 | 70 | Michelle Fry-Cash |
 | 560 | 70 | Teea Makensi Meyer |
-| 561 | 70 | Jennifer Covington |
-| 562 | 70 | Mandy |
-| 563 | 70 | Michelle Fry-Cash |
-| 564 | 70 | Tiffany Ann |
-| 565 | 70 | Doug Small |
-| 566 | 70 | Momi Kamohai |
-| 567 | 69 | Nutty Fitzone |
-| 568 | 69 | Denna Marteney |
-| 569 | 69 | Momof2wigglebutts |
+| 561 | 70 | Tiffany Ann |
+| 562 | 70 | Twisty Matchfit |
+| 563 | 70 | Andrea Spinelli |
+| 564 | 70 | Carrie Hayes Lankford |
+| 565 | 70 | Mandy |
+| 566 | 70 | Jennifer Covington |
+| 567 | 69 | Loretta Crow |
+| 568 | 69 | Momof2wigglebutts |
+| 569 | 69 | Denna Marteney |
 | 570 | 69 | Michael Delozier |
-| 571 | 69 | Stephany Green |
+| 571 | 69 | Michelle Powers Chattaway |
 | 572 | 69 | Cynthia Dawn Reitz Hanson |
-| 573 | 69 | Michelle Powers Chattaway |
+| 573 | 69 | Chipper Towerzone |
 | 574 | 69 | REE4 |
-| 575 | 69 | Chipper Towerzone |
-| 576 | 69 | Loretta Crow |
-| 577 | 68 | Sara BlueEyes |
+| 575 | 69 | Stephany Green |
+| 576 | 69 | Nutty Fitzone |
+| 577 | 68 | Bonnie Huckleberry |
 | 578 | 68 | Mary Whitaker |
-| 579 | 68 | Belinda Gullion Austin |
+| 579 | 68 | Amy D Coble |
 | 580 | 68 | Fancy Stacker |
-| 581 | 68 | Bonnie Huckleberry |
-| 582 | 68 | Amy D Coble |
-| 583 | 67 | Silly Tiltbuilder |
-| 584 | 67 | Heather |
-| 585 | 67 | Sunny Tiltbuilder |
+| 581 | 68 | Belinda Gullion Austin |
+| 582 | 68 | Sara BlueEyes |
+| 583 | 67 | Heather |
+| 584 | 67 | Sunny Tiltbuilder |
+| 585 | 67 | Silly Tiltbuilder |
 | 586 | 66 | Tami Weiss |
 | 587 | 66 | Joshua Hopkins |
 | 588 | 66 | Frilly Shiftsnap |
