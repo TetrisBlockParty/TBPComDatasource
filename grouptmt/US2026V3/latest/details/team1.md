@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 07:59:17 UTC
+# Standings for team1 as of 2026-06-07 08:00:19 UTC
 
 **Total Participants:** 1423
 
@@ -327,14 +327,14 @@
 | 319 | 137 | Lisa Fletcher |
 | 320 | 136 | McKayla Owens |
 | 321 | 136 | Alyssa Rae |
-| 322 | 135 | Saucy Tile |
-| 323 | 135 | Skippy |
-| 324 | 135 | Sean White |
-| 325 | 134 | Brittanie Wardlow |
-| 326 | 134 | Peppy Glider |
-| 327 | 134 | Perky Pusher |
-| 328 | 133 | Tasha |
-| 329 | 132 | Tosha Michelle |
+| 322 | 135 | Tosha Michelle |
+| 323 | 135 | Saucy Tile |
+| 324 | 135 | Skippy |
+| 325 | 135 | Sean White |
+| 326 | 134 | Brittanie Wardlow |
+| 327 | 134 | Peppy Glider |
+| 328 | 134 | Perky Pusher |
+| 329 | 133 | Tasha |
 | 330 | 132 | Chirpy Buildgrid |
 | 331 | 132 | Tremaine Hiler |
 | 332 | 131 | Sarah Clark |
@@ -434,20 +434,20 @@
 | 426 | 99 | Ciera Peace |
 | 427 | 99 | Mahagony Small |
 | 428 | 99 | SeanSanchez |
-| 429 | 99 | ChunLi |
-| 430 | 98 | Dorian Griffin |
-| 431 | 98 | Shannon Carriger |
+| 429 | 99 | Jenna Renee |
+| 430 | 99 | ChunLi |
+| 431 | 98 | Dorian Griffin |
 | 432 | 98 | Sharee Robinson |
 | 433 | 98 | Michael Smith |
-| 434 | 97 | Kristie |
-| 435 | 97 | Lootch |
-| 436 | 97 | Shanell Thomas |
-| 437 | 97 | Twisty Cascadeclear |
-| 438 | 97 | NewEve |
-| 439 | 97 | Erin Sabol |
-| 440 | 97 | Nichole Horsley-Conn |
-| 441 | 96 | Phillip Vasquez |
-| 442 | 96 | Jenna Renee |
+| 434 | 98 | Shannon Carriger |
+| 435 | 97 | Kristie |
+| 436 | 97 | Lootch |
+| 437 | 97 | Shanell Thomas |
+| 438 | 97 | Twisty Cascadeclear |
+| 439 | 97 | NewEve |
+| 440 | 97 | Erin Sabol |
+| 441 | 97 | Nichole Horsley-Conn |
+| 442 | 96 | Phillip Vasquez |
 | 443 | 96 | Yazz |
 | 444 | 96 | Sherri Keys |
 | 445 | 95 | Stephen Glaze |
