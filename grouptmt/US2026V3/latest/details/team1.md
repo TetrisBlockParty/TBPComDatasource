@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:02:42 UTC
+# Standings for team1 as of 2026-06-07 14:03:18 UTC
 
 **Total Participants:** 1473
 
@@ -27,8 +27,8 @@
 | 19 | 3721 | Chandler Spencer |
 | 20 | 3039 | Chummy Combo |
 | 21 | 2863 | Sha Harris |
-| 22 | 2708 | Ebo Got-Time |
-| 23 | 2655 | jaimie |
+| 22 | 2716 | jaimie |
+| 23 | 2708 | Ebo Got-Time |
 | 24 | 2437 | Juan Kandiss Escobedo Irwin |
 | 25 | 2415 | Yolanda McDonald |
 | 26 | 2269 | Mary Jenkins |
@@ -182,27 +182,27 @@
 | 174 | 296 | Tamara N Lee |
 | 175 | 296 | NastyFriend |
 | 176 | 296 | Rolanda Williams |
-| 177 | 293 | Calvin Green |
+| 177 | 296 | Latisha Fairley |
 | 178 | 293 | Tonya Lee Sanders |
-| 179 | 291 | Brian Taylor |
-| 180 | 290 | Frisky Fallmatch |
-| 181 | 290 | Kaleisha Smith |
-| 182 | 290 | Eugina Slater |
-| 183 | 287 | Rackemwillie34 |
-| 184 | 285 | Ashley MyBeauty Daniels |
-| 185 | 285 | Helen Smith |
-| 186 | 285 | Marcheta Cervantez |
-| 187 | 284 | Karebear |
-| 188 | 283 | BULLSEYE |
-| 189 | 282 | SyTheEvilGenius1 |
-| 190 | 278 | Alana Renee |
-| 191 | 278 | Sharon Cail |
-| 192 | 276 | Cortaz Lawrie |
-| 193 | 275 | Chris Sladoje |
-| 194 | 275 | Jawaun Daniels |
-| 195 | 274 | IThinkNot |
-| 196 | 272 | Katherine Short |
-| 197 | 271 | Latisha Fairley |
+| 179 | 293 | Calvin Green |
+| 180 | 291 | Brian Taylor |
+| 181 | 290 | Frisky Fallmatch |
+| 182 | 290 | Kaleisha Smith |
+| 183 | 290 | Eugina Slater |
+| 184 | 287 | Rackemwillie34 |
+| 185 | 285 | Marcheta Cervantez |
+| 186 | 285 | Ashley MyBeauty Daniels |
+| 187 | 285 | Helen Smith |
+| 188 | 284 | Karebear |
+| 189 | 283 | BULLSEYE |
+| 190 | 282 | SyTheEvilGenius1 |
+| 191 | 278 | Alana Renee |
+| 192 | 278 | Sharon Cail |
+| 193 | 276 | Cortaz Lawrie |
+| 194 | 275 | Chris Sladoje |
+| 195 | 275 | Jawaun Daniels |
+| 196 | 274 | IThinkNot |
+| 197 | 272 | Katherine Short |
 | 198 | 271 | Po Marley |
 | 199 | 270 | Salim Thugger |
 | 200 | 270 | xXEKUNXx |
@@ -1416,69 +1416,69 @@
 | 1408 | 8 | Macho Lewis |
 | 1409 | 8 | Rixo Blax |
 | 1410 | 8 | Andrew James |
-| 1411 | 8 | Dana Hill |
-| 1412 | 8 | Sean Walker |
-| 1413 | 8 | Almarasha Grice |
-| 1414 | 8 | Desi |
-| 1415 | 8 | Nissa |
-| 1416 | 8 | Dave Breaker |
-| 1417 | 8 | MsSassygee Boom |
+| 1411 | 8 | Dave Breaker |
+| 1412 | 8 | Dana Hill |
+| 1413 | 8 | Desi |
+| 1414 | 8 | Nissa |
+| 1415 | 8 | MsSassygee Boom |
+| 1416 | 8 | Almarasha Grice |
+| 1417 | 8 | Sean Walker |
 | 1418 | 7 | KingSlim82 |
-| 1419 | 7 | Andrew Harris |
-| 1420 | 7 | linda m |
-| 1421 | 7 | J Dot Flo |
-| 1422 | 7 | Lively Stagger |
-| 1423 | 7 | Stephanie L Jeffries Moultrie |
-| 1424 | 7 | Marla |
-| 1425 | 7 | Joey Hoover |
-| 1426 | 7 | Mary2 |
-| 1427 | 7 | Quana |
-| 1428 | 7 | Court Ney |
-| 1429 | 7 | John Boone |
-| 1430 | 7 | Deadra Graham |
-| 1431 | 7 | Sheena Hamilton |
+| 1419 | 7 | Alexis Farquer |
+| 1420 | 7 | Mary2 |
+| 1421 | 7 | Lively Stagger |
+| 1422 | 7 | Stephanie L Jeffries Moultrie |
+| 1423 | 7 | Marla |
+| 1424 | 7 | Joey Hoover |
+| 1425 | 7 | Quana |
+| 1426 | 7 | Court Ney |
+| 1427 | 7 | John Boone |
+| 1428 | 7 | Andrew Harris |
+| 1429 | 7 | J Dot Flo |
+| 1430 | 7 | Brandon Knox |
+| 1431 | 7 | Bryan Dell |
 | 1432 | 7 | Lawanda Conley |
-| 1433 | 7 | Alexis Farquer |
-| 1434 | 7 | RMGreen |
-| 1435 | 7 | Brandon Knox |
-| 1436 | 7 | Bryan Dell |
-| 1437 | 7 | Shane Brucewayne |
-| 1438 | 7 | Teresa F. Campos Eaton |
-| 1439 | 7 | Milfchaser530 |
-| 1440 | 6 | Kyshia |
-| 1441 | 6 | Evee |
-| 1442 | 6 | Stevie Malcon |
-| 1443 | 6 | Shiny Crusher |
-| 1444 | 6 | Tammy Hooser |
-| 1445 | 6 | NEM0228 |
-| 1446 | 6 | party t-rex 27 |
-| 1447 | 6 | CK |
-| 1448 | 6 | Nerdy Slam |
-| 1449 | 6 | Andrae Robinson |
-| 1450 | 5 | Happy |
-| 1451 | 5 | pettymexoxo |
-| 1452 | 5 | BlessedBeauty |
-| 1453 | 5 | Marissa Sweet |
-| 1454 | 5 | Ashley Horne |
-| 1455 | 5 | Stephanie Zuniga Tullock |
-| 1456 | 5 | Aanngie Aanngie |
-| 1457 | 5 | Andy Barnett |
-| 1458 | 5 | Derek Beverly |
-| 1459 | 5 | Meshia |
-| 1460 | 5 | Mighty Riserbuilder |
-| 1461 | 5 | Schuyler Carson Jackson |
-| 1462 | 5 | Godz Chosen |
-| 1463 | 5 | Zesty Brickline |
-| 1464 | 5 | Annette DeLoatch Thompson |
-| 1465 | 5 | Jennifer Haton Kreighbaum |
-| 1466 | 5 | Joy Baker |
-| 1467 | 5 | Alonzo Kirkland |
-| 1468 | 5 | VERA DAME |
-| 1469 | 5 | Angelique Thomas |
-| 1470 | 5 | Carol Washington |
-| 1471 | 5 | Tito Divyn |
-| 1472 | 5 | the guy |
-| 1473 | 5 | Jackie Sanasay |
+| 1433 | 7 | RMGreen |
+| 1434 | 7 | Sheena Hamilton |
+| 1435 | 7 | Milfchaser530 |
+| 1436 | 7 | Shane Brucewayne |
+| 1437 | 7 | Teresa F. Campos Eaton |
+| 1438 | 7 | Deadra Graham |
+| 1439 | 7 | linda m |
+| 1440 | 6 | Evee |
+| 1441 | 6 | Tammy Hooser |
+| 1442 | 6 | Kyshia |
+| 1443 | 6 | CK |
+| 1444 | 6 | NEM0228 |
+| 1445 | 6 | Shiny Crusher |
+| 1446 | 6 | Nerdy Slam |
+| 1447 | 6 | Stevie Malcon |
+| 1448 | 6 | Andrae Robinson |
+| 1449 | 6 | party t-rex 27 |
+| 1450 | 5 | Stephanie Zuniga Tullock |
+| 1451 | 5 | Ashley Horne |
+| 1452 | 5 | Marissa Sweet |
+| 1453 | 5 | pettymexoxo |
+| 1454 | 5 | BlessedBeauty |
+| 1455 | 5 | Happy |
+| 1456 | 5 | Jackie Sanasay |
+| 1457 | 5 | Aanngie Aanngie |
+| 1458 | 5 | Meshia |
+| 1459 | 5 | Mighty Riserbuilder |
+| 1460 | 5 | Schuyler Carson Jackson |
+| 1461 | 5 | Godz Chosen |
+| 1462 | 5 | Zesty Brickline |
+| 1463 | 5 | Annette DeLoatch Thompson |
+| 1464 | 5 | Jennifer Haton Kreighbaum |
+| 1465 | 5 | Joy Baker |
+| 1466 | 5 | Alonzo Kirkland |
+| 1467 | 5 | VERA DAME |
+| 1468 | 5 | Angelique Thomas |
+| 1469 | 5 | Carol Washington |
+| 1470 | 5 | Tito Divyn |
+| 1471 | 5 | the guy |
+| 1472 | 5 | Derek Beverly |
+| 1473 | 5 | Andy Barnett |
 
 ---
 *Standings created by tournaments datasource generation tool*
