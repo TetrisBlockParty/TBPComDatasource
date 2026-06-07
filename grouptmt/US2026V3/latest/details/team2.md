@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 07:00:19 UTC
+# Standings for team2 as of 2026-06-07 07:00:41 UTC
 
 **Total Participants:** 1664
 
@@ -410,56 +410,56 @@
 | 402 | 129 | Armando Sabedra |
 | 403 | 129 | Kristi K Milner |
 | 404 | 129 | Nikki Hatch |
-| 405 | 129 | Melissa Fink |
-| 406 | 129 | Perii Reynoso |
+| 405 | 129 | Perii Reynoso |
+| 406 | 129 | Melissa Fink |
 | 407 | 128 | rageking |
-| 408 | 127 | Stephanie |
-| 409 | 127 | Tammy Roth |
-| 410 | 127 | Aurora June Brock |
+| 408 | 128 | Flashy Hitter |
+| 409 | 127 | Stephanie |
+| 410 | 127 | Tammy Roth |
 | 411 | 127 | Nicky Steigerwalt |
 | 412 | 127 | Tina |
-| 413 | 126 | Anthony Swift |
-| 414 | 125 | Wayne Johnson |
-| 415 | 125 | Kathryn |
+| 413 | 127 | Aurora June Brock |
+| 414 | 126 | Anthony Swift |
+| 415 | 125 | Wayne Johnson |
 | 416 | 125 | Jessica Connot |
-| 417 | 124 | Angeleye A James |
+| 417 | 125 | Kathryn |
 | 418 | 124 | Jason Burris |
-| 419 | 123 | Jumpy Matchbuilder |
-| 420 | 123 | Simone F |
-| 421 | 123 | Sassy Twistbuilder |
-| 422 | 122 | Maria Ward |
+| 419 | 124 | Angeleye A James |
+| 420 | 123 | Sassy Twistbuilder |
+| 421 | 123 | Simone F |
+| 422 | 123 | Jumpy Matchbuilder |
 | 423 | 122 | Katie Jones |
-| 424 | 122 | Kevin Patrick |
+| 424 | 122 | Maria Ward |
 | 425 | 122 | Reign Hustler |
-| 426 | 121 | Lisa Allen Frisk |
-| 427 | 120 | Adam Latin |
-| 428 | 120 | Wendy McKee |
-| 429 | 120 | Keisha Robinson |
-| 430 | 120 | Starvinmarvin |
-| 431 | 120 | Carlos J Blas |
-| 432 | 120 | Kevin Mccoy |
-| 433 | 118 | Ceci |
-| 434 | 118 | Crystal Robinson |
-| 435 | 118 | Kawana Nesbitt |
-| 436 | 118 | Cindy Scott |
-| 437 | 117 | Poppy Strikerbuilder |
-| 438 | 116 | Sherri E Woods Hess |
-| 439 | 116 | Joshua Dye |
-| 440 | 115 | Amber Carpenter |
-| 441 | 115 | Muffin Popper |
-| 442 | 115 | Nova |
-| 443 | 115 | Leticia Tillman |
-| 444 | 114 | Epic Framezone |
-| 445 | 113 | Flashy Hitter |
+| 426 | 122 | Kevin Patrick |
+| 427 | 121 | Lisa Allen Frisk |
+| 428 | 120 | Adam Latin |
+| 429 | 120 | Wendy McKee |
+| 430 | 120 | Carlos J Blas |
+| 431 | 120 | Keisha Robinson |
+| 432 | 120 | Starvinmarvin |
+| 433 | 120 | Kevin Mccoy |
+| 434 | 118 | Ceci |
+| 435 | 118 | Crystal Robinson |
+| 436 | 118 | Kawana Nesbitt |
+| 437 | 118 | Cindy Scott |
+| 438 | 117 | Poppy Strikerbuilder |
+| 439 | 116 | Sherri E Woods Hess |
+| 440 | 116 | Joshua Dye |
+| 441 | 115 | Amber Carpenter |
+| 442 | 115 | Leticia Tillman |
+| 443 | 115 | Muffin Popper |
+| 444 | 115 | Nova |
+| 445 | 114 | Epic Framezone |
 | 446 | 113 | Meagan Grimmett Washburn |
 | 447 | 112 | LadyDeath |
 | 448 | 112 | Kristen |
 | 449 | 112 | Mike Mordhorst |
 | 450 | 111 | Joannah Capilitan |
-| 451 | 110 | Wendy Durrence Jones |
-| 452 | 110 | Heather Billodeau |
-| 453 | 110 | Rachel M. Farnsworth |
-| 454 | 110 | Nichole Wilson |
+| 451 | 110 | Nichole Wilson |
+| 452 | 110 | Wendy Durrence Jones |
+| 453 | 110 | Heather Billodeau |
+| 454 | 110 | Rachel M. Farnsworth |
 | 455 | 110 | Tamtam |
 | 456 | 110 | Zappy Liney |
 | 457 | 110 | LittleHippoEars |

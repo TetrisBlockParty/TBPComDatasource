@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:00:19 UTC
+# Standings for team4 as of 2026-06-07 07:00:41 UTC
 
 **Total Participants:** 1396
 
@@ -194,23 +194,23 @@
 | 186 | 232 | Danny Ortiz |
 | 187 | 232 | Scamp Jones |
 | 188 | 231 | Patrick Alley |
-| 189 | 230 | gabs |
-| 190 | 226 | Sassy Rollpiece |
-| 191 | 225 | Dubiousdust |
-| 192 | 225 | Shocinda Sherwood |
-| 193 | 224 | Janet Sanfilippo Sullivan |
-| 194 | 223 | Queen B |
-| 195 | 220 | blockhead |
-| 196 | 220 | Silly Risegrid |
-| 197 | 220 | Magz |
+| 189 | 230 | Magz |
+| 190 | 230 | gabs |
+| 191 | 226 | Sassy Rollpiece |
+| 192 | 225 | Dubiousdust |
+| 193 | 225 | Shocinda Sherwood |
+| 194 | 224 | Janet Sanfilippo Sullivan |
+| 195 | 223 | Queen B |
+| 196 | 220 | blockhead |
+| 197 | 220 | Silly Risegrid |
 | 198 | 220 | Shmeedo |
 | 199 | 219 | Plucky Shatterfit |
 | 200 | 218 | Lori Stembridge |
 | 201 | 215 | Jj Johnson |
 | 202 | 213 | Cheery Risegrid |
 | 203 | 211 | Pepone Pepe |
-| 204 | 211 | Renee Sapp |
-| 205 | 211 | Goofy Riser |
+| 204 | 211 | Goofy Riser |
+| 205 | 211 | Renee Sapp |
 | 206 | 210 | Stephanie Myers |
 | 207 | 207 | Aramat |
 | 208 | 205 | Kristen Wallace |
@@ -223,10 +223,10 @@
 | 215 | 199 | Chiquita Blue |
 | 216 | 199 | Colin |
 | 217 | 197 | Tiggerjake |
-| 218 | 195 | Sean Mccleary |
-| 219 | 195 | Lucy Honer |
-| 220 | 194 | Jenn Norcross |
-| 221 | 194 | Lisa lisa |
+| 218 | 195 | Lucy Honer |
+| 219 | 195 | Sean Mccleary |
+| 220 | 194 | Lisa lisa |
+| 221 | 194 | Jenn Norcross |
 | 222 | 193 | Tiffany Bunker-Hill |
 | 223 | 188 | Lee Ann Gibby |
 | 224 | 187 | Tipsy Builderline |
@@ -236,43 +236,43 @@
 | 228 | 185 | Britney Kitora |
 | 229 | 185 | Dae Von |
 | 230 | 185 | PerfectPieces |
-| 231 | 183 | Tara Delay Hill |
-| 232 | 183 | Brandy Lynn |
+| 231 | 183 | Brandy Lynn |
+| 232 | 183 | Tara Delay Hill |
 | 233 | 182 | Jeremy |
-| 234 | 181 | Alyson M Kehler |
-| 235 | 181 | Spicy Chicken |
+| 234 | 181 | Spicy Chicken |
+| 235 | 181 | Alyson M Kehler |
 | 236 | 181 | EL Booger |
 | 237 | 180 | ariel |
 | 238 | 179 | LaTanya GeminiondaRise Johnson |
 | 239 | 178 | Tamara Triplet |
-| 240 | 177 | Damon Gaston |
-| 241 | 177 | Chirpy Link |
+| 240 | 177 | Chirpy Link |
+| 241 | 177 | Damon Gaston |
 | 242 | 177 | Mark Norton |
 | 243 | 176 | Nicole Dombrow |
 | 244 | 175 | Jackie Miller |
 | 245 | 173 | Ashley Mcdonald |
 | 246 | 172 | No Time |
 | 247 | 171 | Bridget Stevens |
-| 248 | 169 | Andrick |
-| 249 | 169 | Tiffany Smith |
-| 250 | 167 | Jackie Polanco |
-| 251 | 167 | Brainbabe |
-| 252 | 167 | Littlebrat |
+| 248 | 169 | Tiffany Smith |
+| 249 | 169 | Andrick |
+| 250 | 167 | Brainbabe |
+| 251 | 167 | Littlebrat |
+| 252 | 167 | Jackie Polanco |
 | 253 | 166 | bollo |
 | 254 | 165 | Ryan Paul Clark-Ramsey |
 | 255 | 165 | Erika Seaton |
 | 256 | 164 | Stacy G |
 | 257 | 161 | Bouncy |
-| 258 | 160 | Morgan Stevens |
-| 259 | 160 | Frothy Pattern |
-| 260 | 160 | Fran Aaron-Ring |
+| 258 | 160 | Fran Aaron-Ring |
+| 259 | 160 | Morgan Stevens |
+| 260 | 160 | Frothy Pattern |
 | 261 | 160 | kellie |
-| 262 | 159 | JoAnn Summerlot Ratliff |
-| 263 | 158 | Joseph Hunter |
-| 264 | 157 | Laguya |
-| 265 | 155 | Tipsy Zonebuilder |
+| 262 | 159 | Jacqueline Jackii Ramos |
+| 263 | 159 | JoAnn Summerlot Ratliff |
+| 264 | 158 | Joseph Hunter |
+| 265 | 157 | Laguya |
 | 266 | 155 | Shayna Vaigneur-Hall |
-| 267 | 155 | Jacqueline Jackii Ramos |
+| 267 | 155 | Tipsy Zonebuilder |
 | 268 | 155 | Bonnie Powell |
 | 269 | 155 | Danny Frausto |
 | 270 | 154 | Lani |
@@ -874,8 +874,8 @@
 | 866 | 40 | MamaBear3 |
 | 867 | 40 | Felicia Harrison |
 | 868 | 40 | Regina Williams |
-| 869 | 40 | KrisTina2007 |
-| 870 | 40 | RustyMaster40 |
+| 869 | 40 | RustyMaster40 |
+| 870 | 40 | KrisTina2007 |
 | 871 | 40 | Zesty Lift |
 | 872 | 40 | Brooke Bauer |
 | 873 | 40 | Leslie Bamonte |
@@ -909,38 +909,38 @@
 | 901 | 39 | Denisha Schinell Boyd |
 | 902 | 39 | Lorrie Ann Burchett |
 | 903 | 39 | Jillian Marie |
-| 904 | 39 | Megan Lynn |
-| 905 | 39 | Allrise99 |
+| 904 | 39 | Gwendolyn Langwinski |
+| 905 | 39 | Megan Lynn |
 | 906 | 39 | Andy Petersen |
 | 907 | 39 | Merrick Marion |
 | 908 | 39 | Candice Sellers Worley |
-| 909 | 38 | Robin M Casebolt |
+| 909 | 39 | Allrise99 |
 | 910 | 38 | ImagineKaijus |
-| 911 | 38 | Monique Anne Edwards |
-| 912 | 38 | JP Chua |
-| 913 | 38 | Khiem Hernandez |
-| 914 | 38 | Misti Rich |
-| 915 | 38 | Snappy Slice |
-| 916 | 38 | FuzzyBunny |
-| 917 | 38 | Happy Puzzle |
-| 918 | 37 | Jonelle Jacobs |
-| 919 | 37 | Jessica Armistead |
-| 920 | 37 | Terry Jo Myers |
-| 921 | 37 | alxhue04 |
-| 922 | 37 | Tanya AfricanQueen Savage |
-| 923 | 37 | KingCas |
-| 924 | 37 | Heather Cline |
-| 925 | 37 | Jessica Lestage |
-| 926 | 37 | theyhatejzt |
-| 927 | 37 | Poppy Glider |
-| 928 | 37 | tj |
-| 929 | 37 | Kimberly Ann |
-| 930 | 37 | LISHA 2 U |
-| 931 | 37 | Shannon Lee |
+| 911 | 38 | Robin M Casebolt |
+| 912 | 38 | Monique Anne Edwards |
+| 913 | 38 | JP Chua |
+| 914 | 38 | Khiem Hernandez |
+| 915 | 38 | Misti Rich |
+| 916 | 38 | Snappy Slice |
+| 917 | 38 | FuzzyBunny |
+| 918 | 38 | Happy Puzzle |
+| 919 | 37 | Jonelle Jacobs |
+| 920 | 37 | Jessica Armistead |
+| 921 | 37 | Terry Jo Myers |
+| 922 | 37 | alxhue04 |
+| 923 | 37 | Tanya AfricanQueen Savage |
+| 924 | 37 | KingCas |
+| 925 | 37 | Heather Cline |
+| 926 | 37 | Jessica Lestage |
+| 927 | 37 | theyhatejzt |
+| 928 | 37 | Poppy Glider |
+| 929 | 37 | tj |
+| 930 | 37 | Kimberly Ann |
+| 931 | 37 | LISHA 2 U |
 | 932 | 37 | Tay |
-| 933 | 37 | Gwendolyn Langwinski |
-| 934 | 36 | Krazylegzzzz |
-| 935 | 36 | Alyssa Berg |
+| 933 | 37 | Shannon Lee |
+| 934 | 36 | Alyssa Berg |
+| 935 | 36 | Krazylegzzzz |
 | 936 | 36 | Quiles Yaitza |
 | 937 | 36 | Stacey Hyde |
 | 938 | 36 | Electric Storm |
