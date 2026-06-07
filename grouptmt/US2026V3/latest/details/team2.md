@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:38:39 UTC
+# Standings for team2 as of 2026-06-07 17:39:17 UTC
 
 **Total Participants:** 1835
 
@@ -8,14 +8,14 @@
 | :- | :- | :- |
 | 1 | 24147 | Summer Harrison |
 | 2 | 18000 | Mochi |
-| 3 | 14833 | Puce guide 9156 |
+| 3 | 15833 | Puce guide 9156 |
 | 4 | 9827 | Crystalin Heath Lewis |
 | 5 | 9576 | Jason Wood |
 | 6 | 8775 | A.j. Langley |
 | 7 | 8484 | Mocha |
 | 8 | 7687 | Lacey Nolting |
 | 9 | 7000 | Crafty Ziggy |
-| 10 | 6342 | Christina Shell |
+| 10 | 6352 | Christina Shell |
 | 11 | 6114 | Morgann McDaniel |
 | 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
@@ -118,7 +118,7 @@
 | 110 | 685 | Sigmamom |
 | 111 | 678 | Loopy Cascadepiece |
 | 112 | 670 | Krisanne Kesner-Lonsby |
-| 113 | 666 | Epic Frame |
+| 113 | 668 | Epic Frame |
 | 114 | 664 | Mirr Lulu |
 | 115 | 659 | Amber-leigh Williams |
 | 116 | 643 | Alison Waller |
@@ -188,7 +188,7 @@
 | 180 | 384 | Lisa Underwood Desmond |
 | 181 | 382 | Nikki Hayes |
 | 182 | 381 | Joslyn Johnson |
-| 183 | 377 | Lyric Price |
+| 183 | 379 | Lyric Price |
 | 184 | 376 | Nutty Curver |
 | 185 | 376 | AndyJo |
 | 186 | 376 | Jason Cook |
