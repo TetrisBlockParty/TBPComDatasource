@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 22:06:18 UTC
+# Standings for team2 as of 2026-06-07 22:06:42 UTC
 
 **Total Participants:** 1921
 
@@ -20,7 +20,7 @@
 | 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
 | 14 | 5704 | Cori Keberlein |
-| 15 | 5413 | Dapper Rollout |
+| 15 | 5433 | Dapper Rollout |
 | 16 | 5338 | Renee Weedling |
 | 17 | 5150 | boblawboblaw |
 | 18 | 4896 | Christina Jambard Sampier |
@@ -85,9 +85,9 @@
 | 77 | 1148 | Nerdy Climber |
 | 78 | 1142 | Giddy Slamdrop |
 | 79 | 1140 | Mikki Torres |
-| 80 | 1122 | Lisa Breiding |
-| 81 | 1119 | Beverly Lynn Mills |
-| 82 | 1115 | Eileen Egan |
+| 80 | 1127 | Eileen Egan |
+| 81 | 1122 | Lisa Breiding |
+| 82 | 1119 | Beverly Lynn Mills |
 | 83 | 1105 | Amber-leigh Williams |
 | 84 | 1077 | Marquita Toliver |
 | 85 | 1072 | Kvothe |
@@ -151,11 +151,11 @@
 | 143 | 570 | Jackie Tupper |
 | 144 | 570 | Kathleen Dumbazz |
 | 145 | 554 | Cathy Tippett |
-| 146 | 553 | Ricardo Ewart |
-| 147 | 553 | Jamie Jones |
-| 148 | 550 | DomDomsNana |
-| 149 | 550 | Sully |
-| 150 | 547 | Theresa Marie |
+| 146 | 553 | Theresa Marie |
+| 147 | 553 | Ricardo Ewart |
+| 148 | 553 | Jamie Jones |
+| 149 | 550 | DomDomsNana |
+| 150 | 550 | Sully |
 | 151 | 540 | Jgato |
 | 152 | 538 | Amanda Sikes |
 | 153 | 534 | Zappy Pattern |
@@ -335,10 +335,10 @@
 | 327 | 222 | Kimmyc |
 | 328 | 221 | Aldotfus Williams |
 | 329 | 221 | Bianca Woodruff |
-| 330 | 220 | Flashy Basegrid |
-| 331 | 220 | Carlos J Blas |
-| 332 | 220 | ShiverMeSplinter |
-| 333 | 220 | Charles E Mccardell |
+| 330 | 221 | Charles E Mccardell |
+| 331 | 220 | Flashy Basegrid |
+| 332 | 220 | Carlos J Blas |
+| 333 | 220 | ShiverMeSplinter |
 | 334 | 220 | Sherri E Woods Hess |
 | 335 | 220 | Michelle M Braley |
 | 336 | 219 | Stella |
@@ -525,26 +525,26 @@
 | 517 | 140 | Heather Schardan |
 | 518 | 140 | Kristi Chestnut |
 | 519 | 140 | Mary Carriere |
-| 520 | 139 | Jason Burris |
-| 521 | 139 | Candi Cane |
-| 522 | 138 | Spicy Balanceblock |
+| 520 | 139 | Cassandra Green |
+| 521 | 139 | Jason Burris |
+| 522 | 139 | Candi Cane |
 | 523 | 138 | Melissa Fink |
-| 524 | 138 | James Sayers |
-| 525 | 138 | Wendy McKee |
-| 526 | 138 | Madonna Ash |
-| 527 | 138 | Jeff Pottgether |
+| 524 | 138 | Spicy Balanceblock |
+| 525 | 138 | Madonna Ash |
+| 526 | 138 | James Sayers |
+| 527 | 138 | Wendy McKee |
 | 528 | 138 | Nicole Good |
-| 529 | 137 | Partin |
+| 529 | 138 | Jeff Pottgether |
 | 530 | 137 | LadyDeath |
-| 531 | 137 | Sarah Louise Cobb |
+| 531 | 137 | Partin |
 | 532 | 137 | Frisky Twist |
-| 533 | 137 | Sandra Belk |
-| 534 | 136 | Mtnblzr |
-| 535 | 136 | Cassandra Green |
-| 536 | 136 | Chilly Surge |
+| 533 | 137 | Sarah Louise Cobb |
+| 534 | 137 | Sandra Belk |
+| 535 | 136 | Chilly Surge |
+| 536 | 136 | Mtnblzr |
 | 537 | 136 | Lauren Maxwell |
-| 538 | 135 | Epic Framezone |
-| 539 | 135 | Firebone |
+| 538 | 135 | Firebone |
+| 539 | 135 | Epic Framezone |
 | 540 | 134 | David Skelton |
 | 541 | 132 | LittleHippoEars |
 | 542 | 132 | Kayley |
@@ -553,11 +553,11 @@
 | 545 | 131 | Dame Smith |
 | 546 | 131 | Gina Louise Parker |
 | 547 | 131 | Susie Conger |
-| 548 | 130 | Jenn |
-| 549 | 130 | Jennifer Covington |
+| 548 | 130 | Jennifer Covington |
+| 549 | 130 | ChefDeb |
 | 550 | 130 | Sherri Caillet Aucoin |
 | 551 | 130 | Christine James |
-| 552 | 130 | ChefDeb |
+| 552 | 130 | Jenn |
 | 553 | 130 | Sunny Tiltbuilder |
 | 554 | 130 | Wendy Durrence Jones |
 | 555 | 130 | Tiffany Ann |
@@ -900,95 +900,95 @@
 | 892 | 73 | Carmina Truoiolo |
 | 893 | 73 | Alisha Shelton |
 | 894 | 73 | Just Me |
-| 895 | 72 | Lindsey Davidson |
-| 896 | 72 | sugabritches |
-| 897 | 72 | Lu Wallace |
-| 898 | 72 | Aubrey Gates |
-| 899 | 72 | Audrey Bickford |
-| 900 | 72 | R.w. Buck |
-| 901 | 72 | Stacy Lynn |
-| 902 | 72 | KS Hengesbach |
-| 903 | 71 | Yari |
-| 904 | 71 | John C Morrison |
-| 905 | 71 | Michelle Arnold |
-| 906 | 71 | Michele Plunkett |
-| 907 | 71 | Buffy Diane Blake |
-| 908 | 71 | Nicole Hjelmen |
-| 909 | 71 | Kiersty Redder |
-| 910 | 71 | Sandy Lynn |
-| 911 | 70 | Giggy Linkgrid |
-| 912 | 70 | Christi Hooper |
-| 913 | 70 | Latrell Thomas |
-| 914 | 70 | Abby Dexter |
-| 915 | 70 | Andrea Spinelli |
-| 916 | 70 | Justin Furne |
-| 917 | 70 | Cassafrass |
-| 918 | 70 | Elnaz Mokleh |
-| 919 | 70 | Momi Kamohai |
-| 920 | 70 | Kelly Hall Whitt |
-| 921 | 70 | Duck |
-| 922 | 70 | Jennifer Lewellyn Hutchins |
-| 923 | 70 | Michelle Fry-Cash |
-| 924 | 70 | YAKO |
-| 925 | 70 | Brenda Zona |
-| 926 | 70 | Teea Makensi Meyer |
-| 927 | 70 | Kelli Pazour |
-| 928 | 70 | Amy D Coble |
-| 929 | 70 | Christina Reid |
-| 930 | 70 | Cool Balancer |
-| 931 | 70 | Stazy Warner |
-| 932 | 70 | Lori |
-| 933 | 70 | Elizabeth Henry |
-| 934 | 70 | TheAggie12 |
-| 935 | 70 | Alisha Kralicek Trainham |
-| 936 | 69 | DragonJB2020 |
-| 937 | 69 | Jessica Veness-Toth |
-| 938 | 69 | Lydia Shonee |
-| 939 | 69 | Loretta Crow |
-| 940 | 69 | Mona Wagner |
-| 941 | 69 | Cynthia Dawn Reitz Hanson |
-| 942 | 69 | REE4 |
-| 943 | 68 | Suzanne Davis |
-| 944 | 68 | Kim Powers |
-| 945 | 68 | Fancy Stacker |
-| 946 | 68 | Kaitlyn Hurst |
-| 947 | 68 | Melissa Mae |
-| 948 | 67 | Diamond Balotje |
-| 949 | 67 | Miguel360 |
-| 950 | 67 | Tina Carr |
-| 951 | 67 | Jolly Brickroll |
-| 952 | 67 | Brittany Paul |
-| 953 | 67 | Tashamonique Puckey |
-| 954 | 66 | Meagan Thompson |
-| 955 | 66 | Dizzy Dropzone |
-| 956 | 66 | Joyce Galloway |
-| 957 | 66 | Cool cee |
-| 958 | 66 | Signerlisa |
-| 959 | 65 | Lexi Chouinard |
-| 960 | 65 | Churube Finwoiisopw |
-| 961 | 65 | Belinda Head |
-| 962 | 65 | Purpleroyalty11 |
-| 963 | 65 | Natalie M. Arredondo |
-| 964 | 65 | Kennadee Albertson |
-| 965 | 65 | Nina-Christina Cusyck |
-| 966 | 65 | Audrey Wood |
-| 967 | 65 | Raffa |
-| 968 | 65 | Angela VanOstrand |
-| 969 | 65 | Carlee Becher |
-| 970 | 65 | nogo |
-| 971 | 65 | D.j. Wingate |
-| 972 | 65 | Cindy Wellman |
-| 973 | 65 | Wacky Drop |
-| 974 | 65 | Joanne Haynes |
-| 975 | 64 | Pnda |
-| 976 | 64 | Peppy Piececlear |
-| 977 | 63 | April Elaine Messenger |
-| 978 | 63 | Jessica LeNeave |
-| 979 | 63 | Danita Moon |
-| 980 | 63 | Dani Newton |
-| 981 | 63 | Melissa Pronovost |
-| 982 | 63 | Kimmi Blake |
-| 983 | 63 | Jenica Davis |
+| 895 | 73 | Jenica Davis |
+| 896 | 72 | Lindsey Davidson |
+| 897 | 72 | sugabritches |
+| 898 | 72 | Lu Wallace |
+| 899 | 72 | Aubrey Gates |
+| 900 | 72 | Audrey Bickford |
+| 901 | 72 | R.w. Buck |
+| 902 | 72 | Stacy Lynn |
+| 903 | 72 | KS Hengesbach |
+| 904 | 71 | Yari |
+| 905 | 71 | John C Morrison |
+| 906 | 71 | Michelle Arnold |
+| 907 | 71 | Michele Plunkett |
+| 908 | 71 | Buffy Diane Blake |
+| 909 | 71 | Nicole Hjelmen |
+| 910 | 71 | Kiersty Redder |
+| 911 | 71 | Sandy Lynn |
+| 912 | 70 | Giggy Linkgrid |
+| 913 | 70 | Christi Hooper |
+| 914 | 70 | Latrell Thomas |
+| 915 | 70 | Abby Dexter |
+| 916 | 70 | Andrea Spinelli |
+| 917 | 70 | Justin Furne |
+| 918 | 70 | Cassafrass |
+| 919 | 70 | Elnaz Mokleh |
+| 920 | 70 | Momi Kamohai |
+| 921 | 70 | Kelly Hall Whitt |
+| 922 | 70 | Duck |
+| 923 | 70 | Jennifer Lewellyn Hutchins |
+| 924 | 70 | Michelle Fry-Cash |
+| 925 | 70 | YAKO |
+| 926 | 70 | Brenda Zona |
+| 927 | 70 | Teea Makensi Meyer |
+| 928 | 70 | Kelli Pazour |
+| 929 | 70 | Amy D Coble |
+| 930 | 70 | Christina Reid |
+| 931 | 70 | Cool Balancer |
+| 932 | 70 | Stazy Warner |
+| 933 | 70 | Lori |
+| 934 | 70 | Elizabeth Henry |
+| 935 | 70 | TheAggie12 |
+| 936 | 70 | Alisha Kralicek Trainham |
+| 937 | 69 | DragonJB2020 |
+| 938 | 69 | Jessica Veness-Toth |
+| 939 | 69 | Lydia Shonee |
+| 940 | 69 | Loretta Crow |
+| 941 | 69 | Mona Wagner |
+| 942 | 69 | Cynthia Dawn Reitz Hanson |
+| 943 | 69 | REE4 |
+| 944 | 68 | Suzanne Davis |
+| 945 | 68 | Kim Powers |
+| 946 | 68 | Fancy Stacker |
+| 947 | 68 | Kaitlyn Hurst |
+| 948 | 68 | Melissa Mae |
+| 949 | 67 | Diamond Balotje |
+| 950 | 67 | Miguel360 |
+| 951 | 67 | Tina Carr |
+| 952 | 67 | Jolly Brickroll |
+| 953 | 67 | Brittany Paul |
+| 954 | 67 | Tashamonique Puckey |
+| 955 | 66 | Meagan Thompson |
+| 956 | 66 | Dizzy Dropzone |
+| 957 | 66 | Joyce Galloway |
+| 958 | 66 | Cool cee |
+| 959 | 66 | Signerlisa |
+| 960 | 65 | Lexi Chouinard |
+| 961 | 65 | Churube Finwoiisopw |
+| 962 | 65 | Belinda Head |
+| 963 | 65 | Purpleroyalty11 |
+| 964 | 65 | Natalie M. Arredondo |
+| 965 | 65 | Kennadee Albertson |
+| 966 | 65 | Nina-Christina Cusyck |
+| 967 | 65 | Audrey Wood |
+| 968 | 65 | Raffa |
+| 969 | 65 | Angela VanOstrand |
+| 970 | 65 | Carlee Becher |
+| 971 | 65 | nogo |
+| 972 | 65 | D.j. Wingate |
+| 973 | 65 | Joanne Haynes |
+| 974 | 65 | Wacky Drop |
+| 975 | 65 | Cindy Wellman |
+| 976 | 64 | Pnda |
+| 977 | 64 | Peppy Piececlear |
+| 978 | 63 | April Elaine Messenger |
+| 979 | 63 | Jessica LeNeave |
+| 980 | 63 | Danita Moon |
+| 981 | 63 | Dani Newton |
+| 982 | 63 | Melissa Pronovost |
+| 983 | 63 | Kimmi Blake |
 | 984 | 63 | Aneokly |
 | 985 | 62 | Blossom48 |
 | 986 | 62 | Saucy Clearzone |
@@ -1032,8 +1032,8 @@
 | 1024 | 60 | Scott Lyles |
 | 1025 | 60 | Ashley Lee DeHaan |
 | 1026 | 60 | MattandAngie Hopkins |
-| 1027 | 59 | Megan McDevitt |
-| 1028 | 59 | Jolene Smith |
+| 1027 | 59 | Jolene Smith |
+| 1028 | 59 | Megan McDevitt |
 | 1029 | 59 | Jenn Mccarty |
 | 1030 | 59 | WestieMom |
 | 1031 | 59 | Dee |
