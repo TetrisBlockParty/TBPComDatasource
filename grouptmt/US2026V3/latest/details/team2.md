@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 06:28:19 UTC
+# Standings for team2 as of 2026-06-07 06:28:41 UTC
 
 **Total Participants:** 1657
 
@@ -211,8 +211,8 @@
 | 203 | 277 | Sarah Mccolgan |
 | 204 | 274 | Amber Wolf |
 | 205 | 270 | giamy |
-| 206 | 269 | Ackerman 85 |
-| 207 | 267 | Lisa Underwood Desmond |
+| 206 | 269 | Lisa Underwood Desmond |
+| 207 | 269 | Ackerman 85 |
 | 208 | 263 | Glitzy Base |
 | 209 | 262 | Cool Balancer |
 | 210 | 260 | Snappy Blockbuilder |
@@ -276,28 +276,28 @@
 | 268 | 200 | Physhie |
 | 269 | 200 | ShiverMeSplinter |
 | 270 | 200 | Al Smith Jr |
-| 271 | 200 | Nathan Walker |
-| 272 | 200 | Norma Ortiz |
+| 271 | 200 | Norma Ortiz |
+| 272 | 200 | Nathan Walker |
 | 273 | 200 | Sarah Grundisch |
 | 274 | 200 | August Christy Lathrop |
 | 275 | 200 | Eric Wayne Maschman |
-| 276 | 198 | Amy Taylor Pomerenk |
-| 277 | 196 | Greenie |
-| 278 | 195 | Bb |
-| 279 | 195 | Pamela Raye |
-| 280 | 195 | Laverne Ellis Blair |
-| 281 | 192 | Olivia Jefferson |
-| 282 | 192 | Jill Goff |
-| 283 | 192 | Greta Warden |
-| 284 | 191 | Jessica Christine |
-| 285 | 189 | Loopy Curvebuilder |
+| 276 | 199 | Loopy Curvebuilder |
+| 277 | 198 | Amy Taylor Pomerenk |
+| 278 | 196 | Greenie |
+| 279 | 195 | Bb |
+| 280 | 195 | Pamela Raye |
+| 281 | 195 | Laverne Ellis Blair |
+| 282 | 192 | Olivia Jefferson |
+| 283 | 192 | Jill Goff |
+| 284 | 192 | Greta Warden |
+| 285 | 191 | Jessica Christine |
 | 286 | 188 | Ray Daisy |
 | 287 | 187 | Curly Windbreaker |
 | 288 | 185 | Krystle L Coon |
 | 289 | 184 | Theresa Hollinger |
 | 290 | 184 | SEH |
-| 291 | 181 | Theresa Huddleston |
-| 292 | 181 | Jamie Adams |
+| 291 | 181 | Jamie Adams |
+| 292 | 181 | Theresa Huddleston |
 | 293 | 180 | Happy |
 | 294 | 180 | Skye Ehret |
 | 295 | 180 | Precious Womack |
