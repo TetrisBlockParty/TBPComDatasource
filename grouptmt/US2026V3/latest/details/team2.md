@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 21:58:43 UTC
+# Standings for team2 as of 2026-06-07 21:59:19 UTC
 
 **Total Participants:** 1918
 
@@ -63,8 +63,8 @@
 | 55 | 1704 | Heather Marie-Tarlton Britt |
 | 56 | 1682 | Elizabeth Sallas |
 | 57 | 1657 | Rashanna Bockhorn |
-| 58 | 1606 | Debra Henry |
-| 59 | 1606 | Nerdy Glidepiece |
+| 58 | 1606 | Nerdy Glidepiece |
+| 59 | 1606 | Debra Henry |
 | 60 | 1601 | Block Dog |
 | 61 | 1551 | Monica Galli |
 | 62 | 1547 | Happy Pivotfall |
@@ -100,9 +100,9 @@
 | 92 | 988 | Dane Marko |
 | 93 | 970 | Bridget N Jonathan Franz |
 | 94 | 966 | Allison Jarman |
-| 95 | 916 | Amber Salazar |
-| 96 | 908 | Jazzy Faller |
-| 97 | 904 | Helen Thomas |
+| 95 | 942 | Helen Thomas |
+| 96 | 916 | Amber Salazar |
+| 97 | 908 | Jazzy Faller |
 | 98 | 899 | Marie Luciano |
 | 99 | 880 | Renee Freeman Jacobson |
 | 100 | 869 | Marquetta Johnson |
@@ -471,32 +471,32 @@
 | 463 | 156 | TetrisMama |
 | 464 | 156 | Aurora June Brock |
 | 465 | 156 | Charlotte Castelli |
-| 466 | 154 | Belle |
-| 467 | 154 | Chummy Snapbuilder |
-| 468 | 153 | Wendy Mcbride |
-| 469 | 153 | Gabrielle Wilson |
-| 470 | 153 | Cortney Coleman |
-| 471 | 152 | Cindy Scott |
-| 472 | 151 | Amy Lea Hamilton |
-| 473 | 151 | Jumpy Matchbuilder |
-| 474 | 151 | Ava Speedy |
-| 475 | 151 | Jana Campbell |
-| 476 | 150 | Sarah Rodriguez |
-| 477 | 150 | Elizabeth Kline |
-| 478 | 150 | Plucky Grabber |
-| 479 | 150 | Tina |
-| 480 | 149 | Mike Mordhorst |
-| 481 | 149 | IncrediDragon |
-| 482 | 149 | Jenni LeBlanc |
-| 483 | 149 | Hillary Frank |
-| 484 | 149 | Justin Stark |
-| 485 | 148 | NickandJess Reynolds |
-| 486 | 148 | rageking |
-| 487 | 148 | Renee Siems |
-| 488 | 148 | Barb Kiser |
-| 489 | 148 | Lively Curve |
-| 490 | 148 | Kay |
-| 491 | 146 | Janelle Edgecombe |
+| 466 | 156 | Janelle Edgecombe |
+| 467 | 154 | Belle |
+| 468 | 154 | Chummy Snapbuilder |
+| 469 | 153 | Wendy Mcbride |
+| 470 | 153 | Gabrielle Wilson |
+| 471 | 153 | Cortney Coleman |
+| 472 | 152 | Cindy Scott |
+| 473 | 151 | Amy Lea Hamilton |
+| 474 | 151 | Jumpy Matchbuilder |
+| 475 | 151 | Ava Speedy |
+| 476 | 151 | Jana Campbell |
+| 477 | 150 | Sarah Rodriguez |
+| 478 | 150 | Elizabeth Kline |
+| 479 | 150 | Plucky Grabber |
+| 480 | 150 | Tina |
+| 481 | 149 | Mike Mordhorst |
+| 482 | 149 | IncrediDragon |
+| 483 | 149 | Jenni LeBlanc |
+| 484 | 149 | Hillary Frank |
+| 485 | 149 | Justin Stark |
+| 486 | 148 | NickandJess Reynolds |
+| 487 | 148 | rageking |
+| 488 | 148 | Renee Siems |
+| 489 | 148 | Barb Kiser |
+| 490 | 148 | Lively Curve |
+| 491 | 148 | Kay |
 | 492 | 146 | Dana Wilson |
 | 493 | 146 | Darla Nolt |
 | 494 | 145 | Muffin Popper |
@@ -887,15 +887,15 @@
 | 879 | 74 | Valeri Bradley |
 | 880 | 74 | Natasha Lee |
 | 881 | 74 | Christina Kearns |
-| 882 | 73 | BugMansMom |
-| 883 | 73 | Alisha Shelton |
-| 884 | 73 | blockrocker |
-| 885 | 73 | Carmina Truoiolo |
-| 886 | 73 | Elodie Deveyer |
+| 882 | 73 | Alisha Shelton |
+| 883 | 73 | Carmina Truoiolo |
+| 884 | 73 | BugMansMom |
+| 885 | 73 | blockrocker |
+| 886 | 73 | Mellzey |
 | 887 | 73 | Sassy Patternblock |
 | 888 | 73 | Sunny Spinzone |
 | 889 | 73 | Chirpy Combofall |
-| 890 | 73 | Mellzey |
+| 890 | 73 | Elodie Deveyer |
 | 891 | 73 | Just Me |
 | 892 | 72 | Lindsey Davidson |
 | 893 | 72 | sugabritches |
@@ -915,14 +915,14 @@
 | 907 | 71 | Kiersty Redder |
 | 908 | 70 | Cassafrass |
 | 909 | 70 | Abby Dexter |
-| 910 | 70 | Amy D Coble |
-| 911 | 70 | Latrell Thomas |
-| 912 | 70 | Giggy Linkgrid |
+| 910 | 70 | Giggy Linkgrid |
+| 911 | 70 | Amy D Coble |
+| 912 | 70 | Latrell Thomas |
 | 913 | 70 | Kelly Hall Whitt |
 | 914 | 70 | Duck |
-| 915 | 70 | Michelle Fry-Cash |
+| 915 | 70 | Teea Makensi Meyer |
 | 916 | 70 | Cool Balancer |
-| 917 | 70 | Teea Makensi Meyer |
+| 917 | 70 | Michelle Fry-Cash |
 | 918 | 70 | Momi Kamohai |
 | 919 | 70 | Brenda Zona |
 | 920 | 70 | Kelli Pazour |
@@ -940,84 +940,84 @@
 | 932 | 70 | Lori |
 | 933 | 69 | Jessica Veness-Toth |
 | 934 | 69 | DragonJB2020 |
-| 935 | 69 | Cynthia Dawn Reitz Hanson |
-| 936 | 69 | Lydia Shonee |
+| 935 | 69 | Loretta Crow |
+| 936 | 69 | Mona Wagner |
 | 937 | 69 | REE4 |
-| 938 | 69 | Loretta Crow |
-| 939 | 69 | Mona Wagner |
-| 940 | 68 | Fancy Stacker |
-| 941 | 68 | Kim Powers |
-| 942 | 68 | Suzanne Davis |
-| 943 | 68 | Kaitlyn Hurst |
+| 938 | 69 | Cynthia Dawn Reitz Hanson |
+| 939 | 69 | Lydia Shonee |
+| 940 | 68 | Suzanne Davis |
+| 941 | 68 | Kaitlyn Hurst |
+| 942 | 68 | Kim Powers |
+| 943 | 68 | Fancy Stacker |
 | 944 | 68 | Melissa Mae |
-| 945 | 67 | Brittany Paul |
-| 946 | 67 | Miguel360 |
-| 947 | 67 | Tina Carr |
-| 948 | 67 | Jolly Brickroll |
+| 945 | 67 | Diamond Balotje |
+| 946 | 67 | Jolly Brickroll |
+| 947 | 67 | Miguel360 |
+| 948 | 67 | Tina Carr |
 | 949 | 67 | Tashamonique Puckey |
-| 950 | 67 | Diamond Balotje |
-| 951 | 66 | Dizzy Dropzone |
-| 952 | 66 | Cool cee |
-| 953 | 66 | Joyce Galloway |
-| 954 | 66 | Meagan Thompson |
-| 955 | 66 | Signerlisa |
-| 956 | 65 | Purpleroyalty11 |
-| 957 | 65 | Angela VanOstrand |
-| 958 | 65 | Natalie M. Arredondo |
-| 959 | 65 | Nina-Christina Cusyck |
+| 950 | 67 | Brittany Paul |
+| 951 | 66 | Cool cee |
+| 952 | 66 | Joyce Galloway |
+| 953 | 66 | Dizzy Dropzone |
+| 954 | 66 | Signerlisa |
+| 955 | 66 | Meagan Thompson |
+| 956 | 65 | Nina-Christina Cusyck |
+| 957 | 65 | Natalie M. Arredondo |
+| 958 | 65 | Churube Finwoiisopw |
+| 959 | 65 | Purpleroyalty11 |
 | 960 | 65 | D.j. Wingate |
 | 961 | 65 | nogo |
-| 962 | 65 | Kennadee Albertson |
-| 963 | 65 | Raffa |
-| 964 | 65 | Lexi Chouinard |
-| 965 | 65 | Churube Finwoiisopw |
-| 966 | 65 | Belinda Head |
-| 967 | 65 | Audrey Wood |
-| 968 | 65 | Carlee Becher |
+| 962 | 65 | Belinda Head |
+| 963 | 65 | Audrey Wood |
+| 964 | 65 | Kennadee Albertson |
+| 965 | 65 | Angela VanOstrand |
+| 966 | 65 | Carlee Becher |
+| 967 | 65 | Lexi Chouinard |
+| 968 | 65 | Raffa |
 | 969 | 65 | Cindy Wellman |
 | 970 | 65 | Joanne Haynes |
 | 971 | 65 | Wacky Drop |
 | 972 | 64 | Pnda |
 | 973 | 64 | Peppy Piececlear |
-| 974 | 63 | Kimmi Blake |
+| 974 | 63 | Danita Moon |
 | 975 | 63 | Jessica LeNeave |
-| 976 | 63 | Melissa Pronovost |
-| 977 | 63 | April Elaine Messenger |
-| 978 | 63 | Danita Moon |
+| 976 | 63 | Kimmi Blake |
+| 977 | 63 | Melissa Pronovost |
+| 978 | 63 | April Elaine Messenger |
 | 979 | 63 | Aneokly |
 | 980 | 62 | Blossom48 |
 | 981 | 62 | Saucy Clearzone |
-| 982 | 62 | Peppy Piececlear |
-| 983 | 62 | Amy Walker |
-| 984 | 62 | Happy Curvebuilder |
-| 985 | 62 | Denise Morehart |
-| 986 | 62 | Alana Albritton Seals |
-| 987 | 62 | Kelly Christine Trimmer |
-| 988 | 61 | Bubbly Dash |
-| 989 | 61 | Jolene Hull Hearn |
-| 990 | 61 | Glitzy Matchclear |
+| 982 | 62 | Dani Newton |
+| 983 | 62 | Happy Curvebuilder |
+| 984 | 62 | Amy Walker |
+| 985 | 62 | Peppy Piececlear |
+| 986 | 62 | Denise Morehart |
+| 987 | 62 | Alana Albritton Seals |
+| 988 | 62 | Kelly Christine Trimmer |
+| 989 | 61 | GiGi Cool |
+| 990 | 61 | Bubbly Dash |
 | 991 | 61 | Marcia Davis |
-| 992 | 61 | Ken Vaughn |
-| 993 | 61 | Dani Newton |
-| 994 | 61 | GiGi Cool |
+| 992 | 61 | Lil G |
+| 993 | 61 | Michele Choate |
+| 994 | 61 | Chad Atchley |
 | 995 | 61 | giggly gal |
-| 996 | 61 | Lil G |
-| 997 | 61 | Chad Atchley |
-| 998 | 61 | Michele Choate |
-| 999 | 60 | Giggy Dropzone |
-| 1000 | 60 | Amanda Kennedy |
-| 1001 | 60 | Sharilyn Jackson |
-| 1002 | 60 | Stephen Gillam |
-| 1003 | 60 | Justtony Fareal |
-| 1004 | 60 | Nikki Grant |
+| 996 | 61 | Ken Vaughn |
+| 997 | 61 | Glitzy Matchclear |
+| 998 | 61 | Jolene Hull Hearn |
+| 999 | 60 | Stephen Gillam |
+| 1000 | 60 | Giggy Dropzone |
+| 1001 | 60 | Justtony Fareal |
+| 1002 | 60 | Sharilyn Jackson |
+| 1003 | 60 | Nikki Grant |
+| 1004 | 60 | Amanda Kennedy |
 | 1005 | 60 | Donutz |
 | 1006 | 60 | Melissa Aycock |
 | 1007 | 60 | Speedy Gridder |
 | 1008 | 60 | Nanny t |
 | 1009 | 60 | Grimwitch |
 | 1010 | 60 | Brandi Williams |
-| 1011 | 60 | Gammawms |
-| 1012 | 60 | Alexis Abner |
+| 1011 | 60 | Alexis Abner |
+| 1012 | 60 | Gammawms |
 | 1013 | 60 | Angie Rose |
 | 1014 | 60 | Snippy Shifter |
 | 1015 | 60 | Emily Carns |
