@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 16:06:19 UTC
+# Standings for team2 as of 2026-06-07 16:06:40 UTC
 
 **Total Participants:** 1797
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 23864 | Summer Harrison |
-| 2 | 15900 | Mochi |
+| 2 | 17100 | Mochi |
 | 3 | 14833 | Puce guide 9156 |
 | 4 | 9827 | Crystalin Heath Lewis |
 | 5 | 9576 | Jason Wood |
@@ -87,7 +87,7 @@
 | 79 | 1011 | Criccett Hooper-Smith |
 | 80 | 987 | Charlie Wilson |
 | 81 | 984 | Dane Marko |
-| 82 | 945 | Angel Welch |
+| 82 | 973 | Angel Welch |
 | 83 | 921 | Block Dog |
 | 84 | 916 | Amber Salazar |
 | 85 | 899 | Marie Luciano |
@@ -1624,42 +1624,42 @@
 | 1616 | 12 | Brandy Moore |
 | 1617 | 12 | Chrissy Hess |
 | 1618 | 12 | Nikki Blilie |
-| 1619 | 12 | Mary |
+| 1619 | 12 | Anarcho |
 | 1620 | 12 | Phyllis DiCristo |
 | 1621 | 12 | Samantha Morrison |
-| 1622 | 12 | Jacob nitro |
-| 1623 | 12 | Redangel |
-| 1624 | 12 | Sindy08 |
+| 1622 | 12 | Squyrt |
+| 1623 | 12 | Jacob nitro |
+| 1624 | 12 | Redangel |
 | 1625 | 12 | Quirky Brickroll |
-| 1626 | 12 | Squyrt |
-| 1627 | 12 | Anarcho |
-| 1628 | 12 | April Owings |
-| 1629 | 12 | Jolly Blockroll |
-| 1630 | 12 | Silly Twister |
-| 1631 | 12 | Mariah Wells |
-| 1632 | 11 | Patty Smith |
-| 1633 | 11 | Snappy Matchgrid |
-| 1634 | 11 | Lou Sassole |
-| 1635 | 11 | Snippy Blockfall |
-| 1636 | 11 | Robert E Tracy |
-| 1637 | 11 | bob |
-| 1638 | 11 | cole |
-| 1639 | 11 | Curley natioN |
+| 1626 | 12 | Latrell Thomas |
+| 1627 | 12 | Sindy08 |
+| 1628 | 12 | Mariah Wells |
+| 1629 | 12 | April Owings |
+| 1630 | 12 | Jolly Blockroll |
+| 1631 | 12 | Silly Twister |
+| 1632 | 12 | Mary |
+| 1633 | 11 | Patty Smith |
+| 1634 | 11 | cole |
+| 1635 | 11 | Snappy Matchgrid |
+| 1636 | 11 | Snippy Blockfall |
+| 1637 | 11 | Robert E Tracy |
+| 1638 | 11 | Lou Sassole |
+| 1639 | 11 | bob |
 | 1640 | 11 | Merine Mott |
-| 1641 | 11 | Krystal Snow |
-| 1642 | 11 | Spunky Snapfall |
-| 1643 | 11 | Happy Shatterblock |
-| 1644 | 11 | Lisa |
-| 1645 | 11 | Amanda Nicholson |
-| 1646 | 10 | Flashy Blockfall |
-| 1647 | 10 | Kay |
-| 1648 | 10 | Vee Waller |
-| 1649 | 10 | Clever Clusterfit |
-| 1650 | 10 | Daniela Solis |
-| 1651 | 10 | Hasty Linker |
-| 1652 | 10 | Ashley Anderson |
-| 1653 | 10 | foxxiebby |
-| 1654 | 10 | Pickle |
+| 1641 | 11 | Curley natioN |
+| 1642 | 11 | Krystal Snow |
+| 1643 | 11 | Spunky Snapfall |
+| 1644 | 11 | Happy Shatterblock |
+| 1645 | 11 | Lisa |
+| 1646 | 11 | Amanda Nicholson |
+| 1647 | 10 | Flashy Blockfall |
+| 1648 | 10 | Kay |
+| 1649 | 10 | Vee Waller |
+| 1650 | 10 | Clever Clusterfit |
+| 1651 | 10 | Daniela Solis |
+| 1652 | 10 | Hasty Linker |
+| 1653 | 10 | Ashley Anderson |
+| 1654 | 10 | foxxiebby |
 | 1655 | 10 | Rick Green |
 | 1656 | 10 | Laura Rake |
 | 1657 | 10 | Joe Duffer |
@@ -1671,59 +1671,59 @@
 | 1663 | 10 | Tiffany Townsend |
 | 1664 | 10 | Lorrie Girardi |
 | 1665 | 10 | crysamoctama57 |
-| 1666 | 10 | Angiela Hope Boggs |
-| 1667 | 10 | Amanda Fields |
-| 1668 | 10 | Crystal Owen Yocolano |
+| 1666 | 10 | Crystal Owen Yocolano |
+| 1667 | 10 | Angiela Hope Boggs |
+| 1668 | 10 | Amanda Fields |
 | 1669 | 10 | Happy Riseclear |
-| 1670 | 10 | Mistress |
-| 1671 | 10 | Donna Casey |
+| 1670 | 10 | Donna Casey |
+| 1671 | 10 | Mistress |
 | 1672 | 10 | TaLana Ortley |
 | 1673 | 10 | Mike Clements |
 | 1674 | 10 | LivePhoenix |
 | 1675 | 10 | Dawnie Rodarte |
 | 1676 | 10 | ANNIE CHAOS |
 | 1677 | 10 | Lisa Schwobe |
-| 1678 | 10 | Breezy Ivy |
-| 1679 | 10 | Ducky West |
-| 1680 | 10 | Cardisa Hall |
-| 1681 | 10 | Rachel Switala |
-| 1682 | 10 | Pamela Kay |
-| 1683 | 10 | Crafty Combo |
-| 1684 | 10 | Lacey Johnson |
+| 1678 | 10 | Aislinn Lowe |
+| 1679 | 10 | Cardisa Hall |
+| 1680 | 10 | Rachel Switala |
+| 1681 | 10 | Ducky West |
+| 1682 | 10 | Lacey Johnson |
+| 1683 | 10 | Pickle |
+| 1684 | 10 | April Appleton |
 | 1685 | 10 | Mindy Corriher |
-| 1686 | 10 | April Appleton |
+| 1686 | 10 | Pamela Kay |
 | 1687 | 10 | FinnsDad |
 | 1688 | 10 | Zesty Dash |
 | 1689 | 10 | Rachelle Parker |
 | 1690 | 10 | Dandy Fill |
 | 1691 | 10 | Amanda Kennedy |
-| 1692 | 10 | Crasher |
-| 1693 | 10 | TyShantelle |
+| 1692 | 10 | Breezy Ivy |
+| 1693 | 10 | Crafty Combo |
 | 1694 | 10 | Celeste Duet |
-| 1695 | 10 | Margie King |
+| 1695 | 10 | Crasher |
 | 1696 | 10 | Bold Blockline |
-| 1697 | 10 | Jennifer Bell |
-| 1698 | 10 | Daily Findery |
-| 1699 | 10 | Aislinn Lowe |
-| 1700 | 10 | Twisty Snapclear |
+| 1697 | 10 | Margie King |
+| 1698 | 10 | Twisty Snapclear |
+| 1699 | 10 | Justin Furne |
+| 1700 | 10 | Jason M Barnes |
 | 1701 | 10 | Brittnee Lane |
-| 1702 | 10 | Justin Furne |
-| 1703 | 10 | Jason M Barnes |
-| 1704 | 9 | Latrell Thomas |
-| 1705 | 9 | Giggly Spinblock |
-| 1706 | 9 | Naomi Christiansen |
+| 1702 | 10 | Jennifer Bell |
+| 1703 | 10 | TyShantelle |
+| 1704 | 10 | Daily Findery |
+| 1705 | 9 | Bethany Gerber |
+| 1706 | 9 | Snazzy Cascadezone |
 | 1707 | 9 | Cheery Striker |
-| 1708 | 9 | Snazzy Cascadezone |
-| 1709 | 9 | Bethany Gerber |
+| 1708 | 9 | Naomi Christiansen |
+| 1709 | 9 | Giggly Spinblock |
 | 1710 | 9 | Gigi |
-| 1711 | 9 | Yuhh |
-| 1712 | 9 | yep |
-| 1713 | 9 | Holly |
-| 1714 | 9 | Lori Loup |
-| 1715 | 9 | Terri Ramsey |
-| 1716 | 9 | Jeff Mullins |
-| 1717 | 9 | Tabitha Porter |
-| 1718 | 9 | Dapper Corner |
+| 1711 | 9 | yep |
+| 1712 | 9 | Holly |
+| 1713 | 9 | Lori Loup |
+| 1714 | 9 | Terri Ramsey |
+| 1715 | 9 | Jeff Mullins |
+| 1716 | 9 | Tabitha Porter |
+| 1717 | 9 | Dapper Corner |
+| 1718 | 9 | Yuhh |
 | 1719 | 9 | Lindsey Butler |
 | 1720 | 9 | Kimberley Marie |
 | 1721 | 9 | Wynde Wood |
@@ -1736,14 +1736,14 @@
 | 1728 | 8 | Jumpy Twistslam |
 | 1729 | 8 | Tina Doyens Munis |
 | 1730 | 8 | Zippy Balance |
-| 1731 | 8 | Mariah Mandel |
-| 1732 | 8 | Kennadee Albertson |
+| 1731 | 8 | Kennadee Albertson |
+| 1732 | 8 | Mariah Mandel |
 | 1733 | 8 | Funky Slide |
 | 1734 | 8 | Lissa |
 | 1735 | 7 | Michael Bond |
 | 1736 | 7 | Elizabeth Barnhart Floyd |
-| 1737 | 7 | Chirpy Shiftspin |
-| 1738 | 7 | Lush Tile |
+| 1737 | 7 | Lush Tile |
+| 1738 | 7 | Chirpy Shiftspin |
 | 1739 | 7 | Perky Rollfit |
 | 1740 | 7 | Janice Simpson |
 | 1741 | 7 | Judy Burkhalter |
