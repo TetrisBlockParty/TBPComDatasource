@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 17:38:19 UTC
+# Standings for team2 as of 2026-06-07 17:38:39 UTC
 
 **Total Participants:** 1835
 
@@ -20,7 +20,7 @@
 | 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
 | 14 | 5704 | Cori Keberlein |
-| 15 | 5213 | Dapper Rollout |
+| 15 | 5223 | Dapper Rollout |
 | 16 | 5150 | boblawboblaw |
 | 17 | 4676 | Lola C Davis |
 | 18 | 4459 | Kathleen M Cox |
@@ -28,8 +28,8 @@
 | 20 | 4355 | Alexia Reagan |
 | 21 | 4294 | Ber |
 | 22 | 4181 | Bobbi |
-| 23 | 4058 | Erica Dees Parks |
-| 24 | 3998 | Christina Jambard Sampier |
+| 23 | 4098 | Christina Jambard Sampier |
+| 24 | 4058 | Erica Dees Parks |
 | 25 | 3984 | Amber |
 | 26 | 3932 | Jewels |
 | 27 | 3812 | Crystal M Sowden |
@@ -702,67 +702,67 @@
 | 694 | 86 | Spunky Linkblock |
 | 695 | 86 | Brandy McCleary |
 | 696 | 86 | Chirpy Clearpiece |
-| 697 | 86 | bozzycat |
-| 698 | 86 | shell |
+| 697 | 86 | shell |
+| 698 | 86 | bozzycat |
 | 699 | 86 | Frisky Twist |
 | 700 | 86 | Samantha Brown |
-| 701 | 85 | Val |
-| 702 | 85 | Seamus |
-| 703 | 85 | Wacky Stack |
-| 704 | 85 | James Moore |
-| 705 | 85 | Ginger Nesbitt |
-| 706 | 85 | Frisky Linkbuilder |
-| 707 | 85 | Daisy Girl |
-| 708 | 85 | Jason P. Schwartz |
+| 701 | 85 | Seamus |
+| 702 | 85 | James Moore |
+| 703 | 85 | Ginger Nesbitt |
+| 704 | 85 | Frisky Linkbuilder |
+| 705 | 85 | Val |
+| 706 | 85 | Daisy Girl |
+| 707 | 85 | Jason P. Schwartz |
+| 708 | 85 | Nerdy Linebuilder |
 | 709 | 85 | Heather |
-| 710 | 85 | Nerdy Linebuilder |
+| 710 | 85 | Wacky Stack |
 | 711 | 85 | Tonya Marino |
-| 712 | 84 | Jolly Twisterfit |
-| 713 | 84 | Joshua Hopkins |
+| 712 | 84 | Coleen Yoder |
+| 713 | 84 | Jolly Twisterfit |
 | 714 | 84 | Hog Crankin |
 | 715 | 84 | Stoney McMillion |
-| 716 | 84 | Coleen Yoder |
-| 717 | 84 | Calah Amore |
-| 718 | 83 | Jazzy Snapfit |
-| 719 | 83 | Louis Brudzinski |
-| 720 | 83 | Morgan Olson Pingree |
-| 721 | 83 | Billy Pittman |
-| 722 | 83 | Becky Kennon |
-| 723 | 83 | Dawnypooh |
-| 724 | 83 | CATFISH |
-| 725 | 82 | Saucy Lifter |
-| 726 | 82 | Connie Marie Cornell Lerma |
-| 727 | 82 | Mikaela Byrd |
-| 728 | 82 | Nutty Fitzone |
-| 729 | 82 | Staci Walker |
-| 730 | 82 | Alimae |
-| 731 | 81 | Zesty Zoney |
+| 716 | 84 | Calah Amore |
+| 717 | 84 | Joshua Hopkins |
+| 718 | 83 | Billy Pittman |
+| 719 | 83 | Dawnypooh |
+| 720 | 83 | Becky Kennon |
+| 721 | 83 | CEK |
+| 722 | 83 | CATFISH |
+| 723 | 83 | Louis Brudzinski |
+| 724 | 83 | Morgan Olson Pingree |
+| 725 | 83 | Jazzy Snapfit |
+| 726 | 82 | Alimae |
+| 727 | 82 | Saucy Lifter |
+| 728 | 82 | Staci Walker |
+| 729 | 82 | Nutty Fitzone |
+| 730 | 82 | Mikaela Byrd |
+| 731 | 82 | Connie Marie Cornell Lerma |
 | 732 | 81 | Heather Hi |
-| 733 | 81 | Chris Delauro |
-| 734 | 81 | YldBoar |
-| 735 | 81 | Mee Maw |
-| 736 | 81 | Evelyn Olive Kalmbach |
-| 737 | 81 | Erin Lemanski |
-| 738 | 81 | Squared |
-| 739 | 81 | Robin Stutler |
-| 740 | 81 | Quina Jesse Fejaran |
-| 741 | 81 | Missy Savage-Justice |
-| 742 | 81 | Paula |
-| 743 | 80 | Chris Christ |
-| 744 | 80 | Patty Sparkman |
-| 745 | 80 | Jennifer Robinson |
-| 746 | 80 | Cody Gates |
-| 747 | 80 | Ramona Guillermo |
-| 748 | 80 | Mandeee |
+| 733 | 81 | Zesty Zoney |
+| 734 | 81 | Chris Delauro |
+| 735 | 81 | YldBoar |
+| 736 | 81 | Mee Maw |
+| 737 | 81 | Evelyn Olive Kalmbach |
+| 738 | 81 | Erin Lemanski |
+| 739 | 81 | Squared |
+| 740 | 81 | Robin Stutler |
+| 741 | 81 | Quina Jesse Fejaran |
+| 742 | 81 | Missy Savage-Justice |
+| 743 | 81 | Paula |
+| 744 | 80 | Chris Christ |
+| 745 | 80 | Patty Sparkman |
+| 746 | 80 | Jennifer Robinson |
+| 747 | 80 | Cody Gates |
+| 748 | 80 | Ramona Guillermo |
 | 749 | 80 | Tami Leontyuk |
-| 750 | 80 | CEK |
+| 750 | 80 | Mandeee |
 | 751 | 80 | Tonya Greger |
 | 752 | 80 | Charith Lorelle Watson |
 | 753 | 80 | Dayna Messer-Thelen |
 | 754 | 80 | Cory Lynn |
-| 755 | 80 | Christina Whitehead |
+| 755 | 80 | Nerdy Spinfit |
 | 756 | 80 | Michelle Anne |
-| 757 | 80 | Nerdy Spinfit |
+| 757 | 80 | Christina Whitehead |
 | 758 | 80 | Nicole Hogue |
 | 759 | 80 | PrissyPris |
 | 760 | 79 | Bruni |
