@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:06:18 UTC
+# Standings for team2 as of 2026-06-07 09:06:41 UTC
 
 **Total Participants:** 1687
 
@@ -81,17 +81,17 @@
 | 73 | 882 | Lisa Breiding |
 | 74 | 864 | Helen Thomas |
 | 75 | 861 | Marquita Toliver |
-| 76 | 853 | Mikki Torres |
-| 77 | 844 | Jayke Edward |
-| 78 | 832 | Amber Triguero |
-| 79 | 829 | Gabriella Humphreys |
-| 80 | 826 | Marquetta Johnson |
-| 81 | 819 | Beverly Lynn Mills |
-| 82 | 818 | Lily |
-| 83 | 802 | Charley Bedford |
-| 84 | 800 | Renee Freeman Jacobson |
-| 85 | 799 | Poppy |
-| 86 | 799 | Marie Luciano |
+| 76 | 859 | Marie Luciano |
+| 77 | 853 | Mikki Torres |
+| 78 | 844 | Jayke Edward |
+| 79 | 832 | Amber Triguero |
+| 80 | 829 | Gabriella Humphreys |
+| 81 | 826 | Marquetta Johnson |
+| 82 | 819 | Beverly Lynn Mills |
+| 83 | 818 | Lily |
+| 84 | 802 | Charley Bedford |
+| 85 | 800 | Renee Freeman Jacobson |
+| 86 | 799 | Poppy |
 | 87 | 799 | Elizabeth Sallas |
 | 88 | 774 | Deborah Boyce Minor |
 | 89 | 771 | Charlie Wilson |
