@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 09:41:19 UTC
+# Standings for team2 as of 2026-06-07 09:42:19 UTC
 
 **Total Participants:** 1691
 
@@ -15,8 +15,8 @@
 | 7 | 7687 | Lacey Nolting |
 | 8 | 7500 | Mocha |
 | 9 | 6241 | Christina Shell |
-| 10 | 6114 | Morgann McDaniel |
-| 11 | 6114 | Tim Ix |
+| 10 | 6114 | Tim Ix |
+| 11 | 6114 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
@@ -85,9 +85,9 @@
 | 77 | 864 | Helen Thomas |
 | 78 | 861 | Marquita Toliver |
 | 79 | 853 | Mikki Torres |
-| 80 | 844 | Jayke Edward |
-| 81 | 832 | Amber Triguero |
-| 82 | 831 | Marquetta Johnson |
+| 80 | 851 | Marquetta Johnson |
+| 81 | 844 | Jayke Edward |
+| 82 | 832 | Amber Triguero |
 | 83 | 829 | Gabriella Humphreys |
 | 84 | 819 | Beverly Lynn Mills |
 | 85 | 818 | Lily |
@@ -107,8 +107,8 @@
 | 99 | 656 | Loopy Cascadepiece |
 | 100 | 654 | Bon Lynn |
 | 101 | 639 | Alison Waller |
-| 102 | 632 | Allie Bug |
-| 103 | 632 | Wmk Rathbun |
+| 102 | 632 | Wmk Rathbun |
+| 103 | 632 | Allie Bug |
 | 104 | 629 | Mirr Lulu |
 | 105 | 627 | Le Sandy |
 | 106 | 620 | Amber-leigh Williams |
