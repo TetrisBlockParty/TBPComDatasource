@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:20:40 UTC
+# Standings for team2 as of 2026-06-07 01:21:18 UTC
 
 **Total Participants:** 1496
 
@@ -45,8 +45,8 @@
 | 37 | 1835 | Elizabeth Mooney |
 | 38 | 1803 | Julie Trede Amerson |
 | 39 | 1800 | Quirky Catcher |
-| 40 | 1678 | Betty Barrett |
-| 41 | 1659 | Tom Badgley |
+| 40 | 1679 | Tom Badgley |
+| 41 | 1678 | Betty Barrett |
 | 42 | 1577 | Heather Marie-Tarlton Britt |
 | 43 | 1519 | Rose Schaffner-Kibler |
 | 44 | 1510 | Shandrea Crawford |
@@ -1046,39 +1046,39 @@
 | 1038 | 29 | Chill Clearbuilder |
 | 1039 | 29 | Amanda Jungclaus |
 | 1040 | 28 | Pjrobinsonnn |
-| 1041 | 28 | Glitzy Stack |
-| 1042 | 28 | LK |
+| 1041 | 28 | LK |
+| 1042 | 28 | Glitzy Stack |
 | 1043 | 28 | Mark Havens |
 | 1044 | 28 | T-Rex Ricky Lee Dieumegarde Jr. |
 | 1045 | 28 | Stacey Peters |
 | 1046 | 28 | Busted9mm |
 | 1047 | 28 | Bennie Farbo |
 | 1048 | 28 | Dolly |
-| 1049 | 28 | Snippy Brickzone |
-| 1050 | 28 | Dana Vaiden Rivers |
-| 1051 | 28 | Jennifer Leigh |
-| 1052 | 28 | Chirpy Tower |
-| 1053 | 28 | Courtney Freeman |
-| 1054 | 27 | Brian Karr |
-| 1055 | 27 | Tanya Goodwin |
-| 1056 | 27 | True |
-| 1057 | 27 | Angie Barlow |
-| 1058 | 27 | BrendaLee NolanBos |
-| 1059 | 27 | CowboyChalie |
+| 1049 | 28 | Billie Jo Butler |
+| 1050 | 28 | Snippy Brickzone |
+| 1051 | 28 | Dana Vaiden Rivers |
+| 1052 | 28 | Jennifer Leigh |
+| 1053 | 28 | Chirpy Tower |
+| 1054 | 28 | Courtney Freeman |
+| 1055 | 27 | Brian Karr |
+| 1056 | 27 | Tanya Goodwin |
+| 1057 | 27 | True |
+| 1058 | 27 | Angie Barlow |
+| 1059 | 27 | BrendaLee NolanBos |
 | 1060 | 27 | ktabzz |
-| 1061 | 27 | Audrey Phillips |
-| 1062 | 27 | juhde |
-| 1063 | 27 | sampson |
-| 1064 | 27 | Dreamy Linkblock |
-| 1065 | 27 | Natasha Schatte |
-| 1066 | 27 | Alexis Abner |
-| 1067 | 27 | Stacey Ann Kelley |
-| 1068 | 27 | Kim |
-| 1069 | 27 | Staci Carl |
-| 1070 | 27 | Firebone |
-| 1071 | 26 | Goob277 |
-| 1072 | 26 | Cathy Clark |
-| 1073 | 26 | Billie Jo Butler |
+| 1061 | 27 | CowboyChalie |
+| 1062 | 27 | Audrey Phillips |
+| 1063 | 27 | juhde |
+| 1064 | 27 | sampson |
+| 1065 | 27 | Dreamy Linkblock |
+| 1066 | 27 | Natasha Schatte |
+| 1067 | 27 | Alexis Abner |
+| 1068 | 27 | Stacey Ann Kelley |
+| 1069 | 27 | Kim |
+| 1070 | 27 | Staci Carl |
+| 1071 | 27 | Firebone |
+| 1072 | 26 | Goob277 |
+| 1073 | 26 | Cathy Clark |
 | 1074 | 26 | Jackelyn Ford |
 | 1075 | 26 | Quirky Climber |
 | 1076 | 26 | Mandy Smart |
