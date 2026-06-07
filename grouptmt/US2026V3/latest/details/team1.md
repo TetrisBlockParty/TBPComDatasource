@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:44:17 UTC
+# Standings for team1 as of 2026-06-07 03:44:42 UTC
 
 **Total Participants:** 1325
 
@@ -21,7 +21,7 @@
 | 13 | 5000 | Tyeina Johnson |
 | 14 | 4882 | Jocelyn Pope-Sewell |
 | 15 | 4511 | Timothy Robert |
-| 16 | 3599 | Debbie Carswell |
+| 16 | 3649 | Debbie Carswell |
 | 17 | 3039 | Chummy Combo |
 | 18 | 3003 | Cassidy Butler |
 | 19 | 2863 | Sha Harris |
@@ -56,10 +56,10 @@
 | 48 | 1031 | Ashley Espeut |
 | 49 | 1024 | Chill Clusterer |
 | 50 | 984 | Holly Jolly |
-| 51 | 950 | Sanjuro |
-| 52 | 935 | Whitney Butler |
-| 53 | 911 | Kkbk |
-| 54 | 910 | Danielle DeLozier Plesec |
+| 51 | 970 | Danielle DeLozier Plesec |
+| 52 | 950 | Sanjuro |
+| 53 | 935 | Whitney Butler |
+| 54 | 911 | Kkbk |
 | 55 | 897 | BYM4L |
 | 56 | 896 | Robyn Caldwell |
 | 57 | 882 | Jon Gathers |
@@ -84,17 +84,17 @@
 | 76 | 710 | ing410 |
 | 77 | 695 | Corey Cawthon |
 | 78 | 689 | Jaida King |
-| 79 | 678 | No_Other_Choice |
-| 80 | 660 | Eartha Brown |
-| 81 | 628 | Chirpy Corner |
-| 82 | 620 | IamJust Neyamijah Washington Sr. |
-| 83 | 607 | Ebo Got-Time |
-| 84 | 601 | JaszyBadd |
-| 85 | 598 | Ivana Schmidt |
-| 86 | 597 | Big Tina |
-| 87 | 587 | KenpachisGirl |
-| 88 | 586 | Kellie Hall |
-| 89 | 585 | Jamie Willis |
+| 79 | 685 | Jamie Willis |
+| 80 | 678 | No_Other_Choice |
+| 81 | 660 | Eartha Brown |
+| 82 | 628 | Chirpy Corner |
+| 83 | 620 | IamJust Neyamijah Washington Sr. |
+| 84 | 607 | Ebo Got-Time |
+| 85 | 601 | JaszyBadd |
+| 86 | 598 | Ivana Schmidt |
+| 87 | 597 | Big Tina |
+| 88 | 587 | KenpachisGirl |
+| 89 | 586 | Kellie Hall |
 | 90 | 564 | Voice |
 | 91 | 552 | Carolynne Walker-Bell |
 | 92 | 550 | PandaPrincess |
@@ -219,48 +219,48 @@
 | 211 | 195 | Brittnay Wright |
 | 212 | 194 | Shameka Thrasher |
 | 213 | 194 | Daris Swearington |
-| 214 | 192 | Trina Greenwood |
-| 215 | 192 | Katherine Short |
-| 216 | 192 | Rayshawn Cohen |
-| 217 | 191 | Mikayla |
-| 218 | 191 | Kelli Couture |
-| 219 | 191 | Emily Wright |
-| 220 | 187 | Kenny MrOnethousand Peck |
-| 221 | 186 | Stephen Providenti |
+| 214 | 192 | Rayshawn Cohen |
+| 215 | 192 | Trina Greenwood |
+| 216 | 192 | Katherine Short |
+| 217 | 191 | Emily Wright |
+| 218 | 191 | Mikayla |
+| 219 | 191 | Kelli Couture |
+| 220 | 187 | Heather Aurelia |
+| 221 | 187 | Kenny MrOnethousand Peck |
 | 222 | 186 | Lesley Brunkus Cianfaglione |
-| 223 | 184 | Frisky Fall |
-| 224 | 184 | Dai Bo |
-| 225 | 183 | DaGuy |
-| 226 | 182 | Hyper Blocky |
-| 227 | 180 | Zippy Lifter |
-| 228 | 180 | Melissa D. M. Hornsby |
-| 229 | 179 | Dawn L Washington-Feuquay |
-| 230 | 179 | ♈️ Ariesbaby |
-| 231 | 179 | Amber Wilson |
-| 232 | 178 | Randizzle |
-| 233 | 176 | Nikki Hogan |
-| 234 | 176 | Jessica Russell |
-| 235 | 173 | Chipper Snapper |
-| 236 | 171 | Cheeky Pop |
-| 237 | 171 | Boldy Liner |
-| 238 | 171 | Rachel Zimmerman |
-| 239 | 169 | Jai |
-| 240 | 169 | Asha Langford |
-| 241 | 168 | Tina Mitchell |
-| 242 | 167 | Richard Flex |
-| 243 | 166 | LaShaun Stinson |
-| 244 | 166 | Tarnisha Neicy Jones |
-| 245 | 166 | 신재호 |
-| 246 | 165 | Queenie Perry |
-| 247 | 165 | Heather Aurelia |
+| 223 | 186 | Stephen Providenti |
+| 224 | 184 | Frisky Fall |
+| 225 | 184 | Dai Bo |
+| 226 | 183 | DaGuy |
+| 227 | 182 | Hyper Blocky |
+| 228 | 180 | Zippy Lifter |
+| 229 | 180 | Melissa D. M. Hornsby |
+| 230 | 179 | Dawn L Washington-Feuquay |
+| 231 | 179 | ♈️ Ariesbaby |
+| 232 | 179 | Amber Wilson |
+| 233 | 178 | Randizzle |
+| 234 | 176 | Nikki Hogan |
+| 235 | 176 | Jessica Russell |
+| 236 | 173 | Chipper Snapper |
+| 237 | 171 | Cheeky Pop |
+| 238 | 171 | Boldy Liner |
+| 239 | 171 | Rachel Zimmerman |
+| 240 | 169 | Jai |
+| 241 | 169 | Asha Langford |
+| 242 | 168 | Tina Mitchell |
+| 243 | 167 | Richard Flex |
+| 244 | 166 | LaShaun Stinson |
+| 245 | 166 | Tarnisha Neicy Jones |
+| 246 | 166 | 신재호 |
+| 247 | 165 | Queenie Perry |
 | 248 | 163 | Mafio SO |
 | 249 | 162 | JaClanDiah |
 | 250 | 160 | Carolyn Smith |
 | 251 | 160 | Spicy Risepiece |
 | 252 | 160 | Lively Riserpiece |
 | 253 | 160 | Sara Meri |
-| 254 | 159 | TBABYJ |
-| 255 | 159 | Fina McKinnis |
+| 254 | 159 | Fina McKinnis |
+| 255 | 159 | TBABYJ |
 | 256 | 159 | Brand Nu |
 | 257 | 158 | Kimberly Linares Hernandez |
 | 258 | 157 | Courtney Cicoria |
