@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:16:19 UTC
+# Standings for team4 as of 2026-06-07 07:16:39 UTC
 
 **Total Participants:** 1403
 
@@ -813,31 +813,31 @@
 | 805 | 45 | idk240 |
 | 806 | 45 | LaShieka Noland |
 | 807 | 45 | Becky Bernazal |
-| 808 | 45 | Kim Miller |
-| 809 | 45 | Jt Home |
-| 810 | 45 | BurnedCrab52 |
-| 811 | 45 | LandO |
-| 812 | 45 | Manolo Canety |
-| 813 | 45 | EmBem |
-| 814 | 45 | Stephanie Meinhart |
-| 815 | 45 | Jennifer Terrill |
-| 816 | 44 | SweetChaos |
-| 817 | 44 | Rhonda Dowling |
-| 818 | 44 | Cauntay Youngking Williams |
-| 819 | 44 | Kimmie Warren |
-| 820 | 44 | Pap337 |
-| 821 | 44 | Jazzy Rollout |
-| 822 | 44 | Tiffany Morris Garner |
-| 823 | 44 | Kelly Miller Williams |
-| 824 | 44 | EJ Frazier |
-| 825 | 44 | Freddy-B |
-| 826 | 44 | Dizzy |
-| 827 | 44 | Maricela Joslin |
-| 828 | 44 | jojo |
-| 829 | 44 | Kassey M. Clark |
-| 830 | 44 | Jenny Torres |
-| 831 | 44 | Tracy Marino |
-| 832 | 43 | Gwendolyn Langwinski |
+| 808 | 45 | Gwendolyn Langwinski |
+| 809 | 45 | Kim Miller |
+| 810 | 45 | Jt Home |
+| 811 | 45 | BurnedCrab52 |
+| 812 | 45 | LandO |
+| 813 | 45 | Manolo Canety |
+| 814 | 45 | EmBem |
+| 815 | 45 | Stephanie Meinhart |
+| 816 | 45 | Jennifer Terrill |
+| 817 | 44 | SweetChaos |
+| 818 | 44 | Rhonda Dowling |
+| 819 | 44 | Cauntay Youngking Williams |
+| 820 | 44 | Kimmie Warren |
+| 821 | 44 | Pap337 |
+| 822 | 44 | Jazzy Rollout |
+| 823 | 44 | Tiffany Morris Garner |
+| 824 | 44 | Kelly Miller Williams |
+| 825 | 44 | EJ Frazier |
+| 826 | 44 | Freddy-B |
+| 827 | 44 | Dizzy |
+| 828 | 44 | Maricela Joslin |
+| 829 | 44 | jojo |
+| 830 | 44 | Kassey M. Clark |
+| 831 | 44 | Jenny Torres |
+| 832 | 44 | Tracy Marino |
 | 833 | 43 | Purple Queen |
 | 834 | 43 | JoJo Hutson |
 | 835 | 43 | Shelly Jackson |
