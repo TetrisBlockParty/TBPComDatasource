@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:06:41 UTC
+# Standings for team4 as of 2026-06-07 11:07:17 UTC
 
 **Total Participants:** 1446
 
@@ -22,7 +22,7 @@
 | 14 | 4261 | Chris Hills |
 | 15 | 4246 | t |
 | 16 | 4139 | Bryony Nicholson |
-| 17 | 3953 | Bubbly Twistpiece |
+| 17 | 3958 | Bubbly Twistpiece |
 | 18 | 3917 | TitiLo72 |
 | 19 | 3784 | Tyra Brooke Everman Forest |
 | 20 | 3776 | Dana Smith |
@@ -39,13 +39,13 @@
 | 31 | 1944 | Juan Ford |
 | 32 | 1922 | Dana Rinaldi |
 | 33 | 1908 | Michele Walker |
-| 34 | 1867 | Leigh Pierce |
-| 35 | 1783 | Loony Rotater |
-| 36 | 1732 | Witty Clicky |
-| 37 | 1674 | Jeanette Hailey |
-| 38 | 1622 | kcknbtz |
-| 39 | 1609 | Erin Figone |
-| 40 | 1589 | Ning Quiambao |
+| 34 | 1889 | Ning Quiambao |
+| 35 | 1867 | Leigh Pierce |
+| 36 | 1783 | Loony Rotater |
+| 37 | 1732 | Witty Clicky |
+| 38 | 1674 | Jeanette Hailey |
+| 39 | 1622 | kcknbtz |
+| 40 | 1609 | Erin Figone |
 | 41 | 1570 | Dheeh Robles |
 | 42 | 1569 | Annastaissia Todd |
 | 43 | 1400 | Michele |
@@ -170,8 +170,8 @@
 | 162 | 292 | Katie Martin |
 | 163 | 291 | shawna |
 | 164 | 289 | Chiquita Blue |
-| 165 | 288 | LastBoi |
-| 166 | 288 | Danielle Mitchell |
+| 165 | 288 | Danielle Mitchell |
+| 166 | 288 | LastBoi |
 | 167 | 288 | Maria Castillo |
 | 168 | 286 | matt |
 | 169 | 286 | Perky Riserbuilder |
@@ -192,13 +192,13 @@
 | 184 | 261 | Waxboss |
 | 185 | 260 | Shmeedo |
 | 186 | 259 | Jessica Peyton |
-| 187 | 253 | Tammy June |
-| 188 | 253 | Shepreneur Sade |
+| 187 | 253 | Shepreneur Sade |
+| 188 | 253 | Tammy June |
 | 189 | 247 | Joseph Anthony Watkins |
 | 190 | 246 | Lucy Honer |
 | 191 | 242 | Danny Ortiz |
-| 192 | 241 | Tawna Curry |
-| 193 | 241 | Lush Fitblock |
+| 192 | 241 | Lush Fitblock |
+| 193 | 241 | Tawna Curry |
 | 194 | 241 | Alma López Morales |
 | 195 | 237 | Anna Gribble |
 | 196 | 236 | Becky McCool |
@@ -215,13 +215,13 @@
 | 207 | 223 | Queen B |
 | 208 | 222 | Plucky Shatterfit |
 | 209 | 221 | Pepone Pepe |
-| 210 | 220 | CIRAZYPNOY |
-| 211 | 220 | Silly Risegrid |
-| 212 | 220 | blockhead |
+| 210 | 220 | blockhead |
+| 211 | 220 | CIRAZYPNOY |
+| 212 | 220 | Silly Risegrid |
 | 213 | 218 | Lori Stembridge |
 | 214 | 215 | Jj Johnson |
-| 215 | 211 | Renee Sapp |
-| 216 | 211 | Goofy Riser |
+| 215 | 211 | Goofy Riser |
+| 216 | 211 | Renee Sapp |
 | 217 | 210 | Stephanie Myers |
 | 218 | 207 | Aramat |
 | 219 | 205 | Kristen Wallace |
@@ -236,12 +236,12 @@
 | 228 | 195 | Sean Mccleary |
 | 229 | 194 | Lisa lisa |
 | 230 | 194 | Jenn Norcross |
-| 231 | 193 | Piece of Cake |
-| 232 | 193 | Tiffany Bunker-Hill |
+| 231 | 193 | Tiffany Bunker-Hill |
+| 232 | 193 | Piece of Cake |
 | 233 | 190 | Baysoph |
 | 234 | 188 | Lee Ann Gibby |
-| 235 | 187 | Tipsy Builderline |
-| 236 | 187 | Leslie Ann Carter |
+| 235 | 187 | Leslie Ann Carter |
+| 236 | 187 | Tipsy Builderline |
 | 237 | 186 | Kimyatta Cavin |
 | 238 | 186 | Snippy Splitter |
 | 239 | 185 | PerfectPieces |
@@ -249,8 +249,8 @@
 | 241 | 185 | Dae Von |
 | 242 | 183 | Brandy Lynn |
 | 243 | 183 | Tara Delay Hill |
-| 244 | 182 | Jeremy |
-| 245 | 182 | Homie |
+| 244 | 182 | Homie |
+| 245 | 182 | Jeremy |
 | 246 | 181 | EL Booger |
 | 247 | 181 | Alyson M Kehler |
 | 248 | 181 | Spicy Chicken |
@@ -260,8 +260,8 @@
 | 252 | 178 | Tamara Triplet |
 | 253 | 178 | Jacqueline Jackii Ramos |
 | 254 | 177 | Mark Norton |
-| 255 | 177 | Damon Gaston |
-| 256 | 177 | Chirpy Link |
+| 255 | 177 | Chirpy Link |
+| 256 | 177 | Damon Gaston |
 | 257 | 176 | Nicole Dombrow |
 | 258 | 175 | Jackie Miller |
 | 259 | 174 | Clashy |

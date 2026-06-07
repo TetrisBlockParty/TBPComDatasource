@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:06:41 UTC
+# Standings for team2 as of 2026-06-07 11:07:17 UTC
 
 **Total Participants:** 1703
 
@@ -682,56 +682,56 @@
 | 674 | 73 | Perky Linebuilder |
 | 675 | 73 | BugMansMom |
 | 676 | 72 | Stacy Lynn |
-| 677 | 72 | Kendi |
-| 678 | 72 | Mary Whitaker |
-| 679 | 72 | Audrey Bickford |
-| 680 | 72 | Amber Simonton |
-| 681 | 72 | Lu Wallace |
-| 682 | 71 | John C Morrison |
-| 683 | 71 | Yari |
+| 677 | 72 | Amber Simonton |
+| 678 | 72 | Lu Wallace |
+| 679 | 72 | Mary Whitaker |
+| 680 | 72 | Audrey Bickford |
+| 681 | 72 | Kendi |
+| 682 | 71 | Yari |
+| 683 | 71 | Kiersty Redder |
 | 684 | 71 | Sandy Lynn |
-| 685 | 71 | Kiersty Redder |
+| 685 | 71 | John C Morrison |
 | 686 | 71 | Nicole Good |
-| 687 | 70 | Brenda Zona |
-| 688 | 70 | Michelle Fry-Cash |
-| 689 | 70 | Momi Kamohai |
-| 690 | 70 | Twisty Matchfit |
-| 691 | 70 | Jennifer Lewellyn Hutchins |
-| 692 | 70 | Christi Hooper |
-| 693 | 70 | Ava Taber |
-| 694 | 70 | Helen Townsend |
-| 695 | 70 | Doug Small |
-| 696 | 70 | Andrea Spinelli |
-| 697 | 70 | Amy D Coble |
-| 698 | 70 | Teea Makensi Meyer |
-| 699 | 70 | Jennifer Covington |
-| 700 | 70 | Ques Pryor |
-| 701 | 70 | Carrie Hayes Lankford |
-| 702 | 70 | Christina Reid |
-| 703 | 70 | Patti Ward |
-| 704 | 70 | Tiffany Ann |
-| 705 | 69 | Denna Marteney |
-| 706 | 69 | Cynthia Dawn Reitz Hanson |
-| 707 | 69 | Michelle Powers Chattaway |
-| 708 | 69 | Chipper Towerzone |
-| 709 | 69 | John Perkins |
-| 710 | 69 | Loretta Crow |
-| 711 | 69 | Lydia Shonee |
+| 687 | 70 | Helen Townsend |
+| 688 | 70 | Jennifer Lewellyn Hutchins |
+| 689 | 70 | Christi Hooper |
+| 690 | 70 | Ava Taber |
+| 691 | 70 | Twisty Matchfit |
+| 692 | 70 | Momi Kamohai |
+| 693 | 70 | Michelle Fry-Cash |
+| 694 | 70 | Brenda Zona |
+| 695 | 70 | True |
+| 696 | 70 | Christina Reid |
+| 697 | 70 | Patti Ward |
+| 698 | 70 | Tiffany Ann |
+| 699 | 70 | Amy D Coble |
+| 700 | 70 | Carrie Hayes Lankford |
+| 701 | 70 | Ques Pryor |
+| 702 | 70 | Jennifer Covington |
+| 703 | 70 | Teea Makensi Meyer |
+| 704 | 70 | Andrea Spinelli |
+| 705 | 70 | Doug Small |
+| 706 | 69 | Michelle Powers Chattaway |
+| 707 | 69 | John Perkins |
+| 708 | 69 | Denna Marteney |
+| 709 | 69 | Cynthia Dawn Reitz Hanson |
+| 710 | 69 | Chipper Towerzone |
+| 711 | 69 | Loretta Crow |
 | 712 | 69 | REE4 |
-| 713 | 69 | Cranky Brickzone |
-| 714 | 69 | Momof2wigglebutts |
-| 715 | 69 | Chelsea Frye |
-| 716 | 69 | Nutty Fitzone |
-| 717 | 69 | DragonJB2020 |
-| 718 | 68 | Fancy Stacker |
-| 719 | 68 | Kristi Chestnut |
-| 720 | 68 | Kim Powers |
-| 721 | 68 | Kaitlyn Hurst |
-| 722 | 68 | Sara BlueEyes |
-| 723 | 67 | Heather |
-| 724 | 67 | Saucy Lifter |
-| 725 | 67 | Zaniya Brown |
-| 726 | 67 | True |
+| 713 | 69 | Lydia Shonee |
+| 714 | 69 | Cranky Brickzone |
+| 715 | 69 | Momof2wigglebutts |
+| 716 | 69 | Chelsea Frye |
+| 717 | 69 | Nutty Fitzone |
+| 718 | 69 | DragonJB2020 |
+| 719 | 68 | Fancy Stacker |
+| 720 | 68 | Kristi Chestnut |
+| 721 | 68 | Kim Powers |
+| 722 | 68 | Kaitlyn Hurst |
+| 723 | 68 | Sara BlueEyes |
+| 724 | 67 | Heather |
+| 725 | 67 | Saucy Lifter |
+| 726 | 67 | Zaniya Brown |
 | 727 | 67 | Miguel360 |
 | 728 | 67 | Sunny Tiltbuilder |
 | 729 | 67 | David Skelton |
