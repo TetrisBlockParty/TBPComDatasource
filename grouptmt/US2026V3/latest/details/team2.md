@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:08:19 UTC
+# Standings for team2 as of 2026-06-07 08:08:42 UTC
 
 **Total Participants:** 1678
 
@@ -20,13 +20,13 @@
 | 12 | 5704 | Cori Keberlein |
 | 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
-| 15 | 4355 | Alexia Reagan |
-| 16 | 3997 | Ber |
-| 17 | 3984 | Amber |
-| 18 | 3950 | Erica Dees Parks |
-| 19 | 3830 | Jewels |
-| 20 | 3812 | Crystal M Sowden |
-| 21 | 3718 | Lola C Davis |
+| 15 | 4457 | Lola C Davis |
+| 16 | 4355 | Alexia Reagan |
+| 17 | 3997 | Ber |
+| 18 | 3984 | Amber |
+| 19 | 3950 | Erica Dees Parks |
+| 20 | 3830 | Jewels |
+| 21 | 3812 | Crystal M Sowden |
 | 22 | 3702 | Renee Weedling |
 | 23 | 3514 | Traci Elizabeth |
 | 24 | 3181 | Bobbi |

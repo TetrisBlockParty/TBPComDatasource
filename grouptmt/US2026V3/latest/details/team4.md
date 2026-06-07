@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 08:08:19 UTC
+# Standings for team4 as of 2026-06-07 08:08:42 UTC
 
 **Total Participants:** 1416
 
@@ -51,7 +51,7 @@
 | 43 | 1380 | Jennifer Edgell Richardson |
 | 44 | 1360 | Cal Renee |
 | 45 | 1357 | 626 |
-| 46 | 1267 | Victoria Ver |
+| 46 | 1297 | Victoria Ver |
 | 47 | 1249 | Charlie Lewis |
 | 48 | 1200 | Caitlin Johnson |
 | 49 | 1089 | Bryan DjMagnum Evans |
