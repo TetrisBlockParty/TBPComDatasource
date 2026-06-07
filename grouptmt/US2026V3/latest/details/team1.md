@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 00:12:41 UTC
+# Standings for team1 as of 2026-06-07 00:13:18 UTC
 
 **Total Participants:** 1230
 
@@ -41,11 +41,11 @@
 | 33 | 1414 | COSA303 |
 | 34 | 1350 | Cool Bridger |
 | 35 | 1246 | Chris Russell |
-| 36 | 1242 | Jacoby E Fleming |
-| 37 | 1233 | Cherry Rose |
-| 38 | 1195 | Tekedra Wilson |
-| 39 | 1160 | Daylene Johannes |
-| 40 | 1146 | Jo NewmindNewfocus Bell |
+| 36 | 1246 | Jo NewmindNewfocus Bell |
+| 37 | 1242 | Jacoby E Fleming |
+| 38 | 1233 | Cherry Rose |
+| 39 | 1195 | Tekedra Wilson |
+| 40 | 1160 | Daylene Johannes |
 | 41 | 1086 | Ryan Meilleur |
 | 42 | 1080 | Mary Jenkins |
 | 43 | 1037 | Shortstak |
@@ -70,18 +70,18 @@
 | 62 | 764 | Joy Citizen Pickney |
 | 63 | 749 | Aviv Zehavi |
 | 64 | 723 | Lisa Müller |
-| 65 | 689 | Jaida King |
-| 66 | 685 | Blockhead |
+| 65 | 693 | Blockhead |
+| 66 | 689 | Jaida King |
 | 67 | 678 | No_Other_Choice |
 | 68 | 675 | Corey Cawthon |
 | 69 | 670 | Kimberly Hernandez |
 | 70 | 650 | ing410 |
 | 71 | 648 | Eartha Brown |
 | 72 | 605 | JoJo |
-| 73 | 598 | Ivana Schmidt |
-| 74 | 587 | KenpachisGirl |
-| 75 | 586 | Kellie Hall |
-| 76 | 581 | JaszyBadd |
+| 73 | 601 | JaszyBadd |
+| 74 | 598 | Ivana Schmidt |
+| 75 | 587 | KenpachisGirl |
+| 76 | 586 | Kellie Hall |
 | 77 | 552 | Carolynne Walker-Bell |
 | 78 | 548 | Ottison Dianna |
 | 79 | 541 | Andi McGreevy |
@@ -143,9 +143,9 @@
 | 135 | 290 | Roberta Lynn |
 | 136 | 290 | Kaleisha Smith |
 | 137 | 285 | Ashley MyBeauty Daniels |
-| 138 | 278 | Shontanese Adams |
-| 139 | 277 | Tonya Lee Sanders |
-| 140 | 277 | Tamara N Lee |
+| 138 | 282 | Tamara N Lee |
+| 139 | 278 | Shontanese Adams |
+| 140 | 277 | Tonya Lee Sanders |
 | 141 | 275 | Chris Sladoje |
 | 142 | 275 | Jawaun Daniels |
 | 143 | 273 | MamaBear |
@@ -1048,81 +1048,81 @@
 | 1040 | 15 | Kizzy Clark |
 | 1041 | 15 | Stacy Nicole |
 | 1042 | 15 | Chummy Clearfit |
-| 1043 | 15 | Happy Towerfall |
-| 1044 | 15 | Hasty Match |
-| 1045 | 15 | Laura Long |
-| 1046 | 15 | b |
-| 1047 | 15 | Haley Bell |
-| 1048 | 15 | Tami Spence |
-| 1049 | 15 | Princess Nevaeh |
-| 1050 | 15 | Bri Lou |
-| 1051 | 15 | Breezy Bouncer |
-| 1052 | 15 | Elaine Youmans |
-| 1053 | 15 | Shamara Thurston |
-| 1054 | 15 | Tara Clarke |
-| 1055 | 15 | Wacky Towerer |
-| 1056 | 15 | Cheery Clusterbuilder |
-| 1057 | 15 | Robyn Ellis |
-| 1058 | 15 | Christian Whittaker |
-| 1059 | 15 | Lit757 |
-| 1060 | 15 | Nicole Freeman |
-| 1061 | 15 | Spunky Strikerbuilder |
-| 1062 | 14 | Dymond |
-| 1063 | 14 | Nerdy Curvetile |
-| 1064 | 14 | MoneyMac |
-| 1065 | 14 | Zany Pivot |
-| 1066 | 14 | Sylvia Holst |
-| 1067 | 14 | Sherry D Singleton |
-| 1068 | 14 | Karen Knapp |
-| 1069 | 14 | Brittany Cole |
-| 1070 | 14 | Kenny 'Tailormade' Boyd |
-| 1071 | 14 | Fancy Mover |
-| 1072 | 14 | Jennifer Levan |
-| 1073 | 14 | Jasmine Hariston-Estis |
-| 1074 | 14 | Jerrone Epps |
-| 1075 | 14 | Jazzy |
-| 1076 | 13 | Emma Adams |
-| 1077 | 13 | Hoppy Rumbler |
-| 1078 | 13 | Leah Ingram |
+| 1043 | 15 | Haley Bell |
+| 1044 | 15 | Princess Nevaeh |
+| 1045 | 15 | Christian Whittaker |
+| 1046 | 15 | Tara Clarke |
+| 1047 | 15 | Breezy Bouncer |
+| 1048 | 15 | Laura Long |
+| 1049 | 15 | Hasty Match |
+| 1050 | 15 | Nicole Freeman |
+| 1051 | 15 | Tami Spence |
+| 1052 | 15 | Bri Lou |
+| 1053 | 15 | Happy Towerfall |
+| 1054 | 15 | Elaine Youmans |
+| 1055 | 15 | Shamara Thurston |
+| 1056 | 15 | Spunky Strikerbuilder |
+| 1057 | 15 | Wacky Towerer |
+| 1058 | 15 | Robyn Ellis |
+| 1059 | 15 | b |
+| 1060 | 15 | Cheery Clusterbuilder |
+| 1061 | 15 | Lit757 |
+| 1062 | 14 | Jerrone Epps |
+| 1063 | 14 | Dymond |
+| 1064 | 14 | Sherry D Singleton |
+| 1065 | 14 | Amihan |
+| 1066 | 14 | Nerdy Curvetile |
+| 1067 | 14 | Karen Knapp |
+| 1068 | 14 | MoneyMac |
+| 1069 | 14 | Zany Pivot |
+| 1070 | 14 | Jazzy |
+| 1071 | 14 | Sylvia Holst |
+| 1072 | 14 | Brittany Cole |
+| 1073 | 14 | Kenny 'Tailormade' Boyd |
+| 1074 | 14 | Fancy Mover |
+| 1075 | 14 | Jennifer Levan |
+| 1076 | 14 | Jasmine Hariston-Estis |
+| 1077 | 13 | Emma Adams |
+| 1078 | 13 | Hoppy Rumbler |
 | 1079 | 13 | Chinkey Overit |
-| 1080 | 13 | Krystal Maynard |
+| 1080 | 13 | Leah Ingram |
 | 1081 | 13 | PuddenPop |
-| 1082 | 12 | Michael Jones |
+| 1082 | 13 | Krystal Maynard |
 | 1083 | 12 | Mike Hromowyk |
-| 1084 | 12 | Silly Spinblock |
-| 1085 | 12 | Kevin Witdaflute |
-| 1086 | 12 | Cameo Tweed |
-| 1087 | 12 | Willson06 |
-| 1088 | 12 | Sarah Jones |
-| 1089 | 12 | BigDawg Lessley |
-| 1090 | 12 | Mamiyoung47 |
-| 1091 | 12 | toye69 |
-| 1092 | 12 | Outspoken Sirchristopher |
-| 1093 | 12 | Joseph Ware Jr. |
-| 1094 | 12 | Lillie Blossom Dixon |
+| 1084 | 12 | Michael Jones |
+| 1085 | 12 | Silly Spinblock |
+| 1086 | 12 | Kevin Witdaflute |
+| 1087 | 12 | Cameo Tweed |
+| 1088 | 12 | Willson06 |
+| 1089 | 12 | Sarah Jones |
+| 1090 | 12 | toye69 |
+| 1091 | 12 | BigDawg Lessley |
+| 1092 | 12 | Mamiyoung47 |
+| 1093 | 12 | Outspoken Sirchristopher |
+| 1094 | 12 | Joseph Ware Jr. |
 | 1095 | 12 | Dora Greer |
-| 1096 | 12 | Nicole Coko Thomas |
-| 1097 | 12 | BigMike |
-| 1098 | 11 | Ray Baker |
-| 1099 | 11 | Amihan |
+| 1096 | 12 | Lillie Blossom Dixon |
+| 1097 | 12 | Nicole Coko Thomas |
+| 1098 | 12 | BigMike |
+| 1099 | 11 | Ray Baker |
 | 1100 | 11 | Alanna Breitenbach |
 | 1101 | 11 | pizzapie |
 | 1102 | 11 | Nerdy Twistline |
 | 1103 | 11 | Groovy Climber |
-| 1104 | 11 | Evelyn Epps |
-| 1105 | 11 | Felicia Woods |
+| 1104 | 11 | Felicia Woods |
+| 1105 | 11 | Evelyn Epps |
 | 1106 | 11 | Frilly Shatterline |
 | 1107 | 11 | Fred Caston |
 | 1108 | 11 | Jayson |
 | 1109 | 10 | Alisha Dawson Crouch |
 | 1110 | 10 | Yvonne Aggers |
-| 1111 | 10 | Wacky Riserpiece |
-| 1112 | 10 | Papi |
+| 1111 | 10 | Papi |
+| 1112 | 10 | Wacky Riserpiece |
 | 1113 | 10 | Ladii Libra |
 | 1114 | 10 | Saucy Linkgrid |
-| 1115 | 10 | Steve Renelus |
-| 1116 | 10 | Tea |
-| 1117 | 10 | Boricua64 |
+| 1115 | 10 | Boricua64 |
+| 1116 | 10 | Steve Renelus |
+| 1117 | 10 | Tea |
 | 1118 | 10 | Kim Smith |
 | 1119 | 10 | Damien Fonseca |
 | 1120 | 10 | Quirky Slammer |

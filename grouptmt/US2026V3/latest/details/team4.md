@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 00:12:41 UTC
+# Standings for team4 as of 2026-06-07 00:13:18 UTC
 
 **Total Participants:** 1217
 
@@ -37,8 +37,8 @@
 | 29 | 1324 | Loony Rotater |
 | 30 | 1249 | Charlie Lewis |
 | 31 | 1200 | Caitlin Johnson |
-| 32 | 1188 | Squirrel Donkey |
-| 33 | 1185 | Leigh Pierce |
+| 32 | 1195 | Leigh Pierce |
+| 33 | 1188 | Squirrel Donkey |
 | 34 | 1089 | Ning Quiambao |
 | 35 | 1067 | Bubbly Twistpiece |
 | 36 | 1055 | Michele Walker |
@@ -1008,100 +1008,100 @@
 | 1000 | 19 | David Kirschner |
 | 1001 | 19 | Ashie |
 | 1002 | 19 | Kariana Gonzalez Ortiz |
-| 1003 | 19 | Maicy Darrah |
-| 1004 | 18 | Angel Boges |
+| 1003 | 19 | Catherine Garza |
+| 1004 | 19 | Maicy Darrah |
 | 1005 | 18 | Frothy Pivotfall |
-| 1006 | 18 | FUNBAT |
-| 1007 | 18 | Stacia Marie |
-| 1008 | 18 | Sadeha Simpson |
-| 1009 | 18 | Lorrie Ann Burchett |
-| 1010 | 18 | Poppy Glider |
-| 1011 | 18 | chuck |
-| 1012 | 18 | Jamie Legeness |
-| 1013 | 18 | Becca Milliron |
-| 1014 | 18 | Frilly Riserpiece |
-| 1015 | 18 | Playboy916 |
-| 1016 | 18 | Janna Thompson |
-| 1017 | 18 | Michelle Clark |
-| 1018 | 18 | Gingerale<3 |
-| 1019 | 18 | Christopher Farias |
-| 1020 | 18 | Dewy |
-| 1021 | 18 | Caiti O'Keefe |
-| 1022 | 18 | Emily Lowe |
-| 1023 | 18 | Amina Walker |
-| 1024 | 17 | Glitzy Crasher |
-| 1025 | 17 | Terry Jo Myers |
-| 1026 | 17 | Oc Tive |
-| 1027 | 17 | Crystal Morrin |
-| 1028 | 17 | Wali Muhammad |
-| 1029 | 17 | Gma420 |
-| 1030 | 17 | Shane Snyder |
-| 1031 | 17 | Cecilia Hicks |
-| 1032 | 17 | Kristie ML SneekaPuff |
-| 1033 | 16 | Sandra Stark |
-| 1034 | 16 | Merritt Brandt |
-| 1035 | 16 | EKM |
-| 1036 | 16 | Mighty Spinfit |
-| 1037 | 16 | Sara Cobb |
-| 1038 | 16 | Pauline Cortez |
-| 1039 | 16 | Christy Petty |
-| 1040 | 16 | Ashley McGeehan |
-| 1041 | 16 | LuLazer27 |
-| 1042 | 16 | Frisky Pusher |
-| 1043 | 16 | Dee Modest |
-| 1044 | 16 | Melissa Robinson |
-| 1045 | 16 | Grace Mariie |
-| 1046 | 16 | Katy Roman |
-| 1047 | 16 | Catherine Garza |
-| 1048 | 16 | Valerie Morrison |
-| 1049 | 16 | Mr.Corbin |
-| 1050 | 16 | Dana Smith |
-| 1051 | 16 | Layne Davis |
-| 1052 | 15 | katy |
-| 1053 | 15 | Diana Acosta |
-| 1054 | 15 | Mumsy |
-| 1055 | 15 | Chris Abney |
+| 1006 | 18 | Angel Boges |
+| 1007 | 18 | FUNBAT |
+| 1008 | 18 | Stacia Marie |
+| 1009 | 18 | Sadeha Simpson |
+| 1010 | 18 | Lorrie Ann Burchett |
+| 1011 | 18 | Poppy Glider |
+| 1012 | 18 | chuck |
+| 1013 | 18 | Jamie Legeness |
+| 1014 | 18 | Becca Milliron |
+| 1015 | 18 | Frilly Riserpiece |
+| 1016 | 18 | Playboy916 |
+| 1017 | 18 | Janna Thompson |
+| 1018 | 18 | Michelle Clark |
+| 1019 | 18 | Gingerale<3 |
+| 1020 | 18 | Christopher Farias |
+| 1021 | 18 | Dewy |
+| 1022 | 18 | Caiti O'Keefe |
+| 1023 | 18 | Emily Lowe |
+| 1024 | 18 | Amina Walker |
+| 1025 | 17 | Glitzy Crasher |
+| 1026 | 17 | Terry Jo Myers |
+| 1027 | 17 | Oc Tive |
+| 1028 | 17 | Crystal Morrin |
+| 1029 | 17 | Wali Muhammad |
+| 1030 | 17 | Gma420 |
+| 1031 | 17 | Shane Snyder |
+| 1032 | 17 | Cecilia Hicks |
+| 1033 | 17 | Kristie ML SneekaPuff |
+| 1034 | 16 | Grace Mariie |
+| 1035 | 16 | Sandra Stark |
+| 1036 | 16 | Katy Roman |
+| 1037 | 16 | Dee Modest |
+| 1038 | 16 | Frisky Pusher |
+| 1039 | 16 | EKM |
+| 1040 | 16 | Merritt Brandt |
+| 1041 | 16 | Melissa Robinson |
+| 1042 | 16 | Mr.Corbin |
+| 1043 | 16 | Valerie Morrison |
+| 1044 | 16 | Pauline Cortez |
+| 1045 | 16 | Sara Cobb |
+| 1046 | 16 | Mighty Spinfit |
+| 1047 | 16 | Christy Petty |
+| 1048 | 16 | Ashley McGeehan |
+| 1049 | 16 | LuLazer27 |
+| 1050 | 16 | Layne Davis |
+| 1051 | 16 | Dana Smith |
+| 1052 | 15 | Mumsy |
+| 1053 | 15 | Tana-Marie Lynn McCarty-Rolf |
+| 1054 | 15 | Diana Acosta |
+| 1055 | 15 | katy |
 | 1056 | 15 | Ryan Luperena |
-| 1057 | 15 | Wacky Clusterer |
-| 1058 | 15 | Hasty Grabber |
-| 1059 | 15 | Speedy Rollbuilder |
-| 1060 | 15 | Chilly Glidezone |
-| 1061 | 15 | Derrek Lee |
+| 1057 | 15 | Chris Abney |
+| 1058 | 15 | Speedy Rollbuilder |
+| 1059 | 15 | Mandi Rexroat |
+| 1060 | 15 | Manolo Canety |
+| 1061 | 15 | Hasty Grabber |
 | 1062 | 15 | Tricki Woo |
-| 1063 | 15 | Nicole Gilmore |
+| 1063 | 15 | Angela Correa |
 | 1064 | 15 | John Wertz |
-| 1065 | 15 | babygirlw |
-| 1066 | 15 | Austin Tan |
-| 1067 | 15 | Cas Gio |
-| 1068 | 15 | Kiara Johnson |
-| 1069 | 15 | Tana-Marie Lynn McCarty-Rolf |
-| 1070 | 15 | Tha Don |
-| 1071 | 15 | Mandi Rexroat |
-| 1072 | 15 | Manolo Canety |
-| 1073 | 15 | Angela Correa |
-| 1074 | 15 | Audacious |
-| 1075 | 15 | DuvaDova Ahava |
+| 1065 | 15 | DuvaDova Ahava |
+| 1066 | 15 | Tha Don |
+| 1067 | 15 | Audacious |
+| 1068 | 15 | Wacky Clusterer |
+| 1069 | 15 | Kiara Johnson |
+| 1070 | 15 | Chilly Glidezone |
+| 1071 | 15 | Derrek Lee |
+| 1072 | 15 | Cas Gio |
+| 1073 | 15 | Nicole Gilmore |
+| 1074 | 15 | Austin Tan |
+| 1075 | 15 | babygirlw |
 | 1076 | 14 | Gellix |
-| 1077 | 14 | Marina |
-| 1078 | 14 | Toria |
-| 1079 | 14 | mrsduke420 |
-| 1080 | 14 | Erica Hardwick |
-| 1081 | 14 | G Money |
-| 1082 | 14 | Kiaralis Ashley Hancock |
-| 1083 | 14 | JoJo Hutson |
-| 1084 | 14 | Donovan Parmenter Gagne |
+| 1077 | 14 | Donovan Parmenter Gagne |
+| 1078 | 14 | Kiaralis Ashley Hancock |
+| 1079 | 14 | Erica Hardwick |
+| 1080 | 14 | Toria |
+| 1081 | 14 | Marina |
+| 1082 | 14 | JoJo Hutson |
+| 1083 | 14 | G Money |
+| 1084 | 14 | mrsduke420 |
 | 1085 | 13 | Jackie Russo-Edens |
-| 1086 | 13 | Willedtra Griffin |
-| 1087 | 13 | Margarita Santana |
-| 1088 | 12 | McScrubby |
-| 1089 | 12 | Bouncy Clusterline |
-| 1090 | 12 | Vanessa Sykes |
-| 1091 | 12 | Carolyn Lalak |
-| 1092 | 12 | Swanky Brickzone |
+| 1086 | 13 | Margarita Santana |
+| 1087 | 13 | Willedtra Griffin |
+| 1088 | 12 | Vanessa Sykes |
+| 1089 | 12 | Elizabeth Ann Caro |
+| 1090 | 12 | Carolyn Lalak |
+| 1091 | 12 | Rooney |
+| 1092 | 12 | McScrubby |
 | 1093 | 12 | Tatiyana Hockett |
-| 1094 | 12 | Rooney |
-| 1095 | 12 | Dan Butcher |
-| 1096 | 12 | Elizabeth Ann Caro |
+| 1094 | 12 | Dan Butcher |
+| 1095 | 12 | Swanky Brickzone |
+| 1096 | 12 | Bouncy Clusterline |
 | 1097 | 12 | ESPERANTU |
 | 1098 | 12 | Mee |
 | 1099 | 12 | Rebecca Renaud |
