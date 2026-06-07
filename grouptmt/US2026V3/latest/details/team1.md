@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:46:40 UTC
+# Standings for team1 as of 2026-06-07 03:47:18 UTC
 
 **Total Participants:** 1325
 
@@ -708,110 +708,110 @@
 | 700 | 48 | Eli Delao |
 | 701 | 48 | Kàrma Lee |
 | 702 | 48 | Duncan Timothy |
-| 703 | 48 | Rhianna Dinki Austin |
-| 704 | 48 | Rieshelda Marie White |
-| 705 | 48 | Juicy |
-| 706 | 48 | Bubbly Crawler |
-| 707 | 48 | Wild Out Nai |
-| 708 | 48 | LoveLee |
-| 709 | 47 | Kevin Turner |
-| 710 | 47 | Octavia Bsb Johnson |
+| 703 | 48 | Rieshelda Marie White |
+| 704 | 48 | Juicy |
+| 705 | 48 | Bubbly Crawler |
+| 706 | 48 | Rhianna Dinki Austin |
+| 707 | 48 | LoveLee |
+| 708 | 48 | Wild Out Nai |
+| 709 | 47 | Jodie |
+| 710 | 47 | Kevin Turner |
 | 711 | 47 | Denise Cunningham-English |
-| 712 | 47 | Tushama Cheris Okraku |
-| 713 | 47 | Jojo M |
-| 714 | 47 | Jodie |
+| 712 | 47 | Octavia Bsb Johnson |
+| 713 | 47 | Tushama Cheris Okraku |
+| 714 | 47 | Jojo M |
 | 715 | 47 | Mami Badd |
 | 716 | 47 | Tyrone Porter |
 | 717 | 47 | RylonJones |
 | 718 | 47 | Jessie N Michael Silvers |
-| 719 | 46 | Ja'mice Nelson |
-| 720 | 46 | Kimberly Red |
-| 721 | 46 | David A Alvino |
-| 722 | 46 | Lucille Wilson Davis |
-| 723 | 46 | Jenni |
-| 724 | 46 | Rosalind Chatman |
-| 725 | 46 | whatever |
-| 726 | 46 | Felicia Dungey |
-| 727 | 46 | NewEve |
-| 728 | 46 | Elizabeth Green |
-| 729 | 46 | TrapQween39Bi |
-| 730 | 45 | Cali Lee |
-| 731 | 45 | Crtjstr |
-| 732 | 45 | Brave Balanceblock |
-| 733 | 45 | Skye |
-| 734 | 45 | Cheery Linkfall |
-| 735 | 45 | Heather Cross-Davis |
-| 736 | 45 | GetDaOPPS |
-| 737 | 45 | Y3llOWFAC3 |
-| 738 | 45 | Matraca Young |
-| 739 | 45 | Renee J. Thomas |
-| 740 | 45 | Shawna Passwater |
-| 741 | 45 | Sunny Tumbler |
-| 742 | 45 | Jason Saputo |
-| 743 | 45 | Lawreniesha Burkley |
-| 744 | 45 | Marc Papa |
-| 745 | 44 | Kim Holzmiller |
-| 746 | 44 | JoZanna Washington |
-| 747 | 44 | GiantBehemoth |
-| 748 | 44 | Shakmar |
-| 749 | 44 | Teresa Menefee |
-| 750 | 44 | Renee Marshall |
-| 751 | 44 | Connor Leon Cluff |
-| 752 | 44 | LaSharon Jackson |
-| 753 | 44 | Nic Nic |
-| 754 | 44 | BonnieB |
-| 755 | 44 | EvaLynn NeCole |
-| 756 | 43 | Snippy Breaker |
-| 757 | 43 | Vivian Bunnell Myers |
-| 758 | 43 | Corbin Henry |
-| 759 | 43 | Amihan |
-| 760 | 43 | Louise Parker |
-| 761 | 43 | Block |
+| 719 | 46 | David A Alvino |
+| 720 | 46 | Lucille Wilson Davis |
+| 721 | 46 | Jhonny Maii |
+| 722 | 46 | Ja'mice Nelson |
+| 723 | 46 | Kimberly Red |
+| 724 | 46 | Jenni |
+| 725 | 46 | Rosalind Chatman |
+| 726 | 46 | whatever |
+| 727 | 46 | TrapQween39Bi |
+| 728 | 46 | Felicia Dungey |
+| 729 | 46 | NewEve |
+| 730 | 46 | Elizabeth Green |
+| 731 | 45 | Matraca Young |
+| 732 | 45 | Heather Cross-Davis |
+| 733 | 45 | Y3llOWFAC3 |
+| 734 | 45 | GetDaOPPS |
+| 735 | 45 | Jason Saputo |
+| 736 | 45 | Skye |
+| 737 | 45 | Renee J. Thomas |
+| 738 | 45 | Marc Papa |
+| 739 | 45 | Shawna Passwater |
+| 740 | 45 | Sunny Tumbler |
+| 741 | 45 | Cali Lee |
+| 742 | 45 | Lawreniesha Burkley |
+| 743 | 45 | Brave Balanceblock |
+| 744 | 45 | Crtjstr |
+| 745 | 45 | Cheery Linkfall |
+| 746 | 44 | Connor Leon Cluff |
+| 747 | 44 | Kim Holzmiller |
+| 748 | 44 | GiantBehemoth |
+| 749 | 44 | JoZanna Washington |
+| 750 | 44 | Shakmar |
+| 751 | 44 | BonnieB |
+| 752 | 44 | Teresa Menefee |
+| 753 | 44 | EvaLynn NeCole |
+| 754 | 44 | LaSharon Jackson |
+| 755 | 44 | Nic Nic |
+| 756 | 44 | Renee Marshall |
+| 757 | 43 | Snippy Breaker |
+| 758 | 43 | Christy Quick |
+| 759 | 43 | Corbin Henry |
+| 760 | 43 | Block |
+| 761 | 43 | Amihan |
 | 762 | 43 | Taylor Jordan Hollis |
-| 763 | 43 | Christy Quick |
-| 764 | 43 | Embracing Hair |
-| 765 | 43 | Giggy Brickfit |
-| 766 | 42 | TeeMaster Barber IsLyfe |
-| 767 | 42 | DaemahnFriday |
-| 768 | 42 | Sally Elizabeth Hopson |
-| 769 | 42 | Dennis Ripley |
-| 770 | 42 | Rikki Moran |
-| 771 | 42 | Louise |
+| 763 | 43 | Vivian Bunnell Myers |
+| 764 | 43 | Giggy Brickfit |
+| 765 | 43 | Embracing Hair |
+| 766 | 43 | Louise Parker |
+| 767 | 42 | Rikki Moran |
+| 768 | 42 | Dennis Ripley |
+| 769 | 42 | Louise |
+| 770 | 42 | Sally Elizabeth Hopson |
+| 771 | 42 | DaemahnFriday |
 | 772 | 42 | Wacky Spinfit |
 | 773 | 42 | Hasty Glidezone |
 | 774 | 42 | Brii Michelle Lamb |
 | 775 | 42 | Sunny Riserbuilder |
-| 776 | 42 | Shanna Green Williams |
-| 777 | 42 | Tammy Scott Mallen |
-| 778 | 42 | Peppy Wipeblock |
-| 779 | 42 | Emeka Agu |
-| 780 | 41 | Frothy Zoney |
-| 781 | 41 | Nekka |
-| 782 | 41 | NataAllDay |
-| 783 | 41 | Cranky Fall |
+| 776 | 42 | Peppy Wipeblock |
+| 777 | 42 | Emeka Agu |
+| 778 | 42 | Tammy Scott Mallen |
+| 779 | 42 | TeeMaster Barber IsLyfe |
+| 780 | 42 | Shanna Green Williams |
+| 781 | 41 | Delitra Perkins Hatter |
+| 782 | 41 | Cranky Fall |
+| 783 | 41 | JLynn Mind Ur's Blackwell |
 | 784 | 41 | Danielle Marie Lewis |
-| 785 | 41 | Delitra Perkins Hatter |
-| 786 | 41 | Jhonny Maii |
-| 787 | 41 | JLynn Mind Ur's Blackwell |
+| 785 | 41 | Nekka |
+| 786 | 41 | NataAllDay |
+| 787 | 41 | Frothy Zoney |
 | 788 | 40 | Billz143 |
 | 789 | 40 | Mikemike Zonethree |
-| 790 | 40 | Jasmine Bates |
-| 791 | 40 | Keith Big-Sixx Mackell |
-| 792 | 40 | Dannie |
-| 793 | 40 | PattyPower |
-| 794 | 40 | Jennifer Endean |
-| 795 | 40 | WReckitraff |
-| 796 | 40 | Brian Marsico |
-| 797 | 40 | KimChii |
-| 798 | 40 | RealOne95 |
-| 799 | 40 | Ashanti Eden |
-| 800 | 40 | Melissa Hershberger |
-| 801 | 40 | Frankey Chi |
-| 802 | 40 | Katrina Trein Bein Dickerson |
-| 803 | 40 | Chummy Blockpiece |
-| 804 | 40 | Brittany Britkany Marsden-Garrison |
-| 805 | 40 | Teri Marie Clayton |
-| 806 | 40 | nay |
+| 790 | 40 | Brian Marsico |
+| 791 | 40 | Jasmine Bates |
+| 792 | 40 | Jennifer Endean |
+| 793 | 40 | Dannie |
+| 794 | 40 | Keith Big-Sixx Mackell |
+| 795 | 40 | KimChii |
+| 796 | 40 | RealOne95 |
+| 797 | 40 | Frankey Chi |
+| 798 | 40 | Katrina Trein Bein Dickerson |
+| 799 | 40 | WReckitraff |
+| 800 | 40 | PattyPower |
+| 801 | 40 | Brittany Britkany Marsden-Garrison |
+| 802 | 40 | Teri Marie Clayton |
+| 803 | 40 | nay |
+| 804 | 40 | Chummy Blockpiece |
+| 805 | 40 | Melissa Hershberger |
+| 806 | 40 | Ashanti Eden |
 | 807 | 40 | Antoinette Kidd |
 | 808 | 40 | Tessa Gaskin |
 | 809 | 40 | SherylU |
