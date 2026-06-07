@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 19:32:19 UTC
+# Standings for team1 as of 2026-06-07 19:32:41 UTC
 
 **Total Participants:** 1554
 
@@ -75,7 +75,7 @@
 | 67 | 953 | Kkbk |
 | 68 | 945 | Bre Maugh |
 | 69 | 935 | Whitney Butler |
-| 70 | 907 | Kimberly Hernandez |
+| 70 | 908 | Kimberly Hernandez |
 | 71 | 902 | Uneekly Mayde |
 | 72 | 897 | BYM4L |
 | 73 | 896 | Tiana Moore |
@@ -461,35 +461,35 @@
 | 453 | 122 | Donna Payne |
 | 454 | 122 | Xana Zania Bopp |
 | 455 | 122 | Yashica Smith |
-| 456 | 121 | Ta'Kaiyah M. Spann |
-| 457 | 121 | Tiana Monique |
-| 458 | 121 | BonnieB |
+| 456 | 121 | Tiana Monique |
+| 457 | 121 | BonnieB |
+| 458 | 121 | Ta'Kaiyah M. Spann |
 | 459 | 121 | Nora Mahmoud |
-| 460 | 120 | Leavon Smith |
-| 461 | 120 | Giggy Edgefit |
-| 462 | 120 | Twisty Brickfit |
-| 463 | 120 | Teri Marie Clayton |
+| 460 | 120 | Giggy Edgefit |
+| 461 | 120 | Leavon Smith |
+| 462 | 120 | Teri Marie Clayton |
+| 463 | 120 | Twisty Brickfit |
 | 464 | 119 | Lexx Robins |
-| 465 | 118 | Kimberly Susan Privette |
+| 465 | 118 | Amanda Woodruff |
 | 466 | 118 | Hasty Pivoty |
-| 467 | 118 | Rhianna Dinki Austin |
-| 468 | 118 | Amanda Woodruff |
-| 469 | 117 | Mahagony Small |
-| 470 | 117 | Joana Thompson |
-| 471 | 117 | MonaSparks |
-| 472 | 117 | Jimmy Shannon |
-| 473 | 116 | Yadira Salgado |
-| 474 | 116 | Jess |
-| 475 | 115 | Zany Breaker |
+| 467 | 118 | Kimberly Susan Privette |
+| 468 | 118 | Rhianna Dinki Austin |
+| 469 | 117 | Jimmy Shannon |
+| 470 | 117 | MonaSparks |
+| 471 | 117 | Joana Thompson |
+| 472 | 117 | Mahagony Small |
+| 473 | 116 | Kimberly Anderson |
+| 474 | 116 | Yadira Salgado |
+| 475 | 116 | Jess |
 | 476 | 115 | BabyCakes |
 | 477 | 115 | wmedina67 |
-| 478 | 114 | Cranky Fall |
-| 479 | 114 | LAhoneybun82 |
-| 480 | 114 | Jes Marie |
-| 481 | 114 | Faith Armone |
-| 482 | 113 | Jenni Hardman |
-| 483 | 113 | Shakuria Cortia Burney |
-| 484 | 113 | Kimberly Anderson |
+| 478 | 115 | Zany Breaker |
+| 479 | 114 | Cranky Fall |
+| 480 | 114 | LAhoneybun82 |
+| 481 | 114 | Jes Marie |
+| 482 | 114 | Faith Armone |
+| 483 | 113 | Jenni Hardman |
+| 484 | 113 | Shakuria Cortia Burney |
 | 485 | 112 | DirtiestofMikes |
 | 486 | 112 | Jennah |
 | 487 | 112 | GamerQueenDS |
@@ -608,8 +608,8 @@
 | 600 | 90 | Essence Jones |
 | 601 | 90 | messyboots |
 | 602 | 90 | Rissa Rozay |
-| 603 | 89 | Tracy Feyler |
-| 604 | 89 | Marc Papa |
+| 603 | 89 | Marc Papa |
+| 604 | 89 | Tracy Feyler |
 | 605 | 89 | Daring Riserfit |
 | 606 | 89 | Jazzy Bridger |
 | 607 | 89 | Naee Bee |
@@ -622,59 +622,59 @@
 | 614 | 87 | OhNoZer0 |
 | 615 | 87 | Natalie Burroughs |
 | 616 | 86 | Tweet Turner |
-| 617 | 86 | Kimmie Gargano |
-| 618 | 86 | Cm |
-| 619 | 86 | Kendra McIntyre |
-| 620 | 86 | Giggly Tiltbuilder |
-| 621 | 86 | krd |
-| 622 | 86 | Messy Live |
-| 623 | 86 | Marie Wilson |
-| 624 | 86 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 625 | 86 | RylonJones |
-| 626 | 86 | MrsDontPlay |
-| 627 | 86 | Giddy Staggerpiece |
-| 628 | 86 | Angelique Talbot |
-| 629 | 86 | Melissa Olvera |
-| 630 | 85 | Eric Machuca |
-| 631 | 85 | Bobby Chestefield |
-| 632 | 85 | De'Mear McKinney |
+| 617 | 86 | Montego Allen |
+| 618 | 86 | Kimmie Gargano |
+| 619 | 86 | Cm |
+| 620 | 86 | Kendra McIntyre |
+| 621 | 86 | Giggly Tiltbuilder |
+| 622 | 86 | krd |
+| 623 | 86 | Messy Live |
+| 624 | 86 | Marie Wilson |
+| 625 | 86 | Giddy Staggerpiece |
+| 626 | 86 | Angelique Talbot |
+| 627 | 86 | RylonJones |
+| 628 | 86 | MrsDontPlay |
+| 629 | 86 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 630 | 86 | Melissa Olvera |
+| 631 | 85 | Desi Guerra |
+| 632 | 85 | Sonia Binti Mfalme |
 | 633 | 85 | TotoCherue |
-| 634 | 85 | Barbramerri Tarboro |
-| 635 | 85 | Sonia Binti Mfalme |
-| 636 | 85 | Sarah Swietlicki - Lopez |
-| 637 | 85 | rb |
-| 638 | 85 | Desi Guerra |
-| 639 | 84 | Saucy Faller |
-| 640 | 84 | Angela Brown Babin |
-| 641 | 84 | Montego Allen |
-| 642 | 84 | Just2Play$ |
-| 643 | 84 | Dawn Basemore |
-| 644 | 84 | Jack Mehof |
-| 645 | 84 | Franklin Sotelo |
-| 646 | 83 | MrsMeadows2019 |
-| 647 | 83 | John C Sexton |
-| 648 | 83 | Chris Nelson |
-| 649 | 83 | Antoinette Kelly |
-| 650 | 83 | Sandra Mims |
+| 634 | 85 | De'Mear McKinney |
+| 635 | 85 | Bobby Chestefield |
+| 636 | 85 | Barbramerri Tarboro |
+| 637 | 85 | Eric Machuca |
+| 638 | 85 | Sarah Swietlicki - Lopez |
+| 639 | 85 | rb |
+| 640 | 84 | Just2Play$ |
+| 641 | 84 | Dawn Basemore |
+| 642 | 84 | Jack Mehof |
+| 643 | 84 | Saucy Faller |
+| 644 | 84 | Franklin Sotelo |
+| 645 | 84 | Angela Brown Babin |
+| 646 | 83 | Chris Nelson |
+| 647 | 83 | MrsMeadows2019 |
+| 648 | 83 | Antoinette Kelly |
+| 649 | 83 | Sandra Mims |
+| 650 | 83 | John C Sexton |
 | 651 | 82 | Dana Hawes |
-| 652 | 82 | Kala Miller |
-| 653 | 82 | Duncan Timothy |
-| 654 | 82 | Johnathan Deese |
-| 655 | 81 | Pj Rojas |
-| 656 | 81 | TRUBBLE45 |
+| 652 | 82 | Johnathan Deese |
+| 653 | 82 | Kala Miller |
+| 654 | 82 | Duncan Timothy |
+| 655 | 81 | Sara |
+| 656 | 81 | Kizzy Clark |
 | 657 | 81 | Samona Mcculler |
-| 658 | 81 | Kizzy Clark |
-| 659 | 81 | Angela L Charles |
-| 660 | 81 | Sara |
-| 661 | 80 | Charles Johnson |
-| 662 | 80 | Gerold Folk Haddock |
+| 658 | 81 | Pj Rojas |
+| 659 | 81 | TRUBBLE45 |
+| 660 | 81 | Angela L Charles |
+| 661 | 80 | Lisa420 |
+| 662 | 80 | Latore Maxie |
 | 663 | 80 | Chevalier Burley |
-| 664 | 80 | Big Bovice |
-| 665 | 80 | Lisa420 |
-| 666 | 80 | Victoria Smith |
-| 667 | 80 | NedaWin |
-| 668 | 80 | Amaadi Ward |
-| 669 | 80 | Latore Maxie |
+| 664 | 80 | Charles Johnson |
+| 665 | 80 | Victoria Smith |
+| 666 | 80 | Amaadi Ward |
+| 667 | 80 | Big Bovice |
+| 668 | 80 | Gerold Folk Haddock |
+| 669 | 80 | NedaWin |
 | 670 | 80 | Lady Scorpio |
 | 671 | 80 | Kimberly Noble |
 | 672 | 80 | Keith Big-Sixx Mackell |

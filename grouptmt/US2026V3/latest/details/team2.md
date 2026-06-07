@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:32:19 UTC
+# Standings for team2 as of 2026-06-07 19:32:41 UTC
 
 **Total Participants:** 1869
 
@@ -43,7 +43,7 @@
 | 35 | 3076 | Ashley Miller |
 | 36 | 2863 | Angelica Jelli Gillaspy |
 | 37 | 2790 | Logan Basham |
-| 38 | 2715 | Angie BBlock |
+| 38 | 2718 | Angie BBlock |
 | 39 | 2708 | Julie Trede Amerson |
 | 40 | 2707 | Bea Bee |
 | 41 | 2640 | Sean Rippa |
@@ -66,7 +66,7 @@
 | 58 | 1551 | Monica Galli |
 | 59 | 1547 | Happy Pivotfall |
 | 60 | 1534 | Lily |
-| 61 | 1517 | Debra Henry |
+| 61 | 1532 | Debra Henry |
 | 62 | 1510 | Shandrea Crawford |
 | 63 | 1500 | Smashanator |
 | 64 | 1464 | Angel Welch |
@@ -734,13 +734,13 @@
 | 726 | 86 | Frisky Twist |
 | 727 | 86 | shell |
 | 728 | 86 | Brandy McCleary |
-| 729 | 86 | Lazy Staggerpiece |
-| 730 | 86 | Talyn Domingues |
-| 731 | 85 | Nerdy Linebuilder |
-| 732 | 85 | Ginger Nesbitt |
-| 733 | 85 | Frisky Linkbuilder |
-| 734 | 85 | James Moore |
-| 735 | 85 | John Perkins |
+| 729 | 86 | John Perkins |
+| 730 | 86 | Lazy Staggerpiece |
+| 731 | 86 | Talyn Domingues |
+| 732 | 85 | Nerdy Linebuilder |
+| 733 | 85 | Ginger Nesbitt |
+| 734 | 85 | Frisky Linkbuilder |
+| 735 | 85 | James Moore |
 | 736 | 85 | Heather |
 | 737 | 85 | Daisy Girl |
 | 738 | 85 | Val |
