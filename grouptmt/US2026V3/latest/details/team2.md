@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 13:14:19 UTC
+# Standings for team2 as of 2026-06-07 13:14:43 UTC
 
 **Total Participants:** 1741
 
@@ -1270,119 +1270,119 @@
 | 1262 | 29 | Brandy Westfall-panchari |
 | 1263 | 29 | Travis Bundrum |
 | 1264 | 29 | Kylee Pruitt |
-| 1265 | 29 | Erin Marie Smith |
-| 1266 | 29 | Staci Carl |
-| 1267 | 28 | Snippy Brickzone |
-| 1268 | 28 | Dana Vaiden Rivers |
+| 1265 | 29 | Staci Carl |
+| 1266 | 29 | Erin Marie Smith |
+| 1267 | 28 | Stacey Peters |
+| 1268 | 28 | Glitzy Stack |
 | 1269 | 28 | Bonez |
-| 1270 | 28 | Stacey Peters |
-| 1271 | 28 | LK |
-| 1272 | 28 | Chirpy Tower |
-| 1273 | 28 | Mark Havens |
-| 1274 | 28 | Courtney Freeman |
-| 1275 | 28 | Glitzy Stack |
-| 1276 | 28 | AmyShea |
+| 1270 | 28 | LK |
+| 1271 | 28 | Snippy Brickzone |
+| 1272 | 28 | AmyShea |
+| 1273 | 28 | Courtney Freeman |
+| 1274 | 28 | Dana Vaiden Rivers |
+| 1275 | 28 | Chirpy Tower |
+| 1276 | 28 | Mark Havens |
 | 1277 | 28 | Wood |
 | 1278 | 27 | Bold Bridgepiece |
 | 1279 | 27 | Zippy Wobbler |
-| 1280 | 27 | Kim |
-| 1281 | 27 | Natasha Schatte |
-| 1282 | 27 | Angie Barlow |
+| 1280 | 27 | Darla |
+| 1281 | 27 | Beth |
+| 1282 | 27 | sampson |
 | 1283 | 27 | CowboyChalie |
-| 1284 | 27 | Darla |
-| 1285 | 27 | sampson |
-| 1286 | 27 | Dreamy Linkblock |
-| 1287 | 27 | Beth |
-| 1288 | 27 | Brian Karr |
-| 1289 | 27 | Stacey Ann Kelley |
-| 1290 | 27 | Tam |
-| 1291 | 27 | juhde |
-| 1292 | 26 | Goob277 |
-| 1293 | 26 | Daniel Cline |
-| 1294 | 26 | Cathy Clark |
+| 1284 | 27 | Angie Barlow |
+| 1285 | 27 | Natasha Schatte |
+| 1286 | 27 | Brian Karr |
+| 1287 | 27 | juhde |
+| 1288 | 27 | Tam |
+| 1289 | 27 | Kim |
+| 1290 | 27 | Stacey Ann Kelley |
+| 1291 | 27 | Jenifer Gasho |
+| 1292 | 27 | Dreamy Linkblock |
+| 1293 | 26 | Goob277 |
+| 1294 | 26 | Daniel Cline |
 | 1295 | 26 | Just Me |
-| 1296 | 26 | Danibellee |
-| 1297 | 26 | Yany |
-| 1298 | 26 | Quirky Climber |
+| 1296 | 26 | Quirky Climber |
+| 1297 | 26 | Cathy Clark |
+| 1298 | 26 | Danibellee |
 | 1299 | 26 | David Starmer |
-| 1300 | 26 | Peppy Piececlear |
-| 1301 | 26 | Paula Martin |
-| 1302 | 26 | nova |
-| 1303 | 26 | Countrybling77 |
-| 1304 | 26 | Darlene Russell |
-| 1305 | 26 | Donna R. Banks |
-| 1306 | 25 | Cindy Smith |
-| 1307 | 25 | Fran Gerebics |
+| 1300 | 26 | nova |
+| 1301 | 26 | Yany |
+| 1302 | 26 | Darlene Russell |
+| 1303 | 26 | Peppy Piececlear |
+| 1304 | 26 | Paula Martin |
+| 1305 | 26 | Countrybling77 |
+| 1306 | 26 | Donna R. Banks |
+| 1307 | 25 | Cindy Smith |
 | 1308 | 25 | Paula Stell |
-| 1309 | 25 | Wildcat1220 |
-| 1310 | 25 | Maureen Bryan Adams |
-| 1311 | 25 | Michelle Edgin Tranbarger |
-| 1312 | 25 | Shalice Jacobs |
-| 1313 | 25 | Quirky Piecegrid |
-| 1314 | 25 | B.A. Watt |
-| 1315 | 25 | Wendy Michelle Wise-Ledford |
-| 1316 | 25 | John Rosales |
-| 1317 | 25 | Dapper Spinbuilder |
-| 1318 | 25 | Poppy Zonepiece |
-| 1319 | 25 | Crafty Slice |
-| 1320 | 25 | Rochelle O'Loughlin |
-| 1321 | 24 | Ashley Corbett |
-| 1322 | 24 | Kathryn Mason |
-| 1323 | 24 | Jess |
-| 1324 | 24 | Danielle Etchison Mask |
-| 1325 | 24 | Elodie Deveyer |
-| 1326 | 24 | Lavenda Nettles |
-| 1327 | 24 | Cheryl Graves Downard |
-| 1328 | 24 | Paula Smith |
-| 1329 | 24 | Lively Shatter |
+| 1309 | 25 | Wendy Michelle Wise-Ledford |
+| 1310 | 25 | Wildcat1220 |
+| 1311 | 25 | Maureen Bryan Adams |
+| 1312 | 25 | Fran Gerebics |
+| 1313 | 25 | Shalice Jacobs |
+| 1314 | 25 | Quirky Piecegrid |
+| 1315 | 25 | B.A. Watt |
+| 1316 | 25 | Michelle Edgin Tranbarger |
+| 1317 | 25 | Rochelle O'Loughlin |
+| 1318 | 25 | John Rosales |
+| 1319 | 25 | Dapper Spinbuilder |
+| 1320 | 25 | Poppy Zonepiece |
+| 1321 | 25 | Crafty Slice |
+| 1322 | 24 | Paula Smith |
+| 1323 | 24 | Cheryl Graves Downard |
+| 1324 | 24 | Ashley Corbett |
+| 1325 | 24 | Lavenda Nettles |
+| 1326 | 24 | Elodie Deveyer |
+| 1327 | 24 | Kathryn Mason |
+| 1328 | 24 | Danielle Etchison Mask |
+| 1329 | 24 | Jess |
 | 1330 | 24 | Kacey Lindemuth |
-| 1331 | 24 | Nicole |
-| 1332 | 24 | Erica |
-| 1333 | 24 | April Wright |
-| 1334 | 24 | Angelique Matzke Starns |
-| 1335 | 24 | Tiffany Heether |
-| 1336 | 24 | Rachel Nunn |
-| 1337 | 24 | Snippy Tilefall |
-| 1338 | 24 | Lori Whitman |
-| 1339 | 23 | MjLovebug13 |
-| 1340 | 23 | Jenifer Gasho |
-| 1341 | 23 | Spicy Basepiece |
-| 1342 | 23 | Deb Rose-Bridinger |
-| 1343 | 23 | Rich Gorondy |
-| 1344 | 23 | Giggly Glider |
-| 1345 | 23 | Zaaear Pack |
-| 1346 | 23 | Mike Honcho |
-| 1347 | 23 | Stephanie Fitzgerald |
-| 1348 | 23 | Haley |
-| 1349 | 23 | Jolene Moelder |
-| 1350 | 23 | Angela Oates-Killebrew |
-| 1351 | 23 | Sarah Phelps Beyer |
-| 1352 | 23 | Hyper Striker |
-| 1353 | 23 | Shirley Bates |
+| 1331 | 24 | Angelique Matzke Starns |
+| 1332 | 24 | Lori Whitman |
+| 1333 | 24 | Rachel Nunn |
+| 1334 | 24 | Nicole |
+| 1335 | 24 | Snippy Tilefall |
+| 1336 | 24 | Erica |
+| 1337 | 24 | April Wright |
+| 1338 | 24 | Tiffany Heether |
+| 1339 | 24 | Lively Shatter |
+| 1340 | 23 | Giggly Glider |
+| 1341 | 23 | Rich Gorondy |
+| 1342 | 23 | Haley |
+| 1343 | 23 | Sarah Phelps Beyer |
+| 1344 | 23 | Spicy Basepiece |
+| 1345 | 23 | Deb Rose-Bridinger |
+| 1346 | 23 | Hyper Striker |
+| 1347 | 23 | Shirley Bates |
+| 1348 | 23 | Jolene Moelder |
+| 1349 | 23 | Zaaear Pack |
+| 1350 | 23 | no name |
+| 1351 | 23 | MjLovebug13 |
+| 1352 | 23 | Angela Oates-Killebrew |
+| 1353 | 23 | Mike Honcho |
 | 1354 | 23 | Amanda Raley |
-| 1355 | 23 | no name |
-| 1356 | 22 | Rob Phillips |
-| 1357 | 22 | Jay King |
-| 1358 | 22 | Rachel Wooldridge |
-| 1359 | 22 | SueEllen Hawkins |
-| 1360 | 22 | Swanky Snapzone |
+| 1355 | 23 | Stephanie Fitzgerald |
+| 1356 | 22 | Jay King |
+| 1357 | 22 | Rachel Wooldridge |
+| 1358 | 22 | SueEllen Hawkins |
+| 1359 | 22 | Marii |
+| 1360 | 22 | Jenny |
 | 1361 | 22 | MoonLilly |
-| 1362 | 22 | Jenny |
+| 1362 | 22 | Swanky Snapzone |
 | 1363 | 22 | Ashley Diana |
-| 1364 | 22 | Marii |
-| 1365 | 22 | RNKERI |
+| 1364 | 22 | Binska |
+| 1365 | 22 | Josimarie Otero |
 | 1366 | 22 | Melanesia Springs |
-| 1367 | 22 | Binska |
-| 1368 | 22 | Josimarie Otero |
+| 1367 | 22 | Rob Phillips |
+| 1368 | 22 | RNKERI |
 | 1369 | 22 | Melinda Rausch |
 | 1370 | 21 | twistyzone |
 | 1371 | 21 | Rachel Burkett |
 | 1372 | 21 | Erica Abreu |
-| 1373 | 21 | Mandy |
-| 1374 | 21 | Johnathon Mendiola |
-| 1375 | 21 | Chill Shatterclear |
-| 1376 | 21 | Cammy Riley |
-| 1377 | 21 | Joe Dirilo |
+| 1373 | 21 | Joe Dirilo |
+| 1374 | 21 | Chill Shatterclear |
+| 1375 | 21 | Mandy |
+| 1376 | 21 | Johnathon Mendiola |
+| 1377 | 21 | Cammy Riley |
 | 1378 | 21 | Instak1ll |
 | 1379 | 21 | GiGi Cool |
 | 1380 | 21 | Sandra Mathes Reece |
