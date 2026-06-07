@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 07:46:20 UTC
+# Standings for team4 as of 2026-06-07 07:46:41 UTC
 
 **Total Participants:** 1413
 
@@ -512,36 +512,36 @@
 | 504 | 83 | Ricardo Arias |
 | 505 | 83 | Sonia Cordero-Martinez |
 | 506 | 83 | Brandon Bedenbaugh |
-| 507 | 83 | Peter Babineaux Jr |
-| 508 | 83 | MrLoner Stoner |
+| 507 | 83 | MrLoner Stoner |
+| 508 | 83 | Peter Babineaux Jr |
 | 509 | 83 | Snippy Racker |
-| 510 | 82 | Joshua Hunt |
+| 510 | 82 | Lisa Pie |
 | 511 | 82 | Amanda Snow |
 | 512 | 82 | Clever Patterner |
-| 513 | 82 | Lisa Pie |
-| 514 | 82 | Cari Underwood |
-| 515 | 82 | Charity Thomas |
+| 513 | 82 | Cari Underwood |
+| 514 | 82 | Charity Thomas |
+| 515 | 82 | Joshua Hunt |
 | 516 | 81 | Marisela Alvarado |
-| 517 | 81 | PsyDMom |
-| 518 | 81 | Nicole Colby McCloskey |
-| 519 | 81 | Giggy Snapgrid |
-| 520 | 81 | Denise Wilson |
-| 521 | 81 | GingaNinja |
+| 517 | 81 | GingaNinja |
+| 518 | 81 | Denise Wilson |
+| 519 | 81 | PsyDMom |
+| 520 | 81 | Giggy Snapgrid |
+| 521 | 81 | Nicole Colby McCloskey |
 | 522 | 81 | Tiffany Roberts |
 | 523 | 80 | Alicia |
-| 524 | 80 | EpicWizard |
-| 525 | 80 | Alice Eisnor-Martens |
-| 526 | 80 | Happy Filler |
-| 527 | 80 | Krista Diaz |
+| 524 | 80 | Will E Ayala |
+| 525 | 80 | Josh Keith Travierso |
+| 526 | 80 | Lady Dolphin |
+| 527 | 80 | Alice Eisnor-Martens |
 | 528 | 80 | Keke Johnson |
-| 529 | 80 | Josh Keith Travierso |
-| 530 | 80 | Will E Ayala |
-| 531 | 80 | Lady Dolphin |
-| 532 | 79 | Has2brat |
+| 529 | 80 | Krista Diaz |
+| 530 | 80 | Happy Filler |
+| 531 | 80 | EpicWizard |
+| 532 | 79 | Dru Lui |
 | 533 | 79 | Lisa Jones |
-| 534 | 79 | Dru Lui |
-| 535 | 79 | Audrianna Skaff |
-| 536 | 79 | Azahares Alonso |
+| 534 | 79 | Has2brat |
+| 535 | 79 | Azahares Alonso |
+| 536 | 79 | Audrianna Skaff |
 | 537 | 79 | Melissa Lowe |
 | 538 | 79 | Gean DeJesus |
 | 539 | 79 | Jacinta Hooker-Brown |
@@ -568,90 +568,90 @@
 | 560 | 73 | maria |
 | 561 | 73 | Csigirlnc |
 | 562 | 73 | Marcus Fontenot |
-| 563 | 72 | Fancy Riser |
-| 564 | 72 | Virgil Mayfield-Brown |
-| 565 | 72 | Loretta Hendricks |
-| 566 | 72 | Fancy Rollfit |
+| 563 | 72 | Fancy Rollfit |
+| 564 | 72 | Fancy Riser |
+| 565 | 72 | Virgil Mayfield-Brown |
+| 566 | 72 | Loretta Hendricks |
 | 567 | 72 | Deana Teck |
 | 568 | 72 | sierrabeth |
 | 569 | 72 | Kat Foreman |
-| 570 | 71 | Taquilla Branch |
+| 570 | 71 | LeRoy jenkins |
 | 571 | 71 | Giggy Blockpiece |
-| 572 | 71 | Jace McCullough |
-| 573 | 71 | Snazzy Fitclear |
-| 574 | 71 | Ana Ruiz |
-| 575 | 71 | Brenda Gustamantes |
-| 576 | 71 | Missionary Meda |
-| 577 | 70 | Giggy Splitter |
-| 578 | 70 | LilithMoon |
-| 579 | 70 | Winter Moon |
+| 572 | 71 | Missionary Meda |
+| 573 | 71 | Brenda Gustamantes |
+| 574 | 71 | Snazzy Fitclear |
+| 575 | 71 | Jace McCullough |
+| 576 | 71 | Ana Ruiz |
+| 577 | 71 | Taquilla Branch |
+| 578 | 70 | Joha Mldo Castillo |
+| 579 | 70 | Kimberly Devon |
 | 580 | 70 | Charlene Nicole Guidry |
-| 581 | 70 | Breezy Blockzone |
-| 582 | 70 | Joha Mldo Castillo |
-| 583 | 70 | Kimberly Devon |
-| 584 | 69 | Gigi5 |
-| 585 | 69 | Beth Belanger |
-| 586 | 69 | Khylee DarDar |
-| 587 | 69 | Alicia Cook |
-| 588 | 69 | Breezy Rollfit |
-| 589 | 69 | GETBOXED! |
-| 590 | 68 | Keys Tome |
-| 591 | 68 | Paula Renee McCracken |
-| 592 | 68 | Poptart |
-| 593 | 68 | Vonni McLean |
-| 594 | 67 | Glittara |
-| 595 | 67 | Playful Raccoon |
-| 596 | 67 | Wacky Snaplink |
-| 597 | 67 | Snappy Stack |
-| 598 | 67 | Noa Lee |
+| 581 | 70 | LilithMoon |
+| 582 | 70 | Breezy Blockzone |
+| 583 | 70 | Giggy Splitter |
+| 584 | 70 | Winter Moon |
+| 585 | 69 | Gigi5 |
+| 586 | 69 | Alicia Cook |
+| 587 | 69 | Beth Belanger |
+| 588 | 69 | GETBOXED! |
+| 589 | 69 | Breezy Rollfit |
+| 590 | 69 | Khylee DarDar |
+| 591 | 68 | Keys Tome |
+| 592 | 68 | Paula Renee McCracken |
+| 593 | 68 | Poptart |
+| 594 | 68 | Vonni McLean |
+| 595 | 67 | Glittara |
+| 596 | 67 | Playful Raccoon |
+| 597 | 67 | Mc3003 |
+| 598 | 67 | Peterson Cottontail |
 | 599 | 67 | Ashley DuVall |
-| 600 | 67 | Peterson Cottontail |
-| 601 | 67 | Mc3003 |
-| 602 | 66 | Dapper Tiltpiece |
+| 600 | 67 | Noa Lee |
+| 601 | 67 | Wacky Snaplink |
+| 602 | 67 | Snappy Stack |
 | 603 | 66 | Mann Manson |
-| 604 | 66 | Joyce Hampton |
-| 605 | 66 | james |
+| 604 | 66 | Dapper Tiltpiece |
+| 605 | 66 | Joyce Hampton |
 | 606 | 66 | chefjaydawg |
-| 607 | 65 | Rocky |
-| 608 | 65 | Youngkueen |
-| 609 | 65 | Tony Clark |
-| 610 | 65 | LeRoy jenkins |
-| 611 | 65 | Gabby Simones |
+| 607 | 66 | james |
+| 608 | 65 | Yvette Johnson |
+| 609 | 65 | Breezy Wife |
+| 610 | 65 | Dinah Mccall |
+| 611 | 65 | Genger |
 | 612 | 65 | Cranky Twistpiece |
-| 613 | 65 | Genger |
-| 614 | 65 | Breezy Wife |
-| 615 | 65 | Dinah Mccall |
-| 616 | 65 | Yvette Johnson |
+| 613 | 65 | Tony Clark |
+| 614 | 65 | Youngkueen |
+| 615 | 65 | Lacie Powers |
+| 616 | 65 | Knijur Callins |
 | 617 | 65 | Monte Smith |
-| 618 | 65 | Lacie Powers |
-| 619 | 65 | Deborah Ayliffe |
-| 620 | 65 | Knijur Callins |
+| 618 | 65 | Deborah Ayliffe |
+| 619 | 65 | Gabby Simones |
+| 620 | 65 | Rocky |
 | 621 | 65 | Lovetetris |
 | 622 | 65 | Jailen Harper |
 | 623 | 64 | SueSally |
 | 624 | 64 | Clever Brickzone |
 | 625 | 64 | Surviving Be Back Soon |
-| 626 | 64 | MamaC |
-| 627 | 64 | Daring Brickbuilder |
+| 626 | 64 | Daring Brickbuilder |
+| 627 | 64 | Mmm |
 | 628 | 64 | Deb 07 |
-| 629 | 64 | David Lay |
+| 629 | 64 | MamaC |
 | 630 | 64 | Giggy Risegrid |
-| 631 | 64 | Jade Alley |
-| 632 | 64 | Mmm |
-| 633 | 63 | Brenda Mueller |
-| 634 | 63 | Cassie N Danica Flaherty |
-| 635 | 63 | Shirley A. Godfrey |
+| 631 | 64 | David Lay |
+| 632 | 64 | Jade Alley |
+| 633 | 63 | MattJennifer Marie Ericson |
+| 634 | 63 | Marina |
+| 635 | 63 | Cassie N Danica Flaherty |
 | 636 | 63 | JP |
-| 637 | 63 | Marina |
-| 638 | 63 | MattJennifer Marie Ericson |
-| 639 | 63 | ButterfliesRFree |
+| 637 | 63 | Brenda Mueller |
+| 638 | 63 | ButterfliesRFree |
+| 639 | 63 | Shirley A. Godfrey |
 | 640 | 63 | Phredda Helene Gavornik |
 | 641 | 63 | Amber Jalbert |
 | 642 | 63 | Swanky Brickzone |
 | 643 | 62 | Mar Mar |
-| 644 | 62 | 94Blockhead |
-| 645 | 62 | Stephanie Brock |
-| 646 | 62 | ShaniP |
+| 644 | 62 | Stephanie Brock |
+| 645 | 62 | ShaniP |
+| 646 | 62 | 94Blockhead |
 | 647 | 61 | Danielle Sulano |
 | 648 | 61 | Nikcole Alexis Bryan |
 | 649 | 61 | Luunii |
