@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 12:04:18 UTC
+# Standings for team4 as of 2026-06-07 12:04:41 UTC
 
 **Total Participants:** 1454
 
@@ -138,9 +138,9 @@
 | 130 | 408 | Futrell Brent |
 | 131 | 406 | Kelley Roach |
 | 132 | 400 | DexterDobbins |
-| 133 | 400 | Nicole Peoples |
-| 134 | 400 | Suzanne Carter |
-| 135 | 400 | Amber Doyle |
+| 133 | 400 | Amber Doyle |
+| 134 | 400 | Nicole Peoples |
+| 135 | 400 | Suzanne Carter |
 | 136 | 396 | Jackie Jackson |
 | 137 | 394 | Kim |
 | 138 | 388 | Hen |
@@ -231,92 +231,92 @@
 | 223 | 209 | Crystal Hammonds |
 | 224 | 207 | Aramat |
 | 225 | 205 | Kristen Wallace |
-| 226 | 200 | Sarah Montagne Forsberg |
-| 227 | 199 | Janet Willoughby |
+| 226 | 204 | tigerlilly |
+| 227 | 200 | Sarah Montagne Forsberg |
 | 228 | 199 | Lively Blockpiece |
-| 229 | 199 | Colin |
-| 230 | 197 | Tiggerjake |
-| 231 | 196 | Loopy Clusterline |
-| 232 | 195 | No Time |
-| 233 | 195 | Sean Mccleary |
-| 234 | 194 | Lisa lisa |
-| 235 | 194 | Jenn Norcross |
-| 236 | 193 | Tiffany Bunker-Hill |
-| 237 | 190 | Baysoph |
-| 238 | 188 | Lee Ann Gibby |
-| 239 | 187 | Leslie Ann Carter |
-| 240 | 187 | Tipsy Builderline |
-| 241 | 186 | Kimyatta Cavin |
-| 242 | 186 | Snippy Splitter |
-| 243 | 185 | PerfectPieces |
-| 244 | 185 | Dae Von |
-| 245 | 185 | Britney Kitora |
-| 246 | 183 | Brandy Lynn |
-| 247 | 183 | Tara Delay Hill |
-| 248 | 182 | Homie |
-| 249 | 181 | EL Booger |
-| 250 | 181 | JuicyJuice |
-| 251 | 181 | Alyson M Kehler |
-| 252 | 181 | Spicy Chicken |
-| 253 | 180 | Kelly Howland |
-| 254 | 180 | ariel |
-| 255 | 180 | Karen Davis |
-| 256 | 179 | LaTanya GeminiondaRise Johnson |
-| 257 | 178 | Tamara Triplet |
-| 258 | 178 | Jacqueline Jackii Ramos |
-| 259 | 177 | Mark Norton |
-| 260 | 177 | Damon Gaston |
-| 261 | 177 | Chirpy Link |
-| 262 | 176 | Nicole Dombrow |
-| 263 | 175 | Jackie Miller |
-| 264 | 174 | Clashy |
-| 265 | 173 | Ashley Mcdonald |
-| 266 | 171 | Bridget Stevens |
-| 267 | 169 | Andrick |
-| 268 | 169 | Miwa |
-| 269 | 169 | Tiffany Smith |
-| 270 | 167 | Jackie Polanco |
-| 271 | 167 | Anthony Lewis |
-| 272 | 167 | Brainbabe |
-| 273 | 167 | Littlebrat |
-| 274 | 166 | bollo |
-| 275 | 166 | Susan Stofberg Beltran |
-| 276 | 165 | Erika Seaton |
-| 277 | 165 | Blockcrusher |
-| 278 | 165 | Ryan Paul Clark-Ramsey |
-| 279 | 164 | Stacy G |
-| 280 | 162 | Chonda OhanaMomma Michelle |
-| 281 | 161 | Bouncy |
-| 282 | 160 | kellie |
-| 283 | 160 | Fran Aaron-Ring |
-| 284 | 160 | Morgan Stevens |
+| 229 | 199 | Janet Willoughby |
+| 230 | 199 | Colin |
+| 231 | 197 | Tiggerjake |
+| 232 | 196 | Loopy Clusterline |
+| 233 | 195 | No Time |
+| 234 | 195 | Sean Mccleary |
+| 235 | 194 | Lisa lisa |
+| 236 | 194 | Jenn Norcross |
+| 237 | 193 | Tiffany Bunker-Hill |
+| 238 | 190 | Baysoph |
+| 239 | 188 | Lee Ann Gibby |
+| 240 | 187 | Leslie Ann Carter |
+| 241 | 187 | Tipsy Builderline |
+| 242 | 186 | Kimyatta Cavin |
+| 243 | 186 | Snippy Splitter |
+| 244 | 185 | PerfectPieces |
+| 245 | 185 | Dae Von |
+| 246 | 185 | Britney Kitora |
+| 247 | 183 | Brandy Lynn |
+| 248 | 183 | Tara Delay Hill |
+| 249 | 182 | Homie |
+| 250 | 181 | EL Booger |
+| 251 | 181 | JuicyJuice |
+| 252 | 181 | Alyson M Kehler |
+| 253 | 181 | Spicy Chicken |
+| 254 | 180 | Kelly Howland |
+| 255 | 180 | ariel |
+| 256 | 180 | Karen Davis |
+| 257 | 179 | LaTanya GeminiondaRise Johnson |
+| 258 | 178 | Tamara Triplet |
+| 259 | 178 | Jacqueline Jackii Ramos |
+| 260 | 177 | Mark Norton |
+| 261 | 177 | Damon Gaston |
+| 262 | 177 | Chirpy Link |
+| 263 | 176 | Nicole Dombrow |
+| 264 | 175 | Jackie Miller |
+| 265 | 174 | Clashy |
+| 266 | 173 | Ashley Mcdonald |
+| 267 | 171 | Bridget Stevens |
+| 268 | 169 | Andrick |
+| 269 | 169 | Miwa |
+| 270 | 169 | Tiffany Smith |
+| 271 | 167 | Jackie Polanco |
+| 272 | 167 | Anthony Lewis |
+| 273 | 167 | Brainbabe |
+| 274 | 167 | Littlebrat |
+| 275 | 166 | bollo |
+| 276 | 166 | Susan Stofberg Beltran |
+| 277 | 165 | Erika Seaton |
+| 278 | 165 | Blockcrusher |
+| 279 | 165 | Ryan Paul Clark-Ramsey |
+| 280 | 164 | Stacy G |
+| 281 | 162 | Chonda OhanaMomma Michelle |
+| 282 | 161 | Bouncy |
+| 283 | 160 | kellie |
+| 284 | 160 | Fran Aaron-Ring |
 | 285 | 160 | Frothy Pattern |
-| 286 | 159 | Logan Two-dubs Baker |
-| 287 | 159 | JoAnn Summerlot Ratliff |
-| 288 | 158 | Corie A. Brinson |
-| 289 | 158 | Dena Lynn Rogers |
-| 290 | 158 | Joseph Hunter |
-| 291 | 157 | Matthew Wilcox |
-| 292 | 157 | Laguya |
-| 293 | 157 | Tipsy Zonebuilder |
-| 294 | 156 | Cindy |
-| 295 | 155 | Shayna Vaigneur-Hall |
-| 296 | 155 | Danny Frausto |
-| 297 | 155 | Bonnie Powell |
-| 298 | 154 | Lani |
-| 299 | 153 | Shawntae Mccary |
-| 300 | 153 | June Hoffman |
-| 301 | 152 | Samara Garcia |
-| 302 | 152 | Jumpy Builderpiece |
-| 303 | 152 | Funky Tiler |
-| 304 | 152 | Nerdy Faller |
-| 305 | 151 | Bean |
-| 306 | 151 | Troy Zanelli |
-| 307 | 150 | Justin Michael |
-| 308 | 150 | Heidi Anne Scheiderer |
+| 286 | 160 | Morgan Stevens |
+| 287 | 159 | Logan Two-dubs Baker |
+| 288 | 159 | JoAnn Summerlot Ratliff |
+| 289 | 158 | Corie A. Brinson |
+| 290 | 158 | Dena Lynn Rogers |
+| 291 | 158 | Joseph Hunter |
+| 292 | 157 | Matthew Wilcox |
+| 293 | 157 | Laguya |
+| 294 | 157 | Tipsy Zonebuilder |
+| 295 | 156 | Cindy |
+| 296 | 155 | Shayna Vaigneur-Hall |
+| 297 | 155 | Danny Frausto |
+| 298 | 155 | Bonnie Powell |
+| 299 | 154 | Lani |
+| 300 | 153 | Shawntae Mccary |
+| 301 | 153 | June Hoffman |
+| 302 | 152 | Samara Garcia |
+| 303 | 152 | Jumpy Builderpiece |
+| 304 | 152 | Funky Tiler |
+| 305 | 152 | Nerdy Faller |
+| 306 | 151 | Bean |
+| 307 | 151 | Troy Zanelli |
+| 308 | 150 | Justin Michael |
 | 309 | 150 | MrsReap |
-| 310 | 150 | Hardy Fuller |
-| 311 | 148 | tigerlilly |
+| 310 | 150 | Heidi Anne Scheiderer |
+| 311 | 150 | Hardy Fuller |
 | 312 | 148 | Melika Zeheb |
 | 313 | 148 | Smiley Gridzone |
 | 314 | 147 | Allysha McFarland |
@@ -364,8 +364,8 @@
 | 356 | 128 | Juvon SupaShawdii Brooks |
 | 357 | 128 | Sherry Mooney |
 | 358 | 127 | Jen Smith |
-| 359 | 127 | zoes |
-| 360 | 127 | Jrr |
+| 359 | 127 | Jrr |
+| 360 | 127 | zoes |
 | 361 | 127 | Cheeky Climber |
 | 362 | 126 | Karen Small |
 | 363 | 125 | DizzB400 |

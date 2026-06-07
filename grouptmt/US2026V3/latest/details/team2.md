@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 12:04:18 UTC
+# Standings for team2 as of 2026-06-07 12:04:41 UTC
 
 **Total Participants:** 1717
 
@@ -34,7 +34,7 @@
 | 26 | 3100 | Danni Campa |
 | 27 | 3090 | Spunky Clicker |
 | 28 | 3076 | Ashley Miller |
-| 29 | 2791 | Andre Love |
+| 29 | 2966 | Andre Love |
 | 30 | 2790 | Logan Basham |
 | 31 | 2763 | Angelica Jelli Gillaspy |
 | 32 | 2715 | Angie BBlock |
@@ -378,32 +378,32 @@
 | 370 | 158 | Rachel Nilles |
 | 371 | 158 | KazzyKay |
 | 372 | 156 | meg |
-| 373 | 156 | Monique Frantz |
-| 374 | 156 | Tango Sierra |
+| 373 | 156 | Tango Sierra |
+| 374 | 156 | Monique Frantz |
 | 375 | 156 | Charlotte Castelli |
 | 376 | 154 | murd3rmous3 |
-| 377 | 153 | Cortney Coleman |
-| 378 | 151 | Amy Lea Hamilton |
-| 379 | 150 | Zany Wrecker |
-| 380 | 150 | Crystal Poss |
-| 381 | 150 | Marylin Eacker |
-| 382 | 149 | Jenni LeBlanc |
-| 383 | 148 | Wayne Johnson |
-| 384 | 148 | Ashley Miller |
-| 385 | 148 | Nano. |
-| 386 | 146 | Darla Nolt |
-| 387 | 145 | Alicia Parrish |
-| 388 | 144 | Funway998 |
-| 389 | 144 | Will Jones |
-| 390 | 144 | Analee Nicole Jones |
-| 391 | 143 | Paula Haskins |
-| 392 | 143 | Amanda L Strong |
-| 393 | 143 | Spicy Basepiece |
-| 394 | 142 | Spunky Cascadeclear |
-| 395 | 141 | Loopy Tower |
+| 377 | 154 | Loopy Tower |
+| 378 | 153 | Cortney Coleman |
+| 379 | 151 | Amy Lea Hamilton |
+| 380 | 150 | Zany Wrecker |
+| 381 | 150 | Crystal Poss |
+| 382 | 150 | Marylin Eacker |
+| 383 | 149 | Jenni LeBlanc |
+| 384 | 148 | Wayne Johnson |
+| 385 | 148 | Ashley Miller |
+| 386 | 148 | Nano. |
+| 387 | 146 | Darla Nolt |
+| 388 | 145 | Alicia Parrish |
+| 389 | 144 | Funway998 |
+| 390 | 144 | Will Jones |
+| 391 | 144 | Analee Nicole Jones |
+| 392 | 143 | Paula Haskins |
+| 393 | 143 | Amanda L Strong |
+| 394 | 143 | Spicy Basepiece |
+| 395 | 142 | Spunky Cascadeclear |
 | 396 | 141 | Jacquelyn Snyder Dumas |
-| 397 | 140 | Starvinmarvin |
-| 398 | 140 | Kristi Chestnut |
+| 397 | 140 | Kristi Chestnut |
+| 398 | 140 | Starvinmarvin |
 | 399 | 140 | Sharon L Brazelton |
 | 400 | 140 | Rescuegirl76 |
 | 401 | 140 | Michael Carmichael |
@@ -1001,33 +1001,33 @@
 | 993 | 44 | Robert W Schwartz |
 | 994 | 44 | Kassie D Harmon |
 | 995 | 44 | Rae |
-| 996 | 44 | Dandy Column |
-| 997 | 43 | Quirky Shifter |
+| 996 | 44 | Cuca Perez |
+| 997 | 44 | Dandy Column |
 | 998 | 43 | Destiny Turner |
-| 999 | 43 | Peter Fogg |
-| 1000 | 43 | Kourtney Heiden-Hudson |
-| 1001 | 43 | Kayla Faulkiner |
-| 1002 | 43 | Fluffypuffin |
-| 1003 | 43 | Jazzy |
-| 1004 | 43 | Jolly Twisterfit |
-| 1005 | 42 | Christopher S Lawyer |
-| 1006 | 42 | Melissa Pronovost |
-| 1007 | 42 | Clever Linkbuilder |
-| 1008 | 42 | Snazzy Smasher |
-| 1009 | 42 | Sami Amato |
-| 1010 | 42 | Blossom48 |
-| 1011 | 42 | MJLovesHer#OneMistake |
-| 1012 | 42 | Shylo Bryant-Brunson |
-| 1013 | 42 | Cuca Perez |
-| 1014 | 42 | Aubrey Gates |
-| 1015 | 42 | Henny Henny |
+| 999 | 43 | Quirky Shifter |
+| 1000 | 43 | Peter Fogg |
+| 1001 | 43 | Kourtney Heiden-Hudson |
+| 1002 | 43 | Kayla Faulkiner |
+| 1003 | 43 | Fluffypuffin |
+| 1004 | 43 | Jazzy |
+| 1005 | 43 | Jolly Twisterfit |
+| 1006 | 42 | Christopher S Lawyer |
+| 1007 | 42 | Melissa Pronovost |
+| 1008 | 42 | Clever Linkbuilder |
+| 1009 | 42 | Snazzy Smasher |
+| 1010 | 42 | Sami Amato |
+| 1011 | 42 | Shylo Bryant-Brunson |
+| 1012 | 42 | MJLovesHer#OneMistake |
+| 1013 | 42 | Blossom48 |
+| 1014 | 42 | Henny Henny |
+| 1015 | 42 | Aubrey Gates |
 | 1016 | 42 | Jolly Balanceblock |
 | 1017 | 41 | Jenifer Seeley |
 | 1018 | 41 | Kodi Gay |
 | 1019 | 41 | Collins |
-| 1020 | 41 | KS Hengesbach |
-| 1021 | 41 | Jenny Coffer |
-| 1022 | 41 | Baby |
+| 1020 | 41 | Jenny Coffer |
+| 1021 | 41 | Baby |
+| 1022 | 41 | KS Hengesbach |
 | 1023 | 41 | Kymberlee Rolinski |
 | 1024 | 41 | Gino Positano |
 | 1025 | 41 | Clever Gridzone |
@@ -1036,24 +1036,24 @@
 | 1028 | 40 | Dee |
 | 1029 | 40 | Jeremy Daurbigny |
 | 1030 | 40 | Shay Lynn King |
-| 1031 | 40 | Jay Theriault |
-| 1032 | 40 | Devon |
+| 1031 | 40 | Devon |
+| 1032 | 40 | Jay Theriault |
 | 1033 | 40 | Tabetha Cooper |
 | 1034 | 40 | Alisha Shelton |
 | 1035 | 40 | Nerdy Spinfit |
 | 1036 | 40 | Kacey Bates |
-| 1037 | 40 | Deena-Neal Peryer |
-| 1038 | 40 | Billie Jo Butler |
-| 1039 | 40 | Shannon Michelle |
+| 1037 | 40 | Billie Jo Butler |
+| 1038 | 40 | Shannon Michelle |
+| 1039 | 40 | Cary M. Fong |
 | 1040 | 40 | Ashley Bennett |
 | 1041 | 40 | Emma Danielle Wynn |
 | 1042 | 40 | Ariya Colson |
 | 1043 | 40 | Michael Lott |
 | 1044 | 40 | Kristy Moore |
-| 1045 | 40 | Cary M. Fong |
-| 1046 | 40 | Tonya Templin Smith |
-| 1047 | 40 | Missy Stevens |
-| 1048 | 40 | Spicy Balanceblock |
+| 1045 | 40 | Tonya Templin Smith |
+| 1046 | 40 | Missy Stevens |
+| 1047 | 40 | Spicy Balanceblock |
+| 1048 | 40 | Deena-Neal Peryer |
 | 1049 | 40 | Cassafrass |
 | 1050 | 40 | Elicia Lloyd-Zazweta |
 | 1051 | 40 | Courtney Ribas |
