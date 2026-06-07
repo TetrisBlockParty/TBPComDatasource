@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 18:18:18 UTC
+# Standings for team4 as of 2026-06-07 18:18:42 UTC
 
 **Total Participants:** 1565
 
@@ -55,7 +55,7 @@
 | 47 | 1570 | Dheeh Robles |
 | 48 | 1527 | Victoria Ver |
 | 49 | 1400 | Michele |
-| 50 | 1366 | 626 |
+| 50 | 1375 | 626 |
 | 51 | 1249 | Charlie Lewis |
 | 52 | 1235 | Adam J Leong |
 | 53 | 1200 | Caitlin Johnson |
@@ -255,21 +255,21 @@
 | 247 | 215 | Jj Johnson |
 | 248 | 215 | Jeremy |
 | 249 | 211 | Andrick |
-| 250 | 210 | Sfalcon1. |
-| 251 | 210 | Leslie Ann Carter |
-| 252 | 209 | Crystal Hammonds |
-| 253 | 208 | jaz |
+| 250 | 210 | jaz |
+| 251 | 210 | Sfalcon1. |
+| 252 | 210 | Leslie Ann Carter |
+| 253 | 209 | Crystal Hammonds |
 | 254 | 208 | PerfectPieces |
-| 255 | 207 | Pepper |
-| 256 | 207 | Aramat |
-| 257 | 206 | Flashy Shatterer |
-| 258 | 206 | Snippy Splitter |
-| 259 | 206 | JuicyJuice |
-| 260 | 206 | Stacy G |
+| 255 | 208 | Snippy Splitter |
+| 256 | 207 | Pepper |
+| 257 | 207 | Aramat |
+| 258 | 206 | Flashy Shatterer |
+| 259 | 206 | Stacy G |
+| 260 | 206 | JuicyJuice |
 | 261 | 205 | Solace Grace |
 | 262 | 200 | Maurice DeJean |
-| 263 | 199 | Janet Willoughby |
-| 264 | 199 | Lively Blockpiece |
+| 263 | 199 | Lively Blockpiece |
+| 264 | 199 | Janet Willoughby |
 | 265 | 196 | Loopy Clusterline |
 | 266 | 195 | Tipsy Zonebuilder |
 | 267 | 195 | Dawn Phelps |
@@ -449,9 +449,9 @@
 | 441 | 120 | Urplan |
 | 442 | 120 | Ada Rodriguez Spradley |
 | 443 | 120 | Natalie Dillard |
-| 444 | 120 | Lul Babie |
-| 445 | 120 | Stotty |
-| 446 | 120 | Will E Ayala |
+| 444 | 120 | Stotty |
+| 445 | 120 | Will E Ayala |
+| 446 | 120 | Lul Babie |
 | 447 | 119 | Dennis Montoya |
 | 448 | 119 | Ashley Jenkins |
 | 449 | 119 | Shawna Downey |
@@ -479,8 +479,8 @@
 | 471 | 113 | George Palacios |
 | 472 | 113 | Melissa Anne |
 | 473 | 113 | Amanda Snow |
-| 474 | 112 | Andrea Dre Lomeli |
-| 475 | 112 | Loopy Hitter |
+| 474 | 112 | Loopy Hitter |
+| 475 | 112 | Andrea Dre Lomeli |
 | 476 | 112 | medicjessi |
 | 477 | 112 | Linda Miltenburg |
 | 478 | 111 | Richard Bearse |
@@ -629,8 +629,8 @@
 | 621 | 85 | Zappy Tilemaker |
 | 622 | 85 | Erik Clary |
 | 623 | 85 | Dolores Falco |
-| 624 | 84 | Lisa Ferriero-Daudin |
-| 625 | 84 | jojo |
+| 624 | 84 | jojo |
+| 625 | 84 | Lisa Ferriero-Daudin |
 | 626 | 84 | Swanky Brickzone |
 | 627 | 84 | mikey moo |
 | 628 | 84 | Amandacolle |
