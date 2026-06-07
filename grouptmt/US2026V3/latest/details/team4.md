@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:37:19 UTC
+# Standings for team4 as of 2026-06-07 11:38:18 UTC
 
 **Total Participants:** 1453
 
@@ -22,7 +22,7 @@
 | 14 | 4261 | Chris Hills |
 | 15 | 4246 | t |
 | 16 | 4139 | Bryony Nicholson |
-| 17 | 4043 | Bubbly Twistpiece |
+| 17 | 4048 | Bubbly Twistpiece |
 | 18 | 3917 | TitiLo72 |
 | 19 | 3784 | Tyra Brooke Everman Forest |
 | 20 | 3776 | Dana Smith |
@@ -92,20 +92,20 @@
 | 84 | 672 | Heather Preston |
 | 85 | 661 | Jenn Fitzgerald |
 | 86 | 654 | Jonathan Hewitt |
-| 87 | 646 | Blayne Kole |
-| 88 | 644 | woopa 716 |
-| 89 | 641 | Tommy Bond |
-| 90 | 638 | Kay |
-| 91 | 634 | GeorgeButts |
-| 92 | 623 | Hairy Snake |
-| 93 | 621 | Gracie Ornelas |
-| 94 | 620 | Fancy Crasher |
-| 95 | 614 | adrian |
-| 96 | 607 | Jeremy Lopez |
-| 97 | 580 | Dandy Clearfit |
-| 98 | 567 | Lynn Grimes |
-| 99 | 562 | Sweet Stacker |
-| 100 | 550 | Sassy Column |
+| 87 | 650 | Sassy Column |
+| 88 | 646 | Blayne Kole |
+| 89 | 644 | woopa 716 |
+| 90 | 641 | Tommy Bond |
+| 91 | 638 | Kay |
+| 92 | 634 | GeorgeButts |
+| 93 | 623 | Hairy Snake |
+| 94 | 621 | Gracie Ornelas |
+| 95 | 620 | Fancy Crasher |
+| 96 | 614 | adrian |
+| 97 | 607 | Jeremy Lopez |
+| 98 | 580 | Dandy Clearfit |
+| 99 | 567 | Lynn Grimes |
+| 100 | 562 | Sweet Stacker |
 | 101 | 530 | Jewelz |
 | 102 | 520 | Irma |
 | 103 | 516 | Caitlyn Wang |
@@ -113,9 +113,9 @@
 | 105 | 511 | Nikki Fuller Johnson |
 | 106 | 510 | Krysten Danielle Richard |
 | 107 | 503 | CJ |
-| 108 | 483 | Katie Lynn Petit |
-| 109 | 477 | Malik Thompson |
-| 110 | 476 | Jason Garnatz |
+| 108 | 496 | Jason Garnatz |
+| 109 | 483 | Katie Lynn Petit |
+| 110 | 477 | Malik Thompson |
 | 111 | 474 | Melissa WC |
 | 112 | 473 | vag1974 |
 | 113 | 469 | Gigglycat |
@@ -227,21 +227,21 @@
 | 219 | 211 | Goofy Riser |
 | 220 | 211 | Renee Sapp |
 | 221 | 210 | Stephanie Myers |
-| 222 | 207 | Aramat |
-| 223 | 205 | Kristen Wallace |
-| 224 | 203 | Crystal Hammonds |
+| 222 | 207 | Crystal Hammonds |
+| 223 | 207 | Aramat |
+| 224 | 205 | Kristen Wallace |
 | 225 | 200 | Sarah Montagne Forsberg |
 | 226 | 199 | Lively Blockpiece |
 | 227 | 199 | Janet Willoughby |
 | 228 | 199 | Colin |
 | 229 | 197 | Tiggerjake |
 | 230 | 196 | Loopy Clusterline |
-| 231 | 195 | Sean Mccleary |
-| 232 | 194 | Lisa lisa |
-| 233 | 194 | Jenn Norcross |
-| 234 | 193 | Tiffany Bunker-Hill |
-| 235 | 190 | Baysoph |
-| 236 | 190 | No Time |
+| 231 | 195 | No Time |
+| 232 | 195 | Sean Mccleary |
+| 233 | 194 | Lisa lisa |
+| 234 | 194 | Jenn Norcross |
+| 235 | 193 | Tiffany Bunker-Hill |
+| 236 | 190 | Baysoph |
 | 237 | 188 | Lee Ann Gibby |
 | 238 | 187 | Leslie Ann Carter |
 | 239 | 187 | Tipsy Builderline |
@@ -443,30 +443,30 @@
 | 435 | 101 | Sarah Perry Cook |
 | 436 | 101 | Kandylands |
 | 437 | 100 | Elissa S-k |
-| 438 | 100 | Melissa Brown |
-| 439 | 100 | Shy |
-| 440 | 100 | Tricia Motika Cowan |
-| 441 | 100 | George Marshburn |
-| 442 | 100 | CorieBe |
-| 443 | 100 | SupaFly |
-| 444 | 100 | Linda Miltenburg |
-| 445 | 100 | Stotty |
-| 446 | 99 | Melissa Quinn |
-| 447 | 99 | Azahares Alonso |
-| 448 | 99 | Tamika Ashli Bonner |
-| 449 | 99 | Inez Nez |
-| 450 | 98 | katy |
-| 451 | 98 | Jacqueline Arce |
-| 452 | 98 | Mark Fitch Jr. |
-| 453 | 98 | Deva Marie Barber |
-| 454 | 97 | Betsy Froemming |
-| 455 | 97 | Dawn Marie Trujillo |
-| 456 | 96 | Diana Fernandez |
-| 457 | 96 | Scrumptious |
-| 458 | 96 | Jennifer Garcia |
-| 459 | 96 | Nessa Smith |
-| 460 | 95 | Tiffany Roberts |
-| 461 | 95 | Shia Marie |
+| 438 | 100 | Shia Marie |
+| 439 | 100 | Melissa Brown |
+| 440 | 100 | Shy |
+| 441 | 100 | Tricia Motika Cowan |
+| 442 | 100 | George Marshburn |
+| 443 | 100 | CorieBe |
+| 444 | 100 | SupaFly |
+| 445 | 100 | Linda Miltenburg |
+| 446 | 100 | Stotty |
+| 447 | 99 | Melissa Quinn |
+| 448 | 99 | Azahares Alonso |
+| 449 | 99 | Tamika Ashli Bonner |
+| 450 | 99 | Inez Nez |
+| 451 | 98 | katy |
+| 452 | 98 | Jacqueline Arce |
+| 453 | 98 | Mark Fitch Jr. |
+| 454 | 98 | Deva Marie Barber |
+| 455 | 97 | Betsy Froemming |
+| 456 | 97 | Dawn Marie Trujillo |
+| 457 | 96 | Diana Fernandez |
+| 458 | 96 | Scrumptious |
+| 459 | 96 | Jennifer Garcia |
+| 460 | 96 | Nessa Smith |
+| 461 | 95 | Tiffany Roberts |
 | 462 | 95 | EpicWizard |
 | 463 | 95 | Laurie Patrick |
 | 464 | 95 | Kari Smith |
