@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 03:12:40 UTC
+# Standings for team2 as of 2026-06-07 03:13:17 UTC
 
 **Total Participants:** 1561
 
@@ -94,8 +94,8 @@
 | 86 | 656 | Loopy Cascadepiece |
 | 87 | 650 | Epic Frame |
 | 88 | 642 | Lisa Breiding |
-| 89 | 632 | Wmk Rathbun |
-| 90 | 632 | Allie Bug |
+| 89 | 632 | Allie Bug |
+| 90 | 632 | Wmk Rathbun |
 | 91 | 629 | Mirr Lulu |
 | 92 | 612 | Josh Twilley |
 | 93 | 600 | LEW |
