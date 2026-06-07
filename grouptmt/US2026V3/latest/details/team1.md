@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:56:46 UTC
+# Standings for team1 as of 2026-06-07 04:57:18 UTC
 
 **Total Participants:** 1356
 
@@ -428,12 +428,12 @@
 | 420 | 93 | Rene Hicks |
 | 421 | 93 | Kimberly Susan Privette |
 | 422 | 93 | C Lo Green |
-| 423 | 92 | Slinky Clearzone |
-| 424 | 92 | The DUBZ |
-| 425 | 92 | Pretty Yella |
-| 426 | 91 | Mighty Dropper |
-| 427 | 90 | crumb bumc |
-| 428 | 90 | MamushiOh |
+| 423 | 92 | MamushiOh |
+| 424 | 92 | Slinky Clearzone |
+| 425 | 92 | The DUBZ |
+| 426 | 92 | Pretty Yella |
+| 427 | 91 | Mighty Dropper |
+| 428 | 90 | crumb bumc |
 | 429 | 90 | Shameka Tiffany |
 | 430 | 90 | Lilly Brown |
 | 431 | 90 | Jjhandsome |
