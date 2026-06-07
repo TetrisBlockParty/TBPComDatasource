@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 11:58:41 UTC
+# Standings for team1 as of 2026-06-07 11:59:18 UTC
 
 **Total Participants:** 1447
 
@@ -14,7 +14,7 @@
 | 6 | 7602 | Charlie Roehm |
 | 7 | 7059 | Tracy Cohen |
 | 8 | 6802 | Cozy Edge |
-| 9 | 6735 | Death by SnuSnu |
+| 9 | 6754 | Death by SnuSnu |
 | 10 | 6678 | Dyane Leah Ware |
 | 11 | 6150 | Songne Arif |
 | 12 | 5512 | Jocelyn Pope-Sewell |
@@ -31,7 +31,7 @@
 | 23 | 2437 | Juan Kandiss Escobedo Irwin |
 | 24 | 2415 | Yolanda McDonald |
 | 25 | 2269 | Mary Jenkins |
-| 26 | 2095 | Epic Snapfall |
+| 26 | 2113 | Epic Snapfall |
 | 27 | 2076 | April Inboden |
 | 28 | 1988 | Jo NewmindNewfocus Bell |
 | 29 | 1983 | COSA303 |
@@ -64,10 +64,10 @@
 | 56 | 1046 | Spicy Balancer |
 | 57 | 1024 | Chill Clusterer |
 | 58 | 998 | Angela R Wilson |
-| 59 | 961 | Sanjuro |
-| 60 | 943 | Kkbk |
-| 61 | 935 | Whitney Butler |
-| 62 | 932 | Lisa Müller |
+| 59 | 962 | Lisa Müller |
+| 60 | 961 | Sanjuro |
+| 61 | 943 | Kkbk |
+| 62 | 935 | Whitney Butler |
 | 63 | 918 | Weeze |
 | 64 | 897 | BYM4L |
 | 65 | 894 | Danielle Barthelme |
@@ -441,12 +441,12 @@
 | 433 | 104 | Ahvae Lee |
 | 434 | 104 | Bella |
 | 435 | 103 | Lynnette WheelerBushnell |
-| 436 | 102 | 大竹直之 |
-| 437 | 102 | Christi Walker Patton |
-| 438 | 102 | Sarah Steckbauer |
-| 439 | 102 | Hyedie Badie |
-| 440 | 101 | star |
-| 441 | 101 | Boldy Matchbuilder |
+| 436 | 103 | Boldy Matchbuilder |
+| 437 | 102 | 大竹直之 |
+| 438 | 102 | Christi Walker Patton |
+| 439 | 102 | Sarah Steckbauer |
+| 440 | 102 | Hyedie Badie |
+| 441 | 101 | star |
 | 442 | 101 | Mommy Frank |
 | 443 | 101 | Wacky Wipepiece |
 | 444 | 101 | Joana Thompson |
