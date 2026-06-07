@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 21:08:43 UTC
+# Standings for team1 as of 2026-06-07 21:09:19 UTC
 
 **Total Participants:** 1581
 
@@ -13,7 +13,7 @@
 | 5 | 8746 | Tyeina Johnson |
 | 6 | 8349 | Charlie Roehm |
 | 7 | 8280 | Songne Arif |
-| 8 | 7750 | Dyane Leah Ware |
+| 8 | 7787 | Dyane Leah Ware |
 | 9 | 7572 | Debbie Carswell |
 | 10 | 7290 | Tracy Cohen |
 | 11 | 7070 | Death by SnuSnu |
@@ -77,7 +77,7 @@
 | 69 | 958 | Kimberly Hernandez |
 | 70 | 939 | Uneekly Mayde |
 | 71 | 935 | Whitney Butler |
-| 72 | 914 | Eric Mcgaughy |
+| 72 | 924 | Eric Mcgaughy |
 | 73 | 897 | BYM4L |
 | 74 | 896 | Tiana Moore |
 | 75 | 894 | Danielle Barthelme |
