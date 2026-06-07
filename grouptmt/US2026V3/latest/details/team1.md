@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 14:12:19 UTC
+# Standings for team1 as of 2026-06-07 14:12:41 UTC
 
 **Total Participants:** 1474
 
@@ -14,7 +14,7 @@
 | 6 | 8152 | Songne Arif |
 | 7 | 7602 | Charlie Roehm |
 | 8 | 7059 | Tracy Cohen |
-| 9 | 6949 | Dyane Leah Ware |
+| 9 | 7004 | Dyane Leah Ware |
 | 10 | 6802 | Cozy Edge |
 | 11 | 6754 | Death by SnuSnu |
 | 12 | 6572 | Debbie Carswell |

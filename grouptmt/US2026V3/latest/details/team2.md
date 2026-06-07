@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 14:12:19 UTC
+# Standings for team2 as of 2026-06-07 14:12:41 UTC
 
 **Total Participants:** 1762
 
@@ -226,9 +226,9 @@
 | 218 | 296 | Sara Perkins |
 | 219 | 296 | Snappy Combo |
 | 220 | 295 | Brittney Williams |
-| 221 | 294 | Vistabrat |
-| 222 | 292 | James Ward |
-| 223 | 286 | Amber Wolf |
+| 221 | 294 | Amber Wolf |
+| 222 | 294 | Vistabrat |
+| 223 | 292 | James Ward |
 | 224 | 285 | Samantha Carman |
 | 225 | 284 | Becca Marie |
 | 226 | 281 | Theresa Hollinger |
@@ -447,8 +447,8 @@
 | 439 | 136 | Mandy Van Laningham Bishop |
 | 440 | 136 | Lauren Maxwell |
 | 441 | 136 | Mtnblzr |
-| 442 | 135 | Firebone |
-| 443 | 135 | Naomi Walker |
+| 442 | 135 | Naomi Walker |
+| 443 | 135 | Firebone |
 | 444 | 134 | Heather Billodeau |
 | 445 | 134 | TetrisMama |
 | 446 | 133 | Angela Hogan |
@@ -483,41 +483,41 @@
 | 475 | 127 | Tammy Roth |
 | 476 | 127 | Tina |
 | 477 | 126 | Tamtam |
-| 478 | 125 | Kathryn |
-| 479 | 125 | Epic Framezone |
-| 480 | 125 | Jessica Connot |
+| 478 | 125 | Jessica Connot |
+| 479 | 125 | Kathryn |
+| 480 | 125 | Epic Framezone |
 | 481 | 124 | Angeleye A James |
 | 482 | 123 | Simone F |
 | 483 | 123 | Partin |
 | 484 | 122 | Maria Ward |
 | 485 | 122 | Kevin Patrick |
 | 486 | 121 | Chummy Snapbuilder |
-| 487 | 120 | Keisha Robinson |
-| 488 | 120 | Sydney Cheyenne |
-| 489 | 120 | LittleHippoEars |
-| 490 | 120 | Ashley Eneboe |
-| 491 | 120 | Adam Latin |
+| 487 | 120 | Sydney Cheyenne |
+| 488 | 120 | Keisha Robinson |
+| 489 | 120 | Adam Latin |
+| 490 | 120 | LittleHippoEars |
+| 491 | 120 | Ashley Eneboe |
 | 492 | 120 | Nichole Wilson |
 | 493 | 120 | Christine James |
 | 494 | 120 | Carlos J Blas |
 | 495 | 119 | Sherri Caillet Aucoin |
 | 496 | 119 | Candi Cane |
 | 497 | 119 | Kenzie |
-| 498 | 118 | Madonna Ash |
-| 499 | 118 | Kawana Nesbitt |
-| 500 | 118 | Kimberly Brooks |
-| 501 | 118 | Ceci |
-| 502 | 118 | Frilly Shiftsnap |
-| 503 | 118 | Crystal Robinson |
-| 504 | 117 | Poppy Strikerbuilder |
-| 505 | 117 | CAL1KAWS559 |
-| 506 | 116 | Violet Olivares |
-| 507 | 116 | Joshua Dye |
-| 508 | 115 | Amber Carpenter |
-| 509 | 115 | Leticia Tillman |
-| 510 | 115 | Muffin Popper |
-| 511 | 114 | Melissa Abbott |
-| 512 | 114 | Momof2wigglebutts |
+| 498 | 118 | Momof2wigglebutts |
+| 499 | 118 | Madonna Ash |
+| 500 | 118 | Kawana Nesbitt |
+| 501 | 118 | Kimberly Brooks |
+| 502 | 118 | Ceci |
+| 503 | 118 | Frilly Shiftsnap |
+| 504 | 118 | Crystal Robinson |
+| 505 | 117 | Poppy Strikerbuilder |
+| 506 | 117 | CAL1KAWS559 |
+| 507 | 116 | Violet Olivares |
+| 508 | 116 | Joshua Dye |
+| 509 | 115 | Amber Carpenter |
+| 510 | 115 | Leticia Tillman |
+| 511 | 115 | Muffin Popper |
+| 512 | 114 | Melissa Abbott |
 | 513 | 113 | Meagan Grimmett Washburn |
 | 514 | 113 | Lively Curve |
 | 515 | 112 | LadyDeath |
@@ -534,8 +534,8 @@
 | 526 | 108 | Maurii93 |
 | 527 | 108 | Gino Positano |
 | 528 | 107 | Cassandra Green |
-| 529 | 107 | Stephanie Smith Robinson |
-| 530 | 107 | Carole Brown |
+| 529 | 107 | Carole Brown |
+| 530 | 107 | Stephanie Smith Robinson |
 | 531 | 107 | IncrediDragon |
 | 532 | 107 | Sam Brewster |
 | 533 | 106 | Lee Leonard |
