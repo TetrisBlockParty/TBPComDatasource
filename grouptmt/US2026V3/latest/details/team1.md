@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 18:46:19 UTC
+# Standings for team1 as of 2026-06-07 18:46:42 UTC
 
 **Total Participants:** 1541
 
@@ -79,7 +79,7 @@
 | 71 | 897 | BYM4L |
 | 72 | 896 | Tiana Moore |
 | 73 | 894 | Danielle Barthelme |
-| 74 | 886 | Kimberly Hernandez |
+| 74 | 887 | Kimberly Hernandez |
 | 75 | 882 | Jon Gathers |
 | 76 | 877 | Brian Bohanon II |
 | 77 | 873 | Eric Mcgaughy |
@@ -267,32 +267,32 @@
 | 259 | 229 | Ann White |
 | 260 | 225 | Zappy Riser |
 | 261 | 225 | TT |
-| 262 | 220 | Chandler Magee |
-| 263 | 220 | Christian Pham |
-| 264 | 219 | Smiley Clearpiece |
-| 265 | 218 | Mikayla |
-| 266 | 212 | Trina Greenwood |
+| 262 | 220 | Christian Pham |
+| 263 | 220 | Tanya Clayton |
+| 264 | 220 | Chandler Magee |
+| 265 | 219 | Smiley Clearpiece |
+| 266 | 218 | Mikayla |
 | 267 | 212 | Nobles Brandon |
-| 268 | 212 | Simply-Beautiful007 |
-| 269 | 211 | Boldy Liner |
+| 268 | 212 | Trina Greenwood |
+| 269 | 212 | Simply-Beautiful007 |
 | 270 | 211 | Charletha Williams |
-| 271 | 211 | LaShaun Stinson |
-| 272 | 210 | Dion Gray |
-| 273 | 209 | Murg4dr01d |
+| 271 | 211 | Boldy Liner |
+| 272 | 211 | LaShaun Stinson |
+| 273 | 210 | Dion Gray |
 | 274 | 209 | Shameka Thrasher |
-| 275 | 208 | Simone Bailey |
-| 276 | 207 | Melissa D. M. Hornsby |
-| 277 | 206 | Curtis T Cirno |
-| 278 | 205 | Stephen Providenti |
-| 279 | 203 | Daris Swearington |
-| 280 | 202 | Treneil Daffin |
-| 281 | 201 | Brittnay Wright |
+| 275 | 209 | Murg4dr01d |
+| 276 | 208 | Simone Bailey |
+| 277 | 207 | Melissa D. M. Hornsby |
+| 278 | 206 | Curtis T Cirno |
+| 279 | 205 | Treneil Daffin |
+| 280 | 205 | Stephen Providenti |
+| 281 | 203 | Daris Swearington |
 | 282 | 201 | Richard Flex |
-| 283 | 201 | Rayshawn Cohen |
-| 284 | 200 | Hailey Hil |
-| 285 | 200 | Sara Meri |
-| 286 | 200 | Coco |
-| 287 | 200 | Tanya Clayton |
+| 283 | 201 | Brittnay Wright |
+| 284 | 201 | Rayshawn Cohen |
+| 285 | 200 | Hailey Hil |
+| 286 | 200 | Sara Meri |
+| 287 | 200 | Coco |
 | 288 | 199 | $hort Dog |
 | 289 | 199 | Fina McKinnis |
 | 290 | 198 | Kenny 'Tailormade' Boyd |
@@ -908,19 +908,19 @@
 | 900 | 49 | Latoya Carson |
 | 901 | 49 | Damien Fonseca |
 | 902 | 49 | Teisha Scott |
-| 903 | 49 | Brika Brika |
-| 904 | 49 | Ķïrãã Ďãvïss |
+| 903 | 49 | Ķïrãã Ďãvïss |
+| 904 | 49 | Brika Brika |
 | 905 | 49 | Macho Lewis |
 | 906 | 49 | Daphne Ceasar |
 | 907 | 49 | Stronger Wiser Better |
-| 908 | 48 | Davina Valentino |
-| 909 | 48 | Eli Delao |
-| 910 | 48 | LoveLee |
-| 911 | 48 | Bubbly Crawler |
-| 912 | 48 | P C |
+| 908 | 48 | P C |
+| 909 | 48 | Melanie Houghton-McCann |
+| 910 | 48 | Eli Delao |
+| 911 | 48 | LoveLee |
+| 912 | 48 | Bubbly Crawler |
 | 913 | 48 | jaz |
-| 914 | 47 | Austin Smith |
-| 915 | 47 | Melanie Houghton-McCann |
+| 914 | 48 | Davina Valentino |
+| 915 | 47 | Austin Smith |
 | 916 | 47 | William Vidra |
 | 917 | 47 | Jojo M |
 | 918 | 47 | Kevin Turner |
@@ -931,9 +931,9 @@
 | 923 | 47 | Denise Cunningham-English |
 | 924 | 47 | Taylor Jordan Hollis |
 | 925 | 46 | Lucille Wilson Davis |
-| 926 | 46 | Kimberly Red |
-| 927 | 46 | TrapQween39Bi |
-| 928 | 46 | Elizabeth Green |
+| 926 | 46 | TrapQween39Bi |
+| 927 | 46 | Elizabeth Green |
+| 928 | 46 | Kimberly Red |
 | 929 | 46 | Smiley Bridgepiece |
 | 930 | 46 | Jenni |
 | 931 | 46 | Felicia Dungey |

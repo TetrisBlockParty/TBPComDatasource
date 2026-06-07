@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:46:19 UTC
+# Standings for team2 as of 2026-06-07 18:46:42 UTC
 
 **Total Participants:** 1858
 
@@ -470,8 +470,8 @@
 | 462 | 145 | Alicia Parrish |
 | 463 | 145 | Justin Stark |
 | 464 | 145 | MamaRachel |
-| 465 | 145 | Lee Leonard |
-| 466 | 145 | Muffin Popper |
+| 465 | 145 | Muffin Popper |
+| 466 | 145 | Lee Leonard |
 | 467 | 144 | Will Jones |
 | 468 | 144 | Mandy Van Laningham Bishop |
 | 469 | 144 | Nikki Hatch |
@@ -479,13 +479,13 @@
 | 471 | 143 | Matt Wylie |
 | 472 | 143 | Spicy Basepiece |
 | 473 | 143 | Amanda L Strong |
-| 474 | 142 | Angela Hogan |
-| 475 | 142 | Spunky Cascadeclear |
-| 476 | 141 | Teresa Mandich |
-| 477 | 141 | Layla Petroff |
-| 478 | 141 | Tamtam |
-| 479 | 140 | Dapper Riser |
-| 480 | 140 | Jessica Connot |
+| 474 | 143 | Jessica Connot |
+| 475 | 142 | Angela Hogan |
+| 476 | 142 | Spunky Cascadeclear |
+| 477 | 141 | Teresa Mandich |
+| 478 | 141 | Layla Petroff |
+| 479 | 141 | Tamtam |
+| 480 | 140 | Dapper Riser |
 | 481 | 140 | Alycia Marie Zelensky |
 | 482 | 140 | Kristi Chestnut |
 | 483 | 140 | Rescuegirl76 |
