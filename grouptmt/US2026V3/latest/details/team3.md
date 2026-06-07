@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-07 11:50:18 UTC
+# Standings for team3 as of 2026-06-07 11:50:40 UTC
 
 **Total Participants:** 5475
 
@@ -809,8 +809,8 @@
 | 801 | 229 | Patricia Stacy |
 | 802 | 229 | Blockpartygirl |
 | 803 | 229 | Emily Martinez |
-| 804 | 229 | Twinspired777 |
-| 805 | 229 | Carolyne Coe |
+| 804 | 229 | Carolyne Coe |
+| 805 | 229 | Twinspired777 |
 | 806 | 228 | Leon Hardy |
 | 807 | 227 | Melissa House |
 | 808 | 227 | Seth Hays |
@@ -837,32 +837,32 @@
 | 829 | 219 | meshuggahbeats |
 | 830 | 219 | Hyper Zonepiece |
 | 831 | 219 | Lynn Ryan |
-| 832 | 218 | Dee Bill |
-| 833 | 218 | Dandy Dash |
-| 834 | 218 | Audrey Maxine |
-| 835 | 218 | Dreamy Tiler |
-| 836 | 217 | Razor |
-| 837 | 217 | skyguy26 |
-| 838 | 217 | Robin Allen |
-| 839 | 216 | Moe Mahmoud |
-| 840 | 216 | Sara Jean Leighton |
-| 841 | 216 | Crystal A Howe |
-| 842 | 216 | heyyy |
-| 843 | 215 | Grumpy D Feltcher III |
-| 844 | 215 | Stephanie Marie Kirk |
-| 845 | 215 | Brandy Thompson |
-| 846 | 214 | Firefly |
+| 832 | 219 | Lazy Blockfall |
+| 833 | 218 | Dee Bill |
+| 834 | 218 | Dandy Dash |
+| 835 | 218 | Audrey Maxine |
+| 836 | 218 | Dreamy Tiler |
+| 837 | 217 | Razor |
+| 838 | 217 | skyguy26 |
+| 839 | 217 | Robin Allen |
+| 840 | 216 | Moe Mahmoud |
+| 841 | 216 | Sara Jean Leighton |
+| 842 | 216 | Crystal A Howe |
+| 843 | 216 | heyyy |
+| 844 | 215 | Grumpy D Feltcher III |
+| 845 | 215 | Stephanie Marie Kirk |
+| 846 | 215 | Brandy Thompson |
 | 847 | 214 | Kat_713 |
-| 848 | 214 | Sativa J Gill |
-| 849 | 213 | Michael Neubauer |
-| 850 | 213 | skunkybudz |
-| 851 | 213 | Chipper Shatterline |
-| 852 | 212 | Mikey Marie |
-| 853 | 212 | Randed |
-| 854 | 210 | Tiffany Janelle Keith-Davis |
-| 855 | 210 | Sarah Kemp |
-| 856 | 210 | Ryan Stewart |
-| 857 | 209 | Lazy Blockfall |
+| 848 | 214 | Firefly |
+| 849 | 214 | Sativa J Gill |
+| 850 | 213 | Michael Neubauer |
+| 851 | 213 | skunkybudz |
+| 852 | 213 | Chipper Shatterline |
+| 853 | 212 | Mikey Marie |
+| 854 | 212 | Randed |
+| 855 | 210 | Tiffany Janelle Keith-Davis |
+| 856 | 210 | Sarah Kemp |
+| 857 | 210 | Ryan Stewart |
 | 858 | 209 | Lucipurr |
 | 859 | 208 | chey |
 | 860 | 208 | Krystle Johnson |
@@ -889,8 +889,8 @@
 | 881 | 200 | Mike Hamley |
 | 882 | 200 | Ayyo Lala |
 | 883 | 199 | Fancy Matchpiece |
-| 884 | 199 | Loopy Crasher |
-| 885 | 199 | Crafty Pivotfall |
+| 884 | 199 | Crafty Pivotfall |
+| 885 | 199 | Loopy Crasher |
 | 886 | 199 | Lively Snapline |
 | 887 | 199 | Wilson Sosa |
 | 888 | 198 | Kiesha Ingram |

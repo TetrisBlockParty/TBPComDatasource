@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 11:50:18 UTC
+# Standings for team2 as of 2026-06-07 11:50:40 UTC
 
 **Total Participants:** 1712
 
@@ -1478,80 +1478,80 @@
 | 1470 | 15 | Haneef Akram |
 | 1471 | 15 | Sharon Wade |
 | 1472 | 15 | Michelle Shemon |
-| 1473 | 14 | Manuel Lucero Jr. |
-| 1474 | 14 | Flex |
-| 1475 | 14 | Angelica Champlin |
-| 1476 | 14 | Tyler Bates |
-| 1477 | 14 | MiMi’26 |
-| 1478 | 14 | Jenifer Gasho |
-| 1479 | 14 | Beaglemom |
-| 1480 | 14 | Susan R. Hammons Cunningham |
-| 1481 | 14 | Jodi Deninno |
-| 1482 | 14 | TiffTaff |
-| 1483 | 14 | Marshall Payne |
-| 1484 | 14 | Symmy Norton |
-| 1485 | 14 | Randi Moore |
-| 1486 | 14 | Toni Tortorici Humphryes |
-| 1487 | 14 | Joseph Austin Prince |
-| 1488 | 14 | Imat Yesmar |
-| 1489 | 14 | John Sewell |
-| 1490 | 14 | BlockBreaker |
-| 1491 | 14 | Christopher Pulley |
-| 1492 | 14 | Michele Choate |
-| 1493 | 14 | Chummy Smasher |
-| 1494 | 14 | Randy Taylor |
-| 1495 | 14 | Buffy Diane Blake |
-| 1496 | 13 | Patience Thompson |
-| 1497 | 13 | Judy Bailey |
-| 1498 | 13 | Cristy Ayala |
-| 1499 | 13 | Jill Gelhausen |
-| 1500 | 13 | Nickishan Richrds |
-| 1501 | 13 | Torb |
-| 1502 | 13 | Trena Sapp |
-| 1503 | 13 | Bad Juju |
-| 1504 | 13 | Smiley Clearer |
-| 1505 | 13 | Tara Feineis |
-| 1506 | 13 | lion king |
-| 1507 | 13 | BikerBorn BikerBred |
-| 1508 | 13 | Dreamy Wipepiece |
-| 1509 | 13 | Jeannine Murphy |
-| 1510 | 13 | Deborah Fowler |
-| 1511 | 12 | Sindy08 |
-| 1512 | 12 | Mariah Wells |
-| 1513 | 12 | Roberta Granados |
-| 1514 | 12 | Redangel |
-| 1515 | 12 | Silly Twister |
-| 1516 | 12 | Squyrt |
-| 1517 | 12 | Samantha Morrison |
-| 1518 | 12 | April Owings |
-| 1519 | 12 | Anarcho |
-| 1520 | 12 | Mary |
-| 1521 | 12 | Donna R. Banks |
-| 1522 | 12 | Jacob nitro |
-| 1523 | 12 | Frothy Line |
-| 1524 | 12 | Quirky Brickroll |
-| 1525 | 12 | Raymond Sadler |
-| 1526 | 12 | Phyllis DiCristo |
-| 1527 | 12 | Danid |
-| 1528 | 12 | Jolly Blockroll |
-| 1529 | 12 | Kjsranch |
-| 1530 | 12 | Swanky Fallmatch |
-| 1531 | 11 | Happy Shatterblock |
-| 1532 | 11 | Nutty Cascader |
-| 1533 | 11 | cole |
-| 1534 | 11 | Curley natioN |
-| 1535 | 11 | Amanda Nicholson |
-| 1536 | 11 | Merine Mott |
-| 1537 | 11 | Snappy Matchgrid |
-| 1538 | 11 | bob |
-| 1539 | 11 | Krystal Snow |
-| 1540 | 11 | Robert E Tracy |
-| 1541 | 11 | Kendra Sullins |
-| 1542 | 11 | Patty Smith |
-| 1543 | 11 | Cindy Brown |
-| 1544 | 11 | Spunky Snapfall |
-| 1545 | 11 | Purpleroyalty11 |
-| 1546 | 11 | Lou Sassole |
+| 1473 | 14 | Swanky Fallmatch |
+| 1474 | 14 | Manuel Lucero Jr. |
+| 1475 | 14 | Flex |
+| 1476 | 14 | Angelica Champlin |
+| 1477 | 14 | Tyler Bates |
+| 1478 | 14 | MiMi’26 |
+| 1479 | 14 | Jenifer Gasho |
+| 1480 | 14 | Beaglemom |
+| 1481 | 14 | Susan R. Hammons Cunningham |
+| 1482 | 14 | Jodi Deninno |
+| 1483 | 14 | TiffTaff |
+| 1484 | 14 | Marshall Payne |
+| 1485 | 14 | Symmy Norton |
+| 1486 | 14 | Randi Moore |
+| 1487 | 14 | Toni Tortorici Humphryes |
+| 1488 | 14 | Joseph Austin Prince |
+| 1489 | 14 | Imat Yesmar |
+| 1490 | 14 | John Sewell |
+| 1491 | 14 | BlockBreaker |
+| 1492 | 14 | Christopher Pulley |
+| 1493 | 14 | Michele Choate |
+| 1494 | 14 | Chummy Smasher |
+| 1495 | 14 | Randy Taylor |
+| 1496 | 14 | Buffy Diane Blake |
+| 1497 | 13 | Patience Thompson |
+| 1498 | 13 | Judy Bailey |
+| 1499 | 13 | Cristy Ayala |
+| 1500 | 13 | Jill Gelhausen |
+| 1501 | 13 | Nickishan Richrds |
+| 1502 | 13 | Torb |
+| 1503 | 13 | Trena Sapp |
+| 1504 | 13 | Bad Juju |
+| 1505 | 13 | Smiley Clearer |
+| 1506 | 13 | Tara Feineis |
+| 1507 | 13 | lion king |
+| 1508 | 13 | BikerBorn BikerBred |
+| 1509 | 13 | Dreamy Wipepiece |
+| 1510 | 13 | Jeannine Murphy |
+| 1511 | 13 | Deborah Fowler |
+| 1512 | 12 | Sindy08 |
+| 1513 | 12 | Mariah Wells |
+| 1514 | 12 | Roberta Granados |
+| 1515 | 12 | Redangel |
+| 1516 | 12 | Silly Twister |
+| 1517 | 12 | Squyrt |
+| 1518 | 12 | Samantha Morrison |
+| 1519 | 12 | April Owings |
+| 1520 | 12 | Anarcho |
+| 1521 | 12 | Mary |
+| 1522 | 12 | Donna R. Banks |
+| 1523 | 12 | Jacob nitro |
+| 1524 | 12 | Frothy Line |
+| 1525 | 12 | Quirky Brickroll |
+| 1526 | 12 | Raymond Sadler |
+| 1527 | 12 | Phyllis DiCristo |
+| 1528 | 12 | Danid |
+| 1529 | 12 | Jolly Blockroll |
+| 1530 | 12 | Kjsranch |
+| 1531 | 11 | Nutty Cascader |
+| 1532 | 11 | cole |
+| 1533 | 11 | Curley natioN |
+| 1534 | 11 | Amanda Nicholson |
+| 1535 | 11 | Merine Mott |
+| 1536 | 11 | Snappy Matchgrid |
+| 1537 | 11 | bob |
+| 1538 | 11 | Krystal Snow |
+| 1539 | 11 | Robert E Tracy |
+| 1540 | 11 | Kendra Sullins |
+| 1541 | 11 | Patty Smith |
+| 1542 | 11 | Cindy Brown |
+| 1543 | 11 | Spunky Snapfall |
+| 1544 | 11 | Purpleroyalty11 |
+| 1545 | 11 | Lou Sassole |
+| 1546 | 11 | Happy Shatterblock |
 | 1547 | 10 | Crasher |
 | 1548 | 10 | Breezy Ivy |
 | 1549 | 10 | April Appleton |

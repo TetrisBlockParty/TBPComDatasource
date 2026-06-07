@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 11:50:18 UTC
+# Standings for team4 as of 2026-06-07 11:50:40 UTC
 
 **Total Participants:** 1454
 
@@ -22,7 +22,7 @@
 | 14 | 4265 | Chris Hills |
 | 15 | 4246 | t |
 | 16 | 4139 | Bryony Nicholson |
-| 17 | 4078 | Bubbly Twistpiece |
+| 17 | 4088 | Bubbly Twistpiece |
 | 18 | 3917 | TitiLo72 |
 | 19 | 3784 | Tyra Brooke Everman Forest |
 | 20 | 3776 | Dana Smith |
