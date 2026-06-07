@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 04:46:19 UTC
+# Standings for team1 as of 2026-06-07 04:46:42 UTC
 
 **Total Participants:** 1351
 
@@ -17,9 +17,9 @@
 | 9 | 6150 | Songne Arif |
 | 10 | 5946 | Dyane Leah Ware |
 | 11 | 5508 | Jocelyn Pope-Sewell |
-| 12 | 5282 | Plucky Swipe |
-| 13 | 5114 | Hunter Rayborn |
-| 14 | 5000 | Tyeina Johnson |
+| 12 | 5300 | Tyeina Johnson |
+| 13 | 5282 | Plucky Swipe |
+| 14 | 5114 | Hunter Rayborn |
 | 15 | 4511 | Timothy Robert |
 | 16 | 3977 | Debbie Carswell |
 | 17 | 3039 | Chummy Combo |
@@ -38,7 +38,7 @@
 | 30 | 1785 | Jamie Willis |
 | 31 | 1614 | COSA303 |
 | 32 | 1602 | Brian Stackhouse |
-| 33 | 1457 | Markeeta Lipscomb |
+| 33 | 1501 | Markeeta Lipscomb |
 | 34 | 1445 | Erika Windom |
 | 35 | 1430 | Chris Russell |
 | 36 | 1429 | Jolly Dropzone |
@@ -236,12 +236,12 @@
 | 228 | 187 | Kenny MrOnethousand Peck |
 | 229 | 186 | Stephen Providenti |
 | 230 | 186 | Lesley Brunkus Cianfaglione |
-| 231 | 184 | Frisky Fall |
-| 232 | 184 | Dai Bo |
-| 233 | 182 | Queenie Perry |
-| 234 | 182 | Hyper Blocky |
-| 235 | 181 | Rachel Zimmerman |
-| 236 | 180 | Salim Thugger |
+| 231 | 185 | Salim Thugger |
+| 232 | 184 | Frisky Fall |
+| 233 | 184 | Dai Bo |
+| 234 | 182 | Queenie Perry |
+| 235 | 182 | Hyper Blocky |
+| 236 | 181 | Rachel Zimmerman |
 | 237 | 180 | Zippy Lifter |
 | 238 | 180 | Melissa D. M. Hornsby |
 | 239 | 179 | Amber Wilson |
@@ -261,35 +261,35 @@
 | 253 | 162 | JaClanDiah |
 | 254 | 162 | Amy Lynn Leifheit |
 | 255 | 162 | Clever Fitblock |
-| 256 | 160 | Spicy Risepiece |
-| 257 | 160 | Carolyn Smith |
-| 258 | 160 | Sara Meri |
-| 259 | 160 | Lively Riserpiece |
-| 260 | 159 | Brand Nu |
-| 261 | 159 | Fina McKinnis |
-| 262 | 159 | TBABYJ |
+| 256 | 160 | Carolyn Smith |
+| 257 | 160 | Sara Meri |
+| 258 | 160 | Lively Riserpiece |
+| 259 | 160 | Spicy Risepiece |
+| 260 | 159 | TBABYJ |
+| 261 | 159 | Brand Nu |
+| 262 | 159 | Fina McKinnis |
 | 263 | 158 | Kimberly Linares Hernandez |
 | 264 | 157 | Courtney Cicoria |
 | 265 | 156 | SceneGreenz Wali |
 | 266 | 156 | Cheeky Twistpiece |
-| 267 | 155 | Lazy Tiltpiece |
-| 268 | 155 | Poppy Buildout |
-| 269 | 154 | Sammie Walker |
-| 270 | 153 | Bre Poston |
+| 267 | 155 | Keke Ferguson |
+| 268 | 155 | Lazy Tiltpiece |
+| 269 | 155 | Poppy Buildout |
+| 270 | 154 | Sammie Walker |
 | 271 | 153 | Rackemwillie34 |
 | 272 | 153 | Tipsy Linkroll |
-| 273 | 152 | Jolly Tilefall |
-| 274 | 150 | Slinky Party |
-| 275 | 150 | Tanisha Taylor |
-| 276 | 149 | Slinky Snapbuilder |
-| 277 | 149 | Chasem45 |
-| 278 | 149 | HarleyJane |
-| 279 | 149 | Christopher Dreamsareality McEachin |
-| 280 | 147 | MACHETEEDDIE513 |
-| 281 | 147 | Telisha Mims |
-| 282 | 146 | Simone Bailey |
-| 283 | 146 | BlackQueen105 |
-| 284 | 146 | Keke Ferguson |
+| 273 | 153 | Bre Poston |
+| 274 | 152 | Jolly Tilefall |
+| 275 | 150 | Slinky Party |
+| 276 | 150 | Tanisha Taylor |
+| 277 | 149 | Slinky Snapbuilder |
+| 278 | 149 | Chasem45 |
+| 279 | 149 | HarleyJane |
+| 280 | 149 | Christopher Dreamsareality McEachin |
+| 281 | 147 | MACHETEEDDIE513 |
+| 282 | 147 | Telisha Mims |
+| 283 | 146 | Simone Bailey |
+| 284 | 146 | BlackQueen105 |
 | 285 | 143 | BULLSEYE |
 | 286 | 142 | Matthieu Pistone |
 | 287 | 142 | Charlene Baltimore |

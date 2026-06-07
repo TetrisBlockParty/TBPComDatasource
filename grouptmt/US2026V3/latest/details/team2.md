@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 04:46:19 UTC
+# Standings for team2 as of 2026-06-07 04:46:42 UTC
 
 **Total Participants:** 1606
 
@@ -216,33 +216,33 @@
 | 208 | 247 | Melissa Thomas |
 | 209 | 246 | Brooke Lynn Marie Adelaide |
 | 210 | 244 | DomDomsNana |
-| 211 | 241 | Boldy Wobbler |
-| 212 | 240 | PaiBri |
-| 213 | 238 | Rob Owens |
-| 214 | 237 | Lisa Underwood Desmond |
-| 215 | 237 | Michelle Luke Banta |
-| 216 | 236 | Lush Party |
-| 217 | 235 | Jat |
-| 218 | 235 | Tami Kay Williams Watson |
-| 219 | 234 | Larry Cross |
-| 220 | 234 | Chipper Stackbuilder |
-| 221 | 234 | AndyJo |
-| 222 | 233 | Amie Marks |
-| 223 | 232 | Pam Bauder Ludwig |
-| 224 | 230 | Kelly Vedder |
-| 225 | 230 | Brandy Chinelle |
-| 226 | 227 | Laura Melton |
-| 227 | 225 | Cheery Towerzone |
-| 228 | 224 | Kathleen Keogh Van Schoyck |
-| 229 | 223 | Chirpy Grid |
+| 211 | 243 | Chirpy Grid |
+| 212 | 241 | Boldy Wobbler |
+| 213 | 240 | PaiBri |
+| 214 | 238 | Rob Owens |
+| 215 | 237 | Lisa Underwood Desmond |
+| 216 | 237 | Michelle Luke Banta |
+| 217 | 236 | Lush Party |
+| 218 | 235 | Jat |
+| 219 | 235 | Tami Kay Williams Watson |
+| 220 | 234 | Larry Cross |
+| 221 | 234 | Chipper Stackbuilder |
+| 222 | 234 | AndyJo |
+| 223 | 233 | Amie Marks |
+| 224 | 232 | Pam Bauder Ludwig |
+| 225 | 230 | Kelly Vedder |
+| 226 | 230 | Brandy Chinelle |
+| 227 | 227 | Laura Melton |
+| 228 | 225 | Cheery Towerzone |
+| 229 | 224 | Kathleen Keogh Van Schoyck |
 | 230 | 222 | Margie Ann Naffziger |
 | 231 | 222 | Nikki EightySixed |
 | 232 | 221 | Dallas Runyan |
 | 233 | 221 | Bianca Woodruff |
-| 234 | 220 | Flashy Basegrid |
-| 235 | 220 | Lora Via |
-| 236 | 219 | Stella |
-| 237 | 219 | Cathy Tippett |
+| 234 | 220 | Lora Via |
+| 235 | 220 | Flashy Basegrid |
+| 236 | 219 | Cathy Tippett |
+| 237 | 219 | Stella |
 | 238 | 218 | Amy Nicole McCanne |
 | 239 | 217 | Amanda Priddy |
 | 240 | 217 | Elizabeth Henry |
@@ -250,14 +250,14 @@
 | 242 | 214 | Stephany Green |
 | 243 | 212 | Sully |
 | 244 | 211 | AndrewandShela Gornik |
-| 245 | 209 | Patria Osuoha |
-| 246 | 209 | Logan Duffey |
-| 247 | 209 | Chill Line |
+| 245 | 209 | Logan Duffey |
+| 246 | 209 | Chill Line |
+| 247 | 209 | Patria Osuoha |
 | 248 | 207 | Amber Cogdill |
 | 249 | 206 | Liseth Vasquez |
 | 250 | 206 | Jodi Johnson |
-| 251 | 205 | Melisa |
-| 252 | 205 | Jeanna Mendez |
+| 251 | 205 | Jeanna Mendez |
+| 252 | 205 | Melisa |
 | 253 | 205 | Karly Moore |
 | 254 | 201 | Jeffrey Smith |
 | 255 | 201 | Danielle Pack Lewellen |
