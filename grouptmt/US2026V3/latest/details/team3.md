@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-07 10:44:19 UTC
+# Standings for team3 as of 2026-06-07 10:44:39 UTC
 
 **Total Participants:** 5434
 
@@ -2176,12 +2176,12 @@
 | 2168 | 74 | Jazzi A Cruz |
 | 2169 | 74 | AB Cool |
 | 2170 | 74 | Carlos Ceja |
-| 2171 | 74 | ray |
-| 2172 | 74 | Nykole Walton |
+| 2171 | 74 | Nykole Walton |
+| 2172 | 74 | ray |
 | 2173 | 74 | Brooke Ickes |
 | 2174 | 74 | Blocc Head 318 |
-| 2175 | 74 | Noona57 |
-| 2176 | 74 | Gary |
+| 2175 | 74 | Gary |
+| 2176 | 74 | Noona57 |
 | 2177 | 74 | TheG3ntlemen |
 | 2178 | 74 | Julie Ellston |
 | 2179 | 74 | yotagirl13 |
@@ -2200,131 +2200,131 @@
 | 2192 | 73 | Justin Webber |
 | 2193 | 73 | Candace Dillon |
 | 2194 | 73 | Johnathan Holley |
-| 2195 | 73 | Happy Crasher |
+| 2195 | 73 | Brandi Thomas-Scott |
 | 2196 | 73 | Kee Love |
-| 2197 | 73 | Christina Rodriguez |
-| 2198 | 73 | Courtney Shelton |
-| 2199 | 73 | Giddy Gridlock |
-| 2200 | 73 | Nicole Bowen |
-| 2201 | 73 | Garrett Burket |
-| 2202 | 73 | Brandi Thomas-Scott |
+| 2197 | 73 | Happy Crasher |
+| 2198 | 73 | Christina Rodriguez |
+| 2199 | 73 | Courtney Shelton |
+| 2200 | 73 | Giddy Gridlock |
+| 2201 | 73 | Nicole Bowen |
+| 2202 | 73 | Garrett Burket |
 | 2203 | 73 | Shawn Humburg |
-| 2204 | 73 | Angelia Pillow |
+| 2204 | 73 | Giggly Rollzone |
 | 2205 | 73 | Marlene Schubert |
-| 2206 | 72 | Gloria Hall |
-| 2207 | 72 | Frilly Corner |
-| 2208 | 72 | Miranda Lynn Snow |
-| 2209 | 72 | Florence |
-| 2210 | 72 | Danielle |
-| 2211 | 72 | Tony Pridmore |
-| 2212 | 72 | Abby White |
-| 2213 | 72 | Kelsey Kelley |
-| 2214 | 72 | Serena Jackson |
-| 2215 | 72 | Dub 999 |
-| 2216 | 72 | Rachel Kallenborn |
-| 2217 | 72 | Dandy Snapper |
-| 2218 | 72 | LocalZombie |
-| 2219 | 72 | Lilith2004 |
+| 2206 | 73 | Angelia Pillow |
+| 2207 | 72 | Serena Jackson |
+| 2208 | 72 | Gloria Hall |
+| 2209 | 72 | Frilly Corner |
+| 2210 | 72 | Miranda Lynn Snow |
+| 2211 | 72 | Danielle |
+| 2212 | 72 | Florence |
+| 2213 | 72 | Abby White |
+| 2214 | 72 | Tony Pridmore |
+| 2215 | 72 | Kelsey Kelley |
+| 2216 | 72 | Dub 999 |
+| 2217 | 72 | Rachel Kallenborn |
+| 2218 | 72 | Dandy Snapper |
+| 2219 | 72 | LocalZombie |
 | 2220 | 72 | Alisha Hojem |
-| 2221 | 72 | Trina Regester |
-| 2222 | 72 | Truli |
-| 2223 | 72 | Shaq Wolf |
-| 2224 | 72 | Bear |
-| 2225 | 72 | Amy Larymore |
-| 2226 | 72 | SnailorMoon |
-| 2227 | 71 | Erik Castillo |
-| 2228 | 71 | Monica Salas |
-| 2229 | 71 | Elizabeth Braunscheidel |
-| 2230 | 71 | Jazzy Bridgepiece |
-| 2231 | 71 | Margie Howard |
+| 2221 | 72 | Lilith2004 |
+| 2222 | 72 | Trina Regester |
+| 2223 | 72 | Truli |
+| 2224 | 72 | Shaq Wolf |
+| 2225 | 72 | Bear |
+| 2226 | 72 | Amy Larymore |
+| 2227 | 72 | SnailorMoon |
+| 2228 | 71 | Erik Castillo |
+| 2229 | 71 | Monica Salas |
+| 2230 | 71 | Elizabeth Braunscheidel |
+| 2231 | 71 | Jazzy Bridgepiece |
 | 2232 | 71 | Glitzy Glidezone |
-| 2233 | 71 | Crink |
+| 2233 | 71 | Margie Howard |
 | 2234 | 71 | Anna Parvin Sims |
-| 2235 | 71 | Dreamy Dashfit |
-| 2236 | 71 | Just me |
+| 2235 | 71 | Crink |
+| 2236 | 71 | Dreamy Dashfit |
 | 2237 | 71 | L |
-| 2238 | 71 | Angel Diaz |
-| 2239 | 71 | Marcia Mauldin |
-| 2240 | 71 | Jeanitte Farmer |
+| 2238 | 71 | Just me |
+| 2239 | 71 | Jeanitte Farmer |
+| 2240 | 71 | Angel Diaz |
 | 2241 | 71 | Chris Seeman |
 | 2242 | 71 | Goddes S Griffin |
-| 2243 | 70 | Rose Martinez |
-| 2244 | 70 | Jennifer Zapata |
-| 2245 | 70 | Nadira Mohamed |
-| 2246 | 70 | Teresa Flowers |
-| 2247 | 70 | Kathy55 |
-| 2248 | 70 | Chris Smigz |
-| 2249 | 70 | Dana Sessions |
-| 2250 | 70 | Ryan Heller |
-| 2251 | 70 | Amanda Irene |
-| 2252 | 70 | Lunas 2502 |
-| 2253 | 70 | Jazzy Glidezone |
-| 2254 | 70 | Eric Hanson |
-| 2255 | 70 | Spunky Piececlear |
-| 2256 | 70 | Chris Cronin |
-| 2257 | 70 | Keylolizzle |
-| 2258 | 70 | Ivelisse Gaston |
-| 2259 | 70 | Samantha George |
-| 2260 | 70 | Rebel Shepherd |
-| 2261 | 70 | Gramma3 |
-| 2262 | 70 | Epic Wipebuilder |
-| 2263 | 70 | Holly Wendler |
-| 2264 | 70 | DaCard Guy |
-| 2265 | 70 | ChaoticJynx |
-| 2266 | 70 | Nikki |
-| 2267 | 70 | Swanky Brickfit |
-| 2268 | 70 | Angie Trosper |
-| 2269 | 70 | Stacy Renee |
-| 2270 | 70 | Destiny Rex |
-| 2271 | 70 | Bethycakes |
-| 2272 | 70 | Adam Esparza |
-| 2273 | 70 | Ashley Moreno |
-| 2274 | 70 | Debbie Garcia |
-| 2275 | 70 | Natasha Marie Pelaez |
-| 2276 | 70 | brb |
-| 2277 | 70 | Michelle Osborne |
-| 2278 | 70 | Brooke Salvi |
-| 2279 | 70 | Chrispy |
-| 2280 | 70 | Debbie Cakez |
-| 2281 | 70 | Sheryl Meador Nester |
-| 2282 | 70 | PsychOut |
-| 2283 | 70 | Beth Forrester |
-| 2284 | 70 | Patty Jones |
-| 2285 | 70 | Jacyrendipitous |
-| 2286 | 69 | Honey |
-| 2287 | 69 | Funky Slamdrop |
-| 2288 | 69 | Jalek Vaden |
-| 2289 | 69 | Diana Dodson Watkins |
-| 2290 | 69 | Groovy Balance |
-| 2291 | 69 | Tara Scharde |
-| 2292 | 69 | Mikayla Marie Westmoreland |
-| 2293 | 69 | iggy |
-| 2294 | 69 | Sammie Wick |
-| 2295 | 69 | Lush Balancer |
-| 2296 | 69 | Paige Williamson |
-| 2297 | 69 | Giggly Brickbuilder |
-| 2298 | 69 | Erica Henry |
-| 2299 | 69 | Caitlin Doyle |
-| 2300 | 69 | Kassandra Rose Sandberg |
-| 2301 | 69 | Mike Collar |
-| 2302 | 69 | Bold Liner |
-| 2303 | 69 | Lola Monroe |
-| 2304 | 69 | Gwendolyn Bowman |
-| 2305 | 69 | Giggly Rollzone |
-| 2306 | 69 | Stephanie Sagan |
+| 2243 | 71 | Marcia Mauldin |
+| 2244 | 70 | Kathy55 |
+| 2245 | 70 | Chris Cronin |
+| 2246 | 70 | Spunky Piececlear |
+| 2247 | 70 | Keylolizzle |
+| 2248 | 70 | Eric Hanson |
+| 2249 | 70 | Lunas 2502 |
+| 2250 | 70 | Dana Sessions |
+| 2251 | 70 | Jazzy Glidezone |
+| 2252 | 70 | Rose Martinez |
+| 2253 | 70 | Chris Smigz |
+| 2254 | 70 | Nadira Mohamed |
+| 2255 | 70 | Jennifer Zapata |
+| 2256 | 70 | Teresa Flowers |
+| 2257 | 70 | Samantha George |
+| 2258 | 70 | Ryan Heller |
+| 2259 | 70 | Holly Wendler |
+| 2260 | 70 | Nikki |
+| 2261 | 70 | Rebel Shepherd |
+| 2262 | 70 | Gramma3 |
+| 2263 | 70 | Ivelisse Gaston |
+| 2264 | 70 | Destiny Rex |
+| 2265 | 70 | Bethycakes |
+| 2266 | 70 | Adam Esparza |
+| 2267 | 70 | Angie Trosper |
+| 2268 | 70 | Stacy Renee |
+| 2269 | 70 | ChaoticJynx |
+| 2270 | 70 | DaCard Guy |
+| 2271 | 70 | Swanky Brickfit |
+| 2272 | 70 | Amanda Irene |
+| 2273 | 70 | Epic Wipebuilder |
+| 2274 | 70 | Ashley Moreno |
+| 2275 | 70 | Debbie Garcia |
+| 2276 | 70 | Natasha Marie Pelaez |
+| 2277 | 70 | brb |
+| 2278 | 70 | Michelle Osborne |
+| 2279 | 70 | Brooke Salvi |
+| 2280 | 70 | Chrispy |
+| 2281 | 70 | Debbie Cakez |
+| 2282 | 70 | Sheryl Meador Nester |
+| 2283 | 70 | PsychOut |
+| 2284 | 70 | Beth Forrester |
+| 2285 | 70 | Patty Jones |
+| 2286 | 70 | Jacyrendipitous |
+| 2287 | 69 | Honey |
+| 2288 | 69 | Funky Slamdrop |
+| 2289 | 69 | Jalek Vaden |
+| 2290 | 69 | Diana Dodson Watkins |
+| 2291 | 69 | Groovy Balance |
+| 2292 | 69 | Tara Scharde |
+| 2293 | 69 | Mikayla Marie Westmoreland |
+| 2294 | 69 | iggy |
+| 2295 | 69 | Sammie Wick |
+| 2296 | 69 | Lush Balancer |
+| 2297 | 69 | Paige Williamson |
+| 2298 | 69 | Giggly Brickbuilder |
+| 2299 | 69 | Erica Henry |
+| 2300 | 69 | Caitlin Doyle |
+| 2301 | 69 | Kassandra Rose Sandberg |
+| 2302 | 69 | Gary Williams |
+| 2303 | 69 | Jaime Gardner |
+| 2304 | 69 | Lola Monroe |
+| 2305 | 69 | Stephanie Sagan |
+| 2306 | 69 | Gwendolyn Bowman |
 | 2307 | 69 | Jason Abbott |
 | 2308 | 69 | Jon McCall |
 | 2309 | 69 | Patricia Kelley |
 | 2310 | 69 | Kyle Corleone |
 | 2311 | 69 | Julie Halliday |
 | 2312 | 69 | Dana Wikner |
-| 2313 | 69 | Andrea Snider |
-| 2314 | 69 | Cozy Linkfall |
+| 2313 | 69 | Cozy Linkfall |
+| 2314 | 69 | Andrea Snider |
 | 2315 | 69 | Debra Jackson |
-| 2316 | 69 | Gary Williams |
+| 2316 | 69 | Bold Liner |
 | 2317 | 69 | Traveyontaye Parks |
 | 2318 | 69 | Tinamarie1214 |
-| 2319 | 69 | Jaime Gardner |
+| 2319 | 69 | Mike Collar |
 | 2320 | 68 | Miranda Deffenbaugh |
 | 2321 | 68 | Carolyn Smith |
 | 2322 | 68 | Melissa Lovins |
