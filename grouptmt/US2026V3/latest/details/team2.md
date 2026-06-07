@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 03:38:19 UTC
+# Standings for team2 as of 2026-06-07 03:38:41 UTC
 
 **Total Participants:** 1574
 
@@ -155,9 +155,9 @@
 | 147 | 344 | Traci Abern |
 | 148 | 343 | Theresa Marie |
 | 149 | 342 | Bri St Peter |
-| 150 | 340 | Mom |
-| 151 | 337 | Jason Cook |
-| 152 | 335 | Amy Gregg |
+| 150 | 340 | Amy Gregg |
+| 151 | 340 | Mom |
+| 152 | 337 | Jason Cook |
 | 153 | 328 | Tim Tim |
 | 154 | 328 | Keri Mears |
 | 155 | 323 | Shannon Wilson |
@@ -593,22 +593,22 @@
 | 585 | 74 | Bethany Nestor |
 | 586 | 74 | Laurie |
 | 587 | 74 | Valeri Bradley |
-| 588 | 73 | BugMansMom |
+| 588 | 73 | Camilo Moreno |
 | 589 | 73 | Chirpy Combofall |
 | 590 | 73 | Sunny Spinzone |
-| 591 | 72 | Audrey Bickford |
-| 592 | 72 | Kendi |
-| 593 | 72 | Barb Kiser |
-| 594 | 72 | Stephanie Smith Robinson |
-| 595 | 72 | Stacy Lynn |
-| 596 | 72 | Mary Whitaker |
-| 597 | 72 | Dawnypooh |
-| 598 | 71 | Groovy Glider |
-| 599 | 71 | John C Morrison |
-| 600 | 71 | Violet Olivares |
+| 591 | 73 | BugMansMom |
+| 592 | 72 | Audrey Bickford |
+| 593 | 72 | Kendi |
+| 594 | 72 | Barb Kiser |
+| 595 | 72 | Stephanie Smith Robinson |
+| 596 | 72 | Stacy Lynn |
+| 597 | 72 | Mary Whitaker |
+| 598 | 72 | Dawnypooh |
+| 599 | 71 | Groovy Glider |
+| 600 | 71 | John C Morrison |
 | 601 | 71 | CATFISH |
 | 602 | 71 | Erin Lemanski |
-| 603 | 71 | Camilo Moreno |
+| 603 | 71 | Violet Olivares |
 | 604 | 71 | Sandy Lynn |
 | 605 | 71 | Amanda Bottorff |
 | 606 | 71 | Yari |

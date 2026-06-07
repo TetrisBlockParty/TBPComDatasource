@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:38:19 UTC
+# Standings for team1 as of 2026-06-07 03:38:41 UTC
 
 **Total Participants:** 1323
 
@@ -94,19 +94,19 @@
 | 86 | 597 | Big Tina |
 | 87 | 587 | KenpachisGirl |
 | 88 | 586 | Kellie Hall |
-| 89 | 552 | Carolynne Walker-Bell |
-| 90 | 550 | PandaPrincess |
-| 91 | 548 | Ottison Dianna |
-| 92 | 541 | Andi McGreevy |
-| 93 | 527 | MommaCia |
-| 94 | 526 | Voice |
-| 95 | 524 | Keeta Chickswit Scott |
-| 96 | 513 | Moomoo |
-| 97 | 511 | Abraham Espaillat |
-| 98 | 511 | Dizzy Dropper |
-| 99 | 510 | Cj Gorman |
-| 100 | 495 | W.A. Simpson |
-| 101 | 485 | Jamie Willis |
+| 89 | 585 | Jamie Willis |
+| 90 | 564 | Voice |
+| 91 | 552 | Carolynne Walker-Bell |
+| 92 | 550 | PandaPrincess |
+| 93 | 548 | Ottison Dianna |
+| 94 | 541 | Andi McGreevy |
+| 95 | 527 | MommaCia |
+| 96 | 524 | Keeta Chickswit Scott |
+| 97 | 513 | Moomoo |
+| 98 | 511 | Abraham Espaillat |
+| 99 | 511 | Dizzy Dropper |
+| 100 | 510 | Cj Gorman |
+| 101 | 495 | W.A. Simpson |
 | 102 | 477 | Chenell Gillard |
 | 103 | 475 | Gael Quintana |
 | 104 | 475 | Quirky Fallgrid |
