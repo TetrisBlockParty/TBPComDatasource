@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:26:41 UTC
+# Standings for team1 as of 2026-06-07 08:27:17 UTC
 
 **Total Participants:** 1424
 
@@ -890,50 +890,50 @@
 | 882 | 40 | Marcello Rush |
 | 883 | 40 | PattyPower |
 | 884 | 40 | Mikemike Zonethree |
-| 885 | 40 | Abby |
-| 886 | 40 | Motown Chuck |
-| 887 | 40 | Brittany Britkany Marsden-Garrison |
-| 888 | 39 | Marbama |
-| 889 | 39 | Lozuna |
-| 890 | 39 | BP Phillips |
-| 891 | 39 | Juanita Quezaire |
-| 892 | 39 | Chris Holland |
-| 893 | 39 | Laysa Nunez |
-| 894 | 39 | Diva shrock |
-| 895 | 39 | TY Newme Batts |
-| 896 | 39 | Boymama917 |
+| 885 | 40 | Laura Wesley |
+| 886 | 40 | Abby |
+| 887 | 40 | Motown Chuck |
+| 888 | 40 | Brittany Britkany Marsden-Garrison |
+| 889 | 39 | Juanita Quezaire |
+| 890 | 39 | Lozuna |
+| 891 | 39 | Diva shrock |
+| 892 | 39 | Marbama |
+| 893 | 39 | BP Phillips |
+| 894 | 39 | Chris Holland |
+| 895 | 39 | Laysa Nunez |
+| 896 | 39 | TY Newme Batts |
 | 897 | 39 | Meepycat |
-| 898 | 39 | Ameillia Boughner |
-| 899 | 39 | S.S |
-| 900 | 39 | Tina Blessed Cage |
-| 901 | 39 | Naee Bee |
-| 902 | 38 | Jroc Tyra Taylor |
+| 898 | 39 | Boymama917 |
+| 899 | 39 | Tina Blessed Cage |
+| 900 | 39 | Naee Bee |
+| 901 | 39 | S.S |
+| 902 | 39 | Ameillia Boughner |
 | 903 | 38 | Spicy Tiler |
 | 904 | 38 | Kayel Good |
 | 905 | 38 | Krista Shanice |
-| 906 | 38 | Phoenix |
-| 907 | 38 | William Vidra |
+| 906 | 38 | William Vidra |
+| 907 | 38 | Jroc Tyra Taylor |
 | 908 | 38 | hope |
 | 909 | 38 | Kahliah Baker |
-| 910 | 38 | Undeniable Williams |
-| 911 | 38 | Monica Fields |
-| 912 | 38 | Quwana Hall |
-| 913 | 37 | Megan Jones |
+| 910 | 38 | Monica Fields |
+| 911 | 38 | Undeniable Williams |
+| 912 | 38 | Phoenix |
+| 913 | 38 | Quwana Hall |
 | 914 | 37 | Richelle Beck |
 | 915 | 37 | Raquele Hines |
 | 916 | 37 | Kendra KJ Joyner |
-| 917 | 37 | Kween Pilot |
-| 918 | 37 | Felicia Yahuah Johnson |
-| 919 | 37 | Jb Mzresilience |
-| 920 | 37 | Lil T |
-| 921 | 37 | Spunky Strikerbuilder |
-| 922 | 37 | Chris Rogers |
-| 923 | 37 | Laura Wesley |
+| 917 | 37 | Megan Jones |
+| 918 | 37 | Kween Pilot |
+| 919 | 37 | Felicia Yahuah Johnson |
+| 920 | 37 | Jb Mzresilience |
+| 921 | 37 | Lil T |
+| 922 | 37 | Spunky Strikerbuilder |
+| 923 | 37 | Chris Rogers |
 | 924 | 36 | LaMinda Todd |
 | 925 | 36 | Frilly Lifter |
 | 926 | 36 | Geneva Carter |
-| 927 | 36 | Mazi Johnson |
-| 928 | 36 | Ivan Israel |
+| 927 | 36 | Ivan Israel |
+| 928 | 36 | Mazi Johnson |
 | 929 | 36 | tg |
 | 930 | 36 | Meluhnee |
 | 931 | 35 | Andra Ward |

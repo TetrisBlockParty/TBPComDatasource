@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 08:26:41 UTC
+# Standings for team2 as of 2026-06-07 08:27:17 UTC
 
 **Total Participants:** 1680
 
@@ -318,55 +318,55 @@
 | 310 | 176 | Kim Hunt |
 | 311 | 175 | Michelle M Braley |
 | 312 | 175 | Tina Marie |
-| 313 | 175 | Lashanda Bertram |
-| 314 | 175 | Epic Tilemaker |
+| 313 | 175 | Epic Tilemaker |
+| 314 | 175 | Lashanda Bertram |
 | 315 | 174 | ZBee |
 | 316 | 174 | Rocroc mo |
-| 317 | 174 | Jerry L Morales |
-| 318 | 172 | Victoria Pale |
-| 319 | 172 | Mikia Stokes |
-| 320 | 172 | Carolyn McNaughton |
-| 321 | 170 | Harper |
+| 317 | 174 | Joanna Trevin Thompson |
+| 318 | 174 | Jerry L Morales |
+| 319 | 172 | Carolyn McNaughton |
+| 320 | 172 | Mikia Stokes |
+| 321 | 172 | Victoria Pale |
 | 322 | 170 | Thomas Tyrone |
 | 323 | 170 | Bengy Lead |
-| 324 | 169 | Angie Bishop |
-| 325 | 169 | Derrick |
-| 326 | 168 | Missy Renia |
-| 327 | 168 | StacyBabee |
-| 328 | 168 | Avie Lou |
+| 324 | 170 | Harper |
+| 325 | 169 | Angie Bishop |
+| 326 | 169 | Derrick |
+| 327 | 168 | Danielle Lyons |
+| 328 | 168 | Spicy Risegrid |
 | 329 | 168 | Chasity Simpson |
-| 330 | 168 | Spicy Risegrid |
-| 331 | 168 | Danielle Lyons |
-| 332 | 166 | Kimmyc |
-| 333 | 165 | Joanna Trevin Thompson |
+| 330 | 168 | Avie Lou |
+| 331 | 168 | StacyBabee |
+| 332 | 168 | Missy Renia |
+| 333 | 166 | Kimmyc |
 | 334 | 165 | Lindsey Ford |
-| 335 | 164 | Aldotfus Williams |
-| 336 | 164 | Elliott Mikila |
+| 335 | 164 | Elliott Mikila |
+| 336 | 164 | Aldotfus Williams |
 | 337 | 164 | Cara Rivera |
 | 338 | 163 | Zany Cascader |
 | 339 | 162 | Wacky Holder |
-| 340 | 161 | Silly Tiltbuilder |
-| 341 | 161 | Erica South |
-| 342 | 160 | Sassy Twistbuilder |
+| 340 | 161 | Sassy Twistbuilder |
+| 341 | 161 | Silly Tiltbuilder |
+| 342 | 161 | Erica South |
 | 343 | 160 | Elizabeth Cornelius |
 | 344 | 160 | Melmel |
 | 345 | 159 | Misty Noe |
-| 346 | 159 | Jason Cunningham |
-| 347 | 159 | Jennifer Vitro |
-| 348 | 158 | Rachel Nilles |
-| 349 | 158 | KazzyKay |
+| 346 | 159 | Jennifer Vitro |
+| 347 | 159 | Jason Cunningham |
+| 348 | 158 | KazzyKay |
+| 349 | 158 | Rachel Nilles |
 | 350 | 157 | Spicy Snapclear |
-| 351 | 156 | Monique Frantz |
-| 352 | 156 | meg |
-| 353 | 156 | Charlotte Castelli |
-| 354 | 156 | Jamie Fenyus |
-| 355 | 156 | Tango Sierra |
-| 356 | 154 | murd3rmous3 |
-| 357 | 154 | Alonzo Reed |
+| 351 | 156 | Charlotte Castelli |
+| 352 | 156 | Tango Sierra |
+| 353 | 156 | Jamie Fenyus |
+| 354 | 156 | meg |
+| 355 | 156 | Monique Frantz |
+| 356 | 154 | Alonzo Reed |
+| 357 | 154 | murd3rmous3 |
 | 358 | 153 | Cortney Coleman |
-| 359 | 151 | Amanda Bottorff |
+| 359 | 151 | Amy Lea Hamilton |
 | 360 | 151 | Marilyn Mendoza |
-| 361 | 151 | Amy Lea Hamilton |
+| 361 | 151 | Amanda Bottorff |
 | 362 | 150 | Camilo Moreno |
 | 363 | 150 | Crystal Poss |
 | 364 | 150 | Zany Wrecker |
