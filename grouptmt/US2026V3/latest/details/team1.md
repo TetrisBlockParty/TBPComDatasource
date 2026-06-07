@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 15:38:40 UTC
+# Standings for team1 as of 2026-06-07 15:39:18 UTC
 
 **Total Participants:** 1495
 
@@ -88,18 +88,18 @@
 | 80 | 763 | Richard Horton |
 | 81 | 749 | Aviv Zehavi |
 | 82 | 710 | ing410 |
-| 83 | 689 | Jaida King |
-| 84 | 688 | Dawn L Washington-Feuquay |
-| 85 | 679 | Chirpy Corner |
-| 86 | 678 | No_Other_Choice |
-| 87 | 677 | Eartha Brown |
-| 88 | 668 | Jonathan Vee Jay |
-| 89 | 667 | Moomoo |
-| 90 | 667 | Sarah Marie |
-| 91 | 661 | Kellie Hall |
-| 92 | 658 | Felicia Williams |
-| 93 | 647 | She Higgy |
-| 94 | 641 | Ceilo Marie |
+| 83 | 701 | Ceilo Marie |
+| 84 | 689 | Jaida King |
+| 85 | 688 | Dawn L Washington-Feuquay |
+| 86 | 679 | Chirpy Corner |
+| 87 | 678 | No_Other_Choice |
+| 88 | 677 | Eartha Brown |
+| 89 | 668 | Jonathan Vee Jay |
+| 90 | 667 | Moomoo |
+| 91 | 667 | Sarah Marie |
+| 92 | 661 | Kellie Hall |
+| 93 | 658 | Felicia Williams |
+| 94 | 647 | She Higgy |
 | 95 | 620 | IamJust Neyamijah Washington Sr. |
 | 96 | 613 | Big Tina |
 | 97 | 604 | Cee Emm |
