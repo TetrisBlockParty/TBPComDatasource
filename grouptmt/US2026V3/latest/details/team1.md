@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:28:19 UTC
+# Standings for team1 as of 2026-06-07 10:28:38 UTC
 
 **Total Participants:** 1439
 
@@ -106,8 +106,8 @@
 | 98 | 568 | MamaBear |
 | 99 | 564 | Voice |
 | 100 | 552 | Carolynne Walker-Bell |
-| 101 | 548 | Ottison Dianna |
-| 102 | 547 | Moomoo |
+| 101 | 551 | Moomoo |
+| 102 | 548 | Ottison Dianna |
 | 103 | 541 | Andi McGreevy |
 | 104 | 527 | MommaCia |
 | 105 | 518 | Quirky Fallgrid |
@@ -380,14 +380,14 @@
 | 372 | 123 | Cauiasia DeJ'ae |
 | 373 | 122 | Xana Zania Bopp |
 | 374 | 122 | Yashica Smith |
-| 375 | 121 | Shanaa Germany Crittenden |
-| 376 | 121 | Tiana Monique |
-| 377 | 121 | Tee Spinks |
-| 378 | 120 | Teri Marie Clayton |
-| 379 | 120 | Tanya Clayton |
+| 375 | 121 | Tiana Monique |
+| 376 | 121 | Tee Spinks |
+| 377 | 121 | Shanaa Germany Crittenden |
+| 378 | 120 | Tanya Clayton |
+| 379 | 120 | Teri Marie Clayton |
 | 380 | 120 | Daddy |
-| 381 | 120 | Guy Incognito |
-| 382 | 120 | Katrina Ramey |
+| 381 | 120 | Katrina Ramey |
+| 382 | 120 | Guy Incognito |
 | 383 | 119 | Lexx Robins |
 | 384 | 119 | Kelvin Cook |
 | 385 | 118 | Hasty Pivoty |
@@ -395,14 +395,14 @@
 | 387 | 117 | Choc |
 | 388 | 117 | MonaSparks |
 | 389 | 116 | Shalya Terry |
-| 390 | 115 | Ashleyy Netchert |
-| 391 | 115 | wmedina67 |
-| 392 | 115 | BabyCakes |
-| 393 | 114 | Faith Armone |
-| 394 | 114 | LAhoneybun82 |
-| 395 | 114 | Nina Davis |
-| 396 | 113 | Shakuria Cortia Burney |
-| 397 | 113 | Douglas Price |
+| 390 | 116 | Douglas Price |
+| 391 | 115 | Ashleyy Netchert |
+| 392 | 115 | wmedina67 |
+| 393 | 115 | BabyCakes |
+| 394 | 114 | Faith Armone |
+| 395 | 114 | LAhoneybun82 |
+| 396 | 114 | Nina Davis |
+| 397 | 113 | Shakuria Cortia Burney |
 | 398 | 112 | GamerQueenDS |
 | 399 | 112 | Jennah |
 | 400 | 112 | Nyhlah Patterson |
