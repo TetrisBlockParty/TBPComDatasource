@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 03:50:19 UTC
+# Standings for team1 as of 2026-06-07 03:50:42 UTC
 
 **Total Participants:** 1328
 
@@ -16,10 +16,10 @@
 | 8 | 6679 | Death by SnuSnu |
 | 9 | 6150 | Songne Arif |
 | 10 | 5946 | Dyane Leah Ware |
-| 11 | 5282 | Plucky Swipe |
-| 12 | 5114 | Hunter Rayborn |
-| 13 | 5000 | Tyeina Johnson |
-| 14 | 4982 | Jocelyn Pope-Sewell |
+| 11 | 5282 | Jocelyn Pope-Sewell |
+| 12 | 5282 | Plucky Swipe |
+| 13 | 5114 | Hunter Rayborn |
+| 14 | 5000 | Tyeina Johnson |
 | 15 | 4511 | Timothy Robert |
 | 16 | 3899 | Debbie Carswell |
 | 17 | 3039 | Chummy Combo |
@@ -247,11 +247,11 @@
 | 239 | 171 | Cheeky Pop |
 | 240 | 169 | Jai |
 | 241 | 169 | Asha Langford |
-| 242 | 168 | Tina Mitchell |
-| 243 | 167 | Richard Flex |
+| 242 | 168 | Richard Flex |
+| 243 | 168 | Tina Mitchell |
 | 244 | 166 | Tarnisha Neicy Jones |
-| 245 | 166 | LaShaun Stinson |
-| 246 | 166 | 신재호 |
+| 245 | 166 | 신재호 |
+| 246 | 166 | LaShaun Stinson |
 | 247 | 165 | Queenie Perry |
 | 248 | 163 | Mafio SO |
 | 249 | 162 | JaClanDiah |
@@ -713,62 +713,62 @@
 | 705 | 48 | LaTonya Rivers |
 | 706 | 48 | Wild Out Nai |
 | 707 | 48 | Bubbly Crawler |
-| 708 | 48 | Rhianna Dinki Austin |
-| 709 | 48 | Rieshelda Marie White |
+| 708 | 48 | Rieshelda Marie White |
+| 709 | 48 | Rhianna Dinki Austin |
 | 710 | 48 | LoveLee |
 | 711 | 47 | Tyrone Porter |
-| 712 | 47 | Tushama Cheris Okraku |
-| 713 | 47 | Mami Badd |
-| 714 | 47 | Kevin Turner |
-| 715 | 47 | Denise Cunningham-English |
-| 716 | 47 | Jessie N Michael Silvers |
-| 717 | 47 | Jojo M |
-| 718 | 47 | Jodie |
+| 712 | 47 | Shawna Passwater |
+| 713 | 47 | Tushama Cheris Okraku |
+| 714 | 47 | Mami Badd |
+| 715 | 47 | Kevin Turner |
+| 716 | 47 | Denise Cunningham-English |
+| 717 | 47 | Jessie N Michael Silvers |
+| 718 | 47 | Jojo M |
 | 719 | 47 | RylonJones |
-| 720 | 47 | Octavia Bsb Johnson |
-| 721 | 46 | Felicia Dungey |
-| 722 | 46 | Ja'mice Nelson |
-| 723 | 46 | Shawna Passwater |
-| 724 | 46 | Kimberly Red |
-| 725 | 46 | NewEve |
-| 726 | 46 | Jenni |
-| 727 | 46 | Rosalind Chatman |
-| 728 | 46 | TrapQween39Bi |
-| 729 | 46 | David A Alvino |
-| 730 | 46 | Lucille Wilson Davis |
-| 731 | 46 | Elizabeth Green |
-| 732 | 46 | whatever |
-| 733 | 45 | GetDaOPPS |
+| 720 | 47 | Jodie |
+| 721 | 47 | Octavia Bsb Johnson |
+| 722 | 46 | whatever |
+| 723 | 46 | David A Alvino |
+| 724 | 46 | TrapQween39Bi |
+| 725 | 46 | Jenni |
+| 726 | 46 | NewEve |
+| 727 | 46 | Ja'mice Nelson |
+| 728 | 46 | Kimberly Red |
+| 729 | 46 | Rosalind Chatman |
+| 730 | 46 | Elizabeth Green |
+| 731 | 46 | Lucille Wilson Davis |
+| 732 | 46 | Felicia Dungey |
+| 733 | 45 | Marc Papa |
 | 734 | 45 | Sunny Tumbler |
-| 735 | 45 | Lawreniesha Burkley |
+| 735 | 45 | GetDaOPPS |
 | 736 | 45 | Heather Cross-Davis |
-| 737 | 45 | Cali Lee |
-| 738 | 45 | Cheery Linkfall |
-| 739 | 45 | Matraca Young |
-| 740 | 45 | Renee J. Thomas |
-| 741 | 45 | Marc Papa |
-| 742 | 45 | Crtjstr |
-| 743 | 45 | Y3llOWFAC3 |
-| 744 | 45 | Jason Saputo |
-| 745 | 45 | Skye |
+| 737 | 45 | Renee J. Thomas |
+| 738 | 45 | Matraca Young |
+| 739 | 45 | Crtjstr |
+| 740 | 45 | Lawreniesha Burkley |
+| 741 | 45 | Cali Lee |
+| 742 | 45 | Y3llOWFAC3 |
+| 743 | 45 | Cheery Linkfall |
+| 744 | 45 | Skye |
+| 745 | 45 | Jason Saputo |
 | 746 | 45 | Brave Balanceblock |
-| 747 | 44 | EvaLynn NeCole |
-| 748 | 44 | Nic Nic |
-| 749 | 44 | LaSharon Jackson |
-| 750 | 44 | GiantBehemoth |
-| 751 | 44 | Renee Marshall |
-| 752 | 44 | BonnieB |
-| 753 | 44 | Teresa Menefee |
-| 754 | 44 | Shakmar |
-| 755 | 44 | Connor Leon Cluff |
+| 747 | 44 | GiantBehemoth |
+| 748 | 44 | LaSharon Jackson |
+| 749 | 44 | BonnieB |
+| 750 | 44 | Teresa Menefee |
+| 751 | 44 | Shakmar |
+| 752 | 44 | Nic Nic |
+| 753 | 44 | Connor Leon Cluff |
+| 754 | 44 | Kim Holzmiller |
+| 755 | 44 | EvaLynn NeCole |
 | 756 | 44 | JoZanna Washington |
-| 757 | 44 | Kim Holzmiller |
-| 758 | 43 | Block |
-| 759 | 43 | Giggy Brickfit |
-| 760 | 43 | Taylor Jordan Hollis |
-| 761 | 43 | Embracing Hair |
-| 762 | 43 | Amihan |
-| 763 | 43 | Christy Quick |
+| 757 | 44 | Renee Marshall |
+| 758 | 43 | Giggy Brickfit |
+| 759 | 43 | Block |
+| 760 | 43 | Amihan |
+| 761 | 43 | Taylor Jordan Hollis |
+| 762 | 43 | Christy Quick |
+| 763 | 43 | Embracing Hair |
 | 764 | 43 | Corbin Henry |
 | 765 | 43 | Vivian Bunnell Myers |
 | 766 | 43 | Snippy Breaker |
