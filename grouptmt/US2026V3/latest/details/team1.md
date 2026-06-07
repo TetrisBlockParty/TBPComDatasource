@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 06:52:42 UTC
+# Standings for team1 as of 2026-06-07 06:53:18 UTC
 
 **Total Participants:** 1405
 
@@ -628,10 +628,10 @@
 | 620 | 64 | Joseph Vs Cap |
 | 621 | 64 | Chris Nelson |
 | 622 | 64 | Elaine Youmans |
-| 623 | 64 | Giddy Staggerpiece |
-| 624 | 63 | Ahsokadog |
-| 625 | 63 | Shawna Passwater |
-| 626 | 63 | Casey Chapman |
+| 623 | 64 | Casey Chapman |
+| 624 | 64 | Giddy Staggerpiece |
+| 625 | 63 | Ahsokadog |
+| 626 | 63 | Shawna Passwater |
 | 627 | 63 | Natasha Harris |
 | 628 | 63 | Chereese Harris |
 | 629 | 63 | Poppy Smasher |
