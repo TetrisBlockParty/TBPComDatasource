@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 19:22:19 UTC
+# Standings for team2 as of 2026-06-07 19:22:43 UTC
 
 **Total Participants:** 1867
 
@@ -16,8 +16,8 @@
 | 8 | 7687 | Lacey Nolting |
 | 9 | 7000 | Crafty Ziggy |
 | 10 | 6552 | Christina Shell |
-| 11 | 6114 | Tim Ix |
-| 12 | 6114 | Morgann McDaniel |
+| 11 | 6114 | Morgann McDaniel |
+| 12 | 6114 | Tim Ix |
 | 13 | 5961 | Brandon Brown |
 | 14 | 5704 | Cori Keberlein |
 | 15 | 5338 | Renee Weedling |
@@ -111,8 +111,8 @@
 | 103 | 800 | Denise Potter |
 | 104 | 794 | Deborah Boyce Minor |
 | 105 | 789 | Zachary Vymislicky |
-| 106 | 785 | haune |
-| 107 | 782 | Smiley Dropper |
+| 106 | 787 | Smiley Dropper |
+| 107 | 785 | haune |
 | 108 | 778 | Sarah Griffey |
 | 109 | 767 | Amber Wolf |
 | 110 | 756 | snowwol |
@@ -134,8 +134,8 @@
 | 126 | 607 | Gloria May Shook |
 | 127 | 603 | Ashlea McBlaine |
 | 128 | 595 | Allison Jarman |
-| 129 | 592 | Pooh |
-| 130 | 592 | Nettrainer |
+| 129 | 592 | Nettrainer |
+| 130 | 592 | Pooh |
 | 131 | 585 | Rhonda Diebold |
 | 132 | 581 | Dsabrina Maxey |
 | 133 | 577 | Lindsay Klemp |
@@ -145,8 +145,8 @@
 | 137 | 563 | Tisha Hairston |
 | 138 | 554 | Cathy Tippett |
 | 139 | 553 | Jamie Jones |
-| 140 | 550 | Sully |
-| 141 | 550 | DomDomsNana |
+| 140 | 550 | DomDomsNana |
+| 141 | 550 | Sully |
 | 142 | 548 | Jackie Tupper |
 | 143 | 541 | Ricardo Ewart |
 | 144 | 536 | Nikki Carter |
@@ -170,15 +170,15 @@
 | 162 | 448 | Eric Drane |
 | 163 | 444 | Ashley Green |
 | 164 | 438 | Michelle Rich Burkhart |
-| 165 | 436 | Gill |
-| 166 | 436 | MegaPooh |
-| 167 | 429 | Cool Climber |
-| 168 | 429 | Snappy Blockbuilder |
+| 165 | 436 | MegaPooh |
+| 166 | 436 | Gill |
+| 167 | 429 | Snappy Blockbuilder |
+| 168 | 429 | Cool Climber |
 | 169 | 424 | Danielle Blount |
 | 170 | 418 | Zany Blockclear |
 | 171 | 418 | Kelly Rogers |
-| 172 | 416 | Suki Jacobs |
-| 173 | 416 | Nutty Curver |
+| 172 | 416 | Nutty Curver |
+| 173 | 416 | Suki Jacobs |
 | 174 | 414 | Tara |
 | 175 | 413 | Chirpy Grid |
 | 176 | 407 | Lyric Price |
@@ -196,9 +196,9 @@
 | 188 | 383 | Jenna Stahl |
 | 189 | 382 | Nikki Hayes |
 | 190 | 381 | Joslyn Johnson |
-| 191 | 376 | Jason Cook |
-| 192 | 376 | AndyJo |
-| 193 | 376 | Jamie Fenyus |
+| 191 | 376 | AndyJo |
+| 192 | 376 | Jamie Fenyus |
+| 193 | 376 | Jason Cook |
 | 194 | 375 | Milad Arzani |
 | 195 | 375 | Branden Frankowski |
 | 196 | 373 | Hoppy Mover |
@@ -231,8 +231,8 @@
 | 223 | 324 | DayDreamer79 |
 | 224 | 323 | Shannon Wilson |
 | 225 | 322 | Pam Bauder Ludwig |
-| 226 | 320 | Xandrea Jones |
-| 227 | 320 | Linda Guay |
+| 226 | 320 | Linda Guay |
+| 227 | 320 | Xandrea Jones |
 | 228 | 317 | Nikki EightySixed |
 | 229 | 317 | Twisty Buildgrid |
 | 230 | 312 | Snappy Combo |
@@ -241,21 +241,21 @@
 | 233 | 307 | Nova Nova |
 | 234 | 305 | Norma Ortiz |
 | 235 | 305 | Melissa Clogher White |
-| 236 | 304 | Heather Burgett |
-| 237 | 304 | Swanky Fitline |
+| 236 | 304 | Swanky Fitline |
+| 237 | 304 | Heather Burgett |
 | 238 | 302 | Margie Ann Naffziger |
 | 239 | 302 | Hypee |
 | 240 | 300 | Hector |
-| 241 | 300 | Melisa |
-| 242 | 300 | Ashley Billiot Rhodes |
-| 243 | 300 | Patricia Carroll |
-| 244 | 299 | Ackerman 85 |
-| 245 | 299 | Mookshake |
+| 241 | 300 | Patricia Carroll |
+| 242 | 300 | Melisa |
+| 243 | 300 | Ashley Billiot Rhodes |
+| 244 | 299 | Mookshake |
+| 245 | 299 | Ackerman 85 |
 | 246 | 298 | Rob Owens |
 | 247 | 296 | Vistabrat |
-| 248 | 295 | Jessica Lynn |
-| 249 | 295 | Brittney Williams |
-| 250 | 295 | James Ward |
+| 248 | 295 | Brittney Williams |
+| 249 | 295 | James Ward |
+| 250 | 295 | Jessica Lynn |
 | 251 | 294 | Jeanna Mendez |
 | 252 | 291 | Lora Via |
 | 253 | 286 | Chipper Stackbuilder |
@@ -266,9 +266,9 @@
 | 258 | 279 | Curly Windbreaker |
 | 259 | 278 | Amy Nicole McCanne |
 | 260 | 276 | AndrewandShela Gornik |
-| 261 | 267 | Spicy Risegrid |
+| 261 | 267 | Karly Moore |
 | 262 | 267 | Iesha Cupil |
-| 263 | 267 | Karly Moore |
+| 263 | 267 | Spicy Risegrid |
 | 264 | 266 | Kathleen Keogh Van Schoyck |
 | 265 | 265 | Carolyn McNaughton |
 | 266 | 264 | Dallas Runyan |
@@ -284,19 +284,19 @@
 | 276 | 253 | Hilliary Beyer |
 | 277 | 252 | Kathy Strickland |
 | 278 | 251 | Marilyn Mendoza |
-| 279 | 250 | Thomas Tyrone |
+| 279 | 250 | Ray Daisy |
 | 280 | 250 | Happy Drop |
-| 281 | 250 | Ray Daisy |
-| 282 | 249 | Larry Cross |
-| 283 | 249 | Elizabeth Henry |
-| 284 | 247 | Stephanie |
-| 285 | 247 | SilentBuffalo |
+| 281 | 250 | Thomas Tyrone |
+| 282 | 249 | Elizabeth Henry |
+| 283 | 249 | Larry Cross |
+| 284 | 247 | SilentBuffalo |
+| 285 | 247 | Stephanie |
 | 286 | 247 | Amie Marks |
 | 287 | 246 | Brooke Lynn Marie Adelaide |
-| 288 | 245 | Danielle Pack Lewellen |
-| 289 | 245 | Amy Taylor Pomerenk |
-| 290 | 241 | Boldy Wobbler |
-| 291 | 241 | SEH |
+| 288 | 245 | Amy Taylor Pomerenk |
+| 289 | 245 | Danielle Pack Lewellen |
+| 290 | 241 | SEH |
+| 291 | 241 | Boldy Wobbler |
 | 292 | 240 | PaiBri |
 | 293 | 239 | Jeffrey Smith |
 | 294 | 238 | Jenny |
@@ -307,9 +307,9 @@
 | 299 | 234 | Sabrina Hardrick |
 | 300 | 231 | Olivia Jefferson |
 | 301 | 230 | Kelly Vedder |
-| 302 | 230 | Sharon L Brazelton |
-| 303 | 230 | Brandy Chinelle |
-| 304 | 230 | Crystal Poss |
+| 302 | 230 | Crystal Poss |
+| 303 | 230 | Sharon L Brazelton |
+| 304 | 230 | Brandy Chinelle |
 | 305 | 229 | Ariel Gundersen |
 | 306 | 229 | Angie Bishop |
 | 307 | 227 | Liseth Vasquez |
@@ -377,18 +377,18 @@
 | 369 | 185 | Krystle L Coon |
 | 370 | 185 | Vicki Flippo |
 | 371 | 185 | Maria Ward |
-| 372 | 183 | andee |
-| 373 | 183 | Martha Lynn Wiggins |
-| 374 | 181 | Victoria Pale |
-| 375 | 181 | Monee Stronger |
+| 372 | 183 | Martha Lynn Wiggins |
+| 373 | 183 | andee |
+| 374 | 181 | Monee Stronger |
+| 375 | 181 | Victoria Pale |
 | 376 | 181 | Jamie Adams |
 | 377 | 180 | Dawn Kroptavich |
 | 378 | 180 | Skye Ehret |
-| 379 | 180 | phamous1 |
-| 380 | 180 | Happy |
+| 379 | 180 | Happy |
+| 380 | 180 | phamous1 |
 | 381 | 180 | Zany Wrecker |
-| 382 | 179 | Bengy Lead |
-| 383 | 178 | Melmel |
+| 382 | 179 | Melmel |
+| 383 | 179 | Bengy Lead |
 | 384 | 178 | Duke Morley |
 | 385 | 177 | Jennifer McClure |
 | 386 | 176 | Reign Hustler |
@@ -1688,34 +1688,34 @@
 | 1680 | 13 | Cristy Ayala |
 | 1681 | 13 | Patience Thompson |
 | 1682 | 13 | Tara Feineis |
-| 1683 | 13 | Nickishan Richrds |
+| 1683 | 13 | Squyrt |
 | 1684 | 13 | Judy Bailey |
-| 1685 | 13 | Brave Curver |
-| 1686 | 13 | Sunnylynn Hodge |
-| 1687 | 13 | Cool Cornerfall |
-| 1688 | 13 | Frothy Faller |
-| 1689 | 13 | lion king |
-| 1690 | 13 | Treau Torres |
-| 1691 | 13 | Chad Praytor |
-| 1692 | 12 | Angi Carter |
-| 1693 | 12 | Roberta Granados |
-| 1694 | 12 | Chipper Gridroll |
-| 1695 | 12 | Anarcho |
-| 1696 | 12 | Jollygirl |
-| 1697 | 12 | Jacob nitro |
-| 1698 | 12 | Brandy Moore |
-| 1699 | 12 | Danid |
-| 1700 | 12 | Zippy Blockmatch |
-| 1701 | 12 | Nikki Blilie |
-| 1702 | 12 | Kjsranch |
-| 1703 | 12 | Samantha Morrison |
-| 1704 | 12 | Sindy08 |
-| 1705 | 12 | Mariah Wells |
-| 1706 | 12 | Silly Twister |
-| 1707 | 12 | Redangel |
-| 1708 | 12 | Mary |
-| 1709 | 12 | Jolly Blockroll |
-| 1710 | 12 | Squyrt |
+| 1685 | 13 | Nickishan Richrds |
+| 1686 | 13 | Brave Curver |
+| 1687 | 13 | Sunnylynn Hodge |
+| 1688 | 13 | Cool Cornerfall |
+| 1689 | 13 | Frothy Faller |
+| 1690 | 13 | lion king |
+| 1691 | 13 | Treau Torres |
+| 1692 | 13 | Chad Praytor |
+| 1693 | 12 | Angi Carter |
+| 1694 | 12 | Roberta Granados |
+| 1695 | 12 | Chipper Gridroll |
+| 1696 | 12 | Anarcho |
+| 1697 | 12 | Jollygirl |
+| 1698 | 12 | Jacob nitro |
+| 1699 | 12 | Brandy Moore |
+| 1700 | 12 | Danid |
+| 1701 | 12 | Zippy Blockmatch |
+| 1702 | 12 | Nikki Blilie |
+| 1703 | 12 | Kjsranch |
+| 1704 | 12 | Samantha Morrison |
+| 1705 | 12 | Sindy08 |
+| 1706 | 12 | Mariah Wells |
+| 1707 | 12 | Silly Twister |
+| 1708 | 12 | Redangel |
+| 1709 | 12 | Mary |
+| 1710 | 12 | Jolly Blockroll |
 | 1711 | 12 | Quirky Brickroll |
 | 1712 | 12 | April Owings |
 | 1713 | 12 | Phyllis DiCristo |
