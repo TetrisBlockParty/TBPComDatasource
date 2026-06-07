@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 18:42:19 UTC
+# Standings for team2 as of 2026-06-07 18:42:41 UTC
 
 **Total Participants:** 1856
 
@@ -205,11 +205,11 @@
 | 197 | 363 | Christina Maria |
 | 198 | 363 | H |
 | 199 | 362 | Jennifer Smith |
-| 200 | 360 | Jacob Carpenter |
-| 201 | 359 | Sarah Mccolgan |
-| 202 | 358 | Breeana Bennett |
-| 203 | 357 | Brenda Jones |
-| 204 | 355 | Flower_child |
+| 200 | 361 | Flower_child |
+| 201 | 360 | Jacob Carpenter |
+| 202 | 359 | Sarah Mccolgan |
+| 203 | 358 | Breeana Bennett |
+| 204 | 357 | Brenda Jones |
 | 205 | 352 | Justin McCray |
 | 206 | 350 | Sara Perkins |
 | 207 | 349 | Theresa Hollinger |
@@ -238,20 +238,20 @@
 | 230 | 304 | Heather Burgett |
 | 231 | 302 | Hypee |
 | 232 | 302 | Margie Ann Naffziger |
-| 233 | 300 | Linda Guay |
-| 234 | 300 | Patricia Carroll |
-| 235 | 300 | Hector |
-| 236 | 300 | Ashley Billiot Rhodes |
+| 233 | 300 | Hector |
+| 234 | 300 | Linda Guay |
+| 235 | 300 | Ashley Billiot Rhodes |
+| 236 | 300 | Patricia Carroll |
 | 237 | 300 | Melisa |
 | 238 | 299 | Mookshake |
 | 239 | 299 | Ackerman 85 |
 | 240 | 298 | Rob Owens |
-| 241 | 296 | Snappy Combo |
-| 242 | 296 | Vistabrat |
+| 241 | 296 | Vistabrat |
+| 242 | 296 | Snappy Combo |
 | 243 | 296 | Norma Ortiz |
-| 244 | 295 | James Ward |
-| 245 | 295 | Swanky Fitline |
-| 246 | 295 | Jessica Lynn |
+| 244 | 295 | Jessica Lynn |
+| 245 | 295 | James Ward |
+| 246 | 295 | Swanky Fitline |
 | 247 | 295 | Brittney Williams |
 | 248 | 294 | Jeanna Mendez |
 | 249 | 291 | Lora Via |
@@ -270,9 +270,9 @@
 | 262 | 259 | Angie Kowalsky Olson |
 | 263 | 256 | Tami Kay Williams Watson |
 | 264 | 255 | True |
-| 265 | 253 | Kim Hunt |
+| 265 | 253 | Marge Cromer |
 | 266 | 253 | Hilliary Beyer |
-| 267 | 253 | Marge Cromer |
+| 267 | 253 | Kim Hunt |
 | 268 | 252 | Kathy Strickland |
 | 269 | 251 | Marilyn Mendoza |
 | 270 | 250 | Happy Drop |
@@ -405,12 +405,12 @@
 | 397 | 168 | Brian Favre |
 | 398 | 168 | Gwendolyn Boykin Mobbs |
 | 399 | 168 | Missy Renia |
-| 400 | 167 | Chummy Faller |
-| 401 | 167 | Spicy Snapclear |
-| 402 | 167 | Amber Carpenter |
-| 403 | 167 | Sarah Jane Gorsuch |
-| 404 | 167 | Cara Rivera |
-| 405 | 166 | Michael Carmichael |
+| 400 | 167 | Michael Carmichael |
+| 401 | 167 | Chummy Faller |
+| 402 | 167 | Spicy Snapclear |
+| 403 | 167 | Amber Carpenter |
+| 404 | 167 | Sarah Jane Gorsuch |
+| 405 | 167 | Cara Rivera |
 | 406 | 166 | Melmel |
 | 407 | 165 | Sandy Justus |
 | 408 | 164 | Sillyk |
