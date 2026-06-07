@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-07 21:28:18 UTC
+# Standings for team4 as of 2026-06-07 21:28:41 UTC
 
 **Total Participants:** 1617
 
@@ -799,22 +799,22 @@
 | 791 | 67 | Michael Cruz |
 | 792 | 67 | Glittara |
 | 793 | 67 | Tony Clark |
-| 794 | 67 | Snappy Slice |
-| 795 | 67 | Wacky Snaplink |
-| 796 | 67 | Kimberly Ann |
-| 797 | 67 | Playful Raccoon |
-| 798 | 67 | Yournightmare |
-| 799 | 67 | Ashley DuVall |
-| 800 | 66 | Leslie |
-| 801 | 66 | james |
-| 802 | 66 | MattJennifer Marie Ericson |
-| 803 | 66 | Bouncy Blockclear |
-| 804 | 66 | Joyce Hampton |
-| 805 | 66 | Jennifer Brucz |
-| 806 | 66 | Scarlett Ashley Clark |
-| 807 | 65 | Yvette Johnson |
+| 794 | 67 | Joe Win |
+| 795 | 67 | Snappy Slice |
+| 796 | 67 | Wacky Snaplink |
+| 797 | 67 | Kimberly Ann |
+| 798 | 67 | Playful Raccoon |
+| 799 | 67 | Yournightmare |
+| 800 | 67 | Ashley DuVall |
+| 801 | 66 | Leslie |
+| 802 | 66 | james |
+| 803 | 66 | MattJennifer Marie Ericson |
+| 804 | 66 | Bouncy Blockclear |
+| 805 | 66 | Joyce Hampton |
+| 806 | 66 | Jennifer Brucz |
+| 807 | 66 | Scarlett Ashley Clark |
 | 808 | 65 | Gabby Simones |
-| 809 | 65 | Joe Win |
+| 809 | 65 | Yvette Johnson |
 | 810 | 65 | Lacie Powers |
 | 811 | 65 | Rocky |
 | 812 | 65 | Nachos |

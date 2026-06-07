@@ -1,6 +1,6 @@
-# Standings for team2 as of 2026-06-07 21:28:18 UTC
+# Standings for team2 as of 2026-06-07 21:28:41 UTC
 
-**Total Participants:** 1910
+**Total Participants:** 1911
 
 ## Participant Scores
 
@@ -149,17 +149,17 @@
 | 141 | 574 | Brandy McCune Reep |
 | 142 | 570 | Kathleen Dumbazz |
 | 143 | 570 | Jackie Tupper |
-| 144 | 554 | Cathy Tippett |
-| 145 | 553 | Jamie Jones |
-| 146 | 550 | DomDomsNana |
-| 147 | 550 | Sully |
-| 148 | 544 | Theresa Marie |
-| 149 | 541 | Ricardo Ewart |
-| 150 | 538 | Amanda Sikes |
-| 151 | 535 | Jgato |
-| 152 | 534 | Zappy Pattern |
-| 153 | 519 | Mom |
-| 154 | 519 | Sedy |
+| 144 | 559 | Sedy |
+| 145 | 554 | Cathy Tippett |
+| 146 | 553 | Jamie Jones |
+| 147 | 550 | DomDomsNana |
+| 148 | 550 | Sully |
+| 149 | 544 | Theresa Marie |
+| 150 | 541 | Ricardo Ewart |
+| 151 | 538 | Amanda Sikes |
+| 152 | 535 | Jgato |
+| 153 | 534 | Zappy Pattern |
+| 154 | 519 | Mom |
 | 155 | 515 | Loony Faller |
 | 156 | 510 | Michelle Rich Burkhart |
 | 157 | 505 | Judy Long |
@@ -230,7 +230,7 @@
 | 222 | 341 | Ratchet |
 | 223 | 339 | DukeDino |
 | 224 | 336 | Jat |
-| 225 | 334 | Becca Marie |
+| 225 | 336 | Becca Marie |
 | 226 | 328 | Tim Tim |
 | 227 | 328 | Keri Mears |
 | 228 | 325 | Flashy Twistline |
@@ -1820,8 +1820,8 @@
 | 1812 | 9 | zee |
 | 1813 | 9 | Chrystal Rodriguez |
 | 1814 | 9 | Kimberley Marie |
-| 1815 | 9 | Cordillia Barela |
-| 1816 | 9 | Shawn Bossuot |
+| 1815 | 9 | Shawn Bossuot |
+| 1816 | 9 | Cordillia Barela |
 | 1817 | 9 | Bethany Gerber |
 | 1818 | 9 | Lori Loup |
 | 1819 | 9 | Snazzy Cascadezone |
@@ -1845,77 +1845,78 @@
 | 1837 | 8 | Jumpy Twistslam |
 | 1838 | 8 | Zippy Balance |
 | 1839 | 8 | PortersWife87 |
-| 1840 | 8 | Perky Party |
-| 1841 | 8 | Christina Sheldon |
-| 1842 | 8 | Elizabeth Miller |
-| 1843 | 7 | Lush Tile |
-| 1844 | 7 | Chirpy Shiftspin |
-| 1845 | 7 | Michelle Feliciano |
-| 1846 | 7 | Elizabeth Barnhart Floyd |
+| 1840 | 8 | Christina Sheldon |
+| 1841 | 8 | Deion Marshall |
+| 1842 | 8 | Perky Party |
+| 1843 | 8 | Elizabeth Miller |
+| 1844 | 7 | Lush Tile |
+| 1845 | 7 | Chirpy Shiftspin |
+| 1846 | 7 | Michelle Feliciano |
 | 1847 | 7 | VikinGs Vnm |
 | 1848 | 7 | Michael Bond |
-| 1849 | 7 | Ephysta |
+| 1849 | 7 | Elizabeth Barnhart Floyd |
 | 1850 | 7 | Epic Balanceblock |
 | 1851 | 7 | Pico |
-| 1852 | 7 | Marshall Wilson |
-| 1853 | 7 | bluesky |
-| 1854 | 7 | Carl Gadberry |
-| 1855 | 7 | Janice Simpson |
-| 1856 | 7 | Ashley |
-| 1857 | 7 | michael |
-| 1858 | 7 | Brenda Ohaus Facher |
-| 1859 | 7 | Flashy Cascadeclear |
-| 1860 | 7 | Leslie Baker |
-| 1861 | 7 | Holly Riley |
-| 1862 | 7 | Elizabeth Elaine Coursey |
-| 1863 | 7 | Sasha Hamilton |
-| 1864 | 7 | Crystal King |
-| 1865 | 7 | Mighty Tiltpiece |
-| 1866 | 7 | Judy Burkhalter |
-| 1867 | 7 | StacyK |
-| 1868 | 7 | John Guider |
-| 1869 | 7 | Kyle |
-| 1870 | 6 | Michelle Brown |
-| 1871 | 6 | Cheeky Dashpiece |
-| 1872 | 6 | Jessie |
-| 1873 | 6 | Bowling girl |
-| 1874 | 6 | Giggy Dropzone |
-| 1875 | 6 | Cara Douglas |
-| 1876 | 6 | Anna Hale |
-| 1877 | 6 | Ali |
+| 1852 | 7 | Ephysta |
+| 1853 | 7 | Marshall Wilson |
+| 1854 | 7 | bluesky |
+| 1855 | 7 | Carl Gadberry |
+| 1856 | 7 | Janice Simpson |
+| 1857 | 7 | Ashley |
+| 1858 | 7 | michael |
+| 1859 | 7 | Brenda Ohaus Facher |
+| 1860 | 7 | Flashy Cascadeclear |
+| 1861 | 7 | Leslie Baker |
+| 1862 | 7 | Holly Riley |
+| 1863 | 7 | Elizabeth Elaine Coursey |
+| 1864 | 7 | Sasha Hamilton |
+| 1865 | 7 | Crystal King |
+| 1866 | 7 | Mighty Tiltpiece |
+| 1867 | 7 | Judy Burkhalter |
+| 1868 | 7 | StacyK |
+| 1869 | 7 | John Guider |
+| 1870 | 7 | Kyle |
+| 1871 | 6 | Michelle Brown |
+| 1872 | 6 | Cheeky Dashpiece |
+| 1873 | 6 | Jessie |
+| 1874 | 6 | Bowling girl |
+| 1875 | 6 | Giggy Dropzone |
+| 1876 | 6 | Cara Douglas |
+| 1877 | 6 | Jenea Colvin |
 | 1878 | 6 | Slay bestie |
-| 1879 | 6 | Jenea Colvin |
+| 1879 | 6 | Ali |
 | 1880 | 6 | Ryan D. Norcross |
 | 1881 | 6 | Alyssa Malay |
-| 1882 | 6 | Cranky Zonebuilder |
+| 1882 | 6 | Anna Hale |
 | 1883 | 6 | MD |
-| 1884 | 5 | Loony Matcher |
-| 1885 | 5 | Cheery Filler |
-| 1886 | 5 | sam |
-| 1887 | 5 | Splashy |
-| 1888 | 5 | Quirky Liney |
-| 1889 | 5 | Duck |
-| 1890 | 5 | featherz |
-| 1891 | 5 | Karen Moore |
-| 1892 | 5 | Tosha Dickson |
-| 1893 | 5 | Snappy Zonepiece |
-| 1894 | 5 | Sunny |
-| 1895 | 5 | Dapper Clearpiece |
-| 1896 | 5 | Vicki Ohmer |
-| 1897 | 5 | Julie Ann Jacobs |
-| 1898 | 5 | Agnes Gable |
-| 1899 | 5 | Jennifer Roper Stanley |
-| 1900 | 5 | Teri |
-| 1901 | 5 | Nolife |
-| 1902 | 5 | Brittany Weatherspoon |
-| 1903 | 5 | Groovy Buildout |
-| 1904 | 5 | Chris Weddel |
-| 1905 | 5 | Chilly Twistbuilder |
-| 1906 | 5 | Adam Shimmel |
-| 1907 | 5 | Mala Phonchanthasone |
-| 1908 | 5 | Chirpy Towerer |
-| 1909 | 5 | Mercedes Lowery |
-| 1910 | 5 | Jennifer Mauler Schmidt |
+| 1884 | 6 | Cranky Zonebuilder |
+| 1885 | 5 | Loony Matcher |
+| 1886 | 5 | Karen Moore |
+| 1887 | 5 | featherz |
+| 1888 | 5 | Duck |
+| 1889 | 5 | Quirky Liney |
+| 1890 | 5 | Splashy |
+| 1891 | 5 | sam |
+| 1892 | 5 | Cheery Filler |
+| 1893 | 5 | Tosha Dickson |
+| 1894 | 5 | Snappy Zonepiece |
+| 1895 | 5 | Sunny |
+| 1896 | 5 | Dapper Clearpiece |
+| 1897 | 5 | Vicki Ohmer |
+| 1898 | 5 | Julie Ann Jacobs |
+| 1899 | 5 | Agnes Gable |
+| 1900 | 5 | Jennifer Roper Stanley |
+| 1901 | 5 | Teri |
+| 1902 | 5 | Nolife |
+| 1903 | 5 | Brittany Weatherspoon |
+| 1904 | 5 | Groovy Buildout |
+| 1905 | 5 | Chris Weddel |
+| 1906 | 5 | Chilly Twistbuilder |
+| 1907 | 5 | Adam Shimmel |
+| 1908 | 5 | Mala Phonchanthasone |
+| 1909 | 5 | Chirpy Towerer |
+| 1910 | 5 | Mercedes Lowery |
+| 1911 | 5 | Jennifer Mauler Schmidt |
 
 ---
 *Standings created by tournaments datasource generation tool*
