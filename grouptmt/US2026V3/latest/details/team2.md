@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 01:18:18 UTC
+# Standings for team2 as of 2026-06-07 01:18:41 UTC
 
 **Total Participants:** 1495
 
@@ -18,7 +18,7 @@
 | 10 | 6114 | Tim Ix |
 | 11 | 6045 | Morgann McDaniel |
 | 12 | 5704 | Cori Keberlein |
-| 13 | 4940 | Dapper Rollout |
+| 13 | 4945 | Dapper Rollout |
 | 14 | 4800 | Crafty Ziggy |
 | 15 | 3984 | Amber |
 | 16 | 3950 | Erica Dees Parks |
@@ -210,15 +210,15 @@
 | 202 | 221 | Dallas Runyan |
 | 203 | 220 | Flashy Basegrid |
 | 204 | 219 | Stella |
-| 205 | 218 | Amy Nicole McCanne |
-| 206 | 217 | Lora Via |
-| 207 | 217 | Elizabeth Henry |
-| 208 | 216 | PaiBri |
-| 209 | 212 | Sully |
-| 210 | 212 | AndyJo |
-| 211 | 209 | Patria Osuoha |
-| 212 | 209 | Logan Duffey |
-| 213 | 207 | Lisa Underwood Desmond |
+| 205 | 219 | Lisa Underwood Desmond |
+| 206 | 218 | Amy Nicole McCanne |
+| 207 | 217 | Lora Via |
+| 208 | 217 | Elizabeth Henry |
+| 209 | 216 | PaiBri |
+| 210 | 212 | Sully |
+| 211 | 212 | AndyJo |
+| 212 | 209 | Patria Osuoha |
+| 213 | 209 | Logan Duffey |
 | 214 | 207 | Margie Ann Naffziger |
 | 215 | 206 | Jodi Johnson |
 | 216 | 205 | Jat |
