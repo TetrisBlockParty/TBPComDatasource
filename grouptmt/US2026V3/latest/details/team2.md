@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-07 23:47:19 UTC
+# Standings for team2 as of 2026-06-07 23:48:18 UTC
 
 **Total Participants:** 1959
 
@@ -200,9 +200,9 @@
 | 192 | 412 | DukeDino |
 | 193 | 408 | Flower_child |
 | 194 | 407 | Crystal Allen |
-| 195 | 403 | MaddieCherie |
-| 196 | 402 | Zesty Strikerbuilder |
-| 197 | 402 | Monique Frantz |
+| 195 | 407 | Monique Frantz |
+| 196 | 403 | MaddieCherie |
+| 197 | 402 | Zesty Strikerbuilder |
 | 198 | 395 | H |
 | 199 | 394 | Joni Michelle Morgan |
 | 200 | 393 | Lisa Underwood Desmond |
@@ -1516,95 +1516,95 @@
 | 1508 | 27 | Natasha Schatte |
 | 1509 | 27 | CowboyChalie |
 | 1510 | 27 | juhde |
-| 1511 | 27 | Ashley Corbett |
-| 1512 | 27 | Andrea |
+| 1511 | 27 | Cyrus Ramirez |
+| 1512 | 27 | Ashley Corbett |
 | 1513 | 27 | Kim |
-| 1514 | 27 | Cyrus Ramirez |
-| 1515 | 26 | nova |
-| 1516 | 26 | Flex |
-| 1517 | 26 | Danibellee |
-| 1518 | 26 | Cathy Clark |
-| 1519 | 26 | Quirky Climber |
-| 1520 | 26 | Darlene Russell |
+| 1514 | 27 | Andrea |
+| 1515 | 26 | Celeste Samuels |
+| 1516 | 26 | Quirky Climber |
+| 1517 | 26 | Darlene Russell |
+| 1518 | 26 | nova |
+| 1519 | 26 | Cathy Clark |
+| 1520 | 26 | Danibellee |
 | 1521 | 26 | David Starmer |
-| 1522 | 26 | Celeste Samuels |
+| 1522 | 26 | Flex |
 | 1523 | 26 | Silly Shatter |
 | 1524 | 26 | Regina Lamb |
 | 1525 | 26 | Joffee Joffer |
 | 1526 | 25 | Cindy Smith |
 | 1527 | 25 | Becka Jones |
 | 1528 | 25 | B.A. Watt |
-| 1529 | 25 | Rochelle O'Loughlin |
-| 1530 | 25 | Maureen Bryan Adams |
-| 1531 | 25 | Quirky Piecegrid |
-| 1532 | 25 | Poppy Zonepiece |
-| 1533 | 25 | Paula Stell |
-| 1534 | 25 | Nikki |
-| 1535 | 25 | Jamie Benge |
-| 1536 | 25 | John Rosales |
-| 1537 | 25 | Kyle |
-| 1538 | 24 | Nicole |
-| 1539 | 24 | Paula Smith |
-| 1540 | 24 | April Wright |
-| 1541 | 24 | Kacey Lindemuth |
-| 1542 | 24 | Lavenda Nettles |
-| 1543 | 24 | Angelique Matzke Starns |
-| 1544 | 24 | Lori Whitman |
-| 1545 | 24 | Kathryn Mason |
-| 1546 | 24 | Kaylyn Wickham |
-| 1547 | 24 | Crazygranny |
-| 1548 | 24 | Snippy Tilefall |
-| 1549 | 23 | Linda Riegsecker |
-| 1550 | 23 | Cherry L. Salama |
-| 1551 | 23 | Haley |
-| 1552 | 23 | Amanda Raley |
-| 1553 | 23 | Sarah Phelps Beyer |
-| 1554 | 23 | Rich Gorondy |
-| 1555 | 23 | Spicy Basepiece |
-| 1556 | 23 | MjLovebug13 |
-| 1557 | 23 | Zaaear Pack |
-| 1558 | 23 | Giggly Glider |
-| 1559 | 23 | Jolene Moelder |
-| 1560 | 23 | Stephanie Fitzgerald |
-| 1561 | 23 | Shirley Bates |
-| 1562 | 23 | Angela Oates-Killebrew |
-| 1563 | 23 | Mike Honcho |
-| 1564 | 23 | no name |
-| 1565 | 22 | Sir Paco |
+| 1529 | 25 | Poppy Zonepiece |
+| 1530 | 25 | Nikki |
+| 1531 | 25 | Maureen Bryan Adams |
+| 1532 | 25 | Rochelle O'Loughlin |
+| 1533 | 25 | John Rosales |
+| 1534 | 25 | Jamie Benge |
+| 1535 | 25 | Kyle |
+| 1536 | 25 | Paula Stell |
+| 1537 | 25 | Quirky Piecegrid |
+| 1538 | 24 | Lori Whitman |
+| 1539 | 24 | Nicole |
+| 1540 | 24 | Lavenda Nettles |
+| 1541 | 24 | Angelique Matzke Starns |
+| 1542 | 24 | Paula Smith |
+| 1543 | 24 | Kathryn Mason |
+| 1544 | 24 | April Wright |
+| 1545 | 24 | Kacey Lindemuth |
+| 1546 | 24 | Taran Evans |
+| 1547 | 24 | Kaylyn Wickham |
+| 1548 | 24 | Crazygranny |
+| 1549 | 24 | Snippy Tilefall |
+| 1550 | 23 | Linda Riegsecker |
+| 1551 | 23 | Cherry L. Salama |
+| 1552 | 23 | Haley |
+| 1553 | 23 | Amanda Raley |
+| 1554 | 23 | Stephanie Fitzgerald |
+| 1555 | 23 | Jolene Moelder |
+| 1556 | 23 | Rich Gorondy |
+| 1557 | 23 | Spicy Basepiece |
+| 1558 | 23 | Angela Oates-Killebrew |
+| 1559 | 23 | Sarah Phelps Beyer |
+| 1560 | 23 | no name |
+| 1561 | 23 | Mike Honcho |
+| 1562 | 23 | Shirley Bates |
+| 1563 | 23 | Giggly Glider |
+| 1564 | 23 | Zaaear Pack |
+| 1565 | 23 | MjLovebug13 |
 | 1566 | 22 | Merine Mott |
 | 1567 | 22 | Jenny |
 | 1568 | 22 | SueEllen Hawkins |
-| 1569 | 22 | Marii |
-| 1570 | 22 | Mighty Piecebuilder |
+| 1569 | 22 | Sir Paco |
+| 1570 | 22 | Melanesia Springs |
 | 1571 | 22 | Tyler Bates |
-| 1572 | 22 | Binska |
-| 1573 | 22 | Melanesia Springs |
+| 1572 | 22 | Josimarie Otero |
+| 1573 | 22 | Jay King |
 | 1574 | 22 | MoonLilly |
-| 1575 | 22 | Jay King |
-| 1576 | 22 | Josimarie Otero |
-| 1577 | 22 | Nutty Cascader |
-| 1578 | 22 | Danid |
-| 1579 | 22 | Stacy Stickle |
-| 1580 | 22 | Melinda Rausch |
-| 1581 | 22 | Charity Black |
-| 1582 | 22 | Raven |
-| 1583 | 22 | Amanda Hastings |
-| 1584 | 21 | Mandy |
-| 1585 | 21 | Rachel Burkett |
-| 1586 | 21 | twistyzone |
-| 1587 | 21 | Loony Snapclear |
-| 1588 | 21 | Charlene Napier |
-| 1589 | 21 | Mona Good |
-| 1590 | 21 | Witty Shatterline |
-| 1591 | 21 | Ali |
-| 1592 | 21 | Chill Shatterclear |
-| 1593 | 21 | Vee Waller |
-| 1594 | 21 | BethAnn Pawlowski |
-| 1595 | 21 | sally |
-| 1596 | 21 | Johnathon Mendiola |
-| 1597 | 21 | Phyllis DiCristo |
-| 1598 | 21 | Amanda Knox |
-| 1599 | 21 | Taran Evans |
+| 1575 | 22 | Binska |
+| 1576 | 22 | Marii |
+| 1577 | 22 | Mighty Piecebuilder |
+| 1578 | 22 | Nutty Cascader |
+| 1579 | 22 | Danid |
+| 1580 | 22 | Stacy Stickle |
+| 1581 | 22 | Melinda Rausch |
+| 1582 | 22 | Charity Black |
+| 1583 | 22 | Raven |
+| 1584 | 22 | Amanda Hastings |
+| 1585 | 21 | Mandy |
+| 1586 | 21 | Rachel Burkett |
+| 1587 | 21 | twistyzone |
+| 1588 | 21 | Loony Snapclear |
+| 1589 | 21 | Charlene Napier |
+| 1590 | 21 | Mona Good |
+| 1591 | 21 | Witty Shatterline |
+| 1592 | 21 | Ali |
+| 1593 | 21 | Chill Shatterclear |
+| 1594 | 21 | Vee Waller |
+| 1595 | 21 | BethAnn Pawlowski |
+| 1596 | 21 | Phyllis DiCristo |
+| 1597 | 21 | sally |
+| 1598 | 21 | Johnathon Mendiola |
+| 1599 | 21 | Amanda Knox |
 | 1600 | 21 | Jennifer Chapel |
 | 1601 | 21 | Sandra Mathes Reece |
 | 1602 | 21 | Mario Hillman |
@@ -1858,21 +1858,21 @@
 | 1850 | 10 | Shakey Bakey |
 | 1851 | 10 | ANNIE CHAOS |
 | 1852 | 10 | Kathi Patrick |
-| 1853 | 10 | April Appleton |
-| 1854 | 10 | Snazzy Tiley |
-| 1855 | 10 | Duck |
-| 1856 | 10 | Hasty Linker |
-| 1857 | 10 | Daniela Solis |
-| 1858 | 10 | Crasher |
-| 1859 | 10 | Clever Clusterfit |
-| 1860 | 10 | Melissa Dyer |
-| 1861 | 10 | Brooke Burge |
-| 1862 | 10 | Joey Grillo |
-| 1863 | 10 | LilMs101 |
-| 1864 | 10 | Jimberlee Akuna |
-| 1865 | 10 | Laura Rake |
-| 1866 | 9 | Yuhh |
-| 1867 | 9 | Brittany Russell |
+| 1853 | 10 | Brittany Russell |
+| 1854 | 10 | April Appleton |
+| 1855 | 10 | Snazzy Tiley |
+| 1856 | 10 | Duck |
+| 1857 | 10 | Hasty Linker |
+| 1858 | 10 | Daniela Solis |
+| 1859 | 10 | Crasher |
+| 1860 | 10 | Clever Clusterfit |
+| 1861 | 10 | Melissa Dyer |
+| 1862 | 10 | Brooke Burge |
+| 1863 | 10 | Joey Grillo |
+| 1864 | 10 | LilMs101 |
+| 1865 | 10 | Jimberlee Akuna |
+| 1866 | 10 | Laura Rake |
+| 1867 | 9 | Yuhh |
 | 1868 | 9 | Catalina Castro |
 | 1869 | 9 | Road Runnersauraus |
 | 1870 | 9 | Angela-Josh Millan |
