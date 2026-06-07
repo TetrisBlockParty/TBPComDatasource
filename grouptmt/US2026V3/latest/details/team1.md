@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 08:44:19 UTC
+# Standings for team1 as of 2026-06-07 08:44:41 UTC
 
 **Total Participants:** 1428
 
@@ -267,11 +267,11 @@
 | 259 | 179 | ♈️ Ariesbaby |
 | 260 | 179 | Amber Wilson |
 | 261 | 178 | Randizzle |
-| 262 | 176 | Nikki Hogan |
-| 263 | 173 | Chipper Snapper |
-| 264 | 172 | Block King |
-| 265 | 171 | Boldy Liner |
-| 266 | 170 | Jhonny Maii |
+| 262 | 178 | Jhonny Maii |
+| 263 | 176 | Nikki Hogan |
+| 264 | 173 | Chipper Snapper |
+| 265 | 172 | Block King |
+| 266 | 171 | Boldy Liner |
 | 267 | 170 | Hailey Hil |
 | 268 | 169 | Asha Langford |
 | 269 | 169 | Jai |
