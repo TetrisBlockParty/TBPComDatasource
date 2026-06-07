@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 02:28:18 UTC
+# Standings for team1 as of 2026-06-07 02:28:39 UTC
 
 **Total Participants:** 1294
 
@@ -71,7 +71,7 @@
 | 63 | 764 | Joy Citizen Pickney |
 | 64 | 749 | Aviv Zehavi |
 | 65 | 748 | Blockhead |
-| 66 | 734 | Kimberly Hernandez |
+| 66 | 735 | Kimberly Hernandez |
 | 67 | 726 | Lisa Müller |
 | 68 | 710 | ing410 |
 | 69 | 695 | Corey Cawthon |
@@ -411,77 +411,77 @@
 | 403 | 90 | Nora Mahmoud |
 | 404 | 90 | Danielle DeLozier Plesec |
 | 405 | 90 | crumb bumc |
-| 406 | 89 | LuckyStar |
-| 407 | 89 | Jelyfish |
-| 408 | 88 | Wacky Stackbuilder |
-| 409 | 88 | Kristie |
+| 406 | 89 | Jelyfish |
+| 407 | 89 | LuckyStar |
+| 408 | 88 | Kristie |
+| 409 | 88 | Wacky Stackbuilder |
 | 410 | 87 | Chummy Frame |
 | 411 | 87 | Comedian Prince Paul |
 | 412 | 87 | CJ Robinson |
-| 413 | 87 | Holly Baker |
-| 414 | 86 | Yashica Smith |
-| 415 | 86 | Donna Payne |
-| 416 | 86 | Messy Live |
-| 417 | 86 | Tweet Turner |
+| 413 | 87 | Therealdywoune Peay |
+| 414 | 87 | Holly Baker |
+| 415 | 86 | krd |
+| 416 | 86 | Tweet Turner |
+| 417 | 86 | Kendra McIntyre |
 | 418 | 86 | Zany Breaker |
-| 419 | 86 | Kendra McIntyre |
-| 420 | 86 | krd |
+| 419 | 86 | Messy Live |
+| 420 | 86 | Donna Payne |
 | 421 | 86 | Cm |
-| 422 | 85 | Jae Thompson-Tyus |
-| 423 | 85 | Sonia Binti Mfalme |
-| 424 | 85 | Eric Machuca |
-| 425 | 85 | Hardtohandle91 |
-| 426 | 85 | McKayla Owens |
-| 427 | 85 | De'Mear McKinney |
-| 428 | 84 | Franklin Sotelo |
-| 429 | 83 | Jackytrain52 |
-| 430 | 83 | MrsMeadows2019 |
-| 431 | 83 | Daring Riserfit |
+| 422 | 86 | Yashica Smith |
+| 423 | 85 | Jae Thompson-Tyus |
+| 424 | 85 | Sonia Binti Mfalme |
+| 425 | 85 | Eric Machuca |
+| 426 | 85 | Hardtohandle91 |
+| 427 | 85 | McKayla Owens |
+| 428 | 85 | De'Mear McKinney |
+| 429 | 84 | Franklin Sotelo |
+| 430 | 83 | Jackytrain52 |
+| 431 | 83 | MrsMeadows2019 |
 | 432 | 83 | Anthony |
 | 433 | 83 | Kimberly Anderson |
 | 434 | 83 | Sandra Mims |
-| 435 | 82 | Angela Brown Babin |
-| 436 | 82 | Yadira Salgado |
-| 437 | 82 | Cachet A Ward |
-| 438 | 82 | Happy Blockpiece |
+| 435 | 83 | Daring Riserfit |
+| 436 | 82 | Angela Brown Babin |
+| 437 | 82 | Yadira Salgado |
+| 438 | 82 | Cachet A Ward |
 | 439 | 82 | Peppy Glider |
 | 440 | 82 | Christi Walker Patton |
-| 441 | 81 | Therealdywoune Peay |
+| 441 | 82 | Happy Blockpiece |
 | 442 | 81 | Cynthia Cruell |
-| 443 | 81 | Logan Frost |
+| 443 | 81 | Crystal Cheresnowsky |
 | 444 | 81 | Lynn |
-| 445 | 81 | Crystal Cheresnowsky |
+| 445 | 81 | Logan Frost |
 | 446 | 80 | Natalie Burroughs |
-| 447 | 80 | Charles Johnson |
+| 447 | 80 | Nyhlah Patterson |
 | 448 | 80 | NedaWin |
-| 449 | 80 | Nyhlah Patterson |
-| 450 | 80 | Block King |
-| 451 | 80 | Li-Li Ratliff |
-| 452 | 80 | Lady Scorpio |
+| 449 | 80 | Block King |
+| 450 | 80 | Li-Li Ratliff |
+| 451 | 80 | Lady Scorpio |
+| 452 | 80 | Gerold Folk Haddock |
 | 453 | 80 | Kp |
-| 454 | 80 | Gerold Folk Haddock |
+| 454 | 80 | Latore Maxie |
 | 455 | 80 | Giggy Edgefit |
 | 456 | 80 | Lisa420 |
-| 457 | 80 | Latore Maxie |
-| 458 | 80 | Chevalier Burley |
+| 457 | 80 | Chevalier Burley |
+| 458 | 80 | Lester Malone |
 | 459 | 80 | Derald Miller |
 | 460 | 80 | Big Bovice |
-| 461 | 80 | Lester Malone |
-| 462 | 80 | Rebecca Jackson |
-| 463 | 80 | Nickeya Phillips |
+| 461 | 80 | Rebecca Jackson |
+| 462 | 80 | Nisha Sunshine Jenkins |
+| 463 | 80 | Charles Johnson |
 | 464 | 80 | Tracey Johnson |
-| 465 | 80 | Nisha Sunshine Jenkins |
-| 466 | 79 | Brand Nu |
-| 467 | 79 | Tracy Feyler |
+| 465 | 80 | Nickeya Phillips |
+| 466 | 79 | Rufus |
+| 467 | 79 | Douglas Price |
 | 468 | 79 | Sherri Keys |
-| 469 | 79 | Douglas Price |
-| 470 | 79 | Rufus |
-| 471 | 79 | Montréal Mars |
-| 472 | 78 | Solomon Valarie |
-| 473 | 78 | KeeKee Williams |
+| 469 | 79 | Montréal Mars |
+| 470 | 79 | Tracy Feyler |
+| 471 | 79 | Brand Nu |
+| 472 | 78 | KeeKee Williams |
+| 473 | 78 | Solomon Valarie |
 | 474 | 78 | Azeiare Ziare |
-| 475 | 77 | Johnathan Deese |
-| 476 | 77 | Jenni Hardman |
+| 475 | 77 | Jenni Hardman |
+| 476 | 77 | Johnathan Deese |
 | 477 | 76 | Jennah |
 | 478 | 76 | Rene Hicks |
 | 479 | 76 | Giggly Shatterline |
