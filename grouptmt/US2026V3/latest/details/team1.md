@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-07 10:24:17 UTC
+# Standings for team1 as of 2026-06-07 10:24:41 UTC
 
 **Total Participants:** 1439
 
@@ -159,13 +159,13 @@
 | 151 | 331 | Joey Albright |
 | 152 | 330 | Jessica Russell |
 | 153 | 328 | Dynah Gordon |
-| 154 | 318 | Mimi 1.0 |
-| 155 | 315 | Nerdy Snapfall |
-| 156 | 312 | Michelle Titus |
-| 157 | 311 | Simmone T. Kadiri |
-| 158 | 311 | Tina Mitchell |
-| 159 | 310 | Chantelle Lee |
-| 160 | 309 | La'Chae Nickole |
+| 154 | 323 | La'Chae Nickole |
+| 155 | 318 | Mimi 1.0 |
+| 156 | 315 | Nerdy Snapfall |
+| 157 | 312 | Michelle Titus |
+| 158 | 311 | Simmone T. Kadiri |
+| 159 | 311 | Tina Mitchell |
+| 160 | 310 | Chantelle Lee |
 | 161 | 308 | Dena Marie Lee |
 | 162 | 307 | Therealdywoune Peay |
 | 163 | 303 | Roberta Lynn |
@@ -322,9 +322,9 @@
 | 314 | 148 | LaToya Chambers |
 | 315 | 147 | MACHETEEDDIE513 |
 | 316 | 147 | Telisha Mims |
-| 317 | 146 | BlackQueen105 |
-| 318 | 146 | Lakiesha Crawford |
-| 319 | 146 | De'Nell Edwards |
+| 317 | 147 | De'Nell Edwards |
+| 318 | 146 | BlackQueen105 |
+| 319 | 146 | Lakiesha Crawford |
 | 320 | 143 | BULLSEYE |
 | 321 | 142 | Matthieu Pistone |
 | 322 | 142 | Charlene Baltimore |
