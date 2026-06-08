@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:36:21 UTC
+# Standings for team1 as of 2026-06-08 19:36:44 UTC
 
 **Total Participants:** 1854
 
@@ -267,9 +267,9 @@
 | 259 | 343 | Heather Aurelia |
 | 260 | 341 | BlackQueen105 |
 | 261 | 341 | Tremaine Hiler |
-| 262 | 341 | Jawaun Daniels |
-| 263 | 340 | Christian Pham |
-| 264 | 339 | Steve Reno |
+| 262 | 341 | Steve Reno |
+| 263 | 341 | Jawaun Daniels |
+| 264 | 340 | Christian Pham |
 | 265 | 339 | FallDee |
 | 266 | 338 | Dennis J Herron II |
 | 267 | 338 | Brand Nu |
@@ -744,13 +744,13 @@
 | 736 | 117 | Cori Cleland |
 | 737 | 117 | Bruce Paléncia |
 | 738 | 116 | Sallie Sanborn |
-| 739 | 116 | Lady T |
-| 740 | 116 | Sherri Keys |
-| 741 | 116 | Motown Chuck |
+| 739 | 116 | Kahh |
+| 740 | 116 | Lady T |
+| 741 | 116 | Sherri Keys |
 | 742 | 116 | Rosalind Chatman |
-| 743 | 115 | WOOLFF |
-| 744 | 115 | Richelle Beck |
-| 745 | 115 | Kahh |
+| 743 | 116 | Motown Chuck |
+| 744 | 115 | WOOLFF |
+| 745 | 115 | Richelle Beck |
 | 746 | 114 | Felicia Dungey |
 | 747 | 114 | Solomon Valarie |
 | 748 | 114 | LAhoneybun82 |
