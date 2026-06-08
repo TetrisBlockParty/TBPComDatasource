@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:28:19 UTC
+# Standings for team4 as of 2026-06-08 07:28:40 UTC
 
 **Total Participants:** 1793
 
@@ -1122,11 +1122,11 @@
 | 1114 | 52 | Domenique Wilson |
 | 1115 | 52 | Vv |
 | 1116 | 52 | Agent |
-| 1117 | 51 | JJ Merc |
-| 1118 | 51 | LilRain |
-| 1119 | 51 | Lori A Hamann |
-| 1120 | 51 | the repo |
-| 1121 | 51 | Speedy Brick |
+| 1117 | 52 | Speedy Brick |
+| 1118 | 51 | JJ Merc |
+| 1119 | 51 | LilRain |
+| 1120 | 51 | Lori A Hamann |
+| 1121 | 51 | the repo |
 | 1122 | 51 | Fancy Curvetile |
 | 1123 | 51 | Dorothy Mitchell |
 | 1124 | 50 | Erica Armstrong Baz |

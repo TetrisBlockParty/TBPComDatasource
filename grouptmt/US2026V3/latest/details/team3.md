@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-08 07:28:19 UTC
+# Standings for team3 as of 2026-06-08 07:28:40 UTC
 
 **Total Participants:** 6847
 
@@ -567,7 +567,7 @@
 | 559 | 511 | Twinspired777 |
 | 560 | 508 | Juanita Rivers |
 | 561 | 506 | Jurno Jackson |
-| 562 | 505 | Mindy Austin |
+| 562 | 506 | Mindy Austin |
 | 563 | 502 | Rumple |
 | 564 | 501 | Zesty Snapzone |
 | 565 | 500 | Daniel Nguyen |
