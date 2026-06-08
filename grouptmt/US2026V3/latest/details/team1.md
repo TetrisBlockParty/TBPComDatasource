@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:44:42 UTC
+# Standings for team1 as of 2026-06-08 08:45:19 UTC
 
 **Total Participants:** 1763
 
@@ -343,14 +343,14 @@
 | 335 | 220 | Rachael Bakowicz Edwards |
 | 336 | 220 | Eric Spencer Whitaker |
 | 337 | 219 | Bambi Johnson |
-| 338 | 219 | Tamara Johnson-Carter |
-| 339 | 217 | Tamika Fisher |
-| 340 | 217 | Ashleyy Netchert |
-| 341 | 217 | Louise Parker |
-| 342 | 217 | LaShaun Stinson |
-| 343 | 217 | Snippy Breaker |
-| 344 | 214 | Stephen Providenti |
-| 345 | 214 | Shanaa Germany Crittenden |
+| 338 | 219 | Shanaa Germany Crittenden |
+| 339 | 219 | Tamara Johnson-Carter |
+| 340 | 217 | Tamika Fisher |
+| 341 | 217 | Ashleyy Netchert |
+| 342 | 217 | Louise Parker |
+| 343 | 217 | LaShaun Stinson |
+| 344 | 217 | Snippy Breaker |
+| 345 | 214 | Stephen Providenti |
 | 346 | 214 | Kyra Coleman |
 | 347 | 213 | Lazy Tiltpiece |
 | 348 | 212 | Simply-Beautiful007 |
