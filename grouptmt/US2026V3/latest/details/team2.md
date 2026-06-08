@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:26:46 UTC
+# Standings for team2 as of 2026-06-08 15:27:19 UTC
 
 **Total Participants:** 2199
 
@@ -384,25 +384,25 @@
 | 376 | 273 | Nicole Good |
 | 377 | 271 | Ashley Voelz |
 | 378 | 270 | Chummy Snapbuilder |
-| 379 | 269 | Jessica Christine |
-| 380 | 269 | LittleHippoEars |
+| 379 | 269 | LittleHippoEars |
+| 380 | 269 | Jessica Christine |
 | 381 | 269 | Brooke Lynn Marie Adelaide |
 | 382 | 268 | Sam |
-| 383 | 268 | Danielle Pack Lewellen |
-| 384 | 268 | Olivia Jefferson |
+| 383 | 268 | Olivia Jefferson |
+| 384 | 268 | Danielle Pack Lewellen |
 | 385 | 267 | Marylin Eacker |
 | 386 | 266 | Josh Vietz |
 | 387 | 265 | Skye Ehret |
 | 388 | 265 | Mikia Stokes |
-| 389 | 264 | Martha Lynn Wiggins |
-| 390 | 264 | Dallas Runyan |
-| 391 | 264 | Elizabeth Henry |
+| 389 | 264 | Elizabeth Henry |
+| 390 | 264 | Martha Lynn Wiggins |
+| 391 | 264 | Dallas Runyan |
 | 392 | 262 | Erica South |
 | 393 | 260 | Carlos J Blas |
-| 394 | 259 | Loopy Tower |
-| 395 | 259 | Angie Kowalsky Olson |
-| 396 | 258 | Elliott Mikila |
-| 397 | 258 | Talyn Domingues |
+| 394 | 259 | Angie Kowalsky Olson |
+| 395 | 259 | Loopy Tower |
+| 396 | 258 | Talyn Domingues |
+| 397 | 258 | Elliott Mikila |
 | 398 | 257 | Sydney Cheyenne |
 | 399 | 256 | Santara Ferguson |
 | 400 | 255 | Chummy Faller |
@@ -414,9 +414,9 @@
 | 406 | 252 | Brandi Vandevanter-Duke |
 | 407 | 252 | Kellie Montgomery |
 | 408 | 251 | Mouh Med |
-| 409 | 251 | Marilyn Mendoza |
-| 410 | 251 | Avie Lou |
-| 411 | 251 | Teresa Mandich |
+| 409 | 251 | Avie Lou |
+| 410 | 251 | Teresa Mandich |
+| 411 | 251 | Marilyn Mendoza |
 | 412 | 250 | Kim Powers |
 | 413 | 250 | Happy Drop |
 | 414 | 249 | Sarah Grundisch |
@@ -424,13 +424,13 @@
 | 416 | 248 | Sassy Twistbuilder |
 | 417 | 246 | Amber Cogdill |
 | 418 | 246 | PaiBri |
-| 419 | 244 | Sandy Justus |
-| 420 | 241 | Holly Huval |
-| 421 | 240 | Amanda Bottorff |
-| 422 | 240 | Liseth Vasquez |
-| 423 | 240 | Al Smith Jr |
-| 424 | 240 | Zappy Liney |
-| 425 | 240 | Sherri E Woods Hess |
+| 419 | 245 | Sherri E Woods Hess |
+| 420 | 244 | Sandy Justus |
+| 421 | 241 | Holly Huval |
+| 422 | 240 | Amanda Bottorff |
+| 423 | 240 | Liseth Vasquez |
+| 424 | 240 | Al Smith Jr |
+| 425 | 240 | Zappy Liney |
 | 426 | 240 | Amber Smith |
 | 427 | 239 | Newtwidebody |
 | 428 | 239 | Stella |
@@ -1952,11 +1952,11 @@
 | 1944 | 17 | Jacob nitro |
 | 1945 | 17 | Shaun Talbot |
 | 1946 | 17 | Cj Ross |
-| 1947 | 17 | Shaunda Thompson |
-| 1948 | 17 | Groovy Curver |
-| 1949 | 16 | Dreamy Fitclear |
-| 1950 | 16 | Patty White |
-| 1951 | 16 | Mathew Henderson |
+| 1947 | 17 | Mathew Henderson |
+| 1948 | 17 | Shaunda Thompson |
+| 1949 | 17 | Groovy Curver |
+| 1950 | 16 | Dreamy Fitclear |
+| 1951 | 16 | Patty White |
 | 1952 | 16 | Spicy Towerbuilder |
 | 1953 | 16 | Marshall Payne |
 | 1954 | 16 | Kimberly Rochon |
