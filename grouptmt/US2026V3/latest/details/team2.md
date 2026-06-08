@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 01:00:19 UTC
+# Standings for team2 as of 2026-06-08 01:00:42 UTC
 
 **Total Participants:** 1994
 
@@ -935,35 +935,35 @@
 | 927 | 77 | Raymond Dawson |
 | 928 | 76 | Kris Dusza Dodus |
 | 929 | 76 | Tiffany Fitch |
-| 930 | 76 | Ashley Diana |
+| 930 | 76 | Alisha Shelton |
 | 931 | 76 | Katie Boen |
-| 932 | 76 | Joe Dirilo |
-| 933 | 76 | Steve Eakins |
-| 934 | 76 | BoxerMom |
-| 935 | 75 | William Dowd |
-| 936 | 75 | Sara Moericke |
-| 937 | 75 | Chesterland |
-| 938 | 75 | Rae |
-| 939 | 75 | Sam Schwieso |
-| 940 | 75 | joey |
-| 941 | 75 | Laura Turner |
-| 942 | 75 | SunnySquare |
-| 943 | 75 | Clever Fallmatch |
-| 944 | 75 | Frisky Linkmatch |
-| 945 | 75 | Anthony Chavez |
-| 946 | 74 | Bethany Nestor |
-| 947 | 74 | Valeri Bradley |
-| 948 | 74 | Carol Whited Loza |
-| 949 | 74 | Angela VanOstrand |
-| 950 | 74 | Natasha Lee |
-| 951 | 74 | Nicole Treadway |
-| 952 | 74 | Amy D Coble |
-| 953 | 74 | Candace Mihm |
-| 954 | 73 | Jenica Davis |
-| 955 | 73 | Sassy Patternblock |
-| 956 | 73 | Chirpy Combofall |
-| 957 | 73 | blockrocker |
-| 958 | 73 | Alisha Shelton |
+| 932 | 76 | Ashley Diana |
+| 933 | 76 | Joe Dirilo |
+| 934 | 76 | Steve Eakins |
+| 935 | 76 | BoxerMom |
+| 936 | 75 | William Dowd |
+| 937 | 75 | Sara Moericke |
+| 938 | 75 | Chesterland |
+| 939 | 75 | Rae |
+| 940 | 75 | Sam Schwieso |
+| 941 | 75 | joey |
+| 942 | 75 | Laura Turner |
+| 943 | 75 | SunnySquare |
+| 944 | 75 | Clever Fallmatch |
+| 945 | 75 | Frisky Linkmatch |
+| 946 | 75 | Anthony Chavez |
+| 947 | 74 | Bethany Nestor |
+| 948 | 74 | Valeri Bradley |
+| 949 | 74 | Carol Whited Loza |
+| 950 | 74 | Angela VanOstrand |
+| 951 | 74 | Natasha Lee |
+| 952 | 74 | Nicole Treadway |
+| 953 | 74 | Amy D Coble |
+| 954 | 74 | Candace Mihm |
+| 955 | 73 | Jenica Davis |
+| 956 | 73 | Sassy Patternblock |
+| 957 | 73 | Chirpy Combofall |
+| 958 | 73 | blockrocker |
 | 959 | 73 | Jolly Brickroll |
 | 960 | 73 | Chill Clearbuilder |
 | 961 | 73 | Elodie Deveyer |
@@ -1205,12 +1205,12 @@
 | 1197 | 50 | Kenya Johnson |
 | 1198 | 50 | Kay |
 | 1199 | 50 | Tessa Kalili |
-| 1200 | 50 | Samantha Rhone |
-| 1201 | 50 | Hannah Meadows Hammond |
-| 1202 | 50 | Shannon Miller- Cooley |
-| 1203 | 49 | Nick Waterwalker |
-| 1204 | 49 | Katie Magner |
-| 1205 | 49 | Stacy Shaunce |
+| 1200 | 50 | Stacy Shaunce |
+| 1201 | 50 | Samantha Rhone |
+| 1202 | 50 | Hannah Meadows Hammond |
+| 1203 | 50 | Shannon Miller- Cooley |
+| 1204 | 49 | Nick Waterwalker |
+| 1205 | 49 | Katie Magner |
 | 1206 | 49 | unvoiced |
 | 1207 | 49 | James Maness |
 | 1208 | 49 | jme |
