@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 15:52:42 UTC
+# Standings for team1 as of 2026-06-08 15:53:21 UTC
 
 **Total Participants:** 1820
 
@@ -178,41 +178,41 @@
 | 170 | 485 | xXEKUNXx |
 | 171 | 482 | Jamal Itzjusmall Chambers |
 | 172 | 477 | Nobles Brandon |
-| 173 | 476 | IThinkNot |
-| 174 | 476 | BULLSEYE |
+| 173 | 476 | BULLSEYE |
+| 174 | 476 | IThinkNot |
 | 175 | 466 | Tootsie Pop |
-| 176 | 465 | TT |
-| 177 | 461 | Plucky Slamdrop |
+| 176 | 465 | Plucky Slamdrop |
+| 177 | 465 | TT |
 | 178 | 458 | Jimmie Makia |
 | 179 | 456 | Cachet A Ward |
 | 180 | 454 | Zappy Riser |
 | 181 | 453 | SyTheEvilGenius1 |
 | 182 | 453 | LaToya Chambers |
 | 183 | 452 | Kenny MrOnethousand Peck |
-| 184 | 446 | pooh |
-| 185 | 446 | Tamara N Lee |
+| 184 | 446 | Tamara N Lee |
+| 185 | 446 | pooh |
 | 186 | 445 | Marcheta Cervantez |
-| 187 | 444 | Helen Smith |
-| 188 | 444 | Kevin M. McGhee Jr |
+| 187 | 444 | Kevin M. McGhee Jr |
+| 188 | 444 | Helen Smith |
 | 189 | 443 | Roberta Lynn |
 | 190 | 440 | Dandy Brickfit |
 | 191 | 440 | Tanya Clayton |
 | 192 | 439 | Asani CHumba |
 | 193 | 435 | Tishauna Virgo |
-| 194 | 431 | Joey Albright |
-| 195 | 431 | Lashawn Wallace |
+| 194 | 431 | Lashawn Wallace |
+| 195 | 431 | Joey Albright |
 | 196 | 430 | boogeywoogey |
 | 197 | 421 | JaClanDiah |
 | 198 | 421 | Simmone T. Kadiri |
 | 199 | 420 | Jessica Carter |
 | 200 | 420 | Hyper Slamdrop |
 | 201 | 418 | Sheila Burnham |
-| 202 | 417 | Lashaunda |
-| 203 | 417 | Mic Balew |
+| 202 | 417 | Mic Balew |
+| 203 | 417 | Lashaunda |
 | 204 | 417 | Byron Mario Cawthon |
 | 205 | 415 | OhNoZer0 |
-| 206 | 414 | Cheery Linkfall |
-| 207 | 414 | Jenna Renee |
+| 206 | 414 | Jenna Renee |
+| 207 | 414 | Cheery Linkfall |
 | 208 | 413 | Murg4dr01d |
 | 209 | 412 | David Fuentes |
 | 210 | 411 | Tina Mitchell |
