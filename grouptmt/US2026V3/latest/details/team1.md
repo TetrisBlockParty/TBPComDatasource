@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:33:19 UTC
+# Standings for team1 as of 2026-06-08 08:34:43 UTC
 
 **Total Participants:** 1762
 
@@ -17,7 +17,7 @@
 | 9 | 7934 | Dyane Leah Ware |
 | 10 | 7491 | Tracy Cohen |
 | 11 | 7163 | Cozy Edge |
-| 12 | 7070 | Death by SnuSnu |
+| 12 | 7130 | Death by SnuSnu |
 | 13 | 6336 | Speedy Spinblock |
 | 14 | 6211 | Timothy Robert |
 | 15 | 5582 | Jocelyn Pope-Sewell |
@@ -86,8 +86,8 @@
 | 78 | 1017 | Lisa Müller |
 | 79 | 995 | Whitney Butler |
 | 80 | 987 | PandaPrincess |
-| 81 | 939 | Uneekly Mayde |
-| 82 | 927 | KenpachisGirl |
+| 81 | 967 | KenpachisGirl |
+| 82 | 939 | Uneekly Mayde |
 | 83 | 921 | Therealdywoune Peay |
 | 84 | 920 | IamJust Neyamijah Washington Sr. |
 | 85 | 917 | Dynah Gordon |
@@ -474,19 +474,19 @@
 | 466 | 156 | Chris Holland |
 | 467 | 156 | Amy Villalpando |
 | 468 | 156 | Lakiesha Crawford |
-| 469 | 155 | Katrina Ramey |
-| 470 | 155 | Jae Thompson-Tyus |
-| 471 | 155 | Kala Miller |
-| 472 | 155 | Tajuana Juana'Cee Coleman |
-| 473 | 155 | Miera Nicole |
-| 474 | 154 | Brittanie Wardlow |
-| 475 | 154 | Ciera Peace |
-| 476 | 154 | Rachael R Gull |
-| 477 | 154 | Rebecca Jackson |
-| 478 | 154 | Jenni Hardman |
-| 479 | 154 | Glitzy Clusterer |
-| 480 | 154 | Dorian Griffin |
-| 481 | 152 | Johnathan Deese |
+| 469 | 156 | Johnathan Deese |
+| 470 | 155 | Katrina Ramey |
+| 471 | 155 | Jae Thompson-Tyus |
+| 472 | 155 | Kala Miller |
+| 473 | 155 | Tajuana Juana'Cee Coleman |
+| 474 | 155 | Miera Nicole |
+| 475 | 154 | Brittanie Wardlow |
+| 476 | 154 | Ciera Peace |
+| 477 | 154 | Rachael R Gull |
+| 478 | 154 | Rebecca Jackson |
+| 479 | 154 | Jenni Hardman |
+| 480 | 154 | Glitzy Clusterer |
+| 481 | 154 | Dorian Griffin |
 | 482 | 152 | Wacky Stackbuilder |
 | 483 | 151 | Perky Balancer |
 | 484 | 151 | Jimmy Shannon |
