@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:20:20 UTC
+# Standings for team2 as of 2026-06-08 09:20:41 UTC
 
 **Total Participants:** 2141
 
@@ -451,8 +451,8 @@
 | 443 | 200 | Al Smith Jr |
 | 444 | 200 | Katie Jones |
 | 445 | 198 | Epic Tilemaker |
-| 446 | 198 | Rosalie Call Kehlenbeck |
-| 447 | 198 | TetrisMama |
+| 446 | 198 | TetrisMama |
+| 447 | 198 | Rosalie Call Kehlenbeck |
 | 448 | 197 | Andrea Rawson |
 | 449 | 196 | Greenie |
 | 450 | 196 | Spunky Linkblock |
@@ -460,73 +460,73 @@
 | 452 | 195 | Reign Hustler |
 | 453 | 194 | Jessica Connot |
 | 454 | 194 | Brian Favre |
-| 455 | 192 | Loopy Tower |
-| 456 | 192 | Raine |
-| 457 | 191 | Sarah Jane Gorsuch |
+| 455 | 193 | Wayne Johnson |
+| 456 | 192 | Loopy Tower |
+| 457 | 192 | Raine |
 | 458 | 191 | Nano. |
-| 459 | 190 | Lively Curve |
-| 460 | 190 | Saucy Wrecker |
-| 461 | 189 | Danielle Lyons |
-| 462 | 187 | Jaimie Walters |
-| 463 | 185 | straighttiptoe |
-| 464 | 185 | Monee Stronger |
+| 459 | 191 | Sarah Jane Gorsuch |
+| 460 | 190 | Lively Curve |
+| 461 | 190 | Saucy Wrecker |
+| 462 | 189 | Danielle Lyons |
+| 463 | 187 | Jaimie Walters |
+| 464 | 185 | straighttiptoe |
 | 465 | 185 | Sillyk |
 | 466 | 185 | Vicki Flippo |
 | 467 | 185 | Brooklyn Todd |
-| 468 | 184 | Sandy Rundel Holderman |
-| 469 | 184 | IncrediDragon |
-| 470 | 184 | Melissa Abbott |
+| 468 | 185 | Monee Stronger |
+| 469 | 184 | Melissa Abbott |
+| 470 | 184 | IncrediDragon |
 | 471 | 184 | Joannah Capilitan |
-| 472 | 184 | Alicia Ellenburg |
-| 473 | 184 | Nancy Schwartz Gusman-Oliver |
-| 474 | 183 | murd3rmous3 |
-| 475 | 181 | Jamie Adams |
-| 476 | 181 | rebel4lyfe |
-| 477 | 181 | Rydin Dirt |
-| 478 | 181 | Dame Smith |
+| 472 | 184 | Sandy Rundel Holderman |
+| 473 | 184 | Alicia Ellenburg |
+| 474 | 184 | Nancy Schwartz Gusman-Oliver |
+| 475 | 183 | murd3rmous3 |
+| 476 | 181 | Jamie Adams |
+| 477 | 181 | Dame Smith |
+| 478 | 181 | rebel4lyfe |
 | 479 | 181 | Meagan Grimmett Washburn |
-| 480 | 180 | Laura Larsen |
+| 480 | 181 | Rydin Dirt |
 | 481 | 180 | Dawn Kroptavich |
-| 482 | 180 | Zany Wrecker |
-| 483 | 180 | Ashley Voelz |
-| 484 | 179 | Bengy Lead |
-| 485 | 179 | Teresa Mandich |
-| 486 | 179 | Michael Carmichael |
-| 487 | 179 | Derrick |
-| 488 | 179 | Kevin Patrick |
-| 489 | 179 | Jenni LeBlanc |
-| 490 | 179 | Holly Huval |
-| 491 | 179 | Perii Reynoso |
-| 492 | 178 | Rocroc mo |
-| 493 | 178 | Ssirkus |
-| 494 | 178 | Duke Morley |
-| 495 | 177 | Lee Leonard |
-| 496 | 177 | Gluten Gremlin |
-| 497 | 177 | Alycia Marie Zelensky |
-| 498 | 176 | Kay |
-| 499 | 176 | Jana Campbell |
-| 500 | 175 | Christine James |
-| 501 | 175 | Distro |
-| 502 | 175 | Smiley Staggerpiece |
-| 503 | 174 | Leticia Tillman |
-| 504 | 174 | Laurie |
-| 505 | 172 | Charity Hauser |
-| 506 | 172 | Rescuegirl76 |
-| 507 | 172 | Mandy |
-| 508 | 170 | Dapper Riser |
-| 509 | 170 | Amber Carpenter |
-| 510 | 169 | Analee Nicole Jones |
-| 511 | 168 | Spicy Balanceblock |
-| 512 | 168 | Heather Schardan |
-| 513 | 167 | Cara Rivera |
-| 514 | 166 | Wayne Johnson |
+| 482 | 180 | Laura Larsen |
+| 483 | 180 | Zany Wrecker |
+| 484 | 180 | Ashley Voelz |
+| 485 | 179 | Bengy Lead |
+| 486 | 179 | Teresa Mandich |
+| 487 | 179 | Michael Carmichael |
+| 488 | 179 | Derrick |
+| 489 | 179 | Kevin Patrick |
+| 490 | 179 | Jenni LeBlanc |
+| 491 | 179 | Holly Huval |
+| 492 | 179 | Perii Reynoso |
+| 493 | 178 | Rocroc mo |
+| 494 | 178 | Ssirkus |
+| 495 | 178 | Duke Morley |
+| 496 | 177 | Lee Leonard |
+| 497 | 177 | Gluten Gremlin |
+| 498 | 177 | Alycia Marie Zelensky |
+| 499 | 177 | Kay |
+| 500 | 176 | Jana Campbell |
+| 501 | 175 | Christine James |
+| 502 | 175 | Distro |
+| 503 | 175 | Smiley Staggerpiece |
+| 504 | 174 | Leticia Tillman |
+| 505 | 174 | Laurie |
+| 506 | 172 | Mandy |
+| 507 | 172 | Rescuegirl76 |
+| 508 | 172 | Charity Hauser |
+| 509 | 170 | Dapper Riser |
+| 510 | 170 | Amber Carpenter |
+| 511 | 169 | Analee Nicole Jones |
+| 512 | 168 | Spicy Balanceblock |
+| 513 | 168 | Heather Schardan |
+| 514 | 167 | Cara Rivera |
 | 515 | 166 | Carl Mccoy |
 | 516 | 166 | Darla Nolt |
-| 517 | 165 | Spunky Cascadeclear |
-| 518 | 165 | Nicky Steigerwalt |
+| 517 | 165 | Nicky Steigerwalt |
+| 518 | 165 | Spunky Cascadeclear |
 | 519 | 165 | Chilly Surge |
-| 520 | 164 | Silly Tiltbuilder |
-| 521 | 164 | James Sayers |
+| 520 | 164 | James Sayers |
+| 521 | 164 | Silly Tiltbuilder |
 | 522 | 163 | Zany Cascader |
 | 523 | 162 | Mama G |
 | 524 | 162 | Jimmy Francis Shasta Bambi |

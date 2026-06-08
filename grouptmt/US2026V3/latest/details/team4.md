@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:20:20 UTC
+# Standings for team4 as of 2026-06-08 09:20:41 UTC
 
 **Total Participants:** 1804
 
@@ -156,7 +156,7 @@
 | 148 | 496 | Jackie Jackson |
 | 149 | 494 | Yesenia Castro Monreal |
 | 150 | 490 | Megan Vick |
-| 151 | 480 | Real Talk Vibes |
+| 151 | 485 | Real Talk Vibes |
 | 152 | 480 | Adam Dickinson |
 | 153 | 464 | Alicia Cook |
 | 154 | 462 | Boldy Rumbler |
