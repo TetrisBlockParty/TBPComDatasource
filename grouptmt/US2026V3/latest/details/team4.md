@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:48:40 UTC
+# Standings for team4 as of 2026-06-08 07:49:20 UTC
 
 **Total Participants:** 1797
 
@@ -673,30 +673,30 @@
 | 665 | 105 | Mar Mar |
 | 666 | 105 | Renita Jordan |
 | 667 | 105 | Cherrel M. Causey |
-| 668 | 104 | Vonni McLean |
+| 668 | 105 | Groovy Towerbuilder |
 | 669 | 104 | Yvette Johnson |
 | 670 | 104 | Goofy Riserbuilder |
 | 671 | 104 | Eddie Fuller |
 | 672 | 104 | Mmm |
 | 673 | 104 | Tipsy Piecebuilder |
-| 674 | 103 | Groovy Matchgrid |
-| 675 | 103 | Lady |
+| 674 | 104 | Vonni McLean |
+| 675 | 103 | Groovy Matchgrid |
 | 676 | 103 | Courtney Niichole |
-| 677 | 103 | Lush Twisterfit |
-| 678 | 103 | Kayla Haddenham |
-| 679 | 103 | Angela Adamo-Tash |
-| 680 | 102 | Lamont |
-| 681 | 102 | Taisha Beasley |
+| 677 | 103 | Lady |
+| 678 | 103 | Lush Twisterfit |
+| 679 | 103 | Kayla Haddenham |
+| 680 | 103 | Angela Adamo-Tash |
+| 681 | 102 | Lamont |
 | 682 | 102 | Brenda Gustamantes |
-| 683 | 102 | Spicy Peach |
-| 684 | 102 | Clever Fallzone |
-| 685 | 102 | Kat Foreman |
-| 686 | 101 | Destiny Starr LeValdo |
-| 687 | 101 | ManOfSteel |
+| 683 | 102 | Taisha Beasley |
+| 684 | 102 | Spicy Peach |
+| 685 | 102 | Clever Fallzone |
+| 686 | 102 | Kat Foreman |
+| 687 | 101 | Destiny Starr LeValdo |
 | 688 | 101 | Alicia Blunt |
 | 689 | 101 | Leasa Marie |
 | 690 | 101 | David Lay |
-| 691 | 101 | Groovy Towerbuilder |
+| 691 | 101 | ManOfSteel |
 | 692 | 101 | Audrianna Skaff |
 | 693 | 101 | Abby Waterman |
 | 694 | 101 | Alaina Rousseau |
@@ -1691,70 +1691,70 @@
 | 1683 | 11 | Laurelez R. Carmen |
 | 1684 | 11 | ITSME |
 | 1685 | 11 | A La |
-| 1686 | 10 | Corissa Handy |
-| 1687 | 10 | Lively Cascadeclear |
-| 1688 | 10 | ToneDeaf |
-| 1689 | 10 | Nicole |
-| 1690 | 10 | Jesse Richardson |
-| 1691 | 10 | Buchanon Bossingup Jadrienne |
-| 1692 | 10 | Swanky Shatterbuilder |
-| 1693 | 10 | Brianne Stull |
-| 1694 | 10 | Breezy Clusterfit |
-| 1695 | 10 | Karen Gilbertson |
-| 1696 | 10 | Cranky Stackbuilder |
-| 1697 | 10 | Tee |
-| 1698 | 10 | Lisa Hammock |
-| 1699 | 10 | Quana Jackson |
-| 1700 | 10 | Lazy Crusher |
-| 1701 | 10 | Nicole Washington |
-| 1702 | 10 | Mindy Likes Tats |
-| 1703 | 10 | Charlie Thornton |
-| 1704 | 10 | ScorpioQueen |
-| 1705 | 10 | Larredo Covington |
-| 1706 | 10 | John Garza |
-| 1707 | 10 | Kay Immaslay |
-| 1708 | 10 | Whoop Blancò |
-| 1709 | 10 | Esla mamas |
-| 1710 | 10 | Dreamy Dash |
-| 1711 | 10 | Clever Blockbuilder |
-| 1712 | 10 | tmnt |
-| 1713 | 10 | MzB3tyBoop |
-| 1714 | 9 | estefi |
-| 1715 | 9 | apryliss Star |
-| 1716 | 9 | Micole Norris |
-| 1717 | 9 | Phoenyx Roze |
-| 1718 | 9 | K Courtney Camp |
-| 1719 | 9 | MissGranity |
-| 1720 | 9 | Todd Hamilton |
-| 1721 | 9 | Monica Bell |
-| 1722 | 9 | Whos Square |
-| 1723 | 9 | Frothy Riseclear |
-| 1724 | 9 | Trippy Mels |
-| 1725 | 9 | fmp |
-| 1726 | 9 | Julie Smith |
-| 1727 | 9 | Marty Carver |
-| 1728 | 9 | Jinx4fun |
-| 1729 | 9 | Terry Peach |
-| 1730 | 9 | Chuck Burns |
-| 1731 | 8 | Floyda Lynch |
-| 1732 | 8 | Lewis Potts |
-| 1733 | 8 | Mac James |
-| 1734 | 8 | Courtney Miller |
-| 1735 | 8 | Phoebe Tracy |
-| 1736 | 8 | Shania Richmond |
-| 1737 | 8 | 67boyyy |
-| 1738 | 8 | Chummy Gridder |
-| 1739 | 8 | Jen Molepske |
-| 1740 | 8 | LaTesha D Williams |
-| 1741 | 8 | Bryieson Watson |
-| 1742 | 8 | Gabby Markham |
-| 1743 | 8 | Virgo27 |
-| 1744 | 8 | Gerald Marx |
-| 1745 | 8 | Ivory Glenn |
-| 1746 | 8 | Jose Leandro Calderin |
-| 1747 | 8 | Tony Tenas |
-| 1748 | 8 | Scuba steve |
-| 1749 | 8 | Nums |
+| 1686 | 11 | Chuck Burns |
+| 1687 | 10 | Corissa Handy |
+| 1688 | 10 | Lively Cascadeclear |
+| 1689 | 10 | ToneDeaf |
+| 1690 | 10 | Nicole |
+| 1691 | 10 | Jesse Richardson |
+| 1692 | 10 | Buchanon Bossingup Jadrienne |
+| 1693 | 10 | Swanky Shatterbuilder |
+| 1694 | 10 | Brianne Stull |
+| 1695 | 10 | Breezy Clusterfit |
+| 1696 | 10 | Karen Gilbertson |
+| 1697 | 10 | Cranky Stackbuilder |
+| 1698 | 10 | Tee |
+| 1699 | 10 | Lisa Hammock |
+| 1700 | 10 | Quana Jackson |
+| 1701 | 10 | Lazy Crusher |
+| 1702 | 10 | Nicole Washington |
+| 1703 | 10 | Mindy Likes Tats |
+| 1704 | 10 | Charlie Thornton |
+| 1705 | 10 | ScorpioQueen |
+| 1706 | 10 | Larredo Covington |
+| 1707 | 10 | John Garza |
+| 1708 | 10 | Kay Immaslay |
+| 1709 | 10 | Whoop Blancò |
+| 1710 | 10 | Esla mamas |
+| 1711 | 10 | Dreamy Dash |
+| 1712 | 10 | Clever Blockbuilder |
+| 1713 | 10 | tmnt |
+| 1714 | 10 | MzB3tyBoop |
+| 1715 | 9 | estefi |
+| 1716 | 9 | apryliss Star |
+| 1717 | 9 | Micole Norris |
+| 1718 | 9 | Phoenyx Roze |
+| 1719 | 9 | K Courtney Camp |
+| 1720 | 9 | MissGranity |
+| 1721 | 9 | Todd Hamilton |
+| 1722 | 9 | Monica Bell |
+| 1723 | 9 | Whos Square |
+| 1724 | 9 | Frothy Riseclear |
+| 1725 | 9 | Trippy Mels |
+| 1726 | 9 | fmp |
+| 1727 | 9 | Julie Smith |
+| 1728 | 9 | Marty Carver |
+| 1729 | 9 | Jinx4fun |
+| 1730 | 9 | Terry Peach |
+| 1731 | 8 | Lewis Potts |
+| 1732 | 8 | Mac James |
+| 1733 | 8 | Courtney Miller |
+| 1734 | 8 | Phoebe Tracy |
+| 1735 | 8 | Shania Richmond |
+| 1736 | 8 | 67boyyy |
+| 1737 | 8 | Chummy Gridder |
+| 1738 | 8 | Jen Molepske |
+| 1739 | 8 | LaTesha D Williams |
+| 1740 | 8 | Bryieson Watson |
+| 1741 | 8 | Gabby Markham |
+| 1742 | 8 | Virgo27 |
+| 1743 | 8 | Gerald Marx |
+| 1744 | 8 | Ivory Glenn |
+| 1745 | 8 | Jose Leandro Calderin |
+| 1746 | 8 | Tony Tenas |
+| 1747 | 8 | Scuba steve |
+| 1748 | 8 | Nums |
+| 1749 | 8 | Floyda Lynch |
 | 1750 | 7 | Spicy Faller |
 | 1751 | 7 | Heather Smith-Carter |
 | 1752 | 7 | Rican |
