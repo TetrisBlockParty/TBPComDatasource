@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 03:16:41 UTC
+# Standings for team2 as of 2026-06-08 03:17:16 UTC
 
 **Total Participants:** 2055
 
@@ -29,8 +29,8 @@
 | 21 | 4509 | Bobbi |
 | 22 | 4459 | Kathleen M Cox |
 | 23 | 4355 | Alexia Reagan |
-| 24 | 4228 | Erica Dees Parks |
-| 25 | 4220 | Andre Love |
+| 24 | 4270 | Andre Love |
+| 25 | 4228 | Erica Dees Parks |
 | 26 | 3985 | Cassie Swart |
 | 27 | 3984 | Amber |
 | 28 | 3939 | Spunky Clicker |
@@ -160,8 +160,8 @@
 | 152 | 574 | Brandy McCune Reep |
 | 153 | 563 | Monique Frantz |
 | 154 | 555 | Christina Maria |
-| 155 | 554 | Zarah Kettler |
-| 156 | 554 | Cathy Tippett |
+| 155 | 554 | Cathy Tippett |
+| 156 | 554 | Zarah Kettler |
 | 157 | 553 | Jamie Jones |
 | 158 | 551 | Jason Cook |
 | 159 | 550 | Amanda Sikes |
@@ -187,8 +187,8 @@
 | 179 | 474 | Bubbly Strikerpiece |
 | 180 | 470 | Zesty Strikerbuilder |
 | 181 | 457 | MegaPooh |
-| 182 | 453 | Ashley Green |
-| 183 | 453 | Kimberly Cowan |
+| 182 | 453 | Kimberly Cowan |
+| 183 | 453 | Ashley Green |
 | 184 | 451 | Gill |
 | 185 | 449 | Danielle Blount |
 | 186 | 448 | Eric Drane |
@@ -197,15 +197,15 @@
 | 189 | 435 | Milad Arzani |
 | 190 | 434 | Frilly Dashfit |
 | 191 | 431 | AndyJo |
-| 192 | 429 | Snappy Blockbuilder |
-| 193 | 429 | Suki Jacobs |
-| 194 | 429 | Cool Climber |
+| 192 | 429 | Cool Climber |
+| 193 | 429 | Snappy Blockbuilder |
+| 194 | 429 | Suki Jacobs |
 | 195 | 428 | Physhie |
 | 196 | 428 | Zany Blockclear |
 | 197 | 427 | Janelle Edgecombe |
 | 198 | 425 | Joni Michelle Morgan |
-| 199 | 423 | Lisa Underwood Desmond |
-| 200 | 423 | Tara |
+| 199 | 423 | Tara |
+| 200 | 423 | Lisa Underwood Desmond |
 | 201 | 422 | Glitzy Base |
 | 202 | 422 | Sara Perkins |
 | 203 | 422 | Flower_child |
@@ -219,8 +219,8 @@
 | 211 | 405 | MaddieCherie |
 | 212 | 405 | Amy Gregg |
 | 213 | 402 | Brenda Jones |
-| 214 | 395 | Justin McCray |
-| 215 | 394 | Nikki EightySixed |
+| 214 | 397 | Nikki EightySixed |
+| 215 | 395 | Justin McCray |
 | 216 | 392 | Bri St Peter |
 | 217 | 392 | Leigh Ann |
 | 218 | 391 | La chulis |
@@ -245,23 +245,23 @@
 | 237 | 364 | Lindsey Ford |
 | 238 | 360 | Jacob Carpenter |
 | 239 | 355 | Becca Marie |
-| 240 | 354 | Chasity Simpson |
-| 241 | 351 | Cathy Lee Stoneking |
-| 242 | 349 | Spicy Basepiece |
-| 243 | 347 | Ratchet |
-| 244 | 347 | Fudgie Pie |
-| 245 | 346 | Katrien |
-| 246 | 344 | Jessica Lynn |
-| 247 | 344 | Lora Via |
-| 248 | 340 | Marge Cromer |
-| 249 | 339 | Crystal Poss |
+| 240 | 354 | Crystal Poss |
+| 241 | 354 | Chasity Simpson |
+| 242 | 351 | Cathy Lee Stoneking |
+| 243 | 349 | Spicy Basepiece |
+| 244 | 347 | Ratchet |
+| 245 | 347 | Fudgie Pie |
+| 246 | 346 | Katrien |
+| 247 | 344 | Jessica Lynn |
+| 248 | 344 | Lora Via |
+| 249 | 340 | Marge Cromer |
 | 250 | 339 | Keri Mears |
 | 251 | 337 | Ashley Billiot Rhodes |
 | 252 | 337 | Adriana Daniela Agapie |
 | 253 | 328 | Tim Tim |
 | 254 | 328 | Xandrea Jones |
-| 255 | 325 | Flashy Twistline |
-| 256 | 325 | Snappy Combo |
+| 255 | 325 | Snappy Combo |
+| 256 | 325 | Flashy Twistline |
 | 257 | 324 | DayDreamer79 |
 | 258 | 323 | Shannon Wilson |
 | 259 | 322 | Pam Bauder Ludwig |
@@ -517,11 +517,11 @@
 | 509 | 159 | Sherri Caillet Aucoin |
 | 510 | 159 | Jennifer Vitro |
 | 511 | 158 | Mike Mordhorst |
-| 512 | 158 | Ceci |
-| 513 | 158 | Chrystal |
-| 514 | 157 | Dana Vaiden Rivers |
-| 515 | 157 | Hillary Frank |
-| 516 | 157 | Nikki Hatch |
+| 512 | 158 | Nikki Hatch |
+| 513 | 158 | Ceci |
+| 514 | 158 | Chrystal |
+| 515 | 157 | Dana Vaiden Rivers |
+| 516 | 157 | Hillary Frank |
 | 517 | 156 | Jennifer Lalk |
 | 518 | 156 | TetrisMama |
 | 519 | 156 | Charlotte Castelli |
