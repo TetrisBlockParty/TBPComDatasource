@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:58:19 UTC
+# Standings for team2 as of 2026-06-08 06:58:42 UTC
 
 **Total Participants:** 2129
 
@@ -24,7 +24,7 @@
 | 16 | 5961 | Brandon Brown |
 | 17 | 5585 | Renee Weedling |
 | 18 | 5273 | Andre Love |
-| 19 | 5225 | Ber |
+| 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
 | 21 | 4947 | Lola C Davis |
 | 22 | 4509 | Bobbi |
@@ -287,59 +287,59 @@
 | 279 | 316 | Jeanna Mendez |
 | 280 | 312 | Hypee |
 | 281 | 310 | Jenn |
-| 282 | 308 | Hector |
-| 283 | 308 | Charles E Mccardell |
+| 282 | 308 | Charles E Mccardell |
+| 283 | 308 | Hector |
 | 284 | 308 | Larry Cross |
 | 285 | 308 | Heather Burgett |
-| 286 | 306 | Brittney Williams |
-| 287 | 305 | Logan Duffey |
-| 288 | 305 | Melissa Clogher White |
-| 289 | 305 | Havik Whitfield |
-| 290 | 302 | Aldotfus Williams |
-| 291 | 300 | Sarah Rodriguez |
-| 292 | 300 | Melisa |
-| 293 | 300 | Patricia Carroll |
-| 294 | 300 | Jamin |
-| 295 | 299 | Alicia Kinney |
-| 296 | 298 | Rob Owens |
-| 297 | 296 | Vistabrat |
-| 298 | 295 | Jason Cunningham |
-| 299 | 295 | James Ward |
+| 286 | 306 | Jeffrey Smith |
+| 287 | 306 | Brittney Williams |
+| 288 | 305 | Logan Duffey |
+| 289 | 305 | Melissa Clogher White |
+| 290 | 305 | Havik Whitfield |
+| 291 | 302 | Aldotfus Williams |
+| 292 | 300 | Sarah Rodriguez |
+| 293 | 300 | Jamin |
+| 294 | 300 | Melisa |
+| 295 | 300 | Patricia Carroll |
+| 296 | 299 | Alicia Kinney |
+| 297 | 298 | Rob Owens |
+| 298 | 296 | Vistabrat |
+| 299 | 295 | Jason Cunningham |
 | 300 | 295 | Nathan Walker |
-| 301 | 287 | Steven |
-| 302 | 286 | Kathy Strickland |
-| 303 | 286 | Kathleen Keogh Van Schoyck |
-| 304 | 285 | Boldy Wobbler |
-| 305 | 284 | Kelly Vedder |
-| 306 | 283 | Hilliary Beyer |
+| 301 | 295 | James Ward |
+| 302 | 287 | Steven |
+| 303 | 286 | Kathy Strickland |
+| 304 | 286 | Kathleen Keogh Van Schoyck |
+| 305 | 285 | Boldy Wobbler |
+| 306 | 284 | Kelly Vedder |
 | 307 | 283 | Buffy Diane Blake |
-| 308 | 281 | AndrewandShela Gornik |
-| 309 | 280 | Tami Kay Williams Watson |
-| 310 | 280 | Loopy Dropper |
-| 311 | 280 | August Christy Lathrop |
-| 312 | 279 | Curly Windbreaker |
-| 313 | 278 | Amy Nicole McCanne |
-| 314 | 276 | Amy Taylor Pomerenk |
+| 308 | 283 | Hilliary Beyer |
+| 309 | 281 | AndrewandShela Gornik |
+| 310 | 280 | August Christy Lathrop |
+| 311 | 280 | Loopy Dropper |
+| 312 | 280 | Tami Kay Williams Watson |
+| 313 | 279 | Curly Windbreaker |
+| 314 | 278 | Amy Nicole McCanne |
 | 315 | 276 | Jenny |
-| 316 | 272 | SEH |
-| 317 | 270 | Sharon L Brazelton |
-| 318 | 269 | Carolyn McNaughton |
-| 319 | 269 | Brooke Lynn Marie Adelaide |
-| 320 | 267 | Karly Moore |
+| 316 | 276 | Amy Taylor Pomerenk |
+| 317 | 272 | SEH |
+| 318 | 270 | Sharon L Brazelton |
+| 319 | 269 | Carolyn McNaughton |
+| 320 | 269 | Brooke Lynn Marie Adelaide |
 | 321 | 267 | Stephanie |
-| 322 | 266 | Josh Vietz |
-| 323 | 265 | Mikia Stokes |
+| 322 | 267 | Karly Moore |
+| 323 | 266 | Josh Vietz |
 | 324 | 265 | Skye Ehret |
 | 325 | 265 | Marylin Eacker |
-| 326 | 264 | Elizabeth Henry |
+| 326 | 265 | Mikia Stokes |
 | 327 | 264 | Dallas Runyan |
-| 328 | 262 | Erica South |
-| 329 | 260 | Tony Medina |
+| 328 | 264 | Elizabeth Henry |
+| 329 | 262 | Erica South |
 | 330 | 260 | Danielle Pack Lewellen |
-| 331 | 260 | marsam |
-| 332 | 259 | Ariel Gundersen |
-| 333 | 259 | Angie Kowalsky Olson |
-| 334 | 258 | Jeffrey Smith |
+| 331 | 260 | Tony Medina |
+| 332 | 260 | marsam |
+| 333 | 259 | Ariel Gundersen |
+| 334 | 259 | Angie Kowalsky Olson |
 | 335 | 258 | Talyn Domingues |
 | 336 | 257 | Sydney Cheyenne |
 | 337 | 255 | Tina Marie |
