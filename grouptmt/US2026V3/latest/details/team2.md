@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:36:42 UTC
+# Standings for team2 as of 2026-06-08 09:37:20 UTC
 
 **Total Participants:** 2144
 
@@ -23,7 +23,7 @@
 | 15 | 6114 | Morgann McDaniel |
 | 16 | 5961 | Brandon Brown |
 | 17 | 5585 | Renee Weedling |
-| 18 | 5273 | Andre Love |
+| 18 | 5283 | Andre Love |
 | 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
 | 21 | 5001 | Bobbi |
@@ -94,10 +94,10 @@
 | 86 | 1217 | Mikki Torres |
 | 87 | 1194 | Epic Frame |
 | 88 | 1182 | Jayke Edward |
-| 89 | 1181 | Giddy Slamdrop |
-| 90 | 1119 | Beverly Lynn Mills |
-| 91 | 1107 | Charlie Wilson |
-| 92 | 1089 | Bridget N Jonathan Franz |
+| 89 | 1182 | Bridget N Jonathan Franz |
+| 90 | 1181 | Giddy Slamdrop |
+| 91 | 1119 | Beverly Lynn Mills |
+| 92 | 1107 | Charlie Wilson |
 | 93 | 1082 | Kvothe |
 | 94 | 1070 | Michelle Maulsby |
 | 95 | 1060 | Criccett Hooper-Smith |
@@ -156,8 +156,8 @@
 | 148 | 645 | Jackie Tupper |
 | 149 | 639 | Rhonda Diebold |
 | 150 | 635 | Joslyn Johnson |
-| 151 | 627 | Jgato |
-| 152 | 626 | MarioKarasovic |
+| 151 | 631 | MarioKarasovic |
+| 152 | 627 | Jgato |
 | 153 | 626 | Dsabrina Maxey |
 | 154 | 619 | Jeska Gaines |
 | 155 | 614 | Kellie Sharp Godfrey |
@@ -339,91 +339,91 @@
 | 331 | 266 | Josh Vietz |
 | 332 | 265 | Marylin Eacker |
 | 333 | 265 | Skye Ehret |
-| 334 | 265 | Mikia Stokes |
-| 335 | 264 | Zesty Zoney |
-| 336 | 264 | Dallas Runyan |
-| 337 | 264 | Elizabeth Henry |
-| 338 | 262 | Erica South |
-| 339 | 260 | Danielle Pack Lewellen |
-| 340 | 260 | Anthony Swift |
-| 341 | 260 | marsam |
-| 342 | 260 | Tony Medina |
-| 343 | 259 | Angie Kowalsky Olson |
-| 344 | 259 | Ariel Gundersen |
-| 345 | 258 | Talyn Domingues |
-| 346 | 257 | Sydney Cheyenne |
-| 347 | 256 | Theresa Huddleston |
-| 348 | 256 | Jill Goff |
-| 349 | 255 | Chummy Faller |
-| 350 | 255 | Tina Marie |
-| 351 | 255 | True |
-| 352 | 254 | Nicole Plummer |
-| 353 | 254 | Victoria Pale |
-| 354 | 253 | Eric Wayne Maschman |
-| 355 | 253 | Kim Hunt |
-| 356 | 253 | Santara Ferguson |
-| 357 | 252 | Boldy Fitclear |
-| 358 | 252 | Brandi Vandevanter-Duke |
-| 359 | 252 | Jessica Christine |
-| 360 | 252 | Kellie Montgomery |
-| 361 | 251 | Robin G |
-| 362 | 251 | Marilyn Mendoza |
-| 363 | 251 | Bianca Woodruff |
-| 364 | 251 | Mouh Med |
-| 365 | 251 | Avie Lou |
-| 366 | 250 | Kim Powers |
-| 367 | 250 | Carlos J Blas |
-| 368 | 250 | Ray Daisy |
+| 334 | 265 | Kimberly Benson |
+| 335 | 265 | Mikia Stokes |
+| 336 | 264 | Zesty Zoney |
+| 337 | 264 | Dallas Runyan |
+| 338 | 264 | Elizabeth Henry |
+| 339 | 262 | Erica South |
+| 340 | 260 | Danielle Pack Lewellen |
+| 341 | 260 | Anthony Swift |
+| 342 | 260 | marsam |
+| 343 | 260 | Tony Medina |
+| 344 | 259 | Angie Kowalsky Olson |
+| 345 | 259 | Ariel Gundersen |
+| 346 | 258 | Talyn Domingues |
+| 347 | 257 | Sydney Cheyenne |
+| 348 | 256 | Theresa Huddleston |
+| 349 | 256 | Jill Goff |
+| 350 | 255 | Chummy Faller |
+| 351 | 255 | Tina Marie |
+| 352 | 255 | True |
+| 353 | 254 | Nicole Plummer |
+| 354 | 254 | Victoria Pale |
+| 355 | 253 | Eric Wayne Maschman |
+| 356 | 253 | Kim Hunt |
+| 357 | 253 | Santara Ferguson |
+| 358 | 252 | Boldy Fitclear |
+| 359 | 252 | Brandi Vandevanter-Duke |
+| 360 | 252 | Jessica Christine |
+| 361 | 252 | Kellie Montgomery |
+| 362 | 251 | Robin G |
+| 363 | 251 | Marilyn Mendoza |
+| 364 | 251 | Bianca Woodruff |
+| 365 | 251 | Mouh Med |
+| 366 | 251 | Avie Lou |
+| 367 | 250 | Kim Powers |
+| 368 | 250 | Carlos J Blas |
 | 369 | 250 | Happy Drop |
-| 370 | 249 | Sarah Grundisch |
-| 371 | 247 | Olivia Jefferson |
-| 372 | 247 | SilentBuffalo |
-| 373 | 246 | PaiBri |
-| 374 | 246 | Amber Cogdill |
-| 375 | 240 | Zappy Liney |
-| 376 | 240 | Liseth Vasquez |
-| 377 | 240 | Amanda Bottorff |
-| 378 | 240 | Naomi Walker |
-| 379 | 239 | Melmel |
-| 380 | 239 | Patria Osuoha |
-| 381 | 239 | Stella |
-| 382 | 238 | Laverne Ellis Blair |
-| 383 | 238 | andee |
-| 384 | 237 | Amanda Priddy |
-| 385 | 236 | Lush Party |
-| 386 | 233 | Stephany Green |
-| 387 | 230 | Tango Sierra |
-| 388 | 230 | Brandy Chinelle |
-| 389 | 230 | phamous1 |
-| 390 | 229 | Funway998 |
-| 391 | 229 | Angie Bishop |
-| 392 | 229 | MUMBLES |
-| 393 | 229 | Brittany Mathis |
-| 394 | 228 | Christy Diane Escobar |
-| 395 | 227 | meg |
-| 396 | 227 | Paula Haskins |
-| 397 | 227 | Laura Melton |
-| 398 | 227 | Jennifer McClure |
-| 399 | 225 | Amanda L Strong |
-| 400 | 225 | Sandy Justus |
-| 401 | 225 | Cheery Towerzone |
-| 402 | 222 | Harper |
-| 403 | 220 | Sherri E Woods Hess |
-| 404 | 220 | Precious Womack |
-| 405 | 220 | Elliott Mikila |
-| 406 | 220 | ShiverMeSplinter |
-| 407 | 220 | Michelle M Braley |
-| 408 | 220 | KazzyKay |
-| 409 | 220 | Flashy Basegrid |
-| 410 | 220 | Jess |
-| 411 | 220 | Krystle L Coon |
-| 412 | 219 | Mouh Ity |
-| 413 | 219 | Gwendolyn Boykin Mobbs |
-| 414 | 219 | Francesca Wagenhoffer |
-| 415 | 218 | Julie Alexander Sykes |
-| 416 | 217 | Spicy Snapclear |
-| 417 | 216 | Melissa Nash |
-| 418 | 216 | Kimberly Benson |
+| 370 | 250 | Ray Daisy |
+| 371 | 249 | Sarah Grundisch |
+| 372 | 247 | Olivia Jefferson |
+| 373 | 247 | SilentBuffalo |
+| 374 | 246 | PaiBri |
+| 375 | 246 | Amber Cogdill |
+| 376 | 240 | Zappy Liney |
+| 377 | 240 | Liseth Vasquez |
+| 378 | 240 | Amanda Bottorff |
+| 379 | 240 | Naomi Walker |
+| 380 | 239 | Melmel |
+| 381 | 239 | Patria Osuoha |
+| 382 | 239 | Stella |
+| 383 | 238 | Laverne Ellis Blair |
+| 384 | 238 | andee |
+| 385 | 237 | Amanda Priddy |
+| 386 | 236 | Lush Party |
+| 387 | 233 | Stephany Green |
+| 388 | 230 | Tango Sierra |
+| 389 | 230 | Brandy Chinelle |
+| 390 | 230 | phamous1 |
+| 391 | 229 | Funway998 |
+| 392 | 229 | Angie Bishop |
+| 393 | 229 | MUMBLES |
+| 394 | 229 | Brittany Mathis |
+| 395 | 228 | Christy Diane Escobar |
+| 396 | 227 | meg |
+| 397 | 227 | Paula Haskins |
+| 398 | 227 | Laura Melton |
+| 399 | 227 | Jennifer McClure |
+| 400 | 225 | Amanda L Strong |
+| 401 | 225 | Sandy Justus |
+| 402 | 225 | Cheery Towerzone |
+| 403 | 222 | Harper |
+| 404 | 220 | Sherri E Woods Hess |
+| 405 | 220 | Precious Womack |
+| 406 | 220 | Elliott Mikila |
+| 407 | 220 | ShiverMeSplinter |
+| 408 | 220 | Michelle M Braley |
+| 409 | 220 | KazzyKay |
+| 410 | 220 | Flashy Basegrid |
+| 411 | 220 | Jess |
+| 412 | 220 | Krystle L Coon |
+| 413 | 219 | Mouh Ity |
+| 414 | 219 | Gwendolyn Boykin Mobbs |
+| 415 | 219 | Francesca Wagenhoffer |
+| 416 | 218 | Julie Alexander Sykes |
+| 417 | 217 | Spicy Snapclear |
+| 418 | 216 | Melissa Nash |
 | 419 | 215 | Missy Renia |
 | 420 | 215 | Alonzo Reed |
 | 421 | 215 | Maria Ward |
@@ -972,25 +972,25 @@
 | 964 | 85 | Rob Phillips |
 | 965 | 85 | Jazzy Snapfit |
 | 966 | 85 | Katelyn Rodgers |
-| 967 | 84 | Michael Anthony Anstead |
-| 968 | 84 | Sandy Molina |
-| 969 | 84 | Calah Amore |
-| 970 | 84 | Tiffany Fitch |
-| 971 | 84 | Stacey Loretta Wallace |
-| 972 | 84 | Kris Dusza Dodus |
-| 973 | 84 | Chirpy Tower |
-| 974 | 83 | Diamond Balotje |
-| 975 | 83 | Clever Fallmatch |
-| 976 | 83 | Carol Whited Loza |
-| 977 | 83 | Lezley Hawkins |
-| 978 | 83 | Brenda Zona |
-| 979 | 83 | Sharon Wade |
-| 980 | 83 | Aneokly |
-| 981 | 83 | Miguel360 |
-| 982 | 83 | Wacky Curve |
-| 983 | 83 | Jodee Woods |
-| 984 | 82 | Madbull |
-| 985 | 82 | Cindy Wellman |
+| 967 | 85 | Cindy Wellman |
+| 968 | 84 | Michael Anthony Anstead |
+| 969 | 84 | Sandy Molina |
+| 970 | 84 | Calah Amore |
+| 971 | 84 | Tiffany Fitch |
+| 972 | 84 | Stacey Loretta Wallace |
+| 973 | 84 | Kris Dusza Dodus |
+| 974 | 84 | Chirpy Tower |
+| 975 | 83 | Diamond Balotje |
+| 976 | 83 | Clever Fallmatch |
+| 977 | 83 | Carol Whited Loza |
+| 978 | 83 | Lezley Hawkins |
+| 979 | 83 | Brenda Zona |
+| 980 | 83 | Sharon Wade |
+| 981 | 83 | Aneokly |
+| 982 | 83 | Miguel360 |
+| 983 | 83 | Wacky Curve |
+| 984 | 83 | Jodee Woods |
+| 985 | 82 | Madbull |
 | 986 | 82 | Bonez |
 | 987 | 82 | Becka Jones |
 | 988 | 82 | Angela VanOstrand |
