@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 15:38:19 UTC
+# Standings for team1 as of 2026-06-08 15:38:41 UTC
 
 **Total Participants:** 1818
 
@@ -180,7 +180,7 @@
 | 172 | 476 | BULLSEYE |
 | 173 | 466 | Tootsie Pop |
 | 174 | 465 | TT |
-| 175 | 459 | Plucky Slamdrop |
+| 175 | 461 | Plucky Slamdrop |
 | 176 | 458 | Jimmie Makia |
 | 177 | 456 | Cachet A Ward |
 | 178 | 454 | Zappy Riser |

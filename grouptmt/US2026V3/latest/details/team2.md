@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:38:19 UTC
+# Standings for team2 as of 2026-06-08 15:38:41 UTC
 
 **Total Participants:** 2201
 
@@ -1212,49 +1212,49 @@
 | 1204 | 70 | Rosie |
 | 1205 | 70 | Cassafrass |
 | 1206 | 70 | Abby Dexter |
-| 1207 | 69 | Jackie Moran Tiller |
-| 1208 | 69 | Loretta Crow |
-| 1209 | 69 | Glowing Earthy Embers |
-| 1210 | 69 | Flashy Wipegrid |
-| 1211 | 69 | Shanna Jones Scott |
-| 1212 | 69 | Witty Shatterline |
-| 1213 | 69 | Mandy Anderson |
-| 1214 | 69 | Brenda Leonard |
-| 1215 | 69 | Nonnie |
-| 1216 | 68 | April Appleton |
-| 1217 | 68 | Crystal Whygle |
-| 1218 | 68 | Viola Fletcher |
-| 1219 | 68 | Anthony Kordich |
-| 1220 | 68 | Sami Amato |
-| 1221 | 67 | Happy Curvebuilder |
-| 1222 | 67 | James Calhoun |
-| 1223 | 67 | Tashamonique Puckey |
-| 1224 | 67 | Kelly Christine Trimmer |
-| 1225 | 67 | LK |
-| 1226 | 67 | Shannon Vanlester |
-| 1227 | 67 | Silly Swiper |
-| 1228 | 67 | Flex |
-| 1229 | 67 | Brittany Paul |
-| 1230 | 67 | Tina Carr |
-| 1231 | 67 | Ashley Lee DeHaan |
-| 1232 | 67 | Megan McDevitt |
-| 1233 | 67 | Rachel |
-| 1234 | 66 | Rae Madewell |
-| 1235 | 66 | Amanda Bryte |
-| 1236 | 66 | Signerlisa |
+| 1207 | 70 | Funky Blockmatch |
+| 1208 | 69 | Jackie Moran Tiller |
+| 1209 | 69 | Loretta Crow |
+| 1210 | 69 | Glowing Earthy Embers |
+| 1211 | 69 | Flashy Wipegrid |
+| 1212 | 69 | Shanna Jones Scott |
+| 1213 | 69 | Witty Shatterline |
+| 1214 | 69 | Mandy Anderson |
+| 1215 | 69 | Brenda Leonard |
+| 1216 | 69 | Nonnie |
+| 1217 | 68 | April Appleton |
+| 1218 | 68 | Crystal Whygle |
+| 1219 | 68 | Viola Fletcher |
+| 1220 | 68 | Anthony Kordich |
+| 1221 | 68 | Sami Amato |
+| 1222 | 67 | Happy Curvebuilder |
+| 1223 | 67 | James Calhoun |
+| 1224 | 67 | Tashamonique Puckey |
+| 1225 | 67 | Kelly Christine Trimmer |
+| 1226 | 67 | LK |
+| 1227 | 67 | Shannon Vanlester |
+| 1228 | 67 | Silly Swiper |
+| 1229 | 67 | Flex |
+| 1230 | 67 | Brittany Paul |
+| 1231 | 67 | Tina Carr |
+| 1232 | 67 | Ashley Lee DeHaan |
+| 1233 | 67 | Megan McDevitt |
+| 1234 | 67 | Rachel |
+| 1235 | 66 | Rae Madewell |
+| 1236 | 66 | Amanda Bryte |
 | 1237 | 66 | Yvonne Rodriguez |
-| 1238 | 66 | Jenna Thorn |
-| 1239 | 66 | David Cadiente |
-| 1240 | 66 | ktabzz |
+| 1238 | 66 | Signerlisa |
+| 1239 | 66 | Jenna Thorn |
+| 1240 | 66 | David Cadiente |
 | 1241 | 66 | Cool cee |
 | 1242 | 66 | Bunny Bt |
-| 1243 | 66 | Dizzy Dropzone |
-| 1244 | 66 | Funky Blockmatch |
-| 1245 | 65 | nogo |
+| 1243 | 66 | ktabzz |
+| 1244 | 66 | Dizzy Dropzone |
+| 1245 | 65 | Deanna Mc |
 | 1246 | 65 | Raffa |
 | 1247 | 65 | bigdog |
-| 1248 | 65 | Deanna Mc |
-| 1249 | 65 | Nina-Christina Cusyck |
+| 1248 | 65 | Nina-Christina Cusyck |
+| 1249 | 65 | nogo |
 | 1250 | 65 | Viani09 |
 | 1251 | 65 | Beej Blake |
 | 1252 | 65 | Boo Boo Binx |
