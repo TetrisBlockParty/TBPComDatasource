@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-08 08:50:19 UTC
+# Standings for team3 as of 2026-06-08 08:50:42 UTC
 
 **Total Participants:** 6896
 
@@ -201,27 +201,27 @@
 | 193 | 1602 | Anni Leslie |
 | 194 | 1602 | Tracy Wise Moon |
 | 195 | 1600 | MattyP |
-| 196 | 1597 | Heather Harrington |
-| 197 | 1591 | Jalissa Tucker |
-| 198 | 1543 | Tracy Wise |
-| 199 | 1541 | Tracy Nola Beebe |
-| 200 | 1539 | Tyler StaySnappin Old'Page |
-| 201 | 1535 | Jasmine Glover |
-| 202 | 1534 | Snippy Spinbuilder |
-| 203 | 1484 | BASH FULL |
-| 204 | 1467 | THEMAN |
-| 205 | 1465 | Usernotfound Usernotfound |
-| 206 | 1458 | Syeed U Zaman |
-| 207 | 1457 | Jake Yamasaki |
-| 208 | 1445 | Katie Reece Mosley |
-| 209 | 1441 | Jonathan Harvey |
-| 210 | 1437 | Tysean Means |
-| 211 | 1413 | Amanda Van Alyne |
-| 212 | 1411 | Diana Franklin |
-| 213 | 1407 | Vanessa Odom |
-| 214 | 1406 | Sarah A Evans |
-| 215 | 1406 | Funky Glidepiece |
-| 216 | 1399 | Camz Sy |
+| 196 | 1599 | Camz Sy |
+| 197 | 1597 | Heather Harrington |
+| 198 | 1591 | Jalissa Tucker |
+| 199 | 1543 | Tracy Wise |
+| 200 | 1541 | Tracy Nola Beebe |
+| 201 | 1539 | Tyler StaySnappin Old'Page |
+| 202 | 1535 | Jasmine Glover |
+| 203 | 1534 | Snippy Spinbuilder |
+| 204 | 1484 | BASH FULL |
+| 205 | 1467 | THEMAN |
+| 206 | 1465 | Usernotfound Usernotfound |
+| 207 | 1458 | Syeed U Zaman |
+| 208 | 1457 | Jake Yamasaki |
+| 209 | 1445 | Katie Reece Mosley |
+| 210 | 1441 | Jonathan Harvey |
+| 211 | 1437 | Tysean Means |
+| 212 | 1413 | Amanda Van Alyne |
+| 213 | 1411 | Diana Franklin |
+| 214 | 1407 | Vanessa Odom |
+| 215 | 1406 | Sarah A Evans |
+| 216 | 1406 | Funky Glidepiece |
 | 217 | 1395 | Kdud |
 | 218 | 1388 | frog |
 | 219 | 1386 | Holly Zoschak |
@@ -439,11 +439,11 @@
 | 431 | 709 | Sativa J Gill |
 | 432 | 708 | Jasmina Kovacevic |
 | 433 | 707 | KittyKatMoo |
-| 434 | 703 | Jeannie Garcia |
-| 435 | 702 | Jaz Griffin |
-| 436 | 699 | Dawn Weaver |
-| 437 | 697 | Alexandria Shoberg |
-| 438 | 696 | Summer Munroe |
+| 434 | 703 | Summer Munroe |
+| 435 | 703 | Jeannie Garcia |
+| 436 | 702 | Jaz Griffin |
+| 437 | 699 | Dawn Weaver |
+| 438 | 697 | Alexandria Shoberg |
 | 439 | 695 | Sherilyn Huie |
 | 440 | 694 | Melissa Baker Simeral |
 | 441 | 694 | Kate Noel |
@@ -1664,30 +1664,30 @@
 | 1656 | 165 | Lisa Brumett Hallman |
 | 1657 | 164 | Shaun Turner |
 | 1658 | 164 | zpink |
-| 1659 | 164 | Robbie Thomaszfski |
-| 1660 | 164 | Loony Basepiece |
-| 1661 | 164 | Trina Crockett |
-| 1662 | 164 | Peppy Bridgepiece |
-| 1663 | 164 | Jasmine Styles |
-| 1664 | 164 | Sherry Walker |
-| 1665 | 163 | Michelle Waterman Stocker Hughey |
-| 1666 | 163 | Zesty Linkmatch |
-| 1667 | 163 | Stacia O'Connell |
-| 1668 | 163 | Stephanie Crews |
-| 1669 | 163 | Kelli Clark |
-| 1670 | 163 | Luckeee |
-| 1671 | 163 | Nichole Keown Cooper |
-| 1672 | 163 | Whatever |
-| 1673 | 163 | Zesty Gridlock |
-| 1674 | 163 | ChaoticJynx |
-| 1675 | 163 | dez |
-| 1676 | 163 | lil.goat |
+| 1659 | 164 | lil.goat |
+| 1660 | 164 | Robbie Thomaszfski |
+| 1661 | 164 | Loony Basepiece |
+| 1662 | 164 | Trina Crockett |
+| 1663 | 164 | Peppy Bridgepiece |
+| 1664 | 164 | Jasmine Styles |
+| 1665 | 164 | Sherry Walker |
+| 1666 | 163 | Michelle Waterman Stocker Hughey |
+| 1667 | 163 | Zesty Linkmatch |
+| 1668 | 163 | Stacia O'Connell |
+| 1669 | 163 | Stephanie Crews |
+| 1670 | 163 | Kelli Clark |
+| 1671 | 163 | Luckeee |
+| 1672 | 163 | Nichole Keown Cooper |
+| 1673 | 163 | Whatever |
+| 1674 | 163 | Zesty Gridlock |
+| 1675 | 163 | ChaoticJynx |
+| 1676 | 163 | dez |
 | 1677 | 163 | Roger Lee |
-| 1678 | 162 | Jojo |
-| 1679 | 162 | Momo42 |
+| 1678 | 162 | Momo42 |
+| 1679 | 162 | Jojo |
 | 1680 | 162 | Rare Puppet |
-| 1681 | 162 | Alyssa Sauceda |
-| 1682 | 162 | April Mae June |
+| 1681 | 162 | April Mae June |
+| 1682 | 162 | Alyssa Sauceda |
 | 1683 | 162 | Adam Esparza |
 | 1684 | 162 | Poppy Slide |
 | 1685 | 162 | Danielle Frazier |
@@ -1695,11 +1695,11 @@
 | 1687 | 161 | Amanda Grant |
 | 1688 | 161 | Starlyn Perez |
 | 1689 | 161 | Remi Eve |
-| 1690 | 161 | Kaylee |
+| 1690 | 161 | Stacy Succop |
 | 1691 | 161 | Kin Wah Koo |
 | 1692 | 161 | Samantha Leigh |
-| 1693 | 161 | Shelly Babie |
-| 1694 | 161 | Stacy Succop |
+| 1693 | 161 | Kaylee |
+| 1694 | 161 | Shelly Babie |
 | 1695 | 161 | Brandon Severa |
 | 1696 | 160 | Savvy |
 | 1697 | 160 | Marrissa Ralston |
@@ -1716,12 +1716,12 @@
 | 1708 | 160 | Goofy Blockfall |
 | 1709 | 160 | Sandy Nichols |
 | 1710 | 160 | Leony Peña |
-| 1711 | 160 | Randi Richardson |
+| 1711 | 160 | Meeeee |
 | 1712 | 160 | Tipsy Balancefit |
 | 1713 | 160 | Roxann Boykin |
 | 1714 | 160 | RosieRed |
 | 1715 | 160 | Brave Spinbuilder |
-| 1716 | 160 | Meeeee |
+| 1716 | 160 | Randi Richardson |
 | 1717 | 159 | Stacy Virtuoso |
 | 1718 | 159 | Kevin C. Moe |
 | 1719 | 159 | Lolag |

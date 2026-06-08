@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:50:19 UTC
+# Standings for team4 as of 2026-06-08 08:50:42 UTC
 
 **Total Participants:** 1800
 
@@ -652,79 +652,79 @@
 | 644 | 110 | Clever Brickzone |
 | 645 | 110 | Fancy Rollfit |
 | 646 | 110 | Jennifer Brucz |
-| 647 | 110 | Giggy Splitter |
+| 647 | 110 | Andreas Vs Shinky |
 | 648 | 110 | Breezy Brickline |
-| 649 | 110 | Andreas Vs Shinky |
+| 649 | 110 | Giggy Splitter |
 | 650 | 110 | Luna |
-| 651 | 109 | Breezy Blockzone |
-| 652 | 109 | Lisa Jones |
-| 653 | 109 | Playful Raccoon |
+| 651 | 109 | Joe Richard |
+| 652 | 109 | Breezy Blockzone |
+| 653 | 109 | Lisa Jones |
 | 654 | 109 | Tammy Wells |
-| 655 | 109 | Joe Richard |
+| 655 | 109 | Playful Raccoon |
 | 656 | 108 | Suzi Smas |
-| 657 | 108 | sierrabeth |
+| 657 | 108 | SandyEva |
 | 658 | 108 | Miranda Brown |
-| 659 | 108 | SandyEva |
-| 660 | 107 | Bonique Bier |
-| 661 | 107 | Karr |
+| 659 | 108 | sierrabeth |
+| 660 | 107 | Karr |
+| 661 | 107 | Bonique Bier |
 | 662 | 107 | Haylee Talkington |
-| 663 | 106 | Charlene Nicole Guidry |
-| 664 | 106 | Deana Teck |
-| 665 | 105 | Surviving Be Back Soon |
-| 666 | 105 | Mar Mar |
-| 667 | 105 | Debby Muniz |
-| 668 | 105 | Jennifer Evans Elliott |
-| 669 | 105 | Cherrel M. Causey |
-| 670 | 105 | Joshua Garner |
-| 671 | 105 | Renita Jordan |
-| 672 | 105 | Heather Brown |
-| 673 | 104 | Eddie Fuller |
+| 663 | 106 | Deana Teck |
+| 664 | 106 | Charlene Nicole Guidry |
+| 665 | 105 | Mar Mar |
+| 666 | 105 | Cherrel M. Causey |
+| 667 | 105 | Renita Jordan |
+| 668 | 105 | Joshua Garner |
+| 669 | 105 | Heather Brown |
+| 670 | 105 | Jennifer Evans Elliott |
+| 671 | 105 | Surviving Be Back Soon |
+| 672 | 105 | Debby Muniz |
+| 673 | 104 | Izz |
 | 674 | 104 | Yvette Johnson |
-| 675 | 104 | Tipsy Piecebuilder |
-| 676 | 104 | Mmm |
-| 677 | 104 | Izz |
+| 675 | 104 | Mmm |
+| 676 | 104 | Eddie Fuller |
+| 677 | 104 | Tipsy Piecebuilder |
 | 678 | 104 | Goofy Riserbuilder |
-| 679 | 103 | Kayla Haddenham |
-| 680 | 103 | Lush Twisterfit |
-| 681 | 103 | Groovy Matchgrid |
-| 682 | 103 | Courtney Niichole |
-| 683 | 103 | Lady |
-| 684 | 103 | Angela Adamo-Tash |
-| 685 | 102 | Spicy Peach |
-| 686 | 102 | Brenda Gustamantes |
+| 679 | 103 | Giggy Bridgepiece |
+| 680 | 103 | Courtney Niichole |
+| 681 | 103 | Lady |
+| 682 | 103 | Lush Twisterfit |
+| 683 | 103 | Angela Adamo-Tash |
+| 684 | 103 | Kayla Haddenham |
+| 685 | 103 | Groovy Matchgrid |
+| 686 | 102 | Lamont |
 | 687 | 102 | Clever Fallzone |
-| 688 | 102 | Lamont |
-| 689 | 102 | Taisha Beasley |
-| 690 | 102 | Kat Foreman |
-| 691 | 101 | David Lay |
+| 688 | 102 | Spicy Peach |
+| 689 | 102 | Kat Foreman |
+| 690 | 102 | Brenda Gustamantes |
+| 691 | 102 | Taisha Beasley |
 | 692 | 101 | Leasa Marie |
-| 693 | 101 | ManOfSteel |
-| 694 | 101 | Audrianna Skaff |
-| 695 | 101 | Alaina Rousseau |
-| 696 | 101 | Alicia Blunt |
+| 693 | 101 | David Lay |
+| 694 | 101 | Alicia Blunt |
+| 695 | 101 | Abby Waterman |
+| 696 | 101 | Audrianna Skaff |
 | 697 | 101 | Destiny Starr LeValdo |
-| 698 | 101 | Abby Waterman |
-| 699 | 100 | Nerdy Brickster |
+| 698 | 101 | ManOfSteel |
+| 699 | 101 | Alaina Rousseau |
 | 700 | 100 | Aim Georgia Bros Scott |
-| 701 | 100 | Ern |
-| 702 | 100 | Jay Keating |
-| 703 | 100 | Certified Da Don |
-| 704 | 100 | Helen Bradley |
-| 705 | 100 | Michelle Sager |
-| 706 | 100 | CorieBe |
-| 707 | 100 | Nova Kain |
-| 708 | 100 | Aleta Svitak |
-| 709 | 100 | DanceAngel |
-| 710 | 100 | Lady Dolphin |
-| 711 | 100 | Giggy Bridgepiece |
-| 712 | 99 | Ricardo Arias |
+| 701 | 100 | Jay Keating |
+| 702 | 100 | Ern |
+| 703 | 100 | Nerdy Brickster |
+| 704 | 100 | Certified Da Don |
+| 705 | 100 | Helen Bradley |
+| 706 | 100 | Michelle Sager |
+| 707 | 100 | CorieBe |
+| 708 | 100 | Nova Kain |
+| 709 | 100 | Aleta Svitak |
+| 710 | 100 | DanceAngel |
+| 711 | 100 | Lady Dolphin |
+| 712 | 99 | Dru Lui |
 | 713 | 99 | Elizabeth Putansu |
 | 714 | 99 | Darren Miguel |
 | 715 | 99 | Susan Mary Kelley |
 | 716 | 99 | Tamika Ashli Bonner |
 | 717 | 99 | SueSally |
 | 718 | 99 | Rebekah Anne Macias |
-| 719 | 99 | Dru Lui |
+| 719 | 99 | Ricardo Arias |
 | 720 | 99 | Funky Twistpiece |
 | 721 | 99 | JustLessie |
 | 722 | 99 | Trang Nguyen |
@@ -1404,39 +1404,39 @@
 | 1396 | 30 | Janna Bruss |
 | 1397 | 30 | Nick Virgil |
 | 1398 | 30 | Glitter |
-| 1399 | 30 | Loopy Wipeout |
-| 1400 | 30 | Deanne Silverdahl |
-| 1401 | 30 | Sherri G Davis |
-| 1402 | 30 | Spicy Holder |
-| 1403 | 30 | Nerdy Piecebuilder |
-| 1404 | 30 | Spidaman86 |
-| 1405 | 30 | Jesus Fuentes III |
-| 1406 | 30 | Pamela Kaye |
-| 1407 | 30 | Glitzy Builderline |
-| 1408 | 30 | Epic Shatterline |
-| 1409 | 30 | BrokenDiamond |
-| 1410 | 30 | Brooke |
-| 1411 | 30 | Shavondelia Williams |
+| 1399 | 30 | BrokenDiamond |
+| 1400 | 30 | Jesus Fuentes III |
+| 1401 | 30 | Pamela Kaye |
+| 1402 | 30 | Spidaman86 |
+| 1403 | 30 | Glitzy Builderline |
+| 1404 | 30 | Nerdy Piecebuilder |
+| 1405 | 30 | Loopy Wipeout |
+| 1406 | 30 | Epic Shatterline |
+| 1407 | 30 | Spicy Holder |
+| 1408 | 30 | Brooke |
+| 1409 | 30 | Shavondelia Williams |
+| 1410 | 30 | Sherri G Davis |
+| 1411 | 30 | Frilly Zoney |
 | 1412 | 30 | Dustin Bell |
-| 1413 | 30 | latingirl1056 |
-| 1414 | 30 | Jordan Maxwell |
-| 1415 | 29 | Lola |
-| 1416 | 29 | LIZ |
-| 1417 | 29 | Epic Dashfit |
+| 1413 | 30 | Deanne Silverdahl |
+| 1414 | 30 | latingirl1056 |
+| 1415 | 30 | Jordan Maxwell |
+| 1416 | 29 | Lola |
+| 1417 | 29 | Garett Lahti |
 | 1418 | 29 | Bouncy Fitblock |
-| 1419 | 29 | Wynisha Johnson |
+| 1419 | 29 | Crafty Linkfall |
 | 1420 | 29 | thaDon |
-| 1421 | 29 | Theresa Jo Nelson |
-| 1422 | 29 | Mumsy |
-| 1423 | 29 | Crafty Linkfall |
-| 1424 | 29 | Garett Lahti |
-| 1425 | 29 | Jenni |
-| 1426 | 29 | Monica Selwyn |
-| 1427 | 29 | Quirky Puzzler |
-| 1428 | 29 | Frilly Zoney |
+| 1421 | 29 | Epic Dashfit |
+| 1422 | 29 | LIZ |
+| 1423 | 29 | Wynisha Johnson |
+| 1424 | 29 | Theresa Jo Nelson |
+| 1425 | 29 | Mumsy |
+| 1426 | 29 | Jenni |
+| 1427 | 29 | Monica Selwyn |
+| 1428 | 29 | Quirky Puzzler |
 | 1429 | 29 | Naybel85 |
-| 1430 | 28 | Melissa Rathbun |
-| 1431 | 28 | Khaalida Muhammad Jackson |
+| 1430 | 28 | Khaalida Muhammad Jackson |
+| 1431 | 28 | Melissa Rathbun |
 | 1432 | 28 | ApexVibez |
 | 1433 | 28 | Snazzy Balanceblock |
 | 1434 | 28 | Lori Sohn |
@@ -1444,35 +1444,35 @@
 | 1436 | 27 | pisces26luna |
 | 1437 | 27 | Rebecca Cook |
 | 1438 | 27 | Danielle Clutter |
-| 1439 | 27 | Twisty Gridclear |
-| 1440 | 27 | PIPPI |
-| 1441 | 27 | Arlee Woodall |
+| 1439 | 27 | NotAkaren Barker |
+| 1440 | 27 | boo |
+| 1441 | 27 | Misty Harland |
 | 1442 | 27 | Myranda Gereau |
-| 1443 | 27 | Loopy Bridger |
-| 1444 | 27 | Misty Harland |
-| 1445 | 27 | boo |
+| 1443 | 27 | Arlee Woodall |
+| 1444 | 27 | Twisty Gridclear |
+| 1445 | 27 | PIPPI |
 | 1446 | 27 | Angela Correa |
-| 1447 | 27 | NotAkaren Barker |
-| 1448 | 26 | Gabby |
-| 1449 | 26 | EKM |
-| 1450 | 26 | Dee Modest |
-| 1451 | 26 | Ivyleata McFadden |
-| 1452 | 26 | AJscooter |
-| 1453 | 26 | Glenda Zulueta Steed |
-| 1454 | 26 | Love GH |
-| 1455 | 26 | Taylor Renee |
-| 1456 | 26 | Von |
-| 1457 | 26 | Jessica Huber |
-| 1458 | 26 | Rob$GEE |
-| 1459 | 26 | Rebecca Rae Reed |
-| 1460 | 26 | Kevin Lyles |
-| 1461 | 26 | Lacey Decker |
-| 1462 | 26 | Shakita Moore-Bernard |
-| 1463 | 26 | Frby Amberr |
-| 1464 | 26 | Justin Sercu |
-| 1465 | 26 | Socorro Arredondo |
-| 1466 | 26 | Debra James |
-| 1467 | 26 | Leslie Marie WarClub |
+| 1447 | 27 | Loopy Bridger |
+| 1448 | 26 | Lacey Decker |
+| 1449 | 26 | Love GH |
+| 1450 | 26 | EKM |
+| 1451 | 26 | Gabby |
+| 1452 | 26 | Leslie Marie WarClub |
+| 1453 | 26 | Debra James |
+| 1454 | 26 | Dee Modest |
+| 1455 | 26 | Socorro Arredondo |
+| 1456 | 26 | Ivyleata McFadden |
+| 1457 | 26 | AJscooter |
+| 1458 | 26 | Glenda Zulueta Steed |
+| 1459 | 26 | Justin Sercu |
+| 1460 | 26 | Taylor Renee |
+| 1461 | 26 | Von |
+| 1462 | 26 | Frby Amberr |
+| 1463 | 26 | Jessica Huber |
+| 1464 | 26 | Rob$GEE |
+| 1465 | 26 | Rebecca Rae Reed |
+| 1466 | 26 | Kevin Lyles |
+| 1467 | 26 | Shakita Moore-Bernard |
 | 1468 | 25 | LuLazer27 |
 | 1469 | 25 | Giggy Mover |
 | 1470 | 25 | MoCa |
