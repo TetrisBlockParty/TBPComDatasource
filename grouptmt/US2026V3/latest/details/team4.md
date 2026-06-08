@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:18:43 UTC
+# Standings for team4 as of 2026-06-08 07:19:22 UTC
 
 **Total Participants:** 1791
 
@@ -171,23 +171,23 @@
 | 163 | 424 | Futrell Brent |
 | 164 | 422 | squareMel |
 | 165 | 421 | QueenLi86 |
-| 166 | 421 | Michelle Ross |
-| 167 | 420 | Shmeedo |
-| 168 | 418 | Aisha Estrada |
-| 169 | 417 | Dandy Puzzler |
-| 170 | 415 | Shiny Dashy |
-| 171 | 409 | Hen |
-| 172 | 405 | HurkleDurkle88 |
-| 173 | 402 | Scamp Jones |
-| 174 | 400 | Amber Doyle |
-| 175 | 395 | Bobbie Harrell |
+| 166 | 421 | Shannon Rivera |
+| 167 | 421 | Michelle Ross |
+| 168 | 420 | Shmeedo |
+| 169 | 418 | Aisha Estrada |
+| 170 | 417 | Dandy Puzzler |
+| 171 | 415 | Shiny Dashy |
+| 172 | 409 | Hen |
+| 173 | 405 | HurkleDurkle88 |
+| 174 | 402 | Scamp Jones |
+| 175 | 400 | Amber Doyle |
 | 176 | 395 | Julian Gasque |
-| 177 | 389 | Taz |
-| 178 | 389 | blockhead |
-| 179 | 385 | Kristen Wallace |
-| 180 | 384 | Piece of Cake |
-| 181 | 382 | Goofy Riser |
-| 182 | 381 | Shannon Rivera |
+| 177 | 395 | Bobbie Harrell |
+| 178 | 389 | Taz |
+| 179 | 389 | blockhead |
+| 180 | 385 | Kristen Wallace |
+| 181 | 384 | Piece of Cake |
+| 182 | 382 | Goofy Riser |
 | 183 | 380 | Cinta Marie |
 | 184 | 379 | Devinlee Brown |
 | 185 | 378 | Hwanger Land |
@@ -258,10 +258,10 @@
 | 250 | 281 | Capone |
 | 251 | 281 | Ash Gribble |
 | 252 | 281 | Margie Thomas |
-| 253 | 280 | Snippy Splitter |
-| 254 | 280 | Lucy Honer |
-| 255 | 279 | Solace Grace |
-| 256 | 279 | Kelly Howland |
+| 253 | 280 | Kelly Howland |
+| 254 | 280 | Snippy Splitter |
+| 255 | 280 | Lucy Honer |
+| 256 | 279 | Solace Grace |
 | 257 | 278 | Tamara Triplet |
 | 258 | 277 | Jacqueline Jackii Ramos |
 | 259 | 277 | Giggly Tilt |
@@ -362,46 +362,46 @@
 | 354 | 202 | Lora Schallert |
 | 355 | 202 | Breezy Cascadeclear |
 | 356 | 201 | LaToya LeBlanc |
-| 357 | 200 | Knijur Callins |
-| 358 | 200 | Carla Woodard |
-| 359 | 200 | Slinky Stackzone |
-| 360 | 200 | Ashley Robbins |
+| 357 | 200 | Ashley Robbins |
+| 358 | 200 | Knijur Callins |
+| 359 | 200 | Carla Woodard |
+| 360 | 200 | Slinky Stackzone |
 | 361 | 199 | Janet Willoughby |
 | 362 | 199 | Nicole Dombrow |
-| 363 | 198 | JIGsaw ~(•¿°)~ |
-| 364 | 198 | Mint Marquez |
-| 365 | 198 | Cranky Buildout |
-| 366 | 198 | Dawn Phelps |
-| 367 | 197 | Zesty Twistpiece |
-| 368 | 196 | WeeWooWee |
+| 363 | 198 | Mint Marquez |
+| 364 | 198 | JIGsaw ~(•¿°)~ |
+| 365 | 198 | Dawn Phelps |
+| 366 | 198 | Cranky Buildout |
+| 367 | 198 | Chummy Jumper |
+| 368 | 197 | Zesty Twistpiece |
 | 369 | 196 | Morgan Stevens |
 | 370 | 196 | Loopy Clusterline |
-| 371 | 196 | Alex Armour |
-| 372 | 196 | Melissa Lowe |
-| 373 | 195 | Maegon Brazille |
-| 374 | 195 | maria |
+| 371 | 196 | WeeWooWee |
+| 372 | 196 | Alex Armour |
+| 373 | 196 | Melissa Lowe |
+| 374 | 195 | Drh4090 |
 | 375 | 195 | Blockcrusher |
-| 376 | 195 | Karen Small |
-| 377 | 195 | Cari Underwood |
-| 378 | 195 | Sean Mccleary |
-| 379 | 195 | Drh4090 |
-| 380 | 194 | Danny Keich III |
-| 381 | 194 | Jumpy Builderpiece |
-| 382 | 193 | Chummy Jumper |
-| 383 | 192 | Ralph Hell Rell Williams |
-| 384 | 190 | Bean |
+| 376 | 195 | maria |
+| 377 | 195 | Karen Small |
+| 378 | 195 | Cari Underwood |
+| 379 | 195 | Sean Mccleary |
+| 380 | 195 | Maegon Brazille |
+| 381 | 195 | Miwa |
+| 382 | 194 | Jumpy Builderpiece |
+| 383 | 194 | Danny Keich III |
+| 384 | 192 | Ralph Hell Rell Williams |
 | 385 | 190 | Chonda OhanaMomma Michelle |
 | 386 | 190 | Genger |
-| 387 | 190 | Name |
-| 388 | 189 | Snazzy Corner |
-| 389 | 188 | Lee Ann Gibby |
-| 390 | 188 | Dandy Cascade |
-| 391 | 188 | Shanae Taylor |
-| 392 | 188 | Stephanie Brock |
-| 393 | 187 | Jennifer Fisher Franklin |
-| 394 | 187 | Cindy |
-| 395 | 186 | June Hoffman |
-| 396 | 186 | Miwa |
+| 387 | 190 | Bean |
+| 388 | 190 | Name |
+| 389 | 189 | Snazzy Corner |
+| 390 | 188 | Lee Ann Gibby |
+| 391 | 188 | Dandy Cascade |
+| 392 | 188 | Shanae Taylor |
+| 393 | 188 | Stephanie Brock |
+| 394 | 187 | Jennifer Fisher Franklin |
+| 395 | 187 | Cindy |
+| 396 | 186 | June Hoffman |
 | 397 | 186 | Rita Ann |
 | 398 | 186 | Tiffany Morris Garner |
 | 399 | 185 | Valerie Silva |
