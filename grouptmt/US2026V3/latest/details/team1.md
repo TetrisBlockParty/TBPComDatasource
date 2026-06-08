@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 13:12:19 UTC
+# Standings for team1 as of 2026-06-08 13:12:42 UTC
 
 **Total Participants:** 1796
 
@@ -40,7 +40,7 @@
 | 32 | 2619 | Zappy Brickline |
 | 33 | 2557 | Brian Stackhouse |
 | 34 | 2513 | Juan Kandiss Escobedo Irwin |
-| 35 | 2278 | Epic Snapfall |
+| 35 | 2283 | Epic Snapfall |
 | 36 | 2278 | Mary Jenkins |
 | 37 | 2216 | Jamie Willis |
 | 38 | 2199 | Weeze |
@@ -67,9 +67,9 @@
 | 59 | 1259 | Sanjuro |
 | 60 | 1251 | Daylene Johannes |
 | 61 | 1239 | Holly Jolly |
-| 62 | 1208 | Aviv Zehavi |
-| 63 | 1207 | Angela R Wilson |
-| 64 | 1202 | Brian Bohanon II |
+| 62 | 1230 | Brian Bohanon II |
+| 63 | 1208 | Aviv Zehavi |
+| 64 | 1207 | Angela R Wilson |
 | 65 | 1200 | Spicy Balancer |
 | 66 | 1191 | Louis Richard Jr |
 | 67 | 1175 | Ryan Meilleur |
@@ -246,8 +246,8 @@
 | 238 | 343 | Yasmin Nakea Wright |
 | 239 | 341 | Tremaine Hiler |
 | 240 | 341 | Jawaun Daniels |
-| 241 | 338 | Brand Nu |
-| 242 | 337 | Zachary Colegrove |
+| 241 | 339 | Zachary Colegrove |
+| 242 | 338 | Brand Nu |
 | 243 | 333 | Qwlonda Shirrell |
 | 244 | 331 | Coco |
 | 245 | 331 | Tessa Felice Hill |
@@ -453,32 +453,32 @@
 | 445 | 179 | Lively Riserpiece |
 | 446 | 179 | Skippy |
 | 447 | 178 | Manda Allen |
-| 448 | 177 | SceneGreenz Wali |
-| 449 | 177 | Cece Fowler |
+| 448 | 177 | Cece Fowler |
+| 449 | 177 | SceneGreenz Wali |
 | 450 | 176 | Char |
 | 451 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 452 | 175 | Boldy Matchbuilder |
 | 453 | 174 | ChunLi |
 | 454 | 173 | Tajuana Juana'Cee Coleman |
 | 455 | 173 | Shanns |
-| 456 | 171 | Telisha Mims |
-| 457 | 171 | Brittany Fells |
-| 458 | 170 | Yadira Salgado |
+| 456 | 171 | Brittany Fells |
+| 457 | 171 | Telisha Mims |
+| 458 | 171 | Juan Alvarez |
 | 459 | 170 | Katrina Ramey |
-| 460 | 169 | rb |
+| 460 | 170 | Yadira Salgado |
 | 461 | 169 | Douglas Price |
 | 462 | 169 | Clipzby |
-| 463 | 169 | Bubbly Piececlear |
-| 464 | 168 | Lounique |
-| 465 | 167 | MonaSparks |
-| 466 | 167 | Juicy |
-| 467 | 167 | Bold Clusterer |
-| 468 | 167 | Mister Reid |
-| 469 | 166 | BlackQueen105 |
-| 470 | 166 | Analiza Ramos |
-| 471 | 166 | Teresa Yanira Cepeda |
-| 472 | 166 | Melissa Olvera |
-| 473 | 165 | Juan Alvarez |
+| 463 | 169 | rb |
+| 464 | 169 | Bubbly Piececlear |
+| 465 | 168 | Lounique |
+| 466 | 167 | MonaSparks |
+| 467 | 167 | Juicy |
+| 468 | 167 | Bold Clusterer |
+| 469 | 167 | Mister Reid |
+| 470 | 166 | Melissa Olvera |
+| 471 | 166 | BlackQueen105 |
+| 472 | 166 | Teresa Yanira Cepeda |
+| 473 | 166 | Analiza Ramos |
 | 474 | 165 | Tanisha Taylor |
 | 475 | 164 | Dede Tate |
 | 476 | 164 | Jes Marie |
@@ -488,13 +488,13 @@
 | 480 | 162 | Speedy Stacky |
 | 481 | 162 | Twisty Cascadeclear |
 | 482 | 161 | Devron Reedy |
-| 483 | 160 | Spotlight |
+| 483 | 160 | Adrian Wilson |
 | 484 | 160 | Malcolm Stanley |
 | 485 | 160 | Cheeky Twistpiece |
 | 486 | 160 | Carolyn Smith |
 | 487 | 160 | Tracey Johnson |
 | 488 | 160 | Slinky Clearzone |
-| 489 | 160 | Adrian Wilson |
+| 489 | 160 | Spotlight |
 | 490 | 159 | Loopy Tiler |
 | 491 | 159 | Tee Spinks |
 | 492 | 159 | Tracy Feyler |
@@ -605,37 +605,37 @@
 | 597 | 128 | BonnieB |
 | 598 | 128 | Li-Li Ratliff |
 | 599 | 127 | Octavia Bsb Johnson |
-| 600 | 126 | Ryan Runyan |
-| 601 | 126 | Kim Holzmiller |
+| 600 | 126 | RylonJones |
+| 601 | 126 | Ryan Runyan |
 | 602 | 126 | Laurie Napper |
-| 603 | 126 | Kahliah Baker |
-| 604 | 126 | RylonJones |
-| 605 | 126 | Jessie N Michael Silvers |
-| 606 | 126 | Terrie |
+| 603 | 126 | Kim Holzmiller |
+| 604 | 126 | Terrie |
+| 605 | 126 | Kahliah Baker |
+| 606 | 126 | Jessie N Michael Silvers |
 | 607 | 125 | BB |
-| 608 | 124 | Ysma Simmons |
+| 608 | 124 | Nora Mahmoud |
 | 609 | 124 | Nerdy Climber |
-| 610 | 124 | Nora Mahmoud |
-| 611 | 124 | Nichelle Warren |
-| 612 | 124 | Tasha Jones |
-| 613 | 123 | Jackytrain52 |
+| 610 | 124 | Latore Maxie |
+| 611 | 124 | Ysma Simmons |
+| 612 | 124 | Nichelle Warren |
+| 613 | 124 | Tasha Jones |
 | 614 | 123 | Jason Saputo |
-| 615 | 123 | Derald Miller |
-| 616 | 123 | Dizzy Gridmatch |
-| 617 | 123 | Marbama |
+| 615 | 123 | Marbama |
+| 616 | 123 | Derald Miller |
+| 617 | 123 | Jackytrain52 |
 | 618 | 123 | Esha I'msoproudofmyself Davis |
 | 619 | 123 | Daring Riserfit |
-| 620 | 122 | Amanda Woodruff |
-| 621 | 122 | Nyhlah Patterson |
-| 622 | 122 | Xana Zania Bopp |
-| 623 | 122 | Kyle Conley |
-| 624 | 121 | Biggestboss Ransom |
+| 620 | 123 | Dizzy Gridmatch |
+| 621 | 122 | Amanda Woodruff |
+| 622 | 122 | Nyhlah Patterson |
+| 623 | 122 | Xana Zania Bopp |
+| 624 | 122 | Kyle Conley |
 | 625 | 121 | Tiana Monique |
-| 626 | 121 | Ad Doctor |
-| 627 | 120 | Rene Hicks |
-| 628 | 120 | Kanary Karotz |
-| 629 | 120 | Sandra Mims |
-| 630 | 120 | Latore Maxie |
+| 626 | 121 | Biggestboss Ransom |
+| 627 | 121 | Ad Doctor |
+| 628 | 120 | Rene Hicks |
+| 629 | 120 | Kanary Karotz |
+| 630 | 120 | Sandra Mims |
 | 631 | 120 | Giggy Edgefit |
 | 632 | 120 | Stephen Garland |
 | 633 | 120 | MindlessMic |
