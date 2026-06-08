@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:24:22 UTC
+# Standings for team2 as of 2026-06-08 19:24:46 UTC
 
 **Total Participants:** 2254
 
@@ -244,15 +244,15 @@
 | 236 | 464 | Kristi Chestnut |
 | 237 | 462 | Charles E Mccardell |
 | 238 | 460 | Brenda Jones |
-| 239 | 456 | H |
-| 240 | 454 | Tami Kay Williams Watson |
-| 241 | 453 | Kimberly Cowan |
-| 242 | 452 | Nikki Greeneyebeauty |
-| 243 | 450 | Swanky Fitline |
-| 244 | 448 | Eric Drane |
-| 245 | 445 | Joni Michelle Morgan |
-| 246 | 445 | Gabrielle Wilson |
-| 247 | 442 | Frilly Dashfit |
+| 239 | 456 | Frilly Dashfit |
+| 240 | 456 | H |
+| 241 | 454 | Tami Kay Williams Watson |
+| 242 | 453 | Kimberly Cowan |
+| 243 | 452 | Nikki Greeneyebeauty |
+| 244 | 450 | Swanky Fitline |
+| 245 | 448 | Eric Drane |
+| 246 | 445 | Joni Michelle Morgan |
+| 247 | 445 | Gabrielle Wilson |
 | 248 | 442 | Jess |
 | 249 | 441 | AndyJo |
 | 250 | 440 | Amy Gregg |
@@ -272,8 +272,8 @@
 | 264 | 415 | Goofy Gridclear |
 | 265 | 414 | Cathy Lee Stoneking |
 | 266 | 412 | Greta Warden |
-| 267 | 411 | Sandy Lynn |
-| 268 | 411 | Mookshake |
+| 267 | 411 | Mookshake |
+| 268 | 411 | Sandy Lynn |
 | 269 | 406 | Mouh Med |
 | 270 | 401 | Brooke Allred |
 | 271 | 400 | Sharon L Brazelton |
@@ -486,29 +486,29 @@
 | 478 | 229 | Funway998 |
 | 479 | 228 | KazzyKay |
 | 480 | 228 | Jackie Walker |
-| 481 | 228 | Christy Diane Escobar |
-| 482 | 227 | Aurora June Brock |
-| 483 | 227 | Laura Melton |
-| 484 | 226 | Raymond Dawson |
-| 485 | 225 | Cheery Towerzone |
-| 486 | 225 | Amanda L Strong |
-| 487 | 225 | Katelyn Rodgers |
-| 488 | 223 | Roe Sarmiento |
-| 489 | 222 | Marilyn Strickland |
-| 490 | 221 | Nicky Steigerwalt |
-| 491 | 221 | Kendra Sizemore |
-| 492 | 220 | Chris Christ |
-| 493 | 220 | Krystle L Coon |
-| 494 | 220 | Po Yee |
-| 495 | 220 | Lee Leonard |
-| 496 | 220 | ShiverMeSplinter |
-| 497 | 220 | Saucy Wrecker |
-| 498 | 220 | Ava Speedy |
-| 499 | 220 | Flashy Basegrid |
-| 500 | 220 | Joannah Capilitan |
-| 501 | 219 | Rick |
-| 502 | 218 | Julie Alexander Sykes |
-| 503 | 218 | Heather Schardan |
+| 481 | 228 | Heather Schardan |
+| 482 | 228 | Christy Diane Escobar |
+| 483 | 227 | Aurora June Brock |
+| 484 | 227 | Laura Melton |
+| 485 | 226 | Raymond Dawson |
+| 486 | 225 | Cheery Towerzone |
+| 487 | 225 | Amanda L Strong |
+| 488 | 225 | Katelyn Rodgers |
+| 489 | 223 | Roe Sarmiento |
+| 490 | 222 | Marilyn Strickland |
+| 491 | 221 | Nicky Steigerwalt |
+| 492 | 221 | Kendra Sizemore |
+| 493 | 220 | Chris Christ |
+| 494 | 220 | Krystle L Coon |
+| 495 | 220 | Po Yee |
+| 496 | 220 | Lee Leonard |
+| 497 | 220 | ShiverMeSplinter |
+| 498 | 220 | Saucy Wrecker |
+| 499 | 220 | Ava Speedy |
+| 500 | 220 | Flashy Basegrid |
+| 501 | 220 | Joannah Capilitan |
+| 502 | 219 | Rick |
+| 503 | 218 | Julie Alexander Sykes |
 | 504 | 218 | Carrie Smith Negron |
 | 505 | 217 | Mona Good |
 | 506 | 217 | Spicy Snapclear |
@@ -1553,52 +1553,52 @@
 | 1545 | 45 | Frothy Cascader |
 | 1546 | 45 | Nora Buchan |
 | 1547 | 44 | Fluffypuffin |
-| 1548 | 44 | Dawnie Rodarte |
-| 1549 | 44 | Tam |
-| 1550 | 44 | Dustie Benefield |
-| 1551 | 44 | Denise Singleton |
-| 1552 | 44 | Tee Have |
-| 1553 | 44 | Crafty Shatterer |
-| 1554 | 44 | Treau Torres |
-| 1555 | 44 | Frisky Clicker |
-| 1556 | 44 | Sandra Betz |
-| 1557 | 44 | Chill Racker |
-| 1558 | 44 | William Richardson |
-| 1559 | 44 | Lori Antrim Nichols |
-| 1560 | 43 | Patricia Ann Tondreault Hammonds |
-| 1561 | 43 | Ashley Parrish |
-| 1562 | 43 | Quirky Shifter |
-| 1563 | 43 | KT Scott |
-| 1564 | 43 | Michelle Brown |
-| 1565 | 43 | Snoop |
-| 1566 | 43 | Dreamy Wipepiece |
-| 1567 | 43 | Kayla Faulkiner |
-| 1568 | 43 | Aguilar Rita |
-| 1569 | 43 | Rachel Huber |
-| 1570 | 43 | Kourtney Heiden-Hudson |
-| 1571 | 42 | Toni Tortorici Humphryes |
-| 1572 | 42 | April Owings |
-| 1573 | 42 | MJLovesHer#OneMistake |
-| 1574 | 42 | Henny Henny |
-| 1575 | 42 | Clever Linkbuilder |
-| 1576 | 42 | Auntie YaYa |
-| 1577 | 42 | Shylo Bryant-Brunson |
-| 1578 | 42 | Snappy Zonepiece |
-| 1579 | 42 | June Salevao |
-| 1580 | 42 | Peachy Builderpiece |
-| 1581 | 42 | Amanda Jungclaus |
-| 1582 | 42 | Catherine Whitt Gaddy |
-| 1583 | 42 | Patty Smith |
-| 1584 | 42 | Christopher S Lawyer |
-| 1585 | 42 | Amanda |
-| 1586 | 41 | Jazzy Cornerfall |
-| 1587 | 41 | Rachel Switala |
-| 1588 | 41 | Bold Shiftspin |
-| 1589 | 41 | Jenifer Seeley |
-| 1590 | 41 | Cammy Riley |
-| 1591 | 41 | Helen Chao |
-| 1592 | 41 | Jenny Coffer |
-| 1593 | 41 | Jessica Jones |
+| 1548 | 44 | Jessica Jones |
+| 1549 | 44 | Dawnie Rodarte |
+| 1550 | 44 | Tam |
+| 1551 | 44 | Dustie Benefield |
+| 1552 | 44 | Denise Singleton |
+| 1553 | 44 | Tee Have |
+| 1554 | 44 | Crafty Shatterer |
+| 1555 | 44 | Treau Torres |
+| 1556 | 44 | Frisky Clicker |
+| 1557 | 44 | Sandra Betz |
+| 1558 | 44 | Chill Racker |
+| 1559 | 44 | William Richardson |
+| 1560 | 44 | Lori Antrim Nichols |
+| 1561 | 43 | Patricia Ann Tondreault Hammonds |
+| 1562 | 43 | Ashley Parrish |
+| 1563 | 43 | Quirky Shifter |
+| 1564 | 43 | KT Scott |
+| 1565 | 43 | Michelle Brown |
+| 1566 | 43 | Snoop |
+| 1567 | 43 | Dreamy Wipepiece |
+| 1568 | 43 | Kayla Faulkiner |
+| 1569 | 43 | Aguilar Rita |
+| 1570 | 43 | Rachel Huber |
+| 1571 | 43 | Kourtney Heiden-Hudson |
+| 1572 | 42 | Shylo Bryant-Brunson |
+| 1573 | 42 | Snappy Zonepiece |
+| 1574 | 42 | Clever Linkbuilder |
+| 1575 | 42 | Toni Tortorici Humphryes |
+| 1576 | 42 | April Owings |
+| 1577 | 42 | MJLovesHer#OneMistake |
+| 1578 | 42 | Henny Henny |
+| 1579 | 42 | Auntie YaYa |
+| 1580 | 42 | June Salevao |
+| 1581 | 42 | Peachy Builderpiece |
+| 1582 | 42 | Amanda Jungclaus |
+| 1583 | 42 | Catherine Whitt Gaddy |
+| 1584 | 42 | Patty Smith |
+| 1585 | 42 | Christopher S Lawyer |
+| 1586 | 42 | Amanda |
+| 1587 | 41 | Jazzy Cornerfall |
+| 1588 | 41 | Rachel Switala |
+| 1589 | 41 | Bold Shiftspin |
+| 1590 | 41 | Jenifer Seeley |
+| 1591 | 41 | Cammy Riley |
+| 1592 | 41 | Helen Chao |
+| 1593 | 41 | Jenny Coffer |
 | 1594 | 40 | Ariya Colson |
 | 1595 | 40 | Elicia Lloyd-Zazweta |
 | 1596 | 40 | Tonya Templin Smith |
