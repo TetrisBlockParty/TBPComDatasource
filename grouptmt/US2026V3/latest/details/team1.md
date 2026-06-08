@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:16:21 UTC
+# Standings for team1 as of 2026-06-08 06:16:44 UTC
 
 **Total Participants:** 1740
 
@@ -127,13 +127,13 @@
 | 119 | 630 | Shontanese Adams |
 | 120 | 630 | Bambi Love |
 | 121 | 627 | Alana Renee |
-| 122 | 619 | Ottison Dianna |
-| 123 | 618 | Quirky Fallgrid |
-| 124 | 601 | JaszyBadd |
-| 125 | 582 | Nutty Spinblock |
-| 126 | 574 | Anthony Washington |
-| 127 | 573 | Rackemwillie34 |
-| 128 | 567 | TAZ-MF-NIZIL |
+| 122 | 623 | TAZ-MF-NIZIL |
+| 123 | 619 | Ottison Dianna |
+| 124 | 618 | Quirky Fallgrid |
+| 125 | 601 | JaszyBadd |
+| 126 | 582 | Nutty Spinblock |
+| 127 | 574 | Anthony Washington |
+| 128 | 573 | Rackemwillie34 |
 | 129 | 566 | Trendalyn Webb |
 | 130 | 565 | Gotcha |
 | 131 | 561 | Carolynne Walker-Bell |
