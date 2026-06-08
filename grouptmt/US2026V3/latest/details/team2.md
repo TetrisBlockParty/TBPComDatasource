@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 00:12:18 UTC
+# Standings for team2 as of 2026-06-08 00:12:41 UTC
 
 **Total Participants:** 1970
 
@@ -179,7 +179,7 @@
 | 171 | 474 | Bubbly Strikerpiece |
 | 172 | 462 | Kaycie Shaffer |
 | 173 | 453 | Kimberly Cowan |
-| 174 | 449 | Loopy Curvebuilder |
+| 174 | 452 | Loopy Curvebuilder |
 | 175 | 448 | Eric Drane |
 | 176 | 444 | Ashley Green |
 | 177 | 442 | MegaPooh |
@@ -1886,30 +1886,30 @@
 | 1878 | 9 | Angela-Josh Millan |
 | 1879 | 9 | Shawn Bossuot |
 | 1880 | 9 | Road Runnersauraus |
-| 1881 | 9 | Cordillia Barela |
-| 1882 | 9 | Catalina Castro |
-| 1883 | 9 | Yuhh |
-| 1884 | 9 | Jasmine Goggans |
-| 1885 | 9 | zee |
-| 1886 | 9 | Naomi Christiansen |
-| 1887 | 9 | Dapper Corner |
-| 1888 | 9 | Terri Ramsey |
-| 1889 | 9 | Giggly Spinblock |
-| 1890 | 9 | Lindsey Butler |
-| 1891 | 9 | Lori Loup |
-| 1892 | 9 | Cheery Striker |
-| 1893 | 9 | Jeff Mullins |
-| 1894 | 9 | Bethany Gerber |
-| 1895 | 9 | Snazzy Cascadezone |
-| 1896 | 9 | yep |
-| 1897 | 8 | Funky Slide |
-| 1898 | 8 | Crystal Alexander |
-| 1899 | 8 | Jumpy Twistslam |
-| 1900 | 8 | Tina Doyens Munis |
-| 1901 | 8 | Zippy Balance |
-| 1902 | 8 | Mariah Mandel |
-| 1903 | 8 | Jon Torres |
-| 1904 | 8 | PortersWife87 |
+| 1881 | 9 | PortersWife87 |
+| 1882 | 9 | Cordillia Barela |
+| 1883 | 9 | Catalina Castro |
+| 1884 | 9 | Yuhh |
+| 1885 | 9 | Jasmine Goggans |
+| 1886 | 9 | zee |
+| 1887 | 9 | Naomi Christiansen |
+| 1888 | 9 | Dapper Corner |
+| 1889 | 9 | Terri Ramsey |
+| 1890 | 9 | Giggly Spinblock |
+| 1891 | 9 | Lindsey Butler |
+| 1892 | 9 | Lori Loup |
+| 1893 | 9 | Cheery Striker |
+| 1894 | 9 | Jeff Mullins |
+| 1895 | 9 | Bethany Gerber |
+| 1896 | 9 | Snazzy Cascadezone |
+| 1897 | 9 | yep |
+| 1898 | 8 | Funky Slide |
+| 1899 | 8 | Crystal Alexander |
+| 1900 | 8 | Jumpy Twistslam |
+| 1901 | 8 | Tina Doyens Munis |
+| 1902 | 8 | Zippy Balance |
+| 1903 | 8 | Mariah Mandel |
+| 1904 | 8 | Jon Torres |
 | 1905 | 8 | Sammi Jo |
 | 1906 | 8 | Twisty Tower |
 | 1907 | 8 | Elizabeth Miller |
