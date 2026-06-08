@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:10:41 UTC
+# Standings for team2 as of 2026-06-08 10:11:20 UTC
 
 **Total Participants:** 2146
 
@@ -394,22 +394,22 @@
 | 386 | 238 | andee |
 | 387 | 237 | Amanda Priddy |
 | 388 | 236 | Lush Party |
-| 389 | 233 | Stephany Green |
-| 390 | 230 | phamous1 |
-| 391 | 230 | Brandy Chinelle |
-| 392 | 229 | Funway998 |
-| 393 | 229 | MUMBLES |
-| 394 | 229 | Angie Bishop |
-| 395 | 229 | Brittany Mathis |
-| 396 | 228 | Christy Diane Escobar |
-| 397 | 227 | Jennifer McClure |
-| 398 | 227 | Laura Melton |
-| 399 | 227 | Paula Haskins |
-| 400 | 227 | meg |
-| 401 | 225 | Cheery Towerzone |
-| 402 | 225 | Sandy Justus |
-| 403 | 225 | Amanda L Strong |
-| 404 | 225 | Nikki Greeneyebeauty |
+| 389 | 235 | Nikki Greeneyebeauty |
+| 390 | 233 | Stephany Green |
+| 391 | 230 | phamous1 |
+| 392 | 230 | Brandy Chinelle |
+| 393 | 229 | Funway998 |
+| 394 | 229 | MUMBLES |
+| 395 | 229 | Angie Bishop |
+| 396 | 229 | Brittany Mathis |
+| 397 | 228 | Christy Diane Escobar |
+| 398 | 227 | Jennifer McClure |
+| 399 | 227 | Laura Melton |
+| 400 | 227 | Paula Haskins |
+| 401 | 227 | meg |
+| 402 | 225 | Cheery Towerzone |
+| 403 | 225 | Sandy Justus |
+| 404 | 225 | Amanda L Strong |
 | 405 | 222 | Harper |
 | 406 | 220 | Flashy Basegrid |
 | 407 | 220 | Precious Womack |
@@ -1200,14 +1200,14 @@
 | 1192 | 62 | Peyton Groce |
 | 1193 | 62 | Saucy Clearzone |
 | 1194 | 62 | Alana Albritton Seals |
-| 1195 | 62 | Amy Walker |
-| 1196 | 62 | Frothy Zonebuilder |
-| 1197 | 61 | Lil G |
-| 1198 | 61 | giggly gal |
-| 1199 | 61 | Pleaze Marshall |
-| 1200 | 61 | Ashley Shazes |
-| 1201 | 61 | Maithan Conour |
-| 1202 | 61 | Ashley Bryant-hatcher |
+| 1195 | 62 | Ashley Bryant-hatcher |
+| 1196 | 62 | Amy Walker |
+| 1197 | 62 | Frothy Zonebuilder |
+| 1198 | 61 | Lil G |
+| 1199 | 61 | giggly gal |
+| 1200 | 61 | Pleaze Marshall |
+| 1201 | 61 | Ashley Shazes |
+| 1202 | 61 | Maithan Conour |
 | 1203 | 61 | Ken Vaughn |
 | 1204 | 61 | Marcia Davis |
 | 1205 | 61 | Natasha Schatte |
@@ -1397,21 +1397,21 @@
 | 1389 | 46 | Elizabeth Barnhart Floyd |
 | 1390 | 46 | Octavius Walker |
 | 1391 | 46 | Cozy Curve |
-| 1392 | 46 | Thomas Chris |
-| 1393 | 46 | Matthew Black |
-| 1394 | 46 | Kodi Gay |
+| 1392 | 46 | Dandy Wiper |
+| 1393 | 46 | Thomas Chris |
+| 1394 | 46 | Matthew Black |
 | 1395 | 46 | Collins |
-| 1396 | 46 | Trena Sapp |
-| 1397 | 45 | Frothy Cascader |
-| 1398 | 45 | Dandy Wiper |
+| 1396 | 46 | Kodi Gay |
+| 1397 | 46 | Trena Sapp |
+| 1398 | 45 | Nikki |
 | 1399 | 45 | Devon |
-| 1400 | 45 | Chill Wipegrid |
-| 1401 | 45 | Missy Stevens |
-| 1402 | 45 | Nora Buchan |
-| 1403 | 45 | Nikki |
+| 1400 | 45 | Nora Buchan |
+| 1401 | 45 | Michelle Edgin Tranbarger |
+| 1402 | 45 | Chill Wipegrid |
+| 1403 | 45 | Missy Stevens |
 | 1404 | 45 | JEEPER |
 | 1405 | 45 | Witty Brickster |
-| 1406 | 45 | Michelle Edgin Tranbarger |
+| 1406 | 45 | Frothy Cascader |
 | 1407 | 45 | STARFIRE |
 | 1408 | 45 | Brandy Moore |
 | 1409 | 45 | Jason M Barnes |
@@ -1427,17 +1427,17 @@
 | 1419 | 44 | Nicole Dyer |
 | 1420 | 44 | Brenda Leonard |
 | 1421 | 44 | Erica Abreu |
-| 1422 | 44 | Kendra Sullins |
-| 1423 | 44 | Daring Pivotfall |
-| 1424 | 44 | Tam |
-| 1425 | 44 | Cuca Perez |
-| 1426 | 43 | Kayla Faulkiner |
+| 1422 | 44 | Daring Pivotfall |
+| 1423 | 44 | Tam |
+| 1424 | 44 | Cuca Perez |
+| 1425 | 44 | Kendra Sullins |
+| 1426 | 43 | Kourtney Heiden-Hudson |
 | 1427 | 43 | Betty Muise |
-| 1428 | 43 | Kourtney Heiden-Hudson |
-| 1429 | 43 | Dreamy Wipepiece |
-| 1430 | 43 | Fluffypuffin |
-| 1431 | 43 | Amy Hahn Nickels |
-| 1432 | 43 | Aguilar Rita |
+| 1428 | 43 | Dreamy Wipepiece |
+| 1429 | 43 | Aguilar Rita |
+| 1430 | 43 | Amy Hahn Nickels |
+| 1431 | 43 | Fluffypuffin |
+| 1432 | 43 | Kayla Faulkiner |
 | 1433 | 43 | Patricia Ann Tondreault Hammonds |
 | 1434 | 43 | Michelle Brown |
 | 1435 | 43 | Ashley Parrish |
@@ -1451,14 +1451,14 @@
 | 1443 | 42 | Flashy Blockfall |
 | 1444 | 42 | Peachy Builderpiece |
 | 1445 | 42 | Chrissy Hess |
-| 1446 | 42 | Auntie YaYa |
-| 1447 | 42 | Clever Linkbuilder |
-| 1448 | 42 | MJLovesHer#OneMistake |
-| 1449 | 42 | Snazzy Smasher |
+| 1446 | 42 | April Owings |
+| 1447 | 42 | Auntie YaYa |
+| 1448 | 42 | Toni Tortorici Humphryes |
+| 1449 | 42 | MJLovesHer#OneMistake |
 | 1450 | 42 | Henny Henny |
 | 1451 | 42 | Shylo Bryant-Brunson |
-| 1452 | 42 | Toni Tortorici Humphryes |
-| 1453 | 42 | April Owings |
+| 1452 | 42 | Clever Linkbuilder |
+| 1453 | 42 | Snazzy Smasher |
 | 1454 | 41 | Jenny Coffer |
 | 1455 | 41 | Bold Shiftspin |
 | 1456 | 41 | Jenifer Seeley |
@@ -1483,19 +1483,19 @@
 | 1475 | 40 | Kyle |
 | 1476 | 40 | Michelle |
 | 1477 | 40 | Kimmi Knippel |
-| 1478 | 40 | Tara Feineis |
-| 1479 | 40 | Tonya Templin Smith |
-| 1480 | 40 | Jay Theriault |
-| 1481 | 40 | Kacey Bates |
-| 1482 | 40 | Shay Lynn King |
-| 1483 | 40 | Emma Danielle Wynn |
-| 1484 | 40 | Ashley Bennett |
-| 1485 | 40 | Ariya Colson |
-| 1486 | 40 | fancypants |
-| 1487 | 40 | Lori Rose |
-| 1488 | 40 | Elicia Lloyd-Zazweta |
-| 1489 | 40 | Kristy Moore |
-| 1490 | 40 | Dapper Pivotfall |
+| 1478 | 40 | Emma Danielle Wynn |
+| 1479 | 40 | fancypants |
+| 1480 | 40 | Tonya Templin Smith |
+| 1481 | 40 | Ashley Bennett |
+| 1482 | 40 | Ariya Colson |
+| 1483 | 40 | Jay Theriault |
+| 1484 | 40 | Dapper Pivotfall |
+| 1485 | 40 | Kacey Bates |
+| 1486 | 40 | Elicia Lloyd-Zazweta |
+| 1487 | 40 | Tara Feineis |
+| 1488 | 40 | Kristy Moore |
+| 1489 | 40 | Lori Rose |
+| 1490 | 40 | Shay Lynn King |
 | 1491 | 39 | Flynn Flibble |
 | 1492 | 39 | Lindsey Butler |
 | 1493 | 39 | Instak1ll |

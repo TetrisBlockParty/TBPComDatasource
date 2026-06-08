@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:10:41 UTC
+# Standings for team1 as of 2026-06-08 10:11:20 UTC
 
 **Total Participants:** 1774
 
@@ -108,12 +108,12 @@
 | 100 | 795 | Joy Citizen Pickney |
 | 101 | 793 | Jaida King |
 | 102 | 787 | Dawn L Washington-Feuquay |
-| 103 | 766 | Tameka Jones |
-| 104 | 754 | LeeLee08 |
-| 105 | 752 | Yolanda E Fergerson |
-| 106 | 744 | Chris Caniglia |
-| 107 | 741 | Sarah Marie |
-| 108 | 738 | Robbie Cheeseman |
+| 103 | 776 | Robbie Cheeseman |
+| 104 | 766 | Tameka Jones |
+| 105 | 754 | LeeLee08 |
+| 106 | 752 | Yolanda E Fergerson |
+| 107 | 744 | Chris Caniglia |
+| 108 | 741 | Sarah Marie |
 | 109 | 730 | ing410 |
 | 110 | 723 | Eartha Brown |
 | 111 | 720 | No_Other_Choice |
@@ -292,9 +292,9 @@
 | 284 | 270 | Melissa D. M. Hornsby |
 | 285 | 269 | DaGuy |
 | 286 | 267 | Simone Bailey |
-| 287 | 264 | Wild Out Nai |
-| 288 | 263 | Choc |
-| 289 | 262 | Tessa Felice Hill |
+| 287 | 266 | Tessa Felice Hill |
+| 288 | 264 | Wild Out Nai |
+| 289 | 263 | Choc |
 | 290 | 262 | MamushiOh |
 | 291 | 260 | Nerdy Blockpiece |
 | 292 | 260 | Erica Charlise |
