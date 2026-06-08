@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 22:20:43 UTC
+# Standings for team1 as of 2026-06-08 22:21:22 UTC
 
 **Total Participants:** 1889
 
@@ -269,21 +269,21 @@
 | 261 | 353 | Tajuana Juana'Cee Coleman |
 | 262 | 353 | Latisha Fairley |
 | 263 | 352 | Ann Chung |
-| 264 | 351 | Ebony |
-| 265 | 351 | Lauraly |
+| 264 | 351 | Lauraly |
+| 265 | 351 | Ebony |
 | 266 | 350 | Ashley MyBeauty Daniels |
 | 267 | 349 | Tremaine Hiler |
 | 268 | 348 | NastyFriend |
 | 269 | 345 | Rhonda Williams Warner |
-| 270 | 343 | Yasmin Nakea Wright |
-| 271 | 343 | Bre Poston |
-| 272 | 343 | Heather Aurelia |
+| 270 | 343 | Bre Poston |
+| 271 | 343 | Heather Aurelia |
+| 272 | 343 | Yasmin Nakea Wright |
 | 273 | 341 | BlackQueen105 |
-| 274 | 341 | Jawaun Daniels |
-| 275 | 340 | Christian Pham |
-| 276 | 338 | Brand Nu |
-| 277 | 338 | Dennis J Herron II |
-| 278 | 335 | Analiza Ramos |
+| 274 | 341 | Analiza Ramos |
+| 275 | 341 | Jawaun Daniels |
+| 276 | 340 | Christian Pham |
+| 277 | 338 | Brand Nu |
+| 278 | 338 | Dennis J Herron II |
 | 279 | 334 | Dai Bo |
 | 280 | 333 | Qwlonda Shirrell |
 | 281 | 331 | Coco |
@@ -424,29 +424,29 @@
 | 416 | 227 | Shea Ladynick Henderson |
 | 417 | 226 | Kristine Marie Palmer |
 | 418 | 226 | Monica Tovar |
-| 419 | 225 | Vera Beckford |
-| 420 | 224 | Juan Santiago |
-| 421 | 222 | Manda Allen |
-| 422 | 222 | Hardtohandle91 |
-| 423 | 221 | Rayshawn Cohen |
-| 424 | 220 | Maribel Vasquez |
-| 425 | 220 | Rufus |
-| 426 | 220 | Monica Fields |
-| 427 | 219 | De'Nell Edwards |
-| 428 | 219 | Ciera Peace |
-| 429 | 219 | Bambi Johnson |
-| 430 | 218 | CJ Robinson |
-| 431 | 218 | Antonia Wyche |
+| 419 | 225 | Antonia Wyche |
+| 420 | 225 | Vera Beckford |
+| 421 | 224 | Juan Santiago |
+| 422 | 222 | Manda Allen |
+| 423 | 222 | Hardtohandle91 |
+| 424 | 221 | Rayshawn Cohen |
+| 425 | 220 | Maribel Vasquez |
+| 426 | 220 | Rufus |
+| 427 | 220 | Monica Fields |
+| 428 | 219 | De'Nell Edwards |
+| 429 | 219 | Ciera Peace |
+| 430 | 219 | Bambi Johnson |
+| 431 | 218 | CJ Robinson |
 | 432 | 217 | Marlainia Boyd |
 | 433 | 217 | Louise Parker |
-| 434 | 216 | Aaron Hartmann |
-| 435 | 216 | Charlene Baltimore |
-| 436 | 215 | Tracy Feyler |
-| 437 | 215 | kick it |
-| 438 | 215 | Brenda Malachi-butler |
-| 439 | 215 | Perky Balancer |
-| 440 | 214 | Matthieu Pistone |
-| 441 | 214 | Stephen Providenti |
+| 434 | 216 | Charlene Baltimore |
+| 435 | 216 | Aaron Hartmann |
+| 436 | 215 | Perky Balancer |
+| 437 | 215 | Tracy Feyler |
+| 438 | 215 | kick it |
+| 439 | 215 | Brenda Malachi-butler |
+| 440 | 214 | Stephen Providenti |
+| 441 | 214 | Matthieu Pistone |
 | 442 | 213 | Lazy Tiltpiece |
 | 443 | 213 | crumb bumc |
 | 444 | 213 | Valerie Alexander |
@@ -1491,109 +1491,109 @@
 | 1483 | 28 | kiki |
 | 1484 | 28 | Dee |
 | 1485 | 28 | Iván Cedeño |
-| 1486 | 27 | Ramon Leno Coolridge |
+| 1486 | 27 | Venna Cooper |
 | 1487 | 27 | Darlene Johnson |
 | 1488 | 27 | Poppy Clusterbuilder |
-| 1489 | 27 | Venna Cooper |
-| 1490 | 27 | Taylor Keisha |
-| 1491 | 27 | Shaylyn Lockwood |
-| 1492 | 27 | Antoinette GallowayJohnson |
-| 1493 | 27 | scorpiobae |
-| 1494 | 27 | Shaun Baker |
-| 1495 | 27 | marie |
-| 1496 | 27 | Zesty Fitclear |
-| 1497 | 27 | Grant Wilson |
-| 1498 | 27 | Manda Pecora |
-| 1499 | 27 | MsSassygee Boom |
-| 1500 | 27 | katia |
-| 1501 | 27 | Jenine Wiser |
-| 1502 | 27 | Shay Simmons |
+| 1489 | 27 | Taylor Keisha |
+| 1490 | 27 | Ramon Leno Coolridge |
+| 1491 | 27 | Antoinette GallowayJohnson |
+| 1492 | 27 | scorpiobae |
+| 1493 | 27 | Shaylyn Lockwood |
+| 1494 | 27 | Jenine Wiser |
+| 1495 | 27 | Shaun Baker |
+| 1496 | 27 | marie |
+| 1497 | 27 | Shay Simmons |
+| 1498 | 27 | katia |
+| 1499 | 27 | Mighty Curver |
+| 1500 | 27 | LadyMosley |
+| 1501 | 27 | Zesty Fitclear |
+| 1502 | 27 | Grant Wilson |
 | 1503 | 27 | Mariela J. Mazariegos |
-| 1504 | 27 | Mighty Curver |
-| 1505 | 27 | LadyMosley |
-| 1506 | 26 | Lush Risebuilder |
-| 1507 | 26 | Marla |
-| 1508 | 26 | Emily Burgoon |
+| 1504 | 27 | Manda Pecora |
+| 1505 | 27 | MsSassygee Boom |
+| 1506 | 26 | Ana Torres |
+| 1507 | 26 | Kathleen Boyles |
+| 1508 | 26 | Konkrete Pop |
 | 1509 | 26 | Jennifer Diamond |
 | 1510 | 26 | Laura Long |
-| 1511 | 26 | Konkrete Pop |
-| 1512 | 26 | Ana Torres |
-| 1513 | 26 | kaboom |
-| 1514 | 26 | jae |
-| 1515 | 26 | Carlotta L Parker |
-| 1516 | 26 | Teena K Macon |
-| 1517 | 26 | Melissa Ramsey |
-| 1518 | 26 | Layla Williams |
-| 1519 | 26 | Kathleen Boyles |
-| 1520 | 26 | Moneyy Munrow  |
-| 1521 | 25 | Jiff |
-| 1522 | 25 | Em Purvis |
-| 1523 | 25 | PennyCandee |
+| 1511 | 26 | Emily Burgoon |
+| 1512 | 26 | jae |
+| 1513 | 26 | Moneyy Munrow  |
+| 1514 | 26 | Lush Risebuilder |
+| 1515 | 26 | kaboom |
+| 1516 | 26 | Carlotta L Parker |
+| 1517 | 26 | Marla |
+| 1518 | 26 | Teena K Macon |
+| 1519 | 26 | Melissa Ramsey |
+| 1520 | 26 | Layla Williams |
+| 1521 | 25 | Latanya Gayle |
+| 1522 | 25 | Heckabluntstho |
+| 1523 | 25 | Symonne 'Monnie' Pierce |
 | 1524 | 25 | Dinky da Don |
 | 1525 | 25 | Leonard R. Chanette |
-| 1526 | 25 | Heckabluntstho |
-| 1527 | 25 | Latanya Gayle |
-| 1528 | 25 | Amanda Bell |
-| 1529 | 25 | RossA |
-| 1530 | 25 | Symonne 'Monnie' Pierce |
-| 1531 | 25 | Pamela Cooper |
-| 1532 | 25 | Jessie Wallace |
-| 1533 | 25 | Princess Nevaeh |
-| 1534 | 25 | Regina Haygood |
-| 1535 | 24 | Brownie |
-| 1536 | 24 | Beverly Redd-Fountain |
-| 1537 | 24 | Cheeky Matchzone |
-| 1538 | 24 | David Sk Vaughan Jr. |
-| 1539 | 24 | Andrea DeRoy |
-| 1540 | 24 | TanB53 |
-| 1541 | 24 | Null Kim |
-| 1542 | 23 | Tabitha Dupre-Allen |
-| 1543 | 23 | Livelovelaugh Ward |
-| 1544 | 23 | Crafty Pivoty |
-| 1545 | 23 | Milfchaser530 |
-| 1546 | 23 | Lush Buildsnap |
-| 1547 | 23 | Nicolej |
-| 1548 | 23 | Shiny Zonebuilder |
-| 1549 | 23 | Genevieve Nieves |
-| 1550 | 23 | Sassy Stack |
-| 1551 | 23 | Yellowbone |
-| 1552 | 23 | Jamie Lea Popp |
+| 1526 | 25 | Jiff |
+| 1527 | 25 | RossA |
+| 1528 | 25 | Em Purvis |
+| 1529 | 25 | Jessie Wallace |
+| 1530 | 25 | PennyCandee |
+| 1531 | 25 | Amanda Bell |
+| 1532 | 25 | Princess Nevaeh |
+| 1533 | 25 | Regina Haygood |
+| 1534 | 25 | Pamela Cooper |
+| 1535 | 24 | Null Kim |
+| 1536 | 24 | Brownie |
+| 1537 | 24 | David Sk Vaughan Jr. |
+| 1538 | 24 | Cheeky Matchzone |
+| 1539 | 24 | TanB53 |
+| 1540 | 24 | Beverly Redd-Fountain |
+| 1541 | 24 | Andrea DeRoy |
+| 1542 | 23 | Yellowbone |
+| 1543 | 23 | Genevieve Nieves |
+| 1544 | 23 | Shiny Zonebuilder |
+| 1545 | 23 | Nicolej |
+| 1546 | 23 | Milfchaser530 |
+| 1547 | 23 | Tabitha Dupre-Allen |
+| 1548 | 23 | Tyler |
+| 1549 | 23 | Livelovelaugh Ward |
+| 1550 | 23 | Crafty Pivoty |
+| 1551 | 23 | Lush Buildsnap |
+| 1552 | 23 | Sassy Stack |
 | 1553 | 23 | Flashy Buildgrid |
-| 1554 | 23 | Major314 |
-| 1555 | 23 | smash56! |
-| 1556 | 23 | Charisse Johnson |
-| 1557 | 23 | Brave Combofall |
-| 1558 | 23 | Desi |
-| 1559 | 23 | Vortex Viniq |
-| 1560 | 22 | BADBOY658 |
-| 1561 | 22 | Jucee |
-| 1562 | 22 | Chantelle Sweet |
-| 1563 | 22 | Chipper Smasher |
+| 1554 | 23 | Jamie Lea Popp |
+| 1555 | 23 | Major314 |
+| 1556 | 23 | Vortex Viniq |
+| 1557 | 23 | Desi |
+| 1558 | 23 | smash56! |
+| 1559 | 23 | Brave Combofall |
+| 1560 | 23 | Charisse Johnson |
+| 1561 | 22 | Chantelle Sweet |
+| 1562 | 22 | Jhinarra Walker |
+| 1563 | 22 | Jazzy Drop |
 | 1564 | 22 | ShayePooh |
-| 1565 | 22 | Jazzy Drop |
-| 1566 | 22 | Jhinarra Walker |
-| 1567 | 22 | Queen Baby 5 |
-| 1568 | 21 | Tyler |
-| 1569 | 21 | Sanna Rose |
-| 1570 | 21 | Nerdy Riser |
-| 1571 | 21 | Lisamarie Fabre Cardona |
+| 1565 | 22 | Chipper Smasher |
+| 1566 | 22 | Jucee |
+| 1567 | 22 | BADBOY658 |
+| 1568 | 22 | Queen Baby 5 |
+| 1569 | 21 | Dave Breaker |
+| 1570 | 21 | Sanna Rose |
+| 1571 | 21 | Nerdy Riser |
 | 1572 | 21 | Frisky Linkblock |
-| 1573 | 21 | Kikiness |
-| 1574 | 21 | Dave Breaker |
-| 1575 | 21 | Cheeky Wipegrid |
-| 1576 | 21 | PuddenPop |
-| 1577 | 21 | Christy |
-| 1578 | 21 | Boldy Zoner |
-| 1579 | 20 | Deme |
-| 1580 | 20 | Anthony D Holmes |
-| 1581 | 20 | Lively Rollpiece |
-| 1582 | 20 | DRIFTER |
-| 1583 | 20 | Melody Means |
-| 1584 | 20 | AllStar Woods |
-| 1585 | 20 | Skyhigh Scott |
-| 1586 | 20 | Tiffany Sherman |
-| 1587 | 20 | Breezy Pivoty |
-| 1588 | 20 | prela |
+| 1573 | 21 | Lisamarie Fabre Cardona |
+| 1574 | 21 | Christy |
+| 1575 | 21 | PuddenPop |
+| 1576 | 21 | Boldy Zoner |
+| 1577 | 21 | Cheeky Wipegrid |
+| 1578 | 21 | Kikiness |
+| 1579 | 20 | prela |
+| 1580 | 20 | Breezy Pivoty |
+| 1581 | 20 | Tiffany Sherman |
+| 1582 | 20 | AllStar Woods |
+| 1583 | 20 | Skyhigh Scott |
+| 1584 | 20 | Melody Means |
+| 1585 | 20 | DRIFTER |
+| 1586 | 20 | Anthony D Holmes |
+| 1587 | 20 | Lively Rollpiece |
+| 1588 | 20 | Deme |
 | 1589 | 20 | Kenneth Hefney |
 | 1590 | 20 | Peachy Pusher |
 | 1591 | 20 | Nikki Vaughn |
