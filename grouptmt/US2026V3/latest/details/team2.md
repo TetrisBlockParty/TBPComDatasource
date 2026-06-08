@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:38:42 UTC
+# Standings for team2 as of 2026-06-08 09:39:20 UTC
 
 **Total Participants:** 2144
 
@@ -262,9 +262,9 @@
 | 254 | 362 | Lori Whitman |
 | 255 | 362 | Hypee |
 | 256 | 359 | Crystal Poss |
-| 257 | 355 | Lora Via |
-| 258 | 354 | Sabrina Hardrick |
-| 259 | 352 | Charles E Mccardell |
+| 257 | 356 | Charles E Mccardell |
+| 258 | 355 | Lora Via |
+| 259 | 354 | Sabrina Hardrick |
 | 260 | 351 | Cathy Lee Stoneking |
 | 261 | 349 | Spicy Basepiece |
 | 262 | 347 | Fudgie Pie |
