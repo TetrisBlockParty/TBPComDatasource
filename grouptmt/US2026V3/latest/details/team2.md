@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 21:00:19 UTC
+# Standings for team2 as of 2026-06-08 21:00:43 UTC
 
 **Total Participants:** 2268
 
@@ -103,7 +103,7 @@
 | 95 | 1322 | Lisa Breiding |
 | 96 | 1309 | Sigmamom |
 | 97 | 1285 | Charlie Wilson |
-| 98 | 1230 | Chipper Patternblock |
+| 98 | 1250 | Chipper Patternblock |
 | 99 | 1209 | Frothy Fallgrid |
 | 100 | 1182 | Jayke Edward |
 | 101 | 1163 | Jef Wassom |
@@ -1442,39 +1442,39 @@
 | 1434 | 56 | Armordguy |
 | 1435 | 56 | Joe Duffer |
 | 1436 | 56 | Breanna Dykes |
-| 1437 | 56 | CountryGurl |
-| 1438 | 56 | Jessi Ann |
-| 1439 | 56 | Brandon Ray Holt |
-| 1440 | 56 | Danielle Etchison Mask |
-| 1441 | 56 | Perky Rollfit |
-| 1442 | 56 | Greenbean |
-| 1443 | 55 | Angi Carter |
-| 1444 | 55 | Chipper Blockroll |
-| 1445 | 55 | Mistress |
-| 1446 | 55 | Silly Cluster |
-| 1447 | 55 | chad |
-| 1448 | 55 | Gilbert Medina |
-| 1449 | 55 | Cheryl Stevens |
-| 1450 | 55 | Misty McElroy |
-| 1451 | 54 | Lively Liner |
-| 1452 | 54 | Lakeisha Ryder |
-| 1453 | 54 | Jumpy Linkroll |
-| 1454 | 54 | JEEPER |
-| 1455 | 54 | Josie Mendivil |
-| 1456 | 54 | Christina Nycol |
-| 1457 | 54 | Heather Lewis |
+| 1437 | 56 | Stacy Shaunce |
+| 1438 | 56 | CountryGurl |
+| 1439 | 56 | Jessi Ann |
+| 1440 | 56 | Brandon Ray Holt |
+| 1441 | 56 | Danielle Etchison Mask |
+| 1442 | 56 | Perky Rollfit |
+| 1443 | 56 | Greenbean |
+| 1444 | 55 | Angi Carter |
+| 1445 | 55 | Chipper Blockroll |
+| 1446 | 55 | Mistress |
+| 1447 | 55 | Silly Cluster |
+| 1448 | 55 | chad |
+| 1449 | 55 | Gilbert Medina |
+| 1450 | 55 | Cheryl Stevens |
+| 1451 | 55 | Misty McElroy |
+| 1452 | 54 | Lively Liner |
+| 1453 | 54 | Lakeisha Ryder |
+| 1454 | 54 | Jumpy Linkroll |
+| 1455 | 54 | JEEPER |
+| 1456 | 54 | Josie Mendivil |
+| 1457 | 54 | Christina Nycol |
 | 1458 | 54 | Swanky Twister |
 | 1459 | 54 | Jess Duehring |
-| 1460 | 54 | Stacy Shaunce |
-| 1461 | 54 | Jodi Deninno |
-| 1462 | 54 | Lisa |
-| 1463 | 54 | Glitzy Fallgrid |
+| 1460 | 54 | Jodi Deninno |
+| 1461 | 54 | Lisa |
+| 1462 | 54 | Glitzy Fallgrid |
+| 1463 | 54 | Heather Lewis |
 | 1464 | 54 | Cynthia Rose Candelaria |
-| 1465 | 53 | Judy Bailey |
-| 1466 | 53 | Kimberly Rochon |
-| 1467 | 53 | Topknot13 |
+| 1465 | 53 | Kimberly Rochon |
+| 1466 | 53 | Judy Bailey |
+| 1467 | 53 | Gigi |
 | 1468 | 53 | Cozy Builder |
-| 1469 | 53 | Gigi |
+| 1469 | 53 | Topknot13 |
 | 1470 | 53 | Jamie Benge |
 | 1471 | 53 | Kristen Alta |
 | 1472 | 53 | Thomas Johnstone |
@@ -1486,21 +1486,21 @@
 | 1478 | 52 | Amber Marie Lacey |
 | 1479 | 52 | Jason Janssen |
 | 1480 | 52 | Dolly |
-| 1481 | 52 | Chirpy Shiftspin |
-| 1482 | 52 | Daniel Flathers |
-| 1483 | 52 | Catherine Whitt Gaddy |
-| 1484 | 52 | Samantha LeBlanc |
-| 1485 | 52 | Amy Renaud |
-| 1486 | 52 | Catalina Castro |
-| 1487 | 52 | Bridgett Smith |
-| 1488 | 52 | Amanda Jungclaus |
-| 1489 | 52 | Chrissy Hess |
-| 1490 | 51 | Charity Black |
-| 1491 | 51 | haihai |
-| 1492 | 51 | Ramona Peña |
-| 1493 | 51 | Paula Martin |
-| 1494 | 51 | Brandi Lynn Tumey |
-| 1495 | 51 | Zippy Wobbler |
+| 1481 | 52 | Samantha LeBlanc |
+| 1482 | 52 | Catalina Castro |
+| 1483 | 52 | Bridgett Smith |
+| 1484 | 52 | Amanda Jungclaus |
+| 1485 | 52 | Chirpy Shiftspin |
+| 1486 | 52 | Daniel Flathers |
+| 1487 | 52 | Amy Renaud |
+| 1488 | 52 | Chrissy Hess |
+| 1489 | 52 | Catherine Whitt Gaddy |
+| 1490 | 51 | Paula Martin |
+| 1491 | 51 | Zippy Wobbler |
+| 1492 | 51 | Brandi Lynn Tumey |
+| 1493 | 51 | Ramona Peña |
+| 1494 | 51 | haihai |
+| 1495 | 51 | Charity Black |
 | 1496 | 51 | Brian Giddens |
 | 1497 | 51 | Staci Carl |
 | 1498 | 51 | Jess |
@@ -1513,8 +1513,8 @@
 | 1505 | 50 | Whitt |
 | 1506 | 50 | Tabitha Palen |
 | 1507 | 50 | Bubbly Risebuilder |
-| 1508 | 50 | Shannon Miller- Cooley |
-| 1509 | 50 | Goob277 |
+| 1508 | 50 | Goob277 |
+| 1509 | 50 | Shannon Miller- Cooley |
 | 1510 | 50 | Meve |
 | 1511 | 50 | Ducky West |
 | 1512 | 50 | Rita Silveeia Miller |

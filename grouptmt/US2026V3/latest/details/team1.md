@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:00:19 UTC
+# Standings for team1 as of 2026-06-08 21:00:43 UTC
 
 **Total Participants:** 1872
 
@@ -477,11 +477,11 @@
 | 469 | 196 | Ladybug |
 | 470 | 196 | Teresa Yanira Cepeda |
 | 471 | 194 | Mahagony Small |
-| 472 | 193 | Dizzy Dashy |
-| 473 | 193 | Bold Clusterer |
-| 474 | 192 | Donna Payne |
-| 475 | 192 | Hyper Blocky |
-| 476 | 191 | Jolly Tilefall |
+| 472 | 193 | Jolly Tilefall |
+| 473 | 193 | Dizzy Dashy |
+| 474 | 193 | Bold Clusterer |
+| 475 | 192 | Donna Payne |
+| 476 | 192 | Hyper Blocky |
 | 477 | 191 | Zappy Clearfit |
 | 478 | 191 | Miera Nicole |
 | 479 | 191 | Nona Harriel |
@@ -979,22 +979,22 @@
 | 971 | 82 | Anntionette Sotire |
 | 972 | 82 | Cheery Strikerbuilder |
 | 973 | 82 | LaSharon Jackson |
-| 974 | 82 | Nutty Fallmatch |
-| 975 | 82 | Hoppy Rumbler |
-| 976 | 81 | GracefulOwl808 |
-| 977 | 81 | Deihja Weaver |
-| 978 | 81 | Parris Wright |
-| 979 | 81 | Jose Antonio Villot |
+| 974 | 82 | SweetByNBy |
+| 975 | 82 | Nutty Fallmatch |
+| 976 | 82 | Hoppy Rumbler |
+| 977 | 81 | GracefulOwl808 |
+| 978 | 81 | Deihja Weaver |
+| 979 | 81 | Parris Wright |
 | 980 | 81 | Felicia Woods |
-| 981 | 80 | Chill Curvebuilder |
-| 982 | 80 | Lauren Farkas |
-| 983 | 80 | Linzi Cole |
-| 984 | 80 | Antoinette Kidd |
-| 985 | 80 | Lisa420 |
-| 986 | 80 | Chevalier Burley |
-| 987 | 80 | Michael Gray |
-| 988 | 80 | nay |
-| 989 | 80 | SweetByNBy |
+| 981 | 81 | Jose Antonio Villot |
+| 982 | 80 | Chill Curvebuilder |
+| 983 | 80 | Lauren Farkas |
+| 984 | 80 | Linzi Cole |
+| 985 | 80 | Antoinette Kidd |
+| 986 | 80 | Lisa420 |
+| 987 | 80 | Chevalier Burley |
+| 988 | 80 | Michael Gray |
+| 989 | 80 | nay |
 | 990 | 80 | Lady Scorpio |
 | 991 | 80 | Charles Johnson |
 | 992 | 79 | Evette Moreno |
