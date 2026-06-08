@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:08:19 UTC
+# Standings for team2 as of 2026-06-08 04:08:43 UTC
 
 **Total Participants:** 2074
 
@@ -161,16 +161,16 @@
 | 153 | 587 | Kathleen Dumbazz |
 | 154 | 577 | Lindsay Klemp |
 | 155 | 574 | Brandy McCune Reep |
-| 156 | 563 | Monique Frantz |
-| 157 | 555 | Christina Maria |
-| 158 | 554 | Zarah Kettler |
+| 156 | 565 | MarioKarasovic |
+| 157 | 563 | Monique Frantz |
+| 158 | 555 | Christina Maria |
 | 159 | 554 | Cathy Tippett |
-| 160 | 553 | Jgato |
-| 161 | 553 | Jamie Jones |
-| 162 | 550 | DomDomsNana |
-| 163 | 550 | Sully |
+| 160 | 554 | Zarah Kettler |
+| 161 | 553 | Jgato |
+| 162 | 553 | Jamie Jones |
+| 163 | 550 | DomDomsNana |
 | 164 | 550 | Amanda Sikes |
-| 165 | 548 | MarioKarasovic |
+| 165 | 550 | Sully |
 | 166 | 537 | Nutty Curver |
 | 167 | 533 | Spicy Risegrid |
 | 168 | 519 | Mom |
@@ -188,8 +188,8 @@
 | 180 | 483 | Karen Reid Cenkush |
 | 181 | 474 | Bubbly Strikerpiece |
 | 182 | 470 | Zesty Strikerbuilder |
-| 183 | 457 | MegaPooh |
-| 184 | 457 | Lisa Underwood Desmond |
+| 183 | 457 | Lisa Underwood Desmond |
+| 184 | 457 | MegaPooh |
 | 185 | 453 | Kimberly Cowan |
 | 186 | 453 | Ashley Green |
 | 187 | 451 | Gill |
@@ -237,12 +237,12 @@
 | 229 | 383 | Jenna Stahl |
 | 230 | 380 | Bb |
 | 231 | 379 | Greta Warden |
-| 232 | 376 | Jamie Fenyus |
-| 233 | 376 | Chill Line |
+| 232 | 376 | Chill Line |
+| 233 | 376 | Jamie Fenyus |
 | 234 | 375 | Branden Frankowski |
-| 235 | 373 | Lashanda Bertram |
+| 235 | 373 | Theresa Hollinger |
 | 236 | 373 | Hoppy Mover |
-| 237 | 373 | Theresa Hollinger |
+| 237 | 373 | Lashanda Bertram |
 | 238 | 371 | Brittni Lawrence |
 | 239 | 370 | giamy |
 | 240 | 368 | Traci Abern |
@@ -262,16 +262,16 @@
 | 254 | 337 | Ashley Billiot Rhodes |
 | 255 | 337 | Adriana Daniela Agapie |
 | 256 | 331 | Shannon Wilson |
-| 257 | 328 | Tim Tim |
-| 258 | 328 | Amie Marks |
-| 259 | 328 | Xandrea Jones |
-| 260 | 325 | Flashy Twistline |
-| 261 | 325 | Snappy Combo |
+| 257 | 328 | Xandrea Jones |
+| 258 | 328 | Tim Tim |
+| 259 | 328 | Amie Marks |
+| 260 | 325 | Snappy Combo |
+| 261 | 325 | Flashy Twistline |
 | 262 | 324 | DayDreamer79 |
-| 263 | 324 | Kimmyc |
-| 264 | 324 | Norma Ortiz |
-| 265 | 322 | Queen |
-| 266 | 322 | Pam Bauder Ludwig |
+| 263 | 324 | Norma Ortiz |
+| 264 | 324 | Kimmyc |
+| 265 | 322 | Pam Bauder Ludwig |
+| 266 | 322 | Queen |
 | 267 | 320 | Linda Guay |
 | 268 | 319 | Ackerman 85 |
 | 269 | 318 | Pamela Raye |
@@ -284,16 +284,16 @@
 | 276 | 306 | Brittney Williams |
 | 277 | 305 | Melissa Clogher White |
 | 278 | 305 | Logan Duffey |
-| 279 | 300 | Jamin |
+| 279 | 303 | Chipper Stackbuilder |
 | 280 | 300 | Melisa |
 | 281 | 300 | Patricia Carroll |
-| 282 | 298 | Rob Owens |
-| 283 | 296 | Vistabrat |
-| 284 | 295 | James Ward |
-| 285 | 295 | Nathan Walker |
-| 286 | 295 | Havik Whitfield |
-| 287 | 294 | Jeanna Mendez |
-| 288 | 294 | Chipper Stackbuilder |
+| 282 | 300 | Jamin |
+| 283 | 298 | Rob Owens |
+| 284 | 296 | Vistabrat |
+| 285 | 295 | James Ward |
+| 286 | 295 | Nathan Walker |
+| 287 | 295 | Havik Whitfield |
+| 288 | 294 | Jeanna Mendez |
 | 289 | 287 | Steven |
 | 290 | 286 | Kathy Strickland |
 | 291 | 286 | Kathleen Keogh Van Schoyck |
@@ -301,9 +301,9 @@
 | 293 | 284 | Kelly Vedder |
 | 294 | 283 | Buffy Diane Blake |
 | 295 | 283 | Hilliary Beyer |
-| 296 | 280 | Tami Kay Williams Watson |
-| 297 | 280 | August Christy Lathrop |
-| 298 | 280 | Loopy Dropper |
+| 296 | 280 | August Christy Lathrop |
+| 297 | 280 | Loopy Dropper |
+| 298 | 280 | Tami Kay Williams Watson |
 | 299 | 279 | Curly Windbreaker |
 | 300 | 278 | Amy Nicole McCanne |
 | 301 | 276 | AndrewandShela Gornik |
@@ -314,18 +314,18 @@
 | 306 | 269 | Brooke Lynn Marie Adelaide |
 | 307 | 268 | Charles E Mccardell |
 | 308 | 267 | Karly Moore |
-| 309 | 267 | Stephanie |
-| 310 | 267 | Iesha Cupil |
+| 309 | 267 | Iesha Cupil |
+| 310 | 267 | Stephanie |
 | 311 | 266 | Josh Vietz |
-| 312 | 265 | Skye Ehret |
-| 313 | 265 | Marylin Eacker |
+| 312 | 265 | Marylin Eacker |
+| 313 | 265 | Skye Ehret |
 | 314 | 265 | Mikia Stokes |
 | 315 | 264 | Dallas Runyan |
 | 316 | 262 | Erica South |
 | 317 | 261 | Jenny |
 | 318 | 260 | Tony Medina |
-| 319 | 260 | Danielle Pack Lewellen |
-| 320 | 260 | marsam |
+| 319 | 260 | marsam |
+| 320 | 260 | Danielle Pack Lewellen |
 | 321 | 259 | Angie Kowalsky Olson |
 | 322 | 256 | Ariel Gundersen |
 | 323 | 255 | True |
@@ -416,29 +416,29 @@
 | 408 | 206 | meg |
 | 409 | 206 | Jodi Johnson |
 | 410 | 204 | Jacquelyn Snyder Dumas |
-| 411 | 204 | Chummy Snapbuilder |
-| 412 | 204 | Teddy Williams |
+| 411 | 204 | Teddy Williams |
+| 412 | 204 | Chummy Snapbuilder |
 | 413 | 203 | Jill Goff |
 | 414 | 202 | MUMBLES |
 | 415 | 201 | Amanda L Strong |
 | 416 | 201 | Melissa Nash |
 | 417 | 201 | Amber Smith |
-| 418 | 200 | Al Smith Jr |
-| 419 | 200 | Katie Jones |
+| 418 | 200 | Katie Jones |
+| 419 | 200 | Al Smith Jr |
 | 420 | 199 | Paula Haskins |
 | 421 | 198 | Epic Tilemaker |
 | 422 | 198 | Rosalie Call Kehlenbeck |
 | 423 | 196 | Greenie |
 | 424 | 196 | Spunky Linkblock |
 | 425 | 195 | Reign Hustler |
-| 426 | 194 | andee |
-| 427 | 194 | Brian Favre |
-| 428 | 194 | Jessica Connot |
-| 429 | 194 | Funway998 |
-| 430 | 192 | TetrisMama |
-| 431 | 192 | Loopy Tower |
-| 432 | 192 | Raine |
-| 433 | 191 | Partin |
+| 426 | 195 | Partin |
+| 427 | 194 | andee |
+| 428 | 194 | Brian Favre |
+| 429 | 194 | Jessica Connot |
+| 430 | 194 | Funway998 |
+| 431 | 192 | TetrisMama |
+| 432 | 192 | Loopy Tower |
+| 433 | 192 | Raine |
 | 434 | 191 | Nano. |
 | 435 | 191 | Sarah Jane Gorsuch |
 | 436 | 190 | Lisa Allen Frisk |
