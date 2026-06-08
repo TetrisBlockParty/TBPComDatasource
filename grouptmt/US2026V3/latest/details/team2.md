@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 22:02:20 UTC
+# Standings for team2 as of 2026-06-08 22:02:45 UTC
 
 **Total Participants:** 2281
 
@@ -40,10 +40,10 @@
 | 32 | 4386 | Danni Campa |
 | 33 | 4228 | Erica Dees Parks |
 | 34 | 4219 | Jewels |
-| 35 | 4111 | Smashanator |
-| 36 | 3992 | Quirky Catcher |
-| 37 | 3984 | Amber |
-| 38 | 3890 | Logan Basham |
+| 35 | 4190 | Logan Basham |
+| 36 | 4111 | Smashanator |
+| 37 | 3992 | Quirky Catcher |
+| 38 | 3984 | Amber |
 | 39 | 3812 | Crystal M Sowden |
 | 40 | 3766 | Ashley Miller |
 | 41 | 3573 | DarkHorse |
@@ -179,26 +179,26 @@
 | 171 | 637 | Kellie Sharp Godfrey |
 | 172 | 635 | Joslyn Johnson |
 | 173 | 633 | Karen Reid Cenkush |
-| 174 | 629 | Daybreak |
-| 175 | 628 | Tim Tim |
-| 176 | 626 | Jeska Gaines |
-| 177 | 625 | Pooh |
-| 178 | 623 | MegaPooh |
-| 179 | 609 | Michelle Rich Burkhart |
-| 180 | 609 | Chris Cooper |
-| 181 | 604 | Bubbly Strikerpiece |
-| 182 | 600 | Theresa Marie |
-| 183 | 600 | Chasity Simpson |
-| 184 | 593 | Monique Frantz |
-| 185 | 592 | Spicy Basepiece |
-| 186 | 588 | Crystal Allen |
-| 187 | 587 | Sara Perkins |
-| 188 | 587 | Kathleen Dumbazz |
-| 189 | 587 | Kevin Mccoy |
-| 190 | 586 | Nikki Hayes |
-| 191 | 582 | Zarah Kettler |
-| 192 | 577 | Lindsay Klemp |
-| 193 | 574 | Jamie Fenyus |
+| 174 | 631 | Jamie Fenyus |
+| 175 | 629 | Daybreak |
+| 176 | 628 | Tim Tim |
+| 177 | 626 | Jeska Gaines |
+| 178 | 625 | Pooh |
+| 179 | 623 | MegaPooh |
+| 180 | 609 | Michelle Rich Burkhart |
+| 181 | 609 | Chris Cooper |
+| 182 | 604 | Bubbly Strikerpiece |
+| 183 | 600 | Theresa Marie |
+| 184 | 600 | Chasity Simpson |
+| 185 | 593 | Monique Frantz |
+| 186 | 592 | Spicy Basepiece |
+| 187 | 588 | Crystal Allen |
+| 188 | 587 | Sara Perkins |
+| 189 | 587 | Kathleen Dumbazz |
+| 190 | 587 | Kevin Mccoy |
+| 191 | 586 | Nikki Hayes |
+| 192 | 582 | Zarah Kettler |
+| 193 | 577 | Lindsay Klemp |
 | 194 | 574 | Brandy McCune Reep |
 | 195 | 572 | Vistabrat |
 | 196 | 571 | Robin G |
@@ -785,8 +785,8 @@
 | 777 | 142 | Heather Vircik |
 | 778 | 142 | LadyDeath |
 | 779 | 142 | Zaniya Brown |
-| 780 | 142 | Melissa Aycock |
-| 781 | 142 | Jeremy Daurbigny |
+| 780 | 142 | Jeremy Daurbigny |
+| 781 | 142 | Melissa Aycock |
 | 782 | 141 | mee |
 | 783 | 141 | s3lc4tr0n |
 | 784 | 141 | Tamtam |
@@ -820,34 +820,34 @@
 | 812 | 135 | Mee Maw |
 | 813 | 135 | Erin Moore Galloway |
 | 814 | 135 | Melissa Pronovost |
-| 815 | 135 | Ava Taber |
-| 816 | 134 | Duck |
-| 817 | 134 | Twisty Tower |
-| 818 | 134 | Rachel M. Farnsworth |
-| 819 | 134 | Cassandra Milner |
-| 820 | 133 | Baby |
-| 821 | 133 | Becky Kennon |
-| 822 | 133 | Michelle |
-| 823 | 133 | CAL1KAWS559 |
+| 815 | 135 | Julie Brown |
+| 816 | 135 | Ava Taber |
+| 817 | 134 | Duck |
+| 818 | 134 | Twisty Tower |
+| 819 | 134 | Rachel M. Farnsworth |
+| 820 | 134 | Cassandra Milner |
+| 821 | 133 | Baby |
+| 822 | 133 | Becky Kennon |
+| 823 | 133 | Michelle |
 | 824 | 133 | Clever Fallmatch |
-| 825 | 132 | Michele Plunkett |
-| 826 | 132 | sugabritches |
+| 825 | 133 | CAL1KAWS559 |
+| 826 | 132 | Michele Plunkett |
 | 827 | 132 | K2N |
-| 828 | 132 | Hyper Striker |
-| 829 | 132 | Staci Walker |
-| 830 | 132 | Kristen |
-| 831 | 132 | Belinda Gullion Austin |
-| 832 | 132 | Tim Moore |
-| 833 | 131 | Jessica Bowman |
-| 834 | 131 | Eva Lopez |
-| 835 | 131 | Cool Patternbuilder |
-| 836 | 131 | Lyndzey Sciscoe |
-| 837 | 130 | Hannah Meadows Hammond |
+| 828 | 132 | sugabritches |
+| 829 | 132 | Hyper Striker |
+| 830 | 132 | Staci Walker |
+| 831 | 132 | Kristen |
+| 832 | 132 | Belinda Gullion Austin |
+| 833 | 132 | Tim Moore |
+| 834 | 131 | Jessica Bowman |
+| 835 | 131 | Eva Lopez |
+| 836 | 131 | Cool Patternbuilder |
+| 837 | 131 | Lyndzey Sciscoe |
 | 838 | 130 | Michele Gonzales |
 | 839 | 130 | Joanie Swann Ruiter |
-| 840 | 130 | Julie Brown |
-| 841 | 130 | Desia Walker |
-| 842 | 130 | Tiffany Ann |
+| 840 | 130 | Hannah Meadows Hammond |
+| 841 | 130 | Tiffany Ann |
+| 842 | 130 | Desia Walker |
 | 843 | 130 | Groovy Glider |
 | 844 | 130 | CEK |
 | 845 | 130 | gene15 |
@@ -872,8 +872,8 @@
 | 864 | 125 | Frisky Linkbuilder |
 | 865 | 125 | Nicole Treadway |
 | 866 | 125 | Jessica Gayle Sears |
-| 867 | 125 | Ashlee Johnson |
-| 868 | 125 | Anzhen |
+| 867 | 125 | Anzhen |
+| 868 | 125 | Ashlee Johnson |
 | 869 | 124 | Spicy Enchilada |
 | 870 | 124 | Seamus |
 | 871 | 124 | Marlo Perry |
@@ -892,15 +892,15 @@
 | 884 | 120 | Morgan Olson Pingree |
 | 885 | 120 | Val |
 | 886 | 120 | Glowing Earthy Embers |
-| 887 | 120 | Debbie Davis |
+| 887 | 120 | Tommi Lynn Lawson |
 | 888 | 120 | Michelle Feliciano |
-| 889 | 120 | TheAggie12 |
-| 890 | 120 | Alice Petterborg Barberich |
-| 891 | 120 | Keisha Robinson |
-| 892 | 120 | Gloria Appleton |
-| 893 | 120 | Heather Nicole |
+| 889 | 120 | Debbie Davis |
+| 890 | 120 | Keisha Robinson |
+| 891 | 120 | Alice Petterborg Barberich |
+| 892 | 120 | Heather Nicole |
+| 893 | 120 | Gloria Appleton |
 | 894 | 120 | Scott Lyles |
-| 895 | 120 | Tommi Lynn Lawson |
+| 895 | 120 | TheAggie12 |
 | 896 | 119 | Funko Dave |
 | 897 | 119 | Jasmine Goggans |
 | 898 | 119 | Kjsranch |
