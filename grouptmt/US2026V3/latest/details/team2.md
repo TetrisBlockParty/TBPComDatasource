@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 20:40:21 UTC
+# Standings for team2 as of 2026-06-08 20:40:45 UTC
 
 **Total Participants:** 2262
 
@@ -476,19 +476,19 @@
 | 468 | 240 | Dapper Riser |
 | 469 | 239 | Stella |
 | 470 | 239 | Will Jones |
-| 471 | 238 | andee |
-| 472 | 238 | Lisa Allen Frisk |
-| 473 | 237 | Amanda Priddy |
-| 474 | 237 | Cheery Tilefall |
-| 475 | 237 | Renee Siems |
-| 476 | 236 | Lush Party |
-| 477 | 236 | NickandJess Reynolds |
-| 478 | 236 | Spunky Linkblock |
-| 479 | 234 | Leticia Tillman |
-| 480 | 233 | Teddy Williams |
-| 481 | 233 | Gwendolyn Boykin Mobbs |
-| 482 | 233 | Errkuh |
-| 483 | 233 | murd3rmous3 |
+| 471 | 239 | murd3rmous3 |
+| 472 | 238 | andee |
+| 473 | 238 | Lisa Allen Frisk |
+| 474 | 237 | Amanda Priddy |
+| 475 | 237 | Cheery Tilefall |
+| 476 | 237 | Renee Siems |
+| 477 | 236 | Lush Party |
+| 478 | 236 | NickandJess Reynolds |
+| 479 | 236 | Spunky Linkblock |
+| 480 | 234 | Leticia Tillman |
+| 481 | 233 | Teddy Williams |
+| 482 | 233 | Gwendolyn Boykin Mobbs |
+| 483 | 233 | Errkuh |
 | 484 | 232 | Sandy Rundel Holderman |
 | 485 | 230 | phamous1 |
 | 486 | 229 | TetrisMama |
@@ -1122,32 +1122,32 @@
 | 1114 | 88 | Suzanne Davis |
 | 1115 | 88 | Erin Marie Smith |
 | 1116 | 88 | Missy Tubb Overly |
-| 1117 | 87 | Dawn Marie |
+| 1117 | 88 | Jolly Brickroll |
 | 1118 | 87 | April Elaine Messenger |
-| 1119 | 87 | LilMs101 |
-| 1120 | 86 | Em |
-| 1121 | 86 | Jennifer Robinson |
-| 1122 | 86 | Nicole Hjelmen |
-| 1123 | 86 | shell |
-| 1124 | 86 | Nina-Christina Cusyck |
-| 1125 | 85 | James Moore |
-| 1126 | 85 | Daisy Girl |
-| 1127 | 85 | Baby |
-| 1128 | 85 | Lexi Chouinard |
-| 1129 | 85 | Tonya Marino |
-| 1130 | 85 | Christina Kearns |
+| 1119 | 87 | Dawn Marie |
+| 1120 | 87 | LilMs101 |
+| 1121 | 86 | Em |
+| 1122 | 86 | Jennifer Robinson |
+| 1123 | 86 | Nina-Christina Cusyck |
+| 1124 | 86 | shell |
+| 1125 | 86 | Nicole Hjelmen |
+| 1126 | 85 | Christina Kearns |
+| 1127 | 85 | Tonya Marino |
+| 1128 | 85 | Daisy Girl |
+| 1129 | 85 | Lexi Chouinard |
+| 1130 | 85 | Baby |
 | 1131 | 85 | SunnySquare |
-| 1132 | 85 | Jolly Brickroll |
+| 1132 | 85 | James Moore |
 | 1133 | 85 | Rob Phillips |
 | 1134 | 85 | Wendy Morrison |
 | 1135 | 85 | Chillxsnow |
 | 1136 | 85 | Melissa Mae |
 | 1137 | 84 | Matt Solomon |
 | 1138 | 84 | Calah Amore |
-| 1139 | 84 | Twisty Snapmatch |
-| 1140 | 84 | Chirpy Tower |
-| 1141 | 84 | Tiffany Fitch |
-| 1142 | 84 | Mona Wagner |
+| 1139 | 84 | Mona Wagner |
+| 1140 | 84 | Tiffany Fitch |
+| 1141 | 84 | Chirpy Tower |
+| 1142 | 84 | Twisty Snapmatch |
 | 1143 | 83 | Diamond Balotje |
 | 1144 | 83 | Lezley Hawkins |
 | 1145 | 83 | Carol Whited Loza |

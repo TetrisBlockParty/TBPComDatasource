@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 20:40:21 UTC
+# Standings for team1 as of 2026-06-08 20:40:45 UTC
 
 **Total Participants:** 1867
 
@@ -214,7 +214,7 @@
 | 206 | 439 | Asani CHumba |
 | 207 | 438 | Zippy Tilefall |
 | 208 | 435 | Tishauna Virgo |
-| 209 | 432 | JaClanDiah |
+| 209 | 433 | JaClanDiah |
 | 210 | 431 | Lashawn Wallace |
 | 211 | 430 | boogeywoogey |
 | 212 | 424 | Choc |
@@ -1083,125 +1083,125 @@
 | 1075 | 66 | Jennifer Dawn Egbert Fenwick |
 | 1076 | 66 | Letrishia Andrews |
 | 1077 | 66 | Raquele Hines |
-| 1078 | 66 | LaPorscha Wright |
-| 1079 | 66 | Evelyn Epps |
-| 1080 | 65 | Vonda House |
-| 1081 | 65 | Trixie |
+| 1078 | 66 | Evelyn Epps |
+| 1079 | 66 | LaPorscha Wright |
+| 1080 | 66 | Jeremy Hendrix |
+| 1081 | 65 | Vonda House |
 | 1082 | 65 | Denisa Amazon Clark |
 | 1083 | 65 | Furlough Leslie |
-| 1084 | 64 | Capt Kev |
-| 1085 | 64 | Alexis Alexander |
-| 1086 | 64 | Kanesha Jackson |
+| 1084 | 65 | Trixie |
+| 1085 | 64 | Kanesha Jackson |
+| 1086 | 64 | midnightxtoker |
 | 1087 | 64 | Giggly Dasher |
-| 1088 | 64 | midnightxtoker |
-| 1089 | 64 | Morenita Rodriguez |
-| 1090 | 64 | Nicole Coko Thomas |
-| 1091 | 64 | Mighty Riserbuilder |
-| 1092 | 63 | Natasha Harris |
-| 1093 | 63 | Amanda Colwell |
+| 1088 | 64 | Mighty Riserbuilder |
+| 1089 | 64 | Nicole Coko Thomas |
+| 1090 | 64 | Morenita Rodriguez |
+| 1091 | 64 | Alexis Alexander |
+| 1092 | 64 | Capt Kev |
+| 1093 | 64 | Dapper Matchfit |
 | 1094 | 63 | Gary Kyle |
-| 1095 | 63 | Lucy Range |
-| 1096 | 63 | Nerdy Wipefit |
-| 1097 | 63 | Tonny Williams |
-| 1098 | 63 | Corbin Henry |
-| 1099 | 63 | Jeremy Hendrix |
-| 1100 | 62 | Simone Dublin |
-| 1101 | 62 | Quirky Slammer |
-| 1102 | 62 | Tia Hazelton |
-| 1103 | 62 | Spicy Hedgehog |
-| 1104 | 62 | Stephanie Vinson |
-| 1105 | 62 | Shona ShayShay Jones |
-| 1106 | 61 | Michelle Stanford-Page |
+| 1095 | 63 | Amanda Colwell |
+| 1096 | 63 | Natasha Harris |
+| 1097 | 63 | Lucy Range |
+| 1098 | 63 | Nerdy Wipefit |
+| 1099 | 63 | Corbin Henry |
+| 1100 | 63 | Tonny Williams |
+| 1101 | 62 | Stephanie Vinson |
+| 1102 | 62 | Simone Dublin |
+| 1103 | 62 | Shona ShayShay Jones |
+| 1104 | 62 | Spicy Hedgehog |
+| 1105 | 62 | Quirky Slammer |
+| 1106 | 62 | Tia Hazelton |
 | 1107 | 61 | Brave Gridmatch |
-| 1108 | 61 | Tonya Thomas |
-| 1109 | 61 | Sagitterrorist |
-| 1110 | 61 | b |
-| 1111 | 61 | Giggleme |
-| 1112 | 60 | Ebie |
+| 1108 | 61 | Giggleme |
+| 1109 | 61 | b |
+| 1110 | 61 | Tonya Thomas |
+| 1111 | 61 | Michelle Stanford-Page |
+| 1112 | 61 | Sagitterrorist |
 | 1113 | 60 | Londa Londa |
-| 1114 | 60 | Tanesha Ga'sFinest Corbett |
-| 1115 | 60 | Nope Young |
-| 1116 | 60 | Nancy Hartzell |
-| 1117 | 60 | Anthony Intrabartolo |
-| 1118 | 60 | Yellowguy3 |
+| 1114 | 60 | Nope Young |
+| 1115 | 60 | Tanesha Ga'sFinest Corbett |
+| 1116 | 60 | Anthony Intrabartolo |
+| 1117 | 60 | Yellowguy3 |
+| 1118 | 60 | Ebie |
 | 1119 | 60 | Lynette Manning |
-| 1120 | 60 | Tyrone Porter |
-| 1121 | 60 | Demi Ovalle |
+| 1120 | 60 | Demi Ovalle |
+| 1121 | 60 | Tyrone Porter |
 | 1122 | 60 | Jenni |
-| 1123 | 60 | Briela Sabrina |
+| 1123 | 60 | Nancy Hartzell |
 | 1124 | 60 | Sally Elizabeth Hopson |
-| 1125 | 60 | Nigel Snyder |
-| 1126 | 60 | Richard Harper |
-| 1127 | 60 | Jennifer Endean |
-| 1128 | 59 | Kween Pilot |
-| 1129 | 59 | Robert Varnado |
-| 1130 | 59 | Sweet BayBee |
-| 1131 | 59 | Smiley Tilebuilder |
-| 1132 | 59 | Jeremy Myers |
-| 1133 | 59 | Angela Hill O'Neal |
-| 1134 | 59 | Ernie Waters |
-| 1135 | 59 | Jose Antonio Villot |
-| 1136 | 59 | Wacky Spinfit |
-| 1137 | 59 | Andrea Jackson |
-| 1138 | 58 | Brii Michelle Lamb |
-| 1139 | 58 | Aihpos |
+| 1125 | 60 | Richard Harper |
+| 1126 | 60 | Jennifer Endean |
+| 1127 | 60 | Briela Sabrina |
+| 1128 | 60 | Nigel Snyder |
+| 1129 | 59 | Andrea Jackson |
+| 1130 | 59 | Kween Pilot |
+| 1131 | 59 | Wacky Spinfit |
+| 1132 | 59 | Angela Hill O'Neal |
+| 1133 | 59 | Robert Varnado |
+| 1134 | 59 | Jose Antonio Villot |
+| 1135 | 59 | Smiley Tilebuilder |
+| 1136 | 59 | Sweet BayBee |
+| 1137 | 59 | Jeremy Myers |
+| 1138 | 59 | Ernie Waters |
+| 1139 | 58 | Brii Michelle Lamb |
 | 1140 | 58 | CoaCoa Myles |
-| 1141 | 58 | Brandy Way |
-| 1142 | 57 | Brave Balanceblock |
-| 1143 | 57 | Carl Proby |
+| 1141 | 58 | Aihpos |
+| 1142 | 58 | Brandy Way |
+| 1143 | 57 | LaShawyn Wood |
 | 1144 | 57 | Demetrice Buck Wilson |
-| 1145 | 57 | Warren Miller |
-| 1146 | 57 | LaShawyn Wood |
-| 1147 | 56 | Maxine Williams |
-| 1148 | 56 | Kayleah Washington |
-| 1149 | 56 | Christopher Wallace |
-| 1150 | 56 | Chanel White |
+| 1145 | 57 | Carl Proby |
+| 1146 | 57 | Warren Miller |
+| 1147 | 57 | Brave Balanceblock |
+| 1148 | 56 | Christopher Wallace |
+| 1149 | 56 | Kayleah Washington |
+| 1150 | 56 | Maxine Williams |
 | 1151 | 56 | QueenzMo |
-| 1152 | 56 | SnazzySnippet |
-| 1153 | 56 | Shemeka Bates |
-| 1154 | 56 | Breeze |
-| 1155 | 56 | Arturo Hernandez II |
-| 1156 | 56 | Lillie Blossom Dixon |
-| 1157 | 56 | Tammy Collins |
-| 1158 | 56 | Lisa Ivy |
-| 1159 | 55 | Laura Wesley |
+| 1152 | 56 | Shemeka Bates |
+| 1153 | 56 | Arturo Hernandez II |
+| 1154 | 56 | Lillie Blossom Dixon |
+| 1155 | 56 | Chanel White |
+| 1156 | 56 | Lisa Ivy |
+| 1157 | 56 | Breeze |
+| 1158 | 56 | Tammy Collins |
+| 1159 | 56 | SnazzySnippet |
 | 1160 | 55 | Kike Lua |
-| 1161 | 55 | Thelma Samuels |
-| 1162 | 55 | Chummy Twisterfit |
-| 1163 | 55 | Aanngie Aanngie |
-| 1164 | 55 | Cheery Clusterbuilder |
-| 1165 | 55 | Bouncy Glide |
-| 1166 | 55 | KoolKimJay |
-| 1167 | 55 | sunstar |
-| 1168 | 54 | Ivan Israel |
-| 1169 | 54 | Mrs |
-| 1170 | 54 | rummy |
-| 1171 | 54 | Dapper Matchfit |
-| 1172 | 54 | Beautiful314 |
-| 1173 | 54 | Noni |
+| 1161 | 55 | Cheery Clusterbuilder |
+| 1162 | 55 | Aanngie Aanngie |
+| 1163 | 55 | Chummy Twisterfit |
+| 1164 | 55 | Thelma Samuels |
+| 1165 | 55 | KoolKimJay |
+| 1166 | 55 | Bouncy Glide |
+| 1167 | 55 | Laura Wesley |
+| 1168 | 55 | sunstar |
+| 1169 | 54 | Felicia Yahuah Johnson |
+| 1170 | 54 | Noni |
+| 1171 | 54 | MoneyMac |
+| 1172 | 54 | Damien Fonseca |
+| 1173 | 54 | Beautiful314 |
 | 1174 | 54 | deeno |
 | 1175 | 54 | Tez Mays |
-| 1176 | 54 | Damien Fonseca |
-| 1177 | 54 | Christina Wesley |
-| 1178 | 54 | MoneyMac |
-| 1179 | 54 | Embracing Hair |
-| 1180 | 54 | Felicia Yahuah Johnson |
+| 1176 | 54 | Ivan Israel |
+| 1177 | 54 | Mrs |
+| 1178 | 54 | rummy |
+| 1179 | 54 | Christina Wesley |
+| 1180 | 54 | Embracing Hair |
 | 1181 | 54 | Giggy Holder |
 | 1182 | 53 | Clever Wrecker |
-| 1183 | 53 | Sashaleo |
-| 1184 | 53 | Michael Lindenlauf |
-| 1185 | 53 | Kenneth Williams |
-| 1186 | 53 | don ralph |
-| 1187 | 52 | L-Kamice Boykin |
-| 1188 | 52 | Cathilia Rodriguez |
+| 1183 | 53 | don ralph |
+| 1184 | 53 | Kenneth Williams |
+| 1185 | 53 | Michael Lindenlauf |
+| 1186 | 53 | Sashaleo |
+| 1187 | 52 | Frilly Mover |
+| 1188 | 52 | L-Kamice Boykin |
 | 1189 | 52 | Loopy Risepiece |
-| 1190 | 52 | Frilly Mover |
-| 1191 | 52 | Cheery T-spin |
-| 1192 | 52 | Chummy Liner |
+| 1190 | 52 | Cheery T-spin |
+| 1191 | 52 | Chummy Liner |
+| 1192 | 52 | Cathilia Rodriguez |
 | 1193 | 51 | Austin Smith |
-| 1194 | 51 | Octavia Whitmire |
+| 1194 | 51 | Jakari Wool |
 | 1195 | 51 | SpeedyJas |
-| 1196 | 51 | Jakari Wool |
+| 1196 | 51 | Octavia Whitmire |
 | 1197 | 51 | Laura |
 | 1198 | 51 | Quirky Spinblock |
 | 1199 | 51 | Emeka Agu |
