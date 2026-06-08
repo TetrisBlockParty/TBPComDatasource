@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 16:12:20 UTC
+# Standings for team2 as of 2026-06-08 16:12:42 UTC
 
 **Total Participants:** 2206
 
@@ -240,10 +240,10 @@
 | 232 | 441 | AndyJo |
 | 233 | 440 | Amy Gregg |
 | 234 | 439 | giamy |
-| 235 | 437 | Lindsey Ford |
-| 236 | 435 | Nikki Hayes |
-| 237 | 435 | Tami Kay Williams Watson |
-| 238 | 434 | Joni Michelle Morgan |
+| 235 | 438 | Joni Michelle Morgan |
+| 236 | 437 | Lindsey Ford |
+| 237 | 435 | Nikki Hayes |
+| 238 | 435 | Tami Kay Williams Watson |
 | 239 | 434 | Katrien |
 | 240 | 434 | Janelle Edgecombe |
 | 241 | 429 | Nikki EightySixed |
