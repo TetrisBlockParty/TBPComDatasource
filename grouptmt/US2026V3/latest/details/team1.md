@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:40:20 UTC
+# Standings for team1 as of 2026-06-08 05:40:42 UTC
 
 **Total Participants:** 1730
 
@@ -775,72 +775,72 @@
 | 767 | 89 | Jazzy Bridger |
 | 768 | 88 | Maria Baez Medina |
 | 769 | 88 | Fatty May |
-| 770 | 88 | TBabii24 |
-| 771 | 87 | LexiiSamayaa |
-| 772 | 87 | Shakmar |
-| 773 | 87 | Samona Mcculler |
-| 774 | 87 | Angela L Charles |
-| 775 | 87 | Pj Rojas |
-| 776 | 87 | Natalie Burroughs |
-| 777 | 87 | Denise Cunningham-English |
-| 778 | 86 | krd |
-| 779 | 86 | brite |
-| 780 | 86 | Tweet Turner |
-| 781 | 86 | LaTonya Rivers |
-| 782 | 86 | RylonJones |
-| 783 | 86 | Saucy Faller |
-| 784 | 85 | Duncan Timothy |
-| 785 | 85 | Chill Linkroll |
+| 770 | 88 | NickyJay Jones |
+| 771 | 88 | TBabii24 |
+| 772 | 87 | LexiiSamayaa |
+| 773 | 87 | Shakmar |
+| 774 | 87 | Samona Mcculler |
+| 775 | 87 | Angela L Charles |
+| 776 | 87 | Pj Rojas |
+| 777 | 87 | Natalie Burroughs |
+| 778 | 87 | Denise Cunningham-English |
+| 779 | 86 | krd |
+| 780 | 86 | brite |
+| 781 | 86 | Tweet Turner |
+| 782 | 86 | LaTonya Rivers |
+| 783 | 86 | RylonJones |
+| 784 | 86 | Saucy Faller |
+| 785 | 85 | Heru Ogun Yeshua EL |
 | 786 | 85 | Kimberly Noble |
 | 787 | 85 | Bobby Chestefield |
-| 788 | 85 | Anthony Collins |
-| 789 | 85 | Clint Mcdowell |
-| 790 | 85 | Heru Ogun Yeshua EL |
-| 791 | 85 | Tray Tolliver |
-| 792 | 85 | Eric Machuca |
-| 793 | 84 | Franklin Sotelo |
-| 794 | 84 | Jumpy Gridlock |
-| 795 | 84 | Dawn Basemore |
-| 796 | 84 | Stanley Dixon |
-| 797 | 84 | Christy Quick |
-| 798 | 84 | Sunny Tumbler |
-| 799 | 84 | Shelly Everette |
-| 800 | 83 | Latoya Carson |
-| 801 | 83 | Heather Wilson |
+| 788 | 85 | Chill Linkroll |
+| 789 | 85 | Eric Machuca |
+| 790 | 85 | Duncan Timothy |
+| 791 | 85 | Clint Mcdowell |
+| 792 | 85 | Anthony Collins |
+| 793 | 85 | Tray Tolliver |
+| 794 | 84 | Stanley Dixon |
+| 795 | 84 | Shelly Everette |
+| 796 | 84 | Dawn Basemore |
+| 797 | 84 | Sunny Tumbler |
+| 798 | 84 | Jumpy Gridlock |
+| 799 | 84 | Christy Quick |
+| 800 | 84 | Franklin Sotelo |
+| 801 | 83 | Block |
 | 802 | 83 | Dirty Deeds |
-| 803 | 83 | MrsMeadows2019 |
-| 804 | 83 | Block |
+| 803 | 83 | Heather Wilson |
+| 804 | 83 | Latoya Carson |
 | 805 | 83 | John C Sexton |
-| 806 | 82 | Jasmine Hariston-Estis |
+| 806 | 83 | MrsMeadows2019 |
 | 807 | 82 | Casey Chapman |
-| 808 | 82 | DeAngelo Sorrells |
-| 809 | 82 | NickyJay Jones |
-| 810 | 82 | Kashh |
-| 811 | 82 | Dana Hawes |
-| 812 | 81 | Parris Wright |
-| 813 | 81 | GracefulOwl808 |
+| 808 | 82 | Dana Hawes |
+| 809 | 82 | DeAngelo Sorrells |
+| 810 | 82 | Jasmine Hariston-Estis |
+| 811 | 82 | Kashh |
+| 812 | 81 | GracefulOwl808 |
+| 813 | 81 | Parris Wright |
 | 814 | 80 | Victoria Smith |
-| 815 | 80 | Linzi Cole |
-| 816 | 80 | Lisa420 |
-| 817 | 80 | Tory Miller |
-| 818 | 80 | Lady Scorpio |
-| 819 | 80 | nay |
-| 820 | 80 | SherylU |
-| 821 | 80 | Charles Johnson |
-| 822 | 80 | Tiffany Jean Hinson |
-| 823 | 80 | Keith Big-Sixx Mackell |
-| 824 | 80 | Big Bovice |
-| 825 | 80 | Chevalier Burley |
-| 826 | 80 | Lauren Farkas |
-| 827 | 80 | Amaadi Ward |
-| 828 | 80 | Marcello Rush |
-| 829 | 80 | Felicia Woods |
-| 830 | 79 | Haakuu |
-| 831 | 79 | Shauntai Holiday |
-| 832 | 79 | Oaklonboy mike |
-| 833 | 79 | LAdYPOLy |
-| 834 | 79 | Erika |
-| 835 | 79 | Sabrina Wilkerson |
+| 815 | 80 | Tory Miller |
+| 816 | 80 | nay |
+| 817 | 80 | Linzi Cole |
+| 818 | 80 | SherylU |
+| 819 | 80 | Amaadi Ward |
+| 820 | 80 | Charles Johnson |
+| 821 | 80 | Tiffany Jean Hinson |
+| 822 | 80 | Keith Big-Sixx Mackell |
+| 823 | 80 | Chevalier Burley |
+| 824 | 80 | Lauren Farkas |
+| 825 | 80 | Marcello Rush |
+| 826 | 80 | Felicia Woods |
+| 827 | 80 | Big Bovice |
+| 828 | 80 | Lisa420 |
+| 829 | 80 | Lady Scorpio |
+| 830 | 79 | Oaklonboy mike |
+| 831 | 79 | LAdYPOLy |
+| 832 | 79 | Erika |
+| 833 | 79 | Sabrina Wilkerson |
+| 834 | 79 | Shauntai Holiday |
+| 835 | 79 | Haakuu |
 | 836 | 79 | Frilly Shatterline |
 | 837 | 79 | Evette Moreno |
 | 838 | 78 | Tasha Jones |
@@ -1072,82 +1072,82 @@
 | 1064 | 51 | SpeedyJas |
 | 1065 | 51 | Stacy Nicole |
 | 1066 | 51 | Jakari Wool |
-| 1067 | 50 | Snappy Strikerpiece |
-| 1068 | 50 | Mikemike Zonethree |
-| 1069 | 50 | Marissa Sweet |
-| 1070 | 50 | 1ofaking |
-| 1071 | 50 | Daring Linkfall |
-| 1072 | 50 | MsBobby Patrick |
-| 1073 | 50 | Breeze |
-| 1074 | 50 | Bold Spinblock |
-| 1075 | 50 | Douglas Jones |
-| 1076 | 50 | Skye |
-| 1077 | 50 | Ivan Israel |
-| 1078 | 50 | Desiree Ryder |
-| 1079 | 50 | rosieredpanda |
-| 1080 | 50 | Shawn Himes |
-| 1081 | 50 | Aero Builder |
-| 1082 | 50 | Denell Sims |
-| 1083 | 49 | Stacey Kesteloot |
-| 1084 | 49 | Mumitt |
-| 1085 | 49 | Daphne Ceasar |
+| 1067 | 50 | Denell Sims |
+| 1068 | 50 | Bold Spinblock |
+| 1069 | 50 | 1ofaking |
+| 1070 | 50 | Daring Linkfall |
+| 1071 | 50 | Mikemike Zonethree |
+| 1072 | 50 | Marissa Sweet |
+| 1073 | 50 | LaQuita White |
+| 1074 | 50 | MsBobby Patrick |
+| 1075 | 50 | Breeze |
+| 1076 | 50 | Douglas Jones |
+| 1077 | 50 | Snappy Strikerpiece |
+| 1078 | 50 | Skye |
+| 1079 | 50 | Ivan Israel |
+| 1080 | 50 | Desiree Ryder |
+| 1081 | 50 | rosieredpanda |
+| 1082 | 50 | Shawn Himes |
+| 1083 | 50 | Aero Builder |
+| 1084 | 49 | Lucy Range |
+| 1085 | 49 | Macho Lewis |
 | 1086 | 49 | Ķïrãã Ďãvïss |
-| 1087 | 49 | Macho Lewis |
-| 1088 | 49 | Lucy Range |
-| 1089 | 49 | Frothy Snapmatch |
-| 1090 | 49 | Kayd |
-| 1091 | 49 | Brika Brika |
-| 1092 | 49 | Tara Clarke |
-| 1093 | 49 | Melanie Houghton-McCann |
-| 1094 | 49 | Chummy Twisterfit |
-| 1095 | 48 | Bubbly Crawler |
+| 1087 | 49 | Daphne Ceasar |
+| 1088 | 49 | Brika Brika |
+| 1089 | 49 | Stacey Kesteloot |
+| 1090 | 49 | Frothy Snapmatch |
+| 1091 | 49 | Kayd |
+| 1092 | 49 | Mumitt |
+| 1093 | 49 | Tara Clarke |
+| 1094 | 49 | Melanie Houghton-McCann |
+| 1095 | 49 | Chummy Twisterfit |
 | 1096 | 48 | jaz |
-| 1097 | 48 | Michael Lindenlauf |
-| 1098 | 48 | Alivia Dove |
-| 1099 | 48 | LaPorscha Wright |
-| 1100 | 48 | Bubbly Base |
+| 1097 | 48 | Bubbly Crawler |
+| 1098 | 48 | Michael Lindenlauf |
+| 1099 | 48 | Alivia Dove |
+| 1100 | 48 | LaPorscha Wright |
 | 1101 | 48 | P C |
 | 1102 | 48 | LoveLee |
 | 1103 | 48 | Davina Valentino |
 | 1104 | 48 | Jessica Kirby |
-| 1105 | 47 | Nayyirah Hariyyan |
-| 1106 | 47 | Kevin Turner |
-| 1107 | 47 | Austin Smith |
-| 1108 | 47 | Pizzle |
-| 1109 | 47 | Hoppy Rumbler |
-| 1110 | 47 | William Vidra |
-| 1111 | 46 | Wu May |
-| 1112 | 46 | Stephanie Vinson |
+| 1105 | 48 | Bubbly Base |
+| 1106 | 47 | William Vidra |
+| 1107 | 47 | Kevin Turner |
+| 1108 | 47 | Hoppy Rumbler |
+| 1109 | 47 | Nayyirah Hariyyan |
+| 1110 | 47 | Austin Smith |
+| 1111 | 47 | Pizzle |
+| 1112 | 46 | Kimberly Red |
 | 1113 | 46 | TrapQween39Bi |
-| 1114 | 46 | Jenni |
-| 1115 | 46 | Kimberly Red |
-| 1116 | 46 | LOVE |
-| 1117 | 46 | LaQuita White |
-| 1118 | 46 | Crystal Winters Mckay |
-| 1119 | 46 | Tanisha Robinson |
-| 1120 | 46 | Juan Santiago |
-| 1121 | 46 | Elizabeth Green |
-| 1122 | 45 | PattyPower |
-| 1123 | 45 | Kenneth Williams |
-| 1124 | 45 | Lawreniesha Burkley |
-| 1125 | 45 | Cali Lee |
-| 1126 | 45 | Nicole |
-| 1127 | 45 | Heather Cross-Davis |
-| 1128 | 45 | midnightxtoker |
-| 1129 | 45 | Frothy Zoney |
-| 1130 | 45 | Mighty plantlady |
-| 1131 | 45 | Sarah Jones |
-| 1132 | 45 | Y3llOWFAC3 |
-| 1133 | 45 | Jasmine Bates |
-| 1134 | 45 | Matraca Young |
-| 1135 | 45 | Jason A Giantonio |
+| 1114 | 46 | Wu May |
+| 1115 | 46 | Stephanie Vinson |
+| 1116 | 46 | Jenni |
+| 1117 | 46 | LOVE |
+| 1118 | 46 | Elizabeth Green |
+| 1119 | 46 | Crystal Winters Mckay |
+| 1120 | 46 | Tanisha Robinson |
+| 1121 | 46 | Juan Santiago |
+| 1122 | 45 | Jasmine Bates |
+| 1123 | 45 | midnightxtoker |
+| 1124 | 45 | Heather Cross-Davis |
+| 1125 | 45 | Nicole |
+| 1126 | 45 | Cali Lee |
+| 1127 | 45 | Lawreniesha Burkley |
+| 1128 | 45 | Kenneth Williams |
+| 1129 | 45 | PattyPower |
+| 1130 | 45 | Beautiful314 |
+| 1131 | 45 | Jackie Sanasay |
+| 1132 | 45 | Ayanna James |
+| 1133 | 45 | Antoinette Kidd |
+| 1134 | 45 | Frothy Zoney |
+| 1135 | 45 | Mighty plantlady |
 | 1136 | 45 | Chinkey Overit |
-| 1137 | 45 | Antoinette Kidd |
-| 1138 | 45 | Ayanna James |
-| 1139 | 45 | Jackie Sanasay |
-| 1140 | 45 | Beautiful314 |
-| 1141 | 44 | Mark Steven Pichler |
-| 1142 | 44 | Connor Leon Cluff |
+| 1137 | 45 | Sarah Jones |
+| 1138 | 45 | Matraca Young |
+| 1139 | 45 | Y3llOWFAC3 |
+| 1140 | 45 | Jason A Giantonio |
+| 1141 | 44 | Connor Leon Cluff |
+| 1142 | 44 | Mark Steven Pichler |
 | 1143 | 44 | Willson06 |
 | 1144 | 44 | Ayeisha W |
 | 1145 | 44 | Dee Dee |
