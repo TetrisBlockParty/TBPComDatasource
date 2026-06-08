@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 05:32:44 UTC
+# Standings for team4 as of 2026-06-08 05:33:19 UTC
 
 **Total Participants:** 1766
 
@@ -22,8 +22,8 @@
 | 14 | 5041 | Squirrel Donkey |
 | 15 | 4939 | Bryony Nicholson |
 | 16 | 4772 | Anna Moses |
-| 17 | 4738 | t |
-| 18 | 4738 | Bubbly Twistpiece |
+| 17 | 4743 | Bubbly Twistpiece |
+| 18 | 4738 | t |
 | 19 | 4600 | Chris Hills |
 | 20 | 4579 | Nia Mayfield |
 | 21 | 4054 | Witty Clicky |
@@ -158,8 +158,8 @@
 | 150 | 461 | Kayla Fuentes |
 | 151 | 452 | Kaash Brxtt |
 | 152 | 446 | Laguya |
-| 153 | 443 | Crissy Hoffman |
-| 154 | 443 | Joyce Myers |
+| 153 | 443 | Joyce Myers |
+| 154 | 443 | Crissy Hoffman |
 | 155 | 438 | Real Talk Vibes |
 | 156 | 437 | Danielle Mitchell |
 | 157 | 435 | BusterBear56 |
@@ -174,11 +174,11 @@
 | 166 | 417 | Dandy Puzzler |
 | 167 | 415 | Shiny Dashy |
 | 168 | 409 | Hen |
-| 169 | 405 | Iforget |
-| 170 | 405 | HurkleDurkle88 |
+| 169 | 405 | HurkleDurkle88 |
+| 170 | 405 | Iforget |
 | 171 | 400 | Amber Doyle |
-| 172 | 395 | Julian Gasque |
-| 173 | 395 | Bobbie Harrell |
+| 172 | 395 | Bobbie Harrell |
+| 173 | 395 | Julian Gasque |
 | 174 | 389 | blockhead |
 | 175 | 387 | Taz |
 | 176 | 384 | Piece of Cake |
@@ -187,27 +187,27 @@
 | 179 | 380 | CIRAZYPNOY |
 | 180 | 379 | Devinlee Brown |
 | 181 | 378 | Hwanger Land |
-| 182 | 376 | Scamp Jones |
-| 183 | 376 | Tammy June |
+| 182 | 376 | Tammy June |
+| 183 | 376 | Scamp Jones |
 | 184 | 375 | Sisi RedVelvet Reneè |
 | 185 | 373 | Tanita Jobe |
 | 186 | 371 | shawna |
 | 187 | 370 | Christy Beezley-Forbush |
 | 188 | 368 | Lush Fitblock |
-| 189 | 366 | Randy M Hatch |
-| 190 | 366 | Baysoph |
+| 189 | 366 | Baysoph |
+| 190 | 366 | Randy M Hatch |
 | 191 | 363 | Aramat |
 | 192 | 360 | Shocinda Sherwood |
-| 193 | 359 | BCO22 |
-| 194 | 359 | Chiquita Blue |
-| 195 | 357 | Katie Martin |
-| 196 | 357 | MomyLiz |
+| 193 | 359 | Chiquita Blue |
+| 194 | 359 | BCO22 |
+| 195 | 357 | MomyLiz |
+| 196 | 357 | Katie Martin |
 | 197 | 355 | RotatedWrongAgain |
 | 198 | 351 | QueenLi86 |
 | 199 | 346 | Alexis Cor |
 | 200 | 340 | Jojo Ann |
-| 201 | 336 | Samantha Worley |
-| 202 | 336 | Plucky Shatterfit |
+| 201 | 336 | Plucky Shatterfit |
+| 202 | 336 | Samantha Worley |
 | 203 | 334 | Dazzle Dragon |
 | 204 | 330 | LastBoi |
 | 205 | 330 | Fran Aaron-Ring |
@@ -236,23 +236,23 @@
 | 228 | 298 | Jackie Polanco |
 | 229 | 298 | Colin |
 | 230 | 296 | beauxie |
-| 231 | 296 | PerfectPieces |
-| 232 | 296 | Dae Von |
+| 231 | 296 | Dae Von |
+| 232 | 296 | PerfectPieces |
 | 233 | 290 | Tawna Curry |
 | 234 | 289 | Shepreneur Sade |
 | 235 | 287 | Cheery Risegrid |
-| 236 | 286 | Dubiousdust |
-| 237 | 286 | Erika Seaton |
-| 238 | 286 | Pepper |
+| 236 | 286 | Erika Seaton |
+| 237 | 286 | Pepper |
+| 238 | 286 | Dubiousdust |
 | 239 | 285 | Dana Abegil Lawas |
 | 240 | 283 | Tiggerjake |
 | 241 | 283 | Logan Two-dubs Baker |
 | 242 | 282 | Shanna Fragen |
 | 243 | 282 | Goofy Fall |
-| 244 | 281 | Margie Thomas |
-| 245 | 281 | Capone |
-| 246 | 281 | Ash Gribble |
-| 247 | 281 | Waxboss |
+| 244 | 281 | Ash Gribble |
+| 245 | 281 | Waxboss |
+| 246 | 281 | Margie Thomas |
+| 247 | 281 | Capone |
 | 248 | 279 | Snippy Splitter |
 | 249 | 279 | Solace Grace |
 | 250 | 278 | Tamara Triplet |
@@ -267,21 +267,21 @@
 | 259 | 267 | Chirpy Link |
 | 260 | 266 | George Palacios |
 | 261 | 266 | tigerlilly |
-| 262 | 261 | Brooke Arroyo |
-| 263 | 261 | Renee Sapp |
-| 264 | 261 | Jeremy |
-| 265 | 260 | Wanda Simmons |
+| 262 | 261 | Renee Sapp |
+| 263 | 261 | Jeremy |
+| 264 | 261 | Brooke Arroyo |
+| 265 | 260 | Troy Zanelli |
 | 266 | 260 | Silly Risegrid |
-| 267 | 260 | Troy Zanelli |
-| 268 | 259 | Jessica Peyton |
-| 269 | 259 | Sandra Stark |
+| 267 | 260 | Wanda Simmons |
+| 268 | 259 | Sandra Stark |
+| 269 | 259 | Jessica Peyton |
 | 270 | 257 | Patrick Alley |
-| 271 | 256 | Jackie Miller |
-| 272 | 256 | Tyson Stroppel |
+| 271 | 256 | Tyson Stroppel |
+| 272 | 256 | Jackie Miller |
 | 273 | 255 | Britney Kitora |
-| 274 | 251 | Jenn Norcross |
+| 274 | 251 | Jj Johnson |
 | 275 | 251 | EL Booger |
-| 276 | 251 | Jj Johnson |
+| 276 | 251 | Jenn Norcross |
 | 277 | 249 | Tipsy Builderline |
 | 278 | 248 | Becky McCool |
 | 279 | 247 | Bridget Stevens |
