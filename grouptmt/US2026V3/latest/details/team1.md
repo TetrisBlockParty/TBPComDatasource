@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:10:43 UTC
+# Standings for team1 as of 2026-06-08 18:11:21 UTC
 
 **Total Participants:** 1844
 
@@ -582,14 +582,14 @@
 | 574 | 150 | Antoinette Jones |
 | 575 | 150 | Kanary Karotz |
 | 576 | 150 | Mommy Frank |
-| 577 | 149 | Betsy B. Yohan |
-| 578 | 149 | Casey Chapman |
-| 579 | 149 | Twisty Brickfit |
-| 580 | 149 | Crystal Boyd |
-| 581 | 149 | Kristie |
-| 582 | 148 | Shannon Carriger |
-| 583 | 148 | Cauiasia DeJ'ae |
-| 584 | 148 | Ad Doctor |
+| 577 | 149 | Ad Doctor |
+| 578 | 149 | Betsy B. Yohan |
+| 579 | 149 | Casey Chapman |
+| 580 | 149 | Twisty Brickfit |
+| 581 | 149 | Crystal Boyd |
+| 582 | 149 | Kristie |
+| 583 | 148 | Shannon Carriger |
+| 584 | 148 | Cauiasia DeJ'ae |
 | 585 | 148 | Faith Armone |
 | 586 | 148 | Rhianna Dinki Austin |
 | 587 | 148 | Rufus |
@@ -1651,44 +1651,44 @@
 | 1643 | 15 | Hasty Match |
 | 1644 | 15 | Andrea DeRoy |
 | 1645 | 15 | UnionBoss |
-| 1646 | 15 | QDeezy1906 |
-| 1647 | 15 | Tami Spence |
+| 1646 | 15 | Tami Spence |
+| 1647 | 15 | QDeezy1906 |
 | 1648 | 15 | Kris Gray |
-| 1649 | 14 | Nerdy Curvetile |
-| 1650 | 14 | Alonzo Kirkland |
-| 1651 | 14 | Queen Q. Green |
-| 1652 | 14 | Jennifer Levan |
-| 1653 | 14 | Carmen Claudio |
-| 1654 | 14 | Jazzy |
-| 1655 | 14 | Jerrone Epps |
-| 1656 | 14 | Brandon Knox |
-| 1657 | 14 | Zany Pivot |
-| 1658 | 14 | Barbiebunz |
-| 1659 | 14 | Stephanie Zuniga Tullock |
-| 1660 | 14 | Geno Bankroll McGill |
-| 1661 | 14 | Danielle Mariyh Toomer |
-| 1662 | 14 | Fancy Mover |
-| 1663 | 14 | Dymond |
-| 1664 | 13 | Schuyler Carson Jackson |
+| 1649 | 14 | Christopher Allan Petty II |
+| 1650 | 14 | Nerdy Curvetile |
+| 1651 | 14 | Alonzo Kirkland |
+| 1652 | 14 | Queen Q. Green |
+| 1653 | 14 | Jennifer Levan |
+| 1654 | 14 | Carmen Claudio |
+| 1655 | 14 | Jazzy |
+| 1656 | 14 | Jerrone Epps |
+| 1657 | 14 | Dymond |
+| 1658 | 14 | Brandon Knox |
+| 1659 | 14 | Zany Pivot |
+| 1660 | 14 | Barbiebunz |
+| 1661 | 14 | Stephanie Zuniga Tullock |
+| 1662 | 14 | Geno Bankroll McGill |
+| 1663 | 14 | Danielle Mariyh Toomer |
+| 1664 | 14 | Fancy Mover |
 | 1665 | 13 | Emma Adams |
 | 1666 | 13 | Zesty Clearer |
 | 1667 | 13 | Spadez1231 |
 | 1668 | 13 | Hasty Shatterbuilder |
 | 1669 | 13 | random |
-| 1670 | 13 | Deanna Pinkard Harrington |
-| 1671 | 13 | Leah Ingram |
-| 1672 | 13 | Kennita Leach Woodard |
-| 1673 | 13 | Tasha Stuckey |
-| 1674 | 13 | Ashley Horne |
-| 1675 | 12 | SM |
-| 1676 | 12 | highland cow lover |
-| 1677 | 12 | taz62 |
-| 1678 | 12 | Christopher Allan Petty II |
-| 1679 | 12 | Tiffany Ali Shaw |
-| 1680 | 12 | BigDawg Lessley |
-| 1681 | 12 | Lavance Sams |
-| 1682 | 12 | Plucky Twist |
-| 1683 | 12 | Outspoken Sirchristopher |
+| 1670 | 13 | Leah Ingram |
+| 1671 | 13 | Deanna Pinkard Harrington |
+| 1672 | 13 | Schuyler Carson Jackson |
+| 1673 | 13 | Kennita Leach Woodard |
+| 1674 | 13 | Tasha Stuckey |
+| 1675 | 13 | Ashley Horne |
+| 1676 | 12 | SM |
+| 1677 | 12 | highland cow lover |
+| 1678 | 12 | Outspoken Sirchristopher |
+| 1679 | 12 | taz62 |
+| 1680 | 12 | Tiffany Ali Shaw |
+| 1681 | 12 | BigDawg Lessley |
+| 1682 | 12 | Lavance Sams |
+| 1683 | 12 | Plucky Twist |
 | 1684 | 12 | Peachy Stacker |
 | 1685 | 12 | Penny Gayles |
 | 1686 | 12 | Shelly Marie |
