@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:56:20 UTC
+# Standings for team1 as of 2026-06-08 18:56:43 UTC
 
 **Total Participants:** 1847
 
@@ -64,7 +64,7 @@
 | 56 | 1482 | Shortstak |
 | 57 | 1461 | Janet Cooke |
 | 58 | 1459 | Corey Cawthon |
-| 59 | 1361 | Therealdywoune Peay |
+| 59 | 1441 | Therealdywoune Peay |
 | 60 | 1359 | Uneekly Mayde |
 | 61 | 1318 | Blockhead |
 | 62 | 1313 | Ashley Espeut |
@@ -546,8 +546,8 @@
 | 538 | 161 | kick it |
 | 539 | 161 | Devron Reedy |
 | 540 | 160 | Slinky Clearzone |
-| 541 | 160 | Carolyn Smith |
-| 542 | 160 | Cheeky Twistpiece |
+| 541 | 160 | Cheeky Twistpiece |
+| 542 | 160 | Carolyn Smith |
 | 543 | 160 | Malcolm Stanley |
 | 544 | 160 | Spotlight |
 | 545 | 159 | Loopy Tiler |
@@ -560,76 +560,76 @@
 | 552 | 158 | Daring Riserfit |
 | 553 | 158 | QueenShay AllGood |
 | 554 | 157 | Lilly Brown |
-| 555 | 156 | Chris Holland |
-| 556 | 156 | Sara |
-| 557 | 156 | Montego Allen |
-| 558 | 156 | Shalya Terry |
-| 559 | 156 | Karen Denen |
-| 560 | 156 | Lakiesha Crawford |
-| 561 | 156 | Ryan Runyan |
+| 555 | 157 | Kelley Johnson |
+| 556 | 156 | Karen Denen |
+| 557 | 156 | Shalya Terry |
+| 558 | 156 | Montego Allen |
+| 559 | 156 | Sara |
+| 560 | 156 | Chris Holland |
+| 561 | 156 | Lakiesha Crawford |
 | 562 | 156 | Melissa Hershberger |
-| 563 | 155 | nameno |
+| 563 | 156 | Ryan Runyan |
 | 564 | 155 | MzJuice Box |
-| 565 | 155 | Kala Miller |
-| 566 | 154 | Glitzy Clusterer |
+| 565 | 155 | nameno |
+| 566 | 155 | Kala Miller |
 | 567 | 154 | Logan Frost |
-| 568 | 154 | Rebecca Jackson |
+| 568 | 154 | Lynn |
 | 569 | 154 | Kp |
-| 570 | 154 | Lynn |
-| 571 | 153 | Holly Baker |
-| 572 | 152 | Nyhlah Patterson |
-| 573 | 152 | Wacky Stackbuilder |
-| 574 | 151 | Yashica Smith |
+| 570 | 154 | Rebecca Jackson |
+| 571 | 154 | Glitzy Clusterer |
+| 572 | 153 | Holly Baker |
+| 573 | 152 | Nyhlah Patterson |
+| 574 | 152 | Wacky Stackbuilder |
 | 575 | 151 | Sarah Steckbauer |
 | 576 | 151 | Lucy |
-| 577 | 151 | Casey Chapman |
-| 578 | 150 | TotoCherue |
-| 579 | 150 | Marshall Davis |
-| 580 | 150 | Kanary Karotz |
-| 581 | 150 | Mommy Frank |
-| 582 | 150 | Antoinette Jones |
-| 583 | 150 | Giddy Staggerpiece |
-| 584 | 150 | Cheri Robinson |
-| 585 | 150 | Ad Doctor |
-| 586 | 150 | Taneka Howell |
-| 587 | 149 | Betsy B. Yohan |
+| 577 | 151 | Yashica Smith |
+| 578 | 151 | Casey Chapman |
+| 579 | 150 | TotoCherue |
+| 580 | 150 | Taneka Howell |
+| 581 | 150 | Ad Doctor |
+| 582 | 150 | Kanary Karotz |
+| 583 | 150 | Marshall Davis |
+| 584 | 150 | Mommy Frank |
+| 585 | 150 | Giddy Staggerpiece |
+| 586 | 150 | Antoinette Jones |
+| 587 | 150 | Cheri Robinson |
 | 588 | 149 | Snappy Link |
-| 589 | 149 | Kristie |
-| 590 | 149 | Twisty Brickfit |
-| 591 | 148 | Faith Armone |
-| 592 | 148 | Shannon Carriger |
+| 589 | 149 | Twisty Brickfit |
+| 590 | 149 | Kristie |
+| 591 | 149 | Betsy B. Yohan |
+| 592 | 148 | P C |
 | 593 | 148 | Cauiasia DeJ'ae |
-| 594 | 148 | P C |
+| 594 | 148 | Shannon Carriger |
 | 595 | 148 | Rhianna Dinki Austin |
-| 596 | 147 | Pj Rojas |
-| 597 | 147 | Angela Brown Babin |
+| 596 | 148 | Faith Armone |
+| 597 | 147 | Pj Rojas |
 | 598 | 147 | Mathew Trudell |
-| 599 | 146 | Bella |
-| 600 | 146 | TRUBBLE45 |
-| 601 | 146 | whatever |
-| 602 | 146 | FunTime |
-| 603 | 146 | Giggly Tiltbuilder |
-| 604 | 145 | Kelley Johnson |
+| 599 | 147 | Angela Brown Babin |
+| 600 | 146 | whatever |
+| 601 | 146 | TRUBBLE45 |
+| 602 | 146 | Bella |
+| 603 | 146 | FunTime |
+| 604 | 146 | Giggly Tiltbuilder |
 | 605 | 145 | Squaw Ki Ng |
 | 606 | 145 | lizlizliz |
-| 607 | 144 | Kiki |
-| 608 | 144 | Cm |
-| 609 | 143 | Marlynnnnn |
+| 607 | 144 | Cm |
+| 608 | 144 | Kiki |
+| 609 | 143 | Shanell Thomas |
 | 610 | 143 | Andy Rivera |
-| 611 | 143 | Shanell Thomas |
+| 611 | 143 | Marlynnnnn |
 | 612 | 142 | Semaj Johnson |
 | 613 | 142 | Mary Goode |
-| 614 | 141 | Ashley Monet Terrell |
-| 615 | 141 | Krystal Maynard |
-| 616 | 141 | Shalena Marie Humphrey |
+| 614 | 141 | Krystal Maynard |
+| 615 | 141 | Shalena Marie Humphrey |
+| 616 | 141 | Ashley Monet Terrell |
 | 617 | 141 | Kim Holzmiller |
 | 618 | 140 | Chirpy Buildgrid |
-| 619 | 140 | Shadon McMillan |
-| 620 | 140 | TBabii24 |
-| 621 | 140 | Eric Machuca |
+| 619 | 140 | Eric Machuca |
+| 620 | 140 | SherylU |
+| 621 | 140 | TBabii24 |
 | 622 | 140 | Kennedi Brazziel |
-| 623 | 140 | SherylU |
-| 624 | 140 | Amihan |
+| 623 | 140 | Amihan |
+| 624 | 140 | Shadon McMillan |
 | 625 | 139 | Rochelle Nash-Evans |
 | 626 | 139 | Zany Breaker |
 | 627 | 139 | PSD |

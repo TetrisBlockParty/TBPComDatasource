@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 18:56:20 UTC
+# Standings for team4 as of 2026-06-08 18:56:43 UTC
 
 **Total Participants:** 1896
 
@@ -238,8 +238,8 @@
 | 230 | 367 | Brick House |
 | 231 | 366 | Randy M Hatch |
 | 232 | 366 | Alexis Cor |
-| 233 | 365 | Jackie Miller |
-| 234 | 365 | Debby Ruof |
+| 233 | 365 | Debby Ruof |
+| 234 | 365 | Jackie Miller |
 | 235 | 364 | Snippy Splitter |
 | 236 | 363 | Aramat |
 | 237 | 362 | Dazzle Dragon |
@@ -251,8 +251,8 @@
 | 243 | 357 | MomyLiz |
 | 244 | 356 | jaz |
 | 245 | 355 | RotatedWrongAgain |
-| 246 | 355 | Colin |
-| 247 | 354 | Kelly Howland |
+| 246 | 355 | Kelly Howland |
+| 247 | 355 | Colin |
 | 248 | 350 | Alex Armour |
 | 249 | 349 | Dana Abegil Lawas |
 | 250 | 344 | Anthony Lewis |
@@ -771,20 +771,20 @@
 | 763 | 110 | Breezy Brickline |
 | 764 | 110 | Clever Brickzone |
 | 765 | 110 | Ern |
-| 766 | 109 | Frisky Blocker |
-| 767 | 109 | Tiffany Roberts |
-| 768 | 109 | Breezy Blockzone |
-| 769 | 108 | sierrabeth |
-| 770 | 108 | Miranda Brown |
-| 771 | 108 | Suzi Smas |
-| 772 | 108 | Cozy Patternline |
-| 773 | 107 | Jeni |
-| 774 | 107 | Kimberly Lusk |
-| 775 | 107 | GingaNinja |
-| 776 | 107 | ManOfSteel |
-| 777 | 106 | Helen Bradley |
-| 778 | 106 | Charlene Nicole Guidry |
-| 779 | 106 | Speedy Twistslam |
+| 766 | 109 | Speedy Twistslam |
+| 767 | 109 | Frisky Blocker |
+| 768 | 109 | Tiffany Roberts |
+| 769 | 109 | Breezy Blockzone |
+| 770 | 108 | sierrabeth |
+| 771 | 108 | Miranda Brown |
+| 772 | 108 | Suzi Smas |
+| 773 | 108 | Cozy Patternline |
+| 774 | 107 | Jeni |
+| 775 | 107 | Kimberly Lusk |
+| 776 | 107 | GingaNinja |
+| 777 | 107 | ManOfSteel |
+| 778 | 106 | Helen Bradley |
+| 779 | 106 | Charlene Nicole Guidry |
 | 780 | 105 | Renita Jordan |
 | 781 | 105 | Mar Mar |
 | 782 | 105 | Debby Muniz |
@@ -830,21 +830,21 @@
 | 822 | 99 | Tamika Ashli Bonner |
 | 823 | 99 | Kendall Rhodie |
 | 824 | 99 | Darren Miguel |
-| 825 | 99 | Ricardo Arias |
-| 826 | 98 | Kena T. Tanner |
-| 827 | 98 | Daring Towerer |
-| 828 | 98 | Giggy Blockpiece |
-| 829 | 98 | Cozy Towerpiece |
-| 830 | 98 | Hilarie Detweiler |
-| 831 | 98 | Leslie Ramos |
-| 832 | 98 | katy |
-| 833 | 97 | Skylar Durk |
-| 834 | 97 | idk240 |
-| 835 | 97 | Limbo |
-| 836 | 97 | Blessedmom865 |
-| 837 | 96 | Perky Balanceblock |
-| 838 | 96 | Tiffany Taylor |
-| 839 | 96 | Nikcole Alexis Bryan |
+| 825 | 99 | Nikcole Alexis Bryan |
+| 826 | 99 | Ricardo Arias |
+| 827 | 98 | Kena T. Tanner |
+| 828 | 98 | Daring Towerer |
+| 829 | 98 | Giggy Blockpiece |
+| 830 | 98 | Cozy Towerpiece |
+| 831 | 98 | Hilarie Detweiler |
+| 832 | 98 | Leslie Ramos |
+| 833 | 98 | katy |
+| 834 | 97 | Skylar Durk |
+| 835 | 97 | idk240 |
+| 836 | 97 | Limbo |
+| 837 | 97 | Blessedmom865 |
+| 838 | 96 | Perky Balanceblock |
+| 839 | 96 | Tiffany Taylor |
 | 840 | 96 | Scalpel Causes Shambles |
 | 841 | 96 | Smiley Wipeblock |
 | 842 | 96 | Bear Bair |
