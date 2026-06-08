@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:23:20 UTC
+# Standings for team2 as of 2026-06-08 08:24:42 UTC
 
 **Total Participants:** 2134
 
@@ -91,7 +91,7 @@
 | 83 | 1276 | Jenny Graham |
 | 84 | 1271 | Eileen Egan |
 | 85 | 1222 | Gabriella Humphreys |
-| 86 | 1197 | Mikki Torres |
+| 86 | 1217 | Mikki Torres |
 | 87 | 1194 | Epic Frame |
 | 88 | 1182 | Jayke Edward |
 | 89 | 1181 | Giddy Slamdrop |
@@ -262,9 +262,9 @@
 | 254 | 354 | Sabrina Hardrick |
 | 255 | 351 | Cathy Lee Stoneking |
 | 256 | 349 | Spicy Basepiece |
-| 257 | 347 | Jessica Lynn |
+| 257 | 348 | Charles E Mccardell |
 | 258 | 347 | Fudgie Pie |
-| 259 | 346 | Charles E Mccardell |
+| 259 | 347 | Jessica Lynn |
 | 260 | 344 | Lora Via |
 | 261 | 340 | Marge Cromer |
 | 262 | 340 | Mellzey |
@@ -319,14 +319,14 @@
 | 311 | 284 | Kelly Vedder |
 | 312 | 283 | Hilliary Beyer |
 | 313 | 283 | Buffy Diane Blake |
-| 314 | 281 | AndrewandShela Gornik |
-| 315 | 280 | Tami Kay Williams Watson |
-| 316 | 280 | Loopy Dropper |
-| 317 | 280 | August Christy Lathrop |
-| 318 | 279 | Curly Windbreaker |
-| 319 | 278 | Amy Nicole McCanne |
-| 320 | 276 | Jenny |
-| 321 | 273 | Jerry L Morales |
+| 314 | 283 | Jerry L Morales |
+| 315 | 281 | AndrewandShela Gornik |
+| 316 | 280 | Tami Kay Williams Watson |
+| 317 | 280 | Loopy Dropper |
+| 318 | 280 | August Christy Lathrop |
+| 319 | 279 | Curly Windbreaker |
+| 320 | 278 | Amy Nicole McCanne |
+| 321 | 276 | Jenny |
 | 322 | 272 | SEH |
 | 323 | 270 | Sharon L Brazelton |
 | 324 | 269 | Carolyn McNaughton |
@@ -1848,8 +1848,8 @@
 | 1840 | 18 | Steven Desmon Thompson |
 | 1841 | 18 | Araiiya |
 | 1842 | 18 | Glitzy Linkfall |
-| 1843 | 18 | Mack Rayray |
-| 1844 | 18 | Dizzy Glidezone |
+| 1843 | 18 | Dizzy Glidezone |
+| 1844 | 18 | Mack Rayray |
 | 1845 | 18 | Crafty Dashgrid |
 | 1846 | 18 | Cathy Cobb |
 | 1847 | 18 | Peachy Piecebuilder |
@@ -1880,71 +1880,71 @@
 | 1872 | 17 | Sassy Snapfall |
 | 1873 | 17 | Stephanie Montgomery |
 | 1874 | 17 | Starr Collins |
-| 1875 | 17 | Stacy Hoffman |
-| 1876 | 17 | Cj Ross |
-| 1877 | 17 | Jacob nitro |
-| 1878 | 17 | Groovy Curver |
-| 1879 | 17 | grey panther |
-| 1880 | 17 | Shaun Talbot |
-| 1881 | 16 | Anarcho |
-| 1882 | 16 | Patty White |
-| 1883 | 16 | Spicy Towerbuilder |
-| 1884 | 16 | Crystal Marie Castillo |
-| 1885 | 16 | Kimberly Rochon |
-| 1886 | 16 | Diane Pinkston Massey |
-| 1887 | 16 | Jeremy Monceaux |
-| 1888 | 16 | Ashley Gracelynn Tiner |
-| 1889 | 16 | Elliot |
-| 1890 | 16 | JesseJo |
-| 1891 | 16 | Sarah Elizabeth Foret |
-| 1892 | 16 | Eugene Brown |
-| 1893 | 16 | Tonya Reed |
-| 1894 | 15 | Samantha |
-| 1895 | 15 | Poppy Slice |
-| 1896 | 15 | Jazzy Curver |
-| 1897 | 15 | Tetris |
-| 1898 | 15 | Jacqueline Leigh Zuzinec |
-| 1899 | 15 | Julie Vargas |
-| 1900 | 15 | Lisa Marie |
-| 1901 | 15 | Twisty Patternblock |
-| 1902 | 15 | Donna Casey |
-| 1903 | 15 | Chris Weddel |
-| 1904 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1905 | 15 | Christine Ann Eras |
-| 1906 | 15 | Nana |
-| 1907 | 15 | Tipsy Matchgrid |
-| 1908 | 15 | Fancy Matcher |
-| 1909 | 15 | Happy Roll |
-| 1910 | 15 | Rhonda McManus - Kimbrough |
-| 1911 | 15 | Amlisi |
-| 1912 | 15 | featherz |
-| 1913 | 15 | Brave Fill |
-| 1914 | 15 | Treau Torres |
-| 1915 | 15 | AlDan |
-| 1916 | 15 | Wynde Wood |
-| 1917 | 15 | Helen Chao |
-| 1918 | 15 | Shawn Moore |
-| 1919 | 15 | SabinawNorman Adams |
+| 1875 | 17 | Twisty Tower |
+| 1876 | 17 | Stacy Hoffman |
+| 1877 | 17 | Cj Ross |
+| 1878 | 17 | Shaun Talbot |
+| 1879 | 17 | Jacob nitro |
+| 1880 | 17 | grey panther |
+| 1881 | 17 | Groovy Curver |
+| 1882 | 16 | Anarcho |
+| 1883 | 16 | Diane Pinkston Massey |
+| 1884 | 16 | Patty White |
+| 1885 | 16 | Spicy Towerbuilder |
+| 1886 | 16 | Kimberly Rochon |
+| 1887 | 16 | Crystal Marie Castillo |
+| 1888 | 16 | Jeremy Monceaux |
+| 1889 | 16 | Ashley Gracelynn Tiner |
+| 1890 | 16 | Elliot |
+| 1891 | 16 | JesseJo |
+| 1892 | 16 | Sarah Elizabeth Foret |
+| 1893 | 16 | Eugene Brown |
+| 1894 | 16 | Tonya Reed |
+| 1895 | 15 | Samantha |
+| 1896 | 15 | Poppy Slice |
+| 1897 | 15 | Jazzy Curver |
+| 1898 | 15 | Tetris |
+| 1899 | 15 | Jacqueline Leigh Zuzinec |
+| 1900 | 15 | Julie Vargas |
+| 1901 | 15 | Lisa Marie |
+| 1902 | 15 | Twisty Patternblock |
+| 1903 | 15 | Donna Casey |
+| 1904 | 15 | Chris Weddel |
+| 1905 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1906 | 15 | Christine Ann Eras |
+| 1907 | 15 | Nana |
+| 1908 | 15 | Tipsy Matchgrid |
+| 1909 | 15 | Fancy Matcher |
+| 1910 | 15 | Brave Fill |
+| 1911 | 15 | Happy Roll |
+| 1912 | 15 | Rhonda McManus - Kimbrough |
+| 1913 | 15 | featherz |
+| 1914 | 15 | Amlisi |
+| 1915 | 15 | Treau Torres |
+| 1916 | 15 | AlDan |
+| 1917 | 15 | Wynde Wood |
+| 1918 | 15 | Helen Chao |
+| 1919 | 15 | Shawn Moore |
 | 1920 | 15 | Neeley Travis |
-| 1921 | 15 | Andrea Lauren Smith |
-| 1922 | 15 | Elora |
-| 1923 | 15 | Haneef Akram |
-| 1924 | 15 | Aaron Henry |
-| 1925 | 14 | G Yolany Andramos |
+| 1921 | 15 | SabinawNorman Adams |
+| 1922 | 15 | Andrea Lauren Smith |
+| 1923 | 15 | Elora |
+| 1924 | 15 | Haneef Akram |
+| 1925 | 15 | Aaron Henry |
 | 1926 | 14 | Raymond Sadler |
-| 1927 | 14 | Susan R. Hammons Cunningham |
-| 1928 | 14 | zee |
-| 1929 | 14 | Twisty Glider |
-| 1930 | 14 | Crafty Liner |
-| 1931 | 14 | Angela-Josh Millan |
-| 1932 | 14 | Crystal Swigart |
-| 1933 | 14 | Marshall Payne |
+| 1927 | 14 | zee |
+| 1928 | 14 | Twisty Glider |
+| 1929 | 14 | Crafty Liner |
+| 1930 | 14 | Angela-Josh Millan |
+| 1931 | 14 | G Yolany Andramos |
+| 1932 | 14 | Marshall Payne |
+| 1933 | 14 | Phill Bramande |
 | 1934 | 14 | Cole Posey |
-| 1935 | 14 | Phill Bramande |
-| 1936 | 14 | Randy Taylor |
+| 1935 | 14 | Randy Taylor |
+| 1936 | 14 | Crystal Swigart |
 | 1937 | 14 | Manuel Lucero Jr. |
-| 1938 | 14 | Twisty Tower |
-| 1939 | 14 | Jollygirl |
+| 1938 | 14 | Jollygirl |
+| 1939 | 14 | Susan R. Hammons Cunningham |
 | 1940 | 14 | Charles Mercer |
 | 1941 | 14 | Imat Yesmar |
 | 1942 | 14 | Patricia Meza |
@@ -1974,19 +1974,19 @@
 | 1966 | 13 | Sunnylynn Hodge |
 | 1967 | 13 | Cool Cornerfall |
 | 1968 | 13 | Judy Bailey |
-| 1969 | 13 | Patience Thompson |
-| 1970 | 13 | Brooke Burge |
-| 1971 | 13 | Nickishan Richrds |
-| 1972 | 13 | Raven Hull |
-| 1973 | 13 | Nayapooh |
-| 1974 | 12 | Nikki Blilie |
-| 1975 | 12 | Mariah Wells |
-| 1976 | 12 | Kathy Arnold |
-| 1977 | 12 | Bsancia |
-| 1978 | 12 | Kjsranch |
-| 1979 | 12 | Chipper Gridroll |
+| 1969 | 13 | Raven Hull |
+| 1970 | 13 | Nayapooh |
+| 1971 | 13 | Patience Thompson |
+| 1972 | 13 | Brooke Burge |
+| 1973 | 13 | Nickishan Richrds |
+| 1974 | 12 | Lyndon Schaak |
+| 1975 | 12 | Nikki Blilie |
+| 1976 | 12 | Mariah Wells |
+| 1977 | 12 | Kathy Arnold |
+| 1978 | 12 | Bsancia |
+| 1979 | 12 | Kjsranch |
 | 1980 | 12 | Dawn Burzee |
-| 1981 | 12 | Lyndon Schaak |
+| 1981 | 12 | Chipper Gridroll |
 | 1982 | 12 | Silly Twister |
 | 1983 | 12 | Mary |
 | 1984 | 12 | Groovy Buildout |
@@ -1998,13 +1998,13 @@
 | 1990 | 11 | Krystal Snow |
 | 1991 | 11 | Lou Sassole |
 | 1992 | 11 | Forever Young |
-| 1993 | 11 | Patty Smith |
-| 1994 | 11 | Amanda Nicholson |
-| 1995 | 11 | cole |
-| 1996 | 11 | Snippy Blockfall |
-| 1997 | 11 | Emily Ackley |
-| 1998 | 11 | Daddy’s Here |
-| 1999 | 11 | Catspjamas |
+| 1993 | 11 | Daddy’s Here |
+| 1994 | 11 | Catspjamas |
+| 1995 | 11 | Patty Smith |
+| 1996 | 11 | cole |
+| 1997 | 11 | Snippy Blockfall |
+| 1998 | 11 | Emily Ackley |
+| 1999 | 11 | Amanda Nicholson |
 | 2000 | 10 | Melissa Metcalf |
 | 2001 | 10 | Hunnie Nelson |
 | 2002 | 10 | Alan Baumgardner |
