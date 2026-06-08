@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:36:44 UTC
+# Standings for team4 as of 2026-06-08 12:37:20 UTC
 
 **Total Participants:** 1827
 
@@ -152,23 +152,23 @@
 | 144 | 548 | Katie Lynn Petit |
 | 145 | 542 | Nikki Fuller Johnson |
 | 146 | 538 | Gorica Prusina |
-| 147 | 521 | Misty Leigh |
-| 148 | 520 | DexterDobbins |
-| 149 | 516 | Shocinda Sherwood |
-| 150 | 509 | Wendy Zentz |
-| 151 | 507 | Real Talk Vibes |
-| 152 | 496 | Jackie Jackson |
-| 153 | 494 | Yesenia Castro Monreal |
-| 154 | 490 | Megan Vick |
-| 155 | 486 | Samantha Worley |
-| 156 | 480 | Adam Dickinson |
-| 157 | 476 | SupaFly |
-| 158 | 474 | HurkleDurkle88 |
-| 159 | 464 | Alicia Cook |
-| 160 | 462 | Boldy Rumbler |
-| 161 | 461 | Kayla Fuentes |
-| 162 | 460 | CIRAZYPNOY |
-| 163 | 455 | Cinta Marie |
+| 147 | 535 | Cinta Marie |
+| 148 | 521 | Misty Leigh |
+| 149 | 520 | DexterDobbins |
+| 150 | 516 | Shocinda Sherwood |
+| 151 | 509 | Wendy Zentz |
+| 152 | 507 | Real Talk Vibes |
+| 153 | 496 | Jackie Jackson |
+| 154 | 494 | Yesenia Castro Monreal |
+| 155 | 490 | Megan Vick |
+| 156 | 486 | Samantha Worley |
+| 157 | 480 | Adam Dickinson |
+| 158 | 476 | SupaFly |
+| 159 | 474 | HurkleDurkle88 |
+| 160 | 464 | Alicia Cook |
+| 161 | 462 | Boldy Rumbler |
+| 162 | 461 | Kayla Fuentes |
+| 163 | 460 | CIRAZYPNOY |
 | 164 | 452 | Kaash Brxtt |
 | 165 | 447 | Jacqueline Jackii Ramos |
 | 166 | 446 | Laguya |
@@ -279,15 +279,15 @@
 | 271 | 280 | Snippy Splitter |
 | 272 | 278 | Tamara Triplet |
 | 273 | 278 | Cranky Buildout |
-| 274 | 277 | Giggly Tilt |
-| 275 | 276 | Lori Stembridge |
-| 276 | 275 | Jeremy |
-| 277 | 275 | jaz |
-| 278 | 274 | Dominique Melendez |
-| 279 | 271 | Tina Thomas |
-| 280 | 270 | Stasia |
-| 281 | 269 | Spicy Chicken |
-| 282 | 269 | Spunky Gridzone |
+| 274 | 277 | Spunky Gridzone |
+| 275 | 277 | Giggly Tilt |
+| 276 | 276 | Lori Stembridge |
+| 277 | 275 | Jeremy |
+| 278 | 275 | jaz |
+| 279 | 274 | Dominique Melendez |
+| 280 | 271 | Tina Thomas |
+| 281 | 270 | Stasia |
+| 282 | 269 | Spicy Chicken |
 | 283 | 268 | Bonnie Powell |
 | 284 | 267 | Chirpy Link |
 | 285 | 266 | Slinky Stackzone |
@@ -495,55 +495,55 @@
 | 487 | 160 | Mrs |
 | 488 | 160 | Alice Eisnor-Martens |
 | 489 | 159 | Inez Nez |
-| 490 | 158 | Caiti O'Keefe |
-| 491 | 158 | crobb77 |
-| 492 | 157 | Snow77white |
-| 493 | 157 | Bonique Bier |
+| 490 | 158 | chefjaydawg |
+| 491 | 158 | Caiti O'Keefe |
+| 492 | 158 | crobb77 |
+| 493 | 158 | Clever Patterner |
 | 494 | 157 | Travis McKinnon |
-| 495 | 157 | Holly Bramel |
-| 496 | 156 | Funky Tiler |
-| 497 | 156 | Perry Ransom |
+| 495 | 157 | Snow77white |
+| 496 | 157 | Bonique Bier |
+| 497 | 157 | Holly Bramel |
 | 498 | 156 | Simone |
-| 499 | 156 | chefjaydawg |
-| 500 | 156 | Suzanne North |
-| 501 | 156 | Swanky Builderline |
-| 502 | 156 | Teester |
-| 503 | 155 | Shayna Vaigneur-Hall |
-| 504 | 155 | Snippy Racker |
+| 499 | 156 | Perry Ransom |
+| 500 | 156 | Swanky Builderline |
+| 501 | 156 | Suzanne North |
+| 502 | 156 | Funky Tiler |
+| 503 | 156 | Teester |
+| 504 | 155 | Shayna Vaigneur-Hall |
 | 505 | 155 | Nicole Colby McCloskey |
-| 506 | 154 | yourmomz |
-| 507 | 154 | Lani |
-| 508 | 153 | Tarsha Thomas-Martinez |
-| 509 | 153 | Dawn Marie Trujillo |
-| 510 | 153 | Shawntae Mccary |
-| 511 | 153 | Kandylands |
-| 512 | 153 | Alyssa Berg |
-| 513 | 152 | Giggly Column |
-| 514 | 151 | Ricky Colvin |
-| 515 | 151 | Yvette Johnson |
+| 506 | 155 | Snippy Racker |
+| 507 | 154 | yourmomz |
+| 508 | 154 | Lani |
+| 509 | 153 | Alyssa Berg |
+| 510 | 153 | Kandylands |
+| 511 | 153 | Dawn Marie Trujillo |
+| 512 | 153 | Tarsha Thomas-Martinez |
+| 513 | 153 | Shawntae Mccary |
+| 514 | 152 | Giggly Column |
+| 515 | 151 | Ricky Colvin |
 | 516 | 151 | King |
-| 517 | 150 | MrsReap |
-| 518 | 150 | Kristine Hj Han |
-| 519 | 150 | Melissa Quinn |
+| 517 | 151 | Yvette Johnson |
+| 518 | 150 | Melissa Quinn |
+| 519 | 150 | Butterpat |
 | 520 | 150 | Witty Fitblock |
-| 521 | 150 | Butterpat |
-| 522 | 150 | Heidi Anne Scheiderer |
+| 521 | 150 | Kristine Hj Han |
+| 522 | 150 | Billy Baker |
 | 523 | 150 | Bammer |
-| 524 | 150 | Billy Baker |
-| 525 | 149 | Paula Renee McCracken |
-| 526 | 149 | Zesty Lift |
-| 527 | 149 | Snazzy Fitclear |
-| 528 | 148 | Snappy Stack |
-| 529 | 148 | Breezy Wife |
-| 530 | 148 | Lisa Jones |
-| 531 | 148 | Latisha TeTe Williams |
-| 532 | 147 | tj |
-| 533 | 147 | Allysha McFarland |
-| 534 | 147 | EpicWizard |
-| 535 | 147 | Kaps |
-| 536 | 147 | Betsy Froemming |
-| 537 | 146 | Jasmine Marie |
-| 538 | 146 | Clever Patterner |
+| 524 | 150 | MrsReap |
+| 525 | 150 | Heidi Anne Scheiderer |
+| 526 | 149 | Paula Renee McCracken |
+| 527 | 149 | Zesty Lift |
+| 528 | 149 | Snazzy Fitclear |
+| 529 | 148 | Snappy Stack |
+| 530 | 148 | Breezy Wife |
+| 531 | 148 | Lisa Jones |
+| 532 | 148 | Latisha TeTe Williams |
+| 533 | 147 | tj |
+| 534 | 147 | Allysha McFarland |
+| 535 | 147 | EpicWizard |
+| 536 | 147 | Kaps |
+| 537 | 147 | Betsy Froemming |
+| 538 | 146 | Jasmine Marie |
 | 539 | 145 | Shirley A. Godfrey |
 | 540 | 145 | Mc3003 |
 | 541 | 145 | Ashley DuVall |
