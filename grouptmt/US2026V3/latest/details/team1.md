@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:41:22 UTC
+# Standings for team1 as of 2026-06-08 09:42:20 UTC
 
 **Total Participants:** 1771
 
@@ -151,9 +151,9 @@
 | 143 | 527 | MommaCia |
 | 144 | 517 | Kaleisha Smith |
 | 145 | 516 | Peppy Piececlear |
-| 146 | 511 | Dizzy Dropper |
-| 147 | 509 | Shell Lewis |
-| 148 | 503 | Atlantalindi |
+| 146 | 513 | Atlantalindi |
+| 147 | 511 | Dizzy Dropper |
+| 148 | 509 | Shell Lewis |
 | 149 | 499 | Slinky Party |
 | 150 | 495 | De'Laonzeo Anthony |
 | 151 | 494 | DaVonte' Cretter |
@@ -298,10 +298,10 @@
 | 290 | 260 | Nerdy Blockpiece |
 | 291 | 258 | Cynthia Bradley |
 | 292 | 258 | SeanSanchez |
-| 293 | 257 | Mafio SO |
-| 294 | 257 | Anthony |
-| 295 | 255 | Falisa Bell |
-| 296 | 255 | McKayla Owens |
+| 293 | 258 | McKayla Owens |
+| 294 | 257 | Mafio SO |
+| 295 | 257 | Anthony |
+| 296 | 255 | Falisa Bell |
 | 297 | 254 | Smiley Clearpiece |
 | 298 | 253 | Tasha |
 | 299 | 252 | Tessa Felice Hill |
@@ -464,44 +464,44 @@
 | 456 | 160 | Cheeky Twistpiece |
 | 457 | 160 | Carolyn Smith |
 | 458 | 160 | Adrian Wilson |
-| 459 | 160 | Jean Regis |
-| 460 | 160 | Tracey Johnson |
-| 461 | 160 | Malcolm Stanley |
-| 462 | 160 | Slinky Clearzone |
-| 463 | 159 | Loopy Tiler |
-| 464 | 159 | Tracy Feyler |
-| 465 | 159 | Tee Spinks |
-| 466 | 158 | Mahagony Small |
-| 467 | 158 | Kimberly Linares Hernandez |
-| 468 | 157 | Rachel Renae Bettis |
-| 469 | 156 | Lakiesha Crawford |
+| 459 | 160 | Slinky Clearzone |
+| 460 | 160 | Deveda Williams |
+| 461 | 160 | Tracey Johnson |
+| 462 | 160 | Malcolm Stanley |
+| 463 | 160 | Jean Regis |
+| 464 | 159 | Loopy Tiler |
+| 465 | 159 | Tracy Feyler |
+| 466 | 159 | Tee Spinks |
+| 467 | 158 | Mahagony Small |
+| 468 | 158 | Kimberly Linares Hernandez |
+| 469 | 157 | Rachel Renae Bettis |
 | 470 | 156 | Shalya Terry |
 | 471 | 156 | Amy Villalpando |
 | 472 | 156 | Chris Holland |
-| 473 | 156 | Johnathan Deese |
-| 474 | 155 | Katrina Ramey |
+| 473 | 156 | Lakiesha Crawford |
+| 474 | 156 | Johnathan Deese |
 | 475 | 155 | Jae Thompson-Tyus |
-| 476 | 155 | Kala Miller |
-| 477 | 155 | nameno |
-| 478 | 155 | Tajuana Juana'Cee Coleman |
+| 476 | 155 | Katrina Ramey |
+| 477 | 155 | Tajuana Juana'Cee Coleman |
+| 478 | 155 | nameno |
 | 479 | 155 | Miera Nicole |
-| 480 | 154 | Jenni Hardman |
-| 481 | 154 | Dorian Griffin |
+| 480 | 155 | Kala Miller |
+| 481 | 154 | Jenni Hardman |
 | 482 | 154 | Glitzy Clusterer |
 | 483 | 154 | Rebecca Jackson |
-| 484 | 154 | Ciera Peace |
-| 485 | 154 | Brittanie Wardlow |
-| 486 | 153 | Holly Baker |
-| 487 | 152 | Monica Fields |
+| 484 | 154 | Brittanie Wardlow |
+| 485 | 154 | Ciera Peace |
+| 486 | 154 | Dorian Griffin |
+| 487 | 153 | Holly Baker |
 | 488 | 152 | Wacky Stackbuilder |
-| 489 | 151 | Yashica Smith |
-| 490 | 151 | Jimmy Shannon |
-| 491 | 151 | Shakuria Cortia Burney |
-| 492 | 151 | Perky Balancer |
-| 493 | 150 | Nisha Sunshine Jenkins |
-| 494 | 150 | Marshall Davis |
-| 495 | 150 | Deveda Williams |
-| 496 | 150 | Kamilya Rembert |
+| 489 | 152 | Monica Fields |
+| 490 | 151 | Yashica Smith |
+| 491 | 151 | Perky Balancer |
+| 492 | 151 | Shakuria Cortia Burney |
+| 493 | 151 | Jimmy Shannon |
+| 494 | 150 | Nisha Sunshine Jenkins |
+| 495 | 150 | Kamilya Rembert |
+| 496 | 150 | Marshall Davis |
 | 497 | 149 | Mighty Dropper |
 | 498 | 149 | Kristie |
 | 499 | 149 | Casey Chapman |
