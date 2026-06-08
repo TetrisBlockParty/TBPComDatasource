@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:38:19 UTC
+# Standings for team2 as of 2026-06-08 10:38:42 UTC
 
 **Total Participants:** 2154
 
@@ -55,7 +55,7 @@
 | 47 | 2527 | Helen Thomas |
 | 48 | 2414 | Nerdy Glidepiece |
 | 49 | 2282 | Frisky Balanceblock |
-| 50 | 2190 | Betty Barrett |
+| 50 | 2220 | Betty Barrett |
 | 51 | 2157 | Debra Henry |
 | 52 | 2146 | Nerdy Climber |
 | 53 | 2084 | Rose Schaffner-Kibler |
@@ -318,24 +318,24 @@
 | 310 | 296 | Kathleen Keogh Van Schoyck |
 | 311 | 295 | Flashy Hitter |
 | 312 | 295 | James Ward |
-| 313 | 290 | Dad |
-| 314 | 286 | Kim Hunt |
-| 315 | 286 | Kathy Strickland |
-| 316 | 285 | Boldy Wobbler |
-| 317 | 285 | Joanna Trevin Thompson |
-| 318 | 284 | Kelly Vedder |
-| 319 | 283 | Jerry L Morales |
-| 320 | 283 | Hilliary Beyer |
-| 321 | 283 | Buffy Diane Blake |
-| 322 | 281 | AndrewandShela Gornik |
-| 323 | 280 | August Christy Lathrop |
-| 324 | 280 | Tami Kay Williams Watson |
-| 325 | 279 | Curly Windbreaker |
-| 326 | 279 | Nikki Greeneyebeauty |
-| 327 | 278 | Amy Nicole McCanne |
-| 328 | 276 | Jenny |
-| 329 | 272 | SEH |
-| 330 | 272 | Brittany Mathis |
+| 313 | 291 | Brittany Mathis |
+| 314 | 290 | Dad |
+| 315 | 286 | Kim Hunt |
+| 316 | 286 | Kathy Strickland |
+| 317 | 285 | Boldy Wobbler |
+| 318 | 285 | Joanna Trevin Thompson |
+| 319 | 284 | Kelly Vedder |
+| 320 | 283 | Jerry L Morales |
+| 321 | 283 | Hilliary Beyer |
+| 322 | 283 | Buffy Diane Blake |
+| 323 | 281 | AndrewandShela Gornik |
+| 324 | 280 | August Christy Lathrop |
+| 325 | 280 | Tami Kay Williams Watson |
+| 326 | 279 | Curly Windbreaker |
+| 327 | 279 | Nikki Greeneyebeauty |
+| 328 | 278 | Amy Nicole McCanne |
+| 329 | 276 | Jenny |
+| 330 | 272 | SEH |
 | 331 | 271 | Ariel Gundersen |
 | 332 | 271 | Carolyn McNaughton |
 | 333 | 270 | Sharon L Brazelton |
@@ -421,9 +421,9 @@
 | 413 | 220 | KazzyKay |
 | 414 | 220 | Elliott Mikila |
 | 415 | 220 | Precious Womack |
-| 416 | 220 | Krystle L Coon |
+| 416 | 220 | Jess |
 | 417 | 220 | Sam |
-| 418 | 220 | Jess |
+| 418 | 220 | Krystle L Coon |
 | 419 | 219 | Mouh Ity |
 | 420 | 219 | Francesca Wagenhoffer |
 | 421 | 219 | Gwendolyn Boykin Mobbs |
