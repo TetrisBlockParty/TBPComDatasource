@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:54:40 UTC
+# Standings for team1 as of 2026-06-08 17:55:19 UTC
 
 **Total Participants:** 1840
 
@@ -438,8 +438,8 @@
 | 430 | 200 | Lisa Fletcher |
 | 431 | 200 | Maribel Vasquez |
 | 432 | 199 | Fina McKinnis |
-| 433 | 199 | Jenni Hardman |
-| 434 | 197 | Sharee Robinson |
+| 433 | 199 | Sharee Robinson |
+| 434 | 199 | Jenni Hardman |
 | 435 | 197 | Lynnette WheelerBushnell |
 | 436 | 197 | Desire Rice |
 | 437 | 196 | Teresa Yanira Cepeda |
@@ -581,27 +581,27 @@
 | 573 | 150 | TotoCherue |
 | 574 | 150 | Cheri Robinson |
 | 575 | 150 | Mommy Frank |
-| 576 | 149 | Kristie |
-| 577 | 149 | Twisty Brickfit |
-| 578 | 149 | Casey Chapman |
-| 579 | 149 | Betsy B. Yohan |
-| 580 | 148 | Rufus |
-| 581 | 148 | Shannon Carriger |
+| 576 | 149 | Nona Harriel |
+| 577 | 149 | Kristie |
+| 578 | 149 | Twisty Brickfit |
+| 579 | 149 | Casey Chapman |
+| 580 | 149 | Betsy B. Yohan |
+| 581 | 148 | Rufus |
 | 582 | 148 | Faith Armone |
-| 583 | 148 | Rhianna Dinki Austin |
-| 584 | 148 | P C |
-| 585 | 148 | Cauiasia DeJ'ae |
-| 586 | 147 | Mathew Trudell |
-| 587 | 147 | Lucy |
-| 588 | 146 | TRUBBLE45 |
-| 589 | 146 | Bella |
-| 590 | 146 | FunTime |
-| 591 | 146 | Giggly Tiltbuilder |
-| 592 | 146 | Nona Harriel |
+| 583 | 148 | Shannon Carriger |
+| 584 | 148 | Rhianna Dinki Austin |
+| 585 | 148 | P C |
+| 586 | 148 | Cauiasia DeJ'ae |
+| 587 | 147 | Mathew Trudell |
+| 588 | 147 | Lucy |
+| 589 | 146 | TRUBBLE45 |
+| 590 | 146 | Bella |
+| 591 | 146 | FunTime |
+| 592 | 146 | Giggly Tiltbuilder |
 | 593 | 146 | whatever |
 | 594 | 145 | Squaw Ki Ng |
-| 595 | 145 | lizlizliz |
-| 596 | 145 | Angela Brown Babin |
+| 595 | 145 | Angela Brown Babin |
+| 596 | 145 | lizlizliz |
 | 597 | 144 | Cm |
 | 598 | 144 | Kiki |
 | 599 | 143 | Andy Rivera |
