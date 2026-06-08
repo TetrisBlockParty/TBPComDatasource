@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:25:19 UTC
+# Standings for team1 as of 2026-06-08 05:26:19 UTC
 
 **Total Participants:** 1724
 
@@ -150,8 +150,8 @@
 | 142 | 503 | Atlantalindi |
 | 143 | 495 | De'Laonzeo Anthony |
 | 144 | 494 | DaVonte' Cretter |
-| 145 | 487 | Novaa |
-| 146 | 484 | Chuck Quarles |
+| 145 | 491 | Chuck Quarles |
+| 146 | 487 | Novaa |
 | 147 | 482 | Spunky Edgefit |
 | 148 | 482 | Jamal Itzjusmall Chambers |
 | 149 | 470 | Tammye Turner |
@@ -978,64 +978,64 @@
 | 970 | 62 | Shona ShayShay Jones |
 | 971 | 62 | Quirky Slammer |
 | 972 | 62 | Tia Hazelton |
-| 973 | 62 | Spicy Hedgehog |
-| 974 | 62 | AnnaM |
+| 973 | 62 | AnnaM |
+| 974 | 62 | Spicy Hedgehog |
 | 975 | 61 | Meshia |
 | 976 | 61 | Tonya Thomas |
 | 977 | 61 | Rosalind Chatman |
 | 978 | 61 | Michelle Stanford-Page |
-| 979 | 60 | Tyrone Porter |
-| 980 | 60 | lookin |
-| 981 | 60 | Yellowguy3 |
-| 982 | 60 | Tellisa Payne |
-| 983 | 60 | Chris Watson Draper |
-| 984 | 60 | Lynette Manning |
-| 985 | 60 | Nigel Snyder |
-| 986 | 60 | Demi Ovalle |
-| 987 | 60 | Bambam |
-| 988 | 60 | Andy Rivera |
-| 989 | 60 | lizlizliz |
-| 990 | 60 | Londa Londa |
-| 991 | 60 | Juan Lewis |
-| 992 | 60 | kick it |
-| 993 | 60 | Tanesha Ga'sFinest Corbett |
-| 994 | 60 | Jennifer Endean |
-| 995 | 60 | Sally Elizabeth Hopson |
-| 996 | 60 | Ebie |
-| 997 | 59 | Sheesh |
-| 998 | 59 | Sweet BayBee |
-| 999 | 59 | Robert Varnado |
-| 1000 | 59 | Smiley Tilebuilder |
+| 979 | 60 | Sally Elizabeth Hopson |
+| 980 | 60 | Tanesha Ga'sFinest Corbett |
+| 981 | 60 | kick it |
+| 982 | 60 | lizlizliz |
+| 983 | 60 | Londa Londa |
+| 984 | 60 | Nigel Snyder |
+| 985 | 60 | Bambam |
+| 986 | 60 | Lynette Manning |
+| 987 | 60 | Chris Watson Draper |
+| 988 | 60 | Tellisa Payne |
+| 989 | 60 | Yellowguy3 |
+| 990 | 60 | lookin |
+| 991 | 60 | Sheesh |
+| 992 | 60 | Jennifer Endean |
+| 993 | 60 | Ebie |
+| 994 | 60 | Demi Ovalle |
+| 995 | 60 | Juan Lewis |
+| 996 | 60 | Tyrone Porter |
+| 997 | 60 | Andy Rivera |
+| 998 | 59 | Robert Varnado |
+| 999 | 59 | Wacky Spinfit |
+| 1000 | 59 | Kween Pilot |
 | 1001 | 59 | Andrea Jackson |
-| 1002 | 59 | Kween Pilot |
-| 1003 | 59 | Wacky Spinfit |
-| 1004 | 58 | Meeee |
-| 1005 | 58 | Brandy Way |
-| 1006 | 58 | Brii Michelle Lamb |
-| 1007 | 58 | CoaCoa Myles |
-| 1008 | 58 | Aihpos |
-| 1009 | 58 | Corbin Henry |
-| 1010 | 58 | Rieshelda Marie White |
-| 1011 | 58 | Gabriela Hernandez |
+| 1002 | 59 | Sweet BayBee |
+| 1003 | 59 | Smiley Tilebuilder |
+| 1004 | 58 | Corbin Henry |
+| 1005 | 58 | Rieshelda Marie White |
+| 1006 | 58 | Brandy Way |
+| 1007 | 58 | Aihpos |
+| 1008 | 58 | Gabriela Hernandez |
+| 1009 | 58 | CoaCoa Myles |
+| 1010 | 58 | Meeee |
+| 1011 | 58 | Brii Michelle Lamb |
 | 1012 | 57 | Demetrice Buck Wilson |
 | 1013 | 57 | Tina Criam |
 | 1014 | 57 | Fairy Fae_6 |
-| 1015 | 57 | Idelia L Brown |
-| 1016 | 57 | Warren Miller |
-| 1017 | 57 | Vernon Hoyt |
-| 1018 | 57 | Elizabeth Clara |
+| 1015 | 57 | Elizabeth Clara |
+| 1016 | 57 | Brave Balanceblock |
+| 1017 | 57 | Idelia L Brown |
+| 1018 | 57 | Warren Miller |
 | 1019 | 57 | Desire Rice |
-| 1020 | 57 | Brave Balanceblock |
+| 1020 | 57 | Vernon Hoyt |
 | 1021 | 56 | Christopher Wallace |
 | 1022 | 56 | Maxine Williams |
-| 1023 | 56 | Jodie |
-| 1024 | 56 | Lisa Ivy |
-| 1025 | 56 | Evelyn Epps |
-| 1026 | 56 | QueenzMo |
-| 1027 | 56 | Fred Caston |
-| 1028 | 56 | Arturo Hernandez II |
-| 1029 | 56 | Chanel White |
-| 1030 | 56 | Kayleah Washington |
+| 1023 | 56 | Lisa Ivy |
+| 1024 | 56 | Fred Caston |
+| 1025 | 56 | Jodie |
+| 1026 | 56 | Chanel White |
+| 1027 | 56 | Evelyn Epps |
+| 1028 | 56 | QueenzMo |
+| 1029 | 56 | Kayleah Washington |
+| 1030 | 56 | Arturo Hernandez II |
 | 1031 | 55 | Boldy Matchfit |
 | 1032 | 55 | Aanngie Aanngie |
 | 1033 | 55 | Kyle Franklin |
