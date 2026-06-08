@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 16:02:19 UTC
+# Standings for team2 as of 2026-06-08 16:02:45 UTC
 
 **Total Participants:** 2205
 
@@ -244,8 +244,8 @@
 | 236 | 435 | Nikki Hayes |
 | 237 | 434 | Katrien |
 | 238 | 434 | Janelle Edgecombe |
-| 239 | 429 | Nikki EightySixed |
-| 240 | 429 | Joni Michelle Morgan |
+| 239 | 431 | Joni Michelle Morgan |
+| 240 | 429 | Nikki EightySixed |
 | 241 | 428 | Physhie |
 | 242 | 427 | Flower_child |
 | 243 | 427 | SilentBuffalo |
@@ -531,9 +531,9 @@
 | 523 | 197 | Andrea Rawson |
 | 524 | 196 | Greenie |
 | 525 | 196 | Mandy |
-| 526 | 195 | Mandy Van Laningham Bishop |
-| 527 | 194 | Jessica Connot |
-| 528 | 193 | Jason Lamporte |
+| 526 | 195 | Jason Lamporte |
+| 527 | 195 | Mandy Van Laningham Bishop |
+| 528 | 194 | Jessica Connot |
 | 529 | 192 | Raine |
 | 530 | 191 | Nano. |
 | 531 | 191 | Rydin Dirt |
