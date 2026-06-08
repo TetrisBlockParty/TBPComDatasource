@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:00:40 UTC
+# Standings for team1 as of 2026-06-08 17:01:20 UTC
 
 **Total Participants:** 1829
 
@@ -429,13 +429,13 @@
 | 421 | 200 | Lisa Fletcher |
 | 422 | 199 | Fina McKinnis |
 | 423 | 199 | Nickeya Phillips |
-| 424 | 198 | Kristine Marie Palmer |
-| 425 | 197 | Lynnette WheelerBushnell |
-| 426 | 196 | Ladybug |
-| 427 | 196 | Teresa Yanira Cepeda |
-| 428 | 196 | BabyCakes |
-| 429 | 196 | Jenni Hardman |
-| 430 | 195 | Vera Beckford |
+| 424 | 199 | Vera Beckford |
+| 425 | 198 | Kristine Marie Palmer |
+| 426 | 197 | Lynnette WheelerBushnell |
+| 427 | 196 | Ladybug |
+| 428 | 196 | Teresa Yanira Cepeda |
+| 429 | 196 | BabyCakes |
+| 430 | 196 | Jenni Hardman |
 | 431 | 193 | Dizzy Dashy |
 | 432 | 193 | Jae Thompson-Tyus |
 | 433 | 193 | Matthieu Pistone |
@@ -513,27 +513,27 @@
 | 505 | 166 | Melissa Olvera |
 | 506 | 165 | Tanisha Taylor |
 | 507 | 164 | Jes Marie |
-| 508 | 163 | Daring Blockclear |
-| 509 | 163 | Christi Walker Patton |
-| 510 | 163 | Ashlie Mo |
-| 511 | 162 | Speedy Stacky |
-| 512 | 162 | Jessie N Michael Silvers |
-| 513 | 161 | Devron Reedy |
-| 514 | 161 | DaemahnFriday |
-| 515 | 160 | Slinky Clearzone |
+| 508 | 163 | Ashlie Mo |
+| 509 | 163 | Kelvin Cook |
+| 510 | 163 | Christi Walker Patton |
+| 511 | 163 | Daring Blockclear |
+| 512 | 162 | Speedy Stacky |
+| 513 | 162 | Jessie N Michael Silvers |
+| 514 | 161 | Devron Reedy |
+| 515 | 161 | DaemahnFriday |
 | 516 | 160 | Malcolm Stanley |
-| 517 | 160 | Spotlight |
-| 518 | 160 | Adrian Wilson |
-| 519 | 160 | Carolyn Smith |
-| 520 | 160 | Cheeky Twistpiece |
-| 521 | 159 | Loopy Tiler |
+| 517 | 160 | Slinky Clearzone |
+| 518 | 160 | Spotlight |
+| 519 | 160 | Adrian Wilson |
+| 520 | 160 | Carolyn Smith |
+| 521 | 160 | Cheeky Twistpiece |
 | 522 | 159 | Latore Maxie |
-| 523 | 159 | Tracy Feyler |
-| 524 | 159 | Tee Spinks |
-| 525 | 159 | Frances Davis |
-| 526 | 158 | Seddrick |
-| 527 | 158 | Kimberly Linares Hernandez |
-| 528 | 158 | Kelvin Cook |
+| 523 | 159 | Loopy Tiler |
+| 524 | 159 | Tracy Feyler |
+| 525 | 159 | Tee Spinks |
+| 526 | 159 | Frances Davis |
+| 527 | 158 | Seddrick |
+| 528 | 158 | Kimberly Linares Hernandez |
 | 529 | 158 | Mahagony Small |
 | 530 | 157 | Lilly Brown |
 | 531 | 156 | Lakiesha Crawford |
@@ -595,41 +595,41 @@
 | 587 | 142 | Sarah Steckbauer |
 | 588 | 142 | Semaj Johnson |
 | 589 | 141 | Krystal Maynard |
-| 590 | 141 | Shalena Marie Humphrey |
-| 591 | 141 | Kim Holzmiller |
-| 592 | 141 | Betsy B. Yohan |
-| 593 | 140 | lizlizliz |
-| 594 | 140 | Shadon McMillan |
+| 590 | 141 | Lucy |
+| 591 | 141 | Shalena Marie Humphrey |
+| 592 | 141 | Kim Holzmiller |
+| 593 | 141 | Betsy B. Yohan |
+| 594 | 140 | lizlizliz |
 | 595 | 140 | SherylU |
-| 596 | 140 | TBabii24 |
-| 597 | 140 | Kiki |
+| 596 | 140 | Shadon McMillan |
+| 597 | 140 | TBabii24 |
 | 598 | 140 | Kennedi Brazziel |
-| 599 | 139 | PSD |
-| 600 | 139 | Zany Breaker |
-| 601 | 138 | Lucy |
+| 599 | 140 | Kiki |
+| 600 | 139 | PSD |
+| 601 | 139 | Zany Breaker |
 | 602 | 138 | Ashley Monet Terrell |
 | 603 | 138 | Claudia Price |
 | 604 | 138 | Alexandrla Smith |
 | 605 | 138 | Ozell Jones Jr. |
 | 606 | 138 | Rene Hicks |
-| 607 | 137 | Angelique Talbot |
-| 608 | 137 | QueenShay AllGood |
-| 609 | 136 | Duncan Timothy |
-| 610 | 136 | Yashicha Hertzock |
-| 611 | 136 | Angela Brown Babin |
-| 612 | 136 | Gbnola |
-| 613 | 136 | Christina Singleton |
-| 614 | 136 | The DUBZ |
-| 615 | 136 | Guard Up |
+| 607 | 137 | QueenShay AllGood |
+| 608 | 137 | Angelique Talbot |
+| 609 | 136 | The DUBZ |
+| 610 | 136 | Gbnola |
+| 611 | 136 | Guard Up |
+| 612 | 136 | Angela Brown Babin |
+| 613 | 136 | Duncan Timothy |
+| 614 | 136 | Yashicha Hertzock |
+| 615 | 136 | Christina Singleton |
 | 616 | 135 | Chirpy Buildgrid |
 | 617 | 135 | Shameka Tiffany |
-| 618 | 135 | Saucy Tile |
-| 619 | 135 | Paul Pendley |
-| 620 | 133 | Marlynnnnn |
-| 621 | 133 | Kimberly Susan Privette |
-| 622 | 132 | Bambam |
+| 618 | 135 | Paul Pendley |
+| 619 | 135 | Saucy Tile |
+| 620 | 133 | Kimberly Susan Privette |
+| 621 | 133 | Marlynnnnn |
+| 622 | 132 | Jack Vlasak |
 | 623 | 132 | Jeffrey Barrows |
-| 624 | 132 | Jack Vlasak |
+| 624 | 132 | Bambam |
 | 625 | 131 | Cynthia Cruell |
 | 626 | 131 | Nona Harriel |
 | 627 | 131 | Kimberly Anderson |
