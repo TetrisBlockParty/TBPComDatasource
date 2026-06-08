@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:58:41 UTC
+# Standings for team1 as of 2026-06-08 18:59:21 UTC
 
 **Total Participants:** 1847
 
@@ -110,9 +110,9 @@
 | 102 | 908 | Danielle Barthelme |
 | 103 | 907 | Jaida De'Anne Cox |
 | 104 | 897 | BYM4L |
-| 105 | 885 | Keeta Chickswit Scott |
-| 106 | 882 | Jon Gathers |
-| 107 | 875 | Robbie Cheeseman |
+| 105 | 895 | Robbie Cheeseman |
+| 106 | 885 | Keeta Chickswit Scott |
+| 107 | 882 | Jon Gathers |
 | 108 | 860 | Slinky Puzzler |
 | 109 | 813 | Joy Citizen Pickney |
 | 110 | 804 | Yolanda E Fergerson |
@@ -227,9 +227,9 @@
 | 219 | 414 | Cheery Linkfall |
 | 220 | 412 | Jessica Russell |
 | 221 | 411 | Kyra Coleman |
-| 222 | 407 | Jazzy Fireflighters |
-| 223 | 405 | SPNLover24 |
-| 224 | 405 | sha |
+| 222 | 410 | sha |
+| 223 | 407 | Jazzy Fireflighters |
+| 224 | 405 | SPNLover24 |
 | 225 | 398 | Kenny 'Tailormade' Boyd |
 | 226 | 392 | Joana Thompson |
 | 227 | 390 | Devin West |
