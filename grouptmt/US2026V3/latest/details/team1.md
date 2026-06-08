@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:00:41 UTC
+# Standings for team1 as of 2026-06-08 14:01:20 UTC
 
 **Total Participants:** 1802
 
@@ -54,9 +54,9 @@
 | 46 | 1693 | JoJo |
 | 47 | 1689 | Chris Russell |
 | 48 | 1684 | Ceilo Marie |
-| 49 | 1633 | Cherry Rose |
-| 50 | 1617 | Mimi 1.0 |
-| 51 | 1585 | Janine Hunter |
+| 49 | 1645 | Janine Hunter |
+| 50 | 1633 | Cherry Rose |
+| 51 | 1617 | Mimi 1.0 |
 | 52 | 1548 | Jennifer To |
 | 53 | 1538 | Jacoby E Fleming |
 | 54 | 1489 | Robyn Caldwell |
@@ -584,30 +584,30 @@
 | 576 | 136 | Gbnola |
 | 577 | 136 | Guard Up |
 | 578 | 136 | Duncan Timothy |
-| 579 | 135 | MzJuice Box |
-| 580 | 135 | Chirpy Buildgrid |
+| 579 | 135 | Chirpy Buildgrid |
+| 580 | 135 | MzJuice Box |
 | 581 | 135 | Saucy Tile |
-| 582 | 135 | Paul Pendley |
-| 583 | 135 | Shameka Tiffany |
-| 584 | 134 | Aaron Hartmann |
-| 585 | 133 | Kimberly Susan Privette |
-| 586 | 133 | Yashicha Hertzock |
-| 587 | 133 | Marlynnnnn |
-| 588 | 132 | Jeffrey Barrows |
-| 589 | 132 | Bambam |
-| 590 | 132 | Poyre Shelton |
-| 591 | 132 | Jack Vlasak |
-| 592 | 131 | Kimberly Anderson |
-| 593 | 131 | Karen Denen |
+| 582 | 135 | Shameka Tiffany |
+| 583 | 135 | Paul Pendley |
+| 584 | 134 | Zany Breaker |
+| 585 | 134 | Aaron Hartmann |
+| 586 | 133 | Kimberly Susan Privette |
+| 587 | 133 | Yashicha Hertzock |
+| 588 | 133 | Marlynnnnn |
+| 589 | 132 | Jeffrey Barrows |
+| 590 | 132 | Bambam |
+| 591 | 132 | Poyre Shelton |
+| 592 | 132 | Jack Vlasak |
+| 593 | 131 | Kimberly Anderson |
 | 594 | 131 | Lynnette WheelerBushnell |
-| 595 | 131 | Cynthia Cruell |
-| 596 | 130 | Jessica Davis |
-| 597 | 130 | Victoria Smith |
+| 595 | 131 | Karen Denen |
+| 596 | 131 | Cynthia Cruell |
+| 597 | 130 | Jessica Davis |
 | 598 | 130 | Kesha Brady |
-| 599 | 130 | Brenda Malachi-butler |
-| 600 | 130 | Gerold Folk Haddock |
-| 601 | 129 | Lucy |
-| 602 | 129 | Zany Breaker |
+| 599 | 130 | Victoria Smith |
+| 600 | 130 | Brenda Malachi-butler |
+| 601 | 130 | Gerold Folk Haddock |
+| 602 | 129 | Lucy |
 | 603 | 129 | PSD |
 | 604 | 129 | Logan Frost |
 | 605 | 129 | JesusSaves 😇 |
