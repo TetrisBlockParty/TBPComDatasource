@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 01:36:21 UTC
+# Standings for team4 as of 2026-06-08 01:36:42 UTC
 
 **Total Participants:** 1687
 
@@ -78,8 +78,8 @@
 | 70 | 960 | Snippy Grid |
 | 71 | 957 | Tiffany Loree Tiffany Oneill |
 | 72 | 952 | Alala.Cersei |
-| 73 | 924 | woopa 716 |
-| 74 | 924 | Sweet Stacker |
+| 73 | 924 | Sweet Stacker |
+| 74 | 924 | woopa 716 |
 | 75 | 906 | Hannah Pazar |
 | 76 | 896 | Leah Barnett |
 | 77 | 885 | J |
@@ -90,8 +90,8 @@
 | 82 | 848 | Beee |
 | 83 | 837 | Fancy Crasher |
 | 84 | 830 | Kitsune Bi |
-| 85 | 826 | Lupe Alburquerque |
-| 86 | 826 | Sharidan Klinginsmith |
+| 85 | 826 | Sharidan Klinginsmith |
+| 86 | 826 | Lupe Alburquerque |
 | 87 | 805 | JoLinda Dunn |
 | 88 | 800 | Melissa Brown |
 | 89 | 795 | Phil Peterson |
@@ -318,11 +318,11 @@
 | 310 | 209 | Ashley Mcdonald |
 | 311 | 209 | Bouncy |
 | 312 | 209 | Lively Blockpiece |
-| 313 | 206 | Stacy G |
+| 313 | 206 | Rachel Lemos |
 | 314 | 206 | Brandy Lynn |
-| 315 | 206 | Rachel Lemos |
-| 316 | 205 | Littlebrat |
-| 317 | 205 | Stasia |
+| 315 | 206 | Stacy G |
+| 316 | 205 | Stasia |
+| 317 | 205 | Littlebrat |
 | 318 | 205 | Matthew Wilcox |
 | 319 | 204 | Clashy |
 | 320 | 203 | Joab Gonzalez |
@@ -330,81 +330,81 @@
 | 322 | 201 | Kimberly Civinski |
 | 323 | 199 | Janet Willoughby |
 | 324 | 199 | Nicole Dombrow |
-| 325 | 198 | kellie |
+| 325 | 198 | Mint Marquez |
 | 326 | 198 | Ashley Jenkins |
-| 327 | 198 | Mint Marquez |
-| 328 | 198 | Dawn Phelps |
+| 327 | 198 | Dawn Phelps |
+| 328 | 198 | kellie |
 | 329 | 197 | Slinky Stackzone |
-| 330 | 196 | Morgan Stevens |
-| 331 | 196 | Karen Rodriguez |
-| 332 | 196 | WeeWooWee |
-| 333 | 196 | Loopy Clusterline |
+| 330 | 196 | WeeWooWee |
+| 331 | 196 | Loopy Clusterline |
+| 332 | 196 | Morgan Stevens |
+| 333 | 196 | Karen Rodriguez |
 | 334 | 195 | Cari Underwood |
 | 335 | 195 | Drh4090 |
 | 336 | 195 | Blockcrusher |
 | 337 | 195 | Sean Mccleary |
-| 338 | 194 | Lisa lisa |
-| 339 | 194 | Jumpy Builderpiece |
+| 338 | 194 | Jumpy Builderpiece |
+| 339 | 194 | Lisa lisa |
 | 340 | 192 | Ralph Hell Rell Williams |
-| 341 | 192 | Mark Fitch Jr. |
-| 342 | 192 | Homie |
+| 341 | 192 | Homie |
+| 342 | 192 | Mark Fitch Jr. |
 | 343 | 191 | Bridget Stevens |
-| 344 | 190 | Chonda OhanaMomma Michelle |
+| 344 | 190 | Lora Schallert |
 | 345 | 190 | JIGsaw ~(•¿°)~ |
-| 346 | 190 | Lora Schallert |
+| 346 | 190 | Chonda OhanaMomma Michelle |
 | 347 | 189 | Snazzy Corner |
 | 348 | 188 | Stephanie Brock |
-| 349 | 188 | Mark Norton |
+| 349 | 188 | Lee Ann Gibby |
 | 350 | 188 | Zesty Twistpiece |
 | 351 | 188 | Dandy Cascade |
-| 352 | 188 | Lee Ann Gibby |
-| 353 | 187 | Cindy |
-| 354 | 187 | Jennifer Fisher Franklin |
+| 352 | 188 | Mark Norton |
+| 353 | 187 | Jennifer Fisher Franklin |
+| 354 | 187 | Cindy |
 | 355 | 186 | June Hoffman |
 | 356 | 185 | Maegon Brazille |
 | 357 | 184 | Melissa Lowe |
 | 358 | 183 | Frothy Pattern |
-| 359 | 182 | Swanky Snapgrid |
-| 360 | 182 | Ashley Eskridge |
+| 359 | 182 | Ashley Eskridge |
+| 360 | 182 | Swanky Snapgrid |
 | 361 | 181 | Danny Frausto |
-| 362 | 180 | Goofy Linkmatch |
+| 362 | 180 | ariel |
 | 363 | 180 | Sherry Mooney |
-| 364 | 180 | ariel |
-| 365 | 180 | Dan Butcher |
-| 366 | 180 | Bean |
-| 367 | 180 | EvoKitty |
+| 364 | 180 | Dan Butcher |
+| 365 | 180 | Goofy Linkmatch |
+| 366 | 180 | EvoKitty |
+| 367 | 180 | Bean |
 | 368 | 179 | LaTanya GeminiondaRise Johnson |
 | 369 | 178 | Alex Armour |
-| 370 | 178 | Tamara Triplet |
-| 371 | 178 | Jacqueline Jackii Ramos |
+| 370 | 178 | Jacqueline Jackii Ramos |
+| 371 | 178 | Tamara Triplet |
 | 372 | 177 | Jace McCullough |
 | 373 | 176 | Dena Lynn Rogers |
-| 374 | 175 | Quiomarie Cotto |
-| 375 | 175 | Cool Risepiece |
-| 376 | 173 | Cherrypir05 |
-| 377 | 172 | Jen Roe |
+| 374 | 175 | Valerie Silva |
+| 375 | 175 | Quiomarie Cotto |
+| 376 | 175 | Cool Risepiece |
+| 377 | 173 | Cherrypir05 |
 | 378 | 172 | Danny Keich III |
-| 379 | 172 | Name |
+| 379 | 172 | Jen Roe |
 | 380 | 172 | maria |
-| 381 | 171 | Dayna Arthurs |
-| 382 | 171 | Dapper Strikerpiece |
-| 383 | 170 | Henry Lanier |
-| 384 | 170 | Ross Bryant |
-| 385 | 169 | Valerie Silva |
+| 381 | 172 | Name |
+| 382 | 171 | Dayna Arthurs |
+| 383 | 171 | Dapper Strikerpiece |
+| 384 | 170 | Henry Lanier |
+| 385 | 170 | Ross Bryant |
 | 386 | 169 | Tiffany Smith |
 | 387 | 169 | Miwa |
-| 388 | 168 | Deva Marie Barber |
+| 388 | 168 | Corie A. Brinson |
 | 389 | 168 | Juvon SupaShawdii Brooks |
-| 390 | 168 | Cranky Buildout |
-| 391 | 168 | Corie A. Brinson |
+| 390 | 168 | Deva Marie Barber |
+| 391 | 168 | Cranky Buildout |
 | 392 | 167 | Shanna Fragen |
 | 393 | 167 | Brainbabe |
 | 394 | 166 | Spunky Gridzone |
 | 395 | 166 | Rose Anna Safi |
 | 396 | 166 | Keith Kosmicki |
 | 397 | 165 | Ryan Paul Clark-Ramsey |
-| 398 | 163 | Rita Ann |
-| 399 | 163 | Dizzy Slammer |
+| 398 | 163 | Dizzy Slammer |
+| 399 | 163 | Rita Ann |
 | 400 | 161 | Donna Bush |
 | 401 | 161 | Dominique Melendez |
 | 402 | 160 | Miss Beast |
@@ -415,14 +415,14 @@
 | 407 | 159 | Chirpy Snapclear |
 | 408 | 158 | crobb77 |
 | 409 | 157 | Deborah Silberg |
-| 410 | 156 | Simone |
-| 411 | 156 | Funky Tiler |
-| 412 | 155 | Gary Smallwood |
+| 410 | 156 | Funky Tiler |
+| 411 | 156 | Simone |
+| 412 | 155 | 1694AF |
 | 413 | 155 | Tricia Motika Cowan |
-| 414 | 155 | 1694AF |
-| 415 | 155 | Shayna Vaigneur-Hall |
-| 416 | 154 | Lanelva Tiredofbs Marshall |
-| 417 | 154 | Lani |
+| 414 | 155 | Shayna Vaigneur-Hall |
+| 415 | 155 | Gary Smallwood |
+| 416 | 154 | Lani |
+| 417 | 154 | Lanelva Tiredofbs Marshall |
 | 418 | 154 | Dandy Puzzler |
 | 419 | 154 | Stef |
 | 420 | 153 | Shawntae Mccary |
@@ -526,51 +526,51 @@
 | 518 | 123 | Amanda Snow |
 | 519 | 123 | Kari Smith |
 | 520 | 121 | Brandi Sauer |
-| 521 | 121 | Giggy Snapgrid |
-| 522 | 121 | Fancy Tilefall |
-| 523 | 121 | Jeff Margolis |
-| 524 | 121 | Quiles Yaitza |
-| 525 | 120 | Urplan |
-| 526 | 120 | Ada Rodriguez Spradley |
-| 527 | 120 | Stotty |
-| 528 | 120 | Natalie Dillard |
-| 529 | 120 | Giddy Basepiece |
-| 530 | 120 | Jenn Wilson |
-| 531 | 120 | Glamorous Gracey |
-| 532 | 120 | Allysonjo Varela |
-| 533 | 120 | George Marshburn |
-| 534 | 119 | BookwormCate |
-| 535 | 119 | Kea Sushi |
-| 536 | 119 | Rhonda Dowling |
-| 537 | 119 | Jeri Anne Stormo-Toman |
-| 538 | 119 | Garden Girlie |
+| 521 | 121 | Garden Girlie |
+| 522 | 121 | Giggy Snapgrid |
+| 523 | 121 | Fancy Tilefall |
+| 524 | 121 | Jeff Margolis |
+| 525 | 121 | Quiles Yaitza |
+| 526 | 120 | Urplan |
+| 527 | 120 | Ada Rodriguez Spradley |
+| 528 | 120 | Stotty |
+| 529 | 120 | Natalie Dillard |
+| 530 | 120 | Giddy Basepiece |
+| 531 | 120 | Jenn Wilson |
+| 532 | 120 | Glamorous Gracey |
+| 533 | 120 | Allysonjo Varela |
+| 534 | 120 | George Marshburn |
+| 535 | 119 | Rhonda Dowling |
+| 536 | 119 | Kea Sushi |
+| 537 | 119 | BookwormCate |
+| 538 | 119 | Jeri Anne Stormo-Toman |
 | 539 | 118 | Ian T Parker |
 | 540 | 118 | Jennifer Naughton |
 | 541 | 118 | Nicole Colby McCloskey |
-| 542 | 117 | Kay |
-| 543 | 117 | YenSid |
+| 542 | 117 | LaToya LeBlanc |
+| 543 | 117 | Kay |
 | 544 | 117 | yourmomz |
 | 545 | 117 | Noa Lee |
-| 546 | 117 | LaToya LeBlanc |
+| 546 | 117 | YenSid |
 | 547 | 116 | Toon Up |
 | 548 | 116 | Aaron Turner |
-| 549 | 115 | Edward White |
-| 550 | 115 | Jessica Jones Bolton |
+| 549 | 115 | Jessica Jones Bolton |
+| 550 | 115 | Edward White |
 | 551 | 115 | Hasty Dropzone |
 | 552 | 115 | Nessa Smith |
-| 553 | 114 | MrLoner Stoner |
-| 554 | 114 | LandO |
-| 555 | 114 | Jason Moves |
+| 553 | 114 | LandO |
+| 554 | 114 | Jason Moves |
+| 555 | 114 | MrLoner Stoner |
 | 556 | 113 | Marina |
-| 557 | 113 | TheazO |
-| 558 | 113 | Melissa Anne |
-| 559 | 113 | Breezy Wife |
+| 557 | 113 | Breezy Wife |
+| 558 | 113 | TheazO |
+| 559 | 113 | Melissa Anne |
 | 560 | 112 | Csigirlnc |
 | 561 | 112 | medicjessi |
-| 562 | 111 | Richard Bearse |
-| 563 | 111 | Jeremy Barry |
-| 564 | 111 | Snappy Stack |
-| 565 | 111 | Elena Marí |
+| 562 | 111 | Jeremy Barry |
+| 563 | 111 | Elena Marí |
+| 564 | 111 | Richard Bearse |
+| 565 | 111 | Snappy Stack |
 | 566 | 111 | Janae Harris |
 | 567 | 110 | Luna |
 | 568 | 110 | Andreas Vs Shinky |
