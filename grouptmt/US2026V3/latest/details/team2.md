@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:56:43 UTC
+# Standings for team2 as of 2026-06-08 11:57:21 UTC
 
 **Total Participants:** 2165
 
@@ -20,7 +20,7 @@
 | 12 | 6674 | Christina Jambard Sampier |
 | 13 | 6557 | Dapper Rollout |
 | 14 | 6401 | Bobbi |
-| 15 | 6207 | Tim Ix |
+| 15 | 6227 | Tim Ix |
 | 16 | 6114 | Morgann McDaniel |
 | 17 | 5961 | Brandon Brown |
 | 18 | 5809 | Kathleen M Cox |
@@ -107,9 +107,9 @@
 | 99 | 1049 | Smiley Dropper |
 | 100 | 1031 | Ruby Sandberg |
 | 101 | 1016 | Amber Salazar |
-| 102 | 1000 | LEW |
-| 103 | 1000 | Sydney Headley |
-| 104 | 994 | Josh Twilley |
+| 102 | 1014 | Josh Twilley |
+| 103 | 1000 | LEW |
+| 104 | 1000 | Sydney Headley |
 | 105 | 988 | Dane Marko |
 | 106 | 978 | Renee Freeman Jacobson |
 | 107 | 966 | Allison Jarman |
@@ -147,30 +147,30 @@
 | 139 | 717 | Melissa Thomas |
 | 140 | 708 | Le Sandy |
 | 141 | 689 | Shea |
-| 142 | 686 | Brandon Link |
-| 143 | 684 | Krisanne Kesner-Lonsby |
+| 142 | 687 | Krisanne Kesner-Lonsby |
+| 143 | 686 | Brandon Link |
 | 144 | 682 | Wmk Rathbun |
 | 145 | 679 | Zappy Pattern |
 | 146 | 671 | Gloria May Shook |
 | 147 | 660 | Nikki Carter |
 | 148 | 652 | Amanda Sikes |
-| 149 | 651 | Alison Waller |
-| 150 | 651 | MarioKarasovic |
+| 149 | 651 | MarioKarasovic |
+| 150 | 651 | Alison Waller |
 | 151 | 647 | Nettrainer |
 | 152 | 645 | Jackie Tupper |
 | 153 | 639 | Rhonda Diebold |
 | 154 | 635 | Joslyn Johnson |
 | 155 | 627 | Jgato |
 | 156 | 626 | Dsabrina Maxey |
-| 157 | 619 | Jeska Gaines |
-| 158 | 614 | Kellie Sharp Godfrey |
-| 159 | 613 | Jason Cook |
-| 160 | 609 | Pooh |
-| 161 | 600 | Zesty Strikerbuilder |
-| 162 | 600 | Theresa Marie |
-| 163 | 587 | Kathleen Dumbazz |
-| 164 | 580 | Jamie Jones |
-| 165 | 579 | Cristi Doris |
+| 157 | 619 | Cristi Doris |
+| 158 | 619 | Jeska Gaines |
+| 159 | 614 | Kellie Sharp Godfrey |
+| 160 | 613 | Jason Cook |
+| 161 | 609 | Pooh |
+| 162 | 600 | Zesty Strikerbuilder |
+| 163 | 600 | Theresa Marie |
+| 164 | 587 | Kathleen Dumbazz |
+| 165 | 580 | Jamie Jones |
 | 166 | 578 | Monique Frantz |
 | 167 | 577 | Lindsay Klemp |
 | 168 | 574 | Brandy McCune Reep |
@@ -188,8 +188,8 @@
 | 180 | 528 | Michelle Rich Burkhart |
 | 181 | 524 | Chasity Simpson |
 | 182 | 523 | Bubbly Strikerpiece |
-| 183 | 521 | Steven Craig |
-| 184 | 521 | Kimmyc |
+| 183 | 521 | Kimmyc |
+| 184 | 521 | Steven Craig |
 | 185 | 515 | Loony Faller |
 | 186 | 513 | Thomas Tyrone |
 | 187 | 510 | Samantha Carman |
@@ -208,17 +208,17 @@
 | 200 | 469 | Theresa Hollinger |
 | 201 | 467 | Lisa Underwood Desmond |
 | 202 | 461 | Charles E Mccardell |
-| 203 | 457 | MegaPooh |
-| 204 | 453 | Ashley Green |
-| 205 | 453 | Kimberly Cowan |
-| 206 | 451 | Gill |
-| 207 | 449 | Suki Jacobs |
-| 208 | 449 | Danielle Blount |
-| 209 | 449 | Snappy Blockbuilder |
-| 210 | 448 | Eric Drane |
-| 211 | 445 | Gabrielle Wilson |
-| 212 | 442 | Frilly Dashfit |
-| 213 | 440 | Zany Blockclear |
+| 203 | 460 | Zany Blockclear |
+| 204 | 457 | MegaPooh |
+| 205 | 453 | Ashley Green |
+| 206 | 453 | Kimberly Cowan |
+| 207 | 451 | Gill |
+| 208 | 449 | Suki Jacobs |
+| 209 | 449 | Danielle Blount |
+| 210 | 449 | Snappy Blockbuilder |
+| 211 | 448 | Eric Drane |
+| 212 | 445 | Gabrielle Wilson |
+| 213 | 442 | Frilly Dashfit |
 | 214 | 435 | Nikki Hayes |
 | 215 | 434 | Janelle Edgecombe |
 | 216 | 432 | Twisty Buildgrid |
@@ -482,12 +482,12 @@
 | 474 | 194 | Jessica Connot |
 | 475 | 192 | Loopy Tower |
 | 476 | 192 | Raine |
-| 477 | 191 | Nano. |
-| 478 | 191 | Rydin Dirt |
-| 479 | 190 | Saucy Wrecker |
-| 480 | 190 | Laurie |
-| 481 | 189 | Danielle Lyons |
-| 482 | 189 | Michael Carmichael |
+| 477 | 192 | Michael Carmichael |
+| 478 | 191 | Nano. |
+| 479 | 191 | Rydin Dirt |
+| 480 | 190 | Saucy Wrecker |
+| 481 | 190 | Laurie |
+| 482 | 189 | Danielle Lyons |
 | 483 | 187 | Jaimie Walters |
 | 484 | 186 | Sandra Ruiz |
 | 485 | 186 | Zany Wrecker |
@@ -2011,9 +2011,9 @@
 | 2003 | 12 | Lyndon Schaak |
 | 2004 | 12 | Kathy Arnold |
 | 2005 | 12 | Dawn Burzee |
-| 2006 | 12 | Kjsranch |
-| 2007 | 12 | Mariah Wells |
-| 2008 | 12 | Nikki Blilie |
+| 2006 | 12 | Nikki Blilie |
+| 2007 | 12 | Kjsranch |
+| 2008 | 12 | Mariah Wells |
 | 2009 | 12 | Chipper Gridroll |
 | 2010 | 12 | Judy Harker |
 | 2011 | 12 | Bsancia |
@@ -2030,17 +2030,17 @@
 | 2022 | 11 | Daddy’s Here |
 | 2023 | 11 | Forever Young |
 | 2024 | 11 | Patty Smith |
-| 2025 | 11 | cole |
+| 2025 | 11 | Crafty Combo |
 | 2026 | 11 | Catspjamas |
-| 2027 | 11 | Snippy Blockfall |
-| 2028 | 10 | ANNIE CHAOS |
-| 2029 | 10 | Laura Rake |
-| 2030 | 10 | Alan Baumgardner |
-| 2031 | 10 | crysamoctama57 |
-| 2032 | 10 | shywizard |
-| 2033 | 10 | Breezy Ivy |
-| 2034 | 10 | Mindy Corriher |
-| 2035 | 10 | Crafty Combo |
+| 2027 | 11 | cole |
+| 2028 | 11 | Snippy Blockfall |
+| 2029 | 10 | ANNIE CHAOS |
+| 2030 | 10 | Laura Rake |
+| 2031 | 10 | Alan Baumgardner |
+| 2032 | 10 | crysamoctama57 |
+| 2033 | 10 | shywizard |
+| 2034 | 10 | Breezy Ivy |
+| 2035 | 10 | Mindy Corriher |
 | 2036 | 10 | Dandy Fill |
 | 2037 | 10 | Melissa Metcalf |
 | 2038 | 10 | Tiffany Townsend |
