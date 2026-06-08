@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 13:08:44 UTC
+# Standings for team1 as of 2026-06-08 13:09:20 UTC
 
 **Total Participants:** 1795
 
@@ -63,9 +63,9 @@
 | 55 | 1461 | Janet Cooke |
 | 56 | 1415 | Janine Hunter |
 | 57 | 1313 | Ashley Espeut |
-| 58 | 1259 | Sanjuro |
-| 59 | 1251 | Daylene Johannes |
-| 60 | 1247 | Blockhead |
+| 58 | 1261 | Blockhead |
+| 59 | 1259 | Sanjuro |
+| 60 | 1251 | Daylene Johannes |
 | 61 | 1239 | Holly Jolly |
 | 62 | 1208 | Aviv Zehavi |
 | 63 | 1207 | Angela R Wilson |
@@ -583,15 +583,15 @@
 | 575 | 133 | Kimberly Susan Privette |
 | 576 | 133 | Yashicha Hertzock |
 | 577 | 133 | Marlynnnnn |
-| 578 | 132 | Poyre Shelton |
+| 578 | 132 | Angela Brown Babin |
 | 579 | 132 | Jeffrey Barrows |
 | 580 | 132 | Jack Vlasak |
 | 581 | 132 | Bambam |
-| 582 | 131 | Kimberly Anderson |
-| 583 | 131 | Lynnette WheelerBushnell |
-| 584 | 131 | Karen Denen |
-| 585 | 130 | Kesha Brady |
-| 586 | 130 | Angela Brown Babin |
+| 582 | 132 | Poyre Shelton |
+| 583 | 131 | Kimberly Anderson |
+| 584 | 131 | Lynnette WheelerBushnell |
+| 585 | 131 | Karen Denen |
+| 586 | 130 | Kesha Brady |
 | 587 | 130 | Jessica Davis |
 | 588 | 130 | Gerold Folk Haddock |
 | 589 | 130 | Brenda Malachi-butler |
