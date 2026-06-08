@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:20:42 UTC
+# Standings for team4 as of 2026-06-08 14:21:19 UTC
 
 **Total Participants:** 1843
 
@@ -31,7 +31,7 @@
 | 23 | 4312 | Tyra Brooke Everman Forest |
 | 24 | 4285 | Jackie Lucas |
 | 25 | 4149 | Witty Clicky |
-| 26 | 4067 | Daring Ziggy |
+| 26 | 4117 | Daring Ziggy |
 | 27 | 3935 | TitiLo72 |
 | 28 | 3861 | Tonya Brooks-Johnson |
 | 29 | 3776 | Dana Smith |
@@ -1105,40 +1105,40 @@
 | 1097 | 59 | Sandy Daye |
 | 1098 | 59 | Snippy Fitblock |
 | 1099 | 59 | Remii |
-| 1100 | 59 | Jessica Lestage |
+| 1100 | 59 | Tammy Lasseigne |
 | 1101 | 59 | Jonathan Jackson |
 | 1102 | 59 | Blessedmama |
 | 1103 | 59 | Gwendolyn Langwinski |
 | 1104 | 59 | Joshua Powers |
-| 1105 | 59 | Tammy Lasseigne |
+| 1105 | 59 | Krushie |
 | 1106 | 59 | Denisha Schinell Boyd |
-| 1107 | 59 | Krushie |
-| 1108 | 58 | Ashley McGeehan |
-| 1109 | 58 | Jessica Sanchez |
-| 1110 | 58 | Christopher Farias |
-| 1111 | 58 | Bold Snapper |
-| 1112 | 58 | Kalisha Monique Wright |
-| 1113 | 58 | FuzzyBunny |
+| 1107 | 59 | Hasty Snapmatch |
+| 1108 | 59 | Jessica Lestage |
+| 1109 | 58 | Ashley McGeehan |
+| 1110 | 58 | Jessica Sanchez |
+| 1111 | 58 | Christopher Farias |
+| 1112 | 58 | Bold Snapper |
+| 1113 | 58 | Kalisha Monique Wright |
 | 1114 | 58 | Yaya Selbor |
-| 1115 | 58 | LynDee Danielle Hankins |
-| 1116 | 58 | -daiko |
-| 1117 | 58 | Matt Akm |
-| 1118 | 57 | Budda Huitt |
-| 1119 | 57 | Speedy Brick |
-| 1120 | 57 | Melissa Rathbun |
-| 1121 | 57 | Momma Boss |
-| 1122 | 57 | Brandi Gray |
-| 1123 | 57 | PapaB |
-| 1124 | 57 | Волна Бог |
-| 1125 | 57 | Heather Hilferty |
-| 1126 | 57 | Clever Shuffler |
-| 1127 | 57 | Meela Abdurrab |
-| 1128 | 57 | Savage |
-| 1129 | 57 | Lateasha Wildman |
-| 1130 | 56 | BigCup ReeseCup |
-| 1131 | 56 | Krystalclear |
-| 1132 | 56 | Crystal Morrin |
-| 1133 | 56 | Hasty Snapmatch |
+| 1115 | 58 | FuzzyBunny |
+| 1116 | 58 | LynDee Danielle Hankins |
+| 1117 | 58 | -daiko |
+| 1118 | 58 | Matt Akm |
+| 1119 | 57 | Budda Huitt |
+| 1120 | 57 | Speedy Brick |
+| 1121 | 57 | Melissa Rathbun |
+| 1122 | 57 | Momma Boss |
+| 1123 | 57 | Brandi Gray |
+| 1124 | 57 | Heather Hilferty |
+| 1125 | 57 | PapaB |
+| 1126 | 57 | Волна Бог |
+| 1127 | 57 | Clever Shuffler |
+| 1128 | 57 | Meela Abdurrab |
+| 1129 | 57 | Savage |
+| 1130 | 57 | Lateasha Wildman |
+| 1131 | 56 | BigCup ReeseCup |
+| 1132 | 56 | Krystalclear |
+| 1133 | 56 | Crystal Morrin |
 | 1134 | 56 | Jessica Armistead |
 | 1135 | 56 | TSM Ballsniffer |
 | 1136 | 56 | bribop |
