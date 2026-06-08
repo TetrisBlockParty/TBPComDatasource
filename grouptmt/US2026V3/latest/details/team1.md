@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:18:42 UTC
+# Standings for team1 as of 2026-06-08 06:19:19 UTC
 
 **Total Participants:** 1740
 
@@ -548,57 +548,57 @@
 | 540 | 130 | Jessica Davis |
 | 541 | 130 | Gerold Folk Haddock |
 | 542 | 129 | PSD |
-| 543 | 129 | Loopy Tiler |
-| 544 | 129 | Soubletzy |
+| 543 | 129 | Zany Breaker |
+| 544 | 129 | Logan Frost |
 | 545 | 129 | Lynn |
-| 546 | 129 | JesusSaves 😇 |
-| 547 | 129 | Lucy |
-| 548 | 129 | Logan Frost |
-| 549 | 129 | Zany Breaker |
-| 550 | 128 | BonnieB |
-| 551 | 128 | Zappy Snapgrid |
-| 552 | 128 | Kimberly Anderson |
+| 546 | 129 | Soubletzy |
+| 547 | 129 | Loopy Tiler |
+| 548 | 129 | JesusSaves 😇 |
+| 549 | 129 | Lucy |
+| 550 | 128 | Zappy Snapgrid |
+| 551 | 128 | Kimberly Anderson |
+| 552 | 128 | BonnieB |
 | 553 | 127 | Octavia Bsb Johnson |
-| 554 | 126 | Ryan Runyan |
-| 555 | 126 | Jessie N Michael Silvers |
-| 556 | 126 | Laurie Napper |
-| 557 | 126 | Kahliah Baker |
-| 558 | 126 | Terrie |
-| 559 | 125 | Dizzy Dashy |
+| 554 | 126 | Laurie Napper |
+| 555 | 126 | Kahliah Baker |
+| 556 | 126 | Terrie |
+| 557 | 126 | Jessie N Michael Silvers |
+| 558 | 126 | Ryan Runyan |
+| 559 | 125 | Christina Singleton |
 | 560 | 125 | BB |
-| 561 | 125 | Christina Singleton |
+| 561 | 125 | Dizzy Dashy |
 | 562 | 124 | Jes Marie |
-| 563 | 124 | Li-Li Ratliff |
-| 564 | 124 | Nerdy Climber |
+| 563 | 124 | Nerdy Climber |
+| 564 | 124 | Li-Li Ratliff |
 | 565 | 124 | DellaLucretia Thomas |
 | 566 | 123 | Jackytrain52 |
-| 567 | 123 | Boldy Matchbuilder |
-| 568 | 123 | Daring Riserfit |
-| 569 | 123 | Dizzy Gridmatch |
+| 567 | 123 | Esha I'msoproudofmyself Davis |
+| 568 | 123 | Boldy Matchbuilder |
+| 569 | 123 | Holly Baker |
 | 570 | 123 | Derald Miller |
-| 571 | 123 | Holly Baker |
-| 572 | 122 | Nyhlah Patterson |
+| 571 | 123 | Daring Riserfit |
+| 572 | 123 | Dizzy Gridmatch |
 | 573 | 122 | Xana Zania Bopp |
-| 574 | 122 | Donna Payne |
-| 575 | 121 | Ad Doctor |
-| 576 | 121 | Biggestboss Ransom |
-| 577 | 121 | Tiana Monique |
-| 578 | 121 | Nora Mahmoud |
-| 579 | 120 | Rene Hicks |
-| 580 | 120 | Giggy Edgefit |
-| 581 | 120 | Dianne Clagon |
-| 582 | 120 | Monica Fields |
+| 574 | 122 | Nyhlah Patterson |
+| 575 | 122 | Donna Payne |
+| 576 | 121 | Ad Doctor |
+| 577 | 121 | Biggestboss Ransom |
+| 578 | 121 | Tiana Monique |
+| 579 | 121 | Nora Mahmoud |
+| 580 | 120 | Monica Fields |
+| 581 | 120 | Giggy Edgefit |
+| 582 | 120 | Dianne Clagon |
 | 583 | 120 | Brenda Malachi-butler |
 | 584 | 120 | Leavon Smith |
 | 585 | 120 | Kanary Karotz |
 | 586 | 120 | MindlessMic |
 | 587 | 120 | Latore Maxie |
 | 588 | 120 | Giggly Tiltbuilder |
-| 589 | 119 | Hyy |
-| 590 | 119 | Montréal Mars |
-| 591 | 119 | Lexx Robins |
+| 589 | 120 | Rene Hicks |
+| 590 | 119 | Hyy |
+| 591 | 119 | Montréal Mars |
 | 592 | 119 | TY Newme Batts |
-| 593 | 119 | Esha I'msoproudofmyself Davis |
+| 593 | 119 | Lexx Robins |
 | 594 | 118 | Raymond Boosie Freeman |
 | 595 | 118 | Rhianna Dinki Austin |
 | 596 | 118 | Pretty Yella |
@@ -1531,69 +1531,69 @@
 | 1523 | 16 | Hulk |
 | 1524 | 16 | Lillie Blossom Dixon |
 | 1525 | 16 | JahMilly19 |
-| 1526 | 16 | Giddy Twistslam |
-| 1527 | 16 | Michelle Boutherpaper Francis |
-| 1528 | 16 | Symonne 'Monnie' Pierce |
-| 1529 | 16 | Marcus Roberts |
-| 1530 | 15 | Mayra Diaz |
-| 1531 | 15 | QDeezy1906 |
-| 1532 | 15 | Chill Spinzone |
-| 1533 | 15 | Jonathan Zold |
-| 1534 | 15 | Lit757 |
-| 1535 | 15 | UnionBoss |
-| 1536 | 15 | Hasty Match |
-| 1537 | 15 | Shamara Thurston |
-| 1538 | 15 | Wacky Towerer |
-| 1539 | 15 | Cheery Strikerbuilder |
-| 1540 | 15 | Kris Gray |
-| 1541 | 15 | Happy Towerfall |
-| 1542 | 15 | Bri Lou |
-| 1543 | 15 | Nockallday |
-| 1544 | 15 | The Aries Vixen |
-| 1545 | 15 | Tina Bongcayao |
-| 1546 | 15 | luc |
+| 1526 | 16 | Marcus Roberts |
+| 1527 | 16 | Giddy Twistslam |
+| 1528 | 16 | Michelle Boutherpaper Francis |
+| 1529 | 16 | Symonne 'Monnie' Pierce |
+| 1530 | 15 | Hasty Match |
+| 1531 | 15 | Don Ray Mc |
+| 1532 | 15 | Nockallday |
+| 1533 | 15 | Bri Lou |
+| 1534 | 15 | Happy Towerfall |
+| 1535 | 15 | Kris Gray |
+| 1536 | 15 | Cheery Strikerbuilder |
+| 1537 | 15 | Wacky Towerer |
+| 1538 | 15 | Shamara Thurston |
+| 1539 | 15 | The Aries Vixen |
+| 1540 | 15 | Lit757 |
+| 1541 | 15 | Jonathan Zold |
+| 1542 | 15 | QDeezy1906 |
+| 1543 | 15 | Chill Spinzone |
+| 1544 | 15 | Mayra Diaz |
+| 1545 | 15 | UnionBoss |
+| 1546 | 15 | Tina Bongcayao |
 | 1547 | 15 | Tami Spence |
-| 1548 | 15 | Epic Puzzle |
-| 1549 | 15 | Juanita Richmond |
-| 1550 | 15 | Breezy Bouncer |
-| 1551 | 15 | Daniel Santana |
-| 1552 | 14 | Alonzo Kirkland |
-| 1553 | 14 | Zany Pivot |
-| 1554 | 14 | Dymond |
-| 1555 | 14 | Nerdy Curvetile |
-| 1556 | 14 | Fancy Mover |
-| 1557 | 14 | Stephanie Zuniga Tullock |
-| 1558 | 14 | Jolly Zoner |
-| 1559 | 14 | Jazzy |
-| 1560 | 14 | Barbiebunz |
-| 1561 | 14 | Jerrone Epps |
-| 1562 | 14 | Jennifer Levan |
-| 1563 | 14 | Carmen Claudio |
-| 1564 | 14 | Geno Bankroll McGill |
-| 1565 | 14 | Brandon Knox |
-| 1566 | 13 | Leah Ingram |
-| 1567 | 13 | Tasha Stuckey |
-| 1568 | 13 | Kennita Leach Woodard |
+| 1548 | 15 | luc |
+| 1549 | 15 | Epic Puzzle |
+| 1550 | 15 | Daniel Santana |
+| 1551 | 15 | Juanita Richmond |
+| 1552 | 15 | Breezy Bouncer |
+| 1553 | 14 | Jolly Zoner |
+| 1554 | 14 | Nerdy Curvetile |
+| 1555 | 14 | Fancy Mover |
+| 1556 | 14 | Stephanie Zuniga Tullock |
+| 1557 | 14 | Jazzy |
+| 1558 | 14 | Alonzo Kirkland |
+| 1559 | 14 | Barbiebunz |
+| 1560 | 14 | Jennifer Levan |
+| 1561 | 14 | Carmen Claudio |
+| 1562 | 14 | Geno Bankroll McGill |
+| 1563 | 14 | Zany Pivot |
+| 1564 | 14 | Brandon Knox |
+| 1565 | 14 | Jerrone Epps |
+| 1566 | 14 | Dymond |
+| 1567 | 13 | random |
+| 1568 | 13 | Deanna Pinkard Harrington |
 | 1569 | 13 | Emma Adams |
-| 1570 | 13 | Deanna Pinkard Harrington |
-| 1571 | 13 | random |
-| 1572 | 13 | Ashley Horne |
-| 1573 | 13 | Zesty Clearer |
-| 1574 | 13 | Zachary Sinclair |
-| 1575 | 13 | Emily Burgoon |
-| 1576 | 13 | Hasty Shatterbuilder |
-| 1577 | 12 | Outspoken Sirchristopher |
-| 1578 | 12 | Silly Spinblock |
-| 1579 | 12 | Lavance Sams |
-| 1580 | 12 | Chantae Maxwell |
-| 1581 | 12 | Plucky Twist |
-| 1582 | 12 | Tiffany Ali Shaw |
-| 1583 | 12 | highland cow lover |
-| 1584 | 12 | Peachy Stacker |
-| 1585 | 12 | toye69 |
-| 1586 | 12 | Mamiyoung47 |
-| 1587 | 12 | taz62 |
-| 1588 | 12 | Don Ray Mc |
+| 1570 | 13 | Ashley Horne |
+| 1571 | 13 | Emily Burgoon |
+| 1572 | 13 | Zesty Clearer |
+| 1573 | 13 | Zachary Sinclair |
+| 1574 | 13 | Leah Ingram |
+| 1575 | 13 | Hasty Shatterbuilder |
+| 1576 | 13 | Kennita Leach Woodard |
+| 1577 | 13 | Tasha Stuckey |
+| 1578 | 12 | Lavance Sams |
+| 1579 | 12 | Outspoken Sirchristopher |
+| 1580 | 12 | Silly Spinblock |
+| 1581 | 12 | Chantae Maxwell |
+| 1582 | 12 | Plucky Twist |
+| 1583 | 12 | Tiffany Ali Shaw |
+| 1584 | 12 | highland cow lover |
+| 1585 | 12 | Peachy Stacker |
+| 1586 | 12 | toye69 |
+| 1587 | 12 | Mamiyoung47 |
+| 1588 | 12 | taz62 |
 | 1589 | 12 | Penny Gayles |
 | 1590 | 12 | BigDawg Lessley |
 | 1591 | 12 | Otavia Gordon |
