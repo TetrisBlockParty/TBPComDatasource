@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:00:18 UTC
+# Standings for team1 as of 2026-06-08 02:00:42 UTC
 
 **Total Participants:** 1664
 
@@ -120,8 +120,8 @@
 | 112 | 641 | Frisky Fallmatch |
 | 113 | 631 | Big Tina |
 | 114 | 630 | Bambi Love |
-| 115 | 629 | Jason Mungin |
-| 116 | 627 | Mimi 1.0 |
+| 115 | 630 | Mimi 1.0 |
+| 116 | 629 | Jason Mungin |
 | 117 | 622 | Alana Renee |
 | 118 | 619 | Ottison Dianna |
 | 119 | 618 | Quirky Fallgrid |
@@ -152,8 +152,8 @@
 | 144 | 465 | Cathy Young |
 | 145 | 456 | Andre Sanon |
 | 146 | 452 | Kenny MrOnethousand Peck |
-| 147 | 444 | Kevin M. McGhee Jr |
-| 148 | 444 | Ebony Waynes-robinson |
+| 147 | 447 | Ebony Waynes-robinson |
+| 148 | 444 | Kevin M. McGhee Jr |
 | 149 | 439 | Asani CHumba |
 | 150 | 437 | Tobey Marberry |
 | 151 | 431 | Lashawn Wallace |
@@ -293,68 +293,68 @@
 | 285 | 240 | Nerdy Blockpiece |
 | 286 | 239 | ♈️ Ariesbaby |
 | 287 | 238 | Tootsie Pop |
-| 288 | 237 | Kenny 'Tailormade' Boyd |
-| 289 | 237 | Simone Bailey |
+| 288 | 237 | Simone Bailey |
+| 289 | 237 | Kenny 'Tailormade' Boyd |
 | 290 | 236 | Shameka Thrasher |
-| 291 | 230 | Brittnay Wright |
-| 292 | 230 | Boldy Liner |
+| 291 | 230 | Boldy Liner |
+| 292 | 230 | Brittnay Wright |
 | 293 | 228 | Dion Gray |
 | 294 | 226 | Tipsy Linkroll |
 | 295 | 221 | Chandler Magee |
-| 296 | 220 | Rachael Bakowicz Edwards |
-| 297 | 220 | Christian Pham |
+| 296 | 220 | Christian Pham |
+| 297 | 220 | Rachael Bakowicz Edwards |
 | 298 | 219 | Tamara Johnson-Carter |
 | 299 | 217 | LaShaun Stinson |
-| 300 | 217 | Louise Parker |
-| 301 | 217 | Zippy Tilefall |
+| 300 | 217 | Zippy Tilefall |
+| 301 | 217 | Louise Parker |
 | 302 | 213 | Wild Out Nai |
 | 303 | 213 | Still Ten Tay |
 | 304 | 212 | Simply-Beautiful007 |
-| 305 | 211 | Charletha Williams |
-| 306 | 211 | Snippy Breaker |
-| 307 | 209 | $hort Dog |
+| 305 | 211 | Snippy Breaker |
+| 306 | 211 | Charletha Williams |
+| 307 | 209 | Phillip Vasquez |
 | 308 | 209 | Antonia Wyche |
-| 309 | 209 | Phillip Vasquez |
+| 309 | 209 | $hort Dog |
 | 310 | 208 | Nina Davis |
 | 311 | 205 | Stephen Providenti |
-| 312 | 205 | OhNoZer0 |
-| 313 | 205 | Treneil Daffin |
+| 312 | 205 | Treneil Daffin |
+| 313 | 205 | OhNoZer0 |
 | 314 | 204 | Guy Incognito |
-| 315 | 203 | Daris Swearington |
-| 316 | 202 | Sammie Walker |
+| 315 | 203 | Sarah Clark |
+| 316 | 203 | Daris Swearington |
 | 317 | 202 | Poppy Buildout |
-| 318 | 201 | Rayshawn Cohen |
-| 319 | 201 | Ashleyy Netchert |
-| 320 | 201 | Richard Flex |
-| 321 | 200 | Slinky Party |
+| 318 | 202 | Sammie Walker |
+| 319 | 201 | Rayshawn Cohen |
+| 320 | 201 | Ashleyy Netchert |
+| 321 | 201 | Richard Flex |
 | 322 | 200 | TBABYJ |
-| 323 | 200 | Hailey Hil |
-| 324 | 200 | Sarah Clark |
+| 323 | 200 | Slinky Party |
+| 324 | 200 | Hailey Hil |
 | 325 | 199 | Fina McKinnis |
 | 326 | 195 | kitten |
 | 327 | 194 | Cheery Linkfall |
 | 328 | 193 | izzybella |
-| 329 | 193 | Crystal Cheresnowsky |
-| 330 | 193 | HarleyJane |
+| 329 | 193 | HarleyJane |
+| 330 | 193 | Crystal Cheresnowsky |
 | 331 | 192 | Hyper Blocky |
 | 332 | 191 | Emily Wright |
 | 333 | 190 | Chipper Snapper |
-| 334 | 189 | Jolly Tilefall |
-| 335 | 189 | Tosha Michelle |
-| 336 | 189 | Bambi Johnson |
-| 337 | 189 | Nate Myers |
+| 334 | 189 | Tosha Michelle |
+| 335 | 189 | Nate Myers |
+| 336 | 189 | Jolly Tilefall |
+| 337 | 189 | Bambi Johnson |
 | 338 | 188 | Tyiesha Pie Farmer |
 | 339 | 187 | MACHETEEDDIE513 |
 | 340 | 186 | Lazy Tiltpiece |
 | 341 | 184 | Bbyunicorn |
-| 342 | 184 | Chasem45 |
-| 343 | 184 | Amy Lynn Leifheit |
+| 342 | 184 | Amy Lynn Leifheit |
+| 343 | 184 | Chasem45 |
 | 344 | 183 | Mary Phillippi Blanton |
-| 345 | 182 | Comedian Prince Paul |
-| 346 | 182 | Giggy Tower |
-| 347 | 180 | Maribel Vasquez |
+| 345 | 182 | Giggy Tower |
+| 346 | 182 | Comedian Prince Paul |
+| 347 | 180 | Eric Spencer Whitaker |
 | 348 | 180 | LaToya Chambers |
-| 349 | 180 | Eric Spencer Whitaker |
+| 349 | 180 | Maribel Vasquez |
 | 350 | 180 | Daddy |
 | 351 | 180 | Zippy Lifter |
 | 352 | 179 | Lively Riserpiece |

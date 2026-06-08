@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:00:18 UTC
+# Standings for team2 as of 2026-06-08 02:00:42 UTC
 
 **Total Participants:** 2020
 
@@ -145,7 +145,7 @@
 | 137 | 643 | Alison Waller |
 | 138 | 635 | Tisha Hairston |
 | 139 | 634 | Melissa Thomas |
-| 140 | 630 | Jackie Tupper |
+| 140 | 632 | Jackie Tupper |
 | 141 | 627 | Nettrainer |
 | 142 | 627 | Rhonda Diebold |
 | 143 | 626 | Dsabrina Maxey |
@@ -247,8 +247,8 @@
 | 239 | 346 | Chasity Simpson |
 | 240 | 344 | Lora Via |
 | 241 | 343 | Ratchet |
-| 242 | 340 | Marge Cromer |
-| 243 | 340 | Michelle Luke Banta |
+| 242 | 341 | Michelle Luke Banta |
+| 243 | 340 | Marge Cromer |
 | 244 | 339 | Keri Mears |
 | 245 | 337 | Ashley Billiot Rhodes |
 | 246 | 337 | Adriana Daniela Agapie |
@@ -486,69 +486,69 @@
 | 478 | 167 | Cara Rivera |
 | 479 | 166 | Darla Nolt |
 | 480 | 166 | Wayne Johnson |
-| 481 | 165 | Sandy Justus |
-| 482 | 165 | Nicky Steigerwalt |
-| 483 | 165 | Spunky Cascadeclear |
-| 484 | 164 | Silly Tiltbuilder |
-| 485 | 163 | Zany Cascader |
-| 486 | 162 | Wacky Holder |
-| 487 | 162 | Ashley Miller |
-| 488 | 160 | Billie Jensen |
-| 489 | 160 | Jumpy Dashpiece |
+| 481 | 166 | Carl Mccoy |
+| 482 | 165 | Sandy Justus |
+| 483 | 165 | Nicky Steigerwalt |
+| 484 | 165 | Spunky Cascadeclear |
+| 485 | 164 | Silly Tiltbuilder |
+| 486 | 163 | Zany Cascader |
+| 487 | 162 | Wacky Holder |
+| 488 | 162 | Ashley Miller |
+| 489 | 160 | Billie Jensen |
 | 490 | 160 | James Sayers |
-| 491 | 160 | Jessica Perkins |
-| 492 | 160 | Marilyn Strickland |
-| 493 | 160 | Jana Campbell |
-| 494 | 160 | Elizabeth Cornelius |
-| 495 | 159 | Jennifer Vitro |
-| 496 | 159 | Talyn Domingues |
+| 491 | 160 | Jumpy Dashpiece |
+| 492 | 160 | Jessica Perkins |
+| 493 | 160 | Marilyn Strickland |
+| 494 | 160 | Jana Campbell |
+| 495 | 160 | Elizabeth Cornelius |
+| 496 | 159 | Jennifer Vitro |
 | 497 | 159 | Sherri Caillet Aucoin |
 | 498 | 159 | Misty Noe |
 | 499 | 159 | Michelle Powers Chattaway |
 | 500 | 159 | Teresa Mandich |
-| 501 | 158 | Mike Mordhorst |
-| 502 | 158 | Ceci |
-| 503 | 158 | Chrystal |
-| 504 | 157 | Dana Vaiden Rivers |
-| 505 | 157 | Hillary Frank |
-| 506 | 156 | TetrisMama |
-| 507 | 156 | Jennifer Lalk |
-| 508 | 156 | Aurora June Brock |
-| 509 | 156 | Charlotte Castelli |
-| 510 | 155 | Leigh Wilkerson |
-| 511 | 155 | Nicole Good |
+| 501 | 159 | Talyn Domingues |
+| 502 | 158 | Mike Mordhorst |
+| 503 | 158 | Ceci |
+| 504 | 158 | Chrystal |
+| 505 | 157 | Dana Vaiden Rivers |
+| 506 | 157 | Hillary Frank |
+| 507 | 156 | TetrisMama |
+| 508 | 156 | Jennifer Lalk |
+| 509 | 156 | Aurora June Brock |
+| 510 | 156 | Charlotte Castelli |
+| 511 | 155 | Leigh Wilkerson |
 | 512 | 155 | Renee Siems |
-| 513 | 154 | Barb Kiser |
+| 513 | 155 | Nicole Good |
 | 514 | 154 | Chummy Snapbuilder |
 | 515 | 154 | Belle |
-| 516 | 154 | Kristi Chestnut |
-| 517 | 154 | Cindy Scott |
-| 518 | 153 | Cortney Coleman |
-| 519 | 153 | Wendy Mcbride |
-| 520 | 152 | Chilly Surge |
-| 521 | 152 | Ssirkus |
-| 522 | 152 | Simone F |
-| 523 | 151 | Joshua Hopkins |
-| 524 | 151 | Amy Lea Hamilton |
-| 525 | 151 | Ava Speedy |
-| 526 | 151 | Alyssa Malay |
-| 527 | 150 | Tina |
-| 528 | 150 | Elizabeth Kline |
-| 529 | 150 | Plucky Grabber |
-| 530 | 150 | Sarah Rodriguez |
-| 531 | 149 | Justin Stark |
-| 532 | 148 | Crystal Robinson |
+| 516 | 154 | Barb Kiser |
+| 517 | 154 | Kristi Chestnut |
+| 518 | 154 | Cindy Scott |
+| 519 | 153 | Cortney Coleman |
+| 520 | 153 | Wendy Mcbride |
+| 521 | 152 | Chilly Surge |
+| 522 | 152 | Ssirkus |
+| 523 | 152 | Simone F |
+| 524 | 151 | Joshua Hopkins |
+| 525 | 151 | Amy Lea Hamilton |
+| 526 | 151 | Ava Speedy |
+| 527 | 151 | Alyssa Malay |
+| 528 | 150 | Tina |
+| 529 | 150 | Sarah Rodriguez |
+| 530 | 150 | Elizabeth Kline |
+| 531 | 150 | Plucky Grabber |
+| 532 | 149 | Justin Stark |
 | 533 | 148 | rageking |
 | 534 | 148 | NickandJess Reynolds |
-| 535 | 147 | Carl Mccoy |
-| 536 | 147 | Gina Louise Parker |
-| 537 | 147 | MamaRachel |
-| 538 | 147 | Nikki Hatch |
+| 535 | 148 | Crystal Robinson |
+| 536 | 147 | Nikki Hatch |
+| 537 | 147 | Gina Louise Parker |
+| 538 | 147 | MamaRachel |
 | 539 | 146 | Christine James |
-| 540 | 146 | Dana Wilson |
-| 541 | 146 | Candi Cane |
-| 542 | 145 | Lee Leonard |
-| 543 | 145 | Muffin Popper |
+| 540 | 146 | Candi Cane |
+| 541 | 146 | Dana Wilson |
+| 542 | 145 | Muffin Popper |
+| 543 | 145 | Lee Leonard |
 | 544 | 145 | Alicia Parrish |
 | 545 | 145 | Thy Bui |
 | 546 | 144 | Epic Framezone |
@@ -1139,33 +1139,33 @@
 | 1131 | 58 | Distro |
 | 1132 | 58 | Slinky Winder |
 | 1133 | 58 | Joslyn Erickson |
-| 1134 | 58 | Debra May |
-| 1135 | 58 | Dapper Spinbuilder |
-| 1136 | 58 | Anzhen |
-| 1137 | 58 | Melissa Willson |
-| 1138 | 57 | Angie Barlow |
-| 1139 | 57 | Rachel |
-| 1140 | 57 | Dandy Column |
-| 1141 | 57 | Funky Blockmatch |
-| 1142 | 57 | Brooke Marie Fox |
-| 1143 | 57 | Britt |
-| 1144 | 57 | Brandy Wallace |
-| 1145 | 57 | Corina Marie Prunty |
-| 1146 | 57 | Rey Huber |
-| 1147 | 56 | Rob Phillips |
-| 1148 | 56 | Jack |
+| 1134 | 58 | Jazzy |
+| 1135 | 58 | Debra May |
+| 1136 | 58 | Dapper Spinbuilder |
+| 1137 | 58 | Anzhen |
+| 1138 | 58 | Melissa Willson |
+| 1139 | 57 | Angie Barlow |
+| 1140 | 57 | Rachel |
+| 1141 | 57 | Rey Huber |
+| 1142 | 57 | Dandy Column |
+| 1143 | 57 | Funky Blockmatch |
+| 1144 | 57 | Brooke Marie Fox |
+| 1145 | 57 | Britt |
+| 1146 | 57 | Brandy Wallace |
+| 1147 | 57 | Corina Marie Prunty |
+| 1148 | 56 | Rob Phillips |
 | 1149 | 56 | Bunny Bt |
-| 1150 | 56 | Daniel Cline |
-| 1151 | 56 | Danielle Etchison Mask |
-| 1152 | 56 | Bobbie Carrol |
-| 1153 | 56 | Jazzy |
+| 1150 | 56 | Jack |
+| 1151 | 56 | Bobbie Carrol |
+| 1152 | 56 | Daniel Cline |
+| 1153 | 56 | Danielle Etchison Mask |
 | 1154 | 56 | Jennifer Augustine |
 | 1155 | 56 | Kevin Perez |
 | 1156 | 55 | GentleGiant Brackett |
 | 1157 | 55 | Gilbert Medina |
 | 1158 | 55 | Angiela Hope Boggs |
-| 1159 | 55 | Teloney Humphrey |
-| 1160 | 55 | Stephanie |
+| 1159 | 55 | Stephanie |
+| 1160 | 55 | Teloney Humphrey |
 | 1161 | 55 | Misty McElroy |
 | 1162 | 55 | James Calhoun |
 | 1163 | 54 | Jumpy Linkroll |
@@ -1181,23 +1181,23 @@
 | 1173 | 53 | Jeannine Murphy |
 | 1174 | 53 | Happy Shatterblock |
 | 1175 | 53 | Jenifer Gasho |
-| 1176 | 53 | Topknot13 |
-| 1177 | 53 | Thomas Johnstone |
-| 1178 | 53 | Maithan Conour |
-| 1179 | 53 | Gigi |
-| 1180 | 53 | CK Hancock |
+| 1176 | 53 | CK Hancock |
+| 1177 | 53 | Topknot13 |
+| 1178 | 53 | Thomas Johnstone |
+| 1179 | 53 | Maithan Conour |
+| 1180 | 53 | Gigi |
 | 1181 | 52 | Chipper Spinzone |
-| 1182 | 52 | Dolly |
-| 1183 | 52 | Amber Marie Lacey |
-| 1184 | 52 | Samantha LeBlanc |
-| 1185 | 52 | Lisa Rose |
+| 1182 | 52 | Amber Marie Lacey |
+| 1183 | 52 | Dolly |
+| 1184 | 52 | Lisa Rose |
+| 1185 | 52 | Samantha LeBlanc |
 | 1186 | 52 | Heather Nicole |
 | 1187 | 51 | Stacy Shaunce |
 | 1188 | 51 | Ramona Peña |
 | 1189 | 51 | Spunky Piecebuilder |
-| 1190 | 51 | Loopy Zone |
-| 1191 | 51 | Tiffany Powell |
-| 1192 | 51 | Cary M. Fong |
+| 1190 | 51 | Tiffany Powell |
+| 1191 | 51 | Cary M. Fong |
+| 1192 | 51 | Loopy Zone |
 | 1193 | 51 | Jess |
 | 1194 | 51 | Staci Carl |
 | 1195 | 51 | Kandy Comer |
