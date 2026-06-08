@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:28:19 UTC
+# Standings for team2 as of 2026-06-08 06:28:41 UTC
 
 **Total Participants:** 2124
 
@@ -1334,9 +1334,9 @@
 | 1326 | 50 | Lakeisha Ryder |
 | 1327 | 50 | Whitt |
 | 1328 | 50 | Jennifer Wymer |
-| 1329 | 50 | Jenna Thorn |
-| 1330 | 50 | Steve Appel |
-| 1331 | 50 | Tabitha Palen |
+| 1329 | 50 | Tabitha Palen |
+| 1330 | 50 | Jenna Thorn |
+| 1331 | 50 | Steve Appel |
 | 1332 | 49 | Yany |
 | 1333 | 49 | Katie Magner |
 | 1334 | 49 | unvoiced |
@@ -1344,17 +1344,17 @@
 | 1336 | 48 | Jaelyn Orr |
 | 1337 | 48 | CowboyChalie |
 | 1338 | 48 | Shawn Bolt |
-| 1339 | 48 | Hoppy Gridder |
-| 1340 | 48 | Krystle McCaslin |
-| 1341 | 48 | Annie Hebdon |
-| 1342 | 48 | Laura Zavala |
-| 1343 | 48 | Anthony Kordich |
-| 1344 | 48 | Glitzy Stack |
-| 1345 | 48 | Katelynn Hunt |
-| 1346 | 48 | Pleaze Marshall |
-| 1347 | 47 | SarahandAaron Prim |
+| 1339 | 48 | Krystle McCaslin |
+| 1340 | 48 | Annie Hebdon |
+| 1341 | 48 | Hoppy Gridder |
+| 1342 | 48 | Katelynn Hunt |
+| 1343 | 48 | Pleaze Marshall |
+| 1344 | 48 | Laura Zavala |
+| 1345 | 48 | Glitzy Stack |
+| 1346 | 48 | Anthony Kordich |
+| 1347 | 47 | Ozge Akgun Tokat |
 | 1348 | 47 | Spicy Enchilada |
-| 1349 | 47 | Ozge Akgun Tokat |
+| 1349 | 47 | SarahandAaron Prim |
 | 1350 | 47 | Bruce Bower |
 | 1351 | 47 | Chey |
 | 1352 | 47 | Angela Knighton |
@@ -1366,48 +1366,48 @@
 | 1358 | 46 | Spunky Snapfall |
 | 1359 | 46 | Octavius Walker |
 | 1360 | 46 | Elizabeth Barnhart Floyd |
-| 1361 | 46 | Collins |
-| 1362 | 46 | Cozy Curve |
-| 1363 | 46 | Rochelle O'Loughlin |
-| 1364 | 46 | Matthew Black |
+| 1361 | 46 | Kodi Gay |
+| 1362 | 46 | Matthew Black |
+| 1363 | 46 | Trena Sapp |
+| 1364 | 46 | Thomas Chris |
 | 1365 | 46 | Loony Ziggy |
-| 1366 | 46 | Trena Sapp |
-| 1367 | 46 | Thomas Chris |
-| 1368 | 46 | Kodi Gay |
-| 1369 | 45 | Michelle Edgin Tranbarger |
-| 1370 | 45 | Nikki |
-| 1371 | 45 | Devon |
-| 1372 | 45 | Nora Buchan |
-| 1373 | 45 | Chill Wipegrid |
-| 1374 | 45 | Frothy Cascader |
-| 1375 | 45 | JEEPER |
-| 1376 | 45 | Witty Brickster |
-| 1377 | 45 | Missy Stevens |
-| 1378 | 45 | Giggy Snapper |
-| 1379 | 45 | Jennifer Nelson |
-| 1380 | 45 | Jason M Barnes |
-| 1381 | 45 | Tommi Lynn Lawson |
-| 1382 | 45 | STARFIRE |
-| 1383 | 44 | Lori Antrim Nichols |
-| 1384 | 44 | Brittany Russell |
-| 1385 | 44 | William Richardson |
-| 1386 | 44 | Crafty Shatterer |
-| 1387 | 44 | Melinda Rausch |
-| 1388 | 44 | Lisa |
-| 1389 | 44 | Brenda Leonard |
-| 1390 | 44 | Nicole Dyer |
-| 1391 | 44 | Milwaukee Area Cleaning |
-| 1392 | 44 | Kendra Sullins |
-| 1393 | 44 | Cuca Perez |
-| 1394 | 44 | Erica Abreu |
-| 1395 | 44 | Tam |
+| 1366 | 46 | Collins |
+| 1367 | 46 | Cozy Curve |
+| 1368 | 46 | Milwaukee Area Cleaning |
+| 1369 | 46 | Rochelle O'Loughlin |
+| 1370 | 45 | Nora Buchan |
+| 1371 | 45 | Chill Wipegrid |
+| 1372 | 45 | Frothy Cascader |
+| 1373 | 45 | Nikki |
+| 1374 | 45 | Devon |
+| 1375 | 45 | Michelle Edgin Tranbarger |
+| 1376 | 45 | JEEPER |
+| 1377 | 45 | Witty Brickster |
+| 1378 | 45 | Missy Stevens |
+| 1379 | 45 | Giggy Snapper |
+| 1380 | 45 | Jennifer Nelson |
+| 1381 | 45 | Jason M Barnes |
+| 1382 | 45 | Tommi Lynn Lawson |
+| 1383 | 45 | STARFIRE |
+| 1384 | 44 | Lori Antrim Nichols |
+| 1385 | 44 | Brittany Russell |
+| 1386 | 44 | William Richardson |
+| 1387 | 44 | Crafty Shatterer |
+| 1388 | 44 | Melinda Rausch |
+| 1389 | 44 | Lisa |
+| 1390 | 44 | Brenda Leonard |
+| 1391 | 44 | Nicole Dyer |
+| 1392 | 44 | Tam |
+| 1393 | 44 | Kendra Sullins |
+| 1394 | 44 | Cuca Perez |
+| 1395 | 44 | Erica Abreu |
 | 1396 | 43 | Amy Hahn Nickels |
 | 1397 | 43 | Kayla Faulkiner |
 | 1398 | 43 | Fluffypuffin |
 | 1399 | 43 | Aguilar Rita |
 | 1400 | 43 | Betty Muise |
-| 1401 | 43 | Kourtney Heiden-Hudson |
-| 1402 | 43 | Dreamy Wipepiece |
+| 1401 | 43 | Dreamy Wipepiece |
+| 1402 | 43 | Kourtney Heiden-Hudson |
 | 1403 | 43 | Quirky Shifter |
 | 1404 | 43 | Patricia Ann Tondreault Hammonds |
 | 1405 | 43 | Maurice Bethel |

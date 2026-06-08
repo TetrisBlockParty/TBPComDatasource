@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:28:19 UTC
+# Standings for team1 as of 2026-06-08 06:28:41 UTC
 
 **Total Participants:** 1744
 
@@ -102,9 +102,9 @@
 | 94 | 806 | Jaida De'Anne Cox |
 | 95 | 798 | Voice |
 | 96 | 795 | Joy Citizen Pickney |
-| 97 | 787 | Dawn L Washington-Feuquay |
-| 98 | 774 | Jason Mungin |
-| 99 | 769 | Jaida King |
+| 97 | 789 | Jason Mungin |
+| 98 | 787 | Dawn L Washington-Feuquay |
+| 99 | 784 | Jaida King |
 | 100 | 754 | LeeLee08 |
 | 101 | 749 | Aviv Zehavi |
 | 102 | 747 | Yolanda E Fergerson |
@@ -217,8 +217,8 @@
 | 209 | 354 | Block King |
 | 210 | 354 | Keke Ferguson |
 | 211 | 352 | Jayjay Rich |
-| 212 | 350 | Slim Shedidthat |
-| 213 | 348 | IThinkNot |
+| 212 | 350 | IThinkNot |
+| 213 | 350 | Slim Shedidthat |
 | 214 | 347 | Tamara N Lee |
 | 215 | 345 | Ebony |
 | 216 | 343 | Yasmin Nakea Wright |
@@ -1539,97 +1539,97 @@
 | 1531 | 16 | JahMilly19 |
 | 1532 | 16 | Michelle Boutherpaper Francis |
 | 1533 | 15 | Wacky Towerer |
-| 1534 | 15 | Cheery Strikerbuilder |
-| 1535 | 15 | Breezy Bouncer |
-| 1536 | 15 | UnionBoss |
-| 1537 | 15 | Happy Towerfall |
-| 1538 | 15 | Shamara Thurston |
-| 1539 | 15 | Lit757 |
-| 1540 | 15 | Kris Gray |
-| 1541 | 15 | luc |
-| 1542 | 15 | The Aries Vixen |
-| 1543 | 15 | Jonathan Zold |
-| 1544 | 15 | Mayra Diaz |
-| 1545 | 15 | Nockallday |
-| 1546 | 15 | QDeezy1906 |
-| 1547 | 15 | Tina Bongcayao |
+| 1534 | 15 | Annette DeLoatch Thompson |
+| 1535 | 15 | Nockallday |
+| 1536 | 15 | QDeezy1906 |
+| 1537 | 15 | Mayra Diaz |
+| 1538 | 15 | Jonathan Zold |
+| 1539 | 15 | The Aries Vixen |
+| 1540 | 15 | UnionBoss |
+| 1541 | 15 | Breezy Bouncer |
+| 1542 | 15 | Lit757 |
+| 1543 | 15 | Cheery Strikerbuilder |
+| 1544 | 15 | Happy Towerfall |
+| 1545 | 15 | Shamara Thurston |
+| 1546 | 15 | luc |
+| 1547 | 15 | Kris Gray |
 | 1548 | 15 | Epic Puzzle |
-| 1549 | 15 | Tami Spence |
-| 1550 | 15 | Hasty Match |
-| 1551 | 15 | Bri Lou |
-| 1552 | 15 | Juanita Richmond |
-| 1553 | 15 | Chill Spinzone |
-| 1554 | 15 | Annette DeLoatch Thompson |
-| 1555 | 14 | Nerdy Curvetile |
-| 1556 | 14 | Carmen Claudio |
-| 1557 | 14 | Brandon Knox |
-| 1558 | 14 | Dymond |
-| 1559 | 14 | Jerrone Epps |
-| 1560 | 14 | Geno Bankroll McGill |
-| 1561 | 14 | Jennifer Levan |
-| 1562 | 14 | Jolly Zoner |
-| 1563 | 14 | Jazzy |
-| 1564 | 14 | Barbiebunz |
-| 1565 | 14 | Alonzo Kirkland |
-| 1566 | 14 | Stephanie Zuniga Tullock |
-| 1567 | 14 | Fancy Mover |
-| 1568 | 14 | Zany Pivot |
-| 1569 | 13 | Zesty Clearer |
-| 1570 | 13 | Tasha Stuckey |
-| 1571 | 13 | Emily Burgoon |
-| 1572 | 13 | Zachary Sinclair |
-| 1573 | 13 | Leah Ingram |
-| 1574 | 13 | random |
-| 1575 | 13 | Hasty Shatterbuilder |
+| 1549 | 15 | Chill Spinzone |
+| 1550 | 15 | Juanita Richmond |
+| 1551 | 15 | Tina Bongcayao |
+| 1552 | 15 | Tami Spence |
+| 1553 | 15 | Hasty Match |
+| 1554 | 15 | Bri Lou |
+| 1555 | 14 | Geno Bankroll McGill |
+| 1556 | 14 | Dymond |
+| 1557 | 14 | Zany Pivot |
+| 1558 | 14 | Carmen Claudio |
+| 1559 | 14 | Brandon Knox |
+| 1560 | 14 | Jazzy |
+| 1561 | 14 | Jerrone Epps |
+| 1562 | 14 | Stephanie Zuniga Tullock |
+| 1563 | 14 | Jennifer Levan |
+| 1564 | 14 | Jolly Zoner |
+| 1565 | 14 | Nerdy Curvetile |
+| 1566 | 14 | Barbiebunz |
+| 1567 | 14 | Alonzo Kirkland |
+| 1568 | 14 | Fancy Mover |
+| 1569 | 13 | Zachary Sinclair |
+| 1570 | 13 | Leah Ingram |
+| 1571 | 13 | random |
+| 1572 | 13 | Emma Adams |
+| 1573 | 13 | Hasty Shatterbuilder |
+| 1574 | 13 | Zesty Clearer |
+| 1575 | 13 | Emily Burgoon |
 | 1576 | 13 | Deanna Pinkard Harrington |
-| 1577 | 13 | Emma Adams |
+| 1577 | 13 | sha |
 | 1578 | 13 | Kennita Leach Woodard |
-| 1579 | 13 | Ashley Horne |
-| 1580 | 12 | Chantae Maxwell |
-| 1581 | 12 | taz62 |
-| 1582 | 12 | BigDawg Lessley |
-| 1583 | 12 | Tiffany Ali Shaw |
+| 1579 | 13 | Tasha Stuckey |
+| 1580 | 13 | Ashley Horne |
+| 1581 | 12 | Chantae Maxwell |
+| 1582 | 12 | Penny Gayles |
+| 1583 | 12 | Shelly Marie |
 | 1584 | 12 | Outspoken Sirchristopher |
-| 1585 | 12 | Shelly Marie |
-| 1586 | 12 | Penny Gayles |
-| 1587 | 12 | Plucky Twist |
-| 1588 | 12 | Mamiyoung47 |
+| 1585 | 12 | taz62 |
+| 1586 | 12 | BigDawg Lessley |
+| 1587 | 12 | Tiffany Ali Shaw |
+| 1588 | 12 | Silly Spinblock |
 | 1589 | 12 | Otavia Gordon |
-| 1590 | 12 | Peachy Stacker |
-| 1591 | 12 | Silly Spinblock |
+| 1590 | 12 | Mamiyoung47 |
+| 1591 | 12 | Peachy Stacker |
 | 1592 | 12 | highland cow lover |
 | 1593 | 12 | Lavance Sams |
 | 1594 | 12 | toye69 |
-| 1595 | 11 | Jayson |
+| 1595 | 12 | Plucky Twist |
 | 1596 | 11 | pizzapie |
-| 1597 | 11 | Patrick Taylor |
-| 1598 | 11 | Lakesha Jackson- Anderson |
-| 1599 | 11 | Snappy Towerpiece |
-| 1600 | 11 | Alex Jacks |
-| 1601 | 11 | Daron White |
+| 1597 | 11 | Jayson |
+| 1598 | 11 | Patrick Taylor |
+| 1599 | 11 | Lakesha Jackson- Anderson |
+| 1600 | 11 | Snappy Towerpiece |
+| 1601 | 11 | Alex Jacks |
 | 1602 | 11 | Deborah |
-| 1603 | 11 | Edward Croom |
-| 1604 | 11 | Lush Buildsnap |
-| 1605 | 11 | KiJoCo |
-| 1606 | 11 | sha |
-| 1607 | 11 | Groovy Climber |
-| 1608 | 11 | Amber Laine |
-| 1609 | 10 | Steve Renelus |
-| 1610 | 10 | Crystal Segura |
+| 1603 | 11 | Daron White |
+| 1604 | 11 | Edward Croom |
+| 1605 | 11 | Lush Buildsnap |
+| 1606 | 11 | KiJoCo |
+| 1607 | 11 | Amber Laine |
+| 1608 | 11 | Groovy Climber |
+| 1609 | 10 | Crystal Segura |
+| 1610 | 10 | Steve Renelus |
 | 1611 | 10 | Key Gracia |
-| 1612 | 10 | Lazy Chiseler |
-| 1613 | 10 | Love Tara |
-| 1614 | 10 | Jonay Zuri |
-| 1615 | 10 | Tranica Sterling |
-| 1616 | 10 | Upt |
-| 1617 | 10 | Angela C. |
-| 1618 | 10 | Jamal D. Wiley |
-| 1619 | 10 | Twisty Linkgrid |
-| 1620 | 10 | Moneyy Munrow  |
-| 1621 | 10 | Truthful |
-| 1622 | 10 | Tea |
-| 1623 | 10 | Kim Smith |
-| 1624 | 10 | Catrina Zedd |
+| 1612 | 10 | Catrina Zedd |
+| 1613 | 10 | Omar Dotray |
+| 1614 | 10 | Love Tara |
+| 1615 | 10 | Jonay Zuri |
+| 1616 | 10 | Tranica Sterling |
+| 1617 | 10 | Lazy Chiseler |
+| 1618 | 10 | Angela C. |
+| 1619 | 10 | Jamal D. Wiley |
+| 1620 | 10 | Twisty Linkgrid |
+| 1621 | 10 | Moneyy Munrow  |
+| 1622 | 10 | Truthful |
+| 1623 | 10 | Tea |
+| 1624 | 10 | Kim Smith |
 | 1625 | 10 | Tamara Farmer |
 | 1626 | 10 | Grace Page |
 | 1627 | 10 | Jackee Chee-Ming |
@@ -1640,19 +1640,19 @@
 | 1632 | 10 | Ciera Spottedelk |
 | 1633 | 10 | Yvonne Aggers |
 | 1634 | 10 | Pamela Morrow Jones |
-| 1635 | 10 | Omar Dotray |
-| 1636 | 10 | Jimel Fraser |
-| 1637 | 10 | Tynetta Scott |
-| 1638 | 10 | Brownie |
-| 1639 | 10 | Willard Junior |
-| 1640 | 10 | Latrice Smith |
+| 1635 | 10 | Jimel Fraser |
+| 1636 | 10 | Tynetta Scott |
+| 1637 | 10 | Brownie |
+| 1638 | 10 | Willard Junior |
+| 1639 | 10 | Latrice Smith |
+| 1640 | 10 | Upt |
 | 1641 | 10 | Angela Roseburgh |
 | 1642 | 10 | Ladii Libra |
-| 1643 | 9 | Dana |
-| 1644 | 9 | John Lovato |
-| 1645 | 9 | Yester |
-| 1646 | 9 | Groovy Twisterfit |
-| 1647 | 9 | Clifford Petroske |
+| 1643 | 9 | Clifford Petroske |
+| 1644 | 9 | Dana |
+| 1645 | 9 | John Lovato |
+| 1646 | 9 | Yester |
+| 1647 | 9 | Groovy Twisterfit |
 | 1648 | 9 | Sheldon Grosso |
 | 1649 | 9 | Sunset Owens |
 | 1650 | 9 | Shiny Crusher |
