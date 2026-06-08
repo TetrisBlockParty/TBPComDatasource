@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:14:20 UTC
+# Standings for team1 as of 2026-06-08 08:14:43 UTC
 
 **Total Participants:** 1762
 
@@ -118,7 +118,7 @@
 | 110 | 720 | Felicia Williams |
 | 111 | 718 | TAZ-MF-NIZIL |
 | 112 | 692 | Chirpy Corner |
-| 113 | 681 | Slinky Puzzler |
+| 113 | 691 | Slinky Puzzler |
 | 114 | 680 | Mimi 1.0 |
 | 115 | 676 | W.A. Simpson |
 | 116 | 668 | Jonathan Vee Jay |

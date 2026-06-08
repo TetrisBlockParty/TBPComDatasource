@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:14:20 UTC
+# Standings for team4 as of 2026-06-08 08:14:43 UTC
 
 **Total Participants:** 1799
 
@@ -17,7 +17,7 @@
 | 9 | 6401 | BertaF1irta |
 | 10 | 6108 | Kait Confetti |
 | 11 | 5307 | Hasty Builder |
-| 12 | 5203 | Bubbly Twistpiece |
+| 12 | 5208 | Bubbly Twistpiece |
 | 13 | 5180 | Jerald Jones |
 | 14 | 5123 | delilahbelle |
 | 15 | 5041 | Squirrel Donkey |
@@ -136,12 +136,12 @@
 | 128 | 594 | Daryn Elliott |
 | 129 | 593 | Malik Thompson |
 | 130 | 591 | Jewelz |
-| 131 | 584 | Jesse Olive |
-| 132 | 582 | Lisa Garcia |
-| 133 | 567 | Cranky Towerbuilder |
+| 131 | 587 | Cranky Towerbuilder |
+| 132 | 584 | Jesse Olive |
+| 133 | 582 | Lisa Garcia |
 | 134 | 566 | Dee Wizz |
-| 135 | 564 | Krysten Danielle Richard |
-| 136 | 564 | Melissa WC |
+| 135 | 564 | Melissa WC |
+| 136 | 564 | Krysten Danielle Richard |
 | 137 | 555 | iiPurgeV2 |
 | 138 | 550 | Nicole Peoples |
 | 139 | 549 | Pepone Pepe |
@@ -163,11 +163,11 @@
 | 155 | 452 | Kaash Brxtt |
 | 156 | 447 | Jacqueline Jackii Ramos |
 | 157 | 446 | Laguya |
-| 158 | 443 | Joyce Myers |
-| 159 | 443 | Crissy Hoffman |
+| 158 | 443 | Crissy Hoffman |
+| 159 | 443 | Joyce Myers |
 | 160 | 441 | Iforget |
-| 161 | 438 | Aisha Estrada |
-| 162 | 438 | Real Talk Vibes |
+| 161 | 438 | Real Talk Vibes |
+| 162 | 438 | Aisha Estrada |
 | 163 | 437 | Danielle Mitchell |
 | 164 | 435 | BusterBear56 |
 | 165 | 432 | Scamp Jones |
@@ -184,10 +184,10 @@
 | 176 | 409 | Hen |
 | 177 | 405 | HurkleDurkle88 |
 | 178 | 400 | Amber Doyle |
-| 179 | 395 | Bobbie Harrell |
-| 180 | 395 | Julian Gasque |
-| 181 | 389 | Taz |
-| 182 | 389 | blockhead |
+| 179 | 395 | Julian Gasque |
+| 180 | 395 | Bobbie Harrell |
+| 181 | 389 | blockhead |
+| 182 | 389 | Taz |
 | 183 | 385 | Kristen Wallace |
 | 184 | 382 | Goofy Riser |
 | 185 | 380 | Cinta Marie |
@@ -200,14 +200,14 @@
 | 192 | 370 | Christy Beezley-Forbush |
 | 193 | 368 | Lush Fitblock |
 | 194 | 367 | Brick House |
-| 195 | 366 | Randy M Hatch |
-| 196 | 366 | Baysoph |
+| 195 | 366 | Baysoph |
+| 196 | 366 | Randy M Hatch |
 | 197 | 363 | Aramat |
 | 198 | 360 | Shocinda Sherwood |
 | 199 | 359 | BCO22 |
 | 200 | 359 | Chiquita Blue |
-| 201 | 357 | Katie Martin |
-| 202 | 357 | MomyLiz |
+| 201 | 357 | MomyLiz |
+| 202 | 357 | Katie Martin |
 | 203 | 355 | RotatedWrongAgain |
 | 204 | 346 | Alexis Cor |
 | 205 | 344 | Jackie Polanco |
@@ -217,23 +217,23 @@
 | 209 | 334 | Dazzle Dragon |
 | 210 | 331 | Wendy Zentz |
 | 211 | 331 | Perky Riserbuilder |
-| 212 | 330 | Fran Aaron-Ring |
-| 213 | 330 | LastBoi |
+| 212 | 330 | LastBoi |
+| 213 | 330 | Fran Aaron-Ring |
 | 214 | 328 | Kelly Howland |
 | 215 | 327 | beTrue76 |
-| 216 | 326 | Boldy Striker |
-| 217 | 326 | Debby Ruof |
+| 216 | 326 | Debby Ruof |
+| 217 | 326 | Boldy Striker |
 | 218 | 324 | Kimberly Civinski |
 | 219 | 324 | Slimm |
 | 220 | 323 | Tiffany Brooke |
 | 221 | 323 | zoes |
-| 222 | 320 | Magz |
+| 222 | 320 | matt |
 | 223 | 320 | TJ |
-| 224 | 320 | matt |
+| 224 | 320 | Magz |
 | 225 | 317 | Anthony Lewis |
 | 226 | 315 | Thomasena Eady Reid |
-| 227 | 312 | Danny Ortiz |
-| 228 | 312 | Tyson Stroppel |
+| 227 | 312 | Tyson Stroppel |
+| 228 | 312 | Danny Ortiz |
 | 229 | 312 | Anna Gribble |
 | 230 | 306 | Janet Sanfilippo Sullivan |
 | 231 | 303 | George Palacios |
@@ -242,25 +242,25 @@
 | 234 | 301 | Tiffany Bunker-Hill |
 | 235 | 300 | Genag |
 | 236 | 298 | Colin |
-| 237 | 296 | PerfectPieces |
-| 238 | 296 | Dae Von |
+| 237 | 296 | Dae Von |
+| 238 | 296 | PerfectPieces |
 | 239 | 296 | WeeWooWee |
 | 240 | 296 | beauxie |
 | 241 | 293 | Logan Two-dubs Baker |
 | 242 | 290 | Tawna Curry |
 | 243 | 289 | Shepreneur Sade |
 | 244 | 287 | Cheery Risegrid |
-| 245 | 286 | Pepper |
+| 245 | 286 | Erika Seaton |
 | 246 | 286 | Dubiousdust |
-| 247 | 286 | Erika Seaton |
+| 247 | 286 | Pepper |
 | 248 | 285 | Dana Abegil Lawas |
 | 249 | 284 | Tipsy Builderline |
 | 250 | 283 | Tiggerjake |
 | 251 | 282 | Goofy Fall |
 | 252 | 282 | Shanna Fragen |
 | 253 | 281 | Margie Thomas |
-| 254 | 281 | Capone |
-| 255 | 281 | Waxboss |
+| 254 | 281 | Waxboss |
+| 255 | 281 | Capone |
 | 256 | 281 | Ash Gribble |
 | 257 | 280 | Snippy Splitter |
 | 258 | 280 | Lucy Honer |
@@ -272,8 +272,8 @@
 | 264 | 274 | Sherry Mooney |
 | 265 | 274 | Dominique Melendez |
 | 266 | 271 | Tina Thomas |
-| 267 | 269 | Spicy Chicken |
-| 268 | 269 | Spunky Gridzone |
+| 267 | 269 | Spunky Gridzone |
+| 268 | 269 | Spicy Chicken |
 | 269 | 268 | Bonnie Powell |
 | 270 | 267 | Chirpy Link |
 | 271 | 266 | tigerlilly |
@@ -289,9 +289,9 @@
 | 281 | 256 | Jackie Miller |
 | 282 | 255 | Britney Kitora |
 | 283 | 253 | Stasia |
-| 284 | 251 | Jj Johnson |
-| 285 | 251 | EL Booger |
-| 286 | 251 | Jenn Norcross |
+| 284 | 251 | Jenn Norcross |
+| 285 | 251 | Jj Johnson |
+| 286 | 251 | EL Booger |
 | 287 | 249 | Brennan Shea Greene |
 | 288 | 248 | Becky McCool |
 | 289 | 247 | Bridget Stevens |
@@ -959,29 +959,29 @@
 | 951 | 68 | Keys Tome |
 | 952 | 68 | FUNBAT |
 | 953 | 68 | Curved carrot |
-| 954 | 68 | Tahira Patrice |
-| 955 | 68 | Sweetfire |
-| 956 | 68 | Kelley Shoop |
-| 957 | 68 | Kelly Kabelac Loomis |
-| 958 | 68 | Phredda Helene Gavornik |
-| 959 | 67 | Eric Quan |
-| 960 | 67 | Yournightmare |
-| 961 | 67 | Snappy Slice |
-| 962 | 67 | Janna Thompson |
-| 963 | 67 | John Cotugno |
-| 964 | 67 | Glittara |
-| 965 | 67 | Trishaann Triplett |
-| 966 | 67 | Wacky Snaplink |
-| 967 | 67 | Andy Petersen |
-| 968 | 67 | JuicyJay |
-| 969 | 67 | Tony Clark |
-| 970 | 67 | Michael Cruz |
-| 971 | 66 | Danielle Porter |
-| 972 | 66 | Perky Balanceblock |
-| 973 | 66 | MattJennifer Marie Ericson |
+| 954 | 68 | Joyce Hampton |
+| 955 | 68 | Tahira Patrice |
+| 956 | 68 | Sweetfire |
+| 957 | 68 | Kelley Shoop |
+| 958 | 68 | Kelly Kabelac Loomis |
+| 959 | 68 | Phredda Helene Gavornik |
+| 960 | 67 | Michael Cruz |
+| 961 | 67 | Yournightmare |
+| 962 | 67 | Snappy Slice |
+| 963 | 67 | Janna Thompson |
+| 964 | 67 | John Cotugno |
+| 965 | 67 | Glittara |
+| 966 | 67 | Trishaann Triplett |
+| 967 | 67 | Wacky Snaplink |
+| 968 | 67 | Andy Petersen |
+| 969 | 67 | JuicyJay |
+| 970 | 67 | Tony Clark |
+| 971 | 67 | Eric Quan |
+| 972 | 66 | Danielle Porter |
+| 973 | 66 | Perky Balanceblock |
 | 974 | 66 | james |
-| 975 | 66 | Scarlett Ashley Clark |
-| 976 | 66 | Joyce Hampton |
+| 975 | 66 | MattJennifer Marie Ericson |
+| 976 | 66 | Scarlett Ashley Clark |
 | 977 | 65 | Daniel Lossman |
 | 978 | 65 | Mamissa |
 | 979 | 65 | Rebecca Renaud |
