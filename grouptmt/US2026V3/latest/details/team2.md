@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:37:21 UTC
+# Standings for team2 as of 2026-06-08 10:38:19 UTC
 
 **Total Participants:** 2154
 
@@ -22,7 +22,7 @@
 | 14 | 6147 | Tim Ix |
 | 15 | 6114 | Morgann McDaniel |
 | 16 | 5961 | Brandon Brown |
-| 17 | 5728 | Andre Love |
+| 17 | 5732 | Andre Love |
 | 18 | 5585 | Renee Weedling |
 | 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
@@ -50,9 +50,9 @@
 | 42 | 2833 | Angie BBlock |
 | 43 | 2750 | Tom Badgley |
 | 44 | 2700 | Anthony Lilley |
-| 45 | 2556 | Andrew Weissenborn |
-| 46 | 2527 | Helen Thomas |
-| 47 | 2499 | Aubree Richard |
+| 45 | 2595 | Aubree Richard |
+| 46 | 2556 | Andrew Weissenborn |
+| 47 | 2527 | Helen Thomas |
 | 48 | 2414 | Nerdy Glidepiece |
 | 49 | 2282 | Frisky Balanceblock |
 | 50 | 2190 | Betty Barrett |
@@ -170,30 +170,30 @@
 | 162 | 578 | Monique Frantz |
 | 163 | 577 | Lindsay Klemp |
 | 164 | 574 | Brandy McCune Reep |
-| 165 | 561 | Amanda Sikes |
-| 166 | 558 | Zarah Kettler |
-| 167 | 557 | Nutty Curver |
-| 168 | 555 | Christina Maria |
-| 169 | 551 | Glitzy Base |
-| 170 | 550 | DomDomsNana |
-| 171 | 550 | Sully |
-| 172 | 550 | Shea |
-| 173 | 542 | Spicy Risegrid |
-| 174 | 533 | Cool Balancer |
-| 175 | 531 | Leigh Ann |
-| 176 | 529 | Mom |
-| 177 | 528 | Michelle Rich Burkhart |
-| 178 | 524 | Chasity Simpson |
-| 179 | 523 | Bubbly Strikerpiece |
-| 180 | 521 | Kimmyc |
-| 181 | 515 | Loony Faller |
-| 182 | 505 | Judy Long |
-| 183 | 504 | Milad Arzani |
-| 184 | 498 | Kelly Rogers |
-| 185 | 497 | Amy Gale |
-| 186 | 495 | Samantha Carman |
-| 187 | 492 | Kaycie Shaffer |
-| 188 | 487 | Cool Climber |
+| 165 | 567 | Cool Climber |
+| 166 | 561 | Amanda Sikes |
+| 167 | 558 | Zarah Kettler |
+| 168 | 557 | Nutty Curver |
+| 169 | 555 | Christina Maria |
+| 170 | 551 | Glitzy Base |
+| 171 | 550 | DomDomsNana |
+| 172 | 550 | Sully |
+| 173 | 550 | Shea |
+| 174 | 542 | Spicy Risegrid |
+| 175 | 533 | Cool Balancer |
+| 176 | 531 | Leigh Ann |
+| 177 | 529 | Mom |
+| 178 | 528 | Michelle Rich Burkhart |
+| 179 | 524 | Chasity Simpson |
+| 180 | 523 | Bubbly Strikerpiece |
+| 181 | 521 | Kimmyc |
+| 182 | 515 | Loony Faller |
+| 183 | 505 | Judy Long |
+| 184 | 504 | Milad Arzani |
+| 185 | 498 | Kelly Rogers |
+| 186 | 497 | Amy Gale |
+| 187 | 495 | Samantha Carman |
+| 188 | 492 | Kaycie Shaffer |
 | 189 | 486 | Chirpy Grid |
 | 190 | 484 | Steven Craig |
 | 191 | 483 | Karen Reid Cenkush |
@@ -206,11 +206,11 @@
 | 198 | 462 | Lori Whitman |
 | 199 | 461 | Charles E Mccardell |
 | 200 | 457 | MegaPooh |
-| 201 | 453 | Ashley Green |
-| 202 | 453 | Kimberly Cowan |
+| 201 | 453 | Kimberly Cowan |
+| 202 | 453 | Ashley Green |
 | 203 | 451 | Gill |
-| 204 | 449 | Snappy Blockbuilder |
-| 205 | 449 | Danielle Blount |
+| 204 | 449 | Danielle Blount |
+| 205 | 449 | Snappy Blockbuilder |
 | 206 | 449 | Suki Jacobs |
 | 207 | 448 | Eric Drane |
 | 208 | 445 | Gabrielle Wilson |
