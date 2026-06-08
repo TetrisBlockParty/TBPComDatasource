@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:04:19 UTC
+# Standings for team1 as of 2026-06-08 00:04:41 UTC
 
 **Total Participants:** 1627
 
@@ -74,9 +74,9 @@
 | 66 | 1024 | Eric Mcgaughy |
 | 67 | 1017 | Lisa Müller |
 | 68 | 996 | Kimberly Hernandez |
-| 69 | 981 | Court Court |
-| 70 | 980 | Bre Maugh |
-| 71 | 957 | Janine Hunter |
+| 69 | 991 | Janine Hunter |
+| 70 | 981 | Court Court |
+| 71 | 980 | Bre Maugh |
 | 72 | 939 | Uneekly Mayde |
 | 73 | 935 | Whitney Butler |
 | 74 | 923 | Tiana Moore |
@@ -103,8 +103,8 @@
 | 95 | 718 | Jaida King |
 | 96 | 715 | Sarah Marie |
 | 97 | 710 | ing410 |
-| 98 | 692 | No_Other_Choice |
-| 99 | 685 | Keeta Chickswit Scott |
+| 98 | 700 | Keeta Chickswit Scott |
+| 99 | 692 | No_Other_Choice |
 | 100 | 679 | Chirpy Corner |
 | 101 | 668 | Jonathan Vee Jay |
 | 102 | 666 | Kellie Hall |
@@ -117,10 +117,10 @@
 | 109 | 619 | Ottison Dianna |
 | 110 | 618 | Voice |
 | 111 | 614 | Chris Caniglia |
-| 112 | 612 | Quirky Fallgrid |
-| 113 | 612 | Andi McGreevy |
-| 114 | 604 | W.A. Simpson |
-| 115 | 604 | Mimi 1.0 |
+| 112 | 612 | Andi McGreevy |
+| 113 | 612 | Quirky Fallgrid |
+| 114 | 604 | Mimi 1.0 |
+| 115 | 604 | W.A. Simpson |
 | 116 | 601 | JaszyBadd |
 | 117 | 588 | Shontanese Adams |
 | 118 | 587 | KenpachisGirl |
@@ -163,18 +163,18 @@
 | 155 | 405 | SPNLover24 |
 | 156 | 404 | Hyper Slamdrop |
 | 157 | 396 | Chuck Quarles |
-| 158 | 393 | Sharon Cail |
-| 159 | 393 | La'Chae Nickole |
-| 160 | 389 | GrkGdess |
-| 161 | 389 | Roberta Lynn |
-| 162 | 389 | Lashaunda |
+| 158 | 393 | La'Chae Nickole |
+| 159 | 393 | Sharon Cail |
+| 160 | 389 | Lashaunda |
+| 161 | 389 | GrkGdess |
+| 162 | 389 | Roberta Lynn |
 | 163 | 387 | Crystal Anderson |
 | 164 | 384 | Christana Imjustbutton Stone |
 | 165 | 383 | Sheila Burnham |
 | 166 | 380 | Felicia Cain |
 | 167 | 380 | Dulo |
-| 168 | 377 | Jenna Renee |
-| 169 | 377 | AF Cruz |
+| 168 | 377 | AF Cruz |
+| 169 | 377 | Jenna Renee |
 | 170 | 370 | Allison Baxter |
 | 171 | 368 | Eugina Slater |
 | 172 | 368 | Joey Albright |
@@ -190,32 +190,32 @@
 | 182 | 345 | Ebony |
 | 183 | 345 | Marcheta Cervantez |
 | 184 | 341 | Tina Mitchell |
-| 185 | 340 | Spicy Risepiece |
-| 186 | 340 | Murg4dr01d |
-| 187 | 340 | Jayjay Rich |
+| 185 | 340 | Murg4dr01d |
+| 186 | 340 | Jayjay Rich |
+| 187 | 340 | Spicy Risepiece |
 | 188 | 340 | Tamara N Lee |
 | 189 | 332 | Mic Balew |
 | 190 | 331 | Karebear |
-| 191 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 191 | 330 | Po Marley |
 | 192 | 330 | Jessica Russell |
-| 193 | 330 | Po Marley |
+| 193 | 330 | Davionte DaeDae Hopson-Rodriguez |
 | 194 | 328 | Brand Nu |
 | 195 | 327 | Rolanda Williams |
 | 196 | 320 | Ashley MyBeauty Daniels |
 | 197 | 318 | Nerdy Snapfall |
 | 198 | 316 | Latisha Fairley |
-| 199 | 315 | Koi |
-| 200 | 315 | Chantelle Lee |
-| 201 | 312 | Michelle Titus |
-| 202 | 312 | Zachary Colegrove |
+| 199 | 315 | Chantelle Lee |
+| 200 | 315 | Koi |
+| 201 | 312 | Zachary Colegrove |
+| 202 | 312 | Michelle Titus |
 | 203 | 311 | Nobles Brandon |
-| 204 | 310 | NastyFriend |
-| 205 | 310 | Denise B |
-| 206 | 310 | Calvin Green |
+| 204 | 310 | Denise B |
+| 205 | 310 | Calvin Green |
+| 206 | 310 | NastyFriend |
 | 207 | 309 | IThinkNot |
 | 208 | 307 | Byron Mario Cawthon |
-| 209 | 306 | Devin West |
-| 210 | 306 | Block King |
+| 209 | 306 | Block King |
+| 210 | 306 | Devin West |
 | 211 | 305 | Salim Thugger |
 | 212 | 304 | TT |
 | 213 | 301 | Steve Reno |
@@ -229,18 +229,18 @@
 | 221 | 291 | Brian Taylor |
 | 222 | 289 | Cortaz Lawrie |
 | 223 | 289 | Brave Clearbuilder |
-| 224 | 287 | SyTheEvilGenius1 |
-| 225 | 287 | Jazzy Fireflighters |
-| 226 | 285 | Helen Smith |
-| 227 | 285 | Elizabeth Vega Coreano |
+| 224 | 287 | Jazzy Fireflighters |
+| 225 | 287 | SyTheEvilGenius1 |
+| 226 | 285 | Elizabeth Vega Coreano |
+| 227 | 285 | Helen Smith |
 | 228 | 283 | Christopher Dreamsareality McEachin |
 | 229 | 283 | BULLSEYE |
 | 230 | 282 | Rhonda Williams Warner |
 | 231 | 279 | Reginald Frank |
 | 232 | 279 | xXEKUNXx |
-| 233 | 275 | Chris Sladoje |
+| 233 | 275 | Jawaun Daniels |
 | 234 | 275 | Queenie Perry |
-| 235 | 275 | Jawaun Daniels |
+| 235 | 275 | Chris Sladoje |
 | 236 | 274 | 신재호 |
 | 237 | 274 | Frisky Fall |
 | 238 | 272 | Katherine Short |
@@ -251,11 +251,11 @@
 | 243 | 263 | Dacia Hicks |
 | 244 | 262 | Jhonny Maii |
 | 245 | 261 | Slinky Brickmatch |
-| 246 | 260 | Natasha Rucker |
-| 247 | 260 | Sara Meri |
+| 246 | 260 | Ketrell Bailey |
+| 247 | 260 | Ann Chung |
 | 248 | 260 | Jhaime |
-| 249 | 260 | Ann Chung |
-| 250 | 260 | Ketrell Bailey |
+| 249 | 260 | Sara Meri |
+| 250 | 260 | Natasha Rucker |
 | 251 | 257 | Mafio SO |
 | 252 | 256 | Erin Sabol |
 | 253 | 254 | Tonya McElroy |
