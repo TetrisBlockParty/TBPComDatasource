@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 20:04:21 UTC
+# Standings for team2 as of 2026-06-08 20:04:43 UTC
 
 **Total Participants:** 2259
 
@@ -35,7 +35,7 @@
 | 27 | 4803 | Alexia Reagan |
 | 28 | 4531 | Spunky Clicker |
 | 29 | 4355 | Danni Campa |
-| 30 | 4273 | Mellzey |
+| 30 | 4279 | Mellzey |
 | 31 | 4228 | Erica Dees Parks |
 | 32 | 4219 | Jewels |
 | 33 | 4111 | Smashanator |
@@ -445,15 +445,15 @@
 | 437 | 256 | Santara Ferguson |
 | 438 | 255 | Liseth Vasquez |
 | 439 | 255 | Chummy Faller |
-| 440 | 254 | Nicole Plummer |
-| 441 | 254 | Tango Sierra |
-| 442 | 253 | Eric Wayne Maschman |
-| 443 | 253 | Sassy Twistbuilder |
-| 444 | 251 | Marilyn Mendoza |
-| 445 | 251 | Teresa Mandich |
-| 446 | 250 | Kim Powers |
-| 447 | 250 | Happy Drop |
-| 448 | 249 | Aurora June Brock |
+| 440 | 255 | Aurora June Brock |
+| 441 | 254 | Nicole Plummer |
+| 442 | 254 | Tango Sierra |
+| 443 | 253 | Eric Wayne Maschman |
+| 444 | 253 | Sassy Twistbuilder |
+| 445 | 251 | Marilyn Mendoza |
+| 446 | 251 | Teresa Mandich |
+| 447 | 250 | Kim Powers |
+| 448 | 250 | Happy Drop |
 | 449 | 249 | Jessica Connot |
 | 450 | 249 | Sarah Grundisch |
 | 451 | 248 | Paula Haskins |
@@ -789,8 +789,8 @@
 | 781 | 136 | Lauren Maxwell |
 | 782 | 136 | Tito Garcia |
 | 783 | 136 | Jackelyn Ford |
-| 784 | 135 | Cherica Taylor |
-| 785 | 135 | Rhonda Driskill |
+| 784 | 135 | Rhonda Driskill |
+| 785 | 135 | Cherica Taylor |
 | 786 | 135 | Erin Moore Galloway |
 | 787 | 135 | Melissa Pronovost |
 | 788 | 135 | Ava Taber |
@@ -806,28 +806,28 @@
 | 798 | 132 | Michele Plunkett |
 | 799 | 132 | sugabritches |
 | 800 | 132 | WhitS |
-| 801 | 132 | Kristen |
-| 802 | 132 | Tim Moore |
-| 803 | 132 | Belinda Gullion Austin |
-| 804 | 132 | Hyper Striker |
-| 805 | 131 | Jessica Bowman |
-| 806 | 131 | Jennifer Leigh |
-| 807 | 131 | Eva Lopez |
-| 808 | 131 | Lyndzey Sciscoe |
-| 809 | 130 | Hannah Meadows Hammond |
-| 810 | 130 | Desia Walker |
-| 811 | 130 | Tiffany Ann |
-| 812 | 130 | Joanie Swann Ruiter |
-| 813 | 130 | Michele Gonzales |
-| 814 | 130 | CEK |
-| 815 | 130 | Sherry Ann |
-| 816 | 130 | Staci Walker |
-| 817 | 130 | gene15 |
-| 818 | 130 | Amanda Bailey |
-| 819 | 130 | Ashley Eneboe |
-| 820 | 130 | Groovy Glider |
-| 821 | 129 | Armando Sabedra |
-| 822 | 129 | Mary Whitaker |
+| 801 | 132 | Mary Whitaker |
+| 802 | 132 | Kristen |
+| 803 | 132 | Tim Moore |
+| 804 | 132 | Belinda Gullion Austin |
+| 805 | 132 | Hyper Striker |
+| 806 | 131 | Jessica Bowman |
+| 807 | 131 | Jennifer Leigh |
+| 808 | 131 | Eva Lopez |
+| 809 | 131 | Lyndzey Sciscoe |
+| 810 | 130 | Hannah Meadows Hammond |
+| 811 | 130 | Desia Walker |
+| 812 | 130 | Tiffany Ann |
+| 813 | 130 | Joanie Swann Ruiter |
+| 814 | 130 | Michele Gonzales |
+| 815 | 130 | CEK |
+| 816 | 130 | Sherry Ann |
+| 817 | 130 | Staci Walker |
+| 818 | 130 | gene15 |
+| 819 | 130 | Amanda Bailey |
+| 820 | 130 | Ashley Eneboe |
+| 821 | 130 | Groovy Glider |
+| 822 | 129 | Armando Sabedra |
 | 823 | 129 | Chris Delauro |
 | 824 | 129 | Tammy Botkin |
 | 825 | 129 | Lively Twisterfit |
