@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:24:45 UTC
+# Standings for team2 as of 2026-06-08 06:25:20 UTC
 
 **Total Participants:** 2124
 
@@ -15,7 +15,7 @@
 | 7 | 9576 | Jason Wood |
 | 8 | 8796 | A.j. Langley |
 | 9 | 8678 | Mocha |
-| 10 | 7433 | Christina Shell |
+| 10 | 7453 | Christina Shell |
 | 11 | 7000 | Crafty Ziggy |
 | 12 | 6674 | Christina Jambard Sampier |
 | 13 | 6542 | Dapper Rollout |
@@ -365,26 +365,26 @@
 | 357 | 250 | Kim Powers |
 | 358 | 250 | Ray Daisy |
 | 359 | 250 | Happy Drop |
-| 360 | 249 | Sarah Grundisch |
-| 361 | 247 | Olivia Jefferson |
-| 362 | 247 | SilentBuffalo |
-| 363 | 246 | Amber Cogdill |
-| 364 | 246 | PaiBri |
-| 365 | 242 | Theresa Huddleston |
-| 366 | 240 | Liseth Vasquez |
-| 367 | 240 | Starvinmarvin |
-| 368 | 240 | Zappy Liney |
-| 369 | 240 | Naomi Walker |
-| 370 | 239 | Melmel |
-| 371 | 239 | Patria Osuoha |
-| 372 | 239 | Stella |
-| 373 | 238 | andee |
-| 374 | 238 | Laverne Ellis Blair |
-| 375 | 237 | Amanda Priddy |
-| 376 | 236 | Lush Party |
-| 377 | 233 | Anthony Swift |
-| 378 | 233 | Stephany Green |
-| 379 | 231 | Alicia Kinney |
+| 360 | 250 | Alicia Kinney |
+| 361 | 249 | Sarah Grundisch |
+| 362 | 247 | Olivia Jefferson |
+| 363 | 247 | SilentBuffalo |
+| 364 | 246 | Amber Cogdill |
+| 365 | 246 | PaiBri |
+| 366 | 242 | Theresa Huddleston |
+| 367 | 240 | Liseth Vasquez |
+| 368 | 240 | Starvinmarvin |
+| 369 | 240 | Zappy Liney |
+| 370 | 240 | Naomi Walker |
+| 371 | 239 | Melmel |
+| 372 | 239 | Patria Osuoha |
+| 373 | 239 | Stella |
+| 374 | 238 | andee |
+| 375 | 238 | Laverne Ellis Blair |
+| 376 | 237 | Amanda Priddy |
+| 377 | 236 | Lush Party |
+| 378 | 233 | Anthony Swift |
+| 379 | 233 | Stephany Green |
 | 380 | 230 | Tango Sierra |
 | 381 | 230 | Brandy Chinelle |
 | 382 | 230 | phamous1 |
