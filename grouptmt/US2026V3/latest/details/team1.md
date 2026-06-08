@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 01:18:18 UTC
+# Standings for team1 as of 2026-06-08 01:18:41 UTC
 
 **Total Participants:** 1648
 
@@ -26,8 +26,8 @@
 | 18 | 3972 | Tekedra Wilson |
 | 19 | 3845 | Cassidy Butler |
 | 20 | 3776 | Pdubbl3 |
-| 21 | 3721 | Chandler Spencer |
-| 22 | 3695 | jaimie |
+| 21 | 3745 | jaimie |
+| 22 | 3721 | Chandler Spencer |
 | 23 | 3266 | Yolanda McDonald |
 | 24 | 3245 | Cool Bridger |
 | 25 | 3080 | Chummy Combo |
@@ -1536,123 +1536,123 @@
 | 1528 | 10 | Moneyy Munrow  |
 | 1529 | 10 | Twisty Linkgrid |
 | 1530 | 10 | Key Gracia |
-| 1531 | 10 | Steve Renelus |
-| 1532 | 10 | Willard Junior |
-| 1533 | 10 | Sade Goodwine |
-| 1534 | 10 | Omar Dotray |
-| 1535 | 10 | Jackee Chee-Ming |
-| 1536 | 10 | Jimel Fraser |
-| 1537 | 10 | Manda Pecora |
-| 1538 | 10 | Brownie |
-| 1539 | 10 | Latrice Smith |
-| 1540 | 10 | Antonia Pike |
-| 1541 | 10 | Truthful |
-| 1542 | 10 | Upt |
-| 1543 | 10 | Jonay Zuri |
-| 1544 | 10 | Kim Smith |
-| 1545 | 10 | Tynetta Scott |
-| 1546 | 10 | Tranica Sterling |
-| 1547 | 10 | Jamal D. Wiley |
-| 1548 | 10 | Ladii Libra |
-| 1549 | 10 | Crystal Segura |
-| 1550 | 10 | Yvonne Aggers |
-| 1551 | 10 | Tamara Farmer |
-| 1552 | 10 | Cool Rumbler |
-| 1553 | 10 | Tea |
-| 1554 | 10 | SweetByNBy |
-| 1555 | 10 | Ciera Spottedelk |
-| 1556 | 9 | Lia Covington |
-| 1557 | 9 | John Lovato |
-| 1558 | 9 | LadyMosley |
-| 1559 | 9 | Catelyn Neal |
-| 1560 | 9 | Zondria Barnes |
-| 1561 | 9 | Nikki Jay |
-| 1562 | 9 | Clifford Petroske |
-| 1563 | 9 | jac |
-| 1564 | 9 | Sunset Owens |
-| 1565 | 9 | Groovy Twisterfit |
-| 1566 | 9 | Shaun Baker |
-| 1567 | 9 | Duckey |
-| 1568 | 9 | Shell Poke |
-| 1569 | 9 | Beverly S. Robinson |
-| 1570 | 9 | Nerdy Wipefit |
-| 1571 | 9 | Frisky Linkblock |
-| 1572 | 9 | Yester |
-| 1573 | 9 | Mars |
-| 1574 | 9 | Dana |
-| 1575 | 9 | Noni |
-| 1576 | 9 | ummm |
-| 1577 | 8 | Ferocity |
-| 1578 | 8 | Almarasha Grice |
-| 1579 | 8 | Andrew James |
-| 1580 | 8 | Elizabeth Castro |
-| 1581 | 8 | Jädaa Laa'Destïnyy |
-| 1582 | 8 | Rixo Blax |
-| 1583 | 8 | Frothy Matchpiece |
-| 1584 | 8 | Chevonne Huggins |
-| 1585 | 8 | Nissa |
-| 1586 | 8 | Chill Tumbler |
-| 1587 | 8 | jus_ry |
-| 1588 | 8 | Groovy Riseclear |
-| 1589 | 8 | Sean Walker |
+| 1531 | 10 | Crystal Segura |
+| 1532 | 10 | Truthful |
+| 1533 | 10 | Latrice Smith |
+| 1534 | 10 | Brownie |
+| 1535 | 10 | Tea |
+| 1536 | 10 | Steve Renelus |
+| 1537 | 10 | Sade Goodwine |
+| 1538 | 10 | Antonia Pike |
+| 1539 | 10 | Yvonne Aggers |
+| 1540 | 10 | SweetByNBy |
+| 1541 | 10 | Ladii Libra |
+| 1542 | 10 | Tranica Sterling |
+| 1543 | 10 | Ciera Spottedelk |
+| 1544 | 10 | Cool Rumbler |
+| 1545 | 10 | Kim Smith |
+| 1546 | 10 | Tynetta Scott |
+| 1547 | 10 | Upt |
+| 1548 | 10 | Jackee Chee-Ming |
+| 1549 | 10 | Omar Dotray |
+| 1550 | 10 | Jimel Fraser |
+| 1551 | 10 | Willard Junior |
+| 1552 | 10 | Manda Pecora |
+| 1553 | 10 | Tamara Farmer |
+| 1554 | 10 | Jonay Zuri |
+| 1555 | 10 | Jamal D. Wiley |
+| 1556 | 9 | Nikki Jay |
+| 1557 | 9 | Catelyn Neal |
+| 1558 | 9 | Sunset Owens |
+| 1559 | 9 | Zondria Barnes |
+| 1560 | 9 | Groovy Twisterfit |
+| 1561 | 9 | John Lovato |
+| 1562 | 9 | Duckey |
+| 1563 | 9 | ummm |
+| 1564 | 9 | Yester |
+| 1565 | 9 | Frisky Linkblock |
+| 1566 | 9 | Lia Covington |
+| 1567 | 9 | LadyMosley |
+| 1568 | 9 | Clifford Petroske |
+| 1569 | 9 | jac |
+| 1570 | 9 | Noni |
+| 1571 | 9 | Dana |
+| 1572 | 9 | Mars |
+| 1573 | 9 | Shell Poke |
+| 1574 | 9 | Shaun Baker |
+| 1575 | 9 | Beverly S. Robinson |
+| 1576 | 9 | Nerdy Wipefit |
+| 1577 | 8 | Frothy Matchpiece |
+| 1578 | 8 | Nissa |
+| 1579 | 8 | Rixo Blax |
+| 1580 | 8 | Almarasha Grice |
+| 1581 | 8 | Elizabeth Castro |
+| 1582 | 8 | Groovy Riseclear |
+| 1583 | 8 | Sean Walker |
+| 1584 | 8 | Chill Tumbler |
+| 1585 | 8 | Chevonne Huggins |
+| 1586 | 8 | Andrew James |
+| 1587 | 8 | Jädaa Laa'Destïnyy |
+| 1588 | 8 | Ferocity |
+| 1589 | 8 | jus_ry |
 | 1590 | 8 | David Anthony |
-| 1591 | 7 | Hyper Basepiece |
-| 1592 | 7 | John Boone |
-| 1593 | 7 | Lively Stagger |
+| 1591 | 7 | Jamal Richmond |
+| 1592 | 7 | Stephanie L Jeffries Moultrie |
+| 1593 | 7 | Joey Hoover |
 | 1594 | 7 | Lively Edgefit |
-| 1595 | 7 | Frisky Cascadefit |
-| 1596 | 7 | Quana |
-| 1597 | 7 | Deadra Graham |
-| 1598 | 7 | Dimitri Moore |
-| 1599 | 7 | Jamal Richmond |
-| 1600 | 7 | Joey Hoover |
-| 1601 | 7 | Milfchaser530 |
-| 1602 | 7 | Beverly Kaday |
-| 1603 | 7 | style |
-| 1604 | 7 | Mary2 |
-| 1605 | 7 | KingSlim82 |
+| 1595 | 7 | Mary2 |
+| 1596 | 7 | style |
+| 1597 | 7 | Beverly Kaday |
+| 1598 | 7 | Frisky Cascadefit |
+| 1599 | 7 | Dimitri Moore |
+| 1600 | 7 | Deadra Graham |
+| 1601 | 7 | Quana |
+| 1602 | 7 | KingSlim82 |
+| 1603 | 7 | Andrew Harris |
+| 1604 | 7 | RMGreen |
+| 1605 | 7 | Bryan Dell |
 | 1606 | 7 | Teresa F. Campos Eaton |
 | 1607 | 7 | linda m |
-| 1608 | 7 | Bryan Dell |
-| 1609 | 7 | Court Ney |
-| 1610 | 7 | Alexis Farquer |
-| 1611 | 7 | Stephanie L Jeffries Moultrie |
-| 1612 | 7 | RMGreen |
-| 1613 | 7 | Shane Brucewayne |
-| 1614 | 7 | Sheena Hamilton |
-| 1615 | 7 | Andrew Harris |
-| 1616 | 6 | Nerdy Slam |
-| 1617 | 6 | Tammy Hooser |
-| 1618 | 6 | Nena |
-| 1619 | 6 | NEM0228 |
-| 1620 | 6 | Andrae Robinson |
-| 1621 | 6 | Giddy Bricky |
+| 1608 | 7 | Court Ney |
+| 1609 | 7 | Alexis Farquer |
+| 1610 | 7 | Milfchaser530 |
+| 1611 | 7 | Shane Brucewayne |
+| 1612 | 7 | Sheena Hamilton |
+| 1613 | 7 | John Boone |
+| 1614 | 7 | Lively Stagger |
+| 1615 | 7 | Hyper Basepiece |
+| 1616 | 6 | party t-rex 27 |
+| 1617 | 6 | Shiny Crusher |
+| 1618 | 6 | Shadena M Carter Mba |
+| 1619 | 6 | Lynn Formby |
+| 1620 | 6 | Giddy Bricky |
+| 1621 | 6 | NEM0228 |
 | 1622 | 6 | DoMinique Lee |
-| 1623 | 6 | Shiny Crusher |
-| 1624 | 6 | Shadena M Carter Mba |
-| 1625 | 6 | Lynn Formby |
-| 1626 | 6 | Stevie Malcon |
-| 1627 | 6 | Kyshia |
-| 1628 | 6 | party t-rex 27 |
-| 1629 | 6 | CK |
-| 1630 | 5 | Joy Baker |
-| 1631 | 5 | Andy Barnett |
-| 1632 | 5 | Misty Sollberger |
+| 1623 | 6 | Tammy Hooser |
+| 1624 | 6 | CK |
+| 1625 | 6 | Nerdy Slam |
+| 1626 | 6 | Andrae Robinson |
+| 1627 | 6 | Nena |
+| 1628 | 6 | Kyshia |
+| 1629 | 6 | Stevie Malcon |
+| 1630 | 5 | Andy Barnett |
+| 1631 | 5 | BlessedBeauty |
+| 1632 | 5 | Zesty Brickline |
 | 1633 | 5 | Godz Chosen |
-| 1634 | 5 | Zesty Brickline |
-| 1635 | 5 | Joi |
-| 1636 | 5 | BlessedBeauty |
-| 1637 | 5 | Carol Washington |
+| 1634 | 5 | Joy Baker |
+| 1635 | 5 | Carol Washington |
+| 1636 | 5 | Misty Sollberger |
+| 1637 | 5 | Joi |
 | 1638 | 5 | Annette DeLoatch Thompson |
-| 1639 | 5 | MrKeith Debraux |
-| 1640 | 5 | Jennifer Haton Kreighbaum |
-| 1641 | 5 | the guy |
-| 1642 | 5 | VERA DAME |
-| 1643 | 5 | Derek Beverly |
-| 1644 | 5 | Stephanie Zuniga Tullock |
-| 1645 | 5 | Angelique Thomas |
-| 1646 | 5 | pettymexoxo |
-| 1647 | 5 | Happy |
+| 1639 | 5 | Happy |
+| 1640 | 5 | pettymexoxo |
+| 1641 | 5 | Angelique Thomas |
+| 1642 | 5 | MrKeith Debraux |
+| 1643 | 5 | Jennifer Haton Kreighbaum |
+| 1644 | 5 | the guy |
+| 1645 | 5 | VERA DAME |
+| 1646 | 5 | Stephanie Zuniga Tullock |
+| 1647 | 5 | Derek Beverly |
 | 1648 | 5 | Schuyler Carson Jackson |
 
 ---
