@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:08:20 UTC
+# Standings for team1 as of 2026-06-08 17:08:44 UTC
 
 **Total Participants:** 1829
 
@@ -409,10 +409,10 @@
 | 401 | 211 | Lauraly |
 | 402 | 210 | Alyssa Rae |
 | 403 | 210 | Daddy |
-| 404 | 209 | Antonia Wyche |
-| 405 | 209 | Phillip Vasquez |
-| 406 | 209 | $hort Dog |
-| 407 | 207 | Vera Beckford |
+| 404 | 209 | Vera Beckford |
+| 405 | 209 | Antonia Wyche |
+| 406 | 209 | Phillip Vasquez |
+| 407 | 209 | $hort Dog |
 | 408 | 205 | Tesiree Cray |
 | 409 | 205 | Kate Hancock Malicek |
 | 410 | 205 | Treneil Daffin |

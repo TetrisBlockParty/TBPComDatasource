@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:08:20 UTC
+# Standings for team2 as of 2026-06-08 17:08:44 UTC
 
 **Total Participants:** 2220
 
@@ -91,8 +91,8 @@
 | 83 | 1349 | Poppy |
 | 84 | 1344 | Ashlea McBlaine |
 | 85 | 1341 | Eileen Egan |
-| 86 | 1331 | Suki Kaur |
-| 87 | 1330 | Jaime P Lamb |
+| 86 | 1333 | Jaime P Lamb |
+| 87 | 1331 | Suki Kaur |
 | 88 | 1323 | joey |
 | 89 | 1322 | Lisa Breiding |
 | 90 | 1309 | Sigmamom |
