@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:08:41 UTC
+# Standings for team2 as of 2026-06-08 10:09:20 UTC
 
 **Total Participants:** 2146
 
@@ -218,13 +218,13 @@
 | 210 | 431 | AndyJo |
 | 211 | 429 | Cool Climber |
 | 212 | 429 | giamy |
-| 213 | 428 | Nikki EightySixed |
-| 214 | 428 | Zany Blockclear |
-| 215 | 428 | Physhie |
-| 216 | 427 | Flower_child |
-| 217 | 425 | Joni Michelle Morgan |
-| 218 | 423 | Tara |
-| 219 | 422 | Charles E Mccardell |
+| 213 | 428 | Charles E Mccardell |
+| 214 | 428 | Nikki EightySixed |
+| 215 | 428 | Zany Blockclear |
+| 216 | 428 | Physhie |
+| 217 | 427 | Flower_child |
+| 218 | 425 | Joni Michelle Morgan |
+| 219 | 423 | Tara |
 | 220 | 419 | H |
 | 221 | 419 | Thomas Tyrone |
 | 222 | 418 | Breeana Bennett |
