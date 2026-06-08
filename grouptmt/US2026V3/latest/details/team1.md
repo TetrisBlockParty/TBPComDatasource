@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:20:42 UTC
+# Standings for team1 as of 2026-06-08 06:21:20 UTC
 
 **Total Participants:** 1741
 
@@ -53,8 +53,8 @@
 | 45 | 1564 | Chris Russell |
 | 46 | 1544 | Weeze |
 | 47 | 1538 | Jacoby E Fleming |
-| 48 | 1496 | Jolly Dropzone |
-| 49 | 1493 | Jennifer To |
+| 48 | 1513 | Jennifer To |
+| 49 | 1496 | Jolly Dropzone |
 | 50 | 1489 | Robyn Caldwell |
 | 51 | 1482 | Shortstak |
 | 52 | 1461 | Janet Cooke |
@@ -685,70 +685,70 @@
 | 677 | 101 | star |
 | 678 | 101 | Wacky Wipepiece |
 | 679 | 101 | Sandra Mims |
-| 680 | 100 | Jonathan McKenzie |
-| 681 | 100 | NedaWin |
-| 682 | 100 | LaSharmeika Fancher |
+| 680 | 100 | Shanjerrica Taylor Rosell |
+| 681 | 100 | LaSharmeika Fancher |
+| 682 | 100 | NedaWin |
 | 683 | 100 | Undeniable Williams |
 | 684 | 100 | Lester Malone |
 | 685 | 100 | Phillip White |
-| 686 | 100 | Shanjerrica Taylor Rosell |
-| 687 | 100 | Peppy Towerbuilder |
-| 688 | 100 | Andra Ward |
-| 689 | 100 | Oldheads |
+| 686 | 100 | Peppy Towerbuilder |
+| 687 | 100 | Jonathan McKenzie |
+| 688 | 100 | Oldheads |
+| 689 | 100 | Andra Ward |
 | 690 | 100 | Meow Meow |
-| 691 | 99 | Tony Pizzas |
-| 692 | 99 | Boymama917 |
-| 693 | 99 | Rochelle Nash-Evans |
-| 694 | 99 | Lucille Wilson Davis |
-| 695 | 99 | Sylvia Offically A Mcgowan |
-| 696 | 98 | Azeiare Ziare |
-| 697 | 98 | Christopher Shaw-Black |
-| 698 | 98 | Jjhandsome |
-| 699 | 98 | FallDee |
-| 700 | 98 | Terrance Tindall |
+| 691 | 99 | Rochelle Nash-Evans |
+| 692 | 99 | Lucille Wilson Davis |
+| 693 | 99 | Sylvia Offically A Mcgowan |
+| 694 | 99 | Laysa Nunez |
+| 695 | 99 | Boymama917 |
+| 696 | 99 | Tony Pizzas |
+| 697 | 98 | Jjhandsome |
+| 698 | 98 | FallDee |
+| 699 | 98 | Terrance Tindall |
+| 700 | 98 | Christopher Shaw-Black |
 | 701 | 98 | Cm |
-| 702 | 97 | Smiley Bridgepiece |
-| 703 | 97 | Kayel Good |
-| 704 | 97 | Jose Rodriguez |
-| 705 | 97 | Nichole Horsley-Conn |
-| 706 | 97 | Lootch |
-| 707 | 97 | Shanell Thomas |
-| 708 | 96 | Zappy Clearfit |
-| 709 | 96 | Sonia Binti Mfalme |
-| 710 | 96 | Just2Play$ |
-| 711 | 96 | Guard Up |
-| 712 | 96 | Sara |
-| 713 | 96 | Karen Knapp |
-| 714 | 96 | Kimmie Gargano |
-| 715 | 96 | Yazz |
-| 716 | 96 | Laysa Nunez |
-| 717 | 96 | meatballs |
-| 718 | 95 | Ounquan Wright |
-| 719 | 95 | Cameo Tweed |
-| 720 | 95 | Kyle Conley |
-| 721 | 95 | Joseph Vs Cap |
-| 722 | 95 | TieMs BHughez |
-| 723 | 95 | Shiny Lift |
-| 724 | 95 | Barbramerri Tarboro |
-| 725 | 95 | Adrian Harris |
-| 726 | 95 | Paul Pendley |
-| 727 | 95 | Chris Nelson |
-| 728 | 95 | Analesia Taylor |
-| 729 | 94 | Sha Anderson |
-| 730 | 94 | Cortrell Foster |
-| 731 | 94 | Kizzy Clark |
-| 732 | 94 | Marlainia Boyd |
-| 733 | 94 | Cheryl Miller |
-| 734 | 94 | Callie Mae |
-| 735 | 94 | Vera Beckford |
-| 736 | 94 | Renee Marshall |
-| 737 | 94 | Sunny Clicky |
-| 738 | 93 | FunTime |
-| 739 | 93 | Lively Wipeout |
-| 740 | 93 | C Lo Green |
+| 702 | 98 | Azeiare Ziare |
+| 703 | 97 | Nichole Horsley-Conn |
+| 704 | 97 | Smiley Bridgepiece |
+| 705 | 97 | Kayel Good |
+| 706 | 97 | Jose Rodriguez |
+| 707 | 97 | Lootch |
+| 708 | 97 | Shanell Thomas |
+| 709 | 96 | meatballs |
+| 710 | 96 | Yazz |
+| 711 | 96 | Zappy Clearfit |
+| 712 | 96 | Karen Knapp |
+| 713 | 96 | Guard Up |
+| 714 | 96 | Sonia Binti Mfalme |
+| 715 | 96 | Just2Play$ |
+| 716 | 96 | Sara |
+| 717 | 96 | Kimmie Gargano |
+| 718 | 95 | Chris Nelson |
+| 719 | 95 | Analesia Taylor |
+| 720 | 95 | Barbramerri Tarboro |
+| 721 | 95 | Adrian Harris |
+| 722 | 95 | Paul Pendley |
+| 723 | 95 | TieMs BHughez |
+| 724 | 95 | Kyle Conley |
+| 725 | 95 | Shiny Lift |
+| 726 | 95 | Joseph Vs Cap |
+| 727 | 95 | Ounquan Wright |
+| 728 | 95 | Cameo Tweed |
+| 729 | 94 | Sunny Clicky |
+| 730 | 94 | Kizzy Clark |
+| 731 | 94 | Renee Marshall |
+| 732 | 94 | Sha Anderson |
+| 733 | 94 | Vera Beckford |
+| 734 | 94 | Marlainia Boyd |
+| 735 | 94 | Cheryl Miller |
+| 736 | 94 | Cortrell Foster |
+| 737 | 94 | Callie Mae |
+| 738 | 93 | messyboots |
+| 739 | 93 | C Lo Green |
+| 740 | 93 | FunTime |
 | 741 | 93 | MrsDontPlay |
 | 742 | 93 | Nekka |
-| 743 | 93 | messyboots |
+| 743 | 93 | Lively Wipeout |
 | 744 | 92 | Jojo M |
 | 745 | 92 | Smiley3000 |
 | 746 | 92 | Poppy Twister |
