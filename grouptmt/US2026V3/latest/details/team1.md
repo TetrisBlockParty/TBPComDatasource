@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:16:21 UTC
+# Standings for team1 as of 2026-06-08 18:16:46 UTC
 
 **Total Participants:** 1844
 
@@ -218,8 +218,8 @@
 | 210 | 419 | Jenna Renee |
 | 211 | 418 | Po Marley |
 | 212 | 418 | Sheila Burnham |
-| 213 | 417 | Lashaunda |
-| 214 | 417 | Mic Balew |
+| 213 | 417 | Mic Balew |
+| 214 | 417 | Lashaunda |
 | 215 | 416 | Tina Mitchell |
 | 216 | 415 | OhNoZer0 |
 | 217 | 414 | Cheery Linkfall |
@@ -232,28 +232,28 @@
 | 224 | 390 | Devin West |
 | 225 | 389 | GrkGdess |
 | 226 | 387 | Crystal Anderson |
-| 227 | 386 | Chantelle Lee |
-| 228 | 386 | Keke Ferguson |
-| 229 | 384 | Christana Imjustbutton Stone |
-| 230 | 382 | Joana Thompson |
-| 231 | 381 | sha |
+| 227 | 387 | sha |
+| 228 | 386 | Chantelle Lee |
+| 229 | 386 | Keke Ferguson |
+| 230 | 384 | Christana Imjustbutton Stone |
+| 231 | 382 | Joana Thompson |
 | 232 | 381 | Slim Shedidthat |
-| 233 | 377 | AF Cruz |
-| 234 | 377 | Tarnisha Neicy Jones |
+| 233 | 377 | Tarnisha Neicy Jones |
+| 234 | 377 | AF Cruz |
 | 235 | 373 | Dion Gray |
-| 236 | 372 | Trina Greenwood |
-| 237 | 372 | Block King |
+| 236 | 372 | Block King |
+| 237 | 372 | Trina Greenwood |
 | 238 | 370 | Allison Baxter |
 | 239 | 370 | Reginald Frank |
 | 240 | 368 | Chasem45 |
-| 241 | 367 | StingerD |
-| 242 | 367 | Leebo Slice |
+| 241 | 367 | Leebo Slice |
+| 242 | 367 | StingerD |
 | 243 | 364 | Michele Simpson |
 | 244 | 363 | Christina Rebecca |
 | 245 | 361 | John Staub |
 | 246 | 359 | Jayjay Rich |
-| 247 | 356 | Dedra M Prester |
-| 248 | 356 | Haley Bell |
+| 247 | 356 | Haley Bell |
+| 248 | 356 | Dedra M Prester |
 | 249 | 353 | Latisha Fairley |
 | 250 | 351 | Ebony |
 | 251 | 350 | Ashley MyBeauty Daniels |
@@ -261,8 +261,8 @@
 | 253 | 345 | Rhonda Williams Warner |
 | 254 | 343 | Yasmin Nakea Wright |
 | 255 | 343 | Heather Aurelia |
-| 256 | 341 | Jawaun Daniels |
-| 257 | 341 | BlackQueen105 |
+| 256 | 341 | BlackQueen105 |
+| 257 | 341 | Jawaun Daniels |
 | 258 | 341 | Tremaine Hiler |
 | 259 | 338 | Brand Nu |
 | 260 | 337 | Koi |
@@ -785,11 +785,11 @@
 | 777 | 105 | Ja'mice Nelson |
 | 778 | 105 | Jack Mehof |
 | 779 | 105 | Dirty Deeds |
-| 780 | 104 | Chris Nelson |
-| 781 | 104 | Marlainia Boyd |
-| 782 | 104 | Coco |
+| 780 | 104 | Marlainia Boyd |
+| 781 | 104 | Coco |
+| 782 | 104 | Ahvae Lee |
 | 783 | 104 | Motown Chuck |
-| 784 | 104 | Ahvae Lee |
+| 784 | 104 | Chris Nelson |
 | 785 | 104 | Victor |
 | 786 | 103 | Heather Wilson |
 | 787 | 103 | Clint Mcdowell |
@@ -797,41 +797,41 @@
 | 789 | 102 | Kàrma Lee |
 | 790 | 102 | Laysa Nunez |
 | 791 | 102 | Mom3granny2 |
-| 792 | 102 | jeremy92 |
-| 793 | 101 | star |
-| 794 | 101 | MELLZZtick€T |
-| 795 | 101 | Wacky Wipepiece |
-| 796 | 101 | Brittany Britkany Marsden-Garrison |
-| 797 | 101 | John Spath |
-| 798 | 100 | Undeniable Williams |
-| 799 | 100 | LaSharmeika Fancher |
-| 800 | 100 | Lester Malone |
-| 801 | 100 | Marcello Rush |
-| 802 | 100 | Shanjerrica Taylor Rosell |
-| 803 | 100 | Phillip White |
-| 804 | 100 | Dannie |
-| 805 | 100 | Jonathan McKenzie |
-| 806 | 100 | Ounquan Wright |
-| 807 | 100 | Raymond Keeler |
-| 808 | 100 | Crafty Witch |
-| 809 | 100 | Oldheads |
-| 810 | 100 | Keith Big-Sixx Mackell |
-| 811 | 99 | Lucille Wilson Davis |
-| 812 | 99 | Yoellah Benyahmeen |
-| 813 | 99 | Boymama917 |
-| 814 | 99 | Sylvia Offically A Mcgowan |
+| 792 | 102 | Oaklonboy mike |
+| 793 | 102 | jeremy92 |
+| 794 | 101 | star |
+| 795 | 101 | MELLZZtick€T |
+| 796 | 101 | Wacky Wipepiece |
+| 797 | 101 | Brittany Britkany Marsden-Garrison |
+| 798 | 101 | John Spath |
+| 799 | 100 | Shanjerrica Taylor Rosell |
+| 800 | 100 | Phillip White |
+| 801 | 100 | Dannie |
+| 802 | 100 | Lester Malone |
+| 803 | 100 | Undeniable Williams |
+| 804 | 100 | LaSharmeika Fancher |
+| 805 | 100 | Marcello Rush |
+| 806 | 100 | Jonathan McKenzie |
+| 807 | 100 | Keith Big-Sixx Mackell |
+| 808 | 100 | Ounquan Wright |
+| 809 | 100 | Raymond Keeler |
+| 810 | 100 | Crafty Witch |
+| 811 | 100 | Oldheads |
+| 812 | 99 | Boymama917 |
+| 813 | 99 | Sylvia Offically A Mcgowan |
+| 814 | 99 | Eugenia Vanclusen |
 | 815 | 99 | Rochelle Nash-Evans |
 | 816 | 99 | Sunny Clicky |
-| 817 | 99 | Eugenia Vanclusen |
-| 818 | 98 | Desiree Ryder |
-| 819 | 98 | Daphne Ceasar |
-| 820 | 98 | Christopher Shaw-Black |
+| 817 | 99 | Yoellah Benyahmeen |
+| 818 | 99 | Lucille Wilson Davis |
+| 819 | 98 | Christopher Shaw-Black |
+| 820 | 98 | Daphne Ceasar |
 | 821 | 98 | Terrance Tindall |
 | 822 | 98 | Azeiare Ziare |
-| 823 | 97 | Smiley Bridgepiece |
+| 823 | 98 | Desiree Ryder |
 | 824 | 97 | Nichole Horsley-Conn |
-| 825 | 97 | TieMs BHughez |
-| 826 | 97 | Oaklonboy mike |
+| 825 | 97 | Smiley Bridgepiece |
+| 826 | 97 | TieMs BHughez |
 | 827 | 97 | Elaine Youmans |
 | 828 | 96 | Just2Play$ |
 | 829 | 96 | James Bryant II |
