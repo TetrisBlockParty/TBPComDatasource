@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:42:43 UTC
+# Standings for team1 as of 2026-06-08 12:43:21 UTC
 
 **Total Participants:** 1790
 
@@ -43,7 +43,7 @@
 | 35 | 2278 | Mary Jenkins |
 | 36 | 2216 | Jamie Willis |
 | 37 | 2199 | Weeze |
-| 38 | 2172 | Epic Snapfall |
+| 38 | 2188 | Epic Snapfall |
 | 39 | 2138 | Linzie Marie |
 | 40 | 2132 | COSA303 |
 | 41 | 2076 | April Inboden |
@@ -81,7 +81,7 @@
 | 73 | 1108 | Kimberly Hernandez |
 | 74 | 1091 | Bre Maugh |
 | 75 | 1090 | Catara Renae Oliver |
-| 76 | 1083 | Moomoo |
+| 76 | 1087 | Moomoo |
 | 77 | 1078 | Danielle DeLozier Plesec |
 | 78 | 1055 | PandaPrincess |
 | 79 | 1048 | Chenell Gillard |
@@ -663,16 +663,16 @@
 | 655 | 116 | Andra Ward |
 | 656 | 116 | Rosalind Chatman |
 | 657 | 115 | WOOLFF |
-| 658 | 114 | LAhoneybun82 |
-| 659 | 114 | Cranky Fall |
-| 660 | 114 | Felicia Dungey |
-| 661 | 114 | Ameillia Boughner |
-| 662 | 114 | Renee Marshall |
-| 663 | 113 | Lilly Brown |
-| 664 | 112 | GamerQueenDS |
-| 665 | 112 | TeeMaster Barber IsLyfe |
-| 666 | 112 | Peppy Wipeblock |
-| 667 | 112 | Angela Brown Babin |
+| 658 | 115 | Angela Brown Babin |
+| 659 | 114 | LAhoneybun82 |
+| 660 | 114 | Cranky Fall |
+| 661 | 114 | Felicia Dungey |
+| 662 | 114 | Ameillia Boughner |
+| 663 | 114 | Renee Marshall |
+| 664 | 113 | Lilly Brown |
+| 665 | 112 | GamerQueenDS |
+| 666 | 112 | TeeMaster Barber IsLyfe |
+| 667 | 112 | Peppy Wipeblock |
 | 668 | 112 | Jose Rodriguez |
 | 669 | 112 | Loopy Block |
 | 670 | 112 | DirtiestofMikes |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:42:43 UTC
+# Standings for team4 as of 2026-06-08 12:43:21 UTC
 
 **Total Participants:** 1827
 
@@ -17,8 +17,8 @@
 | 9 | 6401 | BertaF1irta |
 | 10 | 6108 | Kait Confetti |
 | 11 | 5633 | Bubbly Twistpiece |
-| 12 | 5552 | Jerald Jones |
-| 13 | 5528 | delilahbelle |
+| 12 | 5571 | delilahbelle |
+| 13 | 5552 | Jerald Jones |
 | 14 | 5351 | Jennifer Edgell Richardson |
 | 15 | 5307 | Hasty Builder |
 | 16 | 5041 | Squirrel Donkey |
@@ -59,8 +59,8 @@
 | 51 | 1729 | Erin Figone |
 | 52 | 1718 | Jason Allen |
 | 53 | 1711 | Cal Renee |
-| 54 | 1700 | Leah Gorsuch |
-| 55 | 1700 | Elissa S-k |
+| 54 | 1700 | Elissa S-k |
+| 55 | 1700 | Leah Gorsuch |
 | 56 | 1681 | 626 |
 | 57 | 1677 | Dheeh Robles |
 | 58 | 1600 | Melissa Brown |
@@ -636,58 +636,58 @@
 | 628 | 124 | Vonni McLean |
 | 629 | 124 | Chad Finton |
 | 630 | 123 | Kari Smith |
-| 631 | 123 | Andreas Vs Shinky |
-| 632 | 123 | Arvin Ortega |
-| 633 | 123 | Sarah Perry Cook |
-| 634 | 123 | Amanda Snow |
+| 631 | 123 | Arvin Ortega |
+| 632 | 123 | Andreas Vs Shinky |
+| 633 | 123 | Amanda Snow |
+| 634 | 123 | Sarah Perry Cook |
 | 635 | 122 | Ian T Parker |
-| 636 | 121 | Quiles Yaitza |
-| 637 | 121 | Giggy Snapgrid |
-| 638 | 121 | Lizzzzzz |
-| 639 | 121 | Fancy Tilefall |
-| 640 | 121 | Garden Girlie |
-| 641 | 121 | Brandi Sauer |
-| 642 | 120 | Urplan |
+| 636 | 121 | Breezy Rollfit |
+| 637 | 121 | Quiles Yaitza |
+| 638 | 121 | Giggy Snapgrid |
+| 639 | 121 | Lizzzzzz |
+| 640 | 121 | Fancy Tilefall |
+| 641 | 121 | Garden Girlie |
+| 642 | 121 | Brandi Sauer |
 | 643 | 120 | Allysonjo Varela |
 | 644 | 120 | Jenn Wilson |
-| 645 | 120 | Jimmy Clark |
-| 646 | 120 | Stotty |
-| 647 | 120 | Glamorous Gracey |
-| 648 | 120 | George Marshburn |
-| 649 | 120 | Giddy Basepiece |
-| 650 | 120 | Anthony Edwards |
-| 651 | 119 | Brittany Lentz |
-| 652 | 119 | Breezy Rollfit |
-| 653 | 119 | GETBOXED! |
+| 645 | 120 | Giddy Basepiece |
+| 646 | 120 | Jimmy Clark |
+| 647 | 120 | George Marshburn |
+| 648 | 120 | Urplan |
+| 649 | 120 | Glamorous Gracey |
+| 650 | 120 | Stotty |
+| 651 | 120 | Anthony Edwards |
+| 652 | 119 | Brittany Lentz |
+| 653 | 119 | BookwormCate |
 | 654 | 119 | Electric Storm |
-| 655 | 119 | BookwormCate |
-| 656 | 119 | Rhonda Dowling |
-| 657 | 118 | Jennifer Naughton |
-| 658 | 118 | Jacqueline Arce |
+| 655 | 119 | Rhonda Dowling |
+| 656 | 119 | GETBOXED! |
+| 657 | 118 | Jacqueline Arce |
+| 658 | 118 | Jennifer Naughton |
 | 659 | 117 | YenSid |
 | 660 | 117 | Kay |
-| 661 | 116 | MsChelleAnn |
-| 662 | 116 | Aaron Turner |
-| 663 | 115 | chuck |
-| 664 | 115 | Jasmine Turner |
-| 665 | 115 | Giggy Bridgepiece |
+| 661 | 116 | Aaron Turner |
+| 662 | 116 | MsChelleAnn |
+| 663 | 115 | Jasmine Turner |
+| 664 | 115 | chuck |
+| 665 | 115 | Dinah Mccall |
 | 666 | 115 | Misti Rich |
 | 667 | 115 | pussface |
-| 668 | 115 | Dinah Mccall |
+| 668 | 115 | Giggy Bridgepiece |
 | 669 | 114 | Tammy Wells |
 | 670 | 114 | Jeremy Barry |
 | 671 | 114 | Japexican Strong |
 | 672 | 114 | Loretta Hendricks |
 | 673 | 114 | Emjae Tupaz-Rivera |
 | 674 | 114 | Jason Moves |
-| 675 | 113 | mikey moo |
-| 676 | 113 | Butterfly |
+| 675 | 113 | Butterfly |
+| 676 | 113 | mikey moo |
 | 677 | 113 | Melissa Anne |
 | 678 | 113 | Renzo Tonini |
 | 679 | 113 | Shaunna Caldwell |
-| 680 | 112 | Khiem Hernandez |
-| 681 | 112 | Lolita Nettles |
-| 682 | 112 | medicjessi |
+| 680 | 112 | Lolita Nettles |
+| 681 | 112 | medicjessi |
+| 682 | 112 | Khiem Hernandez |
 | 683 | 112 | Shaneé Staunton |
 | 684 | 111 | Richard Bearse |
 | 685 | 111 | Elena Marí |
