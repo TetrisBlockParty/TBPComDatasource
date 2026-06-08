@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 23:50:42 UTC
+# Standings for team4 as of 2026-06-08 23:51:21 UTC
 
 **Total Participants:** 1960
 
@@ -74,8 +74,8 @@
 | 66 | 1428 | Keg |
 | 67 | 1421 | Charlie Lewis |
 | 68 | 1399 | Joseph Anthony Watkins |
-| 69 | 1300 | 2 kool |
-| 70 | 1296 | SMV |
+| 69 | 1306 | SMV |
+| 70 | 1300 | 2 kool |
 | 71 | 1249 | Michelle Ross |
 | 72 | 1245 | Sweet Stacker |
 | 73 | 1225 | Fancy Crasher |
@@ -179,7 +179,7 @@
 | 171 | 520 | DexterDobbins |
 | 172 | 518 | Real Talk Vibes |
 | 173 | 516 | Shocinda Sherwood |
-| 174 | 514 | Megan Vick |
+| 174 | 515 | Megan Vick |
 | 175 | 512 | Taz |
 | 176 | 500 | Nicole |
 | 177 | 499 | Boldy Rumbler |
@@ -212,16 +212,16 @@
 | 204 | 443 | Joyce Myers |
 | 205 | 443 | Crissy Hoffman |
 | 206 | 441 | Shannon Rivera |
-| 207 | 440 | Magz |
-| 208 | 439 | Scamp Jones |
-| 209 | 439 | Perky Riserbuilder |
-| 210 | 438 | Aisha Estrada |
-| 211 | 438 | Alex Armour |
-| 212 | 437 | Sarah Perry Cook |
-| 213 | 433 | Shanae Taylor |
-| 214 | 432 | Danny Ortiz |
-| 215 | 431 | Jackie Miller |
-| 216 | 431 | Smiley Gridzone |
+| 207 | 441 | Smiley Gridzone |
+| 208 | 440 | Magz |
+| 209 | 439 | Scamp Jones |
+| 210 | 439 | Perky Riserbuilder |
+| 211 | 438 | Aisha Estrada |
+| 212 | 438 | Alex Armour |
+| 213 | 437 | Sarah Perry Cook |
+| 214 | 433 | Shanae Taylor |
+| 215 | 432 | Danny Ortiz |
+| 216 | 431 | Jackie Miller |
 | 217 | 431 | Loony Glidepiece |
 | 218 | 430 | Tammy June |
 | 219 | 421 | Shiny Brick |
@@ -382,18 +382,18 @@
 | 374 | 255 | Britney Kitora |
 | 375 | 255 | Quiomarie Cotto |
 | 376 | 255 | Sean Mccleary |
-| 377 | 254 | farfromlocal |
-| 378 | 253 | Izz |
-| 379 | 253 | LeRoy jenkins |
-| 380 | 252 | Dawn Phelps |
-| 381 | 252 | Clashy |
-| 382 | 252 | Toon Up |
-| 383 | 251 | Jj Johnson |
-| 384 | 250 | Mark Fitch Jr. |
-| 385 | 249 | Brennan Shea Greene |
-| 386 | 247 | Shauna Davis |
-| 387 | 247 | Corie A. Brinson |
-| 388 | 247 | Mimi Dominguez |
+| 377 | 254 | Mimi Dominguez |
+| 378 | 254 | farfromlocal |
+| 379 | 253 | Izz |
+| 380 | 253 | LeRoy jenkins |
+| 381 | 252 | Dawn Phelps |
+| 382 | 252 | Clashy |
+| 383 | 252 | Toon Up |
+| 384 | 251 | Jj Johnson |
+| 385 | 250 | Mark Fitch Jr. |
+| 386 | 249 | Brennan Shea Greene |
+| 387 | 247 | Shauna Davis |
+| 388 | 247 | Corie A. Brinson |
 | 389 | 247 | Jazzy Gridder |
 | 390 | 247 | Deborah Silberg |
 | 391 | 246 | Alyssa Berg |
@@ -961,15 +961,15 @@
 | 953 | 88 | Justin Sercu |
 | 954 | 88 | Happy Toast |
 | 955 | 88 | Lateasha Wildman |
-| 956 | 87 | da1ndonly |
+| 956 | 87 | Seraphina |
 | 957 | 87 | Yournightmare |
-| 958 | 87 | Seraphina |
-| 959 | 87 | Oc Tive |
-| 960 | 86 | Andy Petersen |
-| 961 | 86 | Alicia Loveless |
-| 962 | 86 | Gerald Richard Franke |
-| 963 | 86 | Chelsea Leigh Busch |
-| 964 | 86 | Lush Match |
+| 958 | 87 | Oc Tive |
+| 959 | 87 | da1ndonly |
+| 960 | 86 | Alicia Loveless |
+| 961 | 86 | Andy Petersen |
+| 962 | 86 | Chelsea Leigh Busch |
+| 963 | 86 | Lush Match |
+| 964 | 86 | Gerald Richard Franke |
 | 965 | 86 | Erich EMac McIntosh |
 | 966 | 86 | Hasty Snapmatch |
 | 967 | 86 | Steven Patshy |
@@ -977,62 +977,62 @@
 | 969 | 85 | taya |
 | 970 | 85 | Natalie Ohrtman Strand |
 | 971 | 85 | Joyce Hampton |
-| 972 | 85 | RustyMaster40 |
-| 973 | 85 | Jeff Seymour |
-| 974 | 85 | Giggly Rollpiece |
-| 975 | 85 | Lush Balanceblock |
-| 976 | 85 | bofe |
-| 977 | 85 | MelodiousDeez |
-| 978 | 84 | Jodi Haman-wheeler |
-| 979 | 84 | Combo Snappy |
-| 980 | 84 | Jumpy Brickline |
-| 981 | 84 | Wynisha Johnson |
-| 982 | 84 | Red |
-| 983 | 84 | Poseidon S Davenport |
-| 984 | 84 | T-Dogger |
-| 985 | 84 | Nicole Ambrose |
-| 986 | 84 | Vicente Bolaños Jr. |
-| 987 | 84 | Scott Baum |
-| 988 | 84 | Stacy Brown |
-| 989 | 84 | Redhead girl |
-| 990 | 84 | Cassie N Danica Flaherty |
-| 991 | 84 | Darryl Shufford |
-| 992 | 84 | Lorrie Ann Burchett |
-| 993 | 83 | Catherine Garza |
-| 994 | 83 | Peter Babineaux Jr |
+| 972 | 85 | bofe |
+| 973 | 85 | Bouncy Fitblock |
+| 974 | 85 | MelodiousDeez |
+| 975 | 85 | RustyMaster40 |
+| 976 | 85 | Lush Balanceblock |
+| 977 | 85 | Giggly Rollpiece |
+| 978 | 85 | Jeff Seymour |
+| 979 | 84 | Jumpy Brickline |
+| 980 | 84 | Jodi Haman-wheeler |
+| 981 | 84 | Combo Snappy |
+| 982 | 84 | Wynisha Johnson |
+| 983 | 84 | Red |
+| 984 | 84 | Poseidon S Davenport |
+| 985 | 84 | T-Dogger |
+| 986 | 84 | Nicole Ambrose |
+| 987 | 84 | Vicente Bolaños Jr. |
+| 988 | 84 | Scott Baum |
+| 989 | 84 | Stacy Brown |
+| 990 | 84 | Redhead girl |
+| 991 | 84 | Cassie N Danica Flaherty |
+| 992 | 84 | Darryl Shufford |
+| 993 | 84 | Lorrie Ann Burchett |
+| 994 | 83 | Catherine Garza |
 | 995 | 83 | Karen Denise Ann Veitch |
 | 996 | 83 | Kelli Miller |
 | 997 | 83 | Bubbly Shatter |
 | 998 | 83 | Tonia Kay |
-| 999 | 83 | Loony Dashgrid |
-| 1000 | 83 | Elisha Thompson |
+| 999 | 83 | Peter Babineaux Jr |
+| 1000 | 83 | Loony Dashgrid |
 | 1001 | 83 | ShortStackz Jones |
-| 1002 | 82 | Giggly Gridzone |
-| 1003 | 82 | crazy lazy |
-| 1004 | 82 | Monica Shupe |
-| 1005 | 82 | Brenda Mueller |
-| 1006 | 82 | Sara Cobb |
-| 1007 | 82 | JuicyJay |
-| 1008 | 82 | Dapper Tiltpiece |
-| 1009 | 82 | Cflixer |
-| 1010 | 82 | Charity Thomas |
-| 1011 | 82 | Jonelle Jacobs |
-| 1012 | 81 | Shelly Jackson |
-| 1013 | 81 | Anthony Kollar |
-| 1014 | 81 | Buggy Julks |
-| 1015 | 81 | San |
-| 1016 | 81 | Chris Somsen |
-| 1017 | 81 | Kristen Lester |
-| 1018 | 81 | Diqthot |
-| 1019 | 81 | Krushie |
-| 1020 | 81 | Bouncy Fitblock |
-| 1021 | 80 | Tracey Hudspath |
-| 1022 | 80 | Keisha Petway |
-| 1023 | 80 | Melissa Derby Rood |
+| 1002 | 83 | Elisha Thompson |
+| 1003 | 82 | JuicyJay |
+| 1004 | 82 | Giggly Gridzone |
+| 1005 | 82 | Sara Cobb |
+| 1006 | 82 | Brenda Mueller |
+| 1007 | 82 | Monica Shupe |
+| 1008 | 82 | crazy lazy |
+| 1009 | 82 | Dapper Tiltpiece |
+| 1010 | 82 | Cflixer |
+| 1011 | 82 | Charity Thomas |
+| 1012 | 82 | Jonelle Jacobs |
+| 1013 | 81 | Shelly Jackson |
+| 1014 | 81 | Anthony Kollar |
+| 1015 | 81 | Buggy Julks |
+| 1016 | 81 | San |
+| 1017 | 81 | Diqthot |
+| 1018 | 81 | Chris Somsen |
+| 1019 | 81 | Kristen Lester |
+| 1020 | 81 | Krushie |
+| 1021 | 80 | Keisha Petway |
+| 1022 | 80 | Melissa Derby Rood |
+| 1023 | 80 | Tracey Hudspath |
 | 1024 | 80 | Bumpy Morris |
-| 1025 | 80 | Melissa Robinson |
-| 1026 | 80 | Yam My |
-| 1027 | 80 | Dannie Ems |
+| 1025 | 80 | Dannie Ems |
+| 1026 | 80 | Melissa Robinson |
+| 1027 | 80 | Yam My |
 | 1028 | 80 | Tesa Mike Jenkins |
 | 1029 | 80 | Trishaann Triplett |
 | 1030 | 80 | KrisTina2007 |
