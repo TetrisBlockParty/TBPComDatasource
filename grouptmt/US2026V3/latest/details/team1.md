@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 20:46:43 UTC
+# Standings for team1 as of 2026-06-08 20:47:22 UTC
 
 **Total Participants:** 1870
 
@@ -71,9 +71,9 @@
 | 63 | 1268 | Sanjuro |
 | 64 | 1258 | Frisky Fallmatch |
 | 65 | 1251 | Daylene Johannes |
-| 66 | 1239 | Holly Jolly |
-| 67 | 1230 | Spicy Balancer |
-| 68 | 1224 | Eric Mcgaughy |
+| 66 | 1244 | Eric Mcgaughy |
+| 67 | 1239 | Holly Jolly |
+| 68 | 1230 | Spicy Balancer |
 | 69 | 1211 | LeeLee08 |
 | 70 | 1211 | Bre Maugh |
 | 71 | 1208 | Aviv Zehavi |
@@ -184,7 +184,7 @@
 | 176 | 511 | Dizzy Dropper |
 | 177 | 505 | Marcheta Cervantez |
 | 178 | 501 | IThinkNot |
-| 179 | 496 | Dandy Brickfit |
+| 179 | 497 | Dandy Brickfit |
 | 180 | 494 | Ty Øtg |
 | 181 | 494 | DaVonte' Cretter |
 | 182 | 494 | Plucky Slamdrop |
@@ -369,11 +369,11 @@
 | 361 | 249 | Nate Myers |
 | 362 | 248 | HarleyJane |
 | 363 | 248 | Darrel K Pemberton |
-| 364 | 247 | Tessa Gaskin |
-| 365 | 247 | Faith Armone |
-| 366 | 246 | Shanaa Germany Crittenden |
-| 367 | 245 | 大竹直之 |
-| 368 | 245 | Telisha Mims |
+| 364 | 248 | Telisha Mims |
+| 365 | 247 | Tessa Gaskin |
+| 366 | 247 | Faith Armone |
+| 367 | 246 | Shanaa Germany Crittenden |
+| 368 | 245 | 大竹直之 |
 | 369 | 244 | akosua |
 | 370 | 244 | Teddy Davis |
 | 371 | 244 | LaTonya Myers |
@@ -640,35 +640,35 @@
 | 632 | 142 | Mary Goode |
 | 633 | 141 | Shalena Marie Humphrey |
 | 634 | 141 | Krystal Maynard |
-| 635 | 141 | Ashley Monet Terrell |
-| 636 | 141 | Kim Holzmiller |
-| 637 | 140 | TBabii24 |
-| 638 | 140 | Tory Miller |
-| 639 | 140 | Shadon McMillan |
-| 640 | 140 | Amihan |
-| 641 | 140 | Kennedi Brazziel |
-| 642 | 140 | Eric Machuca |
-| 643 | 139 | Antoinette Kelly |
-| 644 | 139 | Rochelle Nash-Evans |
-| 645 | 139 | Zany Breaker |
-| 646 | 138 | Rene Hicks |
+| 635 | 141 | Octavia Bsb Johnson |
+| 636 | 141 | Ashley Monet Terrell |
+| 637 | 141 | Kim Holzmiller |
+| 638 | 140 | TBabii24 |
+| 639 | 140 | Tory Miller |
+| 640 | 140 | Shadon McMillan |
+| 641 | 140 | Amihan |
+| 642 | 140 | Kennedi Brazziel |
+| 643 | 140 | Eric Machuca |
+| 644 | 139 | Zany Breaker |
+| 645 | 139 | Antoinette Kelly |
+| 646 | 139 | Rochelle Nash-Evans |
 | 647 | 138 | Gbnola |
 | 648 | 138 | Claudia Price |
-| 649 | 138 | Octavia Bsb Johnson |
-| 650 | 138 | Chloe Bankz |
-| 651 | 138 | Ozell Jones Jr. |
+| 649 | 138 | Rene Hicks |
+| 650 | 138 | Ozell Jones Jr. |
+| 651 | 138 | Chloe Bankz |
 | 652 | 137 | Angelique Talbot |
-| 653 | 136 | The DUBZ |
-| 654 | 136 | Guard Up |
+| 653 | 136 | Guard Up |
+| 654 | 136 | The DUBZ |
 | 655 | 136 | Christina Singleton |
 | 656 | 136 | BonnieB |
 | 657 | 135 | Paul Pendley |
 | 658 | 135 | Shameka Tiffany |
 | 659 | 135 | Saucy Tile |
-| 660 | 134 | Clint Mcdowell |
-| 661 | 134 | Spicy Shatterblock |
-| 662 | 134 | Dana Hawes |
-| 663 | 134 | Hyedie Badie |
+| 660 | 134 | Spicy Shatterblock |
+| 661 | 134 | Dana Hawes |
+| 662 | 134 | Hyedie Badie |
+| 663 | 134 | Clint Mcdowell |
 | 664 | 134 | Anastasia |
 | 665 | 133 | Kimberly Susan Privette |
 | 666 | 133 | Derald Miller |
