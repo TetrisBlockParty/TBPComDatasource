@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:34:20 UTC
+# Standings for team2 as of 2026-06-08 17:34:43 UTC
 
 **Total Participants:** 2228
 
@@ -392,11 +392,11 @@
 | 384 | 283 | Hilliary Beyer |
 | 385 | 283 | Jerry L Morales |
 | 386 | 283 | Ariel Gundersen |
-| 387 | 281 | Mouh Med |
-| 388 | 281 | Sassy Patternblock |
-| 389 | 281 | AndrewandShela Gornik |
-| 390 | 280 | August Christy Lathrop |
-| 391 | 279 | Avie Lou |
+| 387 | 282 | Avie Lou |
+| 388 | 281 | Mouh Med |
+| 389 | 281 | Sassy Patternblock |
+| 390 | 281 | AndrewandShela Gornik |
+| 391 | 280 | August Christy Lathrop |
 | 392 | 279 | Curly Windbreaker |
 | 393 | 278 | Amy Nicole McCanne |
 | 394 | 278 | Kellie Montgomery |
@@ -436,10 +436,10 @@
 | 428 | 250 | Happy Drop |
 | 429 | 249 | Sarah Grundisch |
 | 430 | 248 | Paula Haskins |
-| 431 | 247 | Tina |
-| 432 | 246 | PaiBri |
-| 433 | 246 | Tango Sierra |
-| 434 | 246 | Amber Cogdill |
+| 431 | 248 | Tango Sierra |
+| 432 | 247 | Tina |
+| 433 | 246 | Amber Cogdill |
+| 434 | 246 | PaiBri |
 | 435 | 246 | Chipper Patternblock |
 | 436 | 241 | Michael Carmichael |
 | 437 | 241 | Holly Huval |
