@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:32:19 UTC
+# Standings for team1 as of 2026-06-08 07:32:42 UTC
 
 **Total Participants:** 1755
 
@@ -993,53 +993,53 @@
 | 985 | 63 | Fairy Fae_6 |
 | 986 | 63 | Gary Kyle |
 | 987 | 63 | Natasha Harris |
-| 988 | 63 | Tony P Burke |
-| 989 | 63 | Tonny Williams |
+| 988 | 63 | Toohartless Mech |
+| 989 | 63 | Tony P Burke |
 | 990 | 63 | GetDaOPPS |
 | 991 | 63 | Amanda Colwell |
-| 992 | 62 | Shona ShayShay Jones |
-| 993 | 62 | AnnaM |
-| 994 | 62 | Spicy Hedgehog |
-| 995 | 62 | Amihan |
-| 996 | 62 | Tia Hazelton |
-| 997 | 62 | Quirky Slammer |
-| 998 | 61 | Michelle Stanford-Page |
-| 999 | 61 | Tonya Thomas |
-| 1000 | 61 | Rosalind Chatman |
-| 1001 | 61 | Toohartless Mech |
+| 992 | 63 | Tonny Williams |
+| 993 | 62 | Shona ShayShay Jones |
+| 994 | 62 | AnnaM |
+| 995 | 62 | Spicy Hedgehog |
+| 996 | 62 | Amihan |
+| 997 | 62 | Tia Hazelton |
+| 998 | 62 | Quirky Slammer |
+| 999 | 61 | Michelle Stanford-Page |
+| 1000 | 61 | Tonya Thomas |
+| 1001 | 61 | Rosalind Chatman |
 | 1002 | 61 | Meshia |
-| 1003 | 60 | Jennifer Endean |
-| 1004 | 60 | Nigel Snyder |
-| 1005 | 60 | Yellowguy3 |
-| 1006 | 60 | Bambam |
-| 1007 | 60 | Lynette Manning |
-| 1008 | 60 | Sally Elizabeth Hopson |
-| 1009 | 60 | Tyrone Porter |
-| 1010 | 60 | Tellisa Payne |
-| 1011 | 60 | lookin |
-| 1012 | 60 | kick it |
-| 1013 | 60 | Demi Ovalle |
-| 1014 | 60 | Chris Watson Draper |
-| 1015 | 60 | Tanesha Ga'sFinest Corbett |
-| 1016 | 60 | Juan Lewis |
-| 1017 | 60 | Londa Londa |
-| 1018 | 60 | Ebie |
-| 1019 | 60 | HS Arce |
-| 1020 | 59 | Wacky Spinfit |
-| 1021 | 59 | Sweet BayBee |
-| 1022 | 59 | Andrea Jackson |
-| 1023 | 59 | Robert Varnado |
-| 1024 | 59 | Smiley Tilebuilder |
-| 1025 | 59 | Kween Pilot |
-| 1026 | 58 | Meeee |
-| 1027 | 58 | AleahKCH |
-| 1028 | 58 | Aihpos |
+| 1003 | 60 | Tellisa Payne |
+| 1004 | 60 | lookin |
+| 1005 | 60 | Sally Elizabeth Hopson |
+| 1006 | 60 | Lynette Manning |
+| 1007 | 60 | Nigel Snyder |
+| 1008 | 60 | Demi Ovalle |
+| 1009 | 60 | Yellowguy3 |
+| 1010 | 60 | Chris Watson Draper |
+| 1011 | 60 | Bambam |
+| 1012 | 60 | Tanesha Ga'sFinest Corbett |
+| 1013 | 60 | Tyrone Porter |
+| 1014 | 60 | HS Arce |
+| 1015 | 60 | kick it |
+| 1016 | 60 | Ebie |
+| 1017 | 60 | Juan Lewis |
+| 1018 | 60 | Londa Londa |
+| 1019 | 60 | Jennifer Endean |
+| 1020 | 59 | Smiley Tilebuilder |
+| 1021 | 59 | Robert Varnado |
+| 1022 | 59 | Kween Pilot |
+| 1023 | 59 | Wacky Spinfit |
+| 1024 | 59 | Sweet BayBee |
+| 1025 | 59 | Andrea Jackson |
+| 1026 | 58 | Corbin Henry |
+| 1027 | 58 | Gabriela Hernandez |
+| 1028 | 58 | Meeee |
 | 1029 | 58 | Brii Michelle Lamb |
-| 1030 | 58 | CoaCoa Myles |
-| 1031 | 58 | sha |
-| 1032 | 58 | Corbin Henry |
-| 1033 | 58 | Brandy Way |
-| 1034 | 58 | Gabriela Hernandez |
+| 1030 | 58 | AleahKCH |
+| 1031 | 58 | Aihpos |
+| 1032 | 58 | CoaCoa Myles |
+| 1033 | 58 | sha |
+| 1034 | 58 | Brandy Way |
 | 1035 | 57 | Vernon Hoyt |
 | 1036 | 57 | Demetrice Buck Wilson |
 | 1037 | 57 | Tina Criam |
