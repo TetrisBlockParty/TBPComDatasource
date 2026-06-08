@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:10:20 UTC
+# Standings for team1 as of 2026-06-08 06:10:43 UTC
 
 **Total Participants:** 1737
 
@@ -106,7 +106,7 @@
 | 98 | 764 | Jason Mungin |
 | 99 | 754 | LeeLee08 |
 | 100 | 749 | Aviv Zehavi |
-| 101 | 744 | Yolanda E Fergerson |
+| 101 | 747 | Yolanda E Fergerson |
 | 102 | 744 | Chris Caniglia |
 | 103 | 743 | Tameka Jones |
 | 104 | 730 | ing410 |
@@ -556,98 +556,98 @@
 | 548 | 128 | BonnieB |
 | 549 | 128 | Zappy Snapgrid |
 | 550 | 127 | Octavia Bsb Johnson |
-| 551 | 126 | Laurie Napper |
-| 552 | 126 | Ryan Runyan |
-| 553 | 126 | Terrie |
-| 554 | 126 | Kahliah Baker |
-| 555 | 126 | Jessie N Michael Silvers |
-| 556 | 125 | BB |
+| 551 | 127 | Johnathan Deese |
+| 552 | 126 | Terrie |
+| 553 | 126 | Ryan Runyan |
+| 554 | 126 | Laurie Napper |
+| 555 | 126 | Kahliah Baker |
+| 556 | 126 | Jessie N Michael Silvers |
 | 557 | 125 | Christina Singleton |
 | 558 | 125 | Dizzy Dashy |
-| 559 | 124 | Nerdy Climber |
+| 559 | 125 | BB |
 | 560 | 124 | Jes Marie |
 | 561 | 124 | DellaLucretia Thomas |
 | 562 | 124 | Li-Li Ratliff |
-| 563 | 123 | Boldy Matchbuilder |
+| 563 | 124 | Nerdy Climber |
 | 564 | 123 | Jackytrain52 |
-| 565 | 123 | Holly Baker |
+| 565 | 123 | Boldy Matchbuilder |
 | 566 | 123 | Dizzy Gridmatch |
-| 567 | 123 | Daring Riserfit |
-| 568 | 123 | Derald Miller |
-| 569 | 122 | Donna Payne |
+| 567 | 123 | Derald Miller |
+| 568 | 123 | Holly Baker |
+| 569 | 123 | Daring Riserfit |
 | 570 | 122 | Xana Zania Bopp |
-| 571 | 122 | Johnathan Deese |
+| 571 | 122 | Donna Payne |
 | 572 | 121 | Nora Mahmoud |
-| 573 | 121 | Tiana Monique |
-| 574 | 121 | Ad Doctor |
-| 575 | 121 | Biggestboss Ransom |
-| 576 | 120 | Brenda Malachi-butler |
-| 577 | 120 | Frances Davis |
-| 578 | 120 | Latore Maxie |
-| 579 | 120 | Kanary Karotz |
-| 580 | 120 | Monica Fields |
-| 581 | 120 | Dianne Clagon |
-| 582 | 120 | Rene Hicks |
-| 583 | 120 | Giggly Tiltbuilder |
-| 584 | 120 | Giggy Edgefit |
-| 585 | 120 | MindlessMic |
-| 586 | 120 | Leavon Smith |
-| 587 | 119 | Montréal Mars |
+| 573 | 121 | Biggestboss Ransom |
+| 574 | 121 | Tiana Monique |
+| 575 | 121 | Ad Doctor |
+| 576 | 120 | Leavon Smith |
+| 577 | 120 | Kanary Karotz |
+| 578 | 120 | Brenda Malachi-butler |
+| 579 | 120 | Rene Hicks |
+| 580 | 120 | Latore Maxie |
+| 581 | 120 | Giggly Tiltbuilder |
+| 582 | 120 | MindlessMic |
+| 583 | 120 | Giggy Edgefit |
+| 584 | 120 | Dianne Clagon |
+| 585 | 120 | Monica Fields |
+| 586 | 120 | Frances Davis |
+| 587 | 119 | Hyy |
 | 588 | 119 | TY Newme Batts |
-| 589 | 119 | Lexx Robins |
-| 590 | 119 | Hyy |
-| 591 | 118 | Rhianna Dinki Austin |
+| 589 | 119 | Montréal Mars |
+| 590 | 119 | Lexx Robins |
+| 591 | 118 | SnazzyIvy |
 | 592 | 118 | Amanda Woodruff |
-| 593 | 118 | SnazzyIvy |
-| 594 | 118 | Hasty Pivoty |
-| 595 | 118 | Pretty Yella |
-| 596 | 118 | Raymond Boosie Freeman |
-| 597 | 117 | Andrew Jay Vaughn |
-| 598 | 117 | DaemahnFriday |
-| 599 | 117 | Bubbly Slammer |
-| 600 | 117 | Bruce Paléncia |
-| 601 | 116 | Melissa Hershberger |
-| 602 | 116 | Ladybug |
+| 593 | 118 | Rhianna Dinki Austin |
+| 594 | 118 | Raymond Boosie Freeman |
+| 595 | 118 | Hasty Pivoty |
+| 596 | 118 | Pretty Yella |
+| 597 | 117 | Bruce Paléncia |
+| 598 | 117 | Andrew Jay Vaughn |
+| 599 | 117 | DaemahnFriday |
+| 600 | 117 | Bubbly Slammer |
+| 601 | 116 | Ladybug |
+| 602 | 116 | Sallie Sanborn |
 | 603 | 116 | Sherri Keys |
-| 604 | 116 | Sallie Sanborn |
-| 605 | 116 | Jess |
-| 606 | 115 | WOOLFF |
-| 607 | 115 | Rufus |
-| 608 | 115 | Betsy B. Yohan |
-| 609 | 115 | Marbama |
-| 610 | 115 | Tesiree Cray |
-| 611 | 115 | Wayne Savannah |
-| 612 | 115 | nameno |
-| 613 | 114 | LAhoneybun82 |
-| 614 | 114 | Cranky Fall |
-| 615 | 114 | Felicia Dungey |
-| 616 | 113 | Lilly Brown |
-| 617 | 112 | Casey Chapman |
-| 618 | 112 | DirtiestofMikes |
-| 619 | 112 | Marie Wilson |
-| 620 | 112 | Nyhlah Patterson |
-| 621 | 112 | Stephen Glaze |
-| 622 | 112 | GamerQueenDS |
-| 623 | 111 | Mellie Mel |
-| 624 | 111 | Happy Blockpiece |
-| 625 | 111 | Taneka Howell |
-| 626 | 111 | Chino Baby |
-| 627 | 111 | Angie Smith |
+| 604 | 116 | Jess |
+| 605 | 116 | Melissa Hershberger |
+| 606 | 115 | Rufus |
+| 607 | 115 | Betsy B. Yohan |
+| 608 | 115 | Esha I'msoproudofmyself Davis |
+| 609 | 115 | WOOLFF |
+| 610 | 115 | Marbama |
+| 611 | 115 | nameno |
+| 612 | 115 | Wayne Savannah |
+| 613 | 115 | Tesiree Cray |
+| 614 | 114 | LAhoneybun82 |
+| 615 | 114 | Cranky Fall |
+| 616 | 114 | Felicia Dungey |
+| 617 | 113 | Lilly Brown |
+| 618 | 112 | GamerQueenDS |
+| 619 | 112 | Stephen Glaze |
+| 620 | 112 | DirtiestofMikes |
+| 621 | 112 | Casey Chapman |
+| 622 | 112 | Nyhlah Patterson |
+| 623 | 112 | Marie Wilson |
+| 624 | 111 | Mellie Mel |
+| 625 | 111 | Happy Blockpiece |
+| 626 | 111 | Taneka Howell |
+| 627 | 111 | Chino Baby |
 | 628 | 111 | Happy Blocky |
-| 629 | 110 | Stephen Garland |
-| 630 | 110 | Jen Hallin |
-| 631 | 110 | Mommy Frank |
+| 629 | 111 | Angie Smith |
+| 630 | 110 | Stephen Garland |
+| 631 | 110 | Jen Hallin |
 | 632 | 110 | Tito Divyn |
-| 633 | 109 | Esha I'msoproudofmyself Davis |
-| 634 | 109 | Hyedie Badie |
-| 635 | 109 | Cynthia Cruell |
+| 633 | 110 | Mommy Frank |
+| 634 | 109 | Kim Holzmiller |
+| 635 | 109 | Kortney Adams |
 | 636 | 109 | Montego Allen |
-| 637 | 109 | Kim Holzmiller |
-| 638 | 109 | Kortney Adams |
-| 639 | 108 | Bella |
+| 637 | 109 | Cynthia Cruell |
+| 638 | 109 | Hyedie Badie |
+| 639 | 108 | Antoinette Kelly |
 | 640 | 108 | Elaine Pauley |
-| 641 | 108 | Richelle Beck |
-| 642 | 108 | Antoinette Kelly |
+| 641 | 108 | Bella |
+| 642 | 108 | Richelle Beck |
 | 643 | 108 | Angela Brown Babin |
 | 644 | 108 | EvaLynn NeCole |
 | 645 | 108 | Shaun Anderson |
