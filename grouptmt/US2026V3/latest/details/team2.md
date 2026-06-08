@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:01:20 UTC
+# Standings for team2 as of 2026-06-08 07:02:20 UTC
 
 **Total Participants:** 2130
 
@@ -656,8 +656,8 @@
 | 648 | 129 | Kristi K Milner |
 | 649 | 129 | Nicole Ashbaugh |
 | 650 | 129 | Jackie Walker |
-| 651 | 129 | Susan Bosell |
-| 652 | 129 | Carrie Smith Negron |
+| 651 | 129 | Carrie Smith Negron |
+| 652 | 129 | Susan Bosell |
 | 653 | 129 | Nichole Fuller |
 | 654 | 128 | Princess Cucumber |
 | 655 | 128 | Josephina |
@@ -743,101 +743,101 @@
 | 735 | 113 | Tanya Goodwin |
 | 736 | 113 | Carmina Truoiolo |
 | 737 | 112 | Kati Eckstein |
-| 738 | 112 | Fallon Moss |
-| 739 | 112 | Smiley Staggerpiece |
-| 740 | 111 | Kelly |
-| 741 | 111 | Erin Lemanski |
-| 742 | 111 | Shiny Spinfit |
-| 743 | 111 | GiGi Cool |
-| 744 | 110 | Michelle Fry-Cash |
-| 745 | 110 | Jason P. Schwartz |
-| 746 | 110 | Brian Little |
-| 747 | 110 | gene15 |
-| 748 | 110 | Patti Ward |
-| 749 | 110 | Carrie Hayes Lankford |
-| 750 | 110 | Emilee Dulyea |
-| 751 | 110 | Christina German |
-| 752 | 110 | Seana Moran |
-| 753 | 110 | Twisty Blockmatch |
-| 754 | 110 | Twisty Matcher |
-| 755 | 109 | Kathy McCormick |
-| 756 | 109 | Jillian Marie |
-| 757 | 109 | jme |
-| 758 | 108 | Monica Gonzalez Rios |
-| 759 | 108 | Shaylee Haltiner |
-| 760 | 108 | Giddy Chiseler |
-| 761 | 107 | Teea Makensi Meyer |
-| 762 | 107 | Giggy Linkgrid |
-| 763 | 107 | Stephanie Smith Robinson |
-| 764 | 107 | Brooke Kaune |
-| 765 | 107 | Chelsea Frye |
-| 766 | 107 | BB |
-| 767 | 107 | Chesney |
-| 768 | 107 | Carole Brown |
-| 769 | 106 | Tracy Lee |
-| 770 | 106 | Seamus |
-| 771 | 106 | Pamela Gambrell |
-| 772 | 106 | Zesty Zoney |
-| 773 | 105 | Roger Kirksey |
-| 774 | 105 | Squared |
-| 775 | 105 | Gabrielle Rivera |
-| 776 | 105 | Trisha Schneider |
-| 777 | 105 | Courtney Madison Hart |
-| 778 | 105 | Wildcat1220 |
-| 779 | 105 | Kendra Sizemore |
-| 780 | 105 | Goofy Shatterbuilder |
-| 781 | 104 | Holly Barefoot |
-| 782 | 104 | John Perkins |
-| 783 | 104 | Errkuh |
-| 784 | 103 | Louis Brudzinski |
-| 785 | 103 | Billy Pittman |
-| 786 | 103 | Chill Clearbuilder |
-| 787 | 103 | Wacky Stack |
-| 788 | 103 | Jolly Twisterfit |
-| 789 | 103 | Connie McCoy |
-| 790 | 103 | Ashley Fleming |
+| 738 | 112 | Smiley Staggerpiece |
+| 739 | 112 | Fallon Moss |
+| 740 | 111 | Doris Bonin |
+| 741 | 111 | Kelly |
+| 742 | 111 | Erin Lemanski |
+| 743 | 111 | Shiny Spinfit |
+| 744 | 111 | GiGi Cool |
+| 745 | 110 | Michelle Fry-Cash |
+| 746 | 110 | Jason P. Schwartz |
+| 747 | 110 | Brian Little |
+| 748 | 110 | gene15 |
+| 749 | 110 | Patti Ward |
+| 750 | 110 | Twisty Matcher |
+| 751 | 110 | Seana Moran |
+| 752 | 110 | Christina German |
+| 753 | 110 | Emilee Dulyea |
+| 754 | 110 | Twisty Blockmatch |
+| 755 | 110 | Carrie Hayes Lankford |
+| 756 | 109 | Kathy McCormick |
+| 757 | 109 | Jillian Marie |
+| 758 | 109 | jme |
+| 759 | 108 | Monica Gonzalez Rios |
+| 760 | 108 | Shaylee Haltiner |
+| 761 | 108 | Giddy Chiseler |
+| 762 | 107 | Teea Makensi Meyer |
+| 763 | 107 | Giggy Linkgrid |
+| 764 | 107 | Stephanie Smith Robinson |
+| 765 | 107 | Brooke Kaune |
+| 766 | 107 | Chelsea Frye |
+| 767 | 107 | BB |
+| 768 | 107 | Chesney |
+| 769 | 107 | Carole Brown |
+| 770 | 106 | Tracy Lee |
+| 771 | 106 | Seamus |
+| 772 | 106 | Pamela Gambrell |
+| 773 | 106 | Zesty Zoney |
+| 774 | 105 | Roger Kirksey |
+| 775 | 105 | Squared |
+| 776 | 105 | Gabrielle Rivera |
+| 777 | 105 | Trisha Schneider |
+| 778 | 105 | Courtney Madison Hart |
+| 779 | 105 | Wildcat1220 |
+| 780 | 105 | Kendra Sizemore |
+| 781 | 105 | Goofy Shatterbuilder |
+| 782 | 104 | Holly Barefoot |
+| 783 | 104 | John Perkins |
+| 784 | 104 | Errkuh |
+| 785 | 103 | Louis Brudzinski |
+| 786 | 103 | Billy Pittman |
+| 787 | 103 | Chill Clearbuilder |
+| 788 | 103 | Wacky Stack |
+| 789 | 103 | Jolly Twisterfit |
+| 790 | 103 | Connie McCoy |
 | 791 | 103 | mee |
-| 792 | 102 | Kaylene Rigas |
+| 792 | 103 | Ashley Fleming |
 | 793 | 102 | Diamond Mitchell |
-| 794 | 102 | Tetrismastrr |
-| 795 | 102 | Twisty Matchfit |
-| 796 | 102 | Sherry Ann |
-| 797 | 102 | Eva Lopez |
-| 798 | 101 | Amy D Coble |
-| 799 | 101 | bozzycat |
-| 800 | 101 | Jessica Murphree |
-| 801 | 101 | Cynthia Dawn Reitz Hanson |
-| 802 | 101 | Robert W Schwartz |
-| 803 | 101 | Perky Linebuilder |
-| 804 | 101 | Jennifer Leigh |
-| 805 | 101 | Michael Delozier |
-| 806 | 101 | Wendy Michelle Wise-Ledford |
-| 807 | 100 | Debbie Davis |
-| 808 | 100 | Shannon Curry Riggle |
-| 809 | 100 | missat |
-| 810 | 100 | Ahada Seber |
-| 811 | 100 | Rachel Wooldridge |
-| 812 | 100 | Hoppy Linkblock |
-| 813 | 100 | Audrey Morris |
-| 814 | 100 | Giggy Balancefit |
-| 815 | 100 | Amanda Kennedy |
-| 816 | 100 | Alisha Shelton |
-| 817 | 100 | Denna Marteney |
-| 818 | 100 | Michele Stewart |
-| 819 | 100 | Nicole Chestnut |
-| 820 | 100 | CATFISH |
-| 821 | 100 | Loriane Shumate Griggs |
-| 822 | 100 | Donna Segletes Kay |
-| 823 | 100 | Epic Slice |
-| 824 | 100 | Ava |
-| 825 | 100 | Tracy Tokarz |
-| 826 | 100 | AshleyM |
-| 827 | 100 | Leighla Davis |
-| 828 | 99 | Peter Fogg |
-| 829 | 99 | Diane Byrd |
-| 830 | 99 | Cheery Tilefall |
-| 831 | 99 | MjLovebug13 |
-| 832 | 99 | Doris Bonin |
+| 794 | 102 | Kaylene Rigas |
+| 795 | 102 | Tetrismastrr |
+| 796 | 102 | Twisty Matchfit |
+| 797 | 102 | Sherry Ann |
+| 798 | 102 | Eva Lopez |
+| 799 | 101 | Amy D Coble |
+| 800 | 101 | bozzycat |
+| 801 | 101 | Jessica Murphree |
+| 802 | 101 | Cynthia Dawn Reitz Hanson |
+| 803 | 101 | Robert W Schwartz |
+| 804 | 101 | Perky Linebuilder |
+| 805 | 101 | Jennifer Leigh |
+| 806 | 101 | Michael Delozier |
+| 807 | 101 | Wendy Michelle Wise-Ledford |
+| 808 | 100 | Hoppy Linkblock |
+| 809 | 100 | Shannon Curry Riggle |
+| 810 | 100 | missat |
+| 811 | 100 | Ahada Seber |
+| 812 | 100 | Rachel Wooldridge |
+| 813 | 100 | Giggy Balancefit |
+| 814 | 100 | Debbie Davis |
+| 815 | 100 | Audrey Morris |
+| 816 | 100 | Amanda Kennedy |
+| 817 | 100 | Alisha Shelton |
+| 818 | 100 | Denna Marteney |
+| 819 | 100 | Michele Stewart |
+| 820 | 100 | Nicole Chestnut |
+| 821 | 100 | CATFISH |
+| 822 | 100 | Loriane Shumate Griggs |
+| 823 | 100 | Donna Segletes Kay |
+| 824 | 100 | Epic Slice |
+| 825 | 100 | Ava |
+| 826 | 100 | Tracy Tokarz |
+| 827 | 100 | AshleyM |
+| 828 | 100 | Leighla Davis |
+| 829 | 99 | Peter Fogg |
+| 830 | 99 | Diane Byrd |
+| 831 | 99 | Cheery Tilefall |
+| 832 | 99 | MjLovebug13 |
 | 833 | 99 | Chesterland |
 | 834 | 98 | Chad Atchley |
 | 835 | 98 | Quirky Gridclear |
@@ -853,8 +853,8 @@
 | 845 | 97 | Nikki Sadler |
 | 846 | 97 | Helen Townsend |
 | 847 | 97 | ASL |
-| 848 | 97 | Jessica Melendy |
-| 849 | 97 | Adri Perez |
+| 848 | 97 | Adri Perez |
+| 849 | 97 | Jessica Melendy |
 | 850 | 96 | KayLynn Ogden McClelland |
 | 851 | 96 | Damion Morrison |
 | 852 | 96 | Grimwitch |
