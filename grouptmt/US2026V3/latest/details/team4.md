@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:46:19 UTC
+# Standings for team4 as of 2026-06-08 12:46:44 UTC
 
 **Total Participants:** 1827
 
@@ -165,12 +165,12 @@
 | 157 | 480 | Adam Dickinson |
 | 158 | 476 | SupaFly |
 | 159 | 474 | HurkleDurkle88 |
-| 160 | 464 | Alicia Cook |
-| 161 | 462 | Boldy Rumbler |
-| 162 | 461 | Kayla Fuentes |
-| 163 | 460 | CIRAZYPNOY |
-| 164 | 452 | Kaash Brxtt |
-| 165 | 449 | blockhead |
+| 160 | 469 | blockhead |
+| 161 | 464 | Alicia Cook |
+| 162 | 462 | Boldy Rumbler |
+| 163 | 461 | Kayla Fuentes |
+| 164 | 460 | CIRAZYPNOY |
+| 165 | 452 | Kaash Brxtt |
 | 166 | 447 | Jacqueline Jackii Ramos |
 | 167 | 446 | Laguya |
 | 168 | 443 | Joyce Myers |
