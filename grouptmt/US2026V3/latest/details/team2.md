@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:54:20 UTC
+# Standings for team2 as of 2026-06-08 17:54:40 UTC
 
 **Total Participants:** 2230
 
@@ -617,12 +617,12 @@
 | 609 | 170 | Starr Collins |
 | 610 | 170 | Ashley Jones |
 | 611 | 169 | Wendy Michelle Wise-Ledford |
-| 612 | 169 | Analee Nicole Jones |
-| 613 | 169 | Tamara Whiteley |
-| 614 | 168 | Spicy Balanceblock |
-| 615 | 168 | Charlotte Castelli |
-| 616 | 167 | Nichole Fuller |
-| 617 | 167 | Gina Louise Parker |
+| 612 | 169 | Gina Louise Parker |
+| 613 | 169 | Analee Nicole Jones |
+| 614 | 169 | Tamara Whiteley |
+| 615 | 168 | Spicy Balanceblock |
+| 616 | 168 | Charlotte Castelli |
+| 617 | 167 | Nichole Fuller |
 | 618 | 167 | Cara Rivera |
 | 619 | 167 | Angela VanOstrand |
 | 620 | 166 | Shannon Posner |
@@ -1004,13 +1004,13 @@
 | 996 | 97 | Kendra Sullins |
 | 997 | 97 | Cody Bohannan |
 | 998 | 97 | Helen Townsend |
-| 999 | 97 | C.L. Deslongchamp |
-| 1000 | 97 | ace510 |
+| 999 | 97 | ace510 |
+| 1000 | 97 | C.L. Deslongchamp |
 | 1001 | 97 | Adri Perez |
 | 1002 | 96 | KayLynn Ogden McClelland |
 | 1003 | 96 | Julie Brown |
-| 1004 | 96 | Spicy Wrecker |
-| 1005 | 96 | Robin Lamb |
+| 1004 | 96 | Robin Lamb |
+| 1005 | 96 | Spicy Wrecker |
 | 1006 | 96 | Stacey Loretta Wallace |
 | 1007 | 96 | Kay Newcomb |
 | 1008 | 96 | Beverly-Jo Peterson |
@@ -1023,22 +1023,22 @@
 | 1015 | 95 | Hansent3 |
 | 1016 | 95 | Marla Paden |
 | 1017 | 94 | Shawn Bolt |
-| 1018 | 94 | Brenda Leonard |
-| 1019 | 94 | Rubics cube |
-| 1020 | 94 | Paige Lynette Sohl |
-| 1021 | 94 | Frothy Roll |
-| 1022 | 94 | Countrybling77 |
-| 1023 | 93 | BugMansMom |
-| 1024 | 93 | Connie Breeden |
-| 1025 | 93 | Mataya |
-| 1026 | 93 | Spicy Enchilada |
-| 1027 | 93 | Kymberlee Rolinski |
-| 1028 | 93 | Joffee Joffer |
-| 1029 | 93 | Happy Shatterblock |
-| 1030 | 92 | Cindy Wellman |
-| 1031 | 92 | Wacky Curve |
+| 1018 | 94 | Melissa Aycock |
+| 1019 | 94 | Brenda Leonard |
+| 1020 | 94 | Rubics cube |
+| 1021 | 94 | Paige Lynette Sohl |
+| 1022 | 94 | Frothy Roll |
+| 1023 | 94 | Countrybling77 |
+| 1024 | 93 | BugMansMom |
+| 1025 | 93 | Connie Breeden |
+| 1026 | 93 | Mataya |
+| 1027 | 93 | Spicy Enchilada |
+| 1028 | 93 | Kymberlee Rolinski |
+| 1029 | 93 | Joffee Joffer |
+| 1030 | 93 | Happy Shatterblock |
+| 1031 | 92 | Cindy Wellman |
 | 1032 | 92 | Giggy Dropzone |
-| 1033 | 92 | Melissa Aycock |
+| 1033 | 92 | Wacky Curve |
 | 1034 | 92 | Joyce Galloway |
 | 1035 | 92 | Jayda Walters |
 | 1036 | 92 | Buddy |
@@ -1047,43 +1047,43 @@
 | 1039 | 91 | WestieMom |
 | 1040 | 91 | Laura Anderson |
 | 1041 | 91 | Stacey Peters |
-| 1042 | 91 | DNice |
-| 1043 | 91 | Tabitha Ann Bullins-Cobb |
-| 1044 | 91 | Blossom48 |
-| 1045 | 91 | Lindsey Davidson |
-| 1046 | 90 | DragonJB2020 |
-| 1047 | 90 | Latrell Thomas |
+| 1042 | 91 | Nikki Layman |
+| 1043 | 91 | Lindsey Davidson |
+| 1044 | 91 | Tabitha Ann Bullins-Cobb |
+| 1045 | 91 | Blossom48 |
+| 1046 | 91 | DNice |
+| 1047 | 90 | Kayla Iverson |
 | 1048 | 90 | wutrwerdz |
-| 1049 | 90 | Jenifer Gasho |
-| 1050 | 90 | Kayla Iverson |
-| 1051 | 90 | Justin Furne |
-| 1052 | 90 | Beth Engberg |
-| 1053 | 90 | Carlee Becher |
-| 1054 | 90 | Christi Hooper |
-| 1055 | 90 | Amanda Mason Scott |
-| 1056 | 90 | Rochelle O'Loughlin |
-| 1057 | 90 | Nicole Hogue |
-| 1058 | 90 | Beachmama |
-| 1059 | 90 | Daring Spinzone |
-| 1060 | 90 | Lesley Stoeckle |
-| 1061 | 90 | Lacie B |
-| 1062 | 90 | Christina Reid |
-| 1063 | 89 | Cheryl Graves Downard |
-| 1064 | 89 | Lori Yelvington Cain |
-| 1065 | 89 | Michele Choate |
-| 1066 | 89 | Jennifer Lewellyn Hutchins |
-| 1067 | 89 | Cranky Brickzone |
-| 1068 | 89 | Christina Sheldon |
-| 1069 | 89 | Samantha Smith |
-| 1070 | 89 | Rachel Nunn |
-| 1071 | 89 | Anna Benjamin Freeman |
-| 1072 | 89 | Sue Fuzy |
-| 1073 | 89 | Nikki Layman |
-| 1074 | 88 | Debra Patten |
-| 1075 | 88 | Stazy Warner |
-| 1076 | 88 | Sandy Molina |
-| 1077 | 88 | sugabritches |
-| 1078 | 88 | Dapper Spinbuilder |
+| 1049 | 90 | Latrell Thomas |
+| 1050 | 90 | DragonJB2020 |
+| 1051 | 90 | Jenifer Gasho |
+| 1052 | 90 | Justin Furne |
+| 1053 | 90 | Beth Engberg |
+| 1054 | 90 | Carlee Becher |
+| 1055 | 90 | Christi Hooper |
+| 1056 | 90 | Amanda Mason Scott |
+| 1057 | 90 | Rochelle O'Loughlin |
+| 1058 | 90 | Nicole Hogue |
+| 1059 | 90 | Beachmama |
+| 1060 | 90 | Daring Spinzone |
+| 1061 | 90 | Lesley Stoeckle |
+| 1062 | 90 | Lacie B |
+| 1063 | 90 | Christina Reid |
+| 1064 | 89 | Cheryl Graves Downard |
+| 1065 | 89 | Lori Yelvington Cain |
+| 1066 | 89 | Michele Choate |
+| 1067 | 89 | Jennifer Lewellyn Hutchins |
+| 1068 | 89 | Cranky Brickzone |
+| 1069 | 89 | Rachel Nunn |
+| 1070 | 89 | Sue Fuzy |
+| 1071 | 89 | Samantha Smith |
+| 1072 | 89 | Christina Sheldon |
+| 1073 | 89 | Anna Benjamin Freeman |
+| 1074 | 88 | Dapper Spinbuilder |
+| 1075 | 88 | Debra Patten |
+| 1076 | 88 | sugabritches |
+| 1077 | 88 | Sandy Molina |
+| 1078 | 88 | Stazy Warner |
 | 1079 | 88 | Lydia Shonee |
 | 1080 | 88 | Missy Tubb Overly |
 | 1081 | 88 | Witty Riser |
@@ -1094,11 +1094,11 @@
 | 1086 | 86 | Nicole Hjelmen |
 | 1087 | 86 | shell |
 | 1088 | 86 | Nina-Christina Cusyck |
-| 1089 | 86 | Jennifer Robinson |
-| 1090 | 86 | Em |
-| 1091 | 85 | Rob Phillips |
-| 1092 | 85 | Melissa Mae |
-| 1093 | 85 | Wendy Morrison |
+| 1089 | 86 | Em |
+| 1090 | 86 | Jennifer Robinson |
+| 1091 | 85 | Wendy Morrison |
+| 1092 | 85 | Rob Phillips |
+| 1093 | 85 | Melissa Mae |
 | 1094 | 85 | Daisy Girl |
 | 1095 | 85 | Tonya Marino |
 | 1096 | 85 | Devon |
