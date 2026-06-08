@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:28:42 UTC
+# Standings for team1 as of 2026-06-08 14:29:21 UTC
 
 **Total Participants:** 1808
 
@@ -87,13 +87,13 @@
 | 79 | 1106 | Moomoo |
 | 80 | 1091 | Bre Maugh |
 | 81 | 1078 | Danielle DeLozier Plesec |
-| 82 | 1055 | PandaPrincess |
-| 83 | 1048 | Chenell Gillard |
-| 84 | 1047 | Dynah Gordon |
-| 85 | 1024 | Chill Clusterer |
-| 86 | 1018 | Court Court |
-| 87 | 995 | Whitney Butler |
-| 88 | 984 | Amalie Newvine |
+| 82 | 1071 | Amalie Newvine |
+| 83 | 1055 | PandaPrincess |
+| 84 | 1048 | Chenell Gillard |
+| 85 | 1047 | Dynah Gordon |
+| 86 | 1024 | Chill Clusterer |
+| 87 | 1018 | Court Court |
+| 88 | 995 | Whitney Butler |
 | 89 | 967 | KenpachisGirl |
 | 90 | 940 | Chris Caniglia |
 | 91 | 939 | Uneekly Mayde |
@@ -577,24 +577,24 @@
 | 569 | 140 | Kennedi Brazziel |
 | 570 | 140 | TBabii24 |
 | 571 | 139 | TRUBBLE45 |
-| 572 | 138 | Dreamzzz |
-| 573 | 138 | Ozell Jones Jr. |
+| 572 | 138 | Ozell Jones Jr. |
+| 573 | 138 | Dreamzzz |
 | 574 | 138 | Claudia Price |
 | 575 | 138 | Ashley Monet Terrell |
 | 576 | 138 | Alexandrla Smith |
-| 577 | 137 | Kelvin Cook |
-| 578 | 137 | Angelique Talbot |
+| 577 | 137 | Angelique Talbot |
+| 578 | 137 | Kelvin Cook |
 | 579 | 136 | Guard Up |
 | 580 | 136 | Gbnola |
-| 581 | 136 | The DUBZ |
+| 581 | 136 | Duncan Timothy |
 | 582 | 136 | Christina Singleton |
-| 583 | 136 | Duncan Timothy |
+| 583 | 136 | The DUBZ |
 | 584 | 136 | Angela Brown Babin |
 | 585 | 135 | Shameka Tiffany |
 | 586 | 135 | Saucy Tile |
-| 587 | 135 | Paul Pendley |
+| 587 | 135 | Chirpy Buildgrid |
 | 588 | 135 | MzJuice Box |
-| 589 | 135 | Chirpy Buildgrid |
+| 589 | 135 | Paul Pendley |
 | 590 | 134 | Zany Breaker |
 | 591 | 134 | Aaron Hartmann |
 | 592 | 133 | Yashicha Hertzock |
@@ -604,88 +604,88 @@
 | 596 | 132 | Jeffrey Barrows |
 | 597 | 132 | Jack Vlasak |
 | 598 | 131 | Cynthia Cruell |
-| 599 | 131 | Kimberly Anderson |
-| 600 | 131 | Karen Denen |
-| 601 | 130 | Kesha Brady |
-| 602 | 130 | Gerold Folk Haddock |
-| 603 | 130 | Jessica Davis |
-| 604 | 130 | Brenda Malachi-butler |
-| 605 | 130 | Victoria Smith |
+| 599 | 131 | Karen Denen |
+| 600 | 131 | Kimberly Anderson |
+| 601 | 130 | Brenda Malachi-butler |
+| 602 | 130 | Victoria Smith |
+| 603 | 130 | Kesha Brady |
+| 604 | 130 | Jessica Davis |
+| 605 | 130 | Gerold Folk Haddock |
 | 606 | 129 | DellaLucretia Thomas |
-| 607 | 129 | Logan Frost |
-| 608 | 129 | Naee Bee |
-| 609 | 129 | Lucy |
-| 610 | 129 | JesusSaves 😇 |
-| 611 | 129 | PSD |
-| 612 | 128 | Li-Li Ratliff |
-| 613 | 128 | BonnieB |
-| 614 | 127 | Octavia Bsb Johnson |
-| 615 | 127 | Pretty Yella |
-| 616 | 126 | Jessie N Michael Silvers |
-| 617 | 126 | Terrie |
+| 607 | 129 | Lucy |
+| 608 | 129 | Logan Frost |
+| 609 | 129 | Naee Bee |
+| 610 | 129 | PSD |
+| 611 | 129 | JesusSaves 😇 |
+| 612 | 128 | BonnieB |
+| 613 | 128 | Li-Li Ratliff |
+| 614 | 127 | DaemahnFriday |
+| 615 | 127 | Octavia Bsb Johnson |
+| 616 | 127 | Pretty Yella |
+| 617 | 126 | Jessie N Michael Silvers |
 | 618 | 126 | RylonJones |
-| 619 | 126 | Ryan Runyan |
-| 620 | 126 | Laurie Napper |
-| 621 | 126 | Kahliah Baker |
-| 622 | 125 | Andra Ward |
+| 619 | 126 | Terrie |
+| 620 | 126 | Kahliah Baker |
+| 621 | 126 | Laurie Napper |
+| 622 | 126 | Ryan Runyan |
 | 623 | 125 | BB |
-| 624 | 124 | Tasha Jones |
-| 625 | 124 | Nerdy Climber |
+| 624 | 125 | Andra Ward |
+| 625 | 124 | Nora Mahmoud |
 | 626 | 124 | Nichelle Warren |
-| 627 | 124 | Nora Mahmoud |
-| 628 | 124 | Ysma Simmons |
-| 629 | 123 | Marbama |
-| 630 | 123 | Derald Miller |
-| 631 | 123 | Daring Riserfit |
+| 627 | 124 | Tasha Jones |
+| 628 | 124 | Nerdy Climber |
+| 629 | 124 | Ysma Simmons |
+| 630 | 123 | Daring Riserfit |
+| 631 | 123 | Derald Miller |
 | 632 | 123 | Esha I'msoproudofmyself Davis |
-| 633 | 123 | Dizzy Gridmatch |
-| 634 | 123 | Jason Saputo |
+| 633 | 123 | Jason Saputo |
+| 634 | 123 | Marbama |
 | 635 | 123 | Jackytrain52 |
-| 636 | 122 | Kyle Conley |
-| 637 | 122 | Amanda Woodruff |
+| 636 | 123 | Dizzy Gridmatch |
+| 637 | 122 | Xana Zania Bopp |
 | 638 | 122 | Nyhlah Patterson |
-| 639 | 122 | Xana Zania Bopp |
-| 640 | 121 | Tiana Monique |
-| 641 | 121 | Biggestboss Ransom |
-| 642 | 121 | meatballs |
-| 643 | 121 | Ad Doctor |
-| 644 | 120 | Rene Hicks |
-| 645 | 120 | Kanary Karotz |
-| 646 | 120 | Tito Divyn |
+| 639 | 122 | Kyle Conley |
+| 640 | 122 | Amanda Woodruff |
+| 641 | 121 | meatballs |
+| 642 | 121 | Tiana Monique |
+| 643 | 121 | Biggestboss Ransom |
+| 644 | 121 | Ad Doctor |
+| 645 | 120 | Stephen Garland |
+| 646 | 120 | Rene Hicks |
 | 647 | 120 | MindlessMic |
-| 648 | 120 | Sandra Mims |
-| 649 | 120 | Stephen Garland |
-| 650 | 120 | Dianne Clagon |
-| 651 | 120 | Giggy Edgefit |
-| 652 | 120 | Leavon Smith |
-| 653 | 119 | TY Newme Batts |
-| 654 | 119 | Darrel Pemberton |
-| 655 | 119 | Lexx Robins |
-| 656 | 119 | Montréal Mars |
-| 657 | 119 | Albert McKnight |
-| 658 | 119 | Hyy |
-| 659 | 119 | Zany Patternblock |
-| 660 | 118 | SnazzyIvy |
-| 661 | 118 | Stephanie Ellis |
-| 662 | 118 | Raymond Boosie Freeman |
-| 663 | 118 | Meow Meow |
-| 664 | 118 | C Lo Green |
-| 665 | 118 | Tony Pizzas |
-| 666 | 118 | Hasty Pivoty |
-| 667 | 117 | DirtiestofMikes |
-| 668 | 117 | DaemahnFriday |
-| 669 | 117 | Cori Cleland |
-| 670 | 117 | Kayel Good |
+| 648 | 120 | Tito Divyn |
+| 649 | 120 | Kanary Karotz |
+| 650 | 120 | Sandra Mims |
+| 651 | 120 | Leavon Smith |
+| 652 | 120 | Giggy Edgefit |
+| 653 | 120 | Dianne Clagon |
+| 654 | 119 | Zany Patternblock |
+| 655 | 119 | Albert McKnight |
+| 656 | 119 | Darrel Pemberton |
+| 657 | 119 | Montréal Mars |
+| 658 | 119 | TY Newme Batts |
+| 659 | 119 | Lexx Robins |
+| 660 | 119 | Hyy |
+| 661 | 118 | C Lo Green |
+| 662 | 118 | Hasty Pivoty |
+| 663 | 118 | Stephanie Ellis |
+| 664 | 118 | Tony Pizzas |
+| 665 | 118 | Raymond Boosie Freeman |
+| 666 | 118 | Meow Meow |
+| 667 | 118 | SnazzyIvy |
+| 668 | 117 | Bubbly Slammer |
+| 669 | 117 | DirtiestofMikes |
+| 670 | 117 | Poppy Twister |
 | 671 | 117 | Bruce Paléncia |
-| 672 | 117 | Poppy Twister |
-| 673 | 117 | Bubbly Slammer |
-| 674 | 116 | Zappy Clearfit |
-| 675 | 116 | Sallie Sanborn |
-| 676 | 116 | Giddy Staggerpiece |
-| 677 | 116 | Snappy Link |
-| 678 | 116 | Sherri Keys |
-| 679 | 116 | Shanell Thomas |
-| 680 | 116 | Rosalind Chatman |
+| 672 | 117 | Cori Cleland |
+| 673 | 117 | Kayel Good |
+| 674 | 116 | Giddy Staggerpiece |
+| 675 | 116 | Zappy Clearfit |
+| 676 | 116 | Snappy Link |
+| 677 | 116 | Sherri Keys |
+| 678 | 116 | Shanell Thomas |
+| 679 | 116 | Rosalind Chatman |
+| 680 | 116 | Sallie Sanborn |
 | 681 | 116 | Jess |
 | 682 | 115 | WOOLFF |
 | 683 | 115 | sha |
