@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:04:42 UTC
+# Standings for team1 as of 2026-06-08 07:05:19 UTC
 
 **Total Participants:** 1748
 
@@ -337,19 +337,19 @@
 | 329 | 219 | Tamara Johnson-Carter |
 | 330 | 219 | Bambi Johnson |
 | 331 | 218 | SeanSanchez |
-| 332 | 217 | LaShaun Stinson |
-| 333 | 217 | Snippy Breaker |
+| 332 | 217 | Louise Parker |
+| 333 | 217 | LaShaun Stinson |
 | 334 | 217 | Tamika Fisher |
-| 335 | 217 | Ashleyy Netchert |
-| 336 | 217 | Louise Parker |
+| 335 | 217 | Snippy Breaker |
+| 336 | 217 | Ashleyy Netchert |
 | 337 | 214 | Stephen Providenti |
 | 338 | 213 | Lazy Tiltpiece |
 | 339 | 212 | Simply-Beautiful007 |
-| 340 | 211 | Nina Davis |
-| 341 | 211 | Charletha Williams |
-| 342 | 210 | Sarah Clark |
+| 340 | 211 | Charletha Williams |
+| 341 | 211 | Nina Davis |
+| 342 | 210 | Alyssa Rae |
 | 343 | 210 | Hailey Hil |
-| 344 | 210 | Alyssa Rae |
+| 344 | 210 | Sarah Clark |
 | 345 | 209 | Phillip Vasquez |
 | 346 | 209 | Guy Incognito |
 | 347 | 209 | Darrel K Pemberton |
@@ -361,73 +361,73 @@
 | 353 | 204 | Shanaa Germany Crittenden |
 | 354 | 203 | Daris Swearington |
 | 355 | 203 | Dennis J Herron II |
-| 356 | 202 | Messy Live |
-| 357 | 202 | Poppy Buildout |
+| 356 | 202 | Poppy Buildout |
+| 357 | 202 | Sammie Walker |
 | 358 | 202 | Peppy Glider |
 | 359 | 202 | Crystal Cheresnowsky |
-| 360 | 202 | Sammie Walker |
+| 360 | 202 | Messy Live |
 | 361 | 201 | Richard Flex |
 | 362 | 201 | Rayshawn Cohen |
-| 363 | 200 | Teri Marie Clayton |
-| 364 | 200 | Maribel Vasquez |
-| 365 | 200 | Lisa Fletcher |
-| 366 | 200 | McKayla Owens |
-| 367 | 200 | kitten |
-| 368 | 200 | TBABYJ |
+| 363 | 200 | TBABYJ |
+| 364 | 200 | Teri Marie Clayton |
+| 365 | 200 | McKayla Owens |
+| 366 | 200 | Lisa Fletcher |
+| 367 | 200 | Maribel Vasquez |
+| 368 | 200 | kitten |
 | 369 | 199 | Fina McKinnis |
 | 370 | 197 | De'Nell Edwards |
 | 371 | 196 | BabyCakes |
 | 372 | 194 | Cheery Linkfall |
-| 373 | 192 | Joana Thompson |
-| 374 | 192 | Hyper Blocky |
+| 373 | 192 | Hyper Blocky |
+| 374 | 192 | Joana Thompson |
 | 375 | 190 | Chipper Snapper |
 | 376 | 189 | Nate Myers |
-| 377 | 189 | Tosha Michelle |
-| 378 | 189 | Jolly Tilefall |
+| 377 | 189 | Jolly Tilefall |
+| 378 | 189 | Tosha Michelle |
 | 379 | 189 | Sean White |
-| 380 | 188 | Tyiesha Pie Farmer |
-| 381 | 188 | Travis Davison |
-| 382 | 187 | Kristine Marie Palmer |
+| 380 | 188 | Travis Davison |
+| 381 | 188 | CJ Robinson |
+| 382 | 188 | Tyiesha Pie Farmer |
 | 383 | 187 | MACHETEEDDIE513 |
-| 384 | 186 | Monica Tovar |
-| 385 | 185 | Giggy Tower |
-| 386 | 185 | Sarah Swietlicki - Lopez |
+| 384 | 187 | Kristine Marie Palmer |
+| 385 | 186 | Monica Tovar |
+| 386 | 185 | Giggy Tower |
 | 387 | 185 | Jennah |
-| 388 | 184 | Amy Lynn Leifheit |
-| 389 | 184 | Soubletzy |
-| 390 | 184 | Bbyunicorn |
-| 391 | 183 | Kyra Coleman |
-| 392 | 183 | Mary Phillippi Blanton |
-| 393 | 183 | wmedina67 |
-| 394 | 183 | Eric Spencer Whitaker |
-| 395 | 182 | Matthieu Pistone |
-| 396 | 182 | Courtney Cicoria |
-| 397 | 182 | Comedian Prince Paul |
-| 398 | 181 | Sharee Robinson |
-| 399 | 180 | akosua |
-| 400 | 180 | Daddy |
-| 401 | 180 | Larina Cherie Johnson |
-| 402 | 180 | Zippy Lifter |
-| 403 | 180 | Cornelius Neal |
-| 404 | 179 | Skippy |
-| 405 | 179 | Lively Riserpiece |
-| 406 | 179 | KeeKee Williams |
-| 407 | 178 | Manda Allen |
-| 408 | 177 | Cece Fowler |
+| 388 | 185 | Sarah Swietlicki - Lopez |
+| 389 | 184 | Bbyunicorn |
+| 390 | 184 | Soubletzy |
+| 391 | 184 | Amy Lynn Leifheit |
+| 392 | 183 | Kyra Coleman |
+| 393 | 183 | Eric Spencer Whitaker |
+| 394 | 183 | wmedina67 |
+| 395 | 183 | Mary Phillippi Blanton |
+| 396 | 182 | Matthieu Pistone |
+| 397 | 182 | Courtney Cicoria |
+| 398 | 182 | Comedian Prince Paul |
+| 399 | 181 | Sharee Robinson |
+| 400 | 180 | akosua |
+| 401 | 180 | Zippy Lifter |
+| 402 | 180 | Cornelius Neal |
+| 403 | 180 | Daddy |
+| 404 | 180 | Larina Cherie Johnson |
+| 405 | 179 | KeeKee Williams |
+| 406 | 179 | Lively Riserpiece |
+| 407 | 179 | Skippy |
+| 408 | 178 | Manda Allen |
 | 409 | 177 | Frankey Chi |
-| 410 | 177 | Valerie Alexander |
-| 411 | 174 | NewEve |
-| 412 | 174 | ChunLi |
+| 410 | 177 | Cece Fowler |
+| 411 | 177 | Valerie Alexander |
+| 412 | 174 | NewEve |
 | 413 | 174 | 大竹直之 |
-| 414 | 173 | LuckyStar |
-| 415 | 172 | Kendra McIntyre |
-| 416 | 171 | Telisha Mims |
-| 417 | 171 | Brittany Fells |
-| 418 | 169 | rb |
+| 414 | 174 | ChunLi |
+| 415 | 173 | LuckyStar |
+| 416 | 172 | Kendra McIntyre |
+| 417 | 171 | Telisha Mims |
+| 418 | 171 | Brittany Fells |
 | 419 | 169 | Nickeya Phillips |
-| 420 | 169 | Hasty Glidezone |
-| 421 | 169 | Bubbly Piececlear |
-| 422 | 168 | CJ Robinson |
+| 420 | 169 | rb |
+| 421 | 169 | Hasty Glidezone |
+| 422 | 169 | Bubbly Piececlear |
 | 423 | 168 | Shanns |
 | 424 | 167 | Charlene Baltimore |
 | 425 | 167 | Clipzby |
@@ -574,35 +574,35 @@
 | 566 | 124 | Jes Marie |
 | 567 | 124 | DellaLucretia Thomas |
 | 568 | 124 | Nerdy Climber |
-| 569 | 123 | Boldy Matchbuilder |
-| 570 | 123 | Dizzy Gridmatch |
-| 571 | 123 | Jackytrain52 |
-| 572 | 123 | Daring Riserfit |
-| 573 | 123 | Holly Baker |
-| 574 | 123 | Derald Miller |
-| 575 | 123 | Esha I'msoproudofmyself Davis |
-| 576 | 122 | Nyhlah Patterson |
-| 577 | 122 | Xana Zania Bopp |
-| 578 | 122 | Donna Payne |
-| 579 | 121 | Biggestboss Ransom |
+| 569 | 124 | Duncan Timothy |
+| 570 | 123 | Boldy Matchbuilder |
+| 571 | 123 | Dizzy Gridmatch |
+| 572 | 123 | Jackytrain52 |
+| 573 | 123 | Daring Riserfit |
+| 574 | 123 | Holly Baker |
+| 575 | 123 | Derald Miller |
+| 576 | 123 | Esha I'msoproudofmyself Davis |
+| 577 | 122 | Donna Payne |
+| 578 | 122 | Xana Zania Bopp |
+| 579 | 122 | Nyhlah Patterson |
 | 580 | 121 | Ad Doctor |
-| 581 | 121 | Tiana Monique |
-| 582 | 121 | Duncan Timothy |
+| 581 | 121 | Biggestboss Ransom |
+| 582 | 121 | Tiana Monique |
 | 583 | 121 | Nora Mahmoud |
-| 584 | 120 | Brenda Malachi-butler |
-| 585 | 120 | MindlessMic |
-| 586 | 120 | Leavon Smith |
-| 587 | 120 | Rene Hicks |
-| 588 | 120 | Monica Fields |
-| 589 | 120 | Kanary Karotz |
-| 590 | 120 | Giggy Edgefit |
-| 591 | 120 | Dianne Clagon |
+| 584 | 120 | MindlessMic |
+| 585 | 120 | Leavon Smith |
+| 586 | 120 | Rene Hicks |
+| 587 | 120 | Monica Fields |
+| 588 | 120 | Kanary Karotz |
+| 589 | 120 | Giggy Edgefit |
+| 590 | 120 | Dianne Clagon |
+| 591 | 120 | Brenda Malachi-butler |
 | 592 | 120 | Giggly Tiltbuilder |
 | 593 | 120 | Latore Maxie |
-| 594 | 119 | Hyy |
+| 594 | 119 | TY Newme Batts |
 | 595 | 119 | Darrel Pemberton |
-| 596 | 119 | Montréal Mars |
-| 597 | 119 | TY Newme Batts |
+| 596 | 119 | Hyy |
+| 597 | 119 | Montréal Mars |
 | 598 | 119 | Andy Rivera |
 | 599 | 119 | Lexx Robins |
 | 600 | 119 | Zany Patternblock |
