@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:29:21 UTC
+# Standings for team1 as of 2026-06-08 06:30:41 UTC
 
 **Total Participants:** 1744
 
@@ -80,8 +80,8 @@
 | 72 | 1024 | Chill Clusterer |
 | 73 | 1021 | Frisky Fallmatch |
 | 74 | 1018 | Court Court |
-| 75 | 1017 | Lisa Müller |
-| 76 | 998 | Todd C. Clemens |
+| 75 | 1018 | Todd C. Clemens |
+| 76 | 1017 | Lisa Müller |
 | 77 | 995 | Whitney Butler |
 | 78 | 953 | PandaPrincess |
 | 79 | 939 | Uneekly Mayde |
@@ -134,13 +134,13 @@
 | 126 | 582 | Nutty Spinblock |
 | 127 | 574 | Anthony Washington |
 | 128 | 573 | Rackemwillie34 |
-| 129 | 566 | Trendalyn Webb |
-| 130 | 565 | Gotcha |
-| 131 | 561 | Carolynne Walker-Bell |
-| 132 | 556 | Rolanda Williams |
-| 133 | 555 | ELM |
-| 134 | 552 | Louis Richard Jr |
-| 135 | 551 | Cathy Young |
+| 129 | 570 | Cathy Young |
+| 130 | 566 | Trendalyn Webb |
+| 131 | 565 | Gotcha |
+| 132 | 561 | Carolynne Walker-Bell |
+| 133 | 556 | Rolanda Williams |
+| 134 | 555 | ELM |
+| 135 | 552 | Louis Richard Jr |
 | 136 | 550 | Genne Scott |
 | 137 | 546 | Chuck Quarles |
 | 138 | 546 | Cj Gorman |
@@ -297,24 +297,24 @@
 | 289 | 254 | Smiley Clearpiece |
 | 290 | 253 | Tasha |
 | 291 | 252 | Anthony |
-| 292 | 248 | Mikayla |
-| 293 | 248 | Tessa Felice Hill |
-| 294 | 246 | Curtis T Cirno |
-| 295 | 245 | Kelli Couture |
-| 296 | 245 | Derrius SeriousLee Burks |
-| 297 | 244 | Teddy Davis |
-| 298 | 244 | Shameka Thrasher |
-| 299 | 244 | Dai Bo |
-| 300 | 244 | Amber Wilson |
-| 301 | 244 | LaTonya Myers |
-| 302 | 242 | Tamika Rocheteau |
-| 303 | 242 | Tay |
-| 304 | 241 | Jai |
-| 305 | 241 | Zippy Tilefall |
-| 306 | 240 | Rayya Kiser |
-| 307 | 240 | Emily Wright |
-| 308 | 240 | Slinky Party |
-| 309 | 239 | LaToya Chambers |
+| 292 | 249 | LaToya Chambers |
+| 293 | 248 | Mikayla |
+| 294 | 248 | Tessa Felice Hill |
+| 295 | 246 | Curtis T Cirno |
+| 296 | 245 | Kelli Couture |
+| 297 | 245 | Derrius SeriousLee Burks |
+| 298 | 244 | Amber Wilson |
+| 299 | 244 | Teddy Davis |
+| 300 | 244 | Shameka Thrasher |
+| 301 | 244 | Dai Bo |
+| 302 | 244 | LaTonya Myers |
+| 303 | 242 | Tamika Rocheteau |
+| 304 | 242 | Tay |
+| 305 | 241 | Jai |
+| 306 | 241 | Zippy Tilefall |
+| 307 | 240 | Rayya Kiser |
+| 308 | 240 | Emily Wright |
+| 309 | 240 | Slinky Party |
 | 310 | 239 | ♈️ Ariesbaby |
 | 311 | 238 | Tootsie Pop |
 | 312 | 237 | Simone Bailey |
@@ -413,11 +413,11 @@
 | 405 | 177 | Cece Fowler |
 | 406 | 177 | Valerie Alexander |
 | 407 | 177 | Frankey Chi |
-| 408 | 174 | 大竹直之 |
-| 409 | 174 | ChunLi |
-| 410 | 174 | NewEve |
-| 411 | 173 | LuckyStar |
-| 412 | 172 | Jennah |
+| 408 | 176 | Jennah |
+| 409 | 174 | 大竹直之 |
+| 410 | 174 | ChunLi |
+| 411 | 174 | NewEve |
+| 412 | 173 | LuckyStar |
 | 413 | 172 | Kendra McIntyre |
 | 414 | 171 | Brittany Fells |
 | 415 | 171 | Telisha Mims |
@@ -824,76 +824,76 @@
 | 816 | 82 | Jasmine Hariston-Estis |
 | 817 | 82 | DeAngelo Sorrells |
 | 818 | 82 | Kashh |
-| 819 | 81 | Deihja Weaver |
-| 820 | 81 | GracefulOwl808 |
-| 821 | 81 | Parris Wright |
-| 822 | 80 | Linzi Cole |
-| 823 | 80 | Keith Big-Sixx Mackell |
-| 824 | 80 | Victoria Smith |
-| 825 | 80 | lizlizliz |
-| 826 | 80 | SherylU |
-| 827 | 80 | Lauren Farkas |
-| 828 | 80 | Chevalier Burley |
-| 829 | 80 | Lady Scorpio |
-| 830 | 80 | Amaadi Ward |
-| 831 | 80 | Big Bovice |
-| 832 | 80 | Marcello Rush |
-| 833 | 80 | Felicia Woods |
-| 834 | 80 | Tory Miller |
+| 819 | 82 | Ameillia Boughner |
+| 820 | 81 | Deihja Weaver |
+| 821 | 81 | GracefulOwl808 |
+| 822 | 81 | Parris Wright |
+| 823 | 80 | Amaadi Ward |
+| 824 | 80 | Keith Big-Sixx Mackell |
+| 825 | 80 | SherylU |
+| 826 | 80 | Victoria Smith |
+| 827 | 80 | lizlizliz |
+| 828 | 80 | Lauren Farkas |
+| 829 | 80 | Chevalier Burley |
+| 830 | 80 | Lady Scorpio |
+| 831 | 80 | Linzi Cole |
+| 832 | 80 | Big Bovice |
+| 833 | 80 | Lisa420 |
+| 834 | 80 | Felicia Woods |
 | 835 | 80 | Charles Johnson |
 | 836 | 80 | Tiffany Jean Hinson |
-| 837 | 80 | Lisa420 |
-| 838 | 80 | nay |
-| 839 | 79 | LAdYPOLy |
-| 840 | 79 | Erika |
-| 841 | 79 | Frilly Shatterline |
-| 842 | 79 | Evette Moreno |
-| 843 | 79 | Sabrina Wilkerson |
+| 837 | 80 | nay |
+| 838 | 80 | Tory Miller |
+| 839 | 80 | Marcello Rush |
+| 840 | 79 | Shauntai Holiday |
+| 841 | 79 | Haakuu |
+| 842 | 79 | Frilly Shatterline |
+| 843 | 79 | Evette Moreno |
 | 844 | 79 | Oaklonboy mike |
-| 845 | 79 | Haakuu |
-| 846 | 79 | Shauntai Holiday |
-| 847 | 78 | Pinky Pink |
-| 848 | 78 | Kahh |
-| 849 | 78 | Solomon Valarie |
-| 850 | 78 | Tyree Tman Shinette |
-| 851 | 78 | BigMike |
-| 852 | 78 | Tasha Jones |
-| 853 | 78 | Nikiya |
-| 854 | 78 | Megan Jones |
-| 855 | 78 | Krystal Maynard |
-| 856 | 77 | Crtjstr |
-| 857 | 77 | S.S |
-| 858 | 77 | Tomme Poliwka |
-| 859 | 77 | Earl Williams |
-| 860 | 77 | Ysma Simmons |
-| 861 | 77 | Teisha Scott |
-| 862 | 76 | Mama P |
-| 863 | 76 | LaSharon Jackson |
-| 864 | 76 | Vannie G |
-| 865 | 76 | John Spath |
-| 866 | 76 | Paul Doty |
-| 867 | 76 | NataAllDay |
-| 868 | 76 | Giggly Shatterline |
-| 869 | 75 | Teresa Bean |
-| 870 | 75 | sasha |
-| 871 | 75 | Khatyrah Burnette |
-| 872 | 75 | Boldy Pivoty |
-| 873 | 75 | Angie Lebron |
-| 874 | 75 | Cj Chimelis |
-| 875 | 75 | Blocksy |
-| 876 | 75 | Courtney Robinson |
-| 877 | 75 | Crafty Witch |
-| 878 | 74 | Ameillia Boughner |
-| 879 | 74 | Ace Hardware |
-| 880 | 74 | Jane Lame |
-| 881 | 74 | Tetrisdestroyer |
-| 882 | 74 | Stronger Wiser Better |
-| 883 | 74 | Abby |
-| 884 | 74 | Delitra Perkins Hatter |
-| 885 | 74 | Coco |
-| 886 | 74 | AshMo |
-| 887 | 74 | Seirra Robinson |
-| 888 | 74 | Giggy Brickfit |
+| 845 | 79 | LAdYPOLy |
+| 846 | 79 | Sabrina Wilkerson |
+| 847 | 79 | Erika |
+| 848 | 78 | Pinky Pink |
+| 849 | 78 | Kahh |
+| 850 | 78 | Solomon Valarie |
+| 851 | 78 | Tyree Tman Shinette |
+| 852 | 78 | BigMike |
+| 853 | 78 | Tasha Jones |
+| 854 | 78 | Nikiya |
+| 855 | 78 | Megan Jones |
+| 856 | 78 | Krystal Maynard |
+| 857 | 77 | Crtjstr |
+| 858 | 77 | S.S |
+| 859 | 77 | Tomme Poliwka |
+| 860 | 77 | Earl Williams |
+| 861 | 77 | Ysma Simmons |
+| 862 | 77 | Teisha Scott |
+| 863 | 76 | Giggly Shatterline |
+| 864 | 76 | LaSharon Jackson |
+| 865 | 76 | Vannie G |
+| 866 | 76 | John Spath |
+| 867 | 76 | Paul Doty |
+| 868 | 76 | NataAllDay |
+| 869 | 76 | Mama P |
+| 870 | 75 | Teresa Bean |
+| 871 | 75 | Angie Lebron |
+| 872 | 75 | Courtney Robinson |
+| 873 | 75 | Crafty Witch |
+| 874 | 75 | Blocksy |
+| 875 | 75 | Cj Chimelis |
+| 876 | 75 | Khatyrah Burnette |
+| 877 | 75 | Boldy Pivoty |
+| 878 | 75 | sasha |
+| 879 | 74 | Seirra Robinson |
+| 880 | 74 | Coco |
+| 881 | 74 | Delitra Perkins Hatter |
+| 882 | 74 | Abby |
+| 883 | 74 | Jane Lame |
+| 884 | 74 | Tetrisdestroyer |
+| 885 | 74 | Stronger Wiser Better |
+| 886 | 74 | Giggy Brickfit |
+| 887 | 74 | AshMo |
+| 888 | 74 | Ace Hardware |
 | 889 | 73 | Ducc2408 |
 | 890 | 73 | Abigail Newman Sweet |
 | 891 | 73 | Kàrma Lee |
