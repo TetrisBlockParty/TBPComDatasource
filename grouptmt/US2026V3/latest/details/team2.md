@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 03:51:19 UTC
+# Standings for team2 as of 2026-06-08 03:52:19 UTC
 
 **Total Participants:** 2068
 
@@ -89,8 +89,8 @@
 | 81 | 1276 | Jenny Graham |
 | 82 | 1271 | Eileen Egan |
 | 83 | 1269 | Nawang Nawang |
-| 84 | 1222 | Gabriella Humphreys |
-| 85 | 1216 | Amber-leigh Williams |
+| 84 | 1231 | Amber-leigh Williams |
+| 85 | 1222 | Gabriella Humphreys |
 | 86 | 1181 | Giddy Slamdrop |
 | 87 | 1150 | Jayke Edward |
 | 88 | 1140 | Mikki Torres |
@@ -629,26 +629,26 @@
 | 621 | 130 | TiffTaff |
 | 622 | 130 | Groovy Glider |
 | 623 | 130 | Nichole Wilson |
-| 624 | 130 | Jenn |
-| 625 | 130 | Desia Walker |
-| 626 | 129 | Carrie Smith Negron |
-| 627 | 129 | Susan Bosell |
-| 628 | 129 | Jackie Walker |
-| 629 | 129 | Kristi K Milner |
-| 630 | 129 | Armando Sabedra |
-| 631 | 128 | Jennifer McCloskey Launder |
-| 632 | 128 | Princess Cucumber |
-| 633 | 128 | Josephina |
+| 624 | 130 | Jennifer McCloskey Launder |
+| 625 | 130 | Jenn |
+| 626 | 130 | Desia Walker |
+| 627 | 129 | Carrie Smith Negron |
+| 628 | 129 | Susan Bosell |
+| 629 | 129 | Jackie Walker |
+| 630 | 129 | Kristi K Milner |
+| 631 | 129 | Armando Sabedra |
+| 632 | 128 | Josephina |
+| 633 | 128 | Princess Cucumber |
 | 634 | 127 | Nicole Suber |
-| 635 | 127 | Tammy Roth |
-| 636 | 127 | Abby |
-| 637 | 127 | Gina Leal |
-| 638 | 126 | Earline Dupuy Bordelon |
-| 639 | 126 | Dandy Tiltgrid |
-| 640 | 126 | Riggins Terry |
-| 641 | 126 | Michael Saunders |
-| 642 | 126 | Valeri Bradley |
-| 643 | 126 | Cozy Cascade |
+| 635 | 127 | Abby |
+| 636 | 127 | Gina Leal |
+| 637 | 127 | Tammy Roth |
+| 638 | 126 | Cozy Cascade |
+| 639 | 126 | Valeri Bradley |
+| 640 | 126 | Michael Saunders |
+| 641 | 126 | Riggins Terry |
+| 642 | 126 | Dandy Tiltgrid |
+| 643 | 126 | Earline Dupuy Bordelon |
 | 644 | 126 | Shawn Jensen |
 | 645 | 125 | Ashlee Johnson |
 | 646 | 125 | Frisky Linkbuilder |
@@ -1205,27 +1205,27 @@
 | 1197 | 56 | Bunny Bt |
 | 1198 | 56 | Brandon Ray Holt |
 | 1199 | 56 | Bobbie Carrol |
-| 1200 | 56 | Daniel Cline |
-| 1201 | 55 | James Calhoun |
-| 1202 | 55 | Teloney Humphrey |
-| 1203 | 55 | bigdog |
-| 1204 | 55 | Stephanie |
+| 1200 | 56 | Alexis Meyers |
+| 1201 | 56 | Daniel Cline |
+| 1202 | 55 | James Calhoun |
+| 1203 | 55 | Teloney Humphrey |
+| 1204 | 55 | bigdog |
 | 1205 | 55 | Misty McElroy |
 | 1206 | 55 | Angiela Hope Boggs |
-| 1207 | 55 | Gilbert Medina |
-| 1208 | 55 | GentleGiant Brackett |
-| 1209 | 54 | Alexis Turner |
-| 1210 | 54 | Jess Duehring |
-| 1211 | 54 | Rachel Wooldridge |
-| 1212 | 54 | Swanky Twister |
-| 1213 | 54 | Josie Mendivil |
-| 1214 | 54 | Rae Madewell |
-| 1215 | 54 | Jumpy Linkroll |
-| 1216 | 54 | Alexis Meyers |
+| 1207 | 55 | Stephanie |
+| 1208 | 55 | Gilbert Medina |
+| 1209 | 55 | GentleGiant Brackett |
+| 1210 | 54 | Alexis Turner |
+| 1211 | 54 | Jess Duehring |
+| 1212 | 54 | Rachel Wooldridge |
+| 1213 | 54 | Swanky Twister |
+| 1214 | 54 | Josie Mendivil |
+| 1215 | 54 | Rae Madewell |
+| 1216 | 54 | Jumpy Linkroll |
 | 1217 | 54 | Christina Nycol |
 | 1218 | 54 | Lively Liner |
-| 1219 | 53 | Maithan Conour |
-| 1220 | 53 | Thomas Johnstone |
+| 1219 | 53 | Thomas Johnstone |
+| 1220 | 53 | Maithan Conour |
 | 1221 | 53 | Kristen Alta |
 | 1222 | 53 | Topknot13 |
 | 1223 | 53 | Jeannine Murphy |
@@ -1994,17 +1994,17 @@
 | 1986 | 9 | Cordillia Barela |
 | 1987 | 9 | Yuhh |
 | 1988 | 9 | Daybreak |
-| 1989 | 9 | Naomi Christiansen |
-| 1990 | 9 | Dapper Corner |
-| 1991 | 9 | PortersWife87 |
-| 1992 | 9 | Rebekah Conn |
+| 1989 | 9 | Rebekah Conn |
+| 1990 | 9 | PortersWife87 |
+| 1991 | 9 | Dapper Corner |
+| 1992 | 9 | Naomi Christiansen |
 | 1993 | 8 | Elizabeth Miller |
-| 1994 | 8 | Twisty Tower |
-| 1995 | 8 | Lisa Amick |
-| 1996 | 8 | Sammi Jo |
-| 1997 | 8 | Perky Party |
-| 1998 | 8 | Brandy McGuffey |
-| 1999 | 8 | Chirpy Rollfit |
+| 1994 | 8 | Perky Party |
+| 1995 | 8 | Sammi Jo |
+| 1996 | 8 | Brandy McGuffey |
+| 1997 | 8 | Lisa Amick |
+| 1998 | 8 | Chirpy Rollfit |
+| 1999 | 8 | Twisty Tower |
 | 2000 | 8 | Lissa |
 | 2001 | 8 | Mariah Mandel |
 | 2002 | 8 | Crystal Alexander |
@@ -2022,34 +2022,34 @@
 | 2014 | 7 | Janice Simpson |
 | 2015 | 7 | Flashy Cascadeclear |
 | 2016 | 7 | michael |
-| 2017 | 7 | Ashley |
+| 2017 | 7 | VikinGs Vnm |
 | 2018 | 7 | Michael Bond |
-| 2019 | 7 | Pico |
-| 2020 | 7 | Elizabeth Barnhart Floyd |
-| 2021 | 7 | Dionne Borden |
-| 2022 | 7 | Loony Pop |
-| 2023 | 7 | Lush Tile |
-| 2024 | 7 | Kevin Ray Cook |
-| 2025 | 7 | VikinGs Vnm |
-| 2026 | 7 | Charles Dwayne |
+| 2019 | 7 | Charles Dwayne |
+| 2020 | 7 | Jennifer Bromeisl-Tettam |
+| 2021 | 7 | Elizabeth Barnhart Floyd |
+| 2022 | 7 | Dionne Borden |
+| 2023 | 7 | Pico |
+| 2024 | 7 | Loony Pop |
+| 2025 | 7 | Kevin Ray Cook |
+| 2026 | 7 | Lush Tile |
 | 2027 | 7 | Terri Jane Hardin |
-| 2028 | 7 | Jennifer Bromeisl-Tettam |
+| 2028 | 7 | Ashley |
 | 2029 | 7 | Ephysta |
 | 2030 | 7 | Sassy Swiper |
 | 2031 | 7 | Epic Balanceblock |
-| 2032 | 7 | Carl Antonucci |
-| 2033 | 7 | Marshall Wilson |
-| 2034 | 7 | bluesky |
+| 2032 | 7 | Marshall Wilson |
+| 2033 | 7 | bluesky |
+| 2034 | 7 | Carl Antonucci |
 | 2035 | 7 | Carl Gadberry |
 | 2036 | 6 | Dan Foster |
-| 2037 | 6 | Crystal |
-| 2038 | 6 | Nicole Immoos |
-| 2039 | 6 | MD |
-| 2040 | 6 | Cara Douglas |
-| 2041 | 6 | Michael Brow |
-| 2042 | 6 | Anna Hale |
-| 2043 | 6 | Cranky Zonebuilder |
-| 2044 | 6 | Slay bestie |
+| 2037 | 6 | Cara Douglas |
+| 2038 | 6 | Slay bestie |
+| 2039 | 6 | Michael Brow |
+| 2040 | 6 | Nicole Immoos |
+| 2041 | 6 | Crystal |
+| 2042 | 6 | Cranky Zonebuilder |
+| 2043 | 6 | MD |
+| 2044 | 6 | Anna Hale |
 | 2045 | 6 | Bowling girl |
 | 2046 | 6 | Jessie |
 | 2047 | 6 | Cheeky Dashpiece |
@@ -2066,14 +2066,14 @@
 | 2058 | 5 | Sunny |
 | 2059 | 5 | Chilly Twistbuilder |
 | 2060 | 5 | Adam Shimmel |
-| 2061 | 5 | Hillary Pizzuti |
-| 2062 | 5 | Loony Matcher |
-| 2063 | 5 | Quirky Liney |
-| 2064 | 5 | Splashy |
+| 2061 | 5 | Loony Matcher |
+| 2062 | 5 | Hillary Pizzuti |
+| 2063 | 5 | Teri |
+| 2064 | 5 | Miles McMahon |
 | 2065 | 5 | Cheery Filler |
-| 2066 | 5 | Karen Moore |
-| 2067 | 5 | Miles McMahon |
-| 2068 | 5 | Teri |
+| 2066 | 5 | Splashy |
+| 2067 | 5 | Karen Moore |
+| 2068 | 5 | Quirky Liney |
 
 ---
 *Standings created by tournaments datasource generation tool*
