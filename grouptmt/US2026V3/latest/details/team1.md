@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:38:42 UTC
+# Standings for team1 as of 2026-06-08 08:39:20 UTC
 
 **Total Participants:** 1763
 
@@ -146,9 +146,9 @@
 | 138 | 550 | Genne Scott |
 | 139 | 546 | Cj Gorman |
 | 140 | 544 | Gael Quintana |
-| 141 | 531 | Abraham Espaillat |
-| 142 | 527 | MommaCia |
-| 143 | 525 | La'Chae Nickole |
+| 141 | 534 | La'Chae Nickole |
+| 142 | 531 | Abraham Espaillat |
+| 143 | 527 | MommaCia |
 | 144 | 517 | Kaleisha Smith |
 | 145 | 516 | Peppy Piececlear |
 | 146 | 511 | Dizzy Dropper |
@@ -191,10 +191,10 @@
 | 183 | 405 | SPNLover24 |
 | 184 | 398 | Kenny 'Tailormade' Boyd |
 | 185 | 397 | Karebear |
-| 186 | 394 | Simmone T. Kadiri |
-| 187 | 393 | Sharon Cail |
-| 188 | 393 | Sheila Burnham |
-| 189 | 391 | pooh |
+| 186 | 396 | pooh |
+| 187 | 394 | Simmone T. Kadiri |
+| 188 | 393 | Sharon Cail |
+| 189 | 393 | Sheila Burnham |
 | 190 | 389 | GrkGdess |
 | 191 | 389 | xXEKUNXx |
 | 192 | 389 | Roberta Lynn |
