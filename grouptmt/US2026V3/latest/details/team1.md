@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:32:21 UTC
+# Standings for team1 as of 2026-06-08 11:32:43 UTC
 
 **Total Participants:** 1783
 
@@ -38,7 +38,7 @@
 | 30 | 2708 | Ebo Got-Time |
 | 31 | 2621 | Jo NewmindNewfocus Bell |
 | 32 | 2619 | Zappy Brickline |
-| 33 | 2533 | Brian Stackhouse |
+| 33 | 2557 | Brian Stackhouse |
 | 34 | 2513 | Juan Kandiss Escobedo Irwin |
 | 35 | 2278 | Mary Jenkins |
 | 36 | 2216 | Jamie Willis |
@@ -256,16 +256,16 @@
 | 248 | 318 | Calvin Green |
 | 249 | 317 | Michelle Titus |
 | 250 | 315 | Koi |
-| 251 | 314 | Cheeky Pop |
-| 252 | 311 | Coco |
-| 253 | 310 | Denise B |
-| 254 | 309 | Brave Clearbuilder |
-| 255 | 309 | Steve Reno |
-| 256 | 306 | Devin West |
-| 257 | 305 | Salim Thugger |
-| 258 | 305 | Chummy Frame |
-| 259 | 304 | Reginald Frank |
-| 260 | 304 | Rachel Zimmerman |
+| 251 | 314 | Rachel Zimmerman |
+| 252 | 314 | Cheeky Pop |
+| 253 | 311 | Coco |
+| 254 | 310 | Denise B |
+| 255 | 309 | Brave Clearbuilder |
+| 256 | 309 | Steve Reno |
+| 257 | 306 | Devin West |
+| 258 | 305 | Salim Thugger |
+| 259 | 305 | Chummy Frame |
+| 260 | 304 | Reginald Frank |
 | 261 | 303 | Queenie Perry |
 | 262 | 302 | Randizzle |
 | 263 | 300 | Ketrell Bailey |
