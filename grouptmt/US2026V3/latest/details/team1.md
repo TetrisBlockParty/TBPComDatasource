@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:10:20 UTC
+# Standings for team1 as of 2026-06-08 02:10:43 UTC
 
 **Total Participants:** 1669
 
@@ -894,42 +894,42 @@
 | 886 | 65 | Rande Smith |
 | 887 | 65 | Khatyrah Burnette |
 | 888 | 65 | Vonda House |
-| 889 | 65 | Trixie |
-| 890 | 65 | Heru Ogun Yeshua EL |
-| 891 | 65 | Renee J. Thomas |
-| 892 | 65 | Benjamin Livingston |
-| 893 | 65 | Furlough Leslie |
-| 894 | 64 | Kanesha Jackson |
-| 895 | 64 | Tomme Poliwka |
-| 896 | 64 | Elaine Youmans |
-| 897 | 63 | GetDaOPPS |
-| 898 | 63 | Tonny Williams |
-| 899 | 63 | Tony P Burke |
-| 900 | 63 | Poppy Smasher |
-| 901 | 63 | Ahsokadog |
-| 902 | 63 | Katness |
-| 903 | 63 | Heather Wilson |
-| 904 | 63 | Abdul Malik |
-| 905 | 63 | Tip318 |
-| 906 | 63 | Gary Kyle |
-| 907 | 63 | Amanda Colwell |
+| 889 | 65 | Quwana Hall |
+| 890 | 65 | Trixie |
+| 891 | 65 | Heru Ogun Yeshua EL |
+| 892 | 65 | Renee J. Thomas |
+| 893 | 65 | Benjamin Livingston |
+| 894 | 65 | Furlough Leslie |
+| 895 | 64 | Kanesha Jackson |
+| 896 | 64 | Tomme Poliwka |
+| 897 | 64 | Elaine Youmans |
+| 898 | 63 | GetDaOPPS |
+| 899 | 63 | Tonny Williams |
+| 900 | 63 | Tony P Burke |
+| 901 | 63 | Poppy Smasher |
+| 902 | 63 | Ahsokadog |
+| 903 | 63 | Katness |
+| 904 | 63 | Heather Wilson |
+| 905 | 63 | Abdul Malik |
+| 906 | 63 | Tip318 |
+| 907 | 63 | Jeremy Hendrix |
 | 908 | 63 | Natasha Harris |
-| 909 | 63 | Jeremy Hendrix |
-| 910 | 62 | Amihan |
-| 911 | 62 | Tia Hazelton |
-| 912 | 62 | Delitra Perkins Hatter |
-| 913 | 62 | S.S |
-| 914 | 62 | Quwana Hall |
+| 909 | 63 | Amanda Colwell |
+| 910 | 63 | Gary Kyle |
+| 911 | 62 | Quirky Slammer |
+| 912 | 62 | Nicole Watson-Dixon |
+| 913 | 62 | AnnaM |
+| 914 | 62 | Shona ShayShay Jones |
 | 915 | 62 | Spicy Hedgehog |
-| 916 | 62 | Quirky Slammer |
-| 917 | 62 | Shona ShayShay Jones |
-| 918 | 62 | AnnaM |
-| 919 | 62 | Nicole Watson-Dixon |
-| 920 | 61 | Michelle Stanford-Page |
+| 916 | 62 | S.S |
+| 917 | 62 | Amihan |
+| 918 | 62 | Tia Hazelton |
+| 919 | 62 | Delitra Perkins Hatter |
+| 920 | 61 | Rosalind Chatman |
 | 921 | 61 | Tonya Thomas |
-| 922 | 61 | Rosalind Chatman |
-| 923 | 60 | kick it |
-| 924 | 60 | Londa Londa |
+| 922 | 61 | Michelle Stanford-Page |
+| 923 | 60 | Londa Londa |
+| 924 | 60 | kick it |
 | 925 | 60 | Ray Baker |
 | 926 | 60 | Demi Ovalle |
 | 927 | 60 | Andy Rivera |
