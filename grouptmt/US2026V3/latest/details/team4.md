@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:46:43 UTC
+# Standings for team4 as of 2026-06-08 16:47:19 UTC
 
 **Total Participants:** 1870
 
@@ -318,8 +318,8 @@
 | 310 | 270 | Stasia |
 | 311 | 268 | Danny Keich III |
 | 312 | 267 | Chirpy Link |
-| 313 | 266 | Sassy Rollpiece |
-| 314 | 266 | Karen Davis |
+| 313 | 266 | Karen Davis |
+| 314 | 266 | Sassy Rollpiece |
 | 315 | 265 | Justin Michael |
 | 316 | 265 | Matthew Wilcox |
 | 317 | 263 | Laurie Patrick |
@@ -334,13 +334,13 @@
 | 326 | 257 | Amandacolle |
 | 327 | 257 | LaTanya GeminiondaRise Johnson |
 | 328 | 256 | Stephanie Myers |
-| 329 | 255 | Britney Kitora |
-| 330 | 252 | Dawn Phelps |
-| 331 | 252 | Toon Up |
-| 332 | 251 | Jenn Norcross |
-| 333 | 251 | Jj Johnson |
-| 334 | 251 | EL Booger |
-| 335 | 250 | kellie |
+| 329 | 256 | kellie |
+| 330 | 255 | Britney Kitora |
+| 331 | 252 | Dawn Phelps |
+| 332 | 252 | Toon Up |
+| 333 | 251 | Jenn Norcross |
+| 334 | 251 | Jj Johnson |
+| 335 | 251 | EL Booger |
 | 336 | 249 | Brennan Shea Greene |
 | 337 | 247 | Shauna Davis |
 | 338 | 247 | Bridget Stevens |
@@ -365,19 +365,19 @@
 | 357 | 233 | Dizzy Slammer |
 | 358 | 233 | Frothy Pattern |
 | 359 | 232 | Carla Woodard |
-| 360 | 230 | Nerdy Faller |
-| 361 | 230 | gabs |
-| 362 | 229 | farfromlocal |
-| 363 | 229 | Shawna Downey |
-| 364 | 229 | Chonda OhanaMomma Michelle |
-| 365 | 229 | Melika Zeheb |
-| 366 | 229 | Marcus Chavis |
-| 367 | 228 | Andrick |
-| 368 | 228 | Shiny Brick |
-| 369 | 227 | Kimyatta Cavin |
-| 370 | 227 | Groovy Towerbuilder |
-| 371 | 226 | Buddyblock |
-| 372 | 226 | Susan Stofberg Beltran |
+| 360 | 232 | Groovy Towerbuilder |
+| 361 | 230 | Nerdy Faller |
+| 362 | 230 | gabs |
+| 363 | 229 | farfromlocal |
+| 364 | 229 | Shawna Downey |
+| 365 | 229 | Chonda OhanaMomma Michelle |
+| 366 | 229 | Melika Zeheb |
+| 367 | 229 | Marcus Chavis |
+| 368 | 228 | Andrick |
+| 369 | 228 | Shiny Brick |
+| 370 | 227 | Kimyatta Cavin |
+| 371 | 226 | Susan Stofberg Beltran |
+| 372 | 226 | Buddyblock |
 | 373 | 225 | Luna |
 | 374 | 225 | ariel |
 | 375 | 225 | Knijur Callins |
@@ -1188,61 +1188,61 @@
 | 1180 | 54 | Elise Ann |
 | 1181 | 54 | Hyper Snaplink |
 | 1182 | 54 | Amber Arnold |
-| 1183 | 53 | Kimberly Mae Watkins |
-| 1184 | 53 | Sunshine Dreamchaser Whitfield |
-| 1185 | 53 | Agent |
-| 1186 | 53 | Michelle Clark |
-| 1187 | 53 | Cflixer |
-| 1188 | 53 | JoJo Hutson |
-| 1189 | 53 | Masiso |
-| 1190 | 53 | Spicy Gridder |
-| 1191 | 53 | Melinda Roman |
-| 1192 | 53 | Tay |
-| 1193 | 53 | Cheery Basegrid |
-| 1194 | 53 | Ashlee Lemus |
-| 1195 | 53 | Elissa Danks |
-| 1196 | 53 | Samantha Lohmeyer |
-| 1197 | 52 | Vv |
-| 1198 | 52 | Domenique Wilson |
-| 1199 | 52 | Powder |
-| 1200 | 52 | Dougieanna |
-| 1201 | 52 | Amanda Jill Sturgill |
-| 1202 | 52 | Kay |
-| 1203 | 52 | Frothy Pivotfall |
-| 1204 | 51 | Glitter |
-| 1205 | 51 | LilRain |
-| 1206 | 51 | Corissa Handy |
-| 1207 | 51 | JJ Merc |
-| 1208 | 51 | the repo |
-| 1209 | 51 | Peachy Linkbuilder |
-| 1210 | 51 | Dorothy Mitchell |
-| 1211 | 51 | Fancy Curvetile |
-| 1212 | 50 | EpicBarista |
-| 1213 | 50 | Suzie |
-| 1214 | 50 | Scott If |
-| 1215 | 50 | Natalie Lane |
-| 1216 | 50 | Jacqueline Wright |
-| 1217 | 50 | Erica Armstrong Baz |
+| 1183 | 53 | Sunshine Dreamchaser Whitfield |
+| 1184 | 53 | Agent |
+| 1185 | 53 | Christy Petty |
+| 1186 | 53 | Kimberly Mae Watkins |
+| 1187 | 53 | Michelle Clark |
+| 1188 | 53 | Cflixer |
+| 1189 | 53 | JoJo Hutson |
+| 1190 | 53 | Masiso |
+| 1191 | 53 | Spicy Gridder |
+| 1192 | 53 | Melinda Roman |
+| 1193 | 53 | Tay |
+| 1194 | 53 | Cheery Basegrid |
+| 1195 | 53 | Ashlee Lemus |
+| 1196 | 53 | Elissa Danks |
+| 1197 | 53 | Samantha Lohmeyer |
+| 1198 | 52 | Vv |
+| 1199 | 52 | Domenique Wilson |
+| 1200 | 52 | Powder |
+| 1201 | 52 | Dougieanna |
+| 1202 | 52 | Amanda Jill Sturgill |
+| 1203 | 52 | Kay |
+| 1204 | 52 | Frothy Pivotfall |
+| 1205 | 51 | Glitter |
+| 1206 | 51 | LilRain |
+| 1207 | 51 | Corissa Handy |
+| 1208 | 51 | JJ Merc |
+| 1209 | 51 | the repo |
+| 1210 | 51 | Peachy Linkbuilder |
+| 1211 | 51 | Dorothy Mitchell |
+| 1212 | 51 | Fancy Curvetile |
+| 1213 | 50 | EpicBarista |
+| 1214 | 50 | Suzie |
+| 1215 | 50 | Scott If |
+| 1216 | 50 | Natalie Lane |
+| 1217 | 50 | Kortnie Kate Patino |
 | 1218 | 50 | Rebecca Sloan |
-| 1219 | 50 | Alana Joe |
-| 1220 | 50 | Kortnie Kate Patino |
-| 1221 | 50 | ImagineKaijus |
+| 1219 | 50 | Erica Armstrong Baz |
+| 1220 | 50 | Jacqueline Wright |
+| 1221 | 50 | Alana Joe |
 | 1222 | 50 | Ciara Brown |
-| 1223 | 50 | Dewy |
-| 1224 | 50 | Swanky Matchfit |
-| 1225 | 50 | Kimberly Nkwopara |
-| 1226 | 50 | Mexican130 |
-| 1227 | 49 | Hasty Grabber |
-| 1228 | 49 | Angelo L Casillas |
-| 1229 | 49 | Thomas Cassell |
-| 1230 | 49 | Christy Petty |
-| 1231 | 49 | Leslee Bentley DeLong |
-| 1232 | 49 | Karen Riexinger |
-| 1233 | 49 | Elizabeth Nicole Zahm |
-| 1234 | 49 | Mindy Phariss |
-| 1235 | 49 | smarty |
-| 1236 | 49 | Mandi Rexroat |
-| 1237 | 49 | Toya Rimson |
+| 1223 | 50 | ImagineKaijus |
+| 1224 | 50 | Dewy |
+| 1225 | 50 | Swanky Matchfit |
+| 1226 | 50 | Kimberly Nkwopara |
+| 1227 | 50 | Mexican130 |
+| 1228 | 49 | Mandi Rexroat |
+| 1229 | 49 | Toya Rimson |
+| 1230 | 49 | smarty |
+| 1231 | 49 | Mindy Phariss |
+| 1232 | 49 | Elizabeth Nicole Zahm |
+| 1233 | 49 | Hasty Grabber |
+| 1234 | 49 | Angelo L Casillas |
+| 1235 | 49 | Karen Riexinger |
+| 1236 | 49 | Leslee Bentley DeLong |
+| 1237 | 49 | Thomas Cassell |
 | 1238 | 49 | Merrick Marion |
 | 1239 | 49 | Sunny Tiltbuilder |
 | 1240 | 49 | Wayne Hendricks |
@@ -1250,17 +1250,17 @@
 | 1242 | 48 | Kelli Wells Fuhr |
 | 1243 | 48 | Snoopie Johnson |
 | 1244 | 48 | Cmoss |
-| 1245 | 48 | Travis Whitner |
-| 1246 | 48 | Aliyah Abdella |
+| 1245 | 48 | Wali Muhammad |
+| 1246 | 48 | Twisty Chiseler |
 | 1247 | 48 | Dana Smith |
-| 1248 | 48 | Twisty Chiseler |
-| 1249 | 48 | Wali Muhammad |
-| 1250 | 48 | Amowe |
-| 1251 | 47 | Jaison Horton |
-| 1252 | 47 | Dannie Ems |
-| 1253 | 47 | Jim Stewart |
-| 1254 | 47 | Destiny Georgia Reeves Beller |
-| 1255 | 47 | Frby Amberr |
+| 1248 | 48 | Amowe |
+| 1249 | 48 | Aliyah Abdella |
+| 1250 | 48 | Travis Whitner |
+| 1251 | 47 | Jim Stewart |
+| 1252 | 47 | Frby Amberr |
+| 1253 | 47 | Dannie Ems |
+| 1254 | 47 | Jaison Horton |
+| 1255 | 47 | Destiny Georgia Reeves Beller |
 | 1256 | 47 | ToneDeaf |
 | 1257 | 47 | Maurice Jones |
 | 1258 | 47 | Audacious |
