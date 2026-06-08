@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:36:41 UTC
+# Standings for team1 as of 2026-06-08 16:37:19 UTC
 
 **Total Participants:** 1825
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 30000 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 12191 | Charlie Roehm |
+| 3 | 12209 | Charlie Roehm |
 | 4 | 10055 | Carrie English |
 | 5 | 9942 | Death by SnuSnu |
 | 6 | 9365 | Charnay Peacock |
@@ -107,10 +107,10 @@
 | 99 | 907 | Voice |
 | 100 | 907 | Jaida De'Anne Cox |
 | 101 | 897 | BYM4L |
-| 102 | 885 | Keeta Chickswit Scott |
-| 103 | 882 | Jon Gathers |
-| 104 | 860 | Slinky Puzzler |
-| 105 | 859 | Tameka Jones |
+| 102 | 890 | Tameka Jones |
+| 103 | 885 | Keeta Chickswit Scott |
+| 104 | 882 | Jon Gathers |
+| 105 | 860 | Slinky Puzzler |
 | 106 | 829 | Robbie Cheeseman |
 | 107 | 809 | Jazzy Dashpiece |
 | 108 | 804 | Yolanda E Fergerson |
@@ -426,32 +426,32 @@
 | 418 | 200 | Tracey Johnson |
 | 419 | 199 | Fina McKinnis |
 | 420 | 199 | Nickeya Phillips |
-| 421 | 197 | Lynnette WheelerBushnell |
-| 422 | 196 | BabyCakes |
-| 423 | 196 | Ladybug |
-| 424 | 196 | Jenni Hardman |
-| 425 | 193 | Matthieu Pistone |
-| 426 | 193 | Jae Thompson-Tyus |
-| 427 | 193 | Bold Clusterer |
-| 428 | 193 | Dizzy Dashy |
-| 429 | 192 | Donna Payne |
-| 430 | 192 | Hyper Blocky |
-| 431 | 192 | Kristine Marie Palmer |
+| 421 | 198 | Kristine Marie Palmer |
+| 422 | 197 | Lynnette WheelerBushnell |
+| 423 | 196 | BabyCakes |
+| 424 | 196 | Ladybug |
+| 425 | 196 | Jenni Hardman |
+| 426 | 193 | Matthieu Pistone |
+| 427 | 193 | Jae Thompson-Tyus |
+| 428 | 193 | Bold Clusterer |
+| 429 | 193 | Dizzy Dashy |
+| 430 | 192 | Donna Payne |
+| 431 | 192 | Hyper Blocky |
 | 432 | 192 | Taz Ballard |
-| 433 | 191 | Miera Nicole |
-| 434 | 191 | Breezy Catcher |
-| 435 | 191 | Lozuna |
-| 436 | 191 | Jelyfish |
+| 433 | 191 | Jelyfish |
+| 434 | 191 | Lozuna |
+| 435 | 191 | Breezy Catcher |
+| 436 | 191 | Miera Nicole |
 | 437 | 190 | Chipper Snapper |
-| 438 | 190 | Kamilya Rembert |
-| 439 | 190 | Nisha Sunshine Jenkins |
-| 440 | 190 | Dreamzzz |
-| 441 | 189 | Jolly Tilefall |
-| 442 | 189 | Nate Myers |
+| 438 | 190 | Dreamzzz |
+| 439 | 190 | Kamilya Rembert |
+| 440 | 190 | Nisha Sunshine Jenkins |
+| 441 | 189 | Sean White |
+| 442 | 189 | Jolly Tilefall |
 | 443 | 189 | Tosha Michelle |
-| 444 | 189 | Sean White |
-| 445 | 188 | Tyiesha Pie Farmer |
-| 446 | 188 | Travis Davison |
+| 444 | 189 | Nate Myers |
+| 445 | 188 | Travis Davison |
+| 446 | 188 | Tyiesha Pie Farmer |
 | 447 | 188 | CJ Robinson |
 | 448 | 187 | Jennah |
 | 449 | 187 | Rachel Renae Bettis |
