@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 01:54:20 UTC
+# Standings for team2 as of 2026-06-08 01:54:41 UTC
 
 **Total Participants:** 2017
 
@@ -213,7 +213,7 @@
 | 205 | 407 | Crystal Allen |
 | 206 | 405 | Amy Gregg |
 | 207 | 405 | MaddieCherie |
-| 208 | 402 | Lisa Underwood Desmond |
+| 208 | 404 | Lisa Underwood Desmond |
 | 209 | 399 | Thomas Tyrone |
 | 210 | 392 | Bri St Peter |
 | 211 | 392 | Leigh Ann |
@@ -221,23 +221,23 @@
 | 213 | 390 | Goofy Gridclear |
 | 214 | 385 | Jat |
 | 215 | 383 | Jenna Stahl |
-| 216 | 382 | Nikki Hayes |
-| 217 | 381 | Joslyn Johnson |
-| 218 | 380 | Bb |
-| 219 | 380 | Nikki EightySixed |
-| 220 | 379 | Greta Warden |
-| 221 | 378 | Gabrielle Wilson |
-| 222 | 376 | Jamie Fenyus |
-| 223 | 375 | Branden Frankowski |
-| 224 | 373 | Hoppy Mover |
-| 225 | 373 | Lashanda Bertram |
-| 226 | 371 | Brittni Lawrence |
-| 227 | 370 | giamy |
-| 228 | 370 | Jennifer Smith |
-| 229 | 368 | Traci Abern |
-| 230 | 367 | Justin McCray |
-| 231 | 364 | Lindsey Ford |
-| 232 | 363 | Brenda Jones |
+| 216 | 382 | Brenda Jones |
+| 217 | 382 | Nikki Hayes |
+| 218 | 381 | Joslyn Johnson |
+| 219 | 380 | Bb |
+| 220 | 380 | Nikki EightySixed |
+| 221 | 379 | Greta Warden |
+| 222 | 378 | Gabrielle Wilson |
+| 223 | 376 | Jamie Fenyus |
+| 224 | 375 | Branden Frankowski |
+| 225 | 373 | Hoppy Mover |
+| 226 | 373 | Lashanda Bertram |
+| 227 | 371 | Brittni Lawrence |
+| 228 | 370 | giamy |
+| 229 | 370 | Jennifer Smith |
+| 230 | 368 | Traci Abern |
+| 231 | 367 | Justin McCray |
+| 232 | 364 | Lindsey Ford |
 | 233 | 360 | Jacob Carpenter |
 | 234 | 357 | Theresa Hollinger |
 | 235 | 354 | Becca Marie |
@@ -376,52 +376,52 @@
 | 368 | 216 | Alicia Kinney |
 | 369 | 216 | Kimberly Benson |
 | 370 | 215 | Maria Ward |
-| 371 | 214 | Kathryn |
+| 371 | 214 | Tango Sierra |
 | 372 | 214 | Stephany Green |
-| 373 | 214 | Tango Sierra |
+| 373 | 214 | Kathryn |
 | 374 | 213 | Judy Burkhalter |
 | 375 | 212 | Carebear05 |
 | 376 | 212 | Flashy Hitter |
-| 377 | 211 | Sassy Twistbuilder |
-| 378 | 211 | Alonzo Reed |
-| 379 | 211 | Jumpy Matchbuilder |
-| 380 | 210 | Amanda Bottorff |
-| 381 | 210 | Camilo Moreno |
-| 382 | 210 | Zappy Liney |
-| 383 | 209 | Kevin Mccoy |
-| 384 | 208 | Dad |
-| 385 | 208 | Martha Lynn Wiggins |
-| 386 | 208 | Christy Diane Escobar |
-| 387 | 207 | StacyBabee |
-| 388 | 206 | meg |
-| 389 | 206 | Jodi Johnson |
-| 390 | 204 | Melmel |
-| 391 | 204 | Teddy Williams |
-| 392 | 204 | Rick |
-| 393 | 203 | Jill Goff |
-| 394 | 202 | MUMBLES |
-| 395 | 202 | Jacquelyn Snyder Dumas |
-| 396 | 201 | Melissa Nash |
-| 397 | 201 | Amber Smith |
-| 398 | 200 | Sarah Grundisch |
-| 399 | 200 | Al Smith Jr |
-| 400 | 200 | Katie Jones |
-| 401 | 200 | Starvinmarvin |
-| 402 | 199 | Paula Haskins |
-| 403 | 198 | Epic Tilemaker |
-| 404 | 198 | Rosalie Call Kehlenbeck |
-| 405 | 198 | Jason Cunningham |
-| 406 | 196 | Greenie |
-| 407 | 196 | Spunky Linkblock |
-| 408 | 195 | Steven |
-| 409 | 195 | Reign Hustler |
-| 410 | 194 | Elliott Mikila |
+| 377 | 211 | Elliott Mikila |
+| 378 | 211 | Sassy Twistbuilder |
+| 379 | 211 | Alonzo Reed |
+| 380 | 211 | Jumpy Matchbuilder |
+| 381 | 210 | Amanda Bottorff |
+| 382 | 210 | Camilo Moreno |
+| 383 | 210 | Zappy Liney |
+| 384 | 209 | Kevin Mccoy |
+| 385 | 208 | Dad |
+| 386 | 208 | Martha Lynn Wiggins |
+| 387 | 208 | Christy Diane Escobar |
+| 388 | 207 | StacyBabee |
+| 389 | 206 | meg |
+| 390 | 206 | Jodi Johnson |
+| 391 | 204 | Melmel |
+| 392 | 204 | Teddy Williams |
+| 393 | 204 | Rick |
+| 394 | 203 | Jill Goff |
+| 395 | 202 | MUMBLES |
+| 396 | 202 | Jacquelyn Snyder Dumas |
+| 397 | 201 | Melissa Nash |
+| 398 | 201 | Amber Smith |
+| 399 | 200 | Starvinmarvin |
+| 400 | 200 | Al Smith Jr |
+| 401 | 200 | Sarah Grundisch |
+| 402 | 200 | Katie Jones |
+| 403 | 199 | Paula Haskins |
+| 404 | 198 | Epic Tilemaker |
+| 405 | 198 | Rosalie Call Kehlenbeck |
+| 406 | 198 | Jason Cunningham |
+| 407 | 196 | Greenie |
+| 408 | 196 | Spunky Linkblock |
+| 409 | 195 | Steven |
+| 410 | 195 | Reign Hustler |
 | 411 | 194 | Brian Favre |
 | 412 | 192 | Raine |
-| 413 | 191 | Nano. |
-| 414 | 191 | Jessica Christine |
-| 415 | 190 | Naomi Walker |
-| 416 | 190 | Lisa Allen Frisk |
+| 413 | 191 | Jessica Christine |
+| 414 | 191 | Nano. |
+| 415 | 190 | Lisa Allen Frisk |
+| 416 | 190 | Naomi Walker |
 | 417 | 190 | Saucy Wrecker |
 | 418 | 189 | Danielle Lyons |
 | 419 | 188 | Rachel Nilles |
@@ -443,12 +443,12 @@
 | 435 | 181 | Meagan Grimmett Washburn |
 | 436 | 181 | Victoria Pale |
 | 437 | 181 | Jamie Adams |
-| 438 | 180 | Sarah Jane Gorsuch |
-| 439 | 180 | Zany Wrecker |
-| 440 | 180 | Laura Larsen |
-| 441 | 180 | Dawn Kroptavich |
-| 442 | 180 | Ashley Voelz |
-| 443 | 180 | Happy |
+| 438 | 180 | Zany Wrecker |
+| 439 | 180 | Happy |
+| 440 | 180 | Sarah Jane Gorsuch |
+| 441 | 180 | Ashley Voelz |
+| 442 | 180 | Dawn Kroptavich |
+| 443 | 180 | Laura Larsen |
 | 444 | 179 | Perii Reynoso |
 | 445 | 179 | Bengy Lead |
 | 446 | 179 | Derrick |
@@ -562,47 +562,47 @@
 | 554 | 141 | Mtnblzr |
 | 555 | 141 | Dame Smith |
 | 556 | 141 | Susie Conger |
-| 557 | 141 | Layla Petroff |
+| 557 | 141 | Gina Louise Parker |
 | 558 | 141 | Carl Mccoy |
-| 559 | 141 | Tamtam |
-| 560 | 140 | Doowop40 |
-| 561 | 140 | Mary Carriere |
+| 559 | 141 | Layla Petroff |
+| 560 | 141 | Tamtam |
+| 561 | 140 | Rebekah Holland |
 | 562 | 140 | Heather Schardan |
-| 563 | 140 | Wendy Durrence Jones |
-| 564 | 140 | Bouncy Snapmatch |
-| 565 | 140 | Alycia Marie Zelensky |
-| 566 | 140 | ChefDeb |
-| 567 | 140 | Adam Latin |
-| 568 | 140 | Rebekah Holland |
-| 569 | 140 | Heather Billodeau |
-| 570 | 140 | Chris Christ |
-| 571 | 139 | Gina Louise Parker |
-| 572 | 139 | David Skelton |
-| 573 | 139 | Jason Burris |
-| 574 | 139 | Cassandra Green |
-| 575 | 138 | Melissa Fink |
-| 576 | 138 | Wendy McKee |
-| 577 | 138 | Madonna Ash |
-| 578 | 138 | Sam Brewster |
-| 579 | 138 | LittleHippoEars |
-| 580 | 138 | Firebone |
-| 581 | 137 | Kenzie |
-| 582 | 137 | Sandra Belk |
-| 583 | 137 | Sarah Louise Cobb |
-| 584 | 137 | LadyDeath |
-| 585 | 136 | Lauren Maxwell |
+| 563 | 140 | Mary Carriere |
+| 564 | 140 | Wendy Durrence Jones |
+| 565 | 140 | ChefDeb |
+| 566 | 140 | Adam Latin |
+| 567 | 140 | Heather Billodeau |
+| 568 | 140 | Doowop40 |
+| 569 | 140 | Alycia Marie Zelensky |
+| 570 | 140 | Bouncy Snapmatch |
+| 571 | 140 | Chris Christ |
+| 572 | 139 | Cassandra Green |
+| 573 | 139 | David Skelton |
+| 574 | 139 | Jason Burris |
+| 575 | 138 | Firebone |
+| 576 | 138 | LittleHippoEars |
+| 577 | 138 | Sam Brewster |
+| 578 | 138 | Wendy McKee |
+| 579 | 138 | Madonna Ash |
+| 580 | 138 | Melissa Fink |
+| 581 | 137 | Sarah Louise Cobb |
+| 582 | 137 | LadyDeath |
+| 583 | 137 | Sandra Belk |
+| 584 | 137 | Kenzie |
+| 585 | 136 | Andrea Rawson |
 | 586 | 136 | Joshua Dye |
-| 587 | 136 | Andrea Rawson |
-| 588 | 135 | Michele Rogers |
-| 589 | 135 | Sunny Tiltbuilder |
+| 587 | 136 | Lauren Maxwell |
+| 588 | 135 | Sunny Tiltbuilder |
+| 589 | 135 | Michele Rogers |
 | 590 | 135 | Erin Moore Galloway |
 | 591 | 135 | Jessica Garoutte |
 | 592 | 134 | Busted9mm |
 | 593 | 134 | Cassandra Milner |
 | 594 | 134 | TNGal |
 | 595 | 134 | Heather Vircik |
-| 596 | 132 | WhitS |
-| 597 | 132 | Simone F |
+| 596 | 132 | Simone F |
+| 597 | 132 | WhitS |
 | 598 | 132 | Belinda Gullion Austin |
 | 599 | 132 | Kristen |
 | 600 | 132 | Newtwidebody |

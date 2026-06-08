@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 01:54:20 UTC
+# Standings for team1 as of 2026-06-08 01:54:41 UTC
 
 **Total Participants:** 1661
 
@@ -32,8 +32,8 @@
 | 24 | 3245 | Cool Bridger |
 | 25 | 3080 | Chummy Combo |
 | 26 | 2913 | Sha Harris |
-| 27 | 2708 | Ebo Got-Time |
-| 28 | 2682 | Kkbk |
+| 27 | 2759 | Kkbk |
+| 28 | 2708 | Ebo Got-Time |
 | 29 | 2619 | Zappy Brickline |
 | 30 | 2583 | Jo NewmindNewfocus Bell |
 | 31 | 2484 | Juan Kandiss Escobedo Irwin |
@@ -119,11 +119,11 @@
 | 111 | 647 | Andi McGreevy |
 | 112 | 631 | Big Tina |
 | 113 | 630 | Bambi Love |
-| 114 | 627 | Mimi 1.0 |
-| 115 | 622 | Alana Renee |
-| 116 | 619 | Ottison Dianna |
-| 117 | 618 | Quirky Fallgrid |
-| 118 | 614 | Jason Mungin |
+| 114 | 629 | Jason Mungin |
+| 115 | 627 | Mimi 1.0 |
+| 116 | 622 | Alana Renee |
+| 117 | 619 | Ottison Dianna |
+| 118 | 618 | Quirky Fallgrid |
 | 119 | 611 | Frisky Fallmatch |
 | 120 | 604 | W.A. Simpson |
 | 121 | 601 | JaszyBadd |
@@ -212,8 +212,8 @@
 | 204 | 320 | Ashley MyBeauty Daniels |
 | 205 | 320 | NastyFriend |
 | 206 | 318 | Nerdy Snapfall |
-| 207 | 317 | Michelle Titus |
-| 208 | 315 | Calvin Green |
+| 207 | 318 | Calvin Green |
+| 208 | 317 | Michelle Titus |
 | 209 | 315 | Koi |
 | 210 | 312 | Zachary Colegrove |
 | 211 | 311 | Helen Smith |
