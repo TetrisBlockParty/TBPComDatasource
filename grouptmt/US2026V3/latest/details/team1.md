@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:34:19 UTC
+# Standings for team1 as of 2026-06-08 06:34:45 UTC
 
 **Total Participants:** 1745
 
@@ -786,21 +786,21 @@
 | 778 | 88 | Duncan Timothy |
 | 779 | 88 | TBabii24 |
 | 780 | 88 | Fatty May |
-| 781 | 87 | Natalie Burroughs |
-| 782 | 87 | Shakmar |
-| 783 | 87 | LexiiSamayaa |
-| 784 | 87 | Denise Cunningham-English |
-| 785 | 87 | Angela L Charles |
-| 786 | 87 | Crystal Garay |
-| 787 | 87 | Samona Mcculler |
-| 788 | 87 | Pj Rojas |
-| 789 | 86 | Saucy Faller |
-| 790 | 86 | krd |
-| 791 | 86 | LaTonya Rivers |
-| 792 | 86 | Tweet Turner |
-| 793 | 86 | RylonJones |
-| 794 | 85 | Bobby Chestefield |
-| 795 | 85 | Ameillia Boughner |
+| 781 | 88 | Ameillia Boughner |
+| 782 | 87 | Natalie Burroughs |
+| 783 | 87 | Shakmar |
+| 784 | 87 | LexiiSamayaa |
+| 785 | 87 | Denise Cunningham-English |
+| 786 | 87 | Angela L Charles |
+| 787 | 87 | Crystal Garay |
+| 788 | 87 | Samona Mcculler |
+| 789 | 87 | Pj Rojas |
+| 790 | 86 | Saucy Faller |
+| 791 | 86 | krd |
+| 792 | 86 | LaTonya Rivers |
+| 793 | 86 | Tweet Turner |
+| 794 | 86 | RylonJones |
+| 795 | 85 | Bobby Chestefield |
 | 796 | 85 | Chill Linkroll |
 | 797 | 85 | Tray Tolliver |
 | 798 | 85 | Anthony Collins |
