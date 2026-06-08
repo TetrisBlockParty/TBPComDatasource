@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:28:42 UTC
+# Standings for team1 as of 2026-06-08 10:29:21 UTC
 
 **Total Participants:** 1776
 
@@ -1169,48 +1169,48 @@
 | 1161 | 45 | Chinkey Overit |
 | 1162 | 45 | Frothy Zoney |
 | 1163 | 45 | Nicole |
-| 1164 | 45 | Jasmine Bates |
+| 1164 | 45 | Kenneth Williams |
 | 1165 | 45 | midnightxtoker |
-| 1166 | 45 | Kenneth Williams |
-| 1167 | 45 | Matraca Young |
+| 1166 | 45 | Matraca Young |
+| 1167 | 45 | Jasmine Bates |
 | 1168 | 45 | Lawreniesha Burkley |
 | 1169 | 45 | Cali Lee |
-| 1170 | 45 | Antoinette Kidd |
-| 1171 | 45 | Kike Lua |
-| 1172 | 45 | Beautiful314 |
-| 1173 | 45 | Mighty plantlady |
-| 1174 | 44 | Nerdy Wipefit |
-| 1175 | 44 | Caitlin Michele |
-| 1176 | 44 | Nic Nic |
-| 1177 | 44 | Ayeisha W |
-| 1178 | 44 | Dee Dee |
-| 1179 | 44 | Mark Steven Pichler |
-| 1180 | 44 | Alize |
-| 1181 | 44 | Willson06 |
-| 1182 | 44 | Frilly Riserbuilder |
-| 1183 | 44 | Connor Leon Cluff |
-| 1184 | 44 | Ernest Maxwell |
-| 1185 | 44 | Tonia Ramos |
-| 1186 | 43 | Brittany Cole |
-| 1187 | 43 | Krose Byers |
-| 1188 | 43 | Jovy |
-| 1189 | 43 | Alturas Supremenineteen Banks |
-| 1190 | 43 | Krista McNair |
-| 1191 | 43 | April Ezell |
-| 1192 | 42 | Tammy Scott Mallen |
-| 1193 | 42 | Rikki Moran |
+| 1170 | 45 | Kike Lua |
+| 1171 | 45 | Antoinette Kidd |
+| 1172 | 45 | Mighty plantlady |
+| 1173 | 45 | Beautiful314 |
+| 1174 | 44 | Caitlin Michele |
+| 1175 | 44 | Nerdy Wipefit |
+| 1176 | 44 | Ayeisha W |
+| 1177 | 44 | Nic Nic |
+| 1178 | 44 | Simone Dublin |
+| 1179 | 44 | Dee Dee |
+| 1180 | 44 | Mark Steven Pichler |
+| 1181 | 44 | Alize |
+| 1182 | 44 | Willson06 |
+| 1183 | 44 | Frilly Riserbuilder |
+| 1184 | 44 | Connor Leon Cluff |
+| 1185 | 44 | Ernest Maxwell |
+| 1186 | 44 | Tonia Ramos |
+| 1187 | 43 | Brittany Cole |
+| 1188 | 43 | Krose Byers |
+| 1189 | 43 | Jovy |
+| 1190 | 43 | Alturas Supremenineteen Banks |
+| 1191 | 43 | Krista McNair |
+| 1192 | 43 | April Ezell |
+| 1193 | 42 | Tammy Scott Mallen |
 | 1194 | 42 | Carl Proby |
 | 1195 | 42 | Tempee |
 | 1196 | 42 | Nadine Coleman |
 | 1197 | 42 | Louise |
 | 1198 | 42 | Sunny Riserbuilder |
 | 1199 | 42 | Bianca Nawlinsgurl Ferguson |
-| 1200 | 42 | Simone Dublin |
-| 1201 | 42 | Emeka Agu |
+| 1200 | 42 | Emeka Agu |
+| 1201 | 42 | Lush Crasher |
 | 1202 | 42 | Robyn Ellis |
-| 1203 | 42 | Lush Crasher |
+| 1203 | 42 | Chipper Clicker |
 | 1204 | 42 | Dandy Blockfall |
-| 1205 | 42 | Chipper Clicker |
+| 1205 | 42 | Rikki Moran |
 | 1206 | 41 | Sicily Bailey |
 | 1207 | 41 | Melvin Simpson |
 | 1208 | 41 | Carolyn |
@@ -1571,61 +1571,61 @@
 | 1563 | 15 | Happy Towerfall |
 | 1564 | 15 | Tami Spence |
 | 1565 | 15 | Mayra Diaz |
-| 1566 | 15 | Jonathan Zold |
+| 1566 | 15 | Cheery Strikerbuilder |
 | 1567 | 15 | Kris Gray |
-| 1568 | 15 | Chief block |
-| 1569 | 15 | QDeezy1906 |
-| 1570 | 15 | luc |
-| 1571 | 15 | Hasty Match |
-| 1572 | 15 | Cheery Strikerbuilder |
+| 1568 | 15 | Cheeky Matchzone |
+| 1569 | 15 | Chief block |
+| 1570 | 15 | QDeezy1906 |
+| 1571 | 15 | luc |
+| 1572 | 15 | Hasty Match |
 | 1573 | 15 | Bri Lou |
-| 1574 | 15 | Tina Bongcayao |
-| 1575 | 15 | The Aries Vixen |
-| 1576 | 15 | Chill Spinzone |
+| 1574 | 15 | Jonathan Zold |
+| 1575 | 15 | Tina Bongcayao |
+| 1576 | 15 | The Aries Vixen |
 | 1577 | 15 | UnionBoss |
-| 1578 | 15 | Nockallday |
-| 1579 | 15 | Breezy Bouncer |
-| 1580 | 14 | Barbiebunz |
-| 1581 | 14 | Dymond |
+| 1578 | 15 | Breezy Bouncer |
+| 1579 | 15 | Chill Spinzone |
+| 1580 | 15 | Nockallday |
+| 1581 | 14 | Geno Bankroll McGill |
 | 1582 | 14 | Carmen Claudio |
 | 1583 | 14 | Angela Hill O'Neal |
 | 1584 | 14 | Stephanie Zuniga Tullock |
-| 1585 | 14 | Geno Bankroll McGill |
+| 1585 | 14 | Dymond |
 | 1586 | 14 | Alonzo Kirkland |
 | 1587 | 14 | Jolly Zoner |
-| 1588 | 14 | Jazzy |
-| 1589 | 14 | Jennifer Levan |
-| 1590 | 14 | Jerrone Epps |
-| 1591 | 14 | Brandon Knox |
+| 1588 | 14 | Barbiebunz |
+| 1589 | 14 | Jazzy |
+| 1590 | 14 | Jennifer Levan |
+| 1591 | 14 | Jerrone Epps |
 | 1592 | 14 | Fancy Mover |
 | 1593 | 14 | Zany Pivot |
-| 1594 | 14 | Nerdy Curvetile |
-| 1595 | 13 | Leah Ingram |
-| 1596 | 13 | Tasha Stuckey |
-| 1597 | 13 | Hasty Shatterbuilder |
-| 1598 | 13 | random |
-| 1599 | 13 | Deanna Pinkard Harrington |
+| 1594 | 14 | Brandon Knox |
+| 1595 | 14 | Nerdy Curvetile |
+| 1596 | 13 | Ashley Horne |
+| 1597 | 13 | Zesty Clearer |
+| 1598 | 13 | Emily Burgoon |
+| 1599 | 13 | Kennita Leach Woodard |
 | 1600 | 13 | Emma Adams |
-| 1601 | 13 | Zachary Sinclair |
-| 1602 | 13 | Ashley Horne |
-| 1603 | 13 | Zesty Clearer |
-| 1604 | 13 | Emily Burgoon |
-| 1605 | 13 | Kennita Leach Woodard |
-| 1606 | 12 | Penny Gayles |
-| 1607 | 12 | BigDawg Lessley |
-| 1608 | 12 | Chantae Maxwell |
+| 1601 | 13 | Deanna Pinkard Harrington |
+| 1602 | 13 | random |
+| 1603 | 13 | Hasty Shatterbuilder |
+| 1604 | 13 | Tasha Stuckey |
+| 1605 | 13 | Leah Ingram |
+| 1606 | 13 | Zachary Sinclair |
+| 1607 | 12 | Shelly Marie |
+| 1608 | 12 | taz62 |
 | 1609 | 12 | Silly Spinblock |
-| 1610 | 12 | taz62 |
-| 1611 | 12 | toye69 |
-| 1612 | 12 | Shelly Marie |
-| 1613 | 12 | highland cow lover |
-| 1614 | 12 | Otavia Gordon |
-| 1615 | 12 | Tiffany Ali Shaw |
+| 1610 | 12 | Chantae Maxwell |
+| 1611 | 12 | BigDawg Lessley |
+| 1612 | 12 | toye69 |
+| 1613 | 12 | Tiffany Ali Shaw |
+| 1614 | 12 | highland cow lover |
+| 1615 | 12 | Otavia Gordon |
 | 1616 | 12 | Lavance Sams |
 | 1617 | 12 | Peachy Stacker |
 | 1618 | 12 | Outspoken Sirchristopher |
 | 1619 | 12 | Mamiyoung47 |
-| 1620 | 12 | Cheeky Matchzone |
+| 1620 | 12 | Penny Gayles |
 | 1621 | 12 | Plucky Twist |
 | 1622 | 11 | Schuyler Carson Jackson |
 | 1623 | 11 | Edward Croom |
