@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:16:41 UTC
+# Standings for team1 as of 2026-06-08 08:17:19 UTC
 
 **Total Participants:** 1762
 
@@ -77,10 +77,10 @@
 | 69 | 1093 | Sanjuro |
 | 70 | 1091 | Bre Maugh |
 | 71 | 1090 | Catara Renae Oliver |
-| 72 | 1078 | Danielle DeLozier Plesec |
-| 73 | 1071 | Kimberly Hernandez |
-| 74 | 1044 | Brian Bohanon II |
-| 75 | 1041 | Frisky Fallmatch |
+| 72 | 1081 | Frisky Fallmatch |
+| 73 | 1078 | Danielle DeLozier Plesec |
+| 74 | 1071 | Kimberly Hernandez |
+| 75 | 1044 | Brian Bohanon II |
 | 76 | 1024 | Chill Clusterer |
 | 77 | 1018 | Court Court |
 | 78 | 1017 | Lisa Müller |
