@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:22:41 UTC
+# Standings for team1 as of 2026-06-08 08:23:20 UTC
 
 **Total Participants:** 1762
 
@@ -179,9 +179,9 @@
 | 171 | 427 | Tamara N Lee |
 | 172 | 427 | Ty Øtg |
 | 173 | 423 | Zappy Riser |
-| 174 | 420 | Jessica Carter |
-| 175 | 420 | Hyper Slamdrop |
-| 176 | 419 | Plucky Slamdrop |
+| 174 | 421 | Plucky Slamdrop |
+| 175 | 420 | Jessica Carter |
+| 176 | 420 | Hyper Slamdrop |
 | 177 | 417 | Dena Marie Lee |
 | 178 | 417 | Eugina Slater |
 | 179 | 414 | Jenna Renee |

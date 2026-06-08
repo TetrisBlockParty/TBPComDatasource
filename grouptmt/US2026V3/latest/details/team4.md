@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:22:41 UTC
+# Standings for team4 as of 2026-06-08 08:23:20 UTC
 
 **Total Participants:** 1799
 
@@ -119,13 +119,13 @@
 | 111 | 697 | Ermadette |
 | 112 | 694 | Kelly Bernard |
 | 113 | 692 | Jeremy Lopez |
-| 114 | 681 | Jason Garnatz |
-| 115 | 678 | Jenn Fitzgerald |
-| 116 | 677 | Dandy Clearfit |
-| 117 | 669 | Gigglycat |
-| 118 | 651 | vag1974 |
-| 119 | 649 | Irma |
-| 120 | 649 | Michelle Ross |
+| 114 | 683 | Michelle Ross |
+| 115 | 681 | Jason Garnatz |
+| 116 | 678 | Jenn Fitzgerald |
+| 117 | 677 | Dandy Clearfit |
+| 118 | 669 | Gigglycat |
+| 119 | 651 | vag1974 |
+| 120 | 649 | Irma |
 | 121 | 640 | Gracie Ornelas |
 | 122 | 637 | Cranky Towerbuilder |
 | 123 | 626 | Lynn Grimes |
@@ -215,11 +215,11 @@
 | 207 | 336 | Samantha Worley |
 | 208 | 336 | Plucky Shatterfit |
 | 209 | 334 | Dazzle Dragon |
-| 210 | 331 | Wendy Zentz |
-| 211 | 331 | Perky Riserbuilder |
-| 212 | 330 | LastBoi |
-| 213 | 330 | Fran Aaron-Ring |
-| 214 | 329 | Kelly Howland |
+| 210 | 332 | Kelly Howland |
+| 211 | 331 | Wendy Zentz |
+| 212 | 331 | Perky Riserbuilder |
+| 213 | 330 | LastBoi |
+| 214 | 330 | Fran Aaron-Ring |
 | 215 | 327 | beTrue76 |
 | 216 | 326 | Debby Ruof |
 | 217 | 326 | Boldy Striker |
