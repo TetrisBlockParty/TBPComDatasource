@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:08:19 UTC
+# Standings for team1 as of 2026-06-08 19:08:42 UTC
 
 **Total Participants:** 1848
 
@@ -692,87 +692,87 @@
 | 684 | 124 | Nora Mahmoud |
 | 685 | 123 | Esha I'msoproudofmyself Davis |
 | 686 | 123 | Jackytrain52 |
-| 687 | 123 | Stephen Garland |
-| 688 | 123 | Derald Miller |
-| 689 | 123 | Jason Saputo |
+| 687 | 123 | Derald Miller |
+| 688 | 123 | Jason Saputo |
+| 689 | 123 | Stephen Garland |
 | 690 | 123 | Dizzy Gridmatch |
 | 691 | 122 | Amanda Woodruff |
 | 692 | 122 | Xana Zania Bopp |
 | 693 | 121 | meatballs |
-| 694 | 121 | Biggestboss Ransom |
-| 695 | 121 | Jodie |
-| 696 | 121 | Tiana Monique |
-| 697 | 121 | Angie Smith |
-| 698 | 120 | lookin |
+| 694 | 121 | Tiana Monique |
+| 695 | 121 | Angie Smith |
+| 696 | 121 | Biggestboss Ransom |
+| 697 | 121 | Jodie |
+| 698 | 120 | Ashley Davis |
 | 699 | 120 | GetDaOPPS |
-| 700 | 120 | Ashley Davis |
-| 701 | 120 | Giggy Edgefit |
-| 702 | 120 | Sandra Mims |
-| 703 | 120 | Dianne Clagon |
-| 704 | 120 | Tiffany Jean Hinson |
-| 705 | 120 | MindlessMic |
-| 706 | 119 | Hyy |
+| 700 | 120 | Giggy Edgefit |
+| 701 | 120 | Tiffany Jean Hinson |
+| 702 | 120 | MindlessMic |
+| 703 | 120 | lookin |
+| 704 | 120 | Dianne Clagon |
+| 705 | 120 | Sandra Mims |
+| 706 | 119 | Albert McKnight |
 | 707 | 119 | Adrian Harris |
-| 708 | 119 | Albert McKnight |
-| 709 | 119 | TY Newme Batts |
-| 710 | 119 | Stronger Wiser Better |
-| 711 | 119 | Lexx Robins |
-| 712 | 119 | Spicy Shatterblock |
-| 713 | 119 | Chereese Harris |
-| 714 | 119 | Darrel Pemberton |
-| 715 | 119 | Montréal Mars |
+| 708 | 119 | Lexx Robins |
+| 709 | 119 | Montréal Mars |
+| 710 | 119 | TY Newme Batts |
+| 711 | 119 | Stronger Wiser Better |
+| 712 | 119 | Hyy |
+| 713 | 119 | Spicy Shatterblock |
+| 714 | 119 | Chereese Harris |
+| 715 | 119 | Darrel Pemberton |
 | 716 | 119 | Zany Patternblock |
 | 717 | 118 | Raymond Boosie Freeman |
-| 718 | 118 | Tony Pizzas |
-| 719 | 118 | Jjhandsome |
-| 720 | 118 | Hasty Pivoty |
-| 721 | 118 | Meow Meow |
-| 722 | 118 | Stephanie Ellis |
-| 723 | 118 | SnazzyIvy |
-| 724 | 117 | Poppy Twister |
-| 725 | 117 | Bruce Paléncia |
-| 726 | 117 | Bubbly Slammer |
-| 727 | 117 | Cori Cleland |
-| 728 | 117 | Kayel Good |
+| 718 | 118 | Jjhandsome |
+| 719 | 118 | SnazzyIvy |
+| 720 | 118 | Meow Meow |
+| 721 | 118 | Stephanie Ellis |
+| 722 | 118 | Hasty Pivoty |
+| 723 | 118 | Tony Pizzas |
+| 724 | 117 | Bruce Paléncia |
+| 725 | 117 | Bubbly Slammer |
+| 726 | 117 | Poppy Twister |
+| 727 | 117 | Spicy Tiler |
+| 728 | 117 | DirtiestofMikes |
 | 729 | 117 | Kortney Adams |
-| 730 | 117 | DirtiestofMikes |
-| 731 | 117 | Spicy Tiler |
-| 732 | 116 | Lady T |
-| 733 | 116 | Rosalind Chatman |
-| 734 | 116 | Sallie Sanborn |
-| 735 | 116 | Sherri Keys |
-| 736 | 115 | WOOLFF |
-| 737 | 115 | Antoinette Kelly |
-| 738 | 115 | Boricua64 |
-| 739 | 114 | Felicia Dungey |
-| 740 | 114 | Solomon Valarie |
-| 741 | 114 | Renee Marshall |
-| 742 | 114 | Tyree Tman Shinette |
-| 743 | 114 | Christy Quick |
-| 744 | 114 | Cranky Fall |
-| 745 | 114 | Seirra Robinson |
-| 746 | 114 | James Bryant II |
+| 730 | 117 | Cori Cleland |
+| 731 | 117 | Kayel Good |
+| 732 | 116 | Motown Chuck |
+| 733 | 116 | Sallie Sanborn |
+| 734 | 116 | Sherri Keys |
+| 735 | 116 | Lady T |
+| 736 | 116 | Rosalind Chatman |
+| 737 | 115 | WOOLFF |
+| 738 | 115 | Antoinette Kelly |
+| 739 | 115 | Boricua64 |
+| 740 | 114 | Christy Quick |
+| 741 | 114 | Felicia Dungey |
+| 742 | 114 | Solomon Valarie |
+| 743 | 114 | Renee Marshall |
+| 744 | 114 | Tyree Tman Shinette |
+| 745 | 114 | Cranky Fall |
+| 746 | 114 | Seirra Robinson |
 | 747 | 114 | LAhoneybun82 |
 | 748 | 114 | Angela Kitchens |
-| 749 | 114 | Ameillia Boughner |
-| 750 | 113 | Terrance Tindall |
-| 751 | 112 | TeeMaster Barber IsLyfe |
-| 752 | 112 | Peppy Wipeblock |
-| 753 | 112 | GamerQueenDS |
-| 754 | 112 | Joseph Vs Cap |
-| 755 | 112 | Marie Wilson |
-| 756 | 112 | Barbramerri Tarboro |
+| 749 | 114 | James Bryant II |
+| 750 | 114 | Ameillia Boughner |
+| 751 | 113 | Terrance Tindall |
+| 752 | 112 | TeeMaster Barber IsLyfe |
+| 753 | 112 | Peppy Wipeblock |
+| 754 | 112 | GamerQueenDS |
+| 755 | 112 | Joseph Vs Cap |
+| 756 | 112 | Marie Wilson |
 | 757 | 112 | Jose Rodriguez |
-| 758 | 111 | Katness |
+| 758 | 112 | Barbramerri Tarboro |
 | 759 | 111 | messyboots |
 | 760 | 111 | Chino Baby |
 | 761 | 111 | Mellie Mel |
 | 762 | 111 | Happy Blockpiece |
-| 763 | 111 | Happy Blocky |
-| 764 | 110 | Crtjstr |
-| 765 | 110 | Kimberly Noble |
-| 766 | 110 | Motown Chuck |
-| 767 | 110 | Analesia Taylor |
+| 763 | 111 | Katness |
+| 764 | 111 | Happy Blocky |
+| 765 | 110 | Analesia Taylor |
+| 766 | 110 | Kimberly Noble |
+| 767 | 110 | Crtjstr |
 | 768 | 110 | Jen Hallin |
 | 769 | 110 | Slinky Fallzone |
 | 770 | 110 | Danny Talbot |
