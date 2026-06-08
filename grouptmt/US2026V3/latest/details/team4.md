@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 06:12:42 UTC
+# Standings for team4 as of 2026-06-08 06:13:20 UTC
 
 **Total Participants:** 1784
 
@@ -384,26 +384,26 @@
 | 376 | 192 | Ralph Hell Rell Williams |
 | 377 | 192 | Homie |
 | 378 | 190 | Chonda OhanaMomma Michelle |
-| 379 | 190 | Name |
-| 380 | 190 | Bean |
-| 381 | 189 | Snazzy Corner |
-| 382 | 188 | Shanae Taylor |
-| 383 | 188 | Stephanie Brock |
-| 384 | 188 | Dandy Cascade |
-| 385 | 188 | Lee Ann Gibby |
-| 386 | 187 | Cindy |
+| 379 | 190 | Jacqueline Jackii Ramos |
+| 380 | 190 | Name |
+| 381 | 190 | Bean |
+| 382 | 189 | Snazzy Corner |
+| 383 | 188 | Lee Ann Gibby |
+| 384 | 188 | Shanae Taylor |
+| 385 | 188 | Stephanie Brock |
+| 386 | 188 | Dandy Cascade |
 | 387 | 187 | Jennifer Fisher Franklin |
-| 388 | 186 | Tiffany Morris Garner |
-| 389 | 186 | June Hoffman |
-| 390 | 186 | Miwa |
-| 391 | 186 | Rita Ann |
-| 392 | 185 | Valerie Silva |
-| 393 | 184 | Jacqueline Jackii Ramos |
+| 388 | 187 | Cindy |
+| 389 | 186 | Miwa |
+| 390 | 186 | June Hoffman |
+| 391 | 186 | Tiffany Morris Garner |
+| 392 | 186 | Rita Ann |
+| 393 | 185 | Valerie Silva |
 | 394 | 182 | Swanky Snapgrid |
 | 395 | 182 | Ashley Eskridge |
 | 396 | 181 | Danny Frausto |
-| 397 | 180 | Dan Butcher |
-| 398 | 180 | EvoKitty |
+| 397 | 180 | EvoKitty |
+| 398 | 180 | Dan Butcher |
 | 399 | 180 | Goofy Linkmatch |
 | 400 | 180 | Silly Rollbuilder |
 | 401 | 180 | Chilly Pivot |
