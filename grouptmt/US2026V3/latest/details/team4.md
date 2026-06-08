@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:28:19 UTC
+# Standings for team4 as of 2026-06-08 09:28:41 UTC
 
 **Total Participants:** 1804
 
@@ -672,8 +672,8 @@
 | 664 | 108 | Miranda Brown |
 | 665 | 108 | SandyEva |
 | 666 | 107 | Bonique Bier |
-| 667 | 107 | Haylee Talkington |
-| 668 | 106 | Alicia Blunt |
+| 667 | 107 | Alicia Blunt |
+| 668 | 107 | Haylee Talkington |
 | 669 | 106 | Charlene Nicole Guidry |
 | 670 | 106 | Deana Teck |
 | 671 | 105 | Renita Jordan |

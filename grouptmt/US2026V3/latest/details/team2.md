@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:28:19 UTC
+# Standings for team2 as of 2026-06-08 09:28:41 UTC
 
 **Total Participants:** 2142
 
@@ -1239,8 +1239,8 @@
 | 1231 | 60 | Angiela Hope Boggs |
 | 1232 | 60 | Nanny t |
 | 1233 | 60 | Stephania Edwards |
-| 1234 | 59 | April Addis |
-| 1235 | 59 | Dee |
+| 1234 | 59 | Dee |
+| 1235 | 59 | April Addis |
 | 1236 | 59 | Cindy Brown |
 | 1237 | 59 | Jill Bobst Marple |
 | 1238 | 59 | LaicoosBargains Ln |
@@ -1261,84 +1261,84 @@
 | 1253 | 58 | Slinky Winder |
 | 1254 | 58 | Crafty Slice |
 | 1255 | 58 | Pjrobinsonnn |
-| 1256 | 58 | Dustyn Sims |
+| 1256 | 58 | LivePhoenix |
 | 1257 | 58 | Shanetta Johnson |
-| 1258 | 58 | LivePhoenix |
-| 1259 | 58 | Brandy Westfall-panchari |
-| 1260 | 58 | Jazzy |
-| 1261 | 58 | Debra May |
-| 1262 | 58 | Elise Marie Mireles |
-| 1263 | 57 | Rey Huber |
-| 1264 | 57 | Brandy Wallace |
-| 1265 | 57 | Funky Blockmatch |
-| 1266 | 57 | Corina Marie Prunty |
-| 1267 | 57 | Kacey Lindemuth |
-| 1268 | 57 | Britt |
-| 1269 | 57 | Dandy Column |
-| 1270 | 57 | Twisty Tower |
-| 1271 | 57 | Brooke Marie Fox |
-| 1272 | 57 | Angie Barlow |
-| 1273 | 57 | Rachel |
-| 1274 | 56 | Greenbean |
-| 1275 | 56 | Heather Nicole |
-| 1276 | 56 | CountryGurl |
-| 1277 | 56 | Jennifer Augustine |
-| 1278 | 56 | Louise LeBlanc |
-| 1279 | 56 | Snazzy Tiley |
-| 1280 | 56 | Danielle Etchison Mask |
-| 1281 | 56 | Perky Rollfit |
-| 1282 | 56 | Breanna Dykes |
-| 1283 | 56 | Joe Duffer |
-| 1284 | 56 | Bunny Bt |
-| 1285 | 56 | Brandon Ray Holt |
-| 1286 | 56 | Daniel Cline |
-| 1287 | 56 | Bobbie Carrol |
+| 1258 | 58 | Brandy Westfall-panchari |
+| 1259 | 58 | Elise Marie Mireles |
+| 1260 | 58 | Debra May |
+| 1261 | 58 | Jazzy |
+| 1262 | 58 | Michael James |
+| 1263 | 58 | Dustyn Sims |
+| 1264 | 57 | Britt |
+| 1265 | 57 | Dandy Column |
+| 1266 | 57 | Kacey Lindemuth |
+| 1267 | 57 | Corina Marie Prunty |
+| 1268 | 57 | Funky Blockmatch |
+| 1269 | 57 | Brandy Wallace |
+| 1270 | 57 | Rey Huber |
+| 1271 | 57 | Twisty Tower |
+| 1272 | 57 | Brooke Marie Fox |
+| 1273 | 57 | Angie Barlow |
+| 1274 | 57 | Rachel |
+| 1275 | 56 | Greenbean |
+| 1276 | 56 | Heather Nicole |
+| 1277 | 56 | CountryGurl |
+| 1278 | 56 | Jennifer Augustine |
+| 1279 | 56 | Louise LeBlanc |
+| 1280 | 56 | Snazzy Tiley |
+| 1281 | 56 | Danielle Etchison Mask |
+| 1282 | 56 | Perky Rollfit |
+| 1283 | 56 | Brandon Ray Holt |
+| 1284 | 56 | Joe Duffer |
+| 1285 | 56 | Breanna Dykes |
+| 1286 | 56 | Bunny Bt |
+| 1287 | 56 | Daniel Cline |
 | 1288 | 56 | Armordguy |
-| 1289 | 55 | James Calhoun |
-| 1290 | 55 | Rochelle O'Loughlin |
-| 1291 | 55 | Stephanie |
-| 1292 | 55 | Teloney Humphrey |
+| 1289 | 56 | Bobbie Carrol |
+| 1290 | 55 | James Calhoun |
+| 1291 | 55 | Rochelle O'Loughlin |
+| 1292 | 55 | Stephanie |
 | 1293 | 55 | Misty McElroy |
 | 1294 | 55 | bigdog |
-| 1295 | 55 | GentleGiant Brackett |
-| 1296 | 55 | Nick Waterwalker |
-| 1297 | 55 | Gilbert Medina |
-| 1298 | 55 | Cheryl Stevens |
-| 1299 | 54 | Heather Lewis |
-| 1300 | 54 | Cynthia Rose Candelaria |
-| 1301 | 54 | Glitzy Fallgrid |
-| 1302 | 54 | Alexis Turner |
-| 1303 | 54 | Swanky Twister |
-| 1304 | 54 | Jess Duehring |
-| 1305 | 54 | Lively Liner |
-| 1306 | 54 | Christina Nycol |
+| 1295 | 55 | Teloney Humphrey |
+| 1296 | 55 | GentleGiant Brackett |
+| 1297 | 55 | Nick Waterwalker |
+| 1298 | 55 | Gilbert Medina |
+| 1299 | 55 | Cheryl Stevens |
+| 1300 | 54 | Heather Lewis |
+| 1301 | 54 | Cynthia Rose Candelaria |
+| 1302 | 54 | Glitzy Fallgrid |
+| 1303 | 54 | Alexis Turner |
+| 1304 | 54 | Swanky Twister |
+| 1305 | 54 | Jess Duehring |
+| 1306 | 54 | Jumpy Linkroll |
 | 1307 | 54 | Josie Mendivil |
-| 1308 | 54 | Jumpy Linkroll |
-| 1309 | 53 | Topknot13 |
+| 1308 | 54 | Christina Nycol |
+| 1309 | 54 | Lively Liner |
 | 1310 | 53 | Thomas Johnstone |
-| 1311 | 53 | Kristen Alta |
-| 1312 | 53 | Silly Cluster |
-| 1313 | 53 | Judy Bailey |
-| 1314 | 53 | Gigi |
-| 1315 | 52 | Chirpy Shiftspin |
-| 1316 | 52 | Daniel Flathers |
-| 1317 | 52 | Bridgett Smith |
-| 1318 | 52 | Jolly Balanceblock |
-| 1319 | 52 | Amy Renaud |
-| 1320 | 52 | Samantha LeBlanc |
-| 1321 | 52 | Dolly |
-| 1322 | 52 | Lisa Rose |
-| 1323 | 52 | Amber Marie Lacey |
-| 1324 | 52 | Chipper Spinzone |
-| 1325 | 51 | Staci Carl |
-| 1326 | 51 | Snazzy Clusterfit |
-| 1327 | 51 | Michael James |
-| 1328 | 51 | Brian Giddens |
-| 1329 | 51 | Loopy Zone |
+| 1311 | 53 | Topknot13 |
+| 1312 | 53 | Kristen Alta |
+| 1313 | 53 | Silly Cluster |
+| 1314 | 53 | Judy Bailey |
+| 1315 | 53 | Gigi |
+| 1316 | 52 | Chirpy Shiftspin |
+| 1317 | 52 | Daniel Flathers |
+| 1318 | 52 | Bridgett Smith |
+| 1319 | 52 | Jolly Balanceblock |
+| 1320 | 52 | Amy Renaud |
+| 1321 | 52 | Samantha LeBlanc |
+| 1322 | 52 | Dolly |
+| 1323 | 52 | Chipper Spinzone |
+| 1324 | 52 | Lisa Rose |
+| 1325 | 52 | Amber Marie Lacey |
+| 1326 | 51 | Loopy Zone |
+| 1327 | 51 | Tiffany Heether |
+| 1328 | 51 | Daring Blockline |
+| 1329 | 51 | Baby |
 | 1330 | 51 | Jess |
-| 1331 | 51 | Baby |
-| 1332 | 51 | Daring Blockline |
-| 1333 | 51 | Tiffany Heether |
+| 1331 | 51 | Brian Giddens |
+| 1332 | 51 | Staci Carl |
+| 1333 | 51 | Snazzy Clusterfit |
 | 1334 | 51 | Charity Black |
 | 1335 | 51 | Stacy Shaunce |
 | 1336 | 51 | Ramona Peña |
@@ -1356,11 +1356,11 @@
 | 1348 | 50 | Tessa Kalili |
 | 1349 | 50 | Dawn Thuringer-Baird |
 | 1350 | 50 | himesamayuki77 |
-| 1351 | 50 | Jami Borges |
-| 1352 | 50 | Steve Appel |
-| 1353 | 50 | Whitt |
-| 1354 | 50 | Goob277 |
-| 1355 | 50 | Daring Spinzone |
+| 1351 | 50 | Goob277 |
+| 1352 | 50 | Jami Borges |
+| 1353 | 50 | Daring Spinzone |
+| 1354 | 50 | Whitt |
+| 1355 | 50 | Steve Appel |
 | 1356 | 50 | Lakeisha Ryder |
 | 1357 | 50 | Brittany Nichole Ellenburg |
 | 1358 | 50 | Christina Michelle Wilson |
