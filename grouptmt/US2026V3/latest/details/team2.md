@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 00:16:19 UTC
+# Standings for team2 as of 2026-06-08 00:16:40 UTC
 
 **Total Participants:** 1971
 
@@ -50,7 +50,7 @@
 | 42 | 2640 | Sean Rippa |
 | 43 | 2500 | Anthony Lilley |
 | 44 | 2282 | Frisky Balanceblock |
-| 45 | 2236 | Andrew Weissenborn |
+| 45 | 2259 | Andrew Weissenborn |
 | 46 | 2209 | Aubree Richard |
 | 47 | 2150 | Betty Barrett |
 | 48 | 2043 | Jennifer Corder |
@@ -144,8 +144,8 @@
 | 136 | 627 | Rhonda Diebold |
 | 137 | 626 | Dsabrina Maxey |
 | 138 | 614 | Kellie Sharp Godfrey |
-| 139 | 609 | Ricardo Ewart |
-| 140 | 609 | Pooh |
+| 139 | 609 | Pooh |
+| 140 | 609 | Ricardo Ewart |
 | 141 | 607 | Gloria May Shook |
 | 142 | 597 | Nettrainer |
 | 143 | 596 | Jackie Tupper |
@@ -182,23 +182,23 @@
 | 174 | 453 | Kimberly Cowan |
 | 175 | 448 | Eric Drane |
 | 176 | 444 | Ashley Green |
-| 177 | 442 | MegaPooh |
-| 178 | 436 | Gill |
-| 179 | 432 | Monique Frantz |
-| 180 | 432 | Jeska Gaines |
-| 181 | 431 | DukeDino |
-| 182 | 429 | Snappy Blockbuilder |
-| 183 | 429 | Cool Climber |
-| 184 | 428 | Zany Blockclear |
-| 185 | 425 | Janelle Edgecombe |
-| 186 | 424 | Danielle Blount |
+| 177 | 444 | Danielle Blount |
+| 178 | 442 | MegaPooh |
+| 179 | 436 | Gill |
+| 180 | 432 | Monique Frantz |
+| 181 | 432 | Jeska Gaines |
+| 182 | 431 | DukeDino |
+| 183 | 429 | Snappy Blockbuilder |
+| 184 | 429 | Cool Climber |
+| 185 | 428 | Zany Blockclear |
+| 186 | 425 | Janelle Edgecombe |
 | 187 | 423 | Tara |
 | 188 | 422 | Glitzy Base |
 | 189 | 418 | Twisty Buildgrid |
-| 190 | 416 | Christina Maria |
-| 191 | 416 | Frilly Dashfit |
-| 192 | 416 | Suki Jacobs |
-| 193 | 416 | Cristi Doris |
+| 190 | 416 | Cristi Doris |
+| 191 | 416 | Suki Jacobs |
+| 192 | 416 | Frilly Dashfit |
+| 193 | 416 | Christina Maria |
 | 194 | 414 | Lyric Price |
 | 195 | 412 | Zesty Strikerbuilder |
 | 196 | 408 | Flower_child |
