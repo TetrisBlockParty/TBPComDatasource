@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:24:21 UTC
+# Standings for team1 as of 2026-06-08 23:24:47 UTC
 
 **Total Participants:** 1896
 
@@ -97,18 +97,18 @@
 | 89 | 1109 | Jason Mungin |
 | 90 | 1091 | Richard Horton |
 | 91 | 1078 | Danielle DeLozier Plesec |
-| 92 | 1024 | Chill Clusterer |
-| 93 | 1014 | Chris Caniglia |
-| 94 | 1013 | Tameka Jones |
-| 95 | 1010 | She Higgy |
-| 96 | 995 | Whitney Butler |
-| 97 | 969 | Robbie Cheeseman |
-| 98 | 967 | KenpachisGirl |
-| 99 | 966 | Keeta Chickswit Scott |
-| 100 | 946 | Dawn L Washington-Feuquay |
-| 101 | 945 | Voice |
-| 102 | 944 | ELM |
-| 103 | 931 | BYM4L |
+| 92 | 1058 | BYM4L |
+| 93 | 1024 | Chill Clusterer |
+| 94 | 1014 | Chris Caniglia |
+| 95 | 1013 | Tameka Jones |
+| 96 | 1010 | She Higgy |
+| 97 | 995 | Whitney Butler |
+| 98 | 969 | Robbie Cheeseman |
+| 99 | 967 | KenpachisGirl |
+| 100 | 966 | Keeta Chickswit Scott |
+| 101 | 946 | Dawn L Washington-Feuquay |
+| 102 | 945 | Voice |
+| 103 | 944 | ELM |
 | 104 | 918 | Quirky Fallgrid |
 | 105 | 915 | Jaida De'Anne Cox |
 | 106 | 913 | MamaBear |
@@ -1200,112 +1200,112 @@
 | 1192 | 55 | Aanngie Aanngie |
 | 1193 | 55 | Cheery Clusterbuilder |
 | 1194 | 55 | Bouncy Glide |
-| 1195 | 55 | Chummy Twisterfit |
-| 1196 | 55 | Amanda Miller |
-| 1197 | 55 | KoolKimJay |
-| 1198 | 55 | Laura Wesley |
-| 1199 | 55 | Heather Cross-Davis |
-| 1200 | 54 | Felicia Yahuah Johnson |
-| 1201 | 54 | deeno |
-| 1202 | 54 | Embracing Hair |
-| 1203 | 54 | Damien Fonseca |
-| 1204 | 54 | rummy |
-| 1205 | 54 | MoneyMac |
-| 1206 | 54 | Beautiful314 |
-| 1207 | 54 | Giggy Holder |
-| 1208 | 54 | Maranda Broadway |
-| 1209 | 54 | Mrs |
-| 1210 | 54 | Noni |
-| 1211 | 54 | Christina Wesley |
-| 1212 | 53 | Kenneth Williams |
-| 1213 | 53 | Michael Lindenlauf |
-| 1214 | 53 | Clever Wrecker |
-| 1215 | 53 | Chinkey Overit |
-| 1216 | 53 | Sashaleo |
-| 1217 | 53 | don ralph |
-| 1218 | 53 | Adonai Saves |
-| 1219 | 52 | Loopy Risepiece |
-| 1220 | 52 | L-Kamice Boykin |
-| 1221 | 52 | Cathilia Rodriguez |
-| 1222 | 52 | Chummy Liner |
-| 1223 | 52 | MikeHunt |
-| 1224 | 52 | Cheery T-spin |
-| 1225 | 52 | Frilly Mover |
+| 1195 | 55 | Amanda Miller |
+| 1196 | 55 | Laura Wesley |
+| 1197 | 55 | Chummy Twisterfit |
+| 1198 | 55 | Heather Cross-Davis |
+| 1199 | 55 | KoolKimJay |
+| 1200 | 54 | MoneyMac |
+| 1201 | 54 | rummy |
+| 1202 | 54 | Noni |
+| 1203 | 54 | Embracing Hair |
+| 1204 | 54 | Maranda Broadway |
+| 1205 | 54 | Beautiful314 |
+| 1206 | 54 | Felicia Yahuah Johnson |
+| 1207 | 54 | Christina Wesley |
+| 1208 | 54 | Giggy Holder |
+| 1209 | 54 | Damien Fonseca |
+| 1210 | 54 | deeno |
+| 1211 | 54 | Mrs |
+| 1212 | 53 | Clever Wrecker |
+| 1213 | 53 | Adonai Saves |
+| 1214 | 53 | Sashaleo |
+| 1215 | 53 | Kenneth Williams |
+| 1216 | 53 | don ralph |
+| 1217 | 53 | Michael Lindenlauf |
+| 1218 | 53 | Chinkey Overit |
+| 1219 | 52 | Cathilia Rodriguez |
+| 1220 | 52 | Cheery T-spin |
+| 1221 | 52 | L-Kamice Boykin |
+| 1222 | 52 | Loopy Risepiece |
+| 1223 | 52 | Frilly Mover |
+| 1224 | 52 | Chummy Liner |
+| 1225 | 52 | MikeHunt |
 | 1226 | 51 | SpeedyJas |
-| 1227 | 51 | Emeka Agu |
-| 1228 | 51 | Laura |
-| 1229 | 51 | Madam Suki |
-| 1230 | 51 | Danielle Marie Lewis |
-| 1231 | 51 | Tweet |
-| 1232 | 51 | Hasty Brickzone |
-| 1233 | 51 | Jakari Wool |
-| 1234 | 51 | Quirky Spinblock |
-| 1235 | 51 | Panda Vibes |
+| 1227 | 51 | Margretta Henry |
+| 1228 | 51 | Emeka Agu |
+| 1229 | 51 | Tweet |
+| 1230 | 51 | Madam Suki |
+| 1231 | 51 | Hasty Brickzone |
+| 1232 | 51 | Panda Vibes |
+| 1233 | 51 | Octavia Whitmire |
+| 1234 | 51 | Jakari Wool |
+| 1235 | 51 | Laura |
 | 1236 | 51 | Austin Smith |
-| 1237 | 51 | Octavia Whitmire |
-| 1238 | 50 | TrapQween39Bi |
-| 1239 | 50 | Witty Snapbuilder |
-| 1240 | 50 | Lawanda Conley |
-| 1241 | 50 | Daring Linkfall |
-| 1242 | 50 | Skye |
-| 1243 | 50 | Snappy Strikerpiece |
-| 1244 | 50 | LaQuita White |
-| 1245 | 50 | Douglas Jones |
-| 1246 | 50 | Denell Sims |
-| 1247 | 50 | PattyPower |
-| 1248 | 50 | Aero Builder |
+| 1237 | 51 | Quirky Spinblock |
+| 1238 | 51 | Danielle Marie Lewis |
+| 1239 | 50 | LaQuita White |
+| 1240 | 50 | Snappy Strikerpiece |
+| 1241 | 50 | Witty Snapbuilder |
+| 1242 | 50 | Aero Builder |
+| 1243 | 50 | MsBobby Patrick |
+| 1244 | 50 | TrapQween39Bi |
+| 1245 | 50 | Lawanda Conley |
+| 1246 | 50 | Skye |
+| 1247 | 50 | Daring Linkfall |
+| 1248 | 50 | Nockallday |
 | 1249 | 50 | rosieredpanda |
-| 1250 | 50 | MsBobby Patrick |
-| 1251 | 50 | Nockallday |
-| 1252 | 49 | Brika Brika |
-| 1253 | 49 | Stacey Kesteloot |
-| 1254 | 49 | Melanie Houghton-McCann |
-| 1255 | 49 | Tyler |
-| 1256 | 49 | Alyssa H |
-| 1257 | 49 | Aridevina |
-| 1258 | 49 | Frothy Snapmatch |
-| 1259 | 49 | Cynda Cyn |
-| 1260 | 49 | Tara Clarke |
-| 1261 | 49 | Ķïrãã Ďãvïss |
-| 1262 | 49 | Kayd |
-| 1263 | 49 | Yolanda Sadler |
-| 1264 | 49 | TiffanyG |
-| 1265 | 49 | Jeremy Pope |
-| 1266 | 48 | jaz |
-| 1267 | 48 | Davina Valentino |
-| 1268 | 48 | LoveLee |
-| 1269 | 48 | Bubbly Base |
-| 1270 | 48 | Melanin Monroe-Dandridge |
-| 1271 | 48 | Bubbly Crawler |
-| 1272 | 48 | Angela C. |
-| 1273 | 48 | Jessica Kirby |
-| 1274 | 48 | BlessedBeauty |
-| 1275 | 47 | Andrew Harris |
-| 1276 | 47 | Dani McLeod |
+| 1250 | 50 | PattyPower |
+| 1251 | 50 | Denell Sims |
+| 1252 | 50 | Douglas Jones |
+| 1253 | 49 | Jeremy Pope |
+| 1254 | 49 | Alyssa H |
+| 1255 | 49 | Brika Brika |
+| 1256 | 49 | Yolanda Sadler |
+| 1257 | 49 | Kayd |
+| 1258 | 49 | Aridevina |
+| 1259 | 49 | Ķïrãã Ďãvïss |
+| 1260 | 49 | Stacey Kesteloot |
+| 1261 | 49 | TiffanyG |
+| 1262 | 49 | Cynda Cyn |
+| 1263 | 49 | Frothy Snapmatch |
+| 1264 | 49 | Tyler |
+| 1265 | 49 | Melanie Houghton-McCann |
+| 1266 | 49 | Tara Clarke |
+| 1267 | 48 | LoveLee |
+| 1268 | 48 | Davina Valentino |
+| 1269 | 48 | jaz |
+| 1270 | 48 | Bubbly Crawler |
+| 1271 | 48 | Bubbly Base |
+| 1272 | 48 | BlessedBeauty |
+| 1273 | 48 | Melanin Monroe-Dandridge |
+| 1274 | 48 | Angela C. |
+| 1275 | 48 | Jessica Kirby |
+| 1276 | 47 | Pizzle |
 | 1277 | 47 | OG LUCKY |
-| 1278 | 47 | Mighty plantlady |
-| 1279 | 47 | Talya Richards |
-| 1280 | 47 | Arlea Mann |
-| 1281 | 47 | Kevin Turner |
-| 1282 | 47 | Pizzle |
-| 1283 | 47 | Nayyirah Hariyyan |
-| 1284 | 47 | Dana Hill |
-| 1285 | 46 | Cranky Fitblock |
-| 1286 | 46 | jasi |
-| 1287 | 46 | LOVE |
-| 1288 | 46 | Margretta Henry |
-| 1289 | 46 | Elizabeth Green |
-| 1290 | 46 | jac |
-| 1291 | 46 | Wu May |
-| 1292 | 46 | Crystal Winters Mckay |
-| 1293 | 46 | Kimberly Red |
-| 1294 | 46 | Hasaan Jones |
-| 1295 | 45 | Sonia Nieves |
-| 1296 | 45 | toooooott |
-| 1297 | 45 | Frothy Zoney |
+| 1278 | 47 | Arlea Mann |
+| 1279 | 47 | Andrew Harris |
+| 1280 | 47 | Dani McLeod |
+| 1281 | 47 | Mighty plantlady |
+| 1282 | 47 | Talya Richards |
+| 1283 | 47 | Dana Hill |
+| 1284 | 47 | Nayyirah Hariyyan |
+| 1285 | 47 | Kevin Turner |
+| 1286 | 46 | Crystal Winters Mckay |
+| 1287 | 46 | Wu May |
+| 1288 | 46 | LOVE |
+| 1289 | 46 | jac |
+| 1290 | 46 | Elizabeth Green |
+| 1291 | 46 | Kimberly Red |
+| 1292 | 46 | jasi |
+| 1293 | 46 | Hasaan Jones |
+| 1294 | 46 | Cranky Fitblock |
+| 1295 | 45 | Jasmine Bates |
+| 1296 | 45 | Y3llOWFAC3 |
+| 1297 | 45 | toooooott |
 | 1298 | 45 | Matraca Young |
-| 1299 | 45 | Jasmine Bates |
-| 1300 | 45 | Y3llOWFAC3 |
+| 1299 | 45 | Frothy Zoney |
+| 1300 | 45 | Sonia Nieves |
 | 1301 | 45 | Sarah Jones |
 | 1302 | 45 | Nicole |
 | 1303 | 45 | Torrie Eckrote |
