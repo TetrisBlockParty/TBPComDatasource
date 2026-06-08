@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:04:20 UTC
+# Standings for team1 as of 2026-06-08 10:04:44 UTC
 
 **Total Participants:** 1774
 
@@ -113,12 +113,12 @@
 | 105 | 752 | Yolanda E Fergerson |
 | 106 | 744 | Chris Caniglia |
 | 107 | 741 | Sarah Marie |
-| 108 | 730 | ing410 |
-| 109 | 723 | Eartha Brown |
-| 110 | 720 | Felicia Williams |
-| 111 | 720 | No_Other_Choice |
-| 112 | 718 | TAZ-MF-NIZIL |
-| 113 | 716 | Robbie Cheeseman |
+| 108 | 738 | Robbie Cheeseman |
+| 109 | 730 | ing410 |
+| 110 | 723 | Eartha Brown |
+| 111 | 720 | Felicia Williams |
+| 112 | 720 | No_Other_Choice |
+| 113 | 718 | TAZ-MF-NIZIL |
 | 114 | 711 | Slinky Puzzler |
 | 115 | 692 | Chirpy Corner |
 | 116 | 676 | W.A. Simpson |

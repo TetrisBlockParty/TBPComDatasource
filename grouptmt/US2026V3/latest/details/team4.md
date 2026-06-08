@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:04:20 UTC
+# Standings for team4 as of 2026-06-08 10:04:44 UTC
 
 **Total Participants:** 1808
 
@@ -436,15 +436,15 @@
 | 428 | 175 | Cherrypir05 |
 | 429 | 175 | Diana Fernandez |
 | 430 | 175 | Quiomarie Cotto |
-| 431 | 172 | Groovy Towerbuilder |
+| 431 | 173 | Silly Fallzone |
 | 432 | 172 | Jen Roe |
 | 433 | 172 | Kea Sushi |
-| 434 | 171 | Dayna Arthurs |
+| 434 | 172 | Groovy Towerbuilder |
 | 435 | 171 | Scrumptious |
 | 436 | 171 | Jen Smith |
-| 437 | 170 | Silly Fallzone |
-| 438 | 170 | Edward White |
-| 439 | 170 | Henry Lanier |
+| 437 | 171 | Dayna Arthurs |
+| 438 | 170 | Henry Lanier |
+| 439 | 170 | Edward White |
 | 440 | 170 | Natalie Dillard |
 | 441 | 169 | Jeri Anne Stormo-Toman |
 | 442 | 168 | Juvon SupaShawdii Brooks |
@@ -594,50 +594,50 @@
 | 586 | 127 | Cheeky Climber |
 | 587 | 126 | Lisa Pie |
 | 588 | 126 | Vanessa Sykes |
-| 589 | 125 | Joshua Hunt |
-| 590 | 125 | Youngkueen |
-| 591 | 125 | Corey Jackson |
+| 589 | 125 | Youngkueen |
+| 590 | 125 | Corey Jackson |
+| 591 | 125 | Joshua Hunt |
 | 592 | 125 | Nessa Smith |
 | 593 | 124 | Vonni McLean |
 | 594 | 124 | Alicia Blunt |
-| 595 | 124 | Brian Woods |
-| 596 | 124 | PsyDMom |
-| 597 | 123 | Sarah Perry Cook |
-| 598 | 123 | Amanda Snow |
-| 599 | 123 | Arvin Ortega |
-| 600 | 123 | Tamara Gay |
+| 595 | 124 | PsyDMom |
+| 596 | 124 | Brian Woods |
+| 597 | 123 | Arvin Ortega |
+| 598 | 123 | Sarah Perry Cook |
+| 599 | 123 | Tamara Gay |
+| 600 | 123 | Amanda Snow |
 | 601 | 123 | Kari Smith |
 | 602 | 123 | Frilly Zoney |
 | 603 | 122 | Sarah |
 | 604 | 122 | Csigirlnc |
 | 605 | 122 | Ian T Parker |
 | 606 | 121 | Brandi Sauer |
-| 607 | 121 | Fancy Tilefall |
-| 608 | 121 | Quiles Yaitza |
-| 609 | 121 | Giggy Snapgrid |
-| 610 | 121 | Garden Girlie |
+| 607 | 121 | Quiles Yaitza |
+| 608 | 121 | Giggy Snapgrid |
+| 609 | 121 | Garden Girlie |
+| 610 | 121 | Fancy Tilefall |
 | 611 | 120 | George Marshburn |
 | 612 | 120 | Giddy Basepiece |
-| 613 | 120 | Jenn Wilson |
-| 614 | 120 | Glamorous Gracey |
-| 615 | 120 | Allysonjo Varela |
-| 616 | 120 | Jimmy Clark |
-| 617 | 120 | Stotty |
-| 618 | 120 | Urplan |
+| 613 | 120 | Glamorous Gracey |
+| 614 | 120 | Allysonjo Varela |
+| 615 | 120 | Stotty |
+| 616 | 120 | Urplan |
+| 617 | 120 | Jimmy Clark |
+| 618 | 120 | Jenn Wilson |
 | 619 | 120 | Anthony Edwards |
 | 620 | 119 | Brittany Lentz |
-| 621 | 119 | Electric Storm |
-| 622 | 119 | Rhonda Dowling |
+| 621 | 119 | Maria Munoz |
+| 622 | 119 | Electric Storm |
 | 623 | 119 | BookwormCate |
-| 624 | 118 | Jennifer Naughton |
+| 624 | 119 | Rhonda Dowling |
 | 625 | 118 | Jacqueline Arce |
-| 626 | 117 | Kay |
-| 627 | 117 | YenSid |
-| 628 | 116 | Maria Munoz |
+| 626 | 118 | Jennifer Naughton |
+| 627 | 117 | Kay |
+| 628 | 117 | YenSid |
 | 629 | 116 | Aaron Turner |
 | 630 | 115 | Jasmine Turner |
-| 631 | 115 | pussface |
-| 632 | 115 | Giggy Bridgepiece |
+| 631 | 115 | Giggy Bridgepiece |
+| 632 | 115 | pussface |
 | 633 | 115 | chuck |
 | 634 | 115 | Heidi Hala |
 | 635 | 114 | Breezy Rollfit |
