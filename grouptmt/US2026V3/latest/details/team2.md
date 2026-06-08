@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:52:19 UTC
+# Standings for team2 as of 2026-06-08 07:52:43 UTC
 
 **Total Participants:** 2133
 
@@ -1143,24 +1143,24 @@
 | 1135 | 66 | Dizzy Dropzone |
 | 1136 | 66 | Rae Madewell |
 | 1137 | 66 | Amanda Bryte |
-| 1138 | 66 | Cool cee |
-| 1139 | 66 | Yvonne Rodriguez |
-| 1140 | 66 | Beth Engberg |
-| 1141 | 66 | ktabzz |
-| 1142 | 66 | Jenna Thorn |
-| 1143 | 66 | Signerlisa |
+| 1138 | 66 | Denise Morehart |
+| 1139 | 66 | Cool cee |
+| 1140 | 66 | Yvonne Rodriguez |
+| 1141 | 66 | Beth Engberg |
+| 1142 | 66 | ktabzz |
+| 1143 | 66 | Jenna Thorn |
 | 1144 | 66 | Silly square |
-| 1145 | 66 | David Cadiente |
-| 1146 | 65 | Raffa |
-| 1147 | 65 | Natalie M. Arredondo |
-| 1148 | 65 | Denise Morehart |
+| 1145 | 66 | Signerlisa |
+| 1146 | 66 | David Cadiente |
+| 1147 | 65 | Raffa |
+| 1148 | 65 | Natalie M. Arredondo |
 | 1149 | 65 | Nina-Christina Cusyck |
-| 1150 | 65 | Lexi Chouinard |
-| 1151 | 65 | Beej Blake |
-| 1152 | 65 | Carlee Becher |
-| 1153 | 65 | Deanna Mc |
-| 1154 | 65 | nogo |
-| 1155 | 65 | Viani09 |
+| 1150 | 65 | Beej Blake |
+| 1151 | 65 | Carlee Becher |
+| 1152 | 65 | Deanna Mc |
+| 1153 | 65 | Viani09 |
+| 1154 | 65 | Lexi Chouinard |
+| 1155 | 65 | nogo |
 | 1156 | 65 | Joanne Haynes |
 | 1157 | 65 | D.j. Wingate |
 | 1158 | 65 | Wacky Drop |
@@ -1170,9 +1170,9 @@
 | 1162 | 64 | Pnda |
 | 1163 | 64 | Kylee Pruitt |
 | 1164 | 64 | Emily |
-| 1165 | 63 | Dani Newton |
+| 1165 | 63 | Jessica LeNeave |
 | 1166 | 63 | Frothy Roll |
-| 1167 | 63 | Jessica LeNeave |
+| 1167 | 63 | Dani Newton |
 | 1168 | 63 | Glitzy Roll |
 | 1169 | 63 | Angela Anderson |
 | 1170 | 63 | AmyShea |
@@ -1181,15 +1181,15 @@
 | 1173 | 62 | Dandy Brickbuilder |
 | 1174 | 62 | Peyton Groce |
 | 1175 | 62 | Amy Walker |
-| 1176 | 62 | Alana Albritton Seals |
-| 1177 | 62 | Frothy Zonebuilder |
-| 1178 | 61 | Glitzy Matchclear |
-| 1179 | 61 | Ken Vaughn |
-| 1180 | 61 | Bubbly Dash |
-| 1181 | 61 | Lil G |
-| 1182 | 61 | Maithan Conour |
-| 1183 | 61 | Ashley Shazes |
-| 1184 | 61 | Rebecca Boling |
+| 1176 | 62 | Frothy Zonebuilder |
+| 1177 | 62 | Alana Albritton Seals |
+| 1178 | 61 | Bubbly Dash |
+| 1179 | 61 | Rebecca Boling |
+| 1180 | 61 | Ken Vaughn |
+| 1181 | 61 | Glitzy Matchclear |
+| 1182 | 61 | Lil G |
+| 1183 | 61 | Maithan Conour |
+| 1184 | 61 | Ashley Shazes |
 | 1185 | 61 | Marcia Davis |
 | 1186 | 61 | Dena Cudjo |
 | 1187 | 61 | Natasha Schatte |

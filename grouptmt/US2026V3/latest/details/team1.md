@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:52:19 UTC
+# Standings for team1 as of 2026-06-08 07:52:43 UTC
 
 **Total Participants:** 1757
 
@@ -49,7 +49,7 @@
 | 41 | 1705 | Markeeta Lipscomb |
 | 42 | 1693 | JoJo |
 | 43 | 1684 | Ceilo Marie |
-| 44 | 1671 | Jolly Dropzone |
+| 44 | 1676 | Jolly Dropzone |
 | 45 | 1633 | Cherry Rose |
 | 46 | 1564 | Chris Russell |
 | 47 | 1548 | Jennifer To |
@@ -187,10 +187,10 @@
 | 179 | 413 | Murg4dr01d |
 | 180 | 412 | Dee McCool |
 | 181 | 409 | Lashaunda |
-| 182 | 405 | SPNLover24 |
-| 183 | 398 | Kenny 'Tailormade' Boyd |
-| 184 | 397 | Karebear |
-| 185 | 395 | Slinky Party |
+| 182 | 405 | Slinky Party |
+| 183 | 405 | SPNLover24 |
+| 184 | 398 | Kenny 'Tailormade' Boyd |
+| 185 | 397 | Karebear |
 | 186 | 394 | Simmone T. Kadiri |
 | 187 | 393 | Sharon Cail |
 | 188 | 393 | Sheila Burnham |
@@ -280,15 +280,15 @@
 | 272 | 275 | Chris Sladoje |
 | 273 | 275 | Jawaun Daniels |
 | 274 | 274 | 신재호 |
-| 275 | 273 | Penee Wiggins |
-| 276 | 273 | JaClanDiah |
-| 277 | 273 | Dacia Hicks |
-| 278 | 272 | Tarnisha Neicy Jones |
-| 279 | 270 | Melissa D. M. Hornsby |
-| 280 | 270 | Julian Dickens Jr. |
-| 281 | 270 | Slinky Brickmatch |
-| 282 | 269 | DaGuy |
-| 283 | 268 | Dennis J Herron II |
+| 275 | 273 | Dennis J Herron II |
+| 276 | 273 | Penee Wiggins |
+| 277 | 273 | JaClanDiah |
+| 278 | 273 | Dacia Hicks |
+| 279 | 272 | Tarnisha Neicy Jones |
+| 280 | 270 | Melissa D. M. Hornsby |
+| 281 | 270 | Julian Dickens Jr. |
+| 282 | 270 | Slinky Brickmatch |
+| 283 | 269 | DaGuy |
 | 284 | 264 | Wild Out Nai |
 | 285 | 263 | Choc |
 | 286 | 262 | MamushiOh |
@@ -313,8 +313,8 @@
 | 305 | 244 | Amber Wilson |
 | 306 | 244 | LaTonya Myers |
 | 307 | 244 | Dai Bo |
-| 308 | 242 | Tay |
-| 309 | 242 | Tamika Rocheteau |
+| 308 | 242 | Tamika Rocheteau |
+| 309 | 242 | Tay |
 | 310 | 241 | Jai |
 | 311 | 240 | Emily Wright |
 | 312 | 240 | Rayya Kiser |
@@ -848,27 +848,27 @@
 | 840 | 80 | Lauren Farkas |
 | 841 | 80 | Lisa420 |
 | 842 | 80 | lizlizliz |
-| 843 | 80 | Chevalier Burley |
-| 844 | 80 | Tory Miller |
-| 845 | 80 | Lady Scorpio |
-| 846 | 80 | Charles Johnson |
-| 847 | 79 | Shauntai Holiday |
-| 848 | 79 | Sabrina Wilkerson |
-| 849 | 79 | Frilly Shatterline |
-| 850 | 79 | Haakuu |
-| 851 | 79 | Oaklonboy mike |
-| 852 | 79 | Evette Moreno |
-| 853 | 79 | Erika |
-| 854 | 79 | LAdYPOLy |
+| 843 | 80 | Idelia L Brown |
+| 844 | 80 | Chevalier Burley |
+| 845 | 80 | Tory Miller |
+| 846 | 80 | Lady Scorpio |
+| 847 | 80 | Charles Johnson |
+| 848 | 79 | Shauntai Holiday |
+| 849 | 79 | Sabrina Wilkerson |
+| 850 | 79 | Frilly Shatterline |
+| 851 | 79 | Haakuu |
+| 852 | 79 | Oaklonboy mike |
+| 853 | 79 | Evette Moreno |
+| 854 | 79 | Erika |
 | 855 | 79 | Daphne Ceasar |
-| 856 | 79 | DeShonna Bailey |
-| 857 | 78 | Tasha Jones |
-| 858 | 78 | Krystal Maynard |
-| 859 | 78 | Kahh |
-| 860 | 78 | Idelia L Brown |
-| 861 | 78 | Pinky Pink |
-| 862 | 78 | BigMike |
-| 863 | 78 | Solomon Valarie |
+| 856 | 79 | LAdYPOLy |
+| 857 | 79 | DeShonna Bailey |
+| 858 | 78 | Pinky Pink |
+| 859 | 78 | Krystal Maynard |
+| 860 | 78 | Kahh |
+| 861 | 78 | Tasha Jones |
+| 862 | 78 | Solomon Valarie |
+| 863 | 78 | BigMike |
 | 864 | 78 | Tyree Tman Shinette |
 | 865 | 78 | Nikiya |
 | 866 | 78 | Megan Jones |
