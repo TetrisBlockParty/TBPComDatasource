@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:46:44 UTC
+# Standings for team1 as of 2026-06-08 19:47:20 UTC
 
 **Total Participants:** 1858
 
@@ -293,10 +293,10 @@
 | 285 | 321 | Randizzle |
 | 286 | 320 | Natasha Rucker |
 | 287 | 318 | Still Ten Tay |
-| 288 | 318 | Nerdy Snapfall |
-| 289 | 317 | Jai |
-| 290 | 317 | Michelle Titus |
-| 291 | 315 | Slinky Brickmatch |
+| 288 | 318 | Slinky Brickmatch |
+| 289 | 318 | Nerdy Snapfall |
+| 290 | 317 | Jai |
+| 291 | 317 | Michelle Titus |
 | 292 | 314 | Rayya Kiser |
 | 293 | 312 | Ann Chung |
 | 294 | 310 | Clever Fitblock |

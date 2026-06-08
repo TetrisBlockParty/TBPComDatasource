@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:46:44 UTC
+# Standings for team2 as of 2026-06-08 19:47:20 UTC
 
 **Total Participants:** 2259
 
@@ -42,7 +42,7 @@
 | 34 | 3984 | Amber |
 | 35 | 3812 | Crystal M Sowden |
 | 36 | 3766 | Ashley Miller |
-| 37 | 3582 | Quirky Catcher |
+| 37 | 3597 | Quirky Catcher |
 | 38 | 3514 | Traci Elizabeth |
 | 39 | 3231 | DarkHorse |
 | 40 | 3170 | Aubree Richard |
@@ -135,13 +135,13 @@
 | 127 | 873 | Sedy |
 | 128 | 854 | Amber Miller Wirick |
 | 129 | 853 | Courtney McCulley |
-| 130 | 851 | Cathy Tippett |
-| 131 | 850 | Denise Potter |
-| 132 | 849 | Brandi Thompson |
-| 133 | 846 | Nova Nova |
-| 134 | 837 | Allie Bug |
-| 135 | 835 | Jackie Tupper |
-| 136 | 832 | Julie Renee Bertram |
+| 130 | 852 | Julie Renee Bertram |
+| 131 | 851 | Cathy Tippett |
+| 132 | 850 | Denise Potter |
+| 133 | 849 | Brandi Thompson |
+| 134 | 846 | Nova Nova |
+| 135 | 837 | Allie Bug |
+| 136 | 835 | Jackie Tupper |
 | 137 | 827 | Loopy Cascadepiece |
 | 138 | 816 | snowwol |
 | 139 | 813 | Loony Faller |
@@ -632,8 +632,8 @@
 | 624 | 173 | rageking |
 | 625 | 172 | Gina Leal |
 | 626 | 172 | Chelsea Frye |
-| 627 | 172 | Shannon Curry Riggle |
-| 628 | 172 | Rmk |
+| 627 | 172 | Rmk |
+| 628 | 172 | Shannon Curry Riggle |
 | 629 | 171 | Michele Stewart |
 | 630 | 171 | David Skelton |
 | 631 | 170 | Ashley Jones |
@@ -645,9 +645,9 @@
 | 637 | 168 | Spicy Balanceblock |
 | 638 | 167 | Angela VanOstrand |
 | 639 | 167 | Cara Rivera |
-| 640 | 167 | Nichole Fuller |
+| 640 | 167 | Amber Marie |
 | 641 | 167 | Alisha Shelton |
-| 642 | 167 | Amber Marie |
+| 642 | 167 | Nichole Fuller |
 | 643 | 166 | Shannon Posner |
 | 644 | 166 | Carl Mccoy |
 | 645 | 165 | Spunky Cascadeclear |
@@ -661,8 +661,8 @@
 | 653 | 164 | Vicke Patterson |
 | 654 | 163 | Zany Cascader |
 | 655 | 163 | Fancy Stacker |
-| 656 | 163 | Jessica Garoutte |
-| 657 | 163 | Mrs biotch |
+| 656 | 163 | Mrs biotch |
+| 657 | 163 | Jessica Garoutte |
 | 658 | 162 | Josephina |
 | 659 | 162 | Wacky Holder |
 | 660 | 162 | Angeleye A James |
@@ -674,53 +674,53 @@
 | 666 | 160 | Jennifer McCloskey Launder |
 | 667 | 160 | Billie Jensen |
 | 668 | 160 | Carrie Hayes Lankford |
-| 669 | 159 | Destiny Turner |
-| 670 | 159 | Misty Noe |
-| 671 | 159 | Elizabeth Kline |
-| 672 | 159 | Jennifer Vitro |
-| 673 | 159 | Jennifer Wymer |
-| 674 | 159 | Bruni |
-| 675 | 158 | Mike Mordhorst |
-| 676 | 158 | Cozy Cascade |
-| 677 | 158 | Ceci |
-| 678 | 158 | Chrystal |
-| 679 | 157 | Dana Vaiden Rivers |
-| 680 | 157 | Kimmi Blake |
-| 681 | 157 | Hillary Frank |
-| 682 | 157 | MamaRachel |
-| 683 | 155 | Leigh Wilkerson |
-| 684 | 155 | Shelby Wilson |
-| 685 | 155 | TiffTaff |
-| 686 | 154 | GiGi Cool |
+| 669 | 160 | TiffTaff |
+| 670 | 159 | Destiny Turner |
+| 671 | 159 | Misty Noe |
+| 672 | 159 | Elizabeth Kline |
+| 673 | 159 | Jennifer Vitro |
+| 674 | 159 | Jennifer Wymer |
+| 675 | 159 | Bruni |
+| 676 | 158 | Mike Mordhorst |
+| 677 | 158 | Cozy Cascade |
+| 678 | 158 | Ceci |
+| 679 | 158 | Cody Gates |
+| 680 | 158 | Chrystal |
+| 681 | 157 | Dana Vaiden Rivers |
+| 682 | 157 | Kimmi Blake |
+| 683 | 157 | Hillary Frank |
+| 684 | 157 | MamaRachel |
+| 685 | 155 | Leigh Wilkerson |
+| 686 | 155 | Shelby Wilson |
 | 687 | 154 | Rebekah Holland |
 | 688 | 154 | Natasha Lee |
-| 689 | 153 | Ashley Diana |
-| 690 | 153 | Momof2wigglebutts |
-| 691 | 153 | Spunky Piecebuilder |
-| 692 | 153 | Cody Gates |
-| 693 | 153 | Dawnypooh |
-| 694 | 152 | Holly Barefoot |
-| 695 | 152 | Brooke Kaune |
-| 696 | 152 | Simone F |
-| 697 | 152 | Snazzy Smasher |
-| 698 | 152 | Violet Olivares |
-| 699 | 152 | Erin Lemanski |
-| 700 | 151 | Amy Lea Hamilton |
-| 701 | 151 | Shiny Spinfit |
-| 702 | 151 | Joshua Hopkins |
-| 703 | 151 | Steve Eakins |
-| 704 | 150 | Seana Moran |
-| 705 | 150 | Michael Anthony Anstead |
-| 706 | 150 | Cranky Basepiece |
-| 707 | 150 | Tami Weiss |
-| 708 | 150 | Plucky Grabber |
-| 709 | 150 | Tracey Cox |
-| 710 | 150 | Kaitlyn Hurst |
-| 711 | 149 | Wacky Stack |
-| 712 | 149 | Kayley |
-| 713 | 149 | Frisky Twist |
-| 714 | 149 | Mandeee |
-| 715 | 149 | Danita Moon |
+| 689 | 154 | GiGi Cool |
+| 690 | 153 | Spunky Piecebuilder |
+| 691 | 153 | Dawnypooh |
+| 692 | 153 | Ashley Diana |
+| 693 | 153 | Momof2wigglebutts |
+| 694 | 152 | Brooke Kaune |
+| 695 | 152 | Simone F |
+| 696 | 152 | Snazzy Smasher |
+| 697 | 152 | Violet Olivares |
+| 698 | 152 | Erin Lemanski |
+| 699 | 152 | Holly Barefoot |
+| 700 | 151 | Steve Eakins |
+| 701 | 151 | Amy Lea Hamilton |
+| 702 | 151 | Shiny Spinfit |
+| 703 | 151 | Joshua Hopkins |
+| 704 | 150 | Cranky Basepiece |
+| 705 | 150 | Tami Weiss |
+| 706 | 150 | Plucky Grabber |
+| 707 | 150 | Tracey Cox |
+| 708 | 150 | Kaitlyn Hurst |
+| 709 | 150 | Michael Anthony Anstead |
+| 710 | 150 | Seana Moran |
+| 711 | 149 | Danita Moon |
+| 712 | 149 | Wacky Stack |
+| 713 | 149 | Kayley |
+| 714 | 149 | Frisky Twist |
+| 715 | 149 | Mandeee |
 | 716 | 148 | Julibeth Wells |
 | 717 | 148 | Smiley Cornerfall |
 | 718 | 148 | Crystal Robinson |
@@ -752,8 +752,8 @@
 | 744 | 142 | LadyDeath |
 | 745 | 142 | Heather Vircik |
 | 746 | 142 | Jeremy Daurbigny |
-| 747 | 141 | s3lc4tr0n |
-| 748 | 141 | mee |
+| 747 | 141 | mee |
+| 748 | 141 | s3lc4tr0n |
 | 749 | 141 | Tamtam |
 | 750 | 141 | Hog Crankin |
 | 751 | 141 | Mtnblzr |
@@ -788,17 +788,17 @@
 | 780 | 135 | Rhonda Driskill |
 | 781 | 135 | Cherica Taylor |
 | 782 | 135 | Erin Moore Galloway |
-| 783 | 135 | Ava Taber |
-| 784 | 135 | Melissa Pronovost |
+| 783 | 135 | Melissa Pronovost |
+| 784 | 135 | Ava Taber |
 | 785 | 134 | Duck |
 | 786 | 134 | Cassandra Milner |
 | 787 | 134 | Rachel M. Farnsworth |
 | 788 | 134 | Mee Maw |
 | 789 | 134 | Nova |
 | 790 | 133 | Becky Kennon |
-| 791 | 133 | Michelle |
-| 792 | 133 | CAL1KAWS559 |
-| 793 | 133 | Clever Fallmatch |
+| 791 | 133 | Clever Fallmatch |
+| 792 | 133 | Michelle |
+| 793 | 133 | CAL1KAWS559 |
 | 794 | 132 | Michele Plunkett |
 | 795 | 132 | sugabritches |
 | 796 | 132 | Hyper Striker |
