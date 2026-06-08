@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:44:43 UTC
+# Standings for team2 as of 2026-06-08 06:45:20 UTC
 
 **Total Participants:** 2129
 
@@ -986,9 +986,9 @@
 | 978 | 80 | Jenny Bishop |
 | 979 | 80 | Patty Sparkman |
 | 980 | 80 | Lori |
-| 981 | 80 | Jennifer Robinson |
-| 982 | 80 | Sara Moericke |
-| 983 | 80 | Ramona Guillermo |
+| 981 | 80 | Ramona Guillermo |
+| 982 | 80 | Jennifer Robinson |
+| 983 | 80 | Sara Moericke |
 | 984 | 80 | SaraAnn Gray Philbrick |
 | 985 | 80 | Tiffany Powell |
 | 986 | 80 | Cory Lynn |
@@ -1020,43 +1020,43 @@
 | 1012 | 77 | Witty Clearbuilder |
 | 1013 | 77 | Renee Craig |
 | 1014 | 77 | sampson |
-| 1015 | 77 | Just Me |
-| 1016 | 77 | James Maness |
-| 1017 | 77 | LyndaLou |
-| 1018 | 76 | BoxerMom |
+| 1015 | 77 | Blossom48 |
+| 1016 | 77 | Just Me |
+| 1017 | 77 | James Maness |
+| 1018 | 77 | LyndaLou |
 | 1019 | 76 | Travis Bundrum |
-| 1020 | 76 | Joe Dirilo |
-| 1021 | 76 | Jolly Brickroll |
-| 1022 | 75 | CK Hancock |
-| 1023 | 75 | Chatty |
-| 1024 | 75 | Laura Turner |
-| 1025 | 75 | Audrey Wood |
-| 1026 | 75 | Anthony Chavez |
-| 1027 | 75 | SunnySquare |
-| 1028 | 75 | Rae |
-| 1029 | 75 | William Dowd |
+| 1020 | 76 | BoxerMom |
+| 1021 | 76 | Joe Dirilo |
+| 1022 | 76 | Jolly Brickroll |
+| 1023 | 75 | CK Hancock |
+| 1024 | 75 | Chatty |
+| 1025 | 75 | Laura Turner |
+| 1026 | 75 | Audrey Wood |
+| 1027 | 75 | Anthony Chavez |
+| 1028 | 75 | SunnySquare |
+| 1029 | 75 | Rae |
 | 1030 | 75 | Kennadee Albertson |
 | 1031 | 75 | Frisky Linkmatch |
-| 1032 | 74 | Candace Mihm |
-| 1033 | 74 | Natasha Lee |
-| 1034 | 74 | Belinda Head |
-| 1035 | 74 | Nicole Treadway |
-| 1036 | 74 | Jack |
-| 1037 | 74 | Bethany Nestor |
-| 1038 | 74 | Michele Choate |
-| 1039 | 73 | blockrocker |
-| 1040 | 73 | Sunny Spinzone |
-| 1041 | 73 | Mellzey |
-| 1042 | 73 | Jenn Mccarty |
-| 1043 | 73 | BugMansMom |
-| 1044 | 73 | Chirpy Combofall |
-| 1045 | 73 | Sassy Patternblock |
-| 1046 | 73 | Elodie Deveyer |
-| 1047 | 73 | Blocker |
+| 1032 | 75 | William Dowd |
+| 1033 | 74 | Candace Mihm |
+| 1034 | 74 | Natasha Lee |
+| 1035 | 74 | Belinda Head |
+| 1036 | 74 | Nicole Treadway |
+| 1037 | 74 | Jack |
+| 1038 | 74 | Bethany Nestor |
+| 1039 | 74 | Michele Choate |
+| 1040 | 73 | blockrocker |
+| 1041 | 73 | Sunny Spinzone |
+| 1042 | 73 | Mellzey |
+| 1043 | 73 | Jenn Mccarty |
+| 1044 | 73 | BugMansMom |
+| 1045 | 73 | Chirpy Combofall |
+| 1046 | 73 | Sassy Patternblock |
+| 1047 | 73 | Elodie Deveyer |
 | 1048 | 73 | Jenica Davis |
-| 1049 | 73 | Frothy Faller |
-| 1050 | 72 | Mala Phonchanthasone |
-| 1051 | 72 | Blossom48 |
+| 1049 | 73 | Blocker |
+| 1050 | 73 | Frothy Faller |
+| 1051 | 72 | Mala Phonchanthasone |
 | 1052 | 72 | Nikki Layman |
 | 1053 | 72 | Anzhen |
 | 1054 | 72 | Stacy Lynn |
