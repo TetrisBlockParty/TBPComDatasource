@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:56:20 UTC
+# Standings for team1 as of 2026-06-08 14:56:46 UTC
 
 **Total Participants:** 1814
 
@@ -57,7 +57,7 @@
 | 49 | 1684 | Ceilo Marie |
 | 50 | 1656 | Mimi 1.0 |
 | 51 | 1633 | Cherry Rose |
-| 52 | 1618 | Robyn Caldwell |
+| 52 | 1628 | Robyn Caldwell |
 | 53 | 1548 | Jennifer To |
 | 54 | 1538 | Jacoby E Fleming |
 | 55 | 1482 | Shortstak |
@@ -148,9 +148,9 @@
 | 140 | 573 | Rackemwillie34 |
 | 141 | 566 | Trendalyn Webb |
 | 142 | 561 | Carolynne Walker-Bell |
-| 143 | 556 | Rolanda Williams |
-| 144 | 555 | Eugina Slater |
-| 145 | 550 | Ebony Waynes-robinson |
+| 143 | 556 | Ebony Waynes-robinson |
+| 144 | 556 | Rolanda Williams |
+| 145 | 555 | Eugina Slater |
 | 146 | 550 | Genne Scott |
 | 147 | 540 | Dee McCool |
 | 148 | 531 | Abraham Espaillat |
