@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:06:41 UTC
+# Standings for team1 as of 2026-06-08 07:07:18 UTC
 
 **Total Participants:** 1748
 
@@ -161,7 +161,7 @@
 | 153 | 474 | La'Chae Nickole |
 | 154 | 470 | Tammye Turner |
 | 155 | 467 | Lesley Brunkus Cianfaglione |
-| 156 | 458 | Tootsie Pop |
+| 156 | 466 | Tootsie Pop |
 | 157 | 456 | Cachet A Ward |
 | 158 | 456 | Andre Sanon |
 | 159 | 452 | Kenny MrOnethousand Peck |
@@ -712,16 +712,16 @@
 | 704 | 98 | Christopher Shaw-Black |
 | 705 | 98 | Terrance Tindall |
 | 706 | 98 | Chereese Harris |
-| 707 | 98 | Jjhandsome |
-| 708 | 98 | Cm |
-| 709 | 98 | Azeiare Ziare |
+| 707 | 98 | Azeiare Ziare |
+| 708 | 98 | Jjhandsome |
+| 709 | 98 | Cm |
 | 710 | 97 | Jose Rodriguez |
 | 711 | 97 | Kayel Good |
 | 712 | 97 | Lootch |
 | 713 | 97 | Shanell Thomas |
-| 714 | 97 | Smiley Bridgepiece |
-| 715 | 97 | Nichole Horsley-Conn |
-| 716 | 96 | Fatty May |
+| 714 | 97 | Fatty May |
+| 715 | 97 | Smiley Bridgepiece |
+| 716 | 97 | Nichole Horsley-Conn |
 | 717 | 96 | meatballs |
 | 718 | 96 | Kimmie Gargano |
 | 719 | 96 | Sonia Binti Mfalme |
