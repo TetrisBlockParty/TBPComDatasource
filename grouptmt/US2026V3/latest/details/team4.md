@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:34:42 UTC
+# Standings for team4 as of 2026-06-08 07:35:21 UTC
 
 **Total Participants:** 1795
 
@@ -6,8 +6,8 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 18351 | Lisa Cullum |
-| 2 | 18000 | Jessica Sheehan |
+| 1 | 19500 | Jessica Sheehan |
+| 2 | 18351 | Lisa Cullum |
 | 3 | 15915 | Lyza |
 | 4 | 14276 | Hanan Hana |
 | 5 | 12038 | Loony Rotater |
@@ -47,7 +47,7 @@
 | 39 | 2689 | Ning Quiambao |
 | 40 | 2433 | Alexandria Frazier |
 | 41 | 2400 | Michele |
-| 42 | 2168 | Victoria Ver |
+| 42 | 2208 | Victoria Ver |
 | 43 | 2091 | Michele Walker |
 | 44 | 2058 | Carly Stempien |
 | 45 | 1985 | kcknbtz |
@@ -153,7 +153,7 @@
 | 145 | 496 | Jackie Jackson |
 | 146 | 494 | Yesenia Castro Monreal |
 | 147 | 490 | Megan Vick |
-| 148 | 470 | Adam Dickinson |
+| 148 | 480 | Adam Dickinson |
 | 149 | 464 | Alicia Cook |
 | 150 | 463 | Gorica Prusina |
 | 151 | 461 | Kayla Fuentes |
@@ -199,18 +199,18 @@
 | 191 | 370 | Christy Beezley-Forbush |
 | 192 | 368 | Lush Fitblock |
 | 193 | 367 | Brick House |
-| 194 | 366 | Baysoph |
-| 195 | 366 | Randy M Hatch |
+| 194 | 366 | Randy M Hatch |
+| 195 | 366 | Baysoph |
 | 196 | 363 | Aramat |
 | 197 | 360 | Shocinda Sherwood |
-| 198 | 359 | Chiquita Blue |
-| 199 | 359 | BCO22 |
-| 200 | 357 | Katie Martin |
-| 201 | 357 | MomyLiz |
+| 198 | 359 | BCO22 |
+| 199 | 359 | Chiquita Blue |
+| 200 | 357 | MomyLiz |
+| 201 | 357 | Katie Martin |
 | 202 | 355 | RotatedWrongAgain |
-| 203 | 346 | Alexis Cor |
-| 204 | 344 | Jackie Polanco |
-| 205 | 343 | Jacqueline Jackii Ramos |
+| 203 | 347 | Jacqueline Jackii Ramos |
+| 204 | 346 | Alexis Cor |
+| 205 | 344 | Jackie Polanco |
 | 206 | 340 | Jojo Ann |
 | 207 | 336 | Samantha Worley |
 | 208 | 336 | Plucky Shatterfit |
@@ -240,11 +240,11 @@
 | 232 | 301 | Tiffany Bunker-Hill |
 | 233 | 300 | Genag |
 | 234 | 298 | Colin |
-| 235 | 296 | beauxie |
+| 235 | 296 | Kelly Howland |
 | 236 | 296 | PerfectPieces |
-| 237 | 296 | Dae Von |
-| 238 | 293 | Logan Two-dubs Baker |
-| 239 | 293 | Kelly Howland |
+| 237 | 296 | beauxie |
+| 238 | 296 | Dae Von |
+| 239 | 293 | Logan Two-dubs Baker |
 | 240 | 290 | Tawna Curry |
 | 241 | 289 | Shepreneur Sade |
 | 242 | 287 | Cheery Risegrid |
