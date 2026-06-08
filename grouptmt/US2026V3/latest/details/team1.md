@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:13:20 UTC
+# Standings for team1 as of 2026-06-08 08:14:20 UTC
 
 **Total Participants:** 1762
 
@@ -27,7 +27,7 @@
 | 19 | 3972 | Tekedra Wilson |
 | 20 | 3892 | Kkbk |
 | 21 | 3795 | jaimie |
-| 22 | 3776 | Pdubbl3 |
+| 22 | 3782 | Pdubbl3 |
 | 23 | 3721 | Chandler Spencer |
 | 24 | 3284 | Yolanda McDonald |
 | 25 | 3245 | Cool Bridger |
@@ -784,8 +784,8 @@
 | 776 | 90 | Slinky Fallzone |
 | 777 | 90 | Jason Saputo |
 | 778 | 90 | crumb bumc |
-| 779 | 90 | Tramaine Crockrum |
-| 780 | 90 | Benjamin Livingston |
+| 779 | 90 | Benjamin Livingston |
+| 780 | 90 | Tramaine Crockrum |
 | 781 | 90 | Missy Myvette |
 | 782 | 89 | Spicy Shatterblock |
 | 783 | 89 | Marc Papa |
@@ -793,51 +793,51 @@
 | 785 | 89 | Jazzy Bridger |
 | 786 | 89 | Naee Bee |
 | 787 | 88 | Maria Baez Medina |
-| 788 | 88 | TBabii24 |
-| 789 | 88 | NickyJay Jones |
-| 790 | 87 | LexiiSamayaa |
+| 788 | 88 | LAdYPOLy |
+| 789 | 88 | TBabii24 |
+| 790 | 88 | NickyJay Jones |
 | 791 | 87 | Samona Mcculler |
-| 792 | 87 | Pj Rojas |
-| 793 | 87 | Natalie Burroughs |
-| 794 | 87 | Shakmar |
-| 795 | 87 | Crystal Garay |
-| 796 | 87 | Denise Cunningham-English |
-| 797 | 87 | Angela L Charles |
-| 798 | 86 | krd |
+| 792 | 87 | LexiiSamayaa |
+| 793 | 87 | Pj Rojas |
+| 794 | 87 | Natalie Burroughs |
+| 795 | 87 | Shakmar |
+| 796 | 87 | Crystal Garay |
+| 797 | 87 | Denise Cunningham-English |
+| 798 | 87 | Angela L Charles |
 | 799 | 86 | Saucy Faller |
-| 800 | 86 | LaTonya Rivers |
-| 801 | 86 | Tweet Turner |
-| 802 | 85 | Heru Ogun Yeshua EL |
-| 803 | 85 | Chill Linkroll |
-| 804 | 85 | Anthony Collins |
-| 805 | 85 | Tray Tolliver |
-| 806 | 85 | Eric Machuca |
-| 807 | 85 | Kimberly Noble |
-| 808 | 85 | Bobby Chestefield |
-| 809 | 84 | Dawn Basemore |
+| 800 | 86 | Tweet Turner |
+| 801 | 86 | LaTonya Rivers |
+| 802 | 86 | krd |
+| 803 | 85 | Tray Tolliver |
+| 804 | 85 | Bobby Chestefield |
+| 805 | 85 | Anthony Collins |
+| 806 | 85 | Kimberly Noble |
+| 807 | 85 | Chill Linkroll |
+| 808 | 85 | Eric Machuca |
+| 809 | 85 | Heru Ogun Yeshua EL |
 | 810 | 84 | Jumpy Gridlock |
 | 811 | 84 | Shelly Everette |
-| 812 | 84 | LAdYPOLy |
-| 813 | 84 | Franklin Sotelo |
-| 814 | 84 | Stanley Dixon |
-| 815 | 84 | Christy Quick |
-| 816 | 84 | Sunny Tumbler |
-| 817 | 83 | Latoya Carson |
-| 818 | 83 | Dirty Deeds |
-| 819 | 83 | Semaj Johnson |
-| 820 | 83 | Block |
+| 812 | 84 | Franklin Sotelo |
+| 813 | 84 | Dawn Basemore |
+| 814 | 84 | Sunny Tumbler |
+| 815 | 84 | Stanley Dixon |
+| 816 | 84 | Christy Quick |
+| 817 | 83 | Semaj Johnson |
+| 818 | 83 | Latoya Carson |
+| 819 | 83 | Block |
+| 820 | 83 | Heather Wilson |
 | 821 | 83 | John C Sexton |
 | 822 | 83 | MrsMeadows2019 |
-| 823 | 83 | Heather Wilson |
-| 824 | 82 | win |
-| 825 | 82 | DeAngelo Sorrells |
-| 826 | 82 | Jasmine Hariston-Estis |
-| 827 | 82 | Dana Hawes |
-| 828 | 82 | Kashh |
-| 829 | 82 | Idelia L Brown |
-| 830 | 81 | GracefulOwl808 |
-| 831 | 81 | Parris Wright |
-| 832 | 81 | Carla |
+| 823 | 83 | Dirty Deeds |
+| 824 | 82 | Kashh |
+| 825 | 82 | Dana Hawes |
+| 826 | 82 | Idelia L Brown |
+| 827 | 82 | DeAngelo Sorrells |
+| 828 | 82 | Jasmine Hariston-Estis |
+| 829 | 82 | win |
+| 830 | 81 | Carla |
+| 831 | 81 | GracefulOwl808 |
+| 832 | 81 | Parris Wright |
 | 833 | 81 | Deihja Weaver |
 | 834 | 80 | Lady Scorpio |
 | 835 | 80 | SherylU |
