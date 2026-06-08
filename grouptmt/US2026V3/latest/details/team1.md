@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:32:41 UTC
+# Standings for team1 as of 2026-06-08 10:33:19 UTC
 
 **Total Participants:** 1776
 
@@ -128,8 +128,8 @@
 | 120 | 656 | La'Chae Nickole |
 | 121 | 649 | Cee Emm |
 | 122 | 647 | Andi McGreevy |
-| 123 | 642 | Big Tina |
-| 124 | 638 | Atlantalindi |
+| 123 | 645 | Atlantalindi |
+| 124 | 642 | Big Tina |
 | 125 | 630 | Shontanese Adams |
 | 126 | 630 | Bambi Love |
 | 127 | 627 | Alana Renee |
@@ -166,7 +166,7 @@
 | 158 | 477 | Nobles Brandon |
 | 159 | 467 | Lesley Brunkus Cianfaglione |
 | 160 | 466 | Tootsie Pop |
-| 161 | 456 | Tobey Marberry |
+| 161 | 462 | Tobey Marberry |
 | 162 | 456 | Cachet A Ward |
 | 163 | 456 | Andre Sanon |
 | 164 | 453 | LaToya Chambers |
@@ -239,19 +239,19 @@
 | 231 | 328 | Dion Gray |
 | 232 | 327 | Zachary Colegrove |
 | 233 | 326 | Christopher Dreamsareality McEachin |
-| 234 | 323 | Heather Aurelia |
+| 234 | 323 | BULLSEYE |
 | 235 | 323 | Bre Poston |
-| 236 | 322 | Rhonda Williams Warner |
-| 237 | 321 | Qwlonda Shirrell |
-| 238 | 320 | Natasha Rucker |
+| 236 | 323 | Heather Aurelia |
+| 237 | 322 | Rhonda Williams Warner |
+| 238 | 321 | Qwlonda Shirrell |
 | 239 | 320 | NastyFriend |
-| 240 | 318 | Calvin Green |
-| 241 | 318 | Nerdy Snapfall |
-| 242 | 318 | Jhonny Maii |
-| 243 | 317 | Michelle Titus |
-| 244 | 315 | Koi |
-| 245 | 314 | Cheeky Pop |
-| 246 | 313 | BULLSEYE |
+| 240 | 320 | Natasha Rucker |
+| 241 | 318 | Calvin Green |
+| 242 | 318 | Nerdy Snapfall |
+| 243 | 318 | Jhonny Maii |
+| 244 | 317 | Michelle Titus |
+| 245 | 315 | Koi |
+| 246 | 314 | Cheeky Pop |
 | 247 | 311 | Coco |
 | 248 | 310 | Denise B |
 | 249 | 309 | Brave Clearbuilder |
@@ -430,9 +430,9 @@
 | 422 | 179 | Lively Riserpiece |
 | 423 | 179 | Skippy |
 | 424 | 179 | KeeKee Williams |
-| 425 | 178 | Manda Allen |
-| 426 | 177 | Cece Fowler |
-| 427 | 176 | Monica Fields |
+| 425 | 178 | Monica Fields |
+| 426 | 178 | Manda Allen |
+| 427 | 177 | Cece Fowler |
 | 428 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 429 | 174 | Dizzy Dashy |
 | 430 | 174 | ChunLi |
@@ -652,82 +652,82 @@
 | 644 | 112 | Marie Wilson |
 | 645 | 112 | TeeMaster Barber IsLyfe |
 | 646 | 111 | Chino Baby |
-| 647 | 111 | Mellie Mel |
-| 648 | 111 | Happy Blocky |
-| 649 | 111 | Taneka Howell |
-| 650 | 111 | Angie Smith |
-| 651 | 111 | Happy Blockpiece |
-| 652 | 110 | Stephen Garland |
+| 647 | 111 | Happy Blockpiece |
+| 648 | 111 | Mellie Mel |
+| 649 | 111 | Happy Blocky |
+| 650 | 111 | Taneka Howell |
+| 651 | 111 | Angie Smith |
+| 652 | 110 | Tito Divyn |
 | 653 | 110 | Jen Hallin |
 | 654 | 110 | Mommy Frank |
-| 655 | 110 | Tito Divyn |
-| 656 | 110 | Tony Pizzas |
-| 657 | 109 | Chereese Harris |
-| 658 | 109 | Kortney Adams |
-| 659 | 109 | Cynthia Cruell |
-| 660 | 109 | Hyedie Badie |
-| 661 | 109 | Kim Holzmiller |
-| 662 | 108 | Elaine Pauley |
-| 663 | 108 | EvaLynn NeCole |
-| 664 | 108 | Charika Marie Bergmann |
+| 655 | 110 | Tony Pizzas |
+| 656 | 110 | Stephen Garland |
+| 657 | 109 | Hyedie Badie |
+| 658 | 109 | Kim Holzmiller |
+| 659 | 109 | Chereese Harris |
+| 660 | 109 | Kortney Adams |
+| 661 | 109 | Cynthia Cruell |
+| 662 | 108 | Shaun Anderson |
+| 663 | 108 | Richelle Beck |
+| 664 | 108 | Angela Brown Babin |
 | 665 | 108 | Antoinette Kelly |
-| 666 | 108 | Shaun Anderson |
-| 667 | 108 | Angela Brown Babin |
-| 668 | 108 | Richelle Beck |
-| 669 | 107 | Fatty May |
+| 666 | 108 | Charika Marie Bergmann |
+| 667 | 108 | Witty Clear |
+| 668 | 108 | EvaLynn NeCole |
+| 669 | 108 | Elaine Pauley |
 | 670 | 107 | Poppy Smasher |
-| 671 | 106 | Tushama Cheris Okraku |
+| 671 | 107 | Fatty May |
 | 672 | 106 | Tina Blessed Cage |
-| 673 | 106 | Elizabeth Hopkins |
-| 674 | 106 | TotoCherue |
-| 675 | 106 | Desi Guerra |
-| 676 | 106 | Peppy Wipeblock |
-| 677 | 105 | Nikkizz |
-| 678 | 105 | Mario Meliodas |
-| 679 | 105 | Jack Mehof |
-| 680 | 105 | Loopy Block |
-| 681 | 105 | QueenShay AllGood |
-| 682 | 105 | Michael Smith |
-| 683 | 105 | Christopher L Crites |
-| 684 | 105 | Ja'mice Nelson |
-| 685 | 105 | Maria |
-| 686 | 105 | Raquel Ortiz |
-| 687 | 104 | Victor |
-| 688 | 104 | Ahvae Lee |
-| 689 | 104 | Danny Talbot |
-| 690 | 104 | Anastasia |
-| 691 | 104 | Nona Harriel |
-| 692 | 104 | Nichelle Warren |
-| 693 | 104 | Renee Marshall |
-| 694 | 104 | TRUBBLE45 |
-| 695 | 103 | Angela Kitchens |
-| 696 | 103 | Clint Mcdowell |
-| 697 | 102 | Laysa Nunez |
+| 673 | 106 | Tushama Cheris Okraku |
+| 674 | 106 | Elizabeth Hopkins |
+| 675 | 106 | TotoCherue |
+| 676 | 106 | Desi Guerra |
+| 677 | 106 | Peppy Wipeblock |
+| 678 | 105 | Nikkizz |
+| 679 | 105 | Michael Smith |
+| 680 | 105 | QueenShay AllGood |
+| 681 | 105 | Christopher L Crites |
+| 682 | 105 | Loopy Block |
+| 683 | 105 | Ja'mice Nelson |
+| 684 | 105 | Jack Mehof |
+| 685 | 105 | Mario Meliodas |
+| 686 | 105 | Maria |
+| 687 | 105 | Raquel Ortiz |
+| 688 | 104 | Victor |
+| 689 | 104 | TRUBBLE45 |
+| 690 | 104 | Danny Talbot |
+| 691 | 104 | Anastasia |
+| 692 | 104 | Renee Marshall |
+| 693 | 104 | Nona Harriel |
+| 694 | 104 | Ahvae Lee |
+| 695 | 104 | Nichelle Warren |
+| 696 | 103 | Angela Kitchens |
+| 697 | 103 | Clint Mcdowell |
 | 698 | 102 | jeremy92 |
 | 699 | 102 | Mom3granny2 |
-| 700 | 102 | Witty Clear |
-| 701 | 101 | Wacky Wipepiece |
-| 702 | 101 | Sandra Mims |
-| 703 | 101 | star |
+| 700 | 102 | Laysa Nunez |
+| 701 | 101 | star |
+| 702 | 101 | Wacky Wipepiece |
+| 703 | 101 | Sandra Mims |
 | 704 | 100 | Jonathan McKenzie |
 | 705 | 100 | LaSharmeika Fancher |
 | 706 | 100 | Undeniable Williams |
-| 707 | 100 | NedaWin |
-| 708 | 100 | Shanjerrica Taylor Rosell |
-| 709 | 100 | Meow Meow |
-| 710 | 100 | Oldheads |
-| 711 | 100 | Phillip White |
-| 712 | 100 | Lester Malone |
+| 707 | 100 | Lester Malone |
+| 708 | 100 | NedaWin |
+| 709 | 100 | Phillip White |
+| 710 | 100 | Meow Meow |
+| 711 | 100 | Shanjerrica Taylor Rosell |
+| 712 | 100 | Oldheads |
 | 713 | 99 | Lucille Wilson Davis |
-| 714 | 99 | Sylvia Offically A Mcgowan |
-| 715 | 99 | Boymama917 |
-| 716 | 99 | Rochelle Nash-Evans |
+| 714 | 99 | Rochelle Nash-Evans |
+| 715 | 99 | Sylvia Offically A Mcgowan |
+| 716 | 99 | Boymama917 |
 | 717 | 98 | Cm |
-| 718 | 98 | Kyle Conley |
-| 719 | 98 | Jjhandsome |
-| 720 | 98 | Christopher Shaw-Black |
-| 721 | 98 | Azeiare Ziare |
-| 722 | 98 | Terrance Tindall |
+| 718 | 98 | Jjhandsome |
+| 719 | 98 | Azeiare Ziare |
+| 720 | 98 | Kyle Conley |
+| 721 | 98 | Terrance Tindall |
+| 722 | 98 | Christopher Shaw-Black |
 | 723 | 98 | FallDee |
 | 724 | 97 | Nichole Horsley-Conn |
 | 725 | 97 | Smiley Bridgepiece |
