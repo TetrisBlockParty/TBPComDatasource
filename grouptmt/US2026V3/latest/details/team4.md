@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:26:41 UTC
+# Standings for team4 as of 2026-06-08 08:27:20 UTC
 
 **Total Participants:** 1799
 
@@ -215,7 +215,7 @@
 | 207 | 336 | Plucky Shatterfit |
 | 208 | 336 | Samantha Worley |
 | 209 | 334 | Dazzle Dragon |
-| 210 | 332 | Kelly Howland |
+| 210 | 333 | Kelly Howland |
 | 211 | 331 | Wendy Zentz |
 | 212 | 331 | Perky Riserbuilder |
 | 213 | 330 | LastBoi |
@@ -616,15 +616,15 @@
 | 608 | 119 | Rhonda Dowling |
 | 609 | 118 | Jennifer Naughton |
 | 610 | 118 | Jacqueline Arce |
-| 611 | 117 | YenSid |
-| 612 | 117 | Kay |
-| 613 | 117 | Hasty Dropzone |
-| 614 | 117 | Sarah |
-| 615 | 117 | Teester |
-| 616 | 116 | Aaron Turner |
-| 617 | 115 | Jasmine Turner |
-| 618 | 115 | pussface |
-| 619 | 115 | Groovy Towerbuilder |
+| 611 | 118 | Groovy Towerbuilder |
+| 612 | 117 | YenSid |
+| 613 | 117 | Kay |
+| 614 | 117 | Hasty Dropzone |
+| 615 | 117 | Sarah |
+| 616 | 117 | Teester |
+| 617 | 116 | Aaron Turner |
+| 618 | 115 | Jasmine Turner |
+| 619 | 115 | pussface |
 | 620 | 115 | Heidi Hala |
 | 621 | 115 | chuck |
 | 622 | 114 | Loretta Hendricks |
