@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:50:20 UTC
+# Standings for team2 as of 2026-06-08 12:50:43 UTC
 
 **Total Participants:** 2168
 
@@ -731,76 +731,76 @@
 | 723 | 125 | Frisky Linkbuilder |
 | 724 | 125 | Ashlee Johnson |
 | 725 | 124 | Steve Eakins |
-| 726 | 124 | Rachel M. Farnsworth |
-| 727 | 123 | Kawana Nesbitt |
-| 728 | 122 | Fancy Stacker |
-| 729 | 122 | Lindsey Ross |
-| 730 | 122 | Coleta Singleton-Gallishaw |
-| 731 | 122 | Anzhen |
-| 732 | 120 | Debbie Davis |
-| 733 | 120 | Keisha Robinson |
-| 734 | 120 | Scott Lyles |
-| 735 | 120 | Cody Gates |
-| 736 | 120 | TheAggie12 |
-| 737 | 120 | Audrey Morris |
-| 738 | 120 | Alice Petterborg Barberich |
-| 739 | 120 | Val |
-| 740 | 120 | Morgan Olson Pingree |
-| 741 | 120 | Ashley Eneboe |
-| 742 | 120 | Sharilyn Jackson |
-| 743 | 120 | Rhonda Driskill |
-| 744 | 120 | Donutz |
-| 745 | 120 | Cranky Basepiece |
-| 746 | 120 | Tonya Greger |
-| 747 | 119 | Denita Kaherl |
+| 726 | 124 | Momof2wigglebutts |
+| 727 | 124 | Rachel M. Farnsworth |
+| 728 | 123 | Kawana Nesbitt |
+| 729 | 122 | Fancy Stacker |
+| 730 | 122 | Lindsey Ross |
+| 731 | 122 | Coleta Singleton-Gallishaw |
+| 732 | 122 | Anzhen |
+| 733 | 120 | Debbie Davis |
+| 734 | 120 | Keisha Robinson |
+| 735 | 120 | Scott Lyles |
+| 736 | 120 | Cody Gates |
+| 737 | 120 | TheAggie12 |
+| 738 | 120 | Audrey Morris |
+| 739 | 120 | Alice Petterborg Barberich |
+| 740 | 120 | Val |
+| 741 | 120 | Morgan Olson Pingree |
+| 742 | 120 | Ashley Eneboe |
+| 743 | 120 | Sharilyn Jackson |
+| 744 | 120 | Rhonda Driskill |
+| 745 | 120 | Donutz |
+| 746 | 120 | Cranky Basepiece |
+| 747 | 120 | Tonya Greger |
 | 748 | 119 | Ginger Nesbitt |
-| 749 | 119 | Danita Moon |
-| 750 | 119 | Jasmine Goggans |
-| 751 | 118 | SturgStang |
-| 752 | 118 | Goldie |
+| 749 | 119 | Denita Kaherl |
+| 750 | 119 | Danita Moon |
+| 751 | 119 | Jasmine Goggans |
+| 752 | 118 | SturgStang |
 | 753 | 118 | Kelly |
-| 754 | 118 | Dayna Messer-Thelen |
-| 755 | 118 | Michelle Anne |
-| 756 | 118 | Frilly Shiftsnap |
-| 757 | 118 | Kimberly Brooks |
-| 758 | 118 | Gino Positano |
-| 759 | 118 | Momof2wigglebutts |
+| 754 | 118 | Michelle Anne |
+| 755 | 118 | Frilly Shiftsnap |
+| 756 | 118 | Kimberly Brooks |
+| 757 | 118 | Gino Positano |
+| 758 | 118 | Dayna Messer-Thelen |
+| 759 | 118 | Goldie |
 | 760 | 117 | Monica Gonzalez Rios |
 | 761 | 117 | Mary Whitaker |
-| 762 | 117 | Brenda Shannon |
-| 763 | 117 | Poppy Strikerbuilder |
+| 762 | 117 | Poppy Strikerbuilder |
+| 763 | 117 | Brenda Shannon |
 | 764 | 117 | CAL1KAWS559 |
 | 765 | 117 | Michael Anthony Anstead |
 | 766 | 117 | Mrs biotch |
-| 767 | 116 | Bouncy Cluster |
-| 768 | 116 | Lazy Staggerpiece |
-| 769 | 116 | Jessica Rose Engebretson |
+| 767 | 116 | Jessica Rose Engebretson |
+| 768 | 116 | Bouncy Cluster |
+| 769 | 116 | Lazy Staggerpiece |
 | 770 | 116 | Sara Dunn |
-| 771 | 115 | Edward Conyers |
-| 772 | 115 | Zaniya Brown |
-| 773 | 115 | Vicke Patterson |
-| 774 | 115 | Sam Schwieso |
+| 771 | 115 | Sam Schwieso |
+| 772 | 115 | Vicke Patterson |
+| 773 | 115 | Edward Conyers |
+| 774 | 115 | Zaniya Brown |
 | 775 | 115 | Patty Ann Hendrickson |
 | 776 | 115 | Jim Wright |
 | 777 | 115 | D.j. Wingate |
 | 778 | 115 | Doris Bonin |
 | 779 | 114 | Natasha Lee |
 | 780 | 114 | Ashley Diana |
-| 781 | 113 | Lisa Chapman |
-| 782 | 113 | Tanya Goodwin |
-| 783 | 113 | Kiersty Redder |
-| 784 | 113 | Carmina Truoiolo |
+| 781 | 113 | Tanya Goodwin |
+| 782 | 113 | Carmina Truoiolo |
+| 783 | 113 | Lisa Chapman |
+| 784 | 113 | Kiersty Redder |
 | 785 | 112 | Kati Eckstein |
-| 786 | 112 | Mee Maw |
-| 787 | 112 | Squared |
+| 786 | 112 | Squared |
+| 787 | 112 | Mee Maw |
 | 788 | 112 | Fallon Moss |
 | 789 | 111 | Erin Lemanski |
 | 790 | 111 | GiGi Cool |
-| 791 | 110 | Brian Little |
-| 792 | 110 | Deena-Neal Peryer |
+| 791 | 110 | Patti Ward |
+| 792 | 110 | Brian Little |
 | 793 | 110 | Michelle Fry-Cash |
 | 794 | 110 | Staci Walker |
-| 795 | 110 | Patti Ward |
+| 795 | 110 | Deena-Neal Peryer |
 | 796 | 110 | Hannah Meadows Hammond |
 | 797 | 110 | Christina German |
 | 798 | 110 | Seana Moran |
@@ -812,13 +812,13 @@
 | 804 | 109 | Kathy McCormick |
 | 805 | 109 | Jillian Marie |
 | 806 | 109 | jme |
-| 807 | 108 | Purpleroyalty11 |
-| 808 | 108 | Shaylee Haltiner |
-| 809 | 108 | Giddy Chiseler |
-| 810 | 107 | Carole Brown |
-| 811 | 107 | Chelsea Frye |
+| 807 | 108 | Shaylee Haltiner |
+| 808 | 108 | Giddy Chiseler |
+| 809 | 108 | Purpleroyalty11 |
+| 810 | 107 | Chelsea Frye |
+| 811 | 107 | Damion Morrison |
 | 812 | 107 | BB |
-| 813 | 107 | Damion Morrison |
+| 813 | 107 | Carole Brown |
 | 814 | 107 | Clever Gridzone |
 | 815 | 107 | Teea Makensi Meyer |
 | 816 | 107 | Stephanie Smith Robinson |

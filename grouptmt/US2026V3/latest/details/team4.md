@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:50:20 UTC
+# Standings for team4 as of 2026-06-08 12:50:43 UTC
 
 **Total Participants:** 1827
 
@@ -198,8 +198,8 @@
 | 190 | 396 | Goofy Riser |
 | 191 | 395 | Julian Gasque |
 | 192 | 395 | Bobbie Harrell |
-| 193 | 387 | LastBoi |
-| 194 | 380 | Magz |
+| 193 | 390 | Magz |
+| 194 | 387 | LastBoi |
 | 195 | 378 | Hwanger Land |
 | 196 | 376 | Tammy June |
 | 197 | 375 | Dayna Arthurs |
@@ -1525,12 +1525,12 @@
 | 1517 | 24 | Chelsea Pigg |
 | 1518 | 24 | Violet Mejia |
 | 1519 | 24 | Jane M Tiller |
-| 1520 | 23 | BossBaby |
-| 1521 | 23 | Cat |
-| 1522 | 23 | Cinnanin |
-| 1523 | 23 | Peachy Tiltpiece |
-| 1524 | 23 | Katie Stewart |
-| 1525 | 23 | Crafty Builderfit |
+| 1520 | 23 | Cinnanin |
+| 1521 | 23 | Crafty Builderfit |
+| 1522 | 23 | Cat |
+| 1523 | 23 | BossBaby |
+| 1524 | 23 | Peachy Tiltpiece |
+| 1525 | 23 | Katie Stewart |
 | 1526 | 23 | Elissa Danks |
 | 1527 | 23 | DuvaDova Ahava |
 | 1528 | 23 | Lina Samra |
@@ -1550,9 +1550,9 @@
 | 1542 | 22 | Honey |
 | 1543 | 22 | Kahlani Baird |
 | 1544 | 22 | Zippy Jumper |
-| 1545 | 22 | Renee Short Anthony |
+| 1545 | 22 | Snippy Shatterclear |
 | 1546 | 22 | Brittany Lloyd |
-| 1547 | 22 | Snippy Shatterclear |
+| 1547 | 22 | Renee Short Anthony |
 | 1548 | 21 | Chachi |
 | 1549 | 21 | Powder |
 | 1550 | 21 | Luluski Ward |
@@ -1583,73 +1583,73 @@
 | 1575 | 20 | Whirl-Klines L Evelyn |
 | 1576 | 20 | Jessica Smith |
 | 1577 | 20 | Teresa Lescinskas |
-| 1578 | 20 | Vinnie Barnett |
-| 1579 | 20 | Ralph Bennett |
-| 1580 | 20 | Snippy Balancepiece |
+| 1578 | 20 | PabloX |
+| 1579 | 20 | Zesty lemon |
+| 1580 | 20 | 67boyyy |
 | 1581 | 20 | Snazzy Piecebuilder |
-| 1582 | 20 | skynatda |
-| 1583 | 20 | SweetMomma |
-| 1584 | 20 | Ayanna Cornish |
-| 1585 | 20 | Vernetta Santos |
-| 1586 | 20 | Winter |
-| 1587 | 20 | John Ramos |
-| 1588 | 20 | PabloX |
-| 1589 | 20 | Losofmemphis Frfr |
-| 1590 | 20 | Groovy Cluster |
-| 1591 | 20 | Zesty lemon |
-| 1592 | 20 | Lizzie McGuire |
-| 1593 | 20 | Sarah Sherman |
-| 1594 | 19 | Jessica Hampton |
-| 1595 | 19 | Natalia Stone |
-| 1596 | 19 | Chelsea Guajardo |
-| 1597 | 19 | Happy Shift |
-| 1598 | 19 | Matoka Shuford |
-| 1599 | 19 | Jacqueline Couillard Jaeger |
-| 1600 | 19 | Danyelle De La Cruz |
-| 1601 | 19 | Toyag |
-| 1602 | 19 | Breezy Tetriblast |
-| 1603 | 19 | Kariana Gonzalez Ortiz |
-| 1604 | 18 | Playboy916 |
-| 1605 | 18 | Jamie Legeness |
-| 1606 | 18 | Bruce Hobbs |
-| 1607 | 18 | Becca Milliron |
-| 1608 | 18 | Janie Burris |
-| 1609 | 18 | Torie Harmon |
-| 1610 | 18 | Kiaralis Ashley Hancock |
-| 1611 | 18 | Angel Boges |
-| 1612 | 18 | Stacia Marie |
-| 1613 | 18 | Brian Fisher |
-| 1614 | 18 | Haley Jackson |
-| 1615 | 18 | Jennie Bowie |
-| 1616 | 18 | Fancy Linkpiece |
-| 1617 | 18 | Fancy Tiltgrid |
-| 1618 | 18 | Littlebird |
-| 1619 | 18 | Monique Kitzmiller |
-| 1620 | 18 | Orange Sky |
-| 1621 | 17 | Joseph Gay |
-| 1622 | 17 | Ksawn Collymore-bey Collymore-bey |
-| 1623 | 17 | Cherise Maxwell |
-| 1624 | 17 | Rai |
-| 1625 | 17 | Breezy Striker |
-| 1626 | 17 | Shane Snyder |
-| 1627 | 17 | John Wertz |
-| 1628 | 17 | happy cupcake |
-| 1629 | 17 | Speedy Snapclear |
-| 1630 | 17 | Cody Richard |
-| 1631 | 17 | Kelly Pool |
-| 1632 | 17 | Glitzy Crasher |
-| 1633 | 16 | Fumiko Demello |
-| 1634 | 16 | Maliyah An |
-| 1635 | 16 | Melissa Robinson |
-| 1636 | 16 | Mr.Corbin |
-| 1637 | 16 | Mike Adkins |
-| 1638 | 16 | Iesha Jefferson |
-| 1639 | 16 | Pauline Cortez |
-| 1640 | 16 | Nissi |
-| 1641 | 16 | Valerie Morrison |
-| 1642 | 16 | Rowboat |
-| 1643 | 16 | Fancy Tiley |
-| 1644 | 16 | 67boyyy |
+| 1582 | 20 | Winter |
+| 1583 | 20 | Ralph Bennett |
+| 1584 | 20 | Vinnie Barnett |
+| 1585 | 20 | Snippy Balancepiece |
+| 1586 | 20 | John Ramos |
+| 1587 | 20 | skynatda |
+| 1588 | 20 | SweetMomma |
+| 1589 | 20 | Sarah Sherman |
+| 1590 | 20 | Lizzie McGuire |
+| 1591 | 20 | Ayanna Cornish |
+| 1592 | 20 | Vernetta Santos |
+| 1593 | 20 | Groovy Cluster |
+| 1594 | 20 | Losofmemphis Frfr |
+| 1595 | 19 | Jessica Hampton |
+| 1596 | 19 | Danyelle De La Cruz |
+| 1597 | 19 | Natalia Stone |
+| 1598 | 19 | Breezy Tetriblast |
+| 1599 | 19 | Chelsea Guajardo |
+| 1600 | 19 | Toyag |
+| 1601 | 19 | Happy Shift |
+| 1602 | 19 | Jacqueline Couillard Jaeger |
+| 1603 | 19 | Matoka Shuford |
+| 1604 | 19 | Kariana Gonzalez Ortiz |
+| 1605 | 18 | Playboy916 |
+| 1606 | 18 | Jamie Legeness |
+| 1607 | 18 | Bruce Hobbs |
+| 1608 | 18 | Becca Milliron |
+| 1609 | 18 | Janie Burris |
+| 1610 | 18 | Torie Harmon |
+| 1611 | 18 | Kiaralis Ashley Hancock |
+| 1612 | 18 | Angel Boges |
+| 1613 | 18 | Stacia Marie |
+| 1614 | 18 | Orange Sky |
+| 1615 | 18 | Monique Kitzmiller |
+| 1616 | 18 | Haley Jackson |
+| 1617 | 18 | Brian Fisher |
+| 1618 | 18 | Jennie Bowie |
+| 1619 | 18 | Fancy Linkpiece |
+| 1620 | 18 | Littlebird |
+| 1621 | 18 | Fancy Tiltgrid |
+| 1622 | 17 | Joseph Gay |
+| 1623 | 17 | Ksawn Collymore-bey Collymore-bey |
+| 1624 | 17 | Cherise Maxwell |
+| 1625 | 17 | Rai |
+| 1626 | 17 | Breezy Striker |
+| 1627 | 17 | Shane Snyder |
+| 1628 | 17 | John Wertz |
+| 1629 | 17 | happy cupcake |
+| 1630 | 17 | Speedy Snapclear |
+| 1631 | 17 | Cody Richard |
+| 1632 | 17 | Kelly Pool |
+| 1633 | 17 | Glitzy Crasher |
+| 1634 | 16 | Fumiko Demello |
+| 1635 | 16 | Maliyah An |
+| 1636 | 16 | Melissa Robinson |
+| 1637 | 16 | Mr.Corbin |
+| 1638 | 16 | Mike Adkins |
+| 1639 | 16 | Iesha Jefferson |
+| 1640 | 16 | Pauline Cortez |
+| 1641 | 16 | Nissi |
+| 1642 | 16 | Valerie Morrison |
+| 1643 | 16 | Rowboat |
+| 1644 | 16 | Fancy Tiley |
 | 1645 | 16 | Mimi Dominguez |
 | 1646 | 16 | Bekka Walker |
 | 1647 | 16 | Scuba steve |
