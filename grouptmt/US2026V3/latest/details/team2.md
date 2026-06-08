@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:47:22 UTC
+# Standings for team2 as of 2026-06-08 06:48:20 UTC
 
 **Total Participants:** 2129
 
@@ -139,8 +139,8 @@
 | 131 | 750 | Tisha Hairston |
 | 132 | 737 | Loopy Curvebuilder |
 | 133 | 732 | Loopy Cascadepiece |
-| 134 | 728 | Groovy Snapper |
-| 135 | 718 | Sarah Mccolgan |
+| 134 | 730 | Sarah Mccolgan |
+| 135 | 728 | Groovy Snapper |
 | 136 | 708 | Le Sandy |
 | 137 | 682 | Wmk Rathbun |
 | 138 | 680 | Brandon Link |
@@ -614,43 +614,43 @@
 | 606 | 138 | Sam Brewster |
 | 607 | 138 | Madonna Ash |
 | 608 | 138 | Michael Saunders |
-| 609 | 138 | Firebone |
-| 610 | 138 | Robin Stutler |
-| 611 | 137 | Sandra Belk |
-| 612 | 137 | Sarah Louise Cobb |
-| 613 | 136 | Joshua Dye |
-| 614 | 136 | Tami Weiss |
-| 615 | 136 | Lauren Maxwell |
-| 616 | 135 | Michele Rogers |
-| 617 | 135 | Erin Moore Galloway |
-| 618 | 135 | Cozy Cascade |
-| 619 | 135 | Ava Taber |
-| 620 | 135 | Jessica Garoutte |
-| 621 | 134 | Busted9mm |
-| 622 | 134 | Cassandra Milner |
-| 623 | 134 | Heather Vircik |
-| 624 | 134 | Brooke Allred |
-| 625 | 133 | Newtwidebody |
-| 626 | 133 | s3lc4tr0n |
-| 627 | 132 | Kalli Bonin |
-| 628 | 132 | Kristen |
-| 629 | 132 | Kimmi Blake |
-| 630 | 132 | Laura Fagans |
+| 609 | 138 | Hog Crankin |
+| 610 | 138 | Firebone |
+| 611 | 138 | Robin Stutler |
+| 612 | 137 | Sandra Belk |
+| 613 | 137 | Sarah Louise Cobb |
+| 614 | 136 | Joshua Dye |
+| 615 | 136 | Tami Weiss |
+| 616 | 136 | Lauren Maxwell |
+| 617 | 135 | Michele Rogers |
+| 618 | 135 | Erin Moore Galloway |
+| 619 | 135 | Cozy Cascade |
+| 620 | 135 | Ava Taber |
+| 621 | 135 | Jessica Garoutte |
+| 622 | 134 | Busted9mm |
+| 623 | 134 | Cassandra Milner |
+| 624 | 134 | Heather Vircik |
+| 625 | 134 | Brooke Allred |
+| 626 | 133 | Newtwidebody |
+| 627 | 133 | s3lc4tr0n |
+| 628 | 132 | Kalli Bonin |
+| 629 | 132 | Kristen |
+| 630 | 132 | Kimmi Blake |
 | 631 | 132 | WhitS |
-| 632 | 132 | Belinda Gullion Austin |
-| 633 | 131 | Nova |
-| 634 | 131 | Samantha Bugg Stitcher |
-| 635 | 131 | Tracey Cox |
-| 636 | 131 | Tamara Whiteley |
-| 637 | 131 | Lyndzey Sciscoe |
-| 638 | 130 | Desia Walker |
-| 639 | 130 | Groovy Glider |
-| 640 | 130 | TiffTaff |
-| 641 | 130 | Tiffany Ann |
+| 632 | 132 | Laura Fagans |
+| 633 | 132 | Belinda Gullion Austin |
+| 634 | 131 | Nova |
+| 635 | 131 | Samantha Bugg Stitcher |
+| 636 | 131 | Tracey Cox |
+| 637 | 131 | Tamara Whiteley |
+| 638 | 131 | Lyndzey Sciscoe |
+| 639 | 130 | Desia Walker |
+| 640 | 130 | Groovy Glider |
+| 641 | 130 | TiffTaff |
 | 642 | 130 | Nichole Wilson |
-| 643 | 129 | Tammy Botkin |
-| 644 | 129 | Chris Delauro |
-| 645 | 129 | Hog Crankin |
+| 643 | 130 | Tiffany Ann |
+| 644 | 129 | Tammy Botkin |
+| 645 | 129 | Chris Delauro |
 | 646 | 129 | Armando Sabedra |
 | 647 | 129 | Nicole Ashbaugh |
 | 648 | 129 | Jackie Walker |
@@ -888,31 +888,31 @@
 | 880 | 91 | Lindsey Davidson |
 | 881 | 91 | Tabitha Ann Bullins-Cobb |
 | 882 | 91 | DNice |
-| 883 | 91 | Hansent3 |
-| 884 | 90 | Giddy Climber |
-| 885 | 90 | wutrwerdz |
-| 886 | 90 | Kayla Iverson |
-| 887 | 90 | Allison Peterson |
-| 888 | 90 | Nicole Hogue |
-| 889 | 90 | Deena-Neal Peryer |
-| 890 | 90 | Val |
-| 891 | 90 | Lacie B |
-| 892 | 90 | Christina Reid |
-| 893 | 90 | Arik DiLorenzo |
-| 894 | 90 | Lesley Stoeckle |
-| 895 | 90 | Naomi Jaynes |
-| 896 | 89 | Cranky Brickzone |
-| 897 | 89 | Cheryl Graves Downard |
-| 898 | 89 | Tina Kinney |
-| 899 | 89 | Grimwitch |
-| 900 | 89 | Jeremy Daurbigny |
-| 901 | 89 | Lori Yelvington Cain |
-| 902 | 89 | Jennifer Lewellyn Hutchins |
-| 903 | 89 | Patrick Woodard |
-| 904 | 89 | Christina Sheldon |
-| 905 | 89 | Samantha Smith |
-| 906 | 89 | Destiny Turner |
-| 907 | 89 | Joffee Joffer |
+| 883 | 91 | Joffee Joffer |
+| 884 | 91 | Hansent3 |
+| 885 | 90 | Giddy Climber |
+| 886 | 90 | wutrwerdz |
+| 887 | 90 | Kayla Iverson |
+| 888 | 90 | Allison Peterson |
+| 889 | 90 | Nicole Hogue |
+| 890 | 90 | Deena-Neal Peryer |
+| 891 | 90 | Val |
+| 892 | 90 | Lacie B |
+| 893 | 90 | Christina Reid |
+| 894 | 90 | Arik DiLorenzo |
+| 895 | 90 | Lesley Stoeckle |
+| 896 | 90 | Naomi Jaynes |
+| 897 | 89 | Cranky Brickzone |
+| 898 | 89 | Cheryl Graves Downard |
+| 899 | 89 | Tina Kinney |
+| 900 | 89 | Grimwitch |
+| 901 | 89 | Jeremy Daurbigny |
+| 902 | 89 | Lori Yelvington Cain |
+| 903 | 89 | Jennifer Lewellyn Hutchins |
+| 904 | 89 | Patrick Woodard |
+| 905 | 89 | Christina Sheldon |
+| 906 | 89 | Samantha Smith |
+| 907 | 89 | Destiny Turner |
 | 908 | 88 | Dapper Spinbuilder |
 | 909 | 88 | sugabritches |
 | 910 | 88 | Witty Riser |

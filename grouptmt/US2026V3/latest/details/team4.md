@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 06:47:22 UTC
+# Standings for team4 as of 2026-06-08 06:48:20 UTC
 
 **Total Participants:** 1789
 
@@ -83,14 +83,14 @@
 | 75 | 1009 | Tiffany Loree Tiffany Oneill |
 | 76 | 994 | Snippy Grid |
 | 77 | 991 | Tina Shalay Hayes |
-| 78 | 971 | Loony Towerer |
-| 79 | 952 | Alala.Cersei |
-| 80 | 951 | Hannah Pazar |
-| 81 | 935 | Jonathan Hewitt |
-| 82 | 924 | woopa 716 |
-| 83 | 921 | Trice Stevenson |
-| 84 | 906 | Kelley Roach |
-| 85 | 879 | Damon Gaston |
+| 78 | 972 | Damon Gaston |
+| 79 | 971 | Loony Towerer |
+| 80 | 952 | Alala.Cersei |
+| 81 | 951 | Hannah Pazar |
+| 82 | 935 | Jonathan Hewitt |
+| 83 | 924 | woopa 716 |
+| 84 | 921 | Trice Stevenson |
+| 85 | 906 | Kelley Roach |
 | 86 | 859 | Blayne Kole |
 | 87 | 848 | Beee |
 | 88 | 837 | Fancy Crasher |
@@ -270,9 +270,9 @@
 | 262 | 269 | George Palacios |
 | 263 | 269 | Spicy Chicken |
 | 264 | 268 | Bonnie Powell |
-| 265 | 267 | Chirpy Link |
-| 266 | 266 | tigerlilly |
-| 267 | 265 | Kelly Howland |
+| 265 | 268 | Kelly Howland |
+| 266 | 267 | Chirpy Link |
+| 267 | 266 | tigerlilly |
 | 268 | 261 | Brooke Arroyo |
 | 269 | 261 | Renee Sapp |
 | 270 | 260 | Troy Zanelli |
@@ -1416,69 +1416,69 @@
 | 1408 | 29 | Crafty Linkfall |
 | 1409 | 29 | Wynisha Johnson |
 | 1410 | 29 | LIZ |
-| 1411 | 29 | Epic Dashfit |
-| 1412 | 29 | Monica Selwyn |
-| 1413 | 29 | Theresa Jo Nelson |
-| 1414 | 29 | Jenni |
-| 1415 | 29 | Naybel85 |
-| 1416 | 29 | Mumsy |
-| 1417 | 29 | Bouncy Fitblock |
-| 1418 | 28 | ApexVibez |
+| 1411 | 29 | Jenni |
+| 1412 | 29 | Epic Dashfit |
+| 1413 | 29 | Quirky Puzzler |
+| 1414 | 29 | Theresa Jo Nelson |
+| 1415 | 29 | Monica Selwyn |
+| 1416 | 29 | Bouncy Fitblock |
+| 1417 | 29 | Mumsy |
+| 1418 | 29 | Naybel85 |
 | 1419 | 28 | Melissa Rathbun |
-| 1420 | 28 | Snazzy Balanceblock |
-| 1421 | 28 | Khaalida Muhammad Jackson |
-| 1422 | 27 | boo |
+| 1420 | 28 | Khaalida Muhammad Jackson |
+| 1421 | 28 | Snazzy Balanceblock |
+| 1422 | 28 | ApexVibez |
 | 1423 | 27 | Alexis William |
-| 1424 | 27 | PIPPI |
-| 1425 | 27 | Angela Correa |
-| 1426 | 27 | Loopy Bridger |
-| 1427 | 27 | NotAkaren Barker |
-| 1428 | 27 | Rebecca Cook |
-| 1429 | 27 | Misty Harland |
-| 1430 | 27 | Twisty Gridclear |
-| 1431 | 27 | Arlee Woodall |
-| 1432 | 27 | Danielle Clutter |
-| 1433 | 27 | pisces26luna |
-| 1434 | 27 | Myranda Gereau |
-| 1435 | 27 | Loony Glidepiece |
-| 1436 | 26 | Glenda Zulueta Steed |
-| 1437 | 26 | Shakita Moore-Bernard |
-| 1438 | 26 | Jessica Huber |
+| 1424 | 27 | NotAkaren Barker |
+| 1425 | 27 | Rebecca Cook |
+| 1426 | 27 | Misty Harland |
+| 1427 | 27 | Twisty Gridclear |
+| 1428 | 27 | Loopy Bridger |
+| 1429 | 27 | Angela Correa |
+| 1430 | 27 | PIPPI |
+| 1431 | 27 | pisces26luna |
+| 1432 | 27 | Myranda Gereau |
+| 1433 | 27 | Danielle Clutter |
+| 1434 | 27 | boo |
+| 1435 | 27 | Arlee Woodall |
+| 1436 | 27 | Loony Glidepiece |
+| 1437 | 26 | Socorro Arredondo |
+| 1438 | 26 | Dee Modest |
 | 1439 | 26 | Frby Amberr |
 | 1440 | 26 | Gabby |
-| 1441 | 26 | EKM |
-| 1442 | 26 | Dee Modest |
-| 1443 | 26 | Love GH |
-| 1444 | 26 | Taylor Renee |
-| 1445 | 26 | Leslie Marie WarClub |
-| 1446 | 26 | Kevin Lyles |
-| 1447 | 26 | Justin Sercu |
-| 1448 | 26 | Rebecca Rae Reed |
-| 1449 | 26 | Socorro Arredondo |
-| 1450 | 26 | Rob$GEE |
-| 1451 | 26 | AJscooter |
-| 1452 | 26 | Von |
+| 1441 | 26 | Love GH |
+| 1442 | 26 | Jessica Huber |
+| 1443 | 26 | Shakita Moore-Bernard |
+| 1444 | 26 | Glenda Zulueta Steed |
+| 1445 | 26 | Taylor Renee |
+| 1446 | 26 | Rebecca Rae Reed |
+| 1447 | 26 | AJscooter |
+| 1448 | 26 | Leslie Marie WarClub |
+| 1449 | 26 | Kevin Lyles |
+| 1450 | 26 | Justin Sercu |
+| 1451 | 26 | Ivyleata McFadden |
+| 1452 | 26 | Lacey Decker |
 | 1453 | 26 | Debra James |
-| 1454 | 26 | Ivyleata McFadden |
-| 1455 | 26 | Lacey Decker |
-| 1456 | 25 | Snoopie Johnson |
-| 1457 | 25 | Jessikunt Gdula Pierre |
-| 1458 | 25 | Nina Martinez |
-| 1459 | 25 | Quirky Puzzler |
-| 1460 | 25 | Giggy Mover |
-| 1461 | 25 | Tipsy toesy |
-| 1462 | 25 | Sheries |
-| 1463 | 25 | Daisy Jaramillo |
-| 1464 | 25 | Danielle Church |
-| 1465 | 25 | Amy |
-| 1466 | 25 | Crafty Slamdrop |
-| 1467 | 25 | Gellix |
-| 1468 | 25 | Joyell Mersiel |
+| 1454 | 26 | Rob$GEE |
+| 1455 | 26 | Von |
+| 1456 | 26 | EKM |
+| 1457 | 25 | MoCa |
+| 1458 | 25 | Tipsy toesy |
+| 1459 | 25 | Sheries |
+| 1460 | 25 | Nina Martinez |
+| 1461 | 25 | Jessikunt Gdula Pierre |
+| 1462 | 25 | Danielle Church |
+| 1463 | 25 | Gellix |
+| 1464 | 25 | Joyell Mersiel |
+| 1465 | 25 | LuLazer27 |
+| 1466 | 25 | Rell geez |
+| 1467 | 25 | Snoopie Johnson |
+| 1468 | 25 | José A Torres |
 | 1469 | 25 | chapis |
-| 1470 | 25 | José A Torres |
-| 1471 | 25 | Rell geez |
-| 1472 | 25 | LuLazer27 |
-| 1473 | 25 | MoCa |
+| 1470 | 25 | Crafty Slamdrop |
+| 1471 | 25 | Giggy Mover |
+| 1472 | 25 | Amy |
+| 1473 | 25 | Daisy Jaramillo |
 | 1474 | 24 | Jane M Tiller |
 | 1475 | 24 | Chelsea Pigg |
 | 1476 | 24 | Snappy Blockzone |
