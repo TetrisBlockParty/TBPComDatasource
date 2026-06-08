@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 19:46:20 UTC
+# Standings for team4 as of 2026-06-08 19:46:44 UTC
 
 **Total Participants:** 1906
 
@@ -31,9 +31,9 @@
 | 23 | 4579 | Nia Mayfield |
 | 24 | 4329 | Jackie Lucas |
 | 25 | 4326 | Tyra Brooke Everman Forest |
-| 26 | 4217 | Daring Ziggy |
-| 27 | 4149 | Witty Clicky |
-| 28 | 4134 | Tonya Brooks-Johnson |
+| 26 | 4234 | Tonya Brooks-Johnson |
+| 27 | 4217 | Daring Ziggy |
+| 28 | 4149 | Witty Clicky |
 | 29 | 3935 | TitiLo72 |
 | 30 | 3824 | Juan Ford |
 | 31 | 3776 | Dana Smith |
@@ -151,7 +151,7 @@
 | 143 | 640 | CJ |
 | 144 | 626 | Daryn Elliott |
 | 145 | 615 | Cinta Marie |
-| 146 | 612 | Lisa Garcia |
+| 146 | 615 | Lisa Garcia |
 | 147 | 600 | Suzanne Carter |
 | 148 | 599 | Krysten Danielle Richard |
 | 149 | 593 | Malik Thompson |
@@ -186,43 +186,43 @@
 | 178 | 484 | Boldy Rumbler |
 | 179 | 480 | CIRAZYPNOY |
 | 180 | 480 | Adam Dickinson |
-| 181 | 473 | Goofy Riser |
-| 182 | 469 | Jacqueline Jackii Ramos |
-| 183 | 462 | BusterBear56 |
-| 184 | 461 | Kayla Fuentes |
-| 185 | 460 | Piece of Cake |
-| 186 | 460 | Shmeedo |
-| 187 | 459 | Laguya |
-| 188 | 457 | Stephanie Myers |
-| 189 | 456 | Kimberly Civinski |
-| 190 | 454 | Celina DiBastiani |
-| 191 | 452 | Kaash Brxtt |
-| 192 | 452 | Cyndi Najar |
-| 193 | 450 | Addi JayKay |
-| 194 | 443 | Crissy Hoffman |
-| 195 | 443 | Joyce Myers |
-| 196 | 441 | Shannon Rivera |
-| 197 | 440 | Magz |
-| 198 | 439 | Hen |
+| 181 | 479 | Hen |
+| 182 | 473 | Goofy Riser |
+| 183 | 469 | Jacqueline Jackii Ramos |
+| 184 | 462 | BusterBear56 |
+| 185 | 461 | Kayla Fuentes |
+| 186 | 460 | Piece of Cake |
+| 187 | 460 | Shmeedo |
+| 188 | 459 | Laguya |
+| 189 | 457 | Stephanie Myers |
+| 190 | 456 | Kimberly Civinski |
+| 191 | 454 | Celina DiBastiani |
+| 192 | 452 | Kaash Brxtt |
+| 193 | 452 | Cyndi Najar |
+| 194 | 450 | Addi JayKay |
+| 195 | 443 | Crissy Hoffman |
+| 196 | 443 | Joyce Myers |
+| 197 | 441 | Shannon Rivera |
+| 198 | 440 | Magz |
 | 199 | 439 | Scamp Jones |
 | 200 | 438 | Aisha Estrada |
 | 201 | 437 | Sarah Perry Cook |
 | 202 | 437 | Danielle Mitchell |
 | 203 | 427 | Perky Riserbuilder |
-| 204 | 421 | Shiny Brick |
-| 205 | 421 | QueenLi86 |
+| 204 | 421 | QueenLi86 |
+| 205 | 421 | Shiny Brick |
 | 206 | 419 | Sisi RedVelvet Reneè |
 | 207 | 418 | Jojo Ann |
 | 208 | 416 | Lori Stembridge |
 | 209 | 415 | Shiny Dashy |
 | 210 | 414 | Alex Armour |
 | 211 | 409 | Betsy Froemming |
-| 212 | 408 | Bonnie Powell |
-| 213 | 408 | matt |
+| 212 | 408 | matt |
+| 213 | 408 | Bonnie Powell |
 | 214 | 404 | Dae Von |
 | 215 | 402 | LastBoi |
-| 216 | 400 | Fran Aaron-Ring |
-| 217 | 400 | Amber Doyle |
+| 216 | 400 | Amber Doyle |
+| 217 | 400 | Fran Aaron-Ring |
 | 218 | 400 | Genag |
 | 219 | 395 | Bobbie Harrell |
 | 220 | 392 | Plucky Shatterfit |
@@ -1284,12 +1284,12 @@
 | 1276 | 48 | Cmoss |
 | 1277 | 48 | Snoopie Johnson |
 | 1278 | 48 | Kelli Wells Fuhr |
-| 1279 | 47 | Vanessa Pritchett |
-| 1280 | 47 | Maurice Jones |
-| 1281 | 47 | Vernetta Santos |
-| 1282 | 47 | Kaity Cody |
-| 1283 | 47 | Audacious |
-| 1284 | 47 | Dannie Ems |
+| 1279 | 48 | Dannie Ems |
+| 1280 | 47 | Vanessa Pritchett |
+| 1281 | 47 | Maurice Jones |
+| 1282 | 47 | Vernetta Santos |
+| 1283 | 47 | Kaity Cody |
+| 1284 | 47 | Audacious |
 | 1285 | 47 | Hethyheth |
 | 1286 | 47 | Jacquelyn L Whitsitt |
 | 1287 | 47 | Kitty Kat |

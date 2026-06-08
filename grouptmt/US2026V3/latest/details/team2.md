@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:46:20 UTC
+# Standings for team2 as of 2026-06-08 19:46:44 UTC
 
 **Total Participants:** 2259
 
@@ -1549,10 +1549,10 @@
 | 1541 | 46 | Nikki Blilie |
 | 1542 | 45 | Giggy Snapper |
 | 1543 | 45 | Jennifer Nelson |
-| 1544 | 45 | Brandy Moore |
-| 1545 | 45 | Nikki |
+| 1544 | 45 | Nikki |
+| 1545 | 45 | Gail Flory |
 | 1546 | 45 | STARFIRE |
-| 1547 | 45 | Gail Flory |
+| 1547 | 45 | Brandy Moore |
 | 1548 | 45 | Chill Wipegrid |
 | 1549 | 45 | Missy Stevens |
 | 1550 | 45 | Witty Brickster |
@@ -1562,40 +1562,40 @@
 | 1554 | 44 | Dawnie Rodarte |
 | 1555 | 44 | Fluffypuffin |
 | 1556 | 44 | Tam |
-| 1557 | 44 | William Richardson |
-| 1558 | 44 | Denise Singleton |
-| 1559 | 44 | Frisky Clicker |
-| 1560 | 44 | Chill Racker |
+| 1557 | 44 | Dustie Benefield |
+| 1558 | 44 | Catherine Whitt Gaddy |
+| 1559 | 44 | Tee Have |
+| 1560 | 44 | Sandra Betz |
 | 1561 | 44 | Treau Torres |
-| 1562 | 44 | Sandra Betz |
-| 1563 | 44 | Tee Have |
-| 1564 | 44 | Dustie Benefield |
-| 1565 | 44 | Lori Antrim Nichols |
+| 1562 | 44 | Lori Antrim Nichols |
+| 1563 | 44 | Chill Racker |
+| 1564 | 44 | Denise Singleton |
+| 1565 | 44 | Frisky Clicker |
 | 1566 | 44 | Crafty Shatterer |
-| 1567 | 43 | LilMs101 |
-| 1568 | 43 | Michelle Brown |
-| 1569 | 43 | KT Scott |
-| 1570 | 43 | Snoop |
-| 1571 | 43 | Quirky Shifter |
-| 1572 | 43 | Patricia Ann Tondreault Hammonds |
-| 1573 | 43 | Ashley Parrish |
-| 1574 | 43 | Kayla Faulkiner |
-| 1575 | 43 | Kourtney Heiden-Hudson |
-| 1576 | 43 | Rachel Huber |
-| 1577 | 43 | Dreamy Wipepiece |
-| 1578 | 43 | Aguilar Rita |
-| 1579 | 42 | Shylo Bryant-Brunson |
-| 1580 | 42 | MJLovesHer#OneMistake |
-| 1581 | 42 | Snappy Zonepiece |
-| 1582 | 42 | Toni Tortorici Humphryes |
-| 1583 | 42 | April Owings |
-| 1584 | 42 | Henny Henny |
-| 1585 | 42 | Auntie YaYa |
-| 1586 | 42 | Clever Linkbuilder |
-| 1587 | 42 | June Salevao |
-| 1588 | 42 | Peachy Builderpiece |
-| 1589 | 42 | Amanda Jungclaus |
-| 1590 | 42 | Catherine Whitt Gaddy |
+| 1567 | 44 | William Richardson |
+| 1568 | 43 | LilMs101 |
+| 1569 | 43 | Michelle Brown |
+| 1570 | 43 | KT Scott |
+| 1571 | 43 | Patricia Ann Tondreault Hammonds |
+| 1572 | 43 | Quirky Shifter |
+| 1573 | 43 | Snoop |
+| 1574 | 43 | Ashley Parrish |
+| 1575 | 43 | Kayla Faulkiner |
+| 1576 | 43 | Kourtney Heiden-Hudson |
+| 1577 | 43 | Rachel Huber |
+| 1578 | 43 | Dreamy Wipepiece |
+| 1579 | 43 | Aguilar Rita |
+| 1580 | 42 | Shylo Bryant-Brunson |
+| 1581 | 42 | MJLovesHer#OneMistake |
+| 1582 | 42 | Snappy Zonepiece |
+| 1583 | 42 | Toni Tortorici Humphryes |
+| 1584 | 42 | April Owings |
+| 1585 | 42 | Henny Henny |
+| 1586 | 42 | Auntie YaYa |
+| 1587 | 42 | Clever Linkbuilder |
+| 1588 | 42 | June Salevao |
+| 1589 | 42 | Peachy Builderpiece |
+| 1590 | 42 | Amanda Jungclaus |
 | 1591 | 42 | Amanda |
 | 1592 | 42 | Christopher S Lawyer |
 | 1593 | 42 | Patty Smith |
