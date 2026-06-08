@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:20:43 UTC
+# Standings for team1 as of 2026-06-08 11:21:20 UTC
 
 **Total Participants:** 1782
 
@@ -18,7 +18,7 @@
 | 10 | 7939 | Dyane Leah Ware |
 | 11 | 7491 | Tracy Cohen |
 | 12 | 7163 | Cozy Edge |
-| 13 | 6711 | Timothy Robert |
+| 13 | 6811 | Timothy Robert |
 | 14 | 6336 | Speedy Spinblock |
 | 15 | 5582 | Jocelyn Pope-Sewell |
 | 16 | 5282 | Plucky Swipe |
@@ -59,7 +59,7 @@
 | 51 | 1489 | Robyn Caldwell |
 | 52 | 1482 | Shortstak |
 | 53 | 1461 | Janet Cooke |
-| 54 | 1402 | D'Andra Stewart |
+| 54 | 1432 | D'Andra Stewart |
 | 55 | 1294 | Ashley Espeut |
 | 56 | 1251 | Daylene Johannes |
 | 57 | 1239 | Holly Jolly |
