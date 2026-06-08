@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:54:19 UTC
+# Standings for team2 as of 2026-06-08 11:54:43 UTC
 
 **Total Participants:** 2165
 
@@ -109,14 +109,14 @@
 | 101 | 1016 | Amber Salazar |
 | 102 | 1000 | LEW |
 | 103 | 1000 | Sydney Headley |
-| 104 | 988 | Dane Marko |
-| 105 | 978 | Renee Freeman Jacobson |
-| 106 | 966 | Allison Jarman |
-| 107 | 946 | Jazzy Faller |
-| 108 | 945 | Jef Wassom |
-| 109 | 942 | haune |
-| 110 | 929 | Marquetta Johnson |
-| 111 | 914 | Josh Twilley |
+| 104 | 994 | Josh Twilley |
+| 105 | 988 | Dane Marko |
+| 106 | 978 | Renee Freeman Jacobson |
+| 107 | 966 | Allison Jarman |
+| 108 | 946 | Jazzy Faller |
+| 109 | 945 | Jef Wassom |
+| 110 | 942 | haune |
+| 111 | 929 | Marquetta Johnson |
 | 112 | 905 | Ashlea McBlaine |
 | 113 | 900 | Deborah Boyce Minor |
 | 114 | 899 | Marie Luciano |
@@ -174,8 +174,8 @@
 | 166 | 578 | Monique Frantz |
 | 167 | 577 | Lindsay Klemp |
 | 168 | 574 | Brandy McCune Reep |
-| 169 | 567 | Cool Climber |
-| 170 | 567 | Cool Balancer |
+| 169 | 567 | Cool Balancer |
+| 170 | 567 | Cool Climber |
 | 171 | 560 | Sully |
 | 172 | 558 | Zarah Kettler |
 | 173 | 557 | Nutty Curver |
@@ -188,8 +188,8 @@
 | 180 | 528 | Michelle Rich Burkhart |
 | 181 | 524 | Chasity Simpson |
 | 182 | 523 | Bubbly Strikerpiece |
-| 183 | 521 | Steven Craig |
-| 184 | 521 | Kimmyc |
+| 183 | 521 | Kimmyc |
+| 184 | 521 | Steven Craig |
 | 185 | 515 | Loony Faller |
 | 186 | 513 | Thomas Tyrone |
 | 187 | 510 | Samantha Carman |
@@ -420,46 +420,46 @@
 | 412 | 225 | Amanda L Strong |
 | 413 | 225 | Sandy Justus |
 | 414 | 225 | Cheery Towerzone |
-| 415 | 222 | Marilyn Strickland |
-| 416 | 222 | Harper |
-| 417 | 220 | Precious Womack |
-| 418 | 220 | Sherri E Woods Hess |
-| 419 | 220 | ShiverMeSplinter |
-| 420 | 220 | Michelle M Braley |
-| 421 | 220 | KazzyKay |
-| 422 | 220 | Elliott Mikila |
-| 423 | 220 | Lee Leonard |
-| 424 | 220 | Flashy Basegrid |
-| 425 | 220 | Jess |
-| 426 | 220 | Krystle L Coon |
-| 427 | 219 | Mouh Ity |
-| 428 | 219 | Gwendolyn Boykin Mobbs |
-| 429 | 219 | Holly Huval |
-| 430 | 219 | Francesca Wagenhoffer |
-| 431 | 218 | Julie Alexander Sykes |
-| 432 | 217 | Spicy Snapclear |
-| 433 | 216 | Melissa Nash |
-| 434 | 216 | Joshua Dye |
-| 435 | 216 | Reign Hustler |
-| 436 | 215 | Missy Renia |
-| 437 | 215 | Maria Ward |
-| 438 | 215 | Alonzo Reed |
-| 439 | 214 | Kathryn |
-| 440 | 213 | Judy Burkhalter |
-| 441 | 212 | Carebear05 |
-| 442 | 211 | Sassy Twistbuilder |
-| 443 | 210 | Nichole Wilson |
-| 444 | 210 | Rick |
-| 445 | 210 | Camilo Moreno |
-| 446 | 209 | Brian Favre |
-| 447 | 208 | Lisa Allen Frisk |
-| 448 | 208 | Martha Lynn Wiggins |
-| 449 | 208 | Will Jones |
-| 450 | 207 | StacyBabee |
-| 451 | 207 | Wendy McKee |
-| 452 | 206 | Jodi Johnson |
-| 453 | 206 | Katie Jones |
-| 454 | 205 | Katelyn Rodgers |
+| 415 | 225 | Katelyn Rodgers |
+| 416 | 222 | Marilyn Strickland |
+| 417 | 222 | Harper |
+| 418 | 220 | Precious Womack |
+| 419 | 220 | Sherri E Woods Hess |
+| 420 | 220 | ShiverMeSplinter |
+| 421 | 220 | Michelle M Braley |
+| 422 | 220 | KazzyKay |
+| 423 | 220 | Elliott Mikila |
+| 424 | 220 | Lee Leonard |
+| 425 | 220 | Flashy Basegrid |
+| 426 | 220 | Jess |
+| 427 | 220 | Krystle L Coon |
+| 428 | 219 | Mouh Ity |
+| 429 | 219 | Gwendolyn Boykin Mobbs |
+| 430 | 219 | Holly Huval |
+| 431 | 219 | Francesca Wagenhoffer |
+| 432 | 218 | Julie Alexander Sykes |
+| 433 | 217 | Spicy Snapclear |
+| 434 | 216 | Melissa Nash |
+| 435 | 216 | Joshua Dye |
+| 436 | 216 | Reign Hustler |
+| 437 | 215 | Missy Renia |
+| 438 | 215 | Maria Ward |
+| 439 | 215 | Alonzo Reed |
+| 440 | 214 | Kathryn |
+| 441 | 213 | Judy Burkhalter |
+| 442 | 212 | Carebear05 |
+| 443 | 211 | Sassy Twistbuilder |
+| 444 | 210 | Nichole Wilson |
+| 445 | 210 | Rick |
+| 446 | 210 | Camilo Moreno |
+| 447 | 209 | Brian Favre |
+| 448 | 208 | Lisa Allen Frisk |
+| 449 | 208 | Martha Lynn Wiggins |
+| 450 | 208 | Will Jones |
+| 451 | 207 | StacyBabee |
+| 452 | 207 | Wendy McKee |
+| 453 | 206 | Jodi Johnson |
+| 454 | 206 | Katie Jones |
 | 455 | 204 | Jacquelyn Snyder Dumas |
 | 456 | 204 | Teddy Williams |
 | 457 | 204 | Chummy Snapbuilder |
