@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 13:36:42 UTC
+# Standings for team2 as of 2026-06-08 13:37:19 UTC
 
 **Total Participants:** 2174
 
@@ -36,8 +36,8 @@
 | 28 | 4137 | Danni Campa |
 | 29 | 4032 | Spunky Clicker |
 | 30 | 3984 | Amber |
-| 31 | 3812 | Crystal M Sowden |
-| 32 | 3808 | Julie Trede Amerson |
+| 31 | 3858 | Julie Trede Amerson |
+| 32 | 3812 | Crystal M Sowden |
 | 33 | 3766 | Ashley Miller |
 | 34 | 3712 | Smashanator |
 | 35 | 3607 | Bea Bee |
@@ -205,10 +205,10 @@
 | 197 | 483 | Karen Reid Cenkush |
 | 198 | 480 | Jacob Carpenter |
 | 199 | 480 | DukeDino |
-| 200 | 476 | Sara Perkins |
-| 201 | 475 | Laverne Ellis Blair |
-| 202 | 470 | Zany Blockclear |
-| 203 | 469 | Theresa Hollinger |
+| 200 | 477 | Theresa Hollinger |
+| 201 | 476 | Sara Perkins |
+| 202 | 475 | Laverne Ellis Blair |
+| 203 | 470 | Zany Blockclear |
 | 204 | 469 | Lashanda Bertram |
 | 205 | 467 | Lisa Underwood Desmond |
 | 206 | 461 | Charles E Mccardell |
@@ -295,37 +295,37 @@
 | 287 | 340 | Tony Medina |
 | 288 | 340 | Chipper Stackbuilder |
 | 289 | 340 | missat |
-| 290 | 339 | Keri Mears |
-| 291 | 338 | Amie Marks |
-| 292 | 337 | Nathan Walker |
-| 293 | 337 | Ashley Billiot Rhodes |
-| 294 | 333 | Joanna Trevin Thompson |
-| 295 | 332 | Robin G |
-| 296 | 331 | Anthony Swift |
-| 297 | 331 | Shannon Wilson |
-| 298 | 328 | Tim Tim |
-| 299 | 328 | Xandrea Jones |
-| 300 | 328 | Kay |
-| 301 | 327 | Iesha Cupil |
-| 302 | 327 | Jumpy Matchbuilder |
-| 303 | 325 | Flashy Twistline |
-| 304 | 325 | Snappy Combo |
-| 305 | 324 | Swanky Fitline |
+| 290 | 339 | Flashy Hitter |
+| 291 | 339 | Keri Mears |
+| 292 | 338 | Amie Marks |
+| 293 | 337 | Nathan Walker |
+| 294 | 337 | Ashley Billiot Rhodes |
+| 295 | 333 | Joanna Trevin Thompson |
+| 296 | 332 | Robin G |
+| 297 | 331 | Anthony Swift |
+| 298 | 331 | Shannon Wilson |
+| 299 | 328 | Tim Tim |
+| 300 | 328 | Xandrea Jones |
+| 301 | 328 | Kay |
+| 302 | 327 | Iesha Cupil |
+| 303 | 327 | Jumpy Matchbuilder |
+| 304 | 325 | Flashy Twistline |
+| 305 | 325 | Snappy Combo |
 | 306 | 324 | Norma Ortiz |
-| 307 | 324 | Steven |
-| 308 | 323 | Jeanna Mendez |
-| 309 | 323 | Kelly Vedder |
-| 310 | 322 | Pam Bauder Ludwig |
-| 311 | 320 | Zesty Zoney |
-| 312 | 320 | marsam |
-| 313 | 320 | Linda Guay |
-| 314 | 318 | Pamela Raye |
-| 315 | 318 | Margie Ann Naffziger |
-| 316 | 314 | RaeRae |
-| 317 | 311 | Aldotfus Williams |
-| 318 | 310 | Amy Taylor Pomerenk |
-| 319 | 310 | Jenn |
-| 320 | 308 | Flashy Hitter |
+| 307 | 324 | Swanky Fitline |
+| 308 | 324 | Steven |
+| 309 | 323 | Jeanna Mendez |
+| 310 | 323 | Kelly Vedder |
+| 311 | 322 | Pam Bauder Ludwig |
+| 312 | 320 | Zesty Zoney |
+| 313 | 320 | marsam |
+| 314 | 320 | Linda Guay |
+| 315 | 318 | Pamela Raye |
+| 316 | 318 | Margie Ann Naffziger |
+| 317 | 314 | RaeRae |
+| 318 | 311 | Aldotfus Williams |
+| 319 | 310 | Amy Taylor Pomerenk |
+| 320 | 310 | Jenn |
 | 321 | 308 | Larry Cross |
 | 322 | 308 | Hector |
 | 323 | 306 | Brittney Williams |
@@ -669,69 +669,69 @@
 | 661 | 140 | Adam Latin |
 | 662 | 140 | Wendy Durrence Jones |
 | 663 | 140 | Heather Billodeau |
-| 664 | 140 | Chipper Towerzone |
-| 665 | 140 | Momi Kamohai |
-| 666 | 140 | Princess Cucumber |
-| 667 | 139 | Bonnie Huckleberry |
-| 668 | 139 | David Skelton |
-| 669 | 139 | Jason Burris |
-| 670 | 139 | Cassandra Green |
-| 671 | 138 | Sam Brewster |
-| 672 | 138 | Breezy |
-| 673 | 138 | Maurii93 |
-| 674 | 138 | Robin Stutler |
-| 675 | 138 | Michael Saunders |
-| 676 | 137 | Sarah Louise Cobb |
-| 677 | 137 | Sandra Belk |
-| 678 | 137 | Teea Makensi Meyer |
-| 679 | 136 | Tami Weiss |
-| 680 | 136 | Laura Fagans |
+| 664 | 140 | Princess Cucumber |
+| 665 | 140 | Chipper Towerzone |
+| 666 | 140 | Momi Kamohai |
+| 667 | 139 | David Skelton |
+| 668 | 139 | Bonnie Huckleberry |
+| 669 | 139 | Cassandra Green |
+| 670 | 139 | Jason Burris |
+| 671 | 138 | Robin Stutler |
+| 672 | 138 | Sam Brewster |
+| 673 | 138 | Michael Saunders |
+| 674 | 138 | Maurii93 |
+| 675 | 138 | Breezy |
+| 676 | 137 | Teea Makensi Meyer |
+| 677 | 137 | Sarah Louise Cobb |
+| 678 | 137 | Sandra Belk |
+| 679 | 136 | Jackelyn Ford |
+| 680 | 136 | Tami Weiss |
 | 681 | 136 | Nicole Ashbaugh |
-| 682 | 136 | Lauren Maxwell |
-| 683 | 136 | Jackelyn Ford |
+| 682 | 136 | Laura Fagans |
+| 683 | 136 | Lauren Maxwell |
 | 684 | 136 | Tito Garcia |
 | 685 | 136 | Melissa Willson |
 | 686 | 135 | Ava Taber |
-| 687 | 135 | Erin Moore Galloway |
+| 687 | 135 | Cozy Cascade |
 | 688 | 135 | Cherica Taylor |
-| 689 | 135 | Michele Rogers |
-| 690 | 135 | Kelly |
-| 691 | 135 | Cozy Cascade |
-| 692 | 134 | Nova |
-| 693 | 134 | Cassandra Milner |
-| 694 | 134 | Mee Maw |
-| 695 | 134 | Brooke Allred |
-| 696 | 134 | Sara Karels |
-| 697 | 133 | s3lc4tr0n |
-| 698 | 133 | Connie Marie Cornell Lerma |
-| 699 | 132 | WhitS |
-| 700 | 132 | Tim Moore |
-| 701 | 132 | Hyper Striker |
-| 702 | 132 | Kris Dusza Dodus |
-| 703 | 132 | Kristen |
+| 689 | 135 | Erin Moore Galloway |
+| 690 | 135 | Michele Rogers |
+| 691 | 135 | Kelly |
+| 692 | 134 | Kris Dusza Dodus |
+| 693 | 134 | Nova |
+| 694 | 134 | Cassandra Milner |
+| 695 | 134 | Mee Maw |
+| 696 | 134 | Brooke Allred |
+| 697 | 134 | Sara Karels |
+| 698 | 133 | s3lc4tr0n |
+| 699 | 133 | Connie Marie Cornell Lerma |
+| 700 | 132 | WhitS |
+| 701 | 132 | Tim Moore |
+| 702 | 132 | Hyper Striker |
+| 703 | 132 | Kimmi Blake |
 | 704 | 132 | Belinda Gullion Austin |
-| 705 | 132 | Kimmi Blake |
+| 705 | 132 | Kristen |
 | 706 | 132 | Kalli Bonin |
 | 707 | 132 | Michael Anthony Anstead |
 | 708 | 131 | Lyndzey Sciscoe |
-| 709 | 131 | Jessica Bowman |
-| 710 | 131 | Jason Lamporte |
-| 711 | 131 | Tracey Cox |
-| 712 | 130 | TiffTaff |
-| 713 | 130 | gene15 |
+| 709 | 131 | Jason Lamporte |
+| 710 | 131 | Tracey Cox |
+| 711 | 131 | Jessica Bowman |
+| 712 | 130 | gene15 |
+| 713 | 130 | TiffTaff |
 | 714 | 130 | Amanda Bailey |
-| 715 | 130 | Groovy Glider |
-| 716 | 130 | Tiffany Ann |
+| 715 | 130 | Tiffany Ann |
+| 716 | 130 | Groovy Glider |
 | 717 | 130 | Joanie Swann Ruiter |
 | 718 | 130 | Desia Walker |
 | 719 | 129 | Carrie Smith Negron |
 | 720 | 129 | Susan Bosell |
-| 721 | 129 | Chris Delauro |
-| 722 | 129 | Kristi K Milner |
-| 723 | 129 | Darla Ragsdale |
-| 724 | 129 | Lively Twisterfit |
-| 725 | 129 | Armando Sabedra |
-| 726 | 129 | Tammy Botkin |
+| 721 | 129 | Tammy Botkin |
+| 722 | 129 | Armando Sabedra |
+| 723 | 129 | Lively Twisterfit |
+| 724 | 129 | Darla Ragsdale |
+| 725 | 129 | Kristi K Milner |
+| 726 | 129 | Chris Delauro |
 | 727 | 128 | Tina Kinney |
 | 728 | 127 | Nicole Suber |
 | 729 | 127 | Abby |
