@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:15:20 UTC
+# Standings for team4 as of 2026-06-08 09:16:19 UTC
 
 **Total Participants:** 1803
 
@@ -16,7 +16,7 @@
 | 8 | 6700 | Candice Driver |
 | 9 | 6401 | BertaF1irta |
 | 10 | 6108 | Kait Confetti |
-| 11 | 5418 | Bubbly Twistpiece |
+| 11 | 5428 | Bubbly Twistpiece |
 | 12 | 5307 | Hasty Builder |
 | 13 | 5180 | Jerald Jones |
 | 14 | 5123 | delilahbelle |
@@ -106,7 +106,7 @@
 | 98 | 792 | Keesha Muro |
 | 99 | 788 | Shaina Sharp |
 | 100 | 775 | Shelby |
-| 101 | 762 | Esther Hadassah |
+| 101 | 772 | Esther Hadassah |
 | 102 | 758 | Regina Williams |
 | 103 | 749 | Hairy Snake |
 | 104 | 744 | adrian |

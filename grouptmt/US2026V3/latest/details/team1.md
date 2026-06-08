@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:15:20 UTC
+# Standings for team1 as of 2026-06-08 09:16:19 UTC
 
 **Total Participants:** 1767
 
@@ -24,7 +24,7 @@
 | 16 | 5282 | Plucky Swipe |
 | 17 | 5141 | Hunter Rayborn |
 | 18 | 4249 | Cassidy Butler |
-| 19 | 4023 | Pdubbl3 |
+| 19 | 4043 | Pdubbl3 |
 | 20 | 3972 | Tekedra Wilson |
 | 21 | 3892 | Kkbk |
 | 22 | 3795 | jaimie |
@@ -78,9 +78,9 @@
 | 70 | 1093 | Sanjuro |
 | 71 | 1091 | Bre Maugh |
 | 72 | 1090 | Catara Renae Oliver |
-| 73 | 1078 | Danielle DeLozier Plesec |
-| 74 | 1071 | Kimberly Hernandez |
-| 75 | 1064 | Brian Bohanon II |
+| 73 | 1084 | Brian Bohanon II |
+| 74 | 1078 | Danielle DeLozier Plesec |
+| 75 | 1071 | Kimberly Hernandez |
 | 76 | 1028 | Chenell Gillard |
 | 77 | 1024 | Chill Clusterer |
 | 78 | 1018 | Court Court |
