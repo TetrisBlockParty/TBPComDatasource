@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:34:19 UTC
+# Standings for team2 as of 2026-06-08 11:34:42 UTC
 
 **Total Participants:** 2164
 
@@ -27,10 +27,10 @@
 | 19 | 5585 | Renee Weedling |
 | 20 | 5268 | Ber |
 | 21 | 5150 | boblawboblaw |
-| 22 | 5059 | Kathleen M Cox |
+| 22 | 5109 | Kathleen M Cox |
 | 23 | 4947 | Lola C Davis |
-| 24 | 4803 | Alexia Reagan |
-| 25 | 4796 | Cassie Swart |
+| 24 | 4891 | Cassie Swart |
+| 25 | 4803 | Alexia Reagan |
 | 26 | 4228 | Erica Dees Parks |
 | 27 | 4219 | Jewels |
 | 28 | 4137 | Danni Campa |
@@ -121,10 +121,10 @@
 | 113 | 897 | Mellzey |
 | 114 | 894 | Josh Twilley |
 | 115 | 885 | Frothy Fallgrid |
-| 116 | 854 | Amber Miller Wirick |
-| 117 | 853 | Sedy |
-| 118 | 849 | Brandi Thompson |
-| 119 | 847 | Sarah Griffey |
+| 116 | 876 | Sarah Griffey |
+| 117 | 854 | Amber Miller Wirick |
+| 118 | 853 | Sedy |
+| 119 | 849 | Brandi Thompson |
 | 120 | 845 | Cathy Tippett |
 | 121 | 841 | Erin Thomas |
 | 122 | 837 | Allie Bug |
@@ -193,13 +193,13 @@
 | 185 | 505 | Judy Long |
 | 186 | 504 | Milad Arzani |
 | 187 | 502 | Lori Whitman |
-| 188 | 500 | Samantha Carman |
-| 189 | 498 | Kelly Rogers |
-| 190 | 497 | Amy Gale |
-| 191 | 492 | Kaycie Shaffer |
-| 192 | 487 | Zesty Strikerbuilder |
-| 193 | 486 | Chirpy Grid |
-| 194 | 484 | Steven Craig |
+| 188 | 501 | Steven Craig |
+| 189 | 500 | Samantha Carman |
+| 190 | 498 | Kelly Rogers |
+| 191 | 497 | Amy Gale |
+| 192 | 492 | Kaycie Shaffer |
+| 193 | 487 | Zesty Strikerbuilder |
+| 194 | 486 | Chirpy Grid |
 | 195 | 483 | Karen Reid Cenkush |
 | 196 | 480 | DukeDino |
 | 197 | 480 | Jacob Carpenter |
@@ -685,27 +685,27 @@
 | 677 | 130 | gene15 |
 | 678 | 130 | Groovy Glider |
 | 679 | 130 | Amanda Bailey |
-| 680 | 130 | Tiffany Ann |
-| 681 | 129 | Armando Sabedra |
-| 682 | 129 | Tammy Botkin |
-| 683 | 129 | Kristi K Milner |
-| 684 | 129 | Chris Delauro |
-| 685 | 129 | Lively Twisterfit |
-| 686 | 129 | Carrie Smith Negron |
-| 687 | 129 | Nichole Fuller |
-| 688 | 129 | Susan Bosell |
-| 689 | 128 | Doug Small |
+| 680 | 130 | Doug Small |
+| 681 | 130 | Tiffany Ann |
+| 682 | 129 | Armando Sabedra |
+| 683 | 129 | Tammy Botkin |
+| 684 | 129 | Kristi K Milner |
+| 685 | 129 | Chris Delauro |
+| 686 | 129 | Lively Twisterfit |
+| 687 | 129 | Carrie Smith Negron |
+| 688 | 129 | Nichole Fuller |
+| 689 | 129 | Susan Bosell |
 | 690 | 128 | Tina Kinney |
 | 691 | 128 | Princess Cucumber |
 | 692 | 127 | Gina Leal |
-| 693 | 127 | Cool Patternbuilder |
-| 694 | 127 | Nicole Suber |
-| 695 | 127 | Abby |
-| 696 | 127 | Tammy Roth |
+| 693 | 127 | Tammy Roth |
+| 694 | 127 | Cool Patternbuilder |
+| 695 | 127 | Nicole Suber |
+| 696 | 127 | Abby |
 | 697 | 127 | Amber Marie |
-| 698 | 126 | Riggins Terry |
-| 699 | 126 | Earline Dupuy Bordelon |
-| 700 | 126 | Valeri Bradley |
+| 698 | 126 | Earline Dupuy Bordelon |
+| 699 | 126 | Valeri Bradley |
+| 700 | 126 | Riggins Terry |
 | 701 | 126 | Dandy Tiltgrid |
 | 702 | 125 | Nicole Treadway |
 | 703 | 125 | Frisky Linkbuilder |
