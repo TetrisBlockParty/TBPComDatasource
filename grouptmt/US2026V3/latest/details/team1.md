@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:12:40 UTC
+# Standings for team1 as of 2026-06-08 10:13:20 UTC
 
 **Total Participants:** 1774
 
@@ -131,8 +131,8 @@
 | 123 | 630 | Shontanese Adams |
 | 124 | 630 | Bambi Love |
 | 125 | 627 | Alana Renee |
-| 126 | 619 | Ottison Dianna |
-| 127 | 619 | La'Chae Nickole |
+| 126 | 619 | La'Chae Nickole |
+| 127 | 619 | Ottison Dianna |
 | 128 | 618 | Quirky Fallgrid |
 | 129 | 615 | Chuck Quarles |
 | 130 | 601 | Cathy Young |
@@ -141,10 +141,10 @@
 | 133 | 573 | Rackemwillie34 |
 | 134 | 566 | Trendalyn Webb |
 | 135 | 565 | Gotcha |
-| 136 | 561 | Carolynne Walker-Bell |
-| 137 | 556 | Rolanda Williams |
-| 138 | 555 | ELM |
-| 139 | 550 | Atlantalindi |
+| 136 | 562 | Atlantalindi |
+| 137 | 561 | Carolynne Walker-Bell |
+| 138 | 556 | Rolanda Williams |
+| 139 | 555 | ELM |
 | 140 | 550 | Genne Scott |
 | 141 | 546 | Cj Gorman |
 | 142 | 544 | Gael Quintana |
@@ -173,8 +173,8 @@
 | 165 | 447 | Ebony Waynes-robinson |
 | 166 | 446 | pooh |
 | 167 | 445 | Plucky Slamdrop |
-| 168 | 444 | Kevin M. McGhee Jr |
-| 169 | 444 | Helen Smith |
+| 168 | 444 | Helen Smith |
+| 169 | 444 | Kevin M. McGhee Jr |
 | 170 | 440 | Tanya Clayton |
 | 171 | 439 | Asani CHumba |
 | 172 | 437 | Tobey Marberry |
@@ -183,8 +183,8 @@
 | 175 | 431 | Lashawn Wallace |
 | 176 | 427 | Ty Øtg |
 | 177 | 427 | Tamara N Lee |
-| 178 | 420 | Hyper Slamdrop |
-| 179 | 420 | Jessica Carter |
+| 178 | 420 | Jessica Carter |
+| 179 | 420 | Hyper Slamdrop |
 | 180 | 417 | Dena Marie Lee |
 | 181 | 417 | Eugina Slater |
 | 182 | 414 | Jenna Renee |
@@ -729,13 +729,13 @@
 | 721 | 97 | Nichole Horsley-Conn |
 | 722 | 97 | Smiley Bridgepiece |
 | 723 | 97 | Shanell Thomas |
-| 724 | 97 | Lootch |
-| 725 | 97 | Kayel Good |
-| 726 | 96 | Karen Knapp |
-| 727 | 96 | meatballs |
-| 728 | 96 | Kimmie Gargano |
-| 729 | 96 | Just2Play$ |
-| 730 | 96 | C Lo Green |
+| 724 | 97 | C Lo Green |
+| 725 | 97 | Lootch |
+| 726 | 97 | Kayel Good |
+| 727 | 96 | Karen Knapp |
+| 728 | 96 | meatballs |
+| 729 | 96 | Kimmie Gargano |
+| 730 | 96 | Just2Play$ |
 | 731 | 96 | Sara |
 | 732 | 96 | Yazz |
 | 733 | 96 | Sonia Binti Mfalme |

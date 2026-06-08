@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:12:40 UTC
+# Standings for team2 as of 2026-06-08 10:13:20 UTC
 
 **Total Participants:** 2147
 
@@ -22,7 +22,7 @@
 | 14 | 6147 | Tim Ix |
 | 15 | 6114 | Morgann McDaniel |
 | 16 | 5961 | Brandon Brown |
-| 17 | 5708 | Andre Love |
+| 17 | 5728 | Andre Love |
 | 18 | 5585 | Renee Weedling |
 | 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
