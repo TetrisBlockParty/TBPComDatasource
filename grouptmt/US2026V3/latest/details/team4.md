@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 03:48:40 UTC
+# Standings for team4 as of 2026-06-08 03:49:18 UTC
 
 **Total Participants:** 1732
 
@@ -144,19 +144,19 @@
 | 136 | 520 | DexterDobbins |
 | 137 | 517 | Nikki Fuller Johnson |
 | 138 | 512 | Esther Hadassah |
-| 139 | 496 | Jackie Jackson |
-| 140 | 494 | Yesenia Castro Monreal |
-| 141 | 480 | Hardy Fuller |
-| 142 | 476 | Megan Vick |
-| 143 | 474 | Melissa WC |
-| 144 | 463 | Gorica Prusina |
-| 145 | 461 | Kayla Fuentes |
-| 146 | 448 | Kaash Brxtt |
+| 139 | 500 | Suzanne Carter |
+| 140 | 496 | Jackie Jackson |
+| 141 | 494 | Yesenia Castro Monreal |
+| 142 | 480 | Hardy Fuller |
+| 143 | 476 | Megan Vick |
+| 144 | 474 | Melissa WC |
+| 145 | 463 | Gorica Prusina |
+| 146 | 461 | Kayla Fuentes |
 | 147 | 448 | Alicia Cook |
-| 148 | 446 | Laguya |
-| 149 | 443 | Joyce Myers |
+| 148 | 448 | Kaash Brxtt |
+| 149 | 446 | Laguya |
 | 150 | 443 | Crissy Hoffman |
-| 151 | 440 | Suzanne Carter |
+| 151 | 443 | Joyce Myers |
 | 152 | 438 | Real Talk Vibes |
 | 153 | 437 | Danielle Mitchell |
 | 154 | 435 | BusterBear56 |
@@ -317,16 +317,16 @@
 | 309 | 220 | Anthony Magaraci |
 | 310 | 220 | Maurice DeJean |
 | 311 | 219 | Crystal Hammonds |
-| 312 | 219 | farfromlocal |
+| 312 | 219 | Spunky Gridzone |
 | 313 | 219 | Tiffany Smith |
-| 314 | 218 | Codey Haffner |
-| 315 | 216 | Smiley Gridzone |
-| 316 | 216 | Alyson M Kehler |
-| 317 | 215 | Jj Johnson |
-| 318 | 215 | Ash Gribble |
-| 319 | 214 | jaz |
-| 320 | 210 | Sfalcon1. |
-| 321 | 209 | Spunky Gridzone |
+| 314 | 219 | farfromlocal |
+| 315 | 218 | Codey Haffner |
+| 316 | 216 | Smiley Gridzone |
+| 317 | 216 | Alyson M Kehler |
+| 318 | 215 | Jj Johnson |
+| 319 | 215 | Ash Gribble |
+| 320 | 214 | jaz |
+| 321 | 210 | Sfalcon1. |
 | 322 | 209 | Lively Blockpiece |
 | 323 | 209 | Ashley Mcdonald |
 | 324 | 206 | Brandy Lynn |
@@ -443,13 +443,13 @@
 | 435 | 153 | Tarsha Thomas-Martinez |
 | 436 | 153 | Shawntae Mccary |
 | 437 | 151 | King |
-| 438 | 150 | Melissa Quinn |
-| 439 | 150 | Suzanne North |
-| 440 | 150 | Heidi Anne Scheiderer |
-| 441 | 150 | Bammer |
-| 442 | 150 | MrsReap |
-| 443 | 149 | Snazzy Fitclear |
-| 444 | 149 | Scrumptious |
+| 438 | 151 | Scrumptious |
+| 439 | 150 | Melissa Quinn |
+| 440 | 150 | Suzanne North |
+| 441 | 150 | Heidi Anne Scheiderer |
+| 442 | 150 | Bammer |
+| 443 | 150 | MrsReap |
+| 444 | 149 | Snazzy Fitclear |
 | 445 | 149 | Jennifer Garcia |
 | 446 | 149 | Zesty Lift |
 | 447 | 148 | Brandon Bedenbaugh |
