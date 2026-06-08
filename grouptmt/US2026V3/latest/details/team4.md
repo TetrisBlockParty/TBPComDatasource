@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:50:42 UTC
+# Standings for team4 as of 2026-06-08 07:51:20 UTC
 
 **Total Participants:** 1797
 
@@ -240,37 +240,37 @@
 | 232 | 302 | Maria Castillo |
 | 233 | 301 | Tiffany Bunker-Hill |
 | 234 | 300 | Genag |
-| 235 | 298 | Colin |
-| 236 | 296 | PerfectPieces |
+| 235 | 299 | George Palacios |
+| 236 | 298 | Colin |
 | 237 | 296 | Dae Von |
 | 238 | 296 | beauxie |
 | 239 | 296 | WeeWooWee |
-| 240 | 293 | Logan Two-dubs Baker |
-| 241 | 290 | Tawna Curry |
-| 242 | 289 | Shepreneur Sade |
-| 243 | 287 | Cheery Risegrid |
-| 244 | 286 | Pepper |
-| 245 | 286 | Erika Seaton |
-| 246 | 286 | Dubiousdust |
-| 247 | 285 | Dana Abegil Lawas |
-| 248 | 284 | Tipsy Builderline |
-| 249 | 283 | Tiggerjake |
-| 250 | 282 | Shanna Fragen |
-| 251 | 282 | Goofy Fall |
-| 252 | 281 | Waxboss |
-| 253 | 281 | Margie Thomas |
-| 254 | 281 | Ash Gribble |
-| 255 | 281 | Capone |
-| 256 | 280 | Snippy Splitter |
+| 240 | 296 | PerfectPieces |
+| 241 | 293 | Logan Two-dubs Baker |
+| 242 | 290 | Tawna Curry |
+| 243 | 289 | Shepreneur Sade |
+| 244 | 287 | Cheery Risegrid |
+| 245 | 286 | Dubiousdust |
+| 246 | 286 | Erika Seaton |
+| 247 | 286 | Pepper |
+| 248 | 285 | Dana Abegil Lawas |
+| 249 | 284 | Tipsy Builderline |
+| 250 | 283 | Tiggerjake |
+| 251 | 282 | Shanna Fragen |
+| 252 | 282 | Goofy Fall |
+| 253 | 281 | Waxboss |
+| 254 | 281 | Margie Thomas |
+| 255 | 281 | Ash Gribble |
+| 256 | 281 | Capone |
 | 257 | 280 | Lucy Honer |
-| 258 | 279 | Solace Grace |
-| 259 | 278 | Tamara Triplet |
-| 260 | 277 | Giggly Tilt |
-| 261 | 276 | Lori Stembridge |
-| 262 | 275 | Jeremy |
-| 263 | 274 | Dominique Melendez |
-| 264 | 274 | Sherry Mooney |
-| 265 | 273 | George Palacios |
+| 258 | 280 | Snippy Splitter |
+| 259 | 279 | Solace Grace |
+| 260 | 278 | Tamara Triplet |
+| 261 | 277 | Giggly Tilt |
+| 262 | 276 | Lori Stembridge |
+| 263 | 275 | Jeremy |
+| 264 | 274 | Dominique Melendez |
+| 265 | 274 | Sherry Mooney |
 | 266 | 271 | Tina Thomas |
 | 267 | 269 | Spicy Chicken |
 | 268 | 269 | Spunky Gridzone |
