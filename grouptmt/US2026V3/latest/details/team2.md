@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:06:19 UTC
+# Standings for team2 as of 2026-06-08 02:06:44 UTC
 
 **Total Participants:** 2024
 
@@ -143,9 +143,9 @@
 | 135 | 668 | Mirr Lulu |
 | 136 | 660 | Nikki Carter |
 | 137 | 643 | Alison Waller |
-| 138 | 635 | Tisha Hairston |
-| 139 | 634 | Melissa Thomas |
-| 140 | 632 | Jackie Tupper |
+| 138 | 635 | Jackie Tupper |
+| 139 | 635 | Tisha Hairston |
+| 140 | 634 | Melissa Thomas |
 | 141 | 627 | Nettrainer |
 | 142 | 627 | Rhonda Diebold |
 | 143 | 626 | Dsabrina Maxey |
@@ -188,15 +188,15 @@
 | 180 | 448 | Eric Drane |
 | 181 | 445 | Gill |
 | 182 | 444 | Danielle Blount |
-| 183 | 442 | Christina Maria |
-| 184 | 442 | MegaPooh |
+| 183 | 442 | MegaPooh |
+| 184 | 442 | Christina Maria |
 | 185 | 436 | DukeDino |
 | 186 | 435 | Milad Arzani |
 | 187 | 434 | Frilly Dashfit |
 | 188 | 431 | AndyJo |
-| 189 | 429 | Snappy Blockbuilder |
+| 189 | 429 | Cool Climber |
 | 190 | 429 | Suki Jacobs |
-| 191 | 429 | Cool Climber |
+| 191 | 429 | Snappy Blockbuilder |
 | 192 | 428 | Zany Blockclear |
 | 193 | 428 | Physhie |
 | 194 | 427 | Janelle Edgecombe |
@@ -216,16 +216,16 @@
 | 208 | 405 | Amy Gregg |
 | 209 | 405 | MaddieCherie |
 | 210 | 402 | Brenda Jones |
-| 211 | 392 | Bri St Peter |
-| 212 | 392 | Leigh Ann |
-| 213 | 391 | La chulis |
-| 214 | 390 | Goofy Gridclear |
-| 215 | 385 | Jat |
-| 216 | 383 | Jenna Stahl |
-| 217 | 382 | Nikki Hayes |
-| 218 | 381 | Joslyn Johnson |
-| 219 | 380 | Bb |
-| 220 | 380 | Nikki EightySixed |
+| 211 | 392 | Nikki EightySixed |
+| 212 | 392 | Bri St Peter |
+| 213 | 392 | Leigh Ann |
+| 214 | 391 | La chulis |
+| 215 | 390 | Goofy Gridclear |
+| 216 | 385 | Jat |
+| 217 | 383 | Jenna Stahl |
+| 218 | 382 | Nikki Hayes |
+| 219 | 381 | Joslyn Johnson |
+| 220 | 380 | Bb |
 | 221 | 379 | Greta Warden |
 | 222 | 378 | Gabrielle Wilson |
 | 223 | 376 | Jamie Fenyus |
@@ -1933,45 +1933,45 @@
 | 1925 | 10 | Crasher |
 | 1926 | 10 | Kathi Patrick |
 | 1927 | 10 | Jimberlee Akuna |
-| 1928 | 10 | Lorrie Girardi |
+| 1928 | 10 | Laura Rake |
 | 1929 | 10 | LilMs101 |
-| 1930 | 10 | Laura Rake |
-| 1931 | 9 | Catalina Castro |
-| 1932 | 9 | Dapper Corner |
-| 1933 | 9 | Rebekah Conn |
-| 1934 | 9 | zee |
-| 1935 | 9 | Cordillia Barela |
-| 1936 | 9 | Angela-Josh Millan |
-| 1937 | 9 | PortersWife87 |
-| 1938 | 9 | Shawn Bossuot |
-| 1939 | 9 | Yuhh |
-| 1940 | 9 | Lindsey Butler |
-| 1941 | 9 | Bethany Gerber |
-| 1942 | 9 | Cheery Striker |
-| 1943 | 9 | yep |
-| 1944 | 9 | Jeff Mullins |
-| 1945 | 9 | Naomi Christiansen |
-| 1946 | 9 | Lori Loup |
-| 1947 | 9 | Terri Ramsey |
-| 1948 | 9 | Giggly Spinblock |
-| 1949 | 9 | Snazzy Cascadezone |
-| 1950 | 8 | Funky Slide |
-| 1951 | 8 | Mariah Mandel |
-| 1952 | 8 | Crystal Alexander |
-| 1953 | 8 | Tina Doyens Munis |
-| 1954 | 8 | Zippy Balance |
-| 1955 | 8 | Jumpy Twistslam |
-| 1956 | 8 | Perky Party |
-| 1957 | 8 | Twisty Tower |
-| 1958 | 8 | Elizabeth Miller |
-| 1959 | 8 | Chirpy Rollfit |
-| 1960 | 8 | Crystal Greene |
-| 1961 | 8 | Lissa |
-| 1962 | 8 | Sammi Jo |
-| 1963 | 8 | Brandy McGuffey |
-| 1964 | 8 | Disguised Duck |
-| 1965 | 7 | Marshall Wilson |
-| 1966 | 7 | bluesky |
+| 1930 | 10 | Lorrie Girardi |
+| 1931 | 9 | Crystal Greene |
+| 1932 | 9 | Yuhh |
+| 1933 | 9 | Catalina Castro |
+| 1934 | 9 | Dapper Corner |
+| 1935 | 9 | Rebekah Conn |
+| 1936 | 9 | zee |
+| 1937 | 9 | Cordillia Barela |
+| 1938 | 9 | Angela-Josh Millan |
+| 1939 | 9 | PortersWife87 |
+| 1940 | 9 | Shawn Bossuot |
+| 1941 | 9 | Lindsey Butler |
+| 1942 | 9 | Bethany Gerber |
+| 1943 | 9 | Cheery Striker |
+| 1944 | 9 | yep |
+| 1945 | 9 | Jeff Mullins |
+| 1946 | 9 | Naomi Christiansen |
+| 1947 | 9 | Lori Loup |
+| 1948 | 9 | Terri Ramsey |
+| 1949 | 9 | Giggly Spinblock |
+| 1950 | 9 | Snazzy Cascadezone |
+| 1951 | 8 | Funky Slide |
+| 1952 | 8 | Mariah Mandel |
+| 1953 | 8 | Crystal Alexander |
+| 1954 | 8 | Tina Doyens Munis |
+| 1955 | 8 | Zippy Balance |
+| 1956 | 8 | Jumpy Twistslam |
+| 1957 | 8 | Sammi Jo |
+| 1958 | 8 | Lissa |
+| 1959 | 8 | Brandy McGuffey |
+| 1960 | 8 | Disguised Duck |
+| 1961 | 8 | Chirpy Rollfit |
+| 1962 | 8 | Twisty Tower |
+| 1963 | 8 | Perky Party |
+| 1964 | 8 | Elizabeth Miller |
+| 1965 | 7 | bluesky |
+| 1966 | 7 | Marshall Wilson |
 | 1967 | 7 | Sassy Swiper |
 | 1968 | 7 | Carl Gadberry |
 | 1969 | 7 | VikinGs Vnm |
