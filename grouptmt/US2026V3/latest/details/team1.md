@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:02:21 UTC
+# Standings for team1 as of 2026-06-08 23:02:46 UTC
 
 **Total Participants:** 1894
 
@@ -297,9 +297,9 @@
 | 289 | 330 | Jhonny Maii |
 | 290 | 330 | ♈️ Ariesbaby |
 | 291 | 329 | Bbyunicorn |
-| 292 | 328 | Chummy Frame |
-| 293 | 325 | Cortaz Lawrie |
-| 294 | 325 | Simone Bailey |
+| 292 | 329 | Simone Bailey |
+| 293 | 328 | Chummy Frame |
+| 294 | 325 | Cortaz Lawrie |
 | 295 | 324 | Frisky Fall |
 | 296 | 323 | Denise B |
 | 297 | 321 | Mikayla |
@@ -567,144 +567,144 @@
 | 559 | 167 | Mister Reid |
 | 560 | 166 | Sarah Steckbauer |
 | 561 | 166 | Melissa Olvera |
-| 562 | 165 | Betsy B. Yohan |
-| 563 | 165 | Lucy |
-| 564 | 165 | Alexandrla Smith |
+| 562 | 165 | Alexandrla Smith |
+| 563 | 165 | Betsy B. Yohan |
+| 564 | 165 | Lucy |
 | 565 | 164 | Amy Villalpando |
 | 566 | 164 | Jes Marie |
-| 567 | 163 | Kelvin Cook |
-| 568 | 163 | Heather Wilson |
-| 569 | 163 | QueenShay AllGood |
-| 570 | 163 | Darrelle Short |
-| 571 | 162 | Logan Frost |
-| 572 | 162 | Jessie N Michael Silvers |
-| 573 | 162 | Speedy Stacky |
-| 574 | 162 | Holly Baker |
-| 575 | 162 | Victor |
-| 576 | 161 | DaemahnFriday |
+| 567 | 163 | Darrelle Short |
+| 568 | 163 | Kelvin Cook |
+| 569 | 163 | Heather Wilson |
+| 570 | 163 | QueenShay AllGood |
+| 571 | 162 | Speedy Stacky |
+| 572 | 162 | Holly Baker |
+| 573 | 162 | Victor |
+| 574 | 162 | Jessie N Michael Silvers |
+| 575 | 162 | Logan Frost |
+| 576 | 161 | meatballs |
 | 577 | 161 | Devron Reedy |
-| 578 | 161 | meatballs |
-| 579 | 161 | Rosalind Chatman |
-| 580 | 160 | Kesha Brady |
-| 581 | 160 | Spotlight |
-| 582 | 160 | Cheeky Twistpiece |
-| 583 | 160 | Carolyn Smith |
-| 584 | 159 | Kyle Conley |
-| 585 | 159 | Frances Davis |
-| 586 | 159 | Loopy Tiler |
-| 587 | 159 | Twisty Brickfit |
-| 588 | 159 | Latore Maxie |
-| 589 | 159 | Tee Spinks |
-| 590 | 158 | TotoCherue |
+| 578 | 161 | Rosalind Chatman |
+| 579 | 161 | RylonJones |
+| 580 | 161 | DaemahnFriday |
+| 581 | 160 | Kesha Brady |
+| 582 | 160 | Spotlight |
+| 583 | 160 | Cheeky Twistpiece |
+| 584 | 160 | Carolyn Smith |
+| 585 | 159 | Kyle Conley |
+| 586 | 159 | Frances Davis |
+| 587 | 159 | Loopy Tiler |
+| 588 | 159 | Twisty Brickfit |
+| 589 | 159 | Latore Maxie |
+| 590 | 159 | Tee Spinks |
 | 591 | 158 | Giddy Staggerpiece |
-| 592 | 158 | Seddrick |
-| 593 | 158 | SnazzyIvy |
-| 594 | 157 | Chirpy Buildgrid |
-| 595 | 157 | Zany Breaker |
-| 596 | 157 | krd |
-| 597 | 157 | Lilly Brown |
-| 598 | 156 | Ryan Runyan |
+| 592 | 158 | TotoCherue |
+| 593 | 158 | Seddrick |
+| 594 | 158 | SnazzyIvy |
+| 595 | 157 | Lilly Brown |
+| 596 | 157 | Chirpy Buildgrid |
+| 597 | 157 | Zany Breaker |
+| 598 | 157 | krd |
 | 599 | 156 | Polite Granny |
 | 600 | 156 | Melissa Hershberger |
 | 601 | 156 | Karen Denen |
-| 602 | 156 | Peppy Wipeblock |
-| 603 | 156 | Casey Chapman |
-| 604 | 156 | Sara |
-| 605 | 156 | Shalya Terry |
-| 606 | 156 | Montego Allen |
-| 607 | 155 | Kala Miller |
-| 608 | 155 | Nerdy Climber |
-| 609 | 155 | MzJuice Box |
-| 610 | 154 | Rebecca Jackson |
-| 611 | 154 | Kp |
-| 612 | 154 | Glitzy Clusterer |
-| 613 | 154 | Lynn |
-| 614 | 152 | Essence Jones |
-| 615 | 152 | Duncan Timothy |
-| 616 | 152 | Nyhlah Patterson |
-| 617 | 152 | Yashica Smith |
-| 618 | 152 | Wacky Stackbuilder |
-| 619 | 151 | James Bryant II |
-| 620 | 151 | Pj Rojas |
-| 621 | 150 | Taneka Howell |
-| 622 | 150 | Marshall Davis |
+| 602 | 156 | Ryan Runyan |
+| 603 | 156 | Peppy Wipeblock |
+| 604 | 156 | Casey Chapman |
+| 605 | 156 | Sara |
+| 606 | 156 | Shalya Terry |
+| 607 | 156 | Montego Allen |
+| 608 | 155 | Kala Miller |
+| 609 | 155 | Nerdy Climber |
+| 610 | 155 | MzJuice Box |
+| 611 | 154 | Lynn |
+| 612 | 154 | Kp |
+| 613 | 154 | Rebecca Jackson |
+| 614 | 154 | Glitzy Clusterer |
+| 615 | 152 | Wacky Stackbuilder |
+| 616 | 152 | Essence Jones |
+| 617 | 152 | Duncan Timothy |
+| 618 | 152 | Nyhlah Patterson |
+| 619 | 152 | Yashica Smith |
+| 620 | 151 | James Bryant II |
+| 621 | 151 | Pj Rojas |
+| 622 | 150 | Taneka Howell |
 | 623 | 150 | Antoinette Jones |
 | 624 | 150 | Kanary Karotz |
-| 625 | 150 | Ad Doctor |
-| 626 | 150 | Cheri Robinson |
-| 627 | 150 | BB |
-| 628 | 149 | Kristie |
-| 629 | 148 | P C |
-| 630 | 148 | Cauiasia DeJ'ae |
-| 631 | 148 | GetDaOPPS |
-| 632 | 148 | Semaj Johnson |
-| 633 | 148 | Rhianna Dinki Austin |
-| 634 | 147 | Mathew Trudell |
-| 635 | 146 | Yashicha Hertzock |
-| 636 | 146 | whatever |
+| 625 | 150 | Marshall Davis |
+| 626 | 150 | Ad Doctor |
+| 627 | 150 | Cheri Robinson |
+| 628 | 150 | BB |
+| 629 | 149 | Kristie |
+| 630 | 148 | GetDaOPPS |
+| 631 | 148 | Semaj Johnson |
+| 632 | 148 | P C |
+| 633 | 148 | Cauiasia DeJ'ae |
+| 634 | 148 | Rhianna Dinki Austin |
+| 635 | 147 | Mathew Trudell |
+| 636 | 146 | TRUBBLE45 |
 | 637 | 146 | Bella |
-| 638 | 146 | TRUBBLE45 |
-| 639 | 146 | Spicy Shatterblock |
-| 640 | 146 | Guard Up |
-| 641 | 146 | FunTime |
-| 642 | 145 | lizlizliz |
+| 638 | 146 | Spicy Shatterblock |
+| 639 | 146 | Guard Up |
+| 640 | 146 | whatever |
+| 641 | 146 | Yashicha Hertzock |
+| 642 | 146 | FunTime |
 | 643 | 145 | MrsDontPlay |
-| 644 | 144 | Kiki |
-| 645 | 144 | Amihan |
-| 646 | 144 | Glitzy Patternline |
-| 647 | 144 | Dapper Matchfit |
-| 648 | 144 | Cm |
-| 649 | 143 | Marlynnnnn |
-| 650 | 143 | Andy Rivera |
+| 644 | 145 | lizlizliz |
+| 645 | 144 | Kiki |
+| 646 | 144 | Amihan |
+| 647 | 144 | Glitzy Patternline |
+| 648 | 144 | Dapper Matchfit |
+| 649 | 144 | Cm |
+| 650 | 143 | Shameka Tiffany |
 | 651 | 143 | Shanell Thomas |
-| 652 | 142 | Joseph Vs Cap |
-| 653 | 142 | Mary Goode |
-| 654 | 142 | Jasmine Hariston-Estis |
-| 655 | 141 | Octavia Bsb Johnson |
-| 656 | 141 | Krystal Maynard |
-| 657 | 141 | Kim Holzmiller |
-| 658 | 141 | Ashley Monet Terrell |
-| 659 | 141 | Shalena Marie Humphrey |
-| 660 | 141 | RylonJones |
-| 661 | 140 | TBabii24 |
-| 662 | 140 | Eric Machuca |
-| 663 | 140 | Kennedi Brazziel |
+| 652 | 143 | Andy Rivera |
+| 653 | 143 | Marlynnnnn |
+| 654 | 142 | Joseph Vs Cap |
+| 655 | 142 | Jasmine Hariston-Estis |
+| 656 | 142 | Mary Goode |
+| 657 | 141 | Krystal Maynard |
+| 658 | 141 | Shalena Marie Humphrey |
+| 659 | 141 | Kim Holzmiller |
+| 660 | 141 | Ashley Monet Terrell |
+| 661 | 141 | Octavia Bsb Johnson |
+| 662 | 140 | Kennedi Brazziel |
+| 663 | 140 | TBabii24 |
 | 664 | 140 | Shadon McMillan |
-| 665 | 140 | Tory Miller |
-| 666 | 139 | Antoinette Kelly |
-| 667 | 139 | Rochelle Nash-Evans |
-| 668 | 139 | Shameka Tiffany |
+| 665 | 140 | Eric Machuca |
+| 666 | 140 | Tory Miller |
+| 667 | 139 | Antoinette Kelly |
+| 668 | 139 | Rochelle Nash-Evans |
 | 669 | 138 | Gbnola |
 | 670 | 138 | Ozell Jones Jr. |
-| 671 | 138 | Claudia Price |
-| 672 | 138 | messyboots |
+| 671 | 138 | messyboots |
+| 672 | 138 | Rene Hicks |
 | 673 | 138 | Chloe Bankz |
-| 674 | 138 | Rene Hicks |
+| 674 | 138 | Claudia Price |
 | 675 | 137 | Angelique Talbot |
-| 676 | 136 | BonnieB |
+| 676 | 136 | Marbama |
 | 677 | 136 | Christina Singleton |
-| 678 | 136 | Marbama |
-| 679 | 136 | The DUBZ |
+| 678 | 136 | The DUBZ |
+| 679 | 136 | BonnieB |
 | 680 | 135 | Saucy Tile |
 | 681 | 135 | Paul Pendley |
 | 682 | 134 | Hyedie Badie |
-| 683 | 134 | Clint Mcdowell |
-| 684 | 134 | Anastasia |
-| 685 | 134 | Dana Hawes |
-| 686 | 133 | Kimberly Susan Privette |
-| 687 | 133 | Derald Miller |
+| 683 | 134 | Dana Hawes |
+| 684 | 134 | Clint Mcdowell |
+| 685 | 134 | Anastasia |
+| 686 | 133 | Derald Miller |
+| 687 | 133 | Kimberly Susan Privette |
 | 688 | 132 | TieMs BHughez |
 | 689 | 132 | Jeffrey Barrows |
 | 690 | 132 | Bambam |
-| 691 | 131 | Kimberly Anderson |
-| 692 | 131 | Christy Quick |
+| 691 | 131 | Christy Quick |
+| 692 | 131 | Kimberly Anderson |
 | 693 | 131 | Cynthia Cruell |
-| 694 | 130 | Jessica Davis |
-| 695 | 130 | Daniel Santana |
-| 696 | 130 | Nora Mahmoud |
-| 697 | 130 | Gerold Folk Haddock |
-| 698 | 130 | Jen Hallin |
-| 699 | 130 | AnnaM |
+| 694 | 130 | Daniel Santana |
+| 695 | 130 | Jessica Davis |
+| 696 | 130 | Jen Hallin |
+| 697 | 130 | Nora Mahmoud |
+| 698 | 130 | AnnaM |
+| 699 | 130 | Gerold Folk Haddock |
 | 700 | 130 | Tito Divyn |
 | 701 | 130 | Stacy Nicole |
 | 702 | 130 | Victoria Smith |
