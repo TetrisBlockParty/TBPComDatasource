@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:48:20 UTC
+# Standings for team4 as of 2026-06-08 14:48:43 UTC
 
 **Total Participants:** 1848
 
@@ -149,7 +149,7 @@
 | 141 | 582 | Lisa Garcia |
 | 142 | 581 | Dandy Puzzler |
 | 143 | 566 | Dee Wizz |
-| 144 | 550 | Katie Martin |
+| 144 | 559 | Katie Martin |
 | 145 | 550 | Nicole Peoples |
 | 146 | 548 | Katie Lynn Petit |
 | 147 | 548 | Gorica Prusina |
@@ -185,9 +185,9 @@
 | 177 | 437 | Scamp Jones |
 | 178 | 437 | Danielle Mitchell |
 | 179 | 435 | BusterBear56 |
-| 180 | 432 | Piece of Cake |
-| 181 | 429 | Cyndi Najar |
-| 182 | 427 | Taz |
+| 180 | 432 | Taz |
+| 181 | 432 | Piece of Cake |
+| 182 | 429 | Cyndi Najar |
 | 183 | 426 | Nicole |
 | 184 | 425 | Kristen Wallace |
 | 185 | 424 | Futrell Brent |
