@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 18:38:20 UTC
+# Standings for team4 as of 2026-06-08 18:38:43 UTC
 
 **Total Participants:** 1892
 
@@ -39,7 +39,7 @@
 | 31 | 3644 | Juan Ford |
 | 32 | 3440 | Chummy Rollzone |
 | 33 | 3421 | Fruitpunch |
-| 34 | 3364 | Watupall13 |
+| 34 | 3384 | Watupall13 |
 | 35 | 3352 | Boldy Crusher |
 | 36 | 3200 | Leah Gorsuch |
 | 37 | 3200 | Irene Arreguin |
@@ -504,14 +504,14 @@
 | 496 | 182 | Ashley Eskridge |
 | 497 | 181 | Jen Smith |
 | 498 | 180 | BookwormCate |
-| 499 | 180 | Jrr |
-| 500 | 180 | Keke Johnson |
-| 501 | 180 | Ada Rodriguez Spradley |
-| 502 | 180 | Bri Martin |
-| 503 | 180 | Silly Rollbuilder |
-| 504 | 180 | Tipsy Piecebuilder |
-| 505 | 179 | Has2brat |
-| 506 | 178 | Linda |
+| 499 | 180 | Linda |
+| 500 | 180 | Jrr |
+| 501 | 180 | Keke Johnson |
+| 502 | 180 | Ada Rodriguez Spradley |
+| 503 | 180 | Bri Martin |
+| 504 | 180 | Silly Rollbuilder |
+| 505 | 180 | Tipsy Piecebuilder |
+| 506 | 179 | Has2brat |
 | 507 | 178 | Heidi Anne Scheiderer |
 | 508 | 177 | Suzanne North |
 | 509 | 176 | Deana Teck |
@@ -1328,19 +1328,19 @@
 | 1320 | 43 | Lin Ferguson |
 | 1321 | 43 | Chelsea Guajardo |
 | 1322 | 43 | Christopher Ponceja |
-| 1323 | 43 | Shirley Williams |
-| 1324 | 43 | Amina Walker |
-| 1325 | 43 | Purple Queen |
-| 1326 | 43 | Baby cat |
-| 1327 | 42 | Snappy Patternfall |
-| 1328 | 42 | Myranda Gereau |
-| 1329 | 42 | Shupurplenurkle |
-| 1330 | 42 | Chelle Williams |
-| 1331 | 42 | Amy |
-| 1332 | 42 | Mounique Melenciano |
-| 1333 | 42 | Mighty Dash |
-| 1334 | 42 | Gr8flluv1 |
-| 1335 | 42 | Toyag |
+| 1323 | 43 | Toyag |
+| 1324 | 43 | Shirley Williams |
+| 1325 | 43 | Amina Walker |
+| 1326 | 43 | Purple Queen |
+| 1327 | 43 | Baby cat |
+| 1328 | 42 | Snappy Patternfall |
+| 1329 | 42 | Myranda Gereau |
+| 1330 | 42 | Shupurplenurkle |
+| 1331 | 42 | Chelle Williams |
+| 1332 | 42 | Amy |
+| 1333 | 42 | Mounique Melenciano |
+| 1334 | 42 | Mighty Dash |
+| 1335 | 42 | Gr8flluv1 |
 | 1336 | 41 | Bold Clear |
 | 1337 | 41 | Bookgirl69 |
 | 1338 | 41 | Jordan Tamayia Williams |
