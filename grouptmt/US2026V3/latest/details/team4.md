@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 01:32:20 UTC
+# Standings for team4 as of 2026-06-08 01:32:43 UTC
 
 **Total Participants:** 1687
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 15905 | Lyza |
-| 2 | 15150 | Lisa Cullum |
+| 2 | 15249 | Lisa Cullum |
 | 3 | 14500 | Jessica Sheehan |
 | 4 | 14276 | Hanan Hana |
 | 5 | 12038 | Loony Rotater |
