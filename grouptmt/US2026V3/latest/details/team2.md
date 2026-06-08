@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:56:43 UTC
+# Standings for team2 as of 2026-06-08 15:57:21 UTC
 
 **Total Participants:** 2203
 
@@ -245,10 +245,10 @@
 | 237 | 434 | Katrien |
 | 238 | 434 | Janelle Edgecombe |
 | 239 | 429 | Nikki EightySixed |
-| 240 | 428 | Physhie |
-| 241 | 427 | Flower_child |
-| 242 | 427 | SilentBuffalo |
-| 243 | 427 | Joni Michelle Morgan |
+| 240 | 428 | Joni Michelle Morgan |
+| 241 | 428 | Physhie |
+| 242 | 427 | Flower_child |
+| 243 | 427 | SilentBuffalo |
 | 244 | 423 | Becca Marie |
 | 245 | 423 | MaddieCherie |
 | 246 | 423 | Tara |
