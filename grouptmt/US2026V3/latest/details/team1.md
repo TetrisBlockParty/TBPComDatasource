@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:26:43 UTC
+# Standings for team1 as of 2026-06-08 23:27:20 UTC
 
 **Total Participants:** 1896
 
@@ -156,7 +156,7 @@
 | 148 | 629 | Charletha Williams |
 | 149 | 627 | Alana Renee |
 | 150 | 617 | Crystal Anderson |
-| 151 | 611 | Lesley Brunkus Cianfaglione |
+| 151 | 614 | Lesley Brunkus Cianfaglione |
 | 152 | 611 | SyTheEvilGenius1 |
 | 153 | 599 | Tammye Turner |
 | 154 | 596 | Cj Gorman |
@@ -550,15 +550,15 @@
 | 542 | 179 | Skippy |
 | 543 | 179 | Jimmy Shannon |
 | 544 | 179 | Giggy Clusterer |
-| 545 | 178 | Dede Tate |
-| 546 | 178 | Shannon Carriger |
-| 547 | 177 | PSD |
+| 545 | 178 | Shannon Carriger |
+| 546 | 178 | Dede Tate |
+| 547 | 177 | Cece Fowler |
 | 548 | 177 | Tangy Moore |
-| 549 | 177 | Cece Fowler |
-| 550 | 176 | Darrelle Short |
-| 551 | 176 | Frisky Gridder |
-| 552 | 176 | Char |
-| 553 | 176 | Squaw Ki Ng |
+| 549 | 177 | PSD |
+| 550 | 176 | Char |
+| 551 | 176 | Squaw Ki Ng |
+| 552 | 176 | Darrelle Short |
+| 553 | 176 | Frisky Gridder |
 | 554 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 555 | 174 | Clipzby |
 | 556 | 174 | Rosalind Chatman |
@@ -571,47 +571,47 @@
 | 563 | 168 | Lounique |
 | 564 | 167 | Joka NoTime ForHataz |
 | 565 | 167 | Mister Reid |
-| 566 | 166 | Sarah Steckbauer |
+| 566 | 166 | Melissa Olvera |
 | 567 | 166 | Twisty Brickfit |
-| 568 | 166 | Melissa Olvera |
-| 569 | 165 | Alexandrla Smith |
-| 570 | 165 | Lucy |
-| 571 | 165 | Betsy B. Yohan |
-| 572 | 164 | Amy Villalpando |
-| 573 | 164 | Jes Marie |
+| 568 | 166 | Sarah Steckbauer |
+| 569 | 165 | Betsy B. Yohan |
+| 570 | 165 | Alexandrla Smith |
+| 571 | 165 | Lucy |
+| 572 | 164 | Jes Marie |
+| 573 | 164 | Amy Villalpando |
 | 574 | 163 | Heather Wilson |
-| 575 | 163 | Kelvin Cook |
-| 576 | 163 | QueenShay AllGood |
-| 577 | 162 | Jessie N Michael Silvers |
-| 578 | 162 | Logan Frost |
-| 579 | 162 | Speedy Stacky |
-| 580 | 162 | Victor |
-| 581 | 162 | Holly Baker |
+| 575 | 163 | QueenShay AllGood |
+| 576 | 163 | Kelvin Cook |
+| 577 | 162 | Holly Baker |
+| 578 | 162 | Jessie N Michael Silvers |
+| 579 | 162 | Victor |
+| 580 | 162 | Logan Frost |
+| 581 | 162 | Speedy Stacky |
 | 582 | 161 | RylonJones |
-| 583 | 161 | Devron Reedy |
-| 584 | 161 | DaemahnFriday |
+| 583 | 161 | DaemahnFriday |
+| 584 | 161 | Devron Reedy |
 | 585 | 161 | meatballs |
-| 586 | 160 | Spotlight |
-| 587 | 160 | Cheeky Twistpiece |
-| 588 | 160 | Carolyn Smith |
-| 589 | 160 | Kesha Brady |
+| 586 | 160 | Carolyn Smith |
+| 587 | 160 | Kesha Brady |
+| 588 | 160 | Cheeky Twistpiece |
+| 589 | 160 | Spotlight |
 | 590 | 159 | Kyle Conley |
-| 591 | 159 | Tee Spinks |
-| 592 | 159 | Peppy Wipeblock |
-| 593 | 159 | Frances Davis |
-| 594 | 159 | Latore Maxie |
-| 595 | 158 | Giddy Staggerpiece |
-| 596 | 158 | SnazzyIvy |
+| 591 | 159 | Latore Maxie |
+| 592 | 159 | Tee Spinks |
+| 593 | 159 | Peppy Wipeblock |
+| 594 | 159 | Frances Davis |
+| 595 | 159 | Montego Allen |
+| 596 | 158 | Giddy Staggerpiece |
 | 597 | 158 | TotoCherue |
-| 598 | 158 | Seddrick |
-| 599 | 157 | Chirpy Buildgrid |
-| 600 | 157 | krd |
-| 601 | 157 | Zany Breaker |
+| 598 | 158 | SnazzyIvy |
+| 599 | 158 | Seddrick |
+| 600 | 157 | Chirpy Buildgrid |
+| 601 | 157 | krd |
 | 602 | 157 | Lilly Brown |
-| 603 | 156 | Ryan Runyan |
-| 604 | 156 | Karen Denen |
-| 605 | 156 | Sara |
-| 606 | 156 | Montego Allen |
+| 603 | 157 | Zany Breaker |
+| 604 | 156 | Ryan Runyan |
+| 605 | 156 | Karen Denen |
+| 606 | 156 | Sara |
 | 607 | 156 | Polite Granny |
 | 608 | 156 | Shalya Terry |
 | 609 | 156 | Melissa Hershberger |
@@ -1434,34 +1434,34 @@
 | 1426 | 34 | Zayy Wavyy |
 | 1427 | 34 | April Lane |
 | 1428 | 34 | beeutifullll |
-| 1429 | 34 | Bouncy Brickroll |
-| 1430 | 34 | Spadez1231 |
-| 1431 | 34 | Danielle Scholfield |
-| 1432 | 34 | Fancy Strikerbuilder |
-| 1433 | 34 | Jumpy Brickbuilder |
+| 1429 | 34 | Spadez1231 |
+| 1430 | 34 | Bouncy Brickroll |
+| 1431 | 34 | Jumpy Brickbuilder |
+| 1432 | 34 | Danielle Scholfield |
+| 1433 | 34 | Fancy Strikerbuilder |
 | 1434 | 33 | Michelle Boutherpaper Francis |
 | 1435 | 33 | Jateerah Davis |
 | 1436 | 33 | Rose Chassé |
 | 1437 | 33 | Kim Ratcliff Leatherman |
 | 1438 | 33 | Silly Matchbuilder |
 | 1439 | 33 | Koz176 |
-| 1440 | 33 | Clever Blocker |
-| 1441 | 33 | Brianna Floyd |
-| 1442 | 33 | MeatSweats |
-| 1443 | 33 | Flash97 |
-| 1444 | 32 | Nikita Jones |
-| 1445 | 32 | Sylvia Holst |
-| 1446 | 32 | Kimberly Haynes |
-| 1447 | 32 | Van Cunning |
-| 1448 | 32 | Stephanie Scott |
-| 1449 | 32 | Beth Ingham |
-| 1450 | 32 | Ember Hammond |
-| 1451 | 32 | Evee |
-| 1452 | 32 | Alisia Johns |
-| 1453 | 31 | EchoQuirky Blockclear |
-| 1454 | 31 | Dapper Balancefit |
-| 1455 | 31 | Groovy Gridzone |
-| 1456 | 31 | Zany Pivot |
+| 1440 | 33 | Zany Pivot |
+| 1441 | 33 | Clever Blocker |
+| 1442 | 33 | Brianna Floyd |
+| 1443 | 33 | MeatSweats |
+| 1444 | 33 | Flash97 |
+| 1445 | 32 | Nikita Jones |
+| 1446 | 32 | Sylvia Holst |
+| 1447 | 32 | Kimberly Haynes |
+| 1448 | 32 | Van Cunning |
+| 1449 | 32 | Stephanie Scott |
+| 1450 | 32 | Beth Ingham |
+| 1451 | 32 | Ember Hammond |
+| 1452 | 32 | Evee |
+| 1453 | 32 | Alisia Johns |
+| 1454 | 31 | EchoQuirky Blockclear |
+| 1455 | 31 | Dapper Balancefit |
+| 1456 | 31 | Groovy Gridzone |
 | 1457 | 31 | Taimir Colón |
 | 1458 | 31 | Edward Hickmon |
 | 1459 | 30 | Jamie Mclean |
