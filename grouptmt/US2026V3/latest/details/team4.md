@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 05:02:20 UTC
+# Standings for team4 as of 2026-06-08 05:02:41 UTC
 
 **Total Participants:** 1761
 
@@ -1542,29 +1542,29 @@
 | 1534 | 18 | Fancy Tiltgrid |
 | 1535 | 18 | Bouncy Fitblock |
 | 1536 | 18 | Littlebird |
-| 1537 | 18 | Stacia Marie |
+| 1537 | 18 | Bruce Hobbs |
 | 1538 | 18 | pisces26luna |
 | 1539 | 18 | Alexis William |
-| 1540 | 18 | Angel Boges |
-| 1541 | 18 | Playboy916 |
+| 1540 | 18 | Playboy916 |
+| 1541 | 18 | Angel Boges |
 | 1542 | 18 | Amina Walker |
-| 1543 | 18 | Bruce Hobbs |
-| 1544 | 18 | Janie Burris |
-| 1545 | 18 | Becca Milliron |
-| 1546 | 17 | Kenny Nguyen |
-| 1547 | 17 | Cody Richard |
+| 1543 | 18 | Janie Burris |
+| 1544 | 18 | Becca Milliron |
+| 1545 | 18 | Stacia Marie |
+| 1546 | 17 | Cody Richard |
+| 1547 | 17 | Kenny Nguyen |
 | 1548 | 17 | Glitzy Crasher |
 | 1549 | 17 | Speedy Snapclear |
-| 1550 | 17 | John Wertz |
-| 1551 | 17 | Kelly Pool |
+| 1550 | 17 | Kelly Pool |
+| 1551 | 17 | John Wertz |
 | 1552 | 17 | Ksawn Collymore-bey Collymore-bey |
 | 1553 | 17 | Joseph Gay |
-| 1554 | 17 | Shane Snyder |
-| 1555 | 17 | Jessikunt Gdula Pierre |
-| 1556 | 17 | Rai |
-| 1557 | 17 | happy cupcake |
-| 1558 | 16 | Valerie Morrison |
-| 1559 | 16 | Bekka Walker |
+| 1554 | 17 | happy cupcake |
+| 1555 | 17 | Shane Snyder |
+| 1556 | 17 | Jessikunt Gdula Pierre |
+| 1557 | 17 | Rai |
+| 1558 | 16 | Bekka Walker |
+| 1559 | 16 | Valerie Morrison |
 | 1560 | 16 | Mimi Dominguez |
 | 1561 | 16 | Melissa Robinson |
 | 1562 | 16 | Fancy Tiley |
@@ -1580,87 +1580,87 @@
 | 1572 | 16 | Pauline Cortez |
 | 1573 | 15 | Zanny |
 | 1574 | 15 | Melia Christiansen |
-| 1575 | 15 | Tika Boo |
-| 1576 | 15 | Speedy Rollbuilder |
-| 1577 | 15 | Powder |
-| 1578 | 15 | Medrano Cruz Yaquelyn |
-| 1579 | 15 | Jill Chapman-Yancer |
+| 1575 | 15 | Powder |
+| 1576 | 15 | Tika Boo |
+| 1577 | 15 | Speedy Rollbuilder |
+| 1578 | 15 | Cherise Maxwell |
+| 1579 | 15 | Medrano Cruz Yaquelyn |
 | 1580 | 15 | Tha Don |
-| 1581 | 15 | Diana Acosta |
+| 1581 | 15 | Jill Chapman-Yancer |
 | 1582 | 15 | Kiara Johnson |
-| 1583 | 15 | Chris Abney |
-| 1584 | 15 | Walker Tracie |
-| 1585 | 15 | Wacky Clusterer |
+| 1583 | 15 | Diana Acosta |
+| 1584 | 15 | Chris Abney |
+| 1585 | 15 | Tricki Woo |
 | 1586 | 15 | Badmofo |
 | 1587 | 15 | Tamara Gay |
 | 1588 | 15 | Nicole Gilmore |
 | 1589 | 15 | Hashanah Williams |
-| 1590 | 15 | Tricki Woo |
-| 1591 | 14 | G Money |
-| 1592 | 14 | Laura Ratliff |
-| 1593 | 14 | Snippy Twister |
-| 1594 | 14 | Tonya Cross |
-| 1595 | 14 | Nakkia Mobley |
-| 1596 | 14 | BreOunna Zonye Littleton |
-| 1597 | 14 | Blanchie Wingo |
-| 1598 | 14 | Jolene Stieren |
-| 1599 | 14 | Heather Crowe |
-| 1600 | 14 | Karissa Bailey |
-| 1601 | 14 | Heather Dornberger |
+| 1590 | 15 | Wacky Clusterer |
+| 1591 | 15 | Walker Tracie |
+| 1592 | 14 | Evie |
+| 1593 | 14 | G Money |
+| 1594 | 14 | Jolene Stieren |
+| 1595 | 14 | Karissa Bailey |
+| 1596 | 14 | Heather Dornberger |
+| 1597 | 14 | Heather Crowe |
+| 1598 | 14 | Laura Ratliff |
+| 1599 | 14 | BreOunna Zonye Littleton |
+| 1600 | 14 | Donovan Parmenter Gagne |
+| 1601 | 14 | Breezy Striker |
 | 1602 | 14 | Sunny Bricky |
-| 1603 | 14 | Evie |
-| 1604 | 14 | Breezy Striker |
-| 1605 | 14 | Christine Niles |
-| 1606 | 14 | mrsduke420 |
-| 1607 | 14 | Tammy Santiago |
-| 1608 | 14 | Tina Louise |
-| 1609 | 14 | Donovan Parmenter Gagne |
-| 1610 | 13 | Frothy Pivotfall |
-| 1611 | 13 | Michelle Boyd |
-| 1612 | 13 | Jason Ervin |
-| 1613 | 13 | Willedtra Griffin |
-| 1614 | 13 | Bryce McGee |
-| 1615 | 13 | Swanky Spinzone |
-| 1616 | 13 | Ashlee Lemus |
-| 1617 | 13 | Jozette Smalarz |
-| 1618 | 13 | juler |
-| 1619 | 13 | Karen Miller |
-| 1620 | 13 | Conela Rouse Goldstein |
-| 1621 | 13 | Liz Aimé Acosta Guilarte |
-| 1622 | 13 | Jackie Russo-Edens |
-| 1623 | 12 | Rachel |
-| 1624 | 12 | Buddyblock |
-| 1625 | 12 | Delashawne Hodgson |
-| 1626 | 12 | Mee |
-| 1627 | 12 | Loony Brickzone |
-| 1628 | 12 | Eileen Clements |
-| 1629 | 12 | ESPERANTU |
-| 1630 | 12 | Steve Swanson |
-| 1631 | 12 | Rooney |
-| 1632 | 12 | SuperJen |
-| 1633 | 12 | May Espinosa |
-| 1634 | 12 | Tonya Raymundo |
-| 1635 | 12 | Carolyn Lalak |
-| 1636 | 12 | Amanda KN |
-| 1637 | 12 | Tatiyana Hockett |
-| 1638 | 11 | Cherise Maxwell |
-| 1639 | 11 | Laurelez R. Carmen |
-| 1640 | 11 | Clever Linkfall |
-| 1641 | 11 | A La |
-| 1642 | 11 | Eric Mellinger |
-| 1643 | 11 | ITSME |
-| 1644 | 11 | Cheery Liney |
-| 1645 | 11 | Bryan Odle |
-| 1646 | 11 | OFOZO |
-| 1647 | 11 | Gabby |
-| 1648 | 11 | Aaron |
-| 1649 | 11 | Tammi Crnza |
+| 1603 | 14 | Snippy Twister |
+| 1604 | 14 | Blanchie Wingo |
+| 1605 | 14 | mrsduke420 |
+| 1606 | 14 | Tammy Santiago |
+| 1607 | 14 | Christine Niles |
+| 1608 | 14 | Tonya Cross |
+| 1609 | 14 | Nakkia Mobley |
+| 1610 | 14 | Tina Louise |
+| 1611 | 13 | Frothy Pivotfall |
+| 1612 | 13 | Karen Miller |
+| 1613 | 13 | Michelle Boyd |
+| 1614 | 13 | Liz Aimé Acosta Guilarte |
+| 1615 | 13 | Willedtra Griffin |
+| 1616 | 13 | Jason Ervin |
+| 1617 | 13 | Jackie Russo-Edens |
+| 1618 | 13 | Bryce McGee |
+| 1619 | 13 | juler |
+| 1620 | 13 | Jozette Smalarz |
+| 1621 | 13 | Swanky Spinzone |
+| 1622 | 13 | Ashlee Lemus |
+| 1623 | 13 | Conela Rouse Goldstein |
+| 1624 | 12 | ESPERANTU |
+| 1625 | 12 | Rachel |
+| 1626 | 12 | SuperJen |
+| 1627 | 12 | Mee |
+| 1628 | 12 | Rooney |
+| 1629 | 12 | Tonya Raymundo |
+| 1630 | 12 | Buddyblock |
+| 1631 | 12 | May Espinosa |
+| 1632 | 12 | Carolyn Lalak |
+| 1633 | 12 | Amanda KN |
+| 1634 | 12 | Tatiyana Hockett |
+| 1635 | 12 | Loony Brickzone |
+| 1636 | 12 | Eileen Clements |
+| 1637 | 12 | Steve Swanson |
+| 1638 | 12 | Delashawne Hodgson |
+| 1639 | 11 | Clever Linkfall |
+| 1640 | 11 | Tammi Crnza |
+| 1641 | 11 | Aaron |
+| 1642 | 11 | Laurelez R. Carmen |
+| 1643 | 11 | Gabby |
+| 1644 | 11 | A La |
+| 1645 | 11 | OFOZO |
+| 1646 | 11 | Eric Mellinger |
+| 1647 | 11 | Cheery Liney |
+| 1648 | 11 | Bryan Odle |
+| 1649 | 11 | ITSME |
 | 1650 | 10 | Quana Jackson |
 | 1651 | 10 | Brianne Stull |
-| 1652 | 10 | Swanky Shatterbuilder |
-| 1653 | 10 | Cranky Stackbuilder |
-| 1654 | 10 | Kay Immaslay |
-| 1655 | 10 | Buchanon Bossingup Jadrienne |
+| 1652 | 10 | Buchanon Bossingup Jadrienne |
+| 1653 | 10 | Swanky Shatterbuilder |
+| 1654 | 10 | Cranky Stackbuilder |
+| 1655 | 10 | Kay Immaslay |
 | 1656 | 10 | Lively Cascadeclear |
 | 1657 | 10 | Whoop Blancò |
 | 1658 | 10 | ToneDeaf |
