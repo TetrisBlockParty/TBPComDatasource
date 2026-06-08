@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:10:20 UTC
+# Standings for team1 as of 2026-06-08 12:10:43 UTC
 
 **Total Participants:** 1787
 
@@ -117,8 +117,8 @@
 | 109 | 741 | Sarah Marie |
 | 110 | 730 | ing410 |
 | 111 | 723 | Eartha Brown |
-| 112 | 720 | No_Other_Choice |
-| 113 | 720 | Felicia Williams |
+| 112 | 720 | Felicia Williams |
+| 113 | 720 | No_Other_Choice |
 | 114 | 711 | Slinky Puzzler |
 | 115 | 692 | Chirpy Corner |
 | 116 | 691 | Kellie Hall |
@@ -138,8 +138,8 @@
 | 130 | 615 | Chuck Quarles |
 | 131 | 610 | Gael Quintana |
 | 132 | 604 | Cathy Young |
-| 133 | 601 | JaszyBadd |
-| 134 | 601 | Dena Marie Lee |
+| 133 | 601 | Dena Marie Lee |
+| 134 | 601 | JaszyBadd |
 | 135 | 590 | Gotcha |
 | 136 | 582 | Nutty Spinblock |
 | 137 | 573 | Rackemwillie34 |
@@ -174,10 +174,10 @@
 | 166 | 454 | Zappy Riser |
 | 167 | 453 | LaToya Chambers |
 | 168 | 452 | Kenny MrOnethousand Peck |
-| 169 | 447 | Ebony Waynes-robinson |
-| 170 | 446 | pooh |
-| 171 | 445 | Marcheta Cervantez |
-| 172 | 445 | Plucky Slamdrop |
+| 169 | 447 | Plucky Slamdrop |
+| 170 | 447 | Ebony Waynes-robinson |
+| 171 | 446 | pooh |
+| 172 | 445 | Marcheta Cervantez |
 | 173 | 444 | Helen Smith |
 | 174 | 444 | Kevin M. McGhee Jr |
 | 175 | 440 | Tanya Clayton |
@@ -186,8 +186,8 @@
 | 178 | 431 | Lashawn Wallace |
 | 179 | 430 | Tamara N Lee |
 | 180 | 427 | Ty Øtg |
-| 181 | 420 | Jessica Carter |
-| 182 | 420 | Hyper Slamdrop |
+| 181 | 420 | Hyper Slamdrop |
+| 182 | 420 | Jessica Carter |
 | 183 | 418 | Sheila Burnham |
 | 184 | 417 | Eugina Slater |
 | 185 | 414 | Simmone T. Kadiri |
@@ -201,12 +201,12 @@
 | 193 | 401 | SyTheEvilGenius1 |
 | 194 | 398 | Kenny 'Tailormade' Boyd |
 | 195 | 397 | Karebear |
-| 196 | 389 | Roberta Lynn |
-| 197 | 389 | GrkGdess |
-| 198 | 387 | IThinkNot |
-| 199 | 387 | Crystal Anderson |
-| 200 | 386 | Chantelle Lee |
-| 201 | 386 | Po Marley |
+| 196 | 389 | GrkGdess |
+| 197 | 389 | Roberta Lynn |
+| 198 | 387 | Crystal Anderson |
+| 199 | 387 | IThinkNot |
+| 200 | 386 | Po Marley |
+| 201 | 386 | Chantelle Lee |
 | 202 | 385 | Mic Balew |
 | 203 | 384 | Choc |
 | 204 | 384 | Christana Imjustbutton Stone |
@@ -216,8 +216,8 @@
 | 208 | 375 | Joey Albright |
 | 209 | 373 | BULLSEYE |
 | 210 | 372 | Jessica Russell |
-| 211 | 370 | Zippy Tilefall |
-| 212 | 370 | Allison Baxter |
+| 211 | 370 | Allison Baxter |
+| 212 | 370 | Zippy Tilefall |
 | 213 | 369 | TT |
 | 214 | 368 | Chasem45 |
 | 215 | 367 | Leebo Slice |
@@ -226,26 +226,26 @@
 | 218 | 364 | Michele Simpson |
 | 219 | 363 | Christina Rebecca |
 | 220 | 361 | John Staub |
-| 221 | 356 | Haley Bell |
-| 222 | 356 | Dedra M Prester |
-| 223 | 354 | Keke Ferguson |
-| 224 | 354 | Block King |
+| 221 | 356 | Dedra M Prester |
+| 222 | 356 | Haley Bell |
+| 223 | 354 | Block King |
+| 224 | 354 | Keke Ferguson |
 | 225 | 352 | Jayjay Rich |
 | 226 | 350 | Slim Shedidthat |
 | 227 | 345 | Ebony |
 | 228 | 344 | Ashley MyBeauty Daniels |
 | 229 | 343 | Yasmin Nakea Wright |
-| 230 | 341 | Jawaun Daniels |
-| 231 | 341 | Tremaine Hiler |
+| 230 | 341 | Tremaine Hiler |
+| 231 | 341 | Jawaun Daniels |
 | 232 | 340 | Spicy Risepiece |
 | 233 | 338 | Brand Nu |
 | 234 | 337 | Rachel Zimmerman |
 | 235 | 333 | Qwlonda Shirrell |
 | 236 | 333 | Latisha Fairley |
-| 237 | 331 | Tessa Felice Hill |
-| 238 | 331 | Coco |
-| 239 | 330 | Davionte DaeDae Hopson-Rodriguez |
-| 240 | 330 | Dennis J Herron II |
+| 237 | 331 | Coco |
+| 238 | 331 | Tessa Felice Hill |
+| 239 | 330 | Dennis J Herron II |
+| 240 | 330 | Davionte DaeDae Hopson-Rodriguez |
 | 241 | 328 | Dion Gray |
 | 242 | 327 | Zachary Colegrove |
 | 243 | 326 | Christopher Dreamsareality McEachin |
