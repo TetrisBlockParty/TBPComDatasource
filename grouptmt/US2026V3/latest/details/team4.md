@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:37:20 UTC
+# Standings for team4 as of 2026-06-08 07:38:41 UTC
 
 **Total Participants:** 1795
 
@@ -47,7 +47,7 @@
 | 39 | 2689 | Ning Quiambao |
 | 40 | 2433 | Alexandria Frazier |
 | 41 | 2400 | Michele |
-| 42 | 2208 | Victoria Ver |
+| 42 | 2218 | Victoria Ver |
 | 43 | 2091 | Michele Walker |
 | 44 | 2058 | Carly Stempien |
 | 45 | 1985 | kcknbtz |
@@ -60,7 +60,7 @@
 | 52 | 1700 | Elissa S-k |
 | 53 | 1700 | Leah Gorsuch |
 | 54 | 1681 | 626 |
-| 55 | 1667 | Dheeh Robles |
+| 55 | 1677 | Dheeh Robles |
 | 56 | 1656 | Blind Bette |
 | 57 | 1501 | Nick Graber |
 | 58 | 1500 | Melissa Brown |
@@ -239,18 +239,18 @@
 | 231 | 302 | Maria Castillo |
 | 232 | 301 | Tiffany Bunker-Hill |
 | 233 | 300 | Genag |
-| 234 | 298 | Colin |
-| 235 | 296 | Kelly Howland |
-| 236 | 296 | Dae Von |
-| 237 | 296 | PerfectPieces |
-| 238 | 296 | beauxie |
+| 234 | 299 | Kelly Howland |
+| 235 | 298 | Colin |
+| 236 | 296 | PerfectPieces |
+| 237 | 296 | beauxie |
+| 238 | 296 | Dae Von |
 | 239 | 293 | Logan Two-dubs Baker |
 | 240 | 290 | Tawna Curry |
 | 241 | 289 | Shepreneur Sade |
 | 242 | 287 | Cheery Risegrid |
-| 243 | 286 | Erika Seaton |
-| 244 | 286 | Pepper |
-| 245 | 286 | Dubiousdust |
+| 243 | 286 | Dubiousdust |
+| 244 | 286 | Erika Seaton |
+| 245 | 286 | Pepper |
 | 246 | 285 | Dana Abegil Lawas |
 | 247 | 284 | Tipsy Builderline |
 | 248 | 283 | Tiggerjake |
@@ -1092,35 +1092,35 @@
 | 1084 | 55 | rick mase |
 | 1085 | 55 | Bee |
 | 1086 | 55 | RustyMaster40 |
-| 1087 | 54 | Hyper Snaplink |
-| 1088 | 54 | Komikeh White |
-| 1089 | 54 | Elise Ann |
-| 1090 | 54 | Danielle Porter |
-| 1091 | 54 | Michelle Wiles |
-| 1092 | 54 | Felicia Harrison |
-| 1093 | 54 | Hyper Clusterline |
-| 1094 | 54 | Sally Hiraldo |
-| 1095 | 54 | Amber Arnold |
-| 1096 | 54 | aubz |
+| 1087 | 55 | James Moore |
+| 1088 | 54 | Hyper Snaplink |
+| 1089 | 54 | Komikeh White |
+| 1090 | 54 | Elise Ann |
+| 1091 | 54 | Danielle Porter |
+| 1092 | 54 | Michelle Wiles |
+| 1093 | 54 | Felicia Harrison |
+| 1094 | 54 | Hyper Clusterline |
+| 1095 | 54 | Sally Hiraldo |
+| 1096 | 54 | Amber Arnold |
 | 1097 | 54 | Poppy Glider |
 | 1098 | 54 | Street724 |
-| 1099 | 53 | Ashlee Lemus |
-| 1100 | 53 | Melinda Roman |
-| 1101 | 53 | Samantha Lohmeyer |
-| 1102 | 53 | JoJo Hutson |
-| 1103 | 53 | Masiso |
-| 1104 | 53 | Kimberly Mae Watkins |
-| 1105 | 53 | Cflixer |
-| 1106 | 53 | Tay |
-| 1107 | 53 | Michelle Clark |
-| 1108 | 53 | Sunshine Dreamchaser Whitfield |
-| 1109 | 53 | Cheery Basegrid |
-| 1110 | 52 | Agent |
+| 1099 | 54 | aubz |
+| 1100 | 53 | Ashlee Lemus |
+| 1101 | 53 | Melinda Roman |
+| 1102 | 53 | Samantha Lohmeyer |
+| 1103 | 53 | JoJo Hutson |
+| 1104 | 53 | Masiso |
+| 1105 | 53 | Kimberly Mae Watkins |
+| 1106 | 53 | Cflixer |
+| 1107 | 53 | Tay |
+| 1108 | 53 | Michelle Clark |
+| 1109 | 53 | Sunshine Dreamchaser Whitfield |
+| 1110 | 53 | Cheery Basegrid |
 | 1111 | 52 | Domenique Wilson |
-| 1112 | 52 | Frothy Pivotfall |
-| 1113 | 52 | Vv |
-| 1114 | 52 | Marion Wade |
-| 1115 | 52 | James Moore |
+| 1112 | 52 | Agent |
+| 1113 | 52 | Frothy Pivotfall |
+| 1114 | 52 | Vv |
+| 1115 | 52 | Marion Wade |
 | 1116 | 52 | Amanda Jill Sturgill |
 | 1117 | 52 | Kay |
 | 1118 | 51 | the repo |
@@ -1635,7 +1635,7 @@
 | 1627 | 14 | thaDon |
 | 1628 | 14 | Sunny Bricky |
 | 1629 | 14 | G Money |
-| 1630 | 14 | ThickyJicky |
+| 1630 | 14 | Heather Dornberger |
 | 1631 | 14 | Tammy Santiago |
 | 1632 | 14 | Tina Louise |
 | 1633 | 14 | Evie |
@@ -1644,163 +1644,163 @@
 | 1636 | 14 | mrsduke420 |
 | 1637 | 14 | Snippy Twister |
 | 1638 | 14 | Karissa Bailey |
-| 1639 | 14 | Heather Dornberger |
+| 1639 | 14 | ThickyJicky |
 | 1640 | 14 | Nakkia Mobley |
 | 1641 | 14 | Tonya Cross |
-| 1642 | 14 | Heather Crowe |
+| 1642 | 14 | Blanchie Wingo |
 | 1643 | 14 | BreOunna Zonye Littleton |
-| 1644 | 14 | Christine Niles |
-| 1645 | 14 | Donovan Parmenter Gagne |
-| 1646 | 14 | Laura Ratliff |
-| 1647 | 14 | Blanchie Wingo |
-| 1648 | 13 | Jackie Russo-Edens |
-| 1649 | 13 | Jason Ervin |
-| 1650 | 13 | Swanky Spinzone |
-| 1651 | 13 | juler |
-| 1652 | 13 | Conela Rouse Goldstein |
-| 1653 | 13 | Michelle Boyd |
-| 1654 | 13 | Frothy Pivotfall |
-| 1655 | 13 | Karen Miller |
-| 1656 | 13 | Bryce McGee |
-| 1657 | 13 | Willedtra Griffin |
+| 1644 | 14 | Laura Ratliff |
+| 1645 | 14 | Heather Crowe |
+| 1646 | 14 | Christine Niles |
+| 1647 | 14 | Donovan Parmenter Gagne |
+| 1648 | 13 | Bryce McGee |
+| 1649 | 13 | Jackie Russo-Edens |
+| 1650 | 13 | Jozette Smalarz |
+| 1651 | 13 | Swanky Spinzone |
+| 1652 | 13 | Frothy Pivotfall |
+| 1653 | 13 | juler |
+| 1654 | 13 | Conela Rouse Goldstein |
+| 1655 | 13 | Michelle Boyd |
+| 1656 | 13 | Karen Miller |
+| 1657 | 13 | Jason Ervin |
 | 1658 | 13 | Liz Aimé Acosta Guilarte |
-| 1659 | 13 | Jozette Smalarz |
-| 1660 | 12 | Delashawne Hodgson |
-| 1661 | 12 | Tonya Raymundo |
-| 1662 | 12 | May Espinosa |
-| 1663 | 12 | Loony Brickzone |
+| 1659 | 13 | Willedtra Griffin |
+| 1660 | 12 | Amanda KN |
+| 1661 | 12 | May Espinosa |
+| 1662 | 12 | Delashawne Hodgson |
+| 1663 | 12 | Tonya Raymundo |
 | 1664 | 12 | Rooney |
-| 1665 | 12 | Amanda KN |
-| 1666 | 12 | SuperJen |
-| 1667 | 12 | Carolyn Lalak |
+| 1665 | 12 | SuperJen |
+| 1666 | 12 | Carolyn Lalak |
+| 1667 | 12 | Loony Brickzone |
 | 1668 | 12 | Tatiyana Hockett |
 | 1669 | 12 | Buddyblock |
 | 1670 | 12 | Rachel |
 | 1671 | 12 | ESPERANTU |
 | 1672 | 12 | Mee |
 | 1673 | 12 | Eileen Clements |
-| 1674 | 11 | Aaron |
-| 1675 | 11 | Clever Linkfall |
-| 1676 | 11 | Tammi Crnza |
-| 1677 | 11 | Eric Mellinger |
-| 1678 | 11 | Cheery Liney |
-| 1679 | 11 | Laurelez R. Carmen |
-| 1680 | 11 | Bryan Odle |
-| 1681 | 11 | A La |
-| 1682 | 11 | ITSME |
-| 1683 | 11 | OFOZO |
-| 1684 | 11 | Danyelle De La Cruz |
-| 1685 | 10 | tmnt |
-| 1686 | 10 | ToneDeaf |
+| 1674 | 11 | Clever Linkfall |
+| 1675 | 11 | Tammi Crnza |
+| 1676 | 11 | Eric Mellinger |
+| 1677 | 11 | Cheery Liney |
+| 1678 | 11 | Aaron |
+| 1679 | 11 | ITSME |
+| 1680 | 11 | A La |
+| 1681 | 11 | Laurelez R. Carmen |
+| 1682 | 11 | OFOZO |
+| 1683 | 11 | Danyelle De La Cruz |
+| 1684 | 11 | Bryan Odle |
+| 1685 | 10 | Charlie Thornton |
+| 1686 | 10 | ScorpioQueen |
 | 1687 | 10 | Larredo Covington |
-| 1688 | 10 | Breezy Clusterfit |
-| 1689 | 10 | Esla mamas |
-| 1690 | 10 | Lively Cascadeclear |
-| 1691 | 10 | ScorpioQueen |
-| 1692 | 10 | Cranky Stackbuilder |
-| 1693 | 10 | Dreamy Dash |
-| 1694 | 10 | Charlie Thornton |
-| 1695 | 10 | Mindy Likes Tats |
-| 1696 | 10 | Swanky Shatterbuilder |
-| 1697 | 10 | John Garza |
-| 1698 | 10 | Nicole |
-| 1699 | 10 | Lisa Hammock |
-| 1700 | 10 | Buchanon Bossingup Jadrienne |
+| 1688 | 10 | tmnt |
+| 1689 | 10 | Dreamy Dash |
+| 1690 | 10 | ToneDeaf |
+| 1691 | 10 | Breezy Clusterfit |
+| 1692 | 10 | Esla mamas |
+| 1693 | 10 | Lively Cascadeclear |
+| 1694 | 10 | John Garza |
+| 1695 | 10 | Cranky Stackbuilder |
+| 1696 | 10 | Nicole |
+| 1697 | 10 | Nicole Washington |
+| 1698 | 10 | Mindy Likes Tats |
+| 1699 | 10 | Swanky Shatterbuilder |
+| 1700 | 10 | Lisa Hammock |
 | 1701 | 10 | Corissa Handy |
-| 1702 | 10 | Quana Jackson |
+| 1702 | 10 | Buchanon Bossingup Jadrienne |
 | 1703 | 10 | Kay Immaslay |
-| 1704 | 10 | Clever Blockbuilder |
-| 1705 | 10 | Lazy Crusher |
-| 1706 | 10 | MzB3tyBoop |
+| 1704 | 10 | Quana Jackson |
+| 1705 | 10 | Clever Blockbuilder |
+| 1706 | 10 | Lazy Crusher |
 | 1707 | 10 | Tee |
-| 1708 | 10 | Karen Gilbertson |
-| 1709 | 10 | Brianne Stull |
-| 1710 | 10 | Nicole Washington |
-| 1711 | 10 | Jesse Richardson |
-| 1712 | 10 | Whoop Blancò |
-| 1713 | 9 | MissGranity |
-| 1714 | 9 | Todd Hamilton |
-| 1715 | 9 | estefi |
-| 1716 | 9 | Terry Peach |
-| 1717 | 9 | fmp |
+| 1708 | 10 | MzB3tyBoop |
+| 1709 | 10 | Karen Gilbertson |
+| 1710 | 10 | Brianne Stull |
+| 1711 | 10 | Whoop Blancò |
+| 1712 | 10 | Jesse Richardson |
+| 1713 | 9 | Todd Hamilton |
+| 1714 | 9 | Jinx4fun |
+| 1715 | 9 | MissGranity |
+| 1716 | 9 | Chuck Burns |
+| 1717 | 9 | estefi |
 | 1718 | 9 | Micole Norris |
 | 1719 | 9 | Whos Square |
-| 1720 | 9 | Jinx4fun |
-| 1721 | 9 | Trippy Mels |
-| 1722 | 9 | Marty Carver |
-| 1723 | 9 | apryliss Star |
-| 1724 | 9 | K Courtney Camp |
-| 1725 | 9 | Phoenyx Roze |
-| 1726 | 9 | Julie Smith |
-| 1727 | 9 | Frothy Riseclear |
+| 1720 | 9 | fmp |
+| 1721 | 9 | Terry Peach |
+| 1722 | 9 | Julie Smith |
+| 1723 | 9 | Trippy Mels |
+| 1724 | 9 | apryliss Star |
+| 1725 | 9 | Marty Carver |
+| 1726 | 9 | Frothy Riseclear |
+| 1727 | 9 | Phoenyx Roze |
 | 1728 | 9 | Monica Bell |
-| 1729 | 8 | Ivory Glenn |
-| 1730 | 8 | Gabby Markham |
-| 1731 | 8 | Jose Leandro Calderin |
-| 1732 | 8 | Jen Molepske |
-| 1733 | 8 | Gerald Marx |
-| 1734 | 8 | Bryieson Watson |
-| 1735 | 8 | 67boyyy |
-| 1736 | 8 | LaTesha D Williams |
-| 1737 | 8 | Shania Richmond |
-| 1738 | 8 | Courtney Miller |
-| 1739 | 8 | Mac James |
-| 1740 | 8 | Chummy Gridder |
-| 1741 | 8 | Nums |
-| 1742 | 8 | Lewis Potts |
-| 1743 | 8 | Phoebe Tracy |
+| 1729 | 9 | K Courtney Camp |
+| 1730 | 8 | Lewis Potts |
+| 1731 | 8 | Ivory Glenn |
+| 1732 | 8 | Courtney Miller |
+| 1733 | 8 | Floyda Lynch |
+| 1734 | 8 | Gabby Markham |
+| 1735 | 8 | Jose Leandro Calderin |
+| 1736 | 8 | Jen Molepske |
+| 1737 | 8 | Bryieson Watson |
+| 1738 | 8 | 67boyyy |
+| 1739 | 8 | LaTesha D Williams |
+| 1740 | 8 | Gerald Marx |
+| 1741 | 8 | Shania Richmond |
+| 1742 | 8 | Tony Tenas |
+| 1743 | 8 | Mac James |
 | 1744 | 8 | Virgo27 |
-| 1745 | 8 | Tony Tenas |
-| 1746 | 8 | Chuck Burns |
-| 1747 | 8 | Floyda Lynch |
+| 1745 | 8 | Chummy Gridder |
+| 1746 | 8 | Nums |
+| 1747 | 8 | Phoebe Tracy |
 | 1748 | 7 | Michael McIntire |
-| 1749 | 7 | Melly |
-| 1750 | 7 | John Brandon Kinney |
-| 1751 | 7 | B |
-| 1752 | 7 | Peaches3569 |
-| 1753 | 7 | Rican |
+| 1749 | 7 | John Brandon Kinney |
+| 1750 | 7 | Peaches3569 |
+| 1751 | 7 | Heather Smith-Carter |
+| 1752 | 7 | Rican |
+| 1753 | 7 | Melly |
 | 1754 | 7 | Estmercy |
 | 1755 | 7 | Kristen Templeman |
-| 1756 | 7 | pippy |
-| 1757 | 7 | Sammmzzz |
-| 1758 | 7 | Heather Smith-Carter |
-| 1759 | 7 | Chipper Hitter |
-| 1760 | 7 | Angela Mertz |
-| 1761 | 7 | Malinda Fife |
-| 1762 | 7 | Brandy Dark |
-| 1763 | 7 | Spicy Faller |
-| 1764 | 7 | Terrick Robinson |
-| 1765 | 6 | Frilly Brickroll |
-| 1766 | 6 | Frothy Gridmatch |
+| 1756 | 7 | Terrick Robinson |
+| 1757 | 7 | Angela Mertz |
+| 1758 | 7 | Sammmzzz |
+| 1759 | 7 | pippy |
+| 1760 | 7 | Malinda Fife |
+| 1761 | 7 | Brandy Dark |
+| 1762 | 7 | Spicy Faller |
+| 1763 | 7 | Chipper Hitter |
+| 1764 | 7 | B |
+| 1765 | 6 | Snippy Bouncer |
+| 1766 | 6 | Richierich Gonzalez |
 | 1767 | 6 | Chass Hudson |
-| 1768 | 6 | Snippy Bouncer |
+| 1768 | 6 | Frilly Brickroll |
 | 1769 | 6 | Goodie |
-| 1770 | 6 | Richierich Gonzalez |
+| 1770 | 6 | Frothy Gridmatch |
 | 1771 | 6 | April McWhite |
 | 1772 | 6 | Sherry Heilig |
 | 1773 | 6 | Montes Ash |
-| 1774 | 6 | Funky Zonebuilder |
-| 1775 | 6 | Natalia Stone |
+| 1774 | 6 | Crissie Mary Schafer |
+| 1775 | 6 | Gma526 |
 | 1776 | 6 | Nutty Dropper |
-| 1777 | 6 | Theamazingspiderman |
-| 1778 | 6 | Stephy |
-| 1779 | 6 | Crissie Mary Schafer |
-| 1780 | 6 | Spunky Winder |
-| 1781 | 6 | Gma526 |
-| 1782 | 5 | Chad N Tori Steiner |
-| 1783 | 5 | courtt |
-| 1784 | 5 | Linda Monique |
-| 1785 | 5 | Tippet |
-| 1786 | 5 | Racheal Lowry |
-| 1787 | 5 | Debbie Johnson |
-| 1788 | 5 | April Vela |
-| 1789 | 5 | Sean Ha |
-| 1790 | 5 | Breezy Shatterclear |
-| 1791 | 5 | Swanky Zigzag |
-| 1792 | 5 | Katrina S. West |
-| 1793 | 5 | Cheery Twister |
-| 1794 | 5 | James Lackey |
-| 1795 | 5 | Mercedes Williams |
+| 1777 | 6 | Spunky Winder |
+| 1778 | 6 | Natalia Stone |
+| 1779 | 6 | Stephy |
+| 1780 | 6 | Theamazingspiderman |
+| 1781 | 6 | Funky Zonebuilder |
+| 1782 | 5 | Tippet |
+| 1783 | 5 | Mercedes Williams |
+| 1784 | 5 | Cheery Twister |
+| 1785 | 5 | James Lackey |
+| 1786 | 5 | Swanky Zigzag |
+| 1787 | 5 | Sean Ha |
+| 1788 | 5 | Breezy Shatterclear |
+| 1789 | 5 | Debbie Johnson |
+| 1790 | 5 | April Vela |
+| 1791 | 5 | Linda Monique |
+| 1792 | 5 | Chad N Tori Steiner |
+| 1793 | 5 | courtt |
+| 1794 | 5 | Racheal Lowry |
+| 1795 | 5 | Katrina S. West |
 
 ---
 *Standings created by tournaments datasource generation tool*
