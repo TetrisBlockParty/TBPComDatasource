@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:26:45 UTC
+# Standings for team1 as of 2026-06-08 21:27:20 UTC
 
 **Total Participants:** 1878
 
@@ -116,11 +116,11 @@
 | 108 | 882 | Jon Gathers |
 | 109 | 860 | Slinky Puzzler |
 | 110 | 848 | Atlantalindi |
-| 111 | 813 | Joy Citizen Pickney |
-| 112 | 804 | Yolanda E Fergerson |
-| 113 | 798 | Cee Emm |
-| 114 | 796 | Jaida King |
-| 115 | 792 | Nutty Spinblock |
+| 111 | 832 | Nutty Spinblock |
+| 112 | 813 | Joy Citizen Pickney |
+| 113 | 804 | Yolanda E Fergerson |
+| 114 | 798 | Cee Emm |
+| 115 | 796 | Jaida King |
 | 116 | 776 | Spunky Edgefit |
 | 117 | 754 | Jhaime |
 | 118 | 751 | Kellie Hall |
@@ -128,8 +128,8 @@
 | 120 | 738 | Hyper Slamdrop |
 | 121 | 730 | ing410 |
 | 122 | 723 | Eartha Brown |
-| 123 | 720 | Felicia Williams |
-| 124 | 720 | No_Other_Choice |
+| 123 | 720 | No_Other_Choice |
+| 124 | 720 | Felicia Williams |
 | 125 | 709 | Big Tina |
 | 126 | 700 | Peppy Piececlear |
 | 127 | 699 | Chuck Quarles |
@@ -509,10 +509,10 @@
 | 501 | 184 | Kelley Johnson |
 | 502 | 184 | Soubletzy |
 | 503 | 184 | Dorian Griffin |
-| 504 | 183 | Shakuria Cortia Burney |
-| 505 | 183 | Douglas Price |
-| 506 | 183 | Twisty Cascadeclear |
-| 507 | 183 | Kimberly Linares Hernandez |
+| 504 | 184 | Kimberly Linares Hernandez |
+| 505 | 183 | Shakuria Cortia Burney |
+| 506 | 183 | Douglas Price |
+| 507 | 183 | Twisty Cascadeclear |
 | 508 | 183 | Erika |
 | 509 | 183 | Tushama Cheris Okraku |
 | 510 | 182 | Courtney Cicoria |
