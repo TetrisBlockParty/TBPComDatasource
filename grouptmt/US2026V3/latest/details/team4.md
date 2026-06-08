@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:14:43 UTC
+# Standings for team4 as of 2026-06-08 14:15:20 UTC
 
 **Total Participants:** 1842
 
@@ -31,7 +31,7 @@
 | 23 | 4312 | Tyra Brooke Everman Forest |
 | 24 | 4285 | Jackie Lucas |
 | 25 | 4149 | Witty Clicky |
-| 26 | 4017 | Daring Ziggy |
+| 26 | 4067 | Daring Ziggy |
 | 27 | 3935 | TitiLo72 |
 | 28 | 3861 | Tonya Brooks-Johnson |
 | 29 | 3776 | Dana Smith |
