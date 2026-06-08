@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:40:43 UTC
+# Standings for team1 as of 2026-06-08 06:41:19 UTC
 
 **Total Participants:** 1746
 
@@ -115,8 +115,8 @@
 | 107 | 723 | Eartha Brown |
 | 108 | 720 | Felicia Williams |
 | 109 | 720 | No_Other_Choice |
-| 110 | 692 | Chirpy Corner |
-| 111 | 691 | TAZ-MF-NIZIL |
+| 110 | 718 | TAZ-MF-NIZIL |
+| 111 | 692 | Chirpy Corner |
 | 112 | 681 | Slinky Puzzler |
 | 113 | 680 | Mimi 1.0 |
 | 114 | 676 | W.A. Simpson |
@@ -753,8 +753,8 @@
 | 745 | 93 | FunTime |
 | 746 | 93 | Nekka |
 | 747 | 93 | Lively Wipeout |
-| 748 | 92 | Jojo M |
-| 749 | 92 | Ameillia Boughner |
+| 748 | 93 | Ameillia Boughner |
+| 749 | 92 | Jojo M |
 | 750 | 92 | Poppy Twister |
 | 751 | 92 | Juicy |
 | 752 | 92 | Boricua64 |
@@ -950,46 +950,46 @@
 | 942 | 67 | Sharon Lynn |
 | 943 | 67 | Sarah Barnum |
 | 944 | 67 | Michele Elizabeth McKay-Johnson |
-| 945 | 66 | Sugar Foot |
-| 946 | 66 | Meepycat |
-| 947 | 66 | Dennis Ripley |
-| 948 | 66 | Meluhnee |
-| 949 | 66 | Lively Clusterline |
-| 950 | 66 | Evelyn Epps |
-| 951 | 66 | Taylor Jordan Hollis |
+| 945 | 67 | Boldy Matchfit |
+| 946 | 66 | Jennifer Dawn Egbert Fenwick |
+| 947 | 66 | Letrishia Andrews |
+| 948 | 66 | GoldStarJo |
+| 949 | 66 | Mami Badd |
+| 950 | 66 | Jroc Tyra Taylor |
+| 951 | 66 | LaMinda Todd |
 | 952 | 66 | Raquele Hines |
-| 953 | 66 | LaMinda Todd |
-| 954 | 66 | Jroc Tyra Taylor |
-| 955 | 66 | Mami Badd |
-| 956 | 66 | GoldStarJo |
-| 957 | 66 | Letrishia Andrews |
-| 958 | 66 | Jennifer Dawn Egbert Fenwick |
-| 959 | 65 | Boldy Matchfit |
-| 960 | 65 | Rande Smith |
-| 961 | 65 | Trixie |
-| 962 | 65 | Quwana Hall |
-| 963 | 65 | Renee J. Thomas |
-| 964 | 65 | Benjamin Livingston |
-| 965 | 65 | Furlough Leslie |
-| 966 | 65 | WReckitraff |
-| 967 | 65 | Charika Marie Bergmann |
-| 968 | 65 | Vonda House |
-| 969 | 64 | Morenita Rodriguez |
-| 970 | 64 | Elaine Youmans |
-| 971 | 64 | Kiki |
-| 972 | 64 | Alexis Alexander |
+| 953 | 66 | Taylor Jordan Hollis |
+| 954 | 66 | Evelyn Epps |
+| 955 | 66 | Lively Clusterline |
+| 956 | 66 | Dennis Ripley |
+| 957 | 66 | Meepycat |
+| 958 | 66 | Meluhnee |
+| 959 | 66 | Sugar Foot |
+| 960 | 65 | Furlough Leslie |
+| 961 | 65 | Vonda House |
+| 962 | 65 | Charika Marie Bergmann |
+| 963 | 65 | Rande Smith |
+| 964 | 65 | Trixie |
+| 965 | 65 | WReckitraff |
+| 966 | 65 | Quwana Hall |
+| 967 | 65 | Renee J. Thomas |
+| 968 | 65 | Benjamin Livingston |
+| 969 | 64 | Kiki |
+| 970 | 64 | Alexis Alexander |
+| 971 | 64 | Morenita Rodriguez |
+| 972 | 64 | Elaine Youmans |
 | 973 | 64 | Capt Kev |
 | 974 | 64 | Kanesha Jackson |
-| 975 | 63 | Hoppy Buildsnap |
-| 976 | 63 | Abdul Malik |
+| 975 | 63 | Abdul Malik |
+| 976 | 63 | Alanna Breitenbach |
 | 977 | 63 | Tonny Williams |
 | 978 | 63 | Natasha Harris |
-| 979 | 63 | Amanda Colwell |
-| 980 | 63 | Tony P Burke |
-| 981 | 63 | Darrelle Short |
-| 982 | 63 | Alanna Breitenbach |
-| 983 | 63 | GetDaOPPS |
-| 984 | 63 | Gary Kyle |
+| 979 | 63 | Tony P Burke |
+| 980 | 63 | Darrelle Short |
+| 981 | 63 | Hoppy Buildsnap |
+| 982 | 63 | GetDaOPPS |
+| 983 | 63 | Gary Kyle |
+| 984 | 63 | Amanda Colwell |
 | 985 | 63 | Jeremy Hendrix |
 | 986 | 62 | AnnaM |
 | 987 | 62 | Quirky Slammer |
