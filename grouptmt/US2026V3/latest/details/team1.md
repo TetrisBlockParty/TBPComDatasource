@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:44:43 UTC
+# Standings for team1 as of 2026-06-08 00:45:19 UTC
 
 **Total Participants:** 1636
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 25500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 11539 | Charlie Roehm |
+| 3 | 11563 | Charlie Roehm |
 | 4 | 10055 | Carrie English |
 | 5 | 9071 | Charnay Peacock |
 | 6 | 8746 | Tyeina Johnson |
@@ -92,9 +92,9 @@
 | 84 | 809 | Jazzy Dashpiece |
 | 85 | 800 | Chenell Gillard |
 | 86 | 796 | Jaida De'Anne Cox |
-| 87 | 795 | Joy Citizen Pickney |
-| 88 | 784 | Todd C. Clemens |
-| 89 | 775 | Keeta Chickswit Scott |
+| 87 | 795 | Keeta Chickswit Scott |
+| 88 | 795 | Joy Citizen Pickney |
+| 89 | 784 | Todd C. Clemens |
 | 90 | 767 | KenpachisGirl |
 | 91 | 763 | Richard Horton |
 | 92 | 749 | Aviv Zehavi |

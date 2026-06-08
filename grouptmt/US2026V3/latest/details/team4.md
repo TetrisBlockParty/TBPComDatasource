@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 00:44:43 UTC
+# Standings for team4 as of 2026-06-08 00:45:19 UTC
 
 **Total Participants:** 1676
 
@@ -70,7 +70,7 @@
 | 62 | 1156 | Giggy Matchpiece |
 | 63 | 1128 | MysticMaven |
 | 64 | 1119 | Bryan DjMagnum Evans |
-| 65 | 1000 | Sassy Column |
+| 65 | 1050 | Sassy Column |
 | 66 | 987 | Gloria Nunley Trussell |
 | 67 | 981 | Tina Shalay Hayes |
 | 68 | 971 | Loony Towerer |
@@ -118,7 +118,7 @@
 | 110 | 610 | Dandy Clearfit |
 | 111 | 605 | Ermadette |
 | 112 | 593 | Caitlyn Wang |
-| 113 | 588 | Kim |
+| 113 | 590 | Kim |
 | 114 | 576 | CJ |
 | 115 | 567 | Cranky Towerbuilder |
 | 116 | 564 | Krysten Danielle Richard |
