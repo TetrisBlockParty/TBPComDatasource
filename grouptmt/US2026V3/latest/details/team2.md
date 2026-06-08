@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:56:21 UTC
+# Standings for team2 as of 2026-06-08 10:56:44 UTC
 
 **Total Participants:** 2154
 
@@ -28,7 +28,7 @@
 | 20 | 5150 | boblawboblaw |
 | 21 | 5001 | Bobbi |
 | 22 | 4947 | Lola C Davis |
-| 23 | 4609 | Alexia Reagan |
+| 23 | 4659 | Alexia Reagan |
 | 24 | 4459 | Kathleen M Cox |
 | 25 | 4228 | Erica Dees Parks |
 | 26 | 4199 | Jewels |
@@ -93,7 +93,7 @@
 | 85 | 1288 | Amber-leigh Williams |
 | 86 | 1284 | Nawang Nawang |
 | 87 | 1276 | Jenny Graham |
-| 88 | 1217 | Mikki Torres |
+| 88 | 1257 | Mikki Torres |
 | 89 | 1194 | Epic Frame |
 | 90 | 1182 | Jayke Edward |
 | 91 | 1181 | Giddy Slamdrop |
@@ -130,8 +130,8 @@
 | 122 | 832 | Amber Triguero |
 | 123 | 829 | Ricardo Ewart |
 | 124 | 812 | Courtney McCulley |
-| 125 | 800 | Denise Potter |
-| 126 | 799 | Sarah Griffey |
+| 125 | 810 | Sarah Griffey |
+| 126 | 800 | Denise Potter |
 | 127 | 789 | Zachary Vymislicky |
 | 128 | 787 | Mirr Lulu |
 | 129 | 786 | Sarah Mccolgan |
@@ -252,15 +252,15 @@
 | 244 | 391 | La chulis |
 | 245 | 390 | Fudgie Pie |
 | 246 | 386 | Jennifer Smith |
-| 247 | 383 | Jenna Stahl |
-| 248 | 382 | Rachel Nilles |
-| 249 | 380 | Heather Burgett |
+| 247 | 383 | Heather Burgett |
+| 248 | 383 | Jenna Stahl |
+| 249 | 382 | Rachel Nilles |
 | 250 | 380 | Bb |
 | 251 | 379 | Lora Via |
 | 252 | 379 | Greta Warden |
 | 253 | 376 | Traci Abern |
-| 254 | 376 | Chill Line |
-| 255 | 376 | Jamie Fenyus |
+| 254 | 376 | Jamie Fenyus |
+| 255 | 376 | Chill Line |
 | 256 | 375 | Branden Frankowski |
 | 257 | 375 | Brittni Lawrence |
 | 258 | 373 | Hoppy Mover |
@@ -282,8 +282,8 @@
 | 274 | 331 | Shannon Wilson |
 | 275 | 328 | Xandrea Jones |
 | 276 | 328 | Tim Tim |
-| 277 | 327 | Iesha Cupil |
-| 278 | 327 | Jumpy Matchbuilder |
+| 277 | 327 | Jumpy Matchbuilder |
+| 278 | 327 | Iesha Cupil |
 | 279 | 327 | Chipper Stackbuilder |
 | 280 | 325 | Flashy Twistline |
 | 281 | 325 | Snappy Combo |

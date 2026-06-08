@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:56:21 UTC
+# Standings for team4 as of 2026-06-08 10:56:44 UTC
 
 **Total Participants:** 1814
 
@@ -657,19 +657,19 @@
 | 649 | 114 | LandO |
 | 650 | 114 | Emjae Tupaz-Rivera |
 | 651 | 113 | Melissa Anne |
-| 652 | 113 | Marina |
-| 653 | 113 | Renzo Tonini |
+| 652 | 113 | Renzo Tonini |
+| 653 | 113 | Marina |
 | 654 | 113 | Shaunna Caldwell |
-| 655 | 113 | mikey moo |
-| 656 | 113 | Butterfly |
-| 657 | 112 | medicjessi |
-| 658 | 112 | Khiem Hernandez |
+| 655 | 113 | Butterfly |
+| 656 | 113 | mikey moo |
+| 657 | 112 | Khiem Hernandez |
+| 658 | 112 | medicjessi |
 | 659 | 112 | Candice Sellers Worley |
 | 660 | 112 | Lolita Nettles |
 | 661 | 112 | Shaneé Staunton |
 | 662 | 111 | Peachy Piecefit |
-| 663 | 111 | Richard Bearse |
-| 664 | 111 | Elena Marí |
+| 663 | 111 | Elena Marí |
+| 664 | 111 | Richard Bearse |
 | 665 | 111 | Wacky Brick |
 | 666 | 110 | Andreas Vs Shinky |
 | 667 | 110 | Jennifer Brucz |
@@ -687,35 +687,35 @@
 | 679 | 108 | Suzi Smas |
 | 680 | 108 | sierrabeth |
 | 681 | 108 | Miranda Brown |
-| 682 | 107 | Daniel Lossman |
-| 683 | 107 | Haylee Talkington |
-| 684 | 107 | Bonique Bier |
-| 685 | 106 | Charlene Nicole Guidry |
-| 686 | 106 | Deana Teck |
-| 687 | 105 | Debby Muniz |
-| 688 | 105 | Renita Jordan |
-| 689 | 105 | Mar Mar |
-| 690 | 105 | Surviving Be Back Soon |
-| 691 | 105 | Heather Brown |
-| 692 | 105 | Jennifer Evans Elliott |
-| 693 | 105 | Joshua Garner |
-| 694 | 104 | Mmm |
-| 695 | 104 | Yvette Johnson |
-| 696 | 104 | Goofy Riserbuilder |
-| 697 | 103 | Groovy Matchgrid |
-| 698 | 103 | Misti Rich |
-| 699 | 103 | Lush Twisterfit |
+| 682 | 108 | Cozy Patternline |
+| 683 | 107 | Daniel Lossman |
+| 684 | 107 | Haylee Talkington |
+| 685 | 107 | Bonique Bier |
+| 686 | 106 | Charlene Nicole Guidry |
+| 687 | 106 | Deana Teck |
+| 688 | 105 | Joshua Garner |
+| 689 | 105 | Jennifer Evans Elliott |
+| 690 | 105 | Heather Brown |
+| 691 | 105 | Renita Jordan |
+| 692 | 105 | Debby Muniz |
+| 693 | 105 | Mar Mar |
+| 694 | 105 | Surviving Be Back Soon |
+| 695 | 104 | Mmm |
+| 696 | 104 | Yvette Johnson |
+| 697 | 104 | Goofy Riserbuilder |
+| 698 | 103 | Groovy Matchgrid |
+| 699 | 103 | Courtney Niichole |
 | 700 | 103 | Kayla Haddenham |
-| 701 | 103 | Cozy Patternline |
-| 702 | 103 | Angela Adamo-Tash |
-| 703 | 103 | Courtney Niichole |
-| 704 | 103 | Lady |
-| 705 | 102 | Brenda Gustamantes |
-| 706 | 102 | Lamont |
-| 707 | 102 | Spicy Peach |
-| 708 | 102 | Kat Foreman |
-| 709 | 102 | Taisha Beasley |
-| 710 | 102 | Clever Fallzone |
+| 701 | 103 | Lush Twisterfit |
+| 702 | 103 | Misti Rich |
+| 703 | 103 | Lady |
+| 704 | 103 | Angela Adamo-Tash |
+| 705 | 102 | Kat Foreman |
+| 706 | 102 | Brenda Gustamantes |
+| 707 | 102 | Taisha Beasley |
+| 708 | 102 | Clever Fallzone |
+| 709 | 102 | Lamont |
+| 710 | 102 | Spicy Peach |
 | 711 | 101 | David Lay |
 | 712 | 101 | ManOfSteel |
 | 713 | 101 | Abby Waterman |
@@ -1653,11 +1653,11 @@
 | 1645 | 15 | Hashanah Williams |
 | 1646 | 15 | Tricki Woo |
 | 1647 | 15 | Wacky Clusterer |
-| 1648 | 15 | Nicole Gilmore |
-| 1649 | 15 | Kiara Johnson |
-| 1650 | 14 | Laura Ratliff |
-| 1651 | 14 | Snippy Twister |
-| 1652 | 14 | Jose Leandro Calderin |
+| 1648 | 15 | Jose Leandro Calderin |
+| 1649 | 15 | Nicole Gilmore |
+| 1650 | 15 | Kiara Johnson |
+| 1651 | 14 | Laura Ratliff |
+| 1652 | 14 | Snippy Twister |
 | 1653 | 14 | Tammy Santiago |
 | 1654 | 14 | Evie |
 | 1655 | 14 | G Money |
