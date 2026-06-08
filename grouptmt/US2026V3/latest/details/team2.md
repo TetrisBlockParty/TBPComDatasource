@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:02:43 UTC
+# Standings for team2 as of 2026-06-08 19:03:20 UTC
 
 **Total Participants:** 2248
 
@@ -387,8 +387,8 @@
 | 379 | 299 | Jennifer Covington |
 | 380 | 299 | Alicia Kinney |
 | 381 | 296 | Kathleen Keogh Van Schoyck |
-| 382 | 295 | Rosalie Call Kehlenbeck |
-| 383 | 291 | Mouh Med |
+| 382 | 296 | Mouh Med |
+| 383 | 295 | Rosalie Call Kehlenbeck |
 | 384 | 291 | Brittany Mathis |
 | 385 | 290 | Kristi Chestnut |
 | 386 | 290 | Dad |
@@ -960,39 +960,39 @@
 | 952 | 103 | Ashley Fleming |
 | 953 | 102 | Diamond Mitchell |
 | 954 | 102 | Kaylene Rigas |
-| 955 | 102 | Renee Craig |
-| 956 | 102 | Samantha Brown |
-| 957 | 102 | Tetrismastrr |
-| 958 | 102 | Chirpy Clearpiece |
-| 959 | 102 | Jolene Hull Hearn |
-| 960 | 101 | bozzycat |
-| 961 | 101 | Amy D Coble |
-| 962 | 101 | Perky Linebuilder |
-| 963 | 101 | Cynthia Dawn Reitz Hanson |
-| 964 | 101 | Michael Delozier |
-| 965 | 101 | Megan McDevitt |
-| 966 | 100 | Tony Williams |
-| 967 | 100 | William Dowd |
-| 968 | 100 | Hoppy Linkblock |
-| 969 | 100 | Rachel Wooldridge |
-| 970 | 100 | Kay |
-| 971 | 100 | Giggy Balancefit |
-| 972 | 100 | Tipsy Twistbuilder |
-| 973 | 100 | Ahada Seber |
-| 974 | 100 | Amanda Kennedy |
-| 975 | 100 | Robin Lamb |
-| 976 | 100 | Angie Rose |
-| 977 | 100 | Devon |
-| 978 | 100 | Epic Slice |
-| 979 | 100 | Loriane Shumate Griggs |
-| 980 | 100 | Ava |
-| 981 | 100 | Cool Balancer |
-| 982 | 100 | Brandi Williams |
-| 983 | 100 | Jackie Moran Tiller |
-| 984 | 100 | Nerdy Linebuilder |
-| 985 | 100 | Nicole Chestnut |
-| 986 | 100 | Denna Marteney |
-| 987 | 100 | Natalie M. Arredondo |
+| 955 | 102 | Natalie M. Arredondo |
+| 956 | 102 | Renee Craig |
+| 957 | 102 | Samantha Brown |
+| 958 | 102 | Tetrismastrr |
+| 959 | 102 | Chirpy Clearpiece |
+| 960 | 102 | Jolene Hull Hearn |
+| 961 | 101 | bozzycat |
+| 962 | 101 | Amy D Coble |
+| 963 | 101 | Perky Linebuilder |
+| 964 | 101 | Cynthia Dawn Reitz Hanson |
+| 965 | 101 | Michael Delozier |
+| 966 | 101 | Megan McDevitt |
+| 967 | 100 | Tony Williams |
+| 968 | 100 | William Dowd |
+| 969 | 100 | Hoppy Linkblock |
+| 970 | 100 | Rachel Wooldridge |
+| 971 | 100 | Kay |
+| 972 | 100 | Giggy Balancefit |
+| 973 | 100 | Tipsy Twistbuilder |
+| 974 | 100 | Ahada Seber |
+| 975 | 100 | Amanda Kennedy |
+| 976 | 100 | Robin Lamb |
+| 977 | 100 | Angie Rose |
+| 978 | 100 | Devon |
+| 979 | 100 | Epic Slice |
+| 980 | 100 | Loriane Shumate Griggs |
+| 981 | 100 | Ava |
+| 982 | 100 | Cool Balancer |
+| 983 | 100 | Brandi Williams |
+| 984 | 100 | Jackie Moran Tiller |
+| 985 | 100 | Nerdy Linebuilder |
+| 986 | 100 | Nicole Chestnut |
+| 987 | 100 | Denna Marteney |
 | 988 | 100 | Donna Segletes Kay |
 | 989 | 100 | Duck |
 | 990 | 100 | Bonita Alexander |
