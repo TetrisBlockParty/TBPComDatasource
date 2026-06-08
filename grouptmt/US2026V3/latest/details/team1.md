@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:28:42 UTC
+# Standings for team1 as of 2026-06-08 08:29:19 UTC
 
 **Total Participants:** 1762
 
@@ -517,9 +517,9 @@
 | 509 | 144 | Ta'Kaiyah M. Spann |
 | 510 | 144 | Hardtohandle91 |
 | 511 | 143 | Ashlie Mo |
-| 512 | 142 | Kelley Johnson |
-| 513 | 142 | Sarah Steckbauer |
-| 514 | 141 | Kate Hancock Malicek |
+| 512 | 143 | Kate Hancock Malicek |
+| 513 | 142 | Kelley Johnson |
+| 514 | 142 | Sarah Steckbauer |
 | 515 | 141 | Frances Davis |
 | 516 | 141 | Shalena Marie Humphrey |
 | 517 | 140 | Antoinette Jones |
