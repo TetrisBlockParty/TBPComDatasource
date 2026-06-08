@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 11:02:41 UTC
+# Standings for team4 as of 2026-06-08 11:03:19 UTC
 
 **Total Participants:** 1816
 
@@ -342,61 +342,61 @@
 | 334 | 221 | Laurie Patrick |
 | 335 | 220 | Sarah Montagne Forsberg |
 | 336 | 220 | Maurice DeJean |
-| 337 | 220 | Anthony Magaraci |
-| 338 | 220 | Holly Wessel |
+| 337 | 220 | Holly Wessel |
+| 338 | 220 | Anthony Magaraci |
 | 339 | 219 | JoAnn Summerlot Ratliff |
 | 340 | 219 | Tiffany Smith |
 | 341 | 219 | Crystal Hammonds |
 | 342 | 218 | Codey Haffner |
 | 343 | 216 | Alyson M Kehler |
 | 344 | 216 | Smiley Gridzone |
-| 345 | 213 | Toon Up |
-| 346 | 210 | Gary Smallwood |
-| 347 | 210 | Sfalcon1. |
-| 348 | 209 | Ashley Mcdonald |
-| 349 | 209 | Genger |
-| 350 | 209 | Chirpy Snapclear |
-| 351 | 209 | Lively Blockpiece |
-| 352 | 208 | Justin Janachovsky |
-| 353 | 207 | Lanelva Tiredofbs Marshall |
-| 354 | 207 | ariel |
+| 345 | 215 | Drh4090 |
+| 346 | 213 | Toon Up |
+| 347 | 210 | Gary Smallwood |
+| 348 | 210 | Sfalcon1. |
+| 349 | 209 | Ashley Mcdonald |
+| 350 | 209 | Genger |
+| 351 | 209 | Chirpy Snapclear |
+| 352 | 209 | Lively Blockpiece |
+| 353 | 208 | Justin Janachovsky |
+| 354 | 207 | Lanelva Tiredofbs Marshall |
 | 355 | 207 | Izz |
-| 356 | 206 | Rachel Lemos |
-| 357 | 206 | Brandy Lynn |
-| 358 | 206 | Stacy G |
-| 359 | 206 | Joab Gonzalez |
-| 360 | 205 | Ross Bryant |
-| 361 | 205 | Matthew Wilcox |
-| 362 | 205 | Littlebrat |
-| 363 | 204 | Cecilia Hicks |
-| 364 | 204 | Dapper Strikerpiece |
+| 356 | 207 | ariel |
+| 357 | 206 | Joab Gonzalez |
+| 358 | 206 | Brandy Lynn |
+| 359 | 206 | Stacy G |
+| 360 | 206 | Rachel Lemos |
+| 361 | 205 | Littlebrat |
+| 362 | 205 | Matthew Wilcox |
+| 363 | 205 | Ross Bryant |
+| 364 | 204 | Cecilia Hicks |
 | 365 | 204 | Clashy |
-| 366 | 203 | Drh4090 |
-| 367 | 202 | Breezy Cascadeclear |
-| 368 | 202 | kellie |
-| 369 | 202 | CrashOutCarla |
-| 370 | 202 | Lora Schallert |
-| 371 | 202 | Chris McBlockster |
+| 366 | 204 | Dapper Strikerpiece |
+| 367 | 202 | CrashOutCarla |
+| 368 | 202 | Chris McBlockster |
+| 369 | 202 | kellie |
+| 370 | 202 | Breezy Cascadeclear |
+| 371 | 202 | Lora Schallert |
 | 372 | 201 | LaToya LeBlanc |
-| 373 | 200 | Jessi Goodwin |
+| 373 | 200 | Slinky Stackzone |
 | 374 | 200 | Knijur Callins |
-| 375 | 200 | Slinky Stackzone |
+| 375 | 200 | Jessi Goodwin |
 | 376 | 200 | Miwa |
 | 377 | 200 | Tasha Suzanne Prisbrey |
 | 378 | 200 | Carla Woodard |
 | 379 | 200 | Ashley Robbins |
 | 380 | 199 | Janet Willoughby |
 | 381 | 199 | Nicole Dombrow |
-| 382 | 198 | Mint Marquez |
-| 383 | 198 | JIGsaw ~(•¿°)~ |
-| 384 | 198 | Dawn Phelps |
+| 382 | 198 | Dawn Phelps |
+| 383 | 198 | Mint Marquez |
+| 384 | 198 | JIGsaw ~(•¿°)~ |
 | 385 | 198 | Cranky Buildout |
 | 386 | 197 | Zesty Twistpiece |
 | 387 | 196 | Morgan Stevens |
-| 388 | 196 | Loopy Clusterline |
-| 389 | 196 | Melissa Lowe |
-| 390 | 195 | maria |
-| 391 | 195 | Cari Underwood |
+| 388 | 196 | Melissa Lowe |
+| 389 | 196 | Loopy Clusterline |
+| 390 | 195 | Cari Underwood |
+| 391 | 195 | maria |
 | 392 | 195 | Maegon Brazille |
 | 393 | 195 | Karen Small |
 | 394 | 195 | Sean Mccleary |
@@ -1026,28 +1026,28 @@
 | 1018 | 64 | Daring Brickbuilder |
 | 1019 | 63 | ButterfliesRFree |
 | 1020 | 63 | Bridget Reilly |
-| 1021 | 63 | JP |
-| 1022 | 63 | San |
-| 1023 | 62 | Shane Tate |
-| 1024 | 62 | Casey Thomas |
-| 1025 | 62 | Tati |
-| 1026 | 62 | Leslie Ramos |
-| 1027 | 62 | Zippy Snaplink |
-| 1028 | 62 | Marie Culbert |
-| 1029 | 62 | Giggly Gridzone |
+| 1021 | 63 | Tati |
+| 1022 | 63 | JP |
+| 1023 | 63 | San |
+| 1024 | 62 | Shane Tate |
+| 1025 | 62 | Leslie Ramos |
+| 1026 | 62 | Zippy Snaplink |
+| 1027 | 62 | Marie Culbert |
+| 1028 | 62 | Giggly Gridzone |
+| 1029 | 62 | Casey Thomas |
 | 1030 | 62 | Pink Tetramino |
 | 1031 | 61 | Milton Lawrence |
 | 1032 | 61 | Jessica Caminos |
-| 1033 | 61 | Maicy Darrah |
-| 1034 | 61 | Charles Chauffe |
-| 1035 | 61 | Heidi Lyn Ramirez |
-| 1036 | 61 | Michellee Lewis |
-| 1037 | 61 | Snappy Fill |
-| 1038 | 61 | Archer Family Mayhem |
-| 1039 | 61 | Luunii |
-| 1040 | 61 | Danielle Sulano |
-| 1041 | 61 | Becky Bernazal |
-| 1042 | 61 | MsThick SrtLady Williams |
+| 1033 | 61 | Luunii |
+| 1034 | 61 | Archer Family Mayhem |
+| 1035 | 61 | Snappy Fill |
+| 1036 | 61 | Danielle Sulano |
+| 1037 | 61 | Becky Bernazal |
+| 1038 | 61 | Michellee Lewis |
+| 1039 | 61 | MsThick SrtLady Williams |
+| 1040 | 61 | Heidi Lyn Ramirez |
+| 1041 | 61 | Charles Chauffe |
+| 1042 | 61 | Maicy Darrah |
 | 1043 | 60 | Saucy Matchfit |
 | 1044 | 60 | Tiffy |
 | 1045 | 60 | Chelsea Costa |
