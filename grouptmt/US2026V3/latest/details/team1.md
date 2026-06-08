@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:19:21 UTC
+# Standings for team1 as of 2026-06-08 09:20:20 UTC
 
 **Total Participants:** 1767
 
@@ -51,19 +51,19 @@
 | 43 | 1684 | Ceilo Marie |
 | 44 | 1681 | Jolly Dropzone |
 | 45 | 1633 | Cherry Rose |
-| 46 | 1564 | Chris Russell |
-| 47 | 1548 | Jennifer To |
-| 48 | 1544 | Weeze |
-| 49 | 1538 | Jacoby E Fleming |
-| 50 | 1489 | Robyn Caldwell |
-| 51 | 1482 | Shortstak |
-| 52 | 1461 | Janet Cooke |
-| 53 | 1332 | D'Andra Stewart |
-| 54 | 1255 | Ashley Espeut |
-| 55 | 1251 | Daylene Johannes |
-| 56 | 1239 | Holly Jolly |
-| 57 | 1207 | Angela R Wilson |
-| 58 | 1200 | Rosey |
+| 46 | 1600 | Rosey |
+| 47 | 1564 | Chris Russell |
+| 48 | 1548 | Jennifer To |
+| 49 | 1544 | Weeze |
+| 50 | 1538 | Jacoby E Fleming |
+| 51 | 1489 | Robyn Caldwell |
+| 52 | 1482 | Shortstak |
+| 53 | 1461 | Janet Cooke |
+| 54 | 1332 | D'Andra Stewart |
+| 55 | 1255 | Ashley Espeut |
+| 56 | 1251 | Daylene Johannes |
+| 57 | 1239 | Holly Jolly |
+| 58 | 1207 | Angela R Wilson |
 | 59 | 1200 | Spicy Balancer |
 | 60 | 1191 | Louis Richard Jr |
 | 61 | 1171 | Aviv Zehavi |
@@ -1699,80 +1699,80 @@
 | 1691 | 8 | Abhay Raj |
 | 1692 | 8 | Rixo Blax |
 | 1693 | 8 | DoMinique Lee |
-| 1694 | 8 | Nissa |
+| 1694 | 8 | Almarasha Grice |
 | 1695 | 8 | Chill Tumbler |
-| 1696 | 8 | David Anthony |
-| 1697 | 8 | Frothy Matchpiece |
-| 1698 | 8 | Elizabeth Castro |
-| 1699 | 8 | Almarasha Grice |
-| 1700 | 8 | Andrew James |
-| 1701 | 8 | Ferocity |
-| 1702 | 8 | Jädaa Laa'Destïnyy |
-| 1703 | 8 | Chevonne Huggins |
+| 1696 | 8 | Frothy Matchpiece |
+| 1697 | 8 | Elizabeth Castro |
+| 1698 | 8 | Nissa |
+| 1699 | 8 | David Anthony |
+| 1700 | 8 | Ferocity |
+| 1701 | 8 | Jädaa Laa'Destïnyy |
+| 1702 | 8 | Chevonne Huggins |
+| 1703 | 8 | Andrew James |
 | 1704 | 8 | Groovy Riseclear |
-| 1705 | 7 | Court Ney |
-| 1706 | 7 | Deadra Graham |
-| 1707 | 7 | Sassy Dashfit |
-| 1708 | 7 | Mary2 |
-| 1709 | 7 | Alexis Farquer |
-| 1710 | 7 | Sheena Hamilton |
-| 1711 | 7 | CauliMac |
+| 1705 | 7 | Deadra Graham |
+| 1706 | 7 | Jamal Richmond |
+| 1707 | 7 | CauliMac |
+| 1708 | 7 | Sheena Hamilton |
+| 1709 | 7 | Mary2 |
+| 1710 | 7 | Sassy Dashfit |
+| 1711 | 7 | Stephanie L Jeffries Moultrie |
 | 1712 | 7 | Joey Hoover |
-| 1713 | 7 | Shane Brucewayne |
-| 1714 | 7 | Quana |
-| 1715 | 7 | Jamal Richmond |
-| 1716 | 7 | Lively Edgefit |
-| 1717 | 7 | Stephanie L Jeffries Moultrie |
+| 1713 | 7 | Quana |
+| 1714 | 7 | Bryan Dell |
+| 1715 | 7 | Alexis Farquer |
+| 1716 | 7 | Court Ney |
+| 1717 | 7 | Shane Brucewayne |
 | 1718 | 7 | RMGreen |
-| 1719 | 7 | Hyper Basepiece |
-| 1720 | 7 | Brittany Killebrew |
-| 1721 | 7 | Teresa F. Campos Eaton |
-| 1722 | 7 | Roscoe |
-| 1723 | 7 | Dimitri Moore |
-| 1724 | 7 | John Boone |
-| 1725 | 7 | Frisky Cascadefit |
-| 1726 | 7 | KingSlim82 |
-| 1727 | 7 | Bryan Dell |
+| 1719 | 7 | John Boone |
+| 1720 | 7 | Hyper Basepiece |
+| 1721 | 7 | Dimitri Moore |
+| 1722 | 7 | Andrew Harris |
+| 1723 | 7 | style |
+| 1724 | 7 | Lively Edgefit |
+| 1725 | 7 | Brittany Killebrew |
+| 1726 | 7 | Roscoe |
+| 1727 | 7 | Teresa F. Campos Eaton |
 | 1728 | 7 | Beverly Kaday |
-| 1729 | 7 | style |
-| 1730 | 7 | Andrew Harris |
-| 1731 | 6 | Shadena M Carter Mba |
-| 1732 | 6 | Giddy Bricky |
-| 1733 | 6 | NEM0228 |
-| 1734 | 6 | CK |
+| 1729 | 7 | Frisky Cascadefit |
+| 1730 | 7 | KingSlim82 |
+| 1731 | 6 | Stevie Malcon |
+| 1732 | 6 | Nena |
+| 1733 | 6 | CK |
+| 1734 | 6 | party t-rex 27 |
 | 1735 | 6 | Nerdy Slam |
 | 1736 | 6 | Andrae Robinson |
-| 1737 | 6 | DaShawntae Durham |
-| 1738 | 6 | Sunny Shatterer |
-| 1739 | 6 | party t-rex 27 |
-| 1740 | 6 | Tammy Hooser |
-| 1741 | 6 | Lynn Formby |
-| 1742 | 6 | Kyshia |
-| 1743 | 6 | Jennifer Rogers |
-| 1744 | 6 | Nena |
-| 1745 | 6 | Ruben Baca |
-| 1746 | 6 | Stevie Malcon |
-| 1747 | 5 | MrKeith Debraux |
-| 1748 | 5 | the guy |
-| 1749 | 5 | VERA DAME |
-| 1750 | 5 | Wacky1 |
-| 1751 | 5 | Danielle Mariyh Toomer |
-| 1752 | 5 | Joi |
-| 1753 | 5 | Derek Beverly |
+| 1737 | 6 | Tammy Hooser |
+| 1738 | 6 | NEM0228 |
+| 1739 | 6 | Lynn Formby |
+| 1740 | 6 | Sunny Shatterer |
+| 1741 | 6 | DaShawntae Durham |
+| 1742 | 6 | Giddy Bricky |
+| 1743 | 6 | Shadena M Carter Mba |
+| 1744 | 6 | Jennifer Rogers |
+| 1745 | 6 | Kyshia |
+| 1746 | 6 | Ruben Baca |
+| 1747 | 5 | Joi |
+| 1748 | 5 | Jennifer Haton Kreighbaum |
+| 1749 | 5 | Danielle Mariyh Toomer |
+| 1750 | 5 | VERA DAME |
+| 1751 | 5 | the guy |
+| 1752 | 5 | Wacky1 |
+| 1753 | 5 | Amber Interrobang |
 | 1754 | 5 | Pamela Cooper |
-| 1755 | 5 | pettymexoxo |
-| 1756 | 5 | Cleversphinx76 |
-| 1757 | 5 | Jennifer Haton Kreighbaum |
-| 1758 | 5 | Amber Interrobang |
-| 1759 | 5 | Goofy T-spin |
-| 1760 | 5 | Misty Sollberger |
+| 1755 | 5 | Derek Beverly |
+| 1756 | 5 | Misty Sollberger |
+| 1757 | 5 | Goofy T-spin |
+| 1758 | 5 | Crafty Fallzone |
+| 1759 | 5 | Cleversphinx76 |
+| 1760 | 5 | pettymexoxo |
 | 1761 | 5 | Godz Chosen |
 | 1762 | 5 | Zesty Brickline |
 | 1763 | 5 | Happy |
 | 1764 | 5 | Andy Barnett |
 | 1765 | 5 | Joy Baker |
-| 1766 | 5 | Angelique Thomas |
-| 1767 | 5 | Crafty Fallzone |
+| 1766 | 5 | MrKeith Debraux |
+| 1767 | 5 | Angelique Thomas |
 
 ---
 *Standings created by tournaments datasource generation tool*
