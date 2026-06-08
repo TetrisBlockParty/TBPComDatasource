@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:01:23 UTC
+# Standings for team1 as of 2026-06-08 05:02:20 UTC
 
 **Total Participants:** 1719
 
@@ -94,7 +94,7 @@
 | 86 | 882 | Jon Gathers |
 | 87 | 875 | Chenell Gillard |
 | 88 | 867 | She Higgy |
-| 89 | 855 | Keeta Chickswit Scott |
+| 89 | 860 | Keeta Chickswit Scott |
 | 90 | 851 | Moomoo |
 | 91 | 809 | Jazzy Dashpiece |
 | 92 | 807 | KenpachisGirl |
@@ -193,23 +193,23 @@
 | 185 | 369 | TT |
 | 186 | 367 | Leebo Slice |
 | 187 | 365 | Tishauna Virgo |
-| 188 | 364 | Michele Simpson |
-| 189 | 363 | Christina Rebecca |
-| 190 | 362 | Jessica Russell |
-| 191 | 361 | John Staub |
-| 192 | 359 | pooh |
-| 193 | 356 | Dedra M Prester |
-| 194 | 356 | Haley Bell |
-| 195 | 356 | Tina Mitchell |
-| 196 | 354 | Block King |
-| 197 | 354 | Mic Balew |
-| 198 | 352 | Jayjay Rich |
-| 199 | 350 | Slim Shedidthat |
-| 200 | 349 | Plucky Slamdrop |
-| 201 | 348 | IThinkNot |
-| 202 | 347 | Tamara N Lee |
-| 203 | 346 | Kenny 'Tailormade' Boyd |
-| 204 | 345 | Marcheta Cervantez |
+| 188 | 365 | Marcheta Cervantez |
+| 189 | 364 | Michele Simpson |
+| 190 | 363 | Christina Rebecca |
+| 191 | 362 | Jessica Russell |
+| 192 | 361 | John Staub |
+| 193 | 359 | pooh |
+| 194 | 356 | Dedra M Prester |
+| 195 | 356 | Haley Bell |
+| 196 | 356 | Tina Mitchell |
+| 197 | 354 | Block King |
+| 198 | 354 | Mic Balew |
+| 199 | 352 | Jayjay Rich |
+| 200 | 350 | Slim Shedidthat |
+| 201 | 349 | Plucky Slamdrop |
+| 202 | 348 | IThinkNot |
+| 203 | 347 | Tamara N Lee |
+| 204 | 346 | Kenny 'Tailormade' Boyd |
 | 205 | 345 | Ebony |
 | 206 | 343 | Yasmin Nakea Wright |
 | 207 | 340 | Spicy Risepiece |
@@ -278,8 +278,8 @@
 | 270 | 269 | DaGuy |
 | 271 | 266 | Jhonny Maii |
 | 272 | 263 | Dacia Hicks |
-| 273 | 263 | Choc |
-| 274 | 262 | Wild Out Nai |
+| 273 | 263 | Wild Out Nai |
+| 274 | 263 | Choc |
 | 275 | 260 | Jhaime |
 | 276 | 260 | Ann Chung |
 | 277 | 260 | Nerdy Blockpiece |
@@ -320,7 +320,7 @@
 | 312 | 227 | Chasem45 |
 | 313 | 224 | Asha Langford |
 | 314 | 223 | MamushiOh |
-| 315 | 222 | Still Ten Tay |
+| 315 | 223 | Still Ten Tay |
 | 316 | 221 | Chandler Magee |
 | 317 | 220 | rls |
 | 318 | 220 | Christian Pham |
@@ -494,35 +494,35 @@
 | 486 | 142 | Kelley Johnson |
 | 487 | 141 | Shalena Marie Humphrey |
 | 488 | 141 | Kate Hancock Malicek |
-| 489 | 140 | Tracey Johnson |
-| 490 | 140 | Antoinette Jones |
+| 489 | 140 | Antoinette Jones |
+| 490 | 140 | Tracey Johnson |
 | 491 | 140 | Kennedi Brazziel |
-| 492 | 139 | Tracy Feyler |
-| 493 | 139 | Bold Clusterer |
-| 494 | 138 | Dreamzzz |
-| 495 | 138 | Ozell Jones Jr. |
-| 496 | 138 | Yadira Salgado |
-| 497 | 138 | Claudia Price |
-| 498 | 138 | Ashley Monet Terrell |
+| 492 | 139 | Bold Clusterer |
+| 493 | 139 | Tracy Feyler |
+| 494 | 138 | Claudia Price |
+| 495 | 138 | Yadira Salgado |
+| 496 | 138 | Ashley Monet Terrell |
+| 497 | 138 | Ozell Jones Jr. |
+| 498 | 138 | Dreamzzz |
 | 499 | 137 | Kelvin Cook |
 | 500 | 137 | Amy Villalpando |
-| 501 | 136 | Shakuria Cortia Burney |
-| 502 | 136 | Char |
-| 503 | 136 | The DUBZ |
-| 504 | 136 | Gbnola |
-| 505 | 135 | Chirpy Buildgrid |
-| 506 | 135 | Marshall Davis |
-| 507 | 135 | MzJuice Box |
-| 508 | 135 | Saucy Tile |
-| 509 | 135 | Shameka Tiffany |
-| 510 | 134 | Perky Pusher |
-| 511 | 134 | Taz Ballard |
-| 512 | 134 | Aaron Hartmann |
-| 513 | 134 | Mighty Dropper |
-| 514 | 133 | Kimberly Susan Privette |
-| 515 | 133 | Marlynnnnn |
-| 516 | 133 | Yashicha Hertzock |
-| 517 | 133 | Jenni Hardman |
+| 501 | 137 | Jenni Hardman |
+| 502 | 136 | The DUBZ |
+| 503 | 136 | Shakuria Cortia Burney |
+| 504 | 136 | Char |
+| 505 | 136 | Gbnola |
+| 506 | 135 | Chirpy Buildgrid |
+| 507 | 135 | Marshall Davis |
+| 508 | 135 | MzJuice Box |
+| 509 | 135 | Saucy Tile |
+| 510 | 135 | Shameka Tiffany |
+| 511 | 134 | Perky Pusher |
+| 512 | 134 | Taz Ballard |
+| 513 | 134 | Aaron Hartmann |
+| 514 | 134 | Mighty Dropper |
+| 515 | 133 | Kimberly Susan Privette |
+| 516 | 133 | Marlynnnnn |
+| 517 | 133 | Yashicha Hertzock |
 | 518 | 133 | StingerD |
 | 519 | 132 | Poyre Shelton |
 | 520 | 132 | Jeffrey Barrows |
@@ -633,45 +633,45 @@
 | 625 | 109 | Kortney Adams |
 | 626 | 108 | Richelle Beck |
 | 627 | 108 | Bella |
-| 628 | 108 | Antoinette Kelly |
-| 629 | 108 | Elaine Pauley |
-| 630 | 108 | Shaun Anderson |
-| 631 | 108 | Angela Brown Babin |
-| 632 | 107 | Poppy Smasher |
-| 633 | 106 | Elizabeth Hopkins |
+| 628 | 108 | Derald Miller |
+| 629 | 108 | Antoinette Kelly |
+| 630 | 108 | Elaine Pauley |
+| 631 | 108 | Shaun Anderson |
+| 632 | 108 | Angela Brown Babin |
+| 633 | 107 | Poppy Smasher |
 | 634 | 106 | Tushama Cheris Okraku |
-| 635 | 106 | TotoCherue |
-| 636 | 106 | Derald Miller |
+| 635 | 106 | Elizabeth Hopkins |
+| 636 | 106 | TotoCherue |
 | 637 | 106 | Tina Blessed Cage |
 | 638 | 106 | Peppy Wipeblock |
-| 639 | 105 | Michael Smith |
-| 640 | 105 | Christopher L Crites |
+| 639 | 105 | Raquel Ortiz |
+| 640 | 105 | Michael Smith |
 | 641 | 105 | Ja'mice Nelson |
-| 642 | 105 | Raquel Ortiz |
-| 643 | 105 | Jack Mehof |
-| 644 | 105 | Maria |
-| 645 | 105 | Mario Meliodas |
-| 646 | 105 | QueenShay AllGood |
-| 647 | 104 | Ahvae Lee |
-| 648 | 104 | Rene Hicks |
-| 649 | 104 | Nichelle Warren |
-| 650 | 104 | Nona Harriel |
-| 651 | 104 | Danny Talbot |
-| 652 | 104 | TRUBBLE45 |
-| 653 | 104 | Anastasia |
-| 654 | 104 | Victor |
+| 642 | 105 | Mario Meliodas |
+| 643 | 105 | QueenShay AllGood |
+| 644 | 105 | Christopher L Crites |
+| 645 | 105 | Jack Mehof |
+| 646 | 105 | Maria |
+| 647 | 104 | Rene Hicks |
+| 648 | 104 | Victor |
+| 649 | 104 | Anastasia |
+| 650 | 104 | Ahvae Lee |
+| 651 | 104 | TRUBBLE45 |
+| 652 | 104 | Nona Harriel |
+| 653 | 104 | Nichelle Warren |
+| 654 | 104 | Danny Talbot |
 | 655 | 103 | Angela Kitchens |
-| 656 | 102 | Mom3granny2 |
-| 657 | 102 | jeremy92 |
-| 658 | 102 | Witty Clear |
-| 659 | 102 | Giddy Staggerpiece |
-| 660 | 101 | star |
-| 661 | 101 | Angelique Talbot |
-| 662 | 101 | Sandra Mims |
-| 663 | 101 | Wacky Wipepiece |
-| 664 | 100 | Tessa Gaskin |
-| 665 | 100 | Phillip White |
-| 666 | 100 | Jonathan McKenzie |
+| 656 | 102 | jeremy92 |
+| 657 | 102 | Mom3granny2 |
+| 658 | 102 | Giddy Staggerpiece |
+| 659 | 102 | Witty Clear |
+| 660 | 101 | Wacky Wipepiece |
+| 661 | 101 | star |
+| 662 | 101 | Angelique Talbot |
+| 663 | 101 | Sandra Mims |
+| 664 | 100 | Jonathan McKenzie |
+| 665 | 100 | Tessa Gaskin |
+| 666 | 100 | Phillip White |
 | 667 | 100 | Dianne Clagon |
 | 668 | 100 | NedaWin |
 | 669 | 100 | Lester Malone |
