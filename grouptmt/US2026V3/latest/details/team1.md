@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:24:44 UTC
+# Standings for team1 as of 2026-06-08 09:25:21 UTC
 
 **Total Participants:** 1768
 
@@ -71,8 +71,8 @@
 | 63 | 1159 | Corey Cawthon |
 | 64 | 1156 | Frisky Fallmatch |
 | 65 | 1126 | Ryan Meilleur |
-| 66 | 1122 | Blockhead |
-| 67 | 1122 | Eric Mcgaughy |
+| 66 | 1122 | Eric Mcgaughy |
+| 67 | 1122 | Blockhead |
 | 68 | 1118 | Todd C. Clemens |
 | 69 | 1112 | Tiana Moore |
 | 70 | 1093 | Sanjuro |
@@ -82,29 +82,29 @@
 | 74 | 1078 | Danielle DeLozier Plesec |
 | 75 | 1071 | Kimberly Hernandez |
 | 76 | 1048 | Chenell Gillard |
-| 77 | 1024 | Chill Clusterer |
-| 78 | 1018 | Court Court |
-| 79 | 1017 | Lisa Müller |
-| 80 | 998 | PandaPrincess |
-| 81 | 995 | Whitney Butler |
-| 82 | 967 | KenpachisGirl |
-| 83 | 939 | Uneekly Mayde |
-| 84 | 921 | Therealdywoune Peay |
-| 85 | 920 | IamJust Neyamijah Washington Sr. |
-| 86 | 917 | Dynah Gordon |
-| 87 | 913 | MamaBear |
-| 88 | 912 | Moomoo |
-| 89 | 911 | Richard Horton |
-| 90 | 908 | Danielle Barthelme |
-| 91 | 897 | BYM4L |
-| 92 | 885 | Keeta Chickswit Scott |
-| 93 | 882 | Jon Gathers |
-| 94 | 867 | She Higgy |
-| 95 | 860 | Voice |
-| 96 | 848 | Jason Mungin |
-| 97 | 809 | Jazzy Dashpiece |
-| 98 | 806 | Jaida De'Anne Cox |
-| 99 | 796 | Mimi 1.0 |
+| 77 | 1046 | Mimi 1.0 |
+| 78 | 1024 | Chill Clusterer |
+| 79 | 1018 | Court Court |
+| 80 | 1017 | Lisa Müller |
+| 81 | 998 | PandaPrincess |
+| 82 | 995 | Whitney Butler |
+| 83 | 967 | KenpachisGirl |
+| 84 | 939 | Uneekly Mayde |
+| 85 | 921 | Therealdywoune Peay |
+| 86 | 920 | IamJust Neyamijah Washington Sr. |
+| 87 | 917 | Dynah Gordon |
+| 88 | 913 | MamaBear |
+| 89 | 912 | Moomoo |
+| 90 | 911 | Richard Horton |
+| 91 | 908 | Danielle Barthelme |
+| 92 | 897 | BYM4L |
+| 93 | 885 | Keeta Chickswit Scott |
+| 94 | 882 | Jon Gathers |
+| 95 | 867 | She Higgy |
+| 96 | 860 | Voice |
+| 97 | 848 | Jason Mungin |
+| 98 | 809 | Jazzy Dashpiece |
+| 99 | 806 | Jaida De'Anne Cox |
 | 100 | 795 | Joy Citizen Pickney |
 | 101 | 793 | Jaida King |
 | 102 | 787 | Dawn L Washington-Feuquay |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:24:44 UTC
+# Standings for team2 as of 2026-06-08 09:25:21 UTC
 
 **Total Participants:** 2142
 
@@ -517,44 +517,44 @@
 | 509 | 172 | Charity Hauser |
 | 510 | 170 | Amber Carpenter |
 | 511 | 170 | Dapper Riser |
-| 512 | 169 | Analee Nicole Jones |
-| 513 | 169 | Barb Kiser |
-| 514 | 168 | Spicy Balanceblock |
-| 515 | 168 | Heather Schardan |
-| 516 | 167 | Cara Rivera |
-| 517 | 166 | Carl Mccoy |
-| 518 | 166 | Darla Nolt |
-| 519 | 165 | Chilly Surge |
-| 520 | 165 | Spunky Cascadeclear |
-| 521 | 165 | Mama G |
+| 512 | 169 | Barb Kiser |
+| 513 | 169 | Analee Nicole Jones |
+| 514 | 168 | Mama G |
+| 515 | 168 | Spicy Balanceblock |
+| 516 | 168 | Heather Schardan |
+| 517 | 167 | Cara Rivera |
+| 518 | 166 | Carl Mccoy |
+| 519 | 166 | Darla Nolt |
+| 520 | 165 | Chilly Surge |
+| 521 | 165 | Spunky Cascadeclear |
 | 522 | 165 | Nicky Steigerwalt |
-| 523 | 164 | James Sayers |
-| 524 | 164 | Silly Tiltbuilder |
+| 523 | 164 | Silly Tiltbuilder |
+| 524 | 164 | James Sayers |
 | 525 | 163 | Zany Cascader |
 | 526 | 162 | Jimmy Francis Shasta Bambi |
-| 527 | 162 | Tina |
-| 528 | 162 | Wacky Holder |
-| 529 | 162 | Ashley Miller |
-| 530 | 162 | Nikki Hatch |
+| 527 | 162 | Nikki Hatch |
+| 528 | 162 | Ashley Miller |
+| 529 | 162 | Tina |
+| 530 | 162 | Wacky Holder |
 | 531 | 161 | Mandy Van Laningham Bishop |
 | 532 | 161 | Melissa Fink |
-| 533 | 160 | Jessica Perkins |
-| 534 | 160 | Elizabeth Cornelius |
-| 535 | 160 | Jennifer McCloskey Launder |
-| 536 | 160 | Marilyn Strickland |
+| 533 | 160 | Elizabeth Cornelius |
+| 534 | 160 | Marilyn Strickland |
+| 535 | 160 | Jessica Perkins |
+| 536 | 160 | Jennifer McCloskey Launder |
 | 537 | 160 | Billie Jensen |
 | 538 | 160 | Sandra Ruiz |
 | 539 | 159 | Misty Noe |
-| 540 | 159 | Sherri Caillet Aucoin |
+| 540 | 159 | Michelle Powers Chattaway |
 | 541 | 159 | Gina Louise Parker |
-| 542 | 159 | Jennifer Vitro |
-| 543 | 159 | Michelle Powers Chattaway |
-| 544 | 158 | Mike Mordhorst |
-| 545 | 158 | Ceci |
+| 542 | 159 | Sherri Caillet Aucoin |
+| 543 | 159 | Jennifer Vitro |
+| 544 | 158 | Ceci |
+| 545 | 158 | Mike Mordhorst |
 | 546 | 158 | Chrystal |
 | 547 | 157 | Dana Vaiden Rivers |
-| 548 | 157 | MamaRachel |
-| 549 | 157 | Hillary Frank |
+| 548 | 157 | Hillary Frank |
+| 549 | 157 | MamaRachel |
 | 550 | 156 | Jennifer Lalk |
 | 551 | 156 | TNGal |
 | 552 | 156 | Charlotte Castelli |
@@ -1188,8 +1188,8 @@
 | 1180 | 63 | Angela Anderson |
 | 1181 | 63 | Bubbly Tilt |
 | 1182 | 63 | AmyShea |
-| 1183 | 62 | Peyton Groce |
-| 1184 | 62 | Dandy Brickbuilder |
+| 1183 | 62 | Dandy Brickbuilder |
+| 1184 | 62 | Peyton Groce |
 | 1185 | 62 | Saucy Clearzone |
 | 1186 | 62 | Amy Walker |
 | 1187 | 62 | Frothy Zonebuilder |
@@ -1209,20 +1209,20 @@
 | 1201 | 61 | Deb Rose-Bridinger |
 | 1202 | 61 | Kevin Perez |
 | 1203 | 61 | Mandy Smart |
-| 1204 | 60 | Tish |
-| 1205 | 60 | Anna Chance |
-| 1206 | 60 | MattandAngie Hopkins |
-| 1207 | 60 | Karen Mueller |
-| 1208 | 60 | Shawn Bolt |
-| 1209 | 60 | Ramon James |
-| 1210 | 60 | Tiffany Lewis |
-| 1211 | 60 | Scott Lyles |
-| 1212 | 60 | Heather Klaus |
-| 1213 | 60 | Gloria Appleton |
-| 1214 | 60 | Ally Miller |
-| 1215 | 60 | Julie Brown |
-| 1216 | 60 | Kenya Johnson |
-| 1217 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1204 | 60 | Karen Mueller |
+| 1205 | 60 | MattandAngie Hopkins |
+| 1206 | 60 | Shawn Bolt |
+| 1207 | 60 | Anna Chance |
+| 1208 | 60 | Ramon James |
+| 1209 | 60 | Tiffany Lewis |
+| 1210 | 60 | Scott Lyles |
+| 1211 | 60 | Heather Klaus |
+| 1212 | 60 | Gloria Appleton |
+| 1213 | 60 | Ally Miller |
+| 1214 | 60 | Julie Brown |
+| 1215 | 60 | Kenya Johnson |
+| 1216 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1217 | 60 | Tish |
 | 1218 | 60 | Heather Hill Davidson |
 | 1219 | 60 | Giggly Buildgrid |
 | 1220 | 60 | Michelle |
@@ -1245,46 +1245,46 @@
 | 1237 | 59 | Jill Bobst Marple |
 | 1238 | 59 | LaicoosBargains Ln |
 | 1239 | 59 | Matt Solomon |
-| 1240 | 59 | Jessica Gayle Sears |
+| 1240 | 59 | Road Runnersauraus |
 | 1241 | 59 | Ryan Sanders |
-| 1242 | 59 | Road Runnersauraus |
-| 1243 | 59 | Jolene Smith |
-| 1244 | 58 | Hyper Cascade |
+| 1242 | 59 | Crystal Whygle |
+| 1243 | 59 | Jessica Gayle Sears |
+| 1244 | 59 | Jolene Smith |
 | 1245 | 58 | Jeannine Murphy |
-| 1246 | 58 | Ryan Rhodes |
-| 1247 | 58 | Teresa Ann Curry |
-| 1248 | 58 | Melissa Willson |
-| 1249 | 58 | Joslyn Erickson |
-| 1250 | 58 | Ashley Bryant-hatcher |
-| 1251 | 58 | Alexis Meyers |
-| 1252 | 58 | Slinky Winder |
-| 1253 | 58 | Crafty Slice |
-| 1254 | 58 | Pjrobinsonnn |
-| 1255 | 58 | Dustyn Sims |
-| 1256 | 58 | Shanetta Johnson |
-| 1257 | 58 | LivePhoenix |
-| 1258 | 58 | Brandy Westfall-panchari |
-| 1259 | 58 | Jazzy |
-| 1260 | 58 | Debra May |
-| 1261 | 58 | Elise Marie Mireles |
-| 1262 | 57 | Rey Huber |
-| 1263 | 57 | Brandy Wallace |
-| 1264 | 57 | Funky Blockmatch |
-| 1265 | 57 | Corina Marie Prunty |
-| 1266 | 57 | Kacey Lindemuth |
-| 1267 | 57 | Britt |
-| 1268 | 57 | Dandy Column |
-| 1269 | 57 | Angie Barlow |
-| 1270 | 57 | Rachel |
-| 1271 | 57 | Brooke Marie Fox |
-| 1272 | 57 | Crystal Whygle |
-| 1273 | 56 | Perky Rollfit |
-| 1274 | 56 | Danielle Etchison Mask |
+| 1246 | 58 | Hyper Cascade |
+| 1247 | 58 | Ryan Rhodes |
+| 1248 | 58 | Teresa Ann Curry |
+| 1249 | 58 | Melissa Willson |
+| 1250 | 58 | Joslyn Erickson |
+| 1251 | 58 | Ashley Bryant-hatcher |
+| 1252 | 58 | Alexis Meyers |
+| 1253 | 58 | Slinky Winder |
+| 1254 | 58 | Crafty Slice |
+| 1255 | 58 | Pjrobinsonnn |
+| 1256 | 58 | Dustyn Sims |
+| 1257 | 58 | Shanetta Johnson |
+| 1258 | 58 | LivePhoenix |
+| 1259 | 58 | Brandy Westfall-panchari |
+| 1260 | 58 | Jazzy |
+| 1261 | 58 | Debra May |
+| 1262 | 58 | Elise Marie Mireles |
+| 1263 | 57 | Rey Huber |
+| 1264 | 57 | Brandy Wallace |
+| 1265 | 57 | Funky Blockmatch |
+| 1266 | 57 | Corina Marie Prunty |
+| 1267 | 57 | Kacey Lindemuth |
+| 1268 | 57 | Britt |
+| 1269 | 57 | Dandy Column |
+| 1270 | 57 | Brooke Marie Fox |
+| 1271 | 57 | Angie Barlow |
+| 1272 | 57 | Rachel |
+| 1273 | 56 | CountryGurl |
+| 1274 | 56 | Perky Rollfit |
 | 1275 | 56 | Heather Nicole |
 | 1276 | 56 | Louise LeBlanc |
-| 1277 | 56 | Snazzy Tiley |
-| 1278 | 56 | Greenbean |
-| 1279 | 56 | CountryGurl |
+| 1277 | 56 | Danielle Etchison Mask |
+| 1278 | 56 | Snazzy Tiley |
+| 1279 | 56 | Greenbean |
 | 1280 | 56 | Jennifer Augustine |
 | 1281 | 56 | Breanna Dykes |
 | 1282 | 56 | Joe Duffer |
@@ -1299,16 +1299,16 @@
 | 1291 | 55 | Teloney Humphrey |
 | 1292 | 55 | Misty McElroy |
 | 1293 | 55 | bigdog |
-| 1294 | 55 | Cheryl Stevens |
+| 1294 | 55 | GentleGiant Brackett |
 | 1295 | 55 | Nick Waterwalker |
 | 1296 | 55 | Gilbert Medina |
-| 1297 | 55 | GentleGiant Brackett |
+| 1297 | 55 | Cheryl Stevens |
 | 1298 | 54 | Heather Lewis |
-| 1299 | 54 | Swanky Twister |
+| 1299 | 54 | Alexis Turner |
 | 1300 | 54 | Cynthia Rose Candelaria |
-| 1301 | 54 | Alexis Turner |
-| 1302 | 54 | Glitzy Fallgrid |
-| 1303 | 54 | Jess Duehring |
+| 1301 | 54 | Jess Duehring |
+| 1302 | 54 | Swanky Twister |
+| 1303 | 54 | Glitzy Fallgrid |
 | 1304 | 54 | Lively Liner |
 | 1305 | 54 | Christina Nycol |
 | 1306 | 54 | Josie Mendivil |
@@ -1316,15 +1316,15 @@
 | 1308 | 53 | Topknot13 |
 | 1309 | 53 | Thomas Johnstone |
 | 1310 | 53 | Kristen Alta |
-| 1311 | 53 | Silly Cluster |
+| 1311 | 53 | Gigi |
 | 1312 | 53 | Judy Bailey |
-| 1313 | 53 | Gigi |
-| 1314 | 52 | Amy Renaud |
-| 1315 | 52 | Bridgett Smith |
-| 1316 | 52 | Samantha LeBlanc |
-| 1317 | 52 | Chirpy Shiftspin |
-| 1318 | 52 | Jolly Balanceblock |
-| 1319 | 52 | Daniel Flathers |
+| 1313 | 53 | Silly Cluster |
+| 1314 | 52 | Daniel Flathers |
+| 1315 | 52 | Samantha LeBlanc |
+| 1316 | 52 | Bridgett Smith |
+| 1317 | 52 | Amy Renaud |
+| 1318 | 52 | Chirpy Shiftspin |
+| 1319 | 52 | Jolly Balanceblock |
 | 1320 | 52 | Dolly |
 | 1321 | 52 | Lisa Rose |
 | 1322 | 52 | Amber Marie Lacey |
