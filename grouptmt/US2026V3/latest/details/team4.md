@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:16:42 UTC
+# Standings for team4 as of 2026-06-08 07:17:20 UTC
 
 **Total Participants:** 1791
 
@@ -57,8 +57,8 @@
 | 49 | 1781 | Tommy Bond |
 | 50 | 1729 | Erin Figone |
 | 51 | 1711 | Cal Renee |
-| 52 | 1700 | Elissa S-k |
-| 53 | 1700 | Leah Gorsuch |
+| 52 | 1700 | Leah Gorsuch |
+| 53 | 1700 | Elissa S-k |
 | 54 | 1681 | 626 |
 | 55 | 1667 | Dheeh Robles |
 | 56 | 1656 | Blind Bette |
@@ -130,8 +130,8 @@
 | 122 | 625 | CJ |
 | 123 | 618 | Becky Doll-Hall |
 | 124 | 603 | Caitlyn Wang |
-| 125 | 600 | Suzanne Carter |
-| 126 | 600 | Andrew Dang |
+| 125 | 600 | Andrew Dang |
+| 126 | 600 | Suzanne Carter |
 | 127 | 594 | Daryn Elliott |
 | 128 | 593 | Malik Thompson |
 | 129 | 591 | Jewelz |
@@ -152,7 +152,7 @@
 | 144 | 496 | Jackie Jackson |
 | 145 | 494 | Yesenia Castro Monreal |
 | 146 | 490 | Megan Vick |
-| 147 | 482 | Melissa WC |
+| 147 | 487 | Melissa WC |
 | 148 | 464 | Alicia Cook |
 | 149 | 463 | Gorica Prusina |
 | 150 | 461 | Kayla Fuentes |
@@ -269,10 +269,10 @@
 | 261 | 275 | Jeremy |
 | 262 | 274 | Sherry Mooney |
 | 263 | 274 | Dominique Melendez |
-| 264 | 271 | Tina Thomas |
-| 265 | 269 | Spicy Chicken |
-| 266 | 269 | Spunky Gridzone |
-| 267 | 269 | George Palacios |
+| 264 | 273 | George Palacios |
+| 265 | 271 | Tina Thomas |
+| 266 | 269 | Spicy Chicken |
+| 267 | 269 | Spunky Gridzone |
 | 268 | 268 | Bonnie Powell |
 | 269 | 267 | Chirpy Link |
 | 270 | 266 | tigerlilly |
@@ -461,15 +461,15 @@
 | 453 | 157 | Travis McKinnon |
 | 454 | 156 | Swanky Builderline |
 | 455 | 156 | Funky Tiler |
-| 456 | 156 | Simone |
-| 457 | 155 | 1694AF |
-| 458 | 155 | Nicole Colby McCloskey |
-| 459 | 155 | Shayna Vaigneur-Hall |
-| 460 | 155 | Snippy Racker |
-| 461 | 155 | Tricia Motika Cowan |
-| 462 | 155 | Merritt Brandt |
-| 463 | 154 | Lani |
-| 464 | 154 | Suzanne North |
+| 456 | 156 | Suzanne North |
+| 457 | 156 | Simone |
+| 458 | 155 | 1694AF |
+| 459 | 155 | Nicole Colby McCloskey |
+| 460 | 155 | Shayna Vaigneur-Hall |
+| 461 | 155 | Snippy Racker |
+| 462 | 155 | Tricia Motika Cowan |
+| 463 | 155 | Merritt Brandt |
+| 464 | 154 | Lani |
 | 465 | 154 | yourmomz |
 | 466 | 153 | Tarsha Thomas-Martinez |
 | 467 | 153 | Shawntae Mccary |
@@ -527,38 +527,38 @@
 | 519 | 137 | Jen Smith |
 | 520 | 137 | Tanya AfricanQueen Savage |
 | 521 | 137 | Maricela Joslin |
-| 522 | 137 | TheazO |
-| 523 | 137 | Robert Moore |
+| 522 | 137 | Robert Moore |
+| 523 | 137 | TheazO |
 | 524 | 137 | Andrea Dre Lomeli |
 | 525 | 136 | Laurie Patrick |
 | 526 | 136 | Jay Dee |
 | 527 | 135 | my my |
-| 528 | 135 | Ricky Colvin |
-| 529 | 135 | Lupe Chapa |
-| 530 | 135 | Tre'nya Smith |
-| 531 | 135 | Jennifer Terrill |
-| 532 | 134 | Clever Patterner |
+| 528 | 135 | Toon Up |
+| 529 | 135 | Ricky Colvin |
+| 530 | 135 | Lupe Chapa |
+| 531 | 135 | Tre'nya Smith |
+| 532 | 135 | Jennifer Terrill |
 | 533 | 134 | Lul Babie |
-| 534 | 134 | Josh Keith Travierso |
-| 535 | 134 | Shawna Downey |
-| 536 | 133 | EpicWizard |
-| 537 | 133 | Domo Dpn |
-| 538 | 133 | Dennis Montoya |
-| 539 | 133 | Sonia Cordero-Martinez |
-| 540 | 132 | Virgil Mayfield-Brown |
+| 534 | 134 | Clever Patterner |
+| 535 | 134 | Josh Keith Travierso |
+| 536 | 134 | Shawna Downey |
+| 537 | 133 | EpicWizard |
+| 538 | 133 | Domo Dpn |
+| 539 | 133 | Dennis Montoya |
+| 540 | 133 | Sonia Cordero-Martinez |
 | 541 | 132 | William Brooks |
 | 542 | 132 | Gma420 |
-| 543 | 131 | Sarah Leake |
-| 544 | 131 | luluraine |
-| 545 | 131 | Justin Ballard |
-| 546 | 131 | Winter Moon |
-| 547 | 130 | Mighty1 |
-| 548 | 130 | Bhakti Sawarkar |
-| 549 | 130 | Will E Ayala |
-| 550 | 130 | Kimberly Devon |
-| 551 | 130 | Lizard |
-| 552 | 130 | Missionary Meda |
-| 553 | 130 | Toon Up |
+| 543 | 132 | Virgil Mayfield-Brown |
+| 544 | 131 | Sarah Leake |
+| 545 | 131 | luluraine |
+| 546 | 131 | Justin Ballard |
+| 547 | 131 | Winter Moon |
+| 548 | 130 | Mighty1 |
+| 549 | 130 | Kimberly Devon |
+| 550 | 130 | Bhakti Sawarkar |
+| 551 | 130 | Will E Ayala |
+| 552 | 130 | Lizard |
+| 553 | 130 | Missionary Meda |
 | 554 | 129 | Playa |
 | 555 | 129 | Has2brat |
 | 556 | 129 | Erica Pompey |
@@ -1564,12 +1564,12 @@
 | 1556 | 19 | Matoka Shuford |
 | 1557 | 19 | Kariana Gonzalez Ortiz |
 | 1558 | 19 | Jacqueline Couillard Jaeger |
-| 1559 | 19 | Happy Shift |
-| 1560 | 19 | Jessica Hampton |
-| 1561 | 18 | Monique Kitzmiller |
-| 1562 | 18 | DrC |
-| 1563 | 18 | Frilly Zoney |
-| 1564 | 18 | Stevonne Roberts |
+| 1559 | 19 | Stevonne Roberts |
+| 1560 | 19 | Happy Shift |
+| 1561 | 19 | Jessica Hampton |
+| 1562 | 18 | Monique Kitzmiller |
+| 1563 | 18 | DrC |
+| 1564 | 18 | Frilly Zoney |
 | 1565 | 18 | Becca Milliron |
 | 1566 | 18 | Jamie Legeness |
 | 1567 | 18 | Brian Fisher |
