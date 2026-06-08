@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 16:18:41 UTC
+# Standings for team2 as of 2026-06-08 16:19:21 UTC
 
 **Total Participants:** 2207
 
@@ -26,7 +26,7 @@
 | 18 | 6154 | Morgann McDaniel |
 | 19 | 6114 | Kathleen M Cox |
 | 20 | 5961 | Brandon Brown |
-| 21 | 5752 | Andre Love |
+| 21 | 5758 | Andre Love |
 | 22 | 5585 | Renee Weedling |
 | 23 | 5475 | Cassie Swart |
 | 24 | 5408 | Julie Trede Amerson |
@@ -62,7 +62,7 @@
 | 54 | 2281 | Debra Henry |
 | 55 | 2244 | AcardBoardBox |
 | 56 | 2146 | Nerdy Climber |
-| 57 | 2084 | Rose Schaffner-Kibler |
+| 57 | 2085 | Rose Schaffner-Kibler |
 | 58 | 2043 | Jennifer Corder |
 | 59 | 2022 | Rashanna Bockhorn |
 | 60 | 2000 | LEW |
@@ -178,22 +178,22 @@
 | 170 | 600 | Theresa Marie |
 | 171 | 587 | Kevin Mccoy |
 | 172 | 587 | Kathleen Dumbazz |
-| 173 | 578 | Monique Frantz |
-| 174 | 577 | Lindsay Klemp |
-| 175 | 575 | Bubbly Strikerpiece |
-| 176 | 574 | Brandy McCune Reep |
-| 177 | 571 | Robin G |
-| 178 | 569 | Vistabrat |
-| 179 | 567 | Cool Balancer |
-| 180 | 567 | Nutty Curver |
-| 181 | 565 | Christina Maria |
-| 182 | 562 | Lori Whitman |
+| 173 | 582 | Lori Whitman |
+| 174 | 578 | Monique Frantz |
+| 175 | 577 | Lindsay Klemp |
+| 176 | 575 | Bubbly Strikerpiece |
+| 177 | 574 | Brandy McCune Reep |
+| 178 | 571 | Robin G |
+| 179 | 569 | Vistabrat |
+| 180 | 567 | Cool Balancer |
+| 181 | 567 | Nutty Curver |
+| 182 | 565 | Christina Maria |
 | 183 | 560 | Zarah Kettler |
 | 184 | 550 | DomDomsNana |
-| 185 | 542 | Spicy Risegrid |
-| 186 | 537 | Alicia Ellenburg |
-| 187 | 536 | Leigh Ann |
-| 188 | 531 | Chasity Simpson |
+| 185 | 546 | Chasity Simpson |
+| 186 | 542 | Spicy Risegrid |
+| 187 | 537 | Alicia Ellenburg |
+| 188 | 536 | Leigh Ann |
 | 189 | 529 | Kimmyc |
 | 190 | 529 | Mom |
 | 191 | 528 | Michelle Rich Burkhart |
@@ -261,8 +261,8 @@
 | 253 | 411 | Sandy Lynn |
 | 254 | 409 | Spicy Basepiece |
 | 255 | 409 | Greta Warden |
-| 256 | 409 | Nikki Greeneyebeauty |
-| 257 | 408 | Michelle Luke Banta |
+| 256 | 409 | Michelle Luke Banta |
+| 257 | 409 | Nikki Greeneyebeauty |
 | 258 | 406 | Goofy Gridclear |
 | 259 | 403 | Amie Marks |
 | 260 | 400 | Sharon L Brazelton |
@@ -668,41 +668,41 @@
 | 660 | 150 | Plucky Grabber |
 | 661 | 149 | Frisky Twist |
 | 662 | 149 | Steve Eakins |
-| 663 | 148 | Crystal Robinson |
-| 664 | 148 | rageking |
-| 665 | 148 | Smiley Cornerfall |
-| 666 | 148 | Julibeth Wells |
-| 667 | 148 | NickandJess Reynolds |
-| 668 | 147 | Momof2wigglebutts |
-| 669 | 147 | Chesney |
-| 670 | 147 | Shaylee Haltiner |
-| 671 | 147 | Abby |
-| 672 | 146 | Kimberly Brooks |
-| 673 | 146 | Kayley |
-| 674 | 145 | Kelly |
-| 675 | 145 | Alicia Parrish |
-| 676 | 145 | Damion Morrison |
-| 677 | 145 | Nicole Ashbaugh |
-| 678 | 144 | Kelli Pazour |
-| 679 | 144 | Epic Framezone |
-| 680 | 144 | Alissa Ary |
-| 681 | 144 | Mary Carriere |
-| 682 | 144 | Errkuh |
-| 683 | 143 | Sara Karels |
-| 684 | 143 | Violet Olivares |
-| 685 | 143 | Matt Wylie |
-| 686 | 143 | Stoney McMillion |
-| 687 | 143 | Dandy Tiltgrid |
-| 688 | 143 | Alisha Shelton |
-| 689 | 143 | Doug Small |
-| 690 | 143 | Sam Schwieso |
-| 691 | 143 | Princess Cucumber |
-| 692 | 143 | Firebone |
-| 693 | 142 | Terie Safrit |
-| 694 | 142 | LadyDeath |
-| 695 | 142 | Heather Vircik |
-| 696 | 142 | Jason P. Schwartz |
-| 697 | 142 | Mrs biotch |
+| 663 | 148 | Mrs biotch |
+| 664 | 148 | Crystal Robinson |
+| 665 | 148 | rageking |
+| 666 | 148 | Smiley Cornerfall |
+| 667 | 148 | Julibeth Wells |
+| 668 | 148 | NickandJess Reynolds |
+| 669 | 147 | Momof2wigglebutts |
+| 670 | 147 | Chesney |
+| 671 | 147 | Shaylee Haltiner |
+| 672 | 147 | Abby |
+| 673 | 146 | Kimberly Brooks |
+| 674 | 146 | Kayley |
+| 675 | 145 | Kelly |
+| 676 | 145 | Alicia Parrish |
+| 677 | 145 | Damion Morrison |
+| 678 | 145 | Nicole Ashbaugh |
+| 679 | 144 | Kelli Pazour |
+| 680 | 144 | Epic Framezone |
+| 681 | 144 | Alissa Ary |
+| 682 | 144 | Mary Carriere |
+| 683 | 144 | Errkuh |
+| 684 | 143 | Sara Karels |
+| 685 | 143 | Violet Olivares |
+| 686 | 143 | Matt Wylie |
+| 687 | 143 | Stoney McMillion |
+| 688 | 143 | Dandy Tiltgrid |
+| 689 | 143 | Alisha Shelton |
+| 690 | 143 | Doug Small |
+| 691 | 143 | Sam Schwieso |
+| 692 | 143 | Princess Cucumber |
+| 693 | 143 | Firebone |
+| 694 | 142 | Terie Safrit |
+| 695 | 142 | LadyDeath |
+| 696 | 142 | Heather Vircik |
+| 697 | 142 | Jason P. Schwartz |
 | 698 | 142 | Jeremy Daurbigny |
 | 699 | 141 | s3lc4tr0n |
 | 700 | 141 | mee |
@@ -868,14 +868,14 @@
 | 860 | 110 | Brian Little |
 | 861 | 110 | Deena-Neal Peryer |
 | 862 | 110 | Michelle Fry-Cash |
-| 863 | 110 | Hannah Meadows Hammond |
-| 864 | 110 | Christina German |
-| 865 | 110 | Emilee Dulyea |
-| 866 | 110 | Twisty Matcher |
-| 867 | 110 | Susan Moyer |
-| 868 | 110 | Seana Moran |
-| 869 | 110 | Tracy Coe |
-| 870 | 109 | Clever Fallmatch |
+| 863 | 110 | Clever Fallmatch |
+| 864 | 110 | Hannah Meadows Hammond |
+| 865 | 110 | Christina German |
+| 866 | 110 | Emilee Dulyea |
+| 867 | 110 | Twisty Matcher |
+| 868 | 110 | Susan Moyer |
+| 869 | 110 | Seana Moran |
+| 870 | 110 | Tracy Coe |
 | 871 | 109 | Twisty Tower |
 | 872 | 109 | jme |
 | 873 | 109 | Jillian Marie |
