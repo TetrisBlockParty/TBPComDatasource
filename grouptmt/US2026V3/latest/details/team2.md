@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:52:42 UTC
+# Standings for team2 as of 2026-06-08 12:53:21 UTC
 
 **Total Participants:** 2168
 
@@ -204,8 +204,8 @@
 | 196 | 483 | Karen Reid Cenkush |
 | 197 | 480 | Jacob Carpenter |
 | 198 | 480 | DukeDino |
-| 199 | 476 | Sara Perkins |
-| 200 | 475 | Suki Jacobs |
+| 199 | 476 | Suki Jacobs |
+| 200 | 476 | Sara Perkins |
 | 201 | 470 | Zany Blockclear |
 | 202 | 469 | Lashanda Bertram |
 | 203 | 469 | Theresa Hollinger |
@@ -435,24 +435,24 @@
 | 427 | 220 | KazzyKay |
 | 428 | 220 | Flashy Basegrid |
 | 429 | 220 | Lee Leonard |
-| 430 | 220 | ShiverMeSplinter |
+| 430 | 220 | Elliott Mikila |
 | 431 | 220 | Sherri E Woods Hess |
-| 432 | 220 | Elliott Mikila |
+| 432 | 220 | ShiverMeSplinter |
 | 433 | 220 | Jess |
 | 434 | 220 | Krystle L Coon |
 | 435 | 220 | missat |
 | 436 | 219 | Gwendolyn Boykin Mobbs |
-| 437 | 219 | Francesca Wagenhoffer |
-| 438 | 219 | Mouh Ity |
+| 437 | 219 | Mouh Ity |
+| 438 | 219 | Francesca Wagenhoffer |
 | 439 | 219 | Holly Huval |
 | 440 | 218 | Julie Alexander Sykes |
 | 441 | 217 | Spicy Snapclear |
-| 442 | 216 | Joshua Dye |
-| 443 | 216 | Reign Hustler |
-| 444 | 216 | Melissa Nash |
+| 442 | 216 | Melissa Nash |
+| 443 | 216 | Joshua Dye |
+| 444 | 216 | Reign Hustler |
 | 445 | 216 | Michael Carmichael |
-| 446 | 215 | Missy Renia |
-| 447 | 215 | Monee Stronger |
+| 446 | 215 | Monee Stronger |
+| 447 | 215 | Missy Renia |
 | 448 | 215 | Maria Ward |
 | 449 | 215 | Alonzo Reed |
 | 450 | 214 | Kathryn |
@@ -464,28 +464,28 @@
 | 456 | 210 | Nichole Wilson |
 | 457 | 209 | Brian Favre |
 | 458 | 208 | Heather Schardan |
-| 459 | 208 | Lisa Allen Frisk |
-| 460 | 208 | Will Jones |
-| 461 | 207 | Wendy McKee |
-| 462 | 207 | StacyBabee |
-| 463 | 206 | Jodi Johnson |
-| 464 | 206 | Katie Jones |
-| 465 | 204 | Jacquelyn Snyder Dumas |
-| 466 | 204 | Lively Curve |
-| 467 | 204 | Teddy Williams |
-| 468 | 203 | Jumpy Dashpiece |
-| 469 | 202 | ZBee |
-| 470 | 202 | Rescuegirl76 |
-| 471 | 201 | Amber Smith |
-| 472 | 200 | Patrick Ohanlon |
-| 473 | 200 | Po Yee |
-| 474 | 200 | Wayne Johnson |
-| 475 | 200 | Happy |
-| 476 | 199 | Justin Stark |
-| 477 | 198 | TetrisMama |
+| 459 | 208 | Kimberly Davis |
+| 460 | 208 | Lisa Allen Frisk |
+| 461 | 208 | Will Jones |
+| 462 | 207 | Wendy McKee |
+| 463 | 207 | StacyBabee |
+| 464 | 206 | Jodi Johnson |
+| 465 | 206 | Katie Jones |
+| 466 | 204 | Jacquelyn Snyder Dumas |
+| 467 | 204 | Lively Curve |
+| 468 | 204 | Teddy Williams |
+| 469 | 203 | Jumpy Dashpiece |
+| 470 | 202 | ZBee |
+| 471 | 202 | Rescuegirl76 |
+| 472 | 201 | Amber Smith |
+| 473 | 200 | Patrick Ohanlon |
+| 474 | 200 | Happy |
+| 475 | 200 | Wayne Johnson |
+| 476 | 200 | Po Yee |
+| 477 | 199 | Justin Stark |
 | 478 | 198 | Epic Tilemaker |
-| 479 | 198 | Kimberly Davis |
-| 480 | 198 | Rosalie Call Kehlenbeck |
+| 479 | 198 | Rosalie Call Kehlenbeck |
+| 480 | 198 | TetrisMama |
 | 481 | 197 | Andrea Rawson |
 | 482 | 196 | Greenie |
 | 483 | 196 | Mandy |
@@ -497,8 +497,8 @@
 | 489 | 192 | Raine |
 | 490 | 191 | Rydin Dirt |
 | 491 | 191 | Nano. |
-| 492 | 190 | Saucy Wrecker |
-| 493 | 190 | Laurie |
+| 492 | 190 | Laurie |
+| 493 | 190 | Saucy Wrecker |
 | 494 | 189 | Danielle Lyons |
 | 495 | 189 | Shawn Jensen |
 | 496 | 187 | Jaimie Walters |
@@ -510,28 +510,28 @@
 | 502 | 185 | Nerdy Gridlock |
 | 503 | 185 | straighttiptoe |
 | 504 | 184 | Alicia Ellenburg |
-| 505 | 184 | IncrediDragon |
+| 505 | 184 | Sandy Rundel Holderman |
 | 506 | 184 | Melissa Abbott |
-| 507 | 184 | Sandy Rundel Holderman |
-| 508 | 184 | Joannah Capilitan |
+| 507 | 184 | Joannah Capilitan |
+| 508 | 184 | IncrediDragon |
 | 509 | 183 | murd3rmous3 |
 | 510 | 181 | Alyssa Malay |
 | 511 | 181 | Jamie Adams |
-| 512 | 181 | Meagan Grimmett Washburn |
-| 513 | 181 | rebel4lyfe |
-| 514 | 181 | Dame Smith |
-| 515 | 181 | Belle |
-| 516 | 180 | Dawn Kroptavich |
-| 517 | 180 | Mama G |
-| 518 | 180 | Laura Larsen |
+| 512 | 181 | Dame Smith |
+| 513 | 181 | Belle |
+| 514 | 181 | rebel4lyfe |
+| 515 | 181 | Meagan Grimmett Washburn |
+| 516 | 180 | Mama G |
+| 517 | 180 | Laura Larsen |
+| 518 | 180 | Dawn Kroptavich |
 | 519 | 180 | Tiffany Lewis |
 | 520 | 179 | Jenni LeBlanc |
-| 521 | 179 | Coleen Yoder |
-| 522 | 179 | Bengy Lead |
-| 523 | 179 | Leticia Tillman |
-| 524 | 179 | Kevin Patrick |
-| 525 | 179 | Derrick |
-| 526 | 179 | Perii Reynoso |
+| 521 | 179 | Leticia Tillman |
+| 522 | 179 | Perii Reynoso |
+| 523 | 179 | Derrick |
+| 524 | 179 | Coleen Yoder |
+| 525 | 179 | Kevin Patrick |
+| 526 | 179 | Bengy Lead |
 | 527 | 178 | Ssirkus |
 | 528 | 178 | Rocroc mo |
 | 529 | 178 | Duke Morley |
