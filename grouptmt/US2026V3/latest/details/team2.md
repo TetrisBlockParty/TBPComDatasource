@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:48:42 UTC
+# Standings for team2 as of 2026-06-08 10:49:20 UTC
 
 **Total Participants:** 2154
 
@@ -606,41 +606,41 @@
 | 598 | 144 | Alissa Ary |
 | 599 | 144 | Mary Carriere |
 | 600 | 144 | Spencer Ryder |
-| 601 | 143 | Violet Olivares |
-| 602 | 143 | Stoney McMillion |
-| 603 | 143 | Matt Wylie |
-| 604 | 142 | Terie Safrit |
-| 605 | 142 | Angela Hogan |
-| 606 | 142 | LadyDeath |
-| 607 | 142 | Jason P. Schwartz |
-| 608 | 141 | Layla Petroff |
-| 609 | 141 | Tamtam |
-| 610 | 141 | Josephina |
-| 611 | 141 | Mtnblzr |
-| 612 | 141 | Susie Conger |
-| 613 | 141 | Peter Fogg |
-| 614 | 141 | Hog Crankin |
-| 615 | 140 | ChefDeb |
-| 616 | 140 | Doowop40 |
-| 617 | 140 | Bouncy Snapmatch |
-| 618 | 140 | Tiffany Hassanshahi |
-| 619 | 140 | Wendy Durrence Jones |
-| 620 | 140 | Ashley Jones |
-| 621 | 140 | Chipper Towerzone |
-| 622 | 140 | Heather Billodeau |
-| 623 | 140 | Adam Latin |
-| 624 | 140 | Deezie |
-| 625 | 140 | Chris Christ |
-| 626 | 139 | Cassandra Green |
-| 627 | 139 | David Skelton |
-| 628 | 139 | Jason Burris |
-| 629 | 138 | Sam Brewster |
-| 630 | 138 | Madonna Ash |
-| 631 | 138 | Firebone |
-| 632 | 138 | Michael Saunders |
-| 633 | 138 | Breezy |
-| 634 | 138 | Robin Stutler |
-| 635 | 138 | Busted9mm |
+| 601 | 144 | Busted9mm |
+| 602 | 143 | Violet Olivares |
+| 603 | 143 | Stoney McMillion |
+| 604 | 143 | Matt Wylie |
+| 605 | 142 | Terie Safrit |
+| 606 | 142 | Angela Hogan |
+| 607 | 142 | LadyDeath |
+| 608 | 142 | Jason P. Schwartz |
+| 609 | 141 | Layla Petroff |
+| 610 | 141 | Tamtam |
+| 611 | 141 | Josephina |
+| 612 | 141 | Mtnblzr |
+| 613 | 141 | Susie Conger |
+| 614 | 141 | Peter Fogg |
+| 615 | 141 | Hog Crankin |
+| 616 | 140 | ChefDeb |
+| 617 | 140 | Doowop40 |
+| 618 | 140 | Bouncy Snapmatch |
+| 619 | 140 | Tiffany Hassanshahi |
+| 620 | 140 | Wendy Durrence Jones |
+| 621 | 140 | Ashley Jones |
+| 622 | 140 | Chipper Towerzone |
+| 623 | 140 | Heather Billodeau |
+| 624 | 140 | Adam Latin |
+| 625 | 140 | Deezie |
+| 626 | 140 | Chris Christ |
+| 627 | 139 | Cassandra Green |
+| 628 | 139 | David Skelton |
+| 629 | 139 | Jason Burris |
+| 630 | 138 | Sam Brewster |
+| 631 | 138 | Madonna Ash |
+| 632 | 138 | Firebone |
+| 633 | 138 | Michael Saunders |
+| 634 | 138 | Breezy |
+| 635 | 138 | Robin Stutler |
 | 636 | 137 | Sandra Belk |
 | 637 | 137 | Sarah Louise Cobb |
 | 638 | 136 | Lauren Maxwell |
