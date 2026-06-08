@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:21:19 UTC
+# Standings for team2 as of 2026-06-08 08:22:41 UTC
 
 **Total Participants:** 2134
 
@@ -48,9 +48,9 @@
 | 40 | 2823 | Angie BBlock |
 | 41 | 2750 | Tom Badgley |
 | 42 | 2708 | Julie Trede Amerson |
-| 43 | 2556 | Andrew Weissenborn |
-| 44 | 2527 | Helen Thomas |
-| 45 | 2500 | Anthony Lilley |
+| 43 | 2700 | Anthony Lilley |
+| 44 | 2556 | Andrew Weissenborn |
+| 45 | 2527 | Helen Thomas |
 | 46 | 2414 | Nerdy Glidepiece |
 | 47 | 2282 | Frisky Balanceblock |
 | 48 | 2212 | Smashanator |
@@ -145,10 +145,10 @@
 | 137 | 686 | Brandon Link |
 | 138 | 682 | Wmk Rathbun |
 | 139 | 679 | Zappy Pattern |
-| 140 | 671 | Gloria May Shook |
-| 141 | 670 | Krisanne Kesner-Lonsby |
-| 142 | 660 | Nikki Carter |
-| 143 | 651 | Melissa Thomas |
+| 140 | 671 | Melissa Thomas |
+| 141 | 671 | Gloria May Shook |
+| 142 | 670 | Krisanne Kesner-Lonsby |
+| 143 | 660 | Nikki Carter |
 | 144 | 647 | Nettrainer |
 | 145 | 645 | Jackie Tupper |
 | 146 | 643 | Alison Waller |
@@ -203,16 +203,16 @@
 | 195 | 453 | Ashley Green |
 | 196 | 451 | Gill |
 | 197 | 449 | Danielle Blount |
-| 198 | 449 | Suki Jacobs |
-| 199 | 449 | Snappy Blockbuilder |
+| 198 | 449 | Snappy Blockbuilder |
+| 199 | 449 | Suki Jacobs |
 | 200 | 448 | Eric Drane |
 | 201 | 445 | Gabrielle Wilson |
 | 202 | 442 | Frilly Dashfit |
 | 203 | 434 | Janelle Edgecombe |
 | 204 | 432 | Twisty Buildgrid |
 | 205 | 431 | AndyJo |
-| 206 | 429 | giamy |
-| 207 | 429 | Cool Climber |
+| 206 | 429 | Cool Climber |
+| 207 | 429 | giamy |
 | 208 | 428 | Nikki EightySixed |
 | 209 | 428 | Zany Blockclear |
 | 210 | 428 | Physhie |
@@ -224,18 +224,18 @@
 | 216 | 416 | Cristi Doris |
 | 217 | 416 | Lyric Price |
 | 218 | 414 | Daybreak |
-| 219 | 413 | H |
-| 220 | 413 | Jat |
+| 219 | 413 | Jat |
+| 220 | 413 | H |
 | 221 | 412 | Nikki Hayes |
-| 222 | 411 | Mookshake |
-| 223 | 411 | Sandy Lynn |
+| 222 | 411 | Sandy Lynn |
+| 223 | 411 | Mookshake |
 | 224 | 407 | Crystal Allen |
-| 225 | 405 | MaddieCherie |
-| 226 | 405 | Amy Gregg |
+| 225 | 405 | Amy Gregg |
+| 226 | 405 | MaddieCherie |
 | 227 | 404 | Goofy Gridclear |
 | 228 | 403 | Becca Marie |
-| 229 | 402 | Michelle Luke Banta |
-| 230 | 402 | Brenda Jones |
+| 229 | 402 | Brenda Jones |
+| 230 | 402 | Michelle Luke Banta |
 | 231 | 399 | Jeffrey Smith |
 | 232 | 398 | Kimmyc |
 | 233 | 395 | Justin McCray |
@@ -247,8 +247,8 @@
 | 239 | 380 | Bb |
 | 240 | 379 | Greta Warden |
 | 241 | 376 | Jamie Fenyus |
-| 242 | 376 | Traci Abern |
-| 243 | 376 | Chill Line |
+| 242 | 376 | Chill Line |
+| 243 | 376 | Traci Abern |
 | 244 | 375 | Brittni Lawrence |
 | 245 | 375 | Branden Frankowski |
 | 246 | 373 | Hoppy Mover |
@@ -267,44 +267,44 @@
 | 259 | 346 | Charles E Mccardell |
 | 260 | 344 | Lora Via |
 | 261 | 340 | Marge Cromer |
-| 262 | 339 | Keri Mears |
-| 263 | 338 | Amie Marks |
-| 264 | 337 | Ashley Billiot Rhodes |
-| 265 | 337 | Adriana Daniela Agapie |
-| 266 | 331 | Shannon Wilson |
-| 267 | 328 | Tim Tim |
-| 268 | 328 | Xandrea Jones |
-| 269 | 327 | Jumpy Matchbuilder |
-| 270 | 327 | Chipper Stackbuilder |
-| 271 | 327 | Iesha Cupil |
-| 272 | 325 | Flashy Twistline |
-| 273 | 325 | Snappy Combo |
-| 274 | 324 | DayDreamer79 |
+| 262 | 340 | Mellzey |
+| 263 | 339 | Keri Mears |
+| 264 | 338 | Amie Marks |
+| 265 | 337 | Ashley Billiot Rhodes |
+| 266 | 337 | Adriana Daniela Agapie |
+| 267 | 331 | Shannon Wilson |
+| 268 | 328 | Tim Tim |
+| 269 | 328 | Xandrea Jones |
+| 270 | 327 | Jumpy Matchbuilder |
+| 271 | 327 | Chipper Stackbuilder |
+| 272 | 327 | Iesha Cupil |
+| 273 | 325 | Flashy Twistline |
+| 274 | 325 | Snappy Combo |
 | 275 | 324 | Norma Ortiz |
-| 276 | 324 | Swanky Fitline |
-| 277 | 322 | Queen |
-| 278 | 322 | Pam Bauder Ludwig |
-| 279 | 320 | Linda Guay |
-| 280 | 319 | Mellzey |
+| 276 | 324 | DayDreamer79 |
+| 277 | 324 | Swanky Fitline |
+| 278 | 322 | Queen |
+| 279 | 322 | Pam Bauder Ludwig |
+| 280 | 320 | Linda Guay |
 | 281 | 319 | Ackerman 85 |
-| 282 | 318 | Pamela Raye |
-| 283 | 318 | Margie Ann Naffziger |
+| 282 | 318 | Margie Ann Naffziger |
+| 283 | 318 | Pamela Raye |
 | 284 | 316 | Jeanna Mendez |
 | 285 | 310 | Aldotfus Williams |
 | 286 | 310 | Amy Taylor Pomerenk |
 | 287 | 310 | Jenn |
-| 288 | 308 | Hector |
+| 288 | 308 | Larry Cross |
 | 289 | 308 | Heather Burgett |
-| 290 | 308 | Larry Cross |
+| 290 | 308 | Hector |
 | 291 | 306 | Brittney Williams |
-| 292 | 305 | Melissa Clogher White |
-| 293 | 305 | Logan Duffey |
+| 292 | 305 | Logan Duffey |
+| 293 | 305 | Melissa Clogher White |
 | 294 | 305 | Havik Whitfield |
-| 295 | 300 | Jason Cunningham |
-| 296 | 300 | Patricia Carroll |
-| 297 | 300 | Melisa |
-| 298 | 300 | Jamin |
-| 299 | 300 | Sarah Rodriguez |
+| 295 | 300 | Patricia Carroll |
+| 296 | 300 | Sarah Rodriguez |
+| 297 | 300 | Jamin |
+| 298 | 300 | Jason Cunningham |
+| 299 | 300 | Melisa |
 | 300 | 299 | Alicia Kinney |
 | 301 | 298 | Rob Owens |
 | 302 | 296 | Vistabrat |
@@ -423,16 +423,16 @@
 | 415 | 213 | Judy Burkhalter |
 | 416 | 212 | Carebear05 |
 | 417 | 211 | Sassy Twistbuilder |
-| 418 | 210 | Camilo Moreno |
-| 419 | 210 | Nichole Wilson |
-| 420 | 210 | Francesca Wagenhoffer |
-| 421 | 210 | Amanda Bottorff |
-| 422 | 210 | Rick |
-| 423 | 209 | Kevin Mccoy |
-| 424 | 208 | Dad |
-| 425 | 208 | Martha Lynn Wiggins |
-| 426 | 208 | Will Jones |
-| 427 | 207 | Brittany Mathis |
+| 418 | 211 | Brittany Mathis |
+| 419 | 210 | Camilo Moreno |
+| 420 | 210 | Nichole Wilson |
+| 421 | 210 | Francesca Wagenhoffer |
+| 422 | 210 | Amanda Bottorff |
+| 423 | 210 | Rick |
+| 424 | 209 | Kevin Mccoy |
+| 425 | 208 | Dad |
+| 426 | 208 | Martha Lynn Wiggins |
+| 427 | 208 | Will Jones |
 | 428 | 207 | StacyBabee |
 | 429 | 207 | Wendy McKee |
 | 430 | 206 | Jodi Johnson |
