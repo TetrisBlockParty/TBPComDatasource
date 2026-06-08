@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 02:54:19 UTC
+# Standings for team4 as of 2026-06-08 02:54:40 UTC
 
 **Total Participants:** 1716
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 17064 | Lisa Cullum |
+| 1 | 17114 | Lisa Cullum |
 | 2 | 15906 | Lyza |
 | 3 | 14500 | Jessica Sheehan |
 | 4 | 14276 | Hanan Hana |
@@ -15,7 +15,7 @@
 | 7 | 7442 | ktothet |
 | 8 | 6600 | Candice Driver |
 | 9 | 6401 | BertaF1irta |
-| 10 | 5477 | Kait Confetti |
+| 10 | 5554 | Kait Confetti |
 | 11 | 5307 | Hasty Builder |
 | 12 | 5123 | delilahbelle |
 | 13 | 5117 | Jerald Jones |
@@ -24,7 +24,7 @@
 | 16 | 4772 | Anna Moses |
 | 17 | 4633 | Bubbly Twistpiece |
 | 18 | 4578 | t |
-| 19 | 4442 | Nia Mayfield |
+| 19 | 4451 | Nia Mayfield |
 | 20 | 4434 | Chris Hills |
 | 21 | 4054 | Witty Clicky |
 | 22 | 4015 | Tyra Brooke Everman Forest |
