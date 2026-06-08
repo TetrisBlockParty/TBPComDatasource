@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:11:20 UTC
+# Standings for team1 as of 2026-06-08 16:12:20 UTC
 
 **Total Participants:** 1822
 
@@ -56,7 +56,7 @@
 | 48 | 1693 | JoJo |
 | 49 | 1684 | Ceilo Marie |
 | 50 | 1656 | Mimi 1.0 |
-| 51 | 1633 | Cherry Rose |
+| 51 | 1653 | Cherry Rose |
 | 52 | 1628 | Robyn Caldwell |
 | 53 | 1548 | Jennifer To |
 | 54 | 1538 | Jacoby E Fleming |
@@ -1813,21 +1813,21 @@
 | 1805 | 5 | Cleversphinx76 |
 | 1806 | 5 | Misty Sollberger |
 | 1807 | 5 | pettymexoxo |
-| 1808 | 5 | MrKeith Debraux |
-| 1809 | 5 | Derek Beverly |
-| 1810 | 5 | Joi |
-| 1811 | 5 | Angelique Thomas |
-| 1812 | 5 | Joy Baker |
-| 1813 | 5 | Andy Barnett |
-| 1814 | 5 | Zesty Brickline |
-| 1815 | 5 | Godz Chosen |
-| 1816 | 5 | Crafty Fallzone |
-| 1817 | 5 | Happy |
-| 1818 | 5 | Em Purvis |
-| 1819 | 5 | Danielle Mariyh Toomer |
-| 1820 | 5 | VERA DAME |
-| 1821 | 5 | Amber Interrobang |
-| 1822 | 5 | the guy |
+| 1808 | 5 | Derek Beverly |
+| 1809 | 5 | MrKeith Debraux |
+| 1810 | 5 | Angelique Thomas |
+| 1811 | 5 | the guy |
+| 1812 | 5 | Amber Interrobang |
+| 1813 | 5 | VERA DAME |
+| 1814 | 5 | Danielle Mariyh Toomer |
+| 1815 | 5 | Em Purvis |
+| 1816 | 5 | Happy |
+| 1817 | 5 | Crafty Fallzone |
+| 1818 | 5 | Godz Chosen |
+| 1819 | 5 | Zesty Brickline |
+| 1820 | 5 | Andy Barnett |
+| 1821 | 5 | Joy Baker |
+| 1822 | 5 | Joi |
 
 ---
 *Standings created by tournaments datasource generation tool*
