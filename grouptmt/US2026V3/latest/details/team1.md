@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:08:41 UTC
+# Standings for team1 as of 2026-06-08 02:09:20 UTC
 
 **Total Participants:** 1669
 
@@ -779,58 +779,58 @@
 | 771 | 80 | Marcello Rush |
 | 772 | 80 | SherylU |
 | 773 | 79 | Shauntai Holiday |
-| 774 | 79 | Sabrina Wilkerson |
-| 775 | 79 | Evette Moreno |
-| 776 | 79 | Montréal Mars |
-| 777 | 79 | LAdYPOLy |
-| 778 | 79 | Haakuu |
+| 774 | 79 | Montréal Mars |
+| 775 | 79 | Sabrina Wilkerson |
+| 776 | 79 | Evette Moreno |
+| 777 | 79 | Haakuu |
+| 778 | 79 | LAdYPOLy |
 | 779 | 79 | Tony Pizzas |
 | 780 | 79 | Frilly Shatterline |
 | 781 | 79 | Christy Quick |
 | 782 | 78 | Pinky Pink |
 | 783 | 78 | Kahh |
-| 784 | 78 | Tasha Jones |
-| 785 | 78 | Solomon Valarie |
-| 786 | 78 | Krystal Maynard |
-| 787 | 78 | Smiley3000 |
-| 788 | 77 | Ysma Simmons |
-| 789 | 77 | Crtjstr |
-| 790 | 77 | Earl Williams |
-| 791 | 76 | LaSharon Jackson |
-| 792 | 76 | Mama P |
-| 793 | 76 | Paul Doty |
-| 794 | 76 | Vannie G |
-| 795 | 76 | John Spath |
-| 796 | 76 | Giggly Shatterline |
-| 797 | 75 | Boldy Pivoty |
-| 798 | 75 | Erika |
-| 799 | 75 | Teresa Bean |
-| 800 | 75 | Blocksy |
-| 801 | 75 | Cj Chimelis |
-| 802 | 75 | Angie Lebron |
-| 803 | 75 | Tiffany Jean Hinson |
-| 804 | 75 | sasha |
-| 805 | 75 | Courtney Robinson |
-| 806 | 75 | Laysa Nunez |
-| 807 | 74 | Giggy Brickfit |
-| 808 | 74 | AshMo |
-| 809 | 74 | Stronger Wiser Better |
-| 810 | 74 | Coco |
-| 811 | 74 | Tetrisdestroyer |
-| 812 | 74 | Ace Hardware |
-| 813 | 74 | Biggestboss Ransom |
-| 814 | 74 | Abby |
-| 815 | 74 | Meow Meow |
-| 816 | 74 | Glitzy Clusterer |
-| 817 | 73 | Lazy Matchgrid |
-| 818 | 73 | brite |
-| 819 | 73 | Crystal Garay |
+| 784 | 78 | Nikiya |
+| 785 | 78 | Tasha Jones |
+| 786 | 78 | Solomon Valarie |
+| 787 | 78 | Krystal Maynard |
+| 788 | 78 | Smiley3000 |
+| 789 | 77 | Ysma Simmons |
+| 790 | 77 | Crtjstr |
+| 791 | 77 | Earl Williams |
+| 792 | 76 | LaSharon Jackson |
+| 793 | 76 | John Spath |
+| 794 | 76 | Giggly Shatterline |
+| 795 | 76 | Vannie G |
+| 796 | 76 | Paul Doty |
+| 797 | 76 | Mama P |
+| 798 | 75 | Teresa Bean |
+| 799 | 75 | Blocksy |
+| 800 | 75 | Cj Chimelis |
+| 801 | 75 | Tiffany Jean Hinson |
+| 802 | 75 | Erika |
+| 803 | 75 | Angie Lebron |
+| 804 | 75 | Boldy Pivoty |
+| 805 | 75 | sasha |
+| 806 | 75 | Courtney Robinson |
+| 807 | 75 | Laysa Nunez |
+| 808 | 74 | Biggestboss Ransom |
+| 809 | 74 | AshMo |
+| 810 | 74 | Stronger Wiser Better |
+| 811 | 74 | Coco |
+| 812 | 74 | Tetrisdestroyer |
+| 813 | 74 | Ace Hardware |
+| 814 | 74 | Giggy Brickfit |
+| 815 | 74 | Abby |
+| 816 | 74 | Meow Meow |
+| 817 | 74 | Glitzy Clusterer |
+| 818 | 73 | Lazy Matchgrid |
+| 819 | 73 | brite |
 | 820 | 73 | Kàrma Lee |
 | 821 | 73 | Abigail Newman Sweet |
-| 822 | 72 | Megan Jones |
+| 822 | 73 | Crystal Garay |
 | 823 | 72 | Witty Clear |
 | 824 | 72 | Clipzby |
-| 825 | 72 | Comedian Gdane |
+| 825 | 72 | Megan Jones |
 | 826 | 72 | Brittany Britkany Marsden-Garrison |
 | 827 | 72 | jeremy92 |
 | 828 | 72 | Nekka |
@@ -838,34 +838,34 @@
 | 830 | 72 | Ashanti Eden |
 | 831 | 72 | TeeMaster Barber IsLyfe |
 | 832 | 72 | Ladybug |
-| 833 | 71 | HBTone |
-| 834 | 71 | KimChii |
-| 835 | 71 | NataAllDay |
-| 836 | 71 | Jane Lame |
-| 837 | 71 | Tori Carter |
-| 838 | 71 | kingbrook |
-| 839 | 71 | Ryan Holm |
-| 840 | 71 | Kidgib5 |
-| 841 | 70 | West Racks |
-| 842 | 70 | Rachel Lopez |
-| 843 | 70 | JoZanna Washington |
-| 844 | 70 | Nedine Ray |
+| 833 | 72 | Comedian Gdane |
+| 834 | 71 | HBTone |
+| 835 | 71 | KimChii |
+| 836 | 71 | NataAllDay |
+| 837 | 71 | Jane Lame |
+| 838 | 71 | Tori Carter |
+| 839 | 71 | kingbrook |
+| 840 | 71 | Ryan Holm |
+| 841 | 71 | Kidgib5 |
+| 842 | 70 | West Racks |
+| 843 | 70 | Rachel Lopez |
+| 844 | 70 | JoZanna Washington |
 | 845 | 70 | Mellie Mel |
 | 846 | 70 | Chris Rogers |
-| 847 | 70 | Smøke DGAF |
-| 848 | 69 | Jose Rodriguez |
-| 849 | 69 | Keith Johnson |
-| 850 | 69 | GiantBehemoth |
-| 851 | 69 | squints |
-| 852 | 69 | Markeita Jones |
-| 853 | 69 | BrettanMary Adkins |
-| 854 | 69 | Teresa Menefee |
-| 855 | 69 | Cori Cleland |
-| 856 | 69 | Crafty Witch |
-| 857 | 69 | Erica Campbell-Stillings |
-| 858 | 68 | Saucy Crusher |
-| 859 | 68 | Shawna Passwater |
-| 860 | 68 | Nikiya |
+| 847 | 70 | Nedine Ray |
+| 848 | 70 | Smøke DGAF |
+| 849 | 69 | Jose Rodriguez |
+| 850 | 69 | Keith Johnson |
+| 851 | 69 | GiantBehemoth |
+| 852 | 69 | squints |
+| 853 | 69 | Markeita Jones |
+| 854 | 69 | BrettanMary Adkins |
+| 855 | 69 | Teresa Menefee |
+| 856 | 69 | Cori Cleland |
+| 857 | 69 | Crafty Witch |
+| 858 | 69 | Erica Campbell-Stillings |
+| 859 | 68 | Saucy Crusher |
+| 860 | 68 | Shawna Passwater |
 | 861 | 68 | Alexandrla Smith |
 | 862 | 68 | Bunnie Celtavini |
 | 863 | 68 | Fatty May |
