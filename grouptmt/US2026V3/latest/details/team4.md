@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:58:44 UTC
+# Standings for team4 as of 2026-06-08 16:59:20 UTC
 
 **Total Participants:** 1874
 
@@ -123,25 +123,25 @@
 | 115 | 725 | Irma |
 | 116 | 717 | Jason Garnatz |
 | 117 | 715 | Chuck Gannon |
-| 118 | 705 | Dana Fontanez |
-| 119 | 697 | Cranky Towerbuilder |
+| 118 | 712 | Alicia Cook |
+| 119 | 705 | Dana Fontanez |
 | 120 | 697 | Lynn Grimes |
-| 121 | 694 | Kelly Bernard |
-| 122 | 692 | Jeremy Lopez |
-| 123 | 684 | Melissa WC |
-| 124 | 684 | Pepone Pepe |
-| 125 | 677 | Dandy Clearfit |
-| 126 | 676 | Caitlyn Wang |
-| 127 | 669 | Gigglycat |
-| 128 | 666 | shawna |
-| 129 | 666 | Jesse Olive |
-| 130 | 665 | iiPurgeV2 |
-| 131 | 665 | Kristen Wallace |
-| 132 | 646 | Andrew Dang |
-| 133 | 644 | Gracie Ornelas |
-| 134 | 642 | squareMel |
-| 135 | 640 | CJ |
-| 136 | 632 | Alicia Cook |
+| 121 | 697 | Cranky Towerbuilder |
+| 122 | 694 | Kelly Bernard |
+| 123 | 692 | Jeremy Lopez |
+| 124 | 684 | Melissa WC |
+| 125 | 684 | Pepone Pepe |
+| 126 | 677 | Dandy Clearfit |
+| 127 | 676 | Caitlyn Wang |
+| 128 | 669 | Gigglycat |
+| 129 | 666 | shawna |
+| 130 | 666 | Jesse Olive |
+| 131 | 665 | iiPurgeV2 |
+| 132 | 665 | Kristen Wallace |
+| 133 | 646 | Andrew Dang |
+| 134 | 644 | Gracie Ornelas |
+| 135 | 642 | squareMel |
+| 136 | 640 | CJ |
 | 137 | 618 | Becky Doll-Hall |
 | 138 | 615 | Cinta Marie |
 | 139 | 600 | Suzanne Carter |
@@ -255,8 +255,8 @@
 | 247 | 333 | Tiffany Bunker-Hill |
 | 248 | 332 | Tyson Stroppel |
 | 249 | 331 | George Palacios |
-| 250 | 331 | Queen B |
-| 251 | 330 | Snippy Splitter |
+| 250 | 331 | Snippy Splitter |
+| 251 | 331 | Queen B |
 | 252 | 328 | Shanae Taylor |
 | 253 | 327 | beTrue76 |
 | 254 | 326 | Boldy Striker |
@@ -295,18 +295,18 @@
 | 287 | 293 | Logan Two-dubs Baker |
 | 288 | 293 | Joseph Hunter |
 | 289 | 292 | Rachel Lemos |
-| 290 | 290 | Brian Woods |
-| 291 | 289 | Shepreneur Sade |
-| 292 | 287 | Cheery Risegrid |
-| 293 | 286 | Erika Seaton |
-| 294 | 286 | Dubiousdust |
-| 295 | 283 | Tiggerjake |
-| 296 | 282 | Homie |
-| 297 | 282 | Goofy Fall |
-| 298 | 282 | Troy Zanelli |
-| 299 | 282 | Shanna Fragen |
-| 300 | 281 | Margie Thomas |
-| 301 | 281 | Jeremy |
+| 290 | 292 | Jeremy |
+| 291 | 290 | Brian Woods |
+| 292 | 289 | Shepreneur Sade |
+| 293 | 287 | Cheery Risegrid |
+| 294 | 286 | Erika Seaton |
+| 295 | 286 | Dubiousdust |
+| 296 | 283 | Tiggerjake |
+| 297 | 282 | Troy Zanelli |
+| 298 | 282 | Shanna Fragen |
+| 299 | 282 | Homie |
+| 300 | 282 | Goofy Fall |
+| 301 | 281 | Margie Thomas |
 | 302 | 278 | Becky McCool |
 | 303 | 278 | Tamara Triplet |
 | 304 | 278 | Cranky Buildout |
@@ -314,16 +314,16 @@
 | 306 | 276 | Smiley Gridzone |
 | 307 | 274 | Dominique Melendez |
 | 308 | 273 | Mark Norton |
-| 309 | 271 | Slinky Stackzone |
-| 310 | 271 | Renee Sapp |
-| 311 | 270 | Stasia |
-| 312 | 270 | DanceAngel |
+| 309 | 271 | Renee Sapp |
+| 310 | 271 | Slinky Stackzone |
+| 311 | 270 | DanceAngel |
+| 312 | 270 | Stasia |
 | 313 | 268 | Danny Keich III |
 | 314 | 267 | Chirpy Link |
-| 315 | 266 | Karen Davis |
-| 316 | 266 | Sassy Rollpiece |
-| 317 | 265 | Justin Michael |
-| 318 | 265 | Matthew Wilcox |
+| 315 | 266 | Sassy Rollpiece |
+| 316 | 266 | Karen Davis |
+| 317 | 265 | Matthew Wilcox |
+| 318 | 265 | Justin Michael |
 | 319 | 263 | Laurie Patrick |
 | 320 | 263 | Chummy Jumper |
 | 321 | 261 | Brooke Arroyo |
