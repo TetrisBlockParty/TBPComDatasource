@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:20:20 UTC
+# Standings for team1 as of 2026-06-08 12:20:42 UTC
 
 **Total Participants:** 1788
 
@@ -165,8 +165,8 @@
 | 157 | 486 | Tammye Turner |
 | 158 | 485 | xXEKUNXx |
 | 159 | 483 | Lesley Brunkus Cianfaglione |
-| 160 | 482 | Spunky Edgefit |
-| 161 | 482 | Jamal Itzjusmall Chambers |
+| 160 | 482 | Jamal Itzjusmall Chambers |
+| 161 | 482 | Spunky Edgefit |
 | 162 | 477 | Nobles Brandon |
 | 163 | 466 | Tootsie Pop |
 | 164 | 459 | Ebony Waynes-robinson |
@@ -184,11 +184,11 @@
 | 176 | 439 | Asani CHumba |
 | 177 | 432 | Katherine Short |
 | 178 | 431 | Lashawn Wallace |
-| 179 | 430 | Tamara N Lee |
-| 180 | 427 | Ty Øtg |
-| 181 | 421 | Dee McCool |
-| 182 | 420 | Hyper Slamdrop |
-| 183 | 420 | boogeywoogey |
+| 179 | 430 | boogeywoogey |
+| 180 | 430 | Tamara N Lee |
+| 181 | 427 | Ty Øtg |
+| 182 | 421 | Dee McCool |
+| 183 | 420 | Hyper Slamdrop |
 | 184 | 420 | Jessica Carter |
 | 185 | 420 | Spicy Risepiece |
 | 186 | 418 | Sheila Burnham |
@@ -253,8 +253,8 @@
 | 245 | 326 | Christopher Dreamsareality McEachin |
 | 246 | 323 | Bre Poston |
 | 247 | 323 | Heather Aurelia |
-| 248 | 322 | Rhonda Williams Warner |
-| 249 | 321 | Koi |
+| 248 | 323 | Koi |
+| 249 | 322 | Rhonda Williams Warner |
 | 250 | 320 | NastyFriend |
 | 251 | 320 | Natasha Rucker |
 | 252 | 318 | Calvin Green |
@@ -662,28 +662,28 @@
 | 654 | 114 | Ameillia Boughner |
 | 655 | 114 | Felicia Dungey |
 | 656 | 114 | Cranky Fall |
-| 657 | 114 | Renee Marshall |
-| 658 | 114 | LAhoneybun82 |
-| 659 | 113 | Lilly Brown |
-| 660 | 113 | Snappy Link |
-| 661 | 112 | TeeMaster Barber IsLyfe |
-| 662 | 112 | Peppy Wipeblock |
-| 663 | 112 | Marie Wilson |
-| 664 | 112 | GamerQueenDS |
-| 665 | 112 | DirtiestofMikes |
-| 666 | 112 | Jose Rodriguez |
-| 667 | 111 | Chino Baby |
-| 668 | 111 | Angie Smith |
-| 669 | 111 | Happy Blockpiece |
-| 670 | 111 | Happy Blocky |
-| 671 | 111 | Mellie Mel |
-| 672 | 111 | Taneka Howell |
-| 673 | 110 | Tito Divyn |
+| 657 | 114 | Paul Pendley |
+| 658 | 114 | Renee Marshall |
+| 659 | 114 | LAhoneybun82 |
+| 660 | 113 | Lilly Brown |
+| 661 | 113 | Snappy Link |
+| 662 | 112 | TeeMaster Barber IsLyfe |
+| 663 | 112 | Peppy Wipeblock |
+| 664 | 112 | Marie Wilson |
+| 665 | 112 | GamerQueenDS |
+| 666 | 112 | DirtiestofMikes |
+| 667 | 112 | Jose Rodriguez |
+| 668 | 111 | Chino Baby |
+| 669 | 111 | Angie Smith |
+| 670 | 111 | Happy Blockpiece |
+| 671 | 111 | Happy Blocky |
+| 672 | 111 | Mellie Mel |
+| 673 | 111 | Taneka Howell |
 | 674 | 110 | Mommy Frank |
-| 675 | 110 | Jen Hallin |
-| 676 | 110 | Tony Pizzas |
-| 677 | 110 | Paul Pendley |
-| 678 | 110 | Loopy Block |
+| 675 | 110 | Tito Divyn |
+| 676 | 110 | Jen Hallin |
+| 677 | 110 | Loopy Block |
+| 678 | 110 | Tony Pizzas |
 | 679 | 110 | Danny Talbot |
 | 680 | 109 | Cynthia Cruell |
 | 681 | 109 | Kortney Adams |
