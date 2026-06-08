@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:50:42 UTC
+# Standings for team4 as of 2026-06-08 10:51:20 UTC
 
 **Total Participants:** 1813
 
@@ -30,10 +30,10 @@
 | 22 | 4312 | Tyra Brooke Everman Forest |
 | 23 | 4219 | Jackie Lucas |
 | 24 | 4054 | Witty Clicky |
-| 25 | 3935 | TitiLo72 |
-| 26 | 3917 | Daring Ziggy |
-| 27 | 3861 | Tonya Brooks-Johnson |
-| 28 | 3789 | Ning Quiambao |
+| 25 | 3989 | Ning Quiambao |
+| 26 | 3935 | TitiLo72 |
+| 27 | 3917 | Daring Ziggy |
+| 28 | 3861 | Tonya Brooks-Johnson |
 | 29 | 3776 | Dana Smith |
 | 30 | 3654 | Senor Moppy |
 | 31 | 3421 | Fruitpunch |
@@ -191,8 +191,8 @@
 | 183 | 399 | Devinlee Brown |
 | 184 | 395 | Bobbie Harrell |
 | 185 | 395 | Julian Gasque |
-| 186 | 389 | blockhead |
-| 187 | 389 | Taz |
+| 186 | 392 | Taz |
+| 187 | 389 | blockhead |
 | 188 | 382 | Goofy Riser |
 | 189 | 380 | Cinta Marie |
 | 190 | 378 | Hwanger Land |
@@ -301,14 +301,14 @@
 | 293 | 248 | Becky McCool |
 | 294 | 247 | Bridget Stevens |
 | 295 | 247 | Shauna Davis |
-| 296 | 244 | Queen B |
-| 297 | 244 | Lisa lisa |
-| 298 | 243 | Mark Norton |
-| 299 | 242 | Homie |
-| 300 | 241 | Alma López Morales |
-| 301 | 240 | Swanky Brickzone |
-| 302 | 240 | Saucy Wipepiece |
-| 303 | 240 | No Time |
+| 296 | 245 | No Time |
+| 297 | 244 | Queen B |
+| 298 | 244 | Lisa lisa |
+| 299 | 243 | Mark Norton |
+| 300 | 242 | Homie |
+| 301 | 241 | Alma López Morales |
+| 302 | 240 | Swanky Brickzone |
+| 303 | 240 | Saucy Wipepiece |
 | 304 | 240 | Jaci Marie |
 | 305 | 239 | bollo |
 | 306 | 238 | Tara Delay Hill |
@@ -740,61 +740,61 @@
 | 732 | 99 | Dru Lui |
 | 733 | 99 | Ricardo Arias |
 | 734 | 99 | Rebekah Anne Macias |
-| 735 | 99 | Susan Mary Kelley |
-| 736 | 99 | SueSally |
-| 737 | 98 | Giggy Blockpiece |
-| 738 | 98 | LeRoy jenkins |
-| 739 | 98 | Kena T. Tanner |
-| 740 | 98 | katy |
-| 741 | 98 | Hilarie Detweiler |
-| 742 | 98 | Daring Towerer |
-| 743 | 98 | Tiffany Roberts |
-| 744 | 98 | Deb 07 |
-| 745 | 98 | shonaberry |
-| 746 | 98 | Addi JayKay |
-| 747 | 97 | Blessedmom865 |
-| 748 | 96 | Bear Bair |
-| 749 | 96 | Tiffany Taylor |
+| 735 | 99 | SueSally |
+| 736 | 99 | Susan Mary Kelley |
+| 737 | 98 | Tiffany Roberts |
+| 738 | 98 | shonaberry |
+| 739 | 98 | Hilarie Detweiler |
+| 740 | 98 | LeRoy jenkins |
+| 741 | 98 | Deb 07 |
+| 742 | 98 | Misti Rich |
+| 743 | 98 | Daring Towerer |
+| 744 | 98 | Giggy Blockpiece |
+| 745 | 98 | katy |
+| 746 | 98 | Kena T. Tanner |
+| 747 | 98 | Addi JayKay |
+| 748 | 97 | Blessedmom865 |
+| 749 | 96 | Bear Bair |
 | 750 | 96 | Smiley Wipeblock |
 | 751 | 96 | Earl Edwards |
-| 752 | 96 | Scalpel Causes Shambles |
-| 753 | 95 | Jailen Harper |
-| 754 | 95 | Frisky Pusher |
-| 755 | 95 | Christina Barry |
-| 756 | 95 | Kristen Nicole Depp-Stewart |
-| 757 | 95 | Taquilla Branch |
-| 758 | 95 | Hyper Balancepiece |
-| 759 | 95 | Esmond Johnson IV |
-| 760 | 95 | Lovetetris |
-| 761 | 94 | Lala |
+| 752 | 96 | Tiffany Taylor |
+| 753 | 96 | Scalpel Causes Shambles |
+| 754 | 95 | Kristen Nicole Depp-Stewart |
+| 755 | 95 | Taquilla Branch |
+| 756 | 95 | Lovetetris |
+| 757 | 95 | Hyper Balancepiece |
+| 758 | 95 | Jailen Harper |
+| 759 | 95 | Frisky Pusher |
+| 760 | 95 | Esmond Johnson IV |
+| 761 | 95 | Christina Barry |
 | 762 | 94 | Reina Pagan |
 | 763 | 94 | Erika Rubio |
-| 764 | 94 | Elli Wright |
-| 765 | 94 | Carlos Amaya |
-| 766 | 94 | Cranky Twistpiece |
-| 767 | 93 | Joha Mldo Castillo |
-| 768 | 93 | Cozy Patternline |
-| 769 | 93 | Fancy Riser |
-| 770 | 93 | Rocky |
-| 771 | 93 | Stefanie Street |
-| 772 | 92 | ShaniP |
-| 773 | 92 | 94Blockhead |
-| 774 | 92 | Peterson Cottontail |
-| 775 | 92 | REPENT |
-| 776 | 92 | Autumn Maher |
-| 777 | 92 | Happy Strikerpiece |
-| 778 | 92 | Misti Rich |
+| 764 | 94 | Lala |
+| 765 | 94 | Elli Wright |
+| 766 | 94 | Carlos Amaya |
+| 767 | 94 | Cranky Twistpiece |
+| 768 | 93 | Joha Mldo Castillo |
+| 769 | 93 | Cozy Patternline |
+| 770 | 93 | Fancy Riser |
+| 771 | 93 | Rocky |
+| 772 | 93 | Stefanie Street |
+| 773 | 92 | ShaniP |
+| 774 | 92 | Autumn Maher |
+| 775 | 92 | 94Blockhead |
+| 776 | 92 | Peterson Cottontail |
+| 777 | 92 | REPENT |
+| 778 | 92 | Happy Strikerpiece |
 | 779 | 91 | Slinky Column |
-| 780 | 91 | MsChelleAnn |
-| 781 | 91 | Mann Manson |
+| 780 | 91 | Mann Manson |
+| 781 | 91 | MsChelleAnn |
 | 782 | 91 | Lizzzzzz |
-| 783 | 91 | Michelle Michelle |
-| 784 | 91 | Giggy Risegrid |
+| 783 | 91 | Giggy Risegrid |
+| 784 | 91 | Michelle Michelle |
 | 785 | 90 | Stephanie Meinhart |
 | 786 | 90 | Christina Williams |
 | 787 | 90 | Dexter Hammond Jr |
-| 788 | 90 | Tigger |
-| 789 | 90 | Breezy Brickfit |
+| 788 | 90 | Breezy Brickfit |
+| 789 | 90 | Tigger |
 | 790 | 89 | Khylee DarDar |
 | 791 | 89 | Allrise99 |
 | 792 | 89 | Alicia |
@@ -804,9 +804,9 @@
 | 796 | 88 | Kelly Miller Williams |
 | 797 | 88 | Bigmamalizzet Latto |
 | 798 | 88 | Cozy Towerpiece |
-| 799 | 88 | Happy Toast |
-| 800 | 88 | Nikcole Alexis Bryan |
-| 801 | 88 | MrsAddams724 |
+| 799 | 88 | Nikcole Alexis Bryan |
+| 800 | 88 | MrsAddams724 |
+| 801 | 88 | Happy Toast |
 | 802 | 87 | Limbo |
 | 803 | 87 | Tana-Marie Lynn McCarty-Rolf |
 | 804 | 87 | Shirley A. Godfrey |
