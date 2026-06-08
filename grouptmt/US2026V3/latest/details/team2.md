@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:34:41 UTC
+# Standings for team2 as of 2026-06-08 04:35:19 UTC
 
 **Total Participants:** 2091
 
@@ -370,9 +370,9 @@
 | 362 | 238 | Laverne Ellis Blair |
 | 363 | 236 | Jason Cunningham |
 | 364 | 236 | Lush Party |
-| 365 | 233 | Jerry L Morales |
-| 366 | 233 | Stephany Green |
-| 367 | 232 | Olivia Jefferson |
+| 365 | 235 | Olivia Jefferson |
+| 366 | 233 | Jerry L Morales |
+| 367 | 233 | Stephany Green |
 | 368 | 230 | phamous1 |
 | 369 | 230 | Brandy Chinelle |
 | 370 | 230 | Tango Sierra |
@@ -483,27 +483,27 @@
 | 475 | 177 | Rydin Dirt |
 | 476 | 177 | Gluten Gremlin |
 | 477 | 176 | Jana Campbell |
-| 478 | 176 | Kay |
-| 479 | 174 | Laurie |
-| 480 | 174 | ZBee |
-| 481 | 172 | Charity Hauser |
-| 482 | 172 | Rescuegirl76 |
-| 483 | 172 | Lee Leonard |
-| 484 | 172 | Holly Huval |
-| 485 | 172 | Mandy |
-| 486 | 172 | Will Jones |
-| 487 | 170 | Dapper Riser |
-| 488 | 170 | Amber Carpenter |
-| 489 | 169 | Sandy Rundel Holderman |
-| 490 | 169 | Analee Nicole Jones |
-| 491 | 168 | Gwendolyn Boykin Mobbs |
-| 492 | 168 | Spicy Balanceblock |
-| 493 | 168 | Jess |
-| 494 | 167 | Cara Rivera |
-| 495 | 166 | Wayne Johnson |
-| 496 | 166 | Carl Mccoy |
-| 497 | 166 | Darla Nolt |
-| 498 | 166 | straighttiptoe |
+| 478 | 176 | straighttiptoe |
+| 479 | 176 | Kay |
+| 480 | 174 | Laurie |
+| 481 | 174 | ZBee |
+| 482 | 172 | Charity Hauser |
+| 483 | 172 | Rescuegirl76 |
+| 484 | 172 | Lee Leonard |
+| 485 | 172 | Holly Huval |
+| 486 | 172 | Mandy |
+| 487 | 172 | Will Jones |
+| 488 | 170 | Dapper Riser |
+| 489 | 170 | Amber Carpenter |
+| 490 | 169 | Sandy Rundel Holderman |
+| 491 | 169 | Analee Nicole Jones |
+| 492 | 168 | Gwendolyn Boykin Mobbs |
+| 493 | 168 | Spicy Balanceblock |
+| 494 | 168 | Jess |
+| 495 | 167 | Cara Rivera |
+| 496 | 166 | Wayne Johnson |
+| 497 | 166 | Carl Mccoy |
+| 498 | 166 | Darla Nolt |
 | 499 | 165 | Leticia Tillman |
 | 500 | 165 | Spunky Cascadeclear |
 | 501 | 165 | Nicky Steigerwalt |
@@ -1846,59 +1846,59 @@
 | 1838 | 16 | Kimberly Rochon |
 | 1839 | 16 | Diane Pinkston Massey |
 | 1840 | 16 | Anarcho |
-| 1841 | 16 | ElizaThornberry |
-| 1842 | 16 | Eugene Brown |
-| 1843 | 16 | Elliot |
-| 1844 | 16 | JesseJo |
-| 1845 | 16 | Ashley Gracelynn Tiner |
-| 1846 | 16 | Sarah Elizabeth Foret |
-| 1847 | 16 | Tonya Reed |
-| 1848 | 16 | Jeremy Monceaux |
-| 1849 | 15 | Tipsy Matchgrid |
-| 1850 | 15 | Julie Vargas |
-| 1851 | 15 | Tetris |
-| 1852 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 1853 | 15 | Nana |
-| 1854 | 15 | Samantha |
-| 1855 | 15 | Chris Weddel |
-| 1856 | 15 | Christine Ann Eras |
-| 1857 | 15 | Twisty Patternblock |
-| 1858 | 15 | Poppy Slice |
-| 1859 | 15 | Jacqueline Leigh Zuzinec |
-| 1860 | 15 | Lisa Marie |
-| 1861 | 15 | Fancy Matcher |
-| 1862 | 15 | Donna Casey |
-| 1863 | 15 | Jazzy Curver |
-| 1864 | 15 | Haneef Akram |
-| 1865 | 15 | Aaron Henry |
-| 1866 | 15 | Elora |
-| 1867 | 15 | Rhonda McManus - Kimbrough |
-| 1868 | 15 | Brave Fill |
-| 1869 | 15 | Amlisi |
-| 1870 | 15 | Treau Torres |
-| 1871 | 15 | Wynde Wood |
-| 1872 | 15 | SabinawNorman Adams |
-| 1873 | 15 | Mick Loving |
-| 1874 | 15 | AlDan |
+| 1841 | 16 | Ryan Rhodes |
+| 1842 | 16 | ElizaThornberry |
+| 1843 | 16 | Eugene Brown |
+| 1844 | 16 | Elliot |
+| 1845 | 16 | JesseJo |
+| 1846 | 16 | Ashley Gracelynn Tiner |
+| 1847 | 16 | Sarah Elizabeth Foret |
+| 1848 | 16 | Tonya Reed |
+| 1849 | 16 | Jeremy Monceaux |
+| 1850 | 15 | Tipsy Matchgrid |
+| 1851 | 15 | Julie Vargas |
+| 1852 | 15 | Tetris |
+| 1853 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 1854 | 15 | Nana |
+| 1855 | 15 | Samantha |
+| 1856 | 15 | Chris Weddel |
+| 1857 | 15 | Christine Ann Eras |
+| 1858 | 15 | Twisty Patternblock |
+| 1859 | 15 | Poppy Slice |
+| 1860 | 15 | Jacqueline Leigh Zuzinec |
+| 1861 | 15 | Lisa Marie |
+| 1862 | 15 | Fancy Matcher |
+| 1863 | 15 | Donna Casey |
+| 1864 | 15 | Jazzy Curver |
+| 1865 | 15 | Haneef Akram |
+| 1866 | 15 | Rhonda McManus - Kimbrough |
+| 1867 | 15 | Brave Fill |
+| 1868 | 15 | Amlisi |
+| 1869 | 15 | Treau Torres |
+| 1870 | 15 | Wynde Wood |
+| 1871 | 15 | SabinawNorman Adams |
+| 1872 | 15 | Mick Loving |
+| 1873 | 15 | AlDan |
+| 1874 | 15 | Elora |
 | 1875 | 15 | Andrea Lauren Smith |
 | 1876 | 15 | featherz |
 | 1877 | 15 | Neeley Travis |
 | 1878 | 15 | Helen Chao |
-| 1879 | 15 | Happy Roll |
-| 1880 | 14 | Manuel Lucero Jr. |
-| 1881 | 14 | Twisty Glider |
-| 1882 | 14 | Imat Yesmar |
-| 1883 | 14 | G Yolany Andramos |
-| 1884 | 14 | Randy Taylor |
-| 1885 | 14 | Angela-Josh Millan |
-| 1886 | 14 | Ryan Rhodes |
-| 1887 | 14 | Jollygirl |
-| 1888 | 14 | Nonnie |
-| 1889 | 14 | Saucy Clusterer |
-| 1890 | 14 | Susan R. Hammons Cunningham |
-| 1891 | 14 | Raymond Sadler |
-| 1892 | 14 | zee |
-| 1893 | 14 | Marshall Payne |
+| 1879 | 15 | Aaron Henry |
+| 1880 | 15 | Happy Roll |
+| 1881 | 14 | G Yolany Andramos |
+| 1882 | 14 | Angela-Josh Millan |
+| 1883 | 14 | Jollygirl |
+| 1884 | 14 | Imat Yesmar |
+| 1885 | 14 | Randy Taylor |
+| 1886 | 14 | Nonnie |
+| 1887 | 14 | Saucy Clusterer |
+| 1888 | 14 | Susan R. Hammons Cunningham |
+| 1889 | 14 | zee |
+| 1890 | 14 | Marshall Payne |
+| 1891 | 14 | Manuel Lucero Jr. |
+| 1892 | 14 | Twisty Glider |
+| 1893 | 14 | Raymond Sadler |
 | 1894 | 14 | Christopher Pulley |
 | 1895 | 14 | Beaglemom |
 | 1896 | 14 | Terri Beddard |
@@ -1917,9 +1917,9 @@
 | 1909 | 13 | Smiley Clearer |
 | 1910 | 13 | Sam Blinn |
 | 1911 | 13 | Bad Juju |
-| 1912 | 13 | Nickishan Richrds |
+| 1912 | 13 | Judy Bailey |
 | 1913 | 13 | Patience Thompson |
-| 1914 | 13 | Judy Bailey |
+| 1914 | 13 | Nickishan Richrds |
 | 1915 | 13 | Nayapooh |
 | 1916 | 13 | Raven Hull |
 | 1917 | 13 | Cool Cornerfall |
