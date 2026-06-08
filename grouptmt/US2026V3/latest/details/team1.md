@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:54:43 UTC
+# Standings for team1 as of 2026-06-08 06:55:22 UTC
 
 **Total Participants:** 1747
 
@@ -540,11 +540,11 @@
 | 532 | 133 | Kimberly Susan Privette |
 | 533 | 133 | Yashicha Hertzock |
 | 534 | 133 | StingerD |
-| 535 | 133 | Marlynnnnn |
-| 536 | 132 | Jack Vlasak |
-| 537 | 132 | Jeffrey Barrows |
-| 538 | 132 | Poyre Shelton |
-| 539 | 131 | Angelique Talbot |
+| 535 | 133 | Angelique Talbot |
+| 536 | 133 | Marlynnnnn |
+| 537 | 132 | Jack Vlasak |
+| 538 | 132 | Jeffrey Barrows |
+| 539 | 132 | Poyre Shelton |
 | 540 | 131 | Lynnette WheelerBushnell |
 | 541 | 131 | Karen Denen |
 | 542 | 130 | Jessica Davis |
@@ -744,30 +744,30 @@
 | 736 | 94 | Cortrell Foster |
 | 737 | 94 | Callie Mae |
 | 738 | 94 | brite |
-| 739 | 94 | Cheryl Miller |
-| 740 | 94 | Kizzy Clark |
-| 741 | 94 | Sunny Clicky |
-| 742 | 94 | Fatty May |
-| 743 | 94 | Marlainia Boyd |
-| 744 | 94 | Renee Marshall |
-| 745 | 94 | Vera Beckford |
-| 746 | 93 | MrsDontPlay |
-| 747 | 93 | Rieshelda Marie White |
-| 748 | 93 | messyboots |
-| 749 | 93 | C Lo Green |
-| 750 | 93 | Lively Wipeout |
-| 751 | 93 | Nekka |
-| 752 | 93 | FunTime |
-| 753 | 92 | Jojo M |
-| 754 | 92 | Smiley3000 |
-| 755 | 92 | Poppy Twister |
-| 756 | 92 | Ashley Davis |
-| 757 | 92 | Boricua64 |
-| 758 | 92 | Juicy |
-| 759 | 91 | David A Alvino |
-| 760 | 91 | Chereese Harris |
+| 739 | 94 | Chereese Harris |
+| 740 | 94 | Cheryl Miller |
+| 741 | 94 | Kizzy Clark |
+| 742 | 94 | Sunny Clicky |
+| 743 | 94 | Fatty May |
+| 744 | 94 | Marlainia Boyd |
+| 745 | 94 | Renee Marshall |
+| 746 | 94 | Vera Beckford |
+| 747 | 93 | MrsDontPlay |
+| 748 | 93 | Rieshelda Marie White |
+| 749 | 93 | messyboots |
+| 750 | 93 | C Lo Green |
+| 751 | 93 | Lively Wipeout |
+| 752 | 93 | Nekka |
+| 753 | 93 | FunTime |
+| 754 | 92 | Jojo M |
+| 755 | 92 | Smiley3000 |
+| 756 | 92 | Poppy Twister |
+| 757 | 92 | Ashley Davis |
+| 758 | 92 | Boricua64 |
+| 759 | 92 | Juicy |
+| 760 | 91 | David A Alvino |
 | 761 | 91 | lady |
-| 762 | 90 | Stephanie Ellis |
+| 762 | 90 | Linda Lasha Messenger |
 | 763 | 90 | Tramaine Crockrum |
 | 764 | 90 | Slinky Fallzone |
 | 765 | 90 | Essence Jones |
@@ -776,23 +776,23 @@
 | 768 | 90 | Danny M GR |
 | 769 | 90 | Tamyka E Williams |
 | 770 | 90 | Jennifer Moore |
-| 771 | 90 | Linda Lasha Messenger |
+| 771 | 90 | Stephanie Ellis |
 | 772 | 90 | Rissa Rozay |
-| 773 | 90 | Dannie |
-| 774 | 90 | Jason Saputo |
-| 775 | 90 | mya |
-| 776 | 90 | crumb bumc |
+| 773 | 90 | crumb bumc |
+| 774 | 90 | Dannie |
+| 775 | 90 | Jason Saputo |
+| 776 | 90 | mya |
 | 777 | 89 | Jazzy Bridger |
-| 778 | 89 | Naee Bee |
-| 779 | 89 | Marc Papa |
+| 778 | 89 | Marc Papa |
+| 779 | 89 | Naee Bee |
 | 780 | 89 | Spicy Shatterblock |
 | 781 | 89 | Swanky Glide |
-| 782 | 88 | TBabii24 |
+| 782 | 88 | Maria Baez Medina |
 | 783 | 88 | NickyJay Jones |
-| 784 | 88 | Maria Baez Medina |
-| 785 | 88 | Snappy Link |
-| 786 | 87 | Shakmar |
-| 787 | 87 | Crystal Garay |
+| 784 | 88 | Snappy Link |
+| 785 | 88 | TBabii24 |
+| 786 | 87 | Crystal Garay |
+| 787 | 87 | Shakmar |
 | 788 | 87 | Denise Cunningham-English |
 | 789 | 87 | LexiiSamayaa |
 | 790 | 87 | Natalie Burroughs |
@@ -1005,12 +1005,12 @@
 | 997 | 61 | Rosalind Chatman |
 | 998 | 60 | Londa Londa |
 | 999 | 60 | Juan Lewis |
-| 1000 | 60 | kick it |
-| 1001 | 60 | Tyrone Porter |
-| 1002 | 60 | Nigel Snyder |
-| 1003 | 60 | Lynette Manning |
-| 1004 | 60 | lookin |
-| 1005 | 60 | Sally Elizabeth Hopson |
+| 1000 | 60 | Sally Elizabeth Hopson |
+| 1001 | 60 | kick it |
+| 1002 | 60 | Tyrone Porter |
+| 1003 | 60 | Nigel Snyder |
+| 1004 | 60 | Lynette Manning |
+| 1005 | 60 | lookin |
 | 1006 | 60 | Yellowguy3 |
 | 1007 | 60 | Bambam |
 | 1008 | 60 | Ebie |
@@ -1018,21 +1018,21 @@
 | 1010 | 60 | Jennifer Endean |
 | 1011 | 60 | Tellisa Payne |
 | 1012 | 60 | Chris Watson Draper |
-| 1013 | 60 | Tanesha Ga'sFinest Corbett |
-| 1014 | 60 | HS Arce |
-| 1015 | 59 | Wacky Spinfit |
-| 1016 | 59 | Smiley Tilebuilder |
-| 1017 | 59 | Andrea Jackson |
-| 1018 | 59 | Sweet BayBee |
-| 1019 | 59 | Robert Varnado |
-| 1020 | 59 | Kween Pilot |
-| 1021 | 58 | Gabriela Hernandez |
-| 1022 | 58 | Brandy Way |
-| 1023 | 58 | Meeee |
-| 1024 | 58 | Corbin Henry |
-| 1025 | 58 | Brii Michelle Lamb |
-| 1026 | 58 | Aihpos |
-| 1027 | 58 | Daniel Santana |
+| 1013 | 60 | Daniel Santana |
+| 1014 | 60 | Tanesha Ga'sFinest Corbett |
+| 1015 | 60 | HS Arce |
+| 1016 | 59 | Wacky Spinfit |
+| 1017 | 59 | Smiley Tilebuilder |
+| 1018 | 59 | Andrea Jackson |
+| 1019 | 59 | Sweet BayBee |
+| 1020 | 59 | Robert Varnado |
+| 1021 | 59 | Kween Pilot |
+| 1022 | 58 | Meeee |
+| 1023 | 58 | Brandy Way |
+| 1024 | 58 | Gabriela Hernandez |
+| 1025 | 58 | Corbin Henry |
+| 1026 | 58 | Brii Michelle Lamb |
+| 1027 | 58 | Aihpos |
 | 1028 | 58 | CoaCoa Myles |
 | 1029 | 57 | Warren Miller |
 | 1030 | 57 | Elizabeth Clara |
