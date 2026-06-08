@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:50:19 UTC
+# Standings for team2 as of 2026-06-08 07:50:42 UTC
 
 **Total Participants:** 2133
 
@@ -199,8 +199,8 @@
 | 191 | 469 | Lashanda Bertram |
 | 192 | 467 | Lisa Underwood Desmond |
 | 193 | 457 | MegaPooh |
-| 194 | 453 | Kimberly Cowan |
-| 195 | 453 | Ashley Green |
+| 194 | 453 | Ashley Green |
+| 195 | 453 | Kimberly Cowan |
 | 196 | 451 | Gill |
 | 197 | 449 | Suki Jacobs |
 | 198 | 449 | Danielle Blount |
@@ -255,8 +255,8 @@
 | 247 | 373 | Hoppy Mover |
 | 248 | 365 | Rachel Nilles |
 | 249 | 364 | Lindsey Ford |
-| 250 | 362 | Hypee |
-| 251 | 361 | Ratchet |
+| 250 | 363 | Ratchet |
+| 251 | 362 | Hypee |
 | 252 | 359 | Crystal Poss |
 | 253 | 354 | Sabrina Hardrick |
 | 254 | 351 | Cathy Lee Stoneking |
