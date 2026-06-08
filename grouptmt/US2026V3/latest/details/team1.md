@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:26:22 UTC
+# Standings for team1 as of 2026-06-08 21:26:45 UTC
 
 **Total Participants:** 1878
 
@@ -28,8 +28,8 @@
 | 20 | 4934 | jaimie |
 | 21 | 4621 | Chandler Spencer |
 | 22 | 4263 | Pdubbl3 |
-| 23 | 4067 | Erika Windom |
-| 24 | 3972 | Ivana Schmidt |
+| 23 | 4172 | Ivana Schmidt |
+| 24 | 4067 | Erika Windom |
 | 25 | 3972 | Tekedra Wilson |
 | 26 | 3892 | Kkbk |
 | 27 | 3453 | Juan Kandiss Escobedo Irwin |
@@ -69,7 +69,7 @@
 | 61 | 1359 | Uneekly Mayde |
 | 62 | 1334 | Blockhead |
 | 63 | 1313 | Ashley Espeut |
-| 64 | 1268 | Sanjuro |
+| 64 | 1271 | Sanjuro |
 | 65 | 1259 | Holly Jolly |
 | 66 | 1258 | Frisky Fallmatch |
 | 67 | 1251 | Daylene Johannes |
@@ -370,11 +370,11 @@
 | 362 | 257 | Faith Armone |
 | 363 | 255 | Emily Wright |
 | 364 | 255 | Falisa Bell |
-| 365 | 253 | Tasha |
-| 366 | 252 | Andrew Jay Vaughn |
-| 367 | 250 | win |
-| 368 | 249 | Nate Myers |
-| 369 | 248 | 大竹直之 |
+| 365 | 253 | 大竹直之 |
+| 366 | 253 | Tasha |
+| 367 | 252 | Andrew Jay Vaughn |
+| 368 | 250 | win |
+| 369 | 249 | Nate Myers |
 | 370 | 248 | HarleyJane |
 | 371 | 248 | Darrel K Pemberton |
 | 372 | 247 | Tessa Gaskin |
@@ -400,25 +400,25 @@
 | 392 | 233 | Slinky Snapbuilder |
 | 393 | 233 | Nicole Watson-Dixon |
 | 394 | 231 | Brittany Fells |
-| 395 | 231 | Giggy Tower |
-| 396 | 231 | Lauraly |
+| 395 | 231 | Lauraly |
+| 396 | 231 | Giggy Tower |
 | 397 | 231 | Tipsy Linkroll |
-| 398 | 230 | Hailey Hil |
-| 399 | 230 | Brittnay Wright |
-| 400 | 230 | TBABYJ |
+| 398 | 230 | Brittnay Wright |
+| 399 | 230 | TBABYJ |
+| 400 | 230 | Hailey Hil |
 | 401 | 230 | Tracey Johnson |
-| 402 | 229 | Asha Langford |
-| 403 | 229 | De'Mear McKinney |
+| 402 | 229 | De'Mear McKinney |
+| 403 | 229 | Asha Langford |
 | 404 | 228 | Daris Swearington |
-| 405 | 227 | Poppy Buildout |
-| 406 | 227 | SceneGreenz Wali |
-| 407 | 227 | MACHETEEDDIE513 |
-| 408 | 226 | Kristine Marie Palmer |
-| 409 | 226 | Monica Tovar |
-| 410 | 225 | Vera Beckford |
-| 411 | 224 | Juan Santiago |
-| 412 | 222 | Hardtohandle91 |
-| 413 | 222 | Ashleyy Netchert |
+| 405 | 227 | MACHETEEDDIE513 |
+| 406 | 227 | Poppy Buildout |
+| 407 | 227 | SceneGreenz Wali |
+| 408 | 227 | Ashleyy Netchert |
+| 409 | 226 | Kristine Marie Palmer |
+| 410 | 226 | Monica Tovar |
+| 411 | 225 | Vera Beckford |
+| 412 | 224 | Juan Santiago |
+| 413 | 222 | Hardtohandle91 |
 | 414 | 221 | Rayshawn Cohen |
 | 415 | 220 | Rufus |
 | 416 | 220 | Maribel Vasquez |
