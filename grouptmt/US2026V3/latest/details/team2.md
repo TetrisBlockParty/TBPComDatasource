@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 23:14:41 UTC
+# Standings for team2 as of 2026-06-08 23:15:22 UTC
 
 **Total Participants:** 2297
 
@@ -41,10 +41,10 @@
 | 33 | 4386 | Danni Campa |
 | 34 | 4228 | Erica Dees Parks |
 | 35 | 4219 | Jewels |
-| 36 | 4111 | Smashanator |
-| 37 | 4072 | Quirky Catcher |
-| 38 | 3984 | Amber |
-| 39 | 3950 | Tom Badgley |
+| 36 | 4150 | Tom Badgley |
+| 37 | 4111 | Smashanator |
+| 38 | 4072 | Quirky Catcher |
+| 39 | 3984 | Amber |
 | 40 | 3812 | Crystal M Sowden |
 | 41 | 3766 | Ashley Miller |
 | 42 | 3749 | DarkHorse |
@@ -253,11 +253,11 @@
 | 245 | 480 | Jacob Carpenter |
 | 246 | 479 | Dawnypooh |
 | 247 | 475 | Brenda Jones |
-| 248 | 473 | Swanky Fitline |
-| 249 | 468 | Jess |
-| 250 | 467 | Lisa Underwood Desmond |
-| 251 | 464 | Kristi Chestnut |
-| 252 | 463 | Hilliary Beyer |
+| 248 | 473 | Hilliary Beyer |
+| 249 | 473 | Swanky Fitline |
+| 250 | 468 | Jess |
+| 251 | 467 | Lisa Underwood Desmond |
+| 252 | 464 | Kristi Chestnut |
 | 253 | 462 | Charles E Mccardell |
 | 254 | 461 | Nikki Greeneyebeauty |
 | 255 | 457 | Tara |
@@ -544,11 +544,11 @@
 | 536 | 220 | Flashy Basegrid |
 | 537 | 220 | Joannah Capilitan |
 | 538 | 219 | Rick |
-| 539 | 218 | Julie Alexander Sykes |
-| 540 | 218 | Wayne Johnson |
-| 541 | 217 | Spicy Snapclear |
-| 542 | 217 | Zany Wrecker |
-| 543 | 217 | Reign Hustler |
+| 539 | 219 | Reign Hustler |
+| 540 | 218 | Julie Alexander Sykes |
+| 541 | 218 | Wayne Johnson |
+| 542 | 217 | Spicy Snapclear |
+| 543 | 217 | Zany Wrecker |
 | 544 | 217 | Mona Good |
 | 545 | 216 | Stacy Shaunce |
 | 546 | 216 | Melissa Nash |
@@ -592,28 +592,28 @@
 | 584 | 200 | Happy |
 | 585 | 198 | Breezy |
 | 586 | 198 | Epic Tilemaker |
-| 587 | 197 | Jessica Perkins |
-| 588 | 197 | Sunny Tiltbuilder |
-| 589 | 197 | Giddy Chiseler |
-| 590 | 197 | Jason Lamporte |
-| 591 | 197 | Wendy Mcbride |
-| 592 | 196 | Greenie |
-| 593 | 196 | Mandy |
-| 594 | 196 | Smiley Staggerpiece |
-| 595 | 196 | Charlotte Castelli |
-| 596 | 196 | Ques Pryor |
-| 597 | 195 | Nicole Ashbaugh |
-| 598 | 194 | Lindsey Ross |
-| 599 | 194 | Cassandra Green |
-| 600 | 193 | Ginger Nesbitt |
-| 601 | 192 | Dame Smith |
-| 602 | 192 | Coleta Singleton-Gallishaw |
-| 603 | 191 | Nano. |
-| 604 | 191 | Melissa Fink |
-| 605 | 190 | Laurie |
-| 606 | 190 | Meagan Grimmett Washburn |
-| 607 | 190 | Connie Marie Cornell Lerma |
-| 608 | 190 | Busted9mm |
+| 587 | 198 | Busted9mm |
+| 588 | 197 | Jessica Perkins |
+| 589 | 197 | Sunny Tiltbuilder |
+| 590 | 197 | Giddy Chiseler |
+| 591 | 197 | Jason Lamporte |
+| 592 | 197 | Wendy Mcbride |
+| 593 | 196 | Greenie |
+| 594 | 196 | Mandy |
+| 595 | 196 | Smiley Staggerpiece |
+| 596 | 196 | Charlotte Castelli |
+| 597 | 196 | Ques Pryor |
+| 598 | 195 | Nicole Ashbaugh |
+| 599 | 194 | Lindsey Ross |
+| 600 | 194 | Cassandra Green |
+| 601 | 193 | Ginger Nesbitt |
+| 602 | 192 | Dame Smith |
+| 603 | 192 | Coleta Singleton-Gallishaw |
+| 604 | 191 | Nano. |
+| 605 | 191 | Melissa Fink |
+| 606 | 190 | Laurie |
+| 607 | 190 | Meagan Grimmett Washburn |
+| 608 | 190 | Connie Marie Cornell Lerma |
 | 609 | 190 | Karen Mueller |
 | 610 | 189 | Audrey Bickford |
 | 611 | 189 | Leighla Davis |
@@ -930,8 +930,8 @@
 | 922 | 119 | Lori Yelvington Cain |
 | 923 | 119 | Meagan Thompson |
 | 924 | 119 | Rae |
-| 925 | 118 | Michelle Anne |
-| 926 | 118 | Gino Positano |
+| 925 | 118 | Gino Positano |
+| 926 | 118 | Michelle Anne |
 | 927 | 118 | Lacie B |
 | 928 | 118 | SturgStang |
 | 929 | 118 | Manda |
@@ -962,12 +962,12 @@
 | 954 | 113 | Tanya Goodwin |
 | 955 | 113 | Jami Borges |
 | 956 | 113 | Lisa Chapman |
-| 957 | 112 | Squared |
-| 958 | 112 | Kennadee Albertson |
-| 959 | 112 | Aneokly |
-| 960 | 111 | Tetrismastrr |
-| 961 | 111 | Sharon Wade |
-| 962 | 111 | YAKO |
+| 957 | 112 | YAKO |
+| 958 | 112 | Squared |
+| 959 | 112 | Kennadee Albertson |
+| 960 | 112 | Aneokly |
+| 961 | 111 | Tetrismastrr |
+| 962 | 111 | Sharon Wade |
 | 963 | 111 | Linzy Ratliff |
 | 964 | 111 | Dhelsie Qurasima |
 | 965 | 110 | Deena-Neal Peryer |
@@ -1877,8 +1877,8 @@
 | 1869 | 27 | Donnell Coates |
 | 1870 | 27 | Brooke Burge |
 | 1871 | 27 | teacake |
-| 1872 | 27 | Loony Matcher |
-| 1873 | 27 | BethAnn Pawlowski |
+| 1872 | 27 | BethAnn Pawlowski |
+| 1873 | 27 | Loony Matcher |
 | 1874 | 27 | Dreamy Linkblock |
 | 1875 | 27 | Sir Paco |
 | 1876 | 27 | Kim |
@@ -1892,104 +1892,104 @@
 | 1884 | 26 | Darlene Russell |
 | 1885 | 26 | Celeste Samuels |
 | 1886 | 26 | Cathy Clark |
-| 1887 | 26 | gnat |
-| 1888 | 26 | Hope Ramirez |
+| 1887 | 26 | Hope Ramirez |
+| 1888 | 26 | Paula |
 | 1889 | 26 | Megan Theresa Marie Rydle |
 | 1890 | 26 | Pam Martin |
-| 1891 | 25 | Eddie Trigg III |
+| 1891 | 26 | gnat |
 | 1892 | 25 | Smiley Rotate |
-| 1893 | 25 | ElizaThornberry |
-| 1894 | 25 | JinxxedMozzerella |
-| 1895 | 25 | Chipper Gridroll |
-| 1896 | 25 | Crasher |
-| 1897 | 25 | Charlene Napier |
-| 1898 | 25 | JesseJo |
-| 1899 | 25 | Crystal Owen Yocolano |
-| 1900 | 25 | Mighty Piecebuilder |
-| 1901 | 24 | Taran Evans |
-| 1902 | 24 | Nicole |
-| 1903 | 24 | Kathryn Mason |
-| 1904 | 24 | April Wright |
-| 1905 | 24 | Jeff Mullins |
-| 1906 | 24 | Kaylyn Wickham |
-| 1907 | 24 | Amh09 |
-| 1908 | 24 | PixieGirl |
-| 1909 | 24 | Sk8Mom |
-| 1910 | 24 | Christine Fortner Caskey |
-| 1911 | 24 | Erica L Jenkins |
-| 1912 | 23 | Dawn Lynn |
+| 1893 | 25 | JinxxedMozzerella |
+| 1894 | 25 | Chipper Gridroll |
+| 1895 | 25 | Crasher |
+| 1896 | 25 | ElizaThornberry |
+| 1897 | 25 | Eddie Trigg III |
+| 1898 | 25 | Charlene Napier |
+| 1899 | 25 | JesseJo |
+| 1900 | 25 | Crystal Owen Yocolano |
+| 1901 | 25 | Mighty Piecebuilder |
+| 1902 | 24 | Taran Evans |
+| 1903 | 24 | Nicole |
+| 1904 | 24 | Kathryn Mason |
+| 1905 | 24 | April Wright |
+| 1906 | 24 | Jeff Mullins |
+| 1907 | 24 | Kaylyn Wickham |
+| 1908 | 24 | Sk8Mom |
+| 1909 | 24 | Christine Fortner Caskey |
+| 1910 | 24 | Erica L Jenkins |
+| 1911 | 24 | Amh09 |
+| 1912 | 24 | PixieGirl |
 | 1913 | 23 | no name |
-| 1914 | 23 | Amanda Raley |
-| 1915 | 23 | Linda Riegsecker |
-| 1916 | 23 | Ashley Propst |
-| 1917 | 23 | Flashy Balanceblock |
-| 1918 | 23 | Nickishan Richrds |
-| 1919 | 23 | Peppy Slammer |
+| 1914 | 23 | Linda Riegsecker |
+| 1915 | 23 | Dawn Lynn |
+| 1916 | 23 | Amanda Raley |
+| 1917 | 23 | Nickishan Richrds |
+| 1918 | 23 | Ashley Propst |
+| 1919 | 23 | Flashy Balanceblock |
 | 1920 | 23 | Giggly Glider |
-| 1921 | 23 | Haley |
-| 1922 | 23 | Saucy Clusterer |
-| 1923 | 23 | Cherry L. Salama |
-| 1924 | 23 | Karen Campbell |
-| 1925 | 23 | Sarah Phelps Beyer |
-| 1926 | 23 | Shirley Bates |
-| 1927 | 23 | Zaaear Pack |
-| 1928 | 23 | Rich Gorondy |
-| 1929 | 23 | Spicy Basepiece |
-| 1930 | 22 | Tyler Bates |
-| 1931 | 22 | Jenny |
-| 1932 | 22 | SueEllen Hawkins |
-| 1933 | 22 | Jay King |
-| 1934 | 22 | Heather |
-| 1935 | 22 | Stacy Stickle |
-| 1936 | 22 | Amy DeSoto |
-| 1937 | 22 | Tipsy Splitter |
-| 1938 | 22 | Melanesia Springs |
-| 1939 | 22 | Amanda Hastings |
-| 1940 | 22 | Mary Cook |
-| 1941 | 22 | LesterandJulia Duckwitz |
-| 1942 | 22 | Nutty Cascader |
-| 1943 | 22 | Merine Mott |
-| 1944 | 22 | Charles Mercer |
-| 1945 | 21 | Tina Thomason |
-| 1946 | 21 | Emily Busick |
-| 1947 | 21 | Vee Waller |
-| 1948 | 21 | Chill Shatterclear |
+| 1921 | 23 | Karen Campbell |
+| 1922 | 23 | Haley |
+| 1923 | 23 | Saucy Clusterer |
+| 1924 | 23 | Cherry L. Salama |
+| 1925 | 23 | Peppy Slammer |
+| 1926 | 23 | Sarah Phelps Beyer |
+| 1927 | 23 | Shirley Bates |
+| 1928 | 23 | Zaaear Pack |
+| 1929 | 23 | Rich Gorondy |
+| 1930 | 23 | Spicy Basepiece |
+| 1931 | 22 | Tyler Bates |
+| 1932 | 22 | Jenny |
+| 1933 | 22 | SueEllen Hawkins |
+| 1934 | 22 | Jay King |
+| 1935 | 22 | Heather |
+| 1936 | 22 | Stacy Stickle |
+| 1937 | 22 | Amy DeSoto |
+| 1938 | 22 | Tipsy Splitter |
+| 1939 | 22 | Melanesia Springs |
+| 1940 | 22 | Nutty Cascader |
+| 1941 | 22 | Amanda Hastings |
+| 1942 | 22 | Mary Cook |
+| 1943 | 22 | LesterandJulia Duckwitz |
+| 1944 | 22 | Merine Mott |
+| 1945 | 22 | Charles Mercer |
+| 1946 | 21 | Tina Thomason |
+| 1947 | 21 | Emily Busick |
+| 1948 | 21 | Vee Waller |
 | 1949 | 21 | Rachel Burkett |
-| 1950 | 21 | twistyzone |
+| 1950 | 21 | Teri |
 | 1951 | 21 | Loony Snapclear |
 | 1952 | 21 | Misty Dillard |
 | 1953 | 21 | Swahko |
-| 1954 | 21 | Teri |
+| 1954 | 21 | Chill Shatterclear |
 | 1955 | 21 | Krickett M. Curtis |
-| 1956 | 21 | Jennifer Chapel |
-| 1957 | 21 | Jacqueline Leigh Zuzinec |
-| 1958 | 21 | sally |
-| 1959 | 21 | Johnathon Mendiola |
-| 1960 | 20 | Boldy Patterner |
-| 1961 | 20 | Bigbb |
-| 1962 | 20 | Chris |
-| 1963 | 20 | Donna Casey |
-| 1964 | 20 | Witty Matchfit |
-| 1965 | 20 | Melanie Hernandez |
-| 1966 | 20 | Brittany Weatherspoon |
-| 1967 | 20 | Agnes Gable |
-| 1968 | 20 | Adam Winters |
-| 1969 | 20 | Brandy Knight Roberts |
-| 1970 | 20 | TookaRhoGorgeous |
-| 1971 | 20 | TyGur the Tony |
-| 1972 | 20 | Mighty Cascade |
-| 1973 | 20 | Stacie Taylor |
-| 1974 | 20 | Tammy Pittman |
-| 1975 | 20 | Michelle Hartman |
-| 1976 | 20 | Paula |
-| 1977 | 20 | Deborah Morey-avila |
-| 1978 | 20 | Ciera Adams |
-| 1979 | 20 | Margie King |
-| 1980 | 20 | John Davis |
-| 1981 | 20 | Roberta Granados |
-| 1982 | 20 | Sasha Hamilton |
-| 1983 | 20 | Rick Green |
-| 1984 | 20 | Tosha Dickson |
+| 1956 | 21 | twistyzone |
+| 1957 | 21 | Jennifer Chapel |
+| 1958 | 21 | Jacqueline Leigh Zuzinec |
+| 1959 | 21 | sally |
+| 1960 | 21 | Johnathon Mendiola |
+| 1961 | 20 | Boldy Patterner |
+| 1962 | 20 | Bigbb |
+| 1963 | 20 | Chris |
+| 1964 | 20 | Donna Casey |
+| 1965 | 20 | Witty Matchfit |
+| 1966 | 20 | Melanie Hernandez |
+| 1967 | 20 | Brittany Weatherspoon |
+| 1968 | 20 | Agnes Gable |
+| 1969 | 20 | Adam Winters |
+| 1970 | 20 | Ciera Adams |
+| 1971 | 20 | Rick Green |
+| 1972 | 20 | Tosha Dickson |
+| 1973 | 20 | Sasha Hamilton |
+| 1974 | 20 | John Davis |
+| 1975 | 20 | Roberta Granados |
+| 1976 | 20 | Margie King |
+| 1977 | 20 | Mighty Cascade |
+| 1978 | 20 | Brandy Knight Roberts |
+| 1979 | 20 | Deborah Morey-avila |
+| 1980 | 20 | Michelle Hartman |
+| 1981 | 20 | Tammy Pittman |
+| 1982 | 20 | Stacie Taylor |
+| 1983 | 20 | TyGur the Tony |
+| 1984 | 20 | TookaRhoGorgeous |
 | 1985 | 20 | Jenn Wittkamp |
 | 1986 | 20 | Kathi Patrick |
 | 1987 | 20 | Anna |
