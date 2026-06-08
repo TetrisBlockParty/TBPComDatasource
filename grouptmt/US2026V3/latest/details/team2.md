@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 05:22:43 UTC
+# Standings for team2 as of 2026-06-08 05:23:19 UTC
 
 **Total Participants:** 2104
 
@@ -167,9 +167,9 @@
 | 159 | 570 | MarioKarasovic |
 | 160 | 564 | Cathy Tippett |
 | 161 | 563 | Monique Frantz |
-| 162 | 555 | Christina Maria |
-| 163 | 554 | Zarah Kettler |
-| 164 | 552 | Amanda Sikes |
+| 162 | 555 | Amanda Sikes |
+| 163 | 555 | Christina Maria |
+| 164 | 554 | Zarah Kettler |
 | 165 | 550 | Sully |
 | 166 | 550 | DomDomsNana |
 | 167 | 550 | Shea |
@@ -384,11 +384,11 @@
 | 376 | 230 | Tango Sierra |
 | 377 | 230 | Brandy Chinelle |
 | 378 | 229 | Funway998 |
-| 379 | 229 | Angie Bishop |
-| 380 | 227 | meg |
-| 381 | 227 | Laura Melton |
-| 382 | 227 | Jennifer McClure |
-| 383 | 225 | Melmel |
+| 379 | 229 | Melmel |
+| 380 | 229 | Angie Bishop |
+| 381 | 227 | meg |
+| 382 | 227 | Laura Melton |
+| 383 | 227 | Jennifer McClure |
 | 384 | 225 | Cheery Towerzone |
 | 385 | 225 | Sandy Justus |
 | 386 | 224 | Alicia Kinney |
@@ -1180,16 +1180,16 @@
 | 1172 | 60 | Nikki Grant |
 | 1173 | 60 | Speedy Gridder |
 | 1174 | 60 | Courtney Ribas |
-| 1175 | 60 | Michelle |
-| 1176 | 60 | Snippy Shifter |
-| 1177 | 60 | Brittany Kay |
-| 1178 | 60 | Angie Rose |
-| 1179 | 60 | Shannon Vanlester |
+| 1175 | 60 | Snippy Shifter |
+| 1176 | 60 | Brittany Kay |
+| 1177 | 60 | Angie Rose |
+| 1178 | 60 | Shannon Vanlester |
+| 1179 | 60 | Michelle |
 | 1180 | 60 | Stephania Edwards |
 | 1181 | 60 | Brandi Williams |
 | 1182 | 59 | Cindy Brown |
-| 1183 | 59 | Jill Bobst Marple |
-| 1184 | 59 | Matt Solomon |
+| 1183 | 59 | Matt Solomon |
+| 1184 | 59 | Jill Bobst Marple |
 | 1185 | 59 | April Addis |
 | 1186 | 59 | LaicoosBargains Ln |
 | 1187 | 59 | Jack |
@@ -1207,50 +1207,50 @@
 | 1199 | 58 | Hyper Cascade |
 | 1200 | 58 | Teresa Ann Curry |
 | 1201 | 58 | Brittany Mathis |
-| 1202 | 58 | Debra May |
-| 1203 | 58 | Alexis Meyers |
-| 1204 | 58 | Dustyn Sims |
-| 1205 | 58 | Brandy Westfall-panchari |
-| 1206 | 58 | Jazzy |
-| 1207 | 58 | LivePhoenix |
-| 1208 | 58 | Distro |
-| 1209 | 58 | Crafty Slice |
-| 1210 | 58 | Shanetta Johnson |
+| 1202 | 58 | Giggly Buildgrid |
+| 1203 | 58 | Debra May |
+| 1204 | 58 | Alexis Meyers |
+| 1205 | 58 | Dustyn Sims |
+| 1206 | 58 | Brandy Westfall-panchari |
+| 1207 | 58 | Jazzy |
+| 1208 | 58 | LivePhoenix |
+| 1209 | 58 | Yvonne Rodriguez |
+| 1210 | 58 | Ashley Bryant-hatcher |
 | 1211 | 58 | Joslyn Erickson |
-| 1212 | 58 | Slinky Winder |
-| 1213 | 58 | Ashley Bryant-hatcher |
-| 1214 | 58 | Pjrobinsonnn |
-| 1215 | 57 | Brandy Wallace |
-| 1216 | 57 | Giggly Buildgrid |
-| 1217 | 57 | Kacey Lindemuth |
-| 1218 | 57 | Rey Huber |
-| 1219 | 57 | Dandy Column |
-| 1220 | 57 | Corina Marie Prunty |
-| 1221 | 57 | Britt |
-| 1222 | 57 | Funky Blockmatch |
-| 1223 | 57 | Rachel Nunn |
-| 1224 | 57 | Brooke Marie Fox |
-| 1225 | 57 | Rachel |
-| 1226 | 57 | Angie Barlow |
-| 1227 | 56 | Snazzy Tiley |
-| 1228 | 56 | Danielle Etchison Mask |
-| 1229 | 56 | Louise LeBlanc |
-| 1230 | 56 | Rob Phillips |
-| 1231 | 56 | Perky Rollfit |
-| 1232 | 56 | Jennifer Augustine |
-| 1233 | 56 | CountryGurl |
-| 1234 | 56 | Daniel Cline |
-| 1235 | 56 | Joe Duffer |
-| 1236 | 56 | Yvonne Rodriguez |
-| 1237 | 56 | Brandon Ray Holt |
-| 1238 | 56 | Bobbie Carrol |
-| 1239 | 56 | Bunny Bt |
-| 1240 | 55 | Teloney Humphrey |
+| 1212 | 58 | Shanetta Johnson |
+| 1213 | 58 | Crafty Slice |
+| 1214 | 58 | Distro |
+| 1215 | 58 | Slinky Winder |
+| 1216 | 58 | Pjrobinsonnn |
+| 1217 | 57 | Britt |
+| 1218 | 57 | Corina Marie Prunty |
+| 1219 | 57 | Kacey Lindemuth |
+| 1220 | 57 | Rey Huber |
+| 1221 | 57 | Dandy Column |
+| 1222 | 57 | Brandy Wallace |
+| 1223 | 57 | Funky Blockmatch |
+| 1224 | 57 | Rachel Nunn |
+| 1225 | 57 | Brooke Marie Fox |
+| 1226 | 57 | Rachel |
+| 1227 | 57 | Angie Barlow |
+| 1228 | 56 | Snazzy Tiley |
+| 1229 | 56 | Danielle Etchison Mask |
+| 1230 | 56 | Louise LeBlanc |
+| 1231 | 56 | Rob Phillips |
+| 1232 | 56 | Perky Rollfit |
+| 1233 | 56 | Jennifer Augustine |
+| 1234 | 56 | CountryGurl |
+| 1235 | 56 | Bunny Bt |
+| 1236 | 56 | Bobbie Carrol |
+| 1237 | 56 | Joe Duffer |
+| 1238 | 56 | Daniel Cline |
+| 1239 | 56 | Brandon Ray Holt |
+| 1240 | 55 | Misty McElroy |
 | 1241 | 55 | Angiela Hope Boggs |
-| 1242 | 55 | bigdog |
-| 1243 | 55 | James Calhoun |
-| 1244 | 55 | Stephanie |
-| 1245 | 55 | Misty McElroy |
+| 1242 | 55 | Stephanie |
+| 1243 | 55 | Teloney Humphrey |
+| 1244 | 55 | bigdog |
+| 1245 | 55 | James Calhoun |
 | 1246 | 55 | GentleGiant Brackett |
 | 1247 | 55 | Nick Waterwalker |
 | 1248 | 55 | Gilbert Medina |
@@ -1259,10 +1259,10 @@
 | 1251 | 54 | Heather Lewis |
 | 1252 | 54 | Alexis Turner |
 | 1253 | 54 | Glitzy Fallgrid |
-| 1254 | 54 | Christina Nycol |
-| 1255 | 54 | Jumpy Linkroll |
-| 1256 | 54 | Rae Madewell |
-| 1257 | 54 | Lively Liner |
+| 1254 | 54 | Lively Liner |
+| 1255 | 54 | Rae Madewell |
+| 1256 | 54 | Christina Nycol |
+| 1257 | 54 | Jumpy Linkroll |
 | 1258 | 54 | Josie Mendivil |
 | 1259 | 53 | Thomas Johnstone |
 | 1260 | 53 | Kristen Alta |
