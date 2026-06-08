@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:56:19 UTC
+# Standings for team2 as of 2026-06-08 12:56:42 UTC
 
 **Total Participants:** 2169
 
@@ -501,32 +501,32 @@
 | 493 | 190 | Laurie |
 | 494 | 190 | Saucy Wrecker |
 | 495 | 189 | Danielle Lyons |
-| 496 | 188 | Jessica Melendy |
-| 497 | 187 | Jaimie Walters |
-| 498 | 187 | Cindy Scott |
-| 499 | 186 | Zany Wrecker |
-| 500 | 185 | Sillyk |
-| 501 | 185 | Vicki Flippo |
-| 502 | 185 | Brooklyn Todd |
-| 503 | 185 | straighttiptoe |
-| 504 | 185 | Nerdy Gridlock |
-| 505 | 184 | Alicia Ellenburg |
-| 506 | 184 | Melissa Abbott |
-| 507 | 184 | Sandy Rundel Holderman |
-| 508 | 184 | IncrediDragon |
-| 509 | 184 | Joannah Capilitan |
-| 510 | 183 | murd3rmous3 |
-| 511 | 181 | Alyssa Malay |
-| 512 | 181 | Jamie Adams |
-| 513 | 181 | rebel4lyfe |
-| 514 | 181 | Meagan Grimmett Washburn |
-| 515 | 181 | Dame Smith |
-| 516 | 181 | Belle |
-| 517 | 180 | Mama G |
-| 518 | 180 | Dawn Kroptavich |
-| 519 | 180 | Laura Larsen |
-| 520 | 180 | Tiffany Lewis |
-| 521 | 179 | Leticia Tillman |
+| 496 | 189 | Leticia Tillman |
+| 497 | 188 | Jessica Melendy |
+| 498 | 187 | Jaimie Walters |
+| 499 | 187 | Cindy Scott |
+| 500 | 186 | Zany Wrecker |
+| 501 | 185 | Sillyk |
+| 502 | 185 | Vicki Flippo |
+| 503 | 185 | Brooklyn Todd |
+| 504 | 185 | straighttiptoe |
+| 505 | 185 | Nerdy Gridlock |
+| 506 | 184 | Alicia Ellenburg |
+| 507 | 184 | Melissa Abbott |
+| 508 | 184 | Sandy Rundel Holderman |
+| 509 | 184 | IncrediDragon |
+| 510 | 184 | Joannah Capilitan |
+| 511 | 183 | murd3rmous3 |
+| 512 | 181 | Alyssa Malay |
+| 513 | 181 | Jamie Adams |
+| 514 | 181 | rebel4lyfe |
+| 515 | 181 | Meagan Grimmett Washburn |
+| 516 | 181 | Dame Smith |
+| 517 | 181 | Belle |
+| 518 | 180 | Mama G |
+| 519 | 180 | Dawn Kroptavich |
+| 520 | 180 | Laura Larsen |
+| 521 | 180 | Tiffany Lewis |
 | 522 | 179 | Derrick |
 | 523 | 179 | Jenni LeBlanc |
 | 524 | 179 | Perii Reynoso |

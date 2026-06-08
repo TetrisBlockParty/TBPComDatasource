@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:56:19 UTC
+# Standings for team1 as of 2026-06-08 12:56:42 UTC
 
 **Total Participants:** 1791
 
@@ -17,7 +17,7 @@
 | 9 | 8278 | Debbie Carswell |
 | 10 | 7939 | Dyane Leah Ware |
 | 11 | 7491 | Tracy Cohen |
-| 12 | 7302 | Cozy Edge |
+| 12 | 7415 | Cozy Edge |
 | 13 | 7011 | Timothy Robert |
 | 14 | 6336 | Speedy Spinblock |
 | 15 | 6038 | Cassidy Butler |
@@ -80,16 +80,16 @@
 | 72 | 1121 | LeeLee08 |
 | 73 | 1118 | Todd C. Clemens |
 | 74 | 1112 | Tiana Moore |
-| 75 | 1108 | Kimberly Hernandez |
+| 75 | 1109 | Kimberly Hernandez |
 | 76 | 1093 | Moomoo |
 | 77 | 1091 | Bre Maugh |
 | 78 | 1090 | Catara Renae Oliver |
 | 79 | 1078 | Danielle DeLozier Plesec |
 | 80 | 1055 | PandaPrincess |
 | 81 | 1048 | Chenell Gillard |
-| 82 | 1024 | Chill Clusterer |
-| 83 | 1018 | Court Court |
-| 84 | 1017 | Dynah Gordon |
+| 82 | 1037 | Dynah Gordon |
+| 83 | 1024 | Chill Clusterer |
+| 84 | 1018 | Court Court |
 | 85 | 995 | Whitney Butler |
 | 86 | 967 | KenpachisGirl |
 | 87 | 939 | Uneekly Mayde |
@@ -469,23 +469,23 @@
 | 461 | 169 | Bubbly Piececlear |
 | 462 | 168 | Shanns |
 | 463 | 168 | Lounique |
-| 464 | 167 | Juicy |
-| 465 | 167 | Mister Reid |
-| 466 | 167 | MonaSparks |
-| 467 | 166 | Melissa Olvera |
-| 468 | 166 | Teresa Yanira Cepeda |
-| 469 | 166 | BlackQueen105 |
-| 470 | 166 | Analiza Ramos |
-| 471 | 165 | Juan Alvarez |
-| 472 | 165 | Tanisha Taylor |
-| 473 | 164 | Jes Marie |
-| 474 | 164 | Dede Tate |
-| 475 | 163 | Dandy Brickfit |
+| 464 | 167 | Bold Clusterer |
+| 465 | 167 | Juicy |
+| 466 | 167 | Mister Reid |
+| 467 | 167 | MonaSparks |
+| 468 | 166 | Melissa Olvera |
+| 469 | 166 | Teresa Yanira Cepeda |
+| 470 | 166 | BlackQueen105 |
+| 471 | 166 | Analiza Ramos |
+| 472 | 165 | Juan Alvarez |
+| 473 | 165 | Tanisha Taylor |
+| 474 | 164 | Jes Marie |
+| 475 | 164 | Dede Tate |
 | 476 | 163 | Daring Blockclear |
-| 477 | 163 | Bold Clusterer |
+| 477 | 163 | Dandy Brickfit |
 | 478 | 162 | Speedy Stacky |
-| 479 | 162 | Twisty Cascadeclear |
-| 480 | 162 | Taz Ballard |
+| 479 | 162 | Taz Ballard |
+| 480 | 162 | Twisty Cascadeclear |
 | 481 | 161 | Devron Reedy |
 | 482 | 160 | Tracey Johnson |
 | 483 | 160 | Slinky Clearzone |
