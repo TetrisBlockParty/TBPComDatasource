@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:37:20 UTC
+# Standings for team1 as of 2026-06-08 09:38:21 UTC
 
 **Total Participants:** 1771
 
@@ -76,10 +76,10 @@
 | 68 | 1122 | Blockhead |
 | 69 | 1118 | Todd C. Clemens |
 | 70 | 1112 | Tiana Moore |
-| 71 | 1093 | Sanjuro |
-| 72 | 1091 | Bre Maugh |
-| 73 | 1090 | Catara Renae Oliver |
-| 74 | 1084 | Brian Bohanon II |
+| 71 | 1107 | Brian Bohanon II |
+| 72 | 1093 | Sanjuro |
+| 73 | 1091 | Bre Maugh |
+| 74 | 1090 | Catara Renae Oliver |
 | 75 | 1078 | Danielle DeLozier Plesec |
 | 76 | 1071 | Kimberly Hernandez |
 | 77 | 1048 | Chenell Gillard |
@@ -301,11 +301,11 @@
 | 293 | 257 | Mafio SO |
 | 294 | 257 | Anthony |
 | 295 | 255 | Falisa Bell |
-| 296 | 254 | Smiley Clearpiece |
-| 297 | 253 | Tasha |
-| 298 | 252 | Tessa Felice Hill |
-| 299 | 252 | Andrew Jay Vaughn |
-| 300 | 251 | McKayla Owens |
+| 296 | 255 | McKayla Owens |
+| 297 | 254 | Smiley Clearpiece |
+| 298 | 253 | Tasha |
+| 299 | 252 | Tessa Felice Hill |
+| 300 | 252 | Andrew Jay Vaughn |
 | 301 | 248 | Mikayla |
 | 302 | 248 | Darrel K Pemberton |
 | 303 | 246 | Curtis T Cirno |
