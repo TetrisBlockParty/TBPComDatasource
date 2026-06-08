@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:04:43 UTC
+# Standings for team2 as of 2026-06-08 17:05:20 UTC
 
 **Total Participants:** 2220
 
@@ -71,7 +71,7 @@
 | 63 | 1901 | Frilly Match |
 | 64 | 1878 | Mikki Torres |
 | 65 | 1823 | Angel Welch |
-| 66 | 1787 | Happy Pivotfall |
+| 66 | 1797 | Happy Pivotfall |
 | 67 | 1761 | Angie Mccain |
 | 68 | 1742 | Heather Marie-Tarlton Britt |
 | 69 | 1719 | Monica Galli |
@@ -657,27 +657,27 @@
 | 649 | 157 | Hillary Frank |
 | 650 | 156 | Aurora June Brock |
 | 651 | 156 | Charlotte Castelli |
-| 652 | 155 | Shelby Wilson |
-| 653 | 155 | Leigh Wilkerson |
-| 654 | 154 | Rebekah Holland |
-| 655 | 154 | Natasha Lee |
+| 652 | 155 | Leigh Wilkerson |
+| 653 | 155 | Shelby Wilson |
+| 654 | 154 | Natasha Lee |
+| 655 | 154 | Rebekah Holland |
 | 656 | 154 | GiGi Cool |
 | 657 | 153 | Spunky Piecebuilder |
 | 658 | 153 | Dawnypooh |
 | 659 | 153 | Ashley Diana |
-| 660 | 152 | Brooke Kaune |
-| 661 | 152 | Simone F |
+| 660 | 152 | Simone F |
+| 661 | 152 | Brooke Kaune |
 | 662 | 151 | Amy Lea Hamilton |
-| 663 | 151 | Jennifer Wymer |
+| 663 | 151 | Angeleye A James |
 | 664 | 151 | Joshua Hopkins |
-| 665 | 151 | Angeleye A James |
-| 666 | 151 | Kendra Sizemore |
-| 667 | 150 | Tracey Cox |
-| 668 | 150 | Elizabeth Kline |
-| 669 | 150 | Plucky Grabber |
-| 670 | 150 | Elnaz Mokleh |
-| 671 | 149 | Kayley |
-| 672 | 149 | Michele Rogers |
+| 665 | 151 | Michele Rogers |
+| 666 | 151 | Jennifer Wymer |
+| 667 | 151 | Kendra Sizemore |
+| 668 | 150 | Plucky Grabber |
+| 669 | 150 | Elizabeth Kline |
+| 670 | 150 | Tracey Cox |
+| 671 | 150 | Elnaz Mokleh |
+| 672 | 149 | Kayley |
 | 673 | 149 | Frisky Twist |
 | 674 | 149 | Steve Eakins |
 | 675 | 148 | Michael Anthony Anstead |
@@ -1028,9 +1028,9 @@
 | 1020 | 92 | Ques Pryor |
 | 1021 | 92 | Giggy Dropzone |
 | 1022 | 92 | Wacky Curve |
-| 1023 | 91 | Blossom48 |
-| 1024 | 91 | Tabitha Ann Bullins-Cobb |
-| 1025 | 91 | Lindsey Davidson |
+| 1023 | 91 | Tabitha Ann Bullins-Cobb |
+| 1024 | 91 | Lindsey Davidson |
+| 1025 | 91 | Blossom48 |
 | 1026 | 91 | DNice |
 | 1027 | 91 | WestieMom |
 | 1028 | 91 | Laura Anderson |
@@ -1047,42 +1047,42 @@
 | 1039 | 90 | Arik DiLorenzo |
 | 1040 | 90 | Carlee Becher |
 | 1041 | 90 | Amanda Mason Scott |
-| 1042 | 90 | DragonJB2020 |
-| 1043 | 90 | Giddy Climber |
-| 1044 | 90 | Latrell Thomas |
-| 1045 | 90 | Kayla Iverson |
-| 1046 | 90 | Jenifer Gasho |
-| 1047 | 90 | wutrwerdz |
-| 1048 | 89 | Rachel Nunn |
+| 1042 | 90 | Cindy Wellman |
+| 1043 | 90 | Kayla Iverson |
+| 1044 | 90 | Jenifer Gasho |
+| 1045 | 90 | wutrwerdz |
+| 1046 | 90 | Latrell Thomas |
+| 1047 | 90 | DragonJB2020 |
+| 1048 | 90 | Giddy Climber |
 | 1049 | 89 | Samantha Smith |
-| 1050 | 89 | Sue Fuzy |
+| 1050 | 89 | Anna Benjamin Freeman |
 | 1051 | 89 | Christina Sheldon |
-| 1052 | 89 | Anna Benjamin Freeman |
-| 1053 | 89 | Michele Choate |
-| 1054 | 89 | Cranky Brickzone |
-| 1055 | 89 | Cheryl Graves Downard |
-| 1056 | 89 | Jennifer Lewellyn Hutchins |
-| 1057 | 89 | Lori Yelvington Cain |
-| 1058 | 88 | Meagan Thompson |
-| 1059 | 88 | Lydia Shonee |
-| 1060 | 88 | Witty Riser |
-| 1061 | 88 | Suzanne Davis |
-| 1062 | 88 | Missy Tubb Overly |
-| 1063 | 88 | Dapper Spinbuilder |
-| 1064 | 88 | Sandy Molina |
+| 1052 | 89 | Sue Fuzy |
+| 1053 | 89 | Rachel Nunn |
+| 1054 | 89 | Michele Choate |
+| 1055 | 89 | Cranky Brickzone |
+| 1056 | 89 | Cheryl Graves Downard |
+| 1057 | 89 | Jennifer Lewellyn Hutchins |
+| 1058 | 89 | Lori Yelvington Cain |
+| 1059 | 88 | Meagan Thompson |
+| 1060 | 88 | Lydia Shonee |
+| 1061 | 88 | Witty Riser |
+| 1062 | 88 | Suzanne Davis |
+| 1063 | 88 | Missy Tubb Overly |
+| 1064 | 88 | Debra Patten |
 | 1065 | 88 | sugabritches |
-| 1066 | 88 | Stazy Warner |
-| 1067 | 88 | Debra Patten |
-| 1068 | 87 | Spicy Enchilada |
-| 1069 | 87 | Happy Shatterblock |
-| 1070 | 87 | April Elaine Messenger |
-| 1071 | 87 | Dawn Marie |
-| 1072 | 86 | shell |
-| 1073 | 86 | Nicole Hjelmen |
-| 1074 | 86 | Mandeee |
-| 1075 | 86 | Nina-Christina Cusyck |
-| 1076 | 86 | Em |
-| 1077 | 86 | Cindy Wellman |
+| 1066 | 88 | Dapper Spinbuilder |
+| 1067 | 88 | Stazy Warner |
+| 1068 | 88 | Sandy Molina |
+| 1069 | 87 | Spicy Enchilada |
+| 1070 | 87 | Happy Shatterblock |
+| 1071 | 87 | April Elaine Messenger |
+| 1072 | 87 | Dawn Marie |
+| 1073 | 86 | shell |
+| 1074 | 86 | Nicole Hjelmen |
+| 1075 | 86 | Mandeee |
+| 1076 | 86 | Nina-Christina Cusyck |
+| 1077 | 86 | Em |
 | 1078 | 85 | Wendy Morrison |
 | 1079 | 85 | Melissa Mae |
 | 1080 | 85 | Rob Phillips |

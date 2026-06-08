@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:04:43 UTC
+# Standings for team1 as of 2026-06-08 17:05:20 UTC
 
 **Total Participants:** 1829
 
@@ -560,64 +560,64 @@
 | 552 | 152 | Wacky Stackbuilder |
 | 553 | 152 | Nyhlah Patterson |
 | 554 | 151 | Yashica Smith |
-| 555 | 151 | Perky Balancer |
-| 556 | 151 | Shakuria Cortia Burney |
-| 557 | 150 | TotoCherue |
-| 558 | 150 | Kanary Karotz |
+| 555 | 151 | Shakuria Cortia Burney |
+| 556 | 151 | Perky Balancer |
+| 557 | 150 | Antoinette Jones |
+| 558 | 150 | Marshall Davis |
 | 559 | 150 | Mommy Frank |
-| 560 | 150 | Taneka Howell |
-| 561 | 150 | Cheri Robinson |
-| 562 | 150 | Antoinette Jones |
-| 563 | 150 | Marshall Davis |
-| 564 | 149 | Casey Chapman |
-| 565 | 149 | Kristie |
+| 560 | 150 | Cheri Robinson |
+| 561 | 150 | Taneka Howell |
+| 562 | 150 | TotoCherue |
+| 563 | 150 | Kanary Karotz |
+| 564 | 149 | Kristie |
+| 565 | 149 | Casey Chapman |
 | 566 | 149 | Twisty Brickfit |
-| 567 | 148 | Rhianna Dinki Austin |
+| 567 | 148 | Faith Armone |
 | 568 | 148 | Shannon Carriger |
-| 569 | 148 | Cauiasia DeJ'ae |
+| 569 | 148 | P C |
 | 570 | 148 | Rufus |
-| 571 | 148 | P C |
-| 572 | 148 | Faith Armone |
-| 573 | 147 | Mathew Trudell |
-| 574 | 147 | Lucy |
-| 575 | 146 | Bella |
-| 576 | 146 | whatever |
-| 577 | 146 | TRUBBLE45 |
-| 578 | 146 | Giggly Tiltbuilder |
+| 571 | 148 | Cauiasia DeJ'ae |
+| 572 | 148 | Rhianna Dinki Austin |
+| 573 | 147 | Lucy |
+| 574 | 147 | Mathew Trudell |
+| 575 | 146 | TRUBBLE45 |
+| 576 | 146 | Giggly Tiltbuilder |
+| 577 | 146 | Bella |
+| 578 | 146 | whatever |
 | 579 | 146 | FunTime |
 | 580 | 145 | lizlizliz |
 | 581 | 145 | Squaw Ki Ng |
-| 582 | 144 | Kimmie Gargano |
-| 583 | 144 | Cm |
-| 584 | 144 | Kyle Conley |
-| 585 | 143 | Pj Rojas |
+| 582 | 144 | Cm |
+| 583 | 144 | Kiki |
+| 584 | 144 | Kimmie Gargano |
+| 585 | 144 | Kyle Conley |
 | 586 | 143 | Andy Rivera |
-| 587 | 143 | Shanell Thomas |
-| 588 | 142 | Semaj Johnson |
-| 589 | 142 | Sarah Steckbauer |
-| 590 | 142 | Kelley Johnson |
-| 591 | 141 | Betsy B. Yohan |
+| 587 | 143 | Pj Rojas |
+| 588 | 143 | Shanell Thomas |
+| 589 | 142 | Kelley Johnson |
+| 590 | 142 | Semaj Johnson |
+| 591 | 142 | Sarah Steckbauer |
 | 592 | 141 | Shalena Marie Humphrey |
 | 593 | 141 | Krystal Maynard |
-| 594 | 141 | Kim Holzmiller |
-| 595 | 140 | TBabii24 |
+| 594 | 141 | Betsy B. Yohan |
+| 595 | 141 | Kim Holzmiller |
 | 596 | 140 | Kennedi Brazziel |
-| 597 | 140 | Kiki |
+| 597 | 140 | SherylU |
 | 598 | 140 | Shadon McMillan |
-| 599 | 140 | SherylU |
+| 599 | 140 | TBabii24 |
 | 600 | 139 | Zany Breaker |
 | 601 | 139 | PSD |
-| 602 | 138 | Ozell Jones Jr. |
-| 603 | 138 | Ashley Monet Terrell |
-| 604 | 138 | Alexandrla Smith |
-| 605 | 138 | Rene Hicks |
-| 606 | 138 | Claudia Price |
-| 607 | 137 | QueenShay AllGood |
-| 608 | 137 | Angelique Talbot |
+| 602 | 138 | Claudia Price |
+| 603 | 138 | Ozell Jones Jr. |
+| 604 | 138 | Ashley Monet Terrell |
+| 605 | 138 | Alexandrla Smith |
+| 606 | 138 | Rene Hicks |
+| 607 | 137 | Angelique Talbot |
+| 608 | 137 | QueenShay AllGood |
 | 609 | 136 | Yashicha Hertzock |
-| 610 | 136 | Guard Up |
-| 611 | 136 | Angela Brown Babin |
-| 612 | 136 | Christina Singleton |
+| 610 | 136 | Angela Brown Babin |
+| 611 | 136 | Christina Singleton |
+| 612 | 136 | Guard Up |
 | 613 | 136 | Duncan Timothy |
 | 614 | 136 | Gbnola |
 | 615 | 136 | The DUBZ |
