@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:28:20 UTC
+# Standings for team1 as of 2026-06-08 17:28:42 UTC
 
 **Total Participants:** 1835
 
@@ -154,9 +154,9 @@
 | 146 | 590 | Gotcha |
 | 147 | 582 | Nutty Spinblock |
 | 148 | 574 | Murg4dr01d |
-| 149 | 566 | Lesley Brunkus Cianfaglione |
-| 150 | 566 | Trendalyn Webb |
-| 151 | 562 | Zachary Colegrove |
+| 149 | 568 | Zachary Colegrove |
+| 150 | 566 | Lesley Brunkus Cianfaglione |
+| 151 | 566 | Trendalyn Webb |
 | 152 | 561 | Carolynne Walker-Bell |
 | 153 | 556 | Rolanda Williams |
 | 154 | 555 | Eugina Slater |
@@ -332,18 +332,18 @@
 | 324 | 270 | Jean Regis |
 | 325 | 270 | Julian Dickens Jr. |
 | 326 | 269 | Stephen Glaze |
-| 327 | 269 | DaGuy |
-| 328 | 269 | sha |
+| 327 | 269 | sha |
+| 328 | 269 | DaGuy |
 | 329 | 265 | Anthony |
 | 330 | 264 | Wild Out Nai |
 | 331 | 264 | Boldy Matchbuilder |
 | 332 | 264 | Loopy Block |
 | 333 | 262 | MamushiOh |
-| 334 | 261 | Alivia Dove |
-| 335 | 260 | Deveda Williams |
+| 334 | 262 | Chandler Magee |
+| 335 | 261 | Alivia Dove |
 | 336 | 260 | Peppy Towerbuilder |
 | 337 | 260 | Sara Meri |
-| 338 | 259 | Chandler Magee |
+| 338 | 260 | Deveda Williams |
 | 339 | 258 | Cynthia Bradley |
 | 340 | 258 | SeanSanchez |
 | 341 | 255 | Falisa Bell |
