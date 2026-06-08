@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:54:19 UTC
+# Standings for team1 as of 2026-06-08 14:54:41 UTC
 
 **Total Participants:** 1814
 
@@ -150,8 +150,8 @@
 | 142 | 561 | Carolynne Walker-Bell |
 | 143 | 556 | Rolanda Williams |
 | 144 | 555 | Eugina Slater |
-| 145 | 550 | Genne Scott |
-| 146 | 545 | Ebony Waynes-robinson |
+| 145 | 550 | Ebony Waynes-robinson |
+| 146 | 550 | Genne Scott |
 | 147 | 540 | Dee McCool |
 | 148 | 531 | Abraham Espaillat |
 | 149 | 527 | MommaCia |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 14:54:19 UTC
+# Standings for team2 as of 2026-06-08 14:54:41 UTC
 
 **Total Participants:** 2187
 
@@ -445,53 +445,53 @@
 | 437 | 230 | Renee Siems |
 | 438 | 229 | MUMBLES |
 | 439 | 229 | Funway998 |
-| 440 | 229 | Sandra Ruiz |
-| 441 | 229 | Shawn Jensen |
-| 442 | 228 | Christy Diane Escobar |
-| 443 | 228 | Jackie Walker |
-| 444 | 227 | Laura Melton |
-| 445 | 227 | meg |
-| 446 | 225 | Katelyn Rodgers |
-| 447 | 225 | Cheery Towerzone |
-| 448 | 225 | Sandy Justus |
-| 449 | 225 | Amanda L Strong |
-| 450 | 222 | Marilyn Strickland |
-| 451 | 222 | Tina |
-| 452 | 220 | Sherri E Woods Hess |
-| 453 | 220 | Precious Womack |
-| 454 | 220 | Michelle M Braley |
-| 455 | 220 | ShiverMeSplinter |
-| 456 | 220 | Lee Leonard |
-| 457 | 220 | Flashy Basegrid |
-| 458 | 220 | KazzyKay |
-| 459 | 220 | Po Yee |
-| 460 | 220 | Krystle L Coon |
-| 461 | 219 | Francesca Wagenhoffer |
-| 462 | 219 | Mouh Ity |
-| 463 | 218 | Julie Alexander Sykes |
-| 464 | 217 | Spicy Snapclear |
-| 465 | 217 | Mona Good |
-| 466 | 216 | Melissa Nash |
+| 440 | 229 | Sandy Justus |
+| 441 | 229 | Sandra Ruiz |
+| 442 | 229 | Shawn Jensen |
+| 443 | 228 | Christy Diane Escobar |
+| 444 | 228 | Sassy Patternblock |
+| 445 | 228 | Jackie Walker |
+| 446 | 227 | Laura Melton |
+| 447 | 227 | meg |
+| 448 | 225 | Katelyn Rodgers |
+| 449 | 225 | Cheery Towerzone |
+| 450 | 225 | Amanda L Strong |
+| 451 | 222 | Marilyn Strickland |
+| 452 | 222 | Tina |
+| 453 | 220 | Flashy Basegrid |
+| 454 | 220 | Sherri E Woods Hess |
+| 455 | 220 | Po Yee |
+| 456 | 220 | Precious Womack |
+| 457 | 220 | Michelle M Braley |
+| 458 | 220 | ShiverMeSplinter |
+| 459 | 220 | Lee Leonard |
+| 460 | 220 | KazzyKay |
+| 461 | 220 | Krystle L Coon |
+| 462 | 219 | Francesca Wagenhoffer |
+| 463 | 219 | Mouh Ity |
+| 464 | 218 | Julie Alexander Sykes |
+| 465 | 217 | Spicy Snapclear |
+| 466 | 217 | Mona Good |
 | 467 | 216 | Reign Hustler |
-| 468 | 216 | Joshua Dye |
-| 469 | 216 | Jeff Pottgether |
-| 470 | 215 | Monee Stronger |
-| 471 | 215 | Alonzo Reed |
-| 472 | 215 | Missy Renia |
-| 473 | 214 | Jumpy Dashpiece |
-| 474 | 213 | TetrisMama |
-| 475 | 213 | Judy Burkhalter |
-| 476 | 213 | Zany Wrecker |
-| 477 | 211 | Rick |
-| 478 | 210 | Camilo Moreno |
-| 479 | 210 | Sassy Patternblock |
+| 468 | 216 | Melissa Nash |
+| 469 | 216 | Joshua Dye |
+| 470 | 216 | Jeff Pottgether |
+| 471 | 215 | Missy Renia |
+| 472 | 215 | Monee Stronger |
+| 473 | 215 | Alonzo Reed |
+| 474 | 214 | Jumpy Dashpiece |
+| 475 | 213 | TetrisMama |
+| 476 | 213 | Judy Burkhalter |
+| 477 | 213 | Zany Wrecker |
+| 478 | 211 | Rick |
+| 479 | 210 | Camilo Moreno |
 | 480 | 210 | Nichole Wilson |
 | 481 | 209 | Leticia Tillman |
 | 482 | 209 | Brian Favre |
 | 483 | 208 | Lisa Allen Frisk |
 | 484 | 208 | Kimberly Davis |
-| 485 | 208 | Joannah Capilitan |
-| 486 | 208 | Heather Schardan |
+| 485 | 208 | Heather Schardan |
+| 486 | 208 | Joannah Capilitan |
 | 487 | 208 | Will Jones |
 | 488 | 207 | Wendy McKee |
 | 489 | 207 | StacyBabee |
@@ -500,14 +500,14 @@
 | 492 | 206 | Katie Jones |
 | 493 | 206 | Fallon Moss |
 | 494 | 205 | Dapper Riser |
-| 495 | 204 | Lively Curve |
+| 495 | 204 | Thy Bui |
 | 496 | 204 | Jacquelyn Snyder Dumas |
 | 497 | 204 | Teddy Williams |
-| 498 | 204 | Thy Bui |
+| 498 | 204 | Lively Curve |
 | 499 | 203 | Cheery Tilefall |
-| 500 | 202 | Rescuegirl76 |
-| 501 | 202 | ZBee |
-| 502 | 202 | Kati Eckstein |
+| 500 | 202 | Kati Eckstein |
+| 501 | 202 | Rescuegirl76 |
+| 502 | 202 | ZBee |
 | 503 | 202 | Gluten Gremlin |
 | 504 | 201 | Charity Hauser |
 | 505 | 201 | Amber Smith |
