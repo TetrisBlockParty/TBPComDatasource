@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 20:27:01 UTC
+# Standings for team2 as of 2026-06-08 20:27:20 UTC
 
 **Total Participants:** 2261
 
@@ -251,8 +251,8 @@
 | 243 | 456 | Frilly Dashfit |
 | 244 | 454 | Tami Kay Williams Watson |
 | 245 | 453 | Kimberly Cowan |
-| 246 | 452 | Nikki Greeneyebeauty |
-| 247 | 450 | Swanky Fitline |
+| 246 | 453 | Swanky Fitline |
+| 247 | 452 | Nikki Greeneyebeauty |
 | 248 | 448 | Eric Drane |
 | 249 | 445 | Gabrielle Wilson |
 | 250 | 445 | Joni Michelle Morgan |
@@ -974,14 +974,14 @@
 | 966 | 103 | Louis Brudzinski |
 | 967 | 103 | Jolly Twisterfit |
 | 968 | 103 | Katie Boen |
-| 969 | 103 | Chill Clearbuilder |
-| 970 | 103 | Ashley Fleming |
-| 971 | 102 | Kaylene Rigas |
-| 972 | 102 | Diamond Mitchell |
-| 973 | 102 | Tetrismastrr |
-| 974 | 102 | Mario Hillman |
-| 975 | 102 | Natalie M. Arredondo |
-| 976 | 102 | Chirpy Clearpiece |
+| 969 | 103 | Chirpy Clearpiece |
+| 970 | 103 | Chill Clearbuilder |
+| 971 | 103 | Ashley Fleming |
+| 972 | 102 | Kaylene Rigas |
+| 973 | 102 | Diamond Mitchell |
+| 974 | 102 | Tetrismastrr |
+| 975 | 102 | Mario Hillman |
+| 976 | 102 | Natalie M. Arredondo |
 | 977 | 102 | Samantha Brown |
 | 978 | 102 | Renee Craig |
 | 979 | 101 | Amy D Coble |

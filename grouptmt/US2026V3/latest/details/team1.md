@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 20:27:01 UTC
+# Standings for team1 as of 2026-06-08 20:27:20 UTC
 
 **Total Participants:** 1865
 
@@ -56,8 +56,8 @@
 | 48 | 1761 | Therealdywoune Peay |
 | 49 | 1752 | D'Andra Stewart |
 | 50 | 1727 | Chris Russell |
-| 51 | 1722 | Robyn Caldwell |
-| 52 | 1709 | Jennifer To |
+| 51 | 1724 | Jennifer To |
+| 52 | 1722 | Robyn Caldwell |
 | 53 | 1700 | Rosey |
 | 54 | 1693 | JoJo |
 | 55 | 1623 | Brian Bohanon II |
@@ -169,10 +169,10 @@
 | 161 | 549 | Shell Lewis |
 | 162 | 546 | Dee McCool |
 | 163 | 541 | Helen Smith |
-| 164 | 531 | Abraham Espaillat |
-| 165 | 527 | MommaCia |
-| 166 | 523 | DellaLucretia Thomas |
-| 167 | 521 | Slim Shedidthat |
+| 164 | 540 | Slim Shedidthat |
+| 165 | 531 | Abraham Espaillat |
+| 166 | 527 | MommaCia |
+| 167 | 523 | DellaLucretia Thomas |
 | 168 | 520 | Spicy Risepiece |
 | 169 | 520 | Felicia Cain |
 | 170 | 520 | Dulo |
@@ -1309,19 +1309,19 @@
 | 1301 | 41 | Tynetta Scott |
 | 1302 | 41 | Carolyn |
 | 1303 | 41 | Es Bee |
-| 1304 | 41 | JLynn Mind Ur's Blackwell |
-| 1305 | 40 | Megan Payette |
-| 1306 | 40 | DimplezAOS |
-| 1307 | 40 | Margretta Henry |
-| 1308 | 40 | Chummy Blockpiece |
-| 1309 | 40 | tk |
-| 1310 | 40 | Dawn Walker |
-| 1311 | 40 | Kira Wooten |
-| 1312 | 40 | NiingDing |
-| 1313 | 40 | Jason Riley |
-| 1314 | 40 | Katrina Trein Bein Dickerson |
-| 1315 | 40 | Sarah Guarino |
-| 1316 | 40 | MikeHunt |
+| 1304 | 41 | MikeHunt |
+| 1305 | 41 | JLynn Mind Ur's Blackwell |
+| 1306 | 40 | Megan Payette |
+| 1307 | 40 | DimplezAOS |
+| 1308 | 40 | Margretta Henry |
+| 1309 | 40 | Chummy Blockpiece |
+| 1310 | 40 | tk |
+| 1311 | 40 | Dawn Walker |
+| 1312 | 40 | Kira Wooten |
+| 1313 | 40 | NiingDing |
+| 1314 | 40 | Jason Riley |
+| 1315 | 40 | Katrina Trein Bein Dickerson |
+| 1316 | 40 | Sarah Guarino |
 | 1317 | 40 | Amy Thomas |
 | 1318 | 40 | Erica Wells |
 | 1319 | 40 | James Dunlap |
