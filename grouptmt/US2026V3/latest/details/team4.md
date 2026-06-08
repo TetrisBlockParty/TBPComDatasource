@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:32:43 UTC
+# Standings for team4 as of 2026-06-08 08:33:19 UTC
 
 **Total Participants:** 1800
 
@@ -422,14 +422,14 @@
 | 414 | 179 | LaTanya GeminiondaRise Johnson |
 | 415 | 178 | Deva Marie Barber |
 | 416 | 178 | Alexsandra Hill |
-| 417 | 176 | Erik Clary |
-| 418 | 176 | Dena Lynn Rogers |
-| 419 | 175 | Cool Risepiece |
-| 420 | 175 | Happy Shatterfit |
-| 421 | 175 | Diana Fernandez |
-| 422 | 175 | Quiomarie Cotto |
-| 423 | 175 | Cherrypir05 |
-| 424 | 174 | Linda |
+| 417 | 178 | Linda |
+| 418 | 176 | Erik Clary |
+| 419 | 176 | Dena Lynn Rogers |
+| 420 | 175 | Cool Risepiece |
+| 421 | 175 | Happy Shatterfit |
+| 422 | 175 | Diana Fernandez |
+| 423 | 175 | Quiomarie Cotto |
+| 424 | 175 | Cherrypir05 |
 | 425 | 174 | Miss Beast |
 | 426 | 172 | Kea Sushi |
 | 427 | 172 | Jen Roe |
