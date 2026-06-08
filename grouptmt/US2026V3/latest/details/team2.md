@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:04:20 UTC
+# Standings for team2 as of 2026-06-08 02:04:41 UTC
 
 **Total Participants:** 2023
 
@@ -186,10 +186,10 @@
 | 178 | 453 | Kimberly Cowan |
 | 179 | 453 | Ashley Green |
 | 180 | 448 | Eric Drane |
-| 181 | 444 | Danielle Blount |
-| 182 | 442 | Christina Maria |
-| 183 | 442 | MegaPooh |
-| 184 | 439 | Gill |
+| 181 | 445 | Gill |
+| 182 | 444 | Danielle Blount |
+| 183 | 442 | Christina Maria |
+| 184 | 442 | MegaPooh |
 | 185 | 436 | DukeDino |
 | 186 | 435 | Milad Arzani |
 | 187 | 434 | Frilly Dashfit |
@@ -321,26 +321,26 @@
 | 313 | 255 | True |
 | 314 | 255 | Chummy Faller |
 | 315 | 255 | Tina Marie |
-| 316 | 254 | Elizabeth Henry |
-| 317 | 254 | Sabrina Hardrick |
+| 316 | 254 | Sabrina Hardrick |
+| 317 | 254 | Elizabeth Henry |
 | 318 | 253 | Kim Hunt |
 | 319 | 252 | Brandi Vandevanter-Duke |
 | 320 | 251 | Marilyn Mendoza |
 | 321 | 251 | Mouh Med |
 | 322 | 251 | Bianca Woodruff |
 | 323 | 251 | Joanna Trevin Thompson |
-| 324 | 250 | Kim Powers |
-| 325 | 250 | Happy Drop |
-| 326 | 250 | Santara Ferguson |
+| 324 | 250 | Santara Ferguson |
+| 325 | 250 | Kim Powers |
+| 326 | 250 | Happy Drop |
 | 327 | 250 | Ray Daisy |
 | 328 | 247 | SilentBuffalo |
-| 329 | 247 | Sydney Cheyenne |
+| 329 | 247 | Jenny |
 | 330 | 247 | Eric Wayne Maschman |
-| 331 | 246 | Amber Cogdill |
-| 332 | 244 | Chill Line |
-| 333 | 244 | Ariel Gundersen |
-| 334 | 243 | Avie Lou |
-| 335 | 243 | Jenny |
+| 331 | 247 | Sydney Cheyenne |
+| 332 | 246 | Amber Cogdill |
+| 333 | 244 | Chill Line |
+| 334 | 244 | Ariel Gundersen |
+| 335 | 243 | Avie Lou |
 | 336 | 242 | Boldy Fitclear |
 | 337 | 242 | Robin G |
 | 338 | 242 | Theresa Huddleston |
@@ -363,13 +363,13 @@
 | 355 | 227 | Jennifer McClure |
 | 356 | 225 | Cheery Towerzone |
 | 357 | 222 | Harper |
-| 358 | 220 | Sherri E Woods Hess |
-| 359 | 220 | Flashy Basegrid |
-| 360 | 220 | Carlos J Blas |
-| 361 | 220 | Michelle M Braley |
-| 362 | 220 | ShiverMeSplinter |
+| 358 | 221 | Anthony Swift |
+| 359 | 220 | Michelle M Braley |
+| 360 | 220 | ShiverMeSplinter |
+| 361 | 220 | Flashy Basegrid |
+| 362 | 220 | Carlos J Blas |
 | 363 | 220 | Precious Womack |
-| 364 | 218 | Anthony Swift |
+| 364 | 220 | Sherri E Woods Hess |
 | 365 | 218 | Julie Alexander Sykes |
 | 366 | 217 | Spicy Snapclear |
 | 367 | 217 | Amanda Priddy |
@@ -382,18 +382,18 @@
 | 374 | 213 | Judy Burkhalter |
 | 375 | 212 | Carebear05 |
 | 376 | 212 | Flashy Hitter |
-| 377 | 211 | Jumpy Matchbuilder |
-| 378 | 211 | Sandy Lynn |
-| 379 | 211 | Elliott Mikila |
-| 380 | 211 | Alonzo Reed |
-| 381 | 211 | Sassy Twistbuilder |
+| 377 | 211 | Alonzo Reed |
+| 378 | 211 | Jumpy Matchbuilder |
+| 379 | 211 | Sassy Twistbuilder |
+| 380 | 211 | Elliott Mikila |
+| 381 | 211 | Sandy Lynn |
 | 382 | 210 | Zappy Liney |
-| 383 | 210 | Francesca Wagenhoffer |
-| 384 | 210 | Amanda Bottorff |
+| 383 | 210 | Amanda Bottorff |
+| 384 | 210 | Francesca Wagenhoffer |
 | 385 | 210 | Camilo Moreno |
 | 386 | 209 | Kevin Mccoy |
-| 387 | 208 | Martha Lynn Wiggins |
-| 388 | 208 | Dad |
+| 387 | 208 | Dad |
+| 388 | 208 | Martha Lynn Wiggins |
 | 389 | 208 | Christy Diane Escobar |
 | 390 | 207 | StacyBabee |
 | 391 | 206 | Jodi Johnson |

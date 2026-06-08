@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:04:20 UTC
+# Standings for team1 as of 2026-06-08 02:04:41 UTC
 
 **Total Participants:** 1667
 
@@ -884,60 +884,60 @@
 | 876 | 66 | Mami Badd |
 | 877 | 66 | Dennis Ripley |
 | 878 | 66 | Meepycat |
-| 879 | 66 | Meluhnee |
-| 880 | 66 | Boricua64 |
+| 879 | 66 | Boricua64 |
+| 880 | 66 | Meluhnee |
 | 881 | 66 | Jroc Tyra Taylor |
-| 882 | 66 | Sylvia Offically A Mcgowan |
-| 883 | 66 | Seirra Robinson |
-| 884 | 65 | Furlough Leslie |
+| 882 | 66 | Shaun Anderson |
+| 883 | 66 | Sylvia Offically A Mcgowan |
+| 884 | 66 | Seirra Robinson |
 | 885 | 65 | Vonda House |
-| 886 | 65 | Rande Smith |
-| 887 | 65 | Khatyrah Burnette |
-| 888 | 65 | Trixie |
-| 889 | 65 | Renee J. Thomas |
+| 886 | 65 | Khatyrah Burnette |
+| 887 | 65 | Trixie |
+| 888 | 65 | Rande Smith |
+| 889 | 65 | Furlough Leslie |
 | 890 | 65 | Heru Ogun Yeshua EL |
-| 891 | 65 | Charika Marie Bergmann |
-| 892 | 65 | Benjamin Livingston |
-| 893 | 64 | Kanesha Jackson |
-| 894 | 64 | Tomme Poliwka |
+| 891 | 65 | Benjamin Livingston |
+| 892 | 65 | Charika Marie Bergmann |
+| 893 | 65 | Renee J. Thomas |
+| 894 | 64 | Kanesha Jackson |
 | 895 | 64 | Elaine Youmans |
-| 896 | 63 | Tony P Burke |
-| 897 | 63 | Jeremy Hendrix |
-| 898 | 63 | Ahsokadog |
-| 899 | 63 | GetDaOPPS |
-| 900 | 63 | Abdul Malik |
-| 901 | 63 | Gary Kyle |
-| 902 | 63 | Tip318 |
-| 903 | 63 | Katness |
-| 904 | 63 | Poppy Smasher |
-| 905 | 63 | Heather Wilson |
-| 906 | 63 | Natasha Harris |
-| 907 | 63 | Tonny Williams |
-| 908 | 62 | Quirky Slammer |
+| 896 | 64 | Tomme Poliwka |
+| 897 | 63 | Ahsokadog |
+| 898 | 63 | Abdul Malik |
+| 899 | 63 | Jeremy Hendrix |
+| 900 | 63 | GetDaOPPS |
+| 901 | 63 | Tony P Burke |
+| 902 | 63 | Gary Kyle |
+| 903 | 63 | Tip318 |
+| 904 | 63 | Katness |
+| 905 | 63 | Poppy Smasher |
+| 906 | 63 | Heather Wilson |
+| 907 | 63 | Natasha Harris |
+| 908 | 63 | Tonny Williams |
 | 909 | 62 | Shona ShayShay Jones |
-| 910 | 62 | Tia Hazelton |
+| 910 | 62 | Quirky Slammer |
 | 911 | 62 | Amihan |
-| 912 | 62 | Quwana Hall |
-| 913 | 62 | Spicy Hedgehog |
-| 914 | 62 | AnnaM |
-| 915 | 62 | Delitra Perkins Hatter |
-| 916 | 62 | Nicole Watson-Dixon |
-| 917 | 62 | S.S |
-| 918 | 61 | Rosalind Chatman |
-| 919 | 61 | Tonya Thomas |
-| 920 | 61 | Michelle Stanford-Page |
-| 921 | 61 | Shaun Anderson |
+| 912 | 62 | Tia Hazelton |
+| 913 | 62 | Quwana Hall |
+| 914 | 62 | Spicy Hedgehog |
+| 915 | 62 | AnnaM |
+| 916 | 62 | Delitra Perkins Hatter |
+| 917 | 62 | Nicole Watson-Dixon |
+| 918 | 62 | S.S |
+| 919 | 61 | Rosalind Chatman |
+| 920 | 61 | Tonya Thomas |
+| 921 | 61 | Michelle Stanford-Page |
 | 922 | 60 | Juan Lewis |
-| 923 | 60 | Demi Ovalle |
+| 923 | 60 | Chris Watson Draper |
 | 924 | 60 | Yellowguy3 |
 | 925 | 60 | lookin |
 | 926 | 60 | Ray Baker |
 | 927 | 60 | lizlizliz |
-| 928 | 60 | Jennifer Endean |
-| 929 | 60 | Tellisa Payne |
+| 928 | 60 | Tellisa Payne |
+| 929 | 60 | Jennifer Endean |
 | 930 | 60 | Swanky Glide |
 | 931 | 60 | Amanda Colwell |
-| 932 | 60 | Chris Watson Draper |
+| 932 | 60 | Demi Ovalle |
 | 933 | 60 | Andy Rivera |
 | 934 | 60 | Londa Londa |
 | 935 | 60 | Tyrone Porter |
