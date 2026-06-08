@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:28:41 UTC
+# Standings for team1 as of 2026-06-08 05:29:20 UTC
 
 **Total Participants:** 1727
 
@@ -212,8 +212,8 @@
 | 204 | 348 | IThinkNot |
 | 205 | 347 | Tamara N Lee |
 | 206 | 345 | Ebony |
-| 207 | 343 | Yasmin Nakea Wright |
-| 208 | 342 | Zappy Riser |
+| 207 | 345 | Zappy Riser |
+| 208 | 343 | Yasmin Nakea Wright |
 | 209 | 340 | Spicy Risepiece |
 | 210 | 336 | Keke Ferguson |
 | 211 | 334 | Ashley MyBeauty Daniels |
