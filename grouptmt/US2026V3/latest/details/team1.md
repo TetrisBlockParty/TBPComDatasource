@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:30:21 UTC
+# Standings for team1 as of 2026-06-08 10:30:44 UTC
 
 **Total Participants:** 1776
 
@@ -392,9 +392,9 @@
 | 384 | 194 | Cheery Linkfall |
 | 385 | 193 | Matthieu Pistone |
 | 386 | 192 | Hyper Blocky |
-| 387 | 192 | Joana Thompson |
-| 388 | 191 | Jelyfish |
-| 389 | 191 | Kate Hancock Malicek |
+| 387 | 192 | Kate Hancock Malicek |
+| 388 | 192 | Joana Thompson |
+| 389 | 191 | Jelyfish |
 | 390 | 191 | Lozuna |
 | 391 | 190 | Chipper Snapper |
 | 392 | 190 | Ladybug |

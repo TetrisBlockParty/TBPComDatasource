@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:30:21 UTC
+# Standings for team2 as of 2026-06-08 10:30:44 UTC
 
 **Total Participants:** 2152
 
@@ -202,15 +202,15 @@
 | 194 | 470 | Zesty Strikerbuilder |
 | 195 | 469 | Lashanda Bertram |
 | 196 | 467 | Lisa Underwood Desmond |
-| 197 | 462 | Lori Whitman |
-| 198 | 461 | Charles E Mccardell |
-| 199 | 457 | MegaPooh |
-| 200 | 453 | Kimberly Cowan |
-| 201 | 453 | Ashley Green |
-| 202 | 451 | Gill |
-| 203 | 449 | Danielle Blount |
-| 204 | 449 | Snappy Blockbuilder |
-| 205 | 449 | Cool Climber |
+| 197 | 467 | Cool Climber |
+| 198 | 462 | Lori Whitman |
+| 199 | 461 | Charles E Mccardell |
+| 200 | 457 | MegaPooh |
+| 201 | 453 | Kimberly Cowan |
+| 202 | 453 | Ashley Green |
+| 203 | 451 | Gill |
+| 204 | 449 | Danielle Blount |
+| 205 | 449 | Snappy Blockbuilder |
 | 206 | 449 | Suki Jacobs |
 | 207 | 448 | Eric Drane |
 | 208 | 445 | Gabrielle Wilson |
@@ -459,20 +459,20 @@
 | 451 | 200 | Katie Jones |
 | 452 | 200 | Happy |
 | 453 | 199 | Justin Stark |
-| 454 | 198 | Rosalie Call Kehlenbeck |
-| 455 | 198 | Epic Tilemaker |
+| 454 | 198 | Epic Tilemaker |
+| 455 | 198 | Rosalie Call Kehlenbeck |
 | 456 | 198 | TetrisMama |
-| 457 | 197 | Andrea Rawson |
-| 458 | 196 | Greenie |
+| 457 | 197 | Sarah Jane Gorsuch |
+| 458 | 197 | Andrea Rawson |
 | 459 | 196 | Joshua Dye |
-| 460 | 196 | Spunky Linkblock |
-| 461 | 195 | Partin |
-| 462 | 194 | Jessica Connot |
-| 463 | 194 | Brian Favre |
-| 464 | 192 | Loopy Tower |
-| 465 | 192 | Raine |
-| 466 | 191 | Rydin Dirt |
-| 467 | 191 | Sarah Jane Gorsuch |
+| 460 | 196 | Greenie |
+| 461 | 196 | Spunky Linkblock |
+| 462 | 195 | Partin |
+| 463 | 194 | Jessica Connot |
+| 464 | 194 | Brian Favre |
+| 465 | 192 | Loopy Tower |
+| 466 | 192 | Raine |
+| 467 | 191 | Rydin Dirt |
 | 468 | 191 | Nano. |
 | 469 | 190 | Laurie |
 | 470 | 190 | Saucy Wrecker |
