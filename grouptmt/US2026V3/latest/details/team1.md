@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:02:21 UTC
+# Standings for team1 as of 2026-06-08 19:02:43 UTC
 
 **Total Participants:** 1848
 
@@ -459,38 +459,38 @@
 | 451 | 194 | Mahagony Small |
 | 452 | 193 | Dizzy Dashy |
 | 453 | 193 | Bold Clusterer |
-| 454 | 192 | Taz Ballard |
-| 455 | 192 | Donna Payne |
+| 454 | 192 | Donna Payne |
+| 455 | 192 | Taz Ballard |
 | 456 | 192 | Hyper Blocky |
 | 457 | 191 | Lozuna |
 | 458 | 191 | Jelyfish |
 | 459 | 191 | Miera Nicole |
 | 460 | 191 | Nona Harriel |
-| 461 | 191 | Zappy Clearfit |
-| 462 | 190 | Nisha Sunshine Jenkins |
-| 463 | 190 | Adrian Wilson |
-| 464 | 190 | Kamilya Rembert |
-| 465 | 190 | Dreamzzz |
-| 466 | 190 | Chipper Snapper |
-| 467 | 189 | Sean White |
-| 468 | 189 | Ciera Peace |
-| 469 | 189 | Jolly Tilefall |
-| 470 | 189 | Tosha Michelle |
-| 471 | 188 | Tyiesha Pie Farmer |
-| 472 | 188 | Travis Davison |
-| 473 | 188 | CJ Robinson |
-| 474 | 187 | Rachel Renae Bettis |
-| 475 | 187 | Kimmie Gargano |
-| 476 | 187 | Jennah |
-| 477 | 186 | Monica Tovar |
-| 478 | 186 | Brittany Sara Heldwein |
-| 479 | 185 | Zappy Snapgrid |
-| 480 | 185 | Sarah Swietlicki - Lopez |
-| 481 | 185 | wmedina67 |
-| 482 | 184 | Soubletzy |
-| 483 | 184 | Dorian Griffin |
-| 484 | 183 | Twisty Cascadeclear |
-| 485 | 183 | Marlainia Boyd |
+| 461 | 191 | Marlainia Boyd |
+| 462 | 191 | Zappy Clearfit |
+| 463 | 190 | Nisha Sunshine Jenkins |
+| 464 | 190 | Adrian Wilson |
+| 465 | 190 | Kamilya Rembert |
+| 466 | 190 | Dreamzzz |
+| 467 | 190 | Chipper Snapper |
+| 468 | 189 | Sean White |
+| 469 | 189 | Ciera Peace |
+| 470 | 189 | Jolly Tilefall |
+| 471 | 189 | Tosha Michelle |
+| 472 | 188 | Tyiesha Pie Farmer |
+| 473 | 188 | Travis Davison |
+| 474 | 188 | CJ Robinson |
+| 475 | 187 | Rachel Renae Bettis |
+| 476 | 187 | Kimmie Gargano |
+| 477 | 187 | Jennah |
+| 478 | 186 | Monica Tovar |
+| 479 | 186 | Brittany Sara Heldwein |
+| 480 | 185 | Zappy Snapgrid |
+| 481 | 185 | Sarah Swietlicki - Lopez |
+| 482 | 185 | wmedina67 |
+| 483 | 184 | Soubletzy |
+| 484 | 184 | Dorian Griffin |
+| 485 | 183 | Twisty Cascadeclear |
 | 486 | 183 | Shakuria Cortia Burney |
 | 487 | 183 | Tushama Cheris Okraku |
 | 488 | 183 | Erika |
@@ -979,80 +979,80 @@
 | 971 | 78 | Meepycat |
 | 972 | 78 | Megan Jones |
 | 973 | 78 | BigMike |
-| 974 | 77 | S.S |
-| 975 | 77 | Lil T |
-| 976 | 77 | Tomme Poliwka |
-| 977 | 77 | Silly Shatterline |
-| 978 | 77 | Teisha Scott |
-| 979 | 77 | Ashanti Eden |
+| 974 | 77 | Tomme Poliwka |
+| 975 | 77 | Silly Shatterline |
+| 976 | 77 | Teisha Scott |
+| 977 | 77 | Ashanti Eden |
+| 978 | 77 | S.S |
+| 979 | 77 | Lil T |
 | 980 | 77 | Renee J. Thomas |
-| 981 | 76 | Mama P |
-| 982 | 76 | SweetByNBy |
+| 981 | 76 | Ashley Love Pettit |
+| 982 | 76 | Paul Doty |
 | 983 | 76 | Jane Lame |
 | 984 | 76 | NataAllDay |
-| 985 | 76 | Paul Doty |
+| 985 | 76 | Mama P |
 | 986 | 76 | Vannie G |
-| 987 | 76 | Ashley Love Pettit |
-| 988 | 75 | Kyle Franklin |
-| 989 | 75 | Khatyrah Burnette |
-| 990 | 75 | sasha |
-| 991 | 75 | Courtney Robinson |
-| 992 | 75 | Marissa Sweet |
-| 993 | 75 | Ray Baker |
-| 994 | 74 | Ace Hardware |
+| 987 | 76 | SweetByNBy |
+| 988 | 75 | sasha |
+| 989 | 75 | Ray Baker |
+| 990 | 75 | Marissa Sweet |
+| 991 | 75 | Khatyrah Burnette |
+| 992 | 75 | Courtney Robinson |
+| 993 | 75 | Kyle Franklin |
+| 994 | 74 | Giggy Brickfit |
 | 995 | 74 | Willson06 |
-| 996 | 74 | Tetrisdestroyer |
-| 997 | 74 | GiantBehemoth |
-| 998 | 74 | Giggy Brickfit |
-| 999 | 74 | Delitra Perkins Hatter |
-| 1000 | 74 | Lively Clusterline |
-| 1001 | 73 | Sarah Barnum |
-| 1002 | 73 | Jonathan Zold |
-| 1003 | 73 | Ducc2408 |
-| 1004 | 73 | Lazy Matchgrid |
-| 1005 | 73 | Alice Biggs |
-| 1006 | 73 | tg |
+| 996 | 74 | GiantBehemoth |
+| 997 | 74 | Tetrisdestroyer |
+| 998 | 74 | Lively Clusterline |
+| 999 | 74 | Ace Hardware |
+| 1000 | 74 | Delitra Perkins Hatter |
+| 1001 | 73 | tg |
+| 1002 | 73 | Lazy Matchgrid |
+| 1003 | 73 | Sarah Barnum |
+| 1004 | 73 | Alice Biggs |
+| 1005 | 73 | Jonathan Zold |
+| 1006 | 73 | Ducc2408 |
 | 1007 | 72 | WReckitraff |
 | 1008 | 72 | Hoppy Buildsnap |
-| 1009 | 72 | Vivian Bunnell Myers |
-| 1010 | 72 | Toohartless Mech |
-| 1011 | 72 | Comedian Gdane |
-| 1012 | 72 | ImmeKC |
-| 1013 | 72 | Dennis Ripley |
-| 1014 | 71 | Ryan Holm |
-| 1015 | 71 | HBTone |
-| 1016 | 71 | KimChii |
-| 1017 | 71 | Tori Carter |
-| 1018 | 70 | Rachel Lopez |
-| 1019 | 70 | Fransine Bennett |
-| 1020 | 70 | Alisha Dawson Crouch |
-| 1021 | 70 | JoZanna Washington |
-| 1022 | 70 | Nedine Ray |
-| 1023 | 70 | Rande Smith |
-| 1024 | 70 | TNT |
-| 1025 | 70 | Eli Delao |
-| 1026 | 70 | Smøke DGAF |
-| 1027 | 70 | RealOne95 |
-| 1028 | 70 | West Racks |
-| 1029 | 69 | Ahsokadog |
-| 1030 | 69 | Markeita Jones |
-| 1031 | 69 | BrettanMary Adkins |
+| 1009 | 72 | Toohartless Mech |
+| 1010 | 72 | Comedian Gdane |
+| 1011 | 72 | ImmeKC |
+| 1012 | 72 | Dennis Ripley |
+| 1013 | 72 | Vivian Bunnell Myers |
+| 1014 | 71 | HBTone |
+| 1015 | 71 | Ryan Holm |
+| 1016 | 71 | Alanna Breitenbach |
+| 1017 | 71 | KimChii |
+| 1018 | 71 | Tori Carter |
+| 1019 | 70 | Nedine Ray |
+| 1020 | 70 | JoZanna Washington |
+| 1021 | 70 | Fransine Bennett |
+| 1022 | 70 | Rachel Lopez |
+| 1023 | 70 | West Racks |
+| 1024 | 70 | RealOne95 |
+| 1025 | 70 | Smøke DGAF |
+| 1026 | 70 | Eli Delao |
+| 1027 | 70 | TNT |
+| 1028 | 70 | Rande Smith |
+| 1029 | 70 | Alisha Dawson Crouch |
+| 1030 | 69 | Ahsokadog |
+| 1031 | 69 | Markeita Jones |
 | 1032 | 69 | Jas |
 | 1033 | 69 | Keith Johnson |
-| 1034 | 69 | Spunky Strikerbuilder |
-| 1035 | 69 | Teresa Menefee |
-| 1036 | 68 | Fairy Fae_6 |
+| 1034 | 69 | Teresa Menefee |
+| 1035 | 69 | Spunky Strikerbuilder |
+| 1036 | 69 | BrettanMary Adkins |
 | 1037 | 68 | Sheesh |
-| 1038 | 68 | Mamiyoung47 |
-| 1039 | 68 | Saucy Crusher |
+| 1038 | 68 | AleahKCH |
+| 1039 | 68 | Michael Gray |
 | 1040 | 68 | Shawna Passwater |
-| 1041 | 68 | Michael Gray |
-| 1042 | 68 | AleahKCH |
-| 1043 | 67 | Boldy Matchfit |
-| 1044 | 67 | Sharon Lynn |
-| 1045 | 67 | Michele Elizabeth McKay-Johnson |
-| 1046 | 67 | Alize |
-| 1047 | 67 | Alanna Breitenbach |
+| 1041 | 68 | Saucy Crusher |
+| 1042 | 68 | Mamiyoung47 |
+| 1043 | 68 | Fairy Fae_6 |
+| 1044 | 67 | Alize |
+| 1045 | 67 | Sharon Lynn |
+| 1046 | 67 | Boldy Matchfit |
+| 1047 | 67 | Michele Elizabeth McKay-Johnson |
 | 1048 | 66 | Evelyn Epps |
 | 1049 | 66 | GoldStarJo |
 | 1050 | 66 | Mami Badd |
