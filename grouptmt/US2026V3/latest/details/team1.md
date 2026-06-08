@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:56:45 UTC
+# Standings for team1 as of 2026-06-08 17:57:20 UTC
 
 **Total Participants:** 1840
 
@@ -203,10 +203,10 @@
 | 195 | 444 | Helen Smith |
 | 196 | 440 | Tanya Clayton |
 | 197 | 439 | Asani CHumba |
-| 198 | 435 | Tishauna Virgo |
-| 199 | 433 | Zippy Tilefall |
-| 200 | 431 | Lashawn Wallace |
-| 201 | 431 | Joey Albright |
+| 198 | 436 | Joey Albright |
+| 199 | 435 | Tishauna Virgo |
+| 200 | 433 | Zippy Tilefall |
+| 201 | 431 | Lashawn Wallace |
 | 202 | 430 | boogeywoogey |
 | 203 | 424 | Choc |
 | 204 | 422 | David Fuentes |
@@ -901,7 +901,7 @@
 | 893 | 86 | Ivery Lee Grays Jr. |
 | 894 | 86 | LaTonya Rivers |
 | 895 | 86 | krd |
-| 896 | 85 | Bobby Chestefield |
+| 896 | 86 | Kahh |
 | 897 | 85 | Tray Tolliver |
 | 898 | 85 | Heru Ogun Yeshua EL |
 | 899 | 85 | Kidgib5 |
@@ -910,11 +910,11 @@
 | 902 | 85 | Nick Stowers |
 | 903 | 85 | Abdul Malik |
 | 904 | 85 | Anthony Collins |
-| 905 | 84 | Kahh |
+| 905 | 85 | Bobby Chestefield |
 | 906 | 84 | Jumpy Gridlock |
 | 907 | 84 | Stanley Dixon |
-| 908 | 84 | Dawn Basemore |
-| 909 | 84 | squints |
+| 908 | 84 | squints |
+| 909 | 84 | Dawn Basemore |
 | 910 | 84 | Quwana Hall |
 | 911 | 84 | Sunny Tumbler |
 | 912 | 84 | Silly Wiper |
