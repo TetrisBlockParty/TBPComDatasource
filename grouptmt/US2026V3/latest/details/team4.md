@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:42:41 UTC
+# Standings for team4 as of 2026-06-08 08:43:19 UTC
 
 **Total Participants:** 1800
 
@@ -103,12 +103,12 @@
 | 95 | 795 | Phil Peterson |
 | 96 | 792 | Keesha Muro |
 | 97 | 788 | Shaina Sharp |
-| 98 | 775 | Shelby |
-| 99 | 758 | Regina Williams |
-| 100 | 749 | Hairy Snake |
-| 101 | 744 | adrian |
-| 102 | 737 | Маркус Вік |
-| 103 | 735 | Michelle Ross |
+| 98 | 783 | Michelle Ross |
+| 99 | 775 | Shelby |
+| 100 | 758 | Regina Williams |
+| 101 | 749 | Hairy Snake |
+| 102 | 744 | adrian |
+| 103 | 737 | Маркус Вік |
 | 104 | 734 | Cherry |
 | 105 | 731 | GeorgeButts |
 | 106 | 730 | Chaz Duncan |
@@ -133,8 +133,8 @@
 | 125 | 626 | Lynn Grimes |
 | 126 | 618 | Becky Doll-Hall |
 | 127 | 603 | Caitlyn Wang |
-| 128 | 600 | Andrew Dang |
-| 129 | 600 | Suzanne Carter |
+| 128 | 600 | Suzanne Carter |
+| 129 | 600 | Andrew Dang |
 | 130 | 594 | Daryn Elliott |
 | 131 | 593 | Malik Thompson |
 | 132 | 591 | Jewelz |
@@ -143,10 +143,10 @@
 | 135 | 566 | Dee Wizz |
 | 136 | 564 | Krysten Danielle Richard |
 | 137 | 555 | iiPurgeV2 |
-| 138 | 550 | Nicole Peoples |
-| 139 | 549 | Pepone Pepe |
-| 140 | 548 | Katie Lynn Petit |
-| 141 | 532 | Esther Hadassah |
+| 138 | 552 | Esther Hadassah |
+| 139 | 550 | Nicole Peoples |
+| 140 | 549 | Pepone Pepe |
+| 141 | 548 | Katie Lynn Petit |
 | 142 | 528 | Dandy Puzzler |
 | 143 | 522 | Sarah Berry Stevens |
 | 144 | 521 | Misty Leigh |
@@ -174,19 +174,19 @@
 | 166 | 432 | Scamp Jones |
 | 167 | 429 | Cyndi Najar |
 | 168 | 426 | Nicole |
-| 169 | 424 | Futrell Brent |
-| 170 | 424 | Piece of Cake |
+| 169 | 424 | Piece of Cake |
+| 170 | 424 | Futrell Brent |
 | 171 | 422 | squareMel |
-| 172 | 421 | Shannon Rivera |
-| 173 | 421 | QueenLi86 |
+| 172 | 421 | QueenLi86 |
+| 173 | 421 | Shannon Rivera |
 | 174 | 420 | Shmeedo |
 | 175 | 415 | Shiny Dashy |
 | 176 | 409 | Hen |
 | 177 | 405 | HurkleDurkle88 |
 | 178 | 400 | Amber Doyle |
 | 179 | 399 | Devinlee Brown |
-| 180 | 395 | Julian Gasque |
-| 181 | 395 | Bobbie Harrell |
+| 180 | 395 | Bobbie Harrell |
+| 181 | 395 | Julian Gasque |
 | 182 | 389 | Taz |
 | 183 | 389 | blockhead |
 | 184 | 385 | Kristen Wallace |
@@ -332,10 +332,10 @@
 | 324 | 222 | Cheeky Fallzone |
 | 325 | 222 | Karen Davis |
 | 326 | 221 | JuicyJuice |
-| 327 | 220 | Anthony Magaraci |
-| 328 | 220 | Sarah Montagne Forsberg |
+| 327 | 221 | Karen Rodriguez |
+| 328 | 220 | Anthony Magaraci |
 | 329 | 220 | Holly Wessel |
-| 330 | 220 | Karen Rodriguez |
+| 330 | 220 | Sarah Montagne Forsberg |
 | 331 | 220 | Maurice DeJean |
 | 332 | 219 | Crystal Hammonds |
 | 333 | 219 | Tiffany Smith |
