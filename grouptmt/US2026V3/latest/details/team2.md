@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:46:20 UTC
+# Standings for team2 as of 2026-06-08 11:46:41 UTC
 
 **Total Participants:** 2165
 
@@ -530,9 +530,9 @@
 | 522 | 175 | Angela Hogan |
 | 523 | 175 | Smiley Staggerpiece |
 | 524 | 174 | Leticia Tillman |
-| 525 | 172 | Charity Hauser |
+| 525 | 172 | Barb Kiser |
 | 526 | 172 | Rescuegirl76 |
-| 527 | 172 | Barb Kiser |
+| 527 | 172 | Charity Hauser |
 | 528 | 171 | Michele Stewart |
 | 529 | 170 | Dapper Riser |
 | 530 | 170 | Amber Carpenter |
@@ -542,15 +542,15 @@
 | 534 | 167 | Cara Rivera |
 | 535 | 166 | Darla Nolt |
 | 536 | 166 | Carl Mccoy |
-| 537 | 165 | Nicky Steigerwalt |
+| 537 | 165 | Newtwidebody |
 | 538 | 165 | Chilly Surge |
-| 539 | 165 | Spunky Cascadeclear |
-| 540 | 164 | James Sayers |
-| 541 | 164 | Silly Tiltbuilder |
-| 542 | 163 | Zany Cascader |
-| 543 | 162 | Wacky Holder |
-| 544 | 162 | Nikki Hatch |
-| 545 | 162 | Newtwidebody |
+| 539 | 165 | Nicky Steigerwalt |
+| 540 | 165 | Spunky Cascadeclear |
+| 541 | 164 | James Sayers |
+| 542 | 164 | Silly Tiltbuilder |
+| 543 | 163 | Zany Cascader |
+| 544 | 162 | Wacky Holder |
+| 545 | 162 | Nikki Hatch |
 | 546 | 162 | Ashley Miller |
 | 547 | 162 | Tina |
 | 548 | 161 | Melissa Fink |
@@ -875,46 +875,46 @@
 | 867 | 100 | Tracy Tokarz |
 | 868 | 100 | Alisha Shelton |
 | 869 | 100 | AshleyM |
-| 870 | 99 | Diane Byrd |
-| 871 | 99 | MjLovebug13 |
-| 872 | 99 | Cheery Tilefall |
-| 873 | 99 | Chesterland |
-| 874 | 98 | Chad Atchley |
-| 875 | 98 | Manda |
-| 876 | 98 | Sara BlueEyes |
-| 877 | 98 | Michael James |
-| 878 | 98 | Quirky Gridclear |
-| 879 | 98 | Alexis Abner |
+| 870 | 99 | Damion Morrison |
+| 871 | 99 | Diane Byrd |
+| 872 | 99 | MjLovebug13 |
+| 873 | 99 | Cheery Tilefall |
+| 874 | 99 | Chesterland |
+| 875 | 98 | Chad Atchley |
+| 876 | 98 | Manda |
+| 877 | 98 | Quirky Gridclear |
+| 878 | 98 | Alexis Abner |
+| 879 | 98 | Sara BlueEyes |
 | 880 | 98 | Saucy Lifter |
-| 881 | 98 | Ollie |
-| 882 | 97 | Melissa Pronovost |
-| 883 | 97 | BrendaLee NolanBos |
-| 884 | 97 | Clever Gridzone |
+| 881 | 98 | Michael James |
+| 882 | 98 | Ollie |
+| 883 | 97 | Melissa Pronovost |
+| 884 | 97 | BrendaLee NolanBos |
 | 885 | 97 | Helen Townsend |
-| 886 | 97 | Adri Perez |
-| 887 | 97 | Jessica Melendy |
-| 888 | 97 | ASL |
-| 889 | 97 | Deb Rose-Bridinger |
-| 890 | 97 | ace510 |
-| 891 | 96 | Spicy Wrecker |
-| 892 | 96 | KayLynn Ogden McClelland |
-| 893 | 96 | Chirpy Clearpiece |
-| 894 | 96 | Beverly-Jo Peterson |
-| 895 | 96 | Grimwitch |
-| 896 | 96 | Damion Morrison |
-| 897 | 96 | Dhelsie Qurasima |
+| 886 | 97 | Clever Gridzone |
+| 887 | 97 | Adri Perez |
+| 888 | 97 | Jessica Melendy |
+| 889 | 97 | ASL |
+| 890 | 97 | Deb Rose-Bridinger |
+| 891 | 97 | ace510 |
+| 892 | 96 | Spicy Wrecker |
+| 893 | 96 | KayLynn Ogden McClelland |
+| 894 | 96 | Grimwitch |
+| 895 | 96 | Beverly-Jo Peterson |
+| 896 | 96 | Dhelsie Qurasima |
+| 897 | 96 | Chirpy Clearpiece |
 | 898 | 96 | Kay Newcomb |
 | 899 | 95 | Marla Paden |
 | 900 | 95 | Nadine Velardo |
-| 901 | 94 | Kiersty Redder |
-| 902 | 94 | Rubics cube |
-| 903 | 94 | Countrybling77 |
-| 904 | 94 | Raymond Dawson |
-| 905 | 94 | CEK |
-| 906 | 94 | Paige Lynette Sohl |
-| 907 | 93 | Mataya |
-| 908 | 93 | Becky Kennon |
-| 909 | 93 | Connie Marie Cornell Lerma |
+| 901 | 94 | Countrybling77 |
+| 902 | 94 | Paige Lynette Sohl |
+| 903 | 94 | CEK |
+| 904 | 94 | Kiersty Redder |
+| 905 | 94 | Rubics cube |
+| 906 | 94 | Raymond Dawson |
+| 907 | 93 | Connie Marie Cornell Lerma |
+| 908 | 93 | Mataya |
+| 909 | 93 | Becky Kennon |
 | 910 | 93 | YAKO |
 | 911 | 93 | Connie Breeden |
 | 912 | 93 | Dawnypooh |
@@ -1465,24 +1465,24 @@
 | 1457 | 43 | Kayla Faulkiner |
 | 1458 | 43 | Betty Muise |
 | 1459 | 43 | Aguilar Rita |
-| 1460 | 43 | Rachel Huber |
-| 1461 | 43 | Fluffypuffin |
-| 1462 | 43 | Dreamy Wipepiece |
-| 1463 | 43 | Ashley Parrish |
-| 1464 | 43 | Paula Stell |
-| 1465 | 43 | Michelle Brown |
-| 1466 | 43 | Patricia Ann Tondreault Hammonds |
-| 1467 | 43 | Maurice Bethel |
-| 1468 | 43 | Snoop |
-| 1469 | 43 | Quirky Shifter |
-| 1470 | 42 | Chrissy Hess |
-| 1471 | 42 | Christopher S Lawyer |
-| 1472 | 42 | Peachy Builderpiece |
-| 1473 | 42 | June Salevao |
-| 1474 | 42 | Amanda Jungclaus |
-| 1475 | 42 | Flashy Blockfall |
-| 1476 | 42 | April Owings |
-| 1477 | 42 | Mario Hillman |
+| 1460 | 43 | Mario Hillman |
+| 1461 | 43 | Rachel Huber |
+| 1462 | 43 | Fluffypuffin |
+| 1463 | 43 | Dreamy Wipepiece |
+| 1464 | 43 | Ashley Parrish |
+| 1465 | 43 | Paula Stell |
+| 1466 | 43 | Michelle Brown |
+| 1467 | 43 | Patricia Ann Tondreault Hammonds |
+| 1468 | 43 | Maurice Bethel |
+| 1469 | 43 | Snoop |
+| 1470 | 43 | Quirky Shifter |
+| 1471 | 42 | Chrissy Hess |
+| 1472 | 42 | Christopher S Lawyer |
+| 1473 | 42 | Peachy Builderpiece |
+| 1474 | 42 | June Salevao |
+| 1475 | 42 | Amanda Jungclaus |
+| 1476 | 42 | Flashy Blockfall |
+| 1477 | 42 | April Owings |
 | 1478 | 42 | Shylo Bryant-Brunson |
 | 1479 | 42 | Clever Linkbuilder |
 | 1480 | 42 | Toni Tortorici Humphryes |
