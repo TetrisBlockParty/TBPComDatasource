@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:39:20 UTC
+# Standings for team2 as of 2026-06-08 08:40:19 UTC
 
 **Total Participants:** 2137
 
@@ -142,10 +142,10 @@
 | 134 | 732 | Loopy Cascadepiece |
 | 135 | 728 | Groovy Snapper |
 | 136 | 708 | Le Sandy |
-| 137 | 686 | Brandon Link |
-| 138 | 682 | Wmk Rathbun |
-| 139 | 679 | Zappy Pattern |
-| 140 | 677 | Melissa Thomas |
+| 137 | 692 | Melissa Thomas |
+| 138 | 686 | Brandon Link |
+| 139 | 682 | Wmk Rathbun |
+| 140 | 679 | Zappy Pattern |
 | 141 | 671 | Gloria May Shook |
 | 142 | 670 | Krisanne Kesner-Lonsby |
 | 143 | 660 | Nikki Carter |

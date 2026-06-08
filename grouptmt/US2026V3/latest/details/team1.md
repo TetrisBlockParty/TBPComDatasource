@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:39:20 UTC
+# Standings for team1 as of 2026-06-08 08:40:19 UTC
 
 **Total Participants:** 1763
 
@@ -237,9 +237,9 @@
 | 229 | 328 | Dion Gray |
 | 230 | 327 | Zachary Colegrove |
 | 231 | 326 | Christopher Dreamsareality McEachin |
-| 232 | 323 | Bre Poston |
-| 233 | 323 | Heather Aurelia |
-| 234 | 322 | Byron Mario Cawthon |
+| 232 | 324 | Byron Mario Cawthon |
+| 233 | 323 | Bre Poston |
+| 234 | 323 | Heather Aurelia |
 | 235 | 322 | Rhonda Williams Warner |
 | 236 | 321 | Qwlonda Shirrell |
 | 237 | 320 | Natasha Rucker |
@@ -1706,15 +1706,15 @@
 | 1698 | 8 | Chill Tumbler |
 | 1699 | 8 | Chevonne Huggins |
 | 1700 | 8 | Groovy Riseclear |
-| 1701 | 7 | Shane Brucewayne |
-| 1702 | 7 | Jamal Richmond |
-| 1703 | 7 | RMGreen |
-| 1704 | 7 | Bryan Dell |
-| 1705 | 7 | Sheena Hamilton |
-| 1706 | 7 | Mary2 |
-| 1707 | 7 | CauliMac |
+| 1701 | 7 | Sassy Dashfit |
+| 1702 | 7 | RMGreen |
+| 1703 | 7 | Bryan Dell |
+| 1704 | 7 | Sheena Hamilton |
+| 1705 | 7 | Mary2 |
+| 1706 | 7 | CauliMac |
+| 1707 | 7 | Shane Brucewayne |
 | 1708 | 7 | Andrew Harris |
-| 1709 | 7 | Sassy Dashfit |
+| 1709 | 7 | Schuyler Carson Jackson |
 | 1710 | 7 | Court Ney |
 | 1711 | 7 | Alexis Farquer |
 | 1712 | 7 | Deadra Graham |
@@ -1728,47 +1728,47 @@
 | 1720 | 7 | Brittany Killebrew |
 | 1721 | 7 | John Boone |
 | 1722 | 7 | Teresa F. Campos Eaton |
-| 1723 | 7 | KingSlim82 |
-| 1724 | 7 | Milfchaser530 |
+| 1723 | 7 | Milfchaser530 |
+| 1724 | 7 | Jamal Richmond |
 | 1725 | 7 | Dimitri Moore |
 | 1726 | 7 | Frisky Cascadefit |
 | 1727 | 7 | Hyper Basepiece |
-| 1728 | 6 | NEM0228 |
-| 1729 | 6 | Nerdy Slam |
-| 1730 | 6 | Andrae Robinson |
-| 1731 | 6 | Shadena M Carter Mba |
-| 1732 | 6 | Tammy Hooser |
-| 1733 | 6 | Giddy Bricky |
-| 1734 | 6 | DaShawntae Durham |
-| 1735 | 6 | Sunny Shatterer |
-| 1736 | 6 | party t-rex 27 |
-| 1737 | 6 | CK |
-| 1738 | 6 | Kyshia |
+| 1728 | 7 | KingSlim82 |
+| 1729 | 6 | Shadena M Carter Mba |
+| 1730 | 6 | NEM0228 |
+| 1731 | 6 | Nerdy Slam |
+| 1732 | 6 | Andrae Robinson |
+| 1733 | 6 | Tammy Hooser |
+| 1734 | 6 | Giddy Bricky |
+| 1735 | 6 | DaShawntae Durham |
+| 1736 | 6 | Sunny Shatterer |
+| 1737 | 6 | party t-rex 27 |
+| 1738 | 6 | CK |
 | 1739 | 6 | Lynn Formby |
-| 1740 | 6 | Stevie Malcon |
-| 1741 | 6 | Ruben Baca |
-| 1742 | 6 | Nena |
-| 1743 | 6 | Jennifer Rogers |
-| 1744 | 5 | Godz Chosen |
-| 1745 | 5 | MrKeith Debraux |
+| 1740 | 6 | Kyshia |
+| 1741 | 6 | Stevie Malcon |
+| 1742 | 6 | Jennifer Rogers |
+| 1743 | 6 | Ruben Baca |
+| 1744 | 6 | Nena |
+| 1745 | 5 | Crafty Fallzone |
 | 1746 | 5 | the guy |
 | 1747 | 5 | Wacky1 |
-| 1748 | 5 | Angelique Thomas |
-| 1749 | 5 | Pamela Cooper |
-| 1750 | 5 | pettymexoxo |
-| 1751 | 5 | Joy Baker |
-| 1752 | 5 | Goofy T-spin |
-| 1753 | 5 | Crafty Fallzone |
-| 1754 | 5 | Andy Barnett |
-| 1755 | 5 | Misty Sollberger |
-| 1756 | 5 | Amber Interrobang |
-| 1757 | 5 | Jennifer Haton Kreighbaum |
-| 1758 | 5 | Derek Beverly |
-| 1759 | 5 | Joi |
+| 1748 | 5 | Pamela Cooper |
+| 1749 | 5 | pettymexoxo |
+| 1750 | 5 | Goofy T-spin |
+| 1751 | 5 | Misty Sollberger |
+| 1752 | 5 | Jennifer Haton Kreighbaum |
+| 1753 | 5 | Angelique Thomas |
+| 1754 | 5 | MrKeith Debraux |
+| 1755 | 5 | Joy Baker |
+| 1756 | 5 | Andy Barnett |
+| 1757 | 5 | Zesty Brickline |
+| 1758 | 5 | Godz Chosen |
+| 1759 | 5 | VERA DAME |
 | 1760 | 5 | Happy |
-| 1761 | 5 | VERA DAME |
-| 1762 | 5 | Schuyler Carson Jackson |
-| 1763 | 5 | Zesty Brickline |
+| 1761 | 5 | Joi |
+| 1762 | 5 | Derek Beverly |
+| 1763 | 5 | Amber Interrobang |
 
 ---
 *Standings created by tournaments datasource generation tool*
