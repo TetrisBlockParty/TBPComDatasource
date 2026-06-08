@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:58:42 UTC
+# Standings for team1 as of 2026-06-08 08:59:20 UTC
 
 **Total Participants:** 1764
 
@@ -14,8 +14,8 @@
 | 6 | 8746 | Tyeina Johnson |
 | 7 | 8669 | Songne Arif |
 | 8 | 8278 | Debbie Carswell |
-| 9 | 7934 | Dyane Leah Ware |
-| 10 | 7734 | Death by SnuSnu |
+| 9 | 8042 | Death by SnuSnu |
+| 10 | 7934 | Dyane Leah Ware |
 | 11 | 7491 | Tracy Cohen |
 | 12 | 7163 | Cozy Edge |
 | 13 | 6336 | Speedy Spinblock |
@@ -426,67 +426,67 @@
 | 418 | 177 | Valerie Alexander |
 | 419 | 177 | Cece Fowler |
 | 420 | 174 | NewEve |
-| 421 | 174 | ChunLi |
+| 421 | 174 | Rachael R Gull |
 | 422 | 174 | Dizzy Dashy |
-| 423 | 174 | Rachael R Gull |
+| 423 | 174 | ChunLi |
 | 424 | 173 | LuckyStar |
 | 425 | 172 | Kendra McIntyre |
-| 426 | 171 | Brittany Fells |
-| 427 | 171 | Telisha Mims |
+| 426 | 171 | Telisha Mims |
+| 427 | 171 | Brittany Fells |
 | 428 | 170 | Hasty Glidezone |
 | 429 | 169 | Clipzby |
 | 430 | 169 | rb |
 | 431 | 169 | Bubbly Piececlear |
-| 432 | 168 | Shanns |
-| 433 | 168 | Lounique |
-| 434 | 167 | Charlene Baltimore |
-| 435 | 167 | MonaSparks |
+| 432 | 168 | Lounique |
+| 433 | 168 | Shanns |
+| 434 | 167 | Kate Hancock Malicek |
+| 435 | 167 | Charlene Baltimore |
 | 436 | 167 | Mister Reid |
-| 437 | 166 | Analiza Ramos |
-| 438 | 166 | Teresa Yanira Cepeda |
-| 439 | 166 | Melissa Olvera |
-| 440 | 166 | BlackQueen105 |
-| 441 | 165 | Tanisha Taylor |
-| 442 | 165 | SceneGreenz Wali |
+| 437 | 167 | MonaSparks |
+| 438 | 166 | BlackQueen105 |
+| 439 | 166 | Teresa Yanira Cepeda |
+| 440 | 166 | Melissa Olvera |
+| 441 | 166 | Analiza Ramos |
+| 442 | 165 | Tanisha Taylor |
 | 443 | 165 | Juan Alvarez |
-| 444 | 164 | Giggy Clusterer |
+| 444 | 165 | SceneGreenz Wali |
 | 445 | 164 | Dede Tate |
 | 446 | 164 | Breezy Catcher |
-| 447 | 164 | Kate Hancock Malicek |
+| 447 | 164 | Giggy Clusterer |
 | 448 | 163 | Daring Blockclear |
 | 449 | 163 | Dandy Brickfit |
-| 450 | 162 | Speedy Stacky |
-| 451 | 162 | Twisty Cascadeclear |
+| 450 | 162 | Twisty Cascadeclear |
+| 451 | 162 | Speedy Stacky |
 | 452 | 162 | Lauraly |
 | 453 | 161 | boogeywoogey |
 | 454 | 161 | Devron Reedy |
-| 455 | 160 | Adrian Wilson |
-| 456 | 160 | Carolyn Smith |
-| 457 | 160 | Jean Regis |
-| 458 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 459 | 160 | Slinky Clearzone |
-| 460 | 160 | Cheeky Twistpiece |
-| 461 | 160 | Malcolm Stanley |
-| 462 | 160 | Tracey Johnson |
+| 455 | 160 | Tracey Johnson |
+| 456 | 160 | Adrian Wilson |
+| 457 | 160 | Carolyn Smith |
+| 458 | 160 | Slinky Clearzone |
+| 459 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 460 | 160 | Jean Regis |
+| 461 | 160 | Cheeky Twistpiece |
+| 462 | 160 | Malcolm Stanley |
 | 463 | 159 | Tee Spinks |
 | 464 | 159 | Loopy Tiler |
 | 465 | 158 | Mahagony Small |
 | 466 | 158 | Kimberly Linares Hernandez |
 | 467 | 157 | Rachel Renae Bettis |
-| 468 | 156 | Chris Holland |
-| 469 | 156 | Amy Villalpando |
-| 470 | 156 | Shalya Terry |
-| 471 | 156 | Johnathan Deese |
-| 472 | 156 | Lakiesha Crawford |
+| 468 | 156 | Johnathan Deese |
+| 469 | 156 | Shalya Terry |
+| 470 | 156 | Chris Holland |
+| 471 | 156 | Lakiesha Crawford |
+| 472 | 156 | Amy Villalpando |
 | 473 | 155 | Tajuana Juana'Cee Coleman |
 | 474 | 155 | Jae Thompson-Tyus |
-| 475 | 155 | Kala Miller |
-| 476 | 155 | Katrina Ramey |
+| 475 | 155 | Katrina Ramey |
+| 476 | 155 | Kala Miller |
 | 477 | 155 | Miera Nicole |
-| 478 | 154 | Ciera Peace |
-| 479 | 154 | Jenni Hardman |
-| 480 | 154 | Rebecca Jackson |
-| 481 | 154 | Dorian Griffin |
+| 478 | 154 | Jenni Hardman |
+| 479 | 154 | Ciera Peace |
+| 480 | 154 | Dorian Griffin |
+| 481 | 154 | Rebecca Jackson |
 | 482 | 154 | Brittanie Wardlow |
 | 483 | 154 | Glitzy Clusterer |
 | 484 | 152 | Wacky Stackbuilder |

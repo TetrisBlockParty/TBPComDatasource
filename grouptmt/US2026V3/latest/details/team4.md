@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:58:42 UTC
+# Standings for team4 as of 2026-06-08 08:59:20 UTC
 
 **Total Participants:** 1801
 
@@ -411,7 +411,7 @@
 | 403 | 186 | Tiffany Morris Garner |
 | 404 | 186 | Dizzy Slammer |
 | 405 | 185 | Valerie Silva |
-| 406 | 184 | Miss Beast |
+| 406 | 185 | Miss Beast |
 | 407 | 182 | Swanky Snapgrid |
 | 408 | 182 | Ashley Eskridge |
 | 409 | 181 | Danny Frausto |
@@ -576,71 +576,71 @@
 | 568 | 128 | Alizabeth Garcia |
 | 569 | 128 | Ajohnna Frazee |
 | 570 | 127 | Cheeky Climber |
-| 571 | 127 | Mc3003 |
-| 572 | 127 | Janae Harris |
-| 573 | 127 | Noa Lee |
-| 574 | 127 | Perry Ransom |
-| 575 | 127 | Kellz M Bee |
-| 576 | 126 | Lisa Pie |
-| 577 | 126 | Vanessa Sykes |
-| 578 | 125 | Joshua Hunt |
-| 579 | 125 | Nessa Smith |
-| 580 | 125 | Youngkueen |
+| 571 | 127 | Kellz M Bee |
+| 572 | 127 | Perry Ransom |
+| 573 | 127 | Janae Harris |
+| 574 | 127 | Mc3003 |
+| 575 | 127 | Noa Lee |
+| 576 | 126 | Vanessa Sykes |
+| 577 | 126 | Lisa Pie |
+| 578 | 126 | Izz |
+| 579 | 125 | Youngkueen |
+| 580 | 125 | Joshua Hunt |
 | 581 | 125 | Corey Jackson |
-| 582 | 124 | PsyDMom |
-| 583 | 124 | Snappy Stack |
+| 582 | 125 | Nessa Smith |
+| 583 | 124 | PsyDMom |
 | 584 | 124 | Vonni McLean |
 | 585 | 124 | Brian Woods |
-| 586 | 123 | Arvin Ortega |
-| 587 | 123 | Sarah Perry Cook |
-| 588 | 123 | Tamara Gay |
-| 589 | 123 | Amanda Snow |
-| 590 | 123 | Kari Smith |
-| 591 | 122 | Csigirlnc |
-| 592 | 122 | Ian T Parker |
-| 593 | 121 | Fancy Tilefall |
-| 594 | 121 | Giggy Snapgrid |
-| 595 | 121 | Brandi Sauer |
-| 596 | 121 | Quiles Yaitza |
-| 597 | 121 | Garden Girlie |
-| 598 | 120 | Giddy Basepiece |
-| 599 | 120 | Stotty |
-| 600 | 120 | Allysonjo Varela |
+| 586 | 124 | Snappy Stack |
+| 587 | 123 | Arvin Ortega |
+| 588 | 123 | Sarah Perry Cook |
+| 589 | 123 | Tamara Gay |
+| 590 | 123 | Amanda Snow |
+| 591 | 123 | Kari Smith |
+| 592 | 122 | Csigirlnc |
+| 593 | 122 | Ian T Parker |
+| 594 | 121 | Garden Girlie |
+| 595 | 121 | Fancy Tilefall |
+| 596 | 121 | Giggy Snapgrid |
+| 597 | 121 | Brandi Sauer |
+| 598 | 121 | Quiles Yaitza |
+| 599 | 120 | Giddy Basepiece |
+| 600 | 120 | Stotty |
 | 601 | 120 | Urplan |
-| 602 | 120 | Glamorous Gracey |
-| 603 | 120 | Anthony Edwards |
-| 604 | 120 | Jenn Wilson |
-| 605 | 120 | Jimmy Clark |
-| 606 | 120 | George Marshburn |
-| 607 | 119 | Rhonda Dowling |
-| 608 | 119 | Brittany Lentz |
-| 609 | 119 | Electric Storm |
-| 610 | 119 | BookwormCate |
-| 611 | 118 | Jacqueline Arce |
-| 612 | 118 | Jennifer Naughton |
-| 613 | 117 | Hasty Dropzone |
-| 614 | 117 | Teester |
-| 615 | 117 | Kay |
+| 602 | 120 | Allysonjo Varela |
+| 603 | 120 | Glamorous Gracey |
+| 604 | 120 | Anthony Edwards |
+| 605 | 120 | George Marshburn |
+| 606 | 120 | Jimmy Clark |
+| 607 | 120 | Jenn Wilson |
+| 608 | 119 | Rhonda Dowling |
+| 609 | 119 | BookwormCate |
+| 610 | 119 | Electric Storm |
+| 611 | 119 | Brittany Lentz |
+| 612 | 118 | Jacqueline Arce |
+| 613 | 118 | Jennifer Naughton |
+| 614 | 117 | Hasty Dropzone |
+| 615 | 117 | Sarah |
 | 616 | 117 | YenSid |
-| 617 | 117 | Sarah |
-| 618 | 116 | Aaron Turner |
-| 619 | 116 | Izz |
+| 617 | 117 | Kay |
+| 618 | 117 | Teester |
+| 619 | 116 | Aaron Turner |
 | 620 | 115 | Giggy Bridgepiece |
-| 621 | 115 | Jasmine Turner |
+| 621 | 115 | Heidi Hala |
 | 622 | 115 | chuck |
-| 623 | 115 | Heidi Hala |
-| 624 | 115 | pussface |
-| 625 | 114 | Jason Moves |
-| 626 | 114 | Breezy Rollfit |
-| 627 | 114 | Jeremy Barry |
+| 623 | 115 | pussface |
+| 624 | 115 | Jasmine Turner |
+| 625 | 114 | Breezy Rollfit |
+| 626 | 114 | Jason Moves |
+| 627 | 114 | MrLoner Stoner |
 | 628 | 114 | Loretta Hendricks |
-| 629 | 114 | LandO |
-| 630 | 114 | MrLoner Stoner |
+| 629 | 114 | Jeremy Barry |
+| 630 | 114 | LandO |
 | 631 | 113 | mikey moo |
-| 632 | 113 | Butterfly |
-| 633 | 113 | Marina |
-| 634 | 113 | Shaunna Caldwell |
-| 635 | 113 | Breezy Wife |
+| 632 | 113 | Marina |
+| 633 | 113 | Shaunna Caldwell |
+| 634 | 113 | Breezy Wife |
+| 635 | 113 | Butterfly |
 | 636 | 113 | Melissa Anne |
 | 637 | 112 | JustLessie |
 | 638 | 112 | Lolita Nettles |
