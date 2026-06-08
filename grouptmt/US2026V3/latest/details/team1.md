@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 04:10:19 UTC
+# Standings for team1 as of 2026-06-08 04:10:41 UTC
 
 **Total Participants:** 1707
 
@@ -162,30 +162,30 @@
 | 154 | 439 | Asani CHumba |
 | 155 | 437 | Tobey Marberry |
 | 156 | 435 | Nobles Brandon |
-| 157 | 431 | Lashawn Wallace |
-| 158 | 427 | Ty Øtg |
-| 159 | 420 | Hyper Slamdrop |
-| 160 | 420 | Jessica Carter |
-| 161 | 417 | Dena Marie Lee |
-| 162 | 412 | Dee McCool |
-| 163 | 409 | Lashaunda |
-| 164 | 405 | SPNLover24 |
-| 165 | 396 | Chuck Quarles |
-| 166 | 394 | Simmone T. Kadiri |
-| 167 | 393 | Sheila Burnham |
-| 168 | 393 | Sharon Cail |
-| 169 | 389 | GrkGdess |
-| 170 | 389 | Eugina Slater |
-| 171 | 389 | Roberta Lynn |
-| 172 | 387 | Karebear |
-| 173 | 387 | Crystal Anderson |
-| 174 | 384 | Christana Imjustbutton Stone |
-| 175 | 384 | Jenna Renee |
-| 176 | 380 | Felicia Cain |
-| 177 | 380 | Dulo |
-| 178 | 377 | AF Cruz |
-| 179 | 375 | Joey Albright |
-| 180 | 373 | Spunky Edgefit |
+| 157 | 434 | Spunky Edgefit |
+| 158 | 431 | Lashawn Wallace |
+| 159 | 427 | Ty Øtg |
+| 160 | 420 | Hyper Slamdrop |
+| 161 | 420 | Jessica Carter |
+| 162 | 417 | Dena Marie Lee |
+| 163 | 412 | Dee McCool |
+| 164 | 409 | Lashaunda |
+| 165 | 405 | SPNLover24 |
+| 166 | 396 | Chuck Quarles |
+| 167 | 394 | Simmone T. Kadiri |
+| 168 | 393 | Sheila Burnham |
+| 169 | 393 | Sharon Cail |
+| 170 | 389 | GrkGdess |
+| 171 | 389 | Eugina Slater |
+| 172 | 389 | Roberta Lynn |
+| 173 | 387 | Karebear |
+| 174 | 387 | Crystal Anderson |
+| 175 | 384 | Christana Imjustbutton Stone |
+| 176 | 384 | Jenna Renee |
+| 177 | 380 | Felicia Cain |
+| 178 | 380 | Dulo |
+| 179 | 377 | AF Cruz |
+| 180 | 375 | Joey Albright |
 | 181 | 371 | Murg4dr01d |
 | 182 | 370 | Allison Baxter |
 | 183 | 369 | xXEKUNXx |
@@ -197,21 +197,21 @@
 | 189 | 362 | Jessica Russell |
 | 190 | 361 | John Staub |
 | 191 | 359 | pooh |
-| 192 | 356 | Haley Bell |
+| 192 | 356 | Dedra M Prester |
 | 193 | 356 | Tina Mitchell |
-| 194 | 356 | Dedra M Prester |
+| 194 | 356 | Haley Bell |
 | 195 | 352 | Jayjay Rich |
 | 196 | 350 | Slim Shedidthat |
 | 197 | 348 | IThinkNot |
 | 198 | 347 | Tamara N Lee |
-| 199 | 345 | Marcheta Cervantez |
-| 200 | 345 | Ebony |
+| 199 | 345 | Ebony |
+| 200 | 345 | Marcheta Cervantez |
 | 201 | 343 | Yasmin Nakea Wright |
 | 202 | 342 | Mic Balew |
 | 203 | 340 | Spicy Risepiece |
 | 204 | 335 | Zappy Riser |
-| 205 | 334 | Po Marley |
-| 206 | 334 | Plucky Slamdrop |
+| 205 | 334 | Plucky Slamdrop |
+| 206 | 334 | Po Marley |
 | 207 | 333 | Latisha Fairley |
 | 208 | 330 | Davionte DaeDae Hopson-Rodriguez |
 | 209 | 328 | Brand Nu |
@@ -356,8 +356,8 @@
 | 348 | 200 | kitten |
 | 349 | 199 | Fina McKinnis |
 | 350 | 198 | izzybella |
-| 351 | 195 | Lisa Fletcher |
-| 352 | 195 | Peppy Glider |
+| 351 | 197 | Peppy Glider |
+| 352 | 195 | Lisa Fletcher |
 | 353 | 194 | Cheery Linkfall |
 | 354 | 192 | Hyper Blocky |
 | 355 | 190 | Chipper Snapper |
@@ -370,11 +370,11 @@
 | 362 | 188 | Tyiesha Pie Farmer |
 | 363 | 187 | MACHETEEDDIE513 |
 | 364 | 186 | McKayla Owens |
-| 365 | 185 | Giggy Tower |
-| 366 | 184 | Bbyunicorn |
-| 367 | 184 | Amy Lynn Leifheit |
-| 368 | 183 | Mary Phillippi Blanton |
-| 369 | 183 | De'Nell Edwards |
+| 365 | 186 | De'Nell Edwards |
+| 366 | 185 | Giggy Tower |
+| 367 | 184 | Bbyunicorn |
+| 368 | 184 | Amy Lynn Leifheit |
+| 369 | 183 | Mary Phillippi Blanton |
 | 370 | 182 | Kyra Coleman |
 | 371 | 182 | Eric Spencer Whitaker |
 | 372 | 182 | Courtney Cicoria |
