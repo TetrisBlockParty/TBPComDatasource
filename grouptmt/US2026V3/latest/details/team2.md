@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:34:20 UTC
+# Standings for team2 as of 2026-06-08 07:34:42 UTC
 
 **Total Participants:** 2133
 
@@ -454,24 +454,24 @@
 | 446 | 195 | Reign Hustler |
 | 447 | 194 | Brian Favre |
 | 448 | 194 | Jessica Connot |
-| 449 | 192 | Loopy Tower |
-| 450 | 192 | Raine |
+| 449 | 192 | Raine |
+| 450 | 192 | Loopy Tower |
 | 451 | 191 | Nano. |
 | 452 | 191 | Sarah Jane Gorsuch |
 | 453 | 190 | Lisa Allen Frisk |
-| 454 | 190 | Lively Curve |
-| 455 | 190 | Saucy Wrecker |
+| 454 | 190 | Saucy Wrecker |
+| 455 | 190 | Lively Curve |
 | 456 | 189 | Danielle Lyons |
 | 457 | 187 | Jaimie Walters |
 | 458 | 185 | straighttiptoe |
-| 459 | 185 | Sillyk |
-| 460 | 185 | Brooklyn Todd |
+| 459 | 185 | Brooklyn Todd |
+| 460 | 185 | Sillyk |
 | 461 | 185 | Vicki Flippo |
 | 462 | 185 | Monee Stronger |
 | 463 | 184 | Joannah Capilitan |
-| 464 | 184 | IncrediDragon |
-| 465 | 184 | Sandy Rundel Holderman |
-| 466 | 184 | Melissa Abbott |
+| 464 | 184 | Sandy Rundel Holderman |
+| 465 | 184 | Melissa Abbott |
+| 466 | 184 | IncrediDragon |
 | 467 | 184 | Nancy Schwartz Gusman-Oliver |
 | 468 | 184 | Alicia Ellenburg |
 | 469 | 183 | murd3rmous3 |
@@ -482,26 +482,26 @@
 | 474 | 180 | Laura Larsen |
 | 475 | 180 | Ashley Voelz |
 | 476 | 180 | Zany Wrecker |
-| 477 | 179 | Jenni LeBlanc |
-| 478 | 179 | Michael Carmichael |
-| 479 | 179 | Kevin Patrick |
-| 480 | 179 | Holly Huval |
-| 481 | 179 | Perii Reynoso |
-| 482 | 179 | Derrick |
-| 483 | 179 | Bengy Lead |
+| 477 | 179 | Bengy Lead |
+| 478 | 179 | Jenni LeBlanc |
+| 479 | 179 | Michael Carmichael |
+| 480 | 179 | Kevin Patrick |
+| 481 | 179 | Holly Huval |
+| 482 | 179 | Perii Reynoso |
+| 483 | 179 | Derrick |
 | 484 | 179 | Teresa Mandich |
-| 485 | 178 | Duke Morley |
-| 486 | 178 | Rocroc mo |
-| 487 | 178 | Ssirkus |
-| 488 | 177 | Gluten Gremlin |
-| 489 | 177 | Rydin Dirt |
-| 490 | 176 | Jana Campbell |
-| 491 | 176 | Kay |
-| 492 | 174 | Leticia Tillman |
+| 485 | 178 | Ssirkus |
+| 486 | 178 | Duke Morley |
+| 487 | 178 | Rocroc mo |
+| 488 | 177 | Rydin Dirt |
+| 489 | 177 | Lee Leonard |
+| 490 | 177 | Gluten Gremlin |
+| 491 | 176 | Jana Campbell |
+| 492 | 176 | Kay |
 | 493 | 174 | Laurie |
-| 494 | 172 | Rescuegirl76 |
-| 495 | 172 | Lee Leonard |
-| 496 | 172 | Mandy |
+| 494 | 174 | Leticia Tillman |
+| 495 | 172 | Mandy |
+| 496 | 172 | Rescuegirl76 |
 | 497 | 172 | Charity Hauser |
 | 498 | 170 | Dapper Riser |
 | 499 | 170 | Amber Carpenter |
