@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:06:18 UTC
+# Standings for team2 as of 2026-06-08 09:06:42 UTC
 
 **Total Participants:** 2140
 
@@ -27,7 +27,7 @@
 | 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
 | 21 | 4947 | Lola C Davis |
-| 22 | 4602 | Bobbi |
+| 22 | 4701 | Bobbi |
 | 23 | 4459 | Kathleen M Cox |
 | 24 | 4355 | Alexia Reagan |
 | 25 | 4228 | Erica Dees Parks |
@@ -1102,40 +1102,40 @@
 | 1094 | 71 | Joey Grillo |
 | 1095 | 71 | Michele Plunkett |
 | 1096 | 71 | Alessandria Anderson |
-| 1097 | 70 | Stazy Warner |
-| 1098 | 70 | Jacy Pickett |
-| 1099 | 70 | Elizabeth Henry |
+| 1097 | 70 | Shannon Michelle |
+| 1098 | 70 | Rob Phillips |
+| 1099 | 70 | Stazy Warner |
 | 1100 | 70 | Dottie Leavy Van Deventer |
 | 1101 | 70 | Melissa Aycock |
-| 1102 | 70 | Alisha Kralicek Trainham |
+| 1102 | 70 | TheAggie12 |
 | 1103 | 70 | Shannon D. Turk |
-| 1104 | 70 | Shannon Michelle |
-| 1105 | 70 | TheAggie12 |
-| 1106 | 70 | Cool Balancer |
-| 1107 | 70 | Justin Furne |
-| 1108 | 70 | Rosie |
-| 1109 | 70 | Peppy Piececlear |
-| 1110 | 70 | Cassafrass |
-| 1111 | 70 | Andrea Spinelli |
-| 1112 | 70 | Christi Hooper |
-| 1113 | 70 | Elnaz Mokleh |
-| 1114 | 70 | Duck |
-| 1115 | 70 | Abby Dexter |
-| 1116 | 70 | Kelly Hall Whitt |
-| 1117 | 69 | REE4 |
-| 1118 | 69 | Jolene Hull Hearn |
-| 1119 | 69 | Mona Wagner |
-| 1120 | 69 | Jackie Moran Tiller |
-| 1121 | 69 | Goofy Patternfit |
-| 1122 | 69 | Glowing Earthy Embers |
-| 1123 | 69 | Loretta Crow |
-| 1124 | 69 | Mandy Anderson |
+| 1104 | 70 | Alisha Kralicek Trainham |
+| 1105 | 70 | Elizabeth Henry |
+| 1106 | 70 | Jacy Pickett |
+| 1107 | 70 | Cool Balancer |
+| 1108 | 70 | Justin Furne |
+| 1109 | 70 | Rosie |
+| 1110 | 70 | Peppy Piececlear |
+| 1111 | 70 | Cassafrass |
+| 1112 | 70 | Andrea Spinelli |
+| 1113 | 70 | Christi Hooper |
+| 1114 | 70 | Elnaz Mokleh |
+| 1115 | 70 | Duck |
+| 1116 | 70 | Abby Dexter |
+| 1117 | 70 | Kelly Hall Whitt |
+| 1118 | 69 | REE4 |
+| 1119 | 69 | Jolene Hull Hearn |
+| 1120 | 69 | Mona Wagner |
+| 1121 | 69 | Jackie Moran Tiller |
+| 1122 | 69 | Goofy Patternfit |
+| 1123 | 69 | Glowing Earthy Embers |
+| 1124 | 69 | Loretta Crow |
 | 1125 | 69 | Nonnie |
-| 1126 | 69 | DragonJB2020 |
-| 1127 | 69 | Shanna Jones Scott |
-| 1128 | 68 | Melissa Mae |
-| 1129 | 68 | Rob Phillips |
-| 1130 | 68 | Viola Fletcher |
+| 1126 | 69 | Shanna Jones Scott |
+| 1127 | 69 | Mandy Anderson |
+| 1128 | 69 | DragonJB2020 |
+| 1129 | 68 | Viola Fletcher |
+| 1130 | 68 | Melissa Mae |
 | 1131 | 68 | April Appleton |
 | 1132 | 68 | Sami Amato |
 | 1133 | 68 | Anthony Kordich |
