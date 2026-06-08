@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-08 22:50:21 UTC
+# Standings for team3 as of 2026-06-08 22:50:44 UTC
 
 **Total Participants:** 7470
 
@@ -516,8 +516,8 @@
 | 508 | 722 | Jallo |
 | 509 | 719 | Ashley Grant |
 | 510 | 718 | Lynn Smith Herwat |
-| 511 | 716 | Heather M Purcell |
-| 512 | 716 | Kim Barnes |
+| 511 | 716 | Kim Barnes |
+| 512 | 716 | Heather M Purcell |
 | 513 | 714 | Jerica Eberhardt |
 | 514 | 713 | Kayla Bergeron |
 | 515 | 712 | Issa G Thang |
@@ -535,8 +535,8 @@
 | 527 | 691 | Krista Rae |
 | 528 | 689 | davis13 |
 | 529 | 688 | Trella Trella |
-| 530 | 685 | Hasty Cluster |
-| 531 | 685 | Crystal Casper |
+| 530 | 685 | Crystal Casper |
+| 531 | 685 | Hasty Cluster |
 | 532 | 683 | Jeremy Couch |
 | 533 | 682 | Jvo |
 | 534 | 681 | Loony Smasher |
@@ -558,25 +558,25 @@
 | 550 | 650 | Tim N Jennifer Oliver |
 | 551 | 647 | Christina |
 | 552 | 645 | Kenyatta Pierce |
-| 553 | 641 | B-Nuggs |
-| 554 | 640 | Tashia N Neill |
-| 555 | 639 | Dustin |
-| 556 | 638 | Always Gigi |
+| 553 | 644 | Always Gigi |
+| 554 | 641 | B-Nuggs |
+| 555 | 640 | Tashia N Neill |
+| 556 | 639 | Dustin |
 | 557 | 637 | Tim Cowart |
 | 558 | 637 | Bill Hilbert |
-| 559 | 634 | Brandon Mccorkle Ellis |
-| 560 | 633 | Selma |
-| 561 | 631 | comrade fish |
-| 562 | 631 | Rabbitfur235 |
-| 563 | 631 | LaTanya DontTestme Simon |
-| 564 | 630 | Ryan Stewart |
-| 565 | 629 | Rose Martinez |
-| 566 | 628 | Champayne Dent |
-| 567 | 627 | Jazzy Matchgrid |
-| 568 | 627 | Benitez Bella |
-| 569 | 626 | Epic Shatterbuilder |
-| 570 | 625 | Junkyard5 |
-| 571 | 625 | Alecia Bearty |
+| 559 | 635 | Alecia Bearty |
+| 560 | 634 | Brandon Mccorkle Ellis |
+| 561 | 633 | Selma |
+| 562 | 631 | comrade fish |
+| 563 | 631 | Rabbitfur235 |
+| 564 | 631 | LaTanya DontTestme Simon |
+| 565 | 630 | Ryan Stewart |
+| 566 | 629 | Rose Martinez |
+| 567 | 628 | Champayne Dent |
+| 568 | 627 | Jazzy Matchgrid |
+| 569 | 627 | Benitez Bella |
+| 570 | 626 | Epic Shatterbuilder |
+| 571 | 625 | Junkyard5 |
 | 572 | 625 | Krysten Wood |
 | 573 | 623 | Geneva E Montgomery |
 | 574 | 622 | Silly Stacky |
@@ -933,11 +933,11 @@
 | 925 | 387 | Hasty Fill |
 | 926 | 386 | Liberty-o Engelke |
 | 927 | 386 | Aldrany BayBay Willis |
-| 928 | 385 | Michael Garcia |
-| 929 | 384 | meshuggahbeats |
-| 930 | 384 | Speedy McBlocks |
-| 931 | 384 | Peachy Builderline |
-| 932 | 383 | lexci |
+| 928 | 386 | lexci |
+| 929 | 385 | Michael Garcia |
+| 930 | 384 | meshuggahbeats |
+| 931 | 384 | Speedy McBlocks |
+| 932 | 384 | Peachy Builderline |
 | 933 | 383 | Christy Dawn Cook |
 | 934 | 383 | Kat |
 | 935 | 382 | Instagator |
@@ -1131,13 +1131,13 @@
 | 1123 | 320 | Dizzy Setter |
 | 1124 | 320 | Luca |
 | 1125 | 320 | Lolo Cz |
-| 1126 | 320 | Adria Phillips |
-| 1127 | 320 | Joie |
-| 1128 | 320 | Eneles Selene |
-| 1129 | 319 | Naii |
-| 1130 | 319 | Dedeme |
-| 1131 | 319 | JJ |
-| 1132 | 319 | Billy White |
+| 1126 | 320 | Billy White |
+| 1127 | 320 | Adria Phillips |
+| 1128 | 320 | Joie |
+| 1129 | 320 | Eneles Selene |
+| 1130 | 319 | Naii |
+| 1131 | 319 | Dedeme |
+| 1132 | 319 | JJ |
 | 1133 | 319 | Jessica Green |
 | 1134 | 319 | Amanda Monn |
 | 1135 | 319 | Lively Snapline |
@@ -3759,8 +3759,8 @@
 | 3751 | 86 | auwtin |
 | 3752 | 86 | Cheyanne Kendra |
 | 3753 | 86 | Kaspars Purins |
-| 3754 | 86 | Twisty Rollblock |
-| 3755 | 86 | Pjr Rod |
+| 3754 | 86 | Pjr Rod |
+| 3755 | 86 | Twisty Rollblock |
 | 3756 | 86 | Clkx4 |
 | 3757 | 86 | StartSum |
 | 3758 | 86 | Kendra Marlow Amodei |
@@ -3798,18 +3798,18 @@
 | 3790 | 85 | Alicia Deter |
 | 3791 | 85 | Austin Carol |
 | 3792 | 85 | Clever Zoney |
-| 3793 | 85 | Crystal Claughton |
-| 3794 | 85 | Jennifer Garrett Moore |
-| 3795 | 85 | Kaone Magibisela |
-| 3796 | 85 | Jammi Bruno |
+| 3793 | 85 | Jennifer Garrett Moore |
+| 3794 | 85 | Misty Kennedy |
+| 3795 | 85 | Gina Annese |
+| 3796 | 85 | Kaone Magibisela |
 | 3797 | 85 | Katie Rauscher |
-| 3798 | 85 | Gina Annese |
-| 3799 | 85 | Misty Kennedy |
-| 3800 | 84 | Candice Owens |
-| 3801 | 84 | Nikki Darling |
-| 3802 | 84 | BertAuburn |
-| 3803 | 84 | Belinda Buis |
-| 3804 | 84 | Cool Stacky |
+| 3798 | 85 | Crystal Claughton |
+| 3799 | 85 | Jammi Bruno |
+| 3800 | 84 | Cool Stacky |
+| 3801 | 84 | BertAuburn |
+| 3802 | 84 | Belinda Buis |
+| 3803 | 84 | Nikki Darling |
+| 3804 | 84 | Candice Owens |
 | 3805 | 84 | Zak Van Ness |
 | 3806 | 84 | Nadira Mohamed |
 | 3807 | 84 | BigDaddy |
@@ -3849,74 +3849,74 @@
 | 3841 | 83 | Shain Cloutier |
 | 3842 | 83 | Foxer |
 | 3843 | 83 | Jazzy Bridgepiece |
-| 3844 | 83 | Giggly Grid |
+| 3844 | 83 | Brave Mover |
 | 3845 | 83 | Chris Campbell |
-| 3846 | 83 | Britni Arnold |
-| 3847 | 83 | TannedCannedYams |
+| 3846 | 83 | Giggly Grid |
+| 3847 | 83 | Britni Arnold |
 | 3848 | 83 | Charisma Heart |
 | 3849 | 83 | Tigerfish |
-| 3850 | 83 | Lorenzo Mcdaniel |
-| 3851 | 83 | Kara Holland |
-| 3852 | 82 | pamease |
-| 3853 | 82 | Giggy T-spin |
-| 3854 | 82 | JEMJEMJELLY |
-| 3855 | 82 | Piansakd Mukkyaprasert |
-| 3856 | 82 | Loony Smasher |
-| 3857 | 82 | Cynthia Pirtle |
-| 3858 | 82 | Patricia Marcotte |
-| 3859 | 82 | Megan Sarah Beimer |
-| 3860 | 82 | Tanisha Kozera |
-| 3861 | 82 | TRam |
-| 3862 | 82 | Amanda Doud |
-| 3863 | 82 | Cat |
-| 3864 | 82 | Blocky |
-| 3865 | 82 | Louis Ortiz |
-| 3866 | 82 | Delgadillo Herrera Mary |
-| 3867 | 82 | Polly Party Crasher |
-| 3868 | 82 | Alisha Hojem |
-| 3869 | 82 | Jasmine Frost |
-| 3870 | 82 | Fmdgaming Ttv |
-| 3871 | 82 | Zappy Twister |
-| 3872 | 82 | Baby girl |
-| 3873 | 82 | Melissa Yamashiro |
-| 3874 | 82 | Larry Amber Whatley |
-| 3875 | 82 | Joanna Fernandez Perdomo |
-| 3876 | 82 | Epic Cascadepiece |
-| 3877 | 81 | Kari Dawn Tipton |
-| 3878 | 81 | Glitzy Glidezone |
-| 3879 | 81 | Sandra Michelle Ortega |
-| 3880 | 81 | Catherine Champ |
-| 3881 | 81 | Cassie Martinez |
-| 3882 | 81 | Noneya |
-| 3883 | 81 | Katherine Marie LoPresti |
-| 3884 | 81 | Bold Swipe |
-| 3885 | 81 | Cheeky Curvetile |
-| 3886 | 81 | BestOfDBest |
-| 3887 | 81 | Patrice Gorski |
-| 3888 | 81 | Dizzy Linkfall |
-| 3889 | 81 | Shana Rae |
-| 3890 | 81 | Autumn Stingley |
-| 3891 | 81 | RayzorRaymon |
-| 3892 | 81 | Amayrani Ramos |
-| 3893 | 81 | Willow |
-| 3894 | 81 | Perky holder |
-| 3895 | 81 | Steven Switzer |
-| 3896 | 81 | Ebony Hoggard |
-| 3897 | 81 | Jere Cunningham |
-| 3898 | 81 | L |
-| 3899 | 81 | Sydney Diamond |
-| 3900 | 81 | Darci |
-| 3901 | 80 | Kyane Johnson |
-| 3902 | 80 | Destiny Hall |
-| 3903 | 80 | Konner Paraday |
+| 3850 | 83 | TannedCannedYams |
+| 3851 | 83 | Lorenzo Mcdaniel |
+| 3852 | 83 | Kara Holland |
+| 3853 | 82 | pamease |
+| 3854 | 82 | Cynthia Pirtle |
+| 3855 | 82 | Giggy T-spin |
+| 3856 | 82 | JEMJEMJELLY |
+| 3857 | 82 | Loony Smasher |
+| 3858 | 82 | Piansakd Mukkyaprasert |
+| 3859 | 82 | Patricia Marcotte |
+| 3860 | 82 | Megan Sarah Beimer |
+| 3861 | 82 | Tanisha Kozera |
+| 3862 | 82 | TRam |
+| 3863 | 82 | Amanda Doud |
+| 3864 | 82 | Cat |
+| 3865 | 82 | Blocky |
+| 3866 | 82 | Louis Ortiz |
+| 3867 | 82 | Delgadillo Herrera Mary |
+| 3868 | 82 | Polly Party Crasher |
+| 3869 | 82 | Alisha Hojem |
+| 3870 | 82 | Jasmine Frost |
+| 3871 | 82 | Fmdgaming Ttv |
+| 3872 | 82 | Zappy Twister |
+| 3873 | 82 | Baby girl |
+| 3874 | 82 | Melissa Yamashiro |
+| 3875 | 82 | Larry Amber Whatley |
+| 3876 | 82 | Joanna Fernandez Perdomo |
+| 3877 | 82 | Epic Cascadepiece |
+| 3878 | 81 | Kari Dawn Tipton |
+| 3879 | 81 | Glitzy Glidezone |
+| 3880 | 81 | Sandra Michelle Ortega |
+| 3881 | 81 | Catherine Champ |
+| 3882 | 81 | Cassie Martinez |
+| 3883 | 81 | Noneya |
+| 3884 | 81 | Katherine Marie LoPresti |
+| 3885 | 81 | Bold Swipe |
+| 3886 | 81 | Cheeky Curvetile |
+| 3887 | 81 | BestOfDBest |
+| 3888 | 81 | Patrice Gorski |
+| 3889 | 81 | Dizzy Linkfall |
+| 3890 | 81 | Shana Rae |
+| 3891 | 81 | Autumn Stingley |
+| 3892 | 81 | RayzorRaymon |
+| 3893 | 81 | Amayrani Ramos |
+| 3894 | 81 | Willow |
+| 3895 | 81 | Perky holder |
+| 3896 | 81 | Steven Switzer |
+| 3897 | 81 | Ebony Hoggard |
+| 3898 | 81 | Jere Cunningham |
+| 3899 | 81 | L |
+| 3900 | 81 | Sydney Diamond |
+| 3901 | 81 | Darci |
+| 3902 | 80 | Kyane Johnson |
+| 3903 | 80 | Destiny Hall |
 | 3904 | 80 | Julian Gray |
-| 3905 | 80 | Katie Hill |
-| 3906 | 80 | Tammie Gillespie |
-| 3907 | 80 | Bigmidget |
-| 3908 | 80 | Jessica Trzebiatowski |
-| 3909 | 80 | Sarah Hunt |
-| 3910 | 80 | Sheri Harrison |
-| 3911 | 80 | Brave Mover |
+| 3905 | 80 | Konner Paraday |
+| 3906 | 80 | Katie Hill |
+| 3907 | 80 | Tammie Gillespie |
+| 3908 | 80 | Bigmidget |
+| 3909 | 80 | Jessica Trzebiatowski |
+| 3910 | 80 | Sarah Hunt |
+| 3911 | 80 | Sheri Harrison |
 | 3912 | 80 | Cody Soukup |
 | 3913 | 80 | Mellisa Falling |
 | 3914 | 80 | Bonnie Wilson |

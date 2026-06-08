@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 22:50:21 UTC
+# Standings for team4 as of 2026-06-08 22:50:44 UTC
 
 **Total Participants:** 1946
 
@@ -175,8 +175,8 @@
 | 167 | 532 | Principal Liz |
 | 168 | 527 | Monica Emel |
 | 169 | 525 | Dana Abegil Lawas |
-| 170 | 520 | DexterDobbins |
-| 171 | 516 | Iforget |
+| 170 | 525 | Iforget |
+| 171 | 520 | DexterDobbins |
 | 172 | 516 | Shocinda Sherwood |
 | 173 | 514 | Megan Vick |
 | 174 | 513 | Real Talk Vibes |
@@ -624,17 +624,17 @@
 | 616 | 153 | Tarsha Thomas-Martinez |
 | 617 | 153 | Shawntae Mccary |
 | 618 | 153 | Kandylands |
-| 619 | 152 | All knowing |
-| 620 | 152 | Katy |
-| 621 | 151 | Renita Jordan |
-| 622 | 150 | Witty Fitblock |
-| 623 | 150 | Billy Baker |
-| 624 | 150 | Michelle Sager |
-| 625 | 150 | Kristine Hj Han |
-| 626 | 149 | Sharon Tyler |
-| 627 | 149 | Paula Renee McCracken |
-| 628 | 148 | Lisa Jones |
-| 629 | 148 | Snappy Stack |
+| 619 | 153 | Snappy Stack |
+| 620 | 152 | All knowing |
+| 621 | 152 | Katy |
+| 622 | 151 | Renita Jordan |
+| 623 | 150 | Witty Fitblock |
+| 624 | 150 | Billy Baker |
+| 625 | 150 | Michelle Sager |
+| 626 | 150 | Kristine Hj Han |
+| 627 | 149 | Sharon Tyler |
+| 628 | 149 | Paula Renee McCracken |
+| 629 | 148 | Lisa Jones |
 | 630 | 148 | Anthony McAlister |
 | 631 | 148 | Latisha TeTe Williams |
 | 632 | 147 | Allysha McFarland |
@@ -1048,60 +1048,60 @@
 | 1040 | 77 | Purple Queen |
 | 1041 | 77 | Monte Smith |
 | 1042 | 77 | Snippy Fitblock |
-| 1043 | 76 | Lashae |
-| 1044 | 76 | Glitzy Rotate |
-| 1045 | 76 | Jillian Marie |
-| 1046 | 75 | Tommy Thomas |
-| 1047 | 75 | ŁųŁų |
-| 1048 | 75 | Mighty Spinfit |
-| 1049 | 75 | h_chloe10 |
-| 1050 | 75 | Gary Moore |
-| 1051 | 75 | LaRue Tee |
-| 1052 | 75 | Marco A. Sandoval |
-| 1053 | 75 | Jeremy Fisher |
-| 1054 | 74 | Katherine Stec |
-| 1055 | 74 | Kristie McFarland |
-| 1056 | 74 | Chirpy Corner |
-| 1057 | 74 | Melissa Schwager |
-| 1058 | 74 | Brittany |
-| 1059 | 73 | Pap337 |
-| 1060 | 73 | Bo Hagan |
+| 1043 | 76 | Elissa Danks |
+| 1044 | 76 | Lashae |
+| 1045 | 76 | Glitzy Rotate |
+| 1046 | 76 | Jillian Marie |
+| 1047 | 75 | Tommy Thomas |
+| 1048 | 75 | ŁųŁų |
+| 1049 | 75 | Mighty Spinfit |
+| 1050 | 75 | h_chloe10 |
+| 1051 | 75 | Gary Moore |
+| 1052 | 75 | LaRue Tee |
+| 1053 | 75 | Marco A. Sandoval |
+| 1054 | 75 | Jeremy Fisher |
+| 1055 | 74 | Katherine Stec |
+| 1056 | 74 | Kristie McFarland |
+| 1057 | 74 | Chirpy Corner |
+| 1058 | 74 | Melissa Schwager |
+| 1059 | 74 | Brittany |
+| 1060 | 73 | Pap337 |
 | 1061 | 73 | Joe Andrews |
 | 1062 | 73 | Jacqueline Couillard Jaeger |
 | 1063 | 73 | Yseoj M. Zurc |
 | 1064 | 73 | Conela Rouse Goldstein |
-| 1065 | 72 | Musky Pits |
-| 1066 | 72 | Martha Fisher |
-| 1067 | 72 | Bridget Reilly |
-| 1068 | 72 | Cranky Twisterfit |
-| 1069 | 72 | Donna Howard |
-| 1070 | 72 | Kassey M. Clark |
-| 1071 | 71 | Tipsy Patternfit |
-| 1072 | 71 | Catherine Garza |
-| 1073 | 71 | Bouncy Blockclear |
-| 1074 | 71 | Nykell Sturdivant |
-| 1075 | 71 | Sydney Taylor Sileno |
-| 1076 | 71 | Pink Tetramino |
-| 1077 | 71 | Masiso |
-| 1078 | 71 | Monique Kitzmiller |
-| 1079 | 71 | Kiki Moore |
-| 1080 | 70 | Jade Alley |
-| 1081 | 70 | T boo |
-| 1082 | 70 | Uh Lesh Uh |
+| 1065 | 73 | Bo Hagan |
+| 1066 | 72 | Musky Pits |
+| 1067 | 72 | Martha Fisher |
+| 1068 | 72 | Bridget Reilly |
+| 1069 | 72 | Cranky Twisterfit |
+| 1070 | 72 | Donna Howard |
+| 1071 | 72 | Kassey M. Clark |
+| 1072 | 71 | Tipsy Patternfit |
+| 1073 | 71 | Catherine Garza |
+| 1074 | 71 | Bouncy Blockclear |
+| 1075 | 71 | Nykell Sturdivant |
+| 1076 | 71 | Sydney Taylor Sileno |
+| 1077 | 71 | Pink Tetramino |
+| 1078 | 71 | Masiso |
+| 1079 | 71 | Monique Kitzmiller |
+| 1080 | 71 | Kiki Moore |
+| 1081 | 70 | Jade Alley |
+| 1082 | 70 | T boo |
 | 1083 | 70 | Kami |
-| 1084 | 70 | Lizxxx |
-| 1085 | 70 | Donya' Johnson |
-| 1086 | 70 | Jill Chapman-Yancer |
-| 1087 | 70 | Carissa Thorne-See |
-| 1088 | 70 | Alicia Horsea Rojas |
-| 1089 | 70 | Jada Jordyn Campbell |
-| 1090 | 70 | LilithMoon |
-| 1091 | 69 | Joe Joe |
-| 1092 | 69 | Vergie Michael |
-| 1093 | 69 | Ashley Ferguson |
-| 1094 | 69 | Tonia Kay |
-| 1095 | 69 | Derrek Lee |
-| 1096 | 68 | Elissa Danks |
+| 1084 | 70 | Alicia Horsea Rojas |
+| 1085 | 70 | Lizxxx |
+| 1086 | 70 | Donya' Johnson |
+| 1087 | 70 | Jill Chapman-Yancer |
+| 1088 | 70 | Carissa Thorne-See |
+| 1089 | 70 | Uh Lesh Uh |
+| 1090 | 70 | Jada Jordyn Campbell |
+| 1091 | 70 | LilithMoon |
+| 1092 | 69 | Joe Joe |
+| 1093 | 69 | Vergie Michael |
+| 1094 | 69 | Ashley Ferguson |
+| 1095 | 69 | Tonia Kay |
+| 1096 | 69 | Derrek Lee |
 | 1097 | 68 | Jace Warren |
 | 1098 | 68 | Kelly Kabelac Loomis |
 | 1099 | 68 | Phredda Helene Gavornik |
@@ -1114,9 +1114,9 @@
 | 1106 | 67 | Michael Cruz |
 | 1107 | 67 | Snappy Slice |
 | 1108 | 67 | Brandi Gray |
-| 1109 | 67 | Wacky Snaplink |
-| 1110 | 67 | Diane Donahue |
-| 1111 | 67 | Beezy |
+| 1109 | 67 | Beezy |
+| 1110 | 67 | Wacky Snaplink |
+| 1111 | 67 | Diane Donahue |
 | 1112 | 67 | Powder |
 | 1113 | 67 | Eric Quan |
 | 1114 | 67 | John Cotugno |
