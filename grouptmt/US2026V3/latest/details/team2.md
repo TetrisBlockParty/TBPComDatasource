@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:56:42 UTC
+# Standings for team2 as of 2026-06-08 06:57:20 UTC
 
 **Total Participants:** 2129
 
@@ -132,7 +132,7 @@
 | 124 | 795 | Courtney McCulley |
 | 125 | 789 | Zachary Vymislicky |
 | 126 | 787 | Mirr Lulu |
-| 127 | 776 | Sarah Mccolgan |
+| 127 | 786 | Sarah Mccolgan |
 | 128 | 775 | Nova Nova |
 | 129 | 773 | Amber Wolf |
 | 130 | 756 | snowwol |
@@ -226,8 +226,8 @@
 | 218 | 413 | Jat |
 | 219 | 412 | Nikki EightySixed |
 | 220 | 412 | Nikki Hayes |
-| 221 | 411 | Sandy Lynn |
-| 222 | 411 | Mookshake |
+| 221 | 411 | Mookshake |
+| 222 | 411 | Sandy Lynn |
 | 223 | 407 | Crystal Allen |
 | 224 | 405 | MaddieCherie |
 | 225 | 405 | Amy Gregg |
@@ -238,19 +238,19 @@
 | 230 | 398 | Kimmyc |
 | 231 | 395 | Justin McCray |
 | 232 | 395 | Sarina Vollink |
-| 233 | 392 | Bri St Peter |
-| 234 | 391 | La chulis |
-| 235 | 386 | Jennifer Smith |
-| 236 | 383 | Jenna Stahl |
-| 237 | 380 | Bb |
-| 238 | 379 | Greta Warden |
-| 239 | 376 | Jamie Fenyus |
-| 240 | 376 | Traci Abern |
-| 241 | 376 | Chill Line |
-| 242 | 375 | Brittni Lawrence |
-| 243 | 375 | Branden Frankowski |
-| 244 | 373 | Theresa Hollinger |
-| 245 | 373 | Lashanda Bertram |
+| 233 | 393 | Lashanda Bertram |
+| 234 | 392 | Bri St Peter |
+| 235 | 391 | La chulis |
+| 236 | 386 | Jennifer Smith |
+| 237 | 383 | Jenna Stahl |
+| 238 | 380 | Bb |
+| 239 | 379 | Greta Warden |
+| 240 | 376 | Jamie Fenyus |
+| 241 | 376 | Traci Abern |
+| 242 | 376 | Chill Line |
+| 243 | 375 | Brittni Lawrence |
+| 244 | 375 | Branden Frankowski |
+| 245 | 373 | Theresa Hollinger |
 | 246 | 373 | Hoppy Mover |
 | 247 | 365 | Rachel Nilles |
 | 248 | 364 | Lindsey Ford |
@@ -606,8 +606,8 @@
 | 598 | 140 | ChefDeb |
 | 599 | 140 | Ashley Jones |
 | 600 | 140 | Doowop40 |
-| 601 | 140 | Chris Christ |
-| 602 | 140 | Alycia Marie Zelensky |
+| 601 | 140 | Alycia Marie Zelensky |
+| 602 | 140 | Chris Christ |
 | 603 | 139 | Coleen Yoder |
 | 604 | 139 | Jason Burris |
 | 605 | 139 | David Skelton |
@@ -656,28 +656,28 @@
 | 648 | 129 | Jackie Walker |
 | 649 | 129 | Kristi K Milner |
 | 650 | 129 | Susan Bosell |
-| 651 | 129 | Carrie Smith Negron |
-| 652 | 128 | Josephina |
-| 653 | 128 | Princess Cucumber |
-| 654 | 127 | Gina Leal |
-| 655 | 127 | Abby |
-| 656 | 127 | Tammy Roth |
-| 657 | 127 | Nicole Suber |
-| 658 | 126 | Valeri Bradley |
-| 659 | 126 | Riggins Terry |
-| 660 | 126 | Dandy Tiltgrid |
-| 661 | 126 | Earline Dupuy Bordelon |
-| 662 | 126 | Shawn Jensen |
-| 663 | 125 | Ashlee Johnson |
-| 664 | 125 | Roe Sarmiento |
-| 665 | 125 | Sandra Pursell |
-| 666 | 125 | Jason Lamporte |
-| 667 | 125 | Frisky Linkbuilder |
-| 668 | 125 | Kimberly Davis |
-| 669 | 124 | Cool Patternbuilder |
-| 670 | 124 | Rachel M. Farnsworth |
-| 671 | 124 | Steve Eakins |
-| 672 | 124 | Nichole Fuller |
+| 651 | 129 | Nichole Fuller |
+| 652 | 129 | Carrie Smith Negron |
+| 653 | 128 | Josephina |
+| 654 | 128 | Princess Cucumber |
+| 655 | 127 | Gina Leal |
+| 656 | 127 | Abby |
+| 657 | 127 | Tammy Roth |
+| 658 | 127 | Nicole Suber |
+| 659 | 126 | Valeri Bradley |
+| 660 | 126 | Riggins Terry |
+| 661 | 126 | Dandy Tiltgrid |
+| 662 | 126 | Earline Dupuy Bordelon |
+| 663 | 126 | Shawn Jensen |
+| 664 | 125 | Ashlee Johnson |
+| 665 | 125 | Roe Sarmiento |
+| 666 | 125 | Sandra Pursell |
+| 667 | 125 | Jason Lamporte |
+| 668 | 125 | Frisky Linkbuilder |
+| 669 | 125 | Kimberly Davis |
+| 670 | 124 | Cool Patternbuilder |
+| 671 | 124 | Rachel M. Farnsworth |
+| 672 | 124 | Steve Eakins |
 | 673 | 123 | Po Yee |
 | 674 | 123 | Kawana Nesbitt |
 | 675 | 122 | Fancy Stacker |
@@ -872,27 +872,27 @@
 | 864 | 93 | Mataya |
 | 865 | 93 | Connie Marie Cornell Lerma |
 | 866 | 93 | Kymberlee Rolinski |
-| 867 | 93 | Dawnypooh |
-| 868 | 92 | Ques Pryor |
-| 869 | 92 | Tim Moore |
-| 870 | 92 | Cody Bohannan |
-| 871 | 92 | Brandy McCleary |
-| 872 | 92 | Rmk |
-| 873 | 92 | Linzy Ratliff |
-| 874 | 92 | Jayda Walters |
-| 875 | 92 | Joyce Galloway |
-| 876 | 92 | Buddy |
-| 877 | 92 | Doug Small |
-| 878 | 91 | Smiley Cornerfall |
-| 879 | 91 | WestieMom |
-| 880 | 91 | Laura Anderson |
-| 881 | 91 | Hansent3 |
-| 882 | 91 | Tabitha Ann Bullins-Cobb |
-| 883 | 91 | DNice |
+| 867 | 93 | Joffee Joffer |
+| 868 | 93 | Dawnypooh |
+| 869 | 92 | Ques Pryor |
+| 870 | 92 | Tim Moore |
+| 871 | 92 | Cody Bohannan |
+| 872 | 92 | Brandy McCleary |
+| 873 | 92 | Rmk |
+| 874 | 92 | Linzy Ratliff |
+| 875 | 92 | Jayda Walters |
+| 876 | 92 | Joyce Galloway |
+| 877 | 92 | Buddy |
+| 878 | 92 | Doug Small |
+| 879 | 91 | Smiley Cornerfall |
+| 880 | 91 | WestieMom |
+| 881 | 91 | Laura Anderson |
+| 882 | 91 | Hansent3 |
+| 883 | 91 | Tabitha Ann Bullins-Cobb |
 | 884 | 91 | Lindsey Davidson |
-| 885 | 91 | Joffee Joffer |
-| 886 | 90 | Kayla Iverson |
-| 887 | 90 | wutrwerdz |
+| 885 | 91 | DNice |
+| 886 | 90 | wutrwerdz |
+| 887 | 90 | Kayla Iverson |
 | 888 | 90 | Giddy Climber |
 | 889 | 90 | Arik DiLorenzo |
 | 890 | 90 | Nicole Hogue |
@@ -926,9 +926,9 @@
 | 918 | 87 | Jolly Builderpiece |
 | 919 | 87 | April Elaine Messenger |
 | 920 | 87 | Mee Maw |
-| 921 | 87 | Happy Shatterblock |
-| 922 | 87 | Sara Karels |
-| 923 | 87 | C.L. Deslongchamp |
+| 921 | 87 | C.L. Deslongchamp |
+| 922 | 87 | Happy Shatterblock |
+| 923 | 87 | Sara Karels |
 | 924 | 86 | Em |
 | 925 | 86 | Nicole Hjelmen |
 | 926 | 86 | Jackelyn Ford |

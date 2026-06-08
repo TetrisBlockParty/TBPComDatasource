@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 06:56:42 UTC
+# Standings for team4 as of 2026-06-08 06:57:20 UTC
 
 **Total Participants:** 1789
 
@@ -49,7 +49,7 @@
 | 41 | 2400 | Michele |
 | 42 | 2091 | Michele Walker |
 | 43 | 2058 | Carly Stempien |
-| 44 | 1997 | Victoria Ver |
+| 44 | 2027 | Victoria Ver |
 | 45 | 1985 | kcknbtz |
 | 46 | 1922 | Dana Rinaldi |
 | 47 | 1914 | Jeanette Hailey |
@@ -170,11 +170,11 @@
 | 162 | 422 | squareMel |
 | 163 | 421 | Michelle Ross |
 | 164 | 421 | QueenLi86 |
-| 165 | 420 | Shmeedo |
-| 166 | 418 | Aisha Estrada |
-| 167 | 417 | Dandy Puzzler |
-| 168 | 415 | Shiny Dashy |
-| 169 | 411 | Iforget |
+| 165 | 420 | Iforget |
+| 166 | 420 | Shmeedo |
+| 167 | 418 | Aisha Estrada |
+| 168 | 417 | Dandy Puzzler |
+| 169 | 415 | Shiny Dashy |
 | 170 | 409 | Hen |
 | 171 | 405 | HurkleDurkle88 |
 | 172 | 400 | Amber Doyle |
@@ -229,20 +229,20 @@
 | 221 | 317 | Anthony Lewis |
 | 222 | 315 | Thomasena Eady Reid |
 | 223 | 312 | Tyson Stroppel |
-| 224 | 312 | Anna Gribble |
-| 225 | 312 | Danny Ortiz |
+| 224 | 312 | Danny Ortiz |
+| 225 | 312 | Anna Gribble |
 | 226 | 306 | Janet Sanfilippo Sullivan |
 | 227 | 303 | TRUCHILD777$$$ |
 | 228 | 302 | Maria Castillo |
 | 229 | 301 | Tiffany Bunker-Hill |
 | 230 | 300 | Genag |
 | 231 | 298 | Colin |
-| 232 | 296 | Dae Von |
-| 233 | 296 | beauxie |
-| 234 | 296 | PerfectPieces |
-| 235 | 293 | Logan Two-dubs Baker |
-| 236 | 290 | Tawna Curry |
-| 237 | 289 | Shannon Rivera |
+| 232 | 297 | Shannon Rivera |
+| 233 | 296 | Dae Von |
+| 234 | 296 | beauxie |
+| 235 | 296 | PerfectPieces |
+| 236 | 293 | Logan Two-dubs Baker |
+| 237 | 290 | Tawna Curry |
 | 238 | 289 | Shepreneur Sade |
 | 239 | 287 | Cheery Risegrid |
 | 240 | 286 | Erika Seaton |
