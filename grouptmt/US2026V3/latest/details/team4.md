@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:26:42 UTC
+# Standings for team4 as of 2026-06-08 10:27:19 UTC
 
 **Total Participants:** 1810
 
@@ -76,7 +76,7 @@
 | 68 | 1176 | SMV |
 | 69 | 1156 | Giggy Matchpiece |
 | 70 | 1150 | Gloria Nunley Trussell |
-| 71 | 1135 | Michelle Ross |
+| 71 | 1138 | Michelle Ross |
 | 72 | 1119 | Bryan DjMagnum Evans |
 | 73 | 1106 | J |
 | 74 | 1086 | Lupe Alburquerque |
@@ -465,17 +465,17 @@
 | 457 | 163 | Jeff Margolis |
 | 458 | 163 | Cecilia Hicks |
 | 459 | 163 | Stef |
-| 460 | 161 | Candiecane324 |
-| 461 | 161 | Donna Bush |
-| 462 | 160 | Ada Rodriguez Spradley |
-| 463 | 160 | Nerdy Faller |
-| 464 | 160 | Shy |
-| 465 | 160 | Alice Eisnor-Martens |
-| 466 | 160 | Mrs |
-| 467 | 160 | Bre Dee |
-| 468 | 159 | Inez Nez |
-| 469 | 158 | crobb77 |
-| 470 | 158 | Sarah Leake |
+| 460 | 161 | Sarah Leake |
+| 461 | 161 | Candiecane324 |
+| 462 | 161 | Donna Bush |
+| 463 | 160 | Ada Rodriguez Spradley |
+| 464 | 160 | Nerdy Faller |
+| 465 | 160 | Shy |
+| 466 | 160 | Alice Eisnor-Martens |
+| 467 | 160 | Mrs |
+| 468 | 160 | Bre Dee |
+| 469 | 159 | Inez Nez |
+| 470 | 158 | crobb77 |
 | 471 | 158 | Caiti O'Keefe |
 | 472 | 157 | Beth Belanger |
 | 473 | 157 | Travis McKinnon |
