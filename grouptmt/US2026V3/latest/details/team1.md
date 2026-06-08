@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:05:19 UTC
+# Standings for team1 as of 2026-06-08 07:06:20 UTC
 
 **Total Participants:** 1748
 
@@ -199,11 +199,11 @@
 | 191 | 384 | Mic Balew |
 | 192 | 384 | Christana Imjustbutton Stone |
 | 193 | 382 | pooh |
-| 194 | 380 | Dulo |
-| 195 | 380 | Felicia Cain |
-| 196 | 377 | AF Cruz |
-| 197 | 375 | Joey Albright |
-| 198 | 374 | IThinkNot |
+| 194 | 381 | IThinkNot |
+| 195 | 380 | Dulo |
+| 196 | 380 | Felicia Cain |
+| 197 | 377 | AF Cruz |
+| 198 | 375 | Joey Albright |
 | 199 | 370 | Allison Baxter |
 | 200 | 369 | TT |
 | 201 | 367 | Leebo Slice |
@@ -711,31 +711,31 @@
 | 703 | 98 | FallDee |
 | 704 | 98 | Christopher Shaw-Black |
 | 705 | 98 | Terrance Tindall |
-| 706 | 98 | Azeiare Ziare |
+| 706 | 98 | Chereese Harris |
 | 707 | 98 | Jjhandsome |
 | 708 | 98 | Cm |
-| 709 | 97 | Jose Rodriguez |
-| 710 | 97 | Kayel Good |
-| 711 | 97 | Lootch |
-| 712 | 97 | Shanell Thomas |
-| 713 | 97 | Smiley Bridgepiece |
-| 714 | 97 | Nichole Horsley-Conn |
-| 715 | 96 | Just2Play$ |
-| 716 | 96 | Kimmie Gargano |
+| 709 | 98 | Azeiare Ziare |
+| 710 | 97 | Jose Rodriguez |
+| 711 | 97 | Kayel Good |
+| 712 | 97 | Lootch |
+| 713 | 97 | Shanell Thomas |
+| 714 | 97 | Smiley Bridgepiece |
+| 715 | 97 | Nichole Horsley-Conn |
+| 716 | 96 | Fatty May |
 | 717 | 96 | meatballs |
-| 718 | 96 | Sonia Binti Mfalme |
-| 719 | 96 | Guard Up |
+| 718 | 96 | Kimmie Gargano |
+| 719 | 96 | Sonia Binti Mfalme |
 | 720 | 96 | Zappy Clearfit |
-| 721 | 96 | Fatty May |
-| 722 | 96 | Yazz |
-| 723 | 96 | Sara |
-| 724 | 96 | Karen Knapp |
-| 725 | 95 | Chris Nelson |
+| 721 | 96 | Guard Up |
+| 722 | 96 | Just2Play$ |
+| 723 | 96 | Yazz |
+| 724 | 96 | Sara |
+| 725 | 96 | Karen Knapp |
 | 726 | 95 | Shiny Lift |
 | 727 | 95 | TieMs BHughez |
-| 728 | 95 | Joseph Vs Cap |
-| 729 | 95 | Ounquan Wright |
-| 730 | 95 | Chereese Harris |
+| 728 | 95 | Chris Nelson |
+| 729 | 95 | Joseph Vs Cap |
+| 730 | 95 | Ounquan Wright |
 | 731 | 95 | Cameo Tweed |
 | 732 | 95 | Adrian Harris |
 | 733 | 95 | Analesia Taylor |
@@ -1049,35 +1049,35 @@
 | 1041 | 56 | Fred Caston |
 | 1042 | 56 | Arturo Hernandez II |
 | 1043 | 56 | Chanel White |
-| 1044 | 56 | Shemeka Bates |
-| 1045 | 56 | Jodie |
-| 1046 | 56 | Kayleah Washington |
-| 1047 | 56 | Maxine Williams |
-| 1048 | 55 | Cheery Clusterbuilder |
-| 1049 | 55 | KoolKimJay |
-| 1050 | 55 | Kyle Franklin |
-| 1051 | 55 | Aanngie Aanngie |
-| 1052 | 54 | Noni |
-| 1053 | 54 | Christina Wesley |
-| 1054 | 54 | rummy |
-| 1055 | 54 | deeno |
-| 1056 | 54 | Damien Fonseca |
-| 1057 | 54 | Mrs |
-| 1058 | 54 | Embracing Hair |
-| 1059 | 54 | Bold Spinblock |
-| 1060 | 54 | Tez Mays |
+| 1044 | 56 | Maxine Williams |
+| 1045 | 56 | Shemeka Bates |
+| 1046 | 56 | Jodie |
+| 1047 | 56 | Kayleah Washington |
+| 1048 | 55 | Aanngie Aanngie |
+| 1049 | 55 | Cheery Clusterbuilder |
+| 1050 | 55 | KoolKimJay |
+| 1051 | 55 | Bold Spinblock |
+| 1052 | 55 | Kyle Franklin |
+| 1053 | 54 | Damien Fonseca |
+| 1054 | 54 | Mrs |
+| 1055 | 54 | Noni |
+| 1056 | 54 | deeno |
+| 1057 | 54 | rummy |
+| 1058 | 54 | Christina Wesley |
+| 1059 | 54 | Tez Mays |
+| 1060 | 54 | Embracing Hair |
 | 1061 | 54 | Felicia Yahuah Johnson |
-| 1062 | 53 | Clever Wrecker |
-| 1063 | 53 | Sagitterrorist |
-| 1064 | 53 | Xrandomx |
-| 1065 | 53 | Williams Candace |
-| 1066 | 52 | Ayanna James |
-| 1067 | 52 | Giggy Holder |
-| 1068 | 52 | Cheery T-spin |
-| 1069 | 52 | Loopy Risepiece |
-| 1070 | 52 | Chummy Liner |
-| 1071 | 52 | Diamond Nicole |
-| 1072 | 52 | Nancy Hartzell |
+| 1062 | 53 | Williams Candace |
+| 1063 | 53 | Xrandomx |
+| 1064 | 53 | Sagitterrorist |
+| 1065 | 53 | Clever Wrecker |
+| 1066 | 52 | Nancy Hartzell |
+| 1067 | 52 | Ayanna James |
+| 1068 | 52 | Giggy Holder |
+| 1069 | 52 | Cheery T-spin |
+| 1070 | 52 | Loopy Risepiece |
+| 1071 | 52 | Chummy Liner |
+| 1072 | 52 | Diamond Nicole |
 | 1073 | 52 | L-Kamice Boykin |
 | 1074 | 51 | Laura |
 | 1075 | 51 | Panda Vibes |
