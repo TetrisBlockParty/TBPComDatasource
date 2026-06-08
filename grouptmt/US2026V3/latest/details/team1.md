@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:48:42 UTC
+# Standings for team1 as of 2026-06-08 16:49:20 UTC
 
 **Total Participants:** 1828
 
@@ -150,17 +150,17 @@
 | 142 | 591 | Tammye Turner |
 | 143 | 590 | Gotcha |
 | 144 | 582 | Nutty Spinblock |
-| 145 | 573 | Rackemwillie34 |
-| 146 | 566 | Trendalyn Webb |
-| 147 | 564 | Murg4dr01d |
-| 148 | 561 | Carolynne Walker-Bell |
-| 149 | 560 | Lesley Brunkus Cianfaglione |
-| 150 | 556 | Rolanda Williams |
-| 151 | 555 | Eugina Slater |
-| 152 | 550 | Genne Scott |
-| 153 | 548 | Novaa |
-| 154 | 540 | Dee McCool |
-| 155 | 534 | Jhaime |
+| 145 | 574 | Jhaime |
+| 146 | 573 | Rackemwillie34 |
+| 147 | 566 | Trendalyn Webb |
+| 148 | 564 | Murg4dr01d |
+| 149 | 561 | Carolynne Walker-Bell |
+| 150 | 560 | Lesley Brunkus Cianfaglione |
+| 151 | 556 | Rolanda Williams |
+| 152 | 555 | Eugina Slater |
+| 153 | 550 | Genne Scott |
+| 154 | 548 | Novaa |
+| 155 | 540 | Dee McCool |
 | 156 | 531 | Abraham Espaillat |
 | 157 | 527 | MommaCia |
 | 158 | 520 | Spicy Risepiece |
@@ -275,7 +275,7 @@
 | 267 | 325 | Cortaz Lawrie |
 | 268 | 325 | Simone Bailey |
 | 269 | 323 | Bre Poston |
-| 270 | 321 | Chummy Frame |
+| 270 | 322 | Chummy Frame |
 | 271 | 320 | Denise B |
 | 272 | 320 | Natasha Rucker |
 | 273 | 318 | Jhonny Maii |
