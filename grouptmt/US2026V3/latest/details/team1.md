@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 22:10:19 UTC
+# Standings for team1 as of 2026-06-08 22:10:42 UTC
 
 **Total Participants:** 1887
 
@@ -902,10 +902,10 @@
 | 894 | 96 | Boldy Pivoty |
 | 895 | 96 | Sonia Binti Mfalme |
 | 896 | 96 | Lazy Chiseler |
-| 897 | 96 | Crystal Garay |
-| 898 | 96 | Just2Play$ |
-| 899 | 96 | tk |
-| 900 | 95 | Tanesha Ga'sFinest Corbett |
+| 897 | 96 | Tanesha Ga'sFinest Corbett |
+| 898 | 96 | Crystal Garay |
+| 899 | 96 | Just2Play$ |
+| 900 | 96 | tk |
 | 901 | 95 | Cameo Tweed |
 | 902 | 95 | Big Bovice |
 | 903 | 95 | Teresa Bean |
@@ -1168,16 +1168,16 @@
 | 1160 | 57 | Warren Miller |
 | 1161 | 57 | Pharen Oneofakind Frazier |
 | 1162 | 57 | Cali Lee |
-| 1163 | 57 | Demetrice Buck Wilson |
-| 1164 | 57 | Brave Balanceblock |
-| 1165 | 56 | Chanel White |
-| 1166 | 56 | Arturo Hernandez II |
-| 1167 | 56 | Christopher Wallace |
-| 1168 | 56 | Maxine Williams |
-| 1169 | 56 | Breeze |
-| 1170 | 56 | Lillie Blossom Dixon |
-| 1171 | 56 | SnazzySnippet |
-| 1172 | 56 | Brenda Brogden |
+| 1163 | 57 | Brenda Brogden |
+| 1164 | 57 | Demetrice Buck Wilson |
+| 1165 | 57 | Brave Balanceblock |
+| 1166 | 56 | Chanel White |
+| 1167 | 56 | Arturo Hernandez II |
+| 1168 | 56 | Christopher Wallace |
+| 1169 | 56 | Maxine Williams |
+| 1170 | 56 | Breeze |
+| 1171 | 56 | Lillie Blossom Dixon |
+| 1172 | 56 | SnazzySnippet |
 | 1173 | 56 | Lisa Ivy |
 | 1174 | 56 | Shemeka Bates |
 | 1175 | 56 | QueenzMo |
@@ -1666,13 +1666,13 @@
 | 1658 | 16 | JahMilly19 |
 | 1659 | 16 | Sandra Buller |
 | 1660 | 16 | Marquel Coley |
-| 1661 | 16 | Hulk |
-| 1662 | 16 | Dee-Dee Stewart |
-| 1663 | 15 | luc |
-| 1664 | 15 | Mrs . Candy |
-| 1665 | 15 | Mayra Diaz |
-| 1666 | 15 | Breezy Bouncer |
-| 1667 | 15 | Tyler |
+| 1661 | 16 | Tyler |
+| 1662 | 16 | Hulk |
+| 1663 | 16 | Dee-Dee Stewart |
+| 1664 | 15 | luc |
+| 1665 | 15 | Mrs . Candy |
+| 1666 | 15 | Mayra Diaz |
+| 1667 | 15 | Breezy Bouncer |
 | 1668 | 15 | Shamara Thurston |
 | 1669 | 15 | Kris Gray |
 | 1670 | 15 | Chief block |
