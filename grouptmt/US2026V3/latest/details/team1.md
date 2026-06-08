@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:42:43 UTC
+# Standings for team1 as of 2026-06-08 14:43:20 UTC
 
 **Total Participants:** 1811
 
@@ -47,7 +47,7 @@
 | 39 | 2175 | COSA303 |
 | 40 | 2138 | Linzie Marie |
 | 41 | 2076 | April Inboden |
-| 42 | 1894 | Janine Hunter |
+| 42 | 1907 | Janine Hunter |
 | 43 | 1789 | Jolly Dropzone |
 | 44 | 1752 | D'Andra Stewart |
 | 45 | 1709 | Chris Russell |
@@ -130,10 +130,10 @@
 | 122 | 656 | La'Chae Nickole |
 | 123 | 654 | Cee Emm |
 | 124 | 647 | Andi McGreevy |
-| 125 | 645 | Atlantalindi |
-| 126 | 644 | Dena Marie Lee |
-| 127 | 643 | Ottison Dianna |
-| 128 | 634 | Chuck Quarles |
+| 125 | 646 | Chuck Quarles |
+| 126 | 645 | Atlantalindi |
+| 127 | 644 | Dena Marie Lee |
+| 128 | 643 | Ottison Dianna |
 | 129 | 630 | Shontanese Adams |
 | 130 | 630 | Bambi Love |
 | 131 | 627 | Alana Renee |
@@ -169,7 +169,7 @@
 | 161 | 496 | Tobey Marberry |
 | 162 | 495 | De'Laonzeo Anthony |
 | 163 | 494 | DaVonte' Cretter |
-| 164 | 488 | Ebony Waynes-robinson |
+| 164 | 491 | Ebony Waynes-robinson |
 | 165 | 487 | Novaa |
 | 166 | 486 | Tammye Turner |
 | 167 | 486 | Andre Sanon |
