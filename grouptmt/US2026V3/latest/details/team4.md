@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:00:19 UTC
+# Standings for team4 as of 2026-06-08 16:00:43 UTC
 
 **Total Participants:** 1859
 
@@ -450,40 +450,40 @@
 | 442 | 197 | Zesty Twistpiece |
 | 443 | 196 | Loopy Clusterline |
 | 444 | 196 | June Hoffman |
-| 445 | 196 | Melissa Lowe |
-| 446 | 196 | Happy Shatterfit |
-| 447 | 195 | Cari Underwood |
-| 448 | 195 | Sean Mccleary |
-| 449 | 195 | maria |
-| 450 | 195 | Karen Small |
+| 445 | 196 | Happy Shatterfit |
+| 446 | 196 | Melissa Lowe |
+| 447 | 195 | Karen Small |
+| 448 | 195 | Cari Underwood |
+| 449 | 195 | Sean Mccleary |
+| 450 | 195 | maria |
 | 451 | 194 | Jumpy Builderpiece |
 | 452 | 194 | Diana Fernandez |
 | 453 | 192 | Ralph Hell Rell Williams |
 | 454 | 191 | Jennifer Garcia |
 | 455 | 191 | Teester |
-| 456 | 190 | Name |
-| 457 | 190 | Silly Fallzone |
-| 458 | 190 | Miss Beast |
-| 459 | 189 | Dena Lynn Rogers |
-| 460 | 188 | Lee Ann Gibby |
+| 456 | 190 | Silly Fallzone |
+| 457 | 190 | Name |
+| 458 | 190 | Cool Risepiece |
+| 459 | 190 | Miss Beast |
+| 460 | 189 | Dena Lynn Rogers |
 | 461 | 188 | Dandy Cascade |
-| 462 | 188 | Donna Bush |
-| 463 | 188 | Henry Lanier |
-| 464 | 187 | Jennifer Fisher Franklin |
-| 465 | 187 | Marina |
-| 466 | 186 | Rita Ann |
+| 462 | 188 | Lee Ann Gibby |
+| 463 | 188 | Donna Bush |
+| 464 | 188 | Henry Lanier |
+| 465 | 187 | Jennifer Fisher Franklin |
+| 466 | 187 | Marina |
 | 467 | 186 | Tiffany Morris Garner |
-| 468 | 185 | Butterpat |
-| 469 | 185 | Valerie Silva |
-| 470 | 184 | Lolita Nettles |
-| 471 | 183 | Ryan Paul Clark-Ramsey |
-| 472 | 183 | Tamara Gay |
-| 473 | 182 | Ashley Eskridge |
-| 474 | 182 | Candiecane324 |
-| 475 | 181 | Linda Miltenburg |
-| 476 | 180 | BookwormCate |
-| 477 | 180 | EvoKitty |
-| 478 | 180 | Cool Risepiece |
+| 468 | 186 | Rita Ann |
+| 469 | 185 | Butterpat |
+| 470 | 185 | Valerie Silva |
+| 471 | 184 | Lolita Nettles |
+| 472 | 183 | Ryan Paul Clark-Ramsey |
+| 473 | 183 | Tamara Gay |
+| 474 | 182 | Ashley Eskridge |
+| 475 | 182 | Candiecane324 |
+| 476 | 181 | Linda Miltenburg |
+| 477 | 180 | BookwormCate |
+| 478 | 180 | EvoKitty |
 | 479 | 180 | Tipsy Piecebuilder |
 | 480 | 180 | Silly Rollbuilder |
 | 481 | 179 | Has2brat |
@@ -912,41 +912,41 @@
 | 904 | 82 | Dapper Tiltpiece |
 | 905 | 82 | Charity Thomas |
 | 906 | 82 | Layne Davis |
-| 907 | 81 | Miguel Teixeira |
-| 908 | 81 | Buggy Julks |
-| 909 | 81 | Kristen Lester |
-| 910 | 81 | Shelly Jackson |
-| 911 | 81 | GingaNinja |
+| 907 | 81 | Sadeha Simpson |
+| 908 | 81 | Miguel Teixeira |
+| 909 | 81 | Buggy Julks |
+| 910 | 81 | Kristen Lester |
+| 911 | 81 | Shelly Jackson |
 | 912 | 81 | Anthony Kollar |
-| 913 | 80 | Freddy-B |
-| 914 | 80 | Lord Solrac |
+| 913 | 81 | GingaNinja |
+| 914 | 80 | Melissa Elizabeth |
 | 915 | 80 | Diane Obungu |
-| 916 | 80 | Rebecca Watters |
-| 917 | 80 | BethB |
-| 918 | 80 | Melissa Elizabeth |
-| 919 | 80 | KrisTina2007 |
-| 920 | 80 | Jerett Coplin |
-| 921 | 80 | Keke Johnson |
-| 922 | 80 | Honey Honey |
-| 923 | 80 | Melissa Derby Rood |
-| 924 | 80 | Littleshark |
-| 925 | 80 | Tesa Mike Jenkins |
-| 926 | 80 | Keisha Petway |
-| 927 | 80 | Tracey Hudspath |
-| 928 | 79 | Lindsey DeRosa |
-| 929 | 79 | Mone DyTorrion Zyan Lotts |
-| 930 | 79 | Sonya |
-| 931 | 79 | Joshua Powers |
-| 932 | 79 | Nerdy Glider |
-| 933 | 79 | Groovy Stacker |
-| 934 | 79 | Poptart |
-| 935 | 79 | Joe Win |
-| 936 | 79 | Loony Dashgrid |
-| 937 | 78 | Amber Jalbert |
-| 938 | 78 | Weird Cat |
-| 939 | 78 | Krissy Smith |
-| 940 | 78 | Jacklyn Martinez |
-| 941 | 78 | Sadeha Simpson |
+| 916 | 80 | Lord Solrac |
+| 917 | 80 | Rebecca Watters |
+| 918 | 80 | BethB |
+| 919 | 80 | Freddy-B |
+| 920 | 80 | KrisTina2007 |
+| 921 | 80 | Jerett Coplin |
+| 922 | 80 | Keke Johnson |
+| 923 | 80 | Honey Honey |
+| 924 | 80 | Melissa Derby Rood |
+| 925 | 80 | Littleshark |
+| 926 | 80 | Tesa Mike Jenkins |
+| 927 | 80 | Keisha Petway |
+| 928 | 80 | Tracey Hudspath |
+| 929 | 79 | Lindsey DeRosa |
+| 930 | 79 | Mone DyTorrion Zyan Lotts |
+| 931 | 79 | Sonya |
+| 932 | 79 | Joshua Powers |
+| 933 | 79 | Nerdy Glider |
+| 934 | 79 | Groovy Stacker |
+| 935 | 79 | Poptart |
+| 936 | 79 | Joe Win |
+| 937 | 79 | Loony Dashgrid |
+| 938 | 78 | Amber Jalbert |
+| 939 | 78 | Weird Cat |
+| 940 | 78 | Krissy Smith |
+| 941 | 78 | Jacklyn Martinez |
 | 942 | 78 | Zappy Matchgrid |
 | 943 | 78 | Christopher Lindsey |
 | 944 | 78 | Nachos |
