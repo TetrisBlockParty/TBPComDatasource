@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:58:42 UTC
+# Standings for team2 as of 2026-06-08 10:59:21 UTC
 
 **Total Participants:** 2154
 
@@ -31,7 +31,7 @@
 | 23 | 4659 | Alexia Reagan |
 | 24 | 4459 | Kathleen M Cox |
 | 25 | 4228 | Erica Dees Parks |
-| 26 | 4199 | Jewels |
+| 26 | 4219 | Jewels |
 | 27 | 4137 | Danni Campa |
 | 28 | 3985 | Cassie Swart |
 | 29 | 3984 | Amber |
@@ -50,7 +50,7 @@
 | 42 | 2833 | Angie BBlock |
 | 43 | 2750 | Tom Badgley |
 | 44 | 2700 | Anthony Lilley |
-| 45 | 2655 | Aubree Richard |
+| 45 | 2679 | Aubree Richard |
 | 46 | 2556 | Andrew Weissenborn |
 | 47 | 2527 | Helen Thomas |
 | 48 | 2414 | Nerdy Glidepiece |
@@ -146,32 +146,32 @@
 | 138 | 728 | Groovy Snapper |
 | 139 | 717 | Melissa Thomas |
 | 140 | 708 | Le Sandy |
-| 141 | 686 | Brandon Link |
-| 142 | 682 | Wmk Rathbun |
-| 143 | 679 | Zappy Pattern |
-| 144 | 671 | Gloria May Shook |
-| 145 | 670 | Krisanne Kesner-Lonsby |
-| 146 | 660 | Nikki Carter |
-| 147 | 651 | Alison Waller |
-| 148 | 647 | Nettrainer |
-| 149 | 647 | MarioKarasovic |
-| 150 | 645 | Jackie Tupper |
-| 151 | 639 | Rhonda Diebold |
-| 152 | 635 | Joslyn Johnson |
-| 153 | 627 | Jgato |
-| 154 | 626 | Dsabrina Maxey |
-| 155 | 619 | Jeska Gaines |
-| 156 | 614 | Kellie Sharp Godfrey |
-| 157 | 613 | Jason Cook |
-| 158 | 609 | Pooh |
-| 159 | 600 | Theresa Marie |
-| 160 | 587 | Kathleen Dumbazz |
-| 161 | 580 | Jamie Jones |
-| 162 | 578 | Monique Frantz |
-| 163 | 577 | Lindsay Klemp |
-| 164 | 574 | Brandy McCune Reep |
-| 165 | 567 | Cool Climber |
-| 166 | 566 | Shea |
+| 141 | 689 | Shea |
+| 142 | 686 | Brandon Link |
+| 143 | 682 | Wmk Rathbun |
+| 144 | 679 | Zappy Pattern |
+| 145 | 671 | Gloria May Shook |
+| 146 | 670 | Krisanne Kesner-Lonsby |
+| 147 | 660 | Nikki Carter |
+| 148 | 651 | Alison Waller |
+| 149 | 647 | Nettrainer |
+| 150 | 647 | MarioKarasovic |
+| 151 | 645 | Jackie Tupper |
+| 152 | 639 | Rhonda Diebold |
+| 153 | 635 | Joslyn Johnson |
+| 154 | 627 | Jgato |
+| 155 | 626 | Dsabrina Maxey |
+| 156 | 619 | Jeska Gaines |
+| 157 | 614 | Kellie Sharp Godfrey |
+| 158 | 613 | Jason Cook |
+| 159 | 609 | Pooh |
+| 160 | 600 | Theresa Marie |
+| 161 | 587 | Kathleen Dumbazz |
+| 162 | 580 | Jamie Jones |
+| 163 | 578 | Monique Frantz |
+| 164 | 577 | Lindsay Klemp |
+| 165 | 574 | Brandy McCune Reep |
+| 166 | 567 | Cool Climber |
 | 167 | 561 | Amanda Sikes |
 | 168 | 558 | Zarah Kettler |
 | 169 | 557 | Nutty Curver |
@@ -202,14 +202,14 @@
 | 194 | 476 | Sara Perkins |
 | 195 | 470 | Zesty Strikerbuilder |
 | 196 | 469 | Lashanda Bertram |
-| 197 | 467 | Lisa Underwood Desmond |
-| 198 | 462 | Lori Whitman |
-| 199 | 461 | Charles E Mccardell |
-| 200 | 457 | MegaPooh |
-| 201 | 453 | Ashley Green |
-| 202 | 453 | Kimberly Cowan |
-| 203 | 451 | Gill |
-| 204 | 449 | Theresa Hollinger |
+| 197 | 469 | Theresa Hollinger |
+| 198 | 467 | Lisa Underwood Desmond |
+| 199 | 462 | Lori Whitman |
+| 200 | 461 | Charles E Mccardell |
+| 201 | 457 | MegaPooh |
+| 202 | 453 | Ashley Green |
+| 203 | 453 | Kimberly Cowan |
+| 204 | 451 | Gill |
 | 205 | 449 | Danielle Blount |
 | 206 | 449 | Snappy Blockbuilder |
 | 207 | 449 | Suki Jacobs |
