@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:10:46 UTC
+# Standings for team2 as of 2026-06-08 15:11:20 UTC
 
 **Total Participants:** 2193
 
@@ -188,12 +188,12 @@
 | 180 | 557 | Nutty Curver |
 | 181 | 550 | DomDomsNana |
 | 182 | 542 | Spicy Risegrid |
-| 183 | 536 | Leigh Ann |
-| 184 | 529 | Kimmyc |
-| 185 | 529 | Mom |
-| 186 | 528 | Michelle Rich Burkhart |
-| 187 | 527 | Amy Gale |
-| 188 | 527 | Alicia Ellenburg |
+| 183 | 537 | Alicia Ellenburg |
+| 184 | 536 | Leigh Ann |
+| 185 | 529 | Kimmyc |
+| 186 | 529 | Mom |
+| 187 | 528 | Michelle Rich Burkhart |
+| 188 | 527 | Amy Gale |
 | 189 | 526 | MegaPooh |
 | 190 | 524 | Chasity Simpson |
 | 191 | 521 | Steven Craig |
@@ -211,7 +211,7 @@
 | 203 | 488 | Ackerman 85 |
 | 204 | 487 | Crystal Allen |
 | 205 | 486 | Chirpy Grid |
-| 206 | 484 | Laverne Ellis Blair |
+| 206 | 485 | Laverne Ellis Blair |
 | 207 | 483 | Karen Reid Cenkush |
 | 208 | 483 | DukeDino |
 | 209 | 480 | Jacob Carpenter |
@@ -244,8 +244,8 @@
 | 236 | 434 | Janelle Edgecombe |
 | 237 | 429 | Nikki EightySixed |
 | 238 | 428 | Physhie |
-| 239 | 427 | SilentBuffalo |
-| 240 | 427 | Flower_child |
+| 239 | 427 | Flower_child |
+| 240 | 427 | SilentBuffalo |
 | 241 | 425 | Joni Michelle Morgan |
 | 242 | 423 | Tara |
 | 243 | 419 | H |
@@ -406,14 +406,14 @@
 | 398 | 255 | Chummy Faller |
 | 399 | 255 | Harper |
 | 400 | 255 | True |
-| 401 | 254 | Nicole Plummer |
-| 402 | 254 | Victoria Pale |
+| 401 | 254 | Victoria Pale |
+| 402 | 254 | Nicole Plummer |
 | 403 | 253 | Eric Wayne Maschman |
 | 404 | 252 | Brandi Vandevanter-Duke |
 | 405 | 252 | Kellie Montgomery |
 | 406 | 251 | Mouh Med |
-| 407 | 251 | Marilyn Mendoza |
-| 408 | 251 | Avie Lou |
+| 407 | 251 | Avie Lou |
+| 408 | 251 | Marilyn Mendoza |
 | 409 | 251 | Teresa Mandich |
 | 410 | 250 | Kim Powers |
 | 411 | 250 | Happy Drop |
@@ -428,11 +428,11 @@
 | 420 | 240 | Amanda Bottorff |
 | 421 | 240 | Al Smith Jr |
 | 422 | 240 | Liseth Vasquez |
-| 423 | 239 | Stella |
-| 424 | 239 | Melmel |
-| 425 | 239 | Sandy Justus |
+| 423 | 239 | Melmel |
+| 424 | 239 | Sandy Justus |
+| 425 | 239 | Patria Osuoha |
 | 426 | 239 | Newtwidebody |
-| 427 | 239 | Patria Osuoha |
+| 427 | 239 | Stella |
 | 428 | 238 | andee |
 | 429 | 238 | Tango Sierra |
 | 430 | 237 | Amanda Priddy |
@@ -446,60 +446,60 @@
 | 438 | 230 | Renee Siems |
 | 439 | 230 | phamous1 |
 | 440 | 230 | Brandy Chinelle |
-| 441 | 229 | Funway998 |
-| 442 | 229 | MUMBLES |
-| 443 | 229 | Sandra Ruiz |
-| 444 | 229 | Shawn Jensen |
-| 445 | 228 | Christy Diane Escobar |
-| 446 | 228 | Jackie Walker |
-| 447 | 227 | Laura Melton |
-| 448 | 227 | meg |
-| 449 | 225 | Katelyn Rodgers |
-| 450 | 225 | Amanda L Strong |
-| 451 | 225 | Cheery Towerzone |
-| 452 | 222 | Marilyn Strickland |
+| 441 | 230 | Sherri E Woods Hess |
+| 442 | 229 | Funway998 |
+| 443 | 229 | MUMBLES |
+| 444 | 229 | Sandra Ruiz |
+| 445 | 229 | Shawn Jensen |
+| 446 | 228 | Christy Diane Escobar |
+| 447 | 228 | Jackie Walker |
+| 448 | 227 | Laura Melton |
+| 449 | 227 | meg |
+| 450 | 225 | Katelyn Rodgers |
+| 451 | 225 | Amanda L Strong |
+| 452 | 225 | Cheery Towerzone |
 | 453 | 222 | Tina |
-| 454 | 220 | Lee Leonard |
-| 455 | 220 | KazzyKay |
-| 456 | 220 | Michelle M Braley |
-| 457 | 220 | Flashy Basegrid |
-| 458 | 220 | Sherri E Woods Hess |
-| 459 | 220 | Saucy Wrecker |
-| 460 | 220 | ShiverMeSplinter |
-| 461 | 220 | Po Yee |
-| 462 | 220 | Precious Womack |
-| 463 | 220 | Krystle L Coon |
-| 464 | 219 | Jessica Melendy |
-| 465 | 219 | Francesca Wagenhoffer |
+| 454 | 222 | Marilyn Strickland |
+| 455 | 220 | Lee Leonard |
+| 456 | 220 | Joannah Capilitan |
+| 457 | 220 | KazzyKay |
+| 458 | 220 | Precious Womack |
+| 459 | 220 | Michelle M Braley |
+| 460 | 220 | Flashy Basegrid |
+| 461 | 220 | Saucy Wrecker |
+| 462 | 220 | ShiverMeSplinter |
+| 463 | 220 | Po Yee |
+| 464 | 220 | Krystle L Coon |
+| 465 | 219 | Jessica Melendy |
 | 466 | 219 | Mouh Ity |
-| 467 | 218 | Julie Alexander Sykes |
-| 468 | 217 | Spicy Snapclear |
-| 469 | 217 | Mona Good |
-| 470 | 216 | Jeff Pottgether |
-| 471 | 216 | Joshua Dye |
-| 472 | 216 | Melissa Nash |
-| 473 | 216 | Reign Hustler |
-| 474 | 215 | Monee Stronger |
-| 475 | 215 | Missy Renia |
-| 476 | 215 | Alonzo Reed |
-| 477 | 214 | Jumpy Dashpiece |
-| 478 | 213 | Judy Burkhalter |
-| 479 | 213 | TetrisMama |
-| 480 | 213 | Zany Wrecker |
-| 481 | 211 | Rick |
-| 482 | 211 | Amber Smith |
-| 483 | 210 | Camilo Moreno |
-| 484 | 210 | Nichole Wilson |
-| 485 | 210 | Bouncy Snapmatch |
-| 486 | 209 | Brian Favre |
+| 467 | 219 | Francesca Wagenhoffer |
+| 468 | 218 | Julie Alexander Sykes |
+| 469 | 217 | Spicy Snapclear |
+| 470 | 217 | Mona Good |
+| 471 | 216 | Amber Smith |
+| 472 | 216 | Joshua Dye |
+| 473 | 216 | Jeff Pottgether |
+| 474 | 216 | Melissa Nash |
+| 475 | 216 | Reign Hustler |
+| 476 | 215 | Missy Renia |
+| 477 | 215 | Alonzo Reed |
+| 478 | 215 | Monee Stronger |
+| 479 | 214 | Jumpy Dashpiece |
+| 480 | 213 | TetrisMama |
+| 481 | 213 | Zany Wrecker |
+| 482 | 213 | Judy Burkhalter |
+| 483 | 211 | Rick |
+| 484 | 210 | Camilo Moreno |
+| 485 | 210 | Nichole Wilson |
+| 486 | 210 | Bouncy Snapmatch |
 | 487 | 209 | Leticia Tillman |
-| 488 | 208 | Heather Schardan |
-| 489 | 208 | Lisa Allen Frisk |
-| 490 | 208 | Joannah Capilitan |
+| 488 | 209 | Brian Favre |
+| 489 | 208 | Heather Schardan |
+| 490 | 208 | Lisa Allen Frisk |
 | 491 | 208 | Kimberly Davis |
 | 492 | 208 | Will Jones |
-| 493 | 207 | Wendy McKee |
-| 494 | 207 | StacyBabee |
+| 493 | 207 | StacyBabee |
+| 494 | 207 | Wendy McKee |
 | 495 | 206 | Samantha Bugg Stitcher |
 | 496 | 206 | Jodi Johnson |
 | 497 | 206 | Katie Jones |
@@ -784,17 +784,17 @@
 | 776 | 124 | Steve Eakins |
 | 777 | 124 | Rachel M. Farnsworth |
 | 778 | 123 | Kawana Nesbitt |
-| 779 | 122 | Anzhen |
-| 780 | 122 | Coleta Singleton-Gallishaw |
-| 781 | 121 | Staci Walker |
-| 782 | 121 | Heather |
-| 783 | 120 | Zaniya Brown |
-| 784 | 120 | Cranky Basepiece |
-| 785 | 120 | Val |
-| 786 | 120 | Alice Petterborg Barberich |
-| 787 | 120 | Tonya Greger |
-| 788 | 120 | Ashley Eneboe |
-| 789 | 120 | Twisty Matchfit |
+| 779 | 122 | Twisty Matchfit |
+| 780 | 122 | Anzhen |
+| 781 | 122 | Coleta Singleton-Gallishaw |
+| 782 | 121 | Staci Walker |
+| 783 | 121 | Heather |
+| 784 | 120 | Zaniya Brown |
+| 785 | 120 | Cranky Basepiece |
+| 786 | 120 | Val |
+| 787 | 120 | Alice Petterborg Barberich |
+| 788 | 120 | Tonya Greger |
+| 789 | 120 | Ashley Eneboe |
 | 790 | 120 | Morgan Olson Pingree |
 | 791 | 120 | Donutz |
 | 792 | 120 | Laura Turner |
