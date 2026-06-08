@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 18:34:43 UTC
+# Standings for team4 as of 2026-06-08 18:35:19 UTC
 
 **Total Participants:** 1892
 
@@ -505,24 +505,24 @@
 | 497 | 180 | Keke Johnson |
 | 498 | 180 | Jrr |
 | 499 | 180 | BookwormCate |
-| 500 | 180 | Tipsy Piecebuilder |
-| 501 | 180 | Ada Rodriguez Spradley |
-| 502 | 180 | Silly Rollbuilder |
-| 503 | 180 | Bri Martin |
-| 504 | 179 | Has2brat |
-| 505 | 178 | Linda |
-| 506 | 178 | Heidi Anne Scheiderer |
-| 507 | 177 | Suzanne North |
-| 508 | 176 | Keith Kosmicki |
-| 509 | 176 | Deana Teck |
-| 510 | 176 | Erik Clary |
-| 511 | 175 | Shia Marie |
-| 512 | 175 | Mrsjcraw18 |
-| 513 | 175 | alxhue04 |
-| 514 | 174 | PsyDMom |
-| 515 | 174 | Bammer |
-| 516 | 174 | Mmm |
-| 517 | 174 | luluraine |
+| 500 | 180 | luluraine |
+| 501 | 180 | Tipsy Piecebuilder |
+| 502 | 180 | Ada Rodriguez Spradley |
+| 503 | 180 | Silly Rollbuilder |
+| 504 | 180 | Bri Martin |
+| 505 | 179 | Has2brat |
+| 506 | 178 | Linda |
+| 507 | 178 | Heidi Anne Scheiderer |
+| 508 | 177 | Suzanne North |
+| 509 | 176 | Keith Kosmicki |
+| 510 | 176 | Deana Teck |
+| 511 | 176 | Erik Clary |
+| 512 | 175 | Shia Marie |
+| 513 | 175 | Mrsjcraw18 |
+| 514 | 175 | alxhue04 |
+| 515 | 174 | PsyDMom |
+| 516 | 174 | Bammer |
+| 517 | 174 | Mmm |
 | 518 | 174 | Eddie Fuller |
 | 519 | 172 | Kea Sushi |
 | 520 | 171 | Joe Richard |
@@ -638,71 +638,71 @@
 | 630 | 139 | Gigi5 |
 | 631 | 139 | Rae Saunders |
 | 632 | 138 | Anna Ryan |
-| 633 | 138 | Raising Stars |
-| 634 | 138 | Ami Ferguson |
-| 635 | 137 | YenSid |
-| 636 | 137 | Maricela Joslin |
-| 637 | 137 | Allysonjo Varela |
-| 638 | 137 | Tanya AfricanQueen Savage |
+| 633 | 138 | Ami Ferguson |
+| 634 | 138 | Raising Stars |
+| 635 | 137 | Maricela Joslin |
+| 636 | 137 | YenSid |
+| 637 | 137 | Tanya AfricanQueen Savage |
+| 638 | 137 | Allysonjo Varela |
 | 639 | 137 | TheazO |
 | 640 | 137 | Frilly Zoney |
 | 641 | 136 | Kenny Nguyen |
 | 642 | 136 | Justin Ballard |
 | 643 | 135 | Jennifer Terrill |
-| 644 | 135 | Lamont |
-| 645 | 135 | my my |
-| 646 | 135 | Tre'nya Smith |
+| 644 | 135 | Kimberly Devon |
+| 645 | 135 | Lamont |
+| 646 | 135 | my my |
 | 647 | 135 | JustLessie |
 | 648 | 135 | Jennifer Evans Elliott |
-| 649 | 134 | Hasty Dropzone |
-| 650 | 134 | Josh Keith Travierso |
-| 651 | 133 | Sonia Cordero-Martinez |
-| 652 | 133 | Domo Dpn |
-| 653 | 133 | Erica Hardwick |
-| 654 | 133 | Dennis Montoya |
-| 655 | 133 | mikey moo |
-| 656 | 132 | pussface |
-| 657 | 132 | Daniel Lossman |
-| 658 | 132 | Kat Foreman |
-| 659 | 132 | MrLoner Stoner |
-| 660 | 132 | Nessa Smith |
-| 661 | 132 | William Brooks |
-| 662 | 132 | Virgil Mayfield-Brown |
-| 663 | 131 | GETBOXED! |
-| 664 | 131 | Heather Brown |
-| 665 | 130 | Lizard |
-| 666 | 130 | Kimberly Devon |
-| 667 | 130 | Missionary Meda |
-| 668 | 130 | Bhakti Sawarkar |
-| 669 | 130 | Wacky Brick |
+| 649 | 135 | Tre'nya Smith |
+| 650 | 134 | Hasty Dropzone |
+| 651 | 134 | Josh Keith Travierso |
+| 652 | 133 | Sonia Cordero-Martinez |
+| 653 | 133 | Domo Dpn |
+| 654 | 133 | Erica Hardwick |
+| 655 | 133 | Dennis Montoya |
+| 656 | 133 | mikey moo |
+| 657 | 132 | pussface |
+| 658 | 132 | Daniel Lossman |
+| 659 | 132 | Virgil Mayfield-Brown |
+| 660 | 132 | MrLoner Stoner |
+| 661 | 132 | Nessa Smith |
+| 662 | 132 | Kat Foreman |
+| 663 | 132 | William Brooks |
+| 664 | 131 | GETBOXED! |
+| 665 | 131 | Heather Brown |
+| 666 | 130 | Missionary Meda |
+| 667 | 130 | Lizard |
+| 668 | 130 | Wacky Brick |
+| 669 | 130 | Bhakti Sawarkar |
 | 670 | 129 | Brenda Gustamantes |
 | 671 | 129 | Vlad Rudman |
 | 672 | 128 | Ash |
 | 673 | 128 | Maria Munoz |
-| 674 | 128 | Angela Adamo-Tash |
+| 674 | 128 | Gean DeJesus |
 | 675 | 128 | Ajohnna Frazee |
-| 676 | 128 | SandyEva |
-| 677 | 128 | Gean DeJesus |
+| 676 | 128 | Angela Adamo-Tash |
+| 677 | 128 | SandyEva |
 | 678 | 128 | Alizabeth Garcia |
-| 679 | 127 | Fancy Tilefall |
-| 680 | 127 | Giggy Snapgrid |
-| 681 | 127 | Noa Lee |
-| 682 | 127 | LandO |
-| 683 | 127 | Cheeky Climber |
-| 684 | 126 | Loony Edge |
-| 685 | 126 | Lisa Pie |
+| 679 | 127 | Noa Lee |
+| 680 | 127 | Cheeky Climber |
+| 681 | 127 | LandO |
+| 682 | 127 | Giggy Snapgrid |
+| 683 | 127 | Fancy Tilefall |
+| 684 | 126 | Lisa Pie |
+| 685 | 126 | Loony Edge |
 | 686 | 126 | Vanessa Sykes |
-| 687 | 125 | Dizzy |
-| 688 | 125 | Kelly Miller Williams |
-| 689 | 125 | Dexter Hammond Jr |
-| 690 | 125 | Joshua Hunt |
-| 691 | 125 | Lady |
-| 692 | 125 | Deb 07 |
-| 693 | 125 | Alex Dawn |
-| 694 | 125 | Corey Jackson |
-| 695 | 125 | Youngkueen |
-| 696 | 124 | Heidi Hala |
-| 697 | 124 | Chad Finton |
+| 687 | 125 | Dexter Hammond Jr |
+| 688 | 125 | Lady |
+| 689 | 125 | Youngkueen |
+| 690 | 125 | Kelly Miller Williams |
+| 691 | 125 | Deb 07 |
+| 692 | 125 | Alex Dawn |
+| 693 | 125 | Joshua Hunt |
+| 694 | 125 | Dizzy |
+| 695 | 125 | Corey Jackson |
+| 696 | 124 | Chad Finton |
+| 697 | 124 | Heidi Hala |
 | 698 | 124 | Alicia Blunt |
 | 699 | 124 | Vonni McLean |
 | 700 | 123 | Amanda Snow |
