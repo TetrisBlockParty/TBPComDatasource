@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:12:45 UTC
+# Standings for team2 as of 2026-06-08 09:13:19 UTC
 
 **Total Participants:** 2141
 
@@ -193,8 +193,8 @@
 | 185 | 486 | Chirpy Grid |
 | 186 | 484 | Steven Craig |
 | 187 | 483 | Karen Reid Cenkush |
-| 188 | 480 | DukeDino |
-| 189 | 480 | Jacob Carpenter |
+| 188 | 480 | Jacob Carpenter |
+| 189 | 480 | DukeDino |
 | 190 | 476 | Sara Perkins |
 | 191 | 470 | Zesty Strikerbuilder |
 | 192 | 469 | Lashanda Bertram |
@@ -476,8 +476,8 @@
 | 468 | 184 | Joannah Capilitan |
 | 469 | 184 | Zesty Zoney |
 | 470 | 184 | Melissa Abbott |
-| 471 | 184 | Nancy Schwartz Gusman-Oliver |
-| 472 | 184 | Alicia Ellenburg |
+| 471 | 184 | Alicia Ellenburg |
+| 472 | 184 | Nancy Schwartz Gusman-Oliver |
 | 473 | 183 | murd3rmous3 |
 | 474 | 182 | Lori Whitman |
 | 475 | 181 | rebel4lyfe |
@@ -594,50 +594,50 @@
 | 586 | 144 | Mary Carriere |
 | 587 | 144 | Epic Framezone |
 | 588 | 144 | Alissa Ary |
-| 589 | 143 | Violet Olivares |
-| 590 | 143 | Stoney McMillion |
-| 591 | 143 | Matt Wylie |
-| 592 | 142 | Angela Hogan |
-| 593 | 142 | Terie Safrit |
-| 594 | 142 | LadyDeath |
-| 595 | 141 | Hog Crankin |
-| 596 | 141 | Susie Conger |
-| 597 | 141 | Layla Petroff |
-| 598 | 141 | Tamtam |
-| 599 | 141 | Dame Smith |
-| 600 | 141 | Mtnblzr |
-| 601 | 140 | Bouncy Snapmatch |
-| 602 | 140 | Ashley Jones |
-| 603 | 140 | Doowop40 |
-| 604 | 140 | Tiffany Hassanshahi |
-| 605 | 140 | Heather Billodeau |
-| 606 | 140 | Chipper Towerzone |
-| 607 | 140 | Rebekah Holland |
-| 608 | 140 | Wendy Durrence Jones |
-| 609 | 140 | ChefDeb |
-| 610 | 140 | Adam Latin |
-| 611 | 140 | Deezie |
+| 589 | 144 | Nikki Greeneyebeauty |
+| 590 | 143 | Violet Olivares |
+| 591 | 143 | Stoney McMillion |
+| 592 | 143 | Matt Wylie |
+| 593 | 142 | Angela Hogan |
+| 594 | 142 | Terie Safrit |
+| 595 | 142 | LadyDeath |
+| 596 | 141 | Hog Crankin |
+| 597 | 141 | Susie Conger |
+| 598 | 141 | Layla Petroff |
+| 599 | 141 | Tamtam |
+| 600 | 141 | Dame Smith |
+| 601 | 141 | Mtnblzr |
+| 602 | 140 | Bouncy Snapmatch |
+| 603 | 140 | Ashley Jones |
+| 604 | 140 | Doowop40 |
+| 605 | 140 | Tiffany Hassanshahi |
+| 606 | 140 | Heather Billodeau |
+| 607 | 140 | Chipper Towerzone |
+| 608 | 140 | Rebekah Holland |
+| 609 | 140 | Wendy Durrence Jones |
+| 610 | 140 | ChefDeb |
+| 611 | 140 | Adam Latin |
 | 612 | 140 | Chris Christ |
-| 613 | 139 | Cassandra Green |
-| 614 | 139 | Coleen Yoder |
-| 615 | 139 | David Skelton |
-| 616 | 139 | Jason Burris |
-| 617 | 138 | Sam Brewster |
-| 618 | 138 | Robin Stutler |
-| 619 | 138 | Firebone |
-| 620 | 138 | Michael Saunders |
-| 621 | 138 | Madonna Ash |
-| 622 | 137 | Sandra Belk |
-| 623 | 137 | Sarah Louise Cobb |
-| 624 | 136 | Lauren Maxwell |
-| 625 | 136 | Nicole Ashbaugh |
-| 626 | 136 | Tami Weiss |
-| 627 | 136 | Joshua Dye |
-| 628 | 135 | Erin Moore Galloway |
-| 629 | 135 | Cozy Cascade |
-| 630 | 135 | Samantha Bugg Stitcher |
-| 631 | 135 | Michele Rogers |
-| 632 | 135 | Nikki Greeneyebeauty |
+| 613 | 140 | Deezie |
+| 614 | 139 | Cassandra Green |
+| 615 | 139 | Coleen Yoder |
+| 616 | 139 | David Skelton |
+| 617 | 139 | Jason Burris |
+| 618 | 138 | Sam Brewster |
+| 619 | 138 | Robin Stutler |
+| 620 | 138 | Firebone |
+| 621 | 138 | Michael Saunders |
+| 622 | 138 | Madonna Ash |
+| 623 | 137 | Sandra Belk |
+| 624 | 137 | Sarah Louise Cobb |
+| 625 | 136 | Lauren Maxwell |
+| 626 | 136 | Nicole Ashbaugh |
+| 627 | 136 | Tami Weiss |
+| 628 | 136 | Joshua Dye |
+| 629 | 135 | Erin Moore Galloway |
+| 630 | 135 | Cozy Cascade |
+| 631 | 135 | Samantha Bugg Stitcher |
+| 632 | 135 | Michele Rogers |
 | 633 | 135 | Ava Taber |
 | 634 | 135 | Jessica Garoutte |
 | 635 | 134 | Busted9mm |
@@ -827,11 +827,11 @@
 | 819 | 101 | Jennifer Leigh |
 | 820 | 101 | Wendy Michelle Wise-Ledford |
 | 821 | 100 | William Dowd |
-| 822 | 100 | Giggy Balancefit |
+| 822 | 100 | Shannon Curry Riggle |
 | 823 | 100 | Rachel Wooldridge |
 | 824 | 100 | Amanda Kennedy |
 | 825 | 100 | Hoppy Linkblock |
-| 826 | 100 | Shannon Curry Riggle |
+| 826 | 100 | Giggy Balancefit |
 | 827 | 100 | missat |
 | 828 | 100 | Audrey Morris |
 | 829 | 100 | Ahada Seber |
