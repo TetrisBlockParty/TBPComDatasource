@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:18:44 UTC
+# Standings for team2 as of 2026-06-08 12:19:19 UTC
 
 **Total Participants:** 2165
 
@@ -107,9 +107,9 @@
 | 99 | 1070 | Michelle Maulsby |
 | 100 | 1069 | Smiley Dropper |
 | 101 | 1060 | Criccett Hooper-Smith |
-| 102 | 1031 | Ruby Sandberg |
-| 103 | 1016 | Amber Salazar |
-| 104 | 1012 | haune |
+| 102 | 1032 | haune |
+| 103 | 1031 | Ruby Sandberg |
+| 104 | 1016 | Amber Salazar |
 | 105 | 1000 | Sydney Headley |
 | 106 | 988 | Dane Marko |
 | 107 | 978 | Renee Freeman Jacobson |
@@ -941,12 +941,12 @@
 | 933 | 91 | Laura Anderson |
 | 934 | 91 | Smiley Cornerfall |
 | 935 | 91 | WestieMom |
-| 936 | 91 | DNice |
-| 937 | 91 | Lindsey Davidson |
+| 936 | 91 | Lindsey Davidson |
+| 937 | 91 | DNice |
 | 938 | 91 | Tabitha Ann Bullins-Cobb |
 | 939 | 90 | Kayla Iverson |
-| 940 | 90 | wutrwerdz |
-| 941 | 90 | Giddy Climber |
+| 940 | 90 | Giddy Climber |
+| 941 | 90 | wutrwerdz |
 | 942 | 90 | Rochelle O'Loughlin |
 | 943 | 90 | Christina Reid |
 | 944 | 90 | Beth Engberg |
@@ -966,12 +966,12 @@
 | 958 | 89 | Lori Yelvington Cain |
 | 959 | 89 | Jennifer Lewellyn Hutchins |
 | 960 | 89 | Jeremy Daurbigny |
-| 961 | 89 | Rachel Nunn |
-| 962 | 89 | Samantha Smith |
-| 963 | 89 | Christina Sheldon |
+| 961 | 89 | Christina Sheldon |
+| 962 | 89 | Rachel Nunn |
+| 963 | 89 | Samantha Smith |
 | 964 | 88 | Hyper Cascade |
-| 965 | 88 | Dapper Spinbuilder |
-| 966 | 88 | sugabritches |
+| 965 | 88 | sugabritches |
+| 966 | 88 | Dapper Spinbuilder |
 | 967 | 88 | Witty Riser |
 | 968 | 88 | Meagan Thompson |
 | 969 | 88 | Debra Patten |
@@ -983,8 +983,8 @@
 | 975 | 87 | Jolly Builderpiece |
 | 976 | 87 | Mee Maw |
 | 977 | 87 | Churube Finwoiisopw |
-| 978 | 87 | C.L. Deslongchamp |
-| 979 | 87 | Happy Shatterblock |
+| 978 | 87 | Happy Shatterblock |
+| 979 | 87 | C.L. Deslongchamp |
 | 980 | 86 | Em |
 | 981 | 86 | Mandeee |
 | 982 | 86 | Aaron Jones |
@@ -1001,9 +1001,9 @@
 | 993 | 85 | Daisy Girl |
 | 994 | 85 | Heather |
 | 995 | 85 | Heather Nicole |
-| 996 | 85 | Cindy Wellman |
+| 996 | 85 | Rob Phillips |
 | 997 | 85 | Jazzy Snapfit |
-| 998 | 85 | Rob Phillips |
+| 998 | 85 | Cindy Wellman |
 | 999 | 84 | Calah Amore |
 | 1000 | 84 | Sandy Molina |
 | 1001 | 84 | Stacey Loretta Wallace |
@@ -1018,37 +1018,37 @@
 | 1010 | 83 | Clever Fallmatch |
 | 1011 | 83 | Brenda Zona |
 | 1012 | 83 | Aneokly |
-| 1013 | 83 | Jodee Woods |
-| 1014 | 82 | Becka Jones |
-| 1015 | 82 | Madbull |
-| 1016 | 82 | Bonez |
-| 1017 | 82 | Angela VanOstrand |
-| 1018 | 82 | Mikaela Byrd |
-| 1019 | 82 | Kendi |
-| 1020 | 82 | Nutty Fitzone |
-| 1021 | 82 | Alimae |
-| 1022 | 82 | Amber Simonton |
-| 1023 | 82 | Snazzy Smasher |
-| 1024 | 81 | Heather Hi |
-| 1025 | 81 | R.w. Buck |
-| 1026 | 81 | Evelyn Olive Kalmbach |
-| 1027 | 81 | Shiny Matchpiece |
-| 1028 | 81 | Goofy Patternfit |
-| 1029 | 81 | Jessica Spivey Cooper |
-| 1030 | 81 | Binska |
-| 1031 | 81 | Stephen Gillam |
-| 1032 | 81 | Quina Jesse Fejaran |
-| 1033 | 81 | Slinky Linkgrid |
-| 1034 | 81 | Missy Savage-Justice |
-| 1035 | 81 | YldBoar |
-| 1036 | 81 | Paula |
-| 1037 | 81 | YUKITATA |
-| 1038 | 81 | Octavia Jus Mae Hill |
-| 1039 | 81 | Twisty Tower |
-| 1040 | 80 | Jennifer Robinson |
-| 1041 | 80 | Sara Moericke |
-| 1042 | 80 | Ramona Guillermo |
-| 1043 | 80 | Melissa Mae |
+| 1013 | 83 | Melissa Mae |
+| 1014 | 83 | Jodee Woods |
+| 1015 | 82 | Becka Jones |
+| 1016 | 82 | Madbull |
+| 1017 | 82 | Bonez |
+| 1018 | 82 | Angela VanOstrand |
+| 1019 | 82 | Mikaela Byrd |
+| 1020 | 82 | Kendi |
+| 1021 | 82 | Nutty Fitzone |
+| 1022 | 82 | Alimae |
+| 1023 | 82 | Amber Simonton |
+| 1024 | 82 | Snazzy Smasher |
+| 1025 | 81 | Heather Hi |
+| 1026 | 81 | R.w. Buck |
+| 1027 | 81 | Evelyn Olive Kalmbach |
+| 1028 | 81 | Shiny Matchpiece |
+| 1029 | 81 | Goofy Patternfit |
+| 1030 | 81 | Jessica Spivey Cooper |
+| 1031 | 81 | Binska |
+| 1032 | 81 | Stephen Gillam |
+| 1033 | 81 | Quina Jesse Fejaran |
+| 1034 | 81 | Slinky Linkgrid |
+| 1035 | 81 | Missy Savage-Justice |
+| 1036 | 81 | YldBoar |
+| 1037 | 81 | Paula |
+| 1038 | 81 | YUKITATA |
+| 1039 | 81 | Octavia Jus Mae Hill |
+| 1040 | 81 | Twisty Tower |
+| 1041 | 80 | Jennifer Robinson |
+| 1042 | 80 | Sara Moericke |
+| 1043 | 80 | Ramona Guillermo |
 | 1044 | 80 | Tami Leontyuk |
 | 1045 | 80 | Jenny Bishop |
 | 1046 | 80 | Jason Guy |
