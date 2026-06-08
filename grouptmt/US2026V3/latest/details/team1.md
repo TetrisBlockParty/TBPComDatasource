@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:24:44 UTC
+# Standings for team1 as of 2026-06-08 18:25:22 UTC
 
 **Total Participants:** 1845
 
@@ -127,7 +127,7 @@
 | 119 | 723 | Eartha Brown |
 | 120 | 720 | Felicia Williams |
 | 121 | 720 | No_Other_Choice |
-| 122 | 700 | Big Tina |
+| 122 | 709 | Big Tina |
 | 123 | 692 | Chirpy Corner |
 | 124 | 691 | Chuck Quarles |
 | 125 | 682 | Atlantalindi |
@@ -729,78 +729,78 @@
 | 721 | 116 | Rosalind Chatman |
 | 722 | 116 | Sallie Sanborn |
 | 723 | 116 | Lady T |
-| 724 | 115 | WOOLFF |
-| 725 | 114 | Christy Quick |
-| 726 | 114 | LAhoneybun82 |
-| 727 | 114 | Felicia Dungey |
-| 728 | 114 | Renee Marshall |
-| 729 | 114 | Tyree Tman Shinette |
+| 724 | 115 | Chereese Harris |
+| 725 | 115 | WOOLFF |
+| 726 | 114 | Christy Quick |
+| 727 | 114 | LAhoneybun82 |
+| 728 | 114 | Felicia Dungey |
+| 729 | 114 | Renee Marshall |
 | 730 | 114 | Ameillia Boughner |
-| 731 | 114 | Angela Kitchens |
-| 732 | 114 | Solomon Valarie |
-| 733 | 114 | Cranky Fall |
-| 734 | 112 | Chereese Harris |
-| 735 | 112 | GamerQueenDS |
-| 736 | 112 | Peppy Wipeblock |
-| 737 | 112 | TeeMaster Barber IsLyfe |
+| 731 | 114 | Tyree Tman Shinette |
+| 732 | 114 | Angela Kitchens |
+| 733 | 114 | Solomon Valarie |
+| 734 | 114 | Cranky Fall |
+| 735 | 114 | Spicy Tiler |
+| 736 | 112 | GamerQueenDS |
+| 737 | 112 | Peppy Wipeblock |
 | 738 | 112 | Jose Rodriguez |
-| 739 | 112 | Barbramerri Tarboro |
-| 740 | 112 | Marie Wilson |
-| 741 | 112 | Joseph Vs Cap |
-| 742 | 111 | Chino Baby |
-| 743 | 111 | messyboots |
-| 744 | 111 | Mellie Mel |
-| 745 | 111 | Happy Blocky |
-| 746 | 111 | Tonia Ramos |
-| 747 | 111 | Katness |
-| 748 | 111 | Happy Blockpiece |
-| 749 | 110 | Analesia Taylor |
-| 750 | 110 | Slinky Fallzone |
-| 751 | 110 | Danny Talbot |
-| 752 | 110 | Jen Hallin |
-| 753 | 110 | Crtjstr |
+| 739 | 112 | TeeMaster Barber IsLyfe |
+| 740 | 112 | Joseph Vs Cap |
+| 741 | 112 | Marie Wilson |
+| 742 | 112 | Barbramerri Tarboro |
+| 743 | 111 | Chino Baby |
+| 744 | 111 | messyboots |
+| 745 | 111 | Mellie Mel |
+| 746 | 111 | Happy Blocky |
+| 747 | 111 | Tonia Ramos |
+| 748 | 111 | Katness |
+| 749 | 111 | Happy Blockpiece |
+| 750 | 110 | Analesia Taylor |
+| 751 | 110 | Slinky Fallzone |
+| 752 | 110 | Danny Talbot |
+| 753 | 110 | Jen Hallin |
 | 754 | 110 | Kimberly Noble |
-| 755 | 110 | Heru Ogun Yeshua EL |
-| 756 | 110 | Dirty Deeds |
-| 757 | 109 | Haakuu |
-| 758 | 109 | Melvin Simpson |
-| 759 | 108 | Daniel Santana |
-| 760 | 108 | EvaLynn NeCole |
-| 761 | 108 | Desi Guerra |
-| 762 | 108 | Shaun Anderson |
-| 763 | 108 | Charika Marie Bergmann |
-| 764 | 108 | Richelle Beck |
-| 765 | 108 | Shawn Himes |
-| 766 | 108 | Elaine Pauley |
-| 767 | 108 | Antoinette Kelly |
-| 768 | 107 | Poppy Smasher |
-| 769 | 107 | Fatty May |
-| 770 | 107 | Lootch |
-| 771 | 106 | Elizabeth Hopkins |
-| 772 | 106 | Lawreniesha Burkley |
-| 773 | 106 | Daphne Ceasar |
-| 774 | 106 | Tina Blessed Cage |
-| 775 | 105 | Maria |
-| 776 | 105 | Angie Lebron |
-| 777 | 105 | Mario Meliodas |
+| 755 | 110 | Crtjstr |
+| 756 | 110 | Heru Ogun Yeshua EL |
+| 757 | 110 | Dirty Deeds |
+| 758 | 109 | Haakuu |
+| 759 | 109 | Melvin Simpson |
+| 760 | 108 | Shawn Himes |
+| 761 | 108 | Daniel Santana |
+| 762 | 108 | Antoinette Kelly |
+| 763 | 108 | Elaine Pauley |
+| 764 | 108 | Shaun Anderson |
+| 765 | 108 | Richelle Beck |
+| 766 | 108 | Charika Marie Bergmann |
+| 767 | 108 | Desi Guerra |
+| 768 | 108 | EvaLynn NeCole |
+| 769 | 107 | Lootch |
+| 770 | 107 | Fatty May |
+| 771 | 107 | Poppy Smasher |
+| 772 | 106 | Elizabeth Hopkins |
+| 773 | 106 | Tina Blessed Cage |
+| 774 | 106 | Lawreniesha Burkley |
+| 775 | 106 | Daphne Ceasar |
+| 776 | 105 | Maria |
+| 777 | 105 | Angie Lebron |
 | 778 | 105 | Jack Mehof |
-| 779 | 105 | Nikkizz |
-| 780 | 105 | Ja'mice Nelson |
-| 781 | 105 | Christopher L Crites |
-| 782 | 105 | Raquel Ortiz |
-| 783 | 105 | Michael Smith |
-| 784 | 104 | Coco |
-| 785 | 104 | Ahvae Lee |
-| 786 | 104 | Marlainia Boyd |
-| 787 | 104 | Chris Nelson |
-| 788 | 104 | Motown Chuck |
-| 789 | 104 | Victor |
-| 790 | 103 | Heather Wilson |
-| 791 | 103 | TieMs BHughez |
-| 792 | 103 | Clint Mcdowell |
-| 793 | 102 | Spicy Tiler |
-| 794 | 102 | Mom3granny2 |
-| 795 | 102 | Laysa Nunez |
+| 779 | 105 | Mario Meliodas |
+| 780 | 105 | Michael Smith |
+| 781 | 105 | Ja'mice Nelson |
+| 782 | 105 | Christopher L Crites |
+| 783 | 105 | Raquel Ortiz |
+| 784 | 105 | Nikkizz |
+| 785 | 104 | Coco |
+| 786 | 104 | Victor |
+| 787 | 104 | Motown Chuck |
+| 788 | 104 | Chris Nelson |
+| 789 | 104 | Marlainia Boyd |
+| 790 | 104 | Ahvae Lee |
+| 791 | 103 | Clint Mcdowell |
+| 792 | 103 | TieMs BHughez |
+| 793 | 103 | Heather Wilson |
+| 794 | 102 | Laysa Nunez |
+| 795 | 102 | Mom3granny2 |
 | 796 | 102 | jeremy92 |
 | 797 | 102 | Blocksy |
 | 798 | 102 | Kàrma Lee |
