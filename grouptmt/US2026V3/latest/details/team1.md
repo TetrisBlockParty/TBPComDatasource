@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:33:20 UTC
+# Standings for team1 as of 2026-06-08 07:34:20 UTC
 
 **Total Participants:** 1755
 
@@ -456,13 +456,13 @@
 | 448 | 161 | boogeywoogey |
 | 449 | 161 | Devron Reedy |
 | 450 | 160 | Malcolm Stanley |
-| 451 | 160 | Slinky Clearzone |
-| 452 | 160 | Carolyn Smith |
-| 453 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 454 | 160 | Jean Regis |
-| 455 | 160 | Cheeky Twistpiece |
-| 456 | 160 | Adrian Wilson |
-| 457 | 160 | Tracey Johnson |
+| 451 | 160 | Carolyn Smith |
+| 452 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 453 | 160 | Jean Regis |
+| 454 | 160 | Cheeky Twistpiece |
+| 455 | 160 | Adrian Wilson |
+| 456 | 160 | Tracey Johnson |
+| 457 | 160 | Slinky Clearzone |
 | 458 | 159 | Loopy Tiler |
 | 459 | 159 | Tee Spinks |
 | 460 | 158 | Kimberly Linares Hernandez |
@@ -479,33 +479,33 @@
 | 471 | 155 | Kala Miller |
 | 472 | 154 | Dorian Griffin |
 | 473 | 154 | Glitzy Clusterer |
-| 474 | 154 | Rebecca Jackson |
-| 475 | 154 | Ciera Peace |
+| 474 | 154 | Ciera Peace |
+| 475 | 154 | Rebecca Jackson |
 | 476 | 154 | Rachael R Gull |
 | 477 | 154 | Brittanie Wardlow |
 | 478 | 153 | Jelyfish |
 | 479 | 152 | Johnathan Deese |
 | 480 | 152 | Wacky Stackbuilder |
-| 481 | 151 | Perky Balancer |
+| 481 | 151 | Yashica Smith |
 | 482 | 151 | Jimmy Shannon |
-| 483 | 151 | Yashica Smith |
-| 484 | 150 | Kamilya Rembert |
-| 485 | 150 | Deveda Williams |
-| 486 | 150 | Nisha Sunshine Jenkins |
-| 487 | 150 | Marshall Davis |
-| 488 | 149 | Mighty Dropper |
+| 483 | 151 | Perky Balancer |
+| 484 | 151 | Shakuria Cortia Burney |
+| 485 | 150 | Kamilya Rembert |
+| 486 | 150 | Deveda Williams |
+| 487 | 150 | Nisha Sunshine Jenkins |
+| 488 | 150 | Marshall Davis |
 | 489 | 149 | Casey Chapman |
-| 490 | 149 | Kristie |
-| 491 | 148 | Shannon Carriger |
-| 492 | 148 | Christi Walker Patton |
+| 490 | 149 | Mighty Dropper |
+| 491 | 149 | Kristie |
+| 492 | 148 | Shannon Carriger |
 | 493 | 148 | Seddrick |
-| 494 | 148 | Jenni Hardman |
+| 494 | 148 | Christi Walker Patton |
 | 495 | 148 | Cauiasia DeJ'ae |
-| 496 | 148 | Faith Armone |
-| 497 | 147 | Twisty Brickfit |
-| 498 | 147 | Mathew Trudell |
-| 499 | 147 | Joka NoTime ForHataz |
-| 500 | 146 | Shakuria Cortia Burney |
+| 496 | 148 | Jenni Hardman |
+| 497 | 148 | Faith Armone |
+| 498 | 147 | Twisty Brickfit |
+| 499 | 147 | Mathew Trudell |
+| 500 | 147 | Joka NoTime ForHataz |
 | 501 | 146 | whatever |
 | 502 | 145 | Squaw Ki Ng |
 | 503 | 145 | Shea Ladynick Henderson |
@@ -514,8 +514,8 @@
 | 506 | 144 | Kp |
 | 507 | 144 | Hardtohandle91 |
 | 508 | 143 | Ashlie Mo |
-| 509 | 142 | Kelley Johnson |
-| 510 | 142 | Sarah Steckbauer |
+| 509 | 142 | Sarah Steckbauer |
+| 510 | 142 | Kelley Johnson |
 | 511 | 141 | Kate Hancock Malicek |
 | 512 | 141 | Shalena Marie Humphrey |
 | 513 | 141 | Frances Davis |
