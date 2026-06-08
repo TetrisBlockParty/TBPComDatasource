@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:38:20 UTC
+# Standings for team2 as of 2026-06-08 04:38:41 UTC
 
 **Total Participants:** 2091
 
@@ -1440,70 +1440,70 @@
 | 1432 | 39 | Linette Chico |
 | 1433 | 39 | Lively Shatter |
 | 1434 | 39 | Catey Salazar |
-| 1435 | 38 | Crystal Whygle |
-| 1436 | 38 | Nikki Strawn |
-| 1437 | 38 | Joce Barger |
-| 1438 | 38 | Perky Patternbuilder |
-| 1439 | 38 | Jason Janssen |
-| 1440 | 38 | Shalice Jacobs |
-| 1441 | 38 | Dysty |
-| 1442 | 38 | Elise Marie Mireles |
-| 1443 | 38 | Angela Oates-Killebrew |
-| 1444 | 38 | Dandy Matchzone |
-| 1445 | 37 | Brooke Allred |
-| 1446 | 37 | Leon Welch |
-| 1447 | 37 | Nicole Slimick |
-| 1448 | 37 | Sassafras Cass |
-| 1449 | 37 | Suzee |
-| 1450 | 37 | Danh Nguyen |
-| 1451 | 37 | Jessica Nightshade Hansuld |
-| 1452 | 37 | Dizzy Gridder |
-| 1453 | 37 | Lotso |
-| 1454 | 37 | Shelby Lynn May |
-| 1455 | 36 | Jen |
-| 1456 | 36 | Angi Carter |
-| 1457 | 36 | GreatDoxie |
-| 1458 | 36 | October Fitch |
-| 1459 | 36 | Jbarnsey18 |
-| 1460 | 36 | Jstang |
-| 1461 | 36 | Courtney Lashay Hill |
-| 1462 | 36 | RNKERI |
+| 1435 | 38 | Daniel Flathers |
+| 1436 | 38 | Crystal Whygle |
+| 1437 | 38 | Nikki Strawn |
+| 1438 | 38 | Joce Barger |
+| 1439 | 38 | Perky Patternbuilder |
+| 1440 | 38 | Jason Janssen |
+| 1441 | 38 | Shalice Jacobs |
+| 1442 | 38 | Dysty |
+| 1443 | 38 | Elise Marie Mireles |
+| 1444 | 38 | Angela Oates-Killebrew |
+| 1445 | 38 | Dandy Matchzone |
+| 1446 | 37 | Brooke Allred |
+| 1447 | 37 | Leon Welch |
+| 1448 | 37 | Nicole Slimick |
+| 1449 | 37 | Sassafras Cass |
+| 1450 | 37 | Suzee |
+| 1451 | 37 | Danh Nguyen |
+| 1452 | 37 | Jessica Nightshade Hansuld |
+| 1453 | 37 | Shelby Lynn May |
+| 1454 | 37 | Lotso |
+| 1455 | 37 | Dizzy Gridder |
+| 1456 | 36 | RNKERI |
+| 1457 | 36 | Jen |
+| 1458 | 36 | Tiana Rodriguez |
+| 1459 | 36 | October Fitch |
+| 1460 | 36 | Deion Marshall |
+| 1461 | 36 | Jstang |
+| 1462 | 36 | Courtney Lashay Hill |
 | 1463 | 36 | Cody |
-| 1464 | 36 | Tiana Rodriguez |
-| 1465 | 36 | Deion Marshall |
-| 1466 | 36 | JDub |
-| 1467 | 36 | Audrey Phillips |
-| 1468 | 36 | Zippy Blockmatch |
-| 1469 | 36 | Deanna Mc |
-| 1470 | 36 | Slinky Linkgrid |
-| 1471 | 36 | Chilly Fall |
-| 1472 | 36 | James Brown |
-| 1473 | 36 | Quirky Brickroll |
-| 1474 | 36 | Deborah Lint Odom |
-| 1475 | 36 | Shannie |
-| 1476 | 36 | Brian Karr |
-| 1477 | 36 | Amanda Stanley |
-| 1478 | 36 | Christina Hanson |
-| 1479 | 36 | Eugene Clawson |
-| 1480 | 35 | Bubbly Risebuilder |
-| 1481 | 35 | Jessica Jones |
-| 1482 | 35 | Amanda |
-| 1483 | 35 | Nerdy Base |
-| 1484 | 35 | Isiwin |
-| 1485 | 35 | Daring Pivotfall |
-| 1486 | 35 | Fran Gerebics |
-| 1487 | 35 | Marii |
-| 1488 | 35 | Wacky Curve |
-| 1489 | 35 | Megan |
-| 1490 | 35 | Gail Flory |
-| 1491 | 35 | Wendy Michelle |
-| 1492 | 35 | RaeRae |
-| 1493 | 35 | Squirrel |
-| 1494 | 35 | Jacy Pickett |
-| 1495 | 35 | Chris Wilber |
-| 1496 | 34 | Daniel Flathers |
-| 1497 | 34 | RalphyD |
-| 1498 | 34 | AppA |
+| 1464 | 36 | Zippy Blockmatch |
+| 1465 | 36 | Jbarnsey18 |
+| 1466 | 36 | Audrey Phillips |
+| 1467 | 36 | GreatDoxie |
+| 1468 | 36 | JDub |
+| 1469 | 36 | Angi Carter |
+| 1470 | 36 | Deanna Mc |
+| 1471 | 36 | Slinky Linkgrid |
+| 1472 | 36 | Chilly Fall |
+| 1473 | 36 | James Brown |
+| 1474 | 36 | Quirky Brickroll |
+| 1475 | 36 | Deborah Lint Odom |
+| 1476 | 36 | Shannie |
+| 1477 | 36 | Brian Karr |
+| 1478 | 36 | Amanda Stanley |
+| 1479 | 36 | Christina Hanson |
+| 1480 | 36 | Eugene Clawson |
+| 1481 | 35 | Bubbly Risebuilder |
+| 1482 | 35 | Jessica Jones |
+| 1483 | 35 | Amanda |
+| 1484 | 35 | Nerdy Base |
+| 1485 | 35 | Isiwin |
+| 1486 | 35 | Daring Pivotfall |
+| 1487 | 35 | Fran Gerebics |
+| 1488 | 35 | Marii |
+| 1489 | 35 | Wendy Michelle |
+| 1490 | 35 | Chris Wilber |
+| 1491 | 35 | Megan |
+| 1492 | 35 | Gail Flory |
+| 1493 | 35 | RaeRae |
+| 1494 | 35 | Wacky Curve |
+| 1495 | 35 | Squirrel |
+| 1496 | 35 | Jacy Pickett |
+| 1497 | 34 | AppA |
+| 1498 | 34 | RalphyD |
 | 1499 | 34 | Flashy Wipegrid |
 | 1500 | 34 | Crazygranny |
 | 1501 | 34 | Jager |
@@ -1520,8 +1520,8 @@
 | 1512 | 33 | Sandra Mathes Reece |
 | 1513 | 33 | Debbie Embry |
 | 1514 | 33 | Nicki McGill |
-| 1515 | 33 | Stephanie Stegman |
-| 1516 | 33 | Mandy Anderson |
+| 1515 | 33 | Mandy Anderson |
+| 1516 | 33 | Stephanie Stegman |
 | 1517 | 33 | Paula Martin |
 | 1518 | 33 | Bonez |
 | 1519 | 33 | Maureen Bryan Adams |
