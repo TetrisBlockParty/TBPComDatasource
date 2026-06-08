@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:12:44 UTC
+# Standings for team1 as of 2026-06-08 23:13:20 UTC
 
 **Total Participants:** 1894
 
@@ -41,14 +41,14 @@
 | 33 | 2912 | Mary Jenkins |
 | 34 | 2698 | Brian Stackhouse |
 | 35 | 2619 | Zappy Brickline |
-| 36 | 2375 | Epic Snapfall |
+| 36 | 2381 | Epic Snapfall |
 | 37 | 2313 | Jamie Willis |
 | 38 | 2298 | Weeze |
 | 39 | 2273 | COSA303 |
 | 40 | 2138 | Linzie Marie |
 | 41 | 2076 | April Inboden |
 | 42 | 2016 | Mimi 1.0 |
-| 43 | 1995 | Cherry Rose |
+| 43 | 2005 | Cherry Rose |
 | 44 | 1931 | Ceilo Marie |
 | 45 | 1916 | Janine Hunter |
 | 46 | 1804 | Markeeta Lipscomb |
@@ -157,7 +157,7 @@
 | 149 | 620 | Charletha Williams |
 | 150 | 617 | Crystal Anderson |
 | 151 | 611 | SyTheEvilGenius1 |
-| 152 | 602 | Lesley Brunkus Cianfaglione |
+| 152 | 605 | Lesley Brunkus Cianfaglione |
 | 153 | 599 | Tammye Turner |
 | 154 | 596 | Cj Gorman |
 | 155 | 595 | Byron Mario Cawthon |
@@ -431,12 +431,12 @@
 | 423 | 226 | Monica Tovar |
 | 424 | 225 | Vera Beckford |
 | 425 | 224 | Juan Santiago |
-| 426 | 222 | Hardtohandle91 |
-| 427 | 222 | Manda Allen |
-| 428 | 221 | Rayshawn Cohen |
-| 429 | 220 | Maribel Vasquez |
-| 430 | 220 | Monica Fields |
-| 431 | 220 | Juan Alvarez |
+| 426 | 223 | Juan Alvarez |
+| 427 | 222 | Hardtohandle91 |
+| 428 | 222 | Manda Allen |
+| 429 | 221 | Rayshawn Cohen |
+| 430 | 220 | Maribel Vasquez |
+| 431 | 220 | Monica Fields |
 | 432 | 220 | Rufus |
 | 433 | 219 | De'Nell Edwards |
 | 434 | 219 | Bambi Johnson |
@@ -566,12 +566,12 @@
 | 558 | 168 | Lounique |
 | 559 | 167 | Joka NoTime ForHataz |
 | 560 | 167 | Mister Reid |
-| 561 | 166 | Melissa Olvera |
-| 562 | 166 | Sarah Steckbauer |
-| 563 | 165 | Betsy B. Yohan |
-| 564 | 165 | Lucy |
-| 565 | 165 | Alexandrla Smith |
-| 566 | 164 | Twisty Brickfit |
+| 561 | 166 | Twisty Brickfit |
+| 562 | 166 | Melissa Olvera |
+| 563 | 166 | Sarah Steckbauer |
+| 564 | 165 | Betsy B. Yohan |
+| 565 | 165 | Lucy |
+| 566 | 165 | Alexandrla Smith |
 | 567 | 164 | Jes Marie |
 | 568 | 164 | Amy Villalpando |
 | 569 | 163 | QueenShay AllGood |
@@ -947,11 +947,11 @@
 | 939 | 90 | Missy Myvette |
 | 940 | 90 | Fransine Bennett |
 | 941 | 90 | Vernon Hoyt |
-| 942 | 90 | Jennifer Moore |
-| 943 | 90 | Tramaine Crockrum |
-| 944 | 90 | Antoinette Kidd |
-| 945 | 90 | Rissa Rozay |
-| 946 | 89 | Bluebino |
+| 942 | 90 | Bluebino |
+| 943 | 90 | Jennifer Moore |
+| 944 | 90 | Tramaine Crockrum |
+| 945 | 90 | Antoinette Kidd |
+| 946 | 90 | Rissa Rozay |
 | 947 | 89 | Jazzy Bridger |
 | 948 | 89 | Ivery Lee Grays Jr. |
 | 949 | 89 | Delitra Perkins Hatter |
