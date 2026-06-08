@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 01:56:18 UTC
+# Standings for team2 as of 2026-06-08 01:56:40 UTC
 
 **Total Participants:** 2018
 
@@ -251,7 +251,7 @@
 | 243 | 339 | Keri Mears |
 | 244 | 337 | Ashley Billiot Rhodes |
 | 245 | 337 | Adriana Daniela Agapie |
-| 246 | 335 | Michelle Luke Banta |
+| 246 | 336 | Michelle Luke Banta |
 | 247 | 328 | Xandrea Jones |
 | 248 | 328 | Tim Tim |
 | 249 | 325 | Flashy Twistline |
@@ -456,31 +456,31 @@
 | 448 | 179 | Lively Curve |
 | 449 | 178 | Michael Carmichael |
 | 450 | 178 | Duke Morley |
-| 451 | 176 | Amanda L Strong |
-| 452 | 176 | Kay |
-| 453 | 174 | ZBee |
-| 454 | 174 | Rocroc mo |
-| 455 | 174 | Funway998 |
+| 451 | 176 | Jessica Connot |
+| 452 | 176 | Amanda L Strong |
+| 453 | 176 | Kay |
+| 454 | 174 | ZBee |
+| 455 | 174 | Rocroc mo |
 | 456 | 174 | Laurie |
-| 457 | 173 | Gluten Gremlin |
-| 458 | 172 | Will Jones |
-| 459 | 172 | Charity Hauser |
+| 457 | 174 | Funway998 |
+| 458 | 173 | Gluten Gremlin |
+| 459 | 172 | Will Jones |
 | 460 | 172 | Rescuegirl76 |
-| 461 | 172 | Mandy |
-| 462 | 172 | murd3rmous3 |
-| 463 | 171 | Jessica Connot |
+| 461 | 172 | Charity Hauser |
+| 462 | 172 | Mandy |
+| 463 | 172 | murd3rmous3 |
 | 464 | 171 | Francesca Wagenhoffer |
 | 465 | 170 | Kevin Patrick |
-| 466 | 170 | Dapper Riser |
-| 467 | 170 | Amber Carpenter |
-| 468 | 169 | Rydin Dirt |
-| 469 | 169 | Sandy Rundel Holderman |
-| 470 | 169 | rebel4lyfe |
+| 466 | 170 | Amber Carpenter |
+| 467 | 170 | Dapper Riser |
+| 468 | 169 | rebel4lyfe |
+| 469 | 169 | Rydin Dirt |
+| 470 | 169 | Sandy Rundel Holderman |
 | 471 | 169 | Joannah Capilitan |
 | 472 | 169 | Jaimie Walters |
 | 473 | 168 | Gwendolyn Boykin Mobbs |
-| 474 | 168 | Spicy Balanceblock |
-| 475 | 168 | Missy Renia |
+| 474 | 168 | Missy Renia |
+| 475 | 168 | Spicy Balanceblock |
 | 476 | 167 | Cara Rivera |
 | 477 | 167 | Holly Huval |
 | 478 | 166 | Wayne Johnson |
@@ -1082,8 +1082,8 @@
 | 1074 | 62 | Saucy Clearzone |
 | 1075 | 62 | Blossom48 |
 | 1076 | 61 | Mandy Smart |
-| 1077 | 61 | Chad Atchley |
-| 1078 | 61 | Deb Rose-Bridinger |
+| 1077 | 61 | Deb Rose-Bridinger |
+| 1078 | 61 | Chad Atchley |
 | 1079 | 61 | Bubbly Dash |
 | 1080 | 61 | Marcia Davis |
 | 1081 | 61 | giggly gal |
@@ -1109,15 +1109,15 @@
 | 1101 | 60 | Giggy Dropzone |
 | 1102 | 60 | Angie Rose |
 | 1103 | 60 | Speedy Gridder |
-| 1104 | 60 | Tiffany Lewis |
-| 1105 | 60 | Ramon James |
-| 1106 | 60 | Scott Lyles |
+| 1104 | 60 | Ashley Lee DeHaan |
+| 1105 | 60 | Tish |
+| 1106 | 60 | Ally Miller |
 | 1107 | 60 | Anna Chance |
-| 1108 | 60 | Tish |
-| 1109 | 60 | Ally Miller |
-| 1110 | 60 | MattandAngie Hopkins |
-| 1111 | 60 | Ashley Lee DeHaan |
-| 1112 | 60 | Gloria Appleton |
+| 1108 | 60 | Tiffany Lewis |
+| 1109 | 60 | MattandAngie Hopkins |
+| 1110 | 60 | Scott Lyles |
+| 1111 | 60 | Gloria Appleton |
+| 1112 | 60 | Ramon James |
 | 1113 | 59 | Jessica Gayle Sears |
 | 1114 | 59 | Denise Oppenheimer-Mace Lawrence Mendoza |
 | 1115 | 59 | Jolene Smith |
@@ -1136,27 +1136,27 @@
 | 1128 | 58 | Shanetta Johnson |
 | 1129 | 58 | LivePhoenix |
 | 1130 | 58 | Debra May |
-| 1131 | 58 | Melissa Willson |
+| 1131 | 58 | April Appleton |
 | 1132 | 58 | Anzhen |
 | 1133 | 58 | Dapper Spinbuilder |
-| 1134 | 57 | Rachel |
-| 1135 | 57 | Angie Barlow |
-| 1136 | 57 | Britt |
-| 1137 | 57 | Rey Huber |
-| 1138 | 57 | Corina Marie Prunty |
-| 1139 | 57 | Dandy Column |
-| 1140 | 57 | Funky Blockmatch |
-| 1141 | 57 | Brandy Wallace |
-| 1142 | 57 | Brooke Marie Fox |
-| 1143 | 56 | Bobbie Carrol |
-| 1144 | 56 | Jazzy |
-| 1145 | 56 | Rob Phillips |
-| 1146 | 56 | Danielle Etchison Mask |
-| 1147 | 56 | Daniel Cline |
-| 1148 | 56 | Bunny Bt |
-| 1149 | 56 | Jennifer Augustine |
+| 1134 | 58 | Melissa Willson |
+| 1135 | 57 | Rachel |
+| 1136 | 57 | Angie Barlow |
+| 1137 | 57 | Britt |
+| 1138 | 57 | Rey Huber |
+| 1139 | 57 | Corina Marie Prunty |
+| 1140 | 57 | Dandy Column |
+| 1141 | 57 | Funky Blockmatch |
+| 1142 | 57 | Brandy Wallace |
+| 1143 | 57 | Brooke Marie Fox |
+| 1144 | 56 | Bobbie Carrol |
+| 1145 | 56 | Jazzy |
+| 1146 | 56 | Rob Phillips |
+| 1147 | 56 | Danielle Etchison Mask |
+| 1148 | 56 | Daniel Cline |
+| 1149 | 56 | Bunny Bt |
 | 1150 | 56 | Kevin Perez |
-| 1151 | 55 | April Appleton |
+| 1151 | 56 | Jennifer Augustine |
 | 1152 | 55 | Gilbert Medina |
 | 1153 | 55 | GentleGiant Brackett |
 | 1154 | 55 | James Calhoun |
@@ -1169,9 +1169,9 @@
 | 1161 | 54 | Josie Mendivil |
 | 1162 | 54 | Christina Nycol |
 | 1163 | 54 | Swanky Twister |
-| 1164 | 54 | Jess Duehring |
-| 1165 | 54 | Alexis Turner |
-| 1166 | 54 | Rachel Wooldridge |
+| 1164 | 54 | Alexis Turner |
+| 1165 | 54 | Rachel Wooldridge |
+| 1166 | 54 | Jess Duehring |
 | 1167 | 54 | Rachel Nunn |
 | 1168 | 54 | Frothy Faller |
 | 1169 | 53 | Jenifer Gasho |
@@ -1291,20 +1291,20 @@
 | 1283 | 44 | Loony Ziggy |
 | 1284 | 44 | Cuca Perez |
 | 1285 | 44 | Nicole Dyer |
-| 1286 | 44 | Blocker |
-| 1287 | 44 | Hyper Cascade |
-| 1288 | 44 | Zippy Wobbler |
-| 1289 | 44 | Brittany Russell |
-| 1290 | 44 | William Richardson |
-| 1291 | 44 | Lisa |
-| 1292 | 43 | Patricia Ann Tondreault Hammonds |
-| 1293 | 43 | Snoop |
-| 1294 | 43 | Quirky Shifter |
-| 1295 | 43 | Michelle Brown |
-| 1296 | 43 | Kayla Faulkiner |
-| 1297 | 43 | Aguilar Rita |
-| 1298 | 43 | Betty Muise |
-| 1299 | 43 | Ashley Bryant-hatcher |
+| 1286 | 44 | Ashley Bryant-hatcher |
+| 1287 | 44 | Blocker |
+| 1288 | 44 | Hyper Cascade |
+| 1289 | 44 | Zippy Wobbler |
+| 1290 | 44 | Brittany Russell |
+| 1291 | 44 | William Richardson |
+| 1292 | 44 | Lisa |
+| 1293 | 43 | Patricia Ann Tondreault Hammonds |
+| 1294 | 43 | Snoop |
+| 1295 | 43 | Quirky Shifter |
+| 1296 | 43 | Michelle Brown |
+| 1297 | 43 | Kayla Faulkiner |
+| 1298 | 43 | Aguilar Rita |
+| 1299 | 43 | Betty Muise |
 | 1300 | 43 | Amy Hahn Nickels |
 | 1301 | 43 | Paula Stell |
 | 1302 | 43 | Fluffypuffin |
