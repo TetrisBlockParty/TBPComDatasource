@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:26:47 UTC
+# Standings for team4 as of 2026-06-08 07:27:20 UTC
 
 **Total Participants:** 1793
 
@@ -226,40 +226,40 @@
 | 218 | 323 | zoes |
 | 219 | 323 | Tiffany Brooke |
 | 220 | 320 | Magz |
-| 221 | 320 | TJ |
-| 222 | 320 | matt |
+| 221 | 320 | matt |
+| 222 | 320 | TJ |
 | 223 | 317 | Anthony Lewis |
-| 224 | 315 | Thomasena Eady Reid |
-| 225 | 312 | Danny Ortiz |
-| 226 | 312 | Anna Gribble |
-| 227 | 312 | Tyson Stroppel |
-| 228 | 306 | Janet Sanfilippo Sullivan |
-| 229 | 303 | TRUCHILD777$$$ |
-| 230 | 302 | Maria Castillo |
-| 231 | 302 | Jacqueline Jackii Ramos |
+| 224 | 317 | Jacqueline Jackii Ramos |
+| 225 | 315 | Thomasena Eady Reid |
+| 226 | 312 | Tyson Stroppel |
+| 227 | 312 | Anna Gribble |
+| 228 | 312 | Danny Ortiz |
+| 229 | 306 | Janet Sanfilippo Sullivan |
+| 230 | 303 | TRUCHILD777$$$ |
+| 231 | 302 | Maria Castillo |
 | 232 | 301 | Tiffany Bunker-Hill |
 | 233 | 300 | Genag |
 | 234 | 298 | Colin |
-| 235 | 296 | PerfectPieces |
+| 235 | 296 | beauxie |
 | 236 | 296 | Dae Von |
-| 237 | 296 | beauxie |
+| 237 | 296 | PerfectPieces |
 | 238 | 293 | Logan Two-dubs Baker |
 | 239 | 290 | Tawna Curry |
 | 240 | 289 | Shepreneur Sade |
 | 241 | 287 | Cheery Risegrid |
-| 242 | 286 | Pepper |
-| 243 | 286 | Dubiousdust |
-| 244 | 286 | Erika Seaton |
-| 245 | 286 | Kelly Howland |
+| 242 | 286 | Erika Seaton |
+| 243 | 286 | Pepper |
+| 244 | 286 | Kelly Howland |
+| 245 | 286 | Dubiousdust |
 | 246 | 285 | Dana Abegil Lawas |
 | 247 | 284 | Tipsy Builderline |
 | 248 | 283 | Tiggerjake |
-| 249 | 282 | Shanna Fragen |
-| 250 | 282 | Goofy Fall |
-| 251 | 281 | Ash Gribble |
-| 252 | 281 | Waxboss |
+| 249 | 282 | Goofy Fall |
+| 250 | 282 | Shanna Fragen |
+| 251 | 281 | Capone |
+| 252 | 281 | Ash Gribble |
 | 253 | 281 | Margie Thomas |
-| 254 | 281 | Capone |
+| 254 | 281 | Waxboss |
 | 255 | 280 | Snippy Splitter |
 | 256 | 280 | Lucy Honer |
 | 257 | 279 | Solace Grace |
@@ -482,30 +482,30 @@
 | 474 | 150 | Heidi Anne Scheiderer |
 | 475 | 150 | Bammer |
 | 476 | 150 | MrsReap |
-| 477 | 150 | Melissa Quinn |
-| 478 | 150 | Kristine Hj Han |
-| 479 | 149 | Zesty Lift |
-| 480 | 149 | Snazzy Fitclear |
-| 481 | 149 | Paula Renee McCracken |
-| 482 | 148 | Brandon Bedenbaugh |
+| 477 | 150 | Edward White |
+| 478 | 150 | Melissa Quinn |
+| 479 | 150 | Kristine Hj Han |
+| 480 | 149 | Zesty Lift |
+| 481 | 149 | Snazzy Fitclear |
+| 482 | 149 | Paula Renee McCracken |
 | 483 | 148 | Latisha TeTe Williams |
-| 484 | 147 | Betsy Froemming |
-| 485 | 147 | chefjaydawg |
-| 486 | 147 | Dawn Marie Trujillo |
-| 487 | 147 | EpicWizard |
-| 488 | 147 | Allysha McFarland |
-| 489 | 147 | Kandylands |
-| 490 | 146 | Jasmine Marie |
-| 491 | 145 | Ashley DuVall |
-| 492 | 145 | Edward White |
+| 484 | 148 | Brandon Bedenbaugh |
+| 485 | 147 | Kandylands |
+| 486 | 147 | Betsy Froemming |
+| 487 | 147 | Dawn Marie Trujillo |
+| 488 | 147 | chefjaydawg |
+| 489 | 147 | EpicWizard |
+| 490 | 147 | Allysha McFarland |
+| 491 | 146 | Jasmine Marie |
+| 492 | 145 | Ashley DuVall |
 | 493 | 144 | Kaps |
 | 494 | 143 | Celina DiBastiani |
 | 495 | 143 | Alyssa Berg |
 | 496 | 141 | Silly Fallzone |
-| 497 | 141 | Linda Miltenburg |
+| 497 | 141 | Marcus Chavis |
 | 498 | 141 | Ginny |
-| 499 | 141 | Sharon Tyler |
-| 500 | 141 | Marcus Chavis |
+| 499 | 141 | Linda Miltenburg |
+| 500 | 141 | Sharon Tyler |
 | 501 | 141 | tj |
 | 502 | 140 | alxhue04 |
 | 503 | 140 | Loopy Hitter |
@@ -680,45 +680,45 @@
 | 672 | 104 | Eddie Fuller |
 | 673 | 104 | Tipsy Piecebuilder |
 | 674 | 103 | Kayla Haddenham |
-| 675 | 103 | Courtney Niichole |
-| 676 | 103 | Angela Adamo-Tash |
+| 675 | 103 | Lady |
+| 676 | 103 | Courtney Niichole |
 | 677 | 103 | Groovy Matchgrid |
-| 678 | 103 | Lady |
-| 679 | 102 | Spicy Peach |
-| 680 | 102 | Clever Fallzone |
-| 681 | 102 | Taisha Beasley |
-| 682 | 102 | Lamont |
-| 683 | 102 | Brenda Gustamantes |
-| 684 | 102 | Kat Foreman |
-| 685 | 101 | Alaina Rousseau |
-| 686 | 101 | Abby Waterman |
-| 687 | 101 | Alicia Blunt |
-| 688 | 101 | David Lay |
-| 689 | 101 | Destiny Starr LeValdo |
-| 690 | 101 | Audrianna Skaff |
-| 691 | 101 | ManOfSteel |
-| 692 | 100 | Lady Dolphin |
+| 678 | 103 | Angela Adamo-Tash |
+| 679 | 102 | Kat Foreman |
+| 680 | 102 | Brenda Gustamantes |
+| 681 | 102 | Clever Fallzone |
+| 682 | 102 | Taisha Beasley |
+| 683 | 102 | Spicy Peach |
+| 684 | 102 | Lamont |
+| 685 | 101 | ManOfSteel |
+| 686 | 101 | Audrianna Skaff |
+| 687 | 101 | David Lay |
+| 688 | 101 | Destiny Starr LeValdo |
+| 689 | 101 | Alicia Blunt |
+| 690 | 101 | Abby Waterman |
+| 691 | 101 | Alaina Rousseau |
+| 692 | 100 | Certified Da Don |
 | 693 | 100 | Groovy Towerbuilder |
-| 694 | 100 | Aleta Svitak |
-| 695 | 100 | Certified Da Don |
-| 696 | 100 | Nova Kain |
+| 694 | 100 | Lady Dolphin |
+| 695 | 100 | Aleta Svitak |
+| 696 | 100 | Michelle Sager |
 | 697 | 100 | Aim Georgia Bros Scott |
 | 698 | 100 | Helen Bradley |
-| 699 | 100 | Michelle Sager |
+| 699 | 100 | Nova Kain |
 | 700 | 100 | Nerdy Brickster |
 | 701 | 100 | DanceAngel |
 | 702 | 100 | CorieBe |
 | 703 | 100 | Jay Keating |
-| 704 | 100 | Ern |
-| 705 | 99 | Ricardo Arias |
+| 704 | 100 | Leasa Marie |
+| 705 | 100 | Ern |
 | 706 | 99 | Darren Miguel |
-| 707 | 99 | Tamika Ashli Bonner |
-| 708 | 99 | Trang Nguyen |
-| 709 | 99 | Susan Mary Kelley |
-| 710 | 99 | Funky Twistpiece |
-| 711 | 99 | Elizabeth Putansu |
-| 712 | 99 | Rebekah Anne Macias |
-| 713 | 99 | Leasa Marie |
+| 707 | 99 | Ricardo Arias |
+| 708 | 99 | Tamika Ashli Bonner |
+| 709 | 99 | Trang Nguyen |
+| 710 | 99 | Susan Mary Kelley |
+| 711 | 99 | Funky Twistpiece |
+| 712 | 99 | Elizabeth Putansu |
+| 713 | 99 | Rebekah Anne Macias |
 | 714 | 98 | Giggy Blockpiece |
 | 715 | 98 | LeRoy jenkins |
 | 716 | 98 | Tiffany Roberts |
