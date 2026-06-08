@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:58:19 UTC
+# Standings for team1 as of 2026-06-08 05:58:44 UTC
 
 **Total Participants:** 1736
 
@@ -232,8 +232,8 @@
 | 224 | 323 | Heather Aurelia |
 | 225 | 322 | Rhonda Williams Warner |
 | 226 | 321 | Qwlonda Shirrell |
-| 227 | 320 | Natasha Rucker |
-| 228 | 320 | NastyFriend |
+| 227 | 320 | NastyFriend |
+| 228 | 320 | Natasha Rucker |
 | 229 | 318 | Nerdy Snapfall |
 | 230 | 318 | Calvin Green |
 | 231 | 317 | Michelle Titus |
@@ -241,18 +241,18 @@
 | 233 | 313 | Jhonny Maii |
 | 234 | 311 | Coco |
 | 235 | 310 | Denise B |
-| 236 | 307 | Byron Mario Cawthon |
-| 237 | 306 | Devin West |
-| 238 | 305 | Salim Thugger |
-| 239 | 304 | Steve Reno |
-| 240 | 304 | Rachel Zimmerman |
-| 241 | 303 | Queenie Perry |
-| 242 | 302 | Randizzle |
-| 243 | 302 | Chummy Frame |
-| 244 | 300 | Ketrell Bailey |
-| 245 | 300 | David Fuentes |
-| 246 | 296 | Nikki Hogan |
-| 247 | 294 | Brave Clearbuilder |
+| 236 | 309 | Brave Clearbuilder |
+| 237 | 307 | Byron Mario Cawthon |
+| 238 | 306 | Devin West |
+| 239 | 305 | Salim Thugger |
+| 240 | 304 | Steve Reno |
+| 241 | 304 | Rachel Zimmerman |
+| 242 | 303 | Queenie Perry |
+| 243 | 302 | Randizzle |
+| 244 | 302 | Chummy Frame |
+| 245 | 300 | Ketrell Bailey |
+| 246 | 300 | David Fuentes |
+| 247 | 296 | Nikki Hogan |
 | 248 | 294 | Tonya McElroy |
 | 249 | 293 | Tonya Lee Sanders |
 | 250 | 292 | Trina Greenwood |
