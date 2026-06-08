@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:46:45 UTC
+# Standings for team2 as of 2026-06-08 08:47:20 UTC
 
 **Total Participants:** 2138
 
@@ -637,23 +637,23 @@
 | 629 | 135 | Jessica Garoutte |
 | 630 | 135 | Ava Taber |
 | 631 | 134 | Busted9mm |
-| 632 | 134 | Cassandra Milner |
-| 633 | 134 | Heather Vircik |
-| 634 | 134 | Brooke Allred |
-| 635 | 133 | Newtwidebody |
-| 636 | 133 | s3lc4tr0n |
-| 637 | 132 | Kalli Bonin |
-| 638 | 132 | Kristen |
-| 639 | 132 | WhitS |
-| 640 | 132 | Belinda Gullion Austin |
-| 641 | 132 | Kimmi Blake |
-| 642 | 132 | Tim Moore |
-| 643 | 132 | Laura Fagans |
-| 644 | 131 | Nova |
-| 645 | 131 | Tamara Whiteley |
-| 646 | 131 | Tracey Cox |
-| 647 | 131 | Lyndzey Sciscoe |
-| 648 | 130 | Sara Karels |
+| 632 | 134 | Sara Karels |
+| 633 | 134 | Cassandra Milner |
+| 634 | 134 | Heather Vircik |
+| 635 | 134 | Brooke Allred |
+| 636 | 133 | Newtwidebody |
+| 637 | 133 | s3lc4tr0n |
+| 638 | 132 | Kalli Bonin |
+| 639 | 132 | Kristen |
+| 640 | 132 | WhitS |
+| 641 | 132 | Belinda Gullion Austin |
+| 642 | 132 | Kimmi Blake |
+| 643 | 132 | Tim Moore |
+| 644 | 132 | Laura Fagans |
+| 645 | 131 | Nova |
+| 646 | 131 | Tamara Whiteley |
+| 647 | 131 | Tracey Cox |
+| 648 | 131 | Lyndzey Sciscoe |
 | 649 | 130 | Desia Walker |
 | 650 | 130 | TiffTaff |
 | 651 | 130 | Tiffany Ann |
