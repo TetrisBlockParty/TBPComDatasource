@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:14:19 UTC
+# Standings for team2 as of 2026-06-08 02:14:43 UTC
 
 **Total Participants:** 2027
 
@@ -173,10 +173,10 @@
 | 165 | 510 | Michelle Rich Burkhart |
 | 166 | 505 | Judy Long |
 | 167 | 500 | Cool Balancer |
-| 168 | 498 | Kelly Rogers |
-| 169 | 497 | Amy Gale |
-| 170 | 495 | Samantha Carman |
-| 171 | 493 | Spicy Risegrid |
+| 168 | 498 | Spicy Risegrid |
+| 169 | 498 | Kelly Rogers |
+| 170 | 497 | Amy Gale |
+| 171 | 495 | Samantha Carman |
 | 172 | 486 | Chirpy Grid |
 | 173 | 484 | Steven Craig |
 | 174 | 483 | Karen Reid Cenkush |
@@ -1558,32 +1558,32 @@
 | 1550 | 28 | Mark Havens |
 | 1551 | 28 | Courtney Freeman |
 | 1552 | 28 | Swanky Snapzone |
-| 1553 | 28 | Stacey Peters |
+| 1553 | 28 | Amanda Knox |
 | 1554 | 28 | April Owings |
-| 1555 | 28 | Dawnie Rodarte |
-| 1556 | 28 | Mistress |
-| 1557 | 28 | Zesty Rollpiece |
-| 1558 | 28 | CountryGurl |
-| 1559 | 28 | Wood |
-| 1560 | 27 | lion king |
-| 1561 | 27 | Witty Shatterline |
-| 1562 | 27 | Darla |
-| 1563 | 27 | BethAnn Pawlowski |
-| 1564 | 27 | Donnell Coates |
-| 1565 | 27 | Bold Bridgepiece |
-| 1566 | 27 | Nicole Dunn |
-| 1567 | 27 | Ashley Corbett |
-| 1568 | 27 | Dreamy Linkblock |
-| 1569 | 27 | Natasha Schatte |
-| 1570 | 27 | sampson |
-| 1571 | 27 | Cyrus Ramirez |
-| 1572 | 27 | Kim |
-| 1573 | 27 | juhde |
-| 1574 | 27 | Andrea |
-| 1575 | 27 | Beth |
-| 1576 | 26 | Danibellee |
-| 1577 | 26 | Flex |
-| 1578 | 26 | Amanda Knox |
+| 1555 | 28 | Stacey Peters |
+| 1556 | 28 | Dawnie Rodarte |
+| 1557 | 28 | Mistress |
+| 1558 | 28 | Zesty Rollpiece |
+| 1559 | 28 | CountryGurl |
+| 1560 | 28 | Wood |
+| 1561 | 27 | lion king |
+| 1562 | 27 | Witty Shatterline |
+| 1563 | 27 | Darla |
+| 1564 | 27 | BethAnn Pawlowski |
+| 1565 | 27 | Donnell Coates |
+| 1566 | 27 | Bold Bridgepiece |
+| 1567 | 27 | Nicole Dunn |
+| 1568 | 27 | Ashley Corbett |
+| 1569 | 27 | Dreamy Linkblock |
+| 1570 | 27 | Natasha Schatte |
+| 1571 | 27 | sampson |
+| 1572 | 27 | Cyrus Ramirez |
+| 1573 | 27 | Kim |
+| 1574 | 27 | juhde |
+| 1575 | 27 | Andrea |
+| 1576 | 27 | Beth |
+| 1577 | 26 | Danibellee |
+| 1578 | 26 | Flex |
 | 1579 | 26 | Quirky Climber |
 | 1580 | 26 | David Starmer |
 | 1581 | 26 | Jackie Hayslip |
