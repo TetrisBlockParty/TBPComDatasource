@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:46:41 UTC
+# Standings for team1 as of 2026-06-08 07:47:19 UTC
 
 **Total Participants:** 1757
 
@@ -178,31 +178,31 @@
 | 170 | 427 | Ty Øtg |
 | 171 | 427 | Tamara N Lee |
 | 172 | 423 | Zappy Riser |
-| 173 | 420 | Hyper Slamdrop |
-| 174 | 420 | Jessica Carter |
-| 175 | 417 | Dena Marie Lee |
-| 176 | 417 | Eugina Slater |
-| 177 | 414 | Jenna Renee |
-| 178 | 414 | Plucky Slamdrop |
+| 173 | 420 | Jessica Carter |
+| 174 | 420 | Hyper Slamdrop |
+| 175 | 417 | Eugina Slater |
+| 176 | 417 | Dena Marie Lee |
+| 177 | 414 | Plucky Slamdrop |
+| 178 | 414 | Jenna Renee |
 | 179 | 413 | Murg4dr01d |
 | 180 | 412 | Dee McCool |
 | 181 | 409 | Lashaunda |
 | 182 | 405 | SPNLover24 |
 | 183 | 398 | Kenny 'Tailormade' Boyd |
 | 184 | 397 | Karebear |
-| 185 | 394 | Simmone T. Kadiri |
-| 186 | 393 | Sheila Burnham |
-| 187 | 393 | Sharon Cail |
-| 188 | 389 | Roberta Lynn |
-| 189 | 389 | GrkGdess |
-| 190 | 389 | xXEKUNXx |
-| 191 | 387 | IThinkNot |
-| 192 | 387 | Crystal Anderson |
-| 193 | 386 | Chantelle Lee |
-| 194 | 384 | Christana Imjustbutton Stone |
-| 195 | 384 | Mic Balew |
-| 196 | 382 | pooh |
-| 197 | 380 | Slinky Party |
+| 185 | 395 | Slinky Party |
+| 186 | 394 | Simmone T. Kadiri |
+| 187 | 393 | Sheila Burnham |
+| 188 | 393 | Sharon Cail |
+| 189 | 389 | Roberta Lynn |
+| 190 | 389 | GrkGdess |
+| 191 | 389 | xXEKUNXx |
+| 192 | 387 | IThinkNot |
+| 193 | 387 | Crystal Anderson |
+| 194 | 386 | Chantelle Lee |
+| 195 | 384 | Christana Imjustbutton Stone |
+| 196 | 384 | Mic Balew |
+| 197 | 382 | pooh |
 | 198 | 380 | Felicia Cain |
 | 199 | 380 | Dulo |
 | 200 | 377 | AF Cruz |
@@ -335,14 +335,14 @@
 | 327 | 221 | Chandler Magee |
 | 328 | 220 | Christian Pham |
 | 329 | 220 | HarleyJane |
-| 330 | 220 | rls |
-| 331 | 220 | Rachael Bakowicz Edwards |
+| 330 | 220 | Rachael Bakowicz Edwards |
+| 331 | 220 | rls |
 | 332 | 220 | Eric Spencer Whitaker |
 | 333 | 219 | Tamara Johnson-Carter |
 | 334 | 219 | Bambi Johnson |
 | 335 | 218 | SeanSanchez |
-| 336 | 217 | LaShaun Stinson |
-| 337 | 217 | Ashleyy Netchert |
+| 336 | 217 | Ashleyy Netchert |
+| 337 | 217 | LaShaun Stinson |
 | 338 | 217 | Tamika Fisher |
 | 339 | 217 | Louise Parker |
 | 340 | 217 | Snippy Breaker |
@@ -360,22 +360,22 @@
 | 352 | 209 | Guy Incognito |
 | 353 | 208 | izzybella |
 | 354 | 208 | Shanaa Germany Crittenden |
-| 355 | 205 | Treneil Daffin |
-| 356 | 205 | OhNoZer0 |
-| 357 | 203 | Daris Swearington |
-| 358 | 202 | Messy Live |
-| 359 | 202 | Sammie Walker |
+| 355 | 206 | McKayla Owens |
+| 356 | 205 | Treneil Daffin |
+| 357 | 205 | OhNoZer0 |
+| 358 | 203 | Daris Swearington |
+| 359 | 202 | Messy Live |
 | 360 | 202 | Peppy Glider |
-| 361 | 202 | Poppy Buildout |
-| 362 | 202 | Crystal Cheresnowsky |
-| 363 | 201 | Richard Flex |
-| 364 | 201 | Rayshawn Cohen |
-| 365 | 200 | kitten |
-| 366 | 200 | TBABYJ |
-| 367 | 200 | Lisa Fletcher |
-| 368 | 200 | Maribel Vasquez |
-| 369 | 200 | Teri Marie Clayton |
-| 370 | 200 | McKayla Owens |
+| 361 | 202 | Sammie Walker |
+| 362 | 202 | Poppy Buildout |
+| 363 | 202 | Crystal Cheresnowsky |
+| 364 | 201 | Richard Flex |
+| 365 | 201 | Rayshawn Cohen |
+| 366 | 200 | kitten |
+| 367 | 200 | TBABYJ |
+| 368 | 200 | Lisa Fletcher |
+| 369 | 200 | Maribel Vasquez |
+| 370 | 200 | Teri Marie Clayton |
 | 371 | 199 | Fina McKinnis |
 | 372 | 197 | De'Nell Edwards |
 | 373 | 196 | BabyCakes |
