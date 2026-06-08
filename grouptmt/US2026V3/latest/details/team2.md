@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:20:43 UTC
+# Standings for team2 as of 2026-06-08 08:21:19 UTC
 
 **Total Participants:** 2134
 
@@ -127,7 +127,7 @@
 | 119 | 837 | Allie Bug |
 | 120 | 832 | Amber Triguero |
 | 121 | 829 | Ricardo Ewart |
-| 122 | 806 | Courtney McCulley |
+| 122 | 809 | Courtney McCulley |
 | 123 | 800 | Denise Potter |
 | 124 | 799 | Sarah Griffey |
 | 125 | 789 | Zachary Vymislicky |

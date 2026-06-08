@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:20:43 UTC
+# Standings for team4 as of 2026-06-08 08:21:19 UTC
 
 **Total Participants:** 1799
 
@@ -437,12 +437,12 @@
 | 429 | 170 | Toon Up |
 | 430 | 170 | Natalie Dillard |
 | 431 | 170 | Edward White |
-| 432 | 168 | Juvon SupaShawdii Brooks |
-| 433 | 168 | Corie A. Brinson |
-| 434 | 167 | Jessica Jones Bolton |
-| 435 | 167 | Rosy Perez |
-| 436 | 167 | Brainbabe |
-| 437 | 167 | Miss Beast |
+| 432 | 169 | Miss Beast |
+| 433 | 168 | Juvon SupaShawdii Brooks |
+| 434 | 168 | Corie A. Brinson |
+| 435 | 167 | Jessica Jones Bolton |
+| 436 | 167 | Rosy Perez |
+| 437 | 167 | Brainbabe |
 | 438 | 166 | Rose Anna Safi |
 | 439 | 166 | DizzB400 |
 | 440 | 166 | Keith Kosmicki |
@@ -642,14 +642,14 @@
 | 634 | 112 | medicjessi |
 | 635 | 112 | Candice Sellers Worley |
 | 636 | 112 | Khiem Hernandez |
-| 637 | 111 | Elena Marí |
-| 638 | 111 | Wacky Brick |
-| 639 | 111 | Peachy Piecefit |
-| 640 | 111 | Mrsjcraw18 |
-| 641 | 111 | Richard Bearse |
-| 642 | 110 | Clever Brickzone |
-| 643 | 110 | Andreas Vs Shinky |
-| 644 | 110 | Groovy Towerbuilder |
+| 637 | 112 | Groovy Towerbuilder |
+| 638 | 111 | Elena Marí |
+| 639 | 111 | Wacky Brick |
+| 640 | 111 | Peachy Piecefit |
+| 641 | 111 | Mrsjcraw18 |
+| 642 | 111 | Richard Bearse |
+| 643 | 110 | Clever Brickzone |
+| 644 | 110 | Andreas Vs Shinky |
 | 645 | 110 | Giggy Splitter |
 | 646 | 110 | Jennifer Brucz |
 | 647 | 110 | Luna |
