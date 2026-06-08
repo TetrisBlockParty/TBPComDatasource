@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 15:02:20 UTC
+# Standings for team1 as of 2026-06-08 15:02:44 UTC
 
 **Total Participants:** 1814
 
@@ -100,8 +100,8 @@
 | 92 | 939 | Uneekly Mayde |
 | 93 | 920 | IamJust Neyamijah Washington Sr. |
 | 94 | 913 | MamaBear |
-| 95 | 911 | TAZ-MF-NIZIL |
-| 96 | 911 | Richard Horton |
+| 95 | 911 | Richard Horton |
+| 96 | 911 | TAZ-MF-NIZIL |
 | 97 | 908 | Danielle Barthelme |
 | 98 | 907 | Voice |
 | 99 | 907 | Jaida De'Anne Cox |
@@ -125,9 +125,9 @@
 | 117 | 720 | No_Other_Choice |
 | 118 | 692 | Chirpy Corner |
 | 119 | 689 | Big Tina |
-| 120 | 676 | W.A. Simpson |
-| 121 | 674 | Anthony Washington |
-| 122 | 672 | Quirky Fallgrid |
+| 120 | 677 | Quirky Fallgrid |
+| 121 | 676 | W.A. Simpson |
+| 122 | 674 | Anthony Washington |
 | 123 | 656 | La'Chae Nickole |
 | 124 | 654 | Cee Emm |
 | 125 | 647 | Andi McGreevy |
@@ -148,8 +148,8 @@
 | 140 | 573 | Rackemwillie34 |
 | 141 | 566 | Trendalyn Webb |
 | 142 | 561 | Carolynne Walker-Bell |
-| 143 | 556 | Rolanda Williams |
-| 144 | 556 | Ebony Waynes-robinson |
+| 143 | 556 | Ebony Waynes-robinson |
+| 144 | 556 | Rolanda Williams |
 | 145 | 555 | Eugina Slater |
 | 146 | 550 | Genne Scott |
 | 147 | 541 | Tammye Turner |
