@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 20:24:44 UTC
+# Standings for team1 as of 2026-06-08 20:25:21 UTC
 
 **Total Participants:** 1865
 
@@ -172,15 +172,15 @@
 | 164 | 531 | Abraham Espaillat |
 | 165 | 527 | MommaCia |
 | 166 | 523 | DellaLucretia Thomas |
-| 167 | 520 | Spicy Risepiece |
-| 168 | 520 | Felicia Cain |
-| 169 | 520 | Dulo |
-| 170 | 519 | Slinky Party |
-| 171 | 517 | Kaleisha Smith |
-| 172 | 513 | Sharon Cail |
-| 173 | 511 | Dizzy Dropper |
-| 174 | 505 | Marcheta Cervantez |
-| 175 | 505 | Slim Shedidthat |
+| 167 | 521 | Slim Shedidthat |
+| 168 | 520 | Spicy Risepiece |
+| 169 | 520 | Felicia Cain |
+| 170 | 520 | Dulo |
+| 171 | 519 | Slinky Party |
+| 172 | 517 | Kaleisha Smith |
+| 173 | 513 | Sharon Cail |
+| 174 | 511 | Dizzy Dropper |
+| 175 | 505 | Marcheta Cervantez |
 | 176 | 501 | IThinkNot |
 | 177 | 496 | Dandy Brickfit |
 | 178 | 494 | DaVonte' Cretter |
@@ -407,10 +407,10 @@
 | 399 | 224 | Asha Langford |
 | 400 | 224 | Juan Santiago |
 | 401 | 223 | Daris Swearington |
-| 402 | 222 | Ashleyy Netchert |
-| 403 | 222 | Hardtohandle91 |
-| 404 | 222 | Eric Spencer Whitaker |
-| 405 | 221 | Slinky Snapbuilder |
+| 402 | 223 | Slinky Snapbuilder |
+| 403 | 222 | Ashleyy Netchert |
+| 404 | 222 | Hardtohandle91 |
+| 405 | 222 | Eric Spencer Whitaker |
 | 406 | 221 | Rayshawn Cohen |
 | 407 | 221 | Kristine Marie Palmer |
 | 408 | 220 | Rufus |
@@ -920,23 +920,23 @@
 | 912 | 89 | Marsha Earl |
 | 913 | 88 | Mumitt |
 | 914 | 88 | Maria Baez Medina |
-| 915 | 88 | Amaadi Ward |
-| 916 | 88 | NickyJay Jones |
+| 915 | 88 | NickyJay Jones |
+| 916 | 88 | Amaadi Ward |
 | 917 | 88 | Phoenix |
-| 918 | 87 | Natalie Burroughs |
-| 919 | 87 | Denise Cunningham-English |
-| 920 | 87 | Angela L Charles |
-| 921 | 87 | Cj Chimelis |
-| 922 | 87 | Samona Mcculler |
-| 923 | 87 | LexiiSamayaa |
-| 924 | 86 | Tweet Turner |
-| 925 | 86 | Saucy Faller |
-| 926 | 86 | Tip318 |
-| 927 | 86 | Krista McNair |
-| 928 | 86 | Erica Campbell-Stillings |
+| 918 | 87 | Erica Campbell-Stillings |
+| 919 | 87 | Natalie Burroughs |
+| 920 | 87 | Denise Cunningham-English |
+| 921 | 87 | Angela L Charles |
+| 922 | 87 | Cj Chimelis |
+| 923 | 87 | Samona Mcculler |
+| 924 | 87 | LexiiSamayaa |
+| 925 | 86 | Tweet Turner |
+| 926 | 86 | Saucy Faller |
+| 927 | 86 | Tip318 |
+| 928 | 86 | Krista McNair |
 | 929 | 86 | LaTonya Rivers |
-| 930 | 85 | Tray Tolliver |
-| 931 | 85 | Chill Linkroll |
+| 930 | 85 | Chill Linkroll |
+| 931 | 85 | Tray Tolliver |
 | 932 | 85 | Abdul Malik |
 | 933 | 85 | Anthony Collins |
 | 934 | 85 | Kidgib5 |

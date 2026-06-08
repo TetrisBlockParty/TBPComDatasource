@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 20:24:44 UTC
+# Standings for team4 as of 2026-06-08 20:25:21 UTC
 
 **Total Participants:** 1914
 
@@ -42,7 +42,7 @@
 | 34 | 3421 | Fruitpunch |
 | 35 | 3360 | Irene Arreguin |
 | 36 | 3352 | Boldy Crusher |
-| 37 | 3255 | Leigh Pierce |
+| 37 | 3285 | Leigh Pierce |
 | 38 | 3200 | Leah Gorsuch |
 | 39 | 3150 | Destiny Dyer |
 | 40 | 2800 | Caitlin Johnson |
@@ -534,14 +534,14 @@
 | 526 | 174 | Eddie Fuller |
 | 527 | 174 | Bammer |
 | 528 | 172 | Kea Sushi |
-| 529 | 171 | Joe Richard |
+| 529 | 172 | Lul Babie |
 | 530 | 171 | Stotty |
-| 531 | 170 | Edward White |
-| 532 | 170 | Earl Edwards |
-| 533 | 170 | Lul Babie |
-| 534 | 170 | Robert Crow |
-| 535 | 170 | Brandon Bedenbaugh |
-| 536 | 170 | Natalie Dillard |
+| 531 | 171 | Joe Richard |
+| 532 | 170 | Natalie Dillard |
+| 533 | 170 | Edward White |
+| 534 | 170 | Earl Edwards |
+| 535 | 170 | Robert Crow |
+| 536 | 170 | Brandon Bedenbaugh |
 | 537 | 169 | Jeri Anne Stormo-Toman |
 | 538 | 168 | Kimberly Ann |
 | 539 | 168 | Shaunna Caldwell |
