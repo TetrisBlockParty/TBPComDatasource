@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:18:41 UTC
+# Standings for team1 as of 2026-06-08 19:19:19 UTC
 
 **Total Participants:** 1849
 
@@ -152,8 +152,8 @@
 | 144 | 601 | JaszyBadd |
 | 145 | 596 | Cj Gorman |
 | 146 | 591 | Tammye Turner |
-| 147 | 584 | Novaa |
-| 148 | 584 | Lesley Brunkus Cianfaglione |
+| 147 | 585 | Lesley Brunkus Cianfaglione |
+| 148 | 584 | Novaa |
 | 149 | 582 | Nutty Spinblock |
 | 150 | 574 | Murg4dr01d |
 | 151 | 569 | Zachary Colegrove |
@@ -177,48 +177,48 @@
 | 169 | 516 | Peppy Piececlear |
 | 170 | 513 | Sharon Cail |
 | 171 | 511 | Dizzy Dropper |
-| 172 | 501 | IThinkNot |
-| 173 | 494 | DaVonte' Cretter |
-| 174 | 494 | Plucky Slamdrop |
-| 175 | 494 | Ty Øtg |
-| 176 | 493 | Dandy Brickfit |
-| 177 | 491 | Sarah Clark |
-| 178 | 486 | Andre Sanon |
-| 179 | 485 | xXEKUNXx |
-| 180 | 485 | Tamara N Lee |
-| 181 | 482 | Jamal Itzjusmall Chambers |
-| 182 | 477 | Nobles Brandon |
-| 183 | 476 | BULLSEYE |
-| 184 | 466 | Tootsie Pop |
-| 185 | 466 | Roberta Lynn |
-| 186 | 465 | TT |
+| 172 | 505 | Marcheta Cervantez |
+| 173 | 501 | IThinkNot |
+| 174 | 494 | DaVonte' Cretter |
+| 175 | 494 | Plucky Slamdrop |
+| 176 | 494 | Ty Øtg |
+| 177 | 493 | Dandy Brickfit |
+| 178 | 491 | Sarah Clark |
+| 179 | 486 | Andre Sanon |
+| 180 | 485 | xXEKUNXx |
+| 181 | 485 | Tamara N Lee |
+| 182 | 482 | Jamal Itzjusmall Chambers |
+| 183 | 477 | Nobles Brandon |
+| 184 | 476 | BULLSEYE |
+| 185 | 466 | Tootsie Pop |
+| 186 | 466 | Roberta Lynn |
 | 187 | 465 | sha |
-| 188 | 458 | Jimmie Makia |
-| 189 | 456 | Zappy Riser |
+| 188 | 465 | TT |
+| 189 | 458 | Jimmie Makia |
 | 190 | 456 | Cachet A Ward |
-| 191 | 453 | LaToya Chambers |
-| 192 | 452 | Kenny MrOnethousand Peck |
-| 193 | 451 | Simmone T. Kadiri |
-| 194 | 446 | Joey Albright |
-| 195 | 446 | pooh |
-| 196 | 445 | Marcheta Cervantez |
-| 197 | 444 | Kevin M. McGhee Jr |
-| 198 | 444 | Helen Smith |
+| 191 | 456 | Zappy Riser |
+| 192 | 453 | LaToya Chambers |
+| 193 | 452 | Kenny MrOnethousand Peck |
+| 194 | 451 | Simmone T. Kadiri |
+| 195 | 446 | Joey Albright |
+| 196 | 446 | pooh |
+| 197 | 444 | Helen Smith |
+| 198 | 444 | Kevin M. McGhee Jr |
 | 199 | 442 | Rachel Zimmerman |
 | 200 | 440 | Tanya Clayton |
 | 201 | 439 | Asani CHumba |
 | 202 | 438 | Zippy Tilefall |
-| 203 | 435 | DellaLucretia Thomas |
-| 204 | 435 | Tishauna Virgo |
+| 203 | 435 | Tishauna Virgo |
+| 204 | 435 | DellaLucretia Thomas |
 | 205 | 431 | Lashawn Wallace |
 | 206 | 431 | Tina Mitchell |
-| 207 | 430 | boogeywoogey |
-| 208 | 430 | Karebear |
+| 207 | 430 | Karebear |
+| 208 | 430 | boogeywoogey |
 | 209 | 424 | Choc |
-| 210 | 422 | Mic Balew |
-| 211 | 422 | David Fuentes |
-| 212 | 421 | Slim Shedidthat |
-| 213 | 421 | JaClanDiah |
+| 210 | 422 | David Fuentes |
+| 211 | 422 | Mic Balew |
+| 212 | 421 | JaClanDiah |
+| 213 | 421 | Slim Shedidthat |
 | 214 | 420 | Cheeky Pop |
 | 215 | 420 | Jessica Carter |
 | 216 | 419 | Jenna Renee |
