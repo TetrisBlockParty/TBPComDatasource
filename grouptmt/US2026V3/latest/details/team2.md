@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:06:19 UTC
+# Standings for team2 as of 2026-06-08 11:06:41 UTC
 
 **Total Participants:** 2154
 
@@ -28,7 +28,7 @@
 | 20 | 5150 | boblawboblaw |
 | 21 | 5001 | Bobbi |
 | 22 | 4947 | Lola C Davis |
-| 23 | 4755 | Alexia Reagan |
+| 23 | 4803 | Alexia Reagan |
 | 24 | 4659 | Kathleen M Cox |
 | 25 | 4228 | Erica Dees Parks |
 | 26 | 4219 | Jewels |
@@ -104,11 +104,11 @@
 | 96 | 1060 | Criccett Hooper-Smith |
 | 97 | 1049 | Smiley Dropper |
 | 98 | 1031 | Ruby Sandberg |
-| 99 | 1016 | Amber Salazar |
-| 100 | 1000 | LEW |
-| 101 | 1000 | Sydney Headley |
-| 102 | 988 | Dane Marko |
-| 103 | 984 | Bon Lynn |
+| 99 | 1024 | Bon Lynn |
+| 100 | 1016 | Amber Salazar |
+| 101 | 1000 | LEW |
+| 102 | 1000 | Sydney Headley |
+| 103 | 988 | Dane Marko |
 | 104 | 978 | Renee Freeman Jacobson |
 | 105 | 966 | Allison Jarman |
 | 106 | 946 | Jazzy Faller |
@@ -197,14 +197,14 @@
 | 189 | 486 | Chirpy Grid |
 | 190 | 484 | Steven Craig |
 | 191 | 483 | Karen Reid Cenkush |
-| 192 | 480 | DukeDino |
-| 193 | 480 | Jacob Carpenter |
-| 194 | 476 | Sara Perkins |
-| 195 | 470 | Zesty Strikerbuilder |
-| 196 | 469 | Lashanda Bertram |
+| 192 | 482 | Lori Whitman |
+| 193 | 480 | DukeDino |
+| 194 | 480 | Jacob Carpenter |
+| 195 | 476 | Sara Perkins |
+| 196 | 470 | Zesty Strikerbuilder |
 | 197 | 469 | Theresa Hollinger |
-| 198 | 467 | Lisa Underwood Desmond |
-| 199 | 462 | Lori Whitman |
+| 198 | 469 | Lashanda Bertram |
+| 199 | 467 | Lisa Underwood Desmond |
 | 200 | 461 | Charles E Mccardell |
 | 201 | 457 | MegaPooh |
 | 202 | 453 | Ashley Green |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 11:06:19 UTC
+# Standings for team4 as of 2026-06-08 11:06:41 UTC
 
 **Total Participants:** 1816
 
@@ -27,8 +27,8 @@
 | 19 | 4738 | t |
 | 20 | 4600 | Chris Hills |
 | 21 | 4579 | Nia Mayfield |
-| 22 | 4312 | Tyra Brooke Everman Forest |
-| 23 | 4289 | Ning Quiambao |
+| 22 | 4489 | Ning Quiambao |
+| 23 | 4312 | Tyra Brooke Everman Forest |
 | 24 | 4219 | Jackie Lucas |
 | 25 | 4072 | Witty Clicky |
 | 26 | 3935 | TitiLo72 |
@@ -999,89 +999,89 @@
 | 991 | 67 | James Moore |
 | 992 | 67 | Wacky Snaplink |
 | 993 | 67 | Trishaann Triplett |
-| 994 | 67 | Eric Quan |
-| 995 | 67 | Yournightmare |
-| 996 | 66 | Danielle Porter |
-| 997 | 66 | Perky Balanceblock |
-| 998 | 66 | james |
-| 999 | 66 | MattJennifer Marie Ericson |
-| 1000 | 66 | Scarlett Ashley Clark |
-| 1001 | 65 | Joshua Franklin |
-| 1002 | 65 | EmBem |
-| 1003 | 65 | Rebecca Renaud |
-| 1004 | 65 | Gabby Simones |
-| 1005 | 65 | Mamissa |
-| 1006 | 64 | Jennifer Tate |
-| 1007 | 64 | Jumpy Brickline |
-| 1008 | 64 | Dandy Linkgrid |
-| 1009 | 64 | Heather Garrity |
-| 1010 | 64 | Daffney Starr |
-| 1011 | 64 | Daring Brickbuilder |
-| 1012 | 64 | LaShieka Noland |
-| 1013 | 64 | Megan Lynn |
+| 994 | 67 | Yournightmare |
+| 995 | 67 | Bo Hagan |
+| 996 | 67 | Eric Quan |
+| 997 | 66 | Danielle Porter |
+| 998 | 66 | Perky Balanceblock |
+| 999 | 66 | Tati |
+| 1000 | 66 | MattJennifer Marie Ericson |
+| 1001 | 66 | james |
+| 1002 | 66 | Scarlett Ashley Clark |
+| 1003 | 65 | Joshua Franklin |
+| 1004 | 65 | EmBem |
+| 1005 | 65 | Gabby Simones |
+| 1006 | 65 | Rebecca Renaud |
+| 1007 | 65 | Mamissa |
+| 1008 | 64 | Jennifer Tate |
+| 1009 | 64 | Jumpy Brickline |
+| 1010 | 64 | LaShieka Noland |
+| 1011 | 64 | Dandy Linkgrid |
+| 1012 | 64 | Megan Lynn |
+| 1013 | 64 | Daring Brickbuilder |
 | 1014 | 64 | Lovely |
-| 1015 | 64 | Krissy Smith |
-| 1016 | 64 | Anthony McAlister |
-| 1017 | 64 | Amy Gutierrez |
-| 1018 | 64 | MamaC |
-| 1019 | 63 | ButterfliesRFree |
-| 1020 | 63 | Bridget Reilly |
-| 1021 | 63 | JP |
-| 1022 | 63 | Tati |
+| 1015 | 64 | Heather Garrity |
+| 1016 | 64 | Daffney Starr |
+| 1017 | 64 | Anthony McAlister |
+| 1018 | 64 | Amy Gutierrez |
+| 1019 | 64 | MamaC |
+| 1020 | 64 | Krissy Smith |
+| 1021 | 63 | ButterfliesRFree |
+| 1022 | 63 | JP |
 | 1023 | 63 | San |
-| 1024 | 62 | Marie Culbert |
-| 1025 | 62 | Zippy Snaplink |
-| 1026 | 62 | Shane Tate |
-| 1027 | 62 | Leslie Ramos |
-| 1028 | 62 | Casey Thomas |
-| 1029 | 62 | Giggly Gridzone |
-| 1030 | 62 | Pink Tetramino |
-| 1031 | 61 | Jessica Caminos |
-| 1032 | 61 | Milton Lawrence |
-| 1033 | 61 | Heidi Lyn Ramirez |
-| 1034 | 61 | Luunii |
-| 1035 | 61 | Michellee Lewis |
+| 1024 | 63 | Bridget Reilly |
+| 1025 | 62 | Giggly Gridzone |
+| 1026 | 62 | Leslie Ramos |
+| 1027 | 62 | Marie Culbert |
+| 1028 | 62 | Shane Tate |
+| 1029 | 62 | Zippy Snaplink |
+| 1030 | 62 | Casey Thomas |
+| 1031 | 62 | Pink Tetramino |
+| 1032 | 61 | Jessica Caminos |
+| 1033 | 61 | Milton Lawrence |
+| 1034 | 61 | Michellee Lewis |
+| 1035 | 61 | Heidi Lyn Ramirez |
 | 1036 | 61 | Charles Chauffe |
-| 1037 | 61 | Snappy Fill |
-| 1038 | 61 | MsThick SrtLady Williams |
-| 1039 | 61 | Maicy Darrah |
-| 1040 | 61 | Becky Bernazal |
+| 1037 | 61 | Archer Family Mayhem |
+| 1038 | 61 | Snappy Fill |
+| 1039 | 61 | MsThick SrtLady Williams |
+| 1040 | 61 | Maicy Darrah |
 | 1041 | 61 | Danielle Sulano |
-| 1042 | 61 | Archer Family Mayhem |
-| 1043 | 60 | Keisha Petway |
-| 1044 | 60 | Loony Edge |
+| 1042 | 61 | Becky Bernazal |
+| 1043 | 61 | Luunii |
+| 1044 | 60 | Keisha Petway |
 | 1045 | 60 | Gualberto Ramirez |
 | 1046 | 60 | Bumpy Morris |
-| 1047 | 60 | Deanne Silverdahl |
+| 1047 | 60 | Loony Edge |
 | 1048 | 60 | Dsay Yates |
-| 1049 | 60 | Charissa W Walton |
-| 1050 | 60 | Laryssia Taylor |
-| 1051 | 60 | Tiffy |
-| 1052 | 60 | Jessica Kelly |
-| 1053 | 60 | Tommy Thomas |
-| 1054 | 60 | Lemus |
-| 1055 | 60 | Saucy Matchfit |
-| 1056 | 60 | Chris Rowe |
-| 1057 | 60 | Brett |
-| 1058 | 60 | Koren Heersink |
-| 1059 | 60 | Gingerale<3 |
-| 1060 | 60 | Tipsy Curvetile |
-| 1061 | 60 | Sha Ta Nay Mitchell |
-| 1062 | 60 | Chelsea Costa |
-| 1063 | 60 | Brittany LeGros |
-| 1064 | 59 | Snippy Fitblock |
-| 1065 | 59 | Ash |
-| 1066 | 59 | Krushie |
-| 1067 | 59 | Gwendolyn Langwinski |
-| 1068 | 59 | Joshua Powers |
-| 1069 | 59 | Denisha Schinell Boyd |
-| 1070 | 59 | Jonathan Jackson |
-| 1071 | 59 | Beezy |
-| 1072 | 59 | Bo Hagan |
-| 1073 | 59 | Joe Joe |
-| 1074 | 59 | Sandy Daye |
-| 1075 | 59 | Tammy Lasseigne |
-| 1076 | 59 | Blessedmama |
+| 1049 | 60 | Deanne Silverdahl |
+| 1050 | 60 | Saucy Matchfit |
+| 1051 | 60 | Charissa W Walton |
+| 1052 | 60 | Sha Ta Nay Mitchell |
+| 1053 | 60 | Gingerale<3 |
+| 1054 | 60 | Jessica Kelly |
+| 1055 | 60 | Tipsy Curvetile |
+| 1056 | 60 | Tiffy |
+| 1057 | 60 | Lemus |
+| 1058 | 60 | Chris Rowe |
+| 1059 | 60 | Laryssia Taylor |
+| 1060 | 60 | Tommy Thomas |
+| 1061 | 60 | Koren Heersink |
+| 1062 | 60 | Brett |
+| 1063 | 60 | Chelsea Costa |
+| 1064 | 60 | Brittany LeGros |
+| 1065 | 59 | Snippy Fitblock |
+| 1066 | 59 | Joshua Powers |
+| 1067 | 59 | Tammy Lasseigne |
+| 1068 | 59 | Krushie |
+| 1069 | 59 | Gwendolyn Langwinski |
+| 1070 | 59 | Joe Joe |
+| 1071 | 59 | Ash |
+| 1072 | 59 | Sandy Daye |
+| 1073 | 59 | Beezy |
+| 1074 | 59 | Blessedmama |
+| 1075 | 59 | Denisha Schinell Boyd |
+| 1076 | 59 | Jonathan Jackson |
 | 1077 | 58 | Matt Akm |
 | 1078 | 58 | Jessica Sanchez |
 | 1079 | 58 | Bold Snapper |
