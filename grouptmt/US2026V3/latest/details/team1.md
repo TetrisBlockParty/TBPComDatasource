@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:12:41 UTC
+# Standings for team1 as of 2026-06-08 02:13:20 UTC
 
 **Total Participants:** 1669
 
@@ -118,9 +118,9 @@
 | 110 | 651 | Slinky Puzzler |
 | 111 | 649 | Cee Emm |
 | 112 | 647 | Andi McGreevy |
-| 113 | 631 | Big Tina |
-| 114 | 630 | Bambi Love |
-| 115 | 630 | Mimi 1.0 |
+| 113 | 642 | Mimi 1.0 |
+| 114 | 631 | Big Tina |
+| 115 | 630 | Bambi Love |
 | 116 | 629 | Jason Mungin |
 | 117 | 622 | Alana Renee |
 | 118 | 619 | Ottison Dianna |
@@ -464,57 +464,57 @@
 | 456 | 140 | rls |
 | 457 | 140 | Genne Scott |
 | 458 | 139 | Bold Clusterer |
-| 459 | 138 | Claudia Price |
-| 460 | 138 | Dreamzzz |
-| 461 | 138 | Seddrick |
-| 462 | 138 | Ozell Jones Jr. |
-| 463 | 138 | Tajuana Juana'Cee Coleman |
-| 464 | 138 | Yadira Salgado |
-| 465 | 137 | Tay |
-| 466 | 137 | Kelvin Cook |
-| 467 | 136 | Peppy Glider |
-| 468 | 136 | Char |
+| 459 | 138 | Tajuana Juana'Cee Coleman |
+| 460 | 138 | Claudia Price |
+| 461 | 138 | Dreamzzz |
+| 462 | 138 | Seddrick |
+| 463 | 138 | Yadira Salgado |
+| 464 | 138 | Ozell Jones Jr. |
+| 465 | 137 | Kelvin Cook |
+| 466 | 137 | Tay |
+| 467 | 136 | Char |
+| 468 | 136 | Peppy Glider |
 | 469 | 136 | Shakuria Cortia Burney |
-| 470 | 135 | Saucy Tile |
-| 471 | 135 | MzJuice Box |
+| 470 | 135 | Chirpy Buildgrid |
+| 471 | 135 | Saucy Tile |
 | 472 | 135 | Marshall Davis |
-| 473 | 135 | Chirpy Buildgrid |
-| 474 | 134 | Perky Pusher |
-| 475 | 134 | Aaron Hartmann |
-| 476 | 134 | Taz Ballard |
-| 477 | 133 | Christi Walker Patton |
-| 478 | 133 | Marlynnnnn |
+| 473 | 135 | MzJuice Box |
+| 474 | 134 | Aaron Hartmann |
+| 475 | 134 | Taz Ballard |
+| 476 | 134 | Perky Pusher |
+| 477 | 133 | Marlynnnnn |
+| 478 | 133 | Christi Walker Patton |
 | 479 | 133 | Kimberly Susan Privette |
-| 480 | 132 | Twisty Brickfit |
-| 481 | 132 | Jeffrey Barrows |
-| 482 | 131 | Karen Denen |
+| 480 | 132 | The DUBZ |
+| 481 | 132 | Twisty Brickfit |
+| 482 | 132 | Jeffrey Barrows |
 | 483 | 131 | Lynnette WheelerBushnell |
-| 484 | 130 | Erica Charlise |
-| 485 | 130 | Jessica Davis |
+| 484 | 131 | Karen Denen |
+| 485 | 130 | Erica Charlise |
 | 486 | 130 | Kesha Brady |
-| 487 | 129 | PSD |
-| 488 | 129 | Loopy Tiler |
-| 489 | 129 | Lynn |
-| 490 | 129 | Mathew Trudell |
-| 491 | 129 | JesusSaves 😇 |
-| 492 | 129 | Lozuna |
+| 487 | 130 | Jessica Davis |
+| 488 | 129 | Zany Breaker |
+| 489 | 129 | Lucy |
+| 490 | 129 | Loopy Tiler |
+| 491 | 129 | PSD |
+| 492 | 129 | Lynn |
 | 493 | 129 | Cauiasia DeJ'ae |
-| 494 | 129 | Lucy |
-| 495 | 129 | Zany Breaker |
-| 496 | 128 | Jack Vlasak |
-| 497 | 128 | BonnieB |
-| 498 | 128 | Zappy Snapgrid |
-| 499 | 128 | Kimberly Anderson |
-| 500 | 127 | Ashley Monet Terrell |
-| 501 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 502 | 126 | Terrie |
-| 503 | 126 | Laurie Napper |
-| 504 | 126 | Kahliah Baker |
-| 505 | 125 | Dizzy Dashy |
+| 494 | 129 | Lozuna |
+| 495 | 129 | JesusSaves 😇 |
+| 496 | 129 | Mathew Trudell |
+| 497 | 128 | Zappy Snapgrid |
+| 498 | 128 | Kimberly Anderson |
+| 499 | 128 | BonnieB |
+| 500 | 128 | Jack Vlasak |
+| 501 | 127 | Ashley Monet Terrell |
+| 502 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 503 | 126 | Terrie |
+| 504 | 126 | Laurie Napper |
+| 505 | 126 | Kahliah Baker |
 | 506 | 125 | Jenni Hardman |
-| 507 | 125 | Christina Singleton |
-| 508 | 124 | Li-Li Ratliff |
-| 509 | 124 | The DUBZ |
+| 507 | 125 | Dizzy Dashy |
+| 508 | 125 | Christina Singleton |
+| 509 | 124 | Li-Li Ratliff |
 | 510 | 124 | Jes Marie |
 | 511 | 124 | Logan Frost |
 | 512 | 123 | Daring Riserfit |
