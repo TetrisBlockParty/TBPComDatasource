@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:00:20 UTC
+# Standings for team1 as of 2026-06-08 06:00:45 UTC
 
 **Total Participants:** 1736
 
@@ -20,7 +20,7 @@
 | 12 | 7070 | Death by SnuSnu |
 | 13 | 6336 | Speedy Spinblock |
 | 14 | 6211 | Timothy Robert |
-| 15 | 5529 | Jocelyn Pope-Sewell |
+| 15 | 5534 | Jocelyn Pope-Sewell |
 | 16 | 5282 | Plucky Swipe |
 | 17 | 5141 | Hunter Rayborn |
 | 18 | 4095 | Cassidy Butler |
@@ -104,16 +104,16 @@
 | 96 | 795 | Joy Citizen Pickney |
 | 97 | 787 | Dawn L Washington-Feuquay |
 | 98 | 754 | LeeLee08 |
-| 99 | 749 | Jason Mungin |
-| 100 | 749 | Aviv Zehavi |
+| 99 | 749 | Aviv Zehavi |
+| 100 | 749 | Jason Mungin |
 | 101 | 744 | Chris Caniglia |
 | 102 | 743 | Tameka Jones |
 | 103 | 739 | Yolanda E Fergerson |
 | 104 | 730 | ing410 |
 | 105 | 723 | Eartha Brown |
 | 106 | 721 | Sarah Marie |
-| 107 | 720 | No_Other_Choice |
-| 108 | 720 | Felicia Williams |
+| 107 | 720 | Felicia Williams |
+| 108 | 720 | No_Other_Choice |
 | 109 | 718 | Jaida King |
 | 110 | 692 | Chirpy Corner |
 | 111 | 681 | Slinky Puzzler |
@@ -124,8 +124,8 @@
 | 116 | 649 | Cee Emm |
 | 117 | 647 | Andi McGreevy |
 | 118 | 642 | Big Tina |
-| 119 | 630 | Shontanese Adams |
-| 120 | 630 | Bambi Love |
+| 119 | 630 | Bambi Love |
+| 120 | 630 | Shontanese Adams |
 | 121 | 627 | Alana Renee |
 | 122 | 619 | Ottison Dianna |
 | 123 | 618 | Quirky Fallgrid |
@@ -143,23 +143,23 @@
 | 135 | 544 | Gael Quintana |
 | 136 | 533 | Robbie Cheeseman |
 | 137 | 531 | Abraham Espaillat |
-| 138 | 527 | MommaCia |
-| 139 | 517 | Kaleisha Smith |
-| 140 | 517 | Cathy Young |
-| 141 | 511 | Dizzy Dropper |
-| 142 | 509 | Shell Lewis |
-| 143 | 503 | Atlantalindi |
-| 144 | 495 | De'Laonzeo Anthony |
-| 145 | 494 | DaVonte' Cretter |
-| 146 | 487 | Novaa |
-| 147 | 482 | Spunky Edgefit |
+| 138 | 530 | Genne Scott |
+| 139 | 527 | MommaCia |
+| 140 | 517 | Kaleisha Smith |
+| 141 | 517 | Cathy Young |
+| 142 | 511 | Dizzy Dropper |
+| 143 | 509 | Shell Lewis |
+| 144 | 503 | Atlantalindi |
+| 145 | 495 | De'Laonzeo Anthony |
+| 146 | 494 | DaVonte' Cretter |
+| 147 | 487 | Novaa |
 | 148 | 482 | Jamal Itzjusmall Chambers |
-| 149 | 470 | Genne Scott |
+| 149 | 482 | Spunky Edgefit |
 | 150 | 470 | La'Chae Nickole |
 | 151 | 470 | Tammye Turner |
 | 152 | 467 | Lesley Brunkus Cianfaglione |
-| 153 | 456 | Cachet A Ward |
-| 154 | 456 | Andre Sanon |
+| 153 | 456 | Andre Sanon |
+| 154 | 456 | Cachet A Ward |
 | 155 | 452 | Kenny MrOnethousand Peck |
 | 156 | 447 | Ebony Waynes-robinson |
 | 157 | 444 | Helen Smith |
@@ -170,8 +170,8 @@
 | 162 | 435 | Nobles Brandon |
 | 163 | 431 | Lashawn Wallace |
 | 164 | 427 | Ty Øtg |
-| 165 | 420 | Hyper Slamdrop |
-| 166 | 420 | Jessica Carter |
+| 165 | 420 | Jessica Carter |
+| 166 | 420 | Hyper Slamdrop |
 | 167 | 417 | Dena Marie Lee |
 | 168 | 417 | Eugina Slater |
 | 169 | 416 | Peppy Piececlear |

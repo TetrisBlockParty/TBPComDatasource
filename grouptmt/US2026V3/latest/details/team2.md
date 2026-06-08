@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:00:20 UTC
+# Standings for team2 as of 2026-06-08 06:00:45 UTC
 
 **Total Participants:** 2114
 
@@ -672,29 +672,29 @@
 | 664 | 125 | Kimberly Davis |
 | 665 | 124 | Rachel M. Farnsworth |
 | 666 | 124 | Cool Patternbuilder |
-| 667 | 123 | Kawana Nesbitt |
-| 668 | 123 | Po Yee |
-| 669 | 122 | Fancy Stacker |
-| 670 | 122 | Lindsey Ross |
-| 671 | 122 | Coleta Singleton-Gallishaw |
-| 672 | 121 | Patrick Ohanlon |
-| 673 | 121 | Shannon Posner |
-| 674 | 121 | Spencer Ryder |
-| 675 | 120 | Cranky Basepiece |
-| 676 | 120 | Tonya Greger |
-| 677 | 120 | Tito Garcia |
-| 678 | 120 | Sharilyn Jackson |
-| 679 | 120 | Breezy |
-| 680 | 120 | Keisha Robinson |
-| 681 | 120 | Donutz |
-| 682 | 120 | Hog Crankin |
-| 683 | 120 | Darla Ragsdale |
-| 684 | 120 | Ashley Eneboe |
-| 685 | 120 | Alice Petterborg Barberich |
-| 686 | 120 | Rhonda Driskill |
-| 687 | 120 | Deezie |
-| 688 | 120 | Cody Gates |
-| 689 | 120 | Steve Eakins |
+| 667 | 124 | Steve Eakins |
+| 668 | 123 | Kawana Nesbitt |
+| 669 | 123 | Po Yee |
+| 670 | 122 | Fancy Stacker |
+| 671 | 122 | Lindsey Ross |
+| 672 | 122 | Coleta Singleton-Gallishaw |
+| 673 | 121 | Patrick Ohanlon |
+| 674 | 121 | Shannon Posner |
+| 675 | 121 | Spencer Ryder |
+| 676 | 120 | Cranky Basepiece |
+| 677 | 120 | Tonya Greger |
+| 678 | 120 | Tito Garcia |
+| 679 | 120 | Sharilyn Jackson |
+| 680 | 120 | Breezy |
+| 681 | 120 | Keisha Robinson |
+| 682 | 120 | Donutz |
+| 683 | 120 | Hog Crankin |
+| 684 | 120 | Darla Ragsdale |
+| 685 | 120 | Ashley Eneboe |
+| 686 | 120 | Alice Petterborg Barberich |
+| 687 | 120 | Rhonda Driskill |
+| 688 | 120 | Deezie |
+| 689 | 120 | Cody Gates |
 | 690 | 119 | Jasmine Goggans |
 | 691 | 119 | Danita Moon |
 | 692 | 119 | Ginger Nesbitt |
