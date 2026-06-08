@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:31:19 UTC
+# Standings for team2 as of 2026-06-08 10:32:19 UTC
 
 **Total Participants:** 2152
 
@@ -119,9 +119,9 @@
 | 111 | 897 | Mellzey |
 | 112 | 894 | Josh Twilley |
 | 113 | 885 | Frothy Fallgrid |
-| 114 | 854 | Amber Miller Wirick |
-| 115 | 853 | Sedy |
-| 116 | 850 | Deborah Boyce Minor |
+| 114 | 865 | Deborah Boyce Minor |
+| 115 | 854 | Amber Miller Wirick |
+| 116 | 853 | Sedy |
 | 117 | 849 | Brandi Thompson |
 | 118 | 845 | Cathy Tippett |
 | 119 | 841 | Erin Thomas |
@@ -324,9 +324,9 @@
 | 316 | 285 | Joanna Trevin Thompson |
 | 317 | 285 | Boldy Wobbler |
 | 318 | 284 | Kelly Vedder |
-| 319 | 283 | Buffy Diane Blake |
-| 320 | 283 | Jerry L Morales |
-| 321 | 283 | Hilliary Beyer |
+| 319 | 283 | Hilliary Beyer |
+| 320 | 283 | Buffy Diane Blake |
+| 321 | 283 | Jerry L Morales |
 | 322 | 281 | AndrewandShela Gornik |
 | 323 | 280 | Tami Kay Williams Watson |
 | 324 | 280 | August Christy Lathrop |
@@ -339,29 +339,29 @@
 | 331 | 270 | Nikki Greeneyebeauty |
 | 332 | 269 | Brooke Lynn Marie Adelaide |
 | 333 | 269 | Carolyn McNaughton |
-| 334 | 267 | Karly Moore |
-| 335 | 267 | Stephanie |
-| 336 | 266 | Josh Vietz |
-| 337 | 265 | Olivia Jefferson |
-| 338 | 265 | Skye Ehret |
+| 334 | 268 | Danielle Pack Lewellen |
+| 335 | 267 | Karly Moore |
+| 336 | 267 | Stephanie |
+| 337 | 266 | Josh Vietz |
+| 338 | 265 | Olivia Jefferson |
 | 339 | 265 | Marylin Eacker |
-| 340 | 265 | Mikia Stokes |
-| 341 | 264 | Elizabeth Henry |
+| 340 | 265 | Skye Ehret |
+| 341 | 265 | Mikia Stokes |
 | 342 | 264 | Zesty Zoney |
 | 343 | 264 | Dallas Runyan |
-| 344 | 262 | Erica South |
-| 345 | 260 | Anthony Swift |
-| 346 | 260 | Danielle Pack Lewellen |
-| 347 | 260 | marsam |
-| 348 | 260 | Tony Medina |
+| 344 | 264 | Elizabeth Henry |
+| 345 | 262 | Erica South |
+| 346 | 260 | Tony Medina |
+| 347 | 260 | Anthony Swift |
+| 348 | 260 | marsam |
 | 349 | 259 | Angie Kowalsky Olson |
 | 350 | 259 | Kay |
 | 351 | 258 | Talyn Domingues |
 | 352 | 257 | Sydney Cheyenne |
-| 353 | 256 | Jill Goff |
-| 354 | 256 | Theresa Huddleston |
-| 355 | 255 | Chummy Faller |
-| 356 | 255 | Tina Marie |
+| 353 | 256 | Theresa Huddleston |
+| 354 | 256 | Jill Goff |
+| 355 | 255 | Tina Marie |
+| 356 | 255 | Chummy Faller |
 | 357 | 255 | True |
 | 358 | 254 | Nicole Plummer |
 | 359 | 254 | Victoria Pale |
@@ -1052,15 +1052,15 @@
 | 1044 | 79 | Spunky Piecebuilder |
 | 1045 | 79 | Jade007 |
 | 1046 | 78 | Jessica Veness-Toth |
-| 1047 | 78 | Danyell Flood-Morning |
-| 1048 | 78 | Gammawms |
-| 1049 | 78 | Mona Smith |
-| 1050 | 78 | Bennie Farbo |
+| 1047 | 78 | Bennie Farbo |
+| 1048 | 78 | Danyell Flood-Morning |
+| 1049 | 78 | Gammawms |
+| 1050 | 78 | Mona Smith |
 | 1051 | 77 | Loony Ziggy |
-| 1052 | 77 | Dawn Marie |
-| 1053 | 77 | sampson |
-| 1054 | 77 | Slinky Towerpiece |
-| 1055 | 77 | Witty Clearbuilder |
+| 1052 | 77 | Slinky Towerpiece |
+| 1053 | 77 | Witty Clearbuilder |
+| 1054 | 77 | Dawn Marie |
+| 1055 | 77 | sampson |
 | 1056 | 77 | Blossom48 |
 | 1057 | 77 | LyndaLou |
 | 1058 | 77 | James Maness |
@@ -1070,13 +1070,13 @@
 | 1062 | 76 | BigHearted-57 |
 | 1063 | 76 | BoxerMom |
 | 1064 | 76 | Jolly Brickroll |
-| 1065 | 75 | Chatty |
-| 1066 | 75 | SunnySquare |
-| 1067 | 75 | Anthony Chavez |
+| 1065 | 75 | Audrey Wood |
+| 1066 | 75 | Anthony Chavez |
+| 1067 | 75 | SunnySquare |
 | 1068 | 75 | Rae |
-| 1069 | 75 | Audrey Wood |
+| 1069 | 75 | CK Hancock |
 | 1070 | 75 | Laura Turner |
-| 1071 | 75 | CK Hancock |
+| 1071 | 75 | Chatty |
 | 1072 | 75 | Kennadee Albertson |
 | 1073 | 75 | Frisky Linkmatch |
 | 1074 | 74 | Candace Mihm |
@@ -1086,24 +1086,24 @@
 | 1078 | 74 | Michele Choate |
 | 1079 | 74 | Jack |
 | 1080 | 74 | Mary |
-| 1081 | 73 | Jenn Mccarty |
-| 1082 | 73 | Sunny Spinzone |
+| 1081 | 74 | KS Hengesbach |
+| 1082 | 73 | Jenn Mccarty |
 | 1083 | 73 | BugMansMom |
-| 1084 | 73 | Elodie Deveyer |
-| 1085 | 73 | blockrocker |
-| 1086 | 73 | Sassy Patternblock |
-| 1087 | 73 | Chirpy Combofall |
-| 1088 | 73 | Blocker |
-| 1089 | 73 | Giggy Dropzone |
-| 1090 | 73 | Jenica Davis |
-| 1091 | 73 | Frothy Faller |
-| 1092 | 72 | Anzhen |
-| 1093 | 72 | Nikki Layman |
-| 1094 | 72 | Mala Phonchanthasone |
-| 1095 | 72 | Audrey Bickford |
-| 1096 | 72 | YAKO |
-| 1097 | 72 | Lu Wallace |
-| 1098 | 72 | KS Hengesbach |
+| 1084 | 73 | Sunny Spinzone |
+| 1085 | 73 | Elodie Deveyer |
+| 1086 | 73 | blockrocker |
+| 1087 | 73 | Sassy Patternblock |
+| 1088 | 73 | Chirpy Combofall |
+| 1089 | 73 | Blocker |
+| 1090 | 73 | Giggy Dropzone |
+| 1091 | 73 | Jenica Davis |
+| 1092 | 73 | Frothy Faller |
+| 1093 | 72 | Anzhen |
+| 1094 | 72 | Nikki Layman |
+| 1095 | 72 | Mala Phonchanthasone |
+| 1096 | 72 | Audrey Bickford |
+| 1097 | 72 | YAKO |
+| 1098 | 72 | Lu Wallace |
 | 1099 | 72 | Peppy Piececlear |
 | 1100 | 72 | Stacy Lynn |
 | 1101 | 72 | Stacey Peters |

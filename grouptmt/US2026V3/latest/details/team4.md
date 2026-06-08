@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:31:19 UTC
+# Standings for team4 as of 2026-06-08 10:32:19 UTC
 
 **Total Participants:** 1810
 
@@ -69,8 +69,8 @@
 | 61 | 1397 | Charlie Lewis |
 | 62 | 1270 | Jason Allen |
 | 63 | 1245 | Sweet Stacker |
-| 64 | 1225 | Fancy Crasher |
-| 65 | 1204 | Michelle Ross |
+| 64 | 1227 | Michelle Ross |
+| 65 | 1225 | Fancy Crasher |
 | 66 | 1202 | MysticMaven |
 | 67 | 1200 | Caitlin Johnson |
 | 68 | 1187 | Chris Covington |
@@ -172,37 +172,37 @@
 | 164 | 441 | Iforget |
 | 165 | 438 | Aisha Estrada |
 | 166 | 437 | Danielle Mitchell |
-| 167 | 435 | Scamp Jones |
-| 168 | 435 | BusterBear56 |
+| 167 | 435 | BusterBear56 |
+| 168 | 435 | Scamp Jones |
 | 169 | 432 | Piece of Cake |
 | 170 | 429 | Cyndi Najar |
 | 171 | 426 | Nicole |
 | 172 | 425 | Kristen Wallace |
 | 173 | 424 | Futrell Brent |
 | 174 | 422 | squareMel |
-| 175 | 421 | Shannon Rivera |
-| 176 | 421 | QueenLi86 |
+| 175 | 421 | QueenLi86 |
+| 176 | 421 | Shannon Rivera |
 | 177 | 420 | Shmeedo |
-| 178 | 415 | Shiny Dashy |
-| 179 | 415 | SupaFly |
+| 178 | 415 | SupaFly |
+| 179 | 415 | Shiny Dashy |
 | 180 | 409 | Hen |
 | 181 | 400 | Amber Doyle |
 | 182 | 399 | Devinlee Brown |
-| 183 | 395 | Julian Gasque |
-| 184 | 395 | Bobbie Harrell |
+| 183 | 395 | Bobbie Harrell |
+| 184 | 395 | Julian Gasque |
 | 185 | 389 | blockhead |
 | 186 | 389 | Taz |
 | 187 | 382 | Goofy Riser |
 | 188 | 380 | Cinta Marie |
 | 189 | 378 | Hwanger Land |
-| 190 | 376 | Tammy June |
-| 191 | 375 | Sisi RedVelvet Reneè |
-| 192 | 373 | Tanita Jobe |
-| 193 | 371 | shawna |
-| 194 | 370 | Christy Beezley-Forbush |
-| 195 | 368 | Lush Fitblock |
-| 196 | 367 | Brick House |
-| 197 | 366 | Samantha Worley |
+| 190 | 376 | Samantha Worley |
+| 191 | 376 | Tammy June |
+| 192 | 375 | Sisi RedVelvet Reneè |
+| 193 | 373 | Tanita Jobe |
+| 194 | 371 | shawna |
+| 195 | 370 | Christy Beezley-Forbush |
+| 196 | 368 | Lush Fitblock |
+| 197 | 367 | Brick House |
 | 198 | 366 | Baysoph |
 | 199 | 366 | Randy M Hatch |
 | 200 | 363 | Aramat |
@@ -327,13 +327,13 @@
 | 319 | 226 | Sassy Rollpiece |
 | 320 | 226 | Justin Michael |
 | 321 | 226 | Susan Stofberg Beltran |
-| 322 | 225 | No Time |
-| 323 | 224 | Mark Fitch Jr. |
-| 324 | 224 | Flashy Shatterer |
-| 325 | 224 | Ashley Jenkins |
-| 326 | 223 | Frothy Pattern |
-| 327 | 223 | Bouncy |
-| 328 | 223 | Alex Armour |
+| 322 | 225 | Alex Armour |
+| 323 | 225 | No Time |
+| 324 | 224 | Mark Fitch Jr. |
+| 325 | 224 | Flashy Shatterer |
+| 326 | 224 | Ashley Jenkins |
+| 327 | 223 | Frothy Pattern |
+| 328 | 223 | Bouncy |
 | 329 | 223 | Leslie Ann Carter |
 | 330 | 222 | Cheeky Fallzone |
 | 331 | 222 | Karen Davis |
