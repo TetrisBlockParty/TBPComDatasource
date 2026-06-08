@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:58:19 UTC
+# Standings for team2 as of 2026-06-08 11:58:42 UTC
 
 **Total Participants:** 2165
 
@@ -1163,9 +1163,9 @@
 | 1155 | 69 | DragonJB2020 |
 | 1156 | 69 | Nonnie |
 | 1157 | 69 | Shanna Jones Scott |
-| 1158 | 69 | Mandy Anderson |
-| 1159 | 68 | April Appleton |
-| 1160 | 68 | Melissa Mae |
+| 1158 | 69 | Melissa Mae |
+| 1159 | 69 | Mandy Anderson |
+| 1160 | 68 | April Appleton |
 | 1161 | 68 | Viola Fletcher |
 | 1162 | 68 | Sami Amato |
 | 1163 | 68 | Anthony Kordich |
