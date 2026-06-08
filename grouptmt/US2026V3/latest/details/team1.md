@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 13:08:20 UTC
+# Standings for team1 as of 2026-06-08 13:08:44 UTC
 
 **Total Participants:** 1795
 
@@ -61,8 +61,8 @@
 | 53 | 1489 | Robyn Caldwell |
 | 54 | 1482 | Shortstak |
 | 55 | 1461 | Janet Cooke |
-| 56 | 1313 | Ashley Espeut |
-| 57 | 1284 | Janine Hunter |
+| 56 | 1415 | Janine Hunter |
+| 57 | 1313 | Ashley Espeut |
 | 58 | 1259 | Sanjuro |
 | 59 | 1251 | Daylene Johannes |
 | 60 | 1247 | Blockhead |

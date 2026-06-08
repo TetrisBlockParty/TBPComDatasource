@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-08 13:08:20 UTC
+# Standings for team3 as of 2026-06-08 13:08:44 UTC
 
 **Total Participants:** 7050
 
@@ -271,15 +271,15 @@
 | 263 | 1191 | Christine Michael |
 | 264 | 1189 | Jd Pena |
 | 265 | 1188 | Pen |
-| 266 | 1182 | what |
-| 267 | 1168 | Tammy Gustkey |
-| 268 | 1161 | Natalie Mathews |
-| 269 | 1157 | Cranky Cascadepiece |
-| 270 | 1155 | Jennifer Emmert |
-| 271 | 1148 | EvilQueen |
-| 272 | 1147 | Diana Senatore |
-| 273 | 1146 | McLeod Shana |
-| 274 | 1145 | Cranky Zone |
+| 266 | 1185 | Cranky Zone |
+| 267 | 1182 | what |
+| 268 | 1168 | Tammy Gustkey |
+| 269 | 1161 | Natalie Mathews |
+| 270 | 1157 | Cranky Cascadepiece |
+| 271 | 1155 | Jennifer Emmert |
+| 272 | 1148 | EvilQueen |
+| 273 | 1147 | Diana Senatore |
+| 274 | 1146 | McLeod Shana |
 | 275 | 1135 | Amanda Lineberger |
 | 276 | 1127 | Crystal Stephenson |
 | 277 | 1124 | Joe Patrick |
