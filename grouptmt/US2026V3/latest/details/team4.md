@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 17:36:42 UTC
+# Standings for team4 as of 2026-06-08 17:37:19 UTC
 
 **Total Participants:** 1880
 
@@ -45,8 +45,8 @@
 | 37 | 3200 | Leah Gorsuch |
 | 38 | 3150 | Destiny Dyer |
 | 39 | 3101 | Leigh Pierce |
-| 40 | 2800 | Annastaissia Todd |
-| 41 | 2800 | Caitlin Johnson |
+| 40 | 2800 | Caitlin Johnson |
+| 41 | 2800 | Annastaissia Todd |
 | 42 | 2626 | Victoria Ver |
 | 43 | 2433 | Alexandria Frazier |
 | 44 | 2400 | Michele |
@@ -70,13 +70,13 @@
 | 62 | 1451 | Adam J Leong |
 | 63 | 1450 | Sassy Column |
 | 64 | 1397 | Charlie Lewis |
-| 65 | 1249 | Michelle Ross |
-| 66 | 1245 | Sweet Stacker |
-| 67 | 1239 | Chris Covington |
+| 65 | 1296 | Chris Covington |
+| 66 | 1249 | Michelle Ross |
+| 67 | 1245 | Sweet Stacker |
 | 68 | 1225 | Fancy Crasher |
 | 69 | 1202 | MysticMaven |
-| 70 | 1176 | Giggy Matchpiece |
-| 71 | 1176 | SMV |
+| 70 | 1176 | SMV |
+| 71 | 1176 | Giggy Matchpiece |
 | 72 | 1160 | Joseph Anthony Watkins |
 | 73 | 1154 | Gloria Nunley Trussell |
 | 74 | 1144 | woopa 716 |
@@ -258,8 +258,8 @@
 | 250 | 335 | Spunky Gridzone |
 | 251 | 333 | Tiffany Bunker-Hill |
 | 252 | 332 | Tyson Stroppel |
-| 253 | 331 | George Palacios |
-| 254 | 331 | Queen B |
+| 253 | 331 | Queen B |
+| 254 | 331 | George Palacios |
 | 255 | 328 | Shanae Taylor |
 | 256 | 327 | beTrue76 |
 | 257 | 327 | Samara Garcia |
@@ -272,12 +272,12 @@
 | 264 | 320 | TJ |
 | 265 | 320 | Brooke Bauer |
 | 266 | 319 | Dae Von |
-| 267 | 318 | Lucy Honer |
-| 268 | 318 | Patrick Alley |
+| 267 | 318 | Patrick Alley |
+| 268 | 318 | Lucy Honer |
 | 269 | 315 | Maria Castillo |
-| 270 | 315 | Capone |
+| 270 | 315 | Thomasena Eady Reid |
 | 271 | 315 | Morgan Stevens |
-| 272 | 315 | Thomasena Eady Reid |
+| 272 | 315 | Capone |
 | 273 | 315 | Spicy Chicken |
 | 274 | 314 | Jeremy |
 | 275 | 312 | Breezy Cascadeclear |
@@ -292,53 +292,53 @@
 | 284 | 300 | Saucy Wipepiece |
 | 285 | 299 | Dana Abegil Lawas |
 | 286 | 296 | Bre Dee |
-| 287 | 296 | WeeWooWee |
-| 288 | 296 | PerfectPieces |
-| 289 | 296 | Tawna Curry |
+| 287 | 296 | PerfectPieces |
+| 288 | 296 | Tawna Curry |
+| 289 | 296 | WeeWooWee |
 | 290 | 296 | beauxie |
-| 291 | 294 | Solace Grace |
-| 292 | 293 | Joseph Hunter |
-| 293 | 293 | Logan Two-dubs Baker |
-| 294 | 292 | Rachel Lemos |
-| 295 | 290 | Brian Woods |
-| 296 | 289 | Shepreneur Sade |
-| 297 | 287 | Cheery Risegrid |
-| 298 | 286 | Erika Seaton |
+| 291 | 294 | Poppy |
+| 292 | 294 | Solace Grace |
+| 293 | 293 | Joseph Hunter |
+| 294 | 293 | Logan Two-dubs Baker |
+| 295 | 292 | Rachel Lemos |
+| 296 | 290 | Brian Woods |
+| 297 | 289 | Shepreneur Sade |
+| 298 | 287 | Cheery Risegrid |
 | 299 | 286 | Dubiousdust |
-| 300 | 283 | Tiggerjake |
-| 301 | 282 | Troy Zanelli |
-| 302 | 282 | Goofy Fall |
-| 303 | 282 | Homie |
-| 304 | 281 | Margie Thomas |
-| 305 | 278 | Becky McCool |
-| 306 | 278 | Tamara Triplet |
-| 307 | 278 | Cranky Buildout |
-| 308 | 277 | Giggly Tilt |
-| 309 | 276 | Smiley Gridzone |
-| 310 | 275 | Karen Rodriguez |
-| 311 | 274 | Dominique Melendez |
-| 312 | 273 | Mark Norton |
-| 313 | 271 | Slinky Stackzone |
-| 314 | 270 | Stasia |
+| 300 | 286 | Erika Seaton |
+| 301 | 283 | Tiggerjake |
+| 302 | 282 | Troy Zanelli |
+| 303 | 282 | Goofy Fall |
+| 304 | 282 | Homie |
+| 305 | 281 | Margie Thomas |
+| 306 | 278 | Becky McCool |
+| 307 | 278 | Tamara Triplet |
+| 308 | 278 | Cranky Buildout |
+| 309 | 277 | Giggly Tilt |
+| 310 | 276 | Smiley Gridzone |
+| 311 | 275 | Karen Rodriguez |
+| 312 | 274 | Dominique Melendez |
+| 313 | 273 | Mark Norton |
+| 314 | 271 | Slinky Stackzone |
 | 315 | 270 | DanceAngel |
-| 316 | 268 | Lively Cascadebuilder |
-| 317 | 268 | Danny Keich III |
-| 318 | 267 | Chirpy Link |
-| 319 | 266 | Sassy Rollpiece |
-| 320 | 266 | Karen Davis |
-| 321 | 265 | Matthew Wilcox |
-| 322 | 265 | Justin Michael |
-| 323 | 264 | Poppy |
+| 316 | 270 | Stasia |
+| 317 | 268 | Lively Cascadebuilder |
+| 318 | 268 | Danny Keich III |
+| 319 | 267 | Chirpy Link |
+| 320 | 266 | Sassy Rollpiece |
+| 321 | 266 | Karen Davis |
+| 322 | 265 | Matthew Wilcox |
+| 323 | 265 | Justin Michael |
 | 324 | 263 | Laurie Patrick |
 | 325 | 263 | Chummy Jumper |
 | 326 | 261 | Brooke Arroyo |
 | 327 | 261 | King |
-| 328 | 260 | Silly Risegrid |
-| 329 | 260 | Drh4090 |
-| 330 | 259 | Sandra Stark |
-| 331 | 259 | Jessica Peyton |
-| 332 | 257 | LaTanya GeminiondaRise Johnson |
-| 333 | 257 | Amandacolle |
+| 328 | 260 | Drh4090 |
+| 329 | 260 | Silly Risegrid |
+| 330 | 259 | Jessica Peyton |
+| 331 | 259 | Sandra Stark |
+| 332 | 257 | Amandacolle |
+| 333 | 257 | LaTanya GeminiondaRise Johnson |
 | 334 | 256 | kellie |
 | 335 | 255 | Britney Kitora |
 | 336 | 255 | J.Wo |
@@ -1158,51 +1158,51 @@
 | 1150 | 57 | Budda Huitt |
 | 1151 | 57 | aubz |
 | 1152 | 57 | Savage |
-| 1153 | 57 | Clever Shuffler |
+| 1153 | 57 | Lateasha Wildman |
 | 1154 | 57 | PapaB |
-| 1155 | 57 | Lateasha Wildman |
-| 1156 | 57 | Heather Hilferty |
-| 1157 | 57 | Meela Abdurrab |
-| 1158 | 57 | Brandi Gray |
-| 1159 | 57 | Волна Бог |
-| 1160 | 57 | Cas Gio |
-| 1161 | 56 | BigCup ReeseCup |
-| 1162 | 56 | Crystal Morrin |
-| 1163 | 56 | Jessica Armistead |
-| 1164 | 56 | TSM Ballsniffer |
-| 1165 | 56 | Krystalclear |
-| 1166 | 56 | bribop |
-| 1167 | 55 | Carmen Angelica Sosa |
-| 1168 | 55 | Dominique Summers Tah-tah |
-| 1169 | 55 | James James |
-| 1170 | 55 | Lizette Chaires |
-| 1171 | 55 | The Jazziest |
-| 1172 | 55 | rick mase |
-| 1173 | 55 | Hasty Slamdrop |
-| 1174 | 55 | Bee |
-| 1175 | 55 | Melissa Wilson |
-| 1176 | 55 | PL GR |
-| 1177 | 55 | Christy Petty |
-| 1178 | 54 | Amber Arnold |
-| 1179 | 54 | Lionel Hampton |
-| 1180 | 54 | Hyper Snaplink |
-| 1181 | 54 | Poppy Glider |
-| 1182 | 54 | Elise Ann |
-| 1183 | 54 | Felicia Harrison |
-| 1184 | 54 | Komikeh White |
-| 1185 | 54 | Hyper Clusterline |
-| 1186 | 54 | Michelle Wiles |
-| 1187 | 54 | Dorothy Schetzel |
-| 1188 | 53 | Cheery Basegrid |
-| 1189 | 53 | Ashlee Lemus |
-| 1190 | 53 | Elissa Danks |
-| 1191 | 53 | Samantha Lohmeyer |
-| 1192 | 53 | Tay |
-| 1193 | 53 | Spicy Gridder |
-| 1194 | 53 | Melinda Roman |
-| 1195 | 53 | Agent |
-| 1196 | 53 | Masiso |
-| 1197 | 53 | Slinky Snapfit |
+| 1155 | 57 | Heather Hilferty |
+| 1156 | 57 | Slinky Snapfit |
+| 1157 | 57 | Cas Gio |
+| 1158 | 57 | Clever Shuffler |
+| 1159 | 57 | Meela Abdurrab |
+| 1160 | 57 | Волна Бог |
+| 1161 | 57 | Brandi Gray |
+| 1162 | 56 | Jessica Armistead |
+| 1163 | 56 | Crystal Morrin |
+| 1164 | 56 | BigCup ReeseCup |
+| 1165 | 56 | TSM Ballsniffer |
+| 1166 | 56 | Krystalclear |
+| 1167 | 56 | bribop |
+| 1168 | 55 | Carmen Angelica Sosa |
+| 1169 | 55 | Dominique Summers Tah-tah |
+| 1170 | 55 | James James |
+| 1171 | 55 | Lizette Chaires |
+| 1172 | 55 | Hasty Slamdrop |
+| 1173 | 55 | Christy Petty |
+| 1174 | 55 | PL GR |
+| 1175 | 55 | Bee |
+| 1176 | 55 | rick mase |
+| 1177 | 55 | The Jazziest |
+| 1178 | 55 | Melissa Wilson |
+| 1179 | 54 | Amber Arnold |
+| 1180 | 54 | Lionel Hampton |
+| 1181 | 54 | Hyper Snaplink |
+| 1182 | 54 | Poppy Glider |
+| 1183 | 54 | Elise Ann |
+| 1184 | 54 | Felicia Harrison |
+| 1185 | 54 | Komikeh White |
+| 1186 | 54 | Hyper Clusterline |
+| 1187 | 54 | Michelle Wiles |
+| 1188 | 54 | Dorothy Schetzel |
+| 1189 | 53 | Cheery Basegrid |
+| 1190 | 53 | Ashlee Lemus |
+| 1191 | 53 | Elissa Danks |
+| 1192 | 53 | Samantha Lohmeyer |
+| 1193 | 53 | Tay |
+| 1194 | 53 | Spicy Gridder |
+| 1195 | 53 | Melinda Roman |
+| 1196 | 53 | Agent |
+| 1197 | 53 | Masiso |
 | 1198 | 53 | Cflixer |
 | 1199 | 53 | Kimberly Mae Watkins |
 | 1200 | 53 | Michelle Clark |
