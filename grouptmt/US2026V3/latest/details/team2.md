@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:24:41 UTC
+# Standings for team2 as of 2026-06-08 07:25:20 UTC
 
 **Total Participants:** 2132
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 26218 | Summer Harrison |
-| 2 | 19800 | Mochi |
+| 2 | 20400 | Mochi |
 | 3 | 17254 | Puce guide 9156 |
 | 4 | 14612 | Lacey Nolting |
 | 5 | 12438 | Crystalin Heath Lewis |
@@ -202,17 +202,17 @@
 | 194 | 453 | Ashley Green |
 | 195 | 453 | Kimberly Cowan |
 | 196 | 451 | Gill |
-| 197 | 449 | Suki Jacobs |
-| 198 | 449 | Danielle Blount |
-| 199 | 449 | Snappy Blockbuilder |
+| 197 | 449 | Snappy Blockbuilder |
+| 198 | 449 | Suki Jacobs |
+| 199 | 449 | Danielle Blount |
 | 200 | 448 | Eric Drane |
 | 201 | 445 | Gabrielle Wilson |
 | 202 | 442 | Frilly Dashfit |
 | 203 | 434 | Janelle Edgecombe |
 | 204 | 432 | Twisty Buildgrid |
 | 205 | 431 | AndyJo |
-| 206 | 429 | Cool Climber |
-| 207 | 429 | giamy |
+| 206 | 429 | giamy |
+| 207 | 429 | Cool Climber |
 | 208 | 428 | Zany Blockclear |
 | 209 | 428 | Physhie |
 | 210 | 427 | Flower_child |
@@ -223,8 +223,8 @@
 | 215 | 416 | Cristi Doris |
 | 216 | 416 | Lyric Price |
 | 217 | 414 | Daybreak |
-| 218 | 413 | Jat |
-| 219 | 413 | H |
+| 218 | 413 | H |
+| 219 | 413 | Jat |
 | 220 | 412 | Nikki EightySixed |
 | 221 | 412 | Nikki Hayes |
 | 222 | 411 | Sandy Lynn |
@@ -234,67 +234,67 @@
 | 226 | 405 | MaddieCherie |
 | 227 | 404 | Goofy Gridclear |
 | 228 | 403 | Becca Marie |
-| 229 | 402 | Michelle Luke Banta |
-| 230 | 402 | Brenda Jones |
-| 231 | 398 | Kimmyc |
-| 232 | 395 | Justin McCray |
-| 233 | 395 | Sarina Vollink |
-| 234 | 392 | Bri St Peter |
-| 235 | 391 | La chulis |
-| 236 | 386 | Jennifer Smith |
-| 237 | 383 | Jenna Stahl |
-| 238 | 380 | Bb |
-| 239 | 379 | Greta Warden |
-| 240 | 376 | Traci Abern |
-| 241 | 376 | Chill Line |
-| 242 | 376 | Jamie Fenyus |
-| 243 | 375 | Branden Frankowski |
+| 229 | 402 | Brenda Jones |
+| 230 | 402 | Michelle Luke Banta |
+| 231 | 399 | Jeffrey Smith |
+| 232 | 398 | Kimmyc |
+| 233 | 395 | Justin McCray |
+| 234 | 395 | Sarina Vollink |
+| 235 | 392 | Bri St Peter |
+| 236 | 391 | La chulis |
+| 237 | 386 | Jennifer Smith |
+| 238 | 383 | Jenna Stahl |
+| 239 | 380 | Bb |
+| 240 | 379 | Greta Warden |
+| 241 | 376 | Jamie Fenyus |
+| 242 | 376 | Chill Line |
+| 243 | 376 | Traci Abern |
 | 244 | 375 | Brittni Lawrence |
-| 245 | 373 | Hoppy Mover |
+| 245 | 375 | Branden Frankowski |
 | 246 | 373 | Theresa Hollinger |
-| 247 | 365 | Rachel Nilles |
-| 248 | 364 | Lindsey Ford |
-| 249 | 362 | Hypee |
-| 250 | 359 | Crystal Poss |
-| 251 | 351 | Cathy Lee Stoneking |
-| 252 | 349 | Spicy Basepiece |
-| 253 | 348 | Ratchet |
-| 254 | 347 | Fudgie Pie |
-| 255 | 347 | Jessica Lynn |
-| 256 | 346 | Katrien |
-| 257 | 344 | Lora Via |
-| 258 | 340 | Marge Cromer |
-| 259 | 339 | Keri Mears |
-| 260 | 338 | Amie Marks |
-| 261 | 337 | Ashley Billiot Rhodes |
-| 262 | 337 | Adriana Daniela Agapie |
-| 263 | 331 | Shannon Wilson |
-| 264 | 328 | Tim Tim |
-| 265 | 328 | Xandrea Jones |
-| 266 | 327 | Chipper Stackbuilder |
-| 267 | 327 | Iesha Cupil |
-| 268 | 327 | Jumpy Matchbuilder |
-| 269 | 325 | Snappy Combo |
+| 247 | 373 | Hoppy Mover |
+| 248 | 365 | Rachel Nilles |
+| 249 | 364 | Lindsey Ford |
+| 250 | 362 | Hypee |
+| 251 | 359 | Crystal Poss |
+| 252 | 351 | Cathy Lee Stoneking |
+| 253 | 349 | Spicy Basepiece |
+| 254 | 348 | Ratchet |
+| 255 | 347 | Fudgie Pie |
+| 256 | 347 | Jessica Lynn |
+| 257 | 346 | Katrien |
+| 258 | 344 | Lora Via |
+| 259 | 340 | Marge Cromer |
+| 260 | 339 | Keri Mears |
+| 261 | 338 | Amie Marks |
+| 262 | 337 | Ashley Billiot Rhodes |
+| 263 | 337 | Adriana Daniela Agapie |
+| 264 | 331 | Shannon Wilson |
+| 265 | 328 | Tim Tim |
+| 266 | 328 | Xandrea Jones |
+| 267 | 327 | Chipper Stackbuilder |
+| 268 | 327 | Iesha Cupil |
+| 269 | 327 | Jumpy Matchbuilder |
 | 270 | 325 | Flashy Twistline |
-| 271 | 324 | DayDreamer79 |
-| 272 | 324 | Norma Ortiz |
-| 273 | 324 | Swanky Fitline |
-| 274 | 322 | Queen |
-| 275 | 322 | Pam Bauder Ludwig |
-| 276 | 320 | Linda Guay |
-| 277 | 320 | Jeffrey Smith |
+| 271 | 325 | Snappy Combo |
+| 272 | 324 | Swanky Fitline |
+| 273 | 324 | Norma Ortiz |
+| 274 | 324 | DayDreamer79 |
+| 275 | 322 | Queen |
+| 276 | 322 | Pam Bauder Ludwig |
+| 277 | 320 | Linda Guay |
 | 278 | 319 | Ackerman 85 |
-| 279 | 318 | Pamela Raye |
-| 280 | 318 | Margie Ann Naffziger |
+| 279 | 318 | Margie Ann Naffziger |
+| 280 | 318 | Pamela Raye |
 | 281 | 316 | Jeanna Mendez |
 | 282 | 310 | Jenn |
-| 283 | 308 | Heather Burgett |
+| 283 | 309 | Charles E Mccardell |
 | 284 | 308 | Hector |
-| 285 | 308 | Charles E Mccardell |
+| 285 | 308 | Heather Burgett |
 | 286 | 308 | Larry Cross |
 | 287 | 306 | Brittney Williams |
-| 288 | 305 | Logan Duffey |
-| 289 | 305 | Melissa Clogher White |
+| 288 | 305 | Melissa Clogher White |
+| 289 | 305 | Logan Duffey |
 | 290 | 305 | Havik Whitfield |
 | 291 | 302 | Aldotfus Williams |
 | 292 | 300 | Sarah Rodriguez |
