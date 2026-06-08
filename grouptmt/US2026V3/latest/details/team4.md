@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:42:42 UTC
+# Standings for team4 as of 2026-06-08 07:43:20 UTC
 
 **Total Participants:** 1795
 
@@ -18,7 +18,7 @@
 | 10 | 6108 | Kait Confetti |
 | 11 | 5307 | Hasty Builder |
 | 12 | 5180 | Jerald Jones |
-| 13 | 5158 | Bubbly Twistpiece |
+| 13 | 5163 | Bubbly Twistpiece |
 | 14 | 5123 | delilahbelle |
 | 15 | 5041 | Squirrel Donkey |
 | 16 | 4939 | Bryony Nicholson |
@@ -368,49 +368,49 @@
 | 360 | 200 | Jessi Goodwin |
 | 361 | 200 | Ashley Robbins |
 | 362 | 200 | Knijur Callins |
-| 363 | 200 | Slinky Stackzone |
-| 364 | 199 | Nicole Dombrow |
-| 365 | 199 | Janet Willoughby |
-| 366 | 198 | Cranky Buildout |
-| 367 | 198 | Dawn Phelps |
-| 368 | 198 | JIGsaw ~(•¿°)~ |
-| 369 | 198 | Mint Marquez |
-| 370 | 197 | Zesty Twistpiece |
-| 371 | 196 | Melissa Lowe |
-| 372 | 196 | Alex Armour |
-| 373 | 196 | Loopy Clusterline |
-| 374 | 196 | Morgan Stevens |
-| 375 | 195 | Cari Underwood |
-| 376 | 195 | Miwa |
-| 377 | 195 | Drh4090 |
-| 378 | 195 | Maegon Brazille |
-| 379 | 195 | Sean Mccleary |
+| 363 | 200 | Tasha Suzanne Prisbrey |
+| 364 | 200 | Slinky Stackzone |
+| 365 | 199 | Nicole Dombrow |
+| 366 | 199 | Janet Willoughby |
+| 367 | 198 | Cranky Buildout |
+| 368 | 198 | Dawn Phelps |
+| 369 | 198 | JIGsaw ~(•¿°)~ |
+| 370 | 198 | Mint Marquez |
+| 371 | 197 | Zesty Twistpiece |
+| 372 | 196 | Melissa Lowe |
+| 373 | 196 | Alex Armour |
+| 374 | 196 | Loopy Clusterline |
+| 375 | 196 | Morgan Stevens |
+| 376 | 195 | Cari Underwood |
+| 377 | 195 | Karen Small |
+| 378 | 195 | Miwa |
+| 379 | 195 | Drh4090 |
 | 380 | 195 | Blockcrusher |
-| 381 | 195 | Karen Small |
+| 381 | 195 | Maegon Brazille |
 | 382 | 195 | maria |
-| 383 | 194 | Danny Keich III |
-| 384 | 194 | Jumpy Builderpiece |
-| 385 | 192 | Ralph Hell Rell Williams |
-| 386 | 190 | Name |
-| 387 | 190 | Bean |
-| 388 | 190 | Chonda OhanaMomma Michelle |
-| 389 | 190 | Genger |
-| 390 | 189 | Chirpy Snapclear |
+| 383 | 195 | Sean Mccleary |
+| 384 | 194 | Danny Keich III |
+| 385 | 194 | Jumpy Builderpiece |
+| 386 | 192 | Ralph Hell Rell Williams |
+| 387 | 190 | Name |
+| 388 | 190 | Genger |
+| 389 | 190 | Chonda OhanaMomma Michelle |
+| 390 | 190 | Bean |
 | 391 | 189 | Snazzy Corner |
-| 392 | 188 | Dandy Cascade |
+| 392 | 189 | Chirpy Snapclear |
 | 393 | 188 | Shanae Taylor |
-| 394 | 188 | Lee Ann Gibby |
-| 395 | 188 | Stephanie Brock |
-| 396 | 187 | Cindy |
-| 397 | 187 | Jennifer Fisher Franklin |
-| 398 | 187 | Tasha Suzanne Prisbrey |
-| 399 | 186 | Rita Ann |
-| 400 | 186 | Dizzy Slammer |
-| 401 | 186 | June Hoffman |
-| 402 | 186 | Tiffany Morris Garner |
+| 394 | 188 | Stephanie Brock |
+| 395 | 188 | Lee Ann Gibby |
+| 396 | 188 | Dandy Cascade |
+| 397 | 187 | Cindy |
+| 398 | 187 | Jennifer Fisher Franklin |
+| 399 | 186 | June Hoffman |
+| 400 | 186 | Tiffany Morris Garner |
+| 401 | 186 | Rita Ann |
+| 402 | 186 | Dizzy Slammer |
 | 403 | 185 | Valerie Silva |
-| 404 | 182 | Swanky Snapgrid |
-| 405 | 182 | Ashley Eskridge |
+| 404 | 182 | Ashley Eskridge |
+| 405 | 182 | Swanky Snapgrid |
 | 406 | 181 | Danny Frausto |
 | 407 | 180 | Silly Rollbuilder |
 | 408 | 180 | EvoKitty |
@@ -503,11 +503,11 @@
 | 495 | 144 | Kaps |
 | 496 | 143 | Celina DiBastiani |
 | 497 | 143 | Alyssa Berg |
-| 498 | 141 | Sharon Tyler |
-| 499 | 141 | tj |
-| 500 | 141 | Ginny |
-| 501 | 141 | Marcus Chavis |
-| 502 | 141 | Silly Fallzone |
+| 498 | 143 | Silly Fallzone |
+| 499 | 141 | Sharon Tyler |
+| 500 | 141 | tj |
+| 501 | 141 | Ginny |
+| 502 | 141 | Marcus Chavis |
 | 503 | 141 | Linda Miltenburg |
 | 504 | 140 | Robert Crow |
 | 505 | 140 | Loopy Hitter |
