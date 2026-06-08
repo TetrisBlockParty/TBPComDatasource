@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:44:19 UTC
+# Standings for team2 as of 2026-06-08 06:44:43 UTC
 
 **Total Participants:** 2129
 
@@ -120,10 +120,10 @@
 | 112 | 885 | Frothy Fallgrid |
 | 113 | 854 | Amber Miller Wirick |
 | 114 | 853 | Sedy |
-| 115 | 845 | Cathy Tippett |
-| 116 | 844 | Deborah Boyce Minor |
-| 117 | 841 | Erin Thomas |
-| 118 | 839 | Brandi Thompson |
+| 115 | 849 | Brandi Thompson |
+| 116 | 845 | Cathy Tippett |
+| 117 | 844 | Deborah Boyce Minor |
+| 118 | 841 | Erin Thomas |
 | 119 | 837 | Allie Bug |
 | 120 | 832 | Amber Triguero |
 | 121 | 829 | Ricardo Ewart |
