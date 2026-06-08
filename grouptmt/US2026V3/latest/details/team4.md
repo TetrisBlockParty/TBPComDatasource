@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 21:06:46 UTC
+# Standings for team4 as of 2026-06-08 21:07:21 UTC
 
 **Total Participants:** 1922
 
@@ -153,7 +153,7 @@
 | 145 | 644 | Gracie Ornelas |
 | 146 | 642 | squareMel |
 | 147 | 641 | Tiffany Brooke |
-| 148 | 626 | Gorica Prusina |
+| 148 | 638 | Gorica Prusina |
 | 149 | 615 | Cinta Marie |
 | 150 | 615 | Lisa Garcia |
 | 151 | 600 | Suzanne Carter |
@@ -505,21 +505,21 @@
 | 497 | 188 | Henry Lanier |
 | 498 | 188 | Lee Ann Gibby |
 | 499 | 188 | Alexsandra Hill |
-| 500 | 187 | Marina |
-| 501 | 186 | Rita Ann |
-| 502 | 186 | Rhonda Dowling |
-| 503 | 186 | Tiffany Morris Garner |
-| 504 | 185 | Butterpat |
-| 505 | 184 | Holly Bramel |
-| 506 | 184 | Lolita Nettles |
-| 507 | 183 | Rosy Perez |
-| 508 | 183 | Ryan Paul Clark-Ramsey |
-| 509 | 182 | Candiecane324 |
-| 510 | 182 | Ashley Eskridge |
-| 511 | 181 | Jen Smith |
-| 512 | 180 | Ada Rodriguez Spradley |
-| 513 | 180 | Silly Rollbuilder |
-| 514 | 180 | Bri Martin |
+| 500 | 187 | Bri Martin |
+| 501 | 187 | Marina |
+| 502 | 186 | Rita Ann |
+| 503 | 186 | Rhonda Dowling |
+| 504 | 186 | Tiffany Morris Garner |
+| 505 | 185 | Butterpat |
+| 506 | 184 | Holly Bramel |
+| 507 | 184 | Lolita Nettles |
+| 508 | 183 | Rosy Perez |
+| 509 | 183 | Ryan Paul Clark-Ramsey |
+| 510 | 182 | Candiecane324 |
+| 511 | 182 | Ashley Eskridge |
+| 512 | 181 | Jen Smith |
+| 513 | 180 | Ada Rodriguez Spradley |
+| 514 | 180 | Silly Rollbuilder |
 | 515 | 180 | Tipsy Piecebuilder |
 | 516 | 180 | BookwormCate |
 | 517 | 180 | Keke Johnson |
