@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:46:42 UTC
+# Standings for team1 as of 2026-06-08 06:47:22 UTC
 
 **Total Participants:** 1747
 
@@ -565,37 +565,37 @@
 | 557 | 126 | Terrie |
 | 558 | 126 | Ryan Runyan |
 | 559 | 126 | Jessie N Michael Silvers |
-| 560 | 125 | BB |
-| 561 | 125 | Angelique Talbot |
+| 560 | 126 | Angelique Talbot |
+| 561 | 125 | BB |
 | 562 | 125 | Dizzy Dashy |
 | 563 | 124 | Jes Marie |
-| 564 | 124 | Li-Li Ratliff |
-| 565 | 124 | DellaLucretia Thomas |
-| 566 | 124 | Nerdy Climber |
+| 564 | 124 | Nerdy Climber |
+| 565 | 124 | Li-Li Ratliff |
+| 566 | 124 | DellaLucretia Thomas |
 | 567 | 123 | Dizzy Gridmatch |
-| 568 | 123 | Daring Riserfit |
-| 569 | 123 | Esha I'msoproudofmyself Davis |
-| 570 | 123 | Jackytrain52 |
-| 571 | 123 | Holly Baker |
-| 572 | 123 | Boldy Matchbuilder |
-| 573 | 123 | Derald Miller |
+| 568 | 123 | Derald Miller |
+| 569 | 123 | Holly Baker |
+| 570 | 123 | Boldy Matchbuilder |
+| 571 | 123 | Jackytrain52 |
+| 572 | 123 | Esha I'msoproudofmyself Davis |
+| 573 | 123 | Daring Riserfit |
 | 574 | 122 | Donna Payne |
 | 575 | 122 | Nyhlah Patterson |
 | 576 | 122 | Xana Zania Bopp |
-| 577 | 121 | Ad Doctor |
-| 578 | 121 | Nora Mahmoud |
+| 577 | 121 | Nora Mahmoud |
+| 578 | 121 | Ad Doctor |
 | 579 | 121 | Biggestboss Ransom |
 | 580 | 121 | Tiana Monique |
-| 581 | 120 | MindlessMic |
-| 582 | 120 | Kanary Karotz |
-| 583 | 120 | Leavon Smith |
+| 581 | 120 | Latore Maxie |
+| 582 | 120 | Giggy Edgefit |
+| 583 | 120 | Brenda Malachi-butler |
 | 584 | 120 | Giggly Tiltbuilder |
-| 585 | 120 | Brenda Malachi-butler |
-| 586 | 120 | Latore Maxie |
-| 587 | 120 | Monica Fields |
-| 588 | 120 | Dianne Clagon |
-| 589 | 120 | Rene Hicks |
-| 590 | 120 | Giggy Edgefit |
+| 585 | 120 | Kanary Karotz |
+| 586 | 120 | MindlessMic |
+| 587 | 120 | Leavon Smith |
+| 588 | 120 | Monica Fields |
+| 589 | 120 | Dianne Clagon |
+| 590 | 120 | Rene Hicks |
 | 591 | 119 | Darrel Pemberton |
 | 592 | 119 | Hyy |
 | 593 | 119 | Montréal Mars |
@@ -710,29 +710,29 @@
 | 702 | 98 | Jjhandsome |
 | 703 | 98 | Alexandrla Smith |
 | 704 | 98 | Azeiare Ziare |
-| 705 | 98 | Christopher Shaw-Black |
-| 706 | 98 | Terrance Tindall |
-| 707 | 97 | Lootch |
+| 705 | 98 | Ameillia Boughner |
+| 706 | 98 | Christopher Shaw-Black |
+| 707 | 98 | Terrance Tindall |
 | 708 | 97 | Jose Rodriguez |
-| 709 | 97 | Nichole Horsley-Conn |
-| 710 | 97 | Kayel Good |
-| 711 | 97 | Smiley Bridgepiece |
-| 712 | 97 | Shanell Thomas |
-| 713 | 96 | Sara |
+| 709 | 97 | Lootch |
+| 710 | 97 | Nichole Horsley-Conn |
+| 711 | 97 | Kayel Good |
+| 712 | 97 | Smiley Bridgepiece |
+| 713 | 97 | Shanell Thomas |
 | 714 | 96 | Just2Play$ |
-| 715 | 96 | Guard Up |
-| 716 | 96 | Kimmie Gargano |
-| 717 | 96 | meatballs |
-| 718 | 96 | Sonia Binti Mfalme |
-| 719 | 96 | Karen Knapp |
-| 720 | 96 | Zappy Clearfit |
-| 721 | 96 | Yazz |
-| 722 | 95 | Analesia Taylor |
-| 723 | 95 | Adrian Harris |
-| 724 | 95 | Joseph Vs Cap |
-| 725 | 95 | TieMs BHughez |
-| 726 | 95 | Shiny Lift |
-| 727 | 95 | Ameillia Boughner |
+| 715 | 96 | Sara |
+| 716 | 96 | Guard Up |
+| 717 | 96 | Kimmie Gargano |
+| 718 | 96 | meatballs |
+| 719 | 96 | Sonia Binti Mfalme |
+| 720 | 96 | Karen Knapp |
+| 721 | 96 | Zappy Clearfit |
+| 722 | 96 | Yazz |
+| 723 | 95 | Joseph Vs Cap |
+| 724 | 95 | Analesia Taylor |
+| 725 | 95 | Adrian Harris |
+| 726 | 95 | TieMs BHughez |
+| 727 | 95 | Shiny Lift |
 | 728 | 95 | Cameo Tweed |
 | 729 | 95 | Paul Pendley |
 | 730 | 95 | Chris Nelson |
