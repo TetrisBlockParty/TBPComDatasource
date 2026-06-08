@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 15:30:20 UTC
+# Standings for team4 as of 2026-06-08 15:30:42 UTC
 
 **Total Participants:** 1853
 
@@ -271,10 +271,10 @@
 | 263 | 305 | Richard Bearse |
 | 264 | 303 | Ash Gribble |
 | 265 | 302 | Tina Thomas |
-| 266 | 300 | Wanda Simmons |
-| 267 | 300 | Saucy Wipepiece |
-| 268 | 299 | Dana Abegil Lawas |
-| 269 | 298 | Snippy Splitter |
+| 266 | 300 | Snippy Splitter |
+| 267 | 300 | Wanda Simmons |
+| 268 | 300 | Saucy Wipepiece |
+| 269 | 299 | Dana Abegil Lawas |
 | 270 | 296 | Tawna Curry |
 | 271 | 296 | PerfectPieces |
 | 272 | 296 | WeeWooWee |
@@ -439,16 +439,16 @@
 | 431 | 198 | Mint Marquez |
 | 432 | 198 | Dan Butcher |
 | 433 | 197 | Zesty Twistpiece |
-| 434 | 196 | Loopy Clusterline |
-| 435 | 196 | Melissa Lowe |
-| 436 | 196 | June Hoffman |
-| 437 | 196 | Happy Shatterfit |
-| 438 | 195 | Cari Underwood |
-| 439 | 195 | Karen Small |
-| 440 | 195 | Sean Mccleary |
-| 441 | 195 | maria |
-| 442 | 195 | Blockcrusher |
-| 443 | 195 | Groovy Towerbuilder |
+| 434 | 197 | Groovy Towerbuilder |
+| 435 | 196 | Loopy Clusterline |
+| 436 | 196 | Melissa Lowe |
+| 437 | 196 | June Hoffman |
+| 438 | 196 | Happy Shatterfit |
+| 439 | 195 | Cari Underwood |
+| 440 | 195 | Karen Small |
+| 441 | 195 | Sean Mccleary |
+| 442 | 195 | maria |
+| 443 | 195 | Blockcrusher |
 | 444 | 194 | Diana Fernandez |
 | 445 | 194 | Jumpy Builderpiece |
 | 446 | 192 | Ralph Hell Rell Williams |
@@ -730,33 +730,33 @@
 | 722 | 113 | Deb 07 |
 | 723 | 113 | Butterfly |
 | 724 | 112 | Shaneé Staunton |
-| 725 | 112 | ShaniP |
-| 726 | 112 | medicjessi |
-| 727 | 112 | Khiem Hernandez |
-| 728 | 111 | Peachy Piecefit |
-| 729 | 111 | Abby Waterman |
-| 730 | 111 | Dizzy |
-| 731 | 111 | shonaberry |
-| 732 | 111 | Lush Twisterfit |
-| 733 | 111 | Elena Marí |
-| 734 | 110 | Clever Brickzone |
-| 735 | 110 | Fancy Rollfit |
-| 736 | 110 | Breezy Brickline |
-| 737 | 110 | Zappy Tilemaker |
-| 738 | 109 | Playful Raccoon |
-| 739 | 109 | Breezy Blockzone |
-| 740 | 109 | Frisky Blocker |
-| 741 | 109 | Tiffany Roberts |
-| 742 | 108 | Miranda Brown |
-| 743 | 108 | sierrabeth |
-| 744 | 108 | Suzi Smas |
-| 745 | 108 | Cozy Patternline |
-| 746 | 108 | Addi JayKay |
-| 747 | 107 | Daniel Lossman |
-| 748 | 107 | ManOfSteel |
-| 749 | 106 | Helen Bradley |
-| 750 | 106 | Charlene Nicole Guidry |
-| 751 | 106 | Heather Brown |
+| 725 | 112 | Heather Brown |
+| 726 | 112 | ShaniP |
+| 727 | 112 | medicjessi |
+| 728 | 112 | Khiem Hernandez |
+| 729 | 111 | Peachy Piecefit |
+| 730 | 111 | Abby Waterman |
+| 731 | 111 | Dizzy |
+| 732 | 111 | shonaberry |
+| 733 | 111 | Lush Twisterfit |
+| 734 | 111 | Elena Marí |
+| 735 | 110 | Clever Brickzone |
+| 736 | 110 | Fancy Rollfit |
+| 737 | 110 | Breezy Brickline |
+| 738 | 110 | Zappy Tilemaker |
+| 739 | 109 | Playful Raccoon |
+| 740 | 109 | Breezy Blockzone |
+| 741 | 109 | Frisky Blocker |
+| 742 | 109 | Tiffany Roberts |
+| 743 | 108 | Miranda Brown |
+| 744 | 108 | sierrabeth |
+| 745 | 108 | Suzi Smas |
+| 746 | 108 | Cozy Patternline |
+| 747 | 108 | Addi JayKay |
+| 748 | 107 | Daniel Lossman |
+| 749 | 107 | ManOfSteel |
+| 750 | 106 | Helen Bradley |
+| 751 | 106 | Charlene Nicole Guidry |
 | 752 | 105 | Surviving Be Back Soon |
 | 753 | 105 | Debby Muniz |
 | 754 | 105 | Jennifer Evans Elliott |
@@ -1302,22 +1302,22 @@
 | 1294 | 42 | Gr8flluv1 |
 | 1295 | 42 | Mounique Melenciano |
 | 1296 | 42 | Mighty Dash |
-| 1297 | 42 | Stacy Brown |
-| 1298 | 42 | Shupurplenurkle |
-| 1299 | 42 | Chelle Williams |
-| 1300 | 42 | Cas Gio |
-| 1301 | 42 | Snappy Patternfall |
-| 1302 | 41 | Amanda Serrano Ruffner |
-| 1303 | 41 | Tipsy Patternfit |
-| 1304 | 41 | Kasey Lynne |
-| 1305 | 41 | Jordan Tamayia Williams |
-| 1306 | 41 | Bookgirl69 |
-| 1307 | 40 | Jean Yap |
-| 1308 | 40 | Sierra A Hortman |
-| 1309 | 40 | Pickles |
-| 1310 | 40 | T boo |
-| 1311 | 40 | Dawn Mortimer |
-| 1312 | 40 | Elissa Danks |
+| 1297 | 42 | Elissa Danks |
+| 1298 | 42 | Stacy Brown |
+| 1299 | 42 | Shupurplenurkle |
+| 1300 | 42 | Chelle Williams |
+| 1301 | 42 | Cas Gio |
+| 1302 | 42 | Snappy Patternfall |
+| 1303 | 41 | Amanda Serrano Ruffner |
+| 1304 | 41 | Tipsy Patternfit |
+| 1305 | 41 | Kasey Lynne |
+| 1306 | 41 | Jordan Tamayia Williams |
+| 1307 | 41 | Bookgirl69 |
+| 1308 | 40 | Jean Yap |
+| 1309 | 40 | Sierra A Hortman |
+| 1310 | 40 | Pickles |
+| 1311 | 40 | T boo |
+| 1312 | 40 | Dawn Mortimer |
 | 1313 | 40 | Quirky Fitblock |
 | 1314 | 40 | Cynthia Bolden |
 | 1315 | 40 | Glitzy Patternbuilder |
