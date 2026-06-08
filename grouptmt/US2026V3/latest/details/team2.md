@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:04:42 UTC
+# Standings for team2 as of 2026-06-08 15:05:19 UTC
 
 **Total Participants:** 2192
 
@@ -288,9 +288,9 @@
 | 280 | 373 | Amie Marks |
 | 281 | 373 | Hoppy Mover |
 | 282 | 370 | Melissa Clogher White |
-| 283 | 367 | Julie Renee Bertram |
-| 284 | 365 | Ratchet |
-| 285 | 363 | Chipper Stackbuilder |
+| 283 | 368 | Chipper Stackbuilder |
+| 284 | 367 | Julie Renee Bertram |
+| 285 | 365 | Ratchet |
 | 286 | 362 | Hypee |
 | 287 | 360 | Jamin |
 | 288 | 360 | missat |
@@ -982,10 +982,10 @@
 | 974 | 94 | Rubics cube |
 | 975 | 94 | CEK |
 | 976 | 94 | Hyper Cascade |
-| 977 | 93 | Joffee Joffer |
-| 978 | 93 | Kymberlee Rolinski |
-| 979 | 93 | Dawnypooh |
-| 980 | 93 | Michele Plunkett |
+| 977 | 93 | Kymberlee Rolinski |
+| 978 | 93 | Michele Plunkett |
+| 979 | 93 | Joffee Joffer |
+| 980 | 93 | Dawnypooh |
 | 981 | 93 | Connie Breeden |
 | 982 | 93 | Mataya |
 | 983 | 92 | Linzy Ratliff |
@@ -994,55 +994,55 @@
 | 986 | 92 | Marcia Davis |
 | 987 | 92 | Brandy McCleary |
 | 988 | 92 | Buddy |
-| 989 | 92 | Duck |
-| 990 | 92 | Ques Pryor |
-| 991 | 92 | Wacky Curve |
-| 992 | 92 | Giggy Dropzone |
-| 993 | 91 | Lindsey Davidson |
-| 994 | 91 | Tabitha Ann Bullins-Cobb |
-| 995 | 91 | Blossom48 |
+| 989 | 92 | Ques Pryor |
+| 990 | 92 | Giggy Dropzone |
+| 991 | 92 | C.L. Deslongchamp |
+| 992 | 92 | Wacky Curve |
+| 993 | 92 | Duck |
+| 994 | 91 | Blossom48 |
+| 995 | 91 | Tabitha Ann Bullins-Cobb |
 | 996 | 91 | DNice |
-| 997 | 91 | Laura Anderson |
-| 998 | 91 | WestieMom |
-| 999 | 90 | Nicole Hogue |
-| 1000 | 90 | Latrell Thomas |
-| 1001 | 90 | Arik DiLorenzo |
-| 1002 | 90 | Rochelle O'Loughlin |
-| 1003 | 90 | Beth Engberg |
-| 1004 | 90 | Justin Furne |
-| 1005 | 90 | Carlee Becher |
-| 1006 | 90 | Lesley Stoeckle |
-| 1007 | 90 | Amanda Mason Scott |
-| 1008 | 90 | Christina Reid |
-| 1009 | 90 | Naomi Jaynes |
-| 1010 | 90 | Lacie B |
-| 1011 | 90 | Beachmama |
-| 1012 | 90 | Giddy Climber |
+| 997 | 91 | Lindsey Davidson |
+| 998 | 91 | Laura Anderson |
+| 999 | 91 | WestieMom |
+| 1000 | 90 | Nicole Hogue |
+| 1001 | 90 | Latrell Thomas |
+| 1002 | 90 | Arik DiLorenzo |
+| 1003 | 90 | Rochelle O'Loughlin |
+| 1004 | 90 | Beth Engberg |
+| 1005 | 90 | Justin Furne |
+| 1006 | 90 | Carlee Becher |
+| 1007 | 90 | Lesley Stoeckle |
+| 1008 | 90 | Amanda Mason Scott |
+| 1009 | 90 | Christina Reid |
+| 1010 | 90 | Naomi Jaynes |
+| 1011 | 90 | Lacie B |
+| 1012 | 90 | Beachmama |
 | 1013 | 90 | wutrwerdz |
-| 1014 | 90 | Kayla Iverson |
-| 1015 | 90 | Jenifer Gasho |
-| 1016 | 89 | Rachel Nunn |
-| 1017 | 89 | Anna Benjamin Freeman |
-| 1018 | 89 | Samantha Smith |
-| 1019 | 89 | Sue Fuzy |
-| 1020 | 89 | Christina Sheldon |
-| 1021 | 89 | Shawn Bolt |
-| 1022 | 89 | Cranky Brickzone |
-| 1023 | 89 | Michele Choate |
-| 1024 | 89 | Jennifer Lewellyn Hutchins |
-| 1025 | 89 | Cheryl Graves Downard |
-| 1026 | 89 | Lori Yelvington Cain |
-| 1027 | 88 | Missy Tubb Overly |
-| 1028 | 88 | Witty Riser |
-| 1029 | 88 | Suzanne Davis |
-| 1030 | 88 | Lydia Shonee |
-| 1031 | 88 | Meagan Thompson |
-| 1032 | 88 | Stazy Warner |
-| 1033 | 88 | Dapper Spinbuilder |
-| 1034 | 88 | sugabritches |
-| 1035 | 88 | Debra Patten |
-| 1036 | 88 | Sandy Molina |
-| 1037 | 87 | C.L. Deslongchamp |
+| 1014 | 90 | Giddy Climber |
+| 1015 | 90 | Kayla Iverson |
+| 1016 | 90 | Jenifer Gasho |
+| 1017 | 89 | Rachel Nunn |
+| 1018 | 89 | Anna Benjamin Freeman |
+| 1019 | 89 | Samantha Smith |
+| 1020 | 89 | Sue Fuzy |
+| 1021 | 89 | Christina Sheldon |
+| 1022 | 89 | Shawn Bolt |
+| 1023 | 89 | Cranky Brickzone |
+| 1024 | 89 | Michele Choate |
+| 1025 | 89 | Jennifer Lewellyn Hutchins |
+| 1026 | 89 | Cheryl Graves Downard |
+| 1027 | 89 | Lori Yelvington Cain |
+| 1028 | 88 | Missy Tubb Overly |
+| 1029 | 88 | Witty Riser |
+| 1030 | 88 | Suzanne Davis |
+| 1031 | 88 | Lydia Shonee |
+| 1032 | 88 | Meagan Thompson |
+| 1033 | 88 | Stazy Warner |
+| 1034 | 88 | Dapper Spinbuilder |
+| 1035 | 88 | sugabritches |
+| 1036 | 88 | Debra Patten |
+| 1037 | 88 | Sandy Molina |
 | 1038 | 87 | Happy Shatterblock |
 | 1039 | 87 | Dawn Marie |
 | 1040 | 87 | April Elaine Messenger |
