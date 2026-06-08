@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 18:54:20 UTC
+# Standings for team4 as of 2026-06-08 18:54:42 UTC
 
 **Total Participants:** 1894
 
@@ -35,8 +35,8 @@
 | 27 | 4149 | Witty Clicky |
 | 28 | 3935 | TitiLo72 |
 | 29 | 3867 | Tonya Brooks-Johnson |
-| 30 | 3776 | Dana Smith |
-| 31 | 3764 | Juan Ford |
+| 30 | 3824 | Juan Ford |
+| 31 | 3776 | Dana Smith |
 | 32 | 3440 | Chummy Rollzone |
 | 33 | 3424 | Watupall13 |
 | 34 | 3421 | Fruitpunch |
@@ -252,7 +252,7 @@
 | 244 | 356 | jaz |
 | 245 | 355 | Colin |
 | 246 | 355 | RotatedWrongAgain |
-| 247 | 350 | Kelly Howland |
+| 247 | 354 | Kelly Howland |
 | 248 | 349 | Dana Abegil Lawas |
 | 249 | 346 | Alex Armour |
 | 250 | 344 | Anthony Lewis |
