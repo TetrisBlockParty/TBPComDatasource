@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:00:43 UTC
+# Standings for team1 as of 2026-06-08 09:01:20 UTC
 
 **Total Participants:** 1764
 
@@ -88,13 +88,13 @@
 | 80 | 987 | PandaPrincess |
 | 81 | 967 | KenpachisGirl |
 | 82 | 939 | Uneekly Mayde |
-| 83 | 921 | Therealdywoune Peay |
-| 84 | 920 | IamJust Neyamijah Washington Sr. |
-| 85 | 917 | Dynah Gordon |
-| 86 | 913 | MamaBear |
-| 87 | 911 | Richard Horton |
-| 88 | 908 | Danielle Barthelme |
-| 89 | 908 | Chenell Gillard |
+| 83 | 928 | Chenell Gillard |
+| 84 | 921 | Therealdywoune Peay |
+| 85 | 920 | IamJust Neyamijah Washington Sr. |
+| 86 | 917 | Dynah Gordon |
+| 87 | 913 | MamaBear |
+| 88 | 911 | Richard Horton |
+| 89 | 908 | Danielle Barthelme |
 | 90 | 904 | Moomoo |
 | 91 | 897 | BYM4L |
 | 92 | 885 | Keeta Chickswit Scott |
@@ -519,31 +519,31 @@
 | 511 | 144 | Kp |
 | 512 | 143 | Ashlie Mo |
 | 513 | 142 | Sarah Steckbauer |
-| 514 | 142 | Kelley Johnson |
-| 515 | 141 | Shalena Marie Humphrey |
-| 516 | 141 | Frances Davis |
-| 517 | 140 | Tessa Gaskin |
-| 518 | 140 | Kennedi Brazziel |
-| 519 | 140 | Antoinette Jones |
-| 520 | 139 | Tracy Feyler |
-| 521 | 139 | Bold Clusterer |
-| 522 | 138 | Dreamzzz |
-| 523 | 138 | Yadira Salgado |
-| 524 | 138 | Ozell Jones Jr. |
-| 525 | 138 | Alexandrla Smith |
-| 526 | 138 | Ashley Monet Terrell |
-| 527 | 138 | Claudia Price |
-| 528 | 137 | Angelique Talbot |
-| 529 | 137 | Kelvin Cook |
-| 530 | 136 | Duncan Timothy |
-| 531 | 136 | Gbnola |
-| 532 | 136 | The DUBZ |
-| 533 | 136 | Char |
-| 534 | 135 | MzJuice Box |
-| 535 | 135 | Chirpy Buildgrid |
-| 536 | 135 | Saucy Tile |
-| 537 | 135 | Shameka Tiffany |
-| 538 | 135 | Giggly Tiltbuilder |
+| 514 | 142 | Giggly Tiltbuilder |
+| 515 | 142 | Kelley Johnson |
+| 516 | 141 | Shalena Marie Humphrey |
+| 517 | 141 | Frances Davis |
+| 518 | 140 | Tessa Gaskin |
+| 519 | 140 | Kennedi Brazziel |
+| 520 | 140 | Antoinette Jones |
+| 521 | 139 | Tracy Feyler |
+| 522 | 139 | Bold Clusterer |
+| 523 | 138 | Dreamzzz |
+| 524 | 138 | Yadira Salgado |
+| 525 | 138 | Ozell Jones Jr. |
+| 526 | 138 | Alexandrla Smith |
+| 527 | 138 | Ashley Monet Terrell |
+| 528 | 138 | Claudia Price |
+| 529 | 137 | Angelique Talbot |
+| 530 | 137 | Kelvin Cook |
+| 531 | 136 | Duncan Timothy |
+| 532 | 136 | Gbnola |
+| 533 | 136 | The DUBZ |
+| 534 | 136 | Char |
+| 535 | 135 | MzJuice Box |
+| 536 | 135 | Chirpy Buildgrid |
+| 537 | 135 | Saucy Tile |
+| 538 | 135 | Shameka Tiffany |
 | 539 | 134 | Taz Ballard |
 | 540 | 134 | Aaron Hartmann |
 | 541 | 133 | Marlynnnnn |
