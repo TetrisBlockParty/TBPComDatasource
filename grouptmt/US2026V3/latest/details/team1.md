@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:42:43 UTC
+# Standings for team1 as of 2026-06-08 11:43:20 UTC
 
 **Total Participants:** 1785
 
@@ -72,7 +72,7 @@
 | 64 | 1161 | Brian Bohanon II |
 | 65 | 1159 | Corey Cawthon |
 | 66 | 1156 | Frisky Fallmatch |
-| 67 | 1141 | Blockhead |
+| 67 | 1146 | Blockhead |
 | 68 | 1126 | Ryan Meilleur |
 | 69 | 1122 | Eric Mcgaughy |
 | 70 | 1118 | Todd C. Clemens |
@@ -166,7 +166,7 @@
 | 158 | 482 | Spunky Edgefit |
 | 159 | 482 | Jamal Itzjusmall Chambers |
 | 160 | 477 | Nobles Brandon |
-| 161 | 468 | Lesley Brunkus Cianfaglione |
+| 161 | 469 | Lesley Brunkus Cianfaglione |
 | 162 | 466 | Tootsie Pop |
 | 163 | 456 | Andre Sanon |
 | 164 | 456 | Cachet A Ward |
@@ -272,19 +272,19 @@
 | 264 | 300 | Ketrell Bailey |
 | 265 | 296 | Nikki Hogan |
 | 266 | 294 | Tonya McElroy |
-| 267 | 293 | Tonya Lee Sanders |
-| 268 | 292 | Ann Chung |
-| 269 | 292 | Trina Greenwood |
-| 270 | 291 | Brian Taylor |
-| 271 | 290 | Amber Wilson |
-| 272 | 290 | Mikayla |
+| 267 | 294 | Frisky Fall |
+| 268 | 293 | Tonya Lee Sanders |
+| 269 | 292 | Ann Chung |
+| 270 | 292 | Trina Greenwood |
+| 271 | 291 | Brian Taylor |
+| 272 | 290 | Amber Wilson |
 | 273 | 290 | Elizabeth Vega Coreano |
-| 274 | 289 | StingerD |
-| 275 | 289 | Cortaz Lawrie |
-| 276 | 287 | Simone Bailey |
-| 277 | 287 | SyTheEvilGenius1 |
-| 278 | 285 | Joana Thompson |
-| 279 | 284 | Frisky Fall |
+| 274 | 290 | Mikayla |
+| 275 | 289 | StingerD |
+| 276 | 289 | Cortaz Lawrie |
+| 277 | 287 | Simone Bailey |
+| 278 | 287 | SyTheEvilGenius1 |
+| 279 | 285 | Joana Thompson |
 | 280 | 282 | McKayla Owens |
 | 281 | 280 | Chilly Wipebuilder |
 | 282 | 280 | Erica Charlise |
@@ -443,11 +443,11 @@
 | 435 | 178 | Manda Allen |
 | 436 | 177 | Cece Fowler |
 | 437 | 176 | Char |
-| 438 | 175 | Boldy Matchbuilder |
-| 439 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 440 | 174 | ChunLi |
-| 441 | 174 | NewEve |
-| 442 | 173 | Jae Thompson-Tyus |
+| 438 | 176 | Jae Thompson-Tyus |
+| 439 | 175 | Boldy Matchbuilder |
+| 440 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 441 | 174 | ChunLi |
+| 442 | 174 | NewEve |
 | 443 | 173 | Tajuana Juana'Cee Coleman |
 | 444 | 172 | Kendra McIntyre |
 | 445 | 171 | Brittany Fells |
