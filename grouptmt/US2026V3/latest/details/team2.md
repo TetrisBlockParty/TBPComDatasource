@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:24:19 UTC
+# Standings for team2 as of 2026-06-08 12:24:43 UTC
 
 **Total Participants:** 2166
 
@@ -10,7 +10,7 @@
 | 2 | 23400 | Mochi |
 | 3 | 17254 | Puce guide 9156 |
 | 4 | 14612 | Lacey Nolting |
-| 5 | 12438 | Crystalin Heath Lewis |
+| 5 | 12739 | Crystalin Heath Lewis |
 | 6 | 9604 | Cori Keberlein |
 | 7 | 9576 | Jason Wood |
 | 8 | 8796 | A.j. Langley |
