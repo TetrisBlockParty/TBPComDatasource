@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:52:41 UTC
+# Standings for team1 as of 2026-06-08 06:53:21 UTC
 
 **Total Participants:** 1747
 
@@ -894,31 +894,31 @@
 | 886 | 74 | Coco |
 | 887 | 74 | AshMo |
 | 888 | 74 | Giggy Brickfit |
-| 889 | 74 | Abby |
-| 890 | 74 | Stronger Wiser Better |
+| 889 | 74 | Stronger Wiser Better |
+| 890 | 74 | Abby |
 | 891 | 74 | Delitra Perkins Hatter |
 | 892 | 74 | Jane Lame |
 | 893 | 74 | Seirra Robinson |
 | 894 | 73 | Lazy Matchgrid |
-| 895 | 73 | Ducc2408 |
-| 896 | 73 | Kàrma Lee |
-| 897 | 73 | Abigail Newman Sweet |
-| 898 | 72 | Brittany Britkany Marsden-Garrison |
-| 899 | 72 | Ashanti Eden |
-| 900 | 72 | Ray Baker |
-| 901 | 72 | ImmeKC |
-| 902 | 72 | Bunnie Celtavini |
-| 903 | 72 | Comedian Gdane |
-| 904 | 72 | Shanna Green Williams |
-| 905 | 71 | Tori Carter |
-| 906 | 71 | KimChii |
-| 907 | 71 | HBTone |
-| 908 | 71 | Ryan Holm |
+| 895 | 73 | tg |
+| 896 | 73 | Ducc2408 |
+| 897 | 73 | Kàrma Lee |
+| 898 | 73 | Abigail Newman Sweet |
+| 899 | 72 | Brittany Britkany Marsden-Garrison |
+| 900 | 72 | Ashanti Eden |
+| 901 | 72 | Ray Baker |
+| 902 | 72 | ImmeKC |
+| 903 | 72 | Bunnie Celtavini |
+| 904 | 72 | Comedian Gdane |
+| 905 | 72 | Shanna Green Williams |
+| 906 | 71 | Tori Carter |
+| 907 | 71 | KimChii |
+| 908 | 71 | HBTone |
 | 909 | 71 | Katness |
-| 910 | 71 | Kidgib5 |
-| 911 | 71 | kingbrook |
-| 912 | 70 | Rachel Lopez |
-| 913 | 70 | tg |
+| 910 | 71 | Ryan Holm |
+| 911 | 71 | Kidgib5 |
+| 912 | 71 | kingbrook |
+| 913 | 70 | Rachel Lopez |
 | 914 | 70 | Tip318 |
 | 915 | 70 | Chris Rogers |
 | 916 | 70 | win |
