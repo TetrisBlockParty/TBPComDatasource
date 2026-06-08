@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:30:20 UTC
+# Standings for team1 as of 2026-06-08 11:30:42 UTC
 
 **Total Participants:** 1783
 
@@ -22,7 +22,7 @@
 | 14 | 6336 | Speedy Spinblock |
 | 15 | 5582 | Jocelyn Pope-Sewell |
 | 16 | 5282 | Plucky Swipe |
-| 17 | 5151 | Hunter Rayborn |
+| 17 | 5163 | Hunter Rayborn |
 | 18 | 5124 | Cassidy Butler |
 | 19 | 4203 | Pdubbl3 |
 | 20 | 3972 | Tekedra Wilson |
@@ -259,8 +259,8 @@
 | 251 | 311 | Coco |
 | 252 | 310 | Chasem45 |
 | 253 | 310 | Denise B |
-| 254 | 309 | Brave Clearbuilder |
-| 255 | 308 | Steve Reno |
+| 254 | 309 | Steve Reno |
+| 255 | 309 | Brave Clearbuilder |
 | 256 | 306 | Devin West |
 | 257 | 305 | Chummy Frame |
 | 258 | 305 | Salim Thugger |
