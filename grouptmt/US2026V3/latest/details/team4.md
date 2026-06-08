@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 13:06:42 UTC
+# Standings for team4 as of 2026-06-08 13:07:19 UTC
 
 **Total Participants:** 1831
 
@@ -227,8 +227,8 @@
 | 219 | 340 | Holly Wessel |
 | 220 | 340 | Jojo Ann |
 | 221 | 338 | Kelly Howland |
-| 222 | 337 | tigerlilly |
-| 223 | 336 | Plucky Shatterfit |
+| 222 | 338 | Plucky Shatterfit |
+| 223 | 337 | tigerlilly |
 | 224 | 335 | Spunky Gridzone |
 | 225 | 334 | Dazzle Dragon |
 | 226 | 331 | George Palacios |
@@ -250,24 +250,24 @@
 | 242 | 309 | TRUCHILD777$$$ |
 | 243 | 306 | Janet Sanfilippo Sullivan |
 | 244 | 305 | No Time |
-| 245 | 301 | Tiffany Bunker-Hill |
-| 246 | 301 | Bean |
-| 247 | 301 | Pepper |
-| 248 | 300 | Wanda Simmons |
-| 249 | 300 | Genag |
-| 250 | 296 | PerfectPieces |
+| 245 | 301 | Pepper |
+| 246 | 301 | Tiffany Bunker-Hill |
+| 247 | 301 | Bean |
+| 248 | 300 | Genag |
+| 249 | 300 | Wanda Simmons |
+| 250 | 296 | Bre Dee |
 | 251 | 296 | WeeWooWee |
-| 252 | 296 | beauxie |
+| 252 | 296 | PerfectPieces |
 | 253 | 296 | Dae Von |
-| 254 | 296 | Bre Dee |
+| 254 | 296 | beauxie |
 | 255 | 294 | Solace Grace |
 | 256 | 293 | Logan Two-dubs Baker |
 | 257 | 290 | Tawna Curry |
 | 258 | 290 | Brian Woods |
 | 259 | 289 | Shepreneur Sade |
 | 260 | 287 | Cheery Risegrid |
-| 261 | 286 | Dubiousdust |
-| 262 | 286 | Erika Seaton |
+| 261 | 286 | Erika Seaton |
+| 262 | 286 | Dubiousdust |
 | 263 | 285 | Dana Abegil Lawas |
 | 264 | 285 | Morgan Stevens |
 | 265 | 284 | Tipsy Builderline |
@@ -275,16 +275,16 @@
 | 267 | 282 | Goofy Fall |
 | 268 | 282 | Shanna Fragen |
 | 269 | 282 | Troy Zanelli |
-| 270 | 281 | Ash Gribble |
-| 271 | 281 | Capone |
+| 270 | 281 | Capone |
+| 271 | 281 | Ash Gribble |
 | 272 | 281 | Waxboss |
 | 273 | 281 | Margie Thomas |
 | 274 | 280 | Snippy Splitter |
-| 275 | 278 | Tamara Triplet |
-| 276 | 278 | Cranky Buildout |
-| 277 | 277 | Giggly Tilt |
-| 278 | 276 | Lori Stembridge |
-| 279 | 276 | jaz |
+| 275 | 278 | jaz |
+| 276 | 278 | Tamara Triplet |
+| 277 | 278 | Cranky Buildout |
+| 278 | 277 | Giggly Tilt |
+| 279 | 276 | Lori Stembridge |
 | 280 | 275 | Jeremy |
 | 281 | 274 | Dominique Melendez |
 | 282 | 271 | Tina Thomas |
@@ -308,42 +308,42 @@
 | 300 | 258 | Karen Rodriguez |
 | 301 | 257 | Patrick Alley |
 | 302 | 255 | Britney Kitora |
-| 303 | 251 | Jenn Norcross |
-| 304 | 251 | Jj Johnson |
-| 305 | 251 | EL Booger |
+| 303 | 251 | EL Booger |
+| 304 | 251 | Jenn Norcross |
+| 305 | 251 | Jj Johnson |
 | 306 | 249 | Brennan Shea Greene |
 | 307 | 248 | Becky McCool |
-| 308 | 247 | Bridget Stevens |
-| 309 | 247 | Shauna Davis |
+| 308 | 247 | Shauna Davis |
+| 309 | 247 | Bridget Stevens |
 | 310 | 244 | Queen B |
 | 311 | 244 | Lisa lisa |
 | 312 | 243 | Mark Norton |
 | 313 | 243 | Flashy Shatterer |
-| 314 | 242 | Homie |
-| 315 | 242 | Jace McCullough |
-| 316 | 241 | Alma López Morales |
-| 317 | 241 | Sarah Perry Cook |
-| 318 | 240 | Maurice DeJean |
-| 319 | 240 | Swanky Brickzone |
+| 314 | 242 | Jace McCullough |
+| 315 | 242 | Homie |
+| 316 | 241 | Sarah Perry Cook |
+| 317 | 241 | Alma López Morales |
+| 318 | 240 | Swanky Brickzone |
+| 319 | 240 | Maurice DeJean |
 | 320 | 240 | Saucy Wipepiece |
 | 321 | 240 | Jaci Marie |
-| 322 | 239 | Slinky Column |
-| 323 | 239 | bollo |
+| 322 | 239 | bollo |
+| 323 | 239 | Slinky Column |
 | 324 | 238 | Tara Delay Hill |
 | 325 | 237 | Jazzy Gridder |
 | 326 | 237 | Beth Belanger |
 | 327 | 237 | Deborah Silberg |
-| 328 | 233 | Joseph Hunter |
-| 329 | 233 | Dizzy Slammer |
+| 328 | 233 | Dizzy Slammer |
+| 329 | 233 | Joseph Hunter |
 | 330 | 232 | Samara Garcia |
 | 331 | 232 | Carla Woodard |
 | 332 | 230 | gabs |
-| 333 | 229 | Melika Zeheb |
-| 334 | 229 | farfromlocal |
-| 335 | 229 | Chonda OhanaMomma Michelle |
+| 333 | 229 | Chonda OhanaMomma Michelle |
+| 334 | 229 | Melika Zeheb |
+| 335 | 229 | farfromlocal |
 | 336 | 228 | Andrick |
-| 337 | 228 | Shiny Brick |
-| 338 | 228 | Nerdy Faller |
+| 337 | 228 | Nerdy Faller |
+| 338 | 228 | Shiny Brick |
 | 339 | 227 | Stephanie Myers |
 | 340 | 227 | Kimyatta Cavin |
 | 341 | 226 | Susan Stofberg Beltran |
@@ -351,32 +351,32 @@
 | 343 | 225 | Laurie Patrick |
 | 344 | 224 | Mark Fitch Jr. |
 | 345 | 224 | Ashley Jenkins |
-| 346 | 223 | Frothy Pattern |
+| 346 | 223 | Leslie Ann Carter |
 | 347 | 223 | Bouncy |
-| 348 | 223 | Leslie Ann Carter |
+| 348 | 223 | Frothy Pattern |
 | 349 | 222 | Karen Davis |
 | 350 | 222 | Cheeky Fallzone |
 | 351 | 221 | JuicyJuice |
-| 352 | 220 | Sarah Montagne Forsberg |
+| 352 | 220 | Anthony Magaraci |
 | 353 | 220 | Goofy Linkmatch |
-| 354 | 220 | Anthony Magaraci |
+| 354 | 220 | Sarah Montagne Forsberg |
 | 355 | 219 | Crystal Hammonds |
-| 356 | 219 | JoAnn Summerlot Ratliff |
-| 357 | 219 | Tiffany Smith |
+| 356 | 219 | Tiffany Smith |
+| 357 | 219 | JoAnn Summerlot Ratliff |
 | 358 | 218 | Codey Haffner |
-| 359 | 217 | Cindy |
-| 360 | 217 | LeRoy jenkins |
-| 361 | 216 | Smiley Gridzone |
-| 362 | 216 | Alyson M Kehler |
+| 359 | 217 | LeRoy jenkins |
+| 360 | 217 | Cindy |
+| 361 | 216 | Alyson M Kehler |
+| 362 | 216 | Smiley Gridzone |
 | 363 | 214 | Cecilia Hicks |
 | 364 | 213 | Toon Up |
 | 365 | 211 | Montes Ash |
 | 366 | 210 | Sfalcon1. |
 | 367 | 210 | Gary Smallwood |
-| 368 | 209 | Ashley Mcdonald |
-| 369 | 209 | Chirpy Snapclear |
+| 368 | 209 | Lively Blockpiece |
+| 369 | 209 | Ashley Mcdonald |
 | 370 | 209 | Genger |
-| 371 | 209 | Lively Blockpiece |
+| 371 | 209 | Chirpy Snapclear |
 | 372 | 208 | Justin Janachovsky |
 | 373 | 208 | Danny Frausto |
 | 374 | 208 | JIGsaw ~(•¿°)~ |
@@ -436,11 +436,11 @@
 | 428 | 188 | Lee Ann Gibby |
 | 429 | 187 | Marina |
 | 430 | 187 | Jennifer Fisher Franklin |
-| 431 | 186 | Tiffany Morris Garner |
-| 432 | 186 | Deva Marie Barber |
-| 433 | 186 | Rita Ann |
-| 434 | 185 | Valerie Silva |
-| 435 | 184 | Happy Shatterfit |
+| 431 | 187 | Happy Shatterfit |
+| 432 | 186 | Tiffany Morris Garner |
+| 433 | 186 | Deva Marie Barber |
+| 434 | 186 | Rita Ann |
+| 435 | 185 | Valerie Silva |
 | 436 | 183 | Tamara Gay |
 | 437 | 182 | Ashley Eskridge |
 | 438 | 182 | Swanky Snapgrid |
