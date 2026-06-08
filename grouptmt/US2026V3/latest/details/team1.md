@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 03:16:17 UTC
+# Standings for team1 as of 2026-06-08 03:16:41 UTC
 
 **Total Participants:** 1693
 
@@ -313,35 +313,35 @@
 | 305 | 220 | Rachael Bakowicz Edwards |
 | 306 | 220 | rls |
 | 307 | 220 | Christian Pham |
-| 308 | 219 | Tamara Johnson-Carter |
-| 309 | 217 | HarleyJane |
-| 310 | 217 | Ashleyy Netchert |
-| 311 | 217 | Louise Parker |
-| 312 | 217 | LaShaun Stinson |
-| 313 | 217 | Snippy Breaker |
-| 314 | 214 | Stephen Providenti |
-| 315 | 213 | Still Ten Tay |
-| 316 | 213 | Wild Out Nai |
-| 317 | 212 | LaToya Chambers |
+| 308 | 220 | Erica Charlise |
+| 309 | 219 | Tamara Johnson-Carter |
+| 310 | 217 | HarleyJane |
+| 311 | 217 | Ashleyy Netchert |
+| 312 | 217 | Louise Parker |
+| 313 | 217 | LaShaun Stinson |
+| 314 | 217 | Snippy Breaker |
+| 315 | 214 | Stephen Providenti |
+| 316 | 213 | Still Ten Tay |
+| 317 | 213 | Wild Out Nai |
 | 318 | 212 | Simply-Beautiful007 |
-| 319 | 211 | Charletha Williams |
-| 320 | 211 | Nina Davis |
-| 321 | 210 | Sarah Clark |
-| 322 | 209 | Antonia Wyche |
-| 323 | 209 | $hort Dog |
+| 319 | 212 | LaToya Chambers |
+| 320 | 211 | Charletha Williams |
+| 321 | 211 | Nina Davis |
+| 322 | 210 | Sarah Clark |
+| 323 | 209 | Antonia Wyche |
 | 324 | 209 | Phillip Vasquez |
-| 325 | 205 | Treneil Daffin |
+| 325 | 209 | $hort Dog |
 | 326 | 205 | OhNoZer0 |
-| 327 | 204 | Guy Incognito |
-| 328 | 203 | Daris Swearington |
-| 329 | 202 | Crystal Cheresnowsky |
-| 330 | 202 | Messy Live |
-| 331 | 202 | Poppy Buildout |
-| 332 | 202 | Sammie Walker |
-| 333 | 201 | Richard Flex |
-| 334 | 201 | Rayshawn Cohen |
-| 335 | 200 | kitten |
-| 336 | 200 | Erica Charlise |
+| 327 | 205 | Treneil Daffin |
+| 328 | 204 | Guy Incognito |
+| 329 | 203 | Daris Swearington |
+| 330 | 202 | Sammie Walker |
+| 331 | 202 | Crystal Cheresnowsky |
+| 332 | 202 | Messy Live |
+| 333 | 202 | Poppy Buildout |
+| 334 | 201 | Richard Flex |
+| 335 | 201 | Rayshawn Cohen |
+| 336 | 200 | kitten |
 | 337 | 200 | TBABYJ |
 | 338 | 200 | Maribel Vasquez |
 | 339 | 200 | Hailey Hil |
@@ -354,22 +354,22 @@
 | 346 | 192 | Hyper Blocky |
 | 347 | 191 | Emily Wright |
 | 348 | 190 | Chipper Snapper |
-| 349 | 189 | Nate Myers |
-| 350 | 189 | Bambi Johnson |
+| 349 | 189 | Bambi Johnson |
+| 350 | 189 | Nate Myers |
 | 351 | 189 | Sean White |
-| 352 | 189 | Jolly Tilefall |
-| 353 | 189 | Tosha Michelle |
-| 354 | 188 | Tyiesha Pie Farmer |
-| 355 | 187 | MACHETEEDDIE513 |
-| 356 | 186 | Shanaa Germany Crittenden |
+| 352 | 189 | Tosha Michelle |
+| 353 | 189 | Jolly Tilefall |
+| 354 | 188 | Shanaa Germany Crittenden |
+| 355 | 188 | Tyiesha Pie Farmer |
+| 356 | 187 | MACHETEEDDIE513 |
 | 357 | 186 | McKayla Owens |
-| 358 | 184 | Amy Lynn Leifheit |
-| 359 | 184 | Bbyunicorn |
-| 360 | 183 | Mary Phillippi Blanton |
-| 361 | 183 | MamushiOh |
-| 362 | 182 | Eric Spencer Whitaker |
-| 363 | 182 | Comedian Prince Paul |
-| 364 | 182 | Giggy Tower |
+| 358 | 184 | Giggy Tower |
+| 359 | 184 | Amy Lynn Leifheit |
+| 360 | 184 | Bbyunicorn |
+| 361 | 183 | Mary Phillippi Blanton |
+| 362 | 183 | MamushiOh |
+| 363 | 182 | Eric Spencer Whitaker |
+| 364 | 182 | Comedian Prince Paul |
 | 365 | 182 | Courtney Cicoria |
 | 366 | 182 | Kyra Coleman |
 | 367 | 180 | Larina Cherie Johnson |
