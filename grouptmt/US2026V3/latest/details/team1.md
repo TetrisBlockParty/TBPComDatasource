@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:48:20 UTC
+# Standings for team1 as of 2026-06-08 08:48:45 UTC
 
 **Total Participants:** 1764
 
@@ -107,10 +107,10 @@
 | 99 | 795 | Joy Citizen Pickney |
 | 100 | 793 | Jaida King |
 | 101 | 787 | Dawn L Washington-Feuquay |
-| 102 | 766 | Tameka Jones |
-| 103 | 754 | LeeLee08 |
-| 104 | 752 | Yolanda E Fergerson |
-| 105 | 744 | Mimi 1.0 |
+| 102 | 781 | Mimi 1.0 |
+| 103 | 766 | Tameka Jones |
+| 104 | 754 | LeeLee08 |
+| 105 | 752 | Yolanda E Fergerson |
 | 106 | 744 | Chris Caniglia |
 | 107 | 741 | Sarah Marie |
 | 108 | 730 | ing410 |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:48:20 UTC
+# Standings for team4 as of 2026-06-08 08:48:45 UTC
 
 **Total Participants:** 1800
 
@@ -92,8 +92,8 @@
 | 84 | 921 | Trice Stevenson |
 | 85 | 906 | Kelley Roach |
 | 86 | 859 | Blayne Kole |
-| 87 | 848 | Beee |
-| 88 | 841 | Michelle Ross |
+| 87 | 848 | Michelle Ross |
+| 88 | 848 | Beee |
 | 89 | 837 | Fancy Crasher |
 | 90 | 830 | Kitsune Bi |
 | 91 | 826 | Sharidan Klinginsmith |
