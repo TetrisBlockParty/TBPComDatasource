@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:45:20 UTC
+# Standings for team2 as of 2026-06-08 06:46:19 UTC
 
 **Total Participants:** 2129
 
@@ -305,7 +305,7 @@
 | 297 | 295 | Nathan Walker |
 | 298 | 295 | Jason Cunningham |
 | 299 | 295 | James Ward |
-| 300 | 290 | Alicia Kinney |
+| 300 | 295 | Alicia Kinney |
 | 301 | 287 | Steven |
 | 302 | 286 | Kathy Strickland |
 | 303 | 286 | Kathleen Keogh Van Schoyck |
@@ -696,8 +696,8 @@
 | 688 | 120 | Cranky Basepiece |
 | 689 | 120 | Sharilyn Jackson |
 | 690 | 120 | Keisha Robinson |
-| 691 | 120 | Deezie |
-| 692 | 120 | Cody Gates |
+| 691 | 120 | Cody Gates |
+| 692 | 120 | Deezie |
 | 693 | 119 | Danita Moon |
 | 694 | 119 | Jasmine Goggans |
 | 695 | 119 | Lively Twisterfit |
@@ -713,36 +713,36 @@
 | 705 | 118 | Michelle Anne |
 | 706 | 118 | Frilly Shiftsnap |
 | 707 | 118 | Goldie |
-| 708 | 117 | Poppy Strikerbuilder |
-| 709 | 117 | Mary Whitaker |
-| 710 | 117 | Terie Safrit |
-| 711 | 117 | Brenda Shannon |
-| 712 | 117 | CAL1KAWS559 |
-| 713 | 117 | Mrs biotch |
-| 714 | 116 | Nerdy Gridlock |
+| 708 | 118 | Nichole Fuller |
+| 709 | 117 | CAL1KAWS559 |
+| 710 | 117 | Mrs biotch |
+| 711 | 117 | Poppy Strikerbuilder |
+| 712 | 117 | Mary Whitaker |
+| 713 | 117 | Terie Safrit |
+| 714 | 117 | Brenda Shannon |
 | 715 | 116 | Bouncy Cluster |
 | 716 | 116 | Jessica Rose Engebretson |
 | 717 | 116 | Lazy Staggerpiece |
 | 718 | 116 | Sara Dunn |
-| 719 | 115 | Bonnie Huckleberry |
-| 720 | 115 | Edward Conyers |
-| 721 | 115 | Patty Ann Hendrickson |
-| 722 | 115 | Jim Wright |
-| 723 | 115 | Zaniya Brown |
-| 724 | 115 | Vicke Patterson |
-| 725 | 115 | Jessica Bowman |
-| 726 | 115 | Sam Schwieso |
-| 727 | 114 | Ashley Diana |
-| 728 | 114 | Morgan Olson Pingree |
-| 729 | 114 | Shelby Wilson |
-| 730 | 114 | Julibeth Wells |
-| 731 | 114 | Amber Marie |
-| 732 | 113 | Carmina Truoiolo |
-| 733 | 113 | Tanya Goodwin |
-| 734 | 112 | Kati Eckstein |
-| 735 | 112 | Smiley Staggerpiece |
-| 736 | 112 | Fallon Moss |
-| 737 | 111 | Nichole Fuller |
+| 719 | 116 | Nerdy Gridlock |
+| 720 | 115 | Bonnie Huckleberry |
+| 721 | 115 | Edward Conyers |
+| 722 | 115 | Patty Ann Hendrickson |
+| 723 | 115 | Jim Wright |
+| 724 | 115 | Zaniya Brown |
+| 725 | 115 | Vicke Patterson |
+| 726 | 115 | Jessica Bowman |
+| 727 | 115 | Sam Schwieso |
+| 728 | 114 | Ashley Diana |
+| 729 | 114 | Morgan Olson Pingree |
+| 730 | 114 | Shelby Wilson |
+| 731 | 114 | Julibeth Wells |
+| 732 | 114 | Amber Marie |
+| 733 | 113 | Carmina Truoiolo |
+| 734 | 113 | Tanya Goodwin |
+| 735 | 112 | Kati Eckstein |
+| 736 | 112 | Smiley Staggerpiece |
+| 737 | 112 | Fallon Moss |
 | 738 | 111 | Shiny Spinfit |
 | 739 | 111 | Kelly |
 | 740 | 111 | GiGi Cool |
