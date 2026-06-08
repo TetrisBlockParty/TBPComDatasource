@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:17:20 UTC
+# Standings for team2 as of 2026-06-08 07:18:20 UTC
 
 **Total Participants:** 2132
 
@@ -181,7 +181,7 @@
 | 173 | 528 | Michelle Rich Burkhart |
 | 174 | 524 | Chasity Simpson |
 | 175 | 515 | Loony Faller |
-| 176 | 510 | Bubbly Strikerpiece |
+| 176 | 512 | Bubbly Strikerpiece |
 | 177 | 505 | Judy Long |
 | 178 | 504 | Milad Arzani |
 | 179 | 500 | Cool Balancer |
@@ -199,8 +199,8 @@
 | 191 | 469 | Lashanda Bertram |
 | 192 | 467 | Lisa Underwood Desmond |
 | 193 | 457 | MegaPooh |
-| 194 | 453 | Kimberly Cowan |
-| 195 | 453 | Ashley Green |
+| 194 | 453 | Ashley Green |
+| 195 | 453 | Kimberly Cowan |
 | 196 | 451 | Gill |
 | 197 | 449 | Danielle Blount |
 | 198 | 449 | Suki Jacobs |
@@ -211,8 +211,8 @@
 | 203 | 434 | Janelle Edgecombe |
 | 204 | 432 | Twisty Buildgrid |
 | 205 | 431 | AndyJo |
-| 206 | 429 | Cool Climber |
-| 207 | 429 | giamy |
+| 206 | 429 | giamy |
+| 207 | 429 | Cool Climber |
 | 208 | 428 | Zany Blockclear |
 | 209 | 428 | Physhie |
 | 210 | 427 | Flower_child |
@@ -230,8 +230,8 @@
 | 222 | 411 | Sandy Lynn |
 | 223 | 411 | Mookshake |
 | 224 | 407 | Crystal Allen |
-| 225 | 405 | MaddieCherie |
-| 226 | 405 | Amy Gregg |
+| 225 | 405 | Amy Gregg |
+| 226 | 405 | MaddieCherie |
 | 227 | 404 | Goofy Gridclear |
 | 228 | 402 | Brenda Jones |
 | 229 | 402 | Michelle Luke Banta |
@@ -246,10 +246,10 @@
 | 238 | 380 | Bb |
 | 239 | 379 | Greta Warden |
 | 240 | 376 | Jamie Fenyus |
-| 241 | 376 | Traci Abern |
-| 242 | 376 | Chill Line |
-| 243 | 375 | Branden Frankowski |
-| 244 | 375 | Brittni Lawrence |
+| 241 | 376 | Chill Line |
+| 242 | 376 | Traci Abern |
+| 243 | 375 | Brittni Lawrence |
+| 244 | 375 | Branden Frankowski |
 | 245 | 373 | Hoppy Mover |
 | 246 | 373 | Theresa Hollinger |
 | 247 | 365 | Rachel Nilles |
@@ -259,8 +259,8 @@
 | 251 | 351 | Cathy Lee Stoneking |
 | 252 | 349 | Spicy Basepiece |
 | 253 | 348 | Ratchet |
-| 254 | 347 | Fudgie Pie |
-| 255 | 347 | Jessica Lynn |
+| 254 | 347 | Jessica Lynn |
+| 255 | 347 | Fudgie Pie |
 | 256 | 346 | Katrien |
 | 257 | 344 | Lora Via |
 | 258 | 340 | Marge Cromer |
@@ -269,18 +269,18 @@
 | 261 | 337 | Ashley Billiot Rhodes |
 | 262 | 337 | Adriana Daniela Agapie |
 | 263 | 331 | Shannon Wilson |
-| 264 | 328 | Xandrea Jones |
-| 265 | 328 | Tim Tim |
+| 264 | 328 | Tim Tim |
+| 265 | 328 | Xandrea Jones |
 | 266 | 327 | Chipper Stackbuilder |
-| 267 | 327 | Iesha Cupil |
-| 268 | 327 | Jumpy Matchbuilder |
+| 267 | 327 | Jumpy Matchbuilder |
+| 268 | 327 | Iesha Cupil |
 | 269 | 325 | Flashy Twistline |
 | 270 | 325 | Snappy Combo |
 | 271 | 324 | DayDreamer79 |
 | 272 | 324 | Norma Ortiz |
 | 273 | 324 | Swanky Fitline |
-| 274 | 322 | Queen |
-| 275 | 322 | Pam Bauder Ludwig |
+| 274 | 322 | Pam Bauder Ludwig |
+| 275 | 322 | Queen |
 | 276 | 320 | Linda Guay |
 | 277 | 320 | Jeffrey Smith |
 | 278 | 319 | Ackerman 85 |
@@ -288,41 +288,41 @@
 | 280 | 318 | Margie Ann Naffziger |
 | 281 | 316 | Jeanna Mendez |
 | 282 | 310 | Jenn |
-| 283 | 308 | Hector |
-| 284 | 308 | Heather Burgett |
-| 285 | 308 | Larry Cross |
-| 286 | 308 | Charles E Mccardell |
+| 283 | 308 | Heather Burgett |
+| 284 | 308 | Hector |
+| 285 | 308 | Charles E Mccardell |
+| 286 | 308 | Larry Cross |
 | 287 | 306 | Brittney Williams |
-| 288 | 305 | Logan Duffey |
-| 289 | 305 | Melissa Clogher White |
+| 288 | 305 | Melissa Clogher White |
+| 289 | 305 | Logan Duffey |
 | 290 | 305 | Havik Whitfield |
 | 291 | 302 | Aldotfus Williams |
 | 292 | 300 | Jason Cunningham |
-| 293 | 300 | Jamin |
-| 294 | 300 | Patricia Carroll |
-| 295 | 300 | Sarah Rodriguez |
-| 296 | 300 | Melisa |
+| 293 | 300 | Sarah Rodriguez |
+| 294 | 300 | Melisa |
+| 295 | 300 | Jamin |
+| 296 | 300 | Patricia Carroll |
 | 297 | 299 | Alicia Kinney |
 | 298 | 298 | Rob Owens |
 | 299 | 296 | Vistabrat |
 | 300 | 295 | James Ward |
 | 301 | 295 | Nathan Walker |
-| 302 | 287 | Steven |
-| 303 | 286 | Kathy Strickland |
-| 304 | 286 | Kathleen Keogh Van Schoyck |
-| 305 | 285 | Boldy Wobbler |
-| 306 | 284 | Kelly Vedder |
-| 307 | 283 | Buffy Diane Blake |
-| 308 | 283 | Hilliary Beyer |
-| 309 | 281 | AndrewandShela Gornik |
-| 310 | 280 | Tami Kay Williams Watson |
-| 311 | 280 | Loopy Dropper |
-| 312 | 280 | August Christy Lathrop |
-| 313 | 279 | Curly Windbreaker |
-| 314 | 278 | Amy Nicole McCanne |
-| 315 | 276 | Jenny |
-| 316 | 276 | Amy Taylor Pomerenk |
-| 317 | 272 | Flashy Hitter |
+| 302 | 287 | Flashy Hitter |
+| 303 | 287 | Steven |
+| 304 | 286 | Kathy Strickland |
+| 305 | 286 | Kathleen Keogh Van Schoyck |
+| 306 | 285 | Boldy Wobbler |
+| 307 | 284 | Kelly Vedder |
+| 308 | 283 | Buffy Diane Blake |
+| 309 | 283 | Hilliary Beyer |
+| 310 | 281 | AndrewandShela Gornik |
+| 311 | 280 | August Christy Lathrop |
+| 312 | 280 | Tami Kay Williams Watson |
+| 313 | 280 | Loopy Dropper |
+| 314 | 279 | Curly Windbreaker |
+| 315 | 278 | Amy Nicole McCanne |
+| 316 | 276 | Jenny |
+| 317 | 276 | Amy Taylor Pomerenk |
 | 318 | 272 | SEH |
 | 319 | 270 | Sharon L Brazelton |
 | 320 | 269 | Carolyn McNaughton |
@@ -330,8 +330,8 @@
 | 322 | 267 | Karly Moore |
 | 323 | 267 | Stephanie |
 | 324 | 266 | Josh Vietz |
-| 325 | 265 | Marylin Eacker |
-| 326 | 265 | Skye Ehret |
+| 325 | 265 | Skye Ehret |
+| 326 | 265 | Marylin Eacker |
 | 327 | 265 | Mikia Stokes |
 | 328 | 264 | Dallas Runyan |
 | 329 | 264 | Elizabeth Henry |
@@ -1031,18 +1031,18 @@
 | 1023 | 77 | James Maness |
 | 1024 | 76 | BoxerMom |
 | 1025 | 76 | Travis Bundrum |
-| 1026 | 76 | Joe Dirilo |
-| 1027 | 76 | Jolly Brickroll |
-| 1028 | 75 | CK Hancock |
-| 1029 | 75 | SunnySquare |
-| 1030 | 75 | Anthony Chavez |
-| 1031 | 75 | Audrey Wood |
-| 1032 | 75 | Laura Turner |
-| 1033 | 75 | Rae |
-| 1034 | 75 | Chatty |
-| 1035 | 75 | Kennadee Albertson |
-| 1036 | 75 | William Dowd |
-| 1037 | 75 | Cindy Wellman |
+| 1026 | 76 | Cindy Wellman |
+| 1027 | 76 | Joe Dirilo |
+| 1028 | 76 | Jolly Brickroll |
+| 1029 | 75 | CK Hancock |
+| 1030 | 75 | SunnySquare |
+| 1031 | 75 | Anthony Chavez |
+| 1032 | 75 | Audrey Wood |
+| 1033 | 75 | Laura Turner |
+| 1034 | 75 | Rae |
+| 1035 | 75 | Chatty |
+| 1036 | 75 | Kennadee Albertson |
+| 1037 | 75 | William Dowd |
 | 1038 | 75 | Frisky Linkmatch |
 | 1039 | 74 | Candace Mihm |
 | 1040 | 74 | Bethany Nestor |
@@ -1119,8 +1119,8 @@
 | 1111 | 68 | April Appleton |
 | 1112 | 68 | Viola Fletcher |
 | 1113 | 68 | Sami Amato |
-| 1114 | 68 | Distro |
-| 1115 | 67 | Cary M. Fong |
+| 1114 | 68 | Cary M. Fong |
+| 1115 | 68 | Distro |
 | 1116 | 67 | Happy Curvebuilder |
 | 1117 | 67 | Kelly Christine Trimmer |
 | 1118 | 67 | Silly Swiper |
