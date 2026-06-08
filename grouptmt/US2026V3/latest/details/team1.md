@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:11:20 UTC
+# Standings for team1 as of 2026-06-08 08:12:42 UTC
 
 **Total Participants:** 1762
 
@@ -132,8 +132,8 @@
 | 124 | 619 | Ottison Dianna |
 | 125 | 618 | Quirky Fallgrid |
 | 126 | 615 | Chuck Quarles |
-| 127 | 601 | JaszyBadd |
-| 128 | 589 | Cathy Young |
+| 127 | 601 | Cathy Young |
+| 128 | 601 | JaszyBadd |
 | 129 | 582 | Nutty Spinblock |
 | 130 | 574 | Anthony Washington |
 | 131 | 573 | Rackemwillie34 |
@@ -710,59 +710,59 @@
 | 702 | 100 | LaSharmeika Fancher |
 | 703 | 100 | NedaWin |
 | 704 | 100 | Phillip White |
-| 705 | 99 | Sylvia Offically A Mcgowan |
-| 706 | 99 | Lucille Wilson Davis |
-| 707 | 99 | Tony Pizzas |
-| 708 | 99 | Boymama917 |
+| 705 | 99 | Boymama917 |
+| 706 | 99 | Sylvia Offically A Mcgowan |
+| 707 | 99 | Lucille Wilson Davis |
+| 708 | 99 | Tony Pizzas |
 | 709 | 99 | Rochelle Nash-Evans |
 | 710 | 98 | Terrance Tindall |
-| 711 | 98 | FallDee |
-| 712 | 98 | Jjhandsome |
+| 711 | 98 | Jjhandsome |
+| 712 | 98 | FallDee |
 | 713 | 98 | Cm |
 | 714 | 98 | Azeiare Ziare |
 | 715 | 98 | Christopher Shaw-Black |
 | 716 | 97 | Lootch |
-| 717 | 97 | Nichole Horsley-Conn |
-| 718 | 97 | Shanell Thomas |
+| 717 | 97 | Shanell Thomas |
+| 718 | 97 | Nichole Horsley-Conn |
 | 719 | 97 | Smiley Bridgepiece |
 | 720 | 97 | Kayel Good |
 | 721 | 96 | meatballs |
-| 722 | 96 | Guard Up |
+| 722 | 96 | Just2Play$ |
 | 723 | 96 | Kimmie Gargano |
-| 724 | 96 | Sara |
+| 724 | 96 | Guard Up |
 | 725 | 96 | Yazz |
 | 726 | 96 | Sonia Binti Mfalme |
-| 727 | 96 | Karen Knapp |
-| 728 | 96 | Just2Play$ |
+| 727 | 96 | Sara |
+| 728 | 96 | Karen Knapp |
 | 729 | 96 | Zappy Clearfit |
-| 730 | 95 | Kyle Conley |
-| 731 | 95 | Joseph Vs Cap |
-| 732 | 95 | Ounquan Wright |
-| 733 | 95 | TieMs BHughez |
-| 734 | 95 | Analesia Taylor |
-| 735 | 95 | Adrian Harris |
-| 736 | 95 | Shiny Lift |
-| 737 | 95 | Barbramerri Tarboro |
-| 738 | 95 | Paul Pendley |
+| 730 | 95 | Analesia Taylor |
+| 731 | 95 | TieMs BHughez |
+| 732 | 95 | Adrian Harris |
+| 733 | 95 | Barbramerri Tarboro |
+| 734 | 95 | Paul Pendley |
+| 735 | 95 | Kyle Conley |
+| 736 | 95 | Chris Nelson |
+| 737 | 95 | Shiny Lift |
+| 738 | 95 | Ounquan Wright |
 | 739 | 95 | Cameo Tweed |
-| 740 | 95 | Chris Nelson |
-| 741 | 94 | Renee Marshall |
-| 742 | 94 | Vera Beckford |
-| 743 | 94 | Sha Anderson |
-| 744 | 94 | Cheryl Miller |
-| 745 | 94 | Marlainia Boyd |
-| 746 | 94 | Cortrell Foster |
-| 747 | 94 | Sunny Clicky |
-| 748 | 94 | brite |
-| 749 | 94 | Kizzy Clark |
-| 750 | 94 | Callie Mae |
+| 740 | 95 | Joseph Vs Cap |
+| 741 | 94 | Callie Mae |
+| 742 | 94 | Cortrell Foster |
+| 743 | 94 | brite |
+| 744 | 94 | Sha Anderson |
+| 745 | 94 | Kizzy Clark |
+| 746 | 94 | Vera Beckford |
+| 747 | 94 | Renee Marshall |
+| 748 | 94 | Sunny Clicky |
+| 749 | 94 | Cheryl Miller |
+| 750 | 94 | Marlainia Boyd |
 | 751 | 93 | Rieshelda Marie White |
-| 752 | 93 | C Lo Green |
-| 753 | 93 | MrsDontPlay |
-| 754 | 93 | messyboots |
-| 755 | 93 | Snappy Link |
-| 756 | 93 | Lively Wipeout |
-| 757 | 93 | Nekka |
+| 752 | 93 | MrsDontPlay |
+| 753 | 93 | Snappy Link |
+| 754 | 93 | Nekka |
+| 755 | 93 | Lively Wipeout |
+| 756 | 93 | C Lo Green |
+| 757 | 93 | messyboots |
 | 758 | 92 | Jojo M |
 | 759 | 92 | Smiley3000 |
 | 760 | 92 | Juicy |
@@ -781,11 +781,11 @@
 | 773 | 90 | Jennifer Moore |
 | 774 | 90 | Rissa Rozay |
 | 775 | 90 | mya |
-| 776 | 90 | Benjamin Livingston |
-| 777 | 90 | Slinky Fallzone |
-| 778 | 90 | Jason Saputo |
-| 779 | 90 | crumb bumc |
-| 780 | 90 | Tramaine Crockrum |
+| 776 | 90 | Slinky Fallzone |
+| 777 | 90 | Jason Saputo |
+| 778 | 90 | crumb bumc |
+| 779 | 90 | Tramaine Crockrum |
+| 780 | 90 | Benjamin Livingston |
 | 781 | 90 | Missy Myvette |
 | 782 | 89 | Spicy Shatterblock |
 | 783 | 89 | Marc Papa |
@@ -795,86 +795,86 @@
 | 787 | 88 | Maria Baez Medina |
 | 788 | 88 | TBabii24 |
 | 789 | 88 | NickyJay Jones |
-| 790 | 87 | Samona Mcculler |
-| 791 | 87 | LexiiSamayaa |
-| 792 | 87 | Natalie Burroughs |
-| 793 | 87 | Pj Rojas |
+| 790 | 87 | LexiiSamayaa |
+| 791 | 87 | Samona Mcculler |
+| 792 | 87 | Pj Rojas |
+| 793 | 87 | Natalie Burroughs |
 | 794 | 87 | Shakmar |
 | 795 | 87 | Crystal Garay |
-| 796 | 87 | Angela L Charles |
-| 797 | 87 | Denise Cunningham-English |
-| 798 | 86 | Tweet Turner |
-| 799 | 86 | LaTonya Rivers |
-| 800 | 86 | krd |
-| 801 | 86 | Saucy Faller |
-| 802 | 85 | Kimberly Noble |
-| 803 | 85 | Tray Tolliver |
+| 796 | 87 | Denise Cunningham-English |
+| 797 | 87 | Angela L Charles |
+| 798 | 86 | krd |
+| 799 | 86 | Saucy Faller |
+| 800 | 86 | LaTonya Rivers |
+| 801 | 86 | Tweet Turner |
+| 802 | 85 | Heru Ogun Yeshua EL |
+| 803 | 85 | Chill Linkroll |
 | 804 | 85 | Anthony Collins |
-| 805 | 85 | Chill Linkroll |
-| 806 | 85 | Bobby Chestefield |
-| 807 | 85 | Eric Machuca |
-| 808 | 85 | Heru Ogun Yeshua EL |
-| 809 | 84 | Jumpy Gridlock |
-| 810 | 84 | Sunny Tumbler |
-| 811 | 84 | Christy Quick |
-| 812 | 84 | Stanley Dixon |
+| 805 | 85 | Tray Tolliver |
+| 806 | 85 | Eric Machuca |
+| 807 | 85 | Kimberly Noble |
+| 808 | 85 | Bobby Chestefield |
+| 809 | 84 | Dawn Basemore |
+| 810 | 84 | Jumpy Gridlock |
+| 811 | 84 | Shelly Everette |
+| 812 | 84 | LAdYPOLy |
 | 813 | 84 | Franklin Sotelo |
-| 814 | 84 | Shelly Everette |
-| 815 | 84 | Dawn Basemore |
-| 816 | 84 | LAdYPOLy |
-| 817 | 83 | Dirty Deeds |
-| 818 | 83 | John C Sexton |
-| 819 | 83 | Latoya Carson |
+| 814 | 84 | Stanley Dixon |
+| 815 | 84 | Christy Quick |
+| 816 | 84 | Sunny Tumbler |
+| 817 | 83 | Latoya Carson |
+| 818 | 83 | Dirty Deeds |
+| 819 | 83 | Semaj Johnson |
 | 820 | 83 | Block |
-| 821 | 83 | Semaj Johnson |
+| 821 | 83 | John C Sexton |
 | 822 | 83 | MrsMeadows2019 |
 | 823 | 83 | Heather Wilson |
-| 824 | 82 | Kashh |
-| 825 | 82 | Dana Hawes |
-| 826 | 82 | Idelia L Brown |
-| 827 | 82 | DeAngelo Sorrells |
-| 828 | 82 | Jasmine Hariston-Estis |
-| 829 | 82 | win |
+| 824 | 82 | win |
+| 825 | 82 | DeAngelo Sorrells |
+| 826 | 82 | Jasmine Hariston-Estis |
+| 827 | 82 | Dana Hawes |
+| 828 | 82 | Kashh |
+| 829 | 82 | Idelia L Brown |
 | 830 | 81 | GracefulOwl808 |
 | 831 | 81 | Parris Wright |
-| 832 | 81 | Deihja Weaver |
-| 833 | 80 | Lady Scorpio |
-| 834 | 80 | Lauren Farkas |
-| 835 | 80 | Lisa420 |
-| 836 | 80 | Tory Miller |
-| 837 | 80 | SherylU |
-| 838 | 80 | Amaadi Ward |
-| 839 | 80 | Tiffany Jean Hinson |
-| 840 | 80 | Felicia Woods |
-| 841 | 80 | Chevalier Burley |
-| 842 | 80 | Linzi Cole |
-| 843 | 80 | Marcello Rush |
-| 844 | 80 | Victoria Smith |
+| 832 | 81 | Carla |
+| 833 | 81 | Deihja Weaver |
+| 834 | 80 | Lady Scorpio |
+| 835 | 80 | SherylU |
+| 836 | 80 | Lisa420 |
+| 837 | 80 | Tory Miller |
+| 838 | 80 | nay |
+| 839 | 80 | Amaadi Ward |
+| 840 | 80 | Tiffany Jean Hinson |
+| 841 | 80 | Felicia Woods |
+| 842 | 80 | Chevalier Burley |
+| 843 | 80 | Linzi Cole |
+| 844 | 80 | Lauren Farkas |
 | 845 | 80 | Keith Big-Sixx Mackell |
 | 846 | 80 | lizlizliz |
-| 847 | 80 | Big Bovice |
-| 848 | 80 | Charles Johnson |
-| 849 | 80 | nay |
-| 850 | 79 | Shauntai Holiday |
-| 851 | 79 | Haakuu |
-| 852 | 79 | Sabrina Wilkerson |
+| 847 | 80 | Marcello Rush |
+| 848 | 80 | Big Bovice |
+| 849 | 80 | Charles Johnson |
+| 850 | 80 | Victoria Smith |
+| 851 | 79 | Sabrina Wilkerson |
+| 852 | 79 | Haakuu |
 | 853 | 79 | Evette Moreno |
 | 854 | 79 | Daphne Ceasar |
 | 855 | 79 | Frilly Shatterline |
 | 856 | 79 | DeShonna Bailey |
 | 857 | 79 | Oaklonboy mike |
-| 858 | 78 | Tasha Jones |
-| 859 | 78 | Carla |
-| 860 | 78 | Tyree Tman Shinette |
-| 861 | 78 | Solomon Valarie |
-| 862 | 78 | BigMike |
+| 858 | 79 | Shauntai Holiday |
+| 859 | 78 | Solomon Valarie |
+| 860 | 78 | BigMike |
+| 861 | 78 | Nikiya |
+| 862 | 78 | Tyree Tman Shinette |
 | 863 | 78 | Pinky Pink |
-| 864 | 78 | Nikiya |
-| 865 | 78 | Megan Jones |
+| 864 | 78 | Kahh |
+| 865 | 78 | Tasha Jones |
 | 866 | 78 | Krystal Maynard |
-| 867 | 78 | Kahh |
-| 868 | 77 | Ysma Simmons |
-| 869 | 77 | Teisha Scott |
+| 867 | 78 | Megan Jones |
+| 868 | 77 | Teisha Scott |
+| 869 | 77 | Ysma Simmons |
 | 870 | 77 | Earl Williams |
 | 871 | 77 | S.S |
 | 872 | 77 | Tomme Poliwka |

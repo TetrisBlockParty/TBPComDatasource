@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:11:20 UTC
+# Standings for team2 as of 2026-06-08 08:12:42 UTC
 
 **Total Participants:** 2134
 
@@ -498,80 +498,80 @@
 | 490 | 177 | Rydin Dirt |
 | 491 | 177 | Gluten Gremlin |
 | 492 | 177 | Lee Leonard |
-| 493 | 176 | Jana Campbell |
+| 493 | 177 | Brittany Mathis |
 | 494 | 176 | Kay |
-| 495 | 175 | Christine James |
-| 496 | 174 | Leticia Tillman |
-| 497 | 174 | Laurie |
-| 498 | 172 | Charity Hauser |
-| 499 | 172 | Mandy |
-| 500 | 172 | Rescuegirl76 |
-| 501 | 172 | Distro |
-| 502 | 170 | Dapper Riser |
-| 503 | 170 | Amber Carpenter |
-| 504 | 169 | Analee Nicole Jones |
-| 505 | 168 | Heather Schardan |
-| 506 | 168 | Spicy Balanceblock |
-| 507 | 167 | Cara Rivera |
-| 508 | 167 | Smiley Staggerpiece |
-| 509 | 166 | Wayne Johnson |
-| 510 | 166 | Darla Nolt |
-| 511 | 166 | Carl Mccoy |
-| 512 | 165 | Spunky Cascadeclear |
-| 513 | 165 | Chilly Surge |
-| 514 | 165 | Nicky Steigerwalt |
-| 515 | 164 | James Sayers |
-| 516 | 164 | Silly Tiltbuilder |
-| 517 | 163 | Zany Cascader |
-| 518 | 162 | Wacky Holder |
-| 519 | 162 | Ashley Miller |
-| 520 | 162 | Jimmy Francis Shasta Bambi |
-| 521 | 162 | Tina |
-| 522 | 162 | Nikki Hatch |
-| 523 | 161 | Mandy Van Laningham Bishop |
-| 524 | 161 | Melissa Fink |
-| 525 | 160 | Billie Jensen |
-| 526 | 160 | Jessica Perkins |
-| 527 | 160 | Elizabeth Cornelius |
-| 528 | 160 | Marilyn Strickland |
-| 529 | 160 | Jennifer McCloskey Launder |
-| 530 | 160 | Sandra Ruiz |
-| 531 | 159 | Misty Noe |
-| 532 | 159 | Jennifer Vitro |
-| 533 | 159 | Michelle Powers Chattaway |
-| 534 | 159 | Gina Louise Parker |
-| 535 | 159 | Sherri Caillet Aucoin |
-| 536 | 158 | Ceci |
-| 537 | 158 | Mike Mordhorst |
-| 538 | 158 | Chrystal |
-| 539 | 157 | Dana Vaiden Rivers |
-| 540 | 157 | MamaRachel |
-| 541 | 157 | Hillary Frank |
-| 542 | 156 | Jennifer Lalk |
-| 543 | 156 | TNGal |
-| 544 | 156 | Charlotte Castelli |
-| 545 | 156 | Aurora June Brock |
-| 546 | 155 | Leigh Wilkerson |
-| 547 | 155 | Renee Siems |
-| 548 | 155 | Nicole Good |
-| 549 | 154 | Belle |
-| 550 | 154 | Barb Kiser |
-| 551 | 154 | Cindy Scott |
-| 552 | 154 | Kristi Chestnut |
-| 553 | 153 | Cortney Coleman |
-| 554 | 153 | Wendy Mcbride |
-| 555 | 152 | Simone F |
-| 556 | 152 | LittleHippoEars |
-| 557 | 152 | Brittany Mathis |
-| 558 | 151 | Alyssa Malay |
-| 559 | 151 | Ava Speedy |
-| 560 | 151 | Angeleye A James |
-| 561 | 151 | Amy Lea Hamilton |
-| 562 | 151 | Joshua Hopkins |
-| 563 | 150 | Plucky Grabber |
-| 564 | 150 | Elizabeth Kline |
-| 565 | 150 | Jennifer Covington |
-| 566 | 150 | Nicole Sides KrazyKoop |
+| 495 | 176 | Jana Campbell |
+| 496 | 175 | Christine James |
+| 497 | 174 | Leticia Tillman |
+| 498 | 174 | Laurie |
+| 499 | 172 | Charity Hauser |
+| 500 | 172 | Mandy |
+| 501 | 172 | Rescuegirl76 |
+| 502 | 172 | Distro |
+| 503 | 170 | Dapper Riser |
+| 504 | 170 | Amber Carpenter |
+| 505 | 169 | Analee Nicole Jones |
+| 506 | 168 | Heather Schardan |
+| 507 | 168 | Spicy Balanceblock |
+| 508 | 167 | Cara Rivera |
+| 509 | 167 | Smiley Staggerpiece |
+| 510 | 166 | Wayne Johnson |
+| 511 | 166 | Darla Nolt |
+| 512 | 166 | Carl Mccoy |
+| 513 | 165 | Spunky Cascadeclear |
+| 514 | 165 | Chilly Surge |
+| 515 | 165 | Nicky Steigerwalt |
+| 516 | 164 | James Sayers |
+| 517 | 164 | Silly Tiltbuilder |
+| 518 | 163 | Zany Cascader |
+| 519 | 162 | Wacky Holder |
+| 520 | 162 | Ashley Miller |
+| 521 | 162 | Jimmy Francis Shasta Bambi |
+| 522 | 162 | Tina |
+| 523 | 162 | Nikki Hatch |
+| 524 | 161 | Mandy Van Laningham Bishop |
+| 525 | 161 | Melissa Fink |
+| 526 | 160 | Billie Jensen |
+| 527 | 160 | Jessica Perkins |
+| 528 | 160 | Elizabeth Cornelius |
+| 529 | 160 | Marilyn Strickland |
+| 530 | 160 | Jennifer McCloskey Launder |
+| 531 | 160 | Sandra Ruiz |
+| 532 | 159 | Misty Noe |
+| 533 | 159 | Jennifer Vitro |
+| 534 | 159 | Michelle Powers Chattaway |
+| 535 | 159 | Gina Louise Parker |
+| 536 | 159 | Sherri Caillet Aucoin |
+| 537 | 158 | Ceci |
+| 538 | 158 | Mike Mordhorst |
+| 539 | 158 | Chrystal |
+| 540 | 157 | Dana Vaiden Rivers |
+| 541 | 157 | MamaRachel |
+| 542 | 157 | Hillary Frank |
+| 543 | 156 | Jennifer Lalk |
+| 544 | 156 | TNGal |
+| 545 | 156 | Charlotte Castelli |
+| 546 | 156 | Aurora June Brock |
+| 547 | 155 | Leigh Wilkerson |
+| 548 | 155 | Renee Siems |
+| 549 | 155 | Nicole Good |
+| 550 | 154 | Belle |
+| 551 | 154 | Barb Kiser |
+| 552 | 154 | Cindy Scott |
+| 553 | 154 | Kristi Chestnut |
+| 554 | 153 | Cortney Coleman |
+| 555 | 153 | Wendy Mcbride |
+| 556 | 152 | Simone F |
+| 557 | 152 | LittleHippoEars |
+| 558 | 151 | Ava Speedy |
+| 559 | 151 | Angeleye A James |
+| 560 | 151 | Amy Lea Hamilton |
+| 561 | 151 | Joshua Hopkins |
+| 562 | 151 | Alyssa Malay |
+| 563 | 150 | Nicole Sides KrazyKoop |
+| 564 | 150 | Plucky Grabber |
+| 565 | 150 | Elizabeth Kline |
+| 566 | 150 | Jennifer Covington |
 | 567 | 149 | Kenzie |
 | 568 | 149 | Justin Stark |
 | 569 | 149 | Frisky Twist |
