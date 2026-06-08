@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:39:19 UTC
+# Standings for team1 as of 2026-06-08 07:40:41 UTC
 
 **Total Participants:** 1757
 
@@ -50,7 +50,7 @@
 | 42 | 1693 | JoJo |
 | 43 | 1684 | Ceilo Marie |
 | 44 | 1633 | Cherry Rose |
-| 45 | 1616 | Jolly Dropzone |
+| 45 | 1621 | Jolly Dropzone |
 | 46 | 1564 | Chris Russell |
 | 47 | 1548 | Jennifer To |
 | 48 | 1544 | Weeze |
@@ -64,7 +64,7 @@
 | 56 | 1239 | Holly Jolly |
 | 57 | 1207 | Angela R Wilson |
 | 58 | 1200 | Spicy Balancer |
-| 59 | 1180 | Louis Richard Jr |
+| 59 | 1184 | Louis Richard Jr |
 | 60 | 1168 | Janine Hunter |
 | 61 | 1159 | Corey Cawthon |
 | 62 | 1126 | Ryan Meilleur |
@@ -172,9 +172,9 @@
 | 164 | 440 | Tanya Clayton |
 | 165 | 439 | Asani CHumba |
 | 166 | 437 | Tobey Marberry |
-| 167 | 432 | Katherine Short |
-| 168 | 431 | Lashawn Wallace |
-| 169 | 429 | LaToya Chambers |
+| 167 | 433 | LaToya Chambers |
+| 168 | 432 | Katherine Short |
+| 169 | 431 | Lashawn Wallace |
 | 170 | 427 | Tamara N Lee |
 | 171 | 427 | Ty Øtg |
 | 172 | 420 | Hyper Slamdrop |
@@ -359,9 +359,9 @@
 | 351 | 209 | Darrel K Pemberton |
 | 352 | 209 | Guy Incognito |
 | 353 | 208 | izzybella |
-| 354 | 205 | Treneil Daffin |
-| 355 | 205 | OhNoZer0 |
-| 356 | 204 | Shanaa Germany Crittenden |
+| 354 | 206 | Shanaa Germany Crittenden |
+| 355 | 205 | Treneil Daffin |
+| 356 | 205 | OhNoZer0 |
 | 357 | 203 | Daris Swearington |
 | 358 | 202 | Messy Live |
 | 359 | 202 | Sammie Walker |
