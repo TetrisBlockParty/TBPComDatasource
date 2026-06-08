@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 04:26:20 UTC
+# Standings for team4 as of 2026-06-08 04:26:43 UTC
 
 **Total Participants:** 1746
 
@@ -132,7 +132,7 @@
 | 124 | 588 | Andrew Dang |
 | 125 | 584 | Jesse Olive |
 | 126 | 580 | CJ |
-| 127 | 573 | Jewelz |
+| 127 | 576 | Jewelz |
 | 128 | 567 | Cranky Towerbuilder |
 | 129 | 567 | Lisa Garcia |
 | 130 | 566 | Dee Wizz |

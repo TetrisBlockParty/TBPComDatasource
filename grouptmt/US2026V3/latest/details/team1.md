@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 04:26:20 UTC
+# Standings for team1 as of 2026-06-08 04:26:43 UTC
 
 **Total Participants:** 1711
 
@@ -47,9 +47,9 @@
 | 39 | 2045 | COSA303 |
 | 40 | 1796 | Erika Windom |
 | 41 | 1705 | Markeeta Lipscomb |
-| 42 | 1684 | Ceilo Marie |
-| 43 | 1633 | Cherry Rose |
-| 44 | 1633 | JoJo |
+| 42 | 1693 | JoJo |
+| 43 | 1684 | Ceilo Marie |
+| 44 | 1633 | Cherry Rose |
 | 45 | 1564 | Chris Russell |
 | 46 | 1544 | Weeze |
 | 47 | 1538 | Jacoby E Fleming |
@@ -114,9 +114,9 @@
 | 106 | 720 | Felicia Williams |
 | 107 | 718 | Jaida King |
 | 108 | 692 | Chirpy Corner |
-| 109 | 681 | Slinky Puzzler |
-| 110 | 676 | W.A. Simpson |
-| 111 | 669 | Jason Mungin |
+| 109 | 684 | Jason Mungin |
+| 110 | 681 | Slinky Puzzler |
+| 111 | 676 | W.A. Simpson |
 | 112 | 668 | Jonathan Vee Jay |
 | 113 | 666 | Kellie Hall |
 | 114 | 652 | Mimi 1.0 |
