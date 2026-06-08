@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:02:20 UTC
+# Standings for team1 as of 2026-06-08 17:02:43 UTC
 
 **Total Participants:** 1829
 
@@ -122,11 +122,11 @@
 | 114 | 751 | Kellie Hall |
 | 115 | 741 | Sarah Marie |
 | 116 | 738 | Hyper Slamdrop |
-| 117 | 730 | ing410 |
-| 118 | 723 | Eartha Brown |
-| 119 | 720 | No_Other_Choice |
-| 120 | 720 | Felicia Williams |
-| 121 | 714 | Jhaime |
+| 117 | 734 | Jhaime |
+| 118 | 730 | ing410 |
+| 119 | 723 | Eartha Brown |
+| 120 | 720 | No_Other_Choice |
+| 121 | 720 | Felicia Williams |
 | 122 | 692 | Chirpy Corner |
 | 123 | 689 | Big Tina |
 | 124 | 676 | W.A. Simpson |
