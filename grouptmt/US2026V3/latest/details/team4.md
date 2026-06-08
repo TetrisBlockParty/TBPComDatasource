@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:54:21 UTC
+# Standings for team4 as of 2026-06-08 16:54:43 UTC
 
 **Total Participants:** 1870
 
@@ -133,10 +133,10 @@
 | 125 | 677 | Dandy Clearfit |
 | 126 | 676 | Caitlyn Wang |
 | 127 | 669 | Gigglycat |
-| 128 | 666 | Jesse Olive |
-| 129 | 665 | Kristen Wallace |
-| 130 | 665 | iiPurgeV2 |
-| 131 | 654 | shawna |
+| 128 | 666 | shawna |
+| 129 | 666 | Jesse Olive |
+| 130 | 665 | Kristen Wallace |
+| 131 | 665 | iiPurgeV2 |
 | 132 | 646 | Andrew Dang |
 | 133 | 644 | Gracie Ornelas |
 | 134 | 642 | squareMel |
@@ -549,11 +549,11 @@
 | 541 | 159 | Inez Nez |
 | 542 | 158 | Caiti O'Keefe |
 | 543 | 158 | Kimberly Ann |
-| 544 | 158 | chefjaydawg |
-| 545 | 157 | Holly Bramel |
-| 546 | 157 | Bonique Bier |
-| 547 | 157 | Haylee Talkington |
-| 548 | 157 | Travis McKinnon |
+| 544 | 158 | Travis McKinnon |
+| 545 | 158 | chefjaydawg |
+| 546 | 157 | Holly Bramel |
+| 547 | 157 | Bonique Bier |
+| 548 | 157 | Haylee Talkington |
 | 549 | 157 | Manolo Canety |
 | 550 | 156 | Simone |
 | 551 | 156 | Swanky Builderline |

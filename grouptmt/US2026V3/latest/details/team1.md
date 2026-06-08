@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:54:21 UTC
+# Standings for team1 as of 2026-06-08 16:54:43 UTC
 
 **Total Participants:** 1829
 
@@ -183,7 +183,7 @@
 | 175 | 489 | Sarah Clark |
 | 176 | 486 | Andre Sanon |
 | 177 | 485 | xXEKUNXx |
-| 178 | 483 | Dandy Brickfit |
+| 178 | 484 | Dandy Brickfit |
 | 179 | 482 | Jamal Itzjusmall Chambers |
 | 180 | 477 | Nobles Brandon |
 | 181 | 476 | BULLSEYE |
@@ -749,65 +749,65 @@
 | 741 | 108 | Charika Marie Bergmann |
 | 742 | 108 | Shaun Anderson |
 | 743 | 108 | Desi Guerra |
-| 744 | 108 | Shawn Himes |
-| 745 | 108 | EvaLynn NeCole |
-| 746 | 108 | Tyree Tman Shinette |
-| 747 | 108 | Richelle Beck |
-| 748 | 107 | Poppy Smasher |
-| 749 | 107 | win |
-| 750 | 107 | Fatty May |
-| 751 | 106 | Tina Blessed Cage |
+| 744 | 108 | win |
+| 745 | 108 | Shawn Himes |
+| 746 | 108 | EvaLynn NeCole |
+| 747 | 108 | Tyree Tman Shinette |
+| 748 | 108 | Richelle Beck |
+| 749 | 107 | Fatty May |
+| 750 | 107 | Poppy Smasher |
+| 751 | 106 | Elizabeth Hopkins |
 | 752 | 106 | Lawreniesha Burkley |
-| 753 | 106 | Elizabeth Hopkins |
-| 754 | 105 | Jack Mehof |
+| 753 | 106 | Tina Blessed Cage |
+| 754 | 105 | Mario Meliodas |
 | 755 | 105 | Nikkizz |
-| 756 | 105 | Mario Meliodas |
+| 756 | 105 | Maria |
 | 757 | 105 | Angie Lebron |
-| 758 | 105 | Christopher L Crites |
-| 759 | 105 | Maria |
-| 760 | 105 | Raquel Ortiz |
-| 761 | 105 | Ja'mice Nelson |
-| 762 | 105 | Michael Smith |
-| 763 | 104 | Victor |
-| 764 | 104 | Anastasia |
-| 765 | 104 | Lady T |
-| 766 | 104 | Chris Nelson |
-| 767 | 104 | Coco |
-| 768 | 104 | Ahvae Lee |
+| 758 | 105 | Jack Mehof |
+| 759 | 105 | Michael Smith |
+| 760 | 105 | Ja'mice Nelson |
+| 761 | 105 | Raquel Ortiz |
+| 762 | 105 | Christopher L Crites |
+| 763 | 104 | Ahvae Lee |
+| 764 | 104 | Coco |
+| 765 | 104 | Chris Nelson |
+| 766 | 104 | Lady T |
+| 767 | 104 | Victor |
+| 768 | 104 | Anastasia |
 | 769 | 103 | Heather Wilson |
 | 770 | 103 | Clint Mcdowell |
 | 771 | 102 | Kàrma Lee |
-| 772 | 102 | Mom3granny2 |
-| 773 | 102 | Laysa Nunez |
+| 772 | 102 | Laysa Nunez |
+| 773 | 102 | Mom3granny2 |
 | 774 | 102 | jeremy92 |
 | 775 | 101 | Brittany Britkany Marsden-Garrison |
-| 776 | 101 | Wacky Wipepiece |
-| 777 | 101 | John Spath |
+| 776 | 101 | Dirty Deeds |
+| 777 | 101 | Wacky Wipepiece |
 | 778 | 101 | star |
-| 779 | 101 | Dirty Deeds |
-| 780 | 101 | MELLZZtick€T |
-| 781 | 100 | Jonathan McKenzie |
-| 782 | 100 | Lester Malone |
-| 783 | 100 | Keith Big-Sixx Mackell |
-| 784 | 100 | Undeniable Williams |
+| 779 | 101 | MELLZZtick€T |
+| 780 | 101 | John Spath |
+| 781 | 100 | Ounquan Wright |
+| 782 | 100 | Jonathan McKenzie |
+| 783 | 100 | Marcello Rush |
+| 784 | 100 | Tiffany Jean Hinson |
 | 785 | 100 | Phillip White |
 | 786 | 100 | Shanjerrica Taylor Rosell |
-| 787 | 100 | Crafty Witch |
-| 788 | 100 | Tiffany Jean Hinson |
-| 789 | 100 | Marcello Rush |
+| 787 | 100 | Undeniable Williams |
+| 788 | 100 | Lester Malone |
+| 789 | 100 | Keith Big-Sixx Mackell |
 | 790 | 100 | LaSharmeika Fancher |
-| 791 | 100 | Oldheads |
-| 792 | 100 | Ounquan Wright |
-| 793 | 99 | Boymama917 |
-| 794 | 99 | Rochelle Nash-Evans |
-| 795 | 99 | Yoellah Benyahmeen |
-| 796 | 99 | Sylvia Offically A Mcgowan |
+| 791 | 100 | Crafty Witch |
+| 792 | 100 | Oldheads |
+| 793 | 99 | Yoellah Benyahmeen |
+| 794 | 99 | Boymama917 |
+| 795 | 99 | Eugenia Vanclusen |
+| 796 | 99 | Sunny Clicky |
 | 797 | 99 | Lucille Wilson Davis |
-| 798 | 99 | Sunny Clicky |
-| 799 | 99 | Eugenia Vanclusen |
-| 800 | 98 | Christopher Shaw-Black |
+| 798 | 99 | Rochelle Nash-Evans |
+| 799 | 99 | Sylvia Offically A Mcgowan |
+| 800 | 98 | Terrance Tindall |
 | 801 | 98 | Azeiare Ziare |
-| 802 | 98 | Terrance Tindall |
+| 802 | 98 | Christopher Shaw-Black |
 | 803 | 98 | Chloe Bankz |
 | 804 | 98 | FallDee |
 | 805 | 97 | Nichole Horsley-Conn |
@@ -816,13 +816,13 @@
 | 808 | 97 | Lootch |
 | 809 | 96 | Giggly Shatterline |
 | 810 | 96 | Just2Play$ |
-| 811 | 96 | Daphne Ceasar |
-| 812 | 96 | Boldy Pivoty |
+| 811 | 96 | Boldy Pivoty |
+| 812 | 96 | Sonia Binti Mfalme |
 | 813 | 96 | Yazz |
-| 814 | 96 | Sonia Binti Mfalme |
-| 815 | 95 | Big Bovice |
+| 814 | 96 | Daphne Ceasar |
+| 815 | 95 | Jackie Sanasay |
 | 816 | 95 | Tangy Moore |
-| 817 | 95 | Jackie Sanasay |
+| 817 | 95 | Big Bovice |
 | 818 | 95 | Cameo Tweed |
 | 819 | 95 | Teresa Bean |
 | 820 | 95 | TieMs BHughez |
