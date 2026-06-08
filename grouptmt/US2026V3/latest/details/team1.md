@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:34:45 UTC
+# Standings for team1 as of 2026-06-08 06:35:22 UTC
 
 **Total Participants:** 1745
 
@@ -97,10 +97,10 @@
 | 89 | 875 | Chenell Gillard |
 | 90 | 867 | She Higgy |
 | 91 | 853 | Moomoo |
-| 92 | 809 | Jazzy Dashpiece |
-| 93 | 807 | KenpachisGirl |
-| 94 | 806 | Jaida De'Anne Cox |
-| 95 | 804 | Jason Mungin |
+| 92 | 819 | Jason Mungin |
+| 93 | 809 | Jazzy Dashpiece |
+| 94 | 807 | KenpachisGirl |
+| 95 | 806 | Jaida De'Anne Cox |
 | 96 | 798 | Voice |
 | 97 | 795 | Joy Citizen Pickney |
 | 98 | 787 | Dawn L Washington-Feuquay |
@@ -116,14 +116,14 @@
 | 108 | 720 | Felicia Williams |
 | 109 | 720 | No_Other_Choice |
 | 110 | 692 | Chirpy Corner |
-| 111 | 681 | Slinky Puzzler |
-| 112 | 680 | Mimi 1.0 |
-| 113 | 676 | W.A. Simpson |
-| 114 | 668 | Jonathan Vee Jay |
-| 115 | 666 | Kellie Hall |
-| 116 | 649 | Cee Emm |
-| 117 | 647 | Andi McGreevy |
-| 118 | 644 | TAZ-MF-NIZIL |
+| 111 | 691 | TAZ-MF-NIZIL |
+| 112 | 681 | Slinky Puzzler |
+| 113 | 680 | Mimi 1.0 |
+| 114 | 676 | W.A. Simpson |
+| 115 | 668 | Jonathan Vee Jay |
+| 116 | 666 | Kellie Hall |
+| 117 | 649 | Cee Emm |
+| 118 | 647 | Andi McGreevy |
 | 119 | 642 | Big Tina |
 | 120 | 630 | Shontanese Adams |
 | 121 | 630 | Bambi Love |
@@ -182,7 +182,7 @@
 | 174 | 412 | Dee McCool |
 | 175 | 409 | Lashaunda |
 | 176 | 405 | SPNLover24 |
-| 177 | 400 | Plucky Slamdrop |
+| 177 | 401 | Plucky Slamdrop |
 | 178 | 398 | Kenny 'Tailormade' Boyd |
 | 179 | 397 | Karebear |
 | 180 | 394 | Simmone T. Kadiri |
@@ -286,28 +286,28 @@
 | 278 | 263 | Dacia Hicks |
 | 279 | 263 | Choc |
 | 280 | 262 | MamushiOh |
-| 281 | 260 | Sara Meri |
-| 282 | 260 | Ann Chung |
+| 281 | 260 | Ann Chung |
+| 282 | 260 | Sara Meri |
 | 283 | 260 | Jhaime |
 | 284 | 260 | Nerdy Blockpiece |
-| 285 | 258 | Cynthia Bradley |
-| 286 | 257 | Mafio SO |
-| 287 | 256 | Erin Sabol |
-| 288 | 255 | Falisa Bell |
-| 289 | 254 | Smiley Clearpiece |
-| 290 | 253 | Tasha |
-| 291 | 252 | Anthony |
-| 292 | 249 | LaToya Chambers |
+| 285 | 259 | LaToya Chambers |
+| 286 | 258 | Cynthia Bradley |
+| 287 | 257 | Mafio SO |
+| 288 | 256 | Erin Sabol |
+| 289 | 255 | Falisa Bell |
+| 290 | 254 | Smiley Clearpiece |
+| 291 | 253 | Tasha |
+| 292 | 252 | Anthony |
 | 293 | 248 | Tessa Felice Hill |
 | 294 | 248 | Mikayla |
 | 295 | 246 | Curtis T Cirno |
-| 296 | 245 | Kelli Couture |
-| 297 | 245 | Derrius SeriousLee Burks |
-| 298 | 244 | Shameka Thrasher |
-| 299 | 244 | Amber Wilson |
-| 300 | 244 | LaTonya Myers |
-| 301 | 244 | Dai Bo |
-| 302 | 244 | Teddy Davis |
+| 296 | 245 | Derrius SeriousLee Burks |
+| 297 | 245 | Kelli Couture |
+| 298 | 244 | Teddy Davis |
+| 299 | 244 | LaTonya Myers |
+| 300 | 244 | Amber Wilson |
+| 301 | 244 | Shameka Thrasher |
+| 302 | 244 | Dai Bo |
 | 303 | 242 | Tay |
 | 304 | 242 | Tamika Rocheteau |
 | 305 | 241 | Zippy Tilefall |
@@ -321,9 +321,9 @@
 | 313 | 235 | Sade Goodwine |
 | 314 | 233 | Nicole Watson-Dixon |
 | 315 | 231 | Tipsy Linkroll |
-| 316 | 230 | Erica Charlise |
+| 316 | 230 | Brittnay Wright |
 | 317 | 230 | Still Ten Tay |
-| 318 | 230 | Brittnay Wright |
+| 318 | 230 | Erica Charlise |
 | 319 | 230 | Boldy Liner |
 | 320 | 229 | De'Mear McKinney |
 | 321 | 227 | Chasem45 |
