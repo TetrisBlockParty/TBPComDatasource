@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:53:19 UTC
+# Standings for team2 as of 2026-06-08 04:54:20 UTC
 
 **Total Participants:** 2094
 
@@ -35,8 +35,8 @@
 | 27 | 3985 | Cassie Swart |
 | 28 | 3984 | Amber |
 | 29 | 3939 | Spunky Clicker |
-| 30 | 3812 | Crystal M Sowden |
-| 31 | 3740 | Danni Campa |
+| 30 | 3834 | Danni Campa |
+| 31 | 3812 | Crystal M Sowden |
 | 32 | 3607 | Bea Bee |
 | 33 | 3514 | Traci Elizabeth |
 | 34 | 3435 | Quirky Catcher |
@@ -76,7 +76,7 @@
 | 68 | 1534 | Lily |
 | 69 | 1510 | Shandrea Crawford |
 | 70 | 1483 | Tonya Taber |
-| 71 | 1464 | Angel Welch |
+| 71 | 1466 | Angel Welch |
 | 72 | 1390 | Marie Edmonds |
 | 73 | 1352 | Marquita Toliver |
 | 74 | 1349 | Poppy |
@@ -185,7 +185,7 @@
 | 177 | 497 | Amy Gale |
 | 178 | 495 | Samantha Carman |
 | 179 | 492 | Kaycie Shaffer |
-| 180 | 488 | Bubbly Strikerpiece |
+| 180 | 491 | Bubbly Strikerpiece |
 | 181 | 486 | Chirpy Grid |
 | 182 | 484 | Steven Craig |
 | 183 | 483 | Karen Reid Cenkush |
@@ -251,7 +251,7 @@
 | 243 | 364 | Lindsey Ford |
 | 244 | 360 | Jacob Carpenter |
 | 245 | 359 | Crystal Poss |
-| 246 | 355 | Becca Marie |
+| 246 | 356 | Becca Marie |
 | 247 | 351 | Cathy Lee Stoneking |
 | 248 | 349 | Spicy Basepiece |
 | 249 | 347 | Jessica Lynn |
@@ -280,28 +280,28 @@
 | 272 | 318 | Margie Ann Naffziger |
 | 273 | 318 | Pamela Raye |
 | 274 | 316 | Swanky Fitline |
-| 275 | 312 | Hypee |
-| 276 | 308 | Heather Burgett |
-| 277 | 308 | Hector |
-| 278 | 308 | Larry Cross |
-| 279 | 306 | Brittney Williams |
-| 280 | 305 | Melissa Clogher White |
-| 281 | 305 | Jumpy Matchbuilder |
-| 282 | 305 | Logan Duffey |
-| 283 | 305 | Havik Whitfield |
-| 284 | 300 | Jamin |
-| 285 | 300 | Melisa |
-| 286 | 300 | Patricia Carroll |
-| 287 | 300 | Sarah Rodriguez |
-| 288 | 298 | Rob Owens |
-| 289 | 296 | Vistabrat |
-| 290 | 295 | Nathan Walker |
-| 291 | 295 | James Ward |
-| 292 | 294 | Jeanna Mendez |
+| 275 | 316 | Jeanna Mendez |
+| 276 | 312 | Hypee |
+| 277 | 308 | Heather Burgett |
+| 278 | 308 | Jumpy Matchbuilder |
+| 279 | 308 | Hector |
+| 280 | 308 | Larry Cross |
+| 281 | 306 | Brittney Williams |
+| 282 | 305 | Melissa Clogher White |
+| 283 | 305 | Logan Duffey |
+| 284 | 305 | Havik Whitfield |
+| 285 | 300 | Jamin |
+| 286 | 300 | Melisa |
+| 287 | 300 | Patricia Carroll |
+| 288 | 300 | Sarah Rodriguez |
+| 289 | 298 | Rob Owens |
+| 290 | 296 | Vistabrat |
+| 291 | 295 | Nathan Walker |
+| 292 | 295 | James Ward |
 | 293 | 291 | Sandy Lynn |
 | 294 | 287 | Steven |
-| 295 | 286 | Kathy Strickland |
-| 296 | 286 | Kathleen Keogh Van Schoyck |
+| 295 | 286 | Kathleen Keogh Van Schoyck |
+| 296 | 286 | Kathy Strickland |
 | 297 | 285 | Charles E Mccardell |
 | 298 | 285 | Boldy Wobbler |
 | 299 | 284 | Kelly Vedder |
@@ -1401,47 +1401,47 @@
 | 1393 | 41 | Baby |
 | 1394 | 41 | Kodi Gay |
 | 1395 | 41 | Dandy Wiper |
-| 1396 | 41 | Jenny Coffer |
-| 1397 | 41 | Disguised Duck |
-| 1398 | 41 | Rachel Switala |
-| 1399 | 41 | Jenifer Seeley |
-| 1400 | 41 | Cammy Riley |
-| 1401 | 41 | Bold Shiftspin |
-| 1402 | 40 | Cassey Feller |
-| 1403 | 40 | Kris Roark |
-| 1404 | 40 | Jennifer Bryant |
-| 1405 | 40 | Tabetha Cooper |
-| 1406 | 40 | Kimmi Knippel |
-| 1407 | 40 | Katie Thacker |
-| 1408 | 40 | Jewels |
-| 1409 | 40 | Billie Jo Butler |
-| 1410 | 40 | Michael Lott |
-| 1411 | 40 | Wendy Morrison |
-| 1412 | 40 | Shannon Michelle |
-| 1413 | 40 | Snazzy Linebuilder |
-| 1414 | 40 | Ryan Rhodes |
-| 1415 | 40 | Duck |
-| 1416 | 40 | Emily Kleinsteiber |
-| 1417 | 40 | Dapper Pivotfall |
-| 1418 | 40 | Lori Rose |
-| 1419 | 40 | Elicia Lloyd-Zazweta |
-| 1420 | 40 | Kacey Bates |
-| 1421 | 40 | Ashley Bennett |
-| 1422 | 40 | Jay Theriault |
-| 1423 | 40 | fancypants |
-| 1424 | 40 | Emma Danielle Wynn |
-| 1425 | 40 | Tonya Templin Smith |
-| 1426 | 40 | Shay Lynn King |
-| 1427 | 40 | Viani09 |
-| 1428 | 40 | Kristy Moore |
-| 1429 | 40 | Aislinn Lowe |
-| 1430 | 40 | Ariya Colson |
-| 1431 | 39 | Valerie Roberts |
-| 1432 | 39 | Lindsey Butler |
-| 1433 | 39 | Slinky Glidezone |
-| 1434 | 39 | Instak1ll |
-| 1435 | 39 | Pickle |
-| 1436 | 39 | Dreamy Wipepiece |
+| 1396 | 41 | Dreamy Wipepiece |
+| 1397 | 41 | Jenny Coffer |
+| 1398 | 41 | Disguised Duck |
+| 1399 | 41 | Rachel Switala |
+| 1400 | 41 | Jenifer Seeley |
+| 1401 | 41 | Cammy Riley |
+| 1402 | 41 | Bold Shiftspin |
+| 1403 | 40 | Cassey Feller |
+| 1404 | 40 | Kris Roark |
+| 1405 | 40 | Jennifer Bryant |
+| 1406 | 40 | Tabetha Cooper |
+| 1407 | 40 | Kimmi Knippel |
+| 1408 | 40 | Katie Thacker |
+| 1409 | 40 | Jewels |
+| 1410 | 40 | Billie Jo Butler |
+| 1411 | 40 | Michael Lott |
+| 1412 | 40 | Wendy Morrison |
+| 1413 | 40 | Shannon Michelle |
+| 1414 | 40 | Snazzy Linebuilder |
+| 1415 | 40 | Ryan Rhodes |
+| 1416 | 40 | Duck |
+| 1417 | 40 | Emily Kleinsteiber |
+| 1418 | 40 | Dapper Pivotfall |
+| 1419 | 40 | Lori Rose |
+| 1420 | 40 | Elicia Lloyd-Zazweta |
+| 1421 | 40 | Kacey Bates |
+| 1422 | 40 | Ashley Bennett |
+| 1423 | 40 | Jay Theriault |
+| 1424 | 40 | fancypants |
+| 1425 | 40 | Emma Danielle Wynn |
+| 1426 | 40 | Tonya Templin Smith |
+| 1427 | 40 | Shay Lynn King |
+| 1428 | 40 | Viani09 |
+| 1429 | 40 | Kristy Moore |
+| 1430 | 40 | Aislinn Lowe |
+| 1431 | 40 | Ariya Colson |
+| 1432 | 39 | Valerie Roberts |
+| 1433 | 39 | Lindsey Butler |
+| 1434 | 39 | Slinky Glidezone |
+| 1435 | 39 | Instak1ll |
+| 1436 | 39 | Pickle |
 | 1437 | 39 | Slinky Towerpiece |
 | 1438 | 39 | Flynn Flibble |
 | 1439 | 39 | Lorrie Girardi |
