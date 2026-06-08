@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 03:44:20 UTC
+# Standings for team1 as of 2026-06-08 03:44:43 UTC
 
 **Total Participants:** 1703
 
@@ -274,10 +274,10 @@
 | 266 | 266 | Jhonny Maii |
 | 267 | 263 | Dacia Hicks |
 | 268 | 263 | Choc |
-| 269 | 260 | Ketrell Bailey |
+| 269 | 260 | Jhaime |
 | 270 | 260 | Ann Chung |
-| 271 | 260 | Jhaime |
-| 272 | 260 | Sara Meri |
+| 271 | 260 | Sara Meri |
+| 272 | 260 | Ketrell Bailey |
 | 273 | 257 | Mafio SO |
 | 274 | 256 | Erin Sabol |
 | 275 | 255 | Falisa Bell |
@@ -286,17 +286,17 @@
 | 278 | 248 | Mikayla |
 | 279 | 246 | Curtis T Cirno |
 | 280 | 245 | Tremaine Hiler |
-| 281 | 245 | Derrius SeriousLee Burks |
-| 282 | 245 | Kelli Couture |
-| 283 | 244 | Teddy Davis |
-| 284 | 244 | Shameka Thrasher |
-| 285 | 244 | LaTonya Myers |
-| 286 | 244 | Amber Wilson |
-| 287 | 244 | Ann White |
-| 288 | 244 | Dai Bo |
+| 281 | 245 | Kelli Couture |
+| 282 | 245 | Derrius SeriousLee Burks |
+| 283 | 244 | Dai Bo |
+| 284 | 244 | LaTonya Myers |
+| 285 | 244 | Ann White |
+| 286 | 244 | Teddy Davis |
+| 287 | 244 | Shameka Thrasher |
+| 288 | 244 | Amber Wilson |
 | 289 | 241 | Jai |
-| 290 | 240 | Rayya Kiser |
-| 291 | 240 | Nerdy Blockpiece |
+| 290 | 240 | Nerdy Blockpiece |
+| 291 | 240 | Rayya Kiser |
 | 292 | 239 | ♈️ Ariesbaby |
 | 293 | 238 | Tootsie Pop |
 | 294 | 237 | Simone Bailey |
@@ -304,57 +304,57 @@
 | 296 | 235 | Sade Goodwine |
 | 297 | 233 | Nicole Watson-Dixon |
 | 298 | 231 | Tipsy Linkroll |
-| 299 | 230 | Brittnay Wright |
-| 300 | 230 | Boldy Liner |
-| 301 | 230 | Erica Charlise |
+| 299 | 230 | Boldy Liner |
+| 300 | 230 | Erica Charlise |
+| 301 | 230 | Brittnay Wright |
 | 302 | 229 | De'Mear McKinney |
 | 303 | 228 | Dion Gray |
 | 304 | 227 | Chasem45 |
 | 305 | 226 | Zippy Tilefall |
 | 306 | 224 | Asha Langford |
 | 307 | 221 | Chandler Magee |
-| 308 | 220 | Christian Pham |
-| 309 | 220 | Rachael Bakowicz Edwards |
-| 310 | 220 | rls |
+| 308 | 220 | rls |
+| 309 | 220 | Christian Pham |
+| 310 | 220 | Rachael Bakowicz Edwards |
 | 311 | 219 | Tamara Johnson-Carter |
 | 312 | 218 | Emily Wright |
-| 313 | 217 | Louise Parker |
-| 314 | 217 | Snippy Breaker |
-| 315 | 217 | LaShaun Stinson |
+| 313 | 217 | Snippy Breaker |
+| 314 | 217 | LaShaun Stinson |
+| 315 | 217 | Ashleyy Netchert |
 | 316 | 217 | HarleyJane |
-| 317 | 217 | Ashleyy Netchert |
+| 317 | 217 | Louise Parker |
 | 318 | 214 | Stephen Providenti |
-| 319 | 213 | Still Ten Tay |
+| 319 | 213 | Lazy Tiltpiece |
 | 320 | 213 | Wild Out Nai |
-| 321 | 212 | Simply-Beautiful007 |
+| 321 | 213 | Still Ten Tay |
 | 322 | 212 | LaToya Chambers |
-| 323 | 211 | Charletha Williams |
+| 323 | 212 | Simply-Beautiful007 |
 | 324 | 211 | Nina Davis |
-| 325 | 210 | Hailey Hil |
+| 325 | 211 | Charletha Williams |
 | 326 | 210 | Sarah Clark |
-| 327 | 209 | Antonia Wyche |
-| 328 | 209 | $hort Dog |
-| 329 | 209 | Phillip Vasquez |
-| 330 | 205 | OhNoZer0 |
-| 331 | 205 | Treneil Daffin |
-| 332 | 204 | Guy Incognito |
-| 333 | 204 | Lazy Tiltpiece |
-| 334 | 204 | Shanaa Germany Crittenden |
+| 327 | 210 | Hailey Hil |
+| 328 | 209 | Antonia Wyche |
+| 329 | 209 | $hort Dog |
+| 330 | 209 | Phillip Vasquez |
+| 331 | 205 | OhNoZer0 |
+| 332 | 205 | Treneil Daffin |
+| 333 | 204 | Shanaa Germany Crittenden |
+| 334 | 204 | Guy Incognito |
 | 335 | 203 | Daris Swearington |
 | 336 | 202 | Messy Live |
-| 337 | 202 | Crystal Cheresnowsky |
-| 338 | 202 | Poppy Buildout |
-| 339 | 202 | Sammie Walker |
+| 337 | 202 | Poppy Buildout |
+| 338 | 202 | Sammie Walker |
+| 339 | 202 | Crystal Cheresnowsky |
 | 340 | 201 | Rayshawn Cohen |
 | 341 | 201 | Richard Flex |
-| 342 | 200 | Maribel Vasquez |
-| 343 | 200 | kitten |
-| 344 | 200 | TBABYJ |
-| 345 | 200 | Slinky Party |
+| 342 | 200 | Slinky Party |
+| 343 | 200 | TBABYJ |
+| 344 | 200 | Maribel Vasquez |
+| 345 | 200 | kitten |
 | 346 | 199 | Fina McKinnis |
 | 347 | 195 | Lisa Fletcher |
-| 348 | 194 | MamushiOh |
-| 349 | 194 | Cheery Linkfall |
+| 348 | 194 | Cheery Linkfall |
+| 349 | 194 | MamushiOh |
 | 350 | 193 | izzybella |
 | 351 | 192 | Hyper Blocky |
 | 352 | 190 | Chipper Snapper |
@@ -430,14 +430,14 @@
 | 422 | 160 | Malcolm Stanley |
 | 423 | 160 | Jean Regis |
 | 424 | 160 | Adrian Wilson |
-| 425 | 160 | Cheeky Twistpiece |
-| 426 | 160 | Slinky Clearzone |
-| 427 | 160 | Carolyn Smith |
-| 428 | 159 | Matthieu Pistone |
-| 429 | 159 | Travis Davison |
-| 430 | 159 | Tee Spinks |
-| 431 | 158 | Kimberly Linares Hernandez |
-| 432 | 158 | Kristine Marie Palmer |
+| 425 | 160 | Kristine Marie Palmer |
+| 426 | 160 | Cheeky Twistpiece |
+| 427 | 160 | Slinky Clearzone |
+| 428 | 160 | Carolyn Smith |
+| 429 | 159 | Matthieu Pistone |
+| 430 | 159 | Travis Davison |
+| 431 | 159 | Tee Spinks |
+| 432 | 158 | Kimberly Linares Hernandez |
 | 433 | 157 | Rachel Renae Bettis |
 | 434 | 156 | Shalya Terry |
 | 435 | 156 | Lakiesha Crawford |
