@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 22:36:22 UTC
+# Standings for team1 as of 2026-06-08 22:36:46 UTC
 
 **Total Participants:** 1891
 
@@ -92,8 +92,8 @@
 | 84 | 1128 | Todd C. Clemens |
 | 85 | 1124 | Kimberly Hernandez |
 | 86 | 1121 | Lisa Müller |
-| 87 | 1078 | Danielle DeLozier Plesec |
-| 88 | 1040 | Jazzy Dashpiece |
+| 87 | 1080 | Jazzy Dashpiece |
+| 88 | 1078 | Danielle DeLozier Plesec |
 | 89 | 1024 | Chill Clusterer |
 | 90 | 1020 | IamJust Neyamijah Washington Sr. |
 | 91 | 1014 | Chris Caniglia |
@@ -652,29 +652,29 @@
 | 644 | 144 | Glitzy Patternline |
 | 645 | 144 | Cm |
 | 646 | 143 | Marlynnnnn |
-| 647 | 143 | Shanell Thomas |
-| 648 | 143 | Andy Rivera |
+| 647 | 143 | Andy Rivera |
+| 648 | 143 | Shanell Thomas |
 | 649 | 143 | Spicy Shatterblock |
-| 650 | 142 | Jasmine Hariston-Estis |
-| 651 | 142 | Mary Goode |
-| 652 | 141 | Kim Holzmiller |
-| 653 | 141 | Shalena Marie Humphrey |
+| 650 | 142 | Joseph Vs Cap |
+| 651 | 142 | Jasmine Hariston-Estis |
+| 652 | 142 | Mary Goode |
+| 653 | 141 | Kim Holzmiller |
 | 654 | 141 | Octavia Bsb Johnson |
-| 655 | 141 | Krystal Maynard |
-| 656 | 141 | Ashley Monet Terrell |
-| 657 | 140 | Eric Machuca |
-| 658 | 140 | Tory Miller |
-| 659 | 140 | Shadon McMillan |
-| 660 | 140 | TBabii24 |
-| 661 | 140 | Kennedi Brazziel |
-| 662 | 140 | Joseph Vs Cap |
+| 655 | 141 | Shalena Marie Humphrey |
+| 656 | 141 | Krystal Maynard |
+| 657 | 141 | Ashley Monet Terrell |
+| 658 | 140 | Eric Machuca |
+| 659 | 140 | Tory Miller |
+| 660 | 140 | Shadon McMillan |
+| 661 | 140 | TBabii24 |
+| 662 | 140 | Kennedi Brazziel |
 | 663 | 139 | Antoinette Kelly |
 | 664 | 139 | Rochelle Nash-Evans |
 | 665 | 138 | Claudia Price |
 | 666 | 138 | Rene Hicks |
 | 667 | 138 | Gbnola |
-| 668 | 138 | Ozell Jones Jr. |
-| 669 | 138 | Chloe Bankz |
+| 668 | 138 | Chloe Bankz |
+| 669 | 138 | Ozell Jones Jr. |
 | 670 | 137 | Angelique Talbot |
 | 671 | 136 | BonnieB |
 | 672 | 136 | Marbama |
@@ -763,9 +763,9 @@
 | 755 | 119 | TY Newme Batts |
 | 756 | 119 | Megan Jones |
 | 757 | 119 | Adrian Harris |
-| 758 | 119 | Albert McKnight |
-| 759 | 119 | Montréal Mars |
-| 760 | 119 | Hyy |
+| 758 | 119 | Hyy |
+| 759 | 119 | Albert McKnight |
+| 760 | 119 | Montréal Mars |
 | 761 | 118 | Dirty Deeds |
 | 762 | 118 | Shanna Green Williams |
 | 763 | 118 | Tony Pizzas |
@@ -774,32 +774,32 @@
 | 766 | 118 | Meow Meow |
 | 767 | 118 | Kahh |
 | 768 | 118 | AnnaM |
-| 769 | 118 | Stephanie Ellis |
-| 770 | 118 | Raymond Boosie Freeman |
-| 771 | 118 | Hasty Pivoty |
-| 772 | 117 | Cori Cleland |
-| 773 | 117 | Poppy Twister |
-| 774 | 117 | Spicy Tiler |
-| 775 | 117 | DirtiestofMikes |
-| 776 | 117 | Bubbly Slammer |
-| 777 | 117 | Kortney Adams |
-| 778 | 117 | Kayel Good |
-| 779 | 117 | Bruce Paléncia |
-| 780 | 116 | Sallie Sanborn |
-| 781 | 116 | Sherri Keys |
-| 782 | 115 | WOOLFF |
-| 783 | 115 | tg |
+| 769 | 118 | Hasty Pivoty |
+| 770 | 118 | Stephanie Ellis |
+| 771 | 118 | Raymond Boosie Freeman |
+| 772 | 117 | Poppy Twister |
+| 773 | 117 | Kortney Adams |
+| 774 | 117 | Bruce Paléncia |
+| 775 | 117 | Kayel Good |
+| 776 | 117 | DirtiestofMikes |
+| 777 | 117 | Bubbly Slammer |
+| 778 | 117 | Spicy Tiler |
+| 779 | 117 | Cori Cleland |
+| 780 | 117 | Peppy Wipeblock |
+| 781 | 116 | Sallie Sanborn |
+| 782 | 116 | Sherri Keys |
+| 783 | 115 | Tamyka E Williams |
 | 784 | 115 | Shiny Lift |
-| 785 | 115 | Tamyka E Williams |
-| 786 | 114 | Solomon Valarie |
-| 787 | 114 | Ameillia Boughner |
-| 788 | 114 | Seirra Robinson |
-| 789 | 114 | Angela Kitchens |
-| 790 | 114 | LAhoneybun82 |
-| 791 | 114 | Felicia Dungey |
-| 792 | 114 | Tyree Tman Shinette |
-| 793 | 114 | Renee Marshall |
-| 794 | 114 | Peppy Wipeblock |
+| 785 | 115 | tg |
+| 786 | 115 | WOOLFF |
+| 787 | 114 | Solomon Valarie |
+| 788 | 114 | Ameillia Boughner |
+| 789 | 114 | Seirra Robinson |
+| 790 | 114 | Angela Kitchens |
+| 791 | 114 | LAhoneybun82 |
+| 792 | 114 | Felicia Dungey |
+| 793 | 114 | Tyree Tman Shinette |
+| 794 | 114 | Renee Marshall |
 | 795 | 114 | Cranky Fall |
 | 796 | 113 | Terrance Tindall |
 | 797 | 113 | SweetByNBy |
