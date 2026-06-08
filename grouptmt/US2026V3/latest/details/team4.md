@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 23:16:42 UTC
+# Standings for team4 as of 2026-06-08 23:17:21 UTC
 
 **Total Participants:** 1949
 
@@ -107,11 +107,11 @@
 | 99 | 947 | Blayne Kole |
 | 100 | 937 | Cherry |
 | 101 | 926 | Sharidan Klinginsmith |
-| 102 | 906 | Kelley Roach |
-| 103 | 900 | Shelby |
-| 104 | 900 | Alyssa Oth |
-| 105 | 898 | Kim |
-| 106 | 892 | Alicia Cook |
+| 102 | 912 | Alicia Cook |
+| 103 | 906 | Kelley Roach |
+| 104 | 900 | Shelby |
+| 105 | 900 | Alyssa Oth |
+| 106 | 898 | Kim |
 | 107 | 889 | Dana Fontanez |
 | 108 | 871 | Becky Doll-Hall |
 | 109 | 848 | Beee |
@@ -262,9 +262,9 @@
 | 254 | 362 | Dazzle Dragon |
 | 255 | 360 | Holly Wessel |
 | 256 | 360 | beTrue76 |
-| 257 | 359 | Chiquita Blue |
+| 257 | 359 | BCO22 |
 | 258 | 359 | Leslie Ann Carter |
-| 259 | 359 | BCO22 |
+| 259 | 359 | Chiquita Blue |
 | 260 | 358 | Goofy Fall |
 | 261 | 357 | Poppy |
 | 262 | 357 | MomyLiz |
@@ -273,8 +273,8 @@
 | 265 | 355 | RotatedWrongAgain |
 | 266 | 354 | Anthony Lewis |
 | 267 | 353 | Crystal Hammonds |
-| 268 | 350 | Wanda Simmons |
-| 269 | 346 | Smiley Gridzone |
+| 268 | 351 | Smiley Gridzone |
+| 269 | 350 | Wanda Simmons |
 | 270 | 345 | Knijur Callins |
 | 271 | 338 | Tipsy Zonebuilder |
 | 272 | 338 | Tamara Triplet |
@@ -301,25 +301,25 @@
 | 293 | 318 | Patrick Alley |
 | 294 | 318 | Bridget Stevens |
 | 295 | 317 | Shanna Fragen |
-| 296 | 317 | Amandacolle |
-| 297 | 317 | Jeremy |
-| 298 | 315 | Tina Thomas |
-| 299 | 315 | Thomasena Eady Reid |
-| 300 | 315 | Spicy Chicken |
-| 301 | 312 | Breezy Cascadeclear |
-| 302 | 311 | JuicyJuice |
+| 296 | 317 | Jeremy |
+| 297 | 317 | Amandacolle |
+| 298 | 316 | WeeWooWee |
+| 299 | 315 | Tina Thomas |
+| 300 | 315 | Thomasena Eady Reid |
+| 301 | 315 | Spicy Chicken |
+| 302 | 312 | Breezy Cascadeclear |
 | 303 | 311 | Jenn Norcross |
-| 304 | 309 | Dapper Strikerpiece |
-| 305 | 309 | TRUCHILD777$$$ |
-| 306 | 308 | Juvon SupaShawdii Brooks |
-| 307 | 305 | No Time |
-| 308 | 305 | Richard Bearse |
-| 309 | 303 | Ash Gribble |
-| 310 | 302 | Bre Dee |
-| 311 | 300 | Saucy Wipepiece |
-| 312 | 297 | Brooke Arroyo |
-| 313 | 296 | PerfectPieces |
-| 314 | 296 | WeeWooWee |
+| 304 | 311 | JuicyJuice |
+| 305 | 309 | Dapper Strikerpiece |
+| 306 | 309 | TRUCHILD777$$$ |
+| 307 | 308 | Juvon SupaShawdii Brooks |
+| 308 | 305 | No Time |
+| 309 | 305 | Richard Bearse |
+| 310 | 303 | Ash Gribble |
+| 311 | 302 | Bre Dee |
+| 312 | 300 | Saucy Wipepiece |
+| 313 | 297 | Brooke Arroyo |
+| 314 | 296 | PerfectPieces |
 | 315 | 296 | beauxie |
 | 316 | 296 | Cherrypir05 |
 | 317 | 295 | Troy Zanelli |
@@ -425,19 +425,19 @@
 | 417 | 232 | Carla Woodard |
 | 418 | 231 | Cindy |
 | 419 | 231 | Jennifer Garcia |
-| 420 | 230 | gabs |
-| 421 | 230 | Brendan Craven |
-| 422 | 229 | Melika Zeheb |
-| 423 | 229 | Marcus Chavis |
-| 424 | 228 | Tasha Suzanne Prisbrey |
-| 425 | 228 | Happy Strikerpiece |
-| 426 | 228 | Andrick |
-| 427 | 227 | Swanky Snapgrid |
-| 428 | 227 | Garden Girlie |
-| 429 | 226 | Buddyblock |
-| 430 | 225 | Cool Risepiece |
-| 431 | 224 | Ashley Jenkins |
-| 432 | 224 | Lee Ann Gibby |
+| 420 | 230 | Cool Risepiece |
+| 421 | 230 | gabs |
+| 422 | 230 | Brendan Craven |
+| 423 | 229 | Melika Zeheb |
+| 424 | 229 | Marcus Chavis |
+| 425 | 228 | Tasha Suzanne Prisbrey |
+| 426 | 228 | Happy Strikerpiece |
+| 427 | 228 | Andrick |
+| 428 | 227 | Swanky Snapgrid |
+| 429 | 227 | Garden Girlie |
+| 430 | 226 | Buddyblock |
+| 431 | 224 | Lee Ann Gibby |
+| 432 | 224 | Ashley Jenkins |
 | 433 | 223 | Playa |
 | 434 | 222 | Cheeky Fallzone |
 | 435 | 220 | Mrs |
