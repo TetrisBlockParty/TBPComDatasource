@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:53:20 UTC
+# Standings for team1 as of 2026-06-08 09:54:19 UTC
 
 **Total Participants:** 1773
 
@@ -103,8 +103,8 @@
 | 95 | 877 | She Higgy |
 | 96 | 860 | Voice |
 | 97 | 848 | Jason Mungin |
-| 98 | 809 | Jazzy Dashpiece |
-| 99 | 806 | Jaida De'Anne Cox |
+| 98 | 811 | Jaida De'Anne Cox |
+| 99 | 809 | Jazzy Dashpiece |
 | 100 | 795 | Joy Citizen Pickney |
 | 101 | 793 | Jaida King |
 | 102 | 787 | Dawn L Washington-Feuquay |
@@ -301,7 +301,7 @@
 | 293 | 258 | Cynthia Bradley |
 | 294 | 257 | Mafio SO |
 | 295 | 257 | Anthony |
-| 296 | 255 | Tessa Felice Hill |
+| 296 | 257 | Tessa Felice Hill |
 | 297 | 255 | Erica Charlise |
 | 298 | 255 | Falisa Bell |
 | 299 | 254 | Smiley Clearpiece |
