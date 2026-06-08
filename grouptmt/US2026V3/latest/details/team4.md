@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:20:41 UTC
+# Standings for team4 as of 2026-06-08 09:21:20 UTC
 
 **Total Participants:** 1804
 
@@ -103,9 +103,9 @@
 | 95 | 800 | 2 kool |
 | 96 | 797 | Heather Preston |
 | 97 | 795 | Phil Peterson |
-| 98 | 792 | Keesha Muro |
-| 99 | 788 | Shaina Sharp |
-| 100 | 782 | Esther Hadassah |
+| 98 | 792 | Esther Hadassah |
+| 99 | 792 | Keesha Muro |
+| 100 | 788 | Shaina Sharp |
 | 101 | 775 | Shelby |
 | 102 | 758 | Regina Williams |
 | 103 | 749 | Hairy Snake |
@@ -344,15 +344,15 @@
 | 336 | 218 | Codey Haffner |
 | 337 | 216 | Alyson M Kehler |
 | 338 | 216 | Smiley Gridzone |
-| 339 | 214 | jaz |
+| 339 | 216 | jaz |
 | 340 | 213 | Toon Up |
 | 341 | 210 | Sfalcon1. |
 | 342 | 210 | Gary Smallwood |
 | 343 | 209 | Lively Blockpiece |
 | 344 | 209 | Ashley Mcdonald |
 | 345 | 208 | Justin Janachovsky |
-| 346 | 207 | Lanelva Tiredofbs Marshall |
-| 347 | 207 | ariel |
+| 346 | 207 | ariel |
+| 347 | 207 | Lanelva Tiredofbs Marshall |
 | 348 | 206 | Joab Gonzalez |
 | 349 | 206 | Rachel Lemos |
 | 350 | 206 | Stacy G |

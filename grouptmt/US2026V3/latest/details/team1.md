@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:20:41 UTC
+# Standings for team1 as of 2026-06-08 09:21:20 UTC
 
 **Total Participants:** 1767
 
@@ -387,23 +387,23 @@
 | 379 | 192 | Joana Thompson |
 | 380 | 192 | Hyper Blocky |
 | 381 | 191 | Jelyfish |
-| 382 | 191 | Lozuna |
-| 383 | 190 | Chipper Snapper |
-| 384 | 189 | Nate Myers |
-| 385 | 189 | Sean White |
-| 386 | 189 | Jolly Tilefall |
-| 387 | 189 | Tosha Michelle |
-| 388 | 189 | Slinky Snapbuilder |
-| 389 | 188 | Travis Davison |
-| 390 | 188 | Tyiesha Pie Farmer |
-| 391 | 188 | CJ Robinson |
-| 392 | 187 | MACHETEEDDIE513 |
-| 393 | 187 | Amy Lynn Leifheit |
-| 394 | 187 | Jennah |
-| 395 | 187 | Kristine Marie Palmer |
-| 396 | 186 | Monica Tovar |
-| 397 | 185 | Giggy Tower |
-| 398 | 185 | Kate Hancock Malicek |
+| 382 | 191 | Kate Hancock Malicek |
+| 383 | 191 | Lozuna |
+| 384 | 190 | Chipper Snapper |
+| 385 | 189 | Nate Myers |
+| 386 | 189 | Sean White |
+| 387 | 189 | Jolly Tilefall |
+| 388 | 189 | Tosha Michelle |
+| 389 | 189 | Slinky Snapbuilder |
+| 390 | 188 | Travis Davison |
+| 391 | 188 | Tyiesha Pie Farmer |
+| 392 | 188 | CJ Robinson |
+| 393 | 187 | MACHETEEDDIE513 |
+| 394 | 187 | Amy Lynn Leifheit |
+| 395 | 187 | Jennah |
+| 396 | 187 | Kristine Marie Palmer |
+| 397 | 186 | Monica Tovar |
+| 398 | 185 | Giggy Tower |
 | 399 | 185 | Sarah Swietlicki - Lopez |
 | 400 | 184 | Rachael R Gull |
 | 401 | 184 | Soubletzy |
