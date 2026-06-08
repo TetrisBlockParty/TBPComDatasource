@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 13:28:42 UTC
+# Standings for team1 as of 2026-06-08 13:29:19 UTC
 
 **Total Participants:** 1799
 
@@ -677,57 +677,57 @@
 | 669 | 114 | LAhoneybun82 |
 | 670 | 114 | Loopy Block |
 | 671 | 112 | Peppy Wipeblock |
-| 672 | 112 | Jose Rodriguez |
-| 673 | 112 | Marie Wilson |
-| 674 | 112 | TeeMaster Barber IsLyfe |
-| 675 | 112 | GamerQueenDS |
-| 676 | 112 | DirtiestofMikes |
-| 677 | 111 | Chino Baby |
-| 678 | 111 | Happy Blocky |
-| 679 | 111 | Happy Blockpiece |
-| 680 | 111 | Angie Smith |
-| 681 | 111 | Taneka Howell |
-| 682 | 111 | Mellie Mel |
-| 683 | 111 | messyboots |
-| 684 | 110 | Tony Pizzas |
-| 685 | 110 | Jen Hallin |
+| 672 | 112 | TeeMaster Barber IsLyfe |
+| 673 | 112 | GamerQueenDS |
+| 674 | 112 | DirtiestofMikes |
+| 675 | 112 | Marie Wilson |
+| 676 | 112 | Jose Rodriguez |
+| 677 | 111 | Mellie Mel |
+| 678 | 111 | Taneka Howell |
+| 679 | 111 | Angie Smith |
+| 680 | 111 | messyboots |
+| 681 | 111 | Happy Blockpiece |
+| 682 | 111 | Happy Blocky |
+| 683 | 111 | Chino Baby |
+| 684 | 110 | Jen Hallin |
+| 685 | 110 | Tony Pizzas |
 | 686 | 110 | Tito Divyn |
 | 687 | 110 | Mommy Frank |
 | 688 | 110 | Danny Talbot |
-| 689 | 109 | Haakuu |
-| 690 | 109 | Kortney Adams |
-| 691 | 109 | Chereese Harris |
-| 692 | 109 | Hyedie Badie |
-| 693 | 108 | Charika Marie Bergmann |
-| 694 | 108 | Witty Clear |
-| 695 | 108 | EvaLynn NeCole |
-| 696 | 108 | Richelle Beck |
-| 697 | 108 | Shawn Himes |
-| 698 | 108 | kick it |
-| 699 | 108 | Antoinette Kelly |
-| 700 | 108 | Elaine Pauley |
-| 701 | 108 | Carla |
+| 689 | 110 | Krystal Maynard |
+| 690 | 109 | Haakuu |
+| 691 | 109 | Kortney Adams |
+| 692 | 109 | Chereese Harris |
+| 693 | 109 | Hyedie Badie |
+| 694 | 108 | Antoinette Kelly |
+| 695 | 108 | Witty Clear |
+| 696 | 108 | EvaLynn NeCole |
+| 697 | 108 | Richelle Beck |
+| 698 | 108 | Charika Marie Bergmann |
+| 699 | 108 | kick it |
+| 700 | 108 | Shaun Anderson |
+| 701 | 108 | Shawn Himes |
 | 702 | 108 | Tyree Tman Shinette |
-| 703 | 108 | Shaun Anderson |
-| 704 | 107 | Poppy Smasher |
-| 705 | 107 | Krystal Maynard |
-| 706 | 107 | Fatty May |
-| 707 | 106 | Elizabeth Hopkins |
+| 703 | 108 | Carla |
+| 704 | 108 | Elaine Pauley |
+| 705 | 107 | Fatty May |
+| 706 | 107 | Poppy Smasher |
+| 707 | 106 | Tina Blessed Cage |
 | 708 | 106 | Desi Guerra |
-| 709 | 106 | Tina Blessed Cage |
-| 710 | 105 | Christopher L Crites |
-| 711 | 105 | Mario Meliodas |
-| 712 | 105 | Jack Mehof |
-| 713 | 105 | Nikkizz |
+| 709 | 106 | Elizabeth Hopkins |
+| 710 | 105 | QueenShay AllGood |
+| 711 | 105 | Jack Mehof |
+| 712 | 105 | Christopher L Crites |
+| 713 | 105 | Mario Meliodas |
 | 714 | 105 | Maria |
-| 715 | 105 | QueenShay AllGood |
-| 716 | 105 | Raquel Ortiz |
-| 717 | 105 | Ja'mice Nelson |
-| 718 | 105 | Michael Smith |
-| 719 | 105 | Angie Lebron |
+| 715 | 105 | Angie Lebron |
+| 716 | 105 | Michael Smith |
+| 717 | 105 | Nikkizz |
+| 718 | 105 | Ja'mice Nelson |
+| 719 | 105 | Raquel Ortiz |
 | 720 | 104 | Chris Nelson |
-| 721 | 104 | Victor |
-| 722 | 104 | Anastasia |
+| 721 | 104 | Anastasia |
+| 722 | 104 | Victor |
 | 723 | 104 | Ahvae Lee |
 | 724 | 104 | Nona Harriel |
 | 725 | 103 | Heather Wilson |
@@ -838,61 +838,61 @@
 | 830 | 87 | Samona Mcculler |
 | 831 | 86 | LaTonya Rivers |
 | 832 | 86 | krd |
-| 833 | 86 | Saucy Faller |
-| 834 | 86 | Tweet Turner |
-| 835 | 85 | Anthony Collins |
-| 836 | 85 | Chill Linkroll |
-| 837 | 85 | Bobby Chestefield |
-| 838 | 85 | Tiffany Jean Hinson |
-| 839 | 85 | Heru Ogun Yeshua EL |
-| 840 | 85 | Eric Machuca |
-| 841 | 85 | Tray Tolliver |
-| 842 | 85 | Kimberly Noble |
-| 843 | 85 | Locke Mahal LD |
-| 844 | 84 | Crafty Witch |
-| 845 | 84 | Christy Quick |
-| 846 | 84 | Sunny Tumbler |
-| 847 | 84 | Silly Wiper |
-| 848 | 84 | Motown Chuck |
-| 849 | 84 | Quwana Hall |
-| 850 | 84 | Franklin Sotelo |
-| 851 | 84 | Shelly Everette |
-| 852 | 84 | squints |
-| 853 | 84 | Stanley Dixon |
-| 854 | 84 | Jumpy Gridlock |
-| 855 | 84 | Dawn Basemore |
-| 856 | 83 | Tony P Burke |
-| 857 | 83 | Williams Candace |
-| 858 | 83 | MrsMeadows2019 |
-| 859 | 83 | Latoya Carson |
-| 860 | 83 | Block |
-| 861 | 83 | Dirty Deeds |
-| 862 | 83 | John C Sexton |
-| 863 | 83 | Stacy Nicole |
-| 864 | 83 | AshMo |
-| 865 | 82 | Dana Hawes |
-| 866 | 82 | LaSharon Jackson |
-| 867 | 82 | Kashh |
-| 868 | 82 | Idelia L Brown |
-| 869 | 82 | DeAngelo Sorrells |
-| 870 | 82 | Jasmine Hariston-Estis |
-| 871 | 81 | GracefulOwl808 |
-| 872 | 81 | Deihja Weaver |
-| 873 | 81 | Crtjstr |
-| 874 | 81 | Parris Wright |
-| 875 | 80 | Amaadi Ward |
-| 876 | 80 | SherylU |
-| 877 | 80 | Chevalier Burley |
-| 878 | 80 | Linzi Cole |
-| 879 | 80 | Marcello Rush |
-| 880 | 80 | Lisa420 |
-| 881 | 80 | Lady Scorpio |
-| 882 | 80 | Charles Johnson |
-| 883 | 80 | Lauren Farkas |
-| 884 | 80 | nay |
-| 885 | 80 | Big Bovice |
-| 886 | 80 | lizlizliz |
-| 887 | 80 | Victoria Smith |
+| 833 | 86 | Tweet Turner |
+| 834 | 86 | Saucy Faller |
+| 835 | 86 | Crtjstr |
+| 836 | 85 | Bobby Chestefield |
+| 837 | 85 | Tiffany Jean Hinson |
+| 838 | 85 | Heru Ogun Yeshua EL |
+| 839 | 85 | Tray Tolliver |
+| 840 | 85 | Kimberly Noble |
+| 841 | 85 | Eric Machuca |
+| 842 | 85 | Chill Linkroll |
+| 843 | 85 | Anthony Collins |
+| 844 | 85 | Locke Mahal LD |
+| 845 | 84 | Motown Chuck |
+| 846 | 84 | Quwana Hall |
+| 847 | 84 | Franklin Sotelo |
+| 848 | 84 | Shelly Everette |
+| 849 | 84 | squints |
+| 850 | 84 | Sunny Tumbler |
+| 851 | 84 | Christy Quick |
+| 852 | 84 | Silly Wiper |
+| 853 | 84 | Crafty Witch |
+| 854 | 84 | Dawn Basemore |
+| 855 | 84 | Stanley Dixon |
+| 856 | 84 | Jumpy Gridlock |
+| 857 | 83 | Tony P Burke |
+| 858 | 83 | John C Sexton |
+| 859 | 83 | Stacy Nicole |
+| 860 | 83 | AshMo |
+| 861 | 83 | MrsMeadows2019 |
+| 862 | 83 | Block |
+| 863 | 83 | Dirty Deeds |
+| 864 | 83 | Latoya Carson |
+| 865 | 83 | Williams Candace |
+| 866 | 82 | DeAngelo Sorrells |
+| 867 | 82 | Idelia L Brown |
+| 868 | 82 | Jasmine Hariston-Estis |
+| 869 | 82 | LaSharon Jackson |
+| 870 | 82 | Dana Hawes |
+| 871 | 82 | Kashh |
+| 872 | 81 | GracefulOwl808 |
+| 873 | 81 | Parris Wright |
+| 874 | 81 | Deihja Weaver |
+| 875 | 80 | Lady Scorpio |
+| 876 | 80 | Lisa420 |
+| 877 | 80 | SherylU |
+| 878 | 80 | Marcello Rush |
+| 879 | 80 | Lauren Farkas |
+| 880 | 80 | Amaadi Ward |
+| 881 | 80 | Big Bovice |
+| 882 | 80 | Victoria Smith |
+| 883 | 80 | lizlizliz |
+| 884 | 80 | Charles Johnson |
+| 885 | 80 | nay |
+| 886 | 80 | Linzi Cole |
+| 887 | 80 | Chevalier Burley |
 | 888 | 80 | Felicia Woods |
 | 889 | 80 | Keith Big-Sixx Mackell |
 | 890 | 80 | Tory Miller |
