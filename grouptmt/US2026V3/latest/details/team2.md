@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 18:12:20 UTC
+# Standings for team2 as of 2026-06-08 18:12:41 UTC
 
 **Total Participants:** 2233
 
@@ -140,7 +140,7 @@
 | 132 | 837 | Allie Bug |
 | 133 | 827 | Loopy Cascadepiece |
 | 134 | 813 | Loony Faller |
-| 135 | 801 | Jackie Tupper |
+| 135 | 804 | Jackie Tupper |
 | 136 | 800 | Denise Potter |
 | 137 | 789 | Zachary Vymislicky |
 | 138 | 787 | MarioKarasovic |
