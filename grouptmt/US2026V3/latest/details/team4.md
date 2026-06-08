@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 21:56:20 UTC
+# Standings for team4 as of 2026-06-08 21:56:44 UTC
 
 **Total Participants:** 1931
 
@@ -265,14 +265,14 @@
 | 257 | 355 | RotatedWrongAgain |
 | 258 | 354 | Anthony Lewis |
 | 259 | 353 | Crystal Hammonds |
-| 260 | 347 | Samara Garcia |
-| 261 | 345 | Knijur Callins |
-| 262 | 338 | Tamara Triplet |
-| 263 | 337 | tigerlilly |
-| 264 | 337 | Giggly Tilt |
-| 265 | 336 | Renee Sapp |
-| 266 | 335 | Spunky Gridzone |
-| 267 | 334 | Poppy |
+| 260 | 349 | Poppy |
+| 261 | 347 | Samara Garcia |
+| 262 | 345 | Knijur Callins |
+| 263 | 338 | Tamara Triplet |
+| 264 | 337 | tigerlilly |
+| 265 | 337 | Giggly Tilt |
+| 266 | 336 | Renee Sapp |
+| 267 | 335 | Spunky Gridzone |
 | 268 | 333 | Tiffany Bunker-Hill |
 | 269 | 331 | Queen B |
 | 270 | 331 | George Palacios |
@@ -428,9 +428,9 @@
 | 420 | 225 | Melissa Lowe |
 | 421 | 224 | Ashley Jenkins |
 | 422 | 224 | Garden Girlie |
-| 423 | 223 | Playa |
-| 424 | 222 | Cheeky Fallzone |
-| 425 | 222 | Speedy Twistslam |
+| 423 | 224 | Speedy Twistslam |
+| 424 | 223 | Playa |
+| 425 | 222 | Cheeky Fallzone |
 | 426 | 221 | Brendan Craven |
 | 427 | 220 | Mrs |
 | 428 | 220 | Goofy Linkmatch |
@@ -539,15 +539,15 @@
 | 531 | 179 | Jeremy Barry |
 | 532 | 177 | Suzanne North |
 | 533 | 176 | Deana Teck |
-| 534 | 176 | Keith Kosmicki |
-| 535 | 176 | Erik Clary |
-| 536 | 175 | Shia Marie |
-| 537 | 175 | alxhue04 |
-| 538 | 175 | Mrsjcraw18 |
-| 539 | 174 | Bammer |
-| 540 | 174 | Eddie Fuller |
-| 541 | 174 | Dolores Falco |
-| 542 | 174 | Funky Tiler |
+| 534 | 176 | Funky Tiler |
+| 535 | 176 | Keith Kosmicki |
+| 536 | 176 | Erik Clary |
+| 537 | 175 | Shia Marie |
+| 538 | 175 | alxhue04 |
+| 539 | 175 | Mrsjcraw18 |
+| 540 | 174 | Bammer |
+| 541 | 174 | Eddie Fuller |
+| 542 | 174 | Dolores Falco |
 | 543 | 174 | PsyDMom |
 | 544 | 174 | Mmm |
 | 545 | 173 | Janna Thompson |

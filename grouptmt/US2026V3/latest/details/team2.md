@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 21:56:20 UTC
+# Standings for team2 as of 2026-06-08 21:56:44 UTC
 
 **Total Participants:** 2280
 
@@ -57,7 +57,7 @@
 | 49 | 2894 | Anthony Lilley |
 | 50 | 2833 | Angie BBlock |
 | 51 | 2750 | Tom Badgley |
-| 52 | 2580 | Betty Barrett |
+| 52 | 2583 | Betty Barrett |
 | 53 | 2556 | Andrew Weissenborn |
 | 54 | 2527 | Helen Thomas |
 | 55 | 2456 | Rose Schaffner-Kibler |
@@ -1144,48 +1144,48 @@
 | 1136 | 87 | Jack |
 | 1137 | 87 | April Elaine Messenger |
 | 1138 | 86 | Nicole Hjelmen |
-| 1139 | 86 | shell |
+| 1139 | 86 | Joe Duffer |
 | 1140 | 86 | Nina-Christina Cusyck |
-| 1141 | 86 | Em |
-| 1142 | 86 | Jennifer Robinson |
-| 1143 | 85 | Chillxsnow |
-| 1144 | 85 | Wendy Morrison |
-| 1145 | 85 | Rob Phillips |
-| 1146 | 85 | Melissa Mae |
-| 1147 | 85 | Tonya Marino |
-| 1148 | 85 | James Moore |
-| 1149 | 85 | Daisy Girl |
-| 1150 | 85 | Lexi Chouinard |
-| 1151 | 85 | Christina Kearns |
-| 1152 | 85 | SunnySquare |
-| 1153 | 84 | Chirpy Tower |
+| 1141 | 86 | shell |
+| 1142 | 86 | Em |
+| 1143 | 86 | Jennifer Robinson |
+| 1144 | 85 | Chillxsnow |
+| 1145 | 85 | Wendy Morrison |
+| 1146 | 85 | Rob Phillips |
+| 1147 | 85 | Melissa Mae |
+| 1148 | 85 | Tonya Marino |
+| 1149 | 85 | James Moore |
+| 1150 | 85 | Daisy Girl |
+| 1151 | 85 | Lexi Chouinard |
+| 1152 | 85 | Christina Kearns |
+| 1153 | 85 | SunnySquare |
 | 1154 | 84 | Twisty Snapmatch |
-| 1155 | 84 | Tiffany Fitch |
-| 1156 | 84 | Mona Wagner |
-| 1157 | 84 | Calah Amore |
-| 1158 | 84 | candi |
-| 1159 | 84 | Matt Solomon |
-| 1160 | 83 | Just Me |
-| 1161 | 83 | Jodee Woods |
-| 1162 | 83 | Maureen Bryan Adams |
-| 1163 | 83 | Diamond Balotje |
-| 1164 | 83 | Lezley Hawkins |
-| 1165 | 83 | Carol Whited Loza |
-| 1166 | 82 | Cozy Curve |
+| 1155 | 84 | Chirpy Tower |
+| 1156 | 84 | Tiffany Fitch |
+| 1157 | 84 | Mona Wagner |
+| 1158 | 84 | Calah Amore |
+| 1159 | 84 | candi |
+| 1160 | 84 | Matt Solomon |
+| 1161 | 83 | Just Me |
+| 1162 | 83 | Jodee Woods |
+| 1163 | 83 | Maureen Bryan Adams |
+| 1164 | 83 | Diamond Balotje |
+| 1165 | 83 | Lezley Hawkins |
+| 1166 | 83 | Carol Whited Loza |
 | 1167 | 82 | REE4 |
 | 1168 | 82 | Henny Henny |
-| 1169 | 82 | Ashley Bryant-hatcher |
-| 1170 | 82 | fancypants |
-| 1171 | 82 | Becka Jones |
-| 1172 | 82 | Bonez |
-| 1173 | 82 | Mikaela Byrd |
-| 1174 | 82 | Quirky Shifter |
-| 1175 | 82 | Madbull |
-| 1176 | 81 | Jessica Nightshade Hansuld |
-| 1177 | 81 | Slinky Linkgrid |
-| 1178 | 81 | YUKITATA |
-| 1179 | 81 | Octavia Jus Mae Hill |
-| 1180 | 81 | Joe Duffer |
+| 1169 | 82 | Cozy Curve |
+| 1170 | 82 | Ashley Bryant-hatcher |
+| 1171 | 82 | fancypants |
+| 1172 | 82 | Becka Jones |
+| 1173 | 82 | Bonez |
+| 1174 | 82 | Mikaela Byrd |
+| 1175 | 82 | Quirky Shifter |
+| 1176 | 82 | Madbull |
+| 1177 | 81 | Jessica Nightshade Hansuld |
+| 1178 | 81 | Slinky Linkgrid |
+| 1179 | 81 | YUKITATA |
+| 1180 | 81 | Octavia Jus Mae Hill |
 | 1181 | 81 | R.w. Buck |
 | 1182 | 81 | Heather Hi |
 | 1183 | 81 | YldBoar |
