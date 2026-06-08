@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:36:19 UTC
+# Standings for team1 as of 2026-06-08 11:36:43 UTC
 
 **Total Participants:** 1783
 
@@ -385,14 +385,14 @@
 | 377 | 202 | Crystal Cheresnowsky |
 | 378 | 202 | Poppy Buildout |
 | 379 | 201 | Richard Flex |
-| 380 | 201 | Rayshawn Cohen |
-| 381 | 200 | Teri Marie Clayton |
-| 382 | 200 | Peppy Towerbuilder |
-| 383 | 200 | Lisa Fletcher |
-| 384 | 200 | TBABYJ |
-| 385 | 200 | Maribel Vasquez |
-| 386 | 199 | Nickeya Phillips |
-| 387 | 199 | Slinky Snapbuilder |
+| 380 | 201 | Slinky Snapbuilder |
+| 381 | 201 | Rayshawn Cohen |
+| 382 | 200 | Teri Marie Clayton |
+| 383 | 200 | Peppy Towerbuilder |
+| 384 | 200 | Lisa Fletcher |
+| 385 | 200 | TBABYJ |
+| 386 | 200 | Maribel Vasquez |
+| 387 | 199 | Nickeya Phillips |
 | 388 | 199 | Fina McKinnis |
 | 389 | 197 | De'Nell Edwards |
 | 390 | 197 | Valerie Alexander |
@@ -985,52 +985,52 @@
 | 977 | 66 | kick it |
 | 978 | 66 | Mami Badd |
 | 979 | 66 | Jroc Tyra Taylor |
-| 980 | 66 | LaMinda Todd |
-| 981 | 66 | Evelyn Epps |
-| 982 | 66 | Meluhnee |
+| 980 | 66 | Motown Chuck |
+| 981 | 66 | Taylor Jordan Hollis |
+| 982 | 66 | Raquele Hines |
 | 983 | 66 | Jennifer Dawn Egbert Fenwick |
-| 984 | 66 | Dennis Ripley |
-| 985 | 66 | Raquele Hines |
-| 986 | 66 | Taylor Jordan Hollis |
-| 987 | 65 | OneBuke FollowMe |
-| 988 | 65 | Rande Smith |
-| 989 | 65 | WReckitraff |
-| 990 | 65 | Trixie |
-| 991 | 65 | Vonda House |
-| 992 | 65 | Furlough Leslie |
-| 993 | 65 | Renee J. Thomas |
-| 994 | 64 | Elaine Youmans |
-| 995 | 64 | Motown Chuck |
+| 984 | 66 | Evelyn Epps |
+| 985 | 66 | LaMinda Todd |
+| 986 | 66 | Dennis Ripley |
+| 987 | 66 | Meluhnee |
+| 988 | 65 | Renee J. Thomas |
+| 989 | 65 | Rande Smith |
+| 990 | 65 | OneBuke FollowMe |
+| 991 | 65 | Furlough Leslie |
+| 992 | 65 | Trixie |
+| 993 | 65 | Vonda House |
+| 994 | 65 | WReckitraff |
+| 995 | 64 | Kiki |
 | 996 | 64 | Morenita Rodriguez |
-| 997 | 64 | Alexis Alexander |
-| 998 | 64 | Kiki |
-| 999 | 64 | Capt Kev |
+| 997 | 64 | Elaine Youmans |
+| 998 | 64 | Capt Kev |
+| 999 | 64 | Alexis Alexander |
 | 1000 | 64 | Kanesha Jackson |
-| 1001 | 63 | Darrelle Short |
-| 1002 | 63 | GetDaOPPS |
-| 1003 | 63 | Hoppy Buildsnap |
-| 1004 | 63 | Amanda Colwell |
-| 1005 | 63 | Natasha Harris |
-| 1006 | 63 | Tonny Williams |
-| 1007 | 63 | Jeremy Hendrix |
-| 1008 | 63 | Gary Kyle |
+| 1001 | 63 | GetDaOPPS |
+| 1002 | 63 | Gary Kyle |
+| 1003 | 63 | Tonny Williams |
+| 1004 | 63 | Jeremy Hendrix |
+| 1005 | 63 | Hoppy Buildsnap |
+| 1006 | 63 | Natasha Harris |
+| 1007 | 63 | Amanda Colwell |
+| 1008 | 63 | Darrelle Short |
 | 1009 | 62 | Shona ShayShay Jones |
-| 1010 | 62 | AnnaM |
-| 1011 | 62 | Tia Hazelton |
-| 1012 | 62 | Amihan |
-| 1013 | 62 | Spicy Hedgehog |
-| 1014 | 62 | Quirky Slammer |
-| 1015 | 61 | Tonya Thomas |
-| 1016 | 61 | Rosalind Chatman |
+| 1010 | 62 | Tia Hazelton |
+| 1011 | 62 | Quirky Slammer |
+| 1012 | 62 | Spicy Hedgehog |
+| 1013 | 62 | Amihan |
+| 1014 | 62 | AnnaM |
+| 1015 | 61 | Michelle Stanford-Page |
+| 1016 | 61 | Tonya Thomas |
 | 1017 | 61 | Hoppy Rumbler |
-| 1018 | 61 | Michelle Stanford-Page |
+| 1018 | 61 | Rosalind Chatman |
 | 1019 | 61 | Ivery Lee Grays Jr. |
-| 1020 | 60 | Tanesha Ga'sFinest Corbett |
-| 1021 | 60 | HS Arce |
-| 1022 | 60 | Londa Londa |
-| 1023 | 60 | Nigel Snyder |
-| 1024 | 60 | Sally Elizabeth Hopson |
-| 1025 | 60 | lookin |
+| 1020 | 60 | lookin |
+| 1021 | 60 | Sally Elizabeth Hopson |
+| 1022 | 60 | Tanesha Ga'sFinest Corbett |
+| 1023 | 60 | HS Arce |
+| 1024 | 60 | Nigel Snyder |
+| 1025 | 60 | Londa Londa |
 | 1026 | 60 | Lynette Manning |
 | 1027 | 60 | Yellowguy3 |
 | 1028 | 60 | Ebie |
