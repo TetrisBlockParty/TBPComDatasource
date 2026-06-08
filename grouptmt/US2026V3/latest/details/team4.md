@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 02:30:19 UTC
+# Standings for team4 as of 2026-06-08 02:30:40 UTC
 
 **Total Participants:** 1709
 
@@ -165,8 +165,8 @@
 | 157 | 418 | Aisha Estrada |
 | 158 | 417 | Dandy Puzzler |
 | 159 | 415 | Chuck Gannon |
-| 160 | 409 | Hen |
-| 161 | 406 | Dee Wizz |
+| 160 | 411 | Dee Wizz |
+| 161 | 409 | Hen |
 | 162 | 405 | HurkleDurkle88 |
 | 163 | 402 | Pepone Pepe |
 | 164 | 400 | Suzanne Carter |

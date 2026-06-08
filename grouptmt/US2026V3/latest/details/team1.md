@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:30:19 UTC
+# Standings for team1 as of 2026-06-08 02:30:40 UTC
 
 **Total Participants:** 1675
 
@@ -262,14 +262,14 @@
 | 254 | 266 | Jhonny Maii |
 | 255 | 264 | Melissa D. M. Hornsby |
 | 256 | 263 | Dacia Hicks |
-| 257 | 260 | Ann Chung |
-| 258 | 260 | Sara Meri |
-| 259 | 260 | Coco |
-| 260 | 260 | Natasha Rucker |
-| 261 | 260 | Jhaime |
-| 262 | 260 | Ketrell Bailey |
-| 263 | 257 | Mafio SO |
-| 264 | 256 | Plucky Slamdrop |
+| 257 | 261 | Plucky Slamdrop |
+| 258 | 260 | Ann Chung |
+| 259 | 260 | Sara Meri |
+| 260 | 260 | Coco |
+| 261 | 260 | Natasha Rucker |
+| 262 | 260 | Jhaime |
+| 263 | 260 | Ketrell Bailey |
+| 264 | 257 | Mafio SO |
 | 265 | 256 | Erin Sabol |
 | 266 | 254 | Smiley Clearpiece |
 | 267 | 253 | Choc |
@@ -616,142 +616,142 @@
 | 608 | 103 | Raquel Ortiz |
 | 609 | 103 | Angela Kitchens |
 | 610 | 102 | Mom3granny2 |
-| 611 | 102 | Stephen Garland |
-| 612 | 102 | Victor |
-| 613 | 102 | Giddy Staggerpiece |
-| 614 | 102 | Amy Villalpando |
+| 611 | 102 | Victor |
+| 612 | 102 | Giddy Staggerpiece |
+| 613 | 102 | Amy Villalpando |
+| 614 | 102 | Stephen Garland |
 | 615 | 101 | Wacky Wipepiece |
-| 616 | 101 | Angelique Talbot |
-| 617 | 101 | Tito Divyn |
-| 618 | 101 | Sandra Mims |
-| 619 | 101 | star |
+| 616 | 101 | Sandra Mims |
+| 617 | 101 | star |
+| 618 | 101 | Tito Divyn |
+| 619 | 101 | Angelique Talbot |
 | 620 | 100 | Dianne Clagon |
-| 621 | 100 | Peppy Towerbuilder |
-| 622 | 100 | LaSharmeika Fancher |
-| 623 | 100 | NedaWin |
-| 624 | 100 | Tessa Gaskin |
-| 625 | 100 | Tracey Johnson |
+| 621 | 100 | NedaWin |
+| 622 | 100 | Tracey Johnson |
+| 623 | 100 | LaSharmeika Fancher |
+| 624 | 100 | Lester Malone |
+| 625 | 100 | Oldheads |
 | 626 | 100 | Octavia Bsb Johnson |
-| 627 | 100 | Kennedi Brazziel |
-| 628 | 100 | Lester Malone |
-| 629 | 100 | Oldheads |
-| 630 | 100 | Montego Allen |
-| 631 | 99 | Lucille Wilson Davis |
-| 632 | 99 | Boymama917 |
+| 627 | 100 | Tessa Gaskin |
+| 628 | 100 | Peppy Towerbuilder |
+| 629 | 100 | Montego Allen |
+| 630 | 100 | Kennedi Brazziel |
+| 631 | 99 | Boymama917 |
+| 632 | 99 | Lucille Wilson Davis |
 | 633 | 99 | Rochelle Nash-Evans |
 | 634 | 99 | Chino Baby |
-| 635 | 98 | Jjhandsome |
-| 636 | 98 | Sharee Robinson |
-| 637 | 98 | Azeiare Ziare |
-| 638 | 98 | Cm |
-| 639 | 98 | Terrance Tindall |
-| 640 | 98 | Christopher Shaw-Black |
-| 641 | 98 | Michael Smith |
-| 642 | 97 | Kim Holzmiller |
-| 643 | 97 | Shanell Thomas |
-| 644 | 97 | Lootch |
-| 645 | 97 | DaemahnFriday |
-| 646 | 97 | Kayel Good |
-| 647 | 97 | Nichole Horsley-Conn |
-| 648 | 96 | Zappy Clearfit |
-| 649 | 96 | Sherri Keys |
-| 650 | 96 | Yazz |
-| 651 | 96 | Kimmie Gargano |
-| 652 | 96 | EvaLynn NeCole |
-| 653 | 96 | Karen Knapp |
-| 654 | 96 | meatballs |
-| 655 | 96 | Guard Up |
-| 656 | 96 | Sonia Binti Mfalme |
-| 657 | 96 | Sara |
-| 658 | 95 | Chris Nelson |
-| 659 | 95 | Kyle Conley |
-| 660 | 95 | Shiny Lift |
-| 661 | 95 | Joseph Vs Cap |
-| 662 | 95 | TieMs BHughez |
-| 663 | 95 | Adrian Harris |
-| 664 | 95 | Paul Pendley |
-| 665 | 95 | Barbramerri Tarboro |
-| 666 | 95 | Nona Harriel |
-| 667 | 95 | WOOLFF |
-| 668 | 95 | Cameo Tweed |
-| 669 | 95 | Ounquan Wright |
-| 670 | 94 | Callie Mae |
-| 671 | 94 | Sunny Clicky |
-| 672 | 94 | Vera Beckford |
-| 673 | 94 | Derald Miller |
-| 674 | 94 | Peppy Wipeblock |
-| 675 | 94 | Cortrell Foster |
-| 676 | 94 | Sha Anderson |
-| 677 | 94 | Renee Marshall |
-| 678 | 94 | Marlainia Boyd |
+| 635 | 98 | Sharee Robinson |
+| 636 | 98 | Christopher Shaw-Black |
+| 637 | 98 | Jjhandsome |
+| 638 | 98 | Terrance Tindall |
+| 639 | 98 | Michael Smith |
+| 640 | 98 | Azeiare Ziare |
+| 641 | 98 | Cm |
+| 642 | 97 | Nichole Horsley-Conn |
+| 643 | 97 | Kayel Good |
+| 644 | 97 | DaemahnFriday |
+| 645 | 97 | Kim Holzmiller |
+| 646 | 97 | Shanell Thomas |
+| 647 | 97 | Lootch |
+| 648 | 96 | Kimmie Gargano |
+| 649 | 96 | Guard Up |
+| 650 | 96 | Zappy Clearfit |
+| 651 | 96 | Sonia Binti Mfalme |
+| 652 | 96 | meatballs |
+| 653 | 96 | Sara |
+| 654 | 96 | Sherri Keys |
+| 655 | 96 | Karen Knapp |
+| 656 | 96 | EvaLynn NeCole |
+| 657 | 96 | Yazz |
+| 658 | 95 | Joseph Vs Cap |
+| 659 | 95 | Adrian Harris |
+| 660 | 95 | Chris Nelson |
+| 661 | 95 | Paul Pendley |
+| 662 | 95 | Kyle Conley |
+| 663 | 95 | Shiny Lift |
+| 664 | 95 | Cameo Tweed |
+| 665 | 95 | WOOLFF |
+| 666 | 95 | TieMs BHughez |
+| 667 | 95 | Ounquan Wright |
+| 668 | 95 | Nona Harriel |
+| 669 | 95 | Barbramerri Tarboro |
+| 670 | 94 | Cortrell Foster |
+| 671 | 94 | Sha Anderson |
+| 672 | 94 | Sunny Clicky |
+| 673 | 94 | Marlainia Boyd |
+| 674 | 94 | Vera Beckford |
+| 675 | 94 | Peppy Wipeblock |
+| 676 | 94 | Derald Miller |
+| 677 | 94 | Callie Mae |
+| 678 | 94 | Renee Marshall |
 | 679 | 93 | messyboots |
 | 680 | 93 | Rene Hicks |
-| 681 | 93 | C Lo Green |
-| 682 | 93 | Kizzy Clark |
-| 683 | 93 | FunTime |
+| 681 | 93 | FunTime |
+| 682 | 93 | C Lo Green |
+| 683 | 93 | Kizzy Clark |
 | 684 | 92 | MrsDontPlay |
-| 685 | 92 | Ladybug |
-| 686 | 92 | Juicy |
-| 687 | 92 | Poppy Twister |
-| 688 | 92 | Ashley Davis |
-| 689 | 92 | Jojo M |
-| 690 | 91 | lady |
-| 691 | 91 | DellaLucretia Thomas |
+| 685 | 92 | Juicy |
+| 686 | 92 | Ladybug |
+| 687 | 92 | Ashley Davis |
+| 688 | 92 | Jojo M |
+| 689 | 92 | Poppy Twister |
+| 690 | 91 | DellaLucretia Thomas |
+| 691 | 91 | lady |
 | 692 | 91 | Cheryl Miller |
 | 693 | 91 | David A Alvino |
-| 694 | 90 | Essence Jones |
-| 695 | 90 | Missy Myvette |
-| 696 | 90 | Esha I'msoproudofmyself Davis |
-| 697 | 90 | Rissa Rozay |
-| 698 | 90 | Stephanie Ellis |
-| 699 | 90 | Tramaine Crockrum |
-| 700 | 90 | mya |
-| 701 | 90 | Jennifer Moore |
-| 702 | 90 | Jason Saputo |
-| 703 | 90 | Linda Lasha Messenger |
-| 704 | 90 | crumb bumc |
-| 705 | 90 | Slinky Fallzone |
-| 706 | 90 | Dannie |
-| 707 | 89 | Jazzy Bridger |
-| 708 | 89 | Johnathan Deese |
-| 709 | 89 | Darrel Pemberton |
+| 694 | 90 | crumb bumc |
+| 695 | 90 | Slinky Fallzone |
+| 696 | 90 | Jason Saputo |
+| 697 | 90 | Jennifer Moore |
+| 698 | 90 | Dannie |
+| 699 | 90 | Esha I'msoproudofmyself Davis |
+| 700 | 90 | Stephanie Ellis |
+| 701 | 90 | Rissa Rozay |
+| 702 | 90 | Linda Lasha Messenger |
+| 703 | 90 | Missy Myvette |
+| 704 | 90 | mya |
+| 705 | 90 | Essence Jones |
+| 706 | 90 | Tramaine Crockrum |
+| 707 | 89 | Tracy Feyler |
+| 708 | 89 | Jazzy Bridger |
+| 709 | 89 | Spicy Shatterblock |
 | 710 | 89 | StingerD |
 | 711 | 89 | Naee Bee |
-| 712 | 89 | Marc Papa |
-| 713 | 89 | Spicy Shatterblock |
-| 714 | 89 | Tracy Feyler |
-| 715 | 88 | Ryan Runyan |
-| 716 | 88 | Maria Baez Medina |
-| 717 | 87 | LexiiSamayaa |
-| 718 | 87 | Denise Cunningham-English |
-| 719 | 87 | Samona Mcculler |
-| 720 | 87 | Pj Rojas |
-| 721 | 87 | Clipzby |
-| 722 | 87 | Angela L Charles |
+| 712 | 89 | Johnathan Deese |
+| 713 | 89 | Kristine Marie Palmer |
+| 714 | 89 | Darrel Pemberton |
+| 715 | 89 | Marc Papa |
+| 716 | 88 | Ryan Runyan |
+| 717 | 88 | Maria Baez Medina |
+| 718 | 87 | Samona Mcculler |
+| 719 | 87 | Denise Cunningham-English |
+| 720 | 87 | Clipzby |
+| 721 | 87 | Angela L Charles |
+| 722 | 87 | Pj Rojas |
 | 723 | 87 | Natalie Burroughs |
-| 724 | 86 | Danny M GR |
-| 725 | 86 | Saucy Faller |
-| 726 | 86 | krd |
+| 724 | 87 | LexiiSamayaa |
+| 725 | 86 | Marie Wilson |
+| 726 | 86 | RylonJones |
 | 727 | 86 | LaTonya Rivers |
-| 728 | 86 | Tweet Turner |
-| 729 | 86 | RylonJones |
-| 730 | 86 | Marie Wilson |
-| 731 | 85 | Desi Guerra |
-| 732 | 85 | TotoCherue |
-| 733 | 85 | Anthony Collins |
-| 734 | 85 | Kimberly Noble |
-| 735 | 85 | Chereese Harris |
-| 736 | 85 | Sarah Swietlicki - Lopez |
+| 728 | 86 | Danny M GR |
+| 729 | 86 | Tweet Turner |
+| 730 | 86 | Saucy Faller |
+| 731 | 86 | krd |
+| 732 | 85 | Chereese Harris |
+| 733 | 85 | Duncan Timothy |
+| 734 | 85 | TotoCherue |
+| 735 | 85 | Kimberly Noble |
+| 736 | 85 | Eric Machuca |
 | 737 | 85 | Bobby Chestefield |
-| 738 | 85 | Duncan Timothy |
-| 739 | 85 | Eric Machuca |
-| 740 | 84 | TRUBBLE45 |
-| 741 | 84 | Franklin Sotelo |
-| 742 | 84 | Stanley Dixon |
-| 743 | 84 | Just2Play$ |
-| 744 | 84 | Sunny Tumbler |
-| 745 | 84 | Dawn Basemore |
-| 746 | 84 | Kristine Marie Palmer |
+| 738 | 85 | Sarah Swietlicki - Lopez |
+| 739 | 85 | Anthony Collins |
+| 740 | 85 | Desi Guerra |
+| 741 | 84 | TRUBBLE45 |
+| 742 | 84 | Franklin Sotelo |
+| 743 | 84 | Stanley Dixon |
+| 744 | 84 | Just2Play$ |
+| 745 | 84 | Sunny Tumbler |
+| 746 | 84 | Dawn Basemore |
 | 747 | 83 | John C Sexton |
 | 748 | 83 | Shakmar |
 | 749 | 83 | Dirty Deeds |
