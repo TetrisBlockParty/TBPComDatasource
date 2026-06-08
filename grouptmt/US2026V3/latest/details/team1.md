@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:14:43 UTC
+# Standings for team1 as of 2026-06-08 08:15:21 UTC
 
 **Total Participants:** 1762
 
@@ -159,9 +159,9 @@
 | 151 | 482 | Jamal Itzjusmall Chambers |
 | 152 | 482 | Spunky Edgefit |
 | 153 | 477 | Nobles Brandon |
-| 154 | 474 | La'Chae Nickole |
-| 155 | 470 | Tammye Turner |
-| 156 | 468 | Slinky Party |
+| 154 | 474 | Slinky Party |
+| 155 | 474 | La'Chae Nickole |
+| 156 | 470 | Tammye Turner |
 | 157 | 467 | Lesley Brunkus Cianfaglione |
 | 158 | 466 | Tootsie Pop |
 | 159 | 456 | Cachet A Ward |
@@ -245,10 +245,10 @@
 | 237 | 318 | Calvin Green |
 | 238 | 318 | Nerdy Snapfall |
 | 239 | 317 | Michelle Titus |
-| 240 | 315 | Koi |
-| 241 | 314 | Cheeky Pop |
-| 242 | 313 | Jhonny Maii |
-| 243 | 311 | Byron Mario Cawthon |
+| 240 | 316 | Byron Mario Cawthon |
+| 241 | 315 | Koi |
+| 242 | 314 | Cheeky Pop |
+| 243 | 313 | Jhonny Maii |
 | 244 | 311 | Coco |
 | 245 | 310 | Denise B |
 | 246 | 309 | Brave Clearbuilder |
