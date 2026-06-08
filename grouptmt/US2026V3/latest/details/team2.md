@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:02:19 UTC
+# Standings for team2 as of 2026-06-08 06:02:42 UTC
 
 **Total Participants:** 2114
 
@@ -205,7 +205,7 @@
 | 197 | 449 | Danielle Blount |
 | 198 | 448 | Eric Drane |
 | 199 | 445 | Gabrielle Wilson |
-| 200 | 434 | Frilly Dashfit |
+| 200 | 442 | Frilly Dashfit |
 | 201 | 434 | Janelle Edgecombe |
 | 202 | 432 | Twisty Buildgrid |
 | 203 | 431 | AndyJo |
@@ -1012,15 +1012,15 @@
 | 1004 | 78 | Chirpy Tower |
 | 1005 | 77 | Renee Craig |
 | 1006 | 77 | sampson |
-| 1007 | 77 | Dawn Marie |
-| 1008 | 77 | Witty Clearbuilder |
-| 1009 | 77 | Just Me |
-| 1010 | 77 | James Maness |
-| 1011 | 77 | LyndaLou |
-| 1012 | 76 | Joe Dirilo |
-| 1013 | 76 | BoxerMom |
-| 1014 | 76 | Travis Bundrum |
-| 1015 | 76 | Joyce Galloway |
+| 1007 | 77 | Joyce Galloway |
+| 1008 | 77 | Dawn Marie |
+| 1009 | 77 | Witty Clearbuilder |
+| 1010 | 77 | Just Me |
+| 1011 | 77 | James Maness |
+| 1012 | 77 | LyndaLou |
+| 1013 | 76 | Joe Dirilo |
+| 1014 | 76 | BoxerMom |
+| 1015 | 76 | Travis Bundrum |
 | 1016 | 76 | Jolly Brickroll |
 | 1017 | 75 | Laura Turner |
 | 1018 | 75 | Anthony Chavez |

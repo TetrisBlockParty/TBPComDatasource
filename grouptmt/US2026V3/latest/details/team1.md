@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:02:19 UTC
+# Standings for team1 as of 2026-06-08 06:02:42 UTC
 
 **Total Participants:** 1737
 
@@ -209,10 +209,10 @@
 | 201 | 363 | Christina Rebecca |
 | 202 | 362 | Jessica Russell |
 | 203 | 361 | John Staub |
-| 204 | 356 | Dedra M Prester |
-| 205 | 356 | Haley Bell |
-| 206 | 354 | Keke Ferguson |
-| 207 | 354 | Mic Balew |
+| 204 | 357 | Mic Balew |
+| 205 | 356 | Dedra M Prester |
+| 206 | 356 | Haley Bell |
+| 207 | 354 | Keke Ferguson |
 | 208 | 354 | Block King |
 | 209 | 352 | Jayjay Rich |
 | 210 | 352 | Katherine Short |
@@ -1359,45 +1359,45 @@
 | 1351 | 28 | Cheery T-spin |
 | 1352 | 28 | kiki |
 | 1353 | 28 | Stasha Chaires |
-| 1354 | 27 | Darlene Johnson |
-| 1355 | 27 | katia |
-| 1356 | 27 | Zesty Fitclear |
-| 1357 | 27 | Shaun Baker |
-| 1358 | 27 | Manda Pecora |
-| 1359 | 27 | Ramon Leno Coolridge |
-| 1360 | 27 | Shaylyn Lockwood |
-| 1361 | 27 | scorpiobae |
-| 1362 | 27 | Antoinette GallowayJohnson |
-| 1363 | 27 | Venna Cooper |
-| 1364 | 27 | Vontesha Kidd |
-| 1365 | 27 | Brave Gridmatch |
-| 1366 | 27 | Mighty Curver |
-| 1367 | 27 | Taylor Keisha |
-| 1368 | 27 | Shay Simmons |
-| 1369 | 27 | MsSassygee Boom |
-| 1370 | 27 | marie |
-| 1371 | 26 | Marla |
-| 1372 | 26 | Layla Williams |
-| 1373 | 26 | Lush Risebuilder |
-| 1374 | 26 | Konkrete Pop |
-| 1375 | 26 | Lively Strikesnap |
-| 1376 | 26 | Laura Long |
-| 1377 | 26 | Rose Smith |
-| 1378 | 26 | jasi |
+| 1354 | 27 | Dani McLeod |
+| 1355 | 27 | Mighty Curver |
+| 1356 | 27 | Brave Gridmatch |
+| 1357 | 27 | marie |
+| 1358 | 27 | Venna Cooper |
+| 1359 | 27 | Shaylyn Lockwood |
+| 1360 | 27 | katia |
+| 1361 | 27 | Zesty Fitclear |
+| 1362 | 27 | Shaun Baker |
+| 1363 | 27 | Manda Pecora |
+| 1364 | 27 | Ramon Leno Coolridge |
+| 1365 | 27 | scorpiobae |
+| 1366 | 27 | Antoinette GallowayJohnson |
+| 1367 | 27 | Darlene Johnson |
+| 1368 | 27 | Vontesha Kidd |
+| 1369 | 27 | Taylor Keisha |
+| 1370 | 27 | MsSassygee Boom |
+| 1371 | 27 | Shay Simmons |
+| 1372 | 26 | Konkrete Pop |
+| 1373 | 26 | Ana Torres |
+| 1374 | 26 | Rose Smith |
+| 1375 | 26 | Laura Long |
+| 1376 | 26 | Lively Strikesnap |
+| 1377 | 26 | jasi |
+| 1378 | 26 | jae |
 | 1379 | 26 | Teena K Macon |
-| 1380 | 26 | jae |
-| 1381 | 26 | Ana Torres |
-| 1382 | 25 | RossA |
-| 1383 | 25 | BlessedBeauty |
-| 1384 | 25 | Amanda Bell |
+| 1380 | 26 | Marla |
+| 1381 | 26 | Lush Risebuilder |
+| 1382 | 26 | Layla Williams |
+| 1383 | 25 | Jessie Wallace |
+| 1384 | 25 | Talya Richards |
 | 1385 | 25 | Latanya Gayle |
-| 1386 | 25 | Jessie Wallace |
-| 1387 | 25 | Talya Richards |
-| 1388 | 25 | Princess Nevaeh |
+| 1386 | 25 | Mighty Riserbuilder |
+| 1387 | 25 | Amanda Bell |
+| 1388 | 25 | BlessedBeauty |
 | 1389 | 25 | PennyCandee |
-| 1390 | 25 | Mighty Riserbuilder |
-| 1391 | 25 | Dinky da Don |
-| 1392 | 25 | Dani McLeod |
+| 1390 | 25 | RossA |
+| 1391 | 25 | Princess Nevaeh |
+| 1392 | 25 | Dinky da Don |
 | 1393 | 24 | David Sk Vaughan Jr. |
 | 1394 | 24 | TanB53 |
 | 1395 | 24 | Kevin Witdaflute |
