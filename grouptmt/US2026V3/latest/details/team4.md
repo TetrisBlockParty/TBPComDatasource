@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:02:21 UTC
+# Standings for team4 as of 2026-06-08 12:02:44 UTC
 
 **Total Participants:** 1821
 
@@ -550,44 +550,44 @@
 | 542 | 140 | Marie Adkins |
 | 543 | 140 | Loopy Hitter |
 | 544 | 140 | Lana Tran |
-| 545 | 140 | alxhue04 |
+| 545 | 140 | Marcus Fontenot |
 | 546 | 140 | Shia Marie |
-| 547 | 140 | Marcus Fontenot |
-| 548 | 139 | Gigi5 |
-| 549 | 139 | Jacinta Hooker-Brown |
-| 550 | 139 | Rae Saunders |
-| 551 | 139 | Perry Ransom |
-| 552 | 139 | Brendan Craven |
-| 553 | 138 | aga |
-| 554 | 138 | All knowing |
-| 555 | 138 | Anna Ryan |
-| 556 | 138 | Kimberly Ann |
-| 557 | 138 | Ami Ferguson |
-| 558 | 138 | Karr |
-| 559 | 138 | Raising Stars |
-| 560 | 137 | Maricela Joslin |
-| 561 | 137 | Robert Moore |
+| 547 | 140 | alxhue04 |
+| 548 | 139 | Shawna Downey |
+| 549 | 139 | Brendan Craven |
+| 550 | 139 | Gigi5 |
+| 551 | 139 | Rae Saunders |
+| 552 | 139 | Jacinta Hooker-Brown |
+| 553 | 139 | Perry Ransom |
+| 554 | 138 | Raising Stars |
+| 555 | 138 | Karr |
+| 556 | 138 | Ami Ferguson |
+| 557 | 138 | Anna Ryan |
+| 558 | 138 | Kimberly Ann |
+| 559 | 138 | All knowing |
+| 560 | 138 | aga |
+| 561 | 137 | Maricela Joslin |
 | 562 | 137 | Tanya AfricanQueen Savage |
-| 563 | 137 | Happy Filler |
-| 564 | 137 | TheazO |
-| 565 | 136 | Jay Dee |
-| 566 | 135 | my my |
-| 567 | 135 | Spicy Peach |
-| 568 | 135 | Tre'nya Smith |
-| 569 | 135 | JustLessie |
-| 570 | 135 | Jennifer Terrill |
-| 571 | 135 | Lupe Chapa |
-| 572 | 134 | Lisa Jones |
-| 573 | 134 | Clever Patterner |
-| 574 | 134 | Josh Keith Travierso |
-| 575 | 134 | Shawna Downey |
-| 576 | 133 | Domo Dpn |
-| 577 | 133 | Dennis Montoya |
+| 563 | 137 | Robert Moore |
+| 564 | 137 | Happy Filler |
+| 565 | 137 | TheazO |
+| 566 | 136 | Jay Dee |
+| 567 | 135 | Tre'nya Smith |
+| 568 | 135 | Spicy Peach |
+| 569 | 135 | my my |
+| 570 | 135 | JustLessie |
+| 571 | 135 | Jennifer Terrill |
+| 572 | 135 | Lisa Jones |
+| 573 | 135 | Lupe Chapa |
+| 574 | 134 | Clever Patterner |
+| 575 | 134 | Josh Keith Travierso |
+| 576 | 133 | Dennis Montoya |
+| 577 | 133 | Domo Dpn |
 | 578 | 133 | Sonia Cordero-Martinez |
 | 579 | 133 | Frilly Zoney |
-| 580 | 132 | William Brooks |
-| 581 | 132 | Sarah |
-| 582 | 132 | MrLoner Stoner |
+| 580 | 132 | MrLoner Stoner |
+| 581 | 132 | William Brooks |
+| 582 | 132 | Sarah |
 | 583 | 132 | Virgil Mayfield-Brown |
 | 584 | 132 | Gma420 |
 | 585 | 131 | luluraine |
@@ -1441,82 +1441,82 @@
 | 1433 | 30 | Epic Shatterline |
 | 1434 | 30 | MamaaCaashh |
 | 1435 | 29 | thaDon |
-| 1436 | 29 | LIZ |
-| 1437 | 29 | Lola |
-| 1438 | 29 | Quirky Puzzler |
-| 1439 | 29 | Theresa Jo Nelson |
-| 1440 | 29 | Naybel85 |
-| 1441 | 29 | Monica Selwyn |
-| 1442 | 29 | Crafty Linkfall |
-| 1443 | 29 | Jenni |
-| 1444 | 29 | Mumsy |
-| 1445 | 29 | Epic Dashfit |
-| 1446 | 29 | Bouncy Fitblock |
-| 1447 | 29 | Garett Lahti |
-| 1448 | 28 | Khaalida Muhammad Jackson |
-| 1449 | 28 | ApexVibez |
-| 1450 | 28 | Lori Sohn |
-| 1451 | 28 | Christina Hagan |
-| 1452 | 28 | Snazzy Balanceblock |
-| 1453 | 27 | Rebecca Cook |
-| 1454 | 27 | pisces26luna |
-| 1455 | 27 | Alexis William |
-| 1456 | 27 | Danielle Clutter |
-| 1457 | 27 | boo |
-| 1458 | 27 | Misty Harland |
-| 1459 | 27 | Loopy Bridger |
-| 1460 | 27 | Angela Correa |
-| 1461 | 27 | PIPPI |
-| 1462 | 27 | NotAkaren Barker |
-| 1463 | 27 | Arlee Woodall |
-| 1464 | 27 | Myranda Gereau |
-| 1465 | 27 | Twisty Gridclear |
-| 1466 | 26 | Shakita Moore-Bernard |
-| 1467 | 26 | Rebecca Rae Reed |
-| 1468 | 26 | Dee Modest |
-| 1469 | 26 | Jessica Huber |
-| 1470 | 26 | Ivyleata McFadden |
-| 1471 | 26 | AJscooter |
-| 1472 | 26 | Lacey Decker |
-| 1473 | 26 | EKM |
-| 1474 | 26 | Rob$GEE |
-| 1475 | 26 | Leslie Marie WarClub |
-| 1476 | 26 | Frby Amberr |
-| 1477 | 26 | Love GH |
-| 1478 | 26 | Socorro Arredondo |
-| 1479 | 26 | Kevin Lyles |
-| 1480 | 26 | Taylor Renee |
+| 1436 | 29 | Speedy Twistslam |
+| 1437 | 29 | LIZ |
+| 1438 | 29 | Lola |
+| 1439 | 29 | Quirky Puzzler |
+| 1440 | 29 | Theresa Jo Nelson |
+| 1441 | 29 | Naybel85 |
+| 1442 | 29 | Monica Selwyn |
+| 1443 | 29 | Crafty Linkfall |
+| 1444 | 29 | Jenni |
+| 1445 | 29 | Mumsy |
+| 1446 | 29 | Epic Dashfit |
+| 1447 | 29 | Bouncy Fitblock |
+| 1448 | 29 | Garett Lahti |
+| 1449 | 28 | Khaalida Muhammad Jackson |
+| 1450 | 28 | ApexVibez |
+| 1451 | 28 | Lori Sohn |
+| 1452 | 28 | Christina Hagan |
+| 1453 | 28 | Snazzy Balanceblock |
+| 1454 | 27 | Rebecca Cook |
+| 1455 | 27 | pisces26luna |
+| 1456 | 27 | Alexis William |
+| 1457 | 27 | Danielle Clutter |
+| 1458 | 27 | boo |
+| 1459 | 27 | Misty Harland |
+| 1460 | 27 | Loopy Bridger |
+| 1461 | 27 | Angela Correa |
+| 1462 | 27 | PIPPI |
+| 1463 | 27 | NotAkaren Barker |
+| 1464 | 27 | Arlee Woodall |
+| 1465 | 27 | Myranda Gereau |
+| 1466 | 27 | Twisty Gridclear |
+| 1467 | 26 | Shakita Moore-Bernard |
+| 1468 | 26 | Rebecca Rae Reed |
+| 1469 | 26 | Dee Modest |
+| 1470 | 26 | Jessica Huber |
+| 1471 | 26 | Ivyleata McFadden |
+| 1472 | 26 | AJscooter |
+| 1473 | 26 | Lacey Decker |
+| 1474 | 26 | EKM |
+| 1475 | 26 | Rob$GEE |
+| 1476 | 26 | Leslie Marie WarClub |
+| 1477 | 26 | Frby Amberr |
+| 1478 | 26 | Love GH |
+| 1479 | 26 | Socorro Arredondo |
+| 1480 | 26 | Kevin Lyles |
 | 1481 | 26 | Von |
-| 1482 | 26 | Glenda Zulueta Steed |
-| 1483 | 26 | Gabby |
-| 1484 | 25 | Crafty Slamdrop |
-| 1485 | 25 | Joyell Mersiel |
-| 1486 | 25 | Danielle Church |
-| 1487 | 25 | Snoopie Johnson |
-| 1488 | 25 | MoCa |
-| 1489 | 25 | Daisy Jaramillo |
-| 1490 | 25 | Tipsy toesy |
-| 1491 | 25 | José A Torres |
-| 1492 | 25 | Rell geez |
-| 1493 | 25 | Amy |
-| 1494 | 25 | chapis |
-| 1495 | 25 | Sheries |
-| 1496 | 25 | Giggy Mover |
-| 1497 | 25 | Nina Martinez |
-| 1498 | 25 | LuLazer27 |
-| 1499 | 25 | Jessikunt Gdula Pierre |
-| 1500 | 25 | Gellix |
-| 1501 | 24 | Margarita Santana |
-| 1502 | 24 | Hannah White |
-| 1503 | 24 | Conela Rouse Goldstein |
-| 1504 | 24 | DTM0013 |
-| 1505 | 24 | Tameka Harrison |
-| 1506 | 24 | Katiana Gonzalez |
-| 1507 | 24 | Flashy Wipebuilder |
-| 1508 | 24 | Tammie Baechler |
-| 1509 | 24 | Kenny Nguyen |
-| 1510 | 24 | Snappy Blockzone |
-| 1511 | 24 | Speedy Twistslam |
+| 1482 | 26 | Taylor Renee |
+| 1483 | 26 | Glenda Zulueta Steed |
+| 1484 | 26 | Gabby |
+| 1485 | 25 | Crafty Slamdrop |
+| 1486 | 25 | Joyell Mersiel |
+| 1487 | 25 | Danielle Church |
+| 1488 | 25 | Snoopie Johnson |
+| 1489 | 25 | MoCa |
+| 1490 | 25 | Daisy Jaramillo |
+| 1491 | 25 | Tipsy toesy |
+| 1492 | 25 | José A Torres |
+| 1493 | 25 | Rell geez |
+| 1494 | 25 | Amy |
+| 1495 | 25 | chapis |
+| 1496 | 25 | Sheries |
+| 1497 | 25 | Giggy Mover |
+| 1498 | 25 | Nina Martinez |
+| 1499 | 25 | LuLazer27 |
+| 1500 | 25 | Jessikunt Gdula Pierre |
+| 1501 | 25 | Gellix |
+| 1502 | 24 | Margarita Santana |
+| 1503 | 24 | Hannah White |
+| 1504 | 24 | Conela Rouse Goldstein |
+| 1505 | 24 | DTM0013 |
+| 1506 | 24 | Tameka Harrison |
+| 1507 | 24 | Katiana Gonzalez |
+| 1508 | 24 | Flashy Wipebuilder |
+| 1509 | 24 | Tammie Baechler |
+| 1510 | 24 | Kenny Nguyen |
+| 1511 | 24 | Snappy Blockzone |
 | 1512 | 24 | Jane M Tiller |
 | 1513 | 24 | Kriss Owens Uptegrove |
 | 1514 | 24 | Chelsea Pigg |
