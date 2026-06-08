@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 00:30:43 UTC
+# Standings for team4 as of 2026-06-08 00:31:17 UTC
 
 **Total Participants:** 1673
 
@@ -77,8 +77,8 @@
 | 69 | 952 | Alala.Cersei |
 | 70 | 950 | Sassy Column |
 | 71 | 949 | Tiffany Loree Tiffany Oneill |
-| 72 | 924 | Sweet Stacker |
-| 73 | 924 | woopa 716 |
+| 72 | 924 | woopa 716 |
+| 73 | 924 | Sweet Stacker |
 | 74 | 906 | Hannah Pazar |
 | 75 | 885 | J |
 | 76 | 876 | SMV |
@@ -118,7 +118,7 @@
 | 110 | 610 | Dandy Clearfit |
 | 111 | 598 | Ermadette |
 | 112 | 593 | Caitlyn Wang |
-| 113 | 586 | Kim |
+| 113 | 588 | Kim |
 | 114 | 576 | CJ |
 | 115 | 567 | Cranky Towerbuilder |
 | 116 | 564 | Krysten Danielle Richard |
@@ -131,12 +131,12 @@
 | 123 | 544 | Lisa Garcia |
 | 124 | 535 | Damon Gaston |
 | 125 | 530 | Jewelz |
-| 126 | 528 | Katie Lynn Petit |
-| 127 | 521 | Misty Leigh |
-| 128 | 518 | Jesse Olive |
-| 129 | 518 | Andrew Dang |
-| 130 | 517 | Nikki Fuller Johnson |
-| 131 | 513 | Snappy Fitzone |
+| 126 | 529 | Snappy Fitzone |
+| 127 | 528 | Katie Lynn Petit |
+| 128 | 521 | Misty Leigh |
+| 129 | 518 | Jesse Olive |
+| 130 | 518 | Andrew Dang |
+| 131 | 517 | Nikki Fuller Johnson |
 | 132 | 512 | Esther Hadassah |
 | 133 | 500 | Cherry |
 | 134 | 496 | Jackie Jackson |
@@ -369,9 +369,9 @@
 | 361 | 176 | Dena Lynn Rogers |
 | 362 | 175 | Goofy Fall |
 | 363 | 175 | Cool Risepiece |
-| 364 | 175 | Quiomarie Cotto |
-| 365 | 174 | Stephanie Brock |
-| 366 | 174 | Cari Underwood |
+| 364 | 175 | Cari Underwood |
+| 365 | 175 | Quiomarie Cotto |
+| 366 | 174 | Stephanie Brock |
 | 367 | 173 | Frothy Pattern |
 | 368 | 172 | maria |
 | 369 | 172 | Name |
