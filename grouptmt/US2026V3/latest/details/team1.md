@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:48:43 UTC
+# Standings for team1 as of 2026-06-08 09:49:19 UTC
 
 **Total Participants:** 1771
 
@@ -83,10 +83,10 @@
 | 75 | 1078 | Danielle DeLozier Plesec |
 | 76 | 1071 | Kimberly Hernandez |
 | 77 | 1048 | Chenell Gillard |
-| 78 | 1024 | Chill Clusterer |
-| 79 | 1018 | Court Court |
-| 80 | 1017 | Lisa Müller |
-| 81 | 1015 | PandaPrincess |
+| 78 | 1025 | PandaPrincess |
+| 79 | 1024 | Chill Clusterer |
+| 80 | 1018 | Court Court |
+| 81 | 1017 | Lisa Müller |
 | 82 | 995 | Whitney Butler |
 | 83 | 967 | KenpachisGirl |
 | 84 | 939 | Uneekly Mayde |
