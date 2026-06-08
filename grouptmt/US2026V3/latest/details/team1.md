@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:32:43 UTC
+# Standings for team1 as of 2026-06-08 21:33:22 UTC
 
 **Total Participants:** 1878
 
@@ -27,7 +27,7 @@
 | 19 | 5095 | Cool Bridger |
 | 20 | 4934 | jaimie |
 | 21 | 4621 | Chandler Spencer |
-| 22 | 4472 | Ivana Schmidt |
+| 22 | 4572 | Ivana Schmidt |
 | 23 | 4263 | Pdubbl3 |
 | 24 | 4067 | Erika Windom |
 | 25 | 3972 | Tekedra Wilson |
@@ -282,55 +282,55 @@
 | 274 | 334 | Dai Bo |
 | 275 | 333 | Qwlonda Shirrell |
 | 276 | 331 | Coco |
-| 277 | 330 | ♈️ Ariesbaby |
-| 278 | 330 | Jhonny Maii |
+| 277 | 331 | Lauraly |
+| 278 | 330 | ♈️ Ariesbaby |
 | 279 | 330 | Crystal Boyd |
-| 280 | 330 | Davionte DaeDae Hopson-Rodriguez |
-| 281 | 329 | Bbyunicorn |
-| 282 | 328 | Chummy Frame |
-| 283 | 325 | Cortaz Lawrie |
+| 280 | 330 | Jhonny Maii |
+| 281 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 282 | 329 | Bbyunicorn |
+| 283 | 328 | Chummy Frame |
 | 284 | 325 | Simone Bailey |
-| 285 | 323 | Denise B |
-| 286 | 323 | Sade Goodwine |
-| 287 | 321 | Mikayla |
-| 288 | 321 | Randizzle |
-| 289 | 320 | Natasha Rucker |
-| 290 | 318 | Still Ten Tay |
+| 285 | 325 | Cortaz Lawrie |
+| 286 | 323 | Denise B |
+| 287 | 323 | Sade Goodwine |
+| 288 | 321 | Mikayla |
+| 289 | 321 | Randizzle |
+| 290 | 320 | Natasha Rucker |
 | 291 | 318 | Slinky Brickmatch |
 | 292 | 318 | Nerdy Snapfall |
-| 293 | 317 | Jai |
-| 294 | 317 | Michelle Titus |
-| 295 | 315 | KeeKee Williams |
-| 296 | 314 | Rayya Kiser |
-| 297 | 312 | Ann Chung |
-| 298 | 310 | Clever Fitblock |
-| 299 | 309 | Amber Wilson |
+| 293 | 318 | Still Ten Tay |
+| 294 | 317 | Jai |
+| 295 | 317 | Michelle Titus |
+| 296 | 315 | KeeKee Williams |
+| 297 | 314 | Rayya Kiser |
+| 298 | 312 | Ann Chung |
+| 299 | 310 | Clever Fitblock |
 | 300 | 309 | Brave Clearbuilder |
-| 301 | 307 | Michael J Gresham |
-| 302 | 305 | Salim Thugger |
-| 303 | 304 | Kendra McIntyre |
-| 304 | 303 | Queenie Perry |
-| 305 | 302 | Elizabeth Vega Coreano |
-| 306 | 301 | Penee Wiggins |
-| 307 | 300 | Sharee Robinson |
+| 301 | 309 | Amber Wilson |
+| 302 | 307 | Michael J Gresham |
+| 303 | 305 | Salim Thugger |
+| 304 | 304 | Kendra McIntyre |
+| 305 | 303 | Queenie Perry |
+| 306 | 302 | Elizabeth Vega Coreano |
+| 307 | 301 | Penee Wiggins |
 | 308 | 300 | Nerdy Blockpiece |
-| 309 | 300 | Ketrell Bailey |
+| 309 | 300 | rls |
 | 310 | 300 | Chilly Wipebuilder |
-| 311 | 300 | rls |
-| 312 | 297 | Richard Flex |
-| 313 | 296 | McKayla Owens |
+| 311 | 300 | Sharee Robinson |
+| 312 | 300 | Ketrell Bailey |
+| 313 | 297 | Richard Flex |
 | 314 | 296 | Nikki Hogan |
-| 315 | 295 | Mafio SO |
-| 316 | 295 | Derrius SeriousLee Burks |
-| 317 | 294 | Smiley Clearpiece |
-| 318 | 294 | Frisky Fall |
-| 319 | 294 | Tonya McElroy |
-| 320 | 293 | Erin Sabol |
+| 315 | 296 | McKayla Owens |
+| 316 | 295 | Mafio SO |
+| 317 | 295 | Derrius SeriousLee Burks |
+| 318 | 294 | Tonya McElroy |
+| 319 | 294 | Frisky Fall |
+| 320 | 294 | Smiley Clearpiece |
 | 321 | 293 | Tonya Lee Sanders |
-| 322 | 292 | Alivia Dove |
-| 323 | 292 | Snippy Breaker |
-| 324 | 292 | Shameka Thrasher |
-| 325 | 291 | Lauraly |
+| 322 | 293 | Erin Sabol |
+| 323 | 292 | Alivia Dove |
+| 324 | 292 | Snippy Breaker |
+| 325 | 292 | Shameka Thrasher |
 | 326 | 291 | Brian Taylor |
 | 327 | 288 | Lozuna |
 | 328 | 287 | Tamara Johnson-Carter |
@@ -1297,43 +1297,43 @@
 | 1289 | 44 | Caitlin Michele |
 | 1290 | 44 | Dee Dee |
 | 1291 | 44 | Chipper Clicker |
-| 1292 | 44 | Mark Steven Pichler |
-| 1293 | 44 | Frilly Riserbuilder |
-| 1294 | 44 | Carl Richardson |
-| 1295 | 44 | Connor Leon Cluff |
-| 1296 | 44 | Ernest Maxwell |
-| 1297 | 44 | Kendra KJ Joyner |
-| 1298 | 43 | Alturas Supremenineteen Banks |
+| 1292 | 44 | Connor Leon Cluff |
+| 1293 | 44 | Ernest Maxwell |
+| 1294 | 44 | Frilly Riserbuilder |
+| 1295 | 44 | Kendra KJ Joyner |
+| 1296 | 44 | Carl Richardson |
+| 1297 | 44 | Mark Steven Pichler |
+| 1298 | 43 | Krose Byers |
 | 1299 | 43 | April Ezell |
-| 1300 | 43 | Krose Byers |
-| 1301 | 42 | Bianca Nawlinsgurl Ferguson |
-| 1302 | 42 | Lush Crasher |
-| 1303 | 42 | Terry Lee Moya |
-| 1304 | 42 | Dandy Blockfall |
-| 1305 | 42 | Tempee |
-| 1306 | 42 | BizzyCat |
-| 1307 | 42 | Sunny Riserbuilder |
-| 1308 | 42 | Nadine Coleman |
-| 1309 | 42 | Robyn Ellis |
-| 1310 | 42 | Louise |
-| 1311 | 42 | Tammy Scott Mallen |
-| 1312 | 42 | Rikki Moran |
-| 1313 | 41 | Es Bee |
-| 1314 | 41 | MikeHunt |
-| 1315 | 41 | J Dot Flo |
-| 1316 | 41 | Tim Tim |
-| 1317 | 41 | Sicily Bailey |
-| 1318 | 41 | JLynn Mind Ur's Blackwell |
-| 1319 | 41 | Carolyn |
+| 1300 | 43 | Alturas Supremenineteen Banks |
+| 1301 | 42 | Dandy Blockfall |
+| 1302 | 42 | BizzyCat |
+| 1303 | 42 | Tempee |
+| 1304 | 42 | Sunny Riserbuilder |
+| 1305 | 42 | Nadine Coleman |
+| 1306 | 42 | Terry Lee Moya |
+| 1307 | 42 | Tammy Scott Mallen |
+| 1308 | 42 | Rikki Moran |
+| 1309 | 42 | Louise |
+| 1310 | 42 | Robyn Ellis |
+| 1311 | 42 | Lush Crasher |
+| 1312 | 42 | Bianca Nawlinsgurl Ferguson |
+| 1313 | 41 | Melanin Monroe-Dandridge |
+| 1314 | 41 | Sicily Bailey |
+| 1315 | 41 | MikeHunt |
+| 1316 | 41 | JLynn Mind Ur's Blackwell |
+| 1317 | 41 | Carolyn |
+| 1318 | 41 | Tynetta Scott |
+| 1319 | 41 | Es Bee |
 | 1320 | 41 | Giggly Gridder |
-| 1321 | 41 | Tynetta Scott |
-| 1322 | 40 | Kira Wooten |
-| 1323 | 40 | Brandon Dontell Saunders |
-| 1324 | 40 | Margretta Henry |
-| 1325 | 40 | Cynda Cyn |
-| 1326 | 40 | NiingDing |
-| 1327 | 40 | Katrina Trein Bein Dickerson |
-| 1328 | 40 | Melanin Monroe-Dandridge |
+| 1321 | 41 | Tim Tim |
+| 1322 | 41 | J Dot Flo |
+| 1323 | 40 | Kira Wooten |
+| 1324 | 40 | NiingDing |
+| 1325 | 40 | Brandon Dontell Saunders |
+| 1326 | 40 | Margretta Henry |
+| 1327 | 40 | Cynda Cyn |
+| 1328 | 40 | Katrina Trein Bein Dickerson |
 | 1329 | 40 | Phongoudom Tika |
 | 1330 | 40 | meep |
 | 1331 | 40 | Billz143 |
