@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 14:03:21 UTC
+# Standings for team2 as of 2026-06-08 14:04:20 UTC
 
 **Total Participants:** 2179
 
@@ -74,7 +74,7 @@
 | 66 | 1682 | Elizabeth Sallas |
 | 67 | 1657 | Rashanna Bockhorn |
 | 68 | 1651 | Block Dog |
-| 69 | 1577 | Happy Pivotfall |
+| 69 | 1587 | Happy Pivotfall |
 | 70 | 1577 | Bridget N Jonathan Franz |
 | 71 | 1537 | Brent Bittenbender |
 | 72 | 1534 | Lily |
@@ -111,7 +111,7 @@
 | 103 | 1070 | Michelle Maulsby |
 | 104 | 1067 | Ricardo Ewart |
 | 105 | 1060 | Criccett Hooper-Smith |
-| 106 | 1036 | Jason Cook |
+| 106 | 1059 | Jason Cook |
 | 107 | 1031 | Ruby Sandberg |
 | 108 | 1016 | Amber Salazar |
 | 109 | 1013 | Jef Wassom |
@@ -506,27 +506,27 @@
 | 498 | 198 | TetrisMama |
 | 499 | 197 | Andrea Rawson |
 | 500 | 196 | Mandy |
-| 501 | 196 | Renee Siems |
-| 502 | 196 | Greenie |
+| 501 | 196 | Greenie |
+| 502 | 196 | Renee Siems |
 | 503 | 196 | Spunky Linkblock |
-| 504 | 194 | Jessica Connot |
-| 505 | 192 | Raine |
+| 504 | 195 | Mandy Van Laningham Bishop |
+| 505 | 194 | Jessica Connot |
 | 506 | 192 | Loopy Tower |
-| 507 | 192 | Jessica Melendy |
-| 508 | 191 | Rydin Dirt |
-| 509 | 191 | Nano. |
-| 510 | 190 | Laurie |
+| 507 | 192 | Raine |
+| 508 | 192 | Jessica Melendy |
+| 509 | 191 | Rydin Dirt |
+| 510 | 191 | Nano. |
 | 511 | 190 | Saucy Wrecker |
-| 512 | 189 | Danielle Lyons |
+| 512 | 190 | Laurie |
 | 513 | 189 | Sunny Tiltbuilder |
-| 514 | 187 | Cindy Scott |
-| 515 | 187 | Kenzie |
-| 516 | 187 | Jaimie Walters |
-| 517 | 185 | Nerdy Gridlock |
-| 518 | 185 | straighttiptoe |
-| 519 | 185 | Sillyk |
-| 520 | 185 | Mandy Van Laningham Bishop |
-| 521 | 185 | Brooklyn Todd |
+| 514 | 189 | Danielle Lyons |
+| 515 | 187 | Cindy Scott |
+| 516 | 187 | Kenzie |
+| 517 | 187 | Jaimie Walters |
+| 518 | 185 | Nerdy Gridlock |
+| 519 | 185 | straighttiptoe |
+| 520 | 185 | Brooklyn Todd |
+| 521 | 185 | Sillyk |
 | 522 | 185 | Vicki Flippo |
 | 523 | 185 | Muffin Popper |
 | 524 | 184 | Joannah Capilitan |
@@ -723,28 +723,28 @@
 | 715 | 132 | Michael Anthony Anstead |
 | 716 | 132 | Kalli Bonin |
 | 717 | 131 | Lyndzey Sciscoe |
-| 718 | 131 | Tracey Cox |
-| 719 | 131 | Darla Ragsdale |
-| 720 | 131 | Jessica Bowman |
-| 721 | 130 | Groovy Glider |
-| 722 | 130 | TiffTaff |
-| 723 | 130 | Tiffany Ann |
-| 724 | 130 | gene15 |
-| 725 | 130 | Amanda Bailey |
-| 726 | 130 | Joanie Swann Ruiter |
-| 727 | 130 | Desia Walker |
-| 728 | 129 | Susan Bosell |
-| 729 | 129 | Carrie Smith Negron |
-| 730 | 129 | Kristi K Milner |
-| 731 | 129 | Tammy Botkin |
-| 732 | 129 | Lively Twisterfit |
-| 733 | 129 | Armando Sabedra |
-| 734 | 129 | Chris Delauro |
-| 735 | 128 | Tina Kinney |
-| 736 | 127 | Nicole Suber |
-| 737 | 127 | Tammy Roth |
-| 738 | 127 | Cool Patternbuilder |
-| 739 | 127 | Mrs biotch |
+| 718 | 131 | Mrs biotch |
+| 719 | 131 | Tracey Cox |
+| 720 | 131 | Darla Ragsdale |
+| 721 | 131 | Jessica Bowman |
+| 722 | 130 | Groovy Glider |
+| 723 | 130 | TiffTaff |
+| 724 | 130 | Tiffany Ann |
+| 725 | 130 | gene15 |
+| 726 | 130 | Amanda Bailey |
+| 727 | 130 | Joanie Swann Ruiter |
+| 728 | 130 | Desia Walker |
+| 729 | 129 | Susan Bosell |
+| 730 | 129 | Carrie Smith Negron |
+| 731 | 129 | Kristi K Milner |
+| 732 | 129 | Tammy Botkin |
+| 733 | 129 | Lively Twisterfit |
+| 734 | 129 | Armando Sabedra |
+| 735 | 129 | Chris Delauro |
+| 736 | 128 | Tina Kinney |
+| 737 | 127 | Nicole Suber |
+| 738 | 127 | Tammy Roth |
+| 739 | 127 | Cool Patternbuilder |
 | 740 | 126 | Riggins Terry |
 | 741 | 126 | Earline Dupuy Bordelon |
 | 742 | 126 | Aaron Jones |
