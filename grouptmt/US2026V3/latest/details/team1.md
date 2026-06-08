@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:54:40 UTC
+# Standings for team1 as of 2026-06-08 10:55:19 UTC
 
 **Total Participants:** 1778
 
@@ -138,8 +138,8 @@
 | 130 | 615 | Chuck Quarles |
 | 131 | 601 | Cathy Young |
 | 132 | 601 | JaszyBadd |
-| 133 | 582 | Nutty Spinblock |
-| 134 | 580 | Gael Quintana |
+| 133 | 585 | Gael Quintana |
+| 134 | 582 | Nutty Spinblock |
 | 135 | 573 | Rackemwillie34 |
 | 136 | 566 | Trendalyn Webb |
 | 137 | 565 | Gotcha |
