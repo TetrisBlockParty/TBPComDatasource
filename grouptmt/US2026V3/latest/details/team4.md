@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:31:19 UTC
+# Standings for team4 as of 2026-06-08 08:32:19 UTC
 
 **Total Participants:** 1800
 
@@ -17,7 +17,7 @@
 | 9 | 6401 | BertaF1irta |
 | 10 | 6108 | Kait Confetti |
 | 11 | 5307 | Hasty Builder |
-| 12 | 5278 | Bubbly Twistpiece |
+| 12 | 5283 | Bubbly Twistpiece |
 | 13 | 5180 | Jerald Jones |
 | 14 | 5123 | delilahbelle |
 | 15 | 5041 | Squirrel Donkey |
@@ -214,8 +214,8 @@
 | 206 | 340 | Jojo Ann |
 | 207 | 336 | Samantha Worley |
 | 208 | 336 | Plucky Shatterfit |
-| 209 | 334 | Dazzle Dragon |
-| 210 | 333 | Kelly Howland |
+| 209 | 334 | Kelly Howland |
+| 210 | 334 | Dazzle Dragon |
 | 211 | 331 | Wendy Zentz |
 | 212 | 331 | Perky Riserbuilder |
 | 213 | 330 | Fran Aaron-Ring |
@@ -949,23 +949,23 @@
 | 941 | 70 | Tactical_B |
 | 942 | 70 | Uh Lesh Uh |
 | 943 | 70 | Alicia Horsea Rojas |
-| 944 | 69 | Derrek Lee |
-| 945 | 69 | Leslie |
-| 946 | 69 | Vergie Michael |
-| 947 | 69 | Goddatbat |
-| 948 | 69 | Ashley Ferguson |
-| 949 | 69 | Alex Dawn |
-| 950 | 69 | Tonia Kay |
-| 951 | 68 | Phredda Helene Gavornik |
-| 952 | 68 | Kelley Shoop |
-| 953 | 68 | Bigmamalizzet Latto |
-| 954 | 68 | Keys Tome |
-| 955 | 68 | Sweetfire |
-| 956 | 68 | Tahira Patrice |
-| 957 | 68 | FUNBAT |
-| 958 | 68 | Curved carrot |
-| 959 | 68 | Kelly Kabelac Loomis |
-| 960 | 67 | crazy lazy |
+| 944 | 70 | crazy lazy |
+| 945 | 69 | Derrek Lee |
+| 946 | 69 | Leslie |
+| 947 | 69 | Vergie Michael |
+| 948 | 69 | Goddatbat |
+| 949 | 69 | Ashley Ferguson |
+| 950 | 69 | Alex Dawn |
+| 951 | 69 | Tonia Kay |
+| 952 | 68 | Phredda Helene Gavornik |
+| 953 | 68 | Kelley Shoop |
+| 954 | 68 | Bigmamalizzet Latto |
+| 955 | 68 | Keys Tome |
+| 956 | 68 | Sweetfire |
+| 957 | 68 | Tahira Patrice |
+| 958 | 68 | FUNBAT |
+| 959 | 68 | Curved carrot |
+| 960 | 68 | Kelly Kabelac Loomis |
 | 961 | 67 | Janna Thompson |
 | 962 | 67 | Glittara |
 | 963 | 67 | JuicyJay |
