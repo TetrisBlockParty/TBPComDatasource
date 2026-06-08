@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 13:52:41 UTC
+# Standings for team4 as of 2026-06-08 13:53:20 UTC
 
 **Total Participants:** 1839
 
@@ -228,9 +228,9 @@
 | 220 | 351 | Colin |
 | 221 | 350 | Genag |
 | 222 | 346 | Alexis Cor |
-| 223 | 344 | Jackie Polanco |
-| 224 | 343 | matt |
-| 225 | 341 | Pepper |
+| 223 | 344 | Pepper |
+| 224 | 344 | Jackie Polanco |
+| 225 | 343 | matt |
 | 226 | 340 | Jojo Ann |
 | 227 | 340 | Holly Wessel |
 | 228 | 338 | Kelly Howland |
@@ -458,40 +458,40 @@
 | 450 | 182 | Candiecane324 |
 | 451 | 182 | Ashley Eskridge |
 | 452 | 181 | Linda Miltenburg |
-| 453 | 180 | EvoKitty |
-| 454 | 180 | Tipsy Piecebuilder |
+| 453 | 180 | Tipsy Piecebuilder |
+| 454 | 180 | EvoKitty |
 | 455 | 180 | Silly Rollbuilder |
 | 456 | 179 | LaTanya GeminiondaRise Johnson |
 | 457 | 178 | Alexsandra Hill |
-| 458 | 178 | Robert Moore |
-| 459 | 178 | Heidi Anne Scheiderer |
-| 460 | 178 | Linda |
-| 461 | 176 | Dena Lynn Rogers |
-| 462 | 176 | Erik Clary |
+| 458 | 178 | Linda |
+| 459 | 178 | Robert Moore |
+| 460 | 178 | Heidi Anne Scheiderer |
+| 461 | 177 | Suzanne North |
+| 462 | 176 | Dena Lynn Rogers |
 | 463 | 176 | Keith Kosmicki |
-| 464 | 175 | Quiomarie Cotto |
-| 465 | 175 | Cool Risepiece |
-| 466 | 175 | Mrsjcraw18 |
-| 467 | 175 | Cherrypir05 |
-| 468 | 174 | Mmm |
-| 469 | 174 | Perry Ransom |
-| 470 | 174 | Eddie Fuller |
-| 471 | 172 | Jen Roe |
-| 472 | 172 | BookwormCate |
-| 473 | 172 | Kea Sushi |
-| 474 | 171 | Jen Smith |
+| 464 | 176 | Erik Clary |
+| 465 | 175 | Cherrypir05 |
+| 466 | 175 | Cool Risepiece |
+| 467 | 175 | Mrsjcraw18 |
+| 468 | 175 | Quiomarie Cotto |
+| 469 | 174 | Mmm |
+| 470 | 174 | Perry Ransom |
+| 471 | 174 | Eddie Fuller |
+| 472 | 172 | Jen Roe |
+| 473 | 172 | BookwormCate |
+| 474 | 172 | Kea Sushi |
 | 475 | 171 | Joe Richard |
-| 476 | 170 | Earl Edwards |
-| 477 | 170 | Natalie Dillard |
-| 478 | 170 | Henry Lanier |
-| 479 | 170 | Edward White |
-| 480 | 170 | Brandon Bedenbaugh |
-| 481 | 169 | Jeri Anne Stormo-Toman |
-| 482 | 168 | Corie A. Brinson |
+| 476 | 171 | Jen Smith |
+| 477 | 170 | Henry Lanier |
+| 478 | 170 | Edward White |
+| 479 | 170 | Earl Edwards |
+| 480 | 170 | Natalie Dillard |
+| 481 | 170 | Brandon Bedenbaugh |
+| 482 | 169 | Jeri Anne Stormo-Toman |
 | 483 | 168 | Juvon SupaShawdii Brooks |
-| 484 | 167 | Jessica Jones Bolton |
-| 485 | 167 | Brainbabe |
-| 486 | 167 | Suzanne North |
+| 484 | 168 | Corie A. Brinson |
+| 485 | 167 | Jessica Jones Bolton |
+| 486 | 167 | Brainbabe |
 | 487 | 167 | Rosy Perez |
 | 488 | 167 | Clever Patterner |
 | 489 | 166 | Stotty |
@@ -718,8 +718,8 @@
 | 710 | 110 | Clever Brickzone |
 | 711 | 109 | Playful Raccoon |
 | 712 | 109 | Tiffany Roberts |
-| 713 | 109 | Breezy Blockzone |
-| 714 | 109 | Frisky Blocker |
+| 713 | 109 | Frisky Blocker |
+| 714 | 109 | Breezy Blockzone |
 | 715 | 108 | Miranda Brown |
 | 716 | 108 | KingCas |
 | 717 | 108 | sierrabeth |
@@ -729,27 +729,27 @@
 | 721 | 107 | Daniel Lossman |
 | 722 | 106 | Helen Bradley |
 | 723 | 106 | Deana Teck |
-| 724 | 106 | Charlene Nicole Guidry |
-| 725 | 105 | Jennifer Evans Elliott |
-| 726 | 105 | Mar Mar |
-| 727 | 105 | Heather Brown |
-| 728 | 105 | Debby Muniz |
+| 724 | 106 | Lady |
+| 725 | 106 | Charlene Nicole Guidry |
+| 726 | 105 | Jennifer Evans Elliott |
+| 727 | 105 | Mar Mar |
+| 728 | 105 | Renita Jordan |
 | 729 | 105 | Surviving Be Back Soon |
-| 730 | 105 | Renita Jordan |
-| 731 | 104 | JayJay Smith |
-| 732 | 104 | Goofy Riserbuilder |
-| 733 | 103 | Lady |
-| 734 | 103 | Courtney Niichole |
-| 735 | 103 | Kayla Haddenham |
+| 730 | 105 | Heather Brown |
+| 731 | 105 | Debby Muniz |
+| 732 | 104 | JayJay Smith |
+| 733 | 104 | Goofy Riserbuilder |
+| 734 | 103 | Kayla Haddenham |
+| 735 | 103 | Courtney Niichole |
 | 736 | 102 | Lamont |
 | 737 | 102 | Cail |
-| 738 | 102 | Chabetta |
-| 739 | 102 | Taisha Beasley |
+| 738 | 102 | Taisha Beasley |
+| 739 | 102 | Chabetta |
 | 740 | 102 | Brenda Gustamantes |
 | 741 | 102 | Clever Fallzone |
-| 742 | 101 | Audrianna Skaff |
-| 743 | 101 | Leasa Marie |
-| 744 | 101 | SueSally |
+| 742 | 101 | SueSally |
+| 743 | 101 | Audrianna Skaff |
+| 744 | 101 | Leasa Marie |
 | 745 | 101 | Alaina Rousseau |
 | 746 | 101 | Scot Matthew Bergdorf |
 | 747 | 101 | Kimberly Lusk |
@@ -1115,28 +1115,28 @@
 | 1107 | 58 | Yaya Selbor |
 | 1108 | 58 | Kalisha Monique Wright |
 | 1109 | 58 | Ashley McGeehan |
-| 1110 | 58 | -daiko |
-| 1111 | 58 | LynDee Danielle Hankins |
-| 1112 | 58 | Matt Akm |
+| 1110 | 58 | LynDee Danielle Hankins |
+| 1111 | 58 | Matt Akm |
+| 1112 | 58 | -daiko |
 | 1113 | 57 | Melissa Rathbun |
-| 1114 | 57 | Momma Boss |
-| 1115 | 57 | Speedy Brick |
-| 1116 | 57 | Budda Huitt |
-| 1117 | 57 | Brandi Gray |
-| 1118 | 57 | Clever Shuffler |
-| 1119 | 57 | Lateasha Wildman |
-| 1120 | 57 | PapaB |
-| 1121 | 57 | Meela Abdurrab |
-| 1122 | 57 | Heather Hilferty |
-| 1123 | 57 | Волна Бог |
-| 1124 | 57 | Savage |
-| 1125 | 56 | Krystalclear |
-| 1126 | 56 | BigCup ReeseCup |
-| 1127 | 56 | Crystal Morrin |
-| 1128 | 56 | TSM Ballsniffer |
-| 1129 | 56 | Jessica Armistead |
-| 1130 | 56 | bribop |
-| 1131 | 56 | Speedy Twistslam |
+| 1114 | 57 | Speedy Twistslam |
+| 1115 | 57 | Momma Boss |
+| 1116 | 57 | Speedy Brick |
+| 1117 | 57 | Budda Huitt |
+| 1118 | 57 | Brandi Gray |
+| 1119 | 57 | Clever Shuffler |
+| 1120 | 57 | Lateasha Wildman |
+| 1121 | 57 | PapaB |
+| 1122 | 57 | Meela Abdurrab |
+| 1123 | 57 | Heather Hilferty |
+| 1124 | 57 | Волна Бог |
+| 1125 | 57 | Savage |
+| 1126 | 56 | Krystalclear |
+| 1127 | 56 | BigCup ReeseCup |
+| 1128 | 56 | Crystal Morrin |
+| 1129 | 56 | TSM Ballsniffer |
+| 1130 | 56 | Jessica Armistead |
+| 1131 | 56 | bribop |
 | 1132 | 55 | Carmen Angelica Sosa |
 | 1133 | 55 | Lizette Chaires |
 | 1134 | 55 | James James |
