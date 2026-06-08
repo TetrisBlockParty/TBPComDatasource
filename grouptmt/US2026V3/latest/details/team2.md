@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:28:20 UTC
+# Standings for team2 as of 2026-06-08 02:28:42 UTC
 
 **Total Participants:** 2036
 
@@ -167,7 +167,7 @@
 | 159 | 540 | Jgato |
 | 160 | 537 | Nutty Curver |
 | 161 | 535 | Sarah Mccolgan |
-| 162 | 528 | Spicy Risegrid |
+| 162 | 533 | Spicy Risegrid |
 | 163 | 527 | MarioKarasovic |
 | 164 | 519 | Mom |
 | 165 | 515 | Loony Faller |
@@ -204,7 +204,7 @@
 | 196 | 423 | Tara |
 | 197 | 422 | Glitzy Base |
 | 198 | 422 | Sara Perkins |
-| 199 | 419 | Lisa Underwood Desmond |
+| 199 | 420 | Lisa Underwood Desmond |
 | 200 | 419 | Thomas Tyrone |
 | 201 | 418 | Breeana Bennett |
 | 202 | 418 | Twisty Buildgrid |
