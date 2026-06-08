@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:02:43 UTC
+# Standings for team2 as of 2026-06-08 10:03:20 UTC
 
 **Total Participants:** 2146
 
@@ -155,17 +155,17 @@
 | 147 | 647 | Nettrainer |
 | 148 | 647 | MarioKarasovic |
 | 149 | 645 | Jackie Tupper |
-| 150 | 639 | Rhonda Diebold |
-| 151 | 635 | Joslyn Johnson |
-| 152 | 627 | Jgato |
-| 153 | 626 | Dsabrina Maxey |
-| 154 | 619 | Jeska Gaines |
-| 155 | 614 | Kellie Sharp Godfrey |
-| 156 | 613 | Jason Cook |
-| 157 | 609 | Pooh |
-| 158 | 600 | Theresa Marie |
-| 159 | 587 | Kathleen Dumbazz |
-| 160 | 587 | Kimberly Benson |
+| 150 | 645 | Kimberly Benson |
+| 151 | 639 | Rhonda Diebold |
+| 152 | 635 | Joslyn Johnson |
+| 153 | 627 | Jgato |
+| 154 | 626 | Dsabrina Maxey |
+| 155 | 619 | Jeska Gaines |
+| 156 | 614 | Kellie Sharp Godfrey |
+| 157 | 613 | Jason Cook |
+| 158 | 609 | Pooh |
+| 159 | 600 | Theresa Marie |
+| 160 | 587 | Kathleen Dumbazz |
 | 161 | 580 | Jamie Jones |
 | 162 | 578 | Monique Frantz |
 | 163 | 577 | Lindsay Klemp |
@@ -1045,35 +1045,35 @@
 | 1037 | 79 | Jade007 |
 | 1038 | 79 | Jenifer Gasho |
 | 1039 | 79 | Sleepypanda67 |
-| 1040 | 78 | Jessica Veness-Toth |
-| 1041 | 78 | Danyell Flood-Morning |
-| 1042 | 78 | Bennie Farbo |
-| 1043 | 78 | Gammawms |
-| 1044 | 78 | Mona Smith |
-| 1045 | 77 | Slinky Towerpiece |
-| 1046 | 77 | Witty Clearbuilder |
-| 1047 | 77 | Loony Ziggy |
-| 1048 | 77 | sampson |
-| 1049 | 77 | Dawn Marie |
-| 1050 | 77 | Blossom48 |
-| 1051 | 77 | LyndaLou |
-| 1052 | 77 | James Maness |
-| 1053 | 77 | Just Me |
-| 1054 | 76 | Travis Bundrum |
-| 1055 | 76 | BigHearted-57 |
+| 1040 | 78 | Twisty Tower |
+| 1041 | 78 | Jessica Veness-Toth |
+| 1042 | 78 | Danyell Flood-Morning |
+| 1043 | 78 | Bennie Farbo |
+| 1044 | 78 | Gammawms |
+| 1045 | 78 | Mona Smith |
+| 1046 | 77 | Slinky Towerpiece |
+| 1047 | 77 | Witty Clearbuilder |
+| 1048 | 77 | Loony Ziggy |
+| 1049 | 77 | sampson |
+| 1050 | 77 | Dawn Marie |
+| 1051 | 77 | Blossom48 |
+| 1052 | 77 | LyndaLou |
+| 1053 | 77 | James Maness |
+| 1054 | 77 | Just Me |
+| 1055 | 76 | Joe Dirilo |
 | 1056 | 76 | BoxerMom |
-| 1057 | 76 | Joe Dirilo |
-| 1058 | 76 | Jolly Brickroll |
-| 1059 | 75 | Rae |
-| 1060 | 75 | CK Hancock |
-| 1061 | 75 | Audrey Wood |
-| 1062 | 75 | SunnySquare |
-| 1063 | 75 | Chatty |
-| 1064 | 75 | Anthony Chavez |
-| 1065 | 75 | Laura Turner |
-| 1066 | 75 | Twisty Tower |
-| 1067 | 75 | Kennadee Albertson |
-| 1068 | 75 | Frisky Linkmatch |
+| 1057 | 76 | BigHearted-57 |
+| 1058 | 76 | Travis Bundrum |
+| 1059 | 76 | Jolly Brickroll |
+| 1060 | 75 | Rae |
+| 1061 | 75 | CK Hancock |
+| 1062 | 75 | Audrey Wood |
+| 1063 | 75 | SunnySquare |
+| 1064 | 75 | Chatty |
+| 1065 | 75 | Anthony Chavez |
+| 1066 | 75 | Laura Turner |
+| 1067 | 75 | Frisky Linkmatch |
+| 1068 | 75 | Kennadee Albertson |
 | 1069 | 74 | Candace Mihm |
 | 1070 | 74 | Jack |
 | 1071 | 74 | Michele Choate |
@@ -1092,8 +1092,8 @@
 | 1084 | 73 | Jenica Davis |
 | 1085 | 73 | Frothy Faller |
 | 1086 | 73 | Giggy Dropzone |
-| 1087 | 72 | Nikki Layman |
-| 1088 | 72 | Anzhen |
+| 1087 | 72 | Anzhen |
+| 1088 | 72 | Nikki Layman |
 | 1089 | 72 | Mala Phonchanthasone |
 | 1090 | 72 | YAKO |
 | 1091 | 72 | KS Hengesbach |

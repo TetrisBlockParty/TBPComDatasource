@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:02:43 UTC
+# Standings for team1 as of 2026-06-08 10:03:20 UTC
 
 **Total Participants:** 1774
 
@@ -350,14 +350,14 @@
 | 342 | 219 | Bambi Johnson |
 | 343 | 217 | LaShaun Stinson |
 | 344 | 217 | Ashleyy Netchert |
-| 345 | 217 | Louise Parker |
-| 346 | 217 | Snippy Breaker |
+| 345 | 217 | Snippy Breaker |
+| 346 | 217 | Louise Parker |
 | 347 | 214 | Kyra Coleman |
 | 348 | 214 | Stephen Providenti |
 | 349 | 213 | Lazy Tiltpiece |
 | 350 | 212 | Simply-Beautiful007 |
-| 351 | 211 | Nina Davis |
-| 352 | 211 | Charletha Williams |
+| 351 | 211 | Charletha Williams |
+| 352 | 211 | Nina Davis |
 | 353 | 210 | Sarah Clark |
 | 354 | 210 | Alyssa Rae |
 | 355 | 209 | Guy Incognito |
@@ -365,59 +365,59 @@
 | 357 | 209 | $hort Dog |
 | 358 | 209 | Phillip Vasquez |
 | 359 | 208 | izzybella |
-| 360 | 205 | Treneil Daffin |
+| 360 | 206 | Rachael R Gull |
 | 361 | 205 | OhNoZer0 |
-| 362 | 203 | Daris Swearington |
-| 363 | 202 | Crystal Cheresnowsky |
-| 364 | 202 | Frankey Chi |
-| 365 | 202 | Sammie Walker |
-| 366 | 202 | Peppy Glider |
+| 362 | 205 | Treneil Daffin |
+| 363 | 203 | Daris Swearington |
+| 364 | 202 | Messy Live |
+| 365 | 202 | Peppy Glider |
+| 366 | 202 | Frankey Chi |
 | 367 | 202 | Poppy Buildout |
-| 368 | 202 | Messy Live |
-| 369 | 201 | Rayshawn Cohen |
-| 370 | 201 | Richard Flex |
-| 371 | 200 | Teri Marie Clayton |
-| 372 | 200 | kitten |
-| 373 | 200 | Maribel Vasquez |
-| 374 | 200 | TBABYJ |
-| 375 | 200 | Lisa Fletcher |
-| 376 | 199 | Nickeya Phillips |
+| 368 | 202 | Crystal Cheresnowsky |
+| 369 | 202 | Sammie Walker |
+| 370 | 201 | Rayshawn Cohen |
+| 371 | 201 | Richard Flex |
+| 372 | 200 | Teri Marie Clayton |
+| 373 | 200 | kitten |
+| 374 | 200 | Maribel Vasquez |
+| 375 | 200 | TBABYJ |
+| 376 | 200 | Lisa Fletcher |
 | 377 | 199 | Fina McKinnis |
-| 378 | 198 | Rachael R Gull |
+| 378 | 199 | Nickeya Phillips |
 | 379 | 197 | De'Nell Edwards |
 | 380 | 196 | BabyCakes |
 | 381 | 194 | Cheery Linkfall |
 | 382 | 193 | Matthieu Pistone |
-| 383 | 192 | Hyper Blocky |
-| 384 | 192 | Joana Thompson |
-| 385 | 191 | Kate Hancock Malicek |
-| 386 | 191 | Lozuna |
-| 387 | 191 | Jelyfish |
+| 383 | 192 | Joana Thompson |
+| 384 | 192 | Hyper Blocky |
+| 385 | 191 | Jelyfish |
+| 386 | 191 | Kate Hancock Malicek |
+| 387 | 191 | Lozuna |
 | 388 | 190 | Chipper Snapper |
 | 389 | 190 | Ladybug |
 | 390 | 189 | Jolly Tilefall |
-| 391 | 189 | Slinky Snapbuilder |
-| 392 | 189 | Nate Myers |
+| 391 | 189 | Nate Myers |
+| 392 | 189 | Slinky Snapbuilder |
 | 393 | 189 | Sean White |
 | 394 | 189 | Tosha Michelle |
-| 395 | 188 | Tyiesha Pie Farmer |
-| 396 | 188 | Travis Davison |
-| 397 | 188 | CJ Robinson |
-| 398 | 187 | MACHETEEDDIE513 |
-| 399 | 187 | Kristine Marie Palmer |
-| 400 | 187 | Jennah |
+| 395 | 188 | CJ Robinson |
+| 396 | 188 | Tyiesha Pie Farmer |
+| 397 | 188 | Travis Davison |
+| 398 | 187 | Jennah |
+| 399 | 187 | MACHETEEDDIE513 |
+| 400 | 187 | Kristine Marie Palmer |
 | 401 | 186 | Monica Tovar |
-| 402 | 185 | Giggy Tower |
-| 403 | 185 | Sarah Swietlicki - Lopez |
-| 404 | 185 | Tesiree Cray |
+| 402 | 185 | Tesiree Cray |
+| 403 | 185 | Giggy Tower |
+| 404 | 185 | Sarah Swietlicki - Lopez |
 | 405 | 184 | 大竹直之 |
 | 406 | 184 | Bbyunicorn |
 | 407 | 184 | Soubletzy |
 | 408 | 183 | Erika |
-| 409 | 183 | wmedina67 |
-| 410 | 183 | Mary Phillippi Blanton |
-| 411 | 182 | Courtney Cicoria |
-| 412 | 182 | Comedian Prince Paul |
+| 409 | 183 | Mary Phillippi Blanton |
+| 410 | 183 | wmedina67 |
+| 411 | 182 | Comedian Prince Paul |
+| 412 | 182 | Courtney Cicoria |
 | 413 | 181 | Sharee Robinson |
 | 414 | 180 | Larina Cherie Johnson |
 | 415 | 180 | akosua |
