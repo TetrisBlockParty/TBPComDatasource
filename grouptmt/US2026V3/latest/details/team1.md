@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:04:20 UTC
+# Standings for team1 as of 2026-06-08 14:04:43 UTC
 
 **Total Participants:** 1802
 
@@ -54,7 +54,7 @@
 | 46 | 1693 | JoJo |
 | 47 | 1689 | Chris Russell |
 | 48 | 1684 | Ceilo Marie |
-| 49 | 1645 | Janine Hunter |
+| 49 | 1660 | Janine Hunter |
 | 50 | 1633 | Cherry Rose |
 | 51 | 1617 | Mimi 1.0 |
 | 52 | 1548 | Jennifer To |
@@ -183,18 +183,18 @@
 | 175 | 453 | SyTheEvilGenius1 |
 | 176 | 452 | Kenny MrOnethousand Peck |
 | 177 | 451 | Plucky Slamdrop |
-| 178 | 446 | pooh |
-| 179 | 445 | Marcheta Cervantez |
-| 180 | 444 | Helen Smith |
-| 181 | 444 | Kevin M. McGhee Jr |
-| 182 | 440 | Tanya Clayton |
-| 183 | 439 | Asani CHumba |
-| 184 | 433 | Tamara N Lee |
-| 185 | 432 | TT |
-| 186 | 431 | Joey Albright |
-| 187 | 431 | Lashawn Wallace |
-| 188 | 430 | boogeywoogey |
-| 189 | 430 | Zachary Colegrove |
+| 178 | 446 | Tamara N Lee |
+| 179 | 446 | pooh |
+| 180 | 445 | Marcheta Cervantez |
+| 181 | 444 | Helen Smith |
+| 182 | 444 | Kevin M. McGhee Jr |
+| 183 | 440 | Tanya Clayton |
+| 184 | 439 | Asani CHumba |
+| 185 | 435 | Zachary Colegrove |
+| 186 | 435 | TT |
+| 187 | 431 | Joey Albright |
+| 188 | 431 | Lashawn Wallace |
+| 189 | 430 | boogeywoogey |
 | 190 | 427 | Ty Øtg |
 | 191 | 420 | Jessica Carter |
 | 192 | 420 | Hyper Slamdrop |
@@ -283,8 +283,8 @@
 | 275 | 303 | Queenie Perry |
 | 276 | 303 | StingerD |
 | 277 | 300 | Ketrell Bailey |
-| 278 | 300 | Nerdy Blockpiece |
-| 279 | 300 | Slinky Brickmatch |
+| 278 | 300 | Slinky Brickmatch |
+| 279 | 300 | Nerdy Blockpiece |
 | 280 | 296 | Nikki Hogan |
 | 281 | 295 | Mafio SO |
 | 282 | 294 | Frisky Fall |
@@ -297,16 +297,16 @@
 | 289 | 290 | Mikayla |
 | 290 | 289 | Cortaz Lawrie |
 | 291 | 282 | McKayla Owens |
-| 292 | 280 | Teri Marie Clayton |
-| 293 | 280 | Boldy Liner |
-| 294 | 280 | Erica Charlise |
-| 295 | 280 | Chilly Wipebuilder |
-| 296 | 280 | Snippy Breaker |
+| 292 | 280 | Erica Charlise |
+| 293 | 280 | Snippy Breaker |
+| 294 | 280 | Boldy Liner |
+| 295 | 280 | Teri Marie Clayton |
+| 296 | 280 | Chilly Wipebuilder |
 | 297 | 279 | Kendra McIntyre |
 | 298 | 278 | Ann White |
 | 299 | 278 | izzybella |
-| 300 | 278 | Dandy Brickfit |
-| 301 | 278 | Shameka Thrasher |
+| 300 | 278 | Shameka Thrasher |
+| 301 | 278 | Dandy Brickfit |
 | 302 | 276 | Erin Sabol |
 | 303 | 275 | Chris Sladoje |
 | 304 | 274 | 신재호 |
@@ -315,41 +315,41 @@
 | 307 | 272 | Tarnisha Neicy Jones |
 | 308 | 270 | Julian Dickens Jr. |
 | 309 | 270 | Melissa D. M. Hornsby |
-| 310 | 269 | DaGuy |
-| 311 | 264 | Wild Out Nai |
-| 312 | 262 | MamushiOh |
+| 310 | 269 | Stephen Glaze |
+| 311 | 269 | DaGuy |
+| 312 | 264 | Wild Out Nai |
 | 313 | 262 | Jai |
-| 314 | 260 | Jhaime |
-| 315 | 260 | Sara Meri |
-| 316 | 258 | SeanSanchez |
-| 317 | 258 | Cynthia Bradley |
-| 318 | 257 | Alivia Dove |
-| 319 | 257 | Anthony |
-| 320 | 255 | Falisa Bell |
-| 321 | 254 | Smiley Clearpiece |
-| 322 | 253 | Tasha |
-| 323 | 252 | Andrew Jay Vaughn |
-| 324 | 250 | Deveda Williams |
+| 314 | 262 | MamushiOh |
+| 315 | 260 | Jhaime |
+| 316 | 260 | Sara Meri |
+| 317 | 258 | SeanSanchez |
+| 318 | 258 | Cynthia Bradley |
+| 319 | 257 | Alivia Dove |
+| 320 | 257 | Anthony |
+| 321 | 255 | Falisa Bell |
+| 322 | 254 | Smiley Clearpiece |
+| 323 | 253 | Tasha |
+| 324 | 252 | Andrew Jay Vaughn |
 | 325 | 250 | Chandler Magee |
-| 326 | 249 | Stephen Glaze |
+| 326 | 250 | Deveda Williams |
 | 327 | 249 | kitten |
 | 328 | 248 | Darrel K Pemberton |
 | 329 | 246 | Curtis T Cirno |
 | 330 | 246 | HarleyJane |
 | 331 | 245 | 大竹直之 |
-| 332 | 245 | Derrius SeriousLee Burks |
-| 333 | 245 | Kelli Couture |
-| 334 | 244 | LaTonya Myers |
-| 335 | 244 | Teddy Davis |
+| 332 | 245 | Kelli Couture |
+| 333 | 245 | Derrius SeriousLee Burks |
+| 334 | 244 | Teddy Davis |
+| 335 | 244 | LaTonya Myers |
 | 336 | 244 | Dai Bo |
 | 337 | 243 | LaShaun Stinson |
 | 338 | 242 | Tay |
-| 339 | 242 | Sammie Walker |
-| 340 | 242 | Tamika Rocheteau |
-| 341 | 240 | Christian Pham |
-| 342 | 240 | Emily Wright |
-| 343 | 239 | Tamara Johnson-Carter |
-| 344 | 239 | Still Ten Tay |
+| 339 | 242 | Tamika Rocheteau |
+| 340 | 242 | Sammie Walker |
+| 341 | 240 | Emily Wright |
+| 342 | 240 | Christian Pham |
+| 343 | 239 | Still Ten Tay |
+| 344 | 239 | Tamara Johnson-Carter |
 | 345 | 239 | Rachael R Gull |
 | 346 | 238 | Perky Pusher |
 | 347 | 236 | Rachael Bakowicz Edwards |
@@ -360,8 +360,8 @@
 | 352 | 230 | Brittnay Wright |
 | 353 | 230 | Hailey Hil |
 | 354 | 229 | De'Mear McKinney |
-| 355 | 227 | SceneGreenz Wali |
-| 356 | 227 | MACHETEEDDIE513 |
+| 355 | 227 | MACHETEEDDIE513 |
+| 356 | 227 | SceneGreenz Wali |
 | 357 | 224 | Asha Langford |
 | 358 | 223 | Daris Swearington |
 | 359 | 223 | Amy Lynn Leifheit |
@@ -1730,84 +1730,84 @@
 | 1722 | 8 | Rixo Blax |
 | 1723 | 8 | Jädaa Laa'Destïnyy |
 | 1724 | 8 | Abhay Raj |
-| 1725 | 8 | Andrew James |
-| 1726 | 8 | Elizabeth Castro |
-| 1727 | 8 | Frothy Matchpiece |
-| 1728 | 8 | Nissa |
-| 1729 | 8 | Chill Tumbler |
-| 1730 | 8 | Almarasha Grice |
-| 1731 | 8 | Groovy Riseclear |
-| 1732 | 8 | David Anthony |
-| 1733 | 8 | Chevonne Huggins |
-| 1734 | 8 | DoMinique Lee |
-| 1735 | 8 | Rose Clark |
-| 1736 | 8 | Ferocity |
-| 1737 | 8 | Joe |
-| 1738 | 7 | Brittany Killebrew |
-| 1739 | 7 | Hyper Basepiece |
-| 1740 | 7 | Lively Edgefit |
-| 1741 | 7 | Jamal Richmond |
-| 1742 | 7 | Mary2 |
-| 1743 | 7 | Gerardo Galiz |
-| 1744 | 7 | Deadra Graham |
-| 1745 | 7 | Stephanie L Jeffries Moultrie |
-| 1746 | 7 | Joey Hoover |
-| 1747 | 7 | John Boone |
-| 1748 | 7 | Quana |
-| 1749 | 7 | Alexis Farquer |
-| 1750 | 7 | Shane Brucewayne |
-| 1751 | 7 | Court Ney |
-| 1752 | 7 | Bryan Dell |
-| 1753 | 7 | RMGreen |
-| 1754 | 7 | Beverly Kaday |
-| 1755 | 7 | Roscoe |
-| 1756 | 7 | style |
-| 1757 | 7 | Teresa F. Campos Eaton |
-| 1758 | 7 | KingSlim82 |
-| 1759 | 7 | Sassy Dashfit |
-| 1760 | 7 | Andrew Harris |
-| 1761 | 7 | Frisky Cascadefit |
-| 1762 | 7 | Dimitri Moore |
-| 1763 | 7 | CauliMac |
-| 1764 | 7 | Sheena Hamilton |
-| 1765 | 6 | Giddy Bricky |
-| 1766 | 6 | DaShawntae Durham |
-| 1767 | 6 | Sunny Shatterer |
-| 1768 | 6 | party t-rex 27 |
-| 1769 | 6 | Jennifer Rogers |
-| 1770 | 6 | Kyshia |
-| 1771 | 6 | Tammy Hooser |
-| 1772 | 6 | NEM0228 |
-| 1773 | 6 | Shadena M Carter Mba |
-| 1774 | 6 | Adam Harrison |
-| 1775 | 6 | Andrae Robinson |
-| 1776 | 6 | Lynn Formby |
-| 1777 | 6 | Nerdy Slam |
-| 1778 | 6 | Ruben Baca |
-| 1779 | 6 | Nena |
-| 1780 | 6 | Stevie Malcon |
-| 1781 | 6 | CK |
-| 1782 | 5 | Misty Sollberger |
-| 1783 | 5 | pettymexoxo |
-| 1784 | 5 | Crafty Fallzone |
-| 1785 | 5 | Cleversphinx76 |
-| 1786 | 5 | Wacky1 |
+| 1725 | 8 | Joe |
+| 1726 | 8 | Chill Tumbler |
+| 1727 | 8 | Nissa |
+| 1728 | 8 | Elizabeth Castro |
+| 1729 | 8 | Almarasha Grice |
+| 1730 | 8 | Groovy Riseclear |
+| 1731 | 8 | Chevonne Huggins |
+| 1732 | 8 | DoMinique Lee |
+| 1733 | 8 | Ferocity |
+| 1734 | 8 | Rose Clark |
+| 1735 | 8 | Andrew James |
+| 1736 | 8 | Frothy Matchpiece |
+| 1737 | 8 | David Anthony |
+| 1738 | 7 | Sheena Hamilton |
+| 1739 | 7 | Alexis Farquer |
+| 1740 | 7 | RMGreen |
+| 1741 | 7 | Bryan Dell |
+| 1742 | 7 | Lively Edgefit |
+| 1743 | 7 | Jamal Richmond |
+| 1744 | 7 | Court Ney |
+| 1745 | 7 | Mary2 |
+| 1746 | 7 | Shane Brucewayne |
+| 1747 | 7 | Dimitri Moore |
+| 1748 | 7 | Gerardo Galiz |
+| 1749 | 7 | Deadra Graham |
+| 1750 | 7 | Quana |
+| 1751 | 7 | Stephanie L Jeffries Moultrie |
+| 1752 | 7 | Joey Hoover |
+| 1753 | 7 | John Boone |
+| 1754 | 7 | Brittany Killebrew |
+| 1755 | 7 | CauliMac |
+| 1756 | 7 | Sassy Dashfit |
+| 1757 | 7 | KingSlim82 |
+| 1758 | 7 | Teresa F. Campos Eaton |
+| 1759 | 7 | Roscoe |
+| 1760 | 7 | Hyper Basepiece |
+| 1761 | 7 | style |
+| 1762 | 7 | Andrew Harris |
+| 1763 | 7 | Beverly Kaday |
+| 1764 | 7 | Frisky Cascadefit |
+| 1765 | 6 | DaShawntae Durham |
+| 1766 | 6 | Giddy Bricky |
+| 1767 | 6 | Tammy Hooser |
+| 1768 | 6 | Sunny Shatterer |
+| 1769 | 6 | Andrae Robinson |
+| 1770 | 6 | Lynn Formby |
+| 1771 | 6 | Nerdy Slam |
+| 1772 | 6 | Shadena M Carter Mba |
+| 1773 | 6 | Adam Harrison |
+| 1774 | 6 | party t-rex 27 |
+| 1775 | 6 | Kyshia |
+| 1776 | 6 | Stevie Malcon |
+| 1777 | 6 | Ruben Baca |
+| 1778 | 6 | Nena |
+| 1779 | 6 | Jennifer Rogers |
+| 1780 | 6 | CK |
+| 1781 | 6 | NEM0228 |
+| 1782 | 5 | VERA DAME |
+| 1783 | 5 | Joy Baker |
+| 1784 | 5 | Wacky1 |
+| 1785 | 5 | Derek Beverly |
+| 1786 | 5 | Pamela Cooper |
 | 1787 | 5 | the guy |
-| 1788 | 5 | Pamela Cooper |
-| 1789 | 5 | Derek Beverly |
-| 1790 | 5 | Happy |
-| 1791 | 5 | Em Purvis |
-| 1792 | 5 | Godz Chosen |
-| 1793 | 5 | MrKeith Debraux |
-| 1794 | 5 | Angelique Thomas |
-| 1795 | 5 | Joi |
-| 1796 | 5 | Joy Baker |
-| 1797 | 5 | Danielle Mariyh Toomer |
-| 1798 | 5 | Andy Barnett |
-| 1799 | 5 | Zesty Brickline |
-| 1800 | 5 | Amber Interrobang |
-| 1801 | 5 | Jennifer Haton Kreighbaum |
-| 1802 | 5 | VERA DAME |
+| 1788 | 5 | Crafty Fallzone |
+| 1789 | 5 | Joi |
+| 1790 | 5 | Em Purvis |
+| 1791 | 5 | Angelique Thomas |
+| 1792 | 5 | Jennifer Haton Kreighbaum |
+| 1793 | 5 | Andy Barnett |
+| 1794 | 5 | Zesty Brickline |
+| 1795 | 5 | MrKeith Debraux |
+| 1796 | 5 | Amber Interrobang |
+| 1797 | 5 | Godz Chosen |
+| 1798 | 5 | Happy |
+| 1799 | 5 | Danielle Mariyh Toomer |
+| 1800 | 5 | Misty Sollberger |
+| 1801 | 5 | Cleversphinx76 |
+| 1802 | 5 | pettymexoxo |
 
 ---
 *Standings created by tournaments datasource generation tool*
