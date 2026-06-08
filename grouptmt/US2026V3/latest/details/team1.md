@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:18:19 UTC
+# Standings for team1 as of 2026-06-08 00:18:42 UTC
 
 **Total Participants:** 1631
 
@@ -1055,28 +1055,28 @@
 | 1047 | 44 | Mark Steven Pichler |
 | 1048 | 44 | Willson06 |
 | 1049 | 44 | Ducc2408 |
-| 1050 | 44 | Caitlin Michele |
-| 1051 | 43 | Vivian Bunnell Myers |
-| 1052 | 43 | Corbin Henry |
-| 1053 | 43 | Jovy |
-| 1054 | 43 | Alivia Dove |
-| 1055 | 43 | Brittany Cole |
-| 1056 | 43 | Alturas Supremenineteen Banks |
+| 1050 | 44 | Ray Baker |
+| 1051 | 44 | Caitlin Michele |
+| 1052 | 43 | Vivian Bunnell Myers |
+| 1053 | 43 | Corbin Henry |
+| 1054 | 43 | Jovy |
+| 1055 | 43 | Alivia Dove |
+| 1056 | 43 | Brittany Cole |
 | 1057 | 43 | Phoenix |
-| 1058 | 42 | Louise |
-| 1059 | 42 | Nadine Coleman |
-| 1060 | 42 | Hoppy Buildsnap |
-| 1061 | 42 | Sunny Riserbuilder |
-| 1062 | 42 | Emeka Agu |
-| 1063 | 42 | Dandy Blockfall |
-| 1064 | 42 | Rikki Moran |
-| 1065 | 42 | Ray Baker |
+| 1058 | 43 | Alturas Supremenineteen Banks |
+| 1059 | 42 | Brii Michelle Lamb |
+| 1060 | 42 | Nadine Coleman |
+| 1061 | 42 | Hoppy Buildsnap |
+| 1062 | 42 | Sunny Riserbuilder |
+| 1063 | 42 | Emeka Agu |
+| 1064 | 42 | Dandy Blockfall |
+| 1065 | 42 | Rikki Moran |
 | 1066 | 42 | Taneka Howell |
 | 1067 | 42 | Shanna Green Williams |
-| 1068 | 42 | Bianca Nawlinsgurl Ferguson |
-| 1069 | 42 | Tammy Scott Mallen |
-| 1070 | 42 | Brii Michelle Lamb |
-| 1071 | 42 | Tanisha Robinson |
+| 1068 | 42 | Tammy Scott Mallen |
+| 1069 | 42 | Bianca Nawlinsgurl Ferguson |
+| 1070 | 42 | Tanisha Robinson |
+| 1071 | 42 | Louise |
 | 1072 | 41 | Giggly Gridder |
 | 1073 | 41 | JLynn Mind Ur's Blackwell |
 | 1074 | 41 | LaQuita White |
