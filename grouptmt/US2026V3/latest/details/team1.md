@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:34:20 UTC
+# Standings for team1 as of 2026-06-08 12:34:43 UTC
 
 **Total Participants:** 1788
 
@@ -126,7 +126,7 @@
 | 118 | 674 | Anthony Washington |
 | 119 | 668 | Jonathan Vee Jay |
 | 120 | 656 | La'Chae Nickole |
-| 121 | 652 | Cee Emm |
+| 121 | 654 | Cee Emm |
 | 122 | 647 | Andi McGreevy |
 | 123 | 645 | Atlantalindi |
 | 124 | 644 | Dena Marie Lee |
@@ -203,7 +203,7 @@
 | 195 | 401 | SyTheEvilGenius1 |
 | 196 | 398 | Kenny 'Tailormade' Boyd |
 | 197 | 397 | Karebear |
-| 198 | 389 | Byron Mario Cawthon |
+| 198 | 393 | Byron Mario Cawthon |
 | 199 | 389 | GrkGdess |
 | 200 | 389 | Roberta Lynn |
 | 201 | 387 | Crystal Anderson |
