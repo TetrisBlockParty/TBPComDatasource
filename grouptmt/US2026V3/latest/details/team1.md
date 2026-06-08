@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:29:22 UTC
+# Standings for team1 as of 2026-06-08 17:30:20 UTC
 
 **Total Participants:** 1835
 
@@ -154,7 +154,7 @@
 | 146 | 590 | Gotcha |
 | 147 | 582 | Nutty Spinblock |
 | 148 | 574 | Murg4dr01d |
-| 149 | 568 | Zachary Colegrove |
+| 149 | 569 | Zachary Colegrove |
 | 150 | 566 | Lesley Brunkus Cianfaglione |
 | 151 | 566 | Trendalyn Webb |
 | 152 | 561 | Carolynne Walker-Bell |
@@ -184,8 +184,8 @@
 | 176 | 488 | Dandy Brickfit |
 | 177 | 486 | Andre Sanon |
 | 178 | 485 | xXEKUNXx |
-| 179 | 482 | Jamal Itzjusmall Chambers |
-| 180 | 478 | Tamara N Lee |
+| 179 | 483 | Tamara N Lee |
+| 180 | 482 | Jamal Itzjusmall Chambers |
 | 181 | 477 | Nobles Brandon |
 | 182 | 476 | BULLSEYE |
 | 183 | 466 | Tootsie Pop |
@@ -405,119 +405,119 @@
 | 397 | 213 | Valerie Alexander |
 | 398 | 213 | Lazy Tiltpiece |
 | 399 | 212 | Simply-Beautiful007 |
-| 400 | 211 | Nina Davis |
-| 401 | 211 | Charletha Williams |
+| 400 | 211 | Charletha Williams |
+| 401 | 211 | Nina Davis |
 | 402 | 211 | Lauraly |
 | 403 | 210 | Alyssa Rae |
 | 404 | 210 | Daddy |
-| 405 | 209 | Antonia Wyche |
-| 406 | 209 | Phillip Vasquez |
-| 407 | 209 | $hort Dog |
+| 405 | 209 | $hort Dog |
+| 406 | 209 | Antonia Wyche |
+| 407 | 209 | Phillip Vasquez |
 | 408 | 206 | MonaSparks |
-| 409 | 205 | Treneil Daffin |
+| 409 | 205 | Tesiree Cray |
 | 410 | 205 | Kate Hancock Malicek |
-| 411 | 205 | Tesiree Cray |
-| 412 | 204 | Nickeya Phillips |
+| 411 | 205 | Treneil Daffin |
+| 412 | 204 | LuckyStar |
 | 413 | 204 | Brittanie Wardlow |
-| 414 | 204 | TBABYJ |
-| 415 | 204 | LuckyStar |
-| 416 | 202 | Slinky Snapbuilder |
-| 417 | 202 | win |
-| 418 | 202 | Peppy Glider |
-| 419 | 202 | Messy Live |
-| 420 | 202 | Frankey Chi |
-| 421 | 202 | Crystal Cheresnowsky |
+| 414 | 204 | Nickeya Phillips |
+| 415 | 204 | TBABYJ |
+| 416 | 202 | Crystal Cheresnowsky |
+| 417 | 202 | Frankey Chi |
+| 418 | 202 | win |
+| 419 | 202 | Peppy Glider |
+| 420 | 202 | Messy Live |
+| 421 | 202 | Slinky Snapbuilder |
 | 422 | 201 | Shea Ladynick Henderson |
-| 423 | 200 | Lisa Fletcher |
-| 424 | 200 | Maribel Vasquez |
+| 423 | 200 | Maribel Vasquez |
+| 424 | 200 | Lisa Fletcher |
 | 425 | 199 | Jenni Hardman |
 | 426 | 199 | Fina McKinnis |
 | 427 | 198 | Kristine Marie Palmer |
 | 428 | 197 | Lynnette WheelerBushnell |
-| 429 | 196 | BabyCakes |
-| 430 | 196 | Teresa Yanira Cepeda |
+| 429 | 196 | Teresa Yanira Cepeda |
+| 430 | 196 | BabyCakes |
 | 431 | 196 | Ladybug |
-| 432 | 193 | Matthieu Pistone |
-| 433 | 193 | Jae Thompson-Tyus |
-| 434 | 193 | Dizzy Dashy |
-| 435 | 193 | Bold Clusterer |
-| 436 | 192 | Taz Ballard |
-| 437 | 192 | Donna Payne |
+| 432 | 193 | Dizzy Dashy |
+| 433 | 193 | Bold Clusterer |
+| 434 | 193 | Jae Thompson-Tyus |
+| 435 | 193 | Matthieu Pistone |
+| 436 | 192 | Donna Payne |
+| 437 | 192 | Taz Ballard |
 | 438 | 192 | Hyper Blocky |
 | 439 | 192 | Lyn Reed |
 | 440 | 191 | Lozuna |
-| 441 | 191 | Breezy Catcher |
-| 442 | 191 | Miera Nicole |
-| 443 | 191 | Jelyfish |
-| 444 | 190 | Dreamzzz |
+| 441 | 191 | Jelyfish |
+| 442 | 191 | Breezy Catcher |
+| 443 | 191 | Miera Nicole |
+| 444 | 190 | Nisha Sunshine Jenkins |
 | 445 | 190 | Chipper Snapper |
-| 446 | 190 | Kamilya Rembert |
-| 447 | 190 | Nisha Sunshine Jenkins |
-| 448 | 189 | Sean White |
-| 449 | 189 | Jolly Tilefall |
+| 446 | 190 | Dreamzzz |
+| 447 | 190 | Kamilya Rembert |
+| 448 | 189 | Jolly Tilefall |
+| 449 | 189 | Sean White |
 | 450 | 189 | Tosha Michelle |
-| 451 | 188 | CJ Robinson |
-| 452 | 188 | Tyiesha Pie Farmer |
-| 453 | 188 | Travis Davison |
-| 454 | 187 | Mary Phillippi Blanton |
+| 451 | 188 | Tyiesha Pie Farmer |
+| 452 | 188 | Travis Davison |
+| 453 | 188 | CJ Robinson |
+| 454 | 187 | Rachel Renae Bettis |
 | 455 | 187 | Jennah |
-| 456 | 187 | Rachel Renae Bettis |
-| 457 | 186 | Brittany Sara Heldwein |
-| 458 | 186 | Monica Tovar |
+| 456 | 187 | Mary Phillippi Blanton |
+| 457 | 186 | Monica Tovar |
+| 458 | 186 | Brittany Sara Heldwein |
 | 459 | 185 | Sarah Swietlicki - Lopez |
 | 460 | 184 | Soubletzy |
-| 461 | 183 | Erika |
-| 462 | 183 | Tushama Cheris Okraku |
-| 463 | 183 | Twisty Cascadeclear |
-| 464 | 183 | Wayne Savannah |
-| 465 | 183 | wmedina67 |
-| 466 | 182 | Courtney Cicoria |
+| 461 | 184 | Dorian Griffin |
+| 462 | 183 | wmedina67 |
+| 463 | 183 | Erika |
+| 464 | 183 | Tushama Cheris Okraku |
+| 465 | 183 | Wayne Savannah |
+| 466 | 183 | Twisty Cascadeclear |
 | 467 | 182 | Comedian Prince Paul |
-| 468 | 181 | Sharee Robinson |
-| 469 | 180 | Cornelius Neal |
-| 470 | 180 | NedaWin |
-| 471 | 180 | Leavon Smith |
+| 468 | 182 | Courtney Cicoria |
+| 469 | 181 | Sharee Robinson |
+| 470 | 180 | Leavon Smith |
+| 471 | 180 | Cornelius Neal |
 | 472 | 180 | Zippy Lifter |
-| 473 | 180 | Chris Rogers |
-| 474 | 180 | Larina Cherie Johnson |
-| 475 | 179 | Mighty Dropper |
-| 476 | 179 | KeeKee Williams |
+| 473 | 180 | NedaWin |
+| 474 | 180 | Chris Rogers |
+| 475 | 180 | Larina Cherie Johnson |
+| 476 | 179 | Skippy |
 | 477 | 179 | Zappy Snapgrid |
-| 478 | 179 | Lively Riserpiece |
-| 479 | 179 | Skippy |
-| 480 | 179 | Giggy Clusterer |
-| 481 | 178 | Manda Allen |
-| 482 | 177 | Cece Fowler |
-| 483 | 176 | Jimmy Shannon |
+| 478 | 179 | KeeKee Williams |
+| 479 | 179 | Lively Riserpiece |
+| 480 | 179 | Mighty Dropper |
+| 481 | 179 | Giggy Clusterer |
+| 482 | 178 | Manda Allen |
+| 483 | 177 | Cece Fowler |
 | 484 | 176 | Dede Tate |
-| 485 | 176 | Char |
-| 486 | 176 | Perky Balancer |
-| 487 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 488 | 175 | Aaron Hartmann |
-| 489 | 174 | ChunLi |
-| 490 | 174 | Clipzby |
-| 491 | 174 | Karen Knapp |
-| 492 | 173 | Tajuana Juana'Cee Coleman |
-| 493 | 172 | Poyre Shelton |
-| 494 | 171 | Juan Alvarez |
+| 485 | 176 | Jimmy Shannon |
+| 486 | 176 | Char |
+| 487 | 176 | Perky Balancer |
+| 488 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 489 | 175 | Aaron Hartmann |
+| 490 | 174 | Karen Knapp |
+| 491 | 174 | Clipzby |
+| 492 | 174 | ChunLi |
+| 493 | 173 | Tajuana Juana'Cee Coleman |
+| 494 | 172 | Poyre Shelton |
 | 495 | 171 | Ta'Kaiyah M. Spann |
-| 496 | 170 | Yadira Salgado |
+| 496 | 171 | Juan Alvarez |
 | 497 | 170 | Katrina Ramey |
 | 498 | 170 | Christi Walker Patton |
-| 499 | 169 | rb |
+| 499 | 170 | Yadira Salgado |
 | 500 | 169 | Douglas Price |
-| 501 | 168 | Lounique |
-| 502 | 167 | Mister Reid |
-| 503 | 167 | Juicy |
+| 501 | 169 | rb |
+| 502 | 168 | Lounique |
+| 503 | 167 | Mister Reid |
 | 504 | 167 | Shakmar |
-| 505 | 167 | Tessa Gaskin |
-| 506 | 167 | Joka NoTime ForHataz |
-| 507 | 166 | Analiza Ramos |
-| 508 | 166 | Melissa Olvera |
-| 509 | 165 | Tanisha Taylor |
-| 510 | 164 | Amy Villalpando |
-| 511 | 164 | Jes Marie |
-| 512 | 164 | Dorian Griffin |
+| 505 | 167 | Juicy |
+| 506 | 167 | Tessa Gaskin |
+| 507 | 167 | Joka NoTime ForHataz |
+| 508 | 166 | Analiza Ramos |
+| 509 | 166 | Melissa Olvera |
+| 510 | 165 | Tanisha Taylor |
+| 511 | 164 | Amy Villalpando |
+| 512 | 164 | Jes Marie |
 | 513 | 163 | Ashlie Mo |
 | 514 | 163 | Kelvin Cook |
 | 515 | 163 | Daring Blockclear |
