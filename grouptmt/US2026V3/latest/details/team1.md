@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:07:21 UTC
+# Standings for team1 as of 2026-06-08 21:08:21 UTC
 
 **Total Participants:** 1874
 
@@ -22,11 +22,11 @@
 | 14 | 7491 | Tracy Cohen |
 | 15 | 6307 | Cassidy Butler |
 | 16 | 5775 | Hunter Rayborn |
-| 17 | 5582 | Jocelyn Pope-Sewell |
+| 17 | 5602 | Jocelyn Pope-Sewell |
 | 18 | 5282 | Plucky Swipe |
 | 19 | 4934 | jaimie |
-| 20 | 4621 | Chandler Spencer |
-| 21 | 4595 | Cool Bridger |
+| 20 | 4645 | Cool Bridger |
+| 21 | 4621 | Chandler Spencer |
 | 22 | 4263 | Pdubbl3 |
 | 23 | 4067 | Erika Windom |
 | 24 | 3972 | Tekedra Wilson |
@@ -122,12 +122,12 @@
 | 114 | 796 | Jaida King |
 | 115 | 776 | Spunky Edgefit |
 | 116 | 754 | Jhaime |
-| 117 | 751 | Kellie Hall |
-| 118 | 741 | Sarah Marie |
-| 119 | 738 | Hyper Slamdrop |
-| 120 | 730 | ing410 |
-| 121 | 723 | Eartha Brown |
-| 122 | 722 | Nutty Spinblock |
+| 117 | 752 | Nutty Spinblock |
+| 118 | 751 | Kellie Hall |
+| 119 | 741 | Sarah Marie |
+| 120 | 738 | Hyper Slamdrop |
+| 121 | 730 | ing410 |
+| 122 | 723 | Eartha Brown |
 | 123 | 720 | No_Other_Choice |
 | 124 | 720 | Felicia Williams |
 | 125 | 709 | Big Tina |
@@ -734,9 +734,9 @@
 | 726 | 120 | Ashley Davis |
 | 727 | 120 | Giggy Edgefit |
 | 728 | 120 | Dianne Clagon |
-| 729 | 120 | Richelle Beck |
-| 730 | 120 | Tiffany Jean Hinson |
-| 731 | 120 | Lady T |
+| 729 | 120 | Lady T |
+| 730 | 120 | Richelle Beck |
+| 731 | 120 | Tiffany Jean Hinson |
 | 732 | 120 | Sandra Mims |
 | 733 | 120 | MindlessMic |
 | 734 | 120 | lookin |
@@ -747,52 +747,52 @@
 | 739 | 119 | Adrian Harris |
 | 740 | 119 | Montréal Mars |
 | 741 | 119 | Lexx Robins |
-| 742 | 118 | Gabriela Hernandez |
-| 743 | 118 | Tony Pizzas |
+| 742 | 118 | Tony Pizzas |
+| 743 | 118 | Gabriela Hernandez |
 | 744 | 118 | Meow Meow |
 | 745 | 118 | Raymond Boosie Freeman |
 | 746 | 118 | Kahh |
 | 747 | 118 | Hasty Pivoty |
-| 748 | 118 | Dirty Deeds |
-| 749 | 118 | Shanna Green Williams |
+| 748 | 118 | Shanna Green Williams |
+| 749 | 118 | Dirty Deeds |
 | 750 | 118 | Jjhandsome |
 | 751 | 118 | Stephanie Ellis |
-| 752 | 117 | Kortney Adams |
-| 753 | 117 | Poppy Twister |
+| 752 | 117 | Poppy Twister |
+| 753 | 117 | Bubbly Slammer |
 | 754 | 117 | Spicy Tiler |
-| 755 | 117 | Bubbly Slammer |
-| 756 | 117 | Cori Cleland |
+| 755 | 117 | Cori Cleland |
+| 756 | 117 | Kortney Adams |
 | 757 | 117 | Kayel Good |
 | 758 | 117 | AnnaM |
 | 759 | 117 | DirtiestofMikes |
 | 760 | 117 | Bruce Paléncia |
 | 761 | 116 | Sherri Keys |
 | 762 | 116 | Sallie Sanborn |
-| 763 | 115 | WOOLFF |
-| 764 | 115 | Tamyka E Williams |
-| 765 | 115 | Shiny Lift |
+| 763 | 115 | Shiny Lift |
+| 764 | 115 | WOOLFF |
+| 765 | 115 | Tamyka E Williams |
 | 766 | 114 | Felicia Dungey |
-| 767 | 114 | LAhoneybun82 |
-| 768 | 114 | Christy Quick |
+| 767 | 114 | Christy Quick |
+| 768 | 114 | MrsDontPlay |
 | 769 | 114 | Ameillia Boughner |
 | 770 | 114 | Angela Kitchens |
-| 771 | 114 | Seirra Robinson |
-| 772 | 114 | Tyree Tman Shinette |
-| 773 | 114 | Cranky Fall |
-| 774 | 114 | Solomon Valarie |
-| 775 | 114 | Renee Marshall |
-| 776 | 113 | MrsDontPlay |
+| 771 | 114 | LAhoneybun82 |
+| 772 | 114 | Seirra Robinson |
+| 773 | 114 | Tyree Tman Shinette |
+| 774 | 114 | Cranky Fall |
+| 775 | 114 | Solomon Valarie |
+| 776 | 114 | Renee Marshall |
 | 777 | 113 | Terrance Tindall |
 | 778 | 112 | GamerQueenDS |
 | 779 | 112 | Jose Rodriguez |
 | 780 | 112 | Barbramerri Tarboro |
-| 781 | 112 | Joseph Vs Cap |
-| 782 | 112 | Shawna Passwater |
+| 781 | 112 | Shawna Passwater |
+| 782 | 112 | Joseph Vs Cap |
 | 783 | 112 | Marie Wilson |
 | 784 | 112 | TeeMaster Barber IsLyfe |
 | 785 | 112 | Peppy Wipeblock |
-| 786 | 111 | Daphne Ceasar |
-| 787 | 111 | Happy Blocky |
+| 786 | 111 | Happy Blocky |
+| 787 | 111 | Daphne Ceasar |
 | 788 | 111 | Katness |
 | 789 | 111 | messyboots |
 | 790 | 111 | Mellie Mel |
@@ -1495,40 +1495,40 @@
 | 1487 | 27 | Darlene Johnson |
 | 1488 | 27 | Grant Wilson |
 | 1489 | 27 | katia |
-| 1490 | 27 | Mariela J. Mazariegos |
-| 1491 | 27 | Jenine Wiser |
+| 1490 | 27 | Jenine Wiser |
+| 1491 | 27 | Mariela J. Mazariegos |
 | 1492 | 27 | LadyMosley |
 | 1493 | 27 | Poppy Clusterbuilder |
 | 1494 | 27 | Taylor Keisha |
 | 1495 | 26 | Marla |
 | 1496 | 26 | Kathleen Boyles |
-| 1497 | 26 | Emily Burgoon |
-| 1498 | 26 | Ana Torres |
-| 1499 | 26 | Teena K Macon |
-| 1500 | 26 | Jennifer Diamond |
-| 1501 | 26 | Konkrete Pop |
-| 1502 | 26 | Laura Long |
-| 1503 | 26 | kaboom |
-| 1504 | 26 | Layla Williams |
-| 1505 | 26 | Moneyy Munrow  |
-| 1506 | 26 | Melissa Ramsey |
-| 1507 | 26 | Lush Risebuilder |
-| 1508 | 26 | jae |
-| 1509 | 25 | RossA |
-| 1510 | 25 | Latanya Gayle |
-| 1511 | 25 | Princess Nevaeh |
-| 1512 | 25 | Leonard R. Chanette |
+| 1497 | 26 | Carlotta L Parker |
+| 1498 | 26 | Emily Burgoon |
+| 1499 | 26 | Ana Torres |
+| 1500 | 26 | Teena K Macon |
+| 1501 | 26 | Jennifer Diamond |
+| 1502 | 26 | Konkrete Pop |
+| 1503 | 26 | Laura Long |
+| 1504 | 26 | kaboom |
+| 1505 | 26 | Layla Williams |
+| 1506 | 26 | Moneyy Munrow  |
+| 1507 | 26 | Melissa Ramsey |
+| 1508 | 26 | Lush Risebuilder |
+| 1509 | 26 | jae |
+| 1510 | 25 | Dinky da Don |
+| 1511 | 25 | Latanya Gayle |
+| 1512 | 25 | Princess Nevaeh |
 | 1513 | 25 | Heckabluntstho |
-| 1514 | 25 | PennyCandee |
-| 1515 | 25 | Jiff |
-| 1516 | 25 | Jessie Wallace |
-| 1517 | 25 | Amanda Bell |
-| 1518 | 25 | Em Purvis |
-| 1519 | 25 | Pamela Cooper |
-| 1520 | 25 | Dinky da Don |
-| 1521 | 24 | Andrea DeRoy |
-| 1522 | 24 | Brownie |
-| 1523 | 24 | Carlotta L Parker |
+| 1514 | 25 | Leonard R. Chanette |
+| 1515 | 25 | PennyCandee |
+| 1516 | 25 | Jiff |
+| 1517 | 25 | Jessie Wallace |
+| 1518 | 25 | Amanda Bell |
+| 1519 | 25 | RossA |
+| 1520 | 25 | Em Purvis |
+| 1521 | 25 | Pamela Cooper |
+| 1522 | 24 | Andrea DeRoy |
+| 1523 | 24 | Brownie |
 | 1524 | 24 | David Sk Vaughan Jr. |
 | 1525 | 24 | Null Kim |
 | 1526 | 24 | Cheeky Matchzone |
