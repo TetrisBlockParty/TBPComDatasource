@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:16:19 UTC
+# Standings for team1 as of 2026-06-08 14:16:44 UTC
 
 **Total Participants:** 1806
 
@@ -437,32 +437,32 @@
 | 429 | 188 | Tyiesha Pie Farmer |
 | 430 | 188 | Travis Davison |
 | 431 | 188 | CJ Robinson |
-| 432 | 187 | Rachel Renae Bettis |
-| 433 | 187 | Jennah |
+| 432 | 187 | Jennah |
+| 433 | 187 | Rachel Renae Bettis |
 | 434 | 186 | Monica Tovar |
 | 435 | 185 | Jae Thompson-Tyus |
 | 436 | 185 | Sarah Swietlicki - Lopez |
 | 437 | 184 | Soubletzy |
 | 438 | 183 | Mary Phillippi Blanton |
 | 439 | 183 | Erika |
-| 440 | 183 | wmedina67 |
-| 441 | 183 | Tushama Cheris Okraku |
-| 442 | 182 | Shanns |
-| 443 | 182 | Courtney Cicoria |
-| 444 | 182 | Comedian Prince Paul |
+| 440 | 183 | Tushama Cheris Okraku |
+| 441 | 183 | wmedina67 |
+| 442 | 182 | Courtney Cicoria |
+| 443 | 182 | Comedian Prince Paul |
+| 444 | 182 | Shanns |
 | 445 | 181 | Sharee Robinson |
-| 446 | 180 | Zippy Lifter |
-| 447 | 180 | Larina Cherie Johnson |
-| 448 | 180 | Cornelius Neal |
-| 449 | 180 | Chris Rogers |
-| 450 | 180 | akosua |
+| 446 | 180 | Chris Rogers |
+| 447 | 180 | Cornelius Neal |
+| 448 | 180 | akosua |
+| 449 | 180 | NedaWin |
+| 450 | 180 | Larina Cherie Johnson |
 | 451 | 180 | Lynnette WheelerBushnell |
-| 452 | 180 | NedaWin |
-| 453 | 179 | Lively Riserpiece |
-| 454 | 179 | Mighty Dropper |
-| 455 | 179 | Giggy Clusterer |
-| 456 | 179 | KeeKee Williams |
-| 457 | 179 | Skippy |
+| 452 | 180 | Zippy Lifter |
+| 453 | 179 | Mighty Dropper |
+| 454 | 179 | Giggy Clusterer |
+| 455 | 179 | Lively Riserpiece |
+| 456 | 179 | Skippy |
+| 457 | 179 | KeeKee Williams |
 | 458 | 178 | Manda Allen |
 | 459 | 177 | Cece Fowler |
 | 460 | 176 | Char |
@@ -481,98 +481,98 @@
 | 473 | 169 | rb |
 | 474 | 168 | Jimmy Shannon |
 | 475 | 168 | Lounique |
-| 476 | 167 | Mister Reid |
+| 476 | 167 | Bold Clusterer |
 | 477 | 167 | MonaSparks |
-| 478 | 167 | Bold Clusterer |
+| 478 | 167 | Mister Reid |
 | 479 | 167 | Juicy |
-| 480 | 166 | BlackQueen105 |
-| 481 | 166 | Analiza Ramos |
+| 480 | 166 | Analiza Ramos |
+| 481 | 166 | Teresa Yanira Cepeda |
 | 482 | 166 | Melissa Olvera |
-| 483 | 166 | Dede Tate |
-| 484 | 166 | Teresa Yanira Cepeda |
+| 483 | 166 | BlackQueen105 |
+| 484 | 166 | Dede Tate |
 | 485 | 165 | Tanisha Taylor |
 | 486 | 164 | Jes Marie |
 | 487 | 163 | Ashlie Mo |
-| 488 | 163 | Daring Blockclear |
-| 489 | 162 | Speedy Stacky |
-| 490 | 162 | Twisty Cascadeclear |
-| 491 | 162 | Shakmar |
-| 492 | 161 | Devron Reedy |
-| 493 | 160 | Malcolm Stanley |
-| 494 | 160 | Slinky Clearzone |
-| 495 | 160 | Tracey Johnson |
-| 496 | 160 | Spotlight |
-| 497 | 160 | Adrian Wilson |
-| 498 | 160 | Cheeky Twistpiece |
-| 499 | 160 | Carolyn Smith |
-| 500 | 159 | Tracy Feyler |
-| 501 | 159 | Latore Maxie |
-| 502 | 159 | Tee Spinks |
+| 488 | 163 | Christi Walker Patton |
+| 489 | 163 | Daring Blockclear |
+| 490 | 162 | Speedy Stacky |
+| 491 | 162 | Twisty Cascadeclear |
+| 492 | 162 | Shakmar |
+| 493 | 161 | Devron Reedy |
+| 494 | 160 | Spotlight |
+| 495 | 160 | Malcolm Stanley |
+| 496 | 160 | Adrian Wilson |
+| 497 | 160 | Slinky Clearzone |
+| 498 | 160 | Carolyn Smith |
+| 499 | 160 | Cheeky Twistpiece |
+| 500 | 160 | Tracey Johnson |
+| 501 | 159 | Tee Spinks |
+| 502 | 159 | Latore Maxie |
 | 503 | 159 | Loopy Tiler |
-| 504 | 159 | Frances Davis |
-| 505 | 158 | Kimberly Linares Hernandez |
+| 504 | 159 | Tracy Feyler |
+| 505 | 159 | Frances Davis |
 | 506 | 158 | Mahagony Small |
-| 507 | 157 | Poyre Shelton |
+| 507 | 158 | Kimberly Linares Hernandez |
 | 508 | 157 | Lilly Brown |
-| 509 | 156 | Lakiesha Crawford |
-| 510 | 156 | Shalya Terry |
+| 509 | 157 | Poyre Shelton |
+| 510 | 156 | Lakiesha Crawford |
 | 511 | 156 | Melissa Hershberger |
-| 512 | 156 | Montego Allen |
+| 512 | 156 | Shalya Terry |
 | 513 | 156 | Chris Holland |
-| 514 | 156 | Amy Villalpando |
-| 515 | 155 | nameno |
-| 516 | 155 | Kala Miller |
-| 517 | 154 | Glitzy Clusterer |
+| 514 | 156 | Montego Allen |
+| 515 | 156 | Amy Villalpando |
+| 516 | 155 | nameno |
+| 517 | 155 | Kala Miller |
 | 518 | 154 | Jenni Hardman |
-| 519 | 154 | Dorian Griffin |
-| 520 | 154 | Ciera Peace |
-| 521 | 154 | Rebecca Jackson |
+| 519 | 154 | Ciera Peace |
+| 520 | 154 | Dorian Griffin |
+| 521 | 154 | Glitzy Clusterer |
 | 522 | 154 | Lynn |
-| 523 | 153 | Holly Baker |
-| 524 | 152 | Wacky Stackbuilder |
-| 525 | 152 | Zappy Snapgrid |
-| 526 | 151 | Shakuria Cortia Burney |
-| 527 | 151 | Yashica Smith |
-| 528 | 151 | Perky Balancer |
-| 529 | 150 | Mommy Frank |
-| 530 | 150 | Jimmie Makia |
-| 531 | 150 | Taneka Howell |
-| 532 | 150 | Marshall Davis |
-| 533 | 150 | TotoCherue |
-| 534 | 150 | Ta'Kaiyah M. Spann |
-| 535 | 149 | Twisty Brickfit |
-| 536 | 149 | Kristie |
-| 537 | 149 | Casey Chapman |
-| 538 | 148 | Shannon Carriger |
+| 523 | 154 | Rebecca Jackson |
+| 524 | 153 | Holly Baker |
+| 525 | 152 | Wacky Stackbuilder |
+| 526 | 152 | Zappy Snapgrid |
+| 527 | 151 | Shakuria Cortia Burney |
+| 528 | 151 | Yashica Smith |
+| 529 | 151 | Perky Balancer |
+| 530 | 150 | Mommy Frank |
+| 531 | 150 | Jimmie Makia |
+| 532 | 150 | Taneka Howell |
+| 533 | 150 | Marshall Davis |
+| 534 | 150 | TotoCherue |
+| 535 | 150 | Ta'Kaiyah M. Spann |
+| 536 | 149 | Casey Chapman |
+| 537 | 149 | Kristie |
+| 538 | 149 | Twisty Brickfit |
 | 539 | 148 | Cauiasia DeJ'ae |
-| 540 | 148 | Seddrick |
-| 541 | 148 | Christi Walker Patton |
-| 542 | 148 | Rhianna Dinki Austin |
-| 543 | 148 | Rufus |
-| 544 | 148 | Faith Armone |
+| 540 | 148 | Rufus |
+| 541 | 148 | Seddrick |
+| 542 | 148 | Faith Armone |
+| 543 | 148 | Rhianna Dinki Austin |
+| 544 | 148 | Shannon Carriger |
 | 545 | 147 | Joka NoTime ForHataz |
 | 546 | 147 | Mathew Trudell |
-| 547 | 146 | FunTime |
-| 548 | 146 | Bella |
-| 549 | 146 | Giggly Tiltbuilder |
-| 550 | 146 | whatever |
+| 547 | 146 | Giggly Tiltbuilder |
+| 548 | 146 | whatever |
+| 549 | 146 | Bella |
+| 550 | 146 | FunTime |
 | 551 | 145 | Squaw Ki Ng |
-| 552 | 144 | Juan Santiago |
-| 553 | 144 | Kp |
-| 554 | 143 | Cheri Robinson |
-| 555 | 143 | Andy Rivera |
-| 556 | 143 | Wayne Savannah |
-| 557 | 142 | Kelley Johnson |
-| 558 | 142 | Semaj Johnson |
+| 552 | 144 | Kp |
+| 553 | 144 | Juan Santiago |
+| 554 | 143 | Andy Rivera |
+| 555 | 143 | Wayne Savannah |
+| 556 | 143 | Cheri Robinson |
+| 557 | 142 | Semaj Johnson |
+| 558 | 142 | Kelley Johnson |
 | 559 | 142 | Sarah Steckbauer |
 | 560 | 142 | Sara |
-| 561 | 141 | Krystal Maynard |
-| 562 | 141 | Shalena Marie Humphrey |
-| 563 | 141 | Betsy B. Yohan |
+| 561 | 141 | Betsy B. Yohan |
+| 562 | 141 | Krystal Maynard |
+| 563 | 141 | Shalena Marie Humphrey |
 | 564 | 140 | Kim Holzmiller |
-| 565 | 140 | Kennedi Brazziel |
-| 566 | 140 | SherylU |
-| 567 | 140 | Antoinette Jones |
+| 565 | 140 | Antoinette Jones |
+| 566 | 140 | Kennedi Brazziel |
+| 567 | 140 | SherylU |
 | 568 | 140 | TBabii24 |
 | 569 | 140 | Tessa Gaskin |
 | 570 | 139 | TRUBBLE45 |
@@ -877,29 +877,29 @@
 | 869 | 83 | Williams Candace |
 | 870 | 83 | Block |
 | 871 | 83 | Latoya Carson |
-| 872 | 83 | Tony P Burke |
+| 872 | 83 | Stacy Nicole |
 | 873 | 83 | AshMo |
-| 874 | 83 | Stacy Nicole |
-| 875 | 83 | John C Sexton |
+| 874 | 83 | John C Sexton |
+| 875 | 83 | Tony P Burke |
 | 876 | 82 | LaSharon Jackson |
 | 877 | 82 | Jasmine Hariston-Estis |
 | 878 | 82 | DeAngelo Sorrells |
 | 879 | 82 | Kashh |
 | 880 | 82 | Dana Hawes |
 | 881 | 82 | Idelia L Brown |
-| 882 | 81 | Parris Wright |
+| 882 | 81 | Felicia Woods |
 | 883 | 81 | GracefulOwl808 |
 | 884 | 81 | Deihja Weaver |
-| 885 | 80 | Felicia Woods |
+| 885 | 81 | Parris Wright |
 | 886 | 80 | nay |
 | 887 | 80 | Keith Big-Sixx Mackell |
-| 888 | 80 | Tory Miller |
-| 889 | 80 | lizlizliz |
-| 890 | 80 | Linzi Cole |
-| 891 | 80 | Lauren Farkas |
-| 892 | 80 | Charles Johnson |
-| 893 | 80 | Amaadi Ward |
-| 894 | 80 | Marcello Rush |
+| 888 | 80 | lizlizliz |
+| 889 | 80 | Tory Miller |
+| 890 | 80 | Lauren Farkas |
+| 891 | 80 | Linzi Cole |
+| 892 | 80 | Marcello Rush |
+| 893 | 80 | Charles Johnson |
+| 894 | 80 | Amaadi Ward |
 | 895 | 80 | Chevalier Burley |
 | 896 | 80 | Lisa420 |
 | 897 | 80 | Lady Scorpio |
