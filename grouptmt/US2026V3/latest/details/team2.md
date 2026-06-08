@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:50:42 UTC
+# Standings for team2 as of 2026-06-08 06:51:20 UTC
 
 **Total Participants:** 2129
 
@@ -138,8 +138,8 @@
 | 130 | 751 | Hoppy Rotate |
 | 131 | 750 | Tisha Hairston |
 | 132 | 737 | Loopy Curvebuilder |
-| 133 | 732 | Loopy Cascadepiece |
-| 134 | 730 | Sarah Mccolgan |
+| 133 | 737 | Sarah Mccolgan |
+| 134 | 732 | Loopy Cascadepiece |
 | 135 | 728 | Groovy Snapper |
 | 136 | 708 | Le Sandy |
 | 137 | 682 | Wmk Rathbun |
@@ -1956,67 +1956,67 @@
 | 1948 | 13 | Nickishan Richrds |
 | 1949 | 13 | Judy Bailey |
 | 1950 | 13 | Sarah Jean Huston |
-| 1951 | 13 | Brooke Burge |
-| 1952 | 13 | Catalina Castro |
+| 1951 | 13 | Dustin Bumbalough |
+| 1952 | 13 | Brooke Burge |
 | 1953 | 13 | Dawn Marie Justice |
-| 1954 | 13 | Nayapooh |
-| 1955 | 13 | Raven Hull |
-| 1956 | 13 | Sunnylynn Hodge |
-| 1957 | 13 | Chad Praytor |
-| 1958 | 13 | Ryan D. Norcross |
-| 1959 | 13 | Patience Thompson |
-| 1960 | 13 | Dustin Bumbalough |
-| 1961 | 13 | Kandie Warren |
-| 1962 | 12 | Bsancia |
-| 1963 | 12 | Kathy Arnold |
-| 1964 | 12 | Chipper Gridroll |
-| 1965 | 12 | Nikki Blilie |
-| 1966 | 12 | Mariah Wells |
-| 1967 | 12 | Kjsranch |
-| 1968 | 12 | Dawn Burzee |
+| 1954 | 13 | Sunnylynn Hodge |
+| 1955 | 13 | Ryan D. Norcross |
+| 1956 | 13 | Kandie Warren |
+| 1957 | 13 | Patience Thompson |
+| 1958 | 13 | Chad Praytor |
+| 1959 | 13 | Raven Hull |
+| 1960 | 13 | Catalina Castro |
+| 1961 | 13 | Nayapooh |
+| 1962 | 12 | Kjsranch |
+| 1963 | 12 | Mariah Wells |
+| 1964 | 12 | Dawn Burzee |
+| 1965 | 12 | Bsancia |
+| 1966 | 12 | Swanky Blockclear |
+| 1967 | 12 | Nikki Blilie |
+| 1968 | 12 | Chipper Gridroll |
 | 1969 | 12 | Lyndon Schaak |
-| 1970 | 12 | Redangel |
-| 1971 | 12 | Sindy08 |
-| 1972 | 12 | Liz Wilkerson |
-| 1973 | 12 | Mary |
-| 1974 | 12 | Groovy Buildout |
-| 1975 | 12 | Samantha Morrison |
-| 1976 | 12 | Silly Twister |
-| 1977 | 11 | Krystal Snow |
-| 1978 | 11 | Robert E Tracy |
-| 1979 | 11 | Lou Sassole |
-| 1980 | 11 | Catspjamas |
-| 1981 | 11 | Renee Garneau Cain |
-| 1982 | 11 | Forever Young |
-| 1983 | 11 | Daddy’s Here |
-| 1984 | 11 | Cole Posey |
-| 1985 | 11 | Patty Smith |
-| 1986 | 11 | Emily Ackley |
-| 1987 | 11 | Amanda Nicholson |
-| 1988 | 11 | Charles Mercer |
-| 1989 | 11 | Snippy Blockfall |
-| 1990 | 11 | cole |
-| 1991 | 10 | Crafty Combo |
-| 1992 | 10 | Cate Imel |
-| 1993 | 10 | Jimberlee Akuna |
-| 1994 | 10 | Clever Clusterfit |
-| 1995 | 10 | Alan Baumgardner |
-| 1996 | 10 | David Blocker |
-| 1997 | 10 | Hunnie Nelson |
-| 1998 | 10 | Shakey Bakey |
+| 1970 | 12 | Kathy Arnold |
+| 1971 | 12 | Redangel |
+| 1972 | 12 | Sindy08 |
+| 1973 | 12 | Liz Wilkerson |
+| 1974 | 12 | Mary |
+| 1975 | 12 | Groovy Buildout |
+| 1976 | 12 | Samantha Morrison |
+| 1977 | 12 | Silly Twister |
+| 1978 | 11 | Krystal Snow |
+| 1979 | 11 | Robert E Tracy |
+| 1980 | 11 | Lou Sassole |
+| 1981 | 11 | Patty Smith |
+| 1982 | 11 | Cole Posey |
+| 1983 | 11 | Forever Young |
+| 1984 | 11 | Catspjamas |
+| 1985 | 11 | Emily Ackley |
+| 1986 | 11 | Renee Garneau Cain |
+| 1987 | 11 | Daddy’s Here |
+| 1988 | 11 | cole |
+| 1989 | 11 | Amanda Nicholson |
+| 1990 | 11 | Charles Mercer |
+| 1991 | 11 | Snippy Blockfall |
+| 1992 | 10 | Alan Baumgardner |
+| 1993 | 10 | Hasty Linker |
+| 1994 | 10 | Daniela Solis |
+| 1995 | 10 | Melissa Dyer |
+| 1996 | 10 | Breezy Ivy |
+| 1997 | 10 | Shakey Bakey |
+| 1998 | 10 | Hunnie Nelson |
 | 1999 | 10 | Mindy Corriher |
-| 2000 | 10 | Breezy Ivy |
-| 2001 | 10 | Laura Rake |
-| 2002 | 10 | Melissa Dyer |
-| 2003 | 10 | Daniela Solis |
-| 2004 | 10 | Hasty Linker |
-| 2005 | 10 | Dandy Fill |
-| 2006 | 10 | LilMs101 |
-| 2007 | 10 | Swanky Blockclear |
-| 2008 | 10 | Cheryl Stevens |
-| 2009 | 10 | crysamoctama57 |
-| 2010 | 10 | Kathi Patrick |
-| 2011 | 10 | ANNIE CHAOS |
+| 2000 | 10 | Clever Clusterfit |
+| 2001 | 10 | Jimberlee Akuna |
+| 2002 | 10 | Cate Imel |
+| 2003 | 10 | Crafty Combo |
+| 2004 | 10 | David Blocker |
+| 2005 | 10 | Laura Rake |
+| 2006 | 10 | ANNIE CHAOS |
+| 2007 | 10 | Dandy Fill |
+| 2008 | 10 | crysamoctama57 |
+| 2009 | 10 | LilMs101 |
+| 2010 | 10 | Cheryl Stevens |
+| 2011 | 10 | Kathi Patrick |
 | 2012 | 10 | Lacey Johnson |
 | 2013 | 10 | TJN |
 | 2014 | 10 | Celeste Duet |
@@ -2046,28 +2046,28 @@
 | 2038 | 9 | Lori Loup |
 | 2039 | 9 | yep |
 | 2040 | 9 | Samantha Sipe |
-| 2041 | 9 | PortersWife87 |
-| 2042 | 9 | lsbella |
-| 2043 | 9 | Shawn Bossuot |
-| 2044 | 9 | Cordillia Barela |
-| 2045 | 9 | Naomi Christiansen |
+| 2041 | 9 | Shawn Bossuot |
+| 2042 | 9 | Robert Fenton |
+| 2043 | 9 | PortersWife87 |
+| 2044 | 9 | Naomi Christiansen |
+| 2045 | 9 | Cordillia Barela |
 | 2046 | 9 | Yuhh |
-| 2047 | 9 | Robert Fenton |
+| 2047 | 9 | lsbella |
 | 2048 | 9 | Jazzy |
-| 2049 | 9 | puppy mom |
-| 2050 | 9 | Rebekah Conn |
-| 2051 | 9 | Happy Matchclear |
-| 2052 | 9 | Dapper Corner |
+| 2049 | 9 | Rebekah Conn |
+| 2050 | 9 | puppy mom |
+| 2051 | 9 | Dapper Corner |
+| 2052 | 9 | Happy Matchclear |
 | 2053 | 9 | Crystal Greene |
 | 2054 | 8 | Brandy McGuffey |
-| 2055 | 8 | Sammi Jo |
-| 2056 | 8 | Chirpy Rollfit |
-| 2057 | 8 | Lisa Amick |
-| 2058 | 8 | Elizabeth Miller |
-| 2059 | 8 | Tipsy Splitter |
-| 2060 | 8 | Jennifer Bromeisl-Tettam |
+| 2055 | 8 | Chirpy Rollfit |
+| 2056 | 8 | Tipsy Splitter |
+| 2057 | 8 | Elizabeth Miller |
+| 2058 | 8 | Perky Party |
+| 2059 | 8 | Jennifer Bromeisl-Tettam |
+| 2060 | 8 | Sammi Jo |
 | 2061 | 8 | Lissa |
-| 2062 | 8 | Perky Party |
+| 2062 | 8 | Lisa Amick |
 | 2063 | 8 | Twisty Tower |
 | 2064 | 8 | Epic Balanceblock |
 | 2065 | 8 | Funky Slide |
