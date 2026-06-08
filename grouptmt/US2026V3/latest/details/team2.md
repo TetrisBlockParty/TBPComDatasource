@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:10:20 UTC
+# Standings for team2 as of 2026-06-08 15:10:46 UTC
 
 **Total Participants:** 2193
 
@@ -1166,10 +1166,10 @@
 | 1158 | 73 | blockrocker |
 | 1159 | 73 | BugMansMom |
 | 1160 | 73 | Sunny Spinzone |
-| 1161 | 73 | RalphyD |
-| 1162 | 73 | Blocker |
-| 1163 | 73 | Frothy Faller |
-| 1164 | 73 | Jenica Davis |
+| 1161 | 73 | Blocker |
+| 1162 | 73 | Frothy Faller |
+| 1163 | 73 | Jenica Davis |
+| 1164 | 73 | RalphyD |
 | 1165 | 72 | Nikki Layman |
 | 1166 | 72 | Mala Phonchanthasone |
 | 1167 | 72 | Lu Wallace |
@@ -1187,37 +1187,37 @@
 | 1179 | 71 | Trisha Farley |
 | 1180 | 71 | Alessandria Anderson |
 | 1181 | 71 | Joey Grillo |
-| 1182 | 70 | Dottie Leavy Van Deventer |
-| 1183 | 70 | Wacky Tumbler |
-| 1184 | 70 | Alisha Kralicek Trainham |
-| 1185 | 70 | Shannon D. Turk |
-| 1186 | 70 | Michelle |
-| 1187 | 70 | Aislinn Lowe |
-| 1188 | 70 | Shannon Michelle |
-| 1189 | 70 | Melissa Aycock |
-| 1190 | 70 | Rob Miller |
-| 1191 | 70 | Elizabeth Henry |
-| 1192 | 70 | Peppy Piececlear |
-| 1193 | 70 | Rosie |
-| 1194 | 70 | Roger Kee |
-| 1195 | 70 | Christi Hooper |
-| 1196 | 70 | Andrea Spinelli |
-| 1197 | 70 | Nanny t |
-| 1198 | 70 | Cassafrass |
-| 1199 | 70 | Abby Dexter |
-| 1200 | 70 | Stephanie |
-| 1201 | 69 | Glowing Earthy Embers |
-| 1202 | 69 | Jackie Moran Tiller |
-| 1203 | 69 | Mona Wagner |
-| 1204 | 69 | Loretta Crow |
-| 1205 | 69 | Flashy Wipegrid |
-| 1206 | 69 | Shellie Kioutas |
+| 1182 | 71 | Shellie Kioutas |
+| 1183 | 70 | Shannon D. Turk |
+| 1184 | 70 | Dottie Leavy Van Deventer |
+| 1185 | 70 | Wacky Tumbler |
+| 1186 | 70 | Alisha Kralicek Trainham |
+| 1187 | 70 | Michelle |
+| 1188 | 70 | Aislinn Lowe |
+| 1189 | 70 | Shannon Michelle |
+| 1190 | 70 | Melissa Aycock |
+| 1191 | 70 | Rob Miller |
+| 1192 | 70 | Elizabeth Henry |
+| 1193 | 70 | Peppy Piececlear |
+| 1194 | 70 | Rosie |
+| 1195 | 70 | Roger Kee |
+| 1196 | 70 | Christi Hooper |
+| 1197 | 70 | Andrea Spinelli |
+| 1198 | 70 | Nanny t |
+| 1199 | 70 | Cassafrass |
+| 1200 | 70 | Abby Dexter |
+| 1201 | 70 | Stephanie |
+| 1202 | 69 | Glowing Earthy Embers |
+| 1203 | 69 | Jackie Moran Tiller |
+| 1204 | 69 | Mona Wagner |
+| 1205 | 69 | Loretta Crow |
+| 1206 | 69 | Flashy Wipegrid |
 | 1207 | 69 | Nonnie |
-| 1208 | 69 | Witty Shatterline |
-| 1209 | 69 | Mandy Anderson |
-| 1210 | 69 | Shanna Jones Scott |
-| 1211 | 68 | Crystal Whygle |
-| 1212 | 68 | Viola Fletcher |
+| 1208 | 69 | Mandy Anderson |
+| 1209 | 69 | Shanna Jones Scott |
+| 1210 | 69 | Witty Shatterline |
+| 1211 | 68 | Viola Fletcher |
+| 1212 | 68 | Crystal Whygle |
 | 1213 | 68 | April Appleton |
 | 1214 | 68 | Sami Amato |
 | 1215 | 68 | Anthony Kordich |
@@ -1229,13 +1229,13 @@
 | 1221 | 67 | Silly Swiper |
 | 1222 | 67 | Kelly Christine Trimmer |
 | 1223 | 67 | James Calhoun |
-| 1224 | 67 | Rachel |
-| 1225 | 67 | Brittany Paul |
-| 1226 | 67 | Megan McDevitt |
+| 1224 | 67 | Brittany Paul |
+| 1225 | 67 | Tina Carr |
+| 1226 | 67 | Rachel |
 | 1227 | 67 | Ashley Lee DeHaan |
-| 1228 | 67 | Tina Carr |
-| 1229 | 66 | Amanda Bryte |
-| 1230 | 66 | Rae Madewell |
+| 1228 | 67 | Megan McDevitt |
+| 1229 | 66 | Rae Madewell |
+| 1230 | 66 | Amanda Bryte |
 | 1231 | 66 | Yvonne Rodriguez |
 | 1232 | 66 | Signerlisa |
 | 1233 | 66 | Jenna Thorn |
@@ -1252,32 +1252,32 @@
 | 1244 | 65 | Viani09 |
 | 1245 | 65 | Natalie M. Arredondo |
 | 1246 | 65 | Deanna Mc |
-| 1247 | 65 | Squirrel |
+| 1247 | 65 | GentleGiant Brackett |
 | 1248 | 65 | Wacky Drop |
-| 1249 | 65 | Melissa Kinsley |
-| 1250 | 65 | Cool Cornerfall |
+| 1249 | 65 | Cool Cornerfall |
+| 1250 | 65 | Boo Boo Binx |
 | 1251 | 65 | Joanne Haynes |
-| 1252 | 65 | Boo Boo Binx |
-| 1253 | 65 | GentleGiant Brackett |
-| 1254 | 64 | Pnda |
-| 1255 | 64 | Kassie D Harmon |
-| 1256 | 64 | Nicole Dyer |
-| 1257 | 64 | Wacky Rollbuilder |
+| 1252 | 65 | Melissa Kinsley |
+| 1253 | 65 | Squirrel |
+| 1254 | 64 | Wacky Rollbuilder |
+| 1255 | 64 | Pnda |
+| 1256 | 64 | Kassie D Harmon |
+| 1257 | 64 | Nicole Dyer |
 | 1258 | 64 | Emily |
 | 1259 | 64 | Kylee Pruitt |
 | 1260 | 63 | Amy Hahn Nickels |
 | 1261 | 63 | Dani Newton |
 | 1262 | 63 | Jessica LeNeave |
 | 1263 | 63 | Frothy Roll |
-| 1264 | 63 | Angela Anderson |
-| 1265 | 63 | Glitzy Roll |
-| 1266 | 63 | AmyShea |
+| 1264 | 63 | Glitzy Roll |
+| 1265 | 63 | AmyShea |
+| 1266 | 63 | Angela Anderson |
 | 1267 | 63 | Bubbly Tilt |
-| 1268 | 62 | Jennifer Bromeisl-Tettam |
+| 1268 | 62 | Saucy Clearzone |
 | 1269 | 62 | Shelby Lynn May |
-| 1270 | 62 | Dandy Brickbuilder |
-| 1271 | 62 | Peyton Groce |
-| 1272 | 62 | Saucy Clearzone |
+| 1270 | 62 | Peyton Groce |
+| 1271 | 62 | Dandy Brickbuilder |
+| 1272 | 62 | Jennifer Bromeisl-Tettam |
 | 1273 | 62 | Amy Walker |
 | 1274 | 62 | Alana Albritton Seals |
 | 1275 | 62 | Frothy Zonebuilder |
@@ -1292,22 +1292,22 @@
 | 1284 | 61 | Natasha Schatte |
 | 1285 | 61 | Dena Cudjo |
 | 1286 | 61 | Ashley Shazes |
-| 1287 | 61 | Angie Barlow |
-| 1288 | 61 | Mandy Smart |
-| 1289 | 61 | BikerBorn BikerBred |
-| 1290 | 61 | Kevin Perez |
-| 1291 | 60 | Gloria Appleton |
-| 1292 | 60 | Heather Klaus |
-| 1293 | 60 | Michelle |
-| 1294 | 60 | Heather Hill Davidson |
-| 1295 | 60 | Frank Laverty |
-| 1296 | 60 | Anna Chance |
-| 1297 | 60 | Tish |
-| 1298 | 60 | Ally Miller |
-| 1299 | 60 | Kenya Johnson |
-| 1300 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1301 | 60 | MattandAngie Hopkins |
-| 1302 | 60 | Ramon James |
+| 1287 | 61 | Kevin Perez |
+| 1288 | 61 | BikerBorn BikerBred |
+| 1289 | 61 | Angie Barlow |
+| 1290 | 61 | Mandy Smart |
+| 1291 | 60 | MattandAngie Hopkins |
+| 1292 | 60 | Kenya Johnson |
+| 1293 | 60 | Gloria Appleton |
+| 1294 | 60 | Heather Klaus |
+| 1295 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1296 | 60 | Heather Hill Davidson |
+| 1297 | 60 | Michelle |
+| 1298 | 60 | Tish |
+| 1299 | 60 | Ramon James |
+| 1300 | 60 | Anna Chance |
+| 1301 | 60 | Ally Miller |
+| 1302 | 60 | Frank Laverty |
 | 1303 | 60 | Tasha Gilbert |
 | 1304 | 60 | Giggly Buildgrid |
 | 1305 | 60 | Nikki Grant |
@@ -1324,17 +1324,17 @@
 | 1316 | 59 | Cindy Brown |
 | 1317 | 59 | April Addis |
 | 1318 | 59 | LaicoosBargains Ln |
-| 1319 | 59 | Crafty Liner |
-| 1320 | 59 | Road Runnersauraus |
-| 1321 | 59 | Jill Bobst Marple |
-| 1322 | 59 | Jolene Smith |
-| 1323 | 59 | Ryan Sanders |
-| 1324 | 59 | Jessica Gayle Sears |
+| 1319 | 59 | Ryan Sanders |
+| 1320 | 59 | Jill Bobst Marple |
+| 1321 | 59 | Road Runnersauraus |
+| 1322 | 59 | Jessica Gayle Sears |
+| 1323 | 59 | Jolene Smith |
+| 1324 | 59 | Crafty Liner |
 | 1325 | 59 | Chummy Smasher |
 | 1326 | 58 | Cheery Blast |
-| 1327 | 58 | Shanetta Johnson |
-| 1328 | 58 | Ryan Rhodes |
-| 1329 | 58 | Joslyn Erickson |
+| 1327 | 58 | Joslyn Erickson |
+| 1328 | 58 | Shanetta Johnson |
+| 1329 | 58 | Ryan Rhodes |
 | 1330 | 58 | Jeannine Murphy |
 | 1331 | 58 | Crafty Slice |
 | 1332 | 58 | Pjrobinsonnn |
@@ -1352,18 +1352,18 @@
 | 1344 | 57 | Yany |
 | 1345 | 57 | Rey Huber |
 | 1346 | 57 | Brandy Wallace |
-| 1347 | 57 | Giggly Patternline |
-| 1348 | 57 | Brooke Marie Fox |
+| 1347 | 57 | Brooke Marie Fox |
+| 1348 | 57 | Giggly Patternline |
 | 1349 | 57 | Kacey Lindemuth |
 | 1350 | 57 | Cranky Patternblock |
-| 1351 | 56 | Louise LeBlanc |
-| 1352 | 56 | CountryGurl |
-| 1353 | 56 | Danielle Etchison Mask |
-| 1354 | 56 | Jennifer Augustine |
+| 1351 | 56 | CountryGurl |
+| 1352 | 56 | Perky Rollfit |
+| 1353 | 56 | Jessi Ann |
+| 1354 | 56 | Snazzy Tiley |
 | 1355 | 56 | Greenbean |
-| 1356 | 56 | Perky Rollfit |
-| 1357 | 56 | Jessi Ann |
-| 1358 | 56 | Snazzy Tiley |
+| 1356 | 56 | Jennifer Augustine |
+| 1357 | 56 | Louise LeBlanc |
+| 1358 | 56 | Danielle Etchison Mask |
 | 1359 | 56 | Bobbie Carrol |
 | 1360 | 56 | Daniel Cline |
 | 1361 | 56 | Breanna Dykes |
@@ -1372,8 +1372,8 @@
 | 1364 | 56 | Armordguy |
 | 1365 | 55 | Teloney Humphrey |
 | 1366 | 55 | Misty McElroy |
-| 1367 | 55 | Gilbert Medina |
-| 1368 | 55 | Nick Waterwalker |
+| 1367 | 55 | Nick Waterwalker |
+| 1368 | 55 | Gilbert Medina |
 | 1369 | 55 | Mistress |
 | 1370 | 55 | Cheryl Stevens |
 | 1371 | 55 | Silly Cluster |
