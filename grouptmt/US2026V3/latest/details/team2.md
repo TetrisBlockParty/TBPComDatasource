@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 03:30:43 UTC
+# Standings for team2 as of 2026-06-08 03:31:21 UTC
 
 **Total Participants:** 2059
 
@@ -404,10 +404,10 @@
 | 396 | 211 | Sassy Twistbuilder |
 | 397 | 210 | Amanda Bottorff |
 | 398 | 210 | Zappy Liney |
-| 399 | 210 | Camilo Moreno |
-| 400 | 210 | Francesca Wagenhoffer |
-| 401 | 209 | Kevin Mccoy |
-| 402 | 209 | Rick |
+| 399 | 210 | Rick |
+| 400 | 210 | Camilo Moreno |
+| 401 | 210 | Francesca Wagenhoffer |
+| 402 | 209 | Kevin Mccoy |
 | 403 | 208 | Dad |
 | 404 | 208 | Martha Lynn Wiggins |
 | 405 | 208 | Christy Diane Escobar |
@@ -806,67 +806,67 @@
 | 798 | 98 | Ollie |
 | 799 | 98 | John Perkins |
 | 800 | 98 | Sara BlueEyes |
-| 801 | 97 | Adri Perez |
-| 802 | 97 | Staci Walker |
-| 803 | 97 | Clever Gridzone |
-| 804 | 97 | BrendaLee NolanBos |
-| 805 | 97 | Nikki Sadler |
-| 806 | 97 | Helen Townsend |
-| 807 | 97 | Jessica Melendy |
-| 808 | 97 | ASL |
-| 809 | 96 | Damion Morrison |
-| 810 | 96 | Rhonda Driskill |
-| 811 | 96 | Chirpy Clearpiece |
-| 812 | 96 | Kay Newcomb |
-| 813 | 96 | Jimmy Francis Shasta Bambi |
-| 814 | 96 | Dhelsie Qurasima |
-| 815 | 96 | Beverly-Jo Peterson |
-| 816 | 95 | Leighla Davis |
-| 817 | 95 | Zaniya Brown |
-| 818 | 95 | Nadine Velardo |
-| 819 | 94 | Paige Lynette Sohl |
-| 820 | 94 | Countrybling77 |
-| 821 | 94 | CEK |
-| 822 | 94 | Rubics cube |
-| 823 | 93 | Perky Linebuilder |
-| 824 | 93 | Connie Breeden |
-| 825 | 93 | Connie Marie Cornell Lerma |
-| 826 | 93 | Kymberlee Rolinski |
-| 827 | 93 | Mataya |
-| 828 | 93 | Becky Kennon |
-| 829 | 93 | Dawnypooh |
-| 830 | 92 | Ques Pryor |
-| 831 | 92 | Brandy McCleary |
-| 832 | 92 | Rmk |
-| 833 | 92 | Tim Moore |
-| 834 | 92 | Buddy |
-| 835 | 92 | Jayda Walters |
+| 801 | 98 | Teea Makensi Meyer |
+| 802 | 97 | Adri Perez |
+| 803 | 97 | Staci Walker |
+| 804 | 97 | Clever Gridzone |
+| 805 | 97 | BrendaLee NolanBos |
+| 806 | 97 | Nikki Sadler |
+| 807 | 97 | Helen Townsend |
+| 808 | 97 | Jessica Melendy |
+| 809 | 97 | ASL |
+| 810 | 96 | Damion Morrison |
+| 811 | 96 | Rhonda Driskill |
+| 812 | 96 | Chirpy Clearpiece |
+| 813 | 96 | Kay Newcomb |
+| 814 | 96 | Jimmy Francis Shasta Bambi |
+| 815 | 96 | Dhelsie Qurasima |
+| 816 | 96 | Beverly-Jo Peterson |
+| 817 | 95 | Leighla Davis |
+| 818 | 95 | Zaniya Brown |
+| 819 | 95 | Nadine Velardo |
+| 820 | 94 | Paige Lynette Sohl |
+| 821 | 94 | Countrybling77 |
+| 822 | 94 | CEK |
+| 823 | 94 | Rubics cube |
+| 824 | 93 | Perky Linebuilder |
+| 825 | 93 | Mataya |
+| 826 | 93 | Becky Kennon |
+| 827 | 93 | Kymberlee Rolinski |
+| 828 | 93 | Connie Marie Cornell Lerma |
+| 829 | 93 | Connie Breeden |
+| 830 | 93 | Dawnypooh |
+| 831 | 92 | Ques Pryor |
+| 832 | 92 | Doug Small |
+| 833 | 92 | Buddy |
+| 834 | 92 | Tim Moore |
+| 835 | 92 | Rmk |
 | 836 | 92 | Cody Bohannan |
-| 837 | 92 | Doug Small |
-| 838 | 92 | Linzy Ratliff |
-| 839 | 91 | Smiley Cornerfall |
-| 840 | 91 | WestieMom |
-| 841 | 91 | Lindsey Davidson |
-| 842 | 91 | Tabitha Ann Bullins-Cobb |
-| 843 | 91 | DNice |
-| 844 | 90 | Kayla Iverson |
-| 845 | 90 | Deena-Neal Peryer |
-| 846 | 90 | Val |
-| 847 | 90 | Allison Peterson |
-| 848 | 90 | Arik DiLorenzo |
-| 849 | 90 | Lacie B |
-| 850 | 90 | Roger Kirksey |
+| 837 | 92 | Linzy Ratliff |
+| 838 | 92 | Jayda Walters |
+| 839 | 92 | Brandy McCleary |
+| 840 | 91 | Smiley Cornerfall |
+| 841 | 91 | WestieMom |
+| 842 | 91 | Lindsey Davidson |
+| 843 | 91 | Tabitha Ann Bullins-Cobb |
+| 844 | 91 | DNice |
+| 845 | 90 | Kayla Iverson |
+| 846 | 90 | Allison Peterson |
+| 847 | 90 | Val |
+| 848 | 90 | Lesley Stoeckle |
+| 849 | 90 | Deena-Neal Peryer |
+| 850 | 90 | Nicole Hogue |
 | 851 | 90 | wutrwerdz |
-| 852 | 90 | Naomi Jaynes |
-| 853 | 90 | Nicole Hogue |
-| 854 | 90 | Teea Makensi Meyer |
-| 855 | 90 | Lesley Stoeckle |
-| 856 | 89 | Tami Weiss |
+| 852 | 90 | Arik DiLorenzo |
+| 853 | 90 | Naomi Jaynes |
+| 854 | 90 | Lacie B |
+| 855 | 90 | Roger Kirksey |
+| 856 | 89 | Jennifer Lewellyn Hutchins |
 | 857 | 89 | Cheryl Graves Downard |
-| 858 | 89 | Jennifer Lewellyn Hutchins |
-| 859 | 89 | Patrick Woodard |
-| 860 | 89 | Lori Yelvington Cain |
-| 861 | 89 | Cranky Brickzone |
+| 858 | 89 | Patrick Woodard |
+| 859 | 89 | Tami Weiss |
+| 860 | 89 | Cranky Brickzone |
+| 861 | 89 | Lori Yelvington Cain |
 | 862 | 89 | Christina Sheldon |
 | 863 | 88 | sugabritches |
 | 864 | 88 | Witty Riser |
@@ -874,16 +874,16 @@
 | 866 | 88 | Amanda Bailey |
 | 867 | 88 | Missy Tubb Overly |
 | 868 | 88 | Donutz |
-| 869 | 87 | Sara Karels |
-| 870 | 87 | Jolly Builderpiece |
-| 871 | 87 | BB |
-| 872 | 87 | Mee Maw |
+| 869 | 87 | BB |
+| 870 | 87 | Sara Karels |
+| 871 | 87 | Mee Maw |
+| 872 | 87 | Jolly Builderpiece |
 | 873 | 87 | Steve Eakins |
 | 874 | 86 | Chad Atchley |
 | 875 | 86 | Em |
-| 876 | 86 | Mandeee |
-| 877 | 86 | Kiersty Redder |
-| 878 | 86 | shell |
+| 876 | 86 | shell |
+| 877 | 86 | Mandeee |
+| 878 | 86 | Kiersty Redder |
 | 879 | 86 | Aaron Jones |
 | 880 | 86 | Peter Fogg |
 | 881 | 86 | Samantha Brown |

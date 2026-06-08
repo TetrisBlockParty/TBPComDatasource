@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 03:30:43 UTC
+# Standings for team1 as of 2026-06-08 03:31:21 UTC
 
 **Total Participants:** 1698
 
@@ -16,8 +16,8 @@
 | 8 | 7934 | Dyane Leah Ware |
 | 9 | 7889 | Debbie Carswell |
 | 10 | 7491 | Tracy Cohen |
-| 11 | 7070 | Death by SnuSnu |
-| 12 | 6997 | Cozy Edge |
+| 11 | 7116 | Cozy Edge |
+| 12 | 7070 | Death by SnuSnu |
 | 13 | 6336 | Speedy Spinblock |
 | 14 | 6211 | Timothy Robert |
 | 15 | 5512 | Jocelyn Pope-Sewell |
@@ -75,10 +75,10 @@
 | 67 | 1071 | Kimberly Hernandez |
 | 68 | 1067 | Catara Renae Oliver |
 | 69 | 1052 | Shortstak |
-| 70 | 1024 | Chill Clusterer |
-| 71 | 1018 | Court Court |
-| 72 | 1017 | Lisa Müller |
-| 73 | 1014 | Tiana Moore |
+| 70 | 1027 | Tiana Moore |
+| 71 | 1024 | Chill Clusterer |
+| 72 | 1018 | Court Court |
+| 73 | 1017 | Lisa Müller |
 | 74 | 995 | Whitney Butler |
 | 75 | 968 | Brian Bohanon II |
 | 76 | 939 | Uneekly Mayde |
@@ -374,11 +374,11 @@
 | 366 | 182 | Eric Spencer Whitaker |
 | 367 | 182 | Comedian Prince Paul |
 | 368 | 182 | Kyra Coleman |
-| 369 | 180 | Daddy |
-| 370 | 180 | akosua |
-| 371 | 180 | Larina Cherie Johnson |
-| 372 | 180 | Zippy Lifter |
-| 373 | 179 | Peppy Glider |
+| 369 | 182 | Peppy Glider |
+| 370 | 180 | Daddy |
+| 371 | 180 | akosua |
+| 372 | 180 | Larina Cherie Johnson |
+| 373 | 180 | Zippy Lifter |
 | 374 | 179 | Lively Riserpiece |
 | 375 | 179 | Skippy |
 | 376 | 178 | SeanSanchez |
