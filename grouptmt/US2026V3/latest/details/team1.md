@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:52:43 UTC
+# Standings for team1 as of 2026-06-08 10:53:20 UTC
 
 **Total Participants:** 1777
 
@@ -436,11 +436,11 @@
 | 428 | 179 | KeeKee Williams |
 | 429 | 178 | Manda Allen |
 | 430 | 177 | Cece Fowler |
-| 431 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 432 | 174 | Dizzy Dashy |
-| 433 | 174 | NewEve |
-| 434 | 174 | ChunLi |
-| 435 | 173 | Hasty Glidezone |
+| 431 | 175 | Hasty Glidezone |
+| 432 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 433 | 174 | Dizzy Dashy |
+| 434 | 174 | NewEve |
+| 435 | 174 | ChunLi |
 | 436 | 173 | LuckyStar |
 | 437 | 172 | Kendra McIntyre |
 | 438 | 171 | Brittany Fells |
@@ -459,102 +459,102 @@
 | 451 | 166 | BlackQueen105 |
 | 452 | 166 | Analiza Ramos |
 | 453 | 165 | Juan Alvarez |
-| 454 | 165 | SceneGreenz Wali |
-| 455 | 165 | Tanisha Taylor |
+| 454 | 165 | Tanisha Taylor |
+| 455 | 165 | SceneGreenz Wali |
 | 456 | 164 | Breezy Catcher |
 | 457 | 164 | Dede Tate |
 | 458 | 163 | Dandy Brickfit |
 | 459 | 163 | Daring Blockclear |
-| 460 | 162 | Taz Ballard |
-| 461 | 162 | Lauraly |
+| 460 | 163 | Bold Clusterer |
+| 461 | 162 | Speedy Stacky |
 | 462 | 162 | Twisty Cascadeclear |
-| 463 | 162 | Speedy Stacky |
-| 464 | 161 | boogeywoogey |
-| 465 | 161 | Devron Reedy |
-| 466 | 160 | Carolyn Smith |
-| 467 | 160 | Cheeky Twistpiece |
+| 463 | 162 | Lauraly |
+| 464 | 162 | Taz Ballard |
+| 465 | 161 | boogeywoogey |
+| 466 | 161 | Devron Reedy |
+| 467 | 160 | Carolyn Smith |
 | 468 | 160 | Slinky Clearzone |
-| 469 | 160 | Jean Regis |
-| 470 | 160 | Tracey Johnson |
-| 471 | 160 | Malcolm Stanley |
+| 469 | 160 | Cheeky Twistpiece |
+| 470 | 160 | Malcolm Stanley |
+| 471 | 160 | Jean Regis |
 | 472 | 160 | Adrian Wilson |
-| 473 | 159 | Tracy Feyler |
-| 474 | 159 | Loopy Tiler |
+| 473 | 160 | Tracey Johnson |
+| 474 | 159 | Tracy Feyler |
 | 475 | 159 | Tee Spinks |
-| 476 | 158 | Kimberly Linares Hernandez |
+| 476 | 159 | Loopy Tiler |
 | 477 | 158 | Mahagony Small |
-| 478 | 157 | Rachel Renae Bettis |
-| 479 | 156 | Lakiesha Crawford |
+| 478 | 158 | Kimberly Linares Hernandez |
+| 479 | 157 | Rachel Renae Bettis |
 | 480 | 156 | Amy Villalpando |
-| 481 | 156 | Chris Holland |
-| 482 | 156 | Johnathan Deese |
-| 483 | 156 | Shalya Terry |
-| 484 | 155 | Kala Miller |
+| 481 | 156 | Shalya Terry |
+| 482 | 156 | Lakiesha Crawford |
+| 483 | 156 | Johnathan Deese |
+| 484 | 156 | Chris Holland |
 | 485 | 155 | Miera Nicole |
-| 486 | 155 | Tajuana Juana'Cee Coleman |
-| 487 | 155 | Jae Thompson-Tyus |
-| 488 | 155 | Katrina Ramey |
-| 489 | 155 | nameno |
-| 490 | 154 | Ciera Peace |
-| 491 | 154 | Jenni Hardman |
-| 492 | 154 | Brittanie Wardlow |
+| 486 | 155 | nameno |
+| 487 | 155 | Kala Miller |
+| 488 | 155 | Jae Thompson-Tyus |
+| 489 | 155 | Katrina Ramey |
+| 490 | 155 | Tajuana Juana'Cee Coleman |
+| 491 | 154 | Brittanie Wardlow |
+| 492 | 154 | Glitzy Clusterer |
 | 493 | 154 | Rebecca Jackson |
-| 494 | 154 | Glitzy Clusterer |
-| 495 | 154 | Dorian Griffin |
-| 496 | 153 | Holly Baker |
-| 497 | 153 | Bold Clusterer |
+| 494 | 154 | Dorian Griffin |
+| 495 | 154 | Jenni Hardman |
+| 496 | 154 | Ciera Peace |
+| 497 | 153 | Holly Baker |
 | 498 | 152 | Wacky Stackbuilder |
-| 499 | 151 | Yashica Smith |
+| 499 | 151 | Perky Balancer |
 | 500 | 151 | Shakuria Cortia Burney |
-| 501 | 151 | Jimmy Shannon |
-| 502 | 151 | Perky Balancer |
-| 503 | 150 | Marshall Davis |
+| 501 | 151 | Yashica Smith |
+| 502 | 151 | Jimmy Shannon |
+| 503 | 150 | Kamilya Rembert |
 | 504 | 150 | Nisha Sunshine Jenkins |
-| 505 | 150 | Kamilya Rembert |
+| 505 | 150 | Marshall Davis |
 | 506 | 149 | Kristie |
 | 507 | 149 | Mighty Dropper |
 | 508 | 149 | Casey Chapman |
-| 509 | 148 | Faith Armone |
-| 510 | 148 | Cauiasia DeJ'ae |
-| 511 | 148 | Christi Walker Patton |
-| 512 | 148 | Shannon Carriger |
-| 513 | 148 | Seddrick |
-| 514 | 148 | Rufus |
-| 515 | 148 | Rhianna Dinki Austin |
-| 516 | 147 | Joka NoTime ForHataz |
-| 517 | 147 | Twisty Brickfit |
-| 518 | 147 | Mathew Trudell |
-| 519 | 146 | Giggly Tiltbuilder |
+| 509 | 148 | Rhianna Dinki Austin |
+| 510 | 148 | Shannon Carriger |
+| 511 | 148 | Seddrick |
+| 512 | 148 | Rufus |
+| 513 | 148 | Faith Armone |
+| 514 | 148 | Christi Walker Patton |
+| 515 | 148 | Cauiasia DeJ'ae |
+| 516 | 147 | Twisty Brickfit |
+| 517 | 147 | Mathew Trudell |
+| 518 | 147 | Joka NoTime ForHataz |
+| 519 | 146 | FunTime |
 | 520 | 146 | whatever |
-| 521 | 146 | FunTime |
-| 522 | 146 | Bella |
+| 521 | 146 | Bella |
+| 522 | 146 | Giggly Tiltbuilder |
 | 523 | 145 | Squaw Ki Ng |
 | 524 | 145 | Shea Ladynick Henderson |
-| 525 | 144 | Kp |
-| 526 | 144 | Ta'Kaiyah M. Spann |
+| 525 | 144 | Ta'Kaiyah M. Spann |
+| 526 | 144 | Kp |
 | 527 | 143 | Ashlie Mo |
 | 528 | 143 | Cheri Robinson |
-| 529 | 142 | Kelley Johnson |
-| 530 | 142 | Sarah Steckbauer |
+| 529 | 142 | Sarah Steckbauer |
+| 530 | 142 | Kelley Johnson |
 | 531 | 141 | Frances Davis |
 | 532 | 141 | Shalena Marie Humphrey |
-| 533 | 140 | Kennedi Brazziel |
-| 534 | 140 | Tessa Gaskin |
-| 535 | 140 | Antoinette Jones |
-| 536 | 138 | Ozell Jones Jr. |
-| 537 | 138 | Alexandrla Smith |
-| 538 | 138 | Dreamzzz |
-| 539 | 138 | Ashley Monet Terrell |
-| 540 | 138 | Yadira Salgado |
-| 541 | 138 | Claudia Price |
+| 533 | 140 | Tessa Gaskin |
+| 534 | 140 | Antoinette Jones |
+| 535 | 140 | Kennedi Brazziel |
+| 536 | 138 | Dreamzzz |
+| 537 | 138 | Ashley Monet Terrell |
+| 538 | 138 | Alexandrla Smith |
+| 539 | 138 | Claudia Price |
+| 540 | 138 | Ozell Jones Jr. |
+| 541 | 138 | Yadira Salgado |
 | 542 | 137 | Kelvin Cook |
 | 543 | 137 | Angelique Talbot |
-| 544 | 136 | The DUBZ |
-| 545 | 136 | Duncan Timothy |
-| 546 | 136 | Gbnola |
+| 544 | 136 | Gbnola |
+| 545 | 136 | The DUBZ |
+| 546 | 136 | Duncan Timothy |
 | 547 | 136 | Char |
-| 548 | 135 | Shameka Tiffany |
-| 549 | 135 | Saucy Tile |
+| 548 | 135 | Saucy Tile |
+| 549 | 135 | Shameka Tiffany |
 | 550 | 135 | MzJuice Box |
 | 551 | 135 | Christina Singleton |
 | 552 | 135 | Chirpy Buildgrid |
