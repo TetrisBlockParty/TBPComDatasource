@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:14:43 UTC
+# Standings for team1 as of 2026-06-08 11:15:21 UTC
 
 **Total Participants:** 1781
 
@@ -23,7 +23,7 @@
 | 15 | 5582 | Jocelyn Pope-Sewell |
 | 16 | 5282 | Plucky Swipe |
 | 17 | 5141 | Hunter Rayborn |
-| 18 | 4825 | Cassidy Butler |
+| 18 | 4924 | Cassidy Butler |
 | 19 | 4203 | Pdubbl3 |
 | 20 | 3972 | Tekedra Wilson |
 | 21 | 3892 | Kkbk |
@@ -352,22 +352,22 @@
 | 344 | 223 | Amy Lynn Leifheit |
 | 345 | 222 | Hardtohandle91 |
 | 346 | 221 | Chandler Magee |
-| 347 | 220 | Rachael Bakowicz Edwards |
+| 347 | 220 | Jean Regis |
 | 348 | 220 | Eric Spencer Whitaker |
 | 349 | 220 | rls |
 | 350 | 220 | Tamika Fisher |
-| 351 | 219 | Bambi Johnson |
-| 352 | 217 | Ashleyy Netchert |
-| 353 | 217 | Louise Parker |
-| 354 | 214 | Kyra Coleman |
-| 355 | 214 | Stephen Providenti |
-| 356 | 213 | Lazy Tiltpiece |
-| 357 | 212 | Simply-Beautiful007 |
-| 358 | 211 | Charletha Williams |
-| 359 | 211 | Nina Davis |
-| 360 | 210 | Jean Regis |
-| 361 | 210 | Sarah Clark |
-| 362 | 210 | Alyssa Rae |
+| 351 | 220 | Rachael Bakowicz Edwards |
+| 352 | 219 | Bambi Johnson |
+| 353 | 217 | Ashleyy Netchert |
+| 354 | 217 | Louise Parker |
+| 355 | 214 | Kyra Coleman |
+| 356 | 214 | Stephen Providenti |
+| 357 | 213 | Lazy Tiltpiece |
+| 358 | 212 | Simply-Beautiful007 |
+| 359 | 211 | Charletha Williams |
+| 360 | 211 | Nina Davis |
+| 361 | 210 | Alyssa Rae |
+| 362 | 210 | Sarah Clark |
 | 363 | 209 | Phillip Vasquez |
 | 364 | 209 | Antonia Wyche |
 | 365 | 209 | $hort Dog |
@@ -645,61 +645,61 @@
 | 637 | 116 | Melissa Hershberger |
 | 638 | 115 | WOOLFF |
 | 639 | 115 | Wayne Savannah |
-| 640 | 114 | LAhoneybun82 |
-| 641 | 114 | Renee Marshall |
-| 642 | 114 | Ameillia Boughner |
-| 643 | 114 | Felicia Dungey |
-| 644 | 114 | Cranky Fall |
-| 645 | 114 | Montego Allen |
+| 640 | 114 | Felicia Dungey |
+| 641 | 114 | Cranky Fall |
+| 642 | 114 | LAhoneybun82 |
+| 643 | 114 | Renee Marshall |
+| 644 | 114 | Montego Allen |
+| 645 | 114 | Ameillia Boughner |
 | 646 | 113 | Lilly Brown |
-| 647 | 112 | DirtiestofMikes |
-| 648 | 112 | Marie Wilson |
-| 649 | 112 | Jose Rodriguez |
-| 650 | 112 | Peppy Wipeblock |
-| 651 | 112 | Stephen Glaze |
-| 652 | 112 | TeeMaster Barber IsLyfe |
-| 653 | 112 | GamerQueenDS |
-| 654 | 111 | Happy Blockpiece |
-| 655 | 111 | Taneka Howell |
-| 656 | 111 | Mellie Mel |
-| 657 | 111 | Chino Baby |
-| 658 | 111 | Angie Smith |
-| 659 | 111 | Happy Blocky |
-| 660 | 110 | Loopy Block |
-| 661 | 110 | Danny Talbot |
-| 662 | 110 | Mommy Frank |
-| 663 | 110 | Stephen Garland |
-| 664 | 110 | Tito Divyn |
-| 665 | 110 | Jen Hallin |
-| 666 | 110 | Tony Pizzas |
-| 667 | 109 | Kim Holzmiller |
+| 647 | 112 | Peppy Wipeblock |
+| 648 | 112 | GamerQueenDS |
+| 649 | 112 | Marie Wilson |
+| 650 | 112 | Jose Rodriguez |
+| 651 | 112 | DirtiestofMikes |
+| 652 | 112 | Stephen Glaze |
+| 653 | 112 | TeeMaster Barber IsLyfe |
+| 654 | 111 | Taneka Howell |
+| 655 | 111 | Chino Baby |
+| 656 | 111 | Bambam |
+| 657 | 111 | Angie Smith |
+| 658 | 111 | Happy Blockpiece |
+| 659 | 111 | Mellie Mel |
+| 660 | 111 | Happy Blocky |
+| 661 | 110 | Mommy Frank |
+| 662 | 110 | Loopy Block |
+| 663 | 110 | Danny Talbot |
+| 664 | 110 | Stephen Garland |
+| 665 | 110 | Tito Divyn |
+| 666 | 110 | Jen Hallin |
+| 667 | 110 | Tony Pizzas |
 | 668 | 109 | Cynthia Cruell |
 | 669 | 109 | Hyedie Badie |
 | 670 | 109 | Chereese Harris |
 | 671 | 109 | Kortney Adams |
-| 672 | 108 | Bambam |
+| 672 | 109 | Kim Holzmiller |
 | 673 | 108 | Richelle Beck |
-| 674 | 108 | Charika Marie Bergmann |
-| 675 | 108 | Witty Clear |
-| 676 | 108 | Elaine Pauley |
+| 674 | 108 | Witty Clear |
+| 675 | 108 | Angela Brown Babin |
+| 676 | 108 | Antoinette Kelly |
 | 677 | 108 | EvaLynn NeCole |
-| 678 | 108 | Angela Brown Babin |
-| 679 | 108 | Antoinette Kelly |
-| 680 | 108 | Shaun Anderson |
+| 678 | 108 | Shaun Anderson |
+| 679 | 108 | Elaine Pauley |
+| 680 | 108 | Charika Marie Bergmann |
 | 681 | 107 | Fatty May |
 | 682 | 107 | Poppy Smasher |
-| 683 | 106 | TotoCherue |
-| 684 | 106 | Tina Blessed Cage |
-| 685 | 106 | Elizabeth Hopkins |
+| 683 | 106 | Elizabeth Hopkins |
+| 684 | 106 | TotoCherue |
+| 685 | 106 | Tina Blessed Cage |
 | 686 | 106 | Desi Guerra |
-| 687 | 105 | Michael Smith |
+| 687 | 105 | QueenShay AllGood |
 | 688 | 105 | Jack Mehof |
 | 689 | 105 | Ja'mice Nelson |
 | 690 | 105 | Mario Meliodas |
 | 691 | 105 | Raquel Ortiz |
 | 692 | 105 | Nikkizz |
 | 693 | 105 | Christopher L Crites |
-| 694 | 105 | QueenShay AllGood |
+| 694 | 105 | Michael Smith |
 | 695 | 105 | Maria |
 | 696 | 104 | Victor |
 | 697 | 104 | Nona Harriel |
