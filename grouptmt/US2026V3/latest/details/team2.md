@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 16:58:22 UTC
+# Standings for team2 as of 2026-06-08 16:58:44 UTC
 
 **Total Participants:** 2218
 
@@ -191,13 +191,13 @@
 | 183 | 567 | Nutty Curver |
 | 184 | 567 | Cool Balancer |
 | 185 | 565 | Christina Maria |
-| 186 | 550 | DomDomsNana |
-| 187 | 542 | Spicy Risegrid |
-| 188 | 537 | Alicia Ellenburg |
-| 189 | 536 | Leigh Ann |
-| 190 | 529 | Mom |
-| 191 | 529 | Kimmyc |
-| 192 | 528 | Michelle Rich Burkhart |
+| 186 | 555 | Michelle Rich Burkhart |
+| 187 | 550 | DomDomsNana |
+| 188 | 542 | Spicy Risegrid |
+| 189 | 537 | Alicia Ellenburg |
+| 190 | 536 | Leigh Ann |
+| 191 | 529 | Mom |
+| 192 | 529 | Kimmyc |
 | 193 | 527 | Amy Gale |
 | 194 | 526 | MegaPooh |
 | 195 | 521 | Steven Craig |
@@ -1661,32 +1661,32 @@
 | 1653 | 35 | Wendy Michelle |
 | 1654 | 35 | KT Scott |
 | 1655 | 35 | Megan |
-| 1656 | 35 | Darla |
+| 1656 | 35 | Dizzy Shatterfit |
 | 1657 | 35 | Loony Glider |
-| 1658 | 34 | Crazygranny |
-| 1659 | 34 | Dapper Corner |
+| 1658 | 35 | Darla |
+| 1659 | 34 | Crazygranny |
 | 1660 | 34 | Jennifer M Mitchell |
-| 1661 | 34 | Marlo Perry |
-| 1662 | 34 | Jager |
-| 1663 | 33 | Erica |
-| 1664 | 33 | Phyllis DiCristo |
-| 1665 | 33 | juhde |
-| 1666 | 33 | Nicki McGill |
-| 1667 | 33 | Snazzy Racker |
-| 1668 | 33 | Sandra Mathes Reece |
-| 1669 | 33 | Debbie Embry |
-| 1670 | 33 | Maja Hauff |
-| 1671 | 33 | Beth |
-| 1672 | 33 | Holly |
-| 1673 | 33 | Dixie Wilson |
-| 1674 | 33 | Frisky Snapper |
-| 1675 | 33 | Vanessa King |
-| 1676 | 33 | Stephanie Stegman |
-| 1677 | 33 | Maureen Bryan Adams |
-| 1678 | 32 | Michael Woodall |
-| 1679 | 32 | Stacey Ann Kelley |
+| 1661 | 34 | Dapper Corner |
+| 1662 | 34 | Marlo Perry |
+| 1663 | 34 | Jager |
+| 1664 | 33 | Erica |
+| 1665 | 33 | Phyllis DiCristo |
+| 1666 | 33 | juhde |
+| 1667 | 33 | Nicki McGill |
+| 1668 | 33 | Snazzy Racker |
+| 1669 | 33 | Sandra Mathes Reece |
+| 1670 | 33 | Debbie Embry |
+| 1671 | 33 | Maja Hauff |
+| 1672 | 33 | Beth |
+| 1673 | 33 | Holly |
+| 1674 | 33 | Dixie Wilson |
+| 1675 | 33 | Frisky Snapper |
+| 1676 | 33 | Vanessa King |
+| 1677 | 33 | Stephanie Stegman |
+| 1678 | 33 | Maureen Bryan Adams |
+| 1679 | 32 | Michael Woodall |
 | 1680 | 32 | Swanky Fallmatch |
-| 1681 | 32 | Dizzy Shatterfit |
+| 1681 | 32 | Stacey Ann Kelley |
 | 1682 | 32 | Jenea Colvin |
 | 1683 | 32 | Michelle Shemon |
 | 1684 | 32 | Foc |
