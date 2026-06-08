@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:38:43 UTC
+# Standings for team1 as of 2026-06-08 18:39:19 UTC
 
 **Total Participants:** 1846
 
@@ -103,10 +103,10 @@
 | 95 | 967 | KenpachisGirl |
 | 96 | 963 | Jason Mungin |
 | 97 | 945 | Voice |
-| 98 | 913 | MamaBear |
-| 99 | 911 | TAZ-MF-NIZIL |
-| 100 | 911 | Richard Horton |
-| 101 | 910 | Quirky Fallgrid |
+| 98 | 918 | Quirky Fallgrid |
+| 99 | 913 | MamaBear |
+| 100 | 911 | TAZ-MF-NIZIL |
+| 101 | 911 | Richard Horton |
 | 102 | 908 | Danielle Barthelme |
 | 103 | 907 | Jaida De'Anne Cox |
 | 104 | 897 | BYM4L |
@@ -260,18 +260,18 @@
 | 252 | 350 | Ashley MyBeauty Daniels |
 | 253 | 348 | NastyFriend |
 | 254 | 345 | Rhonda Williams Warner |
-| 255 | 343 | Heather Aurelia |
-| 256 | 343 | Yasmin Nakea Wright |
+| 255 | 343 | Yasmin Nakea Wright |
+| 256 | 343 | Heather Aurelia |
 | 257 | 341 | Tremaine Hiler |
-| 258 | 341 | BlackQueen105 |
-| 259 | 341 | Jawaun Daniels |
-| 260 | 338 | Brand Nu |
-| 261 | 338 | Dennis J Herron II |
-| 262 | 337 | Koi |
-| 263 | 335 | Christian Pham |
+| 258 | 341 | Jawaun Daniels |
+| 259 | 341 | BlackQueen105 |
+| 260 | 340 | Christian Pham |
+| 261 | 338 | Brand Nu |
+| 262 | 338 | Dennis J Herron II |
+| 263 | 337 | Koi |
 | 264 | 333 | Qwlonda Shirrell |
-| 265 | 331 | Tessa Felice Hill |
-| 266 | 331 | FallDee |
+| 265 | 331 | FallDee |
+| 266 | 331 | Tessa Felice Hill |
 | 267 | 331 | Coco |
 | 268 | 330 | ♈️ Ariesbaby |
 | 269 | 330 | Crystal Boyd |
@@ -279,13 +279,13 @@
 | 271 | 329 | Bbyunicorn |
 | 272 | 328 | Chummy Frame |
 | 273 | 326 | Christopher Dreamsareality McEachin |
-| 274 | 325 | Cortaz Lawrie |
-| 275 | 325 | Simone Bailey |
-| 276 | 323 | Denise B |
-| 277 | 323 | Bre Poston |
-| 278 | 321 | Randizzle |
-| 279 | 320 | Natasha Rucker |
-| 280 | 320 | Steve Reno |
+| 274 | 325 | Simone Bailey |
+| 275 | 325 | Cortaz Lawrie |
+| 276 | 323 | Bre Poston |
+| 277 | 323 | Denise B |
+| 278 | 322 | Steve Reno |
+| 279 | 321 | Randizzle |
+| 280 | 320 | Natasha Rucker |
 | 281 | 318 | Jhonny Maii |
 | 282 | 318 | Nerdy Snapfall |
 | 283 | 317 | Jai |
@@ -509,13 +509,13 @@
 | 501 | 176 | Char |
 | 502 | 176 | Dede Tate |
 | 503 | 176 | Jimmy Shannon |
-| 504 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 505 | 175 | Aaron Hartmann |
-| 506 | 174 | Clipzby |
-| 507 | 174 | Karen Knapp |
-| 508 | 174 | ChunLi |
-| 509 | 173 | Tajuana Juana'Cee Coleman |
-| 510 | 173 | Nona Harriel |
+| 504 | 176 | Nona Harriel |
+| 505 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 506 | 175 | Aaron Hartmann |
+| 507 | 174 | Clipzby |
+| 508 | 174 | Karen Knapp |
+| 509 | 174 | ChunLi |
+| 510 | 173 | Tajuana Juana'Cee Coleman |
 | 511 | 172 | Poyre Shelton |
 | 512 | 171 | Ta'Kaiyah M. Spann |
 | 513 | 170 | Katrina Ramey |
@@ -1003,25 +1003,25 @@
 | 995 | 74 | Bluebino |
 | 996 | 73 | Sarah Barnum |
 | 997 | 73 | Lazy Matchgrid |
-| 998 | 73 | tg |
-| 999 | 73 | Ducc2408 |
-| 1000 | 73 | Alice Biggs |
-| 1001 | 73 | Jonathan Zold |
-| 1002 | 72 | WReckitraff |
-| 1003 | 72 | ImmeKC |
-| 1004 | 72 | Dennis Ripley |
+| 998 | 73 | Jonathan Zold |
+| 999 | 73 | Alice Biggs |
+| 1000 | 73 | tg |
+| 1001 | 73 | Ducc2408 |
+| 1002 | 72 | Comedian Gdane |
+| 1003 | 72 | Hoppy Buildsnap |
+| 1004 | 72 | Vivian Bunnell Myers |
 | 1005 | 72 | Toohartless Mech |
-| 1006 | 72 | Vivian Bunnell Myers |
-| 1007 | 72 | Comedian Gdane |
-| 1008 | 71 | HBTone |
-| 1009 | 71 | Ryan Holm |
-| 1010 | 71 | Tori Carter |
-| 1011 | 71 | KimChii |
-| 1012 | 70 | TNT |
-| 1013 | 70 | Fransine Bennett |
-| 1014 | 70 | Rande Smith |
-| 1015 | 70 | Rachel Lopez |
-| 1016 | 70 | Hoppy Buildsnap |
+| 1006 | 72 | Dennis Ripley |
+| 1007 | 72 | ImmeKC |
+| 1008 | 72 | WReckitraff |
+| 1009 | 71 | HBTone |
+| 1010 | 71 | Ryan Holm |
+| 1011 | 71 | Tori Carter |
+| 1012 | 71 | KimChii |
+| 1013 | 70 | TNT |
+| 1014 | 70 | Rachel Lopez |
+| 1015 | 70 | Fransine Bennett |
+| 1016 | 70 | Rande Smith |
 | 1017 | 70 | JoZanna Washington |
 | 1018 | 70 | Alisha Dawson Crouch |
 | 1019 | 70 | RealOne95 |
