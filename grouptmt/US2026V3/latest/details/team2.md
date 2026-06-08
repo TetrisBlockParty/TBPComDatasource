@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:46:19 UTC
+# Standings for team2 as of 2026-06-08 02:46:41 UTC
 
 **Total Participants:** 2045
 
@@ -371,40 +371,40 @@
 | 363 | 225 | Cheery Towerzone |
 | 364 | 224 | Alicia Kinney |
 | 365 | 222 | Harper |
-| 366 | 221 | Anthony Swift |
-| 367 | 220 | Elliott Mikila |
-| 368 | 220 | Precious Womack |
-| 369 | 220 | Carlos J Blas |
-| 370 | 220 | ShiverMeSplinter |
-| 371 | 220 | Sherri E Woods Hess |
+| 366 | 222 | Tango Sierra |
+| 367 | 221 | Anthony Swift |
+| 368 | 220 | Elliott Mikila |
+| 369 | 220 | Precious Womack |
+| 370 | 220 | Carlos J Blas |
+| 371 | 220 | ShiverMeSplinter |
 | 372 | 220 | Flashy Basegrid |
 | 373 | 220 | Michelle M Braley |
-| 374 | 220 | Krystle L Coon |
-| 375 | 218 | Tango Sierra |
+| 374 | 220 | Sherri E Woods Hess |
+| 375 | 220 | Krystle L Coon |
 | 376 | 218 | Julie Alexander Sykes |
 | 377 | 217 | Spicy Snapclear |
 | 378 | 217 | Amanda Priddy |
 | 379 | 216 | Kimberly Benson |
-| 380 | 215 | Alonzo Reed |
-| 381 | 215 | Maria Ward |
-| 382 | 214 | Stephany Green |
-| 383 | 214 | Kathryn |
+| 380 | 215 | Maria Ward |
+| 381 | 215 | Alonzo Reed |
+| 382 | 214 | Kathryn |
+| 383 | 214 | Stephany Green |
 | 384 | 213 | Judy Burkhalter |
 | 385 | 212 | Carebear05 |
 | 386 | 212 | Flashy Hitter |
 | 387 | 211 | Jumpy Matchbuilder |
 | 388 | 211 | Sassy Twistbuilder |
-| 389 | 210 | Francesca Wagenhoffer |
-| 390 | 210 | Camilo Moreno |
-| 391 | 210 | Amanda Bottorff |
-| 392 | 210 | Zappy Liney |
+| 389 | 210 | Camilo Moreno |
+| 390 | 210 | Amanda Bottorff |
+| 391 | 210 | Zappy Liney |
+| 392 | 210 | Francesca Wagenhoffer |
 | 393 | 209 | Kevin Mccoy |
-| 394 | 208 | Dad |
-| 395 | 208 | Martha Lynn Wiggins |
+| 394 | 208 | Martha Lynn Wiggins |
+| 395 | 208 | Dad |
 | 396 | 208 | Christy Diane Escobar |
 | 397 | 207 | StacyBabee |
-| 398 | 206 | meg |
-| 399 | 206 | Jodi Johnson |
+| 398 | 206 | Jodi Johnson |
+| 399 | 206 | meg |
 | 400 | 204 | Jacquelyn Snyder Dumas |
 | 401 | 204 | Melmel |
 | 402 | 204 | Rick |
@@ -450,23 +450,23 @@
 | 442 | 181 | Jamie Adams |
 | 443 | 181 | Meagan Grimmett Washburn |
 | 444 | 181 | Victoria Pale |
-| 445 | 180 | Happy |
-| 446 | 180 | Zany Wrecker |
-| 447 | 180 | Laura Larsen |
-| 448 | 180 | Dawn Kroptavich |
-| 449 | 180 | Sarah Jane Gorsuch |
-| 450 | 180 | Ashley Voelz |
-| 451 | 179 | Jenni LeBlanc |
-| 452 | 179 | Kevin Patrick |
-| 453 | 179 | Perii Reynoso |
-| 454 | 179 | Derrick |
-| 455 | 179 | Lively Curve |
-| 456 | 179 | Michael Carmichael |
-| 457 | 179 | Bengy Lead |
-| 458 | 179 | Teresa Mandich |
-| 459 | 178 | Duke Morley |
+| 445 | 181 | Joannah Capilitan |
+| 446 | 180 | Happy |
+| 447 | 180 | Zany Wrecker |
+| 448 | 180 | Laura Larsen |
+| 449 | 180 | Dawn Kroptavich |
+| 450 | 180 | Sarah Jane Gorsuch |
+| 451 | 180 | Ashley Voelz |
+| 452 | 179 | Jenni LeBlanc |
+| 453 | 179 | Kevin Patrick |
+| 454 | 179 | Perii Reynoso |
+| 455 | 179 | Derrick |
+| 456 | 179 | Lively Curve |
+| 457 | 179 | Michael Carmichael |
+| 458 | 179 | Bengy Lead |
+| 459 | 179 | Teresa Mandich |
 | 460 | 178 | Rocroc mo |
-| 461 | 178 | Joannah Capilitan |
+| 461 | 178 | Duke Morley |
 | 462 | 176 | Jessica Connot |
 | 463 | 176 | Kay |
 | 464 | 174 | Funway998 |
@@ -474,8 +474,8 @@
 | 466 | 174 | Laurie |
 | 467 | 173 | Gluten Gremlin |
 | 468 | 173 | Rydin Dirt |
-| 469 | 172 | Rescuegirl76 |
-| 470 | 172 | Mandy |
+| 469 | 172 | Mandy |
+| 470 | 172 | Rescuegirl76 |
 | 471 | 172 | Will Jones |
 | 472 | 172 | Charity Hauser |
 | 473 | 170 | Dapper Riser |
@@ -1272,10 +1272,10 @@
 | 1264 | 47 | Ozge Akgun Tokat |
 | 1265 | 47 | Angela Knighton |
 | 1266 | 47 | Bruce Bower |
-| 1267 | 46 | Spunky Snapfall |
-| 1268 | 46 | Octavius Walker |
-| 1269 | 46 | BigHearted-57 |
-| 1270 | 46 | Julie Brown |
+| 1267 | 46 | Julie Brown |
+| 1268 | 46 | BigHearted-57 |
+| 1269 | 46 | Spunky Snapfall |
+| 1270 | 46 | Octavius Walker |
 | 1271 | 46 | Matthew Black |
 | 1272 | 46 | Loony Ziggy |
 | 1273 | 46 | Thomas Chris |
@@ -1297,15 +1297,15 @@
 | 1289 | 45 | Breanna Dykes |
 | 1290 | 45 | Witty Brickster |
 | 1291 | 45 | JEEPER |
-| 1292 | 45 | Jennifer Nelson |
-| 1293 | 45 | Giggy Snapper |
-| 1294 | 45 | Jason M Barnes |
-| 1295 | 45 | STARFIRE |
-| 1296 | 45 | Donna R. Banks |
-| 1297 | 44 | Crafty Shatterer |
+| 1292 | 45 | Donna R. Banks |
+| 1293 | 45 | STARFIRE |
+| 1294 | 45 | sam |
+| 1295 | 45 | Jason M Barnes |
+| 1296 | 45 | Giggy Snapper |
+| 1297 | 45 | Jennifer Nelson |
 | 1298 | 44 | William Richardson |
-| 1299 | 44 | Brittany Russell |
-| 1300 | 44 | sam |
+| 1299 | 44 | Crafty Shatterer |
+| 1300 | 44 | Brittany Russell |
 | 1301 | 44 | Blocker |
 | 1302 | 44 | Lisa |
 | 1303 | 44 | Zippy Wobbler |
