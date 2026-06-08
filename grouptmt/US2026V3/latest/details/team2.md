@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:44:19 UTC
+# Standings for team2 as of 2026-06-08 08:44:42 UTC
 
 **Total Participants:** 2137
 
@@ -202,37 +202,37 @@
 | 194 | 453 | Ashley Green |
 | 195 | 453 | Kimberly Cowan |
 | 196 | 451 | Gill |
-| 197 | 449 | Snappy Blockbuilder |
-| 198 | 449 | Danielle Blount |
-| 199 | 449 | Suki Jacobs |
-| 200 | 448 | Eric Drane |
-| 201 | 445 | Gabrielle Wilson |
-| 202 | 442 | Frilly Dashfit |
-| 203 | 434 | Janelle Edgecombe |
-| 204 | 432 | Twisty Buildgrid |
-| 205 | 431 | AndyJo |
-| 206 | 429 | Cool Climber |
-| 207 | 429 | giamy |
-| 208 | 428 | Nikki EightySixed |
-| 209 | 428 | Zany Blockclear |
-| 210 | 428 | Physhie |
-| 211 | 427 | Flower_child |
-| 212 | 425 | Joni Michelle Morgan |
-| 213 | 423 | Tara |
-| 214 | 419 | Thomas Tyrone |
-| 215 | 418 | Breeana Bennett |
-| 216 | 416 | Cristi Doris |
-| 217 | 416 | Lyric Price |
-| 218 | 414 | Daybreak |
-| 219 | 413 | H |
-| 220 | 413 | Jat |
-| 221 | 412 | Nikki Hayes |
-| 222 | 411 | Sandy Lynn |
-| 223 | 411 | Mookshake |
-| 224 | 410 | Mellzey |
+| 197 | 450 | Mellzey |
+| 198 | 449 | Snappy Blockbuilder |
+| 199 | 449 | Danielle Blount |
+| 200 | 449 | Suki Jacobs |
+| 201 | 448 | Eric Drane |
+| 202 | 445 | Gabrielle Wilson |
+| 203 | 442 | Frilly Dashfit |
+| 204 | 434 | Janelle Edgecombe |
+| 205 | 432 | Twisty Buildgrid |
+| 206 | 431 | AndyJo |
+| 207 | 429 | Cool Climber |
+| 208 | 429 | giamy |
+| 209 | 428 | Nikki EightySixed |
+| 210 | 428 | Zany Blockclear |
+| 211 | 428 | Physhie |
+| 212 | 427 | Flower_child |
+| 213 | 425 | Joni Michelle Morgan |
+| 214 | 423 | Tara |
+| 215 | 419 | Thomas Tyrone |
+| 216 | 418 | Breeana Bennett |
+| 217 | 416 | Cristi Doris |
+| 218 | 416 | Lyric Price |
+| 219 | 414 | Daybreak |
+| 220 | 413 | H |
+| 221 | 413 | Jat |
+| 222 | 412 | Nikki Hayes |
+| 223 | 411 | Sandy Lynn |
+| 224 | 411 | Mookshake |
 | 225 | 407 | Crystal Allen |
-| 226 | 405 | Amy Gregg |
-| 227 | 405 | MaddieCherie |
+| 226 | 405 | MaddieCherie |
+| 227 | 405 | Amy Gregg |
 | 228 | 404 | Goofy Gridclear |
 | 229 | 403 | Becca Marie |
 | 230 | 402 | Brenda Jones |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:44:19 UTC
+# Standings for team1 as of 2026-06-08 08:44:42 UTC
 
 **Total Participants:** 1763
 
@@ -407,116 +407,116 @@
 | 399 | 184 | Amy Lynn Leifheit |
 | 400 | 184 | Soubletzy |
 | 401 | 183 | Erika |
-| 402 | 183 | wmedina67 |
-| 403 | 183 | Mary Phillippi Blanton |
-| 404 | 182 | Matthieu Pistone |
-| 405 | 182 | 大竹直之 |
-| 406 | 182 | Courtney Cicoria |
-| 407 | 182 | Comedian Prince Paul |
+| 402 | 183 | Mary Phillippi Blanton |
+| 403 | 183 | wmedina67 |
+| 404 | 182 | Courtney Cicoria |
+| 405 | 182 | Comedian Prince Paul |
+| 406 | 182 | 大竹直之 |
+| 407 | 182 | Matthieu Pistone |
 | 408 | 181 | Sharee Robinson |
-| 409 | 180 | Zippy Lifter |
+| 409 | 180 | akosua |
 | 410 | 180 | Daddy |
-| 411 | 180 | akosua |
-| 412 | 180 | Larina Cherie Johnson |
-| 413 | 180 | Cornelius Neal |
+| 411 | 180 | Larina Cherie Johnson |
+| 412 | 180 | Cornelius Neal |
+| 413 | 180 | Zippy Lifter |
 | 414 | 179 | Lively Riserpiece |
 | 415 | 179 | KeeKee Williams |
 | 416 | 179 | Skippy |
 | 417 | 178 | Manda Allen |
-| 418 | 177 | Valerie Alexander |
-| 419 | 177 | Cece Fowler |
-| 420 | 174 | ChunLi |
-| 421 | 174 | NewEve |
-| 422 | 174 | Dizzy Dashy |
+| 418 | 177 | Cece Fowler |
+| 419 | 177 | Valerie Alexander |
+| 420 | 174 | Dizzy Dashy |
+| 421 | 174 | ChunLi |
+| 422 | 174 | NewEve |
 | 423 | 173 | LuckyStar |
 | 424 | 172 | Kendra McIntyre |
 | 425 | 171 | Telisha Mims |
 | 426 | 171 | Brittany Fells |
 | 427 | 170 | Hasty Glidezone |
-| 428 | 169 | rb |
-| 429 | 169 | Clipzby |
-| 430 | 169 | Bubbly Piececlear |
+| 428 | 169 | Clipzby |
+| 429 | 169 | Bubbly Piececlear |
+| 430 | 169 | rb |
 | 431 | 168 | Lounique |
 | 432 | 168 | Shanns |
 | 433 | 167 | MonaSparks |
-| 434 | 167 | Mister Reid |
-| 435 | 167 | Charlene Baltimore |
-| 436 | 166 | Melissa Olvera |
-| 437 | 166 | Teresa Yanira Cepeda |
-| 438 | 166 | BlackQueen105 |
-| 439 | 166 | Analiza Ramos |
-| 440 | 165 | Juan Alvarez |
+| 434 | 167 | Charlene Baltimore |
+| 435 | 167 | Mister Reid |
+| 436 | 166 | BlackQueen105 |
+| 437 | 166 | Analiza Ramos |
+| 438 | 166 | Teresa Yanira Cepeda |
+| 439 | 166 | Melissa Olvera |
+| 440 | 165 | Tanisha Taylor |
 | 441 | 165 | SceneGreenz Wali |
-| 442 | 165 | Tanisha Taylor |
-| 443 | 164 | Breezy Catcher |
-| 444 | 164 | Dede Tate |
-| 445 | 164 | Giggy Clusterer |
-| 446 | 163 | Daring Blockclear |
-| 447 | 163 | Dandy Brickfit |
+| 442 | 165 | Juan Alvarez |
+| 443 | 164 | Dede Tate |
+| 444 | 164 | Giggy Clusterer |
+| 445 | 164 | Breezy Catcher |
+| 446 | 163 | Dandy Brickfit |
+| 447 | 163 | Daring Blockclear |
 | 448 | 162 | Lauraly |
 | 449 | 162 | Twisty Cascadeclear |
 | 450 | 162 | Speedy Stacky |
-| 451 | 161 | boogeywoogey |
-| 452 | 161 | Devron Reedy |
+| 451 | 161 | Devron Reedy |
+| 452 | 161 | boogeywoogey |
 | 453 | 160 | Malcolm Stanley |
-| 454 | 160 | Cheeky Twistpiece |
-| 455 | 160 | Jean Regis |
-| 456 | 160 | Slinky Clearzone |
-| 457 | 160 | Adrian Wilson |
-| 458 | 160 | Carolyn Smith |
-| 459 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 460 | 160 | Tracey Johnson |
-| 461 | 159 | Loopy Tiler |
-| 462 | 159 | Tee Spinks |
-| 463 | 158 | Kimberly Linares Hernandez |
-| 464 | 158 | Mahagony Small |
+| 454 | 160 | Adrian Wilson |
+| 455 | 160 | Carolyn Smith |
+| 456 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 457 | 160 | Slinky Clearzone |
+| 458 | 160 | Tracey Johnson |
+| 459 | 160 | Cheeky Twistpiece |
+| 460 | 160 | Jean Regis |
+| 461 | 159 | Tee Spinks |
+| 462 | 159 | Loopy Tiler |
+| 463 | 158 | Mahagony Small |
+| 464 | 158 | Kimberly Linares Hernandez |
 | 465 | 157 | Rachel Renae Bettis |
-| 466 | 156 | Chris Holland |
-| 467 | 156 | Shalya Terry |
+| 466 | 156 | Lakiesha Crawford |
+| 467 | 156 | Chris Holland |
 | 468 | 156 | Amy Villalpando |
 | 469 | 156 | Johnathan Deese |
-| 470 | 156 | Lakiesha Crawford |
-| 471 | 155 | Jae Thompson-Tyus |
-| 472 | 155 | Miera Nicole |
-| 473 | 155 | Kala Miller |
-| 474 | 155 | Tajuana Juana'Cee Coleman |
+| 470 | 156 | Shalya Terry |
+| 471 | 155 | Miera Nicole |
+| 472 | 155 | Tajuana Juana'Cee Coleman |
+| 473 | 155 | Jae Thompson-Tyus |
+| 474 | 155 | Kala Miller |
 | 475 | 155 | Katrina Ramey |
-| 476 | 154 | Jenni Hardman |
-| 477 | 154 | Rebecca Jackson |
-| 478 | 154 | Glitzy Clusterer |
-| 479 | 154 | Dorian Griffin |
-| 480 | 154 | Brittanie Wardlow |
-| 481 | 154 | Rachael R Gull |
-| 482 | 154 | Ciera Peace |
+| 476 | 154 | Brittanie Wardlow |
+| 477 | 154 | Dorian Griffin |
+| 478 | 154 | Rebecca Jackson |
+| 479 | 154 | Glitzy Clusterer |
+| 480 | 154 | Jenni Hardman |
+| 481 | 154 | Ciera Peace |
+| 482 | 154 | Rachael R Gull |
 | 483 | 152 | Wacky Stackbuilder |
-| 484 | 151 | Perky Balancer |
-| 485 | 151 | Shakuria Cortia Burney |
-| 486 | 151 | Jimmy Shannon |
-| 487 | 151 | Yashica Smith |
-| 488 | 150 | Nisha Sunshine Jenkins |
-| 489 | 150 | Deveda Williams |
+| 484 | 152 | Kate Hancock Malicek |
+| 485 | 151 | Perky Balancer |
+| 486 | 151 | Yashica Smith |
+| 487 | 151 | Jimmy Shannon |
+| 488 | 151 | Shakuria Cortia Burney |
+| 489 | 150 | Nisha Sunshine Jenkins |
 | 490 | 150 | Kamilya Rembert |
-| 491 | 150 | Marshall Davis |
-| 492 | 149 | Casey Chapman |
-| 493 | 149 | Mighty Dropper |
-| 494 | 149 | Kristie |
-| 495 | 148 | Faith Armone |
-| 496 | 148 | Shannon Carriger |
-| 497 | 148 | Christi Walker Patton |
-| 498 | 148 | Kate Hancock Malicek |
+| 491 | 150 | Deveda Williams |
+| 492 | 150 | Marshall Davis |
+| 493 | 149 | Casey Chapman |
+| 494 | 149 | Mighty Dropper |
+| 495 | 149 | Kristie |
+| 496 | 148 | Christi Walker Patton |
+| 497 | 148 | Shannon Carriger |
+| 498 | 148 | Faith Armone |
 | 499 | 148 | Seddrick |
 | 500 | 148 | Cauiasia DeJ'ae |
-| 501 | 147 | Twisty Brickfit |
-| 502 | 147 | Joka NoTime ForHataz |
-| 503 | 147 | Mathew Trudell |
+| 501 | 147 | Joka NoTime ForHataz |
+| 502 | 147 | Mathew Trudell |
+| 503 | 147 | Twisty Brickfit |
 | 504 | 146 | Bella |
-| 505 | 146 | FunTime |
-| 506 | 146 | whatever |
-| 507 | 145 | Shea Ladynick Henderson |
-| 508 | 145 | Squaw Ki Ng |
-| 509 | 144 | Kp |
-| 510 | 144 | Ta'Kaiyah M. Spann |
-| 511 | 144 | Douglas Price |
+| 505 | 146 | whatever |
+| 506 | 146 | FunTime |
+| 507 | 145 | Squaw Ki Ng |
+| 508 | 145 | Shea Ladynick Henderson |
+| 509 | 144 | Ta'Kaiyah M. Spann |
+| 510 | 144 | Douglas Price |
+| 511 | 144 | Kp |
 | 512 | 143 | Ashlie Mo |
 | 513 | 142 | Kelley Johnson |
 | 514 | 142 | Sarah Steckbauer |
