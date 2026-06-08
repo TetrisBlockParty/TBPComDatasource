@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:10:44 UTC
+# Standings for team1 as of 2026-06-08 09:11:19 UTC
 
 **Total Participants:** 1765
 
@@ -24,8 +24,8 @@
 | 16 | 5282 | Plucky Swipe |
 | 17 | 5141 | Hunter Rayborn |
 | 18 | 4249 | Cassidy Butler |
-| 19 | 3972 | Tekedra Wilson |
-| 20 | 3964 | Pdubbl3 |
+| 19 | 4023 | Pdubbl3 |
+| 20 | 3972 | Tekedra Wilson |
 | 21 | 3892 | Kkbk |
 | 22 | 3795 | jaimie |
 | 23 | 3721 | Chandler Spencer |
@@ -412,38 +412,38 @@
 | 404 | 183 | Mary Phillippi Blanton |
 | 405 | 182 | Courtney Cicoria |
 | 406 | 182 | Comedian Prince Paul |
-| 407 | 182 | 大竹直之 |
-| 408 | 182 | Matthieu Pistone |
-| 409 | 181 | Sharee Robinson |
-| 410 | 180 | Zippy Lifter |
-| 411 | 180 | Larina Cherie Johnson |
+| 407 | 182 | Kate Hancock Malicek |
+| 408 | 182 | 大竹直之 |
+| 409 | 182 | Matthieu Pistone |
+| 410 | 181 | Sharee Robinson |
+| 411 | 180 | Zippy Lifter |
 | 412 | 180 | Daddy |
 | 413 | 180 | Cornelius Neal |
 | 414 | 180 | akosua |
-| 415 | 179 | KeeKee Williams |
+| 415 | 180 | Larina Cherie Johnson |
 | 416 | 179 | Lively Riserpiece |
-| 417 | 179 | Kate Hancock Malicek |
+| 417 | 179 | KeeKee Williams |
 | 418 | 179 | Skippy |
 | 419 | 178 | Manda Allen |
 | 420 | 177 | Valerie Alexander |
 | 421 | 177 | Cece Fowler |
 | 422 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 423 | 174 | NewEve |
-| 424 | 174 | ChunLi |
-| 425 | 174 | Dizzy Dashy |
+| 424 | 174 | Dizzy Dashy |
+| 425 | 174 | ChunLi |
 | 426 | 173 | LuckyStar |
 | 427 | 172 | Kendra McIntyre |
-| 428 | 171 | Telisha Mims |
-| 429 | 171 | Brittany Fells |
+| 428 | 171 | Brittany Fells |
+| 429 | 171 | Telisha Mims |
 | 430 | 170 | Hasty Glidezone |
-| 431 | 169 | rb |
-| 432 | 169 | Clipzby |
+| 431 | 169 | Clipzby |
+| 432 | 169 | rb |
 | 433 | 169 | Bubbly Piececlear |
 | 434 | 168 | Lounique |
 | 435 | 168 | Shanns |
-| 436 | 167 | Mister Reid |
+| 436 | 167 | MonaSparks |
 | 437 | 167 | Charlene Baltimore |
-| 438 | 167 | MonaSparks |
+| 438 | 167 | Mister Reid |
 | 439 | 166 | Analiza Ramos |
 | 440 | 166 | Teresa Yanira Cepeda |
 | 441 | 166 | Melissa Olvera |
@@ -551,11 +551,11 @@
 | 543 | 133 | Marlynnnnn |
 | 544 | 133 | Yashicha Hertzock |
 | 545 | 132 | Jeffrey Barrows |
-| 546 | 132 | Jack Vlasak |
-| 547 | 132 | Poyre Shelton |
-| 548 | 131 | Lynnette WheelerBushnell |
-| 549 | 131 | Karen Denen |
-| 550 | 130 | Monica Fields |
+| 546 | 132 | Monica Fields |
+| 547 | 132 | Jack Vlasak |
+| 548 | 132 | Poyre Shelton |
+| 549 | 131 | Lynnette WheelerBushnell |
+| 550 | 131 | Karen Denen |
 | 551 | 130 | Jessica Davis |
 | 552 | 130 | Kesha Brady |
 | 553 | 130 | Christina Singleton |
