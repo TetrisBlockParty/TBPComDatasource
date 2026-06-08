@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 00:48:19 UTC
+# Standings for team4 as of 2026-06-08 00:48:41 UTC
 
 **Total Participants:** 1677
 
@@ -209,11 +209,11 @@
 | 201 | 317 | Sisi RedVelvet Reneè |
 | 202 | 315 | Thomasena Eady Reid |
 | 203 | 314 | Slimm |
-| 204 | 313 | Brick House |
-| 205 | 312 | Anna Gribble |
-| 206 | 310 | Fran Aaron-Ring |
-| 207 | 308 | matt |
-| 208 | 303 | Laguya |
+| 204 | 313 | Laguya |
+| 205 | 313 | Brick House |
+| 206 | 312 | Anna Gribble |
+| 207 | 310 | Fran Aaron-Ring |
+| 208 | 308 | matt |
 | 209 | 303 | TRUCHILD777$$$ |
 | 210 | 302 | Danny Ortiz |
 | 211 | 302 | Piece of Cake |
@@ -629,93 +629,93 @@
 | 621 | 98 | Shaunna Caldwell |
 | 622 | 98 | Brenda Gustamantes |
 | 623 | 98 | Tiffany Roberts |
-| 624 | 98 | LeRoy jenkins |
-| 625 | 98 | Heather Brown |
-| 626 | 98 | shonaberry |
+| 624 | 98 | shonaberry |
+| 625 | 98 | LeRoy jenkins |
+| 626 | 98 | Heather Brown |
 | 627 | 97 | Mc3003 |
 | 628 | 97 | Deana Teck |
 | 629 | 96 | Scalpel Causes Shambles |
-| 630 | 96 | Bear Bair |
+| 630 | 96 | Clever Fallzone |
 | 631 | 96 | Smiley Wipeblock |
-| 632 | 96 | Clever Fallzone |
-| 633 | 95 | Kristen Nicole Depp-Stewart |
-| 634 | 95 | Wacky Brick |
+| 632 | 96 | Bear Bair |
+| 633 | 95 | Lovetetris |
+| 634 | 95 | Jailen Harper |
 | 635 | 95 | Taquilla Branch |
 | 636 | 95 | Giggy Blockpiece |
-| 637 | 95 | Jailen Harper |
+| 637 | 95 | Kristen Nicole Depp-Stewart |
 | 638 | 95 | Esmond Johnson IV |
-| 639 | 95 | Lovetetris |
-| 640 | 94 | Cranky Twistpiece |
-| 641 | 94 | Reina Pagan |
-| 642 | 94 | Erika Rubio |
-| 643 | 94 | Elli Wright |
-| 644 | 94 | Giggy Bridgepiece |
+| 639 | 95 | Wacky Brick |
+| 640 | 94 | Reina Pagan |
+| 641 | 94 | Erika Rubio |
+| 642 | 94 | Cranky Twistpiece |
+| 643 | 94 | Giggy Bridgepiece |
+| 644 | 94 | Elli Wright |
 | 645 | 94 | Lisa Jones |
-| 646 | 93 | Travis McKinnon |
-| 647 | 93 | Rocky |
-| 648 | 93 | Joha Mldo Castillo |
-| 649 | 92 | Happy Strikerpiece |
+| 646 | 93 | Rocky |
+| 647 | 93 | Travis McKinnon |
+| 648 | 93 | Stefanie Street |
+| 649 | 93 | Joha Mldo Castillo |
 | 650 | 92 | Peterson Cottontail |
-| 651 | 92 | Gean DeJesus |
-| 652 | 92 | Autumn Maher |
-| 653 | 92 | Giggly Column |
-| 654 | 92 | REPENT |
+| 651 | 92 | REPENT |
+| 652 | 92 | Happy Strikerpiece |
+| 653 | 92 | Gean DeJesus |
+| 654 | 92 | Jeremy Barry |
 | 655 | 92 | Lush Twisterfit |
-| 656 | 92 | Jeremy Barry |
-| 657 | 91 | Khiem Hernandez |
-| 658 | 91 | Slinky Column |
+| 656 | 92 | Giggly Column |
+| 657 | 92 | Autumn Maher |
+| 658 | 91 | Michelle Michelle |
 | 659 | 91 | Breezy Rollfit |
-| 660 | 91 | Michelle Michelle |
-| 661 | 91 | Paula Renee McCracken |
-| 662 | 90 | Codey Haffner |
-| 663 | 90 | Josh Keith Travierso |
-| 664 | 90 | Swanky Brickzone |
-| 665 | 90 | Breezy Brickfit |
-| 666 | 90 | Dexter Hammond Jr |
-| 667 | 90 | Tiffany Taylor |
-| 668 | 90 | Candiecane324 |
-| 669 | 90 | Christina Williams |
-| 670 | 90 | Stephanie Meinhart |
-| 671 | 90 | Lolita Nettles |
-| 672 | 90 | Tigger |
-| 673 | 89 | Bon Jovi |
-| 674 | 89 | Fancy Rollfit |
-| 675 | 89 | Allrise99 |
-| 676 | 89 | Kat Foreman |
-| 677 | 89 | Tammy Wells |
-| 678 | 88 | Kelly Miller Williams |
-| 679 | 88 | Lizzzzzz |
+| 660 | 91 | Slinky Column |
+| 661 | 91 | Khiem Hernandez |
+| 662 | 91 | Paula Renee McCracken |
+| 663 | 90 | Tiffany Taylor |
+| 664 | 90 | Codey Haffner |
+| 665 | 90 | Swanky Brickzone |
+| 666 | 90 | Josh Keith Travierso |
+| 667 | 90 | Breezy Brickfit |
+| 668 | 90 | Dexter Hammond Jr |
+| 669 | 90 | Tigger |
+| 670 | 90 | Candiecane324 |
+| 671 | 90 | Christina Williams |
+| 672 | 90 | Stephanie Meinhart |
+| 673 | 90 | Lolita Nettles |
+| 674 | 89 | Bon Jovi |
+| 675 | 89 | Fancy Rollfit |
+| 676 | 89 | Allrise99 |
+| 677 | 89 | Kat Foreman |
+| 678 | 89 | Tammy Wells |
+| 679 | 88 | Kelly Miller Williams |
 | 680 | 88 | Mar Mar |
-| 681 | 88 | MrsAddams724 |
-| 682 | 88 | Deb 07 |
-| 683 | 88 | Cozy Towerpiece |
-| 684 | 88 | Nikcole Alexis Bryan |
-| 685 | 88 | Happy Toast |
-| 686 | 87 | Shirley A. Godfrey |
-| 687 | 87 | Stefanie Street |
-| 688 | 87 | SueSally |
-| 689 | 87 | da1ndonly |
-| 690 | 87 | Tana-Marie Lynn McCarty-Rolf |
-| 691 | 87 | Limbo |
-| 692 | 87 | alxhue04 |
-| 693 | 86 | Marisela Alvarado |
-| 694 | 86 | Jeni |
-| 695 | 86 | Groovy Towerbuilder |
-| 696 | 86 | Erich EMac McIntosh |
-| 697 | 86 | Swanky Builderline |
-| 698 | 86 | ManOfSteel |
-| 699 | 86 | Debby Muniz |
-| 700 | 86 | Kellz M Bee |
+| 681 | 88 | Deb 07 |
+| 682 | 88 | Cozy Towerpiece |
+| 683 | 88 | Nikcole Alexis Bryan |
+| 684 | 88 | MrsAddams724 |
+| 685 | 88 | Lizzzzzz |
+| 686 | 88 | Happy Toast |
+| 687 | 87 | SueSally |
+| 688 | 87 | da1ndonly |
+| 689 | 87 | alxhue04 |
+| 690 | 87 | Limbo |
+| 691 | 87 | Tana-Marie Lynn McCarty-Rolf |
+| 692 | 87 | Shirley A. Godfrey |
+| 693 | 86 | Erich EMac McIntosh |
+| 694 | 86 | Swanky Builderline |
+| 695 | 86 | Jeni |
+| 696 | 86 | Marisela Alvarado |
+| 697 | 86 | Groovy Towerbuilder |
+| 698 | 86 | Debby Muniz |
+| 699 | 86 | Kellz M Bee |
+| 700 | 86 | ManOfSteel |
 | 701 | 85 | Jeff Seymour |
-| 702 | 85 | MelodiousDeez |
-| 703 | 85 | Dolores Falco |
+| 702 | 85 | Dolores Falco |
+| 703 | 85 | Dinah Mccall |
 | 704 | 85 | Zappy Tilemaker |
 | 705 | 85 | Mrs Peabod |
 | 706 | 85 | Donny Keets |
-| 707 | 85 | bofe |
-| 708 | 85 | Dinah Mccall |
-| 709 | 85 | Heidi Hala |
-| 710 | 85 | Joshua Hunt |
+| 707 | 85 | Joshua Hunt |
+| 708 | 85 | Heidi Hala |
+| 709 | 85 | MelodiousDeez |
+| 710 | 85 | bofe |
 | 711 | 84 | jojo |
 | 712 | 84 | GETBOXED! |
 | 713 | 84 | Chad Finton |
@@ -1061,25 +1061,25 @@
 | 1053 | 48 | Kelli Wells Fuhr |
 | 1054 | 48 | Mike Artis |
 | 1055 | 48 | Suzi Smas |
-| 1056 | 48 | Brandi Gray |
+| 1056 | 48 | Poppy Glider |
 | 1057 | 48 | Lateasha Wildman |
-| 1058 | 48 | Travis Whitner |
-| 1059 | 47 | Jaison Horton |
-| 1060 | 47 | Shannon Foster |
-| 1061 | 47 | Jim Stewart |
-| 1062 | 47 | Caroline Peralta |
-| 1063 | 47 | rick mase |
-| 1064 | 47 | Kennita Cox |
-| 1065 | 47 | Arvin Ortega |
-| 1066 | 47 | Masiso |
-| 1067 | 47 | Maurice Jones |
-| 1068 | 47 | Theo Stamps |
-| 1069 | 46 | Lazy Risepiece |
-| 1070 | 46 | Judea Leblanc |
-| 1071 | 46 | Cmoss |
+| 1058 | 48 | Brandi Gray |
+| 1059 | 48 | Travis Whitner |
+| 1060 | 47 | Jaison Horton |
+| 1061 | 47 | Shannon Foster |
+| 1062 | 47 | Jim Stewart |
+| 1063 | 47 | Caroline Peralta |
+| 1064 | 47 | rick mase |
+| 1065 | 47 | Kennita Cox |
+| 1066 | 47 | Arvin Ortega |
+| 1067 | 47 | Masiso |
+| 1068 | 47 | Maurice Jones |
+| 1069 | 47 | Theo Stamps |
+| 1070 | 46 | Lazy Risepiece |
+| 1071 | 46 | Judea Leblanc |
 | 1072 | 46 | Bren70 |
 | 1073 | 46 | Sadeha Simpson |
-| 1074 | 46 | Poppy Glider |
+| 1074 | 46 | Cmoss |
 | 1075 | 46 | chuck |
 | 1076 | 46 | Gary Moore |
 | 1077 | 46 | Christopher Farias |
