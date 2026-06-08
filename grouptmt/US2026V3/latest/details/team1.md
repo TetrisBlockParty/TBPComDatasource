@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:20:19 UTC
+# Standings for team1 as of 2026-06-08 02:20:41 UTC
 
 **Total Participants:** 1670
 
@@ -73,7 +73,7 @@
 | 65 | 1067 | Catara Renae Oliver |
 | 66 | 1059 | Sanjuro |
 | 67 | 1052 | Shortstak |
-| 68 | 1051 | Kimberly Hernandez |
+| 68 | 1052 | Kimberly Hernandez |
 | 69 | 1024 | Chill Clusterer |
 | 70 | 1018 | Court Court |
 | 71 | 1017 | Lisa Müller |
@@ -125,7 +125,7 @@
 | 117 | 622 | Alana Renee |
 | 118 | 619 | Ottison Dianna |
 | 119 | 618 | Quirky Fallgrid |
-| 120 | 604 | W.A. Simpson |
+| 120 | 616 | W.A. Simpson |
 | 121 | 601 | JaszyBadd |
 | 122 | 588 | Shontanese Adams |
 | 123 | 582 | Nutty Spinblock |
@@ -189,17 +189,17 @@
 | 181 | 363 | Christina Rebecca |
 | 182 | 361 | John Staub |
 | 183 | 359 | pooh |
-| 184 | 356 | Haley Bell |
-| 185 | 356 | Murg4dr01d |
-| 186 | 356 | Tina Mitchell |
-| 187 | 352 | Jayjay Rich |
-| 188 | 345 | Marcheta Cervantez |
+| 184 | 358 | Nobles Brandon |
+| 185 | 356 | Haley Bell |
+| 186 | 356 | Murg4dr01d |
+| 187 | 356 | Tina Mitchell |
+| 188 | 352 | Jayjay Rich |
 | 189 | 345 | Ebony |
-| 190 | 340 | Spicy Risepiece |
+| 190 | 345 | Marcheta Cervantez |
 | 191 | 340 | Tamara N Lee |
-| 192 | 340 | Slim Shedidthat |
-| 193 | 338 | TT |
-| 194 | 336 | Nobles Brandon |
+| 192 | 340 | Spicy Risepiece |
+| 193 | 340 | Slim Shedidthat |
+| 194 | 338 | TT |
 | 195 | 335 | Zappy Riser |
 | 196 | 333 | Latisha Fairley |
 | 197 | 332 | Mic Balew |
