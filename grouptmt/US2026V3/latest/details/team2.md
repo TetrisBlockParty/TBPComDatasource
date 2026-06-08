@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 03:54:19 UTC
+# Standings for team2 as of 2026-06-08 03:54:41 UTC
 
 **Total Participants:** 2070
 
@@ -265,15 +265,15 @@
 | 257 | 328 | Xandrea Jones |
 | 258 | 325 | Flashy Twistline |
 | 259 | 325 | Snappy Combo |
-| 260 | 324 | DayDreamer79 |
-| 261 | 322 | Queen |
-| 262 | 322 | Pam Bauder Ludwig |
-| 263 | 321 | Chill Line |
-| 264 | 320 | Linda Guay |
-| 265 | 319 | Norma Ortiz |
+| 260 | 324 | Kimmyc |
+| 261 | 324 | DayDreamer79 |
+| 262 | 322 | Queen |
+| 263 | 322 | Pam Bauder Ludwig |
+| 264 | 321 | Chill Line |
+| 265 | 320 | Linda Guay |
 | 266 | 319 | Ackerman 85 |
-| 267 | 318 | Pamela Raye |
-| 268 | 317 | Kimmyc |
+| 267 | 319 | Norma Ortiz |
+| 268 | 318 | Pamela Raye |
 | 269 | 316 | Swanky Fitline |
 | 270 | 314 | Margie Ann Naffziger |
 | 271 | 312 | Hypee |
@@ -605,27 +605,27 @@
 | 597 | 137 | Sandra Belk |
 | 598 | 136 | Mouh Ity |
 | 599 | 136 | Andrea Rawson |
-| 600 | 136 | Lauren Maxwell |
-| 601 | 136 | Joshua Dye |
-| 602 | 135 | Erin Moore Galloway |
-| 603 | 135 | Michele Rogers |
+| 600 | 136 | Jennifer McCloskey Launder |
+| 601 | 136 | Lauren Maxwell |
+| 602 | 136 | Joshua Dye |
+| 603 | 135 | Erin Moore Galloway |
 | 604 | 135 | Leticia Tillman |
-| 605 | 135 | Jessica Garoutte |
-| 606 | 134 | Busted9mm |
-| 607 | 134 | Cassandra Milner |
-| 608 | 134 | Heather Vircik |
-| 609 | 133 | Newtwidebody |
-| 610 | 132 | WhitS |
-| 611 | 132 | Belinda Gullion Austin |
-| 612 | 132 | Kristen |
-| 613 | 132 | Kalli Bonin |
-| 614 | 131 | Lyndzey Sciscoe |
-| 615 | 131 | Tamara Whiteley |
-| 616 | 131 | Nova |
-| 617 | 131 | Samantha Bugg Stitcher |
-| 618 | 131 | Tracey Cox |
-| 619 | 130 | Tiffany Ann |
-| 620 | 130 | Jennifer McCloskey Launder |
+| 605 | 135 | Michele Rogers |
+| 606 | 135 | Jessica Garoutte |
+| 607 | 134 | Busted9mm |
+| 608 | 134 | Cassandra Milner |
+| 609 | 134 | Heather Vircik |
+| 610 | 133 | Newtwidebody |
+| 611 | 132 | WhitS |
+| 612 | 132 | Belinda Gullion Austin |
+| 613 | 132 | Kristen |
+| 614 | 132 | Kalli Bonin |
+| 615 | 131 | Lyndzey Sciscoe |
+| 616 | 131 | Tamara Whiteley |
+| 617 | 131 | Nova |
+| 618 | 131 | Samantha Bugg Stitcher |
+| 619 | 131 | Tracey Cox |
+| 620 | 130 | Tiffany Ann |
 | 621 | 130 | Nichole Wilson |
 | 622 | 130 | Groovy Glider |
 | 623 | 130 | TiffTaff |
