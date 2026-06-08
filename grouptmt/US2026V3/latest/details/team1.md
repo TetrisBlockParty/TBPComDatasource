@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:25:20 UTC
+# Standings for team1 as of 2026-06-08 08:26:41 UTC
 
 **Total Participants:** 1762
 
@@ -29,7 +29,7 @@
 | 21 | 3821 | Pdubbl3 |
 | 22 | 3795 | jaimie |
 | 23 | 3721 | Chandler Spencer |
-| 24 | 3284 | Yolanda McDonald |
+| 24 | 3301 | Yolanda McDonald |
 | 25 | 3245 | Cool Bridger |
 | 26 | 3080 | Chummy Combo |
 | 27 | 2919 | Ivana Schmidt |
@@ -117,7 +117,7 @@
 | 109 | 720 | No_Other_Choice |
 | 110 | 720 | Felicia Williams |
 | 111 | 718 | TAZ-MF-NIZIL |
-| 112 | 701 | Slinky Puzzler |
+| 112 | 711 | Slinky Puzzler |
 | 113 | 692 | Chirpy Corner |
 | 114 | 689 | Mimi 1.0 |
 | 115 | 676 | W.A. Simpson |
