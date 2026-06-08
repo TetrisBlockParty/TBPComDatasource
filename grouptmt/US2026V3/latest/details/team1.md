@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:41:19 UTC
+# Standings for team1 as of 2026-06-08 08:42:41 UTC
 
 **Total Participants:** 1763
 
@@ -189,9 +189,9 @@
 | 181 | 412 | Dee McCool |
 | 182 | 409 | Lashaunda |
 | 183 | 405 | SPNLover24 |
-| 184 | 398 | Kenny 'Tailormade' Boyd |
-| 185 | 397 | Karebear |
-| 186 | 396 | pooh |
+| 184 | 401 | pooh |
+| 185 | 398 | Kenny 'Tailormade' Boyd |
+| 186 | 397 | Karebear |
 | 187 | 394 | Simmone T. Kadiri |
 | 188 | 393 | Sharon Cail |
 | 189 | 393 | Sheila Burnham |
@@ -497,21 +497,21 @@
 | 489 | 150 | Deveda Williams |
 | 490 | 150 | Kamilya Rembert |
 | 491 | 150 | Marshall Davis |
-| 492 | 149 | Kristie |
-| 493 | 149 | Casey Chapman |
-| 494 | 149 | Mighty Dropper |
-| 495 | 148 | Cauiasia DeJ'ae |
-| 496 | 148 | Seddrick |
-| 497 | 148 | Faith Armone |
-| 498 | 148 | Christi Walker Patton |
-| 499 | 148 | Shannon Carriger |
-| 500 | 147 | Mathew Trudell |
-| 501 | 147 | Joka NoTime ForHataz |
-| 502 | 147 | Twisty Brickfit |
-| 503 | 146 | Bella |
-| 504 | 146 | FunTime |
-| 505 | 146 | whatever |
-| 506 | 146 | Kate Hancock Malicek |
+| 492 | 149 | Casey Chapman |
+| 493 | 149 | Mighty Dropper |
+| 494 | 149 | Kristie |
+| 495 | 148 | Faith Armone |
+| 496 | 148 | Shannon Carriger |
+| 497 | 148 | Christi Walker Patton |
+| 498 | 148 | Kate Hancock Malicek |
+| 499 | 148 | Seddrick |
+| 500 | 148 | Cauiasia DeJ'ae |
+| 501 | 147 | Twisty Brickfit |
+| 502 | 147 | Joka NoTime ForHataz |
+| 503 | 147 | Mathew Trudell |
+| 504 | 146 | Bella |
+| 505 | 146 | FunTime |
+| 506 | 146 | whatever |
 | 507 | 145 | Shea Ladynick Henderson |
 | 508 | 145 | Squaw Ki Ng |
 | 509 | 144 | Kp |
@@ -1508,64 +1508,64 @@
 | 1500 | 19 | Heckabluntstho |
 | 1501 | 19 | Toya Draine |
 | 1502 | 19 | Lawanda Conley |
-| 1503 | 18 | Keke |
-| 1504 | 18 | Naudia Hampton |
-| 1505 | 18 | Andre Simpson |
+| 1503 | 18 | Groovy Gridzone |
+| 1504 | 18 | Andre Simpson |
+| 1505 | 18 | Naudia Hampton |
 | 1506 | 18 | Kiyeri |
 | 1507 | 18 | Taimir Colón |
 | 1508 | 18 | Witty Snapbuilder |
 | 1509 | 18 | Marie SheReady Harris |
-| 1510 | 18 | Yeshanna Nicholson |
-| 1511 | 18 | Aliceia Gee |
+| 1510 | 18 | Aliceia Gee |
+| 1511 | 18 | Yeshanna Nicholson |
 | 1512 | 18 | Spicy Builderfit |
 | 1513 | 18 | Catrina Zedd |
 | 1514 | 18 | Giggly Dasher |
-| 1515 | 18 | Groovy Gridzone |
-| 1516 | 18 | Dave Breaker |
-| 1517 | 18 | Anissa Williams |
-| 1518 | 18 | linda m |
-| 1519 | 18 | Una |
-| 1520 | 18 | Cheeky Tiltbuilder |
+| 1515 | 18 | Dave Breaker |
+| 1516 | 18 | Anissa Williams |
+| 1517 | 18 | linda m |
+| 1518 | 18 | Una |
+| 1519 | 18 | Cheeky Tiltbuilder |
+| 1520 | 18 | Trusi Rusi |
 | 1521 | 18 | Jeremy Myers |
 | 1522 | 18 | Saucy Linkgrid |
 | 1523 | 18 | Raynell Mcfrazier |
 | 1524 | 18 | Frothy Snapbuilder |
 | 1525 | 18 | Octavia Whitmire |
-| 1526 | 17 | Daron Montgomery |
-| 1527 | 17 | Lavender |
-| 1528 | 17 | law |
-| 1529 | 17 | Christina |
-| 1530 | 17 | Zany Edgepiece |
-| 1531 | 17 | Wacky Riserpiece |
+| 1526 | 18 | Keke |
+| 1527 | 17 | Christina |
+| 1528 | 17 | Daron Montgomery |
+| 1529 | 17 | Lavender |
+| 1530 | 17 | law |
+| 1531 | 17 | Zany Edgepiece |
 | 1532 | 17 | Andre Rivera |
-| 1533 | 17 | Demetria Thompson |
-| 1534 | 17 | Lively Stagger |
-| 1535 | 17 | Torrie Eckrote |
-| 1536 | 16 | Marcus Roberts |
-| 1537 | 16 | Keia Price |
-| 1538 | 16 | JahMilly19 |
-| 1539 | 16 | Giddy Twistslam |
-| 1540 | 16 | Tammy Collins |
-| 1541 | 16 | Hulk |
-| 1542 | 16 | Lillie Blossom Dixon |
-| 1543 | 16 | Dee-Dee Stewart |
-| 1544 | 16 | Symonne 'Monnie' Pierce |
-| 1545 | 16 | Tabitha Burks |
-| 1546 | 16 | Michelle Boutherpaper Francis |
-| 1547 | 16 | Marquel Coley |
-| 1548 | 15 | Mayra Diaz |
-| 1549 | 15 | Trusi Rusi |
-| 1550 | 15 | Happy Towerfall |
-| 1551 | 15 | Wacky Towerer |
-| 1552 | 15 | Tina Bongcayao |
-| 1553 | 15 | Hasty Match |
-| 1554 | 15 | Epic Puzzle |
-| 1555 | 15 | Tami Spence |
-| 1556 | 15 | Cheery Strikerbuilder |
-| 1557 | 15 | Jonathan Zold |
-| 1558 | 15 | Shamara Thurston |
-| 1559 | 15 | Annette DeLoatch Thompson |
-| 1560 | 15 | Juanita Richmond |
+| 1533 | 17 | Wacky Riserpiece |
+| 1534 | 17 | Demetria Thompson |
+| 1535 | 17 | Lively Stagger |
+| 1536 | 17 | Torrie Eckrote |
+| 1537 | 16 | Tammy Collins |
+| 1538 | 16 | Symonne 'Monnie' Pierce |
+| 1539 | 16 | Lillie Blossom Dixon |
+| 1540 | 16 | Marcus Roberts |
+| 1541 | 16 | Keia Price |
+| 1542 | 16 | Michelle Boutherpaper Francis |
+| 1543 | 16 | JahMilly19 |
+| 1544 | 16 | Giddy Twistslam |
+| 1545 | 16 | Marquel Coley |
+| 1546 | 16 | Tabitha Burks |
+| 1547 | 16 | Hulk |
+| 1548 | 16 | Dee-Dee Stewart |
+| 1549 | 15 | Wacky Towerer |
+| 1550 | 15 | Tina Bongcayao |
+| 1551 | 15 | Happy Towerfall |
+| 1552 | 15 | Hasty Match |
+| 1553 | 15 | Mayra Diaz |
+| 1554 | 15 | Tami Spence |
+| 1555 | 15 | Cheery Strikerbuilder |
+| 1556 | 15 | Jonathan Zold |
+| 1557 | 15 | Shamara Thurston |
+| 1558 | 15 | Annette DeLoatch Thompson |
+| 1559 | 15 | Juanita Richmond |
+| 1560 | 15 | Epic Puzzle |
 | 1561 | 15 | Breezy Bouncer |
 | 1562 | 15 | UnionBoss |
 | 1563 | 15 | Chill Spinzone |
