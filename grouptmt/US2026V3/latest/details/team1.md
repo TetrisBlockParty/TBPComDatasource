@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:02:42 UTC
+# Standings for team1 as of 2026-06-08 08:03:20 UTC
 
 **Total Participants:** 1760
 
@@ -163,24 +163,24 @@
 | 155 | 467 | Lesley Brunkus Cianfaglione |
 | 156 | 466 | Tootsie Pop |
 | 157 | 465 | Nobles Brandon |
-| 158 | 456 | Andre Sanon |
-| 159 | 456 | Cachet A Ward |
-| 160 | 453 | LaToya Chambers |
-| 161 | 452 | Kenny MrOnethousand Peck |
-| 162 | 447 | Ebony Waynes-robinson |
-| 163 | 444 | Kevin M. McGhee Jr |
-| 164 | 444 | Helen Smith |
-| 165 | 440 | Tanya Clayton |
-| 166 | 439 | Asani CHumba |
-| 167 | 437 | Tobey Marberry |
-| 168 | 432 | Katherine Short |
-| 169 | 431 | Lashawn Wallace |
-| 170 | 427 | Tamara N Lee |
-| 171 | 427 | Ty Øtg |
-| 172 | 423 | Zappy Riser |
-| 173 | 420 | Hyper Slamdrop |
-| 174 | 420 | Jessica Carter |
-| 175 | 420 | Slinky Party |
+| 158 | 458 | Slinky Party |
+| 159 | 456 | Andre Sanon |
+| 160 | 456 | Cachet A Ward |
+| 161 | 453 | LaToya Chambers |
+| 162 | 452 | Kenny MrOnethousand Peck |
+| 163 | 447 | Ebony Waynes-robinson |
+| 164 | 444 | Kevin M. McGhee Jr |
+| 165 | 444 | Helen Smith |
+| 166 | 440 | Tanya Clayton |
+| 167 | 439 | Asani CHumba |
+| 168 | 437 | Tobey Marberry |
+| 169 | 432 | Katherine Short |
+| 170 | 431 | Lashawn Wallace |
+| 171 | 427 | Tamara N Lee |
+| 172 | 427 | Ty Øtg |
+| 173 | 423 | Zappy Riser |
+| 174 | 420 | Hyper Slamdrop |
+| 175 | 420 | Jessica Carter |
 | 176 | 417 | Eugina Slater |
 | 177 | 417 | Dena Marie Lee |
 | 178 | 416 | Plucky Slamdrop |
