@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 03:22:42 UTC
+# Standings for team4 as of 2026-06-08 03:23:18 UTC
 
 **Total Participants:** 1724
 
@@ -22,7 +22,7 @@
 | 14 | 5041 | Squirrel Donkey |
 | 15 | 4939 | Bryony Nicholson |
 | 16 | 4772 | Anna Moses |
-| 17 | 4698 | t |
+| 17 | 4738 | t |
 | 18 | 4633 | Bubbly Twistpiece |
 | 19 | 4532 | Chris Hills |
 | 20 | 4469 | Nia Mayfield |
@@ -133,11 +133,11 @@
 | 125 | 556 | Malik Thompson |
 | 126 | 555 | iiPurgeV2 |
 | 127 | 550 | Nicole Peoples |
-| 128 | 548 | Katie Lynn Petit |
-| 129 | 535 | Damon Gaston |
-| 130 | 534 | Gigglycat |
-| 131 | 530 | Jewelz |
-| 132 | 522 | Andrew Dang |
+| 128 | 549 | Andrew Dang |
+| 129 | 548 | Katie Lynn Petit |
+| 130 | 535 | Damon Gaston |
+| 131 | 534 | Gigglycat |
+| 132 | 530 | Jewelz |
 | 133 | 522 | Sarah Berry Stevens |
 | 134 | 521 | Misty Leigh |
 | 135 | 520 | DexterDobbins |
@@ -148,9 +148,9 @@
 | 140 | 480 | Hardy Fuller |
 | 141 | 476 | Megan Vick |
 | 142 | 474 | Melissa WC |
-| 143 | 463 | Gorica Prusina |
-| 144 | 461 | Kayla Fuentes |
-| 145 | 461 | Dee Wizz |
+| 143 | 466 | Dee Wizz |
+| 144 | 463 | Gorica Prusina |
+| 145 | 461 | Kayla Fuentes |
 | 146 | 448 | Alicia Cook |
 | 147 | 446 | Laguya |
 | 148 | 444 | Kaash Brxtt |
@@ -175,34 +175,34 @@
 | 167 | 400 | Suzanne Carter |
 | 168 | 399 | Iforget |
 | 169 | 397 | Shiny Dashy |
-| 170 | 395 | Julian Gasque |
-| 171 | 395 | Bobbie Harrell |
+| 170 | 395 | Bobbie Harrell |
+| 171 | 395 | Julian Gasque |
 | 172 | 386 | Taz |
 | 173 | 382 | Goofy Riser |
 | 174 | 380 | CIRAZYPNOY |
 | 175 | 379 | Devinlee Brown |
 | 176 | 378 | Hwanger Land |
-| 177 | 376 | Scamp Jones |
-| 178 | 376 | Tammy June |
+| 177 | 376 | Tammy June |
+| 178 | 376 | Scamp Jones |
 | 179 | 373 | Tanita Jobe |
 | 180 | 369 | shawna |
-| 181 | 363 | Christy Beezley-Forbush |
-| 182 | 363 | Aramat |
-| 183 | 360 | Shocinda Sherwood |
-| 184 | 360 | Lush Fitblock |
+| 181 | 363 | Aramat |
+| 182 | 363 | Christy Beezley-Forbush |
+| 183 | 360 | Lush Fitblock |
+| 184 | 360 | Shocinda Sherwood |
 | 185 | 359 | BCO22 |
 | 186 | 357 | Katie Martin |
 | 187 | 357 | MomyLiz |
 | 188 | 355 | RotatedWrongAgain |
 | 189 | 351 | QueenLi86 |
 | 190 | 347 | Sisi RedVelvet Reneè |
-| 191 | 346 | Randy M Hatch |
-| 192 | 346 | Alexis Cor |
+| 191 | 346 | Alexis Cor |
+| 192 | 346 | Randy M Hatch |
 | 193 | 343 | Cinta Marie |
-| 194 | 340 | Baysoph |
-| 195 | 340 | Jojo Ann |
-| 196 | 336 | Samantha Worley |
-| 197 | 336 | Plucky Shatterfit |
+| 194 | 340 | Jojo Ann |
+| 195 | 340 | Baysoph |
+| 196 | 336 | Plucky Shatterfit |
+| 197 | 336 | Samantha Worley |
 | 198 | 334 | Dazzle Dragon |
 | 199 | 329 | blockhead |
 | 200 | 327 | beTrue76 |
@@ -212,8 +212,8 @@
 | 204 | 325 | Kristen Wallace |
 | 205 | 324 | Kimberly Civinski |
 | 206 | 324 | Slimm |
-| 207 | 323 | zoes |
-| 208 | 323 | Tiffany Brooke |
+| 207 | 323 | Tiffany Brooke |
+| 208 | 323 | zoes |
 | 209 | 322 | Perky Riserbuilder |
 | 210 | 320 | TJ |
 | 211 | 320 | Shmeedo |
@@ -1223,69 +1223,69 @@
 | 1215 | 40 | Pickles |
 | 1216 | 40 | Billy Brasher |
 | 1217 | 39 | Cas Gio |
-| 1218 | 39 | JUNE |
+| 1218 | 39 | Mandi Rexroat |
 | 1219 | 39 | Chris Davis |
-| 1220 | 39 | Mandi Rexroat |
-| 1221 | 39 | Dandy Balancer |
-| 1222 | 39 | Mighty Clicky |
-| 1223 | 39 | Snippy Fitblock |
-| 1224 | 39 | Carrie Sue Shaffer |
-| 1225 | 39 | Amy White |
-| 1226 | 38 | FuzzyBunny |
-| 1227 | 38 | Monique Anne Edwards |
-| 1228 | 38 | Pretty_Rican |
-| 1229 | 38 | Heather Cook |
-| 1230 | 38 | Robin M Casebolt |
-| 1231 | 38 | Daring Patternblock |
-| 1232 | 38 | Daring Towerer |
-| 1233 | 38 | Jean Crooks |
-| 1234 | 38 | Adolfo Bernal |
-| 1235 | 38 | Mighty Spinfit |
-| 1236 | 38 | Yam My |
-| 1237 | 38 | Trishaann Triplett |
-| 1238 | 38 | Capt'n Crunch |
-| 1239 | 38 | Ali Nicole |
-| 1240 | 38 | Ayobribri |
-| 1241 | 37 | Fineassdee23 |
-| 1242 | 37 | Terry Jo Myers |
-| 1243 | 37 | Jessica Lestage |
-| 1244 | 37 | theyhatejzt |
-| 1245 | 37 | Heather Cline |
-| 1246 | 37 | Shannon Lee |
-| 1247 | 37 | Jonelle Jacobs |
-| 1248 | 37 | LISHA 2 U |
-| 1249 | 36 | Stacey Hyde |
-| 1250 | 36 | Dawn Ferrin |
-| 1251 | 36 | Krazylegzzzz |
-| 1252 | 36 | Colin hollenbeck |
-| 1253 | 36 | Chelsea Leann Lamb |
-| 1254 | 36 | Lively Tilebuilder |
+| 1220 | 39 | JUNE |
+| 1221 | 39 | Snippy Fitblock |
+| 1222 | 39 | Dandy Balancer |
+| 1223 | 39 | Mighty Clicky |
+| 1224 | 39 | Sunny Tiltbuilder |
+| 1225 | 39 | Carrie Sue Shaffer |
+| 1226 | 39 | Amy White |
+| 1227 | 38 | Trishaann Triplett |
+| 1228 | 38 | Ayobribri |
+| 1229 | 38 | Daring Towerer |
+| 1230 | 38 | Daring Patternblock |
+| 1231 | 38 | Robin M Casebolt |
+| 1232 | 38 | Yam My |
+| 1233 | 38 | Monique Anne Edwards |
+| 1234 | 38 | Pretty_Rican |
+| 1235 | 38 | Heather Cook |
+| 1236 | 38 | Adolfo Bernal |
+| 1237 | 38 | Jean Crooks |
+| 1238 | 38 | Mighty Spinfit |
+| 1239 | 38 | Capt'n Crunch |
+| 1240 | 38 | Ali Nicole |
+| 1241 | 38 | FuzzyBunny |
+| 1242 | 37 | theyhatejzt |
+| 1243 | 37 | Terry Jo Myers |
+| 1244 | 37 | LISHA 2 U |
+| 1245 | 37 | Jonelle Jacobs |
+| 1246 | 37 | Fineassdee23 |
+| 1247 | 37 | Shannon Lee |
+| 1248 | 37 | Heather Cline |
+| 1249 | 37 | Jessica Lestage |
+| 1250 | 36 | Chelsea Leann Lamb |
+| 1251 | 36 | Dawn Ferrin |
+| 1252 | 36 | Lively Tilebuilder |
+| 1253 | 36 | Colin hollenbeck |
+| 1254 | 36 | Krazylegzzzz |
 | 1255 | 36 | Simone Marie Thrasher |
-| 1256 | 36 | Peppy Linefit |
-| 1257 | 36 | Emily Lowe |
-| 1258 | 36 | Misty Mathers |
-| 1259 | 36 | Funky Riserpiece |
-| 1260 | 36 | Idella Cobb Strickland |
-| 1261 | 36 | Stylist |
-| 1262 | 36 | Kathy Lindsay |
-| 1263 | 36 | Austin Tan |
-| 1264 | 35 | Jessica Marie Flores |
-| 1265 | 35 | Amber Torres |
-| 1266 | 35 | Joshua Conwell |
-| 1267 | 35 | Stacy Sisson |
-| 1268 | 35 | moonman33 |
-| 1269 | 35 | Twisty Chiseler |
-| 1270 | 35 | Lex Allen |
-| 1271 | 35 | Frisky Pusher |
-| 1272 | 35 | Samantha Brandt |
-| 1273 | 35 | Saul Fajardo |
-| 1274 | 35 | KySun |
-| 1275 | 35 | Melissa Gorman |
-| 1276 | 35 | Peachy Grabber |
-| 1277 | 35 | Sunny Tiltbuilder |
-| 1278 | 35 | Stephanie Williams |
-| 1279 | 35 | CRsLady |
-| 1280 | 35 | $bluemoon |
+| 1256 | 36 | Stacey Hyde |
+| 1257 | 36 | Peppy Linefit |
+| 1258 | 36 | Emily Lowe |
+| 1259 | 36 | Misty Mathers |
+| 1260 | 36 | Funky Riserpiece |
+| 1261 | 36 | Idella Cobb Strickland |
+| 1262 | 36 | Stylist |
+| 1263 | 36 | Kathy Lindsay |
+| 1264 | 36 | Austin Tan |
+| 1265 | 35 | Jessica Marie Flores |
+| 1266 | 35 | Amber Torres |
+| 1267 | 35 | Joshua Conwell |
+| 1268 | 35 | Stacy Sisson |
+| 1269 | 35 | moonman33 |
+| 1270 | 35 | Twisty Chiseler |
+| 1271 | 35 | Lex Allen |
+| 1272 | 35 | Frisky Pusher |
+| 1273 | 35 | Samantha Brandt |
+| 1274 | 35 | Saul Fajardo |
+| 1275 | 35 | KySun |
+| 1276 | 35 | Melissa Gorman |
+| 1277 | 35 | Peachy Grabber |
+| 1278 | 35 | $bluemoon |
+| 1279 | 35 | Stephanie Williams |
+| 1280 | 35 | CRsLady |
 | 1281 | 35 | Ali Garcia |
 | 1282 | 34 | MzCeleste Brooks |
 | 1283 | 34 | Katy Roman |
