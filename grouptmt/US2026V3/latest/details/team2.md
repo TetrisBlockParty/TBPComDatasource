@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:52:43 UTC
+# Standings for team2 as of 2026-06-08 09:53:20 UTC
 
 **Total Participants:** 2145
 
@@ -39,9 +39,9 @@
 | 31 | 3812 | Crystal M Sowden |
 | 32 | 3607 | Bea Bee |
 | 33 | 3514 | Traci Elizabeth |
-| 34 | 3437 | Ashley Miller |
-| 35 | 3435 | Quirky Catcher |
-| 36 | 3408 | Julie Trede Amerson |
+| 34 | 3508 | Julie Trede Amerson |
+| 35 | 3437 | Ashley Miller |
+| 36 | 3435 | Quirky Catcher |
 | 37 | 3122 | Charles Varca |
 | 38 | 2991 | Angelica Jelli Gillaspy |
 | 39 | 2990 | Logan Basham |
@@ -78,13 +78,13 @@
 | 70 | 1483 | Tonya Taber |
 | 71 | 1466 | Angel Welch |
 | 72 | 1390 | Marie Edmonds |
-| 73 | 1352 | Marquita Toliver |
-| 74 | 1349 | Poppy |
-| 75 | 1331 | Suki Kaur |
-| 76 | 1330 | Jaime P Lamb |
-| 77 | 1323 | joey |
-| 78 | 1322 | Lisa Breiding |
-| 79 | 1315 | Bridget N Jonathan Franz |
+| 73 | 1377 | Bridget N Jonathan Franz |
+| 74 | 1352 | Marquita Toliver |
+| 75 | 1349 | Poppy |
+| 76 | 1331 | Suki Kaur |
+| 77 | 1330 | Jaime P Lamb |
+| 78 | 1323 | joey |
+| 79 | 1322 | Lisa Breiding |
 | 80 | 1309 | Sigmamom |
 | 81 | 1302 | Charley Bedford |
 | 82 | 1288 | Amber-leigh Williams |
@@ -233,15 +233,15 @@
 | 225 | 412 | Nikki Hayes |
 | 226 | 411 | Mookshake |
 | 227 | 411 | Sandy Lynn |
-| 228 | 407 | Crystal Allen |
-| 229 | 405 | Amy Gregg |
-| 230 | 405 | MaddieCherie |
-| 231 | 404 | Goofy Gridclear |
-| 232 | 403 | Becca Marie |
-| 233 | 402 | Michelle Luke Banta |
-| 234 | 402 | Brenda Jones |
-| 235 | 399 | Jeffrey Smith |
-| 236 | 398 | Kimmyc |
+| 228 | 410 | Kimmyc |
+| 229 | 407 | Crystal Allen |
+| 230 | 405 | Amy Gregg |
+| 231 | 405 | MaddieCherie |
+| 232 | 404 | Goofy Gridclear |
+| 233 | 403 | Becca Marie |
+| 234 | 402 | Michelle Luke Banta |
+| 235 | 402 | Brenda Jones |
+| 236 | 399 | Jeffrey Smith |
 | 237 | 395 | Justin McCray |
 | 238 | 395 | Sarina Vollink |
 | 239 | 392 | Bri St Peter |
@@ -250,50 +250,50 @@
 | 242 | 386 | Jennifer Smith |
 | 243 | 383 | Jenna Stahl |
 | 244 | 382 | Rachel Nilles |
-| 245 | 380 | Bb |
-| 246 | 379 | Greta Warden |
-| 247 | 376 | Jamie Fenyus |
+| 245 | 382 | Charles E Mccardell |
+| 246 | 380 | Bb |
+| 247 | 379 | Greta Warden |
 | 248 | 376 | Chill Line |
-| 249 | 376 | Traci Abern |
-| 250 | 375 | Branden Frankowski |
+| 249 | 376 | Jamie Fenyus |
+| 250 | 376 | Traci Abern |
 | 251 | 375 | Brittni Lawrence |
-| 252 | 373 | Hoppy Mover |
+| 252 | 375 | Branden Frankowski |
 | 253 | 373 | Theresa Hollinger |
-| 254 | 371 | Lora Via |
-| 255 | 367 | Charles E Mccardell |
+| 254 | 373 | Hoppy Mover |
+| 255 | 371 | Lora Via |
 | 256 | 364 | Lindsey Ford |
 | 257 | 363 | Ratchet |
 | 258 | 362 | Hypee |
-| 259 | 359 | Crystal Poss |
-| 260 | 359 | Ackerman 85 |
+| 259 | 359 | Ackerman 85 |
+| 260 | 359 | Crystal Poss |
 | 261 | 354 | Sabrina Hardrick |
 | 262 | 351 | Cathy Lee Stoneking |
 | 263 | 349 | Spicy Basepiece |
-| 264 | 347 | Jessica Lynn |
-| 265 | 347 | Fudgie Pie |
+| 264 | 347 | Fudgie Pie |
+| 265 | 347 | Jessica Lynn |
 | 266 | 340 | Marge Cromer |
 | 267 | 339 | Keri Mears |
 | 268 | 338 | Amie Marks |
 | 269 | 337 | Ashley Billiot Rhodes |
 | 270 | 337 | Adriana Daniela Agapie |
 | 271 | 331 | Shannon Wilson |
-| 272 | 328 | Xandrea Jones |
-| 273 | 328 | Tim Tim |
-| 274 | 327 | Chipper Stackbuilder |
-| 275 | 327 | Iesha Cupil |
-| 276 | 327 | Jumpy Matchbuilder |
+| 272 | 328 | Tim Tim |
+| 273 | 328 | Xandrea Jones |
+| 274 | 327 | Iesha Cupil |
+| 275 | 327 | Jumpy Matchbuilder |
+| 276 | 327 | Chipper Stackbuilder |
 | 277 | 325 | Snappy Combo |
-| 278 | 325 | Nathan Walker |
-| 279 | 325 | Flashy Twistline |
-| 280 | 324 | Norma Ortiz |
+| 278 | 325 | Flashy Twistline |
+| 279 | 325 | Nathan Walker |
+| 280 | 324 | DayDreamer79 |
 | 281 | 324 | Swanky Fitline |
-| 282 | 324 | DayDreamer79 |
+| 282 | 324 | Norma Ortiz |
 | 283 | 323 | Jeanna Mendez |
 | 284 | 322 | Queen |
 | 285 | 322 | Pam Bauder Ludwig |
 | 286 | 320 | Linda Guay |
-| 287 | 318 | Pamela Raye |
-| 288 | 318 | Margie Ann Naffziger |
+| 287 | 318 | Margie Ann Naffziger |
+| 288 | 318 | Pamela Raye |
 | 289 | 311 | Aldotfus Williams |
 | 290 | 310 | Amy Taylor Pomerenk |
 | 291 | 310 | Jenn |
