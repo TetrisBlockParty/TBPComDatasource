@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:22:20 UTC
+# Standings for team2 as of 2026-06-08 17:22:41 UTC
 
 **Total Participants:** 2225
 
@@ -21,7 +21,7 @@
 | 13 | 7100 | Crafty Ziggy |
 | 14 | 6911 | Lola C Davis |
 | 15 | 6758 | Christina Jambard Sampier |
-| 16 | 6557 | Dapper Rollout |
+| 16 | 6598 | Dapper Rollout |
 | 17 | 6374 | boblawboblaw |
 | 18 | 6247 | Tim Ix |
 | 19 | 6154 | Morgann McDaniel |
@@ -356,11 +356,11 @@
 | 348 | 313 | Buffy Diane Blake |
 | 349 | 312 | Patria Osuoha |
 | 350 | 311 | Aldotfus Williams |
-| 351 | 308 | Hector |
-| 352 | 306 | Brittney Williams |
-| 353 | 306 | Ray Daisy |
-| 354 | 305 | Havik Whitfield |
-| 355 | 305 | Skye Ehret |
+| 351 | 310 | Skye Ehret |
+| 352 | 308 | Hector |
+| 353 | 306 | Brittney Williams |
+| 354 | 306 | Ray Daisy |
+| 355 | 305 | Havik Whitfield |
 | 356 | 305 | Logan Duffey |
 | 357 | 304 | Nicole Good |
 | 358 | 304 | Kim Hunt |
@@ -817,23 +817,23 @@
 | 809 | 125 | Jessica Gayle Sears |
 | 810 | 124 | Twisty Matchfit |
 | 811 | 124 | Seamus |
-| 812 | 123 | Kawana Nesbitt |
-| 813 | 123 | Connie McCoy |
-| 814 | 123 | Roger Kirksey |
-| 815 | 122 | Dandy Column |
-| 816 | 122 | Coleta Singleton-Gallishaw |
-| 817 | 122 | Michele Plunkett |
-| 818 | 122 | Anzhen |
-| 819 | 121 | Mala Phonchanthasone |
-| 820 | 121 | y |
-| 821 | 121 | Heather |
-| 822 | 120 | Cranky Basepiece |
-| 823 | 120 | Laura Turner |
-| 824 | 120 | Rhonda Driskill |
+| 812 | 123 | Zaniya Brown |
+| 813 | 123 | Kawana Nesbitt |
+| 814 | 123 | Connie McCoy |
+| 815 | 123 | Roger Kirksey |
+| 816 | 122 | Dandy Column |
+| 817 | 122 | Coleta Singleton-Gallishaw |
+| 818 | 122 | Michele Plunkett |
+| 819 | 122 | Anzhen |
+| 820 | 121 | Mala Phonchanthasone |
+| 821 | 121 | y |
+| 822 | 121 | Heather |
+| 823 | 120 | Cranky Basepiece |
+| 824 | 120 | Laura Turner |
 | 825 | 120 | Tonya Greger |
-| 826 | 120 | Morgan Olson Pingree |
-| 827 | 120 | Val |
-| 828 | 120 | Zaniya Brown |
+| 826 | 120 | Rhonda Driskill |
+| 827 | 120 | Morgan Olson Pingree |
+| 828 | 120 | Val |
 | 829 | 120 | Gloria Appleton |
 | 830 | 120 | Alice Petterborg Barberich |
 | 831 | 120 | Debbie Davis |
