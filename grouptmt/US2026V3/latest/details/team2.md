@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:56:44 UTC
+# Standings for team2 as of 2026-06-08 10:57:22 UTC
 
 **Total Participants:** 2154
 
@@ -320,9 +320,9 @@
 | 312 | 295 | Flashy Hitter |
 | 313 | 295 | Sarah Jane Gorsuch |
 | 314 | 293 | Kim Hunt |
-| 315 | 291 | Brittany Mathis |
-| 316 | 290 | Dad |
-| 317 | 287 | Anthony Swift |
+| 315 | 292 | Anthony Swift |
+| 316 | 291 | Brittany Mathis |
+| 317 | 290 | Dad |
 | 318 | 286 | Kathy Strickland |
 | 319 | 285 | Joanna Trevin Thompson |
 | 320 | 285 | Boldy Wobbler |
@@ -1595,26 +1595,26 @@
 | 1587 | 34 | Josimarie Otero |
 | 1588 | 33 | Beth |
 | 1589 | 33 | Nicki McGill |
-| 1590 | 33 | juhde |
-| 1591 | 33 | Debbie Embry |
-| 1592 | 33 | Sandra Mathes Reece |
-| 1593 | 33 | Maja Hauff |
-| 1594 | 33 | Holly |
-| 1595 | 33 | BikerBorn BikerBred |
-| 1596 | 33 | Frisky Snapper |
-| 1597 | 33 | Stephanie Stegman |
-| 1598 | 33 | Vanessa King |
-| 1599 | 33 | Maureen Bryan Adams |
-| 1600 | 33 | Cheery Blast |
-| 1601 | 32 | Stacey Ann Kelley |
-| 1602 | 32 | Cindy Smith |
-| 1603 | 32 | Michael Woodall |
-| 1604 | 32 | Chelsea Harriss |
-| 1605 | 32 | Michelle Shemon |
-| 1606 | 32 | Swanky Fallmatch |
-| 1607 | 32 | Foc |
-| 1608 | 32 | Jenea Colvin |
-| 1609 | 32 | Erica |
+| 1590 | 33 | Erica |
+| 1591 | 33 | juhde |
+| 1592 | 33 | Debbie Embry |
+| 1593 | 33 | Sandra Mathes Reece |
+| 1594 | 33 | Maja Hauff |
+| 1595 | 33 | Holly |
+| 1596 | 33 | BikerBorn BikerBred |
+| 1597 | 33 | Frisky Snapper |
+| 1598 | 33 | Stephanie Stegman |
+| 1599 | 33 | Vanessa King |
+| 1600 | 33 | Maureen Bryan Adams |
+| 1601 | 33 | Cheery Blast |
+| 1602 | 32 | Stacey Ann Kelley |
+| 1603 | 32 | Cindy Smith |
+| 1604 | 32 | Michael Woodall |
+| 1605 | 32 | Chelsea Harriss |
+| 1606 | 32 | Michelle Shemon |
+| 1607 | 32 | Swanky Fallmatch |
+| 1608 | 32 | Foc |
+| 1609 | 32 | Jenea Colvin |
 | 1610 | 32 | Monique Williams |
 | 1611 | 32 | Hyper Striker |
 | 1612 | 32 | Courtney Elizabeth Hartnagel |
@@ -1906,10 +1906,10 @@
 | 1898 | 17 | Cj Ross |
 | 1899 | 17 | Stacy Hoffman |
 | 1900 | 17 | Starr Collins |
-| 1901 | 17 | grey panther |
-| 1902 | 16 | Crystal Marie Castillo |
-| 1903 | 16 | Spicy Towerbuilder |
-| 1904 | 16 | Jennifer Bromeisl-Tettam |
+| 1901 | 17 | Jennifer Bromeisl-Tettam |
+| 1902 | 17 | grey panther |
+| 1903 | 16 | Crystal Marie Castillo |
+| 1904 | 16 | Spicy Towerbuilder |
 | 1905 | 16 | Patty White |
 | 1906 | 16 | Diane Pinkston Massey |
 | 1907 | 16 | Anarcho |
