@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 18:44:44 UTC
+# Standings for team2 as of 2026-06-08 18:45:19 UTC
 
 **Total Participants:** 2240
 
@@ -15,7 +15,7 @@
 | 7 | 9576 | Jason Wood |
 | 8 | 9106 | Mocha |
 | 9 | 8812 | A.j. Langley |
-| 10 | 8065 | Christina Shell |
+| 10 | 8085 | Christina Shell |
 | 11 | 7501 | Bobbi |
 | 12 | 7161 | Brandon Brown |
 | 13 | 7100 | Crafty Ziggy |
@@ -176,39 +176,39 @@
 | 168 | 639 | Rhonda Diebold |
 | 169 | 637 | Kellie Sharp Godfrey |
 | 170 | 635 | Joslyn Johnson |
-| 171 | 626 | Dsabrina Maxey |
-| 172 | 619 | Jeska Gaines |
-| 173 | 613 | MegaPooh |
-| 174 | 609 | Pooh |
-| 175 | 609 | Michelle Rich Burkhart |
-| 176 | 602 | Julie Renee Bertram |
-| 177 | 600 | Chasity Simpson |
-| 178 | 600 | Theresa Marie |
-| 179 | 591 | Bubbly Strikerpiece |
-| 180 | 588 | Crystal Allen |
-| 181 | 587 | Sara Perkins |
-| 182 | 587 | Kevin Mccoy |
-| 183 | 587 | Kathleen Dumbazz |
-| 184 | 582 | Zarah Kettler |
-| 185 | 580 | Nikki Hayes |
-| 186 | 578 | Monique Frantz |
-| 187 | 577 | Lindsay Klemp |
-| 188 | 574 | Brandy McCune Reep |
-| 189 | 571 | Robin G |
-| 190 | 569 | Vistabrat |
-| 191 | 567 | Cool Balancer |
-| 192 | 567 | Nutty Curver |
-| 193 | 565 | Christina Maria |
-| 194 | 557 | Chirpy Grid |
-| 195 | 551 | Michelle Luke Banta |
-| 196 | 550 | DomDomsNana |
-| 197 | 544 | Leigh Ann |
-| 198 | 542 | Spicy Risegrid |
-| 199 | 538 | Thomas Tyrone |
-| 200 | 537 | Alicia Ellenburg |
-| 201 | 529 | Kimmyc |
-| 202 | 529 | Mom |
-| 203 | 528 | Tim Tim |
+| 171 | 628 | Tim Tim |
+| 172 | 626 | Dsabrina Maxey |
+| 173 | 619 | Jeska Gaines |
+| 174 | 613 | MegaPooh |
+| 175 | 609 | Pooh |
+| 176 | 609 | Michelle Rich Burkhart |
+| 177 | 602 | Julie Renee Bertram |
+| 178 | 600 | Chasity Simpson |
+| 179 | 600 | Theresa Marie |
+| 180 | 593 | Bubbly Strikerpiece |
+| 181 | 588 | Crystal Allen |
+| 182 | 587 | Kathleen Dumbazz |
+| 183 | 587 | Sara Perkins |
+| 184 | 587 | Kevin Mccoy |
+| 185 | 582 | Zarah Kettler |
+| 186 | 580 | Nikki Hayes |
+| 187 | 578 | Monique Frantz |
+| 188 | 577 | Lindsay Klemp |
+| 189 | 574 | Brandy McCune Reep |
+| 190 | 571 | Robin G |
+| 191 | 569 | Vistabrat |
+| 192 | 567 | Cool Balancer |
+| 193 | 567 | Nutty Curver |
+| 194 | 565 | Christina Maria |
+| 195 | 557 | Chirpy Grid |
+| 196 | 551 | Michelle Luke Banta |
+| 197 | 550 | DomDomsNana |
+| 198 | 544 | Leigh Ann |
+| 199 | 542 | Spicy Risegrid |
+| 200 | 538 | Thomas Tyrone |
+| 201 | 537 | Alicia Ellenburg |
+| 202 | 529 | Kimmyc |
+| 203 | 529 | Mom |
 | 204 | 527 | Amy Gale |
 | 205 | 521 | Steven Craig |
 | 206 | 520 | Jennifer Smith |
@@ -281,9 +281,9 @@
 | 273 | 392 | Lora Via |
 | 274 | 392 | Bri St Peter |
 | 275 | 391 | La chulis |
-| 276 | 390 | Fudgie Pie |
-| 277 | 388 | Rachel Nilles |
-| 278 | 388 | Adriana Daniela Agapie |
+| 276 | 391 | Adriana Daniela Agapie |
+| 277 | 390 | Fudgie Pie |
+| 278 | 388 | Rachel Nilles |
 | 279 | 385 | Hypee |
 | 280 | 385 | Brittni Lawrence |
 | 281 | 384 | DayDreamer79 |
@@ -361,8 +361,8 @@
 | 353 | 318 | Margie Ann Naffziger |
 | 354 | 318 | Rob Owens |
 | 355 | 317 | Marylin Eacker |
-| 356 | 314 | RaeRae |
-| 357 | 313 | Aldotfus Williams |
+| 356 | 316 | Aldotfus Williams |
+| 357 | 314 | RaeRae |
 | 358 | 313 | Buffy Diane Blake |
 | 359 | 312 | Patria Osuoha |
 | 360 | 309 | Travis Bundrum |
@@ -1871,8 +1871,8 @@
 | 1863 | 22 | Raven |
 | 1864 | 22 | Melanesia Springs |
 | 1865 | 22 | Mary Cook |
-| 1866 | 22 | Chummy Clear |
-| 1867 | 22 | Amanda Hastings |
+| 1866 | 22 | Amanda Hastings |
+| 1867 | 22 | Chummy Clear |
 | 1868 | 22 | Mariah Wygonik |
 | 1869 | 22 | Nutty Cascader |
 | 1870 | 22 | Stacy Stickle |
@@ -1887,66 +1887,66 @@
 | 1879 | 21 | sally |
 | 1880 | 21 | Johnathon Mendiola |
 | 1881 | 21 | Jacqueline Leigh Zuzinec |
-| 1882 | 21 | twistyzone |
-| 1883 | 21 | Swahko |
-| 1884 | 21 | Rachel Burkett |
-| 1885 | 21 | Cynthia Vornlocker |
-| 1886 | 21 | Krickett M. Curtis |
-| 1887 | 21 | Misty Dillard |
-| 1888 | 21 | Loony Snapclear |
-| 1889 | 21 | Ali |
-| 1890 | 21 | Chill Shatterclear |
+| 1882 | 21 | Chill Shatterclear |
+| 1883 | 21 | twistyzone |
+| 1884 | 21 | Krickett M. Curtis |
+| 1885 | 21 | Rachel Burkett |
+| 1886 | 21 | Cynthia Vornlocker |
+| 1887 | 21 | Loony Snapclear |
+| 1888 | 21 | Misty Dillard |
+| 1889 | 21 | Swahko |
+| 1890 | 21 | Ali |
 | 1891 | 21 | Vee Waller |
-| 1892 | 21 | Plucky Caster |
-| 1893 | 20 | Spunky Riserfit |
-| 1894 | 20 | ll Patton |
-| 1895 | 20 | Jenn Wittkamp |
-| 1896 | 20 | Chill Racker |
-| 1897 | 20 | Shana Campbell |
-| 1898 | 20 | Mathew Henderson |
-| 1899 | 20 | Hyper Framezone |
-| 1900 | 20 | Anna |
-| 1901 | 20 | Brandy Knight Roberts |
-| 1902 | 20 | Jamaica Flowers |
-| 1903 | 20 | Deborah Morey-avila |
-| 1904 | 20 | Jocelyn Fisher |
-| 1905 | 20 | David Blocker |
-| 1906 | 20 | JrsWife |
-| 1907 | 20 | Betsey Terry |
-| 1908 | 20 | Margie King |
-| 1909 | 20 | Victoria Hogan McCreedy |
-| 1910 | 20 | Kathi Patrick |
-| 1911 | 20 | Tammy Pittman |
-| 1912 | 20 | Matthew Ultsch |
-| 1913 | 20 | Mighty Cascade |
-| 1914 | 20 | Brave Curver |
-| 1915 | 20 | TookaRhoGorgeous |
-| 1916 | 20 | Ciera Adams |
-| 1917 | 20 | Michelle Hartman |
-| 1918 | 20 | Sasha Hamilton |
-| 1919 | 20 | Jennifer Risdell Wilson |
-| 1920 | 20 | Tim Joy |
-| 1921 | 20 | Stacie Taylor |
-| 1922 | 20 | Roberta Granados |
-| 1923 | 20 | Ducky West |
-| 1924 | 20 | Pam Martin |
-| 1925 | 20 | Tosha Dickson |
-| 1926 | 20 | John Davis |
-| 1927 | 20 | Agnes Gable |
-| 1928 | 20 | Donna Casey |
-| 1929 | 20 | Melanie Hernandez |
-| 1930 | 20 | Adam Winters |
-| 1931 | 20 | Boldy Patterner |
-| 1932 | 20 | Chris |
-| 1933 | 20 | Bigbb |
-| 1934 | 20 | Witty Matchfit |
-| 1935 | 20 | Rick Green |
-| 1936 | 20 | Brittany Weatherspoon |
-| 1937 | 19 | Clever Balancefit |
-| 1938 | 19 | Lindsay Gregory |
-| 1939 | 19 | Mckennas Nana |
+| 1892 | 21 | Sandra Kopas Stetka |
+| 1893 | 21 | Plucky Caster |
+| 1894 | 20 | Hyper Framezone |
+| 1895 | 20 | JrsWife |
+| 1896 | 20 | David Blocker |
+| 1897 | 20 | Jocelyn Fisher |
+| 1898 | 20 | Deborah Morey-avila |
+| 1899 | 20 | Jamaica Flowers |
+| 1900 | 20 | Brandy Knight Roberts |
+| 1901 | 20 | ll Patton |
+| 1902 | 20 | Shana Campbell |
+| 1903 | 20 | Mathew Henderson |
+| 1904 | 20 | Chill Racker |
+| 1905 | 20 | Anna |
+| 1906 | 20 | Jenn Wittkamp |
+| 1907 | 20 | Spunky Riserfit |
+| 1908 | 20 | Betsey Terry |
+| 1909 | 20 | Margie King |
+| 1910 | 20 | Victoria Hogan McCreedy |
+| 1911 | 20 | Kathi Patrick |
+| 1912 | 20 | Tammy Pittman |
+| 1913 | 20 | Matthew Ultsch |
+| 1914 | 20 | Mighty Cascade |
+| 1915 | 20 | Brave Curver |
+| 1916 | 20 | TookaRhoGorgeous |
+| 1917 | 20 | Ciera Adams |
+| 1918 | 20 | Michelle Hartman |
+| 1919 | 20 | Sasha Hamilton |
+| 1920 | 20 | Jennifer Risdell Wilson |
+| 1921 | 20 | Tim Joy |
+| 1922 | 20 | Stacie Taylor |
+| 1923 | 20 | Roberta Granados |
+| 1924 | 20 | Ducky West |
+| 1925 | 20 | Pam Martin |
+| 1926 | 20 | Tosha Dickson |
+| 1927 | 20 | John Davis |
+| 1928 | 20 | Agnes Gable |
+| 1929 | 20 | Donna Casey |
+| 1930 | 20 | Melanie Hernandez |
+| 1931 | 20 | Adam Winters |
+| 1932 | 20 | Boldy Patterner |
+| 1933 | 20 | Chris |
+| 1934 | 20 | Bigbb |
+| 1935 | 20 | Witty Matchfit |
+| 1936 | 20 | Rick Green |
+| 1937 | 20 | Brittany Weatherspoon |
+| 1938 | 19 | Clever Balancefit |
+| 1939 | 19 | Lindsay Gregory |
 | 1940 | 19 | Patience Thompson |
-| 1941 | 19 | Sandra Kopas Stetka |
+| 1941 | 19 | Mckennas Nana |
 | 1942 | 19 | Carrie Hargett |
 | 1943 | 19 | Tetra Maniac |
 | 1944 | 19 | Amanda Jimenez |
