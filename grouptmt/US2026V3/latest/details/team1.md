@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:56:43 UTC
+# Standings for team1 as of 2026-06-08 18:57:22 UTC
 
 **Total Participants:** 1847
 
@@ -513,11 +513,11 @@
 | 505 | 177 | Cece Fowler |
 | 506 | 176 | Dede Tate |
 | 507 | 176 | Jimmy Shannon |
-| 508 | 176 | Char |
-| 509 | 175 | Aaron Hartmann |
-| 510 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 511 | 174 | Clipzby |
-| 512 | 174 | Karen Knapp |
+| 508 | 176 | Karen Knapp |
+| 509 | 176 | Char |
+| 510 | 175 | Aaron Hartmann |
+| 511 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 512 | 174 | Clipzby |
 | 513 | 174 | Ciera Peace |
 | 514 | 174 | ChunLi |
 | 515 | 172 | Poyre Shelton |
@@ -569,61 +569,61 @@
 | 561 | 156 | Lakiesha Crawford |
 | 562 | 156 | Melissa Hershberger |
 | 563 | 156 | Ryan Runyan |
-| 564 | 155 | MzJuice Box |
-| 565 | 155 | nameno |
+| 564 | 155 | nameno |
+| 565 | 155 | MzJuice Box |
 | 566 | 155 | Kala Miller |
 | 567 | 154 | Logan Frost |
-| 568 | 154 | Lynn |
-| 569 | 154 | Kp |
-| 570 | 154 | Rebecca Jackson |
-| 571 | 154 | Glitzy Clusterer |
+| 568 | 154 | Glitzy Clusterer |
+| 569 | 154 | Rebecca Jackson |
+| 570 | 154 | Lynn |
+| 571 | 154 | Kp |
 | 572 | 153 | Holly Baker |
 | 573 | 152 | Nyhlah Patterson |
 | 574 | 152 | Wacky Stackbuilder |
 | 575 | 151 | Sarah Steckbauer |
-| 576 | 151 | Lucy |
-| 577 | 151 | Yashica Smith |
+| 576 | 151 | Yashica Smith |
+| 577 | 151 | Lucy |
 | 578 | 151 | Casey Chapman |
-| 579 | 150 | TotoCherue |
+| 579 | 150 | Antoinette Jones |
 | 580 | 150 | Taneka Howell |
 | 581 | 150 | Ad Doctor |
 | 582 | 150 | Kanary Karotz |
 | 583 | 150 | Marshall Davis |
 | 584 | 150 | Mommy Frank |
 | 585 | 150 | Giddy Staggerpiece |
-| 586 | 150 | Antoinette Jones |
+| 586 | 150 | TotoCherue |
 | 587 | 150 | Cheri Robinson |
-| 588 | 149 | Snappy Link |
-| 589 | 149 | Twisty Brickfit |
-| 590 | 149 | Kristie |
-| 591 | 149 | Betsy B. Yohan |
-| 592 | 148 | P C |
-| 593 | 148 | Cauiasia DeJ'ae |
-| 594 | 148 | Shannon Carriger |
-| 595 | 148 | Rhianna Dinki Austin |
+| 588 | 149 | Twisty Brickfit |
+| 589 | 149 | Snappy Link |
+| 590 | 149 | Betsy B. Yohan |
+| 591 | 149 | Kristie |
+| 592 | 148 | Rhianna Dinki Austin |
+| 593 | 148 | P C |
+| 594 | 148 | Cauiasia DeJ'ae |
+| 595 | 148 | Shannon Carriger |
 | 596 | 148 | Faith Armone |
 | 597 | 147 | Pj Rojas |
 | 598 | 147 | Mathew Trudell |
 | 599 | 147 | Angela Brown Babin |
-| 600 | 146 | whatever |
-| 601 | 146 | TRUBBLE45 |
+| 600 | 146 | TRUBBLE45 |
+| 601 | 146 | whatever |
 | 602 | 146 | Bella |
 | 603 | 146 | FunTime |
 | 604 | 146 | Giggly Tiltbuilder |
-| 605 | 145 | Squaw Ki Ng |
-| 606 | 145 | lizlizliz |
-| 607 | 144 | Cm |
-| 608 | 144 | Kiki |
-| 609 | 143 | Shanell Thomas |
-| 610 | 143 | Andy Rivera |
-| 611 | 143 | Marlynnnnn |
-| 612 | 142 | Semaj Johnson |
-| 613 | 142 | Mary Goode |
-| 614 | 141 | Krystal Maynard |
+| 605 | 145 | Chirpy Buildgrid |
+| 606 | 145 | Squaw Ki Ng |
+| 607 | 145 | lizlizliz |
+| 608 | 144 | Cm |
+| 609 | 144 | Kiki |
+| 610 | 143 | Shanell Thomas |
+| 611 | 143 | Andy Rivera |
+| 612 | 143 | Marlynnnnn |
+| 613 | 142 | Semaj Johnson |
+| 614 | 142 | Mary Goode |
 | 615 | 141 | Shalena Marie Humphrey |
-| 616 | 141 | Ashley Monet Terrell |
-| 617 | 141 | Kim Holzmiller |
-| 618 | 140 | Chirpy Buildgrid |
+| 616 | 141 | Krystal Maynard |
+| 617 | 141 | Ashley Monet Terrell |
+| 618 | 141 | Kim Holzmiller |
 | 619 | 140 | Eric Machuca |
 | 620 | 140 | SherylU |
 | 621 | 140 | TBabii24 |
@@ -650,18 +650,18 @@
 | 642 | 135 | Shameka Tiffany |
 | 643 | 135 | Paul Pendley |
 | 644 | 135 | Saucy Tile |
-| 645 | 134 | Anastasia |
+| 645 | 134 | Hyedie Badie |
 | 646 | 134 | Clint Mcdowell |
-| 647 | 133 | Kimberly Susan Privette |
-| 648 | 132 | TieMs BHughez |
-| 649 | 132 | Jack Vlasak |
-| 650 | 132 | Jeffrey Barrows |
-| 651 | 132 | Bambam |
-| 652 | 131 | Cynthia Cruell |
-| 653 | 131 | Kimberly Anderson |
-| 654 | 130 | Daniel Santana |
-| 655 | 130 | Kesha Brady |
-| 656 | 130 | Hyedie Badie |
+| 647 | 134 | Anastasia |
+| 648 | 133 | Kimberly Susan Privette |
+| 649 | 132 | TieMs BHughez |
+| 650 | 132 | Jack Vlasak |
+| 651 | 132 | Jeffrey Barrows |
+| 652 | 132 | Bambam |
+| 653 | 131 | Cynthia Cruell |
+| 654 | 131 | Kimberly Anderson |
+| 655 | 130 | Daniel Santana |
+| 656 | 130 | Kesha Brady |
 | 657 | 130 | Tito Divyn |
 | 658 | 130 | Gerold Folk Haddock |
 | 659 | 130 | Victoria Smith |
