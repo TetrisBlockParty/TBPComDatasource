@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:33:19 UTC
+# Standings for team2 as of 2026-06-08 09:34:42 UTC
 
 **Total Participants:** 2143
 
@@ -157,7 +157,7 @@
 | 149 | 635 | Joslyn Johnson |
 | 150 | 627 | Jgato |
 | 151 | 626 | Dsabrina Maxey |
-| 152 | 623 | MarioKarasovic |
+| 152 | 626 | MarioKarasovic |
 | 153 | 619 | Jeska Gaines |
 | 154 | 614 | Kellie Sharp Godfrey |
 | 155 | 613 | Jason Cook |
@@ -520,10 +520,10 @@
 | 512 | 172 | Rescuegirl76 |
 | 513 | 170 | Amber Carpenter |
 | 514 | 170 | Dapper Riser |
-| 515 | 169 | Analee Nicole Jones |
-| 516 | 168 | Spicy Balanceblock |
-| 517 | 168 | Heather Schardan |
-| 518 | 167 | Justin Stark |
+| 515 | 169 | Justin Stark |
+| 516 | 169 | Analee Nicole Jones |
+| 517 | 168 | Spicy Balanceblock |
+| 518 | 168 | Heather Schardan |
 | 519 | 167 | Cara Rivera |
 | 520 | 166 | Darla Nolt |
 | 521 | 166 | Carl Mccoy |
@@ -1179,8 +1179,8 @@
 | 1171 | 65 | Joanne Haynes |
 | 1172 | 65 | Wacky Drop |
 | 1173 | 64 | Wacky Rollbuilder |
-| 1174 | 64 | Pnda |
-| 1175 | 64 | Kassie D Harmon |
+| 1174 | 64 | Kassie D Harmon |
+| 1175 | 64 | Pnda |
 | 1176 | 64 | Kylee Pruitt |
 | 1177 | 64 | Emily |
 | 1178 | 63 | Jessica LeNeave |
@@ -1188,31 +1188,31 @@
 | 1180 | 63 | Frothy Roll |
 | 1181 | 63 | Angela Anderson |
 | 1182 | 63 | Bubbly Tilt |
-| 1183 | 63 | Glitzy Roll |
-| 1184 | 63 | AmyShea |
+| 1183 | 63 | AmyShea |
+| 1184 | 63 | Glitzy Roll |
 | 1185 | 62 | Peyton Groce |
 | 1186 | 62 | Saucy Clearzone |
-| 1187 | 62 | Dandy Brickbuilder |
-| 1188 | 62 | Alana Albritton Seals |
-| 1189 | 62 | Frothy Zonebuilder |
-| 1190 | 62 | Amy Walker |
-| 1191 | 61 | Dena Cudjo |
-| 1192 | 61 | Rebecca Boling |
-| 1193 | 61 | Maithan Conour |
-| 1194 | 61 | Pleaze Marshall |
-| 1195 | 61 | Bubbly Dash |
-| 1196 | 61 | Glitzy Matchclear |
-| 1197 | 61 | Natasha Schatte |
-| 1198 | 61 | Marcia Davis |
-| 1199 | 61 | giggly gal |
-| 1200 | 61 | Ashley Shazes |
-| 1201 | 61 | Ken Vaughn |
-| 1202 | 61 | Lil G |
-| 1203 | 61 | Mandy Smart |
-| 1204 | 61 | Kevin Perez |
-| 1205 | 61 | Deb Rose-Bridinger |
-| 1206 | 60 | Karen Mueller |
-| 1207 | 60 | Twisty Tower |
+| 1187 | 62 | Twisty Tower |
+| 1188 | 62 | Dandy Brickbuilder |
+| 1189 | 62 | Alana Albritton Seals |
+| 1190 | 62 | Frothy Zonebuilder |
+| 1191 | 62 | Amy Walker |
+| 1192 | 61 | Dena Cudjo |
+| 1193 | 61 | Rebecca Boling |
+| 1194 | 61 | Maithan Conour |
+| 1195 | 61 | Pleaze Marshall |
+| 1196 | 61 | Bubbly Dash |
+| 1197 | 61 | Glitzy Matchclear |
+| 1198 | 61 | Natasha Schatte |
+| 1199 | 61 | Marcia Davis |
+| 1200 | 61 | giggly gal |
+| 1201 | 61 | Ashley Shazes |
+| 1202 | 61 | Ken Vaughn |
+| 1203 | 61 | Lil G |
+| 1204 | 61 | Mandy Smart |
+| 1205 | 61 | Kevin Perez |
+| 1206 | 61 | Deb Rose-Bridinger |
+| 1207 | 60 | Karen Mueller |
 | 1208 | 60 | Tiffany Lewis |
 | 1209 | 60 | Ally Miller |
 | 1210 | 60 | Anna Chance |
@@ -1479,30 +1479,30 @@
 | 1471 | 40 | Snazzy Linebuilder |
 | 1472 | 40 | Cassey Feller |
 | 1473 | 40 | Wendy Morrison |
-| 1474 | 40 | Jennifer Bryant |
-| 1475 | 40 | Aislinn Lowe |
-| 1476 | 40 | Dapper Pivotfall |
-| 1477 | 40 | Jay Theriault |
-| 1478 | 40 | Tara Feineis |
-| 1479 | 40 | Lori Rose |
-| 1480 | 40 | Tonya Templin Smith |
-| 1481 | 40 | Shay Lynn King |
-| 1482 | 40 | Kacey Bates |
-| 1483 | 40 | Elicia Lloyd-Zazweta |
-| 1484 | 40 | Emma Danielle Wynn |
-| 1485 | 40 | Ashley Bennett |
-| 1486 | 40 | fancypants |
-| 1487 | 40 | Kristy Moore |
-| 1488 | 40 | Ariya Colson |
-| 1489 | 39 | Lindsey Butler |
-| 1490 | 39 | Slinky Glidezone |
-| 1491 | 39 | Valerie Roberts |
-| 1492 | 39 | Instak1ll |
-| 1493 | 39 | Flynn Flibble |
-| 1494 | 39 | Liliana Mills |
-| 1495 | 39 | Catey Salazar |
-| 1496 | 39 | Lorrie Girardi |
-| 1497 | 39 | Lively Shatter |
+| 1474 | 40 | Lively Shatter |
+| 1475 | 40 | Jennifer Bryant |
+| 1476 | 40 | Aislinn Lowe |
+| 1477 | 40 | Dapper Pivotfall |
+| 1478 | 40 | Jay Theriault |
+| 1479 | 40 | Tara Feineis |
+| 1480 | 40 | Lori Rose |
+| 1481 | 40 | Tonya Templin Smith |
+| 1482 | 40 | Shay Lynn King |
+| 1483 | 40 | Kacey Bates |
+| 1484 | 40 | Elicia Lloyd-Zazweta |
+| 1485 | 40 | Emma Danielle Wynn |
+| 1486 | 40 | Ashley Bennett |
+| 1487 | 40 | fancypants |
+| 1488 | 40 | Kristy Moore |
+| 1489 | 40 | Ariya Colson |
+| 1490 | 39 | Lindsey Butler |
+| 1491 | 39 | Slinky Glidezone |
+| 1492 | 39 | Valerie Roberts |
+| 1493 | 39 | Instak1ll |
+| 1494 | 39 | Flynn Flibble |
+| 1495 | 39 | Liliana Mills |
+| 1496 | 39 | Catey Salazar |
+| 1497 | 39 | Lorrie Girardi |
 | 1498 | 39 | Renee Garneau Cain |
 | 1499 | 39 | Linette Chico |
 | 1500 | 39 | LovelyLaurita |
