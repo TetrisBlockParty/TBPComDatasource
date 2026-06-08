@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:00:43 UTC
+# Standings for team1 as of 2026-06-08 21:01:20 UTC
 
 **Total Participants:** 1872
 
@@ -330,13 +330,13 @@
 | 322 | 287 | Tamara Johnson-Carter |
 | 323 | 286 | Lyn Reed |
 | 324 | 285 | Shanns |
-| 325 | 282 | Melissa D. M. Hornsby |
-| 326 | 282 | Anthony |
+| 325 | 282 | Anthony |
+| 326 | 282 | Melissa D. M. Hornsby |
 | 327 | 281 | KeeKee Williams |
 | 328 | 280 | Teri Marie Clayton |
-| 329 | 280 | Rachael Bakowicz Edwards |
-| 330 | 280 | Boldy Liner |
-| 331 | 280 | Erica Charlise |
+| 329 | 280 | Boldy Liner |
+| 330 | 280 | Erica Charlise |
+| 331 | 280 | Rachael Bakowicz Edwards |
 | 332 | 279 | Chandler Magee |
 | 333 | 278 | Ann White |
 | 334 | 278 | izzybella |
@@ -344,28 +344,28 @@
 | 336 | 275 | Tamika Fisher |
 | 337 | 275 | Chris Sladoje |
 | 338 | 274 | 신재호 |
-| 339 | 273 | Dacia Hicks |
-| 340 | 273 | Bubbly Piececlear |
-| 341 | 272 | Nina Davis |
-| 342 | 271 | Telisha Mims |
-| 343 | 270 | Julian Dickens Jr. |
-| 344 | 270 | Jean Regis |
-| 345 | 269 | DaGuy |
-| 346 | 269 | Stephen Glaze |
+| 339 | 274 | Telisha Mims |
+| 340 | 273 | Dacia Hicks |
+| 341 | 273 | Bubbly Piececlear |
+| 342 | 272 | Nina Davis |
+| 343 | 270 | Jean Regis |
+| 344 | 270 | Julian Dickens Jr. |
+| 345 | 269 | Stephen Glaze |
+| 346 | 269 | DaGuy |
 | 347 | 268 | MamushiOh |
-| 348 | 264 | Boldy Matchbuilder |
-| 349 | 264 | Loopy Block |
-| 350 | 264 | Wild Out Nai |
+| 348 | 264 | Wild Out Nai |
+| 349 | 264 | Boldy Matchbuilder |
+| 350 | 264 | Loopy Block |
 | 351 | 263 | Alivia Dove |
-| 352 | 260 | Peppy Towerbuilder |
+| 352 | 260 | Deveda Williams |
 | 353 | 260 | Sara Meri |
-| 354 | 260 | Deveda Williams |
-| 355 | 258 | Cynthia Bradley |
-| 356 | 258 | SeanSanchez |
+| 354 | 260 | Peppy Towerbuilder |
+| 355 | 258 | SeanSanchez |
+| 356 | 258 | Cynthia Bradley |
 | 357 | 257 | Faith Armone |
 | 358 | 257 | kitten |
-| 359 | 255 | Falisa Bell |
-| 360 | 255 | Emily Wright |
+| 359 | 255 | Emily Wright |
+| 360 | 255 | Falisa Bell |
 | 361 | 253 | Tasha |
 | 362 | 252 | Andrew Jay Vaughn |
 | 363 | 251 | Lozuna |
@@ -373,12 +373,12 @@
 | 365 | 249 | Nate Myers |
 | 366 | 248 | HarleyJane |
 | 367 | 248 | Darrel K Pemberton |
-| 368 | 247 | Michael J Gresham |
-| 369 | 247 | Tessa Gaskin |
+| 368 | 247 | Tessa Gaskin |
+| 369 | 247 | Michael J Gresham |
 | 370 | 246 | Shanaa Germany Crittenden |
 | 371 | 245 | 大竹直之 |
-| 372 | 244 | LaTonya Myers |
-| 373 | 244 | akosua |
+| 372 | 244 | akosua |
+| 373 | 244 | LaTonya Myers |
 | 374 | 244 | Teddy Davis |
 | 375 | 243 | LaShaun Stinson |
 | 376 | 242 | Tay |
@@ -1492,25 +1492,25 @@
 | 1484 | 27 | Ramon Leno Coolridge |
 | 1485 | 27 | Mighty Curver |
 | 1486 | 27 | Grant Wilson |
-| 1487 | 27 | MsSassygee Boom |
-| 1488 | 27 | Jenine Wiser |
-| 1489 | 27 | katia |
-| 1490 | 27 | Taylor Keisha |
-| 1491 | 26 | Lush Risebuilder |
-| 1492 | 26 | Emily Burgoon |
-| 1493 | 26 | Konkrete Pop |
+| 1487 | 27 | Poppy Clusterbuilder |
+| 1488 | 27 | MsSassygee Boom |
+| 1489 | 27 | Jenine Wiser |
+| 1490 | 27 | katia |
+| 1491 | 27 | Taylor Keisha |
+| 1492 | 26 | Konkrete Pop |
+| 1493 | 26 | Emily Burgoon |
 | 1494 | 26 | Jennifer Diamond |
 | 1495 | 26 | Laura Long |
 | 1496 | 26 | Kathleen Boyles |
 | 1497 | 26 | kaboom |
 | 1498 | 26 | Teena K Macon |
-| 1499 | 26 | jae |
-| 1500 | 26 | Melissa Ramsey |
-| 1501 | 26 | Layla Williams |
-| 1502 | 26 | Moneyy Munrow  |
-| 1503 | 26 | Ana Torres |
-| 1504 | 26 | Marla |
-| 1505 | 25 | Pamela Cooper |
+| 1499 | 26 | Lush Risebuilder |
+| 1500 | 26 | jae |
+| 1501 | 26 | Melissa Ramsey |
+| 1502 | 26 | Layla Williams |
+| 1503 | 26 | Moneyy Munrow  |
+| 1504 | 26 | Ana Torres |
+| 1505 | 26 | Marla |
 | 1506 | 25 | Jessie Wallace |
 | 1507 | 25 | Amanda Bell |
 | 1508 | 25 | Dinky da Don |
@@ -1518,8 +1518,8 @@
 | 1510 | 25 | RossA |
 | 1511 | 25 | Em Purvis |
 | 1512 | 25 | Latanya Gayle |
-| 1513 | 25 | Leonard R. Chanette |
-| 1514 | 25 | Poppy Clusterbuilder |
+| 1513 | 25 | Pamela Cooper |
+| 1514 | 25 | Leonard R. Chanette |
 | 1515 | 25 | Jiff |
 | 1516 | 25 | Heckabluntstho |
 | 1517 | 25 | PennyCandee |
@@ -1537,9 +1537,9 @@
 | 1529 | 23 | Charisse Johnson |
 | 1530 | 23 | Nicolej |
 | 1531 | 23 | Shiny Zonebuilder |
-| 1532 | 23 | Yellowbone |
+| 1532 | 23 | Sassy Stack |
 | 1533 | 23 | Tabitha Dupre-Allen |
-| 1534 | 23 | Sassy Stack |
+| 1534 | 23 | Yellowbone |
 | 1535 | 23 | Vortex Viniq |
 | 1536 | 23 | Lush Buildsnap |
 | 1537 | 23 | Crafty Pivoty |
