@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 00:28:18 UTC
+# Standings for team4 as of 2026-06-08 00:28:41 UTC
 
 **Total Participants:** 1673
 
@@ -88,8 +88,8 @@
 | 80 | 848 | Beee |
 | 81 | 837 | Fancy Crasher |
 | 82 | 830 | Kitsune Bi |
-| 83 | 826 | Sharidan Klinginsmith |
-| 84 | 826 | Lupe Alburquerque |
+| 83 | 826 | Lupe Alburquerque |
+| 84 | 826 | Sharidan Klinginsmith |
 | 85 | 805 | JoLinda Dunn |
 | 86 | 800 | Melissa Brown |
 | 87 | 795 | Phil Peterson |
@@ -116,8 +116,8 @@
 | 108 | 626 | Lynn Grimes |
 | 109 | 620 | Irma |
 | 110 | 610 | Dandy Clearfit |
-| 111 | 593 | Caitlyn Wang |
-| 112 | 590 | Ermadette |
+| 111 | 598 | Ermadette |
+| 112 | 593 | Caitlyn Wang |
 | 113 | 586 | Kim |
 | 114 | 576 | CJ |
 | 115 | 567 | Cranky Towerbuilder |
@@ -136,10 +136,10 @@
 | 128 | 518 | Jesse Olive |
 | 129 | 517 | Nikki Fuller Johnson |
 | 130 | 514 | Andrew Dang |
-| 131 | 512 | Esther Hadassah |
-| 132 | 500 | Cherry |
-| 133 | 496 | Jackie Jackson |
-| 134 | 493 | Snappy Fitzone |
+| 131 | 513 | Snappy Fitzone |
+| 132 | 512 | Esther Hadassah |
+| 133 | 500 | Cherry |
+| 134 | 496 | Jackie Jackson |
 | 135 | 480 | Hardy Fuller |
 | 136 | 474 | Melissa WC |
 | 137 | 469 | Gigglycat |
