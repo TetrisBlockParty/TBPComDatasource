@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:06:42 UTC
+# Standings for team4 as of 2026-06-08 10:07:21 UTC
 
 **Total Participants:** 1808
 
@@ -259,27 +259,27 @@
 | 251 | 285 | Dana Abegil Lawas |
 | 252 | 284 | Tipsy Builderline |
 | 253 | 283 | Tiggerjake |
-| 254 | 282 | Goofy Fall |
-| 255 | 282 | Shanna Fragen |
+| 254 | 282 | Shanna Fragen |
+| 255 | 282 | Goofy Fall |
 | 256 | 281 | Margie Thomas |
-| 257 | 281 | Capone |
-| 258 | 281 | Ash Gribble |
-| 259 | 281 | Waxboss |
-| 260 | 280 | Sherry Mooney |
-| 261 | 280 | Snippy Splitter |
+| 257 | 281 | Waxboss |
+| 258 | 281 | Capone |
+| 259 | 281 | Ash Gribble |
+| 260 | 280 | Snippy Splitter |
+| 261 | 280 | Sherry Mooney |
 | 262 | 278 | Tamara Triplet |
 | 263 | 277 | Giggly Tilt |
 | 264 | 276 | Lori Stembridge |
 | 265 | 275 | Jeremy |
 | 266 | 274 | Dominique Melendez |
 | 267 | 271 | Tina Thomas |
-| 268 | 269 | Spunky Gridzone |
-| 269 | 269 | Spicy Chicken |
-| 270 | 268 | Bonnie Powell |
-| 271 | 267 | Chirpy Link |
-| 272 | 266 | tigerlilly |
-| 273 | 264 | Tipsy Zonebuilder |
-| 274 | 263 | Stasia |
+| 268 | 270 | Stasia |
+| 269 | 269 | Spunky Gridzone |
+| 270 | 269 | Spicy Chicken |
+| 271 | 268 | Bonnie Powell |
+| 272 | 267 | Chirpy Link |
+| 273 | 266 | tigerlilly |
+| 274 | 264 | Tipsy Zonebuilder |
 | 275 | 263 | Chummy Jumper |
 | 276 | 261 | Renee Sapp |
 | 277 | 261 | Brooke Arroyo |
