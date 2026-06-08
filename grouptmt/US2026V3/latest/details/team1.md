@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:25:19 UTC
+# Standings for team1 as of 2026-06-08 00:26:18 UTC
 
 **Total Participants:** 1632
 
@@ -29,9 +29,9 @@
 | 21 | 3721 | Chandler Spencer |
 | 22 | 3695 | jaimie |
 | 23 | 3266 | Yolanda McDonald |
-| 24 | 3039 | Chummy Combo |
-| 25 | 2913 | Sha Harris |
-| 26 | 2845 | Cool Bridger |
+| 24 | 3145 | Cool Bridger |
+| 25 | 3039 | Chummy Combo |
+| 26 | 2913 | Sha Harris |
 | 27 | 2708 | Ebo Got-Time |
 | 28 | 2619 | Zappy Brickline |
 | 29 | 2484 | Juan Kandiss Escobedo Irwin |
@@ -64,11 +64,11 @@
 | 56 | 1187 | Angela R Wilson |
 | 57 | 1126 | Ryan Meilleur |
 | 58 | 1119 | Corey Cawthon |
-| 59 | 1102 | D'Andra Stewart |
-| 60 | 1097 | Blockhead |
-| 61 | 1078 | Danielle DeLozier Plesec |
-| 62 | 1067 | Catara Renae Oliver |
-| 63 | 1066 | Janine Hunter |
+| 59 | 1105 | Janine Hunter |
+| 60 | 1102 | D'Andra Stewart |
+| 61 | 1097 | Blockhead |
+| 62 | 1078 | Danielle DeLozier Plesec |
+| 63 | 1067 | Catara Renae Oliver |
 | 64 | 1057 | Sanjuro |
 | 65 | 1054 | Eric Mcgaughy |
 | 66 | 1052 | Shortstak |
@@ -142,52 +142,52 @@
 | 134 | 511 | Dizzy Dropper |
 | 135 | 511 | Abraham Espaillat |
 | 136 | 509 | Shell Lewis |
-| 137 | 503 | Atlantalindi |
-| 138 | 495 | De'Laonzeo Anthony |
-| 139 | 494 | DaVonte' Cretter |
-| 140 | 481 | Novaa |
-| 141 | 480 | Jamal Itzjusmall Chambers |
-| 142 | 465 | Cathy Young |
-| 143 | 462 | Lesley Brunkus Cianfaglione |
-| 144 | 456 | Andre Sanon |
-| 145 | 452 | Kenny MrOnethousand Peck |
-| 146 | 444 | Kevin M. McGhee Jr |
-| 147 | 439 | Asani CHumba |
-| 148 | 437 | Tobey Marberry |
-| 149 | 431 | Lashawn Wallace |
-| 150 | 428 | Tammye Turner |
-| 151 | 420 | Jessica Carter |
-| 152 | 419 | La'Chae Nickole |
-| 153 | 417 | Dena Marie Lee |
-| 154 | 414 | Ebony Waynes-robinson |
-| 155 | 409 | Ty Øtg |
-| 156 | 405 | SPNLover24 |
-| 157 | 404 | Hyper Slamdrop |
-| 158 | 396 | Chuck Quarles |
-| 159 | 393 | Sharon Cail |
-| 160 | 389 | Roberta Lynn |
-| 161 | 389 | GrkGdess |
-| 162 | 389 | Lashaunda |
-| 163 | 388 | Sheila Burnham |
-| 164 | 387 | Crystal Anderson |
-| 165 | 384 | Christana Imjustbutton Stone |
-| 166 | 382 | Karebear |
-| 167 | 380 | Dulo |
-| 168 | 380 | Felicia Cain |
-| 169 | 377 | AF Cruz |
-| 170 | 377 | Jenna Renee |
-| 171 | 370 | Allison Baxter |
-| 172 | 368 | Eugina Slater |
-| 173 | 368 | Joey Albright |
-| 174 | 367 | Leebo Slice |
-| 175 | 365 | Simmone T. Kadiri |
-| 176 | 365 | Tishauna Virgo |
-| 177 | 363 | Christina Rebecca |
-| 178 | 361 | John Staub |
-| 179 | 359 | pooh |
-| 180 | 356 | Haley Bell |
-| 181 | 350 | Dee McCool |
-| 182 | 348 | LeeLee08 |
+| 137 | 507 | LeeLee08 |
+| 138 | 503 | Atlantalindi |
+| 139 | 495 | De'Laonzeo Anthony |
+| 140 | 494 | DaVonte' Cretter |
+| 141 | 481 | Novaa |
+| 142 | 480 | Jamal Itzjusmall Chambers |
+| 143 | 465 | Cathy Young |
+| 144 | 462 | Lesley Brunkus Cianfaglione |
+| 145 | 456 | Andre Sanon |
+| 146 | 452 | Kenny MrOnethousand Peck |
+| 147 | 444 | Kevin M. McGhee Jr |
+| 148 | 439 | Asani CHumba |
+| 149 | 437 | Tobey Marberry |
+| 150 | 431 | Lashawn Wallace |
+| 151 | 428 | Tammye Turner |
+| 152 | 420 | Jessica Carter |
+| 153 | 419 | La'Chae Nickole |
+| 154 | 417 | Dena Marie Lee |
+| 155 | 414 | Ebony Waynes-robinson |
+| 156 | 409 | Ty Øtg |
+| 157 | 405 | SPNLover24 |
+| 158 | 404 | Hyper Slamdrop |
+| 159 | 396 | Chuck Quarles |
+| 160 | 393 | Sharon Cail |
+| 161 | 393 | Sheila Burnham |
+| 162 | 389 | Roberta Lynn |
+| 163 | 389 | GrkGdess |
+| 164 | 389 | Lashaunda |
+| 165 | 387 | Crystal Anderson |
+| 166 | 384 | Christana Imjustbutton Stone |
+| 167 | 382 | Karebear |
+| 168 | 380 | Dulo |
+| 169 | 380 | Felicia Cain |
+| 170 | 377 | AF Cruz |
+| 171 | 377 | Jenna Renee |
+| 172 | 370 | Allison Baxter |
+| 173 | 368 | Eugina Slater |
+| 174 | 368 | Joey Albright |
+| 175 | 367 | Leebo Slice |
+| 176 | 365 | Simmone T. Kadiri |
+| 177 | 365 | Tishauna Virgo |
+| 178 | 363 | Christina Rebecca |
+| 179 | 361 | John Staub |
+| 180 | 359 | pooh |
+| 181 | 356 | Haley Bell |
+| 182 | 350 | Dee McCool |
 | 183 | 348 | Jayjay Rich |
 | 184 | 345 | Ebony |
 | 185 | 345 | Marcheta Cervantez |
@@ -196,8 +196,8 @@
 | 188 | 340 | Spicy Risepiece |
 | 189 | 340 | Murg4dr01d |
 | 190 | 332 | Mic Balew |
-| 191 | 330 | Jessica Russell |
-| 192 | 330 | Po Marley |
+| 191 | 330 | Po Marley |
+| 192 | 330 | Jessica Russell |
 | 193 | 330 | Davionte DaeDae Hopson-Rodriguez |
 | 194 | 328 | Brand Nu |
 | 195 | 327 | Rolanda Williams |
@@ -268,18 +268,18 @@
 | 260 | 253 | Choc |
 | 261 | 249 | Falisa Bell |
 | 262 | 248 | JaClanDiah |
-| 263 | 248 | Yasmin Nakea Wright |
+| 263 | 248 | Chilly Wipebuilder |
 | 264 | 248 | Mikayla |
-| 265 | 247 | Cheeky Pop |
-| 266 | 247 | Chilly Wipebuilder |
-| 267 | 245 | Derrius SeriousLee Burks |
-| 268 | 245 | Tremaine Hiler |
+| 265 | 248 | Yasmin Nakea Wright |
+| 266 | 247 | Cheeky Pop |
+| 267 | 245 | Zappy Riser |
+| 268 | 245 | Derrius SeriousLee Burks |
 | 269 | 245 | Bre Poston |
-| 270 | 244 | LaTonya Myers |
-| 271 | 244 | Teddy Davis |
-| 272 | 244 | Ann White |
+| 270 | 245 | Tremaine Hiler |
+| 271 | 244 | Ann White |
+| 272 | 244 | Teddy Davis |
 | 273 | 244 | Amber Wilson |
-| 274 | 242 | Zappy Riser |
+| 274 | 244 | LaTonya Myers |
 | 275 | 241 | Jai |
 | 276 | 240 | Rayya Kiser |
 | 277 | 240 | Nerdy Blockpiece |
