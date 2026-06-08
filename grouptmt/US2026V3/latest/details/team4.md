@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:29:21 UTC
+# Standings for team4 as of 2026-06-08 10:30:21 UTC
 
 **Total Participants:** 1810
 
@@ -271,8 +271,8 @@
 | 263 | 277 | Giggly Tilt |
 | 264 | 276 | Lori Stembridge |
 | 265 | 275 | Jeremy |
-| 266 | 274 | Dominique Melendez |
-| 267 | 272 | jaz |
+| 266 | 275 | jaz |
+| 267 | 274 | Dominique Melendez |
 | 268 | 271 | Tina Thomas |
 | 269 | 270 | Stasia |
 | 270 | 269 | Spunky Gridzone |
@@ -465,8 +465,8 @@
 | 457 | 164 | Jennifer Garcia |
 | 458 | 163 | Jeff Margolis |
 | 459 | 163 | Stef |
-| 460 | 161 | Candiecane324 |
-| 461 | 161 | Sarah Leake |
+| 460 | 162 | Sarah Leake |
+| 461 | 161 | Candiecane324 |
 | 462 | 161 | Donna Bush |
 | 463 | 160 | Bre Dee |
 | 464 | 160 | Nerdy Faller |
@@ -869,84 +869,84 @@
 | 861 | 80 | Freddy-B |
 | 862 | 80 | Marie Adkins |
 | 863 | 80 | Jerett Coplin |
-| 864 | 80 | Rin |
-| 865 | 80 | Mike Zec II |
-| 866 | 80 | Tracey Hudspath |
-| 867 | 79 | Loony Dashgrid |
-| 868 | 79 | Joe Win |
-| 869 | 79 | Nancy McCalla Abercrombie |
-| 870 | 79 | Sonya |
-| 871 | 79 | Groovy Stacker |
-| 872 | 79 | Lindsey DeRosa |
-| 873 | 79 | Nerdy Glider |
-| 874 | 79 | Poptart |
-| 875 | 79 | Mone DyTorrion Zyan Lotts |
-| 876 | 78 | Ben Figueroa |
-| 877 | 78 | Lilo |
-| 878 | 78 | Christopher Lindsey |
-| 879 | 78 | AVA |
-| 880 | 78 | Tbag |
-| 881 | 78 | Kennita Cox |
-| 882 | 78 | Sandra O'Reilly |
-| 883 | 78 | Kimberly Lusk |
-| 884 | 78 | Lush Match |
-| 885 | 78 | Jacklyn Martinez |
-| 886 | 78 | Zappy Matchgrid |
-| 887 | 78 | Weird Cat |
+| 864 | 80 | Manolo Canety |
+| 865 | 80 | Rin |
+| 866 | 80 | Mike Zec II |
+| 867 | 80 | Tracey Hudspath |
+| 868 | 79 | Loony Dashgrid |
+| 869 | 79 | Joe Win |
+| 870 | 79 | Nancy McCalla Abercrombie |
+| 871 | 79 | Sonya |
+| 872 | 79 | Groovy Stacker |
+| 873 | 79 | Lindsey DeRosa |
+| 874 | 79 | Nerdy Glider |
+| 875 | 79 | Poptart |
+| 876 | 79 | Mone DyTorrion Zyan Lotts |
+| 877 | 78 | AVA |
+| 878 | 78 | Lilo |
+| 879 | 78 | Christopher Lindsey |
+| 880 | 78 | Kimberly Lusk |
+| 881 | 78 | Tbag |
+| 882 | 78 | Kennita Cox |
+| 883 | 78 | Sandra O'Reilly |
+| 884 | 78 | Ben Figueroa |
+| 885 | 78 | Lush Match |
+| 886 | 78 | Jacklyn Martinez |
+| 887 | 78 | Zappy Matchgrid |
 | 888 | 78 | Amber Jalbert |
-| 889 | 78 | Vlad Rudman |
-| 890 | 77 | Monte Smith |
-| 891 | 77 | Erica Hardwick |
-| 892 | 77 | Frilly Riserpiece |
-| 893 | 77 | Manolo Canety |
+| 889 | 78 | Weird Cat |
+| 890 | 78 | Vlad Rudman |
+| 891 | 77 | Monte Smith |
+| 892 | 77 | Erica Hardwick |
+| 893 | 77 | Frilly Riserpiece |
 | 894 | 77 | Lacie Powers |
-| 895 | 76 | Frisky Balance |
-| 896 | 76 | Jillian Marie |
-| 897 | 76 | Chabetta |
-| 898 | 76 | Lori Lynn |
-| 899 | 76 | Patsy |
+| 895 | 76 | Lori Lynn |
+| 896 | 76 | Patsy |
+| 897 | 76 | Jillian Marie |
+| 898 | 76 | Frisky Balance |
+| 899 | 76 | Chabetta |
 | 900 | 76 | JP Chua |
 | 901 | 76 | Nicole Ambrose |
 | 902 | 75 | PDubz |
-| 903 | 75 | Marco A. Sandoval |
-| 904 | 75 | ŁųŁų |
-| 905 | 75 | h_chloe10 |
-| 906 | 75 | LaRue Tee |
-| 907 | 75 | Jeremy Fisher |
-| 908 | 75 | Toria |
-| 909 | 75 | Happy Puzzle |
-| 910 | 75 | Gary Moore |
-| 911 | 74 | Lord Solrac |
-| 912 | 74 | JayJay Smith |
-| 913 | 74 | Red |
-| 914 | 74 | Dizzy |
-| 915 | 74 | Brittany |
+| 903 | 75 | Happy Puzzle |
+| 904 | 75 | LaRue Tee |
+| 905 | 75 | Gary Moore |
+| 906 | 75 | Toria |
+| 907 | 75 | h_chloe10 |
+| 908 | 75 | ŁųŁų |
+| 909 | 75 | Marco A. Sandoval |
+| 910 | 75 | Jeremy Fisher |
+| 911 | 74 | Melissa Schwager |
+| 912 | 74 | Nachos |
+| 913 | 74 | Earl Edwards |
+| 914 | 74 | Misti Rich |
+| 915 | 74 | Loyalty83 |
 | 916 | 74 | Chirpy Corner |
-| 917 | 74 | Loyalty83 |
-| 918 | 74 | Katherine Stec |
-| 919 | 74 | Nachos |
-| 920 | 74 | Jenny Torres |
-| 921 | 74 | Melissa Schwager |
-| 922 | 74 | Misti Rich |
-| 923 | 74 | Earl Edwards |
-| 924 | 74 | Jasmine Griffin |
-| 925 | 73 | Frisky Blocker |
+| 917 | 74 | JayJay Smith |
+| 918 | 74 | Brittany |
+| 919 | 74 | Jasmine Griffin |
+| 920 | 74 | Lord Solrac |
+| 921 | 74 | Dizzy |
+| 922 | 74 | Katherine Stec |
+| 923 | 74 | Jenny Torres |
+| 924 | 74 | Red |
+| 925 | 73 | Yseoj M. Zurc |
 | 926 | 73 | Pap337 |
-| 927 | 73 | Yseoj M. Zurc |
-| 928 | 73 | Joe Andrews |
-| 929 | 73 | Mrs.J2013 |
-| 930 | 73 | Sadeha Simpson |
-| 931 | 72 | Vicente Bolaños Jr. |
-| 932 | 72 | Snappy Glidebuilder |
-| 933 | 72 | Cranky Twisterfit |
-| 934 | 72 | Poppy |
-| 935 | 72 | Kassey M. Clark |
-| 936 | 72 | Donna Howard |
-| 937 | 72 | Martha Fisher |
-| 938 | 72 | Cail |
-| 939 | 72 | Chris Somsen |
-| 940 | 72 | Monkey |
-| 941 | 72 | Musky Pits |
+| 927 | 73 | Sadeha Simpson |
+| 928 | 73 | Mrs.J2013 |
+| 929 | 73 | Joe Andrews |
+| 930 | 73 | Frisky Blocker |
+| 931 | 72 | Monkey |
+| 932 | 72 | Musky Pits |
+| 933 | 72 | Chris Somsen |
+| 934 | 72 | Kassey M. Clark |
+| 935 | 72 | Vicente Bolaños Jr. |
+| 936 | 72 | Martha Fisher |
+| 937 | 72 | Cail |
+| 938 | 72 | Donna Howard |
+| 939 | 72 | Snappy Glidebuilder |
+| 940 | 72 | Cranky Twisterfit |
+| 941 | 72 | Poppy |
 | 942 | 71 | Kiki Moore |
 | 943 | 71 | Ana Ruiz |
 | 944 | 71 | Memphiago Tenninois |
