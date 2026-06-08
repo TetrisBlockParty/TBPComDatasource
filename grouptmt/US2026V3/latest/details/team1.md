@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:28:20 UTC
+# Standings for team1 as of 2026-06-08 11:28:42 UTC
 
 **Total Participants:** 1782
 
@@ -260,10 +260,10 @@
 | 252 | 310 | Chasem45 |
 | 253 | 310 | Denise B |
 | 254 | 309 | Brave Clearbuilder |
-| 255 | 306 | Devin West |
-| 256 | 305 | Chummy Frame |
-| 257 | 305 | Salim Thugger |
-| 258 | 304 | Steve Reno |
+| 255 | 308 | Steve Reno |
+| 256 | 306 | Devin West |
+| 257 | 305 | Chummy Frame |
+| 258 | 305 | Salim Thugger |
 | 259 | 304 | Reginald Frank |
 | 260 | 304 | Rachel Zimmerman |
 | 261 | 303 | Queenie Perry |
@@ -523,50 +523,50 @@
 | 515 | 148 | Christi Walker Patton |
 | 516 | 148 | Rufus |
 | 517 | 148 | Rhianna Dinki Austin |
-| 518 | 148 | Seddrick |
-| 519 | 148 | Faith Armone |
+| 518 | 148 | Faith Armone |
+| 519 | 148 | Seddrick |
 | 520 | 147 | Joka NoTime ForHataz |
 | 521 | 147 | Mathew Trudell |
-| 522 | 146 | Giggly Tiltbuilder |
-| 523 | 146 | Bella |
-| 524 | 146 | whatever |
+| 522 | 146 | whatever |
+| 523 | 146 | Giggly Tiltbuilder |
+| 524 | 146 | Bella |
 | 525 | 146 | FunTime |
-| 526 | 145 | Shea Ladynick Henderson |
-| 527 | 145 | Squaw Ki Ng |
+| 526 | 145 | Squaw Ki Ng |
+| 527 | 145 | Shea Ladynick Henderson |
 | 528 | 144 | Ta'Kaiyah M. Spann |
 | 529 | 144 | Kp |
 | 530 | 143 | Ashlie Mo |
 | 531 | 143 | Cheri Robinson |
 | 532 | 142 | Kelley Johnson |
 | 533 | 142 | Sarah Steckbauer |
-| 534 | 141 | Shalena Marie Humphrey |
-| 535 | 141 | Betsy B. Yohan |
-| 536 | 141 | Frances Davis |
-| 537 | 140 | Kennedi Brazziel |
+| 534 | 141 | Montego Allen |
+| 535 | 141 | Shalena Marie Humphrey |
+| 536 | 141 | Betsy B. Yohan |
+| 537 | 141 | Frances Davis |
 | 538 | 140 | Antoinette Jones |
 | 539 | 140 | Tessa Gaskin |
-| 540 | 138 | Claudia Price |
-| 541 | 138 | Dreamzzz |
+| 540 | 140 | Kennedi Brazziel |
+| 541 | 138 | Claudia Price |
 | 542 | 138 | Yadira Salgado |
-| 543 | 138 | Ozell Jones Jr. |
-| 544 | 138 | Alexandrla Smith |
+| 543 | 138 | Dreamzzz |
+| 544 | 138 | Ozell Jones Jr. |
 | 545 | 138 | Ashley Monet Terrell |
-| 546 | 137 | Angelique Talbot |
+| 546 | 138 | Alexandrla Smith |
 | 547 | 137 | Kelvin Cook |
-| 548 | 136 | Gbnola |
-| 549 | 136 | The DUBZ |
-| 550 | 136 | Duncan Timothy |
-| 551 | 136 | Char |
-| 552 | 136 | Christina Singleton |
-| 553 | 135 | Shameka Tiffany |
-| 554 | 135 | Saucy Tile |
+| 548 | 137 | Angelique Talbot |
+| 549 | 136 | Christina Singleton |
+| 550 | 136 | Char |
+| 551 | 136 | Gbnola |
+| 552 | 136 | Duncan Timothy |
+| 553 | 136 | The DUBZ |
+| 554 | 135 | Shameka Tiffany |
 | 555 | 135 | Chirpy Buildgrid |
-| 556 | 135 | MzJuice Box |
-| 557 | 134 | Aaron Hartmann |
-| 558 | 133 | Marlynnnnn |
-| 559 | 133 | Kimberly Susan Privette |
-| 560 | 133 | Yashicha Hertzock |
-| 561 | 132 | Montego Allen |
+| 556 | 135 | Saucy Tile |
+| 557 | 135 | MzJuice Box |
+| 558 | 134 | Aaron Hartmann |
+| 559 | 133 | Marlynnnnn |
+| 560 | 133 | Kimberly Susan Privette |
+| 561 | 133 | Yashicha Hertzock |
 | 562 | 132 | Jeffrey Barrows |
 | 563 | 132 | Poyre Shelton |
 | 564 | 132 | Jack Vlasak |
