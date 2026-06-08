@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 13:00:41 UTC
+# Standings for team4 as of 2026-06-08 13:01:20 UTC
 
 **Total Participants:** 1829
 
@@ -370,30 +370,30 @@
 | 362 | 215 | Matthew Wilcox |
 | 363 | 214 | Cecilia Hicks |
 | 364 | 213 | Toon Up |
-| 365 | 210 | Gary Smallwood |
+| 365 | 211 | Montes Ash |
 | 366 | 210 | Sfalcon1. |
-| 367 | 209 | Genger |
-| 368 | 209 | Chirpy Snapclear |
-| 369 | 209 | Lively Blockpiece |
-| 370 | 209 | Ashley Mcdonald |
-| 371 | 208 | Justin Janachovsky |
-| 372 | 208 | Danny Frausto |
-| 373 | 208 | JIGsaw ~(•¿°)~ |
-| 374 | 207 | Brendan Craven |
-| 375 | 207 | Chilly Pivot |
-| 376 | 207 | Izz |
-| 377 | 207 | ariel |
-| 378 | 207 | Lanelva Tiredofbs Marshall |
-| 379 | 206 | Joab Gonzalez |
-| 380 | 206 | Stacy G |
-| 381 | 206 | Brandy Lynn |
-| 382 | 206 | Rachel Lemos |
-| 383 | 205 | Ross Bryant |
-| 384 | 205 | Littlebrat |
-| 385 | 204 | Clashy |
-| 386 | 204 | Dapper Strikerpiece |
-| 387 | 204 | kellie |
-| 388 | 203 | Montes Ash |
+| 367 | 210 | Gary Smallwood |
+| 368 | 209 | Genger |
+| 369 | 209 | Chirpy Snapclear |
+| 370 | 209 | Lively Blockpiece |
+| 371 | 209 | Ashley Mcdonald |
+| 372 | 208 | Justin Janachovsky |
+| 373 | 208 | Danny Frausto |
+| 374 | 208 | JIGsaw ~(•¿°)~ |
+| 375 | 207 | Brendan Craven |
+| 376 | 207 | Chilly Pivot |
+| 377 | 207 | Izz |
+| 378 | 207 | ariel |
+| 379 | 207 | Lanelva Tiredofbs Marshall |
+| 380 | 206 | Joab Gonzalez |
+| 381 | 206 | Stacy G |
+| 382 | 206 | Brandy Lynn |
+| 383 | 206 | Rachel Lemos |
+| 384 | 205 | Ross Bryant |
+| 385 | 205 | Littlebrat |
+| 386 | 204 | Clashy |
+| 387 | 204 | Dapper Strikerpiece |
+| 388 | 204 | kellie |
 | 389 | 202 | Lora Schallert |
 | 390 | 202 | Chris McBlockster |
 | 391 | 202 | CrashOutCarla |
@@ -1689,33 +1689,33 @@
 | 1681 | 14 | ThickyJicky |
 | 1682 | 14 | Nakkia Mobley |
 | 1683 | 14 | Tonya Cross |
-| 1684 | 13 | Michelle Boyd |
-| 1685 | 13 | Frothy Pivotfall |
-| 1686 | 13 | Swanky Spinzone |
-| 1687 | 13 | Jason Ervin |
-| 1688 | 13 | juler |
-| 1689 | 13 | Liz Aimé Acosta Guilarte |
-| 1690 | 13 | Jackie Russo-Edens |
-| 1691 | 13 | Willedtra Griffin |
-| 1692 | 13 | Jozette Smalarz |
-| 1693 | 13 | Karen Miller |
-| 1694 | 13 | Bryce McGee |
-| 1695 | 12 | Mee |
-| 1696 | 12 | Tonya Raymundo |
-| 1697 | 12 | Loony Brickzone |
-| 1698 | 12 | Amanda KN |
-| 1699 | 12 | Tatiyana Hockett |
-| 1700 | 12 | Rachel |
-| 1701 | 12 | Carolyn Lalak |
-| 1702 | 12 | Delashawne Hodgson |
-| 1703 | 12 | ESPERANTU |
-| 1704 | 12 | May Espinosa |
-| 1705 | 12 | Eileen Clements |
-| 1706 | 12 | Buddyblock |
-| 1707 | 12 | SuperJen |
-| 1708 | 11 | Laurelez R. Carmen |
-| 1709 | 11 | A La |
-| 1710 | 11 | Chummy Twistpiece |
+| 1684 | 13 | Chummy Twistpiece |
+| 1685 | 13 | Michelle Boyd |
+| 1686 | 13 | Frothy Pivotfall |
+| 1687 | 13 | Swanky Spinzone |
+| 1688 | 13 | Jason Ervin |
+| 1689 | 13 | juler |
+| 1690 | 13 | Liz Aimé Acosta Guilarte |
+| 1691 | 13 | Jackie Russo-Edens |
+| 1692 | 13 | Willedtra Griffin |
+| 1693 | 13 | Jozette Smalarz |
+| 1694 | 13 | Karen Miller |
+| 1695 | 13 | Bryce McGee |
+| 1696 | 12 | Mee |
+| 1697 | 12 | Tonya Raymundo |
+| 1698 | 12 | Loony Brickzone |
+| 1699 | 12 | Amanda KN |
+| 1700 | 12 | Tatiyana Hockett |
+| 1701 | 12 | Rachel |
+| 1702 | 12 | Carolyn Lalak |
+| 1703 | 12 | Delashawne Hodgson |
+| 1704 | 12 | ESPERANTU |
+| 1705 | 12 | May Espinosa |
+| 1706 | 12 | Eileen Clements |
+| 1707 | 12 | Buddyblock |
+| 1708 | 12 | SuperJen |
+| 1709 | 11 | Laurelez R. Carmen |
+| 1710 | 11 | A La |
 | 1711 | 11 | ITSME |
 | 1712 | 11 | Tammi Crnza |
 | 1713 | 11 | Aaron |
