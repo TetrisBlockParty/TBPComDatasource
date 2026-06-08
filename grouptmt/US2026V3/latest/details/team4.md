@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:07:20 UTC
+# Standings for team4 as of 2026-06-08 16:08:21 UTC
 
 **Total Participants:** 1861
 
@@ -9,7 +9,7 @@
 | 1 | 23500 | Jessica Sheehan |
 | 2 | 19435 | Lisa Cullum |
 | 3 | 18283 | Hanan Hana |
-| 4 | 15931 | Lyza |
+| 4 | 15932 | Lyza |
 | 5 | 12069 | Loony Rotater |
 | 6 | 10200 | Cinny |
 | 7 | 8201 | ktothet |
@@ -514,8 +514,8 @@
 | 506 | 170 | Brandon Bedenbaugh |
 | 507 | 170 | Natalie Dillard |
 | 508 | 170 | Robert Crow |
-| 509 | 170 | Earl Edwards |
-| 510 | 170 | Edward White |
+| 509 | 170 | Edward White |
+| 510 | 170 | Earl Edwards |
 | 511 | 169 | Jeri Anne Stormo-Toman |
 | 512 | 168 | Juvon SupaShawdii Brooks |
 | 513 | 168 | Corie A. Brinson |
@@ -527,8 +527,8 @@
 | 519 | 166 | Azahares Alonso |
 | 520 | 166 | Rose Anna Safi |
 | 521 | 165 | Cherrel M. Causey |
-| 522 | 165 | crobb77 |
-| 523 | 165 | 1694AF |
+| 522 | 165 | 1694AF |
+| 523 | 165 | crobb77 |
 | 524 | 164 | Mighty1 |
 | 525 | 164 | Lul Babie |
 | 526 | 164 | Andrea Dre Lomeli |
@@ -576,62 +576,62 @@
 | 568 | 150 | Kristine Hj Han |
 | 569 | 150 | MrsReap |
 | 570 | 150 | Billy Baker |
-| 571 | 149 | Loretta Hendricks |
-| 572 | 149 | Paula Renee McCracken |
-| 573 | 149 | Zesty Lift |
+| 571 | 149 | Paula Renee McCracken |
+| 572 | 149 | Zesty Lift |
+| 573 | 149 | Loretta Hendricks |
 | 574 | 149 | Thermeka Lindsey |
 | 575 | 148 | Andreas Vs Shinky |
-| 576 | 148 | Breezy Wife |
-| 577 | 148 | Lisa Jones |
-| 578 | 148 | Latisha TeTe Williams |
+| 576 | 148 | Latisha TeTe Williams |
+| 577 | 148 | Breezy Wife |
+| 578 | 148 | Lisa Jones |
 | 579 | 148 | Snappy Stack |
-| 580 | 147 | tj |
-| 581 | 147 | Allysha McFarland |
+| 580 | 147 | Allysha McFarland |
+| 581 | 147 | tj |
 | 582 | 147 | David Lay |
 | 583 | 147 | EpicWizard |
 | 584 | 147 | Kaps |
 | 585 | 146 | Jasmine Marie |
 | 586 | 145 | Ashley DuVall |
-| 587 | 145 | Mc3003 |
-| 588 | 145 | Shirley A. Godfrey |
-| 589 | 144 | Rhonda Dowling |
+| 587 | 145 | Shirley A. Godfrey |
+| 588 | 145 | ShaniP |
+| 589 | 145 | Mc3003 |
 | 590 | 144 | Erica Pompey |
-| 591 | 144 | Karr |
-| 592 | 142 | Sarah |
-| 593 | 142 | Candice Sellers Worley |
-| 594 | 142 | Happy Filler |
-| 595 | 141 | Memphiago Tenninois |
-| 596 | 141 | Sharon Tyler |
-| 597 | 141 | Ginny |
-| 598 | 140 | alxhue04 |
-| 599 | 140 | Lovetetris |
-| 600 | 140 | Marcus Fontenot |
-| 601 | 140 | Lana Tran |
-| 602 | 140 | Krista Diaz |
-| 603 | 140 | Breezy Brickfit |
-| 604 | 140 | Jimmy Clark |
-| 605 | 140 | Kellz M Bee |
-| 606 | 140 | Marie Adkins |
-| 607 | 139 | Rae Saunders |
+| 591 | 144 | Rhonda Dowling |
+| 592 | 144 | Karr |
+| 593 | 142 | Sarah |
+| 594 | 142 | Candice Sellers Worley |
+| 595 | 142 | Happy Filler |
+| 596 | 141 | Ginny |
+| 597 | 141 | Sharon Tyler |
+| 598 | 141 | Memphiago Tenninois |
+| 599 | 140 | alxhue04 |
+| 600 | 140 | Lovetetris |
+| 601 | 140 | Marcus Fontenot |
+| 602 | 140 | Marie Adkins |
+| 603 | 140 | Lana Tran |
+| 604 | 140 | Kellz M Bee |
+| 605 | 140 | Jimmy Clark |
+| 606 | 140 | Krista Diaz |
+| 607 | 140 | Breezy Brickfit |
 | 608 | 139 | Gigi5 |
-| 609 | 138 | Raising Stars |
+| 609 | 139 | Rae Saunders |
 | 610 | 138 | Ami Ferguson |
-| 611 | 138 | All knowing |
+| 611 | 138 | Raising Stars |
 | 612 | 138 | Anna Ryan |
-| 613 | 137 | TheazO |
-| 614 | 137 | YenSid |
-| 615 | 137 | Maricela Joslin |
-| 616 | 137 | Tanya AfricanQueen Savage |
-| 617 | 137 | Frilly Zoney |
-| 618 | 136 | Kenny Nguyen |
-| 619 | 136 | ShaniP |
+| 613 | 138 | All knowing |
+| 614 | 137 | TheazO |
+| 615 | 137 | Tanya AfricanQueen Savage |
+| 616 | 137 | YenSid |
+| 617 | 137 | Maricela Joslin |
+| 618 | 137 | Frilly Zoney |
+| 619 | 136 | Kenny Nguyen |
 | 620 | 136 | Justin Ballard |
-| 621 | 135 | Jennifer Terrill |
-| 622 | 135 | my my |
-| 623 | 135 | JustLessie |
-| 624 | 135 | Lamont |
-| 625 | 135 | Spicy Peach |
-| 626 | 135 | Tre'nya Smith |
+| 621 | 135 | Lamont |
+| 622 | 135 | Tre'nya Smith |
+| 623 | 135 | Jennifer Terrill |
+| 624 | 135 | my my |
+| 625 | 135 | JustLessie |
+| 626 | 135 | Spicy Peach |
 | 627 | 135 | Lupe Chapa |
 | 628 | 134 | Josh Keith Travierso |
 | 629 | 133 | mikey moo |
@@ -843,19 +843,19 @@
 | 835 | 92 | REPENT |
 | 836 | 92 | 94Blockhead |
 | 837 | 92 | Peterson Cottontail |
-| 838 | 91 | Giggy Risegrid |
-| 839 | 91 | Speedy Twistslam |
-| 840 | 91 | Chummy Twistpiece |
-| 841 | 91 | Michelle Michelle |
-| 842 | 90 | Christina Williams |
-| 843 | 90 | Sally Hiraldo |
-| 844 | 90 | DrC |
-| 845 | 90 | Nancy McCalla Abercrombie |
-| 846 | 90 | Snappy Glidebuilder |
-| 847 | 90 | Stephanie Meinhart |
-| 848 | 90 | Marie Culbert |
-| 849 | 90 | Tigger |
-| 850 | 90 | Lilo |
+| 838 | 92 | Lilo |
+| 839 | 91 | Giggy Risegrid |
+| 840 | 91 | Speedy Twistslam |
+| 841 | 91 | Chummy Twistpiece |
+| 842 | 91 | Michelle Michelle |
+| 843 | 90 | Christina Williams |
+| 844 | 90 | Sally Hiraldo |
+| 845 | 90 | DrC |
+| 846 | 90 | Nancy McCalla Abercrombie |
+| 847 | 90 | Snappy Glidebuilder |
+| 848 | 90 | Stephanie Meinhart |
+| 849 | 90 | Marie Culbert |
+| 850 | 90 | Tigger |
 | 851 | 90 | Leslie |
 | 852 | 89 | Khylee DarDar |
 | 853 | 89 | Bon Jovi |
