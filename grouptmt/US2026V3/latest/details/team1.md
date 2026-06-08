@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:06:44 UTC
+# Standings for team1 as of 2026-06-08 02:07:19 UTC
 
 **Total Participants:** 1668
 
@@ -462,60 +462,60 @@
 | 454 | 140 | Antoinette Jones |
 | 455 | 140 | rls |
 | 456 | 140 | Genne Scott |
-| 457 | 139 | Bold Clusterer |
-| 458 | 139 | Sean White |
+| 457 | 139 | Sean White |
+| 458 | 139 | Bold Clusterer |
 | 459 | 138 | Seddrick |
 | 460 | 138 | Claudia Price |
 | 461 | 138 | Dreamzzz |
-| 462 | 138 | Yadira Salgado |
+| 462 | 138 | Ozell Jones Jr. |
 | 463 | 138 | Tajuana Juana'Cee Coleman |
-| 464 | 137 | Tay |
-| 465 | 137 | Kelvin Cook |
-| 466 | 136 | Shakuria Cortia Burney |
-| 467 | 136 | Char |
-| 468 | 135 | Saucy Tile |
+| 464 | 138 | Yadira Salgado |
+| 465 | 137 | Tay |
+| 466 | 137 | Kelvin Cook |
+| 467 | 136 | Shakuria Cortia Burney |
+| 468 | 136 | Char |
 | 469 | 135 | Marshall Davis |
-| 470 | 135 | MzJuice Box |
-| 471 | 135 | Chirpy Buildgrid |
-| 472 | 134 | Perky Pusher |
-| 473 | 134 | Taz Ballard |
+| 470 | 135 | Saucy Tile |
+| 471 | 135 | MzJuice Box |
+| 472 | 135 | Chirpy Buildgrid |
+| 473 | 134 | Perky Pusher |
 | 474 | 134 | Peppy Glider |
-| 475 | 134 | Aaron Hartmann |
-| 476 | 133 | Kimberly Susan Privette |
-| 477 | 133 | Christi Walker Patton |
-| 478 | 133 | Marlynnnnn |
-| 479 | 132 | Jeffrey Barrows |
-| 480 | 132 | Twisty Brickfit |
-| 481 | 131 | Karen Denen |
-| 482 | 131 | Lynnette WheelerBushnell |
-| 483 | 130 | Kesha Brady |
-| 484 | 130 | Jessica Davis |
-| 485 | 130 | Erica Charlise |
-| 486 | 129 | Lucy |
-| 487 | 129 | Lozuna |
-| 488 | 129 | Loopy Tiler |
-| 489 | 129 | Lynn |
-| 490 | 129 | PSD |
-| 491 | 129 | Cauiasia DeJ'ae |
-| 492 | 129 | Mathew Trudell |
-| 493 | 129 | JesusSaves 😇 |
+| 475 | 134 | Taz Ballard |
+| 476 | 134 | Aaron Hartmann |
+| 477 | 133 | Kimberly Susan Privette |
+| 478 | 133 | Christi Walker Patton |
+| 479 | 133 | Marlynnnnn |
+| 480 | 132 | Jeffrey Barrows |
+| 481 | 132 | Twisty Brickfit |
+| 482 | 131 | Karen Denen |
+| 483 | 131 | Lynnette WheelerBushnell |
+| 484 | 130 | Kesha Brady |
+| 485 | 130 | Jessica Davis |
+| 486 | 130 | Erica Charlise |
+| 487 | 129 | Lucy |
+| 488 | 129 | Lozuna |
+| 489 | 129 | Loopy Tiler |
+| 490 | 129 | Lynn |
+| 491 | 129 | PSD |
+| 492 | 129 | Cauiasia DeJ'ae |
+| 493 | 129 | Mathew Trudell |
 | 494 | 129 | Zany Breaker |
-| 495 | 128 | Zappy Snapgrid |
-| 496 | 128 | Kimberly Anderson |
-| 497 | 128 | Jack Vlasak |
-| 498 | 128 | BonnieB |
-| 499 | 127 | Ashley Monet Terrell |
-| 500 | 127 | Ozell Jones Jr. |
+| 495 | 129 | JesusSaves 😇 |
+| 496 | 128 | Zappy Snapgrid |
+| 497 | 128 | Kimberly Anderson |
+| 498 | 128 | Jack Vlasak |
+| 499 | 128 | BonnieB |
+| 500 | 127 | Ashley Monet Terrell |
 | 501 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 502 | 126 | Terrie |
+| 502 | 126 | Laurie Napper |
 | 503 | 126 | Kahliah Baker |
-| 504 | 126 | Laurie Napper |
+| 504 | 126 | Terrie |
 | 505 | 125 | Christina Singleton |
 | 506 | 125 | Dizzy Dashy |
 | 507 | 125 | Jenni Hardman |
-| 508 | 124 | The DUBZ |
-| 509 | 124 | Li-Li Ratliff |
-| 510 | 124 | Jes Marie |
+| 508 | 124 | Jes Marie |
+| 509 | 124 | The DUBZ |
+| 510 | 124 | Li-Li Ratliff |
 | 511 | 124 | Logan Frost |
 | 512 | 123 | Mahagony Small |
 | 513 | 123 | Cachet A Ward |
@@ -606,15 +606,15 @@
 | 598 | 104 | Ahvae Lee |
 | 599 | 104 | Anastasia |
 | 600 | 104 | Soubletzy |
-| 601 | 103 | Raquel Ortiz |
-| 602 | 102 | Giddy Staggerpiece |
-| 603 | 102 | Victor |
-| 604 | 102 | Mom3granny2 |
-| 605 | 102 | Stephen Garland |
-| 606 | 102 | Amy Villalpando |
-| 607 | 101 | Angela Kitchens |
+| 601 | 104 | Rachael R Gull |
+| 602 | 103 | Raquel Ortiz |
+| 603 | 102 | Giddy Staggerpiece |
+| 604 | 102 | Victor |
+| 605 | 102 | Mom3granny2 |
+| 606 | 102 | Stephen Garland |
+| 607 | 102 | Amy Villalpando |
 | 608 | 101 | Angelique Talbot |
-| 609 | 101 | Rachael R Gull |
+| 609 | 101 | Angela Kitchens |
 | 610 | 101 | Sandra Mims |
 | 611 | 101 | star |
 | 612 | 101 | Wacky Wipepiece |
@@ -875,13 +875,13 @@
 | 867 | 67 | Michele Elizabeth McKay-Johnson |
 | 868 | 67 | Sarah Barnum |
 | 869 | 67 | Analesia Taylor |
-| 870 | 66 | Meepycat |
-| 871 | 66 | Raquele Hines |
-| 872 | 66 | LaMinda Todd |
-| 873 | 66 | Lively Clusterline |
-| 874 | 66 | Meluhnee |
-| 875 | 66 | Seirra Robinson |
-| 876 | 66 | Shaun Anderson |
+| 870 | 67 | Shaun Anderson |
+| 871 | 66 | Meepycat |
+| 872 | 66 | Raquele Hines |
+| 873 | 66 | LaMinda Todd |
+| 874 | 66 | Lively Clusterline |
+| 875 | 66 | Meluhnee |
+| 876 | 66 | Seirra Robinson |
 | 877 | 66 | GoldStarJo |
 | 878 | 66 | Jroc Tyra Taylor |
 | 879 | 66 | Letrishia Andrews |
