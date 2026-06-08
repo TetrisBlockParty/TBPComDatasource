@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:58:20 UTC
+# Standings for team2 as of 2026-06-08 08:58:42 UTC
 
 **Total Participants:** 2139
 
@@ -45,7 +45,7 @@
 | 37 | 2991 | Angelica Jelli Gillaspy |
 | 38 | 2990 | Logan Basham |
 | 39 | 2972 | Sean Rippa |
-| 40 | 2823 | Angie BBlock |
+| 40 | 2833 | Angie BBlock |
 | 41 | 2750 | Tom Badgley |
 | 42 | 2708 | Julie Trede Amerson |
 | 43 | 2700 | Anthony Lilley |
@@ -1339,14 +1339,14 @@
 | 1331 | 51 | Zippy Wobbler |
 | 1332 | 50 | Tracy Coe |
 | 1333 | 50 | Samantha Rhone |
-| 1334 | 50 | Tessa Kalili |
-| 1335 | 50 | Dawn Thuringer-Baird |
-| 1336 | 50 | Kay |
+| 1334 | 50 | Shannon Miller- Cooley |
+| 1335 | 50 | Amy |
+| 1336 | 50 | Mandy |
 | 1337 | 50 | Mistress |
-| 1338 | 50 | Mandy |
-| 1339 | 50 | Shannon Miller- Cooley |
-| 1340 | 50 | Amy |
-| 1341 | 50 | himesamayuki77 |
+| 1338 | 50 | himesamayuki77 |
+| 1339 | 50 | Kay |
+| 1340 | 50 | Dawn Thuringer-Baird |
+| 1341 | 50 | Tessa Kalili |
 | 1342 | 50 | Tony Williams |
 | 1343 | 50 | Whitt |
 | 1344 | 50 | Jami Borges |
@@ -1363,11 +1363,11 @@
 | 1355 | 49 | Milwaukee Area Cleaning |
 | 1356 | 49 | Yany |
 | 1357 | 49 | Giggly Spinblock |
-| 1358 | 49 | Donna R. Banks |
-| 1359 | 49 | unvoiced |
+| 1358 | 49 | unvoiced |
+| 1359 | 49 | Donna R. Banks |
 | 1360 | 49 | Katie Magner |
-| 1361 | 48 | Shawn Bolt |
-| 1362 | 48 | Jaelyn Orr |
+| 1361 | 48 | Jaelyn Orr |
+| 1362 | 48 | Shawn Bolt |
 | 1363 | 48 | CowboyChalie |
 | 1364 | 48 | Annie Hebdon |
 | 1365 | 48 | Katelynn Hunt |
@@ -1379,72 +1379,72 @@
 | 1371 | 47 | Ozge Akgun Tokat |
 | 1372 | 47 | SarahandAaron Prim |
 | 1373 | 47 | Spicy Enchilada |
-| 1374 | 47 | Bruce Bower |
-| 1375 | 47 | Angela Knighton |
-| 1376 | 47 | Chey |
-| 1377 | 47 | Jessi Ann |
-| 1378 | 47 | sam |
-| 1379 | 47 | Shellie Kioutas |
-| 1380 | 46 | Octavius Walker |
-| 1381 | 46 | Spunky Snapfall |
-| 1382 | 46 | Elizabeth Barnhart Floyd |
-| 1383 | 46 | BigHearted-57 |
-| 1384 | 46 | Kodi Gay |
-| 1385 | 46 | Collins |
-| 1386 | 46 | Cozy Curve |
-| 1387 | 46 | Trena Sapp |
-| 1388 | 46 | Matthew Black |
-| 1389 | 46 | Thomas Chris |
-| 1390 | 45 | Michelle Edgin Tranbarger |
-| 1391 | 45 | Nikki |
-| 1392 | 45 | JEEPER |
-| 1393 | 45 | Witty Brickster |
-| 1394 | 45 | Chill Wipegrid |
-| 1395 | 45 | Nora Buchan |
-| 1396 | 45 | Devon |
-| 1397 | 45 | Missy Stevens |
-| 1398 | 45 | Frothy Cascader |
-| 1399 | 45 | Jennifer Nelson |
+| 1374 | 47 | Angela Knighton |
+| 1375 | 47 | Bruce Bower |
+| 1376 | 47 | sam |
+| 1377 | 47 | Shellie Kioutas |
+| 1378 | 47 | Jessi Ann |
+| 1379 | 47 | Chey |
+| 1380 | 46 | Crystal Whygle |
+| 1381 | 46 | BigHearted-57 |
+| 1382 | 46 | Octavius Walker |
+| 1383 | 46 | Elizabeth Barnhart Floyd |
+| 1384 | 46 | Spunky Snapfall |
+| 1385 | 46 | Kodi Gay |
+| 1386 | 46 | Collins |
+| 1387 | 46 | Cozy Curve |
+| 1388 | 46 | Trena Sapp |
+| 1389 | 46 | Matthew Black |
+| 1390 | 46 | Thomas Chris |
+| 1391 | 45 | Michelle Edgin Tranbarger |
+| 1392 | 45 | Nikki |
+| 1393 | 45 | JEEPER |
+| 1394 | 45 | Witty Brickster |
+| 1395 | 45 | Chill Wipegrid |
+| 1396 | 45 | Nora Buchan |
+| 1397 | 45 | Devon |
+| 1398 | 45 | Missy Stevens |
+| 1399 | 45 | Frothy Cascader |
 | 1400 | 45 | Tommi Lynn Lawson |
-| 1401 | 45 | Jason M Barnes |
-| 1402 | 45 | STARFIRE |
-| 1403 | 45 | K2N |
-| 1404 | 45 | Giggy Snapper |
-| 1405 | 45 | Brandy Moore |
-| 1406 | 44 | Melinda Rausch |
+| 1401 | 45 | STARFIRE |
+| 1402 | 45 | K2N |
+| 1403 | 45 | Jason M Barnes |
+| 1404 | 45 | Jennifer Nelson |
+| 1405 | 45 | Giggy Snapper |
+| 1406 | 45 | Brandy Moore |
 | 1407 | 44 | Brenda Leonard |
-| 1408 | 44 | Lori Antrim Nichols |
+| 1408 | 44 | Melinda Rausch |
 | 1409 | 44 | Nicole Dyer |
-| 1410 | 44 | William Richardson |
-| 1411 | 44 | Brittany Russell |
-| 1412 | 44 | Lisa |
-| 1413 | 44 | Crafty Shatterer |
-| 1414 | 44 | Tam |
-| 1415 | 44 | Daring Pivotfall |
-| 1416 | 44 | Erica Abreu |
-| 1417 | 44 | Kendra Sullins |
-| 1418 | 44 | Cuca Perez |
-| 1419 | 43 | Kayla Faulkiner |
-| 1420 | 43 | Aguilar Rita |
-| 1421 | 43 | Betty Muise |
-| 1422 | 43 | Amy Hahn Nickels |
-| 1423 | 43 | Fluffypuffin |
-| 1424 | 43 | Kourtney Heiden-Hudson |
-| 1425 | 43 | Dreamy Wipepiece |
-| 1426 | 43 | Quirky Shifter |
-| 1427 | 43 | Patricia Ann Tondreault Hammonds |
-| 1428 | 43 | Ashley Parrish |
-| 1429 | 43 | Snoop |
+| 1410 | 44 | Crafty Shatterer |
+| 1411 | 44 | Lisa |
+| 1412 | 44 | Brittany Russell |
+| 1413 | 44 | William Richardson |
+| 1414 | 44 | Lori Antrim Nichols |
+| 1415 | 44 | Tam |
+| 1416 | 44 | Daring Pivotfall |
+| 1417 | 44 | Erica Abreu |
+| 1418 | 44 | Kendra Sullins |
+| 1419 | 44 | Cuca Perez |
+| 1420 | 43 | Kayla Faulkiner |
+| 1421 | 43 | Aguilar Rita |
+| 1422 | 43 | Betty Muise |
+| 1423 | 43 | Amy Hahn Nickels |
+| 1424 | 43 | Fluffypuffin |
+| 1425 | 43 | Kourtney Heiden-Hudson |
+| 1426 | 43 | Dreamy Wipepiece |
+| 1427 | 43 | Michelle Brown |
+| 1428 | 43 | Quirky Shifter |
+| 1429 | 43 | Maurice Bethel |
 | 1430 | 43 | Paula Stell |
-| 1431 | 43 | Maurice Bethel |
-| 1432 | 43 | Michelle Brown |
-| 1433 | 42 | Peachy Builderpiece |
-| 1434 | 42 | Flashy Blockfall |
-| 1435 | 42 | Amanda Jungclaus |
-| 1436 | 42 | Chrissy Hess |
-| 1437 | 42 | Christopher S Lawyer |
-| 1438 | 42 | June Salevao |
-| 1439 | 42 | Crystal Whygle |
+| 1431 | 43 | Ashley Parrish |
+| 1432 | 43 | Snoop |
+| 1433 | 43 | Patricia Ann Tondreault Hammonds |
+| 1434 | 42 | Amanda Jungclaus |
+| 1435 | 42 | Chrissy Hess |
+| 1436 | 42 | Christopher S Lawyer |
+| 1437 | 42 | Flashy Blockfall |
+| 1438 | 42 | Peachy Builderpiece |
+| 1439 | 42 | June Salevao |
 | 1440 | 42 | Henny Henny |
 | 1441 | 42 | Snazzy Smasher |
 | 1442 | 42 | April Owings |
@@ -1455,10 +1455,10 @@
 | 1447 | 42 | Auntie YaYa |
 | 1448 | 41 | Dandy Wiper |
 | 1449 | 41 | Jenny Coffer |
-| 1450 | 41 | Bold Shiftspin |
-| 1451 | 41 | Disguised Duck |
-| 1452 | 41 | Rachel Switala |
-| 1453 | 41 | Jenifer Seeley |
+| 1450 | 41 | Jenifer Seeley |
+| 1451 | 41 | Bold Shiftspin |
+| 1452 | 41 | Disguised Duck |
+| 1453 | 41 | Rachel Switala |
 | 1454 | 41 | Cammy Riley |
 | 1455 | 40 | Jewels |
 | 1456 | 40 | Wendy Morrison |
