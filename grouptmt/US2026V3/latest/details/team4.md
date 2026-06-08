@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 13:40:42 UTC
+# Standings for team4 as of 2026-06-08 13:41:20 UTC
 
 **Total Participants:** 1836
 
@@ -56,9 +56,9 @@
 | 48 | 1980 | Kathy Brookins |
 | 49 | 1796 | Blind Bette |
 | 50 | 1781 | Tommy Bond |
-| 51 | 1729 | Erin Figone |
-| 52 | 1718 | Jason Allen |
-| 53 | 1711 | Cal Renee |
+| 51 | 1755 | Cal Renee |
+| 52 | 1729 | Erin Figone |
+| 53 | 1718 | Jason Allen |
 | 54 | 1700 | Elissa S-k |
 | 55 | 1700 | Leah Gorsuch |
 | 56 | 1681 | 626 |
@@ -193,9 +193,9 @@
 | 185 | 420 | Shmeedo |
 | 186 | 419 | Sisi RedVelvet Reneè |
 | 187 | 417 | Perky Riserbuilder |
-| 188 | 415 | Shiny Dashy |
-| 189 | 409 | Hen |
-| 190 | 406 | Taz |
+| 188 | 416 | Taz |
+| 189 | 415 | Shiny Dashy |
+| 190 | 409 | Hen |
 | 191 | 400 | Amber Doyle |
 | 192 | 399 | Devinlee Brown |
 | 193 | 396 | Goofy Riser |
@@ -611,50 +611,50 @@
 | 603 | 133 | Dennis Montoya |
 | 604 | 133 | Sonia Cordero-Martinez |
 | 605 | 132 | Andreas Vs Shinky |
-| 606 | 132 | Gma420 |
-| 607 | 132 | William Brooks |
-| 608 | 132 | MrLoner Stoner |
-| 609 | 132 | Virgil Mayfield-Brown |
-| 610 | 131 | Winter Moon |
-| 611 | 131 | luluraine |
-| 612 | 130 | Kimberly Devon |
+| 606 | 132 | William Brooks |
+| 607 | 132 | MrLoner Stoner |
+| 608 | 132 | Virgil Mayfield-Brown |
+| 609 | 132 | Gma420 |
+| 610 | 132 | Jeremy Barry |
+| 611 | 131 | Winter Moon |
+| 612 | 131 | luluraine |
 | 613 | 130 | Hasty Dropzone |
 | 614 | 130 | Bhakti Sawarkar |
-| 615 | 130 | Lizard |
-| 616 | 130 | Missionary Meda |
+| 615 | 130 | Kimberly Devon |
+| 616 | 130 | Lizard |
 | 617 | 130 | Will E Ayala |
-| 618 | 129 | Has2brat |
-| 619 | 129 | Erica Pompey |
-| 620 | 129 | Kat Foreman |
-| 621 | 128 | SandyEva |
-| 622 | 128 | Gean DeJesus |
+| 618 | 130 | Missionary Meda |
+| 619 | 129 | Has2brat |
+| 620 | 129 | Erica Pompey |
+| 621 | 129 | Kat Foreman |
+| 622 | 128 | SandyEva |
 | 623 | 128 | Maria Munoz |
 | 624 | 128 | Alizabeth Garcia |
 | 625 | 128 | Wacky Brick |
 | 626 | 128 | Angela Adamo-Tash |
-| 627 | 128 | Ajohnna Frazee |
-| 628 | 127 | Janae Harris |
+| 627 | 128 | Gean DeJesus |
+| 628 | 128 | Ajohnna Frazee |
 | 629 | 127 | Fancy Tilefall |
-| 630 | 127 | Cheeky Climber |
-| 631 | 127 | LandO |
+| 630 | 127 | Janae Harris |
+| 631 | 127 | Cheeky Climber |
 | 632 | 127 | Noa Lee |
-| 633 | 126 | Loony Edge |
-| 634 | 126 | Vanessa Sykes |
-| 635 | 126 | Csigirlnc |
+| 633 | 127 | LandO |
+| 634 | 126 | Loony Edge |
+| 635 | 126 | Vanessa Sykes |
 | 636 | 126 | Lisa Pie |
-| 637 | 126 | Jeremy Barry |
-| 638 | 125 | Corey Jackson |
-| 639 | 125 | Youngkueen |
-| 640 | 125 | Nessa Smith |
-| 641 | 125 | Joshua Hunt |
-| 642 | 125 | Kelly Miller Williams |
-| 643 | 124 | Chad Finton |
+| 637 | 126 | Csigirlnc |
+| 638 | 125 | Kelly Miller Williams |
+| 639 | 125 | Joshua Hunt |
+| 640 | 125 | Youngkueen |
+| 641 | 125 | Nessa Smith |
+| 642 | 125 | Corey Jackson |
+| 643 | 124 | Heidi Hala |
 | 644 | 124 | Vonni McLean |
-| 645 | 124 | Heidi Hala |
-| 646 | 124 | Alicia Blunt |
+| 645 | 124 | Alicia Blunt |
+| 646 | 124 | Chad Finton |
 | 647 | 124 | PsyDMom |
-| 648 | 123 | Arvin Ortega |
-| 649 | 123 | Amanda Snow |
+| 648 | 123 | Amanda Snow |
+| 649 | 123 | Arvin Ortega |
 | 650 | 123 | Kari Smith |
 | 651 | 123 | Ben Figueroa |
 | 652 | 122 | Ian T Parker |
@@ -1041,25 +1041,25 @@
 | 1033 | 65 | Gabby Simones |
 | 1034 | 65 | EmBem |
 | 1035 | 65 | Mamissa |
-| 1036 | 64 | Jumpy Brickline |
-| 1037 | 64 | Jennifer Tate |
-| 1038 | 64 | Lovely |
-| 1039 | 64 | Megan Lynn |
-| 1040 | 64 | MamaC |
-| 1041 | 64 | Dandy Linkgrid |
-| 1042 | 64 | Amy Gutierrez |
-| 1043 | 64 | Daring Brickbuilder |
-| 1044 | 64 | LaShieka Noland |
-| 1045 | 63 | Bridget Reilly |
-| 1046 | 63 | ButterfliesRFree |
-| 1047 | 63 | JP |
-| 1048 | 63 | San |
-| 1049 | 62 | Casey Thomas |
-| 1050 | 62 | Giggly Gridzone |
-| 1051 | 62 | Marie Culbert |
-| 1052 | 62 | Zippy Snaplink |
-| 1053 | 62 | Bam SwaggSpitter King |
-| 1054 | 62 | Pink Tetramino |
+| 1036 | 65 | Pink Tetramino |
+| 1037 | 64 | Jumpy Brickline |
+| 1038 | 64 | Jennifer Tate |
+| 1039 | 64 | Lovely |
+| 1040 | 64 | Megan Lynn |
+| 1041 | 64 | MamaC |
+| 1042 | 64 | Dandy Linkgrid |
+| 1043 | 64 | Amy Gutierrez |
+| 1044 | 64 | Daring Brickbuilder |
+| 1045 | 64 | LaShieka Noland |
+| 1046 | 63 | Bridget Reilly |
+| 1047 | 63 | ButterfliesRFree |
+| 1048 | 63 | JP |
+| 1049 | 63 | San |
+| 1050 | 62 | Casey Thomas |
+| 1051 | 62 | Giggly Gridzone |
+| 1052 | 62 | Marie Culbert |
+| 1053 | 62 | Zippy Snaplink |
+| 1054 | 62 | Bam SwaggSpitter King |
 | 1055 | 62 | Shane Tate |
 | 1056 | 61 | Milton Lawrence |
 | 1057 | 61 | Jessica Caminos |
