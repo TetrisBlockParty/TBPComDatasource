@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:50:20 UTC
+# Standings for team1 as of 2026-06-08 10:50:42 UTC
 
 **Total Participants:** 1777
 
@@ -53,7 +53,7 @@
 | 45 | 1689 | Chris Russell |
 | 46 | 1684 | Ceilo Marie |
 | 47 | 1633 | Cherry Rose |
-| 48 | 1584 | Weeze |
+| 48 | 1608 | Weeze |
 | 49 | 1548 | Jennifer To |
 | 50 | 1538 | Jacoby E Fleming |
 | 51 | 1489 | Robyn Caldwell |
@@ -274,35 +274,35 @@
 | 266 | 292 | Trina Greenwood |
 | 267 | 291 | Brian Taylor |
 | 268 | 290 | Elizabeth Vega Coreano |
-| 269 | 289 | Cortaz Lawrie |
-| 270 | 287 | SyTheEvilGenius1 |
-| 271 | 287 | Simone Bailey |
-| 272 | 284 | Frisky Fall |
-| 273 | 282 | McKayla Owens |
-| 274 | 280 | Chilly Wipebuilder |
-| 275 | 280 | Clever Fitblock |
-| 276 | 280 | Erica Charlise |
-| 277 | 280 | Boldy Liner |
-| 278 | 279 | Reginald Frank |
-| 279 | 278 | Ann White |
-| 280 | 276 | Erin Sabol |
-| 281 | 275 | Jawaun Daniels |
-| 282 | 275 | Chris Sladoje |
-| 283 | 274 | 신재호 |
-| 284 | 273 | Penee Wiggins |
-| 285 | 273 | JaClanDiah |
-| 286 | 273 | Dacia Hicks |
-| 287 | 272 | Tarnisha Neicy Jones |
-| 288 | 270 | Julian Dickens Jr. |
-| 289 | 270 | Melissa D. M. Hornsby |
-| 290 | 269 | DaGuy |
-| 291 | 269 | StingerD |
+| 269 | 289 | StingerD |
+| 270 | 289 | Cortaz Lawrie |
+| 271 | 287 | SyTheEvilGenius1 |
+| 272 | 287 | Simone Bailey |
+| 273 | 284 | Frisky Fall |
+| 274 | 282 | McKayla Owens |
+| 275 | 280 | Chilly Wipebuilder |
+| 276 | 280 | Clever Fitblock |
+| 277 | 280 | Erica Charlise |
+| 278 | 280 | Boldy Liner |
+| 279 | 279 | Reginald Frank |
+| 280 | 278 | Ann White |
+| 281 | 276 | Erin Sabol |
+| 282 | 275 | Jawaun Daniels |
+| 283 | 275 | Chris Sladoje |
+| 284 | 274 | 신재호 |
+| 285 | 273 | Penee Wiggins |
+| 286 | 273 | JaClanDiah |
+| 287 | 273 | Dacia Hicks |
+| 288 | 272 | Tarnisha Neicy Jones |
+| 289 | 270 | Julian Dickens Jr. |
+| 290 | 270 | Melissa D. M. Hornsby |
+| 291 | 269 | DaGuy |
 | 292 | 268 | Snippy Breaker |
 | 293 | 264 | Wild Out Nai |
 | 294 | 262 | MamushiOh |
 | 295 | 260 | Nerdy Blockpiece |
-| 296 | 260 | Jhaime |
-| 297 | 260 | Sara Meri |
+| 296 | 260 | Sara Meri |
+| 297 | 260 | Jhaime |
 | 298 | 258 | SeanSanchez |
 | 299 | 258 | Cynthia Bradley |
 | 300 | 257 | Mafio SO |
@@ -446,11 +446,11 @@
 | 438 | 171 | Brittany Fells |
 | 439 | 171 | Telisha Mims |
 | 440 | 169 | Bubbly Piececlear |
-| 441 | 169 | rb |
-| 442 | 169 | Clipzby |
-| 443 | 168 | Lounique |
-| 444 | 168 | Shanns |
-| 445 | 167 | Douglas Price |
+| 441 | 169 | Douglas Price |
+| 442 | 169 | rb |
+| 443 | 169 | Clipzby |
+| 444 | 168 | Lounique |
+| 445 | 168 | Shanns |
 | 446 | 167 | Charlene Baltimore |
 | 447 | 167 | Mister Reid |
 | 448 | 167 | MonaSparks |
