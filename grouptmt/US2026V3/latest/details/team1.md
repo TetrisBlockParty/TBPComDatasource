@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:14:21 UTC
+# Standings for team1 as of 2026-06-08 09:14:43 UTC
 
 **Total Participants:** 1767
 
@@ -93,9 +93,9 @@
 | 85 | 920 | IamJust Neyamijah Washington Sr. |
 | 86 | 917 | Dynah Gordon |
 | 87 | 913 | MamaBear |
-| 88 | 911 | Richard Horton |
-| 89 | 908 | Danielle Barthelme |
-| 90 | 904 | Moomoo |
+| 88 | 912 | Moomoo |
+| 89 | 911 | Richard Horton |
+| 90 | 908 | Danielle Barthelme |
 | 91 | 897 | BYM4L |
 | 92 | 885 | Keeta Chickswit Scott |
 | 93 | 882 | Jon Gathers |
@@ -190,9 +190,9 @@
 | 182 | 412 | Dee McCool |
 | 183 | 409 | Lashaunda |
 | 184 | 405 | SPNLover24 |
-| 185 | 398 | Kenny 'Tailormade' Boyd |
-| 186 | 397 | Karebear |
-| 187 | 395 | xXEKUNXx |
+| 185 | 398 | xXEKUNXx |
+| 186 | 398 | Kenny 'Tailormade' Boyd |
+| 187 | 397 | Karebear |
 | 188 | 394 | Simmone T. Kadiri |
 | 189 | 393 | Sheila Burnham |
 | 190 | 393 | Sharon Cail |
