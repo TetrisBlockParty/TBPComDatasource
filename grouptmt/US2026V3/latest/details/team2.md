@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:14:19 UTC
+# Standings for team2 as of 2026-06-08 06:14:41 UTC
 
 **Total Participants:** 2118
 
@@ -15,7 +15,7 @@
 | 7 | 8796 | A.j. Langley |
 | 8 | 8678 | Mocha |
 | 9 | 8404 | Cori Keberlein |
-| 10 | 7363 | Christina Shell |
+| 10 | 7393 | Christina Shell |
 | 11 | 7000 | Crafty Ziggy |
 | 12 | 6674 | Christina Jambard Sampier |
 | 13 | 6542 | Dapper Rollout |
@@ -162,8 +162,8 @@
 | 154 | 609 | Pooh |
 | 155 | 600 | Theresa Marie |
 | 156 | 587 | Kathleen Dumbazz |
-| 157 | 580 | Jamie Jones |
-| 158 | 579 | MarioKarasovic |
+| 157 | 584 | MarioKarasovic |
+| 158 | 580 | Jamie Jones |
 | 159 | 577 | Lindsay Klemp |
 | 160 | 574 | Brandy McCune Reep |
 | 161 | 563 | Monique Frantz |
@@ -723,88 +723,88 @@
 | 715 | 116 | Sara Dunn |
 | 716 | 116 | Lazy Staggerpiece |
 | 717 | 116 | Jessica Rose Engebretson |
-| 718 | 115 | Jessica Bowman |
-| 719 | 115 | Patty Ann Hendrickson |
-| 720 | 115 | Edward Conyers |
-| 721 | 115 | Jim Wright |
-| 722 | 115 | Zaniya Brown |
+| 718 | 115 | Bonnie Huckleberry |
+| 719 | 115 | Edward Conyers |
+| 720 | 115 | Patty Ann Hendrickson |
+| 721 | 115 | Zaniya Brown |
+| 722 | 115 | Vicke Patterson |
 | 723 | 115 | Sam Schwieso |
-| 724 | 115 | Vicke Patterson |
-| 725 | 115 | Bonnie Huckleberry |
-| 726 | 114 | Ashley Diana |
+| 724 | 115 | Jim Wright |
+| 725 | 115 | Jessica Bowman |
+| 726 | 114 | Julibeth Wells |
 | 727 | 114 | Shelby Wilson |
 | 728 | 114 | Morgan Olson Pingree |
-| 729 | 114 | Julibeth Wells |
+| 729 | 114 | Ashley Diana |
 | 730 | 114 | Amber Marie |
 | 731 | 113 | Tanya Goodwin |
-| 732 | 112 | Kati Eckstein |
-| 733 | 112 | Smiley Staggerpiece |
-| 734 | 112 | Fallon Moss |
-| 735 | 111 | Nichole Fuller |
-| 736 | 111 | Kelly |
-| 737 | 111 | Shiny Spinfit |
-| 738 | 111 | GiGi Cool |
-| 739 | 111 | Erin Lemanski |
-| 740 | 110 | Jason P. Schwartz |
-| 741 | 110 | Michelle Fry-Cash |
-| 742 | 110 | Brian Little |
-| 743 | 110 | gene15 |
-| 744 | 110 | Patti Ward |
-| 745 | 110 | Seana Moran |
-| 746 | 110 | Twisty Blockmatch |
-| 747 | 110 | Emilee Dulyea |
-| 748 | 110 | Carrie Hayes Lankford |
-| 749 | 110 | Christina German |
-| 750 | 110 | Twisty Matcher |
-| 751 | 109 | Kathy McCormick |
-| 752 | 109 | Jillian Marie |
+| 732 | 113 | Carmina Truoiolo |
+| 733 | 112 | Kati Eckstein |
+| 734 | 112 | Smiley Staggerpiece |
+| 735 | 112 | Fallon Moss |
+| 736 | 111 | Nichole Fuller |
+| 737 | 111 | Erin Lemanski |
+| 738 | 111 | Shiny Spinfit |
+| 739 | 111 | GiGi Cool |
+| 740 | 111 | Kelly |
+| 741 | 110 | Jason P. Schwartz |
+| 742 | 110 | Patti Ward |
+| 743 | 110 | Brian Little |
+| 744 | 110 | Michelle Fry-Cash |
+| 745 | 110 | gene15 |
+| 746 | 110 | Seana Moran |
+| 747 | 110 | Twisty Blockmatch |
+| 748 | 110 | Emilee Dulyea |
+| 749 | 110 | Carrie Hayes Lankford |
+| 750 | 110 | Christina German |
+| 751 | 110 | Twisty Matcher |
+| 752 | 109 | Kathy McCormick |
 | 753 | 109 | jme |
-| 754 | 108 | Carmina Truoiolo |
-| 755 | 108 | Monica Gonzalez Rios |
-| 756 | 108 | Shaylee Haltiner |
-| 757 | 108 | Giddy Chiseler |
-| 758 | 107 | BB |
-| 759 | 107 | Chesney |
-| 760 | 107 | Brooke Kaune |
-| 761 | 107 | Teea Makensi Meyer |
-| 762 | 107 | Carole Brown |
-| 763 | 107 | Chelsea Frye |
-| 764 | 107 | Giggy Linkgrid |
-| 765 | 107 | Stephanie Smith Robinson |
+| 754 | 109 | Jillian Marie |
+| 755 | 108 | Shaylee Haltiner |
+| 756 | 108 | Giddy Chiseler |
+| 757 | 108 | Monica Gonzalez Rios |
+| 758 | 107 | Giggy Linkgrid |
+| 759 | 107 | Chelsea Frye |
+| 760 | 107 | Carole Brown |
+| 761 | 107 | BB |
+| 762 | 107 | Chesney |
+| 763 | 107 | Stephanie Smith Robinson |
+| 764 | 107 | Brooke Kaune |
+| 765 | 107 | Teea Makensi Meyer |
 | 766 | 106 | Tracy Lee |
-| 767 | 106 | Zesty Zoney |
-| 768 | 106 | Seamus |
+| 767 | 106 | Seamus |
+| 768 | 106 | Zesty Zoney |
 | 769 | 106 | Pamela Gambrell |
-| 770 | 105 | Trisha Schneider |
+| 770 | 105 | Gabrielle Rivera |
 | 771 | 105 | Courtney Madison Hart |
-| 772 | 105 | Gabrielle Rivera |
+| 772 | 105 | Trisha Schneider |
 | 773 | 105 | Squared |
 | 774 | 105 | Roger Kirksey |
 | 775 | 105 | Wildcat1220 |
 | 776 | 105 | Goofy Shatterbuilder |
 | 777 | 104 | Holly Barefoot |
-| 778 | 104 | John Perkins |
-| 779 | 104 | Errkuh |
-| 780 | 103 | Connie McCoy |
+| 778 | 104 | Errkuh |
+| 779 | 104 | John Perkins |
+| 780 | 103 | Jolly Twisterfit |
 | 781 | 103 | Wacky Stack |
-| 782 | 103 | Billy Pittman |
-| 783 | 103 | Jolly Twisterfit |
+| 782 | 103 | Connie McCoy |
+| 783 | 103 | Billy Pittman |
 | 784 | 103 | Ashley Fleming |
 | 785 | 103 | mee |
 | 786 | 102 | Kaylene Rigas |
 | 787 | 102 | Diamond Mitchell |
-| 788 | 102 | Eva Lopez |
-| 789 | 102 | Twisty Matchfit |
-| 790 | 102 | Sherry Ann |
-| 791 | 102 | Tetrismastrr |
-| 792 | 101 | Amy D Coble |
-| 793 | 101 | Michael Delozier |
-| 794 | 101 | bozzycat |
-| 795 | 101 | Cynthia Dawn Reitz Hanson |
-| 796 | 101 | Jennifer Leigh |
-| 797 | 101 | Jessica Murphree |
-| 798 | 101 | Robert W Schwartz |
-| 799 | 101 | Perky Linebuilder |
+| 788 | 102 | Twisty Matchfit |
+| 789 | 102 | Sherry Ann |
+| 790 | 102 | Tetrismastrr |
+| 791 | 102 | Eva Lopez |
+| 792 | 101 | Jennifer Leigh |
+| 793 | 101 | Jessica Murphree |
+| 794 | 101 | Perky Linebuilder |
+| 795 | 101 | Robert W Schwartz |
+| 796 | 101 | Cynthia Dawn Reitz Hanson |
+| 797 | 101 | bozzycat |
+| 798 | 101 | Amy D Coble |
+| 799 | 101 | Michael Delozier |
 | 800 | 101 | Wendy Michelle Wise-Ledford |
 | 801 | 100 | Shannon Curry Riggle |
 | 802 | 100 | missat |
@@ -816,9 +816,9 @@
 | 808 | 100 | Debbie Davis |
 | 809 | 100 | Sandra Ruiz |
 | 810 | 100 | Alisha Shelton |
-| 811 | 100 | Epic Slice |
-| 812 | 100 | Nicole Chestnut |
-| 813 | 100 | Ava |
+| 811 | 100 | Ava |
+| 812 | 100 | Epic Slice |
+| 813 | 100 | Nicole Chestnut |
 | 814 | 100 | CATFISH |
 | 815 | 100 | Michele Stewart |
 | 816 | 100 | Tracy Tokarz |
