@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 22:22:42 UTC
+# Standings for team4 as of 2026-06-08 22:23:21 UTC
 
 **Total Participants:** 1940
 
@@ -163,24 +163,24 @@
 | 155 | 592 | Sarah Berry Stevens |
 | 156 | 591 | Jewelz |
 | 157 | 591 | Jace McCullough |
-| 158 | 581 | Dandy Puzzler |
-| 159 | 568 | Katie Lynn Petit |
-| 160 | 566 | Dee Wizz |
-| 161 | 559 | Katie Martin |
-| 162 | 542 | Nikki Fuller Johnson |
-| 163 | 539 | Devinlee Brown |
-| 164 | 532 | Principal Liz |
-| 165 | 531 | SupaFly |
-| 166 | 527 | Monica Emel |
-| 167 | 525 | Dana Abegil Lawas |
-| 168 | 520 | DexterDobbins |
-| 169 | 516 | Shocinda Sherwood |
-| 170 | 514 | Megan Vick |
-| 171 | 513 | Real Talk Vibes |
-| 172 | 512 | Taz |
-| 173 | 500 | Nicole |
-| 174 | 499 | Boldy Rumbler |
-| 175 | 499 | Whitborn |
+| 158 | 591 | Whitborn |
+| 159 | 581 | Dandy Puzzler |
+| 160 | 568 | Katie Lynn Petit |
+| 161 | 566 | Dee Wizz |
+| 162 | 559 | Katie Martin |
+| 163 | 542 | Nikki Fuller Johnson |
+| 164 | 539 | Devinlee Brown |
+| 165 | 532 | Principal Liz |
+| 166 | 531 | SupaFly |
+| 167 | 527 | Monica Emel |
+| 168 | 525 | Dana Abegil Lawas |
+| 169 | 520 | DexterDobbins |
+| 170 | 516 | Shocinda Sherwood |
+| 171 | 514 | Megan Vick |
+| 172 | 513 | Real Talk Vibes |
+| 173 | 512 | Taz |
+| 174 | 500 | Nicole |
+| 175 | 499 | Boldy Rumbler |
 | 176 | 496 | Jackie Jackson |
 | 177 | 495 | Julian Gasque |
 | 178 | 494 | Yesenia Castro Monreal |
