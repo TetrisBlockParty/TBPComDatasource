@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:22:19 UTC
+# Standings for team1 as of 2026-06-08 14:22:42 UTC
 
 **Total Participants:** 1807
 
@@ -109,7 +109,7 @@
 | 101 | 885 | Keeta Chickswit Scott |
 | 102 | 882 | Jon Gathers |
 | 103 | 851 | Jason Mungin |
-| 104 | 823 | Robbie Cheeseman |
+| 104 | 829 | Robbie Cheeseman |
 | 105 | 821 | Slinky Puzzler |
 | 106 | 809 | Jazzy Dashpiece |
 | 107 | 804 | Yolanda E Fergerson |
@@ -381,43 +381,43 @@
 | 373 | 217 | Louise Parker |
 | 374 | 216 | Charlene Baltimore |
 | 375 | 216 | Hasty Glidezone |
-| 376 | 214 | Stephen Providenti |
-| 377 | 213 | Valerie Alexander |
+| 376 | 214 | Richard Flex |
+| 377 | 214 | Stephen Providenti |
 | 378 | 213 | Lazy Tiltpiece |
-| 379 | 212 | Simply-Beautiful007 |
-| 380 | 211 | Lauraly |
+| 379 | 213 | Valerie Alexander |
+| 380 | 212 | Simply-Beautiful007 |
 | 381 | 211 | Nina Davis |
-| 382 | 211 | Charletha Williams |
-| 383 | 210 | NewEve |
-| 384 | 210 | Sarah Clark |
-| 385 | 210 | Alyssa Rae |
-| 386 | 210 | Daddy |
-| 387 | 209 | Guy Incognito |
-| 388 | 209 | Phillip Vasquez |
+| 382 | 211 | Lauraly |
+| 383 | 211 | Charletha Williams |
+| 384 | 210 | Daddy |
+| 385 | 210 | NewEve |
+| 386 | 210 | Sarah Clark |
+| 387 | 210 | Alyssa Rae |
+| 388 | 209 | Guy Incognito |
 | 389 | 209 | $hort Dog |
-| 390 | 209 | Antonia Wyche |
-| 391 | 205 | Tesiree Cray |
-| 392 | 205 | Treneil Daffin |
-| 393 | 205 | OhNoZer0 |
-| 394 | 204 | Brittanie Wardlow |
-| 395 | 204 | LuckyStar |
-| 396 | 202 | Crystal Cheresnowsky |
+| 390 | 209 | Phillip Vasquez |
+| 391 | 209 | Antonia Wyche |
+| 392 | 205 | Tesiree Cray |
+| 393 | 205 | Treneil Daffin |
+| 394 | 205 | OhNoZer0 |
+| 395 | 204 | Brittanie Wardlow |
+| 396 | 204 | LuckyStar |
 | 397 | 202 | Frankey Chi |
 | 398 | 202 | Slinky Snapbuilder |
 | 399 | 202 | Jimmie Makia |
 | 400 | 202 | Messy Live |
 | 401 | 202 | Peppy Glider |
-| 402 | 201 | TBABYJ |
-| 403 | 201 | Richard Flex |
-| 404 | 200 | De'Nell Edwards |
-| 405 | 200 | Lisa Fletcher |
-| 406 | 200 | Maribel Vasquez |
-| 407 | 200 | Peppy Towerbuilder |
-| 408 | 199 | Nickeya Phillips |
-| 409 | 199 | Fina McKinnis |
+| 402 | 202 | Crystal Cheresnowsky |
+| 403 | 201 | TBABYJ |
+| 404 | 200 | Lisa Fletcher |
+| 405 | 200 | De'Nell Edwards |
+| 406 | 200 | Peppy Towerbuilder |
+| 407 | 200 | Maribel Vasquez |
+| 408 | 199 | Fina McKinnis |
+| 409 | 199 | Nickeya Phillips |
 | 410 | 196 | Ladybug |
-| 411 | 196 | Kate Hancock Malicek |
-| 412 | 196 | BabyCakes |
+| 411 | 196 | BabyCakes |
+| 412 | 196 | Kate Hancock Malicek |
 | 413 | 196 | Johnathan Deese |
 | 414 | 193 | Matthieu Pistone |
 | 415 | 193 | Dizzy Dashy |
@@ -429,34 +429,34 @@
 | 421 | 191 | Miera Nicole |
 | 422 | 191 | Lozuna |
 | 423 | 190 | Nisha Sunshine Jenkins |
-| 424 | 190 | Chipper Snapper |
-| 425 | 190 | Kamilya Rembert |
-| 426 | 189 | Sean White |
-| 427 | 189 | Kristine Marie Palmer |
-| 428 | 189 | Tosha Michelle |
-| 429 | 189 | Nate Myers |
-| 430 | 189 | Jolly Tilefall |
-| 431 | 188 | Tyiesha Pie Farmer |
+| 424 | 190 | Kamilya Rembert |
+| 425 | 190 | Chipper Snapper |
+| 426 | 189 | Nate Myers |
+| 427 | 189 | Tosha Michelle |
+| 428 | 189 | Jolly Tilefall |
+| 429 | 189 | Kristine Marie Palmer |
+| 430 | 189 | Sean White |
+| 431 | 188 | Travis Davison |
 | 432 | 188 | CJ Robinson |
-| 433 | 188 | Travis Davison |
-| 434 | 187 | Rachel Renae Bettis |
-| 435 | 187 | Jennah |
+| 433 | 188 | Tyiesha Pie Farmer |
+| 434 | 187 | Jennah |
+| 435 | 187 | Rachel Renae Bettis |
 | 436 | 186 | Monica Tovar |
 | 437 | 185 | Jae Thompson-Tyus |
 | 438 | 185 | Sarah Swietlicki - Lopez |
 | 439 | 184 | Soubletzy |
-| 440 | 183 | wmedina67 |
-| 441 | 183 | Mary Phillippi Blanton |
-| 442 | 183 | Erika |
+| 440 | 183 | Erika |
+| 441 | 183 | wmedina67 |
+| 442 | 183 | Mary Phillippi Blanton |
 | 443 | 183 | Tushama Cheris Okraku |
-| 444 | 182 | Courtney Cicoria |
-| 445 | 182 | Comedian Prince Paul |
+| 444 | 182 | Comedian Prince Paul |
+| 445 | 182 | Courtney Cicoria |
 | 446 | 182 | Shanns |
-| 447 | 181 | Sharee Robinson |
-| 448 | 180 | Zippy Lifter |
-| 449 | 180 | Cornelius Neal |
-| 450 | 180 | Larina Cherie Johnson |
-| 451 | 180 | akosua |
+| 447 | 181 | akosua |
+| 448 | 181 | Sharee Robinson |
+| 449 | 180 | Zippy Lifter |
+| 450 | 180 | Cornelius Neal |
+| 451 | 180 | Larina Cherie Johnson |
 | 452 | 180 | Lynnette WheelerBushnell |
 | 453 | 180 | NedaWin |
 | 454 | 180 | Chris Rogers |
