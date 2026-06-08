@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 07:00:41 UTC
+# Standings for team2 as of 2026-06-08 07:01:20 UTC
 
 **Total Participants:** 2130
 
@@ -995,8 +995,8 @@
 | 987 | 80 | SaraAnn Gray Philbrick |
 | 988 | 80 | PrissyPris |
 | 989 | 80 | Bonita Alexander |
-| 990 | 80 | Cory Lynn |
-| 991 | 80 | Nerdy Spinfit |
+| 990 | 80 | Nerdy Spinfit |
+| 991 | 80 | Cory Lynn |
 | 992 | 80 | Tami Leontyuk |
 | 993 | 80 | Christina Whitehead |
 | 994 | 80 | Justtony Fareal |
@@ -1005,8 +1005,8 @@
 | 997 | 79 | Amanda Neal |
 | 998 | 79 | Aeryal Snow |
 | 999 | 79 | KCBlocker |
-| 1000 | 79 | Funko Dave |
-| 1001 | 79 | Bruni |
+| 1000 | 79 | Bruni |
+| 1001 | 79 | Funko Dave |
 | 1002 | 79 | Zappy Pivotfall |
 | 1003 | 79 | Sandra Rotton Bragg |
 | 1004 | 79 | Sleepypanda67 |
@@ -1031,8 +1031,8 @@
 | 1023 | 76 | BoxerMom |
 | 1024 | 76 | Travis Bundrum |
 | 1025 | 76 | Jolly Brickroll |
-| 1026 | 75 | Chatty |
-| 1027 | 75 | SunnySquare |
+| 1026 | 75 | SunnySquare |
+| 1027 | 75 | Chatty |
 | 1028 | 75 | Laura Turner |
 | 1029 | 75 | CK Hancock |
 | 1030 | 75 | Anthony Chavez |
@@ -1050,60 +1050,60 @@
 | 1042 | 73 | Sassy Patternblock |
 | 1043 | 73 | Chirpy Combofall |
 | 1044 | 73 | Jenn Mccarty |
-| 1045 | 73 | Sunny Spinzone |
-| 1046 | 73 | Elodie Deveyer |
-| 1047 | 73 | Mellzey |
-| 1048 | 73 | blockrocker |
-| 1049 | 73 | BugMansMom |
-| 1050 | 73 | Jenica Davis |
-| 1051 | 73 | Blocker |
-| 1052 | 73 | Frothy Faller |
-| 1053 | 72 | Anzhen |
-| 1054 | 72 | Nikki Layman |
-| 1055 | 72 | Mala Phonchanthasone |
-| 1056 | 72 | Peppy Piececlear |
-| 1057 | 72 | Lu Wallace |
-| 1058 | 72 | YAKO |
-| 1059 | 72 | Stacy Lynn |
+| 1045 | 73 | Lydia Shonee |
+| 1046 | 73 | Sunny Spinzone |
+| 1047 | 73 | Elodie Deveyer |
+| 1048 | 73 | BugMansMom |
+| 1049 | 73 | Mellzey |
+| 1050 | 73 | blockrocker |
+| 1051 | 73 | Jenica Davis |
+| 1052 | 73 | Blocker |
+| 1053 | 73 | Frothy Faller |
+| 1054 | 72 | Anzhen |
+| 1055 | 72 | Nikki Layman |
+| 1056 | 72 | Mala Phonchanthasone |
+| 1057 | 72 | KS Hengesbach |
+| 1058 | 72 | Peppy Piececlear |
+| 1059 | 72 | Aubrey Gates |
 | 1060 | 72 | Stacey Peters |
 | 1061 | 72 | Audrey Bickford |
-| 1062 | 72 | Aubrey Gates |
-| 1063 | 72 | KS Hengesbach |
-| 1064 | 71 | Rachael Roberts |
-| 1065 | 71 | Yari |
-| 1066 | 71 | Trisha Farley |
-| 1067 | 71 | Michelle Arnold |
-| 1068 | 71 | John C Morrison |
-| 1069 | 71 | Joey Grillo |
-| 1070 | 71 | Alessandria Anderson |
-| 1071 | 71 | Michele Plunkett |
-| 1072 | 70 | Dottie Leavy Van Deventer |
-| 1073 | 70 | Stazy Warner |
-| 1074 | 70 | Elizabeth Henry |
-| 1075 | 70 | Spicy Wrecker |
-| 1076 | 70 | Jacy Pickett |
-| 1077 | 70 | Alisha Kralicek Trainham |
-| 1078 | 70 | Cindy Wellman |
-| 1079 | 70 | TheAggie12 |
-| 1080 | 70 | Shannon D. Turk |
-| 1081 | 70 | Melissa Aycock |
-| 1082 | 70 | Cassafrass |
-| 1083 | 70 | Peppy Piececlear |
-| 1084 | 70 | Justin Furne |
-| 1085 | 70 | Latrell Thomas |
-| 1086 | 70 | Elnaz Mokleh |
-| 1087 | 70 | Duck |
-| 1088 | 70 | Andrea Spinelli |
-| 1089 | 70 | Christi Hooper |
-| 1090 | 70 | Abby Dexter |
-| 1091 | 70 | Rosie |
+| 1062 | 72 | Stacy Lynn |
+| 1063 | 72 | YAKO |
+| 1064 | 72 | Lu Wallace |
+| 1065 | 71 | Trisha Farley |
+| 1066 | 71 | Yari |
+| 1067 | 71 | Rachael Roberts |
+| 1068 | 71 | Michelle Arnold |
+| 1069 | 71 | John C Morrison |
+| 1070 | 71 | Joey Grillo |
+| 1071 | 71 | Alessandria Anderson |
+| 1072 | 71 | Michele Plunkett |
+| 1073 | 70 | Dottie Leavy Van Deventer |
+| 1074 | 70 | Stazy Warner |
+| 1075 | 70 | Elizabeth Henry |
+| 1076 | 70 | Spicy Wrecker |
+| 1077 | 70 | Jacy Pickett |
+| 1078 | 70 | Alisha Kralicek Trainham |
+| 1079 | 70 | Cindy Wellman |
+| 1080 | 70 | TheAggie12 |
+| 1081 | 70 | Shannon D. Turk |
+| 1082 | 70 | Melissa Aycock |
+| 1083 | 70 | Christi Hooper |
+| 1084 | 70 | Peppy Piececlear |
+| 1085 | 70 | Justin Furne |
+| 1086 | 70 | Latrell Thomas |
+| 1087 | 70 | Elnaz Mokleh |
+| 1088 | 70 | Duck |
+| 1089 | 70 | Andrea Spinelli |
+| 1090 | 70 | Rosie |
+| 1091 | 70 | Abby Dexter |
 | 1092 | 70 | Kelly Hall Whitt |
 | 1093 | 70 | Cool Balancer |
 | 1094 | 70 | Zesty Dash |
-| 1095 | 69 | Mona Wagner |
+| 1095 | 70 | Cassafrass |
 | 1096 | 69 | Glowing Earthy Embers |
-| 1097 | 69 | Loretta Crow |
-| 1098 | 69 | Lydia Shonee |
+| 1097 | 69 | Mona Wagner |
+| 1098 | 69 | Loretta Crow |
 | 1099 | 69 | REE4 |
 | 1100 | 69 | Jackie Moran Tiller |
 | 1101 | 69 | Jolene Hull Hearn |

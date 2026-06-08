@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:00:41 UTC
+# Standings for team4 as of 2026-06-08 07:01:20 UTC
 
 **Total Participants:** 1790
 
@@ -19,7 +19,7 @@
 | 11 | 5307 | Hasty Builder |
 | 12 | 5180 | Jerald Jones |
 | 13 | 5123 | delilahbelle |
-| 14 | 5073 | Bubbly Twistpiece |
+| 14 | 5088 | Bubbly Twistpiece |
 | 15 | 5041 | Squirrel Donkey |
 | 16 | 4939 | Bryony Nicholson |
 | 17 | 4895 | Jennifer Edgell Richardson |
@@ -165,9 +165,9 @@
 | 157 | 435 | BusterBear56 |
 | 158 | 432 | Boldy Rumbler |
 | 159 | 429 | Cyndi Najar |
-| 160 | 426 | Nicole |
-| 161 | 424 | Futrell Brent |
-| 162 | 423 | Iforget |
+| 160 | 429 | Iforget |
+| 161 | 426 | Nicole |
+| 162 | 424 | Futrell Brent |
 | 163 | 422 | squareMel |
 | 164 | 421 | QueenLi86 |
 | 165 | 421 | Michelle Ross |
@@ -267,7 +267,7 @@
 | 259 | 274 | Sherry Mooney |
 | 260 | 274 | Dominique Melendez |
 | 261 | 271 | Tina Thomas |
-| 262 | 270 | Kelly Howland |
+| 262 | 271 | Kelly Howland |
 | 263 | 270 | Adam Dickinson |
 | 264 | 269 | Spunky Gridzone |
 | 265 | 269 | Spicy Chicken |
@@ -942,71 +942,71 @@
 | 934 | 69 | Tonia Kay |
 | 935 | 69 | Vergie Michael |
 | 936 | 69 | Ashley Ferguson |
-| 937 | 69 | Goddatbat |
-| 938 | 69 | Derrek Lee |
-| 939 | 68 | FUNBAT |
-| 940 | 68 | AVA |
-| 941 | 68 | Kelly Kabelac Loomis |
-| 942 | 68 | Kelley Shoop |
-| 943 | 68 | Keys Tome |
-| 944 | 68 | Curved carrot |
-| 945 | 68 | Phredda Helene Gavornik |
-| 946 | 68 | Bigmamalizzet Latto |
-| 947 | 68 | Sweetfire |
-| 948 | 68 | Tahira Patrice |
-| 949 | 67 | Michael Cruz |
-| 950 | 67 | Tony Clark |
-| 951 | 67 | Janna Thompson |
-| 952 | 67 | Andy Petersen |
-| 953 | 67 | John Cotugno |
-| 954 | 67 | JuicyJay |
-| 955 | 67 | Eric Quan |
-| 956 | 67 | Yournightmare |
-| 957 | 67 | Wacky Snaplink |
-| 958 | 67 | Snappy Slice |
-| 959 | 67 | Glittara |
-| 960 | 66 | james |
-| 961 | 66 | Joyce Hampton |
-| 962 | 66 | Scarlett Ashley Clark |
-| 963 | 66 | Perky Balanceblock |
-| 964 | 66 | Leslie |
+| 937 | 69 | Leslie |
+| 938 | 69 | Goddatbat |
+| 939 | 69 | Derrek Lee |
+| 940 | 68 | FUNBAT |
+| 941 | 68 | AVA |
+| 942 | 68 | Kelly Kabelac Loomis |
+| 943 | 68 | Kelley Shoop |
+| 944 | 68 | Keys Tome |
+| 945 | 68 | Curved carrot |
+| 946 | 68 | Phredda Helene Gavornik |
+| 947 | 68 | Bigmamalizzet Latto |
+| 948 | 68 | Sweetfire |
+| 949 | 68 | Tahira Patrice |
+| 950 | 67 | Michael Cruz |
+| 951 | 67 | Tony Clark |
+| 952 | 67 | Janna Thompson |
+| 953 | 67 | Andy Petersen |
+| 954 | 67 | John Cotugno |
+| 955 | 67 | JuicyJay |
+| 956 | 67 | Eric Quan |
+| 957 | 67 | Yournightmare |
+| 958 | 67 | Wacky Snaplink |
+| 959 | 67 | Snappy Slice |
+| 960 | 67 | Glittara |
+| 961 | 66 | james |
+| 962 | 66 | Perky Balanceblock |
+| 963 | 66 | Scarlett Ashley Clark |
+| 964 | 66 | Joyce Hampton |
 | 965 | 66 | MattJennifer Marie Ericson |
-| 966 | 65 | Joshua Franklin |
-| 967 | 65 | Rebecca Renaud |
-| 968 | 65 | Gabby Simones |
-| 969 | 65 | EmBem |
+| 966 | 65 | EmBem |
+| 967 | 65 | Gabby Simones |
+| 968 | 65 | Joshua Franklin |
+| 969 | 65 | Rebecca Renaud |
 | 970 | 65 | Daniel Lossman |
-| 971 | 65 | Joe Andrews |
-| 972 | 65 | Seraphina |
+| 971 | 65 | Seraphina |
+| 972 | 65 | Joe Andrews |
 | 973 | 65 | Mamissa |
-| 974 | 64 | LaShieka Noland |
-| 975 | 64 | Jumpy Brickline |
-| 976 | 64 | PDubz |
-| 977 | 64 | MamaC |
-| 978 | 64 | Krissy Smith |
-| 979 | 64 | Dandy Linkgrid |
-| 980 | 64 | Heather Garrity |
-| 981 | 64 | Megan Lynn |
+| 974 | 64 | Megan Lynn |
+| 975 | 64 | Heather Garrity |
+| 976 | 64 | Daffney Starr |
+| 977 | 64 | Daring Brickbuilder |
+| 978 | 64 | MamaC |
+| 979 | 64 | Krissy Smith |
+| 980 | 64 | Dandy Linkgrid |
+| 981 | 64 | PDubz |
 | 982 | 64 | Izz |
-| 983 | 64 | Anthony McAlister |
-| 984 | 64 | Amy Gutierrez |
-| 985 | 64 | Daring Brickbuilder |
-| 986 | 64 | Daffney Starr |
-| 987 | 63 | Miguel Teixeira |
-| 988 | 63 | Lush Balanceblock |
-| 989 | 63 | ButterfliesRFree |
-| 990 | 63 | JP |
-| 991 | 63 | Bridget Reilly |
+| 983 | 64 | LaShieka Noland |
+| 984 | 64 | Jumpy Brickline |
+| 985 | 64 | Amy Gutierrez |
+| 986 | 64 | Anthony McAlister |
+| 987 | 63 | Lush Balanceblock |
+| 988 | 63 | Bridget Reilly |
+| 989 | 63 | Miguel Teixeira |
+| 990 | 63 | ButterfliesRFree |
+| 991 | 63 | JP |
 | 992 | 63 | Maria Munoz |
 | 993 | 63 | San |
-| 994 | 62 | Zippy Snaplink |
+| 994 | 62 | Casey Thomas |
 | 995 | 62 | Nerdy Glider |
 | 996 | 62 | Giggly Gridzone |
 | 997 | 62 | Pink Tetramino |
-| 998 | 62 | Casey Thomas |
-| 999 | 62 | Marie Culbert |
-| 1000 | 62 | Leslie Ramos |
-| 1001 | 62 | Sara Cobb |
+| 998 | 62 | Leslie Ramos |
+| 999 | 62 | Zippy Snaplink |
+| 1000 | 62 | Sara Cobb |
+| 1001 | 62 | Marie Culbert |
 | 1002 | 62 | Shane Tate |
 | 1003 | 61 | Milton Lawrence |
 | 1004 | 61 | MsThick SrtLady Williams |
@@ -1262,38 +1262,38 @@
 | 1254 | 40 | John Henry |
 | 1255 | 40 | KrisTina2007 |
 | 1256 | 40 | Big Dooka |
-| 1257 | 40 | Lawrissa Andrews |
-| 1258 | 40 | Mexican130 |
-| 1259 | 40 | Sherri Lynn |
-| 1260 | 40 | Leslie Bamonte |
-| 1261 | 40 | Quirky Fitblock |
-| 1262 | 40 | MamaBear3 |
-| 1263 | 40 | Wayne Mire |
-| 1264 | 40 | Kiara Itzel Crowe |
-| 1265 | 40 | Pickles |
-| 1266 | 40 | Sierra A Hortman |
+| 1257 | 40 | Quirky Fitblock |
+| 1258 | 40 | MamaBear3 |
+| 1259 | 40 | Ashlee Lemus |
+| 1260 | 40 | Lawrissa Andrews |
+| 1261 | 40 | Wayne Mire |
+| 1262 | 40 | Kiara Itzel Crowe |
+| 1263 | 40 | Leslie Bamonte |
+| 1264 | 40 | Sherri Lynn |
+| 1265 | 40 | Mexican130 |
+| 1266 | 40 | Glitzy Cascadefit |
 | 1267 | 40 | Alicia Loveless |
-| 1268 | 40 | Glitzy Cascadefit |
-| 1269 | 39 | Ashie |
+| 1268 | 40 | Sierra A Hortman |
+| 1269 | 40 | Pickles |
 | 1270 | 39 | Ashley McGeehan |
 | 1271 | 39 | JUNE |
 | 1272 | 39 | Amy White |
 | 1273 | 39 | Carrie Sue Shaffer |
-| 1274 | 39 | Dandy Balancer |
+| 1274 | 39 | Ashie |
 | 1275 | 39 | Chris Davis |
 | 1276 | 39 | Cas Gio |
 | 1277 | 39 | Mighty Clicky |
-| 1278 | 38 | Ayobribri |
+| 1278 | 39 | Dandy Balancer |
 | 1279 | 38 | Jacquelyn Villarreal-Messenger |
-| 1280 | 38 | Daring Towerer |
-| 1281 | 38 | Heather Cook |
+| 1280 | 38 | Pretty_Rican |
+| 1281 | 38 | Daring Towerer |
 | 1282 | 38 | Dupontmom |
-| 1283 | 38 | Pretty_Rican |
-| 1284 | 38 | Adolfo Bernal |
-| 1285 | 38 | Ali Nicole |
-| 1286 | 38 | Monique Anne Edwards |
-| 1287 | 38 | Mighty Spinfit |
-| 1288 | 38 | Ashlee Lemus |
+| 1283 | 38 | Ayobribri |
+| 1284 | 38 | Heather Cook |
+| 1285 | 38 | Adolfo Bernal |
+| 1286 | 38 | Ali Nicole |
+| 1287 | 38 | Monique Anne Edwards |
+| 1288 | 38 | Mighty Spinfit |
 | 1289 | 38 | Yam My |
 | 1290 | 38 | Capt'n Crunch |
 | 1291 | 38 | Daring Patternblock |
