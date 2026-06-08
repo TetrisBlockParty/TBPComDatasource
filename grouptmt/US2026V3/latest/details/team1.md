@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:10:42 UTC
+# Standings for team1 as of 2026-06-08 21:11:21 UTC
 
 **Total Participants:** 1874
 
@@ -25,7 +25,7 @@
 | 17 | 5602 | Jocelyn Pope-Sewell |
 | 18 | 5282 | Plucky Swipe |
 | 19 | 4934 | jaimie |
-| 20 | 4645 | Cool Bridger |
+| 20 | 4795 | Cool Bridger |
 | 21 | 4621 | Chandler Spencer |
 | 22 | 4263 | Pdubbl3 |
 | 23 | 4067 | Erika Windom |
@@ -135,19 +135,19 @@
 | 127 | 699 | Chuck Quarles |
 | 128 | 692 | Chirpy Corner |
 | 129 | 676 | W.A. Simpson |
-| 130 | 674 | Anthony Washington |
-| 131 | 671 | Gotcha |
-| 132 | 665 | La'Chae Nickole |
-| 133 | 663 | De'Laonzeo Anthony |
-| 134 | 647 | Andi McGreevy |
+| 130 | 674 | Andi McGreevy |
+| 131 | 674 | Anthony Washington |
+| 132 | 671 | Gotcha |
+| 133 | 665 | La'Chae Nickole |
+| 134 | 663 | De'Laonzeo Anthony |
 | 135 | 645 | Ebony Waynes-robinson |
 | 136 | 644 | Dena Marie Lee |
 | 137 | 643 | Ottison Dianna |
 | 138 | 641 | ELM |
 | 139 | 635 | Gael Quintana |
 | 140 | 633 | Rackemwillie34 |
-| 141 | 630 | Bambi Love |
-| 142 | 630 | Shontanese Adams |
+| 141 | 630 | Shontanese Adams |
+| 142 | 630 | Bambi Love |
 | 143 | 627 | Alana Renee |
 | 144 | 617 | Crystal Anderson |
 | 145 | 611 | SyTheEvilGenius1 |
@@ -339,10 +339,10 @@
 | 331 | 280 | Boldy Liner |
 | 332 | 280 | Rachael Bakowicz Edwards |
 | 333 | 279 | Chandler Magee |
-| 334 | 278 | Ann White |
-| 335 | 278 | izzybella |
-| 336 | 277 | Telisha Mims |
-| 337 | 276 | Alivia Dove |
+| 334 | 279 | Alivia Dove |
+| 335 | 278 | Ann White |
+| 336 | 278 | izzybella |
+| 337 | 277 | Telisha Mims |
 | 338 | 275 | Chris Sladoje |
 | 339 | 275 | Kelli Couture |
 | 340 | 275 | Tamika Fisher |
@@ -356,17 +356,17 @@
 | 348 | 269 | DaGuy |
 | 349 | 268 | MamushiOh |
 | 350 | 264 | Boldy Matchbuilder |
-| 351 | 264 | Wild Out Nai |
-| 352 | 264 | Loopy Block |
-| 353 | 260 | Deveda Williams |
-| 354 | 260 | Sara Meri |
-| 355 | 260 | Peppy Towerbuilder |
+| 351 | 264 | Loopy Block |
+| 352 | 264 | Wild Out Nai |
+| 353 | 260 | Sara Meri |
+| 354 | 260 | Peppy Towerbuilder |
+| 355 | 260 | Deveda Williams |
 | 356 | 258 | Cynthia Bradley |
 | 357 | 258 | SeanSanchez |
 | 358 | 257 | kitten |
 | 359 | 257 | Faith Armone |
-| 360 | 255 | Emily Wright |
-| 361 | 255 | Falisa Bell |
+| 360 | 255 | Falisa Bell |
+| 361 | 255 | Emily Wright |
 | 362 | 253 | Tasha |
 | 363 | 252 | Andrew Jay Vaughn |
 | 364 | 250 | win |
@@ -440,29 +440,29 @@
 | 432 | 212 | Marlainia Boyd |
 | 433 | 212 | Crystal Cheresnowsky |
 | 434 | 211 | Charletha Williams |
-| 435 | 211 | Jenni Hardman |
-| 436 | 211 | Lauraly |
-| 437 | 210 | Abby |
-| 438 | 210 | Kate Hancock Malicek |
-| 439 | 210 | Daddy |
-| 440 | 210 | Alyssa Rae |
-| 441 | 209 | Phillip Vasquez |
-| 442 | 209 | $hort Dog |
-| 443 | 209 | Antonia Wyche |
-| 444 | 208 | Juicy |
-| 445 | 207 | Mary Phillippi Blanton |
-| 446 | 206 | MonaSparks |
-| 447 | 206 | Shelly Everette |
-| 448 | 205 | Tesiree Cray |
-| 449 | 205 | wmedina67 |
-| 450 | 205 | Lynnette WheelerBushnell |
-| 451 | 205 | Treneil Daffin |
-| 452 | 204 | Nickeya Phillips |
-| 453 | 204 | Brittanie Wardlow |
-| 454 | 203 | Breezy Catcher |
-| 455 | 203 | Wayne Savannah |
-| 456 | 202 | Peppy Glider |
-| 457 | 202 | Slinky Clearzone |
+| 435 | 211 | Lauraly |
+| 436 | 211 | Jenni Hardman |
+| 437 | 210 | Kate Hancock Malicek |
+| 438 | 210 | Daddy |
+| 439 | 210 | Alyssa Rae |
+| 440 | 210 | Abby |
+| 441 | 209 | $hort Dog |
+| 442 | 209 | Antonia Wyche |
+| 443 | 209 | Slinky Clearzone |
+| 444 | 209 | Phillip Vasquez |
+| 445 | 208 | Juicy |
+| 446 | 207 | Mary Phillippi Blanton |
+| 447 | 206 | MonaSparks |
+| 448 | 206 | Shelly Everette |
+| 449 | 205 | Tesiree Cray |
+| 450 | 205 | wmedina67 |
+| 451 | 205 | Lynnette WheelerBushnell |
+| 452 | 205 | Treneil Daffin |
+| 453 | 204 | Nickeya Phillips |
+| 454 | 204 | Brittanie Wardlow |
+| 455 | 203 | Breezy Catcher |
+| 456 | 203 | Wayne Savannah |
+| 457 | 202 | Peppy Glider |
 | 458 | 202 | Frankey Chi |
 | 459 | 202 | Jana Cheek |
 | 460 | 202 | BabyCakes |
