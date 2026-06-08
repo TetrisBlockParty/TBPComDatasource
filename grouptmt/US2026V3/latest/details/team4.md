@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 21:30:22 UTC
+# Standings for team4 as of 2026-06-08 21:30:45 UTC
 
 **Total Participants:** 1926
 
@@ -28,7 +28,7 @@
 | 20 | 5089 | Ning Quiambao |
 | 21 | 5031 | Chris Hills |
 | 22 | 4939 | Bryony Nicholson |
-| 23 | 4599 | Nia Mayfield |
+| 23 | 4683 | Nia Mayfield |
 | 24 | 4329 | Jackie Lucas |
 | 25 | 4326 | Tyra Brooke Everman Forest |
 | 26 | 4252 | Tonya Brooks-Johnson |
@@ -225,9 +225,9 @@
 | 217 | 408 | matt |
 | 218 | 408 | Bonnie Powell |
 | 219 | 402 | LastBoi |
-| 220 | 400 | Amber Doyle |
-| 221 | 400 | Genag |
-| 222 | 399 | Pepper |
+| 220 | 402 | Pepper |
+| 221 | 400 | Amber Doyle |
+| 222 | 400 | Genag |
 | 223 | 397 | Kelly Howland |
 | 224 | 395 | Bobbie Harrell |
 | 225 | 394 | Boldy Striker |
