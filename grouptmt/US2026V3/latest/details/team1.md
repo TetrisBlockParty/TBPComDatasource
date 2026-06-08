@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:08:42 UTC
+# Standings for team1 as of 2026-06-08 05:09:19 UTC
 
 **Total Participants:** 1723
 
@@ -328,13 +328,13 @@
 | 320 | 220 | HarleyJane |
 | 321 | 219 | Tamara Johnson-Carter |
 | 322 | 218 | SeanSanchez |
-| 323 | 217 | LaShaun Stinson |
-| 324 | 217 | Ashleyy Netchert |
-| 325 | 217 | Louise Parker |
+| 323 | 218 | LaToya Chambers |
+| 324 | 217 | LaShaun Stinson |
+| 325 | 217 | Ashleyy Netchert |
 | 326 | 217 | Snippy Breaker |
-| 327 | 214 | Stephen Providenti |
-| 328 | 213 | Lazy Tiltpiece |
-| 329 | 212 | LaToya Chambers |
+| 327 | 217 | Louise Parker |
+| 328 | 214 | Stephen Providenti |
+| 329 | 213 | Lazy Tiltpiece |
 | 330 | 212 | Simply-Beautiful007 |
 | 331 | 211 | Charletha Williams |
 | 332 | 211 | Nina Davis |
@@ -342,8 +342,8 @@
 | 334 | 210 | Sarah Clark |
 | 335 | 210 | Hailey Hil |
 | 336 | 209 | Antonia Wyche |
-| 337 | 209 | $hort Dog |
-| 338 | 209 | Phillip Vasquez |
+| 337 | 209 | Phillip Vasquez |
+| 338 | 209 | $hort Dog |
 | 339 | 208 | izzybella |
 | 340 | 205 | Treneil Daffin |
 | 341 | 205 | OhNoZer0 |
@@ -483,82 +483,82 @@
 | 475 | 147 | Twisty Brickfit |
 | 476 | 147 | Joka NoTime ForHataz |
 | 477 | 147 | Twisty Cascadeclear |
-| 478 | 146 | whatever |
-| 479 | 146 | Kala Miller |
-| 480 | 145 | Shea Ladynick Henderson |
-| 481 | 145 | Squaw Ki Ng |
-| 482 | 144 | Ta'Kaiyah M. Spann |
-| 483 | 144 | Kp |
-| 484 | 144 | Hardtohandle91 |
-| 485 | 144 | Douglas Price |
+| 478 | 146 | Kala Miller |
+| 479 | 146 | whatever |
+| 480 | 145 | Squaw Ki Ng |
+| 481 | 145 | Shea Ladynick Henderson |
+| 482 | 144 | Hardtohandle91 |
+| 483 | 144 | Ta'Kaiyah M. Spann |
+| 484 | 144 | Douglas Price |
+| 485 | 144 | Kp |
 | 486 | 143 | Ashlie Mo |
-| 487 | 142 | Kelley Johnson |
-| 488 | 142 | Sarah Steckbauer |
+| 487 | 142 | Sarah Steckbauer |
+| 488 | 142 | Kelley Johnson |
 | 489 | 141 | Kate Hancock Malicek |
 | 490 | 141 | Shalena Marie Humphrey |
-| 491 | 140 | Antoinette Jones |
-| 492 | 140 | Kennedi Brazziel |
-| 493 | 139 | Bold Clusterer |
-| 494 | 139 | Jenni Hardman |
-| 495 | 139 | Tracy Feyler |
-| 496 | 138 | Yadira Salgado |
-| 497 | 138 | Ozell Jones Jr. |
-| 498 | 138 | Ashley Monet Terrell |
-| 499 | 138 | Claudia Price |
-| 500 | 138 | Dreamzzz |
-| 501 | 137 | Mighty Dropper |
-| 502 | 137 | Amy Villalpando |
+| 491 | 140 | Kennedi Brazziel |
+| 492 | 140 | Antoinette Jones |
+| 493 | 139 | Tracy Feyler |
+| 494 | 139 | Bold Clusterer |
+| 495 | 139 | Jenni Hardman |
+| 496 | 138 | Ozell Jones Jr. |
+| 497 | 138 | Claudia Price |
+| 498 | 138 | Yadira Salgado |
+| 499 | 138 | Dreamzzz |
+| 500 | 138 | Ashley Monet Terrell |
+| 501 | 137 | Amy Villalpando |
+| 502 | 137 | Mighty Dropper |
 | 503 | 137 | Kelvin Cook |
-| 504 | 136 | Gbnola |
-| 505 | 136 | The DUBZ |
-| 506 | 136 | Shakuria Cortia Burney |
-| 507 | 136 | Char |
-| 508 | 135 | MzJuice Box |
+| 504 | 136 | The DUBZ |
+| 505 | 136 | Shakuria Cortia Burney |
+| 506 | 136 | Char |
+| 507 | 136 | Gbnola |
+| 508 | 135 | Shameka Tiffany |
 | 509 | 135 | Chirpy Buildgrid |
-| 510 | 135 | Marshall Davis |
-| 511 | 135 | Shameka Tiffany |
-| 512 | 135 | Saucy Tile |
-| 513 | 134 | Perky Pusher |
-| 514 | 134 | Aaron Hartmann |
-| 515 | 134 | Taz Ballard |
-| 516 | 133 | Yashicha Hertzock |
+| 510 | 135 | Saucy Tile |
+| 511 | 135 | Marshall Davis |
+| 512 | 135 | MzJuice Box |
+| 513 | 134 | Aaron Hartmann |
+| 514 | 134 | Taz Ballard |
+| 515 | 134 | Perky Pusher |
+| 516 | 133 | Kimberly Susan Privette |
 | 517 | 133 | Marlynnnnn |
 | 518 | 133 | StingerD |
-| 519 | 133 | Kimberly Susan Privette |
-| 520 | 132 | Jeffrey Barrows |
+| 519 | 133 | Yashicha Hertzock |
+| 520 | 132 | Tessa Felice Hill |
 | 521 | 132 | Poyre Shelton |
 | 522 | 132 | Jack Vlasak |
-| 523 | 131 | Lynnette WheelerBushnell |
-| 524 | 131 | Karen Denen |
-| 525 | 130 | Jessica Davis |
-| 526 | 130 | Gerold Folk Haddock |
-| 527 | 130 | Kesha Brady |
-| 528 | 129 | Lucy |
-| 529 | 129 | Zany Breaker |
-| 530 | 129 | Tessa Felice Hill |
-| 531 | 129 | Loopy Tiler |
-| 532 | 129 | Logan Frost |
+| 523 | 132 | Jeffrey Barrows |
+| 524 | 131 | Lynnette WheelerBushnell |
+| 525 | 131 | Karen Denen |
+| 526 | 130 | Kesha Brady |
+| 527 | 130 | Gerold Folk Haddock |
+| 528 | 130 | Jessica Davis |
+| 529 | 129 | Lynn |
+| 530 | 129 | Lucy |
+| 531 | 129 | Logan Frost |
+| 532 | 129 | Zany Breaker |
 | 533 | 129 | PSD |
-| 534 | 129 | Soubletzy |
+| 534 | 129 | Loopy Tiler |
 | 535 | 129 | JesusSaves 😇 |
-| 536 | 129 | Lynn |
-| 537 | 128 | Zappy Snapgrid |
-| 538 | 128 | BonnieB |
-| 539 | 128 | Kimberly Anderson |
+| 536 | 129 | Soubletzy |
+| 537 | 128 | Kimberly Anderson |
+| 538 | 128 | Zappy Snapgrid |
+| 539 | 128 | BonnieB |
 | 540 | 127 | Octavia Bsb Johnson |
 | 541 | 127 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 542 | 126 | Kahliah Baker |
-| 543 | 126 | Terrie |
-| 544 | 126 | Ryan Runyan |
-| 545 | 126 | Jessie N Michael Silvers |
-| 546 | 126 | Laurie Napper |
-| 547 | 125 | Christina Singleton |
-| 548 | 125 | Dizzy Dashy |
+| 543 | 126 | Ryan Runyan |
+| 544 | 126 | Jessie N Michael Silvers |
+| 545 | 126 | Laurie Napper |
+| 546 | 126 | Terrie |
+| 547 | 125 | Dizzy Dashy |
+| 548 | 125 | Christina Singleton |
 | 549 | 125 | BB |
-| 550 | 124 | Jes Marie |
-| 551 | 124 | Jennah |
-| 552 | 124 | Nerdy Climber |
-| 553 | 124 | DellaLucretia Thomas |
+| 550 | 124 | DellaLucretia Thomas |
+| 551 | 124 | Jes Marie |
+| 552 | 124 | Jennah |
+| 553 | 124 | Nerdy Climber |
 | 554 | 124 | Li-Li Ratliff |
 | 555 | 123 | Dizzy Gridmatch |
 | 556 | 123 | Holly Baker |
@@ -763,19 +763,19 @@
 | 755 | 89 | Naee Bee |
 | 756 | 89 | Jazzy Bridger |
 | 757 | 89 | Johnathan Deese |
-| 758 | 89 | Marc Papa |
-| 759 | 89 | Spicy Shatterblock |
-| 760 | 89 | Chereese Harris |
-| 761 | 88 | Fatty May |
-| 762 | 88 | Maria Baez Medina |
-| 763 | 88 | TBabii24 |
-| 764 | 87 | Pj Rojas |
+| 758 | 89 | Andra Ward |
+| 759 | 89 | Marc Papa |
+| 760 | 89 | Spicy Shatterblock |
+| 761 | 89 | Chereese Harris |
+| 762 | 88 | TBabii24 |
+| 763 | 88 | Maria Baez Medina |
+| 764 | 88 | Fatty May |
 | 765 | 87 | Samona Mcculler |
 | 766 | 87 | LexiiSamayaa |
 | 767 | 87 | Angela L Charles |
-| 768 | 87 | Natalie Burroughs |
-| 769 | 87 | Denise Cunningham-English |
-| 770 | 87 | Andra Ward |
+| 768 | 87 | Pj Rojas |
+| 769 | 87 | Natalie Burroughs |
+| 770 | 87 | Denise Cunningham-English |
 | 771 | 87 | Shakmar |
 | 772 | 86 | brite |
 | 773 | 86 | krd |
