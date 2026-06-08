@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 01:16:20 UTC
+# Standings for team2 as of 2026-06-08 01:16:44 UTC
 
 **Total Participants:** 1998
 
@@ -130,8 +130,8 @@
 | 122 | 756 | snowwol |
 | 123 | 751 | Hoppy Rotate |
 | 124 | 745 | Courtney McCulley |
-| 125 | 723 | Groovy Snapper |
-| 126 | 723 | Loopy Curvebuilder |
+| 125 | 725 | Loopy Curvebuilder |
+| 126 | 723 | Groovy Snapper |
 | 127 | 693 | Le Sandy |
 | 128 | 685 | Sigmamom |
 | 129 | 682 | Wmk Rathbun |
