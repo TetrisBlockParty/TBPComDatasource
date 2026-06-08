@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:15:21 UTC
+# Standings for team4 as of 2026-06-08 07:16:20 UTC
 
 **Total Participants:** 1791
 
@@ -57,8 +57,8 @@
 | 49 | 1781 | Tommy Bond |
 | 50 | 1729 | Erin Figone |
 | 51 | 1711 | Cal Renee |
-| 52 | 1700 | Leah Gorsuch |
-| 53 | 1700 | Elissa S-k |
+| 52 | 1700 | Elissa S-k |
+| 53 | 1700 | Leah Gorsuch |
 | 54 | 1681 | 626 |
 | 55 | 1667 | Dheeh Robles |
 | 56 | 1656 | Blind Bette |
@@ -72,8 +72,8 @@
 | 64 | 1200 | Caitlin Johnson |
 | 65 | 1187 | Chris Covington |
 | 66 | 1176 | SMV |
-| 67 | 1156 | Giggy Matchpiece |
-| 68 | 1154 | MysticMaven |
+| 67 | 1160 | MysticMaven |
+| 68 | 1156 | Giggy Matchpiece |
 | 69 | 1150 | Gloria Nunley Trussell |
 | 70 | 1119 | Bryan DjMagnum Evans |
 | 71 | 1086 | Lupe Alburquerque |
@@ -159,8 +159,8 @@
 | 151 | 460 | CIRAZYPNOY |
 | 152 | 452 | Kaash Brxtt |
 | 153 | 446 | Laguya |
-| 154 | 443 | Crissy Hoffman |
-| 155 | 443 | Joyce Myers |
+| 154 | 443 | Joyce Myers |
+| 155 | 443 | Crissy Hoffman |
 | 156 | 441 | Iforget |
 | 157 | 438 | Real Talk Vibes |
 | 158 | 437 | Danielle Mitchell |
@@ -178,8 +178,8 @@
 | 170 | 415 | Shiny Dashy |
 | 171 | 409 | Hen |
 | 172 | 405 | HurkleDurkle88 |
-| 173 | 400 | Amber Doyle |
-| 174 | 397 | Scamp Jones |
+| 173 | 402 | Scamp Jones |
+| 174 | 400 | Amber Doyle |
 | 175 | 395 | Julian Gasque |
 | 176 | 395 | Bobbie Harrell |
 | 177 | 389 | blockhead |
@@ -261,12 +261,12 @@
 | 253 | 280 | Snippy Splitter |
 | 254 | 280 | Lucy Honer |
 | 255 | 279 | Solace Grace |
-| 256 | 278 | Kelly Howland |
+| 256 | 279 | Kelly Howland |
 | 257 | 278 | Tamara Triplet |
 | 258 | 277 | Giggly Tilt |
-| 259 | 276 | Lori Stembridge |
-| 260 | 275 | Jeremy |
-| 261 | 274 | Jacqueline Jackii Ramos |
+| 259 | 277 | Jacqueline Jackii Ramos |
+| 260 | 276 | Lori Stembridge |
+| 261 | 275 | Jeremy |
 | 262 | 274 | Dominique Melendez |
 | 263 | 274 | Sherry Mooney |
 | 264 | 271 | Tina Thomas |
