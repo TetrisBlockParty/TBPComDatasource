@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:56:44 UTC
+# Standings for team1 as of 2026-06-08 08:57:21 UTC
 
 **Total Participants:** 1764
 
@@ -94,9 +94,9 @@
 | 86 | 913 | MamaBear |
 | 87 | 911 | Richard Horton |
 | 88 | 908 | Danielle Barthelme |
-| 89 | 900 | Moomoo |
-| 90 | 897 | BYM4L |
-| 91 | 889 | Chenell Gillard |
+| 89 | 908 | Chenell Gillard |
+| 90 | 900 | Moomoo |
+| 91 | 897 | BYM4L |
 | 92 | 885 | Keeta Chickswit Scott |
 | 93 | 882 | Jon Gathers |
 | 94 | 867 | She Higgy |
