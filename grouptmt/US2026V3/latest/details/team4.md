@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:56:43 UTC
+# Standings for team4 as of 2026-06-08 09:57:20 UTC
 
 **Total Participants:** 1807
 
@@ -952,117 +952,117 @@
 | 944 | 71 | La Ah Ox |
 | 945 | 71 | Ana Ruiz |
 | 946 | 71 | Nykell Sturdivant |
-| 947 | 70 | Kenyatta Davis |
-| 948 | 70 | LilithMoon |
-| 949 | 70 | Kendall Rhodie |
-| 950 | 70 | Donya' Johnson |
-| 951 | 70 | Lizxxx |
-| 952 | 70 | Uh Lesh Uh |
-| 953 | 70 | Alicia Horsea Rojas |
-| 954 | 70 | Jade Alley |
-| 955 | 70 | Carissa Thorne-See |
-| 956 | 70 | Tactical_B |
-| 957 | 70 | Scot Matthew Bergdorf |
-| 958 | 69 | Vergie Michael |
-| 959 | 69 | Alex Dawn |
-| 960 | 69 | Leslie |
-| 961 | 69 | Goddatbat |
-| 962 | 69 | Ashley Ferguson |
-| 963 | 69 | Derrek Lee |
-| 964 | 69 | Tonia Kay |
-| 965 | 68 | Kelley Shoop |
-| 966 | 68 | Keys Tome |
-| 967 | 68 | Miguel Teixeira |
-| 968 | 68 | Phredda Helene Gavornik |
-| 969 | 68 | Curved carrot |
-| 970 | 68 | Sweetfire |
-| 971 | 68 | FUNBAT |
-| 972 | 68 | Tahira Patrice |
-| 973 | 68 | Kelly Kabelac Loomis |
-| 974 | 67 | John Cotugno |
-| 975 | 67 | James Moore |
-| 976 | 67 | Eric Quan |
-| 977 | 67 | Andy Petersen |
-| 978 | 67 | Snappy Slice |
-| 979 | 67 | Yournightmare |
-| 980 | 67 | Janna Thompson |
-| 981 | 67 | Trishaann Triplett |
-| 982 | 67 | Michael Cruz |
-| 983 | 67 | Glittara |
-| 984 | 67 | Tony Clark |
-| 985 | 67 | Wacky Snaplink |
-| 986 | 66 | james |
-| 987 | 66 | Perky Balanceblock |
-| 988 | 66 | Scarlett Ashley Clark |
-| 989 | 66 | MattJennifer Marie Ericson |
-| 990 | 66 | Danielle Porter |
-| 991 | 65 | Joshua Franklin |
-| 992 | 65 | Mamissa |
-| 993 | 65 | Rebecca Renaud |
-| 994 | 65 | Emjae Tupaz-Rivera |
-| 995 | 65 | EmBem |
-| 996 | 65 | Gabby Simones |
-| 997 | 65 | Shaneé Staunton |
-| 998 | 64 | Jumpy Brickline |
-| 999 | 64 | Dandy Linkgrid |
-| 1000 | 64 | Anthony McAlister |
-| 1001 | 64 | Lovely |
-| 1002 | 64 | Daffney Starr |
-| 1003 | 64 | Krissy Smith |
-| 1004 | 64 | Heather Garrity |
-| 1005 | 64 | Daring Brickbuilder |
-| 1006 | 64 | MamaC |
-| 1007 | 64 | Amy Gutierrez |
-| 1008 | 64 | LaShieka Noland |
-| 1009 | 64 | Megan Lynn |
-| 1010 | 63 | ButterfliesRFree |
-| 1011 | 63 | Bridget Reilly |
-| 1012 | 63 | JP |
-| 1013 | 63 | San |
-| 1014 | 63 | Lush Balanceblock |
-| 1015 | 63 | Chuck Burns |
-| 1016 | 62 | Pink Tetramino |
-| 1017 | 62 | Sara Cobb |
-| 1018 | 62 | Casey Thomas |
-| 1019 | 62 | Zippy Snaplink |
-| 1020 | 62 | Marie Culbert |
-| 1021 | 62 | Giggly Gridzone |
-| 1022 | 62 | Shane Tate |
-| 1023 | 62 | Leslie Ramos |
-| 1024 | 61 | Danielle Sulano |
-| 1025 | 61 | Snappy Fill |
-| 1026 | 61 | Michellee Lewis |
-| 1027 | 61 | Archer Family Mayhem |
-| 1028 | 61 | Charles Chauffe |
-| 1029 | 61 | Maicy Darrah |
-| 1030 | 61 | Becky Bernazal |
-| 1031 | 61 | Luunii |
-| 1032 | 61 | Heidi Lyn Ramirez |
-| 1033 | 61 | MsThick SrtLady Williams |
-| 1034 | 61 | Jessica Caminos |
-| 1035 | 61 | Milton Lawrence |
-| 1036 | 60 | Brittany LeGros |
-| 1037 | 60 | Jessica Kelly |
-| 1038 | 60 | Deanne Silverdahl |
-| 1039 | 60 | Sha Ta Nay Mitchell |
-| 1040 | 60 | Loony Edge |
-| 1041 | 60 | Koren Heersink |
-| 1042 | 60 | Keisha Petway |
-| 1043 | 60 | Saucy Matchfit |
-| 1044 | 60 | taya |
-| 1045 | 60 | Bumpy Morris |
-| 1046 | 60 | Tipsy Curvetile |
-| 1047 | 60 | Lemus |
-| 1048 | 60 | Chris Rowe |
-| 1049 | 60 | Gingerale<3 |
-| 1050 | 60 | Brett |
-| 1051 | 60 | Chelsea Costa |
-| 1052 | 60 | Laryssia Taylor |
-| 1053 | 60 | Dsay Yates |
-| 1054 | 60 | Charissa W Walton |
-| 1055 | 60 | Tiffy |
-| 1056 | 60 | Gualberto Ramirez |
-| 1057 | 60 | Tommy Thomas |
+| 947 | 70 | Shaneé Staunton |
+| 948 | 70 | Kenyatta Davis |
+| 949 | 70 | LilithMoon |
+| 950 | 70 | Kendall Rhodie |
+| 951 | 70 | Donya' Johnson |
+| 952 | 70 | Lizxxx |
+| 953 | 70 | Uh Lesh Uh |
+| 954 | 70 | Alicia Horsea Rojas |
+| 955 | 70 | Jade Alley |
+| 956 | 70 | Carissa Thorne-See |
+| 957 | 70 | Tactical_B |
+| 958 | 70 | Scot Matthew Bergdorf |
+| 959 | 69 | Vergie Michael |
+| 960 | 69 | Alex Dawn |
+| 961 | 69 | Leslie |
+| 962 | 69 | Goddatbat |
+| 963 | 69 | Ashley Ferguson |
+| 964 | 69 | Derrek Lee |
+| 965 | 69 | Tonia Kay |
+| 966 | 68 | Kelley Shoop |
+| 967 | 68 | Keys Tome |
+| 968 | 68 | Miguel Teixeira |
+| 969 | 68 | Phredda Helene Gavornik |
+| 970 | 68 | Curved carrot |
+| 971 | 68 | Sweetfire |
+| 972 | 68 | FUNBAT |
+| 973 | 68 | Tahira Patrice |
+| 974 | 68 | Kelly Kabelac Loomis |
+| 975 | 67 | John Cotugno |
+| 976 | 67 | James Moore |
+| 977 | 67 | Eric Quan |
+| 978 | 67 | Andy Petersen |
+| 979 | 67 | Snappy Slice |
+| 980 | 67 | Yournightmare |
+| 981 | 67 | Janna Thompson |
+| 982 | 67 | Trishaann Triplett |
+| 983 | 67 | Michael Cruz |
+| 984 | 67 | Glittara |
+| 985 | 67 | Tony Clark |
+| 986 | 67 | Wacky Snaplink |
+| 987 | 66 | james |
+| 988 | 66 | Perky Balanceblock |
+| 989 | 66 | Scarlett Ashley Clark |
+| 990 | 66 | MattJennifer Marie Ericson |
+| 991 | 66 | Danielle Porter |
+| 992 | 65 | Joshua Franklin |
+| 993 | 65 | Mamissa |
+| 994 | 65 | Rebecca Renaud |
+| 995 | 65 | Emjae Tupaz-Rivera |
+| 996 | 65 | EmBem |
+| 997 | 65 | Gabby Simones |
+| 998 | 64 | Dandy Linkgrid |
+| 999 | 64 | Anthony McAlister |
+| 1000 | 64 | Lovely |
+| 1001 | 64 | Daffney Starr |
+| 1002 | 64 | Krissy Smith |
+| 1003 | 64 | Heather Garrity |
+| 1004 | 64 | Daring Brickbuilder |
+| 1005 | 64 | MamaC |
+| 1006 | 64 | Amy Gutierrez |
+| 1007 | 64 | LaShieka Noland |
+| 1008 | 64 | Megan Lynn |
+| 1009 | 64 | Jumpy Brickline |
+| 1010 | 63 | Chuck Burns |
+| 1011 | 63 | ButterfliesRFree |
+| 1012 | 63 | Bridget Reilly |
+| 1013 | 63 | JP |
+| 1014 | 63 | San |
+| 1015 | 63 | Lush Balanceblock |
+| 1016 | 62 | Sara Cobb |
+| 1017 | 62 | Casey Thomas |
+| 1018 | 62 | Zippy Snaplink |
+| 1019 | 62 | Marie Culbert |
+| 1020 | 62 | Giggly Gridzone |
+| 1021 | 62 | Shane Tate |
+| 1022 | 62 | Leslie Ramos |
+| 1023 | 62 | Pink Tetramino |
+| 1024 | 61 | Jessica Caminos |
+| 1025 | 61 | Milton Lawrence |
+| 1026 | 61 | Danielle Sulano |
+| 1027 | 61 | Snappy Fill |
+| 1028 | 61 | Michellee Lewis |
+| 1029 | 61 | Archer Family Mayhem |
+| 1030 | 61 | Charles Chauffe |
+| 1031 | 61 | Maicy Darrah |
+| 1032 | 61 | Becky Bernazal |
+| 1033 | 61 | Luunii |
+| 1034 | 61 | Heidi Lyn Ramirez |
+| 1035 | 61 | MsThick SrtLady Williams |
+| 1036 | 60 | Jessica Kelly |
+| 1037 | 60 | Deanne Silverdahl |
+| 1038 | 60 | Sha Ta Nay Mitchell |
+| 1039 | 60 | Loony Edge |
+| 1040 | 60 | Koren Heersink |
+| 1041 | 60 | Keisha Petway |
+| 1042 | 60 | Saucy Matchfit |
+| 1043 | 60 | taya |
+| 1044 | 60 | Bumpy Morris |
+| 1045 | 60 | Tipsy Curvetile |
+| 1046 | 60 | Lemus |
+| 1047 | 60 | Chris Rowe |
+| 1048 | 60 | Gingerale<3 |
+| 1049 | 60 | Brett |
+| 1050 | 60 | Chelsea Costa |
+| 1051 | 60 | Laryssia Taylor |
+| 1052 | 60 | Dsay Yates |
+| 1053 | 60 | Charissa W Walton |
+| 1054 | 60 | Tiffy |
+| 1055 | 60 | Gualberto Ramirez |
+| 1056 | 60 | Tommy Thomas |
+| 1057 | 60 | Brittany LeGros |
 | 1058 | 59 | Tammy Lasseigne |
 | 1059 | 59 | Ash |
 | 1060 | 59 | Joe Joe |
@@ -1618,36 +1618,36 @@
 | 1610 | 17 | Joseph Gay |
 | 1611 | 16 | Christina Hagan |
 | 1612 | 16 | Cheeky Linkpiece |
-| 1613 | 16 | AngReBo |
-| 1614 | 16 | Bekka Walker |
-| 1615 | 16 | Melissa Robinson |
-| 1616 | 16 | Mimi Dominguez |
-| 1617 | 16 | Scuba steve |
-| 1618 | 16 | Mike Adkins |
-| 1619 | 16 | Valerie Morrison |
-| 1620 | 16 | Iesha Jefferson |
-| 1621 | 16 | Maliyah An |
-| 1622 | 16 | Fumiko Demello |
-| 1623 | 16 | Nissi |
-| 1624 | 16 | Rowboat |
-| 1625 | 16 | Fancy Tiley |
-| 1626 | 16 | Mr.Corbin |
-| 1627 | 16 | Pauline Cortez |
-| 1628 | 15 | Chris Abney |
-| 1629 | 15 | Kiara Johnson |
-| 1630 | 15 | Tha Don |
-| 1631 | 15 | Tricki Woo |
-| 1632 | 15 | Medrano Cruz Yaquelyn |
-| 1633 | 15 | Wacky Clusterer |
-| 1634 | 15 | Speedy Rollbuilder |
-| 1635 | 15 | Nicole Gilmore |
-| 1636 | 15 | Diana Acosta |
-| 1637 | 15 | Melia Christiansen |
-| 1638 | 15 | Hashanah Williams |
-| 1639 | 15 | Zanny |
-| 1640 | 15 | Tika Boo |
-| 1641 | 15 | Jill Chapman-Yancer |
-| 1642 | 15 | Peachy Linkbuilder |
+| 1613 | 16 | Peachy Linkbuilder |
+| 1614 | 16 | AngReBo |
+| 1615 | 16 | Bekka Walker |
+| 1616 | 16 | Melissa Robinson |
+| 1617 | 16 | Mimi Dominguez |
+| 1618 | 16 | Scuba steve |
+| 1619 | 16 | Mike Adkins |
+| 1620 | 16 | Valerie Morrison |
+| 1621 | 16 | Iesha Jefferson |
+| 1622 | 16 | Maliyah An |
+| 1623 | 16 | Fumiko Demello |
+| 1624 | 16 | Nissi |
+| 1625 | 16 | Rowboat |
+| 1626 | 16 | Fancy Tiley |
+| 1627 | 16 | Mr.Corbin |
+| 1628 | 16 | Pauline Cortez |
+| 1629 | 15 | Chris Abney |
+| 1630 | 15 | Kiara Johnson |
+| 1631 | 15 | Tha Don |
+| 1632 | 15 | Tricki Woo |
+| 1633 | 15 | Medrano Cruz Yaquelyn |
+| 1634 | 15 | Wacky Clusterer |
+| 1635 | 15 | Speedy Rollbuilder |
+| 1636 | 15 | Nicole Gilmore |
+| 1637 | 15 | Diana Acosta |
+| 1638 | 15 | Melia Christiansen |
+| 1639 | 15 | Hashanah Williams |
+| 1640 | 15 | Zanny |
+| 1641 | 15 | Tika Boo |
+| 1642 | 15 | Jill Chapman-Yancer |
 | 1643 | 15 | Walker Tracie |
 | 1644 | 14 | Laura Ratliff |
 | 1645 | 14 | Jolene Stieren |
