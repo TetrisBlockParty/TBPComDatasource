@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:59:21 UTC
+# Standings for team1 as of 2026-06-08 08:00:43 UTC
 
 **Total Participants:** 1759
 
@@ -183,7 +183,7 @@
 | 175 | 420 | Slinky Party |
 | 176 | 417 | Eugina Slater |
 | 177 | 417 | Dena Marie Lee |
-| 178 | 415 | Plucky Slamdrop |
+| 178 | 416 | Plucky Slamdrop |
 | 179 | 414 | Jenna Renee |
 | 180 | 413 | Murg4dr01d |
 | 181 | 412 | Dee McCool |
@@ -259,17 +259,17 @@
 | 251 | 303 | Queenie Perry |
 | 252 | 302 | Chummy Frame |
 | 253 | 302 | Randizzle |
-| 254 | 300 | David Fuentes |
-| 255 | 300 | Ketrell Bailey |
-| 256 | 296 | Nikki Hogan |
-| 257 | 294 | Tonya McElroy |
-| 258 | 293 | Tonya Lee Sanders |
-| 259 | 292 | Ann Chung |
-| 260 | 292 | Trina Greenwood |
-| 261 | 291 | Brian Taylor |
-| 262 | 290 | Elizabeth Vega Coreano |
-| 263 | 289 | Cortaz Lawrie |
-| 264 | 288 | Dennis J Herron II |
+| 254 | 300 | Ketrell Bailey |
+| 255 | 300 | David Fuentes |
+| 256 | 298 | Dennis J Herron II |
+| 257 | 296 | Nikki Hogan |
+| 258 | 294 | Tonya McElroy |
+| 259 | 293 | Tonya Lee Sanders |
+| 260 | 292 | Ann Chung |
+| 261 | 292 | Trina Greenwood |
+| 262 | 291 | Brian Taylor |
+| 263 | 290 | Elizabeth Vega Coreano |
+| 264 | 289 | Cortaz Lawrie |
 | 265 | 287 | Jazzy Fireflighters |
 | 266 | 287 | SyTheEvilGenius1 |
 | 267 | 284 | Frisky Fall |
