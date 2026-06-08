@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 11:57:21 UTC
+# Standings for team4 as of 2026-06-08 11:58:19 UTC
 
 **Total Participants:** 1820
 
@@ -45,7 +45,7 @@
 | 37 | 3101 | Leigh Pierce |
 | 38 | 2800 | Annastaissia Todd |
 | 39 | 2736 | Juan Ford |
-| 40 | 2615 | Victoria Ver |
+| 40 | 2616 | Victoria Ver |
 | 41 | 2433 | Alexandria Frazier |
 | 42 | 2400 | Michele |
 | 43 | 2162 | Dana Rinaldi |
@@ -81,22 +81,22 @@
 | 73 | 1106 | J |
 | 74 | 1086 | Lupe Alburquerque |
 | 75 | 1050 | Sassy Column |
-| 76 | 1036 | Joseph Anthony Watkins |
-| 77 | 1024 | Маркус Вік |
-| 78 | 1009 | Tiffany Loree Tiffany Oneill |
-| 79 | 994 | Snippy Grid |
-| 80 | 991 | Tina Shalay Hayes |
-| 81 | 972 | Damon Gaston |
-| 82 | 971 | Loony Towerer |
-| 83 | 952 | Alala.Cersei |
-| 84 | 951 | Hannah Pazar |
-| 85 | 935 | Jonathan Hewitt |
-| 86 | 924 | woopa 716 |
-| 87 | 921 | Trice Stevenson |
-| 88 | 906 | Kelley Roach |
-| 89 | 905 | Cherry |
-| 90 | 902 | Esther Hadassah |
-| 91 | 900 | 2 kool |
+| 76 | 1050 | 2 kool |
+| 77 | 1036 | Joseph Anthony Watkins |
+| 78 | 1024 | Маркус Вік |
+| 79 | 1009 | Tiffany Loree Tiffany Oneill |
+| 80 | 994 | Snippy Grid |
+| 81 | 991 | Tina Shalay Hayes |
+| 82 | 972 | Damon Gaston |
+| 83 | 971 | Loony Towerer |
+| 84 | 952 | Alala.Cersei |
+| 85 | 951 | Hannah Pazar |
+| 86 | 935 | Jonathan Hewitt |
+| 87 | 924 | woopa 716 |
+| 88 | 921 | Trice Stevenson |
+| 89 | 906 | Kelley Roach |
+| 90 | 905 | Cherry |
+| 91 | 902 | Esther Hadassah |
 | 92 | 859 | Blayne Kole |
 | 93 | 848 | Beee |
 | 94 | 830 | Kitsune Bi |
@@ -253,10 +253,10 @@
 | 245 | 296 | beauxie |
 | 246 | 296 | WeeWooWee |
 | 247 | 296 | PerfectPieces |
-| 248 | 293 | Logan Two-dubs Baker |
-| 249 | 290 | Brian Woods |
-| 250 | 290 | Tawna Curry |
-| 251 | 289 | Pepper |
+| 248 | 295 | Pepper |
+| 249 | 293 | Logan Two-dubs Baker |
+| 250 | 290 | Brian Woods |
+| 251 | 290 | Tawna Curry |
 | 252 | 289 | Shepreneur Sade |
 | 253 | 289 | Solace Grace |
 | 254 | 287 | Cheery Risegrid |
@@ -415,9 +415,9 @@
 | 407 | 194 | Danny Keich III |
 | 408 | 194 | Jumpy Builderpiece |
 | 409 | 192 | Ralph Hell Rell Williams |
-| 410 | 191 | Dan Butcher |
-| 411 | 190 | Miss Beast |
-| 412 | 190 | Diana Fernandez |
+| 410 | 192 | Diana Fernandez |
+| 411 | 191 | Dan Butcher |
+| 412 | 190 | Miss Beast |
 | 413 | 190 | Name |
 | 414 | 189 | Snazzy Corner |
 | 415 | 189 | Silly Fallzone |
@@ -578,16 +578,16 @@
 | 570 | 135 | Tre'nya Smith |
 | 571 | 135 | Lupe Chapa |
 | 572 | 134 | Shawna Downey |
-| 573 | 134 | Josh Keith Travierso |
-| 574 | 134 | Clever Patterner |
-| 575 | 133 | Dennis Montoya |
-| 576 | 133 | Sonia Cordero-Martinez |
-| 577 | 133 | Domo Dpn |
-| 578 | 133 | Frilly Zoney |
-| 579 | 132 | Gma420 |
-| 580 | 132 | Virgil Mayfield-Brown |
-| 581 | 132 | MrLoner Stoner |
-| 582 | 132 | Lisa Jones |
+| 573 | 134 | Lisa Jones |
+| 574 | 134 | Josh Keith Travierso |
+| 575 | 134 | Clever Patterner |
+| 576 | 133 | Dennis Montoya |
+| 577 | 133 | Sonia Cordero-Martinez |
+| 578 | 133 | Domo Dpn |
+| 579 | 133 | Frilly Zoney |
+| 580 | 132 | Gma420 |
+| 581 | 132 | Virgil Mayfield-Brown |
+| 582 | 132 | MrLoner Stoner |
 | 583 | 132 | William Brooks |
 | 584 | 131 | luluraine |
 | 585 | 131 | Winter Moon |
@@ -780,42 +780,42 @@
 | 772 | 94 | Lala |
 | 773 | 94 | Reina Pagan |
 | 774 | 94 | Elli Wright |
-| 775 | 94 | Carlos Amaya |
-| 776 | 94 | Erika Rubio |
-| 777 | 94 | Cranky Twistpiece |
-| 778 | 93 | Rocky |
-| 779 | 93 | Fancy Riser |
-| 780 | 93 | Joha Mldo Castillo |
-| 781 | 93 | Stefanie Street |
-| 782 | 92 | REPENT |
-| 783 | 92 | Peterson Cottontail |
-| 784 | 92 | Happy Strikerpiece |
-| 785 | 92 | ShaniP |
-| 786 | 92 | 94Blockhead |
-| 787 | 92 | Autumn Maher |
-| 788 | 91 | Slinky Column |
+| 775 | 94 | Cranky Twistpiece |
+| 776 | 94 | Carlos Amaya |
+| 777 | 94 | Erika Rubio |
+| 778 | 93 | Joha Mldo Castillo |
+| 779 | 93 | Rocky |
+| 780 | 93 | Stefanie Street |
+| 781 | 93 | Fancy Riser |
+| 782 | 92 | ShaniP |
+| 783 | 92 | Happy Strikerpiece |
+| 784 | 92 | REPENT |
+| 785 | 92 | 94Blockhead |
+| 786 | 92 | Autumn Maher |
+| 787 | 92 | Peterson Cottontail |
+| 788 | 91 | Mann Manson |
 | 789 | 91 | Michelle Michelle |
-| 790 | 91 | Mann Manson |
+| 790 | 91 | Slinky Column |
 | 791 | 91 | Giggy Risegrid |
-| 792 | 90 | Breezy Brickfit |
+| 792 | 90 | Dexter Hammond Jr |
 | 793 | 90 | Stephanie Meinhart |
-| 794 | 90 | Dexter Hammond Jr |
-| 795 | 90 | Christina Williams |
+| 794 | 90 | Christina Williams |
+| 795 | 90 | Leslie |
 | 796 | 90 | Tigger |
-| 797 | 90 | Sally Hiraldo |
-| 798 | 89 | Alicia |
-| 799 | 89 | Bon Jovi |
-| 800 | 89 | Khylee DarDar |
-| 801 | 89 | Allrise99 |
-| 802 | 89 | Marisela Alvarado |
-| 803 | 89 | J.Wo |
-| 804 | 88 | Bigmamalizzet Latto |
-| 805 | 88 | Nikcole Alexis Bryan |
-| 806 | 88 | Happy Toast |
-| 807 | 88 | MrsAddams724 |
-| 808 | 88 | Cozy Towerpiece |
-| 809 | 87 | Tana-Marie Lynn McCarty-Rolf |
-| 810 | 87 | Leslie |
+| 797 | 90 | Breezy Brickfit |
+| 798 | 90 | Sally Hiraldo |
+| 799 | 89 | Alicia |
+| 800 | 89 | Bon Jovi |
+| 801 | 89 | Khylee DarDar |
+| 802 | 89 | Allrise99 |
+| 803 | 89 | Marisela Alvarado |
+| 804 | 89 | J.Wo |
+| 805 | 88 | Bigmamalizzet Latto |
+| 806 | 88 | Nikcole Alexis Bryan |
+| 807 | 88 | Happy Toast |
+| 808 | 88 | MrsAddams724 |
+| 809 | 88 | Cozy Towerpiece |
+| 810 | 87 | Tana-Marie Lynn McCarty-Rolf |
 | 811 | 87 | Limbo |
 | 812 | 87 | Oc Tive |
 | 813 | 87 | da1ndonly |
