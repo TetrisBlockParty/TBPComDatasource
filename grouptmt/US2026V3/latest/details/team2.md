@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:10:42 UTC
+# Standings for team2 as of 2026-06-08 17:11:20 UTC
 
 **Total Participants:** 2220
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 29385 | Summer Harrison |
 | 2 | 23400 | Mochi |
-| 3 | 17254 | Puce guide 9156 |
+| 3 | 17454 | Puce guide 9156 |
 | 4 | 14612 | Lacey Nolting |
 | 5 | 12739 | Crystalin Heath Lewis |
 | 6 | 9977 | Cori Keberlein |
@@ -89,9 +89,9 @@
 | 81 | 1370 | Jenny Graham |
 | 82 | 1352 | Marquita Toliver |
 | 83 | 1349 | Poppy |
-| 84 | 1344 | Ashlea McBlaine |
-| 85 | 1341 | Eileen Egan |
-| 86 | 1333 | Jaime P Lamb |
+| 84 | 1345 | Jaime P Lamb |
+| 85 | 1344 | Ashlea McBlaine |
+| 86 | 1341 | Eileen Egan |
 | 87 | 1331 | Suki Kaur |
 | 88 | 1323 | joey |
 | 89 | 1322 | Lisa Breiding |
@@ -1387,44 +1387,44 @@
 | 1379 | 56 | Danielle Etchison Mask |
 | 1380 | 56 | Brandon Ray Holt |
 | 1381 | 56 | CountryGurl |
-| 1382 | 56 | Louise LeBlanc |
-| 1383 | 56 | Perky Rollfit |
+| 1382 | 56 | Perky Rollfit |
+| 1383 | 56 | Louise LeBlanc |
 | 1384 | 56 | Bobbie Carrol |
 | 1385 | 56 | Joe Duffer |
 | 1386 | 56 | Daniel Cline |
 | 1387 | 56 | Armordguy |
 | 1388 | 56 | Breanna Dykes |
 | 1389 | 55 | Misty McElroy |
-| 1390 | 55 | Gilbert Medina |
-| 1391 | 55 | Silly Cluster |
-| 1392 | 55 | Flashy Blockfall |
-| 1393 | 55 | Cheryl Stevens |
-| 1394 | 55 | chad |
-| 1395 | 55 | Mistress |
-| 1396 | 54 | Alexis Turner |
-| 1397 | 54 | Heather Lewis |
-| 1398 | 54 | Jess Duehring |
+| 1390 | 55 | Amanda |
+| 1391 | 55 | Gilbert Medina |
+| 1392 | 55 | Silly Cluster |
+| 1393 | 55 | Flashy Blockfall |
+| 1394 | 55 | Cheryl Stevens |
+| 1395 | 55 | chad |
+| 1396 | 55 | Mistress |
+| 1397 | 54 | Alexis Turner |
+| 1398 | 54 | Heather Lewis |
 | 1399 | 54 | Glitzy Fallgrid |
-| 1400 | 54 | Cynthia Rose Candelaria |
-| 1401 | 54 | Lisa |
-| 1402 | 54 | Swanky Twister |
-| 1403 | 54 | Josie Mendivil |
-| 1404 | 54 | Lakeisha Ryder |
-| 1405 | 54 | Lively Liner |
-| 1406 | 54 | Christina Nycol |
-| 1407 | 54 | Jumpy Linkroll |
-| 1408 | 53 | Daring Pivotfall |
-| 1409 | 53 | Kristen Alta |
-| 1410 | 53 | Thomas Johnstone |
-| 1411 | 53 | Jamie Benge |
-| 1412 | 53 | Topknot13 |
+| 1400 | 54 | Jess Duehring |
+| 1401 | 54 | Swanky Twister |
+| 1402 | 54 | Cynthia Rose Candelaria |
+| 1403 | 54 | Lisa |
+| 1404 | 54 | Josie Mendivil |
+| 1405 | 54 | Lakeisha Ryder |
+| 1406 | 54 | Lively Liner |
+| 1407 | 54 | Christina Nycol |
+| 1408 | 54 | Jumpy Linkroll |
+| 1409 | 53 | Daring Pivotfall |
+| 1410 | 53 | Kristen Alta |
+| 1411 | 53 | Thomas Johnstone |
+| 1412 | 53 | Jamie Benge |
 | 1413 | 53 | Gigi |
-| 1414 | 53 | Kimberly Rochon |
-| 1415 | 53 | Judy Bailey |
-| 1416 | 52 | Daniel Flathers |
-| 1417 | 52 | Jolly Balanceblock |
+| 1414 | 53 | Topknot13 |
+| 1415 | 53 | Kimberly Rochon |
+| 1416 | 53 | Judy Bailey |
+| 1417 | 52 | Daniel Flathers |
 | 1418 | 52 | Amy |
-| 1419 | 52 | Amanda |
+| 1419 | 52 | Jolly Balanceblock |
 | 1420 | 52 | Chirpy Shiftspin |
 | 1421 | 52 | Bridgett Smith |
 | 1422 | 52 | Samantha LeBlanc |

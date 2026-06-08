@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 17:10:42 UTC
+# Standings for team4 as of 2026-06-08 17:11:20 UTC
 
 **Total Participants:** 1875
 
@@ -1009,59 +1009,59 @@
 | 1001 | 73 | Yseoj M. Zurc |
 | 1002 | 73 | Bo Hagan |
 | 1003 | 73 | Pap337 |
-| 1004 | 72 | Donna Howard |
+| 1004 | 72 | Kassey M. Clark |
 | 1005 | 72 | Monkey |
-| 1006 | 72 | Kassey M. Clark |
-| 1007 | 72 | Vicente Bolaños Jr. |
-| 1008 | 72 | Cranky Twisterfit |
-| 1009 | 72 | Martha Fisher |
+| 1006 | 72 | Vicente Bolaños Jr. |
+| 1007 | 72 | Martha Fisher |
+| 1008 | 72 | Donna Howard |
+| 1009 | 72 | Cranky Twisterfit |
 | 1010 | 72 | Bridget Reilly |
 | 1011 | 72 | Musky Pits |
 | 1012 | 71 | Kiki Moore |
 | 1013 | 71 | Bouncy Blockclear |
 | 1014 | 71 | Nykell Sturdivant |
 | 1015 | 71 | Pink Tetramino |
-| 1016 | 71 | La Ah Ox |
-| 1017 | 71 | Hasty Snapmatch |
-| 1018 | 71 | Catherine Garza |
-| 1019 | 71 | Diqthot |
-| 1020 | 70 | Carissa Thorne-See |
-| 1021 | 70 | LilithMoon |
-| 1022 | 70 | Uh Lesh Uh |
-| 1023 | 70 | Jade Alley |
-| 1024 | 70 | Alicia Horsea Rojas |
-| 1025 | 70 | Lizxxx |
-| 1026 | 70 | Jada Jordyn Campbell |
-| 1027 | 70 | Kami |
-| 1028 | 70 | Donya' Johnson |
-| 1029 | 70 | Jill Chapman-Yancer |
-| 1030 | 69 | Goddatbat |
-| 1031 | 69 | Derrek Lee |
-| 1032 | 69 | Ashley Ferguson |
-| 1033 | 69 | Jumpy Brickline |
-| 1034 | 69 | Tonia Kay |
+| 1016 | 71 | Diqthot |
+| 1017 | 71 | Catherine Garza |
+| 1018 | 71 | La Ah Ox |
+| 1019 | 71 | San |
+| 1020 | 71 | Hasty Snapmatch |
+| 1021 | 70 | Alicia Horsea Rojas |
+| 1022 | 70 | LilithMoon |
+| 1023 | 70 | Carissa Thorne-See |
+| 1024 | 70 | Lizxxx |
+| 1025 | 70 | Uh Lesh Uh |
+| 1026 | 70 | Jade Alley |
+| 1027 | 70 | Jada Jordyn Campbell |
+| 1028 | 70 | Kami |
+| 1029 | 70 | Donya' Johnson |
+| 1030 | 70 | Jill Chapman-Yancer |
+| 1031 | 69 | Goddatbat |
+| 1032 | 69 | Derrek Lee |
+| 1033 | 69 | Ashley Ferguson |
+| 1034 | 69 | Jumpy Brickline |
 | 1035 | 69 | Vergie Michael |
 | 1036 | 69 | Joe Joe |
-| 1037 | 68 | Phredda Helene Gavornik |
-| 1038 | 68 | Tahira Patrice |
-| 1039 | 68 | Curved carrot |
-| 1040 | 68 | Sweetfire |
-| 1041 | 68 | Keys Tome |
-| 1042 | 68 | Kelley Shoop |
-| 1043 | 68 | FUNBAT |
-| 1044 | 68 | Jace Warren |
-| 1045 | 68 | Kelly Kabelac Loomis |
-| 1046 | 67 | James Moore |
-| 1047 | 67 | John Cotugno |
-| 1048 | 67 | Beezy |
-| 1049 | 67 | Michael Cruz |
+| 1037 | 69 | Tonia Kay |
+| 1038 | 68 | Sweetfire |
+| 1039 | 68 | Tahira Patrice |
+| 1040 | 68 | Phredda Helene Gavornik |
+| 1041 | 68 | Curved carrot |
+| 1042 | 68 | Keys Tome |
+| 1043 | 68 | Kelley Shoop |
+| 1044 | 68 | FUNBAT |
+| 1045 | 68 | Jace Warren |
+| 1046 | 68 | Kelly Kabelac Loomis |
+| 1047 | 67 | James Moore |
+| 1048 | 67 | John Cotugno |
+| 1049 | 67 | Beezy |
 | 1050 | 67 | Wacky Snaplink |
 | 1051 | 67 | Yournightmare |
 | 1052 | 67 | Glittara |
-| 1053 | 67 | Eric Quan |
-| 1054 | 67 | Snappy Slice |
-| 1055 | 66 | MattJennifer Marie Ericson |
-| 1056 | 66 | San |
+| 1053 | 67 | Michael Cruz |
+| 1054 | 67 | Eric Quan |
+| 1055 | 67 | Snappy Slice |
+| 1056 | 66 | MattJennifer Marie Ericson |
 | 1057 | 66 | Lashae |
 | 1058 | 66 | james |
 | 1059 | 66 | Mike Artis |
@@ -1072,27 +1072,27 @@
 | 1064 | 66 | Scarlett Ashley Clark |
 | 1065 | 66 | Kristan Hoffman |
 | 1066 | 65 | Mamissa |
-| 1067 | 65 | EmBem |
-| 1068 | 65 | Gabby Simones |
-| 1069 | 65 | Joshua Franklin |
-| 1070 | 65 | Rebecca Renaud |
-| 1071 | 64 | LaShieka Noland |
-| 1072 | 64 | Daring Brickbuilder |
-| 1073 | 64 | MamaC |
-| 1074 | 64 | CRsLady |
-| 1075 | 64 | Megan Lynn |
-| 1076 | 64 | Jennifer Tate |
-| 1077 | 64 | Amy Gutierrez |
+| 1067 | 65 | Monica Shupe |
+| 1068 | 65 | EmBem |
+| 1069 | 65 | Gabby Simones |
+| 1070 | 65 | Joshua Franklin |
+| 1071 | 65 | Rebecca Renaud |
+| 1072 | 64 | LaShieka Noland |
+| 1073 | 64 | Daring Brickbuilder |
+| 1074 | 64 | MamaC |
+| 1075 | 64 | CRsLady |
+| 1076 | 64 | Megan Lynn |
+| 1077 | 64 | Jennifer Tate |
 | 1078 | 64 | Lovely |
 | 1079 | 64 | Dandy Linkgrid |
-| 1080 | 63 | Charles Chauffe |
-| 1081 | 63 | JP |
-| 1082 | 63 | ButterfliesRFree |
-| 1083 | 62 | Zippy Snaplink |
-| 1084 | 62 | Bam SwaggSpitter King |
-| 1085 | 62 | Shane Tate |
-| 1086 | 62 | Giggly Gridzone |
-| 1087 | 61 | Monica Shupe |
+| 1080 | 64 | Amy Gutierrez |
+| 1081 | 63 | Charles Chauffe |
+| 1082 | 63 | JP |
+| 1083 | 63 | ButterfliesRFree |
+| 1084 | 62 | Zippy Snaplink |
+| 1085 | 62 | Bam SwaggSpitter King |
+| 1086 | 62 | Shane Tate |
+| 1087 | 62 | Giggly Gridzone |
 | 1088 | 61 | Bouncy Brickster |
 | 1089 | 61 | Jessica Caminos |
 | 1090 | 61 | Conela Rouse Goldstein |
@@ -1292,15 +1292,15 @@
 | 1284 | 45 | Jennifer O'Connell |
 | 1285 | 45 | BurnedCrab52 |
 | 1286 | 45 | RaeRae |
-| 1287 | 44 | SweetChaos |
-| 1288 | 44 | David Kirschner |
-| 1289 | 44 | Sydney Taylor Sileno |
+| 1287 | 44 | EJ Frazier |
+| 1288 | 44 | Sydney Taylor Sileno |
+| 1289 | 44 | David Kirschner |
 | 1290 | 44 | Mayleen Delgado |
-| 1291 | 44 | EJ Frazier |
-| 1292 | 44 | Kimmie Warren |
-| 1293 | 44 | Cauntay Youngking Williams |
-| 1294 | 44 | Nikki |
-| 1295 | 44 | Slinky Snapfit |
+| 1291 | 44 | Kimmie Warren |
+| 1292 | 44 | Cauntay Youngking Williams |
+| 1293 | 44 | Nikki |
+| 1294 | 44 | Slinky Snapfit |
+| 1295 | 44 | SweetChaos |
 | 1296 | 44 | Chris Norman |
 | 1297 | 44 | Ladybug |
 | 1298 | 44 | Alicia |
@@ -1312,54 +1312,54 @@
 | 1304 | 43 | Candace Dean |
 | 1305 | 43 | Lin Ferguson |
 | 1306 | 43 | Purple Queen |
-| 1307 | 43 | Amina Walker |
+| 1307 | 43 | Shirley Williams |
 | 1308 | 43 | Baby cat |
-| 1309 | 43 | Shirley Williams |
+| 1309 | 43 | Amina Walker |
 | 1310 | 42 | Snappy Patternfall |
-| 1311 | 42 | Shupurplenurkle |
+| 1311 | 42 | Amy |
 | 1312 | 42 | Chelle Williams |
-| 1313 | 42 | Mighty Dash |
-| 1314 | 42 | Mounique Melenciano |
-| 1315 | 42 | Tika Boo |
-| 1316 | 42 | Gr8flluv1 |
-| 1317 | 41 | Justin Sercu |
-| 1318 | 41 | Bold Clear |
-| 1319 | 41 | Bookgirl69 |
-| 1320 | 41 | Jordan Tamayia Williams |
-| 1321 | 41 | Tipsy Patternfit |
-| 1322 | 41 | Kasey Lynne |
+| 1313 | 42 | Shupurplenurkle |
+| 1314 | 42 | Mighty Dash |
+| 1315 | 42 | Mounique Melenciano |
+| 1316 | 42 | Tika Boo |
+| 1317 | 42 | Gr8flluv1 |
+| 1318 | 41 | Justin Sercu |
+| 1319 | 41 | Bold Clear |
+| 1320 | 41 | Bookgirl69 |
+| 1321 | 41 | Jordan Tamayia Williams |
+| 1322 | 41 | Tipsy Patternfit |
 | 1323 | 41 | Amanda Serrano Ruffner |
-| 1324 | 40 | John Henry |
-| 1325 | 40 | Jolly Dashy |
-| 1326 | 40 | Kristie ML SneekaPuff |
-| 1327 | 40 | Big Dooka |
-| 1328 | 40 | Wayne Mire |
-| 1329 | 40 | Leslie Bamonte |
-| 1330 | 40 | Kissyfurr |
-| 1331 | 40 | Sherri Lorent |
-| 1332 | 40 | nanaz86 |
-| 1333 | 40 | Amanda Albritton Moore |
-| 1334 | 40 | babygirlw |
-| 1335 | 40 | Kristal |
-| 1336 | 40 | MamaBear3 |
-| 1337 | 40 | Lawrissa Andrews |
-| 1338 | 40 | Sherri Lynn |
-| 1339 | 40 | Pickles |
-| 1340 | 40 | Kiara Itzel Crowe |
-| 1341 | 40 | Cynthia Bolden |
-| 1342 | 40 | Glitzy Cascadefit |
-| 1343 | 40 | Michael Taul |
-| 1344 | 40 | Sierra A Hortman |
-| 1345 | 40 | Quirky Fitblock |
-| 1346 | 40 | Dawn Mortimer |
-| 1347 | 40 | Billy Brasher |
-| 1348 | 40 | Glitzy Patternbuilder |
-| 1349 | 40 | Jean Yap |
-| 1350 | 40 | T boo |
-| 1351 | 39 | Carrie Sue Shaffer |
-| 1352 | 39 | JUNE |
-| 1353 | 39 | Dandy Balancer |
-| 1354 | 39 | Amy |
+| 1324 | 41 | Kasey Lynne |
+| 1325 | 40 | John Henry |
+| 1326 | 40 | Jolly Dashy |
+| 1327 | 40 | Kristie ML SneekaPuff |
+| 1328 | 40 | Big Dooka |
+| 1329 | 40 | Wayne Mire |
+| 1330 | 40 | Leslie Bamonte |
+| 1331 | 40 | Kissyfurr |
+| 1332 | 40 | Sherri Lorent |
+| 1333 | 40 | nanaz86 |
+| 1334 | 40 | Amanda Albritton Moore |
+| 1335 | 40 | babygirlw |
+| 1336 | 40 | Kristal |
+| 1337 | 40 | MamaBear3 |
+| 1338 | 40 | Lawrissa Andrews |
+| 1339 | 40 | Sherri Lynn |
+| 1340 | 40 | Pickles |
+| 1341 | 40 | Kiara Itzel Crowe |
+| 1342 | 40 | Cynthia Bolden |
+| 1343 | 40 | Glitzy Cascadefit |
+| 1344 | 40 | Michael Taul |
+| 1345 | 40 | Sierra A Hortman |
+| 1346 | 40 | Quirky Fitblock |
+| 1347 | 40 | Dawn Mortimer |
+| 1348 | 40 | Billy Brasher |
+| 1349 | 40 | Glitzy Patternbuilder |
+| 1350 | 40 | Jean Yap |
+| 1351 | 40 | T boo |
+| 1352 | 39 | Carrie Sue Shaffer |
+| 1353 | 39 | JUNE |
+| 1354 | 39 | Dandy Balancer |
 | 1355 | 39 | Mighty Clicky |
 | 1356 | 39 | Ashie |
 | 1357 | 39 | Chris Davis |
