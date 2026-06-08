@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 23:36:20 UTC
+# Standings for team4 as of 2026-06-08 23:36:44 UTC
 
 **Total Participants:** 1954
 
@@ -29,8 +29,8 @@
 | 21 | 5048 | Chris Hills |
 | 22 | 4982 | Nia Mayfield |
 | 23 | 4939 | Bryony Nicholson |
-| 24 | 4329 | Jackie Lucas |
-| 25 | 4326 | Tyra Brooke Everman Forest |
+| 24 | 4340 | Tyra Brooke Everman Forest |
+| 25 | 4329 | Jackie Lucas |
 | 26 | 4259 | Tonya Brooks-Johnson |
 | 27 | 4217 | Daring Ziggy |
 | 28 | 4149 | Witty Clicky |
@@ -60,8 +60,8 @@
 | 52 | 1952 | Elissa S-k |
 | 53 | 1952 | Jason Allen |
 | 54 | 1889 | Erin Figone |
-| 55 | 1875 | Cal Renee |
-| 56 | 1875 | 626 |
+| 55 | 1875 | 626 |
+| 56 | 1875 | Cal Renee |
 | 57 | 1835 | Blind Bette |
 | 58 | 1743 | Adam J Leong |
 | 59 | 1684 | Dheeh Robles |
@@ -229,10 +229,10 @@
 | 221 | 418 | Shiny Dashy |
 | 222 | 418 | Jojo Ann |
 | 223 | 416 | Lori Stembridge |
-| 224 | 410 | Dae Von |
-| 225 | 409 | LastBoi |
-| 226 | 409 | Samara Garcia |
-| 227 | 409 | Swanky Brickzone |
+| 224 | 415 | Swanky Brickzone |
+| 225 | 410 | Dae Von |
+| 226 | 409 | LastBoi |
+| 227 | 409 | Samara Garcia |
 | 228 | 408 | Bonnie Powell |
 | 229 | 408 | matt |
 | 230 | 406 | Loony Glidepiece |
@@ -513,8 +513,8 @@
 | 505 | 196 | Nicole Colby McCloskey |
 | 506 | 195 | Valerie Silva |
 | 507 | 195 | Karen Small |
-| 508 | 195 | Jen Roe |
-| 509 | 195 | ShaniP |
+| 508 | 195 | ShaniP |
+| 509 | 195 | Jen Roe |
 | 510 | 194 | Perry Ransom |
 | 511 | 194 | Dena Lynn Rogers |
 | 512 | 194 | Thermeka Lindsey |
@@ -523,17 +523,17 @@
 | 515 | 192 | Bri Martin |
 | 516 | 192 | Daniel Lossman |
 | 517 | 190 | Name |
-| 518 | 188 | Donna Bush |
-| 519 | 188 | Henry Lanier |
+| 518 | 188 | Henry Lanier |
+| 519 | 188 | Donna Bush |
 | 520 | 188 | Alexsandra Hill |
 | 521 | 187 | Marina |
-| 522 | 186 | Dolores Falco |
-| 523 | 186 | Rhonda Dowling |
+| 522 | 186 | Rhonda Dowling |
+| 523 | 186 | Dolores Falco |
 | 524 | 185 | Butterpat |
 | 525 | 184 | Holly Bramel |
 | 526 | 184 | Lolita Nettles |
-| 527 | 183 | Rosy Perez |
-| 528 | 183 | Ryan Paul Clark-Ramsey |
+| 527 | 183 | Ryan Paul Clark-Ramsey |
+| 528 | 183 | Rosy Perez |
 | 529 | 182 | Heidi Anne Scheiderer |
 | 530 | 182 | Candiecane324 |
 | 531 | 181 | Jen Smith |
@@ -558,12 +558,12 @@
 | 550 | 174 | Michelle Michelle |
 | 551 | 174 | Mmm |
 | 552 | 174 | Eddie Fuller |
-| 553 | 174 | PsyDMom |
-| 554 | 173 | Kimberly Ann |
-| 555 | 173 | Janna Thompson |
-| 556 | 172 | Casey Thomas |
-| 557 | 172 | Kea Sushi |
-| 558 | 172 | Lisa Pie |
+| 553 | 174 | Lisa Pie |
+| 554 | 174 | PsyDMom |
+| 555 | 173 | Kimberly Ann |
+| 556 | 173 | Janna Thompson |
+| 557 | 172 | Casey Thomas |
+| 558 | 172 | Kea Sushi |
 | 559 | 172 | Lul Babie |
 | 560 | 171 | Stotty |
 | 561 | 170 | Robert Crow |
@@ -574,15 +574,15 @@
 | 566 | 169 | Jeri Anne Stormo-Toman |
 | 567 | 168 | Mighty1 |
 | 568 | 168 | Shaunna Caldwell |
-| 569 | 167 | Haylee Talkington |
-| 570 | 167 | Clever Patterner |
-| 571 | 167 | Brainbabe |
-| 572 | 167 | Andrea Dre Lomeli |
-| 573 | 167 | chefjaydawg |
-| 574 | 167 | aga |
-| 575 | 166 | Rose Anna Safi |
-| 576 | 166 | Lord Solrac |
-| 577 | 166 | Azahares Alonso |
+| 569 | 167 | Brainbabe |
+| 570 | 167 | Haylee Talkington |
+| 571 | 167 | aga |
+| 572 | 167 | chefjaydawg |
+| 573 | 167 | Andrea Dre Lomeli |
+| 574 | 167 | Clever Patterner |
+| 575 | 166 | Azahares Alonso |
+| 576 | 166 | Rose Anna Safi |
+| 577 | 166 | Lord Solrac |
 | 578 | 166 | Playful Raccoon |
 | 579 | 166 | Brittany Lentz |
 | 580 | 166 | DizzB400 |
@@ -610,8 +610,8 @@
 | 602 | 158 | Raising Stars |
 | 603 | 158 | Snippy Racker |
 | 604 | 158 | Melissa Quinn |
-| 605 | 158 | Fancy Rollfit |
-| 606 | 158 | Travis McKinnon |
+| 605 | 158 | Travis McKinnon |
+| 606 | 158 | Fancy Rollfit |
 | 607 | 158 | Breezy Wife |
 | 608 | 157 | Bonique Bier |
 | 609 | 157 | Andreas Vs Shinky |
@@ -619,9 +619,9 @@
 | 611 | 156 | Swanky Builderline |
 | 612 | 156 | Lisa Jones |
 | 613 | 156 | Simone |
-| 614 | 155 | Loretta Hendricks |
-| 615 | 155 | Yvette Johnson |
-| 616 | 155 | Joshua Garner |
+| 614 | 155 | Yvette Johnson |
+| 615 | 155 | Joshua Garner |
+| 616 | 155 | Loretta Hendricks |
 | 617 | 155 | Shayna Vaigneur-Hall |
 | 618 | 154 | Justin Ballard |
 | 619 | 154 | yourmomz |
@@ -1111,11 +1111,11 @@
 | 1103 | 69 | Vergie Michael |
 | 1104 | 69 | Glitter |
 | 1105 | 69 | Derrek Lee |
-| 1106 | 69 | Ashley Ferguson |
-| 1107 | 68 | Kelley Shoop |
-| 1108 | 68 | Jace Warren |
-| 1109 | 68 | Curved carrot |
-| 1110 | 68 | CRsLady |
+| 1106 | 69 | CRsLady |
+| 1107 | 69 | Ashley Ferguson |
+| 1108 | 68 | Kelley Shoop |
+| 1109 | 68 | Jace Warren |
+| 1110 | 68 | Curved carrot |
 | 1111 | 68 | Kelly Kabelac Loomis |
 | 1112 | 68 | Hyper Clusterline |
 | 1113 | 68 | Phredda Helene Gavornik |
