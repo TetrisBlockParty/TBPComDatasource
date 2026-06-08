@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 15:30:42 UTC
+# Standings for team2 as of 2026-06-08 15:31:19 UTC
 
 **Total Participants:** 2199
 
@@ -35,7 +35,7 @@
 | 27 | 4355 | Danni Campa |
 | 28 | 4228 | Erica Dees Parks |
 | 29 | 4219 | Jewels |
-| 30 | 4107 | Bea Bee |
+| 30 | 4207 | Bea Bee |
 | 31 | 4032 | Spunky Clicker |
 | 32 | 3984 | Amber |
 | 33 | 3812 | Crystal M Sowden |
@@ -183,11 +183,11 @@
 | 175 | 574 | Brandy McCune Reep |
 | 176 | 571 | Robin G |
 | 177 | 567 | Cool Balancer |
-| 178 | 565 | Christina Maria |
-| 179 | 560 | Zarah Kettler |
-| 180 | 557 | Nutty Curver |
+| 178 | 567 | Nutty Curver |
+| 179 | 565 | Christina Maria |
+| 180 | 560 | Zarah Kettler |
 | 181 | 550 | DomDomsNana |
-| 182 | 544 | Snappy Blockbuilder |
+| 182 | 549 | Snappy Blockbuilder |
 | 183 | 542 | Spicy Risegrid |
 | 184 | 537 | Alicia Ellenburg |
 | 185 | 536 | Leigh Ann |
@@ -429,21 +429,21 @@
 | 421 | 241 | Holly Huval |
 | 422 | 240 | Amanda Bottorff |
 | 423 | 240 | Liseth Vasquez |
-| 424 | 240 | Al Smith Jr |
-| 425 | 240 | Zappy Liney |
+| 424 | 240 | Zappy Liney |
+| 425 | 240 | Al Smith Jr |
 | 426 | 240 | Amber Smith |
-| 427 | 239 | Newtwidebody |
-| 428 | 239 | Stella |
-| 429 | 239 | Melmel |
-| 430 | 239 | Patria Osuoha |
-| 431 | 238 | Tango Sierra |
-| 432 | 238 | andee |
-| 433 | 237 | Amanda Priddy |
-| 434 | 236 | Lush Party |
-| 435 | 234 | Madonna Ash |
-| 436 | 233 | Stephany Green |
+| 427 | 239 | Michael Carmichael |
+| 428 | 239 | Newtwidebody |
+| 429 | 239 | Stella |
+| 430 | 239 | Melmel |
+| 431 | 239 | Patria Osuoha |
+| 432 | 238 | Tango Sierra |
+| 433 | 238 | andee |
+| 434 | 237 | Amanda Priddy |
+| 435 | 236 | Lush Party |
+| 436 | 234 | Madonna Ash |
 | 437 | 233 | Gwendolyn Boykin Mobbs |
-| 438 | 233 | Michael Carmichael |
+| 438 | 233 | Stephany Green |
 | 439 | 232 | Sandy Rundel Holderman |
 | 440 | 232 | Partin |
 | 441 | 230 | Brandy Chinelle |
