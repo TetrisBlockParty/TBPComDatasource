@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:56:20 UTC
+# Standings for team1 as of 2026-06-08 07:56:44 UTC
 
 **Total Participants:** 1758
 
@@ -179,15 +179,15 @@
 | 171 | 427 | Tamara N Lee |
 | 172 | 423 | Zappy Riser |
 | 173 | 420 | Hyper Slamdrop |
-| 174 | 420 | Jessica Carter |
-| 175 | 417 | Eugina Slater |
-| 176 | 417 | Dena Marie Lee |
-| 177 | 415 | Plucky Slamdrop |
-| 178 | 414 | Jenna Renee |
-| 179 | 413 | Murg4dr01d |
-| 180 | 412 | Dee McCool |
-| 181 | 409 | Lashaunda |
-| 182 | 405 | Slinky Party |
+| 174 | 420 | Slinky Party |
+| 175 | 420 | Jessica Carter |
+| 176 | 417 | Eugina Slater |
+| 177 | 417 | Dena Marie Lee |
+| 178 | 415 | Plucky Slamdrop |
+| 179 | 414 | Jenna Renee |
+| 180 | 413 | Murg4dr01d |
+| 181 | 412 | Dee McCool |
+| 182 | 409 | Lashaunda |
 | 183 | 405 | SPNLover24 |
 | 184 | 398 | Kenny 'Tailormade' Boyd |
 | 185 | 397 | Karebear |

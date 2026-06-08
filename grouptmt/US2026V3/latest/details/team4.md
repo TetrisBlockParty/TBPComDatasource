@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:56:20 UTC
+# Standings for team4 as of 2026-06-08 07:56:44 UTC
 
 **Total Participants:** 1797
 
@@ -1134,14 +1134,14 @@
 | 1126 | 51 | Lori A Hamann |
 | 1127 | 51 | Dorothy Mitchell |
 | 1128 | 50 | Hyper Balancepiece |
-| 1129 | 50 | Kimberly Nkwopara |
-| 1130 | 50 | Swanky Matchfit |
-| 1131 | 50 | Erica Armstrong Baz |
-| 1132 | 50 | Scott If |
-| 1133 | 50 | Dewy |
-| 1134 | 50 | Ciara Brown |
-| 1135 | 50 | ImagineKaijus |
-| 1136 | 50 | Jacqueline Wright |
+| 1129 | 50 | Scott If |
+| 1130 | 50 | Erica Armstrong Baz |
+| 1131 | 50 | Dewy |
+| 1132 | 50 | Ciara Brown |
+| 1133 | 50 | Kimberly Nkwopara |
+| 1134 | 50 | Swanky Matchfit |
+| 1135 | 50 | Jacqueline Wright |
+| 1136 | 50 | ImagineKaijus |
 | 1137 | 50 | Alana Joe |
 | 1138 | 50 | Funky Rollzone |
 | 1139 | 50 | Heather Griffin |
@@ -1149,33 +1149,33 @@
 | 1141 | 50 | James James |
 | 1142 | 50 | Jada Jordyn Campbell |
 | 1143 | 50 | Rebecca Sloan |
-| 1144 | 49 | Wayne Hendricks |
-| 1145 | 49 | Angelo L Casillas |
-| 1146 | 49 | Merrick Marion |
-| 1147 | 49 | Hasty Grabber |
-| 1148 | 49 | Mindy Phariss |
+| 1144 | 49 | smarty |
+| 1145 | 49 | Merrick Marion |
+| 1146 | 49 | Angelo L Casillas |
+| 1147 | 49 | Elizabeth Nicole Zahm |
+| 1148 | 49 | Hasty Grabber |
 | 1149 | 49 | Christy Petty |
-| 1150 | 49 | smarty |
-| 1151 | 49 | Elizabeth Nicole Zahm |
-| 1152 | 49 | Karen Riexinger |
-| 1153 | 49 | Toya Rimson |
-| 1154 | 49 | Mandi Rexroat |
-| 1155 | 49 | Thomas Cassell |
-| 1156 | 48 | Mike Artis |
-| 1157 | 48 | Amowe |
-| 1158 | 48 | Travis Whitner |
+| 1150 | 49 | Thomas Cassell |
+| 1151 | 49 | Mindy Phariss |
+| 1152 | 49 | Toya Rimson |
+| 1153 | 49 | Mandi Rexroat |
+| 1154 | 49 | Karen Riexinger |
+| 1155 | 49 | Wayne Hendricks |
+| 1156 | 48 | Amowe |
+| 1157 | 48 | Aliyah Abdella |
+| 1158 | 48 | Bo Hagan |
 | 1159 | 48 | Kelli Wells Fuhr |
-| 1160 | 48 | Wali Muhammad |
-| 1161 | 48 | Aliyah Abdella |
-| 1162 | 47 | Dannie Ems |
-| 1163 | 47 | Audacious |
-| 1164 | 47 | Theo Stamps |
-| 1165 | 47 | Jim Stewart |
-| 1166 | 47 | Jacquelyn L Whitsitt |
-| 1167 | 47 | Jaison Horton |
-| 1168 | 47 | Kaity Cody |
+| 1160 | 48 | Mike Artis |
+| 1161 | 48 | Travis Whitner |
+| 1162 | 48 | Wali Muhammad |
+| 1163 | 47 | Jacquelyn L Whitsitt |
+| 1164 | 47 | Jim Stewart |
+| 1165 | 47 | Jaison Horton |
+| 1166 | 47 | Theo Stamps |
+| 1167 | 47 | Kaity Cody |
+| 1168 | 47 | Dannie Ems |
 | 1169 | 47 | Hasty Snapmatch |
-| 1170 | 47 | Bo Hagan |
+| 1170 | 47 | Audacious |
 | 1171 | 47 | Shannon Foster |
 | 1172 | 47 | Caroline Peralta |
 | 1173 | 47 | Acyndra Cain |
