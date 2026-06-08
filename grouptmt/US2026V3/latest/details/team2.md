@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:26:43 UTC
+# Standings for team2 as of 2026-06-08 12:27:20 UTC
 
 **Total Participants:** 2166
 
@@ -142,8 +142,8 @@
 | 134 | 756 | snowwol |
 | 135 | 751 | Hoppy Rotate |
 | 136 | 750 | Tisha Hairston |
-| 137 | 737 | Loopy Curvebuilder |
-| 138 | 737 | Le Sandy |
+| 137 | 741 | Le Sandy |
+| 138 | 737 | Loopy Curvebuilder |
 | 139 | 732 | Loopy Cascadepiece |
 | 140 | 728 | Groovy Snapper |
 | 141 | 717 | Melissa Thomas |
@@ -369,13 +369,13 @@
 | 361 | 258 | Talyn Domingues |
 | 362 | 257 | Sydney Cheyenne |
 | 363 | 256 | Theresa Huddleston |
-| 364 | 256 | RaeRae |
-| 365 | 255 | True |
-| 366 | 255 | Chummy Faller |
-| 367 | 255 | Tina Marie |
-| 368 | 254 | Victoria Pale |
-| 369 | 254 | Nicole Plummer |
-| 370 | 253 | Santara Ferguson |
+| 364 | 256 | Santara Ferguson |
+| 365 | 256 | RaeRae |
+| 366 | 255 | True |
+| 367 | 255 | Chummy Faller |
+| 368 | 255 | Tina Marie |
+| 369 | 254 | Victoria Pale |
+| 370 | 254 | Nicole Plummer |
 | 371 | 253 | Eric Wayne Maschman |
 | 372 | 252 | Boldy Fitclear |
 | 373 | 252 | Brandi Vandevanter-Duke |
@@ -458,17 +458,17 @@
 | 450 | 210 | Rick |
 | 451 | 210 | Nichole Wilson |
 | 452 | 210 | Camilo Moreno |
-| 453 | 209 | Brian Favre |
-| 454 | 208 | Lisa Allen Frisk |
-| 455 | 208 | Will Jones |
-| 456 | 207 | Wendy McKee |
-| 457 | 207 | StacyBabee |
-| 458 | 206 | Katie Jones |
-| 459 | 206 | Jodi Johnson |
-| 460 | 204 | Teddy Williams |
-| 461 | 204 | Lively Curve |
-| 462 | 204 | Jacquelyn Snyder Dumas |
-| 463 | 204 | Chummy Snapbuilder |
+| 453 | 210 | Chummy Snapbuilder |
+| 454 | 209 | Brian Favre |
+| 455 | 208 | Lisa Allen Frisk |
+| 456 | 208 | Will Jones |
+| 457 | 207 | Wendy McKee |
+| 458 | 207 | StacyBabee |
+| 459 | 206 | Katie Jones |
+| 460 | 206 | Jodi Johnson |
+| 461 | 204 | Teddy Williams |
+| 462 | 204 | Lively Curve |
+| 463 | 204 | Jacquelyn Snyder Dumas |
 | 464 | 203 | Jumpy Dashpiece |
 | 465 | 202 | Rescuegirl76 |
 | 466 | 202 | ZBee |
@@ -1254,11 +1254,11 @@
 | 1246 | 60 | Heather Hill Davidson |
 | 1247 | 60 | Michelle |
 | 1248 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1249 | 60 | Gloria Appleton |
-| 1250 | 60 | Kenya Johnson |
-| 1251 | 60 | Anna Chance |
+| 1249 | 60 | Anna Chance |
+| 1250 | 60 | Ramon James |
+| 1251 | 60 | Kenya Johnson |
 | 1252 | 60 | Ally Miller |
-| 1253 | 60 | Ramon James |
+| 1253 | 60 | Gloria Appleton |
 | 1254 | 60 | Brittany Kay |
 | 1255 | 60 | Mario Hillman |
 | 1256 | 60 | Speedy Gridder |
@@ -1279,16 +1279,16 @@
 | 1271 | 59 | Dee |
 | 1272 | 59 | Crystal Whygle |
 | 1273 | 59 | Jill Bobst Marple |
-| 1274 | 59 | Road Runnersauraus |
-| 1275 | 59 | Ryan Sanders |
-| 1276 | 59 | Jessica Gayle Sears |
-| 1277 | 59 | Jolene Smith |
-| 1278 | 59 | Crafty Liner |
-| 1279 | 58 | Joslyn Erickson |
-| 1280 | 58 | Jeannine Murphy |
-| 1281 | 58 | Teresa Ann Curry |
-| 1282 | 58 | Cheery Blast |
-| 1283 | 58 | Ryan Rhodes |
+| 1274 | 59 | Jessica Gayle Sears |
+| 1275 | 59 | Road Runnersauraus |
+| 1276 | 59 | Jolene Smith |
+| 1277 | 59 | Crafty Liner |
+| 1278 | 59 | Ryan Sanders |
+| 1279 | 58 | Ryan Rhodes |
+| 1280 | 58 | Teresa Ann Curry |
+| 1281 | 58 | Joslyn Erickson |
+| 1282 | 58 | Jeannine Murphy |
+| 1283 | 58 | Cheery Blast |
 | 1284 | 58 | Crafty Slice |
 | 1285 | 58 | Alexis Meyers |
 | 1286 | 58 | Elise Marie Mireles |
@@ -1306,17 +1306,17 @@
 | 1298 | 57 | Dandy Column |
 | 1299 | 57 | Kacey Lindemuth |
 | 1300 | 57 | Britt |
-| 1301 | 57 | Giggly Patternline |
-| 1302 | 57 | Angie Barlow |
-| 1303 | 57 | Brooke Marie Fox |
-| 1304 | 57 | Rachel |
-| 1305 | 56 | Louise LeBlanc |
-| 1306 | 56 | CountryGurl |
-| 1307 | 56 | Greenbean |
-| 1308 | 56 | Jessi Ann |
+| 1301 | 57 | Angie Barlow |
+| 1302 | 57 | Rachel |
+| 1303 | 57 | Giggly Patternline |
+| 1304 | 57 | Brooke Marie Fox |
+| 1305 | 56 | Greenbean |
+| 1306 | 56 | Louise LeBlanc |
+| 1307 | 56 | Jessi Ann |
+| 1308 | 56 | Perky Rollfit |
 | 1309 | 56 | Witty Shatterline |
-| 1310 | 56 | Perky Rollfit |
-| 1311 | 56 | Danielle Etchison Mask |
+| 1310 | 56 | Danielle Etchison Mask |
+| 1311 | 56 | CountryGurl |
 | 1312 | 56 | Snazzy Tiley |
 | 1313 | 56 | Jennifer Augustine |
 | 1314 | 56 | Brandon Ray Holt |
@@ -1334,30 +1334,30 @@
 | 1326 | 55 | Gilbert Medina |
 | 1327 | 55 | Mistress |
 | 1328 | 54 | Cynthia Rose Candelaria |
-| 1329 | 54 | Glitzy Fallgrid |
-| 1330 | 54 | Alexis Turner |
-| 1331 | 54 | Swanky Twister |
-| 1332 | 54 | Jess Duehring |
+| 1329 | 54 | Alexis Turner |
+| 1330 | 54 | Glitzy Fallgrid |
+| 1331 | 54 | Robin Lamb |
+| 1332 | 54 | Swanky Twister |
 | 1333 | 54 | Heather Lewis |
-| 1334 | 54 | Jumpy Linkroll |
-| 1335 | 54 | Christina Nycol |
-| 1336 | 54 | Josie Mendivil |
-| 1337 | 54 | Lively Liner |
-| 1338 | 53 | Jamie Benge |
-| 1339 | 53 | Topknot13 |
-| 1340 | 53 | Thomas Johnstone |
-| 1341 | 53 | Kristen Alta |
-| 1342 | 53 | grey panther |
-| 1343 | 53 | Silly Cluster |
-| 1344 | 53 | Gigi |
-| 1345 | 53 | Robin Lamb |
-| 1346 | 53 | Judy Bailey |
-| 1347 | 52 | Daniel Flathers |
-| 1348 | 52 | Chirpy Shiftspin |
-| 1349 | 52 | Jolly Balanceblock |
-| 1350 | 52 | Samantha LeBlanc |
-| 1351 | 52 | Bridgett Smith |
-| 1352 | 52 | Amy Renaud |
+| 1334 | 54 | Jess Duehring |
+| 1335 | 54 | Jumpy Linkroll |
+| 1336 | 54 | Christina Nycol |
+| 1337 | 54 | Josie Mendivil |
+| 1338 | 54 | Lively Liner |
+| 1339 | 53 | Jamie Benge |
+| 1340 | 53 | Topknot13 |
+| 1341 | 53 | Thomas Johnstone |
+| 1342 | 53 | Kristen Alta |
+| 1343 | 53 | grey panther |
+| 1344 | 53 | Silly Cluster |
+| 1345 | 53 | Judy Bailey |
+| 1346 | 53 | Gigi |
+| 1347 | 52 | Jolly Balanceblock |
+| 1348 | 52 | Samantha LeBlanc |
+| 1349 | 52 | Amy Renaud |
+| 1350 | 52 | Bridgett Smith |
+| 1351 | 52 | Chirpy Shiftspin |
+| 1352 | 52 | Daniel Flathers |
 | 1353 | 52 | Cozy Curve |
 | 1354 | 52 | Dolly |
 | 1355 | 52 | Chipper Spinzone |
@@ -1371,20 +1371,20 @@
 | 1363 | 51 | Jess |
 | 1364 | 51 | Loopy Zone |
 | 1365 | 51 | Daring Blockline |
-| 1366 | 51 | Paula Martin |
-| 1367 | 51 | Zippy Wobbler |
-| 1368 | 51 | Stacy Shaunce |
-| 1369 | 51 | Kandy Comer |
-| 1370 | 51 | Charity Black |
-| 1371 | 51 | haihai |
-| 1372 | 51 | Ramona Peña |
-| 1373 | 50 | himesamayuki77 |
-| 1374 | 50 | Tony Williams |
-| 1375 | 50 | Samantha Rhone |
-| 1376 | 50 | Ashley Cadle |
-| 1377 | 50 | Tia Guile |
-| 1378 | 50 | Meve |
-| 1379 | 50 | Amy |
+| 1366 | 51 | Ramona Peña |
+| 1367 | 51 | Charity Black |
+| 1368 | 51 | Kandy Comer |
+| 1369 | 51 | Stacy Shaunce |
+| 1370 | 51 | Zippy Wobbler |
+| 1371 | 51 | Paula Martin |
+| 1372 | 51 | haihai |
+| 1373 | 50 | Amy |
+| 1374 | 50 | Samantha Rhone |
+| 1375 | 50 | Ashley Cadle |
+| 1376 | 50 | Tia Guile |
+| 1377 | 50 | Meve |
+| 1378 | 50 | himesamayuki77 |
+| 1379 | 50 | Tony Williams |
 | 1380 | 50 | Dawn Thuringer-Baird |
 | 1381 | 50 | Tessa Kalili |
 | 1382 | 50 | Tracy Coe |
