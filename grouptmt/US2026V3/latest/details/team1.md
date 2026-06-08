@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:44:20 UTC
+# Standings for team1 as of 2026-06-08 05:44:44 UTC
 
 **Total Participants:** 1730
 
@@ -297,8 +297,8 @@
 | 289 | 248 | Mikayla |
 | 290 | 246 | Curtis T Cirno |
 | 291 | 245 | Derrius SeriousLee Burks |
-| 292 | 245 | Tremaine Hiler |
-| 293 | 245 | Kelli Couture |
+| 292 | 245 | Kelli Couture |
+| 293 | 245 | Tremaine Hiler |
 | 294 | 244 | Dai Bo |
 | 295 | 244 | Teddy Davis |
 | 296 | 244 | Amber Wilson |
@@ -311,24 +311,24 @@
 | 303 | 240 | Emily Wright |
 | 304 | 240 | Rayya Kiser |
 | 305 | 239 | ♈️ Ariesbaby |
-| 306 | 238 | Tootsie Pop |
-| 307 | 237 | MamushiOh |
+| 306 | 238 | MamushiOh |
+| 307 | 238 | Tootsie Pop |
 | 308 | 237 | Simone Bailey |
 | 309 | 235 | Sade Goodwine |
 | 310 | 233 | Nicole Watson-Dixon |
 | 311 | 231 | Tipsy Linkroll |
 | 312 | 230 | Brittnay Wright |
-| 313 | 230 | Still Ten Tay |
-| 314 | 230 | Erica Charlise |
-| 315 | 230 | Boldy Liner |
+| 313 | 230 | Erica Charlise |
+| 314 | 230 | Boldy Liner |
+| 315 | 230 | Still Ten Tay |
 | 316 | 229 | De'Mear McKinney |
 | 317 | 227 | Chasem45 |
 | 318 | 226 | LaToya Chambers |
 | 319 | 224 | Asha Langford |
 | 320 | 221 | Chandler Magee |
-| 321 | 220 | Christian Pham |
-| 322 | 220 | rls |
-| 323 | 220 | Rachael Bakowicz Edwards |
+| 321 | 220 | Rachael Bakowicz Edwards |
+| 322 | 220 | Christian Pham |
+| 323 | 220 | rls |
 | 324 | 220 | HarleyJane |
 | 325 | 219 | Tamara Johnson-Carter |
 | 326 | 218 | SeanSanchez |
@@ -1075,74 +1075,74 @@
 | 1067 | 51 | Twisty Dashy |
 | 1068 | 50 | Daring Linkfall |
 | 1069 | 50 | Skye |
-| 1070 | 50 | LaQuita White |
-| 1071 | 50 | MsBobby Patrick |
+| 1070 | 50 | MsBobby Patrick |
+| 1071 | 50 | LaQuita White |
 | 1072 | 50 | Ivan Israel |
 | 1073 | 50 | Mikemike Zonethree |
-| 1074 | 50 | Aero Builder |
-| 1075 | 50 | Bold Spinblock |
-| 1076 | 50 | 1ofaking |
-| 1077 | 50 | Marissa Sweet |
-| 1078 | 50 | Desiree Ryder |
-| 1079 | 50 | Breeze |
-| 1080 | 50 | Denell Sims |
-| 1081 | 50 | Douglas Jones |
-| 1082 | 50 | Snappy Strikerpiece |
-| 1083 | 50 | rosieredpanda |
-| 1084 | 50 | Shawn Himes |
-| 1085 | 49 | Chummy Twisterfit |
-| 1086 | 49 | Tara Clarke |
-| 1087 | 49 | Mumitt |
-| 1088 | 49 | Brika Brika |
-| 1089 | 49 | Stacey Kesteloot |
-| 1090 | 49 | Daphne Ceasar |
+| 1074 | 50 | Ayanna James |
+| 1075 | 50 | Aero Builder |
+| 1076 | 50 | Bold Spinblock |
+| 1077 | 50 | 1ofaking |
+| 1078 | 50 | Marissa Sweet |
+| 1079 | 50 | Desiree Ryder |
+| 1080 | 50 | Breeze |
+| 1081 | 50 | Denell Sims |
+| 1082 | 50 | Douglas Jones |
+| 1083 | 50 | Snappy Strikerpiece |
+| 1084 | 50 | rosieredpanda |
+| 1085 | 50 | Shawn Himes |
+| 1086 | 49 | Chummy Twisterfit |
+| 1087 | 49 | Tara Clarke |
+| 1088 | 49 | Mumitt |
+| 1089 | 49 | Brika Brika |
+| 1090 | 49 | Stacey Kesteloot |
 | 1091 | 49 | Lucy Range |
-| 1092 | 49 | Melanie Houghton-McCann |
-| 1093 | 49 | Kayd |
-| 1094 | 49 | Frothy Snapmatch |
-| 1095 | 49 | Ķïrãã Ďãvïss |
-| 1096 | 49 | Macho Lewis |
-| 1097 | 48 | Jessica Kirby |
-| 1098 | 48 | jaz |
-| 1099 | 48 | Michael Lindenlauf |
-| 1100 | 48 | Bubbly Base |
-| 1101 | 48 | LoveLee |
-| 1102 | 48 | Bubbly Crawler |
-| 1103 | 48 | Davina Valentino |
-| 1104 | 48 | P C |
-| 1105 | 48 | LaPorscha Wright |
-| 1106 | 48 | Alivia Dove |
-| 1107 | 47 | Pizzle |
-| 1108 | 47 | William Vidra |
+| 1092 | 49 | Daphne Ceasar |
+| 1093 | 49 | Melanie Houghton-McCann |
+| 1094 | 49 | Macho Lewis |
+| 1095 | 49 | Kayd |
+| 1096 | 49 | Frothy Snapmatch |
+| 1097 | 49 | Ķïrãã Ďãvïss |
+| 1098 | 48 | Alivia Dove |
+| 1099 | 48 | LoveLee |
+| 1100 | 48 | Bubbly Crawler |
+| 1101 | 48 | Davina Valentino |
+| 1102 | 48 | Bubbly Base |
+| 1103 | 48 | P C |
+| 1104 | 48 | LaPorscha Wright |
+| 1105 | 48 | Michael Lindenlauf |
+| 1106 | 48 | jaz |
+| 1107 | 48 | Jessica Kirby |
+| 1108 | 47 | Hoppy Rumbler |
 | 1109 | 47 | Kevin Turner |
-| 1110 | 47 | Hoppy Rumbler |
-| 1111 | 47 | Nayyirah Hariyyan |
-| 1112 | 47 | Austin Smith |
-| 1113 | 46 | Juan Santiago |
-| 1114 | 46 | Jenni |
-| 1115 | 46 | Kimberly Red |
-| 1116 | 46 | Elizabeth Green |
-| 1117 | 46 | TrapQween39Bi |
-| 1118 | 46 | LOVE |
-| 1119 | 46 | Crystal Winters Mckay |
-| 1120 | 46 | Stephanie Vinson |
-| 1121 | 46 | Wu May |
+| 1110 | 47 | Pizzle |
+| 1111 | 47 | William Vidra |
+| 1112 | 47 | Nayyirah Hariyyan |
+| 1113 | 47 | Austin Smith |
+| 1114 | 46 | Juan Santiago |
+| 1115 | 46 | Jenni |
+| 1116 | 46 | Kimberly Red |
+| 1117 | 46 | Elizabeth Green |
+| 1118 | 46 | TrapQween39Bi |
+| 1119 | 46 | LOVE |
+| 1120 | 46 | Crystal Winters Mckay |
+| 1121 | 46 | Stephanie Vinson |
 | 1122 | 46 | Tanisha Robinson |
-| 1123 | 45 | Frothy Zoney |
+| 1123 | 46 | Wu May |
 | 1124 | 45 | Cali Lee |
-| 1125 | 45 | Heather Cross-Davis |
-| 1126 | 45 | Jackie Sanasay |
-| 1127 | 45 | Ayanna James |
-| 1128 | 45 | Sarah Jones |
-| 1129 | 45 | Lawreniesha Burkley |
-| 1130 | 45 | Mighty plantlady |
+| 1125 | 45 | midnightxtoker |
+| 1126 | 45 | Heather Cross-Davis |
+| 1127 | 45 | Jackie Sanasay |
+| 1128 | 45 | Mighty plantlady |
+| 1129 | 45 | Sarah Jones |
+| 1130 | 45 | Lawreniesha Burkley |
 | 1131 | 45 | Kenneth Williams |
-| 1132 | 45 | Jason A Giantonio |
+| 1132 | 45 | Frothy Zoney |
 | 1133 | 45 | Chinkey Overit |
 | 1134 | 45 | Nicole |
-| 1135 | 45 | Beautiful314 |
-| 1136 | 45 | Y3llOWFAC3 |
-| 1137 | 45 | midnightxtoker |
+| 1135 | 45 | Y3llOWFAC3 |
+| 1136 | 45 | Beautiful314 |
+| 1137 | 45 | Jason A Giantonio |
 | 1138 | 45 | PattyPower |
 | 1139 | 45 | Matraca Young |
 | 1140 | 45 | Jasmine Bates |
