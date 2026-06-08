@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 21:38:45 UTC
+# Standings for team4 as of 2026-06-08 21:39:22 UTC
 
 **Total Participants:** 1929
 
@@ -28,7 +28,7 @@
 | 20 | 5089 | Ning Quiambao |
 | 21 | 5048 | Chris Hills |
 | 22 | 4939 | Bryony Nicholson |
-| 23 | 4732 | Nia Mayfield |
+| 23 | 4832 | Nia Mayfield |
 | 24 | 4329 | Jackie Lucas |
 | 25 | 4326 | Tyra Brooke Everman Forest |
 | 26 | 4252 | Tonya Brooks-Johnson |
@@ -121,10 +121,10 @@
 | 113 | 800 | Futrell Brent |
 | 114 | 800 | Nicole Peoples |
 | 115 | 795 | Phil Peterson |
-| 116 | 789 | vag1974 |
-| 117 | 788 | Shaina Sharp |
-| 118 | 779 | HurkleDurkle88 |
-| 119 | 774 | Pepone Pepe |
+| 116 | 792 | Pepone Pepe |
+| 117 | 789 | vag1974 |
+| 118 | 788 | Shaina Sharp |
+| 119 | 779 | HurkleDurkle88 |
 | 120 | 770 | Misty Leigh |
 | 121 | 765 | Ermadette |
 | 122 | 759 | Hairy Snake |
@@ -758,99 +758,99 @@
 | 750 | 118 | Jennifer Naughton |
 | 751 | 118 | Misti Rich |
 | 752 | 118 | Jacqueline Arce |
-| 753 | 118 | KingCas |
-| 754 | 118 | Lisa Ferriero-Daudin |
-| 755 | 117 | Autumn Maher |
-| 756 | 117 | Trang Nguyen |
-| 757 | 117 | Kay |
+| 753 | 118 | Lisa Ferriero-Daudin |
+| 754 | 118 | KingCas |
+| 755 | 117 | Trang Nguyen |
+| 756 | 117 | Kay |
+| 757 | 117 | Autumn Maher |
 | 758 | 117 | Susan Mary Kelley |
 | 759 | 117 | Weird Cat |
 | 760 | 116 | Aaron Turner |
 | 761 | 116 | Lori Lynn |
 | 762 | 116 | JP Chua |
-| 763 | 115 | chuck |
-| 764 | 115 | ButterfliesRFree |
-| 765 | 115 | Dinah Mccall |
+| 763 | 115 | ButterfliesRFree |
+| 764 | 115 | Dinah Mccall |
+| 765 | 115 | chuck |
 | 766 | 115 | Hooti Smile |
 | 767 | 115 | Jasmine Turner |
 | 768 | 115 | Giggy Bridgepiece |
 | 769 | 114 | Emjae Tupaz-Rivera |
 | 770 | 114 | Tammy Wells |
-| 771 | 114 | Jason Moves |
+| 771 | 114 | BigCup ReeseCup |
 | 772 | 114 | Japexican Strong |
-| 773 | 114 | Deborah Ayliffe |
-| 774 | 114 | BigCup ReeseCup |
-| 775 | 114 | Khiem Hernandez |
-| 776 | 114 | Jennifer Brucz |
-| 777 | 113 | Melissa Anne |
-| 778 | 113 | Renzo Tonini |
-| 779 | 113 | Fancy Rollfit |
+| 773 | 114 | Khiem Hernandez |
+| 774 | 114 | Deborah Ayliffe |
+| 775 | 114 | Jennifer Brucz |
+| 776 | 114 | Jason Moves |
+| 777 | 113 | Renzo Tonini |
+| 778 | 113 | Fancy Rollfit |
+| 779 | 113 | Melissa Anne |
 | 780 | 113 | Certified Da Don |
 | 781 | 112 | Shaneé Staunton |
 | 782 | 112 | Carlos Amaya |
-| 783 | 112 | medicjessi |
-| 784 | 112 | Kimberly Lusk |
-| 785 | 111 | Sonya |
-| 786 | 111 | Elena Marí |
-| 787 | 111 | Peachy Piecefit |
-| 788 | 111 | Lush Twisterfit |
-| 789 | 111 | Ashley McGeehan |
-| 790 | 111 | Abby Waterman |
-| 791 | 110 | Clever Brickzone |
-| 792 | 110 | Slinky Snapfit |
-| 793 | 110 | Breezy Brickline |
-| 794 | 110 | Zappy Tilemaker |
-| 795 | 109 | Breezy Blockzone |
-| 796 | 109 | Frisky Blocker |
-| 797 | 109 | idk240 |
-| 798 | 109 | Tiffany Roberts |
-| 799 | 108 | Cozy Patternline |
-| 800 | 108 | Miranda Brown |
-| 801 | 108 | Happy Puzzle |
-| 802 | 108 | sierrabeth |
-| 803 | 108 | Suzi Smas |
-| 804 | 107 | GingaNinja |
-| 805 | 107 | Loyalty83 |
-| 806 | 107 | ManOfSteel |
-| 807 | 107 | Jeni |
-| 808 | 107 | Lori A Hamann |
-| 809 | 107 | Kaela Ferguson |
-| 810 | 107 | Hilarie Detweiler |
-| 811 | 106 | Charlene Nicole Guidry |
-| 812 | 106 | Helen Bradley |
-| 813 | 105 | Christina Barry |
-| 814 | 105 | Kendall Rhodie |
+| 783 | 112 | Kimberly Lusk |
+| 784 | 112 | medicjessi |
+| 785 | 111 | Elizabeth Putansu |
+| 786 | 111 | Sonya |
+| 787 | 111 | Elena Marí |
+| 788 | 111 | Peachy Piecefit |
+| 789 | 111 | Lush Twisterfit |
+| 790 | 111 | Ashley McGeehan |
+| 791 | 111 | Abby Waterman |
+| 792 | 110 | Clever Brickzone |
+| 793 | 110 | Slinky Snapfit |
+| 794 | 110 | Breezy Brickline |
+| 795 | 110 | Zappy Tilemaker |
+| 796 | 109 | Breezy Blockzone |
+| 797 | 109 | Frisky Blocker |
+| 798 | 109 | idk240 |
+| 799 | 109 | Tiffany Roberts |
+| 800 | 108 | Cozy Patternline |
+| 801 | 108 | Miranda Brown |
+| 802 | 108 | Happy Puzzle |
+| 803 | 108 | sierrabeth |
+| 804 | 108 | Suzi Smas |
+| 805 | 107 | GingaNinja |
+| 806 | 107 | Jeni |
+| 807 | 107 | Loyalty83 |
+| 808 | 107 | ManOfSteel |
+| 809 | 107 | Lori A Hamann |
+| 810 | 107 | Kaela Ferguson |
+| 811 | 107 | Hilarie Detweiler |
+| 812 | 106 | Charlene Nicole Guidry |
+| 813 | 106 | Helen Bradley |
+| 814 | 105 | Nerdy Brickster |
 | 815 | 105 | Surviving Be Back Soon |
-| 816 | 105 | Nerdy Brickster |
-| 817 | 105 | Debby Muniz |
-| 818 | 105 | Jailen Harper |
-| 819 | 104 | Amy Gutierrez |
-| 820 | 104 | Toria |
-| 821 | 104 | Goofy Riserbuilder |
-| 822 | 103 | Honey Honey |
-| 823 | 103 | Hayze |
-| 824 | 103 | Courtney Niichole |
-| 825 | 103 | Sandra O'Reilly |
-| 826 | 102 | Chabetta |
-| 827 | 102 | Taisha Beasley |
-| 828 | 102 | Monkey |
-| 829 | 102 | Darren Miguel |
-| 830 | 102 | Cail |
-| 831 | 102 | Clever Fallzone |
-| 832 | 102 | Frilly Riserpiece |
-| 833 | 101 | Scot Matthew Bergdorf |
-| 834 | 101 | Misty Harland |
-| 835 | 101 | SueSally |
-| 836 | 101 | Kenyatta Davis |
-| 837 | 101 | Lola |
-| 838 | 101 | Miguel Teixeira |
+| 816 | 105 | Christina Barry |
+| 817 | 105 | Kendall Rhodie |
+| 818 | 105 | Debby Muniz |
+| 819 | 105 | Jailen Harper |
+| 820 | 104 | Amy Gutierrez |
+| 821 | 104 | Toria |
+| 822 | 104 | Goofy Riserbuilder |
+| 823 | 103 | Honey Honey |
+| 824 | 103 | Hayze |
+| 825 | 103 | Courtney Niichole |
+| 826 | 103 | Sandra O'Reilly |
+| 827 | 102 | Cail |
+| 828 | 102 | Taisha Beasley |
+| 829 | 102 | Monkey |
+| 830 | 102 | Chabetta |
+| 831 | 102 | Darren Miguel |
+| 832 | 102 | Clever Fallzone |
+| 833 | 102 | Frilly Riserpiece |
+| 834 | 101 | Scot Matthew Bergdorf |
+| 835 | 101 | Misty Harland |
+| 836 | 101 | SueSally |
+| 837 | 101 | Kenyatta Davis |
+| 838 | 101 | Lola |
 | 839 | 101 | Audrianna Skaff |
 | 840 | 101 | Alaina Rousseau |
-| 841 | 100 | CorieBe |
-| 842 | 100 | Funky Rollzone |
-| 843 | 100 | Nova Kain |
-| 844 | 100 | Elizabeth Putansu |
-| 845 | 100 | Kristal |
+| 841 | 101 | Miguel Teixeira |
+| 842 | 100 | CorieBe |
+| 843 | 100 | Funky Rollzone |
+| 844 | 100 | Kristal |
+| 845 | 100 | Nova Kain |
 | 846 | 100 | Kiara Itzel Crowe |
 | 847 | 100 | Chelsea Costa |
 | 848 | 100 | Aleta Svitak |
@@ -862,9 +862,9 @@
 | 854 | 99 | Rebekah Anne Macias |
 | 855 | 99 | Dru Lui |
 | 856 | 99 | Ricardo Arias |
-| 857 | 99 | Funky Twistpiece |
-| 858 | 99 | Nikcole Alexis Bryan |
-| 859 | 99 | Frisky Balance |
+| 857 | 99 | Frisky Balance |
+| 858 | 99 | Funky Twistpiece |
+| 859 | 99 | Nikcole Alexis Bryan |
 | 860 | 99 | Tamika Ashli Bonner |
 | 861 | 98 | Giggy Blockpiece |
 | 862 | 98 | Cozy Towerpiece |
