@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:52:40 UTC
+# Standings for team2 as of 2026-06-08 17:53:19 UTC
 
 **Total Participants:** 2229
 
@@ -38,7 +38,7 @@
 | 30 | 4228 | Erica Dees Parks |
 | 31 | 4219 | Jewels |
 | 32 | 4111 | Smashanator |
-| 33 | 4089 | Mellzey |
+| 33 | 4109 | Mellzey |
 | 34 | 3984 | Amber |
 | 35 | 3812 | Crystal M Sowden |
 | 36 | 3766 | Ashley Miller |
@@ -136,7 +136,7 @@
 | 128 | 851 | Cathy Tippett |
 | 129 | 849 | Brandi Thompson |
 | 130 | 846 | Courtney McCulley |
-| 131 | 844 | Nova Nova |
+| 131 | 845 | Nova Nova |
 | 132 | 837 | Allie Bug |
 | 133 | 827 | Loopy Cascadepiece |
 | 134 | 813 | Loony Faller |
@@ -179,14 +179,14 @@
 | 171 | 609 | Michelle Rich Burkhart |
 | 172 | 609 | Pooh |
 | 173 | 600 | Theresa Marie |
-| 174 | 587 | Kathleen Dumbazz |
-| 175 | 587 | Kevin Mccoy |
+| 174 | 587 | Kevin Mccoy |
+| 175 | 587 | Kathleen Dumbazz |
 | 176 | 582 | Zarah Kettler |
-| 177 | 578 | Bubbly Strikerpiece |
-| 178 | 578 | Monique Frantz |
-| 179 | 577 | Nikki Hayes |
-| 180 | 577 | Chasity Simpson |
-| 181 | 577 | Lindsay Klemp |
+| 177 | 578 | Monique Frantz |
+| 178 | 578 | Bubbly Strikerpiece |
+| 179 | 577 | Chasity Simpson |
+| 180 | 577 | Lindsay Klemp |
+| 181 | 577 | Nikki Hayes |
 | 182 | 574 | Brandy McCune Reep |
 | 183 | 571 | Robin G |
 | 184 | 569 | Vistabrat |
@@ -204,14 +204,14 @@
 | 196 | 526 | MegaPooh |
 | 197 | 521 | Steven Craig |
 | 198 | 520 | Jennifer Smith |
-| 199 | 513 | Theresa Hollinger |
-| 200 | 513 | Thomas Tyrone |
-| 201 | 512 | Jat |
-| 202 | 510 | Samantha Carman |
-| 203 | 508 | Gill |
+| 199 | 513 | Gill |
+| 200 | 513 | Theresa Hollinger |
+| 201 | 513 | Thomas Tyrone |
+| 202 | 512 | Jat |
+| 203 | 510 | Samantha Carman |
 | 204 | 505 | Judy Long |
-| 205 | 504 | Laverne Ellis Blair |
-| 206 | 504 | Milad Arzani |
+| 205 | 504 | Milad Arzani |
+| 206 | 504 | Laverne Ellis Blair |
 | 207 | 503 | Michelle Powers Chattaway |
 | 208 | 498 | Ashley Green |
 | 209 | 498 | Kelly Rogers |
@@ -227,15 +227,15 @@
 | 219 | 478 | Tim Tim |
 | 220 | 476 | Sara Perkins |
 | 221 | 475 | Twisty Buildgrid |
-| 222 | 470 | Zany Blockclear |
-| 223 | 469 | Lashanda Bertram |
+| 222 | 474 | Carebear05 |
+| 223 | 470 | Zany Blockclear |
 | 224 | 469 | Danielle Blount |
-| 225 | 467 | Lisa Underwood Desmond |
-| 226 | 462 | Charles E Mccardell |
-| 227 | 460 | Brenda Jones |
-| 228 | 460 | Daybreak |
-| 229 | 456 | H |
-| 230 | 455 | Carebear05 |
+| 225 | 469 | Lashanda Bertram |
+| 226 | 467 | Lisa Underwood Desmond |
+| 227 | 462 | Charles E Mccardell |
+| 228 | 460 | Brenda Jones |
+| 229 | 460 | Daybreak |
+| 230 | 456 | H |
 | 231 | 454 | Tami Kay Williams Watson |
 | 232 | 453 | Kimberly Cowan |
 | 233 | 448 | Eric Drane |
