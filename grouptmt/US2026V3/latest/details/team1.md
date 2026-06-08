@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:10:21 UTC
+# Standings for team1 as of 2026-06-08 19:10:43 UTC
 
 **Total Participants:** 1849
 
@@ -60,7 +60,7 @@
 | 52 | 1684 | Ceilo Marie |
 | 53 | 1633 | Jennifer To |
 | 54 | 1623 | Brian Bohanon II |
-| 55 | 1561 | Therealdywoune Peay |
+| 55 | 1621 | Therealdywoune Peay |
 | 56 | 1538 | Jacoby E Fleming |
 | 57 | 1482 | Shortstak |
 | 58 | 1461 | Janet Cooke |
@@ -103,7 +103,7 @@
 | 95 | 967 | KenpachisGirl |
 | 96 | 963 | Jason Mungin |
 | 97 | 945 | Voice |
-| 98 | 919 | Robbie Cheeseman |
+| 98 | 934 | Robbie Cheeseman |
 | 99 | 918 | Quirky Fallgrid |
 | 100 | 913 | MamaBear |
 | 101 | 911 | Richard Horton |
@@ -165,7 +165,7 @@
 | 157 | 552 | Katherine Short |
 | 158 | 550 | Genne Scott |
 | 159 | 549 | Shell Lewis |
-| 160 | 544 | Dee McCool |
+| 160 | 546 | Dee McCool |
 | 161 | 531 | Abraham Espaillat |
 | 162 | 529 | Tobey Marberry |
 | 163 | 527 | MommaCia |
@@ -189,42 +189,42 @@
 | 181 | 482 | Jamal Itzjusmall Chambers |
 | 182 | 477 | Nobles Brandon |
 | 183 | 476 | BULLSEYE |
-| 184 | 466 | Roberta Lynn |
-| 185 | 466 | Tootsie Pop |
+| 184 | 466 | Tootsie Pop |
+| 185 | 466 | Roberta Lynn |
 | 186 | 465 | TT |
 | 187 | 458 | Jimmie Makia |
 | 188 | 456 | Cachet A Ward |
 | 189 | 456 | Zappy Riser |
-| 190 | 453 | LaToya Chambers |
-| 191 | 452 | Kenny MrOnethousand Peck |
-| 192 | 451 | Simmone T. Kadiri |
-| 193 | 446 | Joey Albright |
+| 190 | 455 | sha |
+| 191 | 453 | LaToya Chambers |
+| 192 | 452 | Kenny MrOnethousand Peck |
+| 193 | 451 | Simmone T. Kadiri |
 | 194 | 446 | pooh |
-| 195 | 445 | Marcheta Cervantez |
-| 196 | 444 | Helen Smith |
+| 195 | 446 | Joey Albright |
+| 196 | 445 | Marcheta Cervantez |
 | 197 | 444 | Kevin M. McGhee Jr |
-| 198 | 442 | Rachel Zimmerman |
-| 199 | 440 | Tanya Clayton |
-| 200 | 439 | Asani CHumba |
-| 201 | 438 | Zippy Tilefall |
-| 202 | 435 | Tishauna Virgo |
-| 203 | 435 | sha |
-| 204 | 431 | Lashawn Wallace |
-| 205 | 430 | boogeywoogey |
-| 206 | 430 | Karebear |
-| 207 | 427 | DellaLucretia Thomas |
-| 208 | 424 | Choc |
-| 209 | 422 | David Fuentes |
-| 210 | 422 | Mic Balew |
-| 211 | 421 | JaClanDiah |
-| 212 | 421 | Slim Shedidthat |
-| 213 | 420 | Cheeky Pop |
-| 214 | 420 | Jessica Carter |
-| 215 | 419 | Jenna Renee |
-| 216 | 418 | Po Marley |
-| 217 | 418 | Sheila Burnham |
-| 218 | 417 | Lashaunda |
-| 219 | 416 | Tina Mitchell |
+| 198 | 444 | Helen Smith |
+| 199 | 442 | Rachel Zimmerman |
+| 200 | 440 | Tanya Clayton |
+| 201 | 439 | Asani CHumba |
+| 202 | 438 | Zippy Tilefall |
+| 203 | 435 | Tishauna Virgo |
+| 204 | 431 | Tina Mitchell |
+| 205 | 431 | Lashawn Wallace |
+| 206 | 430 | boogeywoogey |
+| 207 | 430 | Karebear |
+| 208 | 427 | DellaLucretia Thomas |
+| 209 | 424 | Choc |
+| 210 | 422 | David Fuentes |
+| 211 | 422 | Mic Balew |
+| 212 | 421 | JaClanDiah |
+| 213 | 421 | Slim Shedidthat |
+| 214 | 420 | Cheeky Pop |
+| 215 | 420 | Jessica Carter |
+| 216 | 419 | Jenna Renee |
+| 217 | 418 | Po Marley |
+| 218 | 418 | Sheila Burnham |
+| 219 | 417 | Lashaunda |
 | 220 | 415 | OhNoZer0 |
 | 221 | 414 | Cheery Linkfall |
 | 222 | 412 | Jessica Russell |
