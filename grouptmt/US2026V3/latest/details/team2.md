@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:19:22 UTC
+# Standings for team2 as of 2026-06-08 08:20:43 UTC
 
 **Total Participants:** 2134
 
@@ -91,10 +91,10 @@
 | 83 | 1276 | Jenny Graham |
 | 84 | 1271 | Eileen Egan |
 | 85 | 1222 | Gabriella Humphreys |
-| 86 | 1194 | Epic Frame |
-| 87 | 1182 | Jayke Edward |
-| 88 | 1181 | Giddy Slamdrop |
-| 89 | 1177 | Mikki Torres |
+| 86 | 1197 | Mikki Torres |
+| 87 | 1194 | Epic Frame |
+| 88 | 1182 | Jayke Edward |
+| 89 | 1181 | Giddy Slamdrop |
 | 90 | 1119 | Beverly Lynn Mills |
 | 91 | 1107 | Charlie Wilson |
 | 92 | 1082 | Kvothe |
@@ -253,7 +253,7 @@
 | 245 | 375 | Branden Frankowski |
 | 246 | 373 | Hoppy Mover |
 | 247 | 373 | Theresa Hollinger |
-| 248 | 368 | Katrien |
+| 248 | 372 | Katrien |
 | 249 | 365 | Rachel Nilles |
 | 250 | 364 | Lindsey Ford |
 | 251 | 363 | Ratchet |
@@ -279,32 +279,32 @@
 | 271 | 327 | Iesha Cupil |
 | 272 | 325 | Flashy Twistline |
 | 273 | 325 | Snappy Combo |
-| 274 | 324 | Swanky Fitline |
+| 274 | 324 | DayDreamer79 |
 | 275 | 324 | Norma Ortiz |
-| 276 | 324 | DayDreamer79 |
-| 277 | 322 | Pam Bauder Ludwig |
-| 278 | 322 | Queen |
+| 276 | 324 | Swanky Fitline |
+| 277 | 322 | Queen |
+| 278 | 322 | Pam Bauder Ludwig |
 | 279 | 320 | Linda Guay |
-| 280 | 319 | Ackerman 85 |
-| 281 | 318 | Pamela Raye |
-| 282 | 318 | Margie Ann Naffziger |
-| 283 | 316 | Jeanna Mendez |
-| 284 | 310 | Amy Taylor Pomerenk |
-| 285 | 310 | Jenn |
-| 286 | 309 | Aldotfus Williams |
-| 287 | 308 | Heather Burgett |
-| 288 | 308 | Larry Cross |
-| 289 | 308 | Hector |
-| 290 | 306 | Brittney Williams |
-| 291 | 305 | Logan Duffey |
+| 280 | 319 | Mellzey |
+| 281 | 319 | Ackerman 85 |
+| 282 | 318 | Pamela Raye |
+| 283 | 318 | Margie Ann Naffziger |
+| 284 | 316 | Jeanna Mendez |
+| 285 | 310 | Aldotfus Williams |
+| 286 | 310 | Amy Taylor Pomerenk |
+| 287 | 310 | Jenn |
+| 288 | 308 | Hector |
+| 289 | 308 | Heather Burgett |
+| 290 | 308 | Larry Cross |
+| 291 | 306 | Brittney Williams |
 | 292 | 305 | Melissa Clogher White |
-| 293 | 305 | Havik Whitfield |
-| 294 | 303 | Mellzey |
+| 293 | 305 | Logan Duffey |
+| 294 | 305 | Havik Whitfield |
 | 295 | 300 | Jason Cunningham |
-| 296 | 300 | Jamin |
-| 297 | 300 | Sarah Rodriguez |
-| 298 | 300 | Patricia Carroll |
-| 299 | 300 | Melisa |
+| 296 | 300 | Patricia Carroll |
+| 297 | 300 | Melisa |
+| 298 | 300 | Jamin |
+| 299 | 300 | Sarah Rodriguez |
 | 300 | 299 | Alicia Kinney |
 | 301 | 298 | Rob Owens |
 | 302 | 296 | Vistabrat |
@@ -1942,33 +1942,33 @@
 | 1934 | 14 | Randy Taylor |
 | 1935 | 14 | Crystal Swigart |
 | 1936 | 14 | Manuel Lucero Jr. |
-| 1937 | 14 | Jollygirl |
-| 1938 | 14 | Charles Mercer |
-| 1939 | 14 | Imat Yesmar |
-| 1940 | 14 | Patricia Meza |
-| 1941 | 14 | MiMi’26 |
-| 1942 | 14 | Beaglemom |
-| 1943 | 14 | Symmy Norton |
-| 1944 | 14 | Randi Moore |
-| 1945 | 14 | John Sewell |
-| 1946 | 14 | Angelica Champlin |
-| 1947 | 14 | Terri Beddard |
-| 1948 | 14 | Joseph Austin Prince |
-| 1949 | 14 | BlockBreaker |
-| 1950 | 14 | Christopher Pulley |
-| 1951 | 14 | Jon Torres |
-| 1952 | 13 | Smiley Clearer |
-| 1953 | 13 | Deborah Fowler |
-| 1954 | 13 | Bad Juju |
-| 1955 | 13 | Sam Blinn |
-| 1956 | 13 | Torb |
-| 1957 | 13 | Cristy Ayala |
-| 1958 | 13 | Sarah Jean Huston |
-| 1959 | 13 | Dawn Marie Justice |
-| 1960 | 13 | Chad Praytor |
-| 1961 | 13 | Dustin Bumbalough |
-| 1962 | 13 | Ryan D. Norcross |
-| 1963 | 13 | Twisty Tower |
+| 1937 | 14 | Twisty Tower |
+| 1938 | 14 | Jollygirl |
+| 1939 | 14 | Charles Mercer |
+| 1940 | 14 | Imat Yesmar |
+| 1941 | 14 | Patricia Meza |
+| 1942 | 14 | MiMi’26 |
+| 1943 | 14 | Beaglemom |
+| 1944 | 14 | Symmy Norton |
+| 1945 | 14 | Randi Moore |
+| 1946 | 14 | John Sewell |
+| 1947 | 14 | Angelica Champlin |
+| 1948 | 14 | Terri Beddard |
+| 1949 | 14 | Joseph Austin Prince |
+| 1950 | 14 | BlockBreaker |
+| 1951 | 14 | Christopher Pulley |
+| 1952 | 14 | Jon Torres |
+| 1953 | 13 | Smiley Clearer |
+| 1954 | 13 | Deborah Fowler |
+| 1955 | 13 | Bad Juju |
+| 1956 | 13 | Sam Blinn |
+| 1957 | 13 | Torb |
+| 1958 | 13 | Cristy Ayala |
+| 1959 | 13 | Sarah Jean Huston |
+| 1960 | 13 | Dawn Marie Justice |
+| 1961 | 13 | Chad Praytor |
+| 1962 | 13 | Dustin Bumbalough |
+| 1963 | 13 | Ryan D. Norcross |
 | 1964 | 13 | Kandie Warren |
 | 1965 | 13 | Sunnylynn Hodge |
 | 1966 | 13 | Cool Cornerfall |
