@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:40:19 UTC
+# Standings for team1 as of 2026-06-08 10:40:43 UTC
 
 **Total Participants:** 1777
 
@@ -393,44 +393,44 @@
 | 385 | 194 | Cheery Linkfall |
 | 386 | 193 | Matthieu Pistone |
 | 387 | 193 | Kate Hancock Malicek |
-| 388 | 192 | Hyper Blocky |
-| 389 | 192 | Joana Thompson |
-| 390 | 191 | Jelyfish |
-| 391 | 191 | Lozuna |
-| 392 | 190 | Chipper Snapper |
-| 393 | 190 | Ladybug |
-| 394 | 189 | Tosha Michelle |
+| 388 | 192 | Joana Thompson |
+| 389 | 192 | Donna Payne |
+| 390 | 192 | Hyper Blocky |
+| 391 | 191 | Jelyfish |
+| 392 | 191 | Lozuna |
+| 393 | 190 | Chipper Snapper |
+| 394 | 190 | Ladybug |
 | 395 | 189 | Jolly Tilefall |
-| 396 | 189 | Sean White |
+| 396 | 189 | Nate Myers |
 | 397 | 189 | Slinky Snapbuilder |
-| 398 | 189 | Nate Myers |
-| 399 | 188 | CJ Robinson |
-| 400 | 188 | Tyiesha Pie Farmer |
-| 401 | 188 | Travis Davison |
-| 402 | 187 | Monica Fields |
-| 403 | 187 | Kristine Marie Palmer |
+| 398 | 189 | Sean White |
+| 399 | 189 | Tosha Michelle |
+| 400 | 188 | Travis Davison |
+| 401 | 188 | Tyiesha Pie Farmer |
+| 402 | 188 | CJ Robinson |
+| 403 | 187 | Monica Fields |
 | 404 | 187 | Jennah |
-| 405 | 186 | Monica Tovar |
-| 406 | 185 | Sarah Swietlicki - Lopez |
+| 405 | 187 | Kristine Marie Palmer |
+| 406 | 186 | Monica Tovar |
 | 407 | 185 | Tesiree Cray |
-| 408 | 185 | Giggy Tower |
-| 409 | 184 | Soubletzy |
+| 408 | 185 | Sarah Swietlicki - Lopez |
+| 409 | 185 | Giggy Tower |
 | 410 | 184 | 大竹直之 |
-| 411 | 184 | Bbyunicorn |
-| 412 | 183 | wmedina67 |
+| 411 | 184 | Soubletzy |
+| 412 | 184 | Bbyunicorn |
 | 413 | 183 | Erika |
-| 414 | 183 | Mary Phillippi Blanton |
-| 415 | 182 | Courtney Cicoria |
-| 416 | 182 | Comedian Prince Paul |
-| 417 | 182 | Donna Payne |
+| 414 | 183 | wmedina67 |
+| 415 | 183 | Mary Phillippi Blanton |
+| 416 | 182 | Courtney Cicoria |
+| 417 | 182 | Comedian Prince Paul |
 | 418 | 181 | Sharee Robinson |
-| 419 | 180 | Daddy |
-| 420 | 180 | Larina Cherie Johnson |
+| 419 | 180 | Cornelius Neal |
+| 420 | 180 | Zippy Lifter |
 | 421 | 180 | akosua |
-| 422 | 180 | Cornelius Neal |
-| 423 | 180 | Zippy Lifter |
-| 424 | 179 | Giggy Clusterer |
-| 425 | 179 | KeeKee Williams |
+| 422 | 180 | Daddy |
+| 423 | 180 | Larina Cherie Johnson |
+| 424 | 179 | KeeKee Williams |
+| 425 | 179 | Giggy Clusterer |
 | 426 | 179 | Lively Riserpiece |
 | 427 | 179 | Skippy |
 | 428 | 178 | Manda Allen |
@@ -481,18 +481,18 @@
 | 473 | 159 | Tee Spinks |
 | 474 | 158 | Kimberly Linares Hernandez |
 | 475 | 158 | Mahagony Small |
-| 476 | 157 | Rachel Renae Bettis |
-| 477 | 156 | Johnathan Deese |
-| 478 | 156 | Chris Holland |
-| 479 | 156 | Amy Villalpando |
-| 480 | 156 | Shalya Terry |
-| 481 | 156 | Lakiesha Crawford |
-| 482 | 155 | nameno |
-| 483 | 155 | Tajuana Juana'Cee Coleman |
-| 484 | 155 | Kala Miller |
-| 485 | 155 | Miera Nicole |
-| 486 | 155 | Katrina Ramey |
-| 487 | 155 | Douglas Price |
+| 476 | 157 | Douglas Price |
+| 477 | 157 | Rachel Renae Bettis |
+| 478 | 156 | Johnathan Deese |
+| 479 | 156 | Chris Holland |
+| 480 | 156 | Amy Villalpando |
+| 481 | 156 | Shalya Terry |
+| 482 | 156 | Lakiesha Crawford |
+| 483 | 155 | nameno |
+| 484 | 155 | Tajuana Juana'Cee Coleman |
+| 485 | 155 | Kala Miller |
+| 486 | 155 | Miera Nicole |
+| 487 | 155 | Katrina Ramey |
 | 488 | 155 | Jae Thompson-Tyus |
 | 489 | 154 | Rebecca Jackson |
 | 490 | 154 | Jenni Hardman |
