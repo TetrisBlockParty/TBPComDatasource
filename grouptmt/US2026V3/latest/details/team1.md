@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:27:20 UTC
+# Standings for team1 as of 2026-06-08 09:28:19 UTC
 
 **Total Participants:** 1768
 
@@ -11,8 +11,8 @@
 | 3 | 12078 | Charlie Roehm |
 | 4 | 10055 | Carrie English |
 | 5 | 9200 | Charnay Peacock |
-| 6 | 8746 | Tyeina Johnson |
-| 7 | 8742 | Death by SnuSnu |
+| 6 | 8842 | Death by SnuSnu |
+| 7 | 8746 | Tyeina Johnson |
 | 8 | 8669 | Songne Arif |
 | 9 | 8278 | Debbie Carswell |
 | 10 | 7934 | Dyane Leah Ware |
@@ -71,8 +71,8 @@
 | 63 | 1159 | Corey Cawthon |
 | 64 | 1156 | Frisky Fallmatch |
 | 65 | 1126 | Ryan Meilleur |
-| 66 | 1122 | Eric Mcgaughy |
-| 67 | 1122 | Blockhead |
+| 66 | 1122 | Blockhead |
+| 67 | 1122 | Eric Mcgaughy |
 | 68 | 1118 | Todd C. Clemens |
 | 69 | 1112 | Tiana Moore |
 | 70 | 1093 | Sanjuro |
@@ -304,9 +304,9 @@
 | 296 | 254 | Smiley Clearpiece |
 | 297 | 253 | Tasha |
 | 298 | 252 | Andrew Jay Vaughn |
-| 299 | 248 | Darrel K Pemberton |
-| 300 | 248 | Mikayla |
-| 301 | 248 | Tessa Felice Hill |
+| 299 | 249 | Tessa Felice Hill |
+| 300 | 248 | Darrel K Pemberton |
+| 301 | 248 | Mikayla |
 | 302 | 246 | Curtis T Cirno |
 | 303 | 245 | Kelli Couture |
 | 304 | 245 | Derrius SeriousLee Burks |
@@ -358,39 +358,39 @@
 | 350 | 211 | Nina Davis |
 | 351 | 210 | Alyssa Rae |
 | 352 | 210 | Sarah Clark |
-| 353 | 209 | Antonia Wyche |
-| 354 | 209 | $hort Dog |
-| 355 | 209 | Phillip Vasquez |
-| 356 | 209 | Guy Incognito |
+| 353 | 209 | $hort Dog |
+| 354 | 209 | Phillip Vasquez |
+| 355 | 209 | Guy Incognito |
+| 356 | 209 | Antonia Wyche |
 | 357 | 208 | izzybella |
 | 358 | 205 | Treneil Daffin |
-| 359 | 205 | OhNoZer0 |
-| 360 | 203 | Daris Swearington |
-| 361 | 202 | Messy Live |
-| 362 | 202 | Peppy Glider |
-| 363 | 202 | Crystal Cheresnowsky |
-| 364 | 202 | Poppy Buildout |
-| 365 | 202 | Frankey Chi |
-| 366 | 202 | Sammie Walker |
-| 367 | 201 | Richard Flex |
-| 368 | 201 | Rayshawn Cohen |
-| 369 | 200 | TBABYJ |
-| 370 | 200 | kitten |
-| 371 | 200 | Lisa Fletcher |
-| 372 | 200 | Teri Marie Clayton |
+| 359 | 205 | Amy Lynn Leifheit |
+| 360 | 205 | OhNoZer0 |
+| 361 | 203 | Daris Swearington |
+| 362 | 202 | Messy Live |
+| 363 | 202 | Peppy Glider |
+| 364 | 202 | Crystal Cheresnowsky |
+| 365 | 202 | Poppy Buildout |
+| 366 | 202 | Frankey Chi |
+| 367 | 202 | Sammie Walker |
+| 368 | 201 | Richard Flex |
+| 369 | 201 | Rayshawn Cohen |
+| 370 | 200 | Lisa Fletcher |
+| 371 | 200 | Teri Marie Clayton |
+| 372 | 200 | kitten |
 | 373 | 200 | Maribel Vasquez |
-| 374 | 199 | Fina McKinnis |
+| 374 | 200 | TBABYJ |
 | 375 | 199 | Nickeya Phillips |
-| 376 | 197 | De'Nell Edwards |
-| 377 | 196 | BabyCakes |
-| 378 | 194 | Cheery Linkfall |
-| 379 | 193 | Matthieu Pistone |
-| 380 | 193 | Amy Lynn Leifheit |
-| 381 | 192 | Joana Thompson |
-| 382 | 192 | Hyper Blocky |
-| 383 | 191 | Jelyfish |
-| 384 | 191 | Lozuna |
-| 385 | 191 | Kate Hancock Malicek |
+| 376 | 199 | Fina McKinnis |
+| 377 | 197 | De'Nell Edwards |
+| 378 | 196 | BabyCakes |
+| 379 | 194 | Cheery Linkfall |
+| 380 | 193 | Matthieu Pistone |
+| 381 | 192 | Hyper Blocky |
+| 382 | 192 | Joana Thompson |
+| 383 | 191 | Kate Hancock Malicek |
+| 384 | 191 | Jelyfish |
+| 385 | 191 | Lozuna |
 | 386 | 190 | Chipper Snapper |
 | 387 | 189 | Sean White |
 | 388 | 189 | Slinky Snapbuilder |
