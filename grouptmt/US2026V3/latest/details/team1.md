@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:34:20 UTC
+# Standings for team1 as of 2026-06-08 18:34:43 UTC
 
 **Total Participants:** 1846
 
@@ -979,47 +979,47 @@
 | 971 | 77 | S.S |
 | 972 | 77 | Tomme Poliwka |
 | 973 | 77 | Teisha Scott |
-| 974 | 76 | Mama P |
-| 975 | 76 | Vannie G |
-| 976 | 76 | Paul Doty |
-| 977 | 76 | NataAllDay |
-| 978 | 76 | Ashley Love Pettit |
-| 979 | 75 | Jane Lame |
-| 980 | 75 | Marissa Sweet |
-| 981 | 75 | sasha |
-| 982 | 75 | Khatyrah Burnette |
-| 983 | 75 | Ray Baker |
-| 984 | 75 | Courtney Robinson |
-| 985 | 75 | Kyle Franklin |
-| 986 | 74 | Lively Clusterline |
-| 987 | 74 | Stronger Wiser Better |
-| 988 | 74 | Giggy Brickfit |
-| 989 | 74 | GiantBehemoth |
-| 990 | 74 | Ace Hardware |
-| 991 | 74 | Delitra Perkins Hatter |
-| 992 | 74 | Seirra Robinson |
-| 993 | 74 | Tetrisdestroyer |
-| 994 | 74 | Willson06 |
-| 995 | 73 | Sarah Barnum |
-| 996 | 73 | Alice Biggs |
-| 997 | 73 | Lazy Matchgrid |
-| 998 | 73 | Jonathan Zold |
+| 974 | 76 | Jane Lame |
+| 975 | 76 | Mama P |
+| 976 | 76 | Vannie G |
+| 977 | 76 | Paul Doty |
+| 978 | 76 | NataAllDay |
+| 979 | 76 | Ashley Love Pettit |
+| 980 | 75 | Kyle Franklin |
+| 981 | 75 | Marissa Sweet |
+| 982 | 75 | Courtney Robinson |
+| 983 | 75 | sasha |
+| 984 | 75 | Ray Baker |
+| 985 | 75 | Khatyrah Burnette |
+| 986 | 74 | Tetrisdestroyer |
+| 987 | 74 | Seirra Robinson |
+| 988 | 74 | Willson06 |
+| 989 | 74 | Lively Clusterline |
+| 990 | 74 | Stronger Wiser Better |
+| 991 | 74 | Ace Hardware |
+| 992 | 74 | Delitra Perkins Hatter |
+| 993 | 74 | Giggy Brickfit |
+| 994 | 74 | GiantBehemoth |
+| 995 | 73 | Lazy Matchgrid |
+| 996 | 73 | Jonathan Zold |
+| 997 | 73 | Alice Biggs |
+| 998 | 73 | tg |
 | 999 | 73 | Ducc2408 |
-| 1000 | 73 | Bluebino |
-| 1001 | 73 | tg |
-| 1002 | 72 | ImmeKC |
-| 1003 | 72 | Dennis Ripley |
-| 1004 | 72 | Comedian Gdane |
+| 1000 | 73 | Sarah Barnum |
+| 1001 | 73 | Bluebino |
+| 1002 | 72 | Comedian Gdane |
+| 1003 | 72 | Vivian Bunnell Myers |
+| 1004 | 72 | ImmeKC |
 | 1005 | 72 | WReckitraff |
-| 1006 | 72 | Vivian Bunnell Myers |
+| 1006 | 72 | Dennis Ripley |
 | 1007 | 72 | Toohartless Mech |
-| 1008 | 71 | HBTone |
+| 1008 | 71 | Tori Carter |
 | 1009 | 71 | KimChii |
-| 1010 | 71 | Ryan Holm |
-| 1011 | 71 | Tori Carter |
+| 1010 | 71 | HBTone |
+| 1011 | 71 | Ryan Holm |
 | 1012 | 70 | Smøke DGAF |
-| 1013 | 70 | Nedine Ray |
-| 1014 | 70 | Rande Smith |
+| 1013 | 70 | Rande Smith |
+| 1014 | 70 | Nedine Ray |
 | 1015 | 70 | Eli Delao |
 | 1016 | 70 | Alisha Dawson Crouch |
 | 1017 | 70 | JoZanna Washington |
@@ -1036,49 +1036,49 @@
 | 1028 | 69 | Spunky Strikerbuilder |
 | 1029 | 69 | Keith Johnson |
 | 1030 | 69 | BrettanMary Adkins |
-| 1031 | 68 | Mamiyoung47 |
+| 1031 | 68 | Michael Gray |
 | 1032 | 68 | AleahKCH |
 | 1033 | 68 | Sheesh |
-| 1034 | 68 | Michael Gray |
-| 1035 | 68 | Fairy Fae_6 |
-| 1036 | 68 | Shawna Passwater |
-| 1037 | 68 | Saucy Crusher |
+| 1034 | 68 | Fairy Fae_6 |
+| 1035 | 68 | Shawna Passwater |
+| 1036 | 68 | Saucy Crusher |
+| 1037 | 68 | Mamiyoung47 |
 | 1038 | 67 | Alanna Breitenbach |
 | 1039 | 67 | Alize |
 | 1040 | 67 | Michele Elizabeth McKay-Johnson |
 | 1041 | 67 | Boldy Matchfit |
 | 1042 | 67 | Sharon Lynn |
-| 1043 | 66 | Taylor Jordan Hollis |
-| 1044 | 66 | LaMinda Todd |
+| 1043 | 66 | LaMinda Todd |
+| 1044 | 66 | Taylor Jordan Hollis |
 | 1045 | 66 | GoldStarJo |
-| 1046 | 66 | Bold Spinblock |
-| 1047 | 66 | Evelyn Epps |
+| 1046 | 66 | Evelyn Epps |
+| 1047 | 66 | Bold Spinblock |
 | 1048 | 66 | Letrishia Andrews |
-| 1049 | 66 | Jroc Tyra Taylor |
-| 1050 | 66 | Meluhnee |
-| 1051 | 66 | Mami Badd |
-| 1052 | 66 | Sugar Foot |
-| 1053 | 66 | Raquele Hines |
-| 1054 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1055 | 65 | Trixie |
-| 1056 | 65 | Furlough Leslie |
-| 1057 | 65 | Denisa Amazon Clark |
-| 1058 | 65 | Vonda House |
-| 1059 | 64 | midnightxtoker |
-| 1060 | 64 | Mighty Riserbuilder |
-| 1061 | 64 | Morenita Rodriguez |
-| 1062 | 64 | Giggly Dasher |
-| 1063 | 64 | Kanesha Jackson |
-| 1064 | 64 | Capt Kev |
-| 1065 | 64 | LaPorscha Wright |
-| 1066 | 64 | Alexis Alexander |
-| 1067 | 63 | Tonny Williams |
-| 1068 | 63 | Nerdy Wipefit |
-| 1069 | 63 | Natasha Harris |
-| 1070 | 63 | Amanda Colwell |
-| 1071 | 63 | Jeremy Hendrix |
-| 1072 | 63 | Gary Kyle |
-| 1073 | 63 | Darrelle Short |
+| 1049 | 66 | Meluhnee |
+| 1050 | 66 | Jroc Tyra Taylor |
+| 1051 | 66 | Sugar Foot |
+| 1052 | 66 | Mami Badd |
+| 1053 | 66 | Darrelle Short |
+| 1054 | 66 | Raquele Hines |
+| 1055 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1056 | 65 | Trixie |
+| 1057 | 65 | Furlough Leslie |
+| 1058 | 65 | Denisa Amazon Clark |
+| 1059 | 65 | Vonda House |
+| 1060 | 64 | midnightxtoker |
+| 1061 | 64 | Mighty Riserbuilder |
+| 1062 | 64 | Morenita Rodriguez |
+| 1063 | 64 | Giggly Dasher |
+| 1064 | 64 | Kanesha Jackson |
+| 1065 | 64 | Capt Kev |
+| 1066 | 64 | LaPorscha Wright |
+| 1067 | 64 | Alexis Alexander |
+| 1068 | 63 | Tonny Williams |
+| 1069 | 63 | Nerdy Wipefit |
+| 1070 | 63 | Natasha Harris |
+| 1071 | 63 | Amanda Colwell |
+| 1072 | 63 | Jeremy Hendrix |
+| 1073 | 63 | Gary Kyle |
 | 1074 | 63 | Lucy Range |
 | 1075 | 62 | Tia Hazelton |
 | 1076 | 62 | Quirky Slammer |
