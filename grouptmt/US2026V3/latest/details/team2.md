@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:48:45 UTC
+# Standings for team2 as of 2026-06-08 06:49:20 UTC
 
 **Total Participants:** 2129
 
@@ -288,9 +288,9 @@
 | 280 | 312 | Hypee |
 | 281 | 310 | Jenn |
 | 282 | 308 | Larry Cross |
-| 283 | 308 | Heather Burgett |
-| 284 | 308 | Hector |
-| 285 | 306 | Charles E Mccardell |
+| 283 | 308 | Charles E Mccardell |
+| 284 | 308 | Heather Burgett |
+| 285 | 308 | Hector |
 | 286 | 306 | Brittney Williams |
 | 287 | 305 | Logan Duffey |
 | 288 | 305 | Melissa Clogher White |
@@ -1182,22 +1182,22 @@
 | 1174 | 61 | Marcia Davis |
 | 1175 | 61 | Dena Cudjo |
 | 1176 | 61 | Mandy Smart |
-| 1177 | 61 | Deb Rose-Bridinger |
-| 1178 | 61 | Kevin Perez |
-| 1179 | 60 | Anna Chance |
-| 1180 | 60 | Gloria Appleton |
-| 1181 | 60 | Tish |
-| 1182 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1183 | 60 | Julie Brown |
-| 1184 | 60 | Tiffany Lewis |
-| 1185 | 60 | MattandAngie Hopkins |
+| 1177 | 61 | Kevin Perez |
+| 1178 | 61 | Deb Rose-Bridinger |
+| 1179 | 60 | Ally Miller |
+| 1180 | 60 | Anna Chance |
+| 1181 | 60 | Gloria Appleton |
+| 1182 | 60 | Julie Brown |
+| 1183 | 60 | Tish |
+| 1184 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1185 | 60 | Tiffany Lewis |
 | 1186 | 60 | Ramon James |
-| 1187 | 60 | Ally Miller |
+| 1187 | 60 | MattandAngie Hopkins |
 | 1188 | 60 | Hannah Meadows Hammond |
 | 1189 | 60 | Scott Lyles |
 | 1190 | 60 | Kenya Johnson |
-| 1191 | 60 | Heather Klaus |
-| 1192 | 60 | Karen Mueller |
+| 1191 | 60 | Karen Mueller |
+| 1192 | 60 | Heather Klaus |
 | 1193 | 60 | Brandi Williams |
 | 1194 | 60 | Giggly Buildgrid |
 | 1195 | 60 | Stephania Edwards |
@@ -1257,49 +1257,49 @@
 | 1249 | 57 | Brooke Marie Fox |
 | 1250 | 57 | Angie Barlow |
 | 1251 | 56 | Rob Phillips |
-| 1252 | 56 | CountryGurl |
-| 1253 | 56 | Perky Rollfit |
-| 1254 | 56 | Danielle Etchison Mask |
-| 1255 | 56 | Snazzy Tiley |
-| 1256 | 56 | Jennifer Augustine |
+| 1252 | 56 | Heather Nicole |
+| 1253 | 56 | CountryGurl |
+| 1254 | 56 | Perky Rollfit |
+| 1255 | 56 | Danielle Etchison Mask |
+| 1256 | 56 | Snazzy Tiley |
 | 1257 | 56 | Louise LeBlanc |
-| 1258 | 56 | Bobbie Carrol |
-| 1259 | 56 | Joe Duffer |
-| 1260 | 56 | Bunny Bt |
-| 1261 | 56 | Daniel Cline |
-| 1262 | 56 | Armordguy |
-| 1263 | 56 | Breanna Dykes |
-| 1264 | 56 | Brandon Ray Holt |
-| 1265 | 55 | Stephanie |
-| 1266 | 55 | James Calhoun |
-| 1267 | 55 | Misty McElroy |
-| 1268 | 55 | Teloney Humphrey |
-| 1269 | 55 | bigdog |
-| 1270 | 55 | GentleGiant Brackett |
-| 1271 | 55 | Gilbert Medina |
-| 1272 | 55 | Nick Waterwalker |
-| 1273 | 54 | Jess Duehring |
+| 1258 | 56 | Jennifer Augustine |
+| 1259 | 56 | Bobbie Carrol |
+| 1260 | 56 | Joe Duffer |
+| 1261 | 56 | Bunny Bt |
+| 1262 | 56 | Daniel Cline |
+| 1263 | 56 | Armordguy |
+| 1264 | 56 | Breanna Dykes |
+| 1265 | 56 | Brandon Ray Holt |
+| 1266 | 55 | Stephanie |
+| 1267 | 55 | James Calhoun |
+| 1268 | 55 | Misty McElroy |
+| 1269 | 55 | Teloney Humphrey |
+| 1270 | 55 | bigdog |
+| 1271 | 55 | Nick Waterwalker |
+| 1272 | 55 | GentleGiant Brackett |
+| 1273 | 55 | Gilbert Medina |
 | 1274 | 54 | Swanky Twister |
-| 1275 | 54 | Alexis Turner |
-| 1276 | 54 | Glitzy Fallgrid |
-| 1277 | 54 | Heather Lewis |
-| 1278 | 54 | Cynthia Rose Candelaria |
-| 1279 | 54 | Christina Nycol |
-| 1280 | 54 | Lively Liner |
-| 1281 | 54 | Jumpy Linkroll |
-| 1282 | 54 | Rae Madewell |
-| 1283 | 54 | Josie Mendivil |
-| 1284 | 53 | Topknot13 |
-| 1285 | 53 | Thomas Johnstone |
-| 1286 | 53 | Kristen Alta |
-| 1287 | 53 | Gigi |
+| 1275 | 54 | Cynthia Rose Candelaria |
+| 1276 | 54 | Heather Lewis |
+| 1277 | 54 | Alexis Turner |
+| 1278 | 54 | Glitzy Fallgrid |
+| 1279 | 54 | Jess Duehring |
+| 1280 | 54 | Christina Nycol |
+| 1281 | 54 | Lively Liner |
+| 1282 | 54 | Jumpy Linkroll |
+| 1283 | 54 | Rae Madewell |
+| 1284 | 54 | Josie Mendivil |
+| 1285 | 53 | Topknot13 |
+| 1286 | 53 | Thomas Johnstone |
+| 1287 | 53 | Kristen Alta |
 | 1288 | 53 | Silly Cluster |
-| 1289 | 52 | Heather Nicole |
-| 1290 | 52 | Daniel Flathers |
-| 1291 | 52 | Samantha LeBlanc |
+| 1289 | 53 | Gigi |
+| 1290 | 52 | Amy Renaud |
+| 1291 | 52 | Jolly Balanceblock |
 | 1292 | 52 | Chirpy Shiftspin |
-| 1293 | 52 | Jolly Balanceblock |
-| 1294 | 52 | Amy Renaud |
+| 1293 | 52 | Daniel Flathers |
+| 1294 | 52 | Samantha LeBlanc |
 | 1295 | 52 | Lisa Rose |
 | 1296 | 52 | Chipper Spinzone |
 | 1297 | 52 | Amber Marie Lacey |
@@ -1312,10 +1312,10 @@
 | 1304 | 51 | Brian Giddens |
 | 1305 | 51 | Snazzy Clusterfit |
 | 1306 | 51 | Baby |
-| 1307 | 51 | Ramona Peña |
-| 1308 | 51 | Zippy Wobbler |
-| 1309 | 51 | Stacy Shaunce |
-| 1310 | 51 | Charity Black |
+| 1307 | 51 | Stacy Shaunce |
+| 1308 | 51 | Ramona Peña |
+| 1309 | 51 | Charity Black |
+| 1310 | 51 | Zippy Wobbler |
 | 1311 | 51 | Kandy Comer |
 | 1312 | 51 | haihai |
 | 1313 | 50 | Susan Moyer |
