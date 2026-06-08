@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:24:18 UTC
+# Standings for team1 as of 2026-06-08 00:24:43 UTC
 
 **Total Participants:** 1632
 
@@ -542,10 +542,10 @@
 | 534 | 116 | Jackytrain52 |
 | 535 | 116 | Sallie Sanborn |
 | 536 | 115 | Mighty Dropper |
-| 537 | 115 | Rufus |
-| 538 | 114 | LAhoneybun82 |
-| 539 | 114 | Cranky Fall |
-| 540 | 114 | Daring Riserfit |
+| 537 | 115 | Daring Riserfit |
+| 538 | 115 | Rufus |
+| 539 | 114 | LAhoneybun82 |
+| 540 | 114 | Cranky Fall |
 | 541 | 113 | Lilly Brown |
 | 542 | 113 | Betsy B. Yohan |
 | 543 | 112 | DirtiestofMikes |
@@ -656,36 +656,36 @@
 | 648 | 93 | Rene Hicks |
 | 649 | 93 | messyboots |
 | 650 | 93 | Victor |
-| 651 | 93 | FunTime |
-| 652 | 93 | C Lo Green |
-| 653 | 92 | Barbramerri Tarboro |
+| 651 | 93 | C Lo Green |
+| 652 | 93 | FunTime |
+| 653 | 92 | Plucky Slamdrop |
 | 654 | 92 | Ashley Davis |
-| 655 | 92 | Juicy |
-| 656 | 92 | Poppy Twister |
-| 657 | 91 | David A Alvino |
-| 658 | 90 | Slinky Fallzone |
-| 659 | 90 | Jason Saputo |
+| 655 | 92 | Barbramerri Tarboro |
+| 656 | 92 | Juicy |
+| 657 | 92 | Poppy Twister |
+| 658 | 91 | David A Alvino |
+| 659 | 90 | Slinky Fallzone |
 | 660 | 90 | mya |
-| 661 | 90 | Rissa Rozay |
-| 662 | 90 | Tramaine Crockrum |
-| 663 | 90 | Essence Jones |
-| 664 | 90 | Kizzy Clark |
+| 661 | 90 | Jason Saputo |
+| 662 | 90 | Essence Jones |
+| 663 | 90 | Rissa Rozay |
+| 664 | 90 | Tramaine Crockrum |
 | 665 | 90 | Dannie |
-| 666 | 90 | Esha I'msoproudofmyself Davis |
+| 666 | 90 | Kizzy Clark |
 | 667 | 90 | crumb bumc |
 | 668 | 90 | Shameka Tiffany |
-| 669 | 89 | Spicy Shatterblock |
-| 670 | 89 | Darrel Pemberton |
-| 671 | 89 | Naee Bee |
-| 672 | 89 | Jazzy Bridger |
-| 673 | 89 | Marc Papa |
-| 674 | 89 | Tracy Feyler |
-| 675 | 89 | Johnathan Deese |
-| 676 | 88 | Ryan Runyan |
-| 677 | 88 | Maria Baez Medina |
-| 678 | 87 | Pj Rojas |
-| 679 | 87 | Natalie Burroughs |
-| 680 | 87 | Plucky Slamdrop |
+| 669 | 90 | Esha I'msoproudofmyself Davis |
+| 670 | 89 | Spicy Shatterblock |
+| 671 | 89 | Darrel Pemberton |
+| 672 | 89 | Naee Bee |
+| 673 | 89 | Jazzy Bridger |
+| 674 | 89 | Marc Papa |
+| 675 | 89 | Tracy Feyler |
+| 676 | 89 | Johnathan Deese |
+| 677 | 88 | Ryan Runyan |
+| 678 | 88 | Maria Baez Medina |
+| 679 | 87 | Pj Rojas |
+| 680 | 87 | Natalie Burroughs |
 | 681 | 87 | LexiiSamayaa |
 | 682 | 86 | MrsDontPlay |
 | 683 | 86 | lady |
@@ -967,12 +967,12 @@
 | 959 | 53 | Clever Wrecker |
 | 960 | 53 | Morenita Rodriguez |
 | 961 | 53 | Meshia |
-| 962 | 52 | Abdul Malik |
-| 963 | 52 | Giggy Holder |
-| 964 | 52 | Diamond Nicole |
-| 965 | 52 | Loopy Risepiece |
-| 966 | 52 | Chummy Liner |
-| 967 | 52 | Frilly Shatterline |
+| 962 | 53 | Frilly Shatterline |
+| 963 | 52 | Abdul Malik |
+| 964 | 52 | Giggy Holder |
+| 965 | 52 | Diamond Nicole |
+| 966 | 52 | Loopy Risepiece |
+| 967 | 52 | Chummy Liner |
 | 968 | 52 | Tray Tolliver |
 | 969 | 51 | Boldy Matchfit |
 | 970 | 51 | BigMike |
@@ -981,12 +981,12 @@
 | 973 | 51 | Laura |
 | 974 | 51 | Shanjerrica Taylor Rosell |
 | 975 | 51 | Evelyn Epps |
-| 976 | 50 | win |
+| 976 | 50 | Daring Linkfall |
 | 977 | 50 | Aero Builder |
 | 978 | 50 | Mikemike Zonethree |
 | 979 | 50 | Denell Sims |
 | 980 | 50 | Rachael R Gull |
-| 981 | 50 | Daring Linkfall |
+| 981 | 50 | win |
 | 982 | 50 | Ivan Israel |
 | 983 | 50 | MsBobby Patrick |
 | 984 | 50 | Bold Spinblock |
@@ -994,8 +994,8 @@
 | 986 | 49 | Smiley Bridgepiece |
 | 987 | 49 | MindlessMic |
 | 988 | 49 | Macho Lewis |
-| 989 | 49 | Daphne Ceasar |
-| 990 | 49 | Teisha Scott |
+| 989 | 49 | Teisha Scott |
+| 990 | 49 | Daphne Ceasar |
 | 991 | 49 | Ķïrãã Ďãvïss |
 | 992 | 49 | Lucy Range |
 | 993 | 49 | Brika Brika |
@@ -1005,59 +1005,59 @@
 | 997 | 48 | P C |
 | 998 | 48 | Davina Valentino |
 | 999 | 48 | Michael Lindenlauf |
-| 1000 | 48 | LoveLee |
-| 1001 | 48 | Bubbly Crawler |
-| 1002 | 48 | Eli Delao |
-| 1003 | 48 | jaz |
-| 1004 | 47 | Austin Smith |
-| 1005 | 47 | Tushama Cheris Okraku |
-| 1006 | 47 | Jodie |
-| 1007 | 47 | Bambam |
-| 1008 | 47 | Kevin Turner |
-| 1009 | 47 | Pizzle |
-| 1010 | 47 | Taylor Jordan Hollis |
-| 1011 | 47 | Hoppy Rumbler |
-| 1012 | 47 | William Vidra |
-| 1013 | 47 | Demetrice Buck Wilson |
-| 1014 | 47 | Andra Ward |
-| 1015 | 47 | Denise Cunningham-English |
-| 1016 | 46 | Elizabeth Green |
-| 1017 | 46 | Jenni |
-| 1018 | 46 | Tina Criam |
-| 1019 | 46 | Hoppy Buildsnap |
-| 1020 | 46 | TrapQween39Bi |
+| 1000 | 48 | jaz |
+| 1001 | 48 | LoveLee |
+| 1002 | 48 | Bubbly Crawler |
+| 1003 | 48 | Eli Delao |
+| 1004 | 48 | Lazy Matchgrid |
+| 1005 | 47 | Austin Smith |
+| 1006 | 47 | Tushama Cheris Okraku |
+| 1007 | 47 | Jodie |
+| 1008 | 47 | Bambam |
+| 1009 | 47 | Kevin Turner |
+| 1010 | 47 | Pizzle |
+| 1011 | 47 | Taylor Jordan Hollis |
+| 1012 | 47 | Hoppy Rumbler |
+| 1013 | 47 | William Vidra |
+| 1014 | 47 | Demetrice Buck Wilson |
+| 1015 | 47 | Andra Ward |
+| 1016 | 47 | Denise Cunningham-English |
+| 1017 | 46 | Elizabeth Green |
+| 1018 | 46 | Jenni |
+| 1019 | 46 | Tina Criam |
+| 1020 | 46 | Hoppy Buildsnap |
 | 1021 | 46 | Desiree Ryder |
-| 1022 | 46 | Kimberly Red |
-| 1023 | 46 | LOVE |
+| 1022 | 46 | TrapQween39Bi |
+| 1023 | 46 | Kimberly Red |
 | 1024 | 46 | Stacy Nicole |
-| 1025 | 45 | Amanda Colwell |
-| 1026 | 45 | Chinkey Overit |
-| 1027 | 45 | Lawreniesha Burkley |
-| 1028 | 45 | Sarah Jones |
-| 1029 | 45 | Jackie Sanasay |
-| 1030 | 45 | Matraca Young |
-| 1031 | 45 | Mumitt |
-| 1032 | 45 | Cali Lee |
-| 1033 | 45 | Skye |
-| 1034 | 45 | Beautiful314 |
-| 1035 | 45 | PattyPower |
-| 1036 | 45 | Brave Balanceblock |
-| 1037 | 45 | Antoinette Kidd |
+| 1025 | 46 | LOVE |
+| 1026 | 45 | Amanda Colwell |
+| 1027 | 45 | Chinkey Overit |
+| 1028 | 45 | Lawreniesha Burkley |
+| 1029 | 45 | Sarah Jones |
+| 1030 | 45 | Jackie Sanasay |
+| 1031 | 45 | Matraca Young |
+| 1032 | 45 | Mumitt |
+| 1033 | 45 | Cali Lee |
+| 1034 | 45 | Skye |
+| 1035 | 45 | Beautiful314 |
+| 1036 | 45 | PattyPower |
+| 1037 | 45 | Brave Balanceblock |
 | 1038 | 45 | rosieredpanda |
-| 1039 | 45 | Mrs |
-| 1040 | 45 | midnightxtoker |
-| 1041 | 45 | Heather Cross-Davis |
-| 1042 | 45 | Jason A Giantonio |
-| 1043 | 45 | Frothy Zoney |
-| 1044 | 45 | Y3llOWFAC3 |
-| 1045 | 44 | Caitlin Michele |
-| 1046 | 44 | Dee Dee |
-| 1047 | 44 | Lazy Matchgrid |
-| 1048 | 44 | Ducc2408 |
-| 1049 | 44 | Willson06 |
-| 1050 | 44 | Ernest Maxwell |
-| 1051 | 44 | Ray Baker |
-| 1052 | 44 | Mark Steven Pichler |
+| 1039 | 45 | Antoinette Kidd |
+| 1040 | 45 | Mrs |
+| 1041 | 45 | midnightxtoker |
+| 1042 | 45 | Heather Cross-Davis |
+| 1043 | 45 | Jason A Giantonio |
+| 1044 | 45 | Frothy Zoney |
+| 1045 | 45 | Y3llOWFAC3 |
+| 1046 | 44 | Caitlin Michele |
+| 1047 | 44 | Dee Dee |
+| 1048 | 44 | Ernest Maxwell |
+| 1049 | 44 | Ducc2408 |
+| 1050 | 44 | Willson06 |
+| 1051 | 44 | Mark Steven Pichler |
+| 1052 | 44 | Ray Baker |
 | 1053 | 44 | Nic Nic |
 | 1054 | 44 | Connor Leon Cluff |
 | 1055 | 43 | Alturas Supremenineteen Banks |
@@ -1577,12 +1577,12 @@
 | 1569 | 8 | David Anthony |
 | 1570 | 8 | Andrew James |
 | 1571 | 8 | Jädaa Laa'Destïnyy |
-| 1572 | 8 | Crafty Shatterfit |
-| 1573 | 8 | Sean Walker |
-| 1574 | 7 | Jamal Richmond |
-| 1575 | 7 | Quana |
-| 1576 | 7 | Alexis Farquer |
-| 1577 | 7 | Don Ray Mc |
+| 1572 | 8 | Don Ray Mc |
+| 1573 | 8 | Crafty Shatterfit |
+| 1574 | 8 | Sean Walker |
+| 1575 | 7 | Jamal Richmond |
+| 1576 | 7 | Quana |
+| 1577 | 7 | Alexis Farquer |
 | 1578 | 7 | style |
 | 1579 | 7 | Court Ney |
 | 1580 | 7 | Beverly Kaday |
