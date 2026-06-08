@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 22:44:42 UTC
+# Standings for team4 as of 2026-06-08 22:45:20 UTC
 
 **Total Participants:** 1946
 
@@ -60,8 +60,8 @@
 | 52 | 1952 | Jason Allen |
 | 53 | 1900 | Elissa S-k |
 | 54 | 1889 | Erin Figone |
-| 55 | 1875 | 626 |
-| 56 | 1875 | Cal Renee |
+| 55 | 1875 | Cal Renee |
+| 56 | 1875 | 626 |
 | 57 | 1824 | Blind Bette |
 | 58 | 1743 | Adam J Leong |
 | 59 | 1684 | Dheeh Robles |
@@ -79,13 +79,13 @@
 | 71 | 1225 | Fancy Crasher |
 | 72 | 1202 | MysticMaven |
 | 73 | 1200 | Posey Smith |
-| 74 | 1176 | Giggy Matchpiece |
-| 75 | 1176 | SMV |
+| 74 | 1176 | SMV |
+| 75 | 1176 | Giggy Matchpiece |
 | 76 | 1175 | Bryan DjMagnum Evans |
 | 77 | 1164 | woopa 716 |
 | 78 | 1154 | Gloria Nunley Trussell |
-| 79 | 1106 | Lupe Alburquerque |
-| 80 | 1106 | J |
+| 79 | 1106 | J |
+| 80 | 1106 | Lupe Alburquerque |
 | 81 | 1104 | Chaz Duncan |
 | 82 | 1100 | 2 kool |
 | 83 | 1092 | Jonathan Hewitt |
@@ -150,11 +150,11 @@
 | 142 | 684 | Whitborn |
 | 143 | 677 | Dandy Clearfit |
 | 144 | 676 | Jesse Olive |
-| 145 | 665 | Kristen Wallace |
-| 146 | 665 | iiPurgeV2 |
+| 145 | 665 | iiPurgeV2 |
+| 146 | 665 | Kristen Wallace |
 | 147 | 661 | Tiffany Brooke |
-| 148 | 646 | Daryn Elliott |
-| 149 | 646 | Andrew Dang |
+| 148 | 646 | Andrew Dang |
+| 149 | 646 | Daryn Elliott |
 | 150 | 644 | Gracie Ornelas |
 | 151 | 633 | Lisa Garcia |
 | 152 | 615 | Cinta Marie |
@@ -260,8 +260,8 @@
 | 252 | 363 | Aramat |
 | 253 | 362 | Dazzle Dragon |
 | 254 | 360 | Holly Wessel |
-| 255 | 360 | Swanky Brickzone |
-| 256 | 359 | beTrue76 |
+| 255 | 360 | beTrue76 |
+| 256 | 360 | Swanky Brickzone |
 | 257 | 359 | Leslie Ann Carter |
 | 258 | 359 | BCO22 |
 | 259 | 359 | Chiquita Blue |
@@ -301,12 +301,12 @@
 | 293 | 317 | Jeremy |
 | 294 | 317 | Amandacolle |
 | 295 | 317 | Shanna Fragen |
-| 296 | 315 | Thomasena Eady Reid |
-| 297 | 315 | Spicy Chicken |
-| 298 | 312 | Breezy Cascadeclear |
-| 299 | 311 | Jenn Norcross |
-| 300 | 311 | JuicyJuice |
-| 301 | 311 | Smiley Gridzone |
+| 296 | 316 | Smiley Gridzone |
+| 297 | 315 | Thomasena Eady Reid |
+| 298 | 315 | Spicy Chicken |
+| 299 | 312 | Breezy Cascadeclear |
+| 300 | 311 | Jenn Norcross |
+| 301 | 311 | JuicyJuice |
 | 302 | 309 | Dapper Strikerpiece |
 | 303 | 309 | TRUCHILD777$$$ |
 | 304 | 308 | Juvon SupaShawdii Brooks |
@@ -417,9 +417,9 @@
 | 409 | 233 | Dandy Cascade |
 | 410 | 232 | Giggly Column |
 | 411 | 232 | Carla Woodard |
-| 412 | 230 | gabs |
-| 413 | 229 | Melika Zeheb |
-| 414 | 229 | Scrumptious |
+| 412 | 230 | Scrumptious |
+| 413 | 230 | gabs |
+| 414 | 229 | Melika Zeheb |
 | 415 | 229 | Cindy |
 | 416 | 229 | Marcus Chavis |
 | 417 | 228 | Andrick |
@@ -760,33 +760,33 @@
 | 752 | 120 | Ana Ruiz |
 | 753 | 120 | Jenn Wilson |
 | 754 | 120 | Mann Manson |
-| 755 | 119 | Electric Storm |
-| 756 | 119 | Amy Gutierrez |
+| 755 | 119 | Amy Gutierrez |
+| 756 | 119 | Electric Storm |
 | 757 | 119 | Daffney Starr |
 | 758 | 118 | Sadeha Simpson |
 | 759 | 118 | Leasa Marie |
 | 760 | 118 | Jennifer Naughton |
-| 761 | 118 | Rin |
-| 762 | 118 | KingCas |
-| 763 | 118 | Misti Rich |
-| 764 | 118 | Jacqueline Arce |
-| 765 | 118 | Lisa Ferriero-Daudin |
-| 766 | 117 | Trang Nguyen |
-| 767 | 117 | Kay |
-| 768 | 117 | Autumn Maher |
-| 769 | 117 | Susan Mary Kelley |
-| 770 | 117 | Weird Cat |
-| 771 | 117 | Giggy Bridgepiece |
-| 772 | 117 | Sally Hiraldo |
-| 773 | 116 | Lori Lynn |
-| 774 | 116 | Aaron Turner |
+| 761 | 118 | Giggy Bridgepiece |
+| 762 | 118 | Rin |
+| 763 | 118 | KingCas |
+| 764 | 118 | Misti Rich |
+| 765 | 118 | Jacqueline Arce |
+| 766 | 118 | Lisa Ferriero-Daudin |
+| 767 | 117 | Trang Nguyen |
+| 768 | 117 | Kay |
+| 769 | 117 | Autumn Maher |
+| 770 | 117 | Sally Hiraldo |
+| 771 | 117 | Weird Cat |
+| 772 | 117 | Susan Mary Kelley |
+| 773 | 116 | Aaron Turner |
+| 774 | 116 | Lori Lynn |
 | 775 | 116 | JP Chua |
 | 776 | 115 | Dinah Mccall |
 | 777 | 115 | Hooti Smile |
 | 778 | 115 | Jasmine Turner |
-| 779 | 114 | Emjae Tupaz-Rivera |
-| 780 | 114 | Japexican Strong |
-| 781 | 114 | Tammy Wells |
+| 779 | 114 | Tammy Wells |
+| 780 | 114 | Emjae Tupaz-Rivera |
+| 781 | 114 | Japexican Strong |
 | 782 | 114 | Deborah Ayliffe |
 | 783 | 114 | Jason Moves |
 | 784 | 114 | Jennifer Brucz |
@@ -795,10 +795,10 @@
 | 787 | 113 | Melissa Anne |
 | 788 | 113 | Giggy Blockpiece |
 | 789 | 113 | Renzo Tonini |
-| 790 | 113 | Certified Da Don |
-| 791 | 113 | Jazzy Rollout |
-| 792 | 112 | Carlos Amaya |
-| 793 | 112 | Shaneé Staunton |
+| 790 | 113 | Jazzy Rollout |
+| 791 | 113 | Certified Da Don |
+| 792 | 112 | Shaneé Staunton |
+| 793 | 112 | Carlos Amaya |
 | 794 | 112 | medicjessi |
 | 795 | 112 | Kimberly Lusk |
 | 796 | 111 | Peachy Piecefit |
@@ -813,8 +813,8 @@
 | 805 | 110 | Slinky Snapfit |
 | 806 | 109 | Breezy Blockzone |
 | 807 | 109 | Loyalty83 |
-| 808 | 109 | Tiffany Roberts |
-| 809 | 109 | Frisky Blocker |
+| 808 | 109 | Frisky Blocker |
+| 809 | 109 | Tiffany Roberts |
 | 810 | 109 | Sandy Daye |
 | 811 | 108 | Cozy Patternline |
 | 812 | 108 | Daring Towerer |
