@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 23:00:21 UTC
+# Standings for team4 as of 2026-06-08 23:00:44 UTC
 
 **Total Participants:** 1947
 
@@ -184,11 +184,11 @@
 | 176 | 500 | Nicole |
 | 177 | 499 | Boldy Rumbler |
 | 178 | 496 | Jackie Jackson |
-| 179 | 495 | Julian Gasque |
-| 180 | 494 | Yesenia Castro Monreal |
-| 181 | 490 | Stephanie Myers |
-| 182 | 490 | Christy Beezley-Forbush |
-| 183 | 486 | Samantha Worley |
+| 179 | 496 | Samantha Worley |
+| 180 | 495 | Julian Gasque |
+| 181 | 494 | Yesenia Castro Monreal |
+| 182 | 490 | Stephanie Myers |
+| 183 | 490 | Christy Beezley-Forbush |
 | 184 | 480 | Adam Dickinson |
 | 185 | 480 | CIRAZYPNOY |
 | 186 | 479 | Hen |
@@ -227,9 +227,9 @@
 | 219 | 418 | Shiny Dashy |
 | 220 | 418 | Jojo Ann |
 | 221 | 416 | Lori Stembridge |
-| 222 | 409 | Samara Garcia |
-| 223 | 409 | LastBoi |
-| 224 | 409 | Dae Von |
+| 222 | 410 | Dae Von |
+| 223 | 409 | Samara Garcia |
+| 224 | 409 | LastBoi |
 | 225 | 408 | matt |
 | 226 | 408 | Bonnie Powell |
 | 227 | 406 | Loony Glidepiece |
@@ -262,8 +262,8 @@
 | 254 | 362 | Dazzle Dragon |
 | 255 | 360 | Holly Wessel |
 | 256 | 360 | beTrue76 |
-| 257 | 359 | BCO22 |
-| 258 | 359 | Chiquita Blue |
+| 257 | 359 | Chiquita Blue |
+| 258 | 359 | BCO22 |
 | 259 | 359 | Leslie Ann Carter |
 | 260 | 358 | Goofy Fall |
 | 261 | 357 | Poppy |

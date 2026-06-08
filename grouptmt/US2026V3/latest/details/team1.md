@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:00:21 UTC
+# Standings for team1 as of 2026-06-08 23:00:44 UTC
 
 **Total Participants:** 1894
 
@@ -471,10 +471,10 @@
 | 463 | 205 | Treneil Daffin |
 | 464 | 205 | wmedina67 |
 | 465 | 205 | Sarah Barnum |
-| 466 | 204 | Nickeya Phillips |
-| 467 | 204 | Brittanie Wardlow |
-| 468 | 203 | Breezy Catcher |
-| 469 | 203 | Daring Blockclear |
+| 466 | 205 | Daring Blockclear |
+| 467 | 204 | Nickeya Phillips |
+| 468 | 204 | Brittanie Wardlow |
+| 469 | 203 | Breezy Catcher |
 | 470 | 203 | Wayne Savannah |
 | 471 | 202 | Messy Live |
 | 472 | 202 | Peppy Glider |
@@ -672,18 +672,18 @@
 | 664 | 140 | Eric Machuca |
 | 665 | 140 | TBabii24 |
 | 666 | 139 | Antoinette Kelly |
-| 667 | 139 | Rochelle Nash-Evans |
-| 668 | 138 | Ozell Jones Jr. |
-| 669 | 138 | Gbnola |
-| 670 | 138 | Rene Hicks |
-| 671 | 138 | Claudia Price |
+| 667 | 139 | Shameka Tiffany |
+| 668 | 139 | Rochelle Nash-Evans |
+| 669 | 138 | Ozell Jones Jr. |
+| 670 | 138 | Gbnola |
+| 671 | 138 | Rene Hicks |
 | 672 | 138 | Chloe Bankz |
 | 673 | 138 | messyboots |
-| 674 | 137 | Angelique Talbot |
-| 675 | 137 | Shameka Tiffany |
-| 676 | 136 | The DUBZ |
-| 677 | 136 | Marbama |
-| 678 | 136 | BonnieB |
+| 674 | 138 | Claudia Price |
+| 675 | 137 | Angelique Talbot |
+| 676 | 136 | Marbama |
+| 677 | 136 | BonnieB |
+| 678 | 136 | The DUBZ |
 | 679 | 136 | Christina Singleton |
 | 680 | 135 | Saucy Tile |
 | 681 | 135 | Paul Pendley |
@@ -1394,28 +1394,28 @@
 | 1386 | 37 | LadyMosley |
 | 1387 | 37 | Witty Blockpiece |
 | 1388 | 37 | XYZ |
-| 1389 | 37 | Jb Mzresilience |
-| 1390 | 37 | Fancy Zoner |
-| 1391 | 36 | Andre Simpson |
-| 1392 | 36 | Tee4 |
-| 1393 | 36 | Zappy Zoney |
-| 1394 | 36 | Jennifer Nixon |
-| 1395 | 36 | Papi |
-| 1396 | 36 | Candice Poe |
-| 1397 | 36 | Sean Walker |
-| 1398 | 36 | Geneva Carter |
-| 1399 | 36 | Hannah Hall |
-| 1400 | 36 | Michael Jones |
-| 1401 | 36 | Frilly Lifter |
+| 1389 | 37 | Andre Simpson |
+| 1390 | 37 | Jb Mzresilience |
+| 1391 | 37 | Fancy Zoner |
+| 1392 | 36 | Frilly Lifter |
+| 1393 | 36 | Tee4 |
+| 1394 | 36 | Zappy Zoney |
+| 1395 | 36 | Jennifer Nixon |
+| 1396 | 36 | Papi |
+| 1397 | 36 | Candice Poe |
+| 1398 | 36 | Sean Walker |
+| 1399 | 36 | Geneva Carter |
+| 1400 | 36 | Hannah Hall |
+| 1401 | 36 | Michael Jones |
 | 1402 | 36 | Lively Strikesnap |
-| 1403 | 36 | Tonia Lance |
-| 1404 | 36 | Silly Spinblock |
-| 1405 | 36 | Mazi Johnson |
+| 1403 | 36 | Mazi Johnson |
+| 1404 | 36 | Tonia Lance |
+| 1405 | 36 | Silly Spinblock |
 | 1406 | 35 | Brandy Jaszewski |
 | 1407 | 35 | Happymama |
 | 1408 | 35 | Crafty Link |
-| 1409 | 35 | Kevin Witdaflute |
-| 1410 | 35 | Margie Toni Corley |
+| 1409 | 35 | Margie Toni Corley |
+| 1410 | 35 | Kevin Witdaflute |
 | 1411 | 35 | Riq Wokhardt |
 | 1412 | 35 | Kerry Meister Rummel |
 | 1413 | 35 | X6TRAUMA9X |

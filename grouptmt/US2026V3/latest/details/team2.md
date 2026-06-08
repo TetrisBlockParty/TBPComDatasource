@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 23:00:21 UTC
+# Standings for team2 as of 2026-06-08 23:00:44 UTC
 
 **Total Participants:** 2294
 
@@ -26,7 +26,7 @@
 | 18 | 6247 | Tim Ix |
 | 19 | 6154 | Morgann McDaniel |
 | 20 | 6114 | Kathleen M Cox |
-| 21 | 5819 | Andre Love |
+| 21 | 5859 | Andre Love |
 | 22 | 5607 | Bea Bee |
 | 23 | 5585 | Renee Weedling |
 | 24 | 5476 | Julie Trede Amerson |
@@ -203,8 +203,8 @@
 | 195 | 574 | Brandy McCune Reep |
 | 196 | 572 | Vistabrat |
 | 197 | 571 | Robin G |
-| 198 | 567 | Cool Balancer |
-| 199 | 567 | Nutty Curver |
+| 198 | 567 | Nutty Curver |
+| 199 | 567 | Cool Balancer |
 | 200 | 565 | Christina Maria |
 | 201 | 559 | Chirpy Grid |
 | 202 | 552 | Michelle Luke Banta |
@@ -222,14 +222,14 @@
 | 214 | 531 | Sarina Vollink |
 | 215 | 529 | Kimmyc |
 | 216 | 526 | Theresa Hollinger |
-| 217 | 521 | Laverne Ellis Blair |
-| 218 | 521 | Steven Craig |
-| 219 | 520 | Zany Blockclear |
-| 220 | 520 | Jennifer Smith |
+| 217 | 521 | Steven Craig |
+| 218 | 521 | Laverne Ellis Blair |
+| 219 | 520 | Jennifer Smith |
+| 220 | 520 | Zany Blockclear |
 | 221 | 514 | Kaycie Shaffer |
 | 222 | 513 | Gill |
-| 223 | 511 | Stephany Green |
-| 224 | 511 | SEH |
+| 223 | 511 | SEH |
+| 224 | 511 | Stephany Green |
 | 225 | 510 | Samantha Carman |
 | 226 | 506 | Lyric Price |
 | 227 | 506 | H |
@@ -266,45 +266,45 @@
 | 258 | 448 | Eric Drane |
 | 259 | 445 | Gabrielle Wilson |
 | 260 | 443 | Katrien |
-| 261 | 440 | Amy Gregg |
-| 262 | 440 | True |
-| 263 | 439 | giamy |
-| 264 | 434 | Janelle Edgecombe |
-| 265 | 432 | Cathy Lee Stoneking |
-| 266 | 431 | Theresa Huddleston |
-| 267 | 430 | Jenn |
-| 268 | 429 | Nikki EightySixed |
-| 269 | 428 | Justin McCray |
-| 270 | 428 | Physhie |
-| 271 | 427 | Flower_child |
-| 272 | 427 | SilentBuffalo |
-| 273 | 423 | MaddieCherie |
-| 274 | 420 | Linda Guay |
-| 275 | 420 | Deezie |
-| 276 | 418 | Breeana Bennett |
-| 277 | 418 | Sherri E Woods Hess |
-| 278 | 416 | Mouh Med |
-| 279 | 415 | Goofy Gridclear |
-| 280 | 415 | Naomi Walker |
-| 281 | 412 | Greta Warden |
-| 282 | 411 | Mookshake |
-| 283 | 410 | Fudgie Pie |
-| 284 | 410 | Sharon L Brazelton |
-| 285 | 404 | Charity Hauser |
-| 286 | 401 | Brooke Allred |
-| 287 | 400 | Adriana Daniela Agapie |
-| 288 | 400 | Sarah Rodriguez |
-| 289 | 399 | Jeffrey Smith |
-| 290 | 394 | Heather Burgett |
-| 291 | 393 | Kathy Strickland |
-| 292 | 392 | Aldotfus Williams |
+| 261 | 442 | Bri St Peter |
+| 262 | 440 | Amy Gregg |
+| 263 | 440 | True |
+| 264 | 439 | giamy |
+| 265 | 434 | Janelle Edgecombe |
+| 266 | 432 | Cathy Lee Stoneking |
+| 267 | 431 | Theresa Huddleston |
+| 268 | 430 | Jenn |
+| 269 | 429 | Nikki EightySixed |
+| 270 | 428 | Justin McCray |
+| 271 | 428 | Physhie |
+| 272 | 427 | Flower_child |
+| 273 | 427 | SilentBuffalo |
+| 274 | 423 | MaddieCherie |
+| 275 | 420 | Linda Guay |
+| 276 | 420 | Deezie |
+| 277 | 418 | Breeana Bennett |
+| 278 | 418 | Sherri E Woods Hess |
+| 279 | 416 | Mouh Med |
+| 280 | 415 | Goofy Gridclear |
+| 281 | 415 | Naomi Walker |
+| 282 | 412 | Greta Warden |
+| 283 | 411 | Mookshake |
+| 284 | 410 | Fudgie Pie |
+| 285 | 410 | Sharon L Brazelton |
+| 286 | 404 | Charity Hauser |
+| 287 | 401 | Brooke Allred |
+| 288 | 400 | Adriana Daniela Agapie |
+| 289 | 400 | Sarah Rodriguez |
+| 290 | 399 | Jeffrey Smith |
+| 291 | 394 | Heather Burgett |
+| 292 | 393 | Kathy Strickland |
 | 293 | 392 | Lora Via |
-| 294 | 392 | Bri St Peter |
+| 294 | 392 | Aldotfus Williams |
 | 295 | 391 | La chulis |
 | 296 | 390 | Carlos J Blas |
 | 297 | 388 | Rachel Nilles |
-| 298 | 385 | Brittni Lawrence |
-| 299 | 385 | Hypee |
+| 298 | 385 | Hypee |
+| 299 | 385 | Brittni Lawrence |
 | 300 | 384 | DayDreamer79 |
 | 301 | 383 | Jenna Stahl |
 | 302 | 383 | Hilliary Beyer |
@@ -315,8 +315,8 @@
 | 307 | 379 | meg |
 | 308 | 378 | Chipper Stackbuilder |
 | 309 | 376 | James Ward |
-| 310 | 376 | Traci Abern |
-| 311 | 376 | Norma Ortiz |
+| 310 | 376 | Norma Ortiz |
+| 311 | 376 | Traci Abern |
 | 312 | 375 | Branden Frankowski |
 | 313 | 373 | Hoppy Mover |
 | 314 | 372 | Queen |
@@ -336,30 +336,30 @@
 | 328 | 359 | Amy Taylor Pomerenk |
 | 329 | 359 | Nancy Schwartz Gusman-Oliver |
 | 330 | 358 | Larry Cross |
-| 331 | 354 | Chummy Snapbuilder |
-| 332 | 354 | Maria Ward |
-| 333 | 354 | Sabrina Hardrick |
+| 331 | 354 | Sabrina Hardrick |
+| 332 | 354 | Chummy Snapbuilder |
+| 333 | 354 | Maria Ward |
 | 334 | 353 | Flashy Hitter |
 | 335 | 352 | Boldy Fitclear |
 | 336 | 350 | Loopy Dropper |
 | 337 | 350 | Marge Cromer |
 | 338 | 349 | Angie Bishop |
 | 339 | 348 | Jumpy Matchbuilder |
-| 340 | 347 | Melisa |
+| 340 | 347 | Ashley Billiot Rhodes |
 | 341 | 347 | Jimmy Francis Shasta Bambi |
-| 342 | 346 | Ray Daisy |
-| 343 | 345 | Kay |
-| 344 | 345 | Xandrea Jones |
-| 345 | 345 | Ashley Billiot Rhodes |
-| 346 | 340 | Jason Cunningham |
+| 342 | 347 | Melisa |
+| 343 | 346 | Ray Daisy |
+| 344 | 345 | Kay |
+| 345 | 345 | Xandrea Jones |
+| 346 | 340 | Tony Medina |
 | 347 | 340 | Avie Lou |
-| 348 | 340 | Tony Medina |
+| 348 | 340 | Jason Cunningham |
 | 349 | 337 | Nathan Walker |
 | 350 | 336 | Symmy Norton |
-| 351 | 336 | Kathleen Keogh Van Schoyck |
+| 351 | 336 | Brittney Williams |
 | 352 | 336 | Duke Morley |
-| 353 | 336 | Karly Moore |
-| 354 | 336 | Brittney Williams |
+| 353 | 336 | Kathleen Keogh Van Schoyck |
+| 354 | 336 | Karly Moore |
 | 355 | 335 | Jessica Christine |
 | 356 | 335 | Skye Ehret |
 | 357 | 333 | Joanna Trevin Thompson |
