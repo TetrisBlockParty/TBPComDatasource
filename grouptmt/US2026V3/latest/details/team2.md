@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:46:41 UTC
+# Standings for team2 as of 2026-06-08 09:47:21 UTC
 
 **Total Participants:** 2145
 
@@ -23,7 +23,7 @@
 | 15 | 6114 | Morgann McDaniel |
 | 16 | 5961 | Brandon Brown |
 | 17 | 5585 | Renee Weedling |
-| 18 | 5293 | Andre Love |
+| 18 | 5431 | Andre Love |
 | 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
 | 21 | 5001 | Bobbi |
@@ -572,68 +572,68 @@
 | 564 | 153 | Cortney Coleman |
 | 565 | 152 | Simone F |
 | 566 | 152 | LittleHippoEars |
-| 567 | 151 | Joshua Hopkins |
-| 568 | 151 | Angeleye A James |
-| 569 | 151 | Ava Speedy |
-| 570 | 151 | Amy Lea Hamilton |
+| 567 | 151 | Amy Lea Hamilton |
+| 568 | 151 | Ava Speedy |
+| 569 | 151 | Joshua Hopkins |
+| 570 | 151 | Angeleye A James |
 | 571 | 151 | Alyssa Malay |
 | 572 | 151 | Kendra Sizemore |
 | 573 | 150 | Nicole Sides KrazyKoop |
-| 574 | 150 | Elizabeth Kline |
+| 574 | 150 | Plucky Grabber |
 | 575 | 150 | Jennifer Covington |
-| 576 | 150 | Plucky Grabber |
+| 576 | 150 | Elizabeth Kline |
 | 577 | 149 | Frisky Twist |
 | 578 | 149 | Kenzie |
-| 579 | 148 | Crystal Robinson |
-| 580 | 148 | rageking |
-| 581 | 148 | NickandJess Reynolds |
-| 582 | 146 | Dana Wilson |
-| 583 | 146 | Candi Cane |
-| 584 | 145 | Muffin Popper |
-| 585 | 145 | Thy Bui |
-| 586 | 145 | Alicia Parrish |
-| 587 | 144 | Jeff Pottgether |
-| 588 | 144 | Kayley |
-| 589 | 144 | Spencer Ryder |
-| 590 | 144 | Mary Carriere |
-| 591 | 144 | Epic Framezone |
-| 592 | 144 | Sunny Tiltbuilder |
-| 593 | 144 | Alissa Ary |
-| 594 | 143 | Violet Olivares |
-| 595 | 143 | Matt Wylie |
+| 579 | 148 | NickandJess Reynolds |
+| 580 | 148 | Crystal Robinson |
+| 581 | 148 | rageking |
+| 582 | 146 | Candi Cane |
+| 583 | 146 | Dana Wilson |
+| 584 | 145 | Alicia Parrish |
+| 585 | 145 | Muffin Popper |
+| 586 | 145 | Thy Bui |
+| 587 | 144 | Shelby Wilson |
+| 588 | 144 | Jeff Pottgether |
+| 589 | 144 | Kayley |
+| 590 | 144 | Spencer Ryder |
+| 591 | 144 | Mary Carriere |
+| 592 | 144 | Epic Framezone |
+| 593 | 144 | Sunny Tiltbuilder |
+| 594 | 144 | Alissa Ary |
+| 595 | 143 | Violet Olivares |
 | 596 | 143 | Stoney McMillion |
-| 597 | 142 | Jason P. Schwartz |
-| 598 | 142 | LadyDeath |
-| 599 | 142 | Angela Hogan |
-| 600 | 142 | Terie Safrit |
-| 601 | 141 | Hog Crankin |
-| 602 | 141 | Peter Fogg |
-| 603 | 141 | Mtnblzr |
-| 604 | 141 | Susie Conger |
-| 605 | 141 | Layla Petroff |
-| 606 | 141 | Tamtam |
-| 607 | 140 | Tiffany Hassanshahi |
-| 608 | 140 | Doowop40 |
-| 609 | 140 | Heather Billodeau |
-| 610 | 140 | Ashley Jones |
-| 611 | 140 | Adam Latin |
-| 612 | 140 | ChefDeb |
-| 613 | 140 | Bouncy Snapmatch |
+| 597 | 143 | Matt Wylie |
+| 598 | 142 | Angela Hogan |
+| 599 | 142 | LadyDeath |
+| 600 | 142 | Jason P. Schwartz |
+| 601 | 142 | Terie Safrit |
+| 602 | 141 | Hog Crankin |
+| 603 | 141 | Susie Conger |
+| 604 | 141 | Layla Petroff |
+| 605 | 141 | Tamtam |
+| 606 | 141 | Mtnblzr |
+| 607 | 141 | Peter Fogg |
+| 608 | 140 | Adam Latin |
+| 609 | 140 | ChefDeb |
+| 610 | 140 | Heather Billodeau |
+| 611 | 140 | Wendy Durrence Jones |
+| 612 | 140 | Doowop40 |
+| 613 | 140 | Chipper Towerzone |
 | 614 | 140 | Rebekah Holland |
-| 615 | 140 | Chipper Towerzone |
-| 616 | 140 | Wendy Durrence Jones |
-| 617 | 140 | Deezie |
-| 618 | 140 | Chris Christ |
-| 619 | 139 | Coleen Yoder |
+| 615 | 140 | Tiffany Hassanshahi |
+| 616 | 140 | Bouncy Snapmatch |
+| 617 | 140 | Ashley Jones |
+| 618 | 140 | Deezie |
+| 619 | 140 | Chris Christ |
 | 620 | 139 | Cassandra Green |
 | 621 | 139 | David Skelton |
 | 622 | 139 | Jason Burris |
-| 623 | 138 | Michael Saunders |
-| 624 | 138 | Madonna Ash |
-| 625 | 138 | Sam Brewster |
+| 623 | 139 | Coleen Yoder |
+| 624 | 138 | Firebone |
+| 625 | 138 | Michael Saunders |
 | 626 | 138 | Robin Stutler |
-| 627 | 138 | Firebone |
-| 628 | 138 | Shelby Wilson |
+| 627 | 138 | Sam Brewster |
+| 628 | 138 | Madonna Ash |
 | 629 | 137 | Sandra Belk |
 | 630 | 137 | Sarah Louise Cobb |
 | 631 | 136 | Joshua Dye |
