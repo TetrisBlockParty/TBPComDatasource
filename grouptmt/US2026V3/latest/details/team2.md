@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:24:19 UTC
+# Standings for team2 as of 2026-06-08 04:24:43 UTC
 
 **Total Participants:** 2083
 
@@ -31,9 +31,9 @@
 | 23 | 4459 | Kathleen M Cox |
 | 24 | 4355 | Alexia Reagan |
 | 25 | 4228 | Erica Dees Parks |
-| 26 | 3985 | Cassie Swart |
-| 27 | 3984 | Amber |
-| 28 | 3978 | Jewels |
+| 26 | 4077 | Jewels |
+| 27 | 3985 | Cassie Swart |
+| 28 | 3984 | Amber |
 | 29 | 3939 | Spunky Clicker |
 | 30 | 3812 | Crystal M Sowden |
 | 31 | 3740 | Danni Campa |
@@ -136,9 +136,9 @@
 | 128 | 756 | snowwol |
 | 129 | 751 | Hoppy Rotate |
 | 130 | 737 | Loopy Curvebuilder |
-| 131 | 726 | Groovy Snapper |
-| 132 | 708 | Le Sandy |
-| 133 | 702 | Loopy Cascadepiece |
+| 131 | 732 | Loopy Cascadepiece |
+| 132 | 726 | Groovy Snapper |
+| 133 | 708 | Le Sandy |
 | 134 | 689 | Tisha Hairston |
 | 135 | 682 | Wmk Rathbun |
 | 136 | 680 | Brandon Link |
