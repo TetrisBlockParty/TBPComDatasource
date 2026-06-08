@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:04:19 UTC
+# Standings for team1 as of 2026-06-08 23:04:42 UTC
 
 **Total Participants:** 1894
 
@@ -152,8 +152,8 @@
 | 144 | 633 | Rackemwillie34 |
 | 145 | 630 | Shontanese Adams |
 | 146 | 630 | Bambi Love |
-| 147 | 627 | Alana Renee |
-| 148 | 626 | Carolynne Walker-Bell |
+| 147 | 628 | Carolynne Walker-Bell |
+| 148 | 627 | Alana Renee |
 | 149 | 618 | Charletha Williams |
 | 150 | 617 | Crystal Anderson |
 | 151 | 611 | SyTheEvilGenius1 |
@@ -461,15 +461,15 @@
 | 453 | 210 | Kate Hancock Malicek |
 | 454 | 210 | Alyssa Rae |
 | 455 | 210 | Abby |
-| 456 | 209 | $hort Dog |
-| 457 | 209 | Phillip Vasquez |
-| 458 | 208 | Juicy |
-| 459 | 207 | Mary Phillippi Blanton |
-| 460 | 206 | Shelly Everette |
-| 461 | 206 | Jack Vlasak |
-| 462 | 206 | MonaSparks |
-| 463 | 205 | Treneil Daffin |
-| 464 | 205 | Daring Blockclear |
+| 456 | 209 | Daring Blockclear |
+| 457 | 209 | $hort Dog |
+| 458 | 209 | Phillip Vasquez |
+| 459 | 208 | Juicy |
+| 460 | 207 | Mary Phillippi Blanton |
+| 461 | 206 | Shelly Everette |
+| 462 | 206 | Jack Vlasak |
+| 463 | 206 | MonaSparks |
+| 464 | 205 | Treneil Daffin |
 | 465 | 205 | Sarah Barnum |
 | 466 | 205 | wmedina67 |
 | 467 | 204 | Nickeya Phillips |
@@ -632,35 +632,35 @@
 | 624 | 150 | Kanary Karotz |
 | 625 | 150 | Marshall Davis |
 | 626 | 150 | Ad Doctor |
-| 627 | 150 | Cheri Robinson |
-| 628 | 150 | BB |
+| 627 | 150 | BB |
+| 628 | 150 | Cheri Robinson |
 | 629 | 149 | Kristie |
-| 630 | 148 | GetDaOPPS |
-| 631 | 148 | Semaj Johnson |
-| 632 | 148 | P C |
-| 633 | 148 | Cauiasia DeJ'ae |
-| 634 | 148 | Rhianna Dinki Austin |
-| 635 | 147 | Mathew Trudell |
-| 636 | 146 | TRUBBLE45 |
-| 637 | 146 | Bella |
-| 638 | 146 | Spicy Shatterblock |
-| 639 | 146 | Guard Up |
-| 640 | 146 | whatever |
-| 641 | 146 | Yashicha Hertzock |
-| 642 | 146 | FunTime |
-| 643 | 145 | MrsDontPlay |
+| 630 | 148 | Semaj Johnson |
+| 631 | 148 | P C |
+| 632 | 148 | Cauiasia DeJ'ae |
+| 633 | 148 | Rhianna Dinki Austin |
+| 634 | 148 | GetDaOPPS |
+| 635 | 147 | Shameka Tiffany |
+| 636 | 147 | Mathew Trudell |
+| 637 | 146 | FunTime |
+| 638 | 146 | Guard Up |
+| 639 | 146 | Spicy Shatterblock |
+| 640 | 146 | Bella |
+| 641 | 146 | TRUBBLE45 |
+| 642 | 146 | whatever |
+| 643 | 146 | Yashicha Hertzock |
 | 644 | 145 | lizlizliz |
-| 645 | 144 | Kiki |
+| 645 | 145 | MrsDontPlay |
 | 646 | 144 | Amihan |
-| 647 | 144 | Glitzy Patternline |
-| 648 | 144 | Dapper Matchfit |
-| 649 | 144 | Cm |
-| 650 | 143 | Shameka Tiffany |
-| 651 | 143 | Shanell Thomas |
-| 652 | 143 | Andy Rivera |
-| 653 | 143 | Marlynnnnn |
-| 654 | 142 | Joseph Vs Cap |
-| 655 | 142 | Jasmine Hariston-Estis |
+| 647 | 144 | Kiki |
+| 648 | 144 | Glitzy Patternline |
+| 649 | 144 | Dapper Matchfit |
+| 650 | 144 | Cm |
+| 651 | 143 | Marlynnnnn |
+| 652 | 143 | Shanell Thomas |
+| 653 | 143 | Andy Rivera |
+| 654 | 142 | Jasmine Hariston-Estis |
+| 655 | 142 | Joseph Vs Cap |
 | 656 | 142 | Mary Goode |
 | 657 | 141 | Krystal Maynard |
 | 658 | 141 | Shalena Marie Humphrey |

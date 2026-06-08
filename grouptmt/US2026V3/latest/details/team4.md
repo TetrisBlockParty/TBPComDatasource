@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 23:04:19 UTC
+# Standings for team4 as of 2026-06-08 23:04:42 UTC
 
 **Total Participants:** 1947
 
@@ -689,9 +689,9 @@
 | 681 | 135 | Tactical_B |
 | 682 | 135 | Jennifer Terrill |
 | 683 | 135 | Jennifer Evans Elliott |
-| 684 | 135 | JustLessie |
-| 685 | 135 | Tre'nya Smith |
-| 686 | 135 | Lamont |
+| 684 | 135 | Tre'nya Smith |
+| 685 | 135 | Lamont |
+| 686 | 135 | JustLessie |
 | 687 | 134 | Josh Keith Travierso |
 | 688 | 134 | Kena T. Tanner |
 | 689 | 133 | mikey moo |
@@ -714,9 +714,9 @@
 | 706 | 130 | Bhakti Sawarkar |
 | 707 | 130 | Tigger |
 | 708 | 130 | Lizard |
-| 709 | 129 | Glitzy Patternbuilder |
-| 710 | 129 | Vlad Rudman |
-| 711 | 129 | Mar Mar |
+| 709 | 129 | Mar Mar |
+| 710 | 129 | Glitzy Patternbuilder |
+| 711 | 129 | Vlad Rudman |
 | 712 | 129 | Elena Marí |
 | 713 | 129 | Meghan Etchells |
 | 714 | 129 | Brenda Gustamantes |
@@ -725,8 +725,8 @@
 | 717 | 128 | Ajohnna Frazee |
 | 718 | 128 | Alizabeth Garcia |
 | 719 | 128 | Angela Adamo-Tash |
-| 720 | 128 | Maria Munoz |
-| 721 | 128 | Ash |
+| 720 | 128 | Ash |
+| 721 | 128 | Maria Munoz |
 | 722 | 127 | Cheeky Climber |
 | 723 | 127 | Giggy Snapgrid |
 | 724 | 127 | Noa Lee |
@@ -754,22 +754,22 @@
 | 746 | 121 | Destiny Starr LeValdo |
 | 747 | 121 | ButterfliesRFree |
 | 748 | 121 | Breezy Rollfit |
-| 749 | 121 | Quiles Yaitza |
-| 750 | 120 | Groovy Matchgrid |
+| 749 | 121 | Giggy Bridgepiece |
+| 750 | 121 | Quiles Yaitza |
 | 751 | 120 | Urplan |
-| 752 | 120 | Anthony Edwards |
-| 753 | 120 | Ern |
-| 754 | 120 | Giggy Splitter |
+| 752 | 120 | Giggy Splitter |
+| 753 | 120 | Groovy Matchgrid |
+| 754 | 120 | Anthony Edwards |
 | 755 | 120 | Tracy Marino |
-| 756 | 120 | Freddy-B |
-| 757 | 120 | Ana Ruiz |
-| 758 | 120 | Jenn Wilson |
-| 759 | 120 | Mann Manson |
-| 760 | 119 | Amy Gutierrez |
-| 761 | 119 | Daffney Starr |
-| 762 | 119 | Electric Storm |
-| 763 | 118 | Rin |
-| 764 | 118 | Giggy Bridgepiece |
+| 756 | 120 | Ern |
+| 757 | 120 | Freddy-B |
+| 758 | 120 | Ana Ruiz |
+| 759 | 120 | Jenn Wilson |
+| 760 | 120 | Mann Manson |
+| 761 | 119 | Electric Storm |
+| 762 | 119 | Daffney Starr |
+| 763 | 119 | Amy Gutierrez |
+| 764 | 118 | Rin |
 | 765 | 118 | Jennifer Naughton |
 | 766 | 118 | Leasa Marie |
 | 767 | 118 | Sadeha Simpson |
