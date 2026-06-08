@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:48:19 UTC
+# Standings for team2 as of 2026-06-08 10:48:42 UTC
 
 **Total Participants:** 2154
 
@@ -28,8 +28,8 @@
 | 20 | 5150 | boblawboblaw |
 | 21 | 5001 | Bobbi |
 | 22 | 4947 | Lola C Davis |
-| 23 | 4459 | Kathleen M Cox |
-| 24 | 4355 | Alexia Reagan |
+| 23 | 4559 | Alexia Reagan |
+| 24 | 4459 | Kathleen M Cox |
 | 25 | 4228 | Erica Dees Parks |
 | 26 | 4199 | Jewels |
 | 27 | 4137 | Danni Campa |
@@ -362,36 +362,36 @@
 | 354 | 257 | Sydney Cheyenne |
 | 355 | 256 | Theresa Huddleston |
 | 356 | 256 | Jill Goff |
-| 357 | 255 | Chummy Faller |
-| 358 | 255 | Tina Marie |
+| 357 | 255 | Tina Marie |
+| 358 | 255 | Chummy Faller |
 | 359 | 255 | True |
 | 360 | 254 | Nicole Plummer |
 | 361 | 254 | Victoria Pale |
-| 362 | 253 | Eric Wayne Maschman |
-| 363 | 253 | Santara Ferguson |
-| 364 | 252 | Brandi Vandevanter-Duke |
-| 365 | 252 | Boldy Fitclear |
-| 366 | 252 | Jessica Christine |
+| 362 | 253 | Santara Ferguson |
+| 363 | 253 | Eric Wayne Maschman |
+| 364 | 252 | Boldy Fitclear |
+| 365 | 252 | Jessica Christine |
+| 366 | 252 | Brandi Vandevanter-Duke |
 | 367 | 252 | Kellie Montgomery |
 | 368 | 251 | Robin G |
-| 369 | 251 | Marilyn Mendoza |
-| 370 | 251 | Mouh Med |
-| 371 | 251 | Avie Lou |
-| 372 | 251 | Bianca Woodruff |
-| 373 | 250 | Kim Powers |
-| 374 | 250 | Carlos J Blas |
+| 369 | 251 | Bianca Woodruff |
+| 370 | 251 | Avie Lou |
+| 371 | 251 | Marilyn Mendoza |
+| 372 | 251 | Mouh Med |
+| 373 | 250 | Carlos J Blas |
+| 374 | 250 | Kim Powers |
 | 375 | 250 | Happy Drop |
 | 376 | 250 | Ray Daisy |
 | 377 | 249 | Sarah Grundisch |
 | 378 | 247 | SilentBuffalo |
-| 379 | 246 | PaiBri |
-| 380 | 246 | Amber Cogdill |
+| 379 | 246 | Amber Cogdill |
+| 380 | 246 | PaiBri |
 | 381 | 244 | Paula Haskins |
-| 382 | 240 | Liseth Vasquez |
-| 383 | 240 | Zappy Liney |
-| 384 | 240 | Amanda Bottorff |
-| 385 | 240 | Naomi Walker |
-| 386 | 239 | Laverne Ellis Blair |
+| 382 | 241 | Laverne Ellis Blair |
+| 383 | 240 | Liseth Vasquez |
+| 384 | 240 | Zappy Liney |
+| 385 | 240 | Amanda Bottorff |
+| 386 | 240 | Naomi Walker |
 | 387 | 239 | Stella |
 | 388 | 239 | Melmel |
 | 389 | 239 | Patria Osuoha |

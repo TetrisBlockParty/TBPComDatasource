@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:48:19 UTC
+# Standings for team1 as of 2026-06-08 10:48:42 UTC
 
 **Total Participants:** 1777
 
@@ -515,85 +515,85 @@
 | 507 | 149 | Kristie |
 | 508 | 148 | Christi Walker Patton |
 | 509 | 148 | Rhianna Dinki Austin |
-| 510 | 148 | Seddrick |
-| 511 | 148 | Rufus |
-| 512 | 148 | Shannon Carriger |
-| 513 | 148 | Faith Armone |
-| 514 | 148 | Cauiasia DeJ'ae |
-| 515 | 147 | Mathew Trudell |
-| 516 | 147 | Twisty Brickfit |
+| 510 | 148 | Bold Clusterer |
+| 511 | 148 | Seddrick |
+| 512 | 148 | Rufus |
+| 513 | 148 | Shannon Carriger |
+| 514 | 148 | Faith Armone |
+| 515 | 148 | Cauiasia DeJ'ae |
+| 516 | 147 | Mathew Trudell |
 | 517 | 147 | Joka NoTime ForHataz |
-| 518 | 146 | Giggly Tiltbuilder |
+| 518 | 147 | Twisty Brickfit |
 | 519 | 146 | whatever |
 | 520 | 146 | FunTime |
 | 521 | 146 | Bella |
-| 522 | 145 | Squaw Ki Ng |
+| 522 | 146 | Giggly Tiltbuilder |
 | 523 | 145 | Shea Ladynick Henderson |
-| 524 | 144 | Ta'Kaiyah M. Spann |
+| 524 | 145 | Squaw Ki Ng |
 | 525 | 144 | Kp |
-| 526 | 143 | Ashlie Mo |
-| 527 | 143 | Cheri Robinson |
-| 528 | 142 | Sarah Steckbauer |
-| 529 | 142 | Kelley Johnson |
-| 530 | 141 | Frances Davis |
-| 531 | 141 | Shalena Marie Humphrey |
-| 532 | 140 | Kennedi Brazziel |
-| 533 | 140 | Tessa Gaskin |
-| 534 | 140 | Antoinette Jones |
-| 535 | 139 | Bold Clusterer |
-| 536 | 138 | Dreamzzz |
+| 526 | 144 | Ta'Kaiyah M. Spann |
+| 527 | 143 | Ashlie Mo |
+| 528 | 143 | Cheri Robinson |
+| 529 | 142 | Sarah Steckbauer |
+| 530 | 142 | Kelley Johnson |
+| 531 | 141 | Frances Davis |
+| 532 | 141 | Shalena Marie Humphrey |
+| 533 | 140 | Kennedi Brazziel |
+| 534 | 140 | Tessa Gaskin |
+| 535 | 140 | Antoinette Jones |
+| 536 | 138 | Claudia Price |
 | 537 | 138 | Alexandrla Smith |
-| 538 | 138 | Ashley Monet Terrell |
+| 538 | 138 | Ozell Jones Jr. |
 | 539 | 138 | Yadira Salgado |
-| 540 | 138 | Ozell Jones Jr. |
-| 541 | 138 | Claudia Price |
+| 540 | 138 | Ashley Monet Terrell |
+| 541 | 138 | Dreamzzz |
 | 542 | 137 | Kelvin Cook |
 | 543 | 137 | Angelique Talbot |
-| 544 | 136 | Duncan Timothy |
-| 545 | 136 | The DUBZ |
+| 544 | 136 | Char |
+| 545 | 136 | Duncan Timothy |
 | 546 | 136 | Gbnola |
-| 547 | 136 | Char |
-| 548 | 135 | Saucy Tile |
-| 549 | 135 | MzJuice Box |
-| 550 | 135 | Shameka Tiffany |
-| 551 | 135 | Christina Singleton |
-| 552 | 135 | Chirpy Buildgrid |
+| 547 | 136 | The DUBZ |
+| 548 | 135 | Chirpy Buildgrid |
+| 549 | 135 | Christina Singleton |
+| 550 | 135 | Saucy Tile |
+| 551 | 135 | Shameka Tiffany |
+| 552 | 135 | MzJuice Box |
 | 553 | 134 | Aaron Hartmann |
-| 554 | 133 | Yashicha Hertzock |
-| 555 | 133 | Marlynnnnn |
-| 556 | 133 | Kimberly Susan Privette |
-| 557 | 132 | Poyre Shelton |
-| 558 | 132 | Jeffrey Barrows |
+| 554 | 133 | Marlynnnnn |
+| 555 | 133 | Kimberly Susan Privette |
+| 556 | 133 | Yashicha Hertzock |
+| 557 | 132 | Jeffrey Barrows |
+| 558 | 132 | Poyre Shelton |
 | 559 | 132 | Jack Vlasak |
 | 560 | 131 | Karen Denen |
 | 561 | 131 | Kimberly Anderson |
 | 562 | 131 | Lynnette WheelerBushnell |
-| 563 | 130 | Kesha Brady |
-| 564 | 130 | Jessica Davis |
+| 563 | 130 | Jessica Davis |
+| 564 | 130 | Kesha Brady |
 | 565 | 130 | Gerold Folk Haddock |
 | 566 | 130 | Brenda Malachi-butler |
-| 567 | 129 | JesusSaves 😇 |
-| 568 | 129 | PSD |
-| 569 | 129 | Lucy |
-| 570 | 129 | Lynn |
-| 571 | 129 | Zany Breaker |
-| 572 | 129 | Logan Frost |
-| 573 | 129 | DellaLucretia Thomas |
-| 574 | 128 | Zappy Snapgrid |
-| 575 | 128 | Li-Li Ratliff |
-| 576 | 128 | BonnieB |
+| 567 | 129 | PSD |
+| 568 | 129 | Lucy |
+| 569 | 129 | DellaLucretia Thomas |
+| 570 | 129 | Logan Frost |
+| 571 | 129 | JesusSaves 😇 |
+| 572 | 129 | Lynn |
+| 573 | 129 | Zany Breaker |
+| 574 | 128 | BonnieB |
+| 575 | 128 | Zappy Snapgrid |
+| 576 | 128 | Li-Li Ratliff |
 | 577 | 127 | Octavia Bsb Johnson |
-| 578 | 126 | Laurie Napper |
-| 579 | 126 | RylonJones |
-| 580 | 126 | Terrie |
-| 581 | 126 | Ryan Runyan |
-| 582 | 126 | Kahliah Baker |
-| 583 | 126 | Jessie N Michael Silvers |
+| 578 | 126 | Jessie N Michael Silvers |
+| 579 | 126 | Ryan Runyan |
+| 580 | 126 | Kahliah Baker |
+| 581 | 126 | Terrie |
+| 582 | 126 | RylonJones |
+| 583 | 126 | Laurie Napper |
 | 584 | 125 | BB |
 | 585 | 125 | Guard Up |
-| 586 | 124 | Nerdy Climber |
-| 587 | 124 | Jes Marie |
-| 588 | 124 | Ysma Simmons |
+| 586 | 124 | Jes Marie |
+| 587 | 124 | Ysma Simmons |
+| 588 | 124 | Nerdy Climber |
 | 589 | 123 | Jackytrain52 |
 | 590 | 123 | Esha I'msoproudofmyself Davis |
 | 591 | 123 | Dizzy Gridmatch |
