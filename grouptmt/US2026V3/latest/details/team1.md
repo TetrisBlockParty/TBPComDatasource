@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:50:41 UTC
+# Standings for team1 as of 2026-06-08 17:51:21 UTC
 
 **Total Participants:** 1840
 
@@ -26,7 +26,7 @@
 | 18 | 5282 | Plucky Swipe |
 | 19 | 4934 | jaimie |
 | 20 | 4621 | Chandler Spencer |
-| 21 | 4495 | Cool Bridger |
+| 21 | 4595 | Cool Bridger |
 | 22 | 4263 | Pdubbl3 |
 | 23 | 3972 | Tekedra Wilson |
 | 24 | 3892 | Kkbk |
@@ -57,7 +57,7 @@
 | 49 | 1693 | JoJo |
 | 50 | 1688 | Mimi 1.0 |
 | 51 | 1684 | Ceilo Marie |
-| 52 | 1628 | Robyn Caldwell |
+| 52 | 1683 | Robyn Caldwell |
 | 53 | 1623 | Brian Bohanon II |
 | 54 | 1558 | Jennifer To |
 | 55 | 1538 | Jacoby E Fleming |
@@ -592,83 +592,83 @@
 | 584 | 148 | P C |
 | 585 | 147 | Lucy |
 | 586 | 147 | Mathew Trudell |
-| 587 | 146 | TRUBBLE45 |
-| 588 | 146 | Bella |
-| 589 | 146 | Nona Harriel |
-| 590 | 146 | whatever |
-| 591 | 146 | FunTime |
+| 587 | 146 | whatever |
+| 588 | 146 | FunTime |
+| 589 | 146 | Bella |
+| 590 | 146 | TRUBBLE45 |
+| 591 | 146 | Nona Harriel |
 | 592 | 146 | Giggly Tiltbuilder |
-| 593 | 145 | Angela Brown Babin |
-| 594 | 145 | Squaw Ki Ng |
+| 593 | 145 | Squaw Ki Ng |
+| 594 | 145 | Angela Brown Babin |
 | 595 | 145 | lizlizliz |
 | 596 | 144 | Cm |
 | 597 | 144 | Kiki |
-| 598 | 143 | Andy Rivera |
+| 598 | 143 | Shanell Thomas |
 | 599 | 143 | Pj Rojas |
-| 600 | 143 | Shanell Thomas |
+| 600 | 143 | Andy Rivera |
 | 601 | 142 | Semaj Johnson |
 | 602 | 142 | Kelley Johnson |
 | 603 | 141 | Shalena Marie Humphrey |
-| 604 | 141 | Ashley Monet Terrell |
-| 605 | 141 | Kim Holzmiller |
+| 604 | 141 | Kim Holzmiller |
+| 605 | 141 | Ashley Monet Terrell |
 | 606 | 141 | Krystal Maynard |
 | 607 | 140 | Kennedi Brazziel |
 | 608 | 140 | Shadon McMillan |
-| 609 | 140 | TBabii24 |
-| 610 | 140 | SherylU |
-| 611 | 140 | Eric Machuca |
-| 612 | 139 | PSD |
-| 613 | 139 | Zany Breaker |
-| 614 | 138 | Alexandrla Smith |
-| 615 | 138 | Ozell Jones Jr. |
-| 616 | 138 | Nerdy Climber |
-| 617 | 138 | Rene Hicks |
-| 618 | 138 | Claudia Price |
+| 609 | 140 | SherylU |
+| 610 | 140 | Eric Machuca |
+| 611 | 140 | TBabii24 |
+| 612 | 139 | Zany Breaker |
+| 613 | 139 | PSD |
+| 614 | 138 | Nerdy Climber |
+| 615 | 138 | Claudia Price |
+| 616 | 138 | Rene Hicks |
+| 617 | 138 | Alexandrla Smith |
+| 618 | 138 | Ozell Jones Jr. |
 | 619 | 137 | Angelique Talbot |
-| 620 | 136 | Guard Up |
-| 621 | 136 | BonnieB |
-| 622 | 136 | Gbnola |
-| 623 | 136 | Yashicha Hertzock |
-| 624 | 136 | Christina Singleton |
-| 625 | 136 | The DUBZ |
-| 626 | 136 | Duncan Timothy |
+| 620 | 136 | Christina Singleton |
+| 621 | 136 | Yashicha Hertzock |
+| 622 | 136 | Duncan Timothy |
+| 623 | 136 | Gbnola |
+| 624 | 136 | The DUBZ |
+| 625 | 136 | Guard Up |
+| 626 | 136 | BonnieB |
 | 627 | 135 | Saucy Tile |
-| 628 | 135 | Paul Pendley |
-| 629 | 135 | Shameka Tiffany |
-| 630 | 135 | Chirpy Buildgrid |
-| 631 | 133 | Marlynnnnn |
-| 632 | 133 | Kimberly Susan Privette |
-| 633 | 132 | Jeffrey Barrows |
-| 634 | 132 | Bambam |
+| 628 | 135 | Chirpy Buildgrid |
+| 629 | 135 | Paul Pendley |
+| 630 | 135 | Shameka Tiffany |
+| 631 | 134 | Anastasia |
+| 632 | 133 | Marlynnnnn |
+| 633 | 133 | Kimberly Susan Privette |
+| 634 | 132 | Jeffrey Barrows |
 | 635 | 132 | Jack Vlasak |
-| 636 | 131 | Cynthia Cruell |
-| 637 | 131 | Kimberly Anderson |
-| 638 | 131 | Snappy Link |
-| 639 | 130 | Victoria Smith |
-| 640 | 130 | Brenda Malachi-butler |
-| 641 | 130 | Kesha Brady |
+| 636 | 132 | Bambam |
+| 637 | 131 | Snappy Link |
+| 638 | 131 | Kimberly Anderson |
+| 639 | 131 | Cynthia Cruell |
+| 640 | 130 | Jessica Davis |
+| 641 | 130 | Brenda Malachi-butler |
 | 642 | 130 | Tito Divyn |
 | 643 | 130 | Gerold Folk Haddock |
-| 644 | 130 | Jessica Davis |
-| 645 | 129 | Williams Candace |
-| 646 | 129 | JesusSaves 😇 |
-| 647 | 129 | Naee Bee |
-| 648 | 128 | Li-Li Ratliff |
-| 649 | 128 | Chris Watson Draper |
+| 644 | 130 | Victoria Smith |
+| 645 | 130 | Kesha Brady |
+| 646 | 129 | Williams Candace |
+| 647 | 129 | JesusSaves 😇 |
+| 648 | 129 | Naee Bee |
+| 649 | 128 | Li-Li Ratliff |
 | 650 | 128 | C Lo Green |
-| 651 | 127 | Witty Clear |
-| 652 | 127 | Octavia Bsb Johnson |
-| 653 | 127 | Pretty Yella |
-| 654 | 126 | RylonJones |
-| 655 | 126 | Terrie |
-| 656 | 126 | Kahliah Baker |
-| 657 | 126 | Laurie Napper |
-| 658 | 126 | Jess |
-| 659 | 126 | Carla |
-| 660 | 125 | Andra Ward |
-| 661 | 125 | BB |
-| 662 | 124 | Ysma Simmons |
-| 663 | 124 | Anastasia |
+| 651 | 128 | Chris Watson Draper |
+| 652 | 127 | Pretty Yella |
+| 653 | 127 | Witty Clear |
+| 654 | 127 | Octavia Bsb Johnson |
+| 655 | 126 | RylonJones |
+| 656 | 126 | Terrie |
+| 657 | 126 | Kahliah Baker |
+| 658 | 126 | Laurie Napper |
+| 659 | 126 | Jess |
+| 660 | 126 | Carla |
+| 661 | 125 | Andra Ward |
+| 662 | 125 | BB |
+| 663 | 124 | Ysma Simmons |
 | 664 | 124 | Nichelle Warren |
 | 665 | 124 | Nora Mahmoud |
 | 666 | 124 | Tasha Jones |
@@ -903,52 +903,52 @@
 | 895 | 85 | Bobby Chestefield |
 | 896 | 85 | Kidgib5 |
 | 897 | 85 | Anthony Collins |
-| 898 | 85 | Heru Ogun Yeshua EL |
-| 899 | 85 | Abdul Malik |
-| 900 | 85 | Locke Mahal LD |
-| 901 | 85 | Chill Linkroll |
-| 902 | 85 | Tray Tolliver |
-| 903 | 84 | Dawn Basemore |
-| 904 | 84 | Silly Wiper |
-| 905 | 84 | Jumpy Gridlock |
+| 898 | 85 | Abdul Malik |
+| 899 | 85 | Tray Tolliver |
+| 900 | 85 | Chill Linkroll |
+| 901 | 85 | Heru Ogun Yeshua EL |
+| 902 | 85 | Locke Mahal LD |
+| 903 | 84 | Jumpy Gridlock |
+| 904 | 84 | Nick Stowers |
+| 905 | 84 | Sunny Tumbler |
 | 906 | 84 | Stanley Dixon |
-| 907 | 84 | Quwana Hall |
-| 908 | 84 | squints |
-| 909 | 84 | Sunny Tumbler |
-| 910 | 84 | Nick Stowers |
-| 911 | 83 | Block |
-| 912 | 83 | AshMo |
+| 907 | 84 | squints |
+| 908 | 84 | Quwana Hall |
+| 909 | 84 | Silly Wiper |
+| 910 | 84 | Dawn Basemore |
+| 911 | 83 | MrsMeadows2019 |
+| 912 | 83 | Kahh |
 | 913 | 83 | Tony P Burke |
-| 914 | 83 | MrsMeadows2019 |
-| 915 | 83 | Latoya Carson |
-| 916 | 83 | John C Sexton |
-| 917 | 83 | Stacy Nicole |
-| 918 | 82 | Gabriela Hernandez |
-| 919 | 82 | LaSharon Jackson |
-| 920 | 82 | Kashh |
-| 921 | 82 | DeAngelo Sorrells |
-| 922 | 82 | Dana Hawes |
-| 923 | 82 | Idelia L Brown |
-| 924 | 82 | Jasmine Hariston-Estis |
-| 925 | 82 | Kahh |
+| 914 | 83 | AshMo |
+| 915 | 83 | Block |
+| 916 | 83 | Latoya Carson |
+| 917 | 83 | John C Sexton |
+| 918 | 83 | Stacy Nicole |
+| 919 | 82 | Gabriela Hernandez |
+| 920 | 82 | LaSharon Jackson |
+| 921 | 82 | Kashh |
+| 922 | 82 | DeAngelo Sorrells |
+| 923 | 82 | Dana Hawes |
+| 924 | 82 | Idelia L Brown |
+| 925 | 82 | Jasmine Hariston-Estis |
 | 926 | 82 | Anntionette Sotire |
 | 927 | 81 | GracefulOwl808 |
 | 928 | 81 | Parris Wright |
 | 929 | 81 | Felicia Woods |
 | 930 | 81 | Deihja Weaver |
 | 931 | 80 | nay |
-| 932 | 80 | Terri Smart |
+| 932 | 80 | Antoinette Kidd |
 | 933 | 80 | Amaadi Ward |
 | 934 | 80 | Tory Miller |
-| 935 | 80 | Antoinette Kidd |
+| 935 | 80 | Linzi Cole |
 | 936 | 80 | Lisa420 |
-| 937 | 80 | Linzi Cole |
+| 937 | 80 | Terri Smart |
 | 938 | 80 | Chevalier Burley |
 | 939 | 80 | Chill Curvebuilder |
-| 940 | 80 | Lauren Farkas |
-| 941 | 80 | Erica Campbell-Stillings |
-| 942 | 80 | Charles Johnson |
-| 943 | 80 | Lady Scorpio |
+| 940 | 80 | Erica Campbell-Stillings |
+| 941 | 80 | Charles Johnson |
+| 942 | 80 | Lady Scorpio |
+| 943 | 80 | Lauren Farkas |
 | 944 | 79 | Shauntai Holiday |
 | 945 | 79 | Oaklonboy mike |
 | 946 | 79 | Juan Lewis |
