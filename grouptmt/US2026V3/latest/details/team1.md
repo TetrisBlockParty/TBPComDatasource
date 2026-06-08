@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 01:10:20 UTC
+# Standings for team1 as of 2026-06-08 01:10:42 UTC
 
 **Total Participants:** 1645
 
@@ -115,14 +115,14 @@
 | 107 | 651 | Slinky Puzzler |
 | 108 | 647 | Dynah Gordon |
 | 109 | 647 | Andi McGreevy |
-| 110 | 642 | Cee Emm |
+| 110 | 643 | Cee Emm |
 | 111 | 642 | Voice |
 | 112 | 630 | Bambi Love |
-| 113 | 627 | Big Tina |
-| 114 | 622 | Alana Renee |
-| 115 | 619 | Ottison Dianna |
-| 116 | 618 | Quirky Fallgrid |
-| 117 | 611 | Mimi 1.0 |
+| 113 | 627 | Mimi 1.0 |
+| 114 | 627 | Big Tina |
+| 115 | 622 | Alana Renee |
+| 116 | 619 | Ottison Dianna |
+| 117 | 618 | Quirky Fallgrid |
 | 118 | 604 | W.A. Simpson |
 | 119 | 601 | JaszyBadd |
 | 120 | 590 | Jason Mungin |
@@ -167,14 +167,14 @@
 | 159 | 396 | Chuck Quarles |
 | 160 | 393 | Sharon Cail |
 | 161 | 393 | Sheila Burnham |
-| 162 | 389 | GrkGdess |
-| 163 | 389 | Lashaunda |
+| 162 | 389 | Lashaunda |
+| 163 | 389 | GrkGdess |
 | 164 | 389 | Roberta Lynn |
 | 165 | 387 | Crystal Anderson |
 | 166 | 387 | Karebear |
 | 167 | 384 | Christana Imjustbutton Stone |
-| 168 | 380 | Felicia Cain |
-| 169 | 380 | Dulo |
+| 168 | 380 | Dulo |
+| 169 | 380 | Felicia Cain |
 | 170 | 377 | Jenna Renee |
 | 171 | 377 | AF Cruz |
 | 172 | 372 | Joey Albright |
@@ -182,14 +182,14 @@
 | 174 | 368 | Eugina Slater |
 | 175 | 367 | Leebo Slice |
 | 176 | 366 | Dee McCool |
-| 177 | 365 | Simmone T. Kadiri |
-| 178 | 365 | Tishauna Virgo |
+| 177 | 365 | Tishauna Virgo |
+| 178 | 365 | Simmone T. Kadiri |
 | 179 | 363 | Christina Rebecca |
 | 180 | 361 | John Staub |
 | 181 | 359 | pooh |
-| 182 | 356 | Murg4dr01d |
-| 183 | 356 | Haley Bell |
-| 184 | 356 | Tina Mitchell |
+| 182 | 356 | Haley Bell |
+| 183 | 356 | Tina Mitchell |
+| 184 | 356 | Murg4dr01d |
 | 185 | 354 | Michele Simpson |
 | 186 | 348 | Jayjay Rich |
 | 187 | 345 | Ebony |
@@ -197,10 +197,10 @@
 | 189 | 340 | Tamara N Lee |
 | 190 | 340 | Spicy Risepiece |
 | 191 | 332 | Mic Balew |
-| 192 | 330 | Po Marley |
+| 192 | 331 | Zappy Riser |
 | 193 | 330 | Davionte DaeDae Hopson-Rodriguez |
 | 194 | 330 | Jessica Russell |
-| 195 | 329 | Zappy Riser |
+| 195 | 330 | Po Marley |
 | 196 | 328 | Brand Nu |
 | 197 | 327 | Rolanda Williams |
 | 198 | 321 | Chantelle Lee |
@@ -211,16 +211,16 @@
 | 203 | 316 | Latisha Fairley |
 | 204 | 315 | Koi |
 | 205 | 313 | TT |
-| 206 | 312 | Slim Shedidthat |
-| 207 | 312 | Zachary Colegrove |
-| 208 | 311 | Helen Smith |
-| 209 | 311 | Nobles Brandon |
-| 210 | 310 | Calvin Green |
-| 211 | 310 | Denise B |
+| 206 | 312 | Zachary Colegrove |
+| 207 | 312 | Slim Shedidthat |
+| 208 | 311 | Nobles Brandon |
+| 209 | 311 | Helen Smith |
+| 210 | 310 | Denise B |
+| 211 | 310 | Calvin Green |
 | 212 | 309 | IThinkNot |
 | 213 | 307 | Byron Mario Cawthon |
-| 214 | 306 | Devin West |
-| 215 | 306 | Block King |
+| 214 | 306 | Block King |
+| 215 | 306 | Devin West |
 | 216 | 305 | Salim Thugger |
 | 217 | 304 | Steve Reno |
 | 218 | 302 | Randizzle |
