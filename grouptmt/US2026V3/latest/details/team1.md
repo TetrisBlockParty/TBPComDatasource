@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:16:19 UTC
+# Standings for team1 as of 2026-06-08 17:16:42 UTC
 
 **Total Participants:** 1829
 
@@ -59,7 +59,7 @@
 | 51 | 1656 | Mimi 1.0 |
 | 52 | 1628 | Robyn Caldwell |
 | 53 | 1623 | Brian Bohanon II |
-| 54 | 1548 | Jennifer To |
+| 54 | 1558 | Jennifer To |
 | 55 | 1538 | Jacoby E Fleming |
 | 56 | 1482 | Shortstak |
 | 57 | 1461 | Janet Cooke |
@@ -1092,10 +1092,10 @@
 | 1084 | 60 | Juan Lewis |
 | 1085 | 60 | Jennifer Endean |
 | 1086 | 60 | Sally Elizabeth Hopson |
-| 1087 | 60 | Nigel Snyder |
+| 1087 | 60 | Demi Ovalle |
 | 1088 | 60 | Nancy Hartzell |
 | 1089 | 60 | HS Arce |
-| 1090 | 60 | Demi Ovalle |
+| 1090 | 60 | Nigel Snyder |
 | 1091 | 60 | Tellisa Payne |
 | 1092 | 60 | Tyrone Porter |
 | 1093 | 59 | Angela Hill O'Neal |
@@ -1112,36 +1112,36 @@
 | 1104 | 58 | AleahKCH |
 | 1105 | 58 | CoaCoa Myles |
 | 1106 | 58 | Brii Michelle Lamb |
-| 1107 | 58 | Jenni |
-| 1108 | 58 | Meeee |
+| 1107 | 58 | Meeee |
+| 1108 | 58 | Jenni |
 | 1109 | 57 | Vernon Hoyt |
 | 1110 | 57 | Demetrice Buck Wilson |
 | 1111 | 57 | Warren Miller |
 | 1112 | 57 | Carl Proby |
-| 1113 | 57 | Desire Rice |
-| 1114 | 57 | LaShawyn Wood |
-| 1115 | 57 | Tina Criam |
-| 1116 | 57 | Elizabeth Clara |
-| 1117 | 57 | Brave Balanceblock |
-| 1118 | 56 | Arturo Hernandez II |
-| 1119 | 56 | SnazzySnippet |
-| 1120 | 56 | Christopher Wallace |
-| 1121 | 56 | Kayleah Washington |
-| 1122 | 56 | Maxine Williams |
-| 1123 | 56 | Fred Caston |
-| 1124 | 56 | Tammy Collins |
-| 1125 | 56 | Chanel White |
-| 1126 | 56 | Shemeka Bates |
-| 1127 | 56 | Lisa Ivy |
-| 1128 | 56 | QueenzMo |
-| 1129 | 55 | Aanngie Aanngie |
-| 1130 | 55 | sunstar |
-| 1131 | 55 | Nicole Coko Thomas |
-| 1132 | 55 | Cheery Clusterbuilder |
-| 1133 | 55 | Bouncy Glide |
-| 1134 | 55 | KoolKimJay |
-| 1135 | 55 | Kike Lua |
-| 1136 | 55 | Sagitterrorist |
+| 1113 | 57 | Sagitterrorist |
+| 1114 | 57 | Desire Rice |
+| 1115 | 57 | LaShawyn Wood |
+| 1116 | 57 | Tina Criam |
+| 1117 | 57 | Elizabeth Clara |
+| 1118 | 57 | Brave Balanceblock |
+| 1119 | 56 | Kayleah Washington |
+| 1120 | 56 | Arturo Hernandez II |
+| 1121 | 56 | Christopher Wallace |
+| 1122 | 56 | SnazzySnippet |
+| 1123 | 56 | Maxine Williams |
+| 1124 | 56 | Fred Caston |
+| 1125 | 56 | Tammy Collins |
+| 1126 | 56 | Chanel White |
+| 1127 | 56 | Shemeka Bates |
+| 1128 | 56 | Lisa Ivy |
+| 1129 | 56 | QueenzMo |
+| 1130 | 55 | Aanngie Aanngie |
+| 1131 | 55 | sunstar |
+| 1132 | 55 | Nicole Coko Thomas |
+| 1133 | 55 | Cheery Clusterbuilder |
+| 1134 | 55 | Bouncy Glide |
+| 1135 | 55 | KoolKimJay |
+| 1136 | 55 | Kike Lua |
 | 1137 | 54 | Felicia Yahuah Johnson |
 | 1138 | 54 | Beautiful314 |
 | 1139 | 54 | Embracing Hair |
@@ -1149,11 +1149,11 @@
 | 1141 | 54 | deeno |
 | 1142 | 54 | Noni |
 | 1143 | 54 | Giggy Holder |
-| 1144 | 54 | Tez Mays |
-| 1145 | 54 | Ivan Israel |
+| 1144 | 54 | Ivan Israel |
+| 1145 | 54 | Tez Mays |
 | 1146 | 54 | Christina Wesley |
-| 1147 | 54 | Damien Fonseca |
-| 1148 | 54 | Mrs |
+| 1147 | 54 | Mrs |
+| 1148 | 54 | Damien Fonseca |
 | 1149 | 53 | Michael Lindenlauf |
 | 1150 | 53 | Chummy Twisterfit |
 | 1151 | 53 | don ralph |
@@ -1161,9 +1161,9 @@
 | 1153 | 53 | toxictonic92 |
 | 1154 | 52 | Glitzy Patternline |
 | 1155 | 52 | Frilly Mover |
-| 1156 | 52 | Cathilia Rodriguez |
-| 1157 | 52 | Loopy Risepiece |
-| 1158 | 52 | Chummy Liner |
+| 1156 | 52 | Loopy Risepiece |
+| 1157 | 52 | Chummy Liner |
+| 1158 | 52 | Cathilia Rodriguez |
 | 1159 | 52 | L-Kamice Boykin |
 | 1160 | 52 | Cheery T-spin |
 | 1161 | 51 | Laura |
