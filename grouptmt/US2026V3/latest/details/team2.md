@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 18:45:19 UTC
+# Standings for team2 as of 2026-06-08 18:46:42 UTC
 
 **Total Participants:** 2240
 
@@ -138,8 +138,8 @@
 | 130 | 849 | Brandi Thompson |
 | 131 | 846 | Nova Nova |
 | 132 | 837 | Allie Bug |
-| 133 | 827 | Loopy Cascadepiece |
-| 134 | 825 | Jackie Tupper |
+| 133 | 828 | Jackie Tupper |
+| 134 | 827 | Loopy Cascadepiece |
 | 135 | 813 | Loony Faller |
 | 136 | 808 | Giggly Wipepiece |
 | 137 | 800 | Denise Potter |
@@ -176,13 +176,13 @@
 | 168 | 639 | Rhonda Diebold |
 | 169 | 637 | Kellie Sharp Godfrey |
 | 170 | 635 | Joslyn Johnson |
-| 171 | 628 | Tim Tim |
-| 172 | 626 | Dsabrina Maxey |
-| 173 | 619 | Jeska Gaines |
-| 174 | 613 | MegaPooh |
-| 175 | 609 | Pooh |
-| 176 | 609 | Michelle Rich Burkhart |
-| 177 | 602 | Julie Renee Bertram |
+| 171 | 631 | Julie Renee Bertram |
+| 172 | 628 | Tim Tim |
+| 173 | 626 | Dsabrina Maxey |
+| 174 | 619 | Jeska Gaines |
+| 175 | 613 | MegaPooh |
+| 176 | 609 | Pooh |
+| 177 | 609 | Michelle Rich Burkhart |
 | 178 | 600 | Chasity Simpson |
 | 179 | 600 | Theresa Marie |
 | 180 | 593 | Bubbly Strikerpiece |
@@ -238,22 +238,22 @@
 | 230 | 470 | Zany Blockclear |
 | 231 | 467 | Lisa Underwood Desmond |
 | 232 | 462 | Charles E Mccardell |
-| 233 | 460 | Brenda Jones |
-| 234 | 456 | H |
-| 235 | 454 | Tami Kay Williams Watson |
-| 236 | 453 | Kimberly Cowan |
-| 237 | 452 | Spicy Basepiece |
-| 238 | 448 | Eric Drane |
-| 239 | 447 | Swanky Fitline |
-| 240 | 445 | Gabrielle Wilson |
-| 241 | 445 | Joni Michelle Morgan |
-| 242 | 442 | Frilly Dashfit |
-| 243 | 442 | Jess |
-| 244 | 441 | AndyJo |
-| 245 | 440 | Amy Gregg |
-| 246 | 439 | giamy |
-| 247 | 438 | Katrien |
-| 248 | 435 | Sarina Vollink |
+| 233 | 462 | Spicy Basepiece |
+| 234 | 460 | Brenda Jones |
+| 235 | 456 | H |
+| 236 | 454 | Tami Kay Williams Watson |
+| 237 | 453 | Kimberly Cowan |
+| 238 | 452 | Sarina Vollink |
+| 239 | 448 | Eric Drane |
+| 240 | 447 | Swanky Fitline |
+| 241 | 445 | Gabrielle Wilson |
+| 242 | 445 | Joni Michelle Morgan |
+| 243 | 442 | Frilly Dashfit |
+| 244 | 442 | Jess |
+| 245 | 441 | AndyJo |
+| 246 | 440 | Amy Gregg |
+| 247 | 439 | giamy |
+| 248 | 438 | Katrien |
 | 249 | 434 | Janelle Edgecombe |
 | 250 | 430 | Jenn |
 | 251 | 429 | Nikki EightySixed |
@@ -263,8 +263,8 @@
 | 255 | 427 | Flower_child |
 | 256 | 423 | MaddieCherie |
 | 257 | 423 | Tara |
-| 258 | 418 | Breeana Bennett |
-| 259 | 418 | Lyric Price |
+| 258 | 419 | Lyric Price |
+| 259 | 418 | Breeana Bennett |
 | 260 | 415 | Goofy Gridclear |
 | 261 | 414 | Cathy Lee Stoneking |
 | 262 | 412 | Greta Warden |
@@ -307,22 +307,22 @@
 | 299 | 366 | Ratchet |
 | 300 | 366 | Jeanna Mendez |
 | 301 | 364 | Monee Stronger |
-| 302 | 362 | Flashy Twistline |
-| 303 | 362 | Jessica Lynn |
+| 302 | 362 | Jessica Lynn |
+| 303 | 362 | Flashy Twistline |
 | 304 | 360 | Jamin |
 | 305 | 359 | Crystal Poss |
 | 306 | 359 | Nancy Schwartz Gusman-Oliver |
 | 307 | 358 | Larry Cross |
-| 308 | 354 | Maria Ward |
-| 309 | 354 | Sabrina Hardrick |
-| 310 | 353 | Flashy Hitter |
-| 311 | 353 | Steven |
-| 312 | 352 | Boldy Fitclear |
-| 313 | 350 | Loopy Dropper |
-| 314 | 350 | Marge Cromer |
-| 315 | 349 | Angie Bishop |
-| 316 | 347 | Jimmy Francis Shasta Bambi |
-| 317 | 346 | James Ward |
+| 308 | 356 | James Ward |
+| 309 | 354 | Maria Ward |
+| 310 | 354 | Sabrina Hardrick |
+| 311 | 353 | Flashy Hitter |
+| 312 | 353 | Steven |
+| 313 | 352 | Boldy Fitclear |
+| 314 | 350 | Loopy Dropper |
+| 315 | 350 | Marge Cromer |
+| 316 | 349 | Angie Bishop |
+| 317 | 347 | Jimmy Francis Shasta Bambi |
 | 318 | 346 | Ray Daisy |
 | 319 | 343 | Jumpy Matchbuilder |
 | 320 | 340 | Jason Cunningham |
@@ -334,21 +334,21 @@
 | 326 | 336 | Karly Moore |
 | 327 | 335 | Skye Ehret |
 | 328 | 333 | Joanna Trevin Thompson |
-| 329 | 331 | Sarah Jane Gorsuch |
-| 330 | 331 | Amy Taylor Pomerenk |
-| 331 | 331 | Anthony Swift |
+| 329 | 331 | Anthony Swift |
+| 330 | 331 | Sarah Jane Gorsuch |
+| 331 | 331 | Amy Taylor Pomerenk |
 | 332 | 331 | Shannon Wilson |
 | 333 | 329 | Jennifer Lalk |
 | 334 | 329 | Bengy Lead |
 | 335 | 329 | Duke Morley |
 | 336 | 328 | Xandrea Jones |
-| 337 | 327 | Iesha Cupil |
-| 338 | 326 | True |
-| 339 | 325 | Snappy Combo |
-| 340 | 324 | Norma Ortiz |
-| 341 | 323 | Kelly Vedder |
-| 342 | 323 | Harper |
-| 343 | 323 | Avie Lou |
+| 337 | 327 | Avie Lou |
+| 338 | 327 | Iesha Cupil |
+| 339 | 326 | True |
+| 340 | 325 | Snappy Combo |
+| 341 | 324 | Norma Ortiz |
+| 342 | 323 | Kelly Vedder |
+| 343 | 323 | Harper |
 | 344 | 322 | Jenny |
 | 345 | 322 | Pam Bauder Ludwig |
 | 346 | 321 | Bianca Woodruff |
@@ -375,9 +375,9 @@
 | 367 | 304 | Chummy Snapbuilder |
 | 368 | 304 | Carolyn McNaughton |
 | 369 | 304 | Kim Hunt |
-| 370 | 301 | Danielle Pack Lewellen |
-| 371 | 301 | Jeff Pottgether |
-| 372 | 301 | Melmel |
+| 370 | 302 | Melmel |
+| 371 | 301 | Danielle Pack Lewellen |
+| 372 | 301 | Jeff Pottgether |
 | 373 | 300 | Sarah Rodriguez |
 | 374 | 300 | Melisa |
 | 375 | 300 | Tina Marie |
@@ -1875,44 +1875,44 @@
 | 1867 | 22 | Chummy Clear |
 | 1868 | 22 | Mariah Wygonik |
 | 1869 | 22 | Nutty Cascader |
-| 1870 | 22 | Stacy Stickle |
-| 1871 | 22 | Jenny |
-| 1872 | 22 | Tyler Bates |
-| 1873 | 22 | SueEllen Hawkins |
-| 1874 | 22 | Jennifer Roper Stanley |
-| 1875 | 22 | Jay King |
-| 1876 | 22 | Sir Paco |
-| 1877 | 21 | Tina Thomason |
-| 1878 | 21 | Jennifer Chapel |
-| 1879 | 21 | sally |
-| 1880 | 21 | Johnathon Mendiola |
-| 1881 | 21 | Jacqueline Leigh Zuzinec |
-| 1882 | 21 | Chill Shatterclear |
-| 1883 | 21 | twistyzone |
-| 1884 | 21 | Krickett M. Curtis |
-| 1885 | 21 | Rachel Burkett |
-| 1886 | 21 | Cynthia Vornlocker |
-| 1887 | 21 | Loony Snapclear |
-| 1888 | 21 | Misty Dillard |
-| 1889 | 21 | Swahko |
-| 1890 | 21 | Ali |
-| 1891 | 21 | Vee Waller |
-| 1892 | 21 | Sandra Kopas Stetka |
-| 1893 | 21 | Plucky Caster |
-| 1894 | 20 | Hyper Framezone |
-| 1895 | 20 | JrsWife |
-| 1896 | 20 | David Blocker |
-| 1897 | 20 | Jocelyn Fisher |
-| 1898 | 20 | Deborah Morey-avila |
-| 1899 | 20 | Jamaica Flowers |
-| 1900 | 20 | Brandy Knight Roberts |
-| 1901 | 20 | ll Patton |
-| 1902 | 20 | Shana Campbell |
-| 1903 | 20 | Mathew Henderson |
-| 1904 | 20 | Chill Racker |
-| 1905 | 20 | Anna |
-| 1906 | 20 | Jenn Wittkamp |
-| 1907 | 20 | Spunky Riserfit |
+| 1870 | 22 | Plucky Caster |
+| 1871 | 22 | Stacy Stickle |
+| 1872 | 22 | Jenny |
+| 1873 | 22 | Tyler Bates |
+| 1874 | 22 | SueEllen Hawkins |
+| 1875 | 22 | Jennifer Roper Stanley |
+| 1876 | 22 | Jay King |
+| 1877 | 22 | Sir Paco |
+| 1878 | 21 | Tina Thomason |
+| 1879 | 21 | Jennifer Chapel |
+| 1880 | 21 | sally |
+| 1881 | 21 | Johnathon Mendiola |
+| 1882 | 21 | Jacqueline Leigh Zuzinec |
+| 1883 | 21 | Chill Shatterclear |
+| 1884 | 21 | twistyzone |
+| 1885 | 21 | Krickett M. Curtis |
+| 1886 | 21 | Rachel Burkett |
+| 1887 | 21 | Cynthia Vornlocker |
+| 1888 | 21 | Loony Snapclear |
+| 1889 | 21 | Misty Dillard |
+| 1890 | 21 | Swahko |
+| 1891 | 21 | Ali |
+| 1892 | 21 | Vee Waller |
+| 1893 | 21 | Sandra Kopas Stetka |
+| 1894 | 20 | Spunky Riserfit |
+| 1895 | 20 | ll Patton |
+| 1896 | 20 | Jenn Wittkamp |
+| 1897 | 20 | Chill Racker |
+| 1898 | 20 | Mathew Henderson |
+| 1899 | 20 | Shana Campbell |
+| 1900 | 20 | Hyper Framezone |
+| 1901 | 20 | Anna |
+| 1902 | 20 | Brandy Knight Roberts |
+| 1903 | 20 | Jamaica Flowers |
+| 1904 | 20 | Deborah Morey-avila |
+| 1905 | 20 | Jocelyn Fisher |
+| 1906 | 20 | David Blocker |
+| 1907 | 20 | JrsWife |
 | 1908 | 20 | Betsey Terry |
 | 1909 | 20 | Margie King |
 | 1910 | 20 | Victoria Hogan McCreedy |
