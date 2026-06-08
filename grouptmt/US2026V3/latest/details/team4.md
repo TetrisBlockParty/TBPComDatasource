@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 06:54:19 UTC
+# Standings for team4 as of 2026-06-08 06:54:43 UTC
 
 **Total Participants:** 1789
 
@@ -57,8 +57,8 @@
 | 49 | 1781 | Tommy Bond |
 | 50 | 1729 | Erin Figone |
 | 51 | 1711 | Cal Renee |
-| 52 | 1700 | Elissa S-k |
-| 53 | 1700 | Leah Gorsuch |
+| 52 | 1700 | Leah Gorsuch |
+| 53 | 1700 | Elissa S-k |
 | 54 | 1667 | Dheeh Robles |
 | 55 | 1656 | Blind Bette |
 | 56 | 1654 | 626 |
@@ -158,8 +158,8 @@
 | 150 | 461 | Kayla Fuentes |
 | 151 | 452 | Kaash Brxtt |
 | 152 | 446 | Laguya |
-| 153 | 443 | Crissy Hoffman |
-| 154 | 443 | Joyce Myers |
+| 153 | 443 | Joyce Myers |
+| 154 | 443 | Crissy Hoffman |
 | 155 | 438 | Real Talk Vibes |
 | 156 | 437 | Danielle Mitchell |
 | 157 | 435 | BusterBear56 |
@@ -178,8 +178,8 @@
 | 170 | 409 | Hen |
 | 171 | 405 | HurkleDurkle88 |
 | 172 | 400 | Amber Doyle |
-| 173 | 395 | Bobbie Harrell |
-| 174 | 395 | Julian Gasque |
+| 173 | 395 | Julian Gasque |
+| 174 | 395 | Bobbie Harrell |
 | 175 | 389 | Taz |
 | 176 | 389 | blockhead |
 | 177 | 385 | Kristen Wallace |
