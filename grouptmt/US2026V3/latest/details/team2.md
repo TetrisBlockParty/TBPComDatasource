@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:40:20 UTC
+# Standings for team2 as of 2026-06-08 19:40:43 UTC
 
 **Total Participants:** 2257
 
@@ -42,7 +42,7 @@
 | 34 | 3984 | Amber |
 | 35 | 3812 | Crystal M Sowden |
 | 36 | 3766 | Ashley Miller |
-| 37 | 3567 | Quirky Catcher |
+| 37 | 3572 | Quirky Catcher |
 | 38 | 3514 | Traci Elizabeth |
 | 39 | 3231 | DarkHorse |
 | 40 | 3170 | Aubree Richard |
@@ -907,60 +907,60 @@
 | 899 | 115 | Courtney Madison Hart |
 | 900 | 115 | Naomi Jaynes |
 | 901 | 115 | Patty Ann Hendrickson |
-| 902 | 114 | Rae |
-| 903 | 114 | Brenda Zona |
-| 904 | 114 | Miguel360 |
-| 905 | 113 | Kiersty Redder |
-| 906 | 113 | Wood |
-| 907 | 113 | Carmina Truoiolo |
-| 908 | 113 | Jami Borges |
-| 909 | 113 | Lisa Chapman |
-| 910 | 113 | Tanya Goodwin |
-| 911 | 113 | Jolly Builderpiece |
-| 912 | 112 | Squared |
-| 913 | 112 | Kennadee Albertson |
-| 914 | 112 | Aneokly |
-| 915 | 111 | Dhelsie Qurasima |
-| 916 | 111 | Linzy Ratliff |
-| 917 | 110 | Michelle Fry-Cash |
-| 918 | 110 | Brian Little |
-| 919 | 110 | Stephen Gillam |
-| 920 | 110 | Deena-Neal Peryer |
-| 921 | 110 | Christina German |
-| 922 | 110 | Emilee Dulyea |
-| 923 | 110 | Twisty Matcher |
-| 924 | 110 | Susan Moyer |
-| 925 | 110 | Tracy Coe |
-| 926 | 109 | jme |
-| 927 | 109 | Jillian Marie |
-| 928 | 109 | Robert W Schwartz |
-| 929 | 109 | Sandra Rotton Bragg |
-| 930 | 108 | Purpleroyalty11 |
-| 931 | 108 | K2N |
-| 932 | 107 | ASL |
-| 933 | 107 | Jazzy Snapfit |
-| 934 | 107 | Arik DiLorenzo |
-| 935 | 107 | BB |
-| 936 | 107 | KS Hengesbach |
-| 937 | 107 | Clever Gridzone |
-| 938 | 107 | Giggy Linkgrid |
-| 939 | 107 | Carole Brown |
+| 902 | 114 | Amanda Neal |
+| 903 | 114 | Rae |
+| 904 | 114 | Brenda Zona |
+| 905 | 114 | Miguel360 |
+| 906 | 113 | Kiersty Redder |
+| 907 | 113 | Wood |
+| 908 | 113 | Carmina Truoiolo |
+| 909 | 113 | Jami Borges |
+| 910 | 113 | Lisa Chapman |
+| 911 | 113 | Tanya Goodwin |
+| 912 | 113 | Jolly Builderpiece |
+| 913 | 112 | Squared |
+| 914 | 112 | Kennadee Albertson |
+| 915 | 112 | Aneokly |
+| 916 | 111 | Dhelsie Qurasima |
+| 917 | 111 | Linzy Ratliff |
+| 918 | 110 | Michelle Fry-Cash |
+| 919 | 110 | Brian Little |
+| 920 | 110 | Stephen Gillam |
+| 921 | 110 | Deena-Neal Peryer |
+| 922 | 110 | Christina German |
+| 923 | 110 | Emilee Dulyea |
+| 924 | 110 | Twisty Matcher |
+| 925 | 110 | Susan Moyer |
+| 926 | 110 | Tracy Coe |
+| 927 | 109 | Robert W Schwartz |
+| 928 | 109 | Jillian Marie |
+| 929 | 109 | jme |
+| 930 | 109 | Sandra Rotton Bragg |
+| 931 | 108 | Purpleroyalty11 |
+| 932 | 108 | K2N |
+| 933 | 107 | ASL |
+| 934 | 107 | Jazzy Snapfit |
+| 935 | 107 | Arik DiLorenzo |
+| 936 | 107 | Clever Gridzone |
+| 937 | 107 | Giggy Linkgrid |
+| 938 | 107 | Carole Brown |
+| 939 | 107 | KS Hengesbach |
 | 940 | 107 | Stephanie Smith Robinson |
-| 941 | 106 | Jessica Murphree |
+| 941 | 107 | BB |
 | 942 | 106 | Pamela Gambrell |
-| 943 | 106 | Jacy Pickett |
-| 944 | 106 | Teresa Ann Curry |
-| 945 | 105 | Goofy Shatterbuilder |
-| 946 | 105 | Wildcat1220 |
-| 947 | 105 | Gabrielle Rivera |
-| 948 | 105 | Patrick Woodard |
-| 949 | 104 | Christina Whitehead |
+| 943 | 106 | Jessica Murphree |
+| 944 | 106 | Jacy Pickett |
+| 945 | 106 | Teresa Ann Curry |
+| 946 | 105 | Goofy Shatterbuilder |
+| 947 | 105 | Wildcat1220 |
+| 948 | 105 | Gabrielle Rivera |
+| 949 | 105 | Patrick Woodard |
 | 950 | 104 | John Perkins |
-| 951 | 104 | Amanda Neal |
+| 951 | 104 | Christina Whitehead |
 | 952 | 104 | Peppy Piececlear |
-| 953 | 103 | Jolly Twisterfit |
-| 954 | 103 | Saucy Lifter |
-| 955 | 103 | Louis Brudzinski |
+| 953 | 103 | Saucy Lifter |
+| 954 | 103 | Louis Brudzinski |
+| 955 | 103 | Jolly Twisterfit |
 | 956 | 103 | Katie Boen |
 | 957 | 103 | Chill Clearbuilder |
 | 958 | 103 | Ashley Fleming |
@@ -968,8 +968,8 @@
 | 960 | 102 | Diamond Mitchell |
 | 961 | 102 | James Maness |
 | 962 | 102 | Kaylene Rigas |
-| 963 | 102 | Jolene Hull Hearn |
-| 964 | 102 | Renee Craig |
+| 963 | 102 | Renee Craig |
+| 964 | 102 | Jolene Hull Hearn |
 | 965 | 102 | Tetrismastrr |
 | 966 | 102 | Chirpy Clearpiece |
 | 967 | 102 | Natalie M. Arredondo |
