@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 01:26:20 UTC
+# Standings for team4 as of 2026-06-08 01:26:42 UTC
 
 **Total Participants:** 1685
 
@@ -116,9 +116,9 @@
 | 108 | 637 | Gracie Ornelas |
 | 109 | 631 | Irma |
 | 110 | 626 | Lynn Grimes |
-| 111 | 619 | Kim |
-| 112 | 610 | Dandy Clearfit |
-| 113 | 601 | vag1974 |
+| 111 | 622 | Kim |
+| 112 | 621 | vag1974 |
+| 113 | 610 | Dandy Clearfit |
 | 114 | 594 | Daryn Elliott |
 | 115 | 593 | Caitlyn Wang |
 | 116 | 576 | CJ |
@@ -432,27 +432,27 @@
 | 424 | 149 | Jennifer Garcia |
 | 425 | 149 | Happy Shatterfit |
 | 426 | 149 | Zesty Lift |
-| 427 | 149 | Snazzy Fitclear |
-| 428 | 148 | Alexsandra Hill |
-| 429 | 148 | Latisha TeTe Williams |
-| 430 | 147 | Allysha McFarland |
-| 431 | 146 | Karen Small |
-| 432 | 146 | Chilly Pivot |
-| 433 | 146 | Caiti O'Keefe |
-| 434 | 146 | Jasmine Marie |
-| 435 | 145 | Ashley DuVall |
-| 436 | 144 | Holly Bramel |
-| 437 | 143 | Brennan Shea Greene |
-| 438 | 143 | Celina DiBastiani |
-| 439 | 143 | Lively Cascadebuilder |
+| 427 | 149 | Dan Butcher |
+| 428 | 149 | Snazzy Fitclear |
+| 429 | 148 | Alexsandra Hill |
+| 430 | 148 | Latisha TeTe Williams |
+| 431 | 147 | Allysha McFarland |
+| 432 | 146 | Karen Small |
+| 433 | 146 | Chilly Pivot |
+| 434 | 146 | Caiti O'Keefe |
+| 435 | 146 | Jasmine Marie |
+| 436 | 145 | Ashley DuVall |
+| 437 | 144 | Holly Bramel |
+| 438 | 143 | Brennan Shea Greene |
+| 439 | 143 | Brandon Bedenbaugh |
 | 440 | 143 | Alyssa Berg |
-| 441 | 143 | Brandon Bedenbaugh |
-| 442 | 141 | Linda Miltenburg |
-| 443 | 141 | Tiffany Morris Garner |
-| 444 | 141 | Marcus Chavis |
-| 445 | 141 | Sharon Tyler |
-| 446 | 141 | Dan Butcher |
-| 447 | 141 | Ginny |
+| 441 | 143 | Lively Cascadebuilder |
+| 442 | 143 | Celina DiBastiani |
+| 443 | 141 | Ginny |
+| 444 | 141 | Sharon Tyler |
+| 445 | 141 | Linda Miltenburg |
+| 446 | 141 | Tiffany Morris Garner |
+| 447 | 141 | Marcus Chavis |
 | 448 | 140 | Knijur Callins |
 | 449 | 140 | Krista Diaz |
 | 450 | 140 | Robert Crow |
