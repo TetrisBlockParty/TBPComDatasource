@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:34:42 UTC
+# Standings for team4 as of 2026-06-08 14:35:20 UTC
 
 **Total Participants:** 1847
 
@@ -18,7 +18,7 @@
 | 10 | 6401 | BertaF1irta |
 | 11 | 6108 | Kait Confetti |
 | 12 | 5633 | Bubbly Twistpiece |
-| 13 | 5582 | delilahbelle |
+| 13 | 5591 | delilahbelle |
 | 14 | 5552 | Jerald Jones |
 | 15 | 5351 | Jennifer Edgell Richardson |
 | 16 | 5307 | Hasty Builder |
@@ -951,9 +951,9 @@
 | 943 | 76 | Jillian Marie |
 | 944 | 76 | Patsy |
 | 945 | 76 | Lori Lynn |
-| 946 | 75 | DrC |
-| 947 | 75 | PDubz |
-| 948 | 75 | Speedy Twistslam |
+| 946 | 76 | Speedy Twistslam |
+| 947 | 75 | DrC |
+| 948 | 75 | PDubz |
 | 949 | 75 | Toria |
 | 950 | 75 | Marco A. Sandoval |
 | 951 | 75 | ŁųŁų |
