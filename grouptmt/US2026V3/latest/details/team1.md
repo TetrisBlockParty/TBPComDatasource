@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:12:20 UTC
+# Standings for team1 as of 2026-06-08 02:12:41 UTC
 
 **Total Participants:** 1669
 
@@ -89,10 +89,10 @@
 | 81 | 890 | MamaBear |
 | 82 | 882 | Jon Gathers |
 | 83 | 867 | She Higgy |
-| 84 | 850 | Keeta Chickswit Scott |
-| 85 | 844 | Moomoo |
-| 86 | 809 | Jazzy Dashpiece |
-| 87 | 807 | Richard Horton |
+| 84 | 851 | Richard Horton |
+| 85 | 850 | Keeta Chickswit Scott |
+| 86 | 844 | Moomoo |
+| 87 | 809 | Jazzy Dashpiece |
 | 88 | 807 | KenpachisGirl |
 | 89 | 806 | Jaida De'Anne Cox |
 | 90 | 800 | Chenell Gillard |
@@ -132,8 +132,8 @@
 | 124 | 574 | Anthony Washington |
 | 125 | 573 | Rackemwillie34 |
 | 126 | 561 | Carolynne Walker-Bell |
-| 127 | 557 | Trendalyn Webb |
-| 128 | 550 | Gotcha |
+| 127 | 559 | Gotcha |
+| 128 | 557 | Trendalyn Webb |
 | 129 | 539 | Cj Gorman |
 | 130 | 538 | ELM |
 | 131 | 538 | Gael Quintana |
