@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:26:21 UTC
+# Standings for team1 as of 2026-06-08 17:26:45 UTC
 
 **Total Participants:** 1834
 
@@ -156,10 +156,10 @@
 | 148 | 574 | Murg4dr01d |
 | 149 | 566 | Lesley Brunkus Cianfaglione |
 | 150 | 566 | Trendalyn Webb |
-| 151 | 561 | Carolynne Walker-Bell |
-| 152 | 556 | Rolanda Williams |
-| 153 | 555 | Eugina Slater |
-| 154 | 550 | Zachary Colegrove |
+| 151 | 562 | Zachary Colegrove |
+| 152 | 561 | Carolynne Walker-Bell |
+| 153 | 556 | Rolanda Williams |
+| 154 | 555 | Eugina Slater |
 | 155 | 550 | Genne Scott |
 | 156 | 548 | Novaa |
 | 157 | 540 | Dee McCool |
@@ -277,11 +277,11 @@
 | 269 | 325 | Simone Bailey |
 | 270 | 325 | Cortaz Lawrie |
 | 271 | 323 | Bre Poston |
-| 272 | 320 | Natasha Rucker |
-| 273 | 320 | Denise B |
-| 274 | 318 | Nerdy Snapfall |
-| 275 | 318 | Calvin Green |
-| 276 | 318 | Jhonny Maii |
+| 272 | 320 | Denise B |
+| 273 | 320 | Natasha Rucker |
+| 274 | 318 | Jhonny Maii |
+| 275 | 318 | Nerdy Snapfall |
+| 276 | 318 | Calvin Green |
 | 277 | 317 | Steve Reno |
 | 278 | 317 | Michelle Titus |
 | 279 | 316 | Randizzle |
@@ -295,17 +295,17 @@
 | 287 | 305 | Salim Thugger |
 | 288 | 303 | Queenie Perry |
 | 289 | 302 | Still Ten Tay |
-| 290 | 300 | Nerdy Blockpiece |
+| 290 | 301 | Penee Wiggins |
 | 291 | 300 | Ketrell Bailey |
 | 292 | 300 | Slinky Brickmatch |
-| 293 | 296 | Nikki Hogan |
-| 294 | 295 | Mafio SO |
-| 295 | 294 | Tonya McElroy |
+| 293 | 300 | Nerdy Blockpiece |
+| 294 | 296 | Nikki Hogan |
+| 295 | 295 | Mafio SO |
 | 296 | 294 | Frisky Fall |
-| 297 | 294 | Smiley Clearpiece |
-| 298 | 293 | Tonya Lee Sanders |
-| 299 | 292 | McKayla Owens |
-| 300 | 291 | Penee Wiggins |
+| 297 | 294 | Tonya McElroy |
+| 298 | 294 | Smiley Clearpiece |
+| 299 | 293 | Tonya Lee Sanders |
+| 300 | 292 | McKayla Owens |
 | 301 | 291 | Brian Taylor |
 | 302 | 290 | Elizabeth Vega Coreano |
 | 303 | 290 | Mikayla |
@@ -314,21 +314,21 @@
 | 306 | 287 | Tamara Johnson-Carter |
 | 307 | 285 | Shanns |
 | 308 | 280 | Chilly Wipebuilder |
-| 309 | 280 | Erica Charlise |
+| 309 | 280 | Teri Marie Clayton |
 | 310 | 280 | Christian Pham |
 | 311 | 280 | Boldy Liner |
-| 312 | 280 | Teri Marie Clayton |
+| 312 | 280 | Erica Charlise |
 | 313 | 279 | Kendra McIntyre |
 | 314 | 278 | Ann White |
 | 315 | 278 | izzybella |
 | 316 | 276 | Melissa D. M. Hornsby |
 | 317 | 276 | Erin Sabol |
-| 318 | 275 | Chris Sladoje |
-| 319 | 275 | Tamika Fisher |
+| 318 | 275 | Tamika Fisher |
+| 319 | 275 | Chris Sladoje |
 | 320 | 274 | 신재호 |
 | 321 | 273 | Rachael Bakowicz Edwards |
-| 322 | 273 | Bubbly Piececlear |
-| 323 | 273 | Dacia Hicks |
+| 322 | 273 | Dacia Hicks |
+| 323 | 273 | Bubbly Piececlear |
 | 324 | 270 | Jean Regis |
 | 325 | 270 | Julian Dickens Jr. |
 | 326 | 269 | DaGuy |
@@ -460,14 +460,14 @@
 | 452 | 188 | CJ Robinson |
 | 453 | 188 | Tyiesha Pie Farmer |
 | 454 | 187 | Jennah |
-| 455 | 187 | Rachel Renae Bettis |
-| 456 | 186 | Monica Tovar |
-| 457 | 186 | Brittany Sara Heldwein |
-| 458 | 185 | Sarah Swietlicki - Lopez |
-| 459 | 184 | Soubletzy |
-| 460 | 183 | wmedina67 |
-| 461 | 183 | Tushama Cheris Okraku |
-| 462 | 183 | Mary Phillippi Blanton |
+| 455 | 187 | Mary Phillippi Blanton |
+| 456 | 187 | Rachel Renae Bettis |
+| 457 | 186 | Monica Tovar |
+| 458 | 186 | Brittany Sara Heldwein |
+| 459 | 185 | Sarah Swietlicki - Lopez |
+| 460 | 184 | Soubletzy |
+| 461 | 183 | wmedina67 |
+| 462 | 183 | Tushama Cheris Okraku |
 | 463 | 183 | Wayne Savannah |
 | 464 | 183 | Twisty Cascadeclear |
 | 465 | 183 | Erika |
@@ -671,31 +671,31 @@
 | 663 | 124 | Nerdy Climber |
 | 664 | 123 | Derald Miller |
 | 665 | 123 | Jackytrain52 |
-| 666 | 123 | Dizzy Gridmatch |
-| 667 | 123 | Esha I'msoproudofmyself Davis |
-| 668 | 123 | Jason Saputo |
-| 669 | 123 | Marbama |
-| 670 | 122 | Amanda Woodruff |
+| 666 | 123 | Snappy Link |
+| 667 | 123 | Jason Saputo |
+| 668 | 123 | Dizzy Gridmatch |
+| 669 | 123 | Esha I'msoproudofmyself Davis |
+| 670 | 123 | Marbama |
 | 671 | 122 | Xana Zania Bopp |
-| 672 | 122 | Mary Goode |
-| 673 | 121 | Jodie |
-| 674 | 121 | Angie Smith |
-| 675 | 121 | meatballs |
-| 676 | 121 | Tiana Monique |
+| 672 | 122 | Amanda Woodruff |
+| 673 | 122 | Mary Goode |
+| 674 | 121 | Jodie |
+| 675 | 121 | Tiana Monique |
+| 676 | 121 | Ad Doctor |
 | 677 | 121 | Biggestboss Ransom |
-| 678 | 121 | Ad Doctor |
-| 679 | 120 | Snappy Link |
-| 680 | 120 | Stephen Garland |
-| 681 | 120 | Ashley Davis |
-| 682 | 120 | Dianne Clagon |
-| 683 | 120 | Giggy Edgefit |
-| 684 | 120 | MindlessMic |
-| 685 | 120 | lookin |
-| 686 | 120 | Sandra Mims |
-| 687 | 119 | Darrel Pemberton |
-| 688 | 119 | Zany Patternblock |
-| 689 | 119 | Montréal Mars |
-| 690 | 119 | Albert McKnight |
+| 678 | 121 | meatballs |
+| 679 | 121 | Angie Smith |
+| 680 | 120 | Giggy Edgefit |
+| 681 | 120 | MindlessMic |
+| 682 | 120 | lookin |
+| 683 | 120 | Sandra Mims |
+| 684 | 120 | Dianne Clagon |
+| 685 | 120 | Ashley Davis |
+| 686 | 120 | Stephen Garland |
+| 687 | 119 | Albert McKnight |
+| 688 | 119 | Montréal Mars |
+| 689 | 119 | Darrel Pemberton |
+| 690 | 119 | Zany Patternblock |
 | 691 | 119 | Hyy |
 | 692 | 119 | TY Newme Batts |
 | 693 | 119 | Lexx Robins |
