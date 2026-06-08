@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:30:44 UTC
+# Standings for team4 as of 2026-06-08 10:31:19 UTC
 
 **Total Participants:** 1810
 
@@ -9,7 +9,7 @@
 | 1 | 20000 | Jessica Sheehan |
 | 2 | 18351 | Lisa Cullum |
 | 3 | 15915 | Lyza |
-| 4 | 14485 | Hanan Hana |
+| 4 | 14530 | Hanan Hana |
 | 5 | 12038 | Loony Rotater |
 | 6 | 10200 | Cinny |
 | 7 | 7668 | ktothet |
@@ -45,7 +45,7 @@
 | 37 | 2800 | Annastaissia Todd |
 | 38 | 2736 | Juan Ford |
 | 39 | 2689 | Ning Quiambao |
-| 40 | 2555 | Victoria Ver |
+| 40 | 2565 | Victoria Ver |
 | 41 | 2433 | Alexandria Frazier |
 | 42 | 2400 | Michele |
 | 43 | 2162 | Dana Rinaldi |
@@ -406,8 +406,8 @@
 | 398 | 191 | Dan Butcher |
 | 399 | 190 | Miss Beast |
 | 400 | 190 | Name |
-| 401 | 189 | Snazzy Corner |
-| 402 | 188 | Silly Fallzone |
+| 401 | 189 | Silly Fallzone |
+| 402 | 189 | Snazzy Corner |
 | 403 | 188 | Dandy Cascade |
 | 404 | 188 | Shanae Taylor |
 | 405 | 188 | Stephanie Brock |
@@ -568,47 +568,47 @@
 | 560 | 133 | Sonia Cordero-Martinez |
 | 561 | 133 | Domo Dpn |
 | 562 | 133 | Frilly Zoney |
-| 563 | 132 | Virgil Mayfield-Brown |
-| 564 | 132 | MrLoner Stoner |
-| 565 | 132 | William Brooks |
-| 566 | 132 | Gma420 |
-| 567 | 131 | Winter Moon |
-| 568 | 131 | luluraine |
+| 563 | 132 | Gma420 |
+| 564 | 132 | William Brooks |
+| 565 | 132 | MrLoner Stoner |
+| 566 | 132 | Virgil Mayfield-Brown |
+| 567 | 132 | Tipsy Piecebuilder |
+| 568 | 131 | Winter Moon |
 | 569 | 131 | Justin Ballard |
-| 570 | 130 | Lizard |
-| 571 | 130 | Hasty Dropzone |
+| 570 | 131 | luluraine |
+| 571 | 130 | Will E Ayala |
 | 572 | 130 | Mighty1 |
-| 573 | 130 | Will E Ayala |
+| 573 | 130 | Hasty Dropzone |
 | 574 | 130 | Kimberly Devon |
-| 575 | 130 | Missionary Meda |
-| 576 | 130 | Bhakti Sawarkar |
-| 577 | 129 | Has2brat |
-| 578 | 129 | Playa |
-| 579 | 129 | Erica Pompey |
-| 580 | 128 | Denise Wilson |
-| 581 | 128 | Maria Munoz |
-| 582 | 128 | Ajohnna Frazee |
-| 583 | 128 | Gean DeJesus |
-| 584 | 128 | Alizabeth Garcia |
-| 585 | 127 | Cheeky Climber |
-| 586 | 127 | Noa Lee |
-| 587 | 127 | Janae Harris |
-| 588 | 127 | Perry Ransom |
-| 589 | 127 | Tipsy Piecebuilder |
-| 590 | 127 | Mc3003 |
-| 591 | 127 | Kellz M Bee |
+| 575 | 130 | Lizard |
+| 576 | 130 | Missionary Meda |
+| 577 | 130 | Bhakti Sawarkar |
+| 578 | 129 | Has2brat |
+| 579 | 129 | Playa |
+| 580 | 129 | Erica Pompey |
+| 581 | 128 | Denise Wilson |
+| 582 | 128 | Maria Munoz |
+| 583 | 128 | Ajohnna Frazee |
+| 584 | 128 | Gean DeJesus |
+| 585 | 128 | Alizabeth Garcia |
+| 586 | 127 | Mc3003 |
+| 587 | 127 | Perry Ransom |
+| 588 | 127 | Noa Lee |
+| 589 | 127 | Janae Harris |
+| 590 | 127 | Kellz M Bee |
+| 591 | 127 | Cheeky Climber |
 | 592 | 126 | Csigirlnc |
-| 593 | 126 | Lisa Pie |
-| 594 | 126 | Vanessa Sykes |
-| 595 | 125 | Nessa Smith |
-| 596 | 125 | Corey Jackson |
-| 597 | 125 | Joshua Hunt |
+| 593 | 126 | Vanessa Sykes |
+| 594 | 126 | Lisa Pie |
+| 595 | 125 | Corey Jackson |
+| 596 | 125 | Joshua Hunt |
+| 597 | 125 | Nessa Smith |
 | 598 | 125 | Youngkueen |
 | 599 | 124 | Vonni McLean |
-| 600 | 124 | Heidi Hala |
+| 600 | 124 | Alicia Blunt |
 | 601 | 124 | PsyDMom |
 | 602 | 124 | Chad Finton |
-| 603 | 124 | Alicia Blunt |
+| 603 | 124 | Heidi Hala |
 | 604 | 124 | Brian Woods |
 | 605 | 123 | Amanda Snow |
 | 606 | 123 | Kari Smith |
