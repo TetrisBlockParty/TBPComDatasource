@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:05:20 UTC
+# Standings for team2 as of 2026-06-08 10:06:20 UTC
 
 **Total Participants:** 2146
 
@@ -32,7 +32,7 @@
 | 24 | 4355 | Alexia Reagan |
 | 25 | 4228 | Erica Dees Parks |
 | 26 | 4137 | Danni Campa |
-| 27 | 4125 | Jewels |
+| 27 | 4131 | Jewels |
 | 28 | 3985 | Cassie Swart |
 | 29 | 3984 | Amber |
 | 30 | 3939 | Spunky Clicker |
@@ -71,9 +71,9 @@
 | 63 | 1657 | Rashanna Bockhorn |
 | 64 | 1656 | Angie Mccain |
 | 65 | 1651 | Block Dog |
-| 66 | 1547 | Happy Pivotfall |
-| 67 | 1537 | Brent Bittenbender |
-| 68 | 1537 | Bridget N Jonathan Franz |
+| 66 | 1577 | Bridget N Jonathan Franz |
+| 67 | 1547 | Happy Pivotfall |
+| 68 | 1537 | Brent Bittenbender |
 | 69 | 1534 | Lily |
 | 70 | 1510 | Shandrea Crawford |
 | 71 | 1483 | Tonya Taber |
