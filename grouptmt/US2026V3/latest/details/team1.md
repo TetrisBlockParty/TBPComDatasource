@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 13:34:19 UTC
+# Standings for team1 as of 2026-06-08 13:34:40 UTC
 
 **Total Participants:** 1800
 
@@ -98,12 +98,12 @@
 | 90 | 921 | Therealdywoune Peay |
 | 91 | 920 | IamJust Neyamijah Washington Sr. |
 | 92 | 913 | MamaBear |
-| 93 | 911 | TAZ-MF-NIZIL |
-| 94 | 911 | Richard Horton |
+| 93 | 911 | Richard Horton |
+| 94 | 911 | TAZ-MF-NIZIL |
 | 95 | 909 | She Higgy |
 | 96 | 908 | Danielle Barthelme |
-| 97 | 907 | Jaida De'Anne Cox |
-| 98 | 907 | Voice |
+| 97 | 907 | Voice |
+| 98 | 907 | Jaida De'Anne Cox |
 | 99 | 897 | BYM4L |
 | 100 | 885 | Keeta Chickswit Scott |
 | 101 | 882 | Jon Gathers |
@@ -120,8 +120,8 @@
 | 112 | 741 | Sarah Marie |
 | 113 | 730 | ing410 |
 | 114 | 723 | Eartha Brown |
-| 115 | 720 | No_Other_Choice |
-| 116 | 720 | Felicia Williams |
+| 115 | 720 | Felicia Williams |
+| 116 | 720 | No_Other_Choice |
 | 117 | 692 | Chirpy Corner |
 | 118 | 676 | W.A. Simpson |
 | 119 | 674 | Anthony Washington |
@@ -152,8 +152,8 @@
 | 144 | 540 | Dee McCool |
 | 145 | 531 | Abraham Espaillat |
 | 146 | 527 | MommaCia |
-| 147 | 520 | Dulo |
-| 148 | 520 | Spicy Risepiece |
+| 147 | 520 | Spicy Risepiece |
+| 148 | 520 | Dulo |
 | 149 | 517 | Kaleisha Smith |
 | 150 | 516 | Peppy Piececlear |
 | 151 | 513 | Sharon Cail |
@@ -170,39 +170,39 @@
 | 162 | 486 | Andre Sanon |
 | 163 | 485 | xXEKUNXx |
 | 164 | 485 | Lesley Brunkus Cianfaglione |
-| 165 | 482 | Spunky Edgefit |
-| 166 | 482 | Jamal Itzjusmall Chambers |
+| 165 | 482 | Jamal Itzjusmall Chambers |
+| 166 | 482 | Spunky Edgefit |
 | 167 | 477 | Nobles Brandon |
 | 168 | 466 | Tootsie Pop |
 | 169 | 459 | Ebony Waynes-robinson |
 | 170 | 456 | Cachet A Ward |
 | 171 | 454 | Zappy Riser |
-| 172 | 453 | LaToya Chambers |
-| 173 | 453 | SyTheEvilGenius1 |
+| 172 | 453 | SyTheEvilGenius1 |
+| 173 | 453 | LaToya Chambers |
 | 174 | 452 | Kenny MrOnethousand Peck |
 | 175 | 451 | Plucky Slamdrop |
-| 176 | 446 | pooh |
-| 177 | 445 | Marcheta Cervantez |
-| 178 | 444 | Kevin M. McGhee Jr |
-| 179 | 444 | Helen Smith |
-| 180 | 440 | Tanya Clayton |
-| 181 | 439 | Asani CHumba |
-| 182 | 431 | Joey Albright |
-| 183 | 431 | Lashawn Wallace |
-| 184 | 430 | Tamara N Lee |
-| 185 | 430 | boogeywoogey |
-| 186 | 427 | Ty Øtg |
-| 187 | 420 | Hyper Slamdrop |
-| 188 | 420 | Jessica Carter |
-| 189 | 418 | Sheila Burnham |
-| 190 | 414 | Lashaunda |
-| 191 | 414 | Simmone T. Kadiri |
-| 192 | 414 | Jenna Renee |
-| 193 | 413 | Murg4dr01d |
-| 194 | 407 | David Fuentes |
-| 195 | 407 | Jazzy Fireflighters |
-| 196 | 405 | SPNLover24 |
-| 197 | 402 | Amalie Newvine |
+| 176 | 449 | Amalie Newvine |
+| 177 | 446 | pooh |
+| 178 | 445 | Marcheta Cervantez |
+| 179 | 444 | Kevin M. McGhee Jr |
+| 180 | 444 | Helen Smith |
+| 181 | 440 | Tanya Clayton |
+| 182 | 439 | Asani CHumba |
+| 183 | 431 | Joey Albright |
+| 184 | 431 | Lashawn Wallace |
+| 185 | 430 | Tamara N Lee |
+| 186 | 430 | boogeywoogey |
+| 187 | 427 | Ty Øtg |
+| 188 | 420 | Hyper Slamdrop |
+| 189 | 420 | Jessica Carter |
+| 190 | 418 | Sheila Burnham |
+| 191 | 414 | Lashaunda |
+| 192 | 414 | Simmone T. Kadiri |
+| 193 | 414 | Jenna Renee |
+| 194 | 413 | Murg4dr01d |
+| 195 | 407 | David Fuentes |
+| 196 | 407 | Jazzy Fireflighters |
+| 197 | 405 | SPNLover24 |
 | 198 | 401 | Byron Mario Cawthon |
 | 199 | 399 | Kyra Coleman |
 | 200 | 398 | Kenny 'Tailormade' Boyd |
@@ -211,16 +211,16 @@
 | 203 | 389 | GrkGdess |
 | 204 | 388 | Zippy Tilefall |
 | 205 | 387 | IThinkNot |
-| 206 | 387 | Crystal Anderson |
-| 207 | 386 | Keke Ferguson |
-| 208 | 386 | Chantelle Lee |
-| 209 | 386 | Po Marley |
-| 210 | 385 | Mic Balew |
-| 211 | 384 | Christana Imjustbutton Stone |
+| 206 | 387 | TT |
+| 207 | 387 | Crystal Anderson |
+| 208 | 386 | Po Marley |
+| 209 | 386 | Keke Ferguson |
+| 210 | 386 | Chantelle Lee |
+| 211 | 385 | Mic Balew |
 | 212 | 384 | Choc |
-| 213 | 381 | JaClanDiah |
-| 214 | 380 | Felicia Cain |
-| 215 | 378 | TT |
+| 213 | 384 | Christana Imjustbutton Stone |
+| 214 | 381 | JaClanDiah |
+| 215 | 380 | Felicia Cain |
 | 216 | 377 | AF Cruz |
 | 217 | 376 | Rachel Zimmerman |
 | 218 | 373 | BULLSEYE |
@@ -237,8 +237,8 @@
 | 229 | 361 | John Staub |
 | 230 | 359 | Jayjay Rich |
 | 231 | 358 | Joana Thompson |
-| 232 | 356 | Haley Bell |
-| 233 | 356 | Dedra M Prester |
+| 232 | 356 | Dedra M Prester |
+| 233 | 356 | Haley Bell |
 | 234 | 354 | Block King |
 | 235 | 353 | Latisha Fairley |
 | 236 | 352 | Trina Greenwood |
@@ -267,8 +267,8 @@
 | 259 | 318 | Jhonny Maii |
 | 260 | 318 | Nerdy Snapfall |
 | 261 | 318 | Calvin Green |
-| 262 | 317 | Michelle Titus |
-| 263 | 317 | Simone Bailey |
+| 262 | 317 | Simone Bailey |
+| 263 | 317 | Michelle Titus |
 | 264 | 317 | Steve Reno |
 | 265 | 314 | Rayya Kiser |
 | 266 | 310 | Denise B |

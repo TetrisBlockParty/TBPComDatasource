@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 13:34:19 UTC
+# Standings for team2 as of 2026-06-08 13:34:40 UTC
 
 **Total Participants:** 2174
 
@@ -211,9 +211,9 @@
 | 203 | 469 | Lashanda Bertram |
 | 204 | 467 | Lisa Underwood Desmond |
 | 205 | 461 | Charles E Mccardell |
-| 206 | 453 | Kimberly Cowan |
-| 207 | 453 | Ashley Green |
-| 208 | 452 | Twisty Buildgrid |
+| 206 | 456 | Twisty Buildgrid |
+| 207 | 453 | Kimberly Cowan |
+| 208 | 453 | Ashley Green |
 | 209 | 451 | Gill |
 | 210 | 449 | Danielle Blount |
 | 211 | 449 | Snappy Blockbuilder |
