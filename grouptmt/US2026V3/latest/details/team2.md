@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:30:20 UTC
+# Standings for team2 as of 2026-06-08 04:30:41 UTC
 
 **Total Participants:** 2088
 
@@ -372,7 +372,7 @@
 | 364 | 236 | Jason Cunningham |
 | 365 | 233 | Jerry L Morales |
 | 366 | 233 | Stephany Green |
-| 367 | 231 | Olivia Jefferson |
+| 367 | 232 | Olivia Jefferson |
 | 368 | 230 | Brandy Chinelle |
 | 369 | 230 | phamous1 |
 | 370 | 230 | Tango Sierra |
