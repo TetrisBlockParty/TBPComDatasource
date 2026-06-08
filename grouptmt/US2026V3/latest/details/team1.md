@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 03:24:42 UTC
+# Standings for team1 as of 2026-06-08 03:25:21 UTC
 
 **Total Participants:** 1696
 
@@ -17,7 +17,7 @@
 | 9 | 7889 | Debbie Carswell |
 | 10 | 7491 | Tracy Cohen |
 | 11 | 7070 | Death by SnuSnu |
-| 12 | 6876 | Cozy Edge |
+| 12 | 6930 | Cozy Edge |
 | 13 | 6336 | Speedy Spinblock |
 | 14 | 6211 | Timothy Robert |
 | 15 | 5512 | Jocelyn Pope-Sewell |
@@ -617,49 +617,49 @@
 | 609 | 106 | Tina Blessed Cage |
 | 610 | 106 | Montego Allen |
 | 611 | 106 | TotoCherue |
-| 612 | 105 | Maria |
-| 613 | 105 | Raquel Ortiz |
-| 614 | 105 | Mario Meliodas |
-| 615 | 105 | Michael Smith |
-| 616 | 105 | Nerdy Climber |
-| 617 | 105 | Jack Mehof |
-| 618 | 105 | Latore Maxie |
-| 619 | 105 | QueenShay AllGood |
-| 620 | 105 | Ja'mice Nelson |
-| 621 | 104 | Nichelle Warren |
-| 622 | 104 | Danny Talbot |
+| 612 | 105 | Mario Meliodas |
+| 613 | 105 | Christopher L Crites |
+| 614 | 105 | Maria |
+| 615 | 105 | QueenShay AllGood |
+| 616 | 105 | Jack Mehof |
+| 617 | 105 | Nerdy Climber |
+| 618 | 105 | Raquel Ortiz |
+| 619 | 105 | Michael Smith |
+| 620 | 105 | Latore Maxie |
+| 621 | 105 | Ja'mice Nelson |
+| 622 | 104 | Anastasia |
 | 623 | 104 | Ahvae Lee |
-| 624 | 104 | Anastasia |
-| 625 | 103 | Angela Kitchens |
-| 626 | 103 | Peppy Wipeblock |
-| 627 | 102 | Victor |
+| 624 | 104 | Danny Talbot |
+| 625 | 104 | Nichelle Warren |
+| 626 | 103 | Angela Kitchens |
+| 627 | 103 | Peppy Wipeblock |
 | 628 | 102 | Mom3granny2 |
-| 629 | 102 | Giddy Staggerpiece |
-| 630 | 102 | Amy Villalpando |
-| 631 | 101 | Wacky Wipepiece |
-| 632 | 101 | Angelique Talbot |
-| 633 | 101 | Sandra Mims |
-| 634 | 101 | Tito Divyn |
+| 629 | 102 | Amy Villalpando |
+| 630 | 102 | Giddy Staggerpiece |
+| 631 | 102 | Victor |
+| 632 | 101 | Tito Divyn |
+| 633 | 101 | Wacky Wipepiece |
+| 634 | 101 | Angelique Talbot |
 | 635 | 101 | star |
-| 636 | 100 | Christopher L Crites |
-| 637 | 100 | Lester Malone |
-| 638 | 100 | Tessa Gaskin |
-| 639 | 100 | NedaWin |
+| 636 | 101 | Sandra Mims |
+| 637 | 100 | Oldheads |
+| 638 | 100 | Tracey Johnson |
+| 639 | 100 | Dianne Clagon |
 | 640 | 100 | LaSharmeika Fancher |
-| 641 | 100 | Oldheads |
-| 642 | 100 | Tracey Johnson |
-| 643 | 100 | Octavia Bsb Johnson |
-| 644 | 100 | Dianne Clagon |
-| 645 | 100 | Peppy Towerbuilder |
-| 646 | 99 | EvaLynn NeCole |
-| 647 | 99 | Lucille Wilson Davis |
-| 648 | 99 | Chino Baby |
+| 641 | 100 | Octavia Bsb Johnson |
+| 642 | 100 | NedaWin |
+| 643 | 100 | Tessa Gaskin |
+| 644 | 100 | Peppy Towerbuilder |
+| 645 | 100 | Lester Malone |
+| 646 | 99 | Biggestboss Ransom |
+| 647 | 99 | Boymama917 |
+| 648 | 99 | EvaLynn NeCole |
 | 649 | 99 | Rochelle Nash-Evans |
-| 650 | 99 | Boymama917 |
-| 651 | 99 | Biggestboss Ransom |
-| 652 | 98 | Cm |
-| 653 | 98 | Jjhandsome |
-| 654 | 98 | Azeiare Ziare |
+| 650 | 99 | Lucille Wilson Davis |
+| 651 | 99 | Chino Baby |
+| 652 | 98 | Jjhandsome |
+| 653 | 98 | Azeiare Ziare |
+| 654 | 98 | Cm |
 | 655 | 98 | Christopher Shaw-Black |
 | 656 | 98 | Terrance Tindall |
 | 657 | 97 | Shaun Anderson |
@@ -758,29 +758,29 @@
 | 750 | 85 | Anthony Collins |
 | 751 | 85 | Shakmar |
 | 752 | 85 | Duncan Timothy |
-| 753 | 85 | Bobby Chestefield |
-| 754 | 85 | Kimberly Noble |
+| 753 | 85 | Kimberly Noble |
+| 754 | 85 | Bobby Chestefield |
 | 755 | 84 | Christy Quick |
 | 756 | 84 | Shelly Everette |
 | 757 | 84 | Stanley Dixon |
 | 758 | 84 | TRUBBLE45 |
-| 759 | 84 | Franklin Sotelo |
+| 759 | 84 | Witty Clear |
 | 760 | 84 | Sunny Tumbler |
-| 761 | 84 | Dawn Basemore |
-| 762 | 83 | Latoya Carson |
-| 763 | 83 | MrsMeadows2019 |
-| 764 | 83 | John C Sexton |
-| 765 | 83 | Witty Clear |
-| 766 | 83 | Block |
-| 767 | 83 | Dirty Deeds |
-| 768 | 82 | Casey Chapman |
-| 769 | 82 | Dana Hawes |
+| 761 | 84 | Franklin Sotelo |
+| 762 | 84 | Dawn Basemore |
+| 763 | 83 | Latoya Carson |
+| 764 | 83 | Dirty Deeds |
+| 765 | 83 | Block |
+| 766 | 83 | John C Sexton |
+| 767 | 83 | MrsMeadows2019 |
+| 768 | 82 | DeAngelo Sorrells |
+| 769 | 82 | Jumpy Gridlock |
 | 770 | 82 | Kashh |
-| 771 | 82 | Jumpy Gridlock |
-| 772 | 82 | DeAngelo Sorrells |
+| 771 | 82 | Dana Hawes |
+| 772 | 82 | Casey Chapman |
 | 773 | 81 | GracefulOwl808 |
-| 774 | 80 | Linzi Cole |
-| 775 | 80 | Tory Miller |
+| 774 | 80 | Tory Miller |
+| 775 | 80 | Linzi Cole |
 | 776 | 80 | Victoria Smith |
 | 777 | 80 | Lauren Farkas |
 | 778 | 80 | Phillip White |
@@ -1608,49 +1608,49 @@
 | 1600 | 10 | Tea |
 | 1601 | 9 | Groovy Twisterfit |
 | 1602 | 9 | Shiny Crusher |
-| 1603 | 9 | Sheldon Grosso |
-| 1604 | 9 | Shell Poke |
+| 1603 | 9 | Shell Poke |
+| 1604 | 9 | Sheldon Grosso |
 | 1605 | 9 | Clifford Petroske |
 | 1606 | 9 | Zondria Barnes |
 | 1607 | 9 | Duckey |
 | 1608 | 9 | Sunset Owens |
-| 1609 | 9 | Catelyn Neal |
-| 1610 | 9 | Yester |
-| 1611 | 9 | ummm |
-| 1612 | 9 | Mars |
+| 1609 | 9 | Frothy Snapbuilder |
+| 1610 | 9 | Catelyn Neal |
+| 1611 | 9 | Yester |
+| 1612 | 9 | ummm |
 | 1613 | 9 | Dennis Rhodes |
 | 1614 | 9 | Dana |
 | 1615 | 9 | John Lovato |
-| 1616 | 9 | Kenneth Williams |
-| 1617 | 9 | Beverly S. Robinson |
-| 1618 | 9 | jac |
-| 1619 | 9 | Nikki Jay |
+| 1616 | 9 | Beverly S. Robinson |
+| 1617 | 9 | jac |
+| 1618 | 9 | Mars |
+| 1619 | 9 | Kenneth Williams |
 | 1620 | 9 | Lia Covington |
-| 1621 | 9 | LadyMosley |
-| 1622 | 8 | DoMinique Lee |
-| 1623 | 8 | Chevonne Huggins |
-| 1624 | 8 | Andrew James |
-| 1625 | 8 | Jädaa Laa'Destïnyy |
-| 1626 | 8 | David Anthony |
-| 1627 | 8 | Frothy Matchpiece |
-| 1628 | 8 | Joe |
-| 1629 | 8 | jus_ry |
-| 1630 | 8 | Almarasha Grice |
-| 1631 | 8 | Nissa |
-| 1632 | 8 | Elizabeth Castro |
-| 1633 | 8 | Rixo Blax |
-| 1634 | 8 | Ferocity |
-| 1635 | 8 | Groovy Riseclear |
-| 1636 | 8 | Chill Tumbler |
-| 1637 | 7 | Roscoe |
-| 1638 | 7 | Brittany Killebrew |
-| 1639 | 7 | Frothy Snapbuilder |
-| 1640 | 7 | Milfchaser530 |
-| 1641 | 7 | Teresa F. Campos Eaton |
+| 1621 | 9 | Nikki Jay |
+| 1622 | 9 | LadyMosley |
+| 1623 | 8 | Jädaa Laa'Destïnyy |
+| 1624 | 8 | DoMinique Lee |
+| 1625 | 8 | Chevonne Huggins |
+| 1626 | 8 | Andrew James |
+| 1627 | 8 | David Anthony |
+| 1628 | 8 | Frothy Matchpiece |
+| 1629 | 8 | Joe |
+| 1630 | 8 | Nissa |
+| 1631 | 8 | Ferocity |
+| 1632 | 8 | Chill Tumbler |
+| 1633 | 8 | Groovy Riseclear |
+| 1634 | 8 | Rixo Blax |
+| 1635 | 8 | Elizabeth Castro |
+| 1636 | 8 | Almarasha Grice |
+| 1637 | 8 | jus_ry |
+| 1638 | 7 | Milfchaser530 |
+| 1639 | 7 | Sheena Hamilton |
+| 1640 | 7 | Beverly Kaday |
+| 1641 | 7 | style |
 | 1642 | 7 | KingSlim82 |
-| 1643 | 7 | style |
-| 1644 | 7 | Sheena Hamilton |
-| 1645 | 7 | Beverly Kaday |
+| 1643 | 7 | Teresa F. Campos Eaton |
+| 1644 | 7 | Roscoe |
+| 1645 | 7 | Brittany Killebrew |
 | 1646 | 7 | Dimitri Moore |
 | 1647 | 7 | Frisky Cascadefit |
 | 1648 | 7 | John Boone |
