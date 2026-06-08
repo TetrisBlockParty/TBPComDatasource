@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 01:14:18 UTC
+# Standings for team4 as of 2026-06-08 01:14:40 UTC
 
 **Total Participants:** 1680
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 15905 | Lyza |
-| 2 | 14530 | Lisa Cullum |
+| 2 | 14630 | Lisa Cullum |
 | 3 | 14500 | Jessica Sheehan |
 | 4 | 14276 | Hanan Hana |
 | 5 | 12038 | Loony Rotater |
@@ -148,45 +148,45 @@
 | 140 | 461 | Kayla Fuentes |
 | 141 | 448 | Alicia Cook |
 | 142 | 444 | Kaash Brxtt |
-| 143 | 443 | Laguya |
-| 144 | 443 | Crissy Hoffman |
+| 143 | 443 | Crissy Hoffman |
+| 144 | 443 | Laguya |
 | 145 | 438 | Real Talk Vibes |
 | 146 | 437 | Danielle Mitchell |
 | 147 | 433 | Gorica Prusina |
 | 148 | 430 | BusterBear56 |
-| 149 | 422 | squareMel |
-| 150 | 422 | Futrell Brent |
-| 151 | 421 | Michelle Ross |
-| 152 | 420 | DexterDobbins |
-| 153 | 418 | Aisha Estrada |
-| 154 | 415 | Chuck Gannon |
-| 155 | 409 | Hen |
-| 156 | 406 | Kelley Roach |
-| 157 | 405 | HurkleDurkle88 |
-| 158 | 402 | Pepone Pepe |
-| 159 | 402 | Boldy Rumbler |
-| 160 | 400 | Suzanne Carter |
-| 161 | 400 | Amber Doyle |
-| 162 | 399 | Iforget |
-| 163 | 398 | Nicole |
-| 164 | 397 | Shiny Dashy |
-| 165 | 384 | Taz |
-| 166 | 382 | Goofy Riser |
-| 167 | 380 | CIRAZYPNOY |
-| 168 | 379 | Devinlee Brown |
-| 169 | 378 | Hwanger Land |
-| 170 | 376 | Dee Wizz |
-| 171 | 373 | Tanita Jobe |
-| 172 | 373 | Scamp Jones |
-| 173 | 369 | Cyndi Najar |
-| 174 | 363 | Christy Beezley-Forbush |
-| 175 | 363 | shawna |
+| 149 | 429 | Cyndi Najar |
+| 150 | 422 | squareMel |
+| 151 | 422 | Futrell Brent |
+| 152 | 421 | Michelle Ross |
+| 153 | 420 | DexterDobbins |
+| 154 | 418 | Aisha Estrada |
+| 155 | 415 | Chuck Gannon |
+| 156 | 409 | Hen |
+| 157 | 406 | Kelley Roach |
+| 158 | 405 | HurkleDurkle88 |
+| 159 | 402 | Pepone Pepe |
+| 160 | 402 | Boldy Rumbler |
+| 161 | 400 | Suzanne Carter |
+| 162 | 400 | Amber Doyle |
+| 163 | 399 | Iforget |
+| 164 | 398 | Nicole |
+| 165 | 397 | Shiny Dashy |
+| 166 | 384 | Taz |
+| 167 | 382 | Goofy Riser |
+| 168 | 380 | CIRAZYPNOY |
+| 169 | 379 | Devinlee Brown |
+| 170 | 378 | Hwanger Land |
+| 171 | 376 | Dee Wizz |
+| 172 | 373 | Tanita Jobe |
+| 173 | 373 | Scamp Jones |
+| 174 | 363 | shawna |
+| 175 | 363 | Christy Beezley-Forbush |
 | 176 | 359 | BCO22 |
 | 177 | 359 | Megan Vick |
 | 178 | 358 | Joyce Myers |
 | 179 | 357 | MomyLiz |
-| 180 | 352 | Tammy June |
-| 181 | 352 | Bobbie Harrell |
+| 180 | 352 | Bobbie Harrell |
+| 181 | 352 | Tammy June |
 | 182 | 351 | RotatedWrongAgain |
 | 183 | 348 | QueenLi86 |
 | 184 | 346 | Alexis Cor |
@@ -200,8 +200,8 @@
 | 192 | 334 | Dazzle Dragon |
 | 193 | 329 | Plucky Shatterfit |
 | 194 | 327 | beTrue76 |
-| 195 | 326 | Debby Ruof |
-| 196 | 326 | Boldy Striker |
+| 195 | 326 | Boldy Striker |
+| 196 | 326 | Debby Ruof |
 | 197 | 325 | Kristen Wallace |
 | 198 | 323 | zoes |
 | 199 | 322 | Perky Riserbuilder |
@@ -214,9 +214,9 @@
 | 206 | 317 | Sisi RedVelvet Reneè |
 | 207 | 315 | Thomasena Eady Reid |
 | 208 | 313 | Brick House |
-| 209 | 312 | Anna Gribble |
-| 210 | 310 | Fran Aaron-Ring |
-| 211 | 308 | matt |
+| 209 | 313 | matt |
+| 210 | 312 | Anna Gribble |
+| 211 | 310 | Fran Aaron-Ring |
 | 212 | 303 | TRUCHILD777$$$ |
 | 213 | 302 | Danny Ortiz |
 | 214 | 302 | Piece of Cake |
@@ -246,8 +246,8 @@
 | 238 | 268 | Bonnie Powell |
 | 239 | 266 | Janet Sanfilippo Sullivan |
 | 240 | 266 | tigerlilly |
-| 241 | 261 | Renee Sapp |
-| 242 | 261 | Brooke Arroyo |
+| 241 | 261 | Brooke Arroyo |
+| 242 | 261 | Renee Sapp |
 | 243 | 260 | Wanda Simmons |
 | 244 | 260 | Silly Risegrid |
 | 245 | 260 | Spicy Chicken |
