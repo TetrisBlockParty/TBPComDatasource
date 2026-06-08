@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 11:50:41 UTC
+# Standings for team4 as of 2026-06-08 11:51:20 UTC
 
 **Total Participants:** 1820
 
@@ -174,19 +174,19 @@
 | 166 | 443 | Joyce Myers |
 | 167 | 441 | Iforget |
 | 168 | 438 | Aisha Estrada |
-| 169 | 437 | Scamp Jones |
-| 170 | 437 | Danielle Mitchell |
-| 171 | 435 | BusterBear56 |
-| 172 | 432 | Piece of Cake |
-| 173 | 429 | Cyndi Najar |
-| 174 | 426 | Nicole |
-| 175 | 425 | Kristen Wallace |
-| 176 | 424 | Futrell Brent |
-| 177 | 421 | Shannon Rivera |
-| 178 | 421 | QueenLi86 |
-| 179 | 420 | Shmeedo |
-| 180 | 417 | Perky Riserbuilder |
-| 181 | 417 | Shocinda Sherwood |
+| 169 | 437 | Shocinda Sherwood |
+| 170 | 437 | Scamp Jones |
+| 171 | 437 | Danielle Mitchell |
+| 172 | 435 | BusterBear56 |
+| 173 | 432 | Piece of Cake |
+| 174 | 429 | Cyndi Najar |
+| 175 | 426 | Nicole |
+| 176 | 425 | Kristen Wallace |
+| 177 | 424 | Futrell Brent |
+| 178 | 421 | Shannon Rivera |
+| 179 | 421 | QueenLi86 |
+| 180 | 420 | Shmeedo |
+| 181 | 417 | Perky Riserbuilder |
 | 182 | 415 | Shiny Dashy |
 | 183 | 409 | Hen |
 | 184 | 406 | Taz |
@@ -416,40 +416,40 @@
 | 408 | 192 | Ralph Hell Rell Williams |
 | 409 | 191 | Dan Butcher |
 | 410 | 190 | Miss Beast |
-| 411 | 190 | Name |
-| 412 | 189 | Silly Fallzone |
+| 411 | 190 | Diana Fernandez |
+| 412 | 190 | Name |
 | 413 | 189 | Snazzy Corner |
-| 414 | 188 | Lee Ann Gibby |
+| 414 | 189 | Silly Fallzone |
 | 415 | 188 | Stephanie Brock |
-| 416 | 188 | Dandy Cascade |
-| 417 | 188 | Shanae Taylor |
-| 418 | 187 | Cindy |
-| 419 | 187 | Jennifer Fisher Franklin |
-| 420 | 186 | Rita Ann |
-| 421 | 186 | June Hoffman |
-| 422 | 186 | Tiffany Morris Garner |
-| 423 | 186 | Deva Marie Barber |
-| 424 | 186 | Diana Fernandez |
-| 425 | 185 | Valerie Silva |
-| 426 | 182 | Swanky Snapgrid |
-| 427 | 182 | Ashley Eskridge |
-| 428 | 181 | Linda Miltenburg |
-| 429 | 181 | Danny Frausto |
+| 416 | 188 | Lee Ann Gibby |
+| 417 | 188 | Dandy Cascade |
+| 418 | 188 | Shanae Taylor |
+| 419 | 187 | Danny Frausto |
+| 420 | 187 | Cindy |
+| 421 | 187 | Jennifer Fisher Franklin |
+| 422 | 186 | Rita Ann |
+| 423 | 186 | June Hoffman |
+| 424 | 186 | Tiffany Morris Garner |
+| 425 | 186 | Deva Marie Barber |
+| 426 | 185 | Valerie Silva |
+| 427 | 182 | Swanky Snapgrid |
+| 428 | 182 | Ashley Eskridge |
+| 429 | 181 | Linda Miltenburg |
 | 430 | 181 | Jennifer Garcia |
 | 431 | 180 | EvoKitty |
 | 432 | 180 | Silly Rollbuilder |
 | 433 | 179 | LaTanya GeminiondaRise Johnson |
 | 434 | 178 | Linda |
 | 435 | 178 | Alexsandra Hill |
-| 436 | 176 | Keith Kosmicki |
+| 436 | 176 | Dena Lynn Rogers |
 | 437 | 176 | Erik Clary |
-| 438 | 176 | Dena Lynn Rogers |
-| 439 | 175 | Quiomarie Cotto |
+| 438 | 176 | Keith Kosmicki |
+| 439 | 175 | Mrsjcraw18 |
 | 440 | 175 | Cherrypir05 |
 | 441 | 175 | Tipsy Piecebuilder |
-| 442 | 175 | Happy Shatterfit |
-| 443 | 175 | Cool Risepiece |
-| 444 | 175 | Mrsjcraw18 |
+| 442 | 175 | Quiomarie Cotto |
+| 443 | 175 | Happy Shatterfit |
+| 444 | 175 | Cool Risepiece |
 | 445 | 174 | Mmm |
 | 446 | 174 | Eddie Fuller |
 | 447 | 172 | Kea Sushi |
@@ -1644,67 +1644,67 @@
 | 1636 | 16 | Iesha Jefferson |
 | 1637 | 16 | Mimi Dominguez |
 | 1638 | 16 | Melissa Robinson |
-| 1639 | 16 | Cheeky Linkpiece |
-| 1640 | 16 | Bekka Walker |
-| 1641 | 15 | Natalia Stone |
-| 1642 | 15 | Tika Boo |
-| 1643 | 15 | Melia Christiansen |
-| 1644 | 15 | Walker Tracie |
-| 1645 | 15 | Chris Abney |
-| 1646 | 15 | Nicole Gilmore |
-| 1647 | 15 | Medrano Cruz Yaquelyn |
-| 1648 | 15 | Tha Don |
-| 1649 | 15 | Zanny |
-| 1650 | 15 | Hashanah Williams |
-| 1651 | 15 | Wacky Clusterer |
-| 1652 | 15 | Tricki Woo |
-| 1653 | 15 | Speedy Rollbuilder |
-| 1654 | 15 | Kiara Johnson |
-| 1655 | 15 | Jose Leandro Calderin |
-| 1656 | 15 | Diana Acosta |
-| 1657 | 14 | ThickyJicky |
-| 1658 | 14 | G Money |
-| 1659 | 14 | BreOunna Zonye Littleton |
-| 1660 | 14 | Snippy Twister |
-| 1661 | 14 | Tina Louise |
-| 1662 | 14 | Tammy Santiago |
-| 1663 | 14 | Laura Ratliff |
-| 1664 | 14 | mrsduke420 |
-| 1665 | 14 | Evie |
-| 1666 | 14 | Christine Niles |
-| 1667 | 14 | Heather Crowe |
-| 1668 | 14 | Heather Dornberger |
-| 1669 | 14 | Karissa Bailey |
-| 1670 | 14 | Jolene Stieren |
-| 1671 | 14 | Tonya Cross |
-| 1672 | 14 | Donovan Parmenter Gagne |
-| 1673 | 14 | Blanchie Wingo |
-| 1674 | 14 | Nakkia Mobley |
-| 1675 | 14 | crow me |
-| 1676 | 14 | Net |
-| 1677 | 13 | Michelle Boyd |
-| 1678 | 13 | Jozette Smalarz |
-| 1679 | 13 | Jackie Russo-Edens |
-| 1680 | 13 | Liz Aimé Acosta Guilarte |
-| 1681 | 13 | juler |
-| 1682 | 13 | Frothy Pivotfall |
-| 1683 | 13 | Karen Miller |
-| 1684 | 13 | Swanky Spinzone |
-| 1685 | 13 | Willedtra Griffin |
-| 1686 | 13 | Bryce McGee |
-| 1687 | 13 | Jason Ervin |
-| 1688 | 12 | Delashawne Hodgson |
-| 1689 | 12 | Tatiyana Hockett |
-| 1690 | 12 | Loony Brickzone |
-| 1691 | 12 | Amanda KN |
-| 1692 | 12 | Carolyn Lalak |
-| 1693 | 12 | ESPERANTU |
-| 1694 | 12 | Tonya Raymundo |
-| 1695 | 12 | Rachel |
-| 1696 | 12 | Mee |
-| 1697 | 12 | SuperJen |
-| 1698 | 12 | Eileen Clements |
-| 1699 | 12 | Speedy Twistslam |
+| 1639 | 16 | Speedy Twistslam |
+| 1640 | 16 | Cheeky Linkpiece |
+| 1641 | 16 | Bekka Walker |
+| 1642 | 15 | Natalia Stone |
+| 1643 | 15 | Tika Boo |
+| 1644 | 15 | Melia Christiansen |
+| 1645 | 15 | Walker Tracie |
+| 1646 | 15 | Chris Abney |
+| 1647 | 15 | Nicole Gilmore |
+| 1648 | 15 | Medrano Cruz Yaquelyn |
+| 1649 | 15 | Tha Don |
+| 1650 | 15 | Zanny |
+| 1651 | 15 | Hashanah Williams |
+| 1652 | 15 | Wacky Clusterer |
+| 1653 | 15 | Tricki Woo |
+| 1654 | 15 | Speedy Rollbuilder |
+| 1655 | 15 | Kiara Johnson |
+| 1656 | 15 | Jose Leandro Calderin |
+| 1657 | 15 | Diana Acosta |
+| 1658 | 14 | ThickyJicky |
+| 1659 | 14 | G Money |
+| 1660 | 14 | BreOunna Zonye Littleton |
+| 1661 | 14 | Snippy Twister |
+| 1662 | 14 | Tina Louise |
+| 1663 | 14 | Tammy Santiago |
+| 1664 | 14 | Laura Ratliff |
+| 1665 | 14 | mrsduke420 |
+| 1666 | 14 | Evie |
+| 1667 | 14 | Christine Niles |
+| 1668 | 14 | Heather Crowe |
+| 1669 | 14 | Heather Dornberger |
+| 1670 | 14 | Karissa Bailey |
+| 1671 | 14 | Jolene Stieren |
+| 1672 | 14 | Tonya Cross |
+| 1673 | 14 | Donovan Parmenter Gagne |
+| 1674 | 14 | Blanchie Wingo |
+| 1675 | 14 | Nakkia Mobley |
+| 1676 | 14 | crow me |
+| 1677 | 14 | Net |
+| 1678 | 13 | Michelle Boyd |
+| 1679 | 13 | Jozette Smalarz |
+| 1680 | 13 | Jackie Russo-Edens |
+| 1681 | 13 | Liz Aimé Acosta Guilarte |
+| 1682 | 13 | juler |
+| 1683 | 13 | Frothy Pivotfall |
+| 1684 | 13 | Karen Miller |
+| 1685 | 13 | Swanky Spinzone |
+| 1686 | 13 | Willedtra Griffin |
+| 1687 | 13 | Bryce McGee |
+| 1688 | 13 | Jason Ervin |
+| 1689 | 12 | Delashawne Hodgson |
+| 1690 | 12 | Tatiyana Hockett |
+| 1691 | 12 | Loony Brickzone |
+| 1692 | 12 | Amanda KN |
+| 1693 | 12 | Carolyn Lalak |
+| 1694 | 12 | ESPERANTU |
+| 1695 | 12 | Tonya Raymundo |
+| 1696 | 12 | Rachel |
+| 1697 | 12 | Mee |
+| 1698 | 12 | SuperJen |
+| 1699 | 12 | Eileen Clements |
 | 1700 | 12 | Buddyblock |
 | 1701 | 12 | May Espinosa |
 | 1702 | 11 | Aaron |
