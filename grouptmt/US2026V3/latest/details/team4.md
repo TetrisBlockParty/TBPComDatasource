@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:18:42 UTC
+# Standings for team4 as of 2026-06-08 08:19:22 UTC
 
 **Total Participants:** 1799
 
@@ -442,10 +442,10 @@
 | 434 | 167 | Brainbabe |
 | 435 | 167 | Rosy Perez |
 | 436 | 167 | Jessica Jones Bolton |
-| 437 | 166 | Azahares Alonso |
-| 438 | 166 | Rose Anna Safi |
-| 439 | 166 | DizzB400 |
-| 440 | 166 | Miss Beast |
+| 437 | 167 | Miss Beast |
+| 438 | 166 | Azahares Alonso |
+| 439 | 166 | Rose Anna Safi |
+| 440 | 166 | DizzB400 |
 | 441 | 166 | Silly Fallzone |
 | 442 | 166 | Keith Kosmicki |
 | 443 | 165 | Ryan Paul Clark-Ramsey |
