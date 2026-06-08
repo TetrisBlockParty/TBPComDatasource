@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 03:30:20 UTC
+# Standings for team2 as of 2026-06-08 03:30:43 UTC
 
 **Total Participants:** 2059
 
@@ -133,7 +133,7 @@
 | 125 | 762 | Nova Nova |
 | 126 | 756 | snowwol |
 | 127 | 751 | Hoppy Rotate |
-| 128 | 747 | Courtney McCulley |
+| 128 | 750 | Courtney McCulley |
 | 129 | 737 | Loopy Curvebuilder |
 | 130 | 726 | Groovy Snapper |
 | 131 | 708 | Le Sandy |
@@ -451,48 +451,48 @@
 | 443 | 184 | Melissa Abbott |
 | 444 | 184 | Nancy Schwartz Gusman-Oliver |
 | 445 | 183 | andee |
-| 446 | 182 | Partin |
-| 447 | 182 | murd3rmous3 |
-| 448 | 181 | Jamie Adams |
-| 449 | 181 | Joannah Capilitan |
+| 446 | 183 | TetrisMama |
+| 447 | 182 | Partin |
+| 448 | 182 | murd3rmous3 |
+| 449 | 181 | Jamie Adams |
 | 450 | 181 | Meagan Grimmett Washburn |
-| 451 | 180 | Zany Wrecker |
-| 452 | 180 | Happy |
-| 453 | 180 | Ashley Voelz |
-| 454 | 180 | Dawn Kroptavich |
-| 455 | 180 | Laura Larsen |
-| 456 | 179 | Jenni LeBlanc |
-| 457 | 179 | Derrick |
-| 458 | 179 | Lively Curve |
-| 459 | 179 | Kevin Patrick |
-| 460 | 179 | Perii Reynoso |
-| 461 | 179 | Michael Carmichael |
-| 462 | 179 | Teresa Mandich |
-| 463 | 179 | Bengy Lead |
-| 464 | 178 | Duke Morley |
-| 465 | 178 | Rocroc mo |
-| 466 | 178 | Jaimie Walters |
-| 467 | 177 | Rydin Dirt |
-| 468 | 177 | Gluten Gremlin |
-| 469 | 176 | Jana Campbell |
+| 451 | 181 | Joannah Capilitan |
+| 452 | 180 | Zany Wrecker |
+| 453 | 180 | Happy |
+| 454 | 180 | Ashley Voelz |
+| 455 | 180 | Dawn Kroptavich |
+| 456 | 180 | Laura Larsen |
+| 457 | 179 | Perii Reynoso |
+| 458 | 179 | Jenni LeBlanc |
+| 459 | 179 | Derrick |
+| 460 | 179 | Lively Curve |
+| 461 | 179 | Kevin Patrick |
+| 462 | 179 | Michael Carmichael |
+| 463 | 179 | Teresa Mandich |
+| 464 | 179 | Bengy Lead |
+| 465 | 178 | Duke Morley |
+| 466 | 178 | Rocroc mo |
+| 467 | 178 | Jaimie Walters |
+| 468 | 177 | Rydin Dirt |
+| 469 | 177 | Gluten Gremlin |
 | 470 | 176 | Jessica Connot |
-| 471 | 176 | Kay |
-| 472 | 174 | Funway998 |
-| 473 | 174 | Laurie |
-| 474 | 174 | ZBee |
-| 475 | 172 | Mandy |
-| 476 | 172 | Will Jones |
-| 477 | 172 | Charity Hauser |
-| 478 | 172 | Rescuegirl76 |
-| 479 | 170 | Amber Carpenter |
-| 480 | 170 | Dapper Riser |
-| 481 | 169 | Sandy Rundel Holderman |
-| 482 | 169 | Analee Nicole Jones |
-| 483 | 169 | rebel4lyfe |
+| 471 | 176 | Jana Campbell |
+| 472 | 176 | Kay |
+| 473 | 174 | Funway998 |
+| 474 | 174 | Laurie |
+| 475 | 174 | ZBee |
+| 476 | 172 | Mandy |
+| 477 | 172 | Will Jones |
+| 478 | 172 | Charity Hauser |
+| 479 | 172 | Rescuegirl76 |
+| 480 | 170 | Amber Carpenter |
+| 481 | 170 | Dapper Riser |
+| 482 | 169 | Sandy Rundel Holderman |
+| 483 | 169 | Analee Nicole Jones |
 | 484 | 169 | Holly Huval |
-| 485 | 168 | Gwendolyn Boykin Mobbs |
-| 486 | 168 | Spicy Balanceblock |
-| 487 | 168 | TetrisMama |
+| 485 | 169 | rebel4lyfe |
+| 486 | 168 | Gwendolyn Boykin Mobbs |
+| 487 | 168 | Spicy Balanceblock |
 | 488 | 168 | Jess |
 | 489 | 167 | Cara Rivera |
 | 490 | 166 | Darla Nolt |
@@ -1534,8 +1534,8 @@
 | 1526 | 31 | Duck |
 | 1527 | 31 | Jazzy Gridclear |
 | 1528 | 31 | Trixie |
-| 1529 | 31 | Louise LeBlanc |
-| 1530 | 31 | Jazzy Cornerfall |
+| 1529 | 31 | Jazzy Cornerfall |
+| 1530 | 31 | Louise LeBlanc |
 | 1531 | 30 | Marla Paden |
 | 1532 | 30 | Marie Anne |
 | 1533 | 30 | Denise Baker |
@@ -1544,17 +1544,17 @@
 | 1536 | 30 | Casie |
 | 1537 | 30 | Michele Miessner |
 | 1538 | 30 | LaChalle Shay |
-| 1539 | 30 | Wacky Tumbler |
-| 1540 | 30 | Melissa Kinsley |
-| 1541 | 30 | Patty Brown |
+| 1539 | 30 | Patty Brown |
+| 1540 | 30 | Wacky Tumbler |
+| 1541 | 30 | Melissa Kinsley |
 | 1542 | 30 | Bridgett Smith |
-| 1543 | 30 | Happy Wipeout |
-| 1544 | 30 | Holly Hannahs |
+| 1543 | 30 | Holly Hannahs |
+| 1544 | 30 | Happy Wipeout |
 | 1545 | 30 | Carrie Rutter-Bail |
-| 1546 | 30 | Dandy Brickbuilder |
-| 1547 | 30 | Julie Lint |
+| 1546 | 30 | Unicornlvr |
+| 1547 | 30 | Dandy Brickbuilder |
 | 1548 | 30 | Denzil G Burrows Jr |
-| 1549 | 30 | Unicornlvr |
+| 1549 | 30 | Julie Lint |
 | 1550 | 30 | Amanda Mason Scott |
 | 1551 | 30 | Daring Spinzone |
 | 1552 | 30 | Roger Kee |
@@ -1584,10 +1584,10 @@
 | 1576 | 29 | Alessandria Anderson |
 | 1577 | 29 | Anna Benjamin Freeman |
 | 1578 | 29 | Travis Bundrum |
-| 1579 | 29 | Thump |
-| 1580 | 29 | Mary Stump |
-| 1581 | 29 | Dandy Tiltpiece |
-| 1582 | 29 | Makayla Grubbs |
+| 1579 | 29 | Mary Stump |
+| 1580 | 29 | Thump |
+| 1581 | 29 | Makayla Grubbs |
+| 1582 | 29 | Dandy Tiltpiece |
 | 1583 | 29 | Silly Cluster |
 | 1584 | 29 | Catherine Whitt Gaddy |
 | 1585 | 29 | Perky Rollfit |
@@ -1611,43 +1611,43 @@
 | 1603 | 27 | juhde |
 | 1604 | 27 | Kim |
 | 1605 | 27 | lion king |
-| 1606 | 27 | Witty Shatterline |
-| 1607 | 27 | Darla |
-| 1608 | 27 | Nicole Dunn |
-| 1609 | 27 | BethAnn Pawlowski |
+| 1606 | 27 | Chirpy Shiftspin |
+| 1607 | 27 | Witty Shatterline |
+| 1608 | 27 | Darla |
+| 1609 | 27 | Nicole Dunn |
 | 1610 | 27 | Anna |
-| 1611 | 27 | Bold Bridgepiece |
-| 1612 | 27 | Donnell Coates |
-| 1613 | 26 | Angela Anderson |
-| 1614 | 26 | Regina Lamb |
-| 1615 | 26 | Joffee Joffer |
-| 1616 | 26 | Silly Shatter |
-| 1617 | 26 | Cathy Clark |
-| 1618 | 26 | nova |
-| 1619 | 26 | Danibellee |
-| 1620 | 26 | David Starmer |
-| 1621 | 26 | Jackie Hayslip |
-| 1622 | 26 | Darlene Russell |
-| 1623 | 26 | Celeste Samuels |
-| 1624 | 26 | Quirky Climber |
-| 1625 | 26 | Glitzy Stackbuilder |
-| 1626 | 26 | Poppy Zonepiece |
-| 1627 | 25 | Jamie Benge |
-| 1628 | 25 | Nikki |
-| 1629 | 25 | Quirky Piecegrid |
-| 1630 | 25 | Crystal Owen Yocolano |
-| 1631 | 25 | Mighty Piecebuilder |
-| 1632 | 25 | Cranky Patternblock |
-| 1633 | 25 | Chirpy Shiftspin |
-| 1634 | 25 | Charlene Napier |
+| 1611 | 27 | BethAnn Pawlowski |
+| 1612 | 27 | Bold Bridgepiece |
+| 1613 | 27 | Donnell Coates |
+| 1614 | 26 | Angela Anderson |
+| 1615 | 26 | Silly Shatter |
+| 1616 | 26 | Regina Lamb |
+| 1617 | 26 | Joffee Joffer |
+| 1618 | 26 | Cathy Clark |
+| 1619 | 26 | nova |
+| 1620 | 26 | Danibellee |
+| 1621 | 26 | David Starmer |
+| 1622 | 26 | Jackie Hayslip |
+| 1623 | 26 | Darlene Russell |
+| 1624 | 26 | Celeste Samuels |
+| 1625 | 26 | Quirky Climber |
+| 1626 | 26 | Glitzy Stackbuilder |
+| 1627 | 26 | Poppy Zonepiece |
+| 1628 | 25 | Jamie Benge |
+| 1629 | 25 | Nikki |
+| 1630 | 25 | Quirky Piecegrid |
+| 1631 | 25 | Crystal Owen Yocolano |
+| 1632 | 25 | Mighty Piecebuilder |
+| 1633 | 25 | John Rosales |
+| 1634 | 25 | Jara Zavala |
 | 1635 | 25 | B.A. Watt |
-| 1636 | 25 | Jara Zavala |
-| 1637 | 25 | Kyle |
-| 1638 | 25 | Cindy Smith |
-| 1639 | 25 | John Rosales |
+| 1636 | 25 | Kyle |
+| 1637 | 25 | Cindy Smith |
+| 1638 | 25 | Charlene Napier |
+| 1639 | 25 | Cranky Patternblock |
 | 1640 | 24 | GreatDoxie |
-| 1641 | 24 | Amh09 |
-| 1642 | 24 | Snippy Tilefall |
+| 1641 | 24 | Snippy Tilefall |
+| 1642 | 24 | Amh09 |
 | 1643 | 24 | Paula Smith |
 | 1644 | 24 | Taran Evans |
 | 1645 | 24 | Nicole |
@@ -1666,20 +1666,20 @@
 | 1658 | 23 | Giggly Glider |
 | 1659 | 23 | Linda Riegsecker |
 | 1660 | 23 | Stephanie Fitzgerald |
-| 1661 | 23 | Amanda Raley |
+| 1661 | 23 | Ashley Propst |
 | 1662 | 23 | Haley |
-| 1663 | 23 | Cherry L. Salama |
-| 1664 | 23 | Ashley Propst |
-| 1665 | 23 | Groovy Snapbuild |
-| 1666 | 22 | Raven |
-| 1667 | 22 | Liliana Mills |
-| 1668 | 22 | Nutty Cascader |
-| 1669 | 22 | Amanda Hastings |
+| 1663 | 23 | Amanda Raley |
+| 1664 | 23 | Groovy Snapbuild |
+| 1665 | 23 | Cherry L. Salama |
+| 1666 | 22 | Amanda Hastings |
+| 1667 | 22 | Nutty Cascader |
+| 1668 | 22 | Merine Mott |
+| 1669 | 22 | Mary Cook |
 | 1670 | 22 | Flashy Blockfall |
-| 1671 | 22 | Mary Cook |
-| 1672 | 22 | Merine Mott |
-| 1673 | 22 | Stacy Stickle |
-| 1674 | 22 | Danid |
+| 1671 | 22 | Raven |
+| 1672 | 22 | Stacy Stickle |
+| 1673 | 22 | Danid |
+| 1674 | 22 | Liliana Mills |
 | 1675 | 22 | Jenny |
 | 1676 | 22 | Sir Paco |
 | 1677 | 22 | Tyler Bates |
@@ -1696,15 +1696,15 @@
 | 1688 | 21 | Mario Hillman |
 | 1689 | 21 | Johnathon Mendiola |
 | 1690 | 21 | sally |
-| 1691 | 21 | twistyzone |
-| 1692 | 21 | Krickett M. Curtis |
-| 1693 | 21 | Loony Snapclear |
-| 1694 | 21 | Rachel Burkett |
-| 1695 | 21 | Vee Waller |
-| 1696 | 21 | Ali |
+| 1691 | 21 | Krickett M. Curtis |
+| 1692 | 21 | twistyzone |
+| 1693 | 21 | Mona Good |
+| 1694 | 21 | Ali |
+| 1695 | 21 | Loony Snapclear |
+| 1696 | 21 | Mandy |
 | 1697 | 21 | Chill Shatterclear |
-| 1698 | 21 | Mona Good |
-| 1699 | 21 | Mandy |
+| 1698 | 21 | Vee Waller |
+| 1699 | 21 | Rachel Burkett |
 | 1700 | 20 | Peachy Builderpiece |
 | 1701 | 20 | Rob Miller |
 | 1702 | 20 | ll Patton |
