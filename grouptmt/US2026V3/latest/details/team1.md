@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:58:42 UTC
+# Standings for team1 as of 2026-06-08 09:59:21 UTC
 
 **Total Participants:** 1774
 
@@ -377,18 +377,18 @@
 | 369 | 201 | Rayshawn Cohen |
 | 370 | 201 | Richard Flex |
 | 371 | 200 | Teri Marie Clayton |
-| 372 | 200 | Lisa Fletcher |
-| 373 | 200 | Maribel Vasquez |
-| 374 | 200 | kitten |
-| 375 | 200 | TBABYJ |
+| 372 | 200 | Maribel Vasquez |
+| 373 | 200 | Lisa Fletcher |
+| 374 | 200 | TBABYJ |
+| 375 | 200 | kitten |
 | 376 | 199 | Fina McKinnis |
 | 377 | 199 | Nickeya Phillips |
-| 378 | 197 | De'Nell Edwards |
-| 379 | 196 | BabyCakes |
-| 380 | 194 | Cheery Linkfall |
-| 381 | 193 | Matthieu Pistone |
-| 382 | 192 | Hyper Blocky |
-| 383 | 192 | Rachael R Gull |
+| 378 | 198 | Rachael R Gull |
+| 379 | 197 | De'Nell Edwards |
+| 380 | 196 | BabyCakes |
+| 381 | 194 | Cheery Linkfall |
+| 382 | 193 | Matthieu Pistone |
+| 383 | 192 | Hyper Blocky |
 | 384 | 192 | Joana Thompson |
 | 385 | 191 | Jelyfish |
 | 386 | 191 | Kate Hancock Malicek |
