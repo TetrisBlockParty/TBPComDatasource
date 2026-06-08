@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:36:44 UTC
+# Standings for team1 as of 2026-06-08 08:37:21 UTC
 
 **Total Participants:** 1763
 
@@ -178,8 +178,8 @@
 | 170 | 431 | Lashawn Wallace |
 | 171 | 427 | Ty Øtg |
 | 172 | 427 | Tamara N Lee |
-| 173 | 423 | Zappy Riser |
-| 174 | 421 | Plucky Slamdrop |
+| 173 | 427 | Plucky Slamdrop |
+| 174 | 423 | Zappy Riser |
 | 175 | 420 | Hyper Slamdrop |
 | 176 | 420 | Jessica Carter |
 | 177 | 417 | Eugina Slater |
@@ -914,12 +914,12 @@
 | 906 | 73 | Ducc2408 |
 | 907 | 73 | Kàrma Lee |
 | 908 | 73 | Abigail Newman Sweet |
-| 909 | 73 | Lazy Matchgrid |
-| 910 | 72 | Shanna Green Williams |
-| 911 | 72 | ImmeKC |
-| 912 | 72 | Brittany Britkany Marsden-Garrison |
-| 913 | 72 | Toohartless Mech |
-| 914 | 72 | Ashanti Eden |
+| 909 | 73 | Ashanti Eden |
+| 910 | 73 | Lazy Matchgrid |
+| 911 | 72 | Shanna Green Williams |
+| 912 | 72 | ImmeKC |
+| 913 | 72 | Brittany Britkany Marsden-Garrison |
+| 914 | 72 | Toohartless Mech |
 | 915 | 72 | Bunnie Celtavini |
 | 916 | 72 | Comedian Gdane |
 | 917 | 71 | HBTone |
