@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:40:19 UTC
+# Standings for team1 as of 2026-06-08 08:40:42 UTC
 
 **Total Participants:** 1763
 
@@ -25,8 +25,8 @@
 | 17 | 5141 | Hunter Rayborn |
 | 18 | 4249 | Cassidy Butler |
 | 19 | 3972 | Tekedra Wilson |
-| 20 | 3892 | Kkbk |
-| 21 | 3891 | Pdubbl3 |
+| 20 | 3899 | Pdubbl3 |
+| 21 | 3892 | Kkbk |
 | 22 | 3795 | jaimie |
 | 23 | 3721 | Chandler Spencer |
 | 24 | 3301 | Yolanda McDonald |
