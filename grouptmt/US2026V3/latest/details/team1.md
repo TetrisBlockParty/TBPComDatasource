@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:17:18 UTC
+# Standings for team1 as of 2026-06-08 02:18:19 UTC
 
 **Total Participants:** 1670
 
@@ -78,9 +78,9 @@
 | 70 | 1018 | Court Court |
 | 71 | 1017 | Lisa Müller |
 | 72 | 995 | Whitney Butler |
-| 73 | 954 | Brian Bohanon II |
-| 74 | 939 | Uneekly Mayde |
-| 75 | 937 | Tiana Moore |
+| 73 | 954 | Tiana Moore |
+| 74 | 954 | Brian Bohanon II |
+| 75 | 939 | Uneekly Mayde |
 | 76 | 923 | PandaPrincess |
 | 77 | 921 | Therealdywoune Peay |
 | 78 | 920 | IamJust Neyamijah Washington Sr. |
@@ -89,8 +89,8 @@
 | 81 | 890 | MamaBear |
 | 82 | 882 | Jon Gathers |
 | 83 | 867 | She Higgy |
-| 84 | 851 | Richard Horton |
-| 85 | 851 | Moomoo |
+| 84 | 851 | Moomoo |
+| 85 | 851 | Richard Horton |
 | 86 | 850 | Keeta Chickswit Scott |
 | 87 | 809 | Jazzy Dashpiece |
 | 88 | 807 | KenpachisGirl |
@@ -110,8 +110,8 @@
 | 102 | 718 | Jaida King |
 | 103 | 710 | ing410 |
 | 104 | 692 | No_Other_Choice |
-| 105 | 679 | Chirpy Corner |
-| 106 | 671 | Frisky Fallmatch |
+| 105 | 681 | Frisky Fallmatch |
+| 106 | 679 | Chirpy Corner |
 | 107 | 668 | Jonathan Vee Jay |
 | 108 | 666 | Kellie Hall |
 | 109 | 661 | Voice |
@@ -131,12 +131,12 @@
 | 123 | 582 | Nutty Spinblock |
 | 124 | 574 | Anthony Washington |
 | 125 | 573 | Rackemwillie34 |
-| 126 | 561 | Carolynne Walker-Bell |
-| 127 | 559 | Gotcha |
+| 126 | 565 | Gotcha |
+| 127 | 561 | Carolynne Walker-Bell |
 | 128 | 557 | Trendalyn Webb |
 | 129 | 539 | Cj Gorman |
-| 130 | 538 | ELM |
-| 131 | 538 | Gael Quintana |
+| 130 | 538 | Gael Quintana |
+| 131 | 538 | ELM |
 | 132 | 533 | Robbie Cheeseman |
 | 133 | 531 | Abraham Espaillat |
 | 134 | 527 | MommaCia |
@@ -167,13 +167,13 @@
 | 159 | 404 | Hyper Slamdrop |
 | 160 | 396 | Chuck Quarles |
 | 161 | 394 | Simmone T. Kadiri |
-| 162 | 393 | Sharon Cail |
-| 163 | 393 | Sheila Burnham |
+| 162 | 393 | Sheila Burnham |
+| 163 | 393 | Sharon Cail |
 | 164 | 392 | Lashaunda |
 | 165 | 389 | GrkGdess |
 | 166 | 389 | Roberta Lynn |
-| 167 | 387 | Crystal Anderson |
-| 168 | 387 | Karebear |
+| 167 | 387 | Karebear |
+| 168 | 387 | Crystal Anderson |
 | 169 | 384 | Christana Imjustbutton Stone |
 | 170 | 384 | Jenna Renee |
 | 171 | 380 | Felicia Cain |
@@ -190,13 +190,13 @@
 | 182 | 361 | John Staub |
 | 183 | 359 | pooh |
 | 184 | 356 | Murg4dr01d |
-| 185 | 356 | Tina Mitchell |
-| 186 | 356 | Haley Bell |
+| 185 | 356 | Haley Bell |
+| 186 | 356 | Tina Mitchell |
 | 187 | 352 | Jayjay Rich |
 | 188 | 345 | Marcheta Cervantez |
 | 189 | 345 | Ebony |
-| 190 | 340 | Slim Shedidthat |
-| 191 | 340 | Tamara N Lee |
+| 190 | 340 | Tamara N Lee |
+| 191 | 340 | Slim Shedidthat |
 | 192 | 340 | Spicy Risepiece |
 | 193 | 338 | TT |
 | 194 | 336 | Nobles Brandon |
@@ -310,11 +310,11 @@
 | 302 | 217 | Louise Parker |
 | 303 | 217 | Ashleyy Netchert |
 | 304 | 217 | Zippy Tilefall |
-| 305 | 213 | Wild Out Nai |
-| 306 | 213 | Still Ten Tay |
-| 307 | 212 | Simply-Beautiful007 |
-| 308 | 211 | Charletha Williams |
-| 309 | 211 | Stephen Providenti |
+| 305 | 214 | Stephen Providenti |
+| 306 | 213 | Wild Out Nai |
+| 307 | 213 | Still Ten Tay |
+| 308 | 212 | Simply-Beautiful007 |
+| 309 | 211 | Charletha Williams |
 | 310 | 211 | Nina Davis |
 | 311 | 210 | Sarah Clark |
 | 312 | 209 | $hort Dog |
@@ -324,16 +324,16 @@
 | 316 | 205 | Treneil Daffin |
 | 317 | 204 | Guy Incognito |
 | 318 | 203 | Daris Swearington |
-| 319 | 202 | Sammie Walker |
-| 320 | 202 | Poppy Buildout |
-| 321 | 202 | Crystal Cheresnowsky |
-| 322 | 201 | Richard Flex |
-| 323 | 201 | Rayshawn Cohen |
-| 324 | 200 | Slinky Party |
-| 325 | 200 | TBABYJ |
+| 319 | 202 | Messy Live |
+| 320 | 202 | Sammie Walker |
+| 321 | 202 | Poppy Buildout |
+| 322 | 202 | Crystal Cheresnowsky |
+| 323 | 201 | Richard Flex |
+| 324 | 201 | Rayshawn Cohen |
+| 325 | 200 | Slinky Party |
 | 326 | 200 | Hailey Hil |
-| 327 | 199 | Fina McKinnis |
-| 328 | 198 | Messy Live |
+| 327 | 200 | TBABYJ |
+| 328 | 199 | Fina McKinnis |
 | 329 | 196 | HarleyJane |
 | 330 | 195 | kitten |
 | 331 | 194 | Cheery Linkfall |
@@ -341,10 +341,10 @@
 | 333 | 192 | Hyper Blocky |
 | 334 | 191 | Emily Wright |
 | 335 | 190 | Chipper Snapper |
-| 336 | 189 | Tosha Michelle |
-| 337 | 189 | Bambi Johnson |
-| 338 | 189 | Nate Myers |
-| 339 | 189 | Jolly Tilefall |
+| 336 | 189 | Jolly Tilefall |
+| 337 | 189 | Nate Myers |
+| 338 | 189 | Bambi Johnson |
+| 339 | 189 | Tosha Michelle |
 | 340 | 188 | Tyiesha Pie Farmer |
 | 341 | 187 | MACHETEEDDIE513 |
 | 342 | 186 | Lazy Tiltpiece |
@@ -452,18 +452,18 @@
 | 444 | 145 | Shea Ladynick Henderson |
 | 445 | 144 | Brittanie Wardlow |
 | 446 | 144 | Douglas Price |
-| 447 | 144 | Hardtohandle91 |
-| 448 | 144 | Ta'Kaiyah M. Spann |
-| 449 | 143 | Ashlie Mo |
-| 450 | 143 | Faith Armone |
-| 451 | 142 | Sarah Steckbauer |
-| 452 | 142 | MonaSparks |
+| 447 | 144 | Ta'Kaiyah M. Spann |
+| 448 | 144 | Hardtohandle91 |
+| 449 | 143 | Peppy Glider |
+| 450 | 143 | Ashlie Mo |
+| 451 | 143 | Faith Armone |
+| 452 | 142 | Sarah Steckbauer |
 | 453 | 142 | Kelley Johnson |
-| 454 | 141 | Shalena Marie Humphrey |
-| 455 | 141 | Kate Hancock Malicek |
-| 456 | 140 | Antoinette Jones |
-| 457 | 140 | rls |
-| 458 | 139 | Peppy Glider |
+| 454 | 142 | MonaSparks |
+| 455 | 141 | Shalena Marie Humphrey |
+| 456 | 141 | Kate Hancock Malicek |
+| 457 | 140 | Antoinette Jones |
+| 458 | 140 | rls |
 | 459 | 139 | Bold Clusterer |
 | 460 | 138 | Yadira Salgado |
 | 461 | 138 | Seddrick |
@@ -886,10 +886,10 @@
 | 878 | 66 | Boricua64 |
 | 879 | 66 | LaMinda Todd |
 | 880 | 66 | Undeniable Williams |
-| 881 | 66 | Meepycat |
+| 881 | 66 | Meluhnee |
 | 882 | 66 | Lively Clusterline |
 | 883 | 66 | Dennis Ripley |
-| 884 | 66 | Meluhnee |
+| 884 | 66 | Meepycat |
 | 885 | 66 | Jroc Tyra Taylor |
 | 886 | 66 | Raquele Hines |
 | 887 | 65 | Rande Smith |
@@ -900,33 +900,33 @@
 | 892 | 65 | Quwana Hall |
 | 893 | 65 | Furlough Leslie |
 | 894 | 65 | Trixie |
-| 895 | 65 | Benjamin Livingston |
-| 896 | 65 | Heru Ogun Yeshua EL |
-| 897 | 64 | Elaine Youmans |
-| 898 | 64 | Tomme Poliwka |
-| 899 | 64 | Kanesha Jackson |
-| 900 | 63 | Tonny Williams |
-| 901 | 63 | GetDaOPPS |
-| 902 | 63 | Jeremy Hendrix |
-| 903 | 63 | Katness |
-| 904 | 63 | Gary Kyle |
-| 905 | 63 | Ahsokadog |
-| 906 | 63 | Abdul Malik |
-| 907 | 63 | Amanda Colwell |
+| 895 | 65 | Vivian Bunnell Myers |
+| 896 | 65 | Benjamin Livingston |
+| 897 | 65 | Heru Ogun Yeshua EL |
+| 898 | 64 | Elaine Youmans |
+| 899 | 64 | Tomme Poliwka |
+| 900 | 64 | Kanesha Jackson |
+| 901 | 63 | Abdul Malik |
+| 902 | 63 | GetDaOPPS |
+| 903 | 63 | Jeremy Hendrix |
+| 904 | 63 | Katness |
+| 905 | 63 | Gary Kyle |
+| 906 | 63 | Ahsokadog |
+| 907 | 63 | Tonny Williams |
 | 908 | 63 | Tip318 |
 | 909 | 63 | Poppy Smasher |
-| 910 | 63 | Vivian Bunnell Myers |
-| 911 | 63 | Tony P Burke |
-| 912 | 63 | Heather Wilson |
-| 913 | 63 | Natasha Harris |
+| 910 | 63 | Tony P Burke |
+| 911 | 63 | Heather Wilson |
+| 912 | 63 | Natasha Harris |
+| 913 | 63 | Amanda Colwell |
 | 914 | 62 | Spicy Hedgehog |
-| 915 | 62 | Tia Hazelton |
-| 916 | 62 | Delitra Perkins Hatter |
-| 917 | 62 | Quirky Slammer |
-| 918 | 62 | Shona ShayShay Jones |
-| 919 | 62 | Amihan |
-| 920 | 62 | AnnaM |
-| 921 | 62 | S.S |
+| 915 | 62 | S.S |
+| 916 | 62 | Tia Hazelton |
+| 917 | 62 | Delitra Perkins Hatter |
+| 918 | 62 | Quirky Slammer |
+| 919 | 62 | Shona ShayShay Jones |
+| 920 | 62 | Amihan |
+| 921 | 62 | AnnaM |
 | 922 | 61 | Tonya Thomas |
 | 923 | 61 | Michelle Stanford-Page |
 | 924 | 61 | Rosalind Chatman |
