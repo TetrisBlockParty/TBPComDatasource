@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:48:45 UTC
+# Standings for team1 as of 2026-06-08 08:49:20 UTC
 
 **Total Participants:** 1764
 
@@ -459,40 +459,40 @@
 | 451 | 162 | Rachael R Gull |
 | 452 | 161 | Devron Reedy |
 | 453 | 161 | boogeywoogey |
-| 454 | 160 | Malcolm Stanley |
-| 455 | 160 | Jean Regis |
+| 454 | 160 | Jean Regis |
+| 455 | 160 | Malcolm Stanley |
 | 456 | 160 | Cheeky Twistpiece |
 | 457 | 160 | Tracey Johnson |
-| 458 | 160 | Adrian Wilson |
-| 459 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 460 | 160 | Slinky Clearzone |
-| 461 | 160 | Carolyn Smith |
+| 458 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 459 | 160 | Carolyn Smith |
+| 460 | 160 | Adrian Wilson |
+| 461 | 160 | Slinky Clearzone |
 | 462 | 159 | Loopy Tiler |
 | 463 | 159 | Tee Spinks |
-| 464 | 158 | Kimberly Linares Hernandez |
-| 465 | 158 | Mahagony Small |
-| 466 | 157 | Rachel Renae Bettis |
-| 467 | 156 | Amy Villalpando |
-| 468 | 156 | Shalya Terry |
+| 464 | 158 | Kate Hancock Malicek |
+| 465 | 158 | Kimberly Linares Hernandez |
+| 466 | 158 | Mahagony Small |
+| 467 | 157 | Rachel Renae Bettis |
+| 468 | 156 | Chris Holland |
 | 469 | 156 | Lakiesha Crawford |
-| 470 | 156 | Johnathan Deese |
-| 471 | 156 | Chris Holland |
-| 472 | 155 | Tajuana Juana'Cee Coleman |
-| 473 | 155 | Jae Thompson-Tyus |
-| 474 | 155 | Miera Nicole |
+| 470 | 156 | Amy Villalpando |
+| 471 | 156 | Shalya Terry |
+| 472 | 156 | Johnathan Deese |
+| 473 | 155 | Tajuana Juana'Cee Coleman |
+| 474 | 155 | Jae Thompson-Tyus |
 | 475 | 155 | Kala Miller |
-| 476 | 155 | Katrina Ramey |
-| 477 | 154 | Brittanie Wardlow |
-| 478 | 154 | Dorian Griffin |
+| 476 | 155 | Miera Nicole |
+| 477 | 155 | Katrina Ramey |
+| 478 | 154 | Brittanie Wardlow |
 | 479 | 154 | Rebecca Jackson |
-| 480 | 154 | Glitzy Clusterer |
-| 481 | 154 | Jenni Hardman |
-| 482 | 154 | Ciera Peace |
-| 483 | 152 | Wacky Stackbuilder |
-| 484 | 152 | Kate Hancock Malicek |
+| 480 | 154 | Dorian Griffin |
+| 481 | 154 | Glitzy Clusterer |
+| 482 | 154 | Jenni Hardman |
+| 483 | 154 | Ciera Peace |
+| 484 | 152 | Wacky Stackbuilder |
 | 485 | 151 | Perky Balancer |
-| 486 | 151 | Yashica Smith |
-| 487 | 151 | Jimmy Shannon |
+| 486 | 151 | Jimmy Shannon |
+| 487 | 151 | Yashica Smith |
 | 488 | 151 | Shakuria Cortia Burney |
 | 489 | 150 | Nisha Sunshine Jenkins |
 | 490 | 150 | Kamilya Rembert |

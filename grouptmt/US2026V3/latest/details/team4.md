@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:48:45 UTC
+# Standings for team4 as of 2026-06-08 08:49:20 UTC
 
 **Total Participants:** 1800
 
@@ -121,14 +121,14 @@
 | 113 | 694 | Kelly Bernard |
 | 114 | 692 | Jeremy Lopez |
 | 115 | 681 | Jason Garnatz |
-| 116 | 678 | Melissa WC |
-| 117 | 678 | Jenn Fitzgerald |
+| 116 | 678 | Jenn Fitzgerald |
+| 117 | 678 | Melissa WC |
 | 118 | 677 | Dandy Clearfit |
 | 119 | 669 | Gigglycat |
 | 120 | 651 | vag1974 |
 | 121 | 649 | Irma |
-| 122 | 640 | Gracie Ornelas |
-| 123 | 640 | CJ |
+| 122 | 640 | CJ |
+| 123 | 640 | Gracie Ornelas |
 | 124 | 637 | Cranky Towerbuilder |
 | 125 | 626 | Lynn Grimes |
 | 126 | 618 | Becky Doll-Hall |
@@ -142,12 +142,12 @@
 | 134 | 582 | Lisa Garcia |
 | 135 | 566 | Dee Wizz |
 | 136 | 564 | Krysten Danielle Richard |
-| 137 | 555 | iiPurgeV2 |
-| 138 | 552 | Esther Hadassah |
-| 139 | 550 | Nicole Peoples |
-| 140 | 549 | Pepone Pepe |
-| 141 | 548 | Katie Lynn Petit |
-| 142 | 537 | Dandy Puzzler |
+| 137 | 556 | Dandy Puzzler |
+| 138 | 555 | iiPurgeV2 |
+| 139 | 552 | Esther Hadassah |
+| 140 | 550 | Nicole Peoples |
+| 141 | 549 | Pepone Pepe |
+| 142 | 548 | Katie Lynn Petit |
 | 143 | 522 | Sarah Berry Stevens |
 | 144 | 521 | Misty Leigh |
 | 145 | 520 | DexterDobbins |
@@ -163,8 +163,8 @@
 | 155 | 460 | CIRAZYPNOY |
 | 156 | 452 | Kaash Brxtt |
 | 157 | 447 | Jacqueline Jackii Ramos |
-| 158 | 446 | Real Talk Vibes |
-| 159 | 446 | Laguya |
+| 158 | 446 | Laguya |
+| 159 | 446 | Real Talk Vibes |
 | 160 | 443 | Joyce Myers |
 | 161 | 443 | Crissy Hoffman |
 | 162 | 441 | Iforget |
@@ -174,8 +174,8 @@
 | 166 | 432 | Scamp Jones |
 | 167 | 429 | Cyndi Najar |
 | 168 | 426 | Nicole |
-| 169 | 424 | Futrell Brent |
-| 170 | 424 | Piece of Cake |
+| 169 | 424 | Piece of Cake |
+| 170 | 424 | Futrell Brent |
 | 171 | 422 | squareMel |
 | 172 | 421 | Shannon Rivera |
 | 173 | 421 | QueenLi86 |
@@ -187,8 +187,8 @@
 | 179 | 399 | Devinlee Brown |
 | 180 | 395 | Julian Gasque |
 | 181 | 395 | Bobbie Harrell |
-| 182 | 389 | blockhead |
-| 183 | 389 | Taz |
+| 182 | 389 | Taz |
+| 183 | 389 | blockhead |
 | 184 | 385 | Kristen Wallace |
 | 185 | 382 | Goofy Riser |
 | 186 | 380 | Cinta Marie |
@@ -204,8 +204,8 @@
 | 196 | 366 | Baysoph |
 | 197 | 363 | Aramat |
 | 198 | 360 | Shocinda Sherwood |
-| 199 | 359 | Chiquita Blue |
-| 200 | 359 | BCO22 |
+| 199 | 359 | BCO22 |
+| 200 | 359 | Chiquita Blue |
 | 201 | 357 | MomyLiz |
 | 202 | 357 | Katie Martin |
 | 203 | 355 | RotatedWrongAgain |
@@ -416,21 +416,21 @@
 | 408 | 181 | Danny Frausto |
 | 409 | 180 | Goofy Linkmatch |
 | 410 | 180 | Dan Butcher |
-| 411 | 180 | EvoKitty |
-| 412 | 180 | Chilly Pivot |
+| 411 | 180 | Chilly Pivot |
+| 412 | 180 | EvoKitty |
 | 413 | 180 | Silly Rollbuilder |
 | 414 | 179 | LaTanya GeminiondaRise Johnson |
-| 415 | 178 | Linda |
-| 416 | 178 | Deva Marie Barber |
-| 417 | 178 | Alexsandra Hill |
-| 418 | 176 | Erik Clary |
-| 419 | 176 | Dena Lynn Rogers |
-| 420 | 175 | Cherrypir05 |
-| 421 | 175 | Quiomarie Cotto |
-| 422 | 175 | Happy Shatterfit |
-| 423 | 175 | Diana Fernandez |
-| 424 | 175 | Cool Risepiece |
-| 425 | 174 | Miss Beast |
+| 415 | 178 | Miss Beast |
+| 416 | 178 | Linda |
+| 417 | 178 | Deva Marie Barber |
+| 418 | 178 | Alexsandra Hill |
+| 419 | 176 | Erik Clary |
+| 420 | 176 | Dena Lynn Rogers |
+| 421 | 175 | Cherrypir05 |
+| 422 | 175 | Quiomarie Cotto |
+| 423 | 175 | Happy Shatterfit |
+| 424 | 175 | Diana Fernandez |
+| 425 | 175 | Cool Risepiece |
 | 426 | 172 | Jen Roe |
 | 427 | 172 | Kea Sushi |
 | 428 | 171 | Dayna Arthurs |
@@ -704,91 +704,91 @@
 | 696 | 101 | Audrianna Skaff |
 | 697 | 101 | Alaina Rousseau |
 | 698 | 101 | David Lay |
-| 699 | 100 | Nerdy Brickster |
-| 700 | 100 | CorieBe |
-| 701 | 100 | Aim Georgia Bros Scott |
-| 702 | 100 | DanceAngel |
-| 703 | 100 | Helen Bradley |
-| 704 | 100 | Certified Da Don |
-| 705 | 100 | Nova Kain |
-| 706 | 100 | Giggy Bridgepiece |
-| 707 | 100 | Jay Keating |
-| 708 | 100 | Aleta Svitak |
-| 709 | 100 | Michelle Sager |
-| 710 | 100 | Ern |
-| 711 | 100 | Lady Dolphin |
-| 712 | 99 | Funky Twistpiece |
-| 713 | 99 | Rebekah Anne Macias |
-| 714 | 99 | Trang Nguyen |
-| 715 | 99 | Dru Lui |
-| 716 | 99 | Elizabeth Putansu |
-| 717 | 99 | Ricardo Arias |
-| 718 | 99 | Darren Miguel |
-| 719 | 99 | SueSally |
-| 720 | 99 | Susan Mary Kelley |
-| 721 | 99 | Tamika Ashli Bonner |
-| 722 | 98 | Addi JayKay |
-| 723 | 98 | Tiffany Roberts |
-| 724 | 98 | Hilarie Detweiler |
-| 725 | 98 | LeRoy jenkins |
-| 726 | 98 | Deb 07 |
-| 727 | 98 | shonaberry |
-| 728 | 98 | katy |
-| 729 | 98 | Giggy Blockpiece |
-| 730 | 98 | Kena T. Tanner |
-| 731 | 97 | Blessedmom865 |
-| 732 | 96 | Tiffany Taylor |
+| 699 | 100 | Nova Kain |
+| 700 | 100 | Nerdy Brickster |
+| 701 | 100 | Helen Bradley |
+| 702 | 100 | Jay Keating |
+| 703 | 100 | Aim Georgia Bros Scott |
+| 704 | 100 | CorieBe |
+| 705 | 100 | Giggy Bridgepiece |
+| 706 | 100 | Aleta Svitak |
+| 707 | 100 | DanceAngel |
+| 708 | 100 | Michelle Sager |
+| 709 | 100 | Certified Da Don |
+| 710 | 100 | Lady Dolphin |
+| 711 | 100 | Ern |
+| 712 | 99 | JustLessie |
+| 713 | 99 | Trang Nguyen |
+| 714 | 99 | Darren Miguel |
+| 715 | 99 | Funky Twistpiece |
+| 716 | 99 | SueSally |
+| 717 | 99 | Dru Lui |
+| 718 | 99 | Susan Mary Kelley |
+| 719 | 99 | Tamika Ashli Bonner |
+| 720 | 99 | Elizabeth Putansu |
+| 721 | 99 | Ricardo Arias |
+| 722 | 99 | Rebekah Anne Macias |
+| 723 | 98 | katy |
+| 724 | 98 | LeRoy jenkins |
+| 725 | 98 | Hilarie Detweiler |
+| 726 | 98 | Kena T. Tanner |
+| 727 | 98 | Deb 07 |
+| 728 | 98 | Addi JayKay |
+| 729 | 98 | Tiffany Roberts |
+| 730 | 98 | shonaberry |
+| 731 | 98 | Giggy Blockpiece |
+| 732 | 97 | Blessedmom865 |
 | 733 | 96 | Smiley Wipeblock |
-| 734 | 96 | Scalpel Causes Shambles |
-| 735 | 96 | Bear Bair |
-| 736 | 95 | Hyper Balancepiece |
-| 737 | 95 | Kristen Nicole Depp-Stewart |
-| 738 | 95 | Frisky Pusher |
-| 739 | 95 | Jailen Harper |
-| 740 | 95 | Esmond Johnson IV |
-| 741 | 95 | Christina Barry |
-| 742 | 95 | Taquilla Branch |
-| 743 | 95 | Lovetetris |
-| 744 | 94 | Cranky Twistpiece |
-| 745 | 94 | Reina Pagan |
-| 746 | 94 | Erika Rubio |
-| 747 | 94 | Lala |
-| 748 | 94 | Carlos Amaya |
-| 749 | 94 | Elli Wright |
-| 750 | 93 | Rocky |
-| 751 | 93 | Stefanie Street |
-| 752 | 93 | Joha Mldo Castillo |
-| 753 | 93 | Fancy Riser |
-| 754 | 92 | Autumn Maher |
-| 755 | 92 | REPENT |
-| 756 | 92 | 94Blockhead |
+| 734 | 96 | Bear Bair |
+| 735 | 96 | Tiffany Taylor |
+| 736 | 96 | Scalpel Causes Shambles |
+| 737 | 95 | Taquilla Branch |
+| 738 | 95 | Jailen Harper |
+| 739 | 95 | Christina Barry |
+| 740 | 95 | Kristen Nicole Depp-Stewart |
+| 741 | 95 | Esmond Johnson IV |
+| 742 | 95 | Frisky Pusher |
+| 743 | 95 | Hyper Balancepiece |
+| 744 | 95 | Lovetetris |
+| 745 | 94 | Cranky Twistpiece |
+| 746 | 94 | Reina Pagan |
+| 747 | 94 | Erika Rubio |
+| 748 | 94 | Lala |
+| 749 | 94 | Carlos Amaya |
+| 750 | 94 | Elli Wright |
+| 751 | 93 | Rocky |
+| 752 | 93 | Stefanie Street |
+| 753 | 93 | Joha Mldo Castillo |
+| 754 | 93 | Fancy Riser |
+| 755 | 92 | Autumn Maher |
+| 756 | 92 | REPENT |
 | 757 | 92 | Peterson Cottontail |
-| 758 | 92 | Happy Strikerpiece |
+| 758 | 92 | 94Blockhead |
 | 759 | 92 | ShaniP |
-| 760 | 91 | Giggy Risegrid |
-| 761 | 91 | Michelle Michelle |
-| 762 | 91 | GETBOXED! |
+| 760 | 92 | Happy Strikerpiece |
+| 761 | 91 | Slinky Column |
+| 762 | 91 | Michelle Michelle |
 | 763 | 91 | Lizzzzzz |
-| 764 | 91 | Renzo Tonini |
-| 765 | 91 | Slinky Column |
-| 766 | 90 | JustLessie |
+| 764 | 91 | Giggy Risegrid |
+| 765 | 91 | GETBOXED! |
+| 766 | 91 | Renzo Tonini |
 | 767 | 90 | Dexter Hammond Jr |
 | 768 | 90 | Stephanie Meinhart |
 | 769 | 90 | Christina Williams |
 | 770 | 90 | Tigger |
 | 771 | 90 | Breezy Brickfit |
-| 772 | 89 | Khylee DarDar |
-| 773 | 89 | Allrise99 |
-| 774 | 89 | Marisela Alvarado |
+| 772 | 89 | Bon Jovi |
+| 773 | 89 | Marisela Alvarado |
+| 774 | 89 | J.Wo |
 | 775 | 89 | Alicia |
-| 776 | 89 | Bon Jovi |
-| 777 | 89 | J.Wo |
-| 778 | 88 | Cozy Patternline |
-| 779 | 88 | Happy Toast |
-| 780 | 88 | Kelly Miller Williams |
-| 781 | 88 | CrashOutCarla |
-| 782 | 88 | MrsAddams724 |
-| 783 | 88 | Nikcole Alexis Bryan |
+| 776 | 89 | Khylee DarDar |
+| 777 | 89 | Allrise99 |
+| 778 | 88 | Nikcole Alexis Bryan |
+| 779 | 88 | MrsAddams724 |
+| 780 | 88 | CrashOutCarla |
+| 781 | 88 | Kelly Miller Williams |
+| 782 | 88 | Happy Toast |
+| 783 | 88 | Cozy Patternline |
 | 784 | 88 | Cozy Towerpiece |
 | 785 | 87 | Seraphina |
 | 786 | 87 | Shirley A. Godfrey |
