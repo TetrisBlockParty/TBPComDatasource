@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:42:19 UTC
+# Standings for team4 as of 2026-06-08 12:42:43 UTC
 
 **Total Participants:** 1827
 
@@ -140,8 +140,8 @@
 | 132 | 594 | Daryn Elliott |
 | 133 | 593 | Malik Thompson |
 | 134 | 592 | Sarah Berry Stevens |
-| 135 | 591 | Jewelz |
-| 136 | 584 | Jesse Olive |
+| 135 | 591 | Jesse Olive |
+| 136 | 591 | Jewelz |
 | 137 | 582 | Lisa Garcia |
 | 138 | 581 | Dandy Puzzler |
 | 139 | 573 | Pepone Pepe |

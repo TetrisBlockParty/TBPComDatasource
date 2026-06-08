@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:42:19 UTC
+# Standings for team1 as of 2026-06-08 12:42:43 UTC
 
 **Total Participants:** 1790
 
@@ -1286,59 +1286,59 @@
 | 1278 | 38 | Tiffanie Michelle |
 | 1279 | 38 | Chloe Bankz |
 | 1280 | 38 | ThaMENACING1 |
-| 1281 | 38 | hope |
-| 1282 | 38 | Spicy Tiler |
-| 1283 | 38 | MELLZZtick€T |
-| 1284 | 37 | Kendra KJ Joyner |
-| 1285 | 37 | Lil T |
-| 1286 | 37 | Silly Shatterline |
-| 1287 | 37 | Jb Mzresilience |
-| 1288 | 37 | Spunky Strikerbuilder |
+| 1281 | 38 | Spicy Tiler |
+| 1282 | 38 | MELLZZtick€T |
+| 1283 | 38 | hope |
+| 1284 | 37 | Silly Shatterline |
+| 1285 | 37 | Jb Mzresilience |
+| 1286 | 37 | Spunky Strikerbuilder |
+| 1287 | 37 | Lil T |
+| 1288 | 37 | Kendra KJ Joyner |
 | 1289 | 37 | XYZ |
 | 1290 | 37 | Mighty Riserbuilder |
 | 1291 | 36 | Mazi Johnson |
-| 1292 | 36 | Frilly Lifter |
-| 1293 | 36 | Lively Strikesnap |
+| 1292 | 36 | Tonia Lance |
+| 1293 | 36 | Frilly Lifter |
 | 1294 | 36 | Michael Jones |
-| 1295 | 36 | Tonia Lance |
+| 1295 | 36 | Hannah Hall |
 | 1296 | 36 | Geneva Carter |
-| 1297 | 36 | Hannah Hall |
-| 1298 | 36 | Sherry D Singleton |
-| 1299 | 36 | Zappy Zoney |
-| 1300 | 36 | Sean Walker |
-| 1301 | 36 | Tee4 |
-| 1302 | 35 | Ernie Waters |
-| 1303 | 35 | Nerdy Twistline |
-| 1304 | 35 | Aaron Sohnrey |
-| 1305 | 35 | Sashaleo |
-| 1306 | 35 | Riq Wokhardt |
-| 1307 | 35 | Frilly Glidepiece |
-| 1308 | 35 | Brandy Jaszewski |
-| 1309 | 35 | OG LUCKY |
-| 1310 | 35 | Kerry Meister Rummel |
+| 1297 | 36 | Lively Strikesnap |
+| 1298 | 36 | Tee4 |
+| 1299 | 36 | Sherry D Singleton |
+| 1300 | 36 | Zappy Zoney |
+| 1301 | 36 | Sean Walker |
+| 1302 | 35 | Aaron Sohnrey |
+| 1303 | 35 | Ernie Waters |
+| 1304 | 35 | Riq Wokhardt |
+| 1305 | 35 | Nerdy Twistline |
+| 1306 | 35 | Sashaleo |
+| 1307 | 35 | Charise McGee |
+| 1308 | 35 | Frilly Mover |
+| 1309 | 35 | X6TRAUMA9X |
+| 1310 | 35 | Crafty Link |
 | 1311 | 35 | Margie Toni Corley |
-| 1312 | 35 | Charise McGee |
-| 1313 | 35 | Crafty Link |
-| 1314 | 35 | X6TRAUMA9X |
-| 1315 | 34 | Zayy Wavyy |
-| 1316 | 34 | Jumpy Brickbuilder |
-| 1317 | 34 | Jas |
-| 1318 | 34 | April Lane |
-| 1319 | 34 | Temeshia Brooks Washington |
-| 1320 | 34 | Bouncy Brickroll |
-| 1321 | 34 | Fancy Strikerbuilder |
-| 1322 | 34 | Jeaneé Nay |
-| 1323 | 34 | Jumpy Striker |
-| 1324 | 34 | Lauren |
-| 1325 | 34 | beeutifullll |
+| 1312 | 35 | Kerry Meister Rummel |
+| 1313 | 35 | OG LUCKY |
+| 1314 | 35 | Brandy Jaszewski |
+| 1315 | 35 | Frilly Glidepiece |
+| 1316 | 34 | April Lane |
+| 1317 | 34 | Jumpy Brickbuilder |
+| 1318 | 34 | Jas |
+| 1319 | 34 | Zayy Wavyy |
+| 1320 | 34 | Plucky Clearpiece |
+| 1321 | 34 | Temeshia Brooks Washington |
+| 1322 | 34 | Jeremy Pope |
+| 1323 | 34 | Donnie Withthebody |
+| 1324 | 34 | Alyssa H |
+| 1325 | 34 | Lyn Reed |
 | 1326 | 34 | Danielle Scholfield |
-| 1327 | 34 | Lyn Reed |
-| 1328 | 34 | Alyssa H |
-| 1329 | 34 | Donnie Withthebody |
-| 1330 | 34 | Jeremy Pope |
-| 1331 | 34 | Plucky Clearpiece |
-| 1332 | 33 | Kim Ratcliff Leatherman |
-| 1333 | 33 | Frilly Mover |
+| 1327 | 34 | beeutifullll |
+| 1328 | 34 | Lauren |
+| 1329 | 34 | Jumpy Striker |
+| 1330 | 34 | Jeaneé Nay |
+| 1331 | 34 | Fancy Strikerbuilder |
+| 1332 | 34 | Bouncy Brickroll |
+| 1333 | 33 | Kim Ratcliff Leatherman |
 | 1334 | 33 | Snippy T-spin |
 | 1335 | 33 | Briela Sabrina |
 | 1336 | 33 | Rose Chassé |
