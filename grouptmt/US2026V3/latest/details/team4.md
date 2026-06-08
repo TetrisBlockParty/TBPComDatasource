@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:57:21 UTC
+# Standings for team4 as of 2026-06-08 08:58:20 UTC
 
 **Total Participants:** 1801
 
@@ -16,7 +16,7 @@
 | 8 | 6700 | Candice Driver |
 | 9 | 6401 | BertaF1irta |
 | 10 | 6108 | Kait Confetti |
-| 11 | 5388 | Bubbly Twistpiece |
+| 11 | 5393 | Bubbly Twistpiece |
 | 12 | 5307 | Hasty Builder |
 | 13 | 5180 | Jerald Jones |
 | 14 | 5123 | delilahbelle |
@@ -250,21 +250,21 @@
 | 242 | 290 | Tawna Curry |
 | 243 | 289 | Shepreneur Sade |
 | 244 | 287 | Cheery Risegrid |
-| 245 | 286 | Dubiousdust |
+| 245 | 286 | Erika Seaton |
 | 246 | 286 | Pepper |
-| 247 | 286 | Erika Seaton |
+| 247 | 286 | Dubiousdust |
 | 248 | 285 | Dana Abegil Lawas |
 | 249 | 284 | Tipsy Builderline |
 | 250 | 283 | Tiggerjake |
 | 251 | 282 | Shanna Fragen |
 | 252 | 282 | Goofy Fall |
-| 253 | 281 | Ash Gribble |
-| 254 | 281 | Capone |
-| 255 | 281 | Waxboss |
-| 256 | 281 | Margie Thomas |
+| 253 | 281 | Margie Thomas |
+| 254 | 281 | Waxboss |
+| 255 | 281 | Capone |
+| 256 | 281 | Ash Gribble |
 | 257 | 280 | Sherry Mooney |
-| 258 | 280 | Snippy Splitter |
-| 259 | 280 | Lucy Honer |
+| 258 | 280 | Lucy Honer |
+| 259 | 280 | Snippy Splitter |
 | 260 | 279 | Solace Grace |
 | 261 | 278 | Tamara Triplet |
 | 262 | 277 | Giggly Tilt |
@@ -280,23 +280,23 @@
 | 272 | 263 | Chummy Jumper |
 | 273 | 261 | Brooke Arroyo |
 | 274 | 261 | Renee Sapp |
-| 275 | 260 | Wanda Simmons |
-| 276 | 260 | Silly Risegrid |
+| 275 | 260 | Silly Risegrid |
+| 276 | 260 | Wanda Simmons |
 | 277 | 260 | Troy Zanelli |
-| 278 | 259 | Jessica Peyton |
-| 279 | 259 | Sandra Stark |
+| 278 | 259 | Sandra Stark |
+| 279 | 259 | Jessica Peyton |
 | 280 | 257 | Patrick Alley |
 | 281 | 256 | Jackie Miller |
 | 282 | 255 | Britney Kitora |
 | 283 | 253 | Stasia |
 | 284 | 251 | EL Booger |
-| 285 | 251 | Jenn Norcross |
-| 286 | 251 | Jj Johnson |
+| 285 | 251 | Jj Johnson |
+| 286 | 251 | Jenn Norcross |
 | 287 | 249 | Brennan Shea Greene |
-| 288 | 248 | Becky McCool |
-| 289 | 247 | Shauna Davis |
-| 290 | 247 | Bridget Stevens |
-| 291 | 246 | Tipsy Zonebuilder |
+| 288 | 248 | Tipsy Zonebuilder |
+| 289 | 248 | Becky McCool |
+| 290 | 247 | Shauna Davis |
+| 291 | 247 | Bridget Stevens |
 | 292 | 244 | Queen B |
 | 293 | 244 | Lisa lisa |
 | 294 | 243 | Mark Norton |
@@ -309,16 +309,16 @@
 | 301 | 238 | Tara Delay Hill |
 | 302 | 237 | Jazzy Gridder |
 | 303 | 237 | Deborah Silberg |
-| 304 | 233 | SupaFly |
-| 305 | 233 | Joseph Hunter |
+| 304 | 233 | Joseph Hunter |
+| 305 | 233 | SupaFly |
 | 306 | 232 | Samara Garcia |
 | 307 | 230 | gabs |
-| 308 | 229 | farfromlocal |
-| 309 | 229 | Melika Zeheb |
-| 310 | 228 | Shiny Brick |
-| 311 | 228 | Andrick |
-| 312 | 227 | Stephanie Myers |
-| 313 | 227 | Karen Rodriguez |
+| 308 | 229 | Melika Zeheb |
+| 309 | 229 | farfromlocal |
+| 310 | 228 | Andrick |
+| 311 | 228 | Shiny Brick |
+| 312 | 227 | Karen Rodriguez |
+| 313 | 227 | Stephanie Myers |
 | 314 | 227 | Kimyatta Cavin |
 | 315 | 227 | Jace McCullough |
 | 316 | 226 | Susan Stofberg Beltran |
@@ -635,21 +635,21 @@
 | 627 | 114 | MrLoner Stoner |
 | 628 | 114 | LandO |
 | 629 | 114 | Loretta Hendricks |
-| 630 | 113 | Marina |
-| 631 | 113 | Shaunna Caldwell |
-| 632 | 113 | mikey moo |
+| 630 | 113 | mikey moo |
+| 631 | 113 | Marina |
+| 632 | 113 | Shaunna Caldwell |
 | 633 | 113 | Breezy Wife |
 | 634 | 113 | Melissa Anne |
 | 635 | 113 | Butterfly |
-| 636 | 112 | Khiem Hernandez |
+| 636 | 112 | JustLessie |
 | 637 | 112 | Lolita Nettles |
-| 638 | 112 | medicjessi |
-| 639 | 112 | Candice Sellers Worley |
-| 640 | 111 | JustLessie |
-| 641 | 111 | Mrsjcraw18 |
-| 642 | 111 | Wacky Brick |
-| 643 | 111 | Elena Marí |
-| 644 | 111 | Peachy Piecefit |
+| 638 | 112 | Candice Sellers Worley |
+| 639 | 112 | medicjessi |
+| 640 | 112 | Khiem Hernandez |
+| 641 | 111 | Peachy Piecefit |
+| 642 | 111 | Elena Marí |
+| 643 | 111 | Wacky Brick |
+| 644 | 111 | Mrsjcraw18 |
 | 645 | 111 | Richard Bearse |
 | 646 | 111 | Giggy Bridgepiece |
 | 647 | 110 | Jennifer Brucz |
@@ -861,34 +861,34 @@
 | 853 | 79 | Poptart |
 | 854 | 79 | Groovy Stacker |
 | 855 | 79 | Mone DyTorrion Zyan Lotts |
-| 856 | 79 | Gigi5 |
-| 857 | 78 | Amber Jalbert |
-| 858 | 78 | Ben Figueroa |
-| 859 | 78 | Vlad Rudman |
-| 860 | 78 | Weird Cat |
-| 861 | 78 | Christopher Lindsey |
-| 862 | 78 | Lush Match |
-| 863 | 78 | Zappy Matchgrid |
-| 864 | 78 | Lilo |
-| 865 | 78 | Sandra O'Reilly |
-| 866 | 78 | MsChelleAnn |
-| 867 | 78 | Tbag |
-| 868 | 78 | Joyce Hampton |
-| 869 | 78 | Kennita Cox |
-| 870 | 78 | Kimberly Lusk |
-| 871 | 78 | AVA |
-| 872 | 77 | Manolo Canety |
-| 873 | 77 | Erica Hardwick |
-| 874 | 77 | Monte Smith |
-| 875 | 77 | Lacie Powers |
-| 876 | 77 | Frilly Riserpiece |
-| 877 | 77 | Steven Patshy |
+| 856 | 79 | Joyce Hampton |
+| 857 | 79 | Gigi5 |
+| 858 | 78 | Amber Jalbert |
+| 859 | 78 | Ben Figueroa |
+| 860 | 78 | Vlad Rudman |
+| 861 | 78 | Weird Cat |
+| 862 | 78 | Christopher Lindsey |
+| 863 | 78 | Lush Match |
+| 864 | 78 | Zappy Matchgrid |
+| 865 | 78 | Lilo |
+| 866 | 78 | Sandra O'Reilly |
+| 867 | 78 | MsChelleAnn |
+| 868 | 78 | AVA |
+| 869 | 78 | Kimberly Lusk |
+| 870 | 78 | Tbag |
+| 871 | 78 | Kennita Cox |
+| 872 | 77 | Monte Smith |
+| 873 | 77 | Manolo Canety |
+| 874 | 77 | Steven Patshy |
+| 875 | 77 | Frilly Riserpiece |
+| 876 | 77 | Lacie Powers |
+| 877 | 77 | Erica Hardwick |
 | 878 | 76 | Nicole Ambrose |
-| 879 | 76 | Frisky Balance |
-| 880 | 76 | Mann Manson |
-| 881 | 76 | Patsy |
-| 882 | 76 | Lori Lynn |
-| 883 | 76 | JP Chua |
+| 879 | 76 | Patsy |
+| 880 | 76 | Lori Lynn |
+| 881 | 76 | JP Chua |
+| 882 | 76 | Mann Manson |
+| 883 | 76 | Frisky Balance |
 | 884 | 76 | Jillian Marie |
 | 885 | 76 | Chabetta |
 | 886 | 75 | LaRue Tee |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:57:21 UTC
+# Standings for team1 as of 2026-06-08 08:58:20 UTC
 
 **Total Participants:** 1764
 
@@ -428,9 +428,9 @@
 | 420 | 174 | NewEve |
 | 421 | 174 | ChunLi |
 | 422 | 174 | Dizzy Dashy |
-| 423 | 173 | LuckyStar |
-| 424 | 172 | Kendra McIntyre |
-| 425 | 172 | Rachael R Gull |
+| 423 | 174 | Rachael R Gull |
+| 424 | 173 | LuckyStar |
+| 425 | 172 | Kendra McIntyre |
 | 426 | 171 | Brittany Fells |
 | 427 | 171 | Telisha Mims |
 | 428 | 170 | Hasty Glidezone |
@@ -1404,97 +1404,97 @@
 | 1396 | 26 | Lush Risebuilder |
 | 1397 | 26 | Layla Williams |
 | 1398 | 26 | Laura Long |
-| 1399 | 25 | Latanya Gayle |
-| 1400 | 25 | PennyCandee |
-| 1401 | 25 | Dinky da Don |
+| 1399 | 25 | PennyCandee |
+| 1400 | 25 | BlessedBeauty |
+| 1401 | 25 | Jiff |
 | 1402 | 25 | Talya Richards |
-| 1403 | 25 | BlessedBeauty |
-| 1404 | 25 | Jiff |
-| 1405 | 25 | Amanda Bell |
-| 1406 | 25 | Princess Nevaeh |
-| 1407 | 25 | RossA |
-| 1408 | 25 | Mighty Riserbuilder |
-| 1409 | 25 | Jessie Wallace |
-| 1410 | 24 | Kevin Witdaflute |
-| 1411 | 24 | TanB53 |
-| 1412 | 24 | Null Kim |
-| 1413 | 24 | Beverly Redd-Fountain |
-| 1414 | 24 | David Sk Vaughan Jr. |
-| 1415 | 24 | Silly Matchbuilder |
-| 1416 | 23 | Briela Sabrina |
-| 1417 | 23 | Nicolej |
-| 1418 | 23 | Yellowbone |
-| 1419 | 23 | Tabitha Dupre-Allen |
-| 1420 | 23 | Brave Combofall |
-| 1421 | 23 | smash56! |
-| 1422 | 23 | Vortex Viniq |
-| 1423 | 23 | Genevieve Nieves |
-| 1424 | 23 | Jamie Lea Popp |
-| 1425 | 23 | Desi |
+| 1403 | 25 | Latanya Gayle |
+| 1404 | 25 | Dinky da Don |
+| 1405 | 25 | Mighty Riserbuilder |
+| 1406 | 25 | RossA |
+| 1407 | 25 | Jessie Wallace |
+| 1408 | 25 | Amanda Bell |
+| 1409 | 25 | Princess Nevaeh |
+| 1410 | 24 | Silly Matchbuilder |
+| 1411 | 24 | Null Kim |
+| 1412 | 24 | David Sk Vaughan Jr. |
+| 1413 | 24 | TanB53 |
+| 1414 | 24 | Kevin Witdaflute |
+| 1415 | 24 | Beverly Redd-Fountain |
+| 1416 | 23 | Jamie Lea Popp |
+| 1417 | 23 | Brave Combofall |
+| 1418 | 23 | Tabitha Dupre-Allen |
+| 1419 | 23 | Nicolej |
+| 1420 | 23 | smash56! |
+| 1421 | 23 | Briela Sabrina |
+| 1422 | 23 | Genevieve Nieves |
+| 1423 | 23 | Desi |
+| 1424 | 23 | Yellowbone |
+| 1425 | 23 | Vortex Viniq |
 | 1426 | 23 | Major314 |
-| 1427 | 23 | Livelovelaugh Ward |
-| 1428 | 23 | Crafty Pivoty |
-| 1429 | 23 | Twisty Tilebuilder |
-| 1430 | 23 | Giggleme |
-| 1431 | 23 | Flashy Buildgrid |
-| 1432 | 22 | Chantelle Sweet |
+| 1427 | 23 | Twisty Tilebuilder |
+| 1428 | 23 | Livelovelaugh Ward |
+| 1429 | 23 | Crafty Pivoty |
+| 1430 | 23 | Flashy Buildgrid |
+| 1431 | 23 | Giggleme |
+| 1432 | 22 | Queen Baby 5 |
 | 1433 | 22 | Jazzy Drop |
 | 1434 | 22 | Charisse Johnson |
 | 1435 | 22 | Jhinarra Walker |
-| 1436 | 22 | Queen Baby 5 |
-| 1437 | 22 | ShayePooh |
-| 1438 | 22 | Jennifer Diamond |
+| 1436 | 22 | ShayePooh |
+| 1437 | 22 | Jennifer Diamond |
+| 1438 | 22 | Chantelle Sweet |
 | 1439 | 22 | Brenda Brogden |
-| 1440 | 22 | Chipper Smasher |
-| 1441 | 22 | Lady T |
-| 1442 | 22 | Iván Cedeño |
+| 1440 | 22 | Lady T |
+| 1441 | 22 | Iván Cedeño |
+| 1442 | 22 | Chipper Smasher |
 | 1443 | 22 | Jucee |
-| 1444 | 21 | Kikiness |
-| 1445 | 21 | Boldy Zoner |
-| 1446 | 21 | Sanna Rose |
+| 1444 | 22 | Dapper Balancefit |
+| 1445 | 21 | Kikiness |
+| 1446 | 21 | Boldy Zoner |
 | 1447 | 21 | Frisky Linkblock |
-| 1448 | 21 | Hasaan Jones |
+| 1448 | 21 | Sanna Rose |
 | 1449 | 21 | Nerdy Riser |
 | 1450 | 21 | PuddenPop |
-| 1451 | 21 | Cheeky Wipegrid |
-| 1452 | 21 | Jana Cheek |
-| 1453 | 21 | Nick Stowers |
-| 1454 | 21 | Sonia Nieves |
-| 1455 | 21 | Tim Tim |
-| 1456 | 21 | Brandi M. Boney |
-| 1457 | 21 | J Dot Flo |
-| 1458 | 21 | Madam Suki |
-| 1459 | 21 | Christy |
-| 1460 | 21 | Quirky Spinblock |
-| 1461 | 20 | Melody Means |
-| 1462 | 20 | Peachy Pusher |
+| 1451 | 21 | Hasaan Jones |
+| 1452 | 21 | Cheeky Wipegrid |
+| 1453 | 21 | Brandi M. Boney |
+| 1454 | 21 | Jana Cheek |
+| 1455 | 21 | Nick Stowers |
+| 1456 | 21 | Sonia Nieves |
+| 1457 | 21 | Tim Tim |
+| 1458 | 21 | J Dot Flo |
+| 1459 | 21 | Madam Suki |
+| 1460 | 21 | Christy |
+| 1461 | 21 | Quirky Spinblock |
+| 1462 | 20 | Melody Means |
 | 1463 | 20 | Tiffany Thompson |
-| 1464 | 20 | Cherise Thomas |
+| 1464 | 20 | Peachy Pusher |
 | 1465 | 20 | Anthony Intrabartolo |
-| 1466 | 20 | Bryttani GoingPlaces Latimer |
-| 1467 | 20 | Jeffrey Pierce-Overton |
-| 1468 | 20 | Chummy Clearfit |
-| 1469 | 20 | Anthony D Holmes |
-| 1470 | 20 | Elisha Latimore |
-| 1471 | 20 | POOH |
-| 1472 | 20 | Regina Haygood |
-| 1473 | 20 | Charlean Sims |
-| 1474 | 20 | Nikki Vaughn |
-| 1475 | 20 | Marsha Earl |
-| 1476 | 20 | Tiffany Sherman |
-| 1477 | 20 | Kenneth Hefney |
-| 1478 | 20 | MoneyMac |
-| 1479 | 20 | Breezy Pivoty |
-| 1480 | 20 | Luna Lockwood |
-| 1481 | 20 | Cynthia Potter |
-| 1482 | 20 | Lisa Messerli |
-| 1483 | 20 | jac |
-| 1484 | 20 | Daring Snaplink |
-| 1485 | 20 | Silly Wiper |
-| 1486 | 20 | prela |
-| 1487 | 20 | Chuck Gee |
-| 1488 | 20 | That1Girl |
-| 1489 | 20 | Dapper Balancefit |
+| 1466 | 20 | Cherise Thomas |
+| 1467 | 20 | Bryttani GoingPlaces Latimer |
+| 1468 | 20 | Jeffrey Pierce-Overton |
+| 1469 | 20 | Chummy Clearfit |
+| 1470 | 20 | POOH |
+| 1471 | 20 | Anthony D Holmes |
+| 1472 | 20 | Elisha Latimore |
+| 1473 | 20 | Regina Haygood |
+| 1474 | 20 | Charlean Sims |
+| 1475 | 20 | Nikki Vaughn |
+| 1476 | 20 | Marsha Earl |
+| 1477 | 20 | Tiffany Sherman |
+| 1478 | 20 | Kenneth Hefney |
+| 1479 | 20 | MoneyMac |
+| 1480 | 20 | Breezy Pivoty |
+| 1481 | 20 | Luna Lockwood |
+| 1482 | 20 | Cynthia Potter |
+| 1483 | 20 | Lisa Messerli |
+| 1484 | 20 | jac |
+| 1485 | 20 | Daring Snaplink |
+| 1486 | 20 | Silly Wiper |
+| 1487 | 20 | prela |
+| 1488 | 20 | Chuck Gee |
+| 1489 | 20 | That1Girl |
 | 1490 | 20 | DRIFTER |
 | 1491 | 20 | Skyhigh Scott |
 | 1492 | 20 | Slinky Swipe |
