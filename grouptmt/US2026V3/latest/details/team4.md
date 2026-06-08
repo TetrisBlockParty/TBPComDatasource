@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 17:58:20 UTC
+# Standings for team4 as of 2026-06-08 17:58:43 UTC
 
 **Total Participants:** 1886
 
@@ -116,9 +116,9 @@
 | 108 | 793 | Kim |
 | 109 | 789 | vag1974 |
 | 110 | 788 | Shaina Sharp |
-| 111 | 777 | Irma |
-| 112 | 775 | Shelby |
-| 113 | 765 | Chaz Duncan |
+| 111 | 784 | Chaz Duncan |
+| 112 | 777 | Irma |
+| 113 | 775 | Shelby |
 | 114 | 765 | Ermadette |
 | 115 | 758 | Regina Williams |
 | 116 | 749 | Hairy Snake |
@@ -268,22 +268,22 @@
 | 260 | 326 | Boldy Striker |
 | 261 | 325 | Lucy Honer |
 | 262 | 324 | Slimm |
-| 263 | 323 | Tipsy Zonebuilder |
-| 264 | 323 | zoes |
+| 263 | 323 | zoes |
+| 264 | 323 | Tipsy Zonebuilder |
 | 265 | 322 | Tipsy Builderline |
 | 266 | 321 | Waxboss |
-| 267 | 320 | Brooke Bauer |
-| 268 | 320 | TJ |
+| 267 | 320 | TJ |
+| 268 | 320 | Brooke Bauer |
 | 269 | 318 | Patrick Alley |
-| 270 | 315 | Thomasena Eady Reid |
+| 270 | 315 | Maria Castillo |
 | 271 | 315 | Capone |
-| 272 | 315 | Maria Castillo |
-| 273 | 315 | Spicy Chicken |
-| 274 | 315 | Morgan Stevens |
+| 272 | 315 | Morgan Stevens |
+| 273 | 315 | Thomasena Eady Reid |
+| 274 | 315 | Spicy Chicken |
 | 275 | 314 | Jeremy |
 | 276 | 312 | Breezy Cascadeclear |
-| 277 | 311 | Shanna Fragen |
-| 278 | 311 | JuicyJuice |
+| 277 | 311 | JuicyJuice |
+| 278 | 311 | Shanna Fragen |
 | 279 | 309 | TRUCHILD777$$$ |
 | 280 | 305 | No Time |
 | 281 | 305 | Richard Bearse |
@@ -292,10 +292,10 @@
 | 284 | 300 | Wanda Simmons |
 | 285 | 300 | Saucy Wipepiece |
 | 286 | 299 | Dana Abegil Lawas |
-| 287 | 296 | PerfectPieces |
+| 287 | 296 | Bre Dee |
 | 288 | 296 | beauxie |
-| 289 | 296 | Bre Dee |
-| 290 | 296 | Tawna Curry |
+| 289 | 296 | Tawna Curry |
+| 290 | 296 | PerfectPieces |
 | 291 | 296 | WeeWooWee |
 | 292 | 294 | Solace Grace |
 | 293 | 293 | Joseph Hunter |
@@ -307,16 +307,16 @@
 | 299 | 286 | Dubiousdust |
 | 300 | 286 | Erika Seaton |
 | 301 | 283 | Tiggerjake |
-| 302 | 282 | Troy Zanelli |
-| 303 | 282 | Goofy Fall |
-| 304 | 282 | Homie |
-| 305 | 281 | Margie Thomas |
-| 306 | 278 | Becky McCool |
-| 307 | 278 | Tamara Triplet |
-| 308 | 278 | Cranky Buildout |
-| 309 | 277 | Giggly Tilt |
-| 310 | 276 | Smiley Gridzone |
-| 311 | 275 | Karen Rodriguez |
+| 302 | 283 | Karen Rodriguez |
+| 303 | 282 | Troy Zanelli |
+| 304 | 282 | Goofy Fall |
+| 305 | 282 | Homie |
+| 306 | 281 | Margie Thomas |
+| 307 | 278 | Becky McCool |
+| 308 | 278 | Tamara Triplet |
+| 309 | 278 | Cranky Buildout |
+| 310 | 277 | Giggly Tilt |
+| 311 | 276 | Smiley Gridzone |
 | 312 | 274 | Dominique Melendez |
 | 313 | 273 | Mark Norton |
 | 314 | 271 | Slinky Stackzone |
