@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 23:32:43 UTC
+# Standings for team1 as of 2026-06-08 23:33:21 UTC
 
 **Total Participants:** 1897
 
@@ -53,8 +53,8 @@
 | 45 | 1916 | Janine Hunter |
 | 46 | 1804 | Markeeta Lipscomb |
 | 47 | 1789 | Jolly Dropzone |
-| 48 | 1764 | Jennifer To |
-| 49 | 1761 | Therealdywoune Peay |
+| 48 | 1781 | Therealdywoune Peay |
+| 49 | 1764 | Jennifer To |
 | 50 | 1752 | D'Andra Stewart |
 | 51 | 1732 | Chris Russell |
 | 52 | 1722 | Robyn Caldwell |
@@ -177,8 +177,8 @@
 | 169 | 541 | Michelle Titus |
 | 170 | 538 | Nobles Brandon |
 | 171 | 531 | Abraham Espaillat |
-| 172 | 527 | MommaCia |
-| 173 | 525 | sha |
+| 172 | 528 | sha |
+| 173 | 527 | MommaCia |
 | 174 | 523 | DellaLucretia Thomas |
 | 175 | 521 | IThinkNot |
 | 176 | 520 | Po Marley |
@@ -357,21 +357,21 @@
 | 349 | 278 | izzybella |
 | 350 | 278 | Ann White |
 | 351 | 277 | Hasty Glidezone |
-| 352 | 275 | Tamika Fisher |
-| 353 | 275 | Chris Sladoje |
-| 354 | 275 | Kelli Couture |
-| 355 | 274 | 신재호 |
-| 356 | 274 | Tay |
-| 357 | 273 | Bubbly Piececlear |
-| 358 | 273 | Dacia Hicks |
-| 359 | 270 | Julian Dickens Jr. |
-| 360 | 270 | Jean Regis |
-| 361 | 269 | Stephen Glaze |
-| 362 | 269 | DaGuy |
+| 352 | 276 | DaGuy |
+| 353 | 275 | Tamika Fisher |
+| 354 | 275 | Chris Sladoje |
+| 355 | 275 | Kelli Couture |
+| 356 | 274 | 신재호 |
+| 357 | 274 | Tay |
+| 358 | 273 | Bubbly Piececlear |
+| 359 | 273 | Dacia Hicks |
+| 360 | 270 | Julian Dickens Jr. |
+| 361 | 270 | Jean Regis |
+| 362 | 269 | Stephen Glaze |
 | 363 | 268 | MamushiOh |
 | 364 | 264 | Loopy Block |
-| 365 | 264 | Wild Out Nai |
-| 366 | 264 | Boldy Matchbuilder |
+| 365 | 264 | Boldy Matchbuilder |
+| 366 | 264 | Wild Out Nai |
 | 367 | 260 | Deveda Williams |
 | 368 | 260 | Peppy Towerbuilder |
 | 369 | 260 | Giggy Edgefit |
@@ -521,44 +521,44 @@
 | 513 | 188 | Travis Davison |
 | 514 | 188 | MindlessMic |
 | 515 | 188 | Tyiesha Pie Farmer |
-| 516 | 187 | Jennah |
-| 517 | 187 | Kimmie Gargano |
-| 518 | 186 | Daring Riserfit |
-| 519 | 186 | Shakmar |
-| 520 | 186 | Brittany Sara Heldwein |
-| 521 | 185 | Sarah Swietlicki - Lopez |
-| 522 | 185 | Zappy Snapgrid |
+| 516 | 187 | Kimmie Gargano |
+| 517 | 187 | Jennah |
+| 518 | 186 | Shakmar |
+| 519 | 186 | Brittany Sara Heldwein |
+| 520 | 186 | Daring Riserfit |
+| 521 | 185 | Zappy Snapgrid |
+| 522 | 185 | Sarah Swietlicki - Lopez |
 | 523 | 184 | Dorian Griffin |
 | 524 | 184 | Kelley Johnson |
 | 525 | 184 | Soubletzy |
-| 526 | 183 | Amihan |
-| 527 | 183 | Twisty Cascadeclear |
+| 526 | 183 | Twisty Cascadeclear |
+| 527 | 183 | Douglas Price |
 | 528 | 183 | Erika |
-| 529 | 183 | Douglas Price |
+| 529 | 183 | Amihan |
 | 530 | 183 | Tushama Cheris Okraku |
 | 531 | 183 | Shakuria Cortia Burney |
-| 532 | 182 | Courtney Cicoria |
-| 533 | 182 | Comedian Prince Paul |
+| 532 | 182 | Comedian Prince Paul |
+| 533 | 182 | Courtney Cicoria |
 | 534 | 181 | Mighty Dropper |
 | 535 | 180 | Cornelius Neal |
-| 536 | 180 | Yadira Salgado |
-| 537 | 180 | Larina Cherie Johnson |
+| 536 | 180 | NedaWin |
+| 537 | 180 | Chris Rogers |
 | 538 | 180 | Leavon Smith |
-| 539 | 180 | NedaWin |
-| 540 | 180 | Chris Rogers |
-| 541 | 179 | Lively Riserpiece |
-| 542 | 179 | Giggy Clusterer |
-| 543 | 179 | Loopy Tiler |
-| 544 | 179 | Jimmy Shannon |
-| 545 | 179 | Skippy |
-| 546 | 178 | Dede Tate |
-| 547 | 178 | Shannon Carriger |
+| 539 | 180 | Larina Cherie Johnson |
+| 540 | 180 | Yadira Salgado |
+| 541 | 179 | Skippy |
+| 542 | 179 | Jimmy Shannon |
+| 543 | 179 | Giggy Clusterer |
+| 544 | 179 | Lively Riserpiece |
+| 545 | 179 | Loopy Tiler |
+| 546 | 178 | Shannon Carriger |
+| 547 | 178 | Dede Tate |
 | 548 | 177 | Cece Fowler |
 | 549 | 177 | PSD |
 | 550 | 177 | Tangy Moore |
-| 551 | 176 | Char |
+| 551 | 176 | Squaw Ki Ng |
 | 552 | 176 | Frisky Gridder |
-| 553 | 176 | Squaw Ki Ng |
+| 553 | 176 | Char |
 | 554 | 176 | Darrelle Short |
 | 555 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 556 | 174 | Clipzby |
@@ -571,66 +571,66 @@
 | 563 | 168 | Ashlie Mo |
 | 564 | 167 | Mister Reid |
 | 565 | 167 | Joka NoTime ForHataz |
-| 566 | 166 | Melissa Olvera |
-| 567 | 166 | Twisty Brickfit |
-| 568 | 166 | Sarah Steckbauer |
-| 569 | 165 | Alexandrla Smith |
-| 570 | 165 | Lucy |
+| 566 | 166 | Twisty Brickfit |
+| 567 | 166 | Sarah Steckbauer |
+| 568 | 166 | Melissa Olvera |
+| 569 | 165 | Lucy |
+| 570 | 165 | Alexandrla Smith |
 | 571 | 165 | Betsy B. Yohan |
-| 572 | 164 | Jes Marie |
-| 573 | 164 | Amy Villalpando |
-| 574 | 163 | QueenShay AllGood |
-| 575 | 163 | Heather Wilson |
-| 576 | 163 | Kelvin Cook |
-| 577 | 162 | Speedy Stacky |
-| 578 | 162 | Victor |
-| 579 | 162 | Holly Baker |
-| 580 | 162 | Jessie N Michael Silvers |
+| 572 | 164 | Amy Villalpando |
+| 573 | 164 | Jessie N Michael Silvers |
+| 574 | 164 | Jes Marie |
+| 575 | 163 | Kelvin Cook |
+| 576 | 163 | SweetByNBy |
+| 577 | 163 | Heather Wilson |
+| 578 | 163 | QueenShay AllGood |
+| 579 | 162 | Victor |
+| 580 | 162 | Speedy Stacky |
 | 581 | 162 | Logan Frost |
-| 582 | 161 | RylonJones |
-| 583 | 161 | DaemahnFriday |
-| 584 | 161 | meatballs |
+| 582 | 162 | Holly Baker |
+| 583 | 161 | meatballs |
+| 584 | 161 | RylonJones |
 | 585 | 161 | Devron Reedy |
-| 586 | 160 | Carolyn Smith |
-| 587 | 160 | Spotlight |
-| 588 | 160 | Cheeky Twistpiece |
+| 586 | 161 | DaemahnFriday |
+| 587 | 160 | Cheeky Twistpiece |
+| 588 | 160 | Spotlight |
 | 589 | 160 | Kesha Brady |
-| 590 | 159 | Frances Davis |
-| 591 | 159 | Kyle Conley |
-| 592 | 159 | Tee Spinks |
-| 593 | 159 | Peppy Wipeblock |
+| 590 | 160 | Montego Allen |
+| 591 | 160 | Carolyn Smith |
+| 592 | 159 | Kyle Conley |
+| 593 | 159 | Frances Davis |
 | 594 | 159 | Latore Maxie |
-| 595 | 159 | Montego Allen |
+| 595 | 159 | Tee Spinks |
 | 596 | 159 | Nora Mahmoud |
-| 597 | 158 | Giddy Staggerpiece |
-| 598 | 158 | SnazzyIvy |
+| 597 | 159 | Peppy Wipeblock |
+| 598 | 158 | Seddrick |
 | 599 | 158 | TotoCherue |
-| 600 | 158 | Seddrick |
-| 601 | 157 | Zany Breaker |
-| 602 | 157 | Lilly Brown |
-| 603 | 157 | Chirpy Buildgrid |
-| 604 | 157 | krd |
-| 605 | 156 | Ryan Runyan |
-| 606 | 156 | Casey Chapman |
-| 607 | 156 | Melissa Hershberger |
-| 608 | 156 | Karen Denen |
-| 609 | 156 | Polite Granny |
-| 610 | 156 | Sara |
-| 611 | 156 | Shalya Terry |
-| 612 | 155 | Kala Miller |
+| 600 | 158 | Giddy Staggerpiece |
+| 601 | 158 | SnazzyIvy |
+| 602 | 157 | Chirpy Buildgrid |
+| 603 | 157 | krd |
+| 604 | 157 | Lilly Brown |
+| 605 | 157 | Zany Breaker |
+| 606 | 156 | Polite Granny |
+| 607 | 156 | Casey Chapman |
+| 608 | 156 | Ryan Runyan |
+| 609 | 156 | Shalya Terry |
+| 610 | 156 | Karen Denen |
+| 611 | 156 | Melissa Hershberger |
+| 612 | 156 | Sara |
 | 613 | 155 | MzJuice Box |
 | 614 | 155 | Nerdy Climber |
-| 615 | 155 | Shameka Tiffany |
-| 616 | 154 | Lynn |
-| 617 | 154 | Rebecca Jackson |
-| 618 | 154 | Kp |
+| 615 | 155 | Kala Miller |
+| 616 | 155 | Shameka Tiffany |
+| 617 | 154 | Kp |
+| 618 | 154 | Rebecca Jackson |
 | 619 | 154 | Glitzy Clusterer |
-| 620 | 153 | SweetByNBy |
-| 621 | 152 | Nyhlah Patterson |
-| 622 | 152 | Duncan Timothy |
-| 623 | 152 | Wacky Stackbuilder |
-| 624 | 152 | Yashica Smith |
-| 625 | 152 | Essence Jones |
+| 620 | 154 | Lynn |
+| 621 | 152 | Essence Jones |
+| 622 | 152 | Wacky Stackbuilder |
+| 623 | 152 | Duncan Timothy |
+| 624 | 152 | Nyhlah Patterson |
+| 625 | 152 | Yashica Smith |
 | 626 | 151 | BB |
 | 627 | 151 | Pj Rojas |
 | 628 | 151 | James Bryant II |
