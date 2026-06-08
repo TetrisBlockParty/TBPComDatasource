@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:10:20 UTC
+# Standings for team2 as of 2026-06-08 09:10:44 UTC
 
 **Total Participants:** 2141
 
@@ -27,7 +27,7 @@
 | 19 | 5268 | Ber |
 | 20 | 5150 | boblawboblaw |
 | 21 | 4947 | Lola C Davis |
-| 22 | 4701 | Bobbi |
+| 22 | 4801 | Bobbi |
 | 23 | 4459 | Kathleen M Cox |
 | 24 | 4355 | Alexia Reagan |
 | 25 | 4228 | Erica Dees Parks |
@@ -1478,27 +1478,27 @@
 | 1470 | 40 | Duck |
 | 1471 | 40 | Kimmi Knippel |
 | 1472 | 40 | Michelle |
-| 1473 | 40 | Dapper Pivotfall |
-| 1474 | 40 | Jay Theriault |
-| 1475 | 40 | Tonya Templin Smith |
-| 1476 | 40 | Elicia Lloyd-Zazweta |
-| 1477 | 40 | Lori Rose |
-| 1478 | 40 | Shay Lynn King |
-| 1479 | 40 | Emma Danielle Wynn |
-| 1480 | 40 | Kacey Bates |
-| 1481 | 40 | Ashley Bennett |
-| 1482 | 40 | Kristy Moore |
-| 1483 | 40 | Ariya Colson |
-| 1484 | 40 | Tara Feineis |
-| 1485 | 40 | fancypants |
-| 1486 | 39 | Valerie Roberts |
-| 1487 | 39 | Flynn Flibble |
-| 1488 | 39 | Lindsey Butler |
-| 1489 | 39 | Instak1ll |
-| 1490 | 39 | Slinky Glidezone |
-| 1491 | 39 | Liliana Mills |
-| 1492 | 39 | Renee Garneau Cain |
-| 1493 | 39 | Twisty Tower |
+| 1473 | 40 | Twisty Tower |
+| 1474 | 40 | Dapper Pivotfall |
+| 1475 | 40 | Jay Theriault |
+| 1476 | 40 | Tonya Templin Smith |
+| 1477 | 40 | Elicia Lloyd-Zazweta |
+| 1478 | 40 | Lori Rose |
+| 1479 | 40 | Shay Lynn King |
+| 1480 | 40 | Emma Danielle Wynn |
+| 1481 | 40 | Kacey Bates |
+| 1482 | 40 | Ashley Bennett |
+| 1483 | 40 | Kristy Moore |
+| 1484 | 40 | Ariya Colson |
+| 1485 | 40 | Tara Feineis |
+| 1486 | 40 | fancypants |
+| 1487 | 39 | Valerie Roberts |
+| 1488 | 39 | Flynn Flibble |
+| 1489 | 39 | Lindsey Butler |
+| 1490 | 39 | Instak1ll |
+| 1491 | 39 | Slinky Glidezone |
+| 1492 | 39 | Liliana Mills |
+| 1493 | 39 | Renee Garneau Cain |
 | 1494 | 39 | Pickle |
 | 1495 | 39 | Lively Shatter |
 | 1496 | 39 | Linette Chico |

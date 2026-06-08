@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:10:20 UTC
+# Standings for team1 as of 2026-06-08 09:10:44 UTC
 
 **Total Participants:** 1765
 
@@ -198,8 +198,8 @@
 | 190 | 393 | Sharon Cail |
 | 191 | 389 | GrkGdess |
 | 192 | 389 | Roberta Lynn |
-| 193 | 387 | IThinkNot |
-| 194 | 387 | Crystal Anderson |
+| 193 | 387 | Crystal Anderson |
+| 194 | 387 | IThinkNot |
 | 195 | 386 | Po Marley |
 | 196 | 386 | Chantelle Lee |
 | 197 | 385 | Mic Balew |
@@ -215,8 +215,8 @@
 | 207 | 365 | Tishauna Virgo |
 | 208 | 365 | Marcheta Cervantez |
 | 209 | 364 | Michele Simpson |
-| 210 | 363 | Zippy Tilefall |
-| 211 | 363 | Christina Rebecca |
+| 210 | 363 | Christina Rebecca |
+| 211 | 363 | Zippy Tilefall |
 | 212 | 362 | Jessica Russell |
 | 213 | 361 | John Staub |
 | 214 | 356 | Dedra M Prester |
@@ -230,22 +230,22 @@
 | 222 | 341 | Tremaine Hiler |
 | 223 | 340 | Spicy Risepiece |
 | 224 | 338 | Brand Nu |
-| 225 | 334 | Ashley MyBeauty Daniels |
-| 226 | 333 | Latisha Fairley |
-| 227 | 330 | Davionte DaeDae Hopson-Rodriguez |
-| 228 | 330 | Dennis J Herron II |
-| 229 | 328 | Dion Gray |
-| 230 | 327 | Zachary Colegrove |
-| 231 | 326 | Christopher Dreamsareality McEachin |
-| 232 | 326 | Byron Mario Cawthon |
+| 225 | 334 | Byron Mario Cawthon |
+| 226 | 334 | Ashley MyBeauty Daniels |
+| 227 | 333 | Latisha Fairley |
+| 228 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 229 | 330 | Dennis J Herron II |
+| 230 | 328 | Dion Gray |
+| 231 | 327 | Zachary Colegrove |
+| 232 | 326 | Christopher Dreamsareality McEachin |
 | 233 | 323 | Heather Aurelia |
 | 234 | 323 | Bre Poston |
 | 235 | 322 | Rhonda Williams Warner |
 | 236 | 321 | Qwlonda Shirrell |
 | 237 | 320 | Natasha Rucker |
 | 238 | 320 | NastyFriend |
-| 239 | 318 | Jhonny Maii |
-| 240 | 318 | Nerdy Snapfall |
+| 239 | 318 | Nerdy Snapfall |
+| 240 | 318 | Jhonny Maii |
 | 241 | 318 | Calvin Green |
 | 242 | 317 | Michelle Titus |
 | 243 | 315 | Koi |

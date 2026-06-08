@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:10:20 UTC
+# Standings for team4 as of 2026-06-08 09:10:44 UTC
 
 **Total Participants:** 1802
 
@@ -113,9 +113,9 @@
 | 105 | 731 | GeorgeButts |
 | 106 | 730 | Chaz Duncan |
 | 107 | 727 | Kay |
-| 108 | 718 | Kim |
-| 109 | 715 | Chuck Gannon |
-| 110 | 712 | Esther Hadassah |
+| 108 | 722 | Esther Hadassah |
+| 109 | 718 | Kim |
+| 110 | 715 | Chuck Gannon |
 | 111 | 707 | Snappy Fitzone |
 | 112 | 705 | Dana Fontanez |
 | 113 | 697 | Ermadette |
@@ -585,39 +585,39 @@
 | 577 | 126 | Vanessa Sykes |
 | 578 | 126 | Lisa Pie |
 | 579 | 125 | Corey Jackson |
-| 580 | 125 | Joshua Hunt |
-| 581 | 125 | Nessa Smith |
+| 580 | 125 | Nessa Smith |
+| 581 | 125 | Joshua Hunt |
 | 582 | 125 | Youngkueen |
 | 583 | 124 | Brian Woods |
 | 584 | 124 | Vonni McLean |
 | 585 | 124 | Snappy Stack |
 | 586 | 124 | PsyDMom |
-| 587 | 123 | Tamara Gay |
-| 588 | 123 | Arvin Ortega |
-| 589 | 123 | Sarah Perry Cook |
-| 590 | 123 | Amanda Snow |
-| 591 | 123 | Kari Smith |
-| 592 | 122 | Ian T Parker |
-| 593 | 122 | Csigirlnc |
+| 587 | 123 | Arvin Ortega |
+| 588 | 123 | Sarah Perry Cook |
+| 589 | 123 | Tamara Gay |
+| 590 | 123 | Kari Smith |
+| 591 | 123 | Amanda Snow |
+| 592 | 122 | Csigirlnc |
+| 593 | 122 | Ian T Parker |
 | 594 | 121 | Brandi Sauer |
-| 595 | 121 | Quiles Yaitza |
-| 596 | 121 | Garden Girlie |
-| 597 | 121 | Giggy Snapgrid |
-| 598 | 121 | Fancy Tilefall |
-| 599 | 120 | Anthony Edwards |
-| 600 | 120 | Allysonjo Varela |
-| 601 | 120 | Giddy Basepiece |
+| 595 | 121 | Garden Girlie |
+| 596 | 121 | Giggy Snapgrid |
+| 597 | 121 | Fancy Tilefall |
+| 598 | 121 | Quiles Yaitza |
+| 599 | 120 | Stotty |
+| 600 | 120 | Urplan |
+| 601 | 120 | Glamorous Gracey |
 | 602 | 120 | George Marshburn |
-| 603 | 120 | Jimmy Clark |
-| 604 | 120 | Glamorous Gracey |
-| 605 | 120 | Stotty |
-| 606 | 120 | Urplan |
-| 607 | 120 | Jenn Wilson |
-| 608 | 119 | Electric Storm |
-| 609 | 119 | Brittany Lentz |
-| 610 | 119 | Rhonda Dowling |
-| 611 | 119 | BookwormCate |
-| 612 | 119 | JustLessie |
+| 603 | 120 | Anthony Edwards |
+| 604 | 120 | Jenn Wilson |
+| 605 | 120 | Allysonjo Varela |
+| 606 | 120 | Jimmy Clark |
+| 607 | 120 | Giddy Basepiece |
+| 608 | 120 | JustLessie |
+| 609 | 119 | Electric Storm |
+| 610 | 119 | Brittany Lentz |
+| 611 | 119 | Rhonda Dowling |
+| 612 | 119 | BookwormCate |
 | 613 | 118 | Jacqueline Arce |
 | 614 | 118 | Jennifer Naughton |
 | 615 | 117 | YenSid |
