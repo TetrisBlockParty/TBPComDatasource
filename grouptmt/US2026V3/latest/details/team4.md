@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 05:54:41 UTC
+# Standings for team4 as of 2026-06-08 05:55:20 UTC
 
 **Total Participants:** 1777
 
@@ -64,7 +64,7 @@
 | 56 | 1654 | 626 |
 | 57 | 1501 | Nick Graber |
 | 58 | 1441 | Adam J Leong |
-| 59 | 1393 | Charlie Lewis |
+| 59 | 1395 | Charlie Lewis |
 | 60 | 1270 | Jason Allen |
 | 61 | 1253 | Leah Barnett |
 | 62 | 1245 | Sweet Stacker |
@@ -113,7 +113,7 @@
 | 105 | 715 | Chuck Gannon |
 | 106 | 707 | Snappy Fitzone |
 | 107 | 705 | Dana Fontanez |
-| 108 | 701 | Cherry |
+| 108 | 704 | Cherry |
 | 109 | 697 | Ermadette |
 | 110 | 694 | Kelly Bernard |
 | 111 | 692 | Jeremy Lopez |
@@ -928,35 +928,35 @@
 | 920 | 69 | Patsy |
 | 921 | 69 | Tonia Kay |
 | 922 | 69 | Rebekah Anne Macias |
-| 923 | 69 | Goddatbat |
+| 923 | 69 | Pap337 |
 | 924 | 69 | Alex Dawn |
 | 925 | 69 | Ashley Ferguson |
-| 926 | 68 | Tahira Patrice |
+| 926 | 69 | Goddatbat |
 | 927 | 68 | AVA |
-| 928 | 68 | Curved carrot |
-| 929 | 68 | FUNBAT |
-| 930 | 68 | Keys Tome |
+| 928 | 68 | Phredda Helene Gavornik |
+| 929 | 68 | Bigmamalizzet Latto |
+| 930 | 68 | Kelley Shoop |
 | 931 | 68 | Kelly Kabelac Loomis |
-| 932 | 68 | Kelley Shoop |
-| 933 | 68 | Bigmamalizzet Latto |
-| 934 | 68 | Phredda Helene Gavornik |
-| 935 | 68 | Sweetfire |
-| 936 | 67 | Glittara |
-| 937 | 67 | Tony Clark |
-| 938 | 67 | Wacky Snaplink |
-| 939 | 67 | Goofy Riserbuilder |
-| 940 | 67 | Yournightmare |
-| 941 | 67 | Eric Quan |
-| 942 | 67 | John Cotugno |
-| 943 | 67 | JuicyJay |
-| 944 | 67 | Janna Thompson |
-| 945 | 67 | Snappy Slice |
-| 946 | 67 | Andy Petersen |
-| 947 | 67 | Michael Cruz |
-| 948 | 67 | Pap337 |
+| 932 | 68 | FUNBAT |
+| 933 | 68 | Curved carrot |
+| 934 | 68 | Keys Tome |
+| 935 | 68 | Tahira Patrice |
+| 936 | 68 | Sweetfire |
+| 937 | 67 | Glittara |
+| 938 | 67 | JuicyJay |
+| 939 | 67 | Yournightmare |
+| 940 | 67 | Michael Cruz |
+| 941 | 67 | Wacky Snaplink |
+| 942 | 67 | Tony Clark |
+| 943 | 67 | Andy Petersen |
+| 944 | 67 | Snappy Slice |
+| 945 | 67 | Goofy Riserbuilder |
+| 946 | 67 | Eric Quan |
+| 947 | 67 | Janna Thompson |
+| 948 | 67 | John Cotugno |
 | 949 | 66 | Joyce Hampton |
-| 950 | 66 | Leslie |
-| 951 | 66 | Derrek Lee |
+| 950 | 66 | Derrek Lee |
+| 951 | 66 | Leslie |
 | 952 | 66 | james |
 | 953 | 66 | Scarlett Ashley Clark |
 | 954 | 66 | MattJennifer Marie Ericson |
@@ -1338,45 +1338,45 @@
 | 1330 | 34 | Katy Roman |
 | 1331 | 34 | Yulissa Diaz |
 | 1332 | 34 | Hannah Harkness |
-| 1333 | 33 | Spicy Gridder |
-| 1334 | 33 | Chris |
-| 1335 | 33 | Roxana Romero |
+| 1333 | 33 | Roxana Romero |
+| 1334 | 33 | Spicy Gridder |
+| 1335 | 33 | Chris |
 | 1336 | 33 | Chill Snapclear |
 | 1337 | 33 | BlockFlakes |
 | 1338 | 33 | Tracy Ann Frederick |
 | 1339 | 33 | Baby cat |
 | 1340 | 33 | Samantha LeBlanc |
 | 1341 | 33 | Monica Shupe |
-| 1342 | 32 | Unknown |
-| 1343 | 32 | Wyatt |
-| 1344 | 32 | Holly |
+| 1342 | 33 | Wali Muhammad |
+| 1343 | 32 | Holly |
+| 1344 | 32 | Unknown |
 | 1345 | 32 | Anna Nieves |
-| 1346 | 32 | Boldy Clicky |
-| 1347 | 32 | Erin Randazzo |
-| 1348 | 32 | Wali Muhammad |
-| 1349 | 32 | kellyhyatt |
-| 1350 | 32 | Samantha Salcedo |
+| 1346 | 32 | Wyatt |
+| 1347 | 32 | Boldy Clicky |
+| 1348 | 32 | Erin Randazzo |
+| 1349 | 32 | Samantha Salcedo |
+| 1350 | 32 | kellyhyatt |
 | 1351 | 32 | Rezinbauer Spicer |
 | 1352 | 31 | Steve Swanson |
 | 1353 | 31 | Joshua Doucette |
-| 1354 | 31 | Vanessa Pritchett |
-| 1355 | 31 | Kitty Kat |
+| 1354 | 31 | Kitty Kat |
+| 1355 | 31 | Vanessa Pritchett |
 | 1356 | 31 | Breezy Blockzone |
-| 1357 | 31 | Kristan Hoffman |
-| 1358 | 31 | Abby White |
+| 1357 | 31 | Abby White |
+| 1358 | 31 | Kristan Hoffman |
 | 1359 | 31 | Grace Mariie |
 | 1360 | 31 | Bold Clear |
 | 1361 | 30 | Nick Virgil |
 | 1362 | 30 | Sherri G Davis |
-| 1363 | 30 | Lmg |
-| 1364 | 30 | Spidaman86 |
-| 1365 | 30 | Deanne Silverdahl |
-| 1366 | 30 | Bouncy Clusterline |
+| 1363 | 30 | Spidaman86 |
+| 1364 | 30 | Deanne Silverdahl |
+| 1365 | 30 | Bouncy Clusterline |
+| 1366 | 30 | Lmg |
 | 1367 | 30 | Tesa Mike Jenkins |
 | 1368 | 30 | Nerdy Piecebuilder |
 | 1369 | 30 | Amori85 |
-| 1370 | 30 | MamaaCaashh |
-| 1371 | 30 | Frisky Framezone |
+| 1370 | 30 | Frisky Framezone |
+| 1371 | 30 | MamaaCaashh |
 | 1372 | 30 | Theonei |
 | 1373 | 30 | Dustin Bell |
 | 1374 | 30 | Glitzy Builderline |

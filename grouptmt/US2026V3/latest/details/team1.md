@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:54:41 UTC
+# Standings for team1 as of 2026-06-08 05:55:20 UTC
 
 **Total Participants:** 1734
 
@@ -114,8 +114,8 @@
 | 106 | 720 | No_Other_Choice |
 | 107 | 718 | Jaida King |
 | 108 | 714 | Jason Mungin |
-| 109 | 692 | Chirpy Corner |
-| 110 | 685 | Yolanda E Fergerson |
+| 109 | 714 | Yolanda E Fergerson |
+| 110 | 692 | Chirpy Corner |
 | 111 | 681 | Slinky Puzzler |
 | 112 | 680 | Mimi 1.0 |
 | 113 | 676 | W.A. Simpson |
@@ -296,10 +296,10 @@
 | 288 | 252 | Anthony |
 | 289 | 248 | Mikayla |
 | 290 | 246 | Curtis T Cirno |
-| 291 | 245 | Derrius SeriousLee Burks |
-| 292 | 245 | Tremaine Hiler |
-| 293 | 245 | Kelli Couture |
-| 294 | 245 | MamushiOh |
+| 291 | 246 | MamushiOh |
+| 292 | 245 | Derrius SeriousLee Burks |
+| 293 | 245 | Tremaine Hiler |
+| 294 | 245 | Kelli Couture |
 | 295 | 244 | Dai Bo |
 | 296 | 244 | LaTonya Myers |
 | 297 | 244 | Shameka Thrasher |

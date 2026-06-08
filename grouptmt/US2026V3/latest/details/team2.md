@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 05:54:41 UTC
+# Standings for team2 as of 2026-06-08 05:55:20 UTC
 
 **Total Participants:** 2114
 
@@ -864,38 +864,38 @@
 | 856 | 93 | Kymberlee Rolinski |
 | 857 | 93 | Dawnypooh |
 | 858 | 92 | Ques Pryor |
-| 859 | 92 | Linzy Ratliff |
+| 859 | 92 | Doug Small |
 | 860 | 92 | Buddy |
-| 861 | 92 | Tim Moore |
-| 862 | 92 | Jayda Walters |
-| 863 | 92 | Brandy McCleary |
-| 864 | 92 | Rmk |
-| 865 | 92 | Cody Bohannan |
-| 866 | 92 | Doug Small |
-| 867 | 91 | Laura Anderson |
-| 868 | 91 | Smiley Cornerfall |
-| 869 | 91 | WestieMom |
-| 870 | 91 | Tabitha Ann Bullins-Cobb |
-| 871 | 91 | Hansent3 |
-| 872 | 91 | Lindsey Davidson |
-| 873 | 91 | DNice |
-| 874 | 90 | Giddy Climber |
-| 875 | 90 | Kayla Iverson |
-| 876 | 90 | wutrwerdz |
-| 877 | 90 | Allison Peterson |
-| 878 | 90 | Arik DiLorenzo |
-| 879 | 90 | Nicole Hogue |
-| 880 | 90 | Naomi Jaynes |
-| 881 | 90 | Lacie B |
+| 861 | 92 | Linzy Ratliff |
+| 862 | 92 | Tim Moore |
+| 863 | 92 | Jayda Walters |
+| 864 | 92 | Cody Bohannan |
+| 865 | 92 | Brandy McCleary |
+| 866 | 92 | Rmk |
+| 867 | 91 | Chris Delauro |
+| 868 | 91 | Laura Anderson |
+| 869 | 91 | Smiley Cornerfall |
+| 870 | 91 | WestieMom |
+| 871 | 91 | Tabitha Ann Bullins-Cobb |
+| 872 | 91 | Hansent3 |
+| 873 | 91 | Lindsey Davidson |
+| 874 | 91 | DNice |
+| 875 | 90 | Giddy Climber |
+| 876 | 90 | Kayla Iverson |
+| 877 | 90 | wutrwerdz |
+| 878 | 90 | Nicole Hogue |
+| 879 | 90 | Val |
+| 880 | 90 | Lesley Stoeckle |
+| 881 | 90 | Christina Reid |
 | 882 | 90 | Deena-Neal Peryer |
-| 883 | 90 | Val |
-| 884 | 90 | Christina Reid |
-| 885 | 90 | Lesley Stoeckle |
-| 886 | 89 | Lori Yelvington Cain |
-| 887 | 89 | Grimwitch |
-| 888 | 89 | Jennifer Lewellyn Hutchins |
-| 889 | 89 | Tina Kinney |
-| 890 | 89 | Chris Delauro |
+| 883 | 90 | Lacie B |
+| 884 | 90 | Naomi Jaynes |
+| 885 | 90 | Arik DiLorenzo |
+| 886 | 90 | Allison Peterson |
+| 887 | 89 | Lori Yelvington Cain |
+| 888 | 89 | Grimwitch |
+| 889 | 89 | Jennifer Lewellyn Hutchins |
+| 890 | 89 | Tina Kinney |
 | 891 | 89 | Patrick Woodard |
 | 892 | 89 | Cranky Brickzone |
 | 893 | 89 | Cheryl Graves Downard |
@@ -1283,41 +1283,41 @@
 | 1275 | 53 | Kristen Alta |
 | 1276 | 52 | Chipper Spinzone |
 | 1277 | 52 | Amber Marie Lacey |
-| 1278 | 52 | Dolly |
-| 1279 | 52 | Lisa Rose |
-| 1280 | 52 | Samantha LeBlanc |
-| 1281 | 52 | Daniel Flathers |
-| 1282 | 52 | Amy Renaud |
-| 1283 | 52 | Jolly Balanceblock |
-| 1284 | 52 | Heather Nicole |
-| 1285 | 52 | Chirpy Shiftspin |
-| 1286 | 51 | Stacy Shaunce |
-| 1287 | 51 | Charity Black |
-| 1288 | 51 | Ramona Peña |
-| 1289 | 51 | haihai |
-| 1290 | 51 | Kandy Comer |
-| 1291 | 51 | Baby |
-| 1292 | 51 | Brian Giddens |
-| 1293 | 51 | Staci Carl |
-| 1294 | 51 | Armordguy |
-| 1295 | 51 | Loopy Zone |
-| 1296 | 51 | Snazzy Clusterfit |
-| 1297 | 51 | Jess |
-| 1298 | 51 | Tiffany Heether |
-| 1299 | 51 | Daring Blockline |
-| 1300 | 50 | Jennifer Wymer |
-| 1301 | 50 | Jami Borges |
-| 1302 | 50 | Whitt |
-| 1303 | 50 | Breanna Dykes |
+| 1278 | 52 | Breanna Dykes |
+| 1279 | 52 | Dolly |
+| 1280 | 52 | Lisa Rose |
+| 1281 | 52 | Samantha LeBlanc |
+| 1282 | 52 | Daniel Flathers |
+| 1283 | 52 | Amy Renaud |
+| 1284 | 52 | Jolly Balanceblock |
+| 1285 | 52 | Heather Nicole |
+| 1286 | 52 | Chirpy Shiftspin |
+| 1287 | 51 | Stacy Shaunce |
+| 1288 | 51 | Charity Black |
+| 1289 | 51 | Ramona Peña |
+| 1290 | 51 | haihai |
+| 1291 | 51 | Kandy Comer |
+| 1292 | 51 | Baby |
+| 1293 | 51 | Brian Giddens |
+| 1294 | 51 | Staci Carl |
+| 1295 | 51 | Armordguy |
+| 1296 | 51 | Loopy Zone |
+| 1297 | 51 | Snazzy Clusterfit |
+| 1298 | 51 | Jess |
+| 1299 | 51 | Tiffany Heether |
+| 1300 | 51 | Daring Blockline |
+| 1301 | 50 | Lakeisha Ryder |
+| 1302 | 50 | Jami Borges |
+| 1303 | 50 | Whitt |
 | 1304 | 50 | Michael James |
-| 1305 | 50 | Jenna Thorn |
-| 1306 | 50 | Goob277 |
-| 1307 | 50 | Tabitha Palen |
-| 1308 | 50 | Steve Appel |
-| 1309 | 50 | Timone907 |
-| 1310 | 50 | Brittany Nichole Ellenburg |
+| 1305 | 50 | Brittany Nichole Ellenburg |
+| 1306 | 50 | Jenna Thorn |
+| 1307 | 50 | Goob277 |
+| 1308 | 50 | Tabitha Palen |
+| 1309 | 50 | Steve Appel |
+| 1310 | 50 | Timone907 |
 | 1311 | 50 | Christina Michelle Wilson |
-| 1312 | 50 | Lakeisha Ryder |
+| 1312 | 50 | Jennifer Wymer |
 | 1313 | 50 | himesamayuki77 |
 | 1314 | 50 | Tessa Kalili |
 | 1315 | 50 | Kay |
@@ -1534,10 +1534,10 @@
 | 1526 | 35 | Daring Pivotfall |
 | 1527 | 35 | Amanda |
 | 1528 | 35 | Isiwin |
-| 1529 | 34 | Twisty Snapmatch |
-| 1530 | 34 | Jennifer M Mitchell |
-| 1531 | 34 | Marlo Perry |
-| 1532 | 34 | Milwaukee Area Cleaning |
+| 1529 | 35 | Milwaukee Area Cleaning |
+| 1530 | 34 | Twisty Snapmatch |
+| 1531 | 34 | Jennifer M Mitchell |
+| 1532 | 34 | Marlo Perry |
 | 1533 | 34 | Lori Whitman |
 | 1534 | 34 | Josimarie Otero |
 | 1535 | 34 | Jager |
