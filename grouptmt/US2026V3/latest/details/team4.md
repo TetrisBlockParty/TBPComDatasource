@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 21:20:43 UTC
+# Standings for team4 as of 2026-06-08 21:21:21 UTC
 
 **Total Participants:** 1926
 
@@ -143,9 +143,9 @@
 | 135 | 692 | Jeremy Lopez |
 | 136 | 684 | Melissa WC |
 | 137 | 684 | Caitlyn Wang |
-| 138 | 677 | Dandy Clearfit |
-| 139 | 676 | Jesse Olive |
-| 140 | 670 | CJ |
+| 138 | 681 | CJ |
+| 139 | 677 | Dandy Clearfit |
+| 140 | 676 | Jesse Olive |
 | 141 | 665 | iiPurgeV2 |
 | 142 | 665 | Kristen Wallace |
 | 143 | 653 | Gorica Prusina |
@@ -747,12 +747,12 @@
 | 739 | 120 | Mann Manson |
 | 740 | 120 | Jenn Wilson |
 | 741 | 120 | Freddy-B |
-| 742 | 119 | Electric Storm |
-| 743 | 119 | Daffney Starr |
+| 742 | 119 | Daffney Starr |
+| 743 | 119 | Electric Storm |
 | 744 | 118 | Jennifer Naughton |
-| 745 | 118 | Sadeha Simpson |
-| 746 | 118 | Rin |
-| 747 | 118 | Leasa Marie |
+| 745 | 118 | Leasa Marie |
+| 746 | 118 | Sadeha Simpson |
+| 747 | 118 | Rin |
 | 748 | 118 | Jacqueline Arce |
 | 749 | 118 | KingCas |
 | 750 | 118 | Lisa Ferriero-Daudin |
@@ -768,9 +768,9 @@
 | 760 | 115 | ButterfliesRFree |
 | 761 | 115 | Dinah Mccall |
 | 762 | 115 | chuck |
-| 763 | 115 | Jasmine Turner |
+| 763 | 115 | Giggy Bridgepiece |
 | 764 | 115 | Hooti Smile |
-| 765 | 115 | Giggy Bridgepiece |
+| 765 | 115 | Jasmine Turner |
 | 766 | 114 | Tammy Wells |
 | 767 | 114 | Emjae Tupaz-Rivera |
 | 768 | 114 | Khiem Hernandez |
@@ -793,76 +793,76 @@
 | 785 | 111 | Elena Marí |
 | 786 | 111 | Peachy Piecefit |
 | 787 | 111 | Abby Waterman |
-| 788 | 110 | Clever Brickzone |
-| 789 | 110 | Slinky Snapfit |
-| 790 | 110 | Breezy Brickline |
-| 791 | 110 | Zappy Tilemaker |
-| 792 | 110 | Fancy Rollfit |
-| 793 | 109 | Breezy Blockzone |
-| 794 | 109 | Frisky Blocker |
-| 795 | 109 | idk240 |
-| 796 | 109 | Tiffany Roberts |
-| 797 | 108 | Cozy Patternline |
-| 798 | 108 | Miranda Brown |
-| 799 | 108 | Happy Puzzle |
-| 800 | 108 | Suzi Smas |
-| 801 | 108 | sierrabeth |
-| 802 | 107 | Jeni |
-| 803 | 107 | ManOfSteel |
-| 804 | 107 | GingaNinja |
-| 805 | 107 | Kaela Ferguson |
-| 806 | 107 | Lori A Hamann |
-| 807 | 107 | Hilarie Detweiler |
-| 808 | 106 | Helen Bradley |
-| 809 | 106 | Charlene Nicole Guidry |
-| 810 | 105 | Kendall Rhodie |
-| 811 | 105 | Surviving Be Back Soon |
-| 812 | 105 | Christina Barry |
-| 813 | 105 | Nerdy Brickster |
-| 814 | 105 | Debby Muniz |
-| 815 | 105 | Jailen Harper |
-| 816 | 105 | Mar Mar |
-| 817 | 104 | Toria |
-| 818 | 104 | Goofy Riserbuilder |
-| 819 | 103 | Honey Honey |
-| 820 | 103 | Hayze |
-| 821 | 103 | Sandra O'Reilly |
-| 822 | 103 | Courtney Niichole |
-| 823 | 102 | Clever Fallzone |
-| 824 | 102 | Taisha Beasley |
-| 825 | 102 | Cail |
-| 826 | 102 | Chabetta |
-| 827 | 102 | Darren Miguel |
-| 828 | 102 | Monkey |
-| 829 | 102 | Frilly Riserpiece |
-| 830 | 101 | Kenyatta Davis |
-| 831 | 101 | Scot Matthew Bergdorf |
-| 832 | 101 | Misty Harland |
+| 788 | 110 | Mar Mar |
+| 789 | 110 | Clever Brickzone |
+| 790 | 110 | Slinky Snapfit |
+| 791 | 110 | Breezy Brickline |
+| 792 | 110 | Zappy Tilemaker |
+| 793 | 110 | Fancy Rollfit |
+| 794 | 109 | Breezy Blockzone |
+| 795 | 109 | Tiffany Roberts |
+| 796 | 109 | idk240 |
+| 797 | 109 | Frisky Blocker |
+| 798 | 108 | Cozy Patternline |
+| 799 | 108 | Miranda Brown |
+| 800 | 108 | Happy Puzzle |
+| 801 | 108 | Suzi Smas |
+| 802 | 108 | sierrabeth |
+| 803 | 107 | Jeni |
+| 804 | 107 | Loyalty83 |
+| 805 | 107 | ManOfSteel |
+| 806 | 107 | GingaNinja |
+| 807 | 107 | Kaela Ferguson |
+| 808 | 107 | Lori A Hamann |
+| 809 | 107 | Hilarie Detweiler |
+| 810 | 106 | Helen Bradley |
+| 811 | 106 | Charlene Nicole Guidry |
+| 812 | 105 | Kendall Rhodie |
+| 813 | 105 | Surviving Be Back Soon |
+| 814 | 105 | Christina Barry |
+| 815 | 105 | Nerdy Brickster |
+| 816 | 105 | Debby Muniz |
+| 817 | 105 | Jailen Harper |
+| 818 | 104 | Toria |
+| 819 | 104 | Goofy Riserbuilder |
+| 820 | 103 | Honey Honey |
+| 821 | 103 | Hayze |
+| 822 | 103 | Sandra O'Reilly |
+| 823 | 103 | Courtney Niichole |
+| 824 | 102 | Cail |
+| 825 | 102 | Darren Miguel |
+| 826 | 102 | Monkey |
+| 827 | 102 | Chabetta |
+| 828 | 102 | Clever Fallzone |
+| 829 | 102 | Taisha Beasley |
+| 830 | 102 | Frilly Riserpiece |
+| 831 | 101 | Kenyatta Davis |
+| 832 | 101 | Scot Matthew Bergdorf |
 | 833 | 101 | SueSally |
-| 834 | 101 | Miguel Teixeira |
+| 834 | 101 | Misty Harland |
 | 835 | 101 | Alaina Rousseau |
-| 836 | 101 | Audrianna Skaff |
-| 837 | 100 | CorieBe |
+| 836 | 101 | Miguel Teixeira |
+| 837 | 101 | Audrianna Skaff |
 | 838 | 100 | Kristal |
-| 839 | 100 | Funky Rollzone |
-| 840 | 100 | Nova Kain |
-| 841 | 100 | Aleta Svitak |
-| 842 | 100 | Chelsea Costa |
-| 843 | 100 | Mike Zec II |
-| 844 | 100 | Jay Keating |
-| 845 | 100 | Heather Garrity |
-| 846 | 100 | Kiara Itzel Crowe |
-| 847 | 99 | Dandy Linkgrid |
-| 848 | 99 | Shannon Foster |
-| 849 | 99 | Rebekah Anne Macias |
-| 850 | 99 | Funky Twistpiece |
-| 851 | 99 | Dru Lui |
-| 852 | 99 | Nikcole Alexis Bryan |
-| 853 | 99 | Loyalty83 |
-| 854 | 99 | Tamika Ashli Bonner |
-| 855 | 99 | Ricardo Arias |
-| 856 | 99 | Elizabeth Putansu |
-| 857 | 99 | Frisky Balance |
+| 839 | 100 | CorieBe |
+| 840 | 100 | Funky Rollzone |
+| 841 | 100 | Nova Kain |
+| 842 | 100 | Aleta Svitak |
+| 843 | 100 | Chelsea Costa |
+| 844 | 100 | Mike Zec II |
+| 845 | 100 | Jay Keating |
+| 846 | 100 | Heather Garrity |
+| 847 | 100 | Kiara Itzel Crowe |
+| 848 | 99 | Dandy Linkgrid |
+| 849 | 99 | Shannon Foster |
+| 850 | 99 | Rebekah Anne Macias |
+| 851 | 99 | Frisky Balance |
+| 852 | 99 | Dru Lui |
+| 853 | 99 | Nikcole Alexis Bryan |
+| 854 | 99 | Funky Twistpiece |
+| 855 | 99 | Elizabeth Putansu |
+| 856 | 99 | Tamika Ashli Bonner |
+| 857 | 99 | Ricardo Arias |
 | 858 | 98 | Giggy Blockpiece |
 | 859 | 98 | Daring Towerer |
 | 860 | 98 | Cozy Towerpiece |
@@ -873,10 +873,10 @@
 | 865 | 97 | Skylar Durk |
 | 866 | 97 | Blessedmom865 |
 | 867 | 97 | Limbo |
-| 868 | 96 | Perky Balanceblock |
-| 869 | 96 | Tiffany Taylor |
-| 870 | 96 | Scalpel Causes Shambles |
-| 871 | 96 | Smiley Wipeblock |
+| 868 | 96 | Tiffany Taylor |
+| 869 | 96 | Perky Balanceblock |
+| 870 | 96 | Smiley Wipeblock |
+| 871 | 96 | Scalpel Causes Shambles |
 | 872 | 96 | Bear Bair |
 | 873 | 95 | Acyndra Cain |
 | 874 | 95 | Ilia Blake |
@@ -888,8 +888,8 @@
 | 880 | 95 | Frisky Pusher |
 | 881 | 95 | Hotstuff |
 | 882 | 95 | Sweetfire |
-| 883 | 94 | Reina Pagan |
-| 884 | 94 | Cranky Twistpiece |
+| 883 | 94 | Cranky Twistpiece |
+| 884 | 94 | Reina Pagan |
 | 885 | 94 | Lilo |
 | 886 | 94 | Mrs.J2013 |
 | 887 | 94 | Lala |
