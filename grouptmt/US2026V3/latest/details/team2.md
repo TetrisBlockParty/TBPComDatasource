@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 13:52:19 UTC
+# Standings for team2 as of 2026-06-08 13:52:41 UTC
 
 **Total Participants:** 2177
 
@@ -116,17 +116,17 @@
 | 108 | 1000 | Sydney Headley |
 | 109 | 988 | Dane Marko |
 | 110 | 978 | Renee Freeman Jacobson |
-| 111 | 971 | Shea |
-| 112 | 969 | Jef Wassom |
-| 113 | 966 | Allison Jarman |
-| 114 | 963 | Erin Thomas |
-| 115 | 934 | Jason Cook |
-| 116 | 929 | Marquetta Johnson |
-| 117 | 922 | Amber Triguero |
-| 118 | 904 | Sarah Griffey |
-| 119 | 900 | Deborah Boyce Minor |
-| 120 | 899 | Marie Luciano |
-| 121 | 894 | Ricardo Ewart |
+| 111 | 974 | Ricardo Ewart |
+| 112 | 971 | Shea |
+| 113 | 969 | Jef Wassom |
+| 114 | 966 | Allison Jarman |
+| 115 | 963 | Erin Thomas |
+| 116 | 934 | Jason Cook |
+| 117 | 929 | Marquetta Johnson |
+| 118 | 922 | Amber Triguero |
+| 119 | 904 | Sarah Griffey |
+| 120 | 900 | Deborah Boyce Minor |
+| 121 | 899 | Marie Luciano |
 | 122 | 854 | Amber Miller Wirick |
 | 123 | 853 | Sedy |
 | 124 | 849 | Brandi Thompson |
@@ -270,12 +270,12 @@
 | 262 | 379 | Adriana Daniela Agapie |
 | 263 | 376 | Traci Abern |
 | 264 | 376 | Chill Line |
-| 265 | 375 | Brittni Lawrence |
-| 266 | 375 | Branden Frankowski |
-| 267 | 373 | Hoppy Mover |
-| 268 | 367 | Tami Kay Williams Watson |
-| 269 | 367 | Julie Renee Bertram |
-| 270 | 365 | Kevin Mccoy |
+| 265 | 375 | Kevin Mccoy |
+| 266 | 375 | Brittni Lawrence |
+| 267 | 375 | Branden Frankowski |
+| 268 | 373 | Hoppy Mover |
+| 269 | 367 | Tami Kay Williams Watson |
+| 270 | 367 | Julie Renee Bertram |
 | 271 | 365 | Ratchet |
 | 272 | 362 | Hypee |
 | 273 | 360 | Jamin |
@@ -286,24 +286,24 @@
 | 278 | 354 | Queen |
 | 279 | 354 | Sabrina Hardrick |
 | 280 | 353 | SEH |
-| 281 | 350 | Marge Cromer |
-| 282 | 350 | Loopy Dropper |
+| 281 | 350 | Loopy Dropper |
+| 282 | 350 | Marge Cromer |
 | 283 | 349 | Spicy Basepiece |
 | 284 | 347 | Jessica Lynn |
 | 285 | 346 | Flashy Hitter |
 | 286 | 344 | DayDreamer79 |
 | 287 | 343 | Jimmy Francis Shasta Bambi |
 | 288 | 342 | Vistabrat |
-| 289 | 340 | Chipper Stackbuilder |
-| 290 | 340 | Tony Medina |
+| 289 | 340 | Tony Medina |
+| 290 | 340 | Chipper Stackbuilder |
 | 291 | 340 | missat |
 | 292 | 339 | Keri Mears |
 | 293 | 338 | Amie Marks |
 | 294 | 337 | Nathan Walker |
 | 295 | 337 | Ashley Billiot Rhodes |
 | 296 | 333 | Joanna Trevin Thompson |
-| 297 | 331 | Shannon Wilson |
-| 298 | 331 | Anthony Swift |
+| 297 | 331 | Anthony Swift |
+| 298 | 331 | Shannon Wilson |
 | 299 | 328 | Xandrea Jones |
 | 300 | 328 | Tim Tim |
 | 301 | 328 | Kay |
@@ -352,16 +352,16 @@
 | 344 | 288 | Giggly Wipepiece |
 | 345 | 286 | Kathy Strickland |
 | 346 | 285 | Boldy Wobbler |
-| 347 | 283 | Jerry L Morales |
-| 348 | 283 | Ariel Gundersen |
-| 349 | 283 | Buffy Diane Blake |
-| 350 | 283 | Hilliary Beyer |
-| 351 | 281 | AndrewandShela Gornik |
-| 352 | 280 | August Christy Lathrop |
-| 353 | 279 | Curly Windbreaker |
-| 354 | 278 | Amy Nicole McCanne |
-| 355 | 276 | Bianca Woodruff |
-| 356 | 276 | Jenny |
+| 347 | 285 | Jenny |
+| 348 | 283 | Jerry L Morales |
+| 349 | 283 | Ariel Gundersen |
+| 350 | 283 | Buffy Diane Blake |
+| 351 | 283 | Hilliary Beyer |
+| 352 | 281 | AndrewandShela Gornik |
+| 353 | 280 | August Christy Lathrop |
+| 354 | 279 | Curly Windbreaker |
+| 355 | 278 | Amy Nicole McCanne |
+| 356 | 276 | Bianca Woodruff |
 | 357 | 273 | Jill Goff |
 | 358 | 273 | Nicole Good |
 | 359 | 271 | Ashley Voelz |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 13:52:19 UTC
+# Standings for team4 as of 2026-06-08 13:52:41 UTC
 
 **Total Participants:** 1839
 
@@ -157,9 +157,9 @@
 | 149 | 525 | HurkleDurkle88 |
 | 150 | 521 | Misty Leigh |
 | 151 | 520 | DexterDobbins |
-| 152 | 516 | Shocinda Sherwood |
-| 153 | 511 | Real Talk Vibes |
-| 154 | 510 | Katie Martin |
+| 152 | 520 | Katie Martin |
+| 153 | 516 | Shocinda Sherwood |
+| 154 | 511 | Real Talk Vibes |
 | 155 | 509 | Wendy Zentz |
 | 156 | 496 | Jackie Jackson |
 | 157 | 494 | Yesenia Castro Monreal |
@@ -802,25 +802,25 @@
 | 794 | 94 | Elli Wright |
 | 795 | 94 | Lala |
 | 796 | 94 | Erika Rubio |
-| 797 | 94 | Theo Stamps |
-| 798 | 94 | Carlos Amaya |
+| 797 | 94 | Carlos Amaya |
+| 798 | 94 | Theo Stamps |
 | 799 | 94 | Mari Isaac |
-| 800 | 93 | Fancy Riser |
-| 801 | 93 | Joha Mldo Castillo |
-| 802 | 93 | Rocky |
-| 803 | 93 | Stefanie Street |
-| 804 | 92 | 94Blockhead |
-| 805 | 92 | Peterson Cottontail |
-| 806 | 92 | REPENT |
-| 807 | 92 | ShaniP |
-| 808 | 92 | Happy Strikerpiece |
+| 800 | 93 | Stefanie Street |
+| 801 | 93 | Misty Harland |
+| 802 | 93 | Fancy Riser |
+| 803 | 93 | Rocky |
+| 804 | 93 | Joha Mldo Castillo |
+| 805 | 92 | Happy Strikerpiece |
+| 806 | 92 | ShaniP |
+| 807 | 92 | REPENT |
+| 808 | 92 | Peterson Cottontail |
 | 809 | 92 | Autumn Maher |
-| 810 | 91 | Mann Manson |
+| 810 | 92 | 94Blockhead |
 | 811 | 91 | Giggy Risegrid |
-| 812 | 91 | Michelle Michelle |
-| 813 | 91 | Misty Harland |
-| 814 | 90 | Leslie |
-| 815 | 90 | Snappy Glidebuilder |
+| 812 | 91 | Mann Manson |
+| 813 | 91 | Michelle Michelle |
+| 814 | 90 | Snappy Glidebuilder |
+| 815 | 90 | Leslie |
 | 816 | 90 | Nancy McCalla Abercrombie |
 | 817 | 90 | Dexter Hammond Jr |
 | 818 | 90 | Tigger |
@@ -1083,73 +1083,73 @@
 | 1075 | 60 | Gingerale<3 |
 | 1076 | 60 | Gualberto Ramirez |
 | 1077 | 60 | Jessica Kelly |
-| 1078 | 60 | Tipsy Curvetile |
-| 1079 | 60 | Sha Ta Nay Mitchell |
-| 1080 | 60 | Charissa W Walton |
-| 1081 | 60 | Tesa Mike Jenkins |
-| 1082 | 60 | Brett |
-| 1083 | 60 | Dsay Yates |
-| 1084 | 60 | Deanne Silverdahl |
-| 1085 | 60 | Koren Heersink |
-| 1086 | 60 | Tommy Thomas |
-| 1087 | 60 | Acyndra Cain |
-| 1088 | 60 | Laryssia Taylor |
+| 1078 | 60 | Sha Ta Nay Mitchell |
+| 1079 | 60 | Tipsy Curvetile |
+| 1080 | 60 | Brett |
+| 1081 | 60 | Koren Heersink |
+| 1082 | 60 | Charissa W Walton |
+| 1083 | 60 | Tesa Mike Jenkins |
+| 1084 | 60 | Dsay Yates |
+| 1085 | 60 | Deanne Silverdahl |
+| 1086 | 60 | Laryssia Taylor |
+| 1087 | 60 | Tommy Thomas |
+| 1088 | 60 | Acyndra Cain |
 | 1089 | 60 | Brittany LeGros |
 | 1090 | 60 | Sherri G Davis |
 | 1091 | 60 | Lemus |
 | 1092 | 59 | Sandy Daye |
 | 1093 | 59 | Snippy Fitblock |
-| 1094 | 59 | Beezy |
-| 1095 | 59 | Krushie |
-| 1096 | 59 | Blessedmama |
+| 1094 | 59 | Joshua Powers |
+| 1095 | 59 | Gwendolyn Langwinski |
+| 1096 | 59 | Krushie |
 | 1097 | 59 | Ash |
-| 1098 | 59 | Gwendolyn Langwinski |
-| 1099 | 59 | Jonathan Jackson |
-| 1100 | 59 | Tammy Lasseigne |
-| 1101 | 59 | Joshua Powers |
-| 1102 | 59 | Denisha Schinell Boyd |
-| 1103 | 58 | FuzzyBunny |
-| 1104 | 58 | Ashley McGeehan |
-| 1105 | 58 | Bold Snapper |
-| 1106 | 58 | Jessica Sanchez |
+| 1098 | 59 | CRsLady |
+| 1099 | 59 | Tammy Lasseigne |
+| 1100 | 59 | Denisha Schinell Boyd |
+| 1101 | 59 | Jonathan Jackson |
+| 1102 | 59 | Blessedmama |
+| 1103 | 59 | Beezy |
+| 1104 | 58 | Bold Snapper |
+| 1105 | 58 | Jessica Sanchez |
+| 1106 | 58 | FuzzyBunny |
 | 1107 | 58 | Yaya Selbor |
 | 1108 | 58 | Kalisha Monique Wright |
-| 1109 | 58 | -daiko |
-| 1110 | 58 | LynDee Danielle Hankins |
-| 1111 | 58 | Matt Akm |
-| 1112 | 57 | Melissa Rathbun |
-| 1113 | 57 | Momma Boss |
-| 1114 | 57 | Speedy Brick |
-| 1115 | 57 | Budda Huitt |
-| 1116 | 57 | Heather Hilferty |
-| 1117 | 57 | Волна Бог |
-| 1118 | 57 | Savage |
+| 1109 | 58 | Ashley McGeehan |
+| 1110 | 58 | -daiko |
+| 1111 | 58 | LynDee Danielle Hankins |
+| 1112 | 58 | Matt Akm |
+| 1113 | 57 | Melissa Rathbun |
+| 1114 | 57 | Momma Boss |
+| 1115 | 57 | Speedy Brick |
+| 1116 | 57 | Budda Huitt |
+| 1117 | 57 | Brandi Gray |
+| 1118 | 57 | Clever Shuffler |
 | 1119 | 57 | Lateasha Wildman |
-| 1120 | 57 | Brandi Gray |
+| 1120 | 57 | PapaB |
 | 1121 | 57 | Meela Abdurrab |
-| 1122 | 57 | PapaB |
-| 1123 | 57 | Clever Shuffler |
-| 1124 | 56 | BigCup ReeseCup |
-| 1125 | 56 | TSM Ballsniffer |
-| 1126 | 56 | Krystalclear |
+| 1122 | 57 | Heather Hilferty |
+| 1123 | 57 | Волна Бог |
+| 1124 | 57 | Savage |
+| 1125 | 56 | Krystalclear |
+| 1126 | 56 | BigCup ReeseCup |
 | 1127 | 56 | Crystal Morrin |
-| 1128 | 56 | Jessica Armistead |
-| 1129 | 56 | bribop |
-| 1130 | 56 | Speedy Twistslam |
-| 1131 | 55 | Carmen Angelica Sosa |
-| 1132 | 55 | Lizette Chaires |
-| 1133 | 55 | Hasty Slamdrop |
+| 1128 | 56 | TSM Ballsniffer |
+| 1129 | 56 | Jessica Armistead |
+| 1130 | 56 | bribop |
+| 1131 | 56 | Speedy Twistslam |
+| 1132 | 55 | Carmen Angelica Sosa |
+| 1133 | 55 | Lizette Chaires |
 | 1134 | 55 | James James |
-| 1135 | 55 | PL GR |
+| 1135 | 55 | Hasty Slamdrop |
 | 1136 | 55 | rick mase |
-| 1137 | 55 | The Jazziest |
-| 1138 | 55 | Melissa Wilson |
+| 1137 | 55 | PL GR |
+| 1138 | 55 | The Jazziest |
 | 1139 | 55 | Bee |
-| 1140 | 54 | Elise Ann |
-| 1141 | 54 | CRsLady |
-| 1142 | 54 | Felicia Harrison |
-| 1143 | 54 | Poppy Glider |
-| 1144 | 54 | Michelle Wiles |
+| 1140 | 55 | Melissa Wilson |
+| 1141 | 54 | Michelle Wiles |
+| 1142 | 54 | Elise Ann |
+| 1143 | 54 | Felicia Harrison |
+| 1144 | 54 | Poppy Glider |
 | 1145 | 54 | Amber Arnold |
 | 1146 | 54 | Hyper Snaplink |
 | 1147 | 54 | Lionel Hampton |
@@ -1161,20 +1161,20 @@
 | 1153 | 53 | Melinda Roman |
 | 1154 | 53 | Ashlee Lemus |
 | 1155 | 53 | Spicy Gridder |
-| 1156 | 53 | Michelle Clark |
-| 1157 | 53 | Samantha Lohmeyer |
-| 1158 | 53 | Tay |
-| 1159 | 53 | JoJo Hutson |
+| 1156 | 53 | JoJo Hutson |
+| 1157 | 53 | Michelle Clark |
+| 1158 | 53 | Samantha Lohmeyer |
+| 1159 | 53 | Tay |
 | 1160 | 53 | Sunshine Dreamchaser Whitfield |
 | 1161 | 53 | Kimberly Mae Watkins |
 | 1162 | 53 | Masiso |
-| 1163 | 53 | Cflixer |
-| 1164 | 53 | Agent |
-| 1165 | 52 | Marion Wade |
+| 1163 | 53 | Agent |
+| 1164 | 53 | Cflixer |
+| 1165 | 52 | Amanda Jill Sturgill |
 | 1166 | 52 | Frothy Pivotfall |
 | 1167 | 52 | Domenique Wilson |
 | 1168 | 52 | Kay |
-| 1169 | 52 | Amanda Jill Sturgill |
+| 1169 | 52 | Marion Wade |
 | 1170 | 52 | Vv |
 | 1171 | 51 | Peachy Linkbuilder |
 | 1172 | 51 | Dorothy Mitchell |
