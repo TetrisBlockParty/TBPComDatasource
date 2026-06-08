@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 06:04:42 UTC
+# Standings for team2 as of 2026-06-08 06:05:20 UTC
 
 **Total Participants:** 2115
 
@@ -153,7 +153,7 @@
 | 145 | 643 | Alison Waller |
 | 146 | 635 | Joslyn Johnson |
 | 147 | 634 | Melissa Thomas |
-| 148 | 628 | Rhonda Diebold |
+| 148 | 632 | Rhonda Diebold |
 | 149 | 627 | Jgato |
 | 150 | 626 | Dsabrina Maxey |
 | 151 | 619 | Jeska Gaines |
@@ -271,7 +271,7 @@
 | 263 | 328 | Xandrea Jones |
 | 264 | 327 | Iesha Cupil |
 | 265 | 327 | Chipper Stackbuilder |
-| 266 | 326 | Jumpy Matchbuilder |
+| 266 | 327 | Jumpy Matchbuilder |
 | 267 | 325 | Flashy Twistline |
 | 268 | 325 | Snappy Combo |
 | 269 | 324 | DayDreamer79 |
@@ -431,38 +431,38 @@
 | 423 | 207 | StacyBabee |
 | 424 | 206 | Jodi Johnson |
 | 425 | 204 | Jacquelyn Snyder Dumas |
-| 426 | 204 | Chummy Snapbuilder |
-| 427 | 204 | Teddy Williams |
+| 426 | 204 | Teddy Williams |
+| 427 | 204 | Chummy Snapbuilder |
 | 428 | 203 | Jumpy Dashpiece |
 | 429 | 203 | Jill Goff |
 | 430 | 202 | ZBee |
 | 431 | 202 | MUMBLES |
 | 432 | 201 | Amber Smith |
-| 433 | 200 | Al Smith Jr |
-| 434 | 200 | Katie Jones |
+| 433 | 200 | Katie Jones |
+| 434 | 200 | Al Smith Jr |
 | 435 | 199 | Paula Haskins |
-| 436 | 198 | Epic Tilemaker |
-| 437 | 198 | Rosalie Call Kehlenbeck |
-| 438 | 196 | Greenie |
-| 439 | 196 | Spunky Linkblock |
-| 440 | 195 | Reign Hustler |
-| 441 | 195 | Partin |
-| 442 | 194 | Jessica Connot |
+| 436 | 198 | Rosalie Call Kehlenbeck |
+| 437 | 198 | Epic Tilemaker |
+| 438 | 197 | Andrea Rawson |
+| 439 | 196 | Greenie |
+| 440 | 196 | Spunky Linkblock |
+| 441 | 195 | Reign Hustler |
+| 442 | 195 | Partin |
 | 443 | 194 | Brian Favre |
-| 444 | 192 | Raine |
-| 445 | 192 | TetrisMama |
-| 446 | 192 | Loopy Tower |
-| 447 | 191 | Sarah Jane Gorsuch |
-| 448 | 191 | Nano. |
-| 449 | 190 | Lisa Allen Frisk |
-| 450 | 190 | Saucy Wrecker |
-| 451 | 189 | Wendy McKee |
-| 452 | 189 | Danielle Lyons |
-| 453 | 187 | Jaimie Walters |
-| 454 | 185 | straighttiptoe |
-| 455 | 185 | Sillyk |
-| 456 | 185 | Brooklyn Todd |
-| 457 | 185 | Andrea Rawson |
+| 444 | 194 | Jessica Connot |
+| 445 | 192 | Raine |
+| 446 | 192 | TetrisMama |
+| 447 | 192 | Loopy Tower |
+| 448 | 191 | Sarah Jane Gorsuch |
+| 449 | 191 | Nano. |
+| 450 | 190 | Lisa Allen Frisk |
+| 451 | 190 | Saucy Wrecker |
+| 452 | 189 | Wendy McKee |
+| 453 | 189 | Danielle Lyons |
+| 454 | 187 | Jaimie Walters |
+| 455 | 185 | straighttiptoe |
+| 456 | 185 | Sillyk |
+| 457 | 185 | Brooklyn Todd |
 | 458 | 185 | Monee Stronger |
 | 459 | 185 | Vicki Flippo |
 | 460 | 184 | Melissa Abbott |
@@ -1129,22 +1129,22 @@
 | 1121 | 65 | Beej Blake |
 | 1122 | 65 | Natalie M. Arredondo |
 | 1123 | 65 | nogo |
-| 1124 | 65 | Carlee Becher |
-| 1125 | 65 | Nina-Christina Cusyck |
-| 1126 | 65 | Lexi Chouinard |
-| 1127 | 65 | Raffa |
-| 1128 | 65 | Purpleroyalty11 |
-| 1129 | 65 | Boo Boo Binx |
-| 1130 | 65 | D.j. Wingate |
-| 1131 | 65 | Wacky Drop |
-| 1132 | 65 | Joanne Haynes |
-| 1133 | 64 | Pnda |
-| 1134 | 64 | Wacky Rollbuilder |
-| 1135 | 64 | Brittany Mathis |
-| 1136 | 64 | Kassie D Harmon |
-| 1137 | 64 | Emily |
-| 1138 | 64 | Kylee Pruitt |
-| 1139 | 64 | Cary M. Fong |
+| 1124 | 65 | Cary M. Fong |
+| 1125 | 65 | Carlee Becher |
+| 1126 | 65 | Nina-Christina Cusyck |
+| 1127 | 65 | Lexi Chouinard |
+| 1128 | 65 | Raffa |
+| 1129 | 65 | Purpleroyalty11 |
+| 1130 | 65 | Boo Boo Binx |
+| 1131 | 65 | D.j. Wingate |
+| 1132 | 65 | Wacky Drop |
+| 1133 | 65 | Joanne Haynes |
+| 1134 | 64 | Pnda |
+| 1135 | 64 | Wacky Rollbuilder |
+| 1136 | 64 | Brittany Mathis |
+| 1137 | 64 | Kassie D Harmon |
+| 1138 | 64 | Emily |
+| 1139 | 64 | Kylee Pruitt |
 | 1140 | 63 | Dani Newton |
 | 1141 | 63 | Jessica LeNeave |
 | 1142 | 63 | Frothy Roll |
