@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 17:02:43 UTC
+# Standings for team4 as of 2026-06-08 17:03:21 UTC
 
 **Total Participants:** 1874
 
@@ -230,22 +230,22 @@
 | 222 | 368 | Lush Fitblock |
 | 223 | 367 | Brick House |
 | 224 | 366 | Randy M Hatch |
-| 225 | 366 | Celina DiBastiani |
-| 226 | 366 | Alexis Cor |
+| 225 | 366 | Alexis Cor |
+| 226 | 366 | Celina DiBastiani |
 | 227 | 365 | Jackie Miller |
 | 228 | 365 | Debby Ruof |
 | 229 | 363 | Aramat |
 | 230 | 362 | Dazzle Dragon |
-| 231 | 360 | Kimberly Civinski |
-| 232 | 360 | Holly Wessel |
+| 231 | 360 | Holly Wessel |
+| 232 | 360 | Kimberly Civinski |
 | 233 | 359 | Chiquita Blue |
-| 234 | 359 | BCO22 |
-| 235 | 359 | Leslie Ann Carter |
+| 234 | 359 | Leslie Ann Carter |
+| 235 | 359 | BCO22 |
 | 236 | 358 | Jackie Polanco |
 | 237 | 357 | MomyLiz |
 | 238 | 356 | jaz |
-| 239 | 355 | Colin |
-| 240 | 355 | RotatedWrongAgain |
+| 239 | 355 | RotatedWrongAgain |
+| 240 | 355 | Colin |
 | 241 | 346 | Alex Armour |
 | 242 | 344 | Anthony Lewis |
 | 243 | 343 | Kelly Howland |
@@ -255,23 +255,23 @@
 | 247 | 333 | Tiffany Bunker-Hill |
 | 248 | 332 | Tyson Stroppel |
 | 249 | 331 | Snippy Splitter |
-| 250 | 331 | George Palacios |
-| 251 | 331 | Queen B |
+| 250 | 331 | Queen B |
+| 251 | 331 | George Palacios |
 | 252 | 328 | Shanae Taylor |
 | 253 | 327 | beTrue76 |
 | 254 | 326 | Boldy Striker |
 | 255 | 324 | Slimm |
-| 256 | 323 | zoes |
-| 257 | 323 | Tipsy Zonebuilder |
+| 256 | 323 | Tipsy Zonebuilder |
+| 257 | 323 | zoes |
 | 258 | 322 | Tipsy Builderline |
 | 259 | 321 | Waxboss |
-| 260 | 320 | Brooke Bauer |
-| 261 | 320 | TJ |
+| 260 | 320 | TJ |
+| 261 | 320 | Brooke Bauer |
 | 262 | 318 | Lucy Honer |
 | 263 | 318 | Patrick Alley |
-| 264 | 315 | Capone |
-| 265 | 315 | Maria Castillo |
-| 266 | 315 | Morgan Stevens |
+| 264 | 315 | Morgan Stevens |
+| 265 | 315 | Capone |
+| 266 | 315 | Maria Castillo |
 | 267 | 315 | Thomasena Eady Reid |
 | 268 | 315 | Spicy Chicken |
 | 269 | 312 | Breezy Cascadeclear |
@@ -286,15 +286,15 @@
 | 278 | 300 | Saucy Wipepiece |
 | 279 | 299 | Dana Abegil Lawas |
 | 280 | 297 | Samara Garcia |
-| 281 | 296 | PerfectPieces |
-| 282 | 296 | Bre Dee |
-| 283 | 296 | Tawna Curry |
+| 281 | 296 | Tawna Curry |
+| 282 | 296 | Dae Von |
+| 283 | 296 | Bre Dee |
 | 284 | 296 | beauxie |
-| 285 | 296 | Dae Von |
+| 285 | 296 | PerfectPieces |
 | 286 | 296 | WeeWooWee |
 | 287 | 294 | Solace Grace |
-| 288 | 293 | Logan Two-dubs Baker |
-| 289 | 293 | Joseph Hunter |
+| 288 | 293 | Joseph Hunter |
+| 289 | 293 | Logan Two-dubs Baker |
 | 290 | 292 | Rachel Lemos |
 | 291 | 290 | Brian Woods |
 | 292 | 289 | Shepreneur Sade |
@@ -302,46 +302,46 @@
 | 294 | 286 | Dubiousdust |
 | 295 | 286 | Erika Seaton |
 | 296 | 283 | Tiggerjake |
-| 297 | 282 | Homie |
-| 298 | 282 | Shanna Fragen |
-| 299 | 282 | Troy Zanelli |
-| 300 | 282 | Goofy Fall |
-| 301 | 281 | Margie Thomas |
-| 302 | 278 | Becky McCool |
-| 303 | 278 | Tamara Triplet |
-| 304 | 278 | Cranky Buildout |
-| 305 | 277 | Giggly Tilt |
-| 306 | 276 | Smiley Gridzone |
-| 307 | 274 | Dominique Melendez |
-| 308 | 273 | Mark Norton |
-| 309 | 271 | Renee Sapp |
+| 297 | 282 | Shanna Fragen |
+| 298 | 282 | Homie |
+| 299 | 282 | Goofy Fall |
+| 300 | 282 | Troy Zanelli |
+| 301 | 281 | Renee Sapp |
+| 302 | 281 | Margie Thomas |
+| 303 | 278 | Becky McCool |
+| 304 | 278 | Tamara Triplet |
+| 305 | 278 | Cranky Buildout |
+| 306 | 277 | Giggly Tilt |
+| 307 | 276 | Smiley Gridzone |
+| 308 | 274 | Dominique Melendez |
+| 309 | 273 | Mark Norton |
 | 310 | 271 | Slinky Stackzone |
 | 311 | 270 | Stasia |
 | 312 | 270 | DanceAngel |
 | 313 | 268 | Danny Keich III |
 | 314 | 267 | Chirpy Link |
-| 315 | 266 | Sassy Rollpiece |
-| 316 | 266 | Karen Davis |
+| 315 | 266 | Karen Davis |
+| 316 | 266 | Sassy Rollpiece |
 | 317 | 265 | Justin Michael |
 | 318 | 265 | Matthew Wilcox |
 | 319 | 263 | Laurie Patrick |
 | 320 | 263 | Chummy Jumper |
 | 321 | 261 | Brooke Arroyo |
-| 322 | 260 | Silly Risegrid |
-| 323 | 260 | Drh4090 |
+| 322 | 260 | Drh4090 |
+| 323 | 260 | Silly Risegrid |
 | 324 | 259 | Jessica Peyton |
 | 325 | 259 | Sandra Stark |
 | 326 | 258 | Karen Rodriguez |
-| 327 | 257 | Amandacolle |
-| 328 | 257 | LaTanya GeminiondaRise Johnson |
+| 327 | 257 | LaTanya GeminiondaRise Johnson |
+| 328 | 257 | Amandacolle |
 | 329 | 256 | kellie |
 | 330 | 256 | Stephanie Myers |
 | 331 | 255 | Britney Kitora |
 | 332 | 255 | J.Wo |
 | 333 | 252 | Dawn Phelps |
 | 334 | 252 | Toon Up |
-| 335 | 251 | Jj Johnson |
-| 336 | 251 | Jenn Norcross |
+| 335 | 251 | Jenn Norcross |
+| 336 | 251 | Jj Johnson |
 | 337 | 251 | Lively Cascadebuilder |
 | 338 | 251 | EL Booger |
 | 339 | 249 | Brennan Shea Greene |
@@ -409,18 +409,18 @@
 | 401 | 213 | Tamara Gay |
 | 402 | 211 | Montes Ash |
 | 403 | 211 | Snazzy Fitclear |
-| 404 | 211 | Loopy Hitter |
-| 405 | 210 | Gary Smallwood |
+| 404 | 211 | Scrumptious |
+| 405 | 211 | Loopy Hitter |
 | 406 | 210 | Lady Dolphin |
-| 407 | 210 | Sfalcon1. |
-| 408 | 209 | Chirpy Snapclear |
-| 409 | 209 | Ashley Mcdonald |
-| 410 | 209 | Winter Moon |
-| 411 | 209 | Genger |
-| 412 | 209 | Scrumptious |
+| 407 | 210 | Gary Smallwood |
+| 408 | 210 | Sfalcon1. |
+| 409 | 209 | Chirpy Snapclear |
+| 410 | 209 | Ashley Mcdonald |
+| 411 | 209 | Winter Moon |
+| 412 | 209 | Genger |
 | 413 | 209 | Lively Blockpiece |
-| 414 | 208 | Denise Wilson |
-| 415 | 208 | Danny Frausto |
+| 414 | 208 | Danny Frausto |
+| 415 | 208 | Denise Wilson |
 | 416 | 208 | Justin Janachovsky |
 | 417 | 208 | JIGsaw ~(•¿°)~ |
 | 418 | 208 | Monica Emel |
@@ -1410,27 +1410,27 @@
 | 1402 | 36 | Chelsea Leann Lamb |
 | 1403 | 35 | Samantha Brandt |
 | 1404 | 35 | Jessica Marie Flores |
-| 1405 | 35 | Magda Lene |
-| 1406 | 35 | Joshua Conwell |
-| 1407 | 35 | KySun |
-| 1408 | 35 | Peachy Grabber |
-| 1409 | 35 | Stephanie Williams |
-| 1410 | 35 | Ali Garcia |
-| 1411 | 35 | moonman33 |
-| 1412 | 35 | Saul Fajardo |
-| 1413 | 35 | Monique Kitzmiller |
-| 1414 | 35 | Lex Allen |
-| 1415 | 35 | $bluemoon |
-| 1416 | 35 | Stacy Sisson |
-| 1417 | 35 | Justin Sercu |
-| 1418 | 35 | Amber Torres |
-| 1419 | 34 | Kaylynn Hareland |
-| 1420 | 34 | Honey |
-| 1421 | 34 | Andretta Sellers Robinson |
-| 1422 | 34 | Hannah Harkness |
-| 1423 | 34 | Katy Roman |
-| 1424 | 34 | Sharron Mullins |
-| 1425 | 34 | Amy |
+| 1405 | 35 | Amy |
+| 1406 | 35 | Magda Lene |
+| 1407 | 35 | Joshua Conwell |
+| 1408 | 35 | KySun |
+| 1409 | 35 | Peachy Grabber |
+| 1410 | 35 | Stephanie Williams |
+| 1411 | 35 | Ali Garcia |
+| 1412 | 35 | moonman33 |
+| 1413 | 35 | Saul Fajardo |
+| 1414 | 35 | Monique Kitzmiller |
+| 1415 | 35 | Lex Allen |
+| 1416 | 35 | $bluemoon |
+| 1417 | 35 | Stacy Sisson |
+| 1418 | 35 | Justin Sercu |
+| 1419 | 35 | Amber Torres |
+| 1420 | 34 | Kaylynn Hareland |
+| 1421 | 34 | Honey |
+| 1422 | 34 | Andretta Sellers Robinson |
+| 1423 | 34 | Hannah Harkness |
+| 1424 | 34 | Katy Roman |
+| 1425 | 34 | Sharron Mullins |
 | 1426 | 34 | Yulissa Diaz |
 | 1427 | 34 | Peezy_419 |
 | 1428 | 34 | MzCeleste Brooks |
