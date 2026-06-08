@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:00:44 UTC
+# Standings for team4 as of 2026-06-08 10:01:20 UTC
 
 **Total Participants:** 1808
 
@@ -259,12 +259,12 @@
 | 251 | 285 | Dana Abegil Lawas |
 | 252 | 284 | Tipsy Builderline |
 | 253 | 283 | Tiggerjake |
-| 254 | 282 | Goofy Fall |
-| 255 | 282 | Shanna Fragen |
-| 256 | 281 | Ash Gribble |
-| 257 | 281 | Margie Thomas |
-| 258 | 281 | Waxboss |
-| 259 | 281 | Capone |
+| 254 | 282 | Shanna Fragen |
+| 255 | 282 | Goofy Fall |
+| 256 | 281 | Margie Thomas |
+| 257 | 281 | Ash Gribble |
+| 258 | 281 | Capone |
+| 259 | 281 | Waxboss |
 | 260 | 280 | Sherry Mooney |
 | 261 | 280 | Snippy Splitter |
 | 262 | 278 | Tamara Triplet |
@@ -280,17 +280,17 @@
 | 272 | 266 | tigerlilly |
 | 273 | 264 | Tipsy Zonebuilder |
 | 274 | 263 | Chummy Jumper |
-| 275 | 261 | Brooke Arroyo |
-| 276 | 261 | Renee Sapp |
+| 275 | 261 | Renee Sapp |
+| 276 | 261 | Brooke Arroyo |
 | 277 | 260 | Troy Zanelli |
-| 278 | 260 | Wanda Simmons |
-| 279 | 260 | Silly Risegrid |
-| 280 | 259 | Jessica Peyton |
-| 281 | 259 | Sandra Stark |
-| 282 | 257 | Patrick Alley |
-| 283 | 256 | Jackie Miller |
-| 284 | 255 | Britney Kitora |
-| 285 | 253 | Stasia |
+| 278 | 260 | Stasia |
+| 279 | 260 | Wanda Simmons |
+| 280 | 260 | Silly Risegrid |
+| 281 | 259 | Jessica Peyton |
+| 282 | 259 | Sandra Stark |
+| 283 | 257 | Patrick Alley |
+| 284 | 256 | Jackie Miller |
+| 285 | 255 | Britney Kitora |
 | 286 | 251 | EL Booger |
 | 287 | 251 | Jj Johnson |
 | 288 | 251 | Jenn Norcross |
@@ -979,14 +979,14 @@
 | 971 | 68 | FUNBAT |
 | 972 | 68 | Phredda Helene Gavornik |
 | 973 | 68 | Sweetfire |
-| 974 | 68 | Kelly Kabelac Loomis |
-| 975 | 67 | John Cotugno |
-| 976 | 67 | Yournightmare |
-| 977 | 67 | Snappy Slice |
-| 978 | 67 | Janna Thompson |
-| 979 | 67 | Andy Petersen |
-| 980 | 67 | James Moore |
-| 981 | 67 | Lush Balanceblock |
+| 974 | 68 | Lush Balanceblock |
+| 975 | 68 | Kelly Kabelac Loomis |
+| 976 | 67 | John Cotugno |
+| 977 | 67 | Yournightmare |
+| 978 | 67 | Snappy Slice |
+| 979 | 67 | Janna Thompson |
+| 980 | 67 | Andy Petersen |
+| 981 | 67 | James Moore |
 | 982 | 67 | Wacky Snaplink |
 | 983 | 67 | Trishaann Triplett |
 | 984 | 67 | Tony Clark |
