@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:15:19 UTC
+# Standings for team1 as of 2026-06-08 16:16:19 UTC
 
 **Total Participants:** 1822
 
@@ -47,7 +47,7 @@
 | 39 | 2199 | Weeze |
 | 40 | 2138 | Linzie Marie |
 | 41 | 2076 | April Inboden |
-| 42 | 1912 | Janine Hunter |
+| 42 | 1913 | Janine Hunter |
 | 43 | 1789 | Jolly Dropzone |
 | 44 | 1752 | D'Andra Stewart |
 | 45 | 1727 | Chris Russell |
@@ -70,8 +70,8 @@
 | 62 | 1268 | Sanjuro |
 | 63 | 1251 | Daylene Johannes |
 | 64 | 1239 | Holly Jolly |
-| 65 | 1211 | LeeLee08 |
-| 66 | 1211 | Bre Maugh |
+| 65 | 1211 | Bre Maugh |
+| 66 | 1211 | LeeLee08 |
 | 67 | 1208 | Aviv Zehavi |
 | 68 | 1207 | Angela R Wilson |
 | 69 | 1200 | Spicy Balancer |
@@ -98,8 +98,8 @@
 | 90 | 967 | KenpachisGirl |
 | 91 | 961 | Chris Caniglia |
 | 92 | 939 | Uneekly Mayde |
-| 93 | 920 | IamJust Neyamijah Washington Sr. |
-| 94 | 915 | Jason Mungin |
+| 93 | 935 | Jason Mungin |
+| 94 | 920 | IamJust Neyamijah Washington Sr. |
 | 95 | 913 | MamaBear |
 | 96 | 911 | Richard Horton |
 | 97 | 911 | TAZ-MF-NIZIL |
@@ -175,9 +175,9 @@
 | 167 | 496 | Tobey Marberry |
 | 168 | 495 | De'Laonzeo Anthony |
 | 169 | 495 | IThinkNot |
-| 170 | 494 | Plucky Slamdrop |
+| 170 | 494 | Ty Øtg |
 | 171 | 494 | DaVonte' Cretter |
-| 172 | 494 | Ty Øtg |
+| 172 | 494 | Plucky Slamdrop |
 | 173 | 491 | Murg4dr01d |
 | 174 | 486 | Andre Sanon |
 | 175 | 485 | xXEKUNXx |
@@ -196,8 +196,8 @@
 | 188 | 446 | pooh |
 | 189 | 446 | Tamara N Lee |
 | 190 | 445 | Marcheta Cervantez |
-| 191 | 444 | Kevin M. McGhee Jr |
-| 192 | 444 | Helen Smith |
+| 191 | 444 | Helen Smith |
+| 192 | 444 | Kevin M. McGhee Jr |
 | 193 | 443 | Roberta Lynn |
 | 194 | 440 | Tanya Clayton |
 | 195 | 439 | Asani CHumba |
@@ -205,32 +205,32 @@
 | 197 | 431 | Joey Albright |
 | 198 | 431 | Lashawn Wallace |
 | 199 | 430 | boogeywoogey |
-| 200 | 422 | David Fuentes |
-| 201 | 421 | JaClanDiah |
-| 202 | 420 | Jessica Carter |
-| 203 | 420 | Cheeky Pop |
-| 204 | 418 | Sheila Burnham |
-| 205 | 417 | Lashaunda |
+| 200 | 424 | Choc |
+| 201 | 422 | David Fuentes |
+| 202 | 421 | JaClanDiah |
+| 203 | 420 | Jessica Carter |
+| 204 | 420 | Cheeky Pop |
+| 205 | 418 | Sheila Burnham |
 | 206 | 417 | Mic Balew |
 | 207 | 417 | Byron Mario Cawthon |
-| 208 | 415 | OhNoZer0 |
-| 209 | 414 | Jenna Renee |
+| 208 | 417 | Lashaunda |
+| 209 | 415 | OhNoZer0 |
 | 210 | 414 | Cheery Linkfall |
-| 211 | 411 | Tina Mitchell |
-| 212 | 410 | Sarah Clark |
-| 213 | 407 | Jazzy Fireflighters |
-| 214 | 405 | SPNLover24 |
-| 215 | 399 | Kyra Coleman |
-| 216 | 398 | Kenny 'Tailormade' Boyd |
-| 217 | 397 | Karebear |
-| 218 | 390 | Devin West |
-| 219 | 389 | GrkGdess |
-| 220 | 388 | Zippy Tilefall |
-| 221 | 387 | Crystal Anderson |
-| 222 | 386 | Chantelle Lee |
-| 223 | 386 | Keke Ferguson |
-| 224 | 386 | Po Marley |
-| 225 | 384 | Choc |
+| 211 | 414 | Jenna Renee |
+| 212 | 411 | Tina Mitchell |
+| 213 | 410 | Sarah Clark |
+| 214 | 407 | Zippy Tilefall |
+| 215 | 407 | Jazzy Fireflighters |
+| 216 | 405 | SPNLover24 |
+| 217 | 399 | Kyra Coleman |
+| 218 | 398 | Kenny 'Tailormade' Boyd |
+| 219 | 397 | Karebear |
+| 220 | 390 | Devin West |
+| 221 | 389 | GrkGdess |
+| 222 | 387 | Crystal Anderson |
+| 223 | 386 | Po Marley |
+| 224 | 386 | Keke Ferguson |
+| 225 | 386 | Chantelle Lee |
 | 226 | 384 | Christana Imjustbutton Stone |
 | 227 | 377 | AF Cruz |
 | 228 | 376 | Rachel Zimmerman |
@@ -321,8 +321,8 @@
 | 313 | 273 | Dacia Hicks |
 | 314 | 273 | Bubbly Piececlear |
 | 315 | 273 | Penee Wiggins |
-| 316 | 272 | Tarnisha Neicy Jones |
-| 317 | 270 | Melissa D. M. Hornsby |
+| 316 | 273 | Melissa D. M. Hornsby |
+| 317 | 272 | Tarnisha Neicy Jones |
 | 318 | 270 | Julian Dickens Jr. |
 | 319 | 269 | DaGuy |
 | 320 | 269 | Stephen Glaze |
