@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 04:54:43 UTC
+# Standings for team1 as of 2026-06-08 04:55:20 UTC
 
 **Total Participants:** 1717
 
@@ -165,27 +165,27 @@
 | 157 | 435 | Nobles Brandon |
 | 158 | 431 | Lashawn Wallace |
 | 159 | 427 | Ty Øtg |
-| 160 | 420 | Jessica Carter |
-| 161 | 420 | Hyper Slamdrop |
-| 162 | 417 | Dena Marie Lee |
-| 163 | 412 | Dee McCool |
-| 164 | 409 | Murg4dr01d |
+| 160 | 425 | Yolanda E Fergerson |
+| 161 | 420 | Jessica Carter |
+| 162 | 420 | Hyper Slamdrop |
+| 163 | 417 | Dena Marie Lee |
+| 164 | 412 | Dee McCool |
 | 165 | 409 | Lashaunda |
-| 166 | 407 | Yolanda E Fergerson |
+| 166 | 409 | Murg4dr01d |
 | 167 | 405 | SPNLover24 |
 | 168 | 396 | Chuck Quarles |
 | 169 | 394 | Simmone T. Kadiri |
-| 170 | 393 | Sheila Burnham |
-| 171 | 393 | Sharon Cail |
-| 172 | 389 | GrkGdess |
-| 173 | 389 | Roberta Lynn |
-| 174 | 389 | Eugina Slater |
-| 175 | 387 | Crystal Anderson |
-| 176 | 387 | Karebear |
+| 170 | 393 | Sharon Cail |
+| 171 | 393 | Sheila Burnham |
+| 172 | 389 | Eugina Slater |
+| 173 | 389 | GrkGdess |
+| 174 | 389 | Roberta Lynn |
+| 175 | 387 | Karebear |
+| 176 | 387 | Crystal Anderson |
 | 177 | 384 | Christana Imjustbutton Stone |
 | 178 | 384 | Jenna Renee |
-| 179 | 380 | Felicia Cain |
-| 180 | 380 | Dulo |
+| 179 | 380 | Dulo |
+| 180 | 380 | Felicia Cain |
 | 181 | 377 | AF Cruz |
 | 182 | 375 | Joey Albright |
 | 183 | 370 | Allison Baxter |
