@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:14:43 UTC
+# Standings for team1 as of 2026-06-08 16:15:19 UTC
 
 **Total Participants:** 1822
 
@@ -497,19 +497,19 @@
 | 489 | 168 | Dede Tate |
 | 490 | 168 | Lounique |
 | 491 | 167 | Mister Reid |
-| 492 | 167 | Tessa Gaskin |
-| 493 | 167 | Juicy |
-| 494 | 167 | Shakmar |
-| 495 | 167 | MonaSparks |
-| 496 | 167 | Joka NoTime ForHataz |
-| 497 | 166 | Teresa Yanira Cepeda |
+| 492 | 167 | Shakmar |
+| 493 | 167 | Joka NoTime ForHataz |
+| 494 | 167 | MonaSparks |
+| 495 | 167 | Juicy |
+| 496 | 167 | Tessa Gaskin |
+| 497 | 166 | Jenni Hardman |
 | 498 | 166 | Analiza Ramos |
-| 499 | 166 | Melissa Olvera |
-| 500 | 165 | Tanisha Taylor |
-| 501 | 164 | Jes Marie |
-| 502 | 163 | Ashlie Mo |
-| 503 | 163 | Daring Blockclear |
-| 504 | 163 | Jenni Hardman |
+| 499 | 166 | Teresa Yanira Cepeda |
+| 500 | 166 | Melissa Olvera |
+| 501 | 165 | Tanisha Taylor |
+| 502 | 164 | Jes Marie |
+| 503 | 163 | Ashlie Mo |
+| 504 | 163 | Daring Blockclear |
 | 505 | 163 | Christi Walker Patton |
 | 506 | 162 | Twisty Cascadeclear |
 | 507 | 162 | Speedy Stacky |
@@ -749,22 +749,22 @@
 | 741 | 106 | Elizabeth Hopkins |
 | 742 | 106 | Tina Blessed Cage |
 | 743 | 106 | Lawreniesha Burkley |
-| 744 | 105 | Jack Mehof |
-| 745 | 105 | Nikkizz |
-| 746 | 105 | Christopher L Crites |
-| 747 | 105 | Michael Smith |
-| 748 | 105 | Angie Lebron |
-| 749 | 105 | Ja'mice Nelson |
-| 750 | 105 | Maria |
+| 744 | 105 | Maria |
+| 745 | 105 | Vera Beckford |
+| 746 | 105 | Nikkizz |
+| 747 | 105 | Christopher L Crites |
+| 748 | 105 | Michael Smith |
+| 749 | 105 | Angie Lebron |
+| 750 | 105 | Ja'mice Nelson |
 | 751 | 105 | Mario Meliodas |
 | 752 | 105 | Raquel Ortiz |
-| 753 | 104 | Coco |
-| 754 | 104 | Chris Nelson |
-| 755 | 104 | Anastasia |
-| 756 | 104 | Lady T |
-| 757 | 104 | Victor |
-| 758 | 104 | Ahvae Lee |
-| 759 | 104 | Vera Beckford |
+| 753 | 105 | Jack Mehof |
+| 754 | 104 | Coco |
+| 755 | 104 | Chris Nelson |
+| 756 | 104 | Anastasia |
+| 757 | 104 | Lady T |
+| 758 | 104 | Victor |
+| 759 | 104 | Ahvae Lee |
 | 760 | 103 | Heather Wilson |
 | 761 | 103 | Clint Mcdowell |
 | 762 | 103 | win |
