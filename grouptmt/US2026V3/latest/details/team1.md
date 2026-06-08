@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:47:18 UTC
+# Standings for team1 as of 2026-06-08 00:48:19 UTC
 
 **Total Participants:** 1637
 
@@ -62,9 +62,9 @@
 | 54 | 1221 | Daylene Johannes |
 | 55 | 1200 | Spicy Balancer |
 | 56 | 1187 | Angela R Wilson |
-| 57 | 1126 | Ryan Meilleur |
-| 58 | 1119 | Corey Cawthon |
-| 59 | 1117 | Janine Hunter |
+| 57 | 1129 | Janine Hunter |
+| 58 | 1126 | Ryan Meilleur |
+| 59 | 1119 | Corey Cawthon |
 | 60 | 1107 | Blockhead |
 | 61 | 1102 | D'Andra Stewart |
 | 62 | 1078 | Danielle DeLozier Plesec |
@@ -79,8 +79,8 @@
 | 71 | 981 | Court Court |
 | 72 | 939 | Uneekly Mayde |
 | 73 | 935 | Whitney Butler |
-| 74 | 923 | PandaPrincess |
-| 75 | 923 | Tiana Moore |
+| 74 | 923 | Tiana Moore |
+| 75 | 923 | PandaPrincess |
 | 76 | 920 | IamJust Neyamijah Washington Sr. |
 | 77 | 897 | BYM4L |
 | 78 | 894 | Danielle Barthelme |
@@ -93,8 +93,8 @@
 | 85 | 807 | KenpachisGirl |
 | 86 | 801 | Therealdywoune Peay |
 | 87 | 800 | Chenell Gillard |
-| 88 | 796 | Jaida De'Anne Cox |
-| 89 | 795 | Keeta Chickswit Scott |
+| 88 | 800 | Keeta Chickswit Scott |
+| 89 | 796 | Jaida De'Anne Cox |
 | 90 | 795 | Joy Citizen Pickney |
 | 91 | 784 | Todd C. Clemens |
 | 92 | 763 | Richard Horton |
@@ -111,8 +111,8 @@
 | 103 | 668 | Jonathan Vee Jay |
 | 104 | 666 | Kellie Hall |
 | 105 | 651 | Slinky Puzzler |
-| 106 | 647 | Dynah Gordon |
-| 107 | 647 | Andi McGreevy |
+| 106 | 647 | Andi McGreevy |
+| 107 | 647 | Dynah Gordon |
 | 108 | 639 | Cee Emm |
 | 109 | 637 | Voice |
 | 110 | 630 | Bambi Love |
@@ -167,22 +167,22 @@
 | 159 | 396 | Chuck Quarles |
 | 160 | 393 | Sharon Cail |
 | 161 | 393 | Sheila Burnham |
-| 162 | 389 | GrkGdess |
-| 163 | 389 | Roberta Lynn |
+| 162 | 389 | Roberta Lynn |
+| 163 | 389 | GrkGdess |
 | 164 | 389 | Lashaunda |
 | 165 | 387 | Karebear |
 | 166 | 387 | Crystal Anderson |
 | 167 | 384 | Christana Imjustbutton Stone |
 | 168 | 380 | Felicia Cain |
 | 169 | 380 | Dulo |
-| 170 | 377 | AF Cruz |
-| 171 | 377 | Jenna Renee |
+| 170 | 377 | Jenna Renee |
+| 171 | 377 | AF Cruz |
 | 172 | 370 | Allison Baxter |
 | 173 | 368 | Eugina Slater |
 | 174 | 368 | Joey Albright |
 | 175 | 367 | Leebo Slice |
-| 176 | 365 | Tishauna Virgo |
-| 177 | 365 | Simmone T. Kadiri |
+| 176 | 365 | Simmone T. Kadiri |
+| 177 | 365 | Tishauna Virgo |
 | 178 | 363 | Christina Rebecca |
 | 179 | 361 | John Staub |
 | 180 | 359 | pooh |
@@ -197,24 +197,24 @@
 | 189 | 340 | Tamara N Lee |
 | 190 | 332 | Mic Balew |
 | 191 | 330 | Jessica Russell |
-| 192 | 330 | Po Marley |
-| 193 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 192 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 193 | 330 | Po Marley |
 | 194 | 328 | Brand Nu |
 | 195 | 327 | Rolanda Williams |
 | 196 | 320 | Ashley MyBeauty Daniels |
 | 197 | 318 | Nerdy Snapfall |
 | 198 | 316 | Latisha Fairley |
-| 199 | 315 | Michele Simpson |
-| 200 | 315 | Koi |
-| 201 | 315 | Chantelle Lee |
+| 199 | 315 | Koi |
+| 200 | 315 | Chantelle Lee |
+| 201 | 315 | Michele Simpson |
 | 202 | 313 | TT |
-| 203 | 312 | Zachary Colegrove |
-| 204 | 312 | Michelle Titus |
+| 203 | 312 | Michelle Titus |
+| 204 | 312 | Zachary Colegrove |
 | 205 | 311 | Helen Smith |
 | 206 | 311 | Nobles Brandon |
-| 207 | 310 | Denise B |
-| 208 | 310 | NastyFriend |
-| 209 | 310 | Calvin Green |
+| 207 | 310 | Calvin Green |
+| 208 | 310 | Denise B |
+| 209 | 310 | NastyFriend |
 | 210 | 309 | IThinkNot |
 | 211 | 307 | Byron Mario Cawthon |
 | 212 | 306 | Devin West |
@@ -239,9 +239,9 @@
 | 231 | 282 | Rhonda Williams Warner |
 | 232 | 279 | Reginald Frank |
 | 233 | 279 | xXEKUNXx |
-| 234 | 275 | Jawaun Daniels |
-| 235 | 275 | Queenie Perry |
-| 236 | 275 | Chris Sladoje |
+| 234 | 275 | Queenie Perry |
+| 235 | 275 | Chris Sladoje |
+| 236 | 275 | Jawaun Daniels |
 | 237 | 274 | Frisky Fall |
 | 238 | 274 | 신재호 |
 | 239 | 273 | Penee Wiggins |
@@ -255,33 +255,33 @@
 | 247 | 266 | Chilly Wipebuilder |
 | 248 | 263 | Dacia Hicks |
 | 249 | 261 | Slinky Brickmatch |
-| 250 | 260 | Natasha Rucker |
+| 250 | 261 | Zappy Riser |
 | 251 | 260 | Ann Chung |
-| 252 | 260 | Coco |
-| 253 | 260 | Jhaime |
+| 252 | 260 | Jhaime |
+| 253 | 260 | Coco |
 | 254 | 260 | Sara Meri |
 | 255 | 260 | Ketrell Bailey |
-| 256 | 257 | Mafio SO |
-| 257 | 256 | Zappy Riser |
+| 256 | 260 | Natasha Rucker |
+| 257 | 257 | Mafio SO |
 | 258 | 256 | Erin Sabol |
 | 259 | 254 | Tonya McElroy |
 | 260 | 253 | Tasha |
 | 261 | 253 | Qwlonda Shirrell |
 | 262 | 253 | Choc |
 | 263 | 249 | Falisa Bell |
-| 264 | 248 | Yasmin Nakea Wright |
+| 264 | 248 | JaClanDiah |
 | 265 | 248 | Mikayla |
-| 266 | 248 | JaClanDiah |
+| 266 | 248 | Yasmin Nakea Wright |
 | 267 | 247 | Cheeky Pop |
-| 268 | 245 | Tremaine Hiler |
-| 269 | 245 | Derrius SeriousLee Burks |
-| 270 | 245 | Kelli Couture |
-| 271 | 245 | Bre Poston |
-| 272 | 244 | Dai Bo |
-| 273 | 244 | Ann White |
-| 274 | 244 | Amber Wilson |
-| 275 | 244 | LaTonya Myers |
-| 276 | 244 | Teddy Davis |
+| 268 | 245 | Kelli Couture |
+| 269 | 245 | Tremaine Hiler |
+| 270 | 245 | Bre Poston |
+| 271 | 245 | Derrius SeriousLee Burks |
+| 272 | 244 | Teddy Davis |
+| 273 | 244 | Dai Bo |
+| 274 | 244 | LaTonya Myers |
+| 275 | 244 | Amber Wilson |
+| 276 | 244 | Ann White |
 | 277 | 241 | Jai |
 | 278 | 240 | Rayya Kiser |
 | 279 | 240 | Nerdy Blockpiece |
@@ -467,12 +467,12 @@
 | 459 | 135 | Saucy Tile |
 | 460 | 135 | Sean White |
 | 461 | 135 | Hardtohandle91 |
-| 462 | 135 | Slinky Clearzone |
-| 463 | 134 | Perky Pusher |
-| 464 | 134 | Peppy Glider |
-| 465 | 133 | Christi Walker Patton |
-| 466 | 133 | Marlynnnnn |
-| 467 | 133 | Kristie |
+| 462 | 135 | Kristie |
+| 463 | 135 | Slinky Clearzone |
+| 464 | 134 | Perky Pusher |
+| 465 | 134 | Peppy Glider |
+| 466 | 133 | Christi Walker Patton |
+| 467 | 133 | Marlynnnnn |
 | 468 | 132 | Chirpy Buildgrid |
 | 469 | 132 | Jeffrey Barrows |
 | 470 | 132 | Twisty Brickfit |
@@ -521,21 +521,21 @@
 | 513 | 120 | Giggy Edgefit |
 | 514 | 120 | Rebecca Jackson |
 | 515 | 120 | Leavon Smith |
-| 516 | 120 | Teri Marie Clayton |
+| 516 | 120 | 大竹直之 |
 | 517 | 120 | Giggly Tiltbuilder |
-| 518 | 120 | Kp |
+| 518 | 120 | Teri Marie Clayton |
 | 519 | 120 | Brenda Malachi-butler |
-| 520 | 119 | Lexx Robins |
-| 521 | 119 | Hyy |
-| 522 | 119 | TY Newme Batts |
-| 523 | 119 | Ashley Monet Terrell |
-| 524 | 118 | Pretty Yella |
-| 525 | 118 | Kala Miller |
-| 526 | 118 | Rhianna Dinki Austin |
-| 527 | 118 | Hasty Pivoty |
-| 528 | 118 | Amanda Woodruff |
-| 529 | 118 | Kimberly Susan Privette |
-| 530 | 117 | 大竹直之 |
+| 520 | 120 | Kp |
+| 521 | 119 | Lexx Robins |
+| 522 | 119 | Hyy |
+| 523 | 119 | TY Newme Batts |
+| 524 | 119 | Ashley Monet Terrell |
+| 525 | 118 | Pretty Yella |
+| 526 | 118 | Kala Miller |
+| 527 | 118 | Rhianna Dinki Austin |
+| 528 | 118 | Hasty Pivoty |
+| 529 | 118 | Amanda Woodruff |
+| 530 | 118 | Kimberly Susan Privette |
 | 531 | 117 | Mahagony Small |
 | 532 | 117 | BB |
 | 533 | 117 | Joana Thompson |
