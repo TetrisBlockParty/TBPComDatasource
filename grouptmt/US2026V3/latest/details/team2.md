@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:34:43 UTC
+# Standings for team2 as of 2026-06-08 08:35:20 UTC
 
 **Total Participants:** 2134
 
@@ -88,8 +88,8 @@
 | 80 | 1302 | Charley Bedford |
 | 81 | 1288 | Amber-leigh Williams |
 | 82 | 1279 | Nawang Nawang |
-| 83 | 1276 | Jenny Graham |
-| 84 | 1271 | Eileen Egan |
+| 83 | 1277 | Eileen Egan |
+| 84 | 1276 | Jenny Graham |
 | 85 | 1222 | Gabriella Humphreys |
 | 86 | 1217 | Mikki Torres |
 | 87 | 1194 | Epic Frame |

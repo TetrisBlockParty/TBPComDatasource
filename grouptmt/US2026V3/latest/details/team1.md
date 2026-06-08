@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:34:43 UTC
+# Standings for team1 as of 2026-06-08 08:35:20 UTC
 
 **Total Participants:** 1762
 
@@ -107,9 +107,9 @@
 | 99 | 795 | Joy Citizen Pickney |
 | 100 | 793 | Jaida King |
 | 101 | 787 | Dawn L Washington-Feuquay |
-| 102 | 754 | LeeLee08 |
-| 103 | 752 | Yolanda E Fergerson |
-| 104 | 752 | Tameka Jones |
+| 102 | 766 | Tameka Jones |
+| 103 | 754 | LeeLee08 |
+| 104 | 752 | Yolanda E Fergerson |
 | 105 | 744 | Chris Caniglia |
 | 106 | 744 | Mimi 1.0 |
 | 107 | 741 | Sarah Marie |
@@ -508,14 +508,14 @@
 | 500 | 147 | Twisty Brickfit |
 | 501 | 147 | Mathew Trudell |
 | 502 | 146 | Bella |
-| 503 | 146 | FunTime |
-| 504 | 146 | whatever |
-| 505 | 145 | Squaw Ki Ng |
-| 506 | 145 | Shea Ladynick Henderson |
-| 507 | 144 | Douglas Price |
-| 508 | 144 | Kp |
-| 509 | 144 | Ta'Kaiyah M. Spann |
-| 510 | 144 | Kate Hancock Malicek |
+| 503 | 146 | Kate Hancock Malicek |
+| 504 | 146 | FunTime |
+| 505 | 146 | whatever |
+| 506 | 145 | Squaw Ki Ng |
+| 507 | 145 | Shea Ladynick Henderson |
+| 508 | 144 | Douglas Price |
+| 509 | 144 | Kp |
+| 510 | 144 | Ta'Kaiyah M. Spann |
 | 511 | 144 | Hardtohandle91 |
 | 512 | 143 | Ashlie Mo |
 | 513 | 142 | Kelley Johnson |
