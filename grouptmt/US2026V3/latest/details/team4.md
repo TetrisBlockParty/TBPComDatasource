@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 12:58:43 UTC
+# Standings for team4 as of 2026-06-08 12:59:20 UTC
 
 **Total Participants:** 1829
 
@@ -329,44 +329,44 @@
 | 321 | 237 | Jazzy Gridder |
 | 322 | 237 | Beth Belanger |
 | 323 | 237 | Deborah Silberg |
-| 324 | 233 | Dizzy Slammer |
-| 325 | 233 | Joseph Hunter |
-| 326 | 232 | Samara Garcia |
-| 327 | 232 | Carla Woodard |
-| 328 | 230 | gabs |
-| 329 | 229 | Melika Zeheb |
+| 324 | 235 | Morgan Stevens |
+| 325 | 233 | Dizzy Slammer |
+| 326 | 233 | Joseph Hunter |
+| 327 | 232 | Samara Garcia |
+| 328 | 232 | Carla Woodard |
+| 329 | 230 | gabs |
 | 330 | 229 | farfromlocal |
 | 331 | 229 | Chonda OhanaMomma Michelle |
-| 332 | 228 | Andrick |
+| 332 | 229 | Melika Zeheb |
 | 333 | 228 | Shiny Brick |
-| 334 | 227 | Kimyatta Cavin |
+| 334 | 228 | Andrick |
 | 335 | 227 | Stephanie Myers |
-| 336 | 226 | Susan Stofberg Beltran |
+| 336 | 227 | Kimyatta Cavin |
 | 337 | 226 | Sassy Rollpiece |
-| 338 | 225 | Laurie Patrick |
-| 339 | 224 | Nerdy Faller |
-| 340 | 224 | Mark Fitch Jr. |
+| 338 | 226 | Susan Stofberg Beltran |
+| 339 | 225 | Laurie Patrick |
+| 340 | 224 | Nerdy Faller |
 | 341 | 224 | Ashley Jenkins |
-| 342 | 223 | Frothy Pattern |
-| 343 | 223 | Leslie Ann Carter |
-| 344 | 223 | Bouncy |
-| 345 | 222 | Karen Davis |
-| 346 | 222 | Cheeky Fallzone |
-| 347 | 221 | JuicyJuice |
-| 348 | 220 | Maurice DeJean |
-| 349 | 220 | Anthony Magaraci |
-| 350 | 220 | Sarah Montagne Forsberg |
+| 342 | 224 | Mark Fitch Jr. |
+| 343 | 223 | Bouncy |
+| 344 | 223 | Frothy Pattern |
+| 345 | 223 | Leslie Ann Carter |
+| 346 | 222 | Karen Davis |
+| 347 | 222 | Cheeky Fallzone |
+| 348 | 221 | JuicyJuice |
+| 349 | 220 | Maurice DeJean |
+| 350 | 220 | Anthony Magaraci |
 | 351 | 220 | Goofy Linkmatch |
-| 352 | 219 | Crystal Hammonds |
-| 353 | 219 | Tiffany Smith |
-| 354 | 219 | JoAnn Summerlot Ratliff |
-| 355 | 218 | Codey Haffner |
-| 356 | 217 | LeRoy jenkins |
+| 352 | 220 | Sarah Montagne Forsberg |
+| 353 | 219 | Crystal Hammonds |
+| 354 | 219 | Tiffany Smith |
+| 355 | 219 | JoAnn Summerlot Ratliff |
+| 356 | 218 | Codey Haffner |
 | 357 | 217 | Cindy |
-| 358 | 216 | Smiley Gridzone |
+| 358 | 217 | LeRoy jenkins |
 | 359 | 216 | Alyson M Kehler |
-| 360 | 215 | Matthew Wilcox |
-| 361 | 215 | Morgan Stevens |
+| 360 | 216 | Smiley Gridzone |
+| 361 | 215 | Matthew Wilcox |
 | 362 | 214 | Cecilia Hicks |
 | 363 | 213 | Toon Up |
 | 364 | 210 | Gary Smallwood |
@@ -380,12 +380,12 @@
 | 372 | 208 | JIGsaw ~(•¿°)~ |
 | 373 | 207 | Izz |
 | 374 | 207 | Brendan Craven |
-| 375 | 207 | Chilly Pivot |
-| 376 | 207 | ariel |
+| 375 | 207 | ariel |
+| 376 | 207 | Chilly Pivot |
 | 377 | 207 | Lanelva Tiredofbs Marshall |
 | 378 | 206 | Brandy Lynn |
-| 379 | 206 | Stacy G |
-| 380 | 206 | Rachel Lemos |
+| 379 | 206 | Rachel Lemos |
+| 380 | 206 | Stacy G |
 | 381 | 206 | Joab Gonzalez |
 | 382 | 205 | Littlebrat |
 | 383 | 205 | Ross Bryant |
