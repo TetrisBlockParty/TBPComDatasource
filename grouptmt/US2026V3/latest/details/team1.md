@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:50:42 UTC
+# Standings for team1 as of 2026-06-08 05:51:19 UTC
 
 **Total Participants:** 1731
 
@@ -176,8 +176,8 @@
 | 168 | 409 | Murg4dr01d |
 | 169 | 409 | Lashaunda |
 | 170 | 405 | SPNLover24 |
-| 171 | 398 | Kenny 'Tailormade' Boyd |
-| 172 | 397 | Plucky Slamdrop |
+| 171 | 400 | Plucky Slamdrop |
+| 172 | 398 | Kenny 'Tailormade' Boyd |
 | 173 | 394 | Simmone T. Kadiri |
 | 174 | 393 | Sharon Cail |
 | 175 | 393 | Sheila Burnham |
@@ -327,18 +327,18 @@
 | 319 | 224 | Asha Langford |
 | 320 | 221 | Chandler Magee |
 | 321 | 220 | Christian Pham |
-| 322 | 220 | Rachael Bakowicz Edwards |
+| 322 | 220 | HarleyJane |
 | 323 | 220 | rls |
-| 324 | 220 | HarleyJane |
-| 325 | 219 | Bambi Johnson |
-| 326 | 219 | Tamara Johnson-Carter |
-| 327 | 218 | SeanSanchez |
-| 328 | 217 | Snippy Breaker |
+| 324 | 220 | Rachael Bakowicz Edwards |
+| 325 | 219 | Tamara Johnson-Carter |
+| 326 | 219 | Tessa Felice Hill |
+| 327 | 219 | Bambi Johnson |
+| 328 | 218 | SeanSanchez |
 | 329 | 217 | Louise Parker |
-| 330 | 217 | Ashleyy Netchert |
-| 331 | 217 | LaShaun Stinson |
-| 332 | 214 | Stephen Providenti |
-| 333 | 213 | Tessa Felice Hill |
+| 330 | 217 | Snippy Breaker |
+| 331 | 217 | Ashleyy Netchert |
+| 332 | 217 | LaShaun Stinson |
+| 333 | 214 | Stephen Providenti |
 | 334 | 213 | Lazy Tiltpiece |
 | 335 | 212 | Simply-Beautiful007 |
 | 336 | 211 | Charletha Williams |
@@ -822,11 +822,11 @@
 | 814 | 81 | GracefulOwl808 |
 | 815 | 81 | Deihja Weaver |
 | 816 | 81 | Parris Wright |
-| 817 | 80 | Victoria Smith |
+| 817 | 80 | Analesia Taylor |
 | 818 | 80 | Lisa420 |
 | 819 | 80 | Linzi Cole |
-| 820 | 80 | Tory Miller |
-| 821 | 80 | Lauren Farkas |
+| 820 | 80 | Lauren Farkas |
+| 821 | 80 | Tory Miller |
 | 822 | 80 | nay |
 | 823 | 80 | Charles Johnson |
 | 824 | 80 | Keith Big-Sixx Mackell |
@@ -838,54 +838,54 @@
 | 830 | 80 | Chevalier Burley |
 | 831 | 80 | Tiffany Jean Hinson |
 | 832 | 80 | Amaadi Ward |
-| 833 | 79 | Shauntai Holiday |
+| 833 | 80 | Victoria Smith |
 | 834 | 79 | Erika |
-| 835 | 79 | Sabrina Wilkerson |
+| 835 | 79 | Shauntai Holiday |
 | 836 | 79 | Evette Moreno |
-| 837 | 79 | Frilly Shatterline |
-| 838 | 79 | Haakuu |
-| 839 | 79 | LAdYPOLy |
-| 840 | 79 | Oaklonboy mike |
-| 841 | 78 | Tasha Jones |
-| 842 | 78 | Nikiya |
-| 843 | 78 | Tyree Tman Shinette |
-| 844 | 78 | Kahh |
-| 845 | 78 | Boricua64 |
-| 846 | 78 | Solomon Valarie |
-| 847 | 78 | Krystal Maynard |
-| 848 | 78 | Megan Jones |
-| 849 | 78 | Pinky Pink |
-| 850 | 78 | BigMike |
-| 851 | 77 | Earl Williams |
-| 852 | 77 | Crtjstr |
-| 853 | 77 | Teisha Scott |
-| 854 | 77 | S.S |
-| 855 | 77 | Tomme Poliwka |
-| 856 | 77 | Ysma Simmons |
-| 857 | 76 | Giggly Shatterline |
-| 858 | 76 | Mama P |
-| 859 | 76 | NataAllDay |
-| 860 | 76 | Analesia Taylor |
-| 861 | 76 | John Spath |
+| 837 | 79 | Sabrina Wilkerson |
+| 838 | 79 | Frilly Shatterline |
+| 839 | 79 | Haakuu |
+| 840 | 79 | LAdYPOLy |
+| 841 | 79 | Oaklonboy mike |
+| 842 | 78 | Boricua64 |
+| 843 | 78 | Tasha Jones |
+| 844 | 78 | Nikiya |
+| 845 | 78 | Solomon Valarie |
+| 846 | 78 | Krystal Maynard |
+| 847 | 78 | BigMike |
+| 848 | 78 | Tyree Tman Shinette |
+| 849 | 78 | Kahh |
+| 850 | 78 | Pinky Pink |
+| 851 | 78 | Megan Jones |
+| 852 | 77 | Earl Williams |
+| 853 | 77 | S.S |
+| 854 | 77 | Ysma Simmons |
+| 855 | 77 | Teisha Scott |
+| 856 | 77 | Tomme Poliwka |
+| 857 | 77 | Crtjstr |
+| 858 | 76 | Paul Doty |
+| 859 | 76 | Giggly Shatterline |
+| 860 | 76 | John Spath |
+| 861 | 76 | NataAllDay |
 | 862 | 76 | LaSharon Jackson |
 | 863 | 76 | Vannie G |
-| 864 | 76 | Paul Doty |
-| 865 | 75 | Teresa Bean |
-| 866 | 75 | Boldy Pivoty |
-| 867 | 75 | Blocksy |
+| 864 | 76 | Mama P |
+| 865 | 75 | Blocksy |
+| 866 | 75 | Teresa Bean |
+| 867 | 75 | Boldy Pivoty |
 | 868 | 75 | sasha |
 | 869 | 75 | Courtney Robinson |
 | 870 | 75 | Crafty Witch |
 | 871 | 75 | Cj Chimelis |
-| 872 | 75 | Khatyrah Burnette |
-| 873 | 75 | Angie Lebron |
-| 874 | 74 | Coco |
-| 875 | 74 | Ameillia Boughner |
-| 876 | 74 | Delitra Perkins Hatter |
-| 877 | 74 | Tetrisdestroyer |
-| 878 | 74 | AshMo |
-| 879 | 74 | Abby |
-| 880 | 74 | Seirra Robinson |
+| 872 | 75 | Angie Lebron |
+| 873 | 75 | Khatyrah Burnette |
+| 874 | 74 | AshMo |
+| 875 | 74 | Seirra Robinson |
+| 876 | 74 | Ameillia Boughner |
+| 877 | 74 | Delitra Perkins Hatter |
+| 878 | 74 | Abby |
+| 879 | 74 | Coco |
+| 880 | 74 | Tetrisdestroyer |
 | 881 | 74 | Stronger Wiser Better |
 | 882 | 74 | Giggy Brickfit |
 | 883 | 74 | Ace Hardware |
@@ -899,8 +899,8 @@
 | 891 | 72 | Brittany Britkany Marsden-Garrison |
 | 892 | 72 | Bunnie Celtavini |
 | 893 | 72 | TeeMaster Barber IsLyfe |
-| 894 | 72 | Comedian Gdane |
-| 895 | 72 | Ashanti Eden |
+| 894 | 72 | Ashanti Eden |
+| 895 | 72 | Comedian Gdane |
 | 896 | 71 | Jane Lame |
 | 897 | 71 | Tori Carter |
 | 898 | 71 | kingbrook |
