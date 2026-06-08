@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 09:30:20 UTC
+# Standings for team1 as of 2026-06-08 09:30:42 UTC
 
 **Total Participants:** 1769
 
@@ -355,16 +355,16 @@
 | 347 | 213 | Lazy Tiltpiece |
 | 348 | 212 | Simply-Beautiful007 |
 | 349 | 211 | Charletha Williams |
-| 350 | 211 | Nina Davis |
-| 351 | 210 | Alyssa Rae |
-| 352 | 210 | Sarah Clark |
-| 353 | 209 | $hort Dog |
-| 354 | 209 | Phillip Vasquez |
-| 355 | 209 | Guy Incognito |
-| 356 | 209 | Antonia Wyche |
-| 357 | 208 | izzybella |
-| 358 | 205 | Treneil Daffin |
-| 359 | 205 | Amy Lynn Leifheit |
+| 350 | 211 | Amy Lynn Leifheit |
+| 351 | 211 | Nina Davis |
+| 352 | 210 | Alyssa Rae |
+| 353 | 210 | Sarah Clark |
+| 354 | 209 | $hort Dog |
+| 355 | 209 | Phillip Vasquez |
+| 356 | 209 | Guy Incognito |
+| 357 | 209 | Antonia Wyche |
+| 358 | 208 | izzybella |
+| 359 | 205 | Treneil Daffin |
 | 360 | 205 | OhNoZer0 |
 | 361 | 203 | Daris Swearington |
 | 362 | 202 | Messy Live |

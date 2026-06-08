@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 09:30:20 UTC
+# Standings for team4 as of 2026-06-08 09:30:42 UTC
 
 **Total Participants:** 1804
 
@@ -98,9 +98,9 @@
 | 90 | 837 | Fancy Crasher |
 | 91 | 830 | Kitsune Bi |
 | 92 | 826 | Sharidan Klinginsmith |
-| 93 | 807 | Hardy Fuller |
-| 94 | 805 | JoLinda Dunn |
-| 95 | 802 | Esther Hadassah |
+| 93 | 812 | Esther Hadassah |
+| 94 | 807 | Hardy Fuller |
+| 95 | 805 | JoLinda Dunn |
 | 96 | 800 | 2 kool |
 | 97 | 797 | Heather Preston |
 | 98 | 795 | Phil Peterson |
@@ -255,17 +255,17 @@
 | 247 | 286 | Erika Seaton |
 | 248 | 286 | Dubiousdust |
 | 249 | 285 | Dana Abegil Lawas |
-| 250 | 284 | Tipsy Builderline |
-| 251 | 283 | Tiggerjake |
-| 252 | 282 | Goofy Fall |
-| 253 | 282 | Shanna Fragen |
-| 254 | 281 | Margie Thomas |
-| 255 | 281 | Waxboss |
-| 256 | 281 | Ash Gribble |
-| 257 | 281 | Capone |
-| 258 | 280 | Sherry Mooney |
-| 259 | 280 | Snippy Splitter |
-| 260 | 279 | Solace Grace |
+| 250 | 285 | Solace Grace |
+| 251 | 284 | Tipsy Builderline |
+| 252 | 283 | Tiggerjake |
+| 253 | 282 | Goofy Fall |
+| 254 | 282 | Shanna Fragen |
+| 255 | 281 | Margie Thomas |
+| 256 | 281 | Waxboss |
+| 257 | 281 | Ash Gribble |
+| 258 | 281 | Capone |
+| 259 | 280 | Sherry Mooney |
+| 260 | 280 | Snippy Splitter |
 | 261 | 278 | Tamara Triplet |
 | 262 | 277 | Giggly Tilt |
 | 263 | 276 | Lori Stembridge |
@@ -750,36 +750,36 @@
 | 742 | 95 | Christina Barry |
 | 743 | 95 | Kristen Nicole Depp-Stewart |
 | 744 | 95 | Hyper Balancepiece |
-| 745 | 95 | Jailen Harper |
-| 746 | 95 | Frisky Pusher |
-| 747 | 94 | Cranky Twistpiece |
-| 748 | 94 | Erika Rubio |
-| 749 | 94 | Elli Wright |
-| 750 | 94 | Lala |
+| 745 | 95 | Daniel Lossman |
+| 746 | 95 | Jailen Harper |
+| 747 | 95 | Frisky Pusher |
+| 748 | 94 | Reina Pagan |
+| 749 | 94 | Cranky Twistpiece |
+| 750 | 94 | Erika Rubio |
 | 751 | 94 | Carlos Amaya |
-| 752 | 94 | Reina Pagan |
-| 753 | 93 | Stefanie Street |
+| 752 | 94 | Lala |
+| 753 | 94 | Elli Wright |
 | 754 | 93 | Rocky |
-| 755 | 93 | Fancy Riser |
+| 755 | 93 | Stefanie Street |
 | 756 | 93 | Joha Mldo Castillo |
-| 757 | 92 | ShaniP |
-| 758 | 92 | Peterson Cottontail |
+| 757 | 93 | Fancy Riser |
+| 758 | 92 | ShaniP |
 | 759 | 92 | 94Blockhead |
 | 760 | 92 | Happy Strikerpiece |
-| 761 | 92 | Autumn Maher |
+| 761 | 92 | Peterson Cottontail |
 | 762 | 92 | REPENT |
-| 763 | 91 | Renzo Tonini |
-| 764 | 91 | Giggy Risegrid |
-| 765 | 91 | Lizzzzzz |
-| 766 | 91 | Michelle Michelle |
-| 767 | 91 | Slinky Column |
-| 768 | 90 | Tigger |
-| 769 | 90 | Dexter Hammond Jr |
-| 770 | 90 | Breezy Brickfit |
-| 771 | 90 | Stephanie Meinhart |
-| 772 | 90 | Christina Williams |
-| 773 | 89 | Marisela Alvarado |
-| 774 | 89 | Daniel Lossman |
+| 763 | 92 | Autumn Maher |
+| 764 | 91 | Lizzzzzz |
+| 765 | 91 | Giggy Risegrid |
+| 766 | 91 | Renzo Tonini |
+| 767 | 91 | Michelle Michelle |
+| 768 | 91 | Slinky Column |
+| 769 | 90 | Tigger |
+| 770 | 90 | Dexter Hammond Jr |
+| 771 | 90 | Breezy Brickfit |
+| 772 | 90 | Stephanie Meinhart |
+| 773 | 90 | Christina Williams |
+| 774 | 89 | Marisela Alvarado |
 | 775 | 89 | Allrise99 |
 | 776 | 89 | J.Wo |
 | 777 | 89 | Alicia |
@@ -1049,47 +1049,47 @@
 | 1041 | 60 | Bumpy Morris |
 | 1042 | 60 | Gingerale<3 |
 | 1043 | 60 | Jessica Kelly |
-| 1044 | 60 | Saucy Matchfit |
-| 1045 | 60 | Tiffy |
-| 1046 | 60 | Sha Ta Nay Mitchell |
-| 1047 | 60 | Brittany LeGros |
-| 1048 | 59 | Joe Joe |
+| 1044 | 60 | Tiffy |
+| 1045 | 60 | Saucy Matchfit |
+| 1046 | 60 | Snappy Glidebuilder |
+| 1047 | 60 | Sha Ta Nay Mitchell |
+| 1048 | 60 | Brittany LeGros |
 | 1049 | 59 | Reggie Laserna Clement |
-| 1050 | 59 | Joshua Powers |
-| 1051 | 59 | Gwendolyn Langwinski |
-| 1052 | 59 | Tammy Lasseigne |
-| 1053 | 59 | Sandy Daye |
-| 1054 | 59 | Lovely |
-| 1055 | 59 | Ash |
-| 1056 | 59 | Krushie |
-| 1057 | 59 | Jonathan Jackson |
-| 1058 | 59 | Blessedmama |
-| 1059 | 59 | Denisha Schinell Boyd |
-| 1060 | 59 | Beezy |
-| 1061 | 58 | Kalisha Monique Wright |
-| 1062 | 58 | Daring Towerer |
-| 1063 | 58 | Buggy Julks |
-| 1064 | 58 | Matt Akm |
-| 1065 | 58 | Bold Snapper |
-| 1066 | 58 | Jessica Sanchez |
-| 1067 | 58 | Yaya Selbor |
-| 1068 | 58 | Snappy Glidebuilder |
+| 1050 | 59 | Joe Joe |
+| 1051 | 59 | Joshua Powers |
+| 1052 | 59 | Gwendolyn Langwinski |
+| 1053 | 59 | Tammy Lasseigne |
+| 1054 | 59 | Sandy Daye |
+| 1055 | 59 | Lovely |
+| 1056 | 59 | Ash |
+| 1057 | 59 | Krushie |
+| 1058 | 59 | Jonathan Jackson |
+| 1059 | 59 | Blessedmama |
+| 1060 | 59 | Denisha Schinell Boyd |
+| 1061 | 59 | Beezy |
+| 1062 | 58 | Kalisha Monique Wright |
+| 1063 | 58 | Daring Towerer |
+| 1064 | 58 | Buggy Julks |
+| 1065 | 58 | Matt Akm |
+| 1066 | 58 | Bold Snapper |
+| 1067 | 58 | Jessica Sanchez |
+| 1068 | 58 | Yaya Selbor |
 | 1069 | 58 | FuzzyBunny |
 | 1070 | 58 | LynDee Danielle Hankins |
-| 1071 | 57 | Brandi Gray |
+| 1071 | 57 | Lateasha Wildman |
 | 1072 | 57 | Meghan Etchells |
 | 1073 | 57 | Budda Huitt |
 | 1074 | 57 | Clever Shuffler |
 | 1075 | 57 | Savage |
 | 1076 | 57 | Волна Бог |
-| 1077 | 57 | Momma Boss |
-| 1078 | 57 | Speedy Brick |
+| 1077 | 57 | Speedy Brick |
+| 1078 | 57 | Momma Boss |
 | 1079 | 57 | Melissa Rathbun |
 | 1080 | 57 | Hotstuff |
 | 1081 | 57 | Heather Hilferty |
 | 1082 | 57 | KingCas |
 | 1083 | 57 | Meela Abdurrab |
-| 1084 | 57 | Lateasha Wildman |
+| 1084 | 57 | Brandi Gray |
 | 1085 | 57 | PapaB |
 | 1086 | 56 | Krystalclear |
 | 1087 | 56 | BigCup ReeseCup |
