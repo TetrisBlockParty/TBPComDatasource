@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:34:42 UTC
+# Standings for team1 as of 2026-06-08 11:35:20 UTC
 
 **Total Participants:** 1783
 
@@ -292,60 +292,60 @@
 | 284 | 278 | Shameka Thrasher |
 | 285 | 276 | Erin Sabol |
 | 286 | 275 | Chris Sladoje |
-| 287 | 274 | 신재호 |
-| 288 | 274 | Amber Wilson |
-| 289 | 273 | JaClanDiah |
-| 290 | 273 | Dacia Hicks |
-| 291 | 273 | izzybella |
-| 292 | 273 | Penee Wiggins |
+| 287 | 274 | Amber Wilson |
+| 288 | 274 | 신재호 |
+| 289 | 273 | Dacia Hicks |
+| 290 | 273 | JaClanDiah |
+| 291 | 273 | Penee Wiggins |
+| 292 | 273 | izzybella |
 | 293 | 272 | Tarnisha Neicy Jones |
 | 294 | 271 | Snippy Breaker |
-| 295 | 270 | Melissa D. M. Hornsby |
-| 296 | 270 | Julian Dickens Jr. |
+| 295 | 270 | Julian Dickens Jr. |
+| 296 | 270 | Melissa D. M. Hornsby |
 | 297 | 269 | DaGuy |
 | 298 | 264 | Wild Out Nai |
 | 299 | 262 | MamushiOh |
 | 300 | 260 | Jhaime |
 | 301 | 260 | Nerdy Blockpiece |
-| 302 | 260 | Sara Meri |
-| 303 | 258 | Cynthia Bradley |
+| 302 | 260 | Joana Thompson |
+| 303 | 260 | Sara Meri |
 | 304 | 258 | SeanSanchez |
-| 305 | 257 | Mafio SO |
-| 306 | 257 | Anthony |
-| 307 | 255 | Falisa Bell |
-| 308 | 255 | Joana Thompson |
+| 305 | 258 | Cynthia Bradley |
+| 306 | 257 | Mafio SO |
+| 307 | 257 | Anthony |
+| 308 | 255 | Falisa Bell |
 | 309 | 254 | Smiley Clearpiece |
 | 310 | 253 | Tasha |
-| 311 | 252 | Andrew Jay Vaughn |
-| 312 | 252 | Jai |
+| 311 | 252 | Jai |
+| 312 | 252 | Andrew Jay Vaughn |
 | 313 | 250 | Deveda Williams |
 | 314 | 249 | kitten |
 | 315 | 248 | Darrel K Pemberton |
 | 316 | 246 | Curtis T Cirno |
 | 317 | 245 | Derrius SeriousLee Burks |
 | 318 | 245 | Kelli Couture |
-| 319 | 244 | Teddy Davis |
-| 320 | 244 | LaTonya Myers |
-| 321 | 244 | 大竹直之 |
-| 322 | 244 | Dai Bo |
+| 319 | 244 | Dai Bo |
+| 320 | 244 | 大竹直之 |
+| 321 | 244 | Teddy Davis |
+| 322 | 244 | LaTonya Myers |
 | 323 | 243 | LaShaun Stinson |
 | 324 | 242 | Tay |
 | 325 | 242 | Tamika Rocheteau |
 | 326 | 240 | Emily Wright |
 | 327 | 240 | Christian Pham |
-| 328 | 240 | Rayya Kiser |
-| 329 | 240 | Sammie Walker |
-| 330 | 239 | Tamara Johnson-Carter |
+| 328 | 240 | Sammie Walker |
+| 329 | 240 | Rayya Kiser |
+| 330 | 239 | Rachael R Gull |
 | 331 | 239 | ♈️ Ariesbaby |
-| 332 | 239 | Rachael R Gull |
+| 332 | 239 | Tamara Johnson-Carter |
 | 333 | 238 | Perky Pusher |
 | 334 | 236 | Rachael Bakowicz Edwards |
 | 335 | 235 | Sade Goodwine |
 | 336 | 234 | HarleyJane |
 | 337 | 233 | Nicole Watson-Dixon |
 | 338 | 231 | Tipsy Linkroll |
-| 339 | 230 | Hailey Hil |
-| 340 | 230 | Still Ten Tay |
+| 339 | 230 | Still Ten Tay |
+| 340 | 230 | Hailey Hil |
 | 341 | 230 | Brittnay Wright |
 | 342 | 229 | De'Mear McKinney |
 | 343 | 227 | MACHETEEDDIE513 |
@@ -354,49 +354,49 @@
 | 346 | 223 | Amy Lynn Leifheit |
 | 347 | 222 | Hardtohandle91 |
 | 348 | 221 | Chandler Magee |
-| 349 | 220 | Tamika Fisher |
+| 349 | 220 | Eric Spencer Whitaker |
 | 350 | 220 | Monica Fields |
-| 351 | 220 | Eric Spencer Whitaker |
-| 352 | 220 | rls |
-| 353 | 220 | Jean Regis |
+| 351 | 220 | Tamika Fisher |
+| 352 | 220 | Jean Regis |
+| 353 | 220 | rls |
 | 354 | 219 | Bambi Johnson |
-| 355 | 217 | Ashleyy Netchert |
-| 356 | 217 | Louise Parker |
+| 355 | 217 | Louise Parker |
+| 356 | 217 | Ashleyy Netchert |
 | 357 | 214 | Kyra Coleman |
 | 358 | 214 | Stephen Providenti |
 | 359 | 213 | Lazy Tiltpiece |
 | 360 | 212 | Simply-Beautiful007 |
-| 361 | 211 | Nina Davis |
-| 362 | 211 | Charletha Williams |
+| 361 | 211 | Charletha Williams |
+| 362 | 211 | Nina Davis |
 | 363 | 210 | Sarah Clark |
-| 364 | 210 | Alyssa Rae |
-| 365 | 209 | Guy Incognito |
-| 366 | 209 | Phillip Vasquez |
+| 364 | 210 | Hasty Glidezone |
+| 365 | 210 | Alyssa Rae |
+| 366 | 209 | Guy Incognito |
 | 367 | 209 | $hort Dog |
-| 368 | 209 | Antonia Wyche |
-| 369 | 207 | Giggy Tower |
-| 370 | 205 | Treneil Daffin |
-| 371 | 205 | OhNoZer0 |
-| 372 | 203 | Daris Swearington |
-| 373 | 202 | Poppy Buildout |
-| 374 | 202 | Crystal Cheresnowsky |
+| 368 | 209 | Phillip Vasquez |
+| 369 | 209 | Antonia Wyche |
+| 370 | 207 | Giggy Tower |
+| 371 | 205 | Treneil Daffin |
+| 372 | 205 | OhNoZer0 |
+| 373 | 203 | Daris Swearington |
+| 374 | 202 | Frankey Chi |
 | 375 | 202 | Peppy Glider |
-| 376 | 202 | Frankey Chi |
-| 377 | 202 | Messy Live |
-| 378 | 201 | Rayshawn Cohen |
+| 376 | 202 | Messy Live |
+| 377 | 202 | Crystal Cheresnowsky |
+| 378 | 202 | Poppy Buildout |
 | 379 | 201 | Richard Flex |
-| 380 | 200 | Maribel Vasquez |
-| 381 | 200 | TBABYJ |
-| 382 | 200 | Lisa Fletcher |
-| 383 | 200 | Teri Marie Clayton |
-| 384 | 200 | Peppy Towerbuilder |
-| 385 | 199 | Fina McKinnis |
+| 380 | 201 | Rayshawn Cohen |
+| 381 | 200 | Teri Marie Clayton |
+| 382 | 200 | Peppy Towerbuilder |
+| 383 | 200 | Lisa Fletcher |
+| 384 | 200 | TBABYJ |
+| 385 | 200 | Maribel Vasquez |
 | 386 | 199 | Nickeya Phillips |
 | 387 | 199 | Slinky Snapbuilder |
-| 388 | 197 | Valerie Alexander |
+| 388 | 199 | Fina McKinnis |
 | 389 | 197 | De'Nell Edwards |
-| 390 | 196 | BabyCakes |
-| 391 | 196 | Hasty Glidezone |
+| 390 | 197 | Valerie Alexander |
+| 391 | 196 | BabyCakes |
 | 392 | 195 | Kate Hancock Malicek |
 | 393 | 194 | Cheery Linkfall |
 | 394 | 193 | Matthieu Pistone |

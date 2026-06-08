@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 11:34:42 UTC
+# Standings for team4 as of 2026-06-08 11:35:20 UTC
 
 **Total Participants:** 1819
 
@@ -238,8 +238,8 @@
 | 230 | 317 | Anthony Lewis |
 | 231 | 315 | Thomasena Eady Reid |
 | 232 | 315 | Maria Castillo |
-| 233 | 312 | Danny Ortiz |
-| 234 | 312 | Tyson Stroppel |
+| 233 | 312 | Tyson Stroppel |
+| 234 | 312 | Danny Ortiz |
 | 235 | 309 | TRUCHILD777$$$ |
 | 236 | 306 | Janet Sanfilippo Sullivan |
 | 237 | 305 | No Time |
@@ -248,14 +248,14 @@
 | 240 | 300 | Genag |
 | 241 | 300 | Sherry Mooney |
 | 242 | 298 | Colin |
-| 243 | 296 | Dae Von |
-| 244 | 296 | WeeWooWee |
-| 245 | 296 | beauxie |
-| 246 | 296 | PerfectPieces |
+| 243 | 296 | PerfectPieces |
+| 244 | 296 | beauxie |
+| 245 | 296 | WeeWooWee |
+| 246 | 296 | Dae Von |
 | 247 | 293 | Logan Two-dubs Baker |
 | 248 | 290 | Tawna Curry |
-| 249 | 289 | Shepreneur Sade |
-| 250 | 289 | Solace Grace |
+| 249 | 289 | Solace Grace |
+| 250 | 289 | Shepreneur Sade |
 | 251 | 287 | Cheery Risegrid |
 | 252 | 286 | Dubiousdust |
 | 253 | 286 | Erika Seaton |
@@ -263,8 +263,8 @@
 | 255 | 285 | Dana Abegil Lawas |
 | 256 | 284 | Tipsy Builderline |
 | 257 | 283 | Tiggerjake |
-| 258 | 282 | Shanna Fragen |
-| 259 | 282 | Goofy Fall |
+| 258 | 282 | Goofy Fall |
+| 259 | 282 | Shanna Fragen |
 | 260 | 281 | Waxboss |
 | 261 | 281 | Margie Thomas |
 | 262 | 281 | Capone |
@@ -285,17 +285,17 @@
 | 277 | 266 | tigerlilly |
 | 278 | 264 | Tipsy Zonebuilder |
 | 279 | 263 | Chummy Jumper |
-| 280 | 261 | Renee Sapp |
-| 281 | 261 | Brooke Arroyo |
-| 282 | 260 | Drh4090 |
-| 283 | 260 | Troy Zanelli |
-| 284 | 260 | Wanda Simmons |
-| 285 | 260 | Silly Risegrid |
-| 286 | 259 | Jessica Peyton |
-| 287 | 259 | Sandra Stark |
-| 288 | 258 | Karen Rodriguez |
-| 289 | 257 | Patrick Alley |
-| 290 | 256 | Justin Michael |
+| 280 | 261 | Justin Michael |
+| 281 | 261 | Renee Sapp |
+| 282 | 261 | Brooke Arroyo |
+| 283 | 260 | Drh4090 |
+| 284 | 260 | Troy Zanelli |
+| 285 | 260 | Wanda Simmons |
+| 286 | 260 | Silly Risegrid |
+| 287 | 259 | Jessica Peyton |
+| 288 | 259 | Sandra Stark |
+| 289 | 258 | Karen Rodriguez |
+| 290 | 257 | Patrick Alley |
 | 291 | 256 | Jackie Miller |
 | 292 | 255 | Britney Kitora |
 | 293 | 251 | Jenn Norcross |
@@ -426,83 +426,83 @@
 | 418 | 186 | June Hoffman |
 | 419 | 186 | Rita Ann |
 | 420 | 185 | Valerie Silva |
-| 421 | 182 | Ashley Eskridge |
-| 422 | 182 | Groovy Towerbuilder |
-| 423 | 182 | Swanky Snapgrid |
+| 421 | 183 | Groovy Towerbuilder |
+| 422 | 182 | Swanky Snapgrid |
+| 423 | 182 | Ashley Eskridge |
 | 424 | 181 | Danny Frausto |
 | 425 | 181 | Linda Miltenburg |
 | 426 | 180 | EvoKitty |
 | 427 | 180 | Silly Rollbuilder |
 | 428 | 179 | LaTanya GeminiondaRise Johnson |
-| 429 | 178 | Alexsandra Hill |
-| 430 | 178 | Linda |
-| 431 | 176 | Keith Kosmicki |
+| 429 | 178 | Linda |
+| 430 | 178 | Alexsandra Hill |
+| 431 | 176 | Dena Lynn Rogers |
 | 432 | 176 | Erik Clary |
-| 433 | 176 | Dena Lynn Rogers |
-| 434 | 175 | Happy Shatterfit |
-| 435 | 175 | Cherrypir05 |
+| 433 | 176 | Keith Kosmicki |
+| 434 | 175 | Quiomarie Cotto |
+| 435 | 175 | Cool Risepiece |
 | 436 | 175 | Mrsjcraw18 |
-| 437 | 175 | Quiomarie Cotto |
-| 438 | 175 | Cool Risepiece |
+| 437 | 175 | Cherrypir05 |
+| 438 | 175 | Happy Shatterfit |
 | 439 | 175 | Diana Fernandez |
 | 440 | 174 | Eddie Fuller |
 | 441 | 172 | Kea Sushi |
 | 442 | 172 | Jen Roe |
 | 443 | 171 | Scrumptious |
 | 444 | 171 | Joe Richard |
-| 445 | 171 | Jen Smith |
-| 446 | 171 | Dayna Arthurs |
+| 445 | 171 | Dayna Arthurs |
+| 446 | 171 | Jen Smith |
 | 447 | 170 | Tipsy Piecebuilder |
-| 448 | 170 | Henry Lanier |
+| 448 | 170 | Edward White |
 | 449 | 170 | Natalie Dillard |
-| 450 | 170 | Edward White |
+| 450 | 170 | Henry Lanier |
 | 451 | 169 | Jeri Anne Stormo-Toman |
 | 452 | 168 | Corie A. Brinson |
 | 453 | 168 | Juvon SupaShawdii Brooks |
 | 454 | 167 | Rosy Perez |
-| 455 | 167 | Brainbabe |
-| 456 | 167 | Jessica Jones Bolton |
-| 457 | 166 | Azahares Alonso |
+| 455 | 167 | Jessica Jones Bolton |
+| 456 | 167 | Brainbabe |
+| 457 | 166 | Rose Anna Safi |
 | 458 | 166 | DizzB400 |
-| 459 | 166 | Rose Anna Safi |
-| 460 | 165 | Ryan Paul Clark-Ramsey |
-| 461 | 165 | 1694AF |
+| 459 | 166 | Azahares Alonso |
+| 460 | 165 | 1694AF |
+| 461 | 165 | Ryan Paul Clark-Ramsey |
 | 462 | 165 | Cherrel M. Causey |
-| 463 | 164 | Lul Babie |
-| 464 | 164 | Mighty1 |
-| 465 | 164 | Lively Cascadebuilder |
-| 466 | 164 | Jennifer Garcia |
-| 467 | 164 | Andrea Dre Lomeli |
-| 468 | 163 | Jeff Margolis |
-| 469 | 163 | Stef |
+| 463 | 164 | Mighty1 |
+| 464 | 164 | Lively Cascadebuilder |
+| 465 | 164 | Lul Babie |
+| 466 | 164 | Andrea Dre Lomeli |
+| 467 | 164 | Jennifer Garcia |
+| 468 | 163 | Stef |
+| 469 | 163 | Jeff Margolis |
 | 470 | 162 | Sarah Leake |
-| 471 | 161 | Donna Bush |
-| 472 | 161 | Candiecane324 |
+| 471 | 161 | Candiecane324 |
+| 472 | 161 | Donna Bush |
 | 473 | 160 | Alice Eisnor-Martens |
-| 474 | 160 | Bre Dee |
-| 475 | 160 | Ada Rodriguez Spradley |
-| 476 | 160 | Mrs |
-| 477 | 160 | Jrr |
-| 478 | 160 | Shy |
-| 479 | 159 | Inez Nez |
-| 480 | 158 | crobb77 |
-| 481 | 158 | Caiti O'Keefe |
-| 482 | 157 | Beth Belanger |
-| 483 | 157 | Travis McKinnon |
-| 484 | 157 | Holly Bramel |
-| 485 | 156 | Teester |
-| 486 | 156 | Simone |
+| 474 | 160 | Shy |
+| 475 | 160 | Mrs |
+| 476 | 160 | Jrr |
+| 477 | 160 | Ada Rodriguez Spradley |
+| 478 | 160 | Bre Dee |
+| 479 | 159 | Mmm |
+| 480 | 159 | Inez Nez |
+| 481 | 158 | crobb77 |
+| 482 | 158 | Caiti O'Keefe |
+| 483 | 157 | Holly Bramel |
+| 484 | 157 | Beth Belanger |
+| 485 | 157 | Travis McKinnon |
+| 486 | 156 | Teester |
 | 487 | 156 | Funky Tiler |
 | 488 | 156 | Suzanne North |
 | 489 | 156 | Swanky Builderline |
-| 490 | 155 | Snippy Racker |
-| 491 | 155 | Nicole Colby McCloskey |
-| 492 | 155 | Shayna Vaigneur-Hall |
-| 493 | 154 | Mmm |
+| 490 | 156 | Simone |
+| 491 | 155 | Snippy Racker |
+| 492 | 155 | Nicole Colby McCloskey |
+| 493 | 155 | Shayna Vaigneur-Hall |
 | 494 | 154 | yourmomz |
 | 495 | 154 | Lani |
-| 496 | 153 | Dawn Marie Trujillo |
-| 497 | 153 | Kandylands |
+| 496 | 153 | Kandylands |
+| 497 | 153 | Dawn Marie Trujillo |
 | 498 | 153 | Tarsha Thomas-Martinez |
 | 499 | 153 | Shawntae Mccary |
 | 500 | 152 | Giggly Column |
