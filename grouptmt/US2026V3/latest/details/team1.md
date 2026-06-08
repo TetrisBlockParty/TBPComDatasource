@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 06:48:20 UTC
+# Standings for team1 as of 2026-06-08 06:48:45 UTC
 
 **Total Participants:** 1747
 
@@ -110,7 +110,7 @@
 | 102 | 747 | Yolanda E Fergerson |
 | 103 | 744 | Chris Caniglia |
 | 104 | 743 | Tameka Jones |
-| 105 | 733 | Sarah Marie |
+| 105 | 741 | Sarah Marie |
 | 106 | 730 | ing410 |
 | 107 | 723 | Eartha Brown |
 | 108 | 720 | Felicia Williams |
@@ -266,12 +266,12 @@
 | 258 | 289 | Cortaz Lawrie |
 | 259 | 287 | Jazzy Fireflighters |
 | 260 | 287 | SyTheEvilGenius1 |
-| 261 | 284 | Frisky Fall |
-| 262 | 283 | Christopher Dreamsareality McEachin |
-| 263 | 283 | BULLSEYE |
-| 264 | 280 | Clever Fitblock |
-| 265 | 280 | Chilly Wipebuilder |
-| 266 | 279 | LaToya Chambers |
+| 261 | 284 | LaToya Chambers |
+| 262 | 284 | Frisky Fall |
+| 263 | 283 | Christopher Dreamsareality McEachin |
+| 264 | 283 | BULLSEYE |
+| 265 | 280 | Clever Fitblock |
+| 266 | 280 | Chilly Wipebuilder |
 | 267 | 279 | Reginald Frank |
 | 268 | 278 | Ann White |
 | 269 | 275 | Chris Sladoje |

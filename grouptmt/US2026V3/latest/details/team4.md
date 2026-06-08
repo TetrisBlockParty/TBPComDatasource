@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 06:48:20 UTC
+# Standings for team4 as of 2026-06-08 06:48:45 UTC
 
 **Total Participants:** 1789
 
@@ -250,103 +250,103 @@
 | 242 | 285 | Dana Abegil Lawas |
 | 243 | 284 | Tipsy Builderline |
 | 244 | 283 | Tiggerjake |
-| 245 | 282 | Goofy Fall |
-| 246 | 282 | Shanna Fragen |
-| 247 | 281 | Capone |
-| 248 | 281 | Waxboss |
+| 245 | 282 | Shanna Fragen |
+| 246 | 282 | Goofy Fall |
+| 247 | 281 | Margie Thomas |
+| 248 | 281 | Capone |
 | 249 | 281 | Ash Gribble |
-| 250 | 281 | Margie Thomas |
-| 251 | 279 | Snippy Splitter |
-| 252 | 279 | Solace Grace |
+| 250 | 281 | Waxboss |
+| 251 | 279 | Solace Grace |
+| 252 | 279 | Snippy Splitter |
 | 253 | 278 | Tamara Triplet |
 | 254 | 277 | Giggly Tilt |
 | 255 | 276 | Lori Stembridge |
 | 256 | 275 | Jeremy |
-| 257 | 274 | Dominique Melendez |
-| 258 | 274 | Sherry Mooney |
+| 257 | 274 | Sherry Mooney |
+| 258 | 274 | Dominique Melendez |
 | 259 | 271 | Tina Thomas |
 | 260 | 270 | Lucy Honer |
 | 261 | 269 | Spunky Gridzone |
-| 262 | 269 | George Palacios |
-| 263 | 269 | Spicy Chicken |
+| 262 | 269 | Spicy Chicken |
+| 263 | 269 | George Palacios |
 | 264 | 268 | Bonnie Powell |
 | 265 | 268 | Kelly Howland |
 | 266 | 267 | Chirpy Link |
 | 267 | 266 | tigerlilly |
-| 268 | 261 | Brooke Arroyo |
-| 269 | 261 | Renee Sapp |
+| 268 | 261 | Renee Sapp |
+| 269 | 261 | Brooke Arroyo |
 | 270 | 260 | Troy Zanelli |
-| 271 | 260 | Wanda Simmons |
-| 272 | 260 | Silly Risegrid |
-| 273 | 259 | Sandra Stark |
-| 274 | 259 | Jessica Peyton |
+| 271 | 260 | Silly Risegrid |
+| 272 | 260 | Wanda Simmons |
+| 273 | 259 | Jessica Peyton |
+| 274 | 259 | Sandra Stark |
 | 275 | 257 | Patrick Alley |
 | 276 | 256 | Jackie Miller |
 | 277 | 255 | Britney Kitora |
 | 278 | 253 | Stasia |
-| 279 | 251 | EL Booger |
+| 279 | 251 | Jj Johnson |
 | 280 | 251 | Jenn Norcross |
-| 281 | 251 | Jj Johnson |
-| 282 | 248 | Becky McCool |
-| 283 | 247 | Shauna Davis |
+| 281 | 251 | EL Booger |
+| 282 | 250 | Shannon Rivera |
+| 283 | 248 | Becky McCool |
 | 284 | 247 | Bridget Stevens |
-| 285 | 244 | Lisa lisa |
-| 286 | 244 | Queen B |
-| 287 | 243 | Jacqueline Jackii Ramos |
-| 288 | 243 | Mark Norton |
-| 289 | 241 | Alma López Morales |
-| 290 | 240 | Swanky Brickzone |
-| 291 | 240 | Jaci Marie |
-| 292 | 240 | Saucy Wipepiece |
-| 293 | 239 | bollo |
-| 294 | 238 | Tara Delay Hill |
-| 295 | 238 | Tipsy Zonebuilder |
-| 296 | 237 | Deborah Silberg |
-| 297 | 237 | Jazzy Gridder |
-| 298 | 233 | Joseph Hunter |
+| 285 | 247 | Shauna Davis |
+| 286 | 245 | Jacqueline Jackii Ramos |
+| 287 | 244 | Lisa lisa |
+| 288 | 244 | Queen B |
+| 289 | 243 | Mark Norton |
+| 290 | 241 | Alma López Morales |
+| 291 | 240 | Saucy Wipepiece |
+| 292 | 240 | Jaci Marie |
+| 293 | 240 | Swanky Brickzone |
+| 294 | 239 | bollo |
+| 295 | 238 | Tara Delay Hill |
+| 296 | 238 | Tipsy Zonebuilder |
+| 297 | 237 | Deborah Silberg |
+| 298 | 237 | Jazzy Gridder |
 | 299 | 233 | SupaFly |
-| 300 | 232 | Samara Garcia |
-| 301 | 230 | gabs |
-| 302 | 230 | Adam Dickinson |
-| 303 | 229 | Brennan Shea Greene |
-| 304 | 228 | Shiny Brick |
+| 300 | 233 | Joseph Hunter |
+| 301 | 232 | Samara Garcia |
+| 302 | 230 | gabs |
+| 303 | 230 | Adam Dickinson |
+| 304 | 229 | Brennan Shea Greene |
 | 305 | 228 | Andrick |
-| 306 | 227 | Stephanie Myers |
-| 307 | 227 | Kimyatta Cavin |
-| 308 | 227 | Jace McCullough |
-| 309 | 226 | Justin Michael |
+| 306 | 228 | Shiny Brick |
+| 307 | 227 | Jace McCullough |
+| 308 | 227 | Kimyatta Cavin |
+| 309 | 227 | Stephanie Myers |
 | 310 | 226 | Susan Stofberg Beltran |
 | 311 | 226 | Sassy Rollpiece |
-| 312 | 225 | No Time |
+| 312 | 226 | Justin Michael |
 | 313 | 225 | Melika Zeheb |
-| 314 | 224 | Flashy Shatterer |
-| 315 | 224 | Ashley Jenkins |
-| 316 | 223 | Bouncy |
-| 317 | 223 | Frothy Pattern |
-| 318 | 223 | Leslie Ann Carter |
-| 319 | 222 | Cheeky Fallzone |
-| 320 | 222 | Karen Davis |
-| 321 | 221 | JuicyJuice |
-| 322 | 220 | Sarah Montagne Forsberg |
+| 314 | 225 | No Time |
+| 315 | 224 | Flashy Shatterer |
+| 316 | 224 | Ashley Jenkins |
+| 317 | 223 | Bouncy |
+| 318 | 223 | Frothy Pattern |
+| 319 | 223 | Leslie Ann Carter |
+| 320 | 222 | Cheeky Fallzone |
+| 321 | 222 | Karen Davis |
+| 322 | 221 | JuicyJuice |
 | 323 | 220 | Holly Wessel |
-| 324 | 220 | Maurice DeJean |
+| 324 | 220 | Sarah Montagne Forsberg |
 | 325 | 220 | Anthony Magaraci |
-| 326 | 219 | farfromlocal |
-| 327 | 219 | Crystal Hammonds |
-| 328 | 219 | Tiffany Smith |
-| 329 | 218 | Codey Haffner |
-| 330 | 216 | Smiley Gridzone |
+| 326 | 220 | Maurice DeJean |
+| 327 | 219 | farfromlocal |
+| 328 | 219 | Crystal Hammonds |
+| 329 | 219 | Tiffany Smith |
+| 330 | 218 | Codey Haffner |
 | 331 | 216 | Alyson M Kehler |
-| 332 | 214 | jaz |
-| 333 | 212 | Karen Rodriguez |
-| 334 | 210 | Sfalcon1. |
-| 335 | 210 | Mark Fitch Jr. |
-| 336 | 209 | Lively Blockpiece |
-| 337 | 209 | Ashley Mcdonald |
-| 338 | 208 | Justin Janachovsky |
-| 339 | 207 | ariel |
-| 340 | 207 | Lanelva Tiredofbs Marshall |
-| 341 | 207 | Shannon Rivera |
+| 332 | 216 | Smiley Gridzone |
+| 333 | 214 | jaz |
+| 334 | 212 | Karen Rodriguez |
+| 335 | 210 | Sfalcon1. |
+| 336 | 210 | Mark Fitch Jr. |
+| 337 | 209 | Lively Blockpiece |
+| 338 | 209 | Ashley Mcdonald |
+| 339 | 208 | Justin Janachovsky |
+| 340 | 207 | ariel |
+| 341 | 207 | Lanelva Tiredofbs Marshall |
 | 342 | 206 | Brandy Lynn |
 | 343 | 206 | Joab Gonzalez |
 | 344 | 206 | Stacy G |
@@ -356,8 +356,8 @@
 | 348 | 205 | Littlebrat |
 | 349 | 204 | Dapper Strikerpiece |
 | 350 | 204 | Clashy |
-| 351 | 202 | kellie |
-| 352 | 202 | Breezy Cascadeclear |
+| 351 | 202 | Breezy Cascadeclear |
+| 352 | 202 | kellie |
 | 353 | 202 | Chris McBlockster |
 | 354 | 202 | Lora Schallert |
 | 355 | 201 | LaToya LeBlanc |
