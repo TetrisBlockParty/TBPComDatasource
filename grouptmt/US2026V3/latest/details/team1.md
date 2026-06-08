@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:42:40 UTC
+# Standings for team1 as of 2026-06-08 10:43:19 UTC
 
 **Total Participants:** 1777
 
@@ -209,20 +209,20 @@
 | 201 | 380 | Felicia Cain |
 | 202 | 377 | AF Cruz |
 | 203 | 375 | Joey Albright |
-| 204 | 370 | Allison Baxter |
-| 205 | 369 | TT |
-| 206 | 367 | Jazzy Fireflighters |
-| 207 | 367 | Leebo Slice |
-| 208 | 366 | Tina Mitchell |
+| 204 | 372 | David Fuentes |
+| 205 | 370 | Allison Baxter |
+| 206 | 369 | TT |
+| 207 | 367 | Jazzy Fireflighters |
+| 208 | 367 | Leebo Slice |
 | 209 | 366 | Byron Mario Cawthon |
-| 210 | 365 | Tishauna Virgo |
-| 211 | 364 | Michele Simpson |
-| 212 | 363 | Christina Rebecca |
-| 213 | 363 | BULLSEYE |
-| 214 | 363 | Zippy Tilefall |
-| 215 | 362 | Jessica Russell |
-| 216 | 361 | John Staub |
-| 217 | 357 | David Fuentes |
+| 210 | 366 | Tina Mitchell |
+| 211 | 365 | Tishauna Virgo |
+| 212 | 364 | Michele Simpson |
+| 213 | 363 | Christina Rebecca |
+| 214 | 363 | BULLSEYE |
+| 215 | 363 | Zippy Tilefall |
+| 216 | 362 | Jessica Russell |
+| 217 | 361 | John Staub |
 | 218 | 356 | Haley Bell |
 | 219 | 356 | Dedra M Prester |
 | 220 | 354 | Keke Ferguson |
@@ -308,12 +308,12 @@
 | 300 | 255 | Falisa Bell |
 | 301 | 254 | Smiley Clearpiece |
 | 302 | 253 | Tasha |
-| 303 | 252 | Andrew Jay Vaughn |
-| 304 | 250 | Deveda Williams |
-| 305 | 249 | StingerD |
-| 306 | 248 | Mikayla |
-| 307 | 248 | Darrel K Pemberton |
-| 308 | 247 | Snippy Breaker |
+| 303 | 253 | Snippy Breaker |
+| 304 | 252 | Andrew Jay Vaughn |
+| 305 | 250 | Deveda Williams |
+| 306 | 249 | StingerD |
+| 307 | 248 | Mikayla |
+| 308 | 248 | Darrel K Pemberton |
 | 309 | 246 | Curtis T Cirno |
 | 310 | 245 | Kelli Couture |
 | 311 | 245 | Derrius SeriousLee Burks |
@@ -453,70 +453,70 @@
 | 445 | 167 | Mister Reid |
 | 446 | 167 | MonaSparks |
 | 447 | 167 | Charlene Baltimore |
-| 448 | 166 | Analiza Ramos |
-| 449 | 166 | Teresa Yanira Cepeda |
+| 448 | 166 | Teresa Yanira Cepeda |
+| 449 | 166 | Analiza Ramos |
 | 450 | 166 | BlackQueen105 |
 | 451 | 166 | Melissa Olvera |
 | 452 | 165 | SceneGreenz Wali |
 | 453 | 165 | Tanisha Taylor |
-| 454 | 165 | Juan Alvarez |
-| 455 | 164 | Dede Tate |
-| 456 | 164 | Breezy Catcher |
-| 457 | 163 | Daring Blockclear |
-| 458 | 163 | Dandy Brickfit |
-| 459 | 162 | Lauraly |
-| 460 | 162 | Speedy Stacky |
-| 461 | 162 | Twisty Cascadeclear |
-| 462 | 161 | Devron Reedy |
-| 463 | 161 | boogeywoogey |
-| 464 | 160 | Cheeky Twistpiece |
-| 465 | 160 | Jean Regis |
-| 466 | 160 | Tracey Johnson |
-| 467 | 160 | Slinky Clearzone |
+| 454 | 165 | Douglas Price |
+| 455 | 165 | Juan Alvarez |
+| 456 | 164 | Dede Tate |
+| 457 | 164 | Breezy Catcher |
+| 458 | 163 | Daring Blockclear |
+| 459 | 163 | Dandy Brickfit |
+| 460 | 162 | Lauraly |
+| 461 | 162 | Speedy Stacky |
+| 462 | 162 | Twisty Cascadeclear |
+| 463 | 161 | Devron Reedy |
+| 464 | 161 | boogeywoogey |
+| 465 | 160 | Cheeky Twistpiece |
+| 466 | 160 | Jean Regis |
+| 467 | 160 | Tracey Johnson |
 | 468 | 160 | Adrian Wilson |
-| 469 | 160 | Malcolm Stanley |
-| 470 | 160 | Carolyn Smith |
-| 471 | 159 | Loopy Tiler |
-| 472 | 159 | Tracy Feyler |
-| 473 | 159 | Tee Spinks |
-| 474 | 158 | Kimberly Linares Hernandez |
+| 469 | 160 | Slinky Clearzone |
+| 470 | 160 | Malcolm Stanley |
+| 471 | 160 | Carolyn Smith |
+| 472 | 159 | Loopy Tiler |
+| 473 | 159 | Tracy Feyler |
+| 474 | 159 | Tee Spinks |
 | 475 | 158 | Mahagony Small |
-| 476 | 157 | Douglas Price |
+| 476 | 158 | Kimberly Linares Hernandez |
 | 477 | 157 | Rachel Renae Bettis |
-| 478 | 156 | Johnathan Deese |
-| 479 | 156 | Chris Holland |
-| 480 | 156 | Amy Villalpando |
-| 481 | 156 | Shalya Terry |
-| 482 | 156 | Lakiesha Crawford |
-| 483 | 155 | nameno |
-| 484 | 155 | Tajuana Juana'Cee Coleman |
-| 485 | 155 | Kala Miller |
-| 486 | 155 | Miera Nicole |
-| 487 | 155 | Katrina Ramey |
+| 478 | 156 | Amy Villalpando |
+| 479 | 156 | Lakiesha Crawford |
+| 480 | 156 | Shalya Terry |
+| 481 | 156 | Chris Holland |
+| 482 | 156 | Johnathan Deese |
+| 483 | 155 | Miera Nicole |
+| 484 | 155 | Kala Miller |
+| 485 | 155 | Katrina Ramey |
+| 486 | 155 | nameno |
+| 487 | 155 | Tajuana Juana'Cee Coleman |
 | 488 | 155 | Jae Thompson-Tyus |
-| 489 | 154 | Rebecca Jackson |
-| 490 | 154 | Jenni Hardman |
+| 489 | 154 | Dorian Griffin |
+| 490 | 154 | Brittanie Wardlow |
 | 491 | 154 | Glitzy Clusterer |
 | 492 | 154 | Ciera Peace |
-| 493 | 154 | Brittanie Wardlow |
-| 494 | 154 | Dorian Griffin |
+| 493 | 154 | Rebecca Jackson |
+| 494 | 154 | Jenni Hardman |
 | 495 | 153 | Holly Baker |
 | 496 | 152 | Wacky Stackbuilder |
 | 497 | 152 | Taz Ballard |
-| 498 | 151 | Shakuria Cortia Burney |
-| 499 | 151 | Yashica Smith |
-| 500 | 151 | Jimmy Shannon |
-| 501 | 151 | Perky Balancer |
-| 502 | 150 | Marshall Davis |
-| 503 | 150 | Nisha Sunshine Jenkins |
-| 504 | 150 | Kamilya Rembert |
+| 498 | 151 | Jimmy Shannon |
+| 499 | 151 | Perky Balancer |
+| 500 | 151 | Yashica Smith |
+| 501 | 151 | Shakuria Cortia Burney |
+| 502 | 150 | Kamilya Rembert |
+| 503 | 150 | Marshall Davis |
+| 504 | 150 | Nisha Sunshine Jenkins |
 | 505 | 149 | Mighty Dropper |
-| 506 | 149 | Kristie |
-| 507 | 149 | Casey Chapman |
-| 508 | 148 | Faith Armone |
-| 509 | 148 | Shannon Carriger |
-| 510 | 148 | Seddrick |
-| 511 | 148 | Cauiasia DeJ'ae |
+| 506 | 149 | Casey Chapman |
+| 507 | 149 | Kristie |
+| 508 | 148 | Cauiasia DeJ'ae |
+| 509 | 148 | Seddrick |
+| 510 | 148 | Shannon Carriger |
+| 511 | 148 | Faith Armone |
 | 512 | 148 | Christi Walker Patton |
 | 513 | 148 | Rufus |
 | 514 | 148 | Rhianna Dinki Austin |
