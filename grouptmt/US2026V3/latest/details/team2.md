@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 11:00:43 UTC
+# Standings for team2 as of 2026-06-08 11:01:21 UTC
 
 **Total Participants:** 2154
 
@@ -28,7 +28,7 @@
 | 20 | 5150 | boblawboblaw |
 | 21 | 5001 | Bobbi |
 | 22 | 4947 | Lola C Davis |
-| 23 | 4659 | Alexia Reagan |
+| 23 | 4672 | Alexia Reagan |
 | 24 | 4509 | Kathleen M Cox |
 | 25 | 4228 | Erica Dees Parks |
 | 26 | 4219 | Jewels |
@@ -109,8 +109,8 @@
 | 101 | 1000 | Sydney Headley |
 | 102 | 988 | Dane Marko |
 | 103 | 978 | Renee Freeman Jacobson |
-| 104 | 966 | Allison Jarman |
-| 105 | 954 | Bon Lynn |
+| 104 | 974 | Bon Lynn |
+| 105 | 966 | Allison Jarman |
 | 106 | 946 | Jazzy Faller |
 | 107 | 945 | Jef Wassom |
 | 108 | 929 | Marquetta Johnson |
@@ -250,8 +250,8 @@
 | 242 | 395 | Sarina Vollink |
 | 243 | 392 | Bri St Peter |
 | 244 | 391 | La chulis |
-| 245 | 390 | Fudgie Pie |
-| 246 | 386 | Heather Burgett |
+| 245 | 390 | Heather Burgett |
+| 246 | 390 | Fudgie Pie |
 | 247 | 386 | Jennifer Smith |
 | 248 | 383 | Jenna Stahl |
 | 249 | 382 | Rachel Nilles |
@@ -280,11 +280,11 @@
 | 272 | 337 | Ashley Billiot Rhodes |
 | 273 | 337 | Adriana Daniela Agapie |
 | 274 | 331 | Shannon Wilson |
-| 275 | 328 | Xandrea Jones |
-| 276 | 328 | Tim Tim |
-| 277 | 327 | Iesha Cupil |
-| 278 | 327 | Jumpy Matchbuilder |
-| 279 | 327 | Chipper Stackbuilder |
+| 275 | 330 | Chipper Stackbuilder |
+| 276 | 328 | Xandrea Jones |
+| 277 | 328 | Tim Tim |
+| 278 | 327 | Iesha Cupil |
+| 279 | 327 | Jumpy Matchbuilder |
 | 280 | 325 | Flashy Twistline |
 | 281 | 325 | Snappy Combo |
 | 282 | 324 | Swanky Fitline |
@@ -1386,27 +1386,27 @@
 | 1378 | 48 | CowboyChalie |
 | 1379 | 48 | Jodi Schessler Konsella |
 | 1380 | 48 | Jaelyn Orr |
-| 1381 | 48 | Glitzy Stack |
-| 1382 | 48 | Laura Zavala |
-| 1383 | 48 | Annie Hebdon |
-| 1384 | 48 | Hoppy Gridder |
-| 1385 | 48 | Katelynn Hunt |
-| 1386 | 48 | Krystle McCaslin |
-| 1387 | 47 | Ozge Akgun Tokat |
-| 1388 | 47 | SarahandAaron Prim |
-| 1389 | 47 | Spicy Enchilada |
-| 1390 | 47 | Robin Lamb |
-| 1391 | 47 | Angela Knighton |
-| 1392 | 47 | Bruce Bower |
-| 1393 | 47 | Jessi Ann |
-| 1394 | 47 | Chey |
-| 1395 | 47 | sam |
-| 1396 | 47 | Snippy Tilefall |
-| 1397 | 47 | Shellie Kioutas |
-| 1398 | 46 | Elizabeth Barnhart Floyd |
-| 1399 | 46 | Spunky Snapfall |
+| 1381 | 48 | Amy |
+| 1382 | 48 | Glitzy Stack |
+| 1383 | 48 | Laura Zavala |
+| 1384 | 48 | Annie Hebdon |
+| 1385 | 48 | Hoppy Gridder |
+| 1386 | 48 | Katelynn Hunt |
+| 1387 | 48 | Krystle McCaslin |
+| 1388 | 47 | Ozge Akgun Tokat |
+| 1389 | 47 | SarahandAaron Prim |
+| 1390 | 47 | Spicy Enchilada |
+| 1391 | 47 | Robin Lamb |
+| 1392 | 47 | Angela Knighton |
+| 1393 | 47 | Bruce Bower |
+| 1394 | 47 | Jessi Ann |
+| 1395 | 47 | Chey |
+| 1396 | 47 | sam |
+| 1397 | 47 | Snippy Tilefall |
+| 1398 | 47 | Shellie Kioutas |
+| 1399 | 46 | Elizabeth Barnhart Floyd |
 | 1400 | 46 | Octavius Walker |
-| 1401 | 46 | Amy |
+| 1401 | 46 | Spunky Snapfall |
 | 1402 | 46 | Thomas Chris |
 | 1403 | 46 | Matthew Black |
 | 1404 | 46 | Kodi Gay |
