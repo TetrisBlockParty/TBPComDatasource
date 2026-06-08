@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:40:19 UTC
+# Standings for team2 as of 2026-06-08 09:40:43 UTC
 
 **Total Participants:** 2145
 
@@ -2074,57 +2074,57 @@
 | 2066 | 9 | Cordillia Barela |
 | 2067 | 9 | Crystal Greene |
 | 2068 | 9 | Shawn Bossuot |
-| 2069 | 8 | Brandy McGuffey |
-| 2070 | 8 | Tipsy Splitter |
-| 2071 | 8 | Sammi Jo |
-| 2072 | 8 | Epic Balanceblock |
-| 2073 | 8 | Lisa Amick |
-| 2074 | 8 | Elizabeth Miller |
-| 2075 | 8 | Chirpy Rollfit |
-| 2076 | 8 | Lissa |
-| 2077 | 8 | Jennifer Bromeisl-Tettam |
-| 2078 | 8 | Perky Party |
-| 2079 | 8 | Crystal Alexander |
-| 2080 | 8 | Funky Slide |
-| 2081 | 8 | Tina Doyens Munis |
-| 2082 | 8 | Mariah Mandel |
-| 2083 | 8 | Jumpy Twistslam |
-| 2084 | 8 | Zippy Balance |
-| 2085 | 7 | Brenda Ohaus Facher |
-| 2086 | 7 | Janice Simpson |
-| 2087 | 7 | StacyK |
-| 2088 | 7 | Flashy Cascadeclear |
-| 2089 | 7 | Mighty Tiltpiece |
-| 2090 | 7 | Crystal King |
-| 2091 | 7 | michael |
-| 2092 | 7 | Elizabeth Elaine Coursey |
-| 2093 | 7 | Holly Riley |
-| 2094 | 7 | Kevin Ray Cook |
-| 2095 | 7 | Dionne Borden |
-| 2096 | 7 | Carl Antonucci |
-| 2097 | 7 | Terri Jane Hardin |
-| 2098 | 7 | bluesky |
-| 2099 | 7 | Loony Pop |
+| 2069 | 8 | Tipsy Splitter |
+| 2070 | 8 | Perky Party |
+| 2071 | 8 | Jennifer Bromeisl-Tettam |
+| 2072 | 8 | Brandy McGuffey |
+| 2073 | 8 | Lissa |
+| 2074 | 8 | Chirpy Rollfit |
+| 2075 | 8 | Sammi Jo |
+| 2076 | 8 | Elizabeth Miller |
+| 2077 | 8 | Loony Shatter |
+| 2078 | 8 | Epic Balanceblock |
+| 2079 | 8 | Lisa Amick |
+| 2080 | 8 | Crystal Alexander |
+| 2081 | 8 | Funky Slide |
+| 2082 | 8 | Tina Doyens Munis |
+| 2083 | 8 | Mariah Mandel |
+| 2084 | 8 | Jumpy Twistslam |
+| 2085 | 8 | Zippy Balance |
+| 2086 | 7 | Brenda Ohaus Facher |
+| 2087 | 7 | Janice Simpson |
+| 2088 | 7 | StacyK |
+| 2089 | 7 | Flashy Cascadeclear |
+| 2090 | 7 | Mighty Tiltpiece |
+| 2091 | 7 | Crystal King |
+| 2092 | 7 | michael |
+| 2093 | 7 | Elizabeth Elaine Coursey |
+| 2094 | 7 | Holly Riley |
+| 2095 | 7 | Carl Antonucci |
+| 2096 | 7 | Loony Pop |
+| 2097 | 7 | bluesky |
+| 2098 | 7 | Dionne Borden |
+| 2099 | 7 | Kevin Ray Cook |
 | 2100 | 7 | Sassy Swiper |
-| 2101 | 7 | Michael Bond |
-| 2102 | 7 | Ephysta |
-| 2103 | 7 | Lush Tile |
-| 2104 | 7 | Pico |
-| 2105 | 7 | Leslie Baker |
-| 2106 | 7 | VikinGs Vnm |
-| 2107 | 7 | Carl Gadberry |
-| 2108 | 7 | Ashley |
-| 2109 | 7 | Amy DeSoto |
-| 2110 | 6 | Cranky Zonebuilder |
-| 2111 | 6 | Bubbly Liner |
-| 2112 | 6 | Nicole Immoos |
-| 2113 | 6 | Michael Brow |
-| 2114 | 6 | Cara Douglas |
+| 2101 | 7 | Terri Jane Hardin |
+| 2102 | 7 | Michael Bond |
+| 2103 | 7 | Ephysta |
+| 2104 | 7 | Lush Tile |
+| 2105 | 7 | Pico |
+| 2106 | 7 | Leslie Baker |
+| 2107 | 7 | VikinGs Vnm |
+| 2108 | 7 | Carl Gadberry |
+| 2109 | 7 | Ashley |
+| 2110 | 7 | Amy DeSoto |
+| 2111 | 6 | Cranky Zonebuilder |
+| 2112 | 6 | Bubbly Liner |
+| 2113 | 6 | Nicole Immoos |
+| 2114 | 6 | Michael Brow |
 | 2115 | 6 | Crystal |
 | 2116 | 6 | Slay bestie |
-| 2117 | 6 | Loony Shatter |
-| 2118 | 6 | Dan Foster |
-| 2119 | 6 | Anna Hale |
+| 2117 | 6 | Cara Douglas |
+| 2118 | 6 | Anna Hale |
+| 2119 | 6 | Dan Foster |
 | 2120 | 6 | MD |
 | 2121 | 6 | Michelle Brown |
 | 2122 | 6 | Bowling girl |
@@ -2141,16 +2141,16 @@
 | 2133 | 5 | Dapper Clearpiece |
 | 2134 | 5 | Nolife |
 | 2135 | 5 | Brittany Weatherspoon |
-| 2136 | 5 | Splashy |
-| 2137 | 5 | Hillary Pizzuti |
-| 2138 | 5 | Miles McMahon |
-| 2139 | 5 | Loony Matcher |
-| 2140 | 5 | Gloria Hyita |
-| 2141 | 5 | Karen Moore |
-| 2142 | 5 | Teri |
-| 2143 | 5 | Michael Davis |
-| 2144 | 5 | Cheery Filler |
-| 2145 | 5 | Quirky Liney |
+| 2136 | 5 | Hillary Pizzuti |
+| 2137 | 5 | Miles McMahon |
+| 2138 | 5 | Loony Matcher |
+| 2139 | 5 | Gloria Hyita |
+| 2140 | 5 | Karen Moore |
+| 2141 | 5 | Teri |
+| 2142 | 5 | Michael Davis |
+| 2143 | 5 | Cheery Filler |
+| 2144 | 5 | Quirky Liney |
+| 2145 | 5 | Splashy |
 
 ---
 *Standings created by tournaments datasource generation tool*
