@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:42:20 UTC
+# Standings for team2 as of 2026-06-08 09:42:44 UTC
 
 **Total Participants:** 2145
 
@@ -2074,52 +2074,52 @@
 | 2066 | 9 | Cordillia Barela |
 | 2067 | 9 | Crystal Greene |
 | 2068 | 9 | Shawn Bossuot |
-| 2069 | 8 | Tipsy Splitter |
-| 2070 | 8 | Perky Party |
-| 2071 | 8 | Jennifer Bromeisl-Tettam |
-| 2072 | 8 | Brandy McGuffey |
-| 2073 | 8 | Lissa |
-| 2074 | 8 | Chirpy Rollfit |
-| 2075 | 8 | Sammi Jo |
-| 2076 | 8 | Elizabeth Miller |
-| 2077 | 8 | Loony Shatter |
-| 2078 | 8 | Epic Balanceblock |
-| 2079 | 8 | Lisa Amick |
-| 2080 | 8 | Crystal Alexander |
-| 2081 | 8 | Funky Slide |
-| 2082 | 8 | Tina Doyens Munis |
-| 2083 | 8 | Mariah Mandel |
-| 2084 | 8 | Jumpy Twistslam |
-| 2085 | 8 | Zippy Balance |
-| 2086 | 7 | Brenda Ohaus Facher |
-| 2087 | 7 | Janice Simpson |
-| 2088 | 7 | StacyK |
-| 2089 | 7 | Flashy Cascadeclear |
-| 2090 | 7 | Mighty Tiltpiece |
-| 2091 | 7 | Crystal King |
-| 2092 | 7 | michael |
-| 2093 | 7 | Elizabeth Elaine Coursey |
-| 2094 | 7 | Holly Riley |
-| 2095 | 7 | Carl Antonucci |
-| 2096 | 7 | Loony Pop |
-| 2097 | 7 | bluesky |
-| 2098 | 7 | Dionne Borden |
-| 2099 | 7 | Kevin Ray Cook |
-| 2100 | 7 | Sassy Swiper |
-| 2101 | 7 | Terri Jane Hardin |
-| 2102 | 7 | Michael Bond |
-| 2103 | 7 | Ephysta |
-| 2104 | 7 | Lush Tile |
-| 2105 | 7 | Pico |
-| 2106 | 7 | Leslie Baker |
-| 2107 | 7 | VikinGs Vnm |
-| 2108 | 7 | Carl Gadberry |
-| 2109 | 7 | Ashley |
-| 2110 | 7 | Amy DeSoto |
+| 2069 | 8 | Amy DeSoto |
+| 2070 | 8 | Tipsy Splitter |
+| 2071 | 8 | Sammi Jo |
+| 2072 | 8 | Lisa Amick |
+| 2073 | 8 | Loony Shatter |
+| 2074 | 8 | Epic Balanceblock |
+| 2075 | 8 | Elizabeth Miller |
+| 2076 | 8 | Lissa |
+| 2077 | 8 | Chirpy Rollfit |
+| 2078 | 8 | Brandy McGuffey |
+| 2079 | 8 | Perky Party |
+| 2080 | 8 | Jennifer Bromeisl-Tettam |
+| 2081 | 8 | Crystal Alexander |
+| 2082 | 8 | Funky Slide |
+| 2083 | 8 | Tina Doyens Munis |
+| 2084 | 8 | Mariah Mandel |
+| 2085 | 8 | Jumpy Twistslam |
+| 2086 | 8 | Zippy Balance |
+| 2087 | 7 | Brenda Ohaus Facher |
+| 2088 | 7 | Janice Simpson |
+| 2089 | 7 | StacyK |
+| 2090 | 7 | Flashy Cascadeclear |
+| 2091 | 7 | Mighty Tiltpiece |
+| 2092 | 7 | Crystal King |
+| 2093 | 7 | michael |
+| 2094 | 7 | Elizabeth Elaine Coursey |
+| 2095 | 7 | Holly Riley |
+| 2096 | 7 | Kevin Ray Cook |
+| 2097 | 7 | Carl Antonucci |
+| 2098 | 7 | Sassy Swiper |
+| 2099 | 7 | bluesky |
+| 2100 | 7 | Terri Jane Hardin |
+| 2101 | 7 | Dionne Borden |
+| 2102 | 7 | Loony Pop |
+| 2103 | 7 | Michael Bond |
+| 2104 | 7 | Ephysta |
+| 2105 | 7 | Lush Tile |
+| 2106 | 7 | Pico |
+| 2107 | 7 | Leslie Baker |
+| 2108 | 7 | VikinGs Vnm |
+| 2109 | 7 | Carl Gadberry |
+| 2110 | 7 | Ashley |
 | 2111 | 6 | Cranky Zonebuilder |
 | 2112 | 6 | Bubbly Liner |
-| 2113 | 6 | Nicole Immoos |
-| 2114 | 6 | Michael Brow |
+| 2113 | 6 | Michael Brow |
+| 2114 | 6 | Nicole Immoos |
 | 2115 | 6 | Crystal |
 | 2116 | 6 | Slay bestie |
 | 2117 | 6 | Cara Douglas |
