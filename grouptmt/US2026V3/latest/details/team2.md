@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:48:20 UTC
+# Standings for team2 as of 2026-06-08 09:48:43 UTC
 
 **Total Participants:** 2145
 
@@ -301,9 +301,9 @@
 | 293 | 308 | Heather Burgett |
 | 294 | 306 | Brittney Williams |
 | 295 | 305 | Melissa Clogher White |
-| 296 | 305 | Logan Duffey |
-| 297 | 305 | Havik Whitfield |
-| 298 | 300 | Nathan Walker |
+| 296 | 305 | Nathan Walker |
+| 297 | 305 | Logan Duffey |
+| 298 | 305 | Havik Whitfield |
 | 299 | 300 | Sarah Rodriguez |
 | 300 | 300 | Patricia Carroll |
 | 301 | 300 | Starvinmarvin |
