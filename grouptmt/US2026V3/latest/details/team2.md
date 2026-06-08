@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:22:41 UTC
+# Standings for team2 as of 2026-06-08 17:23:21 UTC
 
 **Total Participants:** 2225
 
@@ -176,17 +176,17 @@
 | 168 | 626 | Dsabrina Maxey |
 | 169 | 619 | Jeska Gaines |
 | 170 | 614 | Kellie Sharp Godfrey |
-| 171 | 609 | Michelle Rich Burkhart |
-| 172 | 609 | Pooh |
+| 171 | 609 | Pooh |
+| 172 | 609 | Michelle Rich Burkhart |
 | 173 | 600 | Theresa Marie |
 | 174 | 587 | Kevin Mccoy |
 | 175 | 587 | Kathleen Dumbazz |
 | 176 | 582 | Zarah Kettler |
-| 177 | 578 | Monique Frantz |
-| 178 | 578 | Bubbly Strikerpiece |
-| 179 | 577 | Lindsay Klemp |
-| 180 | 577 | Chasity Simpson |
-| 181 | 577 | Nikki Hayes |
+| 177 | 578 | Bubbly Strikerpiece |
+| 178 | 578 | Monique Frantz |
+| 179 | 577 | Nikki Hayes |
+| 180 | 577 | Lindsay Klemp |
+| 181 | 577 | Chasity Simpson |
 | 182 | 574 | Brandy McCune Reep |
 | 183 | 571 | Robin G |
 | 184 | 569 | Vistabrat |
@@ -197,8 +197,8 @@
 | 189 | 542 | Spicy Risegrid |
 | 190 | 537 | Alicia Ellenburg |
 | 191 | 536 | Leigh Ann |
-| 192 | 529 | Kimmyc |
-| 193 | 529 | Mom |
+| 192 | 529 | Mom |
+| 193 | 529 | Kimmyc |
 | 194 | 527 | Amy Gale |
 | 195 | 526 | MegaPooh |
 | 196 | 521 | Steven Craig |
@@ -224,10 +224,10 @@
 | 216 | 478 | Tim Tim |
 | 217 | 476 | Sara Perkins |
 | 218 | 475 | Twisty Buildgrid |
-| 219 | 471 | Ashley Green |
+| 219 | 474 | Ashley Green |
 | 220 | 470 | Zany Blockclear |
-| 221 | 469 | Danielle Blount |
-| 222 | 469 | Lashanda Bertram |
+| 221 | 469 | Lashanda Bertram |
+| 222 | 469 | Danielle Blount |
 | 223 | 467 | Lisa Underwood Desmond |
 | 224 | 463 | Gill |
 | 225 | 462 | Charles E Mccardell |
@@ -248,16 +248,16 @@
 | 240 | 435 | Tami Kay Williams Watson |
 | 241 | 434 | Janelle Edgecombe |
 | 242 | 430 | Jenn |
-| 243 | 429 | Nikki EightySixed |
-| 244 | 428 | Physhie |
-| 245 | 427 | Flower_child |
-| 246 | 427 | SilentBuffalo |
-| 247 | 425 | Becca Marie |
-| 248 | 423 | MaddieCherie |
-| 249 | 423 | Tara |
-| 250 | 418 | Breeana Bennett |
-| 251 | 416 | Lyric Price |
-| 252 | 415 | Michelle Luke Banta |
+| 243 | 430 | Michelle Luke Banta |
+| 244 | 429 | Nikki EightySixed |
+| 245 | 428 | Physhie |
+| 246 | 427 | Flower_child |
+| 247 | 427 | SilentBuffalo |
+| 248 | 425 | Becca Marie |
+| 249 | 423 | MaddieCherie |
+| 250 | 423 | Tara |
+| 251 | 418 | Breeana Bennett |
+| 252 | 416 | Lyric Price |
 | 253 | 414 | Cathy Lee Stoneking |
 | 254 | 412 | Goofy Gridclear |
 | 255 | 412 | Greta Warden |
@@ -635,22 +635,22 @@
 | 627 | 163 | Fancy Stacker |
 | 628 | 163 | Jessica Garoutte |
 | 629 | 162 | Mrs biotch |
-| 630 | 162 | Ashley Miller |
-| 631 | 162 | Josephina |
-| 632 | 162 | Wacky Holder |
+| 630 | 162 | Wacky Holder |
+| 631 | 162 | Ashley Miller |
+| 632 | 162 | Josephina |
 | 633 | 161 | Melissa Fink |
-| 634 | 160 | Jessica Perkins |
-| 635 | 160 | Patti Ward |
-| 636 | 160 | Elizabeth Cornelius |
-| 637 | 160 | ChefDeb |
-| 638 | 160 | Jennifer McCloskey Launder |
-| 639 | 160 | Billie Jensen |
+| 634 | 160 | Billie Jensen |
+| 635 | 160 | Jessica Perkins |
+| 636 | 160 | ChefDeb |
+| 637 | 160 | Jennifer McCloskey Launder |
+| 638 | 160 | Patti Ward |
+| 639 | 160 | Elizabeth Cornelius |
 | 640 | 160 | Carrie Hayes Lankford |
 | 641 | 159 | Misty Noe |
 | 642 | 159 | Destiny Turner |
 | 643 | 159 | Bruni |
-| 644 | 159 | Gina Louise Parker |
-| 645 | 159 | Jennifer Vitro |
+| 644 | 159 | Jennifer Vitro |
+| 645 | 159 | Gina Louise Parker |
 | 646 | 158 | Ceci |
 | 647 | 158 | Mike Mordhorst |
 | 648 | 158 | Busted9mm |
@@ -663,25 +663,25 @@
 | 655 | 156 | Charlotte Castelli |
 | 656 | 155 | Shelby Wilson |
 | 657 | 155 | Leigh Wilkerson |
-| 658 | 154 | Natasha Lee |
+| 658 | 155 | Doowop40 |
 | 659 | 154 | Rebekah Holland |
-| 660 | 154 | GiGi Cool |
-| 661 | 153 | Spunky Piecebuilder |
-| 662 | 153 | Dawnypooh |
-| 663 | 153 | Ashley Diana |
-| 664 | 152 | Simone F |
+| 660 | 154 | Natasha Lee |
+| 661 | 154 | GiGi Cool |
+| 662 | 153 | Spunky Piecebuilder |
+| 663 | 153 | Dawnypooh |
+| 664 | 153 | Ashley Diana |
 | 665 | 152 | Brooke Kaune |
-| 666 | 151 | Jennifer Wymer |
-| 667 | 151 | Amy Lea Hamilton |
-| 668 | 151 | Angeleye A James |
-| 669 | 151 | Joshua Hopkins |
-| 670 | 151 | Kendra Sizemore |
-| 671 | 150 | Tami Weiss |
-| 672 | 150 | Tracey Cox |
-| 673 | 150 | Elizabeth Kline |
-| 674 | 150 | Plucky Grabber |
-| 675 | 150 | Elnaz Mokleh |
-| 676 | 150 | Doowop40 |
+| 666 | 152 | Simone F |
+| 667 | 151 | Jennifer Wymer |
+| 668 | 151 | Joshua Hopkins |
+| 669 | 151 | Amy Lea Hamilton |
+| 670 | 151 | Angeleye A James |
+| 671 | 151 | Kendra Sizemore |
+| 672 | 150 | Tami Weiss |
+| 673 | 150 | Tracey Cox |
+| 674 | 150 | Elizabeth Kline |
+| 675 | 150 | Plucky Grabber |
+| 676 | 150 | Elnaz Mokleh |
 | 677 | 149 | Frisky Twist |
 | 678 | 149 | Kayley |
 | 679 | 149 | Steve Eakins |
