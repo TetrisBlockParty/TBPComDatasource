@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:02:20 UTC
+# Standings for team1 as of 2026-06-08 08:02:42 UTC
 
 **Total Participants:** 1760
 
@@ -322,9 +322,9 @@
 | 314 | 238 | SeanSanchez |
 | 315 | 237 | Simone Bailey |
 | 316 | 235 | Sade Goodwine |
-| 317 | 233 | Nicole Watson-Dixon |
-| 318 | 231 | Tipsy Linkroll |
-| 319 | 231 | McKayla Owens |
+| 317 | 235 | McKayla Owens |
+| 318 | 233 | Nicole Watson-Dixon |
+| 319 | 231 | Tipsy Linkroll |
 | 320 | 230 | Erica Charlise |
 | 321 | 230 | Hailey Hil |
 | 322 | 230 | Still Ten Tay |
