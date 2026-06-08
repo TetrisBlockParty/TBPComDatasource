@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:08:41 UTC
+# Standings for team1 as of 2026-06-08 11:09:20 UTC
 
 **Total Participants:** 1781
 
@@ -291,8 +291,8 @@
 | 283 | 275 | Chris Sladoje |
 | 284 | 274 | 신재호 |
 | 285 | 273 | Dacia Hicks |
-| 286 | 273 | JaClanDiah |
-| 287 | 273 | Penee Wiggins |
+| 286 | 273 | Penee Wiggins |
+| 287 | 273 | JaClanDiah |
 | 288 | 273 | izzybella |
 | 289 | 272 | Tarnisha Neicy Jones |
 | 290 | 270 | Julian Dickens Jr. |
@@ -301,35 +301,35 @@
 | 293 | 269 | Snippy Breaker |
 | 294 | 264 | Wild Out Nai |
 | 295 | 262 | MamushiOh |
-| 296 | 260 | Sara Meri |
+| 296 | 261 | Mikayla |
 | 297 | 260 | Nerdy Blockpiece |
 | 298 | 260 | Jhaime |
-| 299 | 258 | SeanSanchez |
-| 300 | 258 | Cynthia Bradley |
-| 301 | 257 | Mafio SO |
-| 302 | 257 | Anthony |
-| 303 | 257 | Chasem45 |
-| 304 | 255 | Falisa Bell |
-| 305 | 254 | Smiley Clearpiece |
-| 306 | 253 | Tasha |
-| 307 | 253 | Mikayla |
+| 299 | 260 | Sara Meri |
+| 300 | 258 | SeanSanchez |
+| 301 | 258 | Cynthia Bradley |
+| 302 | 257 | Mafio SO |
+| 303 | 257 | Anthony |
+| 304 | 257 | Chasem45 |
+| 305 | 255 | Falisa Bell |
+| 306 | 254 | Smiley Clearpiece |
+| 307 | 253 | Tasha |
 | 308 | 252 | Andrew Jay Vaughn |
-| 309 | 250 | Deveda Williams |
-| 310 | 249 | kitten |
-| 311 | 248 | Darrel K Pemberton |
-| 312 | 246 | Curtis T Cirno |
-| 313 | 245 | Kelli Couture |
-| 314 | 245 | Derrius SeriousLee Burks |
-| 315 | 244 | Shameka Thrasher |
-| 316 | 244 | 大竹直之 |
-| 317 | 244 | Teddy Davis |
-| 318 | 244 | LaTonya Myers |
-| 319 | 244 | Amber Wilson |
-| 320 | 244 | Dai Bo |
-| 321 | 243 | LaShaun Stinson |
-| 322 | 242 | Tamika Rocheteau |
-| 323 | 242 | Tay |
-| 324 | 241 | Jai |
+| 309 | 252 | Jai |
+| 310 | 250 | Deveda Williams |
+| 311 | 249 | kitten |
+| 312 | 248 | Darrel K Pemberton |
+| 313 | 246 | Curtis T Cirno |
+| 314 | 245 | Kelli Couture |
+| 315 | 245 | Derrius SeriousLee Burks |
+| 316 | 244 | Shameka Thrasher |
+| 317 | 244 | 大竹直之 |
+| 318 | 244 | Teddy Davis |
+| 319 | 244 | LaTonya Myers |
+| 320 | 244 | Amber Wilson |
+| 321 | 244 | Dai Bo |
+| 322 | 243 | LaShaun Stinson |
+| 323 | 242 | Tamika Rocheteau |
+| 324 | 242 | Tay |
 | 325 | 240 | Christian Pham |
 | 326 | 240 | Rayya Kiser |
 | 327 | 240 | Emily Wright |
@@ -633,59 +633,59 @@
 | 625 | 118 | Pretty Yella |
 | 626 | 118 | SnazzyIvy |
 | 627 | 118 | Hasty Pivoty |
-| 628 | 117 | Bubbly Slammer |
+| 628 | 117 | DaemahnFriday |
 | 629 | 117 | Bruce Paléncia |
-| 630 | 117 | DaemahnFriday |
+| 630 | 117 | Bubbly Slammer |
 | 631 | 116 | Jess |
-| 632 | 116 | Andra Ward |
+| 632 | 116 | Sallie Sanborn |
 | 633 | 116 | Sherri Keys |
-| 634 | 116 | Giddy Staggerpiece |
-| 635 | 116 | Melissa Hershberger |
-| 636 | 116 | Sallie Sanborn |
-| 637 | 116 | Zappy Clearfit |
+| 634 | 116 | Zappy Clearfit |
+| 635 | 116 | Giddy Staggerpiece |
+| 636 | 116 | Andra Ward |
+| 637 | 116 | Melissa Hershberger |
 | 638 | 115 | WOOLFF |
 | 639 | 115 | Wayne Savannah |
-| 640 | 114 | Ameillia Boughner |
-| 641 | 114 | Montego Allen |
-| 642 | 114 | Cranky Fall |
+| 640 | 114 | Cranky Fall |
+| 641 | 114 | Ameillia Boughner |
+| 642 | 114 | Montego Allen |
 | 643 | 114 | Felicia Dungey |
 | 644 | 114 | LAhoneybun82 |
 | 645 | 113 | Lilly Brown |
 | 646 | 112 | TeeMaster Barber IsLyfe |
-| 647 | 112 | Marie Wilson |
-| 648 | 112 | Jose Rodriguez |
+| 647 | 112 | DirtiestofMikes |
+| 648 | 112 | GamerQueenDS |
 | 649 | 112 | Stephen Glaze |
-| 650 | 112 | DirtiestofMikes |
-| 651 | 112 | GamerQueenDS |
-| 652 | 111 | Mellie Mel |
-| 653 | 111 | Happy Blockpiece |
-| 654 | 111 | Taneka Howell |
+| 650 | 112 | Marie Wilson |
+| 651 | 112 | Jose Rodriguez |
+| 652 | 111 | Happy Blocky |
+| 653 | 111 | Taneka Howell |
+| 654 | 111 | Mellie Mel |
 | 655 | 111 | Chino Baby |
-| 656 | 111 | Happy Blocky |
-| 657 | 111 | Angie Smith |
-| 658 | 110 | Tito Divyn |
-| 659 | 110 | Tony Pizzas |
-| 660 | 110 | Jen Hallin |
-| 661 | 110 | Danny Talbot |
-| 662 | 110 | Mommy Frank |
+| 656 | 111 | Angie Smith |
+| 657 | 111 | Happy Blockpiece |
+| 658 | 110 | Tony Pizzas |
+| 659 | 110 | Jen Hallin |
+| 660 | 110 | Danny Talbot |
+| 661 | 110 | Mommy Frank |
+| 662 | 110 | Loopy Block |
 | 663 | 110 | Stephen Garland |
-| 664 | 109 | Kortney Adams |
+| 664 | 110 | Tito Divyn |
 | 665 | 109 | Hyedie Badie |
-| 666 | 109 | Kim Holzmiller |
-| 667 | 109 | Chereese Harris |
-| 668 | 109 | Cynthia Cruell |
-| 669 | 108 | Elaine Pauley |
-| 670 | 108 | Witty Clear |
+| 666 | 109 | Chereese Harris |
+| 667 | 109 | Cynthia Cruell |
+| 668 | 109 | Kortney Adams |
+| 669 | 109 | Kim Holzmiller |
+| 670 | 108 | Charika Marie Bergmann |
 | 671 | 108 | Antoinette Kelly |
-| 672 | 108 | Charika Marie Bergmann |
-| 673 | 108 | Shaun Anderson |
-| 674 | 108 | EvaLynn NeCole |
-| 675 | 108 | Angela Brown Babin |
-| 676 | 108 | Richelle Beck |
-| 677 | 107 | Fatty May |
-| 678 | 107 | Poppy Smasher |
-| 679 | 106 | Peppy Wipeblock |
-| 680 | 106 | Loopy Block |
+| 672 | 108 | Angela Brown Babin |
+| 673 | 108 | Elaine Pauley |
+| 674 | 108 | Shaun Anderson |
+| 675 | 108 | Richelle Beck |
+| 676 | 108 | Witty Clear |
+| 677 | 108 | EvaLynn NeCole |
+| 678 | 107 | Fatty May |
+| 679 | 107 | Poppy Smasher |
+| 680 | 106 | Peppy Wipeblock |
 | 681 | 106 | Desi Guerra |
 | 682 | 106 | Tina Blessed Cage |
 | 683 | 106 | TotoCherue |
