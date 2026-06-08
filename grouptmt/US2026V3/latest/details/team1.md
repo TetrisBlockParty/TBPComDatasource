@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:32:19 UTC
+# Standings for team1 as of 2026-06-08 14:32:43 UTC
 
 **Total Participants:** 1808
 
@@ -25,7 +25,7 @@
 | 17 | 5582 | Jocelyn Pope-Sewell |
 | 18 | 5282 | Plucky Swipe |
 | 19 | 4203 | Pdubbl3 |
-| 20 | 4000 | jaimie |
+| 20 | 4040 | jaimie |
 | 21 | 3972 | Tekedra Wilson |
 | 22 | 3892 | Kkbk |
 | 23 | 3721 | Chandler Spencer |
@@ -292,9 +292,9 @@
 | 284 | 295 | Mafio SO |
 | 285 | 294 | Frisky Fall |
 | 286 | 294 | Tonya McElroy |
-| 287 | 293 | Tonya Lee Sanders |
-| 288 | 292 | Ann Chung |
-| 289 | 291 | Dandy Brickfit |
+| 287 | 293 | Dandy Brickfit |
+| 288 | 293 | Tonya Lee Sanders |
+| 289 | 292 | Ann Chung |
 | 290 | 291 | Brian Taylor |
 | 291 | 290 | Mikayla |
 | 292 | 290 | Elizabeth Vega Coreano |
@@ -319,8 +319,8 @@
 | 311 | 270 | Melissa D. M. Hornsby |
 | 312 | 269 | DaGuy |
 | 313 | 269 | Stephen Glaze |
-| 314 | 264 | Wild Out Nai |
-| 315 | 262 | Jai |
+| 314 | 266 | Jai |
+| 315 | 264 | Wild Out Nai |
 | 316 | 262 | MamushiOh |
 | 317 | 260 | Jhaime |
 | 318 | 260 | Sara Meri |
@@ -726,14 +726,14 @@
 | 718 | 108 | Richelle Beck |
 | 719 | 108 | Desi Guerra |
 | 720 | 108 | kick it |
-| 721 | 108 | Elaine Pauley |
-| 722 | 108 | Shawn Himes |
-| 723 | 107 | Fatty May |
-| 724 | 107 | Poppy Smasher |
-| 725 | 106 | Elizabeth Hopkins |
-| 726 | 106 | Tina Blessed Cage |
-| 727 | 105 | Jack Mehof |
-| 728 | 105 | QueenShay AllGood |
+| 721 | 108 | QueenShay AllGood |
+| 722 | 108 | Elaine Pauley |
+| 723 | 108 | Shawn Himes |
+| 724 | 107 | Fatty May |
+| 725 | 107 | Poppy Smasher |
+| 726 | 106 | Elizabeth Hopkins |
+| 727 | 106 | Tina Blessed Cage |
+| 728 | 105 | Jack Mehof |
 | 729 | 105 | Ja'mice Nelson |
 | 730 | 105 | Raquel Ortiz |
 | 731 | 105 | Christopher L Crites |

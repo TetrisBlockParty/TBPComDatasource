@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:32:19 UTC
+# Standings for team4 as of 2026-06-08 14:32:43 UTC
 
 **Total Participants:** 1846
 
@@ -953,113 +953,113 @@
 | 945 | 76 | Lori Lynn |
 | 946 | 75 | DrC |
 | 947 | 75 | PDubz |
-| 948 | 75 | Toria |
-| 949 | 75 | ŁųŁų |
-| 950 | 75 | Marco A. Sandoval |
-| 951 | 75 | h_chloe10 |
-| 952 | 75 | Gary Moore |
-| 953 | 75 | Happy Puzzle |
-| 954 | 75 | taya |
-| 955 | 75 | Jeremy Fisher |
-| 956 | 75 | LaRue Tee |
-| 957 | 74 | Melissa Schwager |
-| 958 | 74 | Brittany |
-| 959 | 74 | Lush Balanceblock |
-| 960 | 74 | Katherine Stec |
-| 961 | 74 | Jenny Torres |
-| 962 | 74 | Red |
-| 963 | 74 | Loyalty83 |
-| 964 | 74 | Nachos |
-| 965 | 74 | Chirpy Corner |
-| 966 | 74 | Jasmine Griffin |
-| 967 | 73 | Bo Hagan |
-| 968 | 73 | Joe Andrews |
-| 969 | 73 | Mrs.J2013 |
-| 970 | 73 | Sadeha Simpson |
-| 971 | 73 | Yseoj M. Zurc |
-| 972 | 73 | Trishaann Triplett |
-| 973 | 73 | Pap337 |
-| 974 | 72 | Kassey M. Clark |
-| 975 | 72 | Martha Fisher |
-| 976 | 72 | Donna Howard |
-| 977 | 72 | Chris Somsen |
-| 978 | 72 | Musky Pits |
-| 979 | 72 | Poppy |
-| 980 | 72 | Monkey |
-| 981 | 72 | Vicente Bolaños Jr. |
-| 982 | 72 | Cranky Twisterfit |
-| 983 | 72 | Speedy Twistslam |
-| 984 | 71 | Pink Tetramino |
-| 985 | 71 | Bouncy Blockclear |
-| 986 | 71 | Nykell Sturdivant |
-| 987 | 71 | Ana Ruiz |
-| 988 | 71 | La Ah Ox |
-| 989 | 71 | Diqthot |
-| 990 | 71 | Kiki Moore |
-| 991 | 71 | Catherine Garza |
-| 992 | 71 | Hasty Snapmatch |
-| 993 | 70 | Carissa Thorne-See |
-| 994 | 70 | Tesa Mike Jenkins |
-| 995 | 70 | Jade Alley |
-| 996 | 70 | Kendall Rhodie |
-| 997 | 70 | Uh Lesh Uh |
-| 998 | 70 | Lizxxx |
-| 999 | 70 | Alicia Horsea Rojas |
-| 1000 | 70 | LilithMoon |
-| 1001 | 70 | Jill Chapman-Yancer |
-| 1002 | 70 | Kenyatta Davis |
-| 1003 | 70 | Donya' Johnson |
-| 1004 | 69 | Ashley Ferguson |
-| 1005 | 69 | Goddatbat |
-| 1006 | 69 | Joe Joe |
-| 1007 | 69 | Vergie Michael |
-| 1008 | 69 | Tonia Kay |
-| 1009 | 69 | Alex Dawn |
-| 1010 | 69 | Derrek Lee |
-| 1011 | 68 | FUNBAT |
-| 1012 | 68 | Curved carrot |
-| 1013 | 68 | Sweetfire |
-| 1014 | 68 | Keys Tome |
-| 1015 | 68 | Tahira Patrice |
-| 1016 | 68 | Phredda Helene Gavornik |
-| 1017 | 68 | Kelley Shoop |
-| 1018 | 68 | Kelly Kabelac Loomis |
-| 1019 | 68 | Jace Warren |
-| 1020 | 67 | John Cotugno |
-| 1021 | 67 | James Moore |
-| 1022 | 67 | Eric Quan |
-| 1023 | 67 | Yournightmare |
-| 1024 | 67 | Janna Thompson |
-| 1025 | 67 | Wacky Snaplink |
-| 1026 | 67 | Glittara |
-| 1027 | 67 | Snappy Slice |
-| 1028 | 67 | Beezy |
-| 1029 | 67 | Michael Cruz |
-| 1030 | 67 | Tony Clark |
-| 1031 | 66 | Tati |
-| 1032 | 66 | MattJennifer Marie Ericson |
-| 1033 | 66 | Danielle Porter |
-| 1034 | 66 | San |
-| 1035 | 66 | Anthony McAlister |
-| 1036 | 66 | Lashae |
-| 1037 | 66 | Mike Artis |
-| 1038 | 66 | Perky Balanceblock |
-| 1039 | 66 | james |
-| 1040 | 66 | Scarlett Ashley Clark |
-| 1041 | 65 | Mamissa |
-| 1042 | 65 | EmBem |
-| 1043 | 65 | Rebecca Renaud |
-| 1044 | 65 | Gabby Simones |
-| 1045 | 65 | Joshua Franklin |
-| 1046 | 64 | Megan Lynn |
-| 1047 | 64 | Daring Brickbuilder |
-| 1048 | 64 | Amy Gutierrez |
-| 1049 | 64 | Lovely |
-| 1050 | 64 | LaShieka Noland |
-| 1051 | 64 | MamaC |
-| 1052 | 64 | Dandy Linkgrid |
-| 1053 | 64 | Jumpy Brickline |
-| 1054 | 64 | Jennifer Tate |
+| 948 | 75 | Speedy Twistslam |
+| 949 | 75 | Toria |
+| 950 | 75 | ŁųŁų |
+| 951 | 75 | Marco A. Sandoval |
+| 952 | 75 | h_chloe10 |
+| 953 | 75 | Gary Moore |
+| 954 | 75 | Happy Puzzle |
+| 955 | 75 | taya |
+| 956 | 75 | Jeremy Fisher |
+| 957 | 75 | LaRue Tee |
+| 958 | 74 | Melissa Schwager |
+| 959 | 74 | Brittany |
+| 960 | 74 | Lush Balanceblock |
+| 961 | 74 | Katherine Stec |
+| 962 | 74 | Jenny Torres |
+| 963 | 74 | Red |
+| 964 | 74 | Loyalty83 |
+| 965 | 74 | Nachos |
+| 966 | 74 | Chirpy Corner |
+| 967 | 74 | Jasmine Griffin |
+| 968 | 73 | Bo Hagan |
+| 969 | 73 | Joe Andrews |
+| 970 | 73 | Mrs.J2013 |
+| 971 | 73 | Sadeha Simpson |
+| 972 | 73 | Yseoj M. Zurc |
+| 973 | 73 | Trishaann Triplett |
+| 974 | 73 | Pap337 |
+| 975 | 72 | Kassey M. Clark |
+| 976 | 72 | Martha Fisher |
+| 977 | 72 | Donna Howard |
+| 978 | 72 | Chris Somsen |
+| 979 | 72 | Musky Pits |
+| 980 | 72 | Poppy |
+| 981 | 72 | Monkey |
+| 982 | 72 | Vicente Bolaños Jr. |
+| 983 | 72 | Cranky Twisterfit |
+| 984 | 71 | Ana Ruiz |
+| 985 | 71 | La Ah Ox |
+| 986 | 71 | Diqthot |
+| 987 | 71 | Kiki Moore |
+| 988 | 71 | Catherine Garza |
+| 989 | 71 | Hasty Snapmatch |
+| 990 | 71 | Pink Tetramino |
+| 991 | 71 | Bouncy Blockclear |
+| 992 | 71 | Nykell Sturdivant |
+| 993 | 70 | Jill Chapman-Yancer |
+| 994 | 70 | Kenyatta Davis |
+| 995 | 70 | Donya' Johnson |
+| 996 | 70 | Carissa Thorne-See |
+| 997 | 70 | Tesa Mike Jenkins |
+| 998 | 70 | Jade Alley |
+| 999 | 70 | Kendall Rhodie |
+| 1000 | 70 | Uh Lesh Uh |
+| 1001 | 70 | Lizxxx |
+| 1002 | 70 | Alicia Horsea Rojas |
+| 1003 | 70 | LilithMoon |
+| 1004 | 69 | Joe Joe |
+| 1005 | 69 | Vergie Michael |
+| 1006 | 69 | Tonia Kay |
+| 1007 | 69 | Alex Dawn |
+| 1008 | 69 | Derrek Lee |
+| 1009 | 69 | Ashley Ferguson |
+| 1010 | 69 | Goddatbat |
+| 1011 | 68 | Kelly Kabelac Loomis |
+| 1012 | 68 | Jace Warren |
+| 1013 | 68 | FUNBAT |
+| 1014 | 68 | Curved carrot |
+| 1015 | 68 | Sweetfire |
+| 1016 | 68 | Keys Tome |
+| 1017 | 68 | Tahira Patrice |
+| 1018 | 68 | Phredda Helene Gavornik |
+| 1019 | 68 | Kelley Shoop |
+| 1020 | 67 | Eric Quan |
+| 1021 | 67 | Yournightmare |
+| 1022 | 67 | Janna Thompson |
+| 1023 | 67 | Wacky Snaplink |
+| 1024 | 67 | Glittara |
+| 1025 | 67 | Snappy Slice |
+| 1026 | 67 | Beezy |
+| 1027 | 67 | Michael Cruz |
+| 1028 | 67 | Tony Clark |
+| 1029 | 67 | John Cotugno |
+| 1030 | 67 | James Moore |
+| 1031 | 66 | Scarlett Ashley Clark |
+| 1032 | 66 | Tati |
+| 1033 | 66 | MattJennifer Marie Ericson |
+| 1034 | 66 | Danielle Porter |
+| 1035 | 66 | San |
+| 1036 | 66 | Anthony McAlister |
+| 1037 | 66 | Lashae |
+| 1038 | 66 | Mike Artis |
+| 1039 | 66 | Perky Balanceblock |
+| 1040 | 66 | james |
+| 1041 | 65 | EmBem |
+| 1042 | 65 | Rebecca Renaud |
+| 1043 | 65 | Gabby Simones |
+| 1044 | 65 | Joshua Franklin |
+| 1045 | 65 | Mamissa |
+| 1046 | 64 | Jumpy Brickline |
+| 1047 | 64 | Jennifer Tate |
+| 1048 | 64 | Megan Lynn |
+| 1049 | 64 | Daring Brickbuilder |
+| 1050 | 64 | Amy Gutierrez |
+| 1051 | 64 | Lovely |
+| 1052 | 64 | LaShieka Noland |
+| 1053 | 64 | MamaC |
+| 1054 | 64 | Dandy Linkgrid |
 | 1055 | 63 | JP |
 | 1056 | 63 | CRsLady |
 | 1057 | 63 | ButterfliesRFree |
