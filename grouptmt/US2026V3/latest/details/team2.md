@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 02:18:19 UTC
+# Standings for team2 as of 2026-06-08 02:18:40 UTC
 
 **Total Participants:** 2030
 
@@ -216,12 +216,12 @@
 | 208 | 405 | Amy Gregg |
 | 209 | 405 | MaddieCherie |
 | 210 | 402 | Brenda Jones |
-| 211 | 392 | Nikki EightySixed |
-| 212 | 392 | Bri St Peter |
-| 213 | 392 | Leigh Ann |
-| 214 | 391 | La chulis |
-| 215 | 390 | Goofy Gridclear |
-| 216 | 385 | Justin McCray |
+| 211 | 395 | Justin McCray |
+| 212 | 392 | Nikki EightySixed |
+| 213 | 392 | Bri St Peter |
+| 214 | 392 | Leigh Ann |
+| 215 | 391 | La chulis |
+| 216 | 390 | Goofy Gridclear |
 | 217 | 385 | Jat |
 | 218 | 383 | Michelle Luke Banta |
 | 219 | 383 | Jenna Stahl |
