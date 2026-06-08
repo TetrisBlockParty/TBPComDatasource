@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 06:26:18 UTC
+# Standings for team4 as of 2026-06-08 06:26:44 UTC
 
 **Total Participants:** 1785
 
@@ -361,11 +361,11 @@
 | 353 | 200 | Knijur Callins |
 | 354 | 199 | Janet Willoughby |
 | 355 | 199 | Nicole Dombrow |
-| 356 | 198 | Cranky Buildout |
-| 357 | 198 | Mint Marquez |
-| 358 | 198 | Dawn Phelps |
-| 359 | 198 | JIGsaw ~(•¿°)~ |
-| 360 | 197 | Jacqueline Jackii Ramos |
+| 356 | 199 | Jacqueline Jackii Ramos |
+| 357 | 198 | Cranky Buildout |
+| 358 | 198 | Mint Marquez |
+| 359 | 198 | Dawn Phelps |
+| 360 | 198 | JIGsaw ~(•¿°)~ |
 | 361 | 197 | Zesty Twistpiece |
 | 362 | 196 | WeeWooWee |
 | 363 | 196 | Morgan Stevens |
