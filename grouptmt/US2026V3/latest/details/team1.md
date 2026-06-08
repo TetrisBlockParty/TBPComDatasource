@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:08:20 UTC
+# Standings for team1 as of 2026-06-08 12:08:42 UTC
 
 **Total Participants:** 1787
 
@@ -121,7 +121,7 @@
 | 113 | 720 | No_Other_Choice |
 | 114 | 711 | Slinky Puzzler |
 | 115 | 692 | Chirpy Corner |
-| 116 | 686 | Kellie Hall |
+| 116 | 691 | Kellie Hall |
 | 117 | 676 | W.A. Simpson |
 | 118 | 674 | Anthony Washington |
 | 119 | 668 | Jonathan Vee Jay |
