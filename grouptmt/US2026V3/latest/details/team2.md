@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 04:40:40 UTC
+# Standings for team2 as of 2026-06-08 04:41:20 UTC
 
 **Total Participants:** 2092
 
@@ -26,7 +26,7 @@
 | 18 | 5150 | boblawboblaw |
 | 19 | 4900 | Andre Love |
 | 20 | 4773 | Lola C Davis |
-| 21 | 4564 | Ber |
+| 21 | 4586 | Ber |
 | 22 | 4509 | Bobbi |
 | 23 | 4459 | Kathleen M Cox |
 | 24 | 4355 | Alexia Reagan |
