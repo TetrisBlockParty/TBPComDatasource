@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 17:40:20 UTC
+# Standings for team1 as of 2026-06-08 17:40:43 UTC
 
 **Total Participants:** 1837
 
@@ -89,7 +89,7 @@
 | 81 | 1115 | Moomoo |
 | 82 | 1112 | Tiana Moore |
 | 83 | 1078 | Danielle DeLozier Plesec |
-| 84 | 1048 | Chenell Gillard |
+| 84 | 1065 | Chenell Gillard |
 | 85 | 1047 | Dynah Gordon |
 | 86 | 1024 | Chill Clusterer |
 | 87 | 1020 | IamJust Neyamijah Washington Sr. |

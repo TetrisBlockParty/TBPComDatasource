@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:40:20 UTC
+# Standings for team2 as of 2026-06-08 17:40:43 UTC
 
 **Total Participants:** 2229
 
@@ -350,8 +350,8 @@
 | 342 | 320 | marsam |
 | 343 | 320 | Linda Guay |
 | 344 | 318 | Jenni LeBlanc |
-| 345 | 318 | Rob Owens |
-| 346 | 318 | Margie Ann Naffziger |
+| 345 | 318 | Margie Ann Naffziger |
+| 346 | 318 | Rob Owens |
 | 347 | 318 | Pamela Raye |
 | 348 | 317 | Marylin Eacker |
 | 349 | 314 | RaeRae |
@@ -363,20 +363,20 @@
 | 355 | 306 | Ray Daisy |
 | 356 | 305 | Havik Whitfield |
 | 357 | 305 | Logan Duffey |
-| 358 | 304 | Nicole Good |
-| 359 | 304 | Kim Hunt |
+| 358 | 304 | Kim Hunt |
+| 359 | 304 | Nicole Good |
 | 360 | 301 | Danielle Pack Lewellen |
 | 361 | 300 | Sarah Rodriguez |
 | 362 | 300 | Melisa |
 | 363 | 300 | Starvinmarvin |
 | 364 | 300 | Patricia Carroll |
-| 365 | 299 | Kathryn |
-| 366 | 299 | Jennifer Covington |
-| 367 | 299 | True |
-| 368 | 299 | Alicia Kinney |
-| 369 | 296 | Kathleen Keogh Van Schoyck |
-| 370 | 295 | Rosalie Call Kehlenbeck |
-| 371 | 292 | Tina Marie |
+| 365 | 300 | Tina Marie |
+| 366 | 299 | Kathryn |
+| 367 | 299 | Jennifer Covington |
+| 368 | 299 | True |
+| 369 | 299 | Alicia Kinney |
+| 370 | 296 | Kathleen Keogh Van Schoyck |
+| 371 | 295 | Rosalie Call Kehlenbeck |
 | 372 | 291 | Brittany Mathis |
 | 373 | 290 | Carolyn McNaughton |
 | 374 | 290 | Kristi Chestnut |
@@ -416,12 +416,12 @@
 | 408 | 268 | Melmel |
 | 409 | 266 | Josh Vietz |
 | 410 | 265 | Mikia Stokes |
-| 411 | 264 | Elizabeth Henry |
-| 412 | 264 | Dallas Runyan |
+| 411 | 264 | Dallas Runyan |
+| 412 | 264 | Elizabeth Henry |
 | 413 | 263 | Loopy Tower |
 | 414 | 262 | Erica South |
-| 415 | 259 | Angie Kowalsky Olson |
-| 416 | 258 | Newtwidebody |
+| 415 | 262 | Newtwidebody |
+| 416 | 259 | Angie Kowalsky Olson |
 | 417 | 258 | Talyn Domingues |
 | 418 | 257 | Sydney Cheyenne |
 | 419 | 256 | Joshua Dye |
