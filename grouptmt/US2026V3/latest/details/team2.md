@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:38:42 UTC
+# Standings for team2 as of 2026-06-08 19:39:22 UTC
 
 **Total Participants:** 2257
 
@@ -215,7 +215,7 @@
 | 207 | 527 | Amy Gale |
 | 208 | 521 | Steven Craig |
 | 209 | 520 | Jennifer Smith |
-| 210 | 514 | Laverne Ellis Blair |
+| 210 | 516 | Laverne Ellis Blair |
 | 211 | 513 | Gill |
 | 212 | 513 | Theresa Hollinger |
 | 213 | 510 | Samantha Carman |
@@ -354,14 +354,14 @@
 | 346 | 327 | Iesha Cupil |
 | 347 | 327 | Norma Ortiz |
 | 348 | 325 | Snappy Combo |
-| 349 | 323 | Kelly Vedder |
-| 350 | 323 | Harper |
-| 351 | 322 | Jenny |
-| 352 | 322 | Pam Bauder Ludwig |
-| 353 | 321 | Bianca Woodruff |
-| 354 | 320 | marsam |
-| 355 | 320 | Linda Guay |
-| 356 | 320 | Marylin Eacker |
+| 349 | 324 | Marylin Eacker |
+| 350 | 323 | Kelly Vedder |
+| 351 | 323 | Harper |
+| 352 | 322 | Jenny |
+| 353 | 322 | Pam Bauder Ludwig |
+| 354 | 321 | Bianca Woodruff |
+| 355 | 320 | marsam |
+| 356 | 320 | Linda Guay |
 | 357 | 320 | Zesty Zoney |
 | 358 | 320 | Naomi Walker |
 | 359 | 319 | Perii Reynoso |
@@ -514,21 +514,21 @@
 | 506 | 217 | Mona Good |
 | 507 | 217 | Spicy Snapclear |
 | 508 | 216 | Reign Hustler |
-| 509 | 216 | Melissa Nash |
-| 510 | 215 | Alonzo Reed |
-| 511 | 215 | Mandy Van Laningham Bishop |
-| 512 | 215 | Missy Renia |
-| 513 | 215 | Nerdy Gridlock |
-| 514 | 214 | Leticia Tillman |
-| 515 | 214 | Jumpy Dashpiece |
-| 516 | 214 | Gina Louise Parker |
-| 517 | 213 | Gluten Gremlin |
-| 518 | 213 | Zany Wrecker |
+| 509 | 216 | Zany Wrecker |
+| 510 | 216 | Melissa Nash |
+| 511 | 215 | Alonzo Reed |
+| 512 | 215 | Mandy Van Laningham Bishop |
+| 513 | 215 | Missy Renia |
+| 514 | 215 | Nerdy Gridlock |
+| 515 | 214 | Gina Louise Parker |
+| 516 | 214 | Leticia Tillman |
+| 517 | 214 | Jumpy Dashpiece |
+| 518 | 213 | Gluten Gremlin |
 | 519 | 213 | Judy Burkhalter |
 | 520 | 213 | Kimberly Davis |
 | 521 | 212 | Patrick Ohanlon |
-| 522 | 212 | Doowop40 |
-| 523 | 212 | Raine |
+| 522 | 212 | Raine |
+| 523 | 212 | Doowop40 |
 | 524 | 210 | Nichole Wilson |
 | 525 | 210 | Bouncy Snapmatch |
 | 526 | 210 | Camilo Moreno |
@@ -542,11 +542,11 @@
 | 534 | 206 | Jodi Johnson |
 | 535 | 206 | Fallon Moss |
 | 536 | 205 | Dapper Riser |
-| 537 | 205 | Danielle Lyons |
-| 538 | 205 | Jana Campbell |
-| 539 | 204 | Jacquelyn Snyder Dumas |
+| 537 | 205 | Jana Campbell |
+| 538 | 205 | Danielle Lyons |
+| 539 | 204 | Spencer Ryder |
 | 540 | 204 | Teddy Williams |
-| 541 | 204 | Spencer Ryder |
+| 541 | 204 | Jacquelyn Snyder Dumas |
 | 542 | 204 | Thy Bui |
 | 543 | 203 | Churube Finwoiisopw |
 | 544 | 203 | Cheery Tilefall |

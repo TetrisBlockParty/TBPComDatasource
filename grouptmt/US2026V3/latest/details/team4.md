@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 19:38:42 UTC
+# Standings for team4 as of 2026-06-08 19:39:22 UTC
 
 **Total Participants:** 1904
 
@@ -151,7 +151,7 @@
 | 143 | 636 | Tiffany Brooke |
 | 144 | 626 | Daryn Elliott |
 | 145 | 615 | Cinta Marie |
-| 146 | 609 | Lisa Garcia |
+| 146 | 610 | Lisa Garcia |
 | 147 | 600 | Suzanne Carter |
 | 148 | 599 | Krysten Danielle Richard |
 | 149 | 593 | Malik Thompson |
@@ -159,7 +159,7 @@
 | 151 | 591 | Jewelz |
 | 152 | 581 | Dandy Puzzler |
 | 153 | 566 | Dee Wizz |
-| 154 | 560 | Futrell Brent |
+| 154 | 562 | Futrell Brent |
 | 155 | 559 | Katie Martin |
 | 156 | 556 | Jace McCullough |
 | 157 | 548 | Katie Lynn Petit |
@@ -186,9 +186,9 @@
 | 178 | 480 | CIRAZYPNOY |
 | 179 | 480 | Adam Dickinson |
 | 180 | 473 | Goofy Riser |
-| 181 | 469 | Jacqueline Jackii Ramos |
-| 182 | 462 | BusterBear56 |
-| 183 | 462 | Dana Abegil Lawas |
+| 181 | 472 | Dana Abegil Lawas |
+| 182 | 469 | Jacqueline Jackii Ramos |
+| 183 | 462 | BusterBear56 |
 | 184 | 461 | Kayla Fuentes |
 | 185 | 460 | Shmeedo |
 | 186 | 460 | Piece of Cake |
@@ -430,60 +430,60 @@
 | 422 | 213 | Tamara Gay |
 | 423 | 211 | Montes Ash |
 | 424 | 211 | Snazzy Fitclear |
-| 425 | 210 | Jennifer Fisher Franklin |
-| 426 | 210 | Lady Dolphin |
+| 425 | 210 | Garden Girlie |
+| 426 | 210 | Gary Smallwood |
 | 427 | 210 | Tricia Motika Cowan |
-| 428 | 210 | Gary Smallwood |
-| 429 | 210 | Sfalcon1. |
-| 430 | 209 | Lively Blockpiece |
-| 431 | 209 | Ashley Mcdonald |
-| 432 | 209 | Genger |
-| 433 | 209 | Chirpy Snapclear |
-| 434 | 209 | Winter Moon |
-| 435 | 208 | Justin Janachovsky |
+| 428 | 210 | Jennifer Fisher Franklin |
+| 429 | 210 | Lady Dolphin |
+| 430 | 210 | Sfalcon1. |
+| 431 | 209 | Lively Blockpiece |
+| 432 | 209 | Chirpy Snapclear |
+| 433 | 209 | Genger |
+| 434 | 209 | Ashley Mcdonald |
+| 435 | 209 | Winter Moon |
 | 436 | 208 | Danny Frausto |
-| 437 | 208 | Denise Wilson |
-| 438 | 208 | JIGsaw ~(•¿°)~ |
-| 439 | 207 | Brendan Craven |
-| 440 | 206 | Stephanie Brock |
+| 437 | 208 | Justin Janachovsky |
+| 438 | 208 | Denise Wilson |
+| 439 | 208 | JIGsaw ~(•¿°)~ |
+| 440 | 207 | Brendan Craven |
 | 441 | 206 | Stacy G |
 | 442 | 206 | Brandy Lynn |
-| 443 | 205 | Garden Girlie |
+| 443 | 206 | Stephanie Brock |
 | 444 | 205 | Ross Bryant |
 | 445 | 204 | Clashy |
 | 446 | 203 | Lupe Chapa |
 | 447 | 202 | CrashOutCarla |
 | 448 | 202 | Lora Schallert |
 | 449 | 202 | Chris McBlockster |
-| 450 | 201 | LaToya LeBlanc |
-| 451 | 201 | Miss Beast |
-| 452 | 200 | Blockcrusher |
-| 453 | 200 | Miwa |
+| 450 | 201 | Miss Beast |
+| 451 | 201 | LaToya LeBlanc |
+| 452 | 200 | Miwa |
+| 453 | 200 | Blockcrusher |
 | 454 | 200 | Jessi Goodwin |
 | 455 | 200 | Ashley Robbins |
 | 456 | 199 | Nicole Dombrow |
 | 457 | 199 | Janet Willoughby |
-| 458 | 199 | Maegon Brazille |
-| 459 | 199 | Jacinta Hooker-Brown |
-| 460 | 198 | Robert Moore |
-| 461 | 198 | Happy Shatterfit |
-| 462 | 198 | Mint Marquez |
-| 463 | 198 | Lani |
+| 458 | 199 | Jacinta Hooker-Brown |
+| 459 | 199 | Maegon Brazille |
+| 460 | 198 | Lani |
+| 461 | 198 | Mint Marquez |
+| 462 | 198 | Robert Moore |
+| 463 | 198 | Happy Shatterfit |
 | 464 | 197 | Zesty Twistpiece |
 | 465 | 196 | Loopy Clusterline |
 | 466 | 196 | June Hoffman |
 | 467 | 196 | Teester |
-| 468 | 195 | Sean Mccleary |
-| 469 | 195 | Karen Small |
-| 470 | 195 | ShaniP |
-| 471 | 195 | maria |
-| 472 | 195 | Cari Underwood |
+| 468 | 195 | Valerie Silva |
+| 469 | 195 | Jen Roe |
+| 470 | 195 | Cari Underwood |
+| 471 | 195 | Karen Small |
+| 472 | 195 | ShaniP |
 | 473 | 195 | Cool Risepiece |
-| 474 | 195 | Jen Roe |
-| 475 | 195 | Valerie Silva |
-| 476 | 194 | Dena Lynn Rogers |
-| 477 | 194 | Nicole Colby McCloskey |
-| 478 | 194 | Perry Ransom |
+| 474 | 195 | Sean Mccleary |
+| 475 | 195 | maria |
+| 476 | 194 | Perry Ransom |
+| 477 | 194 | Dena Lynn Rogers |
+| 478 | 194 | Nicole Colby McCloskey |
 | 479 | 194 | Diana Fernandez |
 | 480 | 194 | Thermeka Lindsey |
 | 481 | 192 | Ralph Hell Rell Williams |
