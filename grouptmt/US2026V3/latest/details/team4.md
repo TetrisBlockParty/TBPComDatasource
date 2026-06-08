@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 18:26:43 UTC
+# Standings for team4 as of 2026-06-08 18:27:21 UTC
 
 **Total Participants:** 1891
 
@@ -212,11 +212,11 @@
 | 204 | 415 | Shiny Dashy |
 | 205 | 409 | Hen |
 | 206 | 408 | Bonnie Powell |
-| 207 | 402 | LastBoi |
-| 208 | 400 | Fran Aaron-Ring |
-| 209 | 400 | Genag |
-| 210 | 400 | Amber Doyle |
-| 211 | 399 | Dae Von |
+| 207 | 403 | Dae Von |
+| 208 | 402 | LastBoi |
+| 209 | 400 | Fran Aaron-Ring |
+| 210 | 400 | Genag |
+| 211 | 400 | Amber Doyle |
 | 212 | 399 | Devinlee Brown |
 | 213 | 395 | Bobbie Harrell |
 | 214 | 392 | Plucky Shatterfit |
@@ -352,12 +352,12 @@
 | 344 | 251 | Jenn Norcross |
 | 345 | 251 | EL Booger |
 | 346 | 251 | Jj Johnson |
-| 347 | 250 | Dapper Strikerpiece |
+| 347 | 250 | Cherrypir05 |
 | 348 | 250 | Mark Fitch Jr. |
-| 349 | 249 | Brennan Shea Greene |
-| 350 | 247 | Shauna Davis |
-| 351 | 247 | Izz |
-| 352 | 245 | Cherrypir05 |
+| 349 | 250 | Dapper Strikerpiece |
+| 350 | 249 | Brennan Shea Greene |
+| 351 | 247 | Shauna Davis |
+| 352 | 247 | Izz |
 | 353 | 244 | Lisa lisa |
 | 354 | 243 | jojo |
 | 355 | 243 | Flashy Shatterer |
@@ -1162,24 +1162,24 @@
 | 1154 | 57 | Speedy Brick |
 | 1155 | 57 | Savage |
 | 1156 | 57 | Budda Huitt |
-| 1157 | 57 | Momma Boss |
-| 1158 | 57 | aubz |
-| 1159 | 57 | Melissa Rathbun |
-| 1160 | 57 | Lateasha Wildman |
-| 1161 | 57 | Cas Gio |
-| 1162 | 57 | Clever Shuffler |
-| 1163 | 57 | Brandi Gray |
-| 1164 | 57 | Meela Abdurrab |
-| 1165 | 57 | PapaB |
-| 1166 | 57 | Heather Hilferty |
-| 1167 | 56 | BigCup ReeseCup |
-| 1168 | 56 | Crystal Morrin |
-| 1169 | 56 | Jessica Armistead |
-| 1170 | 56 | Krystalclear |
-| 1171 | 56 | TSM Ballsniffer |
-| 1172 | 56 | bribop |
-| 1173 | 55 | James James |
-| 1174 | 55 | Caroline Peralta |
+| 1157 | 57 | Caroline Peralta |
+| 1158 | 57 | Momma Boss |
+| 1159 | 57 | aubz |
+| 1160 | 57 | Melissa Rathbun |
+| 1161 | 57 | Lateasha Wildman |
+| 1162 | 57 | Cas Gio |
+| 1163 | 57 | Clever Shuffler |
+| 1164 | 57 | Brandi Gray |
+| 1165 | 57 | Meela Abdurrab |
+| 1166 | 57 | PapaB |
+| 1167 | 57 | Heather Hilferty |
+| 1168 | 56 | BigCup ReeseCup |
+| 1169 | 56 | Crystal Morrin |
+| 1170 | 56 | Jessica Armistead |
+| 1171 | 56 | Krystalclear |
+| 1172 | 56 | TSM Ballsniffer |
+| 1173 | 56 | bribop |
+| 1174 | 55 | James James |
 | 1175 | 55 | Dominique Summers Tah-tah |
 | 1176 | 55 | Carmen Angelica Sosa |
 | 1177 | 55 | Todd Kirkland |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 18:26:43 UTC
+# Standings for team1 as of 2026-06-08 18:27:21 UTC
 
 **Total Participants:** 1845
 
@@ -64,9 +64,9 @@
 | 56 | 1482 | Shortstak |
 | 57 | 1461 | Janet Cooke |
 | 58 | 1459 | Corey Cawthon |
-| 59 | 1313 | Ashley Espeut |
-| 60 | 1312 | Blockhead |
-| 61 | 1299 | Uneekly Mayde |
+| 59 | 1359 | Uneekly Mayde |
+| 60 | 1313 | Ashley Espeut |
+| 61 | 1312 | Blockhead |
 | 62 | 1281 | Therealdywoune Peay |
 | 63 | 1268 | Sanjuro |
 | 64 | 1251 | Daylene Johannes |
@@ -127,10 +127,10 @@
 | 119 | 723 | Eartha Brown |
 | 120 | 720 | Felicia Williams |
 | 121 | 720 | No_Other_Choice |
-| 122 | 709 | Big Tina |
-| 123 | 692 | Chirpy Corner |
-| 124 | 691 | Chuck Quarles |
-| 125 | 682 | Atlantalindi |
+| 122 | 709 | Atlantalindi |
+| 123 | 709 | Big Tina |
+| 124 | 692 | Chirpy Corner |
+| 125 | 691 | Chuck Quarles |
 | 126 | 676 | W.A. Simpson |
 | 127 | 674 | Anthony Washington |
 | 128 | 656 | La'Chae Nickole |
@@ -233,12 +233,12 @@
 | 225 | 395 | sha |
 | 226 | 392 | Joana Thompson |
 | 227 | 390 | Devin West |
-| 228 | 389 | GrkGdess |
-| 229 | 387 | Crystal Anderson |
-| 230 | 386 | Keke Ferguson |
-| 231 | 386 | Chantelle Lee |
-| 232 | 384 | Christana Imjustbutton Stone |
-| 233 | 379 | Calvin Green |
+| 228 | 390 | Calvin Green |
+| 229 | 389 | GrkGdess |
+| 230 | 387 | Crystal Anderson |
+| 231 | 386 | Keke Ferguson |
+| 232 | 386 | Chantelle Lee |
+| 233 | 384 | Christana Imjustbutton Stone |
 | 234 | 377 | AF Cruz |
 | 235 | 377 | Tarnisha Neicy Jones |
 | 236 | 373 | Dion Gray |
@@ -268,21 +268,21 @@
 | 260 | 338 | Dennis J Herron II |
 | 261 | 338 | Brand Nu |
 | 262 | 337 | Koi |
-| 263 | 333 | Qwlonda Shirrell |
-| 264 | 331 | FallDee |
-| 265 | 331 | Tessa Felice Hill |
-| 266 | 331 | Coco |
-| 267 | 330 | ♈️ Ariesbaby |
-| 268 | 330 | Davionte DaeDae Hopson-Rodriguez |
-| 269 | 329 | Bbyunicorn |
-| 270 | 328 | Chummy Frame |
-| 271 | 326 | Christopher Dreamsareality McEachin |
-| 272 | 325 | Cortaz Lawrie |
-| 273 | 325 | Simone Bailey |
-| 274 | 323 | Bre Poston |
-| 275 | 323 | Denise B |
-| 276 | 321 | Randizzle |
-| 277 | 320 | Christian Pham |
+| 263 | 335 | Christian Pham |
+| 264 | 333 | Qwlonda Shirrell |
+| 265 | 331 | FallDee |
+| 266 | 331 | Tessa Felice Hill |
+| 267 | 331 | Coco |
+| 268 | 330 | ♈️ Ariesbaby |
+| 269 | 330 | Davionte DaeDae Hopson-Rodriguez |
+| 270 | 329 | Bbyunicorn |
+| 271 | 328 | Chummy Frame |
+| 272 | 326 | Christopher Dreamsareality McEachin |
+| 273 | 325 | Cortaz Lawrie |
+| 274 | 325 | Simone Bailey |
+| 275 | 323 | Bre Poston |
+| 276 | 323 | Denise B |
+| 277 | 321 | Randizzle |
 | 278 | 320 | Natasha Rucker |
 | 279 | 318 | Jhonny Maii |
 | 280 | 318 | Nerdy Snapfall |
@@ -548,8 +548,8 @@
 | 540 | 159 | Latore Maxie |
 | 541 | 159 | Tee Spinks |
 | 542 | 159 | Frances Davis |
-| 543 | 158 | QueenShay AllGood |
-| 544 | 158 | Kimberly Linares Hernandez |
+| 543 | 159 | Kimberly Linares Hernandez |
+| 544 | 158 | QueenShay AllGood |
 | 545 | 158 | Seddrick |
 | 546 | 157 | Lilly Brown |
 | 547 | 156 | Shalya Terry |
@@ -792,28 +792,28 @@
 | 784 | 105 | Ja'mice Nelson |
 | 785 | 104 | Ahvae Lee |
 | 786 | 104 | Coco |
-| 787 | 104 | Chris Nelson |
-| 788 | 104 | Marlainia Boyd |
-| 789 | 104 | Victor |
-| 790 | 104 | Motown Chuck |
-| 791 | 103 | Clint Mcdowell |
-| 792 | 103 | TieMs BHughez |
-| 793 | 103 | Heather Wilson |
-| 794 | 102 | Oaklonboy mike |
-| 795 | 102 | Blocksy |
-| 796 | 102 | jeremy92 |
-| 797 | 102 | Laysa Nunez |
-| 798 | 102 | Kàrma Lee |
-| 799 | 102 | Mom3granny2 |
-| 800 | 101 | Wacky Wipepiece |
-| 801 | 101 | MELLZZtick€T |
-| 802 | 101 | Terrance Tindall |
+| 787 | 104 | Terrance Tindall |
+| 788 | 104 | Chris Nelson |
+| 789 | 104 | Marlainia Boyd |
+| 790 | 104 | Victor |
+| 791 | 104 | Motown Chuck |
+| 792 | 103 | Clint Mcdowell |
+| 793 | 103 | TieMs BHughez |
+| 794 | 103 | Heather Wilson |
+| 795 | 102 | Laysa Nunez |
+| 796 | 102 | Oaklonboy mike |
+| 797 | 102 | Blocksy |
+| 798 | 102 | jeremy92 |
+| 799 | 102 | Kàrma Lee |
+| 800 | 102 | Mom3granny2 |
+| 801 | 101 | Wacky Wipepiece |
+| 802 | 101 | MELLZZtick€T |
 | 803 | 101 | star |
 | 804 | 101 | John Spath |
 | 805 | 101 | Brittany Britkany Marsden-Garrison |
 | 806 | 100 | Phillip White |
-| 807 | 100 | Marcello Rush |
-| 808 | 100 | Raymond Keeler |
+| 807 | 100 | Raymond Keeler |
+| 808 | 100 | Marcello Rush |
 | 809 | 100 | LaSharmeika Fancher |
 | 810 | 100 | Keith Big-Sixx Mackell |
 | 811 | 100 | Undeniable Williams |
