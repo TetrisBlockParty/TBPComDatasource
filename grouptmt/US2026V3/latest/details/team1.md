@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:12:40 UTC
+# Standings for team1 as of 2026-06-08 19:13:19 UTC
 
 **Total Participants:** 1849
 
@@ -371,8 +371,8 @@
 | 363 | 244 | Teddy Davis |
 | 364 | 244 | LaTonya Myers |
 | 365 | 243 | LaShaun Stinson |
-| 366 | 242 | Sammie Walker |
-| 367 | 242 | Tamika Rocheteau |
+| 366 | 242 | Tamika Rocheteau |
+| 367 | 242 | Sammie Walker |
 | 368 | 242 | Tay |
 | 369 | 240 | Abigail Newman Sweet |
 | 370 | 240 | Emily Wright |
@@ -383,28 +383,28 @@
 | 375 | 238 | Perky Pusher |
 | 376 | 237 | Telisha Mims |
 | 377 | 236 | Johnathan Deese |
-| 378 | 233 | Nicole Watson-Dixon |
-| 379 | 231 | Tipsy Linkroll |
-| 380 | 231 | Brittany Fells |
-| 381 | 230 | Hailey Hil |
-| 382 | 230 | Nina Davis |
-| 383 | 230 | Brittnay Wright |
-| 384 | 230 | Tracey Johnson |
-| 385 | 229 | De'Mear McKinney |
-| 386 | 227 | Hasty Glidezone |
+| 378 | 235 | NewEve |
+| 379 | 233 | Nicole Watson-Dixon |
+| 380 | 231 | Tipsy Linkroll |
+| 381 | 231 | Brittany Fells |
+| 382 | 230 | Hailey Hil |
+| 383 | 230 | Nina Davis |
+| 384 | 230 | Brittnay Wright |
+| 385 | 230 | Tracey Johnson |
+| 386 | 229 | De'Mear McKinney |
 | 387 | 227 | Poppy Buildout |
-| 388 | 227 | SceneGreenz Wali |
-| 389 | 227 | MACHETEEDDIE513 |
+| 388 | 227 | MACHETEEDDIE513 |
+| 389 | 227 | SceneGreenz Wali |
 | 390 | 227 | Amy Lynn Leifheit |
-| 391 | 225 | Vera Beckford |
-| 392 | 224 | Juan Santiago |
-| 393 | 224 | Asha Langford |
-| 394 | 223 | Giggy Tower |
-| 395 | 223 | Daris Swearington |
-| 396 | 222 | NewEve |
-| 397 | 222 | Eric Spencer Whitaker |
+| 391 | 227 | Hasty Glidezone |
+| 392 | 225 | Vera Beckford |
+| 393 | 224 | Juan Santiago |
+| 394 | 224 | Asha Langford |
+| 395 | 223 | Giggy Tower |
+| 396 | 223 | Daris Swearington |
+| 397 | 222 | Ashleyy Netchert |
 | 398 | 222 | Hardtohandle91 |
-| 399 | 222 | Ashleyy Netchert |
+| 399 | 222 | Eric Spencer Whitaker |
 | 400 | 221 | Kristine Marie Palmer |
 | 401 | 221 | Sharee Robinson |
 | 402 | 221 | Rayshawn Cohen |
@@ -545,20 +545,20 @@
 | 537 | 162 | Speedy Stacky |
 | 538 | 162 | Jessie N Michael Silvers |
 | 539 | 161 | DaemahnFriday |
-| 540 | 161 | Daring Riserfit |
+| 540 | 161 | Angela Brown Babin |
 | 541 | 161 | kick it |
 | 542 | 161 | Devron Reedy |
-| 543 | 160 | Cheeky Twistpiece |
-| 544 | 160 | Spotlight |
-| 545 | 160 | Slinky Clearzone |
-| 546 | 160 | Carolyn Smith |
-| 547 | 159 | Tracy Feyler |
-| 548 | 159 | Tee Spinks |
-| 549 | 159 | Latore Maxie |
-| 550 | 159 | Loopy Tiler |
-| 551 | 159 | Kyle Conley |
-| 552 | 159 | Frances Davis |
-| 553 | 158 | Angela Brown Babin |
+| 543 | 161 | Daring Riserfit |
+| 544 | 160 | Cheeky Twistpiece |
+| 545 | 160 | Spotlight |
+| 546 | 160 | Slinky Clearzone |
+| 547 | 160 | Carolyn Smith |
+| 548 | 159 | Kyle Conley |
+| 549 | 159 | Tracy Feyler |
+| 550 | 159 | Tee Spinks |
+| 551 | 159 | Latore Maxie |
+| 552 | 159 | Loopy Tiler |
+| 553 | 159 | Frances Davis |
 | 554 | 158 | QueenShay AllGood |
 | 555 | 158 | Seddrick |
 | 556 | 157 | Chirpy Buildgrid |
@@ -1097,13 +1097,13 @@
 | 1089 | 61 | Giggleme |
 | 1090 | 61 | Sagitterrorist |
 | 1091 | 61 | Michelle Stanford-Page |
-| 1092 | 61 | Brave Gridmatch |
-| 1093 | 61 | Ayanna James |
-| 1094 | 61 | Tonya Thomas |
-| 1095 | 60 | Yellowguy3 |
-| 1096 | 60 | Jenni |
-| 1097 | 60 | Michael J Gresham |
-| 1098 | 60 | Tina Criam |
+| 1092 | 61 | Tina Criam |
+| 1093 | 61 | Brave Gridmatch |
+| 1094 | 61 | Ayanna James |
+| 1095 | 61 | Tonya Thomas |
+| 1096 | 60 | Yellowguy3 |
+| 1097 | 60 | Jenni |
+| 1098 | 60 | Michael J Gresham |
 | 1099 | 60 | HS Arce |
 | 1100 | 60 | Nigel Snyder |
 | 1101 | 60 | Sally Elizabeth Hopson |
