@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:45:22 UTC
+# Standings for team4 as of 2026-06-08 10:46:20 UTC
 
 **Total Participants:** 1813
 
@@ -45,7 +45,7 @@
 | 37 | 3101 | Leigh Pierce |
 | 38 | 2800 | Annastaissia Todd |
 | 39 | 2736 | Juan Ford |
-| 40 | 2585 | Victoria Ver |
+| 40 | 2595 | Victoria Ver |
 | 41 | 2433 | Alexandria Frazier |
 | 42 | 2400 | Michele |
 | 43 | 2162 | Dana Rinaldi |
@@ -1249,21 +1249,21 @@
 | 1241 | 44 | Ladybug |
 | 1242 | 44 | Loony Glidepiece |
 | 1243 | 43 | Sunny Tiltbuilder |
-| 1244 | 43 | Lin Ferguson |
-| 1245 | 43 | Amina Walker |
-| 1246 | 43 | Purple Queen |
-| 1247 | 43 | Candace Dean |
-| 1248 | 43 | Christopher Ponceja |
-| 1249 | 43 | Shirley Williams |
-| 1250 | 42 | Stacy Brown |
-| 1251 | 42 | Cas Gio |
-| 1252 | 42 | Chelle Williams |
-| 1253 | 42 | Snappy Patternfall |
-| 1254 | 42 | Shupurplenurkle |
-| 1255 | 42 | Lakeshia Holman |
-| 1256 | 42 | Gr8flluv1 |
-| 1257 | 42 | Mounique Melenciano |
-| 1258 | 42 | Peachy Linkbuilder |
+| 1244 | 43 | Peachy Linkbuilder |
+| 1245 | 43 | Lin Ferguson |
+| 1246 | 43 | Amina Walker |
+| 1247 | 43 | Purple Queen |
+| 1248 | 43 | Candace Dean |
+| 1249 | 43 | Christopher Ponceja |
+| 1250 | 43 | Shirley Williams |
+| 1251 | 42 | Stacy Brown |
+| 1252 | 42 | Cas Gio |
+| 1253 | 42 | Chelle Williams |
+| 1254 | 42 | Snappy Patternfall |
+| 1255 | 42 | Shupurplenurkle |
+| 1256 | 42 | Lakeshia Holman |
+| 1257 | 42 | Gr8flluv1 |
+| 1258 | 42 | Mounique Melenciano |
 | 1259 | 42 | Mighty Dash |
 | 1260 | 41 | Amanda Serrano Ruffner |
 | 1261 | 41 | Kasey Lynne |
