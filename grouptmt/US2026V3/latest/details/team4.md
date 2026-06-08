@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 07:36:43 UTC
+# Standings for team4 as of 2026-06-08 07:37:20 UTC
 
 **Total Participants:** 1795
 
@@ -144,12 +144,12 @@
 | 136 | 550 | Nicole Peoples |
 | 137 | 548 | Katie Lynn Petit |
 | 138 | 539 | Pepone Pepe |
-| 139 | 522 | Sarah Berry Stevens |
-| 140 | 521 | Misty Leigh |
-| 141 | 520 | DexterDobbins |
-| 142 | 517 | Nikki Fuller Johnson |
-| 143 | 512 | Esther Hadassah |
-| 144 | 507 | Melissa WC |
+| 139 | 525 | Melissa WC |
+| 140 | 522 | Sarah Berry Stevens |
+| 141 | 521 | Misty Leigh |
+| 142 | 520 | DexterDobbins |
+| 143 | 517 | Nikki Fuller Johnson |
+| 144 | 512 | Esther Hadassah |
 | 145 | 496 | Jackie Jackson |
 | 146 | 494 | Yesenia Castro Monreal |
 | 147 | 490 | Megan Vick |
