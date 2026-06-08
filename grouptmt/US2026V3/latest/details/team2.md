@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:29:19 UTC
+# Standings for team2 as of 2026-06-08 08:30:42 UTC
 
 **Total Participants:** 2134
 
@@ -254,18 +254,18 @@
 | 246 | 374 | Katrien |
 | 247 | 373 | Hoppy Mover |
 | 248 | 373 | Theresa Hollinger |
-| 249 | 365 | Rachel Nilles |
-| 250 | 364 | Lindsey Ford |
-| 251 | 363 | Ratchet |
-| 252 | 362 | Hypee |
-| 253 | 359 | Crystal Poss |
-| 254 | 354 | Sabrina Hardrick |
-| 255 | 354 | Mellzey |
+| 249 | 373 | Mellzey |
+| 250 | 365 | Rachel Nilles |
+| 251 | 364 | Lindsey Ford |
+| 252 | 363 | Ratchet |
+| 253 | 362 | Hypee |
+| 254 | 359 | Crystal Poss |
+| 255 | 354 | Sabrina Hardrick |
 | 256 | 351 | Cathy Lee Stoneking |
-| 257 | 349 | Spicy Basepiece |
-| 258 | 348 | Charles E Mccardell |
-| 259 | 347 | Fudgie Pie |
-| 260 | 347 | Jessica Lynn |
+| 257 | 350 | Charles E Mccardell |
+| 258 | 349 | Spicy Basepiece |
+| 259 | 347 | Jessica Lynn |
+| 260 | 347 | Fudgie Pie |
 | 261 | 344 | Lora Via |
 | 262 | 340 | Marge Cromer |
 | 263 | 339 | Keri Mears |
@@ -375,77 +375,77 @@
 | 367 | 247 | SilentBuffalo |
 | 368 | 246 | Amber Cogdill |
 | 369 | 246 | PaiBri |
-| 370 | 240 | Zappy Liney |
-| 371 | 240 | Liseth Vasquez |
+| 370 | 240 | Liseth Vasquez |
+| 371 | 240 | Zappy Liney |
 | 372 | 240 | Starvinmarvin |
 | 373 | 240 | Naomi Walker |
 | 374 | 239 | Stella |
-| 375 | 239 | Melmel |
-| 376 | 239 | Patria Osuoha |
-| 377 | 238 | Laverne Ellis Blair |
-| 378 | 238 | andee |
+| 375 | 239 | Patria Osuoha |
+| 376 | 239 | Melmel |
+| 377 | 238 | andee |
+| 378 | 238 | Laverne Ellis Blair |
 | 379 | 237 | Amanda Priddy |
 | 380 | 236 | Lush Party |
 | 381 | 233 | Stephany Green |
 | 382 | 230 | Brandy Chinelle |
 | 383 | 230 | phamous1 |
 | 384 | 230 | Tango Sierra |
-| 385 | 229 | Angie Bishop |
-| 386 | 229 | Funway998 |
+| 385 | 229 | Funway998 |
+| 386 | 229 | Angie Bishop |
 | 387 | 228 | Christy Diane Escobar |
-| 388 | 227 | Jennifer McClure |
-| 389 | 227 | meg |
+| 388 | 227 | meg |
+| 389 | 227 | Jennifer McClure |
 | 390 | 227 | Laura Melton |
 | 391 | 225 | Cheery Towerzone |
 | 392 | 225 | Amanda L Strong |
 | 393 | 225 | Sandy Justus |
 | 394 | 222 | Harper |
-| 395 | 221 | MUMBLES |
-| 396 | 221 | Paula Haskins |
-| 397 | 220 | Sherri E Woods Hess |
+| 395 | 221 | Paula Haskins |
+| 396 | 221 | MUMBLES |
+| 397 | 220 | Elliott Mikila |
 | 398 | 220 | Michelle M Braley |
-| 399 | 220 | Elliott Mikila |
-| 400 | 220 | Precious Womack |
-| 401 | 220 | Flashy Basegrid |
-| 402 | 220 | KazzyKay |
-| 403 | 220 | ShiverMeSplinter |
+| 399 | 220 | Precious Womack |
+| 400 | 220 | Flashy Basegrid |
+| 401 | 220 | KazzyKay |
+| 402 | 220 | ShiverMeSplinter |
+| 403 | 220 | Sherri E Woods Hess |
 | 404 | 220 | Jess |
 | 405 | 220 | Krystle L Coon |
-| 406 | 219 | Mouh Ity |
-| 407 | 218 | Julie Alexander Sykes |
-| 408 | 217 | Spicy Snapclear |
-| 409 | 216 | Melissa Nash |
-| 410 | 216 | Kimberly Benson |
-| 411 | 215 | Brittany Mathis |
-| 412 | 215 | Maria Ward |
-| 413 | 215 | Missy Renia |
+| 406 | 219 | Francesca Wagenhoffer |
+| 407 | 219 | Mouh Ity |
+| 408 | 218 | Julie Alexander Sykes |
+| 409 | 217 | Spicy Snapclear |
+| 410 | 216 | Melissa Nash |
+| 411 | 216 | Kimberly Benson |
+| 412 | 215 | Brittany Mathis |
+| 413 | 215 | Maria Ward |
 | 414 | 215 | Alonzo Reed |
-| 415 | 214 | Kathryn |
-| 416 | 213 | Judy Burkhalter |
-| 417 | 212 | Carebear05 |
-| 418 | 211 | Sassy Twistbuilder |
-| 419 | 210 | Francesca Wagenhoffer |
-| 420 | 210 | Camilo Moreno |
-| 421 | 210 | Rick |
-| 422 | 210 | Amanda Bottorff |
-| 423 | 210 | Nichole Wilson |
+| 415 | 215 | Missy Renia |
+| 416 | 214 | Kathryn |
+| 417 | 213 | Judy Burkhalter |
+| 418 | 212 | Carebear05 |
+| 419 | 211 | Sassy Twistbuilder |
+| 420 | 210 | Nichole Wilson |
+| 421 | 210 | Amanda Bottorff |
+| 422 | 210 | Rick |
+| 423 | 210 | Camilo Moreno |
 | 424 | 209 | Kevin Mccoy |
-| 425 | 208 | Dad |
-| 426 | 208 | Martha Lynn Wiggins |
+| 425 | 208 | Martha Lynn Wiggins |
+| 426 | 208 | Dad |
 | 427 | 208 | Will Jones |
 | 428 | 207 | Wendy McKee |
 | 429 | 207 | StacyBabee |
 | 430 | 206 | Jodi Johnson |
-| 431 | 204 | Jacquelyn Snyder Dumas |
-| 432 | 204 | Chummy Snapbuilder |
+| 431 | 204 | Chummy Snapbuilder |
+| 432 | 204 | Jacquelyn Snyder Dumas |
 | 433 | 204 | Teddy Williams |
 | 434 | 203 | Jill Goff |
 | 435 | 203 | Jumpy Dashpiece |
 | 436 | 202 | ZBee |
 | 437 | 201 | Amber Smith |
 | 438 | 200 | Happy |
-| 439 | 200 | Katie Jones |
-| 440 | 200 | Al Smith Jr |
+| 439 | 200 | Al Smith Jr |
+| 440 | 200 | Katie Jones |
 | 441 | 198 | Rosalie Call Kehlenbeck |
 | 442 | 198 | Epic Tilemaker |
 | 443 | 198 | TetrisMama |
@@ -2008,23 +2008,23 @@
 | 2000 | 10 | Melissa Metcalf |
 | 2001 | 10 | Hunnie Nelson |
 | 2002 | 10 | Alan Baumgardner |
-| 2003 | 10 | ANNIE CHAOS |
+| 2003 | 10 | Dandy Fill |
 | 2004 | 10 | Clever Clusterfit |
 | 2005 | 10 | Shakey Bakey |
-| 2006 | 10 | Breezy Ivy |
-| 2007 | 10 | Mindy Corriher |
-| 2008 | 10 | Crafty Combo |
-| 2009 | 10 | Cate Imel |
-| 2010 | 10 | Jimberlee Akuna |
-| 2011 | 10 | Melissa Dyer |
-| 2012 | 10 | LilMs101 |
-| 2013 | 10 | Daniela Solis |
-| 2014 | 10 | Dandy Fill |
+| 2006 | 10 | Cate Imel |
+| 2007 | 10 | Jimberlee Akuna |
+| 2008 | 10 | Melissa Dyer |
+| 2009 | 10 | Daniela Solis |
+| 2010 | 10 | Hasty Linker |
+| 2011 | 10 | crysamoctama57 |
+| 2012 | 10 | ANNIE CHAOS |
+| 2013 | 10 | Laura Rake |
+| 2014 | 10 | LilMs101 |
 | 2015 | 10 | Kathi Patrick |
-| 2016 | 10 | Hasty Linker |
-| 2017 | 10 | crysamoctama57 |
-| 2018 | 10 | Laura Rake |
-| 2019 | 10 | David Blocker |
+| 2016 | 10 | Crafty Combo |
+| 2017 | 10 | David Blocker |
+| 2018 | 10 | Mindy Corriher |
+| 2019 | 10 | Breezy Ivy |
 | 2020 | 10 | TaLana Ortley |
 | 2021 | 10 | Pamela Kay |
 | 2022 | 10 | Celeste Duet |
@@ -2052,29 +2052,29 @@
 | 2044 | 9 | Snazzy Cascadezone |
 | 2045 | 9 | Lori Loup |
 | 2046 | 9 | Terri Ramsey |
-| 2047 | 9 | Robert Fenton |
-| 2048 | 9 | Crystal Greene |
-| 2049 | 9 | Dapper Corner |
+| 2047 | 9 | Crystal Greene |
+| 2048 | 9 | Cordillia Barela |
+| 2049 | 9 | Shawn Bossuot |
 | 2050 | 9 | Naomi Christiansen |
-| 2051 | 9 | Happy Matchclear |
-| 2052 | 9 | Cordillia Barela |
-| 2053 | 9 | Jazzy |
-| 2054 | 9 | Yuhh |
-| 2055 | 9 | Shawn Bossuot |
-| 2056 | 9 | PortersWife87 |
-| 2057 | 9 | Rebekah Conn |
-| 2058 | 9 | Samantha Sipe |
-| 2059 | 9 | lsbella |
-| 2060 | 8 | Perky Party |
-| 2061 | 8 | Lissa |
-| 2062 | 8 | Elizabeth Miller |
-| 2063 | 8 | Brandy McGuffey |
-| 2064 | 8 | Epic Balanceblock |
-| 2065 | 8 | Jennifer Bromeisl-Tettam |
-| 2066 | 8 | Tipsy Splitter |
-| 2067 | 8 | Chirpy Rollfit |
-| 2068 | 8 | Lisa Amick |
-| 2069 | 8 | Sammi Jo |
+| 2051 | 9 | Jazzy |
+| 2052 | 9 | Rebekah Conn |
+| 2053 | 9 | Dapper Corner |
+| 2054 | 9 | PortersWife87 |
+| 2055 | 9 | Happy Matchclear |
+| 2056 | 9 | Samantha Sipe |
+| 2057 | 9 | lsbella |
+| 2058 | 9 | Robert Fenton |
+| 2059 | 9 | Yuhh |
+| 2060 | 8 | Lissa |
+| 2061 | 8 | Brandy McGuffey |
+| 2062 | 8 | Tipsy Splitter |
+| 2063 | 8 | Perky Party |
+| 2064 | 8 | Elizabeth Miller |
+| 2065 | 8 | Sammi Jo |
+| 2066 | 8 | Chirpy Rollfit |
+| 2067 | 8 | Lisa Amick |
+| 2068 | 8 | Epic Balanceblock |
+| 2069 | 8 | Jennifer Bromeisl-Tettam |
 | 2070 | 8 | Zippy Balance |
 | 2071 | 8 | Mariah Mandel |
 | 2072 | 8 | Funky Slide |
@@ -2090,31 +2090,31 @@
 | 2082 | 7 | Mighty Tiltpiece |
 | 2083 | 7 | Brenda Ohaus Facher |
 | 2084 | 7 | Crystal King |
-| 2085 | 7 | Leslie Baker |
-| 2086 | 7 | Lush Tile |
-| 2087 | 7 | Kevin Ray Cook |
-| 2088 | 7 | Michael Bond |
-| 2089 | 7 | Sassy Swiper |
-| 2090 | 7 | Loony Pop |
-| 2091 | 7 | Carl Antonucci |
-| 2092 | 7 | Terri Jane Hardin |
-| 2093 | 7 | Pico |
+| 2085 | 7 | Carl Antonucci |
+| 2086 | 7 | Pico |
+| 2087 | 7 | Loony Pop |
+| 2088 | 7 | Ashley |
+| 2089 | 7 | Lush Tile |
+| 2090 | 7 | Ephysta |
+| 2091 | 7 | Michael Bond |
+| 2092 | 7 | Kevin Ray Cook |
+| 2093 | 7 | Terri Jane Hardin |
 | 2094 | 7 | VikinGs Vnm |
-| 2095 | 7 | Ashley |
-| 2096 | 7 | bluesky |
+| 2095 | 7 | Dionne Borden |
+| 2096 | 7 | Sassy Swiper |
 | 2097 | 7 | Carl Gadberry |
-| 2098 | 7 | Ephysta |
-| 2099 | 7 | Dionne Borden |
-| 2100 | 6 | Cara Douglas |
-| 2101 | 6 | MD |
-| 2102 | 6 | Anna Hale |
-| 2103 | 6 | Nicole Immoos |
-| 2104 | 6 | Crystal |
-| 2105 | 6 | Dan Foster |
-| 2106 | 6 | Michael Brow |
-| 2107 | 6 | Slay bestie |
-| 2108 | 6 | Bubbly Liner |
-| 2109 | 6 | Cranky Zonebuilder |
+| 2098 | 7 | Leslie Baker |
+| 2099 | 7 | bluesky |
+| 2100 | 6 | Anna Hale |
+| 2101 | 6 | Bubbly Liner |
+| 2102 | 6 | Slay bestie |
+| 2103 | 6 | Crystal |
+| 2104 | 6 | Dan Foster |
+| 2105 | 6 | Michael Brow |
+| 2106 | 6 | Nicole Immoos |
+| 2107 | 6 | Cranky Zonebuilder |
+| 2108 | 6 | MD |
+| 2109 | 6 | Cara Douglas |
 | 2110 | 6 | Cheeky Dashpiece |
 | 2111 | 6 | Jessie |
 | 2112 | 6 | Bowling girl |
@@ -2130,16 +2130,16 @@
 | 2122 | 5 | Mercedes Lowery |
 | 2123 | 5 | Vicki Ohmer |
 | 2124 | 5 | Nolife |
-| 2125 | 5 | Michael Davis |
-| 2126 | 5 | Teri |
-| 2127 | 5 | Miles McMahon |
-| 2128 | 5 | Hillary Pizzuti |
-| 2129 | 5 | Karen Moore |
-| 2130 | 5 | Cheery Filler |
-| 2131 | 5 | Splashy |
-| 2132 | 5 | Quirky Liney |
-| 2133 | 5 | Loony Matcher |
-| 2134 | 5 | Gloria Hyita |
+| 2125 | 5 | Gloria Hyita |
+| 2126 | 5 | Michael Davis |
+| 2127 | 5 | Loony Matcher |
+| 2128 | 5 | Cheery Filler |
+| 2129 | 5 | Quirky Liney |
+| 2130 | 5 | Splashy |
+| 2131 | 5 | Teri |
+| 2132 | 5 | Hillary Pizzuti |
+| 2133 | 5 | Karen Moore |
+| 2134 | 5 | Miles McMahon |
 
 ---
 *Standings created by tournaments datasource generation tool*

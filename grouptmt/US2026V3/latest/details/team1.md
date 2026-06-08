@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:29:19 UTC
+# Standings for team1 as of 2026-06-08 08:30:42 UTC
 
 **Total Participants:** 1762
 
@@ -26,7 +26,7 @@
 | 18 | 4249 | Cassidy Butler |
 | 19 | 3972 | Tekedra Wilson |
 | 20 | 3892 | Kkbk |
-| 21 | 3821 | Pdubbl3 |
+| 21 | 3834 | Pdubbl3 |
 | 22 | 3795 | jaimie |
 | 23 | 3721 | Chandler Spencer |
 | 24 | 3301 | Yolanda McDonald |
@@ -718,57 +718,57 @@
 | 710 | 98 | Cm |
 | 711 | 98 | Jjhandsome |
 | 712 | 98 | Terrance Tindall |
-| 713 | 98 | Christopher Shaw-Black |
-| 714 | 98 | Azeiare Ziare |
-| 715 | 98 | FallDee |
-| 716 | 97 | Shanell Thomas |
-| 717 | 97 | Kayel Good |
-| 718 | 97 | Lootch |
-| 719 | 97 | Smiley Bridgepiece |
-| 720 | 97 | Nichole Horsley-Conn |
-| 721 | 96 | Just2Play$ |
-| 722 | 96 | Kimmie Gargano |
+| 713 | 98 | Kyle Conley |
+| 714 | 98 | Christopher Shaw-Black |
+| 715 | 98 | Azeiare Ziare |
+| 716 | 98 | FallDee |
+| 717 | 97 | Shanell Thomas |
+| 718 | 97 | Kayel Good |
+| 719 | 97 | Lootch |
+| 720 | 97 | Smiley Bridgepiece |
+| 721 | 97 | Nichole Horsley-Conn |
+| 722 | 96 | Karen Knapp |
 | 723 | 96 | Sonia Binti Mfalme |
-| 724 | 96 | Guard Up |
-| 725 | 96 | Karen Knapp |
+| 724 | 96 | Kimmie Gargano |
+| 725 | 96 | Guard Up |
 | 726 | 96 | Zappy Clearfit |
 | 727 | 96 | meatballs |
-| 728 | 96 | Yazz |
-| 729 | 96 | Sara |
-| 730 | 95 | TieMs BHughez |
-| 731 | 95 | Barbramerri Tarboro |
+| 728 | 96 | Just2Play$ |
+| 729 | 96 | Yazz |
+| 730 | 96 | Sara |
+| 731 | 95 | Cameo Tweed |
 | 732 | 95 | Analesia Taylor |
-| 733 | 95 | Cameo Tweed |
-| 734 | 95 | Shiny Lift |
+| 733 | 95 | Shiny Lift |
+| 734 | 95 | TieMs BHughez |
 | 735 | 95 | Paul Pendley |
 | 736 | 95 | Adrian Harris |
 | 737 | 95 | Joseph Vs Cap |
-| 738 | 95 | Chris Nelson |
-| 739 | 95 | Kyle Conley |
-| 740 | 95 | Ounquan Wright |
-| 741 | 94 | Kizzy Clark |
+| 738 | 95 | Ounquan Wright |
+| 739 | 95 | Chris Nelson |
+| 740 | 95 | Barbramerri Tarboro |
+| 741 | 94 | Cortrell Foster |
 | 742 | 94 | Vera Beckford |
-| 743 | 94 | Cheryl Miller |
-| 744 | 94 | Marlainia Boyd |
-| 745 | 94 | Callie Mae |
-| 746 | 94 | Renee Marshall |
-| 747 | 94 | Sha Anderson |
-| 748 | 94 | LAdYPOLy |
-| 749 | 94 | brite |
-| 750 | 94 | Sunny Clicky |
-| 751 | 94 | Cortrell Foster |
-| 752 | 93 | Blocksy |
-| 753 | 93 | Rieshelda Marie White |
-| 754 | 93 | messyboots |
-| 755 | 93 | Lively Wipeout |
-| 756 | 93 | MrsDontPlay |
-| 757 | 93 | Snappy Link |
-| 758 | 93 | Nekka |
-| 759 | 93 | C Lo Green |
-| 760 | 92 | Jojo M |
-| 761 | 92 | Ashley Davis |
-| 762 | 92 | Smiley3000 |
-| 763 | 92 | Boricua64 |
+| 743 | 94 | Kizzy Clark |
+| 744 | 94 | LAdYPOLy |
+| 745 | 94 | Marlainia Boyd |
+| 746 | 94 | Cheryl Miller |
+| 747 | 94 | Callie Mae |
+| 748 | 94 | Sha Anderson |
+| 749 | 94 | Renee Marshall |
+| 750 | 94 | brite |
+| 751 | 94 | Sunny Clicky |
+| 752 | 93 | MrsDontPlay |
+| 753 | 93 | messyboots |
+| 754 | 93 | C Lo Green |
+| 755 | 93 | Nekka |
+| 756 | 93 | Blocksy |
+| 757 | 93 | Lively Wipeout |
+| 758 | 93 | Rieshelda Marie White |
+| 759 | 93 | Snappy Link |
+| 760 | 92 | Boricua64 |
+| 761 | 92 | Smiley3000 |
+| 762 | 92 | Ashley Davis |
+| 763 | 92 | Jojo M |
 | 764 | 92 | Poppy Twister |
 | 765 | 92 | Juicy |
 | 766 | 91 | win |
