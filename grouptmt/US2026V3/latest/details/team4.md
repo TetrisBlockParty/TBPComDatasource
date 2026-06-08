@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 10:34:20 UTC
+# Standings for team4 as of 2026-06-08 10:34:41 UTC
 
 **Total Participants:** 1811
 
@@ -1243,142 +1243,142 @@
 | 1235 | 44 | Nikki |
 | 1236 | 44 | Destiny Georgia Reeves Beller |
 | 1237 | 44 | David Kirschner |
-| 1238 | 44 | Snippy Fitblock |
-| 1239 | 44 | Ladybug |
-| 1240 | 44 | Alicia |
-| 1241 | 44 | Loony Glidepiece |
-| 1242 | 43 | Candace Dean |
-| 1243 | 43 | Christopher Ponceja |
-| 1244 | 43 | Shirley Williams |
-| 1245 | 43 | Amina Walker |
-| 1246 | 43 | Purple Queen |
-| 1247 | 42 | Lakeshia Holman |
-| 1248 | 42 | Tati |
-| 1249 | 42 | Snappy Patternfall |
-| 1250 | 42 | Chelle Williams |
-| 1251 | 42 | Stacy Brown |
-| 1252 | 42 | Shupurplenurkle |
-| 1253 | 42 | Cas Gio |
-| 1254 | 42 | Gr8flluv1 |
-| 1255 | 42 | Mighty Dash |
-| 1256 | 42 | Sunny Tiltbuilder |
-| 1257 | 42 | Mounique Melenciano |
-| 1258 | 41 | Kasey Lynne |
-| 1259 | 41 | Bookgirl69 |
-| 1260 | 41 | Tipsy Patternfit |
-| 1261 | 41 | Jordan Tamayia Williams |
-| 1262 | 41 | Amanda Serrano Ruffner |
-| 1263 | 40 | Pickles |
-| 1264 | 40 | Kiara Itzel Crowe |
-| 1265 | 40 | Billy Brasher |
-| 1266 | 40 | babygirlw |
-| 1267 | 40 | Kortnie Kate Patino |
-| 1268 | 40 | Amanda Albritton Moore |
-| 1269 | 40 | Leslie Bamonte |
-| 1270 | 40 | Kristie ML SneekaPuff |
-| 1271 | 40 | Jolly Dashy |
-| 1272 | 40 | Quirky Fitblock |
-| 1273 | 40 | Cynthia Bolden |
-| 1274 | 40 | MamaBear3 |
-| 1275 | 40 | Sherri Lynn |
-| 1276 | 40 | Kristal |
-| 1277 | 40 | Jean Yap |
-| 1278 | 40 | John Henry |
-| 1279 | 40 | Sherri Lorent |
-| 1280 | 40 | Lawrissa Andrews |
-| 1281 | 40 | Littleshark |
-| 1282 | 40 | Big Dooka |
-| 1283 | 40 | Sierra A Hortman |
-| 1284 | 40 | KrisTina2007 |
-| 1285 | 40 | Wayne Mire |
-| 1286 | 40 | Dawn Mortimer |
-| 1287 | 40 | Kissyfurr |
-| 1288 | 40 | Mexican130 |
-| 1289 | 40 | Alicia Loveless |
-| 1290 | 40 | Glitzy Cascadefit |
-| 1291 | 40 | nanaz86 |
-| 1292 | 40 | T boo |
-| 1293 | 40 | Glitzy Patternbuilder |
-| 1294 | 39 | Carrie Sue Shaffer |
-| 1295 | 39 | Peachy Linkbuilder |
-| 1296 | 39 | Chris Davis |
-| 1297 | 39 | Amy White |
-| 1298 | 39 | Mighty Clicky |
-| 1299 | 39 | JUNE |
-| 1300 | 39 | Ashley McGeehan |
-| 1301 | 39 | Dandy Balancer |
-| 1302 | 39 | Ashie |
-| 1303 | 38 | Daring Patternblock |
-| 1304 | 38 | Ali Nicole |
-| 1305 | 38 | Pretty_Rican |
-| 1306 | 38 | Monique Anne Edwards |
-| 1307 | 38 | Capt'n Crunch |
-| 1308 | 38 | Robin M Casebolt |
-| 1309 | 38 | Jean Crooks |
-| 1310 | 38 | Yam My |
-| 1311 | 38 | Dana Smith |
-| 1312 | 38 | Ayobribri |
-| 1313 | 38 | Adolfo Bernal |
-| 1314 | 38 | Terry Jo Myers |
-| 1315 | 38 | Mighty Spinfit |
-| 1316 | 38 | Jacquelyn Villarreal-Messenger |
-| 1317 | 38 | Melissa Gorman |
-| 1318 | 38 | Heather Cook |
-| 1319 | 38 | Dupontmom |
-| 1320 | 37 | Tray Day |
-| 1321 | 37 | Barbara Mays |
-| 1322 | 37 | Jessica Lestage |
-| 1323 | 37 | theyhatejzt |
-| 1324 | 37 | Heather Cline |
-| 1325 | 37 | Jonelle Jacobs |
-| 1326 | 37 | Fineassdee23 |
-| 1327 | 37 | Twisty Chiseler |
-| 1328 | 37 | Tina Berdeja |
-| 1329 | 37 | LISHA 2 U |
-| 1330 | 37 | Shannon Lee |
-| 1331 | 36 | Peppy Linefit |
-| 1332 | 36 | Kathy Lindsay |
-| 1333 | 36 | Colin hollenbeck |
-| 1334 | 36 | Debra James |
-| 1335 | 36 | Stacey Hyde |
-| 1336 | 36 | Simone Marie Thrasher |
-| 1337 | 36 | Austin Tan |
-| 1338 | 36 | Emily Lowe |
-| 1339 | 36 | Idella Cobb Strickland |
-| 1340 | 36 | Krazylegzzzz |
-| 1341 | 36 | Funky Riserpiece |
-| 1342 | 36 | gothicmisery |
-| 1343 | 36 | Ja'Net Riley |
-| 1344 | 36 | Chelsea Leann Lamb |
-| 1345 | 36 | Dawn Ferrin |
-| 1346 | 36 | Stylist |
-| 1347 | 36 | Misty Mathers |
-| 1348 | 36 | Sunny Bricky |
-| 1349 | 36 | Lively Tilebuilder |
-| 1350 | 35 | Lex Allen |
-| 1351 | 35 | CRsLady |
-| 1352 | 35 | Jessica Marie Flores |
-| 1353 | 35 | Saul Fajardo |
-| 1354 | 35 | Amber Torres |
-| 1355 | 35 | Stephanie Williams |
-| 1356 | 35 | Peachy Grabber |
-| 1357 | 35 | Stacy Sisson |
-| 1358 | 35 | moonman33 |
-| 1359 | 35 | $bluemoon |
-| 1360 | 35 | Samantha Brandt |
-| 1361 | 35 | Joshua Conwell |
-| 1362 | 35 | Magda Lene |
-| 1363 | 35 | KySun |
-| 1364 | 35 | Ali Garcia |
-| 1365 | 34 | Yulissa Diaz |
-| 1366 | 34 | Sharron Mullins |
-| 1367 | 34 | Ferlyz |
-| 1368 | 34 | Hannah Harkness |
-| 1369 | 34 | Peezy_419 |
-| 1370 | 34 | MzCeleste Brooks |
-| 1371 | 34 | Katy Roman |
-| 1372 | 34 | Kaylynn Hareland |
-| 1373 | 33 | Lin Ferguson |
+| 1238 | 44 | Alicia |
+| 1239 | 44 | Snippy Fitblock |
+| 1240 | 44 | Loony Glidepiece |
+| 1241 | 44 | Ladybug |
+| 1242 | 43 | Lin Ferguson |
+| 1243 | 43 | Candace Dean |
+| 1244 | 43 | Christopher Ponceja |
+| 1245 | 43 | Shirley Williams |
+| 1246 | 43 | Amina Walker |
+| 1247 | 43 | Purple Queen |
+| 1248 | 42 | Lakeshia Holman |
+| 1249 | 42 | Tati |
+| 1250 | 42 | Snappy Patternfall |
+| 1251 | 42 | Chelle Williams |
+| 1252 | 42 | Stacy Brown |
+| 1253 | 42 | Shupurplenurkle |
+| 1254 | 42 | Cas Gio |
+| 1255 | 42 | Gr8flluv1 |
+| 1256 | 42 | Mighty Dash |
+| 1257 | 42 | Sunny Tiltbuilder |
+| 1258 | 42 | Mounique Melenciano |
+| 1259 | 41 | Kasey Lynne |
+| 1260 | 41 | Bookgirl69 |
+| 1261 | 41 | Tipsy Patternfit |
+| 1262 | 41 | Jordan Tamayia Williams |
+| 1263 | 41 | Amanda Serrano Ruffner |
+| 1264 | 40 | Pickles |
+| 1265 | 40 | Kiara Itzel Crowe |
+| 1266 | 40 | Billy Brasher |
+| 1267 | 40 | babygirlw |
+| 1268 | 40 | Kortnie Kate Patino |
+| 1269 | 40 | Amanda Albritton Moore |
+| 1270 | 40 | Leslie Bamonte |
+| 1271 | 40 | Kristie ML SneekaPuff |
+| 1272 | 40 | Jolly Dashy |
+| 1273 | 40 | Quirky Fitblock |
+| 1274 | 40 | Cynthia Bolden |
+| 1275 | 40 | MamaBear3 |
+| 1276 | 40 | Sherri Lynn |
+| 1277 | 40 | Kristal |
+| 1278 | 40 | Jean Yap |
+| 1279 | 40 | John Henry |
+| 1280 | 40 | Sherri Lorent |
+| 1281 | 40 | Lawrissa Andrews |
+| 1282 | 40 | Littleshark |
+| 1283 | 40 | Big Dooka |
+| 1284 | 40 | Sierra A Hortman |
+| 1285 | 40 | KrisTina2007 |
+| 1286 | 40 | Wayne Mire |
+| 1287 | 40 | Dawn Mortimer |
+| 1288 | 40 | Kissyfurr |
+| 1289 | 40 | Mexican130 |
+| 1290 | 40 | Alicia Loveless |
+| 1291 | 40 | Glitzy Cascadefit |
+| 1292 | 40 | nanaz86 |
+| 1293 | 40 | T boo |
+| 1294 | 40 | Glitzy Patternbuilder |
+| 1295 | 39 | Carrie Sue Shaffer |
+| 1296 | 39 | Peachy Linkbuilder |
+| 1297 | 39 | Chris Davis |
+| 1298 | 39 | Amy White |
+| 1299 | 39 | Mighty Clicky |
+| 1300 | 39 | JUNE |
+| 1301 | 39 | Ashley McGeehan |
+| 1302 | 39 | Dandy Balancer |
+| 1303 | 39 | Ashie |
+| 1304 | 38 | Daring Patternblock |
+| 1305 | 38 | Ali Nicole |
+| 1306 | 38 | Pretty_Rican |
+| 1307 | 38 | Monique Anne Edwards |
+| 1308 | 38 | Capt'n Crunch |
+| 1309 | 38 | Robin M Casebolt |
+| 1310 | 38 | Jean Crooks |
+| 1311 | 38 | Yam My |
+| 1312 | 38 | Dana Smith |
+| 1313 | 38 | Ayobribri |
+| 1314 | 38 | Adolfo Bernal |
+| 1315 | 38 | Terry Jo Myers |
+| 1316 | 38 | Mighty Spinfit |
+| 1317 | 38 | Jacquelyn Villarreal-Messenger |
+| 1318 | 38 | Melissa Gorman |
+| 1319 | 38 | Heather Cook |
+| 1320 | 38 | Dupontmom |
+| 1321 | 37 | Tray Day |
+| 1322 | 37 | Barbara Mays |
+| 1323 | 37 | Jessica Lestage |
+| 1324 | 37 | theyhatejzt |
+| 1325 | 37 | Heather Cline |
+| 1326 | 37 | Jonelle Jacobs |
+| 1327 | 37 | Fineassdee23 |
+| 1328 | 37 | Twisty Chiseler |
+| 1329 | 37 | Tina Berdeja |
+| 1330 | 37 | LISHA 2 U |
+| 1331 | 37 | Shannon Lee |
+| 1332 | 36 | Peppy Linefit |
+| 1333 | 36 | Kathy Lindsay |
+| 1334 | 36 | Colin hollenbeck |
+| 1335 | 36 | Debra James |
+| 1336 | 36 | Stacey Hyde |
+| 1337 | 36 | Simone Marie Thrasher |
+| 1338 | 36 | Austin Tan |
+| 1339 | 36 | Emily Lowe |
+| 1340 | 36 | Idella Cobb Strickland |
+| 1341 | 36 | Krazylegzzzz |
+| 1342 | 36 | Funky Riserpiece |
+| 1343 | 36 | gothicmisery |
+| 1344 | 36 | Ja'Net Riley |
+| 1345 | 36 | Chelsea Leann Lamb |
+| 1346 | 36 | Dawn Ferrin |
+| 1347 | 36 | Stylist |
+| 1348 | 36 | Misty Mathers |
+| 1349 | 36 | Sunny Bricky |
+| 1350 | 36 | Lively Tilebuilder |
+| 1351 | 35 | Lex Allen |
+| 1352 | 35 | CRsLady |
+| 1353 | 35 | Jessica Marie Flores |
+| 1354 | 35 | Saul Fajardo |
+| 1355 | 35 | Amber Torres |
+| 1356 | 35 | Stephanie Williams |
+| 1357 | 35 | Peachy Grabber |
+| 1358 | 35 | Stacy Sisson |
+| 1359 | 35 | moonman33 |
+| 1360 | 35 | $bluemoon |
+| 1361 | 35 | Samantha Brandt |
+| 1362 | 35 | Joshua Conwell |
+| 1363 | 35 | Magda Lene |
+| 1364 | 35 | KySun |
+| 1365 | 35 | Ali Garcia |
+| 1366 | 34 | Yulissa Diaz |
+| 1367 | 34 | Sharron Mullins |
+| 1368 | 34 | Ferlyz |
+| 1369 | 34 | Hannah Harkness |
+| 1370 | 34 | Peezy_419 |
+| 1371 | 34 | MzCeleste Brooks |
+| 1372 | 34 | Katy Roman |
+| 1373 | 34 | Kaylynn Hareland |
 | 1374 | 33 | Monica Shupe |
 | 1375 | 33 | Chill Snapclear |
 | 1376 | 33 | Roxana Romero |

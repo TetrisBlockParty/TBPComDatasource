@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 10:34:20 UTC
+# Standings for team2 as of 2026-06-08 10:34:41 UTC
 
 **Total Participants:** 2152
 
@@ -254,24 +254,24 @@
 | 246 | 383 | Jenna Stahl |
 | 247 | 382 | Rachel Nilles |
 | 248 | 380 | Bb |
-| 249 | 379 | Greta Warden |
+| 249 | 380 | Fudgie Pie |
 | 250 | 379 | Lora Via |
-| 251 | 376 | Chill Line |
-| 252 | 376 | Jamie Fenyus |
-| 253 | 376 | Traci Abern |
-| 254 | 375 | Brittni Lawrence |
-| 255 | 375 | Branden Frankowski |
-| 256 | 373 | Hoppy Mover |
-| 257 | 364 | Lindsey Ford |
-| 258 | 363 | Ratchet |
-| 259 | 362 | Hypee |
-| 260 | 359 | Crystal Poss |
-| 261 | 354 | Sabrina Hardrick |
-| 262 | 351 | Cathy Lee Stoneking |
-| 263 | 350 | Loopy Dropper |
-| 264 | 349 | Spicy Basepiece |
-| 265 | 347 | Jessica Lynn |
-| 266 | 347 | Fudgie Pie |
+| 251 | 379 | Greta Warden |
+| 252 | 376 | Traci Abern |
+| 253 | 376 | Jamie Fenyus |
+| 254 | 376 | Chill Line |
+| 255 | 375 | Brittni Lawrence |
+| 256 | 375 | Branden Frankowski |
+| 257 | 373 | Hoppy Mover |
+| 258 | 364 | Lindsey Ford |
+| 259 | 363 | Ratchet |
+| 260 | 362 | Hypee |
+| 261 | 359 | Crystal Poss |
+| 262 | 354 | Sabrina Hardrick |
+| 263 | 351 | Cathy Lee Stoneking |
+| 264 | 350 | Loopy Dropper |
+| 265 | 349 | Spicy Basepiece |
+| 266 | 347 | Jessica Lynn |
 | 267 | 340 | Marge Cromer |
 | 268 | 339 | Keri Mears |
 | 269 | 338 | Amie Marks |
@@ -1487,38 +1487,38 @@
 | 1479 | 40 | Aislinn Lowe |
 | 1480 | 40 | Michael Lott |
 | 1481 | 40 | Kimmi Knippel |
-| 1482 | 40 | Kyle |
-| 1483 | 40 | Kacey Bates |
-| 1484 | 40 | Kristy Moore |
-| 1485 | 40 | Jay Theriault |
-| 1486 | 40 | Tonya Templin Smith |
-| 1487 | 40 | Tara Feineis |
-| 1488 | 40 | Elicia Lloyd-Zazweta |
-| 1489 | 40 | Ashley Bennett |
-| 1490 | 40 | fancypants |
-| 1491 | 40 | Lori Rose |
-| 1492 | 40 | Ariya Colson |
-| 1493 | 40 | Dapper Pivotfall |
-| 1494 | 40 | Emma Danielle Wynn |
-| 1495 | 40 | Shay Lynn King |
-| 1496 | 39 | Flynn Flibble |
-| 1497 | 39 | Instak1ll |
-| 1498 | 39 | Valerie Roberts |
-| 1499 | 39 | Slinky Glidezone |
-| 1500 | 39 | Lindsey Butler |
-| 1501 | 39 | Renee Garneau Cain |
-| 1502 | 39 | Pickle |
-| 1503 | 39 | LovelyLaurita |
-| 1504 | 39 | Lorrie Girardi |
-| 1505 | 39 | Liliana Mills |
-| 1506 | 39 | Dustie Benefield |
-| 1507 | 39 | Catey Salazar |
-| 1508 | 39 | Linette Chico |
-| 1509 | 38 | Nikki Strawn |
-| 1510 | 38 | David Thomas |
-| 1511 | 38 | Charles Dwayne |
-| 1512 | 38 | Mick Loving |
-| 1513 | 38 | Sandra Betz |
+| 1482 | 40 | Sandra Betz |
+| 1483 | 40 | Kyle |
+| 1484 | 40 | Kacey Bates |
+| 1485 | 40 | Kristy Moore |
+| 1486 | 40 | Jay Theriault |
+| 1487 | 40 | Tonya Templin Smith |
+| 1488 | 40 | Tara Feineis |
+| 1489 | 40 | Elicia Lloyd-Zazweta |
+| 1490 | 40 | Ashley Bennett |
+| 1491 | 40 | fancypants |
+| 1492 | 40 | Lori Rose |
+| 1493 | 40 | Ariya Colson |
+| 1494 | 40 | Dapper Pivotfall |
+| 1495 | 40 | Emma Danielle Wynn |
+| 1496 | 40 | Shay Lynn King |
+| 1497 | 39 | Flynn Flibble |
+| 1498 | 39 | Instak1ll |
+| 1499 | 39 | Valerie Roberts |
+| 1500 | 39 | Slinky Glidezone |
+| 1501 | 39 | Lindsey Butler |
+| 1502 | 39 | Renee Garneau Cain |
+| 1503 | 39 | Pickle |
+| 1504 | 39 | LovelyLaurita |
+| 1505 | 39 | Lorrie Girardi |
+| 1506 | 39 | Liliana Mills |
+| 1507 | 39 | Dustie Benefield |
+| 1508 | 39 | Catey Salazar |
+| 1509 | 39 | Linette Chico |
+| 1510 | 38 | Nikki Strawn |
+| 1511 | 38 | David Thomas |
+| 1512 | 38 | Charles Dwayne |
+| 1513 | 38 | Mick Loving |
 | 1514 | 38 | Melissa Kinsley |
 | 1515 | 38 | Joce Barger |
 | 1516 | 38 | Jason Janssen |
