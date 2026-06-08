@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:54:20 UTC
+# Standings for team1 as of 2026-06-08 07:54:41 UTC
 
 **Total Participants:** 1757
 
@@ -101,7 +101,7 @@
 | 93 | 870 | Moomoo |
 | 94 | 867 | She Higgy |
 | 95 | 860 | Voice |
-| 96 | 839 | Jason Mungin |
+| 96 | 848 | Jason Mungin |
 | 97 | 809 | Jazzy Dashpiece |
 | 98 | 806 | Jaida De'Anne Cox |
 | 99 | 795 | Joy Citizen Pickney |
