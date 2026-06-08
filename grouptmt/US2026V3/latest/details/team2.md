@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:52:42 UTC
+# Standings for team2 as of 2026-06-08 19:53:21 UTC
 
 **Total Participants:** 2259
 
@@ -662,29 +662,29 @@
 | 654 | 163 | Zany Cascader |
 | 655 | 163 | Fancy Stacker |
 | 656 | 163 | Jessica Garoutte |
-| 657 | 163 | Mrs biotch |
-| 658 | 162 | Josephina |
-| 659 | 162 | Wacky Holder |
-| 660 | 162 | Angeleye A James |
-| 661 | 160 | ChefDeb |
-| 662 | 160 | Elizabeth Cornelius |
-| 663 | 160 | Billie Jensen |
-| 664 | 160 | Elnaz Mokleh |
-| 665 | 160 | Jessica Perkins |
-| 666 | 160 | Jennifer McCloskey Launder |
-| 667 | 160 | Patti Ward |
-| 668 | 160 | Carrie Hayes Lankford |
-| 669 | 160 | TiffTaff |
-| 670 | 159 | Misty Noe |
-| 671 | 159 | Destiny Turner |
-| 672 | 159 | Bruni |
-| 673 | 159 | Jennifer Vitro |
-| 674 | 159 | Elizabeth Kline |
-| 675 | 159 | Jennifer Wymer |
-| 676 | 158 | Ceci |
-| 677 | 158 | Cozy Cascade |
-| 678 | 158 | Mike Mordhorst |
-| 679 | 158 | Cody Gates |
+| 657 | 163 | Cody Gates |
+| 658 | 163 | Mrs biotch |
+| 659 | 162 | Josephina |
+| 660 | 162 | Wacky Holder |
+| 661 | 162 | Angeleye A James |
+| 662 | 160 | ChefDeb |
+| 663 | 160 | Elizabeth Cornelius |
+| 664 | 160 | Billie Jensen |
+| 665 | 160 | Elnaz Mokleh |
+| 666 | 160 | Jessica Perkins |
+| 667 | 160 | Jennifer McCloskey Launder |
+| 668 | 160 | Patti Ward |
+| 669 | 160 | Carrie Hayes Lankford |
+| 670 | 160 | TiffTaff |
+| 671 | 159 | Misty Noe |
+| 672 | 159 | Destiny Turner |
+| 673 | 159 | Bruni |
+| 674 | 159 | Jennifer Vitro |
+| 675 | 159 | Elizabeth Kline |
+| 676 | 159 | Jennifer Wymer |
+| 677 | 158 | Ceci |
+| 678 | 158 | Cozy Cascade |
+| 679 | 158 | Mike Mordhorst |
 | 680 | 158 | Chrystal |
 | 681 | 157 | Dana Vaiden Rivers |
 | 682 | 157 | Kimmi Blake |
@@ -937,21 +937,21 @@
 | 929 | 110 | Twisty Matcher |
 | 930 | 110 | Susan Moyer |
 | 931 | 109 | jme |
-| 932 | 109 | Robert W Schwartz |
-| 933 | 109 | Sandra Rotton Bragg |
-| 934 | 108 | Purpleroyalty11 |
-| 935 | 108 | K2N |
-| 936 | 107 | Jazzy Snapfit |
-| 937 | 107 | KS Hengesbach |
-| 938 | 107 | Carole Brown |
-| 939 | 107 | Arik DiLorenzo |
-| 940 | 107 | BB |
-| 941 | 107 | Stephanie Smith Robinson |
-| 942 | 107 | Clever Gridzone |
-| 943 | 107 | Giggy Linkgrid |
-| 944 | 106 | Pamela Gambrell |
-| 945 | 106 | Jessica Murphree |
-| 946 | 106 | Jolene Hull Hearn |
+| 932 | 109 | Jolene Hull Hearn |
+| 933 | 109 | Robert W Schwartz |
+| 934 | 109 | Sandra Rotton Bragg |
+| 935 | 108 | Purpleroyalty11 |
+| 936 | 108 | K2N |
+| 937 | 107 | Jazzy Snapfit |
+| 938 | 107 | KS Hengesbach |
+| 939 | 107 | Carole Brown |
+| 940 | 107 | Arik DiLorenzo |
+| 941 | 107 | Clever Gridzone |
+| 942 | 107 | Stephanie Smith Robinson |
+| 943 | 107 | BB |
+| 944 | 107 | Giggy Linkgrid |
+| 945 | 106 | Pamela Gambrell |
+| 946 | 106 | Jessica Murphree |
 | 947 | 106 | Jacy Pickett |
 | 948 | 106 | Teresa Ann Curry |
 | 949 | 105 | Goofy Shatterbuilder |
@@ -961,20 +961,20 @@
 | 953 | 104 | Christina Whitehead |
 | 954 | 104 | Peppy Piececlear |
 | 955 | 104 | John Perkins |
-| 956 | 103 | Jolly Twisterfit |
-| 957 | 103 | Louis Brudzinski |
+| 956 | 103 | Louis Brudzinski |
+| 957 | 103 | Saucy Lifter |
 | 958 | 103 | Katie Boen |
-| 959 | 103 | Saucy Lifter |
+| 959 | 103 | Jolly Twisterfit |
 | 960 | 103 | Chill Clearbuilder |
 | 961 | 103 | Ashley Fleming |
 | 962 | 102 | Kaylene Rigas |
 | 963 | 102 | Diamond Mitchell |
-| 964 | 102 | Renee Craig |
+| 964 | 102 | Mario Hillman |
 | 965 | 102 | Natalie M. Arredondo |
 | 966 | 102 | Samantha Brown |
-| 967 | 102 | Mario Hillman |
+| 967 | 102 | Chirpy Clearpiece |
 | 968 | 102 | Tetrismastrr |
-| 969 | 102 | Chirpy Clearpiece |
+| 969 | 102 | Renee Craig |
 | 970 | 101 | Cynthia Dawn Reitz Hanson |
 | 971 | 101 | Michael Delozier |
 | 972 | 101 | bozzycat |
@@ -996,8 +996,8 @@
 | 988 | 100 | Loriane Shumate Griggs |
 | 989 | 100 | Donna Segletes Kay |
 | 990 | 100 | Bonita Alexander |
-| 991 | 100 | Emily Carns |
-| 992 | 100 | Glowing Earthy Embers |
+| 991 | 100 | Glowing Earthy Embers |
+| 992 | 100 | Emily Carns |
 | 993 | 100 | Nerdy Linebuilder |
 | 994 | 100 | Jackie Moran Tiller |
 | 995 | 100 | Angie Rose |
