@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:44:42 UTC
+# Standings for team2 as of 2026-06-08 19:45:22 UTC
 
 **Total Participants:** 2259
 
@@ -125,14 +125,14 @@
 | 117 | 976 | Erin Thomas |
 | 118 | 971 | Shea |
 | 119 | 964 | Mirr Lulu |
-| 120 | 922 | Amber Triguero |
-| 121 | 921 | Groovy Snapper |
-| 122 | 918 | Sarah Griffey |
-| 123 | 905 | Deborah Boyce Minor |
-| 124 | 899 | Marie Luciano |
-| 125 | 899 | Chipper Patternblock |
-| 126 | 873 | Sedy |
-| 127 | 873 | Cristi Doris |
+| 120 | 939 | Chipper Patternblock |
+| 121 | 922 | Amber Triguero |
+| 122 | 921 | Groovy Snapper |
+| 123 | 918 | Sarah Griffey |
+| 124 | 905 | Deborah Boyce Minor |
+| 125 | 899 | Marie Luciano |
+| 126 | 873 | Cristi Doris |
+| 127 | 873 | Sedy |
 | 128 | 854 | Amber Miller Wirick |
 | 129 | 853 | Courtney McCulley |
 | 130 | 851 | Cathy Tippett |
@@ -215,8 +215,8 @@
 | 207 | 527 | Amy Gale |
 | 208 | 521 | Steven Craig |
 | 209 | 520 | Jennifer Smith |
-| 210 | 517 | Chris Cooper |
-| 211 | 516 | Laverne Ellis Blair |
+| 210 | 520 | Laverne Ellis Blair |
+| 211 | 517 | Chris Cooper |
 | 212 | 513 | Theresa Hollinger |
 | 213 | 513 | Gill |
 | 214 | 510 | Samantha Carman |
