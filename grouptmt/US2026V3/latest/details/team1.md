@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 02:04:41 UTC
+# Standings for team1 as of 2026-06-08 02:05:21 UTC
 
 **Total Participants:** 1667
 
@@ -254,9 +254,9 @@
 | 246 | 272 | Tarnisha Neicy Jones |
 | 247 | 272 | Katherine Short |
 | 248 | 270 | Julian Dickens Jr. |
-| 249 | 270 | Slinky Brickmatch |
-| 250 | 269 | DaGuy |
-| 251 | 267 | Keke Ferguson |
+| 249 | 270 | Keke Ferguson |
+| 250 | 270 | Slinky Brickmatch |
+| 251 | 269 | DaGuy |
 | 252 | 266 | Chilly Wipebuilder |
 | 253 | 266 | Jhonny Maii |
 | 254 | 264 | Melissa D. M. Hornsby |
@@ -422,15 +422,15 @@
 | 414 | 156 | Lakiesha Crawford |
 | 415 | 156 | Shalya Terry |
 | 416 | 156 | Alyssa Rae |
-| 417 | 155 | Katrina Ramey |
-| 418 | 155 | Jae Thompson-Tyus |
-| 419 | 154 | Dorian Griffin |
-| 420 | 154 | Ciera Peace |
-| 421 | 153 | CJ Robinson |
-| 422 | 153 | Tamika Rocheteau |
-| 423 | 152 | wmedina67 |
-| 424 | 152 | Wacky Stackbuilder |
-| 425 | 151 | Miera Nicole |
+| 417 | 155 | Miera Nicole |
+| 418 | 155 | Katrina Ramey |
+| 419 | 155 | Jae Thompson-Tyus |
+| 420 | 154 | Dorian Griffin |
+| 421 | 154 | Ciera Peace |
+| 422 | 153 | CJ Robinson |
+| 423 | 153 | Tamika Rocheteau |
+| 424 | 152 | wmedina67 |
+| 425 | 152 | Wacky Stackbuilder |
 | 426 | 151 | Dede Tate |
 | 427 | 151 | Yashica Smith |
 | 428 | 151 | Perky Balancer |
@@ -667,95 +667,95 @@
 | 659 | 95 | Shiny Lift |
 | 660 | 95 | Nona Harriel |
 | 661 | 95 | Cameo Tweed |
-| 662 | 95 | Ounquan Wright |
-| 663 | 95 | WOOLFF |
-| 664 | 94 | Renee Marshall |
-| 665 | 94 | Cortrell Foster |
-| 666 | 94 | Joseph Vs Cap |
-| 667 | 94 | Vera Beckford |
-| 668 | 94 | Sunny Clicky |
-| 669 | 94 | Marlainia Boyd |
-| 670 | 94 | Callie Mae |
-| 671 | 94 | Sha Anderson |
-| 672 | 94 | Peppy Wipeblock |
-| 673 | 94 | Derald Miller |
-| 674 | 93 | C Lo Green |
-| 675 | 93 | messyboots |
+| 662 | 95 | WOOLFF |
+| 663 | 95 | Ounquan Wright |
+| 664 | 94 | Derald Miller |
+| 665 | 94 | Marlainia Boyd |
+| 666 | 94 | Peppy Wipeblock |
+| 667 | 94 | Sha Anderson |
+| 668 | 94 | Callie Mae |
+| 669 | 94 | Cortrell Foster |
+| 670 | 94 | Joseph Vs Cap |
+| 671 | 94 | Vera Beckford |
+| 672 | 94 | Renee Marshall |
+| 673 | 94 | Sunny Clicky |
+| 674 | 93 | messyboots |
+| 675 | 93 | C Lo Green |
 | 676 | 93 | Rene Hicks |
 | 677 | 93 | FunTime |
-| 678 | 92 | MrsDontPlay |
-| 679 | 92 | Juicy |
-| 680 | 92 | Ashley Davis |
-| 681 | 92 | Jojo M |
-| 682 | 92 | Poppy Twister |
-| 683 | 91 | DellaLucretia Thomas |
-| 684 | 91 | David A Alvino |
+| 678 | 92 | Jojo M |
+| 679 | 92 | Ashley Davis |
+| 680 | 92 | Juicy |
+| 681 | 92 | Poppy Twister |
+| 682 | 92 | MrsDontPlay |
+| 683 | 91 | David A Alvino |
+| 684 | 91 | DellaLucretia Thomas |
 | 685 | 90 | Kizzy Clark |
 | 686 | 90 | Tramaine Crockrum |
-| 687 | 90 | Dannie |
-| 688 | 90 | Linda Lasha Messenger |
-| 689 | 90 | Missy Myvette |
-| 690 | 90 | Slinky Fallzone |
+| 687 | 90 | Slinky Fallzone |
+| 688 | 90 | Dannie |
+| 689 | 90 | Linda Lasha Messenger |
+| 690 | 90 | Missy Myvette |
 | 691 | 90 | Rissa Rozay |
-| 692 | 90 | Esha I'msoproudofmyself Davis |
-| 693 | 90 | Jason Saputo |
-| 694 | 90 | mya |
-| 695 | 90 | crumb bumc |
-| 696 | 90 | Stephanie Ellis |
-| 697 | 90 | Jennifer Moore |
-| 698 | 90 | Essence Jones |
-| 699 | 89 | Darrel Pemberton |
-| 700 | 89 | Cheryl Miller |
-| 701 | 89 | Spicy Shatterblock |
-| 702 | 89 | Jazzy Bridger |
-| 703 | 89 | Marc Papa |
-| 704 | 89 | StingerD |
-| 705 | 89 | Naee Bee |
-| 706 | 89 | Tracy Feyler |
-| 707 | 89 | Johnathan Deese |
-| 708 | 88 | Kim Holzmiller |
+| 692 | 90 | Kim Holzmiller |
+| 693 | 90 | Esha I'msoproudofmyself Davis |
+| 694 | 90 | Jason Saputo |
+| 695 | 90 | mya |
+| 696 | 90 | crumb bumc |
+| 697 | 90 | Stephanie Ellis |
+| 698 | 90 | Jennifer Moore |
+| 699 | 90 | Essence Jones |
+| 700 | 89 | Darrel Pemberton |
+| 701 | 89 | Cheryl Miller |
+| 702 | 89 | Spicy Shatterblock |
+| 703 | 89 | Jazzy Bridger |
+| 704 | 89 | Marc Papa |
+| 705 | 89 | StingerD |
+| 706 | 89 | Naee Bee |
+| 707 | 89 | Tracy Feyler |
+| 708 | 89 | Johnathan Deese |
 | 709 | 88 | Ryan Runyan |
-| 710 | 88 | Maria Baez Medina |
-| 711 | 87 | Pj Rojas |
+| 710 | 88 | Poyre Shelton |
+| 711 | 88 | Maria Baez Medina |
 | 712 | 87 | Natalie Burroughs |
-| 713 | 87 | Samona Mcculler |
-| 714 | 87 | Angela L Charles |
+| 713 | 87 | Pj Rojas |
+| 714 | 87 | Samona Mcculler |
 | 715 | 87 | LexiiSamayaa |
-| 716 | 87 | Denise Cunningham-English |
-| 717 | 86 | Marie Wilson |
-| 718 | 86 | Saucy Faller |
-| 719 | 86 | LaTonya Rivers |
-| 720 | 86 | RylonJones |
-| 721 | 86 | Tweet Turner |
-| 722 | 86 | lady |
+| 716 | 87 | Angela L Charles |
+| 717 | 87 | Denise Cunningham-English |
+| 718 | 86 | lady |
+| 719 | 86 | Saucy Faller |
+| 720 | 86 | LaTonya Rivers |
+| 721 | 86 | RylonJones |
+| 722 | 86 | Tweet Turner |
 | 723 | 86 | krd |
 | 724 | 86 | Danny M GR |
-| 725 | 85 | Eric Machuca |
-| 726 | 85 | Bobby Chestefield |
-| 727 | 85 | Duncan Timothy |
-| 728 | 85 | De'Mear McKinney |
-| 729 | 85 | Anthony Collins |
-| 730 | 85 | Desi Guerra |
-| 731 | 85 | TotoCherue |
-| 732 | 85 | Kimberly Noble |
-| 733 | 85 | Chereese Harris |
-| 734 | 85 | Sarah Swietlicki - Lopez |
-| 735 | 84 | TRUBBLE45 |
-| 736 | 84 | Sunny Tumbler |
-| 737 | 84 | Franklin Sotelo |
-| 738 | 84 | Dawn Basemore |
-| 739 | 84 | Just2Play$ |
-| 740 | 83 | Shakmar |
-| 741 | 83 | John C Sexton |
+| 725 | 86 | Marie Wilson |
+| 726 | 85 | Anthony Collins |
+| 727 | 85 | Eric Machuca |
+| 728 | 85 | Bobby Chestefield |
+| 729 | 85 | Duncan Timothy |
+| 730 | 85 | De'Mear McKinney |
+| 731 | 85 | Desi Guerra |
+| 732 | 85 | TotoCherue |
+| 733 | 85 | Sarah Swietlicki - Lopez |
+| 734 | 85 | Chereese Harris |
+| 735 | 85 | Kimberly Noble |
+| 736 | 84 | Dawn Basemore |
+| 737 | 84 | Just2Play$ |
+| 738 | 84 | Franklin Sotelo |
+| 739 | 84 | Sunny Tumbler |
+| 740 | 84 | TRUBBLE45 |
+| 741 | 83 | Dirty Deeds |
 | 742 | 83 | Latoya Carson |
-| 743 | 83 | Dirty Deeds |
-| 744 | 83 | MrsMeadows2019 |
-| 745 | 83 | Block |
-| 746 | 82 | Dana Hawes |
-| 747 | 82 | Poyre Shelton |
-| 748 | 82 | Casey Chapman |
-| 749 | 82 | Jumpy Gridlock |
-| 750 | 82 | DeAngelo Sorrells |
+| 743 | 83 | Shakmar |
+| 744 | 83 | Block |
+| 745 | 83 | MrsMeadows2019 |
+| 746 | 83 | John C Sexton |
+| 747 | 82 | DeAngelo Sorrells |
+| 748 | 82 | Jumpy Gridlock |
+| 749 | 82 | Casey Chapman |
+| 750 | 82 | Dana Hawes |
 | 751 | 81 | GracefulOwl808 |
 | 752 | 80 | Charles Johnson |
 | 753 | 80 | Gerold Folk Haddock |
