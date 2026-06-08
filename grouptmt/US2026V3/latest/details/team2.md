@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:22:44 UTC
+# Standings for team2 as of 2026-06-08 12:23:19 UTC
 
 **Total Participants:** 2166
 
@@ -282,7 +282,7 @@
 | 274 | 337 | Ashley Billiot Rhodes |
 | 275 | 337 | Nathan Walker |
 | 276 | 337 | Adriana Daniela Agapie |
-| 277 | 334 | Chipper Stackbuilder |
+| 277 | 335 | Chipper Stackbuilder |
 | 278 | 333 | Joanna Trevin Thompson |
 | 279 | 331 | Shannon Wilson |
 | 280 | 331 | Anthony Swift |
@@ -304,10 +304,10 @@
 | 296 | 320 | marsam |
 | 297 | 318 | Pamela Raye |
 | 298 | 318 | Margie Ann Naffziger |
-| 299 | 311 | Aldotfus Williams |
-| 300 | 310 | Amy Taylor Pomerenk |
-| 301 | 310 | Jenn |
-| 302 | 308 | Kelly Vedder |
+| 299 | 314 | Kelly Vedder |
+| 300 | 311 | Aldotfus Williams |
+| 301 | 310 | Amy Taylor Pomerenk |
+| 302 | 310 | Jenn |
 | 303 | 308 | Hector |
 | 304 | 308 | Larry Cross |
 | 305 | 306 | Brittney Williams |
