@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:02:45 UTC
+# Standings for team4 as of 2026-06-08 16:03:21 UTC
 
 **Total Participants:** 1859
 
@@ -461,37 +461,37 @@
 | 453 | 192 | Ralph Hell Rell Williams |
 | 454 | 191 | Jennifer Garcia |
 | 455 | 191 | Teester |
-| 456 | 190 | Miss Beast |
-| 457 | 190 | Cool Risepiece |
-| 458 | 190 | Silly Fallzone |
-| 459 | 190 | Name |
+| 456 | 190 | Name |
+| 457 | 190 | Miss Beast |
+| 458 | 190 | Cool Risepiece |
+| 459 | 190 | Silly Fallzone |
 | 460 | 189 | Dena Lynn Rogers |
-| 461 | 188 | Henry Lanier |
-| 462 | 188 | Donna Bush |
-| 463 | 188 | Lee Ann Gibby |
-| 464 | 188 | Dandy Cascade |
-| 465 | 187 | Marina |
-| 466 | 187 | Jennifer Fisher Franklin |
+| 461 | 188 | Donna Bush |
+| 462 | 188 | Henry Lanier |
+| 463 | 188 | Dandy Cascade |
+| 464 | 188 | Lee Ann Gibby |
+| 465 | 187 | Jennifer Fisher Franklin |
+| 466 | 187 | Marina |
 | 467 | 186 | Rita Ann |
 | 468 | 186 | Tiffany Morris Garner |
 | 469 | 185 | Valerie Silva |
-| 470 | 185 | Butterpat |
-| 471 | 184 | Lolita Nettles |
-| 472 | 183 | Ryan Paul Clark-Ramsey |
-| 473 | 183 | Tamara Gay |
-| 474 | 182 | Ashley Eskridge |
-| 475 | 182 | Candiecane324 |
-| 476 | 181 | Linda Miltenburg |
-| 477 | 180 | EvoKitty |
-| 478 | 180 | Tipsy Piecebuilder |
-| 479 | 180 | BookwormCate |
-| 480 | 180 | Silly Rollbuilder |
-| 481 | 179 | Has2brat |
-| 482 | 178 | Heidi Anne Scheiderer |
-| 483 | 178 | Linda |
-| 484 | 178 | Alexsandra Hill |
-| 485 | 177 | Suzanne North |
-| 486 | 176 | Nicole Colby McCloskey |
+| 470 | 185 | Nicole Colby McCloskey |
+| 471 | 185 | Butterpat |
+| 472 | 184 | Lolita Nettles |
+| 473 | 183 | Ryan Paul Clark-Ramsey |
+| 474 | 183 | Tamara Gay |
+| 475 | 182 | Ashley Eskridge |
+| 476 | 182 | Candiecane324 |
+| 477 | 181 | Linda Miltenburg |
+| 478 | 180 | EvoKitty |
+| 479 | 180 | Tipsy Piecebuilder |
+| 480 | 180 | BookwormCate |
+| 481 | 180 | Silly Rollbuilder |
+| 482 | 179 | Has2brat |
+| 483 | 178 | Heidi Anne Scheiderer |
+| 484 | 178 | Linda |
+| 485 | 178 | Alexsandra Hill |
+| 486 | 177 | Suzanne North |
 | 487 | 176 | Keith Kosmicki |
 | 488 | 176 | Deana Teck |
 | 489 | 176 | Erik Clary |
@@ -846,30 +846,30 @@
 | 838 | 91 | Giggy Risegrid |
 | 839 | 91 | Chummy Twistpiece |
 | 840 | 91 | Michelle Michelle |
-| 841 | 90 | Sally Hiraldo |
-| 842 | 90 | Christina Williams |
-| 843 | 90 | Nancy McCalla Abercrombie |
-| 844 | 90 | Stephanie Meinhart |
-| 845 | 90 | Leslie |
-| 846 | 90 | Snappy Glidebuilder |
-| 847 | 90 | Tigger |
-| 848 | 90 | Marie Culbert |
-| 849 | 89 | Bon Jovi |
-| 850 | 89 | Alicia |
-| 851 | 89 | Allrise99 |
-| 852 | 89 | Khylee DarDar |
-| 853 | 89 | Marisela Alvarado |
-| 854 | 88 | Happy Toast |
-| 855 | 88 | Bigmamalizzet Latto |
-| 856 | 88 | MrsAddams724 |
-| 857 | 88 | Nikcole Alexis Bryan |
-| 858 | 87 | Lilo |
-| 859 | 87 | Oc Tive |
-| 860 | 87 | Tana-Marie Lynn McCarty-Rolf |
-| 861 | 87 | da1ndonly |
-| 862 | 87 | Seraphina |
-| 863 | 86 | Alicia Loveless |
-| 864 | 86 | Speedy Twistslam |
+| 841 | 90 | Speedy Twistslam |
+| 842 | 90 | Sally Hiraldo |
+| 843 | 90 | Christina Williams |
+| 844 | 90 | Nancy McCalla Abercrombie |
+| 845 | 90 | Stephanie Meinhart |
+| 846 | 90 | Leslie |
+| 847 | 90 | Snappy Glidebuilder |
+| 848 | 90 | Tigger |
+| 849 | 90 | Marie Culbert |
+| 850 | 89 | Bon Jovi |
+| 851 | 89 | Alicia |
+| 852 | 89 | Allrise99 |
+| 853 | 89 | Khylee DarDar |
+| 854 | 89 | Marisela Alvarado |
+| 855 | 88 | Happy Toast |
+| 856 | 88 | Bigmamalizzet Latto |
+| 857 | 88 | MrsAddams724 |
+| 858 | 88 | Nikcole Alexis Bryan |
+| 859 | 87 | Lilo |
+| 860 | 87 | Oc Tive |
+| 861 | 87 | Tana-Marie Lynn McCarty-Rolf |
+| 862 | 87 | da1ndonly |
+| 863 | 87 | Seraphina |
+| 864 | 86 | Alicia Loveless |
 | 865 | 86 | Jeni |
 | 866 | 86 | Steven Patshy |
 | 867 | 86 | Andy Petersen |
