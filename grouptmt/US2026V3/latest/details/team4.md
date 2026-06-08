@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:32:19 UTC
+# Standings for team4 as of 2026-06-08 08:32:43 UTC
 
 **Total Participants:** 1800
 
@@ -1433,61 +1433,61 @@
 | 1425 | 29 | Bouncy Fitblock |
 | 1426 | 29 | Quirky Puzzler |
 | 1427 | 29 | Lola |
-| 1428 | 28 | Snazzy Balanceblock |
-| 1429 | 28 | ApexVibez |
-| 1430 | 28 | Khaalida Muhammad Jackson |
-| 1431 | 28 | Melissa Rathbun |
-| 1432 | 27 | NotAkaren Barker |
-| 1433 | 27 | boo |
-| 1434 | 27 | pisces26luna |
-| 1435 | 27 | Angela Correa |
-| 1436 | 27 | Arlee Woodall |
-| 1437 | 27 | Myranda Gereau |
-| 1438 | 27 | Misty Harland |
-| 1439 | 27 | Twisty Gridclear |
-| 1440 | 27 | Loopy Bridger |
-| 1441 | 27 | Alexis William |
-| 1442 | 27 | PIPPI |
-| 1443 | 27 | Danielle Clutter |
-| 1444 | 27 | Rebecca Cook |
-| 1445 | 26 | EKM |
-| 1446 | 26 | Von |
-| 1447 | 26 | Frby Amberr |
-| 1448 | 26 | Glenda Zulueta Steed |
-| 1449 | 26 | Lacey Decker |
-| 1450 | 26 | Gabby |
-| 1451 | 26 | Rebecca Rae Reed |
-| 1452 | 26 | Rob$GEE |
-| 1453 | 26 | Debra James |
-| 1454 | 26 | Socorro Arredondo |
-| 1455 | 26 | Jessica Huber |
-| 1456 | 26 | Kevin Lyles |
-| 1457 | 26 | Justin Sercu |
-| 1458 | 26 | Leslie Marie WarClub |
-| 1459 | 26 | Dee Modest |
-| 1460 | 26 | Shakita Moore-Bernard |
-| 1461 | 26 | Taylor Renee |
-| 1462 | 26 | Ivyleata McFadden |
-| 1463 | 26 | Love GH |
-| 1464 | 26 | AJscooter |
-| 1465 | 25 | Rell geez |
-| 1466 | 25 | Nina Martinez |
-| 1467 | 25 | Snoopie Johnson |
-| 1468 | 25 | Jessikunt Gdula Pierre |
-| 1469 | 25 | Giggy Mover |
-| 1470 | 25 | José A Torres |
-| 1471 | 25 | Tipsy toesy |
-| 1472 | 25 | Sheries |
-| 1473 | 25 | Daisy Jaramillo |
-| 1474 | 25 | MoCa |
-| 1475 | 25 | LuLazer27 |
-| 1476 | 25 | Joyell Mersiel |
-| 1477 | 25 | Crafty Slamdrop |
-| 1478 | 25 | Danielle Church |
-| 1479 | 25 | Amy |
-| 1480 | 25 | chapis |
-| 1481 | 25 | Gellix |
-| 1482 | 25 | Lori Sohn |
+| 1428 | 28 | Lori Sohn |
+| 1429 | 28 | Snazzy Balanceblock |
+| 1430 | 28 | ApexVibez |
+| 1431 | 28 | Khaalida Muhammad Jackson |
+| 1432 | 28 | Melissa Rathbun |
+| 1433 | 27 | NotAkaren Barker |
+| 1434 | 27 | boo |
+| 1435 | 27 | pisces26luna |
+| 1436 | 27 | Angela Correa |
+| 1437 | 27 | Arlee Woodall |
+| 1438 | 27 | Myranda Gereau |
+| 1439 | 27 | Misty Harland |
+| 1440 | 27 | Twisty Gridclear |
+| 1441 | 27 | Loopy Bridger |
+| 1442 | 27 | Alexis William |
+| 1443 | 27 | PIPPI |
+| 1444 | 27 | Danielle Clutter |
+| 1445 | 27 | Rebecca Cook |
+| 1446 | 26 | EKM |
+| 1447 | 26 | Von |
+| 1448 | 26 | Frby Amberr |
+| 1449 | 26 | Glenda Zulueta Steed |
+| 1450 | 26 | Lacey Decker |
+| 1451 | 26 | Gabby |
+| 1452 | 26 | Rebecca Rae Reed |
+| 1453 | 26 | Rob$GEE |
+| 1454 | 26 | Debra James |
+| 1455 | 26 | Socorro Arredondo |
+| 1456 | 26 | Jessica Huber |
+| 1457 | 26 | Kevin Lyles |
+| 1458 | 26 | Justin Sercu |
+| 1459 | 26 | Leslie Marie WarClub |
+| 1460 | 26 | Dee Modest |
+| 1461 | 26 | Shakita Moore-Bernard |
+| 1462 | 26 | Taylor Renee |
+| 1463 | 26 | Ivyleata McFadden |
+| 1464 | 26 | Love GH |
+| 1465 | 26 | AJscooter |
+| 1466 | 25 | Rell geez |
+| 1467 | 25 | Nina Martinez |
+| 1468 | 25 | Snoopie Johnson |
+| 1469 | 25 | Jessikunt Gdula Pierre |
+| 1470 | 25 | Giggy Mover |
+| 1471 | 25 | José A Torres |
+| 1472 | 25 | Tipsy toesy |
+| 1473 | 25 | Sheries |
+| 1474 | 25 | Daisy Jaramillo |
+| 1475 | 25 | MoCa |
+| 1476 | 25 | LuLazer27 |
+| 1477 | 25 | Joyell Mersiel |
+| 1478 | 25 | Crafty Slamdrop |
+| 1479 | 25 | Danielle Church |
+| 1480 | 25 | Amy |
+| 1481 | 25 | chapis |
+| 1482 | 25 | Gellix |
 | 1483 | 24 | Chelsea Pigg |
 | 1484 | 24 | Margarita Santana |
 | 1485 | 24 | Snappy Blockzone |
