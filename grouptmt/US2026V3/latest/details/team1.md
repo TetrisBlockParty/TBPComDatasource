@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:18:20 UTC
+# Standings for team1 as of 2026-06-08 08:18:42 UTC
 
 **Total Participants:** 1762
 
@@ -437,81 +437,81 @@
 | 429 | 167 | Mister Reid |
 | 430 | 167 | MonaSparks |
 | 431 | 167 | Clipzby |
-| 432 | 166 | Teresa Yanira Cepeda |
-| 433 | 166 | BlackQueen105 |
-| 434 | 166 | Melissa Olvera |
-| 435 | 166 | Analiza Ramos |
+| 432 | 166 | Analiza Ramos |
+| 433 | 166 | Melissa Olvera |
+| 434 | 166 | BlackQueen105 |
+| 435 | 166 | Teresa Yanira Cepeda |
 | 436 | 165 | Tanisha Taylor |
-| 437 | 165 | Juan Alvarez |
-| 438 | 165 | SceneGreenz Wali |
-| 439 | 164 | Breezy Catcher |
-| 440 | 164 | Dede Tate |
-| 441 | 164 | Giggy Clusterer |
-| 442 | 163 | Dandy Brickfit |
-| 443 | 163 | Daring Blockclear |
-| 444 | 162 | Lauraly |
-| 445 | 162 | Speedy Stacky |
+| 437 | 165 | SceneGreenz Wali |
+| 438 | 165 | Juan Alvarez |
+| 439 | 164 | Dede Tate |
+| 440 | 164 | Giggy Clusterer |
+| 441 | 164 | Breezy Catcher |
+| 442 | 163 | Daring Blockclear |
+| 443 | 163 | Jelyfish |
+| 444 | 163 | Dandy Brickfit |
+| 445 | 162 | Lauraly |
 | 446 | 162 | Twisty Cascadeclear |
-| 447 | 162 | Lozuna |
-| 448 | 161 | Devron Reedy |
+| 447 | 162 | Speedy Stacky |
+| 448 | 162 | Lozuna |
 | 449 | 161 | boogeywoogey |
-| 450 | 160 | Adrian Wilson |
-| 451 | 160 | Carolyn Smith |
-| 452 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 453 | 160 | Tracey Johnson |
-| 454 | 160 | Cheeky Twistpiece |
-| 455 | 160 | Jean Regis |
-| 456 | 160 | Malcolm Stanley |
+| 450 | 161 | Devron Reedy |
+| 451 | 160 | Cheeky Twistpiece |
+| 452 | 160 | Tracey Johnson |
+| 453 | 160 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 454 | 160 | Carolyn Smith |
+| 455 | 160 | Malcolm Stanley |
+| 456 | 160 | Adrian Wilson |
 | 457 | 160 | Slinky Clearzone |
-| 458 | 159 | Tee Spinks |
-| 459 | 159 | Loopy Tiler |
-| 460 | 158 | Mahagony Small |
-| 461 | 158 | Kimberly Linares Hernandez |
-| 462 | 157 | Rachel Renae Bettis |
-| 463 | 156 | Erika |
-| 464 | 156 | Amy Villalpando |
-| 465 | 156 | Chris Holland |
-| 466 | 156 | Lakiesha Crawford |
-| 467 | 156 | Shalya Terry |
-| 468 | 155 | Miera Nicole |
+| 458 | 160 | Jean Regis |
+| 459 | 159 | Tee Spinks |
+| 460 | 159 | Loopy Tiler |
+| 461 | 158 | Mahagony Small |
+| 462 | 158 | Kimberly Linares Hernandez |
+| 463 | 157 | Rachel Renae Bettis |
+| 464 | 156 | Erika |
+| 465 | 156 | Amy Villalpando |
+| 466 | 156 | Chris Holland |
+| 467 | 156 | Lakiesha Crawford |
+| 468 | 156 | Shalya Terry |
 | 469 | 155 | Tajuana Juana'Cee Coleman |
-| 470 | 155 | Kala Miller |
-| 471 | 155 | Katrina Ramey |
-| 472 | 155 | Jae Thompson-Tyus |
-| 473 | 154 | Glitzy Clusterer |
-| 474 | 154 | Ciera Peace |
-| 475 | 154 | Rachael R Gull |
-| 476 | 154 | Brittanie Wardlow |
-| 477 | 154 | Jenni Hardman |
-| 478 | 154 | Dorian Griffin |
+| 470 | 155 | Jae Thompson-Tyus |
+| 471 | 155 | Miera Nicole |
+| 472 | 155 | Kala Miller |
+| 473 | 155 | Katrina Ramey |
+| 474 | 154 | Dorian Griffin |
+| 475 | 154 | Brittanie Wardlow |
+| 476 | 154 | Jenni Hardman |
+| 477 | 154 | Ciera Peace |
+| 478 | 154 | Rachael R Gull |
 | 479 | 154 | Rebecca Jackson |
-| 480 | 153 | Jelyfish |
+| 480 | 154 | Glitzy Clusterer |
 | 481 | 152 | Johnathan Deese |
 | 482 | 152 | Wacky Stackbuilder |
-| 483 | 151 | Yashica Smith |
-| 484 | 151 | Jimmy Shannon |
-| 485 | 151 | Shakuria Cortia Burney |
-| 486 | 151 | Perky Balancer |
-| 487 | 150 | Deveda Williams |
+| 483 | 151 | Perky Balancer |
+| 484 | 151 | Shakuria Cortia Burney |
+| 485 | 151 | Yashica Smith |
+| 486 | 151 | Jimmy Shannon |
+| 487 | 150 | Nisha Sunshine Jenkins |
 | 488 | 150 | Kamilya Rembert |
-| 489 | 150 | Nisha Sunshine Jenkins |
-| 490 | 150 | Marshall Davis |
-| 491 | 149 | Mighty Dropper |
-| 492 | 149 | Kristie |
-| 493 | 149 | Casey Chapman |
-| 494 | 148 | Faith Armone |
-| 495 | 148 | Christi Walker Patton |
-| 496 | 148 | Shannon Carriger |
-| 497 | 148 | Cauiasia DeJ'ae |
-| 498 | 148 | Seddrick |
-| 499 | 147 | Twisty Brickfit |
-| 500 | 147 | Joka NoTime ForHataz |
-| 501 | 147 | Mathew Trudell |
+| 489 | 150 | Marshall Davis |
+| 490 | 150 | Deveda Williams |
+| 491 | 149 | Casey Chapman |
+| 492 | 149 | Mighty Dropper |
+| 493 | 149 | Kristie |
+| 494 | 148 | Shannon Carriger |
+| 495 | 148 | Faith Armone |
+| 496 | 148 | Christi Walker Patton |
+| 497 | 148 | Seddrick |
+| 498 | 148 | Cauiasia DeJ'ae |
+| 499 | 147 | Joka NoTime ForHataz |
+| 500 | 147 | Mathew Trudell |
+| 501 | 147 | Twisty Brickfit |
 | 502 | 146 | whatever |
 | 503 | 146 | FunTime |
 | 504 | 146 | Bella |
-| 505 | 145 | Shea Ladynick Henderson |
-| 506 | 145 | Squaw Ki Ng |
+| 505 | 145 | Squaw Ki Ng |
+| 506 | 145 | Shea Ladynick Henderson |
 | 507 | 144 | Douglas Price |
 | 508 | 144 | Kp |
 | 509 | 144 | Hardtohandle91 |

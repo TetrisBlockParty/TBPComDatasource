@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:18:20 UTC
+# Standings for team4 as of 2026-06-08 08:18:42 UTC
 
 **Total Participants:** 1799
 
@@ -17,7 +17,7 @@
 | 9 | 6401 | BertaF1irta |
 | 10 | 6108 | Kait Confetti |
 | 11 | 5307 | Hasty Builder |
-| 12 | 5218 | Bubbly Twistpiece |
+| 12 | 5228 | Bubbly Twistpiece |
 | 13 | 5180 | Jerald Jones |
 | 14 | 5123 | delilahbelle |
 | 15 | 5041 | Squirrel Donkey |
@@ -125,8 +125,8 @@
 | 117 | 669 | Gigglycat |
 | 118 | 651 | vag1974 |
 | 119 | 649 | Irma |
-| 120 | 640 | Gracie Ornelas |
-| 121 | 633 | Michelle Ross |
+| 120 | 649 | Michelle Ross |
+| 121 | 640 | Gracie Ornelas |
 | 122 | 626 | Lynn Grimes |
 | 123 | 625 | CJ |
 | 124 | 618 | Becky Doll-Hall |
@@ -473,43 +473,43 @@
 | 465 | 155 | Snippy Racker |
 | 466 | 155 | 1694AF |
 | 467 | 155 | Shayna Vaigneur-Hall |
-| 468 | 155 | Merritt Brandt |
-| 469 | 155 | Tricia Motika Cowan |
+| 468 | 155 | Tricia Motika Cowan |
+| 469 | 155 | Merritt Brandt |
 | 470 | 155 | Nicole Colby McCloskey |
 | 471 | 154 | yourmomz |
 | 472 | 154 | Lani |
-| 473 | 153 | Tarsha Thomas-Martinez |
-| 474 | 153 | Kandylands |
-| 475 | 153 | Shawntae Mccary |
-| 476 | 152 | Giggly Column |
-| 477 | 152 | Holly Bramel |
-| 478 | 151 | King |
-| 479 | 150 | Butterpat |
-| 480 | 150 | Bammer |
-| 481 | 150 | Kristine Hj Han |
-| 482 | 150 | Witty Fitblock |
-| 483 | 150 | Heidi Anne Scheiderer |
-| 484 | 150 | MrsReap |
-| 485 | 150 | Melissa Quinn |
-| 486 | 149 | Zesty Lift |
-| 487 | 149 | Paula Renee McCracken |
-| 488 | 149 | Dawn Marie Trujillo |
-| 489 | 149 | Snazzy Fitclear |
+| 473 | 153 | Dawn Marie Trujillo |
+| 474 | 153 | Tarsha Thomas-Martinez |
+| 475 | 153 | Kandylands |
+| 476 | 153 | Shawntae Mccary |
+| 477 | 152 | Giggly Column |
+| 478 | 152 | Holly Bramel |
+| 479 | 151 | King |
+| 480 | 150 | Butterpat |
+| 481 | 150 | Bammer |
+| 482 | 150 | Kristine Hj Han |
+| 483 | 150 | Witty Fitblock |
+| 484 | 150 | Melissa Quinn |
+| 485 | 150 | Heidi Anne Scheiderer |
+| 486 | 150 | MrsReap |
+| 487 | 149 | Snazzy Fitclear |
+| 488 | 149 | Paula Renee McCracken |
+| 489 | 149 | Zesty Lift |
 | 490 | 148 | Brandon Bedenbaugh |
 | 491 | 148 | Latisha TeTe Williams |
 | 492 | 147 | EpicWizard |
-| 493 | 147 | Allysha McFarland |
+| 493 | 147 | Betsy Froemming |
 | 494 | 147 | chefjaydawg |
-| 495 | 147 | Betsy Froemming |
+| 495 | 147 | Allysha McFarland |
 | 496 | 146 | Jasmine Marie |
 | 497 | 145 | Ashley DuVall |
 | 498 | 144 | Kaps |
 | 499 | 144 | tj |
-| 500 | 143 | Alyssa Berg |
-| 501 | 143 | Celina DiBastiani |
-| 502 | 141 | Marcus Chavis |
-| 503 | 141 | Ginny |
-| 504 | 141 | Sharon Tyler |
+| 500 | 143 | Celina DiBastiani |
+| 501 | 143 | Alyssa Berg |
+| 502 | 141 | Ginny |
+| 503 | 141 | Sharon Tyler |
+| 504 | 141 | Marcus Chavis |
 | 505 | 141 | Linda Miltenburg |
 | 506 | 140 | Lana Tran |
 | 507 | 140 | Robert Crow |
