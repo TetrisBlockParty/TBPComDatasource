@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 18:50:44 UTC
+# Standings for team4 as of 2026-06-08 18:51:20 UTC
 
 **Total Participants:** 1894
 
@@ -162,7 +162,7 @@
 | 154 | 552 | Jace McCullough |
 | 155 | 548 | Gorica Prusina |
 | 156 | 548 | Katie Lynn Petit |
-| 157 | 545 | Futrell Brent |
+| 157 | 547 | Futrell Brent |
 | 158 | 542 | Nikki Fuller Johnson |
 | 159 | 532 | Principal Liz |
 | 160 | 528 | SupaFly |
@@ -228,10 +228,10 @@
 | 220 | 378 | Hwanger Land |
 | 221 | 376 | Sherry Mooney |
 | 222 | 376 | Baysoph |
-| 223 | 375 | Dayna Arthurs |
-| 224 | 374 | Pepper |
-| 225 | 373 | Tanita Jobe |
-| 226 | 373 | Janet Sanfilippo Sullivan |
+| 223 | 375 | Janet Sanfilippo Sullivan |
+| 224 | 375 | Dayna Arthurs |
+| 225 | 374 | Pepper |
+| 226 | 373 | Tanita Jobe |
 | 227 | 372 | Danny Ortiz |
 | 228 | 371 | Anna Gribble |
 | 229 | 367 | Brick House |
