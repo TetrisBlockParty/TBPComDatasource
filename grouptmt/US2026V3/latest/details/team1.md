@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:44:43 UTC
+# Standings for team1 as of 2026-06-08 10:45:22 UTC
 
 **Total Participants:** 1777
 
@@ -145,8 +145,8 @@
 | 137 | 561 | Carolynne Walker-Bell |
 | 138 | 556 | Rolanda Williams |
 | 139 | 555 | ELM |
-| 140 | 550 | Genne Scott |
-| 141 | 547 | Gael Quintana |
+| 140 | 550 | Gael Quintana |
+| 141 | 550 | Genne Scott |
 | 142 | 546 | Cj Gorman |
 | 143 | 531 | Abraham Espaillat |
 | 144 | 527 | MommaCia |
@@ -210,21 +210,21 @@
 | 202 | 380 | Felicia Cain |
 | 203 | 377 | AF Cruz |
 | 204 | 375 | Joey Albright |
-| 205 | 372 | David Fuentes |
-| 206 | 370 | Allison Baxter |
-| 207 | 369 | TT |
-| 208 | 367 | Leebo Slice |
-| 209 | 366 | Byron Mario Cawthon |
+| 205 | 373 | BULLSEYE |
+| 206 | 372 | David Fuentes |
+| 207 | 370 | Allison Baxter |
+| 208 | 369 | TT |
+| 209 | 367 | Leebo Slice |
 | 210 | 366 | Tina Mitchell |
-| 211 | 365 | Tishauna Virgo |
-| 212 | 364 | Michele Simpson |
-| 213 | 363 | Christina Rebecca |
-| 214 | 363 | BULLSEYE |
+| 211 | 366 | Byron Mario Cawthon |
+| 212 | 365 | Tishauna Virgo |
+| 213 | 364 | Michele Simpson |
+| 214 | 363 | Christina Rebecca |
 | 215 | 363 | Zippy Tilefall |
 | 216 | 362 | Jessica Russell |
 | 217 | 361 | John Staub |
-| 218 | 356 | Haley Bell |
-| 219 | 356 | Dedra M Prester |
+| 218 | 356 | Dedra M Prester |
+| 219 | 356 | Haley Bell |
 | 220 | 354 | Keke Ferguson |
 | 221 | 354 | Block King |
 | 222 | 352 | Jayjay Rich |
@@ -251,8 +251,8 @@
 | 243 | 318 | Jhonny Maii |
 | 244 | 318 | Calvin Green |
 | 245 | 317 | Michelle Titus |
-| 246 | 315 | Koi |
-| 247 | 314 | Tessa Felice Hill |
+| 246 | 317 | Tessa Felice Hill |
+| 247 | 315 | Koi |
 | 248 | 314 | Cheeky Pop |
 | 249 | 311 | Coco |
 | 250 | 310 | Denise B |
@@ -267,45 +267,45 @@
 | 259 | 300 | Slinky Brickmatch |
 | 260 | 300 | Ketrell Bailey |
 | 261 | 296 | Nikki Hogan |
-| 262 | 294 | Tonya McElroy |
-| 263 | 293 | Tonya Lee Sanders |
-| 264 | 292 | Ann Chung |
-| 265 | 292 | Trina Greenwood |
-| 266 | 291 | Brian Taylor |
-| 267 | 290 | Elizabeth Vega Coreano |
-| 268 | 289 | Cortaz Lawrie |
-| 269 | 287 | Simone Bailey |
-| 270 | 287 | SyTheEvilGenius1 |
-| 271 | 284 | Frisky Fall |
-| 272 | 282 | McKayla Owens |
-| 273 | 280 | Clever Fitblock |
-| 274 | 280 | Erica Charlise |
-| 275 | 280 | Boldy Liner |
+| 262 | 295 | Choc |
+| 263 | 294 | Tonya McElroy |
+| 264 | 293 | Tonya Lee Sanders |
+| 265 | 292 | Ann Chung |
+| 266 | 292 | Trina Greenwood |
+| 267 | 291 | Brian Taylor |
+| 268 | 290 | Elizabeth Vega Coreano |
+| 269 | 289 | Cortaz Lawrie |
+| 270 | 287 | Simone Bailey |
+| 271 | 287 | SyTheEvilGenius1 |
+| 272 | 284 | Frisky Fall |
+| 273 | 282 | McKayla Owens |
+| 274 | 280 | Clever Fitblock |
+| 275 | 280 | Erica Charlise |
 | 276 | 280 | Chilly Wipebuilder |
-| 277 | 279 | Reginald Frank |
-| 278 | 278 | Ann White |
-| 279 | 276 | Erin Sabol |
-| 280 | 275 | Jawaun Daniels |
+| 277 | 280 | Boldy Liner |
+| 278 | 279 | Reginald Frank |
+| 279 | 278 | Ann White |
+| 280 | 276 | Erin Sabol |
 | 281 | 275 | Chris Sladoje |
-| 282 | 274 | 신재호 |
-| 283 | 273 | Dacia Hicks |
-| 284 | 273 | JaClanDiah |
-| 285 | 273 | Penee Wiggins |
-| 286 | 272 | Tarnisha Neicy Jones |
-| 287 | 270 | Melissa D. M. Hornsby |
-| 288 | 270 | Julian Dickens Jr. |
-| 289 | 269 | StingerD |
-| 290 | 269 | DaGuy |
-| 291 | 264 | Wild Out Nai |
-| 292 | 263 | Choc |
+| 282 | 275 | Jawaun Daniels |
+| 283 | 274 | 신재호 |
+| 284 | 273 | Penee Wiggins |
+| 285 | 273 | Dacia Hicks |
+| 286 | 273 | JaClanDiah |
+| 287 | 272 | Tarnisha Neicy Jones |
+| 288 | 270 | Melissa D. M. Hornsby |
+| 289 | 270 | Julian Dickens Jr. |
+| 290 | 269 | StingerD |
+| 291 | 269 | DaGuy |
+| 292 | 264 | Wild Out Nai |
 | 293 | 262 | MamushiOh |
-| 294 | 260 | Jhaime |
-| 295 | 260 | Sara Meri |
-| 296 | 260 | Nerdy Blockpiece |
-| 297 | 258 | Cynthia Bradley |
-| 298 | 258 | SeanSanchez |
-| 299 | 257 | Mafio SO |
-| 300 | 257 | Anthony |
+| 294 | 260 | Nerdy Blockpiece |
+| 295 | 260 | Jhaime |
+| 296 | 260 | Sara Meri |
+| 297 | 258 | SeanSanchez |
+| 298 | 258 | Cynthia Bradley |
+| 299 | 257 | Anthony |
+| 300 | 257 | Mafio SO |
 | 301 | 255 | Falisa Bell |
 | 302 | 254 | Smiley Clearpiece |
 | 303 | 253 | Snippy Breaker |
@@ -318,12 +318,12 @@
 | 310 | 245 | Kelli Couture |
 | 311 | 245 | Derrius SeriousLee Burks |
 | 312 | 244 | LaTonya Myers |
-| 313 | 244 | Amber Wilson |
-| 314 | 244 | Teddy Davis |
-| 315 | 244 | Dai Bo |
-| 316 | 244 | Shameka Thrasher |
-| 317 | 242 | Tamika Rocheteau |
-| 318 | 242 | Tay |
+| 313 | 244 | Shameka Thrasher |
+| 314 | 244 | Amber Wilson |
+| 315 | 244 | Teddy Davis |
+| 316 | 244 | Dai Bo |
+| 317 | 242 | Tay |
+| 318 | 242 | Tamika Rocheteau |
 | 319 | 241 | Jai |
 | 320 | 240 | Emily Wright |
 | 321 | 240 | Rayya Kiser |
