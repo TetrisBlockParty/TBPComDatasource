@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:46:20 UTC
+# Standings for team1 as of 2026-06-08 10:46:41 UTC
 
 **Total Participants:** 1777
 
@@ -342,114 +342,114 @@
 | 334 | 229 | De'Mear McKinney |
 | 335 | 227 | MACHETEEDDIE513 |
 | 336 | 227 | Chasem45 |
-| 337 | 224 | Shanaa Germany Crittenden |
-| 338 | 224 | Asha Langford |
+| 337 | 224 | Asha Langford |
+| 338 | 224 | Shanaa Germany Crittenden |
 | 339 | 223 | Amy Lynn Leifheit |
 | 340 | 223 | Perky Pusher |
 | 341 | 222 | Hardtohandle91 |
 | 342 | 221 | Chandler Magee |
-| 343 | 220 | Rachael Bakowicz Edwards |
-| 344 | 220 | Tamika Fisher |
-| 345 | 220 | Eric Spencer Whitaker |
-| 346 | 220 | rls |
+| 343 | 220 | Tamika Fisher |
+| 344 | 220 | Eric Spencer Whitaker |
+| 345 | 220 | rls |
+| 346 | 220 | Rachael Bakowicz Edwards |
 | 347 | 219 | Bambi Johnson |
-| 348 | 217 | Louise Parker |
-| 349 | 217 | Ashleyy Netchert |
-| 350 | 217 | LaShaun Stinson |
-| 351 | 214 | Kyra Coleman |
-| 352 | 214 | Stephen Providenti |
+| 348 | 217 | LaShaun Stinson |
+| 349 | 217 | Louise Parker |
+| 350 | 217 | Ashleyy Netchert |
+| 351 | 214 | Stephen Providenti |
+| 352 | 214 | Kyra Coleman |
 | 353 | 213 | Lazy Tiltpiece |
 | 354 | 212 | Simply-Beautiful007 |
 | 355 | 211 | Charletha Williams |
 | 356 | 211 | Nina Davis |
-| 357 | 210 | Alyssa Rae |
-| 358 | 210 | Sarah Clark |
+| 357 | 210 | Sarah Clark |
+| 358 | 210 | Alyssa Rae |
 | 359 | 209 | Phillip Vasquez |
-| 360 | 209 | $hort Dog |
+| 360 | 209 | kitten |
 | 361 | 209 | Antonia Wyche |
-| 362 | 209 | Guy Incognito |
-| 363 | 208 | izzybella |
-| 364 | 205 | Treneil Daffin |
+| 362 | 209 | $hort Dog |
+| 363 | 209 | Guy Incognito |
+| 364 | 208 | izzybella |
 | 365 | 205 | OhNoZer0 |
-| 366 | 203 | Daris Swearington |
-| 367 | 202 | Frankey Chi |
-| 368 | 202 | Poppy Buildout |
-| 369 | 202 | Crystal Cheresnowsky |
-| 370 | 202 | Messy Live |
-| 371 | 202 | Peppy Glider |
-| 372 | 201 | Rayshawn Cohen |
-| 373 | 201 | Richard Flex |
-| 374 | 200 | Maribel Vasquez |
+| 366 | 205 | Treneil Daffin |
+| 367 | 203 | Daris Swearington |
+| 368 | 202 | Frankey Chi |
+| 369 | 202 | Peppy Glider |
+| 370 | 202 | Crystal Cheresnowsky |
+| 371 | 202 | Messy Live |
+| 372 | 202 | Poppy Buildout |
+| 373 | 201 | Rayshawn Cohen |
+| 374 | 201 | Richard Flex |
 | 375 | 200 | Lisa Fletcher |
-| 376 | 200 | Peppy Towerbuilder |
-| 377 | 200 | kitten |
-| 378 | 200 | Teri Marie Clayton |
-| 379 | 200 | TBABYJ |
-| 380 | 199 | Fina McKinnis |
-| 381 | 199 | Nickeya Phillips |
+| 376 | 200 | Teri Marie Clayton |
+| 377 | 200 | TBABYJ |
+| 378 | 200 | Peppy Towerbuilder |
+| 379 | 200 | Maribel Vasquez |
+| 380 | 199 | Nickeya Phillips |
+| 381 | 199 | Fina McKinnis |
 | 382 | 197 | De'Nell Edwards |
 | 383 | 197 | Valerie Alexander |
 | 384 | 196 | BabyCakes |
 | 385 | 195 | Kate Hancock Malicek |
 | 386 | 194 | Cheery Linkfall |
-| 387 | 193 | Matthieu Pistone |
-| 388 | 192 | Hyper Blocky |
-| 389 | 192 | Joana Thompson |
-| 390 | 192 | Donna Payne |
-| 391 | 191 | Lozuna |
-| 392 | 191 | Jelyfish |
-| 393 | 190 | Monica Fields |
-| 394 | 190 | Chipper Snapper |
-| 395 | 190 | Ladybug |
-| 396 | 189 | Nate Myers |
-| 397 | 189 | Slinky Snapbuilder |
-| 398 | 189 | Sean White |
-| 399 | 189 | Tosha Michelle |
-| 400 | 189 | Jolly Tilefall |
-| 401 | 188 | Travis Davison |
-| 402 | 188 | CJ Robinson |
-| 403 | 188 | Tyiesha Pie Farmer |
-| 404 | 187 | Kristine Marie Palmer |
-| 405 | 187 | Jennah |
-| 406 | 186 | Monica Tovar |
-| 407 | 185 | 大竹直之 |
-| 408 | 185 | Giggy Tower |
-| 409 | 185 | Sarah Swietlicki - Lopez |
-| 410 | 185 | Tesiree Cray |
-| 411 | 184 | Bbyunicorn |
-| 412 | 184 | Soubletzy |
+| 387 | 193 | 大竹直之 |
+| 388 | 193 | Matthieu Pistone |
+| 389 | 192 | Hyper Blocky |
+| 390 | 192 | Joana Thompson |
+| 391 | 192 | Donna Payne |
+| 392 | 191 | Lozuna |
+| 393 | 191 | Jelyfish |
+| 394 | 190 | Ladybug |
+| 395 | 190 | Monica Fields |
+| 396 | 190 | Chipper Snapper |
+| 397 | 189 | Nate Myers |
+| 398 | 189 | Slinky Snapbuilder |
+| 399 | 189 | Sean White |
+| 400 | 189 | Tosha Michelle |
+| 401 | 189 | Jolly Tilefall |
+| 402 | 188 | Tyiesha Pie Farmer |
+| 403 | 188 | CJ Robinson |
+| 404 | 188 | Travis Davison |
+| 405 | 187 | Kristine Marie Palmer |
+| 406 | 187 | Jennah |
+| 407 | 186 | Monica Tovar |
+| 408 | 185 | Sarah Swietlicki - Lopez |
+| 409 | 185 | Tesiree Cray |
+| 410 | 185 | Giggy Tower |
+| 411 | 184 | Soubletzy |
+| 412 | 184 | Bbyunicorn |
 | 413 | 183 | Mary Phillippi Blanton |
-| 414 | 183 | Erika |
-| 415 | 183 | wmedina67 |
+| 414 | 183 | wmedina67 |
+| 415 | 183 | Erika |
 | 416 | 182 | Courtney Cicoria |
 | 417 | 182 | Comedian Prince Paul |
 | 418 | 181 | Sharee Robinson |
-| 419 | 180 | Larina Cherie Johnson |
-| 420 | 180 | Daddy |
-| 421 | 180 | Cornelius Neal |
-| 422 | 180 | Chris Rogers |
-| 423 | 180 | akosua |
-| 424 | 180 | Zippy Lifter |
-| 425 | 179 | KeeKee Williams |
+| 419 | 180 | Chris Rogers |
+| 420 | 180 | akosua |
+| 421 | 180 | Larina Cherie Johnson |
+| 422 | 180 | Zippy Lifter |
+| 423 | 180 | Daddy |
+| 424 | 180 | Cornelius Neal |
+| 425 | 179 | Lively Riserpiece |
 | 426 | 179 | Giggy Clusterer |
 | 427 | 179 | Skippy |
-| 428 | 179 | Lively Riserpiece |
+| 428 | 179 | KeeKee Williams |
 | 429 | 178 | Manda Allen |
 | 430 | 177 | Cece Fowler |
 | 431 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 432 | 174 | NewEve |
-| 433 | 174 | Dizzy Dashy |
-| 434 | 174 | ChunLi |
-| 435 | 173 | Hasty Glidezone |
-| 436 | 173 | LuckyStar |
+| 433 | 174 | ChunLi |
+| 434 | 174 | Dizzy Dashy |
+| 435 | 173 | LuckyStar |
+| 436 | 173 | Hasty Glidezone |
 | 437 | 172 | Kendra McIntyre |
 | 438 | 171 | Telisha Mims |
 | 439 | 171 | Brittany Fells |
-| 440 | 169 | rb |
-| 441 | 169 | Bubbly Piececlear |
-| 442 | 169 | Clipzby |
-| 443 | 168 | Lounique |
-| 444 | 168 | Shanns |
+| 440 | 169 | Bubbly Piececlear |
+| 441 | 169 | Clipzby |
+| 442 | 169 | rb |
+| 443 | 168 | Shanns |
+| 444 | 168 | Lounique |
 | 445 | 167 | MonaSparks |
 | 446 | 167 | Mister Reid |
 | 447 | 167 | Charlene Baltimore |
