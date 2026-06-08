@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 01:58:19 UTC
+# Standings for team1 as of 2026-06-08 01:58:42 UTC
 
 **Total Participants:** 1661
 
@@ -12,7 +12,7 @@
 | 4 | 10055 | Carrie English |
 | 5 | 9200 | Charnay Peacock |
 | 6 | 8746 | Tyeina Johnson |
-| 7 | 8480 | Songne Arif |
+| 7 | 8580 | Songne Arif |
 | 8 | 7927 | Dyane Leah Ware |
 | 9 | 7588 | Debbie Carswell |
 | 10 | 7491 | Tracy Cohen |
@@ -93,11 +93,11 @@
 | 85 | 844 | Moomoo |
 | 86 | 809 | Jazzy Dashpiece |
 | 87 | 807 | KenpachisGirl |
-| 88 | 806 | Jaida De'Anne Cox |
-| 89 | 800 | Chenell Gillard |
-| 90 | 795 | Joy Citizen Pickney |
-| 91 | 784 | Todd C. Clemens |
-| 92 | 763 | Richard Horton |
+| 88 | 807 | Richard Horton |
+| 89 | 806 | Jaida De'Anne Cox |
+| 90 | 800 | Chenell Gillard |
+| 91 | 795 | Joy Citizen Pickney |
+| 92 | 784 | Todd C. Clemens |
 | 93 | 754 | LeeLee08 |
 | 94 | 749 | Aviv Zehavi |
 | 95 | 743 | Tameka Jones |
@@ -1657,16 +1657,16 @@
 | 1649 | 5 | Andy Barnett |
 | 1650 | 5 | Misty Sollberger |
 | 1651 | 5 | Joi |
-| 1652 | 5 | Jennifer Haton Kreighbaum |
-| 1653 | 5 | VERA DAME |
-| 1654 | 5 | Carol Washington |
-| 1655 | 5 | the guy |
-| 1656 | 5 | BlessedBeauty |
-| 1657 | 5 | Derek Beverly |
-| 1658 | 5 | pettymexoxo |
-| 1659 | 5 | MrKeith Debraux |
-| 1660 | 5 | Happy |
-| 1661 | 5 | Annette DeLoatch Thompson |
+| 1652 | 5 | Annette DeLoatch Thompson |
+| 1653 | 5 | Happy |
+| 1654 | 5 | MrKeith Debraux |
+| 1655 | 5 | pettymexoxo |
+| 1656 | 5 | Derek Beverly |
+| 1657 | 5 | BlessedBeauty |
+| 1658 | 5 | the guy |
+| 1659 | 5 | Carol Washington |
+| 1660 | 5 | VERA DAME |
+| 1661 | 5 | Jennifer Haton Kreighbaum |
 
 ---
 *Standings created by tournaments datasource generation tool*

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 01:58:19 UTC
+# Standings for team4 as of 2026-06-08 01:58:42 UTC
 
 **Total Participants:** 1695
 
@@ -294,14 +294,14 @@
 | 286 | 225 | Erika Seaton |
 | 287 | 225 | No Time |
 | 288 | 225 | Melika Zeheb |
-| 289 | 224 | Kelly Howland |
-| 290 | 224 | Andrick |
-| 291 | 224 | Flashy Shatterer |
-| 292 | 223 | Frothy Pattern |
-| 293 | 223 | Leslie Ann Carter |
-| 294 | 222 | Kimyatta Cavin |
+| 289 | 224 | Andrick |
+| 290 | 224 | Flashy Shatterer |
+| 291 | 224 | Kelly Howland |
+| 292 | 223 | Leslie Ann Carter |
+| 293 | 223 | Frothy Pattern |
+| 294 | 222 | Logan Two-dubs Baker |
 | 295 | 222 | Karen Davis |
-| 296 | 222 | Logan Two-dubs Baker |
+| 296 | 222 | Kimyatta Cavin |
 | 297 | 221 | JuicyJuice |
 | 298 | 220 | Anthony Magaraci |
 | 299 | 220 | Holly Wessel |
@@ -309,8 +309,8 @@
 | 301 | 220 | Maurice DeJean |
 | 302 | 219 | farfromlocal |
 | 303 | 219 | Crystal Hammonds |
-| 304 | 218 | Lori Stembridge |
-| 305 | 217 | Bouncy |
+| 304 | 219 | Bouncy |
+| 305 | 218 | Lori Stembridge |
 | 306 | 216 | Smiley Gridzone |
 | 307 | 216 | Alyson M Kehler |
 | 308 | 215 | Ash Gribble |
@@ -808,8 +808,8 @@
 | 800 | 76 | Brendan Craven |
 | 801 | 76 | Jillian Marie |
 | 802 | 76 | Frisky Balance |
-| 803 | 76 | Mann Manson |
-| 804 | 76 | JP Chua |
+| 803 | 76 | JP Chua |
+| 804 | 76 | Mann Manson |
 | 805 | 75 | Happy Puzzle |
 | 806 | 75 | Playful Raccoon |
 | 807 | 75 | Toria |
@@ -819,12 +819,12 @@
 | 811 | 74 | Misti Rich |
 | 812 | 74 | Kimberly Ann |
 | 813 | 74 | Jenny Torres |
-| 814 | 74 | Redhead girl |
+| 814 | 74 | JayJay Smith |
 | 815 | 74 | Melissa Schwager |
-| 816 | 74 | Jasmine Griffin |
-| 817 | 74 | JayJay Smith |
-| 818 | 74 | Loyalty83 |
-| 819 | 74 | Chirpy Corner |
+| 816 | 74 | Redhead girl |
+| 817 | 74 | Jasmine Griffin |
+| 818 | 74 | Chirpy Corner |
+| 819 | 74 | Loyalty83 |
 | 820 | 73 | Tod Jae |
 | 821 | 73 | h_chloe10 |
 | 822 | 73 | Yseoj M. Zurc |
@@ -832,30 +832,30 @@
 | 824 | 73 | Frisky Blocker |
 | 825 | 73 | Giggly Rollpiece |
 | 826 | 73 | Brittany Lentz |
-| 827 | 73 | Mrs.J2013 |
-| 828 | 73 | Marcus Fontenot |
-| 829 | 72 | sierrabeth |
-| 830 | 72 | Poppy |
-| 831 | 72 | Donna Howard |
-| 832 | 72 | Jennifer Evans Elliott |
-| 833 | 72 | Nancy McCalla Abercrombie |
-| 834 | 72 | Fancy Riser |
-| 835 | 72 | Cail |
-| 836 | 72 | Musky Pits |
-| 837 | 72 | Kimberly Lusk |
-| 838 | 71 | Elisha Thompson |
-| 839 | 71 | Ana Ruiz |
+| 827 | 73 | Marcus Fontenot |
+| 828 | 73 | Mrs.J2013 |
+| 829 | 72 | Lord Solrac |
+| 830 | 72 | Jennifer Evans Elliott |
+| 831 | 72 | Cail |
+| 832 | 72 | sierrabeth |
+| 833 | 72 | Kimberly Lusk |
+| 834 | 72 | Nancy McCalla Abercrombie |
+| 835 | 72 | Musky Pits |
+| 836 | 72 | Fancy Riser |
+| 837 | 72 | Poppy |
+| 838 | 72 | Donna Howard |
+| 839 | 71 | Elisha Thompson |
 | 840 | 71 | Natalie Ohrtman Strand |
 | 841 | 71 | Bouncy Blockclear |
-| 842 | 70 | JustLessie |
-| 843 | 70 | LilithMoon |
-| 844 | 70 | Scot Matthew Bergdorf |
-| 845 | 70 | Lupe Chapa |
+| 842 | 71 | Ana Ruiz |
+| 843 | 70 | Lupe Chapa |
+| 844 | 70 | LilithMoon |
+| 845 | 70 | Scot Matthew Bergdorf |
 | 846 | 70 | Kendall Rhodie |
-| 847 | 70 | Kenyatta Davis |
-| 848 | 70 | Giggy Splitter |
-| 849 | 70 | Carissa Thorne-See |
-| 850 | 70 | Lord Solrac |
+| 847 | 70 | JustLessie |
+| 848 | 70 | Kenyatta Davis |
+| 849 | 70 | Giggy Splitter |
+| 850 | 70 | Carissa Thorne-See |
 | 851 | 70 | Jade Alley |
 | 852 | 70 | Helen Bradley |
 | 853 | 69 | Khylee DarDar |
@@ -1218,76 +1218,76 @@
 | 1210 | 38 | Yam My |
 | 1211 | 38 | Mighty Spinfit |
 | 1212 | 38 | FuzzyBunny |
-| 1213 | 38 | Ayobribri |
-| 1214 | 38 | Daring Towerer |
+| 1213 | 38 | PL GR |
+| 1214 | 38 | Ayobribri |
 | 1215 | 38 | Capt'n Crunch |
-| 1216 | 37 | Sally Hiraldo |
-| 1217 | 37 | LISHA 2 U |
+| 1216 | 38 | Daring Towerer |
+| 1217 | 37 | Matt Akm |
 | 1218 | 37 | Jessica Lestage |
-| 1219 | 37 | Shannon Lee |
-| 1220 | 37 | Jonelle Jacobs |
+| 1219 | 37 | Jonelle Jacobs |
+| 1220 | 37 | Fineassdee23 |
 | 1221 | 37 | Terry Jo Myers |
-| 1222 | 37 | PL GR |
-| 1223 | 37 | Vv |
-| 1224 | 37 | Heather Cline |
-| 1225 | 37 | theyhatejzt |
-| 1226 | 37 | Fineassdee23 |
-| 1227 | 37 | Matt Akm |
-| 1228 | 36 | Idella Cobb Strickland |
-| 1229 | 36 | Simone Marie Thrasher |
-| 1230 | 36 | Stylist |
-| 1231 | 36 | Kathy Lindsay |
-| 1232 | 36 | Lively Tilebuilder |
-| 1233 | 36 | Funky Riserpiece |
-| 1234 | 36 | Peppy Linefit |
-| 1235 | 36 | Stacey Hyde |
-| 1236 | 36 | Dawn Ferrin |
-| 1237 | 36 | Emily Lowe |
-| 1238 | 36 | Trishaann Triplett |
-| 1239 | 36 | Krazylegzzzz |
-| 1240 | 36 | Misty Mathers |
-| 1241 | 36 | Daring Patternblock |
-| 1242 | 36 | Austin Tan |
-| 1243 | 36 | Chelsea Leann Lamb |
-| 1244 | 35 | moonman33 |
-| 1245 | 35 | Stacy Sisson |
-| 1246 | 35 | Peachy Grabber |
-| 1247 | 35 | Samantha Brandt |
-| 1248 | 35 | CRsLady |
-| 1249 | 35 | Melissa Gorman |
-| 1250 | 35 | Saul Fajardo |
+| 1222 | 37 | Sally Hiraldo |
+| 1223 | 37 | Heather Cline |
+| 1224 | 37 | theyhatejzt |
+| 1225 | 37 | Vv |
+| 1226 | 37 | LISHA 2 U |
+| 1227 | 37 | Shannon Lee |
+| 1228 | 36 | Lively Tilebuilder |
+| 1229 | 36 | Peppy Linefit |
+| 1230 | 36 | Kathy Lindsay |
+| 1231 | 36 | Simone Marie Thrasher |
+| 1232 | 36 | Idella Cobb Strickland |
+| 1233 | 36 | Stylist |
+| 1234 | 36 | Stacey Hyde |
+| 1235 | 36 | Dawn Ferrin |
+| 1236 | 36 | Krazylegzzzz |
+| 1237 | 36 | Funky Riserpiece |
+| 1238 | 36 | Chelsea Leann Lamb |
+| 1239 | 36 | Austin Tan |
+| 1240 | 36 | Emily Lowe |
+| 1241 | 36 | Trishaann Triplett |
+| 1242 | 36 | Daring Patternblock |
+| 1243 | 36 | Misty Mathers |
+| 1244 | 35 | Frisky Pusher |
+| 1245 | 35 | moonman33 |
+| 1246 | 35 | Stacy Sisson |
+| 1247 | 35 | Melissa Gorman |
+| 1248 | 35 | Peachy Grabber |
+| 1249 | 35 | Amber Torres |
+| 1250 | 35 | CRsLady |
 | 1251 | 35 | Joshua Conwell |
 | 1252 | 35 | Stephanie Williams |
-| 1253 | 35 | Ali Garcia |
-| 1254 | 35 | Lex Allen |
-| 1255 | 35 | Amber Torres |
-| 1256 | 35 | Frisky Pusher |
-| 1257 | 35 | KySun |
-| 1258 | 35 | $bluemoon |
-| 1259 | 35 | Jessica Marie Flores |
-| 1260 | 34 | Katy Roman |
-| 1261 | 34 | Sharron Mullins |
-| 1262 | 34 | Hannah Harkness |
-| 1263 | 34 | Yulissa Diaz |
-| 1264 | 34 | Donna Winget |
-| 1265 | 34 | Bold Snapper |
-| 1266 | 34 | Peezy_419 |
-| 1267 | 34 | Speedy Brick |
-| 1268 | 34 | MzCeleste Brooks |
-| 1269 | 34 | Heather Garrity |
-| 1270 | 33 | Samantha LeBlanc |
-| 1271 | 33 | Marion Wade |
-| 1272 | 33 | Tracy Ann Frederick |
-| 1273 | 33 | MsThick SrtLady Williams |
-| 1274 | 33 | Thomas Cassell |
-| 1275 | 33 | Chris |
-| 1276 | 33 | Chill Snapclear |
-| 1277 | 33 | Reggie Laserna Clement |
-| 1278 | 32 | Holly |
-| 1279 | 32 | Unknown |
-| 1280 | 32 | Rezinbauer Spicer |
-| 1281 | 32 | kellyhyatt |
-| 1282 | 32 | Wali Muhammad |
+| 1253 | 35 | $bluemoon |
+| 1254 | 35 | Saul Fajardo |
+| 1255 | 35 | Jessica Marie Flores |
+| 1256 | 35 | Ali Garcia |
+| 1257 | 35 | Lex Allen |
+| 1258 | 35 | KySun |
+| 1259 | 35 | Samantha Brandt |
+| 1260 | 34 | Peezy_419 |
+| 1261 | 34 | Yulissa Diaz |
+| 1262 | 34 | Bold Snapper |
+| 1263 | 34 | Speedy Brick |
+| 1264 | 34 | Hannah Harkness |
+| 1265 | 34 | Katy Roman |
+| 1266 | 34 | MzCeleste Brooks |
+| 1267 | 34 | Heather Garrity |
+| 1268 | 34 | Donna Winget |
+| 1269 | 34 | Sharron Mullins |
+| 1270 | 33 | Marion Wade |
+| 1271 | 33 | Chill Snapclear |
+| 1272 | 33 | Samantha LeBlanc |
+| 1273 | 33 | Chris |
+| 1274 | 33 | Reggie Laserna Clement |
+| 1275 | 33 | Thomas Cassell |
+| 1276 | 33 | MsThick SrtLady Williams |
+| 1277 | 33 | Tracy Ann Frederick |
+| 1278 | 32 | Unknown |
+| 1279 | 32 | Wali Muhammad |
+| 1280 | 32 | kellyhyatt |
+| 1281 | 32 | Rezinbauer Spicer |
+| 1282 | 32 | Holly |
 | 1283 | 32 | Cranky Twisterfit |
 | 1284 | 32 | Tbag |
 | 1285 | 32 | Erin Randazzo |
