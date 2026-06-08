@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 03:54:41 UTC
+# Standings for team2 as of 2026-06-08 03:55:20 UTC
 
 **Total Participants:** 2070
 
@@ -221,18 +221,18 @@
 | 213 | 405 | MaddieCherie |
 | 214 | 405 | Amy Gregg |
 | 215 | 402 | Brenda Jones |
-| 216 | 397 | Nikki EightySixed |
-| 217 | 395 | Justin McCray |
-| 218 | 392 | Bri St Peter |
-| 219 | 392 | Leigh Ann |
-| 220 | 391 | La chulis |
-| 221 | 390 | Goofy Gridclear |
-| 222 | 388 | Mookshake |
+| 216 | 402 | Nikki Hayes |
+| 217 | 397 | Nikki EightySixed |
+| 218 | 395 | Justin McCray |
+| 219 | 392 | Bri St Peter |
+| 220 | 392 | Leigh Ann |
+| 221 | 391 | La chulis |
+| 222 | 390 | Goofy Gridclear |
 | 223 | 388 | Jat |
-| 224 | 386 | Jennifer Smith |
-| 225 | 383 | Michelle Luke Banta |
-| 226 | 383 | Jenna Stahl |
-| 227 | 382 | Nikki Hayes |
+| 224 | 388 | Mookshake |
+| 225 | 386 | Jennifer Smith |
+| 226 | 383 | Michelle Luke Banta |
+| 227 | 383 | Jenna Stahl |
 | 228 | 380 | Bb |
 | 229 | 379 | Greta Warden |
 | 230 | 376 | Jamie Fenyus |
@@ -260,16 +260,16 @@
 | 252 | 339 | Keri Mears |
 | 253 | 337 | Ashley Billiot Rhodes |
 | 254 | 337 | Adriana Daniela Agapie |
-| 255 | 331 | Shannon Wilson |
-| 256 | 328 | Tim Tim |
-| 257 | 328 | Xandrea Jones |
-| 258 | 325 | Flashy Twistline |
-| 259 | 325 | Snappy Combo |
-| 260 | 324 | Kimmyc |
-| 261 | 324 | DayDreamer79 |
-| 262 | 322 | Queen |
-| 263 | 322 | Pam Bauder Ludwig |
-| 264 | 321 | Chill Line |
+| 255 | 331 | Chill Line |
+| 256 | 331 | Shannon Wilson |
+| 257 | 328 | Tim Tim |
+| 258 | 328 | Xandrea Jones |
+| 259 | 325 | Flashy Twistline |
+| 260 | 325 | Snappy Combo |
+| 261 | 324 | Kimmyc |
+| 262 | 324 | DayDreamer79 |
+| 263 | 322 | Queen |
+| 264 | 322 | Pam Bauder Ludwig |
 | 265 | 320 | Linda Guay |
 | 266 | 319 | Ackerman 85 |
 | 267 | 319 | Norma Ortiz |
@@ -277,15 +277,15 @@
 | 269 | 316 | Swanky Fitline |
 | 270 | 314 | Margie Ann Naffziger |
 | 271 | 312 | Hypee |
-| 272 | 308 | Heather Burgett |
-| 273 | 308 | Larry Cross |
-| 274 | 308 | Hector |
+| 272 | 308 | Larry Cross |
+| 273 | 308 | Hector |
+| 274 | 308 | Heather Burgett |
 | 275 | 306 | Brittney Williams |
-| 276 | 305 | Melissa Clogher White |
-| 277 | 305 | Logan Duffey |
+| 276 | 305 | Logan Duffey |
+| 277 | 305 | Melissa Clogher White |
 | 278 | 304 | Amie Marks |
-| 279 | 300 | Patricia Carroll |
-| 280 | 300 | Jamin |
+| 279 | 300 | Jamin |
+| 280 | 300 | Patricia Carroll |
 | 281 | 300 | Melisa |
 | 282 | 298 | Rob Owens |
 | 283 | 296 | Vistabrat |
@@ -436,28 +436,28 @@
 | 428 | 192 | Raine |
 | 429 | 192 | Loopy Tower |
 | 430 | 192 | TetrisMama |
-| 431 | 191 | Sarah Jane Gorsuch |
-| 432 | 191 | Nano. |
-| 433 | 190 | Saucy Wrecker |
+| 431 | 191 | Partin |
+| 432 | 191 | Sarah Jane Gorsuch |
+| 433 | 191 | Nano. |
 | 434 | 190 | Lisa Allen Frisk |
-| 435 | 190 | Naomi Walker |
-| 436 | 189 | Danielle Lyons |
-| 437 | 188 | Rachel Nilles |
-| 438 | 187 | Jaimie Walters |
-| 439 | 187 | Kellie Montgomery |
-| 440 | 185 | Vicki Flippo |
-| 441 | 185 | Brooklyn Todd |
-| 442 | 185 | Sillyk |
-| 443 | 185 | Monee Stronger |
-| 444 | 184 | IncrediDragon |
-| 445 | 184 | Alicia Ellenburg |
-| 446 | 184 | Melissa Abbott |
-| 447 | 184 | Nancy Schwartz Gusman-Oliver |
-| 448 | 182 | murd3rmous3 |
-| 449 | 182 | Partin |
-| 450 | 181 | Meagan Grimmett Washburn |
-| 451 | 181 | Joannah Capilitan |
-| 452 | 181 | Jamie Adams |
+| 435 | 190 | Saucy Wrecker |
+| 436 | 190 | Naomi Walker |
+| 437 | 189 | Danielle Lyons |
+| 438 | 188 | Rachel Nilles |
+| 439 | 187 | Jaimie Walters |
+| 440 | 187 | Kellie Montgomery |
+| 441 | 185 | Vicki Flippo |
+| 442 | 185 | Brooklyn Todd |
+| 443 | 185 | Sillyk |
+| 444 | 185 | Monee Stronger |
+| 445 | 184 | IncrediDragon |
+| 446 | 184 | Alicia Ellenburg |
+| 447 | 184 | Melissa Abbott |
+| 448 | 184 | Nancy Schwartz Gusman-Oliver |
+| 449 | 182 | murd3rmous3 |
+| 450 | 181 | Jamie Adams |
+| 451 | 181 | Meagan Grimmett Washburn |
+| 452 | 181 | Joannah Capilitan |
 | 453 | 180 | Happy |
 | 454 | 180 | Laura Larsen |
 | 455 | 180 | Ashley Voelz |
