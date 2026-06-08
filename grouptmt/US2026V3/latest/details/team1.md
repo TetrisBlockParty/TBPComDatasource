@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 21:10:20 UTC
+# Standings for team1 as of 2026-06-08 21:10:42 UTC
 
 **Total Participants:** 1874
 
@@ -168,15 +168,15 @@
 | 160 | 550 | Tobey Marberry |
 | 161 | 550 | Genne Scott |
 | 162 | 549 | Shell Lewis |
-| 163 | 546 | Dee McCool |
-| 164 | 541 | Helen Smith |
-| 165 | 540 | Slim Shedidthat |
+| 163 | 549 | Slim Shedidthat |
+| 164 | 546 | Dee McCool |
+| 165 | 541 | Helen Smith |
 | 166 | 531 | Abraham Espaillat |
 | 167 | 527 | MommaCia |
 | 168 | 523 | DellaLucretia Thomas |
-| 169 | 520 | Dulo |
-| 170 | 520 | Spicy Risepiece |
-| 171 | 520 | Felicia Cain |
+| 169 | 520 | Spicy Risepiece |
+| 170 | 520 | Felicia Cain |
+| 171 | 520 | Dulo |
 | 172 | 519 | Slinky Party |
 | 173 | 518 | sha |
 | 174 | 517 | Kaleisha Smith |
@@ -930,24 +930,24 @@
 | 922 | 89 | Marsha Earl |
 | 923 | 89 | Swanky Glide |
 | 924 | 89 | Marc Papa |
-| 925 | 88 | Stacy Nicole |
-| 926 | 88 | Phoenix |
-| 927 | 88 | Amaadi Ward |
-| 928 | 88 | Mumitt |
-| 929 | 88 | Maria Baez Medina |
-| 930 | 88 | NickyJay Jones |
-| 931 | 88 | Ayanna James |
-| 932 | 87 | Natalie Burroughs |
-| 933 | 87 | Angela L Charles |
-| 934 | 87 | LexiiSamayaa |
-| 935 | 87 | Cj Chimelis |
-| 936 | 87 | Samona Mcculler |
-| 937 | 87 | Denise Cunningham-English |
-| 938 | 86 | LaTonya Rivers |
-| 939 | 86 | Delitra Perkins Hatter |
+| 925 | 89 | SweetByNBy |
+| 926 | 88 | Stacy Nicole |
+| 927 | 88 | Phoenix |
+| 928 | 88 | Amaadi Ward |
+| 929 | 88 | Mumitt |
+| 930 | 88 | Maria Baez Medina |
+| 931 | 88 | NickyJay Jones |
+| 932 | 88 | Ayanna James |
+| 933 | 87 | Denise Cunningham-English |
+| 934 | 87 | Angela L Charles |
+| 935 | 87 | LexiiSamayaa |
+| 936 | 87 | Cj Chimelis |
+| 937 | 87 | Samona Mcculler |
+| 938 | 87 | Natalie Burroughs |
+| 939 | 86 | LaTonya Rivers |
 | 940 | 86 | Saucy Faller |
-| 941 | 86 | Tip318 |
-| 942 | 86 | SweetByNBy |
+| 941 | 86 | Delitra Perkins Hatter |
+| 942 | 86 | Tip318 |
 | 943 | 86 | Krista McNair |
 | 944 | 86 | Lazy Chiseler |
 | 945 | 86 | Tweet Turner |
@@ -1197,76 +1197,76 @@
 | 1189 | 53 | Michael Lindenlauf |
 | 1190 | 53 | Clever Wrecker |
 | 1191 | 53 | Sashaleo |
-| 1192 | 53 | Chinkey Overit |
-| 1193 | 53 | Kenneth Williams |
-| 1194 | 53 | don ralph |
-| 1195 | 52 | Cheery T-spin |
+| 1192 | 53 | Kenneth Williams |
+| 1193 | 53 | don ralph |
+| 1194 | 53 | Chinkey Overit |
+| 1195 | 52 | Chummy Liner |
 | 1196 | 52 | Frilly Mover |
 | 1197 | 52 | Brenda Brogden |
 | 1198 | 52 | L-Kamice Boykin |
-| 1199 | 52 | Loopy Risepiece |
-| 1200 | 52 | Cathilia Rodriguez |
-| 1201 | 52 | Chummy Liner |
-| 1202 | 51 | SpeedyJas |
-| 1203 | 51 | Laura |
+| 1199 | 52 | Cheery T-spin |
+| 1200 | 52 | Loopy Risepiece |
+| 1201 | 52 | Cathilia Rodriguez |
+| 1202 | 52 | Jeaneé Nay |
+| 1203 | 51 | SpeedyJas |
 | 1204 | 51 | Quirky Spinblock |
 | 1205 | 51 | Octavia Whitmire |
 | 1206 | 51 | Tweet |
 | 1207 | 51 | Jakari Wool |
 | 1208 | 51 | Danielle Marie Lewis |
-| 1209 | 51 | Panda Vibes |
-| 1210 | 51 | Emeka Agu |
-| 1211 | 51 | Austin Smith |
-| 1212 | 51 | Hasty Brickzone |
-| 1213 | 50 | Aero Builder |
+| 1209 | 51 | Laura |
+| 1210 | 51 | Panda Vibes |
+| 1211 | 51 | Emeka Agu |
+| 1212 | 51 | Austin Smith |
+| 1213 | 51 | Hasty Brickzone |
 | 1214 | 50 | Douglas Jones |
-| 1215 | 50 | LaQuita White |
-| 1216 | 50 | Lawanda Conley |
-| 1217 | 50 | Skye |
-| 1218 | 50 | TrapQween39Bi |
-| 1219 | 50 | Daring Linkfall |
-| 1220 | 50 | Snappy Strikerpiece |
-| 1221 | 50 | Denell Sims |
-| 1222 | 50 | rosieredpanda |
-| 1223 | 50 | MsBobby Patrick |
+| 1215 | 50 | Daring Linkfall |
+| 1216 | 50 | Skye |
+| 1217 | 50 | TrapQween39Bi |
+| 1218 | 50 | Lawanda Conley |
+| 1219 | 50 | Snappy Strikerpiece |
+| 1220 | 50 | Denell Sims |
+| 1221 | 50 | LaQuita White |
+| 1222 | 50 | MsBobby Patrick |
+| 1223 | 50 | rosieredpanda |
 | 1224 | 50 | Witty Snapbuilder |
-| 1225 | 50 | 1ofaking |
-| 1226 | 50 | Nockallday |
-| 1227 | 49 | Frothy Snapmatch |
-| 1228 | 49 | Brika Brika |
-| 1229 | 49 | Brandi M. Boney |
-| 1230 | 49 | Adonai Saves |
-| 1231 | 49 | Stacey Kesteloot |
-| 1232 | 49 | Jeremy Pope |
-| 1233 | 49 | Melanie Houghton-McCann |
-| 1234 | 49 | Kayd |
+| 1225 | 50 | Nockallday |
+| 1226 | 50 | Aero Builder |
+| 1227 | 50 | 1ofaking |
+| 1228 | 49 | Ķïrãã Ďãvïss |
+| 1229 | 49 | Melanie Houghton-McCann |
+| 1230 | 49 | Kayd |
+| 1231 | 49 | Jeremy Pope |
+| 1232 | 49 | Tara Clarke |
+| 1233 | 49 | Deantenique Smalls |
+| 1234 | 49 | Yolanda Sadler |
 | 1235 | 49 | Macho Lewis |
-| 1236 | 49 | Tara Clarke |
-| 1237 | 49 | Deantenique Smalls |
-| 1238 | 49 | Yolanda Sadler |
-| 1239 | 49 | Alyssa H |
-| 1240 | 49 | Ķïrãã Ďãvïss |
-| 1241 | 48 | Davina Valentino |
+| 1236 | 49 | Brika Brika |
+| 1237 | 49 | Brandi M. Boney |
+| 1238 | 49 | Adonai Saves |
+| 1239 | 49 | Stacey Kesteloot |
+| 1240 | 49 | Frothy Snapmatch |
+| 1241 | 49 | Alyssa H |
 | 1242 | 48 | Bubbly Crawler |
-| 1243 | 48 | Angela C. |
-| 1244 | 48 | Bubbly Base |
-| 1245 | 48 | LoveLee |
-| 1246 | 48 | Jessica Kirby |
-| 1247 | 48 | BlessedBeauty |
-| 1248 | 48 | jaz |
-| 1249 | 48 | Rose Smith |
-| 1250 | 47 | Nayyirah Hariyyan |
+| 1243 | 48 | Jessica Kirby |
+| 1244 | 48 | jaz |
+| 1245 | 48 | Rose Smith |
+| 1246 | 48 | LoveLee |
+| 1247 | 48 | Bubbly Base |
+| 1248 | 48 | Angela C. |
+| 1249 | 48 | Davina Valentino |
+| 1250 | 48 | BlessedBeauty |
 | 1251 | 47 | William Vidra |
 | 1252 | 47 | Arlea Mann |
-| 1253 | 47 | Talya Richards |
-| 1254 | 47 | Dana Hill |
-| 1255 | 47 | Mighty plantlady |
-| 1256 | 47 | Pizzle |
-| 1257 | 47 | Dani McLeod |
-| 1258 | 47 | Kevin Turner |
-| 1259 | 47 | Andrew Harris |
-| 1260 | 46 | jac |
-| 1261 | 46 | Jeaneé Nay |
+| 1253 | 47 | Andrew Harris |
+| 1254 | 47 | Talya Richards |
+| 1255 | 47 | Nayyirah Hariyyan |
+| 1256 | 47 | Dana Hill |
+| 1257 | 47 | Mighty plantlady |
+| 1258 | 47 | Pizzle |
+| 1259 | 47 | Dani McLeod |
+| 1260 | 47 | Kevin Turner |
+| 1261 | 46 | jac |
 | 1262 | 46 | Hasaan Jones |
 | 1263 | 46 | Cranky Fitblock |
 | 1264 | 46 | Crystal Winters Mckay |
