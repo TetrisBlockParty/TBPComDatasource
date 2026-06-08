@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:44:44 UTC
+# Standings for team4 as of 2026-06-08 16:45:21 UTC
 
 **Total Participants:** 1870
 
@@ -273,8 +273,8 @@
 | 265 | 315 | Thomasena Eady Reid |
 | 266 | 315 | Maria Castillo |
 | 267 | 312 | Breezy Cascadeclear |
-| 268 | 309 | TRUCHILD777$$$ |
-| 269 | 306 | JuicyJuice |
+| 268 | 311 | JuicyJuice |
+| 269 | 309 | TRUCHILD777$$$ |
 | 270 | 305 | No Time |
 | 271 | 305 | Richard Bearse |
 | 272 | 303 | Ash Gribble |
