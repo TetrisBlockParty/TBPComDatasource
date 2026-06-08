@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 00:00:42 UTC
+# Standings for team1 as of 2026-06-08 00:01:19 UTC
 
 **Total Participants:** 1626
 
@@ -76,15 +76,15 @@
 | 68 | 994 | Eric Mcgaughy |
 | 69 | 981 | Court Court |
 | 70 | 980 | Bre Maugh |
-| 71 | 939 | Uneekly Mayde |
-| 72 | 935 | Whitney Butler |
-| 73 | 923 | Tiana Moore |
-| 74 | 920 | IamJust Neyamijah Washington Sr. |
-| 75 | 897 | BYM4L |
-| 76 | 894 | Danielle Barthelme |
-| 77 | 890 | MamaBear |
-| 78 | 882 | Jon Gathers |
-| 79 | 879 | Janine Hunter |
+| 71 | 957 | Janine Hunter |
+| 72 | 939 | Uneekly Mayde |
+| 73 | 935 | Whitney Butler |
+| 74 | 923 | Tiana Moore |
+| 75 | 920 | IamJust Neyamijah Washington Sr. |
+| 76 | 897 | BYM4L |
+| 77 | 894 | Danielle Barthelme |
+| 78 | 890 | MamaBear |
+| 79 | 882 | Jon Gathers |
 | 80 | 877 | Brian Bohanon II |
 | 81 | 855 | PandaPrincess |
 | 82 | 847 | She Higgy |
@@ -1271,26 +1271,26 @@
 | 1263 | 27 | Chummy Twisterfit |
 | 1264 | 27 | Antoinette GallowayJohnson |
 | 1265 | 27 | Zesty Fitclear |
-| 1266 | 27 | Taylor Keisha |
-| 1267 | 26 | Ana Torres |
-| 1268 | 26 | Teena K Macon |
-| 1269 | 26 | jae |
-| 1270 | 26 | Rose Smith |
-| 1271 | 26 | Batty B |
-| 1272 | 26 | Konkrete Pop |
-| 1273 | 26 | Lively Strikesnap |
-| 1274 | 26 | Silly Shatterline |
-| 1275 | 26 | Layla Williams |
-| 1276 | 25 | Monica Tovar |
+| 1266 | 27 | Vontesha Kidd |
+| 1267 | 27 | Taylor Keisha |
+| 1268 | 26 | Ana Torres |
+| 1269 | 26 | Teena K Macon |
+| 1270 | 26 | jae |
+| 1271 | 26 | Rose Smith |
+| 1272 | 26 | Batty B |
+| 1273 | 26 | Konkrete Pop |
+| 1274 | 26 | Layla Williams |
+| 1275 | 26 | Lively Strikesnap |
+| 1276 | 26 | Silly Shatterline |
 | 1277 | 25 | Talya Richards |
 | 1278 | 25 | PennyCandee |
-| 1279 | 25 | Mighty Riserbuilder |
-| 1280 | 25 | Deantenique Smalls |
-| 1281 | 25 | Vontesha Kidd |
-| 1282 | 25 | Maxine Williams |
-| 1283 | 25 | Dinky da Don |
-| 1284 | 24 | Silly Matchbuilder |
-| 1285 | 24 | Cheery T-spin |
+| 1279 | 25 | Monica Tovar |
+| 1280 | 25 | Mighty Riserbuilder |
+| 1281 | 25 | Deantenique Smalls |
+| 1282 | 25 | Dinky da Don |
+| 1283 | 25 | Maxine Williams |
+| 1284 | 24 | Cheery T-spin |
+| 1285 | 24 | Silly Matchbuilder |
 | 1286 | 24 | Beverly Redd-Fountain |
 | 1287 | 24 | scorpiobae |
 | 1288 | 24 | Kevin Witdaflute |
