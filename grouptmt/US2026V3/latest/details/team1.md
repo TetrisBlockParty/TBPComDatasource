@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 05:02:41 UTC
+# Standings for team1 as of 2026-06-08 05:03:18 UTC
 
 **Total Participants:** 1719
 
@@ -591,34 +591,34 @@
 | 583 | 118 | Pretty Yella |
 | 584 | 118 | SnazzyIvy |
 | 585 | 118 | Rhianna Dinki Austin |
-| 586 | 117 | Bruce Paléncia |
-| 587 | 117 | Bubbly Slammer |
-| 588 | 117 | DaemahnFriday |
-| 589 | 117 | Andrew Jay Vaughn |
-| 590 | 117 | Jackytrain52 |
-| 591 | 116 | Sherri Keys |
-| 592 | 116 | Jess |
-| 593 | 116 | Sallie Sanborn |
-| 594 | 116 | Melissa Hershberger |
-| 595 | 115 | WOOLFF |
-| 596 | 115 | Tesiree Cray |
-| 597 | 115 | Rufus |
-| 598 | 115 | Betsy B. Yohan |
-| 599 | 115 | Marbama |
-| 600 | 115 | Wayne Savannah |
-| 601 | 114 | LAhoneybun82 |
-| 602 | 114 | Tessa Felice Hill |
-| 603 | 114 | Cranky Fall |
-| 604 | 114 | Felicia Dungey |
+| 586 | 117 | Tessa Felice Hill |
+| 587 | 117 | Bruce Paléncia |
+| 588 | 117 | Bubbly Slammer |
+| 589 | 117 | DaemahnFriday |
+| 590 | 117 | Andrew Jay Vaughn |
+| 591 | 117 | Jackytrain52 |
+| 592 | 116 | Sherri Keys |
+| 593 | 116 | Jess |
+| 594 | 116 | Sallie Sanborn |
+| 595 | 116 | Melissa Hershberger |
+| 596 | 115 | Betsy B. Yohan |
+| 597 | 115 | Tesiree Cray |
+| 598 | 115 | WOOLFF |
+| 599 | 115 | Wayne Savannah |
+| 600 | 115 | Marbama |
+| 601 | 115 | Rufus |
+| 602 | 114 | Cranky Fall |
+| 603 | 114 | Felicia Dungey |
+| 604 | 114 | LAhoneybun82 |
 | 605 | 113 | Lilly Brown |
-| 606 | 112 | Nyhlah Patterson |
-| 607 | 112 | GamerQueenDS |
+| 606 | 112 | GamerQueenDS |
+| 607 | 112 | Nyhlah Patterson |
 | 608 | 112 | Stephen Glaze |
 | 609 | 112 | DirtiestofMikes |
-| 610 | 111 | Taneka Howell |
-| 611 | 111 | Mellie Mel |
-| 612 | 111 | Chino Baby |
-| 613 | 111 | Happy Blocky |
+| 610 | 111 | Mellie Mel |
+| 611 | 111 | Chino Baby |
+| 612 | 111 | Happy Blocky |
+| 613 | 111 | Taneka Howell |
 | 614 | 111 | Happy Blockpiece |
 | 615 | 111 | Angie Smith |
 | 616 | 111 | Ad Doctor |
