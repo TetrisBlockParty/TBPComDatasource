@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 07:27:20 UTC
+# Standings for team1 as of 2026-06-08 07:28:19 UTC
 
 **Total Participants:** 1755
 
@@ -50,9 +50,9 @@
 | 42 | 1693 | JoJo |
 | 43 | 1684 | Ceilo Marie |
 | 44 | 1633 | Cherry Rose |
-| 45 | 1564 | Chris Russell |
-| 46 | 1548 | Jennifer To |
-| 47 | 1546 | Jolly Dropzone |
+| 45 | 1576 | Jolly Dropzone |
+| 46 | 1564 | Chris Russell |
+| 47 | 1548 | Jennifer To |
 | 48 | 1544 | Weeze |
 | 49 | 1538 | Jacoby E Fleming |
 | 50 | 1489 | Robyn Caldwell |
@@ -73,26 +73,26 @@
 | 65 | 1115 | Aviv Zehavi |
 | 66 | 1112 | Tiana Moore |
 | 67 | 1100 | Rosey |
-| 68 | 1093 | Sanjuro |
-| 69 | 1091 | Bre Maugh |
-| 70 | 1090 | Catara Renae Oliver |
-| 71 | 1078 | Danielle DeLozier Plesec |
-| 72 | 1071 | Kimberly Hernandez |
-| 73 | 1044 | Brian Bohanon II |
-| 74 | 1024 | Chill Clusterer |
-| 75 | 1021 | Frisky Fallmatch |
-| 76 | 1018 | Court Court |
-| 77 | 1017 | Lisa Müller |
-| 78 | 995 | Whitney Butler |
-| 79 | 953 | PandaPrincess |
-| 80 | 939 | Uneekly Mayde |
-| 81 | 927 | KenpachisGirl |
-| 82 | 921 | Therealdywoune Peay |
-| 83 | 920 | IamJust Neyamijah Washington Sr. |
-| 84 | 917 | Dynah Gordon |
-| 85 | 911 | Richard Horton |
-| 86 | 897 | BYM4L |
-| 87 | 894 | Louis Richard Jr |
+| 68 | 1094 | Louis Richard Jr |
+| 69 | 1093 | Sanjuro |
+| 70 | 1091 | Bre Maugh |
+| 71 | 1090 | Catara Renae Oliver |
+| 72 | 1078 | Danielle DeLozier Plesec |
+| 73 | 1071 | Kimberly Hernandez |
+| 74 | 1044 | Brian Bohanon II |
+| 75 | 1024 | Chill Clusterer |
+| 76 | 1021 | Frisky Fallmatch |
+| 77 | 1018 | Court Court |
+| 78 | 1017 | Lisa Müller |
+| 79 | 995 | Whitney Butler |
+| 80 | 953 | PandaPrincess |
+| 81 | 939 | Uneekly Mayde |
+| 82 | 927 | KenpachisGirl |
+| 83 | 921 | Therealdywoune Peay |
+| 84 | 920 | IamJust Neyamijah Washington Sr. |
+| 85 | 917 | Dynah Gordon |
+| 86 | 911 | Richard Horton |
+| 87 | 897 | BYM4L |
 | 88 | 894 | Danielle Barthelme |
 | 89 | 890 | MamaBear |
 | 90 | 885 | Keeta Chickswit Scott |
@@ -187,9 +187,9 @@
 | 179 | 409 | Lashaunda |
 | 180 | 405 | LaToya Chambers |
 | 181 | 405 | SPNLover24 |
-| 182 | 398 | Kenny 'Tailormade' Boyd |
-| 183 | 397 | Karebear |
-| 184 | 395 | Zappy Riser |
+| 182 | 399 | Zappy Riser |
+| 183 | 398 | Kenny 'Tailormade' Boyd |
+| 184 | 397 | Karebear |
 | 185 | 394 | Simmone T. Kadiri |
 | 186 | 393 | Sheila Burnham |
 | 187 | 393 | Sharon Cail |
@@ -226,9 +226,9 @@
 | 218 | 345 | Ebony |
 | 219 | 343 | Yasmin Nakea Wright |
 | 220 | 341 | Tremaine Hiler |
-| 221 | 340 | Spicy Risepiece |
-| 222 | 338 | Brand Nu |
-| 223 | 335 | Slinky Party |
+| 221 | 340 | Slinky Party |
+| 222 | 340 | Spicy Risepiece |
+| 223 | 338 | Brand Nu |
 | 224 | 334 | Ashley MyBeauty Daniels |
 | 225 | 334 | Po Marley |
 | 226 | 333 | Latisha Fairley |
@@ -301,10 +301,10 @@
 | 293 | 254 | Smiley Clearpiece |
 | 294 | 253 | Tasha |
 | 295 | 252 | Anthony |
-| 296 | 248 | Tessa Felice Hill |
-| 297 | 248 | Mikayla |
-| 298 | 246 | Curtis T Cirno |
-| 299 | 246 | Andrew Jay Vaughn |
+| 296 | 252 | Andrew Jay Vaughn |
+| 297 | 248 | Tessa Felice Hill |
+| 298 | 248 | Mikayla |
+| 299 | 246 | Curtis T Cirno |
 | 300 | 245 | Kelli Couture |
 | 301 | 245 | Derrius SeriousLee Burks |
 | 302 | 244 | Amber Wilson |
@@ -324,30 +324,30 @@
 | 316 | 233 | Nicole Watson-Dixon |
 | 317 | 231 | Tipsy Linkroll |
 | 318 | 230 | Brittnay Wright |
-| 319 | 230 | Hailey Hil |
-| 320 | 230 | Boldy Liner |
-| 321 | 230 | Erica Charlise |
-| 322 | 230 | Still Ten Tay |
+| 319 | 230 | Still Ten Tay |
+| 320 | 230 | Hailey Hil |
+| 321 | 230 | Boldy Liner |
+| 322 | 230 | Erica Charlise |
 | 323 | 229 | De'Mear McKinney |
 | 324 | 227 | Chasem45 |
 | 325 | 224 | Asha Langford |
 | 326 | 223 | Perky Pusher |
 | 327 | 221 | Chandler Magee |
-| 328 | 220 | Christian Pham |
-| 329 | 220 | rls |
+| 328 | 220 | rls |
+| 329 | 220 | Rachael Bakowicz Edwards |
 | 330 | 220 | HarleyJane |
-| 331 | 220 | Rachael Bakowicz Edwards |
-| 332 | 219 | Bambi Johnson |
-| 333 | 219 | Tamara Johnson-Carter |
+| 331 | 220 | Christian Pham |
+| 332 | 219 | Tamara Johnson-Carter |
+| 333 | 219 | Bambi Johnson |
 | 334 | 218 | SeanSanchez |
-| 335 | 217 | Tamika Fisher |
-| 336 | 217 | Louise Parker |
-| 337 | 217 | LaShaun Stinson |
-| 338 | 217 | Snippy Breaker |
-| 339 | 217 | Ashleyy Netchert |
+| 335 | 217 | Snippy Breaker |
+| 336 | 217 | Ashleyy Netchert |
+| 337 | 217 | Louise Parker |
+| 338 | 217 | Tamika Fisher |
+| 339 | 217 | LaShaun Stinson |
 | 340 | 214 | Stephen Providenti |
-| 341 | 213 | Lazy Tiltpiece |
-| 342 | 212 | Eric Spencer Whitaker |
+| 341 | 214 | Eric Spencer Whitaker |
+| 342 | 213 | Lazy Tiltpiece |
 | 343 | 212 | Simply-Beautiful007 |
 | 344 | 211 | Charletha Williams |
 | 345 | 211 | Nina Davis |
