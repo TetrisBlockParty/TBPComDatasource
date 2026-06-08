@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 19:28:20 UTC
+# Standings for team1 as of 2026-06-08 19:28:41 UTC
 
 **Total Participants:** 1851
 
@@ -198,12 +198,12 @@
 | 190 | 459 | Zappy Riser |
 | 191 | 458 | Jimmie Makia |
 | 192 | 456 | Cachet A Ward |
-| 193 | 453 | LaToya Chambers |
-| 194 | 452 | Kenny MrOnethousand Peck |
-| 195 | 451 | Simmone T. Kadiri |
-| 196 | 446 | Joey Albright |
-| 197 | 446 | pooh |
-| 198 | 445 | DellaLucretia Thomas |
+| 193 | 455 | DellaLucretia Thomas |
+| 194 | 453 | LaToya Chambers |
+| 195 | 452 | Kenny MrOnethousand Peck |
+| 196 | 451 | Simmone T. Kadiri |
+| 197 | 446 | Joey Albright |
+| 198 | 446 | pooh |
 | 199 | 444 | Kevin M. McGhee Jr |
 | 200 | 442 | Rachel Zimmerman |
 | 201 | 440 | Tanya Clayton |
@@ -452,10 +452,10 @@
 | 444 | 200 | Maribel Vasquez |
 | 445 | 200 | Lisa Fletcher |
 | 446 | 200 | Karen Knapp |
-| 447 | 199 | Jenni Hardman |
-| 448 | 199 | Fina McKinnis |
-| 449 | 198 | Marlainia Boyd |
-| 450 | 197 | wmedina67 |
+| 447 | 199 | wmedina67 |
+| 448 | 199 | Jenni Hardman |
+| 449 | 199 | Fina McKinnis |
+| 450 | 198 | Marlainia Boyd |
 | 451 | 197 | Desire Rice |
 | 452 | 196 | Teresa Yanira Cepeda |
 | 453 | 196 | Ladybug |
