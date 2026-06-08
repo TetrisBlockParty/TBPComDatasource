@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 05:08:20 UTC
+# Standings for team2 as of 2026-06-08 05:08:42 UTC
 
 **Total Participants:** 2100
 
@@ -482,101 +482,101 @@
 | 474 | 179 | Lively Curve |
 | 475 | 179 | Teresa Mandich |
 | 476 | 179 | Jenni LeBlanc |
-| 477 | 178 | Duke Morley |
-| 478 | 178 | Rocroc mo |
+| 477 | 178 | Rocroc mo |
+| 478 | 178 | Duke Morley |
 | 479 | 178 | Talyn Domingues |
 | 480 | 177 | Rydin Dirt |
 | 481 | 177 | Gluten Gremlin |
 | 482 | 176 | Jana Campbell |
 | 483 | 176 | Ssirkus |
 | 484 | 176 | Kay |
-| 485 | 174 | ZBee |
-| 486 | 174 | Laurie |
-| 487 | 172 | Lee Leonard |
-| 488 | 172 | Mandy |
+| 485 | 174 | Laurie |
+| 486 | 174 | ZBee |
+| 487 | 172 | Will Jones |
+| 488 | 172 | Lee Leonard |
 | 489 | 172 | Charity Hauser |
-| 490 | 172 | Rescuegirl76 |
-| 491 | 172 | Will Jones |
+| 490 | 172 | Mandy |
+| 491 | 172 | Rescuegirl76 |
 | 492 | 170 | Amber Carpenter |
 | 493 | 170 | Dapper Riser |
 | 494 | 169 | Analee Nicole Jones |
 | 495 | 169 | Sandy Rundel Holderman |
-| 496 | 168 | Gwendolyn Boykin Mobbs |
-| 497 | 168 | Heather Schardan |
+| 496 | 168 | Heather Schardan |
+| 497 | 168 | Gwendolyn Boykin Mobbs |
 | 498 | 168 | Spicy Balanceblock |
 | 499 | 167 | Cara Rivera |
 | 500 | 166 | Carl Mccoy |
-| 501 | 166 | Wayne Johnson |
-| 502 | 166 | Darla Nolt |
+| 501 | 166 | Darla Nolt |
+| 502 | 166 | Wayne Johnson |
 | 503 | 165 | Leticia Tillman |
 | 504 | 165 | Nicky Steigerwalt |
 | 505 | 165 | Chilly Surge |
 | 506 | 165 | Spunky Cascadeclear |
-| 507 | 164 | James Sayers |
-| 508 | 164 | Silly Tiltbuilder |
+| 507 | 164 | Silly Tiltbuilder |
+| 508 | 164 | James Sayers |
 | 509 | 163 | Zany Cascader |
-| 510 | 162 | Ashley Miller |
+| 510 | 162 | Nikki Hatch |
 | 511 | 162 | Tina |
 | 512 | 162 | Wacky Holder |
-| 513 | 162 | Nikki Hatch |
+| 513 | 162 | Ashley Miller |
 | 514 | 161 | Mandy Van Laningham Bishop |
 | 515 | 161 | Melissa Fink |
 | 516 | 160 | Marilyn Strickland |
-| 517 | 160 | Jessica Perkins |
+| 517 | 160 | Billie Jensen |
 | 518 | 160 | Jennifer McCloskey Launder |
-| 519 | 160 | Elizabeth Cornelius |
-| 520 | 160 | Billie Jensen |
+| 519 | 160 | Jessica Perkins |
+| 520 | 160 | Elizabeth Cornelius |
 | 521 | 159 | Sherri Caillet Aucoin |
-| 522 | 159 | Misty Noe |
-| 523 | 159 | Michelle Powers Chattaway |
-| 524 | 159 | Gina Louise Parker |
-| 525 | 159 | Jennifer Vitro |
-| 526 | 158 | Mike Mordhorst |
-| 527 | 158 | Ceci |
-| 528 | 158 | Chrystal |
-| 529 | 157 | Dana Vaiden Rivers |
-| 530 | 157 | Hillary Frank |
+| 522 | 159 | Wendy McKee |
+| 523 | 159 | Jennifer Vitro |
+| 524 | 159 | Misty Noe |
+| 525 | 159 | Gina Louise Parker |
+| 526 | 159 | Michelle Powers Chattaway |
+| 527 | 158 | Mike Mordhorst |
+| 528 | 158 | Ceci |
+| 529 | 158 | Chrystal |
+| 530 | 157 | Dana Vaiden Rivers |
 | 531 | 157 | MamaRachel |
-| 532 | 156 | TNGal |
-| 533 | 156 | Jennifer Lalk |
-| 534 | 156 | Wendy McKee |
+| 532 | 157 | Hillary Frank |
+| 533 | 156 | TNGal |
+| 534 | 156 | Jennifer Lalk |
 | 535 | 156 | Aurora June Brock |
 | 536 | 156 | Charlotte Castelli |
 | 537 | 155 | Renee Siems |
-| 538 | 155 | Leigh Wilkerson |
-| 539 | 155 | Christine James |
-| 540 | 155 | Nicole Good |
-| 541 | 154 | Kristi Chestnut |
-| 542 | 154 | Barb Kiser |
-| 543 | 154 | Belle |
-| 544 | 154 | Cindy Scott |
+| 538 | 155 | Christine James |
+| 539 | 155 | Nicole Good |
+| 540 | 155 | Leigh Wilkerson |
+| 541 | 154 | Cindy Scott |
+| 542 | 154 | Belle |
+| 543 | 154 | Barb Kiser |
+| 544 | 154 | Kristi Chestnut |
 | 545 | 153 | Cortney Coleman |
 | 546 | 153 | Wendy Mcbride |
-| 547 | 152 | LittleHippoEars |
-| 548 | 152 | Simone F |
-| 549 | 151 | Amy Lea Hamilton |
-| 550 | 151 | Joshua Hopkins |
-| 551 | 151 | Ava Speedy |
-| 552 | 151 | Angeleye A James |
+| 547 | 152 | Simone F |
+| 548 | 152 | LittleHippoEars |
+| 549 | 151 | Angeleye A James |
+| 550 | 151 | Ava Speedy |
+| 551 | 151 | Amy Lea Hamilton |
+| 552 | 151 | Joshua Hopkins |
 | 553 | 151 | Alyssa Malay |
 | 554 | 150 | Elizabeth Kline |
 | 555 | 150 | Plucky Grabber |
 | 556 | 150 | Jennifer Covington |
 | 557 | 149 | Frisky Twist |
 | 558 | 149 | Justin Stark |
-| 559 | 148 | Crystal Robinson |
-| 560 | 148 | rageking |
+| 559 | 148 | rageking |
+| 560 | 148 | Crystal Robinson |
 | 561 | 148 | NickandJess Reynolds |
 | 562 | 146 | Candi Cane |
 | 563 | 146 | Dana Wilson |
-| 564 | 145 | Thy Bui |
-| 565 | 145 | Alicia Parrish |
-| 566 | 145 | Muffin Popper |
-| 567 | 144 | Mama G |
-| 568 | 144 | Jeff Pottgether |
-| 569 | 144 | Kayley |
-| 570 | 144 | Epic Framezone |
-| 571 | 144 | Sunny Tiltbuilder |
+| 564 | 145 | Alicia Parrish |
+| 565 | 145 | Muffin Popper |
+| 566 | 145 | Thy Bui |
+| 567 | 144 | Sunny Tiltbuilder |
+| 568 | 144 | Epic Framezone |
+| 569 | 144 | Jeff Pottgether |
+| 570 | 144 | Mama G |
+| 571 | 144 | Kayley |
 | 572 | 144 | Alissa Ary |
 | 573 | 143 | Violet Olivares |
 | 574 | 143 | Matt Wylie |
@@ -1135,25 +1135,25 @@
 | 1127 | 63 | Bubbly Tilt |
 | 1128 | 63 | Glitzy Roll |
 | 1129 | 63 | Octavia Jus Mae Hill |
-| 1130 | 62 | Saucy Clearzone |
-| 1131 | 62 | Blossom48 |
-| 1132 | 62 | Peyton Groce |
-| 1133 | 62 | Alana Albritton Seals |
-| 1134 | 62 | Amy Walker |
-| 1135 | 62 | Denise Morehart |
-| 1136 | 62 | Frothy Zonebuilder |
-| 1137 | 61 | Rebecca Boling |
-| 1138 | 61 | Marcia Davis |
-| 1139 | 61 | Ken Vaughn |
-| 1140 | 61 | Natasha Schatte |
-| 1141 | 61 | Bubbly Dash |
-| 1142 | 61 | Lil G |
-| 1143 | 61 | giggly gal |
-| 1144 | 61 | Glitzy Matchclear |
-| 1145 | 61 | Maithan Conour |
-| 1146 | 61 | Kevin Perez |
-| 1147 | 61 | Deb Rose-Bridinger |
-| 1148 | 61 | Angela Anderson |
+| 1130 | 63 | Angela Anderson |
+| 1131 | 62 | Saucy Clearzone |
+| 1132 | 62 | Blossom48 |
+| 1133 | 62 | Peyton Groce |
+| 1134 | 62 | Alana Albritton Seals |
+| 1135 | 62 | Amy Walker |
+| 1136 | 62 | Denise Morehart |
+| 1137 | 62 | Frothy Zonebuilder |
+| 1138 | 61 | Rebecca Boling |
+| 1139 | 61 | Marcia Davis |
+| 1140 | 61 | Ken Vaughn |
+| 1141 | 61 | Natasha Schatte |
+| 1142 | 61 | Bubbly Dash |
+| 1143 | 61 | Lil G |
+| 1144 | 61 | giggly gal |
+| 1145 | 61 | Glitzy Matchclear |
+| 1146 | 61 | Maithan Conour |
+| 1147 | 61 | Kevin Perez |
+| 1148 | 61 | Deb Rose-Bridinger |
 | 1149 | 61 | Mandy Smart |
 | 1150 | 60 | Tiffany Lewis |
 | 1151 | 60 | Karen Mueller |
