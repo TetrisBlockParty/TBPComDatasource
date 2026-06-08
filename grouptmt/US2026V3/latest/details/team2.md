@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 12:02:44 UTC
+# Standings for team2 as of 2026-06-08 12:03:19 UTC
 
 **Total Participants:** 2165
 
@@ -659,22 +659,22 @@
 | 651 | 136 | Tami Weiss |
 | 652 | 136 | Laura Fagans |
 | 653 | 136 | Nicole Ashbaugh |
-| 654 | 136 | Melissa Willson |
-| 655 | 135 | Ava Taber |
-| 656 | 135 | Jessica Garoutte |
-| 657 | 135 | Cherica Taylor |
-| 658 | 135 | Cozy Cascade |
-| 659 | 135 | Michele Rogers |
-| 660 | 135 | Erin Moore Galloway |
-| 661 | 135 | Samantha Bugg Stitcher |
-| 662 | 134 | Heather Vircik |
-| 663 | 134 | Nova |
-| 664 | 134 | Brooke Allred |
-| 665 | 134 | Cassandra Milner |
-| 666 | 134 | Sara Karels |
-| 667 | 134 | Patrick Ohanlon |
-| 668 | 133 | s3lc4tr0n |
-| 669 | 133 | RaeRae |
+| 654 | 136 | RaeRae |
+| 655 | 136 | Melissa Willson |
+| 656 | 135 | Ava Taber |
+| 657 | 135 | Jessica Garoutte |
+| 658 | 135 | Cherica Taylor |
+| 659 | 135 | Cozy Cascade |
+| 660 | 135 | Michele Rogers |
+| 661 | 135 | Erin Moore Galloway |
+| 662 | 135 | Samantha Bugg Stitcher |
+| 663 | 134 | Heather Vircik |
+| 664 | 134 | Nova |
+| 665 | 134 | Brooke Allred |
+| 666 | 134 | Cassandra Milner |
+| 667 | 134 | Sara Karels |
+| 668 | 134 | Patrick Ohanlon |
+| 669 | 133 | s3lc4tr0n |
 | 670 | 132 | Kalli Bonin |
 | 671 | 132 | Kristen |
 | 672 | 132 | Tim Moore |
@@ -969,22 +969,22 @@
 | 961 | 89 | Christina Sheldon |
 | 962 | 89 | Samantha Smith |
 | 963 | 88 | sugabritches |
-| 964 | 88 | Dapper Spinbuilder |
-| 965 | 88 | Witty Riser |
-| 966 | 88 | Suzanne Davis |
-| 967 | 88 | Missy Tubb Overly |
-| 968 | 88 | Debra Patten |
-| 969 | 88 | Meagan Thompson |
-| 970 | 88 | Lydia Shonee |
-| 971 | 87 | Kelli Pazour |
-| 972 | 87 | Churube Finwoiisopw |
-| 973 | 87 | Jolly Builderpiece |
-| 974 | 87 | Mee Maw |
-| 975 | 87 | April Elaine Messenger |
-| 976 | 87 | Happy Shatterblock |
-| 977 | 87 | C.L. Deslongchamp |
-| 978 | 86 | Em |
-| 979 | 86 | Hyper Cascade |
+| 964 | 88 | Hyper Cascade |
+| 965 | 88 | Dapper Spinbuilder |
+| 966 | 88 | Witty Riser |
+| 967 | 88 | Suzanne Davis |
+| 968 | 88 | Missy Tubb Overly |
+| 969 | 88 | Debra Patten |
+| 970 | 88 | Meagan Thompson |
+| 971 | 88 | Lydia Shonee |
+| 972 | 87 | Kelli Pazour |
+| 973 | 87 | Churube Finwoiisopw |
+| 974 | 87 | Jolly Builderpiece |
+| 975 | 87 | Mee Maw |
+| 976 | 87 | April Elaine Messenger |
+| 977 | 87 | Happy Shatterblock |
+| 978 | 87 | C.L. Deslongchamp |
+| 979 | 86 | Em |
 | 980 | 86 | Nicole Hjelmen |
 | 981 | 86 | Samantha Brown |
 | 982 | 86 | Mandeee |
@@ -1118,53 +1118,53 @@
 | 1110 | 73 | Frothy Faller |
 | 1111 | 73 | Giggy Dropzone |
 | 1112 | 73 | Jenica Davis |
-| 1113 | 72 | Nikki Layman |
+| 1113 | 73 | Melissa Mae |
 | 1114 | 72 | Mala Phonchanthasone |
-| 1115 | 72 | Peppy Piececlear |
-| 1116 | 72 | Audrey Bickford |
-| 1117 | 72 | Aubrey Gates |
-| 1118 | 72 | Lu Wallace |
-| 1119 | 72 | Stacey Peters |
-| 1120 | 72 | Stacy Lynn |
-| 1121 | 71 | Yari |
-| 1122 | 71 | Cary M. Fong |
-| 1123 | 71 | Rachael Roberts |
-| 1124 | 71 | Ashley Bryant-hatcher |
-| 1125 | 71 | John C Morrison |
-| 1126 | 71 | Trisha Farley |
-| 1127 | 71 | Michelle Arnold |
-| 1128 | 71 | Michele Plunkett |
-| 1129 | 71 | Joey Grillo |
-| 1130 | 71 | Alessandria Anderson |
-| 1131 | 70 | Dottie Leavy Van Deventer |
-| 1132 | 70 | Alisha Kralicek Trainham |
-| 1133 | 70 | Wacky Tumbler |
-| 1134 | 70 | Melissa Aycock |
-| 1135 | 70 | Elizabeth Henry |
-| 1136 | 70 | Shannon Michelle |
-| 1137 | 70 | Shannon D. Turk |
-| 1138 | 70 | Jacy Pickett |
-| 1139 | 70 | Stazy Warner |
-| 1140 | 70 | Cassafrass |
-| 1141 | 70 | Andrea Spinelli |
-| 1142 | 70 | Abby Dexter |
-| 1143 | 70 | Peppy Piececlear |
-| 1144 | 70 | Elnaz Mokleh |
-| 1145 | 70 | Christi Hooper |
-| 1146 | 70 | Kelly Hall Whitt |
-| 1147 | 70 | Jolene Hull Hearn |
-| 1148 | 70 | Justin Furne |
-| 1149 | 70 | Rosie |
-| 1150 | 69 | Mona Wagner |
-| 1151 | 69 | Loretta Crow |
-| 1152 | 69 | Jackie Moran Tiller |
-| 1153 | 69 | REE4 |
-| 1154 | 69 | Glowing Earthy Embers |
-| 1155 | 69 | DragonJB2020 |
-| 1156 | 69 | Shawn Bolt |
-| 1157 | 69 | Shanna Jones Scott |
-| 1158 | 69 | Mandy Anderson |
-| 1159 | 69 | Melissa Mae |
+| 1115 | 72 | Nikki Layman |
+| 1116 | 72 | Peppy Piececlear |
+| 1117 | 72 | Audrey Bickford |
+| 1118 | 72 | Aubrey Gates |
+| 1119 | 72 | Lu Wallace |
+| 1120 | 72 | Stacey Peters |
+| 1121 | 72 | Stacy Lynn |
+| 1122 | 71 | Yari |
+| 1123 | 71 | Cary M. Fong |
+| 1124 | 71 | Rachael Roberts |
+| 1125 | 71 | Ashley Bryant-hatcher |
+| 1126 | 71 | John C Morrison |
+| 1127 | 71 | Trisha Farley |
+| 1128 | 71 | Michelle Arnold |
+| 1129 | 71 | Michele Plunkett |
+| 1130 | 71 | Joey Grillo |
+| 1131 | 71 | Alessandria Anderson |
+| 1132 | 70 | Dottie Leavy Van Deventer |
+| 1133 | 70 | Alisha Kralicek Trainham |
+| 1134 | 70 | Wacky Tumbler |
+| 1135 | 70 | Melissa Aycock |
+| 1136 | 70 | Elizabeth Henry |
+| 1137 | 70 | Shannon Michelle |
+| 1138 | 70 | Shannon D. Turk |
+| 1139 | 70 | Jacy Pickett |
+| 1140 | 70 | Stazy Warner |
+| 1141 | 70 | Cassafrass |
+| 1142 | 70 | Andrea Spinelli |
+| 1143 | 70 | Abby Dexter |
+| 1144 | 70 | Peppy Piececlear |
+| 1145 | 70 | Elnaz Mokleh |
+| 1146 | 70 | Christi Hooper |
+| 1147 | 70 | Kelly Hall Whitt |
+| 1148 | 70 | Jolene Hull Hearn |
+| 1149 | 70 | Justin Furne |
+| 1150 | 70 | Rosie |
+| 1151 | 69 | Mona Wagner |
+| 1152 | 69 | Loretta Crow |
+| 1153 | 69 | Jackie Moran Tiller |
+| 1154 | 69 | REE4 |
+| 1155 | 69 | Glowing Earthy Embers |
+| 1156 | 69 | DragonJB2020 |
+| 1157 | 69 | Shawn Bolt |
+| 1158 | 69 | Shanna Jones Scott |
+| 1159 | 69 | Mandy Anderson |
 | 1160 | 69 | Nonnie |
 | 1161 | 68 | April Appleton |
 | 1162 | 68 | Viola Fletcher |
