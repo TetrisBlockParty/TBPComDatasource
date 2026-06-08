@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:00:43 UTC
+# Standings for team4 as of 2026-06-08 08:01:19 UTC
 
 **Total Participants:** 1798
 
@@ -524,22 +524,22 @@
 | 516 | 138 | Anna Ryan |
 | 517 | 138 | Raising Stars |
 | 518 | 138 | Ami Ferguson |
-| 519 | 138 | aga |
-| 520 | 138 | All knowing |
-| 521 | 137 | Jrr |
-| 522 | 137 | Tanya AfricanQueen Savage |
-| 523 | 137 | Jen Smith |
-| 524 | 137 | Robert Moore |
-| 525 | 137 | TheazO |
-| 526 | 137 | Andrea Dre Lomeli |
-| 527 | 137 | Maricela Joslin |
-| 528 | 137 | Happy Filler |
-| 529 | 136 | Laurie Patrick |
-| 530 | 136 | Jay Dee |
-| 531 | 135 | Jennifer Terrill |
-| 532 | 135 | Lupe Chapa |
-| 533 | 135 | Tre'nya Smith |
-| 534 | 135 | Linda |
+| 519 | 138 | Linda |
+| 520 | 138 | aga |
+| 521 | 138 | All knowing |
+| 522 | 137 | Jrr |
+| 523 | 137 | Tanya AfricanQueen Savage |
+| 524 | 137 | Jen Smith |
+| 525 | 137 | Robert Moore |
+| 526 | 137 | TheazO |
+| 527 | 137 | Andrea Dre Lomeli |
+| 528 | 137 | Maricela Joslin |
+| 529 | 137 | Happy Filler |
+| 530 | 136 | Laurie Patrick |
+| 531 | 136 | Jay Dee |
+| 532 | 135 | Jennifer Terrill |
+| 533 | 135 | Lupe Chapa |
+| 534 | 135 | Tre'nya Smith |
 | 535 | 135 | Ricky Colvin |
 | 536 | 135 | my my |
 | 537 | 134 | Lul Babie |
@@ -1463,44 +1463,44 @@
 | 1455 | 26 | Taylor Renee |
 | 1456 | 26 | Rebecca Rae Reed |
 | 1457 | 26 | Ivyleata McFadden |
-| 1458 | 26 | Leslie Marie WarClub |
-| 1459 | 26 | Jessica Huber |
-| 1460 | 26 | Socorro Arredondo |
+| 1458 | 26 | Socorro Arredondo |
+| 1459 | 26 | Leslie Marie WarClub |
+| 1460 | 26 | Jessica Huber |
 | 1461 | 26 | Gabby |
-| 1462 | 25 | Gellix |
-| 1463 | 25 | José A Torres |
-| 1464 | 25 | Daisy Jaramillo |
+| 1462 | 25 | Daisy Jaramillo |
+| 1463 | 25 | Gellix |
+| 1464 | 25 | José A Torres |
 | 1465 | 25 | Amy |
 | 1466 | 25 | Crafty Slamdrop |
 | 1467 | 25 | Rell geez |
 | 1468 | 25 | Tipsy toesy |
 | 1469 | 25 | chapis |
-| 1470 | 25 | MoCa |
-| 1471 | 25 | Danielle Church |
-| 1472 | 25 | Jessikunt Gdula Pierre |
-| 1473 | 25 | Joyell Mersiel |
+| 1470 | 25 | Joyell Mersiel |
+| 1471 | 25 | MoCa |
+| 1472 | 25 | Danielle Church |
+| 1473 | 25 | Jessikunt Gdula Pierre |
 | 1474 | 25 | Sheries |
-| 1475 | 25 | Nina Martinez |
-| 1476 | 25 | Giggy Mover |
-| 1477 | 25 | LuLazer27 |
-| 1478 | 25 | Snoopie Johnson |
-| 1479 | 24 | Chelsea Pigg |
-| 1480 | 24 | Violet Mejia |
-| 1481 | 24 | Katiana Gonzalez |
-| 1482 | 24 | Jane M Tiller |
-| 1483 | 24 | Margarita Santana |
-| 1484 | 24 | Kriss Owens Uptegrove |
-| 1485 | 24 | Hannah White |
-| 1486 | 24 | Tameka Harrison |
-| 1487 | 24 | Snappy Blockzone |
-| 1488 | 24 | DTM0013 |
-| 1489 | 24 | Flashy Wipebuilder |
-| 1490 | 24 | Tammie Baechler |
-| 1491 | 23 | Mystie Malotte |
-| 1492 | 23 | Cinnanin |
-| 1493 | 23 | DuvaDova Ahava |
-| 1494 | 23 | Peachy Tiltpiece |
-| 1495 | 23 | Sunny Bricky |
+| 1475 | 25 | Sunny Bricky |
+| 1476 | 25 | Nina Martinez |
+| 1477 | 25 | Giggy Mover |
+| 1478 | 25 | LuLazer27 |
+| 1479 | 25 | Snoopie Johnson |
+| 1480 | 24 | Chelsea Pigg |
+| 1481 | 24 | Violet Mejia |
+| 1482 | 24 | Katiana Gonzalez |
+| 1483 | 24 | Jane M Tiller |
+| 1484 | 24 | Margarita Santana |
+| 1485 | 24 | Kriss Owens Uptegrove |
+| 1486 | 24 | Hannah White |
+| 1487 | 24 | Tameka Harrison |
+| 1488 | 24 | Snappy Blockzone |
+| 1489 | 24 | DTM0013 |
+| 1490 | 24 | Flashy Wipebuilder |
+| 1491 | 24 | Tammie Baechler |
+| 1492 | 23 | Mystie Malotte |
+| 1493 | 23 | Cinnanin |
+| 1494 | 23 | DuvaDova Ahava |
+| 1495 | 23 | Peachy Tiltpiece |
 | 1496 | 23 | Infini Agape |
 | 1497 | 23 | Elizabeth Ann Caro |
 | 1498 | 23 | BossBaby |
@@ -1656,18 +1656,18 @@
 | 1648 | 14 | Snippy Twister |
 | 1649 | 14 | Jolene Stieren |
 | 1650 | 14 | Christine Niles |
-| 1651 | 13 | Jason Ervin |
-| 1652 | 13 | Liz Aimé Acosta Guilarte |
-| 1653 | 13 | Jozette Smalarz |
-| 1654 | 13 | Karen Miller |
-| 1655 | 13 | Swanky Spinzone |
-| 1656 | 13 | juler |
-| 1657 | 13 | Frothy Pivotfall |
-| 1658 | 13 | Jackie Russo-Edens |
-| 1659 | 13 | Willedtra Griffin |
-| 1660 | 13 | Michelle Boyd |
-| 1661 | 13 | Bryce McGee |
-| 1662 | 13 | Lori Sohn |
+| 1651 | 14 | Lori Sohn |
+| 1652 | 13 | Jason Ervin |
+| 1653 | 13 | Liz Aimé Acosta Guilarte |
+| 1654 | 13 | Jozette Smalarz |
+| 1655 | 13 | Karen Miller |
+| 1656 | 13 | Swanky Spinzone |
+| 1657 | 13 | juler |
+| 1658 | 13 | Frothy Pivotfall |
+| 1659 | 13 | Jackie Russo-Edens |
+| 1660 | 13 | Willedtra Griffin |
+| 1661 | 13 | Michelle Boyd |
+| 1662 | 13 | Bryce McGee |
 | 1663 | 12 | Buddyblock |
 | 1664 | 12 | Loony Brickzone |
 | 1665 | 12 | Rachel |
@@ -1755,8 +1755,8 @@
 | 1747 | 8 | Ivory Glenn |
 | 1748 | 8 | Tony Tenas |
 | 1749 | 8 | Courtney Miller |
-| 1750 | 8 | Floyda Lynch |
-| 1751 | 7 | John Leslie |
+| 1750 | 8 | John Leslie |
+| 1751 | 8 | Floyda Lynch |
 | 1752 | 7 | Peaches3569 |
 | 1753 | 7 | Heather Smith-Carter |
 | 1754 | 7 | B |

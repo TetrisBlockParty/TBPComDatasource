@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:00:43 UTC
+# Standings for team2 as of 2026-06-08 08:01:19 UTC
 
 **Total Participants:** 2133
 
@@ -287,8 +287,8 @@
 | 279 | 319 | Ackerman 85 |
 | 280 | 318 | Pamela Raye |
 | 281 | 318 | Margie Ann Naffziger |
-| 282 | 316 | Jeanna Mendez |
-| 283 | 312 | Charles E Mccardell |
+| 282 | 316 | Charles E Mccardell |
+| 283 | 316 | Jeanna Mendez |
 | 284 | 310 | Amy Taylor Pomerenk |
 | 285 | 310 | Jenn |
 | 286 | 308 | Hector |
@@ -1684,12 +1684,12 @@
 | 1676 | 27 | Cozy Builder |
 | 1677 | 27 | BethAnn Pawlowski |
 | 1678 | 27 | Anna |
-| 1679 | 27 | Nicole Dunn |
-| 1680 | 27 | Witty Shatterline |
-| 1681 | 26 | gnat |
-| 1682 | 26 | Regina Lamb |
-| 1683 | 26 | Kimberley Marie |
-| 1684 | 26 | Silly Shatter |
+| 1679 | 27 | Witty Shatterline |
+| 1680 | 27 | Nicole Dunn |
+| 1681 | 26 | Regina Lamb |
+| 1682 | 26 | Kimberley Marie |
+| 1683 | 26 | Silly Shatter |
+| 1684 | 26 | gnat |
 | 1685 | 26 | Jackie Hayslip |
 | 1686 | 26 | Cathy Clark |
 | 1687 | 26 | Quirky Climber |
@@ -1703,17 +1703,17 @@
 | 1695 | 25 | Quirky Piecegrid |
 | 1696 | 25 | Crystal Owen Yocolano |
 | 1697 | 25 | John Rosales |
-| 1698 | 25 | ElizaThornberry |
-| 1699 | 25 | B.A. Watt |
-| 1700 | 25 | Crasher |
-| 1701 | 25 | Charlene Napier |
-| 1702 | 25 | Justin Pennington |
-| 1703 | 25 | Cindy Smith |
-| 1704 | 24 | Taderbug |
-| 1705 | 24 | Amh09 |
-| 1706 | 24 | Hope Ramirez |
-| 1707 | 24 | PixieGirl |
-| 1708 | 24 | Erica L Jenkins |
+| 1698 | 25 | Hope Ramirez |
+| 1699 | 25 | Justin Pennington |
+| 1700 | 25 | B.A. Watt |
+| 1701 | 25 | ElizaThornberry |
+| 1702 | 25 | Cindy Smith |
+| 1703 | 25 | Charlene Napier |
+| 1704 | 25 | Crasher |
+| 1705 | 24 | PixieGirl |
+| 1706 | 24 | Amh09 |
+| 1707 | 24 | Erica L Jenkins |
+| 1708 | 24 | Taderbug |
 | 1709 | 24 | Snippy Tilefall |
 | 1710 | 24 | Paula Smith |
 | 1711 | 24 | April Wright |
@@ -1729,20 +1729,20 @@
 | 1721 | 23 | Giggly Glider |
 | 1722 | 23 | Spicy Basepiece |
 | 1723 | 23 | Shirley Bates |
-| 1724 | 23 | Haley |
+| 1724 | 23 | Stephanie Fitzgerald |
 | 1725 | 23 | Linda Riegsecker |
-| 1726 | 23 | Saucy Clusterer |
-| 1727 | 23 | Cherry L. Salama |
-| 1728 | 23 | Loony Glider |
-| 1729 | 23 | Kevin Osbourne |
-| 1730 | 23 | Flashy Balanceblock |
-| 1731 | 23 | Groovy Snapbuild |
-| 1732 | 23 | Ashley Propst |
-| 1733 | 23 | Stephanie Fitzgerald |
-| 1734 | 23 | Amanda Raley |
-| 1735 | 22 | Mary Cook |
+| 1726 | 23 | Flashy Balanceblock |
+| 1727 | 23 | Haley |
+| 1728 | 23 | Kevin Osbourne |
+| 1729 | 23 | Loony Glider |
+| 1730 | 23 | Cherry L. Salama |
+| 1731 | 23 | Amanda Raley |
+| 1732 | 23 | Saucy Clusterer |
+| 1733 | 23 | Ashley Propst |
+| 1734 | 23 | Groovy Snapbuild |
+| 1735 | 22 | Merine Mott |
 | 1736 | 22 | Melanesia Springs |
-| 1737 | 22 | Merine Mott |
+| 1737 | 22 | Mary Cook |
 | 1738 | 22 | Nutty Cascader |
 | 1739 | 22 | Stacy Stickle |
 | 1740 | 22 | Amanda Hastings |
