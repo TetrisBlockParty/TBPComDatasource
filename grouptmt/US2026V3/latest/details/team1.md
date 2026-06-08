@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:55:19 UTC
+# Standings for team1 as of 2026-06-08 10:56:21 UTC
 
 **Total Participants:** 1778
 
@@ -343,9 +343,9 @@
 | 335 | 229 | De'Mear McKinney |
 | 336 | 227 | MACHETEEDDIE513 |
 | 337 | 227 | Chasem45 |
-| 338 | 224 | Asha Langford |
+| 338 | 226 | 大竹直之 |
 | 339 | 224 | Shanaa Germany Crittenden |
-| 340 | 223 | 大竹直之 |
+| 340 | 224 | Asha Langford |
 | 341 | 223 | Amy Lynn Leifheit |
 | 342 | 223 | Perky Pusher |
 | 343 | 222 | Hardtohandle91 |
@@ -1012,90 +1012,90 @@
 | 1004 | 63 | Tonny Williams |
 | 1005 | 62 | Tia Hazelton |
 | 1006 | 62 | Quirky Slammer |
-| 1007 | 62 | Shona ShayShay Jones |
+| 1007 | 62 | Spicy Hedgehog |
 | 1008 | 62 | Amihan |
 | 1009 | 62 | AnnaM |
-| 1010 | 62 | Spicy Hedgehog |
+| 1010 | 62 | Shona ShayShay Jones |
 | 1011 | 61 | Michelle Stanford-Page |
 | 1012 | 61 | Tonya Thomas |
-| 1013 | 61 | Rosalind Chatman |
-| 1014 | 60 | Bambam |
-| 1015 | 60 | Jennifer Endean |
-| 1016 | 60 | lookin |
-| 1017 | 60 | Juan Lewis |
-| 1018 | 60 | Demi Ovalle |
-| 1019 | 60 | Nigel Snyder |
-| 1020 | 60 | Tanesha Ga'sFinest Corbett |
-| 1021 | 60 | HS Arce |
-| 1022 | 60 | Tyrone Porter |
-| 1023 | 60 | Lynette Manning |
-| 1024 | 60 | Londa Londa |
-| 1025 | 60 | Ebie |
-| 1026 | 60 | Tellisa Payne |
-| 1027 | 60 | Chris Watson Draper |
+| 1013 | 61 | Ivery Lee Grays Jr. |
+| 1014 | 61 | Rosalind Chatman |
+| 1015 | 60 | Juan Lewis |
+| 1016 | 60 | Bambam |
+| 1017 | 60 | Jennifer Endean |
+| 1018 | 60 | lookin |
+| 1019 | 60 | Demi Ovalle |
+| 1020 | 60 | Lynette Manning |
+| 1021 | 60 | Nigel Snyder |
+| 1022 | 60 | Ebie |
+| 1023 | 60 | Tanesha Ga'sFinest Corbett |
+| 1024 | 60 | HS Arce |
+| 1025 | 60 | Tyrone Porter |
+| 1026 | 60 | Londa Londa |
+| 1027 | 60 | Sally Elizabeth Hopson |
 | 1028 | 60 | Anthony Intrabartolo |
 | 1029 | 60 | Yellowguy3 |
 | 1030 | 60 | kick it |
-| 1031 | 60 | Sally Elizabeth Hopson |
-| 1032 | 59 | Kween Pilot |
-| 1033 | 59 | Andrea Jackson |
+| 1031 | 60 | Tellisa Payne |
+| 1032 | 60 | Chris Watson Draper |
+| 1033 | 59 | Kween Pilot |
 | 1034 | 59 | Sweet BayBee |
-| 1035 | 59 | Robert Varnado |
-| 1036 | 59 | Wacky Spinfit |
-| 1037 | 59 | Smiley Tilebuilder |
-| 1038 | 58 | Brandy Way |
-| 1039 | 58 | Aihpos |
-| 1040 | 58 | Meeee |
-| 1041 | 58 | AleahKCH |
-| 1042 | 58 | CoaCoa Myles |
-| 1043 | 58 | Gabriela Hernandez |
-| 1044 | 58 | Brii Michelle Lamb |
+| 1035 | 59 | Andrea Jackson |
+| 1036 | 59 | Robert Varnado |
+| 1037 | 59 | Wacky Spinfit |
+| 1038 | 59 | Smiley Tilebuilder |
+| 1039 | 58 | Meeee |
+| 1040 | 58 | Brandy Way |
+| 1041 | 58 | Aihpos |
+| 1042 | 58 | AleahKCH |
+| 1043 | 58 | CoaCoa Myles |
+| 1044 | 58 | Gabriela Hernandez |
 | 1045 | 58 | Corbin Henry |
-| 1046 | 57 | Demetrice Buck Wilson |
-| 1047 | 57 | Vernon Hoyt |
-| 1048 | 57 | Warren Miller |
-| 1049 | 57 | Tina Criam |
-| 1050 | 57 | Ivery Lee Grays Jr. |
-| 1051 | 57 | Brave Balanceblock |
-| 1052 | 57 | Desire Rice |
-| 1053 | 57 | Elizabeth Clara |
-| 1054 | 56 | Christopher Wallace |
-| 1055 | 56 | QueenzMo |
+| 1046 | 58 | Brii Michelle Lamb |
+| 1047 | 57 | Warren Miller |
+| 1048 | 57 | Elizabeth Clara |
+| 1049 | 57 | Desire Rice |
+| 1050 | 57 | Brave Balanceblock |
+| 1051 | 57 | Tina Criam |
+| 1052 | 57 | Vernon Hoyt |
+| 1053 | 57 | Demetrice Buck Wilson |
+| 1054 | 56 | Lisa Ivy |
+| 1055 | 56 | Jodie |
 | 1056 | 56 | Tammy Collins |
-| 1057 | 56 | Fred Caston |
-| 1058 | 56 | Kayleah Washington |
-| 1059 | 56 | Maxine Williams |
-| 1060 | 56 | Jodie |
-| 1061 | 56 | Shemeka Bates |
+| 1057 | 56 | Chanel White |
+| 1058 | 56 | Christopher Wallace |
+| 1059 | 56 | QueenzMo |
+| 1060 | 56 | Fred Caston |
+| 1061 | 56 | Kayleah Washington |
 | 1062 | 56 | Arturo Hernandez II |
-| 1063 | 56 | Chanel White |
-| 1064 | 56 | Lisa Ivy |
+| 1063 | 56 | Shemeka Bates |
+| 1064 | 56 | Maxine Williams |
 | 1065 | 55 | KoolKimJay |
-| 1066 | 55 | Aanngie Aanngie |
+| 1066 | 55 | Nicole Coko Thomas |
 | 1067 | 55 | Kike Lua |
-| 1068 | 55 | Jackie Sanasay |
-| 1069 | 55 | Kyle Franklin |
-| 1070 | 55 | Nicole Coko Thomas |
+| 1068 | 55 | Kyle Franklin |
+| 1069 | 55 | Jackie Sanasay |
+| 1070 | 55 | Aanngie Aanngie |
 | 1071 | 55 | Cheery Clusterbuilder |
-| 1072 | 54 | Tez Mays |
-| 1073 | 54 | Mrs |
-| 1074 | 54 | Embracing Hair |
-| 1075 | 54 | Noni |
-| 1076 | 54 | Christina Wesley |
-| 1077 | 54 | Simone Dublin |
-| 1078 | 54 | rummy |
-| 1079 | 54 | Felicia Yahuah Johnson |
-| 1080 | 54 | Damien Fonseca |
-| 1081 | 54 | deeno |
+| 1072 | 54 | Embracing Hair |
+| 1073 | 54 | Felicia Yahuah Johnson |
+| 1074 | 54 | Mrs |
+| 1075 | 54 | Tez Mays |
+| 1076 | 54 | Noni |
+| 1077 | 54 | Christina Wesley |
+| 1078 | 54 | Simone Dublin |
+| 1079 | 54 | Damien Fonseca |
+| 1080 | 54 | deeno |
+| 1081 | 54 | rummy |
 | 1082 | 53 | Hoppy Rumbler |
-| 1083 | 53 | Clever Wrecker |
-| 1084 | 53 | Williams Candace |
+| 1083 | 53 | Williams Candace |
+| 1084 | 53 | Clever Wrecker |
 | 1085 | 53 | Xrandomx |
 | 1086 | 53 | Sagitterrorist |
 | 1087 | 52 | Cheery T-spin |
-| 1088 | 52 | L-Kamice Boykin |
+| 1088 | 52 | Ayanna James |
 | 1089 | 52 | Nancy Hartzell |
-| 1090 | 52 | Ayanna James |
+| 1090 | 52 | L-Kamice Boykin |
 | 1091 | 52 | Loopy Risepiece |
 | 1092 | 52 | Giggy Holder |
 | 1093 | 52 | Chummy Liner |
