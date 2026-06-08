@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:38:21 UTC
+# Standings for team2 as of 2026-06-08 09:38:42 UTC
 
 **Total Participants:** 2144
 
@@ -177,8 +177,8 @@
 | 169 | 550 | DomDomsNana |
 | 170 | 550 | Sully |
 | 171 | 550 | Shea |
-| 172 | 533 | Cool Balancer |
-| 173 | 533 | Spicy Risegrid |
+| 172 | 542 | Spicy Risegrid |
+| 173 | 533 | Cool Balancer |
 | 174 | 531 | Leigh Ann |
 | 175 | 529 | Mom |
 | 176 | 528 | Michelle Rich Burkhart |
@@ -226,18 +226,18 @@
 | 218 | 416 | Cristi Doris |
 | 219 | 416 | Lyric Price |
 | 220 | 414 | Daybreak |
-| 221 | 413 | H |
-| 222 | 413 | Jat |
+| 221 | 413 | Jat |
+| 222 | 413 | H |
 | 223 | 412 | Nikki Hayes |
-| 224 | 411 | Mookshake |
-| 225 | 411 | Sandy Lynn |
+| 224 | 411 | Sandy Lynn |
+| 225 | 411 | Mookshake |
 | 226 | 407 | Crystal Allen |
-| 227 | 405 | Amy Gregg |
-| 228 | 405 | MaddieCherie |
+| 227 | 405 | MaddieCherie |
+| 228 | 405 | Amy Gregg |
 | 229 | 404 | Goofy Gridclear |
 | 230 | 403 | Becca Marie |
-| 231 | 402 | Brenda Jones |
-| 232 | 402 | Michelle Luke Banta |
+| 231 | 402 | Michelle Luke Banta |
+| 232 | 402 | Brenda Jones |
 | 233 | 399 | Jeffrey Smith |
 | 234 | 398 | Kimmyc |
 | 235 | 395 | Justin McCray |
@@ -250,42 +250,42 @@
 | 242 | 382 | Rachel Nilles |
 | 243 | 380 | Bb |
 | 244 | 379 | Greta Warden |
-| 245 | 376 | Jamie Fenyus |
+| 245 | 376 | Traci Abern |
 | 246 | 376 | Chill Line |
-| 247 | 376 | Traci Abern |
+| 247 | 376 | Jamie Fenyus |
 | 248 | 375 | Branden Frankowski |
 | 249 | 375 | Brittni Lawrence |
-| 250 | 373 | Theresa Hollinger |
-| 251 | 373 | Hoppy Mover |
+| 250 | 373 | Hoppy Mover |
+| 251 | 373 | Theresa Hollinger |
 | 252 | 364 | Lindsey Ford |
 | 253 | 363 | Ratchet |
-| 254 | 362 | Hypee |
-| 255 | 359 | Crystal Poss |
-| 256 | 355 | Lora Via |
-| 257 | 354 | Sabrina Hardrick |
-| 258 | 352 | Charles E Mccardell |
-| 259 | 351 | Cathy Lee Stoneking |
-| 260 | 349 | Spicy Basepiece |
-| 261 | 347 | Fudgie Pie |
-| 262 | 347 | Jessica Lynn |
-| 263 | 340 | Marge Cromer |
-| 264 | 339 | Keri Mears |
-| 265 | 338 | Amie Marks |
-| 266 | 337 | Ashley Billiot Rhodes |
-| 267 | 337 | Adriana Daniela Agapie |
-| 268 | 331 | Shannon Wilson |
-| 269 | 328 | Tim Tim |
-| 270 | 328 | Xandrea Jones |
-| 271 | 327 | Jumpy Matchbuilder |
-| 272 | 327 | Chipper Stackbuilder |
-| 273 | 327 | Iesha Cupil |
-| 274 | 325 | Snappy Combo |
+| 254 | 362 | Lori Whitman |
+| 255 | 362 | Hypee |
+| 256 | 359 | Crystal Poss |
+| 257 | 355 | Lora Via |
+| 258 | 354 | Sabrina Hardrick |
+| 259 | 352 | Charles E Mccardell |
+| 260 | 351 | Cathy Lee Stoneking |
+| 261 | 349 | Spicy Basepiece |
+| 262 | 347 | Fudgie Pie |
+| 263 | 347 | Jessica Lynn |
+| 264 | 340 | Marge Cromer |
+| 265 | 339 | Keri Mears |
+| 266 | 338 | Amie Marks |
+| 267 | 337 | Ashley Billiot Rhodes |
+| 268 | 337 | Adriana Daniela Agapie |
+| 269 | 331 | Shannon Wilson |
+| 270 | 328 | Tim Tim |
+| 271 | 328 | Xandrea Jones |
+| 272 | 327 | Jumpy Matchbuilder |
+| 273 | 327 | Chipper Stackbuilder |
+| 274 | 327 | Iesha Cupil |
 | 275 | 325 | Flashy Twistline |
-| 276 | 324 | DayDreamer79 |
-| 277 | 324 | Swanky Fitline |
+| 276 | 325 | Snappy Combo |
+| 277 | 324 | DayDreamer79 |
 | 278 | 324 | Norma Ortiz |
-| 279 | 322 | Queen |
-| 280 | 322 | Lori Whitman |
+| 279 | 324 | Swanky Fitline |
+| 280 | 322 | Queen |
 | 281 | 322 | Pam Bauder Ludwig |
 | 282 | 320 | Linda Guay |
 | 283 | 319 | Ackerman 85 |
