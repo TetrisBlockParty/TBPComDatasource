@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:54:42 UTC
+# Standings for team4 as of 2026-06-08 08:55:19 UTC
 
 **Total Participants:** 1801
 
@@ -573,13 +573,13 @@
 | 565 | 128 | Denise Wilson |
 | 566 | 128 | Alizabeth Garcia |
 | 567 | 128 | Gean DeJesus |
-| 568 | 128 | Snow77white |
-| 569 | 127 | Perry Ransom |
-| 570 | 127 | Noa Lee |
-| 571 | 127 | Mc3003 |
-| 572 | 127 | Cheeky Climber |
-| 573 | 127 | Kellz M Bee |
-| 574 | 127 | Groovy Towerbuilder |
+| 568 | 128 | Groovy Towerbuilder |
+| 569 | 128 | Snow77white |
+| 570 | 127 | Perry Ransom |
+| 571 | 127 | Noa Lee |
+| 572 | 127 | Mc3003 |
+| 573 | 127 | Cheeky Climber |
+| 574 | 127 | Kellz M Bee |
 | 575 | 127 | Janae Harris |
 | 576 | 126 | Lisa Pie |
 | 577 | 126 | Vanessa Sykes |
@@ -650,41 +650,41 @@
 | 642 | 111 | Peachy Piecefit |
 | 643 | 111 | Wacky Brick |
 | 644 | 111 | Richard Bearse |
-| 645 | 110 | Fancy Rollfit |
-| 646 | 110 | Jennifer Brucz |
-| 647 | 110 | Giggy Splitter |
+| 645 | 111 | Giggy Bridgepiece |
+| 646 | 110 | Fancy Rollfit |
+| 647 | 110 | Jennifer Brucz |
 | 648 | 110 | Breezy Brickline |
-| 649 | 110 | Andreas Vs Shinky |
-| 650 | 110 | Luna |
-| 651 | 110 | Clever Brickzone |
-| 652 | 109 | Breezy Blockzone |
-| 653 | 109 | Joe Richard |
+| 649 | 110 | Giggy Splitter |
+| 650 | 110 | Andreas Vs Shinky |
+| 651 | 110 | Luna |
+| 652 | 110 | Clever Brickzone |
+| 653 | 109 | Breezy Blockzone |
 | 654 | 109 | Lisa Jones |
-| 655 | 109 | Playful Raccoon |
+| 655 | 109 | Joe Richard |
 | 656 | 109 | Tammy Wells |
-| 657 | 108 | sierrabeth |
-| 658 | 108 | Suzi Smas |
-| 659 | 108 | JustLessie |
-| 660 | 108 | SandyEva |
-| 661 | 108 | Miranda Brown |
-| 662 | 107 | Karr |
-| 663 | 107 | Haylee Talkington |
-| 664 | 107 | Bonique Bier |
-| 665 | 106 | Charlene Nicole Guidry |
-| 666 | 106 | Deana Teck |
-| 667 | 105 | Jennifer Evans Elliott |
-| 668 | 105 | Mar Mar |
-| 669 | 105 | Cherrel M. Causey |
-| 670 | 105 | Giggy Bridgepiece |
-| 671 | 105 | Joshua Garner |
-| 672 | 105 | Renita Jordan |
-| 673 | 105 | Heather Brown |
-| 674 | 105 | Surviving Be Back Soon |
-| 675 | 105 | Debby Muniz |
+| 657 | 109 | Playful Raccoon |
+| 658 | 108 | sierrabeth |
+| 659 | 108 | Suzi Smas |
+| 660 | 108 | JustLessie |
+| 661 | 108 | SandyEva |
+| 662 | 108 | Miranda Brown |
+| 663 | 107 | Karr |
+| 664 | 107 | Haylee Talkington |
+| 665 | 107 | Bonique Bier |
+| 666 | 106 | Charlene Nicole Guidry |
+| 667 | 106 | Deana Teck |
+| 668 | 105 | Jennifer Evans Elliott |
+| 669 | 105 | Mar Mar |
+| 670 | 105 | Cherrel M. Causey |
+| 671 | 105 | Heather Brown |
+| 672 | 105 | Joshua Garner |
+| 673 | 105 | Renita Jordan |
+| 674 | 105 | Debby Muniz |
+| 675 | 105 | Surviving Be Back Soon |
 | 676 | 104 | Mmm |
 | 677 | 104 | Tipsy Piecebuilder |
-| 678 | 104 | Eddie Fuller |
-| 679 | 104 | Yvette Johnson |
+| 678 | 104 | Yvette Johnson |
+| 679 | 104 | Eddie Fuller |
 | 680 | 104 | Goofy Riserbuilder |
 | 681 | 103 | Lush Twisterfit |
 | 682 | 103 | Angela Adamo-Tash |

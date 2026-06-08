@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:54:42 UTC
+# Standings for team2 as of 2026-06-08 08:55:19 UTC
 
 **Total Participants:** 2139
 
@@ -185,26 +185,26 @@
 | 177 | 515 | Loony Faller |
 | 178 | 505 | Judy Long |
 | 179 | 504 | Milad Arzani |
-| 180 | 498 | Kelly Rogers |
-| 181 | 497 | Amy Gale |
-| 182 | 495 | Samantha Carman |
-| 183 | 492 | Kaycie Shaffer |
-| 184 | 486 | Chirpy Grid |
-| 185 | 484 | Steven Craig |
-| 186 | 483 | Karen Reid Cenkush |
-| 187 | 480 | DukeDino |
-| 188 | 480 | Jacob Carpenter |
-| 189 | 476 | Sara Perkins |
-| 190 | 470 | Zesty Strikerbuilder |
-| 191 | 469 | Lashanda Bertram |
-| 192 | 467 | Lisa Underwood Desmond |
-| 193 | 466 | Mellzey |
+| 180 | 500 | Mellzey |
+| 181 | 498 | Kelly Rogers |
+| 182 | 497 | Amy Gale |
+| 183 | 495 | Samantha Carman |
+| 184 | 492 | Kaycie Shaffer |
+| 185 | 486 | Chirpy Grid |
+| 186 | 484 | Steven Craig |
+| 187 | 483 | Karen Reid Cenkush |
+| 188 | 480 | DukeDino |
+| 189 | 480 | Jacob Carpenter |
+| 190 | 476 | Sara Perkins |
+| 191 | 470 | Zesty Strikerbuilder |
+| 192 | 469 | Lashanda Bertram |
+| 193 | 467 | Lisa Underwood Desmond |
 | 194 | 457 | MegaPooh |
 | 195 | 453 | Ashley Green |
 | 196 | 453 | Kimberly Cowan |
 | 197 | 451 | Gill |
-| 198 | 449 | Danielle Blount |
-| 199 | 449 | Suki Jacobs |
+| 198 | 449 | Suki Jacobs |
+| 199 | 449 | Danielle Blount |
 | 200 | 449 | Snappy Blockbuilder |
 | 201 | 448 | Eric Drane |
 | 202 | 445 | Gabrielle Wilson |

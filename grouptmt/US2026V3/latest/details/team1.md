@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:54:42 UTC
+# Standings for team1 as of 2026-06-08 08:55:19 UTC
 
 **Total Participants:** 1764
 
@@ -25,7 +25,7 @@
 | 17 | 5141 | Hunter Rayborn |
 | 18 | 4249 | Cassidy Butler |
 | 19 | 3972 | Tekedra Wilson |
-| 20 | 3899 | Pdubbl3 |
+| 20 | 3919 | Pdubbl3 |
 | 21 | 3892 | Kkbk |
 | 22 | 3795 | jaimie |
 | 23 | 3721 | Chandler Spencer |
@@ -236,8 +236,8 @@
 | 228 | 330 | Dennis J Herron II |
 | 229 | 328 | Dion Gray |
 | 230 | 327 | Zachary Colegrove |
-| 231 | 326 | Christopher Dreamsareality McEachin |
-| 232 | 324 | Byron Mario Cawthon |
+| 231 | 326 | Byron Mario Cawthon |
+| 232 | 326 | Christopher Dreamsareality McEachin |
 | 233 | 323 | Bre Poston |
 | 234 | 323 | Heather Aurelia |
 | 235 | 322 | Rhonda Williams Warner |
@@ -449,14 +449,14 @@
 | 441 | 165 | Tanisha Taylor |
 | 442 | 165 | SceneGreenz Wali |
 | 443 | 164 | Rachael R Gull |
-| 444 | 164 | Dede Tate |
-| 445 | 164 | Giggy Clusterer |
-| 446 | 164 | Breezy Catcher |
-| 447 | 163 | Daring Blockclear |
-| 448 | 163 | Dandy Brickfit |
-| 449 | 162 | Twisty Cascadeclear |
-| 450 | 162 | Lauraly |
-| 451 | 162 | Kate Hancock Malicek |
+| 444 | 164 | Kate Hancock Malicek |
+| 445 | 164 | Dede Tate |
+| 446 | 164 | Giggy Clusterer |
+| 447 | 164 | Breezy Catcher |
+| 448 | 163 | Daring Blockclear |
+| 449 | 163 | Dandy Brickfit |
+| 450 | 162 | Twisty Cascadeclear |
+| 451 | 162 | Lauraly |
 | 452 | 162 | Speedy Stacky |
 | 453 | 161 | Devron Reedy |
 | 454 | 161 | boogeywoogey |
