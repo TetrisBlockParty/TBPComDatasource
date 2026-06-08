@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 20:32:21 UTC
+# Standings for team1 as of 2026-06-08 20:32:45 UTC
 
 **Total Participants:** 1866
 
@@ -155,12 +155,12 @@
 | 147 | 592 | Nutty Spinblock |
 | 148 | 591 | Tammye Turner |
 | 149 | 584 | Novaa |
-| 150 | 574 | Murg4dr01d |
-| 151 | 569 | Zachary Colegrove |
-| 152 | 566 | Trendalyn Webb |
-| 153 | 565 | Byron Mario Cawthon |
-| 154 | 561 | Carolynne Walker-Bell |
-| 155 | 556 | Peppy Piececlear |
+| 150 | 576 | Peppy Piececlear |
+| 151 | 574 | Murg4dr01d |
+| 152 | 569 | Zachary Colegrove |
+| 153 | 566 | Trendalyn Webb |
+| 154 | 565 | Byron Mario Cawthon |
+| 155 | 561 | Carolynne Walker-Bell |
 | 156 | 556 | Rolanda Williams |
 | 157 | 555 | Eugina Slater |
 | 158 | 552 | Katherine Short |
@@ -181,9 +181,9 @@
 | 173 | 515 | sha |
 | 174 | 513 | Sharon Cail |
 | 175 | 511 | Dizzy Dropper |
-| 176 | 505 | Marcheta Cervantez |
-| 177 | 501 | IThinkNot |
-| 178 | 497 | Crystal Anderson |
+| 176 | 507 | Crystal Anderson |
+| 177 | 505 | Marcheta Cervantez |
+| 178 | 501 | IThinkNot |
 | 179 | 496 | Dandy Brickfit |
 | 180 | 494 | DaVonte' Cretter |
 | 181 | 494 | Ty Øtg |
