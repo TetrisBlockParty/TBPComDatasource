@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:10:42 UTC
+# Standings for team4 as of 2026-06-08 14:11:20 UTC
 
 **Total Participants:** 1841
 
@@ -671,65 +671,65 @@
 | 663 | 120 | Jenn Wilson |
 | 664 | 120 | Glamorous Gracey |
 | 665 | 120 | George Marshburn |
-| 666 | 120 | Allysonjo Varela |
-| 667 | 120 | Anthony Edwards |
-| 668 | 120 | Groovy Matchgrid |
-| 669 | 120 | Giddy Basepiece |
-| 670 | 119 | Brittany Lentz |
-| 671 | 119 | Electric Storm |
-| 672 | 119 | Rhonda Dowling |
-| 673 | 119 | Daffney Starr |
-| 674 | 119 | GETBOXED! |
-| 675 | 118 | Jacqueline Arce |
-| 676 | 118 | Tactical_B |
-| 677 | 118 | Lamont |
-| 678 | 118 | Jennifer Naughton |
-| 679 | 117 | Susan Mary Kelley |
-| 680 | 117 | Amandacolle |
-| 681 | 117 | YenSid |
-| 682 | 117 | Kay |
-| 683 | 116 | Aaron Turner |
+| 666 | 120 | Giggy Splitter |
+| 667 | 120 | Allysonjo Varela |
+| 668 | 120 | Anthony Edwards |
+| 669 | 120 | Groovy Matchgrid |
+| 670 | 120 | Giddy Basepiece |
+| 671 | 119 | Brittany Lentz |
+| 672 | 119 | Electric Storm |
+| 673 | 119 | Rhonda Dowling |
+| 674 | 119 | Daffney Starr |
+| 675 | 119 | GETBOXED! |
+| 676 | 118 | Jacqueline Arce |
+| 677 | 118 | Tactical_B |
+| 678 | 118 | Lamont |
+| 679 | 118 | Jennifer Naughton |
+| 680 | 117 | Susan Mary Kelley |
+| 681 | 117 | Amandacolle |
+| 682 | 117 | YenSid |
+| 683 | 117 | Kay |
 | 684 | 116 | MsChelleAnn |
-| 685 | 115 | chuck |
+| 685 | 116 | Aaron Turner |
 | 686 | 115 | Misti Rich |
 | 687 | 115 | pussface |
-| 688 | 115 | Jasmine Turner |
-| 689 | 115 | Giggy Bridgepiece |
+| 688 | 115 | Giggy Bridgepiece |
+| 689 | 115 | chuck |
 | 690 | 115 | Dinah Mccall |
-| 691 | 114 | Deborah Ayliffe |
-| 692 | 114 | Emjae Tupaz-Rivera |
-| 693 | 114 | Loretta Hendricks |
-| 694 | 114 | Jennifer Brucz |
+| 691 | 115 | Jasmine Turner |
+| 692 | 114 | Jennifer Brucz |
+| 693 | 114 | Deborah Ayliffe |
+| 694 | 114 | Loretta Hendricks |
 | 695 | 114 | Tammy Wells |
-| 696 | 114 | Jason Moves |
-| 697 | 114 | Japexican Strong |
-| 698 | 113 | Deb 07 |
-| 699 | 113 | Melissa Anne |
-| 700 | 113 | Renzo Tonini |
-| 701 | 113 | mikey moo |
-| 702 | 113 | Esmond Johnson IV |
-| 703 | 113 | Butterfly |
-| 704 | 112 | Shaneé Staunton |
-| 705 | 112 | medicjessi |
+| 696 | 114 | Japexican Strong |
+| 697 | 114 | Emjae Tupaz-Rivera |
+| 698 | 114 | Jason Moves |
+| 699 | 113 | mikey moo |
+| 700 | 113 | Melissa Anne |
+| 701 | 113 | Esmond Johnson IV |
+| 702 | 113 | Deb 07 |
+| 703 | 113 | Renzo Tonini |
+| 704 | 113 | Butterfly |
+| 705 | 112 | Shaneé Staunton |
 | 706 | 112 | Khiem Hernandez |
-| 707 | 111 | Elena Marí |
-| 708 | 111 | Abby Waterman |
+| 707 | 112 | medicjessi |
+| 708 | 111 | Elena Marí |
 | 709 | 111 | Dizzy |
 | 710 | 111 | Peachy Piecefit |
-| 711 | 111 | shonaberry |
-| 712 | 111 | Lush Twisterfit |
-| 713 | 110 | Fancy Rollfit |
-| 714 | 110 | Breezy Brickline |
-| 715 | 110 | Lady Dolphin |
-| 716 | 110 | Giggy Splitter |
-| 717 | 110 | Clever Brickzone |
-| 718 | 109 | Playful Raccoon |
+| 711 | 111 | Abby Waterman |
+| 712 | 111 | shonaberry |
+| 713 | 111 | Lush Twisterfit |
+| 714 | 110 | Clever Brickzone |
+| 715 | 110 | Fancy Rollfit |
+| 716 | 110 | Lady Dolphin |
+| 717 | 110 | Breezy Brickline |
+| 718 | 109 | Tiffany Roberts |
 | 719 | 109 | Breezy Blockzone |
-| 720 | 109 | Tiffany Roberts |
+| 720 | 109 | Playful Raccoon |
 | 721 | 109 | Frisky Blocker |
 | 722 | 108 | KingCas |
-| 723 | 108 | sierrabeth |
-| 724 | 108 | Suzi Smas |
+| 723 | 108 | Suzi Smas |
+| 724 | 108 | sierrabeth |
 | 725 | 108 | Miranda Brown |
 | 726 | 108 | Cozy Patternline |
 | 727 | 108 | Chuck Burns |
@@ -737,16 +737,16 @@
 | 729 | 106 | Charlene Nicole Guidry |
 | 730 | 106 | Helen Bradley |
 | 731 | 106 | Deana Teck |
-| 732 | 105 | Surviving Be Back Soon |
+| 732 | 105 | Jennifer Evans Elliott |
 | 733 | 105 | Renita Jordan |
-| 734 | 105 | Mar Mar |
-| 735 | 105 | Debby Muniz |
-| 736 | 105 | Heather Brown |
-| 737 | 105 | Jennifer Evans Elliott |
+| 734 | 105 | Debby Muniz |
+| 735 | 105 | Heather Brown |
+| 736 | 105 | Mar Mar |
+| 737 | 105 | Surviving Be Back Soon |
 | 738 | 104 | JayJay Smith |
 | 739 | 104 | Goofy Riserbuilder |
-| 740 | 103 | Courtney Niichole |
-| 741 | 103 | Kayla Haddenham |
+| 740 | 103 | Kayla Haddenham |
+| 741 | 103 | Courtney Niichole |
 | 742 | 102 | Clever Fallzone |
 | 743 | 102 | Brenda Gustamantes |
 | 744 | 102 | Cail |
@@ -1182,27 +1182,27 @@
 | 1174 | 51 | Dorothy Mitchell |
 | 1175 | 51 | the repo |
 | 1176 | 51 | Peachy Linkbuilder |
-| 1177 | 51 | JJ Merc |
-| 1178 | 51 | Fancy Curvetile |
-| 1179 | 51 | LilRain |
-| 1180 | 50 | Heather Griffin |
-| 1181 | 50 | Alana Joe |
-| 1182 | 50 | Ciara Brown |
-| 1183 | 50 | Dewy |
-| 1184 | 50 | Swanky Matchfit |
-| 1185 | 50 | Funky Rollzone |
-| 1186 | 50 | Kimberly Nkwopara |
-| 1187 | 50 | ImagineKaijus |
-| 1188 | 50 | Suzie |
-| 1189 | 50 | Rebecca Sloan |
-| 1190 | 50 | Jada Jordyn Campbell |
-| 1191 | 50 | Jacqueline Wright |
-| 1192 | 50 | Erica Armstrong Baz |
-| 1193 | 50 | Natalie Lane |
-| 1194 | 50 | EpicBarista |
-| 1195 | 50 | Scott If |
-| 1196 | 49 | Sunny Tiltbuilder |
-| 1197 | 49 | Chummy Twistpiece |
+| 1177 | 51 | Chummy Twistpiece |
+| 1178 | 51 | JJ Merc |
+| 1179 | 51 | Fancy Curvetile |
+| 1180 | 51 | LilRain |
+| 1181 | 50 | Heather Griffin |
+| 1182 | 50 | Alana Joe |
+| 1183 | 50 | Ciara Brown |
+| 1184 | 50 | Dewy |
+| 1185 | 50 | Swanky Matchfit |
+| 1186 | 50 | Funky Rollzone |
+| 1187 | 50 | Kimberly Nkwopara |
+| 1188 | 50 | ImagineKaijus |
+| 1189 | 50 | Suzie |
+| 1190 | 50 | Rebecca Sloan |
+| 1191 | 50 | Jada Jordyn Campbell |
+| 1192 | 50 | Jacqueline Wright |
+| 1193 | 50 | Erica Armstrong Baz |
+| 1194 | 50 | Natalie Lane |
+| 1195 | 50 | EpicBarista |
+| 1196 | 50 | Scott If |
+| 1197 | 49 | Sunny Tiltbuilder |
 | 1198 | 49 | Merrick Marion |
 | 1199 | 49 | Christy Petty |
 | 1200 | 49 | Elizabeth Nicole Zahm |
