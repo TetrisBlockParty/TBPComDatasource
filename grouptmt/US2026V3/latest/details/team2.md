@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 17:18:40 UTC
+# Standings for team2 as of 2026-06-08 17:19:20 UTC
 
 **Total Participants:** 2225
 
@@ -395,27 +395,27 @@
 | 387 | 281 | AndrewandShela Gornik |
 | 388 | 280 | August Christy Lathrop |
 | 389 | 279 | Curly Windbreaker |
-| 390 | 279 | Avie Lou |
-| 391 | 278 | Amy Nicole McCanne |
-| 392 | 278 | Kellie Montgomery |
-| 393 | 277 | Brandy Chinelle |
-| 394 | 277 | Jennifer McClure |
-| 395 | 275 | Elliott Mikila |
-| 396 | 275 | Naomi Walker |
-| 397 | 273 | Jill Goff |
-| 398 | 271 | Ashley Voelz |
-| 399 | 269 | LittleHippoEars |
+| 390 | 279 | Jenni LeBlanc |
+| 391 | 279 | Avie Lou |
+| 392 | 278 | Amy Nicole McCanne |
+| 393 | 278 | Kellie Montgomery |
+| 394 | 277 | Brandy Chinelle |
+| 395 | 277 | Jennifer McClure |
+| 396 | 275 | Elliott Mikila |
+| 397 | 275 | Naomi Walker |
+| 398 | 273 | Jill Goff |
+| 399 | 271 | Ashley Voelz |
 | 400 | 269 | Jessica Christine |
-| 401 | 269 | Jenni LeBlanc |
+| 401 | 269 | LittleHippoEars |
 | 402 | 269 | Brooke Lynn Marie Adelaide |
 | 403 | 268 | Sam |
 | 404 | 268 | Olivia Jefferson |
 | 405 | 266 | Josh Vietz |
 | 406 | 266 | True |
 | 407 | 265 | Mikia Stokes |
-| 408 | 264 | Martha Lynn Wiggins |
+| 408 | 264 | Elizabeth Henry |
 | 409 | 264 | Dallas Runyan |
-| 410 | 264 | Elizabeth Henry |
+| 410 | 264 | Martha Lynn Wiggins |
 | 411 | 263 | Loopy Tower |
 | 412 | 262 | Erica South |
 | 413 | 260 | Michelle M Braley |
