@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 10:14:20 UTC
+# Standings for team1 as of 2026-06-08 10:14:41 UTC
 
 **Total Participants:** 1774
 
@@ -93,7 +93,7 @@
 | 85 | 921 | Therealdywoune Peay |
 | 86 | 920 | IamJust Neyamijah Washington Sr. |
 | 87 | 917 | Dynah Gordon |
-| 88 | 913 | Moomoo |
+| 88 | 916 | Moomoo |
 | 89 | 913 | MamaBear |
 | 90 | 911 | Richard Horton |
 | 91 | 908 | Danielle Barthelme |
@@ -349,30 +349,30 @@
 | 341 | 220 | Tamika Fisher |
 | 342 | 220 | rls |
 | 343 | 219 | Bambi Johnson |
-| 344 | 217 | Snippy Breaker |
-| 345 | 217 | Louise Parker |
-| 346 | 217 | Ashleyy Netchert |
-| 347 | 217 | LaShaun Stinson |
-| 348 | 214 | Kyra Coleman |
-| 349 | 214 | Stephen Providenti |
-| 350 | 213 | Lazy Tiltpiece |
-| 351 | 212 | Rachael R Gull |
+| 344 | 218 | Rachael R Gull |
+| 345 | 217 | Snippy Breaker |
+| 346 | 217 | Louise Parker |
+| 347 | 217 | Ashleyy Netchert |
+| 348 | 217 | LaShaun Stinson |
+| 349 | 214 | Kyra Coleman |
+| 350 | 214 | Stephen Providenti |
+| 351 | 213 | Lazy Tiltpiece |
 | 352 | 212 | Simply-Beautiful007 |
 | 353 | 211 | Nina Davis |
 | 354 | 211 | Charletha Williams |
 | 355 | 210 | Sarah Clark |
 | 356 | 210 | Alyssa Rae |
 | 357 | 209 | $hort Dog |
-| 358 | 209 | Antonia Wyche |
-| 359 | 209 | Guy Incognito |
+| 358 | 209 | Guy Incognito |
+| 359 | 209 | Antonia Wyche |
 | 360 | 209 | Phillip Vasquez |
 | 361 | 208 | izzybella |
 | 362 | 205 | Treneil Daffin |
 | 363 | 205 | OhNoZer0 |
 | 364 | 203 | Daris Swearington |
-| 365 | 202 | Peppy Glider |
-| 366 | 202 | Crystal Cheresnowsky |
-| 367 | 202 | Frankey Chi |
+| 365 | 202 | Crystal Cheresnowsky |
+| 366 | 202 | Frankey Chi |
+| 367 | 202 | Peppy Glider |
 | 368 | 202 | Messy Live |
 | 369 | 202 | Sammie Walker |
 | 370 | 202 | Poppy Buildout |
