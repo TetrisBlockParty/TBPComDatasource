@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 11:42:19 UTC
+# Standings for team1 as of 2026-06-08 11:42:43 UTC
 
 **Total Participants:** 1785
 
@@ -656,13 +656,13 @@
 | 648 | 114 | LAhoneybun82 |
 | 649 | 114 | Cranky Fall |
 | 650 | 113 | Lilly Brown |
-| 651 | 112 | TeeMaster Barber IsLyfe |
-| 652 | 112 | Jose Rodriguez |
-| 653 | 112 | DirtiestofMikes |
-| 654 | 112 | Peppy Wipeblock |
-| 655 | 112 | Marie Wilson |
-| 656 | 112 | Stephen Glaze |
-| 657 | 112 | Kim Holzmiller |
+| 651 | 113 | Kim Holzmiller |
+| 652 | 112 | TeeMaster Barber IsLyfe |
+| 653 | 112 | Jose Rodriguez |
+| 654 | 112 | DirtiestofMikes |
+| 655 | 112 | Peppy Wipeblock |
+| 656 | 112 | Marie Wilson |
+| 657 | 112 | Stephen Glaze |
 | 658 | 112 | GamerQueenDS |
 | 659 | 111 | Happy Blockpiece |
 | 660 | 111 | Taneka Howell |
