@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 09:12:20 UTC
+# Standings for team2 as of 2026-06-08 09:12:45 UTC
 
 **Total Participants:** 2141
 
@@ -1444,30 +1444,30 @@
 | 1436 | 42 | Flashy Blockfall |
 | 1437 | 42 | Christopher S Lawyer |
 | 1438 | 42 | June Salevao |
-| 1439 | 42 | Amanda Jungclaus |
-| 1440 | 42 | Chrissy Hess |
-| 1441 | 42 | Auntie YaYa |
-| 1442 | 42 | Shylo Bryant-Brunson |
-| 1443 | 42 | MJLovesHer#OneMistake |
-| 1444 | 42 | Clever Linkbuilder |
-| 1445 | 42 | April Owings |
-| 1446 | 42 | Toni Tortorici Humphryes |
-| 1447 | 42 | Henny Henny |
-| 1448 | 42 | Snazzy Smasher |
-| 1449 | 41 | Dandy Wiper |
-| 1450 | 41 | Jenny Coffer |
-| 1451 | 41 | Bold Shiftspin |
-| 1452 | 41 | Cammy Riley |
-| 1453 | 41 | Disguised Duck |
-| 1454 | 41 | Jenifer Seeley |
-| 1455 | 41 | Rachel Switala |
-| 1456 | 40 | Kimmi Knippel |
-| 1457 | 40 | Kris Roark |
-| 1458 | 40 | Michael Lott |
-| 1459 | 40 | Michelle |
-| 1460 | 40 | Cassey Feller |
-| 1461 | 40 | Twisty Tower |
-| 1462 | 40 | Robin Lamb |
+| 1439 | 42 | Robin Lamb |
+| 1440 | 42 | Twisty Tower |
+| 1441 | 42 | Amanda Jungclaus |
+| 1442 | 42 | Chrissy Hess |
+| 1443 | 42 | Auntie YaYa |
+| 1444 | 42 | Shylo Bryant-Brunson |
+| 1445 | 42 | MJLovesHer#OneMistake |
+| 1446 | 42 | Clever Linkbuilder |
+| 1447 | 42 | April Owings |
+| 1448 | 42 | Toni Tortorici Humphryes |
+| 1449 | 42 | Henny Henny |
+| 1450 | 42 | Snazzy Smasher |
+| 1451 | 41 | Dandy Wiper |
+| 1452 | 41 | Jenny Coffer |
+| 1453 | 41 | Bold Shiftspin |
+| 1454 | 41 | Disguised Duck |
+| 1455 | 41 | Jenifer Seeley |
+| 1456 | 41 | Cammy Riley |
+| 1457 | 41 | Rachel Switala |
+| 1458 | 40 | Kimmi Knippel |
+| 1459 | 40 | Michael Lott |
+| 1460 | 40 | Michelle |
+| 1461 | 40 | Cassey Feller |
+| 1462 | 40 | Kris Roark |
 | 1463 | 40 | Aislinn Lowe |
 | 1464 | 40 | Billie Jo Butler |
 | 1465 | 40 | Snazzy Linebuilder |
