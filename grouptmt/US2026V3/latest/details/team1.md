@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:14:44 UTC
+# Standings for team1 as of 2026-06-08 12:15:19 UTC
 
 **Total Participants:** 1787
 
@@ -190,8 +190,8 @@
 | 182 | 420 | Hyper Slamdrop |
 | 183 | 418 | Sheila Burnham |
 | 184 | 417 | Eugina Slater |
-| 185 | 414 | Simmone T. Kadiri |
-| 186 | 414 | Jenna Renee |
+| 185 | 414 | Jenna Renee |
+| 186 | 414 | Simmone T. Kadiri |
 | 187 | 413 | Murg4dr01d |
 | 188 | 412 | Dee McCool |
 | 189 | 409 | Lashaunda |
@@ -203,15 +203,15 @@
 | 195 | 397 | Karebear |
 | 196 | 389 | GrkGdess |
 | 197 | 389 | Roberta Lynn |
-| 198 | 387 | Crystal Anderson |
-| 199 | 387 | IThinkNot |
+| 198 | 387 | IThinkNot |
+| 199 | 387 | Crystal Anderson |
 | 200 | 386 | Po Marley |
 | 201 | 386 | Chantelle Lee |
 | 202 | 385 | Mic Balew |
-| 203 | 384 | Choc |
-| 204 | 384 | Christana Imjustbutton Stone |
-| 205 | 380 | boogeywoogey |
-| 206 | 380 | Felicia Cain |
+| 203 | 384 | Christana Imjustbutton Stone |
+| 204 | 384 | Choc |
+| 205 | 380 | Felicia Cain |
+| 206 | 380 | boogeywoogey |
 | 207 | 379 | Byron Mario Cawthon |
 | 208 | 377 | AF Cruz |
 | 209 | 375 | Joey Albright |
@@ -227,8 +227,8 @@
 | 219 | 364 | Michele Simpson |
 | 220 | 363 | Christina Rebecca |
 | 221 | 361 | John Staub |
-| 222 | 356 | Dedra M Prester |
-| 223 | 356 | Haley Bell |
+| 222 | 356 | Haley Bell |
+| 223 | 356 | Dedra M Prester |
 | 224 | 354 | Block King |
 | 225 | 354 | Keke Ferguson |
 | 226 | 352 | Jayjay Rich |
@@ -238,11 +238,11 @@
 | 230 | 343 | Yasmin Nakea Wright |
 | 231 | 341 | Tremaine Hiler |
 | 232 | 341 | Jawaun Daniels |
-| 233 | 340 | Spicy Risepiece |
-| 234 | 339 | Rachel Zimmerman |
+| 233 | 340 | Rachel Zimmerman |
+| 234 | 340 | Spicy Risepiece |
 | 235 | 338 | Brand Nu |
-| 236 | 333 | Qwlonda Shirrell |
-| 237 | 333 | Latisha Fairley |
+| 236 | 333 | Latisha Fairley |
+| 237 | 333 | Qwlonda Shirrell |
 | 238 | 331 | Tessa Felice Hill |
 | 239 | 331 | Coco |
 | 240 | 330 | Davionte DaeDae Hopson-Rodriguez |
