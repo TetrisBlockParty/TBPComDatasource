@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 16:38:20 UTC
+# Standings for team4 as of 2026-06-08 16:38:42 UTC
 
 **Total Participants:** 1869
 
@@ -214,8 +214,8 @@
 | 206 | 395 | Bobbie Harrell |
 | 207 | 392 | Plucky Shatterfit |
 | 208 | 387 | LastBoi |
-| 209 | 381 | Bean |
-| 210 | 381 | Tammy June |
+| 209 | 381 | Tammy June |
+| 210 | 381 | Bean |
 | 211 | 378 | Hwanger Land |
 | 212 | 376 | Sherry Mooney |
 | 213 | 375 | Dayna Arthurs |
@@ -227,18 +227,18 @@
 | 219 | 370 | Baysoph |
 | 220 | 368 | Lush Fitblock |
 | 221 | 367 | Brick House |
-| 222 | 366 | Randy M Hatch |
-| 223 | 366 | Celina DiBastiani |
+| 222 | 366 | Celina DiBastiani |
+| 223 | 366 | Randy M Hatch |
 | 224 | 366 | Alexis Cor |
 | 225 | 365 | Jackie Miller |
 | 226 | 363 | Aramat |
 | 227 | 362 | Dazzle Dragon |
 | 228 | 360 | Holly Wessel |
 | 229 | 360 | Kimberly Civinski |
-| 230 | 359 | Leslie Ann Carter |
-| 231 | 359 | BCO22 |
-| 232 | 359 | Chiquita Blue |
-| 233 | 359 | Debby Ruof |
+| 230 | 359 | Debby Ruof |
+| 231 | 359 | Chiquita Blue |
+| 232 | 359 | Leslie Ann Carter |
+| 233 | 359 | BCO22 |
 | 234 | 358 | Jackie Polanco |
 | 235 | 357 | MomyLiz |
 | 236 | 355 | Colin |
@@ -260,11 +260,11 @@
 | 252 | 323 | Tipsy Zonebuilder |
 | 253 | 322 | Tipsy Builderline |
 | 254 | 321 | Waxboss |
-| 255 | 320 | Snippy Splitter |
-| 256 | 320 | Brooke Bauer |
-| 257 | 320 | TJ |
-| 258 | 318 | Lucy Honer |
-| 259 | 318 | Patrick Alley |
+| 255 | 320 | TJ |
+| 256 | 320 | Snippy Splitter |
+| 257 | 320 | Brooke Bauer |
+| 258 | 318 | Patrick Alley |
+| 259 | 318 | Lucy Honer |
 | 260 | 315 | Maria Castillo |
 | 261 | 315 | Spicy Chicken |
 | 262 | 315 | Morgan Stevens |
@@ -337,65 +337,65 @@
 | 329 | 255 | Britney Kitora |
 | 330 | 252 | Dawn Phelps |
 | 331 | 251 | EL Booger |
-| 332 | 251 | Jj Johnson |
-| 333 | 251 | Jenn Norcross |
-| 334 | 249 | Brennan Shea Greene |
-| 335 | 247 | Shauna Davis |
+| 332 | 251 | Jenn Norcross |
+| 333 | 251 | Jj Johnson |
+| 334 | 250 | kellie |
+| 335 | 249 | Brennan Shea Greene |
 | 336 | 247 | Bridget Stevens |
-| 337 | 245 | Toon Up |
-| 338 | 244 | Lisa lisa |
-| 339 | 243 | jojo |
-| 340 | 243 | Flashy Shatterer |
-| 341 | 242 | Merritt Brandt |
-| 342 | 241 | Alma López Morales |
+| 337 | 247 | Shauna Davis |
+| 338 | 245 | Toon Up |
+| 339 | 244 | Lisa lisa |
+| 340 | 243 | jojo |
+| 341 | 243 | Flashy Shatterer |
+| 342 | 242 | Merritt Brandt |
 | 343 | 241 | Lanelva Tiredofbs Marshall |
-| 344 | 241 | kellie |
+| 344 | 241 | Alma López Morales |
 | 345 | 240 | Maurice DeJean |
 | 346 | 240 | Swanky Brickzone |
 | 347 | 240 | Jaci Marie |
-| 348 | 239 | bollo |
-| 349 | 239 | Bouncy |
-| 350 | 239 | Slinky Column |
+| 348 | 239 | Bouncy |
+| 349 | 239 | Slinky Column |
+| 350 | 239 | bollo |
 | 351 | 239 | Lively Cascadebuilder |
 | 352 | 238 | Jessica Jones Bolton |
 | 353 | 238 | Tara Delay Hill |
-| 354 | 237 | Deborah Silberg |
-| 355 | 237 | Beth Belanger |
-| 356 | 237 | Jazzy Gridder |
+| 354 | 237 | Jazzy Gridder |
+| 355 | 237 | Deborah Silberg |
+| 356 | 237 | Beth Belanger |
 | 357 | 233 | Dizzy Slammer |
 | 358 | 233 | Frothy Pattern |
 | 359 | 232 | Carla Woodard |
-| 360 | 230 | gabs |
-| 361 | 230 | Nerdy Faller |
+| 360 | 230 | Nerdy Faller |
+| 361 | 230 | gabs |
 | 362 | 229 | Chonda OhanaMomma Michelle |
-| 363 | 229 | farfromlocal |
-| 364 | 229 | Marcus Chavis |
+| 363 | 229 | Marcus Chavis |
+| 364 | 229 | Melika Zeheb |
 | 365 | 229 | Shawna Downey |
-| 366 | 229 | Melika Zeheb |
+| 366 | 229 | farfromlocal |
 | 367 | 228 | Shiny Brick |
 | 368 | 228 | Andrick |
 | 369 | 227 | Kimyatta Cavin |
 | 370 | 226 | Susan Stofberg Beltran |
 | 371 | 226 | Buddyblock |
-| 372 | 225 | ariel |
+| 372 | 225 | Luna |
 | 373 | 225 | Knijur Callins |
-| 374 | 225 | Luna |
-| 375 | 224 | Ashley Jenkins |
-| 376 | 224 | Mark Fitch Jr. |
+| 374 | 225 | ariel |
+| 375 | 224 | Mark Fitch Jr. |
+| 376 | 224 | Ashley Jenkins |
 | 377 | 224 | Betsy Froemming |
 | 378 | 223 | Cindy |
-| 379 | 222 | Snow77white |
-| 380 | 222 | Cheeky Fallzone |
+| 379 | 222 | Cheeky Fallzone |
+| 380 | 222 | Snow77white |
 | 381 | 221 | Groovy Towerbuilder |
 | 382 | 220 | Groovy Cluster |
 | 383 | 220 | Goofy Linkmatch |
 | 384 | 220 | Anthony Magaraci |
 | 385 | 220 | Sarah Montagne Forsberg |
 | 386 | 220 | Mrs |
-| 387 | 219 | Tiffany Smith |
+| 387 | 219 | JoAnn Summerlot Ratliff |
 | 388 | 219 | Dan Butcher |
 | 389 | 219 | Crystal Hammonds |
-| 390 | 219 | JoAnn Summerlot Ratliff |
+| 390 | 219 | Tiffany Smith |
 | 391 | 218 | Codey Haffner |
 | 392 | 217 | LeRoy jenkins |
 | 393 | 216 | Swanky Snapgrid |

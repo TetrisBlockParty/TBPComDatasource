@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 16:38:20 UTC
+# Standings for team1 as of 2026-06-08 16:38:42 UTC
 
 **Total Participants:** 1825
 
@@ -285,12 +285,12 @@
 | 277 | 316 | Randizzle |
 | 278 | 315 | StingerD |
 | 279 | 314 | Rayya Kiser |
-| 280 | 310 | Clever Fitblock |
-| 281 | 309 | Amber Wilson |
-| 282 | 309 | Brave Clearbuilder |
-| 283 | 305 | Salim Thugger |
-| 284 | 303 | Queenie Perry |
-| 285 | 302 | Ann Chung |
+| 280 | 312 | Ann Chung |
+| 281 | 310 | Clever Fitblock |
+| 282 | 309 | Amber Wilson |
+| 283 | 309 | Brave Clearbuilder |
+| 284 | 305 | Salim Thugger |
+| 285 | 303 | Queenie Perry |
 | 286 | 300 | Slinky Brickmatch |
 | 287 | 300 | Sade Goodwine |
 | 288 | 300 | Nerdy Blockpiece |
