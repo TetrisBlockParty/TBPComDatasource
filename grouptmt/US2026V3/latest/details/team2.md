@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 14:42:20 UTC
+# Standings for team2 as of 2026-06-08 14:42:43 UTC
 
 **Total Participants:** 2185
 
@@ -313,52 +313,52 @@
 | 305 | 331 | Shannon Wilson |
 | 306 | 329 | Jennifer Lalk |
 | 307 | 328 | Xandrea Jones |
-| 308 | 328 | Kay |
-| 309 | 327 | Jumpy Matchbuilder |
-| 310 | 327 | Iesha Cupil |
-| 311 | 325 | Snappy Combo |
-| 312 | 325 | Flashy Twistline |
-| 313 | 324 | Norma Ortiz |
-| 314 | 324 | Steven |
-| 315 | 323 | Jeanna Mendez |
-| 316 | 323 | Kelly Vedder |
-| 317 | 322 | Pam Bauder Ludwig |
-| 318 | 321 | Bianca Woodruff |
-| 319 | 320 | Jason Cunningham |
-| 320 | 320 | Linda Guay |
-| 321 | 320 | Zesty Zoney |
-| 322 | 320 | marsam |
-| 323 | 318 | Margie Ann Naffziger |
-| 324 | 318 | Pamela Raye |
-| 325 | 317 | Karly Moore |
-| 326 | 314 | RaeRae |
-| 327 | 311 | Aldotfus Williams |
-| 328 | 310 | Amy Taylor Pomerenk |
-| 329 | 310 | Jenn |
-| 330 | 308 | Hector |
-| 331 | 306 | Brittney Williams |
-| 332 | 306 | Ray Daisy |
-| 333 | 305 | Havik Whitfield |
-| 334 | 305 | Logan Duffey |
-| 335 | 303 | Jenny |
-| 336 | 300 | Starvinmarvin |
-| 337 | 300 | Patricia Carroll |
-| 338 | 300 | Sarah Rodriguez |
-| 339 | 300 | Melisa |
-| 340 | 299 | Kathryn |
-| 341 | 299 | Jennifer Covington |
-| 342 | 299 | Alicia Kinney |
-| 343 | 298 | Rob Owens |
-| 344 | 298 | Kim Hunt |
-| 345 | 296 | Kathleen Keogh Van Schoyck |
-| 346 | 295 | Sarah Jane Gorsuch |
-| 347 | 295 | James Ward |
-| 348 | 292 | Boldy Fitclear |
-| 349 | 292 | Tina Marie |
-| 350 | 291 | Brittany Mathis |
-| 351 | 290 | Dad |
-| 352 | 290 | Carolyn McNaughton |
-| 353 | 288 | Giggly Wipepiece |
+| 308 | 328 | Giggly Wipepiece |
+| 309 | 328 | Kay |
+| 310 | 327 | Jumpy Matchbuilder |
+| 311 | 327 | Iesha Cupil |
+| 312 | 325 | Snappy Combo |
+| 313 | 325 | Flashy Twistline |
+| 314 | 324 | Norma Ortiz |
+| 315 | 324 | Steven |
+| 316 | 323 | Jeanna Mendez |
+| 317 | 323 | Kelly Vedder |
+| 318 | 322 | Pam Bauder Ludwig |
+| 319 | 321 | Bianca Woodruff |
+| 320 | 320 | Jason Cunningham |
+| 321 | 320 | Linda Guay |
+| 322 | 320 | Zesty Zoney |
+| 323 | 320 | marsam |
+| 324 | 318 | Margie Ann Naffziger |
+| 325 | 318 | Pamela Raye |
+| 326 | 317 | Karly Moore |
+| 327 | 314 | RaeRae |
+| 328 | 311 | Aldotfus Williams |
+| 329 | 310 | Amy Taylor Pomerenk |
+| 330 | 310 | Jenn |
+| 331 | 308 | Hector |
+| 332 | 306 | Brittney Williams |
+| 333 | 306 | Ray Daisy |
+| 334 | 305 | Havik Whitfield |
+| 335 | 305 | Logan Duffey |
+| 336 | 303 | Jenny |
+| 337 | 300 | Starvinmarvin |
+| 338 | 300 | Patricia Carroll |
+| 339 | 300 | Sarah Rodriguez |
+| 340 | 300 | Melisa |
+| 341 | 299 | Kathryn |
+| 342 | 299 | Jennifer Covington |
+| 343 | 299 | Alicia Kinney |
+| 344 | 298 | Rob Owens |
+| 345 | 298 | Kim Hunt |
+| 346 | 296 | Kathleen Keogh Van Schoyck |
+| 347 | 295 | Sarah Jane Gorsuch |
+| 348 | 295 | James Ward |
+| 349 | 292 | Boldy Fitclear |
+| 350 | 292 | Tina Marie |
+| 351 | 291 | Brittany Mathis |
+| 352 | 290 | Dad |
+| 353 | 290 | Carolyn McNaughton |
 | 354 | 286 | Kathy Strickland |
 | 355 | 285 | Boldy Wobbler |
 | 356 | 283 | Hilliary Beyer |
@@ -441,8 +441,8 @@
 | 433 | 230 | Renee Siems |
 | 434 | 229 | MUMBLES |
 | 435 | 229 | Funway998 |
-| 436 | 229 | Sandra Ruiz |
-| 437 | 229 | Shawn Jensen |
+| 436 | 229 | Shawn Jensen |
+| 437 | 229 | Sandra Ruiz |
 | 438 | 228 | Christy Diane Escobar |
 | 439 | 228 | Jackie Walker |
 | 440 | 227 | Laura Melton |
@@ -1425,84 +1425,84 @@
 | 1417 | 50 | Samantha Rhone |
 | 1418 | 50 | Tessa Kalili |
 | 1419 | 50 | Shannon Miller- Cooley |
-| 1420 | 50 | Dawn Thuringer-Baird |
-| 1421 | 50 | Mandy |
-| 1422 | 50 | Timone907 |
-| 1423 | 50 | Mike Honcho |
-| 1424 | 50 | Brittany Nichole Ellenburg |
-| 1425 | 50 | Goob277 |
-| 1426 | 50 | Jami Borges |
-| 1427 | 50 | Whitt |
-| 1428 | 50 | Lakeisha Ryder |
-| 1429 | 50 | Christina Michelle Wilson |
-| 1430 | 50 | Jennifer Wymer |
-| 1431 | 50 | Daring Spinzone |
-| 1432 | 50 | Tabitha Palen |
-| 1433 | 49 | Lindsey Butler |
-| 1434 | 49 | Slinky Glidezone |
-| 1435 | 49 | Giggly Spinblock |
-| 1436 | 49 | unvoiced |
-| 1437 | 49 | Milwaukee Area Cleaning |
-| 1438 | 49 | Donna R. Banks |
-| 1439 | 49 | Katie Magner |
-| 1440 | 49 | Angi Carter |
-| 1441 | 49 | Jara Zavala |
-| 1442 | 49 | puppy mom |
-| 1443 | 48 | Catalina Castro |
-| 1444 | 48 | Amy ATen |
-| 1445 | 48 | Jodi Schessler Konsella |
-| 1446 | 48 | CowboyChalie |
-| 1447 | 48 | Laura Zavala |
-| 1448 | 48 | Jaelyn Orr |
-| 1449 | 48 | Glitzy Stack |
-| 1450 | 48 | Amy |
-| 1451 | 48 | Hoppy Gridder |
-| 1452 | 48 | Krystle McCaslin |
-| 1453 | 48 | Annie Hebdon |
-| 1454 | 48 | Katelynn Hunt |
-| 1455 | 48 | Flynn Flibble |
-| 1456 | 47 | Ozge Akgun Tokat |
-| 1457 | 47 | SarahandAaron Prim |
-| 1458 | 47 | Spicy Enchilada |
-| 1459 | 47 | sam |
-| 1460 | 47 | Bruce Bower |
-| 1461 | 47 | Chey |
-| 1462 | 47 | Snippy Tilefall |
-| 1463 | 47 | Angela Knighton |
-| 1464 | 46 | Charles Dwayne |
-| 1465 | 46 | Spunky Snapfall |
-| 1466 | 46 | Elizabeth Barnhart Floyd |
-| 1467 | 46 | Chipper Patternblock |
-| 1468 | 46 | Octavius Walker |
-| 1469 | 46 | Collins |
-| 1470 | 46 | Matthew Black |
-| 1471 | 46 | Kodi Gay |
-| 1472 | 46 | Sassafras Cass |
-| 1473 | 45 | Witty Brickster |
-| 1474 | 45 | Chill Wipegrid |
-| 1475 | 45 | Nikki |
-| 1476 | 45 | Missy Stevens |
-| 1477 | 45 | JEEPER |
-| 1478 | 45 | Frothy Cascader |
-| 1479 | 45 | Nora Buchan |
-| 1480 | 45 | Flashy Blockfall |
-| 1481 | 45 | Jennifer Nelson |
-| 1482 | 45 | Gail Flory |
-| 1483 | 45 | Giggy Snapper |
-| 1484 | 45 | STARFIRE |
-| 1485 | 45 | Brandy Moore |
-| 1486 | 45 | Wendy Morrison |
-| 1487 | 44 | Nicole Dyer |
-| 1488 | 44 | Lisa |
-| 1489 | 44 | Dustie Benefield |
-| 1490 | 44 | Sandra Betz |
-| 1491 | 44 | William Richardson |
-| 1492 | 44 | Brenda Leonard |
-| 1493 | 44 | Crafty Shatterer |
-| 1494 | 44 | Melinda Rausch |
-| 1495 | 44 | Brittany Russell |
-| 1496 | 44 | Denise Singleton |
-| 1497 | 44 | Lori Antrim Nichols |
+| 1420 | 50 | Mandy |
+| 1421 | 50 | Dawn Thuringer-Baird |
+| 1422 | 50 | Wendy Morrison |
+| 1423 | 50 | Timone907 |
+| 1424 | 50 | Mike Honcho |
+| 1425 | 50 | Brittany Nichole Ellenburg |
+| 1426 | 50 | Goob277 |
+| 1427 | 50 | Jami Borges |
+| 1428 | 50 | Whitt |
+| 1429 | 50 | Lakeisha Ryder |
+| 1430 | 50 | Christina Michelle Wilson |
+| 1431 | 50 | Jennifer Wymer |
+| 1432 | 50 | Daring Spinzone |
+| 1433 | 50 | Tabitha Palen |
+| 1434 | 49 | Lindsey Butler |
+| 1435 | 49 | Slinky Glidezone |
+| 1436 | 49 | Giggly Spinblock |
+| 1437 | 49 | Angi Carter |
+| 1438 | 49 | puppy mom |
+| 1439 | 49 | Jara Zavala |
+| 1440 | 49 | Katie Magner |
+| 1441 | 49 | Donna R. Banks |
+| 1442 | 49 | Milwaukee Area Cleaning |
+| 1443 | 49 | unvoiced |
+| 1444 | 48 | CowboyChalie |
+| 1445 | 48 | Laura Zavala |
+| 1446 | 48 | Jodi Schessler Konsella |
+| 1447 | 48 | Amy ATen |
+| 1448 | 48 | Catalina Castro |
+| 1449 | 48 | Jaelyn Orr |
+| 1450 | 48 | Glitzy Stack |
+| 1451 | 48 | Amy |
+| 1452 | 48 | Hoppy Gridder |
+| 1453 | 48 | Krystle McCaslin |
+| 1454 | 48 | Annie Hebdon |
+| 1455 | 48 | Katelynn Hunt |
+| 1456 | 48 | Flynn Flibble |
+| 1457 | 47 | Ozge Akgun Tokat |
+| 1458 | 47 | SarahandAaron Prim |
+| 1459 | 47 | Spicy Enchilada |
+| 1460 | 47 | sam |
+| 1461 | 47 | Bruce Bower |
+| 1462 | 47 | Chey |
+| 1463 | 47 | Snippy Tilefall |
+| 1464 | 47 | Angela Knighton |
+| 1465 | 46 | Charles Dwayne |
+| 1466 | 46 | Chipper Patternblock |
+| 1467 | 46 | Octavius Walker |
+| 1468 | 46 | Elizabeth Barnhart Floyd |
+| 1469 | 46 | Spunky Snapfall |
+| 1470 | 46 | Collins |
+| 1471 | 46 | Matthew Black |
+| 1472 | 46 | Kodi Gay |
+| 1473 | 46 | Sassafras Cass |
+| 1474 | 45 | Witty Brickster |
+| 1475 | 45 | Chill Wipegrid |
+| 1476 | 45 | Nikki |
+| 1477 | 45 | Missy Stevens |
+| 1478 | 45 | JEEPER |
+| 1479 | 45 | Frothy Cascader |
+| 1480 | 45 | Nora Buchan |
+| 1481 | 45 | Brandy Moore |
+| 1482 | 45 | Flashy Blockfall |
+| 1483 | 45 | STARFIRE |
+| 1484 | 45 | Jennifer Nelson |
+| 1485 | 45 | Gail Flory |
+| 1486 | 45 | Giggy Snapper |
+| 1487 | 44 | Lori Antrim Nichols |
+| 1488 | 44 | Denise Singleton |
+| 1489 | 44 | Melinda Rausch |
+| 1490 | 44 | Crafty Shatterer |
+| 1491 | 44 | Brenda Leonard |
+| 1492 | 44 | Dustie Benefield |
+| 1493 | 44 | William Richardson |
+| 1494 | 44 | Nicole Dyer |
+| 1495 | 44 | Sandra Betz |
+| 1496 | 44 | Lisa |
+| 1497 | 44 | Brittany Russell |
 | 1498 | 44 | Tam |
 | 1499 | 44 | Cuca Perez |
 | 1500 | 44 | Erica Abreu |
@@ -1514,18 +1514,18 @@
 | 1506 | 43 | Betty Muise |
 | 1507 | 43 | Fluffypuffin |
 | 1508 | 43 | Kayla Faulkiner |
-| 1509 | 43 | Michelle Brown |
-| 1510 | 43 | Ashley Parrish |
+| 1509 | 43 | Quirky Shifter |
+| 1510 | 43 | Michelle Brown |
 | 1511 | 43 | Maurice Bethel |
-| 1512 | 43 | Patricia Ann Tondreault Hammonds |
-| 1513 | 43 | Paula Stell |
-| 1514 | 43 | Quirky Shifter |
+| 1512 | 43 | Ashley Parrish |
+| 1513 | 43 | Patricia Ann Tondreault Hammonds |
+| 1514 | 43 | Paula Stell |
 | 1515 | 43 | Snoop |
-| 1516 | 42 | Christopher S Lawyer |
-| 1517 | 42 | Amanda Jungclaus |
+| 1516 | 42 | June Salevao |
+| 1517 | 42 | Chrissy Hess |
 | 1518 | 42 | Peachy Builderpiece |
-| 1519 | 42 | Chrissy Hess |
-| 1520 | 42 | June Salevao |
+| 1519 | 42 | Amanda Jungclaus |
+| 1520 | 42 | Christopher S Lawyer |
 | 1521 | 42 | Amanda |
 | 1522 | 42 | April Owings |
 | 1523 | 42 | Henny Henny |
@@ -1535,18 +1535,18 @@
 | 1527 | 42 | Auntie YaYa |
 | 1528 | 42 | Clever Linkbuilder |
 | 1529 | 41 | Jenny Coffer |
-| 1530 | 41 | Jenifer Seeley |
-| 1531 | 41 | Bold Shiftspin |
-| 1532 | 41 | Cammy Riley |
-| 1533 | 41 | Rachel Switala |
-| 1534 | 41 | Disguised Duck |
-| 1535 | 40 | Cassey Feller |
-| 1536 | 40 | Jennifer Bryant |
-| 1537 | 40 | B.A. Watt |
-| 1538 | 40 | Chris Wilber |
-| 1539 | 40 | Katie Thacker |
-| 1540 | 40 | Tabetha Cooper |
-| 1541 | 40 | LaChalle Shay |
+| 1530 | 41 | Bold Shiftspin |
+| 1531 | 41 | Jenifer Seeley |
+| 1532 | 41 | Rachel Switala |
+| 1533 | 41 | Disguised Duck |
+| 1534 | 41 | Cammy Riley |
+| 1535 | 40 | Jennifer Bryant |
+| 1536 | 40 | B.A. Watt |
+| 1537 | 40 | Chris Wilber |
+| 1538 | 40 | Katie Thacker |
+| 1539 | 40 | Cassey Feller |
+| 1540 | 40 | LaChalle Shay |
+| 1541 | 40 | Tabetha Cooper |
 | 1542 | 40 | Jewels |
 | 1543 | 40 | Michael Lott |
 | 1544 | 40 | Kyle |
