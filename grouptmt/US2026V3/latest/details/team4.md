@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:50:42 UTC
+# Standings for team4 as of 2026-06-08 08:51:20 UTC
 
 **Total Participants:** 1800
 
@@ -417,12 +417,12 @@
 | 409 | 180 | EvoKitty |
 | 410 | 180 | Goofy Linkmatch |
 | 411 | 180 | Chilly Pivot |
-| 412 | 180 | Dan Butcher |
-| 413 | 180 | Silly Rollbuilder |
-| 414 | 179 | LaTanya GeminiondaRise Johnson |
-| 415 | 178 | Deva Marie Barber |
-| 416 | 178 | Alexsandra Hill |
-| 417 | 178 | Miss Beast |
+| 412 | 180 | Miss Beast |
+| 413 | 180 | Dan Butcher |
+| 414 | 180 | Silly Rollbuilder |
+| 415 | 179 | LaTanya GeminiondaRise Johnson |
+| 416 | 178 | Deva Marie Barber |
+| 417 | 178 | Alexsandra Hill |
 | 418 | 178 | Linda |
 | 419 | 176 | Dena Lynn Rogers |
 | 420 | 176 | Erik Clary |
