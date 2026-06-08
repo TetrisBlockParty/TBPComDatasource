@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 00:38:20 UTC
+# Standings for team2 as of 2026-06-08 00:38:41 UTC
 
 **Total Participants:** 1984
 
@@ -153,22 +153,22 @@
 | 145 | 577 | Lindsay Klemp |
 | 146 | 574 | Brandy McCune Reep |
 | 147 | 573 | Kathleen Dumbazz |
-| 148 | 554 | Cathy Tippett |
-| 149 | 553 | Jamie Jones |
-| 150 | 551 | Jason Cook |
-| 151 | 550 | DomDomsNana |
-| 152 | 550 | Sully |
-| 153 | 540 | Jgato |
-| 154 | 538 | Amanda Sikes |
-| 155 | 537 | Nutty Curver |
-| 156 | 535 | Sarah Mccolgan |
-| 157 | 534 | Zappy Pattern |
-| 158 | 527 | MarioKarasovic |
-| 159 | 519 | Mom |
-| 160 | 515 | Loony Faller |
-| 161 | 510 | Michelle Rich Burkhart |
-| 162 | 505 | Judy Long |
-| 163 | 503 | Loopy Curvebuilder |
+| 148 | 572 | Loopy Curvebuilder |
+| 149 | 554 | Cathy Tippett |
+| 150 | 553 | Jamie Jones |
+| 151 | 551 | Jason Cook |
+| 152 | 550 | DomDomsNana |
+| 153 | 550 | Sully |
+| 154 | 540 | Jgato |
+| 155 | 538 | Amanda Sikes |
+| 156 | 537 | Nutty Curver |
+| 157 | 535 | Sarah Mccolgan |
+| 158 | 534 | Zappy Pattern |
+| 159 | 527 | MarioKarasovic |
+| 160 | 519 | Mom |
+| 161 | 515 | Loony Faller |
+| 162 | 510 | Michelle Rich Burkhart |
+| 163 | 505 | Judy Long |
 | 164 | 500 | Cool Balancer |
 | 165 | 498 | Kelly Rogers |
 | 166 | 497 | Amy Gale |
@@ -326,25 +326,25 @@
 | 318 | 246 | Amber Cogdill |
 | 319 | 244 | Ariel Gundersen |
 | 320 | 244 | Havik Whitfield |
-| 321 | 243 | Jenny |
-| 322 | 242 | Avie Lou |
-| 323 | 242 | Theresa Huddleston |
-| 324 | 240 | PaiBri |
-| 325 | 240 | Liseth Vasquez |
-| 326 | 239 | Jeffrey Smith |
-| 327 | 239 | Patria Osuoha |
-| 328 | 238 | Laverne Ellis Blair |
-| 329 | 238 | Nathan Walker |
-| 330 | 236 | Lush Party |
-| 331 | 236 | Aldotfus Williams |
-| 332 | 234 | Nicole Plummer |
-| 333 | 233 | Jerry L Morales |
-| 334 | 231 | Olivia Jefferson |
-| 335 | 230 | Kelly Vedder |
-| 336 | 230 | Brandy Chinelle |
-| 337 | 230 | phamous1 |
-| 338 | 229 | Angie Bishop |
-| 339 | 228 | Leigh Ann |
+| 321 | 243 | Leigh Ann |
+| 322 | 243 | Jenny |
+| 323 | 242 | Avie Lou |
+| 324 | 242 | Theresa Huddleston |
+| 325 | 240 | PaiBri |
+| 326 | 240 | Liseth Vasquez |
+| 327 | 239 | Jeffrey Smith |
+| 328 | 239 | Patria Osuoha |
+| 329 | 238 | Laverne Ellis Blair |
+| 330 | 238 | Nathan Walker |
+| 331 | 236 | Lush Party |
+| 332 | 236 | Aldotfus Williams |
+| 333 | 234 | Nicole Plummer |
+| 334 | 233 | Jerry L Morales |
+| 335 | 231 | Olivia Jefferson |
+| 336 | 230 | Kelly Vedder |
+| 337 | 230 | Brandy Chinelle |
+| 338 | 230 | phamous1 |
+| 339 | 229 | Angie Bishop |
 | 340 | 227 | Laura Melton |
 | 341 | 227 | Santara Ferguson |
 | 342 | 227 | Jennifer McClure |
@@ -395,11 +395,11 @@
 | 387 | 200 | Precious Womack |
 | 388 | 200 | Sarah Grundisch |
 | 389 | 200 | Al Smith Jr |
-| 390 | 200 | Physhie |
-| 391 | 199 | Paula Haskins |
-| 392 | 198 | Jason Cunningham |
-| 393 | 198 | Rosalie Call Kehlenbeck |
-| 394 | 197 | Melmel |
+| 390 | 200 | Melmel |
+| 391 | 200 | Physhie |
+| 392 | 199 | Paula Haskins |
+| 393 | 198 | Jason Cunningham |
+| 394 | 198 | Rosalie Call Kehlenbeck |
 | 395 | 196 | Greenie |
 | 396 | 196 | Spunky Linkblock |
 | 397 | 195 | Reign Hustler |
@@ -1562,23 +1562,23 @@
 | 1554 | 25 | Kyle |
 | 1555 | 25 | B.A. Watt |
 | 1556 | 25 | Jara Zavala |
-| 1557 | 25 | Poppy Zonepiece |
-| 1558 | 25 | Nikki |
-| 1559 | 25 | Jamie Benge |
-| 1560 | 25 | Quirky Piecegrid |
-| 1561 | 25 | Maureen Bryan Adams |
-| 1562 | 25 | Rochelle O'Loughlin |
-| 1563 | 24 | Paula Smith |
-| 1564 | 24 | Angelique Matzke Starns |
-| 1565 | 24 | Kaylyn Wickham |
-| 1566 | 24 | April Wright |
-| 1567 | 24 | Kathryn Mason |
-| 1568 | 24 | Taran Evans |
-| 1569 | 24 | Lori Whitman |
-| 1570 | 24 | Kacey Lindemuth |
-| 1571 | 24 | Nicole |
-| 1572 | 24 | Snippy Tilefall |
-| 1573 | 24 | Jenea Colvin |
+| 1557 | 25 | Jenea Colvin |
+| 1558 | 25 | Poppy Zonepiece |
+| 1559 | 25 | Nikki |
+| 1560 | 25 | Jamie Benge |
+| 1561 | 25 | Quirky Piecegrid |
+| 1562 | 25 | Maureen Bryan Adams |
+| 1563 | 25 | Rochelle O'Loughlin |
+| 1564 | 24 | Paula Smith |
+| 1565 | 24 | Angelique Matzke Starns |
+| 1566 | 24 | Kaylyn Wickham |
+| 1567 | 24 | April Wright |
+| 1568 | 24 | Kathryn Mason |
+| 1569 | 24 | Taran Evans |
+| 1570 | 24 | Lori Whitman |
+| 1571 | 24 | Kacey Lindemuth |
+| 1572 | 24 | Nicole |
+| 1573 | 24 | Snippy Tilefall |
 | 1574 | 23 | Linda Riegsecker |
 | 1575 | 23 | Haley |
 | 1576 | 23 | Amanda Raley |
