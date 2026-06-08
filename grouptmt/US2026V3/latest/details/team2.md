@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 19:28:41 UTC
+# Standings for team2 as of 2026-06-08 19:29:20 UTC
 
 **Total Participants:** 2255
 
@@ -42,7 +42,7 @@
 | 34 | 3984 | Amber |
 | 35 | 3812 | Crystal M Sowden |
 | 36 | 3766 | Ashley Miller |
-| 37 | 3522 | Quirky Catcher |
+| 37 | 3537 | Quirky Catcher |
 | 38 | 3514 | Traci Elizabeth |
 | 39 | 3231 | DarkHorse |
 | 40 | 3170 | Aubree Richard |
@@ -644,9 +644,9 @@
 | 636 | 168 | Spicy Balanceblock |
 | 637 | 167 | Cara Rivera |
 | 638 | 167 | Angela VanOstrand |
-| 639 | 167 | Alisha Shelton |
-| 640 | 167 | Nichole Fuller |
-| 641 | 166 | Amber Marie |
+| 639 | 167 | Amber Marie |
+| 640 | 167 | Alisha Shelton |
+| 641 | 167 | Nichole Fuller |
 | 642 | 166 | Shannon Posner |
 | 643 | 166 | Carl Mccoy |
 | 644 | 165 | Chilly Surge |
@@ -1398,18 +1398,18 @@
 | 1390 | 58 | Dustyn Sims |
 | 1391 | 58 | Pjrobinsonnn |
 | 1392 | 58 | Slinky Winder |
-| 1393 | 58 | Joslyn Erickson |
-| 1394 | 58 | Cheery Blast |
+| 1393 | 58 | Cheery Blast |
+| 1394 | 58 | Steven Palmer |
 | 1395 | 58 | Jolly Balanceblock |
-| 1396 | 58 | Shanetta Johnson |
-| 1397 | 58 | Donna Gerald |
-| 1398 | 58 | Steven Palmer |
-| 1399 | 57 | Alexis Turner |
-| 1400 | 57 | Disguised Duck |
-| 1401 | 57 | Brooke Marie Fox |
-| 1402 | 57 | Cranky Patternblock |
-| 1403 | 57 | Giggly Patternline |
-| 1404 | 57 | Kacey Lindemuth |
+| 1396 | 58 | Donna Gerald |
+| 1397 | 58 | Shanetta Johnson |
+| 1398 | 58 | Joslyn Erickson |
+| 1399 | 57 | Cranky Patternblock |
+| 1400 | 57 | Giggly Patternline |
+| 1401 | 57 | Kacey Lindemuth |
+| 1402 | 57 | Alexis Turner |
+| 1403 | 57 | Brooke Marie Fox |
+| 1404 | 57 | Disguised Duck |
 | 1405 | 57 | Jackie Hayslip |
 | 1406 | 57 | Yany |
 | 1407 | 57 | Rey Huber |
@@ -1421,19 +1421,19 @@
 | 1413 | 56 | Bobbie Carrol |
 | 1414 | 56 | Breanna Dykes |
 | 1415 | 56 | Armordguy |
-| 1416 | 56 | Perky Rollfit |
-| 1417 | 56 | Brandon Ray Holt |
-| 1418 | 56 | Jessi Ann |
-| 1419 | 56 | CountryGurl |
-| 1420 | 56 | Greenbean |
+| 1416 | 56 | Greenbean |
+| 1417 | 56 | Jessi Ann |
+| 1418 | 56 | Brandon Ray Holt |
+| 1419 | 56 | Perky Rollfit |
+| 1420 | 56 | CountryGurl |
 | 1421 | 56 | Danielle Etchison Mask |
 | 1422 | 55 | Mistress |
 | 1423 | 55 | Chipper Blockroll |
 | 1424 | 55 | chad |
 | 1425 | 55 | Cheryl Stevens |
 | 1426 | 55 | Snippy Racker |
-| 1427 | 55 | Gilbert Medina |
-| 1428 | 55 | Silly Cluster |
+| 1427 | 55 | Silly Cluster |
+| 1428 | 55 | Gilbert Medina |
 | 1429 | 55 | Misty McElroy |
 | 1430 | 54 | Lively Liner |
 | 1431 | 54 | Jumpy Linkroll |
@@ -1442,17 +1442,17 @@
 | 1434 | 54 | JEEPER |
 | 1435 | 54 | Lakeisha Ryder |
 | 1436 | 54 | Jodi Deninno |
-| 1437 | 54 | Heather Lewis |
-| 1438 | 54 | Lisa |
+| 1437 | 54 | Lisa |
+| 1438 | 54 | Heather Lewis |
 | 1439 | 54 | Jess Duehring |
 | 1440 | 54 | Cynthia Rose Candelaria |
 | 1441 | 54 | Glitzy Fallgrid |
 | 1442 | 54 | Swanky Twister |
 | 1443 | 53 | Gigi |
-| 1444 | 53 | Sandra Kopas Stetka |
-| 1445 | 53 | Kimberly Rochon |
-| 1446 | 53 | Judy Bailey |
-| 1447 | 53 | Topknot13 |
+| 1444 | 53 | Kimberly Rochon |
+| 1445 | 53 | Sandra Kopas Stetka |
+| 1446 | 53 | Topknot13 |
+| 1447 | 53 | Judy Bailey |
 | 1448 | 53 | Daring Pivotfall |
 | 1449 | 53 | Kristen Alta |
 | 1450 | 53 | Thomas Johnstone |
@@ -1465,19 +1465,19 @@
 | 1457 | 52 | Amber Marie Lacey |
 | 1458 | 52 | Jason Janssen |
 | 1459 | 52 | Chirpy Shiftspin |
-| 1460 | 52 | Bridgett Smith |
-| 1461 | 52 | Daniel Flathers |
-| 1462 | 52 | Chrissy Hess |
+| 1460 | 52 | Daniel Flathers |
+| 1461 | 52 | Catalina Castro |
+| 1462 | 52 | Bridgett Smith |
 | 1463 | 52 | Samantha LeBlanc |
 | 1464 | 52 | Amy Renaud |
-| 1465 | 51 | Catalina Castro |
-| 1466 | 51 | haihai |
-| 1467 | 51 | Zippy Wobbler |
-| 1468 | 51 | Paula Martin |
-| 1469 | 51 | Charity Black |
-| 1470 | 51 | Stacy Shaunce |
-| 1471 | 51 | Brandi Lynn Tumey |
-| 1472 | 51 | Ramona Peña |
+| 1465 | 52 | Chrissy Hess |
+| 1466 | 51 | Brandi Lynn Tumey |
+| 1467 | 51 | Ramona Peña |
+| 1468 | 51 | Stacy Shaunce |
+| 1469 | 51 | Paula Martin |
+| 1470 | 51 | Zippy Wobbler |
+| 1471 | 51 | Charity Black |
+| 1472 | 51 | haihai |
 | 1473 | 51 | Tiffany Heether |
 | 1474 | 51 | Snazzy Clusterfit |
 | 1475 | 51 | Staci Carl |
@@ -1491,26 +1491,26 @@
 | 1483 | 50 | Bubbly Risebuilder |
 | 1484 | 50 | Timone907 |
 | 1485 | 50 | Whitt |
-| 1486 | 50 | Samantha Rhone |
+| 1486 | 50 | Mariah Wygonik |
 | 1487 | 50 | AppA |
 | 1488 | 50 | Mandy |
 | 1489 | 50 | Rita Silveeia Miller |
 | 1490 | 50 | himesamayuki77 |
-| 1491 | 50 | Mariah Wygonik |
-| 1492 | 50 | Tessa Kalili |
-| 1493 | 50 | Dawn Thuringer-Baird |
-| 1494 | 50 | Shannon Miller- Cooley |
-| 1495 | 50 | Denise Baker |
+| 1491 | 50 | Samantha Rhone |
+| 1492 | 50 | Denise Baker |
+| 1493 | 50 | Tessa Kalili |
+| 1494 | 50 | Dawn Thuringer-Baird |
+| 1495 | 50 | Shannon Miller- Cooley |
 | 1496 | 50 | Meve |
 | 1497 | 50 | Tia Guile |
 | 1498 | 49 | Angi Carter |
-| 1499 | 49 | Jara Zavala |
-| 1500 | 49 | sam |
-| 1501 | 49 | unvoiced |
+| 1499 | 49 | Milwaukee Area Cleaning |
+| 1500 | 49 | Maurice Bethel |
+| 1501 | 49 | puppy mom |
 | 1502 | 49 | Katie Magner |
-| 1503 | 49 | puppy mom |
-| 1504 | 49 | Maurice Bethel |
-| 1505 | 49 | Milwaukee Area Cleaning |
+| 1503 | 49 | unvoiced |
+| 1504 | 49 | sam |
+| 1505 | 49 | Jara Zavala |
 | 1506 | 49 | Lindsey Butler |
 | 1507 | 49 | Giggly Spinblock |
 | 1508 | 48 | Krystle McCaslin |
@@ -1518,9 +1518,9 @@
 | 1510 | 48 | Flynn Flibble |
 | 1511 | 48 | Katelynn Hunt |
 | 1512 | 48 | Dustin Bumbalough |
-| 1513 | 48 | Hoppy Gridder |
-| 1514 | 48 | CowboyChalie |
-| 1515 | 48 | Amy ATen |
+| 1513 | 48 | CowboyChalie |
+| 1514 | 48 | Amy ATen |
+| 1515 | 48 | Hoppy Gridder |
 | 1516 | 48 | Laura Zavala |
 | 1517 | 48 | Evelyn Confer |
 | 1518 | 48 | Jodi Schessler Konsella |
@@ -1537,16 +1537,16 @@
 | 1529 | 46 | Matthew Black |
 | 1530 | 46 | Sassafras Cass |
 | 1531 | 46 | Kodi Gay |
-| 1532 | 46 | Elizabeth Barnhart Floyd |
-| 1533 | 46 | Nikki Blilie |
-| 1534 | 46 | Octavius Walker |
-| 1535 | 46 | Spunky Snapfall |
-| 1536 | 46 | Charles Dwayne |
-| 1537 | 46 | Silly Shatter |
-| 1538 | 45 | Gail Flory |
+| 1532 | 46 | Silly Shatter |
+| 1533 | 46 | Octavius Walker |
+| 1534 | 46 | Elizabeth Barnhart Floyd |
+| 1535 | 46 | Nikki Blilie |
+| 1536 | 46 | Spunky Snapfall |
+| 1537 | 46 | Charles Dwayne |
+| 1538 | 45 | Jennifer Nelson |
 | 1539 | 45 | STARFIRE |
 | 1540 | 45 | Brandy Moore |
-| 1541 | 45 | Jennifer Nelson |
+| 1541 | 45 | Gail Flory |
 | 1542 | 45 | Nikki |
 | 1543 | 45 | Giggy Snapper |
 | 1544 | 45 | Witty Brickster |
