@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 11:10:42 UTC
+# Standings for team4 as of 2026-06-08 11:11:19 UTC
 
 **Total Participants:** 1818
 
@@ -652,37 +652,37 @@
 | 644 | 115 | Misti Rich |
 | 645 | 114 | Jason Moves |
 | 646 | 114 | Loretta Hendricks |
-| 647 | 114 | Jeremy Barry |
+| 647 | 114 | Tammy Wells |
 | 648 | 114 | Japexican Strong |
-| 649 | 114 | Breezy Rollfit |
-| 650 | 114 | LandO |
-| 651 | 114 | Emjae Tupaz-Rivera |
-| 652 | 113 | Shaunna Caldwell |
-| 653 | 113 | Butterfly |
-| 654 | 113 | Marina |
-| 655 | 113 | mikey moo |
-| 656 | 113 | Melissa Anne |
-| 657 | 113 | Renzo Tonini |
-| 658 | 112 | Khiem Hernandez |
-| 659 | 112 | medicjessi |
-| 660 | 112 | Candice Sellers Worley |
+| 649 | 114 | Jeremy Barry |
+| 650 | 114 | Emjae Tupaz-Rivera |
+| 651 | 114 | Breezy Rollfit |
+| 652 | 114 | LandO |
+| 653 | 113 | Shaunna Caldwell |
+| 654 | 113 | Butterfly |
+| 655 | 113 | Marina |
+| 656 | 113 | mikey moo |
+| 657 | 113 | Melissa Anne |
+| 658 | 113 | Renzo Tonini |
+| 659 | 112 | Khiem Hernandez |
+| 660 | 112 | medicjessi |
 | 661 | 112 | Lolita Nettles |
-| 662 | 112 | Shaneé Staunton |
-| 663 | 111 | Richard Bearse |
-| 664 | 111 | Peachy Piecefit |
-| 665 | 111 | Elena Marí |
+| 662 | 112 | Candice Sellers Worley |
+| 663 | 112 | Shaneé Staunton |
+| 664 | 111 | Richard Bearse |
+| 665 | 111 | Peachy Piecefit |
 | 666 | 111 | Wacky Brick |
-| 667 | 110 | Jennifer Brucz |
-| 668 | 110 | GETBOXED! |
-| 669 | 110 | Clever Brickzone |
-| 670 | 110 | Andreas Vs Shinky |
-| 671 | 110 | Giggy Splitter |
-| 672 | 110 | Luna |
-| 673 | 110 | Breezy Brickline |
-| 674 | 110 | Fancy Rollfit |
-| 675 | 109 | Playful Raccoon |
-| 676 | 109 | Lisa Jones |
-| 677 | 109 | Tammy Wells |
+| 667 | 111 | Elena Marí |
+| 668 | 110 | Jennifer Brucz |
+| 669 | 110 | GETBOXED! |
+| 670 | 110 | Clever Brickzone |
+| 671 | 110 | Andreas Vs Shinky |
+| 672 | 110 | Giggy Splitter |
+| 673 | 110 | Luna |
+| 674 | 110 | Breezy Brickline |
+| 675 | 110 | Fancy Rollfit |
+| 676 | 109 | Playful Raccoon |
+| 677 | 109 | Lisa Jones |
 | 678 | 109 | Breezy Blockzone |
 | 679 | 108 | Miranda Brown |
 | 680 | 108 | SandyEva |
@@ -1743,40 +1743,40 @@
 | 1735 | 9 | Trippy Mels |
 | 1736 | 9 | Jinx4fun |
 | 1737 | 9 | Julie Smith |
-| 1738 | 9 | Frothy Riseclear |
-| 1739 | 9 | fmp |
-| 1740 | 9 | Whos Square |
-| 1741 | 9 | Todd Hamilton |
-| 1742 | 9 | Micole Norris |
-| 1743 | 9 | Terry Peach |
-| 1744 | 9 | Monica Bell |
-| 1745 | 9 | Marty Carver |
-| 1746 | 9 | apryliss Star |
-| 1747 | 9 | Phoenyx Roze |
-| 1748 | 9 | estefi |
-| 1749 | 9 | MissGranity |
-| 1750 | 8 | Mac James |
-| 1751 | 8 | Chummy Gridder |
-| 1752 | 8 | Phoebe Tracy |
-| 1753 | 8 | Gabby Markham |
-| 1754 | 8 | Nums |
-| 1755 | 8 | Virgo27 |
-| 1756 | 8 | Courtney Miller |
-| 1757 | 8 | Tony Tenas |
-| 1758 | 8 | LaTesha D Williams |
-| 1759 | 8 | Jen Molepske |
-| 1760 | 8 | Ivory Glenn |
-| 1761 | 8 | Bryieson Watson |
-| 1762 | 8 | Lewis Potts |
-| 1763 | 8 | Shania Richmond |
-| 1764 | 8 | Gerald Marx |
-| 1765 | 8 | Floyda Lynch |
-| 1766 | 8 | John Leslie |
-| 1767 | 8 | Box smash’em |
-| 1768 | 8 | 67boyyy |
-| 1769 | 7 | Terrick Robinson |
-| 1770 | 7 | B |
-| 1771 | 7 | Lively Setter |
+| 1738 | 9 | Lively Setter |
+| 1739 | 9 | Frothy Riseclear |
+| 1740 | 9 | fmp |
+| 1741 | 9 | Whos Square |
+| 1742 | 9 | Todd Hamilton |
+| 1743 | 9 | Micole Norris |
+| 1744 | 9 | Terry Peach |
+| 1745 | 9 | Monica Bell |
+| 1746 | 9 | Marty Carver |
+| 1747 | 9 | apryliss Star |
+| 1748 | 9 | Phoenyx Roze |
+| 1749 | 9 | estefi |
+| 1750 | 9 | MissGranity |
+| 1751 | 8 | Mac James |
+| 1752 | 8 | Chummy Gridder |
+| 1753 | 8 | Phoebe Tracy |
+| 1754 | 8 | Gabby Markham |
+| 1755 | 8 | Nums |
+| 1756 | 8 | Virgo27 |
+| 1757 | 8 | Courtney Miller |
+| 1758 | 8 | Tony Tenas |
+| 1759 | 8 | LaTesha D Williams |
+| 1760 | 8 | Jen Molepske |
+| 1761 | 8 | Ivory Glenn |
+| 1762 | 8 | Bryieson Watson |
+| 1763 | 8 | Lewis Potts |
+| 1764 | 8 | Shania Richmond |
+| 1765 | 8 | Gerald Marx |
+| 1766 | 8 | Floyda Lynch |
+| 1767 | 8 | John Leslie |
+| 1768 | 8 | Box smash’em |
+| 1769 | 8 | 67boyyy |
+| 1770 | 7 | Terrick Robinson |
+| 1771 | 7 | B |
 | 1772 | 7 | John Brandon Kinney |
 | 1773 | 7 | Angela Mertz |
 | 1774 | 7 | Peaches3569 |
