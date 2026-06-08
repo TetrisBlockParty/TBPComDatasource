@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-08 08:06:41 UTC
+# Standings for team2 as of 2026-06-08 08:07:20 UTC
 
 **Total Participants:** 2133
 
@@ -349,24 +349,24 @@
 | 341 | 255 | Chummy Faller |
 | 342 | 255 | Tina Marie |
 | 343 | 255 | True |
-| 344 | 254 | Victoria Pale |
-| 345 | 254 | Anthony Swift |
-| 346 | 254 | Nicole Plummer |
+| 344 | 254 | Anthony Swift |
+| 345 | 254 | Nicole Plummer |
+| 346 | 254 | Victoria Pale |
 | 347 | 253 | Santara Ferguson |
-| 348 | 253 | Kim Hunt |
-| 349 | 253 | Eric Wayne Maschman |
-| 350 | 253 | Jerry L Morales |
+| 348 | 253 | Eric Wayne Maschman |
+| 349 | 253 | Jerry L Morales |
+| 350 | 253 | Kim Hunt |
 | 351 | 252 | Brandi Vandevanter-Duke |
-| 352 | 252 | Jessica Christine |
-| 353 | 252 | Boldy Fitclear |
+| 352 | 252 | Boldy Fitclear |
+| 353 | 252 | Jessica Christine |
 | 354 | 252 | Kellie Montgomery |
 | 355 | 251 | Robin G |
-| 356 | 251 | Mouh Med |
-| 357 | 251 | Marilyn Mendoza |
-| 358 | 251 | Avie Lou |
-| 359 | 251 | Bianca Woodruff |
-| 360 | 250 | Kim Powers |
-| 361 | 250 | Carlos J Blas |
+| 356 | 251 | Avie Lou |
+| 357 | 251 | Mouh Med |
+| 358 | 251 | Bianca Woodruff |
+| 359 | 251 | Marilyn Mendoza |
+| 360 | 250 | Carlos J Blas |
+| 361 | 250 | Kim Powers |
 | 362 | 250 | Happy Drop |
 | 363 | 250 | Ray Daisy |
 | 364 | 249 | Sarah Grundisch |
@@ -374,13 +374,13 @@
 | 366 | 247 | SilentBuffalo |
 | 367 | 246 | PaiBri |
 | 368 | 246 | Amber Cogdill |
-| 369 | 240 | Starvinmarvin |
-| 370 | 240 | Zappy Liney |
-| 371 | 240 | Liseth Vasquez |
+| 369 | 240 | Liseth Vasquez |
+| 370 | 240 | Starvinmarvin |
+| 371 | 240 | Zappy Liney |
 | 372 | 240 | Naomi Walker |
-| 373 | 239 | Patria Osuoha |
-| 374 | 239 | Stella |
-| 375 | 239 | Melmel |
+| 373 | 239 | Stella |
+| 374 | 239 | Melmel |
+| 375 | 239 | Patria Osuoha |
 | 376 | 238 | Laverne Ellis Blair |
 | 377 | 238 | andee |
 | 378 | 237 | Amanda Priddy |
@@ -389,23 +389,23 @@
 | 381 | 230 | Tango Sierra |
 | 382 | 230 | Brandy Chinelle |
 | 383 | 230 | phamous1 |
-| 384 | 229 | Angie Bishop |
-| 385 | 229 | Funway998 |
+| 384 | 229 | Funway998 |
+| 385 | 229 | Angie Bishop |
 | 386 | 228 | Christy Diane Escobar |
 | 387 | 227 | meg |
-| 388 | 227 | Laura Melton |
-| 389 | 227 | Jennifer McClure |
-| 390 | 225 | Amanda L Strong |
-| 391 | 225 | Sandy Justus |
-| 392 | 225 | Cheery Towerzone |
+| 388 | 227 | Jennifer McClure |
+| 389 | 227 | Laura Melton |
+| 390 | 225 | Cheery Towerzone |
+| 391 | 225 | Amanda L Strong |
+| 392 | 225 | Sandy Justus |
 | 393 | 222 | Harper |
 | 394 | 221 | MUMBLES |
-| 395 | 220 | Elliott Mikila |
-| 396 | 220 | Michelle M Braley |
-| 397 | 220 | ShiverMeSplinter |
-| 398 | 220 | Precious Womack |
-| 399 | 220 | Flashy Basegrid |
-| 400 | 220 | Sherri E Woods Hess |
+| 395 | 220 | Precious Womack |
+| 396 | 220 | ShiverMeSplinter |
+| 397 | 220 | Michelle M Braley |
+| 398 | 220 | Elliott Mikila |
+| 399 | 220 | Sherri E Woods Hess |
+| 400 | 220 | Flashy Basegrid |
 | 401 | 220 | Krystle L Coon |
 | 402 | 220 | Jess |
 | 403 | 219 | Mouh Ity |
@@ -414,51 +414,51 @@
 | 406 | 217 | Spicy Snapclear |
 | 407 | 216 | Melissa Nash |
 | 408 | 216 | Kimberly Benson |
-| 409 | 215 | Maria Ward |
-| 410 | 215 | Alonzo Reed |
-| 411 | 215 | Missy Renia |
+| 409 | 215 | Alonzo Reed |
+| 410 | 215 | Missy Renia |
+| 411 | 215 | Maria Ward |
 | 412 | 214 | Kathryn |
 | 413 | 213 | Judy Burkhalter |
 | 414 | 212 | Carebear05 |
-| 415 | 211 | Sassy Twistbuilder |
-| 416 | 210 | Camilo Moreno |
-| 417 | 210 | Rick |
-| 418 | 210 | Amanda Bottorff |
-| 419 | 210 | Francesca Wagenhoffer |
-| 420 | 210 | Nichole Wilson |
-| 421 | 209 | Kevin Mccoy |
-| 422 | 208 | Dad |
-| 423 | 208 | Martha Lynn Wiggins |
-| 424 | 208 | Will Jones |
-| 425 | 207 | StacyBabee |
-| 426 | 207 | Wendy McKee |
-| 427 | 206 | Jodi Johnson |
-| 428 | 204 | Teddy Williams |
+| 415 | 211 | Paula Haskins |
+| 416 | 211 | Sassy Twistbuilder |
+| 417 | 210 | Nichole Wilson |
+| 418 | 210 | Camilo Moreno |
+| 419 | 210 | Rick |
+| 420 | 210 | Amanda Bottorff |
+| 421 | 210 | Francesca Wagenhoffer |
+| 422 | 209 | Kevin Mccoy |
+| 423 | 208 | Dad |
+| 424 | 208 | Martha Lynn Wiggins |
+| 425 | 208 | Will Jones |
+| 426 | 207 | StacyBabee |
+| 427 | 207 | Wendy McKee |
+| 428 | 206 | Jodi Johnson |
 | 429 | 204 | Chummy Snapbuilder |
-| 430 | 204 | Jacquelyn Snyder Dumas |
-| 431 | 203 | Jumpy Dashpiece |
+| 430 | 204 | Teddy Williams |
+| 431 | 204 | Jacquelyn Snyder Dumas |
 | 432 | 203 | Jill Goff |
-| 433 | 202 | Paula Haskins |
+| 433 | 203 | Jumpy Dashpiece |
 | 434 | 202 | ZBee |
 | 435 | 201 | Amber Smith |
-| 436 | 200 | Katie Jones |
-| 437 | 200 | Al Smith Jr |
-| 438 | 200 | Happy |
-| 439 | 198 | TetrisMama |
-| 440 | 198 | Epic Tilemaker |
-| 441 | 198 | Rosalie Call Kehlenbeck |
+| 436 | 200 | Al Smith Jr |
+| 437 | 200 | Happy |
+| 438 | 200 | Katie Jones |
+| 439 | 198 | Rosalie Call Kehlenbeck |
+| 440 | 198 | TetrisMama |
+| 441 | 198 | Epic Tilemaker |
 | 442 | 197 | Andrea Rawson |
 | 443 | 196 | Greenie |
 | 444 | 196 | Gwendolyn Boykin Mobbs |
 | 445 | 196 | Spunky Linkblock |
-| 446 | 195 | Reign Hustler |
-| 447 | 195 | Partin |
-| 448 | 194 | Brian Favre |
-| 449 | 194 | Jessica Connot |
+| 446 | 195 | Partin |
+| 447 | 195 | Reign Hustler |
+| 448 | 194 | Jessica Connot |
+| 449 | 194 | Brian Favre |
 | 450 | 192 | Raine |
 | 451 | 192 | Loopy Tower |
-| 452 | 191 | Nano. |
-| 453 | 191 | Sarah Jane Gorsuch |
+| 452 | 191 | Sarah Jane Gorsuch |
+| 453 | 191 | Nano. |
 | 454 | 190 | Lisa Allen Frisk |
 | 455 | 190 | Saucy Wrecker |
 | 456 | 190 | Lively Curve |

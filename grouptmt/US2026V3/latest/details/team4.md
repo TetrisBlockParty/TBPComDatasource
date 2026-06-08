@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 08:06:41 UTC
+# Standings for team4 as of 2026-06-08 08:07:20 UTC
 
 **Total Participants:** 1799
 
@@ -47,7 +47,7 @@
 | 39 | 2689 | Ning Quiambao |
 | 40 | 2433 | Alexandria Frazier |
 | 41 | 2400 | Michele |
-| 42 | 2328 | Victoria Ver |
+| 42 | 2334 | Victoria Ver |
 | 43 | 2091 | Michele Walker |
 | 44 | 2058 | Carly Stempien |
 | 45 | 1985 | kcknbtz |
@@ -470,28 +470,28 @@
 | 462 | 155 | 1694AF |
 | 463 | 155 | Toon Up |
 | 464 | 155 | Tricia Motika Cowan |
-| 465 | 155 | Shayna Vaigneur-Hall |
+| 465 | 155 | Nicole Colby McCloskey |
 | 466 | 155 | Snippy Racker |
 | 467 | 155 | Merritt Brandt |
-| 468 | 155 | Nicole Colby McCloskey |
+| 468 | 155 | Shayna Vaigneur-Hall |
 | 469 | 154 | Lani |
 | 470 | 154 | yourmomz |
-| 471 | 153 | Tarsha Thomas-Martinez |
-| 472 | 153 | Shawntae Mccary |
+| 471 | 153 | Kandylands |
+| 472 | 153 | Tarsha Thomas-Martinez |
 | 473 | 153 | Linda |
-| 474 | 152 | Holly Bramel |
-| 475 | 152 | Giggly Column |
-| 476 | 151 | King |
-| 477 | 150 | Kristine Hj Han |
-| 478 | 150 | MrsReap |
-| 479 | 150 | Bammer |
-| 480 | 150 | Melissa Quinn |
-| 481 | 150 | Heidi Anne Scheiderer |
+| 474 | 153 | Shawntae Mccary |
+| 475 | 152 | Holly Bramel |
+| 476 | 152 | Giggly Column |
+| 477 | 151 | King |
+| 478 | 150 | Bammer |
+| 479 | 150 | Melissa Quinn |
+| 480 | 150 | Heidi Anne Scheiderer |
+| 481 | 150 | MrsReap |
 | 482 | 150 | Butterpat |
 | 483 | 150 | Witty Fitblock |
-| 484 | 149 | Paula Renee McCracken |
-| 485 | 149 | Snazzy Fitclear |
-| 486 | 149 | Kandylands |
+| 484 | 150 | Kristine Hj Han |
+| 485 | 149 | Paula Renee McCracken |
+| 486 | 149 | Snazzy Fitclear |
 | 487 | 149 | Zesty Lift |
 | 488 | 148 | Latisha TeTe Williams |
 | 489 | 148 | Brandon Bedenbaugh |
@@ -1045,19 +1045,19 @@
 | 1037 | 60 | Brett |
 | 1038 | 60 | Dsay Yates |
 | 1039 | 60 | Lemus |
-| 1040 | 59 | Tammy Lasseigne |
-| 1041 | 59 | Sandy Daye |
-| 1042 | 59 | Joshua Powers |
-| 1043 | 59 | Beezy |
-| 1044 | 59 | Gwendolyn Langwinski |
-| 1045 | 59 | Lovely |
-| 1046 | 59 | Ash |
-| 1047 | 59 | Krushie |
-| 1048 | 59 | Denisha Schinell Boyd |
-| 1049 | 59 | Jonathan Jackson |
-| 1050 | 59 | Joe Joe |
-| 1051 | 59 | Blessedmama |
-| 1052 | 59 | crazy lazy |
+| 1040 | 60 | crazy lazy |
+| 1041 | 59 | Tammy Lasseigne |
+| 1042 | 59 | Sandy Daye |
+| 1043 | 59 | Joshua Powers |
+| 1044 | 59 | Beezy |
+| 1045 | 59 | Gwendolyn Langwinski |
+| 1046 | 59 | Lovely |
+| 1047 | 59 | Ash |
+| 1048 | 59 | Krushie |
+| 1049 | 59 | Denisha Schinell Boyd |
+| 1050 | 59 | Jonathan Jackson |
+| 1051 | 59 | Joe Joe |
+| 1052 | 59 | Blessedmama |
 | 1053 | 58 | Matt Akm |
 | 1054 | 58 | Snappy Glidebuilder |
 | 1055 | 58 | Kalisha Monique Wright |
@@ -1165,80 +1165,80 @@
 | 1157 | 48 | Travis Whitner |
 | 1158 | 48 | Kelli Wells Fuhr |
 | 1159 | 48 | Mike Artis |
-| 1160 | 48 | Wali Muhammad |
+| 1160 | 48 | Aliyah Abdella |
 | 1161 | 48 | Amowe |
-| 1162 | 48 | Aliyah Abdella |
-| 1163 | 47 | Jaison Horton |
-| 1164 | 47 | Acyndra Cain |
-| 1165 | 47 | Jim Stewart |
+| 1162 | 48 | Wali Muhammad |
+| 1163 | 47 | Acyndra Cain |
+| 1164 | 47 | Jim Stewart |
+| 1165 | 47 | Theo Stamps |
 | 1166 | 47 | Dannie Ems |
-| 1167 | 47 | Theo Stamps |
+| 1167 | 47 | Maurice Jones |
 | 1168 | 47 | Shannon Foster |
-| 1169 | 47 | Maurice Jones |
-| 1170 | 47 | Caroline Peralta |
+| 1169 | 47 | Kitty Kat |
+| 1170 | 47 | Jaison Horton |
 | 1171 | 47 | Audacious |
 | 1172 | 47 | Hasty Snapmatch |
 | 1173 | 47 | Jacquelyn L Whitsitt |
-| 1174 | 47 | Kaity Cody |
-| 1175 | 46 | Crystal Parker Bryant |
-| 1176 | 46 | Leslee Bentley DeLong |
+| 1174 | 47 | Caroline Peralta |
+| 1175 | 47 | Kaity Cody |
+| 1176 | 46 | Crystal Parker Bryant |
 | 1177 | 46 | Bindi |
-| 1178 | 46 | STRay |
-| 1179 | 46 | Bren70 |
+| 1178 | 46 | Bren70 |
+| 1179 | 46 | Leslee Bentley DeLong |
 | 1180 | 46 | JJADHD |
-| 1181 | 46 | Cmoss |
-| 1182 | 46 | Judea Leblanc |
-| 1183 | 46 | Epic Curver |
-| 1184 | 46 | Lazy Risepiece |
-| 1185 | 46 | Christopher Farias |
-| 1186 | 46 | Spunky Tower |
-| 1187 | 45 | Kitty Kat |
-| 1188 | 45 | BurnedCrab52 |
-| 1189 | 45 | Karla Humphry |
-| 1190 | 45 | idk240 |
+| 1181 | 46 | STRay |
+| 1182 | 46 | Lazy Risepiece |
+| 1183 | 46 | Cmoss |
+| 1184 | 46 | Christopher Farias |
+| 1185 | 46 | Judea Leblanc |
+| 1186 | 46 | Epic Curver |
+| 1187 | 46 | Spunky Tower |
+| 1188 | 45 | FitMeDiva |
+| 1189 | 45 | Becky Bernazal |
+| 1190 | 45 | Jt Home |
 | 1191 | 45 | -daiko |
-| 1192 | 45 | Jt Home |
-| 1193 | 45 | Becky Bernazal |
-| 1194 | 45 | RaeRae |
-| 1195 | 45 | FitMeDiva |
-| 1196 | 45 | Kim Miller |
-| 1197 | 45 | Emjae Tupaz-Rivera |
-| 1198 | 45 | Mari Isaac |
-| 1199 | 45 | Suzie |
-| 1200 | 45 | Stacey Heartful |
-| 1201 | 45 | Jennifer O'Connell |
-| 1202 | 44 | Nikki |
+| 1192 | 45 | idk240 |
+| 1193 | 45 | RaeRae |
+| 1194 | 45 | Karla Humphry |
+| 1195 | 45 | Suzie |
+| 1196 | 45 | BurnedCrab52 |
+| 1197 | 45 | Kim Miller |
+| 1198 | 45 | Stacey Heartful |
+| 1199 | 45 | Emjae Tupaz-Rivera |
+| 1200 | 45 | Jennifer O'Connell |
+| 1201 | 45 | Mari Isaac |
+| 1202 | 44 | Ladybug |
 | 1203 | 44 | Angel |
-| 1204 | 44 | Mayleen Delgado |
-| 1205 | 44 | Lionel Hampton |
-| 1206 | 44 | Ladybug |
-| 1207 | 44 | Donna Winget |
-| 1208 | 44 | bribop |
-| 1209 | 44 | Snippy Fitblock |
-| 1210 | 44 | Dorothy Schetzel |
+| 1204 | 44 | Alicia |
+| 1205 | 44 | Mayleen Delgado |
+| 1206 | 44 | Slinky Snapfit |
+| 1207 | 44 | Snippy Fitblock |
+| 1208 | 44 | Chris Norman |
+| 1209 | 44 | Kimmie Warren |
+| 1210 | 44 | Donna Winget |
 | 1211 | 44 | Sydney Taylor Sileno |
-| 1212 | 44 | Kimmie Warren |
-| 1213 | 44 | Chris Norman |
-| 1214 | 44 | Slinky Snapfit |
-| 1215 | 44 | Alicia |
-| 1216 | 44 | Destiny Georgia Reeves Beller |
-| 1217 | 44 | SweetChaos |
-| 1218 | 44 | David Kirschner |
-| 1219 | 44 | Bam SwaggSpitter King |
+| 1212 | 44 | Lionel Hampton |
+| 1213 | 44 | Reggie Laserna Clement |
+| 1214 | 44 | Cauntay Youngking Williams |
+| 1215 | 44 | EJ Frazier |
+| 1216 | 44 | Nikki |
+| 1217 | 44 | bribop |
+| 1218 | 44 | Bam SwaggSpitter King |
+| 1219 | 44 | Dorothy Schetzel |
 | 1220 | 44 | Kami |
-| 1221 | 44 | Reggie Laserna Clement |
-| 1222 | 44 | Cauntay Youngking Williams |
-| 1223 | 44 | EJ Frazier |
+| 1221 | 44 | SweetChaos |
+| 1222 | 44 | David Kirschner |
+| 1223 | 44 | Destiny Georgia Reeves Beller |
 | 1224 | 44 | Loony Glidepiece |
-| 1225 | 43 | Christopher Ponceja |
-| 1226 | 43 | Amina Walker |
-| 1227 | 43 | Purple Queen |
-| 1228 | 43 | Candace Dean |
-| 1229 | 43 | Shirley Williams |
-| 1230 | 42 | Jacklyn Martinez |
-| 1231 | 42 | Stacy Brown |
-| 1232 | 42 | Chelle Williams |
-| 1233 | 42 | Gr8flluv1 |
+| 1225 | 43 | Candace Dean |
+| 1226 | 43 | Shirley Williams |
+| 1227 | 43 | Christopher Ponceja |
+| 1228 | 43 | Purple Queen |
+| 1229 | 43 | Amina Walker |
+| 1230 | 42 | Stacy Brown |
+| 1231 | 42 | Chelle Williams |
+| 1232 | 42 | Gr8flluv1 |
+| 1233 | 42 | Jacklyn Martinez |
 | 1234 | 42 | Sunny Tiltbuilder |
 | 1235 | 42 | Shupurplenurkle |
 | 1236 | 42 | Badmofo |

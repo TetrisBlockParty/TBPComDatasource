@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 08:06:41 UTC
+# Standings for team1 as of 2026-06-08 08:07:20 UTC
 
 **Total Participants:** 1761
 
@@ -311,25 +311,25 @@
 | 303 | 244 | LaTonya Myers |
 | 304 | 244 | Amber Wilson |
 | 305 | 244 | Shameka Thrasher |
-| 306 | 244 | Dai Bo |
-| 307 | 244 | Teddy Davis |
-| 308 | 242 | Tay |
-| 309 | 242 | Tamika Rocheteau |
-| 310 | 241 | Jai |
-| 311 | 240 | Emily Wright |
-| 312 | 240 | Rayya Kiser |
-| 313 | 239 | ♈️ Ariesbaby |
-| 314 | 238 | SeanSanchez |
-| 315 | 237 | Simone Bailey |
-| 316 | 235 | McKayla Owens |
+| 306 | 244 | McKayla Owens |
+| 307 | 244 | Dai Bo |
+| 308 | 244 | Teddy Davis |
+| 309 | 242 | Tay |
+| 310 | 242 | Tamika Rocheteau |
+| 311 | 241 | Jai |
+| 312 | 240 | Emily Wright |
+| 313 | 240 | Rayya Kiser |
+| 314 | 239 | ♈️ Ariesbaby |
+| 315 | 238 | SeanSanchez |
+| 316 | 237 | Simone Bailey |
 | 317 | 235 | Sade Goodwine |
 | 318 | 233 | Nicole Watson-Dixon |
 | 319 | 231 | Tipsy Linkroll |
-| 320 | 230 | Erica Charlise |
-| 321 | 230 | Brittnay Wright |
-| 322 | 230 | Still Ten Tay |
-| 323 | 230 | Hailey Hil |
-| 324 | 230 | Boldy Liner |
+| 320 | 230 | Boldy Liner |
+| 321 | 230 | Hailey Hil |
+| 322 | 230 | Erica Charlise |
+| 323 | 230 | Brittnay Wright |
+| 324 | 230 | Still Ten Tay |
 | 325 | 229 | De'Mear McKinney |
 | 326 | 227 | Chasem45 |
 | 327 | 224 | Asha Langford |
@@ -337,87 +337,87 @@
 | 329 | 221 | Chandler Magee |
 | 330 | 220 | rls |
 | 331 | 220 | HarleyJane |
-| 332 | 220 | Rachael Bakowicz Edwards |
-| 333 | 220 | Christian Pham |
-| 334 | 220 | Eric Spencer Whitaker |
+| 332 | 220 | Eric Spencer Whitaker |
+| 333 | 220 | Rachael Bakowicz Edwards |
+| 334 | 220 | Christian Pham |
 | 335 | 219 | Bambi Johnson |
 | 336 | 219 | Tamara Johnson-Carter |
-| 337 | 217 | Snippy Breaker |
-| 338 | 217 | Ashleyy Netchert |
-| 339 | 217 | Tamika Fisher |
-| 340 | 217 | LaShaun Stinson |
-| 341 | 217 | Louise Parker |
+| 337 | 217 | Ashleyy Netchert |
+| 338 | 217 | Louise Parker |
+| 339 | 217 | LaShaun Stinson |
+| 340 | 217 | Tamika Fisher |
+| 341 | 217 | Snippy Breaker |
 | 342 | 214 | Stephen Providenti |
 | 343 | 213 | Lazy Tiltpiece |
 | 344 | 212 | Simply-Beautiful007 |
-| 345 | 211 | Nina Davis |
-| 346 | 211 | Shanaa Germany Crittenden |
+| 345 | 211 | Shanaa Germany Crittenden |
+| 346 | 211 | Nina Davis |
 | 347 | 211 | Charletha Williams |
-| 348 | 210 | Sarah Clark |
-| 349 | 210 | Alyssa Rae |
+| 348 | 210 | Alyssa Rae |
+| 349 | 210 | Sarah Clark |
 | 350 | 209 | Antonia Wyche |
-| 351 | 209 | $hort Dog |
-| 352 | 209 | Guy Incognito |
-| 353 | 209 | Phillip Vasquez |
-| 354 | 209 | Darrel K Pemberton |
+| 351 | 209 | Guy Incognito |
+| 352 | 209 | Phillip Vasquez |
+| 353 | 209 | Darrel K Pemberton |
+| 354 | 209 | $hort Dog |
 | 355 | 208 | izzybella |
 | 356 | 205 | Treneil Daffin |
 | 357 | 205 | OhNoZer0 |
 | 358 | 203 | Daris Swearington |
-| 359 | 202 | Poppy Buildout |
-| 360 | 202 | Sammie Walker |
+| 359 | 202 | Sammie Walker |
+| 360 | 202 | Messy Live |
 | 361 | 202 | Peppy Glider |
 | 362 | 202 | Crystal Cheresnowsky |
-| 363 | 202 | Messy Live |
+| 363 | 202 | Poppy Buildout |
 | 364 | 201 | Richard Flex |
 | 365 | 201 | Rayshawn Cohen |
-| 366 | 200 | Lisa Fletcher |
-| 367 | 200 | TBABYJ |
-| 368 | 200 | Teri Marie Clayton |
-| 369 | 200 | kitten |
-| 370 | 200 | Maribel Vasquez |
+| 366 | 200 | Maribel Vasquez |
+| 367 | 200 | kitten |
+| 368 | 200 | Lisa Fletcher |
+| 369 | 200 | Teri Marie Clayton |
+| 370 | 200 | TBABYJ |
 | 371 | 199 | Fina McKinnis |
 | 372 | 197 | De'Nell Edwards |
 | 373 | 196 | BabyCakes |
 | 374 | 194 | Cheery Linkfall |
 | 375 | 194 | Nickeya Phillips |
-| 376 | 192 | Joana Thompson |
-| 377 | 192 | Hyper Blocky |
+| 376 | 192 | Hyper Blocky |
+| 377 | 192 | Joana Thompson |
 | 378 | 190 | Chipper Snapper |
-| 379 | 189 | Nate Myers |
-| 380 | 189 | Jolly Tilefall |
-| 381 | 189 | Sean White |
-| 382 | 189 | Tosha Michelle |
+| 379 | 189 | Jolly Tilefall |
+| 380 | 189 | Sean White |
+| 381 | 189 | Tosha Michelle |
+| 382 | 189 | Nate Myers |
 | 383 | 188 | Travis Davison |
 | 384 | 188 | CJ Robinson |
 | 385 | 188 | Tyiesha Pie Farmer |
 | 386 | 187 | Jennah |
 | 387 | 187 | Frankey Chi |
-| 388 | 187 | Kristine Marie Palmer |
-| 389 | 187 | MACHETEEDDIE513 |
+| 388 | 187 | MACHETEEDDIE513 |
+| 389 | 187 | Kristine Marie Palmer |
 | 390 | 186 | Monica Tovar |
-| 391 | 185 | Giggy Tower |
-| 392 | 185 | Sarah Swietlicki - Lopez |
+| 391 | 185 | Sarah Swietlicki - Lopez |
+| 392 | 185 | Giggy Tower |
 | 393 | 184 | Amy Lynn Leifheit |
-| 394 | 184 | Bbyunicorn |
-| 395 | 184 | Soubletzy |
-| 396 | 183 | Slinky Snapbuilder |
-| 397 | 183 | Mary Phillippi Blanton |
-| 398 | 183 | Kyra Coleman |
+| 394 | 184 | Soubletzy |
+| 395 | 184 | Bbyunicorn |
+| 396 | 183 | Kyra Coleman |
+| 397 | 183 | Slinky Snapbuilder |
+| 398 | 183 | Mary Phillippi Blanton |
 | 399 | 183 | wmedina67 |
-| 400 | 182 | Courtney Cicoria |
-| 401 | 182 | Matthieu Pistone |
-| 402 | 182 | 大竹直之 |
-| 403 | 182 | Comedian Prince Paul |
+| 400 | 182 | 大竹直之 |
+| 401 | 182 | Comedian Prince Paul |
+| 402 | 182 | Matthieu Pistone |
+| 403 | 182 | Courtney Cicoria |
 | 404 | 181 | Sharee Robinson |
-| 405 | 180 | akosua |
-| 406 | 180 | Larina Cherie Johnson |
+| 405 | 180 | Daddy |
+| 406 | 180 | Cornelius Neal |
 | 407 | 180 | Zippy Lifter |
-| 408 | 180 | Daddy |
-| 409 | 180 | Cornelius Neal |
-| 410 | 179 | Skippy |
+| 408 | 180 | akosua |
+| 409 | 180 | Larina Cherie Johnson |
+| 410 | 179 | KeeKee Williams |
 | 411 | 179 | Lively Riserpiece |
-| 412 | 179 | KeeKee Williams |
+| 412 | 179 | Skippy |
 | 413 | 178 | Manda Allen |
 | 414 | 177 | Cece Fowler |
 | 415 | 177 | Valerie Alexander |
@@ -508,21 +508,21 @@
 | 500 | 147 | Joka NoTime ForHataz |
 | 501 | 146 | FunTime |
 | 502 | 146 | whatever |
-| 503 | 145 | Squaw Ki Ng |
-| 504 | 145 | Shea Ladynick Henderson |
-| 505 | 144 | Douglas Price |
-| 506 | 144 | Ta'Kaiyah M. Spann |
-| 507 | 144 | Hardtohandle91 |
+| 503 | 146 | Bella |
+| 504 | 145 | Squaw Ki Ng |
+| 505 | 145 | Shea Ladynick Henderson |
+| 506 | 144 | Douglas Price |
+| 507 | 144 | Ta'Kaiyah M. Spann |
 | 508 | 144 | Kp |
-| 509 | 143 | Ashlie Mo |
-| 510 | 142 | Kelley Johnson |
-| 511 | 142 | Sarah Steckbauer |
-| 512 | 141 | Frances Davis |
-| 513 | 141 | Shalena Marie Humphrey |
-| 514 | 141 | Kate Hancock Malicek |
-| 515 | 140 | Tessa Gaskin |
+| 509 | 144 | Hardtohandle91 |
+| 510 | 143 | Ashlie Mo |
+| 511 | 142 | Kelley Johnson |
+| 512 | 142 | Sarah Steckbauer |
+| 513 | 141 | Frances Davis |
+| 514 | 141 | Shalena Marie Humphrey |
+| 515 | 141 | Kate Hancock Malicek |
 | 516 | 140 | Antoinette Jones |
-| 517 | 140 | Bella |
+| 517 | 140 | Tessa Gaskin |
 | 518 | 140 | Kennedi Brazziel |
 | 519 | 139 | Bold Clusterer |
 | 520 | 139 | Tracy Feyler |
