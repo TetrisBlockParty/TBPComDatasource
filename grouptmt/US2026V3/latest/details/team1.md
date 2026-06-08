@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 13:16:41 UTC
+# Standings for team1 as of 2026-06-08 13:17:22 UTC
 
 **Total Participants:** 1796
 
@@ -58,13 +58,13 @@
 | 50 | 1617 | Mimi 1.0 |
 | 51 | 1548 | Jennifer To |
 | 52 | 1538 | Jacoby E Fleming |
-| 53 | 1512 | Janine Hunter |
+| 53 | 1528 | Janine Hunter |
 | 54 | 1489 | Robyn Caldwell |
 | 55 | 1482 | Shortstak |
 | 56 | 1461 | Janet Cooke |
 | 57 | 1313 | Ashley Espeut |
-| 58 | 1268 | Brian Bohanon II |
-| 59 | 1266 | Blockhead |
+| 58 | 1273 | Blockhead |
+| 59 | 1268 | Brian Bohanon II |
 | 60 | 1259 | Sanjuro |
 | 61 | 1251 | Daylene Johannes |
 | 62 | 1239 | Holly Jolly |
@@ -312,8 +312,8 @@
 | 304 | 270 | Melissa D. M. Hornsby |
 | 305 | 269 | DaGuy |
 | 306 | 264 | Wild Out Nai |
-| 307 | 262 | Jai |
-| 308 | 262 | MamushiOh |
+| 307 | 262 | MamushiOh |
+| 308 | 262 | Jai |
 | 309 | 260 | Jhaime |
 | 310 | 260 | Sara Meri |
 | 311 | 260 | Nerdy Blockpiece |
@@ -325,35 +325,35 @@
 | 317 | 253 | Tasha |
 | 318 | 252 | Andrew Jay Vaughn |
 | 319 | 250 | Deveda Williams |
-| 320 | 249 | kitten |
-| 321 | 248 | Darrel K Pemberton |
-| 322 | 246 | HarleyJane |
-| 323 | 246 | Curtis T Cirno |
-| 324 | 245 | Derrius SeriousLee Burks |
-| 325 | 245 | 大竹直之 |
+| 320 | 250 | Chandler Magee |
+| 321 | 249 | kitten |
+| 322 | 248 | Darrel K Pemberton |
+| 323 | 247 | Bbyunicorn |
+| 324 | 246 | HarleyJane |
+| 325 | 246 | Curtis T Cirno |
 | 326 | 245 | Kelli Couture |
-| 327 | 244 | LaTonya Myers |
-| 328 | 244 | Dai Bo |
-| 329 | 244 | Teddy Davis |
-| 330 | 243 | LaShaun Stinson |
-| 331 | 242 | Bbyunicorn |
-| 332 | 242 | Sammie Walker |
-| 333 | 242 | Tay |
+| 327 | 245 | Derrius SeriousLee Burks |
+| 328 | 245 | 大竹直之 |
+| 329 | 244 | LaTonya Myers |
+| 330 | 244 | Dai Bo |
+| 331 | 244 | Teddy Davis |
+| 332 | 243 | LaShaun Stinson |
+| 333 | 242 | Sammie Walker |
 | 334 | 242 | Tamika Rocheteau |
-| 335 | 240 | Emily Wright |
-| 336 | 240 | Christian Pham |
-| 337 | 239 | Tamara Johnson-Carter |
-| 338 | 239 | Rachael R Gull |
-| 339 | 239 | Chandler Magee |
+| 335 | 242 | Tay |
+| 336 | 240 | Emily Wright |
+| 337 | 240 | Christian Pham |
+| 338 | 239 | Tamara Johnson-Carter |
+| 339 | 239 | Rachael R Gull |
 | 340 | 238 | Perky Pusher |
 | 341 | 236 | Rachael Bakowicz Edwards |
 | 342 | 236 | Shanaa Germany Crittenden |
 | 343 | 235 | Sade Goodwine |
 | 344 | 233 | Nicole Watson-Dixon |
 | 345 | 231 | Tipsy Linkroll |
-| 346 | 230 | Hailey Hil |
-| 347 | 230 | Brittnay Wright |
-| 348 | 230 | Still Ten Tay |
+| 346 | 230 | Still Ten Tay |
+| 347 | 230 | Hailey Hil |
+| 348 | 230 | Brittnay Wright |
 | 349 | 229 | De'Mear McKinney |
 | 350 | 227 | MACHETEEDDIE513 |
 | 351 | 224 | Asha Langford |
@@ -501,7 +501,7 @@
 | 493 | 159 | Loopy Tiler |
 | 494 | 158 | Kimberly Linares Hernandez |
 | 495 | 158 | Mahagony Small |
-| 496 | 157 | Jimmy Shannon |
+| 496 | 158 | Jimmy Shannon |
 | 497 | 157 | Rachel Renae Bettis |
 | 498 | 156 | Shalya Terry |
 | 499 | 156 | Johnathan Deese |
