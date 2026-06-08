@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 12:24:43 UTC
+# Standings for team1 as of 2026-06-08 12:25:19 UTC
 
 **Total Participants:** 1788
 
@@ -54,15 +54,15 @@
 | 46 | 1689 | Chris Russell |
 | 47 | 1684 | Ceilo Marie |
 | 48 | 1633 | Cherry Rose |
-| 49 | 1612 | D'Andra Stewart |
+| 49 | 1622 | D'Andra Stewart |
 | 50 | 1548 | Jennifer To |
 | 51 | 1538 | Jacoby E Fleming |
 | 52 | 1489 | Robyn Caldwell |
 | 53 | 1482 | Shortstak |
 | 54 | 1461 | Janet Cooke |
 | 55 | 1313 | Ashley Espeut |
-| 56 | 1251 | Daylene Johannes |
-| 57 | 1241 | Sanjuro |
+| 56 | 1251 | Sanjuro |
+| 57 | 1251 | Daylene Johannes |
 | 58 | 1239 | Holly Jolly |
 | 59 | 1208 | Aviv Zehavi |
 | 60 | 1207 | Angela R Wilson |
@@ -113,10 +113,10 @@
 | 105 | 787 | Dawn L Washington-Feuquay |
 | 106 | 766 | Tameka Jones |
 | 107 | 754 | LeeLee08 |
-| 108 | 744 | Chris Caniglia |
-| 109 | 741 | Sarah Marie |
-| 110 | 730 | ing410 |
-| 111 | 726 | Kellie Hall |
+| 108 | 746 | Kellie Hall |
+| 109 | 744 | Chris Caniglia |
+| 110 | 741 | Sarah Marie |
+| 111 | 730 | ing410 |
 | 112 | 723 | Eartha Brown |
 | 113 | 720 | No_Other_Choice |
 | 114 | 720 | Felicia Williams |
@@ -252,11 +252,11 @@
 | 244 | 327 | Zachary Colegrove |
 | 245 | 326 | Christopher Dreamsareality McEachin |
 | 246 | 325 | Koi |
-| 247 | 323 | Bre Poston |
-| 248 | 323 | Heather Aurelia |
-| 249 | 322 | Rhonda Williams Warner |
-| 250 | 320 | Natasha Rucker |
-| 251 | 320 | NastyFriend |
+| 247 | 324 | NastyFriend |
+| 248 | 323 | Bre Poston |
+| 249 | 323 | Heather Aurelia |
+| 250 | 322 | Rhonda Williams Warner |
+| 251 | 320 | Natasha Rucker |
 | 252 | 318 | Calvin Green |
 | 253 | 318 | Nerdy Snapfall |
 | 254 | 318 | Jhonny Maii |
@@ -427,47 +427,47 @@
 | 419 | 185 | Tesiree Cray |
 | 420 | 184 | Soubletzy |
 | 421 | 184 | Bbyunicorn |
-| 422 | 183 | Erika |
-| 423 | 183 | LuckyStar |
-| 424 | 183 | Mary Phillippi Blanton |
-| 425 | 183 | Tushama Cheris Okraku |
-| 426 | 183 | wmedina67 |
-| 427 | 182 | Courtney Cicoria |
+| 422 | 183 | wmedina67 |
+| 423 | 183 | NewEve |
+| 424 | 183 | Erika |
+| 425 | 183 | LuckyStar |
+| 426 | 183 | Tushama Cheris Okraku |
+| 427 | 183 | Mary Phillippi Blanton |
 | 428 | 182 | Comedian Prince Paul |
-| 429 | 181 | Sharee Robinson |
-| 430 | 180 | Zippy Lifter |
-| 431 | 180 | Chris Rogers |
-| 432 | 180 | Cornelius Neal |
+| 429 | 182 | Courtney Cicoria |
+| 430 | 181 | Sharee Robinson |
+| 431 | 180 | Cornelius Neal |
+| 432 | 180 | Daddy |
 | 433 | 180 | Larina Cherie Johnson |
-| 434 | 180 | Daddy |
-| 435 | 180 | akosua |
-| 436 | 179 | Giggy Clusterer |
+| 434 | 180 | akosua |
+| 435 | 180 | Chris Rogers |
+| 436 | 180 | Zippy Lifter |
 | 437 | 179 | KeeKee Williams |
-| 438 | 179 | Skippy |
-| 439 | 179 | Lively Riserpiece |
-| 440 | 178 | Manda Allen |
-| 441 | 177 | SceneGreenz Wali |
-| 442 | 177 | Cece Fowler |
-| 443 | 176 | Char |
-| 444 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 445 | 175 | Boldy Matchbuilder |
-| 446 | 174 | NewEve |
+| 438 | 179 | Giggy Clusterer |
+| 439 | 179 | Skippy |
+| 440 | 179 | Lively Riserpiece |
+| 441 | 178 | Manda Allen |
+| 442 | 177 | SceneGreenz Wali |
+| 443 | 177 | Cece Fowler |
+| 444 | 176 | Char |
+| 445 | 175 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 446 | 175 | Boldy Matchbuilder |
 | 447 | 174 | ChunLi |
 | 448 | 173 | Tajuana Juana'Cee Coleman |
 | 449 | 172 | Kendra McIntyre |
-| 450 | 171 | Brittany Fells |
-| 451 | 171 | Telisha Mims |
-| 452 | 170 | Nisha Sunshine Jenkins |
+| 450 | 171 | Telisha Mims |
+| 451 | 171 | Brittany Fells |
+| 452 | 170 | Katrina Ramey |
 | 453 | 170 | Yadira Salgado |
-| 454 | 170 | Katrina Ramey |
+| 454 | 170 | Nisha Sunshine Jenkins |
 | 455 | 169 | Douglas Price |
 | 456 | 169 | rb |
-| 457 | 169 | Bubbly Piececlear |
-| 458 | 169 | Clipzby |
+| 457 | 169 | Clipzby |
+| 458 | 169 | Bubbly Piececlear |
 | 459 | 168 | Shanns |
 | 460 | 168 | Lounique |
-| 461 | 167 | MonaSparks |
-| 462 | 167 | Mister Reid |
+| 461 | 167 | Mister Reid |
+| 462 | 167 | MonaSparks |
 | 463 | 167 | Juicy |
 | 464 | 167 | Charlene Baltimore |
 | 465 | 166 | Analiza Ramos |
