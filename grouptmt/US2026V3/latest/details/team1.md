@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 22:54:43 UTC
+# Standings for team1 as of 2026-06-08 22:55:23 UTC
 
 **Total Participants:** 1894
 
@@ -186,8 +186,8 @@
 | 178 | 519 | Slinky Party |
 | 179 | 517 | Kaleisha Smith |
 | 180 | 513 | Sharon Cail |
-| 181 | 511 | Dizzy Dropper |
-| 182 | 509 | IThinkNot |
+| 181 | 513 | IThinkNot |
+| 182 | 511 | Dizzy Dropper |
 | 183 | 505 | Marcheta Cervantez |
 | 184 | 499 | Tamara N Lee |
 | 185 | 497 | Dandy Brickfit |
@@ -587,46 +587,46 @@
 | 579 | 161 | Rosalind Chatman |
 | 580 | 160 | Carolyn Smith |
 | 581 | 160 | Spotlight |
-| 582 | 160 | Cheeky Twistpiece |
-| 583 | 160 | Kesha Brady |
-| 584 | 159 | Frances Davis |
-| 585 | 159 | Latore Maxie |
-| 586 | 159 | Tee Spinks |
-| 587 | 159 | Kyle Conley |
-| 588 | 159 | Loopy Tiler |
+| 582 | 160 | Kesha Brady |
+| 583 | 160 | Cheeky Twistpiece |
+| 584 | 159 | Loopy Tiler |
+| 585 | 159 | Frances Davis |
+| 586 | 159 | Kyle Conley |
+| 587 | 159 | Tee Spinks |
+| 588 | 159 | Latore Maxie |
 | 589 | 158 | SnazzyIvy |
-| 590 | 158 | TotoCherue |
-| 591 | 158 | Seddrick |
-| 592 | 157 | Zany Breaker |
-| 593 | 157 | Chirpy Buildgrid |
-| 594 | 157 | Lilly Brown |
-| 595 | 157 | Twisty Brickfit |
-| 596 | 157 | krd |
-| 597 | 156 | Montego Allen |
-| 598 | 156 | Ryan Runyan |
-| 599 | 156 | Sara |
-| 600 | 156 | Melissa Hershberger |
-| 601 | 156 | Shalya Terry |
-| 602 | 156 | Casey Chapman |
-| 603 | 156 | Karen Denen |
-| 604 | 156 | Polite Granny |
-| 605 | 155 | MzJuice Box |
+| 590 | 158 | Seddrick |
+| 591 | 158 | TotoCherue |
+| 592 | 158 | Giddy Staggerpiece |
+| 593 | 157 | Zany Breaker |
+| 594 | 157 | Chirpy Buildgrid |
+| 595 | 157 | krd |
+| 596 | 157 | Lilly Brown |
+| 597 | 157 | Twisty Brickfit |
+| 598 | 156 | Polite Granny |
+| 599 | 156 | Montego Allen |
+| 600 | 156 | Karen Denen |
+| 601 | 156 | Casey Chapman |
+| 602 | 156 | Shalya Terry |
+| 603 | 156 | Melissa Hershberger |
+| 604 | 156 | Sara |
+| 605 | 156 | Ryan Runyan |
 | 606 | 155 | Kala Miller |
-| 607 | 155 | Nerdy Climber |
-| 608 | 154 | Glitzy Clusterer |
-| 609 | 154 | Lynn |
-| 610 | 154 | Rebecca Jackson |
-| 611 | 154 | Kp |
-| 612 | 152 | Nyhlah Patterson |
-| 613 | 152 | Essence Jones |
-| 614 | 152 | Duncan Timothy |
-| 615 | 152 | Wacky Stackbuilder |
-| 616 | 152 | Yashica Smith |
-| 617 | 151 | James Bryant II |
-| 618 | 151 | Pj Rojas |
-| 619 | 150 | Kanary Karotz |
-| 620 | 150 | Cheri Robinson |
-| 621 | 150 | Giddy Staggerpiece |
+| 607 | 155 | MzJuice Box |
+| 608 | 155 | Nerdy Climber |
+| 609 | 154 | Glitzy Clusterer |
+| 610 | 154 | Lynn |
+| 611 | 154 | Rebecca Jackson |
+| 612 | 154 | Kp |
+| 613 | 152 | Nyhlah Patterson |
+| 614 | 152 | Essence Jones |
+| 615 | 152 | Duncan Timothy |
+| 616 | 152 | Wacky Stackbuilder |
+| 617 | 152 | Yashica Smith |
+| 618 | 151 | James Bryant II |
+| 619 | 151 | Pj Rojas |
+| 620 | 150 | Kanary Karotz |
+| 621 | 150 | Cheri Robinson |
 | 622 | 150 | Ad Doctor |
 | 623 | 150 | Taneka Howell |
 | 624 | 150 | Antoinette Jones |
