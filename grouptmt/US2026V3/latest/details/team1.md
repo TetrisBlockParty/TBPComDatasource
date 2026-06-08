@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:10:20 UTC
+# Standings for team1 as of 2026-06-08 14:10:42 UTC
 
 **Total Participants:** 1803
 
@@ -527,87 +527,87 @@
 | 519 | 154 | Glitzy Clusterer |
 | 520 | 154 | Rebecca Jackson |
 | 521 | 153 | Holly Baker |
-| 522 | 152 | Zappy Snapgrid |
-| 523 | 152 | Mighty Dropper |
-| 524 | 152 | Wacky Stackbuilder |
+| 522 | 152 | Mighty Dropper |
+| 523 | 152 | Wacky Stackbuilder |
+| 524 | 152 | Zappy Snapgrid |
 | 525 | 151 | Shakuria Cortia Burney |
-| 526 | 151 | Yashica Smith |
-| 527 | 151 | Perky Balancer |
+| 526 | 151 | Perky Balancer |
+| 527 | 151 | Yashica Smith |
 | 528 | 150 | Mommy Frank |
-| 529 | 150 | TotoCherue |
-| 530 | 150 | Ta'Kaiyah M. Spann |
+| 529 | 150 | Ta'Kaiyah M. Spann |
+| 530 | 150 | TotoCherue |
 | 531 | 150 | Taneka Howell |
 | 532 | 150 | Marshall Davis |
-| 533 | 149 | Casey Chapman |
-| 534 | 149 | Twisty Brickfit |
-| 535 | 149 | Kristie |
-| 536 | 148 | Faith Armone |
-| 537 | 148 | Rufus |
+| 533 | 149 | Twisty Brickfit |
+| 534 | 149 | Kristie |
+| 535 | 149 | Casey Chapman |
+| 536 | 148 | Cauiasia DeJ'ae |
+| 537 | 148 | Faith Armone |
 | 538 | 148 | Rhianna Dinki Austin |
-| 539 | 148 | Seddrick |
+| 539 | 148 | Rufus |
 | 540 | 148 | Shannon Carriger |
 | 541 | 148 | Christi Walker Patton |
-| 542 | 148 | Cauiasia DeJ'ae |
-| 543 | 147 | Joka NoTime ForHataz |
-| 544 | 147 | Mathew Trudell |
-| 545 | 146 | whatever |
-| 546 | 146 | Bella |
-| 547 | 146 | FunTime |
+| 542 | 148 | Seddrick |
+| 543 | 147 | Mathew Trudell |
+| 544 | 147 | Joka NoTime ForHataz |
+| 545 | 146 | FunTime |
+| 546 | 146 | whatever |
+| 547 | 146 | Bella |
 | 548 | 146 | Giggly Tiltbuilder |
 | 549 | 145 | Squaw Ki Ng |
 | 550 | 144 | Kp |
 | 551 | 144 | Juan Santiago |
 | 552 | 143 | Cheri Robinson |
-| 553 | 143 | Andy Rivera |
-| 554 | 143 | Wayne Savannah |
-| 555 | 142 | Semaj Johnson |
-| 556 | 142 | Sarah Steckbauer |
-| 557 | 142 | Sara |
+| 553 | 143 | Wayne Savannah |
+| 554 | 143 | Andy Rivera |
+| 555 | 142 | Poyre Shelton |
+| 556 | 142 | Sara |
+| 557 | 142 | Sarah Steckbauer |
 | 558 | 142 | Kelley Johnson |
-| 559 | 141 | Krystal Maynard |
+| 559 | 142 | Semaj Johnson |
 | 560 | 141 | Shalena Marie Humphrey |
 | 561 | 141 | Betsy B. Yohan |
-| 562 | 140 | TBabii24 |
-| 563 | 140 | Kim Holzmiller |
-| 564 | 140 | Kennedi Brazziel |
-| 565 | 140 | Tessa Gaskin |
-| 566 | 140 | SherylU |
+| 562 | 141 | Krystal Maynard |
+| 563 | 140 | Tessa Gaskin |
+| 564 | 140 | SherylU |
+| 565 | 140 | Kennedi Brazziel |
+| 566 | 140 | TBabii24 |
 | 567 | 140 | Antoinette Jones |
-| 568 | 139 | TRUBBLE45 |
-| 569 | 138 | Ozell Jones Jr. |
-| 570 | 138 | Alexandrla Smith |
-| 571 | 138 | Ashley Monet Terrell |
-| 572 | 138 | Claudia Price |
-| 573 | 138 | Dreamzzz |
-| 574 | 137 | Kelvin Cook |
-| 575 | 137 | Angelique Talbot |
-| 576 | 136 | Guard Up |
-| 577 | 136 | Duncan Timothy |
+| 568 | 140 | Kim Holzmiller |
+| 569 | 139 | TRUBBLE45 |
+| 570 | 138 | Ashley Monet Terrell |
+| 571 | 138 | Alexandrla Smith |
+| 572 | 138 | Ozell Jones Jr. |
+| 573 | 138 | Claudia Price |
+| 574 | 138 | Dreamzzz |
+| 575 | 137 | Kelvin Cook |
+| 576 | 137 | Angelique Talbot |
+| 577 | 136 | Guard Up |
 | 578 | 136 | Gbnola |
-| 579 | 136 | Angela Brown Babin |
-| 580 | 136 | Christina Singleton |
-| 581 | 136 | The DUBZ |
-| 582 | 135 | Saucy Tile |
-| 583 | 135 | Chirpy Buildgrid |
-| 584 | 135 | MzJuice Box |
-| 585 | 135 | Paul Pendley |
+| 579 | 136 | Duncan Timothy |
+| 580 | 136 | The DUBZ |
+| 581 | 136 | Christina Singleton |
+| 582 | 136 | Angela Brown Babin |
+| 583 | 135 | Saucy Tile |
+| 584 | 135 | Chirpy Buildgrid |
+| 585 | 135 | MzJuice Box |
 | 586 | 135 | Shameka Tiffany |
-| 587 | 134 | Zany Breaker |
+| 587 | 135 | Paul Pendley |
 | 588 | 134 | Aaron Hartmann |
-| 589 | 133 | Kimberly Susan Privette |
+| 589 | 134 | Zany Breaker |
 | 590 | 133 | Yashicha Hertzock |
 | 591 | 133 | Marlynnnnn |
-| 592 | 132 | Bambam |
-| 593 | 132 | Jack Vlasak |
-| 594 | 132 | Jeffrey Barrows |
-| 595 | 132 | Poyre Shelton |
+| 592 | 133 | Kimberly Susan Privette |
+| 593 | 132 | Jeffrey Barrows |
+| 594 | 132 | Jack Vlasak |
+| 595 | 132 | Bambam |
 | 596 | 131 | Karen Denen |
 | 597 | 131 | Kimberly Anderson |
 | 598 | 131 | Cynthia Cruell |
-| 599 | 130 | Kesha Brady |
+| 599 | 130 | Jessica Davis |
 | 600 | 130 | Gerold Folk Haddock |
 | 601 | 130 | Brenda Malachi-butler |
-| 602 | 130 | Jessica Davis |
+| 602 | 130 | Kesha Brady |
 | 603 | 130 | Victoria Smith |
 | 604 | 129 | PSD |
 | 605 | 129 | Lucy |
