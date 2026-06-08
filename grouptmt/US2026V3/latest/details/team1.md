@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-08 14:38:20 UTC
+# Standings for team1 as of 2026-06-08 14:38:42 UTC
 
 **Total Participants:** 1811
 
@@ -47,10 +47,10 @@
 | 39 | 2172 | COSA303 |
 | 40 | 2138 | Linzie Marie |
 | 41 | 2076 | April Inboden |
-| 42 | 1789 | Jolly Dropzone |
-| 43 | 1752 | D'Andra Stewart |
-| 44 | 1709 | Chris Russell |
-| 45 | 1706 | Janine Hunter |
+| 42 | 1894 | Janine Hunter |
+| 43 | 1789 | Jolly Dropzone |
+| 44 | 1752 | D'Andra Stewart |
+| 45 | 1709 | Chris Russell |
 | 46 | 1705 | Markeeta Lipscomb |
 | 47 | 1700 | Rosey |
 | 48 | 1693 | JoJo |
@@ -289,10 +289,10 @@
 | 281 | 300 | Ketrell Bailey |
 | 282 | 300 | Slinky Brickmatch |
 | 283 | 296 | Nikki Hogan |
-| 284 | 295 | Mafio SO |
-| 285 | 294 | Frisky Fall |
-| 286 | 294 | Tonya McElroy |
-| 287 | 294 | Dandy Brickfit |
+| 284 | 296 | Dandy Brickfit |
+| 285 | 295 | Mafio SO |
+| 286 | 294 | Frisky Fall |
+| 287 | 294 | Tonya McElroy |
 | 288 | 293 | Tonya Lee Sanders |
 | 289 | 292 | Ann Chung |
 | 290 | 291 | Brian Taylor |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-08 14:38:20 UTC
+# Standings for team4 as of 2026-06-08 14:38:42 UTC
 
 **Total Participants:** 1847
 
@@ -25,12 +25,12 @@
 | 17 | 5082 | Squirrel Donkey |
 | 18 | 4939 | Bryony Nicholson |
 | 19 | 4772 | Anna Moses |
-| 20 | 4600 | Chris Hills |
-| 21 | 4579 | Nia Mayfield |
-| 22 | 4489 | Ning Quiambao |
-| 23 | 4321 | Tyra Brooke Everman Forest |
-| 24 | 4285 | Jackie Lucas |
-| 25 | 4254 | Senor Moppy |
+| 20 | 4654 | Senor Moppy |
+| 21 | 4600 | Chris Hills |
+| 22 | 4579 | Nia Mayfield |
+| 23 | 4489 | Ning Quiambao |
+| 24 | 4321 | Tyra Brooke Everman Forest |
+| 25 | 4285 | Jackie Lucas |
 | 26 | 4217 | Daring Ziggy |
 | 27 | 4149 | Witty Clicky |
 | 28 | 3935 | TitiLo72 |
@@ -114,7 +114,7 @@
 | 106 | 758 | Regina Williams |
 | 107 | 749 | Hairy Snake |
 | 108 | 744 | adrian |
-| 109 | 738 | Kim |
+| 109 | 743 | Kim |
 | 110 | 731 | GeorgeButts |
 | 111 | 730 | Chaz Duncan |
 | 112 | 727 | Kay |
@@ -267,36 +267,36 @@
 | 259 | 299 | Dana Abegil Lawas |
 | 260 | 297 | JayJay Smith |
 | 261 | 296 | Dae Von |
-| 262 | 296 | WeeWooWee |
-| 263 | 296 | Bre Dee |
-| 264 | 296 | beauxie |
-| 265 | 296 | PerfectPieces |
+| 262 | 296 | Bre Dee |
+| 263 | 296 | beauxie |
+| 264 | 296 | PerfectPieces |
+| 265 | 296 | WeeWooWee |
 | 266 | 294 | Solace Grace |
-| 267 | 293 | Logan Two-dubs Baker |
-| 268 | 293 | Joseph Hunter |
-| 269 | 293 | Spicy Chicken |
+| 267 | 293 | Spicy Chicken |
+| 268 | 293 | Logan Two-dubs Baker |
+| 269 | 293 | Joseph Hunter |
 | 270 | 290 | Tawna Curry |
-| 271 | 290 | Brian Woods |
-| 272 | 289 | Shepreneur Sade |
-| 273 | 289 | jaz |
-| 274 | 287 | Cheery Risegrid |
-| 275 | 286 | Dubiousdust |
+| 271 | 290 | Tina Thomas |
+| 272 | 290 | Brian Woods |
+| 273 | 289 | Shepreneur Sade |
+| 274 | 289 | jaz |
+| 275 | 287 | Cheery Risegrid |
 | 276 | 286 | Erika Seaton |
-| 277 | 284 | Tipsy Builderline |
-| 278 | 283 | Tiggerjake |
-| 279 | 282 | Shanna Fragen |
-| 280 | 282 | Goofy Fall |
-| 281 | 282 | Troy Zanelli |
-| 282 | 281 | Margie Thomas |
-| 283 | 281 | Ash Gribble |
-| 284 | 281 | Capone |
-| 285 | 281 | Waxboss |
-| 286 | 280 | Snippy Splitter |
-| 287 | 278 | Tamara Triplet |
-| 288 | 278 | Becky McCool |
-| 289 | 278 | Cranky Buildout |
-| 290 | 277 | Giggly Tilt |
-| 291 | 277 | Tina Thomas |
+| 277 | 286 | Dubiousdust |
+| 278 | 284 | Tipsy Builderline |
+| 279 | 283 | Tiggerjake |
+| 280 | 282 | Shanna Fragen |
+| 281 | 282 | Goofy Fall |
+| 282 | 282 | Troy Zanelli |
+| 283 | 281 | Margie Thomas |
+| 284 | 281 | Ash Gribble |
+| 285 | 281 | Capone |
+| 286 | 281 | Waxboss |
+| 287 | 280 | Snippy Splitter |
+| 288 | 278 | Tamara Triplet |
+| 289 | 278 | Becky McCool |
+| 290 | 278 | Cranky Buildout |
+| 291 | 277 | Giggly Tilt |
 | 292 | 276 | Lori Stembridge |
 | 293 | 275 | Jeremy |
 | 294 | 274 | Dominique Melendez |
@@ -344,45 +344,45 @@
 | 336 | 239 | Slinky Column |
 | 337 | 238 | Tara Delay Hill |
 | 338 | 238 | kellie |
-| 339 | 237 | Jazzy Gridder |
-| 340 | 237 | Deborah Silberg |
-| 341 | 237 | Beth Belanger |
+| 339 | 237 | Deborah Silberg |
+| 340 | 237 | Beth Belanger |
+| 341 | 237 | Jazzy Gridder |
 | 342 | 233 | Dizzy Slammer |
 | 343 | 232 | Carla Woodard |
 | 344 | 230 | gabs |
-| 345 | 229 | Chonda OhanaMomma Michelle |
-| 346 | 229 | Melika Zeheb |
-| 347 | 229 | farfromlocal |
-| 348 | 228 | Andrick |
-| 349 | 228 | Shiny Brick |
+| 345 | 229 | Melika Zeheb |
+| 346 | 229 | Laurie Patrick |
+| 347 | 229 | Chonda OhanaMomma Michelle |
+| 348 | 229 | farfromlocal |
+| 349 | 228 | Andrick |
 | 350 | 228 | Nerdy Faller |
-| 351 | 227 | Kimyatta Cavin |
-| 352 | 227 | Stephanie Myers |
-| 353 | 226 | Smiley Gridzone |
-| 354 | 226 | Sassy Rollpiece |
-| 355 | 226 | Toon Up |
-| 356 | 226 | Susan Stofberg Beltran |
-| 357 | 226 | Buddyblock |
-| 358 | 225 | Luna |
-| 359 | 225 | Knijur Callins |
-| 360 | 225 | Laurie Patrick |
+| 351 | 228 | Shiny Brick |
+| 352 | 227 | Kimyatta Cavin |
+| 353 | 227 | Stephanie Myers |
+| 354 | 226 | Smiley Gridzone |
+| 355 | 226 | Susan Stofberg Beltran |
+| 356 | 226 | Sassy Rollpiece |
+| 357 | 226 | Toon Up |
+| 358 | 226 | Buddyblock |
+| 359 | 225 | Luna |
+| 360 | 225 | Knijur Callins |
 | 361 | 224 | Ashley Jenkins |
 | 362 | 224 | Rachel Lemos |
 | 363 | 224 | Mark Fitch Jr. |
-| 364 | 223 | Frothy Pattern |
-| 365 | 223 | Bouncy |
-| 366 | 223 | Cindy |
+| 364 | 223 | Cindy |
+| 365 | 223 | Frothy Pattern |
+| 366 | 223 | Bouncy |
 | 367 | 222 | Snow77white |
 | 368 | 222 | Cheeky Fallzone |
 | 369 | 221 | LaTanya GeminiondaRise Johnson |
 | 370 | 221 | JuicyJuice |
-| 371 | 220 | Anthony Magaraci |
+| 371 | 220 | Mrs |
 | 372 | 220 | Goofy Linkmatch |
-| 373 | 220 | Mrs |
+| 373 | 220 | Anthony Magaraci |
 | 374 | 220 | Sarah Montagne Forsberg |
 | 375 | 219 | Crystal Hammonds |
-| 376 | 219 | JoAnn Summerlot Ratliff |
-| 377 | 219 | Tiffany Smith |
+| 376 | 219 | Tiffany Smith |
+| 377 | 219 | JoAnn Summerlot Ratliff |
 | 378 | 218 | Codey Haffner |
 | 379 | 217 | LeRoy jenkins |
 | 380 | 216 | Alyson M Kehler |
@@ -1766,37 +1766,37 @@
 | 1758 | 10 | Swanky Shatterbuilder |
 | 1759 | 10 | Karen Gilbertson |
 | 1760 | 10 | Breezy Clusterfit |
-| 1761 | 9 | Jinx4fun |
-| 1762 | 9 | Julie Smith |
-| 1763 | 9 | K Courtney Camp |
-| 1764 | 9 | Monica Bell |
-| 1765 | 9 | Trippy Mels |
-| 1766 | 9 | Marty Carver |
-| 1767 | 9 | fmp |
-| 1768 | 9 | estefi |
-| 1769 | 9 | Todd Hamilton |
-| 1770 | 9 | Whos Square |
-| 1771 | 9 | Micole Norris |
-| 1772 | 9 | MissGranity |
-| 1773 | 9 | Frothy Riseclear |
-| 1774 | 9 | apryliss Star |
-| 1775 | 9 | Terry Peach |
-| 1776 | 9 | Phoenyx Roze |
-| 1777 | 8 | Mac James |
-| 1778 | 8 | Ivory Glenn |
-| 1779 | 8 | LaTesha D Williams |
-| 1780 | 8 | Shania Richmond |
-| 1781 | 8 | Bryieson Watson |
-| 1782 | 8 | Nums |
-| 1783 | 8 | Lewis Potts |
-| 1784 | 8 | Gabby Markham |
-| 1785 | 8 | Phoebe Tracy |
-| 1786 | 8 | Jen Molepske |
-| 1787 | 8 | Tony Tenas |
-| 1788 | 8 | Courtney Miller |
-| 1789 | 8 | Gerald Marx |
-| 1790 | 8 | Floyda Lynch |
-| 1791 | 8 | Pearl Poff |
+| 1761 | 10 | Pearl Poff |
+| 1762 | 9 | Jinx4fun |
+| 1763 | 9 | Julie Smith |
+| 1764 | 9 | K Courtney Camp |
+| 1765 | 9 | Monica Bell |
+| 1766 | 9 | Trippy Mels |
+| 1767 | 9 | Marty Carver |
+| 1768 | 9 | fmp |
+| 1769 | 9 | estefi |
+| 1770 | 9 | Todd Hamilton |
+| 1771 | 9 | Whos Square |
+| 1772 | 9 | Micole Norris |
+| 1773 | 9 | MissGranity |
+| 1774 | 9 | Frothy Riseclear |
+| 1775 | 9 | apryliss Star |
+| 1776 | 9 | Terry Peach |
+| 1777 | 9 | Phoenyx Roze |
+| 1778 | 8 | Mac James |
+| 1779 | 8 | Ivory Glenn |
+| 1780 | 8 | LaTesha D Williams |
+| 1781 | 8 | Shania Richmond |
+| 1782 | 8 | Bryieson Watson |
+| 1783 | 8 | Nums |
+| 1784 | 8 | Lewis Potts |
+| 1785 | 8 | Gabby Markham |
+| 1786 | 8 | Phoebe Tracy |
+| 1787 | 8 | Jen Molepske |
+| 1788 | 8 | Tony Tenas |
+| 1789 | 8 | Courtney Miller |
+| 1790 | 8 | Gerald Marx |
+| 1791 | 8 | Floyda Lynch |
 | 1792 | 8 | sleepy head |
 | 1793 | 8 | Virgo27 |
 | 1794 | 8 | Chummy Gridder |
