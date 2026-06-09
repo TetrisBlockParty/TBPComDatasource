@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:55:22 UTC
+# Standings for team1 as of 2026-06-09 11:56:46 UTC
 
 **Total Participants:** 2039
 
@@ -31,7 +31,7 @@
 | 23 | 4621 | Chandler Spencer |
 | 24 | 4597 | Pdubbl3 |
 | 25 | 4168 | Kkbk |
-| 26 | 4141 | Erika Windom |
+| 26 | 4159 | Erika Windom |
 | 27 | 3972 | Tekedra Wilson |
 | 28 | 3903 | Mary Jenkins |
 | 29 | 3833 | Jo NewmindNewfocus Bell |
@@ -303,8 +303,8 @@
 | 295 | 403 | Bre Poston |
 | 296 | 400 | Denell Sims |
 | 297 | 400 | Coco |
-| 298 | 396 | Joana Thompson |
-| 299 | 396 | Koi |
+| 298 | 398 | Koi |
+| 299 | 396 | Joana Thompson |
 | 300 | 394 | Queenie Perry |
 | 301 | 394 | Dacia Hicks |
 | 302 | 392 | Denise B |
@@ -496,75 +496,75 @@
 | 488 | 237 | Tanisha Taylor |
 | 489 | 237 | Kimberly Anderson |
 | 490 | 236 | Taz Ballard |
-| 491 | 235 | Daring Blockclear |
-| 492 | 235 | nameno |
+| 491 | 235 | nameno |
+| 492 | 235 | Brittany Sara Heldwein |
 | 493 | 235 | Tracy Feyler |
-| 494 | 234 | Lisa Fletcher |
-| 495 | 234 | Chris Nelson |
-| 496 | 234 | wmedina67 |
-| 497 | 234 | Shea Ladynick Henderson |
-| 498 | 233 | Holly Baker |
-| 499 | 233 | Kala Miller |
-| 500 | 233 | Daris Swearington |
-| 501 | 232 | Monica Fields |
-| 502 | 231 | Bubbly Slammer |
-| 503 | 231 | TieMs BHughez |
-| 504 | 230 | Jessica Kirby |
-| 505 | 230 | Tracey Johnson |
-| 506 | 229 | Jenni Hardman |
-| 507 | 228 | Giddy Staggerpiece |
-| 508 | 228 | Crystal Cheresnowsky |
-| 509 | 228 | Matthieu Pistone |
-| 510 | 228 | Bold Clusterer |
-| 511 | 227 | Chris Holland |
-| 512 | 226 | Peppy Glider |
-| 513 | 226 | MonaSparks |
-| 514 | 226 | Kahliah Baker |
-| 515 | 226 | Dreamzzz |
-| 516 | 226 | Monica Tovar |
-| 517 | 225 | Casey Chapman |
-| 518 | 224 | Juan Santiago |
-| 519 | 223 | Kamilya Rembert |
-| 520 | 223 | BB |
-| 521 | 223 | Heather Wilson |
-| 522 | 222 | Hardtohandle91 |
-| 523 | 222 | Clint Mcdowell |
-| 524 | 222 | AnnaM |
-| 525 | 221 | Rayshawn Cohen |
-| 526 | 221 | De'Nell Edwards |
-| 527 | 221 | Jack Vlasak |
+| 494 | 235 | Daring Blockclear |
+| 495 | 234 | Lisa Fletcher |
+| 496 | 234 | Chris Nelson |
+| 497 | 234 | wmedina67 |
+| 498 | 234 | Shea Ladynick Henderson |
+| 499 | 233 | Holly Baker |
+| 500 | 233 | Kala Miller |
+| 501 | 233 | Daris Swearington |
+| 502 | 232 | Monica Fields |
+| 503 | 231 | Bubbly Slammer |
+| 504 | 231 | TieMs BHughez |
+| 505 | 230 | Jessica Kirby |
+| 506 | 230 | Tracey Johnson |
+| 507 | 229 | Jenni Hardman |
+| 508 | 228 | Giddy Staggerpiece |
+| 509 | 228 | Crystal Cheresnowsky |
+| 510 | 228 | Matthieu Pistone |
+| 511 | 228 | Bold Clusterer |
+| 512 | 227 | Chris Holland |
+| 513 | 226 | Peppy Glider |
+| 514 | 226 | MonaSparks |
+| 515 | 226 | Monica Tovar |
+| 516 | 226 | Dreamzzz |
+| 517 | 226 | Kahliah Baker |
+| 518 | 225 | Casey Chapman |
+| 519 | 224 | Juan Santiago |
+| 520 | 223 | Kamilya Rembert |
+| 521 | 223 | BB |
+| 522 | 223 | Heather Wilson |
+| 523 | 222 | AnnaM |
+| 524 | 222 | Clint Mcdowell |
+| 525 | 222 | Hardtohandle91 |
+| 526 | 221 | Jack Vlasak |
+| 527 | 221 | Rayshawn Cohen |
 | 528 | 221 | Terri Smart |
-| 529 | 220 | Douglas Price |
-| 530 | 220 | Tonia Ramos |
-| 531 | 220 | Rufus |
-| 532 | 220 | Brittany Sara Heldwein |
+| 529 | 221 | De'Nell Edwards |
+| 530 | 220 | Douglas Price |
+| 531 | 220 | Tonia Ramos |
+| 532 | 220 | Rufus |
 | 533 | 219 | Ciera Peace |
-| 534 | 218 | Mommy Frank |
-| 535 | 218 | Teresa Yanira Cepeda |
-| 536 | 217 | Marlainia Boyd |
-| 537 | 217 | Saucy Faller |
+| 534 | 218 | Teresa Yanira Cepeda |
+| 535 | 218 | Mommy Frank |
+| 536 | 217 | BonnieB |
+| 537 | 217 | Louise Parker |
 | 538 | 217 | Travis Davison |
-| 539 | 217 | BonnieB |
-| 540 | 217 | Louise Parker |
+| 539 | 217 | Saucy Faller |
+| 540 | 217 | Marlainia Boyd |
 | 541 | 216 | Londa Londa |
 | 542 | 216 | Aaron Hartmann |
-| 543 | 215 | Juan Lewis |
-| 544 | 215 | Tosha Michelle |
-| 545 | 215 | Yashica Smith |
-| 546 | 215 | MzJuice Box |
-| 547 | 215 | Perky Balancer |
-| 548 | 215 | James Bryant II |
-| 549 | 214 | Stephen Providenti |
-| 550 | 214 | Nickeya Phillips |
-| 551 | 214 | PSD |
-| 552 | 213 | crumb bumc |
-| 553 | 213 | Lazy Tiltpiece |
-| 554 | 213 | Nyhlah Patterson |
-| 555 | 212 | toxictonic92 |
-| 556 | 212 | Simply-Beautiful007 |
-| 557 | 212 | Daring Riserfit |
-| 558 | 211 | Lynnette WheelerBushnell |
-| 559 | 211 | Breezy Catcher |
+| 543 | 215 | James Bryant II |
+| 544 | 215 | MzJuice Box |
+| 545 | 215 | Juan Lewis |
+| 546 | 215 | toxictonic92 |
+| 547 | 215 | Yashica Smith |
+| 548 | 215 | Perky Balancer |
+| 549 | 215 | Tosha Michelle |
+| 550 | 214 | Stephen Providenti |
+| 551 | 214 | Nickeya Phillips |
+| 552 | 214 | PSD |
+| 553 | 213 | Nyhlah Patterson |
+| 554 | 213 | Lazy Tiltpiece |
+| 555 | 213 | crumb bumc |
+| 556 | 212 | Daring Riserfit |
+| 557 | 212 | Simply-Beautiful007 |
+| 558 | 211 | Breezy Catcher |
+| 559 | 211 | Lynnette WheelerBushnell |
 | 560 | 210 | Abby |
 | 561 | 209 | Phillip Vasquez |
 | 562 | 209 | $hort Dog |
@@ -670,13 +670,13 @@
 | 662 | 175 | Poppy Twister |
 | 663 | 175 | Eric Machuca |
 | 664 | 175 | Loony Clearer |
-| 665 | 175 | DaemahnFriday |
-| 666 | 174 | Clipzby |
-| 667 | 174 | Nerdy Wipefit |
-| 668 | 173 | Claudia Price |
-| 669 | 173 | Ashley Monet Terrell |
-| 670 | 173 | Mathew Trudell |
-| 671 | 173 | Betsy B. Yohan |
+| 665 | 175 | Betsy B. Yohan |
+| 666 | 175 | DaemahnFriday |
+| 667 | 174 | Clipzby |
+| 668 | 174 | Nerdy Wipefit |
+| 669 | 173 | Claudia Price |
+| 670 | 173 | Ashley Monet Terrell |
+| 671 | 173 | Mathew Trudell |
 | 672 | 173 | Kim Holzmiller |
 | 673 | 172 | MrsDontPlay |
 | 674 | 172 | Ozell Jones Jr. |
@@ -994,7 +994,7 @@
 | 986 | 104 | Heckabluntstho |
 | 987 | 104 | midnightxtoker |
 | 988 | 104 | Taylor Jordan Hollis |
-| 989 | 102 | Kidgib5 |
+| 989 | 103 | Kidgib5 |
 | 990 | 102 | Silly Wiper |
 | 991 | 102 | Jeremy Hendrix |
 | 992 | 102 | Willson06 |
