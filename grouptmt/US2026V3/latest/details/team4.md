@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 11:02:22 UTC
+# Standings for team4 as of 2026-06-09 11:02:45 UTC
 
 **Total Participants:** 2092
 
@@ -1071,8 +1071,8 @@
 | 1063 | 96 | Tiffany Taylor |
 | 1064 | 96 | Smiley Wipeblock |
 | 1065 | 96 | Bear Bair |
-| 1066 | 96 | JUNE |
-| 1067 | 96 | Steven Patshy |
+| 1066 | 96 | Steven Patshy |
+| 1067 | 96 | JUNE |
 | 1068 | 95 | Hyper Balancepiece |
 | 1069 | 95 | Loony Dashgrid |
 | 1070 | 95 | Jasmine Griffin |
@@ -1080,88 +1080,88 @@
 | 1072 | 95 | Marion Wade |
 | 1073 | 95 | Frisky Pusher |
 | 1074 | 95 | Lovely |
-| 1075 | 94 | Lionel Hampton |
+| 1075 | 94 | Mrs.J2013 |
 | 1076 | 94 | Mari Isaac |
-| 1077 | 94 | Mrs.J2013 |
+| 1077 | 94 | Cranky Twistpiece |
 | 1078 | 94 | Rocky |
-| 1079 | 94 | Theo Stamps |
-| 1080 | 94 | Cranky Twistpiece |
+| 1079 | 94 | Lionel Hampton |
+| 1080 | 94 | Theo Stamps |
 | 1081 | 94 | Elizabeth Ann Caro |
 | 1082 | 94 | Ashley Ferguson |
-| 1083 | 93 | Poseidon S Davenport |
-| 1084 | 93 | taya |
-| 1085 | 93 | Kennita Cox |
-| 1086 | 93 | Worley’s Wife |
+| 1083 | 93 | Amber Torres |
+| 1084 | 93 | Kennita Cox |
+| 1085 | 93 | taya |
+| 1086 | 93 | Poseidon S Davenport |
 | 1087 | 93 | Bouncy Fitblock |
-| 1088 | 93 | Amber Torres |
-| 1089 | 92 | Sara Cobb |
-| 1090 | 92 | Donna Winget |
-| 1091 | 92 | Chelsea Leann Lamb |
-| 1092 | 91 | Pandala Mandala |
-| 1093 | 91 | Hasty Snapmatch |
-| 1094 | 91 | Alicia |
-| 1095 | 91 | Hethyheth |
-| 1096 | 90 | Nancy McCalla Abercrombie |
-| 1097 | 90 | Волна Бог |
-| 1098 | 90 | Monique Anne Edwards |
+| 1088 | 93 | Worley’s Wife |
+| 1089 | 92 | Donna Winget |
+| 1090 | 92 | Chelsea Leann Lamb |
+| 1091 | 92 | Sara Cobb |
+| 1092 | 91 | Alicia |
+| 1093 | 91 | Hethyheth |
+| 1094 | 91 | Pandala Mandala |
+| 1095 | 91 | Hasty Snapmatch |
+| 1096 | 90 | Monique Anne Edwards |
+| 1097 | 90 | Nancy McCalla Abercrombie |
+| 1098 | 90 | Волна Бог |
 | 1099 | 90 | Krissy Smith |
 | 1100 | 90 | Mystica |
-| 1101 | 90 | Melissa Elizabeth |
-| 1102 | 90 | Snappy Glidebuilder |
+| 1101 | 90 | Snappy Glidebuilder |
+| 1102 | 90 | Melissa Elizabeth |
 | 1103 | 89 | Shiny Strikerbuilder |
 | 1104 | 89 | Ladybug |
 | 1105 | 89 | Nicole Ambrose |
-| 1106 | 89 | Nachos |
-| 1107 | 89 | Lauren Zubia Sanchez |
+| 1106 | 89 | Lauren Zubia Sanchez |
+| 1107 | 89 | Nachos |
 | 1108 | 89 | Khylee DarDar |
 | 1109 | 89 | Catherine Garza |
 | 1110 | 89 | Bon Jovi |
 | 1111 | 88 | MrsAddams724 |
 | 1112 | 88 | Musky Pits |
 | 1113 | 88 | Amowe |
-| 1114 | 88 | Lateasha Wildman |
-| 1115 | 88 | Ali Garcia |
-| 1116 | 88 | Happy Toast |
-| 1117 | 88 | Tbag |
-| 1118 | 87 | Jodi Haman-wheeler |
-| 1119 | 87 | Leslee Bentley DeLong |
-| 1120 | 87 | Yournightmare |
-| 1121 | 87 | Audacious |
-| 1122 | 87 | Seraphina |
-| 1123 | 86 | Kami |
-| 1124 | 86 | Bruce Hobbs |
-| 1125 | 86 | Chelsea Leigh Busch |
-| 1126 | 86 | Alicia Loveless |
-| 1127 | 85 | Giggly Rollpiece |
-| 1128 | 85 | Dannie Ems |
-| 1129 | 85 | Mike Artis |
-| 1130 | 85 | Diane Obungu |
-| 1131 | 85 | Natalie Ohrtman Strand |
-| 1132 | 85 | MelodiousDeez |
-| 1133 | 85 | Sherri Lorent |
-| 1134 | 85 | RustyMaster40 |
-| 1135 | 84 | Jumpy Lifter |
-| 1136 | 84 | Stacy Brown |
-| 1137 | 84 | Jumpy Brickline |
-| 1138 | 84 | Cassie N Danica Flaherty |
-| 1139 | 84 | Red |
-| 1140 | 84 | Wayne Hendricks |
-| 1141 | 84 | Redhead girl |
-| 1142 | 84 | T-Dogger |
+| 1114 | 88 | Jumpy Lifter |
+| 1115 | 88 | Lateasha Wildman |
+| 1116 | 88 | Ali Garcia |
+| 1117 | 88 | Happy Toast |
+| 1118 | 88 | Tbag |
+| 1119 | 87 | Jodi Haman-wheeler |
+| 1120 | 87 | Leslee Bentley DeLong |
+| 1121 | 87 | Yournightmare |
+| 1122 | 87 | Audacious |
+| 1123 | 87 | Seraphina |
+| 1124 | 86 | Kami |
+| 1125 | 86 | Bruce Hobbs |
+| 1126 | 86 | Chelsea Leigh Busch |
+| 1127 | 86 | Alicia Loveless |
+| 1128 | 85 | Giggly Rollpiece |
+| 1129 | 85 | Dannie Ems |
+| 1130 | 85 | Mike Artis |
+| 1131 | 85 | Diane Obungu |
+| 1132 | 85 | Natalie Ohrtman Strand |
+| 1133 | 85 | MelodiousDeez |
+| 1134 | 85 | Sherri Lorent |
+| 1135 | 85 | RustyMaster40 |
+| 1136 | 84 | Wayne Hendricks |
+| 1137 | 84 | Stacy Brown |
+| 1138 | 84 | Jumpy Brickline |
+| 1139 | 84 | Cassie N Danica Flaherty |
+| 1140 | 84 | Redhead girl |
+| 1141 | 84 | T-Dogger |
+| 1142 | 84 | Red |
 | 1143 | 83 | Goofy Strike |
 | 1144 | 83 | Masiso |
-| 1145 | 83 | Dapper Tiltpiece |
-| 1146 | 83 | Peter Babineaux Jr |
-| 1147 | 83 | Pap337 |
-| 1148 | 83 | Ryan Luperena |
-| 1149 | 83 | Bubbly Shatter |
-| 1150 | 83 | Ciara Brown |
-| 1151 | 82 | Giggly Gridzone |
-| 1152 | 82 | Charity Thomas |
-| 1153 | 82 | Jolly Fitblock |
-| 1154 | 82 | EpicBarista |
-| 1155 | 82 | Brenda Mueller |
-| 1156 | 82 | JuicyJay |
+| 1145 | 83 | Ciara Brown |
+| 1146 | 83 | Bubbly Shatter |
+| 1147 | 83 | Ryan Luperena |
+| 1148 | 83 | Pap337 |
+| 1149 | 83 | Dapper Tiltpiece |
+| 1150 | 83 | Peter Babineaux Jr |
+| 1151 | 82 | JuicyJay |
+| 1152 | 82 | Brenda Mueller |
+| 1153 | 82 | Charity Thomas |
+| 1154 | 82 | Giggly Gridzone |
+| 1155 | 82 | Jolly Fitblock |
+| 1156 | 82 | EpicBarista |
 | 1157 | 82 | Cflixer |
 | 1158 | 82 | Chris Norman |
 | 1159 | 82 | aubz |
