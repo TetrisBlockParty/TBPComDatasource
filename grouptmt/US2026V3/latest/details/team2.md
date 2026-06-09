@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 14:22:20 UTC
+# Standings for team2 as of 2026-06-09 14:22:45 UTC
 
 **Total Participants:** 2508
 
@@ -138,18 +138,18 @@
 | 130 | 1019 | Mirr Lulu |
 | 131 | 1007 | Cristi Doris |
 | 132 | 1005 | Allison Jarman |
-| 133 | 1000 | Sydney Headley |
-| 134 | 1000 | Denise Potter |
-| 135 | 988 | Dane Marko |
-| 136 | 986 | Daybreak |
-| 137 | 985 | Erin Thomas |
-| 138 | 984 | Renee Freeman Jacobson |
-| 139 | 975 | Sarah Mccolgan |
-| 140 | 975 | Jackie Tupper |
-| 141 | 971 | Shea |
-| 142 | 969 | Jamie Fenyus |
-| 143 | 963 | Sarah Griffey |
-| 144 | 950 | Misiek |
+| 133 | 1000 | Misiek |
+| 134 | 1000 | Sydney Headley |
+| 135 | 1000 | Denise Potter |
+| 136 | 988 | Dane Marko |
+| 137 | 986 | Daybreak |
+| 138 | 985 | Erin Thomas |
+| 139 | 984 | Renee Freeman Jacobson |
+| 140 | 975 | Sarah Mccolgan |
+| 141 | 975 | Jackie Tupper |
+| 142 | 971 | Shea |
+| 143 | 969 | Jamie Fenyus |
+| 144 | 963 | Sarah Griffey |
 | 145 | 938 | Amber Miller Wirick |
 | 146 | 937 | Groovy Snapper |
 | 147 | 923 | Hilliary Beyer |
@@ -238,7 +238,7 @@
 | 230 | 627 | Iesha Cupil |
 | 231 | 627 | Pooh |
 | 232 | 626 | Bubbly Strikerpiece |
-| 233 | 624 | Avie Lou |
+| 233 | 625 | Avie Lou |
 | 234 | 621 | Chirpy Grid |
 | 235 | 620 | missat |
 | 236 | 615 | Lisa Underwood Desmond |
@@ -401,16 +401,16 @@
 | 393 | 373 | Kim Hunt |
 | 394 | 373 | Hoppy Mover |
 | 395 | 371 | Marylin Eacker |
-| 396 | 370 | Loopy Tower |
-| 397 | 370 | Nicole Good |
-| 398 | 369 | Elizabeth Henry |
-| 399 | 369 | Partin |
-| 400 | 368 | Keri Mears |
-| 401 | 367 | Doowop40 |
-| 402 | 367 | Flashy Basegrid |
-| 403 | 366 | Jackie Walker |
-| 404 | 365 | Skye Ehret |
-| 405 | 365 | Wacky Dashfit |
+| 396 | 371 | Jackie Walker |
+| 397 | 370 | Loopy Tower |
+| 398 | 370 | Nicole Good |
+| 399 | 369 | Elizabeth Henry |
+| 400 | 369 | Partin |
+| 401 | 368 | Keri Mears |
+| 402 | 367 | Doowop40 |
+| 403 | 367 | Flashy Basegrid |
+| 404 | 365 | Wacky Dashfit |
+| 405 | 365 | Skye Ehret |
 | 406 | 364 | Amy Nicole McCanne |
 | 407 | 363 | Ashley Billiot Rhodes |
 | 408 | 362 | Jessica Christine |
