@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:14:45 UTC
+# Standings for team1 as of 2026-06-09 14:15:21 UTC
 
 **Total Participants:** 2058
 
@@ -234,10 +234,10 @@
 | 226 | 527 | Ebony |
 | 227 | 527 | MommaCia |
 | 228 | 523 | Christopher Dreamsareality McEachin |
-| 229 | 521 | Cheery Linkfall |
-| 230 | 520 | Dulo |
-| 231 | 519 | Slinky Party |
-| 232 | 516 | Joey Albright |
+| 229 | 521 | Joey Albright |
+| 230 | 521 | Cheery Linkfall |
+| 231 | 520 | Dulo |
+| 232 | 519 | Slinky Party |
 | 233 | 511 | Dizzy Dropper |
 | 234 | 509 | Telisha Mims |
 | 235 | 506 | Marie Wilson |
