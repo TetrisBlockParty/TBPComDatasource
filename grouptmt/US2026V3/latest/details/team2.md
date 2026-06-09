@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 17:02:43 UTC
+# Standings for team2 as of 2026-06-09 17:03:22 UTC
 
 **Total Participants:** 2535
 
@@ -256,9 +256,9 @@
 | 248 | 609 | Michelle Rich Burkhart |
 | 249 | 609 | Brooke Allred |
 | 250 | 608 | giamy |
-| 251 | 602 | Charles E Mccardell |
-| 252 | 601 | Spicy Basepiece |
-| 253 | 599 | Chipper Stackbuilder |
+| 251 | 608 | Chipper Stackbuilder |
+| 252 | 602 | Charles E Mccardell |
+| 253 | 601 | Spicy Basepiece |
 | 254 | 598 | Ashley Green |
 | 255 | 598 | Amie Marks |
 | 256 | 598 | Lyric Price |
@@ -1210,24 +1210,24 @@
 | 1202 | 112 | Cranky Zonebuilder |
 | 1203 | 112 | Yuhh |
 | 1204 | 111 | Nikki Layman |
-| 1205 | 111 | Tetrismastrr |
-| 1206 | 111 | Thomas Chris |
-| 1207 | 111 | Bonez |
+| 1205 | 111 | Thomas Chris |
+| 1206 | 111 | Bonez |
+| 1207 | 111 | BikerBorn BikerBred |
 | 1208 | 111 | Tish |
-| 1209 | 111 | BikerBorn BikerBred |
+| 1209 | 111 | Tetrismastrr |
 | 1210 | 111 | Linzy Ratliff |
 | 1211 | 111 | WestieMom |
 | 1212 | 110 | Stephen Gillam |
 | 1213 | 110 | Lesley Stoeckle |
 | 1214 | 110 | Rey Huber |
 | 1215 | 110 | Michelle Fry-Cash |
-| 1216 | 110 | Ava Dorsch |
-| 1217 | 110 | Cool Balancer |
+| 1216 | 110 | Christina Reid |
+| 1217 | 110 | Susan Moyer |
 | 1218 | 110 | Andrea Spinelli |
-| 1219 | 110 | Christina Reid |
-| 1220 | 110 | Sandy Molina |
-| 1221 | 110 | Twisty Matcher |
-| 1222 | 110 | Susan Moyer |
+| 1219 | 110 | Twisty Matcher |
+| 1220 | 110 | Ava Dorsch |
+| 1221 | 110 | Cool Balancer |
+| 1222 | 110 | Sandy Molina |
 | 1223 | 110 | Christina German |
 | 1224 | 109 | Dee |
 | 1225 | 109 | Helen Chao |
@@ -1235,33 +1235,33 @@
 | 1227 | 108 | Armordguy |
 | 1228 | 108 | Lively Liner |
 | 1229 | 108 | Peppy Piececlear |
-| 1230 | 108 | Chatty |
-| 1231 | 108 | Brooke Marie Fox |
-| 1232 | 108 | build master |
-| 1233 | 108 | Swanky Twister |
+| 1230 | 108 | Brooke Marie Fox |
+| 1231 | 108 | build master |
+| 1232 | 108 | Swanky Twister |
+| 1233 | 108 | Chatty |
 | 1234 | 107 | LilMs101 |
 | 1235 | 107 | Carole Brown |
 | 1236 | 107 | Giggy Linkgrid |
 | 1237 | 106 | R.w. Buck |
-| 1238 | 106 | Donna R. Banks |
+| 1238 | 106 | CowboyChalie |
 | 1239 | 106 | Teresa Ann Curry |
-| 1240 | 106 | CowboyChalie |
+| 1240 | 106 | Donna R. Banks |
 | 1241 | 105 | Shannon Vanlester |
-| 1242 | 105 | Wildcat1220 |
+| 1242 | 105 | Nadine Velardo |
 | 1243 | 105 | Chill Wipegrid |
-| 1244 | 105 | Nadine Velardo |
+| 1244 | 105 | Wildcat1220 |
 | 1245 | 105 | Devon |
 | 1246 | 105 | Trena Sapp |
 | 1247 | 105 | SunnySquare |
 | 1248 | 105 | Patrick Woodard |
 | 1249 | 104 | Dandy Matchzone |
-| 1250 | 103 | BoxerMom |
-| 1251 | 103 | Katie Boen |
-| 1252 | 103 | Jason M Barnes |
-| 1253 | 103 | Rob Phillips |
+| 1250 | 103 | Katie Boen |
+| 1251 | 103 | BoxerMom |
+| 1252 | 103 | Smiley Rotate |
+| 1253 | 103 | twistyzone |
 | 1254 | 103 | Guadalupe Medina |
-| 1255 | 103 | twistyzone |
-| 1256 | 103 | Smiley Rotate |
+| 1255 | 103 | Rob Phillips |
+| 1256 | 103 | Jason M Barnes |
 | 1257 | 103 | Nina-Christina Cusyck |
 | 1258 | 103 | Peppy Piececlear |
 | 1259 | 103 | Louis Brudzinski |
@@ -1291,38 +1291,38 @@
 | 1283 | 100 | Justin Furne |
 | 1284 | 100 | blockrocker |
 | 1285 | 100 | Chey22 |
-| 1286 | 100 | Sarai Coronado |
-| 1287 | 100 | Tipsy Twistbuilder |
-| 1288 | 100 | Kayla Iverson |
+| 1286 | 100 | Crystal Whygle |
+| 1287 | 100 | Sarai Coronado |
+| 1288 | 100 | Tipsy Twistbuilder |
 | 1289 | 100 | Bubbly Risebuilder |
-| 1290 | 100 | Chillxsnow |
-| 1291 | 100 | Nerdy Linebuilder |
-| 1292 | 100 | Crystal Whygle |
-| 1293 | 100 | Giggy Balancefit |
-| 1294 | 99 | Ramona Peña |
-| 1295 | 99 | Jolene Smith |
-| 1296 | 99 | Chesterland |
+| 1290 | 100 | Giggy Balancefit |
+| 1291 | 100 | Kayla Iverson |
+| 1292 | 100 | Chillxsnow |
+| 1293 | 100 | Nerdy Linebuilder |
+| 1294 | 99 | Valerie Roberts |
+| 1295 | 99 | JrsWife |
+| 1296 | 99 | Jolene Smith |
 | 1297 | 99 | Lorrie Girardi |
-| 1298 | 99 | Jennifer Lauzon |
-| 1299 | 99 | Valerie Roberts |
-| 1300 | 99 | Britt |
-| 1301 | 99 | Michele Choate |
-| 1302 | 99 | Daniel Cline |
-| 1303 | 99 | Shannie |
-| 1304 | 98 | Annie Hebdon |
-| 1305 | 98 | Danyell Flood-Morning |
-| 1306 | 98 | Judy Bailey |
-| 1307 | 98 | Viani09 |
-| 1308 | 98 | puppy mom |
-| 1309 | 98 | Alexis Abner |
+| 1298 | 99 | Ramona Peña |
+| 1299 | 99 | Jennifer Lauzon |
+| 1300 | 99 | Chesterland |
+| 1301 | 99 | Britt |
+| 1302 | 99 | Michele Choate |
+| 1303 | 99 | Daniel Cline |
+| 1304 | 99 | Shannie |
+| 1305 | 98 | Annie Hebdon |
+| 1306 | 98 | puppy mom |
+| 1307 | 98 | Judy Bailey |
+| 1308 | 98 | Viani09 |
+| 1309 | 98 | Danyell Flood-Morning |
 | 1310 | 98 | Shelby Lynn May |
 | 1311 | 98 | Ashley Cadle |
-| 1312 | 97 | ElizaThornberry |
-| 1313 | 97 | Adri Perez |
-| 1314 | 97 | Ashley Lee DeHaan |
-| 1315 | 97 | Snazzy Tiley |
-| 1316 | 97 | ace510 |
-| 1317 | 97 | JrsWife |
+| 1312 | 98 | Alexis Abner |
+| 1313 | 97 | ElizaThornberry |
+| 1314 | 97 | Adri Perez |
+| 1315 | 97 | Ashley Lee DeHaan |
+| 1316 | 97 | Snazzy Tiley |
+| 1317 | 97 | ace510 |
 | 1318 | 97 | Bubbly Dash |
 | 1319 | 97 | Jennifer Lewellyn Hutchins |
 | 1320 | 96 | Joyce Galloway |
@@ -1331,8 +1331,8 @@
 | 1323 | 96 | Cheeky Cornerfall |
 | 1324 | 96 | Beverly-Jo Peterson |
 | 1325 | 96 | BigHearted-57 |
-| 1326 | 96 | Rachel Switala |
-| 1327 | 96 | Amy Walker |
+| 1326 | 96 | Amy Walker |
+| 1327 | 96 | Rachel Switala |
 | 1328 | 95 | Liliana Mills |
 | 1329 | 95 | Marla Paden |
 | 1330 | 95 | Gammawms |
@@ -1344,9 +1344,9 @@
 | 1336 | 94 | Brenda Leonard |
 | 1337 | 94 | Anissa Moore |
 | 1338 | 94 | Jessi Ann |
-| 1339 | 93 | Kymberlee Rolinski |
+| 1339 | 93 | Mataya |
 | 1340 | 93 | Melissa Kinsley |
-| 1341 | 93 | Mataya |
+| 1341 | 93 | Kymberlee Rolinski |
 | 1342 | 93 | Kandie Warren |
 | 1343 | 93 | AppA |
 | 1344 | 93 | Maureen Bryan Adams |
