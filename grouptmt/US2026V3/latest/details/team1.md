@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:16:44 UTC
+# Standings for team1 as of 2026-06-09 05:17:22 UTC
 
 **Total Participants:** 1991
 
@@ -354,8 +354,8 @@
 | 346 | 314 | Chilly Wipebuilder |
 | 347 | 314 | Rayya Kiser |
 | 348 | 313 | Jennah |
-| 349 | 311 | Cynthia Bradley |
-| 350 | 310 | Hasty Glidezone |
+| 349 | 312 | Hasty Glidezone |
+| 350 | 311 | Cynthia Bradley |
 | 351 | 310 | Jackie Sanasay |
 | 352 | 309 | Brave Clearbuilder |
 | 353 | 309 | Amber Wilson |
@@ -365,11 +365,11 @@
 | 357 | 304 | Kendra McIntyre |
 | 358 | 304 | Snippy Breaker |
 | 359 | 303 | kitten |
-| 360 | 300 | LaShaun Stinson |
-| 361 | 300 | rls |
-| 362 | 300 | Jolly Tilefall |
-| 363 | 300 | Sharee Robinson |
-| 364 | 300 | Ketrell Bailey |
+| 360 | 300 | Ketrell Bailey |
+| 361 | 300 | LaShaun Stinson |
+| 362 | 300 | rls |
+| 363 | 300 | Jolly Tilefall |
+| 364 | 300 | Sharee Robinson |
 | 365 | 299 | Smiley Clearpiece |
 | 366 | 298 | SeanSanchez |
 | 367 | 298 | McKayla Owens |
@@ -672,32 +672,32 @@
 | 664 | 159 | TY Newme Batts |
 | 665 | 159 | Tee Spinks |
 | 666 | 159 | Frances Davis |
-| 667 | 159 | Peppy Wipeblock |
-| 668 | 159 | Yvette McGee |
-| 669 | 158 | Chris Watson Draper |
-| 670 | 158 | Seddrick |
-| 671 | 158 | TotoCherue |
-| 672 | 157 | Lilly Brown |
-| 673 | 157 | Tony Pizzas |
-| 674 | 157 | Chirpy Buildgrid |
-| 675 | 157 | Zany Breaker |
-| 676 | 156 | Semaj Johnson |
-| 677 | 156 | Karen Denen |
-| 678 | 156 | Sara |
-| 679 | 156 | Marlynnnnn |
+| 667 | 159 | Marlynnnnn |
+| 668 | 159 | Peppy Wipeblock |
+| 669 | 159 | Yvette McGee |
+| 670 | 158 | Chris Watson Draper |
+| 671 | 158 | Meow Meow |
+| 672 | 158 | Seddrick |
+| 673 | 158 | TotoCherue |
+| 674 | 157 | Lilly Brown |
+| 675 | 157 | Tony Pizzas |
+| 676 | 157 | Chirpy Buildgrid |
+| 677 | 157 | Zany Breaker |
+| 678 | 156 | Semaj Johnson |
+| 679 | 156 | Karen Denen |
 | 680 | 156 | Melissa Hershberger |
-| 681 | 155 | Angie Smith |
-| 682 | 155 | Undeniable Williams |
-| 683 | 155 | MzJuice Box |
-| 684 | 155 | Meow Meow |
-| 685 | 155 | Kala Miller |
-| 686 | 155 | Poppy Smasher |
+| 681 | 156 | Sara |
+| 682 | 155 | Poppy Smasher |
+| 683 | 155 | Angie Smith |
+| 684 | 155 | Kala Miller |
+| 685 | 155 | MzJuice Box |
+| 686 | 155 | Undeniable Williams |
 | 687 | 154 | Dizzy Gridmatch |
 | 688 | 154 | Glitzy Clusterer |
 | 689 | 154 | Kp |
-| 690 | 152 | Nyhlah Patterson |
+| 690 | 152 | Essence Jones |
 | 691 | 152 | Wacky Stackbuilder |
-| 692 | 152 | Essence Jones |
+| 692 | 152 | Nyhlah Patterson |
 | 693 | 151 | Terrie |
 | 694 | 151 | Pj Rojas |
 | 695 | 151 | Shanell Thomas |
@@ -944,12 +944,12 @@
 | 936 | 105 | Ja'mice Nelson |
 | 937 | 105 | Michael Smith |
 | 938 | 105 | Maria |
-| 939 | 105 | Raquel Ortiz |
-| 940 | 105 | Nikkizz |
-| 941 | 104 | Ahvae Lee |
-| 942 | 104 | Aaron Sohnrey |
-| 943 | 104 | Alanna Breitenbach |
-| 944 | 104 | Lively Wipeout |
+| 939 | 105 | Lively Wipeout |
+| 940 | 105 | Raquel Ortiz |
+| 941 | 105 | Nikkizz |
+| 942 | 104 | Ahvae Lee |
+| 943 | 104 | Aaron Sohnrey |
+| 944 | 104 | Alanna Breitenbach |
 | 945 | 104 | Donnie Withthebody |
 | 946 | 103 | Ashanti Eden |
 | 947 | 103 | Bluebino |
