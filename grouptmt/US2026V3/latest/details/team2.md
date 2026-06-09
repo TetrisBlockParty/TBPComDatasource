@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 12:44:46 UTC
+# Standings for team2 as of 2026-06-09 12:45:21 UTC
 
 **Total Participants:** 2486
 
@@ -323,12 +323,12 @@
 | 315 | 463 | Joni Michelle Morgan |
 | 316 | 462 | James Ward |
 | 317 | 460 | Jamin |
-| 318 | 455 | Janelle Edgecombe |
-| 319 | 453 | Kimberly Cowan |
-| 320 | 452 | Boldy Fitclear |
-| 321 | 452 | Jeanna Mendez |
-| 322 | 450 | True |
-| 323 | 449 | Alicia Kinney |
+| 318 | 459 | Alicia Kinney |
+| 319 | 455 | Janelle Edgecombe |
+| 320 | 453 | Kimberly Cowan |
+| 321 | 452 | Boldy Fitclear |
+| 322 | 452 | Jeanna Mendez |
+| 323 | 450 | True |
 | 324 | 448 | Eric Drane |
 | 325 | 447 | Xandrea Jones |
 | 326 | 445 | Norma Ortiz |
@@ -356,12 +356,12 @@
 | 348 | 406 | Kay |
 | 349 | 405 | Brittni Lawrence |
 | 350 | 404 | Charity Hauser |
-| 351 | 402 | Harper |
-| 352 | 402 | Amber Smith |
-| 353 | 400 | Sarah Rodriguez |
-| 354 | 400 | Patricia Carroll |
-| 355 | 400 | Melissa Clogher White |
-| 356 | 400 | Shannon Wilson |
+| 351 | 403 | Amber Smith |
+| 352 | 402 | Harper |
+| 353 | 400 | Melissa Clogher White |
+| 354 | 400 | Shannon Wilson |
+| 355 | 400 | Sarah Rodriguez |
+| 356 | 400 | Patricia Carroll |
 | 357 | 399 | Jeffrey Smith |
 | 358 | 397 | Carlos J Blas |
 | 359 | 397 | Jeff Pottgether |
@@ -542,11 +542,11 @@
 | 534 | 269 | Shannon Curry Riggle |
 | 535 | 269 | Brooke Lynn Marie Adelaide |
 | 536 | 268 | Heather Schardan |
-| 537 | 267 | Lisa Allen Frisk |
-| 538 | 266 | Katie Jones |
-| 539 | 264 | Jessica Connot |
-| 540 | 264 | Speedy Spinfit |
-| 541 | 264 | Joanie Swann Ruiter |
+| 537 | 267 | Joanie Swann Ruiter |
+| 538 | 267 | Lisa Allen Frisk |
+| 539 | 266 | Katie Jones |
+| 540 | 264 | Jessica Connot |
+| 541 | 264 | Speedy Spinfit |
 | 542 | 263 | denirocorona |
 | 543 | 263 | Gina Leal |
 | 544 | 262 | Billy Pittman |
