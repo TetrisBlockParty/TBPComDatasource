@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:32:42 UTC
+# Standings for team1 as of 2026-06-09 19:33:22 UTC
 
 **Total Participants:** 2106
 
@@ -68,7 +68,7 @@
 | 60 | 1809 | Louis Richard Jr |
 | 61 | 1789 | Jolly Dropzone |
 | 62 | 1782 | Jacoby E Fleming |
-| 63 | 1774 | Blockhead |
+| 63 | 1782 | Blockhead |
 | 64 | 1767 | Moomoo |
 | 65 | 1642 | Bre Maugh |
 | 66 | 1642 | TAZ-MF-NIZIL |
@@ -1227,31 +1227,31 @@
 | 1219 | 75 | Cathilia Rodriguez |
 | 1220 | 75 | Courtney Robinson |
 | 1221 | 75 | Brave Balanceblock |
-| 1222 | 75 | Ray Baker |
-| 1223 | 74 | Kenneth Williams |
+| 1222 | 75 | Kenneth Williams |
+| 1223 | 75 | Ray Baker |
 | 1224 | 74 | Riq Wokhardt |
 | 1225 | 74 | Tetrisdestroyer |
 | 1226 | 74 | Ace Hardware |
 | 1227 | 74 | Giggy Brickfit |
-| 1228 | 74 | Jose González |
-| 1229 | 74 | Ivan Israel |
-| 1230 | 73 | Jonathan Zold |
+| 1228 | 74 | Ivan Israel |
+| 1229 | 74 | Jose González |
+| 1230 | 73 | Lazy Matchgrid |
 | 1231 | 73 | Chummy Twisterfit |
-| 1232 | 73 | Lazy Matchgrid |
-| 1233 | 73 | Ducc2408 |
-| 1234 | 72 | Toohartless Mech |
-| 1235 | 72 | BADBOY658 |
-| 1236 | 72 | SnazzySnippet |
-| 1237 | 72 | ImmeKC |
-| 1238 | 72 | Warren Miller |
-| 1239 | 72 | tskmstr |
-| 1240 | 72 | Hoppy Buildsnap |
+| 1232 | 73 | Ducc2408 |
+| 1233 | 73 | Jonathan Zold |
+| 1234 | 72 | BADBOY658 |
+| 1235 | 72 | ImmeKC |
+| 1236 | 72 | Toohartless Mech |
+| 1237 | 72 | Warren Miller |
+| 1238 | 72 | tskmstr |
+| 1239 | 72 | Hoppy Buildsnap |
+| 1240 | 72 | SnazzySnippet |
 | 1241 | 71 | Janice Mowel Curtiss |
-| 1242 | 71 | Zany Pivot |
-| 1243 | 71 | Joseph Ware Jr. |
-| 1244 | 70 | Alison Emmons |
-| 1245 | 70 | Leon Brown III |
-| 1246 | 70 | Nedine Ray |
+| 1242 | 71 | Joseph Ware Jr. |
+| 1243 | 71 | Zany Pivot |
+| 1244 | 70 | Nedine Ray |
+| 1245 | 70 | Alison Emmons |
+| 1246 | 70 | Leon Brown III |
 | 1247 | 70 | Rande Smith |
 | 1248 | 70 | RealOne95 |
 | 1249 | 70 | JoZanna Washington |

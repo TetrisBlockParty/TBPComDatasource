@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 19:32:42 UTC
+# Standings for team2 as of 2026-06-09 19:33:22 UTC
 
 **Total Participants:** 2556
 
@@ -24,8 +24,8 @@
 | 16 | 8427 | Elizabeth Mooney |
 | 17 | 7546 | Tom Badgley |
 | 18 | 7464 | Andre Love |
-| 19 | 7440 | Renee Weedling |
-| 20 | 7388 | Kathleen M Cox |
+| 19 | 7448 | Kathleen M Cox |
+| 20 | 7440 | Renee Weedling |
 | 21 | 7096 | Dapper Rollout |
 | 22 | 6932 | Christina Jambard Sampier |
 | 23 | 6707 | Bea Bee |
@@ -251,7 +251,7 @@
 | 243 | 634 | Nikki EightySixed |
 | 244 | 632 | Cool Balancer |
 | 245 | 630 | Christina Maria |
-| 246 | 628 | Bubbly Strikerpiece |
+| 246 | 629 | Bubbly Strikerpiece |
 | 247 | 627 | Pooh |
 | 248 | 621 | Chirpy Grid |
 | 249 | 618 | Chipper Stackbuilder |
