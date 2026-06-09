@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:48:45 UTC
+# Standings for team2 as of 2026-06-09 07:49:20 UTC
 
 **Total Participants:** 2444
 
@@ -495,23 +495,23 @@
 | 487 | 285 | Goofy Shatterbuilder |
 | 488 | 283 | Peter Fogg |
 | 489 | 282 | ZBee |
-| 490 | 280 | Brooklyn Todd |
-| 491 | 280 | Michelle M Braley |
-| 492 | 280 | Keisha Robinson |
-| 493 | 280 | Sandra Ruiz |
-| 494 | 278 | Tiffany Hassanshahi |
-| 495 | 278 | Madonna Ash |
-| 496 | 278 | Sydney Cheyenne |
-| 497 | 277 | Jennifer McClure |
-| 498 | 277 | Amanda Priddy |
-| 499 | 277 | Brandy Chinelle |
-| 500 | 276 | Carol Whited Loza |
-| 501 | 276 | Ssirkus |
-| 502 | 276 | Smiley Staggerpiece |
-| 503 | 276 | Patrick Ohanlon |
-| 504 | 275 | Eric Wayne Maschman |
-| 505 | 272 | Donutz |
-| 506 | 272 | straighttiptoe |
+| 490 | 281 | straighttiptoe |
+| 491 | 280 | Keisha Robinson |
+| 492 | 280 | Sandra Ruiz |
+| 493 | 280 | Brooklyn Todd |
+| 494 | 280 | Michelle M Braley |
+| 495 | 278 | Tiffany Hassanshahi |
+| 496 | 278 | Madonna Ash |
+| 497 | 278 | Sydney Cheyenne |
+| 498 | 277 | Jennifer McClure |
+| 499 | 277 | Amanda Priddy |
+| 500 | 277 | Brandy Chinelle |
+| 501 | 276 | Carol Whited Loza |
+| 502 | 276 | Ssirkus |
+| 503 | 276 | Smiley Staggerpiece |
+| 504 | 276 | Patrick Ohanlon |
+| 505 | 275 | Eric Wayne Maschman |
+| 506 | 272 | Donutz |
 | 507 | 270 | Precious Womack |
 | 508 | 269 | Brooke Lynn Marie Adelaide |
 | 509 | 269 | Shannon Curry Riggle |
