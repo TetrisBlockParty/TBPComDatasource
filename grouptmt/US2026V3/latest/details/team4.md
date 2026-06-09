@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:50:45 UTC
+# Standings for team4 as of 2026-06-09 08:51:22 UTC
 
 **Total Participants:** 2088
 
@@ -214,7 +214,7 @@
 | 206 | 511 | Maria Castillo |
 | 207 | 510 | Addi JayKay |
 | 208 | 508 | Goofy Riser |
-| 209 | 504 | Kelly Howland |
+| 209 | 508 | Kelly Howland |
 | 210 | 502 | Alex Armour |
 | 211 | 501 | Linda Miltenburg |
 | 212 | 500 | Genag |
@@ -233,7 +233,7 @@
 | 225 | 481 | Shanna Fragen |
 | 226 | 480 | Adam Dickinson |
 | 227 | 478 | Betsy Froemming |
-| 228 | 469 | Scamp Jones |
+| 228 | 474 | Scamp Jones |
 | 229 | 467 | Cyndi Najar |
 | 230 | 466 | Tipsy Zonebuilder |
 | 231 | 466 | Randy M Hatch |
@@ -1447,62 +1447,62 @@
 | 1439 | 49 | Thomas Cassell |
 | 1440 | 49 | Merrick Marion |
 | 1441 | 49 | Hasty Grabber |
-| 1442 | 48 | Snoopie Johnson |
-| 1443 | 48 | Peachy Grabber |
-| 1444 | 48 | Twisty Chiseler |
-| 1445 | 48 | Zippy Jumper |
-| 1446 | 48 | Wali Muhammad |
-| 1447 | 48 | Regina N Johnson |
-| 1448 | 48 | Jane M Tiller |
+| 1442 | 48 | Peachy Grabber |
+| 1443 | 48 | Twisty Chiseler |
+| 1444 | 48 | Wali Muhammad |
+| 1445 | 48 | Regina N Johnson |
+| 1446 | 48 | Zippy Jumper |
+| 1447 | 48 | Jane M Tiller |
+| 1448 | 48 | Cmoss |
 | 1449 | 48 | abbie |
-| 1450 | 48 | Cmoss |
-| 1451 | 47 | Destiny Georgia Reeves Beller |
-| 1452 | 47 | Amanda |
-| 1453 | 47 | Danyale Collins |
-| 1454 | 47 | Mighty Liney |
-| 1455 | 47 | ToneDeaf |
-| 1456 | 47 | Frby Amberr |
-| 1457 | 47 | Kaity Cody |
-| 1458 | 47 | Vernetta Santos |
-| 1459 | 47 | Maurice Jones |
-| 1460 | 47 | Jaison Horton |
-| 1461 | 47 | Lina Samra |
-| 1462 | 47 | Casey Alford |
-| 1463 | 47 | Kitty Kat |
-| 1464 | 47 | Jim Stewart |
-| 1465 | 46 | Gerald Lew |
-| 1466 | 46 | Lazy Risepiece |
-| 1467 | 46 | Mandie Torres |
-| 1468 | 46 | Judea Leblanc |
-| 1469 | 46 | $bluemoon |
-| 1470 | 46 | A La |
-| 1471 | 46 | Bindi |
-| 1472 | 46 | Epic Curver |
-| 1473 | 46 | STRay |
-| 1474 | 45 | Teresa Lescinskas |
+| 1450 | 48 | kellyhyatt |
+| 1451 | 48 | Snoopie Johnson |
+| 1452 | 47 | Destiny Georgia Reeves Beller |
+| 1453 | 47 | Jaison Horton |
+| 1454 | 47 | Danyale Collins |
+| 1455 | 47 | Mighty Liney |
+| 1456 | 47 | Amanda |
+| 1457 | 47 | ToneDeaf |
+| 1458 | 47 | Frby Amberr |
+| 1459 | 47 | Kaity Cody |
+| 1460 | 47 | Vernetta Santos |
+| 1461 | 47 | Casey Alford |
+| 1462 | 47 | Maurice Jones |
+| 1463 | 47 | Lina Samra |
+| 1464 | 47 | Kitty Kat |
+| 1465 | 47 | Jim Stewart |
+| 1466 | 46 | A La |
+| 1467 | 46 | Lazy Risepiece |
+| 1468 | 46 | Mandie Torres |
+| 1469 | 46 | Judea Leblanc |
+| 1470 | 46 | STRay |
+| 1471 | 46 | Epic Curver |
+| 1472 | 46 | $bluemoon |
+| 1473 | 46 | Bindi |
+| 1474 | 46 | Gerald Lew |
 | 1475 | 45 | Antoinette Rodgers |
 | 1476 | 45 | Jt Home |
-| 1477 | 45 | Jennifer O'Connell |
-| 1478 | 45 | Jess Moore |
-| 1479 | 45 | BurnedCrab52 |
-| 1480 | 45 | Karen Gilbertson |
+| 1477 | 45 | BurnedCrab52 |
+| 1478 | 45 | Teresa Lescinskas |
+| 1479 | 45 | Karen Gilbertson |
+| 1480 | 45 | Jennifer O'Connell |
 | 1481 | 45 | Kristie ML SneekaPuff |
-| 1482 | 45 | Cherise Maxwell |
-| 1483 | 45 | Goodie |
-| 1484 | 45 | Karla Humphry |
-| 1485 | 45 | Kim Miller |
-| 1486 | 45 | Angela Correa |
-| 1487 | 44 | Mayleen Delgado |
-| 1488 | 44 | Mighty Clicky |
-| 1489 | 44 | SweetChaos |
+| 1482 | 45 | Kim Miller |
+| 1483 | 45 | Cherise Maxwell |
+| 1484 | 45 | Angela Correa |
+| 1485 | 45 | Karla Humphry |
+| 1486 | 45 | Goodie |
+| 1487 | 45 | Jess Moore |
+| 1488 | 44 | Kimmie Warren |
+| 1489 | 44 | Cauntay Youngking Williams |
 | 1490 | 44 | Lizzie McGuire |
-| 1491 | 44 | Sharron Mullins |
-| 1492 | 44 | Angel |
-| 1493 | 44 | kellyhyatt |
-| 1494 | 44 | Michael J A Moore |
-| 1495 | 44 | Kimmie Warren |
-| 1496 | 44 | Natisha Bullock |
-| 1497 | 44 | Cauntay Youngking Williams |
+| 1491 | 44 | Natisha Bullock |
+| 1492 | 44 | Michael J A Moore |
+| 1493 | 44 | SweetChaos |
+| 1494 | 44 | Mayleen Delgado |
+| 1495 | 44 | Sharron Mullins |
+| 1496 | 44 | Mighty Clicky |
+| 1497 | 44 | Angel |
 | 1498 | 44 | EJ Frazier |
 | 1499 | 44 | Chyla Burns |
 | 1500 | 43 | Amina Walker |
