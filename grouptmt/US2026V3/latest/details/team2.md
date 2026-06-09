@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 12:04:44 UTC
+# Standings for team2 as of 2026-06-09 12:05:20 UTC
 
 **Total Participants:** 2480
 
@@ -183,7 +183,7 @@
 | 175 | 767 | Rhonda Diebold |
 | 176 | 763 | Nettrainer |
 | 177 | 763 | Karen Reid Cenkush |
-| 178 | 759 | Krisanne Kesner-Lonsby |
+| 178 | 762 | Krisanne Kesner-Lonsby |
 | 179 | 757 | Danielle Blount |
 | 180 | 756 | SEH |
 | 181 | 754 | MegaPooh |
@@ -748,28 +748,28 @@
 | 740 | 194 | Cassandra Green |
 | 741 | 194 | GiGi Cool |
 | 742 | 193 | Jaimie Walters |
-| 743 | 193 | Hyper Cascade |
-| 744 | 193 | Ginger Nesbitt |
-| 745 | 193 | Cortney Coleman |
-| 746 | 192 | Spicy Balanceblock |
-| 747 | 192 | Coleta Singleton-Gallishaw |
-| 748 | 191 | Jami Borges |
-| 749 | 191 | Melissa Willson |
-| 750 | 191 | Firebone |
-| 751 | 191 | Angeleye A James |
-| 752 | 191 | Chilly Surge |
-| 753 | 191 | Nano. |
-| 754 | 190 | Duck |
-| 755 | 190 | Kelly Hall Whitt |
-| 756 | 190 | Tammy Botkin |
-| 757 | 190 | Meagan Grimmett Washburn |
-| 758 | 190 | Cranky Patternblock |
-| 759 | 189 | Destiny Turner |
-| 760 | 189 | Goofy Patternfit |
-| 761 | 189 | Audrey Bickford |
-| 762 | 189 | James Sayers |
-| 763 | 189 | Kristi K Milner |
-| 764 | 189 | Poppy Strikerbuilder |
+| 743 | 193 | Cranky Patternblock |
+| 744 | 193 | Hyper Cascade |
+| 745 | 193 | Ginger Nesbitt |
+| 746 | 193 | Cortney Coleman |
+| 747 | 192 | Spicy Balanceblock |
+| 748 | 192 | Coleta Singleton-Gallishaw |
+| 749 | 191 | Jami Borges |
+| 750 | 191 | Melissa Willson |
+| 751 | 191 | Firebone |
+| 752 | 191 | Angeleye A James |
+| 753 | 191 | Chilly Surge |
+| 754 | 191 | Nano. |
+| 755 | 190 | Duck |
+| 756 | 190 | Kelly Hall Whitt |
+| 757 | 190 | Tammy Botkin |
+| 758 | 190 | Meagan Grimmett Washburn |
+| 759 | 189 | Goofy Patternfit |
+| 760 | 189 | Audrey Bickford |
+| 761 | 189 | James Sayers |
+| 762 | 189 | Kristi K Milner |
+| 763 | 189 | Poppy Strikerbuilder |
+| 764 | 189 | Destiny Turner |
 | 765 | 188 | Derrick |
 | 766 | 188 | Chipper Towerzone |
 | 767 | 187 | Momof2wigglebutts |
@@ -809,8 +809,8 @@
 | 801 | 177 | Carmina Truoiolo |
 | 802 | 176 | Tracey Cox |
 | 803 | 176 | Tina Carr |
-| 804 | 176 | Sara Moericke |
-| 805 | 176 | Chill Clearbuilder |
+| 804 | 176 | Chill Clearbuilder |
+| 805 | 176 | Sara Moericke |
 | 806 | 176 | Perky Rollfit |
 | 807 | 175 | Nicole Sides KrazyKoop |
 | 808 | 175 | Distro |
@@ -819,8 +819,8 @@
 | 811 | 175 | Frilly Shiftsnap |
 | 812 | 174 | Giggly Spinblock |
 | 813 | 174 | Nova |
-| 814 | 174 | Nichole Fuller |
-| 815 | 174 | Rebekah Holland |
+| 814 | 174 | Rebekah Holland |
+| 815 | 174 | Nichole Fuller |
 | 816 | 174 | Jasmine Goggans |
 | 817 | 173 | Tami Weiss |
 | 818 | 173 | Jessica Garoutte |
@@ -850,12 +850,12 @@
 | 842 | 166 | Kelly |
 | 843 | 166 | Jolly Twisterfit |
 | 844 | 166 | Ashlee Johnson |
-| 845 | 166 | Jackelyn Ford |
-| 846 | 166 | Dandy Column |
-| 847 | 166 | LyndaLou |
-| 848 | 165 | Epic Slice |
-| 849 | 165 | April Elaine Messenger |
-| 850 | 165 | Twisty Blockmatch |
+| 845 | 166 | LyndaLou |
+| 846 | 166 | Jackelyn Ford |
+| 847 | 166 | Dandy Column |
+| 848 | 165 | April Elaine Messenger |
+| 849 | 165 | Twisty Blockmatch |
+| 850 | 165 | Epic Slice |
 | 851 | 165 | Damion Morrison |
 | 852 | 165 | Black Sheep |
 | 853 | 165 | LadyDeath |
@@ -879,24 +879,24 @@
 | 871 | 160 | Elizabeth Cornelius |
 | 872 | 160 | Adam Latin |
 | 873 | 160 | Patti Ward |
-| 874 | 160 | Michelle Jones |
-| 875 | 160 | Scott Lyles |
-| 876 | 160 | Tasha Gilbert |
+| 874 | 160 | Tami Leontyuk |
+| 875 | 160 | Katie Thacker |
+| 876 | 160 | Gloria Appleton |
 | 877 | 160 | Steve Eakins |
-| 878 | 160 | Gloria Appleton |
-| 879 | 160 | Tami Leontyuk |
-| 880 | 160 | Katie Thacker |
-| 881 | 160 | Julie Brown |
-| 882 | 159 | Bruni |
+| 878 | 160 | Julie Brown |
+| 879 | 160 | Scott Lyles |
+| 880 | 160 | Tasha Gilbert |
+| 881 | 160 | Michelle Jones |
+| 882 | 159 | Misty Noe |
 | 883 | 159 | Jennifer Vitro |
-| 884 | 159 | Misty Noe |
+| 884 | 159 | Bruni |
 | 885 | 159 | Amanda Bailey |
 | 886 | 159 | Amanda Neal |
 | 887 | 158 | Ceci |
 | 888 | 158 | Laura Anderson |
 | 889 | 158 | Smiley Cornerfall |
-| 890 | 158 | Chrystal |
-| 891 | 158 | Tia Guile |
+| 890 | 158 | Tia Guile |
+| 891 | 158 | Chrystal |
 | 892 | 157 | Sara Karels |
 | 893 | 157 | Shelby Wilson |
 | 894 | 157 | Kimmi Blake |

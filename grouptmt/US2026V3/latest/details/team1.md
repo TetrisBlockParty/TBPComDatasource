@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:04:44 UTC
+# Standings for team1 as of 2026-06-09 12:05:20 UTC
 
 **Total Participants:** 2039
 
@@ -91,12 +91,12 @@
 | 83 | 1295 | Whitney Butler |
 | 84 | 1288 | Dawn L Washington-Feuquay |
 | 85 | 1274 | Voice |
-| 86 | 1258 | Frisky Fallmatch |
-| 87 | 1248 | Ryan Meilleur |
-| 88 | 1247 | La'Chae Nickole |
-| 89 | 1243 | PandaPrincess |
-| 90 | 1233 | Jason Mungin |
-| 91 | 1223 | Court Court |
+| 86 | 1261 | Court Court |
+| 87 | 1258 | Frisky Fallmatch |
+| 88 | 1248 | Ryan Meilleur |
+| 89 | 1247 | La'Chae Nickole |
+| 90 | 1243 | PandaPrincess |
+| 91 | 1233 | Jason Mungin |
 | 92 | 1217 | Catara Renae Oliver |
 | 93 | 1208 | Aviv Zehavi |
 | 94 | 1206 | BYM4L |
@@ -351,27 +351,27 @@
 | 343 | 348 | Frisky Fall |
 | 344 | 347 | Erin Sabol |
 | 345 | 344 | Andy Rivera |
-| 346 | 343 | MamushiOh |
-| 347 | 343 | izzybella |
-| 348 | 343 | Heather Aurelia |
+| 346 | 343 | Heather Aurelia |
+| 347 | 343 | MamushiOh |
+| 348 | 343 | izzybella |
 | 349 | 341 | Jawaun Daniels |
-| 350 | 340 | Tipsy Linkroll |
-| 351 | 340 | Christian Pham |
+| 350 | 340 | Christian Pham |
+| 351 | 340 | Tipsy Linkroll |
 | 352 | 340 | Jean Regis |
-| 353 | 337 | Brenda Malachi-butler |
+| 353 | 337 | Desire Rice |
 | 354 | 337 | HarleyJane |
-| 355 | 337 | Desire Rice |
+| 355 | 337 | Brenda Malachi-butler |
 | 356 | 336 | Skippy |
 | 357 | 330 | Crystal Boyd |
 | 358 | 330 | rls |
 | 359 | 329 | Bubbly Piececlear |
 | 360 | 327 | Jennah |
 | 361 | 325 | LaShaun Stinson |
-| 362 | 320 | Daddy |
-| 363 | 319 | Smiley Clearpiece |
-| 364 | 318 | Nerdy Snapfall |
-| 365 | 317 | Poppy Buildout |
-| 366 | 317 | Jai |
+| 362 | 324 | Jai |
+| 363 | 320 | Daddy |
+| 364 | 319 | Smiley Clearpiece |
+| 365 | 318 | Nerdy Snapfall |
+| 366 | 317 | Poppy Buildout |
 | 367 | 316 | Peppy Towerbuilder |
 | 368 | 315 | KeeKee Williams |
 | 369 | 315 | Jae Thompson-Tyus |
@@ -662,58 +662,58 @@
 | 654 | 180 | NedaWin |
 | 655 | 180 | Nikita Jones |
 | 656 | 180 | Cornelius Neal |
-| 657 | 179 | Kike Lua |
-| 658 | 179 | Ad Doctor |
+| 657 | 179 | Ad Doctor |
+| 658 | 179 | Kike Lua |
 | 659 | 178 | Frilly Shatterline |
 | 660 | 176 | Squaw Ki Ng |
-| 661 | 176 | Frisky Gridder |
-| 662 | 176 | Callie Mae |
-| 663 | 176 | jeremy92 |
-| 664 | 175 | Loony Clearer |
-| 665 | 175 | Eric Machuca |
-| 666 | 175 | DaemahnFriday |
-| 667 | 175 | Poppy Twister |
-| 668 | 174 | Nerdy Wipefit |
-| 669 | 174 | Clipzby |
-| 670 | 173 | Mathew Trudell |
-| 671 | 173 | Claudia Price |
-| 672 | 173 | Ashley Monet Terrell |
+| 661 | 176 | Callie Mae |
+| 662 | 176 | jeremy92 |
+| 663 | 176 | Frisky Gridder |
+| 664 | 175 | DaemahnFriday |
+| 665 | 175 | TBabii24 |
+| 666 | 175 | Poppy Twister |
+| 667 | 175 | Loony Clearer |
+| 668 | 175 | Eric Machuca |
+| 669 | 174 | Nerdy Wipefit |
+| 670 | 174 | Clipzby |
+| 671 | 173 | Mathew Trudell |
+| 672 | 173 | Claudia Price |
 | 673 | 173 | Kim Holzmiller |
-| 674 | 172 | MrsDontPlay |
-| 675 | 172 | Ozell Jones Jr. |
-| 676 | 171 | Victor |
-| 677 | 171 | Ta'Kaiyah M. Spann |
-| 678 | 171 | Locke Mahal LD |
-| 679 | 170 | Devron Reedy |
-| 680 | 170 | Christi Walker Patton |
-| 681 | 170 | meatballs |
-| 682 | 169 | Undeniable Williams |
-| 683 | 169 | Cheryl Miller |
-| 684 | 169 | Don Ray Mc |
-| 685 | 169 | rb |
-| 686 | 168 | Lounique |
-| 687 | 168 | Lynn |
-| 688 | 168 | Christina Singleton |
-| 689 | 167 | Joka NoTime ForHataz |
+| 674 | 173 | Ashley Monet Terrell |
+| 675 | 172 | MrsDontPlay |
+| 676 | 172 | Ozell Jones Jr. |
+| 677 | 171 | Locke Mahal LD |
+| 678 | 171 | Victor |
+| 679 | 171 | Ta'Kaiyah M. Spann |
+| 680 | 170 | Devron Reedy |
+| 681 | 170 | Christi Walker Patton |
+| 682 | 170 | meatballs |
+| 683 | 169 | Don Ray Mc |
+| 684 | 169 | Cheryl Miller |
+| 685 | 169 | Undeniable Williams |
+| 686 | 169 | rb |
+| 687 | 168 | Lounique |
+| 688 | 168 | Lynn |
+| 689 | 168 | Christina Singleton |
 | 690 | 167 | Montego Allen |
 | 691 | 167 | Comedian Gdane |
-| 692 | 166 | Amaadi Ward |
-| 693 | 165 | lizlizliz |
-| 694 | 165 | Vannie G |
-| 695 | 164 | Jes Marie |
-| 696 | 164 | TBabii24 |
+| 692 | 167 | Joka NoTime ForHataz |
+| 693 | 166 | Amaadi Ward |
+| 694 | 165 | lizlizliz |
+| 695 | 165 | Vannie G |
+| 696 | 164 | Jes Marie |
 | 697 | 163 | Kelvin Cook |
 | 698 | 163 | QueenShay AllGood |
 | 699 | 162 | Peppy Wipeblock |
 | 700 | 162 | Speedy Stacky |
 | 701 | 160 | Spotlight |
-| 702 | 160 | Duncan Timothy |
-| 703 | 160 | Donnie Withthebody |
+| 702 | 160 | Donnie Withthebody |
+| 703 | 160 | Duncan Timothy |
 | 704 | 160 | Cheeky Twistpiece |
 | 705 | 160 | Kesha Brady |
-| 706 | 159 | TY Newme Batts |
-| 707 | 159 | Pinky Pink |
-| 708 | 159 | Darrel Pemberton |
+| 706 | 159 | Darrel Pemberton |
+| 707 | 159 | TY Newme Batts |
+| 708 | 159 | Pinky Pink |
 | 709 | 159 | Frances Davis |
 | 710 | 159 | Naee Bee |
 | 711 | 159 | Yvette McGee |
