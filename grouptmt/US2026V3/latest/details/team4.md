@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:24:44 UTC
+# Standings for team4 as of 2026-06-09 08:25:22 UTC
 
 **Total Participants:** 2088
 
@@ -138,7 +138,7 @@
 | 130 | 837 | Phil Peterson |
 | 131 | 830 | Kitsune Bi |
 | 132 | 829 | GeorgeButts |
-| 133 | 822 | Gorica Prusina |
+| 133 | 828 | Gorica Prusina |
 | 134 | 820 | Jenn Fitzgerald |
 | 135 | 812 | CJ |
 | 136 | 807 | Keesha Muro |
@@ -221,9 +221,9 @@
 | 213 | 496 | Jeremy |
 | 214 | 496 | Jackie Jackson |
 | 215 | 496 | Samantha Worley |
-| 216 | 495 | Baysoph |
-| 217 | 494 | Yesenia Castro Monreal |
-| 218 | 494 | Maria Castillo |
+| 216 | 495 | Maria Castillo |
+| 217 | 495 | Baysoph |
+| 218 | 494 | Yesenia Castro Monreal |
 | 219 | 490 | Stephanie Myers |
 | 220 | 489 | Hen |
 | 221 | 487 | Plucky Shatterfit |
@@ -954,110 +954,110 @@
 | 946 | 111 | Abby Waterman |
 | 947 | 111 | MzCeleste Brooks |
 | 948 | 111 | Jacquelyn L Whitsitt |
-| 949 | 111 | Elizabeth Putansu |
-| 950 | 111 | Sonya |
-| 951 | 111 | Peachy Piecefit |
-| 952 | 110 | Slinky Snapfit |
-| 953 | 110 | kaykay |
+| 949 | 111 | SueSally |
+| 950 | 111 | Elizabeth Putansu |
+| 951 | 111 | Sonya |
+| 952 | 111 | Peachy Piecefit |
+| 953 | 110 | Larredo Covington |
 | 954 | 110 | Zappy Tilemaker |
 | 955 | 110 | Charissa W Walton |
-| 956 | 110 | Aleta Svitak |
-| 957 | 110 | Larredo Covington |
-| 958 | 110 | skynatda |
-| 959 | 109 | Honey Honey |
+| 956 | 110 | Slinky Snapfit |
+| 957 | 110 | Aleta Svitak |
+| 958 | 110 | kaykay |
+| 959 | 110 | skynatda |
 | 960 | 109 | Tiffany Roberts |
-| 961 | 109 | Frisky Blocker |
+| 961 | 109 | Street724 |
 | 962 | 109 | da1ndonly |
-| 963 | 109 | Street724 |
+| 963 | 109 | Frisky Blocker |
 | 964 | 109 | Jonathan Jackson |
-| 965 | 109 | Tony Clark |
-| 966 | 108 | Giggy Risegrid |
-| 967 | 108 | PDubz |
-| 968 | 108 | Gerald Richard Franke |
+| 965 | 109 | Honey Honey |
+| 966 | 109 | Tony Clark |
+| 967 | 108 | Marisela Alvarado |
+| 968 | 108 | Giggy Risegrid |
 | 969 | 108 | Alaina Rousseau |
-| 970 | 108 | Marisela Alvarado |
-| 971 | 108 | Gwendolyn Langwinski |
-| 972 | 108 | Sandra O'Reilly |
-| 973 | 108 | Gingerale<3 |
-| 974 | 108 | Miranda Brown |
-| 975 | 107 | Kaela Ferguson |
-| 976 | 107 | Jordan Tamayia Williams |
-| 977 | 107 | Taquilla Branch |
+| 970 | 108 | Gerald Richard Franke |
+| 971 | 108 | PDubz |
+| 972 | 108 | Gwendolyn Langwinski |
+| 973 | 108 | Sandra O'Reilly |
+| 974 | 108 | Gingerale<3 |
+| 975 | 108 | Miranda Brown |
+| 976 | 107 | ManOfSteel |
+| 977 | 107 | Kaela Ferguson |
 | 978 | 107 | Goofy Riserbuilder |
 | 979 | 107 | 94Blockhead |
 | 980 | 107 | BethB |
-| 981 | 107 | Lori A Hamann |
-| 982 | 107 | ManOfSteel |
-| 983 | 107 | SueSally |
-| 984 | 107 | JP |
-| 985 | 106 | Melissa Gorman |
+| 981 | 107 | Jordan Tamayia Williams |
+| 982 | 107 | Lori A Hamann |
+| 983 | 107 | JP |
+| 984 | 107 | Taquilla Branch |
+| 985 | 106 | JJADHD |
 | 986 | 106 | Helen Bradley |
-| 987 | 106 | JJADHD |
-| 988 | 106 | Marie Culbert |
-| 989 | 106 | LynDee Danielle Hankins |
-| 990 | 105 | Kelly |
-| 991 | 105 | Erich EMac McIntosh |
+| 987 | 106 | LynDee Danielle Hankins |
+| 988 | 106 | Clever Blockmatch |
+| 989 | 106 | Marie Culbert |
+| 990 | 106 | Melissa Gorman |
+| 991 | 105 | Jailen Harper |
 | 992 | 105 | Snappy Fill |
-| 993 | 105 | Jailen Harper |
-| 994 | 105 | Lush Match |
-| 995 | 105 | Steve Swanson |
-| 996 | 104 | Bren70 |
-| 997 | 104 | Dsay Yates |
-| 998 | 104 | Chris Somsen |
-| 999 | 104 | Chabetta |
-| 1000 | 104 | Chelle Williams |
-| 1001 | 103 | Archer Family Mayhem |
-| 1002 | 103 | Donny Keets |
-| 1003 | 103 | Hayze |
-| 1004 | 103 | ShortStackz Jones |
-| 1005 | 102 | Clever Blockmatch |
-| 1006 | 102 | Monkey |
-| 1007 | 102 | gothicmisery |
-| 1008 | 102 | Frilly Riserpiece |
-| 1009 | 102 | Joe Andrews |
-| 1010 | 102 | Stacey Heartful |
-| 1011 | 102 | Darren Miguel |
-| 1012 | 102 | Cail |
+| 993 | 105 | Kelly |
+| 994 | 105 | Erich EMac McIntosh |
+| 995 | 105 | Lush Match |
+| 996 | 105 | Steve Swanson |
+| 997 | 104 | Chelle Williams |
+| 998 | 104 | Chabetta |
+| 999 | 104 | Dsay Yates |
+| 1000 | 104 | Chris Somsen |
+| 1001 | 104 | Bren70 |
+| 1002 | 103 | Hayze |
+| 1003 | 103 | Donny Keets |
+| 1004 | 103 | Archer Family Mayhem |
+| 1005 | 103 | ShortStackz Jones |
+| 1006 | 102 | gothicmisery |
+| 1007 | 102 | Cail |
+| 1008 | 102 | Joe Andrews |
+| 1009 | 102 | Darren Miguel |
+| 1010 | 102 | Frilly Riserpiece |
+| 1011 | 102 | Monkey |
+| 1012 | 102 | Stacey Heartful |
 | 1013 | 101 | Melissa Abigail |
-| 1014 | 101 | Chelsea Guajardo |
-| 1015 | 101 | FUNBAT |
-| 1016 | 101 | Tipsy Patternfit |
-| 1017 | 101 | Kenyatta Davis |
-| 1018 | 101 | Samantha Brandt |
-| 1019 | 101 | Scot Matthew Bergdorf |
-| 1020 | 101 | Misty Harland |
+| 1014 | 101 | Scot Matthew Bergdorf |
+| 1015 | 101 | Tipsy Patternfit |
+| 1016 | 101 | Misty Harland |
+| 1017 | 101 | Samantha Brandt |
+| 1018 | 101 | Kenyatta Davis |
+| 1019 | 101 | FUNBAT |
+| 1020 | 101 | Chelsea Guajardo |
 | 1021 | 101 | Peterson Cottontail |
-| 1022 | 100 | Funky Rollzone |
-| 1023 | 100 | CorieBe |
-| 1024 | 100 | Nova Kain |
+| 1022 | 100 | Nova Kain |
+| 1023 | 100 | Funky Rollzone |
+| 1024 | 100 | CorieBe |
 | 1025 | 100 | Pauline Cortez |
 | 1026 | 100 | Kristal |
 | 1027 | 100 | Mike Zec II |
 | 1028 | 100 | Nykell Sturdivant |
 | 1029 | 100 | Cozy Staggerpiece |
-| 1030 | 100 | Lemus |
-| 1031 | 100 | Chummy Twistpiece |
-| 1032 | 99 | Stevonne Roberts |
-| 1033 | 99 | Shannon Foster |
-| 1034 | 99 | Kelli Miller |
+| 1030 | 100 | Chummy Twistpiece |
+| 1031 | 100 | Lemus |
+| 1032 | 99 | Mandy Grant |
+| 1033 | 99 | Kelli Miller |
+| 1034 | 99 | Shannon Foster |
 | 1035 | 99 | Nikcole Alexis Bryan |
-| 1036 | 99 | Ricardo Arias |
-| 1037 | 99 | Mandy Grant |
-| 1038 | 99 | Tamika Ashli Bonner |
-| 1039 | 99 | Rodger Lines |
-| 1040 | 99 | Combo Snappy |
+| 1036 | 99 | Rodger Lines |
+| 1037 | 99 | Ricardo Arias |
+| 1038 | 99 | Combo Snappy |
+| 1039 | 99 | Tamika Ashli Bonner |
+| 1040 | 99 | Stevonne Roberts |
 | 1041 | 98 | katy |
-| 1042 | 97 | Skylar Durk |
+| 1042 | 97 | Limbo |
 | 1043 | 97 | Oc Tive |
-| 1044 | 97 | Limbo |
-| 1045 | 96 | JUNE |
-| 1046 | 96 | Smiley Wipeblock |
-| 1047 | 96 | Steven Patshy |
+| 1044 | 97 | Skylar Durk |
+| 1045 | 96 | Smiley Wipeblock |
+| 1046 | 96 | Steven Patshy |
+| 1047 | 96 | Tiffany Taylor |
 | 1048 | 96 | Bear Bair |
-| 1049 | 96 | Tiffany Taylor |
-| 1050 | 95 | Acyndra Cain |
-| 1051 | 95 | Loony Dashgrid |
-| 1052 | 95 | Patsy |
+| 1049 | 96 | JUNE |
+| 1050 | 95 | Patsy |
+| 1051 | 95 | Acyndra Cain |
+| 1052 | 95 | Loony Dashgrid |
 | 1053 | 95 | Hyper Balancepiece |
 | 1054 | 95 | Frisky Pusher |
 | 1055 | 95 | Marion Wade |
@@ -1071,11 +1071,11 @@
 | 1063 | 94 | Mari Isaac |
 | 1064 | 93 | Worley’s Wife |
 | 1065 | 93 | taya |
-| 1066 | 93 | Poseidon S Davenport |
-| 1067 | 93 | Bouncy Fitblock |
-| 1068 | 93 | Kennita Cox |
-| 1069 | 93 | Rocky |
-| 1070 | 92 | Snappy Slice |
+| 1066 | 93 | Snappy Slice |
+| 1067 | 93 | Poseidon S Davenport |
+| 1068 | 93 | Bouncy Fitblock |
+| 1069 | 93 | Kennita Cox |
+| 1070 | 93 | Rocky |
 | 1071 | 92 | Chelsea Leann Lamb |
 | 1072 | 92 | Donna Winget |
 | 1073 | 91 | Alicia |

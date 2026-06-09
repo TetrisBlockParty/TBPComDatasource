@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:24:44 UTC
+# Standings for team1 as of 2026-06-09 08:25:22 UTC
 
 **Total Participants:** 2018
 
@@ -104,7 +104,7 @@
 | 96 | 1169 | Kimberly Hernandez |
 | 97 | 1164 | Tootsie Pop |
 | 98 | 1160 | KenpachisGirl |
-| 99 | 1140 | La'Chae Nickole |
+| 99 | 1154 | La'Chae Nickole |
 | 100 | 1124 | Jazzy Dashpiece |
 | 101 | 1121 | Lisa Müller |
 | 102 | 1120 | IamJust Neyamijah Washington Sr. |
@@ -286,26 +286,26 @@
 | 278 | 419 | Johnathan Deese |
 | 279 | 419 | Dai Bo |
 | 280 | 418 | Sheila Burnham |
-| 281 | 414 | Cheery Linkfall |
-| 282 | 413 | Deveda Williams |
-| 283 | 413 | Curtis T Cirno |
-| 284 | 411 | Tamika Fisher |
-| 285 | 410 | Salim Thugger |
-| 286 | 404 | Calvin Green |
-| 287 | 403 | Bre Poston |
-| 288 | 400 | Denell Sims |
-| 289 | 400 | Coco |
-| 290 | 396 | Koi |
+| 281 | 418 | Anthony |
+| 282 | 414 | Cheery Linkfall |
+| 283 | 413 | Deveda Williams |
+| 284 | 413 | Curtis T Cirno |
+| 285 | 411 | Tamika Fisher |
+| 286 | 410 | Salim Thugger |
+| 287 | 404 | Calvin Green |
+| 288 | 403 | Bre Poston |
+| 289 | 400 | Denell Sims |
+| 290 | 400 | Coco |
 | 291 | 396 | Joana Thompson |
-| 292 | 394 | Dacia Hicks |
+| 292 | 396 | Koi |
 | 293 | 394 | Queenie Perry |
-| 294 | 392 | Anthony |
+| 294 | 394 | Dacia Hicks |
 | 295 | 390 | Devin West |
 | 296 | 387 | StingerD |
-| 297 | 386 | Tremaine Hiler |
-| 298 | 386 | Hailey Hil |
-| 299 | 386 | Chummy Frame |
-| 300 | 386 | Steve Reno |
+| 297 | 386 | Steve Reno |
+| 298 | 386 | Tremaine Hiler |
+| 299 | 386 | Hailey Hil |
+| 300 | 386 | Chummy Frame |
 | 301 | 384 | Christana Imjustbutton Stone |
 | 302 | 383 | win |
 | 303 | 380 | Nerdy Blockpiece |

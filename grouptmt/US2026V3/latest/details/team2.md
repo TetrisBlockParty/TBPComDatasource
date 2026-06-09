@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:24:44 UTC
+# Standings for team2 as of 2026-06-09 08:25:22 UTC
 
 **Total Participants:** 2445
 
@@ -302,25 +302,25 @@
 | 294 | 482 | Nikki Greeneyebeauty |
 | 295 | 480 | Jacob Carpenter |
 | 296 | 479 | Swanky Fitline |
-| 297 | 479 | giamy |
-| 298 | 475 | Justin McCray |
-| 299 | 471 | Flashy Twistline |
-| 300 | 470 | Sharon L Brazelton |
-| 301 | 468 | Flower_child |
-| 302 | 467 | Santara Ferguson |
-| 303 | 467 | Nicole Hogue |
-| 304 | 467 | Nikki EightySixed |
-| 305 | 463 | Joni Michelle Morgan |
-| 306 | 462 | James Ward |
-| 307 | 455 | Janelle Edgecombe |
-| 308 | 453 | MaddieCherie |
-| 309 | 453 | Kimberly Cowan |
-| 310 | 450 | True |
-| 311 | 449 | Alicia Kinney |
-| 312 | 448 | Eric Drane |
-| 313 | 447 | Xandrea Jones |
-| 314 | 445 | Norma Ortiz |
-| 315 | 442 | Theresa Huddleston |
+| 297 | 479 | Theresa Huddleston |
+| 298 | 479 | giamy |
+| 299 | 475 | Justin McCray |
+| 300 | 471 | Flashy Twistline |
+| 301 | 470 | Sharon L Brazelton |
+| 302 | 468 | Flower_child |
+| 303 | 467 | Santara Ferguson |
+| 304 | 467 | Nicole Hogue |
+| 305 | 467 | Nikki EightySixed |
+| 306 | 463 | Joni Michelle Morgan |
+| 307 | 462 | James Ward |
+| 308 | 455 | Janelle Edgecombe |
+| 309 | 453 | MaddieCherie |
+| 310 | 453 | Kimberly Cowan |
+| 311 | 450 | True |
+| 312 | 449 | Alicia Kinney |
+| 313 | 448 | Eric Drane |
+| 314 | 447 | Xandrea Jones |
+| 315 | 445 | Norma Ortiz |
 | 316 | 438 | Cathy Lee Stoneking |
 | 317 | 434 | Mikia Stokes |
 | 318 | 430 | Jenn |
@@ -1307,43 +1307,43 @@
 | 1299 | 88 | Erin Marie Smith |
 | 1300 | 88 | Redangel |
 | 1301 | 87 | Mandy Smart |
-| 1302 | 87 | LilMs101 |
-| 1303 | 86 | Becka Jones |
-| 1304 | 86 | Melissa Mae |
+| 1302 | 87 | Dustin Bumbalough |
+| 1303 | 87 | LilMs101 |
+| 1304 | 86 | Becka Jones |
 | 1305 | 86 | Charles Dwayne |
-| 1306 | 86 | Chad Praytor |
-| 1307 | 86 | Alessandria Anderson |
+| 1306 | 86 | Alessandria Anderson |
+| 1307 | 86 | Em |
 | 1308 | 86 | Jennifer Robinson |
-| 1309 | 86 | Em |
-| 1310 | 86 | Jumpy Linkroll |
-| 1311 | 86 | Kristen Alta |
-| 1312 | 85 | Lexi Chouinard |
-| 1313 | 85 | Daisy Girl |
-| 1314 | 85 | SunnySquare |
-| 1315 | 85 | Kaylyn Wickham |
-| 1316 | 85 | James Moore |
-| 1317 | 85 | Cassafrass |
-| 1318 | 85 | Rae Madewell |
+| 1309 | 86 | Melissa Mae |
+| 1310 | 86 | Chad Praytor |
+| 1311 | 86 | Jumpy Linkroll |
+| 1312 | 86 | Kristen Alta |
+| 1313 | 85 | Lexi Chouinard |
+| 1314 | 85 | Daisy Girl |
+| 1315 | 85 | SunnySquare |
+| 1316 | 85 | Kaylyn Wickham |
+| 1317 | 85 | James Moore |
+| 1318 | 85 | Cassafrass |
 | 1319 | 85 | Wendy Morrison |
 | 1320 | 85 | Joanne Haynes |
-| 1321 | 84 | Matt Solomon |
-| 1322 | 84 | candi |
-| 1323 | 84 | Calah Amore |
-| 1324 | 84 | Mona Wagner |
-| 1325 | 84 | Twisty Snapmatch |
-| 1326 | 84 | Chirpy Tower |
-| 1327 | 84 | Jazzy |
-| 1328 | 83 | Lezley Hawkins |
-| 1329 | 83 | Diamond Balotje |
-| 1330 | 83 | Rachael Roberts |
-| 1331 | 83 | Shaun Talbot |
-| 1332 | 83 | Maureen Bryan Adams |
-| 1333 | 83 | Jodee Woods |
-| 1334 | 82 | Bubbly Puzzler |
-| 1335 | 82 | Glitzy Roll |
-| 1336 | 82 | Ashley Bryant-hatcher |
-| 1337 | 82 | Mikaela Byrd |
-| 1338 | 82 | Dustin Bumbalough |
+| 1321 | 85 | Rae Madewell |
+| 1322 | 84 | Calah Amore |
+| 1323 | 84 | candi |
+| 1324 | 84 | Matt Solomon |
+| 1325 | 84 | Mona Wagner |
+| 1326 | 84 | Twisty Snapmatch |
+| 1327 | 84 | Chirpy Tower |
+| 1328 | 84 | Jazzy |
+| 1329 | 83 | Lezley Hawkins |
+| 1330 | 83 | Diamond Balotje |
+| 1331 | 83 | Maureen Bryan Adams |
+| 1332 | 83 | Shaun Talbot |
+| 1333 | 83 | Rachael Roberts |
+| 1334 | 83 | Jodee Woods |
+| 1335 | 82 | Mikaela Byrd |
+| 1336 | 82 | Bubbly Puzzler |
+| 1337 | 82 | Ashley Bryant-hatcher |
+| 1338 | 82 | Glitzy Roll |
 | 1339 | 82 | REE4 |
 | 1340 | 82 | Cozy Curve |
 | 1341 | 82 | Jessica LeNeave |
@@ -1352,33 +1352,33 @@
 | 1344 | 81 | Missy Savage-Justice |
 | 1345 | 81 | Heather Hi |
 | 1346 | 81 | YldBoar |
-| 1347 | 81 | Brandy Moore |
-| 1348 | 81 | Flashy Blockfall |
-| 1349 | 81 | Christine Fortner Caskey |
-| 1350 | 81 | Nichole Eileen Doorn Lundy |
-| 1351 | 81 | Jessica Nightshade Hansuld |
-| 1352 | 81 | Octavia Jus Mae Hill |
-| 1353 | 81 | YUKITATA |
-| 1354 | 81 | Slinky Linkgrid |
-| 1355 | 81 | Dandy Brickbuilder |
+| 1347 | 81 | Octavia Jus Mae Hill |
+| 1348 | 81 | Jessica Nightshade Hansuld |
+| 1349 | 81 | YUKITATA |
+| 1350 | 81 | Slinky Linkgrid |
+| 1351 | 81 | Dandy Brickbuilder |
+| 1352 | 81 | Flashy Blockfall |
+| 1353 | 81 | Brandy Moore |
+| 1354 | 81 | Christine Fortner Caskey |
+| 1355 | 81 | Nichole Eileen Doorn Lundy |
 | 1356 | 80 | Patty Sparkman |
-| 1357 | 80 | Javyjavz |
-| 1358 | 80 | Steve Appel |
-| 1359 | 80 | Squirrel |
+| 1357 | 80 | Squirrel |
+| 1358 | 80 | Javyjavz |
+| 1359 | 80 | Amanda Gann |
 | 1360 | 80 | Dizzy Gridder |
 | 1361 | 80 | Unicornlvr |
 | 1362 | 80 | Ramona Guillermo |
 | 1363 | 80 | Lori |
 | 1364 | 80 | Ramon James |
-| 1365 | 80 | Frank Laverty |
-| 1366 | 80 | Kim Hoopes Townsend |
-| 1367 | 80 | Brett Mullins |
-| 1368 | 80 | Flashy Wipegrid |
-| 1369 | 80 | Jason Guy |
-| 1370 | 80 | Snazzy Linebuilder |
-| 1371 | 80 | Heather Lewis |
-| 1372 | 80 | Meve |
-| 1373 | 80 | Amanda Gann |
+| 1365 | 80 | Steve Appel |
+| 1366 | 80 | Frank Laverty |
+| 1367 | 80 | Kim Hoopes Townsend |
+| 1368 | 80 | Brett Mullins |
+| 1369 | 80 | Flashy Wipegrid |
+| 1370 | 80 | Jason Guy |
+| 1371 | 80 | Snazzy Linebuilder |
+| 1372 | 80 | Heather Lewis |
+| 1373 | 80 | Meve |
 | 1374 | 80 | Boldy Patterner |
 | 1375 | 80 | Cory Lynn |
 | 1376 | 80 | Justtony Fareal |
