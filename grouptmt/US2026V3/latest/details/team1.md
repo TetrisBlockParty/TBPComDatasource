@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:12:43 UTC
+# Standings for team1 as of 2026-06-09 06:13:23 UTC
 
 **Total Participants:** 1997
 
@@ -139,7 +139,7 @@
 | 131 | 811 | Cathy Young |
 | 132 | 808 | Cee Emm |
 | 133 | 793 | Alana Renee |
-| 134 | 762 | Big Tina |
+| 134 | 766 | Big Tina |
 | 135 | 760 | Trendalyn Webb |
 | 136 | 754 | Jhaime |
 | 137 | 751 | Kellie Hall |
@@ -1805,51 +1805,51 @@
 | 1797 | 15 | Juniper |
 | 1798 | 14 | Dymond |
 | 1799 | 14 | Queen Q. Green |
-| 1800 | 14 | Lynn Formby |
-| 1801 | 14 | Jazzy |
-| 1802 | 14 | Nena |
-| 1803 | 14 | Jennifer Levan |
-| 1804 | 14 | Keera425 |
-| 1805 | 14 | Christopher Allan Petty II |
-| 1806 | 14 | Wacky1 |
+| 1800 | 14 | Jennifer Levan |
+| 1801 | 14 | Nena |
+| 1802 | 14 | Keera425 |
+| 1803 | 14 | Jazzy |
+| 1804 | 14 | Christopher Allan Petty II |
+| 1805 | 14 | Wacky1 |
+| 1806 | 14 | Lynn Formby |
 | 1807 | 14 | Shalyn Law |
 | 1808 | 14 | Nerdy Curvetile |
-| 1809 | 14 | Barbiebunz |
-| 1810 | 14 | Stephanie Zuniga Tullock |
+| 1809 | 14 | Stephanie Zuniga Tullock |
+| 1810 | 14 | Barbiebunz |
 | 1811 | 14 | Danielle Mariyh Toomer |
 | 1812 | 14 | Jerrone Epps |
-| 1813 | 14 | highland cow lover |
-| 1814 | 14 | Fancy Mover |
-| 1815 | 14 | Carmen Claudio |
-| 1816 | 13 | Jolly Combo |
+| 1813 | 14 | SANA |
+| 1814 | 14 | highland cow lover |
+| 1815 | 14 | Fancy Mover |
+| 1816 | 14 | Carmen Claudio |
 | 1817 | 13 | Hasty Shatterbuilder |
 | 1818 | 13 | Tasha Stuckey |
-| 1819 | 13 | Ashley Horne |
-| 1820 | 13 | Emma Adams |
-| 1821 | 13 | Lakesha Jackson- Anderson |
-| 1822 | 13 | Zesty Clearer |
-| 1823 | 13 | Shiny Crusher |
-| 1824 | 13 | Leah Ingram |
+| 1819 | 13 | Jolly Combo |
+| 1820 | 13 | Ashley Horne |
+| 1821 | 13 | Emma Adams |
+| 1822 | 13 | Lakesha Jackson- Anderson |
+| 1823 | 13 | Zesty Clearer |
+| 1824 | 13 | Shiny Crusher |
 | 1825 | 13 | random |
 | 1826 | 13 | Deanna Pinkard Harrington |
 | 1827 | 13 | Schuyler Carson Jackson |
-| 1828 | 12 | Chantae Maxwell |
-| 1829 | 12 | Lavance Sams |
-| 1830 | 12 | Nicole Malina |
+| 1828 | 13 | Leah Ingram |
+| 1829 | 12 | Chantae Maxwell |
+| 1830 | 12 | Lavance Sams |
 | 1831 | 12 | Outspoken Sirchristopher |
-| 1832 | 12 | Trill Wilson |
-| 1833 | 12 | Peachy Stacker |
-| 1834 | 12 | Plucky Twist |
-| 1835 | 12 | toye69 |
-| 1836 | 12 | SM |
-| 1837 | 12 | Andrae Johnson |
-| 1838 | 12 | Penny Gayles |
-| 1839 | 12 | Sanchez Jackson |
-| 1840 | 12 | taz62 |
-| 1841 | 12 | Gracee Hodge Kunze |
-| 1842 | 12 | Deanna Dunn-mayfield |
-| 1843 | 12 | BigDawg Lessley |
-| 1844 | 12 | SANA |
+| 1832 | 12 | Nicole Malina |
+| 1833 | 12 | Trill Wilson |
+| 1834 | 12 | Peachy Stacker |
+| 1835 | 12 | Plucky Twist |
+| 1836 | 12 | toye69 |
+| 1837 | 12 | SM |
+| 1838 | 12 | Andrae Johnson |
+| 1839 | 12 | Penny Gayles |
+| 1840 | 12 | Sanchez Jackson |
+| 1841 | 12 | taz62 |
+| 1842 | 12 | Gracee Hodge Kunze |
+| 1843 | 12 | Deanna Dunn-mayfield |
+| 1844 | 12 | BigDawg Lessley |
 | 1845 | 12 | Shelly Marie |
 | 1846 | 11 | Amber Laine |
 | 1847 | 11 | Kourt Short |
