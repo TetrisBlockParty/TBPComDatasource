@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:58:21 UTC
+# Standings for team4 as of 2026-06-09 08:58:45 UTC
 
 **Total Participants:** 2088
 
@@ -456,8 +456,8 @@
 | 448 | 252 | Ryan Paul Clark-Ramsey |
 | 449 | 251 | Janna Thompson |
 | 450 | 250 | Danny Frausto |
-| 451 | 249 | Brennan Shea Greene |
-| 452 | 249 | Dawn Marie Trujillo |
+| 451 | 250 | Dawn Marie Trujillo |
+| 452 | 249 | Brennan Shea Greene |
 | 453 | 248 | Jeff Margolis |
 | 454 | 247 | Deborah Silberg |
 | 455 | 247 | Corie A. Brinson |
