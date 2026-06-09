@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:26:44 UTC
+# Standings for team1 as of 2026-06-09 21:27:22 UTC
 
 **Total Participants:** 2113
 
@@ -57,8 +57,8 @@
 | 49 | 2135 | Brian Bohanon II |
 | 50 | 2076 | April Inboden |
 | 51 | 2060 | Cherry Rose |
-| 52 | 1993 | JoJo |
-| 53 | 1992 | D'Andra Stewart |
+| 52 | 2012 | D'Andra Stewart |
+| 53 | 1993 | JoJo |
 | 54 | 1939 | Corey Cawthon |
 | 55 | 1931 | Ceilo Marie |
 | 56 | 1924 | Blockhead |
@@ -762,14 +762,14 @@
 | 754 | 175 | LiyaSkye |
 | 755 | 175 | DaemahnFriday |
 | 756 | 174 | Angela Kitchens |
-| 757 | 174 | Jason Saputo |
-| 758 | 174 | Nerdy Wipefit |
-| 759 | 173 | Kim Holzmiller |
-| 760 | 173 | Claudia Price |
-| 761 | 173 | Mathew Trudell |
-| 762 | 172 | Li-Li Ratliff |
-| 763 | 172 | Ozell Jones Jr. |
-| 764 | 171 | Laysa Nunez |
+| 757 | 174 | Laysa Nunez |
+| 758 | 174 | Jason Saputo |
+| 759 | 174 | Nerdy Wipefit |
+| 760 | 173 | Kim Holzmiller |
+| 761 | 173 | Claudia Price |
+| 762 | 173 | Mathew Trudell |
+| 763 | 172 | Li-Li Ratliff |
+| 764 | 172 | Ozell Jones Jr. |
 | 765 | 171 | Ta'Kaiyah M. Spann |
 | 766 | 171 | Locke Mahal LD |
 | 767 | 171 | Christy Quick |
