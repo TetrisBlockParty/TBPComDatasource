@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:03:22 UTC
+# Standings for team2 as of 2026-06-09 10:04:20 UTC
 
 **Total Participants:** 2463
 
@@ -19,7 +19,7 @@
 | 11 | 8568 | Christina Shell |
 | 12 | 8201 | Bobbi |
 | 13 | 8174 | boblawboblaw |
-| 14 | 7226 | Andre Love |
+| 14 | 7256 | Andre Love |
 | 15 | 7166 | Renee Weedling |
 | 16 | 7161 | Brandon Brown |
 | 17 | 7100 | Crafty Ziggy |
@@ -1520,85 +1520,85 @@
 | 1512 | 65 | Wacky Drop |
 | 1513 | 65 | Kandy Comer |
 | 1514 | 65 | Heather Klaus |
-| 1515 | 65 | nogo |
-| 1516 | 65 | bigdog |
-| 1517 | 64 | Emily |
-| 1518 | 64 | Jodi Deninno |
-| 1519 | 64 | Darla |
-| 1520 | 64 | Liliana Mills |
-| 1521 | 64 | Lori Antrim Nichols |
-| 1522 | 64 | Pnda |
-| 1523 | 64 | Angela Anderson |
-| 1524 | 63 | AmyShea |
-| 1525 | 63 | Disguised Duck |
-| 1526 | 63 | Bubbly Tilt |
-| 1527 | 63 | Amy Hahn Nickels |
-| 1528 | 63 | Silly Cluster |
-| 1529 | 63 | Bowling girl |
-| 1530 | 63 | Dani Newton |
-| 1531 | 62 | Brittany Nichole Ellenburg |
-| 1532 | 62 | Alana Albritton Seals |
-| 1533 | 62 | Breanna Dykes |
-| 1534 | 62 | Jewels |
-| 1535 | 62 | Debra Horne |
-| 1536 | 62 | Michael Woodall |
-| 1537 | 62 | Saucy Clearzone |
-| 1538 | 61 | Maithan Conour |
-| 1539 | 61 | Krystal Snow |
-| 1540 | 61 | Mariah Wygonik |
-| 1541 | 61 | Rachel Switala |
-| 1542 | 61 | LichyBella |
-| 1543 | 61 | Ken Vaughn |
-| 1544 | 61 | BikerBorn BikerBred |
-| 1545 | 61 | Peachy Builderpiece |
-| 1546 | 61 | Epic Glide |
-| 1547 | 61 | Cranky Fit |
-| 1548 | 61 | Lil G |
-| 1549 | 61 | Pleaze Marshall |
-| 1550 | 61 | Glitzy Matchclear |
-| 1551 | 61 | Bobbie Carrol |
-| 1552 | 61 | giggly gal |
-| 1553 | 61 | Natasha Schatte |
-| 1554 | 60 | JEEPER |
+| 1515 | 65 | Auntie YaYa |
+| 1516 | 65 | nogo |
+| 1517 | 65 | bigdog |
+| 1518 | 64 | Emily |
+| 1519 | 64 | Jodi Deninno |
+| 1520 | 64 | Darla |
+| 1521 | 64 | Liliana Mills |
+| 1522 | 64 | Lori Antrim Nichols |
+| 1523 | 64 | Pnda |
+| 1524 | 64 | Angela Anderson |
+| 1525 | 63 | AmyShea |
+| 1526 | 63 | Disguised Duck |
+| 1527 | 63 | Bubbly Tilt |
+| 1528 | 63 | Amy Hahn Nickels |
+| 1529 | 63 | Silly Cluster |
+| 1530 | 63 | Bowling girl |
+| 1531 | 63 | Dani Newton |
+| 1532 | 62 | Brittany Nichole Ellenburg |
+| 1533 | 62 | Alana Albritton Seals |
+| 1534 | 62 | Breanna Dykes |
+| 1535 | 62 | Jewels |
+| 1536 | 62 | Debra Horne |
+| 1537 | 62 | Michael Woodall |
+| 1538 | 62 | Saucy Clearzone |
+| 1539 | 61 | Maithan Conour |
+| 1540 | 61 | Krystal Snow |
+| 1541 | 61 | Mariah Wygonik |
+| 1542 | 61 | Rachel Switala |
+| 1543 | 61 | LichyBella |
+| 1544 | 61 | Ken Vaughn |
+| 1545 | 61 | BikerBorn BikerBred |
+| 1546 | 61 | Peachy Builderpiece |
+| 1547 | 61 | Epic Glide |
+| 1548 | 61 | Cranky Fit |
+| 1549 | 61 | giggly gal |
+| 1550 | 61 | Pleaze Marshall |
+| 1551 | 61 | Glitzy Matchclear |
+| 1552 | 61 | Bobbie Carrol |
+| 1553 | 61 | Lil G |
+| 1554 | 61 | Natasha Schatte |
 | 1555 | 60 | Speedy Gridder |
-| 1556 | 60 | Cardisa Hall |
-| 1557 | 60 | Stephania Edwards |
-| 1558 | 60 | Tiffany Heether |
-| 1559 | 60 | Giggly Buildgrid |
-| 1560 | 60 | Snippy Shifter |
-| 1561 | 60 | Courtney Ribas |
-| 1562 | 60 | Chey22 |
-| 1563 | 60 | Jamie Mullins |
-| 1564 | 60 | Sarai Coronado |
-| 1565 | 60 | Kristy Moore |
-| 1566 | 60 | Crazygranny |
-| 1567 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1568 | 60 | MattandAngie Hopkins |
-| 1569 | 60 | Nikki Grant |
-| 1570 | 60 | Samantha Smith |
-| 1571 | 60 | Jocelyn Fisher |
-| 1572 | 60 | Ephysta |
-| 1573 | 60 | Angiela Hope Boggs |
-| 1574 | 60 | Jaelyn Orr |
-| 1575 | 60 | Tasha Gilbert |
-| 1576 | 60 | Jbarnsey18 |
-| 1577 | 60 | Ally Miller |
-| 1578 | 60 | Dawn Thuringer-Baird |
-| 1579 | 60 | Kenya Johnson |
-| 1580 | 59 | Chummy Smasher |
-| 1581 | 59 | Road Runnersauraus |
-| 1582 | 59 | LaicoosBargains Ln |
-| 1583 | 59 | Cheeky Twistpiece |
-| 1584 | 59 | Jolene Smith |
-| 1585 | 59 | Syg Honeyboy |
-| 1586 | 59 | Amanda |
-| 1587 | 59 | Nicole Immoos |
-| 1588 | 59 | Tam |
-| 1589 | 59 | Katie Magner |
-| 1590 | 59 | Loopy Roll |
-| 1591 | 59 | Christina Nycol |
+| 1556 | 60 | Courtney Ribas |
+| 1557 | 60 | Cardisa Hall |
+| 1558 | 60 | JEEPER |
+| 1559 | 60 | Stephania Edwards |
+| 1560 | 60 | Tiffany Heether |
+| 1561 | 60 | Snippy Shifter |
+| 1562 | 60 | Giggly Buildgrid |
+| 1563 | 60 | Chey22 |
+| 1564 | 60 | Jamie Mullins |
+| 1565 | 60 | Sarai Coronado |
+| 1566 | 60 | Kristy Moore |
+| 1567 | 60 | Crazygranny |
+| 1568 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1569 | 60 | MattandAngie Hopkins |
+| 1570 | 60 | Nikki Grant |
+| 1571 | 60 | Samantha Smith |
+| 1572 | 60 | Jocelyn Fisher |
+| 1573 | 60 | Ephysta |
+| 1574 | 60 | Angiela Hope Boggs |
+| 1575 | 60 | Jaelyn Orr |
+| 1576 | 60 | Tasha Gilbert |
+| 1577 | 60 | Jbarnsey18 |
+| 1578 | 60 | Ally Miller |
+| 1579 | 60 | Dawn Thuringer-Baird |
+| 1580 | 60 | Kenya Johnson |
+| 1581 | 59 | Chummy Smasher |
+| 1582 | 59 | Road Runnersauraus |
+| 1583 | 59 | LaicoosBargains Ln |
+| 1584 | 59 | Cheeky Twistpiece |
+| 1585 | 59 | Jolene Smith |
+| 1586 | 59 | Syg Honeyboy |
+| 1587 | 59 | Amanda |
+| 1588 | 59 | Nicole Immoos |
+| 1589 | 59 | Tam |
+| 1590 | 59 | Katie Magner |
+| 1591 | 59 | Loopy Roll |
 | 1592 | 59 | Tabitha Porter |
-| 1593 | 59 | Auntie YaYa |
+| 1593 | 59 | Christina Nycol |
 | 1594 | 59 | April Addis |
 | 1595 | 58 | Chipper Spinzone |
 | 1596 | 58 | Elise Marie Mireles |
@@ -1939,21 +1939,21 @@
 | 1931 | 33 | Taderbug |
 | 1932 | 33 | Holly |
 | 1933 | 33 | Dixie Wilson |
-| 1934 | 33 | Brandy McGuffey |
-| 1935 | 33 | Mandy Ann Riley |
-| 1936 | 33 | Katy Marie |
-| 1937 | 33 | Speedy Crasher |
-| 1938 | 33 | Maja Hauff |
-| 1939 | 33 | juhde |
-| 1940 | 33 | Stephanie Stegman |
-| 1941 | 32 | Chelsea Harriss |
-| 1942 | 32 | Crystal Marie Castillo |
-| 1943 | 32 | Foc |
+| 1934 | 33 | Maja Hauff |
+| 1935 | 33 | Stephanie Stegman |
+| 1936 | 33 | juhde |
+| 1937 | 33 | Brandy McGuffey |
+| 1938 | 33 | Mandy Ann Riley |
+| 1939 | 33 | Katy Marie |
+| 1940 | 33 | Speedy Crasher |
+| 1941 | 33 | Reni Seven |
+| 1942 | 32 | Swanky Fallmatch |
+| 1943 | 32 | Chirpy Riser |
 | 1944 | 32 | Jenea Colvin |
-| 1945 | 32 | Chirpy Riser |
-| 1946 | 32 | Swanky Fallmatch |
-| 1947 | 32 | Michael Blackmon |
-| 1948 | 32 | Reni Seven |
+| 1945 | 32 | Foc |
+| 1946 | 32 | Crystal Marie Castillo |
+| 1947 | 32 | Chelsea Harriss |
+| 1948 | 32 | Michael Blackmon |
 | 1949 | 32 | Monique Williams |
 | 1950 | 32 | Adrian Alvarez |
 | 1951 | 32 | Zany Dasher |
