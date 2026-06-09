@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 15:46:44 UTC
+# Standings for team2 as of 2026-06-09 15:47:23 UTC
 
 **Total Participants:** 2517
 
@@ -22,7 +22,7 @@
 | 14 | 8500 | Crafty Ziggy |
 | 15 | 8481 | Bobbi |
 | 16 | 8427 | Elizabeth Mooney |
-| 17 | 7412 | Andre Love |
+| 17 | 7430 | Andre Love |
 | 18 | 7186 | Tom Badgley |
 | 19 | 7184 | Renee Weedling |
 | 20 | 7028 | Dapper Rollout |
@@ -1122,10 +1122,10 @@
 | 1114 | 122 | Cody Bohannan |
 | 1115 | 122 | Just Me |
 | 1116 | 121 | Michael James |
-| 1117 | 121 | Stacey Loretta Wallace |
-| 1118 | 120 | Loriane Shumate Griggs |
-| 1119 | 120 | Laura Turner |
-| 1120 | 120 | Marcia Davis |
+| 1117 | 121 | Marcia Davis |
+| 1118 | 121 | Stacey Loretta Wallace |
+| 1119 | 120 | Loriane Shumate Griggs |
+| 1120 | 120 | Laura Turner |
 | 1121 | 120 | Charith Lorelle Watson |
 | 1122 | 120 | BB |
 | 1123 | 120 | Glowing Earthy Embers |
@@ -1698,38 +1698,38 @@
 | 1690 | 55 | Angi Carter |
 | 1691 | 55 | Cynthia Vornlocker |
 | 1692 | 55 | T-Tommy Hillbilly |
-| 1693 | 55 | Cheryl Stevens |
-| 1694 | 55 | Gilbert Medina |
-| 1695 | 55 | David Bright |
-| 1696 | 55 | Amanda Nash |
-| 1697 | 55 | Mistress |
+| 1693 | 55 | Amanda Ann Brooks |
+| 1694 | 55 | Cheryl Stevens |
+| 1695 | 55 | Gilbert Medina |
+| 1696 | 55 | David Bright |
+| 1697 | 55 | Amanda Nash |
 | 1698 | 55 | Frisky Balancefit |
-| 1699 | 55 | Merine Mott |
+| 1699 | 55 | Mistress |
 | 1700 | 55 | Mary Goodman |
-| 1701 | 55 | Misty McElroy |
-| 1702 | 55 | Sassafras Cass |
-| 1703 | 54 | Jolene Moelder |
-| 1704 | 54 | Fluffypuffin |
-| 1705 | 54 | Paula Smith |
-| 1706 | 54 | Jess Duehring |
-| 1707 | 54 | Amanda Ann Brooks |
-| 1708 | 54 | Michelle Shemon |
-| 1709 | 54 | Crystal Lawson |
-| 1710 | 54 | Giggly Twisterfit |
-| 1711 | 53 | Kimberly Rochon |
-| 1712 | 53 | Topknot13 |
-| 1713 | 53 | Gigi |
-| 1714 | 53 | Marshall Wilson |
-| 1715 | 53 | Amy N Daniel Greene |
+| 1701 | 55 | Merine Mott |
+| 1702 | 55 | Misty McElroy |
+| 1703 | 55 | Sassafras Cass |
+| 1704 | 54 | Jolene Moelder |
+| 1705 | 54 | Fluffypuffin |
+| 1706 | 54 | Paula Smith |
+| 1707 | 54 | Giggly Twisterfit |
+| 1708 | 54 | Crystal Lawson |
+| 1709 | 54 | Michelle Shemon |
+| 1710 | 54 | Jess Duehring |
+| 1711 | 53 | Amy N Daniel Greene |
+| 1712 | 53 | Marshall Wilson |
+| 1713 | 53 | Topknot13 |
+| 1714 | 53 | Kimberly Rochon |
+| 1715 | 53 | Gigi |
 | 1716 | 53 | Daring Pivotfall |
 | 1717 | 53 | Shalice Jacobs |
 | 1718 | 53 | Thomas Johnstone |
 | 1719 | 52 | Amber Marie Lacey |
 | 1720 | 52 | Betty Muise |
 | 1721 | 52 | Dolly |
-| 1722 | 52 | Elroy Bond |
-| 1723 | 52 | Amanda Gray Manlove |
-| 1724 | 52 | Amy Renaud |
+| 1722 | 52 | Amy Renaud |
+| 1723 | 52 | Elroy Bond |
+| 1724 | 52 | Amanda Gray Manlove |
 | 1725 | 52 | Chirpy Shiftspin |
 | 1726 | 52 | Daniel Flathers |
 | 1727 | 52 | Chrissy Hess |
