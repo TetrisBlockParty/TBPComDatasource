@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:58:43 UTC
+# Standings for team4 as of 2026-06-09 10:59:20 UTC
 
 **Total Participants:** 2092
 
@@ -25,7 +25,7 @@
 | 17 | 6121 | Nia Mayfield |
 | 18 | 6036 | delilahbelle |
 | 19 | 5854 | Senor Moppy |
-| 20 | 5698 | Bubbly Twistpiece |
+| 20 | 5713 | Bubbly Twistpiece |
 | 21 | 5534 | Tyra Brooke Everman Forest |
 | 22 | 5258 | Anna Moses |
 | 23 | 5113 | Squirrel Donkey |
@@ -1660,15 +1660,15 @@
 | 1652 | 31 | Danielle Torre-Garza |
 | 1653 | 31 | Stuart Crosby |
 | 1654 | 31 | Harpreet Rojas |
-| 1655 | 31 | Chachi |
-| 1656 | 31 | Whos Square |
-| 1657 | 31 | Grace Mariie |
-| 1658 | 31 | Joshua Doucette |
-| 1659 | 30 | Jennie |
-| 1660 | 30 | Epic Shatterline |
-| 1661 | 30 | Pambeh033 |
-| 1662 | 30 | Loopy Wipeout |
-| 1663 | 30 | Jesus Fuentes III |
+| 1655 | 31 | Grace Mariie |
+| 1656 | 31 | Joshua Doucette |
+| 1657 | 31 | Whos Square |
+| 1658 | 31 | Chachi |
+| 1659 | 31 | Infini Agape |
+| 1660 | 30 | Loopy Wipeout |
+| 1661 | 30 | Jesus Fuentes III |
+| 1662 | 30 | Pambeh033 |
+| 1663 | 30 | Jennie |
 | 1664 | 30 | Kris McMahon |
 | 1665 | 30 | PabloX |
 | 1666 | 30 | Shavondelia Williams |
@@ -1676,26 +1676,26 @@
 | 1668 | 30 | latingirl1056 |
 | 1669 | 30 | Amori85 |
 | 1670 | 30 | Janna Bruss |
-| 1671 | 30 | Theonei |
-| 1672 | 30 | Frisky Framezone |
-| 1673 | 30 | Hasty Patternline |
-| 1674 | 30 | Witty Piecebuilder |
-| 1675 | 30 | Nakkia Mobley |
-| 1676 | 30 | Christine Raine Jalili |
-| 1677 | 30 | Shirley Tow Middaugh |
-| 1678 | 30 | Nick Virgil |
-| 1679 | 30 | Spidaman86 |
-| 1680 | 30 | Lmg |
-| 1681 | 30 | Jordan Maxwell |
-| 1682 | 30 | Hhs Ffchh |
-| 1683 | 30 | Spicy Holder |
-| 1684 | 29 | Epic Dashfit |
-| 1685 | 29 | juler |
-| 1686 | 29 | Theresa Jo Nelson |
-| 1687 | 29 | Desiree Nunley Johnson |
-| 1688 | 29 | Garett Lahti |
-| 1689 | 29 | Infini Agape |
-| 1690 | 29 | Crafty Linkfall |
+| 1671 | 30 | Epic Shatterline |
+| 1672 | 30 | Spicy Holder |
+| 1673 | 30 | Theonei |
+| 1674 | 30 | Hhs Ffchh |
+| 1675 | 30 | Frisky Framezone |
+| 1676 | 30 | Jordan Maxwell |
+| 1677 | 30 | Lmg |
+| 1678 | 30 | Spidaman86 |
+| 1679 | 30 | Nick Virgil |
+| 1680 | 30 | Shirley Tow Middaugh |
+| 1681 | 30 | Hasty Patternline |
+| 1682 | 30 | Christine Raine Jalili |
+| 1683 | 30 | Nakkia Mobley |
+| 1684 | 30 | Witty Piecebuilder |
+| 1685 | 29 | Crafty Linkfall |
+| 1686 | 29 | Garett Lahti |
+| 1687 | 29 | Theresa Jo Nelson |
+| 1688 | 29 | juler |
+| 1689 | 29 | Epic Dashfit |
+| 1690 | 29 | Desiree Nunley Johnson |
 | 1691 | 29 | Mumsy |
 | 1692 | 29 | Natasha Ferguson |
 | 1693 | 29 | LIZ |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:58:43 UTC
+# Standings for team1 as of 2026-06-09 10:59:20 UTC
 
 **Total Participants:** 2036
 
@@ -260,13 +260,13 @@
 | 252 | 451 | Simmone T. Kadiri |
 | 253 | 451 | Penee Wiggins |
 | 254 | 450 | boogeywoogey |
-| 255 | 448 | Michael Bethezar |
-| 256 | 448 | Choc |
-| 257 | 447 | Rachael Bakowicz Edwards |
-| 258 | 447 | Cheeky Pop |
-| 259 | 447 | Jazzy Fireflighters |
-| 260 | 447 | Zippy Tilefall |
-| 261 | 446 | Kate Hancock Malicek |
+| 255 | 448 | Kate Hancock Malicek |
+| 256 | 448 | Michael Bethezar |
+| 257 | 448 | Choc |
+| 258 | 447 | Rachael Bakowicz Edwards |
+| 259 | 447 | Cheeky Pop |
+| 260 | 447 | Jazzy Fireflighters |
+| 261 | 447 | Zippy Tilefall |
 | 262 | 444 | Latisha Fairley |
 | 263 | 444 | Kevin M. McGhee Jr |
 | 264 | 441 | Tessa Felice Hill |
@@ -822,44 +822,44 @@
 | 814 | 134 | Laurie Napper |
 | 815 | 134 | Bouncy Glide |
 | 816 | 133 | Derald Miller |
-| 817 | 132 | Desi Guerra |
-| 818 | 131 | Locke Mahal LD |
-| 819 | 131 | Cynthia Cruell |
+| 817 | 133 | Meshia |
+| 818 | 132 | Desi Guerra |
+| 819 | 131 | Locke Mahal LD |
 | 820 | 131 | Koreen Johnson-Woolford |
-| 821 | 131 | Kortney Adams |
-| 822 | 130 | Terrance Tindall |
+| 821 | 131 | Cynthia Cruell |
+| 822 | 131 | Kortney Adams |
 | 823 | 130 | Tito Divyn |
 | 824 | 130 | Gerold Folk Haddock |
 | 825 | 130 | Jessica Davis |
-| 826 | 130 | Anthony Collins |
-| 827 | 129 | Chino Baby |
-| 828 | 129 | Jas |
-| 829 | 129 | Williams Candace |
-| 830 | 129 | JesusSaves 😇 |
-| 831 | 129 | Twisty Dashy |
-| 832 | 129 | Felicia Dungey |
-| 833 | 129 | Stronger Wiser Better |
-| 834 | 128 | Brittany Britkany Marsden-Garrison |
-| 835 | 128 | Meshia |
+| 826 | 130 | Terrance Tindall |
+| 827 | 130 | Anthony Collins |
+| 828 | 129 | Stronger Wiser Better |
+| 829 | 129 | Twisty Dashy |
+| 830 | 129 | Jas |
+| 831 | 129 | Williams Candace |
+| 832 | 129 | JesusSaves 😇 |
+| 833 | 129 | Felicia Dungey |
+| 834 | 129 | Chino Baby |
+| 835 | 128 | Brittany Britkany Marsden-Garrison |
 | 836 | 128 | Li-Li Ratliff |
 | 837 | 128 | Katness |
-| 838 | 127 | Pretty Yella |
-| 839 | 127 | Witty Clear |
+| 838 | 127 | Witty Clear |
+| 839 | 127 | Pretty Yella |
 | 840 | 127 | Ashley Davis |
-| 841 | 126 | Jess |
+| 841 | 126 | Sally Elizabeth Hopson |
 | 842 | 126 | Benjamin Livingston |
-| 843 | 126 | Sally Elizabeth Hopson |
-| 844 | 126 | Mom3granny2 |
-| 845 | 126 | Shawna Passwater |
-| 846 | 126 | Marc Papa |
-| 847 | 126 | Kahh |
-| 848 | 126 | Elaine Pauley |
-| 849 | 126 | Latoya Carson |
+| 843 | 126 | Latoya Carson |
+| 844 | 126 | Jess |
+| 845 | 126 | Kahh |
+| 846 | 126 | Elaine Pauley |
+| 847 | 126 | Mom3granny2 |
+| 848 | 126 | Shawna Passwater |
+| 849 | 126 | Marc Papa |
 | 850 | 125 | Oaklonboy mike |
 | 851 | 125 | Jodie |
 | 852 | 124 | Sunny Tumbler |
-| 853 | 124 | Franklin Sotelo |
-| 854 | 124 | Sheesh |
+| 853 | 124 | Sheesh |
+| 854 | 124 | Franklin Sotelo |
 | 855 | 124 | Nichelle Warren |
 | 856 | 123 | Stephen Garland |
 | 857 | 123 | Dannie |
