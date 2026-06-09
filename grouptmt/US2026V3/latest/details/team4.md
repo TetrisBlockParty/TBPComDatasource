@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-09 03:00:47 UTC
+# Standings for team4 as of 2026-06-09 03:01:23 UTC
 
-**Total Participants:** 2013
+**Total Participants:** 2014
 
 ## Participant Scores
 
@@ -190,12 +190,12 @@
 | 182 | 524 | Shocinda Sherwood |
 | 183 | 524 | Boldy Rumbler |
 | 184 | 524 | Real Talk Vibes |
-| 185 | 512 | Taz |
-| 186 | 510 | Addi JayKay |
-| 187 | 500 | Genag |
-| 188 | 500 | Nicole |
-| 189 | 499 | Janet Sanfilippo Sullivan |
-| 190 | 496 | Lori Stembridge |
+| 185 | 516 | Lori Stembridge |
+| 186 | 512 | Taz |
+| 187 | 510 | Addi JayKay |
+| 188 | 500 | Genag |
+| 189 | 500 | Nicole |
+| 190 | 499 | Janet Sanfilippo Sullivan |
 | 191 | 496 | Jackie Jackson |
 | 192 | 496 | Samantha Worley |
 | 193 | 496 | Jeremy |
@@ -234,7 +234,7 @@
 | 226 | 439 | Perky Riserbuilder |
 | 227 | 438 | Aisha Estrada |
 | 228 | 437 | Sarah Perry Cook |
-| 229 | 434 | Snippy Splitter |
+| 229 | 435 | Snippy Splitter |
 | 230 | 434 | Sisi RedVelvet Reneè |
 | 231 | 433 | Shanae Taylor |
 | 232 | 432 | Danny Ortiz |
@@ -264,11 +264,11 @@
 | 256 | 395 | Thomasena Eady Reid |
 | 257 | 394 | Boldy Striker |
 | 258 | 392 | Plucky Shatterfit |
-| 259 | 389 | Jenn Norcross |
-| 260 | 384 | Cheery Risegrid |
-| 261 | 381 | Sherry Mooney |
-| 262 | 381 | Bean |
-| 263 | 381 | Jackie Polanco |
+| 259 | 391 | Sherry Mooney |
+| 260 | 389 | Jenn Norcross |
+| 261 | 384 | Cheery Risegrid |
+| 262 | 381 | Jackie Polanco |
+| 263 | 381 | Bean |
 | 264 | 380 | Knijur Callins |
 | 265 | 378 | Hwanger Land |
 | 266 | 377 | Amandacolle |
@@ -283,8 +283,8 @@
 | 275 | 363 | Aramat |
 | 276 | 362 | Dazzle Dragon |
 | 277 | 360 | beTrue76 |
-| 278 | 359 | Slinky Column |
-| 279 | 359 | Speedy Twistslam |
+| 278 | 359 | Speedy Twistslam |
+| 279 | 359 | Slinky Column |
 | 280 | 359 | Leslie Ann Carter |
 | 281 | 359 | BCO22 |
 | 282 | 358 | Colin |
@@ -374,13 +374,13 @@
 | 366 | 281 | Margie Thomas |
 | 367 | 280 | Cool Risepiece |
 | 368 | 279 | bollo |
-| 369 | 278 | Breezy Blockzone |
-| 370 | 278 | Maurice DeJean |
-| 371 | 277 | Kimyatta Cavin |
-| 372 | 277 | Justin Michael |
-| 373 | 275 | Joab Gonzalez |
-| 374 | 274 | Dominique Melendez |
-| 375 | 274 | Lively Cascadebuilder |
+| 369 | 279 | Breezy Blockzone |
+| 370 | 278 | Lively Cascadebuilder |
+| 371 | 278 | Maurice DeJean |
+| 372 | 277 | Kimyatta Cavin |
+| 373 | 277 | Justin Michael |
+| 374 | 275 | Joab Gonzalez |
+| 375 | 274 | Dominique Melendez |
 | 376 | 274 | Zesty Twistpiece |
 | 377 | 272 | J.Wo |
 | 378 | 271 | Nerdy Faller |
@@ -537,38 +537,38 @@
 | 529 | 198 | Elissa Danks |
 | 530 | 198 | Silly Fallzone |
 | 531 | 198 | Mint Marquez |
-| 532 | 197 | Snippy Racker |
-| 533 | 196 | Loopy Clusterline |
-| 534 | 196 | Tiffany Morris Garner |
-| 535 | 196 | Andreas Vs Shinky |
-| 536 | 196 | Azahares Alonso |
-| 537 | 196 | Candiecane324 |
-| 538 | 196 | Nicole Colby McCloskey |
-| 539 | 196 | Diana Fernandez |
-| 540 | 196 | June Hoffman |
-| 541 | 195 | Jen Roe |
-| 542 | 195 | ShaniP |
-| 543 | 194 | Dena Lynn Rogers |
-| 544 | 194 | Thermeka Lindsey |
-| 545 | 194 | Perry Ransom |
-| 546 | 193 | Lord Solrac |
-| 547 | 192 | Ralph Hell Rell Williams |
-| 548 | 192 | Daniel Lossman |
-| 549 | 192 | Chris |
-| 550 | 192 | Noa Lee |
-| 551 | 191 | Anna Ryan |
-| 552 | 190 | Name |
-| 553 | 190 | Simone |
-| 554 | 189 | Casey Thomas |
-| 555 | 189 | Butterpat |
-| 556 | 189 | Zesty Lift |
-| 557 | 187 | Brainbabe |
-| 558 | 187 | Suzanne North |
-| 559 | 187 | Maricela Joslin |
-| 560 | 186 | Dolores Falco |
-| 561 | 186 | Rosy Perez |
-| 562 | 186 | Travis McKinnon |
-| 563 | 186 | Amber Jalbert |
+| 532 | 197 | Maricela Joslin |
+| 533 | 197 | Snippy Racker |
+| 534 | 196 | Loopy Clusterline |
+| 535 | 196 | Tiffany Morris Garner |
+| 536 | 196 | Andreas Vs Shinky |
+| 537 | 196 | Azahares Alonso |
+| 538 | 196 | Candiecane324 |
+| 539 | 196 | Nicole Colby McCloskey |
+| 540 | 196 | Diana Fernandez |
+| 541 | 196 | June Hoffman |
+| 542 | 195 | Jen Roe |
+| 543 | 195 | ShaniP |
+| 544 | 194 | Dena Lynn Rogers |
+| 545 | 194 | Thermeka Lindsey |
+| 546 | 194 | Perry Ransom |
+| 547 | 193 | Lord Solrac |
+| 548 | 192 | Ralph Hell Rell Williams |
+| 549 | 192 | Daniel Lossman |
+| 550 | 192 | Chris |
+| 551 | 192 | Noa Lee |
+| 552 | 191 | Anna Ryan |
+| 553 | 190 | Name |
+| 554 | 190 | Simone |
+| 555 | 189 | Casey Thomas |
+| 556 | 189 | Butterpat |
+| 557 | 189 | Zesty Lift |
+| 558 | 187 | Brainbabe |
+| 559 | 187 | Suzanne North |
+| 560 | 186 | Travis McKinnon |
+| 561 | 186 | Amber Jalbert |
+| 562 | 186 | Dolores Falco |
+| 563 | 186 | Rosy Perez |
 | 564 | 184 | Chilly Pop |
 | 565 | 184 | Holly Bramel |
 | 566 | 184 | Lolita Nettles |
@@ -1935,31 +1935,31 @@
 | 1927 | 9 | Diane Arreola |
 | 1928 | 9 | fmp |
 | 1929 | 9 | Kristen Templeman |
-| 1930 | 9 | K Courtney Camp |
-| 1931 | 9 | Micole Norris |
-| 1932 | 9 | estefi |
-| 1933 | 9 | Julie Smith |
-| 1934 | 9 | Terry Peach |
-| 1935 | 9 | Joseph Vargas |
-| 1936 | 9 | Jinx4fun |
-| 1937 | 9 | Marty Carver |
-| 1938 | 9 | Trippy Mels |
-| 1939 | 9 | Monica Bell |
-| 1940 | 8 | LaTesha D Williams |
-| 1941 | 8 | Gerald Marx |
-| 1942 | 8 | Anaya |
-| 1943 | 8 | Chummy Gridder |
-| 1944 | 8 | Virgo27 |
-| 1945 | 8 | John Leslie |
-| 1946 | 8 | Box smash’em |
-| 1947 | 8 | Nums |
-| 1948 | 8 | sleepy head |
-| 1949 | 8 | Jen Molepske |
-| 1950 | 8 | Jimmy Redding |
-| 1951 | 8 | Floyda Lynch |
-| 1952 | 8 | Phoebe Tracy |
-| 1953 | 8 | Tony Tenas |
-| 1954 | 8 | Lewis Potts |
+| 1930 | 9 | estefi |
+| 1931 | 9 | Trippy Mels |
+| 1932 | 9 | K Courtney Camp |
+| 1933 | 9 | Monica Bell |
+| 1934 | 9 | Marty Carver |
+| 1935 | 9 | Jinx4fun |
+| 1936 | 9 | Joseph Vargas |
+| 1937 | 9 | Julie Smith |
+| 1938 | 9 | Micole Norris |
+| 1939 | 9 | Terry Peach |
+| 1940 | 8 | Floyda Lynch |
+| 1941 | 8 | John Leslie |
+| 1942 | 8 | Box smash’em |
+| 1943 | 8 | Nums |
+| 1944 | 8 | sleepy head |
+| 1945 | 8 | Jen Molepske |
+| 1946 | 8 | Anaya |
+| 1947 | 8 | Gerald Marx |
+| 1948 | 8 | Chummy Gridder |
+| 1949 | 8 | Virgo27 |
+| 1950 | 8 | Tony Tenas |
+| 1951 | 8 | Jimmy Redding |
+| 1952 | 8 | Lewis Potts |
+| 1953 | 8 | LaTesha D Williams |
+| 1954 | 8 | Phoebe Tracy |
 | 1955 | 8 | Glitzy Shuffler |
 | 1956 | 8 | Mac James |
 | 1957 | 8 | Shania Richmond |
@@ -1968,57 +1968,58 @@
 | 1960 | 7 | John Brandon Kinney |
 | 1961 | 7 | Angela Mertz |
 | 1962 | 7 | Malinda Fife |
-| 1963 | 7 | Lacy Legrant |
-| 1964 | 7 | Crafty Riser |
-| 1965 | 7 | Stuart Crosby |
-| 1966 | 7 | B |
+| 1963 | 7 | Michael McIntire |
+| 1964 | 7 | pippy |
+| 1965 | 7 | Zappy Rotator |
+| 1966 | 7 | Spicy Faller |
 | 1967 | 7 | Estmercy |
-| 1968 | 7 | Michael McIntire |
-| 1969 | 7 | Zappy Rotator |
-| 1970 | 7 | pippy |
-| 1971 | 7 | Sammmzzz |
-| 1972 | 7 | Lincy A. Walsh |
-| 1973 | 7 | Rican |
-| 1974 | 7 | Yolanda Ferrer |
-| 1975 | 7 | Spicy Faller |
-| 1976 | 7 | Peaches3569 |
-| 1977 | 6 | White As Snow |
-| 1978 | 6 | Maria Landa |
-| 1979 | 6 | Theamazingspiderman |
-| 1980 | 6 | Johnny Jeppesen |
+| 1968 | 7 | Crafty Riser |
+| 1969 | 7 | B |
+| 1970 | 7 | Sammmzzz |
+| 1971 | 7 | Lincy A. Walsh |
+| 1972 | 7 | Yolanda Ferrer |
+| 1973 | 7 | Lacy Legrant |
+| 1974 | 7 | Dizzy Snapclear |
+| 1975 | 7 | Peaches3569 |
+| 1976 | 7 | Rican |
+| 1977 | 7 | Stuart Crosby |
+| 1978 | 6 | White As Snow |
+| 1979 | 6 | Funky Zonebuilder |
+| 1980 | 6 | Nutty Dropper |
 | 1981 | 6 | Maria Garcia |
-| 1982 | 6 | Funky Zonebuilder |
-| 1983 | 6 | Spunky Winder |
-| 1984 | 6 | Nutty Dropper |
-| 1985 | 6 | Frilly Brickroll |
-| 1986 | 6 | Gma526 |
-| 1987 | 6 | Sherry Heilig |
-| 1988 | 6 | frank |
-| 1989 | 6 | Snippy Bouncer |
-| 1990 | 6 | Crissie Mary Schafer |
-| 1991 | 6 | April McWhite |
-| 1992 | 6 | Frothy Gridmatch |
-| 1993 | 6 | Richierich Gonzalez |
-| 1994 | 5 | Cheery Twister |
-| 1995 | 5 | Tippet |
-| 1996 | 5 | Leo |
+| 1982 | 6 | Frilly Brickroll |
+| 1983 | 6 | Sherry Heilig |
+| 1984 | 6 | Gma526 |
+| 1985 | 6 | Snippy Bouncer |
+| 1986 | 6 | Crissie Mary Schafer |
+| 1987 | 6 | Theamazingspiderman |
+| 1988 | 6 | Johnny Jeppesen |
+| 1989 | 6 | Spunky Winder |
+| 1990 | 6 | Maria Landa |
+| 1991 | 6 | frank |
+| 1992 | 6 | April McWhite |
+| 1993 | 6 | Frothy Gridmatch |
+| 1994 | 6 | Richierich Gonzalez |
+| 1995 | 5 | Cheery Twister |
+| 1996 | 5 | Tippet |
 | 1997 | 5 | Mercedes Williams |
 | 1998 | 5 | Darlene Adragna |
-| 1999 | 5 | courtt |
-| 2000 | 5 | April Vela |
-| 2001 | 5 | Breezy Shatterclear |
-| 2002 | 5 | Katrina S. West |
-| 2003 | 5 | Wacky Clearzone |
-| 2004 | 5 | Racheal Lowry |
-| 2005 | 5 | Elizabeth Storey Jones |
-| 2006 | 5 | James Lackey |
-| 2007 | 5 | Winza777 |
-| 2008 | 5 | Chad N Tori Steiner |
-| 2009 | 5 | Zany Shatter |
-| 2010 | 5 | Kayla Ridnour |
-| 2011 | 5 | Sean Ha |
-| 2012 | 5 | Linda Monique |
-| 2013 | 5 | Debbie Johnson |
+| 1999 | 5 | Leo |
+| 2000 | 5 | courtt |
+| 2001 | 5 | April Vela |
+| 2002 | 5 | Breezy Shatterclear |
+| 2003 | 5 | Katrina S. West |
+| 2004 | 5 | Wacky Clearzone |
+| 2005 | 5 | Racheal Lowry |
+| 2006 | 5 | Elizabeth Storey Jones |
+| 2007 | 5 | James Lackey |
+| 2008 | 5 | Winza777 |
+| 2009 | 5 | Chad N Tori Steiner |
+| 2010 | 5 | Zany Shatter |
+| 2011 | 5 | Kayla Ridnour |
+| 2012 | 5 | Sean Ha |
+| 2013 | 5 | Linda Monique |
+| 2014 | 5 | Debbie Johnson |
 
 ---
 *Standings created by tournaments datasource generation tool*
