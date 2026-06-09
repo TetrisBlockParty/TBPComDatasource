@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:42:43 UTC
+# Standings for team1 as of 2026-06-09 19:43:21 UTC
 
 **Total Participants:** 2107
 
@@ -923,13 +923,13 @@
 | 915 | 127 | Esha I'msoproudofmyself Davis |
 | 916 | 127 | Pretty Yella |
 | 917 | 127 | Jumpy Gridlock |
-| 918 | 126 | Elaine Pauley |
-| 919 | 126 | Benjamin Livingston |
-| 920 | 126 | Sally Elizabeth Hopson |
-| 921 | 126 | Marc Papa |
-| 922 | 126 | Latoya Carson |
-| 923 | 126 | Kahh |
-| 924 | 126 | Hasty Pivoty |
+| 918 | 127 | Hasty Pivoty |
+| 919 | 126 | Elaine Pauley |
+| 920 | 126 | Benjamin Livingston |
+| 921 | 126 | Sally Elizabeth Hopson |
+| 922 | 126 | Marc Papa |
+| 923 | 126 | Latoya Carson |
+| 924 | 126 | Kahh |
 | 925 | 125 | Silly Edgepiece |
 | 926 | 125 | Cheery Strikerbuilder |
 | 927 | 125 | Oaklonboy mike |
