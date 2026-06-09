@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 03:11:04 UTC
+# Standings for team4 as of 2026-06-09 03:11:22 UTC
 
 **Total Participants:** 2018
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 23500 | Jessica Sheehan |
 | 2 | 20528 | Hanan Hana |
-| 3 | 19721 | Lisa Cullum |
+| 3 | 19741 | Lisa Cullum |
 | 4 | 18607 | Lyza |
 | 5 | 12264 | Loony Rotater |
 | 6 | 10200 | Cinny |
@@ -483,13 +483,13 @@
 | 475 | 219 | Deva Marie Barber |
 | 476 | 219 | JoAnn Summerlot Ratliff |
 | 477 | 219 | Miss Beast |
-| 478 | 218 | Montes Ash |
-| 479 | 218 | Lani |
-| 480 | 218 | Codey Haffner |
-| 481 | 217 | Maricela Joslin |
-| 482 | 215 | Littlebrat |
-| 483 | 215 | Christina Barry |
-| 484 | 215 | Teester |
+| 478 | 219 | Teester |
+| 479 | 218 | Montes Ash |
+| 480 | 218 | Lani |
+| 481 | 218 | Codey Haffner |
+| 482 | 217 | Maricela Joslin |
+| 483 | 215 | Littlebrat |
+| 484 | 215 | Christina Barry |
 | 485 | 214 | Linda |
 | 486 | 214 | crobb77 |
 | 487 | 213 | Tamara Gay |
@@ -610,48 +610,48 @@
 | 602 | 174 | Eddie Fuller |
 | 603 | 173 | Tarsha Thomas-Martinez |
 | 604 | 173 | Justin Ballard |
-| 605 | 172 | Poptart |
-| 606 | 172 | Chuck Burns |
-| 607 | 172 | Candice Sellers Worley |
-| 608 | 172 | Anthony Edwards |
-| 609 | 172 | Lul Babie |
-| 610 | 171 | Stotty |
-| 611 | 171 | Big Dooka |
-| 612 | 170 | Edward White |
-| 613 | 170 | Breezy Brickline |
-| 614 | 170 | Robert Crow |
-| 615 | 170 | Natalie Dillard |
-| 616 | 170 | Lovetetris |
-| 617 | 170 | Ricky Colvin |
-| 618 | 169 | Jeri Anne Stormo-Toman |
-| 619 | 169 | Spicy Peach |
-| 620 | 169 | Mc3003 |
-| 621 | 169 | Katy |
-| 622 | 168 | Sarah Leake |
-| 623 | 168 | Shaunna Caldwell |
-| 624 | 168 | Nessa Smith |
-| 625 | 168 | Mighty1 |
-| 626 | 167 | Andrea Dre Lomeli |
-| 627 | 167 | Tana-Marie Lynn McCarty-Rolf |
-| 628 | 167 | Kuar T Ejen |
-| 629 | 167 | Haylee Talkington |
-| 630 | 167 | aga |
-| 631 | 167 | chefjaydawg |
-| 632 | 166 | DizzB400 |
+| 605 | 173 | Marcus Fontenot |
+| 606 | 172 | Poptart |
+| 607 | 172 | Chuck Burns |
+| 608 | 172 | Candice Sellers Worley |
+| 609 | 172 | Anthony Edwards |
+| 610 | 172 | Lul Babie |
+| 611 | 171 | Stotty |
+| 612 | 171 | Big Dooka |
+| 613 | 170 | Lovetetris |
+| 614 | 170 | Breezy Brickline |
+| 615 | 170 | Robert Crow |
+| 616 | 170 | Natalie Dillard |
+| 617 | 170 | Edward White |
+| 618 | 170 | Ricky Colvin |
+| 619 | 169 | Jeri Anne Stormo-Toman |
+| 620 | 169 | Spicy Peach |
+| 621 | 169 | Mc3003 |
+| 622 | 169 | Katy |
+| 623 | 168 | Sarah Leake |
+| 624 | 168 | Shaunna Caldwell |
+| 625 | 168 | Nessa Smith |
+| 626 | 168 | Mighty1 |
+| 627 | 167 | Andrea Dre Lomeli |
+| 628 | 167 | Tana-Marie Lynn McCarty-Rolf |
+| 629 | 167 | Kuar T Ejen |
+| 630 | 167 | Haylee Talkington |
+| 631 | 167 | aga |
+| 632 | 167 | chefjaydawg |
 | 633 | 166 | Playful Raccoon |
-| 634 | 166 | Rose Anna Safi |
-| 635 | 165 | Reggie Laserna Clement |
+| 634 | 166 | DizzB400 |
+| 635 | 166 | Rose Anna Safi |
 | 636 | 165 | Capt'n Crunch |
-| 637 | 165 | Gma420 |
-| 638 | 165 | Cherrel M. Causey |
-| 639 | 165 | 1694AF |
-| 640 | 164 | Sharon Tyler |
-| 641 | 164 | Kaps |
-| 642 | 164 | Marcus Fontenot |
+| 637 | 165 | Reggie Laserna Clement |
+| 638 | 165 | Gma420 |
+| 639 | 165 | Cherrel M. Causey |
+| 640 | 165 | 1694AF |
+| 641 | 164 | Sharon Tyler |
+| 642 | 164 | Kaps |
 | 643 | 163 | Arvin Ortega |
 | 644 | 161 | Lorrie Ann Burchett |
-| 645 | 160 | Tesa Mike Jenkins |
-| 646 | 160 | Billy Baker |
+| 645 | 160 | Billy Baker |
+| 646 | 160 | Tesa Mike Jenkins |
 | 647 | 160 | Michelle Sager |
 | 648 | 160 | Ian T Parker |
 | 649 | 160 | Alice Eisnor-Martens |
@@ -660,8 +660,8 @@
 | 652 | 159 | my my |
 | 653 | 159 | Inez Nez |
 | 654 | 159 | tj |
-| 655 | 158 | Breezy Wife |
-| 656 | 158 | Caiti O'Keefe |
+| 655 | 158 | Caiti O'Keefe |
+| 656 | 158 | Breezy Wife |
 | 657 | 158 | Raising Stars |
 | 658 | 158 | Fancy Rollfit |
 | 659 | 158 | Melissa Quinn |
@@ -816,11 +816,11 @@
 | 808 | 125 | Freddy-B |
 | 809 | 124 | Nerdy Glider |
 | 810 | 124 | Chad Finton |
-| 811 | 123 | Ben Figueroa |
-| 812 | 123 | Esmond Johnson IV |
-| 813 | 122 | JoJo Hutson |
-| 814 | 122 | Sadeha Simpson |
-| 815 | 122 | Elisha Thompson |
+| 811 | 124 | Elisha Thompson |
+| 812 | 123 | Ben Figueroa |
+| 813 | 123 | Esmond Johnson IV |
+| 814 | 122 | JoJo Hutson |
+| 815 | 122 | Sadeha Simpson |
 | 816 | 121 | Quiles Yaitza |
 | 817 | 121 | ButterfliesRFree |
 | 818 | 121 | Giggy Bridgepiece |
