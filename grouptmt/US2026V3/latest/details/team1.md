@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:18:45 UTC
+# Standings for team1 as of 2026-06-09 09:19:22 UTC
 
 **Total Participants:** 2024
 
@@ -215,9 +215,9 @@
 | 207 | 538 | xXEKUNXx |
 | 208 | 536 | SPNLover24 |
 | 209 | 527 | Ebony |
-| 210 | 527 | MommaCia |
-| 211 | 527 | Tamara N Lee |
-| 212 | 525 | DellaLucretia Thomas |
+| 210 | 527 | DellaLucretia Thomas |
+| 211 | 527 | MommaCia |
+| 212 | 527 | Tamara N Lee |
 | 213 | 525 | Tishauna Virgo |
 | 214 | 523 | Christopher Dreamsareality McEachin |
 | 215 | 521 | Giggy Clusterer |
