@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 19:14:43 UTC
+# Standings for team2 as of 2026-06-09 19:15:24 UTC
 
 **Total Participants:** 2554
 
@@ -24,7 +24,7 @@
 | 16 | 8427 | Elizabeth Mooney |
 | 17 | 7546 | Tom Badgley |
 | 18 | 7464 | Andre Love |
-| 19 | 7366 | Renee Weedling |
+| 19 | 7373 | Renee Weedling |
 | 20 | 7268 | Kathleen M Cox |
 | 21 | 7096 | Dapper Rollout |
 | 22 | 6932 | Christina Jambard Sampier |
@@ -61,13 +61,13 @@
 | 53 | 3302 | Charley Bedford |
 | 54 | 3282 | Sean Rippa |
 | 55 | 3258 | Angelica Jelli Gillaspy |
-| 56 | 3182 | Chipper Patternblock |
+| 56 | 3202 | Chipper Patternblock |
 | 57 | 2982 | Elizabeth Sallas |
 | 58 | 2979 | Angie BBlock |
 | 59 | 2842 | Beverly Lynn Mills |
 | 60 | 2827 | Helen Thomas |
-| 61 | 2778 | Rose Schaffner-Kibler |
-| 62 | 2775 | Suki Kaur |
+| 61 | 2795 | Suki Kaur |
+| 62 | 2778 | Rose Schaffner-Kibler |
 | 63 | 2619 | Nawang Nawang |
 | 64 | 2600 | LEW |
 | 65 | 2574 | Andrew Weissenborn |
@@ -145,7 +145,7 @@
 | 137 | 1049 | Sedy |
 | 138 | 1037 | Allie Bug |
 | 139 | 1036 | Courtney McCulley |
-| 140 | 1022 | Jackie Tupper |
+| 140 | 1024 | Jackie Tupper |
 | 141 | 1018 | THUMP |
 | 142 | 1017 | Hilliary Beyer |
 | 143 | 1007 | Cristi Doris |
@@ -661,20 +661,20 @@
 | 653 | 249 | Tina |
 | 654 | 249 | Cranky Basepiece |
 | 655 | 248 | Wendy Mcbride |
-| 656 | 247 | rageking |
-| 657 | 245 | Jennifer Wymer |
-| 658 | 245 | Crystal Camden Suarez |
-| 659 | 245 | Melissa Aycock |
-| 660 | 243 | MamaRachel |
-| 661 | 242 | Mary Carriere |
-| 662 | 241 | NickandJess Reynolds |
-| 663 | 241 | Barb Kiser |
+| 656 | 247 | Barb Kiser |
+| 657 | 247 | rageking |
+| 658 | 245 | Jennifer Wymer |
+| 659 | 245 | Crystal Camden Suarez |
+| 660 | 245 | Melissa Aycock |
+| 661 | 243 | MamaRachel |
+| 662 | 242 | Mary Carriere |
+| 663 | 241 | NickandJess Reynolds |
 | 664 | 240 | Viani09 |
 | 665 | 240 | Tiffany Lewis |
-| 666 | 239 | Stella |
-| 667 | 239 | Shannon Posner |
-| 668 | 239 | Mary Whitaker |
-| 669 | 239 | Nutty Fitzone |
+| 666 | 239 | Mary Whitaker |
+| 667 | 239 | Nutty Fitzone |
+| 668 | 239 | Shannon Posner |
+| 669 | 239 | Stella |
 | 670 | 238 | Tina Kinney |
 | 671 | 237 | Deb Rose-Bridinger |
 | 672 | 237 | Alycia Marie Zelensky |
@@ -684,15 +684,15 @@
 | 676 | 236 | Treau Torres |
 | 677 | 236 | Anzhen |
 | 678 | 235 | Goldie |
-| 679 | 234 | Mandy |
+| 679 | 234 | Rachel M. Farnsworth |
 | 680 | 234 | Natasha Lee |
-| 681 | 234 | Rachel M. Farnsworth |
+| 681 | 234 | Mandy |
 | 682 | 234 | Cranky Patternblock |
 | 683 | 234 | Michael Anthony Anstead |
 | 684 | 233 | Muffin Popper |
 | 685 | 233 | Momof2wigglebutts |
-| 686 | 232 | Sandy Rundel Holderman |
-| 687 | 232 | Kati Eckstein |
+| 686 | 232 | Kati Eckstein |
+| 687 | 232 | Sandy Rundel Holderman |
 | 688 | 232 | Jeremy Daurbigny |
 | 689 | 232 | Dame Smith |
 | 690 | 231 | Camilo Moreno |
@@ -703,70 +703,70 @@
 | 695 | 229 | Shawn Jensen |
 | 696 | 229 | Dhelsie Qurasima |
 | 697 | 228 | Maurii93 |
-| 698 | 227 | Chesney |
-| 699 | 227 | Violet Olivares |
-| 700 | 227 | Laura Melton |
+| 698 | 227 | Laura Melton |
+| 699 | 227 | Chesney |
+| 700 | 227 | Violet Olivares |
 | 701 | 227 | Kevin Osbourne |
 | 702 | 227 | Jamie Adams |
 | 703 | 227 | GiGi Cool |
 | 704 | 227 | Connie Marie Cornell Lerma |
 | 705 | 226 | Jodi Johnson |
-| 706 | 226 | Eva Lopez |
-| 707 | 226 | Raymond Dawson |
-| 708 | 226 | Carl Mccoy |
-| 709 | 225 | Allison Peterson |
-| 710 | 225 | Cheery Towerzone |
+| 706 | 226 | Carl Mccoy |
+| 707 | 226 | Eva Lopez |
+| 708 | 226 | Raymond Dawson |
+| 709 | 225 | Cheery Towerzone |
+| 710 | 225 | Allison Peterson |
 | 711 | 225 | Jami Borges |
 | 712 | 225 | Kelly Bormann |
 | 713 | 224 | Carrie Smith Negron |
 | 714 | 224 | Stephanie Smith Robinson |
 | 715 | 224 | Jason Lamporte |
-| 716 | 224 | Brooke Kaune |
-| 717 | 224 | Leigh Wilkerson |
+| 716 | 224 | Leigh Wilkerson |
+| 717 | 224 | Brooke Kaune |
 | 718 | 223 | Epic Framezone |
 | 719 | 222 | Stacy Shaunce |
 | 720 | 220 | Jessica Murphree |
 | 721 | 220 | Chris Christ |
 | 722 | 220 | Tami Leontyuk |
 | 723 | 220 | Krystle L Coon |
-| 724 | 220 | Joannah Capilitan |
-| 725 | 220 | Wendy McKee |
+| 724 | 220 | Wendy McKee |
+| 725 | 220 | Joannah Capilitan |
 | 726 | 219 | Angeleye A James |
 | 727 | 219 | Cindy Brown |
 | 728 | 218 | Seana Moran |
 | 729 | 218 | Ques Pryor |
 | 730 | 217 | Ryan Rhodes |
 | 731 | 217 | Mona Good |
-| 732 | 217 | Spicy Snapclear |
-| 733 | 217 | Melissa Fink |
+| 732 | 217 | Melissa Fink |
+| 733 | 217 | Spicy Snapclear |
 | 734 | 216 | Brenda Shannon |
 | 735 | 216 | Elnaz Mokleh |
 | 736 | 216 | Ashley Propst |
 | 737 | 216 | Anissa Moore |
 | 738 | 215 | Nerdy Gridlock |
 | 739 | 215 | Daring Spinzone |
-| 740 | 215 | Zaniya Brown |
-| 741 | 215 | Missy Renia |
-| 742 | 215 | Dandy Tiltgrid |
+| 740 | 215 | Missy Renia |
+| 741 | 215 | Dandy Tiltgrid |
+| 742 | 215 | Zaniya Brown |
 | 743 | 214 | Jazzy |
 | 744 | 213 | Mike Mordhorst |
-| 745 | 213 | Becky Kennon |
-| 746 | 213 | Baby |
+| 745 | 213 | Baby |
+| 746 | 213 | Becky Kennon |
 | 747 | 213 | Amy |
 | 748 | 213 | Lisa Chapman |
 | 749 | 212 | Shawn Bolt |
 | 750 | 212 | Holly Barefoot |
 | 751 | 212 | Jennifer Bromeisl-Tettam |
 | 752 | 212 | Jessica Bowman |
-| 753 | 211 | Belle |
-| 754 | 211 | Quirky Gridclear |
+| 753 | 211 | Quirky Gridclear |
+| 754 | 211 | Belle |
 | 755 | 211 | Frilly Shiftsnap |
 | 756 | 211 | Cody Gates |
 | 757 | 211 | Edna Nena Cabrera |
 | 758 | 211 | Blossom48 |
 | 759 | 210 | Zesty Dash |
-| 760 | 210 | Erin Lemanski |
-| 761 | 210 | Tito Garcia |
+| 760 | 210 | Tito Garcia |
+| 761 | 210 | Erin Lemanski |
 | 762 | 209 | Amy |
 | 763 | 208 | Duck |
 | 764 | 208 | Suzanne Davis |
