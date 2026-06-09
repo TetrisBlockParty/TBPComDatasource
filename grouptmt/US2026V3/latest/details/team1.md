@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:32:44 UTC
+# Standings for team1 as of 2026-06-09 10:33:22 UTC
 
 **Total Participants:** 2035
 
@@ -62,8 +62,8 @@
 | 54 | 1805 | Louis Richard Jr |
 | 55 | 1804 | Markeeta Lipscomb |
 | 56 | 1789 | Jolly Dropzone |
-| 57 | 1757 | Chris Russell |
-| 58 | 1752 | D'Andra Stewart |
+| 57 | 1762 | D'Andra Stewart |
+| 58 | 1757 | Chris Russell |
 | 59 | 1700 | Rosey |
 | 60 | 1683 | Jacoby E Fleming |
 | 61 | 1642 | TAZ-MF-NIZIL |
@@ -1330,96 +1330,96 @@
 | 1322 | 54 | Embracing Hair |
 | 1323 | 54 | Tammy Scott Mallen |
 | 1324 | 54 | Beautiful314 |
-| 1325 | 53 | Adonai Saves |
+| 1325 | 53 | Angela C. |
 | 1326 | 53 | don ralph |
 | 1327 | 53 | Michael Lindenlauf |
-| 1328 | 53 | Angela C. |
-| 1329 | 53 | Chinkey Overit |
-| 1330 | 53 | Kenneth Williams |
+| 1328 | 53 | Chinkey Overit |
+| 1329 | 53 | Kenneth Williams |
+| 1330 | 53 | Adonai Saves |
 | 1331 | 53 | Spunky Gridder |
 | 1332 | 53 | Sashaleo |
-| 1333 | 52 | Amber Interrobang |
-| 1334 | 52 | Loopy Risepiece |
+| 1333 | 52 | Loopy Risepiece |
+| 1334 | 52 | Amber Interrobang |
 | 1335 | 52 | Chummy Liner |
 | 1336 | 52 | L-Kamice Boykin |
-| 1337 | 51 | SpeedyJas |
-| 1338 | 51 | Emeka Agu |
-| 1339 | 51 | Laura |
-| 1340 | 51 | Jakari Wool |
-| 1341 | 51 | Danielle Marie Lewis |
-| 1342 | 51 | Quirky Spinblock |
-| 1343 | 51 | Austin Smith |
-| 1344 | 51 | Madam Suki |
-| 1345 | 50 | Douglas Jones |
-| 1346 | 50 | MsBobby Patrick |
+| 1337 | 51 | Laura |
+| 1338 | 51 | SpeedyJas |
+| 1339 | 51 | Emeka Agu |
+| 1340 | 51 | Flashy Stacker |
+| 1341 | 51 | Jakari Wool |
+| 1342 | 51 | Danielle Marie Lewis |
+| 1343 | 51 | Quirky Spinblock |
+| 1344 | 51 | Austin Smith |
+| 1345 | 51 | Madam Suki |
+| 1346 | 50 | Douglas Jones |
 | 1347 | 50 | PattyPower |
-| 1348 | 50 | ThaMENACING1 |
-| 1349 | 50 | TrapQween39Bi |
-| 1350 | 50 | Aero Builder |
-| 1351 | 50 | Darlene Johnson |
-| 1352 | 50 | Skye |
-| 1353 | 50 | Keia Price |
-| 1354 | 50 | Speedy Patternblock |
-| 1355 | 49 | Pretty-Lily |
+| 1348 | 50 | MsBobby Patrick |
+| 1349 | 50 | ThaMENACING1 |
+| 1350 | 50 | TrapQween39Bi |
+| 1351 | 50 | Aero Builder |
+| 1352 | 50 | Darlene Johnson |
+| 1353 | 50 | Skye |
+| 1354 | 50 | Keia Price |
+| 1355 | 50 | Speedy Patternblock |
 | 1356 | 49 | Brika Brika |
-| 1357 | 49 | Vortex Viniq |
-| 1358 | 49 | Farah Simpson |
-| 1359 | 49 | TiffanyG |
-| 1360 | 49 | Tara Clarke |
-| 1361 | 49 | Jeremy Pope |
+| 1357 | 49 | Pretty-Lily |
+| 1358 | 49 | Vortex Viniq |
+| 1359 | 49 | Farah Simpson |
+| 1360 | 49 | TiffanyG |
+| 1361 | 49 | Tara Clarke |
 | 1362 | 49 | Alyssa H |
-| 1363 | 49 | Aridevina |
-| 1364 | 49 | Carl Richardson |
-| 1365 | 48 | BlessedBeauty |
-| 1366 | 48 | Bubbly Crawler |
-| 1367 | 48 | Crafty Pivoty |
-| 1368 | 48 | jaz |
-| 1369 | 48 | Bubbly Base |
-| 1370 | 48 | Davina Valentino |
+| 1363 | 49 | Carl Richardson |
+| 1364 | 49 | Aridevina |
+| 1365 | 49 | Jeremy Pope |
+| 1366 | 48 | Mazi Johnson |
+| 1367 | 48 | BlessedBeauty |
+| 1368 | 48 | Bubbly Crawler |
+| 1369 | 48 | jaz |
+| 1370 | 48 | Bubbly Base |
 | 1371 | 48 | LoveLee |
-| 1372 | 48 | Mazi Johnson |
-| 1373 | 47 | Marc Jones |
-| 1374 | 47 | Kevin Turner |
-| 1375 | 47 | Nayyirah Hariyyan |
-| 1376 | 47 | Harriet |
-| 1377 | 47 | Giddy Bricky |
+| 1372 | 48 | Crafty Pivoty |
+| 1373 | 48 | Davina Valentino |
+| 1374 | 47 | Arlea Mann |
+| 1375 | 47 | OG LUCKY |
+| 1376 | 47 | Dani McLeod |
+| 1377 | 47 | Nayyirah Hariyyan |
 | 1378 | 47 | Pizzle |
-| 1379 | 47 | Arlea Mann |
-| 1380 | 47 | Major314 |
-| 1381 | 47 | OG LUCKY |
-| 1382 | 47 | Dani McLeod |
-| 1383 | 47 | Mighty plantlady |
-| 1384 | 47 | SANA |
-| 1385 | 47 | Talya Richards |
-| 1386 | 46 | Kimberly Red |
+| 1379 | 47 | Giddy Bricky |
+| 1380 | 47 | Harriet |
+| 1381 | 47 | Kevin Turner |
+| 1382 | 47 | Marc Jones |
+| 1383 | 47 | Talya Richards |
+| 1384 | 47 | Mighty plantlady |
+| 1385 | 47 | SANA |
+| 1386 | 47 | Major314 |
 | 1387 | 46 | Hasaan Jones |
 | 1388 | 46 | Moneyy Munrow  |
-| 1389 | 46 | CauliMac |
-| 1390 | 46 | LOVE |
-| 1391 | 46 | Wu May |
-| 1392 | 46 | Ember Hammond |
-| 1393 | 46 | Crystal Winters Mckay |
-| 1394 | 46 | Beverly Redd-Fountain |
-| 1395 | 46 | Flashy Stacker |
-| 1396 | 46 | Frothy Snapbuilder |
-| 1397 | 46 | Cranky Fitblock |
-| 1398 | 45 | Elizabeth Slater |
-| 1399 | 45 | Kris Gray |
-| 1400 | 45 | Jasmine Bates |
-| 1401 | 45 | Kikiness |
-| 1402 | 45 | Matraca Young |
-| 1403 | 45 | toooooott |
-| 1404 | 45 | Sarah Jones |
-| 1405 | 45 | LadyMosley |
+| 1389 | 46 | LOVE |
+| 1390 | 46 | Wu May |
+| 1391 | 46 | Cranky Fitblock |
+| 1392 | 46 | Beverly Redd-Fountain |
+| 1393 | 46 | Kimberly Red |
+| 1394 | 46 | Crystal Winters Mckay |
+| 1395 | 46 | Frothy Snapbuilder |
+| 1396 | 46 | Ember Hammond |
+| 1397 | 46 | CauliMac |
+| 1398 | 45 | Y3llOWFAC3 |
+| 1399 | 45 | Linny Loop |
+| 1400 | 45 | toooooott |
+| 1401 | 45 | Sonia Nieves |
+| 1402 | 45 | Kikiness |
+| 1403 | 45 | Jasmine Bates |
+| 1404 | 45 | Jason A Giantonio |
+| 1405 | 45 | Angela Roseburgh |
 | 1406 | 45 | Nicole |
-| 1407 | 45 | Angela Roseburgh |
-| 1408 | 45 | Jason A Giantonio |
-| 1409 | 45 | Y3llOWFAC3 |
-| 1410 | 45 | Linny Loop |
-| 1411 | 45 | Sonia Nieves |
+| 1407 | 45 | LadyMosley |
+| 1408 | 45 | Elizabeth Slater |
+| 1409 | 45 | Sarah Jones |
+| 1410 | 45 | Matraca Young |
+| 1411 | 45 | Kris Gray |
 | 1412 | 44 | Connor Leon Cluff |
-| 1413 | 44 | Nic Nic |
-| 1414 | 44 | Teena K Macon |
+| 1413 | 44 | Teena K Macon |
+| 1414 | 44 | Nic Nic |
 | 1415 | 44 | Ernest Maxwell |
 | 1416 | 44 | Lateef |
 | 1417 | 44 | Alisia Johns |
