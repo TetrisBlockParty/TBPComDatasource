@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 17:40:44 UTC
+# Standings for team1 as of 2026-06-09 17:41:22 UTC
 
 **Total Participants:** 2087
 
@@ -184,11 +184,11 @@
 | 176 | 678 | Michelle Titus |
 | 177 | 677 | Chantelle Lee |
 | 178 | 674 | Keke Ferguson |
-| 179 | 671 | Zappy Riser |
-| 180 | 668 | JaszyBadd |
-| 181 | 665 | Marcheta Cervantez |
-| 182 | 663 | Latisha Fairley |
-| 183 | 663 | BULLSEYE |
+| 179 | 672 | BULLSEYE |
+| 180 | 671 | Zappy Riser |
+| 181 | 668 | JaszyBadd |
+| 182 | 665 | Marcheta Cervantez |
+| 183 | 663 | Latisha Fairley |
 | 184 | 657 | Ann White |
 | 185 | 646 | TeeMaster Barber IsLyfe |
 | 186 | 639 | Block King |
@@ -725,50 +725,50 @@
 | 717 | 175 | squints |
 | 718 | 175 | Onovella Titsworth |
 | 719 | 175 | Christina Singleton |
-| 720 | 174 | Angela Kitchens |
-| 721 | 174 | Nerdy Wipefit |
+| 720 | 174 | Nerdy Wipefit |
+| 721 | 174 | Angela Kitchens |
 | 722 | 174 | Dirty Deeds |
 | 723 | 173 | Mathew Trudell |
 | 724 | 173 | Kim Holzmiller |
 | 725 | 173 | Claudia Price |
-| 726 | 172 | MrsDontPlay |
-| 727 | 172 | Ozell Jones Jr. |
-| 728 | 171 | Jason Saputo |
-| 729 | 171 | Locke Mahal LD |
-| 730 | 171 | Laysa Nunez |
-| 731 | 171 | Ta'Kaiyah M. Spann |
-| 732 | 170 | Marissa Sweet |
+| 726 | 172 | Ozell Jones Jr. |
+| 727 | 172 | MrsDontPlay |
+| 728 | 171 | Ta'Kaiyah M. Spann |
+| 729 | 171 | Laysa Nunez |
+| 730 | 171 | Jason Saputo |
+| 731 | 171 | Locke Mahal LD |
+| 732 | 170 | Devron Reedy |
 | 733 | 170 | Pj Rojas |
-| 734 | 170 | Devron Reedy |
+| 734 | 170 | Marissa Sweet |
 | 735 | 169 | Undeniable Williams |
 | 736 | 169 | rb |
 | 737 | 169 | Sunny Clicky |
 | 738 | 168 | Pinky Pink |
 | 739 | 168 | Lounique |
-| 740 | 167 | Comedian Gdane |
-| 741 | 167 | Erica Campbell-Stillings |
+| 740 | 167 | Erica Campbell-Stillings |
+| 741 | 167 | Comedian Gdane |
 | 742 | 167 | Joka NoTime ForHataz |
 | 743 | 167 | Montego Allen |
 | 744 | 166 | Lilly Brown |
-| 745 | 166 | Amaadi Ward |
-| 746 | 166 | Sabrina Wilkerson |
+| 745 | 166 | Sabrina Wilkerson |
+| 746 | 166 | Amaadi Ward |
 | 747 | 166 | Cheery Swiper |
-| 748 | 164 | Kp |
-| 749 | 163 | Kelvin Cook |
-| 750 | 163 | QueenShay AllGood |
-| 751 | 162 | Peppy Wipeblock |
-| 752 | 162 | Big Bovice |
-| 753 | 162 | Jasmine Hariston-Estis |
-| 754 | 162 | Speedy Stacky |
-| 755 | 160 | SANA |
-| 756 | 160 | Donnie Withthebody |
-| 757 | 160 | Amanda Woodruff |
-| 758 | 160 | Tiffany Jean Hinson |
-| 759 | 160 | Cheeky Twistpiece |
-| 760 | 160 | Duncan Timothy |
-| 761 | 160 | Spotlight |
-| 762 | 159 | Naee Bee |
-| 763 | 159 | Carla |
+| 748 | 164 | Carla |
+| 749 | 164 | Kp |
+| 750 | 163 | Kelvin Cook |
+| 751 | 163 | QueenShay AllGood |
+| 752 | 162 | Peppy Wipeblock |
+| 753 | 162 | Big Bovice |
+| 754 | 162 | Jasmine Hariston-Estis |
+| 755 | 162 | Speedy Stacky |
+| 756 | 160 | SANA |
+| 757 | 160 | Donnie Withthebody |
+| 758 | 160 | Amanda Woodruff |
+| 759 | 160 | Tiffany Jean Hinson |
+| 760 | 160 | Cheeky Twistpiece |
+| 761 | 160 | Duncan Timothy |
+| 762 | 160 | Spotlight |
+| 763 | 159 | Naee Bee |
 | 764 | 159 | Boymama917 |
 | 765 | 159 | TY Newme Batts |
 | 766 | 159 | Frances Davis |
@@ -833,12 +833,12 @@
 | 825 | 145 | tg |
 | 826 | 144 | Dapper Matchfit |
 | 827 | 144 | Lady T |
-| 828 | 144 | Cm |
-| 829 | 144 | Ysma Simmons |
-| 830 | 144 | Batty B |
-| 831 | 143 | Shawna Passwater |
-| 832 | 142 | Boricua64 |
-| 833 | 142 | DoMinique Lee |
+| 828 | 144 | DoMinique Lee |
+| 829 | 144 | Cm |
+| 830 | 144 | Ysma Simmons |
+| 831 | 144 | Batty B |
+| 832 | 143 | Shawna Passwater |
+| 833 | 142 | Boricua64 |
 | 834 | 141 | Shalena Marie Humphrey |
 | 835 | 141 | Lively Wipeout |
 | 836 | 141 | Williams Candace |
