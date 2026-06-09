@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:12:44 UTC
+# Standings for team2 as of 2026-06-09 07:13:22 UTC
 
 **Total Participants:** 2436
 
@@ -234,13 +234,13 @@
 | 226 | 578 | Jenni LeBlanc |
 | 227 | 577 | Lindsay Klemp |
 | 228 | 576 | Breeana Bennett |
-| 229 | 574 | Brandy McCune Reep |
-| 230 | 573 | Chirpy Grid |
-| 231 | 573 | Jennifer Smith |
-| 232 | 572 | Vistabrat |
-| 233 | 572 | Lyric Price |
-| 234 | 570 | meg |
-| 235 | 570 | Ashley Green |
+| 229 | 576 | Lyric Price |
+| 230 | 574 | Brandy McCune Reep |
+| 231 | 573 | Chirpy Grid |
+| 232 | 573 | Jennifer Smith |
+| 233 | 572 | Vistabrat |
+| 234 | 570 | Ashley Green |
+| 235 | 570 | meg |
 | 236 | 569 | Jat |
 | 237 | 567 | Cool Balancer |
 | 238 | 565 | Zany Blockclear |
@@ -464,11 +464,11 @@
 | 456 | 303 | Loopy Tower |
 | 457 | 303 | Ashley Voelz |
 | 458 | 301 | Jeff Pottgether |
-| 459 | 300 | August Christy Lathrop |
-| 460 | 300 | Starvinmarvin |
+| 459 | 300 | Starvinmarvin |
+| 460 | 300 | August Christy Lathrop |
 | 461 | 300 | Happy |
-| 462 | 299 | Jennifer Covington |
-| 463 | 299 | StacyBabee |
+| 462 | 299 | StacyBabee |
+| 463 | 299 | Jennifer Covington |
 | 464 | 298 | Olivia Jefferson |
 | 465 | 298 | Jill Goff |
 | 466 | 297 | Mouh Ity |
@@ -483,22 +483,22 @@
 | 475 | 291 | Josh Vietz |
 | 476 | 291 | Tara Flood |
 | 477 | 290 | Alyssa Malay |
-| 478 | 290 | Mandy Van Laningham Bishop |
-| 479 | 289 | Analee Nicole Jones |
-| 480 | 289 | Layla Petroff |
-| 481 | 288 | Ariel Gundersen |
+| 478 | 290 | KazzyKay |
+| 479 | 290 | Mandy Van Laningham Bishop |
+| 480 | 289 | Analee Nicole Jones |
+| 481 | 289 | Layla Petroff |
 | 482 | 288 | Sassy Twistbuilder |
-| 483 | 285 | Goofy Shatterbuilder |
-| 484 | 282 | ZBee |
-| 485 | 281 | KazzyKay |
+| 483 | 288 | Ariel Gundersen |
+| 484 | 285 | Goofy Shatterbuilder |
+| 485 | 282 | ZBee |
 | 486 | 280 | Michelle M Braley |
 | 487 | 280 | Brooklyn Todd |
 | 488 | 280 | Keisha Robinson |
 | 489 | 280 | Sandra Ruiz |
 | 490 | 279 | Talyn Domingues |
 | 491 | 278 | Madonna Ash |
-| 492 | 278 | Tiffany Hassanshahi |
-| 493 | 278 | Sydney Cheyenne |
+| 492 | 278 | Sydney Cheyenne |
+| 493 | 278 | Tiffany Hassanshahi |
 | 494 | 277 | Amanda Priddy |
 | 495 | 277 | Jennifer McClure |
 | 496 | 277 | Brandy Chinelle |
@@ -702,22 +702,22 @@
 | 694 | 197 | Giddy Chiseler |
 | 695 | 197 | Jason Lamporte |
 | 696 | 196 | Greenie |
-| 697 | 194 | Rachel M. Farnsworth |
-| 698 | 194 | Lindsey Ross |
-| 699 | 194 | Cassandra Green |
-| 700 | 194 | GiGi Cool |
-| 701 | 193 | Jaimie Walters |
-| 702 | 193 | Clever Fallmatch |
-| 703 | 193 | Ginger Nesbitt |
-| 704 | 193 | Cortney Coleman |
-| 705 | 192 | Spicy Balanceblock |
-| 706 | 192 | Dame Smith |
-| 707 | 192 | Coleta Singleton-Gallishaw |
-| 708 | 191 | Melissa Willson |
-| 709 | 191 | Angeleye A James |
-| 710 | 191 | Chilly Surge |
-| 711 | 191 | Firebone |
-| 712 | 191 | Nano. |
+| 697 | 196 | Clever Fallmatch |
+| 698 | 194 | GiGi Cool |
+| 699 | 194 | Rachel M. Farnsworth |
+| 700 | 194 | Lindsey Ross |
+| 701 | 194 | Cassandra Green |
+| 702 | 193 | Ginger Nesbitt |
+| 703 | 193 | Cortney Coleman |
+| 704 | 193 | Jaimie Walters |
+| 705 | 192 | Dame Smith |
+| 706 | 192 | Coleta Singleton-Gallishaw |
+| 707 | 192 | Spicy Balanceblock |
+| 708 | 191 | Angeleye A James |
+| 709 | 191 | Chilly Surge |
+| 710 | 191 | Firebone |
+| 711 | 191 | Nano. |
+| 712 | 191 | Melissa Willson |
 | 713 | 190 | Meagan Grimmett Washburn |
 | 714 | 190 | Duck |
 | 715 | 190 | Tammy Botkin |
