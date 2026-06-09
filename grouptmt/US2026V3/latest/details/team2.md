@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 16:14:45 UTC
+# Standings for team2 as of 2026-06-09 16:15:22 UTC
 
 **Total Participants:** 2523
 
@@ -312,11 +312,11 @@
 | 304 | 518 | Jason Cunningham |
 | 305 | 508 | Ackerman 85 |
 | 306 | 508 | Tara |
-| 307 | 508 | Dawnypooh |
-| 308 | 505 | Melissa Nash |
-| 309 | 503 | Santara Ferguson |
-| 310 | 502 | Swanky Fitline |
-| 311 | 500 | Kellie Montgomery |
+| 307 | 508 | Kellie Montgomery |
+| 308 | 508 | Dawnypooh |
+| 309 | 505 | Melissa Nash |
+| 310 | 503 | Santara Ferguson |
+| 311 | 502 | Swanky Fitline |
 | 312 | 498 | James Ward |
 | 313 | 492 | Amy Gregg |
 | 314 | 492 | Boldy Fitclear |
@@ -569,11 +569,11 @@
 | 561 | 278 | Kendra Sizemore |
 | 562 | 277 | Amanda Priddy |
 | 563 | 277 | Brandy Chinelle |
-| 564 | 272 | Rescuegirl76 |
+| 564 | 273 | Twisty Tower |
 | 565 | 272 | Donutz |
-| 566 | 271 | Hyper Cascade |
-| 567 | 271 | Twisty Tower |
-| 568 | 271 | Spicy Balanceblock |
+| 566 | 272 | Rescuegirl76 |
+| 567 | 271 | Spicy Balanceblock |
+| 568 | 271 | Hyper Cascade |
 | 569 | 270 | Ashley Diana |
 | 570 | 270 | Precious Womack |
 | 571 | 270 | Dapper Riser |
@@ -1801,49 +1801,49 @@
 | 1793 | 47 | Snippy Tilefall |
 | 1794 | 47 | Bruce Bower |
 | 1795 | 47 | Patty Smith |
-| 1796 | 46 | Octavius Walker |
-| 1797 | 46 | Michael Lott |
-| 1798 | 46 | Sunnylynn Hodge |
-| 1799 | 46 | Marie Anne |
-| 1800 | 46 | Nikki Blilie |
-| 1801 | 46 | Spunky Snapfall |
+| 1796 | 46 | Haley Mansfield |
+| 1797 | 46 | Marie Anne |
+| 1798 | 46 | Octavius Walker |
+| 1799 | 46 | Clever Clusterfit |
+| 1800 | 46 | Matthew Black |
+| 1801 | 46 | Twisty Wipebuilder |
 | 1802 | 46 | Silly Shatter |
-| 1803 | 46 | Elizabeth Barnhart Floyd |
-| 1804 | 46 | Audrey F Devis |
-| 1805 | 46 | Lotso |
-| 1806 | 46 | Twisty Wipebuilder |
-| 1807 | 46 | Matthew Black |
-| 1808 | 46 | Clever Clusterfit |
-| 1809 | 46 | Kodi Gay |
-| 1810 | 46 | Jolly Blockroll |
-| 1811 | 45 | Erica |
-| 1812 | 45 | Happy Riseclear |
-| 1813 | 45 | Frothy Cascader |
-| 1814 | 45 | Witty Brickster |
-| 1815 | 45 | Nerdy Base |
-| 1816 | 45 | Nora Buchan |
-| 1817 | 45 | William Richardson |
-| 1818 | 45 | LovelyLaurita |
-| 1819 | 45 | Barbara Fields |
-| 1820 | 45 | Nikki |
-| 1821 | 45 | Haley Mansfield |
-| 1822 | 45 | Jstang |
-| 1823 | 45 | Giggy Snapper |
-| 1824 | 45 | Gail Flory |
-| 1825 | 45 | Spunky Buildout |
+| 1803 | 46 | Spunky Snapfall |
+| 1804 | 46 | Nikki Blilie |
+| 1805 | 46 | Sunnylynn Hodge |
+| 1806 | 46 | Michael Lott |
+| 1807 | 46 | Elizabeth Barnhart Floyd |
+| 1808 | 46 | Audrey F Devis |
+| 1809 | 46 | Lotso |
+| 1810 | 46 | Kodi Gay |
+| 1811 | 46 | Jolly Blockroll |
+| 1812 | 45 | Erica |
+| 1813 | 45 | Happy Riseclear |
+| 1814 | 45 | Frothy Cascader |
+| 1815 | 45 | Witty Brickster |
+| 1816 | 45 | Nerdy Base |
+| 1817 | 45 | Nora Buchan |
+| 1818 | 45 | Spunky Buildout |
+| 1819 | 45 | Nikki |
+| 1820 | 45 | Michael Crispens |
+| 1821 | 45 | Barbara Fields |
+| 1822 | 45 | Paula |
+| 1823 | 45 | LaChalle Shay |
+| 1824 | 45 | William Richardson |
+| 1825 | 45 | LovelyLaurita |
 | 1826 | 45 | Patience Thompson |
-| 1827 | 45 | LaChalle Shay |
-| 1828 | 45 | Paula |
-| 1829 | 45 | Michael Crispens |
+| 1827 | 45 | Jstang |
+| 1828 | 45 | Giggy Snapper |
+| 1829 | 45 | Gail Flory |
 | 1830 | 44 | Mary Cook |
-| 1831 | 44 | Tee Have |
-| 1832 | 44 | Ferrt |
-| 1833 | 44 | Deion Marshall |
-| 1834 | 44 | Jane Shevlin |
+| 1831 | 44 | Jane Shevlin |
+| 1832 | 44 | Deion Marshall |
+| 1833 | 44 | Tee Have |
+| 1834 | 44 | Ferrt |
 | 1835 | 44 | Lulu Nichole |
 | 1836 | 44 | Giggly Dashy |
-| 1837 | 44 | Crafty Shatterer |
-| 1838 | 44 | Sandra Betz |
+| 1837 | 44 | Sandra Betz |
+| 1838 | 44 | Crafty Shatterer |
 | 1839 | 44 | Chill Racker |
 | 1840 | 44 | Dawnie Rodarte |
 | 1841 | 43 | JesseJo |
@@ -1853,89 +1853,89 @@
 | 1845 | 43 | Aguilar Rita |
 | 1846 | 43 | Kourtney Heiden-Hudson |
 | 1847 | 43 | latte |
-| 1848 | 43 | TyGur the Tony |
-| 1849 | 43 | Brooke Burge |
-| 1850 | 43 | KT Scott |
-| 1851 | 43 | Christina Wilson |
-| 1852 | 43 | Dawn Lynn |
-| 1853 | 43 | Ashley Parrish |
-| 1854 | 43 | Groovy Snapbuild |
-| 1855 | 42 | Tipsy Slice |
-| 1856 | 42 | Miss TENNESEE |
-| 1857 | 42 | Speedy Cascadezone |
-| 1858 | 42 | Ryan D. Norcross |
-| 1859 | 42 | Christopher S Lawyer |
+| 1848 | 43 | Dawn Lynn |
+| 1849 | 43 | Ashley Parrish |
+| 1850 | 43 | Christina Wilson |
+| 1851 | 43 | KT Scott |
+| 1852 | 43 | Groovy Snapbuild |
+| 1853 | 43 | Brooke Burge |
+| 1854 | 43 | TyGur the Tony |
+| 1855 | 42 | Christopher S Lawyer |
+| 1856 | 42 | Tipsy Slice |
+| 1857 | 42 | Miss TENNESEE |
+| 1858 | 42 | Speedy Cascadezone |
+| 1859 | 42 | Ryan D. Norcross |
 | 1860 | 42 | June Salevao |
 | 1861 | 42 | Jaime Karmann-Leathers |
-| 1862 | 42 | Torb |
-| 1863 | 42 | Sweety764u |
-| 1864 | 42 | Shylo Bryant-Brunson |
-| 1865 | 42 | Zaaear Pack |
-| 1866 | 41 | Jenny Coffer |
-| 1867 | 41 | Jay King |
-| 1868 | 41 | Bold Shiftspin |
-| 1869 | 41 | Stacey Ann Kelley |
-| 1870 | 41 | Judy Harker |
-| 1871 | 41 | Marilyn Laramore |
-| 1872 | 41 | Iggypop |
-| 1873 | 41 | Mighty Bricky |
-| 1874 | 41 | Wafflemaker4000 |
-| 1875 | 40 | Cassey Feller |
-| 1876 | 40 | David Starmer |
-| 1877 | 40 | Kyle |
+| 1862 | 42 | Īvý S Karma |
+| 1863 | 42 | Torb |
+| 1864 | 42 | Sweety764u |
+| 1865 | 42 | Shylo Bryant-Brunson |
+| 1866 | 42 | Zaaear Pack |
+| 1867 | 41 | Jenny Coffer |
+| 1868 | 41 | Jay King |
+| 1869 | 41 | Bold Shiftspin |
+| 1870 | 41 | Stacey Ann Kelley |
+| 1871 | 41 | Judy Harker |
+| 1872 | 41 | Marilyn Laramore |
+| 1873 | 41 | Iggypop |
+| 1874 | 41 | Mighty Bricky |
+| 1875 | 41 | Wafflemaker4000 |
+| 1876 | 40 | Cheeky Snapline |
+| 1877 | 40 | Cassey Feller |
 | 1878 | 40 | David Blocker |
 | 1879 | 40 | Jennifer Bryant |
-| 1880 | 40 | Zach Walkup |
-| 1881 | 40 | Holly |
-| 1882 | 40 | Cheeky Snapline |
-| 1883 | 40 | Tonya Templin Smith |
-| 1884 | 40 | Billie Jo Butler |
-| 1885 | 40 | Carrie Wilcox |
-| 1886 | 40 | Alan Harley Medeiros |
-| 1887 | 40 | Kimmi Knippel |
-| 1888 | 40 | Brian Bradley |
-| 1889 | 40 | Lela Walk |
-| 1890 | 40 | Margie King |
-| 1891 | 40 | Ashley Bennett |
-| 1892 | 40 | Ariya Colson |
-| 1893 | 40 | Kacey Bates |
-| 1894 | 40 | Aaron Henry |
-| 1895 | 40 | Twisty Glider |
-| 1896 | 40 | Kris Roark |
-| 1897 | 40 | Tabetha Cooper |
-| 1898 | 40 | Jay Theriault |
-| 1899 | 40 | Mighty Cascade |
-| 1900 | 40 | B.A. Watt |
-| 1901 | 40 | Emily Kleinsteiber |
-| 1902 | 40 | Karen Pearson-Wilson |
-| 1903 | 40 | Rick Green |
-| 1904 | 40 | Sherrita Washington |
-| 1905 | 40 | Radrac |
-| 1906 | 40 | Dan Rosenberg |
-| 1907 | 40 | Beth |
-| 1908 | 40 | Tara Feineis |
-| 1909 | 40 | Dapper Pivotfall |
-| 1910 | 40 | TJN |
-| 1911 | 40 | Shay Lynn King |
-| 1912 | 40 | Elicia Lloyd-Zazweta |
-| 1913 | 40 | Sunny |
-| 1914 | 39 | Jeff Mullins |
-| 1915 | 39 | Cyrus Ramirez |
-| 1916 | 39 | Instak1ll |
-| 1917 | 39 | Linette Chico |
-| 1918 | 39 | Miranda Rabey |
+| 1880 | 40 | Holly |
+| 1881 | 40 | Tonya Templin Smith |
+| 1882 | 40 | Billie Jo Butler |
+| 1883 | 40 | Zach Walkup |
+| 1884 | 40 | Carrie Wilcox |
+| 1885 | 40 | Alan Harley Medeiros |
+| 1886 | 40 | David Starmer |
+| 1887 | 40 | Lela Walk |
+| 1888 | 40 | Kacey Bates |
+| 1889 | 40 | Aaron Henry |
+| 1890 | 40 | Twisty Glider |
+| 1891 | 40 | Kris Roark |
+| 1892 | 40 | Tabetha Cooper |
+| 1893 | 40 | Ariya Colson |
+| 1894 | 40 | Ashley Bennett |
+| 1895 | 40 | Kyle |
+| 1896 | 40 | Jay Theriault |
+| 1897 | 40 | Mighty Cascade |
+| 1898 | 40 | B.A. Watt |
+| 1899 | 40 | Margie King |
+| 1900 | 40 | Brian Bradley |
+| 1901 | 40 | Radrac |
+| 1902 | 40 | Dan Rosenberg |
+| 1903 | 40 | Sherrita Washington |
+| 1904 | 40 | Rick Green |
+| 1905 | 40 | Karen Pearson-Wilson |
+| 1906 | 40 | Emily Kleinsteiber |
+| 1907 | 40 | Kimmi Knippel |
+| 1908 | 40 | Beth |
+| 1909 | 40 | Tara Feineis |
+| 1910 | 40 | Dapper Pivotfall |
+| 1911 | 40 | TJN |
+| 1912 | 40 | Shay Lynn King |
+| 1913 | 40 | Elicia Lloyd-Zazweta |
+| 1914 | 40 | Sunny |
+| 1915 | 39 | Jeff Mullins |
+| 1916 | 39 | Cyrus Ramirez |
+| 1917 | 39 | Instak1ll |
+| 1918 | 39 | Snappy Cascadefit |
 | 1919 | 39 | Zany Pivoty |
-| 1920 | 39 | Īvý S Karma |
-| 1921 | 39 | Joshua Savoir |
-| 1922 | 39 | lojo |
-| 1923 | 39 | Catey Salazar |
-| 1924 | 39 | Lauren Shunkwiler |
-| 1925 | 39 | Snappy Cascadefit |
+| 1920 | 39 | Linette Chico |
+| 1921 | 39 | Lauren Shunkwiler |
+| 1922 | 39 | Catey Salazar |
+| 1923 | 39 | Miranda Rabey |
+| 1924 | 39 | Renee Garneau Cain |
+| 1925 | 39 | Joshua Savoir |
 | 1926 | 39 | Lj |
-| 1927 | 39 | Renee Garneau Cain |
-| 1928 | 38 | whocares |
-| 1929 | 38 | Denzil G Burrows Jr |
-| 1930 | 38 | Stephanie Fitzgerald |
+| 1927 | 39 | lojo |
+| 1928 | 38 | Denzil G Burrows Jr |
+| 1929 | 38 | Stephanie Fitzgerald |
+| 1930 | 38 | whocares |
 | 1931 | 38 | David Thomas |
 | 1932 | 38 | Joce Barger |
 | 1933 | 38 | Perky Patternbuilder |
@@ -2521,14 +2521,14 @@
 | 2513 | 5 | Quirky Liney |
 | 2514 | 5 | Amanda Pilcher |
 | 2515 | 5 | Alisha Kolln |
-| 2516 | 5 | MamaB |
-| 2517 | 5 | Kathy Lewis |
-| 2518 | 5 | Tiffany Rose Riggins |
-| 2519 | 5 | Mary Sands |
-| 2520 | 5 | Samantha Robinet |
-| 2521 | 5 | Diane Mckinney |
-| 2522 | 5 | Bethanie Jo Catenacci |
-| 2523 | 5 | Smokii |
+| 2516 | 5 | Smokii |
+| 2517 | 5 | Bethanie Jo Catenacci |
+| 2518 | 5 | Diane Mckinney |
+| 2519 | 5 | Samantha Robinet |
+| 2520 | 5 | Mary Sands |
+| 2521 | 5 | Tiffany Rose Riggins |
+| 2522 | 5 | Kathy Lewis |
+| 2523 | 5 | MamaB |
 
 ---
 *Standings created by tournaments datasource generation tool*

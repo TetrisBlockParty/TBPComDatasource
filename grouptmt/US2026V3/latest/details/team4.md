@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 16:14:45 UTC
+# Standings for team4 as of 2026-06-09 16:15:22 UTC
 
 **Total Participants:** 2134
 
@@ -78,7 +78,7 @@
 | 70 | 1709 | Alicia Cook |
 | 71 | 1670 | JoLinda Dunn |
 | 72 | 1638 | Joseph Anthony Watkins |
-| 73 | 1609 | Dana Abegil Lawas |
+| 73 | 1619 | Dana Abegil Lawas |
 | 74 | 1600 | Posey Smith |
 | 75 | 1600 | Melissa Brown |
 | 76 | 1564 | woopa 716 |
@@ -463,13 +463,13 @@
 | 455 | 270 | Joshua Garner |
 | 456 | 270 | DizzB400 |
 | 457 | 269 | Cheeky Fallzone |
-| 458 | 269 | Brendan Craven |
-| 459 | 268 | Kendall Rhodie |
-| 460 | 268 | Teester |
-| 461 | 267 | Kari Smith |
-| 462 | 267 | Dandy Cascade |
-| 463 | 267 | Alyssa Berg |
-| 464 | 266 | Erik Clary |
+| 458 | 269 | Erik Clary |
+| 459 | 269 | Brendan Craven |
+| 460 | 268 | Kendall Rhodie |
+| 461 | 268 | Teester |
+| 462 | 267 | Kari Smith |
+| 463 | 267 | Dandy Cascade |
+| 464 | 267 | Alyssa Berg |
 | 465 | 265 | Holly Bramel |
 | 466 | 265 | Mrs |
 | 467 | 265 | Denise Wilson |
@@ -1244,29 +1244,29 @@
 | 1236 | 78 | Jade Alley |
 | 1237 | 78 | Doris Wastak |
 | 1238 | 78 | Spicy Gridder |
-| 1239 | 77 | Tray Day |
-| 1240 | 77 | Barbara Mays |
+| 1239 | 78 | Katherine Stec |
+| 1240 | 77 | Tray Day |
 | 1241 | 77 | Sa5siy |
-| 1242 | 77 | Monte Smith |
-| 1243 | 76 | Lashae |
+| 1242 | 77 | Barbara Mays |
+| 1243 | 77 | Monte Smith |
 | 1244 | 76 | Courtney Miller |
 | 1245 | 76 | Danielle Sulano |
 | 1246 | 76 | Glitzy Rotate |
 | 1247 | 76 | Ksawn Collymore-bey Collymore-bey |
 | 1248 | 76 | Brandy Martin-Lowery |
 | 1249 | 76 | Tahira Patrice |
-| 1250 | 75 | Cheeky Linkpiece |
+| 1250 | 76 | Lashae |
 | 1251 | 75 | Gary Moore |
 | 1252 | 75 | h_chloe10 |
 | 1253 | 75 | Jeremy Fisher |
-| 1254 | 75 | ŁųŁų |
-| 1255 | 75 | Kay |
-| 1256 | 75 | Marco A. Sandoval |
-| 1257 | 75 | Mighty Spinfit |
-| 1258 | 74 | Chirpy Corner |
+| 1254 | 75 | Cheeky Linkpiece |
+| 1255 | 75 | ŁųŁų |
+| 1256 | 75 | Kay |
+| 1257 | 75 | Marco A. Sandoval |
+| 1258 | 75 | Mighty Spinfit |
 | 1259 | 74 | Brittany |
-| 1260 | 74 | Sprout |
-| 1261 | 74 | Katherine Stec |
+| 1260 | 74 | Chirpy Corner |
+| 1261 | 74 | Sprout |
 | 1262 | 74 | Kristie McFarland |
 | 1263 | 74 | Danielle Porter |
 | 1264 | 74 | Shane Tate |
