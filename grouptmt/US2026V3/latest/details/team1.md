@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:52:44 UTC
+# Standings for team1 as of 2026-06-09 10:53:22 UTC
 
 **Total Participants:** 2036
 
@@ -444,24 +444,24 @@
 | 436 | 266 | Rebecca Jackson |
 | 437 | 264 | Boldy Matchbuilder |
 | 438 | 262 | Denisa Amazon Clark |
-| 439 | 261 | Brittany Fells |
-| 440 | 261 | LaTonya Myers |
+| 439 | 261 | LaTonya Myers |
+| 440 | 261 | Brittany Fells |
 | 441 | 260 | Alyssa Rae |
 | 442 | 260 | HS Arce |
 | 443 | 259 | Slinky Clearzone |
 | 444 | 259 | Stacy Nicole |
 | 445 | 258 | Kimberly Linares Hernandez |
-| 446 | 257 | Twisty Brickfit |
-| 447 | 256 | Jessie N Michael Silvers |
-| 448 | 256 | Juan Alvarez |
-| 449 | 256 | TBABYJ |
-| 450 | 255 | Mister Reid |
-| 451 | 255 | Emily Wright |
-| 452 | 255 | Michelle Peters |
-| 453 | 254 | Asha Langford |
-| 454 | 254 | Glitzy Patternline |
-| 455 | 253 | Tasha |
-| 456 | 253 | FunTime |
+| 446 | 258 | FunTime |
+| 447 | 257 | Twisty Brickfit |
+| 448 | 256 | Jessie N Michael Silvers |
+| 449 | 256 | Juan Alvarez |
+| 450 | 256 | TBABYJ |
+| 451 | 255 | Mister Reid |
+| 452 | 255 | Emily Wright |
+| 453 | 255 | Michelle Peters |
+| 454 | 254 | Asha Langford |
+| 455 | 254 | Glitzy Patternline |
+| 456 | 253 | Tasha |
 | 457 | 250 | Mighty Dropper |
 | 458 | 249 | Nate Myers |
 | 459 | 248 | LuckyStar |
@@ -769,12 +769,12 @@
 | 761 | 145 | tg |
 | 762 | 145 | Nekka |
 | 763 | 145 | Kashh |
-| 764 | 145 | Hyedie Badie |
-| 765 | 144 | Renee Marshall |
-| 766 | 144 | Dapper Matchfit |
-| 767 | 144 | Batty B |
-| 768 | 144 | Cm |
-| 769 | 144 | Kim Holzmiller |
+| 764 | 145 | Kim Holzmiller |
+| 765 | 145 | Hyedie Badie |
+| 766 | 144 | Renee Marshall |
+| 767 | 144 | Dapper Matchfit |
+| 768 | 144 | Batty B |
+| 769 | 144 | Cm |
 | 770 | 144 | Ysma Simmons |
 | 771 | 143 | LAdYPOLy |
 | 772 | 142 | Tiffany Jean Hinson |
