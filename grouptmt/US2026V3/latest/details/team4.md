@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:46:44 UTC
+# Standings for team4 as of 2026-06-09 10:47:22 UTC
 
 **Total Participants:** 2092
 
@@ -100,7 +100,7 @@
 | 92 | 1128 | J |
 | 93 | 1106 | shawna |
 | 94 | 1104 | Chaz Duncan |
-| 95 | 1092 | Jonathan Hewitt |
+| 95 | 1102 | Jonathan Hewitt |
 | 96 | 1085 | Hardy Fuller |
 | 97 | 1083 | Tiffany Loree Tiffany Oneill |
 | 98 | 1082 | Hannah Pazar |
@@ -1926,79 +1926,79 @@
 | 1918 | 14 | Laura Ratliff |
 | 1919 | 14 | Blanchie Wingo |
 | 1920 | 14 | Alisha McGahey |
-| 1921 | 14 | Evie |
-| 1922 | 14 | Net |
-| 1923 | 14 | Snippy Twister |
-| 1924 | 14 | Eileen Clements |
-| 1925 | 14 | Stacy Lamontana Wilkins |
-| 1926 | 14 | ThickyJicky |
+| 1921 | 14 | Lively Linkroll |
+| 1922 | 14 | Snippy Twister |
+| 1923 | 14 | Net |
+| 1924 | 14 | Stacy Lamontana Wilkins |
+| 1925 | 14 | ThickyJicky |
+| 1926 | 14 | Eileen Clements |
 | 1927 | 14 | Melly |
-| 1928 | 14 | Lively Linkroll |
-| 1929 | 14 | Donovan Parmenter Gagne |
-| 1930 | 14 | crow me |
+| 1928 | 14 | Donovan Parmenter Gagne |
+| 1929 | 14 | crow me |
+| 1930 | 14 | Rise |
 | 1931 | 14 | mrsduke420 |
-| 1932 | 14 | Rise |
-| 1933 | 14 | Christine Niles |
+| 1932 | 14 | Christine Niles |
+| 1933 | 14 | Evie |
 | 1934 | 14 | G Money |
 | 1935 | 13 | Jason Ervin |
-| 1936 | 13 | Michelle Boyd |
-| 1937 | 13 | Swanky Spinzone |
-| 1938 | 13 | Mary Lowther |
-| 1939 | 13 | Jackie Russo-Edens |
-| 1940 | 13 | Liz Aimé Acosta Guilarte |
-| 1941 | 12 | Ruthie Laracuente |
-| 1942 | 12 | Meghan Trice Theodore |
-| 1943 | 12 | Poppy Linkblock |
-| 1944 | 12 | Maritza Lopez |
+| 1936 | 13 | Kondwani Winston |
+| 1937 | 13 | Michelle Boyd |
+| 1938 | 13 | Swanky Spinzone |
+| 1939 | 13 | Mary Lowther |
+| 1940 | 13 | Jackie Russo-Edens |
+| 1941 | 13 | Liz Aimé Acosta Guilarte |
+| 1942 | 12 | Ruthie Laracuente |
+| 1943 | 12 | Meghan Trice Theodore |
+| 1944 | 12 | Poppy Linkblock |
 | 1945 | 12 | May Espinosa |
-| 1946 | 12 | Tatiyana Hockett |
-| 1947 | 12 | Delashawne Hodgson |
-| 1948 | 12 | Carolyn Lalak |
-| 1949 | 12 | ESPERANTU |
-| 1950 | 12 | Goofy Twistpiece |
-| 1951 | 12 | Boldy Shuffler |
-| 1952 | 12 | Flashy Snap |
+| 1946 | 12 | Delashawne Hodgson |
+| 1947 | 12 | Tatiyana Hockett |
+| 1948 | 12 | Maritza Lopez |
+| 1949 | 12 | Carolyn Lalak |
+| 1950 | 12 | Rachel |
+| 1951 | 12 | dizzy |
+| 1952 | 12 | Jossimar Chairez |
 | 1953 | 12 | Mee |
-| 1954 | 12 | Jossimar Chairez |
-| 1955 | 12 | Rachel |
-| 1956 | 12 | dizzy |
-| 1957 | 11 | Bryan Odle |
-| 1958 | 11 | ITSME |
-| 1959 | 11 | OFOZO |
-| 1960 | 11 | Scott James Cooper |
-| 1961 | 11 | Ronald Kent Hall |
-| 1962 | 11 | Dizzy Snapclear |
-| 1963 | 11 | Nata Lia |
-| 1964 | 11 | Laurelez R. Carmen |
+| 1954 | 12 | Boldy Shuffler |
+| 1955 | 12 | Flashy Snap |
+| 1956 | 12 | Goofy Twistpiece |
+| 1957 | 12 | ESPERANTU |
+| 1958 | 11 | Scott James Cooper |
+| 1959 | 11 | Ronald Kent Hall |
+| 1960 | 11 | Dizzy Snapclear |
+| 1961 | 11 | OFOZO |
+| 1962 | 11 | Nata Lia |
+| 1963 | 11 | ITSME |
+| 1964 | 11 | Tye Hayes |
 | 1965 | 11 | Tammi Crnza |
-| 1966 | 11 | Jane Smith |
-| 1967 | 11 | Aaron |
-| 1968 | 11 | Fancy Shuffler |
-| 1969 | 11 | Heather Smith-Carter |
-| 1970 | 11 | Eric Mellinger |
-| 1971 | 11 | Tye Hayes |
-| 1972 | 10 | Babygirlpily |
-| 1973 | 10 | Quana Jackson |
-| 1974 | 10 | Whoop Blancò |
-| 1975 | 10 | Jimmy Redding |
-| 1976 | 10 | Lazy Crusher |
-| 1977 | 10 | Kay Immaslay |
-| 1978 | 10 | Chris Padilla |
-| 1979 | 10 | Chipper Bridger |
-| 1980 | 10 | Cranky Stackbuilder |
-| 1981 | 10 | Jumpy Patternfall |
-| 1982 | 10 | Leah Keesling |
-| 1983 | 10 | Nicole |
-| 1984 | 10 | Esla mamas |
-| 1985 | 10 | Brianne Stull |
-| 1986 | 10 | Lisa Hammock |
-| 1987 | 10 | Zesty Snapmatch |
-| 1988 | 10 | ScorpioQueen |
-| 1989 | 10 | John Garza |
-| 1990 | 10 | Dreamy Dash |
-| 1991 | 10 | Coolgirl |
-| 1992 | 10 | Jesse Richardson |
-| 1993 | 10 | Kondwani Winston |
+| 1966 | 11 | Laurelez R. Carmen |
+| 1967 | 11 | Jane Smith |
+| 1968 | 11 | Aaron |
+| 1969 | 11 | Fancy Shuffler |
+| 1970 | 11 | Heather Smith-Carter |
+| 1971 | 11 | Eric Mellinger |
+| 1972 | 11 | Bryan Odle |
+| 1973 | 10 | Babygirlpily |
+| 1974 | 10 | Quana Jackson |
+| 1975 | 10 | Whoop Blancò |
+| 1976 | 10 | Jimmy Redding |
+| 1977 | 10 | Lazy Crusher |
+| 1978 | 10 | Kay Immaslay |
+| 1979 | 10 | Chris Padilla |
+| 1980 | 10 | Chipper Bridger |
+| 1981 | 10 | Cranky Stackbuilder |
+| 1982 | 10 | Jumpy Patternfall |
+| 1983 | 10 | Leah Keesling |
+| 1984 | 10 | Nicole |
+| 1985 | 10 | Esla mamas |
+| 1986 | 10 | Brianne Stull |
+| 1987 | 10 | Lisa Hammock |
+| 1988 | 10 | Zesty Snapmatch |
+| 1989 | 10 | ScorpioQueen |
+| 1990 | 10 | John Garza |
+| 1991 | 10 | Dreamy Dash |
+| 1992 | 10 | Coolgirl |
+| 1993 | 10 | Jesse Richardson |
 | 1994 | 10 | Mindy Likes Tats |
 | 1995 | 10 | Tee |
 | 1996 | 10 | Elizabeth Leland |
