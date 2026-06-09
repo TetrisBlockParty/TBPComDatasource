@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:54:23 UTC
+# Standings for team2 as of 2026-06-09 08:54:45 UTC
 
 **Total Participants:** 2448
 
@@ -67,18 +67,18 @@
 | 59 | 2556 | Andrew Weissenborn |
 | 60 | 2500 | Jennifer Knott |
 | 61 | 2442 | Suki Kaur |
-| 62 | 2347 | Frisky Balanceblock |
-| 63 | 2346 | Nerdy Climber |
-| 64 | 2244 | AcardBoardBox |
-| 65 | 2222 | Angie Mccain |
-| 66 | 2210 | Jenny Graham |
-| 67 | 2161 | Jennifer Corder |
-| 68 | 2156 | Nawang Nawang |
-| 69 | 2148 | Epic Frame |
-| 70 | 2127 | Happy Pivotfall |
-| 71 | 2114 | Marie Edmonds |
-| 72 | 2094 | Tonya Taber |
-| 73 | 2049 | Beverly Lynn Mills |
+| 62 | 2349 | Beverly Lynn Mills |
+| 63 | 2347 | Frisky Balanceblock |
+| 64 | 2346 | Nerdy Climber |
+| 65 | 2244 | AcardBoardBox |
+| 66 | 2222 | Angie Mccain |
+| 67 | 2210 | Jenny Graham |
+| 68 | 2161 | Jennifer Corder |
+| 69 | 2156 | Nawang Nawang |
+| 70 | 2148 | Epic Frame |
+| 71 | 2127 | Happy Pivotfall |
+| 72 | 2114 | Marie Edmonds |
+| 73 | 2094 | Tonya Taber |
 | 74 | 2020 | Chipper Patternblock |
 | 75 | 2009 | Block Dog |
 | 76 | 2000 | LEW |
@@ -112,8 +112,8 @@
 | 104 | 1327 | Amber-leigh Williams |
 | 105 | 1323 | joey |
 | 106 | 1286 | Kvothe |
-| 107 | 1285 | Marquetta Johnson |
-| 108 | 1285 | Charlie Wilson |
+| 107 | 1285 | Charlie Wilson |
+| 108 | 1285 | Marquetta Johnson |
 | 109 | 1270 | Jef Wassom |
 | 110 | 1245 | Criccett Hooper-Smith |
 | 111 | 1235 | Michelle Maulsby |

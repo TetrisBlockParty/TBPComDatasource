@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:54:23 UTC
+# Standings for team1 as of 2026-06-09 08:54:45 UTC
 
 **Total Participants:** 2020
 
@@ -349,9 +349,9 @@
 | 341 | 341 | Jawaun Daniels |
 | 342 | 340 | Tipsy Linkroll |
 | 343 | 340 | Christian Pham |
-| 344 | 337 | Desire Rice |
-| 345 | 337 | HarleyJane |
-| 346 | 334 | Kate Hancock Malicek |
+| 344 | 339 | Kate Hancock Malicek |
+| 345 | 337 | Desire Rice |
+| 346 | 337 | HarleyJane |
 | 347 | 334 | Jackie Sanasay |
 | 348 | 332 | Simone Bailey |
 | 349 | 330 | Crystal Boyd |
