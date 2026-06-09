@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:04:44 UTC
+# Standings for team1 as of 2026-06-09 09:05:23 UTC
 
 **Total Participants:** 2020
 
@@ -442,10 +442,10 @@
 | 434 | 259 | Stacy Nicole |
 | 435 | 258 | Kimberly Linares Hernandez |
 | 436 | 257 | Twisty Brickfit |
-| 437 | 256 | Jessie N Michael Silvers |
-| 438 | 256 | Juan Alvarez |
-| 439 | 256 | TBABYJ |
-| 440 | 256 | C Lo Green |
+| 437 | 257 | C Lo Green |
+| 438 | 256 | Jessie N Michael Silvers |
+| 439 | 256 | Juan Alvarez |
+| 440 | 256 | TBABYJ |
 | 441 | 255 | Michelle Peters |
 | 442 | 255 | Emily Wright |
 | 443 | 255 | Mister Reid |
