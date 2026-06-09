@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:54:44 UTC
+# Standings for team1 as of 2026-06-09 10:55:23 UTC
 
 **Total Participants:** 2036
 
@@ -482,14 +482,14 @@
 | 474 | 240 | Malcolm Stanley |
 | 475 | 240 | Velma Jones |
 | 476 | 240 | SherylU |
-| 477 | 239 | Manda Allen |
-| 478 | 239 | Guy Incognito |
-| 479 | 238 | SnazzyIvy |
-| 480 | 238 | Fina McKinnis |
-| 481 | 237 | Kimberly Anderson |
-| 482 | 237 | Tanisha Taylor |
-| 483 | 236 | Vera Beckford |
-| 484 | 236 | Charlene Baltimore |
+| 477 | 239 | Charlene Baltimore |
+| 478 | 239 | Manda Allen |
+| 479 | 239 | Guy Incognito |
+| 480 | 238 | SnazzyIvy |
+| 481 | 238 | Fina McKinnis |
+| 482 | 237 | Kimberly Anderson |
+| 483 | 237 | Tanisha Taylor |
+| 484 | 236 | Vera Beckford |
 | 485 | 235 | Daring Blockclear |
 | 486 | 235 | nameno |
 | 487 | 235 | Tracy Feyler |
@@ -574,8 +574,8 @@
 | 566 | 205 | Polite Granny |
 | 567 | 205 | Logan Frost |
 | 568 | 205 | Treneil Daffin |
-| 569 | 205 | Sarah Swietlicki - Lopez |
-| 570 | 205 | Sarah Barnum |
+| 569 | 205 | Sarah Barnum |
+| 570 | 205 | Sarah Swietlicki - Lopez |
 | 571 | 205 | Tramaine Crockrum |
 | 572 | 204 | Dorian Griffin |
 | 573 | 204 | Cynda Cyn |
@@ -606,87 +606,87 @@
 | 598 | 194 | Earl Williams |
 | 599 | 194 | Twisty Cascadeclear |
 | 600 | 193 | Dizzy Dashy |
-| 601 | 193 | Ameillia Boughner |
-| 602 | 193 | Kimberly Susan Privette |
-| 603 | 192 | Donna Payne |
-| 604 | 192 | Cranky Fall |
-| 605 | 191 | Nona Harriel |
-| 606 | 191 | Gbnola |
-| 607 | 191 | Miera Nicole |
-| 608 | 191 | Cori Cleland |
-| 609 | 191 | Terri Smart |
-| 610 | 190 | Adrian Wilson |
-| 611 | 190 | Lester Malone |
-| 612 | 190 | Chipper Snapper |
-| 613 | 190 | Jovy |
-| 614 | 189 | The DUBZ |
-| 615 | 189 | Loopy Tiler |
-| 616 | 189 | Joseph Vs Cap |
-| 617 | 189 | Sean White |
-| 618 | 188 | DeAngelo Sorrells |
-| 619 | 188 | Ashlie Mo |
+| 601 | 193 | Tushama Cheris Okraku |
+| 602 | 193 | Ameillia Boughner |
+| 603 | 193 | Kimberly Susan Privette |
+| 604 | 192 | Donna Payne |
+| 605 | 192 | Cranky Fall |
+| 606 | 191 | Nona Harriel |
+| 607 | 191 | Gbnola |
+| 608 | 191 | Miera Nicole |
+| 609 | 191 | Cori Cleland |
+| 610 | 191 | Terri Smart |
+| 611 | 190 | Chipper Snapper |
+| 612 | 190 | Jovy |
+| 613 | 190 | Adrian Wilson |
+| 614 | 190 | Lester Malone |
+| 615 | 189 | Sean White |
+| 616 | 189 | Loopy Tiler |
+| 617 | 189 | The DUBZ |
+| 618 | 189 | Joseph Vs Cap |
+| 619 | 188 | Tyiesha Pie Farmer |
 | 620 | 188 | Zappy Snapgrid |
-| 621 | 188 | Sarah Steckbauer |
-| 622 | 188 | Tangy Moore |
-| 623 | 188 | Tyiesha Pie Farmer |
-| 624 | 187 | Lively Riserpiece |
-| 625 | 187 | Kimmie Gargano |
-| 626 | 187 | MELLZZtick€T |
-| 627 | 186 | Tiffany Conley |
+| 621 | 188 | Tangy Moore |
+| 622 | 188 | Sarah Steckbauer |
+| 623 | 188 | Ashlie Mo |
+| 624 | 188 | DeAngelo Sorrells |
+| 625 | 187 | Lively Riserpiece |
+| 626 | 187 | Kimmie Gargano |
+| 627 | 187 | MELLZZtick€T |
 | 628 | 186 | Spicy Shatterblock |
 | 629 | 186 | Brittany Sara Heldwein |
-| 630 | 183 | Erika |
-| 631 | 183 | Amihan |
+| 630 | 186 | Tiffany Conley |
+| 631 | 183 | Erika |
 | 632 | 183 | Shameka Tiffany |
-| 633 | 183 | Shakuria Cortia Burney |
-| 634 | 183 | Tushama Cheris Okraku |
-| 635 | 182 | Jimmy Shannon |
-| 636 | 182 | Comedian Prince Paul |
-| 637 | 182 | RylonJones |
-| 638 | 181 | Amy Villalpando |
-| 639 | 181 | Nora Mahmoud |
-| 640 | 181 | Shawn Himes |
-| 641 | 180 | Carolyn Smith |
-| 642 | 180 | Cornelius Neal |
-| 643 | 180 | NedaWin |
-| 644 | 180 | Leavon Smith |
-| 645 | 179 | Kike Lua |
-| 646 | 179 | Ad Doctor |
-| 647 | 176 | Squaw Ki Ng |
-| 648 | 176 | Char |
-| 649 | 176 | Callie Mae |
-| 650 | 176 | jeremy92 |
+| 633 | 183 | Amihan |
+| 634 | 183 | Shakuria Cortia Burney |
+| 635 | 182 | Comedian Prince Paul |
+| 636 | 182 | RylonJones |
+| 637 | 182 | Jimmy Shannon |
+| 638 | 181 | Nora Mahmoud |
+| 639 | 181 | Shawn Himes |
+| 640 | 181 | Amy Villalpando |
+| 641 | 180 | NedaWin |
+| 642 | 180 | Leavon Smith |
+| 643 | 180 | Carolyn Smith |
+| 644 | 180 | Cornelius Neal |
+| 645 | 179 | Ad Doctor |
+| 646 | 179 | Kike Lua |
+| 647 | 176 | jeremy92 |
+| 648 | 176 | Callie Mae |
+| 649 | 176 | Squaw Ki Ng |
+| 650 | 176 | Char |
 | 651 | 176 | Frisky Gridder |
-| 652 | 175 | Loony Clearer |
-| 653 | 175 | Eric Machuca |
-| 654 | 175 | DaemahnFriday |
-| 655 | 175 | Poppy Twister |
-| 656 | 174 | Clipzby |
-| 657 | 174 | Nerdy Wipefit |
-| 658 | 173 | Mathew Trudell |
+| 652 | 175 | Eric Machuca |
+| 653 | 175 | DaemahnFriday |
+| 654 | 175 | Poppy Twister |
+| 655 | 175 | Loony Clearer |
+| 656 | 174 | Nerdy Wipefit |
+| 657 | 174 | Clipzby |
+| 658 | 173 | Claudia Price |
 | 659 | 173 | Ashley Monet Terrell |
-| 660 | 173 | Claudia Price |
-| 661 | 172 | Betsy B. Yohan |
-| 662 | 172 | Ozell Jones Jr. |
+| 660 | 173 | Mathew Trudell |
+| 661 | 172 | Ozell Jones Jr. |
+| 662 | 172 | Betsy B. Yohan |
 | 663 | 172 | MrsDontPlay |
 | 664 | 171 | Victor |
 | 665 | 171 | Ta'Kaiyah M. Spann |
-| 666 | 170 | Devron Reedy |
-| 667 | 170 | Christi Walker Patton |
-| 668 | 170 | meatballs |
-| 669 | 169 | Cheryl Miller |
+| 666 | 170 | Christi Walker Patton |
+| 667 | 170 | meatballs |
+| 668 | 170 | Devron Reedy |
+| 669 | 169 | Undeniable Williams |
 | 670 | 169 | Don Ray Mc |
-| 671 | 169 | rb |
-| 672 | 169 | Undeniable Williams |
+| 671 | 169 | Cheryl Miller |
+| 672 | 169 | rb |
 | 673 | 168 | Lynn |
-| 674 | 168 | Giddy Staggerpiece |
-| 675 | 168 | Lounique |
-| 676 | 168 | Christina Singleton |
+| 674 | 168 | Christina Singleton |
+| 675 | 168 | Giddy Staggerpiece |
+| 676 | 168 | Lounique |
 | 677 | 167 | Dana Hawes |
-| 678 | 167 | Lucy |
-| 679 | 167 | Comedian Gdane |
-| 680 | 167 | Montego Allen |
-| 681 | 167 | Joka NoTime ForHataz |
+| 678 | 167 | Joka NoTime ForHataz |
+| 679 | 167 | Lucy |
+| 680 | 167 | Comedian Gdane |
+| 681 | 167 | Montego Allen |
 | 682 | 166 | Amaadi Ward |
 | 683 | 165 | lizlizliz |
 | 684 | 165 | Vannie G |
