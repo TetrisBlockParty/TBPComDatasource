@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:06:43 UTC
+# Standings for team1 as of 2026-06-09 14:07:22 UTC
 
 **Total Participants:** 2057
 
@@ -244,12 +244,12 @@
 | 236 | 498 | Julian Dickens Jr. |
 | 237 | 496 | Andre Sanon |
 | 238 | 496 | Tina Mitchell |
-| 239 | 495 | Rachael Bakowicz Edwards |
-| 240 | 494 | Rhonda Williams Warner |
-| 241 | 491 | Mic Balew |
-| 242 | 490 | Lashawn Wallace |
-| 243 | 487 | Tamara Johnson-Carter |
-| 244 | 486 | Kenny 'Tailormade' Boyd |
+| 239 | 496 | Kenny 'Tailormade' Boyd |
+| 240 | 495 | Rachael Bakowicz Edwards |
+| 241 | 494 | Rhonda Williams Warner |
+| 242 | 491 | Mic Balew |
+| 243 | 490 | Lashawn Wallace |
+| 244 | 487 | Tamara Johnson-Carter |
 | 245 | 481 | Qwlonda Shirrell |
 | 246 | 481 | boogeywoogey |
 | 247 | 476 | Roberta Lynn |
@@ -292,10 +292,10 @@
 | 284 | 428 | Joana Thompson |
 | 285 | 427 | Hailey Hil |
 | 286 | 426 | Chasem45 |
-| 287 | 423 | Sheila Burnham |
-| 288 | 423 | Andrew Jay Vaughn |
-| 289 | 423 | Dion Gray |
-| 290 | 421 | OhNoZer0 |
+| 287 | 426 | OhNoZer0 |
+| 288 | 423 | Sheila Burnham |
+| 289 | 423 | Andrew Jay Vaughn |
+| 290 | 423 | Dion Gray |
 | 291 | 420 | Nerdy Climber |
 | 292 | 419 | Dai Bo |
 | 293 | 419 | Johnathan Deese |
@@ -492,42 +492,42 @@
 | 484 | 249 | Nate Myers |
 | 485 | 249 | Fina McKinnis |
 | 486 | 248 | Melissa Olvera |
-| 487 | 248 | Vera Beckford |
-| 488 | 248 | Valerie Alexander |
-| 489 | 247 | Mahagony Small |
-| 490 | 247 | SceneGreenz Wali |
+| 487 | 248 | Valerie Alexander |
+| 488 | 248 | Vera Beckford |
+| 489 | 247 | SceneGreenz Wali |
+| 490 | 247 | Mahagony Small |
 | 491 | 247 | Taz Ballard |
 | 492 | 245 | Brittnay Wright |
 | 493 | 245 | ChunLi |
-| 494 | 244 | Saranoh13 |
-| 495 | 244 | Perky Pusher |
+| 494 | 244 | Brittanie Wardlow |
+| 495 | 244 | Saranoh13 |
 | 496 | 244 | Slinky Snapbuilder |
-| 497 | 244 | Brittanie Wardlow |
+| 497 | 244 | Perky Pusher |
 | 498 | 242 | Ryan Runyan |
 | 499 | 242 | Tamika Rocheteau |
-| 500 | 240 | Malcolm Stanley |
-| 501 | 240 | Velma Jones |
+| 500 | 240 | Velma Jones |
+| 501 | 240 | Malcolm Stanley |
 | 502 | 240 | SherylU |
 | 503 | 239 | Kimmie Gargano |
-| 504 | 239 | Meshia |
-| 505 | 239 | Manda Allen |
-| 506 | 239 | Guy Incognito |
-| 507 | 237 | Bold Clusterer |
-| 508 | 237 | Crystal Cheresnowsky |
-| 509 | 237 | Tanisha Taylor |
-| 510 | 237 | Kimberly Anderson |
+| 504 | 239 | Guy Incognito |
+| 505 | 239 | Meshia |
+| 506 | 239 | Manda Allen |
+| 507 | 237 | Tanisha Taylor |
+| 508 | 237 | Kimberly Anderson |
+| 509 | 237 | Crystal Cheresnowsky |
+| 510 | 237 | Bold Clusterer |
 | 511 | 236 | James Bryant II |
-| 512 | 235 | Daring Blockclear |
-| 513 | 235 | Tracy Feyler |
+| 512 | 235 | Tracy Feyler |
+| 513 | 235 | Daring Blockclear |
 | 514 | 235 | nameno |
-| 515 | 234 | Chris Nelson |
-| 516 | 234 | wmedina67 |
-| 517 | 233 | Kala Miller |
-| 518 | 233 | Holly Baker |
-| 519 | 232 | Monica Fields |
-| 520 | 231 | TieMs BHughez |
-| 521 | 231 | Breezy Catcher |
-| 522 | 231 | BonnieB |
+| 515 | 234 | wmedina67 |
+| 516 | 234 | Chris Nelson |
+| 517 | 233 | BonnieB |
+| 518 | 233 | Kala Miller |
+| 519 | 233 | Holly Baker |
+| 520 | 232 | Monica Fields |
+| 521 | 231 | TieMs BHughez |
+| 522 | 231 | Breezy Catcher |
 | 523 | 230 | Jessica Kirby |
 | 524 | 229 | Jenni Hardman |
 | 525 | 228 | Matthieu Pistone |
@@ -543,15 +543,15 @@
 | 535 | 224 | Juan Santiago |
 | 536 | 223 | BB |
 | 537 | 223 | Heather Wilson |
-| 538 | 222 | Hardtohandle91 |
-| 539 | 222 | AnnaM |
-| 540 | 222 | Clint Mcdowell |
+| 538 | 222 | Clint Mcdowell |
+| 539 | 222 | Hardtohandle91 |
+| 540 | 222 | AnnaM |
 | 541 | 222 | Lazy Tiltpiece |
 | 542 | 222 | Dede Tate |
-| 543 | 221 | Terri Smart |
-| 544 | 221 | Jack Vlasak |
-| 545 | 221 | De'Nell Edwards |
-| 546 | 221 | Rayshawn Cohen |
+| 543 | 221 | Jack Vlasak |
+| 544 | 221 | De'Nell Edwards |
+| 545 | 221 | Rayshawn Cohen |
+| 546 | 221 | Terri Smart |
 | 547 | 220 | Tonia Ramos |
 | 548 | 220 | meatballs |
 | 549 | 220 | Carolyn Smith |
@@ -757,17 +757,17 @@
 | 749 | 156 | Kizzy Clark |
 | 750 | 156 | Shanjerrica Taylor Rosell |
 | 751 | 155 | Angie Smith |
-| 752 | 155 | Kashh |
-| 753 | 155 | Poppy Smasher |
-| 754 | 154 | TRUBBLE45 |
-| 755 | 154 | Octavia Bsb Johnson |
+| 752 | 155 | Pj Rojas |
+| 753 | 155 | Kashh |
+| 754 | 155 | Poppy Smasher |
+| 755 | 154 | TRUBBLE45 |
 | 756 | 154 | Glitzy Clusterer |
 | 757 | 154 | Dizzy Gridmatch |
-| 758 | 152 | Essence Jones |
-| 759 | 152 | Wacky Stackbuilder |
-| 760 | 152 | Megan Jones |
-| 761 | 151 | Terrie |
-| 762 | 151 | Pj Rojas |
+| 758 | 154 | Octavia Bsb Johnson |
+| 759 | 152 | Essence Jones |
+| 760 | 152 | Wacky Stackbuilder |
+| 761 | 152 | Megan Jones |
+| 762 | 151 | Terrie |
 | 763 | 151 | brite |
 | 764 | 151 | Shanell Thomas |
 | 765 | 150 | Marshall Davis |
