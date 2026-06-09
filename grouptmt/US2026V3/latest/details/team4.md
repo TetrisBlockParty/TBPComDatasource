@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 19:04:45 UTC
+# Standings for team4 as of 2026-06-09 19:05:23 UTC
 
 **Total Participants:** 2161
 
@@ -149,15 +149,15 @@
 | 141 | 841 | Pepone Pepe |
 | 142 | 830 | Kitsune Bi |
 | 143 | 820 | Jenn Fitzgerald |
-| 144 | 815 | Thomasena Eady Reid |
-| 145 | 815 | SupaFly |
+| 144 | 815 | SupaFly |
+| 145 | 815 | Thomasena Eady Reid |
 | 146 | 814 | adrian |
 | 147 | 813 | blockhead |
 | 148 | 800 | Nicole Peoples |
 | 149 | 799 | Cranky Towerbuilder |
-| 150 | 792 | Lori Stembridge |
-| 151 | 791 | Jazzy Gridder |
-| 152 | 790 | Jason Garnatz |
+| 150 | 795 | Jason Garnatz |
+| 151 | 792 | Lori Stembridge |
+| 152 | 791 | Jazzy Gridder |
 | 153 | 781 | Lynn Grimes |
 | 154 | 779 | Tiffany Brooke |
 | 155 | 773 | Regina Williams |
@@ -186,23 +186,23 @@
 | 178 | 662 | Danielle Mitchell |
 | 179 | 659 | Devinlee Brown |
 | 180 | 656 | Kimberly Civinski |
-| 181 | 651 | Dayna Arthurs |
-| 182 | 651 | Jewelz |
+| 181 | 651 | Jewelz |
+| 182 | 651 | Dayna Arthurs |
 | 183 | 648 | Bonnie Powell |
 | 184 | 647 | Laguya |
 | 185 | 640 | CIRAZYPNOY |
 | 186 | 631 | Megan Vick |
 | 187 | 630 | Magz |
-| 188 | 620 | Wanda Simmons |
-| 189 | 620 | Saucy Wipepiece |
+| 188 | 620 | Saucy Wipepiece |
+| 189 | 620 | Wanda Simmons |
 | 190 | 615 | Leslie Ann Carter |
 | 191 | 613 | Anthony Lewis |
 | 192 | 610 | Lush Fitblock |
 | 193 | 609 | Scamp Jones |
 | 194 | 604 | Alex Armour |
 | 195 | 600 | Shocinda Sherwood |
-| 196 | 600 | Addi JayKay |
-| 197 | 600 | Suzanne Carter |
+| 196 | 600 | Suzanne Carter |
+| 197 | 600 | Addi JayKay |
 | 198 | 599 | Krysten Danielle Richard |
 | 199 | 598 | Katie Lynn Petit |
 | 200 | 593 | Malik Thompson |
@@ -210,8 +210,8 @@
 | 202 | 591 | Logan Two-dubs Baker |
 | 203 | 585 | Taz |
 | 204 | 583 | Jackie Miller |
-| 205 | 575 | Julian Gasque |
-| 206 | 575 | Beth Belanger |
+| 205 | 575 | Beth Belanger |
+| 206 | 575 | Julian Gasque |
 | 207 | 573 | Sisi RedVelvet Reneè |
 | 208 | 572 | Bean |
 | 209 | 567 | Bri Martin |
@@ -229,8 +229,8 @@
 | 221 | 549 | Real Talk Vibes |
 | 222 | 545 | Jeremy |
 | 223 | 544 | Toon Up |
-| 224 | 543 | Kelly Howland |
-| 225 | 543 | George Palacios |
+| 224 | 543 | George Palacios |
+| 225 | 543 | Kelly Howland |
 | 226 | 540 | Anthony Magaraci |
 | 227 | 540 | Vanessa Sykes |
 | 228 | 538 | Nicole |
@@ -240,17 +240,17 @@
 | 232 | 527 | Monica Emel |
 | 233 | 526 | Smiley Gridzone |
 | 234 | 523 | Betsy Froemming |
-| 235 | 520 | Jaci Marie |
-| 236 | 520 | Maria Castillo |
+| 235 | 520 | Maria Castillo |
+| 236 | 520 | Jaci Marie |
 | 237 | 518 | Tyson Stroppel |
-| 238 | 517 | Goofy Riser |
-| 239 | 510 | Fran Aaron-Ring |
-| 240 | 504 | Piece of Cake |
-| 241 | 502 | Tipsy Zonebuilder |
-| 242 | 501 | Snippy Splitter |
+| 238 | 517 | Samara Garcia |
+| 239 | 517 | Goofy Riser |
+| 240 | 510 | Fran Aaron-Ring |
+| 241 | 504 | Piece of Cake |
+| 242 | 502 | Tipsy Zonebuilder |
 | 243 | 501 | Tammy June |
-| 244 | 500 | Genag |
-| 245 | 499 | Samara Garcia |
+| 244 | 501 | Snippy Splitter |
+| 245 | 500 | Genag |
 | 246 | 496 | jaz |
 | 247 | 496 | Jackie Jackson |
 | 248 | 495 | Baysoph |
@@ -433,11 +433,11 @@
 | 425 | 292 | Rachel Lemos |
 | 426 | 292 | Lively Blockpiece |
 | 427 | 291 | Lani |
-| 428 | 290 | Quiomarie Cotto |
-| 429 | 290 | LaTanya GeminiondaRise Johnson |
-| 430 | 290 | Brian Woods |
-| 431 | 289 | Cindy |
-| 432 | 289 | Scrumptious |
+| 428 | 290 | Scrumptious |
+| 429 | 290 | Quiomarie Cotto |
+| 430 | 290 | LaTanya GeminiondaRise Johnson |
+| 431 | 290 | Brian Woods |
+| 432 | 289 | Cindy |
 | 433 | 289 | Chilly Pivot |
 | 434 | 289 | Jrr |
 | 435 | 289 | Jeri Anne Stormo-Toman |
@@ -485,13 +485,13 @@
 | 477 | 268 | Andreas Vs Shinky |
 | 478 | 268 | Teester |
 | 479 | 267 | Alyssa Berg |
-| 480 | 266 | Stacy G |
-| 481 | 265 | Dawn Marie Trujillo |
-| 482 | 265 | Denise Wilson |
-| 483 | 265 | Mrs |
-| 484 | 265 | ariel |
-| 485 | 264 | Chuck Burns |
-| 486 | 264 | Azahares Alonso |
+| 480 | 267 | ariel |
+| 481 | 266 | Stacy G |
+| 482 | 265 | Dawn Marie Trujillo |
+| 483 | 265 | Denise Wilson |
+| 484 | 265 | Mrs |
+| 485 | 264 | Azahares Alonso |
+| 486 | 264 | Chuck Burns |
 | 487 | 263 | Playa |
 | 488 | 262 | REPENT |
 | 489 | 262 | Garden Girlie |
@@ -499,13 +499,13 @@
 | 491 | 261 | Lee Ann Gibby |
 | 492 | 261 | Chris McBlockster |
 | 493 | 260 | Lady Dolphin |
-| 494 | 260 | Sarah Montagne Forsberg |
-| 495 | 260 | Silly Risegrid |
-| 496 | 259 | Tiffany Smith |
-| 497 | 259 | Jessica Peyton |
-| 498 | 259 | Valerie Silva |
-| 499 | 259 | Casey Thomas |
-| 500 | 259 | Jen Roe |
+| 494 | 260 | Silly Risegrid |
+| 495 | 260 | Sarah Montagne Forsberg |
+| 496 | 259 | Jen Roe |
+| 497 | 259 | Casey Thomas |
+| 498 | 259 | Tiffany Smith |
+| 499 | 259 | Jessica Peyton |
+| 500 | 259 | Valerie Silva |
 | 501 | 259 | Sandra Stark |
 | 502 | 259 | Hasty Dropzone |
 | 503 | 258 | Danny Frausto |
