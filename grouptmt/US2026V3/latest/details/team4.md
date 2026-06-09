@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 19:22:22 UTC
+# Standings for team4 as of 2026-06-09 19:22:44 UTC
 
 **Total Participants:** 2162
 
@@ -1135,24 +1135,24 @@
 | 1127 | 98 | Sunny Tiltbuilder |
 | 1128 | 98 | Jumpy Lifter |
 | 1129 | 98 | Chelsea Leigh Busch |
-| 1130 | 97 | Lateasha Wildman |
-| 1131 | 97 | Skylar Durk |
-| 1132 | 97 | Oc Tive |
-| 1133 | 97 | Limbo |
-| 1134 | 97 | Crystal Parker Bryant |
-| 1135 | 97 | Ashie |
-| 1136 | 96 | Bear Bair |
-| 1137 | 96 | JUNE |
-| 1138 | 96 | Tiffany Taylor |
-| 1139 | 96 | Smiley Wipeblock |
-| 1140 | 95 | LilithMoon |
-| 1141 | 95 | Hotstuff |
-| 1142 | 95 | Cheeky Dashy |
-| 1143 | 95 | John Ramos |
-| 1144 | 95 | Jasmine Griffin |
-| 1145 | 95 | Frisky Pusher |
-| 1146 | 95 | Hyper Balancepiece |
-| 1147 | 94 | Dapper Tiltpiece |
+| 1130 | 98 | Dapper Tiltpiece |
+| 1131 | 97 | Lateasha Wildman |
+| 1132 | 97 | Skylar Durk |
+| 1133 | 97 | Oc Tive |
+| 1134 | 97 | Limbo |
+| 1135 | 97 | Crystal Parker Bryant |
+| 1136 | 97 | Ashie |
+| 1137 | 96 | Bear Bair |
+| 1138 | 96 | JUNE |
+| 1139 | 96 | Tiffany Taylor |
+| 1140 | 96 | Smiley Wipeblock |
+| 1141 | 95 | LilithMoon |
+| 1142 | 95 | Hotstuff |
+| 1143 | 95 | Cheeky Dashy |
+| 1144 | 95 | John Ramos |
+| 1145 | 95 | Jasmine Griffin |
+| 1146 | 95 | Frisky Pusher |
+| 1147 | 95 | Hyper Balancepiece |
 | 1148 | 94 | Ronald Kent Hall |
 | 1149 | 94 | Elizabeth Ann Caro |
 | 1150 | 94 | Theo Stamps |

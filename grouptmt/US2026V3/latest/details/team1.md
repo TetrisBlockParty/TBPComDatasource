@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:22:22 UTC
+# Standings for team1 as of 2026-06-09 19:22:44 UTC
 
 **Total Participants:** 2105
 
@@ -71,8 +71,8 @@
 | 63 | 1768 | Blockhead |
 | 64 | 1767 | Moomoo |
 | 65 | 1642 | TAZ-MF-NIZIL |
-| 66 | 1616 | Jessica Roberts |
-| 67 | 1602 | Bre Maugh |
+| 66 | 1617 | Bre Maugh |
+| 67 | 1616 | Jessica Roberts |
 | 68 | 1567 | Eric Mcgaughy |
 | 69 | 1550 | Chris Caniglia |
 | 70 | 1545 | MamaBear |
@@ -112,8 +112,8 @@
 | 104 | 1164 | Tootsie Pop |
 | 105 | 1160 | KenpachisGirl |
 | 106 | 1149 | Jazzy Dashpiece |
-| 107 | 1145 | ELM |
-| 108 | 1145 | Robbie Cheeseman |
+| 107 | 1145 | Robbie Cheeseman |
+| 108 | 1145 | ELM |
 | 109 | 1121 | Lisa Müller |
 | 110 | 1120 | IamJust Neyamijah Washington Sr. |
 | 111 | 1091 | Richard Horton |
@@ -1035,23 +1035,23 @@
 | 1027 | 108 | Shanae Beasley |
 | 1028 | 107 | Andrew Harris |
 | 1029 | 107 | Corbin Henry |
-| 1030 | 107 | LaQuita White |
-| 1031 | 106 | Elizabeth Hopkins |
-| 1032 | 106 | Samona Mcculler |
-| 1033 | 106 | Elizabeth Green |
-| 1034 | 106 | Lively Strikesnap |
-| 1035 | 106 | Lawreniesha Burkley |
-| 1036 | 106 | NataAllDay |
+| 1030 | 107 | Alize |
+| 1031 | 107 | LaQuita White |
+| 1032 | 106 | Elizabeth Hopkins |
+| 1033 | 106 | Samona Mcculler |
+| 1034 | 106 | Elizabeth Green |
+| 1035 | 106 | Lively Strikesnap |
+| 1036 | 106 | Lawreniesha Burkley |
 | 1037 | 106 | Pharen Oneofakind Frazier |
-| 1038 | 105 | Nikkizz |
-| 1039 | 105 | Michael Smith |
-| 1040 | 105 | Ja'mice Nelson |
-| 1041 | 105 | Jack Mehof |
-| 1042 | 105 | Maria |
-| 1043 | 105 | Angie Lebron |
-| 1044 | 104 | midnightxtoker |
-| 1045 | 104 | Melanin Monroe-Dandridge |
-| 1046 | 104 | Alize |
+| 1038 | 106 | NataAllDay |
+| 1039 | 105 | Nikkizz |
+| 1040 | 105 | Michael Smith |
+| 1041 | 105 | Ja'mice Nelson |
+| 1042 | 105 | Jack Mehof |
+| 1043 | 105 | Maria |
+| 1044 | 105 | Angie Lebron |
+| 1045 | 104 | midnightxtoker |
+| 1046 | 104 | Melanin Monroe-Dandridge |
 | 1047 | 104 | Cheery T-spin |
 | 1048 | 104 | blockman |
 | 1049 | 104 | Ahvae Lee |
@@ -1070,11 +1070,11 @@
 | 1062 | 101 | Wacky Wipepiece |
 | 1063 | 101 | Brave Gridmatch |
 | 1064 | 101 | tk |
-| 1065 | 100 | Smøke DGAF |
+| 1065 | 100 | Phillip White |
 | 1066 | 100 | Bunnie Celtavini |
 | 1067 | 100 | TNT |
-| 1068 | 100 | Phillip White |
-| 1069 | 100 | Thomas Pearson |
+| 1068 | 100 | Thomas Pearson |
+| 1069 | 100 | Smøke DGAF |
 | 1070 | 100 | Keith Big-Sixx Mackell |
 | 1071 | 100 | Oldheads |
 | 1072 | 100 | BigMike |
