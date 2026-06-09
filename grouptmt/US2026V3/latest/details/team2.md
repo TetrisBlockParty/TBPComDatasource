@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:58:43 UTC
+# Standings for team2 as of 2026-06-09 07:59:21 UTC
 
 **Total Participants:** 2444
 
@@ -124,8 +124,8 @@
 | 116 | 1181 | Jason Cook |
 | 117 | 1161 | snowwol |
 | 118 | 1145 | Cathy Tippett |
-| 119 | 1126 | Jazzy Faller |
-| 120 | 1125 | Melissa Thomas |
+| 119 | 1142 | Melissa Thomas |
+| 120 | 1126 | Jazzy Faller |
 | 121 | 1115 | Ricardo Ewart |
 | 122 | 1072 | Julie Renee Bertram |
 | 123 | 1069 | Jeska Gaines |
@@ -233,21 +233,21 @@
 | 225 | 588 | Jat |
 | 226 | 587 | Kevin Mccoy |
 | 227 | 583 | Lisa Underwood Desmond |
-| 228 | 579 | Robin G |
-| 229 | 578 | Jenni LeBlanc |
-| 230 | 577 | Lindsay Klemp |
-| 231 | 576 | Mookshake |
-| 232 | 576 | Breeana Bennett |
-| 233 | 574 | Brandy McCune Reep |
-| 234 | 574 | meg |
-| 235 | 573 | Chirpy Grid |
-| 236 | 573 | Jennifer Smith |
-| 237 | 572 | Vistabrat |
-| 238 | 570 | Ashley Green |
-| 239 | 567 | Cool Balancer |
-| 240 | 565 | Zany Blockclear |
-| 241 | 564 | Chipper Stackbuilder |
-| 242 | 559 | Rachel Nilles |
+| 228 | 579 | Rachel Nilles |
+| 229 | 579 | Robin G |
+| 230 | 578 | Jenni LeBlanc |
+| 231 | 577 | Lindsay Klemp |
+| 232 | 576 | Mookshake |
+| 233 | 576 | Breeana Bennett |
+| 234 | 574 | Brandy McCune Reep |
+| 235 | 574 | meg |
+| 236 | 573 | Chirpy Grid |
+| 237 | 573 | Jennifer Smith |
+| 238 | 572 | Vistabrat |
+| 239 | 570 | Ashley Green |
+| 240 | 567 | Cool Balancer |
+| 241 | 565 | Zany Blockclear |
+| 242 | 564 | Chipper Stackbuilder |
 | 243 | 559 | Mom |
 | 244 | 559 | Pam Bauder Ludwig |
 | 245 | 558 | Kelly Rogers |
@@ -1080,63 +1080,63 @@
 | 1072 | 117 | Jessica Spivey Cooper |
 | 1073 | 117 | Jack |
 | 1074 | 116 | Jessica Rose Engebretson |
-| 1075 | 116 | Trisha Schneider |
-| 1076 | 116 | ASL |
-| 1077 | 116 | Frisky Linkmatch |
-| 1078 | 116 | Chill Clearbuilder |
-| 1079 | 116 | Jill Bobst Marple |
-| 1080 | 116 | Kendra Sullins |
-| 1081 | 115 | STARFIRE |
-| 1082 | 115 | Edward Conyers |
-| 1083 | 115 | Doris Bonin |
-| 1084 | 115 | D.j. Wingate |
-| 1085 | 115 | Ollie |
-| 1086 | 114 | YAKO |
-| 1087 | 114 | Miguel360 |
-| 1088 | 114 | JDub |
-| 1089 | 114 | Shannon Miller- Cooley |
-| 1090 | 114 | Amanda Jungclaus |
-| 1091 | 113 | Randy Taylor |
-| 1092 | 113 | Joffee Joffer |
-| 1093 | 113 | Wood |
-| 1094 | 113 | MJLovesHer#OneMistake |
-| 1095 | 112 | Arik DiLorenzo |
-| 1096 | 112 | Alimae |
-| 1097 | 112 | Squared |
-| 1098 | 112 | Kylee Pruitt |
-| 1099 | 112 | Yuhh |
-| 1100 | 112 | Carlee Becher |
-| 1101 | 112 | Kennadee Albertson |
-| 1102 | 112 | Cranky Zonebuilder |
-| 1103 | 111 | Belinda Head |
-| 1104 | 111 | Nikki Layman |
-| 1105 | 111 | WestieMom |
-| 1106 | 111 | Tetrismastrr |
-| 1107 | 111 | Linzy Ratliff |
-| 1108 | 110 | Signerlisa |
-| 1109 | 110 | Christina Reid |
-| 1110 | 110 | Lesley Stoeckle |
-| 1111 | 110 | Stephen Gillam |
-| 1112 | 110 | Michelle Fry-Cash |
-| 1113 | 110 | Rey Huber |
-| 1114 | 110 | Cool Balancer |
-| 1115 | 110 | Sandy Molina |
-| 1116 | 110 | Andrea Spinelli |
-| 1117 | 110 | Christina German |
-| 1118 | 110 | Tracy Coe |
-| 1119 | 110 | Susan Moyer |
-| 1120 | 110 | Deena-Neal Peryer |
-| 1121 | 110 | Ava Dorsch |
-| 1122 | 110 | Twisty Matcher |
-| 1123 | 109 | Kimberley Marie |
-| 1124 | 109 | Spicy Wrecker |
-| 1125 | 109 | Mariya Cline |
-| 1126 | 109 | Sandra Rotton Bragg |
-| 1127 | 108 | Purpleroyalty11 |
-| 1128 | 108 | Peppy Piececlear |
-| 1129 | 108 | build master |
-| 1130 | 108 | Swanky Twister |
-| 1131 | 108 | Brooke Marie Fox |
+| 1075 | 116 | MJLovesHer#OneMistake |
+| 1076 | 116 | Trisha Schneider |
+| 1077 | 116 | ASL |
+| 1078 | 116 | Frisky Linkmatch |
+| 1079 | 116 | Chill Clearbuilder |
+| 1080 | 116 | Jill Bobst Marple |
+| 1081 | 116 | Kendra Sullins |
+| 1082 | 115 | STARFIRE |
+| 1083 | 115 | Edward Conyers |
+| 1084 | 115 | Doris Bonin |
+| 1085 | 115 | D.j. Wingate |
+| 1086 | 115 | Ollie |
+| 1087 | 114 | YAKO |
+| 1088 | 114 | Miguel360 |
+| 1089 | 114 | JDub |
+| 1090 | 114 | Shannon Miller- Cooley |
+| 1091 | 114 | Amanda Jungclaus |
+| 1092 | 113 | Randy Taylor |
+| 1093 | 113 | Joffee Joffer |
+| 1094 | 113 | Wood |
+| 1095 | 112 | Yuhh |
+| 1096 | 112 | Carlee Becher |
+| 1097 | 112 | Kennadee Albertson |
+| 1098 | 112 | Cranky Zonebuilder |
+| 1099 | 112 | Arik DiLorenzo |
+| 1100 | 112 | Alimae |
+| 1101 | 112 | Squared |
+| 1102 | 112 | Kylee Pruitt |
+| 1103 | 111 | WestieMom |
+| 1104 | 111 | Tetrismastrr |
+| 1105 | 111 | Linzy Ratliff |
+| 1106 | 111 | Belinda Head |
+| 1107 | 111 | Nikki Layman |
+| 1108 | 110 | Cool Balancer |
+| 1109 | 110 | Sandy Molina |
+| 1110 | 110 | Andrea Spinelli |
+| 1111 | 110 | Christina German |
+| 1112 | 110 | Tracy Coe |
+| 1113 | 110 | Susan Moyer |
+| 1114 | 110 | Deena-Neal Peryer |
+| 1115 | 110 | Ava Dorsch |
+| 1116 | 110 | Twisty Matcher |
+| 1117 | 110 | Signerlisa |
+| 1118 | 110 | Christina Reid |
+| 1119 | 110 | Lesley Stoeckle |
+| 1120 | 110 | Stephen Gillam |
+| 1121 | 110 | Michelle Fry-Cash |
+| 1122 | 110 | Rey Huber |
+| 1123 | 109 | Sandra Rotton Bragg |
+| 1124 | 109 | Kimberley Marie |
+| 1125 | 109 | Spicy Wrecker |
+| 1126 | 109 | Mariya Cline |
+| 1127 | 108 | build master |
+| 1128 | 108 | Swanky Twister |
+| 1129 | 108 | Brooke Marie Fox |
+| 1130 | 108 | Purpleroyalty11 |
+| 1131 | 108 | Peppy Piececlear |
 | 1132 | 107 | Giggy Linkgrid |
 | 1133 | 107 | Carole Brown |
 | 1134 | 106 | Pamela Gambrell |
@@ -1426,40 +1426,40 @@
 | 1418 | 73 | Carrie Rutter-Bail |
 | 1419 | 73 | Yvonne Rodriguez |
 | 1420 | 73 | Joslyn Erickson |
-| 1421 | 73 | ElizaThornberry |
+| 1421 | 73 | Jason Janssen |
 | 1422 | 73 | Nikki Strawn |
-| 1423 | 73 | Jenica Davis |
+| 1423 | 73 | ElizaThornberry |
 | 1424 | 73 | Anita Blackshear |
-| 1425 | 73 | RalphyD |
-| 1426 | 73 | Sunny Spinzone |
-| 1427 | 73 | Elodie Deveyer |
-| 1428 | 72 | Aubrey Gates |
-| 1429 | 72 | Lively Liner |
-| 1430 | 72 | Linda Jeanne Knop |
-| 1431 | 72 | Stacy Lynn |
-| 1432 | 72 | Cozy Builder |
-| 1433 | 72 | Ryan |
-| 1434 | 71 | lols |
+| 1425 | 73 | Jenica Davis |
+| 1426 | 73 | RalphyD |
+| 1427 | 73 | Sunny Spinzone |
+| 1428 | 73 | Elodie Deveyer |
+| 1429 | 72 | Aubrey Gates |
+| 1430 | 72 | Lively Liner |
+| 1431 | 72 | Linda Jeanne Knop |
+| 1432 | 72 | Stacy Lynn |
+| 1433 | 72 | Cozy Builder |
+| 1434 | 72 | Ryan |
 | 1435 | 71 | Chey |
-| 1436 | 71 | Michelle Arnold |
+| 1436 | 71 | lols |
 | 1437 | 71 | Cindy Smith |
-| 1438 | 71 | Joey Grillo |
-| 1439 | 71 | Thomas Chris |
+| 1438 | 71 | Michelle Arnold |
+| 1439 | 71 | Joey Grillo |
 | 1440 | 71 | Crystal Whygle |
-| 1441 | 71 | Kacey Lindemuth |
-| 1442 | 71 | John C Morrison |
-| 1443 | 71 | Amy Walker |
-| 1444 | 71 | Pjrobinsonnn |
-| 1445 | 71 | Yari |
-| 1446 | 70 | Raffa |
-| 1447 | 70 | Fran Gerebics |
-| 1448 | 70 | Brittany Kay |
-| 1449 | 70 | Stephanie |
-| 1450 | 70 | Abby Dexter |
-| 1451 | 70 | FinnsDad |
-| 1452 | 70 | Rosie |
-| 1453 | 70 | Nanny t |
-| 1454 | 70 | Jason Janssen |
+| 1441 | 71 | Thomas Chris |
+| 1442 | 71 | Kacey Lindemuth |
+| 1443 | 71 | John C Morrison |
+| 1444 | 71 | Amy Walker |
+| 1445 | 71 | Pjrobinsonnn |
+| 1446 | 71 | Yari |
+| 1447 | 70 | Raffa |
+| 1448 | 70 | Fran Gerebics |
+| 1449 | 70 | Brittany Kay |
+| 1450 | 70 | Stephanie |
+| 1451 | 70 | Abby Dexter |
+| 1452 | 70 | FinnsDad |
+| 1453 | 70 | Rosie |
+| 1454 | 70 | Nanny t |
 | 1455 | 70 | Heather Hill Davidson |
 | 1456 | 70 | Louise LeBlanc |
 | 1457 | 70 | Alisha Kralicek Trainham |
