@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:34:44 UTC
+# Standings for team2 as of 2026-06-09 08:35:23 UTC
 
 **Total Participants:** 2445
 
@@ -607,14 +607,14 @@
 | 599 | 228 | Christy Diane Escobar |
 | 600 | 228 | Gina Louise Parker |
 | 601 | 228 | Nicky Steigerwalt |
-| 602 | 227 | Jennifer Leigh |
-| 603 | 227 | Alonzo Reed |
-| 604 | 227 | Laura Melton |
+| 602 | 227 | Alonzo Reed |
+| 603 | 227 | Laura Melton |
+| 604 | 227 | Jennifer Leigh |
 | 605 | 227 | Epic Tilemaker |
 | 606 | 227 | Jamie Adams |
 | 607 | 226 | Jodi Johnson |
-| 608 | 226 | Raymond Dawson |
-| 609 | 226 | Ava Speedy |
+| 608 | 226 | Ava Speedy |
+| 609 | 226 | Raymond Dawson |
 | 610 | 225 | Cheery Towerzone |
 | 611 | 225 | Zany Wrecker |
 | 612 | 225 | Katelyn Rodgers |
@@ -622,56 +622,56 @@
 | 614 | 224 | Carrie Smith Negron |
 | 615 | 224 | Mary Whitaker |
 | 616 | 222 | Marilyn Strickland |
-| 617 | 222 | Darla Ragsdale |
-| 618 | 222 | Stacy Shaunce |
-| 619 | 221 | Dhelsie Qurasima |
-| 620 | 221 | Reign Hustler |
-| 621 | 220 | Wendy McKee |
+| 617 | 222 | Mama G |
+| 618 | 222 | Darla Ragsdale |
+| 619 | 222 | Stacy Shaunce |
+| 620 | 221 | Dhelsie Qurasima |
+| 621 | 221 | Reign Hustler |
 | 622 | 220 | Brian Favre |
-| 623 | 220 | Joannah Capilitan |
-| 624 | 220 | Alycia Marie Zelensky |
-| 625 | 220 | Chris Christ |
-| 626 | 220 | Krystle L Coon |
-| 627 | 219 | Cindy Brown |
-| 628 | 219 | Rick |
-| 629 | 219 | Perky Linebuilder |
-| 630 | 218 | Julie Alexander Sykes |
+| 623 | 220 | Wendy McKee |
+| 624 | 220 | Joannah Capilitan |
+| 625 | 220 | Alycia Marie Zelensky |
+| 626 | 220 | Chris Christ |
+| 627 | 220 | Krystle L Coon |
+| 628 | 219 | Cindy Brown |
+| 629 | 219 | Rick |
+| 630 | 219 | Perky Linebuilder |
 | 631 | 218 | MamaRachel |
-| 632 | 218 | Seana Moran |
-| 633 | 218 | Wayne Johnson |
-| 634 | 217 | Mona Good |
-| 635 | 217 | Connie McCoy |
-| 636 | 217 | Melissa Fink |
+| 632 | 218 | Julie Alexander Sykes |
+| 633 | 218 | Seana Moran |
+| 634 | 218 | Wayne Johnson |
+| 635 | 217 | Mona Good |
+| 636 | 217 | Connie McCoy |
 | 637 | 217 | Spicy Snapclear |
-| 638 | 215 | Missy Renia |
-| 639 | 215 | Nerdy Gridlock |
-| 640 | 213 | s3lc4tr0n |
-| 641 | 213 | Kimberly Davis |
-| 642 | 213 | Becky Kennon |
-| 643 | 213 | Judy Burkhalter |
-| 644 | 213 | Mama G |
-| 645 | 213 | Mike Mordhorst |
+| 638 | 217 | Melissa Fink |
+| 639 | 215 | Missy Renia |
+| 640 | 215 | Nerdy Gridlock |
+| 641 | 213 | s3lc4tr0n |
+| 642 | 213 | Kimberly Davis |
+| 643 | 213 | Mike Mordhorst |
+| 644 | 213 | Judy Burkhalter |
+| 645 | 213 | Becky Kennon |
 | 646 | 212 | Holly Barefoot |
 | 647 | 211 | Edna Nena Cabrera |
 | 648 | 211 | Lazy Staggerpiece |
 | 649 | 210 | Zesty Dash |
-| 650 | 210 | Epic Framezone |
-| 651 | 210 | Ozge Akgun Tokat |
+| 650 | 210 | Ozge Akgun Tokat |
+| 651 | 210 | Epic Framezone |
 | 652 | 210 | Bouncy Snapmatch |
 | 653 | 210 | Busted9mm |
 | 654 | 209 | Nutty Dash |
 | 655 | 209 | Treau Torres |
 | 656 | 209 | Julibeth Wells |
-| 657 | 208 | Susie Conger |
-| 658 | 208 | Stephanie Smith Robinson |
+| 657 | 208 | Stephanie Smith Robinson |
+| 658 | 208 | Susie Conger |
 | 659 | 208 | Jennifer Wymer |
 | 660 | 208 | Giddy Climber |
 | 661 | 207 | Laurie |
 | 662 | 207 | Andrea Rawson |
 | 663 | 207 | Twisty Tower |
 | 664 | 207 | Quirky Shifter |
-| 665 | 207 | WhitS |
-| 666 | 207 | Bonita Alexander |
+| 665 | 207 | Bonita Alexander |
+| 666 | 207 | WhitS |
 | 667 | 206 | rebel4lyfe |
 | 668 | 206 | Amber Carpenter |
 | 669 | 205 | Tamara Whiteley |
@@ -683,10 +683,10 @@
 | 675 | 203 | Violet Olivares |
 | 676 | 203 | Heather Billodeau |
 | 677 | 202 | Hillary Frank |
-| 678 | 202 | Ashley Miller |
-| 679 | 202 | Mandy |
-| 680 | 202 | Kati Eckstein |
-| 681 | 202 | IncrediDragon |
+| 678 | 202 | Mandy |
+| 679 | 202 | Ashley Miller |
+| 680 | 202 | IncrediDragon |
+| 681 | 202 | Kati Eckstein |
 | 682 | 202 | Anzhen |
 | 683 | 201 | Mala Phonchanthasone |
 | 684 | 201 | Mary Carriere |
