@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:42:42 UTC
+# Standings for team1 as of 2026-06-09 07:43:22 UTC
 
 **Total Participants:** 2013
 
@@ -184,8 +184,8 @@
 | 176 | 599 | Zappy Riser |
 | 177 | 596 | Cj Gorman |
 | 178 | 584 | Novaa |
-| 179 | 583 | TT |
-| 180 | 583 | Block King |
+| 179 | 583 | Block King |
+| 180 | 583 | TT |
 | 181 | 581 | Michelle Titus |
 | 182 | 580 | Felicia Cain |
 | 183 | 577 | Randizzle |
@@ -193,47 +193,47 @@
 | 185 | 574 | DaVonte' Cretter |
 | 186 | 573 | Nobles Brandon |
 | 187 | 570 | Jamal Itzjusmall Chambers |
-| 188 | 569 | Zachary Colegrove |
-| 189 | 569 | Keke Ferguson |
-| 190 | 569 | Nina Davis |
-| 191 | 565 | LaToya Chambers |
-| 192 | 565 | IThinkNot |
+| 188 | 569 | Keke Ferguson |
+| 189 | 569 | Nina Davis |
+| 190 | 569 | Zachary Colegrove |
+| 191 | 565 | IThinkNot |
+| 192 | 565 | LaToya Chambers |
 | 193 | 563 | Wild Out Nai |
 | 194 | 562 | Yasmin Nakea Wright |
-| 195 | 559 | Tobey Marberry |
-| 196 | 559 | Sarah Clark |
+| 195 | 559 | Sarah Clark |
+| 196 | 559 | Tobey Marberry |
 | 197 | 553 | Sharon Cail |
 | 198 | 552 | Katherine Short |
 | 199 | 552 | Ty Øtg |
 | 200 | 549 | Shell Lewis |
-| 201 | 546 | Dee McCool |
-| 202 | 546 | Po Marley |
-| 203 | 536 | SPNLover24 |
-| 204 | 528 | xXEKUNXx |
-| 205 | 527 | Ebony |
-| 206 | 527 | MommaCia |
-| 207 | 525 | Tishauna Virgo |
-| 208 | 523 | DellaLucretia Thomas |
+| 201 | 546 | Po Marley |
+| 202 | 546 | Dee McCool |
+| 203 | 546 | TeeMaster Barber IsLyfe |
+| 204 | 536 | SPNLover24 |
+| 205 | 528 | xXEKUNXx |
+| 206 | 527 | Ebony |
+| 207 | 527 | MommaCia |
+| 208 | 525 | Tishauna Virgo |
 | 209 | 523 | Christopher Dreamsareality McEachin |
-| 210 | 520 | Dulo |
-| 211 | 520 | Spicy Risepiece |
-| 212 | 519 | Slinky Party |
-| 213 | 515 | David Fuentes |
-| 214 | 511 | Dizzy Dropper |
-| 215 | 507 | pooh |
+| 210 | 523 | DellaLucretia Thomas |
+| 211 | 520 | Dulo |
+| 212 | 520 | Spicy Risepiece |
+| 213 | 519 | Slinky Party |
+| 214 | 515 | David Fuentes |
+| 215 | 511 | Dizzy Dropper |
 | 216 | 507 | Tamara N Lee |
-| 217 | 506 | Tasha Jones |
+| 217 | 507 | pooh |
 | 218 | 506 | Telisha Mims |
 | 219 | 506 | Marie Wilson |
-| 220 | 505 | Marcheta Cervantez |
-| 221 | 501 | Joey Albright |
-| 222 | 498 | Julian Dickens Jr. |
-| 223 | 496 | Andre Sanon |
-| 224 | 494 | Antonia Wyche |
-| 225 | 491 | Mic Balew |
-| 226 | 490 | Lashawn Wallace |
-| 227 | 487 | GrkGdess |
-| 228 | 486 | TeeMaster Barber IsLyfe |
+| 220 | 506 | Tasha Jones |
+| 221 | 505 | Marcheta Cervantez |
+| 222 | 501 | Joey Albright |
+| 223 | 498 | Julian Dickens Jr. |
+| 224 | 496 | Andre Sanon |
+| 225 | 494 | Antonia Wyche |
+| 226 | 491 | Mic Balew |
+| 227 | 490 | Lashawn Wallace |
+| 228 | 487 | GrkGdess |
 | 229 | 481 | Giggy Clusterer |
 | 230 | 477 | Qwlonda Shirrell |
 | 231 | 476 | Roberta Lynn |
@@ -250,8 +250,8 @@
 | 242 | 458 | Jimmie Makia |
 | 243 | 456 | Cachet A Ward |
 | 244 | 455 | Tamara Johnson-Carter |
-| 245 | 453 | JaClanDiah |
-| 246 | 453 | Elizabeth Vega Coreano |
+| 245 | 453 | Elizabeth Vega Coreano |
+| 246 | 453 | JaClanDiah |
 | 247 | 452 | Kenny MrOnethousand Peck |
 | 248 | 451 | Penee Wiggins |
 | 249 | 451 | Simmone T. Kadiri |
@@ -1697,78 +1697,78 @@
 | 1689 | 21 | Frisky Linkblock |
 | 1690 | 21 | Nikki Cornelious Valentine |
 | 1691 | 21 | cupcake |
-| 1692 | 21 | Michelle Villasenor |
-| 1693 | 21 | Jädaa Laa'Destïnyy |
-| 1694 | 20 | Tiffany Thompson |
-| 1695 | 20 | Scoots |
-| 1696 | 20 | Tiffany Sherman |
-| 1697 | 20 | Chuck Gee |
-| 1698 | 20 | Chris Davidson |
-| 1699 | 20 | Otavia Gordon |
-| 1700 | 20 | Breezy Pivoty |
-| 1701 | 20 | That1Girl |
-| 1702 | 20 | Nikki Vaughn |
-| 1703 | 20 | Terry Golatte |
-| 1704 | 20 | Peachy Pusher |
-| 1705 | 20 | Jimel Fraser |
-| 1706 | 20 | LongLive Peace |
-| 1707 | 20 | prela |
-| 1708 | 20 | Tipsy Builderline |
-| 1709 | 20 | Cherise Thomas |
-| 1710 | 20 | Grace Page |
-| 1711 | 20 | Melody Means |
-| 1712 | 20 | DRIFTER |
-| 1713 | 20 | AllStar Woods |
-| 1714 | 20 | Dora Greer |
-| 1715 | 20 | Anthony D Holmes |
-| 1716 | 20 | Bryttani GoingPlaces Latimer |
-| 1717 | 20 | Cynthia Potter |
-| 1718 | 20 | Crafty Shatterfit |
-| 1719 | 20 | Deme |
-| 1720 | 20 | Daring Snaplink |
-| 1721 | 20 | Chummy Clearfit |
-| 1722 | 20 | SosaaCurry |
-| 1723 | 20 | Luna Lockwood |
-| 1724 | 20 | POOH |
-| 1725 | 20 | Kenneth Hefney |
-| 1726 | 20 | Andrea Watts |
-| 1727 | 19 | Narena Desertsong |
-| 1728 | 19 | Let Them |
-| 1729 | 19 | Trauma Loc |
-| 1730 | 19 | Toya Draine |
-| 1731 | 19 | kate |
-| 1732 | 19 | Zondria Barnes |
-| 1733 | 19 | Mrs . Candy |
-| 1734 | 19 | Leiacellaa23 |
-| 1735 | 19 | Dazee Rogers |
-| 1736 | 19 | Rosanna Ringold |
-| 1737 | 18 | Jolly Zoner |
-| 1738 | 18 | Andrea Jones |
-| 1739 | 18 | Poppy Pivot |
-| 1740 | 18 | VeLora GreenEyez Holt |
-| 1741 | 18 | Yeshanna Nicholson |
-| 1742 | 18 | Cheeky Tiltbuilder |
-| 1743 | 18 | Saucy Linkgrid |
-| 1744 | 18 | Naudia Hampton |
-| 1745 | 18 | Aliceia Gee |
-| 1746 | 18 | Keke |
-| 1747 | 18 | Raynell Mcfrazier |
-| 1748 | 18 | Anissa Williams |
-| 1749 | 18 | LadiGurl |
-| 1750 | 18 | linda m |
-| 1751 | 18 | MURLWORLD |
+| 1692 | 21 | LadiGurl |
+| 1693 | 21 | Michelle Villasenor |
+| 1694 | 21 | Jädaa Laa'Destïnyy |
+| 1695 | 20 | Tiffany Thompson |
+| 1696 | 20 | Scoots |
+| 1697 | 20 | Tiffany Sherman |
+| 1698 | 20 | Chuck Gee |
+| 1699 | 20 | Chris Davidson |
+| 1700 | 20 | Otavia Gordon |
+| 1701 | 20 | Breezy Pivoty |
+| 1702 | 20 | That1Girl |
+| 1703 | 20 | Nikki Vaughn |
+| 1704 | 20 | Terry Golatte |
+| 1705 | 20 | Peachy Pusher |
+| 1706 | 20 | Jimel Fraser |
+| 1707 | 20 | LongLive Peace |
+| 1708 | 20 | prela |
+| 1709 | 20 | Tipsy Builderline |
+| 1710 | 20 | Cherise Thomas |
+| 1711 | 20 | Grace Page |
+| 1712 | 20 | Melody Means |
+| 1713 | 20 | DRIFTER |
+| 1714 | 20 | AllStar Woods |
+| 1715 | 20 | Dora Greer |
+| 1716 | 20 | Anthony D Holmes |
+| 1717 | 20 | Deme |
+| 1718 | 20 | Andrea Watts |
+| 1719 | 20 | POOH |
+| 1720 | 20 | Luna Lockwood |
+| 1721 | 20 | SosaaCurry |
+| 1722 | 20 | Bryttani GoingPlaces Latimer |
+| 1723 | 20 | Crafty Shatterfit |
+| 1724 | 20 | Cynthia Potter |
+| 1725 | 20 | Daring Snaplink |
+| 1726 | 20 | Chummy Clearfit |
+| 1727 | 20 | Kenneth Hefney |
+| 1728 | 19 | Toya Draine |
+| 1729 | 19 | Narena Desertsong |
+| 1730 | 19 | Zondria Barnes |
+| 1731 | 19 | Dazee Rogers |
+| 1732 | 19 | Rosanna Ringold |
+| 1733 | 19 | Leiacellaa23 |
+| 1734 | 19 | kate |
+| 1735 | 19 | Mrs . Candy |
+| 1736 | 19 | Let Them |
+| 1737 | 19 | Trauma Loc |
+| 1738 | 18 | Keke |
+| 1739 | 18 | Anissa Williams |
+| 1740 | 18 | Raynell Mcfrazier |
+| 1741 | 18 | VeLora GreenEyez Holt |
+| 1742 | 18 | Jolly Zoner |
+| 1743 | 18 | Aliceia Gee |
+| 1744 | 18 | Poppy Pivot |
+| 1745 | 18 | Saucy Linkgrid |
+| 1746 | 18 | Yeshanna Nicholson |
+| 1747 | 18 | linda m |
+| 1748 | 18 | Andrea Jones |
+| 1749 | 18 | Cheeky Tiltbuilder |
+| 1750 | 18 | Naudia Hampton |
+| 1751 | 18 | Marie SheReady Harris |
 | 1752 | 18 | Laugh N Learn Tutoring |
 | 1753 | 18 | Una |
-| 1754 | 18 | Marie SheReady Harris |
-| 1755 | 17 | D Jay Camberos |
-| 1756 | 17 | QueenJerelene Figero |
-| 1757 | 17 | Coy Williams |
-| 1758 | 17 | Giggly Bouncer |
+| 1754 | 18 | MURLWORLD |
+| 1755 | 17 | CauliMac |
+| 1756 | 17 | Sue Boyce |
+| 1757 | 17 | Giggly Bouncer |
+| 1758 | 17 | D Jay Camberos |
 | 1759 | 17 | Party Pandad 3 |
 | 1760 | 17 | Wacky Riserpiece |
-| 1761 | 17 | CauliMac |
-| 1762 | 17 | Sue Boyce |
-| 1763 | 17 | Christina |
+| 1761 | 17 | Christina |
+| 1762 | 17 | Coy Williams |
+| 1763 | 17 | QueenJerelene Figero |
 | 1764 | 17 | Daron Montgomery |
 | 1765 | 17 | Demetria Thompson |
 | 1766 | 17 | Snappy Fall |

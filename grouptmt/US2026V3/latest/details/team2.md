@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:42:42 UTC
+# Standings for team2 as of 2026-06-09 07:43:22 UTC
 
 **Total Participants:** 2441
 
@@ -26,8 +26,8 @@
 | 18 | 7008 | Dapper Rollout |
 | 19 | 6876 | Christina Jambard Sampier |
 | 20 | 6607 | Bea Bee |
-| 21 | 6360 | Tim Ix |
-| 22 | 6195 | Tom Badgley |
+| 21 | 6395 | Tom Badgley |
+| 22 | 6360 | Tim Ix |
 | 23 | 6169 | Ber |
 | 24 | 6154 | Morgann McDaniel |
 | 25 | 6114 | Kathleen M Cox |
