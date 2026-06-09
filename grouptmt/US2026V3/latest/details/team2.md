@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 21:28:45 UTC
+# Standings for team2 as of 2026-06-09 21:29:21 UTC
 
 **Total Participants:** 2582
 
@@ -565,14 +565,14 @@
 | 557 | 291 | Spunky Piecebuilder |
 | 558 | 291 | Frisky Twist |
 | 559 | 290 | Amber Marie |
-| 560 | 290 | Meagan Grimmett Washburn |
-| 561 | 290 | Nichole Wilson |
-| 562 | 289 | Layla Petroff |
-| 563 | 289 | Analee Nicole Jones |
-| 564 | 288 | Sunny Tiltbuilder |
-| 565 | 288 | Peter Fogg |
-| 566 | 288 | Joanie Swann Ruiter |
-| 567 | 285 | Goofy Shatterbuilder |
+| 560 | 290 | Goofy Shatterbuilder |
+| 561 | 290 | Meagan Grimmett Washburn |
+| 562 | 290 | Nichole Wilson |
+| 563 | 289 | Layla Petroff |
+| 564 | 289 | Analee Nicole Jones |
+| 565 | 288 | Sunny Tiltbuilder |
+| 566 | 288 | Peter Fogg |
+| 567 | 288 | Joanie Swann Ruiter |
 | 568 | 285 | Katelyn Rodgers |
 | 569 | 285 | Susie Conger |
 | 570 | 284 | Audrey Wood |
@@ -1451,43 +1451,43 @@
 | 1443 | 88 | Missy Tubb Overly |
 | 1444 | 88 | Debra Patten |
 | 1445 | 88 | Smiley Clearer |
-| 1446 | 86 | Michelle Arnold |
-| 1447 | 86 | Chad Praytor |
-| 1448 | 86 | Jennifer Robinson |
-| 1449 | 86 | Alessandria Anderson |
-| 1450 | 86 | Charles Dwayne |
-| 1451 | 86 | Kristen Alta |
-| 1452 | 86 | Em |
-| 1453 | 86 | Jumpy Linkroll |
-| 1454 | 86 | Witty Clearbuilder |
-| 1455 | 85 | Mark Havens |
-| 1456 | 85 | Kaylyn Wickham |
-| 1457 | 85 | Daisy Girl |
-| 1458 | 85 | Cassafrass |
-| 1459 | 85 | Lexi Chouinard |
-| 1460 | 85 | Joanne Haynes |
-| 1461 | 85 | Cynthia Vornlocker |
-| 1462 | 85 | Rae Madewell |
-| 1463 | 85 | TyGur the Tony |
-| 1464 | 85 | James Moore |
-| 1465 | 85 | Hope Ramirez |
-| 1466 | 85 | Denise Baker |
-| 1467 | 84 | Jara Zavala |
-| 1468 | 84 | Dom D Davis |
-| 1469 | 84 | Chirpy Tower |
-| 1470 | 84 | Happy Wipeout |
-| 1471 | 84 | Katherine Crosby |
-| 1472 | 83 | Rachael Roberts |
-| 1473 | 83 | Jodee Woods |
-| 1474 | 83 | Chipper Blockroll |
-| 1475 | 83 | Cate Imel |
-| 1476 | 83 | Nikki Strawn |
-| 1477 | 83 | Cheery Blast |
-| 1478 | 83 | Amy Hahn Nickels |
-| 1479 | 83 | Kacey Lindemuth |
-| 1480 | 83 | Brandy McGuffey |
-| 1481 | 83 | Brandy Wallace |
-| 1482 | 83 | Courtney Elizabeth Hartnagel |
+| 1446 | 87 | Courtney Elizabeth Hartnagel |
+| 1447 | 86 | Jumpy Linkroll |
+| 1448 | 86 | Witty Clearbuilder |
+| 1449 | 86 | Michelle Arnold |
+| 1450 | 86 | Chad Praytor |
+| 1451 | 86 | Jennifer Robinson |
+| 1452 | 86 | Alessandria Anderson |
+| 1453 | 86 | Charles Dwayne |
+| 1454 | 86 | Kristen Alta |
+| 1455 | 86 | Em |
+| 1456 | 85 | Joanne Haynes |
+| 1457 | 85 | Cynthia Vornlocker |
+| 1458 | 85 | Rae Madewell |
+| 1459 | 85 | TyGur the Tony |
+| 1460 | 85 | James Moore |
+| 1461 | 85 | Hope Ramirez |
+| 1462 | 85 | Denise Baker |
+| 1463 | 85 | Mark Havens |
+| 1464 | 85 | Kaylyn Wickham |
+| 1465 | 85 | Daisy Girl |
+| 1466 | 85 | Cassafrass |
+| 1467 | 85 | Lexi Chouinard |
+| 1468 | 84 | Jara Zavala |
+| 1469 | 84 | Dom D Davis |
+| 1470 | 84 | Chirpy Tower |
+| 1471 | 84 | Happy Wipeout |
+| 1472 | 84 | Katherine Crosby |
+| 1473 | 83 | Rachael Roberts |
+| 1474 | 83 | Jodee Woods |
+| 1475 | 83 | Chipper Blockroll |
+| 1476 | 83 | Cate Imel |
+| 1477 | 83 | Nikki Strawn |
+| 1478 | 83 | Cheery Blast |
+| 1479 | 83 | Amy Hahn Nickels |
+| 1480 | 83 | Kacey Lindemuth |
+| 1481 | 83 | Brandy McGuffey |
+| 1482 | 83 | Brandy Wallace |
 | 1483 | 82 | Cardisa Hall |
 | 1484 | 82 | Jessica LeNeave |
 | 1485 | 82 | Amanda Gray Manlove |

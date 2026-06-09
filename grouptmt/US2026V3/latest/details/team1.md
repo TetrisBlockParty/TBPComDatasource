@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:28:45 UTC
+# Standings for team1 as of 2026-06-09 21:29:21 UTC
 
 **Total Participants:** 2113
 
@@ -473,63 +473,63 @@
 | 465 | 287 | Daniel Santana |
 | 466 | 287 | Stephen Glaze |
 | 467 | 287 | Charlene Baltimore |
-| 468 | 286 | Lyn Reed |
-| 469 | 286 | Juan Alvarez |
+| 468 | 286 | Shelly Everette |
+| 469 | 286 | Lyn Reed |
 | 470 | 286 | Zappy Clearfit |
-| 471 | 286 | Shelly Everette |
+| 471 | 286 | Juan Alvarez |
 | 472 | 286 | Saucy Faller |
 | 473 | 285 | EvaLynn NeCole |
 | 474 | 283 | Tosha Michelle |
-| 475 | 282 | Bambam |
+| 475 | 282 | Denisa Amazon Clark |
 | 476 | 282 | Perky Pusher |
-| 477 | 282 | C Lo Green |
-| 478 | 280 | Boldy Liner |
+| 477 | 282 | Bambam |
+| 478 | 282 | C Lo Green |
 | 479 | 280 | Teri Marie Clayton |
-| 480 | 279 | 신재호 |
-| 481 | 279 | Chandler Magee |
-| 482 | 279 | Slinky Clearzone |
-| 483 | 278 | Nona Harriel |
+| 480 | 280 | Boldy Liner |
+| 481 | 279 | 신재호 |
+| 482 | 279 | Chandler Magee |
+| 483 | 279 | Slinky Clearzone |
 | 484 | 278 | Latore Maxie |
-| 485 | 275 | Falisa Bell |
+| 485 | 278 | Nona Harriel |
 | 486 | 275 | Tonia Ramos |
-| 487 | 275 | Chris Sladoje |
-| 488 | 274 | FunTime |
+| 487 | 275 | Falisa Bell |
+| 488 | 275 | Chris Sladoje |
 | 489 | 274 | Christi Walker Patton |
-| 490 | 273 | Slinky Snapbuilder |
+| 490 | 274 | FunTime |
 | 491 | 273 | Vera Beckford |
-| 492 | 273 | Brittnay Wright |
-| 493 | 272 | Zany Breaker |
-| 494 | 271 | Jenni Hardman |
-| 495 | 269 | Stephanie L Jeffries Moultrie |
-| 496 | 269 | Aihpos |
-| 497 | 269 | Felicia Dungey |
-| 498 | 268 | Monica Tovar |
+| 492 | 273 | Slinky Snapbuilder |
+| 493 | 273 | Brittnay Wright |
+| 494 | 272 | Zany Breaker |
+| 495 | 271 | Jenni Hardman |
+| 496 | 269 | Felicia Dungey |
+| 497 | 269 | Stephanie L Jeffries Moultrie |
+| 498 | 269 | Aihpos |
 | 499 | 268 | Giddy Staggerpiece |
-| 500 | 267 | Bubbly Slammer |
+| 500 | 268 | Monica Tovar |
 | 501 | 267 | Kimmie Gargano |
-| 502 | 266 | Rebecca Jackson |
-| 503 | 266 | Jack Vlasak |
-| 504 | 266 | Valerie Alexander |
-| 505 | 264 | BonnieB |
+| 502 | 267 | Bubbly Slammer |
+| 503 | 266 | Rebecca Jackson |
+| 504 | 266 | Jack Vlasak |
+| 505 | 266 | Valerie Alexander |
 | 506 | 264 | Boldy Matchbuilder |
-| 507 | 263 | Kamilya Rembert |
-| 508 | 262 | Denisa Amazon Clark |
+| 507 | 264 | BonnieB |
+| 508 | 263 | Kamilya Rembert |
 | 509 | 261 | Angela Brown Babin |
-| 510 | 260 | Slinky Swipe |
-| 511 | 260 | Spotlight |
-| 512 | 260 | HS Arce |
-| 513 | 260 | Alyssa Rae |
+| 510 | 260 | Spotlight |
+| 511 | 260 | HS Arce |
+| 512 | 260 | Alyssa Rae |
+| 513 | 260 | Slinky Swipe |
 | 514 | 259 | Kimberly Linares Hernandez |
 | 515 | 259 | Mighty Dropper |
 | 516 | 258 | Breezy Catcher |
-| 517 | 257 | Twisty Brickfit |
-| 518 | 257 | Adrian Harris |
-| 519 | 257 | Abigail Newman Sweet |
-| 520 | 257 | Sarah Steckbauer |
+| 517 | 257 | Adrian Harris |
+| 518 | 257 | Twisty Brickfit |
+| 519 | 257 | Sarah Steckbauer |
+| 520 | 257 | Abigail Newman Sweet |
 | 521 | 256 | Dreamzzz |
 | 522 | 256 | Jessie N Michael Silvers |
-| 523 | 255 | James Bryant II |
-| 524 | 255 | Mister Reid |
+| 523 | 255 | Mister Reid |
+| 524 | 255 | James Bryant II |
 | 525 | 255 | Michelle Peters |
 | 526 | 254 | Brittany Sara Heldwein |
 | 527 | 253 | lizlizliz |
