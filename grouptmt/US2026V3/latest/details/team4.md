@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 11:56:46 UTC
+# Standings for team4 as of 2026-06-09 11:57:22 UTC
 
 **Total Participants:** 2094
 
@@ -25,7 +25,7 @@
 | 17 | 6636 | delilahbelle |
 | 18 | 6254 | Anna Moses |
 | 19 | 6121 | Nia Mayfield |
-| 20 | 5898 | Bubbly Twistpiece |
+| 20 | 5908 | Bubbly Twistpiece |
 | 21 | 5854 | Senor Moppy |
 | 22 | 5552 | Tyra Brooke Everman Forest |
 | 23 | 5113 | Squirrel Donkey |
@@ -202,11 +202,11 @@
 | 194 | 563 | QueenLi86 |
 | 195 | 555 | Julian Gasque |
 | 196 | 555 | Janet Sanfilippo Sullivan |
-| 197 | 554 | Jennifer Ellyn Sheets |
-| 198 | 552 | Principal Liz |
-| 199 | 551 | Alma López Morales |
-| 200 | 550 | Magz |
-| 201 | 549 | Scamp Jones |
+| 197 | 554 | Scamp Jones |
+| 198 | 554 | Jennifer Ellyn Sheets |
+| 199 | 552 | Principal Liz |
+| 200 | 551 | Alma López Morales |
+| 201 | 550 | Magz |
 | 202 | 544 | Boldy Rumbler |
 | 203 | 543 | Kelly Howland |
 | 204 | 540 | Anthony Magaraci |
@@ -412,23 +412,23 @@
 | 404 | 284 | Groovy Towerbuilder |
 | 405 | 283 | Dizzy Slammer |
 | 406 | 282 | Homie |
-| 407 | 282 | Ross Bryant |
-| 408 | 282 | Breezy Blockzone |
-| 409 | 281 | Lively Blockpiece |
-| 410 | 281 | Margie Thomas |
-| 411 | 281 | Maricela Joslin |
-| 412 | 280 | Giddy Basepiece |
-| 413 | 280 | Cool Risepiece |
-| 414 | 280 | Snazzy Fitclear |
-| 415 | 279 | JoAnn Summerlot Ratliff |
-| 416 | 279 | bollo |
+| 407 | 282 | Stasia |
+| 408 | 282 | Ross Bryant |
+| 409 | 282 | Breezy Blockzone |
+| 410 | 281 | Lively Blockpiece |
+| 411 | 281 | Margie Thomas |
+| 412 | 281 | Maricela Joslin |
+| 413 | 280 | Giddy Basepiece |
+| 414 | 280 | Cool Risepiece |
+| 415 | 280 | Snazzy Fitclear |
+| 416 | 279 | JoAnn Summerlot Ratliff |
 | 417 | 279 | tj |
-| 418 | 277 | Nerdy Faller |
-| 419 | 276 | Joab Gonzalez |
-| 420 | 274 | Zesty Twistpiece |
-| 421 | 274 | Dominique Melendez |
-| 422 | 273 | Snazzy Corner |
-| 423 | 273 | Stasia |
+| 418 | 279 | bollo |
+| 419 | 277 | Nerdy Faller |
+| 420 | 276 | Joab Gonzalez |
+| 421 | 274 | Zesty Twistpiece |
+| 422 | 274 | Dominique Melendez |
+| 423 | 273 | Snazzy Corner |
 | 424 | 273 | Kierra Evans |
 | 425 | 272 | J.Wo |
 | 426 | 271 | Winter Moon |
@@ -767,92 +767,92 @@
 | 759 | 152 | All knowing |
 | 760 | 152 | Destiny Starr LeValdo |
 | 761 | 151 | Charlene Nicole Guidry |
-| 762 | 150 | Breezy Brickfit |
+| 762 | 150 | Alicia Blunt |
 | 763 | 150 | Kimberly Lusk |
-| 764 | 150 | Alicia Blunt |
-| 765 | 150 | Nikki |
+| 764 | 150 | Nikki |
+| 765 | 150 | Breezy Brickfit |
 | 766 | 150 | Kristal |
 | 767 | 149 | Paula Renee McCracken |
 | 768 | 149 | Heidi Hala |
 | 769 | 149 | Fancy Tilefall |
-| 770 | 149 | Debby Muniz |
-| 771 | 149 | Emily Lowe |
+| 770 | 149 | Emily Lowe |
+| 771 | 149 | Debby Muniz |
 | 772 | 148 | Latisha TeTe Williams |
-| 773 | 148 | Lamont |
-| 774 | 148 | mikey moo |
-| 775 | 148 | Amy Gutierrez |
-| 776 | 148 | Diqthot |
-| 777 | 147 | bofe |
+| 773 | 148 | Amy Gutierrez |
+| 774 | 148 | Lamont |
+| 775 | 148 | Diqthot |
+| 776 | 148 | mikey moo |
+| 777 | 147 | Daring Patternblock |
 | 778 | 147 | Chass Hudson |
-| 779 | 147 | Daring Patternblock |
+| 779 | 147 | bofe |
 | 780 | 147 | La Ah Ox |
 | 781 | 147 | David Lay |
 | 782 | 147 | Surviving Be Back Soon |
-| 783 | 146 | Jasmine Marie |
-| 784 | 146 | Joshua Hunt |
-| 785 | 146 | Lady |
-| 786 | 146 | Lori Lynn |
-| 787 | 146 | Happy Filler |
-| 788 | 145 | Jeff Seymour |
+| 783 | 146 | Joshua Hunt |
+| 784 | 146 | Lady |
+| 785 | 146 | Lori Lynn |
+| 786 | 146 | Jasmine Marie |
+| 787 | 146 | Mone DyTorrion Zyan Lotts |
+| 788 | 146 | Happy Filler |
 | 789 | 145 | Kenny Nguyen |
-| 790 | 145 | Shirley A. Godfrey |
-| 791 | 145 | Bren70 |
-| 792 | 145 | MsChelleAnn |
-| 793 | 145 | Jazzy Rollout |
-| 794 | 144 | Neeta Kapadia |
-| 795 | 144 | GingaNinja |
-| 796 | 144 | Dizzy |
-| 797 | 143 | Lizzzzzz |
+| 790 | 145 | MsChelleAnn |
+| 791 | 145 | Jazzy Rollout |
+| 792 | 145 | Jeff Seymour |
+| 793 | 145 | Shirley A. Godfrey |
+| 794 | 145 | Bren70 |
+| 795 | 144 | Neeta Kapadia |
+| 796 | 144 | GingaNinja |
+| 797 | 144 | Dizzy |
 | 798 | 143 | Erika Rubio |
-| 799 | 142 | Melissa Schwager |
-| 800 | 141 | Phredda Helene Gavornik |
-| 801 | 141 | Aaron Turner |
-| 802 | 141 | Audrianna Skaff |
-| 803 | 141 | Laryssia Taylor |
-| 804 | 141 | Miguel Teixeira |
-| 805 | 141 | Ginny |
-| 806 | 140 | Heather Brown |
-| 807 | 140 | Sha Ta Nay Mitchell |
+| 799 | 143 | Lizzzzzz |
+| 800 | 142 | Melissa Schwager |
+| 801 | 141 | Ginny |
+| 802 | 141 | Laryssia Taylor |
+| 803 | 141 | Aaron Turner |
+| 804 | 141 | Phredda Helene Gavornik |
+| 805 | 141 | Miguel Teixeira |
+| 806 | 141 | Audrianna Skaff |
+| 807 | 140 | Heather Brown |
 | 808 | 140 | Allysonjo Varela |
-| 809 | 140 | Justin Sercu |
-| 810 | 140 | Krista Diaz |
-| 811 | 140 | Nerdy Brickster |
-| 812 | 140 | Aim Georgia Bros Scott |
+| 809 | 140 | Sha Ta Nay Mitchell |
+| 810 | 140 | Nerdy Brickster |
+| 811 | 140 | Justin Sercu |
+| 812 | 140 | Krista Diaz |
 | 813 | 140 | Jenn Wilson |
-| 814 | 139 | Freddy-B |
-| 815 | 139 | Clever Blockbuilder |
-| 816 | 139 | Loony Edge |
-| 817 | 138 | Tammy Lasseigne |
-| 818 | 138 | Ami Ferguson |
-| 819 | 138 | Suzi Smas |
-| 820 | 137 | Ashley McGeehan |
-| 821 | 137 | Mone DyTorrion Zyan Lotts |
+| 814 | 140 | Aim Georgia Bros Scott |
+| 815 | 139 | Freddy-B |
+| 816 | 139 | Clever Blockbuilder |
+| 817 | 139 | Loony Edge |
+| 818 | 138 | Tammy Lasseigne |
+| 819 | 138 | Ami Ferguson |
+| 820 | 138 | Suzi Smas |
+| 821 | 137 | TheazO |
 | 822 | 137 | YenSid |
-| 823 | 137 | Leslie Ramos |
-| 824 | 137 | MattJennifer Marie Ericson |
-| 825 | 137 | TheazO |
-| 826 | 135 | Jennifer Terrill |
+| 823 | 137 | Ashley McGeehan |
+| 824 | 137 | Leslie Ramos |
+| 825 | 137 | MattJennifer Marie Ericson |
+| 826 | 135 | Kimberly Devon |
 | 827 | 135 | Ajohnna Frazee |
-| 828 | 135 | Kimberly Devon |
+| 828 | 135 | Jennifer Terrill |
 | 829 | 135 | Tactical_B |
-| 830 | 134 | Kiki Moore |
-| 831 | 134 | Dandy Linkgrid |
-| 832 | 134 | Breezy Rollfit |
-| 833 | 134 | Deb 07 |
-| 834 | 134 | Kena T. Tanner |
-| 835 | 134 | Elisha Thompson |
+| 830 | 134 | Kena T. Tanner |
+| 831 | 134 | GETBOXED! |
+| 832 | 134 | Kiki Moore |
+| 833 | 134 | Wacky Brick |
+| 834 | 134 | Dandy Linkgrid |
+| 835 | 134 | Breezy Rollfit |
 | 836 | 134 | Honey |
-| 837 | 134 | Wacky Brick |
-| 838 | 134 | GETBOXED! |
-| 839 | 133 | Scalpel Causes Shambles |
-| 840 | 133 | Rebekah Anne Macias |
-| 841 | 133 | Sonia Cordero-Martinez |
-| 842 | 133 | Jumpy Brickline |
-| 843 | 133 | Domo Dpn |
+| 837 | 134 | Deb 07 |
+| 838 | 134 | Elisha Thompson |
+| 839 | 133 | Domo Dpn |
+| 840 | 133 | Michelle Wiles |
+| 841 | 133 | Renzo Tonini |
+| 842 | 133 | Electric Storm |
+| 843 | 133 | Scalpel Causes Shambles |
 | 844 | 133 | Erica Hardwick |
-| 845 | 133 | Renzo Tonini |
-| 846 | 133 | Electric Storm |
-| 847 | 133 | Michelle Wiles |
+| 845 | 133 | Rebekah Anne Macias |
+| 846 | 133 | Jumpy Brickline |
+| 847 | 133 | Sonia Cordero-Martinez |
 | 848 | 132 | Joe Andrews |
 | 849 | 132 | Lala |
 | 850 | 132 | William Brooks |

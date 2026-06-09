@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 11:56:46 UTC
+# Standings for team2 as of 2026-06-09 11:57:22 UTC
 
 **Total Participants:** 2478
 
@@ -372,11 +372,11 @@
 | 364 | 387 | Funway998 |
 | 365 | 387 | Jessica Lynn |
 | 366 | 387 | Zach Jewett |
-| 367 | 386 | Sandy Justus |
-| 368 | 385 | Pamela Raye |
-| 369 | 385 | Hypee |
-| 370 | 384 | Flashy Drop |
-| 371 | 384 | Samantha Bugg Stitcher |
+| 367 | 386 | Samantha Bugg Stitcher |
+| 368 | 386 | Sandy Justus |
+| 369 | 385 | Pamela Raye |
+| 370 | 385 | Hypee |
+| 371 | 384 | Flashy Drop |
 | 372 | 384 | DayDreamer79 |
 | 373 | 383 | Jenna Stahl |
 | 374 | 382 | Chummy Snapbuilder |
@@ -1532,25 +1532,25 @@
 | 1524 | 65 | Julie Lint |
 | 1525 | 65 | Kandy Comer |
 | 1526 | 65 | Wacky Drop |
-| 1527 | 65 | nogo |
-| 1528 | 65 | bigdog |
-| 1529 | 65 | Auntie YaYa |
-| 1530 | 64 | Emily |
-| 1531 | 64 | Darla |
-| 1532 | 64 | Michelle Naujalis |
-| 1533 | 64 | Lori Antrim Nichols |
-| 1534 | 64 | Epic Glide |
+| 1527 | 65 | Chipper Blockroll |
+| 1528 | 65 | nogo |
+| 1529 | 65 | bigdog |
+| 1530 | 65 | Auntie YaYa |
+| 1531 | 64 | Emily |
+| 1532 | 64 | Epic Glide |
+| 1533 | 64 | Michelle Naujalis |
+| 1534 | 64 | Lori Antrim Nichols |
 | 1535 | 64 | Liliana Mills |
-| 1536 | 64 | Pnda |
-| 1537 | 64 | Angela Anderson |
-| 1538 | 64 | Jodi Deninno |
-| 1539 | 63 | Silly Cluster |
+| 1536 | 64 | Darla |
+| 1537 | 64 | Pnda |
+| 1538 | 64 | Angela Anderson |
+| 1539 | 64 | Jodi Deninno |
 | 1540 | 63 | Bubbly Tilt |
 | 1541 | 63 | Bowling girl |
 | 1542 | 63 | Disguised Duck |
 | 1543 | 63 | AmyShea |
 | 1544 | 63 | Amy Hahn Nickels |
-| 1545 | 63 | Chipper Blockroll |
+| 1545 | 63 | Silly Cluster |
 | 1546 | 63 | Dani Newton |
 | 1547 | 62 | Alana Albritton Seals |
 | 1548 | 62 | Brittany Nichole Ellenburg |
