@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 11:10:45 UTC
+# Standings for team4 as of 2026-06-09 11:11:23 UTC
 
 **Total Participants:** 2092
 
@@ -1104,30 +1104,30 @@
 | 1096 | 90 | Monique Anne Edwards |
 | 1097 | 90 | Mystica |
 | 1098 | 90 | Melissa Elizabeth |
-| 1099 | 90 | Nancy McCalla Abercrombie |
+| 1099 | 90 | Jumpy Lifter |
 | 1100 | 90 | Волна Бог |
 | 1101 | 90 | Snappy Glidebuilder |
 | 1102 | 90 | Krissy Smith |
-| 1103 | 89 | Shiny Strikerbuilder |
-| 1104 | 89 | Lauren Zubia Sanchez |
-| 1105 | 89 | Ladybug |
-| 1106 | 89 | Catherine Garza |
-| 1107 | 89 | Khylee DarDar |
-| 1108 | 89 | Bon Jovi |
-| 1109 | 89 | Nicole Ambrose |
-| 1110 | 89 | Jumpy Lifter |
-| 1111 | 89 | Nachos |
+| 1103 | 90 | Nancy McCalla Abercrombie |
+| 1104 | 89 | Shiny Strikerbuilder |
+| 1105 | 89 | Lauren Zubia Sanchez |
+| 1106 | 89 | Ladybug |
+| 1107 | 89 | Catherine Garza |
+| 1108 | 89 | Khylee DarDar |
+| 1109 | 89 | Bon Jovi |
+| 1110 | 89 | Nachos |
+| 1111 | 89 | Nicole Ambrose |
 | 1112 | 88 | Ali Garcia |
-| 1113 | 88 | Happy Toast |
-| 1114 | 88 | Amowe |
-| 1115 | 88 | MrsAddams724 |
-| 1116 | 88 | Lateasha Wildman |
+| 1113 | 88 | MrsAddams724 |
+| 1114 | 88 | Happy Toast |
+| 1115 | 88 | Lateasha Wildman |
+| 1116 | 88 | Tbag |
 | 1117 | 88 | Musky Pits |
-| 1118 | 88 | Tbag |
+| 1118 | 88 | Amowe |
 | 1119 | 87 | Yournightmare |
-| 1120 | 87 | Audacious |
-| 1121 | 87 | Leslee Bentley DeLong |
-| 1122 | 87 | Seraphina |
+| 1120 | 87 | Leslee Bentley DeLong |
+| 1121 | 87 | Seraphina |
+| 1122 | 87 | Audacious |
 | 1123 | 87 | Jodi Haman-wheeler |
 | 1124 | 86 | Kami |
 | 1125 | 86 | Chelsea Leigh Busch |
