@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 04:20:20 UTC
+# Standings for team1 as of 2026-06-09 04:20:43 UTC
 
 **Total Participants:** 1980
 
@@ -148,8 +148,8 @@
 | 140 | 708 | De'Laonzeo Anthony |
 | 141 | 705 | Shontanese Adams |
 | 142 | 703 | Lesley Brunkus Cianfaglione |
-| 143 | 702 | Chuck Quarles |
-| 144 | 701 | Plucky Slamdrop |
+| 143 | 703 | Plucky Slamdrop |
+| 144 | 702 | Chuck Quarles |
 | 145 | 694 | Anthony Washington |
 | 146 | 693 | Andi McGreevy |
 | 147 | 692 | Chirpy Corner |
@@ -181,8 +181,8 @@
 | 173 | 577 | Randizzle |
 | 174 | 576 | Zappy Riser |
 | 175 | 576 | Jeffrey Barrows |
-| 176 | 574 | Eugina Slater |
-| 177 | 574 | DaVonte' Cretter |
+| 176 | 574 | DaVonte' Cretter |
+| 177 | 574 | Eugina Slater |
 | 178 | 573 | Nobles Brandon |
 | 179 | 570 | Jamal Itzjusmall Chambers |
 | 180 | 569 | Zachary Colegrove |
@@ -197,8 +197,8 @@
 | 189 | 552 | Katherine Short |
 | 190 | 550 | Block King |
 | 191 | 549 | Shell Lewis |
-| 192 | 546 | Dee McCool |
-| 193 | 546 | Po Marley |
+| 192 | 546 | Po Marley |
+| 193 | 546 | Dee McCool |
 | 194 | 527 | MommaCia |
 | 195 | 525 | Tishauna Virgo |
 | 196 | 523 | DellaLucretia Thomas |
@@ -233,41 +233,41 @@
 | 225 | 466 | Tootsie Pop |
 | 226 | 466 | Tessa Gaskin |
 | 227 | 465 | Natasha Rucker |
-| 228 | 462 | Jenna Renee |
-| 229 | 461 | Giggy Clusterer |
-| 230 | 460 | Tanya Clayton |
-| 231 | 458 | Jimmie Makia |
-| 232 | 456 | Cachet A Ward |
-| 233 | 455 | Tamara Johnson-Carter |
-| 234 | 453 | Elizabeth Vega Coreano |
-| 235 | 452 | Tina Mitchell |
-| 236 | 452 | Kenny MrOnethousand Peck |
-| 237 | 451 | Simmone T. Kadiri |
-| 238 | 451 | Penee Wiggins |
-| 239 | 450 | boogeywoogey |
-| 240 | 449 | Keke Ferguson |
+| 228 | 462 | Karebear |
+| 229 | 462 | Jenna Renee |
+| 230 | 461 | Giggy Clusterer |
+| 231 | 460 | Tanya Clayton |
+| 232 | 458 | Jimmie Makia |
+| 233 | 456 | Cachet A Ward |
+| 234 | 455 | Tamara Johnson-Carter |
+| 235 | 453 | Elizabeth Vega Coreano |
+| 236 | 452 | Tina Mitchell |
+| 237 | 452 | Kenny MrOnethousand Peck |
+| 238 | 451 | Simmone T. Kadiri |
+| 239 | 451 | Penee Wiggins |
+| 240 | 450 | boogeywoogey |
 | 241 | 449 | Ebony |
 | 242 | 449 | Qwlonda Shirrell |
-| 243 | 448 | Michael Bethezar |
-| 244 | 447 | Jazzy Fireflighters |
+| 243 | 449 | Keke Ferguson |
+| 244 | 448 | Michael Bethezar |
 | 245 | 447 | Rachael Bakowicz Edwards |
-| 246 | 445 | Karebear |
+| 246 | 447 | Jazzy Fireflighters |
 | 247 | 445 | JaClanDiah |
 | 248 | 444 | Latisha Fairley |
 | 249 | 444 | Kevin M. McGhee Jr |
-| 250 | 443 | Cheeky Pop |
-| 251 | 443 | Zippy Tilefall |
+| 250 | 443 | Zippy Tilefall |
+| 251 | 443 | Cheeky Pop |
 | 252 | 441 | Tessa Felice Hill |
 | 253 | 440 | Zippy Lifter |
 | 254 | 440 | Slinky Brickmatch |
 | 255 | 439 | Asani CHumba |
-| 256 | 436 | Leebo Slice |
-| 257 | 436 | Ann White |
+| 256 | 436 | Ann White |
+| 257 | 436 | Leebo Slice |
 | 258 | 435 | Clever Fitblock |
 | 259 | 434 | Choc |
-| 260 | 432 | Lashaunda |
-| 261 | 432 | Trina Greenwood |
-| 262 | 432 | Jessica Russell |
+| 260 | 432 | Jessica Russell |
+| 261 | 432 | Lashaunda |
+| 262 | 432 | Trina Greenwood |
 | 263 | 430 | Davionte DaeDae Hopson-Rodriguez |
 | 264 | 430 | Tarnisha Neicy Jones |
 | 265 | 426 | Chasem45 |
@@ -331,8 +331,8 @@
 | 323 | 340 | Christian Pham |
 | 324 | 338 | MamushiOh |
 | 325 | 337 | Desire Rice |
-| 326 | 334 | Dacia Hicks |
-| 327 | 334 | Still Ten Tay |
+| 326 | 335 | Still Ten Tay |
+| 327 | 334 | Dacia Hicks |
 | 328 | 332 | Simone Bailey |
 | 329 | 330 | Jhonny Maii |
 | 330 | 330 | Crystal Boyd |
@@ -599,11 +599,11 @@
 | 591 | 183 | Tushama Cheris Okraku |
 | 592 | 183 | Amihan |
 | 593 | 183 | Erika |
-| 594 | 182 | Spicy Shatterblock |
-| 595 | 182 | Comedian Prince Paul |
-| 596 | 182 | RylonJones |
-| 597 | 182 | Jimmy Shannon |
-| 598 | 182 | PSD |
+| 594 | 183 | PSD |
+| 595 | 182 | Spicy Shatterblock |
+| 596 | 182 | Comedian Prince Paul |
+| 597 | 182 | RylonJones |
+| 598 | 182 | Jimmy Shannon |
 | 599 | 181 | AnnaM |
 | 600 | 181 | Amy Villalpando |
 | 601 | 180 | Carolyn Smith |
@@ -1716,43 +1716,43 @@
 | 1708 | 19 | Rosanna Ringold |
 | 1709 | 19 | Narena Desertsong |
 | 1710 | 18 | Saucy Linkgrid |
-| 1711 | 18 | Catrina Zedd |
-| 1712 | 18 | Keke |
+| 1711 | 18 | Keke |
+| 1712 | 18 | Catrina Zedd |
 | 1713 | 18 | MURLWORLD |
 | 1714 | 18 | Laugh N Learn Tutoring |
-| 1715 | 18 | Aliceia Gee |
-| 1716 | 18 | Naudia Hampton |
-| 1717 | 18 | Yeshanna Nicholson |
-| 1718 | 18 | Marie SheReady Harris |
-| 1719 | 18 | Andrea Jones |
-| 1720 | 18 | Anissa Williams |
-| 1721 | 18 | Jolly Zoner |
-| 1722 | 18 | linda m |
-| 1723 | 18 | Raynell Mcfrazier |
-| 1724 | 18 | Poppy Pivot |
-| 1725 | 18 | Una |
-| 1726 | 18 | Cheeky Tiltbuilder |
-| 1727 | 18 | Cherita Copney |
-| 1728 | 17 | Coy Williams |
-| 1729 | 17 | Party Pandad 3 |
-| 1730 | 17 | Sue Boyce |
-| 1731 | 17 | Christina |
-| 1732 | 17 | law |
-| 1733 | 17 | Hyper Cluster |
-| 1734 | 17 | QueenJerelene Figero |
-| 1735 | 17 | Andre Rivera |
-| 1736 | 17 | Demetria Thompson |
-| 1737 | 17 | Daron Montgomery |
-| 1738 | 17 | Wacky Riserpiece |
-| 1739 | 17 | CauliMac |
-| 1740 | 16 | Dee-Dee Stewart |
+| 1715 | 18 | Naudia Hampton |
+| 1716 | 18 | Yeshanna Nicholson |
+| 1717 | 18 | Marie SheReady Harris |
+| 1718 | 18 | Andrea Jones |
+| 1719 | 18 | Anissa Williams |
+| 1720 | 18 | Jolly Zoner |
+| 1721 | 18 | linda m |
+| 1722 | 18 | Aliceia Gee |
+| 1723 | 18 | Cherita Copney |
+| 1724 | 18 | Raynell Mcfrazier |
+| 1725 | 18 | Poppy Pivot |
+| 1726 | 18 | Una |
+| 1727 | 18 | Cheeky Tiltbuilder |
+| 1728 | 17 | CauliMac |
+| 1729 | 17 | Hyper Cluster |
+| 1730 | 17 | Coy Williams |
+| 1731 | 17 | Daron Montgomery |
+| 1732 | 17 | Demetria Thompson |
+| 1733 | 17 | law |
+| 1734 | 17 | Christina |
+| 1735 | 17 | Sue Boyce |
+| 1736 | 17 | QueenJerelene Figero |
+| 1737 | 17 | Party Pandad 3 |
+| 1738 | 17 | Andre Rivera |
+| 1739 | 17 | Wacky Riserpiece |
+| 1740 | 16 | Giddy Twistslam |
 | 1741 | 16 | Daniel Jenkins |
-| 1742 | 16 | Hulk |
+| 1742 | 16 | Quirky Gridpiece |
 | 1743 | 16 | Sandra Buller |
-| 1744 | 16 | Giddy Twistslam |
-| 1745 | 16 | Quirky Gridpiece |
-| 1746 | 16 | Tabitha Burks |
-| 1747 | 16 | Marquel Coley |
+| 1744 | 16 | Hulk |
+| 1745 | 16 | Marquel Coley |
+| 1746 | 16 | Dee-Dee Stewart |
+| 1747 | 16 | Tabitha Burks |
 | 1748 | 16 | Crystal Ann |
 | 1749 | 16 | Desmond Bernard Street |
 | 1750 | 16 | Marcus Roberts |
@@ -1760,26 +1760,26 @@
 | 1752 | 16 | JahMilly19 |
 | 1753 | 16 | Zachary Sinclair |
 | 1754 | 16 | Cacinda Clark-Love |
-| 1755 | 16 | Tiffany Weathersby |
-| 1756 | 16 | LadiGurl |
-| 1757 | 15 | Annette DeLoatch Thompson |
-| 1758 | 15 | Joy Baker |
+| 1755 | 16 | BuildABlock007 |
+| 1756 | 16 | Tiffany Weathersby |
+| 1757 | 16 | LadiGurl |
+| 1758 | 15 | Annette DeLoatch Thompson |
 | 1759 | 15 | Kupaa Kanaka |
-| 1760 | 15 | Joe |
-| 1761 | 15 | Mrs . Candy |
-| 1762 | 15 | Musiq |
+| 1760 | 15 | Joy Baker |
+| 1761 | 15 | Joe |
+| 1762 | 15 | Mrs . Candy |
 | 1763 | 15 | Juanita Richmond |
-| 1764 | 15 | sweetkiafruit |
+| 1764 | 15 | Musiq |
 | 1765 | 15 | Wacky Towerer |
-| 1766 | 15 | pettymexoxo |
-| 1767 | 15 | Hasty Match |
-| 1768 | 15 | The Aries Vixen |
-| 1769 | 15 | Cool Rumbler |
-| 1770 | 15 | Breezy Bouncer |
-| 1771 | 15 | Mayra Diaz |
-| 1772 | 15 | Lit757 |
-| 1773 | 15 | Tami Spence |
-| 1774 | 15 | Frilly Rumbler |
+| 1766 | 15 | Tami Spence |
+| 1767 | 15 | Lit757 |
+| 1768 | 15 | Mayra Diaz |
+| 1769 | 15 | Hasty Match |
+| 1770 | 15 | The Aries Vixen |
+| 1771 | 15 | Cool Rumbler |
+| 1772 | 15 | Breezy Bouncer |
+| 1773 | 15 | Frilly Rumbler |
+| 1774 | 15 | pettymexoxo |
 | 1775 | 15 | Shamara Thurston |
 | 1776 | 15 | Chill Spinzone |
 | 1777 | 15 | QDeezy1906 |
@@ -1787,10 +1787,10 @@
 | 1779 | 15 | Chief block |
 | 1780 | 15 | Bri Lou |
 | 1781 | 15 | Moneke Randolph |
-| 1782 | 14 | Barbiebunz |
-| 1783 | 14 | BuildABlock007 |
+| 1782 | 15 | sweetkiafruit |
+| 1783 | 14 | Christopher Allan Petty II |
 | 1784 | 14 | Nena |
-| 1785 | 14 | Christopher Allan Petty II |
+| 1785 | 14 | Barbiebunz |
 | 1786 | 14 | Fancy Mover |
 | 1787 | 14 | Lynn Formby |
 | 1788 | 14 | Carmen Claudio |
