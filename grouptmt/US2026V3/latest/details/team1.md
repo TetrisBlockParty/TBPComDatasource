@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:00:43 UTC
+# Standings for team1 as of 2026-06-09 12:01:22 UTC
 
 **Total Participants:** 2039
 
@@ -74,8 +74,8 @@
 | 66 | 1484 | Danielle DeLozier Plesec |
 | 67 | 1478 | Angela R Wilson |
 | 68 | 1461 | Janet Cooke |
-| 69 | 1450 | Chenell Gillard |
-| 70 | 1441 | Sanjuro |
+| 69 | 1461 | Sanjuro |
+| 70 | 1450 | Chenell Gillard |
 | 71 | 1426 | LeeLee08 |
 | 72 | 1418 | Daylene Johannes |
 | 73 | 1411 | Blockhead |
@@ -144,7 +144,7 @@
 | 136 | 823 | Cee Emm |
 | 137 | 817 | Cathy Young |
 | 138 | 815 | Spunky Edgefit |
-| 139 | 806 | Kellie Hall |
+| 139 | 811 | Kellie Hall |
 | 140 | 799 | Shontanese Adams |
 | 141 | 797 | De'Laonzeo Anthony |
 | 142 | 793 | Rackemwillie34 |
@@ -230,21 +230,21 @@
 | 222 | 523 | Christopher Dreamsareality McEachin |
 | 223 | 520 | Dulo |
 | 224 | 519 | Slinky Party |
-| 225 | 511 | Dizzy Dropper |
-| 226 | 509 | Telisha Mims |
-| 227 | 506 | Marie Wilson |
-| 228 | 501 | Joey Albright |
-| 229 | 498 | Julian Dickens Jr. |
-| 230 | 496 | Andre Sanon |
-| 231 | 493 | Deveda Williams |
-| 232 | 491 | Mic Balew |
-| 233 | 490 | Lashawn Wallace |
-| 234 | 487 | GrkGdess |
-| 235 | 487 | Tamara Johnson-Carter |
-| 236 | 484 | Rhonda Williams Warner |
-| 237 | 477 | Qwlonda Shirrell |
-| 238 | 476 | Roberta Lynn |
-| 239 | 476 | BULLSEYE |
+| 225 | 516 | BULLSEYE |
+| 226 | 511 | Dizzy Dropper |
+| 227 | 509 | Telisha Mims |
+| 228 | 506 | Marie Wilson |
+| 229 | 501 | Joey Albright |
+| 230 | 498 | Julian Dickens Jr. |
+| 231 | 496 | Andre Sanon |
+| 232 | 493 | Deveda Williams |
+| 233 | 491 | Mic Balew |
+| 234 | 490 | Lashawn Wallace |
+| 235 | 487 | GrkGdess |
+| 236 | 487 | Tamara Johnson-Carter |
+| 237 | 484 | Rhonda Williams Warner |
+| 238 | 477 | Qwlonda Shirrell |
+| 239 | 476 | Roberta Lynn |
 | 240 | 475 | Kenny 'Tailormade' Boyd |
 | 241 | 475 | Slinky Brickmatch |
 | 242 | 473 | Nicole Watson-Dixon |
@@ -252,9 +252,9 @@
 | 244 | 467 | Tina Mitchell |
 | 245 | 466 | Tessa Gaskin |
 | 246 | 465 | Natasha Rucker |
-| 247 | 462 | Jessica Russell |
-| 248 | 462 | Jenna Renee |
-| 249 | 462 | Jhonny Maii |
+| 247 | 462 | Jhonny Maii |
+| 248 | 462 | Jessica Russell |
+| 249 | 462 | Jenna Renee |
 | 250 | 460 | Tanya Clayton |
 | 251 | 457 | Choc |
 | 252 | 456 | Cachet A Ward |
