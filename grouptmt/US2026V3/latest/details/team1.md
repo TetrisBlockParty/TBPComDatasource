@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 04:28:42 UTC
+# Standings for team1 as of 2026-06-09 04:29:21 UTC
 
 **Total Participants:** 1981
 
@@ -1589,108 +1589,108 @@
 | 1581 | 27 | Shaylyn Lockwood |
 | 1582 | 27 | Mighty Curver |
 | 1583 | 27 | katia |
-| 1584 | 27 | Manda Pecora |
-| 1585 | 27 | Linda Howard |
-| 1586 | 27 | Mariela J. Mazariegos |
-| 1587 | 27 | Taylor Keisha |
-| 1588 | 27 | Cheery Climber |
-| 1589 | 27 | Antoinette GallowayJohnson |
-| 1590 | 26 | Konkrete Pop |
-| 1591 | 26 | Emily Burgoon |
+| 1584 | 27 | Cheery Climber |
+| 1585 | 27 | Manda Pecora |
+| 1586 | 27 | Linda Howard |
+| 1587 | 27 | Mariela J. Mazariegos |
+| 1588 | 27 | Kennita Leach Woodard |
+| 1589 | 27 | Taylor Keisha |
+| 1590 | 27 | Antoinette GallowayJohnson |
+| 1591 | 26 | Chevonne Huggins |
 | 1592 | 26 | Tina Drake |
-| 1593 | 26 | Carlotta L Parker |
-| 1594 | 26 | Ana Torres |
-| 1595 | 26 | Jennifer Diamond |
+| 1593 | 26 | Emily Burgoon |
+| 1594 | 26 | Carlotta L Parker |
+| 1595 | 26 | Ana Torres |
 | 1596 | 26 | Laura Long |
 | 1597 | 26 | Marla |
 | 1598 | 26 | Teena K Macon |
-| 1599 | 26 | Chevonne Huggins |
-| 1600 | 26 | Lush Risebuilder |
-| 1601 | 26 | kaboom |
-| 1602 | 26 | jae |
-| 1603 | 26 | Layla Williams |
-| 1604 | 25 | Jashana Thomas |
-| 1605 | 25 | Jiff |
-| 1606 | 25 | Em Purvis |
-| 1607 | 25 | Ladii Ree |
-| 1608 | 25 | Anthony |
-| 1609 | 25 | Epic Puzzle |
-| 1610 | 25 | Pamela Cooper |
-| 1611 | 25 | Dinky da Don |
-| 1612 | 25 | Leonard R. Chanette |
-| 1613 | 25 | Lateef |
-| 1614 | 25 | RossA |
-| 1615 | 25 | Boldy Slammer |
-| 1616 | 25 | Regina Haygood |
-| 1617 | 25 | PennyCandee |
-| 1618 | 25 | Amanda Bell |
-| 1619 | 24 | Lively Stagger |
-| 1620 | 24 | Snazzy Shatterbuilder |
-| 1621 | 24 | BuddyLove37 |
-| 1622 | 24 | Brandon Knox |
-| 1623 | 24 | Andrea DeRoy |
-| 1624 | 24 | Null Kim |
-| 1625 | 24 | Kennita Leach Woodard |
-| 1626 | 24 | David Sk Vaughan Jr. |
-| 1627 | 24 | Crafty |
-| 1628 | 24 | Kris |
-| 1629 | 24 | Antoinette AugustusJones III |
-| 1630 | 24 | Peppy Shatterblock |
-| 1631 | 24 | TanB53 |
-| 1632 | 24 | Rekeia Minding Mine |
-| 1633 | 23 | Nika TaurustotheBone Turner |
+| 1599 | 26 | Konkrete Pop |
+| 1600 | 26 | Jennifer Diamond |
+| 1601 | 26 | Lush Risebuilder |
+| 1602 | 26 | kaboom |
+| 1603 | 26 | jae |
+| 1604 | 26 | Layla Williams |
+| 1605 | 25 | Jashana Thomas |
+| 1606 | 25 | Jiff |
+| 1607 | 25 | Em Purvis |
+| 1608 | 25 | Ladii Ree |
+| 1609 | 25 | Anthony |
+| 1610 | 25 | Epic Puzzle |
+| 1611 | 25 | Pamela Cooper |
+| 1612 | 25 | Dinky da Don |
+| 1613 | 25 | Leonard R. Chanette |
+| 1614 | 25 | Regina Haygood |
+| 1615 | 25 | Lateef |
+| 1616 | 25 | RossA |
+| 1617 | 25 | Boldy Slammer |
+| 1618 | 25 | PennyCandee |
+| 1619 | 25 | Amanda Bell |
+| 1620 | 24 | Lively Stagger |
+| 1621 | 24 | Antoinette AugustusJones III |
+| 1622 | 24 | Peppy Shatterblock |
+| 1623 | 24 | BuddyLove37 |
+| 1624 | 24 | Snazzy Shatterbuilder |
+| 1625 | 24 | Brandon Knox |
+| 1626 | 24 | Andrea DeRoy |
+| 1627 | 24 | Null Kim |
+| 1628 | 24 | Rekeia Minding Mine |
+| 1629 | 24 | TanB53 |
+| 1630 | 24 | David Sk Vaughan Jr. |
+| 1631 | 24 | Kris |
+| 1632 | 24 | Crafty |
+| 1633 | 23 | Jamie Lea Popp |
 | 1634 | 23 | Sassy Stack |
-| 1635 | 23 | Major314 |
-| 1636 | 23 | Tabitha Dupre-Allen |
-| 1637 | 23 | Genevieve Nieves |
-| 1638 | 23 | Nicolej |
-| 1639 | 23 | Shiny Zonebuilder |
+| 1635 | 23 | Nika TaurustotheBone Turner |
+| 1636 | 23 | Major314 |
+| 1637 | 23 | Tabitha Dupre-Allen |
+| 1638 | 23 | Brave Combofall |
+| 1639 | 23 | Nicolej |
 | 1640 | 23 | Charisse Johnson |
 | 1641 | 23 | Flashy Buildgrid |
-| 1642 | 23 | Livelovelaugh Ward |
-| 1643 | 23 | Lush Buildsnap |
-| 1644 | 23 | Jamie Lea Popp |
-| 1645 | 23 | Milfchaser530 |
-| 1646 | 23 | Brave Combofall |
-| 1647 | 22 | Jhinarra Walker |
+| 1642 | 23 | Shiny Zonebuilder |
+| 1643 | 23 | Livelovelaugh Ward |
+| 1644 | 23 | Genevieve Nieves |
+| 1645 | 23 | Lush Buildsnap |
+| 1646 | 23 | Milfchaser530 |
+| 1647 | 22 | Jazzy Drop |
 | 1648 | 22 | Mary M Craven |
 | 1649 | 22 | Chantelle Sweet |
-| 1650 | 22 | Jazzy Drop |
+| 1650 | 22 | Jhinarra Walker |
 | 1651 | 22 | Chipper Smasher |
 | 1652 | 22 | BADBOY658 |
 | 1653 | 22 | Alexis Farquer |
 | 1654 | 22 | ShayePooh |
 | 1655 | 22 | Queen Baby 5 |
 | 1656 | 21 | Nerdy Riser |
-| 1657 | 21 | Michelle Villasenor |
-| 1658 | 21 | Christy |
-| 1659 | 21 | Sanna Rose |
-| 1660 | 21 | cupcake |
+| 1657 | 21 | Christy |
+| 1658 | 21 | Sanna Rose |
+| 1659 | 21 | cupcake |
+| 1660 | 21 | Michelle Villasenor |
 | 1661 | 21 | Annette D Elliott |
 | 1662 | 21 | Boldy Zoner |
 | 1663 | 21 | PuddenPop |
 | 1664 | 21 | Dave Breaker |
-| 1665 | 21 | Lisamarie Fabre Cardona |
+| 1665 | 21 | Frisky Linkblock |
 | 1666 | 21 | Nissa |
 | 1667 | 21 | Cheeky Wipegrid |
-| 1668 | 21 | Frisky Linkblock |
+| 1668 | 21 | Lisamarie Fabre Cardona |
 | 1669 | 20 | Nikki Vaughn |
-| 1670 | 20 | Luna Lockwood |
+| 1670 | 20 | Tipsy Builderline |
 | 1671 | 20 | Pleasure |
-| 1672 | 20 | POOH |
-| 1673 | 20 | Crafty Shatterfit |
-| 1674 | 20 | Tipsy Builderline |
+| 1672 | 20 | Crafty Shatterfit |
+| 1673 | 20 | POOH |
+| 1674 | 20 | Luna Lockwood |
 | 1675 | 20 | Scoots |
 | 1676 | 20 | DRIFTER |
-| 1677 | 20 | Deme |
+| 1677 | 20 | Chris Davidson |
 | 1678 | 20 | Andrea Watts |
-| 1679 | 20 | Bryttani GoingPlaces Latimer |
-| 1680 | 20 | Chris Davidson |
+| 1679 | 20 | Deme |
+| 1680 | 20 | Bryttani GoingPlaces Latimer |
 | 1681 | 20 | AllStar Woods |
-| 1682 | 20 | LongLive Peace |
+| 1682 | 20 | Cynthia Potter |
 | 1683 | 20 | Charlean Sims |
-| 1684 | 20 | Cynthia Potter |
-| 1685 | 20 | Otavia Gordon |
+| 1684 | 20 | Otavia Gordon |
+| 1685 | 20 | LongLive Peace |
 | 1686 | 20 | Peachy Pusher |
 | 1687 | 20 | Grace Page |
 | 1688 | 20 | Breezy Pivoty |
