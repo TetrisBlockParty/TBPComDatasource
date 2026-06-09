@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 13:40:21 UTC
+# Standings for team2 as of 2026-06-09 13:40:46 UTC
 
 **Total Participants:** 2500
 
@@ -397,37 +397,37 @@
 | 389 | 374 | Crystal Poss |
 | 390 | 373 | Kim Hunt |
 | 391 | 373 | Hoppy Mover |
-| 392 | 371 | Marylin Eacker |
-| 393 | 370 | Loopy Tower |
-| 394 | 370 | Nicole Good |
-| 395 | 369 | Partin |
-| 396 | 369 | Elizabeth Henry |
-| 397 | 368 | Keri Mears |
-| 398 | 367 | Doowop40 |
-| 399 | 367 | Flashy Basegrid |
-| 400 | 365 | Wacky Dashfit |
-| 401 | 365 | Skye Ehret |
-| 402 | 364 | Amy Nicole McCanne |
-| 403 | 363 | Ashley Billiot Rhodes |
-| 404 | 362 | Dad |
-| 405 | 362 | Jessica Christine |
-| 406 | 361 | Brittney Williams |
-| 407 | 361 | Erica South |
-| 408 | 361 | Bianca Woodruff |
-| 409 | 359 | Amy Taylor Pomerenk |
-| 410 | 359 | Flashy Hitter |
-| 411 | 359 | TiffTaff |
-| 412 | 358 | Teresa Mandich |
-| 413 | 358 | Rob Owens |
-| 414 | 357 | Smiley Staggerpiece |
-| 415 | 356 | KayLynn Ogden McClelland |
-| 416 | 356 | Jimmy Francis Shasta Bambi |
-| 417 | 355 | Liseth Vasquez |
-| 418 | 355 | Boldy Wobbler |
-| 419 | 354 | Maria Ward |
-| 420 | 354 | andee |
-| 421 | 354 | Sarah Jane Gorsuch |
-| 422 | 351 | Kellie Montgomery |
+| 392 | 371 | Kellie Montgomery |
+| 393 | 371 | Marylin Eacker |
+| 394 | 370 | Loopy Tower |
+| 395 | 370 | Nicole Good |
+| 396 | 369 | Partin |
+| 397 | 369 | Elizabeth Henry |
+| 398 | 368 | Keri Mears |
+| 399 | 367 | Doowop40 |
+| 400 | 367 | Flashy Basegrid |
+| 401 | 365 | Wacky Dashfit |
+| 402 | 365 | Skye Ehret |
+| 403 | 364 | Amy Nicole McCanne |
+| 404 | 363 | Ashley Billiot Rhodes |
+| 405 | 362 | Dad |
+| 406 | 362 | Jessica Christine |
+| 407 | 361 | Brittney Williams |
+| 408 | 361 | Erica South |
+| 409 | 361 | Bianca Woodruff |
+| 410 | 359 | Amy Taylor Pomerenk |
+| 411 | 359 | Flashy Hitter |
+| 412 | 359 | TiffTaff |
+| 413 | 358 | Teresa Mandich |
+| 414 | 358 | Rob Owens |
+| 415 | 357 | Smiley Staggerpiece |
+| 416 | 356 | KayLynn Ogden McClelland |
+| 417 | 356 | Jimmy Francis Shasta Bambi |
+| 418 | 355 | Liseth Vasquez |
+| 419 | 355 | Boldy Wobbler |
+| 420 | 354 | Maria Ward |
+| 421 | 354 | andee |
+| 422 | 354 | Sarah Jane Gorsuch |
 | 423 | 350 | Marge Cromer |
 | 424 | 349 | Logan Duffey |
 | 425 | 348 | Sandra Ruiz |
@@ -481,11 +481,11 @@
 | 473 | 312 | Patria Osuoha |
 | 474 | 311 | Alyssa Malay |
 | 475 | 310 | Hannah Meadows Hammond |
-| 476 | 310 | Melmel |
-| 477 | 310 | Zappy Liney |
-| 478 | 309 | Martha Lynn Wiggins |
-| 479 | 309 | Elliott Mikila |
-| 480 | 309 | Robin Lamb |
+| 476 | 310 | Robin Lamb |
+| 477 | 310 | Melmel |
+| 478 | 310 | Zappy Liney |
+| 479 | 309 | Martha Lynn Wiggins |
+| 480 | 309 | Elliott Mikila |
 | 481 | 309 | Ever Chase |
 | 482 | 307 | Jennifer McClure |
 | 483 | 305 | Chummy Faller |
@@ -1145,10 +1145,10 @@
 | 1137 | 115 | Ollie |
 | 1138 | 114 | Twisty Snapmatch |
 | 1139 | 114 | Shannon Miller- Cooley |
-| 1140 | 114 | Kayla Faulkiner |
-| 1141 | 114 | Amanda Jungclaus |
-| 1142 | 114 | Miguel360 |
-| 1143 | 113 | Michelle Brown |
+| 1140 | 114 | Michelle Brown |
+| 1141 | 114 | Kayla Faulkiner |
+| 1142 | 114 | Amanda Jungclaus |
+| 1143 | 114 | Miguel360 |
 | 1144 | 113 | Wood |
 | 1145 | 113 | Joffee Joffer |
 | 1146 | 113 | Randy Taylor |
@@ -1686,8 +1686,8 @@
 | 1678 | 54 | Giggly Twisterfit |
 | 1679 | 54 | Crystal Lawson |
 | 1680 | 54 | Lisa |
-| 1681 | 54 | Vanessa King |
-| 1682 | 54 | Michelle Shemon |
+| 1681 | 54 | Michelle Shemon |
+| 1682 | 54 | Vanessa King |
 | 1683 | 53 | Topknot13 |
 | 1684 | 53 | Kimberly Rochon |
 | 1685 | 53 | Amy N Daniel Greene |
@@ -1704,10 +1704,10 @@
 | 1696 | 52 | Amanda Gray Manlove |
 | 1697 | 52 | Chrissy Hess |
 | 1698 | 52 | Suszi |
-| 1699 | 52 | Elroy Bond |
-| 1700 | 52 | 3RD LEG |
-| 1701 | 52 | Amy Renaud |
-| 1702 | 51 | Hope Ramirez |
+| 1699 | 52 | Hope Ramirez |
+| 1700 | 52 | Elroy Bond |
+| 1701 | 52 | 3RD LEG |
+| 1702 | 52 | Amy Renaud |
 | 1703 | 51 | haihai |
 | 1704 | 51 | Zippy Wobbler |
 | 1705 | 51 | Brandi Lynn Tumey |

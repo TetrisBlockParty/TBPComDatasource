@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 13:40:21 UTC
+# Standings for team1 as of 2026-06-09 13:40:46 UTC
 
 **Total Participants:** 2054
 
@@ -55,7 +55,7 @@
 | 47 | 2076 | April Inboden |
 | 48 | 2060 | Cherry Rose |
 | 49 | 1993 | JoJo |
-| 50 | 1958 | Jennifer To |
+| 50 | 1968 | Jennifer To |
 | 51 | 1931 | Ceilo Marie |
 | 52 | 1859 | Chris Russell |
 | 53 | 1854 | Robyn Caldwell |
@@ -517,72 +517,72 @@
 | 509 | 235 | Tracy Feyler |
 | 510 | 235 | Daring Blockclear |
 | 511 | 235 | nameno |
-| 512 | 234 | Chris Nelson |
-| 513 | 234 | wmedina67 |
-| 514 | 233 | Kala Miller |
-| 515 | 233 | Holly Baker |
+| 512 | 234 | wmedina67 |
+| 513 | 234 | Chris Nelson |
+| 514 | 233 | Holly Baker |
+| 515 | 233 | Kala Miller |
 | 516 | 232 | Monica Fields |
-| 517 | 231 | TieMs BHughez |
-| 518 | 231 | Breezy Catcher |
+| 517 | 231 | Breezy Catcher |
+| 518 | 231 | TieMs BHughez |
 | 519 | 230 | Jessica Kirby |
 | 520 | 229 | Jenni Hardman |
 | 521 | 228 | Matthieu Pistone |
 | 522 | 228 | Crystal Cheresnowsky |
-| 523 | 227 | Chris Holland |
-| 524 | 227 | Cynthia Cruell |
-| 525 | 226 | Kahliah Baker |
-| 526 | 226 | MonaSparks |
-| 527 | 226 | Monica Tovar |
-| 528 | 226 | Peppy Glider |
-| 529 | 225 | Sherri Keys |
-| 530 | 225 | Casey Chapman |
+| 523 | 227 | Cynthia Cruell |
+| 524 | 227 | Chris Holland |
+| 525 | 226 | Monica Tovar |
+| 526 | 226 | Peppy Glider |
+| 527 | 226 | MonaSparks |
+| 528 | 226 | Kahliah Baker |
+| 529 | 225 | Casey Chapman |
+| 530 | 225 | Sherri Keys |
 | 531 | 224 | Juan Santiago |
-| 532 | 223 | BB |
-| 533 | 223 | Heather Wilson |
-| 534 | 222 | Dede Tate |
-| 535 | 222 | Lazy Tiltpiece |
-| 536 | 222 | Hardtohandle91 |
-| 537 | 222 | AnnaM |
-| 538 | 222 | Clint Mcdowell |
-| 539 | 221 | Jack Vlasak |
-| 540 | 221 | De'Nell Edwards |
+| 532 | 223 | Heather Wilson |
+| 533 | 223 | BB |
+| 534 | 222 | AnnaM |
+| 535 | 222 | Clint Mcdowell |
+| 536 | 222 | Dede Tate |
+| 537 | 222 | Lazy Tiltpiece |
+| 538 | 222 | Hardtohandle91 |
+| 539 | 221 | De'Nell Edwards |
+| 540 | 221 | Jack Vlasak |
 | 541 | 221 | Rayshawn Cohen |
-| 542 | 221 | Terri Smart |
-| 543 | 220 | meatballs |
-| 544 | 220 | Rufus |
+| 542 | 221 | Earl Williams |
+| 543 | 221 | Terri Smart |
+| 544 | 220 | meatballs |
 | 545 | 220 | Cori Cleland |
 | 546 | 220 | Douglas Price |
-| 547 | 220 | Carolyn Smith |
-| 548 | 220 | Tonia Ramos |
-| 549 | 219 | Montréal Mars |
-| 550 | 219 | Ciera Peace |
-| 551 | 218 | Mommy Frank |
+| 547 | 220 | Rufus |
+| 548 | 220 | Carolyn Smith |
+| 549 | 220 | Tonia Ramos |
+| 550 | 219 | Montréal Mars |
+| 551 | 219 | Ciera Peace |
 | 552 | 218 | Teresa Yanira Cepeda |
-| 553 | 217 | BonnieB |
-| 554 | 217 | Louise Parker |
-| 555 | 217 | Marlainia Boyd |
+| 553 | 218 | Mommy Frank |
+| 554 | 217 | BonnieB |
+| 555 | 217 | Louise Parker |
 | 556 | 217 | Travis Davison |
-| 557 | 216 | Londa Londa |
+| 557 | 217 | Marlainia Boyd |
 | 558 | 216 | Aaron Hartmann |
-| 559 | 215 | Juan Lewis |
-| 560 | 215 | Perky Balancer |
-| 561 | 215 | MzJuice Box |
-| 562 | 215 | Yashica Smith |
-| 563 | 215 | toxictonic92 |
-| 564 | 214 | Nickeya Phillips |
-| 565 | 214 | Stephen Providenti |
-| 566 | 214 | PSD |
-| 567 | 213 | crumb bumc |
-| 568 | 213 | Nyhlah Patterson |
-| 569 | 212 | Daring Riserfit |
-| 570 | 212 | Simply-Beautiful007 |
-| 571 | 211 | Earl Williams |
+| 559 | 216 | Londa Londa |
+| 560 | 215 | toxictonic92 |
+| 561 | 215 | Juan Lewis |
+| 562 | 215 | Perky Balancer |
+| 563 | 215 | Yashica Smith |
+| 564 | 215 | MzJuice Box |
+| 565 | 214 | Nickeya Phillips |
+| 566 | 214 | Stephen Providenti |
+| 567 | 214 | PSD |
+| 568 | 213 | crumb bumc |
+| 569 | 213 | Nyhlah Patterson |
+| 570 | 212 | Daring Riserfit |
+| 571 | 212 | Simply-Beautiful007 |
 | 572 | 211 | Lynnette WheelerBushnell |
 | 573 | 210 | Abby |
 | 574 | 209 | Phillip Vasquez |
 | 575 | 209 | $hort Dog |
-| 576 | 208 | Nora Mahmoud |
-| 577 | 208 | Bella |
+| 576 | 208 | Bella |
+| 577 | 208 | Nora Mahmoud |
 | 578 | 208 | Soubletzy |
 | 579 | 208 | Juicy |
 | 580 | 208 | Kelley Johnson |
@@ -622,22 +622,22 @@
 | 614 | 200 | Jen Hallin |
 | 615 | 200 | Leavon Smith |
 | 616 | 200 | Karen Knapp |
-| 617 | 198 | Darrelle Short |
-| 618 | 198 | Shannon Carriger |
-| 619 | 198 | Rhianna Dinki Austin |
+| 617 | 198 | Rhianna Dinki Austin |
+| 618 | 198 | Darrelle Short |
+| 619 | 198 | Shannon Carriger |
 | 620 | 198 | Ashlie Mo |
-| 621 | 197 | Rachel Renae Bettis |
-| 622 | 197 | Joseph Vs Cap |
+| 621 | 197 | Joseph Vs Cap |
+| 622 | 197 | Rachel Renae Bettis |
 | 623 | 197 | Kyle Conley |
 | 624 | 197 | krd |
-| 625 | 196 | Stephanie Ellis |
-| 626 | 196 | whatever |
+| 625 | 196 | whatever |
+| 626 | 196 | Stephanie Ellis |
 | 627 | 196 | Coco |
 | 628 | 194 | Twisty Cascadeclear |
 | 629 | 194 | Betsy B. Yohan |
-| 630 | 193 | Kimberly Susan Privette |
-| 631 | 193 | Ameillia Boughner |
-| 632 | 193 | Tushama Cheris Okraku |
+| 630 | 193 | Ameillia Boughner |
+| 631 | 193 | Tushama Cheris Okraku |
+| 632 | 193 | Kimberly Susan Privette |
 | 633 | 192 | Donna Payne |
 | 634 | 192 | Cranky Fall |
 | 635 | 191 | Nona Harriel |
@@ -645,25 +645,25 @@
 | 637 | 191 | Miera Nicole |
 | 638 | 190 | Adrian Wilson |
 | 639 | 190 | Lester Malone |
-| 640 | 190 | Chipper Snapper |
-| 641 | 189 | TBabii24 |
-| 642 | 189 | The DUBZ |
-| 643 | 189 | Loopy Tiler |
-| 644 | 189 | Sean White |
-| 645 | 188 | Tangy Moore |
-| 646 | 188 | Zappy Snapgrid |
-| 647 | 188 | DeAngelo Sorrells |
-| 648 | 188 | Lynn |
-| 649 | 188 | Sarah Steckbauer |
-| 650 | 188 | Marbama |
-| 651 | 188 | Tyiesha Pie Farmer |
-| 652 | 187 | Lively Riserpiece |
-| 653 | 187 | Dana Hawes |
-| 654 | 187 | Loony Clearer |
-| 655 | 186 | Tiffany Conley |
-| 656 | 186 | Vannie G |
-| 657 | 186 | Spicy Shatterblock |
-| 658 | 185 | Victoria Smith |
+| 640 | 190 | Victoria Smith |
+| 641 | 190 | Chipper Snapper |
+| 642 | 189 | TBabii24 |
+| 643 | 189 | The DUBZ |
+| 644 | 189 | Loopy Tiler |
+| 645 | 189 | Sean White |
+| 646 | 188 | Tangy Moore |
+| 647 | 188 | Zappy Snapgrid |
+| 648 | 188 | DeAngelo Sorrells |
+| 649 | 188 | Lynn |
+| 650 | 188 | Sarah Steckbauer |
+| 651 | 188 | Marbama |
+| 652 | 188 | Tyiesha Pie Farmer |
+| 653 | 187 | Lively Riserpiece |
+| 654 | 187 | Dana Hawes |
+| 655 | 187 | Loony Clearer |
+| 656 | 186 | Tiffany Conley |
+| 657 | 186 | Vannie G |
+| 658 | 186 | Spicy Shatterblock |
 | 659 | 185 | Parris Wright |
 | 660 | 184 | Renee Marshall |
 | 661 | 183 | Shakuria Cortia Burney |
