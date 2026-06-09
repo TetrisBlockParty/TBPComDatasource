@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 17:16:43 UTC
+# Standings for team4 as of 2026-06-09 17:17:22 UTC
 
 **Total Participants:** 2144
 
@@ -366,13 +366,13 @@
 | 358 | 341 | Shawna Downey |
 | 359 | 340 | jojo |
 | 360 | 340 | Dan Butcher |
-| 361 | 338 | maria |
-| 362 | 338 | Maurice DeJean |
-| 363 | 337 | Giggly Tilt |
-| 364 | 337 | Brittany Lentz |
-| 365 | 333 | Merritt Brandt |
-| 366 | 332 | Karen Davis |
-| 367 | 329 | Groovy Towerbuilder |
+| 361 | 338 | Maurice DeJean |
+| 362 | 338 | maria |
+| 363 | 337 | Brittany Lentz |
+| 364 | 337 | Giggly Tilt |
+| 365 | 333 | Groovy Towerbuilder |
+| 366 | 333 | Merritt Brandt |
+| 367 | 332 | Karen Davis |
 | 368 | 329 | Tipsy Builderline |
 | 369 | 329 | DanceAngel |
 | 370 | 328 | Dizzy Slammer |
@@ -733,11 +733,11 @@
 | 725 | 173 | Justin Ballard |
 | 726 | 173 | Poseidon S Davenport |
 | 727 | 173 | Tarsha Thomas-Martinez |
-| 728 | 172 | Poptart |
-| 729 | 172 | Heather Garrity |
-| 730 | 171 | my my |
-| 731 | 171 | Erika Rubio |
-| 732 | 170 | Khiem Hernandez |
+| 728 | 172 | Khiem Hernandez |
+| 729 | 172 | Poptart |
+| 730 | 172 | Heather Garrity |
+| 731 | 171 | my my |
+| 732 | 171 | Erika Rubio |
 | 733 | 170 | Clever Brickzone |
 | 734 | 170 | Ricky Colvin |
 | 735 | 170 | LaRue Tee |
@@ -1118,19 +1118,19 @@
 | 1110 | 98 | Shiny Strikerbuilder |
 | 1111 | 98 | Snazzy Shatterfit |
 | 1112 | 98 | Chelsea Leigh Busch |
-| 1113 | 97 | Skylar Durk |
-| 1114 | 97 | Limbo |
-| 1115 | 97 | Oc Tive |
-| 1116 | 96 | JUNE |
-| 1117 | 96 | Smiley Wipeblock |
-| 1118 | 96 | Tiffany Taylor |
-| 1119 | 96 | Bear Bair |
-| 1120 | 96 | Steven Patshy |
-| 1121 | 95 | LilithMoon |
-| 1122 | 95 | Hyper Balancepiece |
-| 1123 | 95 | John Ramos |
-| 1124 | 95 | Frisky Pusher |
-| 1125 | 95 | Sunny Tiltbuilder |
+| 1113 | 98 | Sunny Tiltbuilder |
+| 1114 | 97 | Skylar Durk |
+| 1115 | 97 | Limbo |
+| 1116 | 97 | Oc Tive |
+| 1117 | 96 | JUNE |
+| 1118 | 96 | Smiley Wipeblock |
+| 1119 | 96 | Tiffany Taylor |
+| 1120 | 96 | Bear Bair |
+| 1121 | 96 | Steven Patshy |
+| 1122 | 95 | LilithMoon |
+| 1123 | 95 | Hyper Balancepiece |
+| 1124 | 95 | John Ramos |
+| 1125 | 95 | Frisky Pusher |
 | 1126 | 95 | Jasmine Griffin |
 | 1127 | 95 | Hotstuff |
 | 1128 | 95 | Marion Wade |
