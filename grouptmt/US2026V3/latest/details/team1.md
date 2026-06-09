@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:36:21 UTC
+# Standings for team1 as of 2026-06-09 20:36:46 UTC
 
 **Total Participants:** 2110
 
@@ -60,9 +60,9 @@
 | 52 | 1993 | JoJo |
 | 53 | 1939 | Corey Cawthon |
 | 54 | 1931 | Ceilo Marie |
-| 55 | 1914 | Robyn Caldwell |
-| 56 | 1898 | Blockhead |
-| 57 | 1892 | D'Andra Stewart |
+| 55 | 1922 | D'Andra Stewart |
+| 56 | 1914 | Robyn Caldwell |
+| 57 | 1898 | Blockhead |
 | 58 | 1874 | Markeeta Lipscomb |
 | 59 | 1871 | Helen Smith |
 | 60 | 1869 | Chris Russell |
