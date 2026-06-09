@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 13:04:46 UTC
+# Standings for team1 as of 2026-06-09 13:05:22 UTC
 
 **Total Participants:** 2047
 
@@ -128,8 +128,8 @@
 | 120 | 966 | Denise B |
 | 121 | 930 | Murg4dr01d |
 | 122 | 924 | Jaida De'Anne Cox |
-| 123 | 908 | Danielle Barthelme |
-| 124 | 899 | Slim Shedidthat |
+| 123 | 916 | Slim Shedidthat |
+| 124 | 908 | Danielle Barthelme |
 | 125 | 896 | Alana Renee |
 | 126 | 883 | Rolanda Williams |
 | 127 | 882 | Jon Gathers |
@@ -301,9 +301,9 @@
 | 293 | 413 | Curtis T Cirno |
 | 294 | 410 | Salim Thugger |
 | 295 | 409 | StingerD |
-| 296 | 404 | Calvin Green |
-| 297 | 403 | Bre Poston |
-| 298 | 400 | Koi |
+| 296 | 404 | Koi |
+| 297 | 404 | Calvin Green |
+| 298 | 403 | Bre Poston |
 | 299 | 400 | Denell Sims |
 | 300 | 400 | Coco |
 | 301 | 396 | Joana Thompson |
@@ -674,35 +674,35 @@
 | 666 | 179 | Loony Clearer |
 | 667 | 179 | Jes Marie |
 | 668 | 179 | Kike Lua |
-| 669 | 178 | Don Ray Mc |
-| 670 | 178 | Frilly Shatterline |
-| 671 | 177 | Tina Blessed Cage |
-| 672 | 176 | Frisky Gridder |
-| 673 | 176 | jeremy92 |
-| 674 | 176 | Callie Mae |
+| 669 | 178 | Frilly Shatterline |
+| 670 | 178 | Don Ray Mc |
+| 671 | 177 | Coco |
+| 672 | 177 | Tina Blessed Cage |
+| 673 | 176 | Callie Mae |
+| 674 | 176 | Frisky Gridder |
 | 675 | 176 | Squaw Ki Ng |
-| 676 | 175 | Poppy Twister |
-| 677 | 175 | Eric Machuca |
+| 676 | 176 | jeremy92 |
+| 677 | 175 | Poppy Twister |
 | 678 | 175 | DaemahnFriday |
-| 679 | 174 | Clipzby |
-| 680 | 174 | Nerdy Wipefit |
-| 681 | 173 | Claudia Price |
-| 682 | 173 | Mathew Trudell |
-| 683 | 173 | Kim Holzmiller |
-| 684 | 173 | Ashley Monet Terrell |
-| 685 | 172 | MrsDontPlay |
-| 686 | 172 | Ozell Jones Jr. |
-| 687 | 171 | Ta'Kaiyah M. Spann |
-| 688 | 171 | Locke Mahal LD |
-| 689 | 170 | meatballs |
+| 679 | 175 | Eric Machuca |
+| 680 | 174 | Clipzby |
+| 681 | 174 | Nerdy Wipefit |
+| 682 | 173 | Ashley Monet Terrell |
+| 683 | 173 | Mathew Trudell |
+| 684 | 173 | Kim Holzmiller |
+| 685 | 173 | Claudia Price |
+| 686 | 172 | MrsDontPlay |
+| 687 | 172 | Ozell Jones Jr. |
+| 688 | 171 | Ta'Kaiyah M. Spann |
+| 689 | 171 | Locke Mahal LD |
 | 690 | 170 | Devron Reedy |
-| 691 | 170 | Christi Walker Patton |
-| 692 | 169 | Cheryl Miller |
+| 691 | 170 | meatballs |
+| 692 | 170 | Christi Walker Patton |
 | 693 | 169 | rb |
-| 694 | 169 | Undeniable Williams |
-| 695 | 168 | Coco |
-| 696 | 168 | Lounique |
-| 697 | 168 | Christina Singleton |
+| 694 | 169 | Cheryl Miller |
+| 695 | 169 | Undeniable Williams |
+| 696 | 168 | Christina Singleton |
+| 697 | 168 | Lounique |
 | 698 | 167 | Joka NoTime ForHataz |
 | 699 | 167 | Montego Allen |
 | 700 | 167 | Comedian Gdane |
@@ -1871,126 +1871,126 @@
 | 1863 | 13 | Zesty Clearer |
 | 1864 | 13 | random |
 | 1865 | 13 | Shiny Crusher |
-| 1866 | 13 | Deanna Pinkard Harrington |
-| 1867 | 13 | Hasty Shatterbuilder |
-| 1868 | 13 | Emma Adams |
+| 1866 | 13 | Emma Adams |
+| 1867 | 13 | Deanna Pinkard Harrington |
+| 1868 | 13 | Hasty Shatterbuilder |
 | 1869 | 13 | Schuyler Carson Jackson |
 | 1870 | 13 | Jolly Combo |
 | 1871 | 13 | Flashy Snapgrid |
 | 1872 | 13 | Lakesha Jackson- Anderson |
-| 1873 | 12 | Andrae Johnson |
+| 1873 | 12 | Trill Wilson |
 | 1874 | 12 | Peachy Stacker |
-| 1875 | 12 | Misha |
+| 1875 | 12 | Shelly Marie |
 | 1876 | 12 | sceloh |
 | 1877 | 12 | Leslie Ann |
-| 1878 | 12 | toye69 |
-| 1879 | 12 | Shelly Marie |
-| 1880 | 12 | Nicole Malina |
-| 1881 | 12 | Sanchez Jackson |
-| 1882 | 12 | Trill Wilson |
-| 1883 | 12 | Chantae Maxwell |
-| 1884 | 12 | Tamara Jones |
-| 1885 | 12 | Deanna Dunn-mayfield |
-| 1886 | 12 | Gracee Hodge Kunze |
-| 1887 | 12 | taz62 |
-| 1888 | 12 | Lavance Sams |
-| 1889 | 12 | SM |
-| 1890 | 12 | Outspoken Sirchristopher |
-| 1891 | 12 | Penny Gayles |
-| 1892 | 12 | BigDawg Lessley |
-| 1893 | 12 | Plucky Twist |
-| 1894 | 11 | Amber Laine |
-| 1895 | 11 | Yolanda Davis |
-| 1896 | 11 | Marrie Calloway |
-| 1897 | 11 | KiJoCo |
-| 1898 | 11 | Edward Croom |
-| 1899 | 11 | Snappy Towerpiece |
+| 1878 | 12 | Misha |
+| 1879 | 12 | Andrae Johnson |
+| 1880 | 12 | Sanchez Jackson |
+| 1881 | 12 | Nicole Malina |
+| 1882 | 12 | Chantae Maxwell |
+| 1883 | 12 | Gracee Hodge Kunze |
+| 1884 | 12 | toye69 |
+| 1885 | 12 | Tamara Jones |
+| 1886 | 12 | Deanna Dunn-mayfield |
+| 1887 | 12 | Christina A Patterson |
+| 1888 | 12 | taz62 |
+| 1889 | 12 | Penny Gayles |
+| 1890 | 12 | Lavance Sams |
+| 1891 | 12 | SM |
+| 1892 | 12 | Plucky Twist |
+| 1893 | 12 | BigDawg Lessley |
+| 1894 | 12 | Outspoken Sirchristopher |
+| 1895 | 11 | Jayson |
+| 1896 | 11 | Catherine McGowan |
+| 1897 | 11 | Groovy Climber |
+| 1898 | 11 | Snappy Towerpiece |
+| 1899 | 11 | Edward Croom |
 | 1900 | 11 | Kourt Short |
-| 1901 | 11 | Daron White |
-| 1902 | 11 | Groovy Climber |
-| 1903 | 11 | Jayson |
-| 1904 | 11 | Patrick Taylor |
-| 1905 | 11 | Quirky Builderpiece |
-| 1906 | 11 | Bubbly Rollout |
+| 1901 | 11 | Yolanda Davis |
+| 1902 | 11 | Amber Laine |
+| 1903 | 11 | Marrie Calloway |
+| 1904 | 11 | Daron White |
+| 1905 | 11 | KiJoCo |
+| 1906 | 11 | Susie Miranda |
 | 1907 | 11 | Alex Jacks |
 | 1908 | 11 | pizzapie |
-| 1909 | 11 | Catherine McGowan |
-| 1910 | 11 | Susie Miranda |
-| 1911 | 10 | Key Gracia |
-| 1912 | 10 | Ciera Spottedelk |
-| 1913 | 10 | Steve Renelus |
-| 1914 | 10 | Tamara Farmer |
-| 1915 | 10 | Upt |
-| 1916 | 10 | Latrice Smith |
-| 1917 | 10 | Rayinn Monaee West |
-| 1918 | 10 | Yvonne Aggers |
-| 1919 | 10 | Antonia Pike |
-| 1920 | 10 | Ladii Libra |
-| 1921 | 10 | Kim Smith |
-| 1922 | 10 | Mac Mane |
-| 1923 | 10 | Shaye Williams |
-| 1924 | 10 | kittykatt |
-| 1925 | 10 | Chipper Spinbuilder |
-| 1926 | 10 | Love Tara |
-| 1927 | 10 | Kechie Johnson |
-| 1928 | 10 | Andy Barnett |
-| 1929 | 10 | Stacy Holloway |
+| 1909 | 11 | Bubbly Rollout |
+| 1910 | 11 | Quirky Builderpiece |
+| 1911 | 11 | Patrick Taylor |
+| 1912 | 10 | Key Gracia |
+| 1913 | 10 | Yvonne Aggers |
+| 1914 | 10 | Rayinn Monaee West |
+| 1915 | 10 | Latrice Smith |
+| 1916 | 10 | Mac Mane |
+| 1917 | 10 | Upt |
+| 1918 | 10 | Crystal Segura |
+| 1919 | 10 | Steve Renelus |
+| 1920 | 10 | Kim Smith |
+| 1921 | 10 | Stacy Holloway |
+| 1922 | 10 | Antonia Pike |
+| 1923 | 10 | Spicy Linkmatch |
+| 1924 | 10 | Truthful |
+| 1925 | 10 | Ciera Spottedelk |
+| 1926 | 10 | Tamara Farmer |
+| 1927 | 10 | Ladii Libra |
+| 1928 | 10 | MizzRoyal Kells |
+| 1929 | 10 | Andy Barnett |
 | 1930 | 10 | Omar Dotray |
 | 1931 | 10 | Jonay Zuri |
 | 1932 | 10 | Tea |
-| 1933 | 10 | Truthful |
-| 1934 | 10 | Spicy Linkmatch |
-| 1935 | 10 | Pamela Morrow Jones |
-| 1936 | 10 | MizzRoyal Kells |
-| 1937 | 10 | Jackee Chee-Ming |
-| 1938 | 10 | Rachel |
-| 1939 | 10 | Crystal Segura |
+| 1933 | 10 | kittykatt |
+| 1934 | 10 | Kechie Johnson |
+| 1935 | 10 | Jackee Chee-Ming |
+| 1936 | 10 | Rachel |
+| 1937 | 10 | Shaye Williams |
+| 1938 | 10 | Love Tara |
+| 1939 | 10 | Pamela Morrow Jones |
 | 1940 | 10 | Twisty Matchline |
 | 1941 | 10 | Willard Junior |
-| 1942 | 9 | BigHawk |
-| 1943 | 9 | Mars |
-| 1944 | 9 | Trista Ramsey |
-| 1945 | 9 | Groovy Twisterfit |
+| 1942 | 10 | Chipper Spinbuilder |
+| 1943 | 9 | Jokkah Toomuch |
+| 1944 | 9 | Mars |
+| 1945 | 9 | BigHawk |
 | 1946 | 9 | Nikki Jay |
-| 1947 | 9 | Jokkah Toomuch |
+| 1947 | 9 | Trista Ramsey |
 | 1948 | 9 | Catelyn Neal |
-| 1949 | 9 | Lia Covington |
-| 1950 | 9 | Duckey |
-| 1951 | 9 | Cee Jones |
-| 1952 | 9 | Tasha Johnson |
-| 1953 | 9 | Yester |
-| 1954 | 9 | Dennis Rhodes |
-| 1955 | 9 | Lively Edgefit |
-| 1956 | 9 | Denise Batt Brown |
-| 1957 | 9 | John Lovato |
-| 1958 | 9 | Witty Clicker |
-| 1959 | 9 | ummm |
-| 1960 | 9 | Tiara Hitchcock |
-| 1961 | 9 | yoyoluv |
-| 1962 | 9 | Sherri Harp |
-| 1963 | 9 | Clifford Petroske |
-| 1964 | 9 | Beverly S. Robinson |
-| 1965 | 9 | Shell Poke |
-| 1966 | 9 | Sheldon Grosso |
-| 1967 | 8 | Chill Tumbler |
-| 1968 | 8 | Elizabeth Castro |
-| 1969 | 8 | Almarasha Grice |
-| 1970 | 8 | Ebby |
-| 1971 | 8 | Andrew James |
-| 1972 | 8 | jus_ry |
-| 1973 | 8 | Rose Clark |
-| 1974 | 8 | Ferocity |
-| 1975 | 8 | Christina A Patterson |
-| 1976 | 8 | Rixo Blax |
-| 1977 | 8 | Frothy Matchpiece |
-| 1978 | 8 | David Anthony |
-| 1979 | 8 | Jeremiah Coffey Sr. |
-| 1980 | 8 | Clever Matchpiece |
-| 1981 | 8 | Abhay Raj |
-| 1982 | 8 | Groovy Riseclear |
+| 1949 | 9 | Groovy Twisterfit |
+| 1950 | 9 | Lia Covington |
+| 1951 | 9 | Duckey |
+| 1952 | 9 | Cee Jones |
+| 1953 | 9 | Tasha Johnson |
+| 1954 | 9 | Yester |
+| 1955 | 9 | Dennis Rhodes |
+| 1956 | 9 | Lively Edgefit |
+| 1957 | 9 | Denise Batt Brown |
+| 1958 | 9 | John Lovato |
+| 1959 | 9 | Witty Clicker |
+| 1960 | 9 | ummm |
+| 1961 | 9 | Tiara Hitchcock |
+| 1962 | 9 | yoyoluv |
+| 1963 | 9 | Sherri Harp |
+| 1964 | 9 | Shell Poke |
+| 1965 | 9 | Sheldon Grosso |
+| 1966 | 9 | Beverly S. Robinson |
+| 1967 | 9 | Clifford Petroske |
+| 1968 | 8 | Abhay Raj |
+| 1969 | 8 | Chill Tumbler |
+| 1970 | 8 | Almarasha Grice |
+| 1971 | 8 | Ebby |
+| 1972 | 8 | Andrew James |
+| 1973 | 8 | jus_ry |
+| 1974 | 8 | Rose Clark |
+| 1975 | 8 | Ferocity |
+| 1976 | 8 | Elizabeth Castro |
+| 1977 | 8 | Groovy Riseclear |
+| 1978 | 8 | Rixo Blax |
+| 1979 | 8 | Frothy Matchpiece |
+| 1980 | 8 | David Anthony |
+| 1981 | 8 | Jeremiah Coffey Sr. |
+| 1982 | 8 | Clever Matchpiece |
 | 1983 | 7 | Happy Strike |
-| 1984 | 7 | Shenikka Townsend |
-| 1985 | 7 | Quana |
+| 1984 | 7 | Quana |
+| 1985 | 7 | Shenikka Townsend |
 | 1986 | 7 | David NuggieMan Smith |
 | 1987 | 7 | Snippy Balance |
 | 1988 | 7 | Bouncy Clearbuilder |
