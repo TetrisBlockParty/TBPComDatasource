@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:33:21 UTC
+# Standings for team4 as of 2026-06-09 08:34:21 UTC
 
 **Total Participants:** 2088
 
@@ -213,11 +213,11 @@
 | 205 | 518 | Tyson Stroppel |
 | 206 | 510 | Addi JayKay |
 | 207 | 508 | Goofy Riser |
-| 208 | 502 | Alex Armour |
-| 209 | 501 | Linda Miltenburg |
-| 210 | 500 | Saucy Wipepiece |
-| 211 | 500 | Genag |
-| 212 | 500 | Maria Castillo |
+| 208 | 503 | Maria Castillo |
+| 209 | 502 | Alex Armour |
+| 210 | 501 | Linda Miltenburg |
+| 211 | 500 | Saucy Wipepiece |
+| 212 | 500 | Genag |
 | 213 | 498 | Snippy Splitter |
 | 214 | 496 | Samantha Worley |
 | 215 | 496 | Jackie Jackson |
@@ -294,8 +294,8 @@
 | 286 | 391 | Sherry Mooney |
 | 287 | 389 | Jenn Norcross |
 | 288 | 384 | Cheery Risegrid |
-| 289 | 381 | Jackie Polanco |
-| 290 | 380 | Funky Tiler |
+| 289 | 381 | Funky Tiler |
+| 290 | 381 | Jackie Polanco |
 | 291 | 380 | Knijur Callins |
 | 292 | 378 | Hwanger Land |
 | 293 | 377 | Amandacolle |
@@ -362,21 +362,21 @@
 | 354 | 306 | Snow77white |
 | 355 | 305 | Richard Bearse |
 | 356 | 305 | Tipsy Piecebuilder |
-| 357 | 305 | Matthew Hudson |
-| 358 | 303 | Mark Norton |
-| 359 | 303 | Lanelva Tiredofbs Marshall |
-| 360 | 303 | Ash Gribble |
-| 361 | 303 | Jj Johnson |
-| 362 | 302 | Bre Dee |
-| 363 | 301 | Marina |
-| 364 | 301 | Chirpy Link |
-| 365 | 297 | Brooke Arroyo |
-| 366 | 297 | Jennifer Garcia |
-| 367 | 296 | beauxie |
-| 368 | 296 | Cherrypir05 |
-| 369 | 296 | Dan Butcher |
-| 370 | 295 | Shepreneur Sade |
-| 371 | 295 | Matthew Wilcox |
+| 357 | 305 | Matthew Wilcox |
+| 358 | 305 | Matthew Hudson |
+| 359 | 303 | Mark Norton |
+| 360 | 303 | Lanelva Tiredofbs Marshall |
+| 361 | 303 | Ash Gribble |
+| 362 | 303 | Jj Johnson |
+| 363 | 302 | Bre Dee |
+| 364 | 301 | Marina |
+| 365 | 301 | Chirpy Link |
+| 366 | 297 | Brooke Arroyo |
+| 367 | 297 | Jennifer Garcia |
+| 368 | 296 | beauxie |
+| 369 | 296 | Cherrypir05 |
+| 370 | 296 | Dan Butcher |
+| 371 | 295 | Shepreneur Sade |
 | 372 | 294 | maria |
 | 373 | 294 | Earl Edwards |
 | 374 | 293 | Slinky Stackzone |
@@ -878,12 +878,12 @@
 | 870 | 125 | Samantha Lohmeyer |
 | 871 | 125 | Alex Dawn |
 | 872 | 125 | Chelsea Costa |
-| 873 | 124 | Nerdy Glider |
-| 874 | 124 | Wynisha Johnson |
-| 875 | 124 | Chad Finton |
-| 876 | 123 | Ben Figueroa |
-| 877 | 123 | LaRue Tee |
-| 878 | 123 | SueSally |
+| 873 | 125 | SueSally |
+| 874 | 124 | Nerdy Glider |
+| 875 | 124 | Wynisha Johnson |
+| 876 | 124 | Chad Finton |
+| 877 | 123 | Ben Figueroa |
+| 878 | 123 | LaRue Tee |
 | 879 | 123 | Conela Rouse Goldstein |
 | 880 | 123 | Esmond Johnson IV |
 | 881 | 122 | JoJo Hutson |
@@ -1085,15 +1085,15 @@
 | 1077 | 90 | Snappy Glidebuilder |
 | 1078 | 90 | Monique Anne Edwards |
 | 1079 | 90 | Волна Бог |
-| 1080 | 90 | Nancy McCalla Abercrombie |
-| 1081 | 90 | Melissa Elizabeth |
-| 1082 | 90 | Littleshark |
-| 1083 | 90 | Krissy Smith |
-| 1084 | 90 | Mystica |
-| 1085 | 89 | Khylee DarDar |
+| 1080 | 90 | Joyce Hampton |
+| 1081 | 90 | Nancy McCalla Abercrombie |
+| 1082 | 90 | Melissa Elizabeth |
+| 1083 | 90 | Littleshark |
+| 1084 | 90 | Krissy Smith |
+| 1085 | 90 | Mystica |
 | 1086 | 89 | Nachos |
-| 1087 | 89 | Bon Jovi |
-| 1088 | 89 | Joyce Hampton |
+| 1087 | 89 | Khylee DarDar |
+| 1088 | 89 | Bon Jovi |
 | 1089 | 89 | Nicole Ambrose |
 | 1090 | 89 | Lauren Zubia Sanchez |
 | 1091 | 89 | Shiny Strikerbuilder |
