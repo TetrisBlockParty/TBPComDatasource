@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 23:02:45 UTC
+# Standings for team2 as of 2026-06-09 23:03:23 UTC
 
 **Total Participants:** 2603
 
@@ -164,8 +164,8 @@
 | 156 | 979 | Sarah Mccolgan |
 | 157 | 973 | Jamie Fenyus |
 | 158 | 971 | Shea |
-| 159 | 968 | Sarah Griffey |
-| 160 | 967 | MarioKarasovic |
+| 159 | 968 | MarioKarasovic |
+| 160 | 968 | Sarah Griffey |
 | 161 | 959 | Groovy Snapper |
 | 162 | 952 | Leigh Ann |
 | 163 | 938 | Amber Miller Wirick |
@@ -666,14 +666,14 @@
 | 658 | 256 | Epic Tilemaker |
 | 659 | 256 | Connie McCoy |
 | 660 | 256 | Spencer Ryder |
-| 661 | 254 | Cozy Cascade |
-| 662 | 254 | Jason Lamporte |
-| 663 | 254 | Frisky Linkbuilder |
-| 664 | 253 | rageking |
-| 665 | 253 | David Skelton |
-| 666 | 253 | Nano. |
-| 667 | 253 | Teloney Humphrey |
-| 668 | 252 | Busted9mm |
+| 661 | 256 | Busted9mm |
+| 662 | 254 | Cozy Cascade |
+| 663 | 254 | Jason Lamporte |
+| 664 | 254 | Frisky Linkbuilder |
+| 665 | 253 | rageking |
+| 666 | 253 | David Skelton |
+| 667 | 253 | Nano. |
+| 668 | 253 | Teloney Humphrey |
 | 669 | 251 | Melissa Pronovost |
 | 670 | 251 | Paula |
 | 671 | 251 | Melissa Fink |
@@ -1019,29 +1019,29 @@
 | 1011 | 159 | Amanda Bailey |
 | 1012 | 158 | Joey Grillo |
 | 1013 | 158 | Laura Anderson |
-| 1014 | 157 | Jenifer Gasho |
-| 1015 | 157 | Nicole Treadway |
-| 1016 | 157 | Sara Karels |
+| 1014 | 157 | Paige Lynette Sohl |
+| 1015 | 157 | Jenifer Gasho |
+| 1016 | 157 | Nicole Treadway |
 | 1017 | 157 | Peyton Groce |
-| 1018 | 157 | Tracy Tokarz |
-| 1019 | 157 | Kylee Pruitt |
-| 1020 | 157 | Seamus |
-| 1021 | 157 | Michelle Anne |
-| 1022 | 156 | KS Hengesbach |
-| 1023 | 156 | Danid |
-| 1024 | 156 | Ashley Cadle |
-| 1025 | 155 | Kimberley Marie |
+| 1018 | 157 | Sara Karels |
+| 1019 | 157 | Tracy Tokarz |
+| 1020 | 157 | Kylee Pruitt |
+| 1021 | 157 | Seamus |
+| 1022 | 157 | Michelle Anne |
+| 1023 | 156 | KS Hengesbach |
+| 1024 | 156 | Danid |
+| 1025 | 156 | Ashley Cadle |
 | 1026 | 155 | Brittany Paul |
 | 1027 | 155 | TheAggie12 |
-| 1028 | 155 | Grimwitch |
-| 1029 | 155 | Ducky West |
-| 1030 | 155 | Devon |
-| 1031 | 154 | Valeri Bradley |
-| 1032 | 154 | Amy D Coble |
-| 1033 | 154 | Dapper Spinbuilder |
-| 1034 | 153 | Chris Delauro |
-| 1035 | 153 | Rochelle O'Loughlin |
-| 1036 | 153 | Paige Lynette Sohl |
+| 1028 | 155 | Kimberley Marie |
+| 1029 | 155 | Grimwitch |
+| 1030 | 155 | Ducky West |
+| 1031 | 155 | Devon |
+| 1032 | 154 | Valeri Bradley |
+| 1033 | 154 | Amy D Coble |
+| 1034 | 154 | Dapper Spinbuilder |
+| 1035 | 153 | Chris Delauro |
+| 1036 | 153 | Rochelle O'Loughlin |
 | 1037 | 153 | Michael Saunders |
 | 1038 | 153 | fancypants |
 | 1039 | 153 | Matt Wylie |
@@ -1325,27 +1325,27 @@
 | 1317 | 106 | Donna R. Banks |
 | 1318 | 106 | Teresa Ann Curry |
 | 1319 | 106 | Nikki Blilie |
-| 1320 | 106 | CowboyChalie |
-| 1321 | 105 | Chill Wipegrid |
-| 1322 | 105 | Nadine Velardo |
-| 1323 | 105 | Erin Marie Smith |
-| 1324 | 105 | Raffa |
-| 1325 | 105 | Patrick Woodard |
-| 1326 | 105 | Trena Sapp |
-| 1327 | 104 | Jolene Smith |
-| 1328 | 104 | Yari |
-| 1329 | 104 | Silly Swiper |
-| 1330 | 103 | Shannie |
-| 1331 | 103 | twistyzone |
-| 1332 | 103 | Paula Martin |
-| 1333 | 103 | Ashley Shazes |
-| 1334 | 103 | Smiley Rotate |
-| 1335 | 103 | Rob Phillips |
-| 1336 | 103 | Maureen Bryan Adams |
-| 1337 | 103 | Guadalupe Medina |
-| 1338 | 103 | Katie Boen |
-| 1339 | 103 | BoxerMom |
-| 1340 | 103 | Carrie Rutter-Bail |
+| 1320 | 106 | Carrie Rutter-Bail |
+| 1321 | 106 | CowboyChalie |
+| 1322 | 105 | Chill Wipegrid |
+| 1323 | 105 | Nadine Velardo |
+| 1324 | 105 | Erin Marie Smith |
+| 1325 | 105 | Raffa |
+| 1326 | 105 | Patrick Woodard |
+| 1327 | 105 | Trena Sapp |
+| 1328 | 104 | Jolene Smith |
+| 1329 | 104 | Yari |
+| 1330 | 104 | Silly Swiper |
+| 1331 | 103 | Shannie |
+| 1332 | 103 | twistyzone |
+| 1333 | 103 | Paula Martin |
+| 1334 | 103 | Ashley Shazes |
+| 1335 | 103 | Smiley Rotate |
+| 1336 | 103 | Rob Phillips |
+| 1337 | 103 | Maureen Bryan Adams |
+| 1338 | 103 | Guadalupe Medina |
+| 1339 | 103 | Katie Boen |
+| 1340 | 103 | BoxerMom |
 | 1341 | 103 | Kendi |
 | 1342 | 103 | SaraAnn Gray Philbrick |
 | 1343 | 103 | Nina-Christina Cusyck |
