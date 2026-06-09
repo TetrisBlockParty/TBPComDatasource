@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 14:36:21 UTC
+# Standings for team4 as of 2026-06-09 14:36:44 UTC
 
 **Total Participants:** 2117
 
@@ -205,7 +205,7 @@
 | 197 | 566 | Samantha Worley |
 | 198 | 563 | QueenLi86 |
 | 199 | 563 | Jacqueline Jackii Ramos |
-| 200 | 558 | Taz |
+| 200 | 562 | Taz |
 | 201 | 555 | Julian Gasque |
 | 202 | 555 | Janet Sanfilippo Sullivan |
 | 203 | 554 | Jennifer Ellyn Sheets |
