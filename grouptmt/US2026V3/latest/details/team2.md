@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 13:06:21 UTC
+# Standings for team2 as of 2026-06-09 13:06:48 UTC
 
 **Total Participants:** 2491
 
@@ -234,7 +234,7 @@
 | 226 | 612 | Theresa Marie |
 | 227 | 609 | Michelle Rich Burkhart |
 | 228 | 609 | Brooke Allred |
-| 229 | 607 | Avie Lou |
+| 229 | 608 | Avie Lou |
 | 230 | 606 | Chasity Simpson |
 | 231 | 605 | Robin G |
 | 232 | 601 | Spicy Basepiece |
@@ -277,27 +277,27 @@
 | 269 | 553 | Thomas Tyrone |
 | 270 | 550 | Jess |
 | 271 | 550 | DomDomsNana |
-| 272 | 550 | Gabrielle Wilson |
-| 273 | 548 | THUMP |
-| 274 | 547 | Iesha Cupil |
-| 275 | 545 | Gill |
-| 276 | 544 | Starr Collins |
-| 277 | 543 | Alicia Ellenburg |
-| 278 | 541 | AndyJo |
-| 279 | 539 | Chill Line |
-| 280 | 539 | Greta Warden |
-| 281 | 535 | Amy Gale |
-| 282 | 533 | Samantha Carman |
-| 283 | 531 | Stephany Green |
-| 284 | 530 | Sharon L Brazelton |
+| 272 | 550 | Sharon L Brazelton |
+| 273 | 550 | Gabrielle Wilson |
+| 274 | 548 | THUMP |
+| 275 | 547 | Iesha Cupil |
+| 276 | 545 | Gill |
+| 277 | 544 | Starr Collins |
+| 278 | 543 | Alicia Ellenburg |
+| 279 | 541 | AndyJo |
+| 280 | 539 | Chill Line |
+| 281 | 539 | Greta Warden |
+| 282 | 535 | Amy Gale |
+| 283 | 533 | Samantha Carman |
+| 284 | 531 | Stephany Green |
 | 285 | 524 | Kristi Chestnut |
 | 286 | 523 | Marilyn Strickland |
 | 287 | 522 | Becca Marie |
-| 288 | 520 | Deezie |
-| 289 | 518 | Denise Morehart |
-| 290 | 516 | Frilly Dashfit |
-| 291 | 516 | Katrien |
-| 292 | 511 | Lindsey Ford |
+| 288 | 521 | Lindsey Ford |
+| 289 | 520 | Deezie |
+| 290 | 518 | Denise Morehart |
+| 291 | 516 | Frilly Dashfit |
+| 292 | 516 | Katrien |
 | 293 | 510 | Nicole Plummer |
 | 294 | 508 | Dawnypooh |
 | 295 | 508 | Tara |
@@ -458,15 +458,15 @@
 | 450 | 328 | Buffy Diane Blake |
 | 451 | 326 | Jackie Walker |
 | 452 | 325 | Snappy Combo |
-| 453 | 324 | Kathryn |
-| 454 | 323 | Jerry L Morales |
-| 455 | 323 | Madonna Ash |
-| 456 | 322 | RaeRae |
-| 457 | 321 | Wendy Spoor Hof |
-| 458 | 320 | Flashy Basegrid |
-| 459 | 320 | MUMBLES |
-| 460 | 319 | Sarah Grundisch |
-| 461 | 319 | Carolyn McNaughton |
+| 453 | 325 | Carolyn McNaughton |
+| 454 | 324 | Kathryn |
+| 455 | 323 | Jerry L Morales |
+| 456 | 323 | Madonna Ash |
+| 457 | 322 | RaeRae |
+| 458 | 321 | Wendy Spoor Hof |
+| 459 | 320 | Flashy Basegrid |
+| 460 | 320 | MUMBLES |
+| 461 | 319 | Sarah Grundisch |
 | 462 | 318 | Margie Ann Naffziger |
 | 463 | 318 | Jill Goff |
 | 464 | 317 | Danielle Lyons |
@@ -497,8 +497,8 @@
 | 489 | 301 | Michael Carmichael |
 | 490 | 300 | Happy |
 | 491 | 300 | August Christy Lathrop |
-| 492 | 299 | StacyBabee |
-| 493 | 299 | Jennifer Covington |
+| 492 | 299 | Jennifer Covington |
+| 493 | 299 | StacyBabee |
 | 494 | 298 | Olivia Jefferson |
 | 495 | 297 | Mouh Ity |
 | 496 | 296 | Sassy Patternblock |
@@ -925,30 +925,30 @@
 | 917 | 153 | Matt Wylie |
 | 918 | 153 | Michael Saunders |
 | 919 | 152 | Snazzy Smasher |
-| 920 | 152 | Kris Dusza Dodus |
-| 921 | 152 | CK Hancock |
-| 922 | 152 | John Perkins |
-| 923 | 151 | Michele Plunkett |
-| 924 | 151 | Nikki Sadler |
-| 925 | 151 | Robin Stutler |
-| 926 | 151 | Tamtam |
-| 927 | 151 | Amy Lea Hamilton |
-| 928 | 151 | Joshua Hopkins |
-| 929 | 151 | Brenda Shannon |
-| 930 | 151 | Shiny Spinfit |
-| 931 | 150 | Kaitlyn Hurst |
-| 932 | 150 | Nanny t |
-| 933 | 150 | Hog Crankin |
-| 934 | 150 | Angie Rose |
-| 935 | 150 | Ashley Eneboe |
-| 936 | 150 | Tina Kinney |
-| 937 | 150 | Boo Boo Binx |
-| 938 | 149 | Dustin Bumbalough |
-| 939 | 149 | Silly Chiseler |
-| 940 | 149 | MjLovebug13 |
-| 941 | 149 | Silly Clicker |
-| 942 | 149 | Kayley |
-| 943 | 149 | Bonnie Huckleberry |
+| 920 | 152 | CK Hancock |
+| 921 | 152 | Bonnie Huckleberry |
+| 922 | 152 | Kris Dusza Dodus |
+| 923 | 152 | John Perkins |
+| 924 | 151 | Michele Plunkett |
+| 925 | 151 | Shiny Spinfit |
+| 926 | 151 | Brenda Shannon |
+| 927 | 151 | Nikki Sadler |
+| 928 | 151 | Robin Stutler |
+| 929 | 151 | Tamtam |
+| 930 | 151 | Amy Lea Hamilton |
+| 931 | 151 | Joshua Hopkins |
+| 932 | 150 | Ashley Eneboe |
+| 933 | 150 | Angie Rose |
+| 934 | 150 | Hog Crankin |
+| 935 | 150 | Nanny t |
+| 936 | 150 | Kaitlyn Hurst |
+| 937 | 150 | Tina Kinney |
+| 938 | 150 | Boo Boo Binx |
+| 939 | 149 | Dustin Bumbalough |
+| 940 | 149 | Silly Chiseler |
+| 941 | 149 | MjLovebug13 |
+| 942 | 149 | Silly Clicker |
+| 943 | 149 | Kayley |
 | 944 | 148 | Crystal Robinson |
 | 945 | 148 | Valeri Bradley |
 | 946 | 148 | Amy |
@@ -1464,9 +1464,9 @@
 | 1456 | 74 | Isiwin |
 | 1457 | 74 | Bold Bridgepiece |
 | 1458 | 74 | Kassie D Harmon |
-| 1459 | 74 | Frisky Clicker |
-| 1460 | 73 | Joslyn Erickson |
-| 1461 | 73 | Samantha Lewis |
+| 1459 | 74 | Samantha Lewis |
+| 1460 | 74 | Frisky Clicker |
+| 1461 | 73 | Joslyn Erickson |
 | 1462 | 73 | Jenica Davis |
 | 1463 | 73 | Yvonne Rodriguez |
 | 1464 | 73 | Carrie Rutter-Bail |
