@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 18:22:43 UTC
+# Standings for team4 as of 2026-06-09 18:23:21 UTC
 
 **Total Participants:** 2155
 
@@ -525,33 +525,33 @@
 | 517 | 247 | Swanky Snapgrid |
 | 518 | 247 | MattJennifer Marie Ericson |
 | 519 | 247 | Corie A. Brinson |
-| 520 | 246 | EpicWizard |
+| 520 | 246 | Kaps |
 | 521 | 246 | Brandi Sauer |
 | 522 | 246 | DrC |
-| 523 | 246 | Kaps |
-| 524 | 245 | Rita Ann |
-| 525 | 245 | Candiecane324 |
-| 526 | 245 | Lovetetris |
+| 523 | 246 | EpicWizard |
+| 524 | 245 | Candiecane324 |
+| 525 | 245 | Lovetetris |
+| 526 | 245 | Rita Ann |
 | 527 | 244 | Lisa lisa |
 | 528 | 243 | ariel |
 | 529 | 242 | Nicole Colby McCloskey |
-| 530 | 240 | Alice Eisnor-Martens |
+| 530 | 240 | Jimmy Clark |
 | 531 | 240 | Keke Johnson |
-| 532 | 240 | Jimmy Clark |
-| 533 | 239 | Lul Babie |
-| 534 | 239 | Elissa Danks |
-| 535 | 239 | Chelle Williams |
-| 536 | 238 | Tara Delay Hill |
-| 537 | 237 | Sharon Tyler |
-| 538 | 237 | Stephanie Gauna |
-| 539 | 236 | Bonique Bier |
-| 540 | 236 | REPENT |
-| 541 | 236 | Susan Stofberg Beltran |
-| 542 | 236 | chefjaydawg |
-| 543 | 235 | Diana Fernandez |
-| 544 | 235 | Thermeka Lindsey |
-| 545 | 235 | Saucy Brickmatch |
-| 546 | 235 | Heidi Anne Scheiderer |
+| 532 | 240 | Alice Eisnor-Martens |
+| 533 | 240 | REPENT |
+| 534 | 239 | Lul Babie |
+| 535 | 239 | Elissa Danks |
+| 536 | 239 | Chelle Williams |
+| 537 | 238 | Tara Delay Hill |
+| 538 | 237 | Sharon Tyler |
+| 539 | 237 | Stephanie Gauna |
+| 540 | 236 | Susan Stofberg Beltran |
+| 541 | 236 | chefjaydawg |
+| 542 | 236 | Bonique Bier |
+| 543 | 235 | Heidi Anne Scheiderer |
+| 544 | 235 | Saucy Brickmatch |
+| 545 | 235 | Diana Fernandez |
+| 546 | 235 | Thermeka Lindsey |
 | 547 | 234 | luluraine |
 | 548 | 234 | Alexsandra Hill |
 | 549 | 234 | Paula Renee McCracken |
