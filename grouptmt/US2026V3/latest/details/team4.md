@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 19:50:49 UTC
+# Standings for team4 as of 2026-06-09 19:51:21 UTC
 
 **Total Participants:** 2166
 
@@ -53,8 +53,8 @@
 | 45 | 3323 | Carly Stempien |
 | 46 | 3216 | Jeanette Hailey |
 | 47 | 3150 | Destiny Dyer |
-| 48 | 2800 | Caitlin Johnson |
-| 49 | 2800 | Annastaissia Todd |
+| 48 | 2800 | Annastaissia Todd |
+| 49 | 2800 | Caitlin Johnson |
 | 50 | 2707 | Alicia Cook |
 | 51 | 2647 | 626 |
 | 52 | 2522 | Маркус Вік |
@@ -100,15 +100,15 @@
 | 92 | 1234 | MysticMaven |
 | 93 | 1230 | Bryan DjMagnum Evans |
 | 94 | 1224 | Chaz Duncan |
-| 95 | 1158 | Shelby |
-| 96 | 1158 | Snippy Grid |
+| 95 | 1158 | Snippy Grid |
+| 96 | 1158 | Shelby |
 | 97 | 1128 | J |
 | 98 | 1126 | Hardy Fuller |
 | 99 | 1125 | Kristen Wallace |
-| 100 | 1113 | Snappy Fitzone |
-| 101 | 1113 | Tina Shalay Hayes |
-| 102 | 1106 | Loony Towerer |
-| 103 | 1106 | shawna |
+| 100 | 1113 | Tina Shalay Hayes |
+| 101 | 1113 | Snappy Fitzone |
+| 102 | 1106 | shawna |
+| 103 | 1106 | Loony Towerer |
 | 104 | 1102 | Jonathan Hewitt |
 | 105 | 1083 | Tiffany Loree Tiffany Oneill |
 | 106 | 1082 | Hannah Pazar |
@@ -124,8 +124,8 @@
 | 116 | 997 | Blayne Kole |
 | 117 | 992 | Keesha Muro |
 | 118 | 988 | Loony Glidepiece |
-| 119 | 986 | Jesse Olive |
-| 120 | 986 | Kim |
+| 119 | 986 | Kim |
+| 120 | 986 | Jesse Olive |
 | 121 | 980 | Futrell Brent |
 | 122 | 979 | Heather Preston |
 | 123 | 975 | CJ |

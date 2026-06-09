@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:50:49 UTC
+# Standings for team1 as of 2026-06-09 19:51:21 UTC
 
 **Total Participants:** 2107
 
@@ -118,7 +118,7 @@
 | 110 | 1121 | Lisa Müller |
 | 111 | 1120 | IamJust Neyamijah Washington Sr. |
 | 112 | 1091 | Richard Horton |
-| 113 | 1080 | G Ah Mayes |
+| 113 | 1083 | G Ah Mayes |
 | 114 | 1079 | Tameka Jones |
 | 115 | 1075 | Shellzb Roberts |
 | 116 | 1045 | Joy Citizen Pickney |
@@ -139,18 +139,18 @@
 | 131 | 908 | Danielle Barthelme |
 | 132 | 907 | Jimmie Makia |
 | 133 | 907 | Kellie Hall |
-| 134 | 898 | Eartha Brown |
-| 135 | 897 | Carolynne Walker-Bell |
-| 136 | 896 | Alana Renee |
-| 137 | 890 | Cj Gorman |
-| 138 | 886 | Ebony Waynes-robinson |
-| 139 | 883 | Rolanda Williams |
-| 140 | 882 | Jon Gathers |
-| 141 | 881 | Slinky Puzzler |
-| 142 | 880 | Felicia Williams |
-| 143 | 876 | Atlantalindi |
-| 144 | 875 | Crystal Boyd |
-| 145 | 872 | Jeffrey Barrows |
+| 134 | 902 | Jeffrey Barrows |
+| 135 | 898 | Eartha Brown |
+| 136 | 897 | Carolynne Walker-Bell |
+| 137 | 896 | Alana Renee |
+| 138 | 890 | Cj Gorman |
+| 139 | 886 | Ebony Waynes-robinson |
+| 140 | 883 | Rolanda Williams |
+| 141 | 882 | Jon Gathers |
+| 142 | 881 | Slinky Puzzler |
+| 143 | 880 | Felicia Williams |
+| 144 | 876 | Atlantalindi |
+| 145 | 875 | Crystal Boyd |
 | 146 | 871 | Spunky Edgefit |
 | 147 | 869 | Snappy Link |
 | 148 | 848 | De'Laonzeo Anthony |
@@ -778,43 +778,43 @@
 | 770 | 166 | Cheery Swiper |
 | 771 | 166 | Sabrina Wilkerson |
 | 772 | 166 | Lilly Brown |
-| 773 | 165 | Analesia Taylor |
-| 774 | 165 | Mom3granny2 |
+| 773 | 165 | Mom3granny2 |
+| 774 | 165 | Analesia Taylor |
 | 775 | 165 | Taneka Howell |
-| 776 | 162 | Peppy Wipeblock |
-| 777 | 162 | Speedy Stacky |
-| 778 | 162 | Jasmine Hariston-Estis |
-| 779 | 162 | Big Bovice |
+| 776 | 162 | Big Bovice |
+| 777 | 162 | Jasmine Hariston-Estis |
+| 778 | 162 | Speedy Stacky |
+| 779 | 162 | Peppy Wipeblock |
 | 780 | 160 | William Vidra |
 | 781 | 160 | Cheeky Twistpiece |
-| 782 | 160 | Donnie Withthebody |
-| 783 | 160 | Amanda Woodruff |
+| 782 | 160 | Amanda Woodruff |
+| 783 | 160 | Donnie Withthebody |
 | 784 | 160 | Tiffany Jean Hinson |
-| 785 | 159 | Boymama917 |
-| 786 | 159 | TY Newme Batts |
-| 787 | 159 | Naee Bee |
-| 788 | 159 | Yvette McGee |
-| 789 | 159 | Frances Davis |
-| 790 | 159 | Darrel Pemberton |
-| 791 | 159 | Kashh |
-| 792 | 158 | Seddrick |
-| 793 | 158 | TotoCherue |
-| 794 | 158 | P C |
-| 795 | 158 | Chloe Bankz |
-| 796 | 158 | Heru Ogun Yeshua EL |
-| 797 | 158 | LAdYPOLy |
-| 798 | 158 | Meow Meow |
-| 799 | 157 | Chill Linkroll |
-| 800 | 157 | Biggestboss Ransom |
-| 801 | 157 | Lootch |
-| 802 | 157 | Chirpy Buildgrid |
-| 803 | 156 | Melissa Hershberger |
-| 804 | 156 | Kizzy Clark |
-| 805 | 156 | Karen Denen |
-| 806 | 156 | Shanjerrica Taylor Rosell |
-| 807 | 155 | Yoellah Benyahmeen |
-| 808 | 155 | Poppy Smasher |
-| 809 | 155 | Octavia Bsb Johnson |
+| 785 | 159 | Kashh |
+| 786 | 159 | Boymama917 |
+| 787 | 159 | Yvette McGee |
+| 788 | 159 | TY Newme Batts |
+| 789 | 159 | Naee Bee |
+| 790 | 159 | Frances Davis |
+| 791 | 159 | Darrel Pemberton |
+| 792 | 158 | P C |
+| 793 | 158 | Seddrick |
+| 794 | 158 | TotoCherue |
+| 795 | 158 | Heru Ogun Yeshua EL |
+| 796 | 158 | Chloe Bankz |
+| 797 | 158 | Octavia Bsb Johnson |
+| 798 | 158 | LAdYPOLy |
+| 799 | 158 | Meow Meow |
+| 800 | 157 | Chill Linkroll |
+| 801 | 157 | Biggestboss Ransom |
+| 802 | 157 | Lootch |
+| 803 | 157 | Chirpy Buildgrid |
+| 804 | 156 | Melissa Hershberger |
+| 805 | 156 | Kizzy Clark |
+| 806 | 156 | Karen Denen |
+| 807 | 156 | Shanjerrica Taylor Rosell |
+| 808 | 155 | Yoellah Benyahmeen |
+| 809 | 155 | Poppy Smasher |
 | 810 | 155 | Melissa Ramsey |
 | 811 | 154 | TRUBBLE45 |
 | 812 | 154 | Glitzy Clusterer |
