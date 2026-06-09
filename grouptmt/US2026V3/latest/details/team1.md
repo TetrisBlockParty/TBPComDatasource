@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:32:44 UTC
+# Standings for team1 as of 2026-06-09 05:33:21 UTC
 
 **Total Participants:** 1993
 
@@ -654,10 +654,10 @@
 | 646 | 167 | Lucy |
 | 647 | 167 | Dana Hawes |
 | 648 | 167 | Comedian Gdane |
-| 649 | 165 | Alexandrla Smith |
-| 650 | 165 | lizlizliz |
-| 651 | 165 | toxictonic92 |
-| 652 | 164 | MrsDontPlay |
+| 649 | 166 | MrsDontPlay |
+| 650 | 165 | Alexandrla Smith |
+| 651 | 165 | lizlizliz |
+| 652 | 165 | toxictonic92 |
 | 653 | 164 | Jes Marie |
 | 654 | 163 | Kelvin Cook |
 | 655 | 163 | Nora Mahmoud |
@@ -1265,26 +1265,26 @@
 | 1257 | 58 | Onovella Titsworth |
 | 1258 | 58 | Desi |
 | 1259 | 58 | Brenda Brogden |
-| 1260 | 58 | CoaCoa Myles |
-| 1261 | 58 | Brandy Way |
-| 1262 | 57 | Torrie Eckrote |
+| 1260 | 58 | Riq Wokhardt |
+| 1261 | 58 | CoaCoa Myles |
+| 1262 | 58 | Brandy Way |
 | 1263 | 57 | Frilly Mover |
 | 1264 | 57 | Rose Smith |
 | 1265 | 57 | Melissa Ramsey |
-| 1266 | 57 | Cali Lee |
-| 1267 | 56 | Tim Tim |
-| 1268 | 56 | SnazzySnippet |
-| 1269 | 56 | Chanel White |
-| 1270 | 56 | Lisa Ivy |
-| 1271 | 56 | Arturo Hernandez II |
-| 1272 | 56 | Cheery T-spin |
-| 1273 | 56 | QueenzMo |
-| 1274 | 56 | e |
-| 1275 | 56 | Lillie Blossom Dixon |
-| 1276 | 56 | Kayleah Washington |
-| 1277 | 56 | Tammy Collins |
-| 1278 | 55 | Laura Wesley |
-| 1279 | 55 | Riq Wokhardt |
+| 1266 | 57 | Torrie Eckrote |
+| 1267 | 57 | Cali Lee |
+| 1268 | 56 | Tammy Collins |
+| 1269 | 56 | Tim Tim |
+| 1270 | 56 | SnazzySnippet |
+| 1271 | 56 | Chanel White |
+| 1272 | 56 | Lisa Ivy |
+| 1273 | 56 | Arturo Hernandez II |
+| 1274 | 56 | Cheery T-spin |
+| 1275 | 56 | QueenzMo |
+| 1276 | 56 | e |
+| 1277 | 56 | Lillie Blossom Dixon |
+| 1278 | 56 | Kayleah Washington |
+| 1279 | 55 | Laura Wesley |
 | 1280 | 55 | Meme23 |
 | 1281 | 55 | KoolKimJay |
 | 1282 | 55 | Amanda Miller |

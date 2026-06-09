@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 05:32:44 UTC
+# Standings for team4 as of 2026-06-09 05:33:21 UTC
 
 **Total Participants:** 2058
 
@@ -314,21 +314,21 @@
 | 306 | 348 | Bri Martin |
 | 307 | 346 | Sassy Rollpiece |
 | 308 | 346 | Tawna Curry |
-| 309 | 345 | Lucy Honer |
-| 310 | 342 | Chummy Jumper |
-| 311 | 342 | Spicy Chicken |
-| 312 | 339 | Mark Fitch Jr. |
-| 313 | 337 | Brittany Lentz |
-| 314 | 337 | Breezy Cascadeclear |
-| 315 | 337 | Giggly Tilt |
-| 316 | 336 | Renee Sapp |
-| 317 | 335 | Morgan Stevens |
-| 318 | 335 | Spunky Gridzone |
-| 319 | 335 | EvoKitty |
-| 320 | 334 | kellie |
-| 321 | 333 | Tiffany Bunker-Hill |
-| 322 | 333 | Joseph Hunter |
-| 323 | 331 | George Palacios |
+| 309 | 346 | George Palacios |
+| 310 | 345 | Lucy Honer |
+| 311 | 342 | Chummy Jumper |
+| 312 | 342 | Spicy Chicken |
+| 313 | 339 | Mark Fitch Jr. |
+| 314 | 337 | Brittany Lentz |
+| 315 | 337 | Breezy Cascadeclear |
+| 316 | 337 | Giggly Tilt |
+| 317 | 336 | Renee Sapp |
+| 318 | 335 | Morgan Stevens |
+| 319 | 335 | Spunky Gridzone |
+| 320 | 335 | EvoKitty |
+| 321 | 334 | kellie |
+| 322 | 333 | Tiffany Bunker-Hill |
+| 323 | 333 | Joseph Hunter |
 | 324 | 331 | Queen B |
 | 325 | 329 | Tipsy Builderline |
 | 326 | 329 | Anthony McAlister |
