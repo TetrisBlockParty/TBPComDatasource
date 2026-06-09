@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 18:04:44 UTC
+# Standings for team1 as of 2026-06-09 18:05:21 UTC
 
 **Total Participants:** 2092
 
@@ -263,9 +263,9 @@
 | 255 | 487 | Tamara Johnson-Carter |
 | 256 | 486 | Michael Bethezar |
 | 257 | 485 | Qwlonda Shirrell |
-| 258 | 481 | Jenna Renee |
+| 258 | 483 | Kate Hancock Malicek |
 | 259 | 481 | boogeywoogey |
-| 260 | 479 | Kate Hancock Malicek |
+| 260 | 481 | Jenna Renee |
 | 261 | 479 | Leebo Slice |
 | 262 | 476 | Choc |
 | 263 | 473 | Nicole Watson-Dixon |
@@ -436,13 +436,13 @@
 | 428 | 295 | Maribel Vasquez |
 | 429 | 295 | Derrius SeriousLee Burks |
 | 430 | 295 | Rachael R Gull |
-| 431 | 294 | Brittanie Wardlow |
-| 432 | 292 | BabyCakes |
-| 433 | 291 | Brian Taylor |
-| 434 | 291 | LuckyStar |
-| 435 | 289 | Lisa Fletcher |
-| 436 | 288 | Lozuna |
-| 437 | 288 | Emily Wright |
+| 431 | 294 | Emily Wright |
+| 432 | 294 | Brittanie Wardlow |
+| 433 | 292 | BabyCakes |
+| 434 | 291 | Brian Taylor |
+| 435 | 291 | LuckyStar |
+| 436 | 289 | Lisa Fletcher |
+| 437 | 288 | Lozuna |
 | 438 | 288 | Stacy Nicole |
 | 439 | 287 | Daniel Santana |
 | 440 | 287 | Charlene Baltimore |
@@ -750,74 +750,74 @@
 | 742 | 170 | Marissa Sweet |
 | 743 | 170 | Devron Reedy |
 | 744 | 169 | rb |
-| 745 | 169 | Sunny Clicky |
-| 746 | 169 | Undeniable Williams |
+| 745 | 169 | Undeniable Williams |
+| 746 | 169 | Sunny Clicky |
 | 747 | 168 | brite |
 | 748 | 168 | Lounique |
 | 749 | 168 | Pinky Pink |
 | 750 | 167 | Comedian Gdane |
-| 751 | 167 | Montego Allen |
-| 752 | 167 | Joka NoTime ForHataz |
-| 753 | 166 | Cheery Swiper |
-| 754 | 166 | Sabrina Wilkerson |
-| 755 | 166 | Amaadi Ward |
-| 756 | 166 | Lilly Brown |
-| 757 | 164 | Kp |
-| 758 | 163 | QueenShay AllGood |
-| 759 | 162 | Jasmine Hariston-Estis |
-| 760 | 162 | Peppy Wipeblock |
-| 761 | 162 | Speedy Stacky |
+| 751 | 167 | Joka NoTime ForHataz |
+| 752 | 167 | Montego Allen |
+| 753 | 166 | Sabrina Wilkerson |
+| 754 | 166 | Amaadi Ward |
+| 755 | 166 | Lilly Brown |
+| 756 | 166 | Cheery Swiper |
+| 757 | 165 | Christy Quick |
+| 758 | 164 | Kp |
+| 759 | 163 | QueenShay AllGood |
+| 760 | 162 | Jasmine Hariston-Estis |
+| 761 | 162 | Peppy Wipeblock |
 | 762 | 162 | Big Bovice |
-| 763 | 160 | Cheeky Twistpiece |
-| 764 | 160 | Spotlight |
+| 763 | 162 | Speedy Stacky |
+| 764 | 160 | Cheeky Twistpiece |
 | 765 | 160 | Donnie Withthebody |
-| 766 | 160 | Tiffany Jean Hinson |
+| 766 | 160 | Spotlight |
 | 767 | 160 | Amanda Woodruff |
-| 768 | 159 | Frances Davis |
-| 769 | 159 | Boymama917 |
-| 770 | 159 | Darrel Pemberton |
-| 771 | 159 | Yvette McGee |
-| 772 | 159 | Naee Bee |
-| 773 | 159 | TY Newme Batts |
-| 774 | 158 | Chloe Bankz |
-| 775 | 158 | P C |
-| 776 | 158 | Seddrick |
-| 777 | 158 | Meow Meow |
-| 778 | 158 | Heru Ogun Yeshua EL |
-| 779 | 158 | LAdYPOLy |
-| 780 | 158 | TotoCherue |
-| 781 | 157 | Biggestboss Ransom |
-| 782 | 157 | Lootch |
-| 783 | 157 | Chirpy Buildgrid |
+| 768 | 160 | Tiffany Jean Hinson |
+| 769 | 159 | TY Newme Batts |
+| 770 | 159 | Yvette McGee |
+| 771 | 159 | Darrel Pemberton |
+| 772 | 159 | Boymama917 |
+| 773 | 159 | Frances Davis |
+| 774 | 159 | Naee Bee |
+| 775 | 158 | TotoCherue |
+| 776 | 158 | LAdYPOLy |
+| 777 | 158 | Heru Ogun Yeshua EL |
+| 778 | 158 | P C |
+| 779 | 158 | Seddrick |
+| 780 | 158 | Chloe Bankz |
+| 781 | 158 | Meow Meow |
+| 782 | 157 | Chirpy Buildgrid |
+| 783 | 157 | Lootch |
 | 784 | 157 | Tony Pizzas |
 | 785 | 157 | Chill Linkroll |
-| 786 | 156 | Christy Quick |
-| 787 | 156 | Shanjerrica Taylor Rosell |
-| 788 | 156 | Karen Denen |
+| 786 | 157 | Biggestboss Ransom |
+| 787 | 156 | Karen Denen |
+| 788 | 156 | Melissa Hershberger |
 | 789 | 156 | Kizzy Clark |
 | 790 | 156 | Sara |
-| 791 | 156 | Melissa Hershberger |
-| 792 | 155 | Kashh |
-| 793 | 155 | Melissa Ramsey |
-| 794 | 155 | Poppy Smasher |
-| 795 | 154 | Dizzy Gridmatch |
-| 796 | 154 | Octavia Bsb Johnson |
-| 797 | 154 | TRUBBLE45 |
+| 791 | 156 | Shanjerrica Taylor Rosell |
+| 792 | 155 | Melissa Ramsey |
+| 793 | 155 | Poppy Smasher |
+| 794 | 155 | Kashh |
+| 795 | 154 | Octavia Bsb Johnson |
+| 796 | 154 | TRUBBLE45 |
+| 797 | 154 | Dizzy Gridmatch |
 | 798 | 154 | Glitzy Clusterer |
-| 799 | 152 | Megan Jones |
-| 800 | 152 | Wacky Stackbuilder |
-| 801 | 151 | Shanell Thomas |
-| 802 | 151 | Terrie |
+| 799 | 152 | Wacky Stackbuilder |
+| 800 | 152 | Megan Jones |
+| 801 | 151 | Terrie |
+| 802 | 151 | Shanell Thomas |
 | 803 | 150 | Stronger Wiser Better |
-| 804 | 150 | Marshall Davis |
-| 805 | 150 | Taneka Howell |
-| 806 | 150 | Kanary Karotz |
+| 804 | 150 | Taneka Howell |
+| 805 | 150 | Kanary Karotz |
+| 806 | 150 | Marshall Davis |
 | 807 | 149 | Aaron Sohnrey |
-| 808 | 148 | Yashicha Hertzock |
-| 809 | 148 | Meeee |
-| 810 | 148 | Ashley Davis |
+| 808 | 148 | Zany Patternblock |
+| 809 | 148 | Ashley Davis |
+| 810 | 148 | Yashicha Hertzock |
 | 811 | 148 | Cauiasia DeJ'ae |
-| 812 | 148 | Zany Patternblock |
+| 812 | 148 | Meeee |
 | 813 | 147 | Angelique Talbot |
 | 814 | 147 | Alexis Alexander |
 | 815 | 147 | Charika Marie Bergmann |
