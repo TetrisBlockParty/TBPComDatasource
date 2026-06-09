@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:04:44 UTC
+# Standings for team1 as of 2026-06-09 21:05:21 UTC
 
 **Total Participants:** 2111
 
@@ -540,15 +540,15 @@
 | 532 | 249 | Fina McKinnis |
 | 533 | 249 | Ciera Peace |
 | 534 | 248 | Melissa Olvera |
-| 535 | 247 | SceneGreenz Wali |
-| 536 | 247 | Mahagony Small |
-| 537 | 247 | Taz Ballard |
+| 535 | 247 | Mahagony Small |
+| 536 | 247 | Taz Ballard |
+| 537 | 247 | SceneGreenz Wali |
 | 538 | 246 | Kortney Adams |
 | 539 | 246 | Bold Clusterer |
 | 540 | 245 | ChunLi |
 | 541 | 244 | Casey Chapman |
-| 542 | 243 | Dede Tate |
-| 543 | 243 | Tanisha Taylor |
+| 542 | 243 | Tanisha Taylor |
+| 543 | 243 | Dede Tate |
 | 544 | 242 | wmedina67 |
 | 545 | 242 | Tamika Rocheteau |
 | 546 | 242 | Marlainia Boyd |
@@ -561,56 +561,56 @@
 | 553 | 239 | Guy Incognito |
 | 554 | 239 | Meshia |
 | 555 | 238 | B.L. Perry |
-| 556 | 237 | Juicy |
-| 557 | 237 | Cynthia Cruell |
+| 556 | 237 | Cynthia Cruell |
+| 557 | 237 | Juicy |
 | 558 | 236 | Soubletzy |
 | 559 | 236 | meatballs |
 | 560 | 235 | Tracy Feyler |
 | 561 | 235 | Daring Blockclear |
-| 562 | 235 | nameno |
-| 563 | 235 | Juan Lewis |
-| 564 | 234 | Chris Nelson |
-| 565 | 233 | Kala Miller |
-| 566 | 233 | Holly Baker |
-| 567 | 232 | Monica Fields |
+| 562 | 235 | AnnaM |
+| 563 | 235 | nameno |
+| 564 | 235 | Juan Lewis |
+| 565 | 234 | Chris Nelson |
+| 566 | 233 | Kala Miller |
+| 567 | 233 | Holly Baker |
 | 568 | 232 | Teresa Yanira Cepeda |
-| 569 | 231 | Lazy Tiltpiece |
-| 570 | 231 | toxictonic92 |
+| 569 | 232 | Monica Fields |
+| 570 | 231 | Lazy Tiltpiece |
 | 571 | 231 | TieMs BHughez |
-| 572 | 230 | Jessica Kirby |
+| 572 | 231 | toxictonic92 |
 | 573 | 230 | Chris Watson Draper |
-| 574 | 230 | AnnaM |
+| 574 | 230 | Jessica Kirby |
 | 575 | 230 | Poyre Shelton |
-| 576 | 229 | Cheryl Miller |
-| 577 | 229 | Phillip Vasquez |
-| 578 | 228 | Shawn Himes |
-| 579 | 228 | PSD |
+| 576 | 229 | Phillip Vasquez |
+| 577 | 229 | Cheryl Miller |
+| 578 | 228 | PSD |
+| 579 | 228 | Shawn Himes |
 | 580 | 227 | Sarah Barnum |
-| 581 | 227 | Katrina Ramey |
-| 582 | 227 | Mommy Frank |
+| 581 | 227 | Mommy Frank |
+| 582 | 227 | Katrina Ramey |
 | 583 | 227 | Chris Holland |
-| 584 | 226 | Rayshawn Cohen |
-| 585 | 226 | Rufus |
+| 584 | 226 | Rufus |
+| 585 | 226 | Peppy Glider |
 | 586 | 226 | John Spath |
 | 587 | 226 | Kahliah Baker |
-| 588 | 226 | Peppy Glider |
+| 588 | 226 | Rayshawn Cohen |
 | 589 | 225 | Sherri Keys |
 | 590 | 225 | Marissa Sweet |
 | 591 | 224 | MELLZZtick€T |
 | 592 | 224 | Juan Santiago |
-| 593 | 223 | Stephen Providenti |
+| 593 | 223 | BB |
 | 594 | 223 | Heather Wilson |
-| 595 | 223 | BB |
+| 595 | 223 | Stephen Providenti |
 | 596 | 223 | Semaj Johnson |
-| 597 | 222 | Coco |
-| 598 | 222 | Donna Payne |
+| 597 | 222 | Donna Payne |
+| 598 | 222 | Coco |
 | 599 | 222 | Frilly Shatterline |
 | 600 | 221 | Terri Smart |
-| 601 | 221 | Lucy |
-| 602 | 221 | Daring Riserfit |
-| 603 | 220 | Carolyn Smith |
-| 604 | 220 | Cori Cleland |
-| 605 | 220 | Douglas Price |
+| 601 | 221 | Daring Riserfit |
+| 602 | 221 | Lucy |
+| 603 | 220 | Cori Cleland |
+| 604 | 220 | Douglas Price |
+| 605 | 220 | Carolyn Smith |
 | 606 | 219 | Krystal Maynard |
 | 607 | 219 | Nora Mahmoud |
 | 608 | 218 | Carla |
@@ -618,14 +618,14 @@
 | 610 | 217 | Clipzby |
 | 611 | 217 | Louise Parker |
 | 612 | 216 | Lively Clusterline |
-| 613 | 216 | Londa Londa |
-| 614 | 216 | Will |
+| 613 | 216 | Will |
+| 614 | 216 | Londa Londa |
 | 615 | 216 | Aaron Hartmann |
-| 616 | 215 | MzJuice Box |
-| 617 | 215 | Yashica Smith |
-| 618 | 215 | Perky Balancer |
-| 619 | 215 | Lynnette WheelerBushnell |
-| 620 | 215 | GetDaOPPS |
+| 616 | 215 | GetDaOPPS |
+| 617 | 215 | MzJuice Box |
+| 618 | 215 | Lynnette WheelerBushnell |
+| 619 | 215 | Yashica Smith |
+| 620 | 215 | Perky Balancer |
 | 621 | 214 | Nickeya Phillips |
 | 622 | 214 | Kp |
 | 623 | 213 | Nyhlah Patterson |
@@ -829,10 +829,10 @@
 | 821 | 152 | Arlea Mann |
 | 822 | 152 | Wacky Stackbuilder |
 | 823 | 152 | Megan Jones |
-| 824 | 151 | KimChii |
-| 825 | 151 | Shanell Thomas |
-| 826 | 151 | Terrie |
-| 827 | 151 | Chereese Harris |
+| 824 | 152 | Chereese Harris |
+| 825 | 151 | KimChii |
+| 826 | 151 | Shanell Thomas |
+| 827 | 151 | Terrie |
 | 828 | 151 | lady |
 | 829 | 150 | Kanary Karotz |
 | 830 | 150 | Raquel Ortiz |
