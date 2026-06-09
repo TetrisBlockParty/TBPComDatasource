@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:06:45 UTC
+# Standings for team1 as of 2026-06-09 10:07:22 UTC
 
 **Total Participants:** 2033
 
@@ -118,8 +118,8 @@
 | 110 | 1027 | Yolanda E Fergerson |
 | 111 | 1024 | Chill Clusterer |
 | 112 | 1014 | Chris Caniglia |
-| 113 | 1002 | Jaida King |
-| 114 | 999 | Robbie Cheeseman |
+| 113 | 1009 | Robbie Cheeseman |
+| 114 | 1002 | Jaida King |
 | 115 | 982 | Quirky Fallgrid |
 | 116 | 975 | Peppy Piececlear |
 | 117 | 974 | Joy Citizen Pickney |
