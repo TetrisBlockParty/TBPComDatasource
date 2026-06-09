@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:44:43 UTC
+# Standings for team1 as of 2026-06-09 10:45:21 UTC
 
 **Total Participants:** 2036
 
@@ -62,9 +62,9 @@
 | 54 | 1805 | Louis Richard Jr |
 | 55 | 1804 | Markeeta Lipscomb |
 | 56 | 1789 | Jolly Dropzone |
-| 57 | 1772 | Chris Russell |
-| 58 | 1762 | D'Andra Stewart |
-| 59 | 1759 | Corey Cawthon |
+| 57 | 1779 | Corey Cawthon |
+| 58 | 1772 | Chris Russell |
+| 59 | 1762 | D'Andra Stewart |
 | 60 | 1700 | Rosey |
 | 61 | 1683 | Jacoby E Fleming |
 | 62 | 1642 | TAZ-MF-NIZIL |
@@ -189,14 +189,14 @@
 | 181 | 606 | Tammye Turner |
 | 182 | 604 | Michelle Titus |
 | 183 | 600 | Shellzb Roberts |
-| 184 | 599 | Zappy Riser |
-| 185 | 596 | Cj Gorman |
-| 186 | 590 | xXEKUNXx |
-| 187 | 585 | Jamal Itzjusmall Chambers |
-| 188 | 584 | Novaa |
-| 189 | 583 | TT |
-| 190 | 583 | Block King |
-| 191 | 580 | Spicy Risepiece |
+| 184 | 600 | Spicy Risepiece |
+| 185 | 599 | Zappy Riser |
+| 186 | 596 | Cj Gorman |
+| 187 | 590 | xXEKUNXx |
+| 188 | 585 | Jamal Itzjusmall Chambers |
+| 189 | 584 | Novaa |
+| 190 | 583 | TT |
+| 191 | 583 | Block King |
 | 192 | 580 | Felicia Cain |
 | 193 | 577 | Nina Davis |
 | 194 | 577 | Randizzle |
@@ -689,13 +689,13 @@
 | 681 | 165 | Vannie G |
 | 682 | 165 | toxictonic92 |
 | 683 | 164 | Jes Marie |
-| 684 | 164 | Chris Nelson |
-| 685 | 163 | Kelvin Cook |
-| 686 | 163 | QueenShay AllGood |
-| 687 | 162 | Speedy Stacky |
-| 688 | 162 | Peppy Wipeblock |
-| 689 | 162 | Sherri Keys |
-| 690 | 161 | Christina Singleton |
+| 684 | 164 | Christina Singleton |
+| 685 | 164 | Chris Nelson |
+| 686 | 163 | Kelvin Cook |
+| 687 | 163 | QueenShay AllGood |
+| 688 | 162 | Speedy Stacky |
+| 689 | 162 | Peppy Wipeblock |
+| 690 | 162 | Sherri Keys |
 | 691 | 160 | Cheeky Twistpiece |
 | 692 | 160 | Spotlight |
 | 693 | 160 | Donnie Withthebody |
@@ -766,18 +766,18 @@
 | 758 | 146 | Jojo M |
 | 759 | 145 | tg |
 | 760 | 145 | Kashh |
-| 761 | 145 | Nekka |
-| 762 | 145 | Hyedie Badie |
+| 761 | 145 | Hyedie Badie |
+| 762 | 145 | Nekka |
 | 763 | 144 | Ysma Simmons |
 | 764 | 144 | Cm |
 | 765 | 144 | Dapper Matchfit |
 | 766 | 144 | Batty B |
 | 767 | 143 | LAdYPOLy |
-| 768 | 142 | Tiffany Jean Hinson |
-| 769 | 142 | Mary Goode |
-| 770 | 142 | Boricua64 |
-| 771 | 142 | Jasmine Hariston-Estis |
-| 772 | 141 | Kim Holzmiller |
+| 768 | 143 | Kim Holzmiller |
+| 769 | 142 | Tiffany Jean Hinson |
+| 770 | 142 | Mary Goode |
+| 771 | 142 | Boricua64 |
+| 772 | 142 | Jasmine Hariston-Estis |
 | 773 | 141 | Lively Wipeout |
 | 774 | 141 | Angela Kitchens |
 | 775 | 141 | KimChii |
