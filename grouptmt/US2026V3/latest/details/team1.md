@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:40:44 UTC
+# Standings for team1 as of 2026-06-09 11:41:21 UTC
 
 **Total Participants:** 2038
 
@@ -27,7 +27,7 @@
 | 19 | 5595 | Cool Bridger |
 | 20 | 5282 | Plucky Swipe |
 | 21 | 5098 | jaimie |
-| 22 | 5044 | Ivana Schmidt |
+| 22 | 5082 | Ivana Schmidt |
 | 23 | 4621 | Chandler Spencer |
 | 24 | 4597 | Pdubbl3 |
 | 25 | 4168 | Kkbk |
@@ -145,9 +145,9 @@
 | 137 | 817 | Cathy Young |
 | 138 | 815 | Spunky Edgefit |
 | 139 | 799 | Shontanese Adams |
-| 140 | 793 | Rackemwillie34 |
-| 141 | 775 | Big Tina |
-| 142 | 767 | De'Laonzeo Anthony |
+| 140 | 797 | De'Laonzeo Anthony |
+| 141 | 793 | Rackemwillie34 |
+| 142 | 775 | Big Tina |
 | 143 | 760 | Trendalyn Webb |
 | 144 | 756 | Jimmie Makia |
 | 145 | 754 | Jhaime |
@@ -819,109 +819,109 @@
 | 811 | 136 | Chereese Harris |
 | 812 | 136 | Christopher Shaw-Black |
 | 813 | 136 | Rissa Rozay |
-| 814 | 135 | Paul Pendley |
-| 815 | 135 | Laysa Nunez |
+| 814 | 135 | Laysa Nunez |
+| 815 | 135 | Paul Pendley |
 | 816 | 135 | Mellie Mel |
 | 817 | 135 | Saucy Tile |
 | 818 | 135 | Chanel White |
 | 819 | 134 | Bouncy Glide |
 | 820 | 134 | Laurie Napper |
-| 821 | 133 | Derald Miller |
-| 822 | 133 | squints |
-| 823 | 133 | Meshia |
+| 821 | 133 | squints |
+| 822 | 133 | Meshia |
+| 823 | 133 | Derald Miller |
 | 824 | 132 | Desi Guerra |
 | 825 | 131 | Koreen Johnson-Woolford |
 | 826 | 131 | Kortney Adams |
-| 827 | 130 | Jessica Davis |
-| 828 | 130 | Anthony Collins |
-| 829 | 130 | Terrance Tindall |
-| 830 | 130 | Tito Divyn |
+| 827 | 130 | Tito Divyn |
+| 828 | 130 | Jessica Davis |
+| 829 | 130 | Anthony Collins |
+| 830 | 130 | Terrance Tindall |
 | 831 | 130 | Gerold Folk Haddock |
 | 832 | 129 | Chino Baby |
-| 833 | 129 | Williams Candace |
-| 834 | 129 | JesusSaves 😇 |
-| 835 | 129 | Stronger Wiser Better |
-| 836 | 129 | Felicia Dungey |
-| 837 | 129 | Twisty Dashy |
-| 838 | 129 | Jas |
-| 839 | 128 | Katness |
-| 840 | 128 | Brittany Britkany Marsden-Garrison |
-| 841 | 128 | Li-Li Ratliff |
-| 842 | 127 | Witty Clear |
-| 843 | 127 | Pretty Yella |
+| 833 | 129 | Desiree Ryder |
+| 834 | 129 | Williams Candace |
+| 835 | 129 | Twisty Dashy |
+| 836 | 129 | JesusSaves 😇 |
+| 837 | 129 | Stronger Wiser Better |
+| 838 | 129 | Felicia Dungey |
+| 839 | 129 | Jas |
+| 840 | 128 | Katness |
+| 841 | 128 | Brittany Britkany Marsden-Garrison |
+| 842 | 128 | Li-Li Ratliff |
+| 843 | 127 | Witty Clear |
 | 844 | 127 | Ashley Davis |
-| 845 | 126 | Mom3granny2 |
-| 846 | 126 | Shawna Passwater |
-| 847 | 126 | Benjamin Livingston |
-| 848 | 126 | Jess |
-| 849 | 126 | Latoya Carson |
-| 850 | 126 | Sally Elizabeth Hopson |
+| 845 | 127 | Pretty Yella |
+| 846 | 126 | Mom3granny2 |
+| 847 | 126 | Shawna Passwater |
+| 848 | 126 | Benjamin Livingston |
+| 849 | 126 | Kahh |
+| 850 | 126 | Latoya Carson |
 | 851 | 126 | Marc Papa |
-| 852 | 126 | Kahh |
-| 853 | 126 | Elaine Pauley |
-| 854 | 125 | Oaklonboy mike |
+| 852 | 126 | Elaine Pauley |
+| 853 | 126 | Jess |
+| 854 | 126 | Sally Elizabeth Hopson |
 | 855 | 125 | Jodie |
-| 856 | 124 | Sheesh |
-| 857 | 124 | Franklin Sotelo |
+| 856 | 125 | Oaklonboy mike |
+| 857 | 124 | Sheesh |
 | 858 | 124 | Nichelle Warren |
-| 859 | 124 | Sunny Tumbler |
-| 860 | 123 | Lady T |
+| 859 | 124 | Franklin Sotelo |
+| 860 | 124 | Sunny Tumbler |
 | 861 | 123 | Block |
 | 862 | 123 | Jackytrain52 |
 | 863 | 123 | Jason Saputo |
 | 864 | 123 | Dannie |
 | 865 | 123 | Tanesha Ga'sFinest Corbett |
-| 866 | 123 | Stephen Garland |
-| 867 | 123 | Tia Hazelton |
-| 868 | 123 | Esha I'msoproudofmyself Davis |
-| 869 | 122 | William Vidra |
-| 870 | 122 | Mumitt |
-| 871 | 122 | Amanda Woodruff |
-| 872 | 122 | Nick Stowers |
-| 873 | 122 | Motown Chuck |
-| 874 | 121 | Tiana Monique |
+| 866 | 123 | Lady T |
+| 867 | 123 | Stephen Garland |
+| 868 | 123 | Tia Hazelton |
+| 869 | 123 | Esha I'msoproudofmyself Davis |
+| 870 | 122 | Nick Stowers |
+| 871 | 122 | Motown Chuck |
+| 872 | 122 | William Vidra |
+| 873 | 122 | Amanda Woodruff |
+| 874 | 122 | Mumitt |
 | 875 | 121 | Jumpy Gridlock |
-| 876 | 121 | Desiree Ryder |
-| 877 | 120 | Richelle Beck |
-| 878 | 120 | Crafty Witch |
-| 879 | 120 | Charles Johnson |
-| 880 | 120 | lookin |
-| 881 | 120 | Kàrma Lee |
-| 882 | 120 | Crystal Garay |
-| 883 | 120 | Latanya Gayle |
-| 884 | 120 | Ebie |
-| 885 | 120 | Dianne Clagon |
-| 886 | 120 | Yellowguy3 |
-| 887 | 120 | Lauren Farkas |
-| 888 | 120 | Sandra Mims |
-| 889 | 119 | Alexis Alexander |
-| 890 | 119 | Hyy |
-| 891 | 119 | Octavia Whitmire |
+| 876 | 121 | Tiana Monique |
+| 877 | 120 | Yellowguy3 |
+| 878 | 120 | Kàrma Lee |
+| 879 | 120 | Crystal Garay |
+| 880 | 120 | Sandra Mims |
+| 881 | 120 | Latanya Gayle |
+| 882 | 120 | Crafty Witch |
+| 883 | 120 | Ebie |
+| 884 | 120 | Dianne Clagon |
+| 885 | 120 | Lauren Farkas |
+| 886 | 120 | Charles Johnson |
+| 887 | 120 | Richelle Beck |
+| 888 | 120 | lookin |
+| 889 | 119 | Analesia Taylor |
+| 890 | 119 | Alexis Alexander |
+| 891 | 119 | Hyy |
 | 892 | 119 | Boymama917 |
-| 893 | 119 | Adrian Harris |
-| 894 | 119 | Analesia Taylor |
-| 895 | 119 | Sylvia Offically A Mcgowan |
-| 896 | 119 | Albert McKnight |
-| 897 | 119 | Danny Talbot |
-| 898 | 118 | Shanna Green Williams |
-| 899 | 118 | Dirty Deeds |
-| 900 | 118 | Felicia Yahuah Johnson |
-| 901 | 118 | Gabriela Hernandez |
-| 902 | 118 | Jjhandsome |
+| 893 | 119 | Sylvia Offically A Mcgowan |
+| 894 | 119 | Danny Talbot |
+| 895 | 119 | Octavia Whitmire |
+| 896 | 119 | Adrian Harris |
+| 897 | 119 | Albert McKnight |
+| 898 | 118 | Gabriela Hernandez |
+| 899 | 118 | Jjhandsome |
+| 900 | 118 | Maria Baez Medina |
+| 901 | 118 | Dirty Deeds |
+| 902 | 118 | Felicia Yahuah Johnson |
 | 903 | 118 | Hasty Pivoty |
-| 904 | 118 | Raymond Boosie Freeman |
-| 905 | 118 | Maria Baez Medina |
-| 906 | 117 | Spicy Tiler |
-| 907 | 117 | Shanjerrica Taylor Rosell |
-| 908 | 117 | Andrea Jackson |
-| 909 | 117 | Bruce Paléncia |
-| 910 | 117 | DirtiestofMikes |
-| 911 | 117 | Jordan Deon Elery |
-| 912 | 117 | Cheery Clusterbuilder |
-| 913 | 117 | Kayel Good |
-| 914 | 116 | Alonzo Kirkland |
-| 915 | 116 | Tray Tolliver |
-| 916 | 116 | Alanna Breitenbach |
+| 904 | 118 | Shanna Green Williams |
+| 905 | 118 | Raymond Boosie Freeman |
+| 906 | 117 | Shanjerrica Taylor Rosell |
+| 907 | 117 | Jordan Deon Elery |
+| 908 | 117 | Kayel Good |
+| 909 | 117 | Spicy Tiler |
+| 910 | 117 | Cheery Clusterbuilder |
+| 911 | 117 | DirtiestofMikes |
+| 912 | 117 | Bruce Paléncia |
+| 913 | 117 | Andrea Jackson |
+| 914 | 116 | Alanna Breitenbach |
+| 915 | 116 | Alonzo Kirkland |
+| 916 | 116 | Tray Tolliver |
 | 917 | 115 | Kimberly Noble |
 | 918 | 115 | Shiny Lift |
 | 919 | 115 | Tamyka E Williams |
