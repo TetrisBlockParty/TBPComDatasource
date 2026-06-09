@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:15:22 UTC
+# Standings for team1 as of 2026-06-09 08:16:46 UTC
 
 **Total Participants:** 2018
 
@@ -600,118 +600,118 @@
 | 592 | 194 | Holly Baker |
 | 593 | 193 | Dizzy Dashy |
 | 594 | 193 | Kimberly Susan Privette |
-| 595 | 192 | Cranky Fall |
-| 596 | 192 | Donna Payne |
+| 595 | 192 | Donna Payne |
+| 596 | 192 | Cranky Fall |
 | 597 | 191 | Miera Nicole |
 | 598 | 191 | Nona Harriel |
 | 599 | 191 | Terri Smart |
 | 600 | 191 | Gbnola |
 | 601 | 191 | Cori Cleland |
-| 602 | 190 | Jovy |
-| 603 | 190 | Lester Malone |
-| 604 | 190 | Adrian Wilson |
-| 605 | 190 | Chipper Snapper |
-| 606 | 189 | Sean White |
-| 607 | 189 | Joseph Vs Cap |
-| 608 | 189 | Loopy Tiler |
-| 609 | 189 | The DUBZ |
-| 610 | 188 | Tyiesha Pie Farmer |
-| 611 | 188 | Ashlie Mo |
+| 602 | 190 | Lester Malone |
+| 603 | 190 | Jovy |
+| 604 | 190 | Chipper Snapper |
+| 605 | 190 | Adrian Wilson |
+| 606 | 189 | Joseph Vs Cap |
+| 607 | 189 | Loopy Tiler |
+| 608 | 189 | The DUBZ |
+| 609 | 189 | Sean White |
+| 610 | 188 | Tangy Moore |
+| 611 | 188 | Tyiesha Pie Farmer |
 | 612 | 188 | Sarah Steckbauer |
-| 613 | 188 | DeAngelo Sorrells |
-| 614 | 188 | Zappy Snapgrid |
-| 615 | 188 | Tangy Moore |
-| 616 | 187 | Kimmie Gargano |
+| 613 | 188 | Ashlie Mo |
+| 614 | 188 | DeAngelo Sorrells |
+| 615 | 188 | Zappy Snapgrid |
+| 616 | 187 | MELLZZtick€T |
 | 617 | 187 | Lively Riserpiece |
-| 618 | 187 | MELLZZtick€T |
-| 619 | 186 | Spicy Shatterblock |
-| 620 | 186 | Brittany Sara Heldwein |
+| 618 | 187 | Kimmie Gargano |
+| 619 | 186 | Brittany Sara Heldwein |
+| 620 | 186 | Spicy Shatterblock |
 | 621 | 184 | Dorian Griffin |
-| 622 | 183 | Amihan |
-| 623 | 183 | Shakuria Cortia Burney |
-| 624 | 183 | Tushama Cheris Okraku |
-| 625 | 183 | Shameka Tiffany |
-| 626 | 183 | Erika |
-| 627 | 182 | Comedian Prince Paul |
-| 628 | 182 | Jimmy Shannon |
+| 622 | 183 | Shakuria Cortia Burney |
+| 623 | 183 | Shameka Tiffany |
+| 624 | 183 | Erika |
+| 625 | 183 | Amihan |
+| 626 | 183 | Tushama Cheris Okraku |
+| 627 | 182 | Jimmy Shannon |
+| 628 | 182 | Comedian Prince Paul |
 | 629 | 182 | RylonJones |
 | 630 | 181 | Amy Villalpando |
 | 631 | 181 | Shawn Himes |
-| 632 | 180 | Carolyn Smith |
-| 633 | 180 | Cornelius Neal |
-| 634 | 180 | Yadira Salgado |
-| 635 | 180 | Leavon Smith |
-| 636 | 180 | NedaWin |
-| 637 | 179 | Ad Doctor |
-| 638 | 179 | Tiffany Conley |
+| 632 | 180 | Leavon Smith |
+| 633 | 180 | Carolyn Smith |
+| 634 | 180 | Cornelius Neal |
+| 635 | 180 | NedaWin |
+| 636 | 180 | Yadira Salgado |
+| 637 | 179 | Tiffany Conley |
+| 638 | 179 | Ad Doctor |
 | 639 | 177 | Kyle Conley |
 | 640 | 176 | Callie Mae |
 | 641 | 176 | Squaw Ki Ng |
 | 642 | 176 | Frisky Gridder |
 | 643 | 176 | Char |
-| 644 | 175 | DaemahnFriday |
+| 644 | 176 | Ameillia Boughner |
 | 645 | 175 | Eric Machuca |
-| 646 | 174 | Clipzby |
+| 646 | 175 | DaemahnFriday |
 | 647 | 174 | Nerdy Wipefit |
-| 648 | 173 | Claudia Price |
-| 649 | 173 | Mathew Trudell |
-| 650 | 173 | Ashley Monet Terrell |
-| 651 | 172 | Betsy B. Yohan |
+| 648 | 174 | Clipzby |
+| 649 | 173 | Ashley Monet Terrell |
+| 650 | 173 | Claudia Price |
+| 651 | 173 | Mathew Trudell |
 | 652 | 172 | MrsDontPlay |
-| 653 | 171 | Ta'Kaiyah M. Spann |
+| 653 | 172 | Betsy B. Yohan |
 | 654 | 171 | Victor |
-| 655 | 170 | Christi Walker Patton |
-| 656 | 170 | meatballs |
-| 657 | 169 | Don Ray Mc |
+| 655 | 171 | Ta'Kaiyah M. Spann |
+| 656 | 170 | Christi Walker Patton |
+| 657 | 170 | meatballs |
 | 658 | 169 | Cheryl Miller |
 | 659 | 169 | rb |
-| 660 | 168 | Lounique |
-| 661 | 168 | Giddy Staggerpiece |
-| 662 | 168 | Lynn |
-| 663 | 167 | Lucy |
-| 664 | 167 | Dana Hawes |
+| 660 | 169 | Don Ray Mc |
+| 661 | 168 | Lounique |
+| 662 | 168 | Giddy Staggerpiece |
+| 663 | 168 | Lynn |
+| 664 | 167 | Lucy |
 | 665 | 167 | Joka NoTime ForHataz |
-| 666 | 167 | Comedian Gdane |
-| 667 | 167 | Montego Allen |
-| 668 | 166 | Amaadi Ward |
-| 669 | 166 | Ozell Jones Jr. |
-| 670 | 166 | Ameillia Boughner |
+| 666 | 167 | Dana Hawes |
+| 667 | 167 | Comedian Gdane |
+| 668 | 167 | Montego Allen |
+| 669 | 166 | Amaadi Ward |
+| 670 | 166 | Ozell Jones Jr. |
 | 671 | 165 | toxictonic92 |
 | 672 | 165 | lizlizliz |
 | 673 | 164 | Jes Marie |
-| 674 | 163 | Nora Mahmoud |
-| 675 | 163 | Kelvin Cook |
-| 676 | 163 | QueenShay AllGood |
+| 674 | 163 | QueenShay AllGood |
+| 675 | 163 | Nora Mahmoud |
+| 676 | 163 | Kelvin Cook |
 | 677 | 162 | Logan Frost |
-| 678 | 162 | Sherri Keys |
-| 679 | 162 | Speedy Stacky |
+| 678 | 162 | Speedy Stacky |
+| 679 | 162 | Sherri Keys |
 | 680 | 161 | Devron Reedy |
-| 681 | 160 | Spotlight |
+| 681 | 160 | Duncan Timothy |
 | 682 | 160 | Donnie Withthebody |
-| 683 | 160 | Cheeky Twistpiece |
-| 684 | 160 | Kesha Brady |
-| 685 | 160 | Duncan Timothy |
+| 683 | 160 | Kesha Brady |
+| 684 | 160 | Spotlight |
+| 685 | 160 | Cheeky Twistpiece |
 | 686 | 159 | Tee Spinks |
 | 687 | 159 | Peppy Wipeblock |
 | 688 | 159 | Frances Davis |
-| 689 | 159 | TY Newme Batts |
-| 690 | 159 | Yvette McGee |
-| 691 | 159 | Pinky Pink |
-| 692 | 159 | Darrel Pemberton |
-| 693 | 158 | Chloe Bankz |
-| 694 | 158 | P C |
-| 695 | 158 | Seddrick |
-| 696 | 158 | TotoCherue |
+| 689 | 159 | Yvette McGee |
+| 690 | 159 | Darrel Pemberton |
+| 691 | 159 | TY Newme Batts |
+| 692 | 159 | Pinky Pink |
+| 693 | 158 | TotoCherue |
+| 694 | 158 | Seddrick |
+| 695 | 158 | Chloe Bankz |
+| 696 | 158 | P C |
 | 697 | 158 | Chris Watson Draper |
 | 698 | 158 | Meow Meow |
-| 699 | 157 | Lilly Brown |
-| 700 | 157 | Zany Breaker |
+| 699 | 157 | Zany Breaker |
+| 700 | 157 | Lilly Brown |
 | 701 | 157 | Chirpy Buildgrid |
 | 702 | 157 | Tony Pizzas |
-| 703 | 156 | Melissa Hershberger |
-| 704 | 156 | Sara |
-| 705 | 156 | Karen Denen |
-| 706 | 156 | Semaj Johnson |
+| 703 | 156 | Karen Denen |
+| 704 | 156 | Semaj Johnson |
+| 705 | 156 | Melissa Hershberger |
+| 706 | 156 | Sara |
 | 707 | 156 | LaSharmeika Fancher |
 | 708 | 155 | Undeniable Williams |
 | 709 | 155 | Poppy Smasher |
