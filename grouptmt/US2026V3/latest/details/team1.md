@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:29:23 UTC
+# Standings for team1 as of 2026-06-09 19:30:44 UTC
 
 **Total Participants:** 2106
 
@@ -52,7 +52,7 @@
 | 44 | 2156 | Mimi 1.0 |
 | 45 | 2138 | Linzie Marie |
 | 46 | 2135 | Brian Bohanon II |
-| 47 | 2098 | Jennifer To |
+| 47 | 2113 | Jennifer To |
 | 48 | 2081 | Hyper Slamdrop |
 | 49 | 2076 | April Inboden |
 | 50 | 2060 | Cherry Rose |
@@ -70,23 +70,23 @@
 | 62 | 1782 | Jacoby E Fleming |
 | 63 | 1774 | Blockhead |
 | 64 | 1767 | Moomoo |
-| 65 | 1642 | TAZ-MF-NIZIL |
-| 66 | 1622 | Bre Maugh |
+| 65 | 1642 | Bre Maugh |
+| 66 | 1642 | TAZ-MF-NIZIL |
 | 67 | 1616 | Jessica Roberts |
 | 68 | 1567 | Eric Mcgaughy |
-| 69 | 1550 | Chris Caniglia |
+| 69 | 1554 | Chris Caniglia |
 | 70 | 1545 | MamaBear |
 | 71 | 1532 | Danielle DeLozier Plesec |
 | 72 | 1503 | Sanjuro |
 | 73 | 1478 | Angela R Wilson |
 | 74 | 1476 | Todd C. Clemens |
 | 75 | 1471 | Janet Cooke |
-| 76 | 1458 | Frisky Fallmatch |
-| 77 | 1450 | Chenell Gillard |
-| 78 | 1441 | Holly Jolly |
-| 79 | 1426 | LeeLee08 |
-| 80 | 1418 | Daylene Johannes |
-| 81 | 1409 | Michael J Gresham |
+| 76 | 1459 | Michael J Gresham |
+| 77 | 1458 | Frisky Fallmatch |
+| 78 | 1450 | Chenell Gillard |
+| 79 | 1441 | Holly Jolly |
+| 80 | 1426 | LeeLee08 |
+| 81 | 1418 | Daylene Johannes |
 | 82 | 1399 | Uneekly Mayde |
 | 83 | 1363 | Spicy Balancer |
 | 84 | 1356 | Sarah Marie |
@@ -166,8 +166,8 @@
 | 158 | 772 | Gotcha |
 | 159 | 760 | Trendalyn Webb |
 | 160 | 758 | Andi McGreevy |
-| 161 | 754 | Jhaime |
-| 162 | 754 | Antonia Wyche |
+| 161 | 756 | Antonia Wyche |
+| 162 | 754 | Jhaime |
 | 163 | 749 | sha |
 | 164 | 749 | Dulo |
 | 165 | 746 | Eugina Slater |
@@ -332,9 +332,9 @@
 | 324 | 394 | Jackie Sanasay |
 | 325 | 393 | Rayya Kiser |
 | 326 | 392 | Dedra M Prester |
-| 327 | 390 | Richard Flex |
-| 328 | 390 | Christian Pham |
-| 329 | 390 | Hasty Glidezone |
+| 327 | 390 | Hasty Glidezone |
+| 328 | 390 | Richard Flex |
+| 329 | 390 | Christian Pham |
 | 330 | 386 | De'Mear McKinney |
 | 331 | 386 | Tremaine Hiler |
 | 332 | 384 | Erica Charlise |
@@ -342,66 +342,66 @@
 | 334 | 382 | Brave Clearbuilder |
 | 335 | 381 | NastyFriend |
 | 336 | 380 | Ketrell Bailey |
-| 337 | 378 | Ashley MyBeauty Daniels |
-| 338 | 378 | Heather Aurelia |
+| 337 | 378 | Heather Aurelia |
+| 338 | 378 | Ashley MyBeauty Daniels |
 | 339 | 377 | Amber Wilson |
-| 340 | 377 | AF Cruz |
-| 341 | 377 | ♈️ Ariesbaby |
+| 340 | 377 | ♈️ Ariesbaby |
+| 341 | 377 | AF Cruz |
 | 342 | 374 | KeeKee Williams |
 | 343 | 371 | Lauraly |
 | 344 | 371 | 大竹直之 |
 | 345 | 371 | SeanSanchez |
 | 346 | 370 | Allison Baxter |
 | 347 | 370 | Jayjay Rich |
-| 348 | 368 | Brand Nu |
-| 349 | 368 | Cortaz Lawrie |
+| 348 | 368 | Cortaz Lawrie |
+| 349 | 368 | Brand Nu |
 | 350 | 367 | Still Ten Tay |
 | 351 | 364 | Michele Simpson |
 | 352 | 363 | Christina Rebecca |
 | 353 | 362 | Kendra McIntyre |
-| 354 | 361 | John Staub |
-| 355 | 361 | Jawaun Daniels |
-| 356 | 361 | Lakiesha Crawford |
-| 357 | 360 | Giggy Edgefit |
-| 358 | 359 | Montréal Mars |
+| 354 | 361 | LaTonya Myers |
+| 355 | 361 | John Staub |
+| 356 | 361 | Jawaun Daniels |
+| 357 | 361 | Lakiesha Crawford |
+| 358 | 360 | Giggy Edgefit |
 | 359 | 359 | Jennah |
-| 360 | 358 | izzybella |
-| 361 | 358 | Snippy Breaker |
-| 362 | 358 | Analiza Ramos |
-| 363 | 357 | Jana Cheek |
+| 360 | 359 | Montréal Mars |
+| 361 | 358 | Analiza Ramos |
+| 362 | 358 | Snippy Breaker |
+| 363 | 358 | izzybella |
 | 364 | 357 | Giggly Tiltbuilder |
-| 365 | 356 | Haley Bell |
-| 366 | 355 | Tajuana Juana'Cee Coleman |
-| 367 | 355 | HarleyJane |
-| 368 | 354 | Amy Lynn Leifheit |
-| 369 | 353 | Bbyunicorn |
-| 370 | 352 | Ann Chung |
-| 371 | 352 | Asha Langford |
-| 372 | 351 | Shameka Thrasher |
-| 373 | 350 | Bubbly Piececlear |
-| 374 | 349 | rls |
+| 365 | 357 | Jana Cheek |
+| 366 | 356 | Haley Bell |
+| 367 | 355 | Tajuana Juana'Cee Coleman |
+| 368 | 355 | HarleyJane |
+| 369 | 354 | Amy Lynn Leifheit |
+| 370 | 353 | Bbyunicorn |
+| 371 | 352 | Ann Chung |
+| 372 | 352 | Asha Langford |
+| 373 | 351 | Shameka Thrasher |
+| 374 | 350 | Bubbly Piececlear |
 | 375 | 349 | Smiley Clearpiece |
-| 376 | 348 | Dennis J Herron II |
-| 377 | 347 | Brenda Malachi-butler |
-| 378 | 344 | DaGuy |
+| 376 | 349 | rls |
+| 377 | 348 | Dennis J Herron II |
+| 378 | 347 | Brenda Malachi-butler |
 | 379 | 344 | Chilly Wipebuilder |
-| 380 | 343 | MamushiOh |
-| 381 | 343 | Jae Thompson-Tyus |
-| 382 | 340 | Tipsy Linkroll |
+| 380 | 344 | DaGuy |
+| 381 | 343 | MamushiOh |
+| 382 | 343 | Jae Thompson-Tyus |
 | 383 | 340 | Peppy Towerbuilder |
 | 384 | 340 | Jean Regis |
-| 385 | 339 | Shanaa Germany Crittenden |
+| 385 | 340 | Tipsy Linkroll |
 | 386 | 339 | Wayne Savannah |
-| 387 | 338 | MindlessMic |
-| 388 | 338 | Shalya Terry |
-| 389 | 336 | Skippy |
-| 390 | 334 | Emily Wright |
-| 391 | 334 | Kelli Couture |
-| 392 | 331 | LaTonya Myers |
-| 393 | 330 | Daddy |
-| 394 | 330 | Shea Ladynick Henderson |
-| 395 | 330 | akosua |
-| 396 | 330 | Jolly Tilefall |
+| 387 | 339 | Shanaa Germany Crittenden |
+| 388 | 338 | MindlessMic |
+| 389 | 338 | Shalya Terry |
+| 390 | 336 | Skippy |
+| 391 | 334 | Emily Wright |
+| 392 | 334 | Kelli Couture |
+| 393 | 330 | akosua |
+| 394 | 330 | Jolly Tilefall |
+| 395 | 330 | Shea Ladynick Henderson |
+| 396 | 330 | Daddy |
 | 397 | 327 | Ashley Monet Terrell |
 | 398 | 326 | SweetByNBy |
 | 399 | 325 | LaShaun Stinson |
