@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:34:21 UTC
+# Standings for team4 as of 2026-06-09 08:34:44 UTC
 
 **Total Participants:** 2088
 
@@ -849,36 +849,36 @@
 | 841 | 129 | Groovy Stacker |
 | 842 | 129 | Andretta Sellers Robinson |
 | 843 | 129 | Brenda Gustamantes |
-| 844 | 129 | Scott Baum |
-| 845 | 129 | Jennifer Brucz |
-| 846 | 129 | Vlad Rudman |
-| 847 | 128 | SandyEva |
-| 848 | 128 | Cozy Builderfit |
+| 844 | 129 | SueSally |
+| 845 | 129 | Vlad Rudman |
+| 846 | 129 | Jennifer Brucz |
+| 847 | 129 | Scott Baum |
+| 848 | 128 | SandyEva |
 | 849 | 128 | Ash |
-| 850 | 127 | Chirpy Dashfit |
-| 851 | 127 | Trishaann Triplett |
-| 852 | 127 | idk240 |
-| 853 | 127 | Chelle Williams |
-| 854 | 127 | Loyalty83 |
-| 855 | 127 | Lola |
-| 856 | 127 | Powder |
-| 857 | 127 | Cheeky Climber |
-| 858 | 127 | Darryl Shufford |
-| 859 | 126 | Chipper Fitblock |
-| 860 | 126 | Weird Cat |
+| 850 | 128 | Cozy Builderfit |
+| 851 | 127 | Darryl Shufford |
+| 852 | 127 | Powder |
+| 853 | 127 | Lola |
+| 854 | 127 | Cheeky Climber |
+| 855 | 127 | Loyalty83 |
+| 856 | 127 | Chelle Williams |
+| 857 | 127 | idk240 |
+| 858 | 127 | Trishaann Triplett |
+| 859 | 127 | Chirpy Dashfit |
+| 860 | 126 | Clever Blockmatch |
 | 861 | 126 | Toria |
-| 862 | 126 | Clever Blockmatch |
-| 863 | 126 | Carlos Amaya |
-| 864 | 126 | Kristen Nicole Depp-Stewart |
-| 865 | 126 | Miguel Teixeira |
-| 866 | 125 | Daring Patternblock |
+| 862 | 126 | Carlos Amaya |
+| 863 | 126 | Kristen Nicole Depp-Stewart |
+| 864 | 126 | Weird Cat |
+| 865 | 126 | Chipper Fitblock |
+| 866 | 126 | Miguel Teixeira |
 | 867 | 125 | Kelly Miller Williams |
-| 868 | 125 | Youngkueen |
-| 869 | 125 | Joshua Hunt |
-| 870 | 125 | Samantha Lohmeyer |
-| 871 | 125 | Alex Dawn |
-| 872 | 125 | Chelsea Costa |
-| 873 | 125 | SueSally |
+| 868 | 125 | Daring Patternblock |
+| 869 | 125 | Youngkueen |
+| 870 | 125 | Joshua Hunt |
+| 871 | 125 | Samantha Lohmeyer |
+| 872 | 125 | Alex Dawn |
+| 873 | 125 | Chelsea Costa |
 | 874 | 124 | Nerdy Glider |
 | 875 | 124 | Wynisha Johnson |
 | 876 | 124 | Chad Finton |
@@ -955,61 +955,61 @@
 | 947 | 111 | Anthony Kollar |
 | 948 | 111 | Jacquelyn L Whitsitt |
 | 949 | 111 | Lush Balanceblock |
-| 950 | 111 | Sonya |
-| 951 | 111 | MzCeleste Brooks |
-| 952 | 111 | Elizabeth Putansu |
+| 950 | 111 | MzCeleste Brooks |
+| 951 | 111 | Peachy Piecefit |
+| 952 | 111 | Sonya |
 | 953 | 111 | Abby Waterman |
-| 954 | 111 | Peachy Piecefit |
-| 955 | 110 | skynatda |
-| 956 | 110 | Slinky Snapfit |
-| 957 | 110 | Larredo Covington |
-| 958 | 110 | Zappy Tilemaker |
-| 959 | 110 | kaykay |
-| 960 | 110 | Aleta Svitak |
-| 961 | 110 | Charissa W Walton |
+| 954 | 111 | Elizabeth Putansu |
+| 955 | 110 | Zappy Tilemaker |
+| 956 | 110 | skynatda |
+| 957 | 110 | kaykay |
+| 958 | 110 | Aleta Svitak |
+| 959 | 110 | Charissa W Walton |
+| 960 | 110 | Larredo Covington |
+| 961 | 110 | Slinky Snapfit |
 | 962 | 109 | Honey Honey |
-| 963 | 109 | Tiffany Roberts |
-| 964 | 109 | da1ndonly |
+| 963 | 109 | Frisky Blocker |
+| 964 | 109 | Jonathan Jackson |
 | 965 | 109 | Street724 |
-| 966 | 109 | Jonathan Jackson |
-| 967 | 109 | Frisky Blocker |
+| 966 | 109 | da1ndonly |
+| 967 | 109 | Tiffany Roberts |
 | 968 | 109 | Tony Clark |
-| 969 | 108 | Miranda Brown |
-| 970 | 108 | Gwendolyn Langwinski |
-| 971 | 108 | Alaina Rousseau |
-| 972 | 108 | Gingerale<3 |
-| 973 | 108 | Marisela Alvarado |
-| 974 | 108 | PDubz |
+| 969 | 108 | Gerald Richard Franke |
+| 970 | 108 | Miranda Brown |
+| 971 | 108 | PDubz |
+| 972 | 108 | Marisela Alvarado |
+| 973 | 108 | Giggy Risegrid |
+| 974 | 108 | Gingerale<3 |
 | 975 | 108 | Sandra O'Reilly |
-| 976 | 108 | Gerald Richard Franke |
-| 977 | 108 | Giggy Risegrid |
-| 978 | 107 | Kaela Ferguson |
-| 979 | 107 | JP |
-| 980 | 107 | Taquilla Branch |
+| 976 | 108 | Gwendolyn Langwinski |
+| 977 | 108 | Alaina Rousseau |
+| 978 | 107 | 94Blockhead |
+| 979 | 107 | Taquilla Branch |
+| 980 | 107 | JP |
 | 981 | 107 | BethB |
-| 982 | 107 | Bren70 |
+| 982 | 107 | Kaela Ferguson |
 | 983 | 107 | ManOfSteel |
-| 984 | 107 | Lori A Hamann |
+| 984 | 107 | Bren70 |
 | 985 | 107 | Jordan Tamayia Williams |
-| 986 | 107 | 94Blockhead |
+| 986 | 107 | Lori A Hamann |
 | 987 | 107 | Goofy Riserbuilder |
-| 988 | 106 | Melissa Gorman |
-| 989 | 106 | LynDee Danielle Hankins |
+| 988 | 106 | Marie Culbert |
+| 989 | 106 | Melissa Gorman |
 | 990 | 106 | JJADHD |
 | 991 | 106 | Helen Bradley |
-| 992 | 106 | Marie Culbert |
-| 993 | 105 | Lush Match |
-| 994 | 105 | Steve Swanson |
-| 995 | 105 | Snappy Fill |
-| 996 | 105 | Erich EMac McIntosh |
-| 997 | 105 | Kelly |
-| 998 | 105 | Jailen Harper |
-| 999 | 104 | Dsay Yates |
-| 1000 | 104 | Chris Somsen |
-| 1001 | 104 | Chabetta |
-| 1002 | 103 | Snappy Slice |
-| 1003 | 103 | Donny Keets |
-| 1004 | 103 | ShortStackz Jones |
+| 992 | 106 | LynDee Danielle Hankins |
+| 993 | 105 | Jailen Harper |
+| 994 | 105 | Snappy Slice |
+| 995 | 105 | Erich EMac McIntosh |
+| 996 | 105 | Steve Swanson |
+| 997 | 105 | Lush Match |
+| 998 | 105 | Snappy Fill |
+| 999 | 105 | Kelly |
+| 1000 | 104 | Dsay Yates |
+| 1001 | 104 | Chris Somsen |
+| 1002 | 104 | Chabetta |
+| 1003 | 103 | ShortStackz Jones |
+| 1004 | 103 | Donny Keets |
 | 1005 | 103 | Archer Family Mayhem |
 | 1006 | 103 | Hayze |
 | 1007 | 102 | Stacey Heartful |
