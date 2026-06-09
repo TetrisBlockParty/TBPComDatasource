@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:06:44 UTC
+# Standings for team1 as of 2026-06-09 12:07:22 UTC
 
 **Total Participants:** 2039
 
@@ -10,7 +10,7 @@
 | 2 | 22000 | Kalynn Parks |
 | 3 | 12803 | Charlie Roehm |
 | 4 | 11884 | Death by SnuSnu |
-| 5 | 11054 | Carrie English |
+| 5 | 11154 | Carrie English |
 | 6 | 9667 | Speedy Spinblock |
 | 7 | 9550 | Charnay Peacock |
 | 8 | 9375 | Songne Arif |
@@ -102,7 +102,7 @@
 | 94 | 1206 | BYM4L |
 | 95 | 1187 | Dynah Gordon |
 | 96 | 1185 | Tiana Moore |
-| 97 | 1173 | Kimberly Hernandez |
+| 97 | 1177 | Kimberly Hernandez |
 | 98 | 1170 | Jonathan Vee Jay |
 | 99 | 1169 | Amalie Newvine |
 | 100 | 1164 | Tootsie Pop |
@@ -138,10 +138,10 @@
 | 130 | 861 | Atlantalindi |
 | 131 | 851 | Snappy Link |
 | 132 | 842 | Nutty Spinblock |
-| 133 | 831 | Kaleisha Smith |
-| 134 | 831 | Plucky Slamdrop |
-| 135 | 830 | No_Other_Choice |
-| 136 | 830 | Kellie Hall |
+| 133 | 837 | Kellie Hall |
+| 134 | 831 | Kaleisha Smith |
+| 135 | 831 | Plucky Slamdrop |
+| 136 | 830 | No_Other_Choice |
 | 137 | 823 | Cee Emm |
 | 138 | 817 | Cathy Young |
 | 139 | 815 | Spunky Edgefit |
@@ -166,11 +166,11 @@
 | 158 | 685 | Byron Mario Cawthon |
 | 159 | 685 | Ebony Waynes-robinson |
 | 160 | 677 | Chantelle Lee |
-| 161 | 673 | Jeffrey Barrows |
-| 162 | 672 | Antonia Wyche |
-| 163 | 672 | Denise B |
-| 164 | 671 | Gotcha |
-| 165 | 671 | Gael Quintana |
+| 161 | 674 | Gael Quintana |
+| 162 | 673 | Jeffrey Barrows |
+| 163 | 672 | Antonia Wyche |
+| 164 | 672 | Denise B |
+| 165 | 671 | Gotcha |
 | 166 | 668 | Katherine Short |
 | 167 | 668 | JaszyBadd |
 | 168 | 667 | Karebear |
@@ -441,64 +441,64 @@
 | 433 | 274 | Shakmar |
 | 434 | 274 | 신재호 |
 | 435 | 271 | Bambam |
-| 436 | 269 | Stephanie L Jeffries Moultrie |
-| 437 | 269 | Aihpos |
-| 438 | 269 | Kristine Marie Palmer |
+| 436 | 269 | Aihpos |
+| 437 | 269 | Kristine Marie Palmer |
+| 438 | 269 | Stephanie L Jeffries Moultrie |
 | 439 | 268 | C Lo Green |
 | 440 | 267 | BabyCakes |
 | 441 | 266 | Rebecca Jackson |
 | 442 | 264 | Boldy Matchbuilder |
 | 443 | 262 | Denisa Amazon Clark |
-| 444 | 261 | Brittany Fells |
-| 445 | 261 | LaTonya Myers |
-| 446 | 261 | Jelyfish |
+| 444 | 261 | Jelyfish |
+| 445 | 261 | Brittany Fells |
+| 446 | 261 | LaTonya Myers |
 | 447 | 260 | Alyssa Rae |
 | 448 | 260 | HS Arce |
 | 449 | 259 | Stacy Nicole |
 | 450 | 259 | Slinky Clearzone |
-| 451 | 258 | Kimberly Linares Hernandez |
-| 452 | 258 | FunTime |
+| 451 | 258 | FunTime |
+| 452 | 258 | Kimberly Linares Hernandez |
 | 453 | 257 | Twisty Brickfit |
 | 454 | 256 | Jessie N Michael Silvers |
-| 455 | 256 | TBABYJ |
-| 456 | 256 | Juan Alvarez |
+| 455 | 256 | Juan Alvarez |
+| 456 | 256 | TBABYJ |
 | 457 | 255 | Emily Wright |
-| 458 | 255 | Mister Reid |
-| 459 | 255 | Mighty Dropper |
-| 460 | 255 | Michelle Peters |
+| 458 | 255 | Mighty Dropper |
+| 459 | 255 | Michelle Peters |
+| 460 | 255 | Mister Reid |
 | 461 | 254 | Glitzy Patternline |
 | 462 | 254 | Asha Langford |
 | 463 | 253 | Tasha |
-| 464 | 249 | Nate Myers |
+| 464 | 251 | Brittany Sara Heldwein |
 | 465 | 249 | Fina McKinnis |
-| 466 | 249 | Yadira Salgado |
-| 467 | 248 | LuckyStar |
+| 466 | 249 | Nate Myers |
+| 467 | 249 | Yadira Salgado |
 | 468 | 248 | Melissa Olvera |
-| 469 | 247 | SceneGreenz Wali |
-| 470 | 247 | Abigail Newman Sweet |
+| 469 | 248 | LuckyStar |
+| 470 | 247 | SceneGreenz Wali |
 | 471 | 247 | Mahagony Small |
-| 472 | 246 | Latore Maxie |
-| 473 | 245 | Brittnay Wright |
+| 472 | 247 | Abigail Newman Sweet |
+| 473 | 246 | Latore Maxie |
 | 474 | 245 | Vera Beckford |
-| 475 | 244 | Brittanie Wardlow |
-| 476 | 244 | Saranoh13 |
-| 477 | 244 | Perky Pusher |
-| 478 | 244 | Slinky Snapbuilder |
-| 479 | 243 | Valerie Alexander |
-| 480 | 242 | Tamika Rocheteau |
-| 481 | 242 | Ryan Runyan |
-| 482 | 240 | Taz Ballard |
+| 475 | 245 | Brittnay Wright |
+| 476 | 244 | Perky Pusher |
+| 477 | 244 | Slinky Snapbuilder |
+| 478 | 244 | Brittanie Wardlow |
+| 479 | 244 | Saranoh13 |
+| 480 | 243 | Valerie Alexander |
+| 481 | 242 | Tamika Rocheteau |
+| 482 | 242 | Ryan Runyan |
 | 483 | 240 | Velma Jones |
 | 484 | 240 | Malcolm Stanley |
 | 485 | 240 | SherylU |
-| 486 | 239 | Manda Allen |
-| 487 | 239 | Guy Incognito |
-| 488 | 238 | SnazzyIvy |
-| 489 | 237 | Tanisha Taylor |
-| 490 | 237 | Kimberly Anderson |
-| 491 | 235 | nameno |
-| 492 | 235 | Daring Blockclear |
-| 493 | 235 | Brittany Sara Heldwein |
+| 486 | 240 | Taz Ballard |
+| 487 | 239 | Manda Allen |
+| 488 | 239 | Guy Incognito |
+| 489 | 238 | SnazzyIvy |
+| 490 | 237 | Tanisha Taylor |
+| 491 | 237 | Kimberly Anderson |
+| 492 | 235 | nameno |
+| 493 | 235 | Daring Blockclear |
 | 494 | 235 | Tracy Feyler |
 | 495 | 234 | wmedina67 |
 | 496 | 234 | Chris Nelson |
@@ -1802,44 +1802,44 @@
 | 1794 | 17 | Andre Rivera |
 | 1795 | 17 | Demetria Thompson |
 | 1796 | 17 | Hyper Cluster |
-| 1797 | 16 | Desmond Bernard Street |
-| 1798 | 16 | Scorpiogurl Cruz |
-| 1799 | 16 | Hulk |
+| 1797 | 17 | Hasty Builder |
+| 1798 | 16 | Desmond Bernard Street |
+| 1799 | 16 | Scorpiogurl Cruz |
 | 1800 | 16 | Michael Johnson |
-| 1801 | 16 | Joanne Davis Cunningham |
-| 1802 | 16 | Crystal Ann |
-| 1803 | 16 | Tabitha Burks |
-| 1804 | 16 | Marcus Roberts |
-| 1805 | 16 | Zachary Sinclair |
-| 1806 | 16 | Dee-Dee Stewart |
-| 1807 | 16 | Tiffany Weathersby |
-| 1808 | 16 | BuildABlock007 |
-| 1809 | 16 | Giddy Twistslam |
-| 1810 | 16 | Daniel Jenkins |
-| 1811 | 16 | Cacinda Clark-Love |
-| 1812 | 16 | Geno Bankroll McGill |
-| 1813 | 16 | Marquel Coley |
-| 1814 | 16 | JahMilly19 |
-| 1815 | 15 | sweetkiafruit |
-| 1816 | 15 | Juniper |
-| 1817 | 15 | Musiq |
-| 1818 | 15 | Chief block |
-| 1819 | 15 | Hasty Match |
-| 1820 | 15 | Shamara Thurston |
-| 1821 | 15 | Annette DeLoatch Thompson |
-| 1822 | 15 | Snippy Glidepiece |
-| 1823 | 15 | Joe |
-| 1824 | 15 | QDeezy1906 |
-| 1825 | 15 | Moneke Randolph |
-| 1826 | 15 | Joy Baker |
-| 1827 | 15 | Happy Towerfall |
-| 1828 | 15 | Wacky Towerer |
-| 1829 | 15 | Bri Lou |
-| 1830 | 15 | Tami Spence |
-| 1831 | 15 | pettymexoxo |
-| 1832 | 15 | Janie Helton |
-| 1833 | 15 | Lit757 |
-| 1834 | 15 | Hasty Builder |
+| 1801 | 16 | Hulk |
+| 1802 | 16 | Marcus Roberts |
+| 1803 | 16 | Joanne Davis Cunningham |
+| 1804 | 16 | Crystal Ann |
+| 1805 | 16 | Tabitha Burks |
+| 1806 | 16 | Zachary Sinclair |
+| 1807 | 16 | Dee-Dee Stewart |
+| 1808 | 16 | Tiffany Weathersby |
+| 1809 | 16 | BuildABlock007 |
+| 1810 | 16 | Giddy Twistslam |
+| 1811 | 16 | Daniel Jenkins |
+| 1812 | 16 | Cacinda Clark-Love |
+| 1813 | 16 | Geno Bankroll McGill |
+| 1814 | 16 | Marquel Coley |
+| 1815 | 16 | JahMilly19 |
+| 1816 | 15 | Musiq |
+| 1817 | 15 | sweetkiafruit |
+| 1818 | 15 | Juniper |
+| 1819 | 15 | Chief block |
+| 1820 | 15 | Hasty Match |
+| 1821 | 15 | Shamara Thurston |
+| 1822 | 15 | Annette DeLoatch Thompson |
+| 1823 | 15 | Snippy Glidepiece |
+| 1824 | 15 | Joe |
+| 1825 | 15 | QDeezy1906 |
+| 1826 | 15 | Moneke Randolph |
+| 1827 | 15 | Joy Baker |
+| 1828 | 15 | Happy Towerfall |
+| 1829 | 15 | Wacky Towerer |
+| 1830 | 15 | Bri Lou |
+| 1831 | 15 | Tami Spence |
+| 1832 | 15 | pettymexoxo |
+| 1833 | 15 | Janie Helton |
+| 1834 | 15 | Lit757 |
 | 1835 | 15 | The Aries Vixen |
 | 1836 | 15 | Kupaa Kanaka |
 | 1837 | 15 | Chill Spinzone |

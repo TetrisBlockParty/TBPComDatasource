@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 12:06:44 UTC
+# Standings for team4 as of 2026-06-09 12:07:22 UTC
 
 **Total Participants:** 2096
 
@@ -25,14 +25,14 @@
 | 17 | 6712 | delilahbelle |
 | 18 | 6254 | Anna Moses |
 | 19 | 6121 | Nia Mayfield |
-| 20 | 5928 | Bubbly Twistpiece |
+| 20 | 5933 | Bubbly Twistpiece |
 | 21 | 5854 | Senor Moppy |
 | 22 | 5552 | Tyra Brooke Everman Forest |
 | 23 | 5113 | Squirrel Donkey |
 | 24 | 5089 | Ning Quiambao |
 | 25 | 4673 | Cal Renee |
 | 26 | 4613 | Irene Arreguin |
-| 27 | 4537 | Jackie Lucas |
+| 27 | 4548 | Jackie Lucas |
 | 28 | 4386 | Chummy Rollzone |
 | 29 | 4262 | Tonya Brooks-Johnson |
 | 30 | 4217 | Daring Ziggy |
@@ -513,11 +513,11 @@
 | 505 | 233 | Karen Small |
 | 506 | 233 | Playa |
 | 507 | 232 | Elli Wright |
-| 508 | 232 | REPENT |
-| 509 | 232 | Carla Woodard |
-| 510 | 231 | Lora Schallert |
-| 511 | 230 | Elissa Danks |
-| 512 | 229 | Nicole Colby McCloskey |
+| 508 | 232 | Nicole Colby McCloskey |
+| 509 | 232 | REPENT |
+| 510 | 232 | Carla Woodard |
+| 511 | 231 | Lora Schallert |
+| 512 | 230 | Elissa Danks |
 | 513 | 229 | Silly Fallzone |
 | 514 | 229 | Lupe Chapa |
 | 515 | 229 | Melika Zeheb |
@@ -559,28 +559,28 @@
 | 551 | 214 | Linda |
 | 552 | 214 | yourmomz |
 | 553 | 214 | Lolita Nettles |
-| 554 | 213 | Rita Ann |
+| 554 | 213 | Tamara Gay |
 | 555 | 213 | Cari Underwood |
-| 556 | 213 | Tamara Gay |
+| 556 | 213 | Rita Ann |
 | 557 | 213 | Chuck Burns |
 | 558 | 212 | Momma Boss |
 | 559 | 211 | Sally Hiraldo |
 | 560 | 210 | Lady Dolphin |
 | 561 | 210 | Sfalcon1. |
-| 562 | 209 | Kandylands |
-| 563 | 209 | Ashley Mcdonald |
-| 564 | 208 | Justin Janachovsky |
-| 565 | 208 | Amanda Snow |
-| 566 | 208 | Denise Wilson |
-| 567 | 208 | Jeremy Barry |
-| 568 | 207 | Edward White |
-| 569 | 207 | Spicy Peach |
-| 570 | 207 | Rhonda Dowling |
-| 571 | 206 | Trang Nguyen |
-| 572 | 206 | Sandy Daye |
-| 573 | 206 | Stephanie Brock |
-| 574 | 205 | Jen Smith |
-| 575 | 205 | Reggie Laserna Clement |
+| 562 | 210 | Reggie Laserna Clement |
+| 563 | 209 | Kandylands |
+| 564 | 209 | Ashley Mcdonald |
+| 565 | 208 | Justin Janachovsky |
+| 566 | 208 | Amanda Snow |
+| 567 | 208 | Denise Wilson |
+| 568 | 208 | Jeremy Barry |
+| 569 | 207 | Edward White |
+| 570 | 207 | Spicy Peach |
+| 571 | 207 | Rhonda Dowling |
+| 572 | 206 | Trang Nguyen |
+| 573 | 206 | Sandy Daye |
+| 574 | 206 | Stephanie Brock |
+| 575 | 205 | Jen Smith |
 | 576 | 205 | Rosy Perez |
 | 577 | 205 | Karr |
 | 578 | 204 | Andrea Dre Lomeli |
@@ -589,8 +589,8 @@
 | 581 | 203 | Shaunna Caldwell |
 | 582 | 203 | Cherrel M. Causey |
 | 583 | 203 | Butterpat |
-| 584 | 202 | Renita Jordan |
-| 585 | 202 | MrLoner Stoner |
+| 584 | 202 | MrLoner Stoner |
+| 585 | 202 | Renita Jordan |
 | 586 | 202 | Shaneé Staunton |
 | 587 | 202 | Raising Stars |
 | 588 | 201 | Rose Anna Safi |
