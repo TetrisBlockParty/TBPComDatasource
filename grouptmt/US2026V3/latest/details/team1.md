@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:26:44 UTC
+# Standings for team1 as of 2026-06-09 23:27:22 UTC
 
 **Total Participants:** 2133
 
@@ -1287,27 +1287,27 @@
 | 1279 | 70 | B |
 | 1280 | 70 | Nedine Ray |
 | 1281 | 70 | Alison Emmons |
-| 1282 | 70 | RealOne95 |
-| 1283 | 70 | JoZanna Washington |
+| 1282 | 70 | JoZanna Washington |
+| 1283 | 70 | RealOne95 |
 | 1284 | 69 | Keith Johnson |
-| 1285 | 69 | Shadena M Carter Mba |
-| 1286 | 69 | BrettanMary Adkins |
-| 1287 | 69 | Markeita Jones |
-| 1288 | 68 | Michelle Dollah |
-| 1289 | 68 | LOVE |
-| 1290 | 68 | Lillie Blossom Dixon |
+| 1285 | 69 | Lindsey |
+| 1286 | 69 | Shadena M Carter Mba |
+| 1287 | 69 | BrettanMary Adkins |
+| 1288 | 69 | Markeita Jones |
+| 1289 | 68 | Michelle Dollah |
+| 1290 | 68 | LOVE |
 | 1291 | 68 | Saucy Crusher |
-| 1292 | 68 | Daring Linkfall |
-| 1293 | 68 | Breeze |
-| 1294 | 67 | Jaela Washington |
-| 1295 | 67 | Michele Elizabeth McKay-Johnson |
+| 1292 | 68 | Lillie Blossom Dixon |
+| 1293 | 68 | Daring Linkfall |
+| 1294 | 68 | Breeze |
+| 1295 | 67 | Jaela Washington |
 | 1296 | 67 | Deantenique Smalls |
-| 1297 | 66 | Evelyn Epps |
-| 1298 | 66 | Lindsey |
-| 1299 | 66 | Amanda Bell |
+| 1297 | 67 | Michele Elizabeth McKay-Johnson |
+| 1298 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1299 | 66 | Mami Badd |
 | 1300 | 66 | Mrs.Ann |
-| 1301 | 66 | Mami Badd |
-| 1302 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1301 | 66 | Amanda Bell |
+| 1302 | 66 | Evelyn Epps |
 | 1303 | 66 | Shardai She Gotit |
 | 1304 | 66 | Meluhnee |
 | 1305 | 66 | Kallsign |
