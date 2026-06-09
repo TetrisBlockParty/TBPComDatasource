@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 00:54:44 UTC
+# Standings for team4 as of 2026-06-09 00:55:22 UTC
 
 **Total Participants:** 1976
 
@@ -65,13 +65,13 @@
 | 57 | 1877 | Leah Barnett |
 | 58 | 1875 | Cal Renee |
 | 59 | 1875 | 626 |
-| 60 | 1761 | Nick Graber |
-| 61 | 1758 | Dheeh Robles |
+| 60 | 1768 | Dheeh Robles |
+| 61 | 1761 | Nick Graber |
 | 62 | 1650 | Sassy Column |
 | 63 | 1600 | Melissa Brown |
 | 64 | 1552 | Damon Gaston |
 | 65 | 1506 | Chris Covington |
-| 66 | 1432 | Charlie Lewis |
+| 66 | 1442 | Charlie Lewis |
 | 67 | 1428 | Keg |
 | 68 | 1401 | SMV |
 | 69 | 1399 | Joseph Anthony Watkins |
@@ -329,22 +329,22 @@
 | 321 | 297 | Brooke Arroyo |
 | 322 | 296 | beauxie |
 | 323 | 296 | Cherrypir05 |
-| 324 | 296 | PerfectPieces |
-| 325 | 295 | Troy Zanelli |
-| 326 | 295 | Matthew Wilcox |
-| 327 | 294 | Solace Grace |
-| 328 | 294 | Cranky Buildout |
-| 329 | 293 | Logan Two-dubs Baker |
-| 330 | 293 | Joseph Hunter |
-| 331 | 293 | Flashy Shatterer |
-| 332 | 292 | Rachel Lemos |
-| 333 | 292 | Karen Rodriguez |
-| 334 | 291 | Funky Tiler |
-| 335 | 291 | Ashley Jenkins |
-| 336 | 290 | Brian Woods |
-| 337 | 290 | Marina |
-| 338 | 289 | Shepreneur Sade |
-| 339 | 288 | Dan Butcher |
+| 324 | 296 | Dan Butcher |
+| 325 | 296 | PerfectPieces |
+| 326 | 295 | Troy Zanelli |
+| 327 | 295 | Matthew Wilcox |
+| 328 | 294 | Solace Grace |
+| 329 | 294 | Cranky Buildout |
+| 330 | 293 | Logan Two-dubs Baker |
+| 331 | 293 | Joseph Hunter |
+| 332 | 293 | Flashy Shatterer |
+| 333 | 292 | Rachel Lemos |
+| 334 | 292 | Karen Rodriguez |
+| 335 | 291 | Funky Tiler |
+| 336 | 291 | Ashley Jenkins |
+| 337 | 290 | Brian Woods |
+| 338 | 290 | Marina |
+| 339 | 289 | Shepreneur Sade |
 | 340 | 287 | Cheery Risegrid |
 | 341 | 286 | Erika Seaton |
 | 342 | 286 | Dubiousdust |
