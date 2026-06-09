@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 14:08:45 UTC
+# Standings for team4 as of 2026-06-09 14:09:21 UTC
 
 **Total Participants:** 2112
 
@@ -451,39 +451,39 @@
 | 443 | 271 | Winter Moon |
 | 444 | 269 | Brendan Craven |
 | 445 | 269 | Cheeky Fallzone |
-| 446 | 268 | Teester |
-| 447 | 268 | Luna |
+| 446 | 268 | Luna |
+| 447 | 268 | Teester |
 | 448 | 268 | Kendall Rhodie |
 | 449 | 268 | Rosy Perez |
-| 450 | 265 | Denise Wilson |
+| 450 | 267 | Dandy Cascade |
 | 451 | 265 | Holly Bramel |
 | 452 | 265 | Mrs |
-| 453 | 264 | DizzB400 |
+| 453 | 265 | Denise Wilson |
 | 454 | 264 | Perry Ransom |
-| 455 | 264 | Azahares Alonso |
-| 456 | 263 | Erik Clary |
+| 455 | 264 | DizzB400 |
+| 456 | 264 | Azahares Alonso |
 | 457 | 263 | Frothy Pattern |
-| 458 | 261 | Lee Ann Gibby |
+| 458 | 263 | Erik Clary |
 | 459 | 261 | Tricia Motika Cowan |
-| 460 | 260 | Sarah Montagne Forsberg |
-| 461 | 260 | Silly Risegrid |
-| 462 | 259 | Sandra Stark |
-| 463 | 259 | Jessica Peyton |
-| 464 | 259 | Valerie Silva |
-| 465 | 259 | Tiffany Smith |
+| 460 | 261 | Lee Ann Gibby |
+| 461 | 260 | Sarah Montagne Forsberg |
+| 462 | 260 | Silly Risegrid |
+| 463 | 259 | Tiffany Smith |
+| 464 | 259 | Sandra Stark |
+| 465 | 259 | Jessica Peyton |
 | 466 | 259 | Jen Roe |
-| 467 | 258 | Danny Frausto |
-| 468 | 257 | LaTanya GeminiondaRise Johnson |
-| 469 | 256 | Tiffany Morris Garner |
-| 470 | 256 | Stacy G |
-| 471 | 255 | Britney Kitora |
-| 472 | 255 | Sean Mccleary |
-| 473 | 255 | Kari Smith |
-| 474 | 255 | Littlebrat |
-| 475 | 254 | Mimi Dominguez |
-| 476 | 254 | Dawn Marie Trujillo |
-| 477 | 254 | Deborah Ayliffe |
-| 478 | 254 | Dandy Cascade |
+| 467 | 259 | Valerie Silva |
+| 468 | 258 | Danny Frausto |
+| 469 | 257 | LaTanya GeminiondaRise Johnson |
+| 470 | 256 | Tiffany Morris Garner |
+| 471 | 256 | Stacy G |
+| 472 | 255 | Britney Kitora |
+| 473 | 255 | Sean Mccleary |
+| 474 | 255 | Kari Smith |
+| 475 | 255 | Littlebrat |
+| 476 | 254 | Mimi Dominguez |
+| 477 | 254 | Dawn Marie Trujillo |
+| 478 | 254 | Deborah Ayliffe |
 | 479 | 254 | Deva Marie Barber |
 | 480 | 254 | farfromlocal |
 | 481 | 253 | LeRoy jenkins |
@@ -497,30 +497,30 @@
 | 489 | 249 | Will E Ayala |
 | 490 | 248 | JIGsaw ~(•¿°)~ |
 | 491 | 248 | Jeff Margolis |
-| 492 | 247 | Shauna Davis |
-| 493 | 247 | Corie A. Brinson |
+| 492 | 247 | Corie A. Brinson |
+| 493 | 247 | Shauna Davis |
 | 494 | 247 | Deborah Silberg |
-| 495 | 247 | Swanky Snapgrid |
-| 496 | 247 | aga |
-| 497 | 247 | Natalie Dillard |
+| 495 | 247 | aga |
+| 496 | 247 | Natalie Dillard |
+| 497 | 247 | Swanky Snapgrid |
 | 498 | 246 | Brandi Sauer |
-| 499 | 246 | Alyssa Berg |
-| 500 | 246 | EpicWizard |
-| 501 | 246 | Kaps |
-| 502 | 245 | Katy |
-| 503 | 245 | Candiecane324 |
+| 499 | 246 | EpicWizard |
+| 500 | 246 | Kaps |
+| 501 | 246 | Alyssa Berg |
+| 502 | 245 | Candiecane324 |
+| 503 | 245 | Katy |
 | 504 | 244 | Lisa lisa |
 | 505 | 243 | ariel |
 | 506 | 242 | Nicole Colby McCloskey |
 | 507 | 242 | Chris McBlockster |
-| 508 | 241 | Cindy |
-| 509 | 241 | Shawna Downey |
-| 510 | 240 | Alice Eisnor-Martens |
+| 508 | 241 | Shawna Downey |
+| 509 | 241 | Cindy |
+| 510 | 240 | Jessica Jones Bolton |
 | 511 | 240 | Keke Johnson |
-| 512 | 239 | Lul Babie |
-| 513 | 239 | Chelle Williams |
+| 512 | 240 | Alice Eisnor-Martens |
+| 513 | 239 | Lul Babie |
 | 514 | 239 | Elissa Danks |
-| 515 | 238 | Jessica Jones Bolton |
+| 515 | 239 | Chelle Williams |
 | 516 | 238 | Tara Delay Hill |
 | 517 | 237 | DrC |
 | 518 | 236 | Susan Stofberg Beltran |
@@ -531,12 +531,12 @@
 | 523 | 234 | luluraine |
 | 524 | 233 | Playa |
 | 525 | 233 | Karen Small |
-| 526 | 232 | Elli Wright |
-| 527 | 232 | Rita Ann |
-| 528 | 232 | REPENT |
-| 529 | 231 | Memphiago Tenninois |
+| 526 | 232 | Rita Ann |
+| 527 | 232 | REPENT |
+| 528 | 232 | Elli Wright |
+| 529 | 231 | Lora Schallert |
 | 530 | 231 | chefjaydawg |
-| 531 | 231 | Lora Schallert |
+| 531 | 231 | Memphiago Tenninois |
 | 532 | 229 | Marcus Chavis |
 | 533 | 229 | Silly Fallzone |
 | 534 | 229 | Lupe Chapa |
@@ -556,9 +556,9 @@
 | 548 | 222 | Casey Thomas |
 | 549 | 222 | Happy Shatterfit |
 | 550 | 222 | Maria Munoz |
-| 551 | 221 | Butterfly |
-| 552 | 221 | Saucy Brickmatch |
-| 553 | 220 | Chuck Burns |
+| 551 | 221 | Chuck Burns |
+| 552 | 221 | Butterfly |
+| 553 | 221 | Saucy Brickmatch |
 | 554 | 220 | Mc3003 |
 | 555 | 220 | Jimmy Clark |
 | 556 | 220 | Tesa Mike Jenkins |
