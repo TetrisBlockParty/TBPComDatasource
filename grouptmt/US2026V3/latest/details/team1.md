@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 02:30:22 UTC
+# Standings for team1 as of 2026-06-09 02:30:45 UTC
 
 **Total Participants:** 1945
 
@@ -212,43 +212,43 @@
 | 204 | 485 | FallDee |
 | 205 | 484 | Telisha Mims |
 | 206 | 483 | SPNLover24 |
-| 207 | 476 | BULLSEYE |
-| 208 | 476 | Roberta Lynn |
+| 207 | 476 | Roberta Lynn |
+| 208 | 476 | BULLSEYE |
 | 209 | 475 | Kenny 'Tailormade' Boyd |
-| 210 | 466 | pooh |
-| 211 | 466 | Zappy Riser |
-| 212 | 466 | Tootsie Pop |
+| 210 | 466 | Tootsie Pop |
+| 211 | 466 | pooh |
+| 212 | 466 | Zappy Riser |
 | 213 | 465 | Natasha Rucker |
 | 214 | 462 | Rachel Zimmerman |
-| 215 | 460 | Tanya Clayton |
-| 216 | 458 | Jimmie Makia |
-| 217 | 456 | Cachet A Ward |
-| 218 | 455 | Tamara Johnson-Carter |
-| 219 | 452 | Kenny MrOnethousand Peck |
-| 220 | 451 | Joey Albright |
-| 221 | 451 | Penee Wiggins |
-| 222 | 451 | Simmone T. Kadiri |
-| 223 | 450 | boogeywoogey |
-| 224 | 447 | Jazzy Fireflighters |
+| 215 | 461 | Giggy Clusterer |
+| 216 | 460 | Tanya Clayton |
+| 217 | 458 | Jimmie Makia |
+| 218 | 456 | Cachet A Ward |
+| 219 | 455 | Tamara Johnson-Carter |
+| 220 | 452 | Kenny MrOnethousand Peck |
+| 221 | 451 | Joey Albright |
+| 222 | 451 | Penee Wiggins |
+| 223 | 451 | Simmone T. Kadiri |
+| 224 | 450 | boogeywoogey |
 | 225 | 447 | Rachael Bakowicz Edwards |
-| 226 | 446 | Tessa Gaskin |
-| 227 | 445 | Karebear |
-| 228 | 445 | JaClanDiah |
-| 229 | 444 | Kevin M. McGhee Jr |
-| 230 | 443 | Cheeky Pop |
+| 226 | 447 | Jazzy Fireflighters |
+| 227 | 446 | Tessa Gaskin |
+| 228 | 445 | Karebear |
+| 229 | 445 | JaClanDiah |
+| 230 | 444 | Kevin M. McGhee Jr |
 | 231 | 443 | Zippy Tilefall |
-| 232 | 441 | Giggy Clusterer |
-| 233 | 441 | Keke Ferguson |
-| 234 | 441 | Tessa Felice Hill |
+| 232 | 443 | Cheeky Pop |
+| 233 | 441 | Tessa Felice Hill |
+| 234 | 441 | Keke Ferguson |
 | 235 | 440 | Zippy Lifter |
 | 236 | 440 | Slinky Brickmatch |
-| 237 | 439 | Asani CHumba |
-| 238 | 439 | Tina Mitchell |
+| 237 | 439 | Tina Mitchell |
+| 238 | 439 | Asani CHumba |
 | 239 | 436 | Leebo Slice |
 | 240 | 434 | Choc |
 | 241 | 432 | Jessica Russell |
-| 242 | 432 | Trina Greenwood |
-| 243 | 432 | Lashaunda |
+| 242 | 432 | Lashaunda |
+| 243 | 432 | Trina Greenwood |
 | 244 | 430 | Davionte DaeDae Hopson-Rodriguez |
 | 245 | 426 | Chasem45 |
 | 246 | 421 | OhNoZer0 |
@@ -260,25 +260,25 @@
 | 252 | 414 | Cheery Linkfall |
 | 253 | 411 | Kyra Coleman |
 | 254 | 404 | Calvin Green |
-| 255 | 397 | Snappy Link |
-| 256 | 396 | Joana Thompson |
-| 257 | 394 | Koi |
+| 255 | 402 | Latisha Fairley |
+| 256 | 397 | Snappy Link |
+| 257 | 396 | Joana Thompson |
 | 258 | 394 | Queenie Perry |
-| 259 | 394 | Christopher Dreamsareality McEachin |
-| 260 | 393 | Qwlonda Shirrell |
-| 261 | 392 | Latisha Fairley |
+| 259 | 394 | Koi |
+| 260 | 394 | Christopher Dreamsareality McEachin |
+| 261 | 393 | Qwlonda Shirrell |
 | 262 | 391 | Wild Out Nai |
 | 263 | 390 | Devin West |
 | 264 | 389 | GrkGdess |
 | 265 | 388 | Clever Fitblock |
 | 266 | 387 | StingerD |
-| 267 | 386 | Chummy Frame |
-| 268 | 386 | Chantelle Lee |
+| 267 | 386 | Chantelle Lee |
+| 268 | 386 | Chummy Frame |
 | 269 | 384 | Christana Imjustbutton Stone |
 | 270 | 383 | Tremaine Hiler |
-| 271 | 377 | Block King |
-| 272 | 377 | Tarnisha Neicy Jones |
-| 273 | 377 | AF Cruz |
+| 271 | 377 | Tarnisha Neicy Jones |
+| 272 | 377 | AF Cruz |
+| 273 | 377 | Block King |
 | 274 | 376 | Reginald Frank |
 | 275 | 375 | Steve Reno |
 | 276 | 373 | Dion Gray |
@@ -407,9 +407,9 @@
 | 399 | 259 | Stacy Nicole |
 | 400 | 259 | Slinky Clearzone |
 | 401 | 258 | Cynthia Bradley |
-| 402 | 256 | Jessie N Michael Silvers |
-| 403 | 256 | TBABYJ |
-| 404 | 255 | Kimberly Linares Hernandez |
+| 402 | 258 | Kimberly Linares Hernandez |
+| 403 | 256 | Jessie N Michael Silvers |
+| 404 | 256 | TBABYJ |
 | 405 | 255 | Emily Wright |
 | 406 | 255 | Michelle Peters |
 | 407 | 254 | kick it |
@@ -1332,27 +1332,27 @@
 | 1324 | 48 | Melanin Monroe-Dandridge |
 | 1325 | 48 | Davina Valentino |
 | 1326 | 47 | Pizzle |
-| 1327 | 47 | Mighty plantlady |
-| 1328 | 47 | Harriet |
-| 1329 | 47 | Giddy Bricky |
-| 1330 | 47 | Nayyirah Hariyyan |
-| 1331 | 47 | Kevin Turner |
-| 1332 | 47 | Dani McLeod |
-| 1333 | 47 | Arlea Mann |
-| 1334 | 47 | OG LUCKY |
-| 1335 | 47 | Talya Richards |
-| 1336 | 46 | Beverly Redd-Fountain |
-| 1337 | 46 | Kimberly Red |
-| 1338 | 46 | Frothy Snapbuilder |
-| 1339 | 46 | Ember Hammond |
-| 1340 | 46 | Hasaan Jones |
-| 1341 | 46 | jasi |
-| 1342 | 46 | Cranky Fitblock |
-| 1343 | 46 | Crystal Winters Mckay |
-| 1344 | 46 | Wu May |
-| 1345 | 46 | jac |
-| 1346 | 46 | LOVE |
-| 1347 | 45 | Frothy Zoney |
+| 1327 | 47 | Frothy Zoney |
+| 1328 | 47 | Mighty plantlady |
+| 1329 | 47 | Harriet |
+| 1330 | 47 | Giddy Bricky |
+| 1331 | 47 | Nayyirah Hariyyan |
+| 1332 | 47 | Kevin Turner |
+| 1333 | 47 | Dani McLeod |
+| 1334 | 47 | Arlea Mann |
+| 1335 | 47 | OG LUCKY |
+| 1336 | 47 | Talya Richards |
+| 1337 | 46 | Beverly Redd-Fountain |
+| 1338 | 46 | Kimberly Red |
+| 1339 | 46 | Frothy Snapbuilder |
+| 1340 | 46 | Ember Hammond |
+| 1341 | 46 | Hasaan Jones |
+| 1342 | 46 | jasi |
+| 1343 | 46 | Cranky Fitblock |
+| 1344 | 46 | Crystal Winters Mckay |
+| 1345 | 46 | Wu May |
+| 1346 | 46 | jac |
+| 1347 | 46 | LOVE |
 | 1348 | 45 | Y3llOWFAC3 |
 | 1349 | 45 | Matraca Young |
 | 1350 | 45 | toooooott |
