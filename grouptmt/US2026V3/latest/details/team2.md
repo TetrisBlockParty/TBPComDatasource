@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 19:44:23 UTC
+# Standings for team2 as of 2026-06-09 19:44:48 UTC
 
 **Total Participants:** 2557
 
@@ -225,7 +225,7 @@
 | 217 | 702 | Sully |
 | 218 | 701 | Sarina Vollink |
 | 219 | 700 | Fudgie Pie |
-| 220 | 694 | Chasity Simpson |
+| 220 | 697 | Chasity Simpson |
 | 221 | 692 | DukeDino |
 | 222 | 691 | Wacky Tumbler |
 | 223 | 686 | meg |
@@ -327,12 +327,12 @@
 | 319 | 503 | Santara Ferguson |
 | 320 | 503 | Flashy Twistline |
 | 321 | 498 | James Ward |
-| 322 | 492 | Boldy Fitclear |
-| 323 | 492 | Amy Gregg |
-| 324 | 490 | Norma Ortiz |
-| 325 | 489 | Suki Jacobs |
-| 326 | 488 | Elliott Mikila |
-| 327 | 488 | Nikki Greeneyebeauty |
+| 322 | 497 | Nikki Greeneyebeauty |
+| 323 | 492 | Boldy Fitclear |
+| 324 | 492 | Amy Gregg |
+| 325 | 490 | Norma Ortiz |
+| 326 | 489 | Suki Jacobs |
+| 327 | 488 | Elliott Mikila |
 | 328 | 487 | Amanda L Strong |
 | 329 | 483 | Jeanna Mendez |
 | 330 | 483 | Earline Dupuy Bordelon |
