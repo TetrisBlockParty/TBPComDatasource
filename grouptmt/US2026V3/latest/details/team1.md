@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:53:20 UTC
+# Standings for team1 as of 2026-06-09 08:54:23 UTC
 
 **Total Participants:** 2020
 
@@ -210,26 +210,26 @@
 | 202 | 553 | Sharon Cail |
 | 203 | 552 | Ty Øtg |
 | 204 | 549 | Shell Lewis |
-| 205 | 546 | Dee McCool |
-| 206 | 546 | Po Marley |
+| 205 | 546 | Po Marley |
+| 206 | 546 | Dee McCool |
 | 207 | 536 | SPNLover24 |
 | 208 | 528 | xXEKUNXx |
-| 209 | 527 | Tamara N Lee |
-| 210 | 527 | MommaCia |
-| 211 | 527 | Ebony |
+| 209 | 527 | Ebony |
+| 210 | 527 | Tamara N Lee |
+| 211 | 527 | MommaCia |
 | 212 | 525 | Tishauna Virgo |
 | 213 | 523 | Christopher Dreamsareality McEachin |
 | 214 | 523 | DellaLucretia Thomas |
-| 215 | 520 | Spicy Risepiece |
-| 216 | 520 | Dulo |
-| 217 | 519 | Slinky Party |
-| 218 | 515 | David Fuentes |
-| 219 | 511 | Dizzy Dropper |
-| 220 | 507 | pooh |
-| 221 | 506 | Telisha Mims |
-| 222 | 506 | Marie Wilson |
-| 223 | 506 | Tasha Jones |
-| 224 | 501 | Giggy Clusterer |
+| 215 | 521 | Giggy Clusterer |
+| 216 | 520 | Spicy Risepiece |
+| 217 | 520 | Dulo |
+| 218 | 519 | Slinky Party |
+| 219 | 515 | David Fuentes |
+| 220 | 511 | Dizzy Dropper |
+| 221 | 507 | pooh |
+| 222 | 506 | Tasha Jones |
+| 223 | 506 | Telisha Mims |
+| 224 | 506 | Marie Wilson |
 | 225 | 501 | Joey Albright |
 | 226 | 498 | Julian Dickens Jr. |
 | 227 | 496 | Andre Sanon |
@@ -347,8 +347,8 @@
 | 339 | 343 | MamushiOh |
 | 340 | 343 | Heather Aurelia |
 | 341 | 341 | Jawaun Daniels |
-| 342 | 340 | Christian Pham |
-| 343 | 340 | Tipsy Linkroll |
+| 342 | 340 | Tipsy Linkroll |
+| 343 | 340 | Christian Pham |
 | 344 | 337 | Desire Rice |
 | 345 | 337 | HarleyJane |
 | 346 | 334 | Kate Hancock Malicek |
@@ -360,30 +360,30 @@
 | 352 | 327 | Jennah |
 | 353 | 323 | 大竹直之 |
 | 354 | 318 | Nerdy Snapfall |
-| 355 | 317 | Jai |
-| 356 | 315 | KeeKee Williams |
-| 357 | 314 | Tonya McElroy |
-| 358 | 314 | Rayya Kiser |
-| 359 | 314 | Chilly Wipebuilder |
-| 360 | 314 | Tay |
-| 361 | 312 | Shanns |
-| 362 | 311 | Cynthia Bradley |
-| 363 | 309 | Amber Wilson |
-| 364 | 308 | MindlessMic |
-| 365 | 308 | Darrel K Pemberton |
-| 366 | 307 | Wayne Savannah |
-| 367 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 368 | 304 | Kendra McIntyre |
-| 369 | 304 | Snippy Breaker |
-| 370 | 304 | Jolly Tilefall |
-| 371 | 303 | kitten |
-| 372 | 301 | Skippy |
-| 373 | 300 | rls |
-| 374 | 300 | Sharee Robinson |
-| 375 | 300 | Ketrell Bailey |
-| 376 | 300 | LaShaun Stinson |
-| 377 | 299 | Smiley Clearpiece |
-| 378 | 298 | SeanSanchez |
+| 355 | 318 | SeanSanchez |
+| 356 | 317 | Jai |
+| 357 | 315 | KeeKee Williams |
+| 358 | 314 | Chilly Wipebuilder |
+| 359 | 314 | Tay |
+| 360 | 314 | Rayya Kiser |
+| 361 | 314 | Tonya McElroy |
+| 362 | 312 | Shanns |
+| 363 | 311 | Cynthia Bradley |
+| 364 | 309 | Amber Wilson |
+| 365 | 308 | MindlessMic |
+| 366 | 308 | Darrel K Pemberton |
+| 367 | 307 | Wayne Savannah |
+| 368 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 369 | 304 | Kendra McIntyre |
+| 370 | 304 | Snippy Breaker |
+| 371 | 304 | Jolly Tilefall |
+| 372 | 303 | kitten |
+| 373 | 301 | Skippy |
+| 374 | 300 | rls |
+| 375 | 300 | Sharee Robinson |
+| 376 | 300 | Ketrell Bailey |
+| 377 | 300 | LaShaun Stinson |
+| 378 | 299 | Smiley Clearpiece |
 | 379 | 298 | McKayla Owens |
 | 380 | 296 | Nikki Hogan |
 | 381 | 295 | Maribel Vasquez |
@@ -431,9 +431,9 @@
 | 423 | 267 | BabyCakes |
 | 424 | 266 | Rebecca Jackson |
 | 425 | 265 | Jae Thompson-Tyus |
-| 426 | 264 | Boldy Matchbuilder |
-| 427 | 262 | Denisa Amazon Clark |
-| 428 | 262 | Eric Spencer Whitaker |
+| 426 | 265 | Eric Spencer Whitaker |
+| 427 | 264 | Boldy Matchbuilder |
+| 428 | 262 | Denisa Amazon Clark |
 | 429 | 261 | LaTonya Myers |
 | 430 | 260 | Alyssa Rae |
 | 431 | 260 | HS Arce |
