@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 19:38:43 UTC
+# Standings for team2 as of 2026-06-09 19:39:22 UTC
 
 **Total Participants:** 2557
 
@@ -249,8 +249,8 @@
 | 241 | 635 | Chris Cooper |
 | 242 | 634 | Nikki EightySixed |
 | 243 | 634 | Sabrina Hardrick |
-| 244 | 632 | Cool Balancer |
-| 245 | 630 | Bubbly Strikerpiece |
+| 244 | 633 | Bubbly Strikerpiece |
+| 245 | 632 | Cool Balancer |
 | 246 | 630 | Christina Maria |
 | 247 | 627 | Pooh |
 | 248 | 621 | Chirpy Grid |
@@ -1623,88 +1623,88 @@
 | 1615 | 66 | Justin Pennington |
 | 1616 | 66 | Ali |
 | 1617 | 66 | David Cadiente |
-| 1618 | 65 | October Fitch |
-| 1619 | 65 | Wacky Drop |
+| 1618 | 65 | GentleGiant Brackett |
+| 1619 | 65 | Maurice Bethel |
 | 1620 | 65 | Amanda White |
-| 1621 | 65 | Maurice Bethel |
-| 1622 | 65 | Heather Klaus |
-| 1623 | 65 | GentleGiant Brackett |
+| 1621 | 65 | October Fitch |
+| 1622 | 65 | Wacky Drop |
+| 1623 | 65 | Heather Klaus |
 | 1624 | 65 | Donna Casey |
 | 1625 | 65 | Vicki Ohmer |
 | 1626 | 65 | Auntie YaYa |
 | 1627 | 65 | nogo |
 | 1628 | 64 | Emily |
 | 1629 | 64 | Dolly |
-| 1630 | 64 | Jodi Deninno |
-| 1631 | 64 | Lori Antrim Nichols |
-| 1632 | 64 | Michelle Naujalis |
-| 1633 | 64 | Epic Glide |
-| 1634 | 64 | Pnda |
-| 1635 | 64 | Angela Anderson |
-| 1636 | 64 | Darla |
-| 1637 | 64 | Spunky Riserfit |
-| 1638 | 63 | Bubbly Tilt |
-| 1639 | 63 | Amanda Jimenez |
-| 1640 | 63 | AmyShea |
-| 1641 | 63 | Dani Newton |
-| 1642 | 63 | Lindsey Butler |
-| 1643 | 62 | Brittany Nichole Ellenburg |
-| 1644 | 62 | Alana Albritton Seals |
-| 1645 | 62 | Snappy Zonepiece |
-| 1646 | 62 | Snoop |
-| 1647 | 62 | Breanna Dykes |
-| 1648 | 62 | Jewels |
-| 1649 | 62 | Saucy Clearzone |
+| 1630 | 64 | Spunky Riserfit |
+| 1631 | 64 | Darla |
+| 1632 | 64 | Pnda |
+| 1633 | 64 | Lori Antrim Nichols |
+| 1634 | 64 | Michelle Naujalis |
+| 1635 | 64 | Jodi Deninno |
+| 1636 | 64 | Angela Anderson |
+| 1637 | 64 | Epic Glide |
+| 1638 | 63 | Amanda Jimenez |
+| 1639 | 63 | Bubbly Tilt |
+| 1640 | 63 | Lj |
+| 1641 | 63 | AmyShea |
+| 1642 | 63 | Dani Newton |
+| 1643 | 63 | Lindsey Butler |
+| 1644 | 62 | Brittany Nichole Ellenburg |
+| 1645 | 62 | Alana Albritton Seals |
+| 1646 | 62 | Natikka Mccleskey |
+| 1647 | 62 | Jewels |
+| 1648 | 62 | Snoop |
+| 1649 | 62 | Snappy Zonepiece |
 | 1650 | 62 | Debra Horne |
-| 1651 | 62 | Michael Woodall |
-| 1652 | 62 | Natikka Mccleskey |
-| 1653 | 61 | LichyBella |
-| 1654 | 61 | Maithan Conour |
-| 1655 | 61 | Ken Vaughn |
-| 1656 | 61 | Nicole |
-| 1657 | 61 | Mariah Wygonik |
-| 1658 | 61 | Cranky Fit |
-| 1659 | 61 | Crystal Swigart |
-| 1660 | 61 | Peachy Builderpiece |
-| 1661 | 61 | Lil G |
-| 1662 | 61 | JesseJo |
-| 1663 | 61 | Dustyn Sims |
-| 1664 | 61 | Bobbie Carrol |
-| 1665 | 61 | Natasha Schatte |
-| 1666 | 61 | Pleaze Marshall |
-| 1667 | 61 | Glitzy Matchclear |
-| 1668 | 60 | Snippy Shifter |
-| 1669 | 60 | JEEPER |
-| 1670 | 60 | Courtney Ribas |
-| 1671 | 60 | Speedy Gridder |
-| 1672 | 60 | Giggly Buildgrid |
-| 1673 | 60 | Tiffany Heether |
-| 1674 | 60 | Amanda Knox |
-| 1675 | 60 | Nikki Grant |
+| 1651 | 62 | Breanna Dykes |
+| 1652 | 62 | Michael Woodall |
+| 1653 | 62 | Saucy Clearzone |
+| 1654 | 61 | Mariah Wygonik |
+| 1655 | 61 | Crystal Swigart |
+| 1656 | 61 | Peachy Builderpiece |
+| 1657 | 61 | Maithan Conour |
+| 1658 | 61 | LichyBella |
+| 1659 | 61 | Ken Vaughn |
+| 1660 | 61 | Cranky Fit |
+| 1661 | 61 | Nicole |
+| 1662 | 61 | Lil G |
+| 1663 | 61 | JesseJo |
+| 1664 | 61 | Dustyn Sims |
+| 1665 | 61 | Bobbie Carrol |
+| 1666 | 61 | Natasha Schatte |
+| 1667 | 61 | Pleaze Marshall |
+| 1668 | 61 | Glitzy Matchclear |
+| 1669 | 60 | Snippy Shifter |
+| 1670 | 60 | JEEPER |
+| 1671 | 60 | Courtney Ribas |
+| 1672 | 60 | Speedy Gridder |
+| 1673 | 60 | Giggly Buildgrid |
+| 1674 | 60 | Tiffany Heether |
+| 1675 | 60 | Amanda Knox |
 | 1676 | 60 | Dawn Thuringer-Baird |
-| 1677 | 60 | Jaelyn Orr |
-| 1678 | 60 | Kenya Johnson |
-| 1679 | 60 | Jamie Mullins |
-| 1680 | 60 | Angiela Hope Boggs |
-| 1681 | 60 | ll Patton |
-| 1682 | 60 | Brooke Burge |
-| 1683 | 60 | MattandAngie Hopkins |
-| 1684 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1685 | 60 | Betsey Terry |
+| 1677 | 60 | Jamie Mullins |
+| 1678 | 60 | Jaelyn Orr |
+| 1679 | 60 | Angiela Hope Boggs |
+| 1680 | 60 | Kenya Johnson |
+| 1681 | 60 | Nikki Grant |
+| 1682 | 60 | Samantha Smith |
+| 1683 | 60 | ll Patton |
+| 1684 | 60 | Ephysta |
+| 1685 | 60 | Jocelyn Fisher |
 | 1686 | 60 | Jbarnsey18 |
-| 1687 | 60 | Ephysta |
-| 1688 | 60 | Samantha Smith |
-| 1689 | 60 | Jocelyn Fisher |
-| 1690 | 59 | Road Runnersauraus |
-| 1691 | 59 | LaicoosBargains Ln |
-| 1692 | 59 | Syg Honeyboy |
-| 1693 | 59 | Cheeky Twistpiece |
-| 1694 | 59 | Alena Ross |
+| 1687 | 60 | Betsey Terry |
+| 1688 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1689 | 60 | MattandAngie Hopkins |
+| 1690 | 60 | Brooke Burge |
+| 1691 | 59 | Jon Torres |
+| 1692 | 59 | Ryuu |
+| 1693 | 59 | Tam |
+| 1694 | 59 | Road Runnersauraus |
 | 1695 | 59 | Nicole Immoos |
-| 1696 | 59 | Tam |
-| 1697 | 59 | Lj |
-| 1698 | 59 | Ryuu |
-| 1699 | 59 | Jon Torres |
+| 1696 | 59 | Alena Ross |
+| 1697 | 59 | Cheeky Twistpiece |
+| 1698 | 59 | Syg Honeyboy |
+| 1699 | 59 | LaicoosBargains Ln |
 | 1700 | 59 | Teri |
 | 1701 | 59 | Jackie Hayslip |
 | 1702 | 59 | Christina Nycol |
@@ -1714,18 +1714,18 @@
 | 1706 | 58 | Flynn Flibble |
 | 1707 | 58 | Slinky Winder |
 | 1708 | 58 | Elise Marie Mireles |
-| 1709 | 58 | Jeanne Hendricks Smith |
+| 1709 | 58 | Steven Palmer |
 | 1710 | 58 | Corey Mac |
-| 1711 | 58 | Steven Palmer |
-| 1712 | 58 | Tonya Willprecht |
-| 1713 | 58 | Shanetta Johnson |
-| 1714 | 58 | Donna Gerald |
-| 1715 | 58 | lojo |
-| 1716 | 58 | Groovy Snapbuild |
-| 1717 | 57 | Alexis Turner |
-| 1718 | 57 | Lori Lorenz |
-| 1719 | 57 | John Guider |
-| 1720 | 57 | Giggly Patternline |
+| 1711 | 58 | Jeanne Hendricks Smith |
+| 1712 | 58 | lojo |
+| 1713 | 58 | Tonya Willprecht |
+| 1714 | 58 | Groovy Snapbuild |
+| 1715 | 58 | Donna Gerald |
+| 1716 | 58 | Shanetta Johnson |
+| 1717 | 57 | John Guider |
+| 1718 | 57 | Giggly Patternline |
+| 1719 | 57 | Lori Lorenz |
+| 1720 | 57 | Alexis Turner |
 | 1721 | 57 | Missy Stevens |
 | 1722 | 57 | Frothy Line |
 | 1723 | 57 | Bigbb |
@@ -1737,11 +1737,11 @@
 | 1729 | 56 | Cynthia Rose Candelaria |
 | 1730 | 56 | CountryGurl |
 | 1731 | 56 | Boldy Swipe |
-| 1732 | 55 | Ryan D. Norcross |
-| 1733 | 55 | Cheryl Stevens |
-| 1734 | 55 | Frisky Balancefit |
-| 1735 | 55 | Angi Carter |
-| 1736 | 55 | Amanda Nash |
+| 1732 | 55 | Amanda Nash |
+| 1733 | 55 | Ryan D. Norcross |
+| 1734 | 55 | Angi Carter |
+| 1735 | 55 | Frisky Balancefit |
+| 1736 | 55 | Cheryl Stevens |
 | 1737 | 55 | T-Tommy Hillbilly |
 | 1738 | 55 | David Bright |
 | 1739 | 55 | Mary Goodman |
@@ -2154,21 +2154,21 @@
 | 2146 | 26 | Misty Dillard |
 | 2147 | 26 | Boya Ray Johnson |
 | 2148 | 26 | gnat |
-| 2149 | 26 | Megan Theresa Marie Rydle |
-| 2150 | 26 | Danibellee |
-| 2151 | 26 | Darlene Russell |
-| 2152 | 26 | Cathy Clark |
-| 2153 | 26 | Bad Juju |
-| 2154 | 26 | Quirky Climber |
-| 2155 | 26 | Tina Doyens Munis |
-| 2156 | 26 | Samantha Morrison |
-| 2157 | 26 | nova |
-| 2158 | 25 | Mighty Piecebuilder |
-| 2159 | 25 | Chipper Gridroll |
-| 2160 | 25 | Crasher |
-| 2161 | 25 | Brave Curver |
-| 2162 | 25 | Charlene Napier |
-| 2163 | 25 | Samantha Robinet |
+| 2149 | 26 | Samantha Robinet |
+| 2150 | 26 | Megan Theresa Marie Rydle |
+| 2151 | 26 | Danibellee |
+| 2152 | 26 | Darlene Russell |
+| 2153 | 26 | Cathy Clark |
+| 2154 | 26 | Bad Juju |
+| 2155 | 26 | Quirky Climber |
+| 2156 | 26 | Tina Doyens Munis |
+| 2157 | 26 | Samantha Morrison |
+| 2158 | 26 | nova |
+| 2159 | 25 | Mighty Piecebuilder |
+| 2160 | 25 | Chipper Gridroll |
+| 2161 | 25 | Crasher |
+| 2162 | 25 | Brave Curver |
+| 2163 | 25 | Charlene Napier |
 | 2164 | 25 | Ray Wilhelm |
 | 2165 | 25 | Lori Garner |
 | 2166 | 24 | PixieGirl |
