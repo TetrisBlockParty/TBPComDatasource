@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:18:21 UTC
+# Standings for team1 as of 2026-06-09 08:18:45 UTC
 
 **Total Participants:** 2018
 
@@ -65,9 +65,9 @@
 | 57 | 1724 | Brian Bohanon II |
 | 58 | 1700 | Rosey |
 | 59 | 1683 | Jacoby E Fleming |
-| 60 | 1642 | TAZ-MF-NIZIL |
-| 61 | 1568 | Helen Smith |
-| 62 | 1560 | BlackQueen105 |
+| 60 | 1660 | BlackQueen105 |
+| 61 | 1642 | TAZ-MF-NIZIL |
+| 62 | 1568 | Helen Smith |
 | 63 | 1507 | Eric Mcgaughy |
 | 64 | 1484 | Danielle DeLozier Plesec |
 | 65 | 1479 | Corey Cawthon |

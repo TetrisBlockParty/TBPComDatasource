@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:18:21 UTC
+# Standings for team2 as of 2026-06-09 08:18:45 UTC
 
 **Total Participants:** 2445
 
@@ -495,8 +495,8 @@
 | 487 | 289 | Layla Petroff |
 | 488 | 288 | Peter Fogg |
 | 489 | 285 | Goofy Shatterbuilder |
-| 490 | 282 | ZBee |
-| 491 | 281 | Mrs biotch |
+| 490 | 285 | Mrs biotch |
+| 491 | 282 | ZBee |
 | 492 | 281 | straighttiptoe |
 | 493 | 280 | Sandra Ruiz |
 | 494 | 280 | Keisha Robinson |
@@ -1300,21 +1300,21 @@
 | 1292 | 89 | Sue Fuzy |
 | 1293 | 88 | Jeannine Murphy |
 | 1294 | 88 | Debra Patten |
-| 1295 | 88 | Raven |
-| 1296 | 88 | Kendi |
-| 1297 | 88 | Missy Tubb Overly |
-| 1298 | 88 | Erin Marie Smith |
-| 1299 | 88 | Redangel |
-| 1300 | 87 | LilMs101 |
-| 1301 | 87 | Anita Blackshear |
+| 1295 | 88 | Anita Blackshear |
+| 1296 | 88 | Raven |
+| 1297 | 88 | Kendi |
+| 1298 | 88 | Missy Tubb Overly |
+| 1299 | 88 | Erin Marie Smith |
+| 1300 | 88 | Redangel |
+| 1301 | 87 | LilMs101 |
 | 1302 | 87 | Mandy Smart |
-| 1303 | 86 | Becka Jones |
+| 1303 | 86 | Jennifer Robinson |
 | 1304 | 86 | Charles Dwayne |
-| 1305 | 86 | Melissa Mae |
-| 1306 | 86 | Chad Praytor |
-| 1307 | 86 | Alessandria Anderson |
-| 1308 | 86 | Em |
-| 1309 | 86 | Jennifer Robinson |
+| 1305 | 86 | Chad Praytor |
+| 1306 | 86 | Becka Jones |
+| 1307 | 86 | Melissa Mae |
+| 1308 | 86 | Alessandria Anderson |
+| 1309 | 86 | Em |
 | 1310 | 86 | Kristen Alta |
 | 1311 | 86 | Jumpy Linkroll |
 | 1312 | 85 | Kaylyn Wickham |
@@ -1326,8 +1326,8 @@
 | 1318 | 85 | Rae Madewell |
 | 1319 | 85 | Joanne Haynes |
 | 1320 | 85 | Wendy Morrison |
-| 1321 | 84 | Matt Solomon |
-| 1322 | 84 | Calah Amore |
+| 1321 | 84 | Calah Amore |
+| 1322 | 84 | Matt Solomon |
 | 1323 | 84 | candi |
 | 1324 | 84 | Jazzy |
 | 1325 | 84 | Chirpy Tower |
