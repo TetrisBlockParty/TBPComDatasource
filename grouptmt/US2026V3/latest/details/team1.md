@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:35:23 UTC
+# Standings for team1 as of 2026-06-09 08:36:43 UTC
 
 **Total Participants:** 2018
 
@@ -143,39 +143,39 @@
 | 135 | 808 | Cee Emm |
 | 136 | 799 | Shontanese Adams |
 | 137 | 790 | Plucky Slamdrop |
-| 138 | 775 | Big Tina |
-| 139 | 760 | Trendalyn Webb |
-| 140 | 754 | Jhaime |
-| 141 | 751 | Kellie Hall |
-| 142 | 747 | Carolynne Walker-Bell |
-| 143 | 730 | ing410 |
-| 144 | 720 | Felicia Williams |
-| 145 | 708 | De'Laonzeo Anthony |
-| 146 | 703 | Lesley Brunkus Cianfaglione |
-| 147 | 702 | Chuck Quarles |
-| 148 | 700 | Eugina Slater |
-| 149 | 694 | Anthony Washington |
-| 150 | 693 | Andi McGreevy |
-| 151 | 692 | Chirpy Corner |
-| 152 | 686 | W.A. Simpson |
-| 153 | 685 | Ebony Waynes-robinson |
+| 138 | 784 | Christana Imjustbutton Stone |
+| 139 | 775 | Big Tina |
+| 140 | 760 | Trendalyn Webb |
+| 141 | 754 | Jhaime |
+| 142 | 751 | Kellie Hall |
+| 143 | 747 | Carolynne Walker-Bell |
+| 144 | 730 | ing410 |
+| 145 | 720 | Felicia Williams |
+| 146 | 708 | De'Laonzeo Anthony |
+| 147 | 703 | Lesley Brunkus Cianfaglione |
+| 148 | 702 | Chuck Quarles |
+| 149 | 700 | Eugina Slater |
+| 150 | 694 | Anthony Washington |
+| 151 | 693 | Andi McGreevy |
+| 152 | 692 | Chirpy Corner |
+| 153 | 686 | W.A. Simpson |
 | 154 | 685 | Byron Mario Cawthon |
-| 155 | 677 | Chantelle Lee |
-| 156 | 671 | Gotcha |
-| 157 | 668 | Katherine Short |
-| 158 | 668 | JaszyBadd |
-| 159 | 667 | Karebear |
-| 160 | 662 | Gael Quintana |
-| 161 | 659 | Snappy Link |
-| 162 | 657 | Ann White |
-| 163 | 649 | sha |
-| 164 | 646 | TeeMaster Barber IsLyfe |
-| 165 | 645 | Marcheta Cervantez |
+| 155 | 685 | Ebony Waynes-robinson |
+| 156 | 677 | Chantelle Lee |
+| 157 | 671 | Gotcha |
+| 158 | 668 | Katherine Short |
+| 159 | 668 | JaszyBadd |
+| 160 | 667 | Karebear |
+| 161 | 662 | Gael Quintana |
+| 162 | 659 | Snappy Link |
+| 163 | 657 | Ann White |
+| 164 | 649 | sha |
+| 165 | 646 | TeeMaster Barber IsLyfe |
 | 166 | 645 | Keke Ferguson |
-| 167 | 644 | Dena Marie Lee |
-| 168 | 643 | Ottison Dianna |
-| 169 | 642 | Antonia Wyche |
-| 170 | 634 | Christana Imjustbutton Stone |
+| 167 | 645 | Marcheta Cervantez |
+| 168 | 644 | Dena Marie Lee |
+| 169 | 643 | Ottison Dianna |
+| 170 | 642 | Antonia Wyche |
 | 171 | 633 | Rackemwillie34 |
 | 172 | 630 | Bambi Love |
 | 173 | 629 | Charletha Williams |
