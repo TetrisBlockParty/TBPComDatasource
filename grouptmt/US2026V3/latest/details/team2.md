@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 16:40:21 UTC
+# Standings for team2 as of 2026-06-09 16:40:48 UTC
 
 **Total Participants:** 2532
 
@@ -312,7 +312,7 @@
 | 304 | 520 | Deezie |
 | 305 | 518 | Jason Cunningham |
 | 306 | 517 | Swanky Fitline |
-| 307 | 509 | Wacky Dashfit |
+| 307 | 512 | Wacky Dashfit |
 | 308 | 508 | Dawnypooh |
 | 309 | 508 | Tara |
 | 310 | 508 | Ackerman 85 |
@@ -1191,8 +1191,8 @@
 | 1183 | 114 | Mona Wagner |
 | 1184 | 114 | Loopy Roll |
 | 1185 | 114 | Samantha Lewis |
-| 1186 | 114 | Shannon Miller- Cooley |
-| 1187 | 114 | Kayla Faulkiner |
+| 1186 | 114 | Kayla Faulkiner |
+| 1187 | 114 | Shannon Miller- Cooley |
 | 1188 | 113 | Wood |
 | 1189 | 113 | Randy Taylor |
 | 1190 | 113 | DNice |
@@ -1201,99 +1201,99 @@
 | 1193 | 112 | James Calhoun |
 | 1194 | 112 | Kylee Pruitt |
 | 1195 | 112 | Arik DiLorenzo |
-| 1196 | 112 | Cranky Zonebuilder |
-| 1197 | 112 | Yuhh |
-| 1198 | 111 | Tetrismastrr |
-| 1199 | 111 | Bonez |
-| 1200 | 111 | Nikki Layman |
-| 1201 | 111 | Tish |
-| 1202 | 111 | Thomas Chris |
-| 1203 | 111 | BikerBorn BikerBred |
-| 1204 | 111 | WestieMom |
-| 1205 | 111 | Linzy Ratliff |
-| 1206 | 110 | Lesley Stoeckle |
-| 1207 | 110 | Michelle Fry-Cash |
-| 1208 | 110 | Stephen Gillam |
-| 1209 | 110 | Rey Huber |
-| 1210 | 110 | Twisty Matcher |
-| 1211 | 110 | Deena-Neal Peryer |
-| 1212 | 110 | Susan Moyer |
+| 1196 | 112 | William Dowd |
+| 1197 | 112 | Cranky Zonebuilder |
+| 1198 | 112 | Yuhh |
+| 1199 | 111 | Thomas Chris |
+| 1200 | 111 | Tish |
+| 1201 | 111 | BikerBorn BikerBred |
+| 1202 | 111 | Nikki Layman |
+| 1203 | 111 | Bonez |
+| 1204 | 111 | Tetrismastrr |
+| 1205 | 111 | WestieMom |
+| 1206 | 111 | Linzy Ratliff |
+| 1207 | 110 | Lesley Stoeckle |
+| 1208 | 110 | Michelle Fry-Cash |
+| 1209 | 110 | Stephen Gillam |
+| 1210 | 110 | Rey Huber |
+| 1211 | 110 | Susan Moyer |
+| 1212 | 110 | Twisty Matcher |
 | 1213 | 110 | Sandy Molina |
 | 1214 | 110 | Cool Balancer |
 | 1215 | 110 | Christina German |
 | 1216 | 110 | Andrea Spinelli |
-| 1217 | 110 | Christina Reid |
-| 1218 | 110 | Ava Dorsch |
-| 1219 | 109 | Dee |
-| 1220 | 109 | Helen Chao |
-| 1221 | 109 | Sandra Rotton Bragg |
-| 1222 | 108 | Lively Liner |
-| 1223 | 108 | Peppy Piececlear |
-| 1224 | 108 | Armordguy |
-| 1225 | 108 | Swanky Twister |
-| 1226 | 108 | build master |
-| 1227 | 108 | Chatty |
+| 1217 | 110 | Deena-Neal Peryer |
+| 1218 | 110 | Christina Reid |
+| 1219 | 110 | Ava Dorsch |
+| 1220 | 109 | Dee |
+| 1221 | 109 | Helen Chao |
+| 1222 | 109 | Sandra Rotton Bragg |
+| 1223 | 108 | Lively Liner |
+| 1224 | 108 | Peppy Piececlear |
+| 1225 | 108 | Armordguy |
+| 1226 | 108 | Swanky Twister |
+| 1227 | 108 | build master |
 | 1228 | 108 | Brooke Marie Fox |
-| 1229 | 107 | LilMs101 |
-| 1230 | 107 | Carole Brown |
-| 1231 | 107 | Giggy Linkgrid |
-| 1232 | 106 | R.w. Buck |
-| 1233 | 106 | Toni Tortorici Humphryes |
-| 1234 | 106 | CowboyChalie |
-| 1235 | 106 | Teresa Ann Curry |
-| 1236 | 106 | Donna R. Banks |
-| 1237 | 105 | Chill Wipegrid |
-| 1238 | 105 | Wildcat1220 |
-| 1239 | 105 | Nadine Velardo |
-| 1240 | 105 | Shannon Vanlester |
-| 1241 | 105 | Devon |
-| 1242 | 105 | Patrick Woodard |
-| 1243 | 104 | Dandy Matchzone |
-| 1244 | 103 | Smiley Rotate |
-| 1245 | 103 | Guadalupe Medina |
+| 1229 | 108 | Chatty |
+| 1230 | 107 | LilMs101 |
+| 1231 | 107 | Carole Brown |
+| 1232 | 107 | Giggy Linkgrid |
+| 1233 | 106 | R.w. Buck |
+| 1234 | 106 | Toni Tortorici Humphryes |
+| 1235 | 106 | CowboyChalie |
+| 1236 | 106 | Teresa Ann Curry |
+| 1237 | 106 | Donna R. Banks |
+| 1238 | 105 | Chill Wipegrid |
+| 1239 | 105 | Wildcat1220 |
+| 1240 | 105 | Nadine Velardo |
+| 1241 | 105 | Shannon Vanlester |
+| 1242 | 105 | Devon |
+| 1243 | 105 | Patrick Woodard |
+| 1244 | 104 | Dandy Matchzone |
+| 1245 | 103 | Smiley Rotate |
 | 1246 | 103 | Katie Boen |
-| 1247 | 103 | Jason M Barnes |
-| 1248 | 103 | BoxerMom |
-| 1249 | 103 | Rob Phillips |
-| 1250 | 103 | twistyzone |
-| 1251 | 103 | SaraAnn Gray Philbrick |
-| 1252 | 103 | Louis Brudzinski |
-| 1253 | 103 | Kendi |
-| 1254 | 103 | Nina-Christina Cusyck |
-| 1255 | 103 | Peppy Piececlear |
-| 1256 | 102 | Nicole Hjelmen |
-| 1257 | 102 | Trena Sapp |
-| 1258 | 102 | Lu Wallace |
-| 1259 | 102 | Dawn Marie |
-| 1260 | 102 | Renee Craig |
-| 1261 | 102 | Samantha Brown |
-| 1262 | 102 | Stacy Hoffman |
-| 1263 | 101 | Cynthia Dawn Reitz Hanson |
-| 1264 | 101 | Jamie Benge |
-| 1265 | 101 | Tashamonique Puckey |
-| 1266 | 100 | Quina Jesse Fejaran |
-| 1267 | 100 | Justin Furne |
-| 1268 | 100 | Denna Marteney |
-| 1269 | 100 | Jackie Moran Tiller |
-| 1270 | 100 | Donna Segletes Kay |
-| 1271 | 100 | Silly square |
-| 1272 | 100 | blockrocker |
-| 1273 | 100 | Dizzy Dropzone |
-| 1274 | 100 | Cory Lynn |
-| 1275 | 100 | Kelly Christine Trimmer |
-| 1276 | 100 | Trisha Farley |
-| 1277 | 100 | Emily Carns |
-| 1278 | 100 | CATFISH |
-| 1279 | 100 | Nicole Chestnut |
-| 1280 | 100 | Sarai Coronado |
-| 1281 | 100 | William Dowd |
-| 1282 | 100 | Kayla Iverson |
-| 1283 | 100 | Nerdy Linebuilder |
-| 1284 | 100 | Tipsy Twistbuilder |
-| 1285 | 100 | Chey22 |
-| 1286 | 100 | Giggy Balancefit |
-| 1287 | 100 | Crystal Whygle |
-| 1288 | 100 | Chillxsnow |
+| 1247 | 103 | Rob Phillips |
+| 1248 | 103 | Jason M Barnes |
+| 1249 | 103 | twistyzone |
+| 1250 | 103 | Guadalupe Medina |
+| 1251 | 103 | BoxerMom |
+| 1252 | 103 | SaraAnn Gray Philbrick |
+| 1253 | 103 | Louis Brudzinski |
+| 1254 | 103 | Kendi |
+| 1255 | 103 | Nina-Christina Cusyck |
+| 1256 | 103 | Peppy Piececlear |
+| 1257 | 102 | Nicole Hjelmen |
+| 1258 | 102 | Trena Sapp |
+| 1259 | 102 | Lu Wallace |
+| 1260 | 102 | Dawn Marie |
+| 1261 | 102 | Renee Craig |
+| 1262 | 102 | Samantha Brown |
+| 1263 | 102 | Stacy Hoffman |
+| 1264 | 101 | Cynthia Dawn Reitz Hanson |
+| 1265 | 101 | Jamie Benge |
+| 1266 | 101 | Tashamonique Puckey |
+| 1267 | 100 | Quina Jesse Fejaran |
+| 1268 | 100 | Justin Furne |
+| 1269 | 100 | Denna Marteney |
+| 1270 | 100 | Jackie Moran Tiller |
+| 1271 | 100 | Donna Segletes Kay |
+| 1272 | 100 | Silly square |
+| 1273 | 100 | blockrocker |
+| 1274 | 100 | Dizzy Dropzone |
+| 1275 | 100 | Cory Lynn |
+| 1276 | 100 | Kelly Christine Trimmer |
+| 1277 | 100 | Trisha Farley |
+| 1278 | 100 | Emily Carns |
+| 1279 | 100 | CATFISH |
+| 1280 | 100 | Nicole Chestnut |
+| 1281 | 100 | Giggy Balancefit |
+| 1282 | 100 | Chillxsnow |
+| 1283 | 100 | Chey22 |
+| 1284 | 100 | Crystal Whygle |
+| 1285 | 100 | Sarai Coronado |
+| 1286 | 100 | Nerdy Linebuilder |
+| 1287 | 100 | Tipsy Twistbuilder |
+| 1288 | 100 | Kayla Iverson |
 | 1289 | 100 | Bubbly Risebuilder |
 | 1290 | 99 | Ramona Peña |
 | 1291 | 99 | Jennifer Lauzon |
