@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:07:22 UTC
+# Standings for team1 as of 2026-06-09 08:08:22 UTC
 
 **Total Participants:** 2017
 
@@ -244,13 +244,13 @@
 | 236 | 467 | Tina Mitchell |
 | 237 | 466 | Tessa Gaskin |
 | 238 | 465 | Natasha Rucker |
-| 239 | 462 | Jenna Renee |
-| 240 | 462 | Jhonny Maii |
-| 241 | 460 | Tanya Clayton |
-| 242 | 458 | Jimmie Makia |
-| 243 | 456 | Cachet A Ward |
-| 244 | 455 | Tamara Johnson-Carter |
-| 245 | 454 | Rhonda Williams Warner |
+| 239 | 464 | Rhonda Williams Warner |
+| 240 | 462 | Jenna Renee |
+| 241 | 462 | Jhonny Maii |
+| 242 | 460 | Tanya Clayton |
+| 243 | 458 | Jimmie Makia |
+| 244 | 456 | Cachet A Ward |
+| 245 | 455 | Tamara Johnson-Carter |
 | 246 | 453 | Elizabeth Vega Coreano |
 | 247 | 453 | JaClanDiah |
 | 248 | 452 | Kenny MrOnethousand Peck |
@@ -1577,104 +1577,104 @@
 | 1569 | 30 | Chavez James |
 | 1570 | 30 | Spicy Builderfit |
 | 1571 | 30 | Tee $ |
-| 1572 | 30 | Cheryl Parraway |
-| 1573 | 30 | Lavender |
+| 1572 | 30 | Lavender |
+| 1573 | 30 | Cheryl Parraway |
 | 1574 | 30 | Jamie Mclean |
 | 1575 | 30 | Cucumber |
 | 1576 | 30 | Dee |
-| 1577 | 29 | E Dubb$ |
-| 1578 | 29 | Dave Breaker |
+| 1577 | 29 | Dave Breaker |
+| 1578 | 29 | Elizabeth Ragland |
 | 1579 | 29 | Epic Wipepiece |
-| 1580 | 29 | Twisty Tilebuilder |
-| 1581 | 29 | Everett Semmions |
-| 1582 | 29 | Elizabeth Ragland |
-| 1583 | 29 | Chris Bell |
-| 1584 | 29 | Carolyn Delphie |
-| 1585 | 29 | Crafty |
-| 1586 | 29 | Joycina Newsome |
-| 1587 | 29 | Christian Whittaker |
-| 1588 | 29 | Keia Price |
-| 1589 | 29 | BADBOY658 |
-| 1590 | 28 | David Rankin |
-| 1591 | 28 | Will Stanton |
-| 1592 | 28 | Kenya Richardson |
-| 1593 | 28 | kiki |
-| 1594 | 28 | Shanna Nicole Anderson |
-| 1595 | 28 | Keera425 |
-| 1596 | 28 | Raevon Bailey |
-| 1597 | 28 | Dee |
-| 1598 | 28 | Michelle Dollah |
-| 1599 | 28 | Iván Cedeño |
-| 1600 | 28 | Dannie Brown |
-| 1601 | 28 | Shutyoface Barber |
-| 1602 | 28 | Leon Matthew Williams |
-| 1603 | 28 | Zany Edgepiece |
-| 1604 | 27 | Shaylyn Lockwood |
+| 1580 | 29 | Everett Semmions |
+| 1581 | 29 | Chris Bell |
+| 1582 | 29 | Carolyn Delphie |
+| 1583 | 29 | BADBOY658 |
+| 1584 | 29 | Crafty |
+| 1585 | 29 | E Dubb$ |
+| 1586 | 29 | Twisty Tilebuilder |
+| 1587 | 29 | Keia Price |
+| 1588 | 29 | Christian Whittaker |
+| 1589 | 29 | Joycina Newsome |
+| 1590 | 28 | kiki |
+| 1591 | 28 | Shanna Nicole Anderson |
+| 1592 | 28 | Keera425 |
+| 1593 | 28 | Raevon Bailey |
+| 1594 | 28 | Shutyoface Barber |
+| 1595 | 28 | Dee |
+| 1596 | 28 | LadiGurl |
+| 1597 | 28 | Iván Cedeño |
+| 1598 | 28 | Dannie Brown |
+| 1599 | 28 | Will Stanton |
+| 1600 | 28 | Leon Matthew Williams |
+| 1601 | 28 | Zany Edgepiece |
+| 1602 | 28 | Kenya Richardson |
+| 1603 | 28 | Michelle Dollah |
+| 1604 | 28 | David Rankin |
 | 1605 | 27 | scorpiobae |
-| 1606 | 27 | Sunny Cascader |
-| 1607 | 27 | Antoinette GallowayJohnson |
+| 1606 | 27 | Antoinette GallowayJohnson |
+| 1607 | 27 | Shaylyn Lockwood |
 | 1608 | 27 | Queen |
-| 1609 | 27 | Manda Pecora |
+| 1609 | 27 | Sunny Cascader |
 | 1610 | 27 | Ramon Leno Coolridge |
-| 1611 | 27 | Grant Wilson |
-| 1612 | 27 | Zesty Fitclear |
-| 1613 | 27 | Taylor Keisha |
-| 1614 | 27 | katia |
-| 1615 | 27 | Mariela J. Mazariegos |
-| 1616 | 27 | Poppy Clusterbuilder |
-| 1617 | 27 | Venna Cooper |
-| 1618 | 27 | MsSassygee Boom |
-| 1619 | 27 | marie |
-| 1620 | 27 | Mighty Curver |
-| 1621 | 26 | jae |
-| 1622 | 26 | Tina Drake |
-| 1623 | 26 | kaboom |
-| 1624 | 26 | Quirky Gridpiece |
-| 1625 | 26 | Lush Risebuilder |
-| 1626 | 26 | Konkrete Pop |
-| 1627 | 26 | Chevonne Huggins |
-| 1628 | 26 | Emily Burgoon |
-| 1629 | 26 | Ana Torres |
-| 1630 | 26 | Jennifer Diamond |
-| 1631 | 26 | Laura Long |
-| 1632 | 26 | Carlotta L Parker |
-| 1633 | 26 | Layla Williams |
-| 1634 | 26 | Marla |
-| 1635 | 25 | PennyCandee |
-| 1636 | 25 | Dinky da Don |
+| 1611 | 27 | Mariela J. Mazariegos |
+| 1612 | 27 | Grant Wilson |
+| 1613 | 27 | Poppy Clusterbuilder |
+| 1614 | 27 | Venna Cooper |
+| 1615 | 27 | MsSassygee Boom |
+| 1616 | 27 | Mighty Curver |
+| 1617 | 27 | marie |
+| 1618 | 27 | katia |
+| 1619 | 27 | Taylor Keisha |
+| 1620 | 27 | Manda Pecora |
+| 1621 | 27 | Zesty Fitclear |
+| 1622 | 26 | Jennifer Diamond |
+| 1623 | 26 | Quirky Gridpiece |
+| 1624 | 26 | Konkrete Pop |
+| 1625 | 26 | jae |
+| 1626 | 26 | Tina Drake |
+| 1627 | 26 | Marla |
+| 1628 | 26 | kaboom |
+| 1629 | 26 | Layla Williams |
+| 1630 | 26 | Laura Long |
+| 1631 | 26 | Lush Risebuilder |
+| 1632 | 26 | Emily Burgoon |
+| 1633 | 26 | Ana Torres |
+| 1634 | 26 | Chevonne Huggins |
+| 1635 | 26 | Carlotta L Parker |
+| 1636 | 25 | Anthony |
 | 1637 | 25 | Charlean Sims |
-| 1638 | 25 | Breezy Bouncer |
-| 1639 | 25 | Anthony |
-| 1640 | 25 | Boldy Slammer |
-| 1641 | 25 | Jashana Thomas |
-| 1642 | 25 | Em Purvis |
-| 1643 | 25 | Leonard R. Chanette |
-| 1644 | 25 | Regina Haygood |
-| 1645 | 25 | Nicki JTho |
-| 1646 | 25 | Epic Puzzle |
-| 1647 | 25 | Ladii Ree |
-| 1648 | 25 | RossA |
-| 1649 | 25 | Pamela Cooper |
-| 1650 | 24 | Antoinette AugustusJones III |
-| 1651 | 24 | Snazzy Shatterbuilder |
+| 1638 | 25 | Dinky da Don |
+| 1639 | 25 | Breezy Bouncer |
+| 1640 | 25 | PennyCandee |
+| 1641 | 25 | Em Purvis |
+| 1642 | 25 | Leonard R. Chanette |
+| 1643 | 25 | Regina Haygood |
+| 1644 | 25 | Boldy Slammer |
+| 1645 | 25 | Epic Puzzle |
+| 1646 | 25 | Pamela Cooper |
+| 1647 | 25 | Nicki JTho |
+| 1648 | 25 | Ladii Ree |
+| 1649 | 25 | Jashana Thomas |
+| 1650 | 25 | RossA |
+| 1651 | 24 | Kris |
 | 1652 | 24 | Null Kim |
 | 1653 | 24 | Andrea DeRoy |
-| 1654 | 24 | LadiGurl |
-| 1655 | 24 | TanB53 |
-| 1656 | 24 | Kris |
-| 1657 | 24 | Brandon Knox |
-| 1658 | 24 | David Sk Vaughan Jr. |
-| 1659 | 24 | BuddyLove37 |
-| 1660 | 24 | Rekeia Minding Mine |
-| 1661 | 24 | Lively Stagger |
-| 1662 | 23 | Charisse Johnson |
-| 1663 | 23 | Major314 |
-| 1664 | 23 | Sassy Stack |
-| 1665 | 23 | Nicolej |
-| 1666 | 23 | Shiny Zonebuilder |
-| 1667 | 23 | Jamie Lea Popp |
-| 1668 | 23 | Nika TaurustotheBone Turner |
-| 1669 | 23 | Genevieve Nieves |
+| 1654 | 24 | TanB53 |
+| 1655 | 24 | Brandon Knox |
+| 1656 | 24 | David Sk Vaughan Jr. |
+| 1657 | 24 | Snazzy Shatterbuilder |
+| 1658 | 24 | BuddyLove37 |
+| 1659 | 24 | Rekeia Minding Mine |
+| 1660 | 24 | Lively Stagger |
+| 1661 | 24 | Antoinette AugustusJones III |
+| 1662 | 23 | Genevieve Nieves |
+| 1663 | 23 | Shiny Zonebuilder |
+| 1664 | 23 | Nika TaurustotheBone Turner |
+| 1665 | 23 | Major314 |
+| 1666 | 23 | Charisse Johnson |
+| 1667 | 23 | Sassy Stack |
+| 1668 | 23 | Nicolej |
+| 1669 | 23 | Jamie Lea Popp |
 | 1670 | 23 | Lush Buildsnap |
 | 1671 | 23 | Flashy Buildgrid |
 | 1672 | 23 | Milfchaser530 |
