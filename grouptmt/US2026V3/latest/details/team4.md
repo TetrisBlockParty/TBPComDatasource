@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 17:30:46 UTC
+# Standings for team4 as of 2026-06-09 17:31:22 UTC
 
 **Total Participants:** 2147
 
@@ -53,8 +53,8 @@
 | 45 | 3216 | Jeanette Hailey |
 | 46 | 3150 | Destiny Dyer |
 | 47 | 3095 | Blind Bette |
-| 48 | 2800 | Caitlin Johnson |
-| 49 | 2800 | Annastaissia Todd |
+| 48 | 2800 | Annastaissia Todd |
+| 49 | 2800 | Caitlin Johnson |
 | 50 | 2547 | 626 |
 | 51 | 2522 | Маркус Вік |
 | 52 | 2475 | Wendy Zentz |
@@ -62,8 +62,8 @@
 | 54 | 2433 | Alexandria Frazier |
 | 55 | 2255 | Elissa S-k |
 | 56 | 2185 | Jason Allen |
-| 57 | 2131 | Michele Walker |
-| 58 | 2118 | Alicia Cook |
+| 57 | 2178 | Alicia Cook |
+| 58 | 2131 | Michele Walker |
 | 59 | 2047 | Michelle Ross |
 | 60 | 2031 | Adam J Leong |
 | 61 | 1999 | Dana Abegil Lawas |
@@ -79,8 +79,8 @@
 | 71 | 1774 | Damon Gaston |
 | 72 | 1771 | Keg |
 | 73 | 1670 | JoLinda Dunn |
-| 74 | 1600 | Posey Smith |
-| 75 | 1600 | Melissa Brown |
+| 74 | 1600 | Melissa Brown |
+| 75 | 1600 | Posey Smith |
 | 76 | 1564 | woopa 716 |
 | 77 | 1522 | Chris Covington |
 | 78 | 1494 | Charlie Lewis |
@@ -297,52 +297,52 @@
 | 289 | 426 | Mark Fitch Jr. |
 | 290 | 426 | Sassy Rollpiece |
 | 291 | 425 | Morgan Stevens |
-| 292 | 424 | Funky Tiler |
+| 292 | 424 | Cheery Risegrid |
 | 293 | 424 | Drh4090 |
-| 294 | 424 | Cheery Risegrid |
+| 294 | 424 | Funky Tiler |
 | 295 | 421 | Shiny Brick |
 | 296 | 417 | Amandacolle |
 | 297 | 416 | Anna Gribble |
 | 298 | 416 | Renee Sapp |
 | 299 | 414 | Slinky Stackzone |
 | 300 | 410 | Andrick |
-| 301 | 408 | Aramat |
-| 302 | 405 | Speedy Twistslam |
-| 303 | 402 | Breezy Cascadeclear |
-| 304 | 400 | Holly Wessel |
-| 305 | 400 | Amber Doyle |
-| 306 | 399 | Ashley Jenkins |
-| 307 | 399 | Slinky Column |
-| 308 | 399 | Glitzy Patternbuilder |
-| 309 | 398 | Juvon SupaShawdii Brooks |
-| 310 | 398 | EL Booger |
-| 311 | 395 | Bobbie Harrell |
-| 312 | 392 | Toon Up |
-| 313 | 392 | Clashy |
-| 314 | 391 | Sherry Mooney |
-| 315 | 390 | Dapper Strikerpiece |
-| 316 | 385 | Justin Michael |
-| 317 | 383 | Flashy Shatterer |
-| 318 | 383 | Rebecca Watters |
-| 319 | 383 | Gary Smallwood |
-| 320 | 381 | Jackie Polanco |
-| 321 | 380 | Brooke Bauer |
-| 322 | 379 | Chirpy Link |
+| 301 | 409 | Chirpy Link |
+| 302 | 408 | Aramat |
+| 303 | 405 | Speedy Twistslam |
+| 304 | 402 | Breezy Cascadeclear |
+| 305 | 400 | Holly Wessel |
+| 306 | 400 | Amber Doyle |
+| 307 | 399 | Ashley Jenkins |
+| 308 | 399 | Slinky Column |
+| 309 | 399 | Glitzy Patternbuilder |
+| 310 | 398 | Juvon SupaShawdii Brooks |
+| 311 | 398 | EL Booger |
+| 312 | 395 | Bobbie Harrell |
+| 313 | 392 | Toon Up |
+| 314 | 392 | Clashy |
+| 315 | 391 | Sherry Mooney |
+| 316 | 390 | Dapper Strikerpiece |
+| 317 | 385 | Justin Michael |
+| 318 | 383 | Gary Smallwood |
+| 319 | 383 | Rebecca Watters |
+| 320 | 383 | Flashy Shatterer |
+| 321 | 381 | Jackie Polanco |
+| 322 | 380 | Brooke Bauer |
 | 323 | 378 | Hwanger Land |
 | 324 | 374 | JuicyJuice |
 | 325 | 367 | Giggly Column |
-| 326 | 366 | Erika Seaton |
-| 327 | 366 | Alexis Cor |
-| 328 | 366 | Melika Zeheb |
+| 326 | 366 | Alexis Cor |
+| 327 | 366 | Melika Zeheb |
+| 328 | 366 | Erika Seaton |
 | 329 | 365 | Poppy |
 | 330 | 364 | Queen B |
 | 331 | 363 | beTrue76 |
-| 332 | 362 | Spunky Gridzone |
-| 333 | 362 | Anthony McAlister |
+| 332 | 362 | Anthony McAlister |
+| 333 | 362 | Spunky Gridzone |
 | 334 | 362 | Dazzle Dragon |
 | 335 | 361 | Lucy Honer |
-| 336 | 360 | Kimyatta Cavin |
-| 337 | 360 | Groovy Cluster |
+| 336 | 360 | Groovy Cluster |
+| 337 | 360 | Kimyatta Cavin |
 | 338 | 360 | Mann Manson |
 | 339 | 359 | Jumpy Brickline |
 | 340 | 359 | BCO22 |
@@ -350,34 +350,34 @@
 | 342 | 356 | WeeWooWee |
 | 343 | 355 | RotatedWrongAgain |
 | 344 | 354 | Ash Gribble |
-| 345 | 353 | Crystal Hammonds |
-| 346 | 353 | Karen Rodriguez |
-| 347 | 351 | Solace Grace |
+| 345 | 353 | Karen Rodriguez |
+| 346 | 353 | Crystal Hammonds |
+| 347 | 353 | Solace Grace |
 | 348 | 351 | PerfectPieces |
 | 349 | 351 | Jay Dee |
 | 350 | 350 | No Time |
 | 351 | 349 | EvoKitty |
-| 352 | 349 | kellie |
-| 353 | 349 | Tipsy Piecebuilder |
+| 352 | 349 | Tipsy Piecebuilder |
+| 353 | 349 | kellie |
 | 354 | 348 | Slimm |
 | 355 | 347 | Richard Bearse |
 | 356 | 344 | Roxana Romero |
-| 357 | 343 | Joe Richard |
-| 358 | 343 | Chummy Jumper |
+| 357 | 343 | Chummy Jumper |
+| 358 | 343 | Joe Richard |
 | 359 | 342 | Homie |
-| 360 | 341 | Shawna Downey |
-| 361 | 341 | Cool Risepiece |
+| 360 | 341 | Cool Risepiece |
+| 361 | 341 | Shawna Downey |
 | 362 | 340 | jojo |
 | 363 | 340 | Dan Butcher |
 | 364 | 338 | maria |
 | 365 | 338 | Maurice DeJean |
-| 366 | 337 | Brittany Lentz |
-| 367 | 337 | Giggly Tilt |
+| 366 | 337 | Giggly Tilt |
+| 367 | 337 | Brittany Lentz |
 | 368 | 333 | Groovy Towerbuilder |
 | 369 | 333 | Merritt Brandt |
 | 370 | 332 | Karen Davis |
-| 371 | 329 | Tipsy Builderline |
-| 372 | 329 | DanceAngel |
+| 371 | 329 | DanceAngel |
+| 372 | 329 | Tipsy Builderline |
 | 373 | 328 | Dizzy Slammer |
 | 374 | 328 | Snazzy Corner |
 | 375 | 327 | John Cotugno |
@@ -386,8 +386,8 @@
 | 378 | 325 | Matthew Wilcox |
 | 379 | 323 | Cherrel M. Causey |
 | 380 | 321 | Waxboss |
-| 381 | 320 | Jessi Goodwin |
-| 382 | 320 | TJ |
+| 381 | 320 | TJ |
+| 382 | 320 | Jessi Goodwin |
 | 383 | 319 | Bre Dee |
 | 384 | 318 | Patrick Alley |
 | 385 | 317 | Codey Haffner |
@@ -534,8 +534,8 @@
 | 526 | 240 | Keke Johnson |
 | 527 | 239 | Chelle Williams |
 | 528 | 239 | Elissa Danks |
-| 529 | 239 | Lul Babie |
-| 530 | 238 | Hasty Dropzone |
+| 529 | 239 | Hasty Dropzone |
+| 530 | 239 | Lul Babie |
 | 531 | 238 | Tara Delay Hill |
 | 532 | 237 | Sharon Tyler |
 | 533 | 236 | chefjaydawg |
