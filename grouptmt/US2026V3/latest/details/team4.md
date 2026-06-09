@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 09:36:21 UTC
+# Standings for team4 as of 2026-06-09 09:36:45 UTC
 
 **Total Participants:** 2090
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 25237 | Hanan Hana |
+| 1 | 25265 | Hanan Hana |
 | 2 | 23500 | Jessica Sheehan |
 | 3 | 20982 | Lisa Cullum |
 | 4 | 18624 | Lyza |
@@ -103,16 +103,16 @@
 | 95 | 1083 | Tiffany Loree Tiffany Oneill |
 | 96 | 1082 | Hannah Pazar |
 | 97 | 1070 | Cherry |
-| 98 | 1055 | HurkleDurkle88 |
-| 99 | 1052 | Dana Fontanez |
-| 100 | 1049 | Snippy Grid |
-| 101 | 1042 | Chuck Gannon |
-| 102 | 1040 | Tina Shalay Hayes |
-| 103 | 1032 | Esther Hadassah |
-| 104 | 1032 | Kelly Bernard |
-| 105 | 1021 | Trice Stevenson |
-| 106 | 1019 | Dandy Puzzler |
-| 107 | 1015 | JoLinda Dunn |
+| 98 | 1055 | JoLinda Dunn |
+| 99 | 1055 | HurkleDurkle88 |
+| 100 | 1052 | Dana Fontanez |
+| 101 | 1049 | Snippy Grid |
+| 102 | 1042 | Chuck Gannon |
+| 103 | 1040 | Tina Shalay Hayes |
+| 104 | 1032 | Esther Hadassah |
+| 105 | 1032 | Kelly Bernard |
+| 106 | 1021 | Trice Stevenson |
+| 107 | 1019 | Dandy Puzzler |
 | 108 | 1008 | Beee |
 | 109 | 997 | Snappy Fitzone |
 | 110 | 986 | Kim |
@@ -426,7 +426,7 @@
 | 418 | 268 | Luna |
 | 419 | 268 | Kendall Rhodie |
 | 420 | 268 | Teester |
-| 421 | 265 | Merritt Brandt |
+| 421 | 266 | Merritt Brandt |
 | 422 | 264 | Azahares Alonso |
 | 423 | 263 | Erik Clary |
 | 424 | 263 | Laurie Patrick |
