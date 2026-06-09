@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 01:04:20 UTC
+# Standings for team1 as of 2026-06-09 01:04:43 UTC
 
 **Total Participants:** 1913
 
@@ -92,8 +92,8 @@
 | 84 | 1159 | Tiana Moore |
 | 85 | 1153 | Catara Renae Oliver |
 | 86 | 1153 | KenpachisGirl |
-| 87 | 1140 | Jason Mungin |
-| 88 | 1139 | Kimberly Hernandez |
+| 87 | 1148 | Kimberly Hernandez |
+| 88 | 1140 | Jason Mungin |
 | 89 | 1124 | Jazzy Dashpiece |
 | 90 | 1121 | Lisa Müller |
 | 91 | 1120 | IamJust Neyamijah Washington Sr. |
@@ -190,8 +190,8 @@
 | 182 | 520 | Spicy Risepiece |
 | 183 | 519 | Slinky Party |
 | 184 | 511 | Dizzy Dropper |
-| 185 | 509 | Dandy Brickfit |
-| 186 | 506 | LaToya Chambers |
+| 185 | 511 | LaToya Chambers |
+| 186 | 509 | Dandy Brickfit |
 | 187 | 505 | Tishauna Virgo |
 | 188 | 505 | Marcheta Cervantez |
 | 189 | 499 | Tamara N Lee |
@@ -499,50 +499,50 @@
 | 491 | 204 | Nickeya Phillips |
 | 492 | 204 | Brittanie Wardlow |
 | 493 | 204 | Rosalind Chatman |
-| 494 | 203 | Breezy Catcher |
-| 495 | 202 | Frankey Chi |
-| 496 | 202 | Messy Live |
-| 497 | 202 | Bold Clusterer |
-| 498 | 202 | Peppy Glider |
-| 499 | 202 | Jana Cheek |
-| 500 | 201 | Angela Brown Babin |
-| 501 | 201 | Jae Thompson-Tyus |
-| 502 | 201 | Taz Ballard |
-| 503 | 201 | EvaLynn NeCole |
-| 504 | 201 | Jelyfish |
-| 505 | 200 | Nisha Sunshine Jenkins |
-| 506 | 200 | Karen Knapp |
-| 507 | 198 | Andy Rivera |
+| 494 | 203 | Poyre Shelton |
+| 495 | 203 | Breezy Catcher |
+| 496 | 202 | Frankey Chi |
+| 497 | 202 | Messy Live |
+| 498 | 202 | Bold Clusterer |
+| 499 | 202 | Peppy Glider |
+| 500 | 202 | Jana Cheek |
+| 501 | 201 | Angela Brown Babin |
+| 502 | 201 | Jae Thompson-Tyus |
+| 503 | 201 | Taz Ballard |
+| 504 | 201 | EvaLynn NeCole |
+| 505 | 201 | Jelyfish |
+| 506 | 200 | Nisha Sunshine Jenkins |
+| 507 | 200 | Karen Knapp |
 | 508 | 198 | Cece Fowler |
-| 509 | 197 | Poyre Shelton |
+| 509 | 198 | Andy Rivera |
 | 510 | 197 | Rachel Renae Bettis |
-| 511 | 197 | Jolly Tilefall |
-| 512 | 197 | Twisty Brickfit |
+| 511 | 197 | Twisty Brickfit |
+| 512 | 197 | Jolly Tilefall |
 | 513 | 196 | Ladybug |
 | 514 | 196 | Teresa Yanira Cepeda |
 | 515 | 195 | nameno |
 | 516 | 194 | Mahagony Small |
-| 517 | 193 | Dizzy Dashy |
-| 518 | 193 | Kimberly Susan Privette |
-| 519 | 193 | Douglas Price |
-| 520 | 192 | C Lo Green |
-| 521 | 192 | Hyper Blocky |
-| 522 | 192 | Dede Tate |
-| 523 | 192 | Aihpos |
-| 524 | 192 | Donna Payne |
-| 525 | 191 | Nona Harriel |
-| 526 | 191 | Katrina Ramey |
-| 527 | 191 | Miera Nicole |
-| 528 | 190 | Dreamzzz |
-| 529 | 190 | Jovy |
-| 530 | 190 | Chipper Snapper |
-| 531 | 190 | Adrian Wilson |
-| 532 | 189 | Darrelle Short |
-| 533 | 189 | Sean White |
-| 534 | 189 | Tosha Michelle |
-| 535 | 188 | Tyiesha Pie Farmer |
-| 536 | 188 | Daring Riserfit |
-| 537 | 188 | MindlessMic |
+| 517 | 193 | Douglas Price |
+| 518 | 193 | Dizzy Dashy |
+| 519 | 193 | Kimberly Susan Privette |
+| 520 | 192 | Donna Payne |
+| 521 | 192 | C Lo Green |
+| 522 | 192 | Aihpos |
+| 523 | 192 | Hyper Blocky |
+| 524 | 192 | Dede Tate |
+| 525 | 191 | Katrina Ramey |
+| 526 | 191 | Miera Nicole |
+| 527 | 191 | Nona Harriel |
+| 528 | 190 | Jovy |
+| 529 | 190 | Chipper Snapper |
+| 530 | 190 | Adrian Wilson |
+| 531 | 190 | Dreamzzz |
+| 532 | 189 | Sean White |
+| 533 | 189 | Tosha Michelle |
+| 534 | 189 | Darrelle Short |
+| 535 | 188 | Daring Riserfit |
+| 536 | 188 | MindlessMic |
+| 537 | 188 | Tyiesha Pie Farmer |
 | 538 | 188 | DeAngelo Sorrells |
 | 539 | 188 | Travis Davison |
 | 540 | 187 | Lively Riserpiece |
