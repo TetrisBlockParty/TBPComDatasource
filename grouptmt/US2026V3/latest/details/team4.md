@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 22:50:45 UTC
+# Standings for team4 as of 2026-06-09 22:51:22 UTC
 
 **Total Participants:** 2196
 
@@ -14,7 +14,7 @@
 | 6 | 10664 | Hasty Builder |
 | 7 | 10300 | Cinny |
 | 8 | 9302 | Kait Confetti |
-| 9 | 8941 | BertaF1irta |
+| 9 | 9239 | BertaF1irta |
 | 10 | 8434 | ktothet |
 | 11 | 8372 | Jennifer Edgell Richardson |
 | 12 | 7998 | Candice Driver |
@@ -619,9 +619,9 @@
 | 611 | 224 | Karr |
 | 612 | 223 | Happy Shatterfit |
 | 613 | 223 | Arvin Ortega |
-| 614 | 222 | Maria Munoz |
-| 615 | 221 | Lord Solrac |
-| 616 | 221 | Gigi Ivicsics |
+| 614 | 222 | Gigi Ivicsics |
+| 615 | 222 | Maria Munoz |
+| 616 | 221 | Lord Solrac |
 | 617 | 221 | chuck |
 | 618 | 220 | 1694AF |
 | 619 | 220 | Honey |
@@ -724,93 +724,93 @@
 | 716 | 191 | Snappy Stack |
 | 717 | 190 | Name |
 | 718 | 190 | Brandon Bedenbaugh |
-| 719 | 190 | Layne Davis |
-| 720 | 190 | Robert Crow |
-| 721 | 190 | Simone |
-| 722 | 190 | Redhead girl |
-| 723 | 190 | Joe Andrews |
-| 724 | 190 | Candice Sellers Worley |
-| 725 | 189 | MrsReap |
-| 726 | 189 | Jessica Caminos |
+| 719 | 190 | Robert Crow |
+| 720 | 190 | Candice Sellers Worley |
+| 721 | 190 | Joe Andrews |
+| 722 | 190 | Simone |
+| 723 | 190 | Redhead girl |
+| 724 | 190 | Layne Davis |
+| 725 | 189 | Jessica Caminos |
+| 726 | 189 | Jennifer Brucz |
 | 727 | 189 | Lisa Ferriero-Daudin |
 | 728 | 189 | bribop |
-| 729 | 189 | Jennifer Brucz |
-| 730 | 188 | Destiny Starr LeValdo |
-| 731 | 188 | Daring Towerer |
+| 729 | 189 | MrsReap |
+| 730 | 188 | Daring Towerer |
+| 731 | 188 | Erika Rubio |
 | 732 | 188 | Lizzzzzz |
-| 733 | 188 | Erika Rubio |
-| 734 | 187 | Dennis Montoya |
+| 733 | 188 | Destiny Starr LeValdo |
+| 734 | 187 | Kelly Miller Williams |
 | 735 | 187 | Brainbabe |
-| 736 | 187 | Kelly Miller Williams |
+| 736 | 187 | Dennis Montoya |
 | 737 | 186 | Amber Jalbert |
 | 738 | 185 | Zappy Tilemaker |
 | 739 | 184 | Jasmine Turner |
-| 740 | 184 | Virgil Mayfield-Brown |
-| 741 | 184 | Chilly Pop |
-| 742 | 184 | Funky Riserpiece |
-| 743 | 184 | Mrsjcraw18 |
-| 744 | 183 | mikey moo |
-| 745 | 183 | pussface |
-| 746 | 183 | Sarah |
+| 740 | 184 | Mrsjcraw18 |
+| 741 | 184 | Funky Riserpiece |
+| 742 | 184 | Chilly Pop |
+| 743 | 184 | Virgil Mayfield-Brown |
+| 744 | 183 | pussface |
+| 745 | 183 | Sarah |
+| 746 | 183 | mikey moo |
 | 747 | 182 | Chelsea Costa |
 | 748 | 181 | Ashley Ferguson |
-| 749 | 180 | Loretta Hendricks |
-| 750 | 180 | Freddy-B |
-| 751 | 180 | Marie Adkins |
-| 752 | 180 | Silly Rollbuilder |
-| 753 | 180 | Sierra A Hortman |
-| 754 | 180 | Michelle Sager |
-| 755 | 179 | Deb 07 |
-| 756 | 179 | Laryssia Taylor |
-| 757 | 179 | Diqthot |
-| 758 | 179 | Gigi5 |
-| 759 | 179 | Dru Lui |
-| 760 | 178 | Jacqueline Arce |
-| 761 | 178 | Fancy Tilefall |
-| 762 | 178 | Melissa Quinn |
-| 763 | 178 | Bammer |
-| 764 | 178 | Rin |
-| 765 | 177 | Tanya AfricanQueen Savage |
-| 766 | 177 | Dandy Linkgrid |
-| 767 | 177 | Charlene Nicole Guidry |
-| 768 | 176 | Alizabeth Garcia |
-| 769 | 176 | Steve Foster |
-| 770 | 176 | Keith Kosmicki |
-| 771 | 176 | Deana Teck |
-| 772 | 176 | Groovy Stacker |
-| 773 | 175 | Sarah Leake |
+| 749 | 180 | Silly Rollbuilder |
+| 750 | 180 | Michelle Sager |
+| 751 | 180 | Sierra A Hortman |
+| 752 | 180 | Marie Adkins |
+| 753 | 180 | Loretta Hendricks |
+| 754 | 180 | Freddy-B |
+| 755 | 179 | Diqthot |
+| 756 | 179 | Gigi5 |
+| 757 | 179 | Deb 07 |
+| 758 | 179 | Dru Lui |
+| 759 | 179 | Laryssia Taylor |
+| 760 | 178 | Bammer |
+| 761 | 178 | Melissa Quinn |
+| 762 | 178 | Jacqueline Arce |
+| 763 | 178 | Rin |
+| 764 | 178 | Fancy Tilefall |
+| 765 | 177 | Charlene Nicole Guidry |
+| 766 | 177 | Tanya AfricanQueen Savage |
+| 767 | 177 | Dandy Linkgrid |
+| 768 | 176 | Groovy Stacker |
+| 769 | 176 | Alizabeth Garcia |
+| 770 | 176 | Deana Teck |
+| 771 | 176 | Keith Kosmicki |
+| 772 | 176 | Steve Foster |
+| 773 | 175 | Alicia Blunt |
 | 774 | 175 | Ilia Blake |
-| 775 | 174 | Japexican Strong |
-| 776 | 174 | Eddie Fuller |
-| 777 | 174 | Michelle Michelle |
-| 778 | 174 | Clever Fallzone |
-| 779 | 174 | Shirley A. Godfrey |
-| 780 | 174 | Playful Raccoon |
-| 781 | 173 | Tarsha Thomas-Martinez |
-| 782 | 173 | Khiem Hernandez |
-| 783 | 172 | Poptart |
-| 784 | 172 | Happy Filler |
-| 785 | 172 | Heather Garrity |
-| 786 | 171 | Tipsy Patternfit |
-| 787 | 170 | Jill Chapman-Yancer |
-| 788 | 170 | Justin Sercu |
-| 789 | 170 | Ricky Colvin |
-| 790 | 170 | LaRue Tee |
-| 791 | 169 | Taisha Beasley |
-| 792 | 169 | Christy Petty |
-| 793 | 169 | BigCup ReeseCup |
-| 794 | 168 | Caiti O'Keefe |
-| 795 | 168 | Kristan Hoffman |
-| 796 | 168 | Nessa Smith |
-| 797 | 168 | Cozy Towerpiece |
+| 775 | 175 | Sarah Leake |
+| 776 | 174 | Shirley A. Godfrey |
+| 777 | 174 | Japexican Strong |
+| 778 | 174 | Eddie Fuller |
+| 779 | 174 | Michelle Michelle |
+| 780 | 174 | Clever Fallzone |
+| 781 | 174 | Playful Raccoon |
+| 782 | 173 | Tarsha Thomas-Martinez |
+| 783 | 173 | Khiem Hernandez |
+| 784 | 172 | Poptart |
+| 785 | 172 | Happy Filler |
+| 786 | 172 | Heather Garrity |
+| 787 | 171 | Tipsy Patternfit |
+| 788 | 170 | Jill Chapman-Yancer |
+| 789 | 170 | Justin Sercu |
+| 790 | 170 | Ricky Colvin |
+| 791 | 170 | LaRue Tee |
+| 792 | 169 | Taisha Beasley |
+| 793 | 169 | Christy Petty |
+| 794 | 169 | BigCup ReeseCup |
+| 795 | 168 | Nessa Smith |
+| 796 | 168 | Kristan Hoffman |
+| 797 | 168 | Caiti O'Keefe |
 | 798 | 168 | Ian T Parker |
-| 799 | 167 | Kuar T Ejen |
-| 800 | 167 | Ana Ruiz |
+| 799 | 168 | Cozy Towerpiece |
+| 800 | 167 | Kuar T Ejen |
 | 801 | 167 | Jazzy Rollout |
-| 802 | 166 | Wacky Brick |
-| 803 | 165 | Corey Jackson |
-| 804 | 164 | Jillian Marie |
-| 805 | 164 | Alicia Blunt |
+| 802 | 167 | Ana Ruiz |
+| 803 | 166 | Wacky Brick |
+| 804 | 165 | Corey Jackson |
+| 805 | 164 | Jillian Marie |
 | 806 | 163 | Gerald Richard Franke |
 | 807 | 163 | Sweetfire |
 | 808 | 162 | Cranky Twisterfit |
