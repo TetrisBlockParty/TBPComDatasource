@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:28:41 UTC
+# Standings for team2 as of 2026-06-09 07:29:23 UTC
 
 **Total Participants:** 2439
 
@@ -235,8 +235,8 @@
 | 227 | 578 | Jenni LeBlanc |
 | 228 | 577 | Lindsay Klemp |
 | 229 | 576 | Breeana Bennett |
-| 230 | 574 | meg |
-| 231 | 574 | Brandy McCune Reep |
+| 230 | 574 | Brandy McCune Reep |
+| 231 | 574 | meg |
 | 232 | 573 | Jennifer Smith |
 | 233 | 573 | Chirpy Grid |
 | 234 | 572 | Vistabrat |
@@ -290,30 +290,30 @@
 | 282 | 492 | Amy Gregg |
 | 283 | 489 | Sherri E Woods Hess |
 | 284 | 489 | Suki Jacobs |
-| 285 | 488 | Ackerman 85 |
-| 286 | 487 | Amanda L Strong |
-| 287 | 485 | Naomi Walker |
-| 288 | 482 | Nikki Greeneyebeauty |
-| 289 | 480 | Jacob Carpenter |
-| 290 | 479 | Swanky Fitline |
-| 291 | 479 | giamy |
-| 292 | 478 | Melissa Nash |
-| 293 | 475 | Justin McCray |
-| 294 | 471 | Flashy Twistline |
-| 295 | 470 | Sharon L Brazelton |
-| 296 | 469 | Rachel Nilles |
-| 297 | 468 | Flower_child |
-| 298 | 467 | Nikki EightySixed |
-| 299 | 467 | Nicole Hogue |
-| 300 | 467 | Santara Ferguson |
-| 301 | 463 | Joni Michelle Morgan |
-| 302 | 462 | James Ward |
-| 303 | 461 | Katrien |
-| 304 | 457 | Aldotfus Williams |
-| 305 | 455 | Janelle Edgecombe |
-| 306 | 453 | Kimberly Cowan |
-| 307 | 453 | MaddieCherie |
-| 308 | 451 | Starr Collins |
+| 285 | 489 | Starr Collins |
+| 286 | 488 | Ackerman 85 |
+| 287 | 487 | Amanda L Strong |
+| 288 | 485 | Naomi Walker |
+| 289 | 482 | Nikki Greeneyebeauty |
+| 290 | 480 | Jacob Carpenter |
+| 291 | 479 | Swanky Fitline |
+| 292 | 479 | giamy |
+| 293 | 478 | Melissa Nash |
+| 294 | 475 | Justin McCray |
+| 295 | 471 | Flashy Twistline |
+| 296 | 470 | Sharon L Brazelton |
+| 297 | 469 | Rachel Nilles |
+| 298 | 468 | Flower_child |
+| 299 | 467 | Nikki EightySixed |
+| 300 | 467 | Nicole Hogue |
+| 301 | 467 | Santara Ferguson |
+| 302 | 463 | Joni Michelle Morgan |
+| 303 | 462 | James Ward |
+| 304 | 461 | Katrien |
+| 305 | 457 | Aldotfus Williams |
+| 306 | 455 | Janelle Edgecombe |
+| 307 | 453 | Kimberly Cowan |
+| 308 | 453 | MaddieCherie |
 | 309 | 450 | True |
 | 310 | 449 | Alicia Kinney |
 | 311 | 448 | Eric Drane |
@@ -332,8 +332,8 @@
 | 324 | 416 | Jumpy Matchbuilder |
 | 325 | 416 | Mouh Med |
 | 326 | 413 | Larry Cross |
-| 327 | 413 | Earline Dupuy Bordelon |
-| 328 | 413 | Travis Bundrum |
+| 327 | 413 | Travis Bundrum |
+| 328 | 413 | Earline Dupuy Bordelon |
 | 329 | 412 | Greta Warden |
 | 330 | 412 | Boldy Fitclear |
 | 331 | 408 | Cheery Tilefall |
@@ -343,8 +343,8 @@
 | 335 | 400 | Melissa Clogher White |
 | 336 | 400 | Shannon Wilson |
 | 337 | 400 | Jamin |
-| 338 | 400 | Adriana Daniela Agapie |
-| 339 | 400 | Patricia Carroll |
+| 338 | 400 | Patricia Carroll |
+| 339 | 400 | Adriana Daniela Agapie |
 | 340 | 400 | Sarah Rodriguez |
 | 341 | 399 | Jeffrey Smith |
 | 342 | 398 | Heather Burgett |
