@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:29:22 UTC
+# Standings for team1 as of 2026-06-09 09:30:21 UTC
 
 **Total Participants:** 2026
 
@@ -77,11 +77,11 @@
 | 69 | 1418 | Sanjuro |
 | 70 | 1418 | Daylene Johannes |
 | 71 | 1411 | Blockhead |
-| 72 | 1399 | Uneekly Mayde |
-| 73 | 1388 | Jessica Roberts |
-| 74 | 1350 | MamaBear |
-| 75 | 1344 | Chenell Gillard |
-| 76 | 1338 | Holly Jolly |
+| 72 | 1401 | Holly Jolly |
+| 73 | 1399 | Uneekly Mayde |
+| 74 | 1388 | Jessica Roberts |
+| 75 | 1350 | MamaBear |
+| 76 | 1344 | Chenell Gillard |
 | 77 | 1333 | Spicy Balancer |
 | 78 | 1326 | Todd C. Clemens |
 | 79 | 1316 | Bre Maugh |
@@ -405,73 +405,73 @@
 | 397 | 285 | Loopy Block |
 | 398 | 284 | Faith Armone |
 | 399 | 283 | CJ Robinson |
-| 400 | 283 | izzybella |
-| 401 | 283 | Rachael R Gull |
+| 400 | 283 | Rachael R Gull |
+| 401 | 283 | izzybella |
 | 402 | 282 | Eric Spencer Whitaker |
-| 403 | 280 | Erica Charlise |
-| 404 | 280 | Teri Marie Clayton |
-| 405 | 280 | Boldy Liner |
-| 406 | 280 | Sara Meri |
+| 403 | 280 | Boldy Liner |
+| 404 | 280 | Sara Meri |
+| 405 | 280 | Teri Marie Clayton |
+| 406 | 280 | Erica Charlise |
 | 407 | 280 | Daddy |
 | 408 | 279 | Chandler Magee |
 | 409 | 278 | Cheri Robinson |
 | 410 | 278 | Shanaa Germany Crittenden |
 | 411 | 277 | Bambi Johnson |
 | 412 | 276 | DaGuy |
-| 413 | 275 | Falisa Bell |
-| 414 | 275 | Tesiree Cray |
-| 415 | 275 | Kelli Couture |
-| 416 | 275 | Chris Sladoje |
-| 417 | 275 | NewEve |
+| 413 | 275 | Kelli Couture |
+| 414 | 275 | Chris Sladoje |
+| 415 | 275 | Falisa Bell |
+| 416 | 275 | NewEve |
+| 417 | 275 | Tesiree Cray |
 | 418 | 274 | Shakmar |
 | 419 | 274 | 신재호 |
 | 420 | 271 | Bambam |
 | 421 | 270 | Jean Regis |
-| 422 | 269 | Aihpos |
-| 423 | 269 | Kristine Marie Palmer |
+| 422 | 269 | Kristine Marie Palmer |
+| 423 | 269 | Aihpos |
 | 424 | 268 | C Lo Green |
 | 425 | 267 | BabyCakes |
 | 426 | 266 | Rebecca Jackson |
 | 427 | 265 | Jae Thompson-Tyus |
-| 428 | 264 | Boldy Matchbuilder |
-| 429 | 262 | Denisa Amazon Clark |
-| 430 | 261 | LaTonya Myers |
+| 428 | 264 | Amy Lynn Leifheit |
+| 429 | 264 | Boldy Matchbuilder |
+| 430 | 262 | Denisa Amazon Clark |
 | 431 | 261 | Brittany Fells |
-| 432 | 260 | Peppy Towerbuilder |
-| 433 | 260 | Alyssa Rae |
+| 432 | 261 | LaTonya Myers |
+| 433 | 260 | Peppy Towerbuilder |
 | 434 | 260 | HS Arce |
-| 435 | 259 | Stacy Nicole |
+| 435 | 260 | Alyssa Rae |
 | 436 | 259 | Slinky Clearzone |
-| 437 | 258 | Kimberly Linares Hernandez |
-| 438 | 257 | Twisty Brickfit |
-| 439 | 256 | TBABYJ |
+| 437 | 259 | Stacy Nicole |
+| 438 | 258 | Kimberly Linares Hernandez |
+| 439 | 257 | Twisty Brickfit |
 | 440 | 256 | Jessie N Michael Silvers |
-| 441 | 256 | Juan Alvarez |
-| 442 | 255 | Emily Wright |
-| 443 | 255 | Mister Reid |
-| 444 | 255 | Michelle Peters |
-| 445 | 254 | kick it |
-| 446 | 254 | Glitzy Patternline |
+| 441 | 256 | TBABYJ |
+| 442 | 256 | Juan Alvarez |
+| 443 | 255 | Michelle Peters |
+| 444 | 255 | Emily Wright |
+| 445 | 255 | Mister Reid |
+| 446 | 254 | kick it |
 | 447 | 254 | Asha Langford |
-| 448 | 253 | FunTime |
-| 449 | 253 | SweetByNBy |
-| 450 | 253 | Tasha |
-| 451 | 252 | Amy Lynn Leifheit |
+| 448 | 254 | Glitzy Patternline |
+| 449 | 253 | Tasha |
+| 450 | 253 | FunTime |
+| 451 | 253 | SweetByNBy |
 | 452 | 250 | Mighty Dropper |
 | 453 | 249 | Nate Myers |
 | 454 | 249 | Sammie Walker |
 | 455 | 248 | LuckyStar |
 | 456 | 248 | Melissa Olvera |
 | 457 | 248 | Stephanie L Jeffries Moultrie |
-| 458 | 247 | Poppy Buildout |
-| 459 | 247 | SceneGreenz Wali |
-| 460 | 247 | Abigail Newman Sweet |
-| 461 | 247 | MACHETEEDDIE513 |
-| 462 | 247 | Mahagony Small |
+| 458 | 247 | SceneGreenz Wali |
+| 459 | 247 | Mahagony Small |
+| 460 | 247 | MACHETEEDDIE513 |
+| 461 | 247 | Abigail Newman Sweet |
+| 462 | 247 | Poppy Buildout |
 | 463 | 246 | Latore Maxie |
 | 464 | 245 | Brittnay Wright |
-| 465 | 244 | Saranoh13 |
-| 466 | 244 | Perky Pusher |
+| 465 | 244 | Perky Pusher |
+| 466 | 244 | Saranoh13 |
 | 467 | 244 | Brittanie Wardlow |
 | 468 | 244 | Teddy Davis |
 | 469 | 244 | Slinky Snapbuilder |
@@ -1872,36 +1872,36 @@
 | 1864 | 12 | Gracee Hodge Kunze |
 | 1865 | 12 | Outspoken Sirchristopher |
 | 1866 | 12 | Shelly Marie |
-| 1867 | 12 | Chantae Maxwell |
-| 1868 | 12 | Plucky Twist |
-| 1869 | 12 | Deanna Dunn-mayfield |
-| 1870 | 12 | taz62 |
-| 1871 | 11 | Susie Miranda |
-| 1872 | 11 | Kourt Short |
-| 1873 | 11 | Jayson |
-| 1874 | 11 | Amber Laine |
-| 1875 | 11 | Marrie Calloway |
-| 1876 | 11 | Catherine McGowan |
-| 1877 | 11 | Bubbly Rollout |
-| 1878 | 11 | Patrick Taylor |
-| 1879 | 11 | Snappy Towerpiece |
-| 1880 | 11 | Yolanda Davis |
-| 1881 | 11 | Edward Croom |
-| 1882 | 11 | Groovy Climber |
-| 1883 | 11 | pizzapie |
-| 1884 | 11 | Alex Jacks |
-| 1885 | 11 | Terrance Jenkins |
+| 1867 | 12 | Terrance Jenkins |
+| 1868 | 12 | Chantae Maxwell |
+| 1869 | 12 | Plucky Twist |
+| 1870 | 12 | Deanna Dunn-mayfield |
+| 1871 | 12 | taz62 |
+| 1872 | 11 | Yolanda Davis |
+| 1873 | 11 | Susie Miranda |
+| 1874 | 11 | Kourt Short |
+| 1875 | 11 | Jayson |
+| 1876 | 11 | Amber Laine |
+| 1877 | 11 | Marrie Calloway |
+| 1878 | 11 | Catherine McGowan |
+| 1879 | 11 | Bubbly Rollout |
+| 1880 | 11 | Patrick Taylor |
+| 1881 | 11 | Snappy Towerpiece |
+| 1882 | 11 | Edward Croom |
+| 1883 | 11 | Groovy Climber |
+| 1884 | 11 | pizzapie |
+| 1885 | 11 | Alex Jacks |
 | 1886 | 11 | KiJoCo |
-| 1887 | 11 | Quirky Builderpiece |
-| 1888 | 11 | Hasty Builder |
-| 1889 | 11 | Butta |
-| 1890 | 11 | LS Jamison |
+| 1887 | 11 | LS Jamison |
+| 1888 | 11 | Quirky Builderpiece |
+| 1889 | 11 | Hasty Builder |
+| 1890 | 11 | Butta |
 | 1891 | 11 | Daron White |
-| 1892 | 10 | Mac Mane |
-| 1893 | 10 | MizzRoyal Kells |
-| 1894 | 10 | Stacy Holloway |
-| 1895 | 10 | Steve Renelus |
-| 1896 | 10 | Kechie Johnson |
+| 1892 | 10 | Kechie Johnson |
+| 1893 | 10 | Mac Mane |
+| 1894 | 10 | MizzRoyal Kells |
+| 1895 | 10 | Stacy Holloway |
+| 1896 | 10 | Steve Renelus |
 | 1897 | 10 | Jonay Zuri |
 | 1898 | 10 | Crystal Segura |
 | 1899 | 10 | Tranica Sterling |
