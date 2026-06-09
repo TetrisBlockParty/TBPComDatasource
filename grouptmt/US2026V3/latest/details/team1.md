@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:30:21 UTC
+# Standings for team1 as of 2026-06-09 09:30:44 UTC
 
 **Total Participants:** 2026
 
@@ -113,9 +113,9 @@
 | 105 | 1057 | ELM |
 | 106 | 1037 | Tameka Jones |
 | 107 | 1034 | Christana Imjustbutton Stone |
-| 108 | 1027 | Yolanda E Fergerson |
-| 109 | 1024 | Chill Clusterer |
-| 110 | 1021 | Keeta Chickswit Scott |
+| 108 | 1031 | Keeta Chickswit Scott |
+| 109 | 1027 | Yolanda E Fergerson |
+| 110 | 1024 | Chill Clusterer |
 | 111 | 1017 | She Higgy |
 | 112 | 1014 | Chris Caniglia |
 | 113 | 1002 | Jaida King |
@@ -1537,71 +1537,71 @@
 | 1529 | 34 | Plucky Clearpiece |
 | 1530 | 34 | Fancy Strikerbuilder |
 | 1531 | 34 | Pleasure |
-| 1532 | 34 | Frisky Pivoty |
-| 1533 | 34 | Peppy Shatterblock |
-| 1534 | 34 | Bouncy Brickroll |
-| 1535 | 34 | April Lane |
-| 1536 | 34 | Jumpy Striker |
-| 1537 | 34 | Matos Boiz |
-| 1538 | 33 | Kim Ratcliff Leatherman |
+| 1532 | 34 | Jumpy Striker |
+| 1533 | 34 | Matos Boiz |
+| 1534 | 34 | April Lane |
+| 1535 | 34 | Bouncy Brickroll |
+| 1536 | 34 | Frisky Pivoty |
+| 1537 | 34 | Peppy Shatterblock |
+| 1538 | 33 | Michelle Boutherpaper Francis |
 | 1539 | 33 | Jateerah Davis |
-| 1540 | 33 | Koz176 |
-| 1541 | 33 | Rose Chassé |
-| 1542 | 33 | Kiyeri |
-| 1543 | 33 | Speedy Glidezone |
-| 1544 | 33 | Shay Simmons |
-| 1545 | 33 | Brianna Floyd |
-| 1546 | 33 | Silly Matchbuilder |
-| 1547 | 33 | Michelle Boutherpaper Francis |
-| 1548 | 33 | Flash97 |
+| 1540 | 33 | Kim Ratcliff Leatherman |
+| 1541 | 33 | Speedy Glidezone |
+| 1542 | 33 | Shay Simmons |
+| 1543 | 33 | Brianna Floyd |
+| 1544 | 33 | Flash97 |
+| 1545 | 33 | Silly Matchbuilder |
+| 1546 | 33 | Kiyeri |
+| 1547 | 33 | Rose Chassé |
+| 1548 | 33 | Koz176 |
 | 1549 | 33 | MeatSweats |
-| 1550 | 32 | Beth Ingham |
-| 1551 | 32 | LadiGurl |
-| 1552 | 32 | Stephanie Scott |
-| 1553 | 32 | Jädaa Laa'Destïnyy |
-| 1554 | 32 | Sylvia Holst |
-| 1555 | 32 | Tiffany Ali Shaw |
-| 1556 | 32 | Van Cunning |
-| 1557 | 32 | Kimberly Haynes |
-| 1558 | 32 | Brownie |
-| 1559 | 31 | Edward Hickmon |
-| 1560 | 31 | Dapper Balancefit |
-| 1561 | 31 | Groovy Gridzone |
-| 1562 | 31 | EchoQuirky Blockclear |
-| 1563 | 31 | Chirpy Glidezone |
-| 1564 | 31 | Taimir Colón |
-| 1565 | 31 | Charlene Marshall |
-| 1566 | 31 | Jamesha Lawrence |
-| 1567 | 30 | Jeanne Bitner |
-| 1568 | 30 | Dee |
-| 1569 | 30 | Myca Cooper |
-| 1570 | 30 | Damien Mathews |
-| 1571 | 30 | Lavender |
-| 1572 | 30 | Anthony Jackson |
-| 1573 | 30 | Tipsy Tilt |
-| 1574 | 30 | Spicy Builderfit |
-| 1575 | 30 | Jessica Corey |
-| 1576 | 30 | Cucumber |
-| 1577 | 30 | Cheryl Parraway |
-| 1578 | 30 | Edward Hackett |
-| 1579 | 30 | Chavez James |
-| 1580 | 30 | Jamie Mclean |
-| 1581 | 30 | Tee $ |
-| 1582 | 29 | Dave Breaker |
-| 1583 | 29 | Elizabeth Ragland |
-| 1584 | 29 | Chris Bell |
-| 1585 | 29 | Joycina Newsome |
-| 1586 | 29 | BADBOY658 |
-| 1587 | 29 | Twisty Tilebuilder |
-| 1588 | 29 | Crafty |
-| 1589 | 29 | Virginia Beilen |
-| 1590 | 29 | Keia Price |
-| 1591 | 29 | Carolyn Delphie |
-| 1592 | 29 | Everett Semmions |
-| 1593 | 29 | Christian Whittaker |
-| 1594 | 29 | E Dubb$ |
-| 1595 | 29 | Epic Wipepiece |
-| 1596 | 28 | Sandra Buller |
+| 1550 | 32 | Van Cunning |
+| 1551 | 32 | Beth Ingham |
+| 1552 | 32 | Kimberly Haynes |
+| 1553 | 32 | LadiGurl |
+| 1554 | 32 | Stephanie Scott |
+| 1555 | 32 | Brownie |
+| 1556 | 32 | Tiffany Ali Shaw |
+| 1557 | 32 | Sylvia Holst |
+| 1558 | 32 | Jädaa Laa'Destïnyy |
+| 1559 | 31 | Charlene Marshall |
+| 1560 | 31 | Jamesha Lawrence |
+| 1561 | 31 | Taimir Colón |
+| 1562 | 31 | Chirpy Glidezone |
+| 1563 | 31 | EchoQuirky Blockclear |
+| 1564 | 31 | Groovy Gridzone |
+| 1565 | 31 | Dapper Balancefit |
+| 1566 | 31 | Edward Hickmon |
+| 1567 | 30 | Damien Mathews |
+| 1568 | 30 | Sandra Buller |
+| 1569 | 30 | Dee |
+| 1570 | 30 | Jeanne Bitner |
+| 1571 | 30 | Myca Cooper |
+| 1572 | 30 | Lavender |
+| 1573 | 30 | Anthony Jackson |
+| 1574 | 30 | Tipsy Tilt |
+| 1575 | 30 | Spicy Builderfit |
+| 1576 | 30 | Jessica Corey |
+| 1577 | 30 | Cucumber |
+| 1578 | 30 | Cheryl Parraway |
+| 1579 | 30 | Edward Hackett |
+| 1580 | 30 | Chavez James |
+| 1581 | 30 | Jamie Mclean |
+| 1582 | 30 | Tee $ |
+| 1583 | 29 | Virginia Beilen |
+| 1584 | 29 | E Dubb$ |
+| 1585 | 29 | Epic Wipepiece |
+| 1586 | 29 | Christian Whittaker |
+| 1587 | 29 | Everett Semmions |
+| 1588 | 29 | Carolyn Delphie |
+| 1589 | 29 | Keia Price |
+| 1590 | 29 | Crafty |
+| 1591 | 29 | Dave Breaker |
+| 1592 | 29 | BADBOY658 |
+| 1593 | 29 | Joycina Newsome |
+| 1594 | 29 | Twisty Tilebuilder |
+| 1595 | 29 | Chris Bell |
+| 1596 | 29 | Elizabeth Ragland |
 | 1597 | 28 | kiki |
 | 1598 | 28 | David Rankin |
 | 1599 | 28 | Michelle Dollah |

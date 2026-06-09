@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 09:30:21 UTC
+# Standings for team2 as of 2026-06-09 09:30:44 UTC
 
 **Total Participants:** 2453
 
@@ -253,19 +253,19 @@
 | 245 | 564 | Chipper Stackbuilder |
 | 246 | 559 | Pam Bauder Ludwig |
 | 247 | 559 | Mom |
-| 248 | 555 | H |
-| 249 | 555 | Twisty Buildgrid |
-| 250 | 554 | Nancy Schwartz Gusman-Oliver |
-| 251 | 554 | Sabrina Hardrick |
-| 252 | 553 | Rosalie Call Kehlenbeck |
-| 253 | 553 | Kathy Strickland |
-| 254 | 553 | Thomas Tyrone |
-| 255 | 552 | Ratchet |
-| 256 | 552 | Amie Marks |
-| 257 | 550 | Gabrielle Wilson |
-| 258 | 550 | DomDomsNana |
-| 259 | 550 | Jess |
-| 260 | 547 | Jenny |
+| 248 | 556 | Jenny |
+| 249 | 555 | H |
+| 250 | 555 | Twisty Buildgrid |
+| 251 | 554 | Nancy Schwartz Gusman-Oliver |
+| 252 | 554 | Sabrina Hardrick |
+| 253 | 553 | Rosalie Call Kehlenbeck |
+| 254 | 553 | Kathy Strickland |
+| 255 | 553 | Thomas Tyrone |
+| 256 | 552 | Ratchet |
+| 257 | 552 | Amie Marks |
+| 258 | 550 | Gabrielle Wilson |
+| 259 | 550 | DomDomsNana |
+| 260 | 550 | Jess |
 | 261 | 547 | Iesha Cupil |
 | 262 | 544 | Starr Collins |
 | 263 | 543 | Alicia Ellenburg |
@@ -411,17 +411,17 @@
 | 403 | 343 | Duke Morley |
 | 404 | 343 | Curly Windbreaker |
 | 405 | 343 | Paula Haskins |
-| 406 | 341 | Elizabeth Henry |
-| 407 | 341 | Kelly Vedder |
-| 408 | 341 | Jennifer Lalk |
-| 409 | 341 | Bengy Lead |
-| 410 | 341 | Amy Nicole McCanne |
+| 406 | 341 | Kelly Vedder |
+| 407 | 341 | Jennifer Lalk |
+| 408 | 341 | Bengy Lead |
+| 409 | 341 | Amy Nicole McCanne |
+| 410 | 341 | Elizabeth Henry |
 | 411 | 341 | Stephanie |
 | 412 | 340 | Tony Medina |
 | 413 | 340 | LittleHippoEars |
 | 414 | 339 | Wacky Stack |
-| 415 | 337 | Harper |
-| 416 | 337 | Nathan Walker |
+| 415 | 337 | Nathan Walker |
+| 416 | 337 | Harper |
 | 417 | 336 | Symmy Norton |
 | 418 | 336 | Karly Moore |
 | 419 | 336 | Kathleen Keogh Van Schoyck |
@@ -435,43 +435,43 @@
 | 427 | 325 | Snappy Combo |
 | 428 | 324 | Kathryn |
 | 429 | 324 | andee |
-| 430 | 323 | Jerry L Morales |
-| 431 | 323 | Kim Hunt |
+| 430 | 323 | Kim Hunt |
+| 431 | 323 | Jerry L Morales |
 | 432 | 322 | RaeRae |
 | 433 | 321 | Wendy Spoor Hof |
 | 434 | 320 | Flashy Basegrid |
-| 435 | 320 | MUMBLES |
-| 436 | 320 | Partin |
-| 437 | 319 | Sarah Grundisch |
-| 438 | 319 | Teresa Mandich |
-| 439 | 318 | Jill Goff |
+| 435 | 320 | Partin |
+| 436 | 320 | MUMBLES |
+| 437 | 319 | Teresa Mandich |
+| 438 | 319 | Sarah Grundisch |
+| 439 | 318 | Jennifer McCloskey Launder |
 | 440 | 318 | Margie Ann Naffziger |
-| 441 | 317 | Danielle Lyons |
-| 442 | 316 | Saucy Wrecker |
-| 443 | 315 | KazzyKay |
-| 444 | 314 | Victoria Pale |
-| 445 | 314 | Hector |
-| 446 | 314 | Aurora June Brock |
-| 447 | 313 | Dad |
-| 448 | 312 | Patria Osuoha |
-| 449 | 312 | Sam |
-| 450 | 311 | Brittany Mathis |
-| 451 | 310 | Hannah Meadows Hammond |
-| 452 | 310 | Melmel |
-| 453 | 310 | Zappy Liney |
-| 454 | 309 | Elliott Mikila |
+| 441 | 318 | Jill Goff |
+| 442 | 317 | Danielle Lyons |
+| 443 | 316 | Saucy Wrecker |
+| 444 | 315 | KazzyKay |
+| 445 | 314 | Victoria Pale |
+| 446 | 314 | Hector |
+| 447 | 314 | Aurora June Brock |
+| 448 | 313 | Dad |
+| 449 | 312 | Patria Osuoha |
+| 450 | 312 | Sam |
+| 451 | 311 | Brittany Mathis |
+| 452 | 310 | Hannah Meadows Hammond |
+| 453 | 310 | Melmel |
+| 454 | 310 | Zappy Liney |
 | 455 | 309 | Carolyn McNaughton |
 | 456 | 309 | Martha Lynn Wiggins |
-| 457 | 309 | Robin Lamb |
-| 458 | 308 | Jennifer McCloskey Launder |
+| 457 | 309 | Elliott Mikila |
+| 458 | 309 | Robin Lamb |
 | 459 | 306 | Spunky Linkblock |
-| 460 | 305 | Liseth Vasquez |
-| 461 | 305 | PaiBri |
-| 462 | 304 | Laura Larsen |
-| 463 | 304 | Leticia Tillman |
+| 460 | 305 | PaiBri |
+| 461 | 305 | Liseth Vasquez |
+| 462 | 304 | Leticia Tillman |
+| 463 | 304 | Laura Larsen |
 | 464 | 304 | Brandi Christensen-Henley |
-| 465 | 303 | Loopy Tower |
-| 466 | 303 | Ashley Voelz |
+| 465 | 303 | Ashley Voelz |
+| 466 | 303 | Loopy Tower |
 | 467 | 301 | Jeff Pottgether |
 | 468 | 300 | Starvinmarvin |
 | 469 | 300 | Happy |
@@ -822,18 +822,18 @@
 | 814 | 168 | Melissa Aycock |
 | 815 | 168 | Rachel |
 | 816 | 167 | Alisha Shelton |
-| 817 | 167 | Pickle |
-| 818 | 167 | Cara Rivera |
-| 819 | 167 | Brandy Westfall-panchari |
-| 820 | 167 | Evelyn Olive Kalmbach |
-| 821 | 166 | Jolly Twisterfit |
-| 822 | 166 | Kelly |
-| 823 | 166 | Carl Mccoy |
-| 824 | 166 | Jackelyn Ford |
-| 825 | 166 | LyndaLou |
-| 826 | 166 | Ashlee Johnson |
-| 827 | 165 | Twisty Blockmatch |
-| 828 | 165 | Hyper Cascade |
+| 817 | 167 | Hyper Cascade |
+| 818 | 167 | Pickle |
+| 819 | 167 | Cara Rivera |
+| 820 | 167 | Brandy Westfall-panchari |
+| 821 | 167 | Evelyn Olive Kalmbach |
+| 822 | 166 | Jolly Twisterfit |
+| 823 | 166 | Kelly |
+| 824 | 166 | Carl Mccoy |
+| 825 | 166 | Jackelyn Ford |
+| 826 | 166 | LyndaLou |
+| 827 | 166 | Ashlee Johnson |
+| 828 | 165 | Twisty Blockmatch |
 | 829 | 165 | LadyDeath |
 | 830 | 165 | Black Sheep |
 | 831 | 165 | April Elaine Messenger |
