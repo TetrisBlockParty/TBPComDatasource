@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:26:45 UTC
+# Standings for team2 as of 2026-06-09 08:27:21 UTC
 
 **Total Participants:** 2445
 
@@ -487,12 +487,12 @@
 | 479 | 292 | Raine |
 | 480 | 292 | Ssirkus |
 | 481 | 292 | Brandi Vandevanter-Duke |
-| 482 | 291 | Josh Vietz |
+| 482 | 292 | Mrs biotch |
 | 483 | 291 | Tara Flood |
-| 484 | 291 | Mrs biotch |
-| 485 | 290 | Alyssa Malay |
-| 486 | 290 | Mandy Van Laningham Bishop |
-| 487 | 290 | Nichole Wilson |
+| 484 | 291 | Josh Vietz |
+| 485 | 290 | Mandy Van Laningham Bishop |
+| 486 | 290 | Nichole Wilson |
+| 487 | 290 | Alyssa Malay |
 | 488 | 289 | Layla Petroff |
 | 489 | 289 | Analee Nicole Jones |
 | 490 | 288 | Peter Fogg |

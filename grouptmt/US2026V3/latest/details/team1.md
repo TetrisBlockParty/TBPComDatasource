@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:26:45 UTC
+# Standings for team1 as of 2026-06-09 08:27:21 UTC
 
 **Total Participants:** 2018
 
@@ -217,21 +217,21 @@
 | 209 | 527 | Ebony |
 | 210 | 527 | Tamara N Lee |
 | 211 | 525 | Tishauna Virgo |
-| 212 | 523 | DellaLucretia Thomas |
-| 213 | 523 | Christopher Dreamsareality McEachin |
-| 214 | 520 | Dulo |
-| 215 | 520 | Spicy Risepiece |
-| 216 | 519 | Slinky Party |
-| 217 | 515 | David Fuentes |
-| 218 | 511 | Dizzy Dropper |
-| 219 | 507 | pooh |
-| 220 | 506 | Telisha Mims |
-| 221 | 506 | Tasha Jones |
-| 222 | 506 | Marie Wilson |
-| 223 | 501 | Joey Albright |
-| 224 | 498 | Julian Dickens Jr. |
-| 225 | 496 | Andre Sanon |
-| 226 | 494 | Antonia Wyche |
+| 212 | 524 | Antonia Wyche |
+| 213 | 523 | DellaLucretia Thomas |
+| 214 | 523 | Christopher Dreamsareality McEachin |
+| 215 | 520 | Dulo |
+| 216 | 520 | Spicy Risepiece |
+| 217 | 519 | Slinky Party |
+| 218 | 515 | David Fuentes |
+| 219 | 511 | Dizzy Dropper |
+| 220 | 507 | pooh |
+| 221 | 506 | Telisha Mims |
+| 222 | 506 | Tasha Jones |
+| 223 | 506 | Marie Wilson |
+| 224 | 501 | Joey Albright |
+| 225 | 498 | Julian Dickens Jr. |
+| 226 | 496 | Andre Sanon |
 | 227 | 491 | Mic Balew |
 | 228 | 490 | Lashawn Wallace |
 | 229 | 487 | GrkGdess |
@@ -799,21 +799,21 @@
 | 791 | 136 | Christopher Shaw-Black |
 | 792 | 136 | Rissa Rozay |
 | 793 | 136 | Chereese Harris |
-| 794 | 135 | Mellie Mel |
-| 795 | 135 | Laysa Nunez |
-| 796 | 135 | Paul Pendley |
-| 797 | 135 | Chanel White |
-| 798 | 135 | Saucy Tile |
+| 794 | 135 | Saucy Tile |
+| 795 | 135 | Mellie Mel |
+| 796 | 135 | Laysa Nunez |
+| 797 | 135 | Paul Pendley |
+| 798 | 135 | Chanel White |
 | 799 | 134 | Bouncy Glide |
 | 800 | 134 | Chris Nelson |
-| 801 | 134 | Laurie Napper |
-| 802 | 133 | Derald Miller |
-| 803 | 132 | Desi Guerra |
-| 804 | 132 | Carla |
-| 805 | 132 | TieMs BHughez |
-| 806 | 131 | Koreen Johnson-Woolford |
-| 807 | 131 | Kortney Adams |
-| 808 | 131 | Earl Williams |
+| 801 | 134 | Earl Williams |
+| 802 | 134 | Laurie Napper |
+| 803 | 133 | Derald Miller |
+| 804 | 132 | Desi Guerra |
+| 805 | 132 | Carla |
+| 806 | 132 | TieMs BHughez |
+| 807 | 131 | Koreen Johnson-Woolford |
+| 808 | 131 | Kortney Adams |
 | 809 | 131 | Cynthia Cruell |
 | 810 | 131 | Locke Mahal LD |
 | 811 | 130 | Jessica Davis |
