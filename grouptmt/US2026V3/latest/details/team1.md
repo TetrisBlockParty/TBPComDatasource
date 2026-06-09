@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:50:45 UTC
+# Standings for team1 as of 2026-06-09 12:51:23 UTC
 
 **Total Participants:** 2043
 
@@ -476,8 +476,8 @@
 | 468 | 254 | Glitzy Patternline |
 | 469 | 254 | Asha Langford |
 | 470 | 253 | Abigail Newman Sweet |
-| 471 | 253 | Tasha |
-| 472 | 251 | Kristie |
+| 471 | 253 | Kristie |
+| 472 | 253 | Tasha |
 | 473 | 249 | Nate Myers |
 | 474 | 249 | Fina McKinnis |
 | 475 | 248 | Melissa Olvera |
@@ -904,35 +904,35 @@
 | 896 | 120 | Dianne Clagon |
 | 897 | 119 | Danny Talbot |
 | 898 | 119 | Sylvia Offically A Mcgowan |
-| 899 | 119 | Albert McKnight |
-| 900 | 119 | Octavia Whitmire |
-| 901 | 119 | Hyy |
-| 902 | 119 | Analesia Taylor |
-| 903 | 118 | Jjhandsome |
-| 904 | 118 | Shanna Green Williams |
-| 905 | 118 | Raymond Boosie Freeman |
-| 906 | 118 | Hasty Pivoty |
-| 907 | 118 | Dirty Deeds |
-| 908 | 118 | Gabriela Hernandez |
-| 909 | 118 | Felicia Yahuah Johnson |
-| 910 | 118 | Maria Baez Medina |
-| 911 | 117 | Andrea Jackson |
-| 912 | 117 | Shanjerrica Taylor Rosell |
-| 913 | 117 | DirtiestofMikes |
-| 914 | 117 | Bruce Paléncia |
-| 915 | 117 | Spicy Tiler |
-| 916 | 117 | Jordan Deon Elery |
-| 917 | 117 | Cheery Clusterbuilder |
+| 899 | 119 | Octavia Whitmire |
+| 900 | 119 | Hyy |
+| 901 | 119 | Analesia Taylor |
+| 902 | 119 | Albert McKnight |
+| 903 | 118 | Felicia Yahuah Johnson |
+| 904 | 118 | Jjhandsome |
+| 905 | 118 | Hasty Pivoty |
+| 906 | 118 | Maria Baez Medina |
+| 907 | 118 | Gabriela Hernandez |
+| 908 | 118 | Kidgib5 |
+| 909 | 118 | Dirty Deeds |
+| 910 | 118 | Raymond Boosie Freeman |
+| 911 | 118 | Shanna Green Williams |
+| 912 | 117 | Jordan Deon Elery |
+| 913 | 117 | Spicy Tiler |
+| 914 | 117 | Cheery Clusterbuilder |
+| 915 | 117 | DirtiestofMikes |
+| 916 | 117 | Bruce Paléncia |
+| 917 | 117 | Shanjerrica Taylor Rosell |
 | 918 | 117 | Kayel Good |
-| 919 | 116 | Alonzo Kirkland |
-| 920 | 116 | Tray Tolliver |
-| 921 | 115 | Tamyka E Williams |
+| 919 | 117 | Andrea Jackson |
+| 920 | 116 | Alonzo Kirkland |
+| 921 | 116 | Tray Tolliver |
 | 922 | 115 | Vontesha Kidd |
-| 923 | 115 | WOOLFF |
-| 924 | 115 | Kimberly Noble |
-| 925 | 115 | Mario Meliodas |
-| 926 | 115 | Crtjstr |
-| 927 | 115 | Kidgib5 |
+| 923 | 115 | Tamyka E Williams |
+| 924 | 115 | WOOLFF |
+| 925 | 115 | Kimberly Noble |
+| 926 | 115 | Mario Meliodas |
+| 927 | 115 | Crtjstr |
 | 928 | 115 | Jennifer Moore |
 | 929 | 115 | Shiny Lift |
 | 930 | 115 | Kathleen Boyles |
