@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:06:44 UTC
+# Standings for team1 as of 2026-06-09 15:07:21 UTC
 
 **Total Participants:** 2063
 
@@ -57,7 +57,7 @@
 | 49 | 2060 | Cherry Rose |
 | 50 | 2050 | Therealdywoune Peay |
 | 51 | 1993 | JoJo |
-| 52 | 1968 | Jennifer To |
+| 52 | 1983 | Jennifer To |
 | 53 | 1931 | Ceilo Marie |
 | 54 | 1868 | Chris Russell |
 | 55 | 1854 | Robyn Caldwell |
@@ -414,9 +414,9 @@
 | 406 | 301 | Alivia Dove |
 | 407 | 301 | Earl Williams |
 | 408 | 300 | Sara Meri |
-| 409 | 300 | Ketrell Bailey |
-| 410 | 298 | McKayla Owens |
-| 411 | 297 | Melissa D. M. Hornsby |
+| 409 | 300 | Melissa D. M. Hornsby |
+| 410 | 300 | Ketrell Bailey |
+| 411 | 298 | McKayla Owens |
 | 412 | 296 | Char |
 | 413 | 295 | Maribel Vasquez |
 | 414 | 295 | Derrius SeriousLee Burks |
@@ -860,18 +860,18 @@
 | 852 | 132 | Desi Guerra |
 | 853 | 132 | Stronger Wiser Better |
 | 854 | 131 | mya |
-| 855 | 131 | Kortney Adams |
-| 856 | 130 | Sarah Guarino |
-| 857 | 130 | Jessica Davis |
-| 858 | 130 | Terrance Tindall |
-| 859 | 130 | Tito Divyn |
-| 860 | 130 | Anthony Collins |
-| 861 | 130 | Gerold Folk Haddock |
-| 862 | 129 | Felicia Dungey |
+| 855 | 131 | JesusSaves 😇 |
+| 856 | 131 | Kortney Adams |
+| 857 | 130 | Sarah Guarino |
+| 858 | 130 | Jessica Davis |
+| 859 | 130 | Terrance Tindall |
+| 860 | 130 | Tito Divyn |
+| 861 | 130 | Anthony Collins |
+| 862 | 130 | Gerold Folk Haddock |
 | 863 | 129 | Chino Baby |
-| 864 | 129 | Ernie Waters |
-| 865 | 129 | Desiree Ryder |
-| 866 | 129 | JesusSaves 😇 |
+| 864 | 129 | Felicia Dungey |
+| 865 | 129 | Ernie Waters |
+| 866 | 129 | Desiree Ryder |
 | 867 | 129 | Mumitt |
 | 868 | 129 | Twisty Dashy |
 | 869 | 128 | Li-Li Ratliff |
@@ -881,28 +881,28 @@
 | 873 | 127 | Pretty Yella |
 | 874 | 127 | Jumpy Gridlock |
 | 875 | 127 | Witty Clear |
-| 876 | 126 | Sally Elizabeth Hopson |
-| 877 | 126 | Shawna Passwater |
-| 878 | 126 | Marc Papa |
+| 876 | 126 | Shawna Passwater |
+| 877 | 126 | Marc Papa |
+| 878 | 126 | Jason Saputo |
 | 879 | 126 | Kahh |
 | 880 | 126 | Latoya Carson |
 | 881 | 126 | Jess |
 | 882 | 126 | Mom3granny2 |
 | 883 | 126 | Elaine Pauley |
 | 884 | 126 | Benjamin Livingston |
-| 885 | 125 | Oaklonboy mike |
-| 886 | 125 | Silly Edgepiece |
-| 887 | 125 | Kàrma Lee |
-| 888 | 124 | Franklin Sotelo |
-| 889 | 124 | Sheesh |
-| 890 | 124 | Sunny Tumbler |
-| 891 | 124 | Willson06 |
-| 892 | 123 | Tia Hazelton |
-| 893 | 123 | Block |
-| 894 | 123 | Esha I'msoproudofmyself Davis |
-| 895 | 123 | Dannie |
-| 896 | 123 | Jackytrain52 |
-| 897 | 123 | Jason Saputo |
+| 885 | 126 | Sally Elizabeth Hopson |
+| 886 | 125 | Oaklonboy mike |
+| 887 | 125 | Silly Edgepiece |
+| 888 | 125 | Kàrma Lee |
+| 889 | 124 | Franklin Sotelo |
+| 890 | 124 | Sheesh |
+| 891 | 124 | Sunny Tumbler |
+| 892 | 124 | Willson06 |
+| 893 | 123 | Tia Hazelton |
+| 894 | 123 | Block |
+| 895 | 123 | Esha I'msoproudofmyself Davis |
+| 896 | 123 | Dannie |
+| 897 | 123 | Jackytrain52 |
 | 898 | 123 | Tanesha Ga'sFinest Corbett |
 | 899 | 122 | Motown Chuck |
 | 900 | 122 | Nick Stowers |
@@ -1049,9 +1049,9 @@
 | 1041 | 99 | Lucille Wilson Davis |
 | 1042 | 98 | Dee Dee |
 | 1043 | 98 | Azeiare Ziare |
-| 1044 | 98 | Wacky Spinfit |
-| 1045 | 98 | Letrishia Andrews |
-| 1046 | 98 | Xrandomx |
+| 1044 | 98 | Xrandomx |
+| 1045 | 98 | Wacky Spinfit |
+| 1046 | 98 | Letrishia Andrews |
 | 1047 | 98 | Cheery T-spin |
 | 1048 | 97 | Quwana Hall |
 | 1049 | 97 | Erica Campbell-Stillings |
@@ -1060,119 +1060,119 @@
 | 1052 | 97 | MikeHunt |
 | 1053 | 97 | Teisha Scott |
 | 1054 | 96 | Lively Strikesnap |
-| 1055 | 96 | Danny M GR |
+| 1055 | 96 | Bohdi |
 | 1056 | 96 | Sonia Binti Mfalme |
 | 1057 | 96 | Margretta Henry |
-| 1058 | 96 | Giggly Shatterline |
-| 1059 | 96 | Boldy Pivoty |
-| 1060 | 96 | Jerome Lewis |
-| 1061 | 96 | Brandi M. Boney |
-| 1062 | 96 | Yazz |
-| 1063 | 96 | Tammy Collins |
-| 1064 | 96 | Just2Play$ |
-| 1065 | 96 | Lazy Chiseler |
-| 1066 | 95 | Spunky Strikerbuilder |
-| 1067 | 95 | Abdul Malik |
-| 1068 | 95 | Teresa Bean |
-| 1069 | 95 | Big Bovice |
-| 1070 | 94 | Diamond Nicole |
-| 1071 | 94 | Elizabeth Clara |
-| 1072 | 94 | Sha Anderson |
-| 1073 | 94 | Cortrell Foster |
-| 1074 | 93 | Alice Biggs |
-| 1075 | 92 | 1ofaking |
-| 1076 | 91 | Jose Antonio Villot |
-| 1077 | 91 | lady |
-| 1078 | 91 | blockman |
-| 1079 | 91 | kingbrook |
-| 1080 | 91 | Lawanda Conley |
-| 1081 | 91 | David A Alvino |
-| 1082 | 91 | Jason Riley |
-| 1083 | 90 | Fransine Bennett |
-| 1084 | 90 | Antoinette Kidd |
-| 1085 | 90 | Linda Lasha Messenger |
+| 1058 | 96 | Boldy Pivoty |
+| 1059 | 96 | Giggly Shatterline |
+| 1060 | 96 | Danny M GR |
+| 1061 | 96 | Jerome Lewis |
+| 1062 | 96 | Brandi M. Boney |
+| 1063 | 96 | Yazz |
+| 1064 | 96 | Tammy Collins |
+| 1065 | 96 | Just2Play$ |
+| 1066 | 96 | Lazy Chiseler |
+| 1067 | 95 | Spunky Strikerbuilder |
+| 1068 | 95 | Abdul Malik |
+| 1069 | 95 | Teresa Bean |
+| 1070 | 95 | Big Bovice |
+| 1071 | 94 | Diamond Nicole |
+| 1072 | 94 | Elizabeth Clara |
+| 1073 | 94 | Sha Anderson |
+| 1074 | 94 | Cortrell Foster |
+| 1075 | 93 | Alice Biggs |
+| 1076 | 92 | 1ofaking |
+| 1077 | 91 | Jose Antonio Villot |
+| 1078 | 91 | lady |
+| 1079 | 91 | blockman |
+| 1080 | 91 | kingbrook |
+| 1081 | 91 | Lawanda Conley |
+| 1082 | 91 | David A Alvino |
+| 1083 | 91 | Jason Riley |
+| 1084 | 90 | Fransine Bennett |
+| 1085 | 90 | Antoinette Kidd |
 | 1086 | 90 | Vernon Hoyt |
-| 1087 | 90 | Tez Mays |
-| 1088 | 90 | Caitlin Michele |
-| 1089 | 90 | Mikemike Zonethree |
-| 1090 | 90 | AleahKCH |
-| 1091 | 89 | OneBuke FollowMe |
-| 1092 | 89 | Delitra Perkins Hatter |
-| 1093 | 89 | Swanky Glide |
-| 1094 | 89 | Ivery Lee Grays Jr. |
-| 1095 | 89 | Stacey Kesteloot |
-| 1096 | 88 | Brii Michelle Lamb |
+| 1087 | 90 | Linda Lasha Messenger |
+| 1088 | 90 | Tez Mays |
+| 1089 | 90 | Caitlin Michele |
+| 1090 | 90 | Mikemike Zonethree |
+| 1091 | 90 | AleahKCH |
+| 1092 | 89 | Ivery Lee Grays Jr. |
+| 1093 | 89 | Delitra Perkins Hatter |
+| 1094 | 89 | Swanky Glide |
+| 1095 | 89 | OneBuke FollowMe |
+| 1096 | 89 | Stacey Kesteloot |
 | 1097 | 88 | Ayanna James |
-| 1098 | 88 | Cheery Strikerbuilder |
-| 1099 | 88 | Tony P Burke |
-| 1100 | 88 | Phoenix |
-| 1101 | 87 | CauliMac |
-| 1102 | 87 | Bohdi |
-| 1103 | 87 | smash56! |
+| 1098 | 88 | Tony P Burke |
+| 1099 | 88 | Phoenix |
+| 1100 | 88 | Brii Michelle Lamb |
+| 1101 | 88 | Cheery Strikerbuilder |
+| 1102 | 87 | Denise Cunningham-English |
+| 1103 | 87 | Natalie Burroughs |
 | 1104 | 87 | Cj Chimelis |
-| 1105 | 87 | LexiiSamayaa |
-| 1106 | 87 | Denise Cunningham-English |
-| 1107 | 87 | Natalie Burroughs |
-| 1108 | 86 | rummy |
+| 1105 | 87 | smash56! |
+| 1106 | 87 | LexiiSamayaa |
+| 1107 | 87 | CauliMac |
+| 1108 | 86 | Tweet Turner |
 | 1109 | 86 | LaTonya Rivers |
-| 1110 | 86 | Tweet Turner |
-| 1111 | 86 | Noni |
-| 1112 | 86 | Tyler |
-| 1113 | 85 | Bobby Chestefield |
-| 1114 | 85 | nay |
-| 1115 | 85 | Nicole Coko Thomas |
-| 1116 | 85 | Melanin Monroe-Dandridge |
+| 1110 | 86 | Noni |
+| 1111 | 86 | Tyler |
+| 1112 | 86 | rummy |
+| 1113 | 85 | Melanin Monroe-Dandridge |
+| 1114 | 85 | Bobby Chestefield |
+| 1115 | 85 | nay |
+| 1116 | 85 | Nicole Coko Thomas |
 | 1117 | 84 | Dawn Basemore |
 | 1118 | 84 | GiantBehemoth |
 | 1119 | 84 | Sunset Owens |
 | 1120 | 83 | Ahsokadog |
-| 1121 | 83 | Trusi Rusi |
-| 1122 | 83 | Boldy Matchfit |
-| 1123 | 83 | Mamiyoung47 |
-| 1124 | 83 | LaTonya Collier |
-| 1125 | 83 | Blakk Ru-sta |
-| 1126 | 83 | AshMo |
-| 1127 | 83 | John C Sexton |
-| 1128 | 83 | MrsMeadows2019 |
-| 1129 | 83 | Lateef |
-| 1130 | 83 | Fred Caston |
+| 1121 | 83 | Boldy Matchfit |
+| 1122 | 83 | Trusi Rusi |
+| 1123 | 83 | Fred Caston |
+| 1124 | 83 | Mamiyoung47 |
+| 1125 | 83 | LaTonya Collier |
+| 1126 | 83 | Lateef |
+| 1127 | 83 | AshMo |
+| 1128 | 83 | John C Sexton |
+| 1129 | 83 | Blakk Ru-sta |
+| 1130 | 83 | MrsMeadows2019 |
 | 1131 | 82 | April Lane |
-| 1132 | 82 | Anntionette Sotire |
-| 1133 | 82 | Idelia L Brown |
-| 1134 | 82 | Jeaneé Nay |
-| 1135 | 81 | Tonya Thomas |
-| 1136 | 81 | Hannah Hall |
-| 1137 | 81 | Vontii Blades |
-| 1138 | 81 | GracefulOwl808 |
-| 1139 | 81 | Macho Lewis |
-| 1140 | 80 | Chevalier Burley |
-| 1141 | 80 | Rachel Lopez |
-| 1142 | 80 | Smiley Glider |
-| 1143 | 80 | Lady Scorpio |
-| 1144 | 80 | Angela Hill O'Neal |
-| 1145 | 80 | Demi Ovalle |
-| 1146 | 80 | Richard Harper |
-| 1147 | 80 | Michael Gray |
-| 1148 | 80 | Trixie |
-| 1149 | 80 | Ness |
-| 1150 | 80 | Lisa420 |
-| 1151 | 80 | Leslie Ann |
-| 1152 | 80 | Alisha Dawson Crouch |
-| 1153 | 80 | Chill Curvebuilder |
-| 1154 | 80 | Bianca Nawlinsgurl Ferguson |
-| 1155 | 80 | Frothy Zoney |
-| 1156 | 79 | DeShonna Bailey |
+| 1132 | 82 | Idelia L Brown |
+| 1133 | 82 | Jeaneé Nay |
+| 1134 | 82 | Anntionette Sotire |
+| 1135 | 81 | Macho Lewis |
+| 1136 | 81 | Tonya Thomas |
+| 1137 | 81 | Hannah Hall |
+| 1138 | 81 | Vontii Blades |
+| 1139 | 81 | GracefulOwl808 |
+| 1140 | 80 | Michael Gray |
+| 1141 | 80 | Chill Curvebuilder |
+| 1142 | 80 | Bianca Nawlinsgurl Ferguson |
+| 1143 | 80 | Demi Ovalle |
+| 1144 | 80 | Smiley Glider |
+| 1145 | 80 | Trixie |
+| 1146 | 80 | Rachel Lopez |
+| 1147 | 80 | Lady Scorpio |
+| 1148 | 80 | Richard Harper |
+| 1149 | 80 | Alisha Dawson Crouch |
+| 1150 | 80 | Chevalier Burley |
+| 1151 | 80 | Lisa420 |
+| 1152 | 80 | Ness |
+| 1153 | 80 | Leslie Ann |
+| 1154 | 80 | Frothy Zoney |
+| 1155 | 80 | Angela Hill O'Neal |
+| 1156 | 79 | Evette Moreno |
 | 1157 | 79 | Yolanda Sadler |
-| 1158 | 79 | Evette Moreno |
-| 1159 | 79 | PattyPower |
-| 1160 | 78 | Amanda Colwell |
-| 1161 | 78 | Jennifer Rogers |
-| 1162 | 78 | Dennis Ripley |
-| 1163 | 78 | Alicia Lei |
-| 1164 | 78 | Brave Gridmatch |
+| 1158 | 79 | PattyPower |
+| 1159 | 79 | DeShonna Bailey |
+| 1160 | 78 | Alicia Lei |
+| 1161 | 78 | Brave Gridmatch |
+| 1162 | 78 | Jennifer Rogers |
+| 1163 | 78 | Amanda Colwell |
+| 1164 | 78 | Dennis Ripley |
 | 1165 | 77 | Jackie English |
-| 1166 | 77 | Jenni |
-| 1167 | 77 | UnionBoss |
+| 1166 | 77 | UnionBoss |
+| 1167 | 77 | Jenni |
 | 1168 | 77 | Kayd |
 | 1169 | 77 | Clever Wrecker |
 | 1170 | 77 | Tomme Poliwka |

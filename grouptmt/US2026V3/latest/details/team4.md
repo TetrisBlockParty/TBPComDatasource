@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 15:06:44 UTC
+# Standings for team4 as of 2026-06-09 15:07:21 UTC
 
 **Total Participants:** 2121
 
@@ -83,12 +83,12 @@
 | 75 | 1506 | Chris Covington |
 | 76 | 1475 | Charlie Lewis |
 | 77 | 1450 | 2 kool |
-| 78 | 1416 | Giggy Matchpiece |
-| 79 | 1401 | SMV |
-| 80 | 1385 | Jace McCullough |
-| 81 | 1365 | Sweet Stacker |
-| 82 | 1356 | Kelley Roach |
-| 83 | 1348 | JoLinda Dunn |
+| 78 | 1428 | JoLinda Dunn |
+| 79 | 1416 | Giggy Matchpiece |
+| 80 | 1401 | SMV |
+| 81 | 1385 | Jace McCullough |
+| 82 | 1365 | Sweet Stacker |
+| 83 | 1356 | Kelley Roach |
 | 84 | 1343 | squareMel |
 | 85 | 1328 | Shaina Sharp |
 | 86 | 1306 | Lupe Alburquerque |
@@ -194,10 +194,10 @@
 | 186 | 599 | Krysten Danielle Richard |
 | 187 | 598 | Katie Lynn Petit |
 | 188 | 595 | Danielle Mitchell |
-| 189 | 593 | Malik Thompson |
-| 190 | 593 | Anthony Lewis |
-| 191 | 592 | Sarah Berry Stevens |
-| 192 | 591 | Lush Fitblock |
+| 189 | 595 | Lush Fitblock |
+| 190 | 593 | Malik Thompson |
+| 191 | 593 | Anthony Lewis |
+| 192 | 592 | Sarah Berry Stevens |
 | 193 | 587 | Megan Vick |
 | 194 | 583 | Jackie Miller |
 | 195 | 575 | Beth Belanger |
