@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:10:43 UTC
+# Standings for team1 as of 2026-06-09 14:11:21 UTC
 
 **Total Participants:** 2057
 
@@ -293,14 +293,14 @@
 | 285 | 427 | Hailey Hil |
 | 286 | 426 | OhNoZer0 |
 | 287 | 426 | Chasem45 |
-| 288 | 423 | Andrew Jay Vaughn |
-| 289 | 423 | Sheila Burnham |
-| 290 | 423 | Dion Gray |
-| 291 | 420 | Nerdy Climber |
-| 292 | 419 | Dai Bo |
-| 293 | 419 | Johnathan Deese |
-| 294 | 415 | StingerD |
-| 295 | 414 | Calvin Green |
+| 288 | 424 | Calvin Green |
+| 289 | 423 | Andrew Jay Vaughn |
+| 290 | 423 | Sheila Burnham |
+| 291 | 423 | Dion Gray |
+| 292 | 420 | Nerdy Climber |
+| 293 | 419 | Dai Bo |
+| 294 | 419 | Johnathan Deese |
+| 295 | 415 | StingerD |
 | 296 | 413 | Curtis T Cirno |
 | 297 | 410 | Salim Thugger |
 | 298 | 404 | Koi |
