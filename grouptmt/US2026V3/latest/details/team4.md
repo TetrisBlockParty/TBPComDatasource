@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 18:20:44 UTC
+# Standings for team4 as of 2026-06-09 18:21:22 UTC
 
 **Total Participants:** 2155
 
@@ -178,18 +178,18 @@
 | 170 | 685 | Katie Martin |
 | 171 | 684 | Caitlyn Wang |
 | 172 | 683 | zoes |
-| 173 | 675 | Cinta Marie |
-| 174 | 668 | Shannon Rivera |
-| 175 | 664 | Daryn Elliott |
-| 176 | 662 | Danielle Mitchell |
-| 177 | 659 | Devinlee Brown |
-| 178 | 656 | Kimberly Civinski |
-| 179 | 651 | Jewelz |
-| 180 | 651 | Dayna Arthurs |
-| 181 | 648 | Bonnie Powell |
-| 182 | 647 | Laguya |
-| 183 | 640 | CIRAZYPNOY |
-| 184 | 635 | Thomasena Eady Reid |
+| 173 | 675 | Thomasena Eady Reid |
+| 174 | 675 | Cinta Marie |
+| 175 | 668 | Shannon Rivera |
+| 176 | 664 | Daryn Elliott |
+| 177 | 662 | Danielle Mitchell |
+| 178 | 659 | Devinlee Brown |
+| 179 | 656 | Kimberly Civinski |
+| 180 | 651 | Jewelz |
+| 181 | 651 | Dayna Arthurs |
+| 182 | 648 | Bonnie Powell |
+| 183 | 647 | Laguya |
+| 184 | 640 | CIRAZYPNOY |
 | 185 | 631 | Megan Vick |
 | 186 | 620 | Wanda Simmons |
 | 187 | 620 | Saucy Wipepiece |
@@ -2084,28 +2084,28 @@
 | 2076 | 9 | Trippy Mels |
 | 2077 | 9 | Terry Peach |
 | 2078 | 9 | LOLO |
-| 2079 | 9 | estefi |
-| 2080 | 9 | Monica Bell |
-| 2081 | 9 | Micole Norris |
-| 2082 | 9 | Marty Carver |
-| 2083 | 8 | Tony Tenas |
-| 2084 | 8 | LaTesha D Williams |
-| 2085 | 8 | Floyda Lynch |
-| 2086 | 8 | Jen Molepske |
-| 2087 | 8 | corrupt corpse |
-| 2088 | 8 | Shania Richmond |
-| 2089 | 8 | Anaya |
-| 2090 | 8 | John Leslie |
-| 2091 | 8 | Glitzy Shuffler |
-| 2092 | 8 | Amirah Safieddine |
-| 2093 | 8 | Ivory Glenn |
+| 2079 | 9 | Desiree Haines-Marshall |
+| 2080 | 9 | estefi |
+| 2081 | 9 | Monica Bell |
+| 2082 | 9 | Micole Norris |
+| 2083 | 9 | Marty Carver |
+| 2084 | 8 | Tony Tenas |
+| 2085 | 8 | LaTesha D Williams |
+| 2086 | 8 | Floyda Lynch |
+| 2087 | 8 | Jen Molepske |
+| 2088 | 8 | corrupt corpse |
+| 2089 | 8 | Shania Richmond |
+| 2090 | 8 | Anaya |
+| 2091 | 8 | John Leslie |
+| 2092 | 8 | Glitzy Shuffler |
+| 2093 | 8 | Amirah Safieddine |
 | 2094 | 8 | Hasty Glidezone |
-| 2095 | 8 | MissMess |
-| 2096 | 8 | Box smash’em |
-| 2097 | 8 | Phoebe Tracy |
-| 2098 | 8 | Lewis Potts |
-| 2099 | 8 | Desiree Haines-Marshall |
-| 2100 | 8 | Nums |
+| 2095 | 8 | Nums |
+| 2096 | 8 | MissMess |
+| 2097 | 8 | Box smash’em |
+| 2098 | 8 | Phoebe Tracy |
+| 2099 | 8 | Ivory Glenn |
+| 2100 | 8 | Lewis Potts |
 | 2101 | 8 | Gerald Marx |
 | 2102 | 8 | Virgo27 |
 | 2103 | 7 | Komet Tyler |
