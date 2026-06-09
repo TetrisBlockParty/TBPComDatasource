@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:00:45 UTC
+# Standings for team1 as of 2026-06-09 05:01:21 UTC
 
 **Total Participants:** 1987
 
@@ -80,7 +80,7 @@
 | 72 | 1313 | Ashley Espeut |
 | 73 | 1295 | MamaBear |
 | 74 | 1288 | Dawn L Washington-Feuquay |
-| 75 | 1261 | Bre Maugh |
+| 75 | 1281 | Bre Maugh |
 | 76 | 1259 | Holly Jolly |
 | 77 | 1258 | Frisky Fallmatch |
 | 78 | 1253 | LeeLee08 |
@@ -288,7 +288,7 @@
 | 280 | 396 | Joana Thompson |
 | 281 | 394 | Christopher Dreamsareality McEachin |
 | 282 | 394 | Queenie Perry |
-| 283 | 390 | Jhonny Maii |
+| 283 | 393 | Jhonny Maii |
 | 284 | 390 | Devin West |
 | 285 | 387 | StingerD |
 | 286 | 386 | Tremaine Hiler |
@@ -498,60 +498,60 @@
 | 490 | 220 | De'Nell Edwards |
 | 491 | 220 | Tonia Ramos |
 | 492 | 220 | Rufus |
-| 493 | 219 | Ciera Peace |
-| 494 | 219 | Bambi Johnson |
+| 493 | 219 | Bambi Johnson |
+| 494 | 219 | Ciera Peace |
 | 495 | 218 | Mommy Frank |
 | 496 | 218 | Teresa Yanira Cepeda |
-| 497 | 217 | Marlainia Boyd |
+| 497 | 217 | Louise Parker |
 | 498 | 217 | Travis Davison |
-| 499 | 217 | Louise Parker |
+| 499 | 217 | Marlainia Boyd |
 | 500 | 216 | Londa Londa |
 | 501 | 216 | Aaron Hartmann |
-| 502 | 215 | Tosha Michelle |
-| 503 | 215 | C Lo Green |
-| 504 | 215 | Brenda Malachi-butler |
-| 505 | 215 | James Bryant II |
-| 506 | 215 | Tracy Feyler |
-| 507 | 215 | Yashica Smith |
-| 508 | 215 | Perky Balancer |
-| 509 | 214 | Stephen Providenti |
-| 510 | 214 | Nickeya Phillips |
-| 511 | 213 | Lazy Tiltpiece |
-| 512 | 213 | EvaLynn NeCole |
-| 513 | 213 | Valerie Alexander |
-| 514 | 213 | crumb bumc |
-| 515 | 212 | Simply-Beautiful007 |
-| 516 | 212 | PSD |
-| 517 | 212 | Daniel Santana |
-| 518 | 211 | Skippy |
-| 519 | 211 | Lynnette WheelerBushnell |
+| 502 | 215 | BonnieB |
+| 503 | 215 | Yashica Smith |
+| 504 | 215 | C Lo Green |
+| 505 | 215 | Brenda Malachi-butler |
+| 506 | 215 | James Bryant II |
+| 507 | 215 | Tracy Feyler |
+| 508 | 215 | Tosha Michelle |
+| 509 | 215 | Perky Balancer |
+| 510 | 214 | Stephen Providenti |
+| 511 | 214 | Nickeya Phillips |
+| 512 | 213 | crumb bumc |
+| 513 | 213 | Lazy Tiltpiece |
+| 514 | 213 | EvaLynn NeCole |
+| 515 | 213 | Valerie Alexander |
+| 516 | 212 | Jolly Tilefall |
+| 517 | 212 | Simply-Beautiful007 |
+| 518 | 212 | Daniel Santana |
+| 519 | 212 | PSD |
 | 520 | 211 | Breezy Catcher |
-| 521 | 211 | BonnieB |
-| 522 | 210 | Kate Hancock Malicek |
+| 521 | 211 | Lynnette WheelerBushnell |
+| 522 | 211 | Skippy |
 | 523 | 210 | Abby |
-| 524 | 210 | Mahagony Small |
-| 525 | 209 | $hort Dog |
-| 526 | 209 | Phillip Vasquez |
-| 527 | 208 | Juicy |
-| 528 | 208 | Soubletzy |
+| 524 | 210 | Kate Hancock Malicek |
+| 525 | 210 | Mahagony Small |
+| 526 | 209 | $hort Dog |
+| 527 | 209 | Phillip Vasquez |
+| 528 | 208 | Juicy |
 | 529 | 208 | BabyCakes |
-| 530 | 207 | Dede Tate |
-| 531 | 207 | Courtney Cicoria |
-| 532 | 207 | Candy Lee |
-| 533 | 207 | Kristie |
-| 534 | 207 | Mary Phillippi Blanton |
-| 535 | 206 | Jack Vlasak |
-| 536 | 206 | Shelly Everette |
-| 537 | 206 | Zappy Clearfit |
-| 538 | 205 | Treneil Daffin |
+| 530 | 208 | Soubletzy |
+| 531 | 207 | Dede Tate |
+| 532 | 207 | Courtney Cicoria |
+| 533 | 207 | Candy Lee |
+| 534 | 207 | Kristie |
+| 535 | 207 | Mary Phillippi Blanton |
+| 536 | 206 | Jack Vlasak |
+| 537 | 206 | Shelly Everette |
+| 538 | 206 | Zappy Clearfit |
 | 539 | 205 | Sarah Swietlicki - Lopez |
-| 540 | 205 | Sarah Barnum |
-| 541 | 205 | Polite Granny |
-| 542 | 204 | ChunLi |
-| 543 | 204 | Rosalind Chatman |
-| 544 | 204 | Cynda Cyn |
-| 545 | 203 | Poyre Shelton |
-| 546 | 203 | Jolly Tilefall |
+| 540 | 205 | Treneil Daffin |
+| 541 | 205 | Sarah Barnum |
+| 542 | 205 | Polite Granny |
+| 543 | 204 | ChunLi |
+| 544 | 204 | Rosalind Chatman |
+| 545 | 204 | Cynda Cyn |
+| 546 | 203 | Poyre Shelton |
 | 547 | 202 | Messy Live |
 | 548 | 202 | Hyper Blocky |
 | 549 | 202 | Jana Cheek |
@@ -1557,28 +1557,28 @@
 | 1549 | 30 | Cheryl Parraway |
 | 1550 | 30 | Jeanne Bitner |
 | 1551 | 30 | Tipsy Tilt |
-| 1552 | 30 | Jessica Corey |
-| 1553 | 30 | Lavender |
-| 1554 | 30 | Edward Hackett |
+| 1552 | 30 | Lavender |
+| 1553 | 30 | Edward Hackett |
+| 1554 | 30 | Jessica Corey |
 | 1555 | 29 | Everett Semmions |
 | 1556 | 29 | Crafty |
 | 1557 | 29 | Elizabeth Ragland |
 | 1558 | 29 | E Dubb$ |
-| 1559 | 29 | Twisty Tilebuilder |
-| 1560 | 29 | Christian Whittaker |
-| 1561 | 29 | Carolyn Delphie |
-| 1562 | 29 | Joycina Newsome |
-| 1563 | 29 | Keia Price |
-| 1564 | 29 | Chris Bell |
-| 1565 | 29 | Epic Wipepiece |
-| 1566 | 28 | Dee |
-| 1567 | 28 | David Rankin |
-| 1568 | 28 | Shutyoface Barber |
-| 1569 | 28 | Kenya Richardson |
-| 1570 | 28 | kiki |
+| 1559 | 29 | Dave Breaker |
+| 1560 | 29 | Twisty Tilebuilder |
+| 1561 | 29 | Christian Whittaker |
+| 1562 | 29 | Carolyn Delphie |
+| 1563 | 29 | Joycina Newsome |
+| 1564 | 29 | Keia Price |
+| 1565 | 29 | Chris Bell |
+| 1566 | 29 | Epic Wipepiece |
+| 1567 | 28 | Dee |
+| 1568 | 28 | David Rankin |
+| 1569 | 28 | Shutyoface Barber |
+| 1570 | 28 | Kenya Richardson |
 | 1571 | 28 | Iván Cedeño |
-| 1572 | 28 | Leon Matthew Williams |
-| 1573 | 28 | Dave Breaker |
+| 1572 | 28 | kiki |
+| 1573 | 28 | Leon Matthew Williams |
 | 1574 | 28 | Michelle Dollah |
 | 1575 | 28 | Zany Edgepiece |
 | 1576 | 28 | Raevon Bailey |
