@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:50:43 UTC
+# Standings for team1 as of 2026-06-09 05:51:21 UTC
 
 **Total Participants:** 1994
 
@@ -146,8 +146,8 @@
 | 138 | 747 | Carolynne Walker-Bell |
 | 139 | 730 | ing410 |
 | 140 | 720 | Felicia Williams |
-| 141 | 716 | Plucky Slamdrop |
-| 142 | 709 | Murg4dr01d |
+| 141 | 720 | Murg4dr01d |
+| 142 | 716 | Plucky Slamdrop |
 | 143 | 708 | De'Laonzeo Anthony |
 | 144 | 705 | Shontanese Adams |
 | 145 | 703 | Lesley Brunkus Cianfaglione |
@@ -168,8 +168,8 @@
 | 160 | 630 | Bambi Love |
 | 161 | 629 | Charletha Williams |
 | 162 | 623 | Abraham Espaillat |
-| 163 | 617 | Crystal Anderson |
-| 164 | 617 | Byron Mario Cawthon |
+| 163 | 621 | Byron Mario Cawthon |
+| 164 | 617 | Crystal Anderson |
 | 165 | 616 | Dandy Brickfit |
 | 166 | 611 | SyTheEvilGenius1 |
 | 167 | 610 | Genne Scott |
@@ -415,7 +415,7 @@
 | 407 | 270 | Jean Regis |
 | 408 | 269 | Bambam |
 | 409 | 269 | Aihpos |
-| 410 | 267 | Kristine Marie Palmer |
+| 410 | 269 | Kristine Marie Palmer |
 | 411 | 266 | Rebecca Jackson |
 | 412 | 265 | Jae Thompson-Tyus |
 | 413 | 264 | Boldy Matchbuilder |
@@ -1495,119 +1495,119 @@
 | 1487 | 35 | Kerry Meister Rummel |
 | 1488 | 35 | Goofy T-spin |
 | 1489 | 35 | Lively Rollpiece |
-| 1490 | 35 | Frilly Glidepiece |
-| 1491 | 35 | Evee |
-| 1492 | 35 | Brandy Jaszewski |
-| 1493 | 35 | Charise McGee |
-| 1494 | 35 | Nerdy Twistline |
-| 1495 | 35 | Margie Toni Corley |
-| 1496 | 35 | Robin Prioleau |
-| 1497 | 35 | X6TRAUMA9X |
-| 1498 | 35 | Crafty Link |
-| 1499 | 35 | Kevin Witdaflute |
-| 1500 | 35 | Happymama |
-| 1501 | 34 | Zayy Wavyy |
-| 1502 | 34 | Lauren |
-| 1503 | 34 | Danielle Scholfield |
-| 1504 | 34 | April Lane |
-| 1505 | 34 | Plucky Clearpiece |
+| 1490 | 35 | Nerdy Twistline |
+| 1491 | 35 | Kevin Witdaflute |
+| 1492 | 35 | Crafty Link |
+| 1493 | 35 | Happymama |
+| 1494 | 35 | Charise McGee |
+| 1495 | 35 | X6TRAUMA9X |
+| 1496 | 35 | Frilly Glidepiece |
+| 1497 | 35 | Brandy Jaszewski |
+| 1498 | 35 | Robin Prioleau |
+| 1499 | 35 | Margie Toni Corley |
+| 1500 | 35 | Evee |
+| 1501 | 34 | Temeshia Brooks Washington |
+| 1502 | 34 | Pleasure |
+| 1503 | 34 | Symonne 'Monnie' Pierce |
+| 1504 | 34 | Bouncy Brickroll |
+| 1505 | 34 | Fancy Strikerbuilder |
 | 1506 | 34 | Spadez1231 |
 | 1507 | 34 | Jumpy Striker |
-| 1508 | 34 | Symonne 'Monnie' Pierce |
-| 1509 | 34 | Bouncy Brickroll |
-| 1510 | 34 | Frisky Pivoty |
-| 1511 | 34 | beeutifullll |
-| 1512 | 34 | Pleasure |
+| 1508 | 34 | Danielle Scholfield |
+| 1509 | 34 | beeutifullll |
+| 1510 | 34 | Plucky Clearpiece |
+| 1511 | 34 | Frisky Pivoty |
+| 1512 | 34 | Jumpy Brickbuilder |
 | 1513 | 34 | Matos Boiz |
 | 1514 | 34 | Cherita Copney |
-| 1515 | 34 | Temeshia Brooks Washington |
-| 1516 | 34 | Jumpy Brickbuilder |
-| 1517 | 34 | Fancy Strikerbuilder |
-| 1518 | 33 | Speedy Glidezone |
-| 1519 | 33 | Kiyeri |
-| 1520 | 33 | Rose Chassé |
-| 1521 | 33 | Michelle Boutherpaper Francis |
-| 1522 | 33 | Brianna Floyd |
-| 1523 | 33 | Jateerah Davis |
-| 1524 | 33 | Flash97 |
-| 1525 | 33 | Kim Ratcliff Leatherman |
-| 1526 | 33 | MeatSweats |
-| 1527 | 33 | Koz176 |
-| 1528 | 33 | Shay Simmons |
-| 1529 | 33 | Silly Matchbuilder |
-| 1530 | 32 | Stephanie Scott |
-| 1531 | 32 | Sylvia Holst |
-| 1532 | 32 | Brownie |
-| 1533 | 32 | Tiffany Ali Shaw |
+| 1515 | 34 | April Lane |
+| 1516 | 34 | Lauren |
+| 1517 | 34 | Zayy Wavyy |
+| 1518 | 33 | Kiyeri |
+| 1519 | 33 | Kim Ratcliff Leatherman |
+| 1520 | 33 | Flash97 |
+| 1521 | 33 | Jateerah Davis |
+| 1522 | 33 | Michelle Boutherpaper Francis |
+| 1523 | 33 | Brianna Floyd |
+| 1524 | 33 | Rose Chassé |
+| 1525 | 33 | Silly Matchbuilder |
+| 1526 | 33 | Shay Simmons |
+| 1527 | 33 | Speedy Glidezone |
+| 1528 | 33 | MeatSweats |
+| 1529 | 33 | Koz176 |
+| 1530 | 32 | Kimberly Haynes |
+| 1531 | 32 | Tiffany Ali Shaw |
+| 1532 | 32 | Stephanie Scott |
+| 1533 | 32 | Beth Ingham |
 | 1534 | 32 | Van Cunning |
-| 1535 | 32 | Beth Ingham |
-| 1536 | 32 | Kimberly Haynes |
-| 1537 | 31 | Edward Hickmon |
-| 1538 | 31 | Heckabluntstho |
-| 1539 | 31 | Dapper Balancefit |
+| 1535 | 32 | Sylvia Holst |
+| 1536 | 32 | Brownie |
+| 1537 | 31 | Groovy Gridzone |
+| 1538 | 31 | Taimir Colón |
+| 1539 | 31 | Edward Hickmon |
 | 1540 | 31 | EchoQuirky Blockclear |
-| 1541 | 31 | Taimir Colón |
-| 1542 | 31 | Groovy Gridzone |
-| 1543 | 30 | Myca Cooper |
-| 1544 | 30 | Jessica Corey |
-| 1545 | 30 | Cucumber |
-| 1546 | 30 | Cheryl Parraway |
-| 1547 | 30 | Jamie Mclean |
-| 1548 | 30 | Dee |
-| 1549 | 30 | Chavez James |
-| 1550 | 30 | Damien Mathews |
+| 1541 | 31 | Dapper Balancefit |
+| 1542 | 31 | Korie Dixon |
+| 1543 | 31 | Heckabluntstho |
+| 1544 | 30 | Dee |
+| 1545 | 30 | Jessica Corey |
+| 1546 | 30 | Cucumber |
+| 1547 | 30 | Myca Cooper |
+| 1548 | 30 | Cheryl Parraway |
+| 1549 | 30 | Jamie Mclean |
+| 1550 | 30 | Edward Hackett |
 | 1551 | 30 | Tipsy Tilt |
-| 1552 | 30 | Spicy Builderfit |
-| 1553 | 30 | Jeanne Bitner |
+| 1552 | 30 | Jeanne Bitner |
+| 1553 | 30 | Chavez James |
 | 1554 | 30 | Lavender |
-| 1555 | 30 | Tee $ |
-| 1556 | 30 | Edward Hackett |
-| 1557 | 30 | Anthony Jackson |
-| 1558 | 29 | Crafty |
-| 1559 | 29 | Christian Whittaker |
-| 1560 | 29 | Keia Price |
-| 1561 | 29 | Dave Breaker |
-| 1562 | 29 | Carolyn Delphie |
-| 1563 | 29 | Twisty Tilebuilder |
-| 1564 | 29 | Epic Wipepiece |
-| 1565 | 29 | E Dubb$ |
-| 1566 | 29 | Korie Dixon |
-| 1567 | 29 | Joycina Newsome |
-| 1568 | 29 | Everett Semmions |
-| 1569 | 29 | Chris Bell |
-| 1570 | 29 | Elizabeth Ragland |
-| 1571 | 28 | kiki |
-| 1572 | 28 | Dee |
-| 1573 | 28 | Dannie Brown |
-| 1574 | 28 | Iván Cedeño |
-| 1575 | 28 | Shanna Nicole Anderson |
-| 1576 | 28 | Will Stanton |
-| 1577 | 28 | Tonya Mills |
-| 1578 | 28 | Kenya Richardson |
-| 1579 | 28 | Michelle Dollah |
-| 1580 | 28 | Raevon Bailey |
-| 1581 | 28 | Shutyoface Barber |
-| 1582 | 28 | Zany Edgepiece |
-| 1583 | 28 | David Rankin |
-| 1584 | 28 | Leon Matthew Williams |
+| 1555 | 30 | Damien Mathews |
+| 1556 | 30 | Tee $ |
+| 1557 | 30 | Spicy Builderfit |
+| 1558 | 30 | Anthony Jackson |
+| 1559 | 29 | Dave Breaker |
+| 1560 | 29 | Elizabeth Ragland |
+| 1561 | 29 | Carolyn Delphie |
+| 1562 | 29 | Twisty Tilebuilder |
+| 1563 | 29 | Epic Wipepiece |
+| 1564 | 29 | E Dubb$ |
+| 1565 | 29 | Crafty |
+| 1566 | 29 | Joycina Newsome |
+| 1567 | 29 | Everett Semmions |
+| 1568 | 29 | Christian Whittaker |
+| 1569 | 29 | Keia Price |
+| 1570 | 29 | Chris Bell |
+| 1571 | 28 | Dannie Brown |
+| 1572 | 28 | Shanna Nicole Anderson |
+| 1573 | 28 | Dee |
+| 1574 | 28 | kiki |
+| 1575 | 28 | Kenya Richardson |
+| 1576 | 28 | Shutyoface Barber |
+| 1577 | 28 | David Rankin |
+| 1578 | 28 | Leon Matthew Williams |
+| 1579 | 28 | Tonya Mills |
+| 1580 | 28 | Iván Cedeño |
+| 1581 | 28 | Michelle Dollah |
+| 1582 | 28 | Will Stanton |
+| 1583 | 28 | Zany Edgepiece |
+| 1584 | 28 | Raevon Bailey |
 | 1585 | 27 | Mighty Curver |
-| 1586 | 27 | Linda Howard |
-| 1587 | 27 | MsSassygee Boom |
-| 1588 | 27 | Ramon Leno Coolridge |
-| 1589 | 27 | Poppy Clusterbuilder |
-| 1590 | 27 | marie |
-| 1591 | 27 | Manda Pecora |
-| 1592 | 27 | Grant Wilson |
-| 1593 | 27 | Zesty Fitclear |
-| 1594 | 27 | Taylor Keisha |
-| 1595 | 27 | Venna Cooper |
+| 1586 | 27 | Antoinette GallowayJohnson |
+| 1587 | 27 | Linda Howard |
+| 1588 | 27 | Poppy Clusterbuilder |
+| 1589 | 27 | scorpiobae |
+| 1590 | 27 | Grant Wilson |
+| 1591 | 27 | MsSassygee Boom |
+| 1592 | 27 | Shaylyn Lockwood |
+| 1593 | 27 | Taylor Keisha |
+| 1594 | 27 | katia |
+| 1595 | 27 | Zesty Fitclear |
 | 1596 | 27 | Mariela J. Mazariegos |
-| 1597 | 27 | Shaylyn Lockwood |
-| 1598 | 27 | katia |
-| 1599 | 27 | scorpiobae |
-| 1600 | 27 | Antoinette GallowayJohnson |
-| 1601 | 26 | Laura Long |
-| 1602 | 26 | Chevonne Huggins |
+| 1597 | 27 | Ramon Leno Coolridge |
+| 1598 | 27 | Venna Cooper |
+| 1599 | 27 | Manda Pecora |
+| 1600 | 27 | marie |
+| 1601 | 26 | Chevonne Huggins |
+| 1602 | 26 | Laura Long |
 | 1603 | 26 | Emily Burgoon |
 | 1604 | 26 | Layla Williams |
 | 1605 | 26 | Marla |
