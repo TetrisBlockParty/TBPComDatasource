@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:10:44 UTC
+# Standings for team1 as of 2026-06-09 06:11:22 UTC
 
 **Total Participants:** 1997
 
@@ -1632,117 +1632,117 @@
 | 1624 | 25 | Breezy Bouncer |
 | 1625 | 25 | Nicki JTho |
 | 1626 | 25 | Anthony |
-| 1627 | 25 | Jiff |
-| 1628 | 25 | PennyCandee |
-| 1629 | 25 | Jashana Thomas |
-| 1630 | 25 | Regina Haygood |
-| 1631 | 25 | Leonard R. Chanette |
-| 1632 | 25 | RossA |
-| 1633 | 25 | Ladii Ree |
-| 1634 | 24 | Lively Stagger |
-| 1635 | 24 | Brandon Knox |
-| 1636 | 24 | Antoinette AugustusJones III |
-| 1637 | 24 | David Sk Vaughan Jr. |
-| 1638 | 24 | Null Kim |
-| 1639 | 24 | Snazzy Shatterbuilder |
-| 1640 | 24 | TanB53 |
-| 1641 | 24 | BuddyLove37 |
-| 1642 | 24 | Peppy Shatterblock |
-| 1643 | 24 | Andrea DeRoy |
-| 1644 | 24 | Rekeia Minding Mine |
-| 1645 | 24 | Kris |
-| 1646 | 23 | Nika TaurustotheBone Turner |
-| 1647 | 23 | Sassy Stack |
-| 1648 | 23 | Nicolej |
-| 1649 | 23 | Genevieve Nieves |
-| 1650 | 23 | Major314 |
-| 1651 | 23 | Milfchaser530 |
-| 1652 | 23 | Brave Combofall |
-| 1653 | 23 | Tabitha Dupre-Allen |
+| 1627 | 25 | Jashana Thomas |
+| 1628 | 25 | Ladii Ree |
+| 1629 | 25 | Jiff |
+| 1630 | 25 | RossA |
+| 1631 | 25 | Regina Haygood |
+| 1632 | 25 | PennyCandee |
+| 1633 | 25 | Leonard R. Chanette |
+| 1634 | 24 | Peppy Shatterblock |
+| 1635 | 24 | Andrea DeRoy |
+| 1636 | 24 | BuddyLove37 |
+| 1637 | 24 | Rekeia Minding Mine |
+| 1638 | 24 | Kris |
+| 1639 | 24 | TanB53 |
+| 1640 | 24 | Snazzy Shatterbuilder |
+| 1641 | 24 | Null Kim |
+| 1642 | 24 | David Sk Vaughan Jr. |
+| 1643 | 24 | Lively Stagger |
+| 1644 | 24 | Brandon Knox |
+| 1645 | 24 | Antoinette AugustusJones III |
+| 1646 | 23 | Milfchaser530 |
+| 1647 | 23 | Charisse Johnson |
+| 1648 | 23 | Sassy Stack |
+| 1649 | 23 | BADBOY658 |
+| 1650 | 23 | Flashy Buildgrid |
+| 1651 | 23 | Shiny Zonebuilder |
+| 1652 | 23 | Jamie Lea Popp |
+| 1653 | 23 | Livelovelaugh Ward |
 | 1654 | 23 | Lush Buildsnap |
-| 1655 | 23 | Charisse Johnson |
-| 1656 | 23 | Jamie Lea Popp |
-| 1657 | 23 | Flashy Buildgrid |
-| 1658 | 23 | Livelovelaugh Ward |
-| 1659 | 23 | Shiny Zonebuilder |
-| 1660 | 23 | BADBOY658 |
-| 1661 | 22 | Jhinarra Walker |
-| 1662 | 22 | Jazzy Drop |
-| 1663 | 22 | Mary M Craven |
-| 1664 | 22 | ShayePooh |
-| 1665 | 22 | Chipper Smasher |
-| 1666 | 22 | Queen Baby 5 |
-| 1667 | 22 | Chantelle Sweet |
+| 1655 | 23 | Nika TaurustotheBone Turner |
+| 1656 | 23 | Tabitha Dupre-Allen |
+| 1657 | 23 | Major314 |
+| 1658 | 23 | Genevieve Nieves |
+| 1659 | 23 | Nicolej |
+| 1660 | 23 | Brave Combofall |
+| 1661 | 22 | Jazzy Drop |
+| 1662 | 22 | ShayePooh |
+| 1663 | 22 | Jhinarra Walker |
+| 1664 | 22 | Chipper Smasher |
+| 1665 | 22 | Queen Baby 5 |
+| 1666 | 22 | Chantelle Sweet |
+| 1667 | 22 | Mary M Craven |
 | 1668 | 22 | Cee CRaze Perry Sr. |
 | 1669 | 22 | Alexis Farquer |
 | 1670 | 21 | Nerdy Riser |
 | 1671 | 21 | PuddenPop |
-| 1672 | 21 | Lisamarie Fabre Cardona |
-| 1673 | 21 | Michelle Villasenor |
+| 1672 | 21 | Michelle Villasenor |
+| 1673 | 21 | Lisamarie Fabre Cardona |
 | 1674 | 21 | Sanna Rose |
 | 1675 | 21 | Christy |
-| 1676 | 21 | Nissa |
-| 1677 | 21 | Boldy Zoner |
-| 1678 | 21 | cupcake |
-| 1679 | 21 | Frisky Linkblock |
-| 1680 | 21 | Cheeky Wipegrid |
-| 1681 | 21 | Annette D Elliott |
-| 1682 | 21 | Nikki Cornelious Valentine |
-| 1683 | 20 | POOH |
-| 1684 | 20 | Tiffany Thompson |
-| 1685 | 20 | Kenneth Hefney |
-| 1686 | 20 | Peachy Pusher |
-| 1687 | 20 | Crafty Shatterfit |
-| 1688 | 20 | Cherise Thomas |
-| 1689 | 20 | Bryttani GoingPlaces Latimer |
-| 1690 | 20 | Grace Page |
-| 1691 | 20 | Nikki Vaughn |
-| 1692 | 20 | Dora Greer |
-| 1693 | 20 | Cynthia Potter |
-| 1694 | 20 | Breezy Pivoty |
-| 1695 | 20 | AllStar Woods |
+| 1676 | 21 | Cheeky Wipegrid |
+| 1677 | 21 | Nissa |
+| 1678 | 21 | Boldy Zoner |
+| 1679 | 21 | Nikki Cornelious Valentine |
+| 1680 | 21 | Annette D Elliott |
+| 1681 | 21 | Frisky Linkblock |
+| 1682 | 21 | cupcake |
+| 1683 | 21 | DaShawntae Durham |
+| 1684 | 20 | Nikki Vaughn |
+| 1685 | 20 | Dora Greer |
+| 1686 | 20 | Breezy Pivoty |
+| 1687 | 20 | POOH |
+| 1688 | 20 | Cynthia Potter |
+| 1689 | 20 | Grace Page |
+| 1690 | 20 | AllStar Woods |
+| 1691 | 20 | Bryttani GoingPlaces Latimer |
+| 1692 | 20 | Cherise Thomas |
+| 1693 | 20 | Crafty Shatterfit |
+| 1694 | 20 | Peachy Pusher |
+| 1695 | 20 | Kenneth Hefney |
 | 1696 | 20 | Chris Davidson |
-| 1697 | 20 | SosaaCurry |
-| 1698 | 20 | Scoots |
-| 1699 | 20 | Terry Golatte |
-| 1700 | 20 | That1Girl |
-| 1701 | 20 | Chuck Gee |
-| 1702 | 20 | prela |
-| 1703 | 20 | Tiffany Sherman |
-| 1704 | 20 | Deme |
-| 1705 | 20 | Jimel Fraser |
-| 1706 | 20 | Melody Means |
-| 1707 | 20 | DRIFTER |
+| 1697 | 20 | Tiffany Thompson |
+| 1698 | 20 | SosaaCurry |
+| 1699 | 20 | Scoots |
+| 1700 | 20 | Terry Golatte |
+| 1701 | 20 | That1Girl |
+| 1702 | 20 | Chuck Gee |
+| 1703 | 20 | prela |
+| 1704 | 20 | Jimel Fraser |
+| 1705 | 20 | Tiffany Sherman |
+| 1706 | 20 | Deme |
+| 1707 | 20 | Melody Means |
 | 1708 | 20 | Luna Lockwood |
-| 1709 | 20 | Andrea Watts |
-| 1710 | 20 | Otavia Gordon |
-| 1711 | 20 | Tipsy Builderline |
-| 1712 | 20 | Daring Snaplink |
-| 1713 | 20 | LongLive Peace |
-| 1714 | 20 | Chummy Clearfit |
-| 1715 | 20 | Anthony D Holmes |
-| 1716 | 19 | Leiacellaa23 |
-| 1717 | 19 | Dazee Rogers |
-| 1718 | 19 | Narena Desertsong |
-| 1719 | 19 | Trauma Loc |
-| 1720 | 19 | kate |
-| 1721 | 19 | Let Them |
-| 1722 | 19 | Rosanna Ringold |
+| 1709 | 20 | DRIFTER |
+| 1710 | 20 | Andrea Watts |
+| 1711 | 20 | Otavia Gordon |
+| 1712 | 20 | Tipsy Builderline |
+| 1713 | 20 | Daring Snaplink |
+| 1714 | 20 | LongLive Peace |
+| 1715 | 20 | Chummy Clearfit |
+| 1716 | 20 | Anthony D Holmes |
+| 1717 | 19 | Leiacellaa23 |
+| 1718 | 19 | Dazee Rogers |
+| 1719 | 19 | Narena Desertsong |
+| 1720 | 19 | Trauma Loc |
+| 1721 | 19 | kate |
+| 1722 | 19 | Let Them |
 | 1723 | 19 | Zondria Barnes |
-| 1724 | 19 | Toya Draine |
-| 1725 | 18 | Aliceia Gee |
+| 1724 | 19 | Rosanna Ringold |
+| 1725 | 19 | Toya Draine |
 | 1726 | 18 | Marie SheReady Harris |
 | 1727 | 18 | Yeshanna Nicholson |
-| 1728 | 18 | Andrea Jones |
-| 1729 | 18 | linda m |
-| 1730 | 18 | Poppy Pivot |
-| 1731 | 18 | Raynell Mcfrazier |
-| 1732 | 18 | Keke |
-| 1733 | 18 | Laugh N Learn Tutoring |
-| 1734 | 18 | Saucy Linkgrid |
-| 1735 | 18 | Jolly Zoner |
-| 1736 | 18 | Cheeky Tiltbuilder |
-| 1737 | 18 | DaShawntae Durham |
+| 1728 | 18 | Poppy Pivot |
+| 1729 | 18 | Aliceia Gee |
+| 1730 | 18 | linda m |
+| 1731 | 18 | Andrea Jones |
+| 1732 | 18 | Raynell Mcfrazier |
+| 1733 | 18 | Keke |
+| 1734 | 18 | Laugh N Learn Tutoring |
+| 1735 | 18 | Saucy Linkgrid |
+| 1736 | 18 | Jolly Zoner |
+| 1737 | 18 | Cheeky Tiltbuilder |
 | 1738 | 18 | Naudia Hampton |
 | 1739 | 18 | Una |
 | 1740 | 18 | MURLWORLD |
