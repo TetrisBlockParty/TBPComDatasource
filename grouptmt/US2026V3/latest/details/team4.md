@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:51:22 UTC
+# Standings for team4 as of 2026-06-09 08:52:42 UTC
 
 **Total Participants:** 2088
 
@@ -133,7 +133,7 @@
 | 125 | 871 | Becky Doll-Hall |
 | 126 | 866 | Hairy Snake |
 | 127 | 864 | Whitborn |
-| 128 | 847 | Gorica Prusina |
+| 128 | 849 | Gorica Prusina |
 | 129 | 844 | Kay |
 | 130 | 841 | Shiny Dashy |
 | 131 | 841 | Pepone Pepe |
@@ -219,7 +219,7 @@
 | 211 | 501 | Linda Miltenburg |
 | 212 | 500 | Genag |
 | 213 | 500 | Saucy Wipepiece |
-| 214 | 498 | Snippy Splitter |
+| 214 | 499 | Snippy Splitter |
 | 215 | 496 | Jackie Jackson |
 | 216 | 496 | Vanessa Sykes |
 | 217 | 496 | Samantha Worley |
@@ -423,12 +423,12 @@
 | 415 | 268 | Kendall Rhodie |
 | 416 | 268 | Teester |
 | 417 | 268 | Luna |
-| 418 | 265 | Groovy Towerbuilder |
-| 419 | 264 | Merritt Brandt |
-| 420 | 264 | Azahares Alonso |
-| 421 | 263 | Erik Clary |
-| 422 | 263 | Laurie Patrick |
-| 423 | 262 | Kierra Evans |
+| 418 | 265 | Kierra Evans |
+| 419 | 265 | Groovy Towerbuilder |
+| 420 | 264 | Merritt Brandt |
+| 421 | 264 | Azahares Alonso |
+| 422 | 263 | Erik Clary |
+| 423 | 263 | Laurie Patrick |
 | 424 | 262 | Scrumptious |
 | 425 | 261 | Tricia Motika Cowan |
 | 426 | 261 | Lee Ann Gibby |
