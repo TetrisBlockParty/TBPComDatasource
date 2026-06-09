@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:50:45 UTC
+# Standings for team1 as of 2026-06-09 23:51:22 UTC
 
 **Total Participants:** 2134
 
@@ -675,44 +675,44 @@
 | 667 | 204 | Cynda Cyn |
 | 668 | 204 | Comedian Gdane |
 | 669 | 203 | Ivery Lee Grays Jr. |
-| 670 | 202 | Don Ray Mc |
-| 671 | 202 | Hyper Blocky |
-| 672 | 202 | Alexandrla Smith |
-| 673 | 202 | Nutty Fallmatch |
+| 670 | 202 | Nutty Fallmatch |
+| 671 | 202 | Don Ray Mc |
+| 672 | 202 | Hyper Blocky |
+| 673 | 202 | Alexandrla Smith |
 | 674 | 202 | Marbama |
 | 675 | 202 | Messy Live |
 | 676 | 200 | Victoria Smith |
 | 677 | 200 | Yellowguy3 |
-| 678 | 200 | Kyle Conley |
-| 679 | 200 | Erica Campbell-Stillings |
+| 678 | 200 | Erica Campbell-Stillings |
+| 679 | 200 | Kyle Conley |
 | 680 | 200 | Joseph Vs Cap |
 | 681 | 200 | Jimmy Shannon |
 | 682 | 199 | Donnie Withthebody |
 | 683 | 199 | Anastasia |
 | 684 | 199 | TY Newme Batts |
-| 685 | 198 | Shannon Carriger |
-| 686 | 198 | Rhianna Dinki Austin |
+| 685 | 198 | Rhianna Dinki Austin |
+| 686 | 198 | Shannon Carriger |
 | 687 | 198 | Stephen Garland |
 | 688 | 198 | Darrelle Short |
 | 689 | 197 | krd |
 | 690 | 197 | Seddrick |
 | 691 | 197 | Undeniable Williams |
-| 692 | 197 | Jas |
-| 693 | 197 | Ameillia Boughner |
+| 692 | 197 | Ameillia Boughner |
+| 693 | 197 | Jas |
 | 694 | 197 | Dana Hawes |
 | 695 | 196 | whatever |
 | 696 | 196 | Stephanie Ellis |
 | 697 | 194 | Twisty Cascadeclear |
 | 698 | 194 | Shameka Tiffany |
 | 699 | 193 | Kimberly Susan Privette |
-| 700 | 192 | Marsha Earl |
-| 701 | 192 | RylonJones |
-| 702 | 192 | Cameo Tweed |
-| 703 | 192 | Cranky Fall |
+| 700 | 192 | Cranky Fall |
+| 701 | 192 | Marsha Earl |
+| 702 | 192 | RylonJones |
+| 703 | 192 | Cameo Tweed |
 | 704 | 191 | Miera Nicole |
 | 705 | 190 | Slinky Fallzone |
-| 706 | 190 | Adrian Wilson |
-| 707 | 190 | Lester Malone |
+| 706 | 190 | Lester Malone |
+| 707 | 190 | Adrian Wilson |
 | 708 | 190 | Chipper Snapper |
 | 709 | 190 | Essence Jones |
 | 710 | 189 | Montego Allen |
@@ -721,28 +721,28 @@
 | 713 | 189 | The DUBZ |
 | 714 | 189 | Sean White |
 | 715 | 189 | TBabii24 |
-| 716 | 189 | Loopy Tiler |
-| 717 | 189 | Anntionette Sotire |
+| 716 | 189 | Anntionette Sotire |
+| 717 | 189 | Loopy Tiler |
 | 718 | 188 | jeremy92 |
-| 719 | 188 | Loony Clearer |
-| 720 | 188 | DeAngelo Sorrells |
-| 721 | 188 | Mary Goode |
+| 719 | 188 | Mary Goode |
+| 720 | 188 | Loony Clearer |
+| 721 | 188 | Lynn |
 | 722 | 188 | Tyiesha Pie Farmer |
-| 723 | 188 | Lynn |
-| 724 | 187 | Lively Riserpiece |
-| 725 | 187 | Vontesha Kidd |
+| 723 | 188 | DeAngelo Sorrells |
+| 724 | 187 | Vontesha Kidd |
+| 725 | 187 | Lively Riserpiece |
 | 726 | 186 | Dirty Deeds |
 | 727 | 186 | Vannie G |
 | 728 | 186 | Tiffany Conley |
-| 729 | 185 | Poppy Twister |
+| 729 | 185 | Jess |
 | 730 | 185 | Parris Wright |
-| 731 | 185 | Jess |
+| 731 | 185 | Poppy Twister |
 | 732 | 185 | Eric Machuca |
 | 733 | 183 | Amihan |
 | 734 | 183 | Laysa Nunez |
 | 735 | 183 | Erika |
-| 736 | 182 | Lexx Robins |
-| 737 | 182 | Stanley Dixon |
+| 736 | 182 | Stanley Dixon |
+| 737 | 182 | Lexx Robins |
 | 738 | 182 | Octavia Bsb Johnson |
 | 739 | 182 | Comedian Prince Paul |
 | 740 | 181 | Tony Pizzas |
@@ -756,15 +756,15 @@
 | 748 | 179 | Ad Doctor |
 | 749 | 179 | Kike Lua |
 | 750 | 179 | Wacky Stackbuilder |
-| 751 | 179 | Jes Marie |
-| 752 | 179 | Naee Bee |
-| 753 | 178 | MrsDontPlay |
-| 754 | 178 | TRUBBLE45 |
-| 755 | 178 | Krista McNair |
-| 756 | 177 | Tina Blessed Cage |
-| 757 | 177 | Cm |
-| 758 | 177 | Nekka |
-| 759 | 177 | Melanin Monroe-Dandridge |
+| 751 | 179 | Melanin Monroe-Dandridge |
+| 752 | 179 | Jes Marie |
+| 753 | 179 | Naee Bee |
+| 754 | 178 | MrsDontPlay |
+| 755 | 178 | TRUBBLE45 |
+| 756 | 178 | Krista McNair |
+| 757 | 177 | Tina Blessed Cage |
+| 758 | 177 | Cm |
+| 759 | 177 | Nekka |
 | 760 | 176 | Callie Mae |
 | 761 | 176 | Frisky Gridder |
 | 762 | 176 | LaSharmeika Fancher |
@@ -774,8 +774,8 @@
 | 766 | 175 | Angie Smith |
 | 767 | 175 | DaemahnFriday |
 | 768 | 175 | Xana Zania Bopp |
-| 769 | 174 | Jason Saputo |
-| 770 | 174 | Angela Kitchens |
+| 769 | 174 | Angela Kitchens |
+| 770 | 174 | Jason Saputo |
 | 771 | 174 | Nerdy Wipefit |
 | 772 | 173 | brite |
 | 773 | 173 | Mathew Trudell |
