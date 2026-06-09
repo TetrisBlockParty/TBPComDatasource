@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:49:20 UTC
+# Standings for team1 as of 2026-06-09 07:50:22 UTC
 
 **Total Participants:** 2016
 
@@ -75,9 +75,9 @@
 | 67 | 1418 | Sanjuro |
 | 68 | 1418 | Daylene Johannes |
 | 69 | 1411 | Blockhead |
-| 70 | 1388 | Jessica Roberts |
-| 71 | 1387 | Angela R Wilson |
-| 72 | 1359 | Uneekly Mayde |
+| 70 | 1399 | Uneekly Mayde |
+| 71 | 1388 | Jessica Roberts |
+| 72 | 1387 | Angela R Wilson |
 | 73 | 1350 | MamaBear |
 | 74 | 1344 | Chenell Gillard |
 | 75 | 1333 | Spicy Balancer |
@@ -93,10 +93,10 @@
 | 85 | 1208 | Aviv Zehavi |
 | 86 | 1206 | Jason Mungin |
 | 87 | 1206 | BYM4L |
-| 88 | 1187 | Dynah Gordon |
-| 89 | 1185 | Tiana Moore |
-| 90 | 1184 | Court Court |
-| 91 | 1184 | Moomoo |
+| 88 | 1188 | Moomoo |
+| 89 | 1187 | Dynah Gordon |
+| 90 | 1185 | Tiana Moore |
+| 91 | 1184 | Court Court |
 | 92 | 1175 | Ryan Meilleur |
 | 93 | 1170 | Jonathan Vee Jay |
 | 94 | 1169 | Kimberly Hernandez |
@@ -479,50 +479,50 @@
 | 471 | 236 | Charlene Baltimore |
 | 472 | 235 | Daring Blockclear |
 | 473 | 235 | nameno |
-| 474 | 234 | Eric Spencer Whitaker |
-| 475 | 234 | Shea Ladynick Henderson |
+| 474 | 234 | Shea Ladynick Henderson |
+| 475 | 234 | Eric Spencer Whitaker |
 | 476 | 234 | Lisa Fletcher |
 | 477 | 234 | wmedina67 |
-| 478 | 233 | Daris Swearington |
-| 479 | 233 | Kala Miller |
+| 478 | 233 | Kala Miller |
+| 479 | 233 | Daris Swearington |
 | 480 | 232 | Monica Fields |
 | 481 | 231 | Brittany Fells |
 | 482 | 231 | Bubbly Slammer |
 | 483 | 230 | Jessica Kirby |
 | 484 | 230 | Tracey Johnson |
 | 485 | 229 | Jenni Hardman |
-| 486 | 228 | Bold Clusterer |
-| 487 | 228 | Crystal Cheresnowsky |
+| 486 | 228 | Kimberly Anderson |
+| 487 | 228 | Bold Clusterer |
 | 488 | 228 | Matthieu Pistone |
-| 489 | 228 | Vera Beckford |
-| 490 | 227 | Chris Holland |
-| 491 | 226 | Kahliah Baker |
-| 492 | 226 | Monica Tovar |
-| 493 | 226 | Dreamzzz |
-| 494 | 226 | Peppy Glider |
-| 495 | 226 | MonaSparks |
-| 496 | 225 | Mahagony Small |
-| 497 | 225 | Kimberly Anderson |
+| 489 | 228 | Crystal Cheresnowsky |
+| 490 | 228 | Vera Beckford |
+| 491 | 227 | Chris Holland |
+| 492 | 226 | Kahliah Baker |
+| 493 | 226 | Monica Tovar |
+| 494 | 226 | Dreamzzz |
+| 495 | 226 | Peppy Glider |
+| 496 | 226 | MonaSparks |
+| 497 | 225 | Mahagony Small |
 | 498 | 224 | Juan Santiago |
-| 499 | 223 | Heather Wilson |
-| 500 | 223 | Kamilya Rembert |
-| 501 | 223 | BB |
-| 502 | 223 | Brenda Malachi-butler |
-| 503 | 222 | AnnaM |
-| 504 | 222 | Hardtohandle91 |
-| 505 | 222 | Clint Mcdowell |
-| 506 | 221 | De'Nell Edwards |
-| 507 | 221 | Rayshawn Cohen |
-| 508 | 220 | Tonia Ramos |
-| 509 | 220 | Rufus |
+| 499 | 223 | BB |
+| 500 | 223 | Brenda Malachi-butler |
+| 501 | 223 | Kamilya Rembert |
+| 502 | 223 | Heather Wilson |
+| 503 | 222 | Clint Mcdowell |
+| 504 | 222 | AnnaM |
+| 505 | 222 | Hardtohandle91 |
+| 506 | 221 | Rayshawn Cohen |
+| 507 | 221 | De'Nell Edwards |
+| 508 | 220 | Rufus |
+| 509 | 220 | Tonia Ramos |
 | 510 | 219 | Ciera Peace |
 | 511 | 218 | Mommy Frank |
 | 512 | 218 | Teresa Yanira Cepeda |
-| 513 | 217 | Saucy Faller |
-| 514 | 217 | Travis Davison |
-| 515 | 217 | BonnieB |
-| 516 | 217 | Marlainia Boyd |
-| 517 | 217 | Louise Parker |
+| 513 | 217 | Louise Parker |
+| 514 | 217 | BonnieB |
+| 515 | 217 | Saucy Faller |
+| 516 | 217 | Travis Davison |
+| 517 | 217 | Marlainia Boyd |
 | 518 | 216 | Aaron Hartmann |
 | 519 | 216 | Londa Londa |
 | 520 | 215 | Tracy Feyler |
@@ -1963,15 +1963,15 @@
 | 1955 | 7 | Shenikka Townsend |
 | 1956 | 7 | Happy Strike |
 | 1957 | 7 | Snippy Balance |
-| 1958 | 7 | Dimitri Moore |
+| 1958 | 7 | Frisky Cascadefit |
 | 1959 | 7 | Jazzy |
 | 1960 | 7 | KingSlim82 |
 | 1961 | 7 | Jamal Richmond |
 | 1962 | 7 | Lively Edgefit |
 | 1963 | 7 | John Boone |
 | 1964 | 7 | Hyper Basepiece |
-| 1965 | 7 | bri |
-| 1966 | 7 | Frisky Cascadefit |
+| 1965 | 7 | Dimitri Moore |
+| 1966 | 7 | bri |
 | 1967 | 7 | Beverly Kaday |
 | 1968 | 7 | style |
 | 1969 | 7 | Roscoe |

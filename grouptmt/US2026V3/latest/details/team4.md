@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 07:49:20 UTC
+# Standings for team4 as of 2026-06-09 07:50:22 UTC
 
 **Total Participants:** 2081
 
@@ -60,7 +60,7 @@
 | 52 | 2309 | Wendy Zentz |
 | 53 | 2131 | Michele Walker |
 | 54 | 2047 | Michelle Ross |
-| 55 | 2025 | Adam J Leong |
+| 55 | 2031 | Adam J Leong |
 | 56 | 1995 | Jason Allen |
 | 57 | 1985 | kcknbtz |
 | 58 | 1982 | Tommy Bond |
@@ -151,7 +151,7 @@
 | 143 | 770 | Misty Leigh |
 | 144 | 769 | Tiffany Brooke |
 | 145 | 761 | Dee Wizz |
-| 146 | 758 | Gorica Prusina |
+| 146 | 761 | Gorica Prusina |
 | 147 | 748 | Gigglycat |
 | 148 | 740 | Capone |
 | 149 | 740 | CJ |
@@ -184,7 +184,7 @@
 | 176 | 587 | Megan Vick |
 | 177 | 580 | CIRAZYPNOY |
 | 178 | 575 | Beth Belanger |
-| 179 | 566 | Izz |
+| 179 | 569 | Izz |
 | 180 | 563 | Jacqueline Jackii Ramos |
 | 181 | 563 | QueenLi86 |
 | 182 | 559 | Katie Martin |
@@ -583,25 +583,25 @@
 | 575 | 199 | Maegon Brazille |
 | 576 | 199 | Funky Twistpiece |
 | 577 | 198 | Bonique Bier |
-| 578 | 198 | Ayobribri |
-| 579 | 198 | Robert Moore |
+| 578 | 198 | REPENT |
+| 579 | 198 | Ayobribri |
 | 580 | 198 | Mint Marquez |
-| 581 | 197 | Snippy Racker |
-| 582 | 196 | Kellz M Bee |
-| 583 | 196 | Diana Fernandez |
-| 584 | 196 | REPENT |
-| 585 | 196 | Chuck Burns |
-| 586 | 195 | Happy Puzzle |
-| 587 | 195 | Reina Pagan |
-| 588 | 195 | Jen Roe |
+| 581 | 198 | Robert Moore |
+| 582 | 197 | Snippy Racker |
+| 583 | 196 | Chuck Burns |
+| 584 | 196 | Diana Fernandez |
+| 585 | 196 | Kellz M Bee |
+| 586 | 195 | Reina Pagan |
+| 587 | 195 | Jen Roe |
+| 588 | 195 | Happy Puzzle |
 | 589 | 194 | Dena Lynn Rogers |
 | 590 | 193 | Lord Solrac |
 | 591 | 192 | Daniel Lossman |
-| 592 | 192 | Noa Lee |
-| 593 | 192 | Ralph Hell Rell Williams |
+| 592 | 192 | Lisa Pie |
+| 593 | 192 | Chris |
 | 594 | 192 | Vonni McLean |
-| 595 | 192 | Chris |
-| 596 | 192 | Lisa Pie |
+| 595 | 192 | Ralph Hell Rell Williams |
+| 596 | 192 | Noa Lee |
 | 597 | 191 | Anna Ryan |
 | 598 | 190 | Name |
 | 599 | 190 | Candice Sellers Worley |
@@ -738,22 +738,22 @@
 | 730 | 152 | Valerie Marrero |
 | 731 | 152 | All knowing |
 | 732 | 151 | Charlene Nicole Guidry |
-| 733 | 150 | Alicia Blunt |
-| 734 | 150 | Breezy Brickfit |
-| 735 | 150 | Kimberly Lusk |
-| 736 | 149 | Heidi Hala |
-| 737 | 149 | Debby Muniz |
-| 738 | 149 | Khiem Hernandez |
-| 739 | 149 | Paula Renee McCracken |
-| 740 | 149 | Emily Lowe |
-| 741 | 149 | Fancy Tilefall |
-| 742 | 148 | mikey moo |
-| 743 | 148 | Latisha TeTe Williams |
-| 744 | 147 | David Lay |
-| 745 | 147 | Jennifer Evans Elliott |
+| 733 | 150 | Jennifer Evans Elliott |
+| 734 | 150 | Alicia Blunt |
+| 735 | 150 | Breezy Brickfit |
+| 736 | 150 | Kimberly Lusk |
+| 737 | 149 | Heidi Hala |
+| 738 | 149 | Debby Muniz |
+| 739 | 149 | Khiem Hernandez |
+| 740 | 149 | Paula Renee McCracken |
+| 741 | 149 | Emily Lowe |
+| 742 | 149 | Fancy Tilefall |
+| 743 | 148 | mikey moo |
+| 744 | 148 | Latisha TeTe Williams |
+| 745 | 147 | Surviving Be Back Soon |
 | 746 | 147 | bofe |
-| 747 | 147 | Chass Hudson |
-| 748 | 147 | Surviving Be Back Soon |
+| 747 | 147 | David Lay |
+| 748 | 147 | Chass Hudson |
 | 749 | 146 | Happy Filler |
 | 750 | 146 | Lady |
 | 751 | 146 | Lori Lynn |
@@ -1079,49 +1079,49 @@
 | 1071 | 90 | Mystica |
 | 1072 | 90 | Nancy McCalla Abercrombie |
 | 1073 | 90 | Волна Бог |
-| 1074 | 90 | Littleshark |
+| 1074 | 90 | Krissy Smith |
 | 1075 | 90 | Monique Anne Edwards |
-| 1076 | 90 | Snappy Glidebuilder |
-| 1077 | 90 | Krissy Smith |
-| 1078 | 89 | Lauren Zubia Sanchez |
-| 1079 | 89 | Khylee DarDar |
+| 1076 | 90 | Littleshark |
+| 1077 | 90 | Snappy Glidebuilder |
+| 1078 | 89 | Catherine Garza |
+| 1079 | 89 | Lauren Zubia Sanchez |
 | 1080 | 89 | Bon Jovi |
-| 1081 | 89 | Catherine Garza |
-| 1082 | 89 | Ladybug |
-| 1083 | 89 | Nachos |
-| 1084 | 88 | Christina Hagan |
-| 1085 | 88 | MrsAddams724 |
-| 1086 | 88 | Cozy Builderfit |
-| 1087 | 88 | Lateasha Wildman |
-| 1088 | 88 | Ali Garcia |
-| 1089 | 88 | Amowe |
-| 1090 | 88 | Tbag |
-| 1091 | 88 | Musky Pits |
-| 1092 | 88 | Happy Toast |
+| 1081 | 89 | Khylee DarDar |
+| 1082 | 89 | Cozy Builderfit |
+| 1083 | 89 | Ladybug |
+| 1084 | 89 | Nachos |
+| 1085 | 88 | Tbag |
+| 1086 | 88 | Lateasha Wildman |
+| 1087 | 88 | Christina Hagan |
+| 1088 | 88 | Happy Toast |
+| 1089 | 88 | Musky Pits |
+| 1090 | 88 | Amowe |
+| 1091 | 88 | Ali Garcia |
+| 1092 | 88 | MrsAddams724 |
 | 1093 | 87 | Leslee Bentley DeLong |
-| 1094 | 87 | Jodi Haman-wheeler |
+| 1094 | 87 | Yournightmare |
 | 1095 | 87 | Audacious |
-| 1096 | 87 | Yournightmare |
+| 1096 | 87 | Jodi Haman-wheeler |
 | 1097 | 87 | Seraphina |
-| 1098 | 86 | Alicia Loveless |
+| 1098 | 86 | Kami |
 | 1099 | 86 | Andy Petersen |
-| 1100 | 86 | Kami |
-| 1101 | 86 | Chelsea Leigh Busch |
+| 1100 | 86 | Alicia Loveless |
+| 1101 | 86 | Candace Dean |
 | 1102 | 86 | Gerald Richard Franke |
-| 1103 | 86 | Candace Dean |
+| 1103 | 86 | Chelsea Leigh Busch |
 | 1104 | 85 | Dsay Yates |
-| 1105 | 85 | Dannie Ems |
-| 1106 | 85 | Giggly Rollpiece |
+| 1105 | 85 | Giggly Rollpiece |
+| 1106 | 85 | Dannie Ems |
 | 1107 | 85 | Joyce Hampton |
 | 1108 | 85 | Diane Obungu |
-| 1109 | 85 | MelodiousDeez |
-| 1110 | 85 | Mike Artis |
+| 1109 | 85 | Mike Artis |
+| 1110 | 85 | MelodiousDeez |
 | 1111 | 85 | Natalie Ohrtman Strand |
 | 1112 | 85 | Sherri Lorent |
 | 1113 | 85 | RustyMaster40 |
-| 1114 | 84 | Red |
-| 1115 | 84 | T-Dogger |
-| 1116 | 84 | Cassie N Danica Flaherty |
+| 1114 | 84 | T-Dogger |
+| 1115 | 84 | Cassie N Danica Flaherty |
+| 1116 | 84 | Red |
 | 1117 | 84 | Redhead girl |
 | 1118 | 84 | Nicole Ambrose |
 | 1119 | 84 | Stacy Brown |
@@ -1462,13 +1462,13 @@
 | 1454 | 47 | Vernetta Santos |
 | 1455 | 47 | Casey Alford |
 | 1456 | 47 | Lina Samra |
-| 1457 | 47 | Frby Amberr |
-| 1458 | 47 | Maurice Jones |
+| 1457 | 47 | Maurice Jones |
+| 1458 | 47 | Frby Amberr |
 | 1459 | 47 | Destiny Georgia Reeves Beller |
-| 1460 | 47 | ToneDeaf |
-| 1461 | 47 | Amanda |
-| 1462 | 47 | Jim Stewart |
-| 1463 | 47 | Kaity Cody |
+| 1460 | 47 | Amanda |
+| 1461 | 47 | ToneDeaf |
+| 1462 | 47 | Kaity Cody |
+| 1463 | 47 | Jim Stewart |
 | 1464 | 46 | Bindi |
 | 1465 | 46 | STRay |
 | 1466 | 46 | Judea Leblanc |
@@ -1476,39 +1476,39 @@
 | 1468 | 46 | A La |
 | 1469 | 46 | Epic Curver |
 | 1470 | 46 | Gerald Lew |
-| 1471 | 46 | Lazy Risepiece |
-| 1472 | 45 | Kim Miller |
-| 1473 | 45 | Kristie ML SneekaPuff |
+| 1471 | 46 | Mandie Torres |
+| 1472 | 46 | Lazy Risepiece |
+| 1473 | 45 | Kim Miller |
 | 1474 | 45 | Karen Gilbertson |
-| 1475 | 45 | Teresa Lescinskas |
-| 1476 | 45 | Goodie |
-| 1477 | 45 | Cherise Maxwell |
-| 1478 | 45 | Angela Correa |
-| 1479 | 45 | Jt Home |
-| 1480 | 45 | Jess Moore |
-| 1481 | 45 | Karla Humphry |
-| 1482 | 45 | Jennifer O'Connell |
-| 1483 | 45 | BurnedCrab52 |
-| 1484 | 45 | Antoinette Rodgers |
-| 1485 | 44 | Mayleen Delgado |
-| 1486 | 44 | Mighty Clicky |
-| 1487 | 44 | Mandie Torres |
+| 1475 | 45 | Kristie ML SneekaPuff |
+| 1476 | 45 | Teresa Lescinskas |
+| 1477 | 45 | Goodie |
+| 1478 | 45 | Cherise Maxwell |
+| 1479 | 45 | Antoinette Rodgers |
+| 1480 | 45 | Angela Correa |
+| 1481 | 45 | Jt Home |
+| 1482 | 45 | Jess Moore |
+| 1483 | 45 | Karla Humphry |
+| 1484 | 45 | BurnedCrab52 |
+| 1485 | 45 | Jennifer O'Connell |
+| 1486 | 44 | Chyla Burns |
+| 1487 | 44 | Mighty Clicky |
 | 1488 | 44 | EJ Frazier |
-| 1489 | 44 | Lizzie McGuire |
-| 1490 | 44 | Kahlani Baird |
+| 1489 | 44 | Kahlani Baird |
+| 1490 | 44 | Lizzie McGuire |
 | 1491 | 44 | Kimmie Warren |
 | 1492 | 44 | SweetChaos |
-| 1493 | 44 | Angel |
-| 1494 | 44 | Cauntay Youngking Williams |
-| 1495 | 44 | Michael J A Moore |
+| 1493 | 44 | Mayleen Delgado |
+| 1494 | 44 | Angel |
+| 1495 | 44 | Cauntay Youngking Williams |
 | 1496 | 44 | Sharron Mullins |
-| 1497 | 44 | Chyla Burns |
+| 1497 | 44 | Michael J A Moore |
 | 1498 | 43 | BlockFlakes |
 | 1499 | 43 | Christopher Ponceja |
 | 1500 | 43 | Janae Gregory |
-| 1501 | 43 | Amina Walker |
-| 1502 | 43 | Lin Ferguson |
-| 1503 | 43 | Sprout |
+| 1501 | 43 | Sprout |
+| 1502 | 43 | Amina Walker |
+| 1503 | 43 | Lin Ferguson |
 | 1504 | 42 | Austin Tan |
 | 1505 | 42 | Mounique Melenciano |
 | 1506 | 42 | Melani Hajny |
