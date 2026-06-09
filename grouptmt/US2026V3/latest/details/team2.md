@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 16:24:45 UTC
+# Standings for team2 as of 2026-06-09 16:25:23 UTC
 
 **Total Participants:** 2528
 
@@ -191,9 +191,9 @@
 | 183 | 778 | Crystal Allen |
 | 184 | 772 | Joslyn Johnson |
 | 185 | 771 | Tami Kay Williams Watson |
-| 186 | 770 | MegaPooh |
-| 187 | 770 | Rhonda Diebold |
-| 188 | 770 | Jamie Jones |
+| 186 | 770 | Jamie Jones |
+| 187 | 770 | MegaPooh |
+| 188 | 770 | Rhonda Diebold |
 | 189 | 757 | Danielle Blount |
 | 190 | 756 | SEH |
 | 191 | 755 | Carebear05 |
@@ -207,14 +207,14 @@
 | 199 | 722 | Becca Marie |
 | 200 | 721 | Cool Climber |
 | 201 | 721 | Nikki Carter |
-| 202 | 714 | Kellie Sharp Godfrey |
-| 203 | 711 | Kevin Mccoy |
-| 204 | 710 | Jat |
-| 205 | 710 | Brenda Jones |
-| 206 | 702 | Sully |
-| 207 | 702 | Nutty Curver |
-| 208 | 701 | Sarina Vollink |
-| 209 | 699 | Theresa Hollinger |
+| 202 | 719 | Theresa Hollinger |
+| 203 | 714 | Kellie Sharp Godfrey |
+| 204 | 711 | Kevin Mccoy |
+| 205 | 710 | Jat |
+| 206 | 710 | Brenda Jones |
+| 207 | 702 | Sully |
+| 208 | 702 | Nutty Curver |
+| 209 | 701 | Sarina Vollink |
 | 210 | 693 | Michelle Luke Banta |
 | 211 | 692 | DukeDino |
 | 212 | 686 | Milad Arzani |
@@ -428,8 +428,8 @@
 | 420 | 362 | Jessica Christine |
 | 421 | 362 | Dad |
 | 422 | 362 | Jimmy Francis Shasta Bambi |
-| 423 | 361 | Jennifer Lalk |
-| 424 | 361 | Bianca Woodruff |
+| 423 | 361 | Bianca Woodruff |
+| 424 | 361 | Jennifer Lalk |
 | 425 | 361 | Brittney Williams |
 | 426 | 360 | andee |
 | 427 | 360 | MUMBLES |
@@ -439,21 +439,21 @@
 | 431 | 359 | TiffTaff |
 | 432 | 358 | Rob Owens |
 | 433 | 357 | Mandy Van Laningham Bishop |
-| 434 | 357 | Smiley Staggerpiece |
-| 435 | 356 | KayLynn Ogden McClelland |
-| 436 | 356 | Paula Haskins |
-| 437 | 355 | Boldy Wobbler |
+| 434 | 357 | Wacky Stack |
+| 435 | 357 | Smiley Staggerpiece |
+| 436 | 356 | KayLynn Ogden McClelland |
+| 437 | 356 | Paula Haskins |
 | 438 | 355 | Liseth Vasquez |
-| 439 | 354 | Maria Ward |
-| 440 | 352 | Snappy Combo |
-| 441 | 350 | Marge Cromer |
-| 442 | 350 | Starvinmarvin |
-| 443 | 349 | Sarah Grundisch |
-| 444 | 349 | Jessica Connot |
-| 445 | 348 | KazzyKay |
-| 446 | 348 | Sandra Ruiz |
-| 447 | 347 | Melisa |
-| 448 | 347 | Wacky Stack |
+| 439 | 355 | Boldy Wobbler |
+| 440 | 354 | Maria Ward |
+| 441 | 352 | Snappy Combo |
+| 442 | 350 | Marge Cromer |
+| 443 | 350 | Starvinmarvin |
+| 444 | 349 | Sarah Grundisch |
+| 445 | 349 | Jessica Connot |
+| 446 | 348 | KazzyKay |
+| 447 | 348 | Sandra Ruiz |
+| 448 | 347 | Melisa |
 | 449 | 345 | Jennifer McCloskey Launder |
 | 450 | 345 | Carolyn McNaughton |
 | 451 | 344 | Leticia Tillman |
@@ -882,9 +882,9 @@
 | 874 | 173 | Tami Weiss |
 | 875 | 173 | Chirpy Combofall |
 | 876 | 173 | Groovy Glider |
-| 877 | 172 | Duck |
-| 878 | 172 | Pat Smits |
-| 879 | 171 | John Perkins |
+| 877 | 172 | John Perkins |
+| 878 | 172 | Duck |
+| 879 | 172 | Pat Smits |
 | 880 | 171 | Morgan Olson Pingree |
 | 881 | 171 | Mary Stump |
 | 882 | 170 | Frisky Tiltgrid |
