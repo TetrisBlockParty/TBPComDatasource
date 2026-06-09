@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:38:44 UTC
+# Standings for team1 as of 2026-06-09 15:39:22 UTC
 
 **Total Participants:** 2069
 
@@ -66,7 +66,7 @@
 | 58 | 1822 | D'Andra Stewart |
 | 59 | 1809 | Louis Richard Jr |
 | 60 | 1789 | Jolly Dropzone |
-| 61 | 1683 | Jacoby E Fleming |
+| 61 | 1710 | Jacoby E Fleming |
 | 62 | 1659 | Moomoo |
 | 63 | 1642 | TAZ-MF-NIZIL |
 | 64 | 1608 | Blockhead |
@@ -435,30 +435,30 @@
 | 427 | 287 | Stephen Glaze |
 | 428 | 287 | Charlene Baltimore |
 | 429 | 287 | Daniel Santana |
-| 430 | 286 | De'Mear McKinney |
-| 431 | 286 | Saucy Faller |
-| 432 | 286 | Lyn Reed |
+| 430 | 286 | Saucy Faller |
+| 431 | 286 | Lyn Reed |
+| 432 | 286 | De'Mear McKinney |
 | 433 | 285 | EvaLynn NeCole |
 | 434 | 284 | Faith Armone |
-| 435 | 283 | Kristine Marie Palmer |
-| 436 | 283 | CJ Robinson |
-| 437 | 283 | Tosha Michelle |
+| 435 | 283 | CJ Robinson |
+| 436 | 283 | Tosha Michelle |
+| 437 | 283 | Kristine Marie Palmer |
 | 438 | 282 | Eric Spencer Whitaker |
 | 439 | 282 | C Lo Green |
-| 440 | 280 | Teri Marie Clayton |
-| 441 | 280 | Boldy Liner |
+| 440 | 280 | Boldy Liner |
+| 441 | 280 | Teri Marie Clayton |
 | 442 | 279 | MACHETEEDDIE513 |
 | 443 | 279 | Chandler Magee |
 | 444 | 278 | Latore Maxie |
 | 445 | 278 | Cheri Robinson |
 | 446 | 278 | Ladybug |
-| 447 | 277 | Bambi Johnson |
-| 448 | 277 | Shea Ladynick Henderson |
-| 449 | 275 | Falisa Bell |
-| 450 | 275 | Chris Sladoje |
-| 451 | 275 | Nona Harriel |
-| 452 | 274 | 신재호 |
-| 453 | 274 | Stacy Nicole |
+| 447 | 277 | Shea Ladynick Henderson |
+| 448 | 277 | Bambi Johnson |
+| 449 | 275 | Stacy Nicole |
+| 450 | 275 | Falisa Bell |
+| 451 | 275 | Chris Sladoje |
+| 452 | 275 | Nona Harriel |
+| 453 | 274 | 신재호 |
 | 454 | 274 | Shakmar |
 | 455 | 274 | FunTime |
 | 456 | 272 | MonaSparks |
@@ -472,8 +472,8 @@
 | 464 | 266 | Valerie Alexander |
 | 465 | 266 | Rebecca Jackson |
 | 466 | 265 | Matthieu Pistone |
-| 467 | 265 | Juan Alvarez |
-| 468 | 265 | Christi Walker Patton |
+| 467 | 265 | Christi Walker Patton |
+| 468 | 265 | Juan Alvarez |
 | 469 | 264 | Boldy Matchbuilder |
 | 470 | 263 | Tonia Ramos |
 | 471 | 263 | Kamilya Rembert |
@@ -1056,12 +1056,12 @@
 | 1048 | 98 | Letrishia Andrews |
 | 1049 | 98 | Dee Dee |
 | 1050 | 98 | Azeiare Ziare |
-| 1051 | 98 | Cheery T-spin |
-| 1052 | 98 | Wacky Spinfit |
-| 1053 | 98 | Xrandomx |
-| 1054 | 97 | Quwana Hall |
-| 1055 | 97 | Kanesha Jackson |
-| 1056 | 97 | Elaine Youmans |
+| 1051 | 98 | Elaine Youmans |
+| 1052 | 98 | Cheery T-spin |
+| 1053 | 98 | Wacky Spinfit |
+| 1054 | 98 | Xrandomx |
+| 1055 | 97 | Quwana Hall |
+| 1056 | 97 | Kanesha Jackson |
 | 1057 | 97 | MikeHunt |
 | 1058 | 97 | Teisha Scott |
 | 1059 | 96 | Brandi M. Boney |
@@ -1343,50 +1343,50 @@
 | 1335 | 55 | Frilly Riserbuilder |
 | 1336 | 54 | Kallsign |
 | 1337 | 54 | Lush Crasher |
-| 1338 | 54 | Maranda Broadway |
-| 1339 | 54 | Jaay Bender |
+| 1338 | 54 | Jaay Bender |
+| 1339 | 54 | Maranda Broadway |
 | 1340 | 54 | Tammy Scott Mallen |
 | 1341 | 54 | Beautiful314 |
 | 1342 | 54 | Sassy Wipeblock |
-| 1343 | 54 | Mrs |
-| 1344 | 54 | Embracing Hair |
-| 1345 | 54 | deeno |
-| 1346 | 54 | Ķïrãã Ďãvïss |
-| 1347 | 54 | Michael Jones |
-| 1348 | 54 | Giggy Holder |
-| 1349 | 54 | MoneyMac |
-| 1350 | 54 | Christina Wesley |
-| 1351 | 53 | Michael Lindenlauf |
-| 1352 | 53 | Angela C. |
-| 1353 | 53 | Chinkey Overit |
-| 1354 | 53 | don ralph |
-| 1355 | 53 | Sashaleo |
-| 1356 | 53 | Kenneth Williams |
-| 1357 | 53 | Adonai Saves |
-| 1358 | 52 | Loopy Risepiece |
-| 1359 | 52 | MsBobby Patrick |
-| 1360 | 52 | Chummy Liner |
-| 1361 | 52 | Amber Interrobang |
-| 1362 | 52 | L-Kamice Boykin |
-| 1363 | 51 | Quirky Spinblock |
-| 1364 | 51 | Madam Suki |
-| 1365 | 51 | Danielle Marie Lewis |
-| 1366 | 51 | Aridevina |
-| 1367 | 51 | Emeka Agu |
-| 1368 | 51 | Michelle Stottlemyer |
-| 1369 | 51 | Austin Smith |
+| 1343 | 54 | Embracing Hair |
+| 1344 | 54 | Mrs |
+| 1345 | 54 | Ķïrãã Ďãvïss |
+| 1346 | 54 | deeno |
+| 1347 | 54 | LOVE |
+| 1348 | 54 | Michael Jones |
+| 1349 | 54 | Giggy Holder |
+| 1350 | 54 | MoneyMac |
+| 1351 | 54 | Christina Wesley |
+| 1352 | 53 | Michael Lindenlauf |
+| 1353 | 53 | Angela C. |
+| 1354 | 53 | Chinkey Overit |
+| 1355 | 53 | don ralph |
+| 1356 | 53 | Sashaleo |
+| 1357 | 53 | Kenneth Williams |
+| 1358 | 53 | Adonai Saves |
+| 1359 | 52 | Loopy Risepiece |
+| 1360 | 52 | MsBobby Patrick |
+| 1361 | 52 | Chummy Liner |
+| 1362 | 52 | Amber Interrobang |
+| 1363 | 52 | L-Kamice Boykin |
+| 1364 | 51 | Quirky Spinblock |
+| 1365 | 51 | Madam Suki |
+| 1366 | 51 | Danielle Marie Lewis |
+| 1367 | 51 | Kennita Leach Woodard |
+| 1368 | 51 | Aridevina |
+| 1369 | 51 | Emeka Agu |
 | 1370 | 51 | Laura |
-| 1371 | 51 | Kennita Leach Woodard |
+| 1371 | 51 | Austin Smith |
 | 1372 | 51 | SpeedyJas |
-| 1373 | 51 | Jakari Wool |
-| 1374 | 50 | Douglas Jones |
-| 1375 | 50 | Skye |
-| 1376 | 50 | Terry Lee Moya |
-| 1377 | 50 | Darlene Johnson |
-| 1378 | 50 | Keia Price |
-| 1379 | 50 | Speedy Patternblock |
-| 1380 | 50 | BADBOY658 |
-| 1381 | 50 | LOVE |
+| 1373 | 51 | Michelle Stottlemyer |
+| 1374 | 51 | Jakari Wool |
+| 1375 | 50 | Douglas Jones |
+| 1376 | 50 | Skye |
+| 1377 | 50 | Terry Lee Moya |
+| 1378 | 50 | Darlene Johnson |
+| 1379 | 50 | Keia Price |
+| 1380 | 50 | Speedy Patternblock |
+| 1381 | 50 | BADBOY658 |
 | 1382 | 50 | Aero Builder |
 | 1383 | 50 | TrapQween39Bi |
 | 1384 | 50 | J Dot Flo |
