@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 13:36:42 UTC
+# Standings for team4 as of 2026-06-09 13:37:21 UTC
 
 **Total Participants:** 2107
 
@@ -28,9 +28,9 @@
 | 20 | 6121 | Nia Mayfield |
 | 21 | 6018 | Bubbly Twistpiece |
 | 22 | 5552 | Tyra Brooke Everman Forest |
-| 23 | 5113 | Squirrel Donkey |
-| 24 | 5089 | Ning Quiambao |
-| 25 | 5074 | Cal Renee |
+| 23 | 5274 | Cal Renee |
+| 24 | 5113 | Squirrel Donkey |
+| 25 | 5089 | Ning Quiambao |
 | 26 | 4613 | Irene Arreguin |
 | 27 | 4548 | Jackie Lucas |
 | 28 | 4396 | Chummy Rollzone |
@@ -70,9 +70,9 @@
 | 62 | 1940 | Nick Graber |
 | 63 | 1929 | Erin Figone |
 | 64 | 1920 | Alyssa Oth |
-| 65 | 1847 | Dheeh Robles |
-| 66 | 1835 | Sassy Column |
-| 67 | 1797 | JayJay Smith |
+| 65 | 1857 | JayJay Smith |
+| 66 | 1847 | Dheeh Robles |
+| 67 | 1835 | Sassy Column |
 | 68 | 1774 | Damon Gaston |
 | 69 | 1771 | Keg |
 | 70 | 1638 | Joseph Anthony Watkins |
@@ -1141,10 +1141,10 @@
 | 1133 | 89 | Lauren Zubia Sanchez |
 | 1134 | 89 | Catherine Garza |
 | 1135 | 89 | Nachos |
-| 1136 | 88 | Amowe |
-| 1137 | 88 | Tbag |
-| 1138 | 88 | Ali Garcia |
-| 1139 | 88 | Koren Heersink |
+| 1136 | 89 | Koren Heersink |
+| 1137 | 88 | Amowe |
+| 1138 | 88 | Tbag |
+| 1139 | 88 | Ali Garcia |
 | 1140 | 88 | Happy Toast |
 | 1141 | 88 | Lateasha Wildman |
 | 1142 | 88 | MrsAddams724 |
