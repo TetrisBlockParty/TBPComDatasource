@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:15:22 UTC
+# Standings for team1 as of 2026-06-09 10:16:44 UTC
 
 **Total Participants:** 2035
 
@@ -39,8 +39,8 @@
 | 31 | 3543 | Juan Kandiss Escobedo Irwin |
 | 32 | 3301 | Yolanda McDonald |
 | 33 | 3163 | Sha Harris |
-| 34 | 2755 | COSA303 |
-| 35 | 2753 | Brian Stackhouse |
+| 34 | 2763 | Brian Stackhouse |
+| 35 | 2755 | COSA303 |
 | 36 | 2619 | Zappy Brickline |
 | 37 | 2619 | Weeze |
 | 38 | 2433 | Jamie Willis |
@@ -93,7 +93,7 @@
 | 85 | 1253 | Moomoo |
 | 86 | 1243 | PandaPrincess |
 | 87 | 1237 | La'Chae Nickole |
-| 88 | 1224 | Jason Mungin |
+| 88 | 1230 | Jason Mungin |
 | 89 | 1217 | Catara Renae Oliver |
 | 90 | 1208 | Aviv Zehavi |
 | 91 | 1206 | BYM4L |
