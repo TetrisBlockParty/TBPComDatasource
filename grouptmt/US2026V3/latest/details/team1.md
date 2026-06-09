@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 22:42:43 UTC
+# Standings for team1 as of 2026-06-09 22:43:22 UTC
 
 **Total Participants:** 2127
 
@@ -26,8 +26,8 @@
 | 18 | 5828 | Hunter Rayborn |
 | 19 | 5773 | Cool Bridger |
 | 20 | 5678 | Jocelyn Pope-Sewell |
-| 21 | 5282 | Plucky Swipe |
-| 22 | 5278 | jaimie |
+| 21 | 5288 | jaimie |
+| 22 | 5282 | Plucky Swipe |
 | 23 | 5155 | Ivana Schmidt |
 | 24 | 5134 | Pdubbl3 |
 | 25 | 4795 | Tekedra Wilson |
@@ -51,10 +51,10 @@
 | 43 | 2375 | JoJo |
 | 44 | 2370 | Therealdywoune Peay |
 | 45 | 2233 | Jennifer To |
-| 46 | 2203 | BlackQueen105 |
-| 47 | 2184 | Shortstak |
-| 48 | 2181 | Mimi 1.0 |
-| 49 | 2172 | Chill Clusterer |
+| 46 | 2207 | Chill Clusterer |
+| 47 | 2203 | BlackQueen105 |
+| 48 | 2184 | Shortstak |
+| 49 | 2181 | Mimi 1.0 |
 | 50 | 2138 | Linzie Marie |
 | 51 | 2135 | Brian Bohanon II |
 | 52 | 2082 | D'Andra Stewart |
@@ -112,14 +112,14 @@
 | 104 | 1198 | KenpachisGirl |
 | 105 | 1189 | Kimberly Hernandez |
 | 106 | 1170 | Jonathan Vee Jay |
-| 107 | 1169 | Amalie Newvine |
-| 108 | 1164 | Tootsie Pop |
-| 109 | 1149 | Jazzy Dashpiece |
-| 110 | 1145 | ELM |
-| 111 | 1129 | G Ah Mayes |
-| 112 | 1121 | Lisa Müller |
-| 113 | 1120 | IamJust Neyamijah Washington Sr. |
-| 114 | 1114 | Rolanda Williams |
+| 107 | 1170 | Rolanda Williams |
+| 108 | 1169 | Amalie Newvine |
+| 109 | 1164 | Tootsie Pop |
+| 110 | 1149 | Jazzy Dashpiece |
+| 111 | 1145 | ELM |
+| 112 | 1131 | G Ah Mayes |
+| 113 | 1121 | Lisa Müller |
+| 114 | 1120 | IamJust Neyamijah Washington Sr. |
 | 115 | 1079 | Tameka Jones |
 | 116 | 1075 | Shellzb Roberts |
 | 117 | 1050 | Jaida King |
@@ -169,8 +169,8 @@
 | 161 | 765 | Ann White |
 | 162 | 765 | Antonia Wyche |
 | 163 | 760 | Trendalyn Webb |
-| 164 | 758 | Andi McGreevy |
-| 165 | 758 | JaszyBadd |
+| 164 | 758 | JaszyBadd |
+| 165 | 758 | Andi McGreevy |
 | 166 | 754 | Jhaime |
 | 167 | 749 | Dulo |
 | 168 | 749 | sha |
@@ -180,8 +180,8 @@
 | 172 | 730 | ing410 |
 | 173 | 729 | Ottison Dianna |
 | 174 | 728 | Katherine Short |
-| 175 | 728 | Karebear |
-| 176 | 728 | Gael Quintana |
+| 175 | 728 | Gael Quintana |
+| 176 | 728 | Karebear |
 | 177 | 726 | Byron Mario Cawthon |
 | 178 | 719 | Dena Marie Lee |
 | 179 | 700 | Nerdy Blockpiece |
@@ -203,9 +203,9 @@
 | 195 | 652 | Trina Greenwood |
 | 196 | 646 | TeeMaster Barber IsLyfe |
 | 197 | 641 | Rachel Zimmerman |
-| 198 | 640 | Spicy Risepiece |
-| 199 | 639 | Block King |
-| 200 | 637 | Elizabeth Vega Coreano |
+| 198 | 640 | Elizabeth Vega Coreano |
+| 199 | 640 | Spicy Risepiece |
+| 200 | 639 | Block King |
 | 201 | 630 | Bambi Love |
 | 202 | 630 | SyTheEvilGenius1 |
 | 203 | 623 | Sarah Clark |
@@ -484,13 +484,13 @@
 | 476 | 286 | Saucy Faller |
 | 477 | 286 | Shelly Everette |
 | 478 | 285 | EvaLynn NeCole |
-| 479 | 283 | Tosha Michelle |
-| 480 | 282 | Perky Pusher |
-| 481 | 282 | Bambam |
-| 482 | 282 | C Lo Green |
-| 483 | 280 | Boldy Liner |
-| 484 | 280 | Teri Marie Clayton |
-| 485 | 280 | Nora Mahmoud |
+| 479 | 284 | Nora Mahmoud |
+| 480 | 283 | Tosha Michelle |
+| 481 | 282 | Perky Pusher |
+| 482 | 282 | Bambam |
+| 483 | 282 | C Lo Green |
+| 484 | 280 | Boldy Liner |
+| 485 | 280 | Teri Marie Clayton |
 | 486 | 279 | Slinky Clearzone |
 | 487 | 279 | Chandler Magee |
 | 488 | 278 | Nona Harriel |
@@ -530,9 +530,9 @@
 | 522 | 260 | Spotlight |
 | 523 | 260 | Twisty Brickfit |
 | 524 | 257 | Adrian Harris |
-| 525 | 257 | ChunLi |
-| 526 | 257 | Abigail Newman Sweet |
-| 527 | 256 | AnnaM |
+| 525 | 257 | AnnaM |
+| 526 | 257 | ChunLi |
+| 527 | 257 | Abigail Newman Sweet |
 | 528 | 256 | Dreamzzz |
 | 529 | 255 | Michelle Peters |
 | 530 | 255 | Mister Reid |
@@ -910,54 +910,54 @@
 | 902 | 136 | Kàrma Lee |
 | 903 | 136 | Rissa Rozay |
 | 904 | 136 | Smiley Bridgepiece |
-| 905 | 135 | Silly Edgepiece |
-| 906 | 135 | Chanel White |
+| 905 | 135 | Saucy Tile |
+| 906 | 135 | Silly Edgepiece |
 | 907 | 135 | Paul Pendley |
-| 908 | 135 | Saucy Tile |
+| 908 | 135 | Chanel White |
 | 909 | 135 | Kyle Franklin |
 | 910 | 135 | Mellie Mel |
 | 911 | 134 | Ernie Waters |
-| 912 | 134 | Twisty Dashy |
-| 913 | 134 | Laurie Napper |
+| 912 | 134 | Laurie Napper |
+| 913 | 134 | Twisty Dashy |
 | 914 | 133 | Spadez1231 |
 | 915 | 133 | Derald Miller |
 | 916 | 133 | Hoppy Rumbler |
 | 917 | 132 | Aanngie Aanngie |
 | 918 | 132 | Shauntai Holiday |
-| 919 | 131 | Yellowbone |
-| 920 | 130 | West Racks |
-| 921 | 130 | Daphne Ceasar |
-| 922 | 130 | Sarah Guarino |
+| 919 | 131 | Jumpy Gridlock |
+| 920 | 131 | Yellowbone |
+| 921 | 130 | West Racks |
+| 922 | 130 | Daphne Ceasar |
 | 923 | 130 | Terrance Tindall |
-| 924 | 130 | Anthony Collins |
-| 925 | 130 | Gerold Folk Haddock |
-| 926 | 130 | Jessica Davis |
-| 927 | 129 | Chino Baby |
-| 928 | 129 | Desiree Ryder |
-| 929 | 129 | Mumitt |
-| 930 | 128 | Katness |
-| 931 | 128 | Stef Hu |
-| 932 | 128 | Brittany Britkany Marsden-Garrison |
-| 933 | 127 | Barbramerri Tarboro |
+| 924 | 130 | Sarah Guarino |
+| 925 | 130 | Anthony Collins |
+| 926 | 130 | Gerold Folk Haddock |
+| 927 | 130 | Jessica Davis |
+| 928 | 129 | Chino Baby |
+| 929 | 129 | Desiree Ryder |
+| 930 | 129 | Mumitt |
+| 931 | 128 | Katness |
+| 932 | 128 | Stef Hu |
+| 933 | 128 | Brittany Britkany Marsden-Garrison |
 | 934 | 127 | Esha I'msoproudofmyself Davis |
-| 935 | 127 | Meepycat |
-| 936 | 127 | Jumpy Gridlock |
+| 935 | 127 | Barbramerri Tarboro |
+| 936 | 127 | Meepycat |
 | 937 | 127 | Ebby |
 | 938 | 127 | Pretty Yella |
 | 939 | 126 | Marc Papa |
-| 940 | 126 | Latoya Carson |
-| 941 | 126 | Benjamin Livingston |
-| 942 | 126 | Elaine Pauley |
+| 940 | 126 | Sally Elizabeth Hopson |
+| 941 | 126 | Latoya Carson |
+| 942 | 126 | Benjamin Livingston |
 | 943 | 126 | Kahh |
-| 944 | 126 | Sally Elizabeth Hopson |
+| 944 | 126 | Elaine Pauley |
 | 945 | 125 | Latanya Gayle |
 | 946 | 125 | Lucy Range |
-| 947 | 124 | Kathleen Boyles |
+| 947 | 124 | Tyrone Porter |
 | 948 | 124 | Franklin Sotelo |
-| 949 | 124 | Tyrone Porter |
+| 949 | 124 | Kathleen Boyles |
 | 950 | 124 | Willson06 |
-| 951 | 123 | Tia Hazelton |
-| 952 | 123 | Tanesha Ga'sFinest Corbett |
+| 951 | 123 | Tanesha Ga'sFinest Corbett |
+| 952 | 123 | Tia Hazelton |
 | 953 | 123 | Angela L Charles |
 | 954 | 123 | Dannie |
 | 955 | 123 | April Lane |
