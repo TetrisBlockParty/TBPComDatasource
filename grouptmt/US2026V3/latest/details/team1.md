@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:10:43 UTC
+# Standings for team1 as of 2026-06-09 10:11:23 UTC
 
 **Total Participants:** 2034
 
@@ -371,9 +371,9 @@
 | 363 | 314 | Tay |
 | 364 | 314 | Tonya McElroy |
 | 365 | 314 | Rayya Kiser |
-| 366 | 312 | Shanns |
-| 367 | 311 | Cynthia Bradley |
-| 368 | 310 | Jae Thompson-Tyus |
+| 366 | 313 | Jae Thompson-Tyus |
+| 367 | 312 | Shanns |
+| 368 | 311 | Cynthia Bradley |
 | 369 | 308 | Darrel K Pemberton |
 | 370 | 308 | MindlessMic |
 | 371 | 307 | Wayne Savannah |

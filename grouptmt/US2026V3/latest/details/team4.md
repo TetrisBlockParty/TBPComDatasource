@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:10:43 UTC
+# Standings for team4 as of 2026-06-09 10:11:23 UTC
 
 **Total Participants:** 2091
 
@@ -525,14 +525,14 @@
 | 517 | 224 | Big Dooka |
 | 518 | 223 | Playa |
 | 519 | 222 | Maria Munoz |
-| 520 | 222 | Casey Thomas |
-| 521 | 222 | Jennifer Fisher Franklin |
-| 522 | 221 | Butterfly |
-| 523 | 220 | Goofy Linkmatch |
-| 524 | 220 | Jimmy Clark |
-| 525 | 220 | Mrs |
-| 526 | 219 | Miss Beast |
-| 527 | 219 | Jennifer Evans Elliott |
+| 520 | 222 | Jennifer Evans Elliott |
+| 521 | 222 | Casey Thomas |
+| 522 | 222 | Jennifer Fisher Franklin |
+| 523 | 221 | Butterfly |
+| 524 | 220 | Goofy Linkmatch |
+| 525 | 220 | Jimmy Clark |
+| 526 | 220 | Mrs |
+| 527 | 219 | Miss Beast |
 | 528 | 218 | Lani |
 | 529 | 217 | Saucy Brickmatch |
 | 530 | 216 | Travis McKinnon |
@@ -1222,29 +1222,29 @@
 | 1214 | 75 | Jeremy Fisher |
 | 1215 | 75 | Kay |
 | 1216 | 75 | Marco A. Sandoval |
-| 1217 | 74 | Brittany |
-| 1218 | 74 | Danielle Porter |
-| 1219 | 74 | Katherine Stec |
-| 1220 | 74 | David Kirschner |
-| 1221 | 74 | Shane Tate |
-| 1222 | 74 | Chirpy Corner |
+| 1217 | 74 | Chirpy Corner |
+| 1218 | 74 | Brittany |
+| 1219 | 74 | Danielle Porter |
+| 1220 | 74 | Katherine Stec |
+| 1221 | 74 | David Kirschner |
+| 1222 | 74 | Shane Tate |
 | 1223 | 74 | Kristie McFarland |
 | 1224 | 74 | Donna Howard |
-| 1225 | 73 | Yseoj M. Zurc |
-| 1226 | 73 | Jacqueline Couillard Jaeger |
-| 1227 | 73 | Bo Hagan |
+| 1225 | 73 | Bo Hagan |
+| 1226 | 73 | Yseoj M. Zurc |
+| 1227 | 73 | Jacqueline Couillard Jaeger |
 | 1228 | 72 | Bridget Reilly |
 | 1229 | 72 | Clever Linkfall |
-| 1230 | 72 | Kassey M. Clark |
-| 1231 | 72 | Martha Fisher |
-| 1232 | 71 | ImagineKaijus |
-| 1233 | 71 | Bouncy Blockclear |
-| 1234 | 71 | Pink Tetramino |
-| 1235 | 71 | Monique Kitzmiller |
-| 1236 | 71 | Jessica Armistead |
-| 1237 | 71 | Sydney Taylor Sileno |
-| 1238 | 71 | Hyper Snaplink |
-| 1239 | 71 | Baby cat |
+| 1230 | 72 | Martha Fisher |
+| 1231 | 72 | Baby cat |
+| 1232 | 72 | Kassey M. Clark |
+| 1233 | 71 | Pink Tetramino |
+| 1234 | 71 | ImagineKaijus |
+| 1235 | 71 | Bouncy Blockclear |
+| 1236 | 71 | Monique Kitzmiller |
+| 1237 | 71 | Jessica Armistead |
+| 1238 | 71 | Sydney Taylor Sileno |
+| 1239 | 71 | Hyper Snaplink |
 | 1240 | 70 | Ryan Luperena |
 | 1241 | 70 | Jada Jordyn Campbell |
 | 1242 | 70 | T boo |
