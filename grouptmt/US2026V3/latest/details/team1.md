@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:48:44 UTC
+# Standings for team1 as of 2026-06-09 19:49:22 UTC
 
 **Total Participants:** 2107
 
@@ -1247,13 +1247,13 @@
 | 1239 | 72 | ImmeKC |
 | 1240 | 72 | tskmstr |
 | 1241 | 72 | Warren Miller |
-| 1242 | 72 | Chummy Liner |
-| 1243 | 71 | Janice Mowel Curtiss |
-| 1244 | 71 | Joseph Ware Jr. |
-| 1245 | 71 | Zany Pivot |
-| 1246 | 70 | JoZanna Washington |
+| 1242 | 72 | Vortex Viniq |
+| 1243 | 72 | Chummy Liner |
+| 1244 | 71 | Janice Mowel Curtiss |
+| 1245 | 71 | Joseph Ware Jr. |
+| 1246 | 71 | Zany Pivot |
 | 1247 | 70 | Eli Delao |
-| 1248 | 70 | Vortex Viniq |
+| 1248 | 70 | JoZanna Washington |
 | 1249 | 70 | B |
 | 1250 | 70 | Alison Emmons |
 | 1251 | 70 | Leon Brown III |
