@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:42:22 UTC
+# Standings for team1 as of 2026-06-09 09:42:46 UTC
 
 **Total Participants:** 2028
 
@@ -790,64 +790,64 @@
 | 782 | 139 | Kike Lua |
 | 783 | 139 | Naee Bee |
 | 784 | 139 | Sunny Clicky |
-| 785 | 139 | Antoinette Kelly |
-| 786 | 139 | Lexx Robins |
-| 787 | 138 | Kizzy Clark |
-| 788 | 138 | Morenita Rodriguez |
-| 789 | 138 | Christy Quick |
-| 790 | 138 | Jazzy Bridger |
-| 791 | 138 | Rene Hicks |
-| 792 | 138 | messyboots |
+| 785 | 139 | Lexx Robins |
+| 786 | 139 | Antoinette Kelly |
+| 787 | 138 | Christy Quick |
+| 788 | 138 | Jazzy Bridger |
+| 789 | 138 | Morenita Rodriguez |
+| 790 | 138 | Rene Hicks |
+| 791 | 138 | messyboots |
+| 792 | 138 | Kizzy Clark |
 | 793 | 137 | Xana Zania Bopp |
-| 794 | 137 | Lootch |
+| 794 | 137 | Angelique Talbot |
 | 795 | 137 | Tina Blessed Cage |
-| 796 | 137 | Angelique Talbot |
-| 797 | 136 | Rissa Rozay |
-| 798 | 136 | Christopher Shaw-Black |
-| 799 | 136 | Chereese Harris |
-| 800 | 135 | Mellie Mel |
-| 801 | 135 | Chanel White |
-| 802 | 135 | Paul Pendley |
-| 803 | 135 | Laysa Nunez |
-| 804 | 135 | Saucy Tile |
-| 805 | 134 | Bouncy Glide |
-| 806 | 134 | Laurie Napper |
-| 807 | 134 | Chris Nelson |
+| 796 | 137 | Lootch |
+| 797 | 136 | Chereese Harris |
+| 798 | 136 | Rissa Rozay |
+| 799 | 136 | Christopher Shaw-Black |
+| 800 | 135 | Saucy Tile |
+| 801 | 135 | Mellie Mel |
+| 802 | 135 | Laysa Nunez |
+| 803 | 135 | Paul Pendley |
+| 804 | 135 | Chanel White |
+| 805 | 134 | Laurie Napper |
+| 806 | 134 | Chris Nelson |
+| 807 | 134 | Bouncy Glide |
 | 808 | 133 | Derald Miller |
 | 809 | 132 | Desi Guerra |
 | 810 | 132 | TieMs BHughez |
-| 811 | 131 | Koreen Johnson-Woolford |
-| 812 | 131 | Locke Mahal LD |
-| 813 | 131 | Cynthia Cruell |
-| 814 | 131 | Kortney Adams |
-| 815 | 130 | Jessica Davis |
-| 816 | 130 | Gerold Folk Haddock |
+| 811 | 131 | Locke Mahal LD |
+| 812 | 131 | Kortney Adams |
+| 813 | 131 | Koreen Johnson-Woolford |
+| 814 | 131 | Cynthia Cruell |
+| 815 | 130 | Anthony Collins |
+| 816 | 130 | Jessica Davis |
 | 817 | 130 | Tito Divyn |
-| 818 | 130 | Anthony Collins |
+| 818 | 130 | Gerold Folk Haddock |
 | 819 | 129 | Felicia Dungey |
 | 820 | 129 | Twisty Dashy |
-| 821 | 129 | Chino Baby |
-| 822 | 129 | Frilly Shatterline |
-| 823 | 129 | Stronger Wiser Better |
-| 824 | 129 | Williams Candace |
-| 825 | 129 | JesusSaves 😇 |
-| 826 | 129 | Jas |
-| 827 | 128 | Brittany Britkany Marsden-Garrison |
+| 821 | 129 | Terrance Tindall |
+| 822 | 129 | Chino Baby |
+| 823 | 129 | Jas |
+| 824 | 129 | Frilly Shatterline |
+| 825 | 129 | Stronger Wiser Better |
+| 826 | 129 | JesusSaves 😇 |
+| 827 | 129 | Williams Candace |
 | 828 | 128 | Li-Li Ratliff |
-| 829 | 128 | Katness |
-| 830 | 127 | Pretty Yella |
-| 831 | 127 | Terrance Tindall |
-| 832 | 127 | Ashley Davis |
+| 829 | 128 | Brittany Britkany Marsden-Garrison |
+| 830 | 128 | Katness |
+| 831 | 127 | Kashh |
+| 832 | 127 | Pretty Yella |
 | 833 | 127 | Witty Clear |
-| 834 | 127 | Kashh |
-| 835 | 126 | Jess |
-| 836 | 126 | Mom3granny2 |
-| 837 | 126 | Marc Papa |
-| 838 | 126 | Kahh |
+| 834 | 127 | Ashley Davis |
+| 835 | 126 | Marc Papa |
+| 836 | 126 | Jess |
+| 837 | 126 | Mom3granny2 |
+| 838 | 126 | Shawna Passwater |
 | 839 | 126 | Latoya Carson |
-| 840 | 126 | Shawna Passwater |
-| 841 | 126 | Sally Elizabeth Hopson |
-| 842 | 126 | Benjamin Livingston |
+| 840 | 126 | Kahh |
+| 841 | 126 | Benjamin Livingston |
+| 842 | 126 | Sally Elizabeth Hopson |
 | 843 | 126 | Elaine Pauley |
 | 844 | 125 | Oaklonboy mike |
 | 845 | 125 | Jodie |
