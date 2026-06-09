@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 09:33:21 UTC
+# Standings for team4 as of 2026-06-09 09:34:44 UTC
 
 **Total Participants:** 2090
 
@@ -111,10 +111,10 @@
 | 103 | 1032 | Esther Hadassah |
 | 104 | 1032 | Kelly Bernard |
 | 105 | 1021 | Trice Stevenson |
-| 106 | 1008 | Beee |
-| 107 | 1005 | Dandy Puzzler |
-| 108 | 997 | Snappy Fitzone |
-| 109 | 995 | JoLinda Dunn |
+| 106 | 1019 | Dandy Puzzler |
+| 107 | 1015 | JoLinda Dunn |
+| 108 | 1008 | Beee |
+| 109 | 997 | Snappy Fitzone |
 | 110 | 986 | Kim |
 | 111 | 983 | squareMel |
 | 112 | 979 | Heather Preston |
@@ -136,8 +136,8 @@
 | 128 | 864 | Whitborn |
 | 129 | 849 | Gorica Prusina |
 | 130 | 844 | Kay |
-| 131 | 841 | Shiny Dashy |
-| 132 | 841 | Pepone Pepe |
+| 131 | 841 | Pepone Pepe |
+| 132 | 841 | Shiny Dashy |
 | 133 | 837 | Phil Peterson |
 | 134 | 830 | Kitsune Bi |
 | 135 | 829 | GeorgeButts |
@@ -176,28 +176,28 @@
 | 168 | 636 | Shannon Rivera |
 | 169 | 615 | Cinta Marie |
 | 170 | 603 | zoes |
-| 171 | 600 | Suzanne Carter |
-| 172 | 599 | Devinlee Brown |
-| 173 | 599 | Krysten Danielle Richard |
-| 174 | 598 | Katie Lynn Petit |
-| 175 | 593 | Malik Thompson |
-| 176 | 592 | Sarah Berry Stevens |
-| 177 | 588 | Bonnie Powell |
-| 178 | 587 | Megan Vick |
-| 179 | 580 | CIRAZYPNOY |
-| 180 | 577 | Cranky Buildout |
-| 181 | 575 | Beth Belanger |
-| 182 | 563 | Jacqueline Jackii Ramos |
-| 183 | 563 | QueenLi86 |
-| 184 | 559 | Katie Martin |
-| 185 | 557 | Danielle Mitchell |
-| 186 | 555 | Julian Gasque |
+| 171 | 600 | SupaFly |
+| 172 | 600 | Suzanne Carter |
+| 173 | 599 | Devinlee Brown |
+| 174 | 599 | Krysten Danielle Richard |
+| 175 | 598 | Katie Lynn Petit |
+| 176 | 593 | Malik Thompson |
+| 177 | 592 | Sarah Berry Stevens |
+| 178 | 588 | Bonnie Powell |
+| 179 | 587 | Megan Vick |
+| 180 | 580 | CIRAZYPNOY |
+| 181 | 577 | Cranky Buildout |
+| 182 | 575 | Beth Belanger |
+| 183 | 563 | Jacqueline Jackii Ramos |
+| 184 | 563 | QueenLi86 |
+| 185 | 559 | Katie Martin |
+| 186 | 557 | Danielle Mitchell |
 | 187 | 555 | Janet Sanfilippo Sullivan |
-| 188 | 554 | Jennifer Ellyn Sheets |
-| 189 | 552 | Principal Liz |
-| 190 | 551 | Alma López Morales |
-| 191 | 550 | Magz |
-| 192 | 546 | SupaFly |
+| 188 | 555 | Julian Gasque |
+| 189 | 554 | Jennifer Ellyn Sheets |
+| 190 | 552 | Principal Liz |
+| 191 | 551 | Alma López Morales |
+| 192 | 550 | Magz |
 | 193 | 544 | Boldy Rumbler |
 | 194 | 542 | Nikki Fuller Johnson |
 | 195 | 540 | Anthony Magaraci |
@@ -215,28 +215,28 @@
 | 207 | 518 | Tyson Stroppel |
 | 208 | 512 | Vanessa Sykes |
 | 209 | 510 | Addi JayKay |
-| 210 | 508 | Goofy Riser |
-| 211 | 502 | Alex Armour |
-| 212 | 501 | Linda Miltenburg |
-| 213 | 500 | Genag |
-| 214 | 500 | Saucy Wipepiece |
-| 215 | 499 | Snippy Splitter |
-| 216 | 496 | Samantha Worley |
+| 210 | 509 | Logan Two-dubs Baker |
+| 211 | 508 | Goofy Riser |
+| 212 | 502 | Alex Armour |
+| 213 | 501 | Linda Miltenburg |
+| 214 | 500 | Genag |
+| 215 | 500 | Saucy Wipepiece |
+| 216 | 499 | Snippy Splitter |
 | 217 | 496 | Jeremy |
 | 218 | 496 | Jackie Jackson |
-| 219 | 495 | Baysoph |
-| 220 | 494 | Yesenia Castro Monreal |
-| 221 | 490 | Stephanie Myers |
-| 222 | 489 | Jenn Norcross |
-| 223 | 489 | Hen |
-| 224 | 487 | Plucky Shatterfit |
-| 225 | 485 | Piece of Cake |
-| 226 | 481 | Shanna Fragen |
-| 227 | 480 | Adam Dickinson |
-| 228 | 478 | Betsy Froemming |
-| 229 | 476 | Scamp Jones |
-| 230 | 474 | George Palacios |
-| 231 | 469 | Logan Two-dubs Baker |
+| 219 | 496 | Samantha Worley |
+| 220 | 495 | Baysoph |
+| 221 | 494 | Yesenia Castro Monreal |
+| 222 | 490 | Stephanie Myers |
+| 223 | 489 | Jenn Norcross |
+| 224 | 489 | Hen |
+| 225 | 487 | Plucky Shatterfit |
+| 226 | 485 | Piece of Cake |
+| 227 | 481 | Shanna Fragen |
+| 228 | 480 | Adam Dickinson |
+| 229 | 478 | Betsy Froemming |
+| 230 | 476 | Scamp Jones |
+| 231 | 474 | George Palacios |
 | 232 | 467 | Cyndi Najar |
 | 233 | 466 | Tipsy Zonebuilder |
 | 234 | 466 | Randy M Hatch |
@@ -356,12 +356,12 @@
 | 348 | 316 | JuicyJuice |
 | 349 | 316 | Snow77white |
 | 350 | 314 | Tiggerjake |
-| 351 | 310 | Troy Zanelli |
-| 352 | 309 | Solace Grace |
-| 353 | 309 | Kea Sushi |
-| 354 | 309 | Dapper Strikerpiece |
-| 355 | 309 | TRUCHILD777$$$ |
-| 356 | 308 | Tipsy Piecebuilder |
+| 351 | 311 | Tipsy Piecebuilder |
+| 352 | 310 | Troy Zanelli |
+| 353 | 309 | Solace Grace |
+| 354 | 309 | Kea Sushi |
+| 355 | 309 | Dapper Strikerpiece |
+| 356 | 309 | TRUCHILD777$$$ |
 | 357 | 307 | Codey Haffner |
 | 358 | 305 | Matthew Wilcox |
 | 359 | 305 | Richard Bearse |
@@ -426,8 +426,8 @@
 | 418 | 268 | Teester |
 | 419 | 268 | Luna |
 | 420 | 268 | Kendall Rhodie |
-| 421 | 264 | Azahares Alonso |
-| 422 | 264 | Merritt Brandt |
+| 421 | 265 | Merritt Brandt |
+| 422 | 264 | Azahares Alonso |
 | 423 | 263 | Erik Clary |
 | 424 | 263 | Laurie Patrick |
 | 425 | 262 | Scrumptious |
@@ -694,25 +694,25 @@
 | 686 | 167 | Tana-Marie Lynn McCarty-Rolf |
 | 687 | 167 | Kuar T Ejen |
 | 688 | 167 | Haylee Talkington |
-| 689 | 166 | Snappy Stack |
+| 689 | 166 | LaRue Tee |
 | 690 | 166 | Playful Raccoon |
-| 691 | 165 | 1694AF |
-| 692 | 165 | Corey Jackson |
+| 691 | 166 | Snappy Stack |
+| 692 | 165 | 1694AF |
 | 693 | 165 | Capt'n Crunch |
 | 694 | 165 | Gma420 |
-| 695 | 164 | Sharon Tyler |
+| 695 | 165 | Corey Jackson |
 | 696 | 164 | yourmomz |
 | 697 | 164 | Leasa Marie |
-| 698 | 163 | Arvin Ortega |
+| 698 | 164 | Sharon Tyler |
 | 699 | 163 | Sweetfire |
-| 700 | 162 | Fancy Riser |
-| 701 | 161 | JustLessie |
-| 702 | 161 | LaRue Tee |
-| 703 | 161 | Lorrie Ann Burchett |
-| 704 | 160 | Jerett Coplin |
-| 705 | 160 | Tesa Mike Jenkins |
-| 706 | 160 | Glamorous Gracey |
-| 707 | 160 | Ian T Parker |
+| 700 | 163 | Arvin Ortega |
+| 701 | 162 | Fancy Riser |
+| 702 | 161 | Lorrie Ann Burchett |
+| 703 | 161 | JustLessie |
+| 704 | 160 | Glamorous Gracey |
+| 705 | 160 | Ian T Parker |
+| 706 | 160 | Jerett Coplin |
+| 707 | 160 | Tesa Mike Jenkins |
 | 708 | 160 | Michelle Sager |
 | 709 | 160 | George Marshburn |
 | 710 | 160 | Billy Baker |
@@ -1080,15 +1080,15 @@
 | 1072 | 93 | Worley’s Wife |
 | 1073 | 93 | Poseidon S Davenport |
 | 1074 | 93 | Bouncy Fitblock |
-| 1075 | 93 | taya |
-| 1076 | 93 | Rocky |
-| 1077 | 92 | Donna Winget |
-| 1078 | 92 | Chelsea Leann Lamb |
-| 1079 | 91 | Hasty Snapmatch |
-| 1080 | 91 | Hethyheth |
-| 1081 | 91 | Pandala Mandala |
-| 1082 | 91 | Alicia |
-| 1083 | 91 | Candace Dean |
+| 1075 | 93 | Candace Dean |
+| 1076 | 93 | taya |
+| 1077 | 93 | Rocky |
+| 1078 | 92 | Donna Winget |
+| 1079 | 92 | Chelsea Leann Lamb |
+| 1080 | 91 | Hasty Snapmatch |
+| 1081 | 91 | Hethyheth |
+| 1082 | 91 | Pandala Mandala |
+| 1083 | 91 | Alicia |
 | 1084 | 90 | Melissa Elizabeth |
 | 1085 | 90 | Littleshark |
 | 1086 | 90 | Monique Anne Edwards |
