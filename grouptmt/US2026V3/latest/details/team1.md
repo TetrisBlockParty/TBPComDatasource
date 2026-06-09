@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:34:44 UTC
+# Standings for team1 as of 2026-06-09 23:35:22 UTC
 
 **Total Participants:** 2134
 
@@ -132,15 +132,15 @@
 | 124 | 1031 | Peppy Piececlear |
 | 125 | 1027 | Yolanda E Fergerson |
 | 126 | 1004 | Cece Fowler |
-| 127 | 999 | Jeffrey Barrows |
-| 128 | 996 | Plucky Slamdrop |
-| 129 | 985 | Spunky Edgefit |
-| 130 | 982 | Quirky Fallgrid |
-| 131 | 968 | Jaida De'Anne Cox |
-| 132 | 966 | Sharon Cail |
-| 133 | 966 | Slim Shedidthat |
-| 134 | 955 | Lesley Brunkus Cianfaglione |
-| 135 | 940 | Felicia Williams |
+| 127 | 1000 | Felicia Williams |
+| 128 | 999 | Jeffrey Barrows |
+| 129 | 996 | Plucky Slamdrop |
+| 130 | 985 | Spunky Edgefit |
+| 131 | 982 | Quirky Fallgrid |
+| 132 | 968 | Jaida De'Anne Cox |
+| 133 | 966 | Sharon Cail |
+| 134 | 966 | Slim Shedidthat |
+| 135 | 955 | Lesley Brunkus Cianfaglione |
 | 136 | 927 | Kellie Hall |
 | 137 | 917 | Cathy Young |
 | 138 | 915 | Crystal Boyd |
@@ -875,39 +875,39 @@
 | 867 | 146 | Tempee |
 | 868 | 146 | Richelle Beck |
 | 869 | 146 | Rieshelda Marie White |
-| 870 | 146 | Kidgib5 |
-| 871 | 146 | Paul Doty |
-| 872 | 146 | Jojo M |
-| 873 | 145 | Cheery Strikerbuilder |
-| 874 | 145 | tg |
+| 870 | 146 | Jojo M |
+| 871 | 146 | Kidgib5 |
+| 872 | 146 | Paul Doty |
+| 873 | 145 | tg |
+| 874 | 145 | Cheery Strikerbuilder |
 | 875 | 145 | Tito Divyn |
 | 876 | 144 | Ysma Simmons |
-| 877 | 144 | Hasty Pivoty |
-| 878 | 144 | Witty Clear |
+| 877 | 144 | Witty Clear |
+| 878 | 144 | Bouncy Glide |
 | 879 | 144 | Batty B |
 | 880 | 144 | Dapper Matchfit |
-| 881 | 144 | Bouncy Glide |
-| 882 | 142 | Desi Guerra |
-| 883 | 142 | Jodie |
+| 881 | 144 | Hasty Pivoty |
+| 882 | 142 | Jodie |
+| 883 | 142 | Desi Guerra |
 | 884 | 142 | Trusi Rusi |
 | 885 | 141 | Williams Candace |
 | 886 | 141 | Lively Wipeout |
 | 887 | 141 | Shalena Marie Humphrey |
-| 888 | 140 | Marcello Rush |
-| 889 | 140 | Kennedi Brazziel |
-| 890 | 140 | Lynette Manning |
-| 891 | 140 | Shadon McMillan |
-| 892 | 139 | Antoinette Kelly |
-| 893 | 139 | Lexx Robins |
-| 894 | 139 | Star Hart |
-| 895 | 139 | Rochelle Nash-Evans |
-| 896 | 138 | Jazzy Bridger |
-| 897 | 138 | Rene Hicks |
-| 898 | 138 | Boldy Pivoty |
-| 899 | 138 | Daphne Ceasar |
-| 900 | 138 | Morenita Rodriguez |
-| 901 | 137 | Shaun Anderson |
-| 902 | 137 | LaShawyn Wood |
+| 888 | 140 | Lynette Manning |
+| 889 | 140 | Shadon McMillan |
+| 890 | 140 | Marcello Rush |
+| 891 | 140 | Kennedi Brazziel |
+| 892 | 140 | LaShawyn Wood |
+| 893 | 139 | Star Hart |
+| 894 | 139 | Lexx Robins |
+| 895 | 139 | Antoinette Kelly |
+| 896 | 139 | Rochelle Nash-Evans |
+| 897 | 138 | Jazzy Bridger |
+| 898 | 138 | Rene Hicks |
+| 899 | 138 | Boldy Pivoty |
+| 900 | 138 | Daphne Ceasar |
+| 901 | 138 | Morenita Rodriguez |
+| 902 | 137 | Shaun Anderson |
 | 903 | 136 | mya |
 | 904 | 136 | Brittany Cole |
 | 905 | 136 | Kàrma Lee |
