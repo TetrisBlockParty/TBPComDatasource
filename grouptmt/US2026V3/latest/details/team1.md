@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:36:46 UTC
+# Standings for team1 as of 2026-06-09 23:37:22 UTC
 
 **Total Participants:** 2134
 
@@ -97,10 +97,10 @@
 | 89 | 1355 | Whitney Butler |
 | 90 | 1349 | Court Court |
 | 91 | 1345 | PandaPrincess |
-| 92 | 1340 | La'Chae Nickole |
-| 93 | 1331 | Ryan Meilleur |
-| 94 | 1327 | Dawn L Washington-Feuquay |
-| 95 | 1326 | Rolanda Williams |
+| 92 | 1341 | Rolanda Williams |
+| 93 | 1340 | La'Chae Nickole |
+| 94 | 1331 | Ryan Meilleur |
+| 95 | 1327 | Dawn L Washington-Feuquay |
 | 96 | 1323 | Denise B |
 | 97 | 1313 | Ashley Espeut |
 | 98 | 1299 | Jason Mungin |
@@ -430,9 +430,9 @@
 | 422 | 320 | Tracey Johnson |
 | 423 | 320 | Shanns |
 | 424 | 319 | Giggy Tower |
-| 425 | 318 | Nerdy Snapfall |
-| 426 | 316 | Brittany Fells |
-| 427 | 316 | Lisa Fletcher |
+| 425 | 319 | Lisa Fletcher |
+| 426 | 318 | Nerdy Snapfall |
+| 427 | 316 | Brittany Fells |
 | 428 | 315 | Alivia Dove |
 | 429 | 314 | Tonya McElroy |
 | 430 | 314 | Tay |
@@ -604,12 +604,12 @@
 | 596 | 230 | Poyre Shelton |
 | 597 | 230 | Jessica Kirby |
 | 598 | 229 | Phillip Vasquez |
-| 599 | 228 | Shawn Himes |
-| 600 | 228 | Heather Wilson |
-| 601 | 228 | Aaron Hartmann |
-| 602 | 228 | PSD |
-| 603 | 227 | Katrina Ramey |
-| 604 | 227 | Andra Ward |
+| 599 | 228 | Andra Ward |
+| 600 | 228 | Shawn Himes |
+| 601 | 228 | Heather Wilson |
+| 602 | 228 | Aaron Hartmann |
+| 603 | 228 | PSD |
+| 604 | 227 | Katrina Ramey |
 | 605 | 226 | Peppy Glider |
 | 606 | 226 | Kahliah Baker |
 | 607 | 226 | Rayshawn Cohen |
@@ -753,48 +753,48 @@
 | 745 | 180 | Cornelius Neal |
 | 746 | 179 | Kike Lua |
 | 747 | 179 | Ad Doctor |
-| 748 | 179 | Jes Marie |
-| 749 | 179 | Wacky Stackbuilder |
-| 750 | 178 | Krista McNair |
-| 751 | 178 | TRUBBLE45 |
+| 748 | 179 | Wacky Stackbuilder |
+| 749 | 179 | Jes Marie |
+| 750 | 178 | TRUBBLE45 |
+| 751 | 178 | Krista McNair |
 | 752 | 177 | MrsDontPlay |
 | 753 | 177 | Cm |
-| 754 | 177 | Tina Blessed Cage |
-| 755 | 177 | Nekka |
-| 756 | 176 | Frisky Gridder |
-| 757 | 176 | Squaw Ki Ng |
+| 754 | 177 | Nekka |
+| 755 | 177 | Tina Blessed Cage |
+| 756 | 177 | Melanin Monroe-Dandridge |
+| 757 | 176 | Frisky Gridder |
 | 758 | 176 | Callie Mae |
 | 759 | 176 | LaSharmeika Fancher |
-| 760 | 175 | DaemahnFriday |
-| 761 | 175 | Angie Smith |
-| 762 | 175 | Christina Singleton |
-| 763 | 175 | Onovella Titsworth |
+| 760 | 176 | Squaw Ki Ng |
+| 761 | 175 | Christina Singleton |
+| 762 | 175 | Angie Smith |
+| 763 | 175 | DaemahnFriday |
 | 764 | 175 | Xana Zania Bopp |
-| 765 | 174 | Nerdy Wipefit |
+| 765 | 175 | Onovella Titsworth |
 | 766 | 174 | Jason Saputo |
 | 767 | 174 | Angela Kitchens |
-| 768 | 173 | Mathew Trudell |
-| 769 | 173 | brite |
-| 770 | 173 | Claudia Price |
-| 771 | 173 | Kim Holzmiller |
-| 772 | 172 | Ozell Jones Jr. |
+| 768 | 174 | Nerdy Wipefit |
+| 769 | 173 | Claudia Price |
+| 770 | 173 | Kim Holzmiller |
+| 771 | 173 | brite |
+| 772 | 173 | Mathew Trudell |
 | 773 | 172 | Li-Li Ratliff |
-| 774 | 171 | Christy Quick |
-| 775 | 171 | Locke Mahal LD |
-| 776 | 171 | Ta'Kaiyah M. Spann |
-| 777 | 170 | Mikemike Zonethree |
-| 778 | 170 | Kanary Karotz |
-| 779 | 170 | Devron Reedy |
-| 780 | 169 | Dizzy Gridmatch |
-| 781 | 169 | Sunny Clicky |
-| 782 | 169 | rb |
-| 783 | 168 | Meeee |
-| 784 | 168 | Pinky Pink |
+| 774 | 172 | Ozell Jones Jr. |
+| 775 | 171 | Ta'Kaiyah M. Spann |
+| 776 | 171 | Locke Mahal LD |
+| 777 | 171 | Christy Quick |
+| 778 | 170 | Mikemike Zonethree |
+| 779 | 170 | Kanary Karotz |
+| 780 | 170 | Devron Reedy |
+| 781 | 169 | Dizzy Gridmatch |
+| 782 | 169 | Sunny Clicky |
+| 783 | 169 | rb |
+| 784 | 168 | Seirra Robinson |
 | 785 | 168 | Lounique |
-| 786 | 168 | Seirra Robinson |
-| 787 | 168 | QueenShay AllGood |
-| 788 | 167 | Joka NoTime ForHataz |
-| 789 | 167 | Melanin Monroe-Dandridge |
+| 786 | 168 | Meeee |
+| 787 | 168 | Pinky Pink |
+| 788 | 168 | QueenShay AllGood |
+| 789 | 167 | Joka NoTime ForHataz |
 | 790 | 166 | Motown Chuck |
 | 791 | 166 | Cheery Swiper |
 | 792 | 166 | Amaadi Ward |
@@ -807,11 +807,11 @@
 | 799 | 164 | Crystal Garay |
 | 800 | 162 | Kizzy Clark |
 | 801 | 162 | Speedy Stacky |
-| 802 | 162 | Lucille Wilson Davis |
-| 803 | 162 | Chill Linkroll |
-| 804 | 162 | Peppy Wipeblock |
-| 805 | 162 | Jasmine Hariston-Estis |
-| 806 | 162 | Aaron Sohnrey |
+| 802 | 162 | Aaron Sohnrey |
+| 803 | 162 | Lucille Wilson Davis |
+| 804 | 162 | Chill Linkroll |
+| 805 | 162 | Peppy Wipeblock |
+| 806 | 162 | Jasmine Hariston-Estis |
 | 807 | 162 | Big Bovice |
 | 808 | 161 | Sunny Tumbler |
 | 809 | 161 | LAdYPOLy |
@@ -1366,48 +1366,48 @@
 | 1358 | 60 | Anthony Intrabartolo |
 | 1359 | 59 | Leiacellaa23 |
 | 1360 | 59 | Jeremy Myers |
-| 1361 | 59 | Robert Varnado |
-| 1362 | 59 | Daring Snaplink |
-| 1363 | 59 | Smiley Tilebuilder |
-| 1364 | 59 | Sweet BayBee |
-| 1365 | 59 | Kween Pilot |
-| 1366 | 58 | Desi |
-| 1367 | 58 | wuvbuug |
-| 1368 | 58 | CoaCoa Myles |
-| 1369 | 58 | Ashley Danielle |
-| 1370 | 58 | Brenda Brogden |
-| 1371 | 58 | Arnold Hamilton |
-| 1372 | 58 | Brandy Way |
-| 1373 | 58 | Bubbly Crawler |
-| 1374 | 58 | jaz |
-| 1375 | 58 | Cee CRaze Perry Sr. |
-| 1376 | 58 | Angelique Thomas |
-| 1377 | 57 | Rose Smith |
-| 1378 | 57 | Arturo Hernandez II |
-| 1379 | 57 | Frothy Snapbuilder |
-| 1380 | 57 | Andre Simpson |
-| 1381 | 57 | Cali Lee |
+| 1361 | 59 | Daring Snaplink |
+| 1362 | 59 | Robert Varnado |
+| 1363 | 59 | Chummy Clearfit |
+| 1364 | 59 | Smiley Tilebuilder |
+| 1365 | 59 | Sweet BayBee |
+| 1366 | 59 | Kween Pilot |
+| 1367 | 58 | Desi |
+| 1368 | 58 | wuvbuug |
+| 1369 | 58 | CoaCoa Myles |
+| 1370 | 58 | Ashley Danielle |
+| 1371 | 58 | Brenda Brogden |
+| 1372 | 58 | Arnold Hamilton |
+| 1373 | 58 | Brandy Way |
+| 1374 | 58 | Angelique Thomas |
+| 1375 | 58 | Bubbly Crawler |
+| 1376 | 58 | jaz |
+| 1377 | 58 | Cee CRaze Perry Sr. |
+| 1378 | 57 | Andre Simpson |
+| 1379 | 57 | Cali Lee |
+| 1380 | 57 | Cheery Climber |
+| 1381 | 57 | Frilly Mover |
 | 1382 | 57 | Spicy Snap |
-| 1383 | 57 | Frilly Mover |
-| 1384 | 57 | Cheery Climber |
-| 1385 | 56 | QueenzMo |
-| 1386 | 56 | Kayleah Washington |
-| 1387 | 56 | Jiff |
-| 1388 | 56 | Christina A Patterson |
-| 1389 | 56 | Kevin Witdaflute |
-| 1390 | 56 | Chipper Clicker |
-| 1391 | 56 | Stasha Chaires |
+| 1383 | 57 | Rose Smith |
+| 1384 | 57 | Arturo Hernandez II |
+| 1385 | 57 | Frothy Snapbuilder |
+| 1386 | 56 | Iceman |
+| 1387 | 56 | QueenzMo |
+| 1388 | 56 | Kayleah Washington |
+| 1389 | 56 | Jiff |
+| 1390 | 56 | Tim Tim |
+| 1391 | 56 | Lisa Ivy |
 | 1392 | 56 | Ginna |
-| 1393 | 56 | Lisa Ivy |
-| 1394 | 56 | Tim Tim |
-| 1395 | 56 | Iceman |
-| 1396 | 55 | Laura Wesley |
-| 1397 | 55 | Swanky Riserfit |
-| 1398 | 55 | Chummy Clearfit |
-| 1399 | 55 | Linny Loop |
-| 1400 | 55 | Amanda Miller |
-| 1401 | 55 | Robin Prioleau |
-| 1402 | 55 | KoolKimJay |
+| 1393 | 56 | Christina A Patterson |
+| 1394 | 56 | Kevin Witdaflute |
+| 1395 | 56 | Stasha Chaires |
+| 1396 | 56 | Chipper Clicker |
+| 1397 | 55 | KoolKimJay |
+| 1398 | 55 | Amanda Miller |
+| 1399 | 55 | Swanky Riserfit |
+| 1400 | 55 | Laura Wesley |
+| 1401 | 55 | Linny Loop |
+| 1402 | 55 | Robin Prioleau |
 | 1403 | 55 | Kimberly Red |
 | 1404 | 54 | Mazi Johnson |
 | 1405 | 54 | Ķïrãã Ďãvïss |
