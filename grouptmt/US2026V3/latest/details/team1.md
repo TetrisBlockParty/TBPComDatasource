@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:36:49 UTC
+# Standings for team1 as of 2026-06-09 21:37:22 UTC
 
 **Total Participants:** 2114
 
@@ -70,7 +70,7 @@
 | 62 | 1789 | Jolly Dropzone |
 | 63 | 1787 | Moomoo |
 | 64 | 1782 | Jacoby E Fleming |
-| 65 | 1715 | Chill Clusterer |
+| 65 | 1735 | Chill Clusterer |
 | 66 | 1663 | Michael J Gresham |
 | 67 | 1648 | Bre Maugh |
 | 68 | 1642 | TAZ-MF-NIZIL |
@@ -437,31 +437,31 @@
 | 429 | 309 | Chris Rogers |
 | 430 | 309 | Sharee Robinson |
 | 431 | 308 | Sammie Walker |
-| 432 | 308 | Tonya Lee Sanders |
-| 433 | 308 | Darrel K Pemberton |
+| 432 | 308 | Darrel K Pemberton |
+| 433 | 308 | Tonya Lee Sanders |
 | 434 | 307 | Crystal Cheresnowsky |
 | 435 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 436 | 306 | Alivia Dove |
-| 437 | 304 | Shakmar |
-| 438 | 303 | Guard Up |
-| 439 | 302 | Yadira Salgado |
-| 440 | 302 | Lisa Fletcher |
-| 441 | 301 | Jelyfish |
-| 442 | 301 | Earl Williams |
-| 443 | 300 | Sara Meri |
-| 444 | 300 | Melissa D. M. Hornsby |
-| 445 | 300 | Malcolm Stanley |
-| 446 | 300 | Teddy Davis |
-| 447 | 298 | Betsy B. Yohan |
+| 437 | 305 | Betsy B. Yohan |
+| 438 | 304 | Shakmar |
+| 439 | 303 | Guard Up |
+| 440 | 302 | Yadira Salgado |
+| 441 | 302 | Lisa Fletcher |
+| 442 | 301 | Jelyfish |
+| 443 | 301 | Earl Williams |
+| 444 | 300 | Sara Meri |
+| 445 | 300 | Teddy Davis |
+| 446 | 300 | Melissa D. M. Hornsby |
+| 447 | 300 | Malcolm Stanley |
 | 448 | 297 | Amy Villalpando |
 | 449 | 296 | Char |
-| 450 | 295 | Mafio SO |
-| 451 | 295 | Maribel Vasquez |
-| 452 | 295 | Rachael R Gull |
-| 453 | 295 | Derrius SeriousLee Burks |
+| 450 | 295 | Maribel Vasquez |
+| 451 | 295 | Derrius SeriousLee Burks |
+| 452 | 295 | Mafio SO |
+| 453 | 295 | Rachael R Gull |
 | 454 | 294 | Brittanie Wardlow |
-| 455 | 292 | Abby |
-| 456 | 292 | MonaSparks |
+| 455 | 292 | MonaSparks |
+| 456 | 292 | Abby |
 | 457 | 291 | LuckyStar |
 | 458 | 291 | Brian Taylor |
 | 459 | 290 | SnazzyIvy |
