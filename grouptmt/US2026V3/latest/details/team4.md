@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 14:28:44 UTC
+# Standings for team4 as of 2026-06-09 14:29:20 UTC
 
 **Total Participants:** 2116
 
@@ -13,7 +13,7 @@
 | 5 | 12264 | Loony Rotater |
 | 6 | 10300 | Cinny |
 | 7 | 8963 | Kait Confetti |
-| 8 | 8421 | ktothet |
+| 8 | 8434 | ktothet |
 | 9 | 7800 | BertaF1irta |
 | 10 | 7707 | Hasty Builder |
 | 11 | 7687 | Jennifer Edgell Richardson |
@@ -626,33 +626,33 @@
 | 618 | 200 | Gean DeJesus |
 | 619 | 200 | Tonia Kay |
 | 620 | 199 | Mmm |
-| 621 | 199 | Maegon Brazille |
-| 622 | 199 | Donna Bush |
-| 623 | 199 | Rae Saunders |
-| 624 | 199 | Janet Willoughby |
+| 621 | 199 | Donna Bush |
+| 622 | 199 | Rae Saunders |
+| 623 | 199 | Janet Willoughby |
+| 624 | 199 | Maegon Brazille |
 | 625 | 199 | Nicole Dombrow |
-| 626 | 198 | Ayobribri |
+| 626 | 198 | PsyDMom |
 | 627 | 198 | Robert Moore |
-| 628 | 198 | Mint Marquez |
-| 629 | 197 | Angela Adamo-Tash |
-| 630 | 197 | Snippy Racker |
-| 631 | 196 | Bigmamalizzet Latto |
-| 632 | 195 | 1694AF |
-| 633 | 195 | Reina Pagan |
-| 634 | 195 | Happy Puzzle |
-| 635 | 194 | Stotty |
-| 636 | 194 | Cozy Patternline |
-| 637 | 193 | Arvin Ortega |
-| 638 | 193 | Stef |
-| 639 | 193 | Lord Solrac |
-| 640 | 193 | PsyDMom |
+| 628 | 198 | Ayobribri |
+| 629 | 198 | Mint Marquez |
+| 630 | 197 | Angela Adamo-Tash |
+| 631 | 197 | Snippy Racker |
+| 632 | 196 | Bigmamalizzet Latto |
+| 633 | 195 | 1694AF |
+| 634 | 195 | Reina Pagan |
+| 635 | 195 | Happy Puzzle |
+| 636 | 194 | Stotty |
+| 637 | 194 | Cozy Patternline |
+| 638 | 193 | Arvin Ortega |
+| 639 | 193 | Stef |
+| 640 | 193 | Lord Solrac |
 | 641 | 193 | Manolo Canety |
 | 642 | 192 | Noa Lee |
 | 643 | 192 | Vonni McLean |
 | 644 | 192 | Lisa Pie |
 | 645 | 192 | Ralph Hell Rell Williams |
-| 646 | 192 | Chris |
-| 647 | 192 | Daniel Lossman |
+| 646 | 192 | Daniel Lossman |
+| 647 | 192 | Chris |
 | 648 | 191 | Anna Ryan |
 | 649 | 190 | Brandon Bedenbaugh |
 | 650 | 190 | Simone |
@@ -1590,20 +1590,20 @@
 | 1582 | 39 | Amy White |
 | 1583 | 39 | Quest |
 | 1584 | 39 | Chris Davis |
-| 1585 | 39 | Rebecca Ramirez |
-| 1586 | 38 | Dupontmom |
-| 1587 | 38 | Heather Cook |
-| 1588 | 38 | Robin M Casebolt |
-| 1589 | 38 | Glendala Whitewing |
-| 1590 | 38 | Jolene Stieren |
-| 1591 | 38 | Jean Crooks |
-| 1592 | 38 | Chris Riley |
-| 1593 | 38 | Jacquelyn Villarreal-Messenger |
-| 1594 | 38 | EKM |
-| 1595 | 37 | Arlee Woodall |
-| 1596 | 37 | Scammer |
-| 1597 | 37 | theyhatejzt |
-| 1598 | 37 | Marie Lily |
+| 1585 | 39 | Marie Lily |
+| 1586 | 39 | Rebecca Ramirez |
+| 1587 | 38 | Dupontmom |
+| 1588 | 38 | Heather Cook |
+| 1589 | 38 | Robin M Casebolt |
+| 1590 | 38 | Glendala Whitewing |
+| 1591 | 38 | Jolene Stieren |
+| 1592 | 38 | Jean Crooks |
+| 1593 | 38 | Chris Riley |
+| 1594 | 38 | Jacquelyn Villarreal-Messenger |
+| 1595 | 38 | EKM |
+| 1596 | 37 | Arlee Woodall |
+| 1597 | 37 | Scammer |
+| 1598 | 37 | theyhatejzt |
 | 1599 | 37 | Pearl Poff |
 | 1600 | 37 | Quirky Puzzler |
 | 1601 | 37 | Fineassdee23 |

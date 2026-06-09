@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 14:28:44 UTC
+# Standings for team2 as of 2026-06-09 14:29:20 UTC
 
 **Total Participants:** 2510
 
@@ -126,8 +126,8 @@
 | 118 | 1225 | Hoppy Rotate |
 | 119 | 1220 | Jason Cook |
 | 120 | 1215 | jmo87 |
-| 121 | 1161 | snowwol |
-| 122 | 1146 | Jazzy Faller |
+| 121 | 1186 | Jazzy Faller |
+| 122 | 1161 | snowwol |
 | 123 | 1145 | Cathy Tippett |
 | 124 | 1142 | Melissa Thomas |
 | 125 | 1115 | Ricardo Ewart |
@@ -224,12 +224,12 @@
 | 216 | 648 | Kathleen Dumbazz |
 | 217 | 643 | Michelle Powers Chattaway |
 | 218 | 642 | Bri St Peter |
-| 219 | 641 | BrendaLee NolanBos |
-| 220 | 641 | Kathy McCormick |
+| 219 | 641 | Kathy McCormick |
+| 220 | 641 | BrendaLee NolanBos |
 | 221 | 637 | Kaylene Rigas |
 | 222 | 636 | Nikki Hayes |
-| 223 | 635 | Chris Cooper |
-| 224 | 635 | Robin G |
+| 223 | 635 | Robin G |
+| 224 | 635 | Chris Cooper |
 | 225 | 632 | Cool Balancer |
 | 226 | 632 | Theresa Hollinger |
 | 227 | 631 | Wacky Tumbler |
@@ -261,8 +261,8 @@
 | 253 | 579 | Rachel Nilles |
 | 254 | 577 | Lindsay Klemp |
 | 255 | 576 | Ratchet |
-| 256 | 576 | Breeana Bennett |
-| 257 | 576 | Aldotfus Williams |
+| 256 | 576 | Aldotfus Williams |
+| 257 | 576 | Breeana Bennett |
 | 258 | 575 | MaddieCherie |
 | 259 | 574 | meg |
 | 260 | 574 | Brandy McCune Reep |
@@ -274,15 +274,15 @@
 | 266 | 565 | Kelly Rogers |
 | 267 | 565 | Flower_child |
 | 268 | 564 | Nancy Schwartz Gusman-Oliver |
-| 269 | 559 | Twisty Buildgrid |
-| 270 | 559 | Mom |
-| 271 | 559 | Pam Bauder Ludwig |
-| 272 | 558 | Kaycie Shaffer |
-| 273 | 556 | Nicole Plummer |
-| 274 | 555 | H |
-| 275 | 555 | Judy Long |
-| 276 | 554 | Sabrina Hardrick |
-| 277 | 554 | Alicia Ellenburg |
+| 269 | 560 | Alicia Ellenburg |
+| 270 | 559 | Twisty Buildgrid |
+| 271 | 559 | Mom |
+| 272 | 559 | Pam Bauder Ludwig |
+| 273 | 558 | Kaycie Shaffer |
+| 274 | 556 | Nicole Plummer |
+| 275 | 555 | H |
+| 276 | 555 | Judy Long |
+| 277 | 554 | Sabrina Hardrick |
 | 278 | 553 | Thomas Tyrone |
 | 279 | 550 | DomDomsNana |
 | 280 | 550 | Gabrielle Wilson |
@@ -905,11 +905,11 @@
 | 897 | 160 | Tasha Gilbert |
 | 898 | 160 | Scott Lyles |
 | 899 | 160 | Michelle Jones |
-| 900 | 160 | Belinda Head |
-| 901 | 160 | Katie Thacker |
-| 902 | 159 | Bruni |
-| 903 | 159 | Funko Dave |
-| 904 | 159 | Hoppy Linkblock |
+| 900 | 160 | Hoppy Linkblock |
+| 901 | 160 | Belinda Head |
+| 902 | 160 | Katie Thacker |
+| 903 | 159 | Bruni |
+| 904 | 159 | Funko Dave |
 | 905 | 159 | JDub |
 | 906 | 159 | Jennifer Vitro |
 | 907 | 159 | Misty Noe |
@@ -968,24 +968,24 @@
 | 960 | 148 | Loony Ziggy |
 | 961 | 148 | Crystal Robinson |
 | 962 | 148 | Valeri Bradley |
-| 963 | 147 | Terie Safrit |
-| 964 | 147 | Robert W Schwartz |
-| 965 | 147 | Shaylee Haltiner |
-| 966 | 147 | Teea Makensi Meyer |
-| 967 | 147 | Hansent3 |
-| 968 | 147 | KS Hengesbach |
-| 969 | 146 | Jacy Pickett |
-| 970 | 146 | Jessica Veness-Toth |
-| 971 | 146 | Cool Cornerfall |
-| 972 | 146 | bozzycat |
-| 973 | 146 | Kimberly Brooks |
+| 963 | 147 | Tracy Tokarz |
+| 964 | 147 | Teea Makensi Meyer |
+| 965 | 147 | Terie Safrit |
+| 966 | 147 | Robert W Schwartz |
+| 967 | 147 | Shaylee Haltiner |
+| 968 | 147 | Hansent3 |
+| 969 | 147 | KS Hengesbach |
+| 970 | 146 | Jacy Pickett |
+| 971 | 146 | Jessica Veness-Toth |
+| 972 | 146 | Cool Cornerfall |
+| 973 | 146 | bozzycat |
 | 974 | 146 | Jolene Hull Hearn |
-| 975 | 146 | Jason P. Schwartz |
-| 976 | 146 | AshleyM |
-| 977 | 145 | Alicia Parrish |
-| 978 | 145 | Momi Kamohai |
-| 979 | 145 | Shiny Matchpiece |
-| 980 | 145 | Tracy Tokarz |
+| 975 | 146 | Kimberly Brooks |
+| 976 | 146 | Jason P. Schwartz |
+| 977 | 146 | AshleyM |
+| 978 | 145 | Alicia Parrish |
+| 979 | 145 | Momi Kamohai |
+| 980 | 145 | Shiny Matchpiece |
 | 981 | 145 | Thtbrwnsknflla |
 | 982 | 145 | Samantha Smith |
 | 983 | 144 | Alissa Ary |
@@ -1668,13 +1668,13 @@
 | 1660 | 57 | Lori Lorenz |
 | 1661 | 57 | Brandy Wallace |
 | 1662 | 57 | Frothy Line |
-| 1663 | 57 | SarahandAaron Prim |
-| 1664 | 57 | Jackie Hayslip |
-| 1665 | 57 | Corina Marie Prunty |
-| 1666 | 57 | Bigbb |
-| 1667 | 56 | April Owings |
-| 1668 | 56 | Amber Myers |
-| 1669 | 56 | Glitzy Stackbuilder |
+| 1663 | 57 | Amber Myers |
+| 1664 | 57 | SarahandAaron Prim |
+| 1665 | 57 | Jackie Hayslip |
+| 1666 | 57 | Corina Marie Prunty |
+| 1667 | 57 | Bigbb |
+| 1668 | 56 | Glitzy Stackbuilder |
+| 1669 | 56 | April Owings |
 | 1670 | 56 | Armordguy |
 | 1671 | 56 | Jessi Ann |
 | 1672 | 56 | CountryGurl |
@@ -1692,9 +1692,9 @@
 | 1684 | 55 | Merine Mott |
 | 1685 | 55 | Misty McElroy |
 | 1686 | 55 | Sassafras Cass |
-| 1687 | 54 | Paula Smith |
-| 1688 | 54 | Jolene Moelder |
-| 1689 | 54 | Josie Mendivil |
+| 1687 | 54 | Josie Mendivil |
+| 1688 | 54 | Paula Smith |
+| 1689 | 54 | Jolene Moelder |
 | 1690 | 54 | Fluffypuffin |
 | 1691 | 54 | Giggly Twisterfit |
 | 1692 | 54 | Jess Duehring |
@@ -1704,10 +1704,10 @@
 | 1696 | 53 | Topknot13 |
 | 1697 | 53 | Gigi |
 | 1698 | 53 | Kimberly Rochon |
-| 1699 | 53 | Jamie Benge |
-| 1700 | 53 | Thomas Johnstone |
-| 1701 | 53 | Daring Pivotfall |
-| 1702 | 53 | Shalice Jacobs |
+| 1699 | 53 | Thomas Johnstone |
+| 1700 | 53 | Daring Pivotfall |
+| 1701 | 53 | Shalice Jacobs |
+| 1702 | 53 | Jamie Benge |
 | 1703 | 52 | Dolly |
 | 1704 | 52 | Betty Muise |
 | 1705 | 52 | Amber Marie Lacey |
@@ -1727,15 +1727,15 @@
 | 1719 | 51 | Brandi Lynn Tumey |
 | 1720 | 51 | Staci Carl |
 | 1721 | 51 | Daring Blockline |
-| 1722 | 51 | Ashley Gracelynn Tiner |
-| 1723 | 51 | Snazzy Clusterfit |
+| 1722 | 51 | Snazzy Clusterfit |
+| 1723 | 51 | Ashley Gracelynn Tiner |
 | 1724 | 51 | Andrea |
 | 1725 | 51 | Jess |
-| 1726 | 50 | Whitt |
-| 1727 | 50 | Christina Michelle Wilson |
-| 1728 | 50 | Timone907 |
-| 1729 | 50 | Mike Honcho |
-| 1730 | 50 | Tabitha Palen |
+| 1726 | 50 | Timone907 |
+| 1727 | 50 | Tabitha Palen |
+| 1728 | 50 | Mike Honcho |
+| 1729 | 50 | Whitt |
+| 1730 | 50 | Christina Michelle Wilson |
 | 1731 | 50 | Jennifer Risdell Wilson |
 | 1732 | 50 | Jazzy |
 | 1733 | 50 | Loony Glider |
@@ -1760,11 +1760,11 @@
 | 1752 | 49 | Lively Zone |
 | 1753 | 49 | Tim Joy |
 | 1754 | 49 | Milwaukee Area Cleaning |
-| 1755 | 49 | Lindsey Butler |
-| 1756 | 49 | Silly Twister |
+| 1755 | 49 | Silly Twister |
+| 1756 | 49 | Lindsey Butler |
 | 1757 | 49 | Taran Evans |
-| 1758 | 48 | Krystle McCaslin |
-| 1759 | 48 | Marii |
+| 1758 | 48 | Marii |
+| 1759 | 48 | Krystle McCaslin |
 | 1760 | 48 | Katelynn Hunt |
 | 1761 | 48 | Trixie |
 | 1762 | 48 | Lively Shatter |
@@ -1794,10 +1794,10 @@
 | 1786 | 46 | Silly Shatter |
 | 1787 | 46 | Sunnylynn Hodge |
 | 1788 | 46 | Marie Anne |
-| 1789 | 46 | Kodi Gay |
-| 1790 | 46 | Jolly Blockroll |
-| 1791 | 45 | Witty Brickster |
-| 1792 | 45 | Missy Stevens |
+| 1789 | 46 | Jolly Blockroll |
+| 1790 | 46 | Kodi Gay |
+| 1791 | 45 | Missy Stevens |
+| 1792 | 45 | Witty Brickster |
 | 1793 | 45 | Happy Riseclear |
 | 1794 | 45 | Erica |
 | 1795 | 45 | Nora Buchan |
