@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:33:22 UTC
+# Standings for team1 as of 2026-06-09 10:34:21 UTC
 
 **Total Participants:** 2035
 
@@ -670,32 +670,32 @@
 | 662 | 171 | Ta'Kaiyah M. Spann |
 | 663 | 170 | meatballs |
 | 664 | 170 | Christi Walker Patton |
-| 665 | 169 | Undeniable Williams |
-| 666 | 169 | Cheryl Miller |
-| 667 | 169 | rb |
-| 668 | 169 | Don Ray Mc |
-| 669 | 168 | Giddy Staggerpiece |
-| 670 | 168 | Lynn |
-| 671 | 168 | Lounique |
-| 672 | 167 | Lucy |
-| 673 | 167 | Comedian Gdane |
-| 674 | 167 | Montego Allen |
-| 675 | 167 | Dana Hawes |
-| 676 | 167 | Joka NoTime ForHataz |
-| 677 | 166 | Amaadi Ward |
-| 678 | 165 | Vannie G |
-| 679 | 165 | lizlizliz |
+| 665 | 170 | Devron Reedy |
+| 666 | 169 | Undeniable Williams |
+| 667 | 169 | Cheryl Miller |
+| 668 | 169 | rb |
+| 669 | 169 | Don Ray Mc |
+| 670 | 168 | Giddy Staggerpiece |
+| 671 | 168 | Lynn |
+| 672 | 168 | Lounique |
+| 673 | 167 | Lucy |
+| 674 | 167 | Comedian Gdane |
+| 675 | 167 | Montego Allen |
+| 676 | 167 | Dana Hawes |
+| 677 | 167 | Joka NoTime ForHataz |
+| 678 | 166 | Amaadi Ward |
+| 679 | 165 | Vannie G |
 | 680 | 165 | toxictonic92 |
-| 681 | 164 | Jes Marie |
-| 682 | 163 | QueenShay AllGood |
-| 683 | 163 | Kelvin Cook |
-| 684 | 162 | Speedy Stacky |
+| 681 | 165 | lizlizliz |
+| 682 | 164 | Jes Marie |
+| 683 | 163 | QueenShay AllGood |
+| 684 | 163 | Kelvin Cook |
 | 685 | 162 | Peppy Wipeblock |
-| 686 | 162 | Sherri Keys |
-| 687 | 161 | Devron Reedy |
+| 686 | 162 | Speedy Stacky |
+| 687 | 162 | Sherri Keys |
 | 688 | 161 | Christina Singleton |
-| 689 | 160 | Cheeky Twistpiece |
-| 690 | 160 | Donnie Withthebody |
+| 689 | 160 | Donnie Withthebody |
+| 690 | 160 | Cheeky Twistpiece |
 | 691 | 160 | Duncan Timothy |
 | 692 | 160 | Spotlight |
 | 693 | 160 | Kesha Brady |
@@ -927,99 +927,99 @@
 | 919 | 114 | Tyree Tman Shinette |
 | 920 | 114 | LAhoneybun82 |
 | 921 | 114 | jasi |
-| 922 | 114 | Seirra Robinson |
-| 923 | 114 | Solomon Valarie |
+| 922 | 114 | Solomon Valarie |
+| 923 | 114 | Seirra Robinson |
 | 924 | 114 | Yellowbone |
-| 925 | 113 | Shaun Anderson |
-| 926 | 113 | Sherry D Singleton |
+| 925 | 113 | Sherry D Singleton |
+| 926 | 113 | Shaun Anderson |
 | 927 | 113 | Eugenia Vanclusen |
-| 928 | 112 | Nikiya |
-| 929 | 112 | GamerQueenDS |
-| 930 | 112 | Barbramerri Tarboro |
-| 931 | 112 | Jose Rodriguez |
-| 932 | 112 | Ashanti Eden |
+| 928 | 112 | GamerQueenDS |
+| 929 | 112 | Barbramerri Tarboro |
+| 930 | 112 | Nikiya |
+| 931 | 112 | Ashanti Eden |
+| 932 | 112 | Jose Rodriguez |
 | 933 | 111 | Daphne Ceasar |
-| 934 | 111 | Hasty Brickzone |
-| 935 | 111 | Deihja Weaver |
-| 936 | 111 | Happy Blockpiece |
-| 937 | 111 | GoldStarJo |
+| 934 | 111 | GoldStarJo |
+| 935 | 111 | Happy Blockpiece |
+| 936 | 111 | Deihja Weaver |
+| 937 | 111 | Hasty Brickzone |
 | 938 | 111 | Sharon Lynn |
-| 939 | 110 | jac |
+| 939 | 110 | Aaron Sohnrey |
 | 940 | 110 | Nichole Horsley-Conn |
-| 941 | 110 | Felicia Woods |
-| 942 | 110 | Elizabeth AW |
-| 943 | 110 | Marissa Sweet |
+| 941 | 110 | Shauntai Holiday |
+| 942 | 110 | mya |
+| 943 | 110 | Lucy Range |
 | 944 | 110 | Slinky Fallzone |
-| 945 | 110 | Bluebino |
-| 946 | 110 | Aaron Sohnrey |
-| 947 | 110 | Lucy Range |
-| 948 | 110 | mya |
-| 949 | 110 | Shauntai Holiday |
-| 950 | 109 | LaShawyn Wood |
-| 951 | 109 | Melvin Simpson |
-| 952 | 109 | Haakuu |
-| 953 | 109 | Lively Rollpiece |
-| 954 | 109 | Tina Bongcayao |
-| 955 | 108 | Brittany Cole |
-| 956 | 108 | Angela L Charles |
-| 957 | 107 | Corbin Henry |
-| 958 | 107 | Smiley Bridgepiece |
-| 959 | 107 | Fatty May |
-| 960 | 107 | Andrew Harris |
-| 961 | 106 | Samona Mcculler |
-| 962 | 106 | Meepycat |
-| 963 | 106 | Elizabeth Hopkins |
+| 945 | 110 | jac |
+| 946 | 110 | Felicia Woods |
+| 947 | 110 | Bluebino |
+| 948 | 110 | Elizabeth AW |
+| 949 | 110 | Marissa Sweet |
+| 950 | 109 | Melvin Simpson |
+| 951 | 109 | LaShawyn Wood |
+| 952 | 109 | Tina Bongcayao |
+| 953 | 109 | Haakuu |
+| 954 | 109 | Lively Rollpiece |
+| 955 | 108 | Angela L Charles |
+| 956 | 108 | Brittany Cole |
+| 957 | 107 | Fatty May |
+| 958 | 107 | Corbin Henry |
+| 959 | 107 | Andrew Harris |
+| 960 | 107 | Smiley Bridgepiece |
+| 961 | 106 | Meepycat |
+| 962 | 106 | Elizabeth Hopkins |
+| 963 | 106 | Elizabeth Green |
 | 964 | 106 | NataAllDay |
 | 965 | 106 | Ashley Love Pettit |
-| 966 | 106 | Lawreniesha Burkley |
-| 967 | 106 | Elizabeth Green |
-| 968 | 105 | Raquel Ortiz |
-| 969 | 105 | Maria |
-| 970 | 105 | Ja'mice Nelson |
-| 971 | 105 | Jack Mehof |
-| 972 | 105 | Michael Smith |
+| 966 | 106 | Star Hart |
+| 967 | 106 | Lawreniesha Burkley |
+| 968 | 106 | Samona Mcculler |
+| 969 | 105 | Jack Mehof |
+| 970 | 105 | Nikkizz |
+| 971 | 105 | Ja'mice Nelson |
+| 972 | 105 | Maria |
 | 973 | 105 | Angie Lebron |
-| 974 | 105 | Nikkizz |
-| 975 | 104 | Ahvae Lee |
-| 976 | 104 | midnightxtoker |
+| 974 | 105 | Michael Smith |
+| 975 | 105 | Raquel Ortiz |
+| 976 | 104 | Ahvae Lee |
 | 977 | 104 | Taylor Jordan Hollis |
 | 978 | 104 | Kathleen Boyles |
-| 979 | 104 | Alanna Breitenbach |
-| 980 | 103 | Jumpy Gridlock |
+| 979 | 104 | midnightxtoker |
+| 980 | 104 | Alanna Breitenbach |
 | 981 | 103 | Meshia |
-| 982 | 102 | Willson06 |
+| 982 | 103 | Jumpy Gridlock |
 | 983 | 102 | Silly Shatterline |
-| 984 | 102 | Krista McNair |
-| 985 | 102 | Blocksy |
+| 984 | 102 | Willson06 |
+| 985 | 102 | Krista McNair |
 | 986 | 102 | Jeremy Hendrix |
-| 987 | 101 | star |
+| 987 | 102 | Blocksy |
 | 988 | 101 | John Spath |
 | 989 | 101 | tk |
 | 990 | 101 | Wacky Wipepiece |
 | 991 | 101 | WReckitraff |
 | 992 | 101 | LaSharon Jackson |
 | 993 | 101 | Ryan Holm |
-| 994 | 100 | Jonathan McKenzie |
-| 995 | 100 | Kidgib5 |
-| 996 | 100 | BigMike |
-| 997 | 100 | Oldheads |
-| 998 | 100 | Smøke DGAF |
-| 999 | 100 | Thomas Pearson |
-| 1000 | 100 | Phillip White |
-| 1001 | 100 | Sarah Guarino |
-| 1002 | 100 | Keith Big-Sixx Mackell |
-| 1003 | 100 | Bunnie Celtavini |
-| 1004 | 100 | B.L. Perry |
-| 1005 | 100 | Ounquan Wright |
-| 1006 | 100 | Raymond Keeler |
-| 1007 | 100 | Star Hart |
+| 994 | 101 | star |
+| 995 | 100 | Jonathan McKenzie |
+| 996 | 100 | Kidgib5 |
+| 997 | 100 | BigMike |
+| 998 | 100 | Oldheads |
+| 999 | 100 | Smøke DGAF |
+| 1000 | 100 | Thomas Pearson |
+| 1001 | 100 | Phillip White |
+| 1002 | 100 | Sarah Guarino |
+| 1003 | 100 | Keith Big-Sixx Mackell |
+| 1004 | 100 | Raymond Keeler |
+| 1005 | 100 | Bunnie Celtavini |
+| 1006 | 100 | B.L. Perry |
+| 1007 | 100 | Ounquan Wright |
 | 1008 | 100 | brite |
 | 1009 | 100 | Megan Payette |
-| 1010 | 99 | Ernie Waters |
-| 1011 | 99 | Lucille Wilson Davis |
-| 1012 | 99 | Missy Myvette |
-| 1013 | 99 | Tellisa Payne |
-| 1014 | 99 | Yoellah Benyahmeen |
+| 1010 | 99 | Lucille Wilson Davis |
+| 1011 | 99 | Missy Myvette |
+| 1012 | 99 | Tellisa Payne |
+| 1013 | 99 | Yoellah Benyahmeen |
+| 1014 | 99 | Ernie Waters |
 | 1015 | 98 | Dee Dee |
 | 1016 | 98 | Desiree Ryder |
 | 1017 | 98 | Xrandomx |
