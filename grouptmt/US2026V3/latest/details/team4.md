@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 18:56:45 UTC
+# Standings for team4 as of 2026-06-09 18:57:24 UTC
 
 **Total Participants:** 2159
 
@@ -115,17 +115,17 @@
 | 107 | 1061 | Trice Stevenson |
 | 108 | 1055 | HurkleDurkle88 |
 | 109 | 1042 | Chuck Gannon |
-| 110 | 1032 | Esther Hadassah |
-| 111 | 1032 | Kelly Bernard |
+| 110 | 1032 | Kelly Bernard |
+| 111 | 1032 | Esther Hadassah |
 | 112 | 1026 | Snappy Fitzone |
 | 113 | 1019 | Dandy Puzzler |
 | 114 | 1012 | GeorgeButts |
 | 115 | 1008 | Beee |
 | 116 | 997 | Blayne Kole |
 | 117 | 992 | Keesha Muro |
-| 118 | 986 | Jesse Olive |
-| 119 | 986 | Kim |
-| 120 | 981 | Loony Glidepiece |
+| 118 | 988 | Loony Glidepiece |
+| 119 | 986 | Jesse Olive |
+| 120 | 986 | Kim |
 | 121 | 980 | Futrell Brent |
 | 122 | 979 | Heather Preston |
 | 123 | 965 | CJ |
@@ -145,12 +145,12 @@
 | 137 | 862 | vag1974 |
 | 138 | 848 | Andrew Dang |
 | 139 | 844 | Kay |
-| 140 | 841 | Shiny Dashy |
-| 141 | 841 | Pepone Pepe |
+| 140 | 841 | Pepone Pepe |
+| 141 | 841 | Shiny Dashy |
 | 142 | 830 | Kitsune Bi |
 | 143 | 820 | Jenn Fitzgerald |
-| 144 | 815 | SupaFly |
-| 145 | 815 | Thomasena Eady Reid |
+| 144 | 815 | Thomasena Eady Reid |
+| 145 | 815 | SupaFly |
 | 146 | 814 | adrian |
 | 147 | 813 | blockhead |
 | 148 | 800 | Nicole Peoples |
@@ -170,7 +170,7 @@
 | 162 | 735 | Cinta Marie |
 | 163 | 732 | Gracie Ornelas |
 | 164 | 725 | iiPurgeV2 |
-| 165 | 714 | Izz |
+| 165 | 716 | Izz |
 | 166 | 710 | Cranky Buildout |
 | 167 | 709 | Lisa Garcia |
 | 168 | 700 | DexterDobbins |
@@ -198,12 +198,12 @@
 | 190 | 613 | Anthony Lewis |
 | 191 | 610 | Lush Fitblock |
 | 192 | 609 | Scamp Jones |
-| 193 | 600 | Shocinda Sherwood |
-| 194 | 600 | Suzanne Carter |
-| 195 | 600 | Addi JayKay |
-| 196 | 600 | Magz |
-| 197 | 599 | Krysten Danielle Richard |
-| 198 | 598 | Alex Armour |
+| 193 | 604 | Alex Armour |
+| 194 | 600 | Shocinda Sherwood |
+| 195 | 600 | Suzanne Carter |
+| 196 | 600 | Addi JayKay |
+| 197 | 600 | Magz |
+| 198 | 599 | Krysten Danielle Richard |
 | 199 | 598 | Katie Lynn Petit |
 | 200 | 593 | Malik Thompson |
 | 201 | 592 | Sarah Berry Stevens |
@@ -506,9 +506,9 @@
 | 498 | 259 | Jen Roe |
 | 499 | 259 | Hasty Dropzone |
 | 500 | 259 | Sandra Stark |
-| 501 | 259 | Casey Thomas |
-| 502 | 258 | Danny Frausto |
-| 503 | 258 | ariel |
+| 501 | 259 | ariel |
+| 502 | 259 | Casey Thomas |
+| 503 | 258 | Danny Frausto |
 | 504 | 258 | FitMeDiva |
 | 505 | 256 | Tiffany Morris Garner |
 | 506 | 255 | Sean Mccleary |
