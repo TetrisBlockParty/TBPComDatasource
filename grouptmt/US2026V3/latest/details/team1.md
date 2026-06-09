@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:56:43 UTC
+# Standings for team1 as of 2026-06-09 23:57:23 UTC
 
 **Total Participants:** 2135
 
@@ -104,13 +104,13 @@
 | 96 | 1323 | Denise B |
 | 97 | 1313 | Ashley Espeut |
 | 98 | 1299 | Jason Mungin |
-| 99 | 1256 | BYM4L |
-| 100 | 1256 | Tameka Jones |
+| 99 | 1256 | Tameka Jones |
+| 100 | 1256 | BYM4L |
 | 101 | 1246 | Robbie Cheeseman |
 | 102 | 1230 | Amalie Newvine |
 | 103 | 1217 | Catara Renae Oliver |
-| 104 | 1217 | Dynah Gordon |
-| 105 | 1217 | G Ah Mayes |
+| 104 | 1217 | G Ah Mayes |
+| 105 | 1217 | Dynah Gordon |
 | 106 | 1216 | Tiana Moore |
 | 107 | 1210 | FallDee |
 | 108 | 1208 | Aviv Zehavi |
@@ -118,9 +118,9 @@
 | 110 | 1190 | Kimberly Hernandez |
 | 111 | 1170 | Jonathan Vee Jay |
 | 112 | 1161 | Snappy Link |
-| 113 | 1152 | She Higgy |
-| 114 | 1149 | Jazzy Dashpiece |
-| 115 | 1145 | ELM |
+| 113 | 1153 | ELM |
+| 114 | 1152 | She Higgy |
+| 115 | 1149 | Jazzy Dashpiece |
 | 116 | 1125 | Shellzb Roberts |
 | 117 | 1121 | Lisa Müller |
 | 118 | 1120 | IamJust Neyamijah Washington Sr. |
@@ -206,11 +206,11 @@
 | 198 | 654 | Sarah Clark |
 | 199 | 652 | Trina Greenwood |
 | 200 | 647 | Po Marley |
-| 201 | 646 | TeeMaster Barber IsLyfe |
-| 202 | 640 | Spicy Risepiece |
-| 203 | 639 | Block King |
-| 204 | 630 | SyTheEvilGenius1 |
-| 205 | 627 | Jazzy Fireflighters |
+| 201 | 647 | Jazzy Fireflighters |
+| 202 | 646 | TeeMaster Barber IsLyfe |
+| 203 | 640 | Spicy Risepiece |
+| 204 | 639 | Block King |
+| 205 | 630 | SyTheEvilGenius1 |
 | 206 | 622 | LaToya Chambers |
 | 207 | 619 | Tammye Turner |
 | 208 | 616 | xXEKUNXx |
@@ -369,8 +369,8 @@
 | 361 | 375 | Still Ten Tay |
 | 362 | 371 | SeanSanchez |
 | 363 | 371 | Lauraly |
-| 364 | 370 | Allison Baxter |
-| 365 | 369 | Jennah |
+| 364 | 370 | Jennah |
+| 365 | 370 | Allison Baxter |
 | 366 | 369 | Wayne Savannah |
 | 367 | 368 | Cortaz Lawrie |
 | 368 | 368 | Brand Nu |
@@ -955,35 +955,35 @@
 | 947 | 126 | Sally Elizabeth Hopson |
 | 948 | 126 | Benjamin Livingston |
 | 949 | 126 | Kahh |
-| 950 | 126 | Elaine Pauley |
-| 951 | 126 | Marc Papa |
+| 950 | 126 | Marc Papa |
+| 951 | 126 | Elaine Pauley |
 | 952 | 126 | Latoya Carson |
-| 953 | 125 | Latanya Gayle |
-| 954 | 125 | Lucy Range |
-| 955 | 124 | Willson06 |
+| 953 | 125 | Macho Lewis |
+| 954 | 125 | Latanya Gayle |
+| 955 | 125 | Lucy Range |
 | 956 | 124 | Tyrone Porter |
-| 957 | 124 | Kathleen Boyles |
+| 957 | 124 | Willson06 |
 | 958 | 124 | Franklin Sotelo |
-| 959 | 123 | April Lane |
-| 960 | 123 | Angela L Charles |
-| 961 | 123 | Dannie |
-| 962 | 123 | Tia Hazelton |
-| 963 | 123 | Jackytrain52 |
-| 964 | 123 | Mamiyoung47 |
-| 965 | 123 | Tanesha Ga'sFinest Corbett |
-| 966 | 122 | Teresa Menefee |
-| 967 | 122 | Teisha Scott |
-| 968 | 122 | CauliMac |
-| 969 | 122 | Nick Stowers |
-| 970 | 121 | Tiana Monique |
-| 971 | 121 | LaSharon Jackson |
-| 972 | 120 | Mark Steven Pichler |
-| 973 | 120 | Jackie English |
-| 974 | 120 | Demi Ovalle |
-| 975 | 120 | Lauren Farkas |
-| 976 | 120 | Macho Lewis |
-| 977 | 120 | Dianne Clagon |
-| 978 | 120 | Linzi Cole |
+| 959 | 124 | Kathleen Boyles |
+| 960 | 123 | April Lane |
+| 961 | 123 | Angela L Charles |
+| 962 | 123 | Tanesha Ga'sFinest Corbett |
+| 963 | 123 | Mamiyoung47 |
+| 964 | 123 | Dannie |
+| 965 | 123 | Jackytrain52 |
+| 966 | 123 | Tia Hazelton |
+| 967 | 122 | Teresa Menefee |
+| 968 | 122 | Nick Stowers |
+| 969 | 122 | CauliMac |
+| 970 | 122 | Teisha Scott |
+| 971 | 121 | Tiana Monique |
+| 972 | 121 | LaSharon Jackson |
+| 973 | 120 | Lauren Farkas |
+| 974 | 120 | Dianne Clagon |
+| 975 | 120 | Demi Ovalle |
+| 976 | 120 | Linzi Cole |
+| 977 | 120 | Jackie English |
+| 978 | 120 | Mark Steven Pichler |
 | 979 | 120 | Charles Johnson |
 | 980 | 120 | lookin |
 | 981 | 120 | Crafty Witch |
@@ -1187,12 +1187,12 @@
 | 1179 | 86 | LaTonya Rivers |
 | 1180 | 86 | Tweet Turner |
 | 1181 | 85 | Bobby Chestefield |
-| 1182 | 85 | Fairy Fae_6 |
-| 1183 | 84 | Lindsey |
-| 1184 | 84 | Christina Wesley |
-| 1185 | 84 | GiantBehemoth |
-| 1186 | 84 | Sunset Owens |
-| 1187 | 83 | Hoppy Buildsnap |
+| 1182 | 85 | Hoppy Buildsnap |
+| 1183 | 85 | Fairy Fae_6 |
+| 1184 | 84 | Lindsey |
+| 1185 | 84 | Christina Wesley |
+| 1186 | 84 | GiantBehemoth |
+| 1187 | 84 | Sunset Owens |
 | 1188 | 83 | Aridevina |
 | 1189 | 83 | Boldy Matchfit |
 | 1190 | 83 | Lateef |
@@ -2126,8 +2126,8 @@
 | 2118 | 5 | Derek Beverly |
 | 2119 | 5 | Misty Sollberger |
 | 2120 | 5 | VERA DAME |
-| 2121 | 5 | Jennie Vblaricom |
-| 2122 | 5 | Joi |
+| 2121 | 5 | Joi |
+| 2122 | 5 | Jennie Vblaricom |
 | 2123 | 5 | Crafty Fallzone |
 | 2124 | 5 | Jennifer Haton Kreighbaum |
 | 2125 | 5 | Zesty Brickline |
