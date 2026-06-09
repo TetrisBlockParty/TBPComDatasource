@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 09:28:22 UTC
+# Standings for team2 as of 2026-06-09 09:28:45 UTC
 
 **Total Participants:** 2453
 
@@ -399,38 +399,38 @@
 | 391 | 354 | Sarah Jane Gorsuch |
 | 392 | 354 | Maria Ward |
 | 393 | 353 | Jimmy Francis Shasta Bambi |
-| 394 | 350 | Marge Cromer |
-| 395 | 349 | Logan Duffey |
-| 396 | 347 | Melisa |
-| 397 | 346 | Ray Daisy |
-| 398 | 345 | Kellie Montgomery |
-| 399 | 345 | Skye Ehret |
-| 400 | 344 | Monica Gonzalez Rios |
-| 401 | 343 | Duke Morley |
-| 402 | 343 | ShiverMeSplinter |
-| 403 | 343 | Curly Windbreaker |
+| 394 | 351 | Zesty Zoney |
+| 395 | 350 | Marge Cromer |
+| 396 | 349 | Logan Duffey |
+| 397 | 347 | Melisa |
+| 398 | 346 | Ray Daisy |
+| 399 | 345 | Kellie Montgomery |
+| 400 | 345 | Skye Ehret |
+| 401 | 344 | Monica Gonzalez Rios |
+| 402 | 343 | Duke Morley |
+| 403 | 343 | ShiverMeSplinter |
 | 404 | 343 | Paula Haskins |
-| 405 | 341 | Jennifer Lalk |
-| 406 | 341 | Kelly Vedder |
+| 405 | 343 | Curly Windbreaker |
+| 406 | 341 | Amy Nicole McCanne |
 | 407 | 341 | Bengy Lead |
-| 408 | 341 | Amy Nicole McCanne |
-| 409 | 341 | Stephanie |
-| 410 | 340 | Tony Medina |
-| 411 | 340 | LittleHippoEars |
-| 412 | 339 | Wacky Stack |
-| 413 | 337 | Harper |
+| 408 | 341 | Jennifer Lalk |
+| 409 | 341 | Kelly Vedder |
+| 410 | 341 | Stephanie |
+| 411 | 340 | Tony Medina |
+| 412 | 340 | LittleHippoEars |
+| 413 | 339 | Wacky Stack |
 | 414 | 337 | Nathan Walker |
-| 415 | 336 | Symmy Norton |
-| 416 | 336 | Karly Moore |
-| 417 | 336 | Kathleen Keogh Van Schoyck |
-| 418 | 335 | SturgStang |
-| 419 | 335 | Sassy Twistbuilder |
-| 420 | 332 | Elizabeth Henry |
-| 421 | 331 | Anthony Swift |
-| 422 | 331 | Francesca Wagenhoffer |
-| 423 | 330 | marsam |
-| 424 | 328 | Buffy Diane Blake |
-| 425 | 326 | Zesty Zoney |
+| 415 | 337 | Harper |
+| 416 | 336 | Symmy Norton |
+| 417 | 336 | Karly Moore |
+| 418 | 336 | Kathleen Keogh Van Schoyck |
+| 419 | 335 | SturgStang |
+| 420 | 335 | Sassy Twistbuilder |
+| 421 | 332 | Elizabeth Henry |
+| 422 | 331 | Anthony Swift |
+| 423 | 331 | Francesca Wagenhoffer |
+| 424 | 330 | marsam |
+| 425 | 328 | Buffy Diane Blake |
 | 426 | 326 | Amber Smith |
 | 427 | 325 | Snappy Combo |
 | 428 | 324 | Kathryn |
@@ -773,8 +773,8 @@
 | 765 | 179 | Cool Patternbuilder |
 | 766 | 179 | Dandy Tiltgrid |
 | 767 | 179 | Mandeee |
-| 768 | 179 | Jennifer Augustine |
-| 769 | 179 | Crafty Liner |
+| 768 | 179 | Crafty Liner |
+| 769 | 179 | Jennifer Augustine |
 | 770 | 178 | Dayna Messer-Thelen |
 | 771 | 178 | Twisty Matchfit |
 | 772 | 178 | Rocroc mo |
@@ -786,16 +786,16 @@
 | 778 | 176 | Sara Moericke |
 | 779 | 176 | Chill Clearbuilder |
 | 780 | 176 | Perky Rollfit |
-| 781 | 176 | Tina Carr |
-| 782 | 175 | Nicole Sides KrazyKoop |
-| 783 | 175 | Distro |
-| 784 | 175 | Frilly Shiftsnap |
-| 785 | 175 | Courtney Madison Hart |
-| 786 | 175 | Allison Peterson |
-| 787 | 175 | Lydia Shonee |
-| 788 | 174 | Nova |
-| 789 | 174 | Giggly Spinblock |
-| 790 | 174 | Ryan Rhodes |
+| 781 | 176 | Ryan Rhodes |
+| 782 | 176 | Tina Carr |
+| 783 | 175 | Nicole Sides KrazyKoop |
+| 784 | 175 | Distro |
+| 785 | 175 | Frilly Shiftsnap |
+| 786 | 175 | Courtney Madison Hart |
+| 787 | 175 | Allison Peterson |
+| 788 | 175 | Lydia Shonee |
+| 789 | 174 | Nova |
+| 790 | 174 | Giggly Spinblock |
 | 791 | 174 | Jasmine Goggans |
 | 792 | 174 | Nichole Fuller |
 | 793 | 173 | Tami Weiss |
