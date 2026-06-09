@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 22:16:47 UTC
+# Standings for team2 as of 2026-06-09 22:17:22 UTC
 
 **Total Participants:** 2592
 
@@ -381,8 +381,8 @@
 | 373 | 420 | Linda Guay |
 | 374 | 419 | Gluten Gremlin |
 | 375 | 418 | Heather Burgett |
-| 376 | 418 | Joanna Trevin Thompson |
-| 377 | 418 | Kathleen Keogh Van Schoyck |
+| 376 | 418 | Kathleen Keogh Van Schoyck |
+| 377 | 418 | Joanna Trevin Thompson |
 | 378 | 418 | Flashy Drop |
 | 379 | 417 | Saucy Wrecker |
 | 380 | 416 | Jessica Lynn |
@@ -421,21 +421,21 @@
 | 413 | 387 | Zach Jewett |
 | 414 | 387 | Doowop40 |
 | 415 | 387 | Funway998 |
-| 416 | 385 | Pamela Raye |
-| 417 | 385 | Bengy Lead |
-| 418 | 385 | Stephanie |
-| 419 | 385 | Hypee |
-| 420 | 384 | Jacquelyn Snyder Dumas |
-| 421 | 384 | Amber Cogdill |
-| 422 | 384 | Buffy Diane Blake |
-| 423 | 383 | Jenna Stahl |
-| 424 | 383 | Smiley Staggerpiece |
-| 425 | 383 | Elizabeth Henry |
-| 426 | 382 | Zesty Zoney |
-| 427 | 382 | Chummy Snapbuilder |
-| 428 | 380 | Bb |
-| 429 | 380 | August Christy Lathrop |
-| 430 | 379 | Wacky Rollbuilder |
+| 416 | 386 | Wacky Rollbuilder |
+| 417 | 385 | Stephanie |
+| 418 | 385 | Hypee |
+| 419 | 385 | Pamela Raye |
+| 420 | 385 | Bengy Lead |
+| 421 | 384 | Jacquelyn Snyder Dumas |
+| 422 | 384 | Amber Cogdill |
+| 423 | 384 | Buffy Diane Blake |
+| 424 | 383 | Jenna Stahl |
+| 425 | 383 | Smiley Staggerpiece |
+| 426 | 383 | Elizabeth Henry |
+| 427 | 382 | Zesty Zoney |
+| 428 | 382 | Chummy Snapbuilder |
+| 429 | 380 | Bb |
+| 430 | 380 | August Christy Lathrop |
 | 431 | 379 | Nathan Walker |
 | 432 | 377 | Staci Behrens |
 | 433 | 376 | Quirky Clicky |
@@ -2154,11 +2154,11 @@
 | 2146 | 28 | Chummy Clear |
 | 2147 | 28 | Celeste Samuels |
 | 2148 | 28 | Amanda Fields |
-| 2149 | 27 | Kim |
+| 2149 | 27 | COWBOY |
 | 2150 | 27 | Peachy Piecebuilder |
 | 2151 | 27 | Ashley Corbett |
 | 2152 | 27 | Shane Peavey |
-| 2153 | 27 | COWBOY |
+| 2153 | 27 | Kim |
 | 2154 | 27 | Dreamy Linkblock |
 | 2155 | 27 | Kristina Joye |
 | 2156 | 27 | Amanda Morales |
@@ -2179,12 +2179,12 @@
 | 2171 | 26 | Virginia Campbell |
 | 2172 | 26 | Funkykarebear |
 | 2173 | 26 | Cathy Clark |
-| 2174 | 26 | nova |
-| 2175 | 26 | Tina Doyens Munis |
-| 2176 | 26 | Danibellee |
-| 2177 | 26 | Quirky Climber |
-| 2178 | 26 | Darlene Russell |
-| 2179 | 26 | Samantha Morrison |
+| 2174 | 26 | Samantha Morrison |
+| 2175 | 26 | Darlene Russell |
+| 2176 | 26 | Quirky Climber |
+| 2177 | 26 | Tina Doyens Munis |
+| 2178 | 26 | Danibellee |
+| 2179 | 26 | nova |
 | 2180 | 25 | Crasher |
 | 2181 | 25 | Gage Tucker |
 | 2182 | 25 | Brittnee Lane |
@@ -2206,46 +2206,46 @@
 | 2198 | 24 | Royalty |
 | 2199 | 24 | Ellen Mallette Clemmons |
 | 2200 | 24 | אֵלִיָּהוּ ציר |
-| 2201 | 24 | Johnathon Mendiola |
-| 2202 | 24 | April Wright |
+| 2201 | 24 | April Wright |
+| 2202 | 24 | Nicole |
 | 2203 | 24 | Kathryn Mason |
-| 2204 | 24 | Nicole |
-| 2205 | 23 | Shirley Bates |
+| 2204 | 24 | Johnathon Mendiola |
+| 2205 | 23 | Sarah Phelps Beyer |
 | 2206 | 23 | Rich Gorondy |
-| 2207 | 23 | Sarah Phelps Beyer |
-| 2208 | 23 | Kristyn Crysel |
-| 2209 | 23 | Tommyboy |
-| 2210 | 23 | Haley |
-| 2211 | 23 | Giggly Glider |
-| 2212 | 23 | Spicy Basepiece |
-| 2213 | 23 | Perky Stackbuilder |
-| 2214 | 23 | no name |
-| 2215 | 23 | Kharisma Unks |
-| 2216 | 23 | Flashy Balanceblock |
-| 2217 | 23 | Jumpy Tilemaker |
-| 2218 | 23 | Saucy Clusterer |
-| 2219 | 23 | Linda Riegsecker |
-| 2220 | 23 | Cherry L. Salama |
-| 2221 | 23 | Amanda Raley |
-| 2222 | 22 | Brandi Phifer |
-| 2223 | 22 | Shaunda Thompson |
-| 2224 | 22 | Amanda Hastings |
-| 2225 | 22 | PrincessGT |
-| 2226 | 22 | Lissa |
-| 2227 | 22 | Jazzy Twistbuilder |
-| 2228 | 22 | Tyler Bates |
-| 2229 | 22 | Melanesia Springs |
-| 2230 | 22 | Heather |
-| 2231 | 22 | Stacy Stickle |
-| 2232 | 22 | Mel |
-| 2233 | 22 | Amy DeSoto |
-| 2234 | 22 | Nutty Cascader |
-| 2235 | 22 | Kim Gentry |
-| 2236 | 22 | SueEllen Hawkins |
-| 2237 | 21 | Jacqueline Leigh Zuzinec |
-| 2238 | 21 | Lou Sassole |
+| 2207 | 23 | Alison Welsh |
+| 2208 | 23 | Shirley Bates |
+| 2209 | 23 | Kristyn Crysel |
+| 2210 | 23 | Tommyboy |
+| 2211 | 23 | Haley |
+| 2212 | 23 | Giggly Glider |
+| 2213 | 23 | Spicy Basepiece |
+| 2214 | 23 | Perky Stackbuilder |
+| 2215 | 23 | no name |
+| 2216 | 23 | Kharisma Unks |
+| 2217 | 23 | Flashy Balanceblock |
+| 2218 | 23 | Jumpy Tilemaker |
+| 2219 | 23 | Saucy Clusterer |
+| 2220 | 23 | Linda Riegsecker |
+| 2221 | 23 | Cherry L. Salama |
+| 2222 | 23 | Amanda Raley |
+| 2223 | 22 | Brandi Phifer |
+| 2224 | 22 | Shaunda Thompson |
+| 2225 | 22 | Amanda Hastings |
+| 2226 | 22 | PrincessGT |
+| 2227 | 22 | Lissa |
+| 2228 | 22 | Jazzy Twistbuilder |
+| 2229 | 22 | Tyler Bates |
+| 2230 | 22 | Melanesia Springs |
+| 2231 | 22 | Heather |
+| 2232 | 22 | Stacy Stickle |
+| 2233 | 22 | Mel |
+| 2234 | 22 | Amy DeSoto |
+| 2235 | 22 | Nutty Cascader |
+| 2236 | 22 | Kim Gentry |
+| 2237 | 22 | SueEllen Hawkins |
+| 2238 | 21 | Jacqueline Leigh Zuzinec |
 | 2239 | 21 | Randi Moore |
-| 2240 | 21 | Alison Welsh |
+| 2240 | 21 | Lou Sassole |
 | 2241 | 21 | sally |
 | 2242 | 21 | Jennifer Chapel |
 | 2243 | 21 | Loony Snapclear |
