@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 16:18:47 UTC
+# Standings for team1 as of 2026-06-09 16:19:22 UTC
 
 **Total Participants:** 2076
 
@@ -135,7 +135,7 @@
 | 127 | 897 | Carolynne Walker-Bell |
 | 128 | 896 | Alana Renee |
 | 129 | 891 | Lesley Brunkus Cianfaglione |
-| 130 | 887 | Plucky Slamdrop |
+| 130 | 891 | Plucky Slamdrop |
 | 131 | 886 | Ebony Waynes-robinson |
 | 132 | 883 | Rolanda Williams |
 | 133 | 882 | Jon Gathers |
@@ -263,10 +263,10 @@
 | 255 | 476 | Choc |
 | 256 | 474 | Kate Hancock Malicek |
 | 257 | 473 | Nicole Watson-Dixon |
-| 258 | 468 | Sheila Burnham |
-| 259 | 466 | Cachet A Ward |
-| 260 | 465 | Elizabeth Vega Coreano |
-| 261 | 465 | Cheeky Pop |
+| 258 | 469 | Cheeky Pop |
+| 259 | 468 | Sheila Burnham |
+| 260 | 466 | Cachet A Ward |
+| 261 | 465 | Elizabeth Vega Coreano |
 | 262 | 465 | Natasha Rucker |
 | 263 | 462 | Jhonny Maii |
 | 264 | 462 | Frisky Fall |
@@ -587,44 +587,44 @@
 | 579 | 216 | Lively Clusterline |
 | 580 | 216 | Londa Londa |
 | 581 | 215 | MzJuice Box |
-| 582 | 215 | GetDaOPPS |
+| 582 | 215 | Perky Balancer |
 | 583 | 215 | Yashica Smith |
-| 584 | 215 | Perky Balancer |
+| 584 | 215 | GetDaOPPS |
 | 585 | 214 | Stephen Providenti |
 | 586 | 214 | Nickeya Phillips |
-| 587 | 213 | Sarah Steckbauer |
-| 588 | 213 | Nyhlah Patterson |
-| 589 | 213 | crumb bumc |
-| 590 | 213 | Daring Riserfit |
+| 587 | 213 | Nyhlah Patterson |
+| 588 | 213 | Daring Riserfit |
+| 589 | 213 | Sarah Steckbauer |
+| 590 | 213 | crumb bumc |
 | 591 | 212 | Simply-Beautiful007 |
 | 592 | 212 | Tyree Tman Shinette |
-| 593 | 211 | Lynnette WheelerBushnell |
-| 594 | 210 | Logan Frost |
-| 595 | 209 | Phillip Vasquez |
+| 593 | 212 | Katrina Ramey |
+| 594 | 211 | Lynnette WheelerBushnell |
+| 595 | 210 | Logan Frost |
 | 596 | 209 | $hort Dog |
-| 597 | 208 | Bella |
-| 598 | 208 | Juicy |
-| 599 | 208 | Soubletzy |
-| 600 | 208 | Kelley Johnson |
-| 601 | 208 | Tee Spinks |
-| 602 | 208 | Nora Mahmoud |
-| 603 | 207 | Candy Lee |
+| 597 | 209 | Phillip Vasquez |
+| 598 | 208 | Kelley Johnson |
+| 599 | 208 | Tee Spinks |
+| 600 | 208 | Soubletzy |
+| 601 | 208 | Juicy |
+| 602 | 208 | Bella |
+| 603 | 208 | Nora Mahmoud |
 | 604 | 207 | Shawn Himes |
-| 605 | 207 | Courtney Cicoria |
-| 606 | 207 | Mary Phillippi Blanton |
-| 607 | 206 | Shelly Everette |
+| 605 | 207 | Candy Lee |
+| 606 | 207 | Courtney Cicoria |
+| 607 | 207 | Mary Phillippi Blanton |
 | 608 | 206 | Zappy Clearfit |
-| 609 | 206 | Katrina Ramey |
-| 610 | 205 | Semaj Johnson |
-| 611 | 205 | Sarah Barnum |
-| 612 | 205 | Tramaine Crockrum |
-| 613 | 205 | Polite Granny |
-| 614 | 205 | Sarah Swietlicki - Lopez |
-| 615 | 205 | Treneil Daffin |
-| 616 | 204 | Marlynnnnn |
-| 617 | 204 | Dorian Griffin |
-| 618 | 204 | Cynda Cyn |
-| 619 | 204 | Rosalind Chatman |
+| 609 | 206 | Shelly Everette |
+| 610 | 205 | Polite Granny |
+| 611 | 205 | Treneil Daffin |
+| 612 | 205 | Sarah Swietlicki - Lopez |
+| 613 | 205 | Tramaine Crockrum |
+| 614 | 205 | Sarah Barnum |
+| 615 | 205 | Semaj Johnson |
+| 616 | 204 | Rosalind Chatman |
+| 617 | 204 | Cynda Cyn |
+| 618 | 204 | Dorian Griffin |
+| 619 | 204 | Marlynnnnn |
 | 620 | 203 | Ashley Monet Terrell |
 | 621 | 203 | Jovy |
 | 622 | 202 | Alexandrla Smith |
@@ -639,10 +639,10 @@
 | 631 | 200 | Nisha Sunshine Jenkins |
 | 632 | 200 | Victoria Smith |
 | 633 | 199 | Anastasia |
-| 634 | 198 | Shannon Carriger |
-| 635 | 198 | Darrelle Short |
-| 636 | 198 | Victor |
-| 637 | 198 | Frilly Shatterline |
+| 634 | 199 | Frilly Shatterline |
+| 635 | 198 | Shannon Carriger |
+| 636 | 198 | Darrelle Short |
+| 637 | 198 | Victor |
 | 638 | 198 | Rhianna Dinki Austin |
 | 639 | 198 | Ashlie Mo |
 | 640 | 197 | krd |
@@ -709,12 +709,12 @@
 | 701 | 176 | Callie Mae |
 | 702 | 176 | Frisky Gridder |
 | 703 | 176 | Squaw Ki Ng |
-| 704 | 175 | Christina Singleton |
-| 705 | 175 | DaemahnFriday |
-| 706 | 175 | Angie Smith |
-| 707 | 175 | Xana Zania Bopp |
-| 708 | 174 | Nerdy Wipefit |
-| 709 | 174 | Nekka |
+| 704 | 176 | Nekka |
+| 705 | 175 | Christina Singleton |
+| 706 | 175 | DaemahnFriday |
+| 707 | 175 | Angie Smith |
+| 708 | 175 | Xana Zania Bopp |
+| 709 | 174 | Nerdy Wipefit |
 | 710 | 173 | Claudia Price |
 | 711 | 173 | Mathew Trudell |
 | 712 | 173 | Kim Holzmiller |
@@ -1148,12 +1148,12 @@
 | 1140 | 82 | Jeaneé Nay |
 | 1141 | 82 | Tempee |
 | 1142 | 82 | Idelia L Brown |
-| 1143 | 82 | April Lane |
-| 1144 | 81 | GracefulOwl808 |
-| 1145 | 81 | Hannah Hall |
-| 1146 | 81 | Tonya Thomas |
-| 1147 | 81 | Macho Lewis |
-| 1148 | 81 | Jaxon Antuna |
+| 1143 | 82 | Jaxon Antuna |
+| 1144 | 82 | April Lane |
+| 1145 | 81 | GracefulOwl808 |
+| 1146 | 81 | Hannah Hall |
+| 1147 | 81 | Tonya Thomas |
+| 1148 | 81 | Macho Lewis |
 | 1149 | 81 | Vontii Blades |
 | 1150 | 80 | Rachel Lopez |
 | 1151 | 80 | Smiley Glider |
