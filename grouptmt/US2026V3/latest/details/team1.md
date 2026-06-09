@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:22:44 UTC
+# Standings for team1 as of 2026-06-09 07:23:22 UTC
 
 **Total Participants:** 2011
 
@@ -123,14 +123,14 @@
 | 115 | 931 | La'Chae Nickole |
 | 116 | 924 | Jaida De'Anne Cox |
 | 117 | 908 | Danielle Barthelme |
-| 118 | 895 | Slim Shedidthat |
-| 119 | 883 | Rolanda Williams |
-| 120 | 882 | Jon Gathers |
-| 121 | 877 | Michael J Gresham |
-| 122 | 869 | Slinky Puzzler |
-| 123 | 861 | Eartha Brown |
-| 124 | 848 | Atlantalindi |
-| 125 | 847 | Alana Renee |
+| 118 | 896 | Alana Renee |
+| 119 | 895 | Slim Shedidthat |
+| 120 | 883 | Rolanda Williams |
+| 121 | 882 | Jon Gathers |
+| 122 | 877 | Michael J Gresham |
+| 123 | 869 | Slinky Puzzler |
+| 124 | 861 | Eartha Brown |
+| 125 | 848 | Atlantalindi |
 | 126 | 844 | Peppy Piececlear |
 | 127 | 842 | Nutty Spinblock |
 | 128 | 831 | Kaleisha Smith |
@@ -244,8 +244,8 @@
 | 236 | 466 | Tessa Gaskin |
 | 237 | 465 | Natasha Rucker |
 | 238 | 462 | Jenna Renee |
-| 239 | 460 | Tanya Clayton |
-| 240 | 459 | Jhonny Maii |
+| 239 | 462 | Jhonny Maii |
+| 240 | 460 | Tanya Clayton |
 | 241 | 458 | Jimmie Makia |
 | 242 | 456 | Cachet A Ward |
 | 243 | 455 | Tamara Johnson-Carter |
