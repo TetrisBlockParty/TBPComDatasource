@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:05:23 UTC
+# Standings for team1 as of 2026-06-09 06:06:44 UTC
 
 **Total Participants:** 1997
 
@@ -144,7 +144,7 @@
 | 136 | 754 | Jhaime |
 | 137 | 751 | Kellie Hall |
 | 138 | 747 | Carolynne Walker-Bell |
-| 139 | 730 | Plucky Slamdrop |
+| 139 | 734 | Plucky Slamdrop |
 | 140 | 730 | ing410 |
 | 141 | 720 | Murg4dr01d |
 | 142 | 720 | Felicia Williams |
@@ -158,10 +158,10 @@
 | 150 | 686 | W.A. Simpson |
 | 151 | 685 | Ebony Waynes-robinson |
 | 152 | 671 | Gotcha |
-| 153 | 668 | JaszyBadd |
-| 154 | 664 | Chantelle Lee |
-| 155 | 662 | Gael Quintana |
-| 156 | 659 | Byron Mario Cawthon |
+| 153 | 669 | Byron Mario Cawthon |
+| 154 | 668 | JaszyBadd |
+| 155 | 664 | Chantelle Lee |
+| 156 | 662 | Gael Quintana |
 | 157 | 649 | sha |
 | 158 | 644 | Dena Marie Lee |
 | 159 | 643 | Ottison Dianna |
@@ -1299,63 +1299,63 @@
 | 1291 | 54 | deeno |
 | 1292 | 54 | Ķïrãã Ďãvïss |
 | 1293 | 54 | Beautiful314 |
-| 1294 | 54 | Christina Wesley |
-| 1295 | 54 | Embracing Hair |
+| 1294 | 54 | Embracing Hair |
+| 1295 | 54 | Mrs |
 | 1296 | 54 | Michael Jones |
-| 1297 | 54 | Jaay Bender |
-| 1298 | 54 | Maranda Broadway |
-| 1299 | 54 | Tammy Scott Mallen |
-| 1300 | 54 | Mrs |
-| 1301 | 53 | Kenneth Williams |
-| 1302 | 53 | Adonai Saves |
-| 1303 | 53 | Michael Lindenlauf |
-| 1304 | 53 | Chinkey Overit |
-| 1305 | 53 | don ralph |
-| 1306 | 53 | Jaxon Antuna |
-| 1307 | 53 | Angela C. |
-| 1308 | 53 | Sashaleo |
-| 1309 | 52 | Loopy Risepiece |
-| 1310 | 52 | Chummy Liner |
+| 1297 | 54 | Christina Wesley |
+| 1298 | 54 | Tammy Scott Mallen |
+| 1299 | 54 | Jaay Bender |
+| 1300 | 54 | Maranda Broadway |
+| 1301 | 53 | Chinkey Overit |
+| 1302 | 53 | Michael Lindenlauf |
+| 1303 | 53 | don ralph |
+| 1304 | 53 | Jaxon Antuna |
+| 1305 | 53 | Adonai Saves |
+| 1306 | 53 | Sashaleo |
+| 1307 | 53 | Kenneth Williams |
+| 1308 | 53 | Angela C. |
+| 1309 | 52 | Chummy Liner |
+| 1310 | 52 | Loopy Risepiece |
 | 1311 | 52 | L-Kamice Boykin |
-| 1312 | 51 | Quirky Spinblock |
-| 1313 | 51 | Jakari Wool |
-| 1314 | 51 | Madam Suki |
-| 1315 | 51 | Austin Smith |
+| 1312 | 51 | Jakari Wool |
+| 1313 | 51 | Austin Smith |
+| 1314 | 51 | Emeka Agu |
+| 1315 | 51 | Danielle Marie Lewis |
 | 1316 | 51 | Laura |
 | 1317 | 51 | SpeedyJas |
-| 1318 | 51 | Danielle Marie Lewis |
-| 1319 | 51 | Emeka Agu |
-| 1320 | 50 | Daring Linkfall |
-| 1321 | 50 | Nockallday |
-| 1322 | 50 | Denell Sims |
-| 1323 | 50 | Darlene Johnson |
-| 1324 | 50 | Aero Builder |
-| 1325 | 50 | PattyPower |
-| 1326 | 50 | TrapQween39Bi |
-| 1327 | 50 | Skye |
-| 1328 | 50 | Douglas Jones |
-| 1329 | 50 | MsBobby Patrick |
-| 1330 | 50 | Spunky Gridder |
-| 1331 | 50 | Snappy Strikerpiece |
+| 1318 | 51 | Madam Suki |
+| 1319 | 51 | Quirky Spinblock |
+| 1320 | 50 | PattyPower |
+| 1321 | 50 | Snappy Strikerpiece |
+| 1322 | 50 | Skye |
+| 1323 | 50 | Aero Builder |
+| 1324 | 50 | ThaMENACING1 |
+| 1325 | 50 | Darlene Johnson |
+| 1326 | 50 | MsBobby Patrick |
+| 1327 | 50 | Douglas Jones |
+| 1328 | 50 | Speedy Patternblock |
+| 1329 | 50 | Spunky Gridder |
+| 1330 | 50 | Nockallday |
+| 1331 | 50 | Daring Linkfall |
 | 1332 | 50 | Latanya Gayle |
-| 1333 | 50 | ThaMENACING1 |
-| 1334 | 50 | Speedy Patternblock |
-| 1335 | 49 | Carl Richardson |
+| 1333 | 50 | LaTonya Collier |
+| 1334 | 50 | Denell Sims |
+| 1335 | 50 | TrapQween39Bi |
 | 1336 | 49 | Aridevina |
-| 1337 | 49 | TiffanyG |
-| 1338 | 49 | Vortex Viniq |
-| 1339 | 49 | Jeremy Pope |
+| 1337 | 49 | Carl Richardson |
+| 1338 | 49 | TiffanyG |
+| 1339 | 49 | Vortex Viniq |
 | 1340 | 49 | Brika Brika |
 | 1341 | 49 | Farah Simpson |
 | 1342 | 49 | Alyssa H |
-| 1343 | 49 | Pretty-Lily |
-| 1344 | 49 | Tara Clarke |
-| 1345 | 48 | Bubbly Crawler |
-| 1346 | 48 | LoveLee |
-| 1347 | 48 | Mazi Johnson |
-| 1348 | 48 | Crafty Pivoty |
-| 1349 | 48 | LaTonya Collier |
-| 1350 | 48 | Bubbly Base |
+| 1343 | 49 | Jeremy Pope |
+| 1344 | 49 | Pretty-Lily |
+| 1345 | 49 | Tara Clarke |
+| 1346 | 48 | Bubbly Base |
+| 1347 | 48 | Bubbly Crawler |
+| 1348 | 48 | LoveLee |
+| 1349 | 48 | Mazi Johnson |
+| 1350 | 48 | Crafty Pivoty |
 | 1351 | 48 | Davina Valentino |
 | 1352 | 48 | BlessedBeauty |
 | 1353 | 48 | jaz |
