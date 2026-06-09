@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:06:45 UTC
+# Standings for team1 as of 2026-06-09 07:07:23 UTC
 
 **Total Participants:** 2008
 
@@ -759,10 +759,10 @@
 | 751 | 140 | Stanley Dixon |
 | 752 | 140 | TBabii24 |
 | 753 | 140 | Shadon McMillan |
-| 754 | 140 | Marcello Rush |
+| 754 | 140 | Kennedi Brazziel |
 | 755 | 140 | Cameo Tweed |
-| 756 | 140 | Kennedi Brazziel |
-| 757 | 140 | Victoria Smith |
+| 756 | 140 | Victoria Smith |
+| 757 | 140 | Marcello Rush |
 | 758 | 139 | Lexx Robins |
 | 759 | 139 | Rochelle Nash-Evans |
 | 760 | 139 | Naee Bee |
@@ -773,89 +773,89 @@
 | 765 | 138 | Ozell Jones Jr. |
 | 766 | 138 | Christy Quick |
 | 767 | 138 | Kizzy Clark |
-| 768 | 138 | messyboots |
-| 769 | 138 | Jazzy Bridger |
-| 770 | 138 | Rene Hicks |
-| 771 | 137 | Xana Zania Bopp |
-| 772 | 137 | Christina Singleton |
-| 773 | 137 | Tina Blessed Cage |
-| 774 | 137 | Lootch |
-| 775 | 137 | Angelique Talbot |
+| 768 | 138 | Rene Hicks |
+| 769 | 138 | messyboots |
+| 770 | 138 | Jazzy Bridger |
+| 771 | 137 | Angelique Talbot |
+| 772 | 137 | Xana Zania Bopp |
+| 773 | 137 | Christina Singleton |
+| 774 | 137 | Tina Blessed Cage |
+| 775 | 137 | Lootch |
 | 776 | 136 | Christopher Shaw-Black |
 | 777 | 136 | Chereese Harris |
-| 778 | 135 | Mellie Mel |
+| 778 | 136 | Donnie Withthebody |
 | 779 | 135 | Paul Pendley |
-| 780 | 135 | Saucy Tile |
-| 781 | 134 | Chris Nelson |
-| 782 | 134 | Laurie Napper |
-| 783 | 133 | Biggestboss Ransom |
-| 784 | 133 | Derald Miller |
-| 785 | 132 | TieMs BHughez |
-| 786 | 132 | Zany Patternblock |
-| 787 | 132 | Carla |
-| 788 | 132 | Desi Guerra |
-| 789 | 131 | Locke Mahal LD |
-| 790 | 131 | Kortney Adams |
-| 791 | 131 | Kimberly Anderson |
-| 792 | 131 | Cynthia Cruell |
-| 793 | 131 | Donnie Withthebody |
-| 794 | 131 | Koreen Johnson-Woolford |
+| 780 | 135 | Mellie Mel |
+| 781 | 135 | Saucy Tile |
+| 782 | 134 | Chris Nelson |
+| 783 | 134 | Laurie Napper |
+| 784 | 133 | Biggestboss Ransom |
+| 785 | 133 | Derald Miller |
+| 786 | 132 | Carla |
+| 787 | 132 | Desi Guerra |
+| 788 | 132 | Zany Patternblock |
+| 789 | 132 | TieMs BHughez |
+| 790 | 131 | Koreen Johnson-Woolford |
+| 791 | 131 | Cynthia Cruell |
+| 792 | 131 | Kortney Adams |
+| 793 | 131 | Kimberly Anderson |
+| 794 | 131 | Locke Mahal LD |
 | 795 | 130 | Tito Divyn |
 | 796 | 130 | Jessica Davis |
 | 797 | 130 | Anthony Collins |
 | 798 | 130 | Gerold Folk Haddock |
-| 799 | 129 | Frilly Shatterline |
-| 800 | 129 | Stronger Wiser Better |
+| 799 | 129 | Twisty Dashy |
+| 800 | 129 | Bouncy Glide |
 | 801 | 129 | Williams Candace |
-| 802 | 129 | Chino Baby |
-| 803 | 129 | JesusSaves 😇 |
-| 804 | 129 | Twisty Dashy |
-| 805 | 129 | Jas |
-| 806 | 129 | Bouncy Glide |
-| 807 | 128 | Li-Li Ratliff |
+| 802 | 129 | Stronger Wiser Better |
+| 803 | 129 | Frilly Shatterline |
+| 804 | 129 | Chino Baby |
+| 805 | 129 | JesusSaves 😇 |
+| 806 | 129 | Jas |
+| 807 | 128 | Brittany Britkany Marsden-Garrison |
 | 808 | 128 | Katness |
-| 809 | 128 | Brittany Britkany Marsden-Garrison |
-| 810 | 127 | Cheryl Miller |
-| 811 | 127 | Pretty Yella |
+| 809 | 128 | Li-Li Ratliff |
+| 810 | 127 | Pretty Yella |
+| 811 | 127 | Ashley Davis |
 | 812 | 127 | Witty Clear |
-| 813 | 127 | Ashley Davis |
-| 814 | 126 | Benjamin Livingston |
+| 813 | 127 | Cheryl Miller |
+| 814 | 126 | Sally Elizabeth Hopson |
 | 815 | 126 | Shawna Passwater |
 | 816 | 126 | Elaine Pauley |
-| 817 | 126 | Sally Elizabeth Hopson |
-| 818 | 126 | Kahh |
-| 819 | 126 | Mom3granny2 |
+| 817 | 126 | Benjamin Livingston |
+| 818 | 126 | Mom3granny2 |
+| 819 | 126 | Kahh |
 | 820 | 126 | Jess |
 | 821 | 126 | Latoya Carson |
 | 822 | 125 | Jodie |
-| 823 | 124 | Nichelle Warren |
-| 824 | 124 | Renee Marshall |
-| 825 | 124 | Franklin Sotelo |
-| 826 | 124 | Sheesh |
-| 827 | 124 | Ysma Simmons |
-| 828 | 124 | Sunny Tumbler |
-| 829 | 123 | Jackytrain52 |
-| 830 | 123 | Esha I'msoproudofmyself Davis |
-| 831 | 123 | Tia Hazelton |
-| 832 | 123 | Tanesha Ga'sFinest Corbett |
-| 833 | 123 | Dannie |
-| 834 | 123 | Stephen Garland |
-| 835 | 123 | Block |
-| 836 | 123 | Jason Saputo |
-| 837 | 123 | Lady T |
+| 823 | 124 | Renee Marshall |
+| 824 | 124 | Nichelle Warren |
+| 825 | 124 | Sunny Tumbler |
+| 826 | 124 | Ysma Simmons |
+| 827 | 124 | Sheesh |
+| 828 | 124 | Franklin Sotelo |
+| 829 | 123 | Block |
+| 830 | 123 | Stephen Garland |
+| 831 | 123 | Tanesha Ga'sFinest Corbett |
+| 832 | 123 | Jackytrain52 |
+| 833 | 123 | Lady T |
+| 834 | 123 | Jason Saputo |
+| 835 | 123 | Tia Hazelton |
+| 836 | 123 | Esha I'msoproudofmyself Davis |
+| 837 | 123 | Dannie |
 | 838 | 122 | Motown Chuck |
-| 839 | 122 | William Vidra |
-| 840 | 122 | Nick Stowers |
+| 839 | 122 | Nick Stowers |
+| 840 | 122 | William Vidra |
 | 841 | 122 | Amanda Woodruff |
 | 842 | 122 | Mumitt |
 | 843 | 121 | Ameillia Boughner |
-| 844 | 121 | squints |
+| 844 | 121 | Tiana Monique |
 | 845 | 121 | Vannie G |
-| 846 | 121 | Tiana Monique |
-| 847 | 120 | Tiffany Jean Hinson |
-| 848 | 120 | Lauren Farkas |
-| 849 | 120 | Dianne Clagon |
-| 850 | 120 | Charles Johnson |
+| 846 | 121 | squints |
+| 847 | 120 | Lauren Farkas |
+| 848 | 120 | Dianne Clagon |
+| 849 | 120 | Charles Johnson |
+| 850 | 120 | Tiffany Jean Hinson |
 | 851 | 120 | Crafty Witch |
 | 852 | 120 | Yellowguy3 |
 | 853 | 120 | Earl Williams |
