@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:35:22 UTC
+# Standings for team2 as of 2026-06-09 07:36:45 UTC
 
 **Total Participants:** 2439
 
@@ -99,7 +99,7 @@
 | 91 | 1547 | Lily |
 | 92 | 1510 | Shandrea Crawford |
 | 93 | 1496 | Kimberly Benson |
-| 94 | 1483 | Smiley Dropper |
+| 94 | 1485 | Smiley Dropper |
 | 95 | 1462 | Peppy Roll |
 | 96 | 1453 | Eileen Egan |
 | 97 | 1414 | Loopy Curvebuilder |
@@ -228,7 +228,7 @@
 | 220 | 594 | Steven |
 | 221 | 593 | Avie Lou |
 | 222 | 592 | Spicy Basepiece |
-| 223 | 588 | Lyric Price |
+| 223 | 589 | Lyric Price |
 | 224 | 587 | Kevin Mccoy |
 | 225 | 583 | Lisa Underwood Desmond |
 | 226 | 579 | Robin G |
@@ -340,20 +340,20 @@
 | 332 | 407 | Monee Stronger |
 | 333 | 405 | Brittni Lawrence |
 | 334 | 404 | Charity Hauser |
-| 335 | 400 | Jamin |
-| 336 | 400 | Melissa Clogher White |
+| 335 | 400 | Melissa Clogher White |
+| 336 | 400 | Jamin |
 | 337 | 400 | Shannon Wilson |
 | 338 | 400 | Patricia Carroll |
 | 339 | 400 | Adriana Daniela Agapie |
 | 340 | 400 | Sarah Rodriguez |
 | 341 | 399 | Jeffrey Smith |
-| 342 | 398 | Heather Burgett |
-| 343 | 397 | Carlos J Blas |
-| 344 | 395 | Jason Cunningham |
-| 345 | 395 | Traci Abern |
-| 346 | 391 | La chulis |
-| 347 | 390 | Breezy |
-| 348 | 387 | Talyn Domingues |
+| 342 | 398 | Talyn Domingues |
+| 343 | 398 | Heather Burgett |
+| 344 | 397 | Carlos J Blas |
+| 345 | 395 | Jason Cunningham |
+| 346 | 395 | Traci Abern |
+| 347 | 391 | La chulis |
+| 348 | 390 | Breezy |
 | 349 | 387 | Funway998 |
 | 350 | 387 | Zach Jewett |
 | 351 | 386 | Sandy Justus |
@@ -1800,15 +1800,15 @@
 | 1792 | 41 | Stacey Ann Kelley |
 | 1793 | 41 | Twisty Wipebuilder |
 | 1794 | 41 | Bold Shiftspin |
-| 1795 | 41 | Judy Harker |
-| 1796 | 41 | Jazzy Cornerfall |
-| 1797 | 41 | Iggypop |
-| 1798 | 40 | Margie King |
-| 1799 | 40 | Alan Harley Medeiros |
-| 1800 | 40 | Betsey Terry |
-| 1801 | 40 | Karen Pearson-Wilson |
-| 1802 | 40 | Cheeky Snapline |
-| 1803 | 40 | Miss TENNESEE |
+| 1795 | 41 | Miss TENNESEE |
+| 1796 | 41 | Judy Harker |
+| 1797 | 41 | Jazzy Cornerfall |
+| 1798 | 41 | Iggypop |
+| 1799 | 40 | Margie King |
+| 1800 | 40 | Alan Harley Medeiros |
+| 1801 | 40 | Betsey Terry |
+| 1802 | 40 | Karen Pearson-Wilson |
+| 1803 | 40 | Cheeky Snapline |
 | 1804 | 40 | Crafty Matcher |
 | 1805 | 40 | Ariya Colson |
 | 1806 | 40 | Carrie Wilcox |
