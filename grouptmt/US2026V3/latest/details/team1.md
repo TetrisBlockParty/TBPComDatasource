@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:36:43 UTC
+# Standings for team1 as of 2026-06-09 08:37:22 UTC
 
 **Total Participants:** 2018
 
@@ -73,8 +73,8 @@
 | 65 | 1479 | Corey Cawthon |
 | 66 | 1461 | Janet Cooke |
 | 67 | 1426 | LeeLee08 |
-| 68 | 1418 | Daylene Johannes |
-| 69 | 1418 | Sanjuro |
+| 68 | 1418 | Sanjuro |
+| 69 | 1418 | Daylene Johannes |
 | 70 | 1411 | Blockhead |
 | 71 | 1399 | Uneekly Mayde |
 | 72 | 1388 | Jessica Roberts |
@@ -98,14 +98,14 @@
 | 90 | 1187 | Dynah Gordon |
 | 91 | 1185 | Tiana Moore |
 | 92 | 1184 | Court Court |
-| 93 | 1175 | Ryan Meilleur |
-| 94 | 1170 | Jonathan Vee Jay |
-| 95 | 1169 | Amalie Newvine |
-| 96 | 1169 | Kimberly Hernandez |
-| 97 | 1164 | Tootsie Pop |
-| 98 | 1160 | KenpachisGirl |
-| 99 | 1154 | La'Chae Nickole |
-| 100 | 1135 | Whitney Butler |
+| 93 | 1175 | Whitney Butler |
+| 94 | 1175 | Ryan Meilleur |
+| 95 | 1170 | Jonathan Vee Jay |
+| 96 | 1169 | Amalie Newvine |
+| 97 | 1169 | Kimberly Hernandez |
+| 98 | 1164 | Tootsie Pop |
+| 99 | 1160 | KenpachisGirl |
+| 100 | 1154 | La'Chae Nickole |
 | 101 | 1124 | Jazzy Dashpiece |
 | 102 | 1121 | Lisa Müller |
 | 103 | 1120 | IamJust Neyamijah Washington Sr. |
@@ -190,8 +190,8 @@
 | 182 | 599 | Zappy Riser |
 | 183 | 596 | Cj Gorman |
 | 184 | 584 | Novaa |
-| 185 | 583 | TT |
-| 186 | 583 | Block King |
+| 185 | 583 | Block King |
+| 186 | 583 | TT |
 | 187 | 581 | Michelle Titus |
 | 188 | 580 | Felicia Cain |
 | 189 | 577 | Randizzle |
@@ -205,8 +205,8 @@
 | 197 | 565 | IThinkNot |
 | 198 | 563 | Wild Out Nai |
 | 199 | 562 | Yasmin Nakea Wright |
-| 200 | 559 | Sarah Clark |
-| 201 | 559 | Tobey Marberry |
+| 200 | 559 | Tobey Marberry |
+| 201 | 559 | Sarah Clark |
 | 202 | 553 | Sharon Cail |
 | 203 | 552 | Ty Øtg |
 | 204 | 549 | Shell Lewis |
@@ -762,29 +762,29 @@
 | 754 | 142 | Tiffany Jean Hinson |
 | 755 | 142 | Mary Goode |
 | 756 | 142 | Boricua64 |
-| 757 | 142 | Jasmine Hariston-Estis |
-| 758 | 141 | KimChii |
-| 759 | 141 | Lively Wipeout |
-| 760 | 141 | Coco |
-| 761 | 141 | Krystal Maynard |
-| 762 | 141 | Angela Kitchens |
-| 763 | 141 | Shalena Marie Humphrey |
-| 764 | 141 | Kim Holzmiller |
-| 765 | 140 | Marbama |
-| 766 | 140 | Christina Singleton |
-| 767 | 140 | Biggestboss Ransom |
-| 768 | 140 | Tory Miller |
-| 769 | 140 | Shadon McMillan |
-| 770 | 140 | Kennedi Brazziel |
-| 771 | 140 | TBabii24 |
-| 772 | 140 | Stanley Dixon |
-| 773 | 140 | Cameo Tweed |
-| 774 | 140 | Marcello Rush |
-| 775 | 140 | Victoria Smith |
-| 776 | 139 | Kike Lua |
-| 777 | 139 | Sunny Clicky |
+| 757 | 142 | Earl Williams |
+| 758 | 142 | Jasmine Hariston-Estis |
+| 759 | 141 | KimChii |
+| 760 | 141 | Lively Wipeout |
+| 761 | 141 | Coco |
+| 762 | 141 | Krystal Maynard |
+| 763 | 141 | Angela Kitchens |
+| 764 | 141 | Shalena Marie Humphrey |
+| 765 | 141 | Kim Holzmiller |
+| 766 | 140 | Marbama |
+| 767 | 140 | Christina Singleton |
+| 768 | 140 | Biggestboss Ransom |
+| 769 | 140 | Tory Miller |
+| 770 | 140 | Shadon McMillan |
+| 771 | 140 | Kennedi Brazziel |
+| 772 | 140 | TBabii24 |
+| 773 | 140 | Stanley Dixon |
+| 774 | 140 | Cameo Tweed |
+| 775 | 140 | Marcello Rush |
+| 776 | 140 | Victoria Smith |
+| 777 | 139 | Kike Lua |
 | 778 | 139 | Lexx Robins |
-| 779 | 139 | Earl Williams |
+| 779 | 139 | Sunny Clicky |
 | 780 | 139 | Naee Bee |
 | 781 | 139 | Rochelle Nash-Evans |
 | 782 | 139 | Antoinette Kelly |
