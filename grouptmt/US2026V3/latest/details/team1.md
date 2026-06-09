@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:54:46 UTC
+# Standings for team1 as of 2026-06-09 23:55:23 UTC
 
 **Total Participants:** 2135
 
@@ -278,7 +278,7 @@
 | 270 | 490 | Clever Fitblock |
 | 271 | 490 | Kate Hancock Malicek |
 | 272 | 490 | Slinky Brickmatch |
-| 273 | 486 | Chasem45 |
+| 273 | 489 | Chasem45 |
 | 274 | 486 | Tremaine Hiler |
 | 275 | 485 | Natasha Rucker |
 | 276 | 483 | Bre Poston |
@@ -548,28 +548,28 @@
 | 540 | 253 | Kristie |
 | 541 | 253 | crumb bumc |
 | 542 | 253 | Tasha |
-| 543 | 252 | Kimberly Anderson |
-| 544 | 252 | Lazy Tiltpiece |
-| 545 | 252 | Donna Payne |
-| 546 | 252 | Mary Phillippi Blanton |
-| 547 | 250 | Jen Hallin |
-| 548 | 250 | Rufus |
+| 543 | 252 | Donna Payne |
+| 544 | 252 | Mary Phillippi Blanton |
+| 545 | 252 | Kimberly Anderson |
+| 546 | 252 | Lazy Tiltpiece |
+| 547 | 250 | Rufus |
+| 548 | 250 | Jen Hallin |
 | 549 | 250 | Cheryl Miller |
 | 550 | 249 | Fina McKinnis |
 | 551 | 249 | Ciera Peace |
 | 552 | 249 | Casey Chapman |
-| 553 | 248 | Melissa Olvera |
-| 554 | 248 | Carla |
-| 555 | 247 | Taz Ballard |
-| 556 | 247 | SceneGreenz Wali |
-| 557 | 246 | Bold Clusterer |
-| 558 | 246 | Juicy |
-| 559 | 246 | Lilly Brown |
-| 560 | 246 | Kortney Adams |
-| 561 | 245 | Tracy Feyler |
-| 562 | 244 | Dede Tate |
-| 563 | 243 | Tanisha Taylor |
-| 564 | 243 | Yashica Smith |
+| 553 | 249 | Yashica Smith |
+| 554 | 248 | Melissa Olvera |
+| 555 | 248 | Carla |
+| 556 | 247 | Taz Ballard |
+| 557 | 247 | SceneGreenz Wali |
+| 558 | 246 | Bold Clusterer |
+| 559 | 246 | Juicy |
+| 560 | 246 | Lilly Brown |
+| 561 | 246 | Kortney Adams |
+| 562 | 245 | Tracy Feyler |
+| 563 | 244 | Dede Tate |
+| 564 | 243 | Tanisha Taylor |
 | 565 | 242 | Marlainia Boyd |
 | 566 | 242 | wmedina67 |
 | 567 | 242 | Mommy Frank |
@@ -1404,76 +1404,76 @@
 | 1396 | 56 | Kayleah Washington |
 | 1397 | 56 | Iceman |
 | 1398 | 56 | Stasha Chaires |
-| 1399 | 56 | Chipper Clicker |
-| 1400 | 56 | QueenzMo |
+| 1399 | 56 | QueenzMo |
+| 1400 | 56 | Chipper Clicker |
 | 1401 | 55 | Kimberly Red |
-| 1402 | 55 | Amanda Miller |
-| 1403 | 55 | Linny Loop |
-| 1404 | 55 | Laura Wesley |
-| 1405 | 55 | Robin Prioleau |
-| 1406 | 55 | KoolKimJay |
-| 1407 | 55 | Swanky Riserfit |
-| 1408 | 54 | Giggy Holder |
-| 1409 | 54 | Jaay Bender |
-| 1410 | 54 | Juanita Quezaire |
-| 1411 | 54 | Sicily Bailey |
+| 1402 | 55 | Kris Gray |
+| 1403 | 55 | Amanda Miller |
+| 1404 | 55 | Linny Loop |
+| 1405 | 55 | Laura Wesley |
+| 1406 | 55 | Robin Prioleau |
+| 1407 | 55 | KoolKimJay |
+| 1408 | 55 | Swanky Riserfit |
+| 1409 | 54 | Sicily Bailey |
+| 1410 | 54 | Jaay Bender |
+| 1411 | 54 | Juanita Quezaire |
 | 1412 | 54 | Embracing Hair |
 | 1413 | 54 | Ķïrãã Ďãvïss |
-| 1414 | 54 | Beautiful314 |
-| 1415 | 54 | Maranda Broadway |
-| 1416 | 54 | Tammy Scott Mallen |
-| 1417 | 54 | Mazi Johnson |
-| 1418 | 54 | deeno |
-| 1419 | 54 | MoneyMac |
-| 1420 | 54 | Michael Jones |
-| 1421 | 54 | Lush Crasher |
-| 1422 | 53 | Michael Lindenlauf |
-| 1423 | 53 | Angela C. |
-| 1424 | 53 | Chinkey Overit |
-| 1425 | 53 | Giddy Bricky |
-| 1426 | 53 | Silly Matchbuilder |
-| 1427 | 53 | Sashaleo |
-| 1428 | 53 | AshyTay |
-| 1429 | 52 | MsBobby Patrick |
+| 1414 | 54 | Giggy Holder |
+| 1415 | 54 | Beautiful314 |
+| 1416 | 54 | Maranda Broadway |
+| 1417 | 54 | Tammy Scott Mallen |
+| 1418 | 54 | Mazi Johnson |
+| 1419 | 54 | deeno |
+| 1420 | 54 | MoneyMac |
+| 1421 | 54 | Michael Jones |
+| 1422 | 54 | Lush Crasher |
+| 1423 | 53 | Sashaleo |
+| 1424 | 53 | Michael Lindenlauf |
+| 1425 | 53 | Angela C. |
+| 1426 | 53 | Chinkey Overit |
+| 1427 | 53 | Giddy Bricky |
+| 1428 | 53 | Silly Matchbuilder |
+| 1429 | 53 | AshyTay |
 | 1430 | 52 | Amber Interrobang |
 | 1431 | 52 | Jateerah Davis |
-| 1432 | 52 | L-Kamice Boykin |
-| 1433 | 52 | Ashley Horne |
+| 1432 | 52 | Ashley Horne |
+| 1433 | 52 | L-Kamice Boykin |
 | 1434 | 52 | Loopy Risepiece |
-| 1435 | 51 | Danielle Marie Lewis |
-| 1436 | 51 | Madam Suki |
+| 1435 | 52 | MsBobby Patrick |
+| 1436 | 51 | Quirky Spinblock |
 | 1437 | 51 | Kennita Leach Woodard |
-| 1438 | 51 | Quirky Spinblock |
-| 1439 | 51 | Destiny Maria |
-| 1440 | 51 | Jakari Wool |
-| 1441 | 51 | SpeedyJas |
-| 1442 | 51 | Emeka Agu |
-| 1443 | 51 | Zappy Zoney |
-| 1444 | 51 | Michelle Stottlemyer |
-| 1445 | 51 | Laura |
-| 1446 | 50 | Aero Builder |
-| 1447 | 50 | ThaMENACING1 |
-| 1448 | 50 | Skye |
-| 1449 | 50 | Darlene Johnson |
-| 1450 | 50 | Cranky Fitblock |
-| 1451 | 50 | TrapQween39Bi |
-| 1452 | 50 | Speedy Patternblock |
-| 1453 | 50 | Kris Gray |
+| 1438 | 51 | Danielle Marie Lewis |
+| 1439 | 51 | Madam Suki |
+| 1440 | 51 | Destiny Maria |
+| 1441 | 51 | Jakari Wool |
+| 1442 | 51 | SpeedyJas |
+| 1443 | 51 | Emeka Agu |
+| 1444 | 51 | Zappy Zoney |
+| 1445 | 51 | Michelle Stottlemyer |
+| 1446 | 51 | Laura |
+| 1447 | 50 | Aero Builder |
+| 1448 | 50 | ThaMENACING1 |
+| 1449 | 50 | Skye |
+| 1450 | 50 | Darlene Johnson |
+| 1451 | 50 | Cranky Fitblock |
+| 1452 | 50 | TrapQween39Bi |
+| 1453 | 50 | Speedy Patternblock |
 | 1454 | 50 | Keia Price |
 | 1455 | 50 | Douglas Jones |
-| 1456 | 50 | Happymama |
-| 1457 | 50 | Terry Lee Moya |
+| 1456 | 50 | Terry Lee Moya |
+| 1457 | 50 | Happymama |
 | 1458 | 50 | SosaaCurry |
-| 1459 | 49 | Alyssa H |
+| 1459 | 49 | Cheryl Parraway |
 | 1460 | 49 | TiffanyG |
 | 1461 | 49 | Cherita Copney |
 | 1462 | 49 | Pretty-Lily |
-| 1463 | 49 | Sunnyflower |
-| 1464 | 49 | Cheryl Parraway |
+| 1463 | 49 | Alyssa H |
+| 1464 | 49 | Sunnyflower |
 | 1465 | 49 | Carl Richardson |
-| 1466 | 49 | Brika Brika |
-| 1467 | 49 | Temeshia Brooks Washington |
-| 1468 | 49 | Farah Simpson |
+| 1466 | 49 | Farah Simpson |
+| 1467 | 49 | Brika Brika |
+| 1468 | 49 | Temeshia Brooks Washington |
 | 1469 | 48 | Crafty Pivoty |
 | 1470 | 48 | Raylane Brandy Larkin |
 | 1471 | 48 | LoveLee |
@@ -1489,8 +1489,8 @@
 | 1481 | 47 | Pizzle |
 | 1482 | 47 | Dani McLeod |
 | 1483 | 47 | Major314 |
-| 1484 | 47 | Marc Jones |
-| 1485 | 47 | Talya Richards |
+| 1484 | 47 | Talya Richards |
+| 1485 | 47 | Marc Jones |
 | 1486 | 46 | Wu May |
 | 1487 | 46 | Giddy Twistslam |
 | 1488 | 46 | Hasaan Jones |
