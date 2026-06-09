@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 09:24:46 UTC
+# Standings for team4 as of 2026-06-09 09:25:22 UTC
 
 **Total Participants:** 2089
 
@@ -418,10 +418,10 @@
 | 410 | 273 | Kierra Evans |
 | 411 | 273 | Stasia |
 | 412 | 272 | J.Wo |
-| 413 | 271 | Winter Moon |
-| 414 | 271 | King |
-| 415 | 270 | DanceAngel |
-| 416 | 268 | Groovy Towerbuilder |
+| 413 | 271 | Groovy Towerbuilder |
+| 414 | 271 | Winter Moon |
+| 415 | 271 | King |
+| 416 | 270 | DanceAngel |
 | 417 | 268 | tj |
 | 418 | 268 | Luna |
 | 419 | 268 | Kendall Rhodie |
@@ -1052,10 +1052,10 @@
 | 1044 | 99 | Ricardo Arias |
 | 1045 | 99 | Kelli Miller |
 | 1046 | 98 | katy |
-| 1047 | 97 | Limbo |
-| 1048 | 97 | Skylar Durk |
-| 1049 | 97 | Oc Tive |
-| 1050 | 96 | Lizxxx |
+| 1047 | 97 | Lizxxx |
+| 1048 | 97 | Limbo |
+| 1049 | 97 | Skylar Durk |
+| 1050 | 97 | Oc Tive |
 | 1051 | 96 | Bear Bair |
 | 1052 | 96 | Tiffany Taylor |
 | 1053 | 96 | Steven Patshy |
