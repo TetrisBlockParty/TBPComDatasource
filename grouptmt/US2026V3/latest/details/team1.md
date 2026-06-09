@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:48:20 UTC
+# Standings for team1 as of 2026-06-09 10:48:44 UTC
 
 **Total Participants:** 2036
 
@@ -204,32 +204,32 @@
 | 196 | 574 | LaToya Chambers |
 | 197 | 573 | Nobles Brandon |
 | 198 | 569 | Zachary Colegrove |
-| 199 | 565 | IThinkNot |
-| 200 | 563 | Wild Out Nai |
-| 201 | 562 | Yasmin Nakea Wright |
-| 202 | 559 | Tobey Marberry |
+| 199 | 565 | David Fuentes |
+| 200 | 565 | IThinkNot |
+| 201 | 563 | Wild Out Nai |
+| 202 | 562 | Yasmin Nakea Wright |
 | 203 | 559 | Sarah Clark |
-| 204 | 555 | Dee McCool |
-| 205 | 555 | Giggy Clusterer |
-| 206 | 553 | Sharon Cail |
-| 207 | 552 | Ty Øtg |
-| 208 | 550 | David Fuentes |
+| 204 | 559 | Tobey Marberry |
+| 205 | 555 | Dee McCool |
+| 206 | 555 | Giggy Clusterer |
+| 207 | 553 | Sharon Cail |
+| 208 | 552 | Ty Øtg |
 | 209 | 549 | Shell Lewis |
 | 210 | 547 | pooh |
 | 211 | 546 | Po Marley |
 | 212 | 539 | DellaLucretia Thomas |
 | 213 | 536 | SPNLover24 |
-| 214 | 527 | Ebony |
+| 214 | 527 | Tamara N Lee |
 | 215 | 527 | MommaCia |
-| 216 | 527 | Tamara N Lee |
+| 216 | 527 | Ebony |
 | 217 | 525 | Tishauna Virgo |
 | 218 | 523 | Christopher Dreamsareality McEachin |
 | 219 | 520 | Dulo |
 | 220 | 519 | Slinky Party |
 | 221 | 511 | Dizzy Dropper |
-| 222 | 506 | Telisha Mims |
-| 223 | 506 | Tasha Jones |
-| 224 | 506 | Marie Wilson |
+| 222 | 506 | Tasha Jones |
+| 223 | 506 | Marie Wilson |
+| 224 | 506 | Telisha Mims |
 | 225 | 501 | Joey Albright |
 | 226 | 498 | Julian Dickens Jr. |
 | 227 | 496 | Andre Sanon |
@@ -480,25 +480,25 @@
 | 472 | 242 | Tamika Rocheteau |
 | 473 | 242 | Ryan Runyan |
 | 474 | 240 | Velma Jones |
-| 475 | 240 | SherylU |
-| 476 | 240 | Malcolm Stanley |
+| 475 | 240 | Malcolm Stanley |
+| 476 | 240 | SherylU |
 | 477 | 239 | Guy Incognito |
 | 478 | 239 | Manda Allen |
 | 479 | 238 | Fina McKinnis |
 | 480 | 238 | SnazzyIvy |
-| 481 | 237 | Kimberly Anderson |
-| 482 | 237 | Tanisha Taylor |
+| 481 | 237 | Tanisha Taylor |
+| 482 | 237 | Kimberly Anderson |
 | 483 | 236 | Charlene Baltimore |
-| 484 | 235 | Daring Blockclear |
-| 485 | 235 | Tracy Feyler |
+| 484 | 235 | Tracy Feyler |
+| 485 | 235 | Daring Blockclear |
 | 486 | 235 | nameno |
-| 487 | 234 | wmedina67 |
+| 487 | 234 | Shea Ladynick Henderson |
 | 488 | 234 | Lisa Fletcher |
-| 489 | 234 | Shea Ladynick Henderson |
-| 490 | 233 | Daris Swearington |
-| 491 | 233 | Kala Miller |
-| 492 | 232 | Monica Fields |
-| 493 | 231 | Vera Beckford |
+| 489 | 234 | wmedina67 |
+| 490 | 234 | Vera Beckford |
+| 491 | 233 | Daris Swearington |
+| 492 | 233 | Kala Miller |
+| 493 | 232 | Monica Fields |
 | 494 | 231 | Bubbly Slammer |
 | 495 | 230 | Tracey Johnson |
 | 496 | 230 | Jessica Kirby |
