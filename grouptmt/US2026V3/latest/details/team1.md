@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:32:43 UTC
+# Standings for team1 as of 2026-06-09 08:33:21 UTC
 
 **Total Participants:** 2018
 
@@ -174,24 +174,24 @@
 | 166 | 645 | Keke Ferguson |
 | 167 | 644 | Dena Marie Lee |
 | 168 | 643 | Ottison Dianna |
-| 169 | 634 | Christana Imjustbutton Stone |
-| 170 | 633 | Rackemwillie34 |
-| 171 | 630 | Bambi Love |
-| 172 | 629 | Charletha Williams |
-| 173 | 623 | Abraham Espaillat |
-| 174 | 617 | Crystal Anderson |
-| 175 | 616 | Dandy Brickfit |
-| 176 | 611 | SyTheEvilGenius1 |
-| 177 | 610 | Genne Scott |
-| 178 | 606 | Tammye Turner |
-| 179 | 603 | FallDee |
-| 180 | 600 | Shellzb Roberts |
-| 181 | 599 | Zappy Riser |
-| 182 | 596 | Cj Gorman |
-| 183 | 584 | Novaa |
-| 184 | 583 | TT |
-| 185 | 583 | Block King |
-| 186 | 582 | Antonia Wyche |
+| 169 | 642 | Antonia Wyche |
+| 170 | 634 | Christana Imjustbutton Stone |
+| 171 | 633 | Rackemwillie34 |
+| 172 | 630 | Bambi Love |
+| 173 | 629 | Charletha Williams |
+| 174 | 623 | Abraham Espaillat |
+| 175 | 617 | Crystal Anderson |
+| 176 | 616 | Dandy Brickfit |
+| 177 | 611 | SyTheEvilGenius1 |
+| 178 | 610 | Genne Scott |
+| 179 | 606 | Tammye Turner |
+| 180 | 603 | FallDee |
+| 181 | 600 | Shellzb Roberts |
+| 182 | 599 | Zappy Riser |
+| 183 | 596 | Cj Gorman |
+| 184 | 584 | Novaa |
+| 185 | 583 | TT |
+| 186 | 583 | Block King |
 | 187 | 581 | Michelle Titus |
 | 188 | 580 | Felicia Cain |
 | 189 | 577 | Randizzle |
@@ -403,17 +403,17 @@
 | 395 | 283 | izzybella |
 | 396 | 283 | Giggy Tower |
 | 397 | 283 | CJ Robinson |
-| 398 | 281 | Skippy |
-| 399 | 280 | Daddy |
-| 400 | 280 | Teri Marie Clayton |
-| 401 | 280 | Boldy Liner |
-| 402 | 280 | Sara Meri |
-| 403 | 280 | Erica Charlise |
-| 404 | 279 | Chandler Magee |
-| 405 | 278 | Cheri Robinson |
-| 406 | 278 | Shanaa Germany Crittenden |
-| 407 | 277 | Bambi Johnson |
-| 408 | 277 | Rachael R Gull |
+| 398 | 281 | Rachael R Gull |
+| 399 | 281 | Skippy |
+| 400 | 280 | Daddy |
+| 401 | 280 | Teri Marie Clayton |
+| 402 | 280 | Boldy Liner |
+| 403 | 280 | Sara Meri |
+| 404 | 280 | Erica Charlise |
+| 405 | 279 | Chandler Magee |
+| 406 | 278 | Cheri Robinson |
+| 407 | 278 | Shanaa Germany Crittenden |
+| 408 | 277 | Bambi Johnson |
 | 409 | 276 | DaGuy |
 | 410 | 275 | Kelli Couture |
 | 411 | 275 | NewEve |
