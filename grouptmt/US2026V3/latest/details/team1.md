@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:56:44 UTC
+# Standings for team1 as of 2026-06-09 08:57:21 UTC
 
 **Total Participants:** 2020
 
@@ -418,26 +418,26 @@
 | 410 | 277 | Bambi Johnson |
 | 411 | 276 | DaGuy |
 | 412 | 275 | Kelli Couture |
-| 413 | 275 | NewEve |
-| 414 | 275 | Falisa Bell |
+| 413 | 275 | Falisa Bell |
+| 414 | 275 | NewEve |
 | 415 | 275 | Chris Sladoje |
 | 416 | 275 | Tesiree Cray |
-| 417 | 274 | 신재호 |
-| 418 | 274 | Shakmar |
-| 419 | 271 | Bambam |
-| 420 | 270 | Jean Regis |
-| 421 | 269 | Kristine Marie Palmer |
+| 417 | 274 | Eric Spencer Whitaker |
+| 418 | 274 | 신재호 |
+| 419 | 274 | Shakmar |
+| 420 | 271 | Bambam |
+| 421 | 270 | Jean Regis |
 | 422 | 269 | Aihpos |
-| 423 | 267 | BabyCakes |
-| 424 | 266 | Rebecca Jackson |
-| 425 | 265 | Jae Thompson-Tyus |
-| 426 | 265 | Eric Spencer Whitaker |
+| 423 | 269 | Kristine Marie Palmer |
+| 424 | 267 | BabyCakes |
+| 425 | 266 | Rebecca Jackson |
+| 426 | 265 | Jae Thompson-Tyus |
 | 427 | 264 | Boldy Matchbuilder |
 | 428 | 262 | Denisa Amazon Clark |
 | 429 | 261 | LaTonya Myers |
 | 430 | 260 | Alyssa Rae |
-| 431 | 260 | HS Arce |
-| 432 | 260 | Peppy Towerbuilder |
+| 431 | 260 | Peppy Towerbuilder |
+| 432 | 260 | HS Arce |
 | 433 | 259 | Slinky Clearzone |
 | 434 | 259 | Stacy Nicole |
 | 435 | 258 | Kimberly Linares Hernandez |
@@ -449,9 +449,9 @@
 | 441 | 255 | Michelle Peters |
 | 442 | 255 | C Lo Green |
 | 443 | 255 | Mister Reid |
-| 444 | 254 | Glitzy Patternline |
-| 445 | 254 | kick it |
-| 446 | 254 | Asha Langford |
+| 444 | 254 | Asha Langford |
+| 445 | 254 | Glitzy Patternline |
+| 446 | 254 | kick it |
 | 447 | 253 | Tasha |
 | 448 | 253 | FunTime |
 | 449 | 253 | SweetByNBy |

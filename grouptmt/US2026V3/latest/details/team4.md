@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:56:44 UTC
+# Standings for team4 as of 2026-06-09 08:57:21 UTC
 
 **Total Participants:** 2088
 
@@ -163,7 +163,7 @@
 | 155 | 700 | Boldy Striker |
 | 156 | 697 | Lynn Grimes |
 | 157 | 692 | Jeremy Lopez |
-| 158 | 685 | Izz |
+| 158 | 690 | Izz |
 | 159 | 684 | Caitlyn Wang |
 | 160 | 678 | Andrew Dang |
 | 161 | 677 | Dandy Clearfit |
@@ -209,21 +209,21 @@
 | 201 | 526 | Real Talk Vibes |
 | 202 | 525 | Dana Abegil Lawas |
 | 203 | 524 | Shocinda Sherwood |
-| 204 | 520 | Jaci Marie |
-| 205 | 518 | Tyson Stroppel |
-| 206 | 516 | Kelly Howland |
-| 207 | 511 | Maria Castillo |
-| 208 | 510 | Addi JayKay |
-| 209 | 508 | Goofy Riser |
-| 210 | 502 | Alex Armour |
-| 211 | 501 | Linda Miltenburg |
-| 212 | 500 | Genag |
-| 213 | 500 | Saucy Wipepiece |
-| 214 | 499 | Snippy Splitter |
-| 215 | 496 | Samantha Worley |
-| 216 | 496 | Jackie Jackson |
-| 217 | 496 | Jeremy |
-| 218 | 496 | Vanessa Sykes |
+| 204 | 520 | Kelly Howland |
+| 205 | 520 | Jaci Marie |
+| 206 | 518 | Tyson Stroppel |
+| 207 | 512 | Maria Castillo |
+| 208 | 512 | Vanessa Sykes |
+| 209 | 510 | Addi JayKay |
+| 210 | 508 | Goofy Riser |
+| 211 | 502 | Alex Armour |
+| 212 | 501 | Linda Miltenburg |
+| 213 | 500 | Genag |
+| 214 | 500 | Saucy Wipepiece |
+| 215 | 499 | Snippy Splitter |
+| 216 | 496 | Samantha Worley |
+| 217 | 496 | Jackie Jackson |
+| 218 | 496 | Jeremy |
 | 219 | 495 | Baysoph |
 | 220 | 494 | Yesenia Castro Monreal |
 | 221 | 490 | Stephanie Myers |

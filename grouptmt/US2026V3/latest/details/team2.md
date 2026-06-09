@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:56:44 UTC
+# Standings for team2 as of 2026-06-09 08:57:21 UTC
 
 **Total Participants:** 2448
 
@@ -645,15 +645,15 @@
 | 637 | 217 | Melissa Fink |
 | 638 | 217 | Connie McCoy |
 | 639 | 217 | Spicy Snapclear |
-| 640 | 215 | Missy Renia |
-| 641 | 215 | Nerdy Gridlock |
-| 642 | 215 | Twisty Tower |
-| 643 | 214 | Epic Framezone |
-| 644 | 213 | Mike Mordhorst |
-| 645 | 213 | Judy Burkhalter |
-| 646 | 213 | Becky Kennon |
-| 647 | 213 | s3lc4tr0n |
-| 648 | 213 | Kimberly Davis |
+| 640 | 216 | Epic Framezone |
+| 641 | 215 | Missy Renia |
+| 642 | 215 | Nerdy Gridlock |
+| 643 | 215 | Twisty Tower |
+| 644 | 213 | s3lc4tr0n |
+| 645 | 213 | Kimberly Davis |
+| 646 | 213 | Mike Mordhorst |
+| 647 | 213 | Judy Burkhalter |
+| 648 | 213 | Becky Kennon |
 | 649 | 212 | Holly Barefoot |
 | 650 | 211 | Edna Nena Cabrera |
 | 651 | 211 | Lazy Staggerpiece |
