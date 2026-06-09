@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 03:22:46 UTC
+# Standings for team4 as of 2026-06-09 03:23:21 UTC
 
 **Total Participants:** 2024
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 23500 | Jessica Sheehan |
 | 2 | 20528 | Hanan Hana |
-| 3 | 20131 | Lisa Cullum |
+| 3 | 20181 | Lisa Cullum |
 | 4 | 18607 | Lyza |
 | 5 | 12264 | Loony Rotater |
 | 6 | 10200 | Cinny |
@@ -19,8 +19,8 @@
 | 11 | 7001 | BertaF1irta |
 | 12 | 6685 | Bryony Nicholson |
 | 13 | 6653 | t |
-| 14 | 6001 | Jennifer Edgell Richardson |
-| 15 | 5931 | Chris Hills |
+| 14 | 6119 | Chris Hills |
+| 15 | 6001 | Jennifer Edgell Richardson |
 | 16 | 5854 | Senor Moppy |
 | 17 | 5821 | delilahbelle |
 | 18 | 5819 | Jerald Jones |
@@ -46,8 +46,8 @@
 | 38 | 3421 | Fruitpunch |
 | 39 | 3394 | Irene Arreguin |
 | 40 | 3200 | Leah Gorsuch |
-| 41 | 3150 | Destiny Dyer |
-| 42 | 3122 | Dana Rinaldi |
+| 41 | 3162 | Dana Rinaldi |
+| 42 | 3150 | Destiny Dyer |
 | 43 | 2800 | Annastaissia Todd |
 | 44 | 2800 | Caitlin Johnson |
 | 45 | 2689 | Blind Bette |
@@ -121,8 +121,8 @@
 | 113 | 900 | Alyssa Oth |
 | 114 | 900 | Shelby |
 | 115 | 876 | Ermadette |
-| 116 | 871 | Becky Doll-Hall |
-| 117 | 869 | Tamara Triplet |
+| 116 | 872 | Tamara Triplet |
+| 117 | 871 | Becky Doll-Hall |
 | 118 | 866 | Hairy Snake |
 | 119 | 855 | Irma |
 | 120 | 848 | Beee |
@@ -182,8 +182,8 @@
 | 174 | 543 | zoes |
 | 175 | 542 | Nikki Fuller Johnson |
 | 176 | 540 | Anthony Magaraci |
-| 177 | 539 | Boldy Rumbler |
-| 178 | 539 | Devinlee Brown |
+| 177 | 539 | Devinlee Brown |
+| 178 | 539 | Boldy Rumbler |
 | 179 | 534 | Iforget |
 | 180 | 533 | SupaFly |
 | 181 | 532 | Principal Liz |
@@ -559,8 +559,8 @@
 | 551 | 192 | Chris |
 | 552 | 191 | Anna Ryan |
 | 553 | 190 | Candice Sellers Worley |
-| 554 | 190 | Simone |
-| 555 | 190 | Name |
+| 554 | 190 | Name |
+| 555 | 190 | Simone |
 | 556 | 189 | Butterpat |
 | 557 | 189 | Zesty Lift |
 | 558 | 189 | Casey Thomas |
@@ -570,28 +570,28 @@
 | 562 | 186 | Travis McKinnon |
 | 563 | 186 | Dolores Falco |
 | 564 | 186 | Rosy Perez |
-| 565 | 184 | Lolita Nettles |
-| 566 | 184 | Holly Bramel |
-| 567 | 184 | Anthony McAlister |
-| 568 | 184 | Chilly Pop |
-| 569 | 184 | Csigirlnc |
+| 565 | 184 | Chilly Pop |
+| 566 | 184 | Csigirlnc |
+| 567 | 184 | Lolita Nettles |
+| 568 | 184 | Holly Bramel |
+| 569 | 184 | Anthony McAlister |
 | 570 | 183 | Blessedmom865 |
-| 571 | 182 | Heidi Anne Scheiderer |
-| 572 | 181 | Lisa Pie |
-| 573 | 181 | Jen Smith |
-| 574 | 181 | Stef |
-| 575 | 180 | Shia Marie |
-| 576 | 180 | Silly Rollbuilder |
-| 577 | 180 | Ada Rodriguez Spradley |
-| 578 | 180 | Jimmy Clark |
-| 579 | 180 | Jay Keating |
-| 580 | 180 | BookwormCate |
-| 581 | 179 | MrsReap |
-| 582 | 179 | Marcus Fontenot |
+| 571 | 182 | Marcus Fontenot |
+| 572 | 182 | Heidi Anne Scheiderer |
+| 573 | 181 | Lisa Pie |
+| 574 | 181 | Jen Smith |
+| 575 | 181 | Stef |
+| 576 | 180 | Shia Marie |
+| 577 | 180 | Silly Rollbuilder |
+| 578 | 180 | Ada Rodriguez Spradley |
+| 579 | 180 | Jimmy Clark |
+| 580 | 180 | Jay Keating |
+| 581 | 180 | BookwormCate |
+| 582 | 179 | Gigi5 |
 | 583 | 179 | Has2brat |
 | 584 | 179 | Elli Wright |
 | 585 | 179 | Manolo Canety |
-| 586 | 179 | Gigi5 |
+| 586 | 179 | MrsReap |
 | 587 | 179 | Will E Ayala |
 | 588 | 179 | Jeremy Barry |
 | 589 | 178 | Bammer |
@@ -614,16 +614,16 @@
 | 606 | 174 | Mmm |
 | 607 | 173 | Justin Ballard |
 | 608 | 173 | Tarsha Thomas-Martinez |
-| 609 | 172 | Anthony Edwards |
+| 609 | 172 | Poptart |
 | 610 | 172 | Chuck Burns |
-| 611 | 172 | Poptart |
+| 611 | 172 | Anthony Edwards |
 | 612 | 172 | Lul Babie |
 | 613 | 171 | my my |
 | 614 | 171 | Stotty |
 | 615 | 171 | Big Dooka |
 | 616 | 171 | Reggie Laserna Clement |
-| 617 | 170 | Natalie Dillard |
-| 618 | 170 | Lovetetris |
+| 617 | 170 | Lovetetris |
+| 618 | 170 | Natalie Dillard |
 | 619 | 170 | Edward White |
 | 620 | 170 | Breezy Brickline |
 | 621 | 170 | Robert Crow |
@@ -764,37 +764,37 @@
 | 756 | 133 | Scalpel Causes Shambles |
 | 757 | 133 | mikey moo |
 | 758 | 133 | Cozy Towerpiece |
-| 759 | 133 | Electric Storm |
-| 760 | 133 | Domo Dpn |
-| 761 | 132 | William Brooks |
-| 762 | 132 | MrLoner Stoner |
-| 763 | 132 | GETBOXED! |
-| 764 | 132 | Lala |
-| 765 | 132 | Virgil Mayfield-Brown |
-| 766 | 132 | pussface |
-| 767 | 131 | Loony Edge |
-| 768 | 131 | chuck |
-| 769 | 131 | Heather Brown |
-| 770 | 131 | Ajohnna Frazee |
+| 759 | 133 | Ajohnna Frazee |
+| 760 | 133 | Electric Storm |
+| 761 | 133 | Domo Dpn |
+| 762 | 132 | William Brooks |
+| 763 | 132 | MrLoner Stoner |
+| 764 | 132 | GETBOXED! |
+| 765 | 132 | Lala |
+| 766 | 132 | Virgil Mayfield-Brown |
+| 767 | 132 | pussface |
+| 768 | 131 | Loony Edge |
+| 769 | 131 | chuck |
+| 770 | 131 | Heather Brown |
 | 771 | 131 | Joha Mldo Castillo |
-| 772 | 130 | Lizard |
-| 773 | 130 | shonaberry |
-| 774 | 130 | Layne Davis |
+| 772 | 130 | Bhakti Sawarkar |
+| 773 | 130 | Tigger |
+| 774 | 130 | Tammy Wells |
 | 775 | 130 | Elise Ann |
-| 776 | 130 | Tammy Wells |
-| 777 | 130 | Tigger |
-| 778 | 130 | Bhakti Sawarkar |
+| 776 | 130 | Layne Davis |
+| 777 | 130 | shonaberry |
+| 778 | 130 | Lizard |
 | 779 | 130 | Stephanie Meinhart |
 | 780 | 130 | Dexter Hammond Jr |
-| 781 | 129 | Giggy Snapgrid |
+| 781 | 129 | Elena Marí |
 | 782 | 129 | Jennifer Brucz |
-| 783 | 129 | Mar Mar |
+| 783 | 129 | Giggy Snapgrid |
 | 784 | 129 | Glitzy Patternbuilder |
 | 785 | 129 | Groovy Stacker |
-| 786 | 129 | Brenda Gustamantes |
+| 786 | 129 | Mar Mar |
 | 787 | 129 | Vlad Rudman |
 | 788 | 129 | Meghan Etchells |
-| 789 | 129 | Elena Marí |
+| 789 | 129 | Brenda Gustamantes |
 | 790 | 128 | Ash |
 | 791 | 128 | Angela Adamo-Tash |
 | 792 | 128 | SandyEva |
@@ -1048,8 +1048,8 @@
 | 1040 | 85 | Giggly Rollpiece |
 | 1041 | 85 | Sherri Lorent |
 | 1042 | 85 | Dannie Ems |
-| 1043 | 85 | MelodiousDeez |
-| 1044 | 85 | RustyMaster40 |
+| 1043 | 85 | RustyMaster40 |
+| 1044 | 85 | MelodiousDeez |
 | 1045 | 85 | Diane Obungu |
 | 1046 | 85 | taya |
 | 1047 | 85 | Joyce Hampton |
@@ -1058,23 +1058,23 @@
 | 1050 | 84 | Stacy Brown |
 | 1051 | 84 | Scott Baum |
 | 1052 | 84 | Poseidon S Davenport |
-| 1053 | 84 | Darryl Shufford |
-| 1054 | 84 | Nicole Ambrose |
+| 1053 | 84 | Nicole Ambrose |
+| 1054 | 84 | Darryl Shufford |
 | 1055 | 84 | Cassie N Danica Flaherty |
 | 1056 | 84 | Jumpy Brickline |
-| 1057 | 84 | Wayne Hendricks |
-| 1058 | 84 | Red |
-| 1059 | 84 | Wynisha Johnson |
-| 1060 | 84 | T-Dogger |
-| 1061 | 83 | Dapper Tiltpiece |
-| 1062 | 83 | Ciara Brown |
-| 1063 | 83 | Kelli Miller |
-| 1064 | 83 | Bubbly Shatter |
-| 1065 | 83 | Peter Babineaux Jr |
-| 1066 | 82 | gothicmisery |
-| 1067 | 82 | Chris Norman |
-| 1068 | 82 | Sara Cobb |
-| 1069 | 82 | Mike Artis |
+| 1057 | 84 | Mike Artis |
+| 1058 | 84 | Wayne Hendricks |
+| 1059 | 84 | Red |
+| 1060 | 84 | Wynisha Johnson |
+| 1061 | 84 | T-Dogger |
+| 1062 | 83 | Dapper Tiltpiece |
+| 1063 | 83 | Ciara Brown |
+| 1064 | 83 | Kelli Miller |
+| 1065 | 83 | Bubbly Shatter |
+| 1066 | 83 | Peter Babineaux Jr |
+| 1067 | 82 | gothicmisery |
+| 1068 | 82 | Chris Norman |
+| 1069 | 82 | Sara Cobb |
 | 1070 | 82 | Brenda Mueller |
 | 1071 | 82 | EpicBarista |
 | 1072 | 82 | aubz |
@@ -1085,16 +1085,16 @@
 | 1077 | 82 | Cflixer |
 | 1078 | 82 | Charity Thomas |
 | 1079 | 81 | Buggy Julks |
-| 1080 | 81 | Millie Hoskins |
-| 1081 | 81 | Kristen Lester |
+| 1080 | 81 | Kristen Lester |
+| 1081 | 81 | Millie Hoskins |
 | 1082 | 81 | Diqthot |
 | 1083 | 81 | Chris Somsen |
 | 1084 | 81 | Krushie |
 | 1085 | 81 | Mystica |
-| 1086 | 81 | San |
-| 1087 | 81 | Chelsea Guajardo |
-| 1088 | 80 | Keisha Petway |
-| 1089 | 80 | Bumpy Morris |
+| 1086 | 81 | Chelsea Guajardo |
+| 1087 | 81 | San |
+| 1088 | 80 | Bumpy Morris |
+| 1089 | 80 | Keisha Petway |
 | 1090 | 80 | MamaBear3 |
 | 1091 | 80 | Yam My |
 | 1092 | 80 | Donya' Johnson |
