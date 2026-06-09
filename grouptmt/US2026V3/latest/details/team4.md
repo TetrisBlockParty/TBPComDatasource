@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 19:26:44 UTC
+# Standings for team4 as of 2026-06-09 19:27:24 UTC
 
 **Total Participants:** 2162
 
@@ -48,8 +48,8 @@
 | 40 | 3563 | Leah Barnett |
 | 41 | 3500 | Leah Gorsuch |
 | 42 | 3460 | Victoria Ver |
-| 43 | 3421 | Fruitpunch |
-| 44 | 3415 | Blind Bette |
+| 43 | 3435 | Blind Bette |
+| 44 | 3421 | Fruitpunch |
 | 45 | 3323 | Carly Stempien |
 | 46 | 3216 | Jeanette Hailey |
 | 47 | 3150 | Destiny Dyer |
@@ -677,67 +677,67 @@
 | 669 | 196 | Bigmamalizzet Latto |
 | 670 | 195 | Reina Pagan |
 | 671 | 195 | 1694AF |
-| 672 | 194 | Stotty |
-| 673 | 194 | Gma420 |
-| 674 | 194 | Cozy Patternline |
-| 675 | 194 | Csigirlnc |
-| 676 | 194 | Tana-Marie Lynn McCarty-Rolf |
-| 677 | 193 | Lord Solrac |
-| 678 | 193 | Lori Lynn |
-| 679 | 193 | Mighty1 |
-| 680 | 192 | Vonni McLean |
-| 681 | 192 | Ralph Hell Rell Williams |
+| 672 | 195 | yodaa |
+| 673 | 194 | Csigirlnc |
+| 674 | 194 | Stotty |
+| 675 | 194 | Tana-Marie Lynn McCarty-Rolf |
+| 676 | 194 | Cozy Patternline |
+| 677 | 194 | Gma420 |
+| 678 | 193 | Lord Solrac |
+| 679 | 193 | Lori Lynn |
+| 680 | 193 | Mighty1 |
+| 681 | 192 | Chris |
 | 682 | 192 | Daniel Lossman |
-| 683 | 192 | Chris |
-| 684 | 191 | Anna Ryan |
+| 683 | 192 | Ralph Hell Rell Williams |
+| 684 | 192 | Vonni McLean |
 | 685 | 191 | Fancy Rollfit |
 | 686 | 191 | Ashlee Lemus |
-| 687 | 190 | Simone |
-| 688 | 190 | Name |
+| 687 | 191 | Anna Ryan |
+| 688 | 190 | Simone |
 | 689 | 190 | Joe Andrews |
-| 690 | 190 | Brandon Bedenbaugh |
-| 691 | 190 | Redhead girl |
+| 690 | 190 | Name |
+| 691 | 190 | Brandon Bedenbaugh |
 | 692 | 190 | Candice Sellers Worley |
-| 693 | 189 | Zesty Lift |
-| 694 | 189 | Lisa Ferriero-Daudin |
-| 695 | 189 | MrsReap |
-| 696 | 189 | bribop |
-| 697 | 188 | MrsAddams724 |
+| 693 | 190 | Redhead girl |
+| 694 | 189 | bribop |
+| 695 | 189 | Zesty Lift |
+| 696 | 189 | Lisa Ferriero-Daudin |
+| 697 | 189 | MrsReap |
 | 698 | 188 | Kat Foreman |
-| 699 | 187 | Brainbabe |
-| 700 | 187 | Kelly Miller Williams |
-| 701 | 187 | David Lay |
-| 702 | 186 | Amber Jalbert |
-| 703 | 185 | Zappy Tilemaker |
-| 704 | 185 | yodaa |
-| 705 | 184 | Chilly Pop |
-| 706 | 184 | Virgil Mayfield-Brown |
-| 707 | 184 | Mrsjcraw18 |
-| 708 | 184 | Funky Riserpiece |
-| 709 | 184 | Cat |
-| 710 | 184 | Lizzzzzz |
-| 711 | 183 | Sarah |
-| 712 | 183 | mikey moo |
-| 713 | 183 | Dennis Montoya |
-| 714 | 183 | pussface |
-| 715 | 183 | Allysonjo Varela |
-| 716 | 183 | Blessedmom865 |
+| 699 | 188 | MrsAddams724 |
+| 700 | 187 | David Lay |
+| 701 | 187 | Kelly Miller Williams |
+| 702 | 187 | Brainbabe |
+| 703 | 186 | Amber Jalbert |
+| 704 | 185 | Zappy Tilemaker |
+| 705 | 184 | Cat |
+| 706 | 184 | Mrsjcraw18 |
+| 707 | 184 | Funky Riserpiece |
+| 708 | 184 | Lizzzzzz |
+| 709 | 184 | Chilly Pop |
+| 710 | 184 | Virgil Mayfield-Brown |
+| 711 | 183 | mikey moo |
+| 712 | 183 | Sarah |
+| 713 | 183 | Allysonjo Varela |
+| 714 | 183 | Blessedmom865 |
+| 715 | 183 | pussface |
+| 716 | 183 | Dennis Montoya |
 | 717 | 181 | Ashley Ferguson |
-| 718 | 180 | Clever Patterner |
-| 719 | 180 | Shia Marie |
-| 720 | 180 | Robert Crow |
-| 721 | 180 | Marie Adkins |
-| 722 | 180 | Michelle Sager |
-| 723 | 180 | Jay Keating |
+| 718 | 180 | Jay Keating |
+| 719 | 180 | Clever Patterner |
+| 720 | 180 | Michelle Sager |
+| 721 | 180 | Robert Crow |
+| 722 | 180 | Shia Marie |
+| 723 | 180 | Marie Adkins |
 | 724 | 180 | Silly Rollbuilder |
-| 725 | 179 | Gigi5 |
-| 726 | 179 | Dru Lui |
-| 727 | 179 | Deb 07 |
-| 728 | 179 | Frilly Zoney |
+| 725 | 179 | Dru Lui |
+| 726 | 179 | Frilly Zoney |
+| 727 | 179 | Gigi5 |
+| 728 | 179 | Inez Nez |
 | 729 | 179 | Has2brat |
-| 730 | 179 | Inez Nez |
-| 731 | 178 | Bammer |
-| 732 | 178 | Jacqueline Arce |
+| 730 | 179 | Deb 07 |
+| 731 | 178 | Jacqueline Arce |
+| 732 | 178 | Bammer |
 | 733 | 178 | chuck |
 | 734 | 178 | Breezy Wife |
 | 735 | 178 | Rin |
@@ -764,15 +764,15 @@
 | 756 | 170 | LaRue Tee |
 | 757 | 170 | Clever Brickzone |
 | 758 | 170 | Jill Chapman-Yancer |
-| 759 | 169 | Josh Keith Travierso |
+| 759 | 170 | Destiny Starr LeValdo |
 | 760 | 169 | Christy Petty |
-| 761 | 169 | Taisha Beasley |
-| 762 | 169 | BigCup ReeseCup |
-| 763 | 168 | Destiny Starr LeValdo |
-| 764 | 168 | Kristan Hoffman |
+| 761 | 169 | BigCup ReeseCup |
+| 762 | 169 | Taisha Beasley |
+| 763 | 169 | Josh Keith Travierso |
+| 764 | 168 | Caiti O'Keefe |
 | 765 | 168 | Nessa Smith |
-| 766 | 168 | Caiti O'Keefe |
-| 767 | 168 | Cozy Towerpiece |
+| 766 | 168 | Cozy Towerpiece |
+| 767 | 168 | Kristan Hoffman |
 | 768 | 167 | Ana Ruiz |
 | 769 | 167 | Jazzy Rollout |
 | 770 | 167 | Kuar T Ejen |
