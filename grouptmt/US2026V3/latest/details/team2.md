@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 14:43:21 UTC
+# Standings for team2 as of 2026-06-09 14:44:44 UTC
 
 **Total Participants:** 2511
 
@@ -59,7 +59,7 @@
 | 51 | 3302 | Charley Bedford |
 | 52 | 3282 | Sean Rippa |
 | 53 | 3258 | Angelica Jelli Gillaspy |
-| 54 | 3194 | Betty Barrett |
+| 54 | 3204 | Betty Barrett |
 | 55 | 2982 | Elizabeth Sallas |
 | 56 | 2979 | Angie BBlock |
 | 57 | 2842 | Beverly Lynn Mills |
@@ -225,8 +225,8 @@
 | 217 | 648 | Kathleen Dumbazz |
 | 218 | 643 | Michelle Powers Chattaway |
 | 219 | 642 | Bri St Peter |
-| 220 | 641 | Kathy McCormick |
-| 221 | 641 | BrendaLee NolanBos |
+| 220 | 641 | BrendaLee NolanBos |
+| 221 | 641 | Kathy McCormick |
 | 222 | 637 | Kaylene Rigas |
 | 223 | 636 | Nikki Hayes |
 | 224 | 635 | Chris Cooper |
@@ -246,27 +246,27 @@
 | 238 | 612 | Theresa Marie |
 | 239 | 609 | Michelle Rich Burkhart |
 | 240 | 609 | Brooke Allred |
-| 241 | 606 | Chasity Simpson |
-| 242 | 603 | Nicole Hogue |
-| 243 | 601 | Spicy Basepiece |
-| 244 | 598 | Lyric Price |
-| 245 | 592 | Charles E Mccardell |
-| 246 | 589 | Chipper Stackbuilder |
-| 247 | 589 | Zany Blockclear |
-| 248 | 588 | Vistabrat |
-| 249 | 587 | Jess |
-| 250 | 586 | Amie Marks |
-| 251 | 583 | Rosalie Call Kehlenbeck |
+| 241 | 607 | Jess |
+| 242 | 606 | Chasity Simpson |
+| 243 | 603 | Nicole Hogue |
+| 244 | 601 | Spicy Basepiece |
+| 245 | 598 | Lyric Price |
+| 246 | 596 | Rosalie Call Kehlenbeck |
+| 247 | 593 | Charles E Mccardell |
+| 248 | 589 | Chipper Stackbuilder |
+| 249 | 589 | Zany Blockclear |
+| 250 | 588 | Vistabrat |
+| 251 | 586 | Amie Marks |
 | 252 | 581 | Alicia Ellenburg |
 | 253 | 579 | Mookshake |
 | 254 | 579 | Rachel Nilles |
 | 255 | 577 | Lindsay Klemp |
 | 256 | 576 | Ratchet |
-| 257 | 576 | Breeana Bennett |
-| 258 | 576 | Aldotfus Williams |
+| 257 | 576 | Aldotfus Williams |
+| 258 | 576 | Breeana Bennett |
 | 259 | 575 | MaddieCherie |
-| 260 | 574 | Brandy McCune Reep |
-| 261 | 574 | meg |
+| 260 | 574 | meg |
+| 261 | 574 | Brandy McCune Reep |
 | 262 | 573 | Jennifer Smith |
 | 263 | 570 | Ashley Green |
 | 264 | 568 | Laverne Ellis Blair |
@@ -343,8 +343,8 @@
 | 335 | 434 | Mikia Stokes |
 | 336 | 430 | Jenn |
 | 337 | 430 | Jumpy Matchbuilder |
-| 338 | 428 | Physhie |
-| 339 | 428 | Goofy Gridclear |
+| 338 | 428 | Goofy Gridclear |
+| 339 | 428 | Physhie |
 | 340 | 426 | Branden Frankowski |
 | 341 | 420 | Linda Guay |
 | 342 | 420 | Adriana Daniela Agapie |
@@ -377,8 +377,8 @@
 | 369 | 396 | Gluten Gremlin |
 | 370 | 395 | Traci Abern |
 | 371 | 394 | DayDreamer79 |
-| 372 | 394 | Joanna Trevin Thompson |
-| 373 | 394 | Samantha Bugg Stitcher |
+| 372 | 394 | Samantha Bugg Stitcher |
+| 373 | 394 | Joanna Trevin Thompson |
 | 374 | 391 | La chulis |
 | 375 | 390 | Breezy |
 | 376 | 389 | Danielle Pack Lewellen |
@@ -414,32 +414,32 @@
 | 406 | 365 | Skye Ehret |
 | 407 | 364 | Amy Nicole McCanne |
 | 408 | 363 | Ashley Billiot Rhodes |
-| 409 | 362 | Dad |
-| 410 | 362 | Karly Moore |
-| 411 | 362 | Jessica Christine |
+| 409 | 362 | Jessica Christine |
+| 410 | 362 | Dad |
+| 411 | 362 | Karly Moore |
 | 412 | 362 | Jimmy Francis Shasta Bambi |
 | 413 | 361 | Brittney Williams |
-| 414 | 361 | Bianca Woodruff |
+| 414 | 361 | Jennifer Lalk |
 | 415 | 361 | Erica South |
-| 416 | 359 | Amy Taylor Pomerenk |
+| 416 | 361 | Bianca Woodruff |
 | 417 | 359 | Martha Lynn Wiggins |
-| 418 | 359 | TiffTaff |
+| 418 | 359 | Amy Taylor Pomerenk |
 | 419 | 359 | Flashy Hitter |
-| 420 | 358 | Rob Owens |
-| 421 | 358 | Teresa Mandich |
-| 422 | 357 | Mandy Van Laningham Bishop |
-| 423 | 357 | Smiley Staggerpiece |
-| 424 | 356 | KayLynn Ogden McClelland |
-| 425 | 356 | Paula Haskins |
-| 426 | 355 | Liseth Vasquez |
-| 427 | 355 | Boldy Wobbler |
-| 428 | 354 | Maria Ward |
+| 420 | 359 | TiffTaff |
+| 421 | 358 | Rob Owens |
+| 422 | 358 | Teresa Mandich |
+| 423 | 357 | Mandy Van Laningham Bishop |
+| 424 | 357 | Smiley Staggerpiece |
+| 425 | 356 | KayLynn Ogden McClelland |
+| 426 | 356 | Paula Haskins |
+| 427 | 355 | Liseth Vasquez |
+| 428 | 355 | Boldy Wobbler |
 | 429 | 354 | andee |
 | 430 | 354 | Sarah Jane Gorsuch |
-| 431 | 352 | Snappy Combo |
-| 432 | 351 | Jennifer Lalk |
-| 433 | 350 | Marge Cromer |
-| 434 | 350 | Starvinmarvin |
+| 431 | 354 | Maria Ward |
+| 432 | 352 | Snappy Combo |
+| 433 | 350 | Starvinmarvin |
+| 434 | 350 | Marge Cromer |
 | 435 | 349 | Sarah Grundisch |
 | 436 | 349 | Logan Duffey |
 | 437 | 348 | Sandra Ruiz |
@@ -448,8 +448,8 @@
 | 440 | 343 | Curly Windbreaker |
 | 441 | 343 | ShiverMeSplinter |
 | 442 | 343 | Duke Morley |
-| 443 | 342 | Jumpy Dashpiece |
-| 444 | 342 | Danielle Lyons |
+| 443 | 342 | Danielle Lyons |
+| 444 | 342 | Jumpy Dashpiece |
 | 445 | 341 | Patria Osuoha |
 | 446 | 341 | Bengy Lead |
 | 447 | 341 | Kelly Vedder |
@@ -464,22 +464,22 @@
 | 456 | 335 | Brittany Mathis |
 | 457 | 335 | Sassy Twistbuilder |
 | 458 | 334 | Victoria Pale |
-| 459 | 331 | Tango Sierra |
+| 459 | 331 | Anthony Swift |
 | 460 | 331 | Carolyn McNaughton |
-| 461 | 331 | Anthony Swift |
+| 461 | 331 | Tango Sierra |
 | 462 | 331 | Francesca Wagenhoffer |
 | 463 | 330 | marsam |
 | 464 | 328 | Buffy Diane Blake |
 | 465 | 324 | Kathryn |
-| 466 | 323 | Jerry L Morales |
-| 467 | 323 | Madonna Ash |
+| 466 | 323 | Madonna Ash |
+| 467 | 323 | Jerry L Morales |
 | 468 | 323 | Patrick Ohanlon |
 | 469 | 322 | RaeRae |
 | 470 | 321 | Wendy Spoor Hof |
 | 471 | 320 | MUMBLES |
 | 472 | 319 | Robin Lamb |
-| 473 | 318 | Jill Goff |
-| 474 | 318 | Margie Ann Naffziger |
+| 473 | 318 | Margie Ann Naffziger |
+| 474 | 318 | Jill Goff |
 | 475 | 316 | Saucy Wrecker |
 | 476 | 315 | KazzyKay |
 | 477 | 315 | murd3rmous3 |
@@ -489,113 +489,113 @@
 | 481 | 313 | Roe Sarmiento |
 | 482 | 311 | Alyssa Malay |
 | 483 | 310 | Hannah Meadows Hammond |
-| 484 | 310 | Zappy Liney |
-| 485 | 310 | Melmel |
+| 484 | 310 | Melmel |
+| 485 | 310 | Zappy Liney |
 | 486 | 309 | Ever Chase |
-| 487 | 307 | Jennifer McClure |
-| 488 | 307 | Michael Carmichael |
-| 489 | 305 | PaiBri |
-| 490 | 305 | Chummy Faller |
-| 491 | 304 | Laura Larsen |
-| 492 | 304 | Leticia Tillman |
+| 487 | 307 | Michael Carmichael |
+| 488 | 307 | Jennifer McClure |
+| 489 | 305 | Chummy Faller |
+| 490 | 305 | PaiBri |
+| 491 | 304 | Leticia Tillman |
+| 492 | 304 | Laura Larsen |
 | 493 | 304 | Brandi Christensen-Henley |
 | 494 | 303 | Ashley Voelz |
 | 495 | 302 | Mrs biotch |
 | 496 | 302 | Jasmine Goggans |
-| 497 | 300 | Happy |
-| 498 | 300 | phamous1 |
+| 497 | 300 | phamous1 |
+| 498 | 300 | Happy |
 | 499 | 300 | August Christy Lathrop |
 | 500 | 299 | Jennifer Covington |
 | 501 | 299 | StacyBabee |
-| 502 | 298 | TNGal |
-| 503 | 298 | Olivia Jefferson |
+| 502 | 298 | Olivia Jefferson |
+| 503 | 298 | TNGal |
 | 504 | 297 | Mouh Ity |
-| 505 | 296 | Sassy Patternblock |
-| 506 | 296 | Darla Ragsdale |
+| 505 | 296 | Darla Ragsdale |
+| 506 | 296 | Sassy Patternblock |
 | 507 | 295 | Gwendolyn Boykin Mobbs |
 | 508 | 295 | Ssirkus |
 | 509 | 294 | Riggins Terry |
 | 510 | 294 | Amanda Bryte |
 | 511 | 293 | denirocorona |
 | 512 | 293 | Sydney Cheyenne |
-| 513 | 292 | Raine |
-| 514 | 292 | Brandi Vandevanter-Duke |
-| 515 | 292 | Mama G |
-| 516 | 291 | Josh Vietz |
+| 513 | 292 | Mama G |
+| 514 | 292 | Raine |
+| 515 | 292 | Brandi Vandevanter-Duke |
+| 516 | 292 | TetrisMama |
 | 517 | 291 | Carol Whited Loza |
-| 518 | 291 | Tara Flood |
-| 519 | 290 | Nichole Wilson |
-| 520 | 290 | Meagan Grimmett Washburn |
-| 521 | 289 | Analee Nicole Jones |
-| 522 | 289 | Layla Petroff |
-| 523 | 288 | Angela Hogan |
-| 524 | 288 | Peter Fogg |
+| 518 | 291 | Josh Vietz |
+| 519 | 291 | Tara Flood |
+| 520 | 290 | Nichole Wilson |
+| 521 | 290 | Meagan Grimmett Washburn |
+| 522 | 289 | Analee Nicole Jones |
+| 523 | 289 | Layla Petroff |
+| 524 | 289 | Jessica Melendy |
 | 525 | 288 | Joanie Swann Ruiter |
-| 526 | 285 | Goofy Shatterbuilder |
-| 527 | 285 | Katelyn Rodgers |
-| 528 | 284 | Justin Stark |
-| 529 | 283 | Kurt Brown |
-| 530 | 282 | ZBee |
-| 531 | 281 | Amanda Bottorff |
-| 532 | 281 | straighttiptoe |
-| 533 | 281 | Churube Finwoiisopw |
-| 534 | 280 | Keisha Robinson |
-| 535 | 280 | Michelle M Braley |
-| 536 | 280 | Brooklyn Todd |
-| 537 | 280 | Susie Conger |
-| 538 | 280 | Brandi Williams |
-| 539 | 279 | Teddy Williams |
-| 540 | 279 | Jessica Melendy |
-| 541 | 278 | Kendra Sizemore |
+| 526 | 288 | Angela Hogan |
+| 527 | 288 | Peter Fogg |
+| 528 | 285 | Goofy Shatterbuilder |
+| 529 | 285 | Katelyn Rodgers |
+| 530 | 284 | Justin Stark |
+| 531 | 283 | Kurt Brown |
+| 532 | 282 | ZBee |
+| 533 | 281 | Amanda Bottorff |
+| 534 | 281 | straighttiptoe |
+| 535 | 281 | Churube Finwoiisopw |
+| 536 | 280 | Keisha Robinson |
+| 537 | 280 | Brandi Williams |
+| 538 | 280 | Susie Conger |
+| 539 | 280 | Brooklyn Todd |
+| 540 | 280 | Michelle M Braley |
+| 541 | 279 | Teddy Williams |
 | 542 | 278 | Tiffany Hassanshahi |
-| 543 | 277 | Brandy Chinelle |
-| 544 | 277 | TetrisMama |
-| 545 | 277 | Amanda Priddy |
+| 543 | 278 | Kendra Sizemore |
+| 544 | 277 | Amanda Priddy |
+| 545 | 277 | Brandy Chinelle |
 | 546 | 276 | Katie Jones |
 | 547 | 275 | Wayne Johnson |
 | 548 | 274 | Sunny Tiltbuilder |
-| 549 | 272 | Rescuegirl76 |
-| 550 | 272 | Donutz |
-| 551 | 271 | Spicy Balanceblock |
-| 552 | 270 | Precious Womack |
-| 553 | 270 | Ashley Diana |
-| 554 | 270 | Dapper Riser |
-| 555 | 269 | Jana Campbell |
-| 556 | 269 | Shannon Curry Riggle |
-| 557 | 269 | Brooke Lynn Marie Adelaide |
-| 558 | 268 | Heather Schardan |
-| 559 | 267 | Lisa Allen Frisk |
-| 560 | 265 | Kenzie |
-| 561 | 264 | Jessica Connot |
-| 562 | 263 | Gina Leal |
-| 563 | 262 | Billy Pittman |
-| 564 | 262 | Vicke Patterson |
-| 565 | 261 | Donna Esbensen-Alpini |
-| 566 | 261 | Hyper Striker |
-| 567 | 261 | Clever Fallmatch |
-| 568 | 261 | Audrey Wood |
+| 549 | 273 | Audrey Wood |
+| 550 | 272 | Rescuegirl76 |
+| 551 | 272 | Donutz |
+| 552 | 271 | Spicy Balanceblock |
+| 553 | 270 | Dapper Riser |
+| 554 | 270 | Precious Womack |
+| 555 | 270 | Ashley Diana |
+| 556 | 269 | Jana Campbell |
+| 557 | 269 | Shannon Curry Riggle |
+| 558 | 269 | Brooke Lynn Marie Adelaide |
+| 559 | 268 | Heather Schardan |
+| 560 | 267 | Lisa Allen Frisk |
+| 561 | 265 | Kenzie |
+| 562 | 264 | Jessica Connot |
+| 563 | 263 | Gina Leal |
+| 564 | 262 | Billy Pittman |
+| 565 | 262 | Vicke Patterson |
+| 566 | 261 | Donna Esbensen-Alpini |
+| 567 | 261 | Hyper Striker |
+| 568 | 261 | Clever Fallmatch |
 | 569 | 261 | Frisky Twist |
-| 570 | 260 | Michele Stewart |
-| 571 | 260 | Al Smith Jr |
-| 572 | 260 | Carrie Hayes Lankford |
-| 573 | 260 | Po Yee |
-| 574 | 260 | CEK |
-| 575 | 260 | Bouncy Snapmatch |
-| 576 | 259 | Angie Kowalsky Olson |
-| 577 | 259 | Gabrielle Rivera |
-| 578 | 258 | Julie Alexander Sykes |
-| 579 | 258 | Lively Curve |
-| 580 | 258 | Shellie Kioutas |
-| 581 | 258 | Diamond Mitchell |
-| 582 | 258 | Christy Diane Escobar |
-| 583 | 258 | Twisty Tower |
-| 584 | 258 | Wacky Curve |
-| 585 | 258 | Amanda Rude |
+| 570 | 260 | Al Smith Jr |
+| 571 | 260 | Michele Stewart |
+| 572 | 260 | Po Yee |
+| 573 | 260 | Carrie Hayes Lankford |
+| 574 | 260 | Bouncy Snapmatch |
+| 575 | 260 | CEK |
+| 576 | 259 | Gabrielle Rivera |
+| 577 | 259 | Angie Kowalsky Olson |
+| 578 | 258 | Lively Curve |
+| 579 | 258 | Julie Alexander Sykes |
+| 580 | 258 | Christy Diane Escobar |
+| 581 | 258 | Twisty Tower |
+| 582 | 258 | Shellie Kioutas |
+| 583 | 258 | Amanda Rude |
+| 584 | 258 | Diamond Mitchell |
+| 585 | 258 | Wacky Curve |
 | 586 | 257 | Danita Moon |
-| 587 | 257 | Rydin Dirt |
-| 588 | 257 | Simone F |
-| 589 | 257 | Perky Linebuilder |
-| 590 | 257 | Lee Leonard |
+| 587 | 257 | Simone F |
+| 588 | 257 | Rydin Dirt |
+| 589 | 257 | Lee Leonard |
+| 590 | 257 | Perky Linebuilder |
 | 591 | 256 | Joshua Dye |
 | 592 | 256 | Spencer Ryder |
 | 593 | 254 | Frisky Linkbuilder |
@@ -604,73 +604,73 @@
 | 596 | 253 | Reign Hustler |
 | 597 | 253 | Teloney Humphrey |
 | 598 | 252 | Angela VanOstrand |
-| 599 | 251 | BugMansMom |
-| 600 | 251 | Cherica Taylor |
-| 601 | 251 | Marilyn Mendoza |
+| 599 | 251 | Cherica Taylor |
+| 600 | 251 | Marilyn Mendoza |
+| 601 | 251 | BugMansMom |
 | 602 | 250 | Kim Powers |
 | 603 | 250 | Happy Drop |
-| 604 | 249 | Plucky Grabber |
+| 604 | 249 | Nutty Dash |
 | 605 | 249 | Dana Vaiden Rivers |
-| 606 | 249 | Tina |
-| 607 | 248 | Michele Rogers |
+| 606 | 249 | Plucky Grabber |
+| 607 | 249 | Tina |
 | 608 | 248 | Wendy Mcbride |
-| 609 | 247 | rageking |
-| 610 | 247 | Bubbly Puzzler |
-| 611 | 246 | Darla Nolt |
-| 612 | 246 | Holly Huval |
-| 613 | 245 | David Skelton |
-| 614 | 245 | Crystal Camden Suarez |
-| 615 | 244 | Hyper Cascade |
-| 616 | 243 | MamaRachel |
-| 617 | 243 | Nicole Ashbaugh |
-| 618 | 242 | Mary Carriere |
-| 619 | 241 | Marlo Perry |
-| 620 | 241 | Fallon Moss |
-| 621 | 240 | Tiffany Lewis |
-| 622 | 240 | Jacquelyn Snyder Dumas |
-| 623 | 239 | Mary Whitaker |
-| 624 | 239 | Shannon Posner |
+| 609 | 248 | Michele Rogers |
+| 610 | 247 | rageking |
+| 611 | 247 | Bubbly Puzzler |
+| 612 | 246 | Darla Nolt |
+| 613 | 246 | Ozge Akgun Tokat |
+| 614 | 246 | Holly Huval |
+| 615 | 245 | David Skelton |
+| 616 | 245 | Crystal Camden Suarez |
+| 617 | 244 | Hyper Cascade |
+| 618 | 243 | MamaRachel |
+| 619 | 243 | Nicole Ashbaugh |
+| 620 | 242 | Mary Carriere |
+| 621 | 241 | Marlo Perry |
+| 622 | 241 | Fallon Moss |
+| 623 | 240 | Tiffany Lewis |
+| 624 | 240 | Jacquelyn Snyder Dumas |
 | 625 | 239 | Stella |
 | 626 | 239 | Candi Cane |
-| 627 | 239 | Nutty Dash |
-| 628 | 239 | Will Jones |
-| 629 | 238 | Barb Kiser |
-| 630 | 237 | Renee Siems |
-| 631 | 236 | Ozge Akgun Tokat |
-| 632 | 236 | NickandJess Reynolds |
-| 633 | 236 | Lush Party |
-| 634 | 236 | Busted9mm |
+| 627 | 239 | Mary Whitaker |
+| 628 | 239 | Shannon Posner |
+| 629 | 239 | Will Jones |
+| 630 | 238 | Barb Kiser |
+| 631 | 237 | Renee Siems |
+| 632 | 236 | Lush Party |
+| 633 | 236 | NickandJess Reynolds |
+| 634 | 236 | Joanne Fish |
 | 635 | 236 | Errkuh |
-| 636 | 236 | Joanne Fish |
+| 636 | 236 | Busted9mm |
 | 637 | 235 | Melissa Pronovost |
-| 638 | 234 | Natasha Lee |
-| 639 | 234 | Mandy |
-| 640 | 233 | Muffin Popper |
-| 641 | 232 | Kati Eckstein |
+| 638 | 234 | Chilly Surge |
+| 639 | 234 | Natasha Lee |
+| 640 | 234 | Mandy |
+| 641 | 233 | Muffin Popper |
 | 642 | 232 | Sandy Rundel Holderman |
-| 643 | 232 | Dame Smith |
-| 644 | 232 | Michael Anthony Anstead |
-| 645 | 231 | Camilo Moreno |
-| 646 | 231 | Chilly Surge |
+| 643 | 232 | Kati Eckstein |
+| 644 | 232 | Dame Smith |
+| 645 | 232 | Michael Anthony Anstead |
+| 646 | 231 | Camilo Moreno |
 | 647 | 231 | Judy Burkhalter |
-| 648 | 230 | Sara BlueEyes |
-| 649 | 230 | Brian Favre |
-| 650 | 230 | Anzhen |
-| 651 | 230 | Kimberly Davis |
-| 652 | 230 | Laurie |
-| 653 | 229 | Tracy Lee |
-| 654 | 229 | Shawn Jensen |
+| 648 | 230 | Brian Favre |
+| 649 | 230 | Sara BlueEyes |
+| 650 | 230 | Kimberly Davis |
+| 651 | 230 | Laurie |
+| 652 | 230 | Anzhen |
+| 653 | 229 | Shawn Jensen |
+| 654 | 229 | Tracy Lee |
 | 655 | 229 | Zany Wrecker |
 | 656 | 228 | Maurii93 |
 | 657 | 228 | Gina Louise Parker |
 | 658 | 228 | Deb Rose-Bridinger |
 | 659 | 227 | K2N |
 | 660 | 227 | Jamie Adams |
-| 661 | 227 | Violet Olivares |
-| 662 | 227 | Alonzo Reed |
-| 663 | 227 | Jennifer Leigh |
+| 661 | 227 | Jennifer Leigh |
+| 662 | 227 | Chesney |
+| 663 | 227 | Alonzo Reed |
 | 664 | 227 | Epic Tilemaker |
-| 665 | 227 | Chesney |
+| 665 | 227 | Violet Olivares |
 | 666 | 227 | Laura Melton |
 | 667 | 226 | Raymond Dawson |
 | 668 | 226 | Cranky Patternblock |
@@ -679,17 +679,17 @@
 | 671 | 225 | Cheery Towerzone |
 | 672 | 224 | Stephanie Smith Robinson |
 | 673 | 224 | Jason Lamporte |
-| 674 | 224 | Amber Marie |
-| 675 | 224 | Carrie Smith Negron |
+| 674 | 224 | Carrie Smith Negron |
+| 675 | 224 | Amber Marie |
 | 676 | 223 | Epic Framezone |
-| 677 | 222 | Melissa Aycock |
-| 678 | 222 | Stacy Shaunce |
+| 677 | 222 | Stacy Shaunce |
+| 678 | 222 | Melissa Aycock |
 | 679 | 221 | Dhelsie Qurasima |
-| 680 | 220 | Tami Leontyuk |
-| 681 | 220 | Chris Christ |
-| 682 | 220 | Alycia Marie Zelensky |
-| 683 | 220 | Krystle L Coon |
-| 684 | 220 | Jessica Murphree |
+| 680 | 220 | Jessica Murphree |
+| 681 | 220 | Krystle L Coon |
+| 682 | 220 | Tami Leontyuk |
+| 683 | 220 | Chris Christ |
+| 684 | 220 | Alycia Marie Zelensky |
 | 685 | 220 | Joannah Capilitan |
 | 686 | 220 | Wendy McKee |
 | 687 | 219 | Rick |
@@ -711,9 +711,9 @@
 | 703 | 213 | Mike Mordhorst |
 | 704 | 213 | Baby |
 | 705 | 213 | s3lc4tr0n |
-| 706 | 212 | Connie Marie Cornell Lerma |
-| 707 | 212 | Holly Barefoot |
-| 708 | 212 | Jennifer Bromeisl-Tettam |
+| 706 | 212 | Jennifer Bromeisl-Tettam |
+| 707 | 212 | Connie Marie Cornell Lerma |
+| 708 | 212 | Holly Barefoot |
 | 709 | 211 | Blossom48 |
 | 710 | 211 | Edna Nena Cabrera |
 | 711 | 211 | Belle |
@@ -727,8 +727,8 @@
 | 719 | 209 | Julibeth Wells |
 | 720 | 208 | Jennifer Wymer |
 | 721 | 208 | Giddy Climber |
-| 722 | 207 | Kalli Bonin |
-| 723 | 207 | Kevin Osbourne |
+| 722 | 207 | Kevin Osbourne |
+| 723 | 207 | Kalli Bonin |
 | 724 | 207 | Quirky Shifter |
 | 725 | 207 | Andrea Rawson |
 | 726 | 207 | WhitS |
@@ -765,8 +765,8 @@
 | 757 | 198 | Nicole Suber |
 | 758 | 198 | Tammy Roth |
 | 759 | 198 | Flex |
-| 760 | 197 | Giddy Chiseler |
-| 761 | 197 | Franky |
+| 760 | 197 | Franky |
+| 761 | 197 | Giddy Chiseler |
 | 762 | 197 | Kevin Patrick |
 | 763 | 197 | Kristen |
 | 764 | 197 | Jessica Perkins |
@@ -795,8 +795,8 @@
 | 787 | 189 | James Sayers |
 | 788 | 189 | Goofy Patternfit |
 | 789 | 189 | Kristi K Milner |
-| 790 | 189 | Poppy Strikerbuilder |
-| 791 | 189 | Destiny Turner |
+| 790 | 189 | Destiny Turner |
+| 791 | 189 | Poppy Strikerbuilder |
 | 792 | 188 | Derrick |
 | 793 | 187 | Cindy Scott |
 | 794 | 187 | Wacky Holder |
@@ -812,20 +812,20 @@
 | 804 | 184 | YAKO |
 | 805 | 184 | Tracey Cox |
 | 806 | 184 | Melissa Abbott |
-| 807 | 184 | Spunky Piecebuilder |
-| 808 | 184 | Ryan Rhodes |
-| 809 | 184 | Ashley Fleming |
-| 810 | 182 | Steve Eakins |
-| 811 | 182 | Rmk |
-| 812 | 182 | Aneokly |
-| 813 | 182 | Paula |
-| 814 | 182 | Shawn Bolt |
+| 807 | 184 | Ryan Rhodes |
+| 808 | 184 | Ashley Fleming |
+| 809 | 184 | Spunky Piecebuilder |
+| 810 | 182 | Aneokly |
+| 811 | 182 | Paula |
+| 812 | 182 | Rmk |
+| 813 | 182 | Shawn Bolt |
+| 814 | 182 | Steve Eakins |
 | 815 | 182 | Damion Morrison |
 | 816 | 182 | Rae |
 | 817 | 181 | Tina Carr |
-| 818 | 180 | Audrey Morris |
+| 818 | 180 | Jillian Marie |
 | 819 | 180 | Nicole Sides KrazyKoop |
-| 820 | 180 | Jillian Marie |
+| 820 | 180 | Audrey Morris |
 | 821 | 180 | Dawn Kroptavich |
 | 822 | 180 | Sharilyn Jackson |
 | 823 | 180 | Dana Wilson |
@@ -842,9 +842,9 @@
 | 834 | 177 | Chelsea Frye |
 | 835 | 177 | Carmina Truoiolo |
 | 836 | 176 | Patty Ann Hendrickson |
-| 837 | 176 | Perky Rollfit |
-| 838 | 176 | Sara Moericke |
-| 839 | 176 | Chill Clearbuilder |
+| 837 | 176 | Sara Moericke |
+| 838 | 176 | Chill Clearbuilder |
+| 839 | 176 | Perky Rollfit |
 | 840 | 175 | Distro |
 | 841 | 175 | Staci Walker |
 | 842 | 175 | Lydia Shonee |
@@ -855,9 +855,9 @@
 | 847 | 173 | Groovy Glider |
 | 848 | 173 | Chirpy Combofall |
 | 849 | 172 | Duck |
-| 850 | 171 | Mary Stump |
-| 851 | 171 | Morgan Olson Pingree |
-| 852 | 171 | Flashy Wipegrid |
+| 850 | 171 | Flashy Wipegrid |
+| 851 | 171 | Mary Stump |
+| 852 | 171 | Morgan Olson Pingree |
 | 853 | 170 | Happy Shatterblock |
 | 854 | 169 | Lindsey Davidson |
 | 855 | 169 | Wendy Michelle Wise-Ledford |
@@ -869,20 +869,20 @@
 | 861 | 168 | Toni Washington |
 | 862 | 168 | Hoppy Linkblock |
 | 863 | 167 | Chad Atchley |
-| 864 | 167 | Alisha Shelton |
-| 865 | 167 | Pickle |
+| 864 | 167 | Pickle |
+| 865 | 167 | Alisha Shelton |
 | 866 | 167 | Bonnie Huckleberry |
 | 867 | 167 | Cara Rivera |
 | 868 | 167 | Debra May |
 | 869 | 167 | Brandy Westfall-panchari |
 | 870 | 167 | Evelyn Olive Kalmbach |
 | 871 | 166 | Jolly Twisterfit |
-| 872 | 166 | LyndaLou |
-| 873 | 166 | Dandy Column |
-| 874 | 166 | Jackelyn Ford |
-| 875 | 166 | Ashlee Johnson |
-| 876 | 165 | Epic Slice |
-| 877 | 165 | Twisty Blockmatch |
+| 872 | 166 | Jackelyn Ford |
+| 873 | 166 | Ashlee Johnson |
+| 874 | 166 | Dandy Column |
+| 875 | 166 | LyndaLou |
+| 876 | 165 | Twisty Blockmatch |
+| 877 | 165 | Epic Slice |
 | 878 | 165 | April Elaine Messenger |
 | 879 | 165 | Spunky Cascadeclear |
 | 880 | 165 | LadyDeath |
@@ -902,70 +902,70 @@
 | 894 | 160 | Adam Latin |
 | 895 | 160 | Elizabeth Cornelius |
 | 896 | 160 | Billie Jensen |
-| 897 | 160 | Belinda Head |
-| 898 | 160 | Frank Laverty |
-| 899 | 160 | Tasha Gilbert |
-| 900 | 160 | Katie Thacker |
-| 901 | 160 | Michelle Jones |
-| 902 | 160 | Gloria Appleton |
-| 903 | 160 | Scott Lyles |
-| 904 | 159 | JDub |
-| 905 | 159 | Misty Noe |
+| 897 | 160 | Gloria Appleton |
+| 898 | 160 | Katie Thacker |
+| 899 | 160 | Michelle Jones |
+| 900 | 160 | Scott Lyles |
+| 901 | 160 | Frank Laverty |
+| 902 | 160 | Belinda Head |
+| 903 | 160 | Tasha Gilbert |
+| 904 | 159 | Jennifer Vitro |
+| 905 | 159 | Bruni |
 | 906 | 159 | Funko Dave |
-| 907 | 159 | Jennifer Vitro |
-| 908 | 159 | Bruni |
+| 907 | 159 | JDub |
+| 908 | 159 | Misty Noe |
 | 909 | 159 | Amanda Bailey |
 | 910 | 159 | Amanda Neal |
 | 911 | 158 | Laura Anderson |
 | 912 | 158 | Ceci |
-| 913 | 158 | Chrystal |
-| 914 | 158 | Tia Guile |
-| 915 | 158 | Witty Shatterline |
-| 916 | 158 | Smiley Cornerfall |
-| 917 | 157 | Peyton Groce |
-| 918 | 157 | Sara Karels |
+| 913 | 158 | Witty Shatterline |
+| 914 | 158 | Chrystal |
+| 915 | 158 | Smiley Cornerfall |
+| 916 | 158 | Tia Guile |
+| 917 | 157 | Sara Karels |
+| 918 | 157 | Wacky Rollbuilder |
 | 919 | 157 | Silly Clicker |
-| 920 | 157 | Kris Dusza Dodus |
-| 921 | 157 | Kimmi Blake |
-| 922 | 157 | Michelle Anne |
-| 923 | 156 | Laura Fagans |
-| 924 | 155 | MJLovesHer#OneMistake |
-| 925 | 155 | Grimwitch |
+| 920 | 157 | Peyton Groce |
+| 921 | 157 | Kris Dusza Dodus |
+| 922 | 157 | Kimmi Blake |
+| 923 | 157 | Michelle Anne |
+| 924 | 156 | Laura Fagans |
+| 925 | 155 | MJLovesHer#OneMistake |
 | 926 | 155 | TheAggie12 |
-| 927 | 154 | Reni Seven |
-| 928 | 154 | Amy D Coble |
-| 929 | 153 | Michael Saunders |
-| 930 | 153 | Matt Wylie |
-| 931 | 153 | Chris Delauro |
-| 932 | 153 | Amy |
-| 933 | 152 | Amy |
-| 934 | 152 | John Perkins |
-| 935 | 152 | Snazzy Smasher |
-| 936 | 152 | CK Hancock |
-| 937 | 151 | Amy Lea Hamilton |
-| 938 | 151 | Joshua Hopkins |
-| 939 | 151 | Shiny Spinfit |
-| 940 | 151 | Robin Stutler |
-| 941 | 151 | Brenda Shannon |
-| 942 | 151 | Nikki Sadler |
-| 943 | 151 | Tamtam |
-| 944 | 151 | Sleepypanda67 |
-| 945 | 151 | Kimberley Marie |
+| 927 | 155 | Grimwitch |
+| 928 | 154 | Reni Seven |
+| 929 | 154 | Amy D Coble |
+| 930 | 153 | Michael Saunders |
+| 931 | 153 | Matt Wylie |
+| 932 | 153 | Sleepypanda67 |
+| 933 | 153 | Chris Delauro |
+| 934 | 153 | Amy |
+| 935 | 152 | John Perkins |
+| 936 | 152 | Amy |
+| 937 | 152 | Snazzy Smasher |
+| 938 | 152 | CK Hancock |
+| 939 | 151 | Amy Lea Hamilton |
+| 940 | 151 | Joshua Hopkins |
+| 941 | 151 | Shiny Spinfit |
+| 942 | 151 | Robin Stutler |
+| 943 | 151 | Brenda Shannon |
+| 944 | 151 | Nikki Sadler |
+| 945 | 151 | Tamtam |
 | 946 | 151 | Michele Plunkett |
-| 947 | 150 | Boo Boo Binx |
-| 948 | 150 | Roger Kee |
+| 947 | 151 | Kimberley Marie |
+| 948 | 150 | Boo Boo Binx |
 | 949 | 150 | Tina Kinney |
-| 950 | 150 | Angie Rose |
-| 951 | 150 | Nanny t |
-| 952 | 150 | Ashley Eneboe |
-| 953 | 150 | Hog Crankin |
-| 954 | 150 | Kaitlyn Hurst |
-| 955 | 150 | Beachmama |
-| 956 | 149 | Kayley |
-| 957 | 149 | Wacky Rollbuilder |
-| 958 | 149 | Dustin Bumbalough |
-| 959 | 149 | Silly Chiseler |
-| 960 | 149 | MjLovebug13 |
+| 950 | 150 | Roger Kee |
+| 951 | 150 | Angie Rose |
+| 952 | 150 | Nanny t |
+| 953 | 150 | Ashley Eneboe |
+| 954 | 150 | Hog Crankin |
+| 955 | 150 | Kaitlyn Hurst |
+| 956 | 150 | Beachmama |
+| 957 | 149 | Kayley |
+| 958 | 149 | MjLovebug13 |
+| 959 | 149 | Dustin Bumbalough |
+| 960 | 149 | Silly Chiseler |
 | 961 | 148 | Valeri Bradley |
 | 962 | 148 | Crystal Robinson |
 | 963 | 148 | Loony Ziggy |
@@ -977,8 +977,8 @@
 | 969 | 147 | KS Hengesbach |
 | 970 | 147 | Hansent3 |
 | 971 | 146 | Cool Cornerfall |
-| 972 | 146 | Jacy Pickett |
-| 973 | 146 | Jessica Veness-Toth |
+| 972 | 146 | Jessica Veness-Toth |
+| 973 | 146 | Jacy Pickett |
 | 974 | 146 | AshleyM |
 | 975 | 146 | Kimberly Brooks |
 | 976 | 146 | bozzycat |
@@ -995,83 +995,83 @@
 | 987 | 143 | Wendy Durrence Jones |
 | 988 | 143 | Sam Schwieso |
 | 989 | 142 | Bouncy Cluster |
-| 990 | 142 | Pat Smits |
+| 990 | 142 | Jacob Corrales |
 | 991 | 142 | Jeremy Daurbigny |
-| 992 | 142 | Jacob Corrales |
-| 993 | 141 | Brittany Paul |
-| 994 | 141 | mee |
-| 995 | 141 | Jenifer Gasho |
+| 992 | 142 | Pat Smits |
+| 993 | 141 | Jenifer Gasho |
+| 994 | 141 | Brittany Paul |
+| 995 | 141 | mee |
 | 996 | 140 | Daring Spinzone |
 | 997 | 140 | Nerdy Spinfit |
-| 998 | 140 | Jim Longnecker |
-| 999 | 140 | Kay |
+| 998 | 140 | Kay |
+| 999 | 140 | Jim Longnecker |
 | 1000 | 140 | Michelle Edgin Tranbarger |
 | 1001 | 140 | ReiRei |
 | 1002 | 139 | Cranky Brickzone |
 | 1003 | 139 | Jason Burris |
 | 1004 | 139 | Witty Riser |
-| 1005 | 139 | sugabritches |
-| 1006 | 139 | Anna Benjamin Freeman |
-| 1007 | 139 | CAL1KAWS559 |
-| 1008 | 138 | Saucy Lifter |
+| 1005 | 139 | CAL1KAWS559 |
+| 1006 | 139 | sugabritches |
+| 1007 | 139 | Anna Benjamin Freeman |
+| 1008 | 138 | Krystallin Stacy |
 | 1009 | 138 | Kiersty Redder |
-| 1010 | 138 | Krystallin Stacy |
+| 1010 | 138 | Saucy Lifter |
 | 1011 | 138 | Sam Brewster |
 | 1012 | 137 | Sarah Louise Cobb |
 | 1013 | 137 | Roger Kirksey |
 | 1014 | 136 | Natalie M. Arredondo |
 | 1015 | 136 | Lauren Maxwell |
-| 1016 | 136 | Ahada Seber |
-| 1017 | 136 | Marcia Monroe |
-| 1018 | 136 | Aaron Jones |
-| 1019 | 136 | Frisky Linkmatch |
-| 1020 | 135 | Tommi Lynn Lawson |
-| 1021 | 135 | Emilee Dulyea |
+| 1016 | 136 | Aaron Jones |
+| 1017 | 136 | Frisky Linkmatch |
+| 1018 | 136 | Marcia Monroe |
+| 1019 | 136 | Ahada Seber |
+| 1020 | 135 | Emilee Dulyea |
+| 1021 | 135 | Ava Taber |
 | 1022 | 135 | Evelyn Confer |
-| 1023 | 135 | Ava Taber |
-| 1024 | 135 | D.j. Wingate |
+| 1023 | 135 | D.j. Wingate |
+| 1024 | 135 | Tommi Lynn Lawson |
 | 1025 | 135 | Sharon Wade |
 | 1026 | 135 | Erin Moore Galloway |
 | 1027 | 135 | Mee Maw |
 | 1028 | 135 | Naomi Jaynes |
 | 1029 | 134 | Diane Byrd |
 | 1030 | 134 | Candace Mihm |
-| 1031 | 134 | Cassandra Milner |
-| 1032 | 134 | Stazy Warner |
-| 1033 | 133 | Cheryl Graves Downard |
-| 1034 | 133 | Bubbly Liner |
-| 1035 | 133 | Michelle |
-| 1036 | 133 | Frothy Zonebuilder |
-| 1037 | 133 | Brandy McCleary |
-| 1038 | 133 | Seamus |
-| 1039 | 132 | Jazzy |
-| 1040 | 132 | Belinda Gullion Austin |
-| 1041 | 132 | Tim Moore |
-| 1042 | 132 | Tony Williams |
-| 1043 | 132 | Manda |
-| 1044 | 131 | Paige Lynette Sohl |
+| 1031 | 134 | Stazy Warner |
+| 1032 | 134 | Cassandra Milner |
+| 1033 | 133 | Danielle Etchison Mask |
+| 1034 | 133 | Michelle |
+| 1035 | 133 | Cheryl Graves Downard |
+| 1036 | 133 | Bubbly Liner |
+| 1037 | 133 | Frothy Zonebuilder |
+| 1038 | 133 | Brandy McCleary |
+| 1039 | 133 | Seamus |
+| 1040 | 132 | Jazzy |
+| 1041 | 132 | Belinda Gullion Austin |
+| 1042 | 132 | Tim Moore |
+| 1043 | 132 | Tony Williams |
+| 1044 | 132 | Manda |
 | 1045 | 131 | Lyndzey Sciscoe |
-| 1046 | 131 | Chris |
-| 1047 | 131 | Eva Lopez |
-| 1048 | 131 | Justtony Fareal |
-| 1049 | 130 | Jolly Brickroll |
-| 1050 | 130 | Amanda Mason Scott |
-| 1051 | 130 | Binska |
-| 1052 | 130 | Sherry Ann |
-| 1053 | 130 | Desia Walker |
-| 1054 | 130 | Denita Kaherl |
-| 1055 | 130 | Lori |
-| 1056 | 130 | gene15 |
+| 1046 | 131 | Paige Lynette Sohl |
+| 1047 | 131 | Chris |
+| 1048 | 131 | Eva Lopez |
+| 1049 | 131 | Justtony Fareal |
+| 1050 | 130 | Jolly Brickroll |
+| 1051 | 130 | Amanda Mason Scott |
+| 1052 | 130 | Binska |
+| 1053 | 130 | Sherry Ann |
+| 1054 | 130 | Lori |
+| 1055 | 130 | Denita Kaherl |
+| 1056 | 130 | Michele Gonzales |
 | 1057 | 130 | Val |
-| 1058 | 130 | Michele Gonzales |
+| 1058 | 130 | Desia Walker |
 | 1059 | 130 | Tiffany Ann |
-| 1060 | 129 | Susan Bosell |
-| 1061 | 129 | Dapper Spinbuilder |
-| 1062 | 129 | Rachel Wooldridge |
-| 1063 | 129 | Michelle Feliciano |
-| 1064 | 129 | Jaimie Waybill |
+| 1060 | 130 | gene15 |
+| 1061 | 129 | Michelle Feliciano |
+| 1062 | 129 | Susan Bosell |
+| 1063 | 129 | Dapper Spinbuilder |
+| 1064 | 129 | Rachel Wooldridge |
 | 1065 | 129 | jme |
-| 1066 | 129 | Danielle Etchison Mask |
+| 1066 | 129 | Jaimie Waybill |
 | 1067 | 129 | Clever Linkbuilder |
 | 1068 | 129 | Lively Twisterfit |
 | 1069 | 129 | Cuca Perez |
@@ -1082,33 +1082,33 @@
 | 1074 | 127 | Jason Janssen |
 | 1075 | 127 | Christina Kearns |
 | 1076 | 126 | Beth Engberg |
-| 1077 | 125 | grey panther |
+| 1077 | 125 | Wendy Morrison |
 | 1078 | 125 | Jessica Gayle Sears |
-| 1079 | 125 | Wendy Morrison |
+| 1079 | 125 | grey panther |
 | 1080 | 125 | Sandra Pursell |
 | 1081 | 125 | Angelique Matzke Starns |
 | 1082 | 125 | Nicole Treadway |
 | 1083 | 124 | Purpleroyalty11 |
 | 1084 | 124 | Heather Nicole |
-| 1085 | 124 | Blocker |
-| 1086 | 124 | Spicy Enchilada |
-| 1087 | 124 | Rochelle O'Loughlin |
-| 1088 | 124 | Madbull |
+| 1085 | 124 | Madbull |
+| 1086 | 124 | Rochelle O'Loughlin |
+| 1087 | 124 | Blocker |
+| 1088 | 124 | Spicy Enchilada |
 | 1089 | 123 | Cindy Wellman |
-| 1090 | 123 | Reggie Ellerbe |
-| 1091 | 123 | Nick Waterwalker |
-| 1092 | 123 | Frothy Faller |
+| 1090 | 123 | Frothy Faller |
+| 1091 | 123 | Reggie Ellerbe |
+| 1092 | 123 | Nick Waterwalker |
 | 1093 | 123 | sampson |
 | 1094 | 123 | Jolly Builderpiece |
 | 1095 | 123 | Kawana Nesbitt |
 | 1096 | 123 | Anthony Chavez |
 | 1097 | 122 | Kay Newcomb |
-| 1098 | 122 | Robert Fenton |
-| 1099 | 122 | Joffee Joffer |
-| 1100 | 122 | Cody Bohannan |
-| 1101 | 122 | Helen Townsend |
-| 1102 | 122 | Carlee Becher |
-| 1103 | 122 | Just Me |
+| 1098 | 122 | Helen Townsend |
+| 1099 | 122 | Cody Bohannan |
+| 1100 | 122 | Robert Fenton |
+| 1101 | 122 | Joffee Joffer |
+| 1102 | 122 | Just Me |
+| 1103 | 122 | Carlee Becher |
 | 1104 | 121 | Michael James |
 | 1105 | 121 | Stacey Loretta Wallace |
 | 1106 | 120 | BB |
@@ -1117,24 +1117,24 @@
 | 1109 | 120 | Loriane Shumate Griggs |
 | 1110 | 120 | Laura Turner |
 | 1111 | 120 | Glowing Earthy Embers |
-| 1112 | 120 | Michelle Brown |
-| 1113 | 120 | Ava |
-| 1114 | 120 | Anna Chance |
-| 1115 | 120 | Cheryl Schmid |
-| 1116 | 120 | Alice Petterborg Barberich |
-| 1117 | 120 | Amanda Kennedy |
-| 1118 | 120 | Shannon D. Turk |
-| 1119 | 120 | Tonya Greger |
-| 1120 | 120 | Debbie Davis |
-| 1121 | 120 | Jenny Bishop |
+| 1112 | 120 | Ava |
+| 1113 | 120 | gurlieheart |
+| 1114 | 120 | Cheryl Schmid |
+| 1115 | 120 | Jenny Bishop |
+| 1116 | 120 | Lori Rose |
+| 1117 | 120 | Shannon D. Turk |
+| 1118 | 120 | Tonya Greger |
+| 1119 | 120 | Debbie Davis |
+| 1120 | 120 | Anna Chance |
+| 1121 | 120 | Michelle Brown |
 | 1122 | 120 | Tanya Goodwin |
-| 1123 | 120 | Lori Rose |
-| 1124 | 120 | gurlieheart |
-| 1125 | 119 | Lori Yelvington Cain |
+| 1123 | 120 | Alice Petterborg Barberich |
+| 1124 | 120 | Amanda Kennedy |
+| 1125 | 119 | Kjsranch |
 | 1126 | 119 | Loony Clearpiece |
 | 1127 | 119 | Jolly Balanceblock |
-| 1128 | 119 | Kjsranch |
-| 1129 | 119 | Megan McDevitt |
+| 1128 | 119 | Megan McDevitt |
+| 1129 | 119 | Lori Yelvington Cain |
 | 1130 | 119 | Meagan Thompson |
 | 1131 | 119 | Michael Delozier |
 | 1132 | 119 | Mario Hillman |
@@ -1144,28 +1144,28 @@
 | 1136 | 118 | Vanessa King |
 | 1137 | 118 | Anita Blackshear |
 | 1138 | 118 | Raven |
-| 1139 | 117 | C.L. Deslongchamp |
+| 1139 | 117 | Christina Whitehead |
 | 1140 | 117 | James Maness |
-| 1141 | 117 | Christina Whitehead |
+| 1141 | 117 | C.L. Deslongchamp |
 | 1142 | 117 | Jessica Spivey Cooper |
 | 1143 | 117 | Jack |
 | 1144 | 116 | Trisha Schneider |
 | 1145 | 116 | Jill Bobst Marple |
-| 1146 | 116 | Kendra Sullins |
-| 1147 | 116 | Giggy Dropzone |
+| 1146 | 116 | Giggy Dropzone |
+| 1147 | 116 | Bunny Bt |
 | 1148 | 116 | ASL |
-| 1149 | 116 | Bunny Bt |
+| 1149 | 116 | Kendra Sullins |
 | 1150 | 115 | Edward Conyers |
-| 1151 | 115 | STARFIRE |
-| 1152 | 115 | Shaun Talbot |
-| 1153 | 115 | Doris Bonin |
+| 1151 | 115 | Shaun Talbot |
+| 1152 | 115 | Doris Bonin |
+| 1153 | 115 | STARFIRE |
 | 1154 | 115 | Ollie |
 | 1155 | 114 | Twisty Snapmatch |
 | 1156 | 114 | Samantha Lewis |
-| 1157 | 114 | Amanda Jungclaus |
-| 1158 | 114 | Miguel360 |
-| 1159 | 114 | Kayla Faulkiner |
-| 1160 | 114 | Shannon Miller- Cooley |
+| 1157 | 114 | Miguel360 |
+| 1158 | 114 | Shannon Miller- Cooley |
+| 1159 | 114 | Amanda Jungclaus |
+| 1160 | 114 | Kayla Faulkiner |
 | 1161 | 113 | Randy Taylor |
 | 1162 | 113 | Wood |
 | 1163 | 113 | Rachel Huber |
@@ -1175,14 +1175,14 @@
 | 1167 | 112 | Mona Wagner |
 | 1168 | 112 | Arik DiLorenzo |
 | 1169 | 112 | Alimae |
-| 1170 | 112 | Yuhh |
+| 1170 | 112 | Cranky Zonebuilder |
 | 1171 | 112 | Kennadee Albertson |
-| 1172 | 112 | Cranky Zonebuilder |
-| 1173 | 111 | Bonez |
-| 1174 | 111 | Tetrismastrr |
-| 1175 | 111 | Thomas Chris |
-| 1176 | 111 | Tish |
-| 1177 | 111 | Nikki Layman |
+| 1172 | 112 | Yuhh |
+| 1173 | 111 | Thomas Chris |
+| 1174 | 111 | Bonez |
+| 1175 | 111 | Tetrismastrr |
+| 1176 | 111 | Nikki Layman |
+| 1177 | 111 | Tish |
 | 1178 | 111 | Linzy Ratliff |
 | 1179 | 111 | WestieMom |
 | 1180 | 110 | Michelle Fry-Cash |
@@ -1190,52 +1190,52 @@
 | 1182 | 110 | Stephen Gillam |
 | 1183 | 110 | Rey Huber |
 | 1184 | 110 | Lesley Stoeckle |
-| 1185 | 110 | Deena-Neal Peryer |
-| 1186 | 110 | Andrea Spinelli |
-| 1187 | 110 | Christina German |
-| 1188 | 110 | Ava Dorsch |
-| 1189 | 110 | Christina Reid |
-| 1190 | 110 | Susan Moyer |
-| 1191 | 110 | Sandy Molina |
-| 1192 | 110 | Cool Balancer |
-| 1193 | 110 | Twisty Matcher |
+| 1185 | 110 | Andrea Spinelli |
+| 1186 | 110 | Twisty Matcher |
+| 1187 | 110 | Sandy Molina |
+| 1188 | 110 | Christina German |
+| 1189 | 110 | Cool Balancer |
+| 1190 | 110 | Deena-Neal Peryer |
+| 1191 | 110 | Ava Dorsch |
+| 1192 | 110 | Christina Reid |
+| 1193 | 110 | Susan Moyer |
 | 1194 | 110 | Tracy Coe |
-| 1195 | 109 | Spicy Wrecker |
-| 1196 | 109 | Dee |
+| 1195 | 109 | Helen Chao |
+| 1196 | 109 | Spicy Wrecker |
 | 1197 | 109 | Mariya Cline |
-| 1198 | 109 | Helen Chao |
+| 1198 | 109 | Dee |
 | 1199 | 109 | Sandra Rotton Bragg |
 | 1200 | 108 | Peppy Piececlear |
 | 1201 | 108 | Lively Liner |
-| 1202 | 108 | build master |
-| 1203 | 108 | Swanky Twister |
+| 1202 | 108 | Swanky Twister |
+| 1203 | 108 | build master |
 | 1204 | 108 | Brooke Marie Fox |
 | 1205 | 107 | Carole Brown |
 | 1206 | 107 | Giggy Linkgrid |
 | 1207 | 106 | R.w. Buck |
 | 1208 | 106 | Goofy Bridger |
 | 1209 | 106 | Toni Tortorici Humphryes |
-| 1210 | 106 | Brandon Ray Holt |
+| 1210 | 106 | Teresa Ann Curry |
 | 1211 | 106 | Donna R. Banks |
 | 1212 | 106 | CowboyChalie |
-| 1213 | 106 | Teresa Ann Curry |
+| 1213 | 106 | Brandon Ray Holt |
 | 1214 | 105 | Shannon Vanlester |
 | 1215 | 105 | Nadine Velardo |
 | 1216 | 105 | Wildcat1220 |
 | 1217 | 105 | Chill Wipegrid |
 | 1218 | 105 | Devon |
 | 1219 | 105 | Patrick Woodard |
-| 1220 | 104 | Que Henderson |
+| 1220 | 104 | Greenbean |
 | 1221 | 104 | Dandy Matchzone |
-| 1222 | 104 | Greenbean |
-| 1223 | 103 | Guadalupe Medina |
-| 1224 | 103 | Jason M Barnes |
-| 1225 | 103 | Quirky Clicky |
-| 1226 | 103 | twistyzone |
-| 1227 | 103 | Katie Boen |
-| 1228 | 103 | Smiley Rotate |
-| 1229 | 103 | BoxerMom |
-| 1230 | 103 | Rob Phillips |
+| 1222 | 104 | Que Henderson |
+| 1223 | 103 | Rob Phillips |
+| 1224 | 103 | Katie Boen |
+| 1225 | 103 | BoxerMom |
+| 1226 | 103 | Smiley Rotate |
+| 1227 | 103 | Quirky Clicky |
+| 1228 | 103 | Guadalupe Medina |
+| 1229 | 103 | Jason M Barnes |
+| 1230 | 103 | twistyzone |
 | 1231 | 103 | SaraAnn Gray Philbrick |
 | 1232 | 103 | Peppy Piececlear |
 | 1233 | 103 | Kendi |
@@ -1260,19 +1260,19 @@
 | 1252 | 100 | Donna Segletes Kay |
 | 1253 | 100 | Cory Lynn |
 | 1254 | 100 | Jackie Moran Tiller |
-| 1255 | 100 | Giggy Balancefit |
-| 1256 | 100 | Tipsy Twistbuilder |
-| 1257 | 100 | William Dowd |
-| 1258 | 100 | Chillxsnow |
-| 1259 | 100 | Sarai Coronado |
-| 1260 | 100 | Nerdy Linebuilder |
-| 1261 | 100 | Kayla Iverson |
-| 1262 | 100 | Bubbly Risebuilder |
+| 1255 | 100 | Sarai Coronado |
+| 1256 | 100 | Kayla Iverson |
+| 1257 | 100 | Giggy Balancefit |
+| 1258 | 100 | Bubbly Risebuilder |
+| 1259 | 100 | Nerdy Linebuilder |
+| 1260 | 100 | Tipsy Twistbuilder |
+| 1261 | 100 | William Dowd |
+| 1262 | 100 | Chillxsnow |
 | 1263 | 99 | Lorrie Girardi |
-| 1264 | 99 | Valerie Roberts |
+| 1264 | 99 | Jennifer Lauzon |
 | 1265 | 99 | Ramona Peña |
-| 1266 | 99 | Chesterland |
-| 1267 | 99 | Jennifer Lauzon |
+| 1266 | 99 | Valerie Roberts |
+| 1267 | 99 | Chesterland |
 | 1268 | 99 | Shannie |
 | 1269 | 99 | Britt |
 | 1270 | 99 | Tiffany Fitch |
@@ -1280,29 +1280,29 @@
 | 1272 | 99 | Marcia Davis |
 | 1273 | 98 | Annie Hebdon |
 | 1274 | 98 | Viani09 |
-| 1275 | 98 | Danyell Flood-Morning |
-| 1276 | 98 | Alexis Abner |
+| 1275 | 98 | Alexis Abner |
+| 1276 | 98 | Danyell Flood-Morning |
 | 1277 | 98 | puppy mom |
 | 1278 | 98 | Ashley Cadle |
-| 1279 | 97 | ElizaThornberry |
-| 1280 | 97 | Adri Perez |
-| 1281 | 97 | Ashley Lee DeHaan |
-| 1282 | 97 | ace510 |
+| 1279 | 97 | ace510 |
+| 1280 | 97 | Ashley Lee DeHaan |
+| 1281 | 97 | ElizaThornberry |
+| 1282 | 97 | Adri Perez |
 | 1283 | 97 | Jennifer Lewellyn Hutchins |
 | 1284 | 97 | Bubbly Dash |
 | 1285 | 96 | Cool cee |
 | 1286 | 96 | Joyce Galloway |
-| 1287 | 96 | Kevin Perez |
-| 1288 | 96 | Beverly-Jo Peterson |
-| 1289 | 96 | BigHearted-57 |
+| 1287 | 96 | BigHearted-57 |
+| 1288 | 96 | Rachel Switala |
+| 1289 | 96 | Kevin Perez |
 | 1290 | 96 | Cheeky Cornerfall |
-| 1291 | 96 | Catalina Castro |
-| 1292 | 96 | Amy Walker |
-| 1293 | 96 | Rachel Switala |
-| 1294 | 95 | Judy Bailey |
-| 1295 | 95 | DNice |
-| 1296 | 95 | Liliana Mills |
-| 1297 | 95 | Marla Paden |
+| 1291 | 96 | Amy Walker |
+| 1292 | 96 | Beverly-Jo Peterson |
+| 1293 | 96 | Catalina Castro |
+| 1294 | 95 | Liliana Mills |
+| 1295 | 95 | Marla Paden |
+| 1296 | 95 | DNice |
+| 1297 | 95 | Judy Bailey |
 | 1298 | 95 | Gammawms |
 | 1299 | 95 | Trena Sapp |
 | 1300 | 95 | PrissyPris |
@@ -1310,14 +1310,14 @@
 | 1302 | 94 | Jenna Thorn |
 | 1303 | 94 | Rubics cube |
 | 1304 | 94 | Countrybling77 |
-| 1305 | 94 | Anissa Moore |
-| 1306 | 94 | Brenda Leonard |
-| 1307 | 93 | Melissa Kinsley |
-| 1308 | 93 | Kandie Warren |
-| 1309 | 93 | Maureen Bryan Adams |
-| 1310 | 93 | Mataya |
+| 1305 | 94 | Brenda Leonard |
+| 1306 | 94 | Anissa Moore |
+| 1307 | 93 | Maureen Bryan Adams |
+| 1308 | 93 | Kymberlee Rolinski |
+| 1309 | 93 | Mataya |
+| 1310 | 93 | Kandie Warren |
 | 1311 | 93 | AppA |
-| 1312 | 93 | Kymberlee Rolinski |
+| 1312 | 93 | Melissa Kinsley |
 | 1313 | 93 | Zappy Pivotfall |
 | 1314 | 93 | Connie Breeden |
 | 1315 | 93 | Dandy Wiper |
@@ -1332,10 +1332,10 @@
 | 1324 | 92 | Amber Simonton |
 | 1325 | 92 | Goob277 |
 | 1326 | 91 | Christina Sheldon |
-| 1327 | 91 | Britnee M Karg |
-| 1328 | 91 | Chatty |
-| 1329 | 91 | Jenn Mccarty |
-| 1330 | 91 | Paula Martin |
+| 1327 | 91 | Paula Martin |
+| 1328 | 91 | Jenn Mccarty |
+| 1329 | 91 | Britnee M Karg |
+| 1330 | 91 | Chatty |
 | 1331 | 91 | Stacey Peters |
 | 1332 | 91 | Cary M. Fong |
 | 1333 | 91 | ktabzz |
@@ -1343,38 +1343,38 @@
 | 1335 | 90 | Tonya Marino |
 | 1336 | 90 | Justin Furne |
 | 1337 | 90 | Christi Hooper |
-| 1338 | 90 | DragonJB2020 |
-| 1339 | 90 | Steve Appel |
-| 1340 | 90 | Latrell Thomas |
-| 1341 | 90 | wutrwerdz |
-| 1342 | 90 | Chill Shatterer |
-| 1343 | 90 | Shakey Bakey |
-| 1344 | 90 | Samantha LeBlanc |
+| 1338 | 90 | Chill Shatterer |
+| 1339 | 90 | Samantha LeBlanc |
+| 1340 | 90 | DragonJB2020 |
+| 1341 | 90 | Shakey Bakey |
+| 1342 | 90 | Steve Appel |
+| 1343 | 90 | wutrwerdz |
+| 1344 | 90 | Latrell Thomas |
 | 1345 | 89 | Snazzy Tiley |
-| 1346 | 89 | Sue Fuzy |
-| 1347 | 89 | Rachel Nunn |
+| 1346 | 89 | Sandra Kopas Stetka |
+| 1347 | 89 | Sue Fuzy |
 | 1348 | 89 | Glitzy Fallgrid |
-| 1349 | 89 | Sandra Kopas Stetka |
+| 1349 | 89 | Rachel Nunn |
 | 1350 | 89 | Slinky Glidezone |
 | 1351 | 89 | Michele Choate |
 | 1352 | 89 | Rebecca Boling |
 | 1353 | 88 | Erin Marie Smith |
 | 1354 | 88 | Redangel |
 | 1355 | 88 | Smiley Clearer |
-| 1356 | 88 | Jeannine Murphy |
-| 1357 | 88 | Debra Patten |
-| 1358 | 88 | Brittany Russell |
+| 1356 | 88 | Debra Patten |
+| 1357 | 88 | Brittany Russell |
+| 1358 | 88 | Jeannine Murphy |
 | 1359 | 88 | Missy Tubb Overly |
-| 1360 | 87 | LilMs101 |
-| 1361 | 87 | Mandy Smart |
-| 1362 | 86 | Jennifer Robinson |
-| 1363 | 86 | Melissa Mae |
-| 1364 | 86 | Chad Praytor |
-| 1365 | 86 | Alessandria Anderson |
-| 1366 | 86 | Kristen Alta |
-| 1367 | 86 | Em |
-| 1368 | 86 | Charles Dwayne |
-| 1369 | 86 | Becka Jones |
+| 1360 | 87 | Mandy Smart |
+| 1361 | 87 | LilMs101 |
+| 1362 | 86 | Becka Jones |
+| 1363 | 86 | Alessandria Anderson |
+| 1364 | 86 | Charles Dwayne |
+| 1365 | 86 | Melissa Mae |
+| 1366 | 86 | Em |
+| 1367 | 86 | Chad Praytor |
+| 1368 | 86 | Jennifer Robinson |
+| 1369 | 86 | Kristen Alta |
 | 1370 | 86 | Jumpy Linkroll |
 | 1371 | 85 | Daisy Girl |
 | 1372 | 85 | Kaylyn Wickham |
@@ -1383,31 +1383,31 @@
 | 1375 | 85 | Mark Havens |
 | 1376 | 85 | SunnySquare |
 | 1377 | 85 | Lexi Chouinard |
-| 1378 | 85 | James Moore |
+| 1378 | 85 | Ayana Yanaeboo Eaddy |
 | 1379 | 85 | Joanne Haynes |
-| 1380 | 85 | Ayana Yanaeboo Eaddy |
+| 1380 | 85 | James Moore |
 | 1381 | 85 | Rae Madewell |
-| 1382 | 84 | candi |
-| 1383 | 84 | Matt Solomon |
+| 1382 | 84 | Calah Amore |
+| 1383 | 84 | candi |
 | 1384 | 84 | Katherine Crosby |
-| 1385 | 84 | Crystal Whygle |
-| 1386 | 84 | Happy Wipeout |
-| 1387 | 84 | Calah Amore |
+| 1385 | 84 | Happy Wipeout |
+| 1386 | 84 | Crystal Whygle |
+| 1387 | 84 | Matt Solomon |
 | 1388 | 84 | Chirpy Tower |
 | 1389 | 83 | Diamond Balotje |
-| 1390 | 83 | Rachael Roberts |
-| 1391 | 83 | Lezley Hawkins |
-| 1392 | 83 | Cheery Blast |
-| 1393 | 83 | Sadie-Damion Smith |
-| 1394 | 83 | Kacey Lindemuth |
-| 1395 | 83 | Jodee Woods |
-| 1396 | 83 | Chipper Blockroll |
-| 1397 | 83 | Amy Hahn Nickels |
+| 1390 | 83 | Lezley Hawkins |
+| 1391 | 83 | Rachael Roberts |
+| 1392 | 83 | Amy Hahn Nickels |
+| 1393 | 83 | Chipper Blockroll |
+| 1394 | 83 | Jodee Woods |
+| 1395 | 83 | Sadie-Damion Smith |
+| 1396 | 83 | Kacey Lindemuth |
+| 1397 | 83 | Cheery Blast |
 | 1398 | 83 | Cate Imel |
-| 1399 | 82 | Ashley Bryant-hatcher |
-| 1400 | 82 | Giggy Balance |
-| 1401 | 82 | Mikaela Byrd |
-| 1402 | 82 | Glitzy Roll |
+| 1399 | 82 | Mikaela Byrd |
+| 1400 | 82 | Glitzy Roll |
+| 1401 | 82 | Ashley Bryant-hatcher |
+| 1402 | 82 | Giggy Balance |
 | 1403 | 82 | Cardisa Hall |
 | 1404 | 82 | Jessica LeNeave |
 | 1405 | 82 | REE4 |
@@ -1416,44 +1416,44 @@
 | 1408 | 81 | Heather Hi |
 | 1409 | 81 | Missy Savage-Justice |
 | 1410 | 81 | Quina Jesse Fejaran |
-| 1411 | 81 | Kathryn N Heather Todd |
-| 1412 | 81 | Slinky Linkgrid |
-| 1413 | 81 | Christine Fortner Caskey |
-| 1414 | 81 | Dandy Brickbuilder |
-| 1415 | 81 | Flashy Blockfall |
-| 1416 | 81 | Nichole Eileen Doorn Lundy |
-| 1417 | 81 | Shelby Lynn May |
-| 1418 | 81 | YUKITATA |
-| 1419 | 81 | Jessica Nightshade Hansuld |
-| 1420 | 81 | Brandy Moore |
-| 1421 | 81 | Lisa |
-| 1422 | 81 | Octavia Jus Mae Hill |
-| 1423 | 80 | Heather Lewis |
-| 1424 | 80 | Javyjavz |
-| 1425 | 80 | Patty Sparkman |
-| 1426 | 80 | Jason Guy |
-| 1427 | 80 | Dizzy Gridder |
-| 1428 | 80 | Kim Hoopes Townsend |
-| 1429 | 80 | Casie |
-| 1430 | 80 | Bridgett Smith |
-| 1431 | 80 | Snazzy Linebuilder |
-| 1432 | 80 | Squirrel |
-| 1433 | 80 | Amanda Gann |
-| 1434 | 80 | Meve |
-| 1435 | 80 | Brett Mullins |
-| 1436 | 80 | Ramon James |
-| 1437 | 80 | Ramona Guillermo |
-| 1438 | 80 | Unicornlvr |
+| 1411 | 81 | YUKITATA |
+| 1412 | 81 | Shelby Lynn May |
+| 1413 | 81 | Lisa |
+| 1414 | 81 | Jessica Nightshade Hansuld |
+| 1415 | 81 | Slinky Linkgrid |
+| 1416 | 81 | Octavia Jus Mae Hill |
+| 1417 | 81 | Nichole Eileen Doorn Lundy |
+| 1418 | 81 | Brandy Moore |
+| 1419 | 81 | Christine Fortner Caskey |
+| 1420 | 81 | Kathryn N Heather Todd |
+| 1421 | 81 | Flashy Blockfall |
+| 1422 | 81 | Dandy Brickbuilder |
+| 1423 | 80 | Bridgett Smith |
+| 1424 | 80 | Jason Guy |
+| 1425 | 80 | Casie |
+| 1426 | 80 | Patty Sparkman |
+| 1427 | 80 | Meve |
+| 1428 | 80 | Heather Lewis |
+| 1429 | 80 | Ramon James |
+| 1430 | 80 | Kim Hoopes Townsend |
+| 1431 | 80 | Amanda Gann |
+| 1432 | 80 | Snazzy Linebuilder |
+| 1433 | 80 | Javyjavz |
+| 1434 | 80 | Brett Mullins |
+| 1435 | 80 | Ramona Guillermo |
+| 1436 | 80 | Unicornlvr |
+| 1437 | 80 | Dizzy Gridder |
+| 1438 | 80 | Squirrel |
 | 1439 | 80 | Boldy Patterner |
 | 1440 | 79 | Aeryal Snow |
-| 1441 | 79 | Jade007 |
-| 1442 | 79 | Courtney Joy Dustrude |
-| 1443 | 79 | Silly Swiper |
-| 1444 | 79 | Brianne Coffer |
-| 1445 | 79 | KCBlocker |
-| 1446 | 78 | Angela Oates-Killebrew |
+| 1441 | 79 | Courtney Joy Dustrude |
+| 1442 | 79 | Silly Swiper |
+| 1443 | 79 | Jade007 |
+| 1444 | 79 | KCBlocker |
+| 1445 | 79 | Brianne Coffer |
+| 1446 | 78 | Casey Hendricks |
 | 1447 | 78 | Paula Stell |
-| 1448 | 78 | Casey Hendricks |
+| 1448 | 78 | Angela Oates-Killebrew |
 | 1449 | 78 | Tipsy Splitter |
 | 1450 | 78 | Bennie Farbo |
 | 1451 | 78 | Anthony Kordich |
@@ -1462,22 +1462,22 @@
 | 1454 | 77 | Courtney Elizabeth Hartnagel |
 | 1455 | 77 | Slinky Towerpiece |
 | 1456 | 77 | Witty Clearbuilder |
-| 1457 | 77 | Angela Knighton |
+| 1457 | 77 | Ryan Sanders |
 | 1458 | 77 | Casandra Shenesky |
-| 1459 | 77 | Ryan Sanders |
-| 1460 | 76 | Harley Watkins |
-| 1461 | 76 | Mick Loving |
-| 1462 | 76 | Silly Cluster |
+| 1459 | 77 | Angela Knighton |
+| 1460 | 76 | Mick Loving |
+| 1461 | 76 | Joe Dirilo |
+| 1462 | 76 | Harley Watkins |
 | 1463 | 76 | Josimarie Otero |
-| 1464 | 76 | Joe Dirilo |
-| 1465 | 76 | Spunky Fit |
-| 1466 | 76 | Snippy Racker |
-| 1467 | 75 | Chris Wilber |
-| 1468 | 75 | Poppy Zone |
-| 1469 | 75 | Ashley Shazes |
-| 1470 | 75 | chad |
+| 1464 | 76 | Snippy Racker |
+| 1465 | 76 | Silly Cluster |
+| 1466 | 76 | Spunky Fit |
+| 1467 | 75 | Poppy Zone |
+| 1468 | 75 | Chris Wilber |
+| 1469 | 75 | chad |
+| 1470 | 75 | Loopy Roll |
 | 1471 | 75 | Jenifer Seeley |
-| 1472 | 75 | Loopy Roll |
+| 1472 | 75 | Ashley Shazes |
 | 1473 | 75 | Dan Ramsey |
 | 1474 | 74 | Mary |
 | 1475 | 74 | Isiwin |
@@ -1487,27 +1487,27 @@
 | 1479 | 74 | Bold Bridgepiece |
 | 1480 | 74 | Kassie D Harmon |
 | 1481 | 74 | Frisky Clicker |
-| 1482 | 73 | RalphyD |
-| 1483 | 73 | Jenica Davis |
-| 1484 | 73 | Nikki Strawn |
-| 1485 | 73 | Carrie Rutter-Bail |
+| 1482 | 73 | Carrie Rutter-Bail |
+| 1483 | 73 | Yvonne Rodriguez |
+| 1484 | 73 | RalphyD |
+| 1485 | 73 | Nikki Strawn |
 | 1486 | 73 | Joslyn Erickson |
-| 1487 | 73 | Yvonne Rodriguez |
+| 1487 | 73 | Jenica Davis |
 | 1488 | 73 | giggly gal |
 | 1489 | 73 | Sunny Spinzone |
 | 1490 | 73 | Elodie Deveyer |
 | 1491 | 72 | Aubrey Gates |
 | 1492 | 72 | Linda Jeanne Knop |
 | 1493 | 72 | Plucky Linkmatch |
-| 1494 | 72 | Cozy Builder |
-| 1495 | 72 | Stacy Lynn |
-| 1496 | 72 | Ryan |
-| 1497 | 72 | Nicole Dyer |
-| 1498 | 71 | lols |
-| 1499 | 71 | John C Morrison |
-| 1500 | 71 | Chey |
-| 1501 | 71 | Michelle Arnold |
-| 1502 | 71 | Joey Grillo |
+| 1494 | 72 | Nicole Dyer |
+| 1495 | 72 | Cozy Builder |
+| 1496 | 72 | Stacy Lynn |
+| 1497 | 72 | Ryan |
+| 1498 | 71 | Joey Grillo |
+| 1499 | 71 | Michelle Arnold |
+| 1500 | 71 | lols |
+| 1501 | 71 | John C Morrison |
+| 1502 | 71 | Chey |
 | 1503 | 71 | Cindy Smith |
 | 1504 | 71 | Yari |
 | 1505 | 71 | Pjrobinsonnn |
@@ -1516,96 +1516,96 @@
 | 1508 | 70 | Brittany Kay |
 | 1509 | 70 | Fran Gerebics |
 | 1510 | 70 | Abby Dexter |
-| 1511 | 70 | Michelle |
+| 1511 | 70 | FinnsDad |
 | 1512 | 70 | Shannon Michelle |
-| 1513 | 70 | Aislinn Lowe |
-| 1514 | 70 | Heather Hill Davidson |
-| 1515 | 70 | Hope Ramirez |
-| 1516 | 70 | Rob Miller |
-| 1517 | 70 | Emma Danielle Wynn |
-| 1518 | 70 | FinnsDad |
-| 1519 | 70 | Elizabeth Henry |
-| 1520 | 70 | Alisha Kralicek Trainham |
-| 1521 | 70 | Samantha Rhone |
-| 1522 | 70 | Louise LeBlanc |
+| 1513 | 70 | Emma Danielle Wynn |
+| 1514 | 70 | Alisha Kralicek Trainham |
+| 1515 | 70 | Michelle |
+| 1516 | 70 | Samantha Rhone |
+| 1517 | 70 | Hope Ramirez |
+| 1518 | 70 | Aislinn Lowe |
+| 1519 | 70 | Heather Hill Davidson |
+| 1520 | 70 | Louise LeBlanc |
+| 1521 | 70 | Elizabeth Henry |
+| 1522 | 70 | Rob Miller |
 | 1523 | 70 | Dottie Leavy Van Deventer |
-| 1524 | 69 | Charity Black |
-| 1525 | 69 | Mandy Anderson |
-| 1526 | 69 | Stephanie Montgomery |
-| 1527 | 69 | Nonnie |
-| 1528 | 69 | Cole Posey |
-| 1529 | 69 | Dawn Burzee |
-| 1530 | 69 | Melinda Rausch |
-| 1531 | 69 | Danid |
-| 1532 | 69 | Shanna Jones Scott |
-| 1533 | 69 | Cammy Riley |
+| 1524 | 69 | Cole Posey |
+| 1525 | 69 | Melinda Rausch |
+| 1526 | 69 | Charity Black |
+| 1527 | 69 | Stephanie Montgomery |
+| 1528 | 69 | Mandy Anderson |
+| 1529 | 69 | Cammy Riley |
+| 1530 | 69 | Nonnie |
+| 1531 | 69 | Dawn Burzee |
+| 1532 | 69 | Danid |
+| 1533 | 69 | Shanna Jones Scott |
 | 1534 | 69 | Loretta Crow |
 | 1535 | 69 | Yany |
 | 1536 | 69 | Deanna Mc |
 | 1537 | 69 | Collins |
-| 1538 | 68 | Jara Zavala |
+| 1538 | 68 | Viola Fletcher |
 | 1539 | 68 | April Appleton |
-| 1540 | 68 | Viola Fletcher |
+| 1540 | 68 | Jara Zavala |
 | 1541 | 68 | Angie Barlow |
-| 1542 | 67 | Elie Mestre |
-| 1543 | 67 | Zippy Blockmatch |
+| 1542 | 67 | Zippy Blockmatch |
+| 1543 | 67 | Elie Mestre |
 | 1544 | 67 | Happy Curvebuilder |
 | 1545 | 67 | Alexis Meyers |
 | 1546 | 67 | LK |
 | 1547 | 66 | Erica Abreu |
 | 1548 | 66 | Dysty |
 | 1549 | 66 | David Cadiente |
-| 1550 | 66 | Amy ATen |
+| 1550 | 66 | Loopy Brickroll |
 | 1551 | 66 | Justin Pennington |
-| 1552 | 66 | Ali |
-| 1553 | 66 | Loopy Brickroll |
-| 1554 | 66 | Catherine Whitt Gaddy |
-| 1555 | 65 | Wacky Drop |
-| 1556 | 65 | GentleGiant Brackett |
-| 1557 | 65 | JrsWife |
-| 1558 | 65 | Kandy Comer |
-| 1559 | 65 | Heather Klaus |
-| 1560 | 65 | Julie Lint |
-| 1561 | 65 | October Fitch |
-| 1562 | 65 | Loony Shatter |
-| 1563 | 65 | Amanda White |
+| 1552 | 66 | Amy ATen |
+| 1553 | 66 | Catherine Whitt Gaddy |
+| 1554 | 66 | Ali |
+| 1555 | 65 | Loony Shatter |
+| 1556 | 65 | Julie Lint |
+| 1557 | 65 | Amanda White |
+| 1558 | 65 | Wacky Drop |
+| 1559 | 65 | Kandy Comer |
+| 1560 | 65 | JrsWife |
+| 1561 | 65 | GentleGiant Brackett |
+| 1562 | 65 | October Fitch |
+| 1563 | 65 | Heather Klaus |
 | 1564 | 65 | Auntie YaYa |
 | 1565 | 65 | bigdog |
 | 1566 | 65 | nogo |
 | 1567 | 64 | Jamie Benge |
 | 1568 | 64 | Emily |
-| 1569 | 64 | Crafty Matcher |
-| 1570 | 64 | Lori Antrim Nichols |
-| 1571 | 64 | Darla |
-| 1572 | 64 | Pnda |
-| 1573 | 64 | Epic Glide |
-| 1574 | 64 | Angela Anderson |
-| 1575 | 64 | Michelle Naujalis |
-| 1576 | 64 | Jodi Deninno |
-| 1577 | 63 | Bubbly Tilt |
-| 1578 | 63 | Disguised Duck |
+| 1569 | 64 | Lori Antrim Nichols |
+| 1570 | 64 | Angela Anderson |
+| 1571 | 64 | Pnda |
+| 1572 | 64 | Jodi Deninno |
+| 1573 | 64 | Darla |
+| 1574 | 64 | Michelle Naujalis |
+| 1575 | 64 | Crafty Matcher |
+| 1576 | 64 | Epic Glide |
+| 1577 | 63 | Disguised Duck |
+| 1578 | 63 | Bubbly Tilt |
 | 1579 | 63 | Bowling girl |
 | 1580 | 63 | AmyShea |
 | 1581 | 63 | Dani Newton |
-| 1582 | 62 | Alana Albritton Seals |
-| 1583 | 62 | Brittany Nichole Ellenburg |
-| 1584 | 62 | Jewels |
-| 1585 | 62 | Breanna Dykes |
-| 1586 | 62 | Snoop |
-| 1587 | 62 | Michael Woodall |
+| 1582 | 62 | Amber Myers |
+| 1583 | 62 | Alana Albritton Seals |
+| 1584 | 62 | Brittany Nichole Ellenburg |
+| 1585 | 62 | Snoop |
+| 1586 | 62 | Breanna Dykes |
+| 1587 | 62 | Snappy Zonepiece |
 | 1588 | 62 | Saucy Clearzone |
-| 1589 | 62 | Debra Horne |
-| 1590 | 62 | Snappy Zonepiece |
-| 1591 | 61 | Peachy Builderpiece |
-| 1592 | 61 | Mariah Wygonik |
-| 1593 | 61 | Maithan Conour |
-| 1594 | 61 | Cranky Fit |
-| 1595 | 61 | BikerBorn BikerBred |
+| 1589 | 62 | Jewels |
+| 1590 | 62 | Michael Woodall |
+| 1591 | 62 | Debra Horne |
+| 1592 | 61 | Krystal Snow |
+| 1593 | 61 | Peachy Builderpiece |
+| 1594 | 61 | Mariah Wygonik |
+| 1595 | 61 | LichyBella |
 | 1596 | 61 | Ken Vaughn |
-| 1597 | 61 | Krystal Snow |
-| 1598 | 61 | LichyBella |
-| 1599 | 61 | Natasha Schatte |
-| 1600 | 61 | Amber Myers |
+| 1597 | 61 | BikerBorn BikerBred |
+| 1598 | 61 | Maithan Conour |
+| 1599 | 61 | Cranky Fit |
+| 1600 | 61 | Natasha Schatte |
 | 1601 | 61 | Lil G |
 | 1602 | 61 | Bobbie Carrol |
 | 1603 | 61 | Glitzy Matchclear |
@@ -1618,58 +1618,58 @@
 | 1610 | 60 | Speedy Gridder |
 | 1611 | 60 | Giggly Buildgrid |
 | 1612 | 60 | Stephania Edwards |
-| 1613 | 60 | Chey22 |
-| 1614 | 60 | Angiela Hope Boggs |
-| 1615 | 60 | Jamie Mullins |
-| 1616 | 60 | Kenya Johnson |
-| 1617 | 60 | Ephysta |
-| 1618 | 60 | Crazygranny |
-| 1619 | 60 | Nikki Grant |
-| 1620 | 60 | Krystal Edwards Johnson |
-| 1621 | 60 | MattandAngie Hopkins |
-| 1622 | 60 | Kristy Moore |
-| 1623 | 60 | Jbarnsey18 |
-| 1624 | 60 | ll Patton |
-| 1625 | 60 | Ally Miller |
-| 1626 | 60 | Dawn Thuringer-Baird |
-| 1627 | 60 | Jaelyn Orr |
-| 1628 | 60 | Jocelyn Fisher |
-| 1629 | 60 | Samantha Smith |
-| 1630 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1631 | 59 | Cheeky Twistpiece |
-| 1632 | 59 | Teri |
-| 1633 | 59 | Jon Torres |
-| 1634 | 59 | Amanda |
-| 1635 | 59 | Nicole Immoos |
-| 1636 | 59 | Road Runnersauraus |
+| 1613 | 60 | Krystal Edwards Johnson |
+| 1614 | 60 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1615 | 60 | ll Patton |
+| 1616 | 60 | Ally Miller |
+| 1617 | 60 | Crazygranny |
+| 1618 | 60 | Ephysta |
+| 1619 | 60 | Angiela Hope Boggs |
+| 1620 | 60 | Jaelyn Orr |
+| 1621 | 60 | Jamie Mullins |
+| 1622 | 60 | Samantha Smith |
+| 1623 | 60 | Chey22 |
+| 1624 | 60 | Kristy Moore |
+| 1625 | 60 | MattandAngie Hopkins |
+| 1626 | 60 | Jbarnsey18 |
+| 1627 | 60 | Nikki Grant |
+| 1628 | 60 | Dawn Thuringer-Baird |
+| 1629 | 60 | Jocelyn Fisher |
+| 1630 | 60 | Kenya Johnson |
+| 1631 | 59 | Syg Honeyboy |
+| 1632 | 59 | Jon Torres |
+| 1633 | 59 | sam |
+| 1634 | 59 | Road Runnersauraus |
+| 1635 | 59 | Jolene Smith |
+| 1636 | 59 | Ryuu |
 | 1637 | 59 | Tam |
 | 1638 | 59 | LaicoosBargains Ln |
-| 1639 | 59 | Ryuu |
-| 1640 | 59 | Chummy Smasher |
-| 1641 | 59 | Jolene Smith |
-| 1642 | 59 | Syg Honeyboy |
-| 1643 | 59 | April Addis |
-| 1644 | 59 | Christina Nycol |
-| 1645 | 59 | Tabitha Porter |
-| 1646 | 58 | Dustyn Sims |
-| 1647 | 58 | Elise Marie Mireles |
-| 1648 | 58 | Slinky Winder |
-| 1649 | 58 | Chipper Spinzone |
-| 1650 | 58 | Flynn Flibble |
-| 1651 | 58 | Donna Gerald |
-| 1652 | 58 | Tracy G Ragsdale |
+| 1639 | 59 | Nicole Immoos |
+| 1640 | 59 | Cheeky Twistpiece |
+| 1641 | 59 | Teri |
+| 1642 | 59 | Chummy Smasher |
+| 1643 | 59 | Amanda |
+| 1644 | 59 | April Addis |
+| 1645 | 59 | Christina Nycol |
+| 1646 | 59 | Tabitha Porter |
+| 1647 | 58 | Dustyn Sims |
+| 1648 | 58 | Elise Marie Mireles |
+| 1649 | 58 | Slinky Winder |
+| 1650 | 58 | Chipper Spinzone |
+| 1651 | 58 | Flynn Flibble |
+| 1652 | 58 | Donna Gerald |
 | 1653 | 58 | Tonya Willprecht |
-| 1654 | 58 | Corey Mac |
-| 1655 | 58 | Jeanne Hendricks Smith |
-| 1656 | 58 | Shanetta Johnson |
-| 1657 | 58 | Steven Palmer |
-| 1658 | 58 | LivePhoenix |
-| 1659 | 57 | sam |
-| 1660 | 57 | Alexis Turner |
-| 1661 | 57 | John Guider |
-| 1662 | 57 | Maurice Bethel |
+| 1654 | 58 | Jeanne Hendricks Smith |
+| 1655 | 58 | Corey Mac |
+| 1656 | 58 | LivePhoenix |
+| 1657 | 58 | Tracy G Ragsdale |
+| 1658 | 58 | Steven Palmer |
+| 1659 | 58 | Shanetta Johnson |
+| 1660 | 57 | John Guider |
+| 1661 | 57 | Lori Lorenz |
+| 1662 | 57 | Alexis Turner |
 | 1663 | 57 | Giggly Patternline |
-| 1664 | 57 | Lori Lorenz |
+| 1664 | 57 | Maurice Bethel |
 | 1665 | 57 | Jackie Hayslip |
 | 1666 | 57 | Corina Marie Prunty |
 | 1667 | 57 | Bigbb |
@@ -1679,279 +1679,279 @@
 | 1671 | 56 | Armordguy |
 | 1672 | 56 | April Owings |
 | 1673 | 56 | Glitzy Stackbuilder |
-| 1674 | 56 | Jessi Ann |
-| 1675 | 56 | Cynthia Rose Candelaria |
+| 1674 | 56 | Spunky Riserfit |
+| 1675 | 56 | Jessi Ann |
 | 1676 | 56 | CountryGurl |
-| 1677 | 56 | Spunky Riserfit |
-| 1678 | 55 | Gilbert Medina |
-| 1679 | 55 | Mistress |
-| 1680 | 55 | David Bright |
-| 1681 | 55 | Mary Goodman |
-| 1682 | 55 | Angi Carter |
-| 1683 | 55 | Frisky Balancefit |
-| 1684 | 55 | Cheryl Stevens |
-| 1685 | 55 | Amanda Nash |
-| 1686 | 55 | Cynthia Vornlocker |
-| 1687 | 55 | Merine Mott |
-| 1688 | 55 | Sassafras Cass |
-| 1689 | 55 | Misty McElroy |
-| 1690 | 54 | Josie Mendivil |
-| 1691 | 54 | Fluffypuffin |
-| 1692 | 54 | Jolene Moelder |
-| 1693 | 54 | Paula Smith |
-| 1694 | 54 | Jess Duehring |
-| 1695 | 54 | Giggly Twisterfit |
-| 1696 | 54 | Crystal Lawson |
-| 1697 | 54 | Michelle Shemon |
-| 1698 | 53 | Amy N Daniel Greene |
-| 1699 | 53 | Topknot13 |
-| 1700 | 53 | Kimberly Rochon |
-| 1701 | 53 | Gigi |
-| 1702 | 53 | Daring Pivotfall |
-| 1703 | 53 | Shalice Jacobs |
-| 1704 | 53 | Thomas Johnstone |
-| 1705 | 52 | Betty Muise |
-| 1706 | 52 | Dolly |
-| 1707 | 52 | Amber Marie Lacey |
-| 1708 | 52 | Amanda Gray Manlove |
-| 1709 | 52 | Amy Renaud |
-| 1710 | 52 | Elroy Bond |
-| 1711 | 52 | 3RD LEG |
-| 1712 | 52 | Chirpy Shiftspin |
-| 1713 | 52 | Daniel Flathers |
-| 1714 | 52 | Suszi |
-| 1715 | 52 | Chrissy Hess |
-| 1716 | 51 | Frisky Snapper |
-| 1717 | 51 | Zippy Wobbler |
-| 1718 | 51 | haihai |
-| 1719 | 51 | Brandi Lynn Tumey |
-| 1720 | 51 | Brian Giddens |
-| 1721 | 51 | Jess |
-| 1722 | 51 | Staci Carl |
-| 1723 | 51 | Daring Blockline |
-| 1724 | 51 | Ashley Gracelynn Tiner |
-| 1725 | 51 | Andrea |
-| 1726 | 51 | Amanda Knox |
-| 1727 | 51 | Snazzy Clusterfit |
-| 1728 | 50 | Whitt |
-| 1729 | 50 | Christina Michelle Wilson |
-| 1730 | 50 | Mike Honcho |
-| 1731 | 50 | Timone907 |
-| 1732 | 50 | Tabitha Palen |
-| 1733 | 50 | Tessa Kalili |
-| 1734 | 50 | Ducky West |
-| 1735 | 50 | Rita Silveeia Miller |
-| 1736 | 50 | Jennifer Risdell Wilson |
-| 1737 | 50 | Loony Glider |
-| 1738 | 50 | Mandy |
-| 1739 | 50 | Kerri Bear |
-| 1740 | 50 | himesamayuki77 |
-| 1741 | 50 | Denise Baker |
-| 1742 | 50 | Jazzy |
-| 1743 | 50 | Joyce Bartel |
-| 1744 | 49 | Milwaukee Area Cleaning |
-| 1745 | 49 | Denise Singleton |
-| 1746 | 49 | unvoiced |
-| 1747 | 49 | Lively Zone |
-| 1748 | 49 | Nickishan Richrds |
-| 1749 | 49 | Tim Joy |
-| 1750 | 49 | Rashae Sheets |
+| 1677 | 56 | Cynthia Rose Candelaria |
+| 1678 | 55 | Cynthia Vornlocker |
+| 1679 | 55 | Mary Goodman |
+| 1680 | 55 | Cheryl Stevens |
+| 1681 | 55 | T-Tommy Hillbilly |
+| 1682 | 55 | Mistress |
+| 1683 | 55 | Merine Mott |
+| 1684 | 55 | Gilbert Medina |
+| 1685 | 55 | Frisky Balancefit |
+| 1686 | 55 | Amanda Nash |
+| 1687 | 55 | Angi Carter |
+| 1688 | 55 | David Bright |
+| 1689 | 55 | Sassafras Cass |
+| 1690 | 55 | Misty McElroy |
+| 1691 | 54 | Josie Mendivil |
+| 1692 | 54 | Fluffypuffin |
+| 1693 | 54 | Jolene Moelder |
+| 1694 | 54 | Paula Smith |
+| 1695 | 54 | Michelle Shemon |
+| 1696 | 54 | Jess Duehring |
+| 1697 | 54 | Crystal Lawson |
+| 1698 | 54 | Giggly Twisterfit |
+| 1699 | 53 | Amy N Daniel Greene |
+| 1700 | 53 | Gigi |
+| 1701 | 53 | Topknot13 |
+| 1702 | 53 | Kimberly Rochon |
+| 1703 | 53 | Daring Pivotfall |
+| 1704 | 53 | Shalice Jacobs |
+| 1705 | 53 | Thomas Johnstone |
+| 1706 | 52 | Betty Muise |
+| 1707 | 52 | Dolly |
+| 1708 | 52 | Amber Marie Lacey |
+| 1709 | 52 | Chirpy Shiftspin |
+| 1710 | 52 | 3RD LEG |
+| 1711 | 52 | Elroy Bond |
+| 1712 | 52 | Daniel Flathers |
+| 1713 | 52 | Suszi |
+| 1714 | 52 | Amy Renaud |
+| 1715 | 52 | Amanda Gray Manlove |
+| 1716 | 52 | Chrissy Hess |
+| 1717 | 51 | Frisky Snapper |
+| 1718 | 51 | Brandi Lynn Tumey |
+| 1719 | 51 | haihai |
+| 1720 | 51 | Zippy Wobbler |
+| 1721 | 51 | Brian Giddens |
+| 1722 | 51 | Jess |
+| 1723 | 51 | Staci Carl |
+| 1724 | 51 | Daring Blockline |
+| 1725 | 51 | Ashley Gracelynn Tiner |
+| 1726 | 51 | Andrea |
+| 1727 | 51 | Amanda Knox |
+| 1728 | 51 | Snazzy Clusterfit |
+| 1729 | 50 | Whitt |
+| 1730 | 50 | Christina Michelle Wilson |
+| 1731 | 50 | Mike Honcho |
+| 1732 | 50 | Timone907 |
+| 1733 | 50 | Tabitha Palen |
+| 1734 | 50 | Jazzy |
+| 1735 | 50 | Denise Baker |
+| 1736 | 50 | Loony Glider |
+| 1737 | 50 | Kerri Bear |
+| 1738 | 50 | Rita Silveeia Miller |
+| 1739 | 50 | Tessa Kalili |
+| 1740 | 50 | Ducky West |
+| 1741 | 50 | himesamayuki77 |
+| 1742 | 50 | Joyce Bartel |
+| 1743 | 50 | Mandy |
+| 1744 | 50 | Jennifer Risdell Wilson |
+| 1745 | 49 | Nickishan Richrds |
+| 1746 | 49 | Denise Singleton |
+| 1747 | 49 | Milwaukee Area Cleaning |
+| 1748 | 49 | unvoiced |
+| 1749 | 49 | Lively Zone |
+| 1750 | 49 | Elle |
 | 1751 | 49 | Dustie Benefield |
-| 1752 | 49 | Elle |
-| 1753 | 49 | Clodagh Quirke-Reid |
+| 1752 | 49 | Clodagh Quirke-Reid |
+| 1753 | 49 | Erin Winberry |
 | 1754 | 49 | Anna Marie Knight |
-| 1755 | 49 | Erin Winberry |
-| 1756 | 49 | T-Tommy Hillbilly |
+| 1755 | 49 | Tim Joy |
+| 1756 | 49 | Rashae Sheets |
 | 1757 | 49 | Silly Twister |
 | 1758 | 49 | Lindsey Butler |
 | 1759 | 49 | Taran Evans |
 | 1760 | 48 | Marii |
 | 1761 | 48 | Krystle McCaslin |
 | 1762 | 48 | Katelynn Hunt |
-| 1763 | 48 | Laura Zavala |
+| 1763 | 48 | RNKERI |
 | 1764 | 48 | Amanda Jimenez |
-| 1765 | 48 | Jennifer Nelson |
-| 1766 | 48 | Hoppy Gridder |
-| 1767 | 48 | John Rosales |
-| 1768 | 48 | Trixie |
-| 1769 | 48 | Jodi Schessler Konsella |
-| 1770 | 48 | AJ |
+| 1765 | 48 | Lively Shatter |
+| 1766 | 48 | Jodi Schessler Konsella |
+| 1767 | 48 | Shawn Moore |
+| 1768 | 48 | AJ |
+| 1769 | 48 | Laura Zavala |
+| 1770 | 48 | Hoppy Gridder |
 | 1771 | 48 | Glitzy Stack |
-| 1772 | 48 | Lively Shatter |
-| 1773 | 48 | Amanda |
-| 1774 | 48 | Shawn Moore |
-| 1775 | 48 | RNKERI |
-| 1776 | 47 | Bruce Bower |
-| 1777 | 47 | Snippy Tilefall |
-| 1778 | 47 | Sarah Jean Huston |
-| 1779 | 46 | Silly Shatter |
-| 1780 | 46 | Audrey F Devis |
+| 1772 | 48 | Trixie |
+| 1773 | 48 | Jennifer Nelson |
+| 1774 | 48 | Amanda |
+| 1775 | 48 | John Rosales |
+| 1776 | 47 | Sarah Jean Huston |
+| 1777 | 47 | Bruce Bower |
+| 1778 | 47 | Snippy Tilefall |
+| 1779 | 46 | Elizabeth Barnhart Floyd |
+| 1780 | 46 | Silly Shatter |
 | 1781 | 46 | Marie Anne |
-| 1782 | 46 | Lotso |
-| 1783 | 46 | Clever Clusterfit |
-| 1784 | 46 | Sunnylynn Hodge |
-| 1785 | 46 | Michael Lott |
-| 1786 | 46 | Octavius Walker |
-| 1787 | 46 | Spunky Snapfall |
-| 1788 | 46 | Elizabeth Barnhart Floyd |
-| 1789 | 46 | Matthew Black |
-| 1790 | 46 | Nikki Blilie |
-| 1791 | 46 | Kodi Gay |
-| 1792 | 46 | Jolly Blockroll |
-| 1793 | 45 | Erica |
-| 1794 | 45 | Happy Riseclear |
-| 1795 | 45 | Witty Brickster |
-| 1796 | 45 | Nora Buchan |
-| 1797 | 45 | Missy Stevens |
-| 1798 | 45 | Nerdy Base |
-| 1799 | 45 | Frothy Cascader |
-| 1800 | 45 | Spunky Buildout |
-| 1801 | 45 | Michael Crispens |
-| 1802 | 45 | Jstang |
-| 1803 | 45 | William Richardson |
-| 1804 | 45 | LaChalle Shay |
-| 1805 | 45 | Patience Thompson |
+| 1782 | 46 | Nikki Blilie |
+| 1783 | 46 | Sunnylynn Hodge |
+| 1784 | 46 | Taderbug |
+| 1785 | 46 | Spunky Snapfall |
+| 1786 | 46 | Matthew Black |
+| 1787 | 46 | Octavius Walker |
+| 1788 | 46 | Audrey F Devis |
+| 1789 | 46 | Michael Lott |
+| 1790 | 46 | Clever Clusterfit |
+| 1791 | 46 | Lotso |
+| 1792 | 46 | Kodi Gay |
+| 1793 | 46 | Jolly Blockroll |
+| 1794 | 45 | Erica |
+| 1795 | 45 | Happy Riseclear |
+| 1796 | 45 | Witty Brickster |
+| 1797 | 45 | Nora Buchan |
+| 1798 | 45 | Missy Stevens |
+| 1799 | 45 | Nerdy Base |
+| 1800 | 45 | Frothy Cascader |
+| 1801 | 45 | Jstang |
+| 1802 | 45 | Spunky Buildout |
+| 1803 | 45 | Michael Crispens |
+| 1804 | 45 | Paula |
+| 1805 | 45 | Nikki |
 | 1806 | 45 | Giggy Snapper |
-| 1807 | 45 | Nikki |
-| 1808 | 45 | Gail Flory |
-| 1809 | 45 | Paula |
-| 1810 | 44 | Giggly Dashy |
-| 1811 | 44 | Chill Racker |
-| 1812 | 44 | Jane Shevlin |
-| 1813 | 44 | Tee Have |
-| 1814 | 44 | Lulu Nichole |
-| 1815 | 44 | Staci Behrens |
-| 1816 | 44 | Mary Cook |
-| 1817 | 44 | Crafty Shatterer |
-| 1818 | 44 | Sandra Betz |
-| 1819 | 44 | Ferrt |
-| 1820 | 44 | Jessica Jones |
-| 1821 | 44 | Dawnie Rodarte |
-| 1822 | 43 | Berta Hurley |
-| 1823 | 43 | Aguilar Rita |
-| 1824 | 43 | Kourtney Heiden-Hudson |
-| 1825 | 43 | latte |
-| 1826 | 43 | Jill Gelhausen |
-| 1827 | 43 | Dreamy Wipepiece |
-| 1828 | 43 | TyGur the Tony |
-| 1829 | 43 | Groovy Snapbuild |
-| 1830 | 43 | Ashley Parrish |
-| 1831 | 43 | KT Scott |
+| 1807 | 45 | Patience Thompson |
+| 1808 | 45 | LaChalle Shay |
+| 1809 | 45 | Gail Flory |
+| 1810 | 45 | William Richardson |
+| 1811 | 44 | Tee Have |
+| 1812 | 44 | Sandra Betz |
+| 1813 | 44 | Lulu Nichole |
+| 1814 | 44 | Ferrt |
+| 1815 | 44 | Jane Shevlin |
+| 1816 | 44 | Crafty Shatterer |
+| 1817 | 44 | Giggly Dashy |
+| 1818 | 44 | Staci Behrens |
+| 1819 | 44 | Mary Cook |
+| 1820 | 44 | Chill Racker |
+| 1821 | 44 | Jessica Jones |
+| 1822 | 44 | Dawnie Rodarte |
+| 1823 | 43 | Berta Hurley |
+| 1824 | 43 | Aguilar Rita |
+| 1825 | 43 | Kourtney Heiden-Hudson |
+| 1826 | 43 | latte |
+| 1827 | 43 | Jill Gelhausen |
+| 1828 | 43 | Dreamy Wipepiece |
+| 1829 | 43 | TyGur the Tony |
+| 1830 | 43 | Christina Wilson |
+| 1831 | 43 | Brooke Burge |
 | 1832 | 43 | Dawn Lynn |
-| 1833 | 43 | Brooke Burge |
-| 1834 | 43 | Christina Wilson |
-| 1835 | 43 | Patricia Ann Tondreault Hammonds |
-| 1836 | 43 | Haley Mansfield |
-| 1837 | 42 | Miss TENNESEE |
-| 1838 | 42 | Ryan D. Norcross |
-| 1839 | 42 | Patty Smith |
+| 1833 | 43 | Ashley Parrish |
+| 1834 | 43 | Haley Mansfield |
+| 1835 | 43 | KT Scott |
+| 1836 | 43 | Groovy Snapbuild |
+| 1837 | 43 | Patricia Ann Tondreault Hammonds |
+| 1838 | 42 | Sltwtrcndrla |
+| 1839 | 42 | June Salevao |
 | 1840 | 42 | Jaime Karmann-Leathers |
-| 1841 | 42 | Sltwtrcndrla |
-| 1842 | 42 | Christopher S Lawyer |
-| 1843 | 42 | June Salevao |
-| 1844 | 42 | Torb |
-| 1845 | 42 | Speedy Cascadezone |
-| 1846 | 42 | Tipsy Slice |
-| 1847 | 42 | Shylo Bryant-Brunson |
-| 1848 | 42 | Sweety764u |
-| 1849 | 41 | Jay King |
-| 1850 | 41 | Jenny Coffer |
-| 1851 | 41 | Bold Shiftspin |
-| 1852 | 41 | Mighty Bricky |
-| 1853 | 41 | Jazzy Cornerfall |
-| 1854 | 41 | Iggypop |
-| 1855 | 41 | Stacey Ann Kelley |
-| 1856 | 41 | Judy Harker |
+| 1841 | 42 | Speedy Cascadezone |
+| 1842 | 42 | Patty Smith |
+| 1843 | 42 | Miss TENNESEE |
+| 1844 | 42 | Ryan D. Norcross |
+| 1845 | 42 | Tipsy Slice |
+| 1846 | 42 | Christopher S Lawyer |
+| 1847 | 42 | Torb |
+| 1848 | 42 | Shylo Bryant-Brunson |
+| 1849 | 42 | Sweety764u |
+| 1850 | 41 | Jay King |
+| 1851 | 41 | Jenny Coffer |
+| 1852 | 41 | Iggypop |
+| 1853 | 41 | Bold Shiftspin |
+| 1854 | 41 | Stacey Ann Kelley |
+| 1855 | 41 | Jazzy Cornerfall |
+| 1856 | 41 | Mighty Bricky |
 | 1857 | 41 | Twisty Wipebuilder |
-| 1858 | 41 | Wafflemaker4000 |
-| 1859 | 40 | Rick Green |
-| 1860 | 40 | Jennifer Bryant |
-| 1861 | 40 | Carrie Wilcox |
-| 1862 | 40 | Sherrita Washington |
-| 1863 | 40 | Holly |
-| 1864 | 40 | Mighty Cascade |
-| 1865 | 40 | David Blocker |
-| 1866 | 40 | Cassey Feller |
-| 1867 | 40 | Radrac |
-| 1868 | 40 | David Starmer |
-| 1869 | 40 | Cheeky Snapline |
-| 1870 | 40 | Tonya Templin Smith |
-| 1871 | 40 | Jay Theriault |
-| 1872 | 40 | Ashley Bennett |
-| 1873 | 40 | Ariya Colson |
-| 1874 | 40 | Karen Pearson-Wilson |
-| 1875 | 40 | Kacey Bates |
-| 1876 | 40 | Twisty Glider |
-| 1877 | 40 | Zach Walkup |
-| 1878 | 40 | Kimmi Knippel |
-| 1879 | 40 | B.A. Watt |
-| 1880 | 40 | Aaron Henry |
-| 1881 | 40 | Kris Roark |
-| 1882 | 40 | Billie Jo Butler |
-| 1883 | 40 | Alan Harley Medeiros |
-| 1884 | 40 | Emily Kleinsteiber |
-| 1885 | 40 | Kyle |
-| 1886 | 40 | Brian Bradley |
-| 1887 | 40 | Dan Rosenberg |
-| 1888 | 40 | Margie King |
-| 1889 | 40 | Betsey Terry |
-| 1890 | 40 | Tabetha Cooper |
-| 1891 | 40 | Lela Walk |
-| 1892 | 40 | Beth |
-| 1893 | 40 | Shay Lynn King |
-| 1894 | 40 | Mitsy Lang |
-| 1895 | 40 | Sunny |
-| 1896 | 40 | Tara Feineis |
-| 1897 | 40 | Dapper Pivotfall |
-| 1898 | 40 | Elicia Lloyd-Zazweta |
-| 1899 | 39 | Jeff Mullins |
-| 1900 | 39 | Cyrus Ramirez |
-| 1901 | 39 | Instak1ll |
-| 1902 | 39 | Joshua Savoir |
-| 1903 | 39 | Catey Salazar |
-| 1904 | 39 | Snappy Cascadefit |
-| 1905 | 39 | Linette Chico |
-| 1906 | 39 | Miranda Rabey |
-| 1907 | 39 | Zany Pivoty |
-| 1908 | 39 | Lj |
-| 1909 | 39 | Lauren Shunkwiler |
-| 1910 | 39 | Renee Garneau Cain |
-| 1911 | 39 | LovelyLaurita |
-| 1912 | 38 | Stephanie Fitzgerald |
+| 1858 | 41 | Judy Harker |
+| 1859 | 41 | Wafflemaker4000 |
+| 1860 | 40 | Sherrita Washington |
+| 1861 | 40 | Mighty Cascade |
+| 1862 | 40 | Rick Green |
+| 1863 | 40 | Radrac |
+| 1864 | 40 | David Starmer |
+| 1865 | 40 | Ariya Colson |
+| 1866 | 40 | Ashley Bennett |
+| 1867 | 40 | Kacey Bates |
+| 1868 | 40 | Jay Theriault |
+| 1869 | 40 | Tonya Templin Smith |
+| 1870 | 40 | Carrie Wilcox |
+| 1871 | 40 | Cassey Feller |
+| 1872 | 40 | David Blocker |
+| 1873 | 40 | Jennifer Bryant |
+| 1874 | 40 | Cheeky Snapline |
+| 1875 | 40 | Karen Pearson-Wilson |
+| 1876 | 40 | Holly |
+| 1877 | 40 | B.A. Watt |
+| 1878 | 40 | Betsey Terry |
+| 1879 | 40 | Lela Walk |
+| 1880 | 40 | Margie King |
+| 1881 | 40 | Dan Rosenberg |
+| 1882 | 40 | Brian Bradley |
+| 1883 | 40 | Twisty Glider |
+| 1884 | 40 | Kyle |
+| 1885 | 40 | Kris Roark |
+| 1886 | 40 | Aaron Henry |
+| 1887 | 40 | Kimmi Knippel |
+| 1888 | 40 | Zach Walkup |
+| 1889 | 40 | Billie Jo Butler |
+| 1890 | 40 | Alan Harley Medeiros |
+| 1891 | 40 | Tabetha Cooper |
+| 1892 | 40 | Emily Kleinsteiber |
+| 1893 | 40 | Beth |
+| 1894 | 40 | Shay Lynn King |
+| 1895 | 40 | Mitsy Lang |
+| 1896 | 40 | Sunny |
+| 1897 | 40 | Tara Feineis |
+| 1898 | 40 | Dapper Pivotfall |
+| 1899 | 40 | Elicia Lloyd-Zazweta |
+| 1900 | 39 | Jeff Mullins |
+| 1901 | 39 | Cyrus Ramirez |
+| 1902 | 39 | Instak1ll |
+| 1903 | 39 | Lj |
+| 1904 | 39 | Joshua Savoir |
+| 1905 | 39 | LovelyLaurita |
+| 1906 | 39 | Linette Chico |
+| 1907 | 39 | Renee Garneau Cain |
+| 1908 | 39 | Snappy Cascadefit |
+| 1909 | 39 | Catey Salazar |
+| 1910 | 39 | Lauren Shunkwiler |
+| 1911 | 39 | Miranda Rabey |
+| 1912 | 39 | Zany Pivoty |
 | 1913 | 38 | Joce Barger |
-| 1914 | 38 | David Thomas |
-| 1915 | 38 | Denzil G Burrows Jr |
-| 1916 | 38 | Snazzy Racker |
-| 1917 | 38 | Perky Patternbuilder |
-| 1918 | 38 | FabTeach |
-| 1919 | 37 | Leon Welch |
-| 1920 | 37 | Zippy Tumbler |
-| 1921 | 37 | Suzee |
+| 1914 | 38 | Denzil G Burrows Jr |
+| 1915 | 38 | David Thomas |
+| 1916 | 38 | Stephanie Fitzgerald |
+| 1917 | 38 | Snazzy Racker |
+| 1918 | 38 | Perky Patternbuilder |
+| 1919 | 38 | FabTeach |
+| 1920 | 37 | Leon Welch |
+| 1921 | 37 | Zippy Tumbler |
 | 1922 | 37 | Spunky Patternfit |
-| 1923 | 37 | Nicole Slimick |
-| 1924 | 37 | Mathew Henderson |
-| 1925 | 37 | Jollygirl |
-| 1926 | 37 | Gen |
-| 1927 | 37 | Mindy Corriher |
+| 1923 | 37 | Mathew Henderson |
+| 1924 | 37 | Nicole Slimick |
+| 1925 | 37 | Suzee |
+| 1926 | 37 | Plucky Caster |
+| 1927 | 37 | Danh Nguyen |
 | 1928 | 37 | Carl Antonucci |
-| 1929 | 37 | DaddyBuck |
-| 1930 | 37 | Danh Nguyen |
-| 1931 | 37 | Plucky Caster |
-| 1932 | 36 | Courtney Lashay Hill |
-| 1933 | 36 | teacake |
-| 1934 | 36 | Taderbug |
+| 1929 | 37 | Gen |
+| 1930 | 37 | Mindy Corriher |
+| 1931 | 37 | Jollygirl |
+| 1932 | 37 | DaddyBuck |
+| 1933 | 36 | Courtney Lashay Hill |
+| 1934 | 36 | Deion Marshall |
 | 1935 | 36 | Audrey Phillips |
-| 1936 | 36 | Deion Marshall |
-| 1937 | 36 | PortersWife87 |
+| 1936 | 36 | teacake |
+| 1937 | 36 | Tiana Rodriguez |
 | 1938 | 36 | Cody |
 | 1939 | 36 | Holly Riley |
-| 1940 | 36 | GreatDoxie |
-| 1941 | 36 | Anna |
-| 1942 | 36 | Cammie Freed |
-| 1943 | 36 | Jen |
-| 1944 | 36 | James Brown |
+| 1940 | 36 | Cammie Freed |
+| 1941 | 36 | GreatDoxie |
+| 1942 | 36 | James Brown |
+| 1943 | 36 | Anna |
+| 1944 | 36 | PortersWife87 |
 | 1945 | 36 | Monica D Brown |
-| 1946 | 36 | Tiana Rodriguez |
+| 1946 | 36 | Jen |
 | 1947 | 36 | Eugene Clawson |
 | 1948 | 36 | Brian Karr |
 | 1949 | 36 | Cristy Ayala |
@@ -1962,25 +1962,25 @@
 | 1954 | 36 | Deborah Lint Odom |
 | 1955 | 36 | Quirky Brickroll |
 | 1956 | 35 | Quirky Piecegrid |
-| 1957 | 35 | Dom D Davis |
-| 1958 | 35 | Barbara Fields |
-| 1959 | 35 | Jenny |
-| 1960 | 35 | Eddie Trigg III |
-| 1961 | 35 | Dizzy Shatterfit |
-| 1962 | 35 | Misty Lewis-Sims |
-| 1963 | 35 | Wendy Michelle |
-| 1964 | 35 | Crystal Marie Castillo |
-| 1965 | 35 | Annalisa Estrada |
-| 1966 | 35 | Megan |
-| 1967 | 35 | Bouncy Fallmatch |
-| 1968 | 35 | Rachel Burkett |
-| 1969 | 35 | Peter Savage |
-| 1970 | 34 | Dapper Corner |
-| 1971 | 34 | bob |
-| 1972 | 34 | Wayne Mcmillan |
-| 1973 | 34 | lojo |
-| 1974 | 34 | Jennifer M Mitchell |
-| 1975 | 34 | Robin Johnson |
+| 1957 | 35 | Crystal Marie Castillo |
+| 1958 | 35 | Dizzy Shatterfit |
+| 1959 | 35 | Eddie Trigg III |
+| 1960 | 35 | Barbara Fields |
+| 1961 | 35 | Megan |
+| 1962 | 35 | Wendy Michelle |
+| 1963 | 35 | Rachel Burkett |
+| 1964 | 35 | Bouncy Fallmatch |
+| 1965 | 35 | Jenny |
+| 1966 | 35 | Peter Savage |
+| 1967 | 35 | Misty Lewis-Sims |
+| 1968 | 35 | Annalisa Estrada |
+| 1969 | 35 | Dom D Davis |
+| 1970 | 34 | Robin Johnson |
+| 1971 | 34 | Dapper Corner |
+| 1972 | 34 | Jennifer M Mitchell |
+| 1973 | 34 | Wayne Mcmillan |
+| 1974 | 34 | lojo |
+| 1975 | 34 | bob |
 | 1976 | 34 | Jeremiah Cardell |
 | 1977 | 34 | Jennifer Roper Stanley |
 | 1978 | 34 | Jazzy Curver |
@@ -1990,17 +1990,17 @@
 | 1982 | 33 | Phyllis DiCristo |
 | 1983 | 33 | Sandra Mathes Reece |
 | 1984 | 33 | Nicki McGill |
-| 1985 | 33 | juhde |
-| 1986 | 33 | Stephanie Stegman |
-| 1987 | 33 | Maja Hauff |
-| 1988 | 33 | Lazy Zoner |
-| 1989 | 33 | Speedy Crasher |
-| 1990 | 33 | Dixie Wilson |
+| 1985 | 33 | Lazy Zoner |
+| 1986 | 33 | Dixie Wilson |
+| 1987 | 33 | juhde |
+| 1988 | 33 | Speedy Crasher |
+| 1989 | 33 | Maja Hauff |
+| 1990 | 33 | Stephanie Stegman |
 | 1991 | 33 | Zappy Snapper |
-| 1992 | 33 | Mandy Ann Riley |
-| 1993 | 33 | Brandy McGuffey |
-| 1994 | 33 | NimbleBeQuick |
-| 1995 | 33 | Katy Marie |
+| 1992 | 33 | Brandy McGuffey |
+| 1993 | 33 | Katy Marie |
+| 1994 | 33 | Mandy Ann Riley |
+| 1995 | 33 | NimbleBeQuick |
 | 1996 | 32 | Chelsea Harriss |
 | 1997 | 32 | Foc |
 | 1998 | 32 | Pam Martin |
@@ -2016,9 +2016,9 @@
 | 2008 | 31 | Trinni Hansen |
 | 2009 | 31 | Ronald Granger |
 | 2010 | 31 | Frilly Riseclear |
-| 2011 | 31 | Remyro |
-| 2012 | 31 | Jose Vasquez |
-| 2013 | 31 | Rainbolt |
+| 2011 | 31 | Rainbolt |
+| 2012 | 31 | Remyro |
+| 2013 | 31 | Jose Vasquez |
 | 2014 | 31 | Peppy Dash |
 | 2015 | 31 | Jenn |
 | 2016 | 31 | Giddy Glider |
@@ -2026,12 +2026,12 @@
 | 2018 | 31 | Snappy Matchgrid |
 | 2019 | 31 | Jazzy Gridclear |
 | 2020 | 30 | Melissa Dyer |
-| 2021 | 30 | Shawn Bossuot |
+| 2021 | 30 | Holly Hannahs |
 | 2022 | 30 | tdb |
 | 2023 | 30 | Michele Miessner |
 | 2024 | 30 | Milissa Weihbrecht |
-| 2025 | 30 | Poppy Shuffler |
-| 2026 | 30 | Holly Hannahs |
+| 2025 | 30 | Shawn Bossuot |
+| 2026 | 30 | Poppy Shuffler |
 | 2027 | 30 | Rachelle Parker |
 | 2028 | 30 | Peppy Stack |
 | 2029 | 30 | Jumpy Tetriblast |
@@ -2053,23 +2053,23 @@
 | 2045 | 30 | Daily Findery |
 | 2046 | 29 | Michii |
 | 2047 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 2048 | 29 | Thump |
+| 2048 | 29 | Makayla Grubbs |
 | 2049 | 29 | Amy Chauvin |
 | 2050 | 29 | Trinko |
-| 2051 | 29 | Dandy Tiltpiece |
-| 2052 | 29 | Makayla Grubbs |
-| 2053 | 29 | Swanky Blockclear |
-| 2054 | 29 | Amh09 |
-| 2055 | 29 | Danielle Bailey |
-| 2056 | 28 | Courtney Freeman |
+| 2051 | 29 | Thump |
+| 2052 | 29 | Swanky Blockclear |
+| 2053 | 29 | Amh09 |
+| 2054 | 29 | Danielle Bailey |
+| 2055 | 29 | Dandy Tiltpiece |
+| 2056 | 28 | Crafty Combo |
 | 2057 | 28 | Emily Busick |
 | 2058 | 28 | Swanky Snapzone |
 | 2059 | 28 | Andrea Maloney Stephenson |
 | 2060 | 28 | Charles Mercer |
-| 2061 | 28 | Crafty Combo |
+| 2061 | 28 | Courtney Freeman |
 | 2062 | 28 | Angela Best |
-| 2063 | 28 | Rhonda McManus - Kimbrough |
-| 2064 | 28 | Chummy Clear |
+| 2063 | 28 | Chummy Clear |
+| 2064 | 28 | Rhonda McManus - Kimbrough |
 | 2065 | 28 | Momma |
 | 2066 | 28 | Erica White |
 | 2067 | 28 | Zesty Rollpiece |
@@ -2080,11 +2080,11 @@
 | 2072 | 27 | Shane Peavey |
 | 2073 | 27 | Ashley Corbett |
 | 2074 | 27 | Peachy Piecebuilder |
-| 2075 | 27 | Bold Patternfall |
-| 2076 | 27 | Steven Moore |
+| 2075 | 27 | Kristina Joye |
+| 2076 | 27 | Daddy’s Here |
 | 2077 | 27 | NellieG |
-| 2078 | 27 | Kristina Joye |
-| 2079 | 27 | Daddy’s Here |
+| 2078 | 27 | Bold Patternfall |
+| 2079 | 27 | Steven Moore |
 | 2080 | 27 | Boldy Blockline |
 | 2081 | 27 | Loony Matcher |
 | 2082 | 27 | Nicole Dunn |
@@ -2099,20 +2099,20 @@
 | 2091 | 26 | Megan Theresa Marie Rydle |
 | 2092 | 26 | Marilyn Laramore |
 | 2093 | 26 | whocares |
-| 2094 | 26 | Boya Ray Johnson |
-| 2095 | 26 | Tina Doyens Munis |
-| 2096 | 26 | Cathy Clark |
-| 2097 | 26 | Darlene Russell |
-| 2098 | 26 | Danibellee |
-| 2099 | 26 | Samantha Morrison |
-| 2100 | 26 | Quirky Climber |
-| 2101 | 26 | Bad Juju |
-| 2102 | 26 | Celeste Samuels |
-| 2103 | 26 | nova |
-| 2104 | 25 | Crystal Owen Yocolano |
-| 2105 | 25 | JesseJo |
-| 2106 | 25 | Mighty Piecebuilder |
-| 2107 | 25 | Amanda Morales |
+| 2094 | 26 | Amanda Morales |
+| 2095 | 26 | Boya Ray Johnson |
+| 2096 | 26 | Tina Doyens Munis |
+| 2097 | 26 | Cathy Clark |
+| 2098 | 26 | Darlene Russell |
+| 2099 | 26 | Danibellee |
+| 2100 | 26 | Samantha Morrison |
+| 2101 | 26 | Quirky Climber |
+| 2102 | 26 | Bad Juju |
+| 2103 | 26 | Celeste Samuels |
+| 2104 | 26 | nova |
+| 2105 | 25 | Crystal Owen Yocolano |
+| 2106 | 25 | JesseJo |
+| 2107 | 25 | Mighty Piecebuilder |
 | 2108 | 25 | JinxxedMozzerella |
 | 2109 | 25 | Bubbly Wrecker |
 | 2110 | 25 | Chipper Gridroll |
