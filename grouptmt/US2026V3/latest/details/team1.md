@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:30:46 UTC
+# Standings for team1 as of 2026-06-09 20:31:21 UTC
 
 **Total Participants:** 2110
 
@@ -479,39 +479,39 @@
 | 471 | 282 | Bambam |
 | 472 | 282 | Perky Pusher |
 | 473 | 282 | C Lo Green |
-| 474 | 280 | Teri Marie Clayton |
-| 475 | 280 | Boldy Liner |
+| 474 | 280 | Boldy Liner |
+| 475 | 280 | Teri Marie Clayton |
 | 476 | 279 | Chandler Magee |
 | 477 | 278 | Latore Maxie |
-| 478 | 275 | Nona Harriel |
-| 479 | 275 | Chris Sladoje |
-| 480 | 275 | Falisa Bell |
-| 481 | 275 | Tonia Ramos |
+| 478 | 275 | Chris Sladoje |
+| 479 | 275 | Falisa Bell |
+| 480 | 275 | Tonia Ramos |
+| 481 | 275 | Nona Harriel |
 | 482 | 274 | FunTime |
-| 483 | 274 | 신재호 |
-| 484 | 274 | Christi Walker Patton |
-| 485 | 273 | Vera Beckford |
-| 486 | 273 | Slinky Snapbuilder |
-| 487 | 273 | Brittnay Wright |
-| 488 | 272 | Zany Breaker |
+| 483 | 274 | Slinky Clearzone |
+| 484 | 274 | 신재호 |
+| 485 | 274 | Christi Walker Patton |
+| 486 | 273 | Brittnay Wright |
+| 487 | 273 | Vera Beckford |
+| 488 | 273 | Slinky Snapbuilder |
 | 489 | 272 | MonaSparks |
-| 490 | 269 | Stephanie L Jeffries Moultrie |
-| 491 | 269 | Aihpos |
+| 490 | 272 | Zany Breaker |
+| 491 | 269 | Stephanie L Jeffries Moultrie |
 | 492 | 269 | Felicia Dungey |
-| 493 | 268 | Giddy Staggerpiece |
+| 493 | 269 | Aihpos |
 | 494 | 268 | Jenni Hardman |
-| 495 | 268 | Monica Tovar |
-| 496 | 267 | Kimmie Gargano |
+| 495 | 268 | Giddy Staggerpiece |
+| 496 | 268 | Monica Tovar |
 | 497 | 267 | Bubbly Slammer |
-| 498 | 266 | Valerie Alexander |
-| 499 | 266 | Rebecca Jackson |
-| 500 | 265 | Matthieu Pistone |
-| 501 | 264 | Boldy Matchbuilder |
-| 502 | 264 | Slinky Clearzone |
+| 498 | 267 | Kimmie Gargano |
+| 499 | 266 | Valerie Alexander |
+| 500 | 266 | Rebecca Jackson |
+| 501 | 265 | Matthieu Pistone |
+| 502 | 264 | Boldy Matchbuilder |
 | 503 | 263 | Kamilya Rembert |
 | 504 | 262 | Denisa Amazon Clark |
-| 505 | 261 | BonnieB |
-| 506 | 261 | Jelyfish |
+| 505 | 261 | Jelyfish |
+| 506 | 261 | BonnieB |
 | 507 | 260 | HS Arce |
 | 508 | 260 | Slinky Swipe |
 | 509 | 260 | Alyssa Rae |
@@ -1272,75 +1272,75 @@
 | 1264 | 69 | Keith Johnson |
 | 1265 | 68 | Breeze |
 | 1266 | 68 | Lillie Blossom Dixon |
-| 1267 | 68 | Daring Linkfall |
-| 1268 | 68 | Saucy Crusher |
+| 1267 | 68 | Saucy Crusher |
+| 1268 | 68 | Daring Linkfall |
 | 1269 | 68 | lovel |
 | 1270 | 68 | LOVE |
 | 1271 | 68 | Michelle Dollah |
 | 1272 | 67 | Jaela Washington |
-| 1273 | 67 | Deantenique Smalls |
-| 1274 | 67 | Michele Elizabeth McKay-Johnson |
-| 1275 | 66 | Mami Badd |
-| 1276 | 66 | Evelyn Epps |
-| 1277 | 66 | Raquele Hines |
-| 1278 | 66 | Sugar Foot |
-| 1279 | 66 | Jroc Tyra Taylor |
-| 1280 | 66 | Shardai She Gotit |
-| 1281 | 66 | Amanda Bell |
-| 1282 | 66 | Meluhnee |
-| 1283 | 66 | rosieredpanda |
-| 1284 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1285 | 66 | Bold Spinblock |
-| 1286 | 65 | Nockallday |
+| 1273 | 67 | Taimir Colón |
+| 1274 | 67 | Deantenique Smalls |
+| 1275 | 67 | Michele Elizabeth McKay-Johnson |
+| 1276 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1277 | 66 | Mami Badd |
+| 1278 | 66 | Bold Spinblock |
+| 1279 | 66 | Shardai She Gotit |
+| 1280 | 66 | Sugar Foot |
+| 1281 | 66 | Evelyn Epps |
+| 1282 | 66 | Raquele Hines |
+| 1283 | 66 | Jroc Tyra Taylor |
+| 1284 | 66 | Amanda Bell |
+| 1285 | 66 | Meluhnee |
+| 1286 | 66 | rosieredpanda |
 | 1287 | 65 | Furlough Leslie |
 | 1288 | 65 | sunstar |
 | 1289 | 65 | Melanie Houghton-McCann |
-| 1290 | 65 | Dana Hill |
-| 1291 | 65 | April Ezell |
-| 1292 | 65 | Jessie Wallace |
-| 1293 | 65 | Panda Vibes |
-| 1294 | 65 | Vonda House |
-| 1295 | 65 | Sarah Jones |
-| 1296 | 65 | Shemeka Bates |
-| 1297 | 64 | Capt Kev |
-| 1298 | 64 | Giggly Dasher |
-| 1299 | 64 | Jucee |
-| 1300 | 64 | BlessedBeauty |
-| 1301 | 64 | J Dot Flo |
-| 1302 | 64 | Briela Sabrina |
-| 1303 | 64 | Frothy Snapmatch |
-| 1304 | 63 | Gary Kyle |
-| 1305 | 63 | Tonny Williams |
-| 1306 | 63 | Groovy Rotate |
-| 1307 | 63 | Damien Fonseca |
-| 1308 | 63 | Natasha Harris |
-| 1309 | 63 | Storie Harris |
-| 1310 | 63 | Torrie Eckrote |
-| 1311 | 62 | Alturas Supremenineteen Banks |
-| 1312 | 62 | Shona ShayShay Jones |
+| 1290 | 65 | April Ezell |
+| 1291 | 65 | Jessie Wallace |
+| 1292 | 65 | Dana Hill |
+| 1293 | 65 | Sarah Jones |
+| 1294 | 65 | Shemeka Bates |
+| 1295 | 65 | Panda Vibes |
+| 1296 | 65 | Nockallday |
+| 1297 | 65 | Vonda House |
+| 1298 | 64 | Briela Sabrina |
+| 1299 | 64 | BlessedBeauty |
+| 1300 | 64 | Jucee |
+| 1301 | 64 | Giggly Dasher |
+| 1302 | 64 | Frothy Snapmatch |
+| 1303 | 64 | Capt Kev |
+| 1304 | 64 | J Dot Flo |
+| 1305 | 63 | Torrie Eckrote |
+| 1306 | 63 | Natasha Harris |
+| 1307 | 63 | Storie Harris |
+| 1308 | 63 | Tonny Williams |
+| 1309 | 63 | Groovy Rotate |
+| 1310 | 63 | Damien Fonseca |
+| 1311 | 63 | Gary Kyle |
+| 1312 | 62 | Stephanie Vinson |
 | 1313 | 62 | Simone Dublin |
-| 1314 | 62 | Spicy Hedgehog |
-| 1315 | 62 | Quirky Slammer |
-| 1316 | 62 | Stephanie Vinson |
-| 1317 | 61 | Giggleme |
-| 1318 | 61 | That1Girl |
-| 1319 | 61 | Taimir Colón |
-| 1320 | 61 | Krose Byers |
-| 1321 | 61 | Brandon Knox |
-| 1322 | 61 | Sagitterrorist |
-| 1323 | 61 | Audrey Gestring |
-| 1324 | 61 | Michelle Stanford-Page |
+| 1314 | 62 | Shona ShayShay Jones |
+| 1315 | 62 | Alturas Supremenineteen Banks |
+| 1316 | 62 | Spicy Hedgehog |
+| 1317 | 62 | Quirky Slammer |
+| 1318 | 61 | Krose Byers |
+| 1319 | 61 | That1Girl |
+| 1320 | 61 | Giggleme |
+| 1321 | 61 | Sagitterrorist |
+| 1322 | 61 | Audrey Gestring |
+| 1323 | 61 | Michelle Stanford-Page |
+| 1324 | 61 | Brandon Knox |
 | 1325 | 60 | Anthony Intrabartolo |
-| 1326 | 60 | Aridevina |
-| 1327 | 60 | Jolly Brickline |
-| 1328 | 60 | Jennifer Endean |
+| 1326 | 60 | Amy Thomas |
+| 1327 | 60 | Carl Proby |
+| 1328 | 60 | Elisha Latimore |
 | 1329 | 60 | Tweet |
 | 1330 | 60 | Nancy Hartzell |
-| 1331 | 60 | Elisha Latimore |
+| 1331 | 60 | Jennifer Endean |
 | 1332 | 60 | Skyhigh Scott |
-| 1333 | 60 | Carl Proby |
+| 1333 | 60 | Jolly Brickline |
 | 1334 | 60 | Snappy Strikerpiece |
-| 1335 | 60 | Amy Thomas |
+| 1335 | 60 | Aridevina |
 | 1336 | 59 | Jeremy Myers |
 | 1337 | 59 | Leiacellaa23 |
 | 1338 | 59 | Kween Pilot |
