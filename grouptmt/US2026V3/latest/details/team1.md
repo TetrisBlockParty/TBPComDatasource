@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:08:22 UTC
+# Standings for team1 as of 2026-06-09 08:08:47 UTC
 
 **Total Participants:** 2017
 
@@ -730,34 +730,34 @@
 | 722 | 150 | Marshall Davis |
 | 723 | 150 | Kanary Karotz |
 | 724 | 150 | Antoinette Jones |
-| 725 | 149 | Anastasia |
-| 726 | 149 | Andra Ward |
-| 727 | 149 | Stephanie Ellis |
-| 728 | 148 | Meeee |
-| 729 | 148 | Marsha Earl |
-| 730 | 148 | Cauiasia DeJ'ae |
-| 731 | 148 | GetDaOPPS |
-| 732 | 148 | Yashicha Hertzock |
-| 733 | 148 | Zany Patternblock |
-| 734 | 147 | Sabrina Wilkerson |
-| 735 | 147 | Chill Linkroll |
+| 725 | 149 | Stephanie Ellis |
+| 726 | 149 | Anastasia |
+| 727 | 149 | Andra Ward |
+| 728 | 148 | Zany Patternblock |
+| 729 | 148 | Meeee |
+| 730 | 148 | Yashicha Hertzock |
+| 731 | 148 | Marsha Earl |
+| 732 | 148 | Cauiasia DeJ'ae |
+| 733 | 148 | GetDaOPPS |
+| 734 | 147 | Chill Linkroll |
+| 735 | 147 | Christopher L Crites |
 | 736 | 147 | Kiki |
-| 737 | 147 | Christopher L Crites |
-| 738 | 146 | Rieshelda Marie White |
-| 739 | 146 | Guard Up |
-| 740 | 146 | Paul Doty |
+| 737 | 147 | Sabrina Wilkerson |
+| 738 | 147 | Ameillia Boughner |
+| 739 | 146 | Rieshelda Marie White |
+| 740 | 146 | Guard Up |
 | 741 | 146 | Sallie Sanborn |
-| 742 | 146 | TRUBBLE45 |
-| 743 | 145 | Nekka |
+| 742 | 146 | Paul Doty |
+| 743 | 146 | TRUBBLE45 |
 | 744 | 145 | Hyedie Badie |
-| 745 | 145 | tg |
-| 746 | 144 | Cm |
+| 745 | 145 | Nekka |
+| 746 | 145 | tg |
 | 747 | 144 | Dapper Matchfit |
-| 748 | 144 | Ameillia Boughner |
+| 748 | 144 | Cm |
 | 749 | 144 | Batty B |
 | 750 | 143 | LAdYPOLy |
-| 751 | 142 | Jasmine Hariston-Estis |
-| 752 | 142 | Tiffany Jean Hinson |
+| 751 | 142 | Tiffany Jean Hinson |
+| 752 | 142 | Jasmine Hariston-Estis |
 | 753 | 142 | Shawn Himes |
 | 754 | 142 | Mary Goode |
 | 755 | 142 | Boricua64 |
@@ -770,8 +770,8 @@
 | 762 | 140 | Tory Miller |
 | 763 | 140 | Victoria Smith |
 | 764 | 140 | Christina Singleton |
-| 765 | 140 | TBabii24 |
-| 766 | 140 | Cameo Tweed |
+| 765 | 140 | Cameo Tweed |
+| 766 | 140 | TBabii24 |
 | 767 | 140 | Stanley Dixon |
 | 768 | 140 | Shadon McMillan |
 | 769 | 140 | Biggestboss Ransom |
@@ -781,40 +781,40 @@
 | 773 | 139 | Rochelle Nash-Evans |
 | 774 | 139 | Kike Lua |
 | 775 | 139 | Naee Bee |
-| 776 | 139 | Antoinette Kelly |
-| 777 | 139 | Lexx Robins |
-| 778 | 139 | Sunny Clicky |
-| 779 | 138 | Rene Hicks |
+| 776 | 139 | Vannie G |
+| 777 | 139 | Antoinette Kelly |
+| 778 | 139 | Lexx Robins |
+| 779 | 139 | Sunny Clicky |
 | 780 | 138 | messyboots |
-| 781 | 138 | Jazzy Bridger |
-| 782 | 138 | Morenita Rodriguez |
-| 783 | 138 | Kizzy Clark |
-| 784 | 138 | Christy Quick |
-| 785 | 137 | Tina Blessed Cage |
-| 786 | 137 | Angelique Talbot |
-| 787 | 137 | Xana Zania Bopp |
-| 788 | 137 | Lootch |
-| 789 | 136 | Chereese Harris |
-| 790 | 136 | Christopher Shaw-Black |
-| 791 | 136 | Rissa Rozay |
-| 792 | 135 | Paul Pendley |
-| 793 | 135 | Mellie Mel |
-| 794 | 135 | Laysa Nunez |
-| 795 | 135 | Saucy Tile |
-| 796 | 135 | Chanel White |
-| 797 | 134 | Bouncy Glide |
-| 798 | 134 | Chris Nelson |
+| 781 | 138 | Rene Hicks |
+| 782 | 138 | Jazzy Bridger |
+| 783 | 138 | Morenita Rodriguez |
+| 784 | 138 | Kizzy Clark |
+| 785 | 138 | Christy Quick |
+| 786 | 137 | Tina Blessed Cage |
+| 787 | 137 | Lootch |
+| 788 | 137 | Angelique Talbot |
+| 789 | 137 | Xana Zania Bopp |
+| 790 | 136 | Chereese Harris |
+| 791 | 136 | Christopher Shaw-Black |
+| 792 | 136 | Rissa Rozay |
+| 793 | 135 | Paul Pendley |
+| 794 | 135 | Mellie Mel |
+| 795 | 135 | Laysa Nunez |
+| 796 | 135 | Saucy Tile |
+| 797 | 135 | Chanel White |
+| 798 | 134 | Bouncy Glide |
 | 799 | 134 | Laurie Napper |
-| 800 | 133 | Derald Miller |
-| 801 | 132 | Desi Guerra |
-| 802 | 132 | Carla |
-| 803 | 132 | TieMs BHughez |
-| 804 | 131 | Cynthia Cruell |
-| 805 | 131 | Locke Mahal LD |
-| 806 | 131 | Koreen Johnson-Woolford |
-| 807 | 131 | Kortney Adams |
-| 808 | 130 | Jessica Davis |
-| 809 | 130 | Vannie G |
+| 800 | 134 | Chris Nelson |
+| 801 | 133 | Derald Miller |
+| 802 | 132 | Desi Guerra |
+| 803 | 132 | Carla |
+| 804 | 132 | TieMs BHughez |
+| 805 | 131 | Cynthia Cruell |
+| 806 | 131 | Locke Mahal LD |
+| 807 | 131 | Koreen Johnson-Woolford |
+| 808 | 131 | Kortney Adams |
+| 809 | 130 | Jessica Davis |
 | 810 | 130 | Anthony Collins |
 | 811 | 130 | Gerold Folk Haddock |
 | 812 | 130 | Tito Divyn |
