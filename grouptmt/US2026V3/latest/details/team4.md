@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 13:24:44 UTC
+# Standings for team4 as of 2026-06-09 13:25:23 UTC
 
 **Total Participants:** 2107
 
@@ -348,14 +348,14 @@
 | 340 | 343 | Chummy Jumper |
 | 341 | 342 | Spicy Chicken |
 | 342 | 342 | Anthony McAlister |
-| 343 | 338 | Maurice DeJean |
-| 344 | 337 | Giggly Tilt |
-| 345 | 337 | Brittany Lentz |
-| 346 | 336 | Renee Sapp |
-| 347 | 335 | Spunky Gridzone |
-| 348 | 334 | kellie |
-| 349 | 332 | Toon Up |
-| 350 | 331 | Justin Michael |
+| 343 | 341 | Justin Michael |
+| 344 | 338 | Maurice DeJean |
+| 345 | 337 | Giggly Tilt |
+| 346 | 337 | Brittany Lentz |
+| 347 | 336 | Renee Sapp |
+| 348 | 335 | Spunky Gridzone |
+| 349 | 334 | kellie |
+| 350 | 332 | Toon Up |
 | 351 | 329 | DanceAngel |
 | 352 | 329 | Tipsy Builderline |
 | 353 | 327 | John Cotugno |
