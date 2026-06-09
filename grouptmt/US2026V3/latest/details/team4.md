@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 12:10:21 UTC
+# Standings for team4 as of 2026-06-09 12:10:46 UTC
 
 **Total Participants:** 2096
 
@@ -25,7 +25,7 @@
 | 17 | 6787 | Jerald Jones |
 | 18 | 6254 | Anna Moses |
 | 19 | 6121 | Nia Mayfield |
-| 20 | 5933 | Bubbly Twistpiece |
+| 20 | 5948 | Bubbly Twistpiece |
 | 21 | 5854 | Senor Moppy |
 | 22 | 5552 | Tyra Brooke Everman Forest |
 | 23 | 5113 | Squirrel Donkey |
@@ -92,7 +92,7 @@
 | 84 | 1328 | Shaina Sharp |
 | 85 | 1306 | Lupe Alburquerque |
 | 86 | 1300 | Gloria Nunley Trussell |
-| 87 | 1225 | Fancy Crasher |
+| 87 | 1237 | Fancy Crasher |
 | 88 | 1202 | MysticMaven |
 | 89 | 1175 | Bryan DjMagnum Evans |
 | 90 | 1164 | woopa 716 |
@@ -254,10 +254,10 @@
 | 246 | 461 | Kayla Fuentes |
 | 247 | 460 | Celina DiBastiani |
 | 248 | 460 | Shmeedo |
-| 249 | 453 | Joseph Hunter |
-| 250 | 452 | Kaash Brxtt |
-| 251 | 451 | matt |
-| 252 | 448 | Dae Von |
+| 249 | 455 | Dae Von |
+| 250 | 453 | Joseph Hunter |
+| 251 | 452 | Kaash Brxtt |
+| 252 | 451 | matt |
 | 253 | 447 | Brick House |
 | 254 | 446 | Perky Riserbuilder |
 | 255 | 443 | Genger |
@@ -292,13 +292,13 @@
 | 284 | 410 | Andrick |
 | 285 | 408 | Aramat |
 | 286 | 408 | Danny Keich III |
-| 287 | 400 | Holly Wessel |
-| 288 | 400 | Amber Doyle |
-| 289 | 399 | Ashley Jenkins |
-| 290 | 398 | Becky McCool |
-| 291 | 398 | EL Booger |
-| 292 | 398 | Juvon SupaShawdii Brooks |
-| 293 | 397 | Breezy Cascadeclear |
+| 287 | 402 | Breezy Cascadeclear |
+| 288 | 400 | Holly Wessel |
+| 289 | 400 | Amber Doyle |
+| 290 | 399 | Ashley Jenkins |
+| 291 | 398 | Becky McCool |
+| 292 | 398 | EL Booger |
+| 293 | 398 | Juvon SupaShawdii Brooks |
 | 294 | 395 | Thomasena Eady Reid |
 | 295 | 395 | Bobbie Harrell |
 | 296 | 394 | Glitzy Patternbuilder |
@@ -426,17 +426,17 @@
 | 418 | 279 | tj |
 | 419 | 277 | Nerdy Faller |
 | 420 | 276 | Joab Gonzalez |
-| 421 | 274 | Zesty Twistpiece |
-| 422 | 274 | Dominique Melendez |
-| 423 | 273 | Kierra Evans |
-| 424 | 273 | Snazzy Corner |
-| 425 | 272 | J.Wo |
-| 426 | 271 | King |
-| 427 | 271 | Winter Moon |
-| 428 | 270 | DanceAngel |
-| 429 | 269 | Cheeky Fallzone |
-| 430 | 268 | Kendall Rhodie |
-| 431 | 268 | Toon Up |
+| 421 | 275 | Toon Up |
+| 422 | 274 | Zesty Twistpiece |
+| 423 | 274 | Dominique Melendez |
+| 424 | 273 | Kierra Evans |
+| 425 | 273 | Snazzy Corner |
+| 426 | 272 | J.Wo |
+| 427 | 271 | King |
+| 428 | 271 | Winter Moon |
+| 429 | 270 | DanceAngel |
+| 430 | 269 | Cheeky Fallzone |
+| 431 | 268 | Kendall Rhodie |
 | 432 | 268 | Luna |
 | 433 | 268 | Teester |
 | 434 | 265 | Holly Bramel |
