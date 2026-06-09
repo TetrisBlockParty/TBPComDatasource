@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:05:23 UTC
+# Standings for team1 as of 2026-06-09 14:06:43 UTC
 
 **Total Participants:** 2057
 
@@ -74,7 +74,7 @@
 | 66 | 1499 | Danielle DeLozier Plesec |
 | 67 | 1494 | Sanjuro |
 | 68 | 1478 | Angela R Wilson |
-| 69 | 1461 | Janet Cooke |
+| 69 | 1471 | Janet Cooke |
 | 70 | 1450 | Chenell Gillard |
 | 71 | 1426 | LeeLee08 |
 | 72 | 1423 | Blockhead |
@@ -316,24 +316,24 @@
 | 308 | 390 | Devin West |
 | 309 | 386 | Tremaine Hiler |
 | 310 | 386 | Chummy Frame |
-| 311 | 383 | win |
-| 312 | 381 | NastyFriend |
-| 313 | 380 | Nerdy Blockpiece |
-| 314 | 378 | Hasty Glidezone |
-| 315 | 377 | Amber Wilson |
-| 316 | 377 | ♈️ Ariesbaby |
-| 317 | 377 | Mikayla |
-| 318 | 377 | AF Cruz |
-| 319 | 376 | Ashleyy Netchert |
-| 320 | 371 | Lauraly |
-| 321 | 371 | SeanSanchez |
-| 322 | 371 | 大竹直之 |
+| 311 | 386 | Ashleyy Netchert |
+| 312 | 383 | win |
+| 313 | 381 | NastyFriend |
+| 314 | 380 | Nerdy Blockpiece |
+| 315 | 378 | Hasty Glidezone |
+| 316 | 377 | Amber Wilson |
+| 317 | 377 | ♈️ Ariesbaby |
+| 318 | 377 | Mikayla |
+| 319 | 377 | AF Cruz |
+| 320 | 371 | SeanSanchez |
+| 321 | 371 | 大竹直之 |
+| 322 | 371 | Lauraly |
 | 323 | 370 | Allison Baxter |
 | 324 | 368 | Brand Nu |
 | 325 | 368 | Heather Aurelia |
 | 326 | 368 | Cortaz Lawrie |
-| 327 | 367 | Still Ten Tay |
-| 328 | 367 | Smiley3000 |
+| 327 | 367 | Smiley3000 |
+| 328 | 367 | Still Ten Tay |
 | 329 | 367 | Jayjay Rich |
 | 330 | 364 | Michele Simpson |
 | 331 | 363 | Richard Flex |
@@ -350,12 +350,12 @@
 | 342 | 353 | Bbyunicorn |
 | 343 | 352 | Ann Chung |
 | 344 | 352 | Brave Clearbuilder |
-| 345 | 351 | Shameka Thrasher |
-| 346 | 349 | Sade Goodwine |
-| 347 | 349 | Erica Charlise |
-| 348 | 348 | Dennis J Herron II |
-| 349 | 347 | Erin Sabol |
-| 350 | 347 | Kendra McIntyre |
+| 345 | 352 | Kendra McIntyre |
+| 346 | 351 | Shameka Thrasher |
+| 347 | 349 | Sade Goodwine |
+| 348 | 349 | Erica Charlise |
+| 349 | 348 | Dennis J Herron II |
+| 350 | 347 | Erin Sabol |
 | 351 | 344 | DaGuy |
 | 352 | 344 | Andy Rivera |
 | 353 | 343 | izzybella |
@@ -600,56 +600,56 @@
 | 592 | 205 | Tramaine Crockrum |
 | 593 | 205 | Sarah Swietlicki - Lopez |
 | 594 | 205 | Logan Frost |
-| 595 | 205 | Treneil Daffin |
-| 596 | 205 | Sarah Barnum |
-| 597 | 205 | MELLZZtick€T |
-| 598 | 205 | Semaj Johnson |
-| 599 | 205 | Polite Granny |
-| 600 | 204 | Rosalind Chatman |
-| 601 | 204 | Marlynnnnn |
-| 602 | 204 | Cynda Cyn |
+| 595 | 205 | MELLZZtick€T |
+| 596 | 205 | Treneil Daffin |
+| 597 | 205 | Polite Granny |
+| 598 | 205 | Sarah Barnum |
+| 599 | 205 | Semaj Johnson |
+| 600 | 204 | Marlynnnnn |
+| 601 | 204 | Cynda Cyn |
+| 602 | 204 | Rosalind Chatman |
 | 603 | 204 | Dorian Griffin |
-| 604 | 203 | Jovy |
-| 605 | 203 | Lucy |
-| 606 | 202 | Nutty Fallmatch |
-| 607 | 202 | Alexandrla Smith |
+| 604 | 203 | Lucy |
+| 605 | 203 | Jovy |
+| 606 | 202 | Frankey Chi |
+| 607 | 202 | Messy Live |
 | 608 | 202 | Hyper Blocky |
-| 609 | 202 | Messy Live |
-| 610 | 202 | Frankey Chi |
+| 609 | 202 | Alexandrla Smith |
+| 610 | 202 | Nutty Fallmatch |
 | 611 | 201 | Angela Brown Babin |
-| 612 | 200 | Nona Harriel |
-| 613 | 200 | Katrina Ramey |
-| 614 | 200 | Leavon Smith |
+| 612 | 200 | Leavon Smith |
+| 613 | 200 | Nona Harriel |
+| 614 | 200 | Katrina Ramey |
 | 615 | 200 | Jen Hallin |
 | 616 | 200 | Nisha Sunshine Jenkins |
 | 617 | 200 | Karen Knapp |
 | 618 | 200 | Jimmy Shannon |
-| 619 | 198 | Darrelle Short |
-| 620 | 198 | Rhianna Dinki Austin |
-| 621 | 198 | Ashlie Mo |
-| 622 | 198 | Shannon Carriger |
-| 623 | 197 | krd |
-| 624 | 197 | Joseph Vs Cap |
-| 625 | 197 | Rachel Renae Bettis |
-| 626 | 197 | Kyle Conley |
-| 627 | 196 | whatever |
-| 628 | 196 | Stephanie Ellis |
-| 629 | 196 | Coco |
-| 630 | 195 | Victoria Smith |
-| 631 | 194 | Betsy B. Yohan |
-| 632 | 194 | Twisty Cascadeclear |
-| 633 | 193 | Tushama Cheris Okraku |
-| 634 | 193 | Ameillia Boughner |
-| 635 | 193 | Kimberly Susan Privette |
-| 636 | 192 | Donna Payne |
-| 637 | 192 | Cranky Fall |
-| 638 | 191 | Gbnola |
-| 639 | 191 | Miera Nicole |
-| 640 | 190 | Chipper Snapper |
-| 641 | 190 | Adrian Wilson |
-| 642 | 190 | Lester Malone |
-| 643 | 189 | Loopy Tiler |
-| 644 | 189 | Tyree Tman Shinette |
+| 619 | 199 | Tyree Tman Shinette |
+| 620 | 198 | Darrelle Short |
+| 621 | 198 | Rhianna Dinki Austin |
+| 622 | 198 | Ashlie Mo |
+| 623 | 198 | Shannon Carriger |
+| 624 | 197 | krd |
+| 625 | 197 | Joseph Vs Cap |
+| 626 | 197 | Rachel Renae Bettis |
+| 627 | 197 | Kyle Conley |
+| 628 | 196 | whatever |
+| 629 | 196 | Stephanie Ellis |
+| 630 | 196 | Coco |
+| 631 | 195 | Victoria Smith |
+| 632 | 194 | Betsy B. Yohan |
+| 633 | 194 | Twisty Cascadeclear |
+| 634 | 193 | Tushama Cheris Okraku |
+| 635 | 193 | Ameillia Boughner |
+| 636 | 193 | Kimberly Susan Privette |
+| 637 | 192 | Donna Payne |
+| 638 | 192 | Cranky Fall |
+| 639 | 191 | Gbnola |
+| 640 | 191 | Miera Nicole |
+| 641 | 190 | Chipper Snapper |
+| 642 | 190 | Adrian Wilson |
+| 643 | 190 | Lester Malone |
+| 644 | 189 | Loopy Tiler |
 | 645 | 189 | Sean White |
 | 646 | 189 | TBabii24 |
 | 647 | 189 | The DUBZ |
@@ -1449,16 +1449,16 @@
 | 1441 | 42 | Ginna |
 | 1442 | 42 | Tiffanie Michelle |
 | 1443 | 42 | Sunny Riserbuilder |
-| 1444 | 42 | Nadine Coleman |
-| 1445 | 42 | Robyn Ellis |
-| 1446 | 42 | DaShawntae Durham |
-| 1447 | 42 | BizzyCat |
-| 1448 | 42 | Dandy Blockfall |
-| 1449 | 42 | Livelovelaugh Ward |
-| 1450 | 42 | Louise |
-| 1451 | 42 | Rikki Moran |
-| 1452 | 41 | JLynn Mind Ur's Blackwell |
-| 1453 | 41 | J Dot Flo |
+| 1444 | 42 | J Dot Flo |
+| 1445 | 42 | Nadine Coleman |
+| 1446 | 42 | Robyn Ellis |
+| 1447 | 42 | DaShawntae Durham |
+| 1448 | 42 | BizzyCat |
+| 1449 | 42 | Dandy Blockfall |
+| 1450 | 42 | Livelovelaugh Ward |
+| 1451 | 42 | Louise |
+| 1452 | 42 | Rikki Moran |
+| 1453 | 41 | JLynn Mind Ur's Blackwell |
 | 1454 | 41 | Carolyn |
 | 1455 | 41 | Sicily Bailey |
 | 1456 | 41 | Es Bee |
