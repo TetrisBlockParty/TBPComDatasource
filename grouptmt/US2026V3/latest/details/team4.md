@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:38:43 UTC
+# Standings for team4 as of 2026-06-09 08:39:22 UTC
 
 **Total Participants:** 2088
 
@@ -127,10 +127,10 @@
 | 119 | 946 | Sharidan Klinginsmith |
 | 120 | 940 | Melissa WC |
 | 121 | 932 | Irma |
-| 122 | 883 | Tamara Triplet |
-| 123 | 876 | Ermadette |
-| 124 | 871 | Becky Doll-Hall |
-| 125 | 870 | CJ |
+| 122 | 902 | CJ |
+| 123 | 883 | Tamara Triplet |
+| 124 | 876 | Ermadette |
+| 125 | 871 | Becky Doll-Hall |
 | 126 | 866 | Hairy Snake |
 | 127 | 864 | Whitborn |
 | 128 | 844 | Kay |
@@ -294,7 +294,7 @@
 | 286 | 391 | Sherry Mooney |
 | 287 | 389 | Jenn Norcross |
 | 288 | 384 | Cheery Risegrid |
-| 289 | 382 | Funky Tiler |
+| 289 | 384 | Funky Tiler |
 | 290 | 381 | Jackie Polanco |
 | 291 | 380 | Knijur Callins |
 | 292 | 378 | Hwanger Land |
@@ -437,8 +437,8 @@
 | 429 | 259 | Tiffany Smith |
 | 430 | 259 | Loopy Hitter |
 | 431 | 258 | Valerie Silva |
-| 432 | 257 | LaTanya GeminiondaRise Johnson |
-| 433 | 257 | Groovy Towerbuilder |
+| 432 | 258 | Groovy Towerbuilder |
+| 433 | 257 | LaTanya GeminiondaRise Johnson |
 | 434 | 256 | Tiffany Morris Garner |
 | 435 | 256 | Stacy G |
 | 436 | 255 | Sean Mccleary |

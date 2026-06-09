@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:38:43 UTC
+# Standings for team2 as of 2026-06-09 08:39:22 UTC
 
 **Total Participants:** 2445
 
@@ -428,11 +428,11 @@
 | 420 | 330 | marsam |
 | 421 | 328 | Buffy Diane Blake |
 | 422 | 328 | Elizabeth Henry |
-| 423 | 326 | Amber Smith |
-| 424 | 325 | Snappy Combo |
-| 425 | 324 | Kathryn |
-| 426 | 323 | Kim Hunt |
-| 427 | 323 | Kelly Vedder |
+| 423 | 326 | Kelly Vedder |
+| 424 | 326 | Amber Smith |
+| 425 | 325 | Snappy Combo |
+| 426 | 324 | Kathryn |
+| 427 | 323 | Kim Hunt |
 | 428 | 322 | RaeRae |
 | 429 | 321 | Wendy Spoor Hof |
 | 430 | 320 | Zesty Zoney |
