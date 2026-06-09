@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 22:28:45 UTC
+# Standings for team1 as of 2026-06-09 22:29:22 UTC
 
 **Total Participants:** 2125
 
@@ -29,7 +29,7 @@
 | 21 | 5282 | Plucky Swipe |
 | 22 | 5228 | jaimie |
 | 23 | 5155 | Ivana Schmidt |
-| 24 | 5034 | Pdubbl3 |
+| 24 | 5054 | Pdubbl3 |
 | 25 | 4795 | Tekedra Wilson |
 | 26 | 4621 | Chandler Spencer |
 | 27 | 4195 | Chummy Combo |
@@ -119,9 +119,9 @@
 | 111 | 1121 | Lisa Müller |
 | 112 | 1120 | IamJust Neyamijah Washington Sr. |
 | 113 | 1119 | G Ah Mayes |
-| 114 | 1079 | Tameka Jones |
-| 115 | 1075 | Shellzb Roberts |
-| 116 | 1054 | Rolanda Williams |
+| 114 | 1084 | Rolanda Williams |
+| 115 | 1079 | Tameka Jones |
+| 116 | 1075 | Shellzb Roberts |
 | 117 | 1050 | Jaida King |
 | 118 | 1045 | Joy Citizen Pickney |
 | 119 | 1036 | Keeta Chickswit Scott |
@@ -311,8 +311,8 @@
 | 303 | 439 | Kyra Coleman |
 | 304 | 438 | Queenie Perry |
 | 305 | 435 | Ashleyy Netchert |
-| 306 | 432 | Nerdy Climber |
-| 307 | 432 | Lashaunda |
+| 306 | 434 | Lashaunda |
+| 307 | 432 | Nerdy Climber |
 | 308 | 430 | Tarnisha Neicy Jones |
 | 309 | 430 | Davionte DaeDae Hopson-Rodriguez |
 | 310 | 428 | Joana Thompson |
@@ -517,32 +517,32 @@
 | 509 | 266 | Rebecca Jackson |
 | 510 | 266 | Valerie Alexander |
 | 511 | 264 | Boldy Matchbuilder |
-| 512 | 264 | BonnieB |
-| 513 | 264 | Jessie N Michael Silvers |
+| 512 | 264 | Jessie N Michael Silvers |
+| 513 | 264 | BonnieB |
 | 514 | 263 | Kamilya Rembert |
 | 515 | 263 | Kimberly Linares Hernandez |
 | 516 | 261 | Angela Brown Babin |
-| 517 | 260 | Spotlight |
-| 518 | 260 | Alyssa Rae |
-| 519 | 260 | HS Arce |
+| 517 | 261 | Mahagony Small |
+| 518 | 260 | Spotlight |
+| 519 | 260 | Alyssa Rae |
 | 520 | 260 | Twisty Brickfit |
-| 521 | 260 | Slinky Swipe |
-| 522 | 257 | Adrian Harris |
-| 523 | 257 | Abigail Newman Sweet |
-| 524 | 256 | Dreamzzz |
-| 525 | 255 | James Bryant II |
-| 526 | 255 | Michelle Peters |
-| 527 | 255 | Mister Reid |
-| 528 | 254 | Brittany Sara Heldwein |
-| 529 | 253 | Kristie |
+| 521 | 260 | HS Arce |
+| 522 | 260 | Slinky Swipe |
+| 523 | 257 | Adrian Harris |
+| 524 | 257 | Abigail Newman Sweet |
+| 525 | 256 | Dreamzzz |
+| 526 | 255 | Mister Reid |
+| 527 | 255 | James Bryant II |
+| 528 | 255 | Michelle Peters |
+| 529 | 254 | Brittany Sara Heldwein |
 | 530 | 253 | lizlizliz |
-| 531 | 253 | crumb bumc |
-| 532 | 253 | Tasha |
-| 533 | 252 | Hardtohandle91 |
-| 534 | 252 | Kimberly Anderson |
-| 535 | 252 | Lazy Tiltpiece |
-| 536 | 252 | Mary Phillippi Blanton |
-| 537 | 251 | Mahagony Small |
+| 531 | 253 | Kristie |
+| 532 | 253 | crumb bumc |
+| 533 | 253 | Tasha |
+| 534 | 252 | Hardtohandle91 |
+| 535 | 252 | Kimberly Anderson |
+| 536 | 252 | Lazy Tiltpiece |
+| 537 | 252 | Mary Phillippi Blanton |
 | 538 | 250 | Jen Hallin |
 | 539 | 249 | Ciera Peace |
 | 540 | 249 | Fina McKinnis |
