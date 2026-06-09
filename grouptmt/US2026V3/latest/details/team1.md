@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:18:45 UTC
+# Standings for team1 as of 2026-06-09 11:19:21 UTC
 
 **Total Participants:** 2037
 
@@ -328,12 +328,12 @@
 | 320 | 367 | Smiley3000 |
 | 321 | 367 | Jayjay Rich |
 | 322 | 367 | Still Ten Tay |
-| 323 | 364 | Michele Simpson |
-| 324 | 363 | Richard Flex |
-| 325 | 363 | Christina Rebecca |
-| 326 | 362 | Denise B |
-| 327 | 362 | Mikayla |
-| 328 | 362 | Hasty Glidezone |
+| 323 | 364 | Hasty Glidezone |
+| 324 | 364 | Michele Simpson |
+| 325 | 363 | Richard Flex |
+| 326 | 363 | Christina Rebecca |
+| 327 | 362 | Denise B |
+| 328 | 362 | Mikayla |
 | 329 | 361 | Lakiesha Crawford |
 | 330 | 361 | John Staub |
 | 331 | 360 | Giggy Edgefit |
@@ -385,45 +385,45 @@
 | 377 | 307 | Wayne Savannah |
 | 378 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 379 | 304 | Kendra McIntyre |
-| 380 | 304 | Snippy Breaker |
-| 381 | 304 | Jolly Tilefall |
+| 380 | 304 | Jolly Tilefall |
+| 381 | 304 | Snippy Breaker |
 | 382 | 303 | kitten |
 | 383 | 300 | Amy Lynn Leifheit |
 | 384 | 300 | LaShaun Stinson |
-| 385 | 300 | Sharee Robinson |
-| 386 | 300 | Ketrell Bailey |
-| 387 | 300 | Sara Meri |
-| 388 | 298 | McKayla Owens |
-| 389 | 297 | Sammie Walker |
-| 390 | 296 | Nikki Hogan |
-| 391 | 295 | Mafio SO |
+| 385 | 300 | Ketrell Bailey |
+| 386 | 300 | Sharee Robinson |
+| 387 | 300 | Daddy |
+| 388 | 300 | Sara Meri |
+| 389 | 298 | McKayla Owens |
+| 390 | 297 | Sammie Walker |
+| 391 | 296 | Nikki Hogan |
 | 392 | 295 | Derrius SeriousLee Burks |
 | 393 | 295 | Maribel Vasquez |
-| 394 | 294 | kick it |
-| 395 | 293 | Tonya Lee Sanders |
-| 396 | 292 | Shameka Thrasher |
-| 397 | 292 | Teddy Davis |
+| 394 | 295 | Mafio SO |
+| 395 | 294 | kick it |
+| 396 | 293 | Tonya Lee Sanders |
+| 397 | 292 | Shameka Thrasher |
 | 398 | 292 | Alivia Dove |
-| 399 | 291 | Giggy Tower |
-| 400 | 291 | Brian Taylor |
-| 401 | 291 | Melissa D. M. Hornsby |
-| 402 | 290 | Jean Regis |
-| 403 | 288 | akosua |
+| 399 | 292 | Teddy Davis |
+| 400 | 291 | Giggy Tower |
+| 401 | 291 | Brian Taylor |
+| 402 | 291 | Melissa D. M. Hornsby |
+| 403 | 290 | Jean Regis |
 | 404 | 288 | SweetByNBy |
 | 405 | 288 | Lozuna |
-| 406 | 287 | Daniel Santana |
-| 407 | 287 | Stephen Glaze |
-| 408 | 286 | Lyn Reed |
-| 409 | 286 | De'Mear McKinney |
-| 410 | 285 | Loopy Block |
+| 406 | 288 | akosua |
+| 407 | 287 | Daniel Santana |
+| 408 | 287 | Stephen Glaze |
+| 409 | 286 | Lyn Reed |
+| 410 | 286 | De'Mear McKinney |
 | 411 | 285 | EvaLynn NeCole |
-| 412 | 284 | Faith Armone |
-| 413 | 283 | CJ Robinson |
+| 412 | 285 | Loopy Block |
+| 413 | 284 | Faith Armone |
 | 414 | 283 | Rachael R Gull |
-| 415 | 282 | Eric Spencer Whitaker |
-| 416 | 280 | Erica Charlise |
-| 417 | 280 | Boldy Liner |
-| 418 | 280 | Daddy |
+| 415 | 283 | CJ Robinson |
+| 416 | 282 | Eric Spencer Whitaker |
+| 417 | 280 | Erica Charlise |
+| 418 | 280 | Boldy Liner |
 | 419 | 280 | Teri Marie Clayton |
 | 420 | 279 | MACHETEEDDIE513 |
 | 421 | 279 | Chandler Magee |
@@ -431,11 +431,11 @@
 | 423 | 278 | Shanaa Germany Crittenden |
 | 424 | 277 | Bambi Johnson |
 | 425 | 276 | DaGuy |
-| 426 | 275 | Kelli Couture |
-| 427 | 275 | NewEve |
-| 428 | 275 | Falisa Bell |
-| 429 | 275 | Charlene Baltimore |
-| 430 | 275 | Tesiree Cray |
+| 426 | 275 | NewEve |
+| 427 | 275 | Falisa Bell |
+| 428 | 275 | Kelli Couture |
+| 429 | 275 | Tesiree Cray |
+| 430 | 275 | Charlene Baltimore |
 | 431 | 275 | Chris Sladoje |
 | 432 | 274 | Shakmar |
 | 433 | 274 | 신재호 |

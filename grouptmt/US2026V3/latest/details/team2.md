@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 11:18:45 UTC
+# Standings for team2 as of 2026-06-09 11:19:21 UTC
 
 **Total Participants:** 2475
 
@@ -42,7 +42,7 @@
 | 34 | 5114 | Rashanna Bockhorn |
 | 35 | 5104 | Spunky Clicker |
 | 36 | 4803 | Alexia Reagan |
-| 37 | 4590 | Logan Basham |
+| 37 | 4790 | Logan Basham |
 | 38 | 4307 | Quirky Catcher |
 | 39 | 4290 | DarkHorse |
 | 40 | 4279 | Matt Hardin |
@@ -197,9 +197,9 @@
 | 189 | 686 | Milad Arzani |
 | 190 | 684 | Amanda Sikes |
 | 191 | 682 | Wmk Rathbun |
-| 192 | 680 | DukeDino |
-| 193 | 675 | Glitzy Base |
-| 194 | 671 | SEH |
+| 192 | 681 | SEH |
+| 193 | 680 | DukeDino |
+| 194 | 675 | Glitzy Base |
 | 195 | 671 | Sandy Lynn |
 | 196 | 671 | Gloria May Shook |
 | 197 | 671 | Krystal Hummel |
@@ -906,8 +906,8 @@
 | 898 | 153 | Michael Saunders |
 | 899 | 153 | Matt Wylie |
 | 900 | 152 | Snazzy Smasher |
-| 901 | 152 | John Perkins |
-| 902 | 152 | Jillian Marie |
+| 901 | 152 | Jillian Marie |
+| 902 | 152 | John Perkins |
 | 903 | 151 | Michele Plunkett |
 | 904 | 151 | Nikki Sadler |
 | 905 | 151 | Amy Lea Hamilton |
@@ -921,9 +921,9 @@
 | 913 | 150 | Ashley Eneboe |
 | 914 | 150 | Boo Boo Binx |
 | 915 | 150 | Tina Kinney |
-| 916 | 149 | MjLovebug13 |
-| 917 | 149 | Dustin Bumbalough |
-| 918 | 149 | Silly Chiseler |
+| 916 | 149 | Silly Chiseler |
+| 917 | 149 | MjLovebug13 |
+| 918 | 149 | Dustin Bumbalough |
 | 919 | 149 | Kayley |
 | 920 | 148 | Valeri Bradley |
 | 921 | 148 | Crystal Robinson |
@@ -933,10 +933,10 @@
 | 925 | 147 | Chesney |
 | 926 | 147 | Teea Makensi Meyer |
 | 927 | 147 | KS Hengesbach |
-| 928 | 146 | Chad Atchley |
-| 929 | 146 | Jessica Veness-Toth |
-| 930 | 146 | Cool Cornerfall |
-| 931 | 146 | Jacy Pickett |
+| 928 | 146 | Cool Cornerfall |
+| 929 | 146 | Jacy Pickett |
+| 930 | 146 | Jessica Veness-Toth |
+| 931 | 146 | Chad Atchley |
 | 932 | 146 | AshleyM |
 | 933 | 146 | bozzycat |
 | 934 | 146 | Kimberly Brooks |
@@ -955,18 +955,18 @@
 | 947 | 143 | Sam Schwieso |
 | 948 | 143 | Beej Blake |
 | 949 | 142 | Bouncy Cluster |
-| 950 | 142 | Jeremy Daurbigny |
-| 951 | 142 | Jacob Corrales |
-| 952 | 141 | mee |
-| 953 | 140 | Jim Longnecker |
-| 954 | 140 | Nerdy Spinfit |
-| 955 | 140 | Daring Spinzone |
-| 956 | 140 | ReiRei |
-| 957 | 140 | Michelle Edgin Tranbarger |
-| 958 | 140 | Wendy Durrence Jones |
-| 959 | 139 | Witty Riser |
-| 960 | 139 | Jason Burris |
-| 961 | 139 | Amy |
+| 950 | 142 | Jacob Corrales |
+| 951 | 142 | Jeremy Daurbigny |
+| 952 | 142 | Amy |
+| 953 | 141 | mee |
+| 954 | 140 | Jim Longnecker |
+| 955 | 140 | Nerdy Spinfit |
+| 956 | 140 | Daring Spinzone |
+| 957 | 140 | ReiRei |
+| 958 | 140 | Michelle Edgin Tranbarger |
+| 959 | 140 | Wendy Durrence Jones |
+| 960 | 139 | Witty Riser |
+| 961 | 139 | Jason Burris |
 | 962 | 139 | sugabritches |
 | 963 | 139 | CAL1KAWS559 |
 | 964 | 139 | Samantha Smith |
