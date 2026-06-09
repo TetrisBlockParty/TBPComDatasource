@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 20:44:21 UTC
+# Standings for team4 as of 2026-06-09 20:44:45 UTC
 
 **Total Participants:** 2178
 
@@ -64,7 +64,7 @@
 | 56 | 2300 | Nick Graber |
 | 57 | 2255 | Elissa S-k |
 | 58 | 2225 | Jason Allen |
-| 59 | 2184 | Dana Abegil Lawas |
+| 59 | 2204 | Dana Abegil Lawas |
 | 60 | 2167 | Joseph Anthony Watkins |
 | 61 | 2131 | Michele Walker |
 | 62 | 2100 | Melissa Brown |
@@ -875,38 +875,38 @@
 | 867 | 146 | Joshua Hunt |
 | 868 | 146 | Lady |
 | 869 | 146 | Jasmine Marie |
-| 870 | 145 | Bren70 |
-| 871 | 145 | Melissa Gorman |
-| 872 | 145 | ButterfliesRFree |
-| 873 | 145 | Ern |
-| 874 | 145 | Hooti Smile |
+| 870 | 145 | Melissa Gorman |
+| 871 | 145 | ButterfliesRFree |
+| 872 | 145 | Ern |
+| 873 | 145 | Bren70 |
+| 874 | 145 | Kenny Nguyen |
 | 875 | 145 | Jeff Seymour |
-| 876 | 145 | Kenny Nguyen |
+| 876 | 145 | Hooti Smile |
 | 877 | 144 | Mar Mar |
 | 878 | 144 | GingaNinja |
-| 879 | 144 | Dizzy |
-| 880 | 143 | Rebekah Anne Macias |
-| 881 | 143 | Ben Figueroa |
-| 882 | 142 | Powder |
-| 883 | 142 | Natalie Ohrtman Strand |
-| 884 | 142 | Melissa Schwager |
-| 885 | 141 | Phredda Helene Gavornik |
+| 879 | 144 | Freddy-B |
+| 880 | 144 | Dizzy |
+| 881 | 143 | Rebekah Anne Macias |
+| 882 | 143 | Ben Figueroa |
+| 883 | 142 | Melissa Schwager |
+| 884 | 142 | Powder |
+| 885 | 142 | Natalie Ohrtman Strand |
 | 886 | 141 | Ginny |
-| 887 | 141 | Aaron Turner |
-| 888 | 141 | Audrianna Skaff |
-| 889 | 141 | Monica Shupe |
-| 890 | 140 | Aim Georgia Bros Scott |
-| 891 | 140 | Charissa W Walton |
-| 892 | 140 | Krista Diaz |
-| 893 | 140 | Heather Brown |
-| 894 | 140 | Willy Leung |
-| 895 | 140 | Jenn Wilson |
-| 896 | 139 | Lindsey DeRosa |
-| 897 | 139 | Clever Blockbuilder |
-| 898 | 139 | David Kirschner |
-| 899 | 139 | Freddy-B |
-| 900 | 139 | Jonelle Jacobs |
-| 901 | 139 | Erich EMac McIntosh |
+| 887 | 141 | Phredda Helene Gavornik |
+| 888 | 141 | Aaron Turner |
+| 889 | 141 | Audrianna Skaff |
+| 890 | 141 | Monica Shupe |
+| 891 | 140 | Aim Georgia Bros Scott |
+| 892 | 140 | Charissa W Walton |
+| 893 | 140 | Willy Leung |
+| 894 | 140 | Heather Brown |
+| 895 | 140 | Krista Diaz |
+| 896 | 140 | Jenn Wilson |
+| 897 | 139 | Lindsey DeRosa |
+| 898 | 139 | Clever Blockbuilder |
+| 899 | 139 | David Kirschner |
+| 900 | 139 | Erich EMac McIntosh |
+| 901 | 139 | Jonelle Jacobs |
 | 902 | 138 | Tammy Lasseigne |
 | 903 | 138 | Worley’s Wife |
 | 904 | 138 | Ami Ferguson |
