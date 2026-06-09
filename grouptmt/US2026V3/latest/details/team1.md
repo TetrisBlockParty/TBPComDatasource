@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:01:20 UTC
+# Standings for team1 as of 2026-06-09 10:02:43 UTC
 
 **Total Participants:** 2033
 
@@ -102,8 +102,8 @@
 | 94 | 1184 | Court Court |
 | 95 | 1175 | Ryan Meilleur |
 | 96 | 1170 | Jonathan Vee Jay |
-| 97 | 1169 | Amalie Newvine |
-| 98 | 1169 | Kimberly Hernandez |
+| 97 | 1169 | Kimberly Hernandez |
+| 98 | 1169 | Amalie Newvine |
 | 99 | 1164 | Tootsie Pop |
 | 100 | 1160 | KenpachisGirl |
 | 101 | 1124 | Jazzy Dashpiece |
@@ -191,12 +191,12 @@
 | 183 | 596 | Cj Gorman |
 | 184 | 590 | xXEKUNXx |
 | 185 | 584 | Novaa |
-| 186 | 583 | TT |
-| 187 | 583 | Block King |
+| 186 | 583 | Block King |
+| 187 | 583 | TT |
 | 188 | 581 | Michelle Titus |
 | 189 | 580 | Felicia Cain |
-| 190 | 577 | Randizzle |
-| 191 | 577 | Nina Davis |
+| 190 | 577 | Nina Davis |
+| 191 | 577 | Randizzle |
 | 192 | 576 | Jeffrey Barrows |
 | 193 | 574 | LaToya Chambers |
 | 194 | 574 | DaVonte' Cretter |
@@ -206,8 +206,8 @@
 | 198 | 565 | IThinkNot |
 | 199 | 563 | Wild Out Nai |
 | 200 | 562 | Yasmin Nakea Wright |
-| 201 | 559 | Sarah Clark |
-| 202 | 559 | Tobey Marberry |
+| 201 | 559 | Tobey Marberry |
+| 202 | 559 | Sarah Clark |
 | 203 | 555 | Dee McCool |
 | 204 | 553 | Sharon Cail |
 | 205 | 552 | Ty Øtg |
@@ -216,20 +216,20 @@
 | 208 | 539 | DellaLucretia Thomas |
 | 209 | 536 | SPNLover24 |
 | 210 | 529 | pooh |
-| 211 | 527 | MommaCia |
-| 212 | 527 | Ebony |
-| 213 | 527 | Tamara N Lee |
+| 211 | 527 | Tamara N Lee |
+| 212 | 527 | MommaCia |
+| 213 | 527 | Ebony |
 | 214 | 525 | Tishauna Virgo |
 | 215 | 523 | Christopher Dreamsareality McEachin |
 | 216 | 521 | Giggy Clusterer |
-| 217 | 520 | Spicy Risepiece |
-| 218 | 520 | Dulo |
+| 217 | 520 | Dulo |
+| 218 | 520 | Spicy Risepiece |
 | 219 | 519 | Slinky Party |
 | 220 | 515 | David Fuentes |
 | 221 | 511 | Dizzy Dropper |
-| 222 | 506 | Marie Wilson |
-| 223 | 506 | Tasha Jones |
-| 224 | 506 | Telisha Mims |
+| 222 | 506 | Telisha Mims |
+| 223 | 506 | Marie Wilson |
+| 224 | 506 | Tasha Jones |
 | 225 | 501 | Joey Albright |
 | 226 | 498 | Julian Dickens Jr. |
 | 227 | 496 | Andre Sanon |
@@ -238,20 +238,20 @@
 | 230 | 490 | Lashawn Wallace |
 | 231 | 487 | GrkGdess |
 | 232 | 484 | Rhonda Williams Warner |
-| 233 | 477 | Qwlonda Shirrell |
-| 234 | 476 | Roberta Lynn |
-| 235 | 476 | BULLSEYE |
-| 236 | 475 | Kenny 'Tailormade' Boyd |
-| 237 | 473 | Nicole Watson-Dixon |
-| 238 | 472 | Rachel Zimmerman |
-| 239 | 467 | Tina Mitchell |
-| 240 | 466 | Tessa Gaskin |
-| 241 | 465 | Natasha Rucker |
-| 242 | 462 | Jhonny Maii |
-| 243 | 462 | Jenna Renee |
-| 244 | 460 | Tanya Clayton |
-| 245 | 460 | Slinky Brickmatch |
-| 246 | 458 | Jimmie Makia |
+| 233 | 481 | Jimmie Makia |
+| 234 | 477 | Qwlonda Shirrell |
+| 235 | 476 | Roberta Lynn |
+| 236 | 476 | BULLSEYE |
+| 237 | 475 | Kenny 'Tailormade' Boyd |
+| 238 | 473 | Nicole Watson-Dixon |
+| 239 | 472 | Rachel Zimmerman |
+| 240 | 467 | Tina Mitchell |
+| 241 | 466 | Tessa Gaskin |
+| 242 | 465 | Natasha Rucker |
+| 243 | 462 | Jhonny Maii |
+| 244 | 462 | Jenna Renee |
+| 245 | 460 | Tanya Clayton |
+| 246 | 460 | Slinky Brickmatch |
 | 247 | 456 | Cachet A Ward |
 | 248 | 455 | Tamara Johnson-Carter |
 | 249 | 453 | JaClanDiah |
@@ -272,8 +272,8 @@
 | 264 | 439 | Kyra Coleman |
 | 265 | 439 | Asani CHumba |
 | 266 | 436 | Leebo Slice |
-| 267 | 435 | Tamika Fisher |
-| 268 | 435 | Clever Fitblock |
+| 267 | 435 | Clever Fitblock |
+| 268 | 435 | Tamika Fisher |
 | 269 | 434 | Choc |
 | 270 | 432 | Lashaunda |
 | 271 | 432 | Jessica Russell |
@@ -284,8 +284,8 @@
 | 276 | 426 | Chasem45 |
 | 277 | 423 | Dion Gray |
 | 278 | 421 | OhNoZer0 |
-| 279 | 420 | Nerdy Climber |
-| 280 | 420 | Jessica Carter |
+| 279 | 420 | Jessica Carter |
+| 280 | 420 | Nerdy Climber |
 | 281 | 420 | Larina Cherie Johnson |
 | 282 | 419 | Dai Bo |
 | 283 | 419 | Johnathan Deese |
@@ -350,19 +350,19 @@
 | 342 | 344 | Andy Rivera |
 | 343 | 343 | MamushiOh |
 | 344 | 343 | Heather Aurelia |
-| 345 | 341 | Jawaun Daniels |
-| 346 | 340 | Tipsy Linkroll |
-| 347 | 340 | Christian Pham |
-| 348 | 337 | Desire Rice |
-| 349 | 337 | HarleyJane |
-| 350 | 336 | Skippy |
-| 351 | 332 | Simone Bailey |
-| 352 | 330 | rls |
-| 353 | 330 | ♈️ Ariesbaby |
-| 354 | 330 | Crystal Boyd |
-| 355 | 329 | Bubbly Piececlear |
-| 356 | 327 | Jennah |
-| 357 | 324 | Amber Wilson |
+| 345 | 342 | Amber Wilson |
+| 346 | 341 | Jawaun Daniels |
+| 347 | 340 | Tipsy Linkroll |
+| 348 | 340 | Christian Pham |
+| 349 | 337 | Desire Rice |
+| 350 | 337 | HarleyJane |
+| 351 | 336 | Skippy |
+| 352 | 332 | Simone Bailey |
+| 353 | 330 | rls |
+| 354 | 330 | ♈️ Ariesbaby |
+| 355 | 330 | Crystal Boyd |
+| 356 | 329 | Bubbly Piececlear |
+| 357 | 327 | Jennah |
 | 358 | 318 | Nerdy Snapfall |
 | 359 | 317 | Jai |
 | 360 | 315 | KeeKee Williams |
