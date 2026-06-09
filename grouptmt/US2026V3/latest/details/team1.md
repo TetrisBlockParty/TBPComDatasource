@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:00:46 UTC
+# Standings for team1 as of 2026-06-09 10:01:20 UTC
 
 **Total Participants:** 2033
 
@@ -91,12 +91,12 @@
 | 83 | 1274 | Voice |
 | 84 | 1258 | Frisky Fallmatch |
 | 85 | 1243 | PandaPrincess |
-| 86 | 1217 | Catara Renae Oliver |
-| 87 | 1208 | Aviv Zehavi |
-| 88 | 1207 | La'Chae Nickole |
-| 89 | 1206 | Jason Mungin |
-| 90 | 1206 | BYM4L |
-| 91 | 1198 | Moomoo |
+| 86 | 1234 | Moomoo |
+| 87 | 1217 | Catara Renae Oliver |
+| 88 | 1208 | Aviv Zehavi |
+| 89 | 1207 | La'Chae Nickole |
+| 90 | 1206 | Jason Mungin |
+| 91 | 1206 | BYM4L |
 | 92 | 1187 | Dynah Gordon |
 | 93 | 1185 | Tiana Moore |
 | 94 | 1184 | Court Court |
@@ -158,25 +158,25 @@
 | 150 | 700 | Eugina Slater |
 | 151 | 694 | Anthony Washington |
 | 152 | 693 | Andi McGreevy |
-| 153 | 692 | Chirpy Corner |
-| 154 | 686 | W.A. Simpson |
-| 155 | 685 | Byron Mario Cawthon |
-| 156 | 685 | Ebony Waynes-robinson |
-| 157 | 677 | Chantelle Lee |
-| 158 | 672 | Antonia Wyche |
-| 159 | 671 | Gotcha |
-| 160 | 668 | Katherine Short |
-| 161 | 668 | JaszyBadd |
-| 162 | 667 | Karebear |
-| 163 | 662 | Gael Quintana |
-| 164 | 659 | Snappy Link |
-| 165 | 657 | Ann White |
-| 166 | 649 | sha |
-| 167 | 646 | TeeMaster Barber IsLyfe |
-| 168 | 645 | Marcheta Cervantez |
-| 169 | 645 | Keke Ferguson |
-| 170 | 643 | Ottison Dianna |
-| 171 | 633 | Rackemwillie34 |
+| 153 | 693 | Rackemwillie34 |
+| 154 | 692 | Chirpy Corner |
+| 155 | 686 | W.A. Simpson |
+| 156 | 685 | Byron Mario Cawthon |
+| 157 | 685 | Ebony Waynes-robinson |
+| 158 | 677 | Chantelle Lee |
+| 159 | 672 | Antonia Wyche |
+| 160 | 671 | Gotcha |
+| 161 | 668 | Katherine Short |
+| 162 | 668 | JaszyBadd |
+| 163 | 667 | Karebear |
+| 164 | 662 | Gael Quintana |
+| 165 | 659 | Snappy Link |
+| 166 | 657 | Ann White |
+| 167 | 649 | sha |
+| 168 | 646 | TeeMaster Barber IsLyfe |
+| 169 | 645 | Marcheta Cervantez |
+| 170 | 645 | Keke Ferguson |
+| 171 | 643 | Ottison Dianna |
 | 172 | 630 | Bambi Love |
 | 173 | 629 | Charletha Williams |
 | 174 | 623 | Abraham Espaillat |
@@ -351,64 +351,64 @@
 | 343 | 343 | MamushiOh |
 | 344 | 343 | Heather Aurelia |
 | 345 | 341 | Jawaun Daniels |
-| 346 | 340 | Christian Pham |
-| 347 | 340 | Tipsy Linkroll |
+| 346 | 340 | Tipsy Linkroll |
+| 347 | 340 | Christian Pham |
 | 348 | 337 | Desire Rice |
 | 349 | 337 | HarleyJane |
 | 350 | 336 | Skippy |
 | 351 | 332 | Simone Bailey |
-| 352 | 330 | Crystal Boyd |
+| 352 | 330 | rls |
 | 353 | 330 | ♈️ Ariesbaby |
-| 354 | 330 | rls |
+| 354 | 330 | Crystal Boyd |
 | 355 | 329 | Bubbly Piececlear |
 | 356 | 327 | Jennah |
 | 357 | 324 | Amber Wilson |
 | 358 | 318 | Nerdy Snapfall |
 | 359 | 317 | Jai |
 | 360 | 315 | KeeKee Williams |
-| 361 | 314 | Tonya McElroy |
+| 361 | 314 | Rayya Kiser |
 | 362 | 314 | Chilly Wipebuilder |
 | 363 | 314 | Tay |
-| 364 | 314 | Rayya Kiser |
-| 365 | 312 | Shanns |
-| 366 | 311 | Cynthia Bradley |
-| 367 | 308 | MindlessMic |
-| 368 | 308 | Darrel K Pemberton |
-| 369 | 307 | Wayne Savannah |
-| 370 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 371 | 304 | Kendra McIntyre |
-| 372 | 304 | Jolly Tilefall |
-| 373 | 304 | Snippy Breaker |
-| 374 | 303 | kitten |
-| 375 | 300 | LaShaun Stinson |
-| 376 | 300 | Ketrell Bailey |
-| 377 | 300 | Amy Lynn Leifheit |
-| 378 | 300 | Sara Meri |
-| 379 | 300 | Sharee Robinson |
-| 380 | 299 | Smiley Clearpiece |
-| 381 | 298 | McKayla Owens |
-| 382 | 296 | Nikki Hogan |
-| 383 | 295 | Mafio SO |
-| 384 | 295 | Derrius SeriousLee Burks |
-| 385 | 295 | Maribel Vasquez |
-| 386 | 293 | Tonya Lee Sanders |
-| 387 | 293 | Brenda Malachi-butler |
+| 364 | 314 | Brenda Malachi-butler |
+| 365 | 314 | Tonya McElroy |
+| 366 | 312 | Shanns |
+| 367 | 311 | Cynthia Bradley |
+| 368 | 308 | MindlessMic |
+| 369 | 308 | Darrel K Pemberton |
+| 370 | 307 | Wayne Savannah |
+| 371 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 372 | 304 | Snippy Breaker |
+| 373 | 304 | Kendra McIntyre |
+| 374 | 304 | Jolly Tilefall |
+| 375 | 303 | kitten |
+| 376 | 300 | Amy Lynn Leifheit |
+| 377 | 300 | Sharee Robinson |
+| 378 | 300 | Ketrell Bailey |
+| 379 | 300 | LaShaun Stinson |
+| 380 | 300 | Sara Meri |
+| 381 | 299 | Smiley Clearpiece |
+| 382 | 298 | McKayla Owens |
+| 383 | 296 | Nikki Hogan |
+| 384 | 295 | Mafio SO |
+| 385 | 295 | Derrius SeriousLee Burks |
+| 386 | 295 | Maribel Vasquez |
+| 387 | 293 | Tonya Lee Sanders |
 | 388 | 292 | Alivia Dove |
 | 389 | 292 | Shameka Thrasher |
-| 390 | 291 | Brian Taylor |
+| 390 | 291 | Melissa D. M. Hornsby |
 | 391 | 291 | Giggy Tower |
-| 392 | 291 | Melissa D. M. Hornsby |
-| 393 | 288 | Lozuna |
-| 394 | 288 | akosua |
-| 395 | 287 | Stephen Glaze |
+| 392 | 291 | Brian Taylor |
+| 393 | 290 | Jae Thompson-Tyus |
+| 394 | 288 | Lozuna |
+| 395 | 288 | akosua |
 | 396 | 287 | Daniel Santana |
-| 397 | 286 | Lyn Reed |
+| 397 | 287 | Stephen Glaze |
 | 398 | 286 | De'Mear McKinney |
-| 399 | 285 | Loopy Block |
-| 400 | 285 | Jae Thompson-Tyus |
+| 399 | 286 | Lyn Reed |
+| 400 | 285 | Loopy Block |
 | 401 | 284 | Faith Armone |
-| 402 | 283 | Rachael R Gull |
-| 403 | 283 | CJ Robinson |
+| 402 | 283 | CJ Robinson |
+| 403 | 283 | Rachael R Gull |
 | 404 | 283 | izzybella |
 | 405 | 282 | Eric Spencer Whitaker |
 | 406 | 280 | Boldy Liner |
@@ -690,12 +690,12 @@
 | 682 | 162 | Speedy Stacky |
 | 683 | 162 | Peppy Wipeblock |
 | 684 | 161 | Devron Reedy |
-| 685 | 160 | Donnie Withthebody |
-| 686 | 160 | Loony Clearer |
-| 687 | 160 | Kesha Brady |
-| 688 | 160 | Spotlight |
-| 689 | 160 | Cheeky Twistpiece |
-| 690 | 160 | Christina Singleton |
+| 685 | 161 | Christina Singleton |
+| 686 | 160 | Donnie Withthebody |
+| 687 | 160 | Loony Clearer |
+| 688 | 160 | Kesha Brady |
+| 689 | 160 | Spotlight |
+| 690 | 160 | Cheeky Twistpiece |
 | 691 | 160 | Duncan Timothy |
 | 692 | 159 | Yvette McGee |
 | 693 | 159 | Frances Davis |
