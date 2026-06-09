@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:16:45 UTC
+# Standings for team1 as of 2026-06-09 23:17:23 UTC
 
 **Total Participants:** 2132
 
@@ -32,7 +32,7 @@
 | 24 | 5134 | Pdubbl3 |
 | 25 | 4795 | Tekedra Wilson |
 | 26 | 4621 | Chandler Spencer |
-| 27 | 4195 | Chummy Combo |
+| 27 | 4200 | Chummy Combo |
 | 28 | 4168 | Kkbk |
 | 29 | 3927 | Mary Jenkins |
 | 30 | 3833 | Jo NewmindNewfocus Bell |
@@ -40,8 +40,8 @@
 | 32 | 3652 | Juan Kandiss Escobedo Irwin |
 | 33 | 3363 | Sha Harris |
 | 34 | 3301 | Yolanda McDonald |
-| 35 | 3120 | Brian Stackhouse |
-| 36 | 3048 | Weeze |
+| 35 | 3180 | Weeze |
+| 36 | 3120 | Brian Stackhouse |
 | 37 | 2875 | COSA303 |
 | 38 | 2800 | Rosey |
 | 39 | 2619 | Zappy Brickline |
@@ -103,8 +103,8 @@
 | 95 | 1299 | Jason Mungin |
 | 96 | 1293 | Voice |
 | 97 | 1261 | Rolanda Williams |
-| 98 | 1256 | BYM4L |
-| 99 | 1256 | Tameka Jones |
+| 98 | 1256 | Tameka Jones |
+| 99 | 1256 | BYM4L |
 | 100 | 1246 | Robbie Cheeseman |
 | 101 | 1217 | Catara Renae Oliver |
 | 102 | 1217 | G Ah Mayes |
@@ -113,9 +113,9 @@
 | 105 | 1210 | FallDee |
 | 106 | 1208 | Aviv Zehavi |
 | 107 | 1208 | KenpachisGirl |
-| 108 | 1189 | Kimberly Hernandez |
-| 109 | 1170 | Jonathan Vee Jay |
-| 110 | 1169 | Amalie Newvine |
+| 108 | 1201 | Amalie Newvine |
+| 109 | 1189 | Kimberly Hernandez |
+| 110 | 1170 | Jonathan Vee Jay |
 | 111 | 1164 | Tootsie Pop |
 | 112 | 1149 | Jazzy Dashpiece |
 | 113 | 1145 | ELM |
@@ -204,11 +204,11 @@
 | 196 | 656 | Jamal Itzjusmall Chambers |
 | 197 | 654 | Sarah Clark |
 | 198 | 652 | Trina Greenwood |
-| 199 | 646 | TeeMaster Barber IsLyfe |
-| 200 | 640 | Spicy Risepiece |
-| 201 | 639 | Block King |
-| 202 | 638 | Bambi Love |
-| 203 | 632 | Po Marley |
+| 199 | 647 | Po Marley |
+| 200 | 646 | TeeMaster Barber IsLyfe |
+| 201 | 640 | Spicy Risepiece |
+| 202 | 639 | Block King |
+| 203 | 638 | Bambi Love |
 | 204 | 630 | SyTheEvilGenius1 |
 | 205 | 622 | LaToya Chambers |
 | 206 | 619 | Tammye Turner |
@@ -431,10 +431,10 @@
 | 423 | 320 | Shanns |
 | 424 | 318 | Nerdy Snapfall |
 | 425 | 316 | Brittany Fells |
-| 426 | 314 | Tay |
-| 427 | 314 | Giggy Tower |
-| 428 | 314 | Tonya McElroy |
-| 429 | 314 | Alivia Dove |
+| 426 | 315 | Alivia Dove |
+| 427 | 314 | Tay |
+| 428 | 314 | Giggy Tower |
+| 429 | 314 | Tonya McElroy |
 | 430 | 313 | Dizzy Dashy |
 | 431 | 312 | Daris Swearington |
 | 432 | 311 | Cynthia Bradley |
@@ -1037,49 +1037,49 @@
 | 1029 | 112 | GamerQueenDS |
 | 1030 | 112 | Caitlin Michele |
 | 1031 | 111 | GoldStarJo |
-| 1032 | 111 | Sharon Lynn |
-| 1033 | 111 | Deihja Weaver |
+| 1032 | 111 | Deihja Weaver |
+| 1033 | 111 | Jeremy Hendrix |
 | 1034 | 111 | star |
-| 1035 | 111 | Happy Blockpiece |
-| 1036 | 111 | Jeremy Hendrix |
+| 1035 | 111 | Sharon Lynn |
+| 1036 | 111 | Happy Blockpiece |
 | 1037 | 110 | Felicia Woods |
-| 1038 | 110 | jac |
-| 1039 | 110 | Antoinette Kidd |
-| 1040 | 110 | Nichole Horsley-Conn |
-| 1041 | 110 | Elizabeth AW |
-| 1042 | 109 | Damien Fonseca |
-| 1043 | 109 | Melvin Simpson |
-| 1044 | 109 | Lively Rollpiece |
-| 1045 | 109 | Bohdi |
+| 1038 | 110 | Antoinette Kidd |
+| 1039 | 110 | jac |
+| 1040 | 110 | Elizabeth AW |
+| 1041 | 110 | Nichole Horsley-Conn |
+| 1042 | 109 | Lively Rollpiece |
+| 1043 | 109 | Damien Fonseca |
+| 1044 | 109 | Bohdi |
+| 1045 | 109 | Melvin Simpson |
 | 1046 | 109 | Haakuu |
-| 1047 | 109 | NickyJay Jones |
-| 1048 | 109 | Tip318 |
-| 1049 | 109 | Ounquan Wright |
-| 1050 | 108 | Flashy Stacker |
+| 1047 | 109 | Ounquan Wright |
+| 1048 | 109 | NickyJay Jones |
+| 1049 | 109 | Tip318 |
+| 1050 | 108 | Kat |
 | 1051 | 108 | Audrey Gestring |
-| 1052 | 108 | b |
-| 1053 | 108 | Mike Hromowyk |
-| 1054 | 108 | Tori Carter |
-| 1055 | 108 | Kat |
-| 1056 | 107 | LaQuita White |
-| 1057 | 107 | Janice Mowel Curtiss |
-| 1058 | 107 | Andrew Harris |
-| 1059 | 107 | Alize |
-| 1060 | 107 | Corbin Henry |
-| 1061 | 106 | Elizabeth Hopkins |
-| 1062 | 106 | Lively Strikesnap |
-| 1063 | 106 | Samona Mcculler |
-| 1064 | 106 | Elizabeth Green |
-| 1065 | 106 | Tez Mays |
-| 1066 | 106 | Lawreniesha Burkley |
-| 1067 | 106 | NataAllDay |
-| 1068 | 105 | Angie Lebron |
-| 1069 | 105 | Michael Smith |
-| 1070 | 105 | Jack Mehof |
-| 1071 | 105 | Ja'mice Nelson |
-| 1072 | 105 | Maria |
-| 1073 | 105 | Nikkizz |
-| 1074 | 105 | Alicia Lei |
+| 1052 | 108 | Flashy Stacker |
+| 1053 | 108 | b |
+| 1054 | 108 | Mike Hromowyk |
+| 1055 | 108 | Tori Carter |
+| 1056 | 108 | Alicia Lei |
+| 1057 | 107 | Corbin Henry |
+| 1058 | 107 | Alize |
+| 1059 | 107 | Andrew Harris |
+| 1060 | 107 | LaQuita White |
+| 1061 | 107 | Janice Mowel Curtiss |
+| 1062 | 106 | Elizabeth Hopkins |
+| 1063 | 106 | Lively Strikesnap |
+| 1064 | 106 | Samona Mcculler |
+| 1065 | 106 | Elizabeth Green |
+| 1066 | 106 | Tez Mays |
+| 1067 | 106 | Lawreniesha Burkley |
+| 1068 | 106 | NataAllDay |
+| 1069 | 105 | Angie Lebron |
+| 1070 | 105 | Michael Smith |
+| 1071 | 105 | Jack Mehof |
+| 1072 | 105 | Ja'mice Nelson |
+| 1073 | 105 | Maria |
+| 1074 | 105 | Nikkizz |
 | 1075 | 104 | Ahvae Lee |
 | 1076 | 104 | midnightxtoker |
 | 1077 | 104 | Diamond Nicole |
