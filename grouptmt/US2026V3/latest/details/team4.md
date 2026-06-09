@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 09:14:46 UTC
+# Standings for team4 as of 2026-06-09 09:15:20 UTC
 
 **Total Participants:** 2088
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 25106 | Hanan Hana |
+| 1 | 25133 | Hanan Hana |
 | 2 | 23500 | Jessica Sheehan |
 | 3 | 20982 | Lisa Cullum |
 | 4 | 18624 | Lyza |
@@ -1088,8 +1088,8 @@
 | 1080 | 91 | Hethyheth |
 | 1081 | 90 | Monique Anne Edwards |
 | 1082 | 90 | Krissy Smith |
-| 1083 | 90 | Snappy Glidebuilder |
-| 1084 | 90 | Nancy McCalla Abercrombie |
+| 1083 | 90 | Nancy McCalla Abercrombie |
+| 1084 | 90 | Snappy Glidebuilder |
 | 1085 | 90 | Littleshark |
 | 1086 | 90 | Melissa Elizabeth |
 | 1087 | 90 | Mystica |
@@ -1119,34 +1119,34 @@
 | 1111 | 86 | Chelsea Leigh Busch |
 | 1112 | 86 | Bruce Hobbs |
 | 1113 | 86 | Kami |
-| 1114 | 85 | Sherri Lorent |
-| 1115 | 85 | Giggly Rollpiece |
-| 1116 | 85 | Natalie Ohrtman Strand |
+| 1114 | 85 | Diane Obungu |
+| 1115 | 85 | Sherri Lorent |
+| 1116 | 85 | Giggly Rollpiece |
 | 1117 | 85 | MelodiousDeez |
-| 1118 | 85 | Mike Artis |
-| 1119 | 85 | RustyMaster40 |
-| 1120 | 85 | Dannie Ems |
-| 1121 | 85 | Diane Obungu |
-| 1122 | 84 | Cassie N Danica Flaherty |
-| 1123 | 84 | Stacy Brown |
-| 1124 | 84 | Red |
-| 1125 | 84 | Redhead girl |
+| 1118 | 85 | RustyMaster40 |
+| 1119 | 85 | Natalie Ohrtman Strand |
+| 1120 | 85 | Mike Artis |
+| 1121 | 85 | Dannie Ems |
+| 1122 | 84 | Redhead girl |
+| 1123 | 84 | Red |
+| 1124 | 84 | Stacy Brown |
+| 1125 | 84 | Jumpy Brickline |
 | 1126 | 84 | Wayne Hendricks |
-| 1127 | 84 | T-Dogger |
-| 1128 | 84 | Jumpy Brickline |
+| 1127 | 84 | Cassie N Danica Flaherty |
+| 1128 | 84 | T-Dogger |
 | 1129 | 83 | Bubbly Shatter |
 | 1130 | 83 | Pap337 |
-| 1131 | 83 | Dapper Tiltpiece |
-| 1132 | 83 | Peter Babineaux Jr |
+| 1131 | 83 | Peter Babineaux Jr |
+| 1132 | 83 | Masiso |
 | 1133 | 83 | Ciara Brown |
-| 1134 | 83 | Masiso |
-| 1135 | 83 | Goofy Strike |
+| 1134 | 83 | Goofy Strike |
+| 1135 | 83 | Dapper Tiltpiece |
 | 1136 | 82 | Brenda Mueller |
-| 1137 | 82 | EpicBarista |
-| 1138 | 82 | crazy lazy |
+| 1137 | 82 | crazy lazy |
+| 1138 | 82 | EpicBarista |
 | 1139 | 82 | Sara Cobb |
-| 1140 | 82 | Cflixer |
-| 1141 | 82 | JuicyJay |
+| 1140 | 82 | JuicyJay |
+| 1141 | 82 | Cflixer |
 | 1142 | 82 | aubz |
 | 1143 | 82 | Giggly Gridzone |
 | 1144 | 82 | Chris Norman |
@@ -1158,67 +1158,67 @@
 | 1150 | 81 | Buggy Julks |
 | 1151 | 81 | Cinnanin |
 | 1152 | 81 | Millie Hoskins |
-| 1153 | 81 | Michelle Clark |
-| 1154 | 81 | Kimberly Mae Watkins |
-| 1155 | 80 | Tommy Thomas |
-| 1156 | 80 | Melissa Derby Rood |
+| 1153 | 81 | Kimberly Mae Watkins |
+| 1154 | 81 | Michelle Clark |
+| 1155 | 80 | Lizxxx |
+| 1156 | 80 | Melissa Robinson |
 | 1157 | 80 | MamaBear3 |
 | 1158 | 80 | CM |
-| 1159 | 80 | Keisha Petway |
-| 1160 | 80 | Marvin Mack |
-| 1161 | 80 | Tracey Hudspath |
-| 1162 | 80 | Bumpy Morris |
-| 1163 | 80 | Pebbles Gonzalez |
-| 1164 | 80 | Donya' Johnson |
-| 1165 | 80 | Gualberto Ramirez |
-| 1166 | 80 | Hasty Slamdrop |
-| 1167 | 80 | Yam My |
-| 1168 | 80 | Melissa Robinson |
-| 1169 | 80 | Swanky Matchfit |
-| 1170 | 79 | Alicia |
-| 1171 | 79 | Joshua Powers |
+| 1159 | 80 | Melissa Derby Rood |
+| 1160 | 80 | Tommy Thomas |
+| 1161 | 80 | Bumpy Morris |
+| 1162 | 80 | Marvin Mack |
+| 1163 | 80 | Tracey Hudspath |
+| 1164 | 80 | Pebbles Gonzalez |
+| 1165 | 80 | Donya' Johnson |
+| 1166 | 80 | Gualberto Ramirez |
+| 1167 | 80 | Hasty Slamdrop |
+| 1168 | 80 | Yam My |
+| 1169 | 80 | Keisha Petway |
+| 1170 | 80 | Swanky Matchfit |
+| 1171 | 79 | Mone DyTorrion Zyan Lotts |
 | 1172 | 79 | Goddatbat |
-| 1173 | 79 | Mone DyTorrion Zyan Lotts |
-| 1174 | 79 | Jenny Torres |
-| 1175 | 79 | Blessedmama |
+| 1173 | 79 | Jenny Torres |
+| 1174 | 79 | Alicia |
+| 1175 | 79 | Joshua Powers |
 | 1176 | 79 | Lindsey DeRosa |
-| 1177 | 79 | CRsLady |
-| 1178 | 79 | Joe Win |
-| 1179 | 79 | James Moore |
+| 1177 | 79 | James Moore |
+| 1178 | 79 | CRsLady |
+| 1179 | 79 | Joe Win |
 | 1180 | 79 | Amber Torres |
-| 1181 | 78 | Zappy Matchgrid |
-| 1182 | 78 | Spicy Gridder |
-| 1183 | 78 | AVA |
-| 1184 | 78 | Jacklyn Martinez |
-| 1185 | 78 | Doris Wastak |
-| 1186 | 78 | Lizxxx |
-| 1187 | 78 | Vergie Michael |
-| 1188 | 78 | Ja'Net Riley |
+| 1181 | 79 | Blessedmama |
+| 1182 | 78 | Christopher Lindsey |
+| 1183 | 78 | Vergie Michael |
+| 1184 | 78 | AVA |
+| 1185 | 78 | Spicy Gridder |
+| 1186 | 78 | Jacklyn Martinez |
+| 1187 | 78 | Zappy Matchgrid |
+| 1188 | 78 | Doris Wastak |
 | 1189 | 78 | Jade Alley |
-| 1190 | 78 | Christopher Lindsey |
-| 1191 | 77 | Barbara Mays |
-| 1192 | 77 | Purple Queen |
-| 1193 | 77 | Monte Smith |
-| 1194 | 77 | Snippy Fitblock |
-| 1195 | 77 | Tray Day |
-| 1196 | 76 | Jillian Marie |
-| 1197 | 76 | Brandy Martin-Lowery |
-| 1198 | 76 | Snazzy Shatterfit |
-| 1199 | 76 | Adi Patterson |
-| 1200 | 76 | Courtney Miller |
-| 1201 | 76 | Lashae |
-| 1202 | 76 | Ksawn Collymore-bey Collymore-bey |
-| 1203 | 76 | Glitzy Rotate |
-| 1204 | 75 | Kay |
-| 1205 | 75 | h_chloe10 |
-| 1206 | 75 | Mighty Spinfit |
-| 1207 | 75 | Jeremy Fisher |
-| 1208 | 75 | ŁųŁų |
-| 1209 | 75 | Gary Moore |
-| 1210 | 75 | Marco A. Sandoval |
-| 1211 | 74 | Chirpy Corner |
-| 1212 | 74 | Kristie McFarland |
-| 1213 | 74 | Shane Tate |
+| 1190 | 78 | Ja'Net Riley |
+| 1191 | 77 | Monte Smith |
+| 1192 | 77 | Barbara Mays |
+| 1193 | 77 | Purple Queen |
+| 1194 | 77 | Tray Day |
+| 1195 | 77 | Snippy Fitblock |
+| 1196 | 76 | Glitzy Rotate |
+| 1197 | 76 | Snazzy Shatterfit |
+| 1198 | 76 | Jillian Marie |
+| 1199 | 76 | Brandy Martin-Lowery |
+| 1200 | 76 | Adi Patterson |
+| 1201 | 76 | Courtney Miller |
+| 1202 | 76 | Lashae |
+| 1203 | 76 | Ksawn Collymore-bey Collymore-bey |
+| 1204 | 75 | Jeremy Fisher |
+| 1205 | 75 | ŁųŁų |
+| 1206 | 75 | Gary Moore |
+| 1207 | 75 | Marco A. Sandoval |
+| 1208 | 75 | Kay |
+| 1209 | 75 | h_chloe10 |
+| 1210 | 75 | Mighty Spinfit |
+| 1211 | 74 | Shane Tate |
+| 1212 | 74 | Chirpy Corner |
+| 1213 | 74 | Kristie McFarland |
 | 1214 | 74 | Danielle Porter |
 | 1215 | 74 | Brittany |
 | 1216 | 74 | Donna Howard |

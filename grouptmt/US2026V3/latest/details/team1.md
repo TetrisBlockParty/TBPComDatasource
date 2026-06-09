@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:14:46 UTC
+# Standings for team1 as of 2026-06-09 09:15:20 UTC
 
 **Total Participants:** 2022
 
@@ -429,56 +429,56 @@
 | 421 | 270 | Jean Regis |
 | 422 | 269 | Aihpos |
 | 423 | 269 | Kristine Marie Palmer |
-| 424 | 267 | BabyCakes |
-| 425 | 267 | C Lo Green |
+| 424 | 268 | C Lo Green |
+| 425 | 267 | BabyCakes |
 | 426 | 266 | Rebecca Jackson |
 | 427 | 265 | Jae Thompson-Tyus |
 | 428 | 264 | Boldy Matchbuilder |
 | 429 | 262 | Denisa Amazon Clark |
 | 430 | 261 | LaTonya Myers |
-| 431 | 260 | Peppy Towerbuilder |
-| 432 | 260 | Alyssa Rae |
+| 431 | 261 | Brittany Fells |
+| 432 | 260 | Peppy Towerbuilder |
 | 433 | 260 | HS Arce |
-| 434 | 259 | Stacy Nicole |
-| 435 | 259 | Slinky Clearzone |
-| 436 | 258 | Kimberly Linares Hernandez |
-| 437 | 257 | Twisty Brickfit |
-| 438 | 256 | Jessie N Michael Silvers |
-| 439 | 256 | TBABYJ |
-| 440 | 256 | Juan Alvarez |
-| 441 | 255 | Emily Wright |
-| 442 | 255 | Michelle Peters |
-| 443 | 255 | Mister Reid |
-| 444 | 254 | Glitzy Patternline |
-| 445 | 254 | Asha Langford |
-| 446 | 254 | kick it |
-| 447 | 253 | SweetByNBy |
-| 448 | 253 | Tasha |
-| 449 | 253 | FunTime |
-| 450 | 252 | Amy Lynn Leifheit |
-| 451 | 250 | Mighty Dropper |
-| 452 | 249 | Sammie Walker |
+| 434 | 260 | Alyssa Rae |
+| 435 | 259 | Stacy Nicole |
+| 436 | 259 | Slinky Clearzone |
+| 437 | 258 | Kimberly Linares Hernandez |
+| 438 | 257 | Twisty Brickfit |
+| 439 | 256 | Jessie N Michael Silvers |
+| 440 | 256 | TBABYJ |
+| 441 | 256 | Juan Alvarez |
+| 442 | 255 | Emily Wright |
+| 443 | 255 | Michelle Peters |
+| 444 | 255 | Mister Reid |
+| 445 | 254 | Glitzy Patternline |
+| 446 | 254 | Asha Langford |
+| 447 | 254 | kick it |
+| 448 | 253 | SweetByNBy |
+| 449 | 253 | Tasha |
+| 450 | 253 | FunTime |
+| 451 | 252 | Amy Lynn Leifheit |
+| 452 | 250 | Mighty Dropper |
 | 453 | 249 | Nate Myers |
-| 454 | 248 | LuckyStar |
-| 455 | 248 | Melissa Olvera |
+| 454 | 249 | Sammie Walker |
+| 455 | 248 | LuckyStar |
 | 456 | 248 | Stephanie L Jeffries Moultrie |
-| 457 | 247 | SceneGreenz Wali |
-| 458 | 247 | Poppy Buildout |
-| 459 | 247 | Abigail Newman Sweet |
-| 460 | 247 | Mahagony Small |
-| 461 | 247 | MACHETEEDDIE513 |
-| 462 | 246 | Latore Maxie |
-| 463 | 245 | Brittnay Wright |
-| 464 | 244 | Teddy Davis |
-| 465 | 244 | Saranoh13 |
-| 466 | 244 | Slinky Snapbuilder |
-| 467 | 244 | Perky Pusher |
-| 468 | 244 | Brittanie Wardlow |
-| 469 | 242 | Ryan Runyan |
+| 457 | 248 | Melissa Olvera |
+| 458 | 247 | SceneGreenz Wali |
+| 459 | 247 | Poppy Buildout |
+| 460 | 247 | Abigail Newman Sweet |
+| 461 | 247 | Mahagony Small |
+| 462 | 247 | MACHETEEDDIE513 |
+| 463 | 246 | Latore Maxie |
+| 464 | 245 | Brittnay Wright |
+| 465 | 244 | Teddy Davis |
+| 466 | 244 | Saranoh13 |
+| 467 | 244 | Brittanie Wardlow |
+| 468 | 244 | Slinky Snapbuilder |
+| 469 | 244 | Perky Pusher |
 | 470 | 242 | Tamika Rocheteau |
-| 471 | 241 | Brittany Fells |
-| 472 | 240 | Malcolm Stanley |
-| 473 | 240 | SherylU |
+| 471 | 242 | Ryan Runyan |
+| 472 | 240 | SherylU |
+| 473 | 240 | Malcolm Stanley |
 | 474 | 240 | Velma Jones |
 | 475 | 239 | Manda Allen |
 | 476 | 239 | Guy Incognito |

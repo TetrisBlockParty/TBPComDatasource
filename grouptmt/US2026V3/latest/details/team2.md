@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 09:14:46 UTC
+# Standings for team2 as of 2026-06-09 09:15:20 UTC
 
 **Total Participants:** 2451
 
@@ -64,7 +64,7 @@
 | 56 | 2979 | Angie BBlock |
 | 57 | 2827 | Helen Thomas |
 | 58 | 2749 | Rose Schaffner-Kibler |
-| 59 | 2562 | Beverly Lynn Mills |
+| 59 | 2642 | Beverly Lynn Mills |
 | 60 | 2556 | Andrew Weissenborn |
 | 61 | 2500 | Jennifer Knott |
 | 62 | 2442 | Suki Kaur |
@@ -282,12 +282,12 @@
 | 274 | 516 | Kristi Chestnut |
 | 275 | 516 | Frilly Dashfit |
 | 276 | 514 | Kaycie Shaffer |
-| 277 | 510 | Samantha Carman |
-| 278 | 510 | Nicole Plummer |
-| 279 | 508 | Dawnypooh |
-| 280 | 508 | Tara |
-| 281 | 507 | SilentBuffalo |
-| 282 | 505 | Jenny |
+| 277 | 514 | Jenny |
+| 278 | 510 | Samantha Carman |
+| 279 | 510 | Nicole Plummer |
+| 280 | 508 | Dawnypooh |
+| 281 | 508 | Tara |
+| 282 | 507 | SilentBuffalo |
 | 283 | 505 | Judy Long |
 | 284 | 505 | Melissa Nash |
 | 285 | 501 | Lindsey Ford |
