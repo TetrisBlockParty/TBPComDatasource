@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:14:43 UTC
+# Standings for team1 as of 2026-06-09 11:15:20 UTC
 
 **Total Participants:** 2037
 
@@ -39,7 +39,7 @@
 | 31 | 3543 | Juan Kandiss Escobedo Irwin |
 | 32 | 3301 | Yolanda McDonald |
 | 33 | 3163 | Sha Harris |
-| 34 | 2813 | Brian Stackhouse |
+| 34 | 2823 | Brian Stackhouse |
 | 35 | 2755 | COSA303 |
 | 36 | 2649 | Weeze |
 | 37 | 2619 | Zappy Brickline |
@@ -141,8 +141,8 @@
 | 133 | 830 | No_Other_Choice |
 | 134 | 817 | Cathy Young |
 | 135 | 815 | Spunky Edgefit |
-| 136 | 808 | Cee Emm |
-| 137 | 806 | Plucky Slamdrop |
+| 136 | 808 | Plucky Slamdrop |
+| 137 | 808 | Cee Emm |
 | 138 | 799 | Shontanese Adams |
 | 139 | 793 | Rackemwillie34 |
 | 140 | 775 | Big Tina |
@@ -333,21 +333,21 @@
 | 325 | 363 | Christina Rebecca |
 | 326 | 362 | Mikayla |
 | 327 | 362 | Denise B |
-| 328 | 361 | Lakiesha Crawford |
+| 328 | 362 | Hasty Glidezone |
 | 329 | 361 | John Staub |
-| 330 | 360 | Giggy Edgefit |
-| 331 | 358 | Analiza Ramos |
-| 332 | 358 | Hasty Glidezone |
+| 330 | 361 | Lakiesha Crawford |
+| 331 | 360 | Giggy Edgefit |
+| 332 | 358 | Analiza Ramos |
 | 333 | 357 | Giggly Tiltbuilder |
 | 334 | 356 | Haley Bell |
 | 335 | 355 | Tajuana Juana'Cee Coleman |
 | 336 | 353 | Bbyunicorn |
-| 337 | 352 | Ann Chung |
-| 338 | 352 | Brave Clearbuilder |
+| 337 | 352 | Brave Clearbuilder |
+| 338 | 352 | Ann Chung |
 | 339 | 350 | Ashley MyBeauty Daniels |
 | 340 | 349 | Sade Goodwine |
-| 341 | 348 | Dennis J Herron II |
-| 342 | 348 | Frisky Fall |
+| 341 | 348 | Frisky Fall |
+| 342 | 348 | Dennis J Herron II |
 | 343 | 347 | Erin Sabol |
 | 344 | 344 | Andy Rivera |
 | 345 | 343 | izzybella |
