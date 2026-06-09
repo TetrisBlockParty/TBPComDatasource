@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:10:44 UTC
+# Standings for team1 as of 2026-06-09 19:11:21 UTC
 
 **Total Participants:** 2103
 
@@ -221,7 +221,7 @@
 | 213 | 575 | David Fuentes |
 | 214 | 574 | DaVonte' Cretter |
 | 215 | 573 | Nobles Brandon |
-| 216 | 572 | Elizabeth Vega Coreano |
+| 216 | 573 | Elizabeth Vega Coreano |
 | 217 | 567 | Jazzy Fireflighters |
 | 218 | 565 | IThinkNot |
 | 219 | 563 | Wild Out Nai |
@@ -478,49 +478,49 @@
 | 470 | 278 | Amy Villalpando |
 | 471 | 278 | Latore Maxie |
 | 472 | 275 | Tonia Ramos |
-| 473 | 275 | Chris Sladoje |
+| 473 | 275 | Falisa Bell |
 | 474 | 275 | Nona Harriel |
-| 475 | 275 | Falisa Bell |
+| 475 | 275 | Chris Sladoje |
 | 476 | 274 | FunTime |
 | 477 | 274 | 신재호 |
-| 478 | 273 | Slinky Snapbuilder |
-| 479 | 273 | Vera Beckford |
-| 480 | 273 | Brittnay Wright |
-| 481 | 272 | Zany Breaker |
-| 482 | 272 | MonaSparks |
-| 483 | 271 | Bambam |
-| 484 | 270 | SnazzyIvy |
-| 485 | 269 | Perky Pusher |
+| 478 | 274 | Christi Walker Patton |
+| 479 | 273 | Slinky Snapbuilder |
+| 480 | 273 | Vera Beckford |
+| 481 | 273 | Brittnay Wright |
+| 482 | 272 | Zany Breaker |
+| 483 | 272 | MonaSparks |
+| 484 | 271 | Bambam |
+| 485 | 270 | SnazzyIvy |
 | 486 | 269 | Stephanie L Jeffries Moultrie |
 | 487 | 269 | Aihpos |
-| 488 | 268 | Giddy Staggerpiece |
-| 489 | 268 | Jenni Hardman |
-| 490 | 267 | Bubbly Slammer |
-| 491 | 267 | Kimmie Gargano |
-| 492 | 266 | Rebecca Jackson |
-| 493 | 266 | Valerie Alexander |
-| 494 | 265 | Matthieu Pistone |
-| 495 | 265 | Christi Walker Patton |
-| 496 | 264 | Boldy Matchbuilder |
-| 497 | 263 | Kamilya Rembert |
-| 498 | 262 | Denisa Amazon Clark |
-| 499 | 261 | Jelyfish |
-| 500 | 261 | LaTonya Myers |
-| 501 | 260 | Slinky Swipe |
-| 502 | 260 | HS Arce |
-| 503 | 260 | Alyssa Rae |
-| 504 | 259 | Slinky Clearzone |
-| 505 | 259 | Mighty Dropper |
-| 506 | 259 | BonnieB |
-| 507 | 258 | Breezy Catcher |
+| 488 | 269 | Perky Pusher |
+| 489 | 269 | Shalya Terry |
+| 490 | 268 | Jenni Hardman |
+| 491 | 268 | Giddy Staggerpiece |
+| 492 | 267 | Kimmie Gargano |
+| 493 | 267 | Bubbly Slammer |
+| 494 | 266 | Rebecca Jackson |
+| 495 | 266 | Valerie Alexander |
+| 496 | 265 | Matthieu Pistone |
+| 497 | 264 | Boldy Matchbuilder |
+| 498 | 263 | Kamilya Rembert |
+| 499 | 262 | Denisa Amazon Clark |
+| 500 | 261 | Jelyfish |
+| 501 | 261 | LaTonya Myers |
+| 502 | 260 | Slinky Swipe |
+| 503 | 260 | HS Arce |
+| 504 | 260 | Alyssa Rae |
+| 505 | 259 | Slinky Clearzone |
+| 506 | 259 | Mighty Dropper |
+| 507 | 259 | BonnieB |
 | 508 | 258 | Kimberly Linares Hernandez |
-| 509 | 257 | Sarah Steckbauer |
-| 510 | 257 | Adrian Harris |
-| 511 | 257 | Twisty Brickfit |
-| 512 | 256 | Dreamzzz |
-| 513 | 256 | Jack Vlasak |
-| 514 | 256 | Jessie N Michael Silvers |
-| 515 | 255 | Shalya Terry |
+| 509 | 258 | Breezy Catcher |
+| 510 | 257 | Sarah Steckbauer |
+| 511 | 257 | Adrian Harris |
+| 512 | 257 | Twisty Brickfit |
+| 513 | 256 | Dreamzzz |
+| 514 | 256 | Jack Vlasak |
+| 515 | 256 | Jessie N Michael Silvers |
 | 516 | 255 | Michelle Peters |
 | 517 | 255 | Mister Reid |
 | 518 | 254 | Brittany Sara Heldwein |
@@ -550,20 +550,20 @@
 | 542 | 239 | Guy Incognito |
 | 543 | 239 | Meshia |
 | 544 | 237 | Bold Clusterer |
-| 545 | 237 | Cynthia Cruell |
-| 546 | 237 | Tanisha Taylor |
-| 547 | 236 | Soubletzy |
-| 548 | 235 | Tracy Feyler |
+| 545 | 237 | Dede Tate |
+| 546 | 237 | Cynthia Cruell |
+| 547 | 237 | Tanisha Taylor |
+| 548 | 236 | Soubletzy |
 | 549 | 235 | nameno |
-| 550 | 235 | Daring Blockclear |
-| 551 | 235 | Kortney Adams |
-| 552 | 235 | Juan Lewis |
-| 553 | 234 | Chris Nelson |
-| 554 | 233 | Kala Miller |
-| 555 | 233 | Holly Baker |
-| 556 | 232 | Monica Fields |
-| 557 | 232 | meatballs |
-| 558 | 231 | Dede Tate |
+| 550 | 235 | Tracy Feyler |
+| 551 | 235 | Daring Blockclear |
+| 552 | 235 | Kortney Adams |
+| 553 | 235 | Juan Lewis |
+| 554 | 234 | Chris Nelson |
+| 555 | 233 | Kala Miller |
+| 556 | 233 | Holly Baker |
+| 557 | 232 | Monica Fields |
+| 558 | 232 | meatballs |
 | 559 | 231 | toxictonic92 |
 | 560 | 231 | TieMs BHughez |
 | 561 | 231 | Lazy Tiltpiece |
