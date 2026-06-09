@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:30:47 UTC
+# Standings for team1 as of 2026-06-09 21:31:21 UTC
 
 **Total Participants:** 2113
 
@@ -57,7 +57,7 @@
 | 49 | 2135 | Brian Bohanon II |
 | 50 | 2076 | April Inboden |
 | 51 | 2060 | Cherry Rose |
-| 52 | 2012 | D'Andra Stewart |
+| 52 | 2022 | D'Andra Stewart |
 | 53 | 1993 | JoJo |
 | 54 | 1939 | Corey Cawthon |
 | 55 | 1931 | Ceilo Marie |
@@ -300,10 +300,10 @@
 | 292 | 455 | Tamika Fisher |
 | 293 | 454 | win |
 | 294 | 452 | Kenny MrOnethousand Peck |
-| 295 | 447 | Johnathan Deese |
-| 296 | 447 | Zippy Tilefall |
-| 297 | 444 | StingerD |
-| 298 | 444 | Tessa Felice Hill |
+| 295 | 447 | Tessa Felice Hill |
+| 296 | 447 | Johnathan Deese |
+| 297 | 447 | Zippy Tilefall |
+| 298 | 444 | StingerD |
 | 299 | 444 | Kevin M. McGhee Jr |
 | 300 | 440 | Larina Cherie Johnson |
 | 301 | 439 | Asani CHumba |
@@ -646,42 +646,42 @@
 | 638 | 208 | Bella |
 | 639 | 207 | Candy Lee |
 | 640 | 207 | Courtney Cicoria |
-| 641 | 206 | squints |
-| 642 | 205 | Treneil Daffin |
-| 643 | 205 | Tramaine Crockrum |
-| 644 | 205 | Sarah Swietlicki - Lopez |
-| 645 | 204 | Dorian Griffin |
-| 646 | 204 | Cynda Cyn |
-| 647 | 204 | Rosalind Chatman |
-| 648 | 204 | Comedian Gdane |
-| 649 | 204 | Marlynnnnn |
-| 650 | 204 | Renee Marshall |
-| 651 | 203 | Ivery Lee Grays Jr. |
-| 652 | 202 | Hyper Blocky |
+| 641 | 207 | Rachel Renae Bettis |
+| 642 | 206 | squints |
+| 643 | 205 | Treneil Daffin |
+| 644 | 205 | Tramaine Crockrum |
+| 645 | 205 | Sarah Swietlicki - Lopez |
+| 646 | 204 | Dorian Griffin |
+| 647 | 204 | Cynda Cyn |
+| 648 | 204 | Rosalind Chatman |
+| 649 | 204 | Comedian Gdane |
+| 650 | 204 | Marlynnnnn |
+| 651 | 204 | Renee Marshall |
+| 652 | 203 | Ivery Lee Grays Jr. |
 | 653 | 202 | Marbama |
-| 654 | 202 | Alexandrla Smith |
-| 655 | 202 | Don Ray Mc |
-| 656 | 202 | Messy Live |
+| 654 | 202 | Hyper Blocky |
+| 655 | 202 | Alexandrla Smith |
+| 656 | 202 | Don Ray Mc |
 | 657 | 202 | Nutty Fallmatch |
-| 658 | 202 | Frankey Chi |
-| 659 | 200 | Jimmy Shannon |
-| 660 | 200 | Kyle Conley |
-| 661 | 200 | Joseph Vs Cap |
-| 662 | 200 | Nisha Sunshine Jenkins |
-| 663 | 200 | Victoria Smith |
-| 664 | 199 | TY Newme Batts |
-| 665 | 199 | Anastasia |
+| 658 | 202 | Messy Live |
+| 659 | 202 | Frankey Chi |
+| 660 | 200 | Jimmy Shannon |
+| 661 | 200 | Kyle Conley |
+| 662 | 200 | Joseph Vs Cap |
+| 663 | 200 | Nisha Sunshine Jenkins |
+| 664 | 200 | Victoria Smith |
+| 665 | 199 | TY Newme Batts |
 | 666 | 199 | Erica Campbell-Stillings |
-| 667 | 198 | Ashlie Mo |
-| 668 | 198 | Shannon Carriger |
-| 669 | 198 | Rhianna Dinki Austin |
-| 670 | 198 | Spicy Shatterblock |
-| 671 | 198 | Darrelle Short |
-| 672 | 197 | Dana Hawes |
+| 667 | 199 | Anastasia |
+| 668 | 198 | Ashlie Mo |
+| 669 | 198 | Shannon Carriger |
+| 670 | 198 | Rhianna Dinki Austin |
+| 671 | 198 | Spicy Shatterblock |
+| 672 | 198 | Darrelle Short |
 | 673 | 197 | Jas |
-| 674 | 197 | krd |
-| 675 | 197 | Undeniable Williams |
-| 676 | 197 | Rachel Renae Bettis |
+| 674 | 197 | Dana Hawes |
+| 675 | 197 | krd |
+| 676 | 197 | Undeniable Williams |
 | 677 | 196 | Stephanie Ellis |
 | 678 | 196 | whatever |
 | 679 | 194 | Twisty Cascadeclear |
@@ -1810,7 +1810,7 @@
 | 1802 | 20 | Joseph Mclaughlin |
 | 1803 | 20 | Anthony D Holmes |
 | 1804 | 20 | LongLive Peace |
-| 1805 | 20 | Terry Golatte |
+| 1805 | 20 | Tipsy Builderline |
 | 1806 | 20 | Dora Greer |
 | 1807 | 20 | Scoots |
 | 1808 | 20 | Tiffany Sherman |
@@ -1818,12 +1818,12 @@
 | 1810 | 20 | Cherise Thomas |
 | 1811 | 20 | DRIFTER |
 | 1812 | 20 | Peachy Pusher |
-| 1813 | 20 | Tipsy Builderline |
-| 1814 | 20 | Bryttani GoingPlaces Latimer |
-| 1815 | 20 | Jimel Fraser |
-| 1816 | 20 | Shannon |
-| 1817 | 20 | Breezy Pivoty |
-| 1818 | 20 | Stefan Flick Man |
+| 1813 | 20 | Terry Golatte |
+| 1814 | 20 | Jimel Fraser |
+| 1815 | 20 | Bryttani GoingPlaces Latimer |
+| 1816 | 20 | Stefan Flick Man |
+| 1817 | 20 | Shannon |
+| 1818 | 20 | Breezy Pivoty |
 | 1819 | 20 | Nikki Vaughn |
 | 1820 | 20 | Andrea Watts |
 | 1821 | 20 | Melody Means |
@@ -1832,35 +1832,35 @@
 | 1824 | 19 | Zondria Barnes |
 | 1825 | 19 | kate |
 | 1826 | 19 | Trauma Loc |
-| 1827 | 19 | Rosanna Ringold |
-| 1828 | 19 | sceloh |
-| 1829 | 19 | Toya Draine |
-| 1830 | 19 | Let Them |
-| 1831 | 19 | Mrs . Candy |
-| 1832 | 18 | Dominick Towns |
+| 1827 | 19 | sceloh |
+| 1828 | 19 | Rosanna Ringold |
+| 1829 | 19 | Joanne Davis Cunningham |
+| 1830 | 19 | Toya Draine |
+| 1831 | 19 | Let Them |
+| 1832 | 19 | Mrs . Candy |
 | 1833 | 18 | Raynell Mcfrazier |
-| 1834 | 18 | Cheeky Tiltbuilder |
-| 1835 | 18 | Naudia Hampton |
+| 1834 | 18 | Dominick Towns |
+| 1835 | 18 | Cheeky Tiltbuilder |
 | 1836 | 18 | Daring Twistfit |
-| 1837 | 18 | MURLWORLD |
-| 1838 | 18 | Saucy Linkgrid |
-| 1839 | 18 | Anissa Williams |
-| 1840 | 18 | Laugh N Learn Tutoring |
-| 1841 | 18 | Una |
-| 1842 | 18 | Marie SheReady Harris |
-| 1843 | 18 | Yeshanna Nicholson |
-| 1844 | 18 | Poppy Pivot |
-| 1845 | 18 | Joanne Davis Cunningham |
-| 1846 | 18 | Andrea Jones |
-| 1847 | 18 | Aliceia Gee |
+| 1837 | 18 | Naudia Hampton |
+| 1838 | 18 | MURLWORLD |
+| 1839 | 18 | Saucy Linkgrid |
+| 1840 | 18 | Anissa Williams |
+| 1841 | 18 | Aliceia Gee |
+| 1842 | 18 | Laugh N Learn Tutoring |
+| 1843 | 18 | Andrea Jones |
+| 1844 | 18 | Una |
+| 1845 | 18 | Poppy Pivot |
+| 1846 | 18 | Marie SheReady Harris |
+| 1847 | 18 | Yeshanna Nicholson |
 | 1848 | 18 | Keke |
-| 1849 | 17 | Wacky Riserpiece |
-| 1850 | 17 | Susie Miranda |
-| 1851 | 17 | Demetria Thompson |
-| 1852 | 17 | QueenJerelene Figero |
-| 1853 | 17 | Frisky Cascadefit |
-| 1854 | 17 | Coy Williams |
-| 1855 | 17 | Party Pandad 3 |
+| 1849 | 17 | Party Pandad 3 |
+| 1850 | 17 | Wacky Riserpiece |
+| 1851 | 17 | Coy Williams |
+| 1852 | 17 | Frisky Cascadefit |
+| 1853 | 17 | QueenJerelene Figero |
+| 1854 | 17 | Demetria Thompson |
+| 1855 | 17 | Susie Miranda |
 | 1856 | 17 | Giggly Bouncer |
 | 1857 | 17 | Sue Boyce |
 | 1858 | 17 | Daron Montgomery |
