@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:50:22 UTC
+# Standings for team2 as of 2026-06-09 07:50:45 UTC
 
 **Total Participants:** 2444
 
@@ -448,14 +448,14 @@
 | 440 | 314 | Aurora June Brock |
 | 441 | 313 | Jerry L Morales |
 | 442 | 313 | Dad |
-| 443 | 312 | Patria Osuoha |
-| 444 | 312 | Sam |
-| 445 | 311 | Brittany Mathis |
-| 446 | 310 | Melmel |
-| 447 | 310 | Zappy Liney |
-| 448 | 309 | Elliott Mikila |
+| 443 | 312 | Sassy Twistbuilder |
+| 444 | 312 | Patria Osuoha |
+| 445 | 312 | Sam |
+| 446 | 311 | Brittany Mathis |
+| 447 | 310 | Melmel |
+| 448 | 310 | Zappy Liney |
 | 449 | 309 | Carolyn McNaughton |
-| 450 | 309 | Sassy Twistbuilder |
+| 450 | 309 | Elliott Mikila |
 | 451 | 309 | Martha Lynn Wiggins |
 | 452 | 308 | Jennifer McCloskey Launder |
 | 453 | 306 | Spunky Linkblock |
@@ -2259,8 +2259,8 @@
 | 2251 | 15 | Denise Amaro |
 | 2252 | 15 | Amlisi |
 | 2253 | 15 | Nana |
-| 2254 | 15 | Gloria Hyita |
-| 2255 | 15 | Andrea Lauren Smith |
+| 2254 | 15 | Andrea Lauren Smith |
+| 2255 | 15 | Gloria Hyita |
 | 2256 | 15 | Aud |
 | 2257 | 15 | Miles McMahon |
 | 2258 | 15 | Becki Lynne Corinthos |
@@ -2305,70 +2305,70 @@
 | 2297 | 11 | Crystal Lawson |
 | 2298 | 11 | Kathy May |
 | 2299 | 11 | Silly Strikerbuilder |
-| 2300 | 11 | Snippy Blockfall |
-| 2301 | 11 | Amanda Nicholson |
-| 2302 | 11 | Barbara Hagger |
-| 2303 | 11 | Catspjamas |
-| 2304 | 11 | Aspen Smith |
-| 2305 | 11 | Sassy Swiper |
-| 2306 | 11 | Forever Young |
-| 2307 | 11 | Nini |
-| 2308 | 11 | Kala Lily |
-| 2309 | 11 | cole |
-| 2310 | 11 | Charles Chase |
-| 2311 | 11 | Emily Ackley |
-| 2312 | 10 | Laura Rake |
-| 2313 | 10 | Alan Baumgardner |
-| 2314 | 10 | Jimberlee Akuna |
-| 2315 | 10 | Jami Arne |
-| 2316 | 10 | ANNIE CHAOS |
-| 2317 | 10 | Stephanie Hill |
-| 2318 | 10 | Heather Turner George |
-| 2319 | 10 | Ashley Anderson |
-| 2320 | 10 | Mike Clements |
-| 2321 | 10 | Tiffany Townsend |
-| 2322 | 10 | Ray Wilhelm |
-| 2323 | 10 | Hunnie Nelson |
-| 2324 | 10 | Melissa Metcalf |
-| 2325 | 10 | TaLana Ortley |
-| 2326 | 10 | Dandy Fill |
-| 2327 | 10 | Daniela Solis |
-| 2328 | 10 | Chief10 |
-| 2329 | 10 | Hasty Linker |
-| 2330 | 10 | Breezy Ivy |
-| 2331 | 10 | shywizard |
-| 2332 | 10 | Bold Blockline |
-| 2333 | 10 | Lacey Johnson |
-| 2334 | 10 | Jennifer Bell |
-| 2335 | 10 | Lisa Schwobe |
-| 2336 | 10 | Twisty Snapclear |
-| 2337 | 10 | Celeste Duet |
-| 2338 | 10 | Pamela Kay |
-| 2339 | 10 | foxxiebby |
-| 2340 | 9 | Snazzy Cascadezone |
-| 2341 | 9 | yep |
-| 2342 | 9 | Lori Loup |
-| 2343 | 9 | MANonFIRE |
-| 2344 | 9 | Samantha Sipe |
-| 2345 | 9 | Bethany Gerber |
-| 2346 | 9 | Happy Matchclear |
-| 2347 | 9 | Crystal Greene |
-| 2348 | 9 | lsbella |
-| 2349 | 9 | Cheery Striker |
-| 2350 | 9 | Miranda Krentz |
-| 2351 | 9 | Damein Fox |
-| 2352 | 9 | Mandy Griffin |
+| 2300 | 11 | kenzieeeee |
+| 2301 | 11 | Snippy Blockfall |
+| 2302 | 11 | Amanda Nicholson |
+| 2303 | 11 | Barbara Hagger |
+| 2304 | 11 | Catspjamas |
+| 2305 | 11 | Aspen Smith |
+| 2306 | 11 | Sassy Swiper |
+| 2307 | 11 | Forever Young |
+| 2308 | 11 | Nini |
+| 2309 | 11 | Kala Lily |
+| 2310 | 11 | cole |
+| 2311 | 11 | Charles Chase |
+| 2312 | 11 | Emily Ackley |
+| 2313 | 10 | Laura Rake |
+| 2314 | 10 | Alan Baumgardner |
+| 2315 | 10 | Jimberlee Akuna |
+| 2316 | 10 | Jami Arne |
+| 2317 | 10 | ANNIE CHAOS |
+| 2318 | 10 | Stephanie Hill |
+| 2319 | 10 | Heather Turner George |
+| 2320 | 10 | Ashley Anderson |
+| 2321 | 10 | Mike Clements |
+| 2322 | 10 | Tiffany Townsend |
+| 2323 | 10 | Ray Wilhelm |
+| 2324 | 10 | Hunnie Nelson |
+| 2325 | 10 | Melissa Metcalf |
+| 2326 | 10 | TaLana Ortley |
+| 2327 | 10 | Dandy Fill |
+| 2328 | 10 | Daniela Solis |
+| 2329 | 10 | Chief10 |
+| 2330 | 10 | Hasty Linker |
+| 2331 | 10 | Breezy Ivy |
+| 2332 | 10 | shywizard |
+| 2333 | 10 | Bold Blockline |
+| 2334 | 10 | Lacey Johnson |
+| 2335 | 10 | Jennifer Bell |
+| 2336 | 10 | Lisa Schwobe |
+| 2337 | 10 | Twisty Snapclear |
+| 2338 | 10 | Celeste Duet |
+| 2339 | 10 | Pamela Kay |
+| 2340 | 10 | foxxiebby |
+| 2341 | 9 | Snazzy Cascadezone |
+| 2342 | 9 | yep |
+| 2343 | 9 | Lori Loup |
+| 2344 | 9 | MANonFIRE |
+| 2345 | 9 | Samantha Sipe |
+| 2346 | 9 | Bethany Gerber |
+| 2347 | 9 | lsbella |
+| 2348 | 9 | Happy Matchclear |
+| 2349 | 9 | Crystal Greene |
+| 2350 | 9 | Cheery Striker |
+| 2351 | 9 | Miranda Krentz |
+| 2352 | 9 | Damein Fox |
 | 2353 | 9 | Becca Kimbro |
-| 2354 | 9 | Naomi Christiansen |
-| 2355 | 9 | Cordillia Barela |
-| 2356 | 9 | Karen Wilgus Ferguson |
-| 2357 | 8 | Crystal Alexander |
-| 2358 | 8 | Sergio Saucedo |
-| 2359 | 8 | Mitch |
-| 2360 | 8 | Elizabeth Miller |
-| 2361 | 8 | kenzieeeee |
+| 2354 | 9 | Mandy Griffin |
+| 2355 | 9 | Naomi Christiansen |
+| 2356 | 9 | Cordillia Barela |
+| 2357 | 9 | Karen Wilgus Ferguson |
+| 2358 | 8 | Crystal Alexander |
+| 2359 | 8 | Jumpy Twistslam |
+| 2360 | 8 | Mitch |
+| 2361 | 8 | Elizabeth Miller |
 | 2362 | 8 | Perky Party |
-| 2363 | 8 | Jumpy Twistslam |
+| 2363 | 8 | Sergio Saucedo |
 | 2364 | 8 | Zippy Balance |
 | 2365 | 8 | Whitney Welch |
 | 2366 | 8 | Dreamy Gridzone |
