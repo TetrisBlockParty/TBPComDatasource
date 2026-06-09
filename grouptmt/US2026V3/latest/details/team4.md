@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 14:12:44 UTC
+# Standings for team4 as of 2026-06-09 14:13:21 UTC
 
 **Total Participants:** 2115
 
@@ -1740,9 +1740,9 @@
 | 1732 | 27 | Aleah Briann |
 | 1733 | 27 | Chris Abney |
 | 1734 | 27 | samismia |
-| 1735 | 26 | Lacey Decker |
-| 1736 | 26 | Ivyleata McFadden |
-| 1737 | 26 | Love GH |
+| 1735 | 26 | MzB3tyBoop |
+| 1736 | 26 | Love GH |
+| 1737 | 26 | Ivyleata McFadden |
 | 1738 | 26 | Shakita Moore-Bernard |
 | 1739 | 26 | Air1 |
 | 1740 | 26 | AJscooter |
@@ -1750,75 +1750,75 @@
 | 1742 | 26 | Breezy Striker |
 | 1743 | 26 | Von |
 | 1744 | 26 | Crafty Clicker |
-| 1745 | 26 | MzB3tyBoop |
-| 1746 | 26 | Funky Riser |
-| 1747 | 26 | Cheery Liney |
+| 1745 | 26 | Funky Riser |
+| 1746 | 26 | Cheery Liney |
+| 1747 | 26 | Snippy Shatterclear |
 | 1748 | 26 | Crystal Swensen |
 | 1749 | 26 | Bekka Walker |
-| 1750 | 26 | Glenda Zulueta Steed |
-| 1751 | 26 | Rebecca Rae Reed |
-| 1752 | 26 | Rob$GEE |
-| 1753 | 26 | Kevin Lyles |
-| 1754 | 26 | Dee Modest |
-| 1755 | 25 | Beto Vidaurri |
-| 1756 | 25 | Daisy Jaramillo |
-| 1757 | 25 | p11 |
-| 1758 | 25 | Julia Gareis |
-| 1759 | 25 | Chad N Tori Steiner |
-| 1760 | 25 | Joyell Mersiel |
-| 1761 | 25 | chapis |
-| 1762 | 25 | Joseph Gay |
-| 1763 | 25 | Sarah Sherman |
-| 1764 | 25 | Gellix |
-| 1765 | 25 | Crafty Slamdrop |
-| 1766 | 25 | djwil |
-| 1767 | 25 | Meghan Trice Theodore |
-| 1768 | 25 | MoCa |
-| 1769 | 25 | Giggy Mover |
-| 1770 | 24 | Flashy Wipebuilder |
-| 1771 | 24 | Lively Setter |
-| 1772 | 24 | Tameka Harrison |
-| 1773 | 24 | Kriss Owens Uptegrove |
-| 1774 | 24 | Heather Crowe |
-| 1775 | 24 | Chelsea Pigg |
-| 1776 | 24 | BreOunna Zonye Littleton |
-| 1777 | 24 | Sandra Magaly Rivera Medina |
-| 1778 | 24 | Katiana Gonzalez |
-| 1779 | 24 | Gma526 |
-| 1780 | 24 | Rio Rumble |
-| 1781 | 24 | Snappy Blockzone |
-| 1782 | 24 | Margarita Santana |
-| 1783 | 24 | Hannah White |
-| 1784 | 24 | Breezy Clusterfit |
-| 1785 | 24 | Speedy Caster |
-| 1786 | 23 | Bonniee Lee |
-| 1787 | 23 | Crafty Builderfit |
-| 1788 | 23 | Glitzy Linkbuilder |
-| 1789 | 23 | Mystie Malotte |
-| 1790 | 23 | Frank Brown |
-| 1791 | 23 | Peachy Tiltpiece |
-| 1792 | 23 | Jozette Smalarz |
+| 1750 | 26 | Lacey Decker |
+| 1751 | 26 | Glenda Zulueta Steed |
+| 1752 | 26 | Rebecca Rae Reed |
+| 1753 | 26 | Rob$GEE |
+| 1754 | 26 | Kevin Lyles |
+| 1755 | 26 | Dee Modest |
+| 1756 | 25 | Julia Gareis |
+| 1757 | 25 | chapis |
+| 1758 | 25 | Daisy Jaramillo |
+| 1759 | 25 | MoCa |
+| 1760 | 25 | djwil |
+| 1761 | 25 | p11 |
+| 1762 | 25 | Chad N Tori Steiner |
+| 1763 | 25 | Meghan Trice Theodore |
+| 1764 | 25 | Joyell Mersiel |
+| 1765 | 25 | Giggy Mover |
+| 1766 | 25 | Beto Vidaurri |
+| 1767 | 25 | Joseph Gay |
+| 1768 | 25 | Sarah Sherman |
+| 1769 | 25 | Gellix |
+| 1770 | 25 | Crafty Slamdrop |
+| 1771 | 24 | Kriss Owens Uptegrove |
+| 1772 | 24 | Katiana Gonzalez |
+| 1773 | 24 | Lively Setter |
+| 1774 | 24 | Tameka Harrison |
+| 1775 | 24 | Heather Crowe |
+| 1776 | 24 | Chelsea Pigg |
+| 1777 | 24 | BreOunna Zonye Littleton |
+| 1778 | 24 | Sandra Magaly Rivera Medina |
+| 1779 | 24 | Flashy Wipebuilder |
+| 1780 | 24 | Gma526 |
+| 1781 | 24 | Rio Rumble |
+| 1782 | 24 | Snappy Blockzone |
+| 1783 | 24 | Margarita Santana |
+| 1784 | 24 | Hannah White |
+| 1785 | 24 | Breezy Clusterfit |
+| 1786 | 24 | Speedy Caster |
+| 1787 | 23 | Bonniee Lee |
+| 1788 | 23 | Crafty Builderfit |
+| 1789 | 23 | Glitzy Linkbuilder |
+| 1790 | 23 | Mystie Malotte |
+| 1791 | 23 | Frank Brown |
+| 1792 | 23 | Peachy Tiltpiece |
 | 1793 | 23 | Katie Stewart |
-| 1794 | 23 | Bryce McGee |
+| 1794 | 23 | Jozette Smalarz |
 | 1795 | 23 | Monika Webb |
-| 1796 | 23 | Loony Brickzone |
-| 1797 | 23 | Carole Dyment Westcott |
+| 1796 | 23 | Bryce McGee |
+| 1797 | 23 | Loony Brickzone |
 | 1798 | 23 | Lisa Jo Merwin |
-| 1799 | 23 | Littlebird |
-| 1800 | 22 | Giggly Roll |
-| 1801 | 22 | Rooney |
-| 1802 | 22 | Brittany Lloyd |
-| 1803 | 22 | Snippy Shatterclear |
-| 1804 | 22 | James Balderas |
-| 1805 | 22 | Diana Torres |
-| 1806 | 22 | Bold Tumbler |
-| 1807 | 22 | Queen |
-| 1808 | 22 | McScrubby |
-| 1809 | 22 | Clever Blockfall |
+| 1799 | 23 | Carole Dyment Westcott |
+| 1800 | 23 | Littlebird |
+| 1801 | 22 | Giggly Roll |
+| 1802 | 22 | Rooney |
+| 1803 | 22 | Brittany Lloyd |
+| 1804 | 22 | Queen |
+| 1805 | 22 | James Balderas |
+| 1806 | 22 | Sarah McAllister |
+| 1807 | 22 | Bold Tumbler |
+| 1808 | 22 | Clever Blockfall |
+| 1809 | 22 | McScrubby |
 | 1810 | 22 | Johnny Jeppesen |
-| 1811 | 22 | Sarah McAllister |
-| 1812 | 22 | Funky Rollblock |
-| 1813 | 22 | Renee Short Anthony |
+| 1811 | 22 | Diana Torres |
+| 1812 | 22 | Renee Short Anthony |
+| 1813 | 22 | Funky Rollblock |
 | 1814 | 21 | Honnala Vaughn |
 | 1815 | 21 | Melissa |
 | 1816 | 21 | Loony Glide |
