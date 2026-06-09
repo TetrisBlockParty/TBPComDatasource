@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 01:30:45 UTC
+# Standings for team1 as of 2026-06-09 01:31:20 UTC
 
 **Total Participants:** 1921
 
@@ -40,9 +40,9 @@
 | 32 | 3163 | Sha Harris |
 | 33 | 2912 | Mary Jenkins |
 | 34 | 2704 | Brian Stackhouse |
-| 35 | 2619 | Weeze |
-| 36 | 2619 | Zappy Brickline |
-| 37 | 2592 | COSA303 |
+| 35 | 2649 | COSA303 |
+| 36 | 2619 | Weeze |
+| 37 | 2619 | Zappy Brickline |
 | 38 | 2433 | Jamie Willis |
 | 39 | 2381 | Epic Snapfall |
 | 40 | 2138 | Linzie Marie |
@@ -68,8 +68,8 @@
 | 60 | 1458 | Eric Mcgaughy |
 | 61 | 1458 | Danielle DeLozier Plesec |
 | 62 | 1382 | Louis Richard Jr |
-| 63 | 1359 | Uneekly Mayde |
-| 64 | 1357 | Blockhead |
+| 63 | 1364 | Blockhead |
+| 64 | 1359 | Uneekly Mayde |
 | 65 | 1337 | Sanjuro |
 | 66 | 1313 | Ashley Espeut |
 | 67 | 1259 | Holly Jolly |
@@ -202,13 +202,13 @@
 | 194 | 494 | Ty Øtg |
 | 195 | 493 | Sarah Clark |
 | 196 | 486 | Andre Sanon |
-| 197 | 485 | xXEKUNXx |
-| 198 | 484 | Telisha Mims |
-| 199 | 482 | Yasmin Nakea Wright |
-| 200 | 476 | BULLSEYE |
+| 197 | 485 | FallDee |
+| 198 | 485 | xXEKUNXx |
+| 199 | 484 | Telisha Mims |
+| 200 | 482 | Yasmin Nakea Wright |
 | 201 | 476 | Roberta Lynn |
-| 202 | 475 | Kenny 'Tailormade' Boyd |
-| 203 | 468 | FallDee |
+| 202 | 476 | BULLSEYE |
+| 203 | 475 | Kenny 'Tailormade' Boyd |
 | 204 | 466 | pooh |
 | 205 | 466 | Zappy Riser |
 | 206 | 466 | Randizzle |
@@ -219,9 +219,9 @@
 | 211 | 456 | Cachet A Ward |
 | 212 | 455 | Tamara Johnson-Carter |
 | 213 | 452 | Kenny MrOnethousand Peck |
-| 214 | 451 | Penee Wiggins |
-| 215 | 451 | Simmone T. Kadiri |
-| 216 | 451 | Joey Albright |
+| 214 | 451 | Joey Albright |
+| 215 | 451 | Penee Wiggins |
+| 216 | 451 | Simmone T. Kadiri |
 | 217 | 450 | boogeywoogey |
 | 218 | 447 | Rachael Bakowicz Edwards |
 | 219 | 447 | Jazzy Fireflighters |
@@ -502,24 +502,24 @@
 | 494 | 206 | MonaSparks |
 | 495 | 206 | Jack Vlasak |
 | 496 | 206 | Zappy Clearfit |
-| 497 | 205 | Sarah Barnum |
-| 498 | 205 | Treneil Daffin |
-| 499 | 205 | Jessie N Michael Silvers |
-| 500 | 204 | ChunLi |
-| 501 | 204 | Rosalind Chatman |
-| 502 | 204 | Brittanie Wardlow |
-| 503 | 203 | Cece Fowler |
-| 504 | 203 | Poyre Shelton |
-| 505 | 202 | Bold Clusterer |
-| 506 | 202 | Messy Live |
-| 507 | 202 | Frankey Chi |
-| 508 | 202 | Jana Cheek |
-| 509 | 202 | Peppy Glider |
-| 510 | 202 | Dede Tate |
+| 497 | 206 | Cece Fowler |
+| 498 | 205 | Sarah Barnum |
+| 499 | 205 | Treneil Daffin |
+| 500 | 205 | Jessie N Michael Silvers |
+| 501 | 204 | ChunLi |
+| 502 | 204 | Rosalind Chatman |
+| 503 | 204 | Brittanie Wardlow |
+| 504 | 204 | Dede Tate |
+| 505 | 203 | Poyre Shelton |
+| 506 | 202 | Bold Clusterer |
+| 507 | 202 | Messy Live |
+| 508 | 202 | Frankey Chi |
+| 509 | 202 | Jana Cheek |
+| 510 | 202 | Peppy Glider |
 | 511 | 201 | EvaLynn NeCole |
-| 512 | 201 | Angela Brown Babin |
-| 513 | 201 | Jelyfish |
-| 514 | 201 | Taz Ballard |
+| 512 | 201 | Jelyfish |
+| 513 | 201 | Taz Ballard |
+| 514 | 201 | Angela Brown Babin |
 | 515 | 200 | Nisha Sunshine Jenkins |
 | 516 | 200 | Karen Knapp |
 | 517 | 198 | Darrelle Short |
