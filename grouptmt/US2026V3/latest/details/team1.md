@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 00:14:21 UTC
+# Standings for team1 as of 2026-06-09 00:14:44 UTC
 
 **Total Participants:** 1907
 
@@ -119,13 +119,13 @@
 | 111 | 860 | Slinky Puzzler |
 | 112 | 848 | Atlantalindi |
 | 113 | 842 | Nutty Spinblock |
-| 114 | 813 | Joy Citizen Pickney |
-| 115 | 804 | Yolanda E Fergerson |
-| 116 | 803 | Cee Emm |
-| 117 | 798 | Jaida King |
-| 118 | 777 | Peppy Piececlear |
-| 119 | 776 | Spunky Edgefit |
-| 120 | 771 | Eartha Brown |
+| 114 | 832 | Jaida King |
+| 115 | 813 | Joy Citizen Pickney |
+| 116 | 807 | Eartha Brown |
+| 117 | 804 | Yolanda E Fergerson |
+| 118 | 803 | Cee Emm |
+| 119 | 777 | Peppy Piececlear |
+| 120 | 776 | Spunky Edgefit |
 | 121 | 754 | Jhaime |
 | 122 | 751 | Kellie Hall |
 | 123 | 747 | Carolynne Walker-Bell |
@@ -1143,76 +1143,76 @@
 | 1135 | 63 | Natasha Harris |
 | 1136 | 63 | Amanda Colwell |
 | 1137 | 63 | Chummy Twisterfit |
-| 1138 | 63 | Gary Kyle |
-| 1139 | 63 | Yellowbone |
-| 1140 | 63 | Corbin Henry |
+| 1138 | 63 | Yellowbone |
+| 1139 | 63 | Corbin Henry |
+| 1140 | 63 | Gary Kyle |
 | 1141 | 62 | Tia Hazelton |
-| 1142 | 62 | Spicy Hedgehog |
-| 1143 | 62 | Simone Dublin |
-| 1144 | 62 | Stephanie Vinson |
+| 1142 | 62 | Quirky Slammer |
+| 1143 | 62 | Stephanie Vinson |
+| 1144 | 62 | Spicy Hedgehog |
 | 1145 | 62 | Shona ShayShay Jones |
-| 1146 | 62 | Quirky Slammer |
-| 1147 | 61 | Brave Gridmatch |
-| 1148 | 61 | Sagitterrorist |
-| 1149 | 61 | Giggleme |
-| 1150 | 61 | b |
-| 1151 | 61 | DoMinique Lee |
-| 1152 | 61 | Michelle Stanford-Page |
-| 1153 | 61 | Tonya Thomas |
-| 1154 | 60 | Carl Proby |
-| 1155 | 60 | Nope Young |
-| 1156 | 60 | Briela Sabrina |
+| 1146 | 62 | Simone Dublin |
+| 1147 | 61 | Michelle Stanford-Page |
+| 1148 | 61 | DoMinique Lee |
+| 1149 | 61 | Brave Gridmatch |
+| 1150 | 61 | Sagitterrorist |
+| 1151 | 61 | Tonya Thomas |
+| 1152 | 61 | Giggleme |
+| 1153 | 61 | b |
+| 1154 | 60 | Anthony Intrabartolo |
+| 1155 | 60 | Jenni |
+| 1156 | 60 | Nancy Hartzell |
 | 1157 | 60 | Tyrone Porter |
-| 1158 | 60 | Sally Elizabeth Hopson |
-| 1159 | 60 | Nancy Hartzell |
-| 1160 | 60 | Anthony Intrabartolo |
-| 1161 | 60 | Jennifer Endean |
-| 1162 | 60 | Jenni |
-| 1163 | 60 | Demi Ovalle |
-| 1164 | 60 | Nigel Snyder |
-| 1165 | 60 | Lynette Manning |
-| 1166 | 60 | Kike Lua |
-| 1167 | 59 | Angela Hill O'Neal |
+| 1158 | 60 | Jennifer Endean |
+| 1159 | 60 | Nigel Snyder |
+| 1160 | 60 | Kike Lua |
+| 1161 | 60 | Carl Proby |
+| 1162 | 60 | Demi Ovalle |
+| 1163 | 60 | Nope Young |
+| 1164 | 60 | Lynette Manning |
+| 1165 | 60 | Briela Sabrina |
+| 1166 | 60 | Sally Elizabeth Hopson |
+| 1167 | 59 | Smiley Tilebuilder |
 | 1168 | 59 | Kween Pilot |
 | 1169 | 59 | Andrea Jackson |
-| 1170 | 59 | Brandi M. Boney |
-| 1171 | 59 | Smiley Tilebuilder |
-| 1172 | 59 | Sweet BayBee |
+| 1170 | 59 | Brii Michelle Lamb |
+| 1171 | 59 | Robert Varnado |
+| 1172 | 59 | Angela Hill O'Neal |
 | 1173 | 59 | Wacky Spinfit |
-| 1174 | 59 | Robert Varnado |
-| 1175 | 59 | Jeremy Myers |
-| 1176 | 58 | Brenda Brogden |
-| 1177 | 58 | Brandy Way |
-| 1178 | 58 | Brii Michelle Lamb |
-| 1179 | 58 | Tina Bongcayao |
+| 1174 | 59 | Brandi M. Boney |
+| 1175 | 59 | Sweet BayBee |
+| 1176 | 59 | Jeremy Myers |
+| 1177 | 58 | Brenda Brogden |
+| 1178 | 58 | Tina Bongcayao |
+| 1179 | 58 | Brandy Way |
 | 1180 | 58 | CoaCoa Myles |
-| 1181 | 57 | Brave Balanceblock |
+| 1181 | 57 | William Vidra |
 | 1182 | 57 | Zany Pivot |
 | 1183 | 57 | Cali Lee |
 | 1184 | 57 | Rose Smith |
-| 1185 | 57 | Pharen Oneofakind Frazier |
-| 1186 | 57 | Demetrice Buck Wilson |
-| 1187 | 57 | William Vidra |
+| 1185 | 57 | Brave Balanceblock |
+| 1186 | 57 | Pharen Oneofakind Frazier |
+| 1187 | 57 | Demetrice Buck Wilson |
 | 1188 | 57 | Warren Miller |
-| 1189 | 56 | Shemeka Bates |
+| 1189 | 56 | Breeze |
 | 1190 | 56 | Tammy Collins |
-| 1191 | 56 | Breeze |
-| 1192 | 56 | Arturo Hernandez II |
-| 1193 | 56 | Lillie Blossom Dixon |
-| 1194 | 56 | Tim Tim |
-| 1195 | 56 | Lisa Ivy |
-| 1196 | 56 | QueenzMo |
-| 1197 | 56 | Maxine Williams |
-| 1198 | 56 | Kayleah Washington |
-| 1199 | 56 | SnazzySnippet |
-| 1200 | 56 | Christopher Wallace |
+| 1191 | 56 | Arturo Hernandez II |
+| 1192 | 56 | Jessica Kirby |
+| 1193 | 56 | Lisa Ivy |
+| 1194 | 56 | QueenzMo |
+| 1195 | 56 | Maxine Williams |
+| 1196 | 56 | Shemeka Bates |
+| 1197 | 56 | SnazzySnippet |
+| 1198 | 56 | Tim Tim |
+| 1199 | 56 | Christopher Wallace |
+| 1200 | 56 | Lillie Blossom Dixon |
 | 1201 | 56 | Chanel White |
-| 1202 | 55 | Cheery Clusterbuilder |
-| 1203 | 55 | Amanda Miller |
-| 1204 | 55 | sunstar |
-| 1205 | 55 | Laura Wesley |
-| 1206 | 55 | Bouncy Glide |
-| 1207 | 55 | Jessica Kirby |
+| 1202 | 56 | Kayleah Washington |
+| 1203 | 55 | sunstar |
+| 1204 | 55 | Amanda Miller |
+| 1205 | 55 | Cheery Clusterbuilder |
+| 1206 | 55 | Laura Wesley |
+| 1207 | 55 | Bouncy Glide |
 | 1208 | 55 | Aanngie Aanngie |
 | 1209 | 55 | Deantenique Smalls |
 | 1210 | 55 | KoolKimJay |
@@ -1224,31 +1224,31 @@
 | 1216 | 54 | Christina Wesley |
 | 1217 | 54 | Giggy Holder |
 | 1218 | 54 | Lush Crasher |
-| 1219 | 54 | Maranda Broadway |
-| 1220 | 54 | Felicia Yahuah Johnson |
+| 1219 | 54 | Felicia Yahuah Johnson |
+| 1220 | 54 | Maranda Broadway |
 | 1221 | 54 | Mrs |
 | 1222 | 54 | deeno |
 | 1223 | 54 | Noni |
 | 1224 | 53 | Adonai Saves |
-| 1225 | 53 | Michael Lindenlauf |
-| 1226 | 53 | Sashaleo |
-| 1227 | 53 | Kenneth Williams |
-| 1228 | 53 | Clever Wrecker |
-| 1229 | 53 | Chinkey Overit |
+| 1225 | 53 | Sashaleo |
+| 1226 | 53 | Kenneth Williams |
+| 1227 | 53 | Michael Lindenlauf |
+| 1228 | 53 | Chinkey Overit |
+| 1229 | 53 | Clever Wrecker |
 | 1230 | 53 | don ralph |
 | 1231 | 52 | MikeHunt |
-| 1232 | 52 | L-Kamice Boykin |
-| 1233 | 52 | Chummy Liner |
-| 1234 | 52 | LaQuita White |
-| 1235 | 52 | Cathilia Rodriguez |
+| 1232 | 52 | Frilly Mover |
+| 1233 | 52 | L-Kamice Boykin |
+| 1234 | 52 | Chummy Liner |
+| 1235 | 52 | LaQuita White |
 | 1236 | 52 | Loopy Risepiece |
 | 1237 | 52 | Cheery T-spin |
-| 1238 | 52 | Frilly Mover |
+| 1238 | 52 | Cathilia Rodriguez |
 | 1239 | 51 | Panda Vibes |
 | 1240 | 51 | Laura |
-| 1241 | 51 | Quirky Spinblock |
-| 1242 | 51 | Jakari Wool |
-| 1243 | 51 | Margretta Henry |
+| 1241 | 51 | Jakari Wool |
+| 1242 | 51 | Margretta Henry |
+| 1243 | 51 | Quirky Spinblock |
 | 1244 | 51 | Tweet |
 | 1245 | 51 | Madam Suki |
 | 1246 | 51 | Hasty Brickzone |
