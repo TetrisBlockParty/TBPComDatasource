@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:48:46 UTC
+# Standings for team1 as of 2026-06-09 11:49:21 UTC
 
 **Total Participants:** 2039
 
@@ -26,7 +26,7 @@
 | 18 | 5678 | Jocelyn Pope-Sewell |
 | 19 | 5595 | Cool Bridger |
 | 20 | 5282 | Plucky Swipe |
-| 21 | 5168 | jaimie |
+| 21 | 5198 | jaimie |
 | 22 | 5135 | Ivana Schmidt |
 | 23 | 4621 | Chandler Spencer |
 | 24 | 4597 | Pdubbl3 |
