@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:14:43 UTC
+# Standings for team1 as of 2026-06-09 07:15:21 UTC
 
 **Total Participants:** 2009
 
@@ -130,15 +130,15 @@
 | 122 | 869 | Slinky Puzzler |
 | 123 | 861 | Eartha Brown |
 | 124 | 848 | Atlantalindi |
-| 125 | 844 | Peppy Piececlear |
-| 126 | 842 | Nutty Spinblock |
-| 127 | 831 | Kaleisha Smith |
-| 128 | 830 | No_Other_Choice |
-| 129 | 819 | Sarah Marie |
-| 130 | 815 | Spunky Edgefit |
-| 131 | 811 | Cathy Young |
-| 132 | 808 | Cee Emm |
-| 133 | 803 | Alana Renee |
+| 125 | 847 | Alana Renee |
+| 126 | 844 | Peppy Piececlear |
+| 127 | 842 | Nutty Spinblock |
+| 128 | 831 | Kaleisha Smith |
+| 129 | 830 | No_Other_Choice |
+| 130 | 819 | Sarah Marie |
+| 131 | 815 | Spunky Edgefit |
+| 132 | 811 | Cathy Young |
+| 133 | 808 | Cee Emm |
 | 134 | 799 | Shontanese Adams |
 | 135 | 779 | Plucky Slamdrop |
 | 136 | 775 | Big Tina |
@@ -346,12 +346,12 @@
 | 338 | 340 | Tipsy Linkroll |
 | 339 | 337 | HarleyJane |
 | 340 | 337 | Desire Rice |
-| 341 | 332 | Simone Bailey |
-| 342 | 330 | Crystal Boyd |
-| 343 | 330 | ♈️ Ariesbaby |
-| 344 | 329 | Bubbly Piececlear |
-| 345 | 326 | TeeMaster Barber IsLyfe |
-| 346 | 325 | Jackie Sanasay |
+| 341 | 334 | Jackie Sanasay |
+| 342 | 332 | Simone Bailey |
+| 343 | 330 | Crystal Boyd |
+| 344 | 330 | ♈️ Ariesbaby |
+| 345 | 329 | Bubbly Piececlear |
+| 346 | 326 | TeeMaster Barber IsLyfe |
 | 347 | 320 | 大竹直之 |
 | 348 | 318 | Nerdy Snapfall |
 | 349 | 317 | Jai |
