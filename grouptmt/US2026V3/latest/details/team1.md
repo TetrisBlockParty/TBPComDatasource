@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 04:26:21 UTC
+# Standings for team1 as of 2026-06-09 04:26:45 UTC
 
 **Total Participants:** 1980
 
@@ -231,14 +231,14 @@
 | 223 | 475 | Kenny 'Tailormade' Boyd |
 | 224 | 473 | Nicole Watson-Dixon |
 | 225 | 472 | Rachel Zimmerman |
-| 226 | 466 | Tootsie Pop |
-| 227 | 466 | Tessa Gaskin |
-| 228 | 465 | Natasha Rucker |
-| 229 | 462 | Jenna Renee |
-| 230 | 461 | Giggy Clusterer |
-| 231 | 460 | Tanya Clayton |
-| 232 | 458 | Jimmie Makia |
-| 233 | 457 | Tina Mitchell |
+| 226 | 467 | Tina Mitchell |
+| 227 | 466 | Tootsie Pop |
+| 228 | 466 | Tessa Gaskin |
+| 229 | 465 | Natasha Rucker |
+| 230 | 462 | Jenna Renee |
+| 231 | 461 | Giggy Clusterer |
+| 232 | 460 | Tanya Clayton |
+| 233 | 458 | Jimmie Makia |
 | 234 | 456 | Cachet A Ward |
 | 235 | 455 | Tamara Johnson-Carter |
 | 236 | 453 | Elizabeth Vega Coreano |
