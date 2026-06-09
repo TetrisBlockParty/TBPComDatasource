@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:00:45 UTC
+# Standings for team4 as of 2026-06-09 08:01:21 UTC
 
 **Total Participants:** 2085
 
@@ -530,11 +530,11 @@
 | 522 | 214 | Thermeka Lindsey |
 | 523 | 214 | crobb77 |
 | 524 | 214 | Nicole Colby McCloskey |
-| 525 | 214 | Lolita Nettles |
-| 526 | 213 | Rita Ann |
-| 527 | 213 | Cari Underwood |
+| 525 | 214 | chefjaydawg |
+| 526 | 214 | Lolita Nettles |
+| 527 | 213 | Rita Ann |
 | 528 | 213 | Tamara Gay |
-| 529 | 212 | chefjaydawg |
+| 529 | 213 | Cari Underwood |
 | 530 | 212 | Momma Boss |
 | 531 | 211 | Sally Hiraldo |
 | 532 | 210 | Sfalcon1. |
@@ -545,74 +545,74 @@
 | 537 | 208 | Jeremy Barry |
 | 538 | 208 | Justin Janachovsky |
 | 539 | 208 | alxhue04 |
-| 540 | 208 | Denise Wilson |
-| 541 | 208 | Dawn Marie Trujillo |
-| 542 | 207 | Kandylands |
-| 543 | 207 | Edward White |
-| 544 | 207 | Rhonda Dowling |
-| 545 | 206 | Trang Nguyen |
-| 546 | 206 | Stephanie Brock |
-| 547 | 206 | Sandy Daye |
-| 548 | 205 | Rosy Perez |
+| 540 | 208 | Dawn Marie Trujillo |
+| 541 | 208 | Denise Wilson |
+| 542 | 207 | Rhonda Dowling |
+| 543 | 207 | Kandylands |
+| 544 | 207 | Edward White |
+| 545 | 206 | Stephanie Brock |
+| 546 | 206 | Sandy Daye |
+| 547 | 206 | Jen Roe |
+| 548 | 206 | Trang Nguyen |
 | 549 | 205 | Karr |
-| 550 | 204 | Alexsandra Hill |
+| 550 | 205 | Rosy Perez |
 | 551 | 204 | Silly Fallzone |
-| 552 | 203 | Lacie Powers |
-| 553 | 203 | Shaunna Caldwell |
-| 554 | 203 | Butterpat |
-| 555 | 203 | Cherrel M. Causey |
-| 556 | 202 | Shaneé Staunton |
-| 557 | 202 | Renita Jordan |
-| 558 | 202 | CrashOutCarla |
-| 559 | 201 | Hasty Dropzone |
-| 560 | 201 | Elissa Danks |
-| 561 | 201 | LaToya LeBlanc |
-| 562 | 201 | Rose Anna Safi |
-| 563 | 200 | Ashley Robbins |
+| 552 | 204 | Alexsandra Hill |
+| 553 | 203 | Lacie Powers |
+| 554 | 203 | Shaunna Caldwell |
+| 555 | 203 | Butterpat |
+| 556 | 203 | Cherrel M. Causey |
+| 557 | 202 | Shaneé Staunton |
+| 558 | 202 | Renita Jordan |
+| 559 | 202 | CrashOutCarla |
+| 560 | 201 | Hasty Dropzone |
+| 561 | 201 | Elissa Danks |
+| 562 | 201 | LaToya LeBlanc |
+| 563 | 201 | Rose Anna Safi |
 | 564 | 200 | Keke Johnson |
-| 565 | 200 | Kiara Itzel Crowe |
-| 566 | 200 | Matthew Hudson |
-| 567 | 200 | Tonia Kay |
-| 568 | 200 | Carissa Thorne-See |
+| 565 | 200 | Marcus Fontenot |
+| 566 | 200 | Tonia Kay |
+| 567 | 200 | Matthew Hudson |
+| 568 | 200 | Kiara Itzel Crowe |
 | 569 | 200 | Kristine Hj Han |
-| 570 | 200 | Marcus Fontenot |
-| 571 | 200 | Blockcrusher |
-| 572 | 199 | Donna Bush |
-| 573 | 199 | Rae Saunders |
-| 574 | 199 | Happy Shatterfit |
-| 575 | 199 | Nicole Dombrow |
+| 570 | 200 | Carissa Thorne-See |
+| 571 | 200 | Ashley Robbins |
+| 572 | 200 | Blockcrusher |
+| 573 | 199 | Happy Shatterfit |
+| 574 | 199 | Nicole Dombrow |
+| 575 | 199 | Donna Bush |
 | 576 | 199 | Jacinta Hooker-Brown |
-| 577 | 199 | Maegon Brazille |
-| 578 | 199 | Janet Willoughby |
+| 577 | 199 | Rae Saunders |
+| 578 | 199 | Maegon Brazille |
 | 579 | 199 | Funky Twistpiece |
-| 580 | 198 | Ayobribri |
+| 580 | 199 | Janet Willoughby |
 | 581 | 198 | Robert Moore |
 | 582 | 198 | Mint Marquez |
 | 583 | 198 | Bonique Bier |
-| 584 | 197 | Snippy Racker |
-| 585 | 196 | Diana Fernandez |
-| 586 | 196 | Chuck Burns |
-| 587 | 196 | Kellz M Bee |
-| 588 | 195 | Jen Roe |
+| 584 | 198 | Ayobribri |
+| 585 | 197 | Snippy Racker |
+| 586 | 196 | Diana Fernandez |
+| 587 | 196 | Chuck Burns |
+| 588 | 196 | Kellz M Bee |
 | 589 | 195 | Reina Pagan |
 | 590 | 195 | Happy Puzzle |
 | 591 | 194 | Dena Lynn Rogers |
 | 592 | 193 | Lord Solrac |
-| 593 | 192 | Vonni McLean |
-| 594 | 192 | Noa Lee |
-| 595 | 192 | Ralph Hell Rell Williams |
+| 593 | 192 | Lisa Pie |
+| 594 | 192 | Ralph Hell Rell Williams |
+| 595 | 192 | Noa Lee |
 | 596 | 192 | Daniel Lossman |
-| 597 | 192 | Lisa Pie |
+| 597 | 192 | Vonni McLean |
 | 598 | 192 | Chris |
 | 599 | 191 | Anna Ryan |
-| 600 | 190 | Candice Sellers Worley |
-| 601 | 190 | Name |
+| 600 | 190 | Name |
+| 601 | 190 | Candice Sellers Worley |
 | 602 | 190 | Simone |
 | 603 | 189 | Jennifer Evans Elliott |
-| 604 | 189 | MrsReap |
-| 605 | 189 | Zesty Lift |
-| 606 | 187 | Brainbabe |
-| 607 | 187 | Suzanne North |
+| 604 | 189 | Zesty Lift |
+| 605 | 189 | MrsReap |
+| 606 | 187 | Suzanne North |
+| 607 | 187 | Brainbabe |
 | 608 | 186 | Amber Jalbert |
 | 609 | 186 | Dolores Falco |
 | 610 | 185 | Brandon Bedenbaugh |
