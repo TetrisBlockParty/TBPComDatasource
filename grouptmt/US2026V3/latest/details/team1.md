@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:42:47 UTC
+# Standings for team1 as of 2026-06-09 11:43:22 UTC
 
 **Total Participants:** 2039
 
@@ -141,7 +141,7 @@
 | 133 | 831 | Kaleisha Smith |
 | 134 | 830 | No_Other_Choice |
 | 135 | 822 | Plucky Slamdrop |
-| 136 | 818 | Cee Emm |
+| 136 | 820 | Cee Emm |
 | 137 | 817 | Cathy Young |
 | 138 | 815 | Spunky Edgefit |
 | 139 | 799 | Shontanese Adams |
@@ -154,7 +154,7 @@
 | 146 | 754 | Jhaime |
 | 147 | 747 | Carolynne Walker-Bell |
 | 148 | 730 | ing410 |
-| 149 | 721 | Chuck Quarles |
+| 149 | 730 | Chuck Quarles |
 | 150 | 720 | Felicia Williams |
 | 151 | 719 | Dena Marie Lee |
 | 152 | 703 | Lesley Brunkus Cianfaglione |
