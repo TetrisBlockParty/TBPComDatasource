@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:08:45 UTC
+# Standings for team1 as of 2026-06-09 09:09:21 UTC
 
 **Total Participants:** 2021
 
@@ -15,7 +15,7 @@
 | 7 | 9543 | Charnay Peacock |
 | 8 | 9365 | Songne Arif |
 | 9 | 8938 | Debbie Carswell |
-| 10 | 8779 | Dyane Leah Ware |
+| 10 | 8830 | Dyane Leah Ware |
 | 11 | 8746 | Tyeina Johnson |
 | 12 | 8140 | Timothy Robert |
 | 13 | 7896 | Tracy Cohen |
