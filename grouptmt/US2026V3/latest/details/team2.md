@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:18:45 UTC
+# Standings for team2 as of 2026-06-09 08:19:20 UTC
 
 **Total Participants:** 2445
 
@@ -169,7 +169,7 @@
 | 161 | 809 | Snappy Blockbuilder |
 | 162 | 807 | Sara Perkins |
 | 163 | 806 | Monique Frantz |
-| 164 | 787 | Le Sandy |
+| 164 | 791 | Le Sandy |
 | 165 | 784 | Steven Craig |
 | 166 | 783 | Zesty Strikerbuilder |
 | 167 | 774 | Jgato |
@@ -240,8 +240,8 @@
 | 232 | 577 | Lindsay Klemp |
 | 233 | 576 | Breeana Bennett |
 | 234 | 576 | Aldotfus Williams |
-| 235 | 574 | meg |
-| 236 | 574 | Brandy McCune Reep |
+| 235 | 574 | Brandy McCune Reep |
+| 236 | 574 | meg |
 | 237 | 573 | Jennifer Smith |
 | 238 | 573 | Chirpy Grid |
 | 239 | 572 | Vistabrat |
@@ -297,12 +297,12 @@
 | 289 | 488 | Ackerman 85 |
 | 290 | 487 | Amanda L Strong |
 | 291 | 485 | Naomi Walker |
-| 292 | 482 | Nikki Greeneyebeauty |
-| 293 | 482 | Katrien |
+| 292 | 482 | Katrien |
+| 293 | 482 | Nikki Greeneyebeauty |
 | 294 | 480 | Jacob Carpenter |
-| 295 | 479 | Swanky Fitline |
+| 295 | 480 | Jason Cunningham |
 | 296 | 479 | giamy |
-| 297 | 475 | Jason Cunningham |
+| 297 | 479 | Swanky Fitline |
 | 298 | 475 | Justin McCray |
 | 299 | 471 | Flashy Twistline |
 | 300 | 470 | Sharon L Brazelton |
@@ -334,8 +334,8 @@
 | 326 | 416 | Mouh Med |
 | 327 | 415 | Talyn Domingues |
 | 328 | 413 | Larry Cross |
-| 329 | 413 | Travis Bundrum |
-| 330 | 413 | Earline Dupuy Bordelon |
+| 329 | 413 | Earline Dupuy Bordelon |
+| 330 | 413 | Travis Bundrum |
 | 331 | 412 | Greta Warden |
 | 332 | 412 | Boldy Fitclear |
 | 333 | 408 | Cheery Tilefall |
@@ -344,10 +344,10 @@
 | 336 | 404 | Charity Hauser |
 | 337 | 400 | Melissa Clogher White |
 | 338 | 400 | Shannon Wilson |
-| 339 | 400 | Adriana Daniela Agapie |
-| 340 | 400 | Patricia Carroll |
-| 341 | 400 | Sarah Rodriguez |
-| 342 | 400 | Jamin |
+| 339 | 400 | Patricia Carroll |
+| 340 | 400 | Adriana Daniela Agapie |
+| 341 | 400 | Jamin |
+| 342 | 400 | Sarah Rodriguez |
 | 343 | 399 | Jeffrey Smith |
 | 344 | 398 | Heather Burgett |
 | 345 | 397 | Carlos J Blas |
@@ -401,12 +401,12 @@
 | 393 | 349 | Logan Duffey |
 | 394 | 347 | Melisa |
 | 395 | 346 | Ray Daisy |
-| 396 | 345 | Kellie Montgomery |
-| 397 | 345 | Joanna Trevin Thompson |
+| 396 | 345 | Joanna Trevin Thompson |
+| 397 | 345 | Kellie Montgomery |
 | 398 | 345 | Skye Ehret |
 | 399 | 344 | Monica Gonzalez Rios |
-| 400 | 343 | Duke Morley |
-| 401 | 343 | ShiverMeSplinter |
+| 400 | 343 | ShiverMeSplinter |
+| 401 | 343 | Duke Morley |
 | 402 | 343 | Curly Windbreaker |
 | 403 | 343 | Paula Haskins |
 | 404 | 341 | Amy Nicole McCanne |
@@ -498,8 +498,8 @@
 | 490 | 285 | Mrs biotch |
 | 491 | 282 | ZBee |
 | 492 | 281 | straighttiptoe |
-| 493 | 280 | Sandra Ruiz |
-| 494 | 280 | Keisha Robinson |
+| 493 | 280 | Keisha Robinson |
+| 494 | 280 | Sandra Ruiz |
 | 495 | 280 | Brooklyn Todd |
 | 496 | 280 | Michelle M Braley |
 | 497 | 280 | Ssirkus |
@@ -526,8 +526,8 @@
 | 518 | 262 | Billy Pittman |
 | 519 | 261 | Frisky Twist |
 | 520 | 261 | TNGal |
-| 521 | 261 | Hyper Striker |
-| 522 | 261 | Donna Esbensen-Alpini |
+| 521 | 261 | Donna Esbensen-Alpini |
+| 522 | 261 | Hyper Striker |
 | 523 | 260 | Po Yee |
 | 524 | 260 | phamous1 |
 | 525 | 260 | Michele Stewart |
@@ -535,53 +535,53 @@
 | 527 | 259 | Angie Kowalsky Olson |
 | 528 | 259 | Tango Sierra |
 | 529 | 258 | Lively Curve |
-| 530 | 258 | Wacky Curve |
-| 531 | 257 | Kenzie |
-| 532 | 257 | Lee Leonard |
-| 533 | 256 | Joshua Dye |
-| 534 | 256 | Jackie Walker |
-| 535 | 256 | Katie Jones |
-| 536 | 256 | THUMP |
-| 537 | 254 | Cozy Cascade |
-| 538 | 253 | Teddy Williams |
-| 539 | 253 | Teloney Humphrey |
-| 540 | 251 | Marilyn Mendoza |
-| 541 | 250 | Ashley Diana |
-| 542 | 250 | Kim Powers |
-| 543 | 250 | Angela Hogan |
-| 544 | 250 | Misiek |
-| 545 | 250 | Happy Drop |
-| 546 | 249 | Dana Vaiden Rivers |
-| 547 | 249 | Jana Campbell |
-| 548 | 249 | Plucky Grabber |
-| 549 | 249 | Tina |
-| 550 | 247 | TetrisMama |
-| 551 | 247 | Samantha Bugg Stitcher |
-| 552 | 246 | Darla Nolt |
-| 553 | 246 | Holly Huval |
-| 554 | 246 | Justin Stark |
-| 555 | 245 | David Skelton |
-| 556 | 245 | Crystal Camden Suarez |
+| 530 | 258 | Amanda Rude |
+| 531 | 258 | Wacky Curve |
+| 532 | 257 | Kenzie |
+| 533 | 257 | Lee Leonard |
+| 534 | 256 | Joshua Dye |
+| 535 | 256 | Jackie Walker |
+| 536 | 256 | Katie Jones |
+| 537 | 256 | THUMP |
+| 538 | 254 | Cozy Cascade |
+| 539 | 253 | Teddy Williams |
+| 540 | 253 | Teloney Humphrey |
+| 541 | 251 | Marilyn Mendoza |
+| 542 | 250 | Ashley Diana |
+| 543 | 250 | Kim Powers |
+| 544 | 250 | Angela Hogan |
+| 545 | 250 | Misiek |
+| 546 | 250 | Happy Drop |
+| 547 | 249 | Dana Vaiden Rivers |
+| 548 | 249 | Jana Campbell |
+| 549 | 249 | Plucky Grabber |
+| 550 | 249 | Tina |
+| 551 | 247 | TetrisMama |
+| 552 | 247 | Samantha Bugg Stitcher |
+| 553 | 246 | Darla Nolt |
+| 554 | 246 | Holly Huval |
+| 555 | 246 | Justin Stark |
+| 556 | 245 | David Skelton |
 | 557 | 245 | Spencer Ryder |
-| 558 | 244 | Speedy Spinfit |
-| 559 | 243 | Nicole Ashbaugh |
-| 560 | 242 | Jumpy Dashpiece |
-| 561 | 242 | Gluten Gremlin |
-| 562 | 242 | Vicke Patterson |
-| 563 | 241 | Fallon Moss |
-| 564 | 241 | Gwendolyn Boykin Mobbs |
-| 565 | 241 | Marlo Perry |
-| 566 | 240 | Amanda Bottorff |
-| 567 | 240 | rageking |
-| 568 | 240 | Al Smith Jr |
-| 569 | 240 | Dapper Riser |
-| 570 | 240 | Simone F |
-| 571 | 240 | Jacquelyn Snyder Dumas |
-| 572 | 239 | Stella |
-| 573 | 239 | Candi Cane |
-| 574 | 239 | Jessica Melendy |
-| 575 | 239 | Will Jones |
-| 576 | 238 | Amanda Rude |
+| 558 | 245 | Crystal Camden Suarez |
+| 559 | 244 | Speedy Spinfit |
+| 560 | 243 | Nicole Ashbaugh |
+| 561 | 242 | Jumpy Dashpiece |
+| 562 | 242 | Gluten Gremlin |
+| 563 | 242 | Vicke Patterson |
+| 564 | 241 | Fallon Moss |
+| 565 | 241 | Gwendolyn Boykin Mobbs |
+| 566 | 241 | Marlo Perry |
+| 567 | 240 | Amanda Bottorff |
+| 568 | 240 | rageking |
+| 569 | 240 | Al Smith Jr |
+| 570 | 240 | Dapper Riser |
+| 571 | 240 | Simone F |
+| 572 | 240 | Jacquelyn Snyder Dumas |
+| 573 | 239 | Stella |
+| 574 | 239 | Candi Cane |
+| 575 | 239 | Jessica Melendy |
+| 576 | 239 | Will Jones |
 | 577 | 238 | Michele Rogers |
 | 578 | 237 | Rydin Dirt |
 | 579 | 237 | Renee Siems |
