@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 13:30:43 UTC
+# Standings for team1 as of 2026-06-09 13:31:23 UTC
 
 **Total Participants:** 2053
 
@@ -509,20 +509,20 @@
 | 501 | 238 | SnazzyIvy |
 | 502 | 237 | Kimberly Anderson |
 | 503 | 237 | Bold Clusterer |
-| 504 | 237 | Tanisha Taylor |
-| 505 | 236 | James Bryant II |
-| 506 | 235 | Daring Blockclear |
-| 507 | 235 | Tracy Feyler |
-| 508 | 235 | nameno |
-| 509 | 234 | Chris Nelson |
-| 510 | 234 | Lisa Fletcher |
+| 504 | 237 | Lisa Fletcher |
+| 505 | 237 | Tanisha Taylor |
+| 506 | 236 | James Bryant II |
+| 507 | 235 | Daring Blockclear |
+| 508 | 235 | Tracy Feyler |
+| 509 | 235 | nameno |
+| 510 | 234 | Chris Nelson |
 | 511 | 234 | wmedina67 |
 | 512 | 233 | Kala Miller |
 | 513 | 233 | Holly Baker |
 | 514 | 233 | Daris Swearington |
 | 515 | 232 | Monica Fields |
-| 516 | 231 | TieMs BHughez |
-| 517 | 231 | Breezy Catcher |
+| 516 | 231 | Breezy Catcher |
+| 517 | 231 | TieMs BHughez |
 | 518 | 230 | Jessica Kirby |
 | 519 | 229 | Jenni Hardman |
 | 520 | 228 | Matthieu Pistone |
@@ -545,70 +545,70 @@
 | 537 | 222 | Clint Mcdowell |
 | 538 | 221 | Terri Smart |
 | 539 | 221 | De'Nell Edwards |
-| 540 | 221 | Jack Vlasak |
-| 541 | 221 | Rayshawn Cohen |
-| 542 | 220 | Douglas Price |
-| 543 | 220 | Tonia Ramos |
-| 544 | 220 | Carolyn Smith |
-| 545 | 220 | Cori Cleland |
-| 546 | 220 | Rufus |
-| 547 | 219 | Montréal Mars |
-| 548 | 219 | Ciera Peace |
+| 540 | 221 | Rayshawn Cohen |
+| 541 | 221 | Jack Vlasak |
+| 542 | 220 | Cori Cleland |
+| 543 | 220 | Carolyn Smith |
+| 544 | 220 | Rufus |
+| 545 | 220 | Douglas Price |
+| 546 | 220 | Tonia Ramos |
+| 547 | 219 | Ciera Peace |
+| 548 | 219 | Montréal Mars |
 | 549 | 218 | Teresa Yanira Cepeda |
 | 550 | 218 | Mommy Frank |
 | 551 | 217 | BonnieB |
-| 552 | 217 | Louise Parker |
-| 553 | 217 | Marlainia Boyd |
+| 552 | 217 | Marlainia Boyd |
+| 553 | 217 | Louise Parker |
 | 554 | 217 | Travis Davison |
-| 555 | 216 | Aaron Hartmann |
-| 556 | 216 | Londa Londa |
-| 557 | 215 | Yashica Smith |
-| 558 | 215 | Perky Balancer |
-| 559 | 215 | Juan Lewis |
-| 560 | 215 | MzJuice Box |
-| 561 | 215 | toxictonic92 |
+| 555 | 216 | Londa Londa |
+| 556 | 216 | Aaron Hartmann |
+| 557 | 215 | Perky Balancer |
+| 558 | 215 | Yashica Smith |
+| 559 | 215 | toxictonic92 |
+| 560 | 215 | Juan Lewis |
+| 561 | 215 | MzJuice Box |
 | 562 | 214 | PSD |
 | 563 | 214 | Stephen Providenti |
 | 564 | 214 | Nickeya Phillips |
 | 565 | 213 | crumb bumc |
 | 566 | 213 | Nyhlah Patterson |
-| 567 | 212 | Simply-Beautiful007 |
-| 568 | 212 | Daring Riserfit |
+| 567 | 212 | Daring Riserfit |
+| 568 | 212 | Simply-Beautiful007 |
 | 569 | 211 | Lynnette WheelerBushnell |
 | 570 | 210 | Abby |
-| 571 | 209 | $hort Dog |
-| 572 | 209 | Phillip Vasquez |
-| 573 | 208 | Juicy |
-| 574 | 208 | Kelley Johnson |
-| 575 | 208 | Soubletzy |
-| 576 | 208 | Nora Mahmoud |
-| 577 | 208 | Bella |
-| 578 | 208 | Earl Williams |
-| 579 | 207 | Mary Phillippi Blanton |
-| 580 | 207 | Courtney Cicoria |
-| 581 | 207 | Candy Lee |
-| 582 | 207 | Shawn Himes |
-| 583 | 206 | Shelly Everette |
+| 571 | 209 | Phillip Vasquez |
+| 572 | 209 | $hort Dog |
+| 573 | 208 | Earl Williams |
+| 574 | 208 | Juicy |
+| 575 | 208 | meatballs |
+| 576 | 208 | Soubletzy |
+| 577 | 208 | Nora Mahmoud |
+| 578 | 208 | Bella |
+| 579 | 208 | Kelley Johnson |
+| 580 | 207 | Candy Lee |
+| 581 | 207 | Courtney Cicoria |
+| 582 | 207 | Mary Phillippi Blanton |
+| 583 | 207 | Shawn Himes |
 | 584 | 206 | Shalya Terry |
-| 585 | 206 | Zappy Clearfit |
-| 586 | 205 | Polite Granny |
-| 587 | 205 | Sarah Barnum |
-| 588 | 205 | MELLZZtick€T |
-| 589 | 205 | Sarah Swietlicki - Lopez |
-| 590 | 205 | Tramaine Crockrum |
-| 591 | 205 | Semaj Johnson |
-| 592 | 205 | Treneil Daffin |
-| 593 | 205 | Logan Frost |
-| 594 | 204 | Marlynnnnn |
-| 595 | 204 | Cynda Cyn |
-| 596 | 204 | Dorian Griffin |
-| 597 | 204 | Rosalind Chatman |
-| 598 | 203 | Jovy |
-| 599 | 203 | Poyre Shelton |
-| 600 | 203 | Lucy |
-| 601 | 202 | Hyper Blocky |
-| 602 | 202 | Messy Live |
-| 603 | 202 | meatballs |
+| 585 | 206 | Shelly Everette |
+| 586 | 206 | Zappy Clearfit |
+| 587 | 205 | Logan Frost |
+| 588 | 205 | Sarah Barnum |
+| 589 | 205 | MELLZZtick€T |
+| 590 | 205 | Sarah Swietlicki - Lopez |
+| 591 | 205 | Polite Granny |
+| 592 | 205 | Tramaine Crockrum |
+| 593 | 205 | Semaj Johnson |
+| 594 | 205 | Treneil Daffin |
+| 595 | 204 | Marlynnnnn |
+| 596 | 204 | Rosalind Chatman |
+| 597 | 204 | Dorian Griffin |
+| 598 | 204 | Cynda Cyn |
+| 599 | 203 | Jovy |
+| 600 | 203 | Poyre Shelton |
+| 601 | 203 | Lucy |
+| 602 | 202 | Hyper Blocky |
+| 603 | 202 | Messy Live |
 | 604 | 202 | Nutty Fallmatch |
 | 605 | 202 | Alexandrla Smith |
 | 606 | 202 | Frankey Chi |
