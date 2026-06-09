@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 02:26:22 UTC
+# Standings for team1 as of 2026-06-09 02:26:46 UTC
 
 **Total Participants:** 1944
 
@@ -172,16 +172,16 @@
 | 164 | 574 | DaVonte' Cretter |
 | 165 | 573 | Nobles Brandon |
 | 166 | 573 | TT |
-| 167 | 570 | Jamal Itzjusmall Chambers |
-| 168 | 569 | Zachary Colegrove |
-| 169 | 566 | Trendalyn Webb |
-| 170 | 565 | IThinkNot |
-| 171 | 562 | Yasmin Nakea Wright |
-| 172 | 559 | Sarah Clark |
-| 173 | 555 | Eugina Slater |
-| 174 | 553 | Sharon Cail |
-| 175 | 552 | Katherine Short |
-| 176 | 551 | Randizzle |
+| 167 | 572 | Randizzle |
+| 168 | 570 | Jamal Itzjusmall Chambers |
+| 169 | 569 | Zachary Colegrove |
+| 170 | 566 | Trendalyn Webb |
+| 171 | 565 | IThinkNot |
+| 172 | 562 | Yasmin Nakea Wright |
+| 173 | 559 | Sarah Clark |
+| 174 | 555 | Eugina Slater |
+| 175 | 553 | Sharon Cail |
+| 176 | 552 | Katherine Short |
 | 177 | 550 | Tobey Marberry |
 | 178 | 549 | Shell Lewis |
 | 179 | 546 | Po Marley |
@@ -542,54 +542,54 @@
 | 534 | 196 | Douglas Price |
 | 535 | 195 | nameno |
 | 536 | 194 | Mahagony Small |
-| 537 | 193 | Dizzy Dashy |
-| 538 | 193 | Kimberly Susan Privette |
-| 539 | 192 | Cranky Fall |
-| 540 | 192 | Hyper Blocky |
-| 541 | 192 | Donna Payne |
-| 542 | 191 | Miera Nicole |
-| 543 | 191 | Cori Cleland |
-| 544 | 191 | Katrina Ramey |
-| 545 | 191 | Tosha Michelle |
-| 546 | 191 | Nona Harriel |
-| 547 | 190 | Chipper Snapper |
-| 548 | 190 | Jovy |
-| 549 | 190 | Adrian Wilson |
+| 537 | 193 | Tosha Michelle |
+| 538 | 193 | Dizzy Dashy |
+| 539 | 193 | Kimberly Susan Privette |
+| 540 | 192 | Cranky Fall |
+| 541 | 192 | Hyper Blocky |
+| 542 | 192 | Donna Payne |
+| 543 | 191 | Miera Nicole |
+| 544 | 191 | Nona Harriel |
+| 545 | 191 | Cori Cleland |
+| 546 | 191 | Katrina Ramey |
+| 547 | 190 | Adrian Wilson |
+| 548 | 190 | Chipper Snapper |
+| 549 | 190 | Jovy |
 | 550 | 189 | Sean White |
-| 551 | 188 | Zappy Snapgrid |
+| 551 | 188 | DeAngelo Sorrells |
 | 552 | 188 | Ashlie Mo |
-| 553 | 188 | Tyiesha Pie Farmer |
+| 553 | 188 | Zappy Snapgrid |
 | 554 | 188 | Daring Riserfit |
 | 555 | 188 | MindlessMic |
-| 556 | 188 | DeAngelo Sorrells |
-| 557 | 187 | Kimmie Gargano |
-| 558 | 187 | Lively Riserpiece |
-| 559 | 187 | Mighty Dropper |
+| 556 | 188 | Tyiesha Pie Farmer |
+| 557 | 187 | Mighty Dropper |
+| 558 | 187 | Kimmie Gargano |
+| 559 | 187 | Lively Riserpiece |
 | 560 | 186 | Brittany Sara Heldwein |
 | 561 | 185 | Sarah Swietlicki - Lopez |
 | 562 | 185 | Mister Reid |
 | 563 | 184 | Dorian Griffin |
 | 564 | 184 | Kelley Johnson |
-| 565 | 183 | Twisty Cascadeclear |
-| 566 | 183 | Shakuria Cortia Burney |
+| 565 | 183 | Shakuria Cortia Burney |
+| 566 | 183 | Erika |
 | 567 | 183 | Tushama Cheris Okraku |
-| 568 | 183 | Shannon Carriger |
-| 569 | 183 | Erika |
+| 568 | 183 | Twisty Cascadeclear |
+| 569 | 183 | Shannon Carriger |
 | 570 | 183 | Amihan |
 | 571 | 182 | Comedian Prince Paul |
 | 572 | 182 | Spicy Shatterblock |
 | 573 | 182 | Jimmy Shannon |
-| 574 | 180 | Yadira Salgado |
+| 574 | 180 | NedaWin |
 | 575 | 180 | Carolyn Smith |
 | 576 | 180 | Cornelius Neal |
 | 577 | 180 | Leavon Smith |
 | 578 | 180 | Chris Rogers |
-| 579 | 180 | NedaWin |
+| 579 | 180 | Yadira Salgado |
 | 580 | 179 | Skippy |
 | 581 | 179 | Loopy Tiler |
 | 582 | 178 | Bubbly Slammer |
-| 583 | 177 | PSD |
-| 584 | 177 | Tangy Moore |
+| 583 | 177 | Tangy Moore |
+| 584 | 177 | PSD |
 | 585 | 176 | Squaw Ki Ng |
 | 586 | 176 | Frisky Gridder |
 | 587 | 176 | Char |
