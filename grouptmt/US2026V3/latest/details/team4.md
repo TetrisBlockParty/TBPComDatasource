@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 18:30:47 UTC
+# Standings for team4 as of 2026-06-09 18:31:23 UTC
 
 **Total Participants:** 2155
 
@@ -769,27 +769,27 @@
 | 761 | 166 | Wacky Brick |
 | 762 | 166 | Snappy Stack |
 | 763 | 166 | chuck |
-| 764 | 165 | Capt'n Crunch |
-| 765 | 165 | Corey Jackson |
-| 766 | 164 | Jillian Marie |
-| 767 | 164 | Jennifer Brucz |
-| 768 | 164 | Alicia Blunt |
-| 769 | 163 | Sweetfire |
-| 770 | 163 | Ana Ruiz |
+| 764 | 165 | Ana Ruiz |
+| 765 | 165 | Capt'n Crunch |
+| 766 | 165 | Corey Jackson |
+| 767 | 164 | Jillian Marie |
+| 768 | 164 | Jennifer Brucz |
+| 769 | 164 | Alicia Blunt |
+| 770 | 163 | Sweetfire |
 | 771 | 163 | Gerald Richard Franke |
 | 772 | 162 | Fancy Riser |
 | 773 | 162 | Chass Hudson |
 | 774 | 162 | Cranky Twisterfit |
-| 775 | 161 | Lorrie Ann Burchett |
-| 776 | 161 | JustLessie |
-| 777 | 161 | Kimberly Lusk |
+| 775 | 161 | JustLessie |
+| 776 | 161 | Kimberly Lusk |
+| 777 | 161 | Lorrie Ann Burchett |
 | 778 | 160 | Kayla Haddenham |
 | 779 | 160 | Elisha Thompson |
 | 780 | 160 | Pickles |
 | 781 | 160 | Glamorous Gracey |
 | 782 | 160 | Sha Ta Nay Mitchell |
-| 783 | 160 | Ian T Parker |
-| 784 | 160 | Urplan |
+| 783 | 160 | Urplan |
+| 784 | 160 | Ian T Parker |
 | 785 | 160 | George Marshburn |
 | 786 | 160 | Billy Baker |
 | 787 | 160 | Jerett Coplin |
