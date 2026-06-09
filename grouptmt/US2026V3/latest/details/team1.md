@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:48:42 UTC
+# Standings for team1 as of 2026-06-09 05:49:20 UTC
 
 **Total Participants:** 1994
 
@@ -330,13 +330,13 @@
 | 322 | 350 | Ashley MyBeauty Daniels |
 | 323 | 349 | Sade Goodwine |
 | 324 | 348 | Dennis J Herron II |
-| 325 | 348 | Frisky Fall |
-| 326 | 347 | Ashleyy Netchert |
-| 327 | 344 | Mikayla |
-| 328 | 344 | Andy Rivera |
-| 329 | 343 | MamushiOh |
-| 330 | 343 | Heather Aurelia |
-| 331 | 342 | Hasty Glidezone |
+| 325 | 348 | Hasty Glidezone |
+| 326 | 348 | Frisky Fall |
+| 327 | 347 | Ashleyy Netchert |
+| 328 | 344 | Mikayla |
+| 329 | 344 | Andy Rivera |
+| 330 | 343 | MamushiOh |
+| 331 | 343 | Heather Aurelia |
 | 332 | 341 | Jawaun Daniels |
 | 333 | 341 | BlackQueen105 |
 | 334 | 340 | Tipsy Linkroll |
@@ -569,48 +569,48 @@
 | 561 | 200 | Karen Knapp |
 | 562 | 200 | Nisha Sunshine Jenkins |
 | 563 | 199 | AnnaM |
-| 564 | 198 | Rhianna Dinki Austin |
+| 564 | 198 | Darrelle Short |
 | 565 | 198 | Shannon Carriger |
-| 566 | 198 | Darrelle Short |
-| 567 | 197 | Rachel Renae Bettis |
-| 568 | 197 | krd |
-| 569 | 196 | Shalya Terry |
-| 570 | 196 | Douglas Price |
-| 571 | 196 | Chris Rogers |
-| 572 | 196 | whatever |
+| 566 | 198 | Rhianna Dinki Austin |
+| 567 | 197 | krd |
+| 568 | 197 | Rachel Renae Bettis |
+| 569 | 196 | Douglas Price |
+| 570 | 196 | whatever |
+| 571 | 196 | Shalya Terry |
+| 572 | 196 | Chris Rogers |
 | 573 | 194 | Twisty Cascadeclear |
-| 574 | 194 | Holly Baker |
-| 575 | 193 | Dizzy Dashy |
+| 574 | 194 | BB |
+| 575 | 194 | Holly Baker |
 | 576 | 193 | Kimberly Susan Privette |
-| 577 | 192 | Donna Payne |
-| 578 | 192 | Cranky Fall |
-| 579 | 191 | Nona Harriel |
-| 580 | 191 | Terri Smart |
-| 581 | 191 | Katrina Ramey |
+| 577 | 193 | Dizzy Dashy |
+| 578 | 192 | Donna Payne |
+| 579 | 192 | Cranky Fall |
+| 580 | 191 | Nona Harriel |
+| 581 | 191 | Terri Smart |
 | 582 | 191 | Miera Nicole |
-| 583 | 191 | Cori Cleland |
-| 584 | 191 | Gbnola |
-| 585 | 190 | Adrian Wilson |
+| 583 | 191 | Katrina Ramey |
+| 584 | 191 | Cori Cleland |
+| 585 | 191 | Gbnola |
 | 586 | 190 | Chipper Snapper |
-| 587 | 190 | Lester Malone |
-| 588 | 190 | Jovy |
-| 589 | 189 | Sean White |
-| 590 | 189 | Loopy Tiler |
-| 591 | 189 | The DUBZ |
-| 592 | 188 | Ashlie Mo |
-| 593 | 188 | Tangy Moore |
+| 587 | 190 | Adrian Wilson |
+| 588 | 190 | Lester Malone |
+| 589 | 190 | Jovy |
+| 590 | 189 | Sean White |
+| 591 | 189 | Loopy Tiler |
+| 592 | 189 | The DUBZ |
+| 593 | 188 | Ashlie Mo |
 | 594 | 188 | Daring Riserfit |
 | 595 | 188 | Sarah Steckbauer |
 | 596 | 188 | DeAngelo Sorrells |
 | 597 | 188 | Zappy Snapgrid |
-| 598 | 188 | Tyiesha Pie Farmer |
-| 599 | 187 | Lively Riserpiece |
-| 600 | 187 | Kimmie Gargano |
-| 601 | 187 | MELLZZtick€T |
-| 602 | 186 | Brittany Sara Heldwein |
-| 603 | 184 | Kelley Johnson |
-| 604 | 184 | Dorian Griffin |
-| 605 | 184 | BB |
+| 598 | 188 | Tangy Moore |
+| 599 | 188 | Tyiesha Pie Farmer |
+| 600 | 187 | Lively Riserpiece |
+| 601 | 187 | Kimmie Gargano |
+| 602 | 187 | MELLZZtick€T |
+| 603 | 186 | Brittany Sara Heldwein |
+| 604 | 184 | Kelley Johnson |
+| 605 | 184 | Dorian Griffin |
 | 606 | 183 | Tushama Cheris Okraku |
 | 607 | 183 | Shameka Tiffany |
 | 608 | 183 | Amihan |
