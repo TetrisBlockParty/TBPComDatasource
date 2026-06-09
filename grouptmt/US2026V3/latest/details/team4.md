@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 07:20:44 UTC
+# Standings for team4 as of 2026-06-09 07:21:21 UTC
 
 **Total Participants:** 2076
 
@@ -580,8 +580,8 @@
 | 572 | 198 | Robert Moore |
 | 573 | 198 | Bonique Bier |
 | 574 | 198 | Mint Marquez |
-| 575 | 197 | Snippy Racker |
-| 576 | 197 | Hasty Dropzone |
+| 575 | 198 | Hasty Dropzone |
+| 576 | 197 | Snippy Racker |
 | 577 | 196 | Kellz M Bee |
 | 578 | 196 | Diana Fernandez |
 | 579 | 196 | Chuck Burns |
@@ -1691,69 +1691,69 @@
 | 1683 | 29 | Kylee |
 | 1684 | 29 | thaDon |
 | 1685 | 28 | ApexVibez |
-| 1686 | 28 | Lori Sohn |
-| 1687 | 28 | Losofmemphis Frfr |
-| 1688 | 28 | Jamaal Sanderson |
-| 1689 | 28 | Wacky Brickroll |
-| 1690 | 28 | Johanan Garcia |
-| 1691 | 28 | Willedtra Griffin |
-| 1692 | 28 | Khaalida Muhammad Jackson |
-| 1693 | 28 | Stephanie Gauna |
-| 1694 | 27 | Alexis William |
+| 1686 | 28 | Losofmemphis Frfr |
+| 1687 | 28 | Lori Sohn |
+| 1688 | 28 | Bruce Hobbs |
+| 1689 | 28 | Jamaal Sanderson |
+| 1690 | 28 | Wacky Brickroll |
+| 1691 | 28 | Johanan Garcia |
+| 1692 | 28 | Willedtra Griffin |
+| 1693 | 28 | Khaalida Muhammad Jackson |
+| 1694 | 28 | Stephanie Gauna |
 | 1695 | 27 | boo |
 | 1696 | 27 | Loopy Bridger |
 | 1697 | 27 | Danielle Clutter |
-| 1698 | 27 | Chris Abney |
-| 1699 | 27 | DuvaDova Ahava |
-| 1700 | 27 | Fkvj |
-| 1701 | 27 | Aleah Briann |
-| 1702 | 27 | Clever Blockmatch |
-| 1703 | 27 | Twisty Gridclear |
-| 1704 | 27 | samismia |
-| 1705 | 26 | Bruce Hobbs |
-| 1706 | 26 | Love GH |
-| 1707 | 26 | Rebecca Rae Reed |
-| 1708 | 26 | AJscooter |
-| 1709 | 26 | Breezy Striker |
-| 1710 | 26 | Kevin Lyles |
-| 1711 | 26 | Funky Riser |
-| 1712 | 26 | Von |
-| 1713 | 26 | Bekka Walker |
-| 1714 | 26 | Shakita Moore-Bernard |
-| 1715 | 26 | Cheery Liney |
-| 1716 | 26 | Leslie Marie WarClub |
-| 1717 | 26 | Cheeky Dashy |
-| 1718 | 26 | Dee Modest |
-| 1719 | 26 | Crafty Clicker |
-| 1720 | 26 | Glenda Zulueta Steed |
-| 1721 | 26 | MzB3tyBoop |
+| 1698 | 27 | Alexis William |
+| 1699 | 27 | Chris Abney |
+| 1700 | 27 | DuvaDova Ahava |
+| 1701 | 27 | Fkvj |
+| 1702 | 27 | Aleah Briann |
+| 1703 | 27 | Clever Blockmatch |
+| 1704 | 27 | Twisty Gridclear |
+| 1705 | 27 | samismia |
+| 1706 | 26 | Crafty Clicker |
+| 1707 | 26 | Funky Riser |
+| 1708 | 26 | Von |
+| 1709 | 26 | Bekka Walker |
+| 1710 | 26 | Shakita Moore-Bernard |
+| 1711 | 26 | Kevin Lyles |
+| 1712 | 26 | Breezy Striker |
+| 1713 | 26 | Cheery Liney |
+| 1714 | 26 | Leslie Marie WarClub |
+| 1715 | 26 | Cheeky Dashy |
+| 1716 | 26 | Dee Modest |
+| 1717 | 26 | Air1 |
+| 1718 | 26 | Ivyleata McFadden |
+| 1719 | 26 | AJscooter |
+| 1720 | 26 | Lacey Decker |
+| 1721 | 26 | Rebecca Rae Reed |
 | 1722 | 26 | Rob$GEE |
-| 1723 | 26 | Lacey Decker |
-| 1724 | 26 | Ivyleata McFadden |
-| 1725 | 26 | Air1 |
-| 1726 | 25 | Giggy Mover |
+| 1723 | 26 | MzB3tyBoop |
+| 1724 | 26 | Glenda Zulueta Steed |
+| 1725 | 26 | Love GH |
+| 1726 | 25 | Joyell Mersiel |
 | 1727 | 25 | Sarah Sherman |
-| 1728 | 25 | MoCa |
-| 1729 | 25 | Julia Gareis |
-| 1730 | 25 | Beto Vidaurri |
-| 1731 | 25 | Daisy Jaramillo |
-| 1732 | 25 | Joyell Mersiel |
-| 1733 | 25 | Chad N Tori Steiner |
-| 1734 | 25 | Crafty Slamdrop |
-| 1735 | 25 | chapis |
-| 1736 | 25 | Gerald Lew |
-| 1737 | 25 | Gellix |
+| 1728 | 25 | Julia Gareis |
+| 1729 | 25 | Beto Vidaurri |
+| 1730 | 25 | p11 |
+| 1731 | 25 | Crafty Slamdrop |
+| 1732 | 25 | Gerald Lew |
+| 1733 | 25 | chapis |
+| 1734 | 25 | Chad N Tori Steiner |
+| 1735 | 25 | Giggy Mover |
+| 1736 | 25 | MoCa |
+| 1737 | 25 | Daisy Jaramillo |
 | 1738 | 25 | djwil |
-| 1739 | 25 | p11 |
-| 1740 | 24 | Heather Crowe |
-| 1741 | 24 | Breezy Clusterfit |
-| 1742 | 24 | Sandra Magaly Rivera Medina |
+| 1739 | 25 | Gellix |
+| 1740 | 24 | Chelsea Pigg |
+| 1741 | 24 | Sandra Magaly Rivera Medina |
+| 1742 | 24 | Gma526 |
 | 1743 | 24 | Margarita Santana |
-| 1744 | 24 | Katiana Gonzalez |
-| 1745 | 24 | Tameka Harrison |
-| 1746 | 24 | Gma526 |
-| 1747 | 24 | Flashy Wipebuilder |
-| 1748 | 24 | Chelsea Pigg |
+| 1744 | 24 | Heather Crowe |
+| 1745 | 24 | Flashy Wipebuilder |
+| 1746 | 24 | Katiana Gonzalez |
+| 1747 | 24 | Breezy Clusterfit |
+| 1748 | 24 | Tameka Harrison |
 | 1749 | 24 | Lively Setter |
 | 1750 | 24 | Rio Rumble |
 | 1751 | 24 | Speedy Caster |
