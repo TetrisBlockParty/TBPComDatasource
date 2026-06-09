@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:21:22 UTC
+# Standings for team1 as of 2026-06-09 12:22:45 UTC
 
 **Total Participants:** 2040
 
@@ -156,49 +156,49 @@
 | 148 | 754 | Jhaime |
 | 149 | 747 | Carolynne Walker-Bell |
 | 150 | 738 | Andi McGreevy |
-| 151 | 730 | ing410 |
-| 152 | 730 | Chuck Quarles |
+| 151 | 730 | Chuck Quarles |
+| 152 | 730 | ing410 |
 | 153 | 720 | Felicia Williams |
 | 154 | 719 | Dena Marie Lee |
 | 155 | 700 | Eugina Slater |
 | 156 | 694 | Anthony Washington |
 | 157 | 692 | Chirpy Corner |
 | 158 | 687 | GrkGdess |
-| 159 | 686 | Gael Quintana |
-| 160 | 686 | W.A. Simpson |
+| 159 | 686 | W.A. Simpson |
+| 160 | 686 | Gael Quintana |
 | 161 | 685 | Ebony Waynes-robinson |
 | 162 | 685 | Byron Mario Cawthon |
 | 163 | 677 | Chantelle Lee |
 | 164 | 673 | Jeffrey Barrows |
 | 165 | 672 | Antonia Wyche |
 | 166 | 671 | Gotcha |
-| 167 | 668 | JaszyBadd |
-| 168 | 668 | Katherine Short |
+| 167 | 668 | Katherine Short |
+| 168 | 668 | JaszyBadd |
 | 169 | 667 | Karebear |
 | 170 | 661 | sha |
 | 171 | 657 | Ann White |
 | 172 | 646 | TeeMaster Barber IsLyfe |
-| 173 | 645 | Marcheta Cervantez |
-| 174 | 645 | Keke Ferguson |
+| 173 | 645 | Keke Ferguson |
+| 174 | 645 | Marcheta Cervantez |
 | 175 | 643 | Ottison Dianna |
 | 176 | 637 | FallDee |
-| 177 | 630 | SyTheEvilGenius1 |
+| 177 | 636 | BULLSEYE |
 | 178 | 630 | Bambi Love |
-| 179 | 629 | Charletha Williams |
-| 180 | 623 | Abraham Espaillat |
-| 181 | 617 | Crystal Anderson |
-| 182 | 616 | Dandy Brickfit |
-| 183 | 610 | Genne Scott |
-| 184 | 606 | Tammye Turner |
-| 185 | 604 | Michelle Titus |
-| 186 | 604 | Sarah Clark |
-| 187 | 600 | Spicy Risepiece |
-| 188 | 600 | Shellzb Roberts |
-| 189 | 599 | Zappy Riser |
-| 190 | 596 | Cj Gorman |
-| 191 | 596 | BULLSEYE |
-| 192 | 590 | xXEKUNXx |
-| 193 | 590 | Jamal Itzjusmall Chambers |
+| 179 | 630 | SyTheEvilGenius1 |
+| 180 | 629 | Charletha Williams |
+| 181 | 623 | Abraham Espaillat |
+| 182 | 617 | Crystal Anderson |
+| 183 | 616 | Dandy Brickfit |
+| 184 | 610 | Genne Scott |
+| 185 | 606 | Tammye Turner |
+| 186 | 604 | Michelle Titus |
+| 187 | 604 | Sarah Clark |
+| 188 | 600 | Jamal Itzjusmall Chambers |
+| 189 | 600 | Spicy Risepiece |
+| 190 | 600 | Shellzb Roberts |
+| 191 | 599 | Zappy Riser |
+| 192 | 596 | Cj Gorman |
+| 193 | 590 | xXEKUNXx |
 | 194 | 584 | Novaa |
 | 195 | 583 | TT |
 | 196 | 583 | Block King |
@@ -395,10 +395,10 @@
 | 387 | 304 | Jolly Tilefall |
 | 388 | 303 | kitten |
 | 389 | 301 | Sammie Walker |
-| 390 | 300 | Sara Meri |
-| 391 | 300 | Sharee Robinson |
-| 392 | 300 | Ketrell Bailey |
-| 393 | 299 | Alivia Dove |
+| 390 | 301 | Alivia Dove |
+| 391 | 300 | Sara Meri |
+| 392 | 300 | Sharee Robinson |
+| 393 | 300 | Ketrell Bailey |
 | 394 | 298 | McKayla Owens |
 | 395 | 296 | Char |
 | 396 | 296 | Nikki Hogan |
@@ -785,15 +785,15 @@
 | 777 | 144 | Cm |
 | 778 | 144 | Ysma Simmons |
 | 779 | 144 | Batty B |
-| 780 | 142 | Mary Goode |
-| 781 | 142 | Boricua64 |
-| 782 | 142 | Tiffany Jean Hinson |
-| 783 | 142 | Jasmine Hariston-Estis |
-| 784 | 141 | Shalena Marie Humphrey |
-| 785 | 141 | Lively Wipeout |
-| 786 | 141 | Angela Kitchens |
-| 787 | 141 | Coco |
-| 788 | 141 | Stephen Garland |
+| 780 | 144 | Stephen Garland |
+| 781 | 142 | Mary Goode |
+| 782 | 142 | Boricua64 |
+| 783 | 142 | Tiffany Jean Hinson |
+| 784 | 142 | Jasmine Hariston-Estis |
+| 785 | 141 | Shalena Marie Humphrey |
+| 786 | 141 | Lively Wipeout |
+| 787 | 141 | Angela Kitchens |
+| 788 | 141 | Coco |
 | 789 | 141 | Krystal Maynard |
 | 790 | 141 | KimChii |
 | 791 | 140 | Victoria Smith |
