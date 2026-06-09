@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:22:44 UTC
+# Standings for team2 as of 2026-06-09 10:23:22 UTC
 
 **Total Participants:** 2466
 
@@ -361,25 +361,25 @@
 | 353 | 396 | Dallas Runyan |
 | 354 | 395 | Traci Abern |
 | 355 | 394 | Joanna Trevin Thompson |
-| 356 | 391 | La chulis |
-| 357 | 390 | Breezy |
-| 358 | 387 | Jessica Lynn |
-| 359 | 387 | Funway998 |
-| 360 | 387 | Zach Jewett |
-| 361 | 386 | Sandy Justus |
-| 362 | 385 | Pamela Raye |
-| 363 | 385 | Hypee |
-| 364 | 384 | Flashy Drop |
-| 365 | 384 | DayDreamer79 |
-| 366 | 383 | Jenna Stahl |
-| 367 | 382 | Chummy Snapbuilder |
-| 368 | 382 | Zesty Zoney |
-| 369 | 380 | Bb |
-| 370 | 376 | Ariel Gundersen |
-| 371 | 375 | Amber Cogdill |
-| 372 | 374 | Crystal Poss |
-| 373 | 374 | Queen |
-| 374 | 373 | Kay |
+| 356 | 393 | Kay |
+| 357 | 391 | La chulis |
+| 358 | 390 | Breezy |
+| 359 | 387 | Jessica Lynn |
+| 360 | 387 | Funway998 |
+| 361 | 387 | Zach Jewett |
+| 362 | 386 | Sandy Justus |
+| 363 | 385 | Pamela Raye |
+| 364 | 385 | Hypee |
+| 365 | 384 | Flashy Drop |
+| 366 | 384 | DayDreamer79 |
+| 367 | 383 | Jenna Stahl |
+| 368 | 382 | Chummy Snapbuilder |
+| 369 | 382 | Zesty Zoney |
+| 370 | 380 | Bb |
+| 371 | 376 | Ariel Gundersen |
+| 372 | 375 | Amber Cogdill |
+| 373 | 374 | Crystal Poss |
+| 374 | 374 | Queen |
 | 375 | 373 | Hoppy Mover |
 | 376 | 371 | Marylin Eacker |
 | 377 | 368 | Keri Mears |
@@ -961,45 +961,45 @@
 | 953 | 139 | sugabritches |
 | 954 | 139 | CAL1KAWS559 |
 | 955 | 139 | Samantha Smith |
-| 956 | 138 | Saucy Lifter |
-| 957 | 138 | Kiersty Redder |
+| 956 | 138 | Kiersty Redder |
+| 957 | 138 | Saucy Lifter |
 | 958 | 138 | Krystallin Stacy |
 | 959 | 138 | Sam Brewster |
 | 960 | 137 | Sarah Louise Cobb |
 | 961 | 137 | Roger Kirksey |
 | 962 | 137 | Duck |
-| 963 | 136 | Ahada Seber |
-| 964 | 136 | Cool Cornerfall |
-| 965 | 136 | Deb Rose-Bridinger |
-| 966 | 136 | Tracy Tokarz |
-| 967 | 136 | Aaron Jones |
-| 968 | 136 | Natalie M. Arredondo |
-| 969 | 136 | Lauren Maxwell |
-| 970 | 135 | Mee Maw |
-| 971 | 135 | Naomi Jaynes |
-| 972 | 135 | Erin Moore Galloway |
-| 973 | 135 | Sharon Wade |
-| 974 | 135 | Beachmama |
-| 975 | 135 | Emilee Dulyea |
+| 963 | 136 | Jacy Pickett |
+| 964 | 136 | Ahada Seber |
+| 965 | 136 | Cool Cornerfall |
+| 966 | 136 | Deb Rose-Bridinger |
+| 967 | 136 | Tracy Tokarz |
+| 968 | 136 | Aaron Jones |
+| 969 | 136 | Natalie M. Arredondo |
+| 970 | 136 | Lauren Maxwell |
+| 971 | 135 | Mee Maw |
+| 972 | 135 | Naomi Jaynes |
+| 973 | 135 | Erin Moore Galloway |
+| 974 | 135 | Sharon Wade |
+| 975 | 135 | Beachmama |
 | 976 | 135 | Ava Taber |
-| 977 | 135 | Tommi Lynn Lawson |
-| 978 | 134 | Amy |
-| 979 | 134 | Cassandra Milner |
-| 980 | 134 | Diane Byrd |
-| 981 | 133 | Brandy McCleary |
-| 982 | 133 | Seamus |
-| 983 | 133 | Frothy Zonebuilder |
-| 984 | 133 | Michelle |
+| 977 | 135 | Emilee Dulyea |
+| 978 | 135 | Tommi Lynn Lawson |
+| 979 | 134 | Amy |
+| 980 | 134 | Cassandra Milner |
+| 981 | 134 | Diane Byrd |
+| 982 | 133 | Brandy McCleary |
+| 983 | 133 | Seamus |
+| 984 | 133 | Frothy Zonebuilder |
 | 985 | 133 | Jazzy Snapfit |
-| 986 | 133 | Grimwitch |
-| 987 | 132 | Manda |
-| 988 | 132 | Tim Moore |
-| 989 | 132 | Belinda Gullion Austin |
-| 990 | 131 | Paige Lynette Sohl |
-| 991 | 131 | Eva Lopez |
-| 992 | 131 | Chris |
-| 993 | 131 | Lyndzey Sciscoe |
-| 994 | 131 | Jacy Pickett |
+| 986 | 133 | Michelle |
+| 987 | 133 | Grimwitch |
+| 988 | 132 | Manda |
+| 989 | 132 | Tim Moore |
+| 990 | 132 | Belinda Gullion Austin |
+| 991 | 131 | Paige Lynette Sohl |
+| 992 | 131 | Eva Lopez |
+| 993 | 131 | Chris |
+| 994 | 131 | Lyndzey Sciscoe |
 | 995 | 130 | Stazy Warner |
 | 996 | 130 | Val |
 | 997 | 130 | gene15 |
@@ -1839,65 +1839,65 @@
 | 1831 | 40 | Aaron Henry |
 | 1832 | 40 | Emily Kleinsteiber |
 | 1833 | 40 | Kyle |
-| 1834 | 40 | Crafty Matcher |
-| 1835 | 40 | Kris Roark |
-| 1836 | 40 | Cheryl Schmid |
-| 1837 | 40 | Betsey Terry |
-| 1838 | 40 | Cheeky Snapline |
-| 1839 | 40 | Karen Pearson-Wilson |
+| 1834 | 40 | Reni Seven |
+| 1835 | 40 | Crafty Matcher |
+| 1836 | 40 | Zach Walkup |
+| 1837 | 40 | Tabetha Cooper |
+| 1838 | 40 | B.A. Watt |
+| 1839 | 40 | Twisty Glider |
 | 1840 | 40 | Kimmi Knippel |
-| 1841 | 40 | Twisty Glider |
-| 1842 | 40 | B.A. Watt |
-| 1843 | 40 | Tabetha Cooper |
-| 1844 | 40 | Zach Walkup |
-| 1845 | 40 | Tonya Templin Smith |
-| 1846 | 40 | Mitsy Lang |
-| 1847 | 40 | Sunny |
-| 1848 | 40 | Shay Lynn King |
-| 1849 | 40 | Tara Feineis |
-| 1850 | 40 | Dapper Pivotfall |
-| 1851 | 40 | Beth |
-| 1852 | 40 | Ashley Bennett |
-| 1853 | 40 | Elicia Lloyd-Zazweta |
-| 1854 | 39 | Jeff Mullins |
-| 1855 | 39 | Cyrus Ramirez |
-| 1856 | 39 | Instak1ll |
-| 1857 | 39 | Lauren Shunkwiler |
+| 1841 | 40 | Cheeky Snapline |
+| 1842 | 40 | Betsey Terry |
+| 1843 | 40 | Cheryl Schmid |
+| 1844 | 40 | Kris Roark |
+| 1845 | 40 | Karen Pearson-Wilson |
+| 1846 | 40 | Tonya Templin Smith |
+| 1847 | 40 | Mitsy Lang |
+| 1848 | 40 | Sunny |
+| 1849 | 40 | Shay Lynn King |
+| 1850 | 40 | Tara Feineis |
+| 1851 | 40 | Dapper Pivotfall |
+| 1852 | 40 | Beth |
+| 1853 | 40 | Ashley Bennett |
+| 1854 | 40 | Elicia Lloyd-Zazweta |
+| 1855 | 39 | Jeff Mullins |
+| 1856 | 39 | Cyrus Ramirez |
+| 1857 | 39 | Instak1ll |
 | 1858 | 39 | Joshua Savoir |
-| 1859 | 39 | LovelyLaurita |
+| 1859 | 39 | Catey Salazar |
 | 1860 | 39 | Miranda Rabey |
-| 1861 | 39 | Catey Salazar |
-| 1862 | 39 | Zany Pivoty |
+| 1861 | 39 | Zany Pivoty |
+| 1862 | 39 | Jennifer Lauzon |
 | 1863 | 39 | Lively Zone |
-| 1864 | 39 | Renee Garneau Cain |
-| 1865 | 39 | Linette Chico |
-| 1866 | 39 | Ayana Yanaeboo Eaddy |
-| 1867 | 39 | Lj |
-| 1868 | 39 | Jennifer Lauzon |
-| 1869 | 39 | Snappy Cascadefit |
-| 1870 | 39 | RNKERI |
-| 1871 | 38 | David Thomas |
-| 1872 | 38 | Stephanie Fitzgerald |
-| 1873 | 38 | Joce Barger |
+| 1864 | 39 | LovelyLaurita |
+| 1865 | 39 | Renee Garneau Cain |
+| 1866 | 39 | Lauren Shunkwiler |
+| 1867 | 39 | Ayana Yanaeboo Eaddy |
+| 1868 | 39 | Lj |
+| 1869 | 39 | RNKERI |
+| 1870 | 39 | Snappy Cascadefit |
+| 1871 | 39 | Linette Chico |
+| 1872 | 38 | David Thomas |
+| 1873 | 38 | Stephanie Fitzgerald |
 | 1874 | 38 | Denzil G Burrows Jr |
-| 1875 | 38 | Reni Seven |
+| 1875 | 38 | Joce Barger |
 | 1876 | 38 | Perky Patternbuilder |
 | 1877 | 37 | Leon Welch |
 | 1878 | 37 | Amber Myers |
-| 1879 | 37 | Plucky Caster |
-| 1880 | 37 | Jollygirl |
-| 1881 | 37 | Spunky Patternfit |
+| 1879 | 37 | Jollygirl |
+| 1880 | 37 | Zippy Tumbler |
+| 1881 | 37 | DaddyBuck |
 | 1882 | 37 | Danh Nguyen |
-| 1883 | 37 | Zippy Tumbler |
-| 1884 | 37 | DaddyBuck |
-| 1885 | 37 | Nicole Slimick |
-| 1886 | 37 | Suzee |
-| 1887 | 36 | Tiana Rodriguez |
-| 1888 | 36 | James Brown |
-| 1889 | 36 | Jen |
-| 1890 | 36 | GreatDoxie |
-| 1891 | 36 | Anna |
-| 1892 | 36 | Cammie Freed |
+| 1883 | 37 | Suzee |
+| 1884 | 37 | Nicole Slimick |
+| 1885 | 37 | Spunky Patternfit |
+| 1886 | 37 | Plucky Caster |
+| 1887 | 36 | James Brown |
+| 1888 | 36 | Tiana Rodriguez |
+| 1889 | 36 | Cammie Freed |
+| 1890 | 36 | Anna |
+| 1891 | 36 | GreatDoxie |
+| 1892 | 36 | Jen |
 | 1893 | 36 | Deion Marshall |
 | 1894 | 36 | Cody |
 | 1895 | 36 | PortersWife87 |
