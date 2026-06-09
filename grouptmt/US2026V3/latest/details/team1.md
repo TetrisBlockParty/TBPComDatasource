@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:52:45 UTC
+# Standings for team1 as of 2026-06-09 15:53:23 UTC
 
 **Total Participants:** 2072
 
@@ -137,7 +137,7 @@
 | 129 | 882 | Jon Gathers |
 | 130 | 879 | Plucky Slamdrop |
 | 131 | 876 | Atlantalindi |
-| 132 | 872 | Lesley Brunkus Cianfaglione |
+| 132 | 873 | Lesley Brunkus Cianfaglione |
 | 133 | 869 | Slinky Puzzler |
 | 134 | 861 | Eartha Brown |
 | 135 | 857 | Kellie Hall |
@@ -974,22 +974,22 @@
 | 966 | 113 | Sherry D Singleton |
 | 967 | 113 | Fatty May |
 | 968 | 112 | Ashanti Eden |
-| 969 | 112 | Barbramerri Tarboro |
-| 970 | 112 | Nikiya |
-| 971 | 112 | GamerQueenDS |
-| 972 | 112 | Jose Rodriguez |
-| 973 | 111 | Daphne Ceasar |
-| 974 | 111 | Deihja Weaver |
-| 975 | 111 | GoldStarJo |
-| 976 | 111 | Sharon Lynn |
-| 977 | 111 | Happy Blockpiece |
-| 978 | 110 | Lucy Range |
-| 979 | 110 | Felicia Woods |
-| 980 | 110 | Shauntai Holiday |
-| 981 | 110 | Nichole Horsley-Conn |
-| 982 | 110 | Elizabeth AW |
-| 983 | 110 | jac |
-| 984 | 110 | Erica Campbell-Stillings |
+| 969 | 112 | Erica Campbell-Stillings |
+| 970 | 112 | Barbramerri Tarboro |
+| 971 | 112 | Nikiya |
+| 972 | 112 | GamerQueenDS |
+| 973 | 112 | Jose Rodriguez |
+| 974 | 111 | Daphne Ceasar |
+| 975 | 111 | Deihja Weaver |
+| 976 | 111 | GoldStarJo |
+| 977 | 111 | Sharon Lynn |
+| 978 | 111 | Happy Blockpiece |
+| 979 | 110 | Lucy Range |
+| 980 | 110 | Felicia Woods |
+| 981 | 110 | Shauntai Holiday |
+| 982 | 110 | Nichole Horsley-Conn |
+| 983 | 110 | Elizabeth AW |
+| 984 | 110 | jac |
 | 985 | 109 | Haakuu |
 | 986 | 109 | Lively Rollpiece |
 | 987 | 109 | Tip318 |
@@ -1118,18 +1118,18 @@
 | 1110 | 87 | CauliMac |
 | 1111 | 87 | LexiiSamayaa |
 | 1112 | 86 | Noni |
-| 1113 | 86 | LaTonya Rivers |
-| 1114 | 86 | rummy |
-| 1115 | 86 | Tyler |
-| 1116 | 86 | Tweet Turner |
-| 1117 | 85 | Melanin Monroe-Dandridge |
-| 1118 | 85 | Bobby Chestefield |
-| 1119 | 85 | nay |
-| 1120 | 85 | Nicole Coko Thomas |
-| 1121 | 84 | Arlea Mann |
+| 1113 | 86 | Dawn Basemore |
+| 1114 | 86 | LaTonya Rivers |
+| 1115 | 86 | rummy |
+| 1116 | 86 | Tyler |
+| 1117 | 86 | Tweet Turner |
+| 1118 | 85 | Melanin Monroe-Dandridge |
+| 1119 | 85 | Bobby Chestefield |
+| 1120 | 85 | nay |
+| 1121 | 85 | Nicole Coko Thomas |
 | 1122 | 84 | GiantBehemoth |
-| 1123 | 84 | Sunset Owens |
-| 1124 | 84 | Dawn Basemore |
+| 1123 | 84 | Arlea Mann |
+| 1124 | 84 | Sunset Owens |
 | 1125 | 83 | Fred Caston |
 | 1126 | 83 | Lateef |
 | 1127 | 83 | Trusi Rusi |
@@ -1283,44 +1283,44 @@
 | 1275 | 63 | SANA |
 | 1276 | 63 | Gary Kyle |
 | 1277 | 63 | Storie Harris |
-| 1278 | 63 | Tonny Williams |
-| 1279 | 63 | Damien Fonseca |
+| 1278 | 63 | Natasha Harris |
+| 1279 | 63 | Tonny Williams |
 | 1280 | 63 | Torrie Eckrote |
-| 1281 | 63 | Natasha Harris |
-| 1282 | 62 | Shona ShayShay Jones |
-| 1283 | 62 | Quirky Slammer |
-| 1284 | 62 | Spicy Hedgehog |
-| 1285 | 62 | Simone Dublin |
-| 1286 | 62 | Alturas Supremenineteen Banks |
-| 1287 | 62 | Stephanie Vinson |
-| 1288 | 61 | Krose Byers |
-| 1289 | 61 | Audrey Gestring |
+| 1281 | 63 | Damien Fonseca |
+| 1282 | 63 | Ike Nickerson |
+| 1283 | 62 | Shona ShayShay Jones |
+| 1284 | 62 | Quirky Slammer |
+| 1285 | 62 | Spicy Hedgehog |
+| 1286 | 62 | Simone Dublin |
+| 1287 | 62 | Alturas Supremenineteen Banks |
+| 1288 | 62 | Stephanie Vinson |
+| 1289 | 61 | Krose Byers |
 | 1290 | 61 | Sagitterrorist |
-| 1291 | 61 | Giggleme |
-| 1292 | 61 | Michelle Stanford-Page |
-| 1293 | 60 | Nancy Hartzell |
-| 1294 | 60 | Amy Thomas |
-| 1295 | 60 | Lynette Manning |
-| 1296 | 60 | Jennifer Endean |
-| 1297 | 60 | Nope Young |
-| 1298 | 60 | Tweet |
-| 1299 | 60 | Carl Proby |
-| 1300 | 60 | Skyhigh Scott |
-| 1301 | 60 | Anthony Intrabartolo |
+| 1291 | 61 | Audrey Gestring |
+| 1292 | 61 | Giggleme |
+| 1293 | 61 | Michelle Stanford-Page |
+| 1294 | 60 | Carl Proby |
+| 1295 | 60 | Tweet |
+| 1296 | 60 | Nope Young |
+| 1297 | 60 | Skyhigh Scott |
+| 1298 | 60 | Nancy Hartzell |
+| 1299 | 60 | Lynette Manning |
+| 1300 | 60 | Anthony Intrabartolo |
+| 1301 | 60 | Amy Thomas |
 | 1302 | 60 | Elisha Latimore |
 | 1303 | 60 | Snappy Strikerpiece |
 | 1304 | 60 | Chocolate |
-| 1305 | 60 | Ike Nickerson |
-| 1306 | 59 | Kween Pilot |
-| 1307 | 59 | Robert Varnado |
-| 1308 | 59 | Jeremy Myers |
-| 1309 | 59 | Brandon Knox |
-| 1310 | 59 | Sweet BayBee |
-| 1311 | 59 | Smiley Tilebuilder |
-| 1312 | 59 | Spunky Gridder |
-| 1313 | 58 | Bubbly Crawler |
-| 1314 | 58 | Desi |
-| 1315 | 58 | Brandy Way |
+| 1305 | 60 | Jennifer Endean |
+| 1306 | 59 | Smiley Tilebuilder |
+| 1307 | 59 | Spunky Gridder |
+| 1308 | 59 | Brandon Knox |
+| 1309 | 59 | Jeremy Myers |
+| 1310 | 59 | Kween Pilot |
+| 1311 | 59 | Robert Varnado |
+| 1312 | 59 | Sweet BayBee |
+| 1313 | 58 | Desi |
+| 1314 | 58 | Brandy Way |
+| 1315 | 58 | Bubbly Crawler |
 | 1316 | 58 | Brenda Brogden |
 | 1317 | 58 | Ashley Danielle |
 | 1318 | 58 | CoaCoa Myles |
