@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:24:21 UTC
+# Standings for team1 as of 2026-06-09 11:24:46 UTC
 
 **Total Participants:** 2037
 
@@ -27,7 +27,7 @@
 | 19 | 5595 | Cool Bridger |
 | 20 | 5282 | Plucky Swipe |
 | 21 | 5044 | Ivana Schmidt |
-| 22 | 4981 | jaimie |
+| 22 | 5001 | jaimie |
 | 23 | 4621 | Chandler Spencer |
 | 24 | 4597 | Pdubbl3 |
 | 25 | 4168 | Kkbk |
