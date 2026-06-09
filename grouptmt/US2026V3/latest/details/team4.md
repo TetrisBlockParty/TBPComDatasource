@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 07:26:45 UTC
+# Standings for team4 as of 2026-06-09 07:27:21 UTC
 
 **Total Participants:** 2076
 
@@ -49,7 +49,7 @@
 | 41 | 3216 | Jeanette Hailey |
 | 42 | 3200 | Leah Gorsuch |
 | 43 | 3150 | Destiny Dyer |
-| 44 | 3000 | Victoria Ver |
+| 44 | 3003 | Victoria Ver |
 | 45 | 2800 | Annastaissia Todd |
 | 46 | 2800 | Caitlin Johnson |
 | 47 | 2689 | Blind Bette |
@@ -182,22 +182,22 @@
 | 174 | 592 | Sarah Berry Stevens |
 | 175 | 588 | Bonnie Powell |
 | 176 | 587 | Megan Vick |
-| 177 | 575 | Beth Belanger |
-| 178 | 563 | Izz |
-| 179 | 563 | QueenLi86 |
-| 180 | 563 | Jacqueline Jackii Ramos |
-| 181 | 559 | Katie Martin |
-| 182 | 555 | Janet Sanfilippo Sullivan |
-| 183 | 555 | Julian Gasque |
-| 184 | 554 | Jennifer Ellyn Sheets |
-| 185 | 552 | Principal Liz |
-| 186 | 551 | Alma López Morales |
-| 187 | 550 | Magz |
-| 188 | 546 | SupaFly |
-| 189 | 543 | zoes |
-| 190 | 542 | Nikki Fuller Johnson |
-| 191 | 540 | Anthony Magaraci |
-| 192 | 540 | CIRAZYPNOY |
+| 177 | 580 | CIRAZYPNOY |
+| 178 | 575 | Beth Belanger |
+| 179 | 563 | Jacqueline Jackii Ramos |
+| 180 | 563 | Izz |
+| 181 | 563 | QueenLi86 |
+| 182 | 559 | Katie Martin |
+| 183 | 555 | Janet Sanfilippo Sullivan |
+| 184 | 555 | Julian Gasque |
+| 185 | 554 | Jennifer Ellyn Sheets |
+| 186 | 552 | Principal Liz |
+| 187 | 551 | Alma López Morales |
+| 188 | 550 | Magz |
+| 189 | 546 | SupaFly |
+| 190 | 543 | zoes |
+| 191 | 542 | Nikki Fuller Johnson |
+| 192 | 540 | Anthony Magaraci |
 | 193 | 540 | Sisi RedVelvet Reneè |
 | 194 | 539 | Boldy Rumbler |
 | 195 | 537 | Danielle Mitchell |
@@ -409,30 +409,30 @@
 | 401 | 277 | Maricela Joslin |
 | 402 | 276 | Joab Gonzalez |
 | 403 | 274 | Zesty Twistpiece |
-| 404 | 274 | Dominique Melendez |
-| 405 | 273 | Stasia |
-| 406 | 273 | Snazzy Corner |
-| 407 | 272 | J.Wo |
-| 408 | 271 | King |
-| 409 | 271 | June Hoffman |
-| 410 | 271 | Winter Moon |
-| 411 | 270 | DanceAngel |
-| 412 | 269 | Jrr |
-| 413 | 268 | Teester |
+| 404 | 274 | Earl Edwards |
+| 405 | 274 | Dominique Melendez |
+| 406 | 273 | Stasia |
+| 407 | 273 | Snazzy Corner |
+| 408 | 272 | J.Wo |
+| 409 | 271 | King |
+| 410 | 271 | June Hoffman |
+| 411 | 271 | Winter Moon |
+| 412 | 270 | DanceAngel |
+| 413 | 269 | Jrr |
 | 414 | 268 | Luna |
-| 415 | 268 | Kendall Rhodie |
-| 416 | 264 | Merritt Brandt |
-| 417 | 263 | Laurie Patrick |
-| 418 | 263 | Erik Clary |
-| 419 | 262 | Earl Edwards |
+| 415 | 268 | Teester |
+| 416 | 268 | Kendall Rhodie |
+| 417 | 264 | Merritt Brandt |
+| 418 | 263 | Laurie Patrick |
+| 419 | 263 | Erik Clary |
 | 420 | 262 | Scrumptious |
 | 421 | 261 | Tricia Motika Cowan |
 | 422 | 261 | Lee Ann Gibby |
-| 423 | 260 | Silly Risegrid |
-| 424 | 260 | Sarah Montagne Forsberg |
-| 425 | 259 | Tiffany Smith |
+| 423 | 260 | Sarah Montagne Forsberg |
+| 424 | 260 | Silly Risegrid |
+| 425 | 259 | Jessica Peyton |
 | 426 | 259 | Sandra Stark |
-| 427 | 259 | Jessica Peyton |
+| 427 | 259 | Tiffany Smith |
 | 428 | 259 | Loopy Hitter |
 | 429 | 258 | Valerie Silva |
 | 430 | 257 | LaTanya GeminiondaRise Johnson |
@@ -444,10 +444,10 @@
 | 436 | 254 | Bouncy |
 | 437 | 254 | farfromlocal |
 | 438 | 254 | Mimi Dominguez |
-| 439 | 253 | LeRoy jenkins |
-| 440 | 253 | Andreas Vs Shinky |
-| 441 | 252 | Toon Up |
-| 442 | 252 | Dawn Phelps |
+| 439 | 253 | Andreas Vs Shinky |
+| 440 | 253 | LeRoy jenkins |
+| 441 | 252 | Dawn Phelps |
+| 442 | 252 | Toon Up |
 | 443 | 252 | Ryan Paul Clark-Ramsey |
 | 444 | 251 | Janna Thompson |
 | 445 | 250 | Danny Frausto |
@@ -1047,19 +1047,19 @@
 | 1039 | 95 | Patsy |
 | 1040 | 95 | Frisky Pusher |
 | 1041 | 95 | Acyndra Cain |
-| 1042 | 95 | Marion Wade |
-| 1043 | 95 | Loony Dashgrid |
+| 1042 | 95 | Loony Dashgrid |
+| 1043 | 95 | Marion Wade |
 | 1044 | 95 | Hyper Balancepiece |
 | 1045 | 95 | Hotstuff |
 | 1046 | 94 | Cranky Twistpiece |
-| 1047 | 94 | Theo Stamps |
-| 1048 | 94 | Ashley Ferguson |
-| 1049 | 94 | Elizabeth Ann Caro |
-| 1050 | 94 | Mrs.J2013 |
-| 1051 | 94 | Mari Isaac |
-| 1052 | 93 | Worley’s Wife |
-| 1053 | 93 | taya |
-| 1054 | 93 | Lush Balanceblock |
+| 1047 | 94 | Lush Balanceblock |
+| 1048 | 94 | Theo Stamps |
+| 1049 | 94 | Ashley Ferguson |
+| 1050 | 94 | Elizabeth Ann Caro |
+| 1051 | 94 | Mrs.J2013 |
+| 1052 | 94 | Mari Isaac |
+| 1053 | 93 | Worley’s Wife |
+| 1054 | 93 | taya |
 | 1055 | 93 | Poseidon S Davenport |
 | 1056 | 93 | Rocky |
 | 1057 | 93 | Bouncy Fitblock |
