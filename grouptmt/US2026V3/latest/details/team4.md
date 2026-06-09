@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 12:38:44 UTC
+# Standings for team4 as of 2026-06-09 12:39:22 UTC
 
 **Total Participants:** 2099
 
@@ -92,7 +92,7 @@
 | 84 | 1328 | Shaina Sharp |
 | 85 | 1306 | Lupe Alburquerque |
 | 86 | 1300 | Gloria Nunley Trussell |
-| 87 | 1244 | woopa 716 |
+| 87 | 1284 | woopa 716 |
 | 88 | 1237 | Fancy Crasher |
 | 89 | 1202 | MysticMaven |
 | 90 | 1175 | Bryan DjMagnum Evans |
@@ -222,13 +222,13 @@
 | 214 | 520 | Jaci Marie |
 | 215 | 518 | Tyson Stroppel |
 | 216 | 512 | Vanessa Sykes |
-| 217 | 508 | Goofy Riser |
-| 218 | 506 | Tina Thomas |
-| 219 | 501 | Smiley Gridzone |
-| 220 | 501 | Linda Miltenburg |
-| 221 | 500 | Genag |
-| 222 | 500 | Saucy Wipepiece |
-| 223 | 500 | Fran Aaron-Ring |
+| 217 | 510 | Fran Aaron-Ring |
+| 218 | 508 | Goofy Riser |
+| 219 | 506 | Tina Thomas |
+| 220 | 501 | Smiley Gridzone |
+| 221 | 501 | Linda Miltenburg |
+| 222 | 500 | Genag |
+| 223 | 500 | Saucy Wipepiece |
 | 224 | 499 | Snippy Splitter |
 | 225 | 496 | Jeremy |
 | 226 | 496 | Jackie Jackson |
@@ -607,87 +607,87 @@
 | 599 | 200 | Tonia Kay |
 | 600 | 200 | Kiara Itzel Crowe |
 | 601 | 200 | Marcus Fontenot |
-| 602 | 199 | Donna Bush |
-| 603 | 199 | Funky Twistpiece |
-| 604 | 199 | Janet Willoughby |
-| 605 | 199 | Mmm |
-| 606 | 199 | Nicole Dombrow |
-| 607 | 199 | Jacinta Hooker-Brown |
-| 608 | 199 | Rae Saunders |
-| 609 | 199 | Happy Shatterfit |
+| 602 | 199 | Mmm |
+| 603 | 199 | Donna Bush |
+| 604 | 199 | Nicole Dombrow |
+| 605 | 199 | Funky Twistpiece |
+| 606 | 199 | Janet Willoughby |
+| 607 | 199 | Happy Shatterfit |
+| 608 | 199 | Jacinta Hooker-Brown |
+| 609 | 199 | Rae Saunders |
 | 610 | 199 | Maegon Brazille |
-| 611 | 198 | Diana Fernandez |
+| 611 | 199 | Diana Fernandez |
 | 612 | 198 | Mint Marquez |
-| 613 | 198 | Ayobribri |
-| 614 | 198 | Robert Moore |
+| 613 | 198 | Robert Moore |
+| 614 | 198 | Ayobribri |
 | 615 | 198 | Bonique Bier |
 | 616 | 197 | Angela Adamo-Tash |
 | 617 | 197 | Snippy Racker |
-| 618 | 196 | Kellz M Bee |
-| 619 | 196 | Bigmamalizzet Latto |
+| 618 | 196 | Bigmamalizzet Latto |
+| 619 | 196 | Kellz M Bee |
 | 620 | 195 | Reina Pagan |
 | 621 | 195 | Happy Puzzle |
 | 622 | 195 | 1694AF |
 | 623 | 194 | Stotty |
 | 624 | 194 | Cozy Patternline |
-| 625 | 193 | Leasa Marie |
-| 626 | 193 | Manolo Canety |
-| 627 | 193 | Lord Solrac |
-| 628 | 193 | Arvin Ortega |
-| 629 | 192 | Noa Lee |
-| 630 | 192 | Katy |
-| 631 | 192 | Lisa Pie |
-| 632 | 192 | Vonni McLean |
-| 633 | 192 | Ralph Hell Rell Williams |
-| 634 | 192 | Chris |
-| 635 | 192 | Daniel Lossman |
+| 625 | 193 | Lord Solrac |
+| 626 | 193 | Leasa Marie |
+| 627 | 193 | Arvin Ortega |
+| 628 | 193 | Manolo Canety |
+| 629 | 192 | Lisa Pie |
+| 630 | 192 | Vonni McLean |
+| 631 | 192 | Chris |
+| 632 | 192 | Ralph Hell Rell Williams |
+| 633 | 192 | Daniel Lossman |
+| 634 | 192 | Katy |
+| 635 | 192 | Noa Lee |
 | 636 | 191 | Anna Ryan |
-| 637 | 190 | Brandon Bedenbaugh |
-| 638 | 190 | Simone |
-| 639 | 190 | Candice Sellers Worley |
-| 640 | 190 | Name |
-| 641 | 189 | MrsReap |
-| 642 | 189 | MattJennifer Marie Ericson |
-| 643 | 189 | Zesty Lift |
+| 637 | 190 | Name |
+| 638 | 190 | Candice Sellers Worley |
+| 639 | 190 | Simone |
+| 640 | 190 | Brandon Bedenbaugh |
+| 641 | 189 | Zesty Lift |
+| 642 | 189 | MrsReap |
+| 643 | 189 | MattJennifer Marie Ericson |
 | 644 | 187 | Brainbabe |
 | 645 | 187 | Suzanne North |
-| 646 | 186 | Dolores Falco |
-| 647 | 186 | Amber Jalbert |
-| 648 | 184 | Mrsjcraw18 |
+| 646 | 186 | Amber Jalbert |
+| 647 | 186 | Dolores Falco |
+| 648 | 184 | Virgil Mayfield-Brown |
 | 649 | 184 | Chilly Pop |
 | 650 | 184 | Csigirlnc |
-| 651 | 184 | Virgil Mayfield-Brown |
+| 651 | 184 | Mrsjcraw18 |
 | 652 | 184 | Lizzzzzz |
 | 653 | 183 | pussface |
-| 654 | 183 | Blessedmom865 |
-| 655 | 183 | Erica Pompey |
+| 654 | 183 | Erica Pompey |
+| 655 | 183 | Blessedmom865 |
 | 656 | 182 | Heidi Anne Scheiderer |
-| 657 | 181 | Ashley Ferguson |
-| 658 | 181 | Gigi Ivicsics |
-| 659 | 181 | Kelly Miller Williams |
-| 660 | 181 | Stef |
-| 661 | 180 | Shia Marie |
-| 662 | 180 | Marie Adkins |
-| 663 | 180 | BookwormCate |
-| 664 | 180 | Joshua Garner |
+| 657 | 181 | Stef |
+| 658 | 181 | Ashley Ferguson |
+| 659 | 181 | Gigi Ivicsics |
+| 660 | 181 | Kelly Miller Williams |
+| 661 | 180 | BookwormCate |
+| 662 | 180 | Shia Marie |
+| 663 | 180 | Marie Adkins |
+| 664 | 180 | Clever Patterner |
 | 665 | 180 | Jay Keating |
-| 666 | 180 | Ada Rodriguez Spradley |
-| 667 | 180 | Clever Patterner |
-| 668 | 180 | Silly Rollbuilder |
-| 669 | 179 | Dru Lui |
-| 670 | 179 | Gigi5 |
-| 671 | 179 | Will E Ayala |
-| 672 | 179 | Has2brat |
-| 673 | 179 | Inez Nez |
-| 674 | 178 | Bammer |
-| 675 | 178 | Allysha McFarland |
+| 666 | 180 | Joshua Garner |
+| 667 | 180 | Silly Rollbuilder |
+| 668 | 180 | Ada Rodriguez Spradley |
+| 669 | 179 | Gigi5 |
+| 670 | 179 | Dru Lui |
+| 671 | 179 | Inez Nez |
+| 672 | 179 | Will E Ayala |
+| 673 | 179 | Has2brat |
+| 674 | 178 | Anthony Edwards |
+| 675 | 178 | Bammer |
 | 676 | 178 | Breezy Wife |
-| 677 | 178 | Anthony Edwards |
-| 678 | 176 | Keith Kosmicki |
-| 679 | 176 | Deana Teck |
-| 680 | 176 | Alizabeth Garcia |
-| 681 | 175 | Gean DeJesus |
-| 682 | 175 | Frilly Zoney |
+| 677 | 178 | Allysha McFarland |
+| 678 | 177 | Frilly Zoney |
+| 679 | 176 | Keith Kosmicki |
+| 680 | 176 | Deana Teck |
+| 681 | 176 | Alizabeth Garcia |
+| 682 | 175 | Gean DeJesus |
 | 683 | 175 | Sarah Leake |
 | 684 | 175 | Ilia Blake |
 | 685 | 174 | Clever Fallzone |
