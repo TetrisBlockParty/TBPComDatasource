@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:44:45 UTC
+# Standings for team1 as of 2026-06-09 07:45:24 UTC
 
 **Total Participants:** 2015
 
@@ -130,9 +130,9 @@
 | 122 | 882 | Jon Gathers |
 | 123 | 877 | Michael J Gresham |
 | 124 | 869 | Slinky Puzzler |
-| 125 | 861 | Eartha Brown |
-| 126 | 848 | Atlantalindi |
-| 127 | 844 | Peppy Piececlear |
+| 125 | 864 | Peppy Piececlear |
+| 126 | 861 | Eartha Brown |
+| 127 | 848 | Atlantalindi |
 | 128 | 842 | Nutty Spinblock |
 | 129 | 831 | Kaleisha Smith |
 | 130 | 830 | No_Other_Choice |
@@ -410,12 +410,12 @@
 | 402 | 278 | Shanaa Germany Crittenden |
 | 403 | 277 | Bambi Johnson |
 | 404 | 276 | DaGuy |
-| 405 | 275 | Chris Sladoje |
+| 405 | 275 | NewEve |
 | 406 | 275 | Rachael R Gull |
 | 407 | 275 | Kelli Couture |
 | 408 | 275 | Tesiree Cray |
 | 409 | 275 | Falisa Bell |
-| 410 | 275 | NewEve |
+| 410 | 275 | Chris Sladoje |
 | 411 | 274 | 신재호 |
 | 412 | 274 | Shakmar |
 | 413 | 270 | Deveda Williams |
@@ -423,10 +423,10 @@
 | 415 | 269 | Aihpos |
 | 416 | 269 | Bambam |
 | 417 | 269 | Kristine Marie Palmer |
-| 418 | 266 | Rebecca Jackson |
-| 419 | 265 | Jae Thompson-Tyus |
-| 420 | 264 | Boldy Matchbuilder |
-| 421 | 262 | BabyCakes |
+| 418 | 267 | BabyCakes |
+| 419 | 266 | Rebecca Jackson |
+| 420 | 265 | Jae Thompson-Tyus |
+| 421 | 264 | Boldy Matchbuilder |
 | 422 | 261 | LaTonya Myers |
 | 423 | 260 | HS Arce |
 | 424 | 260 | Peppy Towerbuilder |
