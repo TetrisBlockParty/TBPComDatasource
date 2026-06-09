@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:10:44 UTC
+# Standings for team1 as of 2026-06-09 07:11:21 UTC
 
 **Total Participants:** 2008
 
@@ -350,7 +350,7 @@
 | 342 | 330 | Crystal Boyd |
 | 343 | 330 | ♈️ Ariesbaby |
 | 344 | 329 | Bubbly Piececlear |
-| 345 | 320 | Jackie Sanasay |
+| 345 | 325 | Jackie Sanasay |
 | 346 | 320 | 大竹直之 |
 | 347 | 318 | Nerdy Snapfall |
 | 348 | 317 | Jai |
@@ -1101,16 +1101,16 @@
 | 1093 | 81 | Hannah Hall |
 | 1094 | 81 | Tonya Thomas |
 | 1095 | 80 | Chill Curvebuilder |
-| 1096 | 80 | Frothy Zoney |
-| 1097 | 80 | Michael Gray |
+| 1096 | 80 | Michael Gray |
+| 1097 | 80 | Frothy Zoney |
 | 1098 | 80 | Linzi Cole |
 | 1099 | 80 | Ness |
 | 1100 | 80 | Demi Ovalle |
 | 1101 | 80 | Chevalier Burley |
 | 1102 | 80 | Rachel Lopez |
 | 1103 | 80 | Richard Harper |
-| 1104 | 80 | nay |
-| 1105 | 80 | Bianca Nawlinsgurl Ferguson |
+| 1104 | 80 | Bianca Nawlinsgurl Ferguson |
+| 1105 | 80 | nay |
 | 1106 | 80 | Lisa420 |
 | 1107 | 80 | Alisha Dawson Crouch |
 | 1108 | 80 | Lady Scorpio |
@@ -1121,50 +1121,50 @@
 | 1113 | 78 | Alicia Lei |
 | 1114 | 78 | Jennifer Rogers |
 | 1115 | 78 | Dennis Ripley |
-| 1116 | 77 | Shanae Beasley |
-| 1117 | 77 | Clever Wrecker |
-| 1118 | 77 | UnionBoss |
-| 1119 | 77 | Tomme Poliwka |
-| 1120 | 77 | Renee J. Thomas |
-| 1121 | 77 | Jackie English |
-| 1122 | 77 | S.S |
-| 1123 | 77 | Lil T |
-| 1124 | 77 | Tori Carter |
-| 1125 | 76 | Mama P |
-| 1126 | 76 | LaMinda Todd |
-| 1127 | 76 | Silly Edgepiece |
-| 1128 | 76 | Christopher Wallace |
-| 1129 | 76 | Heather Cross-Davis |
-| 1130 | 76 | Jane Lame |
-| 1131 | 76 | NataAllDay |
-| 1132 | 75 | Cathilia Rodriguez |
-| 1133 | 75 | jac |
-| 1134 | 75 | Kyle Franklin |
-| 1135 | 75 | Ray Baker |
-| 1136 | 75 | Brave Balanceblock |
-| 1137 | 75 | Khatyrah Burnette |
-| 1138 | 75 | Amanda Colwell |
-| 1139 | 75 | Courtney Robinson |
-| 1140 | 75 | Tina Criam |
-| 1141 | 75 | sasha |
-| 1142 | 74 | Lively Clusterline |
-| 1143 | 74 | Riq Wokhardt |
+| 1116 | 77 | UnionBoss |
+| 1117 | 77 | Shanae Beasley |
+| 1118 | 77 | Kayd |
+| 1119 | 77 | Clever Wrecker |
+| 1120 | 77 | Tomme Poliwka |
+| 1121 | 77 | Renee J. Thomas |
+| 1122 | 77 | Jackie English |
+| 1123 | 77 | S.S |
+| 1124 | 77 | Lil T |
+| 1125 | 77 | Tori Carter |
+| 1126 | 76 | Mama P |
+| 1127 | 76 | LaMinda Todd |
+| 1128 | 76 | Silly Edgepiece |
+| 1129 | 76 | Christopher Wallace |
+| 1130 | 76 | Heather Cross-Davis |
+| 1131 | 76 | Jane Lame |
+| 1132 | 76 | NataAllDay |
+| 1133 | 75 | Cathilia Rodriguez |
+| 1134 | 75 | jac |
+| 1135 | 75 | Kyle Franklin |
+| 1136 | 75 | Courtney Robinson |
+| 1137 | 75 | Ray Baker |
+| 1138 | 75 | Brave Balanceblock |
+| 1139 | 75 | Khatyrah Burnette |
+| 1140 | 75 | Amanda Colwell |
+| 1141 | 75 | Tina Criam |
+| 1142 | 75 | sasha |
+| 1143 | 74 | Diamond Nicole |
 | 1144 | 74 | Giggy Brickfit |
-| 1145 | 74 | Tetrisdestroyer |
-| 1146 | 74 | Ace Hardware |
-| 1147 | 74 | Ivan Israel |
-| 1148 | 74 | Kayd |
-| 1149 | 74 | Diamond Nicole |
-| 1150 | 73 | Thelma Samuels |
-| 1151 | 73 | Chummy Twisterfit |
-| 1152 | 73 | Jonathan Zold |
-| 1153 | 73 | Lazy Matchgrid |
-| 1154 | 73 | Maxine Williams |
-| 1155 | 73 | Ducc2408 |
-| 1156 | 73 | Alice Biggs |
+| 1145 | 74 | Ivan Israel |
+| 1146 | 74 | Lively Clusterline |
+| 1147 | 74 | Riq Wokhardt |
+| 1148 | 74 | Tetrisdestroyer |
+| 1149 | 74 | Ace Hardware |
+| 1150 | 73 | Maxine Williams |
+| 1151 | 73 | Thelma Samuels |
+| 1152 | 73 | Chummy Twisterfit |
+| 1153 | 73 | Alice Biggs |
+| 1154 | 73 | Jonathan Zold |
+| 1155 | 73 | Lazy Matchgrid |
+| 1156 | 73 | Ducc2408 |
 | 1157 | 72 | Bohdi |
-| 1158 | 72 | ImmeKC |
-| 1159 | 72 | Tempee |
+| 1158 | 72 | Tempee |
+| 1159 | 72 | ImmeKC |
 | 1160 | 72 | Hoppy Buildsnap |
 | 1161 | 72 | WReckitraff |
 | 1162 | 72 | Vivian Bunnell Myers |
