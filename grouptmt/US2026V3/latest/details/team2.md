@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 11:12:20 UTC
+# Standings for team2 as of 2026-06-09 11:12:43 UTC
 
 **Total Participants:** 2474
 
@@ -631,36 +631,36 @@
 | 623 | 227 | Epic Tilemaker |
 | 624 | 227 | Laura Melton |
 | 625 | 227 | Jennifer Leigh |
-| 626 | 227 | Alonzo Reed |
-| 627 | 227 | Jamie Adams |
-| 628 | 226 | Jodi Johnson |
-| 629 | 226 | Raymond Dawson |
-| 630 | 225 | Cheery Towerzone |
-| 631 | 225 | Brian Favre |
-| 632 | 225 | Zany Wrecker |
-| 633 | 225 | Kelly Bormann |
-| 634 | 224 | Carrie Smith Negron |
-| 635 | 224 | Mary Whitaker |
-| 636 | 223 | Epic Framezone |
-| 637 | 222 | Darla Ragsdale |
-| 638 | 222 | Stacy Shaunce |
-| 639 | 222 | Busted9mm |
-| 640 | 221 | Dhelsie Qurasima |
-| 641 | 220 | Alycia Marie Zelensky |
-| 642 | 220 | Krystle L Coon |
-| 643 | 220 | Chris Christ |
-| 644 | 220 | Wendy McKee |
+| 626 | 227 | Violet Olivares |
+| 627 | 227 | Alonzo Reed |
+| 628 | 227 | Jamie Adams |
+| 629 | 226 | Jodi Johnson |
+| 630 | 226 | Raymond Dawson |
+| 631 | 225 | Zany Wrecker |
+| 632 | 225 | Brian Favre |
+| 633 | 225 | Cheery Towerzone |
+| 634 | 225 | Kelly Bormann |
+| 635 | 224 | Carrie Smith Negron |
+| 636 | 224 | Mary Whitaker |
+| 637 | 223 | Epic Framezone |
+| 638 | 222 | Darla Ragsdale |
+| 639 | 222 | Stacy Shaunce |
+| 640 | 222 | Busted9mm |
+| 641 | 221 | Dhelsie Qurasima |
+| 642 | 220 | Alycia Marie Zelensky |
+| 643 | 220 | Krystle L Coon |
+| 644 | 220 | Chris Christ |
 | 645 | 220 | Joannah Capilitan |
-| 646 | 219 | Rick |
+| 646 | 220 | Wendy McKee |
 | 647 | 219 | Perky Linebuilder |
-| 648 | 219 | Cindy Brown |
-| 649 | 218 | Seana Moran |
-| 650 | 218 | MamaRachel |
-| 651 | 218 | Maurii93 |
-| 652 | 218 | Violet Olivares |
+| 648 | 219 | Rick |
+| 649 | 219 | Cindy Brown |
+| 650 | 218 | Seana Moran |
+| 651 | 218 | MamaRachel |
+| 652 | 218 | Maurii93 |
 | 653 | 217 | Brooke Kaune |
-| 654 | 217 | Melissa Fink |
-| 655 | 217 | Connie McCoy |
+| 654 | 217 | Connie McCoy |
+| 655 | 217 | Melissa Fink |
 | 656 | 217 | Spicy Snapclear |
 | 657 | 217 | Mona Good |
 | 658 | 215 | Nerdy Gridlock |
@@ -986,26 +986,26 @@
 | 978 | 135 | Mee Maw |
 | 979 | 135 | Beachmama |
 | 980 | 135 | Sharon Wade |
-| 981 | 135 | Tommi Lynn Lawson |
-| 982 | 135 | Ava Taber |
-| 983 | 135 | Emilee Dulyea |
-| 984 | 134 | Amy |
-| 985 | 134 | Cassandra Milner |
-| 986 | 134 | Diane Byrd |
-| 987 | 133 | Frothy Zonebuilder |
-| 988 | 133 | Brandy McCleary |
-| 989 | 133 | Seamus |
-| 990 | 133 | Cheryl Graves Downard |
-| 991 | 133 | Jazzy Snapfit |
-| 992 | 133 | Grimwitch |
-| 993 | 133 | Michelle |
-| 994 | 132 | Manda |
-| 995 | 132 | Belinda Gullion Austin |
-| 996 | 132 | Tim Moore |
-| 997 | 131 | Chris |
-| 998 | 131 | Eva Lopez |
-| 999 | 131 | Paige Lynette Sohl |
-| 1000 | 131 | Silly Clicker |
+| 981 | 135 | Silly Clicker |
+| 982 | 135 | Tommi Lynn Lawson |
+| 983 | 135 | Ava Taber |
+| 984 | 135 | Emilee Dulyea |
+| 985 | 134 | Amy |
+| 986 | 134 | Cassandra Milner |
+| 987 | 134 | Diane Byrd |
+| 988 | 133 | Frothy Zonebuilder |
+| 989 | 133 | Brandy McCleary |
+| 990 | 133 | Seamus |
+| 991 | 133 | Cheryl Graves Downard |
+| 992 | 133 | Jazzy Snapfit |
+| 993 | 133 | Grimwitch |
+| 994 | 133 | Michelle |
+| 995 | 132 | Manda |
+| 996 | 132 | Belinda Gullion Austin |
+| 997 | 132 | Tim Moore |
+| 998 | 131 | Chris |
+| 999 | 131 | Eva Lopez |
+| 1000 | 131 | Paige Lynette Sohl |
 | 1001 | 131 | Lyndzey Sciscoe |
 | 1002 | 130 | Desia Walker |
 | 1003 | 130 | Val |
