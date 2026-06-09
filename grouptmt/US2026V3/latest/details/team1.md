@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 03:28:45 UTC
+# Standings for team1 as of 2026-06-09 03:29:21 UTC
 
 **Total Participants:** 1962
 
@@ -170,7 +170,7 @@
 | 162 | 614 | Byron Mario Cawthon |
 | 163 | 611 | SyTheEvilGenius1 |
 | 164 | 610 | Genne Scott |
-| 165 | 599 | Tammye Turner |
+| 165 | 602 | Tammye Turner |
 | 166 | 598 | Abraham Espaillat |
 | 167 | 596 | Cj Gorman |
 | 168 | 595 | FallDee |
@@ -178,24 +178,24 @@
 | 170 | 581 | Michelle Titus |
 | 171 | 577 | Randizzle |
 | 172 | 577 | TT |
-| 173 | 574 | Eugina Slater |
-| 174 | 574 | DaVonte' Cretter |
+| 173 | 574 | DaVonte' Cretter |
+| 174 | 574 | Eugina Slater |
 | 175 | 573 | Nobles Brandon |
 | 176 | 570 | Jamal Itzjusmall Chambers |
 | 177 | 569 | Zachary Colegrove |
 | 178 | 565 | IThinkNot |
 | 179 | 564 | Zappy Riser |
-| 180 | 562 | Yasmin Nakea Wright |
-| 181 | 560 | LaToya Chambers |
-| 182 | 559 | Sarah Clark |
-| 183 | 553 | Sharon Cail |
-| 184 | 552 | Katherine Short |
-| 185 | 550 | Tobey Marberry |
+| 180 | 563 | Wild Out Nai |
+| 181 | 562 | Yasmin Nakea Wright |
+| 182 | 560 | LaToya Chambers |
+| 183 | 559 | Sarah Clark |
+| 184 | 553 | Sharon Cail |
+| 185 | 552 | Katherine Short |
 | 186 | 550 | Block King |
-| 187 | 549 | Shell Lewis |
-| 188 | 546 | Po Marley |
-| 189 | 546 | Dee McCool |
-| 190 | 543 | Wild Out Nai |
+| 187 | 550 | Tobey Marberry |
+| 188 | 549 | Shell Lewis |
+| 189 | 546 | Po Marley |
+| 190 | 546 | Dee McCool |
 | 191 | 538 | Jessica Roberts |
 | 192 | 527 | MommaCia |
 | 193 | 525 | Tishauna Virgo |
@@ -212,8 +212,8 @@
 | 204 | 503 | Tamara N Lee |
 | 205 | 500 | Telisha Mims |
 | 206 | 498 | Julian Dickens Jr. |
-| 207 | 494 | Ty Øtg |
-| 208 | 494 | Antonia Wyche |
+| 207 | 494 | Antonia Wyche |
+| 208 | 494 | Ty Øtg |
 | 209 | 491 | Mic Balew |
 | 210 | 490 | Lashawn Wallace |
 | 211 | 486 | Andre Sanon |
@@ -224,8 +224,8 @@
 | 216 | 474 | Marie Wilson |
 | 217 | 473 | Nicole Watson-Dixon |
 | 218 | 472 | Rachel Zimmerman |
-| 219 | 466 | Tootsie Pop |
-| 220 | 466 | pooh |
+| 219 | 466 | pooh |
+| 220 | 466 | Tootsie Pop |
 | 221 | 465 | Natasha Rucker |
 | 222 | 461 | Giggy Clusterer |
 | 223 | 460 | Tanya Clayton |
@@ -234,16 +234,16 @@
 | 226 | 455 | Tamara Johnson-Carter |
 | 227 | 452 | Kenny MrOnethousand Peck |
 | 228 | 452 | Tina Mitchell |
-| 229 | 451 | Joey Albright |
-| 230 | 451 | Simmone T. Kadiri |
+| 229 | 451 | Simmone T. Kadiri |
+| 230 | 451 | Joey Albright |
 | 231 | 451 | Penee Wiggins |
 | 232 | 450 | boogeywoogey |
-| 233 | 449 | Keke Ferguson |
-| 234 | 449 | Qwlonda Shirrell |
-| 235 | 449 | Ebony |
+| 233 | 449 | Qwlonda Shirrell |
+| 234 | 449 | Ebony |
+| 235 | 449 | Keke Ferguson |
 | 236 | 448 | Michael Bethezar |
-| 237 | 447 | Jazzy Fireflighters |
-| 238 | 447 | Rachael Bakowicz Edwards |
+| 237 | 447 | Rachael Bakowicz Edwards |
+| 238 | 447 | Jazzy Fireflighters |
 | 239 | 446 | Tessa Gaskin |
 | 240 | 445 | Karebear |
 | 241 | 445 | JaClanDiah |
@@ -255,12 +255,12 @@
 | 247 | 440 | Zippy Lifter |
 | 248 | 440 | Slinky Brickmatch |
 | 249 | 439 | Asani CHumba |
-| 250 | 436 | Leebo Slice |
-| 251 | 434 | Choc |
-| 252 | 432 | Lashaunda |
-| 253 | 432 | Trina Greenwood |
-| 254 | 432 | Jessica Russell |
-| 255 | 431 | Jenna Renee |
+| 250 | 437 | Jenna Renee |
+| 251 | 436 | Leebo Slice |
+| 252 | 434 | Choc |
+| 253 | 432 | Lashaunda |
+| 254 | 432 | Trina Greenwood |
+| 255 | 432 | Jessica Russell |
 | 256 | 430 | Snappy Link |
 | 257 | 430 | Tarnisha Neicy Jones |
 | 258 | 430 | Davionte DaeDae Hopson-Rodriguez |
@@ -564,62 +564,62 @@
 | 556 | 191 | Miera Nicole |
 | 557 | 191 | Nona Harriel |
 | 558 | 190 | Adrian Wilson |
-| 559 | 190 | Chipper Snapper |
-| 560 | 190 | Jovy |
+| 559 | 190 | Jovy |
+| 560 | 190 | Chipper Snapper |
 | 561 | 189 | Sean White |
-| 562 | 188 | DeAngelo Sorrells |
-| 563 | 188 | Ashlie Mo |
-| 564 | 188 | MindlessMic |
-| 565 | 188 | Zappy Snapgrid |
-| 566 | 188 | Sarah Steckbauer |
-| 567 | 188 | Daring Riserfit |
-| 568 | 188 | Tyiesha Pie Farmer |
-| 569 | 187 | Kimmie Gargano |
-| 570 | 187 | Lively Riserpiece |
+| 562 | 188 | Ashlie Mo |
+| 563 | 188 | Sarah Steckbauer |
+| 564 | 188 | Tyiesha Pie Farmer |
+| 565 | 188 | MindlessMic |
+| 566 | 188 | Daring Riserfit |
+| 567 | 188 | Zappy Snapgrid |
+| 568 | 188 | DeAngelo Sorrells |
+| 569 | 187 | Lively Riserpiece |
+| 570 | 187 | Kimmie Gargano |
 | 571 | 186 | whatever |
 | 572 | 186 | Brittany Sara Heldwein |
 | 573 | 185 | Sarah Swietlicki - Lopez |
-| 574 | 184 | Kelley Johnson |
-| 575 | 184 | Dorian Griffin |
+| 574 | 184 | Dorian Griffin |
+| 575 | 184 | Kelley Johnson |
 | 576 | 183 | Amihan |
 | 577 | 183 | Twisty Cascadeclear |
-| 578 | 183 | Tushama Cheris Okraku |
-| 579 | 183 | Shakuria Cortia Burney |
-| 580 | 183 | Erika |
-| 581 | 182 | Spicy Shatterblock |
-| 582 | 182 | Jimmy Shannon |
-| 583 | 182 | Comedian Prince Paul |
-| 584 | 182 | RylonJones |
+| 578 | 183 | Erika |
+| 579 | 183 | Tushama Cheris Okraku |
+| 580 | 183 | Shakuria Cortia Burney |
+| 581 | 182 | RylonJones |
+| 582 | 182 | Comedian Prince Paul |
+| 583 | 182 | Spicy Shatterblock |
+| 584 | 182 | Jimmy Shannon |
 | 585 | 181 | AnnaM |
-| 586 | 180 | NedaWin |
-| 587 | 180 | Yadira Salgado |
-| 588 | 180 | Leavon Smith |
-| 589 | 180 | Cornelius Neal |
-| 590 | 180 | Carolyn Smith |
-| 591 | 180 | Chris Rogers |
+| 586 | 180 | Chris Rogers |
+| 587 | 180 | Leavon Smith |
+| 588 | 180 | NedaWin |
+| 589 | 180 | Carolyn Smith |
+| 590 | 180 | Yadira Salgado |
+| 591 | 180 | Cornelius Neal |
 | 592 | 179 | Loopy Tiler |
 | 593 | 178 | Bubbly Slammer |
-| 594 | 177 | Tangy Moore |
+| 594 | 177 | krd |
 | 595 | 177 | PSD |
-| 596 | 176 | Squaw Ki Ng |
+| 596 | 177 | Tangy Moore |
 | 597 | 176 | Char |
 | 598 | 176 | Frisky Gridder |
-| 599 | 175 | Juan Lewis |
-| 600 | 175 | Shameka Tiffany |
-| 601 | 174 | Clipzby |
-| 602 | 173 | Ashley Monet Terrell |
-| 603 | 173 | Mathew Trudell |
-| 604 | 173 | Heather Wilson |
-| 605 | 173 | Claudia Price |
-| 606 | 172 | Nerdy Wipefit |
+| 599 | 176 | Squaw Ki Ng |
+| 600 | 175 | Juan Lewis |
+| 601 | 175 | Shameka Tiffany |
+| 602 | 174 | Clipzby |
+| 603 | 173 | Ashley Monet Terrell |
+| 604 | 173 | Claudia Price |
+| 605 | 173 | Heather Wilson |
+| 606 | 173 | Mathew Trudell |
 | 607 | 172 | BonnieB |
 | 608 | 172 | Betsy B. Yohan |
-| 609 | 172 | krd |
-| 610 | 171 | Ta'Kaiyah M. Spann |
-| 611 | 171 | Victor |
-| 612 | 170 | Rebecca Jackson |
-| 613 | 170 | meatballs |
-| 614 | 170 | Christi Walker Patton |
+| 609 | 172 | Nerdy Wipefit |
+| 610 | 171 | Victor |
+| 611 | 171 | Ta'Kaiyah M. Spann |
+| 612 | 170 | meatballs |
+| 613 | 170 | Christi Walker Patton |
+| 614 | 170 | Rebecca Jackson |
 | 615 | 169 | rb |
 | 616 | 168 | Lynn |
 | 617 | 168 | Giddy Staggerpiece |
