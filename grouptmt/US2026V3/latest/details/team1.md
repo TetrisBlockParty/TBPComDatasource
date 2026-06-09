@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 03:22:22 UTC
+# Standings for team1 as of 2026-06-09 03:22:46 UTC
 
 **Total Participants:** 1957
 
@@ -116,8 +116,8 @@
 | 108 | 955 | Voice |
 | 109 | 946 | Cece Fowler |
 | 110 | 944 | ELM |
-| 111 | 919 | La'Chae Nickole |
-| 112 | 915 | Jaida De'Anne Cox |
+| 111 | 924 | Jaida De'Anne Cox |
+| 112 | 919 | La'Chae Nickole |
 | 113 | 911 | TAZ-MF-NIZIL |
 | 114 | 908 | Danielle Barthelme |
 | 115 | 895 | Slim Shedidthat |
