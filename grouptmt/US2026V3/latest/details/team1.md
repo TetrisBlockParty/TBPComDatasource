@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:48:44 UTC
+# Standings for team1 as of 2026-06-09 21:49:22 UTC
 
 **Total Participants:** 2115
 
@@ -46,7 +46,7 @@
 | 38 | 2649 | Weeze |
 | 39 | 2619 | Zappy Brickline |
 | 40 | 2540 | Jamie Willis |
-| 41 | 2456 | Epic Snapfall |
+| 41 | 2458 | Epic Snapfall |
 | 42 | 2445 | Hyper Slamdrop |
 | 43 | 2370 | Therealdywoune Peay |
 | 44 | 2203 | BlackQueen105 |
