@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 18:32:20 UTC
+# Standings for team4 as of 2026-06-09 18:32:44 UTC
 
 **Total Participants:** 2155
 
@@ -893,10 +893,10 @@
 | 885 | 135 | Cozy Builderfit |
 | 886 | 135 | Kimberly Devon |
 | 887 | 135 | Jennifer Terrill |
-| 888 | 134 | Breezy Rollfit |
-| 889 | 134 | Kena T. Tanner |
-| 890 | 134 | Kiki Moore |
-| 891 | 134 | Kenyatta Davis |
+| 888 | 134 | Kenyatta Davis |
+| 889 | 134 | Breezy Rollfit |
+| 890 | 134 | Kena T. Tanner |
+| 891 | 134 | Kiki Moore |
 | 892 | 134 | GETBOXED! |
 | 893 | 134 | Slinky Snapfit |
 | 894 | 133 | Electric Storm |
@@ -910,16 +910,16 @@
 | 902 | 132 | shonaberry |
 | 903 | 132 | Giggly Gridzone |
 | 904 | 132 | William Brooks |
-| 905 | 131 | Jonelle Jacobs |
-| 906 | 131 | Giggy Snapgrid |
-| 907 | 131 | Giggy Blockpiece |
-| 908 | 131 | Joha Mldo Castillo |
-| 909 | 131 | Certified Da Don |
-| 910 | 130 | Layne Davis |
-| 911 | 130 | idk240 |
-| 912 | 130 | Vicente Bolaños Jr. |
-| 913 | 130 | Krazylegzzzz |
-| 914 | 130 | Conela Rouse Goldstein |
+| 905 | 132 | Conela Rouse Goldstein |
+| 906 | 131 | Jonelle Jacobs |
+| 907 | 131 | Giggy Snapgrid |
+| 908 | 131 | Giggy Blockpiece |
+| 909 | 131 | Joha Mldo Castillo |
+| 910 | 131 | Certified Da Don |
+| 911 | 130 | Layne Davis |
+| 912 | 130 | idk240 |
+| 913 | 130 | Vicente Bolaños Jr. |
+| 914 | 130 | Krazylegzzzz |
 | 915 | 130 | Lizard |
 | 916 | 130 | Alicia Horsea Rojas |
 | 917 | 130 | Elise Ann |
