@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:42:42 UTC
+# Standings for team1 as of 2026-06-09 10:43:23 UTC
 
 **Total Participants:** 2036
 
@@ -20,7 +20,7 @@
 | 12 | 8290 | Timothy Robert |
 | 13 | 7896 | Tracy Cohen |
 | 14 | 7548 | Cozy Edge |
-| 15 | 6485 | Cassidy Butler |
+| 15 | 6684 | Cassidy Butler |
 | 16 | 6156 | Ebo Got-Time |
 | 17 | 5804 | Hunter Rayborn |
 | 18 | 5678 | Jocelyn Pope-Sewell |
@@ -43,7 +43,7 @@
 | 35 | 2755 | COSA303 |
 | 36 | 2649 | Weeze |
 | 37 | 2619 | Zappy Brickline |
-| 38 | 2433 | Jamie Willis |
+| 38 | 2443 | Jamie Willis |
 | 39 | 2381 | Epic Snapfall |
 | 40 | 2300 | Janine Hunter |
 | 41 | 2203 | BlackQueen105 |
@@ -83,11 +83,11 @@
 | 75 | 1388 | Jessica Roberts |
 | 76 | 1350 | MamaBear |
 | 77 | 1333 | Spicy Balancer |
-| 78 | 1326 | Todd C. Clemens |
-| 79 | 1316 | Bre Maugh |
-| 80 | 1313 | Ashley Espeut |
-| 81 | 1295 | Whitney Butler |
-| 82 | 1293 | Moomoo |
+| 78 | 1333 | Moomoo |
+| 79 | 1326 | Todd C. Clemens |
+| 80 | 1316 | Bre Maugh |
+| 81 | 1313 | Ashley Espeut |
+| 82 | 1295 | Whitney Butler |
 | 83 | 1288 | Dawn L Washington-Feuquay |
 | 84 | 1274 | Voice |
 | 85 | 1258 | Frisky Fallmatch |
@@ -150,8 +150,8 @@
 | 142 | 754 | Jhaime |
 | 143 | 751 | Kellie Hall |
 | 144 | 747 | Carolynne Walker-Bell |
-| 145 | 730 | ing410 |
-| 146 | 722 | Snappy Link |
+| 145 | 743 | Snappy Link |
+| 146 | 730 | ing410 |
 | 147 | 720 | Felicia Williams |
 | 148 | 719 | Dena Marie Lee |
 | 149 | 708 | De'Laonzeo Anthony |
@@ -176,9 +176,9 @@
 | 168 | 646 | TeeMaster Barber IsLyfe |
 | 169 | 645 | Keke Ferguson |
 | 170 | 645 | Marcheta Cervantez |
-| 171 | 643 | Ottison Dianna |
-| 172 | 637 | FallDee |
-| 173 | 632 | Jeffrey Barrows |
+| 171 | 644 | Jeffrey Barrows |
+| 172 | 643 | Ottison Dianna |
+| 173 | 637 | FallDee |
 | 174 | 630 | Bambi Love |
 | 175 | 629 | Charletha Williams |
 | 176 | 623 | Abraham Espaillat |
@@ -312,10 +312,10 @@
 | 304 | 386 | Steve Reno |
 | 305 | 386 | Tremaine Hiler |
 | 306 | 383 | win |
-| 307 | 380 | Nerdy Blockpiece |
-| 308 | 377 | AF Cruz |
-| 309 | 377 | Amber Wilson |
-| 310 | 376 | Jackie Sanasay |
+| 307 | 382 | Jackie Sanasay |
+| 308 | 380 | Nerdy Blockpiece |
+| 309 | 377 | AF Cruz |
+| 310 | 377 | Amber Wilson |
 | 311 | 375 | NastyFriend |
 | 312 | 371 | Lauraly |
 | 313 | 371 | 大竹直之 |
