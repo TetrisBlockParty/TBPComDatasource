@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 01:22:44 UTC
+# Standings for team4 as of 2026-06-09 01:23:21 UTC
 
 **Total Participants:** 1984
 
@@ -296,13 +296,13 @@
 | 288 | 345 | Lucy Honer |
 | 289 | 341 | Tina Thomas |
 | 290 | 340 | Tipsy Zonebuilder |
-| 291 | 337 | Giggly Tilt |
+| 291 | 340 | Capone |
 | 292 | 337 | tigerlilly |
-| 293 | 336 | Renee Sapp |
-| 294 | 335 | EvoKitty |
-| 295 | 335 | Genger |
-| 296 | 335 | Morgan Stevens |
-| 297 | 335 | Capone |
+| 293 | 337 | Giggly Tilt |
+| 294 | 336 | Renee Sapp |
+| 295 | 335 | EvoKitty |
+| 296 | 335 | Genger |
+| 297 | 335 | Morgan Stevens |
 | 298 | 335 | Spunky Gridzone |
 | 299 | 333 | Tiffany Bunker-Hill |
 | 300 | 331 | Queen B |
@@ -498,47 +498,47 @@
 | 490 | 205 | Ross Bryant |
 | 491 | 203 | Lacie Powers |
 | 492 | 203 | Lupe Chapa |
-| 493 | 202 | Lora Schallert |
-| 494 | 202 | CrashOutCarla |
-| 495 | 201 | LaToya LeBlanc |
-| 496 | 200 | Blockcrusher |
-| 497 | 200 | Kristine Hj Han |
-| 498 | 200 | Carissa Thorne-See |
-| 499 | 200 | Keke Johnson |
-| 500 | 200 | Ashley Robbins |
-| 501 | 199 | Jacinta Hooker-Brown |
-| 502 | 199 | Janet Willoughby |
-| 503 | 199 | Funky Twistpiece |
-| 504 | 199 | Donna Bush |
-| 505 | 199 | Nicole Dombrow |
-| 506 | 199 | Happy Shatterfit |
-| 507 | 199 | Rae Saunders |
-| 508 | 199 | Maegon Brazille |
-| 509 | 198 | Mint Marquez |
-| 510 | 198 | Lani |
-| 511 | 198 | Silly Fallzone |
-| 512 | 198 | Amanda Snow |
-| 513 | 198 | Elissa Danks |
-| 514 | 198 | John Cotugno |
+| 493 | 202 | Bri Martin |
+| 494 | 202 | Lora Schallert |
+| 495 | 202 | CrashOutCarla |
+| 496 | 201 | LaToya LeBlanc |
+| 497 | 200 | Blockcrusher |
+| 498 | 200 | Kristine Hj Han |
+| 499 | 200 | Carissa Thorne-See |
+| 500 | 200 | Keke Johnson |
+| 501 | 200 | Ashley Robbins |
+| 502 | 199 | Jacinta Hooker-Brown |
+| 503 | 199 | Nicole Dombrow |
+| 504 | 199 | Janet Willoughby |
+| 505 | 199 | Funky Twistpiece |
+| 506 | 199 | Donna Bush |
+| 507 | 199 | Happy Shatterfit |
+| 508 | 199 | Rae Saunders |
+| 509 | 199 | Maegon Brazille |
+| 510 | 198 | Mint Marquez |
+| 511 | 198 | Lani |
+| 512 | 198 | Silly Fallzone |
+| 513 | 198 | Amanda Snow |
+| 514 | 198 | Elissa Danks |
 | 515 | 198 | Robert Moore |
-| 516 | 197 | Snippy Racker |
-| 517 | 197 | Rhonda Dowling |
-| 518 | 196 | Diana Fernandez |
-| 519 | 196 | Loopy Clusterline |
-| 520 | 196 | June Hoffman |
-| 521 | 196 | Nicole Colby McCloskey |
-| 522 | 196 | Tiffany Morris Garner |
-| 523 | 195 | Dawn Marie Trujillo |
-| 524 | 195 | ShaniP |
-| 525 | 195 | Jen Roe |
-| 526 | 195 | Karen Small |
-| 527 | 194 | Perry Ransom |
-| 528 | 194 | Dena Lynn Rogers |
+| 516 | 198 | John Cotugno |
+| 517 | 197 | Snippy Racker |
+| 518 | 197 | Rhonda Dowling |
+| 519 | 196 | Diana Fernandez |
+| 520 | 196 | Loopy Clusterline |
+| 521 | 196 | June Hoffman |
+| 522 | 196 | Nicole Colby McCloskey |
+| 523 | 196 | Tiffany Morris Garner |
+| 524 | 195 | Dawn Marie Trujillo |
+| 525 | 195 | ShaniP |
+| 526 | 195 | Jen Roe |
+| 527 | 195 | Karen Small |
+| 528 | 194 | Perry Ransom |
 | 529 | 194 | Thermeka Lindsey |
-| 530 | 192 | Chris |
+| 530 | 194 | Dena Lynn Rogers |
 | 531 | 192 | Daniel Lossman |
 | 532 | 192 | Ralph Hell Rell Williams |
-| 533 | 192 | Bri Martin |
+| 533 | 192 | Chris |
 | 534 | 190 | Simone |
 | 535 | 190 | Name |
 | 536 | 189 | Butterpat |
@@ -652,22 +652,22 @@
 | 644 | 154 | Ian T Parker |
 | 645 | 153 | Witty Fitblock |
 | 646 | 153 | Shawntae Mccary |
-| 647 | 153 | Kandylands |
-| 648 | 153 | Tarsha Thomas-Martinez |
-| 649 | 153 | Janae Harris |
-| 650 | 153 | Snappy Stack |
-| 651 | 152 | All knowing |
-| 652 | 152 | Katy |
-| 653 | 151 | Renita Jordan |
-| 654 | 150 | Breezy Brickfit |
-| 655 | 150 | Alicia Blunt |
-| 656 | 150 | Michelle Sager |
-| 657 | 150 | Hasty Dropzone |
-| 658 | 149 | Paula Renee McCracken |
-| 659 | 149 | Heidi Hala |
-| 660 | 149 | Debby Muniz |
-| 661 | 148 | Latisha TeTe Williams |
-| 662 | 148 | Anthony McAlister |
+| 647 | 153 | Anthony McAlister |
+| 648 | 153 | Kandylands |
+| 649 | 153 | Tarsha Thomas-Martinez |
+| 650 | 153 | Janae Harris |
+| 651 | 153 | Snappy Stack |
+| 652 | 152 | All knowing |
+| 653 | 152 | Katy |
+| 654 | 151 | Renita Jordan |
+| 655 | 150 | Breezy Brickfit |
+| 656 | 150 | Alicia Blunt |
+| 657 | 150 | Michelle Sager |
+| 658 | 150 | Hasty Dropzone |
+| 659 | 149 | Paula Renee McCracken |
+| 660 | 149 | Heidi Hala |
+| 661 | 149 | Debby Muniz |
+| 662 | 148 | Latisha TeTe Williams |
 | 663 | 147 | David Lay |
 | 664 | 147 | Surviving Be Back Soon |
 | 665 | 146 | Jasmine Marie |
