@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 16:04:46 UTC
+# Standings for team4 as of 2026-06-09 16:05:23 UTC
 
 **Total Participants:** 2132
 
@@ -127,14 +127,14 @@
 | 119 | 979 | Heather Preston |
 | 120 | 965 | CJ |
 | 121 | 965 | Kristen Wallace |
-| 122 | 952 | Alala.Cersei |
-| 123 | 952 | Loony Glidepiece |
+| 122 | 962 | Loony Glidepiece |
+| 123 | 952 | Alala.Cersei |
 | 124 | 946 | Sharidan Klinginsmith |
 | 125 | 940 | Melissa WC |
 | 126 | 936 | Whitborn |
 | 127 | 932 | Irma |
 | 128 | 910 | Becky Doll-Hall |
-| 129 | 898 | Phil Peterson |
+| 129 | 903 | Phil Peterson |
 | 130 | 896 | Hairy Snake |
 | 131 | 890 | Ermadette |
 | 132 | 884 | Gorica Prusina |
@@ -591,22 +591,22 @@
 | 583 | 216 | Travis McKinnon |
 | 584 | 215 | Christina Barry |
 | 585 | 215 | ShaniP |
-| 586 | 215 | Lovetetris |
-| 587 | 215 | Kimberly Ann |
-| 588 | 214 | yourmomz |
-| 589 | 214 | Linda |
-| 590 | 214 | crobb77 |
-| 591 | 213 | Sharon Tyler |
-| 592 | 213 | Cari Underwood |
-| 593 | 213 | Dolores Falco |
-| 594 | 213 | All knowing |
-| 595 | 213 | Tamara Gay |
-| 596 | 212 | Reggie Laserna Clement |
-| 597 | 212 | Suzanne North |
-| 598 | 212 | Spicy Peach |
-| 599 | 212 | Momma Boss |
-| 600 | 210 | Sfalcon1. |
-| 601 | 209 | Snippy Racker |
+| 586 | 215 | Snippy Racker |
+| 587 | 215 | Lovetetris |
+| 588 | 215 | Kimberly Ann |
+| 589 | 214 | yourmomz |
+| 590 | 214 | Linda |
+| 591 | 214 | crobb77 |
+| 592 | 213 | Sharon Tyler |
+| 593 | 213 | Cari Underwood |
+| 594 | 213 | Dolores Falco |
+| 595 | 213 | All knowing |
+| 596 | 213 | Tamara Gay |
+| 597 | 212 | Reggie Laserna Clement |
+| 598 | 212 | Suzanne North |
+| 599 | 212 | Spicy Peach |
+| 600 | 212 | Momma Boss |
+| 601 | 210 | Sfalcon1. |
 | 602 | 209 | Kandylands |
 | 603 | 209 | Ashley Mcdonald |
 | 604 | 208 | PsyDMom |
@@ -808,17 +808,17 @@
 | 800 | 149 | Debby Muniz |
 | 801 | 148 | Lamont |
 | 802 | 148 | Latisha TeTe Williams |
-| 803 | 148 | Diqthot |
-| 804 | 148 | Miguel Teixeira |
-| 805 | 148 | Amy Gutierrez |
-| 806 | 147 | La Ah Ox |
-| 807 | 147 | Chass Hudson |
-| 808 | 147 | David Lay |
-| 809 | 147 | Surviving Be Back Soon |
-| 810 | 147 | Daring Patternblock |
-| 811 | 146 | Jasmine Marie |
-| 812 | 146 | Lady |
-| 813 | 146 | Ash |
+| 803 | 148 | Ash |
+| 804 | 148 | Diqthot |
+| 805 | 148 | Miguel Teixeira |
+| 806 | 148 | Amy Gutierrez |
+| 807 | 147 | La Ah Ox |
+| 808 | 147 | Chass Hudson |
+| 809 | 147 | David Lay |
+| 810 | 147 | Surviving Be Back Soon |
+| 811 | 147 | Daring Patternblock |
+| 812 | 146 | Jasmine Marie |
+| 813 | 146 | Lady |
 | 814 | 146 | Joshua Hunt |
 | 815 | 146 | Honey |
 | 816 | 146 | Happy Filler |
@@ -1916,24 +1916,24 @@
 | 1908 | 18 | Angel Boges |
 | 1909 | 18 | Quirky Chiseler |
 | 1910 | 18 | Orange Sky |
-| 1911 | 17 | John Wertz |
-| 1912 | 17 | Anna Bourff |
-| 1913 | 17 | Breezy Match |
-| 1914 | 17 | Hoppy Clusterfit |
-| 1915 | 17 | Bebe |
-| 1916 | 17 | Shane Snyder |
-| 1917 | 17 | Zanny |
-| 1918 | 17 | happy cupcake |
-| 1919 | 17 | Krystal Simpson |
-| 1920 | 17 | Cody Richard |
-| 1921 | 17 | Kelly Pool |
-| 1922 | 17 | Tina Giordano |
-| 1923 | 17 | Angela Smiley |
-| 1924 | 16 | Faith Love Thompson |
+| 1911 | 18 | Naomi Wixon |
+| 1912 | 17 | John Wertz |
+| 1913 | 17 | Anna Bourff |
+| 1914 | 17 | Breezy Match |
+| 1915 | 17 | Hoppy Clusterfit |
+| 1916 | 17 | Bebe |
+| 1917 | 17 | Shane Snyder |
+| 1918 | 17 | Zanny |
+| 1919 | 17 | happy cupcake |
+| 1920 | 17 | Krystal Simpson |
+| 1921 | 17 | Cody Richard |
+| 1922 | 17 | Kelly Pool |
+| 1923 | 17 | Tina Giordano |
+| 1924 | 17 | Angela Smiley |
 | 1925 | 16 | Valerie Morrison |
-| 1926 | 16 | Fumiko Demello |
+| 1926 | 16 | Faith Love Thompson |
 | 1927 | 16 | Iesha Jefferson |
-| 1928 | 16 | Naomi Wixon |
+| 1928 | 16 | Fumiko Demello |
 | 1929 | 16 | Fancy Tiley |
 | 1930 | 16 | Mammoth |
 | 1931 | 16 | Rowboat |
