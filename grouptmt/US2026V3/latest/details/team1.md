@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:12:41 UTC
+# Standings for team1 as of 2026-06-09 05:13:23 UTC
 
 **Total Participants:** 1991
 
@@ -201,26 +201,26 @@
 | 193 | 549 | Shell Lewis |
 | 194 | 546 | Po Marley |
 | 195 | 546 | Dee McCool |
-| 196 | 527 | MommaCia |
-| 197 | 525 | Tishauna Virgo |
-| 198 | 524 | xXEKUNXx |
-| 199 | 523 | DellaLucretia Thomas |
-| 200 | 520 | Dulo |
-| 201 | 520 | Felicia Cain |
-| 202 | 520 | Spicy Risepiece |
-| 203 | 520 | SPNLover24 |
+| 196 | 536 | SPNLover24 |
+| 197 | 527 | MommaCia |
+| 198 | 525 | Tishauna Virgo |
+| 199 | 524 | xXEKUNXx |
+| 200 | 523 | DellaLucretia Thomas |
+| 201 | 520 | Dulo |
+| 202 | 520 | Felicia Cain |
+| 203 | 520 | Spicy Risepiece |
 | 204 | 519 | Karebear |
 | 205 | 519 | Slinky Party |
 | 206 | 515 | David Fuentes |
-| 207 | 511 | Dizzy Dropper |
-| 208 | 507 | Tamara N Lee |
+| 207 | 512 | Ebony |
+| 208 | 511 | Dizzy Dropper |
 | 209 | 507 | pooh |
-| 210 | 506 | Telisha Mims |
-| 211 | 506 | Tasha Jones |
-| 212 | 506 | Marie Wilson |
-| 213 | 505 | Marcheta Cervantez |
-| 214 | 501 | Joey Albright |
-| 215 | 500 | Ebony |
+| 210 | 507 | Tamara N Lee |
+| 211 | 506 | Marie Wilson |
+| 212 | 506 | Tasha Jones |
+| 213 | 506 | Telisha Mims |
+| 214 | 505 | Marcheta Cervantez |
+| 215 | 501 | Joey Albright |
 | 216 | 498 | Julian Dickens Jr. |
 | 217 | 494 | Ty Øtg |
 | 218 | 494 | Antonia Wyche |
@@ -667,61 +667,61 @@
 | 659 | 161 | Devron Reedy |
 | 660 | 160 | Duncan Timothy |
 | 661 | 160 | Cheeky Twistpiece |
-| 662 | 160 | Kesha Brady |
-| 663 | 160 | Spotlight |
+| 662 | 160 | Spotlight |
+| 663 | 160 | Kesha Brady |
 | 664 | 159 | Peppy Wipeblock |
 | 665 | 159 | Yvette McGee |
 | 666 | 159 | Frances Davis |
 | 667 | 159 | Tee Spinks |
 | 668 | 159 | TY Newme Batts |
-| 669 | 158 | Seddrick |
-| 670 | 158 | TotoCherue |
+| 669 | 158 | TotoCherue |
+| 670 | 158 | Seddrick |
 | 671 | 158 | Chris Watson Draper |
 | 672 | 157 | Zany Breaker |
-| 673 | 157 | Chirpy Buildgrid |
-| 674 | 157 | Lilly Brown |
-| 675 | 157 | Tony Pizzas |
-| 676 | 156 | Melissa Hershberger |
+| 673 | 157 | Tony Pizzas |
+| 674 | 157 | Chirpy Buildgrid |
+| 675 | 157 | Lilly Brown |
+| 676 | 156 | Sara |
 | 677 | 156 | Semaj Johnson |
-| 678 | 156 | Karen Denen |
-| 679 | 156 | Sara |
-| 680 | 155 | Undeniable Williams |
-| 681 | 155 | Angie Smith |
-| 682 | 155 | Meow Meow |
-| 683 | 155 | MzJuice Box |
-| 684 | 155 | Poppy Smasher |
-| 685 | 155 | Kala Miller |
-| 686 | 154 | Marlynnnnn |
+| 678 | 156 | Marlynnnnn |
+| 679 | 156 | Karen Denen |
+| 680 | 156 | Melissa Hershberger |
+| 681 | 155 | Kala Miller |
+| 682 | 155 | Undeniable Williams |
+| 683 | 155 | Poppy Smasher |
+| 684 | 155 | MzJuice Box |
+| 685 | 155 | Meow Meow |
+| 686 | 155 | Angie Smith |
 | 687 | 154 | Dizzy Gridmatch |
 | 688 | 154 | Glitzy Clusterer |
 | 689 | 154 | Kp |
-| 690 | 152 | Essence Jones |
-| 691 | 152 | Wacky Stackbuilder |
-| 692 | 152 | Nyhlah Patterson |
-| 693 | 151 | BB |
-| 694 | 151 | Pj Rojas |
+| 690 | 152 | Wacky Stackbuilder |
+| 691 | 152 | Nyhlah Patterson |
+| 692 | 152 | Essence Jones |
+| 693 | 151 | Pj Rojas |
+| 694 | 151 | Terrie |
 | 695 | 151 | Shanell Thomas |
-| 696 | 151 | Terrie |
-| 697 | 150 | Kanary Karotz |
-| 698 | 150 | Antoinette Jones |
-| 699 | 150 | Marshall Davis |
+| 696 | 151 | BB |
+| 697 | 150 | Marshall Davis |
+| 698 | 150 | Kanary Karotz |
+| 699 | 150 | Antoinette Jones |
 | 700 | 150 | Taneka Howell |
 | 701 | 149 | Anastasia |
 | 702 | 149 | Stephanie Ellis |
 | 703 | 148 | GetDaOPPS |
-| 704 | 148 | Cauiasia DeJ'ae |
+| 704 | 148 | Marsha Earl |
 | 705 | 148 | P C |
-| 706 | 148 | Meeee |
-| 707 | 148 | Marsha Earl |
-| 708 | 148 | Rhianna Dinki Austin |
+| 706 | 148 | Cauiasia DeJ'ae |
+| 707 | 148 | Rhianna Dinki Austin |
+| 708 | 148 | Meeee |
 | 709 | 148 | Yashicha Hertzock |
 | 710 | 147 | Chill Linkroll |
-| 711 | 147 | Pinky Pink |
-| 712 | 147 | Christopher L Crites |
-| 713 | 147 | Kiki |
-| 714 | 147 | Sabrina Wilkerson |
-| 715 | 147 | Joseph Vs Cap |
-| 716 | 147 | Cheery Swiper |
+| 711 | 147 | Christopher L Crites |
+| 712 | 147 | Cheery Swiper |
+| 713 | 147 | Pinky Pink |
+| 714 | 147 | Kiki |
+| 715 | 147 | Sabrina Wilkerson |
+| 716 | 147 | Joseph Vs Cap |
 | 717 | 146 | FunTime |
 | 718 | 146 | Paul Doty |
 | 719 | 146 | Guard Up |
