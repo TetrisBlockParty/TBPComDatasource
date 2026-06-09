@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 05:20:45 UTC
+# Standings for team2 as of 2026-06-09 05:21:22 UTC
 
 **Total Participants:** 2416
 
@@ -1005,111 +1005,111 @@
 | 997 | 123 | Cheryl Graves Downard |
 | 998 | 123 | Frothy Faller |
 | 999 | 123 | Manda |
-| 1000 | 123 | sampson |
-| 1001 | 123 | Loony Ziggy |
-| 1002 | 123 | Jolly Builderpiece |
-| 1003 | 123 | Kawana Nesbitt |
-| 1004 | 123 | Denita Kaherl |
-| 1005 | 122 | Sleepypanda67 |
-| 1006 | 122 | Pat Smits |
-| 1007 | 122 | Robert Fenton |
-| 1008 | 122 | Just Me |
-| 1009 | 122 | Dandy Column |
-| 1010 | 122 | Cody Bohannan |
-| 1011 | 122 | Helen Townsend |
-| 1012 | 121 | Heather |
+| 1000 | 123 | Loony Ziggy |
+| 1001 | 123 | Jolly Builderpiece |
+| 1002 | 123 | Kawana Nesbitt |
+| 1003 | 123 | Denita Kaherl |
+| 1004 | 123 | sampson |
+| 1005 | 122 | Robert W Schwartz |
+| 1006 | 122 | Sleepypanda67 |
+| 1007 | 122 | Pat Smits |
+| 1008 | 122 | Robert Fenton |
+| 1009 | 122 | Just Me |
+| 1010 | 122 | Dandy Column |
+| 1011 | 122 | Cody Bohannan |
+| 1012 | 122 | Helen Townsend |
 | 1013 | 121 | Stacey Loretta Wallace |
-| 1014 | 120 | Laura Turner |
-| 1015 | 120 | Amy D Coble |
-| 1016 | 120 | Glowing Earthy Embers |
+| 1014 | 121 | Heather |
+| 1015 | 120 | Loriane Shumate Griggs |
+| 1016 | 120 | BB |
 | 1017 | 120 | Charith Lorelle Watson |
-| 1018 | 120 | BB |
-| 1019 | 120 | Loriane Shumate Griggs |
-| 1020 | 120 | Alice Petterborg Barberich |
-| 1021 | 120 | Jenny Bishop |
-| 1022 | 120 | Amanda Kennedy |
-| 1023 | 120 | Lori Rose |
-| 1024 | 120 | Gloria Appleton |
-| 1025 | 120 | Debbie Davis |
-| 1026 | 120 | Tanya Goodwin |
-| 1027 | 120 | Morgan Olson Pingree |
-| 1028 | 120 | Tonya Greger |
-| 1029 | 120 | Daring Spinzone |
-| 1030 | 120 | Ava |
-| 1031 | 120 | Toni Washington |
-| 1032 | 120 | Scott Lyles |
-| 1033 | 120 | gurlieheart |
-| 1034 | 120 | Heather Nicole |
-| 1035 | 120 | TheAggie12 |
-| 1036 | 119 | Kiersty Redder |
-| 1037 | 119 | Kjsranch |
-| 1038 | 119 | Funko Dave |
-| 1039 | 119 | Lori Yelvington Cain |
-| 1040 | 119 | Meagan Thompson |
-| 1041 | 119 | Michael Delozier |
-| 1042 | 118 | Michelle Anne |
+| 1018 | 120 | Laura Turner |
+| 1019 | 120 | Glowing Earthy Embers |
+| 1020 | 120 | Amy D Coble |
+| 1021 | 120 | Alice Petterborg Barberich |
+| 1022 | 120 | Jenny Bishop |
+| 1023 | 120 | Amanda Kennedy |
+| 1024 | 120 | Lori Rose |
+| 1025 | 120 | Gloria Appleton |
+| 1026 | 120 | Debbie Davis |
+| 1027 | 120 | Tanya Goodwin |
+| 1028 | 120 | Morgan Olson Pingree |
+| 1029 | 120 | Tonya Greger |
+| 1030 | 120 | Daring Spinzone |
+| 1031 | 120 | Ava |
+| 1032 | 120 | Toni Washington |
+| 1033 | 120 | Scott Lyles |
+| 1034 | 120 | gurlieheart |
+| 1035 | 120 | Heather Nicole |
+| 1036 | 120 | TheAggie12 |
+| 1037 | 119 | Kiersty Redder |
+| 1038 | 119 | Kjsranch |
+| 1039 | 119 | Funko Dave |
+| 1040 | 119 | Michael Delozier |
+| 1041 | 119 | Lori Yelvington Cain |
+| 1042 | 119 | Meagan Thompson |
 | 1043 | 118 | Lacie B |
 | 1044 | 118 | Gino Positano |
 | 1045 | 118 | Brian Little |
-| 1046 | 117 | Jessica Spivey Cooper |
-| 1047 | 117 | C.L. Deslongchamp |
-| 1048 | 117 | Christina Whitehead |
-| 1049 | 117 | Hansent3 |
-| 1050 | 117 | Kevin Osbourne |
-| 1051 | 117 | James Maness |
-| 1052 | 116 | ASL |
-| 1053 | 116 | Jill Bobst Marple |
-| 1054 | 116 | Kendra Sullins |
-| 1055 | 116 | Frisky Linkmatch |
-| 1056 | 116 | Chill Clearbuilder |
-| 1057 | 116 | Jessica Rose Engebretson |
+| 1046 | 118 | Michelle Anne |
+| 1047 | 117 | Jessica Spivey Cooper |
+| 1048 | 117 | C.L. Deslongchamp |
+| 1049 | 117 | Christina Whitehead |
+| 1050 | 117 | Hansent3 |
+| 1051 | 117 | Kevin Osbourne |
+| 1052 | 117 | James Maness |
+| 1053 | 116 | ASL |
+| 1054 | 116 | Jill Bobst Marple |
+| 1055 | 116 | Kendra Sullins |
+| 1056 | 116 | Frisky Linkmatch |
+| 1057 | 116 | Chill Clearbuilder |
 | 1058 | 116 | Trisha Schneider |
-| 1059 | 115 | Ollie |
-| 1060 | 115 | Edward Conyers |
-| 1061 | 115 | D.j. Wingate |
-| 1062 | 115 | STARFIRE |
-| 1063 | 115 | Doris Bonin |
-| 1064 | 114 | Amanda Jungclaus |
-| 1065 | 114 | JDub |
-| 1066 | 114 | Miguel360 |
-| 1067 | 114 | YAKO |
-| 1068 | 114 | Brenda Zona |
-| 1069 | 113 | Bubbly Liner |
-| 1070 | 113 | Jami Borges |
-| 1071 | 113 | Wood |
-| 1072 | 112 | Cranky Zonebuilder |
-| 1073 | 112 | Aneokly |
-| 1074 | 112 | Carlee Becher |
-| 1075 | 112 | Yuhh |
-| 1076 | 112 | Kennadee Albertson |
-| 1077 | 112 | Alimae |
-| 1078 | 112 | Arik DiLorenzo |
-| 1079 | 112 | Kylee Pruitt |
-| 1080 | 112 | Squared |
-| 1081 | 111 | Tetrismastrr |
-| 1082 | 111 | Linzy Ratliff |
-| 1083 | 111 | WestieMom |
-| 1084 | 111 | Nikki Layman |
-| 1085 | 111 | Belinda Head |
-| 1086 | 110 | Andrea Spinelli |
-| 1087 | 110 | Deena-Neal Peryer |
-| 1088 | 110 | Susan Moyer |
-| 1089 | 110 | Tracy Coe |
-| 1090 | 110 | Sandy Molina |
-| 1091 | 110 | Christina German |
-| 1092 | 110 | Joffee Joffer |
-| 1093 | 110 | Rachel Wooldridge |
-| 1094 | 110 | Ava Dorsch |
-| 1095 | 110 | Twisty Matcher |
-| 1096 | 110 | Stephen Gillam |
-| 1097 | 110 | Cool Balancer |
+| 1059 | 116 | Jessica Rose Engebretson |
+| 1060 | 115 | Ollie |
+| 1061 | 115 | Edward Conyers |
+| 1062 | 115 | D.j. Wingate |
+| 1063 | 115 | STARFIRE |
+| 1064 | 115 | Doris Bonin |
+| 1065 | 114 | Amanda Jungclaus |
+| 1066 | 114 | JDub |
+| 1067 | 114 | Miguel360 |
+| 1068 | 114 | YAKO |
+| 1069 | 114 | Brenda Zona |
+| 1070 | 113 | Bubbly Liner |
+| 1071 | 113 | Jami Borges |
+| 1072 | 113 | Wood |
+| 1073 | 112 | Cranky Zonebuilder |
+| 1074 | 112 | Aneokly |
+| 1075 | 112 | Carlee Becher |
+| 1076 | 112 | Yuhh |
+| 1077 | 112 | Kennadee Albertson |
+| 1078 | 112 | Kylee Pruitt |
+| 1079 | 112 | Squared |
+| 1080 | 112 | Alimae |
+| 1081 | 112 | Arik DiLorenzo |
+| 1082 | 111 | Tetrismastrr |
+| 1083 | 111 | Linzy Ratliff |
+| 1084 | 111 | WestieMom |
+| 1085 | 111 | Nikki Layman |
+| 1086 | 111 | Belinda Head |
+| 1087 | 110 | Andrea Spinelli |
+| 1088 | 110 | Deena-Neal Peryer |
+| 1089 | 110 | Susan Moyer |
+| 1090 | 110 | Tracy Coe |
+| 1091 | 110 | Sandy Molina |
+| 1092 | 110 | Christina German |
+| 1093 | 110 | Joffee Joffer |
+| 1094 | 110 | Rachel Wooldridge |
+| 1095 | 110 | Ava Dorsch |
+| 1096 | 110 | Twisty Matcher |
+| 1097 | 110 | Stephen Gillam |
 | 1098 | 110 | Signerlisa |
-| 1099 | 110 | Michelle Fry-Cash |
-| 1100 | 110 | Christina Reid |
-| 1101 | 110 | Lesley Stoeckle |
-| 1102 | 110 | Rey Huber |
-| 1103 | 109 | Sandra Rotton Bragg |
-| 1104 | 109 | Robert W Schwartz |
+| 1099 | 110 | Cool Balancer |
+| 1100 | 110 | Michelle Fry-Cash |
+| 1101 | 110 | Christina Reid |
+| 1102 | 110 | Lesley Stoeckle |
+| 1103 | 110 | Rey Huber |
+| 1104 | 109 | Sandra Rotton Bragg |
 | 1105 | 108 | Purpleroyalty11 |
 | 1106 | 108 | Michael James |
 | 1107 | 108 | Peppy Piececlear |
