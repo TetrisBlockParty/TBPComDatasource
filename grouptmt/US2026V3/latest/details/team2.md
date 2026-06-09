@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 00:16:46 UTC
+# Standings for team2 as of 2026-06-09 00:17:21 UTC
 
 **Total Participants:** 2320
 
@@ -27,7 +27,7 @@
 | 19 | 6154 | Morgann McDaniel |
 | 20 | 6114 | Kathleen M Cox |
 | 21 | 5859 | Andre Love |
-| 22 | 5653 | Renee Weedling |
+| 22 | 5659 | Renee Weedling |
 | 23 | 5607 | Bea Bee |
 | 24 | 5517 | Cassie Swart |
 | 25 | 5496 | Julie Trede Amerson |
@@ -58,7 +58,7 @@
 | 50 | 2990 | Sean Rippa |
 | 51 | 2982 | Elizabeth Sallas |
 | 52 | 2950 | Angie BBlock |
-| 53 | 2619 | Betty Barrett |
+| 53 | 2658 | Betty Barrett |
 | 54 | 2556 | Andrew Weissenborn |
 | 55 | 2527 | Helen Thomas |
 | 56 | 2459 | Rose Schaffner-Kibler |
@@ -94,20 +94,20 @@
 | 86 | 1499 | Poppy |
 | 87 | 1483 | Tonya Taber |
 | 88 | 1470 | Marie Edmonds |
-| 89 | 1453 | Eileen Egan |
-| 90 | 1450 | Giddy Slamdrop |
-| 91 | 1408 | Kimberly Benson |
-| 92 | 1402 | Lisa Breiding |
-| 93 | 1400 | Jennifer Knott |
-| 94 | 1383 | Amber Triguero |
-| 95 | 1354 | Jaime P Lamb |
-| 96 | 1327 | Amber-leigh Williams |
-| 97 | 1323 | joey |
-| 98 | 1309 | Sigmamom |
-| 99 | 1285 | Charlie Wilson |
-| 100 | 1236 | Frothy Fallgrid |
-| 101 | 1235 | Michelle Maulsby |
-| 102 | 1228 | Peppy Roll |
+| 89 | 1462 | Peppy Roll |
+| 90 | 1453 | Eileen Egan |
+| 91 | 1450 | Giddy Slamdrop |
+| 92 | 1408 | Kimberly Benson |
+| 93 | 1402 | Lisa Breiding |
+| 94 | 1400 | Jennifer Knott |
+| 95 | 1383 | Amber Triguero |
+| 96 | 1354 | Jaime P Lamb |
+| 97 | 1327 | Amber-leigh Williams |
+| 98 | 1323 | joey |
+| 99 | 1309 | Sigmamom |
+| 100 | 1285 | Charlie Wilson |
+| 101 | 1236 | Frothy Fallgrid |
+| 102 | 1235 | Michelle Maulsby |
 | 103 | 1219 | Jef Wassom |
 | 104 | 1182 | Jayke Edward |
 | 105 | 1174 | Jason Cook |
@@ -195,14 +195,14 @@
 | 187 | 609 | Michelle Rich Burkhart |
 | 188 | 607 | Bubbly Strikerpiece |
 | 189 | 606 | Chasity Simpson |
-| 190 | 600 | Theresa Marie |
-| 191 | 594 | Zarah Kettler |
-| 192 | 592 | Spicy Basepiece |
-| 193 | 589 | Nikki Hayes |
-| 194 | 588 | Crystal Allen |
-| 195 | 587 | Kevin Mccoy |
-| 196 | 587 | Kathleen Dumbazz |
-| 197 | 583 | Hilliary Beyer |
+| 190 | 603 | Hilliary Beyer |
+| 191 | 600 | Theresa Marie |
+| 192 | 594 | Zarah Kettler |
+| 193 | 592 | Spicy Basepiece |
+| 194 | 589 | Nikki Hayes |
+| 195 | 588 | Crystal Allen |
+| 196 | 587 | Kevin Mccoy |
+| 197 | 587 | Kathleen Dumbazz |
 | 198 | 577 | Lindsay Klemp |
 | 199 | 576 | Breeana Bennett |
 | 200 | 574 | Brandy McCune Reep |
@@ -309,20 +309,20 @@
 | 301 | 392 | Lora Via |
 | 302 | 391 | La chulis |
 | 303 | 390 | Carlos J Blas |
-| 304 | 388 | Rachel Nilles |
-| 305 | 386 | Amanda L Strong |
-| 306 | 385 | Brittni Lawrence |
-| 307 | 385 | Hypee |
-| 308 | 384 | DayDreamer79 |
-| 309 | 383 | Jenna Stahl |
-| 310 | 383 | Flashy Twistline |
-| 311 | 382 | Chill Line |
-| 312 | 380 | Bb |
-| 313 | 380 | Patricia Carroll |
-| 314 | 380 | missat |
-| 315 | 379 | meg |
-| 316 | 379 | Xandrea Jones |
-| 317 | 379 | Perii Reynoso |
+| 304 | 389 | Perii Reynoso |
+| 305 | 388 | Rachel Nilles |
+| 306 | 386 | Amanda L Strong |
+| 307 | 385 | Brittni Lawrence |
+| 308 | 385 | Hypee |
+| 309 | 384 | DayDreamer79 |
+| 310 | 383 | Jenna Stahl |
+| 311 | 383 | Flashy Twistline |
+| 312 | 382 | Chill Line |
+| 313 | 380 | Bb |
+| 314 | 380 | Patricia Carroll |
+| 315 | 380 | missat |
+| 316 | 379 | meg |
+| 317 | 379 | Xandrea Jones |
 | 318 | 376 | Norma Ortiz |
 | 319 | 376 | James Ward |
 | 320 | 376 | Traci Abern |
@@ -372,8 +372,8 @@
 | 364 | 334 | Jenny |
 | 365 | 333 | Joanna Trevin Thompson |
 | 366 | 333 | Pamela Raye |
-| 367 | 333 | Stephanie |
-| 368 | 333 | Kellie Montgomery |
+| 367 | 333 | Kellie Montgomery |
+| 368 | 333 | Stephanie |
 | 369 | 331 | Shannon Wilson |
 | 370 | 331 | Wacky Stack |
 | 371 | 331 | Sarah Jane Gorsuch |
@@ -507,8 +507,8 @@
 | 499 | 236 | NickandJess Reynolds |
 | 500 | 236 | Lush Party |
 | 501 | 236 | Errkuh |
-| 502 | 236 | Spunky Linkblock |
-| 503 | 236 | Joanne Fish |
+| 502 | 236 | Joanne Fish |
+| 503 | 236 | Spunky Linkblock |
 | 504 | 234 | Cozy Cascade |
 | 505 | 234 | Simone F |
 | 506 | 234 | TNGal |
@@ -590,20 +590,20 @@
 | 582 | 206 | Fallon Moss |
 | 583 | 205 | Jana Campbell |
 | 584 | 204 | Thy Bui |
-| 585 | 203 | Churube Finwoiisopw |
-| 586 | 203 | Brooklyn Todd |
-| 587 | 203 | Sherri Caillet Aucoin |
-| 588 | 203 | Treau Torres |
-| 589 | 203 | Mrs biotch |
-| 590 | 202 | Rescuegirl76 |
-| 591 | 202 | ZBee |
-| 592 | 202 | Kati Eckstein |
-| 593 | 202 | Andrea Rawson |
-| 594 | 202 | Ashley Miller |
-| 595 | 201 | Belle |
-| 596 | 201 | Analee Nicole Jones |
-| 597 | 201 | Epic Framezone |
-| 598 | 200 | Charlotte Castelli |
+| 585 | 204 | Charlotte Castelli |
+| 586 | 203 | Treau Torres |
+| 587 | 203 | Mrs biotch |
+| 588 | 203 | Churube Finwoiisopw |
+| 589 | 203 | Brooklyn Todd |
+| 590 | 203 | Sherri Caillet Aucoin |
+| 591 | 202 | Rescuegirl76 |
+| 592 | 202 | ZBee |
+| 593 | 202 | Kati Eckstein |
+| 594 | 202 | Andrea Rawson |
+| 595 | 202 | Ashley Miller |
+| 596 | 201 | Belle |
+| 597 | 201 | Analee Nicole Jones |
+| 598 | 201 | Epic Framezone |
 | 599 | 199 | Jim Wright |
 | 600 | 199 | IncrediDragon |
 | 601 | 198 | Epic Tilemaker |
@@ -1634,31 +1634,31 @@
 | 1626 | 45 | Giggy Snapper |
 | 1627 | 45 | Chris Wilber |
 | 1628 | 45 | Gail Flory |
-| 1629 | 44 | William Richardson |
-| 1630 | 44 | Dustie Benefield |
-| 1631 | 44 | Jane Shevlin |
-| 1632 | 44 | Tam |
-| 1633 | 44 | Crafty Shatterer |
+| 1629 | 44 | Denise Singleton |
+| 1630 | 44 | Elie Mestre |
+| 1631 | 44 | Giggy Balance |
+| 1632 | 44 | Sandra Betz |
+| 1633 | 44 | Tee Have |
 | 1634 | 44 | Chill Racker |
-| 1635 | 44 | Tee Have |
-| 1636 | 44 | Sandra Betz |
-| 1637 | 44 | Denise Singleton |
-| 1638 | 44 | Elie Mestre |
-| 1639 | 44 | Fluffypuffin |
-| 1640 | 44 | Dawnie Rodarte |
-| 1641 | 44 | Jessica Jones |
-| 1642 | 43 | Dreamy Wipepiece |
-| 1643 | 43 | Kourtney Heiden-Hudson |
-| 1644 | 43 | Jill Gelhausen |
-| 1645 | 43 | Shannie |
-| 1646 | 43 | Aguilar Rita |
-| 1647 | 43 | latte |
-| 1648 | 43 | Kaylyn Wickham |
-| 1649 | 43 | Patricia Ann Tondreault Hammonds |
+| 1635 | 44 | Tam |
+| 1636 | 44 | Jane Shevlin |
+| 1637 | 44 | Dustie Benefield |
+| 1638 | 44 | William Richardson |
+| 1639 | 44 | Crafty Shatterer |
+| 1640 | 44 | Fluffypuffin |
+| 1641 | 44 | Dawnie Rodarte |
+| 1642 | 44 | Jessica Jones |
+| 1643 | 43 | Dreamy Wipepiece |
+| 1644 | 43 | Kourtney Heiden-Hudson |
+| 1645 | 43 | Jill Gelhausen |
+| 1646 | 43 | Shannie |
+| 1647 | 43 | Aguilar Rita |
+| 1648 | 43 | latte |
+| 1649 | 43 | Kaylyn Wickham |
 | 1650 | 43 | Ashley Parrish |
 | 1651 | 43 | Kayla Faulkiner |
-| 1652 | 43 | AJ |
-| 1653 | 43 | Giggy Balance |
+| 1652 | 43 | Patricia Ann Tondreault Hammonds |
+| 1653 | 43 | AJ |
 | 1654 | 43 | KT Scott |
 | 1655 | 43 | Christina Wilson |
 | 1656 | 43 | Groovy Snapbuild |
