@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:08:20 UTC
+# Standings for team1 as of 2026-06-09 14:08:45 UTC
 
 **Total Participants:** 2057
 
@@ -32,7 +32,7 @@
 | 24 | 4597 | Pdubbl3 |
 | 25 | 4168 | Kkbk |
 | 26 | 4159 | Erika Windom |
-| 27 | 4098 | Tekedra Wilson |
+| 27 | 4110 | Tekedra Wilson |
 | 28 | 3903 | Mary Jenkins |
 | 29 | 3833 | Jo NewmindNewfocus Bell |
 | 30 | 3597 | Chummy Combo |
@@ -562,8 +562,8 @@
 | 554 | 219 | Montréal Mars |
 | 555 | 219 | Ciera Peace |
 | 556 | 218 | Mommy Frank |
-| 557 | 218 | Teresa Yanira Cepeda |
-| 558 | 218 | Poyre Shelton |
+| 557 | 218 | Poyre Shelton |
+| 558 | 218 | Teresa Yanira Cepeda |
 | 559 | 217 | Louise Parker |
 | 560 | 217 | Travis Davison |
 | 561 | 217 | Marlainia Boyd |
@@ -575,77 +575,77 @@
 | 567 | 215 | toxictonic92 |
 | 568 | 215 | Perky Balancer |
 | 569 | 215 | Juan Lewis |
-| 570 | 214 | Nickeya Phillips |
+| 570 | 214 | PSD |
 | 571 | 214 | Stephen Providenti |
-| 572 | 214 | PSD |
-| 573 | 213 | Nyhlah Patterson |
-| 574 | 213 | Daring Riserfit |
-| 575 | 213 | crumb bumc |
+| 572 | 214 | Nickeya Phillips |
+| 573 | 213 | Daring Riserfit |
+| 574 | 213 | crumb bumc |
+| 575 | 213 | Nyhlah Patterson |
 | 576 | 212 | Simply-Beautiful007 |
 | 577 | 211 | Lynnette WheelerBushnell |
 | 578 | 210 | Abby |
 | 579 | 209 | $hort Dog |
 | 580 | 209 | Phillip Vasquez |
-| 581 | 208 | Kelley Johnson |
-| 582 | 208 | Soubletzy |
-| 583 | 208 | Nora Mahmoud |
-| 584 | 208 | Bella |
-| 585 | 208 | Juicy |
-| 586 | 207 | Mary Phillippi Blanton |
-| 587 | 207 | Shawn Himes |
-| 588 | 207 | Courtney Cicoria |
-| 589 | 207 | Candy Lee |
-| 590 | 206 | Zappy Clearfit |
-| 591 | 206 | Shelly Everette |
-| 592 | 205 | Tramaine Crockrum |
+| 581 | 208 | Bella |
+| 582 | 208 | Juicy |
+| 583 | 208 | Soubletzy |
+| 584 | 208 | Kelley Johnson |
+| 585 | 208 | Nora Mahmoud |
+| 586 | 207 | Candy Lee |
+| 587 | 207 | Courtney Cicoria |
+| 588 | 207 | Shawn Himes |
+| 589 | 207 | Mary Phillippi Blanton |
+| 590 | 206 | Nona Harriel |
+| 591 | 206 | Zappy Clearfit |
+| 592 | 206 | Shelly Everette |
 | 593 | 205 | Sarah Swietlicki - Lopez |
 | 594 | 205 | Logan Frost |
-| 595 | 205 | MELLZZtick€T |
-| 596 | 205 | Treneil Daffin |
-| 597 | 205 | Polite Granny |
-| 598 | 205 | Sarah Barnum |
+| 595 | 205 | Tramaine Crockrum |
+| 596 | 205 | Polite Granny |
+| 597 | 205 | Treneil Daffin |
+| 598 | 205 | MELLZZtick€T |
 | 599 | 205 | Semaj Johnson |
-| 600 | 204 | Marlynnnnn |
-| 601 | 204 | Cynda Cyn |
-| 602 | 204 | Rosalind Chatman |
-| 603 | 204 | Dorian Griffin |
-| 604 | 203 | Lucy |
+| 600 | 205 | Sarah Barnum |
+| 601 | 204 | Dorian Griffin |
+| 602 | 204 | Cynda Cyn |
+| 603 | 204 | Rosalind Chatman |
+| 604 | 204 | Marlynnnnn |
 | 605 | 203 | Jovy |
-| 606 | 202 | Frankey Chi |
-| 607 | 202 | Messy Live |
-| 608 | 202 | Hyper Blocky |
-| 609 | 202 | Alexandrla Smith |
+| 606 | 203 | Lucy |
+| 607 | 202 | Alexandrla Smith |
+| 608 | 202 | Messy Live |
+| 609 | 202 | Hyper Blocky |
 | 610 | 202 | Nutty Fallmatch |
-| 611 | 201 | Angela Brown Babin |
-| 612 | 200 | Leavon Smith |
-| 613 | 200 | Nona Harriel |
-| 614 | 200 | Katrina Ramey |
-| 615 | 200 | Jen Hallin |
-| 616 | 200 | Nisha Sunshine Jenkins |
-| 617 | 200 | Karen Knapp |
-| 618 | 200 | Jimmy Shannon |
+| 611 | 202 | Frankey Chi |
+| 612 | 201 | Angela Brown Babin |
+| 613 | 200 | Katrina Ramey |
+| 614 | 200 | Nisha Sunshine Jenkins |
+| 615 | 200 | Jimmy Shannon |
+| 616 | 200 | Karen Knapp |
+| 617 | 200 | Jen Hallin |
+| 618 | 200 | Leavon Smith |
 | 619 | 199 | Tyree Tman Shinette |
-| 620 | 198 | Darrelle Short |
-| 621 | 198 | Rhianna Dinki Austin |
-| 622 | 198 | Ashlie Mo |
-| 623 | 198 | Shannon Carriger |
-| 624 | 197 | krd |
-| 625 | 197 | Joseph Vs Cap |
-| 626 | 197 | Rachel Renae Bettis |
-| 627 | 197 | Kyle Conley |
-| 628 | 196 | whatever |
-| 629 | 196 | Stephanie Ellis |
-| 630 | 196 | Coco |
+| 620 | 198 | Shannon Carriger |
+| 621 | 198 | Ashlie Mo |
+| 622 | 198 | Darrelle Short |
+| 623 | 198 | Rhianna Dinki Austin |
+| 624 | 197 | Kyle Conley |
+| 625 | 197 | krd |
+| 626 | 197 | Joseph Vs Cap |
+| 627 | 197 | Rachel Renae Bettis |
+| 628 | 196 | Coco |
+| 629 | 196 | whatever |
+| 630 | 196 | Stephanie Ellis |
 | 631 | 195 | Victoria Smith |
 | 632 | 194 | Betsy B. Yohan |
 | 633 | 194 | Twisty Cascadeclear |
 | 634 | 193 | Tushama Cheris Okraku |
-| 635 | 193 | Ameillia Boughner |
-| 636 | 193 | Kimberly Susan Privette |
-| 637 | 192 | Donna Payne |
-| 638 | 192 | Cranky Fall |
-| 639 | 191 | Gbnola |
-| 640 | 191 | Miera Nicole |
+| 635 | 193 | Kimberly Susan Privette |
+| 636 | 193 | Ameillia Boughner |
+| 637 | 192 | Cranky Fall |
+| 638 | 192 | Donna Payne |
+| 639 | 191 | Miera Nicole |
+| 640 | 191 | Gbnola |
 | 641 | 190 | Chipper Snapper |
 | 642 | 190 | Adrian Wilson |
 | 643 | 190 | Lester Malone |
@@ -1044,42 +1044,42 @@
 | 1036 | 98 | Xrandomx |
 | 1037 | 98 | Dee Dee |
 | 1038 | 98 | Letrishia Andrews |
-| 1039 | 97 | Alize |
-| 1040 | 97 | Erica Campbell-Stillings |
-| 1041 | 97 | MikeHunt |
-| 1042 | 97 | Kanesha Jackson |
-| 1043 | 97 | Elaine Youmans |
-| 1044 | 97 | Teisha Scott |
-| 1045 | 96 | Lively Strikesnap |
-| 1046 | 96 | Boldy Pivoty |
-| 1047 | 96 | Tammy Collins |
-| 1048 | 96 | Lazy Chiseler |
-| 1049 | 96 | Just2Play$ |
-| 1050 | 96 | Danny M GR |
-| 1051 | 96 | Giggly Shatterline |
+| 1039 | 98 | Cheery T-spin |
+| 1040 | 98 | LaQuita White |
+| 1041 | 97 | Alize |
+| 1042 | 97 | Erica Campbell-Stillings |
+| 1043 | 97 | MikeHunt |
+| 1044 | 97 | Kanesha Jackson |
+| 1045 | 97 | Elaine Youmans |
+| 1046 | 97 | Teisha Scott |
+| 1047 | 96 | Lazy Chiseler |
+| 1048 | 96 | Just2Play$ |
+| 1049 | 96 | Danny M GR |
+| 1050 | 96 | Giggly Shatterline |
+| 1051 | 96 | Tammy Collins |
 | 1052 | 96 | Yazz |
 | 1053 | 96 | Margretta Henry |
 | 1054 | 96 | Sonia Binti Mfalme |
-| 1055 | 96 | Brandi M. Boney |
+| 1055 | 96 | Lively Strikesnap |
 | 1056 | 96 | Jerome Lewis |
-| 1057 | 95 | Spunky Strikerbuilder |
-| 1058 | 95 | Teresa Bean |
-| 1059 | 95 | Big Bovice |
-| 1060 | 95 | Abdul Malik |
-| 1061 | 94 | Elizabeth Clara |
-| 1062 | 94 | Sha Anderson |
-| 1063 | 94 | Cortrell Foster |
-| 1064 | 94 | LaQuita White |
-| 1065 | 94 | Cheery T-spin |
+| 1057 | 96 | Boldy Pivoty |
+| 1058 | 96 | Brandi M. Boney |
+| 1059 | 95 | Abdul Malik |
+| 1060 | 95 | Teresa Bean |
+| 1061 | 95 | Spunky Strikerbuilder |
+| 1062 | 95 | Big Bovice |
+| 1063 | 94 | Elizabeth Clara |
+| 1064 | 94 | Cortrell Foster |
+| 1065 | 94 | Sha Anderson |
 | 1066 | 93 | Alice Biggs |
 | 1067 | 93 | Quwana Hall |
 | 1068 | 92 | 1ofaking |
-| 1069 | 91 | lady |
-| 1070 | 91 | Jose Antonio Villot |
-| 1071 | 91 | Lawanda Conley |
-| 1072 | 91 | blockman |
-| 1073 | 91 | David A Alvino |
-| 1074 | 91 | kingbrook |
+| 1069 | 91 | Jose Antonio Villot |
+| 1070 | 91 | Lawanda Conley |
+| 1071 | 91 | David A Alvino |
+| 1072 | 91 | kingbrook |
+| 1073 | 91 | blockman |
+| 1074 | 91 | lady |
 | 1075 | 90 | Linda Lasha Messenger |
 | 1076 | 90 | AleahKCH |
 | 1077 | 90 | Fransine Bennett |
