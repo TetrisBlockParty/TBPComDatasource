@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:08:42 UTC
+# Standings for team1 as of 2026-06-09 15:09:21 UTC
 
 **Total Participants:** 2064
 
@@ -46,7 +46,7 @@
 | 38 | 2619 | Zappy Brickline |
 | 39 | 2443 | Jamie Willis |
 | 40 | 2405 | Epic Snapfall |
-| 41 | 2300 | Janine Hunter |
+| 41 | 2303 | Janine Hunter |
 | 42 | 2203 | BlackQueen105 |
 | 43 | 2184 | Shortstak |
 | 44 | 2138 | Linzie Marie |
@@ -316,20 +316,20 @@
 | 308 | 394 | Queenie Perry |
 | 309 | 392 | Dedra M Prester |
 | 310 | 391 | Jackie Sanasay |
-| 311 | 390 | Christian Pham |
-| 312 | 390 | Devin West |
+| 311 | 390 | Devin West |
+| 312 | 390 | Christian Pham |
 | 313 | 386 | Tremaine Hiler |
 | 314 | 386 | Chummy Frame |
 | 315 | 383 | win |
 | 316 | 381 | NastyFriend |
 | 317 | 378 | Hasty Glidezone |
-| 318 | 377 | ♈️ Ariesbaby |
-| 319 | 377 | Mikayla |
-| 320 | 377 | Amber Wilson |
+| 318 | 377 | Mikayla |
+| 319 | 377 | Amber Wilson |
+| 320 | 377 | ♈️ Ariesbaby |
 | 321 | 377 | AF Cruz |
-| 322 | 371 | 大竹直之 |
+| 322 | 371 | SeanSanchez |
 | 323 | 371 | Lauraly |
-| 324 | 371 | SeanSanchez |
+| 324 | 371 | 大竹直之 |
 | 325 | 370 | Allison Baxter |
 | 326 | 368 | Heather Aurelia |
 | 327 | 368 | Cortaz Lawrie |
@@ -339,8 +339,8 @@
 | 331 | 367 | Still Ten Tay |
 | 332 | 367 | Jayjay Rich |
 | 333 | 364 | Michele Simpson |
-| 334 | 363 | Christina Rebecca |
-| 335 | 363 | Richard Flex |
+| 334 | 363 | Richard Flex |
+| 335 | 363 | Christina Rebecca |
 | 336 | 362 | Kendra McIntyre |
 | 337 | 361 | Lakiesha Crawford |
 | 338 | 361 | John Staub |
@@ -361,23 +361,23 @@
 | 353 | 348 | Dennis J Herron II |
 | 354 | 347 | Erin Sabol |
 | 355 | 344 | DaGuy |
-| 356 | 343 | izzybella |
-| 357 | 343 | MamushiOh |
-| 358 | 343 | Poppy Buildout |
-| 359 | 340 | Jean Regis |
-| 360 | 340 | Tipsy Linkroll |
-| 361 | 340 | Peppy Towerbuilder |
+| 356 | 343 | Poppy Buildout |
+| 357 | 343 | izzybella |
+| 358 | 343 | MamushiOh |
+| 359 | 340 | Peppy Towerbuilder |
+| 360 | 340 | Jean Regis |
+| 361 | 340 | Tipsy Linkroll |
 | 362 | 339 | Wayne Savannah |
-| 363 | 337 | Brenda Malachi-butler |
-| 364 | 337 | Desire Rice |
+| 363 | 337 | Desire Rice |
+| 364 | 337 | Brenda Malachi-butler |
 | 365 | 336 | Skippy |
 | 366 | 336 | Amy Lynn Leifheit |
-| 367 | 334 | Bubbly Piececlear |
-| 368 | 334 | Kelli Couture |
+| 367 | 334 | Kelli Couture |
+| 368 | 334 | Bubbly Piececlear |
 | 369 | 332 | MindlessMic |
 | 370 | 330 | Crystal Boyd |
-| 371 | 330 | rls |
-| 372 | 330 | Daddy |
+| 371 | 330 | Daddy |
+| 372 | 330 | rls |
 | 373 | 328 | Snippy Breaker |
 | 374 | 327 | Jennah |
 | 375 | 325 | LaShaun Stinson |
@@ -391,45 +391,45 @@
 | 383 | 315 | Jae Thompson-Tyus |
 | 384 | 315 | Tesiree Cray |
 | 385 | 315 | KeeKee Williams |
-| 386 | 314 | Tonya McElroy |
-| 387 | 314 | Rayya Kiser |
+| 386 | 314 | Rayya Kiser |
+| 387 | 314 | Tonya McElroy |
 | 388 | 314 | Tay |
-| 389 | 313 | Glitzy Patternline |
-| 390 | 313 | Dizzy Dashy |
+| 389 | 313 | Dizzy Dashy |
+| 390 | 313 | Glitzy Patternline |
 | 391 | 312 | Daris Swearington |
 | 392 | 312 | Shanns |
 | 393 | 311 | Brittany Fells |
 | 394 | 311 | Cynthia Bradley |
-| 395 | 309 | Chris Rogers |
-| 396 | 309 | Sharee Robinson |
+| 395 | 309 | Sharee Robinson |
+| 396 | 309 | Chris Rogers |
 | 397 | 308 | Tonya Lee Sanders |
-| 398 | 308 | Sammie Walker |
-| 399 | 308 | Darrel K Pemberton |
-| 400 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 401 | 306 | akosua |
+| 398 | 308 | Darrel K Pemberton |
+| 399 | 308 | Sammie Walker |
+| 400 | 306 | akosua |
+| 401 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 402 | 304 | Jolly Tilefall |
 | 403 | 303 | kitten |
 | 404 | 302 | Yadira Salgado |
-| 405 | 301 | Alivia Dove |
-| 406 | 301 | SweetByNBy |
-| 407 | 301 | Earl Williams |
-| 408 | 300 | Melissa D. M. Hornsby |
-| 409 | 300 | Sara Meri |
-| 410 | 300 | Ketrell Bailey |
+| 405 | 301 | SweetByNBy |
+| 406 | 301 | Earl Williams |
+| 407 | 301 | Alivia Dove |
+| 408 | 300 | Ketrell Bailey |
+| 409 | 300 | Melissa D. M. Hornsby |
+| 410 | 300 | Sara Meri |
 | 411 | 298 | McKayla Owens |
 | 412 | 296 | Char |
-| 413 | 295 | Rachael R Gull |
-| 414 | 295 | Maribel Vasquez |
+| 413 | 295 | Derrius SeriousLee Burks |
+| 414 | 295 | NewEve |
 | 415 | 295 | Mafio SO |
-| 416 | 295 | Derrius SeriousLee Burks |
-| 417 | 294 | kick it |
+| 416 | 295 | Maribel Vasquez |
+| 417 | 295 | Rachael R Gull |
 | 418 | 294 | Brittanie Wardlow |
-| 419 | 293 | Giggy Tower |
-| 420 | 292 | BabyCakes |
+| 419 | 294 | kick it |
+| 420 | 293 | Giggy Tower |
 | 421 | 292 | Teddy Davis |
-| 422 | 291 | LuckyStar |
+| 422 | 292 | BabyCakes |
 | 423 | 291 | Brian Taylor |
-| 424 | 290 | NewEve |
+| 424 | 291 | LuckyStar |
 | 425 | 288 | Lozuna |
 | 426 | 287 | Stephen Glaze |
 | 427 | 287 | Charlene Baltimore |
