@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:08:43 UTC
+# Standings for team1 as of 2026-06-09 07:09:24 UTC
 
 **Total Participants:** 2008
 
@@ -95,8 +95,8 @@
 | 87 | 1206 | Jason Mungin |
 | 88 | 1187 | Dynah Gordon |
 | 89 | 1185 | Tiana Moore |
-| 90 | 1184 | Court Court |
-| 91 | 1182 | Moomoo |
+| 90 | 1184 | Moomoo |
+| 91 | 1184 | Court Court |
 | 92 | 1175 | Ryan Meilleur |
 | 93 | 1170 | Jonathan Vee Jay |
 | 94 | 1169 | Amalie Newvine |
@@ -1268,35 +1268,35 @@
 | 1260 | 59 | Sweet BayBee |
 | 1261 | 59 | Jeremy Myers |
 | 1262 | 59 | Robert Varnado |
-| 1263 | 58 | CoaCoa Myles |
-| 1264 | 58 | Onovella Titsworth |
-| 1265 | 58 | Brenda Brogden |
-| 1266 | 58 | Ashley Danielle |
-| 1267 | 58 | Shardai She Gotit |
-| 1268 | 58 | Desi |
-| 1269 | 58 | Brandy Way |
-| 1270 | 57 | blockman |
-| 1271 | 57 | Torrie Eckrote |
-| 1272 | 57 | Melissa Ramsey |
-| 1273 | 57 | Cali Lee |
-| 1274 | 57 | Rose Smith |
-| 1275 | 57 | Frilly Mover |
-| 1276 | 56 | Tammy Collins |
-| 1277 | 56 | Lisa Ivy |
-| 1278 | 56 | Kayleah Washington |
-| 1279 | 56 | Cheery T-spin |
-| 1280 | 56 | Tim Tim |
-| 1281 | 56 | e |
-| 1282 | 56 | Lillie Blossom Dixon |
-| 1283 | 56 | SnazzySnippet |
-| 1284 | 56 | Chanel White |
-| 1285 | 56 | Arturo Hernandez II |
-| 1286 | 56 | QueenzMo |
-| 1287 | 55 | Frilly Riserbuilder |
-| 1288 | 55 | KoolKimJay |
-| 1289 | 55 | Nikita Jones |
+| 1263 | 58 | Cheery T-spin |
+| 1264 | 58 | CoaCoa Myles |
+| 1265 | 58 | Shardai She Gotit |
+| 1266 | 58 | Desi |
+| 1267 | 58 | Brenda Brogden |
+| 1268 | 58 | Ashley Danielle |
+| 1269 | 58 | Onovella Titsworth |
+| 1270 | 58 | Brandy Way |
+| 1271 | 57 | Rose Smith |
+| 1272 | 57 | Cali Lee |
+| 1273 | 57 | Melissa Ramsey |
+| 1274 | 57 | Frilly Mover |
+| 1275 | 57 | blockman |
+| 1276 | 57 | Torrie Eckrote |
+| 1277 | 56 | SnazzySnippet |
+| 1278 | 56 | e |
+| 1279 | 56 | Tim Tim |
+| 1280 | 56 | QueenzMo |
+| 1281 | 56 | Arturo Hernandez II |
+| 1282 | 56 | Tammy Collins |
+| 1283 | 56 | Kayleah Washington |
+| 1284 | 56 | Lisa Ivy |
+| 1285 | 56 | Lillie Blossom Dixon |
+| 1286 | 56 | Chanel White |
+| 1287 | 55 | Laura Wesley |
+| 1288 | 55 | Nikita Jones |
+| 1289 | 55 | KoolKimJay |
 | 1290 | 55 | Meme23 |
-| 1291 | 55 | Laura Wesley |
+| 1291 | 55 | Frilly Riserbuilder |
 | 1292 | 55 | Amanda Miller |
 | 1293 | 54 | Maranda Broadway |
 | 1294 | 54 | Michael Jones |
