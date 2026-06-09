@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:40:44 UTC
+# Standings for team1 as of 2026-06-09 14:41:23 UTC
 
 **Total Participants:** 2061
 
@@ -306,26 +306,26 @@
 | 298 | 410 | Salim Thugger |
 | 299 | 404 | Koi |
 | 300 | 403 | Bre Poston |
-| 301 | 400 | Denell Sims |
-| 302 | 400 | Coco |
+| 301 | 400 | Coco |
+| 302 | 400 | Denell Sims |
 | 303 | 396 | Nikki Hogan |
 | 304 | 395 | Reginald Frank |
-| 305 | 394 | Queenie Perry |
-| 306 | 394 | Dacia Hicks |
+| 305 | 394 | Dacia Hicks |
+| 306 | 394 | Queenie Perry |
 | 307 | 392 | Dedra M Prester |
 | 308 | 391 | Jackie Sanasay |
 | 309 | 390 | Devin West |
-| 310 | 386 | Chummy Frame |
-| 311 | 386 | Tremaine Hiler |
-| 312 | 383 | win |
-| 313 | 381 | NastyFriend |
-| 314 | 380 | Nerdy Blockpiece |
-| 315 | 378 | Hasty Glidezone |
-| 316 | 377 | ♈️ Ariesbaby |
+| 310 | 390 | Christian Pham |
+| 311 | 386 | Chummy Frame |
+| 312 | 386 | Tremaine Hiler |
+| 313 | 383 | win |
+| 314 | 381 | NastyFriend |
+| 315 | 380 | Nerdy Blockpiece |
+| 316 | 378 | Hasty Glidezone |
 | 317 | 377 | Amber Wilson |
-| 318 | 377 | AF Cruz |
-| 319 | 377 | Mikayla |
-| 320 | 375 | Christian Pham |
+| 318 | 377 | ♈️ Ariesbaby |
+| 319 | 377 | AF Cruz |
+| 320 | 377 | Mikayla |
 | 321 | 374 | Andy Rivera |
 | 322 | 371 | Lauraly |
 | 323 | 371 | 大竹直之 |
@@ -424,10 +424,10 @@
 | 416 | 293 | Tonya Lee Sanders |
 | 417 | 292 | BabyCakes |
 | 418 | 292 | Teddy Davis |
-| 419 | 291 | LuckyStar |
-| 420 | 291 | Melissa D. M. Hornsby |
-| 421 | 291 | Brian Taylor |
-| 422 | 288 | akosua |
+| 419 | 291 | akosua |
+| 420 | 291 | LuckyStar |
+| 421 | 291 | Melissa D. M. Hornsby |
+| 422 | 291 | Brian Taylor |
 | 423 | 288 | Lozuna |
 | 424 | 287 | Stephen Glaze |
 | 425 | 287 | Charlene Baltimore |
@@ -499,19 +499,19 @@
 | 491 | 249 | Nate Myers |
 | 492 | 249 | Fina McKinnis |
 | 493 | 249 | Lisa Fletcher |
-| 494 | 248 | Valerie Alexander |
-| 495 | 248 | Melissa Olvera |
+| 494 | 248 | Melissa Olvera |
+| 495 | 248 | Valerie Alexander |
 | 496 | 247 | Taz Ballard |
 | 497 | 247 | SceneGreenz Wali |
 | 498 | 247 | Mahagony Small |
-| 499 | 245 | BonnieB |
-| 500 | 245 | Brittnay Wright |
-| 501 | 245 | ChunLi |
-| 502 | 244 | Saranoh13 |
-| 503 | 244 | Slinky Snapbuilder |
-| 504 | 244 | Perky Pusher |
-| 505 | 243 | Shalya Terry |
-| 506 | 242 | Nona Harriel |
+| 499 | 245 | Nona Harriel |
+| 500 | 245 | ChunLi |
+| 501 | 245 | Brittnay Wright |
+| 502 | 245 | BonnieB |
+| 503 | 244 | Perky Pusher |
+| 504 | 244 | Slinky Snapbuilder |
+| 505 | 244 | Saranoh13 |
+| 506 | 243 | Shalya Terry |
 | 507 | 242 | Tamika Rocheteau |
 | 508 | 240 | Velma Jones |
 | 509 | 240 | Malcolm Stanley |
