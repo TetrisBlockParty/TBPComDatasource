@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:05:22 UTC
+# Standings for team1 as of 2026-06-09 05:06:44 UTC
 
 **Total Participants:** 1989
 
@@ -145,7 +145,7 @@
 | 137 | 730 | ing410 |
 | 138 | 725 | Big Tina |
 | 139 | 720 | Felicia Williams |
-| 140 | 714 | Plucky Slamdrop |
+| 140 | 716 | Plucky Slamdrop |
 | 141 | 708 | De'Laonzeo Anthony |
 | 142 | 705 | Shontanese Adams |
 | 143 | 703 | Lesley Brunkus Cianfaglione |
@@ -217,9 +217,9 @@
 | 209 | 506 | Tasha Jones |
 | 210 | 506 | Marie Wilson |
 | 211 | 505 | Marcheta Cervantez |
-| 212 | 502 | SPNLover24 |
-| 213 | 501 | Joey Albright |
-| 214 | 501 | Telisha Mims |
+| 212 | 503 | Telisha Mims |
+| 213 | 502 | SPNLover24 |
+| 214 | 501 | Joey Albright |
 | 215 | 498 | Julian Dickens Jr. |
 | 216 | 494 | Ty Øtg |
 | 217 | 494 | Antonia Wyche |
@@ -285,10 +285,10 @@
 | 277 | 404 | Calvin Green |
 | 278 | 400 | Coco |
 | 279 | 396 | Koi |
-| 280 | 396 | Joana Thompson |
-| 281 | 394 | Queenie Perry |
-| 282 | 394 | Christopher Dreamsareality McEachin |
-| 283 | 393 | Jhonny Maii |
+| 280 | 396 | Jhonny Maii |
+| 281 | 396 | Joana Thompson |
+| 282 | 394 | Queenie Perry |
+| 283 | 394 | Christopher Dreamsareality McEachin |
 | 284 | 390 | Devin West |
 | 285 | 387 | StingerD |
 | 286 | 386 | Tremaine Hiler |
@@ -347,24 +347,24 @@
 | 339 | 320 | 大竹直之 |
 | 340 | 318 | Nerdy Snapfall |
 | 341 | 317 | Jai |
-| 342 | 315 | KeeKee Williams |
-| 343 | 314 | Chilly Wipebuilder |
-| 344 | 314 | Tonya McElroy |
-| 345 | 314 | Tay |
-| 346 | 314 | Rayya Kiser |
-| 347 | 311 | Cynthia Bradley |
-| 348 | 310 | Jackie Sanasay |
+| 342 | 317 | Anthony |
+| 343 | 315 | KeeKee Williams |
+| 344 | 314 | Chilly Wipebuilder |
+| 345 | 314 | Tonya McElroy |
+| 346 | 314 | Tay |
+| 347 | 314 | Rayya Kiser |
+| 348 | 311 | Cynthia Bradley |
 | 349 | 310 | Hasty Glidezone |
-| 350 | 309 | Brave Clearbuilder |
-| 351 | 309 | Amber Wilson |
-| 352 | 308 | MindlessMic |
-| 353 | 307 | Wayne Savannah |
-| 354 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 355 | 306 | Jennah |
-| 356 | 304 | Snippy Breaker |
-| 357 | 304 | Kendra McIntyre |
-| 358 | 303 | kitten |
-| 359 | 303 | Anthony |
+| 350 | 310 | Jackie Sanasay |
+| 351 | 309 | Brave Clearbuilder |
+| 352 | 309 | Amber Wilson |
+| 353 | 308 | MindlessMic |
+| 354 | 308 | Jennah |
+| 355 | 307 | Wayne Savannah |
+| 356 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 357 | 304 | Snippy Breaker |
+| 358 | 304 | Kendra McIntyre |
+| 359 | 303 | kitten |
 | 360 | 300 | Ketrell Bailey |
 | 361 | 300 | rls |
 | 362 | 300 | LaShaun Stinson |
@@ -629,54 +629,54 @@
 | 621 | 175 | Eric Machuca |
 | 622 | 175 | Juan Lewis |
 | 623 | 175 | DaemahnFriday |
-| 624 | 174 | Nerdy Wipefit |
-| 625 | 174 | Clipzby |
+| 624 | 174 | Clipzby |
+| 625 | 174 | Nerdy Wipefit |
 | 626 | 173 | Claudia Price |
 | 627 | 173 | Mathew Trudell |
 | 628 | 173 | Ashley Monet Terrell |
-| 629 | 173 | Bella |
-| 630 | 172 | Betsy B. Yohan |
-| 631 | 171 | Ta'Kaiyah M. Spann |
+| 629 | 173 | Callie Mae |
+| 630 | 173 | Bella |
+| 631 | 172 | Betsy B. Yohan |
 | 632 | 171 | Victor |
-| 633 | 170 | Christi Walker Patton |
-| 634 | 170 | meatballs |
-| 635 | 169 | rb |
-| 636 | 169 | Don Ray Mc |
-| 637 | 169 | Casey Chapman |
-| 638 | 168 | Lynn |
-| 639 | 168 | Giddy Staggerpiece |
-| 640 | 168 | Lounique |
-| 641 | 167 | Joka NoTime ForHataz |
-| 642 | 167 | Lucy |
-| 643 | 167 | Montego Allen |
-| 644 | 167 | Comedian Gdane |
+| 633 | 171 | Ta'Kaiyah M. Spann |
+| 634 | 170 | Christi Walker Patton |
+| 635 | 170 | meatballs |
+| 636 | 169 | rb |
+| 637 | 169 | Don Ray Mc |
+| 638 | 169 | Casey Chapman |
+| 639 | 168 | Lynn |
+| 640 | 168 | Giddy Staggerpiece |
+| 641 | 168 | Lounique |
+| 642 | 167 | Joka NoTime ForHataz |
+| 643 | 167 | Lucy |
+| 644 | 167 | Montego Allen |
 | 645 | 167 | Dana Hawes |
-| 646 | 167 | Callie Mae |
+| 646 | 167 | Comedian Gdane |
 | 647 | 165 | toxictonic92 |
 | 648 | 165 | Alexandrla Smith |
 | 649 | 165 | lizlizliz |
 | 650 | 164 | MrsDontPlay |
-| 651 | 164 | Latore Maxie |
-| 652 | 164 | Jes Marie |
-| 653 | 163 | QueenShay AllGood |
-| 654 | 163 | Kelvin Cook |
-| 655 | 163 | Nora Mahmoud |
+| 651 | 164 | Jes Marie |
+| 652 | 164 | Latore Maxie |
+| 653 | 163 | Nora Mahmoud |
+| 654 | 163 | QueenShay AllGood |
+| 655 | 163 | Kelvin Cook |
 | 656 | 162 | Logan Frost |
 | 657 | 162 | Speedy Stacky |
 | 658 | 162 | Sherri Keys |
 | 659 | 161 | Devron Reedy |
-| 660 | 160 | Kesha Brady |
+| 660 | 160 | Cheeky Twistpiece |
 | 661 | 160 | Spotlight |
-| 662 | 160 | Duncan Timothy |
-| 663 | 160 | Cheeky Twistpiece |
-| 664 | 159 | TY Newme Batts |
+| 662 | 160 | Kesha Brady |
+| 663 | 160 | Duncan Timothy |
+| 664 | 159 | Frances Davis |
 | 665 | 159 | Peppy Wipeblock |
 | 666 | 159 | Yvette McGee |
-| 667 | 159 | Frances Davis |
-| 668 | 159 | Tee Spinks |
+| 667 | 159 | Tee Spinks |
+| 668 | 159 | TY Newme Batts |
 | 669 | 158 | Seddrick |
-| 670 | 158 | TotoCherue |
-| 671 | 158 | Chris Watson Draper |
+| 670 | 158 | Chris Watson Draper |
+| 671 | 158 | TotoCherue |
 | 672 | 157 | Chirpy Buildgrid |
 | 673 | 157 | Lilly Brown |
 | 674 | 157 | Tony Pizzas |
@@ -888,11 +888,11 @@
 | 880 | 114 | Happy Blocky |
 | 881 | 114 | Seirra Robinson |
 | 882 | 114 | jeremy92 |
-| 883 | 114 | LAhoneybun82 |
-| 884 | 114 | Solomon Valarie |
-| 885 | 114 | Tyree Tman Shinette |
-| 886 | 113 | Terrance Tindall |
-| 887 | 113 | Octavia Whitmire |
+| 883 | 114 | Octavia Whitmire |
+| 884 | 114 | LAhoneybun82 |
+| 885 | 114 | Solomon Valarie |
+| 886 | 114 | Tyree Tman Shinette |
+| 887 | 113 | Terrance Tindall |
 | 888 | 113 | Shaun Anderson |
 | 889 | 113 | Sherry D Singleton |
 | 890 | 113 | Eugenia Vanclusen |
