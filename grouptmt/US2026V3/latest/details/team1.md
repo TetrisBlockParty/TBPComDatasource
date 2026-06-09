@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 03:04:20 UTC
+# Standings for team1 as of 2026-06-09 03:04:44 UTC
 
 **Total Participants:** 1956
 
@@ -1135,46 +1135,46 @@
 | 1127 | 71 | Boldy Matchfit |
 | 1128 | 71 | Joseph Ware Jr. |
 | 1129 | 70 | Nedine Ray |
-| 1130 | 70 | Rande Smith |
-| 1131 | 70 | Jason Riley |
-| 1132 | 70 | Eli Delao |
-| 1133 | 70 | West Racks |
-| 1134 | 70 | JoZanna Washington |
-| 1135 | 70 | Rachel Lopez |
-| 1136 | 70 | RealOne95 |
-| 1137 | 70 | smash56! |
-| 1138 | 69 | 1ofaking |
+| 1130 | 70 | 1ofaking |
+| 1131 | 70 | Rande Smith |
+| 1132 | 70 | Jason Riley |
+| 1133 | 70 | Eli Delao |
+| 1134 | 70 | West Racks |
+| 1135 | 70 | JoZanna Washington |
+| 1136 | 70 | Rachel Lopez |
+| 1137 | 70 | RealOne95 |
+| 1138 | 70 | smash56! |
 | 1139 | 69 | BrettanMary Adkins |
-| 1140 | 69 | Teresa Menefee |
-| 1141 | 69 | Spunky Strikerbuilder |
-| 1142 | 69 | Markeita Jones |
-| 1143 | 69 | Keith Johnson |
-| 1144 | 69 | Shadena M Carter Mba |
-| 1145 | 68 | LaPorscha Wright |
-| 1146 | 68 | Meeee |
-| 1147 | 68 | Saucy Crusher |
-| 1148 | 68 | Fairy Fae_6 |
+| 1140 | 69 | Spunky Strikerbuilder |
+| 1141 | 69 | Shadena M Carter Mba |
+| 1142 | 69 | Keith Johnson |
+| 1143 | 69 | Markeita Jones |
+| 1144 | 69 | Teresa Menefee |
+| 1145 | 68 | Fairy Fae_6 |
+| 1146 | 68 | LaPorscha Wright |
+| 1147 | 68 | Meeee |
+| 1148 | 68 | Saucy Crusher |
 | 1149 | 68 | AleahKCH |
-| 1150 | 67 | Michele Elizabeth McKay-Johnson |
-| 1151 | 67 | Tyler |
-| 1152 | 67 | Jeaneé Nay |
+| 1150 | 67 | Tyler |
+| 1151 | 67 | Jeaneé Nay |
+| 1152 | 67 | Michele Elizabeth McKay-Johnson |
 | 1153 | 67 | Mark Steven Pichler |
-| 1154 | 66 | GoldStarJo |
-| 1155 | 66 | Mami Badd |
+| 1154 | 66 | Meluhnee |
+| 1155 | 66 | Evelyn Epps |
 | 1156 | 66 | Letrishia Andrews |
 | 1157 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1158 | 66 | Sugar Foot |
-| 1159 | 66 | Meluhnee |
-| 1160 | 66 | Evelyn Epps |
-| 1161 | 66 | Raquele Hines |
-| 1162 | 66 | Tanisha Robinson |
-| 1163 | 66 | Mike Hromowyk |
-| 1164 | 66 | Jroc Tyra Taylor |
-| 1165 | 66 | Bold Spinblock |
-| 1166 | 65 | Melanie Houghton-McCann |
-| 1167 | 65 | Dana Hill |
-| 1168 | 65 | Furlough Leslie |
-| 1169 | 65 | Trixie |
+| 1158 | 66 | Jroc Tyra Taylor |
+| 1159 | 66 | Bold Spinblock |
+| 1160 | 66 | GoldStarJo |
+| 1161 | 66 | Mike Hromowyk |
+| 1162 | 66 | Raquele Hines |
+| 1163 | 66 | Tanisha Robinson |
+| 1164 | 66 | Sugar Foot |
+| 1165 | 66 | Mami Badd |
+| 1166 | 65 | Trixie |
+| 1167 | 65 | Melanie Houghton-McCann |
+| 1168 | 65 | Dana Hill |
+| 1169 | 65 | Furlough Leslie |
 | 1170 | 65 | Bouncy Glide |
 | 1171 | 65 | Panda Vibes |
 | 1172 | 65 | Denisa Amazon Clark |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 03:04:20 UTC
+# Standings for team2 as of 2026-06-09 03:04:44 UTC
 
 **Total Participants:** 2376
 
@@ -64,7 +64,7 @@
 | 56 | 2902 | Charley Bedford |
 | 57 | 2827 | Helen Thomas |
 | 58 | 2556 | Andrew Weissenborn |
-| 59 | 2504 | Rose Schaffner-Kibler |
+| 59 | 2523 | Rose Schaffner-Kibler |
 | 60 | 2500 | Jennifer Knott |
 | 61 | 2442 | Suki Kaur |
 | 62 | 2347 | Frisky Balanceblock |
@@ -189,9 +189,9 @@
 | 181 | 681 | Amanda Sikes |
 | 182 | 675 | Glitzy Base |
 | 183 | 671 | Gloria May Shook |
-| 184 | 671 | Krystal Hummel |
-| 185 | 668 | Crystal Allen |
-| 186 | 656 | AndrewandShela Gornik |
+| 184 | 671 | AndrewandShela Gornik |
+| 185 | 671 | Krystal Hummel |
+| 186 | 668 | Crystal Allen |
 | 187 | 656 | Dsabrina Maxey |
 | 188 | 652 | Sully |
 | 189 | 648 | Kathleen Dumbazz |
@@ -314,7 +314,7 @@
 | 306 | 425 | Goofy Gridclear |
 | 307 | 424 | James Ward |
 | 308 | 420 | Linda Guay |
-| 309 | 419 | Norma Ortiz |
+| 309 | 420 | Norma Ortiz |
 | 310 | 416 | Mouh Med |
 | 311 | 413 | Larry Cross |
 | 312 | 413 | Travis Bundrum |
@@ -1350,27 +1350,27 @@
 | 1342 | 75 | Dan Ramsey |
 | 1343 | 75 | Jazzy |
 | 1344 | 74 | Black Sheep |
-| 1345 | 74 | Mary |
-| 1346 | 74 | Kristen Alta |
-| 1347 | 74 | Bethany Nestor |
-| 1348 | 74 | Isiwin |
-| 1349 | 74 | Frisky Clicker |
-| 1350 | 74 | Bold Bridgepiece |
-| 1351 | 74 | Jolly Balanceblock |
-| 1352 | 74 | Kassie D Harmon |
-| 1353 | 74 | Candace Mihm |
-| 1354 | 73 | Blocker |
-| 1355 | 73 | Jenica Davis |
-| 1356 | 73 | Joslyn Erickson |
-| 1357 | 73 | Carrie Rutter-Bail |
-| 1358 | 73 | RalphyD |
-| 1359 | 73 | Sunny Spinzone |
-| 1360 | 73 | Elodie Deveyer |
-| 1361 | 72 | Aubrey Gates |
-| 1362 | 72 | Lively Liner |
-| 1363 | 72 | Stacy Lynn |
+| 1345 | 74 | Rachael Roberts |
+| 1346 | 74 | Mary |
+| 1347 | 74 | Kristen Alta |
+| 1348 | 74 | Bethany Nestor |
+| 1349 | 74 | Isiwin |
+| 1350 | 74 | Frisky Clicker |
+| 1351 | 74 | Bold Bridgepiece |
+| 1352 | 74 | Jolly Balanceblock |
+| 1353 | 74 | Kassie D Harmon |
+| 1354 | 74 | Candace Mihm |
+| 1355 | 73 | Blocker |
+| 1356 | 73 | Jenica Davis |
+| 1357 | 73 | Joslyn Erickson |
+| 1358 | 73 | Carrie Rutter-Bail |
+| 1359 | 73 | RalphyD |
+| 1360 | 73 | Sunny Spinzone |
+| 1361 | 73 | Elodie Deveyer |
+| 1362 | 72 | Aubrey Gates |
+| 1363 | 72 | Lively Liner |
 | 1364 | 72 | Linda Jeanne Knop |
-| 1365 | 72 | Rachael Roberts |
+| 1365 | 72 | Stacy Lynn |
 | 1366 | 72 | Bubbly Puzzler |
 | 1367 | 72 | Ashley Shazes |
 | 1368 | 71 | Joey Grillo |
@@ -1380,18 +1380,18 @@
 | 1372 | 71 | Chey |
 | 1373 | 71 | lols |
 | 1374 | 71 | Crystal Whygle |
-| 1375 | 71 | Amy Walker |
-| 1376 | 71 | John C Morrison |
-| 1377 | 71 | Yari |
-| 1378 | 71 | Pjrobinsonnn |
-| 1379 | 70 | Jason Janssen |
+| 1375 | 71 | Pjrobinsonnn |
+| 1376 | 71 | Yari |
+| 1377 | 71 | Amy Walker |
+| 1378 | 71 | John C Morrison |
+| 1379 | 70 | Stephanie |
 | 1380 | 70 | Brittany Kay |
 | 1381 | 70 | Raffa |
-| 1382 | 70 | Nanny t |
+| 1382 | 70 | Abby Dexter |
 | 1383 | 70 | FinnsDad |
 | 1384 | 70 | Rosie |
-| 1385 | 70 | Stephanie |
-| 1386 | 70 | Abby Dexter |
+| 1385 | 70 | Jason Janssen |
+| 1386 | 70 | Nanny t |
 | 1387 | 70 | Shannon Michelle |
 | 1388 | 70 | Michelle |
 | 1389 | 70 | Louise LeBlanc |
@@ -1409,24 +1409,24 @@
 | 1401 | 69 | Mandy Anderson |
 | 1402 | 69 | Melinda Rausch |
 | 1403 | 69 | Shanna Jones Scott |
-| 1404 | 69 | Cammy Riley |
-| 1405 | 69 | Shelby Lynn May |
-| 1406 | 69 | Loretta Crow |
-| 1407 | 69 | Courtney Elizabeth Hartnagel |
-| 1408 | 69 | Yany |
-| 1409 | 69 | Deanna Mc |
-| 1410 | 68 | Sami Amato |
-| 1411 | 68 | Crafty Slice |
-| 1412 | 68 | Jara Zavala |
-| 1413 | 68 | Viola Fletcher |
-| 1414 | 68 | April Appleton |
-| 1415 | 68 | Cheery Blast |
-| 1416 | 68 | Squirrel |
+| 1404 | 69 | Squirrel |
+| 1405 | 69 | Cammy Riley |
+| 1406 | 69 | Shelby Lynn May |
+| 1407 | 69 | Deanna Mc |
+| 1408 | 69 | Courtney Elizabeth Hartnagel |
+| 1409 | 69 | Yany |
+| 1410 | 69 | Loretta Crow |
+| 1411 | 68 | Sami Amato |
+| 1412 | 68 | Crafty Slice |
+| 1413 | 68 | Jara Zavala |
+| 1414 | 68 | Viola Fletcher |
+| 1415 | 68 | April Appleton |
+| 1416 | 68 | Cheery Blast |
 | 1417 | 68 | Angie Barlow |
 | 1418 | 67 | Happy Curvebuilder |
 | 1419 | 67 | LK |
-| 1420 | 66 | David Cadiente |
-| 1421 | 66 | Jenna Thorn |
+| 1420 | 66 | Jenna Thorn |
+| 1421 | 66 | David Cadiente |
 | 1422 | 66 | Justin Pennington |
 | 1423 | 66 | Yvonne Rodriguez |
 | 1424 | 66 | Ali |
