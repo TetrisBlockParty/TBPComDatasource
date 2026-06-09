@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 19:20:45 UTC
+# Standings for team4 as of 2026-06-09 19:21:21 UTC
 
 **Total Participants:** 2162
 
@@ -77,9 +77,9 @@
 | 69 | 1857 | JayJay Smith |
 | 70 | 1847 | Dheeh Robles |
 | 71 | 1846 | Sassy Column |
-| 72 | 1774 | Damon Gaston |
-| 73 | 1771 | Keg |
-| 74 | 1729 | Jackie Polanco |
+| 72 | 1779 | Jackie Polanco |
+| 73 | 1774 | Damon Gaston |
+| 74 | 1771 | Keg |
 | 75 | 1670 | JoLinda Dunn |
 | 76 | 1616 | Charlie Lewis |
 | 77 | 1600 | Posey Smith |
