@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:22:45 UTC
+# Standings for team1 as of 2026-06-09 12:23:22 UTC
 
 **Total Participants:** 2040
 
@@ -39,7 +39,7 @@
 | 31 | 3543 | Juan Kandiss Escobedo Irwin |
 | 32 | 3301 | Yolanda McDonald |
 | 33 | 3163 | Sha Harris |
-| 34 | 2853 | Brian Stackhouse |
+| 34 | 2891 | Brian Stackhouse |
 | 35 | 2755 | COSA303 |
 | 36 | 2649 | Weeze |
 | 37 | 2619 | Zappy Brickline |
@@ -535,12 +535,12 @@
 | 527 | 222 | Hardtohandle91 |
 | 528 | 221 | De'Nell Edwards |
 | 529 | 221 | Jack Vlasak |
-| 530 | 221 | Rayshawn Cohen |
-| 531 | 221 | Terri Smart |
-| 532 | 220 | Rufus |
-| 533 | 220 | Tonia Ramos |
-| 534 | 220 | Douglas Price |
-| 535 | 219 | Saucy Faller |
+| 530 | 221 | Saucy Faller |
+| 531 | 221 | Rayshawn Cohen |
+| 532 | 221 | Terri Smart |
+| 533 | 220 | Rufus |
+| 534 | 220 | Tonia Ramos |
+| 535 | 220 | Douglas Price |
 | 536 | 219 | Ciera Peace |
 | 537 | 218 | Teresa Yanira Cepeda |
 | 538 | 218 | Mommy Frank |
@@ -786,70 +786,70 @@
 | 778 | 144 | Ysma Simmons |
 | 779 | 144 | Batty B |
 | 780 | 144 | Stephen Garland |
-| 781 | 142 | Mary Goode |
-| 782 | 142 | Boricua64 |
+| 781 | 142 | Boricua64 |
+| 782 | 142 | Jasmine Hariston-Estis |
 | 783 | 142 | Tiffany Jean Hinson |
-| 784 | 142 | Jasmine Hariston-Estis |
-| 785 | 141 | Shalena Marie Humphrey |
-| 786 | 141 | Lively Wipeout |
-| 787 | 141 | Angela Kitchens |
-| 788 | 141 | Coco |
-| 789 | 141 | Krystal Maynard |
-| 790 | 141 | KimChii |
+| 784 | 142 | Mary Goode |
+| 785 | 141 | Krystal Maynard |
+| 786 | 141 | KimChii |
+| 787 | 141 | Coco |
+| 788 | 141 | Angela Kitchens |
+| 789 | 141 | Lively Wipeout |
+| 790 | 141 | Shalena Marie Humphrey |
 | 791 | 140 | Victoria Smith |
-| 792 | 140 | Biggestboss Ransom |
-| 793 | 140 | William Vidra |
-| 794 | 140 | Kennedi Brazziel |
-| 795 | 140 | Marcello Rush |
+| 792 | 140 | William Vidra |
+| 793 | 140 | Marcello Rush |
+| 794 | 140 | Biggestboss Ransom |
+| 795 | 140 | Shadon McMillan |
 | 796 | 140 | Tory Miller |
-| 797 | 140 | Shadon McMillan |
+| 797 | 140 | Kennedi Brazziel |
 | 798 | 140 | Cameo Tweed |
 | 799 | 140 | Stanley Dixon |
 | 800 | 139 | Sunny Clicky |
-| 801 | 139 | Chereese Harris |
-| 802 | 139 | Antoinette Kelly |
-| 803 | 139 | Rochelle Nash-Evans |
+| 801 | 139 | Antoinette Kelly |
+| 802 | 139 | Rochelle Nash-Evans |
+| 803 | 139 | Chereese Harris |
 | 804 | 139 | Lexx Robins |
-| 805 | 138 | messyboots |
+| 805 | 139 | Tina Blessed Cage |
 | 806 | 138 | Christy Quick |
 | 807 | 138 | Morenita Rodriguez |
-| 808 | 138 | Jazzy Bridger |
+| 808 | 138 | messyboots |
 | 809 | 138 | Rene Hicks |
-| 810 | 137 | Lootch |
-| 811 | 137 | Tina Blessed Cage |
-| 812 | 137 | Star Hart |
+| 810 | 138 | Jazzy Bridger |
+| 811 | 137 | Star Hart |
+| 812 | 137 | Angelique Talbot |
 | 813 | 137 | LaShawyn Wood |
-| 814 | 137 | Angelique Talbot |
+| 814 | 137 | Lootch |
 | 815 | 137 | Xana Zania Bopp |
 | 816 | 136 | Rissa Rozay |
 | 817 | 136 | Alanna Breitenbach |
 | 818 | 136 | Christopher Shaw-Black |
-| 819 | 135 | Saucy Tile |
+| 819 | 135 | Mellie Mel |
 | 820 | 135 | Paul Pendley |
-| 821 | 135 | Laysa Nunez |
-| 822 | 135 | Chanel White |
-| 823 | 135 | Mellie Mel |
-| 824 | 134 | Bouncy Glide |
-| 825 | 134 | Laurie Napper |
+| 821 | 135 | Saucy Tile |
+| 822 | 135 | Laysa Nunez |
+| 823 | 135 | Chanel White |
+| 824 | 134 | Laurie Napper |
+| 825 | 134 | Bouncy Glide |
 | 826 | 133 | squints |
-| 827 | 133 | Meshia |
-| 828 | 133 | Derald Miller |
+| 827 | 133 | Derald Miller |
+| 828 | 133 | Meshia |
 | 829 | 132 | Desi Guerra |
 | 830 | 132 | Alexis Alexander |
 | 831 | 132 | Aanngie Aanngie |
-| 832 | 131 | Kortney Adams |
-| 833 | 131 | Koreen Johnson-Woolford |
-| 834 | 130 | Gerold Folk Haddock |
+| 832 | 131 | Koreen Johnson-Woolford |
+| 833 | 131 | Kortney Adams |
+| 834 | 130 | Jessica Davis |
 | 835 | 130 | Terrance Tindall |
-| 836 | 130 | Tito Divyn |
-| 837 | 130 | Jessica Davis |
-| 838 | 130 | Anthony Collins |
-| 839 | 129 | Felicia Dungey |
-| 840 | 129 | Desiree Ryder |
-| 841 | 129 | Williams Candace |
-| 842 | 129 | Chino Baby |
-| 843 | 129 | Twisty Dashy |
-| 844 | 129 | Stronger Wiser Better |
+| 836 | 130 | Gerold Folk Haddock |
+| 837 | 130 | Anthony Collins |
+| 838 | 130 | Tito Divyn |
+| 839 | 129 | Desiree Ryder |
+| 840 | 129 | Williams Candace |
+| 841 | 129 | Chino Baby |
+| 842 | 129 | Twisty Dashy |
+| 843 | 129 | Stronger Wiser Better |
+| 844 | 129 | Felicia Dungey |
 | 845 | 129 | JesusSaves 😇 |
 | 846 | 129 | Jas |
 | 847 | 128 | Katness |
