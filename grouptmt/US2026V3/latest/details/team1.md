@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:27:21 UTC
+# Standings for team1 as of 2026-06-09 10:28:21 UTC
 
 **Total Participants:** 2035
 
@@ -162,8 +162,8 @@
 | 154 | 693 | Andi McGreevy |
 | 155 | 692 | Chirpy Corner |
 | 156 | 686 | W.A. Simpson |
-| 157 | 685 | Byron Mario Cawthon |
-| 158 | 685 | Ebony Waynes-robinson |
+| 157 | 685 | Ebony Waynes-robinson |
+| 158 | 685 | Byron Mario Cawthon |
 | 159 | 677 | Chantelle Lee |
 | 160 | 672 | Antonia Wyche |
 | 161 | 671 | Gotcha |
@@ -174,8 +174,8 @@
 | 166 | 657 | Ann White |
 | 167 | 649 | sha |
 | 168 | 646 | TeeMaster Barber IsLyfe |
-| 169 | 645 | Keke Ferguson |
-| 170 | 645 | Marcheta Cervantez |
+| 169 | 645 | Marcheta Cervantez |
+| 170 | 645 | Keke Ferguson |
 | 171 | 643 | Ottison Dianna |
 | 172 | 630 | Bambi Love |
 | 173 | 629 | Charletha Williams |
@@ -194,13 +194,13 @@
 | 186 | 584 | Novaa |
 | 187 | 583 | Block King |
 | 188 | 583 | TT |
-| 189 | 580 | Spicy Risepiece |
-| 190 | 580 | Felicia Cain |
-| 191 | 577 | Randizzle |
-| 192 | 577 | Nina Davis |
+| 189 | 580 | Felicia Cain |
+| 190 | 580 | Spicy Risepiece |
+| 191 | 577 | Nina Davis |
+| 192 | 577 | Randizzle |
 | 193 | 576 | Jeffrey Barrows |
-| 194 | 574 | DaVonte' Cretter |
-| 195 | 574 | LaToya Chambers |
+| 194 | 574 | LaToya Chambers |
+| 195 | 574 | DaVonte' Cretter |
 | 196 | 573 | Nobles Brandon |
 | 197 | 570 | Jamal Itzjusmall Chambers |
 | 198 | 569 | Zachary Colegrove |
@@ -217,9 +217,9 @@
 | 209 | 546 | Po Marley |
 | 210 | 539 | DellaLucretia Thomas |
 | 211 | 536 | SPNLover24 |
-| 212 | 527 | MommaCia |
-| 213 | 527 | Ebony |
-| 214 | 527 | Tamara N Lee |
+| 212 | 527 | Ebony |
+| 213 | 527 | Tamara N Lee |
+| 214 | 527 | MommaCia |
 | 215 | 525 | Tishauna Virgo |
 | 216 | 523 | Christopher Dreamsareality McEachin |
 | 217 | 521 | Giggy Clusterer |
@@ -227,8 +227,8 @@
 | 219 | 519 | Slinky Party |
 | 220 | 515 | David Fuentes |
 | 221 | 511 | Dizzy Dropper |
-| 222 | 506 | Telisha Mims |
-| 223 | 506 | Marie Wilson |
+| 222 | 506 | Marie Wilson |
+| 223 | 506 | Telisha Mims |
 | 224 | 506 | Tasha Jones |
 | 225 | 501 | Joey Albright |
 | 226 | 498 | Julian Dickens Jr. |
@@ -236,8 +236,8 @@
 | 228 | 493 | Deveda Williams |
 | 229 | 491 | Mic Balew |
 | 230 | 490 | Lashawn Wallace |
-| 231 | 487 | Tamara Johnson-Carter |
-| 232 | 487 | GrkGdess |
+| 231 | 487 | GrkGdess |
+| 232 | 487 | Tamara Johnson-Carter |
 | 233 | 484 | Rhonda Williams Warner |
 | 234 | 481 | Jimmie Makia |
 | 235 | 477 | Qwlonda Shirrell |
@@ -249,40 +249,40 @@
 | 241 | 467 | Tina Mitchell |
 | 242 | 466 | Tessa Gaskin |
 | 243 | 465 | Natasha Rucker |
-| 244 | 462 | Jhonny Maii |
-| 245 | 462 | Jenna Renee |
+| 244 | 462 | Jenna Renee |
+| 245 | 462 | Jhonny Maii |
 | 246 | 460 | Slinky Brickmatch |
 | 247 | 460 | Tanya Clayton |
 | 248 | 456 | Cachet A Ward |
-| 249 | 453 | JaClanDiah |
-| 250 | 453 | Elizabeth Vega Coreano |
+| 249 | 453 | Elizabeth Vega Coreano |
+| 250 | 453 | JaClanDiah |
 | 251 | 452 | Kenny MrOnethousand Peck |
 | 252 | 451 | Simmone T. Kadiri |
 | 253 | 451 | Penee Wiggins |
 | 254 | 450 | boogeywoogey |
 | 255 | 448 | Michael Bethezar |
-| 256 | 447 | Rachael Bakowicz Edwards |
+| 256 | 448 | Choc |
 | 257 | 447 | Zippy Tilefall |
 | 258 | 447 | Cheeky Pop |
 | 259 | 447 | Jazzy Fireflighters |
-| 260 | 444 | Latisha Fairley |
-| 261 | 444 | Kevin M. McGhee Jr |
-| 262 | 441 | Tessa Felice Hill |
-| 263 | 440 | Zippy Lifter |
-| 264 | 439 | Choc |
-| 265 | 439 | Asani CHumba |
-| 266 | 439 | Kyra Coleman |
+| 260 | 447 | Rachael Bakowicz Edwards |
+| 261 | 444 | Latisha Fairley |
+| 262 | 444 | Kevin M. McGhee Jr |
+| 263 | 441 | Tessa Felice Hill |
+| 264 | 440 | Zippy Lifter |
+| 265 | 439 | Kyra Coleman |
+| 266 | 439 | Asani CHumba |
 | 267 | 436 | Leebo Slice |
 | 268 | 435 | Clever Fitblock |
 | 269 | 435 | Tamika Fisher |
-| 270 | 432 | Lashaunda |
-| 271 | 432 | Trina Greenwood |
-| 272 | 432 | Jessica Russell |
-| 273 | 430 | Tarnisha Neicy Jones |
-| 274 | 430 | Davionte DaeDae Hopson-Rodriguez |
-| 275 | 427 | Hailey Hil |
-| 276 | 426 | Chasem45 |
-| 277 | 424 | Kate Hancock Malicek |
+| 270 | 434 | Kate Hancock Malicek |
+| 271 | 432 | Lashaunda |
+| 272 | 432 | Trina Greenwood |
+| 273 | 432 | Jessica Russell |
+| 274 | 430 | Tarnisha Neicy Jones |
+| 275 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 276 | 427 | Hailey Hil |
+| 277 | 426 | Chasem45 |
 | 278 | 423 | Dion Gray |
 | 279 | 421 | OhNoZer0 |
 | 280 | 420 | Nerdy Climber |
