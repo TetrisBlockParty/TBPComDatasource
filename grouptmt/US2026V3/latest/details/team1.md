@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:17:21 UTC
+# Standings for team1 as of 2026-06-09 10:18:44 UTC
 
 **Total Participants:** 2035
 
@@ -39,7 +39,7 @@
 | 31 | 3543 | Juan Kandiss Escobedo Irwin |
 | 32 | 3301 | Yolanda McDonald |
 | 33 | 3163 | Sha Harris |
-| 34 | 2763 | Brian Stackhouse |
+| 34 | 2773 | Brian Stackhouse |
 | 35 | 2755 | COSA303 |
 | 36 | 2619 | Zappy Brickline |
 | 37 | 2619 | Weeze |
@@ -53,8 +53,8 @@
 | 45 | 2081 | Hyper Slamdrop |
 | 46 | 2076 | April Inboden |
 | 47 | 2023 | Cherry Rose |
-| 48 | 1993 | JoJo |
-| 49 | 1984 | Brian Bohanon II |
+| 48 | 1994 | Brian Bohanon II |
+| 49 | 1993 | JoJo |
 | 50 | 1931 | Ceilo Marie |
 | 51 | 1878 | Jennifer To |
 | 52 | 1854 | Robyn Caldwell |
@@ -68,9 +68,9 @@
 | 60 | 1683 | Jacoby E Fleming |
 | 61 | 1642 | TAZ-MF-NIZIL |
 | 62 | 1568 | Helen Smith |
-| 63 | 1507 | Eric Mcgaughy |
-| 64 | 1484 | Danielle DeLozier Plesec |
-| 65 | 1479 | Corey Cawthon |
+| 63 | 1559 | Corey Cawthon |
+| 64 | 1507 | Eric Mcgaughy |
+| 65 | 1484 | Danielle DeLozier Plesec |
 | 66 | 1461 | Janet Cooke |
 | 67 | 1456 | Angela R Wilson |
 | 68 | 1450 | Chenell Gillard |
@@ -294,14 +294,14 @@
 | 286 | 414 | Cheery Linkfall |
 | 287 | 413 | Curtis T Cirno |
 | 288 | 410 | Salim Thugger |
-| 289 | 404 | Calvin Green |
-| 290 | 403 | Bre Poston |
-| 291 | 400 | Coco |
-| 292 | 400 | Denell Sims |
-| 293 | 396 | Joana Thompson |
-| 294 | 396 | Koi |
-| 295 | 394 | Queenie Perry |
-| 296 | 394 | Kate Hancock Malicek |
+| 289 | 409 | Kate Hancock Malicek |
+| 290 | 404 | Calvin Green |
+| 291 | 403 | Bre Poston |
+| 292 | 400 | Coco |
+| 293 | 400 | Denell Sims |
+| 294 | 396 | Joana Thompson |
+| 295 | 396 | Koi |
+| 296 | 394 | Queenie Perry |
 | 297 | 394 | Dacia Hicks |
 | 298 | 392 | Dedra M Prester |
 | 299 | 390 | Devin West |
@@ -721,75 +721,75 @@
 | 713 | 156 | LaSharmeika Fancher |
 | 714 | 156 | Karen Denen |
 | 715 | 156 | Sara |
-| 716 | 155 | MzJuice Box |
-| 717 | 155 | Poppy Smasher |
-| 718 | 155 | Angie Smith |
-| 719 | 154 | Glitzy Clusterer |
-| 720 | 154 | Earl Williams |
-| 721 | 154 | TRUBBLE45 |
-| 722 | 154 | Kp |
+| 716 | 155 | Poppy Smasher |
+| 717 | 155 | Angie Smith |
+| 718 | 155 | MzJuice Box |
+| 719 | 154 | Octavia Bsb Johnson |
+| 720 | 154 | Glitzy Clusterer |
+| 721 | 154 | Kp |
+| 722 | 154 | Earl Williams |
 | 723 | 154 | Dizzy Gridmatch |
-| 724 | 154 | Octavia Bsb Johnson |
+| 724 | 154 | TRUBBLE45 |
 | 725 | 153 | Cheery Swiper |
-| 726 | 152 | Essence Jones |
-| 727 | 152 | Megan Jones |
-| 728 | 152 | Wacky Stackbuilder |
-| 729 | 151 | Shanell Thomas |
-| 730 | 151 | Pj Rojas |
-| 731 | 151 | Terrie |
+| 726 | 152 | Wacky Stackbuilder |
+| 727 | 152 | Essence Jones |
+| 728 | 152 | Megan Jones |
+| 729 | 151 | Terrie |
+| 730 | 151 | Shanell Thomas |
+| 731 | 151 | Pj Rojas |
 | 732 | 150 | Marshall Davis |
-| 733 | 150 | Kanary Karotz |
+| 733 | 150 | Taneka Howell |
 | 734 | 150 | Antoinette Jones |
-| 735 | 150 | Taneka Howell |
-| 736 | 149 | Anastasia |
-| 737 | 149 | Andra Ward |
-| 738 | 149 | Stephanie Ellis |
+| 735 | 150 | Kanary Karotz |
+| 736 | 149 | Stephanie Ellis |
+| 737 | 149 | Anastasia |
+| 738 | 149 | Andra Ward |
 | 739 | 148 | Meeee |
 | 740 | 148 | GetDaOPPS |
-| 741 | 148 | Yashicha Hertzock |
-| 742 | 148 | Marsha Earl |
-| 743 | 148 | Cauiasia DeJ'ae |
-| 744 | 148 | Zany Patternblock |
-| 745 | 147 | Kiki |
-| 746 | 147 | Charika Marie Bergmann |
-| 747 | 147 | Chill Linkroll |
+| 741 | 148 | Zany Patternblock |
+| 742 | 148 | Marbama |
+| 743 | 148 | Marsha Earl |
+| 744 | 148 | Yashicha Hertzock |
+| 745 | 148 | Cauiasia DeJ'ae |
+| 746 | 147 | Sabrina Wilkerson |
+| 747 | 147 | Kiki |
 | 748 | 147 | Christopher L Crites |
-| 749 | 147 | Sabrina Wilkerson |
-| 750 | 146 | Guard Up |
+| 749 | 147 | Chill Linkroll |
+| 750 | 147 | Charika Marie Bergmann |
 | 751 | 146 | Jojo M |
-| 752 | 146 | Paul Doty |
-| 753 | 146 | Rieshelda Marie White |
-| 754 | 146 | Sallie Sanborn |
-| 755 | 145 | tg |
-| 756 | 145 | Kashh |
-| 757 | 145 | Nekka |
-| 758 | 145 | Hyedie Badie |
-| 759 | 144 | Ysma Simmons |
+| 752 | 146 | Guard Up |
+| 753 | 146 | Sallie Sanborn |
+| 754 | 146 | Paul Doty |
+| 755 | 146 | Rieshelda Marie White |
+| 756 | 145 | tg |
+| 757 | 145 | Kashh |
+| 758 | 145 | Nekka |
+| 759 | 145 | Hyedie Badie |
 | 760 | 144 | Dapper Matchfit |
-| 761 | 144 | Cm |
-| 762 | 144 | Batty B |
-| 763 | 143 | LAdYPOLy |
-| 764 | 142 | Boricua64 |
-| 765 | 142 | Tiffany Jean Hinson |
-| 766 | 142 | Jasmine Hariston-Estis |
-| 767 | 142 | Mary Goode |
-| 768 | 141 | Lively Wipeout |
-| 769 | 141 | Krystal Maynard |
-| 770 | 141 | Kim Holzmiller |
+| 761 | 144 | Ysma Simmons |
+| 762 | 144 | Cm |
+| 763 | 144 | Batty B |
+| 764 | 143 | LAdYPOLy |
+| 765 | 142 | Mary Goode |
+| 766 | 142 | Boricua64 |
+| 767 | 142 | Tiffany Jean Hinson |
+| 768 | 142 | Jasmine Hariston-Estis |
+| 769 | 141 | Lively Wipeout |
+| 770 | 141 | Krystal Maynard |
 | 771 | 141 | KimChii |
-| 772 | 141 | Coco |
-| 773 | 141 | Shalena Marie Humphrey |
-| 774 | 141 | Angela Kitchens |
-| 775 | 140 | Marbama |
-| 776 | 140 | Tory Miller |
-| 777 | 140 | Victoria Smith |
-| 778 | 140 | Cameo Tweed |
-| 779 | 140 | Kennedi Brazziel |
+| 772 | 141 | Shalena Marie Humphrey |
+| 773 | 141 | Angela Kitchens |
+| 774 | 141 | Coco |
+| 775 | 141 | Kim Holzmiller |
+| 776 | 140 | Stanley Dixon |
+| 777 | 140 | TBabii24 |
+| 778 | 140 | Biggestboss Ransom |
+| 779 | 140 | Marcello Rush |
 | 780 | 140 | Shadon McMillan |
-| 781 | 140 | Marcello Rush |
-| 782 | 140 | Biggestboss Ransom |
-| 783 | 140 | TBabii24 |
-| 784 | 140 | Stanley Dixon |
+| 781 | 140 | Kennedi Brazziel |
+| 782 | 140 | Cameo Tweed |
+| 783 | 140 | Victoria Smith |
+| 784 | 140 | Tory Miller |
 | 785 | 139 | Antoinette Kelly |
 | 786 | 139 | Sunny Clicky |
 | 787 | 139 | Naee Bee |
