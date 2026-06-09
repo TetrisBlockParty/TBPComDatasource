@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:24:45 UTC
+# Standings for team4 as of 2026-06-09 10:25:20 UTC
 
 **Total Participants:** 2091
 
@@ -76,8 +76,8 @@
 | 68 | 1697 | JayJay Smith |
 | 69 | 1638 | Joseph Anthony Watkins |
 | 70 | 1612 | Alicia Cook |
-| 71 | 1600 | Melissa Brown |
-| 72 | 1600 | Posey Smith |
+| 71 | 1600 | Posey Smith |
+| 72 | 1600 | Melissa Brown |
 | 73 | 1600 | Alyssa Oth |
 | 74 | 1506 | Chris Covington |
 | 75 | 1462 | Charlie Lewis |
@@ -109,8 +109,8 @@
 | 101 | 1049 | Snippy Grid |
 | 102 | 1042 | Chuck Gannon |
 | 103 | 1040 | Tina Shalay Hayes |
-| 104 | 1032 | Kelly Bernard |
-| 105 | 1032 | Esther Hadassah |
+| 104 | 1032 | Esther Hadassah |
+| 105 | 1032 | Kelly Bernard |
 | 106 | 1021 | Trice Stevenson |
 | 107 | 1019 | Dandy Puzzler |
 | 108 | 1008 | Beee |
@@ -120,11 +120,11 @@
 | 112 | 979 | Heather Preston |
 | 113 | 971 | Loony Towerer |
 | 114 | 970 | Jesse Olive |
-| 115 | 965 | CJ |
-| 116 | 965 | Kristen Wallace |
+| 115 | 965 | Kristen Wallace |
+| 116 | 965 | CJ |
 | 117 | 957 | Blayne Kole |
-| 118 | 952 | Futrell Brent |
-| 119 | 952 | Loony Glidepiece |
+| 118 | 952 | Loony Glidepiece |
+| 119 | 952 | Futrell Brent |
 | 120 | 952 | Alala.Cersei |
 | 121 | 946 | Sharidan Klinginsmith |
 | 122 | 940 | Melissa WC |
@@ -136,8 +136,8 @@
 | 128 | 864 | Whitborn |
 | 129 | 849 | Gorica Prusina |
 | 130 | 844 | Kay |
-| 131 | 841 | Shiny Dashy |
-| 132 | 841 | Pepone Pepe |
+| 131 | 841 | Pepone Pepe |
+| 132 | 841 | Shiny Dashy |
 | 133 | 837 | Phil Peterson |
 | 134 | 830 | Kitsune Bi |
 | 135 | 829 | GeorgeButts |
@@ -160,13 +160,13 @@
 | 152 | 732 | Gracie Ornelas |
 | 153 | 725 | blockhead |
 | 154 | 709 | Lisa Garcia |
-| 155 | 700 | DexterDobbins |
+| 155 | 700 | Cranky Buildout |
 | 156 | 700 | Boldy Striker |
-| 157 | 697 | Lynn Grimes |
-| 158 | 692 | Jeremy Lopez |
-| 159 | 691 | Nikki Fuller Johnson |
-| 160 | 690 | Izz |
-| 161 | 690 | Cranky Buildout |
+| 157 | 700 | DexterDobbins |
+| 158 | 697 | Lynn Grimes |
+| 159 | 692 | Jeremy Lopez |
+| 160 | 691 | Nikki Fuller Johnson |
+| 161 | 690 | Izz |
 | 162 | 684 | Caitlyn Wang |
 | 163 | 678 | Andrew Dang |
 | 164 | 677 | Dandy Clearfit |
@@ -181,8 +181,8 @@
 | 173 | 615 | Cinta Marie |
 | 174 | 603 | zoes |
 | 175 | 600 | Suzanne Carter |
-| 176 | 599 | Devinlee Brown |
-| 177 | 599 | Krysten Danielle Richard |
+| 176 | 599 | Krysten Danielle Richard |
+| 177 | 599 | Devinlee Brown |
 | 178 | 598 | Katie Lynn Petit |
 | 179 | 593 | Malik Thompson |
 | 180 | 592 | Sarah Berry Stevens |
@@ -194,8 +194,8 @@
 | 186 | 563 | QueenLi86 |
 | 187 | 563 | Jacqueline Jackii Ramos |
 | 188 | 559 | Katie Martin |
-| 189 | 555 | Janet Sanfilippo Sullivan |
-| 190 | 555 | Julian Gasque |
+| 189 | 555 | Julian Gasque |
+| 190 | 555 | Janet Sanfilippo Sullivan |
 | 191 | 554 | Jennifer Ellyn Sheets |
 | 192 | 552 | Principal Liz |
 | 193 | 551 | Alma López Morales |
@@ -663,72 +663,72 @@
 | 655 | 175 | Gean DeJesus |
 | 656 | 175 | Ilia Blake |
 | 657 | 175 | Sarah Leake |
-| 658 | 174 | Michelle Michelle |
-| 659 | 174 | Eddie Fuller |
-| 660 | 174 | Mmm |
-| 661 | 174 | Clever Fallzone |
-| 662 | 174 | Lana Tran |
-| 663 | 174 | Kat Foreman |
-| 664 | 174 | Reggie Laserna Clement |
-| 665 | 174 | PsyDMom |
+| 658 | 174 | Mmm |
+| 659 | 174 | Clever Fallzone |
+| 660 | 174 | Kat Foreman |
+| 661 | 174 | Eddie Fuller |
+| 662 | 174 | Reggie Laserna Clement |
+| 663 | 174 | Michelle Michelle |
+| 664 | 174 | PsyDMom |
+| 665 | 174 | Lana Tran |
 | 666 | 173 | Tarsha Thomas-Martinez |
 | 667 | 173 | Justin Ballard |
-| 668 | 172 | Heather Garrity |
-| 669 | 172 | KingCas |
+| 668 | 172 | KingCas |
+| 669 | 172 | Heather Garrity |
 | 670 | 172 | Poptart |
 | 671 | 171 | Memphiago Tenninois |
 | 672 | 171 | Katy |
 | 673 | 171 | Stotty |
 | 674 | 171 | my my |
-| 675 | 170 | Breezy Brickline |
-| 676 | 170 | Natalie Dillard |
-| 677 | 170 | Clever Brickzone |
+| 675 | 170 | Robert Crow |
+| 676 | 170 | Clever Brickzone |
+| 677 | 170 | Natalie Dillard |
 | 678 | 170 | Lovetetris |
-| 679 | 170 | Robert Crow |
+| 679 | 170 | Breezy Brickline |
 | 680 | 170 | Ricky Colvin |
 | 681 | 169 | Mc3003 |
 | 682 | 169 | Josh Keith Travierso |
-| 683 | 169 | Spicy Peach |
-| 684 | 169 | Taisha Beasley |
-| 685 | 169 | Cat |
-| 686 | 168 | Caiti O'Keefe |
-| 687 | 168 | Mighty1 |
+| 683 | 169 | Taisha Beasley |
+| 684 | 169 | Cat |
+| 685 | 169 | Spicy Peach |
+| 686 | 168 | Mighty1 |
+| 687 | 168 | Caiti O'Keefe |
 | 688 | 168 | Nessa Smith |
-| 689 | 167 | Khiem Hernandez |
-| 690 | 167 | Tana-Marie Lynn McCarty-Rolf |
+| 689 | 167 | Tana-Marie Lynn McCarty-Rolf |
+| 690 | 167 | Frilly Zoney |
 | 691 | 167 | Haylee Talkington |
-| 692 | 167 | Kuar T Ejen |
-| 693 | 166 | Playful Raccoon |
-| 694 | 166 | Snappy Stack |
-| 695 | 166 | LaRue Tee |
-| 696 | 165 | Corey Jackson |
-| 697 | 165 | Capt'n Crunch |
-| 698 | 165 | 1694AF |
-| 699 | 165 | Gma420 |
-| 700 | 164 | Frilly Zoney |
-| 701 | 164 | Sharon Tyler |
-| 702 | 164 | yourmomz |
-| 703 | 164 | Jillian Marie |
+| 692 | 167 | Khiem Hernandez |
+| 693 | 167 | Kuar T Ejen |
+| 694 | 166 | Playful Raccoon |
+| 695 | 166 | Snappy Stack |
+| 696 | 166 | LaRue Tee |
+| 697 | 165 | Gma420 |
+| 698 | 165 | Capt'n Crunch |
+| 699 | 165 | Corey Jackson |
+| 700 | 165 | 1694AF |
+| 701 | 164 | Dennis Montoya |
+| 702 | 164 | Jillian Marie |
+| 703 | 164 | Sharon Tyler |
 | 704 | 164 | Leasa Marie |
-| 705 | 164 | Dennis Montoya |
+| 705 | 164 | yourmomz |
 | 706 | 163 | Sweetfire |
 | 707 | 163 | Breezy Wife |
 | 708 | 162 | Fancy Riser |
 | 709 | 161 | JustLessie |
 | 710 | 161 | Lorrie Ann Burchett |
-| 711 | 160 | Michelle Sager |
+| 711 | 160 | Billy Baker |
 | 712 | 160 | Ian T Parker |
-| 713 | 160 | Jerett Coplin |
-| 714 | 160 | Glamorous Gracey |
-| 715 | 160 | Tesa Mike Jenkins |
-| 716 | 160 | George Marshburn |
-| 717 | 160 | Billy Baker |
+| 713 | 160 | George Marshburn |
+| 714 | 160 | Tesa Mike Jenkins |
+| 715 | 160 | Glamorous Gracey |
+| 716 | 160 | Jerett Coplin |
+| 717 | 160 | Michelle Sager |
 | 718 | 159 | Kristan Hoffman |
 | 719 | 159 | Tracy Marino |
-| 720 | 158 | Raising Stars |
-| 721 | 158 | Cozy Towerpiece |
-| 722 | 158 | Melissa Quinn |
-| 723 | 158 | Fancy Rollfit |
+| 720 | 158 | Cozy Towerpiece |
+| 721 | 158 | Raising Stars |
+| 722 | 158 | Fancy Rollfit |
+| 723 | 158 | Melissa Quinn |
 | 724 | 157 | Tanya AfricanQueen Savage |
 | 725 | 157 | Brandi Gray |
 | 726 | 157 | Lush Twisterfit |
@@ -786,11 +786,11 @@
 | 778 | 145 | Jazzy Rollout |
 | 779 | 144 | Neeta Kapadia |
 | 780 | 144 | Dizzy |
-| 781 | 144 | GingaNinja |
-| 782 | 144 | Kayla Haddenham |
-| 783 | 144 | Cozy Patternline |
-| 784 | 143 | Erika Rubio |
-| 785 | 143 | Daring Patternblock |
+| 781 | 144 | Daring Patternblock |
+| 782 | 144 | GingaNinja |
+| 783 | 144 | Kayla Haddenham |
+| 784 | 144 | Cozy Patternline |
+| 785 | 143 | Erika Rubio |
 | 786 | 143 | Lizzzzzz |
 | 787 | 142 | Melissa Schwager |
 | 788 | 141 | Laryssia Taylor |
