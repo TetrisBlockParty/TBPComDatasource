@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 18:46:22 UTC
+# Standings for team1 as of 2026-06-09 18:46:48 UTC
 
 **Total Participants:** 2097
 
@@ -224,8 +224,8 @@
 | 216 | 565 | IThinkNot |
 | 217 | 563 | Wild Out Nai |
 | 218 | 562 | Dee McCool |
-| 219 | 560 | Zippy Lifter |
-| 220 | 557 | Elizabeth Vega Coreano |
+| 219 | 561 | Elizabeth Vega Coreano |
+| 220 | 560 | Zippy Lifter |
 | 221 | 552 | Ty Øtg |
 | 222 | 552 | SPNLover24 |
 | 223 | 549 | Shell Lewis |
@@ -287,8 +287,8 @@
 | 279 | 457 | Saranoh13 |
 | 280 | 455 | Penee Wiggins |
 | 281 | 455 | Tamika Fisher |
-| 282 | 454 | win |
-| 283 | 454 | Steve Reno |
+| 282 | 455 | Steve Reno |
+| 283 | 454 | win |
 | 284 | 452 | Kenny MrOnethousand Peck |
 | 285 | 447 | Zippy Tilefall |
 | 286 | 444 | Kevin M. McGhee Jr |
@@ -407,8 +407,8 @@
 | 399 | 322 | Ryan Runyan |
 | 400 | 320 | Tracey Johnson |
 | 401 | 320 | Shanns |
-| 402 | 318 | Nerdy Snapfall |
-| 403 | 316 | Cheri Robinson |
+| 402 | 319 | Cheri Robinson |
+| 403 | 318 | Nerdy Snapfall |
 | 404 | 315 | Tesiree Cray |
 | 405 | 315 | NewEve |
 | 406 | 314 | Tonya McElroy |
@@ -734,32 +734,32 @@
 | 726 | 176 | LaSharmeika Fancher |
 | 727 | 175 | Onovella Titsworth |
 | 728 | 175 | Xana Zania Bopp |
-| 729 | 175 | Angie Smith |
+| 729 | 175 | DaemahnFriday |
 | 730 | 175 | Christina Singleton |
-| 731 | 175 | DaemahnFriday |
-| 732 | 174 | Angela Kitchens |
-| 733 | 174 | Dirty Deeds |
-| 734 | 174 | Nerdy Wipefit |
-| 735 | 173 | Mathew Trudell |
-| 736 | 173 | Claudia Price |
-| 737 | 173 | Kim Holzmiller |
-| 738 | 172 | Ozell Jones Jr. |
+| 731 | 175 | Angie Smith |
+| 732 | 175 | Vontesha Kidd |
+| 733 | 174 | Nerdy Wipefit |
+| 734 | 174 | Angela Kitchens |
+| 735 | 174 | Dirty Deeds |
+| 736 | 173 | Mathew Trudell |
+| 737 | 173 | Claudia Price |
+| 738 | 173 | Kim Holzmiller |
 | 739 | 172 | Li-Li Ratliff |
 | 740 | 172 | MrsDontPlay |
-| 741 | 171 | Ta'Kaiyah M. Spann |
-| 742 | 171 | Locke Mahal LD |
-| 743 | 171 | Duncan Timothy |
-| 744 | 171 | Laysa Nunez |
-| 745 | 171 | Jason Saputo |
-| 746 | 171 | Christy Quick |
-| 747 | 170 | Marissa Sweet |
-| 748 | 170 | Devron Reedy |
-| 749 | 169 | Vontesha Kidd |
+| 741 | 172 | Ozell Jones Jr. |
+| 742 | 171 | Ta'Kaiyah M. Spann |
+| 743 | 171 | Locke Mahal LD |
+| 744 | 171 | Duncan Timothy |
+| 745 | 171 | Laysa Nunez |
+| 746 | 171 | Jason Saputo |
+| 747 | 171 | Christy Quick |
+| 748 | 170 | Marissa Sweet |
+| 749 | 170 | Devron Reedy |
 | 750 | 169 | Sunny Clicky |
 | 751 | 169 | rb |
 | 752 | 168 | brite |
-| 753 | 168 | Pinky Pink |
-| 754 | 168 | Meeee |
+| 753 | 168 | Meeee |
+| 754 | 168 | Pinky Pink |
 | 755 | 168 | Lounique |
 | 756 | 167 | Montego Allen |
 | 757 | 167 | Joka NoTime ForHataz |
@@ -905,43 +905,43 @@
 | 897 | 129 | Chino Baby |
 | 898 | 129 | Ernie Waters |
 | 899 | 129 | Mumitt |
-| 900 | 129 | Desiree Ryder |
-| 901 | 128 | Stef Hu |
+| 900 | 129 | Analesia Taylor |
+| 901 | 129 | Desiree Ryder |
 | 902 | 128 | Brittany Britkany Marsden-Garrison |
-| 903 | 128 | Katness |
-| 904 | 127 | Jumpy Gridlock |
-| 905 | 127 | Esha I'msoproudofmyself Davis |
-| 906 | 127 | Witty Clear |
-| 907 | 127 | Barbramerri Tarboro |
-| 908 | 127 | Pretty Yella |
-| 909 | 126 | Benjamin Livingston |
-| 910 | 126 | Kahh |
-| 911 | 126 | Elaine Pauley |
-| 912 | 126 | Marc Papa |
-| 913 | 126 | Mom3granny2 |
-| 914 | 126 | Latoya Carson |
-| 915 | 126 | Sally Elizabeth Hopson |
-| 916 | 125 | Oaklonboy mike |
-| 917 | 125 | Cheery Strikerbuilder |
-| 918 | 125 | Silly Edgepiece |
-| 919 | 124 | Kathleen Boyles |
-| 920 | 124 | Franklin Sotelo |
-| 921 | 124 | Willson06 |
+| 903 | 128 | Stef Hu |
+| 904 | 128 | Katness |
+| 905 | 127 | Jumpy Gridlock |
+| 906 | 127 | Esha I'msoproudofmyself Davis |
+| 907 | 127 | Witty Clear |
+| 908 | 127 | Barbramerri Tarboro |
+| 909 | 127 | Pretty Yella |
+| 910 | 126 | Benjamin Livingston |
+| 911 | 126 | Kahh |
+| 912 | 126 | Elaine Pauley |
+| 913 | 126 | Marc Papa |
+| 914 | 126 | Mom3granny2 |
+| 915 | 126 | Latoya Carson |
+| 916 | 126 | Sally Elizabeth Hopson |
+| 917 | 125 | Silly Edgepiece |
+| 918 | 125 | Cheery Strikerbuilder |
+| 919 | 125 | Oaklonboy mike |
+| 920 | 124 | Willson06 |
+| 921 | 124 | Kathleen Boyles |
 | 922 | 124 | Sheesh |
-| 923 | 123 | Tia Hazelton |
-| 924 | 123 | LiyaSkye |
-| 925 | 123 | Dannie |
-| 926 | 123 | April Lane |
-| 927 | 123 | Jackytrain52 |
-| 928 | 123 | Analesia Taylor |
-| 929 | 123 | Tanesha Ga'sFinest Corbett |
+| 923 | 124 | Franklin Sotelo |
+| 924 | 123 | Tanesha Ga'sFinest Corbett |
+| 925 | 123 | Tia Hazelton |
+| 926 | 123 | LiyaSkye |
+| 927 | 123 | Dannie |
+| 928 | 123 | April Lane |
+| 929 | 123 | Jackytrain52 |
 | 930 | 122 | CauliMac |
 | 931 | 122 | Nick Stowers |
 | 932 | 122 | Motown Chuck |
 | 933 | 121 | Hasty Pivoty |
 | 934 | 121 | Tiana Monique |
-| 935 | 120 | Ebie |
-| 936 | 120 | Dianne Clagon |
+| 935 | 120 | Dianne Clagon |
+| 936 | 120 | Ebie |
 | 937 | 120 | Crystal Garay |
 | 938 | 120 | Latanya Gayle |
 | 939 | 120 | Chill Curvebuilder |
