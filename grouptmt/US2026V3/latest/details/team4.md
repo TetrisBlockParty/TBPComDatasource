@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 17:08:45 UTC
+# Standings for team4 as of 2026-06-09 17:09:22 UTC
 
 **Total Participants:** 2143
 
@@ -126,8 +126,8 @@
 | 118 | 980 | Futrell Brent |
 | 119 | 979 | Heather Preston |
 | 120 | 977 | Loony Glidepiece |
-| 121 | 965 | Kristen Wallace |
-| 122 | 965 | CJ |
+| 121 | 965 | CJ |
+| 122 | 965 | Kristen Wallace |
 | 123 | 952 | Alala.Cersei |
 | 124 | 946 | Sharidan Klinginsmith |
 | 125 | 940 | Melissa WC |
@@ -172,8 +172,8 @@
 | 164 | 697 | Linda Miltenburg |
 | 165 | 692 | Jeremy Lopez |
 | 166 | 691 | Nikki Fuller Johnson |
-| 167 | 690 | Izz |
-| 168 | 690 | LastBoi |
+| 167 | 690 | LastBoi |
+| 168 | 690 | Izz |
 | 169 | 685 | Katie Martin |
 | 170 | 684 | Caitlyn Wang |
 | 171 | 683 | zoes |
@@ -184,8 +184,8 @@
 | 176 | 659 | Devinlee Brown |
 | 177 | 656 | Kimberly Civinski |
 | 178 | 651 | Dayna Arthurs |
-| 179 | 648 | Jewelz |
-| 180 | 648 | Bonnie Powell |
+| 179 | 648 | Bonnie Powell |
+| 180 | 648 | Jewelz |
 | 181 | 640 | CIRAZYPNOY |
 | 182 | 631 | Megan Vick |
 | 183 | 615 | Leslie Ann Carter |
@@ -193,10 +193,10 @@
 | 185 | 613 | Anthony Lewis |
 | 186 | 610 | Lush Fitblock |
 | 187 | 609 | Scamp Jones |
-| 188 | 600 | Suzanne Carter |
-| 189 | 600 | Addi JayKay |
-| 190 | 600 | Magz |
-| 191 | 600 | Shocinda Sherwood |
+| 188 | 600 | Magz |
+| 189 | 600 | Shocinda Sherwood |
+| 190 | 600 | Addi JayKay |
+| 191 | 600 | Suzanne Carter |
 | 192 | 599 | Krysten Danielle Richard |
 | 193 | 598 | Katie Lynn Petit |
 | 194 | 595 | Danielle Mitchell |
@@ -207,18 +207,18 @@
 | 199 | 583 | Jackie Miller |
 | 200 | 576 | Alex Armour |
 | 201 | 575 | Beth Belanger |
-| 202 | 573 | Sisi RedVelvet Reneè |
-| 203 | 572 | Bean |
-| 204 | 567 | Bri Martin |
-| 205 | 566 | Samantha Worley |
-| 206 | 564 | Boldy Rumbler |
-| 207 | 563 | QueenLi86 |
-| 208 | 563 | Jacqueline Jackii Ramos |
-| 209 | 560 | Saucy Wipepiece |
-| 210 | 555 | Thomasena Eady Reid |
-| 211 | 555 | Janet Sanfilippo Sullivan |
-| 212 | 555 | Julian Gasque |
-| 213 | 555 | Tina Thomas |
+| 202 | 575 | Julian Gasque |
+| 203 | 573 | Sisi RedVelvet Reneè |
+| 204 | 572 | Bean |
+| 205 | 567 | Bri Martin |
+| 206 | 566 | Samantha Worley |
+| 207 | 564 | Boldy Rumbler |
+| 208 | 563 | QueenLi86 |
+| 209 | 563 | Jacqueline Jackii Ramos |
+| 210 | 560 | Saucy Wipepiece |
+| 211 | 555 | Tina Thomas |
+| 212 | 555 | Thomasena Eady Reid |
+| 213 | 555 | Janet Sanfilippo Sullivan |
 | 214 | 554 | Jennifer Ellyn Sheets |
 | 215 | 553 | Dae Von |
 | 216 | 552 | Principal Liz |
@@ -226,8 +226,8 @@
 | 218 | 549 | Real Talk Vibes |
 | 219 | 543 | George Palacios |
 | 220 | 543 | Kelly Howland |
-| 221 | 540 | Wanda Simmons |
-| 222 | 540 | Anthony Magaraci |
+| 221 | 540 | Anthony Magaraci |
+| 222 | 540 | Wanda Simmons |
 | 223 | 538 | Nicole |
 | 224 | 537 | Spicy Chicken |
 | 225 | 536 | Jeremy |
@@ -1131,12 +1131,12 @@
 | 1123 | 95 | Frisky Pusher |
 | 1124 | 95 | Jasmine Griffin |
 | 1125 | 95 | Hyper Balancepiece |
-| 1126 | 95 | Hotstuff |
-| 1127 | 95 | Cheeky Dashy |
-| 1128 | 94 | Mrs.J2013 |
-| 1129 | 94 | Cranky Twistpiece |
-| 1130 | 94 | Theo Stamps |
-| 1131 | 94 | Sunny Tiltbuilder |
+| 1126 | 95 | Sunny Tiltbuilder |
+| 1127 | 95 | Hotstuff |
+| 1128 | 95 | Cheeky Dashy |
+| 1129 | 94 | Mrs.J2013 |
+| 1130 | 94 | Cranky Twistpiece |
+| 1131 | 94 | Theo Stamps |
 | 1132 | 94 | Dandy Balancer |
 | 1133 | 94 | Ronald Kent Hall |
 | 1134 | 94 | Elizabeth Ann Caro |
