@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 11:00:43 UTC
+# Standings for team4 as of 2026-06-09 11:01:22 UTC
 
 **Total Participants:** 2092
 
@@ -50,8 +50,8 @@
 | 42 | 3216 | Jeanette Hailey |
 | 43 | 3200 | Leah Gorsuch |
 | 44 | 3150 | Destiny Dyer |
-| 45 | 2800 | Annastaissia Todd |
-| 46 | 2800 | Caitlin Johnson |
+| 45 | 2800 | Caitlin Johnson |
+| 46 | 2800 | Annastaissia Todd |
 | 47 | 2769 | Blind Bette |
 | 48 | 2753 | Leah Barnett |
 | 49 | 2547 | 626 |
@@ -76,9 +76,9 @@
 | 68 | 1697 | JayJay Smith |
 | 69 | 1638 | Joseph Anthony Watkins |
 | 70 | 1612 | Alicia Cook |
-| 71 | 1600 | Posey Smith |
-| 72 | 1600 | Alyssa Oth |
-| 73 | 1600 | Melissa Brown |
+| 71 | 1600 | Melissa Brown |
+| 72 | 1600 | Posey Smith |
+| 73 | 1600 | Alyssa Oth |
 | 74 | 1506 | Chris Covington |
 | 75 | 1462 | Charlie Lewis |
 | 76 | 1450 | 2 kool |
@@ -98,10 +98,10 @@
 | 90 | 1158 | Shelby |
 | 91 | 1145 | Cherry |
 | 92 | 1128 | J |
-| 93 | 1106 | shawna |
-| 94 | 1104 | Chaz Duncan |
-| 95 | 1102 | Jonathan Hewitt |
-| 96 | 1090 | Tina Shalay Hayes |
+| 93 | 1111 | Tina Shalay Hayes |
+| 94 | 1106 | shawna |
+| 95 | 1104 | Chaz Duncan |
+| 96 | 1102 | Jonathan Hewitt |
 | 97 | 1085 | Hardy Fuller |
 | 98 | 1083 | Tiffany Loree Tiffany Oneill |
 | 99 | 1082 | Hannah Pazar |
@@ -109,8 +109,8 @@
 | 101 | 1052 | Dana Fontanez |
 | 102 | 1049 | Snippy Grid |
 | 103 | 1042 | Chuck Gannon |
-| 104 | 1032 | Esther Hadassah |
-| 105 | 1032 | Kelly Bernard |
+| 104 | 1032 | Kelly Bernard |
+| 105 | 1032 | Esther Hadassah |
 | 106 | 1021 | Trice Stevenson |
 | 107 | 1019 | Dandy Puzzler |
 | 108 | 1008 | Beee |
@@ -120,8 +120,8 @@
 | 112 | 979 | Heather Preston |
 | 113 | 971 | Loony Towerer |
 | 114 | 970 | Jesse Olive |
-| 115 | 965 | Kristen Wallace |
-| 116 | 965 | CJ |
+| 115 | 965 | CJ |
+| 116 | 965 | Kristen Wallace |
 | 117 | 957 | Blayne Kole |
 | 118 | 952 | Alala.Cersei |
 | 119 | 952 | Futrell Brent |
@@ -129,7 +129,7 @@
 | 121 | 946 | Sharidan Klinginsmith |
 | 122 | 940 | Melissa WC |
 | 123 | 932 | Irma |
-| 124 | 895 | GeorgeButts |
+| 124 | 904 | GeorgeButts |
 | 125 | 890 | Ermadette |
 | 126 | 883 | Tamara Triplet |
 | 127 | 871 | Becky Doll-Hall |
@@ -287,13 +287,13 @@
 | 279 | 409 | Mark Fitch Jr. |
 | 280 | 408 | Danny Keich III |
 | 281 | 408 | Aramat |
-| 282 | 400 | Amber Doyle |
-| 283 | 400 | Holly Wessel |
+| 282 | 400 | Holly Wessel |
+| 283 | 400 | Amber Doyle |
 | 284 | 399 | Ashley Jenkins |
-| 285 | 398 | Juvon SupaShawdii Brooks |
-| 286 | 398 | Slinky Stackzone |
-| 287 | 398 | Becky McCool |
-| 288 | 398 | EL Booger |
+| 285 | 398 | Becky McCool |
+| 286 | 398 | Juvon SupaShawdii Brooks |
+| 287 | 398 | EL Booger |
+| 288 | 398 | Slinky Stackzone |
 | 289 | 395 | Bobbie Harrell |
 | 290 | 395 | Thomasena Eady Reid |
 | 291 | 394 | Glitzy Patternbuilder |
@@ -303,36 +303,36 @@
 | 295 | 383 | Gary Smallwood |
 | 296 | 381 | Jackie Polanco |
 | 297 | 380 | Knijur Callins |
-| 298 | 378 | Hwanger Land |
-| 299 | 377 | Amandacolle |
-| 300 | 374 | Anthony Lewis |
-| 301 | 372 | Colin |
-| 302 | 371 | Anna Gribble |
-| 303 | 366 | Alexis Cor |
-| 304 | 363 | Flashy Shatterer |
-| 305 | 362 | Dazzle Dragon |
-| 306 | 361 | Speedy Twistslam |
-| 307 | 360 | beTrue76 |
-| 308 | 359 | BCO22 |
-| 309 | 359 | Slinky Column |
-| 310 | 359 | tigerlilly |
-| 311 | 358 | Goofy Fall |
-| 312 | 357 | Poppy |
-| 313 | 357 | MomyLiz |
-| 314 | 356 | jaz |
-| 315 | 356 | WeeWooWee |
-| 316 | 355 | RotatedWrongAgain |
-| 317 | 353 | Crystal Hammonds |
-| 318 | 351 | Lucy Honer |
-| 319 | 351 | Matthew Hudson |
-| 320 | 351 | PerfectPieces |
-| 321 | 350 | No Time |
-| 322 | 349 | EvoKitty |
-| 323 | 348 | Bri Martin |
-| 324 | 348 | Bridget Stevens |
-| 325 | 348 | Slimm |
-| 326 | 347 | Queen B |
-| 327 | 346 | Tawna Curry |
+| 298 | 380 | Tawna Curry |
+| 299 | 378 | Hwanger Land |
+| 300 | 377 | Amandacolle |
+| 301 | 374 | Anthony Lewis |
+| 302 | 372 | Colin |
+| 303 | 371 | Anna Gribble |
+| 304 | 366 | Alexis Cor |
+| 305 | 363 | Flashy Shatterer |
+| 306 | 362 | Dazzle Dragon |
+| 307 | 361 | Speedy Twistslam |
+| 308 | 360 | beTrue76 |
+| 309 | 359 | BCO22 |
+| 310 | 359 | Slinky Column |
+| 311 | 359 | tigerlilly |
+| 312 | 358 | Goofy Fall |
+| 313 | 357 | Poppy |
+| 314 | 357 | MomyLiz |
+| 315 | 356 | jaz |
+| 316 | 356 | WeeWooWee |
+| 317 | 355 | RotatedWrongAgain |
+| 318 | 353 | Crystal Hammonds |
+| 319 | 351 | Lucy Honer |
+| 320 | 351 | Matthew Hudson |
+| 321 | 351 | PerfectPieces |
+| 322 | 350 | No Time |
+| 323 | 349 | EvoKitty |
+| 324 | 348 | Bri Martin |
+| 325 | 348 | Bridget Stevens |
+| 326 | 348 | Slimm |
+| 327 | 347 | Queen B |
 | 328 | 346 | Tipsy Piecebuilder |
 | 329 | 344 | Roxana Romero |
 | 330 | 343 | Chummy Jumper |
