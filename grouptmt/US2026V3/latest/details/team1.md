@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:04:44 UTC
+# Standings for team1 as of 2026-06-09 14:05:23 UTC
 
 **Total Participants:** 2057
 
@@ -67,7 +67,7 @@
 | 59 | 1779 | Corey Cawthon |
 | 60 | 1700 | Rosey |
 | 61 | 1683 | Jacoby E Fleming |
-| 62 | 1645 | Moomoo |
+| 62 | 1653 | Moomoo |
 | 63 | 1642 | TAZ-MF-NIZIL |
 | 64 | 1568 | Helen Smith |
 | 65 | 1507 | Eric Mcgaughy |
@@ -433,10 +433,10 @@
 | 425 | 284 | Faith Armone |
 | 426 | 283 | CJ Robinson |
 | 427 | 283 | Tosha Michelle |
-| 428 | 283 | Rachael R Gull |
-| 429 | 282 | Eric Spencer Whitaker |
-| 430 | 280 | Teri Marie Clayton |
-| 431 | 280 | Earl Williams |
+| 428 | 283 | Earl Williams |
+| 429 | 283 | Rachael R Gull |
+| 430 | 282 | Eric Spencer Whitaker |
+| 431 | 280 | Teri Marie Clayton |
 | 432 | 280 | Boldy Liner |
 | 433 | 279 | Chandler Magee |
 | 434 | 279 | MACHETEEDDIE513 |
