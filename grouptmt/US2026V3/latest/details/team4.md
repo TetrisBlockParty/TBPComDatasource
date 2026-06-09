@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 13:10:45 UTC
+# Standings for team4 as of 2026-06-09 13:11:20 UTC
 
 **Total Participants:** 2106
 
@@ -110,8 +110,8 @@
 | 102 | 1055 | HurkleDurkle88 |
 | 103 | 1052 | Dana Fontanez |
 | 104 | 1042 | Chuck Gannon |
-| 105 | 1032 | Kelly Bernard |
-| 106 | 1032 | Esther Hadassah |
+| 105 | 1032 | Esther Hadassah |
+| 106 | 1032 | Kelly Bernard |
 | 107 | 1023 | Loony Towerer |
 | 108 | 1021 | Trice Stevenson |
 | 109 | 1019 | Dandy Puzzler |
@@ -119,14 +119,14 @@
 | 111 | 1008 | Beee |
 | 112 | 997 | Snappy Fitzone |
 | 113 | 986 | Kim |
-| 114 | 979 | Heather Preston |
-| 115 | 970 | Jesse Olive |
-| 116 | 965 | Kristen Wallace |
-| 117 | 965 | CJ |
-| 118 | 965 | Keesha Muro |
+| 114 | 982 | Keesha Muro |
+| 115 | 979 | Heather Preston |
+| 116 | 970 | Jesse Olive |
+| 117 | 965 | Kristen Wallace |
+| 118 | 965 | CJ |
 | 119 | 957 | Blayne Kole |
-| 120 | 952 | Futrell Brent |
-| 121 | 952 | Loony Glidepiece |
+| 120 | 952 | Loony Glidepiece |
+| 121 | 952 | Futrell Brent |
 | 122 | 952 | Alala.Cersei |
 | 123 | 946 | Sharidan Klinginsmith |
 | 124 | 940 | Melissa WC |
@@ -138,8 +138,8 @@
 | 130 | 871 | Becky Doll-Hall |
 | 131 | 863 | Gorica Prusina |
 | 132 | 844 | Kay |
-| 133 | 841 | Pepone Pepe |
-| 134 | 841 | Shiny Dashy |
+| 133 | 841 | Shiny Dashy |
+| 134 | 841 | Pepone Pepe |
 | 135 | 837 | Phil Peterson |
 | 136 | 830 | Kitsune Bi |
 | 137 | 820 | Jenn Fitzgerald |
@@ -162,8 +162,8 @@
 | 154 | 732 | Gracie Ornelas |
 | 155 | 710 | Cranky Buildout |
 | 156 | 709 | Lisa Garcia |
-| 157 | 700 | DexterDobbins |
-| 158 | 700 | Boldy Striker |
+| 157 | 700 | Boldy Striker |
+| 158 | 700 | DexterDobbins |
 | 159 | 697 | Lynn Grimes |
 | 160 | 692 | Jeremy Lopez |
 | 161 | 691 | Nikki Fuller Johnson |
@@ -172,14 +172,14 @@
 | 164 | 684 | Caitlyn Wang |
 | 165 | 682 | LastBoi |
 | 166 | 678 | Andrew Dang |
-| 167 | 668 | Shannon Rivera |
-| 168 | 665 | iiPurgeV2 |
-| 169 | 664 | Daryn Elliott |
-| 170 | 659 | Devinlee Brown |
-| 171 | 656 | Kimberly Civinski |
-| 172 | 651 | Dayna Arthurs |
-| 173 | 648 | Jewelz |
-| 174 | 646 | Christy Beezley-Forbush |
+| 167 | 676 | Christy Beezley-Forbush |
+| 168 | 668 | Shannon Rivera |
+| 169 | 665 | iiPurgeV2 |
+| 170 | 664 | Daryn Elliott |
+| 171 | 659 | Devinlee Brown |
+| 172 | 656 | Kimberly Civinski |
+| 173 | 651 | Dayna Arthurs |
+| 174 | 648 | Jewelz |
 | 175 | 615 | Leslie Ann Carter |
 | 176 | 615 | Cinta Marie |
 | 177 | 605 | Scamp Jones |
@@ -189,20 +189,20 @@
 | 181 | 599 | Krysten Danielle Richard |
 | 182 | 598 | Katie Lynn Petit |
 | 183 | 595 | Danielle Mitchell |
-| 184 | 593 | Malik Thompson |
-| 185 | 593 | Anthony Lewis |
+| 184 | 593 | Anthony Lewis |
+| 185 | 593 | Malik Thompson |
 | 186 | 592 | Sarah Berry Stevens |
 | 187 | 588 | Bonnie Powell |
 | 188 | 587 | Megan Vick |
 | 189 | 583 | Jackie Miller |
-| 190 | 580 | Magz |
-| 191 | 580 | CIRAZYPNOY |
+| 190 | 580 | CIRAZYPNOY |
+| 191 | 580 | Magz |
 | 192 | 575 | Beth Belanger |
 | 193 | 572 | Addi JayKay |
 | 194 | 570 | Alex Armour |
 | 195 | 566 | Samantha Worley |
-| 196 | 563 | Jacqueline Jackii Ramos |
-| 197 | 563 | QueenLi86 |
+| 196 | 563 | QueenLi86 |
+| 197 | 563 | Jacqueline Jackii Ramos |
 | 198 | 555 | Julian Gasque |
 | 199 | 555 | Janet Sanfilippo Sullivan |
 | 200 | 554 | Jennifer Ellyn Sheets |
@@ -211,11 +211,11 @@
 | 203 | 549 | Real Talk Vibes |
 | 204 | 544 | Boldy Rumbler |
 | 205 | 543 | Kelly Howland |
-| 206 | 540 | Sisi RedVelvet Reneè |
-| 207 | 540 | Anthony Magaraci |
+| 206 | 540 | Anthony Magaraci |
+| 207 | 540 | Sisi RedVelvet Reneè |
 | 208 | 538 | Nicole |
-| 209 | 534 | Logan Two-dubs Baker |
-| 210 | 534 | Iforget |
+| 209 | 534 | Iforget |
+| 210 | 534 | Logan Two-dubs Baker |
 | 211 | 531 | Taz |
 | 212 | 527 | Monica Emel |
 | 213 | 525 | Dana Abegil Lawas |
@@ -228,10 +228,10 @@
 | 220 | 510 | Fran Aaron-Ring |
 | 221 | 508 | Goofy Riser |
 | 222 | 506 | Tina Thomas |
-| 223 | 501 | Linda Miltenburg |
-| 224 | 501 | Smiley Gridzone |
-| 225 | 500 | Saucy Wipepiece |
-| 226 | 500 | Genag |
+| 223 | 501 | Smiley Gridzone |
+| 224 | 501 | Linda Miltenburg |
+| 225 | 500 | Genag |
+| 226 | 500 | Saucy Wipepiece |
 | 227 | 499 | Snippy Splitter |
 | 228 | 496 | Jackie Jackson |
 | 229 | 495 | Baysoph |
@@ -540,27 +540,27 @@
 | 532 | 224 | Big Dooka |
 | 533 | 224 | Loopy Clusterline |
 | 534 | 224 | KrisTina2007 |
-| 535 | 222 | Maria Munoz |
-| 536 | 222 | Casey Thomas |
+| 535 | 222 | Casey Thomas |
+| 536 | 222 | Maria Munoz |
 | 537 | 222 | Jennifer Evans Elliott |
 | 538 | 221 | Saucy Brickmatch |
 | 539 | 221 | Butterfly |
-| 540 | 220 | Mc3003 |
-| 541 | 220 | Tesa Mike Jenkins |
-| 542 | 220 | Mrs |
-| 543 | 220 | Jimmy Clark |
-| 544 | 220 | Goofy Linkmatch |
+| 540 | 220 | Goofy Linkmatch |
+| 541 | 220 | Mc3003 |
+| 542 | 220 | Tesa Mike Jenkins |
+| 543 | 220 | Mrs |
+| 544 | 220 | Jimmy Clark |
 | 545 | 219 | Miss Beast |
 | 546 | 219 | Dena Lynn Rogers |
 | 547 | 219 | Chuck Burns |
 | 548 | 218 | Lani |
-| 549 | 216 | Travis McKinnon |
-| 550 | 216 | chefjaydawg |
-| 551 | 215 | Christina Barry |
-| 552 | 215 | Lovetetris |
-| 553 | 215 | Kimberly Ann |
-| 554 | 215 | ShaniP |
-| 555 | 214 | Rosy Perez |
+| 549 | 217 | Rosy Perez |
+| 550 | 216 | Travis McKinnon |
+| 551 | 216 | chefjaydawg |
+| 552 | 215 | Christina Barry |
+| 553 | 215 | Lovetetris |
+| 554 | 215 | Kimberly Ann |
+| 555 | 215 | ShaniP |
 | 556 | 214 | Sally Hiraldo |
 | 557 | 214 | crobb77 |
 | 558 | 214 | yourmomz |
