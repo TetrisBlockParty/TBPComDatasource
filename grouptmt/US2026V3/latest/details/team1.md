@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:34:46 UTC
+# Standings for team1 as of 2026-06-09 20:35:22 UTC
 
 **Total Participants:** 2110
 
@@ -206,9 +206,9 @@
 | 198 | 619 | Tammye Turner |
 | 199 | 617 | Jamal Itzjusmall Chambers |
 | 200 | 611 | Giggy Clusterer |
-| 201 | 603 | LaToya Chambers |
-| 202 | 600 | Spicy Risepiece |
-| 203 | 600 | Nina Davis |
+| 201 | 604 | Nina Davis |
+| 202 | 603 | LaToya Chambers |
+| 203 | 600 | Spicy Risepiece |
 | 204 | 594 | Novaa |
 | 205 | 592 | Randizzle |
 | 206 | 590 | xXEKUNXx |
@@ -266,46 +266,46 @@
 | 258 | 491 | Mic Balew |
 | 259 | 490 | Slinky Brickmatch |
 | 260 | 489 | Kate Hancock Malicek |
-| 261 | 488 | Clever Fitblock |
-| 262 | 487 | Tamara Johnson-Carter |
-| 263 | 486 | Michael Bethezar |
-| 264 | 485 | Qwlonda Shirrell |
-| 265 | 483 | Bre Poston |
-| 266 | 481 | Jenna Renee |
+| 261 | 489 | Hailey Hil |
+| 262 | 488 | Clever Fitblock |
+| 263 | 487 | Tamara Johnson-Carter |
+| 264 | 486 | Michael Bethezar |
+| 265 | 485 | Qwlonda Shirrell |
+| 266 | 483 | Bre Poston |
 | 267 | 481 | boogeywoogey |
-| 268 | 479 | Leebo Slice |
-| 269 | 476 | Cachet A Ward |
-| 270 | 476 | Choc |
-| 271 | 474 | rls |
-| 272 | 473 | Anthony |
-| 273 | 473 | Nicole Watson-Dixon |
-| 274 | 472 | Frisky Fall |
-| 275 | 469 | Hailey Hil |
+| 268 | 481 | Jenna Renee |
+| 269 | 479 | Leebo Slice |
+| 270 | 476 | Cachet A Ward |
+| 271 | 476 | Choc |
+| 272 | 474 | rls |
+| 273 | 473 | Anthony |
+| 274 | 473 | Nicole Watson-Dixon |
+| 275 | 472 | Frisky Fall |
 | 276 | 468 | Sheila Burnham |
 | 277 | 466 | JaClanDiah |
 | 278 | 465 | Natasha Rucker |
 | 279 | 465 | Victor |
-| 280 | 462 | Jhonny Maii |
-| 281 | 462 | Jessica Russell |
+| 280 | 462 | Jessica Russell |
+| 281 | 462 | Jhonny Maii |
 | 282 | 461 | Calvin Green |
 | 283 | 460 | Chasem45 |
 | 284 | 460 | Tanya Clayton |
 | 285 | 458 | Steve Reno |
-| 286 | 457 | Desire Rice |
-| 287 | 457 | Saranoh13 |
-| 288 | 455 | Tamika Fisher |
-| 289 | 455 | Penee Wiggins |
+| 286 | 457 | Saranoh13 |
+| 287 | 457 | Desire Rice |
+| 288 | 455 | Penee Wiggins |
+| 289 | 455 | Tamika Fisher |
 | 290 | 454 | win |
 | 291 | 452 | Kenny MrOnethousand Peck |
 | 292 | 448 | Sade Goodwine |
 | 293 | 447 | Zippy Tilefall |
-| 294 | 444 | StingerD |
-| 295 | 444 | Kevin M. McGhee Jr |
+| 294 | 444 | Kevin M. McGhee Jr |
+| 295 | 444 | StingerD |
 | 296 | 441 | Tessa Felice Hill |
 | 297 | 440 | Larina Cherie Johnson |
-| 298 | 439 | Kyra Coleman |
+| 298 | 439 | Block |
 | 299 | 439 | Asani CHumba |
-| 300 | 439 | Block |
+| 300 | 439 | Kyra Coleman |
 | 301 | 438 | Queenie Perry |
 | 302 | 435 | Ashleyy Netchert |
 | 303 | 432 | Nerdy Climber |
@@ -584,16 +584,16 @@
 | 576 | 227 | Katrina Ramey |
 | 577 | 227 | Mommy Frank |
 | 578 | 227 | Chris Holland |
-| 579 | 226 | Kahliah Baker |
-| 580 | 226 | Rufus |
-| 581 | 226 | Peppy Glider |
-| 582 | 226 | Rayshawn Cohen |
+| 579 | 226 | Rayshawn Cohen |
+| 580 | 226 | Peppy Glider |
+| 581 | 226 | Kahliah Baker |
+| 582 | 226 | Rufus |
 | 583 | 225 | Sherri Keys |
-| 584 | 224 | Juan Santiago |
-| 585 | 224 | Shawn Himes |
-| 586 | 224 | MELLZZtick€T |
-| 587 | 223 | Heather Wilson |
-| 588 | 223 | AnnaM |
+| 584 | 224 | AnnaM |
+| 585 | 224 | MELLZZtick€T |
+| 586 | 224 | Juan Santiago |
+| 587 | 224 | Shawn Himes |
+| 588 | 223 | Heather Wilson |
 | 589 | 223 | Semaj Johnson |
 | 590 | 223 | BB |
 | 591 | 223 | Stephen Providenti |
@@ -697,30 +697,30 @@
 | 689 | 189 | Darrel Pemberton |
 | 690 | 189 | Loopy Tiler |
 | 691 | 189 | Sean White |
-| 692 | 189 | Anntionette Sotire |
-| 693 | 189 | TBabii24 |
+| 692 | 189 | TBabii24 |
+| 693 | 189 | Anntionette Sotire |
 | 694 | 189 | The DUBZ |
 | 695 | 188 | Tangy Moore |
-| 696 | 188 | Zappy Snapgrid |
+| 696 | 188 | Loony Clearer |
 | 697 | 188 | Mary Goode |
 | 698 | 188 | Marbama |
-| 699 | 188 | DeAngelo Sorrells |
-| 700 | 188 | Tyiesha Pie Farmer |
-| 701 | 188 | Loony Clearer |
+| 699 | 188 | Zappy Snapgrid |
+| 700 | 188 | DeAngelo Sorrells |
+| 701 | 188 | Tyiesha Pie Farmer |
 | 702 | 188 | Lynn |
 | 703 | 187 | Lively Riserpiece |
 | 704 | 187 | Vontesha Kidd |
 | 705 | 187 | Blocksy |
 | 706 | 186 | Tiffany Conley |
-| 707 | 186 | Vannie G |
-| 708 | 186 | Stephen Garland |
-| 709 | 185 | Jess |
-| 710 | 185 | Eric Machuca |
-| 711 | 185 | Poppy Twister |
-| 712 | 185 | Parris Wright |
-| 713 | 185 | Montego Allen |
-| 714 | 184 | Renee Marshall |
-| 715 | 183 | Dirty Deeds |
+| 707 | 186 | Dirty Deeds |
+| 708 | 186 | Vannie G |
+| 709 | 186 | Stephen Garland |
+| 710 | 185 | Jess |
+| 711 | 185 | Eric Machuca |
+| 712 | 185 | Poppy Twister |
+| 713 | 185 | Parris Wright |
+| 714 | 185 | Montego Allen |
+| 715 | 184 | Renee Marshall |
 | 716 | 183 | Shameka Tiffany |
 | 717 | 183 | Amihan |
 | 718 | 183 | Erika |
