@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:56:45 UTC
+# Standings for team1 as of 2026-06-09 06:57:24 UTC
 
 **Total Participants:** 2008
 
@@ -95,7 +95,7 @@
 | 87 | 1187 | Dynah Gordon |
 | 88 | 1185 | Tiana Moore |
 | 89 | 1184 | Court Court |
-| 90 | 1176 | Moomoo |
+| 90 | 1180 | Moomoo |
 | 91 | 1175 | Ryan Meilleur |
 | 92 | 1170 | Jonathan Vee Jay |
 | 93 | 1169 | Amalie Newvine |
@@ -167,13 +167,13 @@
 | 159 | 649 | sha |
 | 160 | 644 | Dena Marie Lee |
 | 161 | 643 | Ottison Dianna |
-| 162 | 641 | Eugina Slater |
-| 163 | 633 | Rackemwillie34 |
-| 164 | 630 | Bambi Love |
-| 165 | 629 | Charletha Williams |
-| 166 | 623 | Abraham Espaillat |
-| 167 | 617 | Crystal Anderson |
-| 168 | 617 | Snappy Link |
+| 162 | 641 | Snappy Link |
+| 163 | 641 | Eugina Slater |
+| 164 | 633 | Rackemwillie34 |
+| 165 | 630 | Bambi Love |
+| 166 | 629 | Charletha Williams |
+| 167 | 623 | Abraham Espaillat |
+| 168 | 617 | Crystal Anderson |
 | 169 | 616 | Dandy Brickfit |
 | 170 | 611 | SyTheEvilGenius1 |
 | 171 | 610 | Genne Scott |
@@ -183,25 +183,25 @@
 | 175 | 599 | Zappy Riser |
 | 176 | 596 | Cj Gorman |
 | 177 | 584 | Novaa |
-| 178 | 583 | Block King |
-| 179 | 583 | TT |
+| 178 | 583 | TT |
+| 179 | 583 | Block King |
 | 180 | 581 | Michelle Titus |
 | 181 | 577 | Randizzle |
 | 182 | 576 | Jeffrey Barrows |
 | 183 | 574 | DaVonte' Cretter |
 | 184 | 573 | Nobles Brandon |
 | 185 | 570 | Jamal Itzjusmall Chambers |
-| 186 | 569 | Zachary Colegrove |
-| 187 | 569 | Nina Davis |
+| 186 | 569 | Nina Davis |
+| 187 | 569 | Zachary Colegrove |
 | 188 | 565 | LaToya Chambers |
 | 189 | 565 | IThinkNot |
 | 190 | 563 | Wild Out Nai |
 | 191 | 562 | Yasmin Nakea Wright |
-| 192 | 559 | Tobey Marberry |
-| 193 | 559 | Sarah Clark |
+| 192 | 559 | Sarah Clark |
+| 193 | 559 | Tobey Marberry |
 | 194 | 553 | Sharon Cail |
-| 195 | 552 | Katherine Short |
-| 196 | 552 | Ty Øtg |
+| 195 | 552 | Ty Øtg |
+| 196 | 552 | Katherine Short |
 | 197 | 549 | Shell Lewis |
 | 198 | 546 | Po Marley |
 | 199 | 546 | Dee McCool |
@@ -293,8 +293,8 @@
 | 285 | 396 | Joana Thompson |
 | 286 | 396 | Koi |
 | 287 | 394 | Queenie Perry |
-| 288 | 392 | Anthony |
-| 289 | 391 | BlackQueen105 |
+| 288 | 393 | BlackQueen105 |
+| 289 | 392 | Anthony |
 | 290 | 390 | Devin West |
 | 291 | 387 | StingerD |
 | 292 | 386 | Hailey Hil |
