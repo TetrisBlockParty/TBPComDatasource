@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 11:04:46 UTC
+# Standings for team4 as of 2026-06-09 11:05:22 UTC
 
 **Total Participants:** 2092
 
@@ -172,8 +172,8 @@
 | 164 | 677 | Dandy Clearfit |
 | 165 | 665 | iiPurgeV2 |
 | 166 | 664 | Daryn Elliott |
-| 167 | 656 | Kimberly Civinski |
-| 168 | 656 | Shannon Rivera |
+| 167 | 660 | Shannon Rivera |
+| 168 | 656 | Kimberly Civinski |
 | 169 | 652 | LastBoi |
 | 170 | 651 | Dayna Arthurs |
 | 171 | 648 | Jewelz |
@@ -282,15 +282,15 @@
 | 274 | 419 | Pepper |
 | 275 | 418 | Jojo Ann |
 | 276 | 415 | Cheery Risegrid |
-| 277 | 410 | Andrick |
-| 278 | 410 | Tina Thomas |
-| 279 | 409 | Mark Fitch Jr. |
-| 280 | 408 | Aramat |
-| 281 | 408 | Danny Keich III |
-| 282 | 400 | Amber Doyle |
-| 283 | 400 | Holly Wessel |
-| 284 | 399 | Ashley Jenkins |
-| 285 | 398 | Slinky Stackzone |
+| 277 | 414 | Slinky Stackzone |
+| 278 | 410 | Andrick |
+| 279 | 410 | Tina Thomas |
+| 280 | 409 | Mark Fitch Jr. |
+| 281 | 408 | Aramat |
+| 282 | 408 | Danny Keich III |
+| 283 | 400 | Amber Doyle |
+| 284 | 400 | Holly Wessel |
+| 285 | 399 | Ashley Jenkins |
 | 286 | 398 | Becky McCool |
 | 287 | 398 | EL Booger |
 | 288 | 398 | Juvon SupaShawdii Brooks |
