@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:16:46 UTC
+# Standings for team1 as of 2026-06-09 08:17:24 UTC
 
 **Total Participants:** 2018
 
@@ -169,38 +169,38 @@
 | 161 | 657 | Ann White |
 | 162 | 649 | sha |
 | 163 | 646 | TeeMaster Barber IsLyfe |
-| 164 | 644 | Dena Marie Lee |
-| 165 | 643 | Ottison Dianna |
-| 166 | 633 | Rackemwillie34 |
-| 167 | 630 | Bambi Love |
-| 168 | 629 | Charletha Williams |
-| 169 | 623 | Abraham Espaillat |
-| 170 | 617 | Crystal Anderson |
-| 171 | 616 | Dandy Brickfit |
-| 172 | 611 | SyTheEvilGenius1 |
-| 173 | 610 | Genne Scott |
-| 174 | 606 | Tammye Turner |
-| 175 | 605 | Marcheta Cervantez |
-| 176 | 603 | FallDee |
-| 177 | 600 | Shellzb Roberts |
-| 178 | 599 | Zappy Riser |
-| 179 | 596 | Cj Gorman |
-| 180 | 589 | Katherine Short |
+| 164 | 645 | Marcheta Cervantez |
+| 165 | 644 | Dena Marie Lee |
+| 166 | 643 | Ottison Dianna |
+| 167 | 633 | Rackemwillie34 |
+| 168 | 630 | Bambi Love |
+| 169 | 629 | Charletha Williams |
+| 170 | 623 | Abraham Espaillat |
+| 171 | 617 | Crystal Anderson |
+| 172 | 616 | Dandy Brickfit |
+| 173 | 611 | SyTheEvilGenius1 |
+| 174 | 610 | Genne Scott |
+| 175 | 608 | Katherine Short |
+| 176 | 606 | Tammye Turner |
+| 177 | 603 | FallDee |
+| 178 | 600 | Shellzb Roberts |
+| 179 | 599 | Zappy Riser |
+| 180 | 596 | Cj Gorman |
 | 181 | 584 | Novaa |
-| 182 | 583 | Block King |
-| 183 | 583 | TT |
+| 182 | 583 | TT |
+| 183 | 583 | Block King |
 | 184 | 581 | Michelle Titus |
 | 185 | 580 | Felicia Cain |
 | 186 | 577 | Randizzle |
 | 187 | 576 | Jeffrey Barrows |
 | 188 | 574 | DaVonte' Cretter |
-| 189 | 573 | Nobles Brandon |
-| 190 | 573 | Keke Ferguson |
+| 189 | 573 | Keke Ferguson |
+| 190 | 573 | Nobles Brandon |
 | 191 | 570 | Jamal Itzjusmall Chambers |
-| 192 | 569 | Zachary Colegrove |
-| 193 | 569 | Nina Davis |
-| 194 | 565 | IThinkNot |
-| 195 | 565 | LaToya Chambers |
+| 192 | 569 | Nina Davis |
+| 193 | 569 | Zachary Colegrove |
+| 194 | 565 | LaToya Chambers |
+| 195 | 565 | IThinkNot |
 | 196 | 563 | Wild Out Nai |
 | 197 | 562 | Yasmin Nakea Wright |
 | 198 | 559 | Sarah Clark |
@@ -251,54 +251,54 @@
 | 243 | 458 | Jimmie Makia |
 | 244 | 456 | Cachet A Ward |
 | 245 | 455 | Tamara Johnson-Carter |
-| 246 | 453 | JaClanDiah |
-| 247 | 453 | Elizabeth Vega Coreano |
+| 246 | 453 | Elizabeth Vega Coreano |
+| 247 | 453 | JaClanDiah |
 | 248 | 452 | Kenny MrOnethousand Peck |
 | 249 | 451 | Penee Wiggins |
 | 250 | 451 | Simmone T. Kadiri |
 | 251 | 450 | boogeywoogey |
 | 252 | 448 | Michael Bethezar |
-| 253 | 447 | Jazzy Fireflighters |
+| 253 | 447 | Cheeky Pop |
 | 254 | 447 | Rachael Bakowicz Edwards |
-| 255 | 447 | Zippy Tilefall |
-| 256 | 447 | Cheeky Pop |
-| 257 | 444 | Latisha Fairley |
-| 258 | 444 | Kevin M. McGhee Jr |
+| 255 | 447 | Jazzy Fireflighters |
+| 256 | 447 | Zippy Tilefall |
+| 257 | 444 | Kevin M. McGhee Jr |
+| 258 | 444 | Latisha Fairley |
 | 259 | 441 | Tessa Felice Hill |
-| 260 | 440 | Slinky Brickmatch |
-| 261 | 440 | Zippy Lifter |
+| 260 | 440 | Zippy Lifter |
+| 261 | 440 | Slinky Brickmatch |
 | 262 | 439 | Asani CHumba |
 | 263 | 436 | Leebo Slice |
 | 264 | 435 | Clever Fitblock |
 | 265 | 434 | Choc |
-| 266 | 432 | Jessica Russell |
+| 266 | 432 | Lashaunda |
 | 267 | 432 | Trina Greenwood |
-| 268 | 432 | Lashaunda |
-| 269 | 430 | Tarnisha Neicy Jones |
-| 270 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 268 | 432 | Jessica Russell |
+| 269 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 270 | 430 | Tarnisha Neicy Jones |
 | 271 | 426 | Chasem45 |
 | 272 | 423 | Dion Gray |
 | 273 | 421 | OhNoZer0 |
-| 274 | 420 | Jessica Carter |
+| 274 | 420 | Larina Cherie Johnson |
 | 275 | 420 | Nerdy Climber |
-| 276 | 420 | Larina Cherie Johnson |
+| 276 | 420 | Jessica Carter |
 | 277 | 419 | Dai Bo |
-| 278 | 419 | Johnathan Deese |
-| 279 | 418 | Sheila Burnham |
-| 280 | 414 | Cheery Linkfall |
-| 281 | 413 | Deveda Williams |
+| 278 | 419 | Kyra Coleman |
+| 279 | 419 | Johnathan Deese |
+| 280 | 418 | Sheila Burnham |
+| 281 | 414 | Cheery Linkfall |
 | 282 | 413 | Curtis T Cirno |
-| 283 | 411 | Tamika Fisher |
-| 284 | 411 | Kyra Coleman |
+| 283 | 413 | Deveda Williams |
+| 284 | 411 | Tamika Fisher |
 | 285 | 410 | Salim Thugger |
 | 286 | 404 | Calvin Green |
 | 287 | 403 | Bre Poston |
-| 288 | 400 | Denell Sims |
-| 289 | 400 | Coco |
-| 290 | 396 | Koi |
-| 291 | 396 | Joana Thompson |
-| 292 | 394 | Dacia Hicks |
-| 293 | 394 | Queenie Perry |
+| 288 | 400 | Coco |
+| 289 | 400 | Denell Sims |
+| 290 | 396 | Joana Thompson |
+| 291 | 396 | Koi |
+| 292 | 394 | Queenie Perry |
+| 293 | 394 | Dacia Hicks |
 | 294 | 392 | Anthony |
 | 295 | 390 | Devin West |
 | 296 | 387 | StingerD |
@@ -421,8 +421,8 @@
 | 413 | 275 | NewEve |
 | 414 | 274 | Shakmar |
 | 415 | 274 | 신재호 |
-| 416 | 270 | Jean Regis |
-| 417 | 269 | Bambam |
+| 416 | 271 | Bambam |
+| 417 | 270 | Jean Regis |
 | 418 | 269 | Kristine Marie Palmer |
 | 419 | 269 | Aihpos |
 | 420 | 267 | BabyCakes |
