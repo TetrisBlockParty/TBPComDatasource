@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 17:56:45 UTC
+# Standings for team2 as of 2026-06-09 17:57:22 UTC
 
 **Total Participants:** 2543
 
@@ -22,7 +22,7 @@
 | 14 | 8612 | Christina Shell |
 | 15 | 8500 | Crafty Ziggy |
 | 16 | 8427 | Elizabeth Mooney |
-| 17 | 7526 | Tom Badgley |
+| 17 | 7546 | Tom Badgley |
 | 18 | 7455 | Andre Love |
 | 19 | 7184 | Renee Weedling |
 | 20 | 7078 | Dapper Rollout |
@@ -137,7 +137,7 @@
 | 129 | 1142 | Melissa Thomas |
 | 130 | 1132 | Ricardo Ewart |
 | 131 | 1132 | Wmk Rathbun |
-| 132 | 1101 | LittleHippoEars |
+| 132 | 1114 | LittleHippoEars |
 | 133 | 1085 | Deborah Boyce Minor |
 | 134 | 1069 | Jeska Gaines |
 | 135 | 1052 | Mirr Lulu |
@@ -323,13 +323,13 @@
 | 315 | 503 | Santara Ferguson |
 | 316 | 503 | Flashy Twistline |
 | 317 | 498 | James Ward |
-| 318 | 492 | Boldy Fitclear |
-| 319 | 492 | Amy Gregg |
-| 320 | 490 | Norma Ortiz |
-| 321 | 489 | Suki Jacobs |
-| 322 | 488 | Elliott Mikila |
-| 323 | 487 | Amanda L Strong |
-| 324 | 486 | Amy Taylor Pomerenk |
+| 318 | 494 | Amy Taylor Pomerenk |
+| 319 | 492 | Boldy Fitclear |
+| 320 | 492 | Amy Gregg |
+| 321 | 490 | Norma Ortiz |
+| 322 | 489 | Suki Jacobs |
+| 323 | 488 | Elliott Mikila |
+| 324 | 487 | Amanda L Strong |
 | 325 | 483 | Earline Dupuy Bordelon |
 | 326 | 482 | Nikki Greeneyebeauty |
 | 327 | 480 | Physhie |
