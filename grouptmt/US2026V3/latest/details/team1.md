@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 00:10:43 UTC
+# Standings for team1 as of 2026-06-09 00:11:21 UTC
 
 **Total Participants:** 1907
 
@@ -34,7 +34,7 @@
 | 26 | 3892 | Kkbk |
 | 27 | 3742 | Jo NewmindNewfocus Bell |
 | 28 | 3543 | Juan Kandiss Escobedo Irwin |
-| 29 | 3404 | Chummy Combo |
+| 29 | 3420 | Chummy Combo |
 | 30 | 3301 | Yolanda McDonald |
 | 31 | 3175 | Ebo Got-Time |
 | 32 | 3163 | Sha Harris |
@@ -43,7 +43,7 @@
 | 35 | 2619 | Zappy Brickline |
 | 36 | 2433 | Jamie Willis |
 | 37 | 2381 | Epic Snapfall |
-| 38 | 2343 | COSA303 |
+| 38 | 2348 | COSA303 |
 | 39 | 2298 | Weeze |
 | 40 | 2138 | Linzie Marie |
 | 41 | 2076 | April Inboden |
@@ -122,7 +122,7 @@
 | 114 | 813 | Joy Citizen Pickney |
 | 115 | 804 | Yolanda E Fergerson |
 | 116 | 803 | Cee Emm |
-| 117 | 796 | Jaida King |
+| 117 | 798 | Jaida King |
 | 118 | 777 | Peppy Piececlear |
 | 119 | 776 | Spunky Edgefit |
 | 120 | 771 | Eartha Brown |
@@ -198,13 +198,13 @@
 | 190 | 489 | LaToya Chambers |
 | 191 | 486 | Andre Sanon |
 | 192 | 485 | xXEKUNXx |
-| 193 | 484 | David Fuentes |
-| 194 | 482 | Jamal Itzjusmall Chambers |
-| 195 | 476 | Roberta Lynn |
-| 196 | 476 | BULLSEYE |
-| 197 | 466 | Zappy Riser |
-| 198 | 466 | Tootsie Pop |
-| 199 | 465 | Tishauna Virgo |
+| 193 | 485 | Tishauna Virgo |
+| 194 | 484 | David Fuentes |
+| 195 | 482 | Jamal Itzjusmall Chambers |
+| 196 | 476 | Roberta Lynn |
+| 197 | 476 | BULLSEYE |
+| 198 | 466 | Zappy Riser |
+| 199 | 466 | Tootsie Pop |
 | 200 | 465 | TT |
 | 201 | 458 | Jimmie Makia |
 | 202 | 457 | Telisha Mims |
@@ -219,8 +219,8 @@
 | 211 | 445 | Karebear |
 | 212 | 445 | JaClanDiah |
 | 213 | 444 | Kevin M. McGhee Jr |
-| 214 | 442 | Rachel Zimmerman |
-| 215 | 442 | Cheeky Pop |
+| 214 | 443 | Cheeky Pop |
+| 215 | 442 | Rachel Zimmerman |
 | 216 | 441 | Tessa Felice Hill |
 | 217 | 440 | Zippy Lifter |
 | 218 | 440 | Tanya Clayton |
@@ -247,10 +247,10 @@
 | 239 | 404 | Dai Bo |
 | 240 | 403 | Calvin Green |
 | 241 | 398 | Kenny 'Tailormade' Boyd |
-| 242 | 395 | Joana Thompson |
-| 243 | 394 | Christopher Dreamsareality McEachin |
-| 244 | 394 | Koi |
-| 245 | 391 | Slinky Brickmatch |
+| 242 | 397 | Slinky Brickmatch |
+| 243 | 395 | Joana Thompson |
+| 244 | 394 | Christopher Dreamsareality McEachin |
+| 245 | 394 | Koi |
 | 246 | 390 | Devin West |
 | 247 | 389 | GrkGdess |
 | 248 | 386 | Chantelle Lee |
@@ -395,21 +395,21 @@
 | 387 | 250 | win |
 | 388 | 249 | Nate Myers |
 | 389 | 248 | Darrel K Pemberton |
-| 390 | 248 | LuckyStar |
-| 391 | 248 | HarleyJane |
+| 390 | 248 | HarleyJane |
+| 391 | 248 | LuckyStar |
 | 392 | 247 | Tessa Gaskin |
-| 393 | 247 | Abigail Newman Sweet |
-| 394 | 247 | TBABYJ |
+| 393 | 247 | TBABYJ |
+| 394 | 247 | Abigail Newman Sweet |
 | 395 | 245 | Brittnay Wright |
-| 396 | 244 | Teddy Davis |
-| 397 | 244 | akosua |
-| 398 | 244 | Asha Langford |
-| 399 | 244 | LaTonya Myers |
-| 400 | 243 | Snappy Link |
+| 396 | 244 | Asha Langford |
+| 397 | 244 | Snappy Link |
+| 398 | 244 | LaTonya Myers |
+| 399 | 244 | akosua |
+| 400 | 244 | Teddy Davis |
 | 401 | 242 | Tamika Rocheteau |
 | 402 | 242 | Sammie Walker |
-| 403 | 240 | Malcolm Stanley |
-| 404 | 240 | SherylU |
+| 403 | 240 | SherylU |
+| 404 | 240 | Malcolm Stanley |
 | 405 | 240 | Amy Lynn Leifheit |
 | 406 | 239 | Guy Incognito |
 | 407 | 239 | Giggy Tower |
@@ -565,8 +565,8 @@
 | 557 | 177 | PSD |
 | 558 | 176 | Char |
 | 559 | 176 | Squaw Ki Ng |
-| 560 | 176 | Frisky Gridder |
-| 561 | 174 | Twisty Brickfit |
+| 560 | 176 | Twisty Brickfit |
+| 561 | 176 | Frisky Gridder |
 | 562 | 174 | Clipzby |
 | 563 | 173 | Angela Brown Babin |
 | 564 | 172 | Poyre Shelton |
@@ -1682,34 +1682,34 @@
 | 1674 | 17 | Sue Boyce |
 | 1675 | 17 | Daron Montgomery |
 | 1676 | 17 | Christina |
-| 1677 | 16 | Tiffany Weathersby |
-| 1678 | 16 | JahMilly19 |
-| 1679 | 16 | Tabitha Burks |
-| 1680 | 16 | Giddy Twistslam |
-| 1681 | 16 | Desmond Bernard Street |
-| 1682 | 16 | Sandra Buller |
-| 1683 | 16 | Marquel Coley |
-| 1684 | 16 | Zachary Sinclair |
-| 1685 | 16 | Marcus Roberts |
-| 1686 | 16 | Hulk |
-| 1687 | 16 | Anthony |
-| 1688 | 16 | Tina Drake |
-| 1689 | 16 | Dee-Dee Stewart |
-| 1690 | 15 | LadiGurl |
+| 1677 | 17 | Coy Williams |
+| 1678 | 16 | Tiffany Weathersby |
+| 1679 | 16 | JahMilly19 |
+| 1680 | 16 | Tabitha Burks |
+| 1681 | 16 | Giddy Twistslam |
+| 1682 | 16 | Desmond Bernard Street |
+| 1683 | 16 | Sandra Buller |
+| 1684 | 16 | Marquel Coley |
+| 1685 | 16 | Zachary Sinclair |
+| 1686 | 16 | Marcus Roberts |
+| 1687 | 16 | Dee-Dee Stewart |
+| 1688 | 16 | Hulk |
+| 1689 | 16 | Anthony |
+| 1690 | 16 | Tina Drake |
 | 1691 | 15 | Chill Spinzone |
-| 1692 | 15 | Michael Bethezar |
-| 1693 | 15 | pettymexoxo |
-| 1694 | 15 | Tami Spence |
-| 1695 | 15 | Bri Lou |
-| 1696 | 15 | Epic Puzzle |
-| 1697 | 15 | Happy Towerfall |
-| 1698 | 15 | Coy Williams |
-| 1699 | 15 | Hasty Match |
-| 1700 | 15 | Lit757 |
-| 1701 | 15 | Mrs . Candy |
-| 1702 | 15 | Chief block |
-| 1703 | 15 | Moneke Randolph |
-| 1704 | 15 | Wacky Towerer |
+| 1692 | 15 | Wacky Towerer |
+| 1693 | 15 | Michael Bethezar |
+| 1694 | 15 | pettymexoxo |
+| 1695 | 15 | Tami Spence |
+| 1696 | 15 | Bri Lou |
+| 1697 | 15 | Epic Puzzle |
+| 1698 | 15 | Happy Towerfall |
+| 1699 | 15 | LadiGurl |
+| 1700 | 15 | Chief block |
+| 1701 | 15 | Hasty Match |
+| 1702 | 15 | Lit757 |
+| 1703 | 15 | Mrs . Candy |
+| 1704 | 15 | Moneke Randolph |
 | 1705 | 15 | Kris Gray |
 | 1706 | 15 | Annette DeLoatch Thompson |
 | 1707 | 15 | UnionBoss |
@@ -1743,32 +1743,32 @@
 | 1735 | 13 | Zesty Clearer |
 | 1736 | 13 | random |
 | 1737 | 13 | Lakesha Jackson- Anderson |
-| 1738 | 13 | Hasty Shatterbuilder |
-| 1739 | 13 | Ashley Horne |
-| 1740 | 13 | Kennita Leach Woodard |
-| 1741 | 13 | Deanna Pinkard Harrington |
-| 1742 | 13 | Emma Adams |
-| 1743 | 13 | Tasha Stuckey |
-| 1744 | 13 | Leah Ingram |
-| 1745 | 13 | Nicki JTho |
-| 1746 | 13 | Shalyn Law |
-| 1747 | 12 | toye69 |
-| 1748 | 12 | Otavia Gordon |
-| 1749 | 12 | Chantae Maxwell |
-| 1750 | 12 | Peachy Stacker |
-| 1751 | 12 | Outspoken Sirchristopher |
-| 1752 | 12 | Shelly Marie |
-| 1753 | 12 | Plucky Twist |
-| 1754 | 12 | Gracee Hodge Kunze |
-| 1755 | 12 | Penny Gayles |
-| 1756 | 12 | Shiny Crusher |
+| 1738 | 13 | Shiny Crusher |
+| 1739 | 13 | Hasty Shatterbuilder |
+| 1740 | 13 | Ashley Horne |
+| 1741 | 13 | Kennita Leach Woodard |
+| 1742 | 13 | Deanna Pinkard Harrington |
+| 1743 | 13 | Emma Adams |
+| 1744 | 13 | Tasha Stuckey |
+| 1745 | 13 | Leah Ingram |
+| 1746 | 13 | Nicki JTho |
+| 1747 | 13 | Shalyn Law |
+| 1748 | 12 | Trill Wilson |
+| 1749 | 12 | Otavia Gordon |
+| 1750 | 12 | Chantae Maxwell |
+| 1751 | 12 | Peachy Stacker |
+| 1752 | 12 | Outspoken Sirchristopher |
+| 1753 | 12 | Shelly Marie |
+| 1754 | 12 | Plucky Twist |
+| 1755 | 12 | Gracee Hodge Kunze |
+| 1756 | 12 | Penny Gayles |
 | 1757 | 12 | Tiffany Ali Shaw |
-| 1758 | 12 | SM |
-| 1759 | 12 | Sanchez Jackson |
+| 1758 | 12 | Sanchez Jackson |
+| 1759 | 12 | SM |
 | 1760 | 12 | taz62 |
-| 1761 | 12 | Lavance Sams |
-| 1762 | 12 | Trill Wilson |
-| 1763 | 12 | BigDawg Lessley |
+| 1761 | 12 | BigDawg Lessley |
+| 1762 | 12 | Lavance Sams |
+| 1763 | 12 | toye69 |
 | 1764 | 11 | Snappy Towerpiece |
 | 1765 | 11 | Daron White |
 | 1766 | 11 | Nissa |
