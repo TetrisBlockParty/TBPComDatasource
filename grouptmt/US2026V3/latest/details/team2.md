@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:54:45 UTC
+# Standings for team2 as of 2026-06-09 08:55:21 UTC
 
 **Total Participants:** 2448
 
@@ -251,13 +251,13 @@
 | 243 | 565 | Zany Blockclear |
 | 244 | 565 | Kelly Rogers |
 | 245 | 564 | Chipper Stackbuilder |
-| 246 | 559 | Mom |
-| 247 | 559 | Pam Bauder Ludwig |
+| 246 | 559 | Pam Bauder Ludwig |
+| 247 | 559 | Mom |
 | 248 | 555 | H |
 | 249 | 555 | Twisty Buildgrid |
 | 250 | 554 | Sabrina Hardrick |
-| 251 | 553 | Rosalie Call Kehlenbeck |
-| 252 | 553 | Kathy Strickland |
+| 251 | 553 | Kathy Strickland |
+| 252 | 553 | Rosalie Call Kehlenbeck |
 | 253 | 553 | Thomas Tyrone |
 | 254 | 552 | Ratchet |
 | 255 | 550 | Gabrielle Wilson |
@@ -294,8 +294,8 @@
 | 286 | 500 | Deezie |
 | 287 | 495 | Jason Cunningham |
 | 288 | 492 | Amy Gregg |
-| 289 | 489 | Suki Jacobs |
-| 290 | 489 | Sherri E Woods Hess |
+| 289 | 489 | Sherri E Woods Hess |
+| 290 | 489 | Suki Jacobs |
 | 291 | 488 | Ackerman 85 |
 | 292 | 487 | Amanda L Strong |
 | 293 | 485 | Naomi Walker |
@@ -307,11 +307,11 @@
 | 299 | 475 | Justin McCray |
 | 300 | 471 | Flashy Twistline |
 | 301 | 470 | Sharon L Brazelton |
-| 302 | 468 | Flower_child |
-| 303 | 467 | Nicole Hogue |
-| 304 | 467 | Santara Ferguson |
-| 305 | 467 | Nikki EightySixed |
-| 306 | 466 | Jenny |
+| 302 | 469 | Jenny |
+| 303 | 468 | Flower_child |
+| 304 | 467 | Nicole Hogue |
+| 305 | 467 | Santara Ferguson |
+| 306 | 467 | Nikki EightySixed |
 | 307 | 463 | Joni Michelle Morgan |
 | 308 | 462 | James Ward |
 | 309 | 455 | Janelle Edgecombe |
@@ -648,12 +648,12 @@
 | 640 | 215 | Missy Renia |
 | 641 | 215 | Nerdy Gridlock |
 | 642 | 215 | Twisty Tower |
-| 643 | 213 | Kimberly Davis |
-| 644 | 213 | s3lc4tr0n |
-| 645 | 213 | Mike Mordhorst |
-| 646 | 213 | Epic Framezone |
-| 647 | 213 | Judy Burkhalter |
-| 648 | 213 | Becky Kennon |
+| 643 | 214 | Epic Framezone |
+| 644 | 213 | Mike Mordhorst |
+| 645 | 213 | Judy Burkhalter |
+| 646 | 213 | Becky Kennon |
+| 647 | 213 | Kimberly Davis |
+| 648 | 213 | s3lc4tr0n |
 | 649 | 212 | Holly Barefoot |
 | 650 | 211 | Edna Nena Cabrera |
 | 651 | 211 | Lazy Staggerpiece |
@@ -664,17 +664,17 @@
 | 656 | 209 | Treau Torres |
 | 657 | 209 | Nutty Dash |
 | 658 | 209 | Julibeth Wells |
-| 659 | 208 | Stephanie Smith Robinson |
-| 660 | 208 | Jennifer Wymer |
+| 659 | 208 | Jennifer Wymer |
+| 660 | 208 | Stephanie Smith Robinson |
 | 661 | 208 | Susie Conger |
 | 662 | 208 | Giddy Climber |
 | 663 | 207 | Laurie |
 | 664 | 207 | Quirky Shifter |
 | 665 | 207 | Andrea Rawson |
-| 666 | 207 | Bonita Alexander |
-| 667 | 207 | WhitS |
-| 668 | 206 | rebel4lyfe |
-| 669 | 206 | Amber Carpenter |
+| 666 | 207 | WhitS |
+| 667 | 207 | Bonita Alexander |
+| 668 | 206 | Amber Carpenter |
+| 669 | 206 | rebel4lyfe |
 | 670 | 205 | Tamara Whiteley |
 | 671 | 205 | Connie Marie Cornell Lerma |
 | 672 | 204 | Charlotte Castelli |
@@ -683,15 +683,15 @@
 | 675 | 203 | Amber Marie |
 | 676 | 203 | Heather Billodeau |
 | 677 | 203 | Violet Olivares |
-| 678 | 202 | Ashley Miller |
+| 678 | 202 | Mandy |
 | 679 | 202 | IncrediDragon |
-| 680 | 202 | Hillary Frank |
-| 681 | 202 | Kati Eckstein |
-| 682 | 202 | Mandy |
+| 680 | 202 | Kati Eckstein |
+| 681 | 202 | Ashley Miller |
+| 682 | 202 | Hillary Frank |
 | 683 | 202 | Anzhen |
 | 684 | 201 | Mala Phonchanthasone |
-| 685 | 201 | Mary Carriere |
-| 686 | 201 | Belle |
+| 685 | 201 | Belle |
+| 686 | 201 | Mary Carriere |
 | 687 | 200 | Coleen Yoder |
 | 688 | 200 | Clever Fallmatch |
 | 689 | 200 | Karen Mueller |
@@ -699,17 +699,17 @@
 | 691 | 199 | Michael Anthony Anstead |
 | 692 | 199 | Cranky Basepiece |
 | 693 | 199 | Jim Wright |
-| 694 | 198 | Nicole Suber |
-| 695 | 198 | Tammy Roth |
+| 694 | 198 | Tammy Roth |
+| 695 | 198 | Nicole Suber |
 | 696 | 198 | Ques Pryor |
 | 697 | 198 | Flex |
 | 698 | 197 | Franky |
 | 699 | 197 | Kalli Bonin |
 | 700 | 197 | Sunny Tiltbuilder |
-| 701 | 197 | Jason Lamporte |
-| 702 | 197 | Jessica Perkins |
-| 703 | 197 | Giddy Chiseler |
-| 704 | 197 | Kristen |
+| 701 | 197 | Jessica Perkins |
+| 702 | 197 | Giddy Chiseler |
+| 703 | 197 | Kristen |
+| 704 | 197 | Jason Lamporte |
 | 705 | 196 | Greenie |
 | 706 | 194 | Lindsey Ross |
 | 707 | 194 | Rachel M. Farnsworth |
@@ -725,31 +725,31 @@
 | 717 | 191 | Melissa Willson |
 | 718 | 191 | Angeleye A James |
 | 719 | 191 | Chilly Surge |
-| 720 | 191 | Firebone |
-| 721 | 191 | Nano. |
-| 722 | 190 | Duck |
-| 723 | 190 | Tammy Botkin |
+| 720 | 191 | Brooke Kaune |
+| 721 | 191 | Firebone |
+| 722 | 191 | Nano. |
+| 723 | 190 | Duck |
 | 724 | 190 | Kelly Hall Whitt |
-| 725 | 190 | Meagan Grimmett Washburn |
-| 726 | 189 | Kristi K Milner |
-| 727 | 189 | James Sayers |
-| 728 | 189 | Poppy Strikerbuilder |
-| 729 | 189 | Audrey Bickford |
-| 730 | 188 | Chipper Towerzone |
-| 731 | 188 | Derrick |
-| 732 | 187 | Cindy Scott |
-| 733 | 187 | Elizabeth Kline |
-| 734 | 187 | Barb Kiser |
-| 735 | 187 | Momof2wigglebutts |
-| 736 | 187 | Nikki Hatch |
-| 737 | 187 | Abby |
-| 738 | 186 | Jennifer Bromeisl-Tettam |
-| 739 | 186 | Cody Gates |
-| 740 | 186 | y |
-| 741 | 185 | Sillyk |
+| 725 | 190 | Tammy Botkin |
+| 726 | 190 | Meagan Grimmett Washburn |
+| 727 | 189 | Kristi K Milner |
+| 728 | 189 | James Sayers |
+| 729 | 189 | Poppy Strikerbuilder |
+| 730 | 189 | Audrey Bickford |
+| 731 | 188 | Chipper Towerzone |
+| 732 | 188 | Derrick |
+| 733 | 187 | Cindy Scott |
+| 734 | 187 | Elizabeth Kline |
+| 735 | 187 | Barb Kiser |
+| 736 | 187 | Momof2wigglebutts |
+| 737 | 187 | Nikki Hatch |
+| 738 | 187 | Abby |
+| 739 | 186 | Jennifer Bromeisl-Tettam |
+| 740 | 186 | Cody Gates |
+| 741 | 186 | y |
 | 742 | 185 | Leigh Wilkerson |
 | 743 | 185 | Nutty Fitzone |
-| 744 | 185 | Brooke Kaune |
+| 744 | 185 | Sillyk |
 | 745 | 185 | Christine James |
 | 746 | 185 | Vicki Flippo |
 | 747 | 184 | Ashley Fleming |
