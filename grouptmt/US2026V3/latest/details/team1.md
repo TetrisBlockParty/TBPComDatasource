@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:26:48 UTC
+# Standings for team1 as of 2026-06-09 10:27:21 UTC
 
 **Total Participants:** 2035
 
@@ -297,12 +297,12 @@
 | 289 | 410 | Salim Thugger |
 | 290 | 404 | Calvin Green |
 | 291 | 403 | Bre Poston |
-| 292 | 400 | Denell Sims |
-| 293 | 400 | Coco |
+| 292 | 400 | Coco |
+| 293 | 400 | Denell Sims |
 | 294 | 396 | Joana Thompson |
 | 295 | 396 | Koi |
-| 296 | 394 | Queenie Perry |
-| 297 | 394 | Dacia Hicks |
+| 296 | 394 | Dacia Hicks |
+| 297 | 394 | Queenie Perry |
 | 298 | 392 | Dedra M Prester |
 | 299 | 390 | Devin West |
 | 300 | 387 | StingerD |
@@ -320,45 +320,45 @@
 | 312 | 371 | SeanSanchez |
 | 313 | 371 | Lauraly |
 | 314 | 370 | Allison Baxter |
-| 315 | 368 | Brand Nu |
-| 316 | 368 | Cortaz Lawrie |
+| 315 | 368 | Cortaz Lawrie |
+| 316 | 368 | Brand Nu |
 | 317 | 367 | Still Ten Tay |
-| 318 | 367 | Smiley3000 |
-| 319 | 367 | Jayjay Rich |
+| 318 | 367 | Jayjay Rich |
+| 319 | 367 | Smiley3000 |
 | 320 | 365 | Andrew Jay Vaughn |
 | 321 | 364 | Michele Simpson |
-| 322 | 363 | Richard Flex |
-| 323 | 363 | Christina Rebecca |
+| 322 | 363 | Christina Rebecca |
+| 323 | 363 | Richard Flex |
 | 324 | 362 | Denise B |
 | 325 | 361 | Lakiesha Crawford |
 | 326 | 361 | John Staub |
 | 327 | 360 | Giggy Edgefit |
 | 328 | 358 | Hasty Glidezone |
 | 329 | 358 | Analiza Ramos |
-| 330 | 357 | Giggly Tiltbuilder |
-| 331 | 356 | Haley Bell |
-| 332 | 355 | Tajuana Juana'Cee Coleman |
-| 333 | 353 | Bbyunicorn |
-| 334 | 352 | Ann Chung |
-| 335 | 352 | Brave Clearbuilder |
-| 336 | 350 | Ashley MyBeauty Daniels |
-| 337 | 349 | Sade Goodwine |
-| 338 | 348 | Dennis J Herron II |
-| 339 | 348 | Frisky Fall |
-| 340 | 347 | Erin Sabol |
-| 341 | 347 | Ashleyy Netchert |
-| 342 | 344 | Mikayla |
+| 330 | 358 | Simone Bailey |
+| 331 | 357 | Giggly Tiltbuilder |
+| 332 | 356 | Haley Bell |
+| 333 | 355 | Tajuana Juana'Cee Coleman |
+| 334 | 353 | Bbyunicorn |
+| 335 | 352 | Ann Chung |
+| 336 | 352 | Brave Clearbuilder |
+| 337 | 350 | Ashley MyBeauty Daniels |
+| 338 | 349 | Sade Goodwine |
+| 339 | 348 | Dennis J Herron II |
+| 340 | 348 | Frisky Fall |
+| 341 | 347 | Erin Sabol |
+| 342 | 347 | Ashleyy Netchert |
 | 343 | 344 | Andy Rivera |
-| 344 | 343 | MamushiOh |
-| 345 | 343 | Heather Aurelia |
-| 346 | 341 | Jawaun Daniels |
-| 347 | 340 | Christian Pham |
-| 348 | 340 | Tipsy Linkroll |
-| 349 | 337 | Brenda Malachi-butler |
-| 350 | 337 | Desire Rice |
-| 351 | 337 | HarleyJane |
-| 352 | 336 | Skippy |
-| 353 | 332 | Simone Bailey |
+| 344 | 344 | Mikayla |
+| 345 | 343 | MamushiOh |
+| 346 | 343 | Heather Aurelia |
+| 347 | 341 | Jawaun Daniels |
+| 348 | 340 | Christian Pham |
+| 349 | 340 | Tipsy Linkroll |
+| 350 | 337 | Brenda Malachi-butler |
+| 351 | 337 | Desire Rice |
+| 352 | 337 | HarleyJane |
+| 353 | 336 | Skippy |
 | 354 | 330 | ♈️ Ariesbaby |
 | 355 | 330 | Crystal Boyd |
 | 356 | 330 | rls |
@@ -368,10 +368,10 @@
 | 360 | 317 | Jai |
 | 361 | 315 | Jae Thompson-Tyus |
 | 362 | 315 | KeeKee Williams |
-| 363 | 314 | Rayya Kiser |
-| 364 | 314 | Tay |
-| 365 | 314 | Tonya McElroy |
-| 366 | 314 | Chilly Wipebuilder |
+| 363 | 314 | Tay |
+| 364 | 314 | Tonya McElroy |
+| 365 | 314 | Chilly Wipebuilder |
+| 366 | 314 | Rayya Kiser |
 | 367 | 312 | Shanns |
 | 368 | 311 | Cynthia Bradley |
 | 369 | 308 | MindlessMic |

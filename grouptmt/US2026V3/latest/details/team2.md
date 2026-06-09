@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:26:48 UTC
+# Standings for team2 as of 2026-06-09 10:27:21 UTC
 
 **Total Participants:** 2466
 
@@ -1497,7 +1497,7 @@
 | 1489 | 69 | Yany |
 | 1490 | 69 | Loretta Crow |
 | 1491 | 69 | Deanna Mc |
-| 1492 | 68 | Dandy Wiper |
+| 1492 | 69 | Dandy Wiper |
 | 1493 | 68 | April Appleton |
 | 1494 | 68 | Angie Barlow |
 | 1495 | 68 | Viola Fletcher |
@@ -1613,13 +1613,13 @@
 | 1605 | 58 | Donna Gerald |
 | 1606 | 58 | Tracy G Ragsdale |
 | 1607 | 58 | Shanetta Johnson |
-| 1608 | 57 | Maurice Bethel |
-| 1609 | 57 | Lori Lorenz |
-| 1610 | 57 | Loopy Brickroll |
-| 1611 | 57 | Giggly Patternline |
-| 1612 | 57 | Snoop |
-| 1613 | 57 | John Guider |
-| 1614 | 57 | Alexis Turner |
+| 1608 | 57 | Snoop |
+| 1609 | 57 | Maurice Bethel |
+| 1610 | 57 | Lori Lorenz |
+| 1611 | 57 | John Guider |
+| 1612 | 57 | Alexis Turner |
+| 1613 | 57 | Giggly Patternline |
+| 1614 | 57 | Loopy Brickroll |
 | 1615 | 57 | Brandy Wallace |
 | 1616 | 57 | Jackie Hayslip |
 | 1617 | 57 | SarahandAaron Prim |
@@ -1627,54 +1627,54 @@
 | 1619 | 56 | Glitzy Stackbuilder |
 | 1620 | 56 | Armordguy |
 | 1621 | 56 | April Owings |
-| 1622 | 56 | Spunky Riserfit |
+| 1622 | 56 | Teri |
 | 1623 | 56 | CountryGurl |
 | 1624 | 56 | Cynthia Rose Candelaria |
 | 1625 | 56 | Jessi Ann |
-| 1626 | 56 | Teri |
-| 1627 | 55 | Cheryl Stevens |
+| 1626 | 56 | Spunky Riserfit |
+| 1627 | 55 | Chipper Blockroll |
 | 1628 | 55 | Amanda Nash |
-| 1629 | 55 | Merine Mott |
+| 1629 | 55 | David Bright |
 | 1630 | 55 | Gilbert Medina |
-| 1631 | 55 | Chipper Blockroll |
+| 1631 | 55 | Merine Mott |
 | 1632 | 55 | Mary Goodman |
-| 1633 | 55 | Cynthia Vornlocker |
-| 1634 | 55 | Mistress |
-| 1635 | 55 | Angi Carter |
-| 1636 | 55 | David Bright |
+| 1633 | 55 | Cheryl Stevens |
+| 1634 | 55 | Cynthia Vornlocker |
+| 1635 | 55 | Mistress |
+| 1636 | 55 | Angi Carter |
 | 1637 | 55 | Sassafras Cass |
 | 1638 | 55 | Misty McElroy |
 | 1639 | 54 | Jolene Moelder |
 | 1640 | 54 | Josie Mendivil |
 | 1641 | 54 | Paula Smith |
-| 1642 | 54 | Vanessa King |
+| 1642 | 54 | Michelle Shemon |
 | 1643 | 54 | Jess Duehring |
-| 1644 | 54 | Michelle Shemon |
-| 1645 | 54 | Lisa |
-| 1646 | 54 | Crystal Lawson |
-| 1647 | 54 | Plucky Linkmatch |
-| 1648 | 53 | Topknot13 |
-| 1649 | 53 | Kimberly Rochon |
+| 1644 | 54 | Plucky Linkmatch |
+| 1645 | 54 | Crystal Lawson |
+| 1646 | 54 | Lisa |
+| 1647 | 54 | Vanessa King |
+| 1648 | 53 | Kimberly Rochon |
+| 1649 | 53 | Jon Torres |
 | 1650 | 53 | Amy N Daniel Greene |
-| 1651 | 53 | Jon Torres |
-| 1652 | 53 | Gigi |
-| 1653 | 53 | Thomas Johnstone |
-| 1654 | 53 | Daring Pivotfall |
-| 1655 | 53 | Shalice Jacobs |
-| 1656 | 53 | Jamie Benge |
-| 1657 | 52 | Betty Muise |
-| 1658 | 52 | Dolly |
-| 1659 | 52 | Amber Marie Lacey |
-| 1660 | 52 | Frothy Line |
-| 1661 | 52 | Chrissy Hess |
-| 1662 | 52 | 3RD LEG |
-| 1663 | 52 | Chirpy Shiftspin |
-| 1664 | 52 | Amy Renaud |
-| 1665 | 52 | Bridgett Smith |
-| 1666 | 52 | Amanda Gray Manlove |
-| 1667 | 52 | Daniel Flathers |
-| 1668 | 51 | Brian Giddens |
-| 1669 | 51 | Casandra Shenesky |
+| 1651 | 53 | Gigi |
+| 1652 | 53 | Topknot13 |
+| 1653 | 53 | Casandra Shenesky |
+| 1654 | 53 | Thomas Johnstone |
+| 1655 | 53 | Daring Pivotfall |
+| 1656 | 53 | Shalice Jacobs |
+| 1657 | 53 | Jamie Benge |
+| 1658 | 52 | Betty Muise |
+| 1659 | 52 | Dolly |
+| 1660 | 52 | Amber Marie Lacey |
+| 1661 | 52 | Frothy Line |
+| 1662 | 52 | Chrissy Hess |
+| 1663 | 52 | 3RD LEG |
+| 1664 | 52 | Chirpy Shiftspin |
+| 1665 | 52 | Amy Renaud |
+| 1666 | 52 | Bridgett Smith |
+| 1667 | 52 | Amanda Gray Manlove |
+| 1668 | 52 | Daniel Flathers |
+| 1669 | 51 | Brian Giddens |
 | 1670 | 51 | Brandi Lynn Tumey |
 | 1671 | 51 | haihai |
 | 1672 | 51 | Frisky Snapper |
@@ -1743,17 +1743,17 @@
 | 1735 | 47 | Sarah Jean Huston |
 | 1736 | 47 | Snippy Tilefall |
 | 1737 | 47 | Bruce Bower |
-| 1738 | 46 | Michael Lott |
-| 1739 | 46 | Matthew Black |
-| 1740 | 46 | Sunnylynn Hodge |
-| 1741 | 46 | Nikki Blilie |
+| 1738 | 46 | Sunnylynn Hodge |
+| 1739 | 46 | Michael Lott |
+| 1740 | 46 | Silly Shatter |
+| 1741 | 46 | Octavius Walker |
 | 1742 | 46 | Marie Anne |
-| 1743 | 46 | Octavius Walker |
-| 1744 | 46 | Silly Shatter |
-| 1745 | 46 | Elizabeth Barnhart Floyd |
-| 1746 | 46 | Spunky Snapfall |
-| 1747 | 46 | Clever Clusterfit |
-| 1748 | 46 | Lotso |
+| 1743 | 46 | Nikki Blilie |
+| 1744 | 46 | Lotso |
+| 1745 | 46 | Spunky Snapfall |
+| 1746 | 46 | Matthew Black |
+| 1747 | 46 | Elizabeth Barnhart Floyd |
+| 1748 | 46 | Clever Clusterfit |
 | 1749 | 46 | Kodi Gay |
 | 1750 | 45 | Missy Stevens |
 | 1751 | 45 | Witty Brickster |
@@ -1762,26 +1762,26 @@
 | 1754 | 45 | Frothy Cascader |
 | 1755 | 45 | Erica |
 | 1756 | 45 | Guadalupe Medina |
-| 1757 | 45 | Paula |
-| 1758 | 45 | Ryuu |
-| 1759 | 45 | Sadie-Damion Smith |
-| 1760 | 45 | William Richardson |
-| 1761 | 45 | Patience Thompson |
-| 1762 | 45 | Jstang |
+| 1757 | 45 | William Richardson |
+| 1758 | 45 | Jstang |
+| 1759 | 45 | Michael Crispens |
+| 1760 | 45 | LaChalle Shay |
+| 1761 | 45 | Sadie-Damion Smith |
+| 1762 | 45 | Ryuu |
 | 1763 | 45 | Giggy Snapper |
-| 1764 | 45 | Gail Flory |
-| 1765 | 45 | Michael Crispens |
-| 1766 | 45 | Nikki |
-| 1767 | 45 | LaChalle Shay |
-| 1768 | 44 | Giggly Dashy |
+| 1764 | 45 | Nikki |
+| 1765 | 45 | Gail Flory |
+| 1766 | 45 | Patience Thompson |
+| 1767 | 45 | Paula |
+| 1768 | 44 | Crafty Shatterer |
 | 1769 | 44 | Jane Shevlin |
-| 1770 | 44 | Sandra Betz |
-| 1771 | 44 | Crafty Shatterer |
+| 1770 | 44 | Mary Cook |
+| 1771 | 44 | Sandra Betz |
 | 1772 | 44 | Tee Have |
 | 1773 | 44 | Chill Racker |
-| 1774 | 44 | Mary Cook |
-| 1775 | 44 | Ferrt |
-| 1776 | 44 | Elie Mestre |
+| 1774 | 44 | Giggly Dashy |
+| 1775 | 44 | Elie Mestre |
+| 1776 | 44 | Ferrt |
 | 1777 | 44 | Dawnie Rodarte |
 | 1778 | 44 | Jessica Jones |
 | 1779 | 44 | Fluffypuffin |
@@ -1792,44 +1792,44 @@
 | 1784 | 43 | Dreamy Wipepiece |
 | 1785 | 43 | Aguilar Rita |
 | 1786 | 43 | Amanda Knox |
-| 1787 | 43 | Brooke Burge |
-| 1788 | 43 | TyGur the Tony |
-| 1789 | 43 | KT Scott |
-| 1790 | 43 | Patricia Ann Tondreault Hammonds |
-| 1791 | 43 | Christina Wilson |
+| 1787 | 43 | KT Scott |
+| 1788 | 43 | Reni Seven |
+| 1789 | 43 | Groovy Snapbuild |
+| 1790 | 43 | Christina Wilson |
+| 1791 | 43 | Patricia Ann Tondreault Hammonds |
 | 1792 | 43 | Ashley Parrish |
-| 1793 | 43 | Groovy Snapbuild |
+| 1793 | 43 | TyGur the Tony |
 | 1794 | 43 | Corey Mac |
-| 1795 | 42 | Miss TENNESEE |
-| 1796 | 42 | Ryan D. Norcross |
-| 1797 | 42 | June Salevao |
-| 1798 | 42 | Patty Smith |
-| 1799 | 42 | Snappy Zonepiece |
-| 1800 | 42 | Christopher S Lawyer |
-| 1801 | 42 | Tipsy Slice |
-| 1802 | 42 | Speedy Cascadezone |
-| 1803 | 42 | Jaime Karmann-Leathers |
-| 1804 | 42 | Spunky Buildout |
-| 1805 | 42 | Josimarie Otero |
-| 1806 | 42 | Torb |
-| 1807 | 42 | Shylo Bryant-Brunson |
-| 1808 | 41 | Jenny Coffer |
-| 1809 | 41 | Jay King |
-| 1810 | 41 | Jazzy Cornerfall |
-| 1811 | 41 | Stacey Ann Kelley |
-| 1812 | 41 | Judy Harker |
-| 1813 | 41 | Britnee M Karg |
-| 1814 | 41 | Twisty Wipebuilder |
-| 1815 | 41 | Iggypop |
-| 1816 | 41 | Bold Shiftspin |
-| 1817 | 40 | Cassey Feller |
-| 1818 | 40 | Tabetha Cooper |
-| 1819 | 40 | Kimmi Knippel |
-| 1820 | 40 | B.A. Watt |
-| 1821 | 40 | David Blocker |
-| 1822 | 40 | Jennifer Bryant |
+| 1795 | 43 | Brooke Burge |
+| 1796 | 42 | Snappy Zonepiece |
+| 1797 | 42 | Miss TENNESEE |
+| 1798 | 42 | Tipsy Slice |
+| 1799 | 42 | Speedy Cascadezone |
+| 1800 | 42 | Jaime Karmann-Leathers |
+| 1801 | 42 | Torb |
+| 1802 | 42 | Christopher S Lawyer |
+| 1803 | 42 | Spunky Buildout |
+| 1804 | 42 | Josimarie Otero |
+| 1805 | 42 | Ryan D. Norcross |
+| 1806 | 42 | June Salevao |
+| 1807 | 42 | Patty Smith |
+| 1808 | 42 | Shylo Bryant-Brunson |
+| 1809 | 41 | Jenny Coffer |
+| 1810 | 41 | Jay King |
+| 1811 | 41 | Jazzy Cornerfall |
+| 1812 | 41 | Stacey Ann Kelley |
+| 1813 | 41 | Judy Harker |
+| 1814 | 41 | Britnee M Karg |
+| 1815 | 41 | Twisty Wipebuilder |
+| 1816 | 41 | Iggypop |
+| 1817 | 41 | Bold Shiftspin |
+| 1818 | 40 | Cassey Feller |
+| 1819 | 40 | Tabetha Cooper |
+| 1820 | 40 | Kimmi Knippel |
+| 1821 | 40 | B.A. Watt |
+| 1822 | 40 | David Blocker |
 | 1823 | 40 | Kris Roark |
-| 1824 | 40 | Reni Seven |
+| 1824 | 40 | Jennifer Bryant |
 | 1825 | 40 | Lively Shatter |
 | 1826 | 40 | Dan Rosenberg |
 | 1827 | 40 | Karen Pearson-Wilson |

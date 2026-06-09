@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:26:48 UTC
+# Standings for team4 as of 2026-06-09 10:27:21 UTC
 
 **Total Participants:** 2091
 
@@ -1242,20 +1242,20 @@
 | 1234 | 71 | Bouncy Blockclear |
 | 1235 | 71 | Monique Kitzmiller |
 | 1236 | 71 | Pink Tetramino |
-| 1237 | 71 | Hyper Snaplink |
-| 1238 | 71 | Sydney Taylor Sileno |
+| 1237 | 71 | Jumpy Lifter |
+| 1238 | 71 | Hyper Snaplink |
 | 1239 | 71 | ImagineKaijus |
 | 1240 | 71 | Jessica Armistead |
-| 1241 | 70 | Uh Lesh Uh |
-| 1242 | 70 | Jada Jordyn Campbell |
-| 1243 | 70 | Deanne Silverdahl |
-| 1244 | 70 | Tahira Patrice |
-| 1245 | 70 | Jill Chapman-Yancer |
-| 1246 | 70 | Jumpy Lifter |
+| 1241 | 71 | Sydney Taylor Sileno |
+| 1242 | 70 | Uh Lesh Uh |
+| 1243 | 70 | Jada Jordyn Campbell |
+| 1244 | 70 | Deanne Silverdahl |
+| 1245 | 70 | Tahira Patrice |
+| 1246 | 70 | Jill Chapman-Yancer |
 | 1247 | 70 | T boo |
 | 1248 | 70 | LilithMoon |
-| 1249 | 69 | LaShieka Noland |
-| 1250 | 69 | Joe Joe |
+| 1249 | 69 | Joe Joe |
+| 1250 | 69 | LaShieka Noland |
 | 1251 | 69 | Michelle Wiles |
 | 1252 | 69 | Crystal Parker Bryant |
 | 1253 | 69 | Derrek Lee |
