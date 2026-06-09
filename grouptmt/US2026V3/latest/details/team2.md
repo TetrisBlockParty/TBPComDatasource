@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 20:42:43 UTC
+# Standings for team2 as of 2026-06-09 20:43:21 UTC
 
 **Total Participants:** 2574
 
@@ -189,13 +189,13 @@
 | 181 | 810 | Glitzy Base |
 | 182 | 810 | Zachary Vymislicky |
 | 183 | 808 | Crystal Allen |
-| 184 | 802 | Kellie Montgomery |
-| 185 | 801 | Alicia Kinney |
-| 186 | 797 | Perii Reynoso |
-| 187 | 793 | Brenda Jones |
-| 188 | 789 | Jamie Jones |
-| 189 | 786 | Amanda Sikes |
-| 190 | 786 | Nicole Hogue |
+| 184 | 805 | Nicole Hogue |
+| 185 | 802 | Kellie Montgomery |
+| 186 | 801 | Alicia Kinney |
+| 187 | 797 | Perii Reynoso |
+| 188 | 793 | Brenda Jones |
+| 189 | 789 | Jamie Jones |
+| 190 | 786 | Amanda Sikes |
 | 191 | 784 | Steven Craig |
 | 192 | 779 | Krisanne Kesner-Lonsby |
 | 193 | 773 | MegaPooh |
@@ -288,15 +288,15 @@
 | 280 | 576 | Aldotfus Williams |
 | 281 | 575 | MaddieCherie |
 | 282 | 574 | Brandy McCune Reep |
-| 283 | 569 | Chill Line |
-| 284 | 565 | Kelly Rogers |
-| 285 | 565 | Flower_child |
-| 286 | 564 | Nancy Schwartz Gusman-Oliver |
-| 287 | 562 | Twisty Buildgrid |
-| 288 | 561 | Lindsey Ford |
-| 289 | 560 | Gill |
-| 290 | 560 | H |
-| 291 | 560 | Flashy Twistline |
+| 283 | 571 | Flashy Twistline |
+| 284 | 569 | Chill Line |
+| 285 | 565 | Kelly Rogers |
+| 286 | 565 | Flower_child |
+| 287 | 564 | Nancy Schwartz Gusman-Oliver |
+| 288 | 562 | Twisty Buildgrid |
+| 289 | 561 | Lindsey Ford |
+| 290 | 560 | Gill |
+| 291 | 560 | H |
 | 292 | 559 | Pam Bauder Ludwig |
 | 293 | 559 | Stephany Green |
 | 294 | 558 | Kaycie Shaffer |
@@ -491,25 +491,25 @@
 | 483 | 340 | Ava Speedy |
 | 484 | 340 | Nicky Steigerwalt |
 | 485 | 337 | Angela Hogan |
-| 486 | 336 | Spunky Linkblock |
-| 487 | 336 | Symmy Norton |
-| 488 | 335 | Brittany Mathis |
-| 489 | 335 | SturgStang |
-| 490 | 334 | Roe Sarmiento |
-| 491 | 333 | Jerry L Morales |
-| 492 | 332 | Wacky Curve |
-| 493 | 332 | Po Yee |
-| 494 | 331 | Francesca Wagenhoffer |
-| 495 | 331 | Tango Sierra |
-| 496 | 331 | Anthony Swift |
-| 497 | 328 | murd3rmous3 |
-| 498 | 325 | Ozge Akgun Tokat |
-| 499 | 324 | Mrs biotch |
-| 500 | 323 | Madonna Ash |
-| 501 | 322 | Darla Ragsdale |
-| 502 | 322 | Mouh Ity |
-| 503 | 322 | RaeRae |
-| 504 | 322 | Staci Behrens |
+| 486 | 337 | Staci Behrens |
+| 487 | 336 | Spunky Linkblock |
+| 488 | 336 | Symmy Norton |
+| 489 | 335 | Brittany Mathis |
+| 490 | 335 | SturgStang |
+| 491 | 334 | Roe Sarmiento |
+| 492 | 333 | Jerry L Morales |
+| 493 | 332 | Wacky Curve |
+| 494 | 332 | Po Yee |
+| 495 | 331 | Francesca Wagenhoffer |
+| 496 | 331 | Tango Sierra |
+| 497 | 331 | Anthony Swift |
+| 498 | 328 | murd3rmous3 |
+| 499 | 325 | Ozge Akgun Tokat |
+| 500 | 324 | Mrs biotch |
+| 501 | 323 | Madonna Ash |
+| 502 | 322 | Darla Ragsdale |
+| 503 | 322 | Mouh Ity |
+| 504 | 322 | RaeRae |
 | 505 | 321 | Wendy Spoor Hof |
 | 506 | 321 | Ever Chase |
 | 507 | 320 | Lazy Staggerpiece |
@@ -2337,61 +2337,61 @@
 | 2329 | 16 | Epic Balanceblock |
 | 2330 | 16 | Amanda Chaney |
 | 2331 | 16 | Anarcho |
-| 2332 | 16 | Patty White |
+| 2332 | 16 | Raymond Sadler |
 | 2333 | 16 | Diane Pinkston Massey |
 | 2334 | 16 | Dreamy Fitclear |
-| 2335 | 16 | Jeremy Monceaux |
-| 2336 | 16 | Spicy Towerbuilder |
-| 2337 | 16 | Qu33nB33 |
-| 2338 | 16 | Marshall Payne |
-| 2339 | 16 | tiff |
-| 2340 | 16 | Hasty Linker |
-| 2341 | 16 | Elliot |
-| 2342 | 16 | Fisherman Jackson |
-| 2343 | 16 | Sarah Elizabeth Foret |
-| 2344 | 16 | Eugene Brown |
-| 2345 | 15 | Fancy Matcher |
-| 2346 | 15 | Samantha |
-| 2347 | 15 | Julie Vargas |
-| 2348 | 15 | Maureen MomtoDolores GeorgeBrian |
-| 2349 | 15 | Christine Ann Eras |
-| 2350 | 15 | Lisa Marie |
-| 2351 | 15 | Twisty Patternblock |
-| 2352 | 15 | Poppy Slice |
-| 2353 | 15 | Tipsy Matchgrid |
-| 2354 | 15 | Chris Weddel |
-| 2355 | 15 | AlDan |
-| 2356 | 15 | Lexi Olsen |
+| 2335 | 16 | tiff |
+| 2336 | 16 | Qu33nB33 |
+| 2337 | 16 | Spicy Towerbuilder |
+| 2338 | 16 | Hasty Linker |
+| 2339 | 16 | Marshall Payne |
+| 2340 | 16 | Patty White |
+| 2341 | 16 | Jeremy Monceaux |
+| 2342 | 16 | Elliot |
+| 2343 | 16 | Fisherman Jackson |
+| 2344 | 16 | Sarah Elizabeth Foret |
+| 2345 | 16 | Eugene Brown |
+| 2346 | 15 | Fancy Matcher |
+| 2347 | 15 | Samantha |
+| 2348 | 15 | Julie Vargas |
+| 2349 | 15 | Maureen MomtoDolores GeorgeBrian |
+| 2350 | 15 | Christine Ann Eras |
+| 2351 | 15 | Lisa Marie |
+| 2352 | 15 | Twisty Patternblock |
+| 2353 | 15 | Poppy Slice |
+| 2354 | 15 | Tipsy Matchgrid |
+| 2355 | 15 | Chris Weddel |
+| 2356 | 15 | Glitzy Wipefit |
 | 2357 | 15 | Miles McMahon |
-| 2358 | 15 | Shiny Align |
-| 2359 | 15 | Gloria Hyita |
-| 2360 | 15 | Kasey Marie |
-| 2361 | 15 | Brave Fill |
-| 2362 | 15 | Glitzy Wipefit |
-| 2363 | 15 | Happy Roll |
-| 2364 | 15 | Nana |
-| 2365 | 15 | Rebekah Conn |
-| 2366 | 15 | featherz |
-| 2367 | 15 | Denise Amaro |
-| 2368 | 15 | Wynde Wood |
-| 2369 | 15 | Andrea Lauren Smith |
-| 2370 | 15 | Tetris |
-| 2371 | 15 | SabinawNorman Adams |
-| 2372 | 15 | Neeley Travis |
-| 2373 | 15 | Becki Lynne Corinthos |
-| 2374 | 15 | Haneef Akram |
-| 2375 | 15 | Amlisi |
-| 2376 | 14 | Manuel Lucero Jr. |
-| 2377 | 14 | Raymond Sadler |
-| 2378 | 14 | Phill Bramande |
-| 2379 | 14 | Imat Yesmar |
-| 2380 | 14 | Patricia Meza |
-| 2381 | 14 | Susan R. Hammons Cunningham |
+| 2358 | 15 | Tetris |
+| 2359 | 15 | Shiny Align |
+| 2360 | 15 | Gloria Hyita |
+| 2361 | 15 | Kasey Marie |
+| 2362 | 15 | Andrea Lauren Smith |
+| 2363 | 15 | Brave Fill |
+| 2364 | 15 | Becki Lynne Corinthos |
+| 2365 | 15 | Happy Roll |
+| 2366 | 15 | Nana |
+| 2367 | 15 | Rebekah Conn |
+| 2368 | 15 | featherz |
+| 2369 | 15 | Denise Amaro |
+| 2370 | 15 | Lexi Olsen |
+| 2371 | 15 | AlDan |
+| 2372 | 15 | SabinawNorman Adams |
+| 2373 | 15 | Haneef Akram |
+| 2374 | 15 | Amlisi |
+| 2375 | 15 | Neeley Travis |
+| 2376 | 15 | Wynde Wood |
+| 2377 | 14 | Susan R. Hammons Cunningham |
+| 2378 | 14 | Manuel Lucero Jr. |
+| 2379 | 14 | Phill Bramande |
+| 2380 | 14 | Imat Yesmar |
+| 2381 | 14 | Angela-Josh Millan |
 | 2382 | 14 | Twisty Glider |
-| 2383 | 14 | Angela-Josh Millan |
-| 2384 | 14 | Joseph Austin Prince |
+| 2383 | 14 | Patricia Meza |
+| 2384 | 14 | Giggly Towerer |
 | 2385 | 14 | Cool Splitter |
-| 2386 | 14 | Giggly Towerer |
+| 2386 | 14 | Joseph Austin Prince |
 | 2387 | 14 | John Sewell |
 | 2388 | 14 | Terri Beddard |
 | 2389 | 14 | Angelica Champlin |
@@ -2399,18 +2399,18 @@
 | 2391 | 14 | MiMi’26 |
 | 2392 | 13 | Sam Blinn |
 | 2393 | 13 | Jennifer Bell |
-| 2394 | 13 | Raven Hull |
-| 2395 | 13 | Nayapooh |
-| 2396 | 13 | Celeste Smith |
-| 2397 | 13 | Charles Chase |
-| 2398 | 13 | Dawn Marie Justice |
+| 2394 | 13 | Dawn Marie Justice |
+| 2395 | 13 | Raven Hull |
+| 2396 | 13 | Nayapooh |
+| 2397 | 13 | Celeste Smith |
+| 2398 | 13 | Charles Chase |
 | 2399 | 13 | Ryan Welcher |
-| 2400 | 12 | Bsancia |
-| 2401 | 12 | Funkykarebear |
-| 2402 | 12 | Elisha Mason |
-| 2403 | 12 | Stephanie Sadler |
-| 2404 | 12 | Lyndon Schaak |
-| 2405 | 12 | Kathy Arnold |
+| 2400 | 12 | Kathy Arnold |
+| 2401 | 12 | Lyndon Schaak |
+| 2402 | 12 | Funkykarebear |
+| 2403 | 12 | Elisha Mason |
+| 2404 | 12 | Bsancia |
+| 2405 | 12 | Stephanie Sadler |
 | 2406 | 12 | Kevin Santiago |
 | 2407 | 12 | Mariah Wells |
 | 2408 | 12 | Tajelasmom |

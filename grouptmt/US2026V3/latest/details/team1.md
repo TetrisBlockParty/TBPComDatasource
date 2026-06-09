@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:42:43 UTC
+# Standings for team1 as of 2026-06-09 20:43:21 UTC
 
 **Total Participants:** 2111
 
@@ -436,10 +436,10 @@
 | 428 | 308 | Darrel K Pemberton |
 | 429 | 307 | Crystal Cheresnowsky |
 | 430 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 431 | 303 | Guard Up |
-| 432 | 302 | Lisa Fletcher |
-| 433 | 302 | Yadira Salgado |
-| 434 | 302 | Alivia Dove |
+| 431 | 305 | Alivia Dove |
+| 432 | 303 | Guard Up |
+| 433 | 302 | Lisa Fletcher |
+| 434 | 302 | Yadira Salgado |
 | 435 | 301 | Earl Williams |
 | 436 | 300 | Malcolm Stanley |
 | 437 | 300 | Sara Meri |
@@ -862,11 +862,11 @@
 | 854 | 145 | Tito Divyn |
 | 855 | 144 | Witty Clear |
 | 856 | 144 | Ysma Simmons |
-| 857 | 144 | Bouncy Glide |
-| 858 | 144 | Batty B |
-| 859 | 144 | Hasty Pivoty |
-| 860 | 144 | Dapper Matchfit |
-| 861 | 142 | Chereese Harris |
+| 857 | 144 | Chereese Harris |
+| 858 | 144 | Bouncy Glide |
+| 859 | 144 | Batty B |
+| 860 | 144 | Hasty Pivoty |
+| 861 | 144 | Dapper Matchfit |
 | 862 | 142 | Trusi Rusi |
 | 863 | 142 | Jodie |
 | 864 | 142 | Desi Guerra |
