@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:44:43 UTC
+# Standings for team4 as of 2026-06-09 08:45:21 UTC
 
 **Total Participants:** 2088
 
@@ -426,15 +426,15 @@
 | 418 | 264 | Merritt Brandt |
 | 419 | 264 | Azahares Alonso |
 | 420 | 263 | Erik Clary |
-| 421 | 263 | Laurie Patrick |
-| 422 | 262 | Scrumptious |
-| 423 | 261 | Lee Ann Gibby |
-| 424 | 261 | Tricia Motika Cowan |
-| 425 | 260 | Sarah Montagne Forsberg |
-| 426 | 260 | Silly Risegrid |
-| 427 | 259 | Loopy Hitter |
-| 428 | 259 | Tiffany Smith |
-| 429 | 259 | Groovy Towerbuilder |
+| 421 | 263 | Groovy Towerbuilder |
+| 422 | 263 | Laurie Patrick |
+| 423 | 262 | Scrumptious |
+| 424 | 261 | Lee Ann Gibby |
+| 425 | 261 | Tricia Motika Cowan |
+| 426 | 260 | Sarah Montagne Forsberg |
+| 427 | 260 | Silly Risegrid |
+| 428 | 259 | Loopy Hitter |
+| 429 | 259 | Tiffany Smith |
 | 430 | 259 | Sandra Stark |
 | 431 | 259 | Kierra Evans |
 | 432 | 259 | Jessica Peyton |
@@ -883,51 +883,51 @@
 | 875 | 124 | Chad Finton |
 | 876 | 124 | Wynisha Johnson |
 | 877 | 124 | Nerdy Glider |
-| 878 | 123 | Ben Figueroa |
-| 879 | 123 | Conela Rouse Goldstein |
+| 878 | 123 | Conela Rouse Goldstein |
+| 879 | 123 | Ben Figueroa |
 | 880 | 123 | LaRue Tee |
 | 881 | 123 | Esmond Johnson IV |
 | 882 | 122 | Sadeha Simpson |
-| 883 | 122 | Vicente Bolaños Jr. |
-| 884 | 122 | JoJo Hutson |
-| 885 | 121 | Giggy Bridgepiece |
+| 883 | 122 | JoJo Hutson |
+| 884 | 122 | Vicente Bolaños Jr. |
+| 885 | 121 | Quiles Yaitza |
 | 886 | 121 | ButterfliesRFree |
-| 887 | 121 | Quiles Yaitza |
+| 887 | 121 | Giggy Bridgepiece |
 | 888 | 120 | Shelly Jackson |
-| 889 | 120 | Bouncy Clusterline |
-| 890 | 120 | Alexia Boston |
-| 891 | 120 | Quirky Fitblock |
-| 892 | 120 | Ern |
-| 893 | 120 | Giggy Splitter |
-| 894 | 120 | Ana Ruiz |
-| 895 | 120 | Wyatt Karren |
-| 896 | 120 | Sparky Rose |
-| 897 | 120 | Urplan |
+| 889 | 120 | Wyatt Karren |
+| 890 | 120 | Ana Ruiz |
+| 891 | 120 | Giggy Splitter |
+| 892 | 120 | Sparky Rose |
+| 893 | 120 | Urplan |
+| 894 | 120 | Bouncy Clusterline |
+| 895 | 120 | Alexia Boston |
+| 896 | 120 | Quirky Fitblock |
+| 897 | 120 | Ern |
 | 898 | 120 | Groovy Matchgrid |
-| 899 | 119 | Daffney Starr |
-| 900 | 119 | Melissa Wilson |
-| 901 | 119 | Amy Gutierrez |
-| 902 | 118 | Rin |
-| 903 | 118 | Daring Towerer |
-| 904 | 118 | EmBem |
-| 905 | 118 | Allrise99 |
-| 906 | 118 | Jazzy Rollout |
-| 907 | 118 | Jacqueline Arce |
-| 908 | 118 | Jennifer Naughton |
-| 909 | 118 | Misti Rich |
+| 899 | 119 | Melissa Wilson |
+| 900 | 119 | Amy Gutierrez |
+| 901 | 119 | Jazzy Rollout |
+| 902 | 119 | Daffney Starr |
+| 903 | 118 | EmBem |
+| 904 | 118 | Daring Towerer |
+| 905 | 118 | Rin |
+| 906 | 118 | Allrise99 |
+| 907 | 118 | Jennifer Naughton |
+| 908 | 118 | Misti Rich |
+| 909 | 118 | Jacqueline Arce |
 | 910 | 118 | Lisa Ferriero-Daudin |
 | 911 | 117 | Lilo |
-| 912 | 117 | Mrs Peabod |
-| 913 | 117 | Susan Mary Kelley |
-| 914 | 117 | Autumn Maher |
-| 915 | 117 | Gracey Po |
-| 916 | 117 | Christina Williams |
-| 917 | 117 | Leslie |
-| 918 | 117 | medicjessi |
-| 919 | 117 | Kay |
-| 920 | 117 | Melinda Roman |
-| 921 | 117 | Tod Jae |
-| 922 | 117 | Courtney Niichole |
+| 912 | 117 | Courtney Niichole |
+| 913 | 117 | Mrs Peabod |
+| 914 | 117 | Tod Jae |
+| 915 | 117 | Melinda Roman |
+| 916 | 117 | Kay |
+| 917 | 117 | medicjessi |
+| 918 | 117 | Leslie |
+| 919 | 117 | Christina Williams |
+| 920 | 117 | Gracey Po |
+| 921 | 117 | Autumn Maher |
+| 922 | 117 | Susan Mary Kelley |
 | 923 | 116 | Snappy Slice |
 | 924 | 116 | JP Chua |
 | 925 | 115 | Dinah Mccall |
