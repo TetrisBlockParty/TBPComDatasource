@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:38:43 UTC
+# Standings for team1 as of 2026-06-09 07:39:22 UTC
 
 **Total Participants:** 2012
 
@@ -383,54 +383,54 @@
 | 375 | 295 | Maribel Vasquez |
 | 376 | 295 | Derrius SeriousLee Burks |
 | 377 | 295 | Mafio SO |
-| 378 | 293 | Erin Sabol |
-| 379 | 293 | Tonya Lee Sanders |
+| 378 | 293 | Tonya Lee Sanders |
+| 379 | 293 | Erin Sabol |
 | 380 | 292 | Shameka Thrasher |
 | 381 | 292 | Alivia Dove |
 | 382 | 291 | Brian Taylor |
 | 383 | 291 | Melissa D. M. Hornsby |
 | 384 | 288 | akosua |
 | 385 | 288 | Lozuna |
-| 386 | 287 | Stephen Glaze |
-| 387 | 287 | Daniel Santana |
+| 386 | 287 | Daniel Santana |
+| 387 | 287 | Stephen Glaze |
 | 388 | 286 | De'Mear McKinney |
 | 389 | 286 | Lyn Reed |
 | 390 | 285 | Loopy Block |
 | 391 | 284 | Faith Armone |
 | 392 | 283 | izzybella |
-| 393 | 280 | Teri Marie Clayton |
-| 394 | 280 | Boldy Liner |
+| 393 | 280 | Erica Charlise |
+| 394 | 280 | Daddy |
 | 395 | 280 | Sara Meri |
-| 396 | 280 | Daddy |
-| 397 | 280 | Erica Charlise |
+| 396 | 280 | Boldy Liner |
+| 397 | 280 | Teri Marie Clayton |
 | 398 | 279 | Chandler Magee |
 | 399 | 278 | Cheri Robinson |
-| 400 | 278 | Shanaa Germany Crittenden |
-| 401 | 277 | Bambi Johnson |
-| 402 | 277 | Giggy Tower |
-| 403 | 276 | DaGuy |
-| 404 | 275 | NewEve |
+| 400 | 278 | CJ Robinson |
+| 401 | 278 | Shanaa Germany Crittenden |
+| 402 | 277 | Bambi Johnson |
+| 403 | 277 | Giggy Tower |
+| 404 | 276 | DaGuy |
 | 405 | 275 | Rachael R Gull |
 | 406 | 275 | Chris Sladoje |
-| 407 | 275 | Kelli Couture |
-| 408 | 275 | Tesiree Cray |
-| 409 | 275 | Falisa Bell |
-| 410 | 274 | 신재호 |
-| 411 | 274 | Shakmar |
-| 412 | 270 | Jean Regis |
-| 413 | 269 | Bambam |
+| 407 | 275 | Tesiree Cray |
+| 408 | 275 | Falisa Bell |
+| 409 | 275 | Kelli Couture |
+| 410 | 275 | NewEve |
+| 411 | 274 | 신재호 |
+| 412 | 274 | Shakmar |
+| 413 | 270 | Jean Regis |
 | 414 | 269 | Kristine Marie Palmer |
 | 415 | 269 | Aihpos |
-| 416 | 266 | Rebecca Jackson |
-| 417 | 265 | Jae Thompson-Tyus |
-| 418 | 264 | Boldy Matchbuilder |
-| 419 | 263 | CJ Robinson |
+| 416 | 269 | Bambam |
+| 417 | 266 | Rebecca Jackson |
+| 418 | 265 | Jae Thompson-Tyus |
+| 419 | 264 | Boldy Matchbuilder |
 | 420 | 262 | BabyCakes |
 | 421 | 261 | LaTonya Myers |
 | 422 | 260 | Alyssa Rae |
 | 423 | 260 | HS Arce |
-| 424 | 260 | Peppy Towerbuilder |
-| 425 | 260 | Deveda Williams |
+| 424 | 260 | Deveda Williams |
+| 425 | 260 | Peppy Towerbuilder |
 | 426 | 259 | Slinky Clearzone |
 | 427 | 259 | Stacy Nicole |
 | 428 | 258 | Kimberly Linares Hernandez |
