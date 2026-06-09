@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 09:10:45 UTC
+# Standings for team4 as of 2026-06-09 09:11:21 UTC
 
 **Total Participants:** 2088
 
@@ -211,8 +211,8 @@
 | 203 | 524 | Shocinda Sherwood |
 | 204 | 523 | Kelly Howland |
 | 205 | 520 | Jaci Marie |
-| 206 | 518 | Tyson Stroppel |
-| 207 | 516 | Maria Castillo |
+| 206 | 520 | Maria Castillo |
+| 207 | 518 | Tyson Stroppel |
 | 208 | 512 | Vanessa Sykes |
 | 209 | 510 | Addi JayKay |
 | 210 | 508 | Goofy Riser |
@@ -1141,97 +1141,97 @@
 | 1133 | 83 | Bubbly Shatter |
 | 1134 | 83 | Pap337 |
 | 1135 | 83 | Goofy Strike |
-| 1136 | 82 | crazy lazy |
-| 1137 | 82 | Cflixer |
-| 1138 | 82 | JuicyJay |
-| 1139 | 82 | EpicBarista |
-| 1140 | 82 | Brenda Mueller |
-| 1141 | 82 | Sara Cobb |
-| 1142 | 82 | aubz |
-| 1143 | 82 | Chris Norman |
-| 1144 | 82 | Giggly Gridzone |
+| 1136 | 82 | JuicyJay |
+| 1137 | 82 | crazy lazy |
+| 1138 | 82 | Giggly Gridzone |
+| 1139 | 82 | Brenda Mueller |
+| 1140 | 82 | Chris Norman |
+| 1141 | 82 | Cflixer |
+| 1142 | 82 | Sara Cobb |
+| 1143 | 82 | aubz |
+| 1144 | 82 | EpicBarista |
 | 1145 | 82 | Charity Thomas |
-| 1146 | 81 | Krushie |
-| 1147 | 81 | Cinnanin |
-| 1148 | 81 | Michelle Clark |
-| 1149 | 81 | Kimberly Mae Watkins |
-| 1150 | 81 | MsThick SrtLady Williams |
-| 1151 | 81 | Kristen Lester |
-| 1152 | 81 | Millie Hoskins |
-| 1153 | 81 | Buggy Julks |
-| 1154 | 81 | San |
-| 1155 | 80 | Marvin Mack |
-| 1156 | 80 | Keisha Petway |
-| 1157 | 80 | CM |
+| 1146 | 81 | Cinnanin |
+| 1147 | 81 | Michelle Clark |
+| 1148 | 81 | MsThick SrtLady Williams |
+| 1149 | 81 | San |
+| 1150 | 81 | Kristen Lester |
+| 1151 | 81 | Kimberly Mae Watkins |
+| 1152 | 81 | Krushie |
+| 1153 | 81 | Millie Hoskins |
+| 1154 | 81 | Buggy Julks |
+| 1155 | 80 | CM |
+| 1156 | 80 | Marvin Mack |
+| 1157 | 80 | Melissa Derby Rood |
 | 1158 | 80 | Tracey Hudspath |
-| 1159 | 80 | Donya' Johnson |
-| 1160 | 80 | Melissa Derby Rood |
-| 1161 | 80 | Hasty Slamdrop |
+| 1159 | 80 | Hasty Slamdrop |
+| 1160 | 80 | Donya' Johnson |
+| 1161 | 80 | Keisha Petway |
 | 1162 | 80 | Gualberto Ramirez |
 | 1163 | 80 | Yam My |
-| 1164 | 80 | Tommy Thomas |
-| 1165 | 80 | Bumpy Morris |
-| 1166 | 80 | Melissa Robinson |
-| 1167 | 80 | Pebbles Gonzalez |
-| 1168 | 80 | MamaBear3 |
+| 1164 | 80 | Melissa Robinson |
+| 1165 | 80 | Pebbles Gonzalez |
+| 1166 | 80 | MamaBear3 |
+| 1167 | 80 | Tommy Thomas |
+| 1168 | 80 | Bumpy Morris |
 | 1169 | 80 | Swanky Matchfit |
-| 1170 | 79 | Goddatbat |
-| 1171 | 79 | Jenny Torres |
-| 1172 | 79 | CRsLady |
-| 1173 | 79 | Joshua Powers |
-| 1174 | 79 | Mone DyTorrion Zyan Lotts |
-| 1175 | 79 | Lindsey DeRosa |
-| 1176 | 79 | Joe Win |
-| 1177 | 79 | James Moore |
-| 1178 | 79 | Blessedmama |
-| 1179 | 79 | Amber Torres |
-| 1180 | 79 | Alicia |
-| 1181 | 78 | Doris Wastak |
-| 1182 | 78 | Spicy Gridder |
-| 1183 | 78 | Zappy Matchgrid |
+| 1170 | 79 | Jenny Torres |
+| 1171 | 79 | Amber Torres |
+| 1172 | 79 | Blessedmama |
+| 1173 | 79 | James Moore |
+| 1174 | 79 | Alicia |
+| 1175 | 79 | Joe Win |
+| 1176 | 79 | CRsLady |
+| 1177 | 79 | Joshua Powers |
+| 1178 | 79 | Mone DyTorrion Zyan Lotts |
+| 1179 | 79 | Lindsey DeRosa |
+| 1180 | 79 | Goddatbat |
+| 1181 | 78 | Zappy Matchgrid |
+| 1182 | 78 | Doris Wastak |
+| 1183 | 78 | Vergie Michael |
 | 1184 | 78 | Christopher Lindsey |
-| 1185 | 78 | Jade Alley |
-| 1186 | 78 | Jacklyn Martinez |
-| 1187 | 78 | Vergie Michael |
-| 1188 | 78 | Ja'Net Riley |
+| 1185 | 78 | Jacklyn Martinez |
+| 1186 | 78 | Jade Alley |
+| 1187 | 78 | Ja'Net Riley |
+| 1188 | 78 | Spicy Gridder |
 | 1189 | 78 | AVA |
-| 1190 | 77 | Monte Smith |
-| 1191 | 77 | Snippy Fitblock |
+| 1190 | 77 | Barbara Mays |
+| 1191 | 77 | Monte Smith |
 | 1192 | 77 | Tray Day |
-| 1193 | 77 | Barbara Mays |
-| 1194 | 77 | Purple Queen |
-| 1195 | 76 | Adi Patterson |
+| 1193 | 77 | Purple Queen |
+| 1194 | 77 | Snippy Fitblock |
+| 1195 | 76 | Courtney Miller |
 | 1196 | 76 | Lashae |
-| 1197 | 76 | Ksawn Collymore-bey Collymore-bey |
-| 1198 | 76 | Courtney Miller |
-| 1199 | 76 | Brandy Martin-Lowery |
-| 1200 | 76 | Glitzy Rotate |
-| 1201 | 76 | Jillian Marie |
-| 1202 | 75 | Marco A. Sandoval |
-| 1203 | 75 | Mighty Spinfit |
-| 1204 | 75 | ŁųŁų |
-| 1205 | 75 | Gary Moore |
-| 1206 | 75 | Jeremy Fisher |
-| 1207 | 75 | Kay |
-| 1208 | 75 | h_chloe10 |
-| 1209 | 74 | Chirpy Corner |
-| 1210 | 74 | Katherine Stec |
-| 1211 | 74 | Kristie McFarland |
-| 1212 | 74 | Shane Tate |
+| 1197 | 76 | Jillian Marie |
+| 1198 | 76 | Ksawn Collymore-bey Collymore-bey |
+| 1199 | 76 | Adi Patterson |
+| 1200 | 76 | Brandy Martin-Lowery |
+| 1201 | 76 | Glitzy Rotate |
+| 1202 | 75 | h_chloe10 |
+| 1203 | 75 | Jeremy Fisher |
+| 1204 | 75 | Mighty Spinfit |
+| 1205 | 75 | Kay |
+| 1206 | 75 | Lizxxx |
+| 1207 | 75 | ŁųŁų |
+| 1208 | 75 | Gary Moore |
+| 1209 | 75 | Marco A. Sandoval |
+| 1210 | 74 | Donna Howard |
+| 1211 | 74 | Katherine Stec |
+| 1212 | 74 | Danielle Porter |
 | 1213 | 74 | Brittany |
-| 1214 | 74 | Danielle Porter |
-| 1215 | 74 | Donna Howard |
+| 1214 | 74 | Kristie McFarland |
+| 1215 | 74 | Shane Tate |
 | 1216 | 74 | David Kirschner |
-| 1217 | 73 | Jacqueline Couillard Jaeger |
-| 1218 | 73 | Yseoj M. Zurc |
-| 1219 | 73 | Bo Hagan |
-| 1220 | 72 | Bridget Reilly |
-| 1221 | 72 | Martha Fisher |
-| 1222 | 72 | Kassey M. Clark |
-| 1223 | 72 | Clever Linkfall |
-| 1224 | 71 | Bouncy Blockclear |
-| 1225 | 71 | Hyper Snaplink |
-| 1226 | 71 | Lizxxx |
+| 1217 | 74 | Chirpy Corner |
+| 1218 | 73 | Bo Hagan |
+| 1219 | 73 | Jacqueline Couillard Jaeger |
+| 1220 | 73 | Yseoj M. Zurc |
+| 1221 | 72 | Bridget Reilly |
+| 1222 | 72 | Martha Fisher |
+| 1223 | 72 | Kassey M. Clark |
+| 1224 | 72 | Clever Linkfall |
+| 1225 | 71 | Bouncy Blockclear |
+| 1226 | 71 | Hyper Snaplink |
 | 1227 | 71 | ImagineKaijus |
 | 1228 | 71 | Monique Kitzmiller |
 | 1229 | 71 | Sydney Taylor Sileno |
