@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 18:10:44 UTC
+# Standings for team2 as of 2026-06-09 18:11:22 UTC
 
 **Total Participants:** 2544
 
@@ -25,7 +25,7 @@
 | 17 | 7546 | Tom Badgley |
 | 18 | 7464 | Andre Love |
 | 19 | 7184 | Renee Weedling |
-| 20 | 7078 | Dapper Rollout |
+| 20 | 7081 | Dapper Rollout |
 | 21 | 7038 | Kathleen M Cox |
 | 22 | 6932 | Christina Jambard Sampier |
 | 23 | 6707 | Bea Bee |
@@ -55,7 +55,7 @@
 | 47 | 3722 | Charles Varca |
 | 48 | 3633 | Aubree Richard |
 | 49 | 3514 | Traci Elizabeth |
-| 50 | 3352 | Ashlea McBlaine |
+| 50 | 3502 | Ashlea McBlaine |
 | 51 | 3309 | Anthony Lilley |
 | 52 | 3304 | Betty Barrett |
 | 53 | 3302 | Charley Bedford |
@@ -163,11 +163,11 @@
 | 155 | 917 | Leigh Ann |
 | 156 | 916 | Loopy Cascadepiece |
 | 157 | 912 | Havik Whitfield |
-| 158 | 904 | Spicy Risegrid |
-| 159 | 899 | Marie Luciano |
-| 160 | 887 | Amber Wolf |
-| 161 | 869 | Snappy Blockbuilder |
-| 162 | 866 | Sam |
+| 158 | 909 | Snappy Blockbuilder |
+| 159 | 904 | Spicy Risegrid |
+| 160 | 899 | Marie Luciano |
+| 161 | 887 | Amber Wolf |
+| 162 | 886 | Sam |
 | 163 | 858 | Giggly Wipepiece |
 | 164 | 854 | LaWanda Powell |
 | 165 | 849 | Brandi Thompson |
@@ -1109,17 +1109,17 @@
 | 1101 | 130 | Desia Walker |
 | 1102 | 129 | Susan Bosell |
 | 1103 | 129 | Jaimie Waybill |
-| 1104 | 129 | jme |
-| 1105 | 129 | Michelle Feliciano |
+| 1104 | 129 | Michelle Feliciano |
+| 1105 | 129 | jme |
 | 1106 | 129 | Armando Sabedra |
 | 1107 | 129 | Cuca Perez |
 | 1108 | 129 | Lively Twisterfit |
 | 1109 | 129 | Clever Linkbuilder |
 | 1110 | 127 | Angelique Matzke Starns |
 | 1111 | 127 | Jason Janssen |
-| 1112 | 126 | Toni Tortorici Humphryes |
-| 1113 | 126 | Beth Engberg |
-| 1114 | 126 | Cindy Wellman |
+| 1112 | 126 | Cindy Wellman |
+| 1113 | 126 | Toni Tortorici Humphryes |
+| 1114 | 126 | Beth Engberg |
 | 1115 | 126 | Signerlisa |
 | 1116 | 125 | Nicole Treadway |
 | 1117 | 125 | Sandra Pursell |
@@ -1127,24 +1127,24 @@
 | 1119 | 125 | Wendy Morrison |
 | 1120 | 125 | grey panther |
 | 1121 | 125 | Jessica Gayle Sears |
-| 1122 | 124 | Blocker |
-| 1123 | 124 | Rochelle O'Loughlin |
-| 1124 | 124 | Madbull |
-| 1125 | 124 | Heather Nicole |
-| 1126 | 124 | Spicy Enchilada |
-| 1127 | 124 | Kassie D Harmon |
+| 1122 | 124 | Rochelle O'Loughlin |
+| 1123 | 124 | Spicy Enchilada |
+| 1124 | 124 | Heather Nicole |
+| 1125 | 124 | Madbull |
+| 1126 | 124 | Kassie D Harmon |
+| 1127 | 124 | Blocker |
 | 1128 | 124 | Purpleroyalty11 |
 | 1129 | 123 | sampson |
 | 1130 | 123 | Jolly Builderpiece |
 | 1131 | 123 | Kawana Nesbitt |
-| 1132 | 123 | Frothy Faller |
+| 1132 | 123 | Reggie Ellerbe |
 | 1133 | 123 | Loony Clearpiece |
-| 1134 | 123 | Reggie Ellerbe |
-| 1135 | 122 | Carlee Becher |
-| 1136 | 122 | Helen Townsend |
-| 1137 | 122 | Just Me |
-| 1138 | 122 | Greenbean |
-| 1139 | 122 | Cody Bohannan |
+| 1134 | 123 | Frothy Faller |
+| 1135 | 122 | Greenbean |
+| 1136 | 122 | Cody Bohannan |
+| 1137 | 122 | Carlee Becher |
+| 1138 | 122 | Helen Townsend |
+| 1139 | 122 | Just Me |
 | 1140 | 122 | Jenna Thorn |
 | 1141 | 122 | fancypants |
 | 1142 | 122 | Kay Newcomb |
@@ -1153,55 +1153,55 @@
 | 1145 | 121 | Michael James |
 | 1146 | 121 | Stacey Loretta Wallace |
 | 1147 | 121 | Squirrel |
-| 1148 | 120 | Jenny Bishop |
-| 1149 | 120 | Tanya Goodwin |
-| 1150 | 120 | Amanda Kennedy |
-| 1151 | 120 | Anna Chance |
-| 1152 | 120 | Sltwtrcndrla |
-| 1153 | 120 | Amanda Gann |
-| 1154 | 120 | Patty Sparkman |
+| 1148 | 121 | Shannon Vanlester |
+| 1149 | 120 | Shannon D. Turk |
+| 1150 | 120 | Tanya Goodwin |
+| 1151 | 120 | Alice Petterborg Barberich |
+| 1152 | 120 | Amanda Gann |
+| 1153 | 120 | Jenny Bishop |
+| 1154 | 120 | Ava |
 | 1155 | 120 | Debbie Davis |
-| 1156 | 120 | Ava |
-| 1157 | 120 | Shannon D. Turk |
-| 1158 | 120 | Alice Petterborg Barberich |
-| 1159 | 120 | Michelle Brown |
-| 1160 | 120 | Cheryl Schmid |
+| 1156 | 120 | Patty Sparkman |
+| 1157 | 120 | Anna Chance |
+| 1158 | 120 | Sltwtrcndrla |
+| 1159 | 120 | Amanda Kennedy |
+| 1160 | 120 | Michelle Brown |
 | 1161 | 120 | Lori Rose |
 | 1162 | 120 | Deena-Neal Peryer |
-| 1163 | 120 | BB |
-| 1164 | 120 | Laura Turner |
-| 1165 | 120 | Glowing Earthy Embers |
-| 1166 | 120 | Charith Lorelle Watson |
-| 1167 | 119 | Michael Delozier |
-| 1168 | 119 | Mario Hillman |
-| 1169 | 119 | Lori Yelvington Cain |
-| 1170 | 119 | Megan McDevitt |
+| 1163 | 120 | Cheryl Schmid |
+| 1164 | 120 | BB |
+| 1165 | 120 | Laura Turner |
+| 1166 | 120 | Glowing Earthy Embers |
+| 1167 | 120 | Charith Lorelle Watson |
+| 1168 | 119 | Michael Delozier |
+| 1169 | 119 | Mario Hillman |
+| 1170 | 119 | Loopy Roll |
 | 1171 | 119 | Kjsranch |
-| 1172 | 119 | Jolly Balanceblock |
-| 1173 | 119 | Meagan Thompson |
-| 1174 | 119 | Loopy Roll |
-| 1175 | 118 | Vanessa King |
-| 1176 | 118 | Shannon Vanlester |
-| 1177 | 118 | Raven |
+| 1172 | 119 | Meagan Thompson |
+| 1173 | 119 | Jolly Balanceblock |
+| 1174 | 119 | Lori Yelvington Cain |
+| 1175 | 119 | Megan McDevitt |
+| 1176 | 118 | Anita Blackshear |
+| 1177 | 118 | Vanessa King |
 | 1178 | 118 | Jeannine Murphy |
-| 1179 | 118 | Anita Blackshear |
+| 1179 | 118 | Raven |
 | 1180 | 118 | Brian Little |
 | 1181 | 118 | Lacie B |
 | 1182 | 118 | Gino Positano |
 | 1183 | 117 | Tiffany Fitch |
 | 1184 | 117 | Jessica Spivey Cooper |
 | 1185 | 117 | Jack |
-| 1186 | 117 | Christina Whitehead |
+| 1186 | 117 | Britnee M Karg |
 | 1187 | 117 | C.L. Deslongchamp |
-| 1188 | 117 | Britnee M Karg |
-| 1189 | 116 | ASL |
+| 1188 | 117 | Christina Whitehead |
+| 1189 | 116 | Jill Bobst Marple |
 | 1190 | 116 | Trisha Schneider |
-| 1191 | 116 | Tish |
-| 1192 | 116 | Giggy Dropzone |
-| 1193 | 116 | Sandy Molina |
-| 1194 | 116 | Jill Bobst Marple |
-| 1195 | 116 | Catalina Castro |
-| 1196 | 116 | Bunny Bt |
+| 1191 | 116 | Giggy Dropzone |
+| 1192 | 116 | ASL |
+| 1193 | 116 | Catalina Castro |
+| 1194 | 116 | Tish |
+| 1195 | 116 | Bunny Bt |
+| 1196 | 116 | Sandy Molina |
 | 1197 | 115 | STARFIRE |
 | 1198 | 115 | Edward Conyers |
 | 1199 | 115 | Doris Bonin |
@@ -1210,44 +1210,44 @@
 | 1202 | 115 | Goofy Bridger |
 | 1203 | 114 | Twisty Snapmatch |
 | 1204 | 114 | Mona Wagner |
-| 1205 | 114 | Samantha Lewis |
-| 1206 | 114 | Shannon Miller- Cooley |
-| 1207 | 114 | Kayla Faulkiner |
+| 1205 | 114 | Kayla Faulkiner |
+| 1206 | 114 | Samantha Lewis |
+| 1207 | 114 | Shannon Miller- Cooley |
 | 1208 | 113 | Randy Taylor |
-| 1209 | 113 | DNice |
-| 1210 | 113 | Wood |
+| 1209 | 113 | Wood |
+| 1210 | 113 | DNice |
 | 1211 | 113 | Rachel Huber |
 | 1212 | 112 | James Calhoun |
 | 1213 | 112 | Kylee Pruitt |
 | 1214 | 112 | Arik DiLorenzo |
-| 1215 | 112 | Yuhh |
-| 1216 | 112 | Cranky Zonebuilder |
-| 1217 | 111 | Nikki Layman |
+| 1215 | 112 | Cranky Zonebuilder |
+| 1216 | 112 | Yuhh |
+| 1217 | 111 | Tetrismastrr |
 | 1218 | 111 | Jollygirl |
-| 1219 | 111 | Thomas Chris |
-| 1220 | 111 | Bonez |
-| 1221 | 111 | BikerBorn BikerBred |
-| 1222 | 111 | Jennifer Risdell Wilson |
-| 1223 | 111 | Tetrismastrr |
+| 1219 | 111 | Jennifer Risdell Wilson |
+| 1220 | 111 | Thomas Chris |
+| 1221 | 111 | Nikki Layman |
+| 1222 | 111 | Bonez |
+| 1223 | 111 | BikerBorn BikerBred |
 | 1224 | 111 | Linzy Ratliff |
 | 1225 | 110 | Lesley Stoeckle |
 | 1226 | 110 | Michelle Fry-Cash |
 | 1227 | 110 | Rey Huber |
 | 1228 | 110 | Stephen Gillam |
-| 1229 | 110 | Andrea Spinelli |
-| 1230 | 110 | Cool Balancer |
-| 1231 | 110 | Susan Moyer |
-| 1232 | 110 | Christina German |
-| 1233 | 110 | Christina Reid |
-| 1234 | 110 | Twisty Matcher |
-| 1235 | 109 | Helen Chao |
-| 1236 | 109 | Dee |
+| 1229 | 110 | Christina Reid |
+| 1230 | 110 | Andrea Spinelli |
+| 1231 | 110 | Twisty Matcher |
+| 1232 | 110 | Cool Balancer |
+| 1233 | 110 | Christina German |
+| 1234 | 110 | Susan Moyer |
+| 1235 | 109 | Dee |
+| 1236 | 109 | Helen Chao |
 | 1237 | 109 | Sandra Rotton Bragg |
 | 1238 | 108 | Armordguy |
 | 1239 | 108 | Lively Liner |
 | 1240 | 108 | Peppy Piececlear |
-| 1241 | 108 | Chatty |
-| 1242 | 108 | build master |
+| 1241 | 108 | build master |
+| 1242 | 108 | Chatty |
 | 1243 | 108 | Swanky Twister |
 | 1244 | 108 | Brooke Marie Fox |
 | 1245 | 107 | Giggy Linkgrid |
