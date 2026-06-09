@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:20:43 UTC
+# Standings for team1 as of 2026-06-09 11:21:21 UTC
 
 **Total Participants:** 2037
 
@@ -702,43 +702,43 @@
 | 694 | 162 | Peppy Wipeblock |
 | 695 | 162 | Sherri Keys |
 | 696 | 162 | Speedy Stacky |
-| 697 | 160 | Cheeky Twistpiece |
-| 698 | 160 | Spotlight |
+| 697 | 161 | Kim Holzmiller |
+| 698 | 160 | Cheeky Twistpiece |
 | 699 | 160 | Kesha Brady |
-| 700 | 160 | Duncan Timothy |
-| 701 | 160 | Donnie Withthebody |
-| 702 | 159 | Frances Davis |
-| 703 | 159 | TY Newme Batts |
-| 704 | 159 | Yvette McGee |
-| 705 | 159 | Tee Spinks |
-| 706 | 159 | Naee Bee |
-| 707 | 159 | Pinky Pink |
-| 708 | 159 | Darrel Pemberton |
-| 709 | 159 | Carla |
-| 710 | 158 | Seddrick |
+| 700 | 160 | Spotlight |
+| 701 | 160 | Duncan Timothy |
+| 702 | 160 | Donnie Withthebody |
+| 703 | 159 | Frances Davis |
+| 704 | 159 | TY Newme Batts |
+| 705 | 159 | Yvette McGee |
+| 706 | 159 | Tee Spinks |
+| 707 | 159 | Naee Bee |
+| 708 | 159 | Pinky Pink |
+| 709 | 159 | Darrel Pemberton |
+| 710 | 159 | Carla |
 | 711 | 158 | TotoCherue |
-| 712 | 158 | P C |
-| 713 | 158 | LAdYPOLy |
-| 714 | 158 | Chloe Bankz |
-| 715 | 158 | Chris Watson Draper |
-| 716 | 158 | Meow Meow |
-| 717 | 158 | Heru Ogun Yeshua EL |
-| 718 | 157 | Zany Breaker |
-| 719 | 157 | Lilly Brown |
-| 720 | 157 | Chirpy Buildgrid |
-| 721 | 157 | Tony Pizzas |
-| 722 | 156 | Kizzy Clark |
-| 723 | 156 | Karen Denen |
-| 724 | 156 | LaSharmeika Fancher |
+| 712 | 158 | Heru Ogun Yeshua EL |
+| 713 | 158 | Chloe Bankz |
+| 714 | 158 | P C |
+| 715 | 158 | LAdYPOLy |
+| 716 | 158 | Chris Watson Draper |
+| 717 | 158 | Meow Meow |
+| 718 | 158 | Seddrick |
+| 719 | 157 | Chirpy Buildgrid |
+| 720 | 157 | Tony Pizzas |
+| 721 | 157 | Zany Breaker |
+| 722 | 157 | Lilly Brown |
+| 723 | 156 | LaSharmeika Fancher |
+| 724 | 156 | Kizzy Clark |
 | 725 | 156 | Sara |
 | 726 | 156 | Melissa Hershberger |
-| 727 | 155 | Angie Smith |
+| 727 | 156 | Karen Denen |
 | 728 | 155 | MzJuice Box |
-| 729 | 155 | Poppy Smasher |
-| 730 | 154 | Octavia Bsb Johnson |
-| 731 | 154 | Dizzy Gridmatch |
-| 732 | 154 | Kp |
-| 733 | 154 | Kim Holzmiller |
+| 729 | 155 | Angie Smith |
+| 730 | 155 | Poppy Smasher |
+| 731 | 154 | Kp |
+| 732 | 154 | Dizzy Gridmatch |
+| 733 | 154 | Octavia Bsb Johnson |
 | 734 | 154 | TRUBBLE45 |
 | 735 | 154 | Glitzy Clusterer |
 | 736 | 153 | Cheery Swiper |
@@ -748,30 +748,30 @@
 | 740 | 151 | Pj Rojas |
 | 741 | 151 | Terrie |
 | 742 | 151 | Shanell Thomas |
-| 743 | 150 | Taneka Howell |
-| 744 | 150 | Antoinette Jones |
-| 745 | 150 | Kanary Karotz |
-| 746 | 150 | Marshall Davis |
+| 743 | 150 | Marshall Davis |
+| 744 | 150 | Taneka Howell |
+| 745 | 150 | Antoinette Jones |
+| 746 | 150 | Kanary Karotz |
 | 747 | 149 | Anastasia |
 | 748 | 149 | Andra Ward |
 | 749 | 149 | Stephanie Ellis |
-| 750 | 148 | Marsha Earl |
+| 750 | 148 | Yashicha Hertzock |
 | 751 | 148 | Cauiasia DeJ'ae |
-| 752 | 148 | Zany Patternblock |
-| 753 | 148 | GetDaOPPS |
-| 754 | 148 | Meeee |
-| 755 | 148 | Marbama |
-| 756 | 148 | Yashicha Hertzock |
-| 757 | 147 | Chill Linkroll |
-| 758 | 147 | Sabrina Wilkerson |
-| 759 | 147 | Charika Marie Bergmann |
+| 752 | 148 | Marsha Earl |
+| 753 | 148 | Zany Patternblock |
+| 754 | 148 | GetDaOPPS |
+| 755 | 148 | Meeee |
+| 756 | 148 | Marbama |
+| 757 | 147 | Charika Marie Bergmann |
+| 758 | 147 | Chill Linkroll |
+| 759 | 147 | Christopher L Crites |
 | 760 | 147 | Kiki |
-| 761 | 147 | Christopher L Crites |
-| 762 | 146 | Sallie Sanborn |
-| 763 | 146 | Paul Doty |
-| 764 | 146 | Jojo M |
-| 765 | 146 | Guard Up |
-| 766 | 146 | Rieshelda Marie White |
+| 761 | 147 | Sabrina Wilkerson |
+| 762 | 146 | Guard Up |
+| 763 | 146 | Sallie Sanborn |
+| 764 | 146 | Rieshelda Marie White |
+| 765 | 146 | Paul Doty |
+| 766 | 146 | Jojo M |
 | 767 | 145 | Hyedie Badie |
 | 768 | 145 | Nekka |
 | 769 | 145 | tg |
