@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 15:34:45 UTC
+# Standings for team4 as of 2026-06-09 15:35:22 UTC
 
 **Total Participants:** 2125
 
@@ -259,11 +259,11 @@
 | 251 | 469 | Samara Garcia |
 | 252 | 467 | Pepper |
 | 253 | 467 | Cyndi Najar |
-| 254 | 466 | Randy M Hatch |
-| 255 | 463 | Chirpy Snapclear |
-| 256 | 462 | BusterBear56 |
-| 257 | 461 | matt |
-| 258 | 461 | Tammy June |
+| 254 | 466 | Tammy June |
+| 255 | 466 | Randy M Hatch |
+| 256 | 463 | Chirpy Snapclear |
+| 257 | 462 | BusterBear56 |
+| 258 | 461 | matt |
 | 259 | 461 | Kayla Fuentes |
 | 260 | 460 | Celina DiBastiani |
 | 261 | 460 | Wanda Simmons |
@@ -513,17 +513,17 @@
 | 505 | 246 | Brandi Sauer |
 | 506 | 246 | EpicWizard |
 | 507 | 246 | Kaps |
-| 508 | 245 | Katy |
-| 509 | 245 | Candiecane324 |
-| 510 | 244 | DrC |
-| 511 | 244 | Lisa lisa |
-| 512 | 243 | ariel |
-| 513 | 242 | Nicole Colby McCloskey |
-| 514 | 241 | Tasha Suzanne Prisbrey |
-| 515 | 241 | Cindy |
-| 516 | 240 | Alice Eisnor-Martens |
+| 508 | 245 | Joshua Garner |
+| 509 | 245 | Katy |
+| 510 | 245 | Candiecane324 |
+| 511 | 244 | DrC |
+| 512 | 244 | Lisa lisa |
+| 513 | 243 | ariel |
+| 514 | 242 | Nicole Colby McCloskey |
+| 515 | 241 | Tasha Suzanne Prisbrey |
+| 516 | 241 | Cindy |
 | 517 | 240 | Lady Dolphin |
-| 518 | 240 | Joshua Garner |
+| 518 | 240 | Alice Eisnor-Martens |
 | 519 | 240 | Keke Johnson |
 | 520 | 239 | Lul Babie |
 | 521 | 239 | Elissa Danks |
@@ -580,30 +580,30 @@
 | 572 | 220 | Tesa Mike Jenkins |
 | 573 | 220 | Jimmy Clark |
 | 574 | 219 | Dena Lynn Rogers |
-| 575 | 219 | Funky Twistpiece |
-| 576 | 219 | Miss Beast |
-| 577 | 218 | Diana Fernandez |
-| 578 | 218 | Mint Marquez |
-| 579 | 217 | Sally Hiraldo |
-| 580 | 216 | Travis McKinnon |
-| 581 | 215 | ShaniP |
-| 582 | 215 | Lovetetris |
-| 583 | 215 | FitMeDiva |
-| 584 | 215 | Christina Barry |
-| 585 | 215 | Kimberly Ann |
-| 586 | 214 | Linda |
-| 587 | 214 | crobb77 |
-| 588 | 214 | yourmomz |
-| 589 | 213 | Dolores Falco |
-| 590 | 213 | Cari Underwood |
+| 575 | 219 | Anthony Edwards |
+| 576 | 219 | Funky Twistpiece |
+| 577 | 219 | Miss Beast |
+| 578 | 218 | Diana Fernandez |
+| 579 | 218 | Mint Marquez |
+| 580 | 217 | Sally Hiraldo |
+| 581 | 216 | Travis McKinnon |
+| 582 | 215 | ShaniP |
+| 583 | 215 | Lovetetris |
+| 584 | 215 | FitMeDiva |
+| 585 | 215 | Christina Barry |
+| 586 | 215 | Kimberly Ann |
+| 587 | 214 | Linda |
+| 588 | 214 | crobb77 |
+| 589 | 214 | yourmomz |
+| 590 | 213 | Dolores Falco |
 | 591 | 213 | All knowing |
-| 592 | 213 | Tamara Gay |
-| 593 | 212 | Suzanne North |
+| 592 | 213 | Cari Underwood |
+| 593 | 213 | Tamara Gay |
 | 594 | 212 | Spicy Peach |
-| 595 | 212 | Momma Boss |
-| 596 | 212 | Reggie Laserna Clement |
-| 597 | 210 | Sfalcon1. |
-| 598 | 209 | Anthony Edwards |
+| 595 | 212 | Suzanne North |
+| 596 | 212 | Momma Boss |
+| 597 | 212 | Reggie Laserna Clement |
+| 598 | 210 | Sfalcon1. |
 | 599 | 209 | Ashley Mcdonald |
 | 600 | 209 | Kandylands |
 | 601 | 208 | PsyDMom |
@@ -1057,24 +1057,24 @@
 | 1049 | 105 | Patsy |
 | 1050 | 105 | Jailen Harper |
 | 1051 | 105 | Kelly |
-| 1052 | 105 | Snappy Fill |
-| 1053 | 104 | Mandy Grant |
-| 1054 | 104 | Chris Somsen |
-| 1055 | 104 | taya |
-| 1056 | 104 | Michael J A Moore |
-| 1057 | 104 | Dsay Yates |
-| 1058 | 104 | Chabetta |
-| 1059 | 103 | ShortStackz Jones |
-| 1060 | 103 | Archer Family Mayhem |
-| 1061 | 103 | Hasty Snapmatch |
-| 1062 | 103 | Donny Keets |
-| 1063 | 103 | Hayze |
-| 1064 | 103 | Mari Isaac |
-| 1065 | 102 | gothicmisery |
-| 1066 | 102 | Monkey |
-| 1067 | 102 | Stacey Heartful |
-| 1068 | 102 | Swanky Matchfit |
-| 1069 | 102 | Darren Miguel |
+| 1052 | 105 | Darren Miguel |
+| 1053 | 105 | Snappy Fill |
+| 1054 | 104 | Mandy Grant |
+| 1055 | 104 | Chris Somsen |
+| 1056 | 104 | taya |
+| 1057 | 104 | Michael J A Moore |
+| 1058 | 104 | Dsay Yates |
+| 1059 | 104 | Chabetta |
+| 1060 | 103 | ShortStackz Jones |
+| 1061 | 103 | Archer Family Mayhem |
+| 1062 | 103 | Hasty Snapmatch |
+| 1063 | 103 | Donny Keets |
+| 1064 | 103 | Hayze |
+| 1065 | 103 | Mari Isaac |
+| 1066 | 102 | gothicmisery |
+| 1067 | 102 | Monkey |
+| 1068 | 102 | Stacey Heartful |
+| 1069 | 102 | Swanky Matchfit |
 | 1070 | 102 | Fancy Curvetile |
 | 1071 | 102 | Frilly Riserpiece |
 | 1072 | 101 | Scot Matthew Bergdorf |
@@ -1255,31 +1255,31 @@
 | 1247 | 75 | h_chloe10 |
 | 1248 | 75 | ŁųŁų |
 | 1249 | 75 | Gary Moore |
-| 1250 | 75 | Marco A. Sandoval |
-| 1251 | 75 | Cheeky Linkpiece |
+| 1250 | 75 | Cheeky Linkpiece |
+| 1251 | 75 | Marco A. Sandoval |
 | 1252 | 75 | Jeremy Fisher |
 | 1253 | 74 | Brittany |
 | 1254 | 74 | Shane Tate |
-| 1255 | 74 | Chirpy Corner |
-| 1256 | 74 | David Kirschner |
-| 1257 | 74 | Danielle Porter |
-| 1258 | 74 | Katherine Stec |
-| 1259 | 74 | Kristie McFarland |
-| 1260 | 73 | Sprout |
+| 1255 | 74 | Sprout |
+| 1256 | 74 | Chirpy Corner |
+| 1257 | 74 | David Kirschner |
+| 1258 | 74 | Danielle Porter |
+| 1259 | 74 | Katherine Stec |
+| 1260 | 74 | Kristie McFarland |
 | 1261 | 73 | Toyag |
 | 1262 | 73 | Jacqueline Couillard Jaeger |
-| 1263 | 73 | sleepy head |
-| 1264 | 73 | Yseoj M. Zurc |
-| 1265 | 73 | Bo Hagan |
+| 1263 | 73 | Bo Hagan |
+| 1264 | 73 | sleepy head |
+| 1265 | 73 | Yseoj M. Zurc |
 | 1266 | 72 | Kassey M. Clark |
 | 1267 | 72 | Bridget Reilly |
 | 1268 | 72 | Clever Linkfall |
 | 1269 | 72 | Martha Fisher |
 | 1270 | 71 | Hyper Snaplink |
 | 1271 | 71 | Sydney Taylor Sileno |
-| 1272 | 71 | ImagineKaijus |
-| 1273 | 71 | Danielle Sulano |
-| 1274 | 71 | Jessica Armistead |
+| 1272 | 71 | Danielle Sulano |
+| 1273 | 71 | Jessica Armistead |
+| 1274 | 71 | ImagineKaijus |
 | 1275 | 71 | Bouncy Blockclear |
 | 1276 | 71 | Monique Kitzmiller |
 | 1277 | 70 | Uh Lesh Uh |
