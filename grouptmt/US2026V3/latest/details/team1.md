@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:20:46 UTC
+# Standings for team1 as of 2026-06-09 09:21:22 UTC
 
 **Total Participants:** 2025
 
@@ -15,7 +15,7 @@
 | 7 | 9543 | Charnay Peacock |
 | 8 | 9365 | Songne Arif |
 | 9 | 8938 | Debbie Carswell |
-| 10 | 8854 | Dyane Leah Ware |
+| 10 | 8881 | Dyane Leah Ware |
 | 11 | 8746 | Tyeina Johnson |
 | 12 | 8140 | Timothy Robert |
 | 13 | 7896 | Tracy Cohen |
@@ -211,8 +211,8 @@
 | 203 | 553 | Sharon Cail |
 | 204 | 552 | Ty Øtg |
 | 205 | 549 | Shell Lewis |
-| 206 | 546 | Po Marley |
-| 207 | 538 | xXEKUNXx |
+| 206 | 548 | xXEKUNXx |
+| 207 | 546 | Po Marley |
 | 208 | 536 | SPNLover24 |
 | 209 | 527 | Ebony |
 | 210 | 527 | DellaLucretia Thomas |
@@ -336,11 +336,11 @@
 | 328 | 352 | Ann Chung |
 | 329 | 352 | Brave Clearbuilder |
 | 330 | 350 | Ashley MyBeauty Daniels |
-| 331 | 349 | Kate Hancock Malicek |
-| 332 | 349 | Sade Goodwine |
-| 333 | 348 | Frisky Fall |
+| 331 | 349 | Sade Goodwine |
+| 332 | 349 | Kate Hancock Malicek |
+| 333 | 348 | Dennis J Herron II |
 | 334 | 348 | Andrew Jay Vaughn |
-| 335 | 348 | Dennis J Herron II |
+| 335 | 348 | Frisky Fall |
 | 336 | 347 | Erin Sabol |
 | 337 | 347 | Ashleyy Netchert |
 | 338 | 344 | Andy Rivera |
@@ -348,32 +348,32 @@
 | 340 | 343 | Heather Aurelia |
 | 341 | 343 | MamushiOh |
 | 342 | 341 | Jawaun Daniels |
-| 343 | 340 | Tipsy Linkroll |
-| 344 | 340 | Christian Pham |
+| 343 | 340 | Christian Pham |
+| 344 | 340 | Tipsy Linkroll |
 | 345 | 338 | SeanSanchez |
-| 346 | 337 | HarleyJane |
-| 347 | 337 | Desire Rice |
+| 346 | 337 | Desire Rice |
+| 347 | 337 | HarleyJane |
 | 348 | 336 | Skippy |
-| 349 | 334 | Jackie Sanasay |
-| 350 | 332 | Simone Bailey |
-| 351 | 330 | Crystal Boyd |
+| 349 | 335 | 大竹直之 |
+| 350 | 334 | Jackie Sanasay |
+| 351 | 332 | Simone Bailey |
 | 352 | 330 | ♈️ Ariesbaby |
-| 353 | 330 | rls |
-| 354 | 329 | Bubbly Piececlear |
-| 355 | 327 | Jennah |
-| 356 | 326 | 大竹直之 |
+| 353 | 330 | Crystal Boyd |
+| 354 | 330 | rls |
+| 355 | 329 | Bubbly Piececlear |
+| 356 | 327 | Jennah |
 | 357 | 318 | Nerdy Snapfall |
 | 358 | 317 | Jai |
 | 359 | 315 | KeeKee Williams |
 | 360 | 314 | Rayya Kiser |
-| 361 | 314 | Chilly Wipebuilder |
+| 361 | 314 | Tay |
 | 362 | 314 | Tonya McElroy |
-| 363 | 314 | Tay |
+| 363 | 314 | Chilly Wipebuilder |
 | 364 | 312 | Shanns |
 | 365 | 311 | Cynthia Bradley |
 | 366 | 309 | Amber Wilson |
-| 367 | 308 | MindlessMic |
-| 368 | 308 | Darrel K Pemberton |
+| 367 | 308 | Darrel K Pemberton |
+| 368 | 308 | MindlessMic |
 | 369 | 307 | Wayne Savannah |
 | 370 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 371 | 304 | Kendra McIntyre |

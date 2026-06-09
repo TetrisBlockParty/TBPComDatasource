@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 09:20:46 UTC
+# Standings for team2 as of 2026-06-09 09:21:22 UTC
 
 **Total Participants:** 2451
 
@@ -111,7 +111,7 @@
 | 103 | 1334 | Frothy Fallgrid |
 | 104 | 1327 | Amber-leigh Williams |
 | 105 | 1323 | joey |
-| 106 | 1303 | Marquetta Johnson |
+| 106 | 1318 | Marquetta Johnson |
 | 107 | 1286 | Kvothe |
 | 108 | 1285 | Charlie Wilson |
 | 109 | 1270 | Jef Wassom |
@@ -1225,8 +1225,8 @@
 | 1217 | 98 | puppy mom |
 | 1218 | 98 | Ashley Cadle |
 | 1219 | 98 | Jolly Balanceblock |
-| 1220 | 98 | Danyell Flood-Morning |
-| 1221 | 98 | Viani09 |
+| 1220 | 98 | Viani09 |
+| 1221 | 98 | Danyell Flood-Morning |
 | 1222 | 98 | Goofy Bridger |
 | 1223 | 98 | Annie Hebdon |
 | 1224 | 97 | Debra May |
@@ -1234,23 +1234,23 @@
 | 1226 | 97 | Bubbly Dash |
 | 1227 | 97 | Adri Perez |
 | 1228 | 97 | ace510 |
-| 1229 | 97 | Ashley Lee DeHaan |
-| 1230 | 96 | BigHearted-57 |
-| 1231 | 96 | Catalina Castro |
-| 1232 | 96 | Kevin Perez |
-| 1233 | 96 | Joyce Galloway |
-| 1234 | 96 | Beverly-Jo Peterson |
-| 1235 | 96 | Cool cee |
-| 1236 | 96 | Kay Newcomb |
-| 1237 | 95 | Trena Sapp |
-| 1238 | 95 | PrissyPris |
-| 1239 | 95 | Gammawms |
-| 1240 | 95 | Marla Paden |
+| 1229 | 97 | ElizaThornberry |
+| 1230 | 97 | Ashley Lee DeHaan |
+| 1231 | 96 | BigHearted-57 |
+| 1232 | 96 | Catalina Castro |
+| 1233 | 96 | Kevin Perez |
+| 1234 | 96 | Joyce Galloway |
+| 1235 | 96 | Beverly-Jo Peterson |
+| 1236 | 96 | Cool cee |
+| 1237 | 96 | Kay Newcomb |
+| 1238 | 95 | Trena Sapp |
+| 1239 | 95 | PrissyPris |
+| 1240 | 95 | Gammawms |
 | 1241 | 95 | Cheeky Cornerfall |
-| 1242 | 95 | Judy Bailey |
-| 1243 | 94 | Brenda Leonard |
-| 1244 | 94 | Marcia Monroe |
-| 1245 | 94 | ElizaThornberry |
+| 1242 | 95 | Marla Paden |
+| 1243 | 95 | Judy Bailey |
+| 1244 | 94 | Brenda Leonard |
+| 1245 | 94 | Marcia Monroe |
 | 1246 | 94 | Rubics cube |
 | 1247 | 94 | Joe Duffer |
 | 1248 | 94 | Countrybling77 |
