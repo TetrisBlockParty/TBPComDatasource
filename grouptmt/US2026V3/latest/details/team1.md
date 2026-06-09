@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:14:44 UTC
+# Standings for team1 as of 2026-06-09 21:15:23 UTC
 
 **Total Participants:** 2113
 
@@ -1137,32 +1137,32 @@
 | 1129 | 94 | Elizabeth Clara |
 | 1130 | 93 | don ralph |
 | 1131 | 93 | Alice Biggs |
-| 1132 | 92 | Chocolate |
-| 1133 | 92 | Anthony T. Fults |
-| 1134 | 92 | 1ofaking |
-| 1135 | 91 | Lawanda Conley |
-| 1136 | 91 | Jason Riley |
-| 1137 | 91 | Jose Antonio Villot |
-| 1138 | 91 | Vivian Bunnell Myers |
+| 1132 | 93 | Alicia Lei |
+| 1133 | 92 | Chocolate |
+| 1134 | 92 | Anthony T. Fults |
+| 1135 | 92 | 1ofaking |
+| 1136 | 91 | Lawanda Conley |
+| 1137 | 91 | Jason Riley |
+| 1138 | 91 | Jose Antonio Villot |
 | 1139 | 91 | David A Alvino |
-| 1140 | 90 | Nigel Snyder |
-| 1141 | 90 | Fransine Bennett |
-| 1142 | 90 | Linda Lasha Messenger |
-| 1143 | 90 | Antoinette Kidd |
-| 1144 | 90 | AleahKCH |
-| 1145 | 89 | Thelma Samuels |
-| 1146 | 89 | Jamal D. Wiley |
-| 1147 | 89 | Stacey Kesteloot |
-| 1148 | 89 | Swanky Glide |
-| 1149 | 89 | OneBuke FollowMe |
-| 1150 | 88 | Phoenix |
-| 1151 | 88 | Ayanna James |
-| 1152 | 88 | 214Petty |
-| 1153 | 88 | Brii Michelle Lamb |
-| 1154 | 88 | Tony P Burke |
-| 1155 | 87 | Cj Chimelis |
+| 1140 | 91 | Vivian Bunnell Myers |
+| 1141 | 90 | Nigel Snyder |
+| 1142 | 90 | Fransine Bennett |
+| 1143 | 90 | Linda Lasha Messenger |
+| 1144 | 90 | Antoinette Kidd |
+| 1145 | 90 | AleahKCH |
+| 1146 | 89 | Thelma Samuels |
+| 1147 | 89 | Jamal D. Wiley |
+| 1148 | 89 | Stacey Kesteloot |
+| 1149 | 89 | Swanky Glide |
+| 1150 | 89 | OneBuke FollowMe |
+| 1151 | 88 | Phoenix |
+| 1152 | 88 | Ayanna James |
+| 1153 | 88 | 214Petty |
+| 1154 | 88 | Brii Michelle Lamb |
+| 1155 | 88 | Tony P Burke |
 | 1156 | 87 | smash56! |
-| 1157 | 87 | Alicia Lei |
+| 1157 | 87 | Cj Chimelis |
 | 1158 | 87 | Natalie Burroughs |
 | 1159 | 87 | Korie Dixon |
 | 1160 | 86 | Tweet Turner |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 21:14:44 UTC
+# Standings for team2 as of 2026-06-09 21:15:23 UTC
 
 **Total Participants:** 2581
 
@@ -477,8 +477,8 @@
 | 469 | 348 | KazzyKay |
 | 470 | 348 | Sandra Ruiz |
 | 471 | 347 | Melisa |
-| 472 | 346 | TetrisMama |
-| 473 | 345 | Carolyn McNaughton |
+| 472 | 346 | Carolyn McNaughton |
+| 473 | 346 | TetrisMama |
 | 474 | 343 | Margie Ann Naffziger |
 | 475 | 343 | Curly Windbreaker |
 | 476 | 343 | ShiverMeSplinter |
@@ -1064,13 +1064,13 @@
 | 1056 | 146 | Alimae |
 | 1057 | 146 | Jolly Builderpiece |
 | 1058 | 146 | AshleyM |
-| 1059 | 145 | Momi Kamohai |
-| 1060 | 145 | Thtbrwnsknflla |
-| 1061 | 145 | Marcia Monroe |
-| 1062 | 144 | James Maness |
-| 1063 | 144 | Alissa Ary |
-| 1064 | 143 | Sam Schwieso |
-| 1065 | 143 | Pamela Gambrell |
+| 1059 | 145 | Pamela Gambrell |
+| 1060 | 145 | Momi Kamohai |
+| 1061 | 145 | Thtbrwnsknflla |
+| 1062 | 145 | Marcia Monroe |
+| 1063 | 144 | James Maness |
+| 1064 | 144 | Alissa Ary |
+| 1065 | 143 | Sam Schwieso |
 | 1066 | 143 | Louis Brudzinski |
 | 1067 | 143 | Beej Blake |
 | 1068 | 143 | Melissa Mae |
@@ -1507,8 +1507,8 @@
 | 1499 | 80 | Boldy Patterner |
 | 1500 | 80 | Mitsy Lang |
 | 1501 | 80 | Brett Mullins |
-| 1502 | 80 | Javyjavz |
-| 1503 | 80 | Snazzy Linebuilder |
+| 1502 | 80 | Snazzy Linebuilder |
+| 1503 | 80 | Javyjavz |
 | 1504 | 80 | Ramon James |
 | 1505 | 80 | Ally Miller |
 | 1506 | 80 | Casie |
@@ -1535,74 +1535,74 @@
 | 1527 | 78 | Charity Black |
 | 1528 | 78 | Casey Hendricks |
 | 1529 | 77 | Elie Mestre |
-| 1530 | 77 | Casandra Shenesky |
+| 1530 | 77 | 3RD LEG |
 | 1531 | 77 | Jason Williams |
-| 1532 | 77 | 3RD LEG |
+| 1532 | 77 | Casandra Shenesky |
 | 1533 | 77 | Angela Knighton |
 | 1534 | 77 | Courtney Elizabeth Hartnagel |
 | 1535 | 77 | Slinky Towerpiece |
 | 1536 | 76 | Mick Loving |
 | 1537 | 76 | Spunky Fit |
 | 1538 | 76 | Harley Watkins |
-| 1539 | 76 | Josimarie Otero |
-| 1540 | 76 | Daniel Flathers |
+| 1539 | 76 | Daniel Flathers |
+| 1540 | 76 | Josimarie Otero |
 | 1541 | 76 | Mariah Wygonik |
 | 1542 | 76 | Peppy Clusterer |
 | 1543 | 76 | Joe Dirilo |
 | 1544 | 76 | Silly Cluster |
-| 1545 | 75 | Lori Lorenz |
-| 1546 | 75 | Ashley Shazes |
-| 1547 | 75 | Chris Wilber |
-| 1548 | 75 | Debra Horne |
-| 1549 | 75 | Jenifer Seeley |
+| 1545 | 76 | Michelle Arnold |
+| 1546 | 75 | Lori Lorenz |
+| 1547 | 75 | Ashley Shazes |
+| 1548 | 75 | Chris Wilber |
+| 1549 | 75 | Debra Horne |
 | 1550 | 75 | Crazygranny |
-| 1551 | 75 | LivePhoenix |
-| 1552 | 75 | Catherine Whitt Gaddy |
+| 1551 | 75 | Jenifer Seeley |
+| 1552 | 75 | LivePhoenix |
 | 1553 | 75 | Poppy Zone |
-| 1554 | 75 | Dan Ramsey |
-| 1555 | 74 | Bethany Nestor |
-| 1556 | 74 | Amber Myers |
-| 1557 | 74 | Mary |
-| 1558 | 74 | Isiwin |
-| 1559 | 74 | Katie Magner |
-| 1560 | 74 | Loony Shatter |
+| 1554 | 75 | Catherine Whitt Gaddy |
+| 1555 | 75 | Dan Ramsey |
+| 1556 | 74 | Bethany Nestor |
+| 1557 | 74 | Amber Myers |
+| 1558 | 74 | Mary |
+| 1559 | 74 | Isiwin |
+| 1560 | 74 | Katie Magner |
 | 1561 | 74 | Bold Bridgepiece |
-| 1562 | 73 | Yvonne Rodriguez |
-| 1563 | 73 | Jenica Davis |
-| 1564 | 73 | RalphyD |
-| 1565 | 73 | Disguised Duck |
-| 1566 | 73 | Bowling girl |
-| 1567 | 73 | lion king |
+| 1562 | 74 | Loony Shatter |
+| 1563 | 73 | RalphyD |
+| 1564 | 73 | Bowling girl |
+| 1565 | 73 | lion king |
+| 1566 | 73 | Yvonne Rodriguez |
+| 1567 | 73 | Jenica Davis |
 | 1568 | 73 | Carrie Rutter-Bail |
-| 1569 | 73 | Elodie Deveyer |
-| 1570 | 73 | giggly gal |
-| 1571 | 73 | Sunny Spinzone |
-| 1572 | 73 | Berta Hurley |
-| 1573 | 72 | Linda Jeanne Knop |
-| 1574 | 72 | Aubrey Gates |
-| 1575 | 72 | LeighAnn Loftis |
-| 1576 | 72 | Stacy Lynn |
-| 1577 | 72 | Zippy Wobbler |
-| 1578 | 72 | Plucky Linkmatch |
-| 1579 | 72 | Nicole Dyer |
-| 1580 | 72 | Cozy Builder |
-| 1581 | 71 | lols |
-| 1582 | 71 | Michelle Arnold |
-| 1583 | 71 | John C Morrison |
-| 1584 | 71 | Chey |
-| 1585 | 71 | Cindy Smith |
-| 1586 | 70 | Emma Danielle Wynn |
-| 1587 | 70 | David Blocker |
-| 1588 | 70 | Zet block |
-| 1589 | 70 | Michelle |
-| 1590 | 70 | Taderbug |
-| 1591 | 70 | FinnsDad |
-| 1592 | 70 | Jay Theriault |
-| 1593 | 70 | Shannon Michelle |
-| 1594 | 70 | Samantha Rhone |
-| 1595 | 70 | April Owings |
-| 1596 | 70 | Rob Miller |
-| 1597 | 70 | Alisha Kralicek Trainham |
+| 1569 | 73 | Disguised Duck |
+| 1570 | 73 | Elodie Deveyer |
+| 1571 | 73 | giggly gal |
+| 1572 | 73 | Sunny Spinzone |
+| 1573 | 73 | Berta Hurley |
+| 1574 | 72 | Linda Jeanne Knop |
+| 1575 | 72 | Aubrey Gates |
+| 1576 | 72 | Plucky Linkmatch |
+| 1577 | 72 | Stacy Lynn |
+| 1578 | 72 | Cozy Builder |
+| 1579 | 72 | Zippy Wobbler |
+| 1580 | 72 | Nicole Dyer |
+| 1581 | 72 | LeighAnn Loftis |
+| 1582 | 71 | John C Morrison |
+| 1583 | 71 | Cindy Smith |
+| 1584 | 71 | lols |
+| 1585 | 71 | Chey |
+| 1586 | 70 | Michelle |
+| 1587 | 70 | Samantha Rhone |
+| 1588 | 70 | Jay Theriault |
+| 1589 | 70 | Taderbug |
+| 1590 | 70 | Zet block |
+| 1591 | 70 | David Blocker |
+| 1592 | 70 | Alisha Kralicek Trainham |
+| 1593 | 70 | Rob Miller |
+| 1594 | 70 | FinnsDad |
+| 1595 | 70 | Shannon Michelle |
+| 1596 | 70 | April Owings |
+| 1597 | 70 | Emma Danielle Wynn |
 | 1598 | 70 | Stephania Edwards |
 | 1599 | 70 | Fran Gerebics |
 | 1600 | 70 | Brittany Kay |
@@ -1613,41 +1613,41 @@
 | 1605 | 69 | Dani Newton |
 | 1606 | 69 | Yany |
 | 1607 | 69 | Deanna Mc |
-| 1608 | 69 | Dawn Burzee |
-| 1609 | 69 | Cole Posey |
-| 1610 | 69 | Mandy Anderson |
-| 1611 | 69 | Cammy Riley |
-| 1612 | 69 | Nonnie |
+| 1608 | 69 | Nonnie |
+| 1609 | 69 | Collins |
+| 1610 | 69 | Dawn Burzee |
+| 1611 | 69 | Danid |
+| 1612 | 69 | Cammy Riley |
 | 1613 | 69 | Krystal Snow |
-| 1614 | 69 | Danid |
-| 1615 | 69 | Collins |
-| 1616 | 69 | Stephanie Montgomery |
-| 1617 | 69 | Shanna Jones Scott |
-| 1618 | 69 | Melinda Rausch |
-| 1619 | 68 | Angie Barlow |
+| 1614 | 69 | Mandy Anderson |
+| 1615 | 69 | Shanna Jones Scott |
+| 1616 | 69 | Cole Posey |
+| 1617 | 69 | Melinda Rausch |
+| 1618 | 69 | Stephanie Montgomery |
+| 1619 | 68 | Tracy G Ragsdale |
 | 1620 | 68 | Crafty Matcher |
-| 1621 | 68 | April Appleton |
-| 1622 | 68 | Tracy G Ragsdale |
-| 1623 | 68 | Viola Fletcher |
-| 1624 | 67 | Jamie Mullins |
-| 1625 | 67 | Zippy Blockmatch |
+| 1621 | 68 | Viola Fletcher |
+| 1622 | 68 | Angie Barlow |
+| 1623 | 68 | April Appleton |
+| 1624 | 67 | Zippy Blockmatch |
+| 1625 | 67 | Jamie Mullins |
 | 1626 | 67 | Happy Curvebuilder |
 | 1627 | 67 | LK |
-| 1628 | 66 | Ali |
-| 1629 | 66 | sam |
-| 1630 | 66 | Audra Rose Berry |
-| 1631 | 66 | David Cadiente |
-| 1632 | 66 | Dysty |
-| 1633 | 66 | Justin Pennington |
+| 1628 | 66 | Justin Pennington |
+| 1629 | 66 | Ali |
+| 1630 | 66 | sam |
+| 1631 | 66 | Audra Rose Berry |
+| 1632 | 66 | David Cadiente |
+| 1633 | 66 | Dysty |
 | 1634 | 66 | Lj |
-| 1635 | 66 | Loopy Brickroll |
-| 1636 | 66 | Amy ATen |
-| 1637 | 65 | GentleGiant Brackett |
-| 1638 | 65 | Amanda White |
+| 1635 | 66 | Amy ATen |
+| 1636 | 66 | Loopy Brickroll |
+| 1637 | 65 | October Fitch |
+| 1638 | 65 | GentleGiant Brackett |
 | 1639 | 65 | Wacky Drop |
-| 1640 | 65 | October Fitch |
-| 1641 | 65 | Heather Klaus |
-| 1642 | 65 | Maurice Bethel |
+| 1640 | 65 | Amanda White |
+| 1641 | 65 | Maurice Bethel |
+| 1642 | 65 | Heather Klaus |
 | 1643 | 65 | Vicki Ohmer |
 | 1644 | 65 | nogo |
 | 1645 | 65 | Donna Casey |
