@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 13:28:46 UTC
+# Standings for team1 as of 2026-06-09 13:29:21 UTC
 
 **Total Participants:** 2053
 
@@ -308,8 +308,8 @@
 | 300 | 400 | Denell Sims |
 | 301 | 400 | Coco |
 | 302 | 395 | Reginald Frank |
-| 303 | 394 | Dacia Hicks |
-| 304 | 394 | Queenie Perry |
+| 303 | 394 | Queenie Perry |
+| 304 | 394 | Dacia Hicks |
 | 305 | 392 | Dedra M Prester |
 | 306 | 391 | Jackie Sanasay |
 | 307 | 390 | Devin West |
@@ -319,32 +319,32 @@
 | 311 | 381 | NastyFriend |
 | 312 | 380 | Nerdy Blockpiece |
 | 313 | 378 | Hasty Glidezone |
-| 314 | 377 | Amber Wilson |
+| 314 | 377 | AF Cruz |
 | 315 | 377 | Mikayla |
-| 316 | 377 | AF Cruz |
+| 316 | 377 | Amber Wilson |
 | 317 | 377 | ♈️ Ariesbaby |
-| 318 | 371 | 大竹直之 |
-| 319 | 371 | Lauraly |
-| 320 | 371 | SeanSanchez |
-| 321 | 371 | Ashleyy Netchert |
-| 322 | 370 | Allison Baxter |
-| 323 | 368 | Cortaz Lawrie |
+| 318 | 376 | Nikki Hogan |
+| 319 | 371 | Ashleyy Netchert |
+| 320 | 371 | 大竹直之 |
+| 321 | 371 | SeanSanchez |
+| 322 | 371 | Lauraly |
+| 323 | 370 | Allison Baxter |
 | 324 | 368 | Heather Aurelia |
 | 325 | 368 | Brand Nu |
-| 326 | 367 | Smiley3000 |
-| 327 | 367 | Jayjay Rich |
-| 328 | 367 | Still Ten Tay |
-| 329 | 364 | Michele Simpson |
-| 330 | 363 | Richard Flex |
-| 331 | 363 | Christina Rebecca |
-| 332 | 361 | John Staub |
-| 333 | 361 | Jawaun Daniels |
-| 334 | 361 | Lakiesha Crawford |
-| 335 | 360 | Giggy Edgefit |
-| 336 | 358 | Analiza Ramos |
-| 337 | 357 | Giggly Tiltbuilder |
-| 338 | 356 | Haley Bell |
-| 339 | 356 | Nikki Hogan |
+| 326 | 368 | Cortaz Lawrie |
+| 327 | 367 | Still Ten Tay |
+| 328 | 367 | Smiley3000 |
+| 329 | 367 | Jayjay Rich |
+| 330 | 364 | Michele Simpson |
+| 331 | 363 | Richard Flex |
+| 332 | 363 | Christina Rebecca |
+| 333 | 361 | John Staub |
+| 334 | 361 | Jawaun Daniels |
+| 335 | 361 | Lakiesha Crawford |
+| 336 | 360 | Giggy Edgefit |
+| 337 | 358 | Analiza Ramos |
+| 338 | 357 | Giggly Tiltbuilder |
+| 339 | 356 | Haley Bell |
 | 340 | 355 | Tajuana Juana'Cee Coleman |
 | 341 | 353 | Bbyunicorn |
 | 342 | 352 | Ann Chung |
