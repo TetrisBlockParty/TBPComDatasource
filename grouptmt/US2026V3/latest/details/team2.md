@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 05:14:43 UTC
+# Standings for team2 as of 2026-06-09 05:15:21 UTC
 
 **Total Participants:** 2416
 
@@ -207,28 +207,28 @@
 | 199 | 644 | Michelle Luke Banta |
 | 200 | 643 | Michelle Powers Chattaway |
 | 201 | 637 | Kellie Sharp Godfrey |
-| 202 | 637 | Kaylene Rigas |
-| 203 | 631 | Wacky Tumbler |
-| 204 | 630 | Christina Maria |
-| 205 | 628 | Tim Tim |
-| 206 | 627 | Pooh |
-| 207 | 626 | Bubbly Strikerpiece |
-| 208 | 620 | missat |
-| 209 | 616 | Nikki Hayes |
-| 210 | 612 | Theresa Marie |
-| 211 | 609 | Michelle Rich Burkhart |
-| 212 | 609 | Brooke Allred |
-| 213 | 609 | Chris Cooper |
-| 214 | 606 | Chasity Simpson |
-| 215 | 594 | Steven |
-| 216 | 592 | Spicy Basepiece |
-| 217 | 587 | Kevin Mccoy |
-| 218 | 585 | Avie Lou |
-| 219 | 584 | Steven Craig |
-| 220 | 579 | Robin G |
-| 221 | 578 | Jenni LeBlanc |
-| 222 | 577 | Lindsay Klemp |
-| 223 | 577 | Tina Marie |
+| 202 | 637 | Tina Marie |
+| 203 | 637 | Kaylene Rigas |
+| 204 | 631 | Wacky Tumbler |
+| 205 | 630 | Christina Maria |
+| 206 | 628 | Tim Tim |
+| 207 | 627 | Pooh |
+| 208 | 626 | Bubbly Strikerpiece |
+| 209 | 620 | missat |
+| 210 | 616 | Nikki Hayes |
+| 211 | 612 | Theresa Marie |
+| 212 | 609 | Michelle Rich Burkhart |
+| 213 | 609 | Brooke Allred |
+| 214 | 609 | Chris Cooper |
+| 215 | 606 | Chasity Simpson |
+| 216 | 594 | Steven |
+| 217 | 592 | Spicy Basepiece |
+| 218 | 587 | Kevin Mccoy |
+| 219 | 585 | Avie Lou |
+| 220 | 584 | Steven Craig |
+| 221 | 579 | Robin G |
+| 222 | 578 | Jenni LeBlanc |
+| 223 | 577 | Lindsay Klemp |
 | 224 | 576 | Breeana Bennett |
 | 225 | 574 | Brandy McCune Reep |
 | 226 | 573 | Chirpy Grid |
@@ -257,11 +257,11 @@
 | 249 | 542 | Bri St Peter |
 | 250 | 541 | AndyJo |
 | 251 | 540 | Lisa Underwood Desmond |
-| 252 | 538 | Amie Marks |
-| 253 | 538 | Brenda Jones |
+| 252 | 538 | Brenda Jones |
+| 253 | 538 | Amie Marks |
 | 254 | 536 | Gill |
-| 255 | 535 | Theresa Hollinger |
-| 256 | 535 | Amy Gale |
+| 255 | 535 | Amy Gale |
+| 256 | 535 | Theresa Hollinger |
 | 257 | 531 | Stephany Green |
 | 258 | 530 | Jennifer Smith |
 | 259 | 530 | Laverne Ellis Blair |
@@ -732,44 +732,44 @@
 | 724 | 182 | Paula |
 | 725 | 181 | Anzhen |
 | 726 | 181 | Denise Morehart |
-| 727 | 180 | Brandi Williams |
-| 728 | 180 | Dana Wilson |
-| 729 | 180 | Shannon Posner |
-| 730 | 180 | Erin Lemanski |
-| 731 | 180 | Kelly Hall Whitt |
-| 732 | 180 | Dawn Kroptavich |
-| 733 | 180 | Goldie |
+| 727 | 180 | Goldie |
+| 728 | 180 | Kelly Hall Whitt |
+| 729 | 180 | Dana Wilson |
+| 730 | 180 | Shannon Posner |
+| 731 | 180 | Dawn Kroptavich |
+| 732 | 180 | Brandi Williams |
+| 733 | 180 | Erin Lemanski |
 | 734 | 180 | Tiffany Lewis |
 | 735 | 180 | Audrey Morris |
 | 736 | 179 | Crafty Liner |
 | 737 | 179 | Teloney Humphrey |
 | 738 | 179 | Jennifer Augustine |
-| 739 | 179 | Mandeee |
-| 740 | 179 | Dandy Tiltgrid |
+| 739 | 179 | Zaniya Brown |
+| 740 | 179 | Kevin Patrick |
 | 741 | 179 | Marlo Perry |
-| 742 | 179 | Zaniya Brown |
-| 743 | 179 | Kevin Patrick |
-| 744 | 178 | Dayna Messer-Thelen |
-| 745 | 178 | Rocroc mo |
-| 746 | 178 | Twisty Matchfit |
-| 747 | 177 | Audrey Wood |
-| 748 | 177 | Chelsea Frye |
-| 749 | 177 | Sara BlueEyes |
-| 750 | 177 | Clever Fallmatch |
-| 751 | 176 | Tina Carr |
-| 752 | 176 | Sara Moericke |
-| 753 | 176 | Tracey Cox |
-| 754 | 175 | Allison Peterson |
-| 755 | 175 | Courtney Madison Hart |
-| 756 | 175 | Frilly Shiftsnap |
-| 757 | 175 | Jessica Murphree |
-| 758 | 175 | Lydia Shonee |
-| 759 | 175 | Frisky Linkbuilder |
-| 760 | 175 | Distro |
-| 761 | 175 | Nicole Sides KrazyKoop |
-| 762 | 174 | Jasmine Goggans |
-| 763 | 174 | Nichole Fuller |
-| 764 | 174 | Cool Patternbuilder |
+| 742 | 179 | Mandeee |
+| 743 | 179 | Dandy Tiltgrid |
+| 744 | 179 | Cool Patternbuilder |
+| 745 | 178 | Twisty Matchfit |
+| 746 | 178 | Dayna Messer-Thelen |
+| 747 | 178 | Rocroc mo |
+| 748 | 177 | Sara BlueEyes |
+| 749 | 177 | Chelsea Frye |
+| 750 | 177 | Audrey Wood |
+| 751 | 177 | Clever Fallmatch |
+| 752 | 176 | Tina Carr |
+| 753 | 176 | Sara Moericke |
+| 754 | 176 | Tracey Cox |
+| 755 | 175 | Allison Peterson |
+| 756 | 175 | Jessica Murphree |
+| 757 | 175 | Courtney Madison Hart |
+| 758 | 175 | Frilly Shiftsnap |
+| 759 | 175 | Lydia Shonee |
+| 760 | 175 | Frisky Linkbuilder |
+| 761 | 175 | Distro |
+| 762 | 175 | Nicole Sides KrazyKoop |
+| 763 | 174 | Jasmine Goggans |
+| 764 | 174 | Nichole Fuller |
 | 765 | 174 | y |
 | 766 | 174 | Nova |
 | 767 | 174 | Giggly Spinblock |
@@ -901,9 +901,9 @@
 | 893 | 144 | Alissa Ary |
 | 894 | 143 | Stoney McMillion |
 | 895 | 143 | Sam Schwieso |
-| 896 | 143 | Quirky Gridclear |
-| 897 | 143 | Bonnie Huckleberry |
-| 898 | 143 | Beej Blake |
+| 896 | 143 | Beej Blake |
+| 897 | 143 | Quirky Gridclear |
+| 898 | 143 | Bonnie Huckleberry |
 | 899 | 143 | Sara Karels |
 | 900 | 142 | Jacob Corrales |
 | 901 | 142 | Jeremy Daurbigny |
@@ -944,20 +944,20 @@
 | 936 | 135 | Ava Taber |
 | 937 | 134 | Amy |
 | 938 | 134 | Cassandra Milner |
-| 939 | 134 | Diane Byrd |
-| 940 | 133 | Frothy Zonebuilder |
-| 941 | 133 | Seamus |
-| 942 | 133 | Baby |
-| 943 | 133 | Brandy McCleary |
-| 944 | 133 | Shawn Bolt |
-| 945 | 133 | CAL1KAWS559 |
-| 946 | 133 | Michelle |
-| 947 | 133 | Jazzy Snapfit |
-| 948 | 132 | Pickle |
-| 949 | 132 | Tim Moore |
-| 950 | 132 | Belinda Gullion Austin |
-| 951 | 131 | Eva Lopez |
-| 952 | 131 | Roger Kirksey |
+| 939 | 134 | Roger Kirksey |
+| 940 | 134 | Diane Byrd |
+| 941 | 133 | Frothy Zonebuilder |
+| 942 | 133 | Seamus |
+| 943 | 133 | Baby |
+| 944 | 133 | Brandy McCleary |
+| 945 | 133 | Shawn Bolt |
+| 946 | 133 | CAL1KAWS559 |
+| 947 | 133 | Michelle |
+| 948 | 133 | Jazzy Snapfit |
+| 949 | 132 | Pickle |
+| 950 | 132 | Tim Moore |
+| 951 | 132 | Belinda Gullion Austin |
+| 952 | 131 | Eva Lopez |
 | 953 | 131 | Chris |
 | 954 | 131 | Paige Lynette Sohl |
 | 955 | 131 | bozzycat |
