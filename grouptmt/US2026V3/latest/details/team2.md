@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 05:18:21 UTC
+# Standings for team2 as of 2026-06-09 05:18:45 UTC
 
 **Total Participants:** 2416
 
@@ -771,28 +771,28 @@
 | 763 | 174 | Jasmine Goggans |
 | 764 | 174 | Nichole Fuller |
 | 765 | 174 | y |
-| 766 | 174 | Nova |
-| 767 | 174 | Giggly Spinblock |
-| 768 | 173 | Chirpy Combofall |
-| 769 | 173 | Groovy Glider |
-| 770 | 173 | Cherica Taylor |
-| 771 | 173 | Jessica Garoutte |
-| 772 | 173 | Tami Weiss |
-| 773 | 172 | Rmk |
-| 774 | 172 | Danita Moon |
-| 775 | 172 | Tito Garcia |
-| 776 | 172 | Wacky Holder |
-| 777 | 171 | Mary Stump |
-| 778 | 170 | Ashley Jones |
-| 779 | 170 | Hannah Meadows Hammond |
-| 780 | 169 | BrendaLee NolanBos |
-| 781 | 169 | Lindsey Davidson |
-| 782 | 169 | Rebekah Holland |
-| 783 | 169 | Wendy Michelle Wise-Ledford |
-| 784 | 169 | Destiny Turner |
-| 785 | 169 | Sara Dunn |
-| 786 | 169 | Josephina |
-| 787 | 169 | Gabrielle Rivera |
+| 766 | 174 | Gabrielle Rivera |
+| 767 | 174 | Nova |
+| 768 | 174 | Giggly Spinblock |
+| 769 | 173 | Chirpy Combofall |
+| 770 | 173 | Groovy Glider |
+| 771 | 173 | Cherica Taylor |
+| 772 | 173 | Jessica Garoutte |
+| 773 | 173 | Tami Weiss |
+| 774 | 172 | Rmk |
+| 775 | 172 | Danita Moon |
+| 776 | 172 | Tito Garcia |
+| 777 | 172 | Wacky Holder |
+| 778 | 171 | Mary Stump |
+| 779 | 170 | Ashley Jones |
+| 780 | 170 | Hannah Meadows Hammond |
+| 781 | 169 | BrendaLee NolanBos |
+| 782 | 169 | Lindsey Davidson |
+| 783 | 169 | Rebekah Holland |
+| 784 | 169 | Wendy Michelle Wise-Ledford |
+| 785 | 169 | Destiny Turner |
+| 786 | 169 | Sara Dunn |
+| 787 | 169 | Josephina |
 | 788 | 168 | Rachel |
 | 789 | 167 | Alisha Shelton |
 | 790 | 167 | Cara Rivera |
@@ -2344,47 +2344,47 @@
 | 2336 | 8 | Elizabeth Miller |
 | 2337 | 8 | Sergio Saucedo |
 | 2338 | 8 | Mariah Mandel |
-| 2339 | 8 | Mitch |
-| 2340 | 8 | Lissa |
-| 2341 | 8 | Jumpy Twistslam |
-| 2342 | 8 | Lisa Amick |
-| 2343 | 8 | Paige Abney |
-| 2344 | 8 | Corey Mac |
-| 2345 | 8 | Sammi Jo |
-| 2346 | 8 | Dreamy Gridzone |
-| 2347 | 8 | Chirpy Rollfit |
-| 2348 | 8 | Funky Slide |
-| 2349 | 7 | Elizabeth Elaine Coursey |
-| 2350 | 7 | michael |
-| 2351 | 7 | Mighty Tiltpiece |
-| 2352 | 7 | Flashy Cascadeclear |
-| 2353 | 7 | Brenda Ohaus Facher |
-| 2354 | 7 | StacyK |
-| 2355 | 7 | Snippy Breaker |
-| 2356 | 7 | bluesky |
-| 2357 | 7 | Terri Jane Hardin |
-| 2358 | 7 | Carl Antonucci |
-| 2359 | 7 | Jumpy Snapper |
-| 2360 | 7 | Jumpy Tilemaker |
-| 2361 | 7 | Janice Simpson |
-| 2362 | 7 | Giggy Clusterbuilder |
-| 2363 | 7 | Holly Riley |
-| 2364 | 7 | VikinGs Vnm |
-| 2365 | 7 | Vema Shailaja |
-| 2366 | 7 | Ashley |
+| 2339 | 8 | Jumpy Tilemaker |
+| 2340 | 8 | Mitch |
+| 2341 | 8 | Lissa |
+| 2342 | 8 | Jumpy Twistslam |
+| 2343 | 8 | Lisa Amick |
+| 2344 | 8 | Paige Abney |
+| 2345 | 8 | Corey Mac |
+| 2346 | 8 | Sammi Jo |
+| 2347 | 8 | Dreamy Gridzone |
+| 2348 | 8 | Chirpy Rollfit |
+| 2349 | 8 | Funky Slide |
+| 2350 | 7 | Elizabeth Elaine Coursey |
+| 2351 | 7 | michael |
+| 2352 | 7 | Mighty Tiltpiece |
+| 2353 | 7 | Flashy Cascadeclear |
+| 2354 | 7 | Brenda Ohaus Facher |
+| 2355 | 7 | VikinGs Vnm |
+| 2356 | 7 | Holly Riley |
+| 2357 | 7 | Giggy Clusterbuilder |
+| 2358 | 7 | Janice Simpson |
+| 2359 | 7 | StacyK |
+| 2360 | 7 | Jumpy Snapper |
+| 2361 | 7 | Vema Shailaja |
+| 2362 | 7 | Carl Antonucci |
+| 2363 | 7 | Terri Jane Hardin |
+| 2364 | 7 | Ashley |
+| 2365 | 7 | bluesky |
+| 2366 | 7 | Snippy Breaker |
 | 2367 | 7 | Melissa Roark |
 | 2368 | 7 | Sandy Hutcheson |
-| 2369 | 7 | Kelly Shumate |
+| 2369 | 7 | Carl Gadberry |
 | 2370 | 7 | Kim Smith |
-| 2371 | 7 | Carl Gadberry |
-| 2372 | 7 | Pico |
-| 2373 | 7 | Leslie Baker |
+| 2371 | 7 | Pico |
+| 2372 | 7 | Leslie Baker |
+| 2373 | 7 | Crystal King |
 | 2374 | 7 | Nicole Carl |
 | 2375 | 7 | Zany Risepiece |
 | 2376 | 7 | Lush Tile |
 | 2377 | 7 | Amanda Morales |
 | 2378 | 7 | Hyper Staggerpiece |
-| 2379 | 7 | Crystal King |
+| 2379 | 7 | Kelly Shumate |
 | 2380 | 7 | Michael Bond |
 | 2381 | 7 | Dionne Borden |
 | 2382 | 7 | Loony Pop |
