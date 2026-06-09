@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 07:04:45 UTC
+# Standings for team2 as of 2026-06-09 07:05:21 UTC
 
 **Total Participants:** 2435
 
@@ -143,7 +143,7 @@
 | 135 | 971 | Shea |
 | 136 | 955 | jmo87 |
 | 137 | 954 | Jeska Gaines |
-| 138 | 944 | Jackie Tupper |
+| 138 | 945 | Jackie Tupper |
 | 139 | 943 | KD Walusay |
 | 140 | 938 | Amber Miller Wirick |
 | 141 | 933 | Sarah Griffey |
@@ -242,7 +242,7 @@
 | 234 | 570 | meg |
 | 235 | 569 | Jat |
 | 236 | 567 | Cool Balancer |
-| 237 | 566 | Lyric Price |
+| 237 | 567 | Lyric Price |
 | 238 | 565 | Zany Blockclear |
 | 239 | 564 | Chipper Stackbuilder |
 | 240 | 559 | Mom |
@@ -252,10 +252,10 @@
 | 244 | 554 | Sabrina Hardrick |
 | 245 | 553 | Rosalie Call Kehlenbeck |
 | 246 | 553 | Kathy Strickland |
-| 247 | 550 | Gabrielle Wilson |
-| 248 | 550 | Jess |
-| 249 | 550 | DomDomsNana |
-| 250 | 548 | Thomas Tyrone |
+| 247 | 553 | Thomas Tyrone |
+| 248 | 550 | DomDomsNana |
+| 249 | 550 | Jess |
+| 250 | 550 | Gabrielle Wilson |
 | 251 | 547 | Iesha Cupil |
 | 252 | 543 | Ratchet |
 | 253 | 543 | Alicia Ellenburg |
@@ -494,8 +494,8 @@
 | 486 | 280 | Michelle M Braley |
 | 487 | 280 | Sandra Ruiz |
 | 488 | 280 | Keisha Robinson |
-| 489 | 278 | Sydney Cheyenne |
-| 490 | 278 | KazzyKay |
+| 489 | 279 | KazzyKay |
+| 490 | 278 | Sydney Cheyenne |
 | 491 | 278 | Tiffany Hassanshahi |
 | 492 | 278 | Madonna Ash |
 | 493 | 277 | Brandy Chinelle |
@@ -1246,31 +1246,31 @@
 | 1238 | 93 | Kymberlee Rolinski |
 | 1239 | 93 | Randy Taylor |
 | 1240 | 92 | Kimberley Marie |
-| 1241 | 92 | Giggy Dropzone |
-| 1242 | 92 | Amber Simonton |
-| 1243 | 92 | Loopy Zone |
-| 1244 | 92 | Lisa Rose |
-| 1245 | 92 | Jayda Walters |
-| 1246 | 92 | Nicole Hjelmen |
-| 1247 | 92 | Sami Amato |
-| 1248 | 92 | Buddy |
-| 1249 | 91 | Funky Blockmatch |
-| 1250 | 91 | Stacey Peters |
-| 1251 | 91 | Henny Henny |
-| 1252 | 91 | ktabzz |
-| 1253 | 91 | Christina Sheldon |
-| 1254 | 91 | DNice |
-| 1255 | 91 | Chatty |
-| 1256 | 91 | Jenn Mccarty |
-| 1257 | 91 | Donna R. Banks |
-| 1258 | 90 | Evelyn Confer |
-| 1259 | 90 | Latrell Thomas |
-| 1260 | 90 | Samantha LeBlanc |
-| 1261 | 90 | DragonJB2020 |
-| 1262 | 90 | wutrwerdz |
-| 1263 | 90 | Beth Engberg |
-| 1264 | 90 | Shannon D. Turk |
-| 1265 | 90 | Shakey Bakey |
+| 1241 | 92 | Evelyn Confer |
+| 1242 | 92 | Giggy Dropzone |
+| 1243 | 92 | Amber Simonton |
+| 1244 | 92 | Loopy Zone |
+| 1245 | 92 | Lisa Rose |
+| 1246 | 92 | Jayda Walters |
+| 1247 | 92 | Nicole Hjelmen |
+| 1248 | 92 | Sami Amato |
+| 1249 | 92 | Buddy |
+| 1250 | 91 | Funky Blockmatch |
+| 1251 | 91 | Stacey Peters |
+| 1252 | 91 | Henny Henny |
+| 1253 | 91 | ktabzz |
+| 1254 | 91 | Christina Sheldon |
+| 1255 | 91 | DNice |
+| 1256 | 91 | Chatty |
+| 1257 | 91 | Jenn Mccarty |
+| 1258 | 91 | Donna R. Banks |
+| 1259 | 90 | Beth Engberg |
+| 1260 | 90 | wutrwerdz |
+| 1261 | 90 | Shannon D. Turk |
+| 1262 | 90 | DragonJB2020 |
+| 1263 | 90 | Shakey Bakey |
+| 1264 | 90 | Samantha LeBlanc |
+| 1265 | 90 | Latrell Thomas |
 | 1266 | 90 | Justin Furne |
 | 1267 | 90 | Amanda Mason Scott |
 | 1268 | 90 | Christi Hooper |
@@ -1279,15 +1279,15 @@
 | 1271 | 89 | Rebecca Boling |
 | 1272 | 89 | Slinky Glidezone |
 | 1273 | 89 | Michele Choate |
-| 1274 | 89 | Michelle Brown |
-| 1275 | 89 | Glitzy Fallgrid |
-| 1276 | 89 | Sandra Kopas Stetka |
-| 1277 | 89 | Rachel Nunn |
-| 1278 | 89 | Anna Benjamin Freeman |
-| 1279 | 89 | Sue Fuzy |
+| 1274 | 89 | Rachel Nunn |
+| 1275 | 89 | Anna Benjamin Freeman |
+| 1276 | 89 | Sue Fuzy |
+| 1277 | 89 | Michelle Brown |
+| 1278 | 89 | Glitzy Fallgrid |
+| 1279 | 89 | Sandra Kopas Stetka |
 | 1280 | 89 | Snazzy Tiley |
-| 1281 | 88 | Debra Patten |
-| 1282 | 88 | Jeannine Murphy |
+| 1281 | 88 | Jeannine Murphy |
+| 1282 | 88 | Debra Patten |
 | 1283 | 88 | Raven |
 | 1284 | 88 | Erin Marie Smith |
 | 1285 | 88 | Missy Tubb Overly |
@@ -1460,37 +1460,37 @@
 | 1452 | 70 | Jason Janssen |
 | 1453 | 70 | Roger Kee |
 | 1454 | 70 | Alisha Kralicek Trainham |
-| 1455 | 69 | Danid |
-| 1456 | 69 | Cammy Riley |
+| 1455 | 69 | Cammy Riley |
+| 1456 | 69 | Danid |
 | 1457 | 69 | Stephanie Montgomery |
 | 1458 | 69 | Nonnie |
 | 1459 | 69 | Mandy Anderson |
 | 1460 | 69 | Shanna Jones Scott |
-| 1461 | 69 | Melinda Rausch |
+| 1461 | 69 | Mariya Cline |
 | 1462 | 69 | Shelby Lynn May |
 | 1463 | 69 | Charity Black |
-| 1464 | 69 | Loretta Crow |
-| 1465 | 69 | Deanna Mc |
-| 1466 | 69 | Courtney Elizabeth Hartnagel |
-| 1467 | 69 | Yany |
-| 1468 | 68 | Viola Fletcher |
-| 1469 | 68 | Cheery Blast |
+| 1464 | 69 | Melinda Rausch |
+| 1465 | 69 | Loretta Crow |
+| 1466 | 69 | Deanna Mc |
+| 1467 | 69 | Courtney Elizabeth Hartnagel |
+| 1468 | 69 | Yany |
+| 1469 | 68 | Viola Fletcher |
 | 1470 | 68 | April Appleton |
-| 1471 | 68 | Jara Zavala |
-| 1472 | 68 | Samantha Lewis |
-| 1473 | 68 | Angie Barlow |
-| 1474 | 67 | Cole Posey |
-| 1475 | 67 | Brianne Coffer |
-| 1476 | 67 | Happy Curvebuilder |
-| 1477 | 67 | Alexis Meyers |
-| 1478 | 67 | LK |
-| 1479 | 66 | Jenna Thorn |
-| 1480 | 66 | Erica Abreu |
-| 1481 | 66 | David Cadiente |
-| 1482 | 66 | Brittany Russell |
-| 1483 | 66 | Justin Pennington |
-| 1484 | 66 | Bunny Bt |
-| 1485 | 66 | Mariya Cline |
+| 1471 | 68 | Cheery Blast |
+| 1472 | 68 | Jara Zavala |
+| 1473 | 68 | Samantha Lewis |
+| 1474 | 68 | Angie Barlow |
+| 1475 | 67 | Cole Posey |
+| 1476 | 67 | Brianne Coffer |
+| 1477 | 67 | Happy Curvebuilder |
+| 1478 | 67 | Alexis Meyers |
+| 1479 | 67 | LK |
+| 1480 | 66 | Jenna Thorn |
+| 1481 | 66 | Erica Abreu |
+| 1482 | 66 | David Cadiente |
+| 1483 | 66 | Brittany Russell |
+| 1484 | 66 | Justin Pennington |
+| 1485 | 66 | Bunny Bt |
 | 1486 | 66 | Ali |
 | 1487 | 66 | Catherine Whitt Gaddy |
 | 1488 | 65 | JrsWife |
