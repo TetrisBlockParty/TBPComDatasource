@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:28:21 UTC
+# Standings for team4 as of 2026-06-09 10:28:46 UTC
 
 **Total Participants:** 2091
 
@@ -191,16 +191,16 @@
 | 183 | 580 | CIRAZYPNOY |
 | 184 | 577 | Danielle Mitchell |
 | 185 | 575 | Beth Belanger |
-| 186 | 563 | QueenLi86 |
-| 187 | 563 | Jacqueline Jackii Ramos |
-| 188 | 559 | Katie Martin |
-| 189 | 555 | Janet Sanfilippo Sullivan |
-| 190 | 555 | Julian Gasque |
-| 191 | 554 | Jennifer Ellyn Sheets |
-| 192 | 552 | Principal Liz |
-| 193 | 551 | Alma López Morales |
-| 194 | 550 | Magz |
-| 195 | 548 | Alex Armour |
+| 186 | 564 | Alex Armour |
+| 187 | 563 | QueenLi86 |
+| 188 | 563 | Jacqueline Jackii Ramos |
+| 189 | 559 | Katie Martin |
+| 190 | 555 | Janet Sanfilippo Sullivan |
+| 191 | 555 | Julian Gasque |
+| 192 | 554 | Jennifer Ellyn Sheets |
+| 193 | 552 | Principal Liz |
+| 194 | 551 | Alma López Morales |
+| 195 | 550 | Magz |
 | 196 | 544 | Boldy Rumbler |
 | 197 | 540 | Anthony Magaraci |
 | 198 | 540 | Sisi RedVelvet Reneè |

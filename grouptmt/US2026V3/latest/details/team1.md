@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:28:21 UTC
+# Standings for team1 as of 2026-06-09 10:28:46 UTC
 
 **Total Participants:** 2035
 
@@ -316,16 +316,16 @@
 | 308 | 377 | AF Cruz |
 | 309 | 376 | Jackie Sanasay |
 | 310 | 375 | NastyFriend |
-| 311 | 371 | 大竹直之 |
-| 312 | 371 | SeanSanchez |
-| 313 | 371 | Lauraly |
-| 314 | 370 | Allison Baxter |
-| 315 | 368 | Cortaz Lawrie |
-| 316 | 368 | Brand Nu |
-| 317 | 367 | Still Ten Tay |
-| 318 | 367 | Jayjay Rich |
-| 319 | 367 | Smiley3000 |
-| 320 | 365 | Andrew Jay Vaughn |
+| 311 | 374 | Andrew Jay Vaughn |
+| 312 | 371 | 大竹直之 |
+| 313 | 371 | SeanSanchez |
+| 314 | 371 | Lauraly |
+| 315 | 370 | Allison Baxter |
+| 316 | 368 | Cortaz Lawrie |
+| 317 | 368 | Brand Nu |
+| 318 | 367 | Still Ten Tay |
+| 319 | 367 | Jayjay Rich |
+| 320 | 367 | Smiley3000 |
 | 321 | 364 | Michele Simpson |
 | 322 | 363 | Christina Rebecca |
 | 323 | 363 | Richard Flex |
