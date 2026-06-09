@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:48:44 UTC
+# Standings for team2 as of 2026-06-09 10:49:23 UTC
 
 **Total Participants:** 2470
 
@@ -98,7 +98,7 @@
 | 90 | 1610 | Ashlea McBlaine |
 | 91 | 1552 | Ruby Sandberg |
 | 92 | 1547 | Lily |
-| 93 | 1533 | Kimberly Benson |
+| 93 | 1543 | Kimberly Benson |
 | 94 | 1510 | Shandrea Crawford |
 | 95 | 1491 | Smiley Dropper |
 | 96 | 1463 | Eileen Egan |
@@ -433,16 +433,16 @@
 | 425 | 336 | Spunky Linkblock |
 | 426 | 335 | SturgStang |
 | 427 | 335 | Sassy Twistbuilder |
-| 428 | 331 | Anthony Swift |
-| 429 | 331 | Francesca Wagenhoffer |
-| 430 | 330 | marsam |
-| 431 | 328 | Buffy Diane Blake |
-| 432 | 327 | Jennifer McCloskey Launder |
-| 433 | 326 | Amber Smith |
-| 434 | 325 | Snappy Combo |
-| 435 | 324 | Kathryn |
-| 436 | 323 | Jerry L Morales |
-| 437 | 323 | Dad |
+| 428 | 333 | Dad |
+| 429 | 331 | Anthony Swift |
+| 430 | 331 | Francesca Wagenhoffer |
+| 431 | 330 | marsam |
+| 432 | 328 | Buffy Diane Blake |
+| 433 | 327 | Jennifer McCloskey Launder |
+| 434 | 326 | Amber Smith |
+| 435 | 325 | Snappy Combo |
+| 436 | 324 | Kathryn |
+| 437 | 323 | Jerry L Morales |
 | 438 | 323 | Kim Hunt |
 | 439 | 322 | RaeRae |
 | 440 | 321 | Wendy Spoor Hof |
@@ -688,8 +688,8 @@
 | 680 | 207 | Andrea Rawson |
 | 681 | 207 | Bonita Alexander |
 | 682 | 207 | WhitS |
-| 683 | 206 | rebel4lyfe |
-| 684 | 206 | Amber Carpenter |
+| 683 | 206 | Amber Carpenter |
+| 684 | 206 | rebel4lyfe |
 | 685 | 206 | Cody Gates |
 | 686 | 205 | Tamara Whiteley |
 | 687 | 204 | Charlotte Castelli |
@@ -697,64 +697,64 @@
 | 689 | 203 | Amber Marie |
 | 690 | 203 | Heather Billodeau |
 | 691 | 203 | Violet Olivares |
-| 692 | 202 | Ashley Miller |
-| 693 | 202 | Kati Eckstein |
-| 694 | 202 | Hillary Frank |
-| 695 | 202 | Mandy |
+| 692 | 202 | Josephina |
+| 693 | 202 | Hillary Frank |
+| 694 | 202 | Mandy |
+| 695 | 202 | Ashley Miller |
 | 696 | 202 | IncrediDragon |
-| 697 | 202 | Anzhen |
-| 698 | 201 | Mala Phonchanthasone |
-| 699 | 201 | Mary Carriere |
-| 700 | 201 | Belle |
-| 701 | 201 | Brooke Kaune |
-| 702 | 200 | Allison Peterson |
-| 703 | 200 | Coleen Yoder |
-| 704 | 200 | Leighla Davis |
-| 705 | 200 | Clever Fallmatch |
-| 706 | 200 | Karen Mueller |
-| 707 | 199 | Michael Anthony Anstead |
-| 708 | 199 | Jim Wright |
+| 697 | 202 | Kati Eckstein |
+| 698 | 202 | Anzhen |
+| 699 | 201 | Mala Phonchanthasone |
+| 700 | 201 | Mary Carriere |
+| 701 | 201 | Belle |
+| 702 | 201 | Brooke Kaune |
+| 703 | 200 | Allison Peterson |
+| 704 | 200 | Coleen Yoder |
+| 705 | 200 | Leighla Davis |
+| 706 | 200 | Clever Fallmatch |
+| 707 | 200 | Karen Mueller |
+| 708 | 199 | Michael Anthony Anstead |
 | 709 | 199 | Cranky Basepiece |
-| 710 | 198 | Nicole Suber |
+| 710 | 199 | Jim Wright |
 | 711 | 198 | Tammy Roth |
-| 712 | 198 | Doug Small |
-| 713 | 198 | Flex |
-| 714 | 198 | Ques Pryor |
-| 715 | 197 | Giddy Chiseler |
-| 716 | 197 | Franky |
-| 717 | 197 | Jason Lamporte |
-| 718 | 197 | Jessica Perkins |
-| 719 | 197 | Kristen |
-| 720 | 197 | Sunny Tiltbuilder |
-| 721 | 196 | Greenie |
-| 722 | 196 | Barb Kiser |
-| 723 | 194 | Lindsey Ross |
-| 724 | 194 | Cassandra Green |
-| 725 | 194 | Rachel M. Farnsworth |
-| 726 | 194 | GiGi Cool |
-| 727 | 193 | Hyper Cascade |
-| 728 | 193 | Jaimie Walters |
-| 729 | 193 | Ginger Nesbitt |
-| 730 | 193 | Cortney Coleman |
-| 731 | 192 | Spicy Balanceblock |
-| 732 | 192 | Coleta Singleton-Gallishaw |
-| 733 | 191 | Melissa Willson |
-| 734 | 191 | Jami Borges |
-| 735 | 191 | Angeleye A James |
-| 736 | 191 | Firebone |
-| 737 | 191 | Nano. |
-| 738 | 191 | Chilly Surge |
-| 739 | 190 | Duck |
-| 740 | 190 | Kelly Hall Whitt |
-| 741 | 190 | Meagan Grimmett Washburn |
+| 712 | 198 | Nicole Suber |
+| 713 | 198 | Doug Small |
+| 714 | 198 | Flex |
+| 715 | 198 | Ques Pryor |
+| 716 | 197 | Giddy Chiseler |
+| 717 | 197 | Franky |
+| 718 | 197 | Jason Lamporte |
+| 719 | 197 | Jessica Perkins |
+| 720 | 197 | Kristen |
+| 721 | 197 | Sunny Tiltbuilder |
+| 722 | 196 | Greenie |
+| 723 | 196 | Barb Kiser |
+| 724 | 194 | Rachel M. Farnsworth |
+| 725 | 194 | Lindsey Ross |
+| 726 | 194 | Cassandra Green |
+| 727 | 194 | GiGi Cool |
+| 728 | 193 | Hyper Cascade |
+| 729 | 193 | Jaimie Walters |
+| 730 | 193 | Ginger Nesbitt |
+| 731 | 193 | Cortney Coleman |
+| 732 | 192 | Spicy Balanceblock |
+| 733 | 192 | Coleta Singleton-Gallishaw |
+| 734 | 191 | Melissa Willson |
+| 735 | 191 | Jami Borges |
+| 736 | 191 | Angeleye A James |
+| 737 | 191 | Firebone |
+| 738 | 191 | Nano. |
+| 739 | 191 | Chilly Surge |
+| 740 | 190 | Duck |
+| 741 | 190 | Kelly Hall Whitt |
 | 742 | 190 | Tammy Botkin |
-| 743 | 189 | Kristi K Milner |
-| 744 | 189 | Heather Vircik |
-| 745 | 189 | Audrey Bickford |
-| 746 | 189 | Poppy Strikerbuilder |
-| 747 | 189 | James Sayers |
-| 748 | 188 | Derrick |
-| 749 | 188 | Josephina |
+| 743 | 190 | Meagan Grimmett Washburn |
+| 744 | 189 | Kristi K Milner |
+| 745 | 189 | Heather Vircik |
+| 746 | 189 | Audrey Bickford |
+| 747 | 189 | Poppy Strikerbuilder |
+| 748 | 189 | James Sayers |
+| 749 | 188 | Derrick |
 | 750 | 188 | Chipper Towerzone |
 | 751 | 187 | Momof2wigglebutts |
 | 752 | 187 | Elizabeth Kline |
@@ -1152,28 +1152,28 @@
 | 1144 | 110 | Lesley Stoeckle |
 | 1145 | 110 | Stephen Gillam |
 | 1146 | 109 | Sandra Rotton Bragg |
-| 1147 | 109 | Spicy Wrecker |
-| 1148 | 109 | Mariya Cline |
-| 1149 | 108 | Swanky Twister |
-| 1150 | 108 | build master |
-| 1151 | 108 | Brooke Marie Fox |
-| 1152 | 108 | Peppy Piececlear |
-| 1153 | 107 | Giggy Linkgrid |
-| 1154 | 107 | Carole Brown |
-| 1155 | 107 | Witty Shatterline |
-| 1156 | 106 | Teresa Ann Curry |
-| 1157 | 106 | Tish |
-| 1158 | 106 | Brandon Ray Holt |
-| 1159 | 106 | CowboyChalie |
-| 1160 | 106 | Pamela Gambrell |
-| 1161 | 106 | R.w. Buck |
-| 1162 | 106 | Goofy Bridger |
-| 1163 | 106 | Toni Tortorici Humphryes |
-| 1164 | 105 | Patrick Woodard |
-| 1165 | 105 | Devon |
-| 1166 | 105 | Chill Wipegrid |
-| 1167 | 105 | Wildcat1220 |
-| 1168 | 105 | Nadine Velardo |
+| 1147 | 109 | Witty Shatterline |
+| 1148 | 109 | Spicy Wrecker |
+| 1149 | 109 | Mariya Cline |
+| 1150 | 108 | Swanky Twister |
+| 1151 | 108 | build master |
+| 1152 | 108 | Brooke Marie Fox |
+| 1153 | 108 | Peppy Piececlear |
+| 1154 | 107 | Giggy Linkgrid |
+| 1155 | 107 | Carole Brown |
+| 1156 | 106 | Pamela Gambrell |
+| 1157 | 106 | R.w. Buck |
+| 1158 | 106 | Goofy Bridger |
+| 1159 | 106 | Toni Tortorici Humphryes |
+| 1160 | 106 | Teresa Ann Curry |
+| 1161 | 106 | Tish |
+| 1162 | 106 | Brandon Ray Holt |
+| 1163 | 106 | CowboyChalie |
+| 1164 | 105 | Wildcat1220 |
+| 1165 | 105 | Nadine Velardo |
+| 1166 | 105 | Patrick Woodard |
+| 1167 | 105 | Devon |
+| 1168 | 105 | Chill Wipegrid |
 | 1169 | 104 | Greenbean |
 | 1170 | 104 | Dandy Matchzone |
 | 1171 | 104 | Que Henderson |
