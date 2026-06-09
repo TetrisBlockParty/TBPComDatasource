@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 11:38:43 UTC
+# Standings for team2 as of 2026-06-09 11:39:23 UTC
 
 **Total Participants:** 2477
 
@@ -183,13 +183,13 @@
 | 175 | 763 | Nettrainer |
 | 176 | 763 | Karen Reid Cenkush |
 | 177 | 757 | Danielle Blount |
-| 178 | 754 | MegaPooh |
-| 179 | 753 | Lashanda Bertram |
-| 180 | 750 | Tisha Hairston |
-| 181 | 742 | Lori Whitman |
-| 182 | 739 | SEH |
-| 183 | 721 | Cool Climber |
-| 184 | 721 | Nikki Carter |
+| 178 | 756 | SEH |
+| 179 | 754 | MegaPooh |
+| 180 | 753 | Lashanda Bertram |
+| 181 | 750 | Tisha Hairston |
+| 182 | 742 | Lori Whitman |
+| 183 | 721 | Nikki Carter |
+| 184 | 721 | Cool Climber |
 | 185 | 720 | Krisanne Kesner-Lonsby |
 | 186 | 711 | Alison Waller |
 | 187 | 711 | Kevin Mccoy |
@@ -250,10 +250,10 @@
 | 242 | 573 | Jennifer Smith |
 | 243 | 573 | Chirpy Grid |
 | 244 | 572 | Vistabrat |
-| 245 | 570 | Ashley Green |
-| 246 | 568 | Jenny |
+| 245 | 572 | Chipper Stackbuilder |
+| 246 | 570 | Ashley Green |
 | 247 | 568 | Theresa Huddleston |
-| 248 | 568 | Chipper Stackbuilder |
+| 248 | 568 | Jenny |
 | 249 | 567 | Cool Balancer |
 | 250 | 565 | Kelly Rogers |
 | 251 | 564 | Nancy Schwartz Gusman-Oliver |
@@ -1035,14 +1035,14 @@
 | 1027 | 128 | Hansent3 |
 | 1028 | 128 | Suzanne Davis |
 | 1029 | 127 | Jason Janssen |
-| 1030 | 127 | Christina Kearns |
-| 1031 | 127 | CK Hancock |
-| 1032 | 127 | Chirpy Clearpiece |
-| 1033 | 127 | Heather |
-| 1034 | 126 | Beth Engberg |
-| 1035 | 125 | Jessica Gayle Sears |
-| 1036 | 125 | Wacky Rollbuilder |
-| 1037 | 125 | Jenifer Gasho |
+| 1030 | 127 | Jenifer Gasho |
+| 1031 | 127 | Christina Kearns |
+| 1032 | 127 | CK Hancock |
+| 1033 | 127 | Chirpy Clearpiece |
+| 1034 | 127 | Heather |
+| 1035 | 126 | Beth Engberg |
+| 1036 | 125 | Jessica Gayle Sears |
+| 1037 | 125 | Wacky Rollbuilder |
 | 1038 | 125 | Sandra Pursell |
 | 1039 | 125 | Angelique Matzke Starns |
 | 1040 | 125 | Nicole Treadway |
