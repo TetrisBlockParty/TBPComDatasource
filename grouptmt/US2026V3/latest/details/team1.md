@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:37:23 UTC
+# Standings for team1 as of 2026-06-09 06:38:43 UTC
 
 **Total Participants:** 2003
 
@@ -46,19 +46,19 @@
 | 38 | 2433 | Jamie Willis |
 | 39 | 2381 | Epic Snapfall |
 | 40 | 2300 | Janine Hunter |
-| 41 | 2138 | Linzie Marie |
-| 42 | 2081 | Hyper Slamdrop |
-| 43 | 2078 | Mimi 1.0 |
-| 44 | 2076 | April Inboden |
-| 45 | 2034 | Shortstak |
+| 41 | 2184 | Shortstak |
+| 42 | 2138 | Linzie Marie |
+| 43 | 2081 | Hyper Slamdrop |
+| 44 | 2078 | Mimi 1.0 |
+| 45 | 2076 | April Inboden |
 | 46 | 2023 | Cherry Rose |
 | 47 | 1933 | JoJo |
 | 48 | 1931 | Ceilo Marie |
 | 49 | 1878 | Jennifer To |
 | 50 | 1841 | Robyn Caldwell |
 | 51 | 1841 | Therealdywoune Peay |
-| 52 | 1804 | Markeeta Lipscomb |
-| 53 | 1802 | Louis Richard Jr |
+| 52 | 1805 | Louis Richard Jr |
+| 53 | 1804 | Markeeta Lipscomb |
 | 54 | 1789 | Jolly Dropzone |
 | 55 | 1752 | D'Andra Stewart |
 | 56 | 1732 | Chris Russell |
@@ -148,7 +148,7 @@
 | 140 | 730 | ing410 |
 | 141 | 720 | Murg4dr01d |
 | 142 | 720 | Felicia Williams |
-| 143 | 715 | Shontanese Adams |
+| 143 | 717 | Shontanese Adams |
 | 144 | 708 | De'Laonzeo Anthony |
 | 145 | 703 | Lesley Brunkus Cianfaglione |
 | 146 | 702 | Chuck Quarles |
@@ -1345,36 +1345,36 @@
 | 1337 | 50 | TrapQween39Bi |
 | 1338 | 50 | Snappy Strikerpiece |
 | 1339 | 50 | Darlene Johnson |
-| 1340 | 49 | Vortex Viniq |
-| 1341 | 49 | Aridevina |
-| 1342 | 49 | Farah Simpson |
-| 1343 | 49 | Pretty-Lily |
+| 1340 | 49 | Frilly Riserbuilder |
+| 1341 | 49 | Vortex Viniq |
+| 1342 | 49 | Aridevina |
+| 1343 | 49 | Farah Simpson |
 | 1344 | 49 | Carl Richardson |
-| 1345 | 49 | Alyssa H |
-| 1346 | 49 | Jeremy Pope |
-| 1347 | 49 | TiffanyG |
-| 1348 | 49 | Tara Clarke |
-| 1349 | 49 | Brika Brika |
-| 1350 | 48 | Bubbly Base |
-| 1351 | 48 | BlessedBeauty |
-| 1352 | 48 | Crafty Pivoty |
-| 1353 | 48 | Frilly Riserbuilder |
-| 1354 | 48 | Mazi Johnson |
+| 1345 | 49 | Pretty-Lily |
+| 1346 | 49 | Alyssa H |
+| 1347 | 49 | Jeremy Pope |
+| 1348 | 49 | TiffanyG |
+| 1349 | 49 | Tara Clarke |
+| 1350 | 49 | Brika Brika |
+| 1351 | 48 | Mazi Johnson |
+| 1352 | 48 | Bubbly Base |
+| 1353 | 48 | BlessedBeauty |
+| 1354 | 48 | Crafty Pivoty |
 | 1355 | 48 | Davina Valentino |
-| 1356 | 48 | LoveLee |
-| 1357 | 48 | Bubbly Crawler |
-| 1358 | 48 | jaz |
-| 1359 | 47 | Arlea Mann |
-| 1360 | 47 | Mighty plantlady |
-| 1361 | 47 | Nayyirah Hariyyan |
-| 1362 | 47 | Pizzle |
-| 1363 | 47 | Kevin Turner |
-| 1364 | 47 | Giddy Bricky |
-| 1365 | 47 | Talya Richards |
-| 1366 | 47 | Dani McLeod |
-| 1367 | 47 | Harriet |
-| 1368 | 47 | OG LUCKY |
-| 1369 | 47 | Marc Jones |
+| 1356 | 48 | Bubbly Crawler |
+| 1357 | 48 | jaz |
+| 1358 | 48 | LoveLee |
+| 1359 | 47 | Giddy Bricky |
+| 1360 | 47 | OG LUCKY |
+| 1361 | 47 | Marc Jones |
+| 1362 | 47 | Harriet |
+| 1363 | 47 | Talya Richards |
+| 1364 | 47 | Dani McLeod |
+| 1365 | 47 | Pizzle |
+| 1366 | 47 | Kevin Turner |
+| 1367 | 47 | Mighty plantlady |
+| 1368 | 47 | Arlea Mann |
+| 1369 | 47 | Nayyirah Hariyyan |
 | 1370 | 46 | LOVE |
 | 1371 | 46 | Hasaan Jones |
 | 1372 | 46 | Beverly Redd-Fountain |
