@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:22:44 UTC
+# Standings for team1 as of 2026-06-09 20:23:21 UTC
 
 **Total Participants:** 2110
 
@@ -253,12 +253,12 @@
 | 245 | 507 | Erin Sabol |
 | 246 | 507 | Dion Gray |
 | 247 | 506 | Marie Wilson |
-| 248 | 503 | Simmone T. Kadiri |
-| 249 | 503 | Tessa Gaskin |
+| 248 | 503 | Tessa Gaskin |
+| 249 | 503 | Simmone T. Kadiri |
 | 250 | 498 | Julian Dickens Jr. |
-| 251 | 496 | Andre Sanon |
-| 252 | 496 | Kenny 'Tailormade' Boyd |
-| 253 | 496 | Tina Mitchell |
+| 251 | 496 | Kenny 'Tailormade' Boyd |
+| 252 | 496 | Tina Mitchell |
+| 253 | 496 | Andre Sanon |
 | 254 | 495 | Roberta Lynn |
 | 255 | 495 | Lashawn Wallace |
 | 256 | 494 | Rhonda Williams Warner |
@@ -274,87 +274,87 @@
 | 266 | 481 | Jenna Renee |
 | 267 | 481 | boogeywoogey |
 | 268 | 479 | Leebo Slice |
-| 269 | 476 | Choc |
-| 270 | 476 | Cachet A Ward |
-| 271 | 473 | Nicole Watson-Dixon |
-| 272 | 472 | Frisky Fall |
-| 273 | 468 | Sheila Burnham |
-| 274 | 466 | JaClanDiah |
-| 275 | 465 | Natasha Rucker |
-| 276 | 465 | Victor |
-| 277 | 462 | Jhonny Maii |
+| 269 | 476 | Cachet A Ward |
+| 270 | 476 | Choc |
+| 271 | 474 | rls |
+| 272 | 473 | Nicole Watson-Dixon |
+| 273 | 472 | Frisky Fall |
+| 274 | 468 | Sheila Burnham |
+| 275 | 466 | JaClanDiah |
+| 276 | 465 | Natasha Rucker |
+| 277 | 465 | Victor |
 | 278 | 462 | Jessica Russell |
-| 279 | 461 | Calvin Green |
-| 280 | 460 | Tanya Clayton |
-| 281 | 460 | Chasem45 |
-| 282 | 458 | Steve Reno |
-| 283 | 457 | Desire Rice |
-| 284 | 457 | Saranoh13 |
-| 285 | 455 | Penee Wiggins |
+| 279 | 462 | Jhonny Maii |
+| 280 | 461 | Calvin Green |
+| 281 | 460 | Tanya Clayton |
+| 282 | 460 | Chasem45 |
+| 283 | 458 | Steve Reno |
+| 284 | 457 | Desire Rice |
+| 285 | 457 | Saranoh13 |
 | 286 | 455 | Tamika Fisher |
-| 287 | 454 | win |
-| 288 | 453 | Anthony |
-| 289 | 452 | Kenny MrOnethousand Peck |
-| 290 | 448 | Sade Goodwine |
-| 291 | 447 | Zippy Tilefall |
-| 292 | 444 | StingerD |
-| 293 | 444 | Kevin M. McGhee Jr |
-| 294 | 442 | Hailey Hil |
-| 295 | 441 | Tessa Felice Hill |
-| 296 | 440 | Larina Cherie Johnson |
-| 297 | 439 | Block |
+| 287 | 455 | Penee Wiggins |
+| 288 | 454 | win |
+| 289 | 453 | Anthony |
+| 290 | 452 | Kenny MrOnethousand Peck |
+| 291 | 448 | Sade Goodwine |
+| 292 | 447 | Zippy Tilefall |
+| 293 | 444 | StingerD |
+| 294 | 444 | Kevin M. McGhee Jr |
+| 295 | 442 | Hailey Hil |
+| 296 | 441 | Tessa Felice Hill |
+| 297 | 440 | Larina Cherie Johnson |
 | 298 | 439 | Asani CHumba |
 | 299 | 439 | Kyra Coleman |
-| 300 | 438 | Queenie Perry |
-| 301 | 435 | Ashleyy Netchert |
-| 302 | 432 | Lashaunda |
-| 303 | 432 | Nerdy Climber |
-| 304 | 430 | Tarnisha Neicy Jones |
+| 300 | 439 | Block |
+| 301 | 438 | Queenie Perry |
+| 302 | 435 | Ashleyy Netchert |
+| 303 | 432 | Lashaunda |
+| 304 | 432 | Nerdy Climber |
 | 305 | 430 | Davionte DaeDae Hopson-Rodriguez |
-| 306 | 428 | Simone Bailey |
-| 307 | 428 | Joana Thompson |
-| 308 | 424 | Koi |
-| 309 | 423 | Smiley3000 |
+| 306 | 430 | Tarnisha Neicy Jones |
+| 307 | 428 | Simone Bailey |
+| 308 | 428 | Joana Thompson |
+| 309 | 424 | Koi |
 | 310 | 423 | Andrew Jay Vaughn |
-| 311 | 419 | Devin West |
+| 311 | 423 | Smiley3000 |
 | 312 | 419 | Dai Bo |
-| 313 | 419 | Johnathan Deese |
-| 314 | 413 | Curtis T Cirno |
-| 315 | 410 | Salim Thugger |
-| 316 | 409 | Erica Charlise |
+| 313 | 419 | Devin West |
+| 314 | 419 | Johnathan Deese |
+| 315 | 413 | Curtis T Cirno |
+| 316 | 410 | Salim Thugger |
 | 317 | 409 | Dacia Hicks |
 | 318 | 409 | Andy Rivera |
-| 319 | 405 | Dedra M Prester |
-| 320 | 402 | Chummy Frame |
-| 321 | 401 | LaTonya Myers |
-| 322 | 401 | Mikayla |
-| 323 | 400 | Denell Sims |
-| 324 | 400 | Coco |
-| 325 | 400 | Loopy Block |
-| 326 | 396 | Nikki Hogan |
-| 327 | 395 | Reginald Frank |
-| 328 | 394 | Jackie Sanasay |
-| 329 | 393 | Rayya Kiser |
-| 330 | 390 | Richard Flex |
+| 319 | 409 | Erica Charlise |
+| 320 | 405 | Dedra M Prester |
+| 321 | 402 | Chummy Frame |
+| 322 | 401 | LaTonya Myers |
+| 323 | 401 | Mikayla |
+| 324 | 400 | Denell Sims |
+| 325 | 400 | Coco |
+| 326 | 400 | Loopy Block |
+| 327 | 396 | Nikki Hogan |
+| 328 | 395 | Reginald Frank |
+| 329 | 394 | Jackie Sanasay |
+| 330 | 393 | Rayya Kiser |
 | 331 | 390 | Christian Pham |
 | 332 | 390 | Hasty Glidezone |
-| 333 | 388 | Poppy Buildout |
-| 334 | 386 | Tremaine Hiler |
+| 333 | 390 | Richard Flex |
+| 334 | 388 | Poppy Buildout |
 | 335 | 386 | De'Mear McKinney |
-| 336 | 385 | Bubbly Piececlear |
-| 337 | 383 | Heather Aurelia |
-| 338 | 382 | Brave Clearbuilder |
-| 339 | 381 | NastyFriend |
-| 340 | 380 | Ketrell Bailey |
-| 341 | 378 | Ashley MyBeauty Daniels |
-| 342 | 377 | rls |
+| 336 | 386 | Tremaine Hiler |
+| 337 | 385 | Bubbly Piececlear |
+| 338 | 383 | Heather Aurelia |
+| 339 | 382 | Brave Clearbuilder |
+| 340 | 381 | NastyFriend |
+| 341 | 380 | Ketrell Bailey |
+| 342 | 378 | Ashley MyBeauty Daniels |
 | 343 | 377 | Amber Wilson |
-| 344 | 377 | AF Cruz |
-| 345 | 377 | ♈️ Ariesbaby |
+| 344 | 377 | ♈️ Ariesbaby |
+| 345 | 377 | AF Cruz |
 | 346 | 374 | KeeKee Williams |
-| 347 | 371 | 大竹直之 |
+| 347 | 371 | Lauraly |
 | 348 | 371 | SeanSanchez |
-| 349 | 371 | Lauraly |
+| 349 | 371 | 大竹直之 |
 | 350 | 370 | Allison Baxter |
 | 351 | 370 | Jayjay Rich |
 | 352 | 369 | Jennah |
@@ -367,13 +367,13 @@
 | 359 | 363 | Christina Rebecca |
 | 360 | 362 | Kendra McIntyre |
 | 361 | 361 | Jawaun Daniels |
-| 362 | 361 | John Staub |
-| 363 | 361 | Lakiesha Crawford |
+| 362 | 361 | Lakiesha Crawford |
+| 363 | 361 | John Staub |
 | 364 | 360 | Giggy Edgefit |
 | 365 | 359 | Montréal Mars |
-| 366 | 358 | Snippy Breaker |
-| 367 | 358 | Analiza Ramos |
-| 368 | 358 | izzybella |
+| 366 | 358 | izzybella |
+| 367 | 358 | Snippy Breaker |
+| 368 | 358 | Analiza Ramos |
 | 369 | 357 | Giggly Tiltbuilder |
 | 370 | 357 | Jana Cheek |
 | 371 | 356 | Haley Bell |
@@ -435,8 +435,8 @@
 | 427 | 308 | Sammie Walker |
 | 428 | 307 | Crystal Cheresnowsky |
 | 429 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 430 | 303 | Guard Up |
-| 431 | 303 | Eric Spencer Whitaker |
+| 430 | 305 | Eric Spencer Whitaker |
+| 431 | 303 | Guard Up |
 | 432 | 302 | Yadira Salgado |
 | 433 | 302 | Lisa Fletcher |
 | 434 | 302 | Alivia Dove |
