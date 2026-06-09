@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:48:44 UTC
+# Standings for team1 as of 2026-06-09 08:49:23 UTC
 
 **Total Participants:** 2020
 
@@ -373,25 +373,25 @@
 | 365 | 308 | Darrel K Pemberton |
 | 366 | 307 | Wayne Savannah |
 | 367 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 368 | 304 | Jolly Tilefall |
+| 368 | 304 | Kendra McIntyre |
 | 369 | 304 | Snippy Breaker |
-| 370 | 304 | Kendra McIntyre |
+| 370 | 304 | Jolly Tilefall |
 | 371 | 303 | kitten |
 | 372 | 300 | rls |
-| 373 | 300 | LaShaun Stinson |
+| 373 | 300 | Sharee Robinson |
 | 374 | 300 | Ketrell Bailey |
-| 375 | 300 | Sharee Robinson |
+| 375 | 300 | LaShaun Stinson |
 | 376 | 299 | Smiley Clearpiece |
-| 377 | 298 | SeanSanchez |
-| 378 | 298 | McKayla Owens |
-| 379 | 296 | Nikki Hogan |
-| 380 | 295 | Mafio SO |
-| 381 | 295 | Derrius SeriousLee Burks |
-| 382 | 295 | Maribel Vasquez |
-| 383 | 293 | Tonya Lee Sanders |
-| 384 | 292 | Alivia Dove |
-| 385 | 292 | Shameka Thrasher |
-| 386 | 291 | Skippy |
+| 377 | 298 | McKayla Owens |
+| 378 | 298 | SeanSanchez |
+| 379 | 296 | Skippy |
+| 380 | 296 | Nikki Hogan |
+| 381 | 295 | Maribel Vasquez |
+| 382 | 295 | Derrius SeriousLee Burks |
+| 383 | 295 | Mafio SO |
+| 384 | 293 | Tonya Lee Sanders |
+| 385 | 292 | Alivia Dove |
+| 386 | 292 | Shameka Thrasher |
 | 387 | 291 | Melissa D. M. Hornsby |
 | 388 | 291 | Brian Taylor |
 | 389 | 288 | Lozuna |
@@ -710,24 +710,24 @@
 | 702 | 157 | Chirpy Buildgrid |
 | 703 | 157 | Lilly Brown |
 | 704 | 157 | Zany Breaker |
-| 705 | 156 | Semaj Johnson |
-| 706 | 156 | Melissa Hershberger |
+| 705 | 156 | Melissa Hershberger |
+| 706 | 156 | Semaj Johnson |
 | 707 | 156 | Sara |
-| 708 | 156 | LaSharmeika Fancher |
-| 709 | 156 | Karen Denen |
+| 708 | 156 | Karen Denen |
+| 709 | 156 | LaSharmeika Fancher |
 | 710 | 155 | MzJuice Box |
 | 711 | 155 | Poppy Smasher |
-| 712 | 155 | Undeniable Williams |
-| 713 | 155 | Angie Smith |
-| 714 | 154 | Glitzy Clusterer |
-| 715 | 154 | Dizzy Gridmatch |
-| 716 | 154 | Kp |
-| 717 | 154 | Octavia Bsb Johnson |
-| 718 | 153 | Cheery Swiper |
-| 719 | 152 | Megan Jones |
-| 720 | 152 | Wacky Stackbuilder |
-| 721 | 152 | Essence Jones |
-| 722 | 152 | TRUBBLE45 |
+| 712 | 155 | Angie Smith |
+| 713 | 155 | Undeniable Williams |
+| 714 | 154 | TRUBBLE45 |
+| 715 | 154 | Glitzy Clusterer |
+| 716 | 154 | Dizzy Gridmatch |
+| 717 | 154 | Kp |
+| 718 | 154 | Octavia Bsb Johnson |
+| 719 | 153 | Cheery Swiper |
+| 720 | 152 | Megan Jones |
+| 721 | 152 | Wacky Stackbuilder |
+| 722 | 152 | Essence Jones |
 | 723 | 151 | Terrie |
 | 724 | 151 | Shanell Thomas |
 | 725 | 151 | Pj Rojas |
