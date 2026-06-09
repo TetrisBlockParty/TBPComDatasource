@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:54:47 UTC
+# Standings for team1 as of 2026-06-09 11:55:22 UTC
 
 **Total Participants:** 2039
 
@@ -153,11 +153,11 @@
 | 145 | 756 | Jimmie Makia |
 | 146 | 754 | Jhaime |
 | 147 | 747 | Carolynne Walker-Bell |
-| 148 | 730 | Chuck Quarles |
-| 149 | 730 | ing410 |
-| 150 | 720 | Felicia Williams |
-| 151 | 719 | Dena Marie Lee |
-| 152 | 717 | Lesley Brunkus Cianfaglione |
+| 148 | 730 | ing410 |
+| 149 | 730 | Chuck Quarles |
+| 150 | 722 | Lesley Brunkus Cianfaglione |
+| 151 | 720 | Felicia Williams |
+| 152 | 719 | Dena Marie Lee |
 | 153 | 700 | Eugina Slater |
 | 154 | 694 | Anthony Washington |
 | 155 | 693 | Andi McGreevy |
@@ -176,8 +176,8 @@
 | 168 | 661 | sha |
 | 169 | 657 | Ann White |
 | 170 | 646 | TeeMaster Barber IsLyfe |
-| 171 | 645 | Keke Ferguson |
-| 172 | 645 | Marcheta Cervantez |
+| 171 | 645 | Marcheta Cervantez |
+| 172 | 645 | Keke Ferguson |
 | 173 | 643 | Ottison Dianna |
 | 174 | 637 | FallDee |
 | 175 | 630 | Bambi Love |
@@ -194,26 +194,26 @@
 | 186 | 599 | Zappy Riser |
 | 187 | 596 | Cj Gorman |
 | 188 | 590 | xXEKUNXx |
-| 189 | 585 | Jamal Itzjusmall Chambers |
-| 190 | 584 | Novaa |
-| 191 | 583 | TT |
-| 192 | 583 | Block King |
-| 193 | 580 | Felicia Cain |
-| 194 | 577 | Randizzle |
-| 195 | 577 | Nina Davis |
-| 196 | 575 | David Fuentes |
-| 197 | 574 | DaVonte' Cretter |
-| 198 | 574 | LaToya Chambers |
-| 199 | 573 | Nobles Brandon |
-| 200 | 570 | Giggy Clusterer |
-| 201 | 569 | Zachary Colegrove |
-| 202 | 567 | Sharon Cail |
-| 203 | 566 | Sarah Clark |
+| 189 | 585 | Sarah Clark |
+| 190 | 585 | Jamal Itzjusmall Chambers |
+| 191 | 584 | Novaa |
+| 192 | 583 | TT |
+| 193 | 583 | Block King |
+| 194 | 580 | Felicia Cain |
+| 195 | 577 | Randizzle |
+| 196 | 577 | Nina Davis |
+| 197 | 575 | David Fuentes |
+| 198 | 574 | DaVonte' Cretter |
+| 199 | 574 | LaToya Chambers |
+| 200 | 573 | Nobles Brandon |
+| 201 | 570 | Giggy Clusterer |
+| 202 | 569 | Zachary Colegrove |
+| 203 | 567 | Sharon Cail |
 | 204 | 565 | IThinkNot |
 | 205 | 563 | Wild Out Nai |
 | 206 | 562 | Yasmin Nakea Wright |
 | 207 | 560 | Zippy Lifter |
-| 208 | 559 | Tobey Marberry |
+| 208 | 560 | Tobey Marberry |
 | 209 | 555 | Dee McCool |
 | 210 | 552 | Trina Greenwood |
 | 211 | 552 | Ty Øtg |
@@ -624,14 +624,14 @@
 | 616 | 192 | Donna Payne |
 | 617 | 191 | Gbnola |
 | 618 | 191 | Miera Nicole |
-| 619 | 191 | Cori Cleland |
-| 620 | 191 | Nona Harriel |
-| 621 | 190 | Lester Malone |
-| 622 | 190 | Chipper Snapper |
-| 623 | 190 | Adrian Wilson |
-| 624 | 190 | Jovy |
-| 625 | 189 | The DUBZ |
-| 626 | 189 | Lucy |
+| 619 | 191 | Lucy |
+| 620 | 191 | Cori Cleland |
+| 621 | 191 | Nona Harriel |
+| 622 | 190 | Lester Malone |
+| 623 | 190 | Chipper Snapper |
+| 624 | 190 | Adrian Wilson |
+| 625 | 190 | Jovy |
+| 626 | 189 | The DUBZ |
 | 627 | 189 | Sean White |
 | 628 | 189 | Loopy Tiler |
 | 629 | 188 | Tyiesha Pie Farmer |
