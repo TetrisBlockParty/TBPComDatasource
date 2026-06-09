@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:34:45 UTC
+# Standings for team1 as of 2026-06-09 14:35:21 UTC
 
 **Total Participants:** 2060
 
@@ -129,7 +129,7 @@
 | 121 | 956 | Michael J Gresham |
 | 122 | 952 | Jaida De'Anne Cox |
 | 123 | 930 | Murg4dr01d |
-| 124 | 919 | Slim Shedidthat |
+| 124 | 923 | Slim Shedidthat |
 | 125 | 908 | Danielle Barthelme |
 | 126 | 896 | Alana Renee |
 | 127 | 883 | Rolanda Williams |
@@ -263,11 +263,11 @@
 | 255 | 465 | Cheeky Pop |
 | 256 | 462 | Jenna Renee |
 | 257 | 462 | Frisky Fall |
-| 258 | 462 | Jessica Russell |
-| 259 | 462 | Jhonny Maii |
-| 260 | 460 | OhNoZer0 |
+| 258 | 462 | Jhonny Maii |
+| 259 | 462 | Jessica Russell |
+| 260 | 461 | Calvin Green |
 | 261 | 460 | Tanya Clayton |
-| 262 | 458 | Calvin Green |
+| 262 | 460 | OhNoZer0 |
 | 263 | 457 | Choc |
 | 264 | 455 | Tamika Fisher |
 | 265 | 453 | Elizabeth Vega Coreano |
@@ -485,8 +485,8 @@
 | 477 | 256 | Dreamzzz |
 | 478 | 256 | Jessie N Michael Silvers |
 | 479 | 256 | TBABYJ |
-| 480 | 255 | Mister Reid |
-| 481 | 255 | Michelle Peters |
+| 480 | 255 | Michelle Peters |
+| 481 | 255 | Mister Reid |
 | 482 | 255 | Mighty Dropper |
 | 483 | 255 | Emily Wright |
 | 484 | 254 | Brittany Sara Heldwein |
@@ -496,24 +496,24 @@
 | 488 | 253 | Tasha |
 | 489 | 251 | Adrian Harris |
 | 490 | 249 | Fina McKinnis |
-| 491 | 249 | Nate Myers |
-| 492 | 249 | Lisa Fletcher |
-| 493 | 248 | Melissa Olvera |
+| 491 | 249 | Vera Beckford |
+| 492 | 249 | Nate Myers |
+| 493 | 249 | Lisa Fletcher |
 | 494 | 248 | Valerie Alexander |
-| 495 | 248 | Vera Beckford |
-| 496 | 247 | Mahagony Small |
-| 497 | 247 | Taz Ballard |
-| 498 | 247 | SceneGreenz Wali |
-| 499 | 245 | Brittnay Wright |
-| 500 | 245 | ChunLi |
-| 501 | 244 | Slinky Snapbuilder |
-| 502 | 244 | Saranoh13 |
+| 495 | 248 | Melissa Olvera |
+| 496 | 247 | Taz Ballard |
+| 497 | 247 | SceneGreenz Wali |
+| 498 | 247 | Mahagony Small |
+| 499 | 245 | ChunLi |
+| 500 | 245 | BonnieB |
+| 501 | 245 | Brittnay Wright |
+| 502 | 244 | Slinky Snapbuilder |
 | 503 | 244 | Perky Pusher |
-| 504 | 243 | BonnieB |
+| 504 | 244 | Saranoh13 |
 | 505 | 242 | Tamika Rocheteau |
-| 506 | 240 | SherylU |
+| 506 | 240 | Velma Jones |
 | 507 | 240 | Malcolm Stanley |
-| 508 | 240 | Velma Jones |
+| 508 | 240 | SherylU |
 | 509 | 239 | Manda Allen |
 | 510 | 239 | Meshia |
 | 511 | 239 | Guy Incognito |
@@ -623,10 +623,10 @@
 | 615 | 200 | Jen Hallin |
 | 616 | 200 | Leavon Smith |
 | 617 | 200 | Karen Knapp |
-| 618 | 200 | Nisha Sunshine Jenkins |
-| 619 | 200 | Jimmy Shannon |
-| 620 | 200 | Katrina Ramey |
-| 621 | 199 | Betsy B. Yohan |
+| 618 | 200 | Betsy B. Yohan |
+| 619 | 200 | Nisha Sunshine Jenkins |
+| 620 | 200 | Jimmy Shannon |
+| 621 | 200 | Katrina Ramey |
 | 622 | 198 | Shannon Carriger |
 | 623 | 198 | Darrelle Short |
 | 624 | 198 | Rhianna Dinki Austin |
