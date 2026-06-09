@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:52:43 UTC
+# Standings for team1 as of 2026-06-09 12:53:22 UTC
 
 **Total Participants:** 2043
 
@@ -111,7 +111,7 @@
 | 103 | 1121 | Lisa Müller |
 | 104 | 1120 | IamJust Neyamijah Washington Sr. |
 | 105 | 1091 | Richard Horton |
-| 106 | 1076 | Robbie Cheeseman |
+| 106 | 1085 | Robbie Cheeseman |
 | 107 | 1057 | ELM |
 | 108 | 1057 | Tameka Jones |
 | 109 | 1034 | Christana Imjustbutton Stone |
@@ -443,50 +443,50 @@
 | 435 | 275 | Kelli Couture |
 | 436 | 275 | Charlene Baltimore |
 | 437 | 275 | Chris Sladoje |
-| 438 | 274 | Shakmar |
-| 439 | 274 | 신재호 |
+| 438 | 274 | 신재호 |
+| 439 | 274 | Shakmar |
 | 440 | 271 | Bambam |
-| 441 | 269 | Stephanie L Jeffries Moultrie |
-| 442 | 269 | Kristine Marie Palmer |
-| 443 | 269 | Aihpos |
+| 441 | 269 | Aihpos |
+| 442 | 269 | Stephanie L Jeffries Moultrie |
+| 443 | 269 | Kristine Marie Palmer |
 | 444 | 268 | C Lo Green |
 | 445 | 268 | Giddy Staggerpiece |
 | 446 | 266 | Rebecca Jackson |
 | 447 | 264 | Boldy Matchbuilder |
-| 448 | 262 | Denisa Amazon Clark |
-| 449 | 262 | FunTime |
+| 448 | 262 | FunTime |
+| 449 | 262 | Denisa Amazon Clark |
 | 450 | 261 | Brittany Fells |
-| 451 | 261 | LaTonya Myers |
-| 452 | 261 | Jelyfish |
+| 451 | 261 | Jelyfish |
+| 452 | 261 | LaTonya Myers |
 | 453 | 260 | Alyssa Rae |
 | 454 | 260 | HS Arce |
 | 455 | 259 | Juan Alvarez |
-| 456 | 259 | Slinky Clearzone |
-| 457 | 259 | Stacy Nicole |
+| 456 | 259 | Stacy Nicole |
+| 457 | 259 | Slinky Clearzone |
 | 458 | 258 | Kimberly Linares Hernandez |
 | 459 | 257 | Twisty Brickfit |
-| 460 | 256 | Jessie N Michael Silvers |
-| 461 | 256 | TBABYJ |
-| 462 | 256 | Dreamzzz |
-| 463 | 255 | Mighty Dropper |
+| 460 | 256 | Dreamzzz |
+| 461 | 256 | Jessie N Michael Silvers |
+| 462 | 256 | TBABYJ |
+| 463 | 255 | Michelle Peters |
 | 464 | 255 | Emily Wright |
 | 465 | 255 | Mister Reid |
-| 466 | 255 | Michelle Peters |
+| 466 | 255 | Mighty Dropper |
 | 467 | 254 | Glitzy Patternline |
 | 468 | 254 | Brittany Sara Heldwein |
 | 469 | 254 | Asha Langford |
 | 470 | 253 | Abigail Newman Sweet |
 | 471 | 253 | Tasha |
 | 472 | 253 | Kristie |
-| 473 | 249 | Nate Myers |
-| 474 | 249 | Fina McKinnis |
+| 473 | 249 | Fina McKinnis |
+| 474 | 249 | Nate Myers |
 | 475 | 248 | Melissa Olvera |
 | 476 | 247 | SceneGreenz Wali |
-| 477 | 247 | Mahagony Small |
-| 478 | 246 | Latore Maxie |
-| 479 | 245 | Brittnay Wright |
-| 480 | 245 | Vera Beckford |
-| 481 | 244 | Saucy Faller |
+| 477 | 247 | Saucy Faller |
+| 478 | 247 | Mahagony Small |
+| 479 | 246 | Latore Maxie |
+| 480 | 245 | Brittnay Wright |
+| 481 | 245 | Vera Beckford |
 | 482 | 244 | Slinky Snapbuilder |
 | 483 | 244 | Brittanie Wardlow |
 | 484 | 244 | Perky Pusher |
@@ -902,44 +902,44 @@
 | 894 | 120 | Yellowguy3 |
 | 895 | 120 | Charles Johnson |
 | 896 | 120 | Kàrma Lee |
-| 897 | 119 | Albert McKnight |
-| 898 | 119 | Danny Talbot |
-| 899 | 119 | Sylvia Offically A Mcgowan |
-| 900 | 119 | Octavia Whitmire |
-| 901 | 119 | Analesia Taylor |
-| 902 | 119 | Hyy |
-| 903 | 118 | Hasty Pivoty |
-| 904 | 118 | Kidgib5 |
-| 905 | 118 | Jjhandsome |
-| 906 | 118 | Shanna Green Williams |
-| 907 | 118 | Raymond Boosie Freeman |
-| 908 | 118 | Felicia Yahuah Johnson |
-| 909 | 118 | Maria Baez Medina |
-| 910 | 118 | Dirty Deeds |
-| 911 | 118 | Gabriela Hernandez |
-| 912 | 117 | DirtiestofMikes |
-| 913 | 117 | Bruce Paléncia |
-| 914 | 117 | Cheery Clusterbuilder |
-| 915 | 117 | Spicy Tiler |
-| 916 | 117 | Kayel Good |
+| 897 | 120 | Crtjstr |
+| 898 | 119 | Albert McKnight |
+| 899 | 119 | Danny Talbot |
+| 900 | 119 | Sylvia Offically A Mcgowan |
+| 901 | 119 | Octavia Whitmire |
+| 902 | 119 | Analesia Taylor |
+| 903 | 119 | Hyy |
+| 904 | 118 | Hasty Pivoty |
+| 905 | 118 | Kidgib5 |
+| 906 | 118 | Jjhandsome |
+| 907 | 118 | Shanna Green Williams |
+| 908 | 118 | Raymond Boosie Freeman |
+| 909 | 118 | Felicia Yahuah Johnson |
+| 910 | 118 | Maria Baez Medina |
+| 911 | 118 | Dirty Deeds |
+| 912 | 118 | Gabriela Hernandez |
+| 913 | 117 | DirtiestofMikes |
+| 914 | 117 | Bruce Paléncia |
+| 915 | 117 | Cheery Clusterbuilder |
+| 916 | 117 | Spicy Tiler |
 | 917 | 117 | Andrea Jackson |
-| 918 | 117 | Jordan Deon Elery |
-| 919 | 117 | Shanjerrica Taylor Rosell |
-| 920 | 116 | Tray Tolliver |
-| 921 | 116 | Alonzo Kirkland |
-| 922 | 115 | Tamyka E Williams |
-| 923 | 115 | Jennifer Moore |
-| 924 | 115 | Kimberly Noble |
+| 918 | 117 | Kayel Good |
+| 919 | 117 | Jordan Deon Elery |
+| 920 | 117 | Shanjerrica Taylor Rosell |
+| 921 | 116 | Tray Tolliver |
+| 922 | 116 | Alonzo Kirkland |
+| 923 | 115 | Kimberly Noble |
+| 924 | 115 | Shiny Lift |
 | 925 | 115 | Kathleen Boyles |
-| 926 | 115 | Shiny Lift |
-| 927 | 115 | Mario Meliodas |
-| 928 | 115 | Crtjstr |
+| 926 | 115 | Tamyka E Williams |
+| 927 | 115 | Jennifer Moore |
+| 928 | 115 | Mario Meliodas |
 | 929 | 115 | Vontesha Kidd |
 | 930 | 115 | WOOLFF |
 | 931 | 114 | Yellowbone |
 | 932 | 114 | Solomon Valarie |
-| 933 | 114 | LAhoneybun82 |
-| 934 | 114 | jasi |
+| 933 | 114 | jasi |
+| 934 | 114 | LAhoneybun82 |
 | 935 | 114 | Happy Blocky |
 | 936 | 114 | Seirra Robinson |
 | 937 | 114 | Tyree Tman Shinette |
