@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 14:26:44 UTC
+# Standings for team1 as of 2026-06-09 14:27:22 UTC
 
 **Total Participants:** 2058
 
@@ -382,20 +382,20 @@
 | 374 | 320 | Loopy Block |
 | 375 | 320 | Tracey Johnson |
 | 376 | 319 | Smiley Clearpiece |
-| 377 | 318 | Nerdy Snapfall |
-| 378 | 316 | Peppy Towerbuilder |
-| 379 | 316 | Shanaa Germany Crittenden |
-| 380 | 315 | Jae Thompson-Tyus |
-| 381 | 315 | Tesiree Cray |
+| 377 | 319 | Kelli Couture |
+| 378 | 318 | Nerdy Snapfall |
+| 379 | 316 | Peppy Towerbuilder |
+| 380 | 316 | Shanaa Germany Crittenden |
+| 381 | 315 | Jae Thompson-Tyus |
 | 382 | 315 | KeeKee Williams |
-| 383 | 314 | Tay |
-| 384 | 314 | Kelli Couture |
-| 385 | 314 | Tonya McElroy |
+| 383 | 315 | Tesiree Cray |
+| 384 | 314 | Chilly Wipebuilder |
+| 385 | 314 | Tay |
 | 386 | 314 | Rayya Kiser |
-| 387 | 314 | Chilly Wipebuilder |
+| 387 | 314 | Tonya McElroy |
 | 388 | 313 | Dizzy Dashy |
-| 389 | 312 | Shanns |
-| 390 | 312 | Daris Swearington |
+| 389 | 312 | Daris Swearington |
+| 390 | 312 | Shanns |
 | 391 | 311 | Brittany Fells |
 | 392 | 311 | Cynthia Bradley |
 | 393 | 309 | Sharee Robinson |
