@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:24:45 UTC
+# Standings for team1 as of 2026-06-09 15:25:23 UTC
 
 **Total Participants:** 2066
 
@@ -70,7 +70,7 @@
 | 62 | 1659 | Moomoo |
 | 63 | 1642 | TAZ-MF-NIZIL |
 | 64 | 1568 | Helen Smith |
-| 65 | 1553 | Blockhead |
+| 65 | 1562 | Blockhead |
 | 66 | 1536 | Eric Mcgaughy |
 | 67 | 1499 | Sanjuro |
 | 68 | 1499 | Danielle DeLozier Plesec |
@@ -588,9 +588,9 @@
 | 580 | 213 | crumb bumc |
 | 581 | 213 | Daring Riserfit |
 | 582 | 213 | Nyhlah Patterson |
-| 583 | 213 | Sarah Steckbauer |
-| 584 | 212 | Tyree Tman Shinette |
-| 585 | 212 | Angela Brown Babin |
+| 583 | 213 | Angela Brown Babin |
+| 584 | 213 | Sarah Steckbauer |
+| 585 | 212 | Tyree Tman Shinette |
 | 586 | 212 | Simply-Beautiful007 |
 | 587 | 211 | Lynnette WheelerBushnell |
 | 588 | 210 | Abby |
