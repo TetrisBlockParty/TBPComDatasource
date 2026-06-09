@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 02:46:21 UTC
+# Standings for team1 as of 2026-06-09 02:46:45 UTC
 
 **Total Participants:** 1949
 
@@ -72,7 +72,7 @@
 | 64 | 1382 | Louis Richard Jr |
 | 65 | 1370 | Blockhead |
 | 66 | 1359 | Uneekly Mayde |
-| 67 | 1348 | Sanjuro |
+| 67 | 1355 | Sanjuro |
 | 68 | 1313 | Ashley Espeut |
 | 69 | 1288 | Dawn L Washington-Feuquay |
 | 70 | 1273 | MamaBear |
@@ -206,9 +206,9 @@
 | 198 | 494 | Ty Øtg |
 | 199 | 494 | Antonia Wyche |
 | 200 | 491 | Mic Balew |
-| 201 | 490 | Lashawn Wallace |
-| 202 | 486 | Andre Sanon |
-| 203 | 485 | xXEKUNXx |
+| 201 | 490 | xXEKUNXx |
+| 202 | 490 | Lashawn Wallace |
+| 203 | 486 | Andre Sanon |
 | 204 | 485 | FallDee |
 | 205 | 484 | Telisha Mims |
 | 206 | 483 | SPNLover24 |
