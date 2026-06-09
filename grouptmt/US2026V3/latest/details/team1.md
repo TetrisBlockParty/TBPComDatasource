@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:22:45 UTC
+# Standings for team1 as of 2026-06-09 21:23:22 UTC
 
 **Total Participants:** 2113
 
@@ -15,7 +15,7 @@
 | 7 | 9620 | Charnay Peacock |
 | 8 | 9433 | Songne Arif |
 | 9 | 9340 | Debbie Carswell |
-| 10 | 9139 | Dyane Leah Ware |
+| 10 | 9193 | Dyane Leah Ware |
 | 11 | 8890 | Timothy Robert |
 | 12 | 8746 | Tyeina Johnson |
 | 13 | 7896 | Tracy Cohen |
@@ -93,10 +93,10 @@
 | 85 | 1356 | Sarah Marie |
 | 86 | 1355 | Whitney Butler |
 | 87 | 1349 | Court Court |
-| 88 | 1340 | La'Chae Nickole |
-| 89 | 1331 | Ryan Meilleur |
-| 90 | 1327 | Dawn L Washington-Feuquay |
-| 91 | 1325 | PandaPrincess |
+| 88 | 1345 | PandaPrincess |
+| 89 | 1340 | La'Chae Nickole |
+| 90 | 1331 | Ryan Meilleur |
+| 91 | 1327 | Dawn L Washington-Feuquay |
 | 92 | 1323 | Denise B |
 | 93 | 1313 | Ashley Espeut |
 | 94 | 1299 | Jason Mungin |
@@ -249,9 +249,9 @@
 | 241 | 526 | Joey Albright |
 | 242 | 524 | rls |
 | 243 | 523 | Christopher Dreamsareality McEachin |
-| 244 | 521 | Cheery Linkfall |
-| 245 | 517 | Tamara Johnson-Carter |
-| 246 | 514 | Mikayla |
+| 244 | 523 | Mikayla |
+| 245 | 521 | Cheery Linkfall |
+| 246 | 517 | Tamara Johnson-Carter |
 | 247 | 511 | Dizzy Dropper |
 | 248 | 510 | OhNoZer0 |
 | 249 | 507 | Dion Gray |
@@ -463,8 +463,8 @@
 | 455 | 292 | Abby |
 | 456 | 291 | Brian Taylor |
 | 457 | 291 | LuckyStar |
-| 458 | 290 | SnazzyIvy |
-| 459 | 289 | TBABYJ |
+| 458 | 290 | TBABYJ |
+| 459 | 290 | SnazzyIvy |
 | 460 | 289 | Kristine Marie Palmer |
 | 461 | 288 | Ladybug |
 | 462 | 288 | Lozuna |
@@ -873,8 +873,8 @@
 | 865 | 144 | Bouncy Glide |
 | 866 | 144 | Hasty Pivoty |
 | 867 | 144 | Sheesh |
-| 868 | 142 | Desi Guerra |
-| 869 | 142 | JesusSaves 😇 |
+| 868 | 143 | JesusSaves 😇 |
+| 869 | 142 | Desi Guerra |
 | 870 | 142 | Boricua64 |
 | 871 | 142 | messyboots |
 | 872 | 142 | Trusi Rusi |
