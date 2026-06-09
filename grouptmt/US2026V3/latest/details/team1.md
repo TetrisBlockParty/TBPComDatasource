@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 01:56:20 UTC
+# Standings for team1 as of 2026-06-09 01:56:45 UTC
 
 **Total Participants:** 1928
 
@@ -11,8 +11,8 @@
 | 3 | 12224 | Charlie Roehm |
 | 4 | 11054 | Carrie English |
 | 5 | 9942 | Death by SnuSnu |
-| 6 | 9543 | Charnay Peacock |
-| 7 | 9405 | Speedy Spinblock |
+| 6 | 9667 | Speedy Spinblock |
+| 7 | 9543 | Charnay Peacock |
 | 8 | 9365 | Songne Arif |
 | 9 | 8746 | Tyeina Johnson |
 | 10 | 8549 | Dyane Leah Ware |
@@ -105,8 +105,8 @@
 | 97 | 1017 | She Higgy |
 | 98 | 1014 | Chris Caniglia |
 | 99 | 995 | Whitney Butler |
-| 100 | 991 | Keeta Chickswit Scott |
-| 101 | 991 | MamaBear |
+| 100 | 994 | MamaBear |
+| 101 | 991 | Keeta Chickswit Scott |
 | 102 | 977 | Quirky Fallgrid |
 | 103 | 974 | Joy Citizen Pickney |
 | 104 | 969 | Robbie Cheeseman |
@@ -150,23 +150,23 @@
 | 142 | 668 | JaszyBadd |
 | 143 | 667 | Shontanese Adams |
 | 144 | 651 | Alana Renee |
-| 145 | 645 | Ebony Waynes-robinson |
-| 146 | 644 | Dena Marie Lee |
-| 147 | 643 | Ottison Dianna |
-| 148 | 642 | Gael Quintana |
-| 149 | 640 | Murg4dr01d |
-| 150 | 633 | Rackemwillie34 |
-| 151 | 631 | sha |
-| 152 | 630 | Bambi Love |
-| 153 | 629 | Charletha Williams |
-| 154 | 617 | Crystal Anderson |
-| 155 | 611 | SyTheEvilGenius1 |
-| 156 | 610 | Genne Scott |
-| 157 | 605 | Byron Mario Cawthon |
-| 158 | 599 | Tammye Turner |
-| 159 | 596 | Cj Gorman |
-| 160 | 584 | Novaa |
-| 161 | 576 | Slim Shedidthat |
+| 145 | 650 | Slim Shedidthat |
+| 146 | 645 | Ebony Waynes-robinson |
+| 147 | 644 | Dena Marie Lee |
+| 148 | 643 | Ottison Dianna |
+| 149 | 642 | Gael Quintana |
+| 150 | 640 | Murg4dr01d |
+| 151 | 633 | Rackemwillie34 |
+| 152 | 631 | sha |
+| 153 | 630 | Bambi Love |
+| 154 | 629 | Charletha Williams |
+| 155 | 617 | Crystal Anderson |
+| 156 | 611 | SyTheEvilGenius1 |
+| 157 | 610 | Genne Scott |
+| 158 | 605 | Byron Mario Cawthon |
+| 159 | 599 | Tammye Turner |
+| 160 | 596 | Cj Gorman |
+| 161 | 584 | Novaa |
 | 162 | 574 | DaVonte' Cretter |
 | 163 | 573 | Nobles Brandon |
 | 164 | 573 | TT |
@@ -181,8 +181,8 @@
 | 173 | 549 | Shell Lewis |
 | 174 | 546 | Dee McCool |
 | 175 | 546 | Po Marley |
-| 176 | 541 | Michelle Titus |
-| 177 | 541 | Helen Smith |
+| 176 | 541 | Helen Smith |
+| 177 | 541 | Michelle Titus |
 | 178 | 537 | Plucky Slamdrop |
 | 179 | 531 | Abraham Espaillat |
 | 180 | 527 | MommaCia |
@@ -214,10 +214,10 @@
 | 206 | 466 | Tootsie Pop |
 | 207 | 466 | pooh |
 | 208 | 465 | Natasha Rucker |
-| 209 | 460 | Tanya Clayton |
-| 210 | 458 | Jimmie Makia |
-| 211 | 456 | Cachet A Ward |
-| 212 | 456 | SPNLover24 |
+| 209 | 465 | SPNLover24 |
+| 210 | 460 | Tanya Clayton |
+| 211 | 458 | Jimmie Makia |
+| 212 | 456 | Cachet A Ward |
 | 213 | 455 | Tamara Johnson-Carter |
 | 214 | 452 | Kenny MrOnethousand Peck |
 | 215 | 452 | Lashawn Wallace |
@@ -731,95 +731,95 @@
 | 723 | 134 | Hyedie Badie |
 | 724 | 134 | Clint Mcdowell |
 | 725 | 133 | Derald Miller |
-| 726 | 133 | Comedian Gdane |
-| 727 | 132 | Xana Zania Bopp |
-| 728 | 132 | TieMs BHughez |
-| 729 | 132 | Bambam |
-| 730 | 132 | Jeffrey Barrows |
-| 731 | 132 | Carla |
-| 732 | 131 | Cynthia Cruell |
-| 733 | 131 | Koreen Johnson-Woolford |
-| 734 | 131 | Kimberly Anderson |
-| 735 | 131 | Christy Quick |
-| 736 | 130 | Jessica Davis |
-| 737 | 130 | Andra Ward |
-| 738 | 130 | Tito Divyn |
-| 739 | 130 | Jen Hallin |
+| 726 | 133 | Poppy Smasher |
+| 727 | 133 | Comedian Gdane |
+| 728 | 132 | Xana Zania Bopp |
+| 729 | 132 | TieMs BHughez |
+| 730 | 132 | Bambam |
+| 731 | 132 | Jeffrey Barrows |
+| 732 | 132 | Carla |
+| 733 | 131 | Cynthia Cruell |
+| 734 | 131 | Koreen Johnson-Woolford |
+| 735 | 131 | Kimberly Anderson |
+| 736 | 131 | Christy Quick |
+| 737 | 130 | Jen Hallin |
+| 738 | 130 | Jessica Davis |
+| 739 | 130 | Andra Ward |
 | 740 | 130 | Gerold Folk Haddock |
-| 741 | 129 | Chino Baby |
-| 742 | 129 | Williams Candace |
-| 743 | 129 | Stronger Wiser Better |
-| 744 | 129 | Twisty Dashy |
-| 745 | 129 | Jas |
-| 746 | 129 | JesusSaves 😇 |
-| 747 | 129 | Darrel Pemberton |
-| 748 | 128 | Brittany Britkany Marsden-Garrison |
+| 741 | 130 | Tito Divyn |
+| 742 | 129 | JesusSaves 😇 |
+| 743 | 129 | Twisty Dashy |
+| 744 | 129 | Jas |
+| 745 | 129 | Darrel Pemberton |
+| 746 | 129 | Stronger Wiser Better |
+| 747 | 129 | Chino Baby |
+| 748 | 129 | Williams Candace |
 | 749 | 128 | Li-Li Ratliff |
-| 750 | 128 | Chris Watson Draper |
-| 751 | 127 | Pretty Yella |
-| 752 | 127 | Poppy Smasher |
-| 753 | 127 | Marsha Earl |
-| 754 | 127 | Witty Clear |
-| 755 | 126 | Latoya Carson |
-| 756 | 126 | Benjamin Livingston |
-| 757 | 126 | Jess |
-| 758 | 126 | Shawna Passwater |
-| 759 | 126 | Mom3granny2 |
-| 760 | 126 | toxictonic92 |
-| 761 | 126 | Laurie Napper |
-| 762 | 125 | Don Ray Mc |
-| 763 | 125 | Kahh |
-| 764 | 125 | Saucy Faller |
+| 750 | 128 | Brittany Britkany Marsden-Garrison |
+| 751 | 128 | Chris Watson Draper |
+| 752 | 127 | Marsha Earl |
+| 753 | 127 | Witty Clear |
+| 754 | 127 | Pretty Yella |
+| 755 | 126 | Mom3granny2 |
+| 756 | 126 | Laurie Napper |
+| 757 | 126 | Shawna Passwater |
+| 758 | 126 | toxictonic92 |
+| 759 | 126 | Jess |
+| 760 | 126 | Benjamin Livingston |
+| 761 | 126 | Latoya Carson |
+| 762 | 125 | Kahh |
+| 763 | 125 | Saucy Faller |
+| 764 | 125 | Don Ray Mc |
 | 765 | 124 | Renee Marshall |
-| 766 | 124 | Sunny Tumbler |
-| 767 | 124 | Franklin Sotelo |
-| 768 | 124 | Nichelle Warren |
-| 769 | 124 | Tasha Jones |
-| 770 | 124 | Ysma Simmons |
+| 766 | 124 | Nichelle Warren |
+| 767 | 124 | Ysma Simmons |
+| 768 | 124 | Sunny Tumbler |
+| 769 | 124 | Franklin Sotelo |
+| 770 | 124 | Tasha Jones |
 | 771 | 123 | Jackytrain52 |
-| 772 | 123 | Jason Saputo |
-| 773 | 123 | Esha I'msoproudofmyself Davis |
-| 774 | 123 | Stephen Garland |
-| 775 | 123 | Tia Hazelton |
-| 776 | 123 | Block |
-| 777 | 123 | Boricua64 |
-| 778 | 123 | Tanesha Ga'sFinest Corbett |
-| 779 | 123 | Lady T |
-| 780 | 123 | Dizzy Gridmatch |
+| 772 | 123 | Esha I'msoproudofmyself Davis |
+| 773 | 123 | Tia Hazelton |
+| 774 | 123 | Lady T |
+| 775 | 123 | Tanesha Ga'sFinest Corbett |
+| 776 | 123 | Dizzy Gridmatch |
+| 777 | 123 | Stephen Garland |
+| 778 | 123 | Boricua64 |
+| 779 | 123 | Jason Saputo |
+| 780 | 123 | Block |
 | 781 | 122 | Amanda Woodruff |
 | 782 | 122 | Zany Patternblock |
-| 783 | 122 | Motown Chuck |
-| 784 | 122 | Nick Stowers |
+| 783 | 122 | Nick Stowers |
+| 784 | 122 | Motown Chuck |
 | 785 | 122 | Mumitt |
-| 786 | 121 | Ameillia Boughner |
-| 787 | 121 | Tiana Monique |
-| 788 | 121 | Angie Smith |
-| 789 | 121 | Biggestboss Ransom |
-| 790 | 121 | Jodie |
-| 791 | 121 | Vannie G |
-| 792 | 120 | Dianne Clagon |
-| 793 | 120 | Earl Williams |
-| 794 | 120 | Yellowguy3 |
-| 795 | 120 | Ebie |
-| 796 | 120 | Charles Johnson |
-| 797 | 120 | lookin |
-| 798 | 120 | Ashley Davis |
-| 799 | 120 | Richelle Beck |
-| 800 | 120 | Coco |
-| 801 | 120 | Sandra Mims |
-| 802 | 120 | Tiffany Jean Hinson |
+| 786 | 121 | Biggestboss Ransom |
+| 787 | 121 | Vannie G |
+| 788 | 121 | Ameillia Boughner |
+| 789 | 121 | Angie Smith |
+| 790 | 121 | Tiana Monique |
+| 791 | 121 | Jodie |
+| 792 | 120 | Earl Williams |
+| 793 | 120 | Richelle Beck |
+| 794 | 120 | Charles Johnson |
+| 795 | 120 | Dianne Clagon |
+| 796 | 120 | Coco |
+| 797 | 120 | Tiffany Jean Hinson |
+| 798 | 120 | Sandra Mims |
+| 799 | 120 | Yellowguy3 |
+| 800 | 120 | Ebie |
+| 801 | 120 | lookin |
+| 802 | 120 | Ashley Davis |
 | 803 | 119 | Sylvia Offically A Mcgowan |
-| 804 | 119 | Albert McKnight |
-| 805 | 119 | Megan Jones |
-| 806 | 119 | Adrian Harris |
-| 807 | 119 | Boymama917 |
-| 808 | 119 | Hyy |
-| 809 | 119 | TY Newme Batts |
-| 810 | 119 | Montréal Mars |
+| 804 | 119 | Montréal Mars |
+| 805 | 119 | Albert McKnight |
+| 806 | 119 | TY Newme Batts |
+| 807 | 119 | Megan Jones |
+| 808 | 119 | Adrian Harris |
+| 809 | 119 | Hyy |
+| 810 | 119 | Boymama917 |
 | 811 | 118 | Gabriela Hernandez |
-| 812 | 118 | Tony Pizzas |
-| 813 | 118 | Batty B |
-| 814 | 118 | Hasty Pivoty |
+| 812 | 118 | Hasty Pivoty |
+| 813 | 118 | Tony Pizzas |
+| 814 | 118 | Batty B |
 | 815 | 118 | Shanna Green Williams |
 | 816 | 118 | Meow Meow |
 | 817 | 118 | Jjhandsome |
