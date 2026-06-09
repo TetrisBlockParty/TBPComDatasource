@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 17:13:21 UTC
+# Standings for team1 as of 2026-06-09 17:14:43 UTC
 
 **Total Participants:** 2084
 
@@ -114,9 +114,9 @@
 | 106 | 1121 | Lisa Müller |
 | 107 | 1120 | IamJust Neyamijah Washington Sr. |
 | 108 | 1091 | Richard Horton |
-| 109 | 1079 | Tameka Jones |
-| 110 | 1057 | ELM |
-| 111 | 1045 | Chris Caniglia |
+| 109 | 1085 | Chris Caniglia |
+| 110 | 1079 | Tameka Jones |
+| 111 | 1057 | ELM |
 | 112 | 1045 | Joy Citizen Pickney |
 | 113 | 1034 | Christana Imjustbutton Stone |
 | 114 | 1032 | She Higgy |
@@ -131,7 +131,7 @@
 | 123 | 930 | Murg4dr01d |
 | 124 | 924 | Plucky Slamdrop |
 | 125 | 923 | Slim Shedidthat |
-| 126 | 912 | Lesley Brunkus Cianfaglione |
+| 126 | 915 | Lesley Brunkus Cianfaglione |
 | 127 | 908 | Danielle Barthelme |
 | 128 | 907 | Kellie Hall |
 | 129 | 907 | Jimmie Makia |
@@ -159,10 +159,10 @@
 | 151 | 772 | Gotcha |
 | 152 | 769 | Chuck Quarles |
 | 153 | 760 | Trendalyn Webb |
-| 154 | 754 | Jhaime |
-| 155 | 749 | Dulo |
-| 156 | 749 | sha |
-| 157 | 738 | Andi McGreevy |
+| 154 | 758 | Andi McGreevy |
+| 155 | 754 | Jhaime |
+| 156 | 749 | Dulo |
+| 157 | 749 | sha |
 | 158 | 730 | ing410 |
 | 159 | 729 | Ottison Dianna |
 | 160 | 728 | Katherine Short |
@@ -336,8 +336,8 @@
 | 328 | 377 | AF Cruz |
 | 329 | 377 | Amber Wilson |
 | 330 | 377 | ♈️ Ariesbaby |
-| 331 | 374 | KeeKee Williams |
-| 332 | 372 | Sade Goodwine |
+| 331 | 374 | Sade Goodwine |
+| 332 | 374 | KeeKee Williams |
 | 333 | 371 | 大竹直之 |
 | 334 | 371 | Lauraly |
 | 335 | 371 | SeanSanchez |
@@ -452,19 +452,19 @@
 | 444 | 283 | CJ Robinson |
 | 445 | 283 | Tosha Michelle |
 | 446 | 283 | Abby |
-| 447 | 282 | Eric Spencer Whitaker |
-| 448 | 282 | C Lo Green |
-| 449 | 280 | Lisa Fletcher |
-| 450 | 280 | Teri Marie Clayton |
-| 451 | 280 | Boldy Liner |
-| 452 | 279 | Chandler Magee |
-| 453 | 279 | MACHETEEDDIE513 |
-| 454 | 278 | Ladybug |
-| 455 | 278 | Latore Maxie |
-| 456 | 275 | Falisa Bell |
-| 457 | 275 | Chris Sladoje |
-| 458 | 275 | Nona Harriel |
-| 459 | 275 | Stacy Nicole |
+| 447 | 282 | C Lo Green |
+| 448 | 282 | Eric Spencer Whitaker |
+| 449 | 280 | Teri Marie Clayton |
+| 450 | 280 | Boldy Liner |
+| 451 | 280 | Lisa Fletcher |
+| 452 | 279 | Stacy Nicole |
+| 453 | 279 | Chandler Magee |
+| 454 | 279 | MACHETEEDDIE513 |
+| 455 | 278 | Ladybug |
+| 456 | 278 | Latore Maxie |
+| 457 | 275 | Falisa Bell |
+| 458 | 275 | Chris Sladoje |
+| 459 | 275 | Nona Harriel |
 | 460 | 274 | FunTime |
 | 461 | 274 | 신재호 |
 | 462 | 273 | Vera Beckford |
@@ -788,27 +788,27 @@
 | 780 | 156 | Kizzy Clark |
 | 781 | 155 | Kashh |
 | 782 | 155 | Melissa Ramsey |
-| 783 | 155 | Poppy Smasher |
-| 784 | 154 | Octavia Bsb Johnson |
-| 785 | 154 | Glitzy Clusterer |
-| 786 | 154 | TRUBBLE45 |
-| 787 | 154 | Dizzy Gridmatch |
-| 788 | 152 | Wacky Stackbuilder |
+| 783 | 155 | Erica Campbell-Stillings |
+| 784 | 155 | Poppy Smasher |
+| 785 | 154 | Octavia Bsb Johnson |
+| 786 | 154 | Glitzy Clusterer |
+| 787 | 154 | TRUBBLE45 |
+| 788 | 154 | Dizzy Gridmatch |
 | 789 | 152 | Megan Jones |
-| 790 | 152 | Erica Campbell-Stillings |
+| 790 | 152 | Wacky Stackbuilder |
 | 791 | 151 | Shanell Thomas |
 | 792 | 151 | brite |
-| 793 | 151 | Terrie |
-| 794 | 150 | Marshall Davis |
-| 795 | 150 | Taneka Howell |
+| 793 | 151 | Hyedie Badie |
+| 794 | 151 | Terrie |
+| 795 | 150 | Kanary Karotz |
 | 796 | 150 | Stronger Wiser Better |
-| 797 | 150 | Kanary Karotz |
-| 798 | 150 | Antoinette Jones |
-| 799 | 149 | Aaron Sohnrey |
-| 800 | 148 | Hyedie Badie |
+| 797 | 150 | Antoinette Jones |
+| 798 | 150 | Marshall Davis |
+| 799 | 150 | Taneka Howell |
+| 800 | 149 | Aaron Sohnrey |
 | 801 | 148 | Cauiasia DeJ'ae |
-| 802 | 148 | Yashicha Hertzock |
-| 803 | 148 | Meeee |
+| 802 | 148 | Meeee |
+| 803 | 148 | Yashicha Hertzock |
 | 804 | 148 | Zany Patternblock |
 | 805 | 148 | Ashley Davis |
 | 806 | 147 | Angelique Talbot |
@@ -820,15 +820,15 @@
 | 812 | 146 | Koreen Johnson-Woolford |
 | 813 | 146 | Paul Doty |
 | 814 | 146 | KimChii |
-| 815 | 146 | Sallie Sanborn |
-| 816 | 146 | Tina Bongcayao |
+| 815 | 146 | Tina Bongcayao |
+| 816 | 146 | Sallie Sanborn |
 | 817 | 146 | Rieshelda Marie White |
 | 818 | 146 | Guard Up |
-| 819 | 146 | Richelle Beck |
-| 820 | 146 | Jojo M |
+| 819 | 146 | Jojo M |
+| 820 | 146 | Richelle Beck |
 | 821 | 145 | tg |
-| 822 | 144 | Batty B |
-| 823 | 144 | Dapper Matchfit |
+| 822 | 144 | Dapper Matchfit |
+| 823 | 144 | Batty B |
 | 824 | 144 | Cm |
 | 825 | 144 | Ysma Simmons |
 | 826 | 144 | Lady T |
@@ -901,23 +901,23 @@
 | 893 | 127 | Pretty Yella |
 | 894 | 127 | Witty Clear |
 | 895 | 127 | Jumpy Gridlock |
-| 896 | 126 | Kahh |
-| 897 | 126 | Sally Elizabeth Hopson |
-| 898 | 126 | Benjamin Livingston |
-| 899 | 126 | Mom3granny2 |
-| 900 | 126 | Elaine Pauley |
-| 901 | 126 | Latoya Carson |
-| 902 | 126 | Marc Papa |
+| 896 | 126 | Elaine Pauley |
+| 897 | 126 | Mom3granny2 |
+| 898 | 126 | Latoya Carson |
+| 899 | 126 | Benjamin Livingston |
+| 900 | 126 | Sally Elizabeth Hopson |
+| 901 | 126 | Marc Papa |
+| 902 | 126 | Kahh |
 | 903 | 125 | Oaklonboy mike |
 | 904 | 125 | Cheery Strikerbuilder |
-| 905 | 125 | Silly Edgepiece |
-| 906 | 124 | Sunny Tumbler |
-| 907 | 124 | Franklin Sotelo |
-| 908 | 124 | Willson06 |
-| 909 | 124 | Kathleen Boyles |
-| 910 | 124 | Sheesh |
-| 911 | 123 | Dannie |
-| 912 | 123 | Vontesha Kidd |
+| 905 | 125 | Vontesha Kidd |
+| 906 | 125 | Silly Edgepiece |
+| 907 | 124 | Sunny Tumbler |
+| 908 | 124 | Franklin Sotelo |
+| 909 | 124 | Willson06 |
+| 910 | 124 | Kathleen Boyles |
+| 911 | 124 | Sheesh |
+| 912 | 123 | Dannie |
 | 913 | 123 | Jackytrain52 |
 | 914 | 123 | Tia Hazelton |
 | 915 | 123 | Tanesha Ga'sFinest Corbett |
@@ -2057,30 +2057,30 @@
 | 2049 | 7 | Quana |
 | 2050 | 6 | party t-rex 27 |
 | 2051 | 6 | Doc Elm |
-| 2052 | 6 | CK |
-| 2053 | 6 | Dan Quintero |
-| 2054 | 6 | Adam Harrison |
-| 2055 | 6 | Nerdy Slam |
-| 2056 | 6 | Stevie Malcon |
-| 2057 | 6 | Andrae Robinson |
-| 2058 | 6 | Tammy Hooser |
-| 2059 | 6 | Valerie Kendrick |
-| 2060 | 6 | Sunny Shatterer |
-| 2061 | 6 | Kyshia |
-| 2062 | 6 | Stylezncutzby Dee |
-| 2063 | 6 | Ruben Baca |
-| 2064 | 6 | NEM0228 |
+| 2052 | 6 | Kyshia |
+| 2053 | 6 | NEM0228 |
+| 2054 | 6 | Ruben Baca |
+| 2055 | 6 | Dan Quintero |
+| 2056 | 6 | Adam Harrison |
+| 2057 | 6 | Nerdy Slam |
+| 2058 | 6 | Stevie Malcon |
+| 2059 | 6 | Andrae Robinson |
+| 2060 | 6 | Tammy Hooser |
+| 2061 | 6 | CK |
+| 2062 | 6 | Valerie Kendrick |
+| 2063 | 6 | Sunny Shatterer |
+| 2064 | 6 | Stylezncutzby Dee |
 | 2065 | 5 | Ruben Esquibel |
-| 2066 | 5 | Zesty Brickline |
-| 2067 | 5 | Godz Chosen |
-| 2068 | 5 | Cleversphinx76 |
-| 2069 | 5 | VERA DAME |
-| 2070 | 5 | Sunny Cascadepiece |
-| 2071 | 5 | Joi |
-| 2072 | 5 | Ashley Marie |
-| 2073 | 5 | Jennie Vblaricom |
-| 2074 | 5 | Crafty Fallzone |
-| 2075 | 5 | Tony Maple |
+| 2066 | 5 | VERA DAME |
+| 2067 | 5 | Joi |
+| 2068 | 5 | Ashley Marie |
+| 2069 | 5 | Godz Chosen |
+| 2070 | 5 | Zesty Brickline |
+| 2071 | 5 | Cleversphinx76 |
+| 2072 | 5 | Crafty Fallzone |
+| 2073 | 5 | Sunny Cascadepiece |
+| 2074 | 5 | Tony Maple |
+| 2075 | 5 | Jennie Vblaricom |
 | 2076 | 5 | Ray Day |
 | 2077 | 5 | Jennifer Haton Kreighbaum |
 | 2078 | 5 | Mississippigirl Countrygirl |
