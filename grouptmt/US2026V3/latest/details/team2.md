@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 22:46:45 UTC
+# Standings for team2 as of 2026-06-09 22:47:21 UTC
 
 **Total Participants:** 2599
 
@@ -130,9 +130,9 @@
 | 122 | 1275 | Michelle Maulsby |
 | 123 | 1261 | Kathy Strickland |
 | 124 | 1245 | Criccett Hooper-Smith |
-| 125 | 1240 | Hoppy Rotate |
-| 126 | 1235 | Jason Cook |
-| 127 | 1234 | jmo87 |
+| 125 | 1243 | jmo87 |
+| 126 | 1240 | Hoppy Rotate |
+| 127 | 1235 | Jason Cook |
 | 128 | 1232 | haune |
 | 129 | 1226 | snowwol |
 | 130 | 1209 | Courtney McCulley |
@@ -743,19 +743,19 @@
 | 735 | 227 | Chesney |
 | 736 | 227 | Violet Olivares |
 | 737 | 227 | Laura Melton |
-| 738 | 227 | Brooke Kaune |
-| 739 | 227 | Jamie Adams |
-| 740 | 227 | Connie Marie Cornell Lerma |
-| 741 | 227 | Amy |
-| 742 | 226 | James Sayers |
-| 743 | 226 | Jodi Johnson |
-| 744 | 226 | Eva Lopez |
-| 745 | 225 | Cheery Towerzone |
-| 746 | 225 | Allison Peterson |
-| 747 | 225 | Quirky Gridclear |
-| 748 | 225 | Jami Borges |
-| 749 | 224 | Stephanie Smith Robinson |
-| 750 | 224 | Josephina |
+| 738 | 227 | Josephina |
+| 739 | 227 | Brooke Kaune |
+| 740 | 227 | Jamie Adams |
+| 741 | 227 | Connie Marie Cornell Lerma |
+| 742 | 227 | Amy |
+| 743 | 226 | James Sayers |
+| 744 | 226 | Jodi Johnson |
+| 745 | 226 | Eva Lopez |
+| 746 | 225 | Cheery Towerzone |
+| 747 | 225 | Allison Peterson |
+| 748 | 225 | Quirky Gridclear |
+| 749 | 225 | Jami Borges |
+| 750 | 224 | Stephanie Smith Robinson |
 | 751 | 224 | Leigh Wilkerson |
 | 752 | 223 | Hillary Frank |
 | 753 | 222 | Paula |
@@ -785,34 +785,34 @@
 | 777 | 215 | Julie Brown |
 | 778 | 215 | Nerdy Gridlock |
 | 779 | 215 | Daring Spinzone |
-| 780 | 214 | Michele Plunkett |
-| 781 | 214 | Jazzy |
-| 782 | 213 | Mtnblzr |
-| 783 | 213 | Baby |
-| 784 | 213 | Chipper Towerzone |
-| 785 | 213 | Mike Mordhorst |
-| 786 | 213 | Lisa Chapman |
-| 787 | 212 | Holly Barefoot |
-| 788 | 212 | Shawn Bolt |
-| 789 | 212 | Jennifer Bromeisl-Tettam |
-| 790 | 212 | Heather |
-| 791 | 211 | Belle |
-| 792 | 211 | Edna Nena Cabrera |
-| 793 | 211 | Nichole Fuller |
-| 794 | 211 | Amy |
-| 795 | 211 | Blossom48 |
-| 796 | 210 | Dee |
-| 797 | 210 | Firebone |
-| 798 | 210 | Erin Lemanski |
-| 799 | 209 | Anthony Chavez |
-| 800 | 209 | Diane Byrd |
-| 801 | 209 | Lydia Shonee |
-| 802 | 208 | Suzanne Davis |
-| 803 | 208 | Witty Shatterline |
-| 804 | 208 | Tia Guile |
-| 805 | 208 | rebel4lyfe |
-| 806 | 207 | Nikki Hatch |
-| 807 | 207 | Kalli Bonin |
+| 780 | 214 | Lydia Shonee |
+| 781 | 214 | Michele Plunkett |
+| 782 | 214 | Jazzy |
+| 783 | 213 | Mtnblzr |
+| 784 | 213 | Baby |
+| 785 | 213 | Chipper Towerzone |
+| 786 | 213 | Mike Mordhorst |
+| 787 | 213 | Lisa Chapman |
+| 788 | 212 | Holly Barefoot |
+| 789 | 212 | Shawn Bolt |
+| 790 | 212 | Jennifer Bromeisl-Tettam |
+| 791 | 212 | Heather |
+| 792 | 211 | Belle |
+| 793 | 211 | Edna Nena Cabrera |
+| 794 | 211 | Nichole Fuller |
+| 795 | 211 | Amy |
+| 796 | 211 | Blossom48 |
+| 797 | 210 | Dee |
+| 798 | 210 | Firebone |
+| 799 | 210 | Erin Lemanski |
+| 800 | 209 | Anthony Chavez |
+| 801 | 209 | Diane Byrd |
+| 802 | 208 | rebel4lyfe |
+| 803 | 208 | Suzanne Davis |
+| 804 | 208 | Witty Shatterline |
+| 805 | 208 | Tia Guile |
+| 806 | 207 | Kalli Bonin |
+| 807 | 207 | Nikki Hatch |
 | 808 | 206 | ReiRei |
 | 809 | 205 | ChefDeb |
 | 810 | 205 | Aneokly |
@@ -943,11 +943,11 @@
 | 935 | 173 | Jessica Garoutte |
 | 936 | 173 | Tami Weiss |
 | 937 | 172 | Pat Smits |
-| 938 | 172 | Princess Cucumber |
-| 939 | 171 | Roger Kirksey |
-| 940 | 171 | Ava Dorsch |
-| 941 | 171 | Morgan Olson Pingree |
-| 942 | 170 | Evelyn Confer |
+| 938 | 172 | Evelyn Confer |
+| 939 | 172 | Princess Cucumber |
+| 940 | 171 | Roger Kirksey |
+| 941 | 171 | Ava Dorsch |
+| 942 | 171 | Morgan Olson Pingree |
 | 943 | 170 | Heather Nicole |
 | 944 | 170 | Amanda Kennedy |
 | 945 | 170 | Frisky Tiltgrid |
@@ -1089,19 +1089,19 @@
 | 1081 | 145 | Momi Kamohai |
 | 1082 | 145 | Thtbrwnsknflla |
 | 1083 | 145 | Rachel Wooldridge |
-| 1084 | 145 | Meagan Thompson |
-| 1085 | 144 | James Maness |
-| 1086 | 144 | Alissa Ary |
-| 1087 | 143 | Sam Schwieso |
-| 1088 | 143 | Louis Brudzinski |
-| 1089 | 143 | Beej Blake |
-| 1090 | 143 | Melissa Mae |
-| 1091 | 142 | Sarai Coronado |
-| 1092 | 142 | Jacob Corrales |
-| 1093 | 142 | Lu Wallace |
-| 1094 | 141 | fancypants |
-| 1095 | 141 | Purpleroyalty11 |
-| 1096 | 141 | Danid |
+| 1084 | 145 | Danid |
+| 1085 | 145 | Meagan Thompson |
+| 1086 | 144 | James Maness |
+| 1087 | 144 | Alissa Ary |
+| 1088 | 143 | Sam Schwieso |
+| 1089 | 143 | Louis Brudzinski |
+| 1090 | 143 | Beej Blake |
+| 1091 | 143 | Melissa Mae |
+| 1092 | 142 | Sarai Coronado |
+| 1093 | 142 | Jacob Corrales |
+| 1094 | 142 | Lu Wallace |
+| 1095 | 141 | fancypants |
+| 1096 | 141 | Purpleroyalty11 |
 | 1097 | 141 | mee |
 | 1098 | 141 | Trisha Schneider |
 | 1099 | 140 | Tonya Greger |
