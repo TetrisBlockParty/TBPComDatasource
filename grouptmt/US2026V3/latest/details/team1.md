@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 18:54:47 UTC
+# Standings for team1 as of 2026-06-09 18:55:21 UTC
 
 **Total Participants:** 2099
 
@@ -221,8 +221,8 @@
 | 213 | 574 | DaVonte' Cretter |
 | 214 | 573 | Nobles Brandon |
 | 215 | 567 | Jazzy Fireflighters |
-| 216 | 565 | IThinkNot |
-| 217 | 565 | Elizabeth Vega Coreano |
+| 216 | 566 | Elizabeth Vega Coreano |
+| 217 | 565 | IThinkNot |
 | 218 | 563 | Wild Out Nai |
 | 219 | 562 | Dee McCool |
 | 220 | 560 | Zippy Lifter |
@@ -290,14 +290,14 @@
 | 282 | 455 | Penee Wiggins |
 | 283 | 455 | Tamika Fisher |
 | 284 | 454 | win |
-| 285 | 452 | Kenny MrOnethousand Peck |
-| 286 | 447 | Zippy Tilefall |
-| 287 | 444 | StingerD |
-| 288 | 444 | Kevin M. McGhee Jr |
-| 289 | 442 | Hailey Hil |
-| 290 | 441 | Sade Goodwine |
-| 291 | 441 | Tessa Felice Hill |
-| 292 | 440 | SANA |
+| 285 | 453 | SANA |
+| 286 | 452 | Kenny MrOnethousand Peck |
+| 287 | 447 | Zippy Tilefall |
+| 288 | 444 | StingerD |
+| 289 | 444 | Kevin M. McGhee Jr |
+| 290 | 442 | Hailey Hil |
+| 291 | 441 | Sade Goodwine |
+| 292 | 441 | Tessa Felice Hill |
 | 293 | 440 | Larina Cherie Johnson |
 | 294 | 439 | Kyra Coleman |
 | 295 | 439 | Asani CHumba |
@@ -879,24 +879,24 @@
 | 871 | 137 | Analesia Taylor |
 | 872 | 137 | LaShawyn Wood |
 | 873 | 137 | Crtjstr |
-| 874 | 136 | mya |
-| 875 | 136 | Christopher Shaw-Black |
+| 874 | 136 | Christopher Shaw-Black |
+| 875 | 136 | mya |
 | 876 | 136 | Alanna Breitenbach |
 | 877 | 136 | Rissa Rozay |
 | 878 | 136 | Smiley Bridgepiece |
 | 879 | 135 | Chanel White |
-| 880 | 135 | Mellie Mel |
-| 881 | 135 | Paul Pendley |
-| 882 | 135 | Kyle Franklin |
-| 883 | 135 | Saucy Tile |
-| 884 | 134 | Laurie Napper |
-| 885 | 134 | Twisty Dashy |
-| 886 | 133 | Hasty Brickzone |
-| 887 | 133 | Spadez1231 |
+| 880 | 135 | Mom3granny2 |
+| 881 | 135 | Mellie Mel |
+| 882 | 135 | Paul Pendley |
+| 883 | 135 | Kyle Franklin |
+| 884 | 135 | Saucy Tile |
+| 885 | 134 | Laurie Napper |
+| 886 | 134 | Twisty Dashy |
+| 887 | 133 | Hasty Brickzone |
 | 888 | 133 | Hoppy Rumbler |
-| 889 | 133 | Derald Miller |
-| 890 | 133 | Kàrma Lee |
-| 891 | 132 | Mom3granny2 |
+| 889 | 133 | Spadez1231 |
+| 890 | 133 | Derald Miller |
+| 891 | 133 | Kàrma Lee |
 | 892 | 132 | Aanngie Aanngie |
 | 893 | 132 | lady |
 | 894 | 130 | Gerold Folk Haddock |
