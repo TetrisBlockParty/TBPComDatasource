@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:04:45 UTC
+# Standings for team1 as of 2026-06-09 10:05:23 UTC
 
 **Total Participants:** 2033
 
@@ -366,41 +366,41 @@
 | 358 | 318 | Nerdy Snapfall |
 | 359 | 317 | Jai |
 | 360 | 315 | KeeKee Williams |
-| 361 | 314 | Brenda Malachi-butler |
-| 362 | 314 | Tonya McElroy |
-| 363 | 314 | Rayya Kiser |
-| 364 | 314 | Tay |
-| 365 | 314 | Chilly Wipebuilder |
+| 361 | 314 | Chilly Wipebuilder |
+| 362 | 314 | Brenda Malachi-butler |
+| 363 | 314 | Tonya McElroy |
+| 364 | 314 | Rayya Kiser |
+| 365 | 314 | Tay |
 | 366 | 312 | Shanns |
 | 367 | 311 | Cynthia Bradley |
-| 368 | 308 | Darrel K Pemberton |
-| 369 | 308 | MindlessMic |
-| 370 | 307 | Wayne Savannah |
-| 371 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 372 | 304 | Jolly Tilefall |
-| 373 | 304 | Snippy Breaker |
-| 374 | 304 | Kendra McIntyre |
-| 375 | 303 | kitten |
-| 376 | 300 | Amy Lynn Leifheit |
-| 377 | 300 | Ketrell Bailey |
-| 378 | 300 | LaShaun Stinson |
-| 379 | 300 | Sharee Robinson |
-| 380 | 300 | Sara Meri |
-| 381 | 299 | Smiley Clearpiece |
-| 382 | 298 | McKayla Owens |
-| 383 | 296 | Nikki Hogan |
-| 384 | 295 | Maribel Vasquez |
+| 368 | 310 | Jae Thompson-Tyus |
+| 369 | 308 | Darrel K Pemberton |
+| 370 | 308 | MindlessMic |
+| 371 | 307 | Wayne Savannah |
+| 372 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 373 | 304 | Jolly Tilefall |
+| 374 | 304 | Snippy Breaker |
+| 375 | 304 | Kendra McIntyre |
+| 376 | 303 | kitten |
+| 377 | 300 | Sara Meri |
+| 378 | 300 | Amy Lynn Leifheit |
+| 379 | 300 | Ketrell Bailey |
+| 380 | 300 | Sharee Robinson |
+| 381 | 300 | LaShaun Stinson |
+| 382 | 299 | Smiley Clearpiece |
+| 383 | 298 | McKayla Owens |
+| 384 | 296 | Nikki Hogan |
 | 385 | 295 | Mafio SO |
 | 386 | 295 | Derrius SeriousLee Burks |
-| 387 | 293 | Tonya Lee Sanders |
-| 388 | 292 | Alivia Dove |
-| 389 | 292 | Shameka Thrasher |
-| 390 | 291 | Giggy Tower |
+| 387 | 295 | Maribel Vasquez |
+| 388 | 293 | Tonya Lee Sanders |
+| 389 | 292 | Alivia Dove |
+| 390 | 292 | Shameka Thrasher |
 | 391 | 291 | Melissa D. M. Hornsby |
-| 392 | 291 | Brian Taylor |
-| 393 | 290 | Jae Thompson-Tyus |
-| 394 | 288 | akosua |
-| 395 | 288 | Lozuna |
+| 392 | 291 | Giggy Tower |
+| 393 | 291 | Brian Taylor |
+| 394 | 288 | Lozuna |
+| 395 | 288 | akosua |
 | 396 | 287 | Stephen Glaze |
 | 397 | 287 | Daniel Santana |
 | 398 | 286 | Lyn Reed |
@@ -645,8 +645,8 @@
 | 637 | 180 | Yadira Salgado |
 | 638 | 180 | Leavon Smith |
 | 639 | 180 | Carolyn Smith |
-| 640 | 179 | Ad Doctor |
-| 641 | 177 | Kyle Conley |
+| 640 | 179 | Kyle Conley |
+| 641 | 179 | Ad Doctor |
 | 642 | 176 | Callie Mae |
 | 643 | 176 | Squaw Ki Ng |
 | 644 | 176 | Char |
@@ -1402,8 +1402,8 @@
 | 1394 | 46 | Frothy Snapbuilder |
 | 1395 | 45 | Y3llOWFAC3 |
 | 1396 | 45 | Nicole |
-| 1397 | 45 | Jasmine Bates |
-| 1398 | 45 | Jason A Giantonio |
+| 1397 | 45 | Jason A Giantonio |
+| 1398 | 45 | Jasmine Bates |
 | 1399 | 45 | Sarah Jones |
 | 1400 | 45 | Elizabeth Slater |
 | 1401 | 45 | Matraca Young |
@@ -1417,38 +1417,38 @@
 | 1409 | 44 | Chipper Clicker |
 | 1410 | 44 | Teena K Macon |
 | 1411 | 44 | Ernest Maxwell |
-| 1412 | 44 | Lateef |
-| 1413 | 44 | Ayeisha W |
-| 1414 | 44 | Alisia Johns |
-| 1415 | 44 | Kendra KJ Joyner |
-| 1416 | 44 | Connor Leon Cluff |
-| 1417 | 44 | Joy Shantrice Sorrells |
-| 1418 | 44 | Nic Nic |
-| 1419 | 43 | Alturas Supremenineteen Banks |
-| 1420 | 43 | Giggly Gridder |
-| 1421 | 42 | Rikki Moran |
+| 1412 | 44 | Keia Price |
+| 1413 | 44 | Lateef |
+| 1414 | 44 | Ayeisha W |
+| 1415 | 44 | Alisia Johns |
+| 1416 | 44 | Kendra KJ Joyner |
+| 1417 | 44 | Connor Leon Cluff |
+| 1418 | 44 | Joy Shantrice Sorrells |
+| 1419 | 44 | Nic Nic |
+| 1420 | 43 | Alturas Supremenineteen Banks |
+| 1421 | 43 | Giggly Gridder |
 | 1422 | 42 | Louise |
-| 1423 | 42 | BizzyCat |
-| 1424 | 42 | Ginna |
-| 1425 | 42 | DaShawntae Durham |
-| 1426 | 42 | Robyn Ellis |
-| 1427 | 42 | Tiffanie Michelle |
-| 1428 | 42 | Dandy Blockfall |
-| 1429 | 42 | Terry Lee Moya |
-| 1430 | 42 | Livelovelaugh Ward |
-| 1431 | 42 | Sunny Riserbuilder |
-| 1432 | 42 | Nadine Coleman |
-| 1433 | 41 | Tynetta Scott |
-| 1434 | 41 | Laceshia Finch |
-| 1435 | 41 | Joy Marie |
-| 1436 | 41 | Carolyn |
-| 1437 | 41 | JLynn Mind Ur's Blackwell |
-| 1438 | 41 | Keia Price |
-| 1439 | 41 | Jeffrey Pierce-Overton |
-| 1440 | 41 | Catrina Zedd |
-| 1441 | 41 | Sicily Bailey |
-| 1442 | 41 | Es Bee |
-| 1443 | 41 | J Dot Flo |
+| 1423 | 42 | Rikki Moran |
+| 1424 | 42 | BizzyCat |
+| 1425 | 42 | Ginna |
+| 1426 | 42 | DaShawntae Durham |
+| 1427 | 42 | Robyn Ellis |
+| 1428 | 42 | Tiffanie Michelle |
+| 1429 | 42 | Dandy Blockfall |
+| 1430 | 42 | Terry Lee Moya |
+| 1431 | 42 | Livelovelaugh Ward |
+| 1432 | 42 | Sunny Riserbuilder |
+| 1433 | 42 | Nadine Coleman |
+| 1434 | 41 | Tynetta Scott |
+| 1435 | 41 | Laceshia Finch |
+| 1436 | 41 | Joy Marie |
+| 1437 | 41 | Carolyn |
+| 1438 | 41 | JLynn Mind Ur's Blackwell |
+| 1439 | 41 | Catrina Zedd |
+| 1440 | 41 | Jeffrey Pierce-Overton |
+| 1441 | 41 | J Dot Flo |
+| 1442 | 41 | Sicily Bailey |
+| 1443 | 41 | Es Bee |
 | 1444 | 40 | Tonya Mills |
 | 1445 | 40 | Bumpy Ricketts |
 | 1446 | 40 | Flashy Slam |
@@ -1459,9 +1459,9 @@
 | 1451 | 40 | Carol Washington |
 | 1452 | 40 | Dawn Walker |
 | 1453 | 40 | Fancy Zoner |
-| 1454 | 40 | Phongoudom Tika |
+| 1454 | 40 | Leon Brown III |
 | 1455 | 40 | Hasty Bridger |
-| 1456 | 40 | Leon Brown III |
+| 1456 | 40 | Phongoudom Tika |
 | 1457 | 40 | Slinky Swipe |
 | 1458 | 40 | Erica Wells |
 | 1459 | 40 | Billz143 |
