@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:28:46 UTC
+# Standings for team1 as of 2026-06-09 10:29:21 UTC
 
 **Total Participants:** 2035
 
@@ -41,7 +41,7 @@
 | 33 | 3163 | Sha Harris |
 | 34 | 2773 | Brian Stackhouse |
 | 35 | 2755 | COSA303 |
-| 36 | 2634 | Weeze |
+| 36 | 2649 | Weeze |
 | 37 | 2619 | Zappy Brickline |
 | 38 | 2433 | Jamie Willis |
 | 39 | 2381 | Epic Snapfall |

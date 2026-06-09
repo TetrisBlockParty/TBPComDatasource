@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:28:46 UTC
+# Standings for team2 as of 2026-06-09 10:29:21 UTC
 
 **Total Participants:** 2466
 
@@ -743,84 +743,84 @@
 | 735 | 190 | Tammy Botkin |
 | 736 | 190 | Kelly Hall Whitt |
 | 737 | 189 | James Sayers |
-| 738 | 189 | Kristi K Milner |
-| 739 | 189 | Audrey Bickford |
-| 740 | 189 | Poppy Strikerbuilder |
-| 741 | 188 | Derrick |
-| 742 | 188 | Chipper Towerzone |
-| 743 | 188 | Jennifer Bromeisl-Tettam |
-| 744 | 187 | Abby |
-| 745 | 187 | Cindy Scott |
-| 746 | 187 | Momof2wigglebutts |
-| 747 | 187 | Nikki Hatch |
-| 748 | 187 | Barb Kiser |
-| 749 | 187 | Elizabeth Kline |
-| 750 | 186 | y |
-| 751 | 186 | Cody Gates |
-| 752 | 185 | Vicki Flippo |
-| 753 | 185 | Sillyk |
-| 754 | 185 | Leigh Wilkerson |
-| 755 | 185 | Christine James |
-| 756 | 185 | Nutty Fitzone |
-| 757 | 184 | Melissa Abbott |
-| 758 | 184 | Ryan Rhodes |
-| 759 | 184 | Ashley Fleming |
-| 760 | 182 | Shawn Bolt |
-| 761 | 182 | Aneokly |
-| 762 | 182 | Paula |
-| 763 | 182 | Rae |
-| 764 | 180 | Brandi Williams |
+| 738 | 189 | Heather Vircik |
+| 739 | 189 | Kristi K Milner |
+| 740 | 189 | Audrey Bickford |
+| 741 | 189 | Poppy Strikerbuilder |
+| 742 | 188 | Derrick |
+| 743 | 188 | Chipper Towerzone |
+| 744 | 188 | Jennifer Bromeisl-Tettam |
+| 745 | 187 | Abby |
+| 746 | 187 | Elizabeth Kline |
+| 747 | 187 | Barb Kiser |
+| 748 | 187 | Momof2wigglebutts |
+| 749 | 187 | Nikki Hatch |
+| 750 | 187 | Cindy Scott |
+| 751 | 186 | y |
+| 752 | 186 | Cody Gates |
+| 753 | 185 | Vicki Flippo |
+| 754 | 185 | Sillyk |
+| 755 | 185 | Leigh Wilkerson |
+| 756 | 185 | Christine James |
+| 757 | 185 | Nutty Fitzone |
+| 758 | 184 | Melissa Abbott |
+| 759 | 184 | Ryan Rhodes |
+| 760 | 184 | Ashley Fleming |
+| 761 | 182 | Shawn Bolt |
+| 762 | 182 | Aneokly |
+| 763 | 182 | Paula |
+| 764 | 182 | Rae |
 | 765 | 180 | Shannon Posner |
 | 766 | 180 | Dawn Kroptavich |
-| 767 | 180 | Jessica Murphree |
-| 768 | 180 | Dana Wilson |
-| 769 | 180 | Erin Lemanski |
-| 770 | 180 | Goldie |
-| 771 | 180 | Tiffany Lewis |
-| 772 | 180 | Audrey Morris |
-| 773 | 179 | Jennifer Augustine |
-| 774 | 179 | Crafty Liner |
-| 775 | 179 | Mandeee |
-| 776 | 179 | Cool Patternbuilder |
-| 777 | 179 | Dandy Tiltgrid |
-| 778 | 179 | Kevin Patrick |
-| 779 | 179 | Zaniya Brown |
-| 780 | 178 | Twisty Matchfit |
+| 767 | 180 | Brandi Williams |
+| 768 | 180 | Jessica Murphree |
+| 769 | 180 | Dana Wilson |
+| 770 | 180 | Erin Lemanski |
+| 771 | 180 | Goldie |
+| 772 | 180 | Tiffany Lewis |
+| 773 | 180 | Audrey Morris |
+| 774 | 179 | Jennifer Augustine |
+| 775 | 179 | Crafty Liner |
+| 776 | 179 | Kevin Patrick |
+| 777 | 179 | Mandeee |
+| 778 | 179 | Dandy Tiltgrid |
+| 779 | 179 | Cool Patternbuilder |
+| 780 | 179 | Zaniya Brown |
 | 781 | 178 | Dayna Messer-Thelen |
-| 782 | 178 | Josephina |
-| 783 | 178 | Rocroc mo |
-| 784 | 177 | Chelsea Frye |
-| 785 | 177 | Carmina Truoiolo |
-| 786 | 177 | Audrey Wood |
-| 787 | 176 | Tracey Cox |
-| 788 | 176 | Perky Rollfit |
-| 789 | 176 | Sara Moericke |
-| 790 | 176 | Tina Carr |
-| 791 | 176 | Chill Clearbuilder |
-| 792 | 175 | Nicole Sides KrazyKoop |
-| 793 | 175 | Distro |
-| 794 | 175 | Lydia Shonee |
-| 795 | 175 | Courtney Madison Hart |
-| 796 | 175 | Frilly Shiftsnap |
-| 797 | 174 | Giggly Spinblock |
-| 798 | 174 | Nova |
-| 799 | 174 | Jasmine Goggans |
-| 800 | 174 | Rebekah Holland |
-| 801 | 174 | Nichole Fuller |
-| 802 | 173 | Jessica Garoutte |
-| 803 | 173 | Tami Weiss |
-| 804 | 173 | Groovy Glider |
-| 805 | 173 | Chirpy Combofall |
-| 806 | 172 | Frothy Roll |
-| 807 | 172 | Wacky Holder |
-| 808 | 172 | Rmk |
-| 809 | 172 | Danita Moon |
-| 810 | 171 | Morgan Olson Pingree |
-| 811 | 171 | Mary Stump |
-| 812 | 170 | Ashley Jones |
-| 813 | 170 | Happy Shatterblock |
-| 814 | 170 | Baby |
-| 815 | 170 | Heather Vircik |
+| 782 | 178 | Twisty Matchfit |
+| 783 | 178 | Josephina |
+| 784 | 178 | Rocroc mo |
+| 785 | 177 | Chelsea Frye |
+| 786 | 177 | Carmina Truoiolo |
+| 787 | 177 | Audrey Wood |
+| 788 | 176 | Tracey Cox |
+| 789 | 176 | Perky Rollfit |
+| 790 | 176 | Sara Moericke |
+| 791 | 176 | Tina Carr |
+| 792 | 176 | Chill Clearbuilder |
+| 793 | 175 | Nicole Sides KrazyKoop |
+| 794 | 175 | Distro |
+| 795 | 175 | Lydia Shonee |
+| 796 | 175 | Courtney Madison Hart |
+| 797 | 175 | Frilly Shiftsnap |
+| 798 | 174 | Giggly Spinblock |
+| 799 | 174 | Nova |
+| 800 | 174 | Jasmine Goggans |
+| 801 | 174 | Rebekah Holland |
+| 802 | 174 | Nichole Fuller |
+| 803 | 173 | Jessica Garoutte |
+| 804 | 173 | Tami Weiss |
+| 805 | 173 | Groovy Glider |
+| 806 | 173 | Chirpy Combofall |
+| 807 | 172 | Frothy Roll |
+| 808 | 172 | Wacky Holder |
+| 809 | 172 | Rmk |
+| 810 | 172 | Danita Moon |
+| 811 | 171 | Morgan Olson Pingree |
+| 812 | 171 | Mary Stump |
+| 813 | 170 | Ashley Jones |
+| 814 | 170 | Happy Shatterblock |
+| 815 | 170 | Baby |
 | 816 | 169 | Tiffany Powell |
 | 817 | 169 | Sara Dunn |
 | 818 | 169 | Destiny Turner |
@@ -2214,20 +2214,20 @@
 | 2206 | 18 | zee |
 | 2207 | 18 | Josefina Vaquero Aguilar |
 | 2208 | 18 | Chamorro Pride |
-| 2209 | 18 | Miggy Gonzalez |
-| 2210 | 18 | Tavia Teschendorf Sliffe |
-| 2211 | 18 | Rugrat Angi Bechstein |
-| 2212 | 18 | Squyrt |
-| 2213 | 18 | Alison Welsh |
-| 2214 | 18 | Kris Lea |
-| 2215 | 18 | FabTeach |
-| 2216 | 17 | Amanda Hamacher |
-| 2217 | 17 | COWBOY |
-| 2218 | 17 | Clever Spinfit |
-| 2219 | 17 | Shaunda Thompson |
-| 2220 | 17 | Groovy Curver |
-| 2221 | 17 | Charity Marianelli |
-| 2222 | 17 | Tonya Willprecht |
+| 2209 | 18 | Tonya Willprecht |
+| 2210 | 18 | Miggy Gonzalez |
+| 2211 | 18 | Tavia Teschendorf Sliffe |
+| 2212 | 18 | Rugrat Angi Bechstein |
+| 2213 | 18 | Squyrt |
+| 2214 | 18 | Alison Welsh |
+| 2215 | 18 | Kris Lea |
+| 2216 | 18 | FabTeach |
+| 2217 | 17 | Amanda Hamacher |
+| 2218 | 17 | COWBOY |
+| 2219 | 17 | Clever Spinfit |
+| 2220 | 17 | Shaunda Thompson |
+| 2221 | 17 | Groovy Curver |
+| 2222 | 17 | Charity Marianelli |
 | 2223 | 17 | Jacob nitro |
 | 2224 | 17 | Smiley Edgefit |
 | 2225 | 17 | Coco Brown |
