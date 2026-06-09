@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 13:22:43 UTC
+# Standings for team1 as of 2026-06-09 13:23:21 UTC
 
 **Total Participants:** 2052
 
@@ -14,7 +14,7 @@
 | 6 | 9667 | Speedy Spinblock |
 | 7 | 9578 | Charnay Peacock |
 | 8 | 9375 | Songne Arif |
-| 9 | 8981 | Debbie Carswell |
+| 9 | 9001 | Debbie Carswell |
 | 10 | 8946 | Dyane Leah Ware |
 | 11 | 8890 | Timothy Robert |
 | 12 | 8746 | Tyeina Johnson |
@@ -135,8 +135,8 @@
 | 127 | 882 | Jon Gathers |
 | 128 | 877 | Michael J Gresham |
 | 129 | 869 | Slinky Puzzler |
-| 130 | 861 | Eartha Brown |
-| 131 | 861 | Atlantalindi |
+| 130 | 861 | Atlantalindi |
+| 131 | 861 | Eartha Brown |
 | 132 | 857 | Lesley Brunkus Cianfaglione |
 | 133 | 851 | Snappy Link |
 | 134 | 846 | Plucky Slamdrop |
@@ -150,12 +150,12 @@
 | 142 | 799 | Shontanese Adams |
 | 143 | 797 | De'Laonzeo Anthony |
 | 144 | 793 | Rackemwillie34 |
-| 145 | 775 | Big Tina |
-| 146 | 769 | Chuck Quarles |
-| 147 | 760 | Trendalyn Webb |
-| 148 | 756 | Jimmie Makia |
-| 149 | 754 | Jhaime |
-| 150 | 747 | Carolynne Walker-Bell |
+| 145 | 777 | Carolynne Walker-Bell |
+| 146 | 775 | Big Tina |
+| 147 | 769 | Chuck Quarles |
+| 148 | 760 | Trendalyn Webb |
+| 149 | 756 | Jimmie Makia |
+| 150 | 754 | Jhaime |
 | 151 | 738 | Andi McGreevy |
 | 152 | 730 | ing410 |
 | 153 | 720 | Felicia Williams |
@@ -316,8 +316,8 @@
 | 308 | 386 | Chummy Frame |
 | 309 | 386 | Tremaine Hiler |
 | 310 | 383 | win |
-| 311 | 380 | Nerdy Blockpiece |
-| 312 | 379 | NastyFriend |
+| 311 | 381 | NastyFriend |
+| 312 | 380 | Nerdy Blockpiece |
 | 313 | 378 | Hasty Glidezone |
 | 314 | 377 | AF Cruz |
 | 315 | 377 | Amber Wilson |
@@ -998,50 +998,50 @@
 | 990 | 105 | Raquel Ortiz |
 | 991 | 105 | Maria |
 | 992 | 105 | Angie Lebron |
-| 993 | 105 | Ja'mice Nelson |
-| 994 | 105 | Michael Smith |
-| 995 | 105 | Nikkizz |
-| 996 | 105 | Onovella Titsworth |
+| 993 | 105 | Michael Smith |
+| 994 | 105 | Ja'mice Nelson |
+| 995 | 105 | Onovella Titsworth |
+| 996 | 105 | Nikkizz |
 | 997 | 105 | Jack Mehof |
 | 998 | 104 | Heckabluntstho |
 | 999 | 104 | Ahvae Lee |
-| 1000 | 104 | midnightxtoker |
-| 1001 | 104 | Taylor Jordan Hollis |
-| 1002 | 102 | Blocksy |
-| 1003 | 102 | Terrence Webster |
-| 1004 | 102 | Krista McNair |
-| 1005 | 102 | Jeremy Hendrix |
-| 1006 | 102 | Silly Wiper |
-| 1007 | 102 | Silly Shatterline |
-| 1008 | 102 | b |
-| 1009 | 101 | tk |
-| 1010 | 101 | LaSharon Jackson |
-| 1011 | 101 | Ryan Holm |
-| 1012 | 101 | star |
-| 1013 | 101 | Wacky Wipepiece |
-| 1014 | 101 | John Spath |
-| 1015 | 101 | WReckitraff |
-| 1016 | 101 | Lively Clusterline |
-| 1017 | 100 | Megan Payette |
-| 1018 | 100 | Raymond Keeler |
-| 1019 | 100 | Keith Big-Sixx Mackell |
-| 1020 | 100 | B.L. Perry |
-| 1021 | 100 | Phillip White |
-| 1022 | 100 | BigMike |
-| 1023 | 100 | Jonathan McKenzie |
-| 1024 | 100 | Bunnie Celtavini |
-| 1025 | 100 | Thomas Pearson |
-| 1026 | 100 | Smøke DGAF |
-| 1027 | 100 | Oldheads |
-| 1028 | 99 | Tellisa Payne |
-| 1029 | 99 | Yoellah Benyahmeen |
-| 1030 | 99 | Lucille Wilson Davis |
-| 1031 | 99 | Ernie Waters |
-| 1032 | 99 | Missy Myvette |
-| 1033 | 98 | Azeiare Ziare |
+| 1000 | 104 | Ernie Waters |
+| 1001 | 104 | midnightxtoker |
+| 1002 | 104 | Taylor Jordan Hollis |
+| 1003 | 102 | Blocksy |
+| 1004 | 102 | Terrence Webster |
+| 1005 | 102 | Krista McNair |
+| 1006 | 102 | Jeremy Hendrix |
+| 1007 | 102 | Silly Wiper |
+| 1008 | 102 | Silly Shatterline |
+| 1009 | 102 | b |
+| 1010 | 101 | tk |
+| 1011 | 101 | LaSharon Jackson |
+| 1012 | 101 | Ryan Holm |
+| 1013 | 101 | WReckitraff |
+| 1014 | 101 | Lively Clusterline |
+| 1015 | 101 | John Spath |
+| 1016 | 101 | Wacky Wipepiece |
+| 1017 | 101 | star |
+| 1018 | 100 | Jonathan McKenzie |
+| 1019 | 100 | Megan Payette |
+| 1020 | 100 | Raymond Keeler |
+| 1021 | 100 | BigMike |
+| 1022 | 100 | Bunnie Celtavini |
+| 1023 | 100 | Phillip White |
+| 1024 | 100 | Oldheads |
+| 1025 | 100 | Keith Big-Sixx Mackell |
+| 1026 | 100 | B.L. Perry |
+| 1027 | 100 | Thomas Pearson |
+| 1028 | 100 | Smøke DGAF |
+| 1029 | 99 | Lucille Wilson Davis |
+| 1030 | 99 | Missy Myvette |
+| 1031 | 99 | Tellisa Payne |
+| 1032 | 99 | Yoellah Benyahmeen |
+| 1033 | 98 | Letrishia Andrews |
 | 1034 | 98 | Dee Dee |
-| 1035 | 98 | Letrishia Andrews |
-| 1036 | 98 | Xrandomx |
+| 1035 | 98 | Xrandomx |
+| 1036 | 98 | Azeiare Ziare |
 | 1037 | 97 | MikeHunt |
 | 1038 | 97 | Alize |
 | 1039 | 97 | Elaine Youmans |
