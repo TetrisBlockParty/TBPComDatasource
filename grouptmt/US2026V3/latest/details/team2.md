@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 21:10:43 UTC
+# Standings for team2 as of 2026-06-09 21:11:21 UTC
 
 **Total Participants:** 2579
 
@@ -46,7 +46,7 @@
 | 38 | 5290 | Logan Basham |
 | 39 | 5119 | Spunky Clicker |
 | 40 | 4915 | DarkHorse |
-| 41 | 4847 | Quirky Catcher |
+| 41 | 4857 | Quirky Catcher |
 | 42 | 4411 | Smashanator |
 | 43 | 4279 | Matt Hardin |
 | 44 | 4268 | Erica Dees Parks |
@@ -95,8 +95,8 @@
 | 87 | 1897 | Nova Nova |
 | 88 | 1859 | Peppy Roll |
 | 89 | 1806 | Brent Bittenbender |
-| 90 | 1762 | Lisa Breiding |
-| 91 | 1743 | Pickle |
+| 90 | 1775 | Pickle |
+| 91 | 1762 | Lisa Breiding |
 | 92 | 1740 | Josh Twilley |
 | 93 | 1711 | Bridget N Jonathan Franz |
 | 94 | 1700 | Misiek |
@@ -687,13 +687,13 @@
 | 679 | 240 | Tiffany Lewis |
 | 680 | 239 | Stella |
 | 681 | 239 | Shannon Posner |
-| 682 | 239 | Nutty Fitzone |
-| 683 | 238 | Tina Kinney |
-| 684 | 237 | Alycia Marie Zelensky |
-| 685 | 237 | Kevin Osbourne |
-| 686 | 237 | Renee Siems |
-| 687 | 237 | Epic Framezone |
-| 688 | 237 | Lindsey Ross |
+| 682 | 239 | Lindsey Ross |
+| 683 | 239 | Nutty Fitzone |
+| 684 | 238 | Tina Kinney |
+| 685 | 237 | Alycia Marie Zelensky |
+| 686 | 237 | Kevin Osbourne |
+| 687 | 237 | Renee Siems |
+| 688 | 237 | Epic Framezone |
 | 689 | 236 | Lush Party |
 | 690 | 236 | Joanne Fish |
 | 691 | 236 | Anzhen |
@@ -819,16 +819,16 @@
 | 811 | 200 | Cool Patternbuilder |
 | 812 | 200 | Tammy Botkin |
 | 813 | 200 | Wacky Holder |
-| 814 | 200 | Karen Mueller |
-| 815 | 200 | Leighla Davis |
-| 816 | 199 | KCBlocker |
-| 817 | 199 | Jim Wright |
-| 818 | 199 | Heather Vircik |
-| 819 | 199 | Nova |
-| 820 | 199 | y |
-| 821 | 198 | Tammy Roth |
-| 822 | 198 | Flex |
-| 823 | 198 | alf |
+| 814 | 200 | alf |
+| 815 | 200 | Karen Mueller |
+| 816 | 200 | Leighla Davis |
+| 817 | 199 | KCBlocker |
+| 818 | 199 | Jim Wright |
+| 819 | 199 | Heather Vircik |
+| 820 | 199 | Nova |
+| 821 | 199 | y |
+| 822 | 198 | Tammy Roth |
+| 823 | 198 | Flex |
 | 824 | 197 | William Dowd |
 | 825 | 197 | Giddy Chiseler |
 | 826 | 197 | Jessica Perkins |
@@ -848,27 +848,27 @@
 | 840 | 192 | Coleta Singleton-Gallishaw |
 | 841 | 192 | Alicia Parrish |
 | 842 | 191 | Frothy Roll |
-| 843 | 190 | Duck |
-| 844 | 190 | Amy Lea Hamilton |
-| 845 | 190 | Kelly Hall Whitt |
-| 846 | 190 | Patti Ward |
-| 847 | 190 | Nicole Sides KrazyKoop |
-| 848 | 189 | Poppy Strikerbuilder |
-| 849 | 189 | Destiny Turner |
-| 850 | 189 | Giggy Dropzone |
-| 851 | 189 | Anna Benjamin Freeman |
-| 852 | 189 | Goofy Patternfit |
+| 843 | 191 | Chris |
+| 844 | 190 | Duck |
+| 845 | 190 | Amy Lea Hamilton |
+| 846 | 190 | Kelly Hall Whitt |
+| 847 | 190 | Patti Ward |
+| 848 | 190 | Nicole Sides KrazyKoop |
+| 849 | 189 | Poppy Strikerbuilder |
+| 850 | 189 | Destiny Turner |
+| 851 | 189 | Giggy Dropzone |
+| 852 | 189 | Anna Benjamin Freeman |
 | 853 | 189 | Audrey Bickford |
-| 854 | 189 | Kristi K Milner |
-| 855 | 188 | Derrick |
-| 856 | 188 | Silly Chiseler |
-| 857 | 187 | Abby |
-| 858 | 187 | Staci Walker |
-| 859 | 187 | Cindy Scott |
-| 860 | 187 | Amanda Neal |
-| 861 | 187 | Sara Dunn |
-| 862 | 187 | Jolly Brickroll |
-| 863 | 187 | Chris |
+| 854 | 189 | Goofy Patternfit |
+| 855 | 189 | Kristi K Milner |
+| 856 | 188 | Derrick |
+| 857 | 188 | Silly Chiseler |
+| 858 | 187 | Abby |
+| 859 | 187 | Staci Walker |
+| 860 | 187 | Cindy Scott |
+| 861 | 187 | Amanda Neal |
+| 862 | 187 | Sara Dunn |
+| 863 | 187 | Jolly Brickroll |
 | 864 | 187 | Elizabeth Kline |
 | 865 | 186 | Patty Ann Hendrickson |
 | 866 | 186 | Natalie M. Arredondo |

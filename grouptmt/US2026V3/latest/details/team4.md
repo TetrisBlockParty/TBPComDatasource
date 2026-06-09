@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 21:10:43 UTC
+# Standings for team4 as of 2026-06-09 21:11:21 UTC
 
 **Total Participants:** 2180
 
@@ -36,7 +36,7 @@
 | 28 | 4609 | Jackie Lucas |
 | 29 | 4533 | Juan Ford |
 | 30 | 4523 | Chummy Rollzone |
-| 31 | 4367 | Daring Ziggy |
+| 31 | 4417 | Daring Ziggy |
 | 32 | 4262 | Tonya Brooks-Johnson |
 | 33 | 4160 | Witty Clicky |
 | 34 | 4134 | TitiLo72 |
@@ -120,8 +120,8 @@
 | 112 | 1042 | Chuck Gannon |
 | 113 | 1032 | Esther Hadassah |
 | 114 | 1032 | Kelly Bernard |
-| 115 | 1019 | Dandy Puzzler |
-| 116 | 1018 | Beee |
+| 115 | 1028 | Beee |
+| 116 | 1019 | Dandy Puzzler |
 | 117 | 1012 | GeorgeButts |
 | 118 | 1011 | Futrell Brent |
 | 119 | 997 | Blayne Kole |
@@ -726,10 +726,10 @@
 | 718 | 187 | Destiny Starr LeValdo |
 | 719 | 187 | Brainbabe |
 | 720 | 186 | Amber Jalbert |
-| 721 | 185 | Snappy Stack |
-| 722 | 185 | Zappy Tilemaker |
-| 723 | 184 | Funky Riserpiece |
-| 724 | 184 | Allysonjo Varela |
+| 721 | 186 | Allysonjo Varela |
+| 722 | 185 | Snappy Stack |
+| 723 | 185 | Zappy Tilemaker |
+| 724 | 184 | Funky Riserpiece |
 | 725 | 184 | Virgil Mayfield-Brown |
 | 726 | 184 | Chilly Pop |
 | 727 | 184 | Mrsjcraw18 |
@@ -1144,15 +1144,15 @@
 | 1136 | 99 | Alicia |
 | 1137 | 99 | Nikcole Alexis Bryan |
 | 1138 | 99 | Ricardo Arias |
-| 1139 | 98 | Snazzy Shatterfit |
-| 1140 | 98 | katy |
-| 1141 | 98 | Chelsea Leigh Busch |
-| 1142 | 98 | Jumpy Lifter |
-| 1143 | 98 | Sunny Tiltbuilder |
-| 1144 | 97 | Oc Tive |
-| 1145 | 97 | Limbo |
-| 1146 | 97 | Crystal Parker Bryant |
-| 1147 | 97 | Ashie |
+| 1139 | 99 | Ashie |
+| 1140 | 98 | Snazzy Shatterfit |
+| 1141 | 98 | katy |
+| 1142 | 98 | Chelsea Leigh Busch |
+| 1143 | 98 | Jumpy Lifter |
+| 1144 | 98 | Sunny Tiltbuilder |
+| 1145 | 97 | Oc Tive |
+| 1146 | 97 | Limbo |
+| 1147 | 97 | Crystal Parker Bryant |
 | 1148 | 97 | Skylar Durk |
 | 1149 | 96 | Curved carrot |
 | 1150 | 96 | JUNE |
@@ -1730,33 +1730,33 @@
 | 1722 | 33 | Shiny Blockfall |
 | 1723 | 33 | Tracy Ann Frederick |
 | 1724 | 32 | Wyatt |
-| 1725 | 32 | Jessica Huber |
-| 1726 | 32 | Anna Nieves |
-| 1727 | 32 | Erin Randazzo |
-| 1728 | 32 | Unknown |
-| 1729 | 32 | Samantha Salcedo |
-| 1730 | 32 | Holly |
-| 1731 | 32 | Lively Fit |
-| 1732 | 32 | Rezinbauer Spicer |
-| 1733 | 32 | Lawanda Mayze |
-| 1734 | 32 | Dizzy Builderfit |
+| 1725 | 32 | Lawanda Mayze |
+| 1726 | 32 | Dizzy Builderfit |
+| 1727 | 32 | Anna Nieves |
+| 1728 | 32 | Erin Randazzo |
+| 1729 | 32 | Unknown |
+| 1730 | 32 | Samantha Salcedo |
+| 1731 | 32 | Holly |
+| 1732 | 32 | Lively Fit |
+| 1733 | 32 | Rezinbauer Spicer |
+| 1734 | 32 | Jessica Huber |
 | 1735 | 32 | Ruthie Laracuente |
 | 1736 | 31 | Abby White |
-| 1737 | 31 | Joshua Doucette |
+| 1737 | 31 | Infini Agape |
 | 1738 | 31 | Harpreet Rojas |
-| 1739 | 31 | Bryce McGee |
-| 1740 | 31 | Grace Mariie |
-| 1741 | 31 | Infini Agape |
-| 1742 | 31 | Krystal Simpson |
-| 1743 | 31 | DuvaDova Ahava |
-| 1744 | 31 | Whos Square |
-| 1745 | 30 | Vicki Adams |
-| 1746 | 30 | latingirl1056 |
-| 1747 | 30 | Pam Baumgardner |
-| 1748 | 30 | Jordan Maxwell |
-| 1749 | 30 | Witty Piecebuilder |
-| 1750 | 30 | Shawna Bell |
-| 1751 | 30 | PabloX |
+| 1739 | 31 | Joshua Doucette |
+| 1740 | 31 | Bryce McGee |
+| 1741 | 31 | Grace Mariie |
+| 1742 | 31 | Shawna Bell |
+| 1743 | 31 | Krystal Simpson |
+| 1744 | 31 | DuvaDova Ahava |
+| 1745 | 31 | Whos Square |
+| 1746 | 30 | Witty Piecebuilder |
+| 1747 | 30 | Jordan Maxwell |
+| 1748 | 30 | PabloX |
+| 1749 | 30 | Pam Baumgardner |
+| 1750 | 30 | latingirl1056 |
+| 1751 | 30 | Vicki Adams |
 | 1752 | 30 | MamaaCaashh |
 | 1753 | 30 | Spicy Holder |
 | 1754 | 30 | Kris McMahon |
