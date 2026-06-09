@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 23:40:44 UTC
+# Standings for team1 as of 2026-06-09 23:41:22 UTC
 
 **Total Participants:** 2134
 
@@ -27,8 +27,8 @@
 | 19 | 5773 | Cool Bridger |
 | 20 | 5678 | Jocelyn Pope-Sewell |
 | 21 | 5348 | jaimie |
-| 22 | 5282 | Plucky Swipe |
-| 23 | 5234 | Pdubbl3 |
+| 22 | 5314 | Pdubbl3 |
+| 23 | 5282 | Plucky Swipe |
 | 24 | 5155 | Ivana Schmidt |
 | 25 | 4795 | Tekedra Wilson |
 | 26 | 4621 | Chandler Spencer |
@@ -236,10 +236,10 @@
 | 228 | 559 | Cheeky Pop |
 | 229 | 556 | DellaLucretia Thomas |
 | 230 | 556 | pooh |
-| 231 | 552 | SPNLover24 |
-| 232 | 549 | Tamara N Lee |
-| 233 | 549 | Shell Lewis |
-| 234 | 549 | Marie Wilson |
+| 231 | 554 | Tamara N Lee |
+| 232 | 552 | SPNLover24 |
+| 233 | 549 | Marie Wilson |
+| 234 | 549 | Shell Lewis |
 | 235 | 547 | Tasha Jones |
 | 236 | 544 | Roberta Lynn |
 | 237 | 542 | Deveda Williams |
