@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:10:44 UTC
+# Standings for team1 as of 2026-06-09 08:11:21 UTC
 
 **Total Participants:** 2017
 
@@ -727,20 +727,20 @@
 | 719 | 151 | Terrie |
 | 720 | 151 | Pj Rojas |
 | 721 | 151 | Shanell Thomas |
-| 722 | 150 | Marshall Davis |
-| 723 | 150 | Kanary Karotz |
-| 724 | 150 | Taneka Howell |
-| 725 | 150 | Antoinette Jones |
-| 726 | 149 | Anastasia |
-| 727 | 149 | Stephanie Ellis |
-| 728 | 149 | Andra Ward |
-| 729 | 148 | Zany Patternblock |
-| 730 | 148 | Meeee |
-| 731 | 148 | Yashicha Hertzock |
-| 732 | 148 | Marsha Earl |
-| 733 | 148 | GetDaOPPS |
-| 734 | 148 | Cauiasia DeJ'ae |
-| 735 | 147 | Ameillia Boughner |
+| 722 | 151 | Ameillia Boughner |
+| 723 | 150 | Marshall Davis |
+| 724 | 150 | Kanary Karotz |
+| 725 | 150 | Taneka Howell |
+| 726 | 150 | Antoinette Jones |
+| 727 | 149 | Anastasia |
+| 728 | 149 | Stephanie Ellis |
+| 729 | 149 | Andra Ward |
+| 730 | 148 | Zany Patternblock |
+| 731 | 148 | Meeee |
+| 732 | 148 | Yashicha Hertzock |
+| 733 | 148 | Marsha Earl |
+| 734 | 148 | GetDaOPPS |
+| 735 | 148 | Cauiasia DeJ'ae |
 | 736 | 147 | Chill Linkroll |
 | 737 | 147 | Sabrina Wilkerson |
 | 738 | 147 | Kiki |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:10:44 UTC
+# Standings for team4 as of 2026-06-09 08:11:21 UTC
 
 **Total Participants:** 2085
 
@@ -943,33 +943,33 @@
 | 935 | 113 | the repo |
 | 936 | 113 | Joshua Franklin |
 | 937 | 113 | Jeni |
-| 938 | 112 | Justin Sercu |
-| 939 | 112 | Powder |
-| 940 | 112 | Jonelle Jacobs |
-| 941 | 111 | Anthony Kollar |
-| 942 | 111 | Elizabeth Putansu |
-| 943 | 111 | Peachy Piecefit |
-| 944 | 111 | Jacquelyn L Whitsitt |
-| 945 | 111 | Abby Waterman |
-| 946 | 111 | Lush Balanceblock |
-| 947 | 111 | MzCeleste Brooks |
-| 948 | 111 | Cozy Builderfit |
-| 949 | 111 | Sonya |
-| 950 | 110 | Charissa W Walton |
-| 951 | 110 | Slinky Snapfit |
-| 952 | 110 | Aleta Svitak |
-| 953 | 110 | skynatda |
-| 954 | 110 | Zappy Tilemaker |
-| 955 | 110 | Larredo Covington |
-| 956 | 110 | kaykay |
-| 957 | 109 | Tiffany Roberts |
-| 958 | 109 | Jonathan Jackson |
-| 959 | 109 | da1ndonly |
-| 960 | 109 | Frisky Blocker |
-| 961 | 109 | Honey Honey |
-| 962 | 109 | Street724 |
-| 963 | 109 | Tony Clark |
-| 964 | 109 | Lilo |
+| 938 | 113 | Lilo |
+| 939 | 112 | Jonelle Jacobs |
+| 940 | 112 | Justin Sercu |
+| 941 | 112 | Powder |
+| 942 | 111 | Anthony Kollar |
+| 943 | 111 | Elizabeth Putansu |
+| 944 | 111 | Peachy Piecefit |
+| 945 | 111 | Jacquelyn L Whitsitt |
+| 946 | 111 | Abby Waterman |
+| 947 | 111 | Lush Balanceblock |
+| 948 | 111 | MzCeleste Brooks |
+| 949 | 111 | Cozy Builderfit |
+| 950 | 111 | Sonya |
+| 951 | 110 | Charissa W Walton |
+| 952 | 110 | Slinky Snapfit |
+| 953 | 110 | Aleta Svitak |
+| 954 | 110 | skynatda |
+| 955 | 110 | Zappy Tilemaker |
+| 956 | 110 | Larredo Covington |
+| 957 | 110 | kaykay |
+| 958 | 109 | Tiffany Roberts |
+| 959 | 109 | Jonathan Jackson |
+| 960 | 109 | da1ndonly |
+| 961 | 109 | Frisky Blocker |
+| 962 | 109 | Honey Honey |
+| 963 | 109 | Street724 |
+| 964 | 109 | Tony Clark |
 | 965 | 108 | Marisela Alvarado |
 | 966 | 108 | Miranda Brown |
 | 967 | 108 | PDubz |
