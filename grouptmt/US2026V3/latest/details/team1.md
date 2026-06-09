@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 18:46:48 UTC
+# Standings for team1 as of 2026-06-09 18:47:22 UTC
 
 **Total Participants:** 2097
 
@@ -81,17 +81,17 @@
 | 73 | 1476 | Todd C. Clemens |
 | 74 | 1471 | Janet Cooke |
 | 75 | 1450 | Chenell Gillard |
-| 76 | 1426 | LeeLee08 |
-| 77 | 1418 | Frisky Fallmatch |
-| 78 | 1418 | Daylene Johannes |
-| 79 | 1401 | Holly Jolly |
-| 80 | 1399 | Uneekly Mayde |
-| 81 | 1388 | Jessica Roberts |
+| 76 | 1438 | Jessica Roberts |
+| 77 | 1426 | LeeLee08 |
+| 78 | 1418 | Frisky Fallmatch |
+| 79 | 1418 | Daylene Johannes |
+| 80 | 1401 | Holly Jolly |
+| 81 | 1399 | Uneekly Mayde |
 | 82 | 1363 | Spicy Balancer |
 | 83 | 1356 | Sarah Marie |
 | 84 | 1355 | Whitney Butler |
-| 85 | 1349 | Michael J Gresham |
-| 86 | 1349 | Court Court |
+| 85 | 1349 | Court Court |
+| 86 | 1349 | Michael J Gresham |
 | 87 | 1340 | La'Chae Nickole |
 | 88 | 1331 | Ryan Meilleur |
 | 89 | 1323 | Denise B |
@@ -101,8 +101,8 @@
 | 93 | 1256 | BYM4L |
 | 94 | 1243 | PandaPrincess |
 | 95 | 1242 | Jason Mungin |
-| 96 | 1217 | Catara Renae Oliver |
-| 97 | 1217 | Dynah Gordon |
+| 96 | 1217 | Dynah Gordon |
+| 97 | 1217 | Catara Renae Oliver |
 | 98 | 1216 | Tiana Moore |
 | 99 | 1208 | Aviv Zehavi |
 | 100 | 1192 | FallDee |
@@ -572,9 +572,9 @@
 | 564 | 229 | Phillip Vasquez |
 | 565 | 228 | PSD |
 | 566 | 227 | Mommy Frank |
-| 567 | 227 | Chris Holland |
-| 568 | 227 | Katrina Ramey |
-| 569 | 226 | Dede Tate |
+| 567 | 227 | Dede Tate |
+| 568 | 227 | Chris Holland |
+| 569 | 227 | Katrina Ramey |
 | 570 | 226 | Peppy Glider |
 | 571 | 226 | Rufus |
 | 572 | 226 | Kahliah Baker |
@@ -1500,34 +1500,34 @@
 | 1492 | 41 | Es Bee |
 | 1493 | 41 | Joy Marie |
 | 1494 | 41 | Sicily Bailey |
-| 1495 | 41 | Carolyn |
-| 1496 | 41 | Tynetta Scott |
-| 1497 | 41 | Jeffrey Pierce-Overton |
-| 1498 | 40 | Flashy Slam |
-| 1499 | 40 | Girly Pop |
-| 1500 | 40 | Chummy Blockpiece |
-| 1501 | 40 | Hasty Bridger |
-| 1502 | 40 | Billz143 |
-| 1503 | 40 | Fancy Zoner |
-| 1504 | 40 | NiingDing |
-| 1505 | 40 | Carol Washington |
-| 1506 | 40 | DimplezAOS |
-| 1507 | 40 | Brandon Dontell Saunders |
-| 1508 | 40 | James Dunlap |
-| 1509 | 40 | Bumpy Ricketts |
-| 1510 | 40 | meep |
-| 1511 | 40 | Tonya Mills |
-| 1512 | 40 | Kira Wooten |
+| 1495 | 41 | Dave Breaker |
+| 1496 | 41 | Carolyn |
+| 1497 | 41 | Tynetta Scott |
+| 1498 | 41 | Jeffrey Pierce-Overton |
+| 1499 | 40 | Flashy Slam |
+| 1500 | 40 | Girly Pop |
+| 1501 | 40 | Chummy Blockpiece |
+| 1502 | 40 | Hasty Bridger |
+| 1503 | 40 | Billz143 |
+| 1504 | 40 | Fancy Zoner |
+| 1505 | 40 | NiingDing |
+| 1506 | 40 | Kira Wooten |
+| 1507 | 40 | DimplezAOS |
+| 1508 | 40 | Brandon Dontell Saunders |
+| 1509 | 40 | James Dunlap |
+| 1510 | 40 | Bumpy Ricketts |
+| 1511 | 40 | meep |
+| 1512 | 40 | Tonya Mills |
 | 1513 | 40 | Dawn Walker |
-| 1514 | 40 | Goofy T-spin |
-| 1515 | 40 | Jiff |
-| 1516 | 40 | Chummy Clearfit |
-| 1517 | 40 | Katrina Trein Bein Dickerson |
-| 1518 | 40 | Boldy Zoner |
-| 1519 | 40 | Erica Wells |
-| 1520 | 40 | Venna Cooper |
-| 1521 | 40 | Princess Nevaeh |
-| 1522 | 40 | Dave Breaker |
+| 1514 | 40 | Carol Washington |
+| 1515 | 40 | Goofy T-spin |
+| 1516 | 40 | Jiff |
+| 1517 | 40 | Chummy Clearfit |
+| 1518 | 40 | Katrina Trein Bein Dickerson |
+| 1519 | 40 | Boldy Zoner |
+| 1520 | 40 | Erica Wells |
+| 1521 | 40 | Venna Cooper |
+| 1522 | 40 | Princess Nevaeh |
 | 1523 | 40 | Phongoudom Tika |
 | 1524 | 40 | Brian Marsico |
 | 1525 | 40 | Lisa Messerli |
