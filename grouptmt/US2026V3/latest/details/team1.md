@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:18:45 UTC
+# Standings for team1 as of 2026-06-09 06:19:24 UTC
 
 **Total Participants:** 1999
 
@@ -141,10 +141,10 @@
 | 133 | 793 | Alana Renee |
 | 134 | 775 | Big Tina |
 | 135 | 760 | Trendalyn Webb |
-| 136 | 754 | Jhaime |
-| 137 | 751 | Kellie Hall |
-| 138 | 747 | Carolynne Walker-Bell |
-| 139 | 742 | Plucky Slamdrop |
+| 136 | 756 | Plucky Slamdrop |
+| 137 | 754 | Jhaime |
+| 138 | 751 | Kellie Hall |
+| 139 | 747 | Carolynne Walker-Bell |
 | 140 | 730 | ing410 |
 | 141 | 720 | Murg4dr01d |
 | 142 | 720 | Felicia Williams |
@@ -298,20 +298,20 @@
 | 290 | 387 | StingerD |
 | 291 | 386 | Tremaine Hiler |
 | 292 | 386 | Chummy Frame |
-| 293 | 384 | Christana Imjustbutton Stone |
-| 294 | 380 | Nerdy Blockpiece |
-| 295 | 377 | AF Cruz |
-| 296 | 376 | Reginald Frank |
-| 297 | 375 | Steve Reno |
-| 298 | 375 | NastyFriend |
-| 299 | 371 | Lauraly |
-| 300 | 370 | Allison Baxter |
-| 301 | 368 | Brand Nu |
-| 302 | 368 | Cortaz Lawrie |
-| 303 | 367 | Smiley3000 |
-| 304 | 367 | Jayjay Rich |
-| 305 | 367 | Still Ten Tay |
-| 306 | 366 | Hailey Hil |
+| 293 | 386 | Hailey Hil |
+| 294 | 384 | Christana Imjustbutton Stone |
+| 295 | 380 | Nerdy Blockpiece |
+| 296 | 377 | AF Cruz |
+| 297 | 376 | Reginald Frank |
+| 298 | 375 | Steve Reno |
+| 299 | 375 | NastyFriend |
+| 300 | 371 | Lauraly |
+| 301 | 370 | Allison Baxter |
+| 302 | 368 | Brand Nu |
+| 303 | 368 | Cortaz Lawrie |
+| 304 | 367 | Smiley3000 |
+| 305 | 367 | Jayjay Rich |
+| 306 | 367 | Still Ten Tay |
 | 307 | 364 | Dacia Hicks |
 | 308 | 364 | Michele Simpson |
 | 309 | 363 | Christina Rebecca |

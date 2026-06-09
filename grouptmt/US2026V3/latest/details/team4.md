@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 06:18:45 UTC
+# Standings for team4 as of 2026-06-09 06:19:24 UTC
 
 **Total Participants:** 2065
 
@@ -124,12 +124,12 @@
 | 116 | 932 | Irma |
 | 117 | 900 | Shelby |
 | 118 | 883 | Tamara Triplet |
-| 119 | 877 | Loony Glidepiece |
-| 120 | 876 | Ermadette |
-| 121 | 871 | Becky Doll-Hall |
-| 122 | 866 | Hairy Snake |
-| 123 | 864 | Whitborn |
-| 124 | 850 | Melissa WC |
+| 119 | 880 | Melissa WC |
+| 120 | 877 | Loony Glidepiece |
+| 121 | 876 | Ermadette |
+| 122 | 871 | Becky Doll-Hall |
+| 123 | 866 | Hairy Snake |
+| 124 | 864 | Whitborn |
 | 125 | 844 | Kay |
 | 126 | 841 | Pepone Pepe |
 | 127 | 837 | Phil Peterson |
@@ -1081,58 +1081,58 @@
 | 1073 | 88 | MrsAddams724 |
 | 1074 | 87 | Yournightmare |
 | 1075 | 87 | Seraphina |
-| 1076 | 87 | Jodi Haman-wheeler |
-| 1077 | 87 | Audacious |
-| 1078 | 87 | Leslee Bentley DeLong |
+| 1076 | 87 | Leslee Bentley DeLong |
+| 1077 | 87 | Jodi Haman-wheeler |
+| 1078 | 87 | Audacious |
 | 1079 | 86 | Andy Petersen |
-| 1080 | 86 | Steven Patshy |
-| 1081 | 86 | Gerald Richard Franke |
-| 1082 | 86 | Kami |
-| 1083 | 86 | Chelsea Leigh Busch |
-| 1084 | 86 | Alicia Loveless |
-| 1085 | 86 | Candace Dean |
-| 1086 | 85 | Joyce Hampton |
-| 1087 | 85 | Mike Artis |
+| 1080 | 86 | Gerald Richard Franke |
+| 1081 | 86 | Alicia Loveless |
+| 1082 | 86 | Candace Dean |
+| 1083 | 86 | Mystica |
+| 1084 | 86 | Chelsea Leigh Busch |
+| 1085 | 86 | Kami |
+| 1086 | 86 | Steven Patshy |
+| 1087 | 85 | Lush Balanceblock |
 | 1088 | 85 | MelodiousDeez |
-| 1089 | 85 | Chelsea Guajardo |
+| 1089 | 85 | Mike Artis |
 | 1090 | 85 | Diane Obungu |
-| 1091 | 85 | Giggly Rollpiece |
-| 1092 | 85 | Lush Balanceblock |
-| 1093 | 85 | Sherri Lorent |
-| 1094 | 85 | Dannie Ems |
-| 1095 | 85 | RustyMaster40 |
-| 1096 | 85 | Natalie Ohrtman Strand |
-| 1097 | 85 | taya |
-| 1098 | 84 | Nicole Ambrose |
-| 1099 | 84 | Wayne Hendricks |
-| 1100 | 84 | Stacy Brown |
-| 1101 | 84 | Redhead girl |
-| 1102 | 84 | Wynisha Johnson |
-| 1103 | 84 | Red |
-| 1104 | 84 | Jumpy Brickline |
-| 1105 | 84 | T-Dogger |
-| 1106 | 84 | Gingerale<3 |
-| 1107 | 84 | Cassie N Danica Flaherty |
-| 1108 | 83 | Goofy Strike |
-| 1109 | 83 | Ciara Brown |
+| 1091 | 85 | Joyce Hampton |
+| 1092 | 85 | Chelsea Guajardo |
+| 1093 | 85 | Dannie Ems |
+| 1094 | 85 | Giggly Rollpiece |
+| 1095 | 85 | Sherri Lorent |
+| 1096 | 85 | RustyMaster40 |
+| 1097 | 85 | Natalie Ohrtman Strand |
+| 1098 | 85 | taya |
+| 1099 | 84 | Nicole Ambrose |
+| 1100 | 84 | Wayne Hendricks |
+| 1101 | 84 | Stacy Brown |
+| 1102 | 84 | Redhead girl |
+| 1103 | 84 | Wynisha Johnson |
+| 1104 | 84 | Red |
+| 1105 | 84 | Jumpy Brickline |
+| 1106 | 84 | T-Dogger |
+| 1107 | 84 | Gingerale<3 |
+| 1108 | 84 | Cassie N Danica Flaherty |
+| 1109 | 83 | Peter Babineaux Jr |
 | 1110 | 83 | Dapper Tiltpiece |
-| 1111 | 83 | Bubbly Shatter |
-| 1112 | 83 | Peter Babineaux Jr |
-| 1113 | 82 | Brenda Mueller |
-| 1114 | 82 | gothicmisery |
+| 1111 | 83 | Goofy Strike |
+| 1112 | 83 | Bubbly Shatter |
+| 1113 | 83 | Ciara Brown |
+| 1114 | 82 | Sara Cobb |
 | 1115 | 82 | JuicyJay |
-| 1116 | 82 | Sara Cobb |
-| 1117 | 82 | aubz |
+| 1116 | 82 | aubz |
+| 1117 | 82 | Brenda Mueller |
 | 1118 | 82 | Giggly Gridzone |
 | 1119 | 82 | EpicBarista |
 | 1120 | 82 | crazy lazy |
 | 1121 | 82 | Chris Norman |
-| 1122 | 82 | Charity Thomas |
-| 1123 | 82 | Cflixer |
-| 1124 | 81 | Diqthot |
-| 1125 | 81 | Buggy Julks |
-| 1126 | 81 | Kristen Lester |
-| 1127 | 81 | Mystica |
+| 1122 | 82 | gothicmisery |
+| 1123 | 82 | Charity Thomas |
+| 1124 | 82 | Cflixer |
+| 1125 | 81 | Diqthot |
+| 1126 | 81 | Buggy Julks |
+| 1127 | 81 | Kristen Lester |
 | 1128 | 81 | San |
 | 1129 | 81 | Michelle Clark |
 | 1130 | 81 | Cinnanin |
