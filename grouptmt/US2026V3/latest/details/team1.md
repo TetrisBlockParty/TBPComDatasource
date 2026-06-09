@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:56:44 UTC
+# Standings for team1 as of 2026-06-09 05:57:22 UTC
 
 **Total Participants:** 1995
 
@@ -86,11 +86,11 @@
 | 78 | 1253 | LeeLee08 |
 | 79 | 1229 | Todd C. Clemens |
 | 80 | 1217 | Catara Renae Oliver |
-| 81 | 1208 | Aviv Zehavi |
-| 82 | 1207 | Angela R Wilson |
-| 83 | 1206 | Jason Mungin |
-| 84 | 1206 | BYM4L |
-| 85 | 1205 | PandaPrincess |
+| 81 | 1211 | PandaPrincess |
+| 82 | 1208 | Aviv Zehavi |
+| 83 | 1207 | Angela R Wilson |
+| 84 | 1206 | Jason Mungin |
+| 85 | 1206 | BYM4L |
 | 86 | 1187 | Dynah Gordon |
 | 87 | 1184 | Court Court |
 | 88 | 1175 | Ryan Meilleur |
@@ -177,8 +177,8 @@
 | 169 | 603 | FallDee |
 | 170 | 600 | Shellzb Roberts |
 | 171 | 599 | Zappy Riser |
-| 172 | 596 | Cj Gorman |
-| 173 | 591 | Snappy Link |
+| 172 | 597 | Snappy Link |
+| 173 | 596 | Cj Gorman |
 | 174 | 584 | Novaa |
 | 175 | 583 | Block King |
 | 176 | 583 | TT |
@@ -908,43 +908,43 @@
 | 900 | 112 | GamerQueenDS |
 | 901 | 112 | Barbramerri Tarboro |
 | 902 | 112 | Jose Rodriguez |
-| 903 | 112 | Nikiya |
-| 904 | 111 | Deihja Weaver |
+| 903 | 112 | Donnie Withthebody |
+| 904 | 112 | Nikiya |
 | 905 | 111 | Hasty Brickzone |
-| 906 | 111 | Sharon Lynn |
-| 907 | 111 | Happy Blockpiece |
-| 908 | 111 | Daphne Ceasar |
-| 909 | 110 | Shauntai Holiday |
-| 910 | 110 | Felicia Woods |
-| 911 | 110 | Lucy Range |
-| 912 | 110 | Danny Talbot |
-| 913 | 110 | Tramaine Crockrum |
-| 914 | 110 | Nichole Horsley-Conn |
-| 915 | 110 | Slinky Fallzone |
-| 916 | 110 | mya |
-| 917 | 110 | Heru Ogun Yeshua EL |
-| 918 | 110 | Marissa Sweet |
-| 919 | 110 | Elizabeth AW |
-| 920 | 110 | Aaron Sohnrey |
-| 921 | 109 | LaShawyn Wood |
-| 922 | 109 | Melvin Simpson |
-| 923 | 109 | Tina Bongcayao |
-| 924 | 109 | Haakuu |
-| 925 | 108 | Shawn Himes |
-| 926 | 108 | Brittany Cole |
-| 927 | 108 | Charika Marie Bergmann |
+| 906 | 111 | Deihja Weaver |
+| 907 | 111 | Sharon Lynn |
+| 908 | 111 | Happy Blockpiece |
+| 909 | 111 | Daphne Ceasar |
+| 910 | 110 | Heru Ogun Yeshua EL |
+| 911 | 110 | Felicia Woods |
+| 912 | 110 | Lucy Range |
+| 913 | 110 | Danny Talbot |
+| 914 | 110 | Tramaine Crockrum |
+| 915 | 110 | Nichole Horsley-Conn |
+| 916 | 110 | Slinky Fallzone |
+| 917 | 110 | mya |
+| 918 | 110 | Shauntai Holiday |
+| 919 | 110 | Marissa Sweet |
+| 920 | 110 | Elizabeth AW |
+| 921 | 110 | Aaron Sohnrey |
+| 922 | 109 | LaShawyn Wood |
+| 923 | 109 | Haakuu |
+| 924 | 109 | Tina Bongcayao |
+| 925 | 109 | Melvin Simpson |
+| 926 | 108 | Charika Marie Bergmann |
+| 927 | 108 | Shawn Himes |
 | 928 | 108 | Angela L Charles |
-| 929 | 107 | Donnie Withthebody |
-| 930 | 107 | Kàrma Lee |
-| 931 | 107 | Fatty May |
+| 929 | 108 | Brittany Cole |
+| 930 | 107 | Smiley Bridgepiece |
+| 931 | 107 | Kàrma Lee |
 | 932 | 107 | Andrew Harris |
-| 933 | 107 | Smiley Bridgepiece |
-| 934 | 106 | Meepycat |
+| 933 | 107 | Fatty May |
+| 934 | 106 | Lawreniesha Burkley |
 | 935 | 106 | Jojo M |
-| 936 | 106 | Oaklonboy mike |
-| 937 | 106 | Lawreniesha Burkley |
-| 938 | 106 | Elizabeth Hopkins |
-| 939 | 106 | Samona Mcculler |
+| 936 | 106 | Meepycat |
+| 937 | 106 | Elizabeth Hopkins |
+| 938 | 106 | Samona Mcculler |
+| 939 | 106 | Oaklonboy mike |
 | 940 | 106 | Elizabeth Green |
 | 941 | 105 | Nikkizz |
 | 942 | 105 | Raquel Ortiz |
@@ -1661,29 +1661,29 @@
 | 1653 | 23 | Nika TaurustotheBone Turner |
 | 1654 | 23 | Nicolej |
 | 1655 | 23 | Lush Buildsnap |
-| 1656 | 23 | Sassy Stack |
-| 1657 | 22 | Cee CRaze Perry Sr. |
-| 1658 | 22 | Mary M Craven |
-| 1659 | 22 | Alexis Farquer |
-| 1660 | 22 | ShayePooh |
-| 1661 | 22 | Jhinarra Walker |
-| 1662 | 22 | Queen Baby 5 |
-| 1663 | 22 | Jazzy Drop |
+| 1656 | 23 | Nicki JTho |
+| 1657 | 23 | Sassy Stack |
+| 1658 | 22 | Cee CRaze Perry Sr. |
+| 1659 | 22 | Mary M Craven |
+| 1660 | 22 | Alexis Farquer |
+| 1661 | 22 | ShayePooh |
+| 1662 | 22 | Jhinarra Walker |
+| 1663 | 22 | Queen Baby 5 |
 | 1664 | 22 | Chantelle Sweet |
 | 1665 | 22 | BADBOY658 |
 | 1666 | 22 | Chipper Smasher |
-| 1667 | 21 | PuddenPop |
-| 1668 | 21 | Sanna Rose |
-| 1669 | 21 | Michelle Villasenor |
-| 1670 | 21 | Christy |
-| 1671 | 21 | Cheeky Wipegrid |
-| 1672 | 21 | cupcake |
-| 1673 | 21 | Nerdy Riser |
-| 1674 | 21 | Annette D Elliott |
-| 1675 | 21 | Nissa |
-| 1676 | 21 | Nicki JTho |
-| 1677 | 21 | Boldy Zoner |
-| 1678 | 21 | Lisamarie Fabre Cardona |
+| 1667 | 22 | Jazzy Drop |
+| 1668 | 21 | PuddenPop |
+| 1669 | 21 | Sanna Rose |
+| 1670 | 21 | Michelle Villasenor |
+| 1671 | 21 | Christy |
+| 1672 | 21 | Cheeky Wipegrid |
+| 1673 | 21 | cupcake |
+| 1674 | 21 | Nerdy Riser |
+| 1675 | 21 | Annette D Elliott |
+| 1676 | 21 | Nissa |
+| 1677 | 21 | Lisamarie Fabre Cardona |
+| 1678 | 21 | Boldy Zoner |
 | 1679 | 21 | Frisky Linkblock |
 | 1680 | 21 | Nikki Cornelious Valentine |
 | 1681 | 20 | Tipsy Builderline |

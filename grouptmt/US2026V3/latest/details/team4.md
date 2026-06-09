@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 05:56:44 UTC
+# Standings for team4 as of 2026-06-09 05:57:22 UTC
 
 **Total Participants:** 2063
 
@@ -41,7 +41,7 @@
 | 33 | 3824 | Juan Ford |
 | 34 | 3800 | Michele |
 | 35 | 3776 | Dana Smith |
-| 36 | 3695 | Leigh Pierce |
+| 36 | 3715 | Leigh Pierce |
 | 37 | 3692 | Watupall13 |
 | 38 | 3688 | Boldy Crusher |
 | 39 | 3421 | Fruitpunch |
@@ -117,7 +117,7 @@
 | 109 | 979 | Heather Preston |
 | 110 | 971 | Loony Towerer |
 | 111 | 970 | Jesse Olive |
-| 112 | 958 | Beee |
+| 112 | 968 | Beee |
 | 113 | 957 | Blayne Kole |
 | 114 | 952 | Alala.Cersei |
 | 115 | 946 | Sharidan Klinginsmith |
@@ -134,13 +134,13 @@
 | 126 | 830 | Kitsune Bi |
 | 127 | 829 | GeorgeButts |
 | 128 | 820 | Jenn Fitzgerald |
-| 129 | 807 | Keesha Muro |
-| 130 | 805 | JoLinda Dunn |
-| 131 | 804 | adrian |
-| 132 | 800 | Nicole Peoples |
-| 133 | 800 | Futrell Brent |
-| 134 | 792 | Lori Stembridge |
-| 135 | 791 | Loony Glidepiece |
+| 129 | 808 | Loony Glidepiece |
+| 130 | 807 | Keesha Muro |
+| 131 | 805 | JoLinda Dunn |
+| 132 | 804 | adrian |
+| 133 | 800 | Nicole Peoples |
+| 134 | 800 | Futrell Brent |
+| 135 | 792 | Lori Stembridge |
 | 136 | 789 | vag1974 |
 | 137 | 775 | Jason Garnatz |
 | 138 | 773 | Regina Williams |
