@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 06:16:43 UTC
+# Standings for team4 as of 2026-06-09 06:17:22 UTC
 
 **Total Participants:** 2065
 
@@ -532,8 +532,8 @@
 | 524 | 210 | Earl Edwards |
 | 525 | 209 | Ashley Mcdonald |
 | 526 | 209 | Perry Ransom |
-| 527 | 208 | Jeremy Barry |
-| 528 | 208 | Amanda Snow |
+| 527 | 208 | Amanda Snow |
+| 528 | 208 | Jeremy Barry |
 | 529 | 208 | alxhue04 |
 | 530 | 208 | Dawn Marie Trujillo |
 | 531 | 208 | Justin Janachovsky |
@@ -740,8 +740,8 @@
 | 732 | 147 | Surviving Be Back Soon |
 | 733 | 147 | Chass Hudson |
 | 734 | 146 | Happy Filler |
-| 735 | 146 | Lady |
-| 736 | 146 | Jasmine Marie |
+| 735 | 146 | Jasmine Marie |
+| 736 | 146 | Lady |
 | 737 | 145 | Jeff Seymour |
 | 738 | 145 | Kenny Nguyen |
 | 739 | 145 | Shirley A. Godfrey |
@@ -782,8 +782,8 @@
 | 774 | 135 | Jennifer Evans Elliott |
 | 775 | 135 | Jennifer Terrill |
 | 776 | 135 | Tactical_B |
-| 777 | 134 | Deb 07 |
-| 778 | 134 | Wacky Brick |
+| 777 | 134 | Wacky Brick |
+| 778 | 134 | Deb 07 |
 | 779 | 134 | Honey |
 | 780 | 134 | Momma Boss |
 | 781 | 134 | Elisha Thompson |
@@ -808,8 +808,8 @@
 | 800 | 131 | Joha Mldo Castillo |
 | 801 | 131 | chuck |
 | 802 | 131 | Loony Edge |
-| 803 | 130 | Dexter Hammond Jr |
-| 804 | 130 | Stephanie Meinhart |
+| 803 | 130 | Stephanie Meinhart |
+| 804 | 130 | Dexter Hammond Jr |
 | 805 | 130 | Bhakti Sawarkar |
 | 806 | 130 | Tammy Wells |
 | 807 | 130 | Alicia Horsea Rojas |
@@ -927,8 +927,8 @@
 | 919 | 112 | Justin Sercu |
 | 920 | 112 | Powder |
 | 921 | 112 | Jonelle Jacobs |
-| 922 | 111 | Anthony Kollar |
-| 923 | 111 | Sonya |
+| 922 | 111 | Sonya |
+| 923 | 111 | Anthony Kollar |
 | 924 | 111 | Peachy Piecefit |
 | 925 | 111 | Elizabeth Putansu |
 | 926 | 111 | Abby Waterman |
@@ -988,8 +988,8 @@
 | 980 | 102 | Stacey Heartful |
 | 981 | 102 | Joe Andrews |
 | 982 | 102 | Darren Miguel |
-| 983 | 101 | Peterson Cottontail |
-| 984 | 101 | Tipsy Patternfit |
+| 983 | 101 | Tipsy Patternfit |
+| 984 | 101 | Peterson Cottontail |
 | 985 | 101 | Misty Harland |
 | 986 | 101 | Neeta Kapadia |
 | 987 | 101 | Scot Matthew Bergdorf |
@@ -1038,8 +1038,8 @@
 | 1030 | 95 | Hyper Balancepiece |
 | 1031 | 95 | Patsy |
 | 1032 | 95 | Jasmine Griffin |
-| 1033 | 95 | Hotstuff |
-| 1034 | 95 | Frisky Pusher |
+| 1033 | 95 | Frisky Pusher |
+| 1034 | 95 | Hotstuff |
 | 1035 | 94 | Mari Isaac |
 | 1036 | 94 | Cranky Twistpiece |
 | 1037 | 94 | Elizabeth Ann Caro |
@@ -1488,8 +1488,8 @@
 | 1480 | 44 | Lizzie McGuire |
 | 1481 | 44 | Sharron Mullins |
 | 1482 | 44 | Chyla Burns |
-| 1483 | 44 | EJ Frazier |
-| 1484 | 44 | SweetChaos |
+| 1483 | 44 | SweetChaos |
+| 1484 | 44 | EJ Frazier |
 | 1485 | 43 | Lin Ferguson |
 | 1486 | 43 | BlockFlakes |
 | 1487 | 43 | Amina Walker |
