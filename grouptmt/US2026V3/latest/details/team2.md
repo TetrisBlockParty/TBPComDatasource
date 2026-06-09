@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 21:36:22 UTC
+# Standings for team2 as of 2026-06-09 21:36:49 UTC
 
 **Total Participants:** 2585
 
@@ -127,8 +127,8 @@
 | 119 | 1281 | Cathy Tippett |
 | 120 | 1278 | Jef Wassom |
 | 121 | 1275 | Michelle Maulsby |
-| 122 | 1261 | Kathy Strickland |
-| 123 | 1251 | Deborah Boyce Minor |
+| 122 | 1271 | Deborah Boyce Minor |
+| 123 | 1261 | Kathy Strickland |
 | 124 | 1245 | Criccett Hooper-Smith |
 | 125 | 1240 | Hoppy Rotate |
 | 126 | 1235 | Jason Cook |
@@ -407,16 +407,16 @@
 | 399 | 398 | Queen |
 | 400 | 397 | Jeff Pottgether |
 | 401 | 396 | Marylin Eacker |
-| 402 | 395 | Traci Abern |
-| 403 | 395 | MUMBLES |
+| 402 | 395 | MUMBLES |
+| 403 | 395 | Traci Abern |
 | 404 | 394 | Maria Ward |
 | 405 | 394 | DayDreamer79 |
 | 406 | 392 | Sassy Twistbuilder |
 | 407 | 392 | Karly Moore |
 | 408 | 391 | La chulis |
 | 409 | 390 | Breezy |
-| 410 | 389 | Danielle Pack Lewellen |
-| 411 | 389 | Crystal Poss |
+| 410 | 389 | Crystal Poss |
+| 411 | 389 | Danielle Pack Lewellen |
 | 412 | 387 | Doowop40 |
 | 413 | 387 | Funway998 |
 | 414 | 387 | Zach Jewett |
@@ -425,8 +425,8 @@
 | 417 | 385 | Pamela Raye |
 | 418 | 385 | Bengy Lead |
 | 419 | 384 | Buffy Diane Blake |
-| 420 | 384 | Jacquelyn Snyder Dumas |
-| 421 | 384 | Amber Cogdill |
+| 420 | 384 | Amber Cogdill |
+| 421 | 384 | Jacquelyn Snyder Dumas |
 | 422 | 383 | Elizabeth Henry |
 | 423 | 383 | Smiley Staggerpiece |
 | 424 | 383 | Jenna Stahl |
@@ -436,23 +436,23 @@
 | 428 | 379 | Nathan Walker |
 | 429 | 377 | Staci Behrens |
 | 430 | 376 | Quirky Clicky |
-| 431 | 376 | Ariel Gundersen |
-| 432 | 373 | Hoppy Mover |
-| 433 | 372 | Wacky Curve |
-| 434 | 371 | Teresa Mandich |
+| 431 | 376 | andee |
+| 432 | 376 | Ariel Gundersen |
+| 433 | 373 | Hoppy Mover |
+| 434 | 372 | Wacky Curve |
 | 435 | 371 | Gwendolyn Boykin Mobbs |
 | 436 | 371 | Jackie Walker |
-| 437 | 370 | Loopy Tower |
-| 438 | 370 | marsam |
-| 439 | 370 | Marge Cromer |
-| 440 | 370 | Nicole Good |
-| 441 | 369 | Logan Duffey |
+| 437 | 371 | Teresa Mandich |
+| 438 | 370 | Loopy Tower |
+| 439 | 370 | marsam |
+| 440 | 370 | Marge Cromer |
+| 441 | 370 | Nicole Good |
 | 442 | 369 | Partin |
-| 443 | 368 | Coleen Yoder |
-| 444 | 367 | PaiBri |
-| 445 | 367 | Flashy Basegrid |
-| 446 | 366 | Mandy Van Laningham Bishop |
-| 447 | 364 | andee |
+| 443 | 369 | Logan Duffey |
+| 444 | 368 | Coleen Yoder |
+| 445 | 367 | PaiBri |
+| 446 | 367 | Flashy Basegrid |
+| 447 | 366 | Mandy Van Laningham Bishop |
 | 448 | 364 | Amy Nicole McCanne |
 | 449 | 363 | Ashley Billiot Rhodes |
 | 450 | 362 | Jessica Christine |
@@ -1571,33 +1571,33 @@
 | 1563 | 74 | Loony Shatter |
 | 1564 | 74 | Lori Antrim Nichols |
 | 1565 | 74 | Katie Magner |
-| 1566 | 73 | RalphyD |
-| 1567 | 73 | Carrie Rutter-Bail |
-| 1568 | 73 | lion king |
-| 1569 | 73 | Yvonne Rodriguez |
-| 1570 | 73 | Bowling girl |
-| 1571 | 73 | Jenica Davis |
+| 1566 | 74 | Jamie Mullins |
+| 1567 | 73 | RalphyD |
+| 1568 | 73 | Carrie Rutter-Bail |
+| 1569 | 73 | lion king |
+| 1570 | 73 | Yvonne Rodriguez |
+| 1571 | 73 | Bowling girl |
 | 1572 | 73 | Disguised Duck |
-| 1573 | 73 | Elodie Deveyer |
-| 1574 | 73 | Berta Hurley |
-| 1575 | 73 | Sunny Spinzone |
-| 1576 | 73 | giggly gal |
-| 1577 | 72 | Linda Jeanne Knop |
-| 1578 | 72 | Aubrey Gates |
-| 1579 | 72 | Plucky Linkmatch |
-| 1580 | 72 | Stacy Lynn |
-| 1581 | 72 | Nicole Dyer |
-| 1582 | 72 | Cozy Builder |
+| 1573 | 73 | Jenica Davis |
+| 1574 | 73 | Elodie Deveyer |
+| 1575 | 73 | Berta Hurley |
+| 1576 | 73 | Sunny Spinzone |
+| 1577 | 73 | giggly gal |
+| 1578 | 72 | Linda Jeanne Knop |
+| 1579 | 72 | Aubrey Gates |
+| 1580 | 72 | Cozy Builder |
+| 1581 | 72 | Stacy Lynn |
+| 1582 | 72 | LeighAnn Loftis |
 | 1583 | 72 | Zippy Wobbler |
-| 1584 | 72 | LeighAnn Loftis |
-| 1585 | 71 | lols |
-| 1586 | 71 | John C Morrison |
-| 1587 | 71 | Jamie Mullins |
-| 1588 | 71 | Chey |
-| 1589 | 71 | Cindy Smith |
+| 1584 | 72 | Plucky Linkmatch |
+| 1585 | 72 | Nicole Dyer |
+| 1586 | 71 | Chey |
+| 1587 | 71 | Cindy Smith |
+| 1588 | 71 | John C Morrison |
+| 1589 | 71 | lols |
 | 1590 | 70 | Samantha Rhone |
-| 1591 | 70 | FinnsDad |
-| 1592 | 70 | Emma Danielle Wynn |
+| 1591 | 70 | Emma Danielle Wynn |
+| 1592 | 70 | FinnsDad |
 | 1593 | 70 | Jay Theriault |
 | 1594 | 70 | April Owings |
 | 1595 | 70 | Shannon Michelle |
