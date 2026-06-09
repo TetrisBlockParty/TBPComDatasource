@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 16:16:47 UTC
+# Standings for team2 as of 2026-06-09 16:17:22 UTC
 
 **Total Participants:** 2525
 
@@ -116,10 +116,10 @@
 | 108 | 1350 | Sigmamom |
 | 109 | 1334 | Frothy Fallgrid |
 | 110 | 1323 | joey |
-| 111 | 1286 | Kvothe |
-| 112 | 1285 | Charlie Wilson |
-| 113 | 1278 | Jef Wassom |
-| 114 | 1246 | Jayke Edward |
+| 111 | 1299 | Jayke Edward |
+| 112 | 1286 | Kvothe |
+| 113 | 1285 | Charlie Wilson |
+| 114 | 1278 | Jef Wassom |
 | 115 | 1245 | Criccett Hooper-Smith |
 | 116 | 1238 | Hoppy Rotate |
 | 117 | 1235 | Michelle Maulsby |
@@ -248,10 +248,10 @@
 | 240 | 615 | Lisa Underwood Desmond |
 | 241 | 614 | Steven |
 | 242 | 612 | Theresa Marie |
-| 243 | 609 | Michelle Rich Burkhart |
+| 243 | 610 | meg |
 | 244 | 609 | Brooke Allred |
-| 245 | 606 | Chasity Simpson |
-| 246 | 601 | meg |
+| 245 | 609 | Michelle Rich Burkhart |
+| 246 | 606 | Chasity Simpson |
 | 247 | 601 | Spicy Basepiece |
 | 248 | 600 | Charles E Mccardell |
 | 249 | 598 | Amie Marks |
@@ -417,10 +417,10 @@
 | 409 | 370 | Nicole Good |
 | 410 | 369 | Logan Duffey |
 | 411 | 369 | Partin |
-| 412 | 368 | Keri Mears |
-| 413 | 367 | Flashy Basegrid |
-| 414 | 366 | Amy Taylor Pomerenk |
-| 415 | 366 | Sassy Twistbuilder |
+| 412 | 369 | Sassy Twistbuilder |
+| 413 | 368 | Keri Mears |
+| 414 | 367 | Flashy Basegrid |
+| 415 | 366 | Amy Taylor Pomerenk |
 | 416 | 365 | Skye Ehret |
 | 417 | 364 | Amy Nicole McCanne |
 | 418 | 363 | Ashley Billiot Rhodes |
