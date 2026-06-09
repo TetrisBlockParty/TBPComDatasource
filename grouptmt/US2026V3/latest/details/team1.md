@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:54:44 UTC
+# Standings for team1 as of 2026-06-09 12:55:21 UTC
 
 **Total Participants:** 2043
 
@@ -176,26 +176,26 @@
 | 168 | 668 | Katherine Short |
 | 169 | 668 | JaszyBadd |
 | 170 | 667 | Karebear |
-| 171 | 661 | sha |
-| 172 | 657 | Ann White |
-| 173 | 646 | TeeMaster Barber IsLyfe |
-| 174 | 645 | Marcheta Cervantez |
-| 175 | 645 | Keke Ferguson |
-| 176 | 637 | FallDee |
-| 177 | 636 | BULLSEYE |
-| 178 | 630 | Bambi Love |
+| 171 | 663 | Latisha Fairley |
+| 172 | 661 | sha |
+| 173 | 657 | Ann White |
+| 174 | 646 | TeeMaster Barber IsLyfe |
+| 175 | 645 | Marcheta Cervantez |
+| 176 | 645 | Keke Ferguson |
+| 177 | 637 | FallDee |
+| 178 | 636 | BULLSEYE |
 | 179 | 630 | SyTheEvilGenius1 |
-| 180 | 629 | Charletha Williams |
-| 181 | 623 | Abraham Espaillat |
-| 182 | 617 | Tammye Turner |
-| 183 | 617 | Crystal Anderson |
-| 184 | 616 | Dandy Brickfit |
-| 185 | 614 | Jamal Itzjusmall Chambers |
-| 186 | 611 | Giggy Clusterer |
-| 187 | 610 | Genne Scott |
-| 188 | 609 | Latisha Fairley |
-| 189 | 604 | Sarah Clark |
-| 190 | 604 | Michelle Titus |
+| 180 | 630 | Bambi Love |
+| 181 | 629 | Charletha Williams |
+| 182 | 623 | Abraham Espaillat |
+| 183 | 617 | Tammye Turner |
+| 184 | 617 | Crystal Anderson |
+| 185 | 616 | Dandy Brickfit |
+| 186 | 614 | Jamal Itzjusmall Chambers |
+| 187 | 611 | Giggy Clusterer |
+| 188 | 610 | Genne Scott |
+| 189 | 604 | Michelle Titus |
+| 190 | 604 | Sarah Clark |
 | 191 | 600 | Spicy Risepiece |
 | 192 | 600 | Shellzb Roberts |
 | 193 | 599 | Zappy Riser |
@@ -204,8 +204,8 @@
 | 196 | 590 | xXEKUNXx |
 | 197 | 587 | Randizzle |
 | 198 | 584 | Novaa |
-| 199 | 583 | TT |
-| 200 | 583 | Block King |
+| 199 | 583 | Block King |
+| 200 | 583 | TT |
 | 201 | 580 | Felicia Cain |
 | 202 | 575 | David Fuentes |
 | 203 | 575 | Tobey Marberry |
@@ -664,52 +664,52 @@
 | 656 | 182 | Jimmy Shannon |
 | 657 | 181 | Amy Villalpando |
 | 658 | 180 | NedaWin |
-| 659 | 180 | Nikita Jones |
-| 660 | 180 | Victor |
-| 661 | 180 | Cornelius Neal |
-| 662 | 179 | Jes Marie |
-| 663 | 179 | Ad Doctor |
-| 664 | 179 | Stephen Garland |
+| 659 | 180 | Victor |
+| 660 | 180 | Cornelius Neal |
+| 661 | 180 | Nikita Jones |
+| 662 | 179 | Stephen Garland |
+| 663 | 179 | Jes Marie |
+| 664 | 179 | Ad Doctor |
 | 665 | 179 | Kike Lua |
 | 666 | 178 | Frilly Shatterline |
 | 667 | 177 | Tina Blessed Cage |
 | 668 | 176 | Frisky Gridder |
 | 669 | 176 | Squaw Ki Ng |
-| 670 | 176 | Callie Mae |
-| 671 | 176 | jeremy92 |
+| 670 | 176 | jeremy92 |
+| 671 | 176 | Callie Mae |
 | 672 | 175 | DaemahnFriday |
 | 673 | 175 | Poppy Twister |
-| 674 | 175 | Eric Machuca |
-| 675 | 175 | Loony Clearer |
-| 676 | 174 | Nerdy Wipefit |
-| 677 | 174 | Clipzby |
-| 678 | 173 | Ashley Monet Terrell |
-| 679 | 173 | Claudia Price |
+| 674 | 175 | Loony Clearer |
+| 675 | 175 | Eric Machuca |
+| 676 | 174 | Don Ray Mc |
+| 677 | 174 | Nerdy Wipefit |
+| 678 | 174 | Clipzby |
+| 679 | 173 | Mathew Trudell |
 | 680 | 173 | Kim Holzmiller |
-| 681 | 173 | Mathew Trudell |
-| 682 | 172 | Ozell Jones Jr. |
-| 683 | 172 | Don Ray Mc |
-| 684 | 172 | MrsDontPlay |
-| 685 | 171 | Locke Mahal LD |
-| 686 | 171 | Ta'Kaiyah M. Spann |
-| 687 | 170 | Devron Reedy |
-| 688 | 170 | meatballs |
+| 681 | 173 | Ashley Monet Terrell |
+| 682 | 173 | Claudia Price |
+| 683 | 172 | MrsDontPlay |
+| 684 | 172 | Ozell Jones Jr. |
+| 685 | 171 | Ta'Kaiyah M. Spann |
+| 686 | 171 | Locke Mahal LD |
+| 687 | 170 | meatballs |
+| 688 | 170 | Devron Reedy |
 | 689 | 170 | Christi Walker Patton |
-| 690 | 169 | Undeniable Williams |
-| 691 | 169 | Cheryl Miller |
+| 690 | 169 | Cheryl Miller |
+| 691 | 169 | Undeniable Williams |
 | 692 | 169 | rb |
 | 693 | 168 | Lynn |
-| 694 | 168 | Christina Singleton |
-| 695 | 168 | Lounique |
-| 696 | 167 | Montego Allen |
-| 697 | 167 | Comedian Gdane |
-| 698 | 167 | Cynthia Cruell |
-| 699 | 167 | Joka NoTime ForHataz |
+| 694 | 168 | Lounique |
+| 695 | 168 | Christina Singleton |
+| 696 | 167 | Comedian Gdane |
+| 697 | 167 | Joka NoTime ForHataz |
+| 698 | 167 | Montego Allen |
+| 699 | 167 | Cynthia Cruell |
 | 700 | 166 | Amaadi Ward |
-| 701 | 165 | Vannie G |
-| 702 | 165 | lizlizliz |
-| 703 | 163 | QueenShay AllGood |
-| 704 | 163 | Kelvin Cook |
+| 701 | 165 | lizlizliz |
+| 702 | 165 | Vannie G |
+| 703 | 163 | Kelvin Cook |
+| 704 | 163 | QueenShay AllGood |
 | 705 | 162 | Speedy Stacky |
 | 706 | 162 | Peppy Wipeblock |
 | 707 | 160 | Cheeky Twistpiece |
@@ -903,21 +903,21 @@
 | 895 | 120 | Sandra Mims |
 | 896 | 120 | Ebie |
 | 897 | 120 | lookin |
-| 898 | 119 | Danny Talbot |
-| 899 | 119 | Analesia Taylor |
-| 900 | 119 | Octavia Whitmire |
-| 901 | 119 | Albert McKnight |
-| 902 | 119 | Sylvia Offically A Mcgowan |
-| 903 | 119 | Hyy |
-| 904 | 118 | Maria Baez Medina |
-| 905 | 118 | Felicia Yahuah Johnson |
-| 906 | 118 | Hasty Pivoty |
-| 907 | 118 | Jjhandsome |
-| 908 | 118 | Gabriela Hernandez |
-| 909 | 118 | Raymond Boosie Freeman |
-| 910 | 118 | Shanna Green Williams |
-| 911 | 118 | Dirty Deeds |
-| 912 | 118 | Kidgib5 |
+| 898 | 119 | Kidgib5 |
+| 899 | 119 | Danny Talbot |
+| 900 | 119 | Analesia Taylor |
+| 901 | 119 | Octavia Whitmire |
+| 902 | 119 | Albert McKnight |
+| 903 | 119 | Sylvia Offically A Mcgowan |
+| 904 | 119 | Hyy |
+| 905 | 118 | Maria Baez Medina |
+| 906 | 118 | Felicia Yahuah Johnson |
+| 907 | 118 | Hasty Pivoty |
+| 908 | 118 | Jjhandsome |
+| 909 | 118 | Gabriela Hernandez |
+| 910 | 118 | Raymond Boosie Freeman |
+| 911 | 118 | Shanna Green Williams |
+| 912 | 118 | Dirty Deeds |
 | 913 | 117 | Jordan Deon Elery |
 | 914 | 117 | Spicy Tiler |
 | 915 | 117 | Bruce Paléncia |
