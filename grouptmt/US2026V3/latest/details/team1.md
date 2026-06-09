@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:18:43 UTC
+# Standings for team1 as of 2026-06-09 07:19:23 UTC
 
 **Total Participants:** 2010
 
@@ -235,8 +235,8 @@
 | 227 | 487 | GrkGdess |
 | 228 | 481 | Giggy Clusterer |
 | 229 | 477 | Qwlonda Shirrell |
-| 230 | 476 | BULLSEYE |
-| 231 | 476 | Roberta Lynn |
+| 230 | 476 | Roberta Lynn |
+| 231 | 476 | BULLSEYE |
 | 232 | 475 | Kenny 'Tailormade' Boyd |
 | 233 | 473 | Nicole Watson-Dixon |
 | 234 | 472 | Rachel Zimmerman |
@@ -248,32 +248,32 @@
 | 240 | 458 | Jimmie Makia |
 | 241 | 456 | Cachet A Ward |
 | 242 | 455 | Tamara Johnson-Carter |
-| 243 | 453 | JaClanDiah |
+| 243 | 455 | Jhonny Maii |
 | 244 | 453 | Elizabeth Vega Coreano |
-| 245 | 452 | Kenny MrOnethousand Peck |
-| 246 | 451 | Penee Wiggins |
-| 247 | 451 | Simmone T. Kadiri |
-| 248 | 450 | boogeywoogey |
-| 249 | 448 | Michael Bethezar |
-| 250 | 447 | Cheeky Pop |
-| 251 | 447 | Jazzy Fireflighters |
-| 252 | 447 | Zippy Tilefall |
-| 253 | 447 | Rachael Bakowicz Edwards |
-| 254 | 444 | Latisha Fairley |
-| 255 | 444 | Kevin M. McGhee Jr |
-| 256 | 441 | Jhonny Maii |
+| 245 | 453 | JaClanDiah |
+| 246 | 452 | Kenny MrOnethousand Peck |
+| 247 | 451 | Penee Wiggins |
+| 248 | 451 | Simmone T. Kadiri |
+| 249 | 450 | boogeywoogey |
+| 250 | 448 | Michael Bethezar |
+| 251 | 447 | Rachael Bakowicz Edwards |
+| 252 | 447 | Jazzy Fireflighters |
+| 253 | 447 | Zippy Tilefall |
+| 254 | 447 | Cheeky Pop |
+| 255 | 444 | Latisha Fairley |
+| 256 | 444 | Kevin M. McGhee Jr |
 | 257 | 441 | Tessa Felice Hill |
-| 258 | 440 | Slinky Brickmatch |
-| 259 | 440 | Zippy Lifter |
+| 258 | 440 | Zippy Lifter |
+| 259 | 440 | Slinky Brickmatch |
 | 260 | 439 | Asani CHumba |
 | 261 | 436 | Leebo Slice |
 | 262 | 435 | Clever Fitblock |
 | 263 | 434 | Choc |
-| 264 | 432 | Trina Greenwood |
-| 265 | 432 | Jessica Russell |
-| 266 | 432 | Lashaunda |
-| 267 | 430 | Tarnisha Neicy Jones |
-| 268 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 264 | 432 | Lashaunda |
+| 265 | 432 | Trina Greenwood |
+| 266 | 432 | Jessica Russell |
+| 267 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 268 | 430 | Tarnisha Neicy Jones |
 | 269 | 426 | Chasem45 |
 | 270 | 423 | Dion Gray |
 | 271 | 421 | OhNoZer0 |
@@ -352,7 +352,7 @@
 | 344 | 330 | ♈️ Ariesbaby |
 | 345 | 329 | Bubbly Piececlear |
 | 346 | 326 | TeeMaster Barber IsLyfe |
-| 347 | 320 | 大竹直之 |
+| 347 | 322 | 大竹直之 |
 | 348 | 318 | Nerdy Snapfall |
 | 349 | 317 | Jai |
 | 350 | 315 | KeeKee Williams |
@@ -946,48 +946,48 @@
 | 938 | 107 | Andrew Harris |
 | 939 | 107 | Kàrma Lee |
 | 940 | 107 | Smiley Bridgepiece |
-| 941 | 106 | Jojo M |
-| 942 | 106 | Elizabeth Green |
+| 941 | 106 | Elizabeth Green |
+| 942 | 106 | Bluebino |
 | 943 | 106 | Samona Mcculler |
 | 944 | 106 | Lawreniesha Burkley |
 | 945 | 106 | Oaklonboy mike |
 | 946 | 106 | Elizabeth Hopkins |
 | 947 | 106 | Meepycat |
-| 948 | 105 | Raquel Ortiz |
-| 949 | 105 | Ja'mice Nelson |
-| 950 | 105 | Jack Mehof |
-| 951 | 105 | Maria |
-| 952 | 105 | Nikkizz |
+| 948 | 106 | Jojo M |
+| 949 | 105 | Raquel Ortiz |
+| 950 | 105 | Ja'mice Nelson |
+| 951 | 105 | Jack Mehof |
+| 952 | 105 | Maria |
 | 953 | 105 | Michael Smith |
 | 954 | 105 | Angie Lebron |
-| 955 | 104 | Bluebino |
+| 955 | 105 | Nikkizz |
 | 956 | 104 | Alanna Breitenbach |
 | 957 | 104 | Ahvae Lee |
-| 958 | 103 | Meshia |
-| 959 | 103 | Ashanti Eden |
-| 960 | 102 | Silly Shatterline |
-| 961 | 102 | Krista McNair |
-| 962 | 102 | Laysa Nunez |
-| 963 | 102 | Jeremy Hendrix |
-| 964 | 102 | Blocksy |
-| 965 | 102 | Willson06 |
-| 966 | 101 | tk |
-| 967 | 101 | Wacky Wipepiece |
+| 958 | 103 | Ashanti Eden |
+| 959 | 103 | Meshia |
+| 960 | 102 | Willson06 |
+| 961 | 102 | Silly Shatterline |
+| 962 | 102 | Jeremy Hendrix |
+| 963 | 102 | Blocksy |
+| 964 | 102 | Laysa Nunez |
+| 965 | 102 | Krista McNair |
+| 966 | 101 | Ryan Holm |
+| 967 | 101 | LaSharon Jackson |
 | 968 | 101 | star |
-| 969 | 101 | Ryan Holm |
-| 970 | 101 | LaSharon Jackson |
+| 969 | 101 | Wacky Wipepiece |
+| 970 | 101 | tk |
 | 971 | 101 | John Spath |
 | 972 | 100 | Jumpy Gridlock |
-| 973 | 100 | Smøke DGAF |
-| 974 | 100 | BigMike |
-| 975 | 100 | brite |
-| 976 | 100 | Oldheads |
-| 977 | 100 | Megan Payette |
-| 978 | 100 | Keith Big-Sixx Mackell |
-| 979 | 100 | Kidgib5 |
-| 980 | 100 | Ounquan Wright |
-| 981 | 100 | Thomas Pearson |
-| 982 | 100 | Raymond Keeler |
+| 973 | 100 | Megan Payette |
+| 974 | 100 | Oldheads |
+| 975 | 100 | Keith Big-Sixx Mackell |
+| 976 | 100 | Kidgib5 |
+| 977 | 100 | Smøke DGAF |
+| 978 | 100 | Ounquan Wright |
+| 979 | 100 | Thomas Pearson |
+| 980 | 100 | BigMike |
+| 981 | 100 | Raymond Keeler |
+| 982 | 100 | brite |
 | 983 | 100 | Bunnie Celtavini |
 | 984 | 100 | Jonathan McKenzie |
 | 985 | 100 | Sarah Guarino |
