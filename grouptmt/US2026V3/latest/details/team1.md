@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:00:44 UTC
+# Standings for team1 as of 2026-06-09 09:01:22 UTC
 
 **Total Participants:** 2020
 
@@ -360,8 +360,8 @@
 | 352 | 330 | ♈️ Ariesbaby |
 | 353 | 329 | Bubbly Piececlear |
 | 354 | 327 | Jennah |
-| 355 | 323 | 大竹直之 |
-| 356 | 321 | Skippy |
+| 355 | 326 | Skippy |
+| 356 | 323 | 大竹直之 |
 | 357 | 318 | Nerdy Snapfall |
 | 358 | 317 | Jai |
 | 359 | 315 | KeeKee Williams |

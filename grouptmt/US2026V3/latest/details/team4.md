@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 09:00:44 UTC
+# Standings for team4 as of 2026-06-09 09:01:22 UTC
 
 **Total Participants:** 2088
 
@@ -806,41 +806,41 @@
 | 798 | 137 | Ashley McGeehan |
 | 799 | 137 | Leslie Ramos |
 | 800 | 137 | YenSid |
-| 801 | 135 | Tactical_B |
-| 802 | 135 | Lamont |
-| 803 | 135 | Ajohnna Frazee |
-| 804 | 135 | Jennifer Terrill |
-| 805 | 135 | Kimberly Devon |
-| 806 | 134 | Kena T. Tanner |
+| 801 | 136 | Giggy Bridgepiece |
+| 802 | 135 | Tactical_B |
+| 803 | 135 | Lamont |
+| 804 | 135 | Ajohnna Frazee |
+| 805 | 135 | Jennifer Terrill |
+| 806 | 135 | Kimberly Devon |
 | 807 | 134 | Kiki Moore |
 | 808 | 134 | Honey |
 | 809 | 134 | GETBOXED! |
 | 810 | 134 | Breezy Rollfit |
 | 811 | 134 | Elisha Thompson |
 | 812 | 134 | Dandy Linkgrid |
-| 813 | 134 | Wacky Brick |
-| 814 | 134 | Deb 07 |
-| 815 | 133 | Rebekah Anne Macias |
-| 816 | 133 | Erica Hardwick |
-| 817 | 133 | Sonia Cordero-Martinez |
-| 818 | 133 | Domo Dpn |
-| 819 | 133 | Electric Storm |
-| 820 | 133 | Scalpel Causes Shambles |
-| 821 | 133 | Giggy Bridgepiece |
+| 813 | 134 | Kena T. Tanner |
+| 814 | 134 | Wacky Brick |
+| 815 | 134 | Deb 07 |
+| 816 | 133 | Domo Dpn |
+| 817 | 133 | Rebekah Anne Macias |
+| 818 | 133 | Erica Hardwick |
+| 819 | 133 | Sonia Cordero-Martinez |
+| 820 | 133 | Electric Storm |
+| 821 | 133 | Scalpel Causes Shambles |
 | 822 | 132 | Lala |
 | 823 | 132 | William Brooks |
-| 824 | 132 | MrLoner Stoner |
-| 825 | 132 | shonaberry |
-| 826 | 131 | Joha Mldo Castillo |
-| 827 | 131 | Giggy Snapgrid |
-| 828 | 131 | Renzo Tonini |
-| 829 | 131 | Certified Da Don |
+| 824 | 132 | shonaberry |
+| 825 | 132 | MrLoner Stoner |
+| 826 | 131 | SueSally |
+| 827 | 131 | Loony Edge |
+| 828 | 131 | Joha Mldo Castillo |
+| 829 | 131 | Jazzy Rollout |
 | 830 | 131 | chuck |
-| 831 | 131 | Jazzy Rollout |
-| 832 | 131 | Loony Edge |
-| 833 | 131 | SueSally |
-| 834 | 130 | Lizard |
-| 835 | 130 | Tigger |
+| 831 | 131 | Certified Da Don |
+| 832 | 131 | Renzo Tonini |
+| 833 | 131 | Giggy Snapgrid |
+| 834 | 130 | Tigger |
+| 835 | 130 | Lizard |
 | 836 | 130 | Stephanie Meinhart |
 | 837 | 130 | Layne Davis |
 | 838 | 130 | Alicia Horsea Rojas |
