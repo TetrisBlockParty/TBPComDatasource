@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 12:01:22 UTC
+# Standings for team4 as of 2026-06-09 12:02:46 UTC
 
 **Total Participants:** 2096
 
@@ -25,7 +25,7 @@
 | 17 | 6682 | delilahbelle |
 | 18 | 6254 | Anna Moses |
 | 19 | 6121 | Nia Mayfield |
-| 20 | 5913 | Bubbly Twistpiece |
+| 20 | 5923 | Bubbly Twistpiece |
 | 21 | 5854 | Senor Moppy |
 | 22 | 5552 | Tyra Brooke Everman Forest |
 | 23 | 5113 | Squirrel Donkey |
@@ -54,7 +54,7 @@
 | 46 | 2800 | Annastaissia Todd |
 | 47 | 2769 | Blind Bette |
 | 48 | 2753 | Leah Barnett |
-| 49 | 2558 | Carly Stempien |
+| 49 | 2638 | Carly Stempien |
 | 50 | 2547 | 626 |
 | 51 | 2475 | Wendy Zentz |
 | 52 | 2460 | Kathy Brookins |
@@ -91,7 +91,7 @@
 | 83 | 1328 | Shaina Sharp |
 | 84 | 1306 | Lupe Alburquerque |
 | 85 | 1300 | Gloria Nunley Trussell |
-| 86 | 1263 | squareMel |
+| 86 | 1283 | squareMel |
 | 87 | 1225 | Fancy Crasher |
 | 88 | 1202 | MysticMaven |
 | 89 | 1175 | Bryan DjMagnum Evans |
@@ -178,7 +178,7 @@
 | 170 | 651 | Dayna Arthurs |
 | 171 | 648 | Jewelz |
 | 172 | 646 | Christy Beezley-Forbush |
-| 173 | 627 | Katie Martin |
+| 173 | 637 | Katie Martin |
 | 174 | 615 | Cinta Marie |
 | 175 | 603 | zoes |
 | 176 | 600 | Shocinda Sherwood |
@@ -364,9 +364,9 @@
 | 356 | 316 | JuicyJuice |
 | 357 | 316 | Snow77white |
 | 358 | 315 | Dan Butcher |
-| 359 | 314 | June Hoffman |
-| 360 | 314 | Tiggerjake |
-| 361 | 313 | Merritt Brandt |
+| 359 | 314 | Merritt Brandt |
+| 360 | 314 | June Hoffman |
+| 361 | 314 | Tiggerjake |
 | 362 | 312 | Karen Davis |
 | 363 | 310 | Troy Zanelli |
 | 364 | 309 | TRUCHILD777$$$ |
@@ -503,25 +503,25 @@
 | 495 | 237 | Swanky Snapgrid |
 | 496 | 237 | DrC |
 | 497 | 236 | Alyson M Kehler |
-| 498 | 236 | Susan Stofberg Beltran |
-| 499 | 236 | Tasha Suzanne Prisbrey |
-| 500 | 234 | luluraine |
-| 501 | 233 | Karen Small |
-| 502 | 233 | Dandy Cascade |
-| 503 | 233 | Playa |
-| 504 | 232 | Carla Woodard |
-| 505 | 232 | REPENT |
-| 506 | 232 | Elli Wright |
-| 507 | 231 | Lora Schallert |
-| 508 | 230 | Elissa Danks |
-| 509 | 229 | Marcus Chavis |
-| 510 | 229 | Lupe Chapa |
-| 511 | 229 | Melika Zeheb |
-| 512 | 229 | Perry Ransom |
-| 513 | 229 | Silly Fallzone |
-| 514 | 228 | Happy Strikerpiece |
-| 515 | 228 | Montes Ash |
-| 516 | 228 | Henry Lanier |
+| 498 | 236 | Henry Lanier |
+| 499 | 236 | Susan Stofberg Beltran |
+| 500 | 236 | Tasha Suzanne Prisbrey |
+| 501 | 234 | luluraine |
+| 502 | 233 | Karen Small |
+| 503 | 233 | Dandy Cascade |
+| 504 | 233 | Playa |
+| 505 | 232 | Carla Woodard |
+| 506 | 232 | REPENT |
+| 507 | 232 | Elli Wright |
+| 508 | 231 | Lora Schallert |
+| 509 | 230 | Elissa Danks |
+| 510 | 229 | Marcus Chavis |
+| 511 | 229 | Lupe Chapa |
+| 512 | 229 | Melika Zeheb |
+| 513 | 229 | Perry Ransom |
+| 514 | 229 | Silly Fallzone |
+| 515 | 228 | Happy Strikerpiece |
+| 516 | 228 | Montes Ash |
 | 517 | 228 | alxhue04 |
 | 518 | 227 | Thermeka Lindsey |
 | 519 | 227 | Garden Girlie |
@@ -636,21 +636,21 @@
 | 628 | 192 | Chris |
 | 629 | 191 | Anna Ryan |
 | 630 | 190 | Brandon Bedenbaugh |
-| 631 | 190 | Simone |
-| 632 | 190 | Name |
+| 631 | 190 | Name |
+| 632 | 190 | Simone |
 | 633 | 190 | Candice Sellers Worley |
 | 634 | 189 | MrsReap |
 | 635 | 189 | Zesty Lift |
 | 636 | 187 | Katy |
-| 637 | 187 | Brainbabe |
-| 638 | 187 | Suzanne North |
-| 639 | 186 | Dolores Falco |
-| 640 | 186 | Amber Jalbert |
-| 641 | 184 | Virgil Mayfield-Brown |
+| 637 | 187 | Stotty |
+| 638 | 187 | Brainbabe |
+| 639 | 187 | Suzanne North |
+| 640 | 186 | Dolores Falco |
+| 641 | 186 | Amber Jalbert |
 | 642 | 184 | Chilly Pop |
 | 643 | 184 | Csigirlnc |
-| 644 | 184 | Mrsjcraw18 |
-| 645 | 184 | Stotty |
+| 644 | 184 | Virgil Mayfield-Brown |
+| 645 | 184 | Mrsjcraw18 |
 | 646 | 183 | pussface |
 | 647 | 183 | Blessedmom865 |
 | 648 | 183 | Erica Pompey |
@@ -1229,36 +1229,36 @@
 | 1221 | 75 | Kay |
 | 1222 | 75 | Mighty Spinfit |
 | 1223 | 75 | Gary Moore |
-| 1224 | 75 | Jeremy Fisher |
-| 1225 | 75 | Marco A. Sandoval |
-| 1226 | 74 | Brittany |
-| 1227 | 74 | Chirpy Corner |
+| 1224 | 75 | Marco A. Sandoval |
+| 1225 | 75 | Jeremy Fisher |
+| 1226 | 74 | Chirpy Corner |
+| 1227 | 74 | David Kirschner |
 | 1228 | 74 | Danielle Porter |
-| 1229 | 74 | David Kirschner |
-| 1230 | 74 | Kristie McFarland |
-| 1231 | 74 | Katherine Stec |
+| 1229 | 74 | Brittany |
+| 1230 | 74 | Hyper Clusterline |
+| 1231 | 74 | Kristie McFarland |
 | 1232 | 74 | Shane Tate |
-| 1233 | 73 | Bo Hagan |
-| 1234 | 73 | Yseoj M. Zurc |
+| 1233 | 74 | Katherine Stec |
+| 1234 | 73 | Bo Hagan |
 | 1235 | 73 | Jacqueline Couillard Jaeger |
-| 1236 | 72 | Clever Linkfall |
+| 1236 | 73 | Yseoj M. Zurc |
 | 1237 | 72 | Martha Fisher |
-| 1238 | 72 | Kassey M. Clark |
-| 1239 | 72 | Hyper Clusterline |
-| 1240 | 72 | Baby cat |
-| 1241 | 72 | Bridget Reilly |
-| 1242 | 71 | ImagineKaijus |
-| 1243 | 71 | Pink Tetramino |
-| 1244 | 71 | Monique Kitzmiller |
+| 1238 | 72 | Clever Linkfall |
+| 1239 | 72 | Kassey M. Clark |
+| 1240 | 72 | Bridget Reilly |
+| 1241 | 72 | Baby cat |
+| 1242 | 71 | Hyper Snaplink |
+| 1243 | 71 | ImagineKaijus |
+| 1244 | 71 | Sydney Taylor Sileno |
 | 1245 | 71 | Jessica Armistead |
 | 1246 | 71 | Bouncy Blockclear |
-| 1247 | 71 | Sydney Taylor Sileno |
-| 1248 | 71 | Hyper Snaplink |
-| 1249 | 70 | Jada Jordyn Campbell |
-| 1250 | 70 | Uh Lesh Uh |
+| 1247 | 71 | Monique Kitzmiller |
+| 1248 | 71 | Pink Tetramino |
+| 1249 | 70 | Tahira Patrice |
+| 1250 | 70 | Deanne Silverdahl |
 | 1251 | 70 | T boo |
-| 1252 | 70 | Deanne Silverdahl |
-| 1253 | 70 | Tahira Patrice |
+| 1252 | 70 | Jada Jordyn Campbell |
+| 1253 | 70 | Uh Lesh Uh |
 | 1254 | 69 | Derrek Lee |
 | 1255 | 69 | Felicity Fahrentin |
 | 1256 | 69 | Tina Lopez |
