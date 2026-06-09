@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 06:46:47 UTC
+# Standings for team4 as of 2026-06-09 06:47:22 UTC
 
 **Total Participants:** 2068
 
@@ -228,9 +228,9 @@
 | 220 | 480 | Adam Dickinson |
 | 221 | 478 | Betsy Froemming |
 | 222 | 467 | Cyndi Najar |
-| 223 | 466 | Randy M Hatch |
-| 224 | 462 | Laguya |
-| 225 | 462 | Cranky Buildout |
+| 223 | 467 | Cranky Buildout |
+| 224 | 466 | Randy M Hatch |
+| 225 | 462 | Laguya |
 | 226 | 462 | BusterBear56 |
 | 227 | 461 | Kayla Fuentes |
 | 228 | 460 | Celina DiBastiani |
@@ -668,8 +668,8 @@
 | 660 | 169 | Taisha Beasley |
 | 661 | 168 | Nessa Smith |
 | 662 | 168 | Caiti O'Keefe |
-| 663 | 168 | Mighty1 |
-| 664 | 167 | Hasty Dropzone |
+| 663 | 168 | Hasty Dropzone |
+| 664 | 168 | Mighty1 |
 | 665 | 167 | Andrea Dre Lomeli |
 | 666 | 167 | Tana-Marie Lynn McCarty-Rolf |
 | 667 | 167 | Kuar T Ejen |
@@ -995,46 +995,46 @@
 | 987 | 101 | Scot Matthew Bergdorf |
 | 988 | 101 | FUNBAT |
 | 989 | 101 | Melissa Abigail |
-| 990 | 101 | Samantha Brandt |
-| 991 | 101 | Audrianna Skaff |
+| 990 | 101 | Audrianna Skaff |
+| 991 | 101 | Samantha Brandt |
 | 992 | 101 | Kenyatta Davis |
 | 993 | 101 | Tipsy Patternfit |
 | 994 | 101 | Peterson Cottontail |
 | 995 | 100 | Mike Zec II |
 | 996 | 100 | CorieBe |
-| 997 | 100 | Nova Kain |
-| 998 | 100 | Kiara Itzel Crowe |
+| 997 | 100 | Kiara Itzel Crowe |
+| 998 | 100 | Nova Kain |
 | 999 | 100 | Kristal |
 | 1000 | 100 | Cozy Staggerpiece |
-| 1001 | 100 | Pauline Cortez |
-| 1002 | 100 | Nykell Sturdivant |
-| 1003 | 100 | Chummy Twistpiece |
-| 1004 | 100 | Funky Rollzone |
+| 1001 | 100 | Funky Rollzone |
+| 1002 | 100 | Pauline Cortez |
+| 1003 | 100 | Nykell Sturdivant |
+| 1004 | 100 | Chummy Twistpiece |
 | 1005 | 100 | Heather Garrity |
 | 1006 | 100 | Lemus |
-| 1007 | 99 | Combo Snappy |
-| 1008 | 99 | Shannon Foster |
-| 1009 | 99 | Mandy Grant |
-| 1010 | 99 | Rodger Lines |
-| 1011 | 99 | Dru Lui |
+| 1007 | 99 | Conela Rouse Goldstein |
+| 1008 | 99 | Combo Snappy |
+| 1009 | 99 | Rodger Lines |
+| 1010 | 99 | Shannon Foster |
+| 1011 | 99 | Mandy Grant |
 | 1012 | 99 | Tamika Ashli Bonner |
 | 1013 | 99 | Rebekah Anne Macias |
 | 1014 | 99 | Ricardo Arias |
 | 1015 | 99 | Nikcole Alexis Bryan |
-| 1016 | 99 | Stevonne Roberts |
-| 1017 | 99 | Cat |
-| 1018 | 99 | Fancy Riser |
-| 1019 | 99 | Kelli Miller |
-| 1020 | 99 | Monica Shupe |
-| 1021 | 99 | Lilo |
-| 1022 | 98 | katy |
-| 1023 | 97 | Limbo |
-| 1024 | 97 | Conela Rouse Goldstein |
-| 1025 | 97 | Oc Tive |
-| 1026 | 97 | Skylar Durk |
-| 1027 | 96 | Jacquelyn L Whitsitt |
-| 1028 | 96 | Tiffany Taylor |
-| 1029 | 96 | Bear Bair |
+| 1016 | 99 | Dru Lui |
+| 1017 | 99 | Stevonne Roberts |
+| 1018 | 99 | Cat |
+| 1019 | 99 | Fancy Riser |
+| 1020 | 99 | Kelli Miller |
+| 1021 | 99 | Monica Shupe |
+| 1022 | 99 | Lilo |
+| 1023 | 98 | katy |
+| 1024 | 97 | Oc Tive |
+| 1025 | 97 | Skylar Durk |
+| 1026 | 97 | Limbo |
+| 1027 | 96 | Bear Bair |
+| 1028 | 96 | Jacquelyn L Whitsitt |
+| 1029 | 96 | Tiffany Taylor |
 | 1030 | 96 | JUNE |
 | 1031 | 96 | Smiley Wipeblock |
 | 1032 | 96 | Steven Patshy |
