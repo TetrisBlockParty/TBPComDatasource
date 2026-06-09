@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 18:06:45 UTC
+# Standings for team2 as of 2026-06-09 18:07:22 UTC
 
 **Total Participants:** 2543
 
@@ -66,7 +66,7 @@
 | 58 | 2842 | Beverly Lynn Mills |
 | 59 | 2827 | Helen Thomas |
 | 60 | 2778 | Rose Schaffner-Kibler |
-| 61 | 2750 | Chipper Patternblock |
+| 61 | 2770 | Chipper Patternblock |
 | 62 | 2600 | LEW |
 | 63 | 2557 | Nawang Nawang |
 | 64 | 2556 | Andrew Weissenborn |
@@ -138,7 +138,7 @@
 | 130 | 1132 | Ricardo Ewart |
 | 131 | 1132 | Wmk Rathbun |
 | 132 | 1124 | LittleHippoEars |
-| 133 | 1090 | Deborah Boyce Minor |
+| 133 | 1111 | Deborah Boyce Minor |
 | 134 | 1069 | Jeska Gaines |
 | 135 | 1052 | Mirr Lulu |
 | 136 | 1049 | Sedy |
@@ -166,14 +166,14 @@
 | 158 | 904 | Spicy Risegrid |
 | 159 | 899 | Marie Luciano |
 | 160 | 887 | Amber Wolf |
-| 161 | 859 | Snappy Blockbuilder |
-| 162 | 858 | Giggly Wipepiece |
-| 163 | 854 | LaWanda Powell |
-| 164 | 849 | Brandi Thompson |
-| 165 | 841 | Sara Perkins |
-| 166 | 828 | Tina Marie |
-| 167 | 827 | Zesty Strikerbuilder |
-| 168 | 826 | Sam |
+| 161 | 866 | Sam |
+| 162 | 859 | Snappy Blockbuilder |
+| 163 | 858 | Giggly Wipepiece |
+| 164 | 854 | LaWanda Powell |
+| 165 | 849 | Brandi Thompson |
+| 166 | 841 | Sara Perkins |
+| 167 | 828 | Tina Marie |
+| 168 | 827 | Zesty Strikerbuilder |
 | 169 | 825 | Brandon Link |
 | 170 | 816 | Le Sandy |
 | 171 | 813 | Loony Faller |
@@ -511,11 +511,11 @@
 | 503 | 314 | Aurora June Brock |
 | 504 | 313 | Reni Seven |
 | 505 | 312 | Mandeee |
-| 506 | 311 | Alyssa Malay |
-| 507 | 310 | Shannon Curry Riggle |
-| 508 | 310 | Hannah Meadows Hammond |
-| 509 | 310 | Zappy Liney |
-| 510 | 310 | Melmel |
+| 506 | 311 | Melmel |
+| 507 | 311 | Alyssa Malay |
+| 508 | 310 | Shannon Curry Riggle |
+| 509 | 310 | Hannah Meadows Hammond |
+| 510 | 310 | Zappy Liney |
 | 511 | 309 | Jessica Melendy |
 | 512 | 307 | Jennifer McClure |
 | 513 | 306 | Heather Schardan |
