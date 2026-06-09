@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:14:45 UTC
+# Standings for team4 as of 2026-06-09 10:15:22 UTC
 
 **Total Participants:** 2091
 
@@ -160,8 +160,8 @@
 | 152 | 725 | blockhead |
 | 153 | 722 | SupaFly |
 | 154 | 709 | Lisa Garcia |
-| 155 | 700 | Boldy Striker |
-| 156 | 700 | DexterDobbins |
+| 155 | 700 | DexterDobbins |
+| 156 | 700 | Boldy Striker |
 | 157 | 697 | Lynn Grimes |
 | 158 | 692 | Jeremy Lopez |
 | 159 | 691 | Nikki Fuller Johnson |
@@ -172,13 +172,13 @@
 | 164 | 665 | iiPurgeV2 |
 | 165 | 664 | Daryn Elliott |
 | 166 | 656 | Kimberly Civinski |
-| 167 | 652 | LastBoi |
-| 168 | 651 | Dayna Arthurs |
-| 169 | 648 | Jewelz |
-| 170 | 646 | Christy Beezley-Forbush |
-| 171 | 636 | Shannon Rivera |
-| 172 | 615 | Cinta Marie |
-| 173 | 607 | Cranky Buildout |
+| 167 | 656 | Cranky Buildout |
+| 168 | 652 | LastBoi |
+| 169 | 651 | Dayna Arthurs |
+| 170 | 648 | Jewelz |
+| 171 | 646 | Christy Beezley-Forbush |
+| 172 | 636 | Shannon Rivera |
+| 173 | 615 | Cinta Marie |
 | 174 | 603 | zoes |
 | 175 | 600 | Suzanne Carter |
 | 176 | 599 | Devinlee Brown |
@@ -194,15 +194,15 @@
 | 186 | 563 | QueenLi86 |
 | 187 | 563 | Jacqueline Jackii Ramos |
 | 188 | 559 | Katie Martin |
-| 189 | 555 | Janet Sanfilippo Sullivan |
-| 190 | 555 | Julian Gasque |
+| 189 | 555 | Julian Gasque |
+| 190 | 555 | Janet Sanfilippo Sullivan |
 | 191 | 554 | Jennifer Ellyn Sheets |
 | 192 | 552 | Principal Liz |
 | 193 | 551 | Alma López Morales |
 | 194 | 550 | Magz |
 | 195 | 544 | Boldy Rumbler |
-| 196 | 540 | Sisi RedVelvet Reneè |
-| 197 | 540 | Anthony Magaraci |
+| 196 | 540 | Anthony Magaraci |
+| 197 | 540 | Sisi RedVelvet Reneè |
 | 198 | 538 | Alex Armour |
 | 199 | 538 | Nicole |
 | 200 | 536 | Kelly Howland |
@@ -386,14 +386,14 @@
 | 378 | 292 | Rachel Lemos |
 | 379 | 290 | Quiomarie Cotto |
 | 380 | 290 | Brian Woods |
-| 381 | 289 | Chilly Pivot |
-| 382 | 289 | Jeri Anne Stormo-Toman |
-| 383 | 287 | Missionary Meda |
-| 384 | 287 | Melissa Lowe |
-| 385 | 287 | Ashley Eskridge |
-| 386 | 286 | Dubiousdust |
-| 387 | 286 | Jumpy Builderpiece |
-| 388 | 286 | Merritt Brandt |
+| 381 | 290 | Merritt Brandt |
+| 382 | 289 | Chilly Pivot |
+| 383 | 289 | Jeri Anne Stormo-Toman |
+| 384 | 287 | Missionary Meda |
+| 385 | 287 | Melissa Lowe |
+| 386 | 287 | Ashley Eskridge |
+| 387 | 286 | Dubiousdust |
+| 388 | 286 | Jumpy Builderpiece |
 | 389 | 285 | Lively Cascadebuilder |
 | 390 | 285 | Jrr |
 | 391 | 285 | gabs |
