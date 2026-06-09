@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:21:21 UTC
+# Standings for team1 as of 2026-06-09 19:22:22 UTC
 
 **Total Participants:** 2105
 
@@ -131,9 +131,9 @@
 | 123 | 971 | Cece Fowler |
 | 124 | 968 | Jaida De'Anne Cox |
 | 125 | 966 | Murg4dr01d |
-| 126 | 946 | Lesley Brunkus Cianfaglione |
-| 127 | 939 | Plucky Slamdrop |
-| 128 | 928 | G Ah Mayes |
+| 126 | 955 | G Ah Mayes |
+| 127 | 946 | Lesley Brunkus Cianfaglione |
+| 128 | 939 | Plucky Slamdrop |
 | 129 | 923 | Slim Shedidthat |
 | 130 | 908 | Danielle Barthelme |
 | 131 | 907 | Kellie Hall |
@@ -146,12 +146,12 @@
 | 138 | 883 | Rolanda Williams |
 | 139 | 882 | Jon Gathers |
 | 140 | 881 | Slinky Puzzler |
-| 141 | 880 | Felicia Williams |
-| 142 | 880 | Sharon Cail |
+| 141 | 880 | Sharon Cail |
+| 142 | 880 | Felicia Williams |
 | 143 | 876 | Atlantalindi |
-| 144 | 851 | Snappy Link |
-| 145 | 842 | Nutty Spinblock |
-| 146 | 839 | Spunky Edgefit |
+| 144 | 857 | Spunky Edgefit |
+| 145 | 851 | Snappy Link |
+| 146 | 842 | Nutty Spinblock |
 | 147 | 834 | De'Laonzeo Anthony |
 | 148 | 831 | Kaleisha Smith |
 | 149 | 830 | No_Other_Choice |
@@ -339,11 +339,11 @@
 | 331 | 386 | De'Mear McKinney |
 | 332 | 384 | Erica Charlise |
 | 333 | 382 | Brave Clearbuilder |
-| 334 | 381 | NastyFriend |
-| 335 | 380 | Ketrell Bailey |
-| 336 | 378 | Heather Aurelia |
-| 337 | 378 | Ashley MyBeauty Daniels |
-| 338 | 378 | Poppy Buildout |
+| 334 | 381 | Poppy Buildout |
+| 335 | 381 | NastyFriend |
+| 336 | 380 | Ketrell Bailey |
+| 337 | 378 | Heather Aurelia |
+| 338 | 378 | Ashley MyBeauty Daniels |
 | 339 | 377 | Amber Wilson |
 | 340 | 377 | AF Cruz |
 | 341 | 377 | ♈️ Ariesbaby |
@@ -507,11 +507,11 @@
 | 499 | 264 | Boldy Matchbuilder |
 | 500 | 263 | Kamilya Rembert |
 | 501 | 262 | Denisa Amazon Clark |
-| 502 | 261 | Jelyfish |
-| 503 | 260 | HS Arce |
-| 504 | 260 | Slinky Swipe |
-| 505 | 260 | Alyssa Rae |
-| 506 | 259 | BonnieB |
+| 502 | 261 | BonnieB |
+| 503 | 261 | Jelyfish |
+| 504 | 260 | HS Arce |
+| 505 | 260 | Slinky Swipe |
+| 506 | 260 | Alyssa Rae |
 | 507 | 259 | Mighty Dropper |
 | 508 | 259 | Slinky Clearzone |
 | 509 | 258 | Breezy Catcher |
@@ -645,19 +645,19 @@
 | 637 | 204 | Kp |
 | 638 | 204 | Cynda Cyn |
 | 639 | 203 | Jovy |
-| 640 | 202 | Alexandrla Smith |
-| 641 | 202 | Frankey Chi |
-| 642 | 202 | Messy Live |
-| 643 | 202 | Hyper Blocky |
-| 644 | 202 | Nutty Fallmatch |
-| 645 | 200 | Felicia Dungey |
+| 640 | 203 | Andra Ward |
+| 641 | 202 | Alexandrla Smith |
+| 642 | 202 | Frankey Chi |
+| 643 | 202 | Messy Live |
+| 644 | 202 | Hyper Blocky |
+| 645 | 202 | Nutty Fallmatch |
 | 646 | 200 | Nisha Sunshine Jenkins |
-| 647 | 200 | Victoria Smith |
-| 648 | 200 | Kyle Conley |
-| 649 | 200 | Leavon Smith |
-| 650 | 200 | Karen Knapp |
-| 651 | 200 | Jimmy Shannon |
-| 652 | 200 | Andra Ward |
+| 647 | 200 | Felicia Dungey |
+| 648 | 200 | Victoria Smith |
+| 649 | 200 | Kyle Conley |
+| 650 | 200 | Leavon Smith |
+| 651 | 200 | Karen Knapp |
+| 652 | 200 | Jimmy Shannon |
 | 653 | 199 | Anastasia |
 | 654 | 198 | Ashlie Mo |
 | 655 | 198 | Erica Campbell-Stillings |
@@ -1003,33 +1003,33 @@
 | 995 | 112 | GamerQueenDS |
 | 996 | 112 | Trusi Rusi |
 | 997 | 112 | Ashanti Eden |
-| 998 | 112 | Caitlin Michele |
-| 999 | 112 | Nikiya |
+| 998 | 112 | Nikiya |
+| 999 | 112 | Caitlin Michele |
 | 1000 | 112 | Jose Rodriguez |
 | 1001 | 111 | star |
 | 1002 | 111 | GoldStarJo |
-| 1003 | 111 | Jeremy Hendrix |
-| 1004 | 111 | Deihja Weaver |
+| 1003 | 111 | Tanisha Robinson |
+| 1004 | 111 | Jeremy Hendrix |
 | 1005 | 111 | Happy Blockpiece |
-| 1006 | 111 | Sharon Lynn |
+| 1006 | 111 | Deihja Weaver |
 | 1007 | 111 | Daphne Ceasar |
-| 1008 | 110 | Lucy Range |
-| 1009 | 110 | Felicia Woods |
-| 1010 | 110 | LaPorscha Wright |
-| 1011 | 110 | jac |
-| 1012 | 110 | Elizabeth AW |
-| 1013 | 110 | Tanisha Robinson |
-| 1014 | 110 | Nichole Horsley-Conn |
+| 1008 | 111 | Sharon Lynn |
+| 1009 | 110 | Nichole Horsley-Conn |
+| 1010 | 110 | Felicia Woods |
+| 1011 | 110 | LaPorscha Wright |
+| 1012 | 110 | jac |
+| 1013 | 110 | Elizabeth AW |
+| 1014 | 110 | Lucy Range |
 | 1015 | 109 | Tip318 |
 | 1016 | 109 | Terrence Webster |
 | 1017 | 109 | Melvin Simpson |
-| 1018 | 109 | Haakuu |
-| 1019 | 109 | NickyJay Jones |
-| 1020 | 109 | Lively Rollpiece |
-| 1021 | 109 | Ounquan Wright |
-| 1022 | 108 | Tori Carter |
-| 1023 | 108 | Brittany Cole |
-| 1024 | 108 | Mike Hromowyk |
+| 1018 | 109 | NickyJay Jones |
+| 1019 | 109 | Lively Rollpiece |
+| 1020 | 109 | Ounquan Wright |
+| 1021 | 109 | Haakuu |
+| 1022 | 108 | Mike Hromowyk |
+| 1023 | 108 | Tori Carter |
+| 1024 | 108 | Brittany Cole |
 | 1025 | 108 | Kat |
 | 1026 | 108 | Angela L Charles |
 | 1027 | 108 | Shanae Beasley |
