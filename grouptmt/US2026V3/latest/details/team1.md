@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 22:58:44 UTC
+# Standings for team1 as of 2026-06-09 22:59:21 UTC
 
 **Total Participants:** 2129
 
@@ -46,8 +46,8 @@
 | 38 | 2649 | Weeze |
 | 39 | 2619 | Zappy Brickline |
 | 40 | 2540 | Jamie Willis |
-| 41 | 2460 | Epic Snapfall |
-| 42 | 2446 | Chill Clusterer |
+| 41 | 2466 | Chill Clusterer |
+| 42 | 2460 | Epic Snapfall |
 | 43 | 2445 | Hyper Slamdrop |
 | 44 | 2375 | JoJo |
 | 45 | 2370 | Therealdywoune Peay |
@@ -1577,58 +1577,58 @@
 | 1569 | 38 | kaboom |
 | 1570 | 38 | Krista Shanice |
 | 1571 | 38 | Nicole Freeman |
-| 1572 | 38 | Twisty Linkgrid |
-| 1573 | 38 | hope |
-| 1574 | 38 | Pastors Du Bose |
+| 1572 | 38 | Jade Smalls |
+| 1573 | 38 | Twisty Linkgrid |
+| 1574 | 38 | hope |
 | 1575 | 38 | Twisty Tilebuilder |
-| 1576 | 37 | XYZ |
-| 1577 | 37 | Witty Blockpiece |
-| 1578 | 37 | Ryan |
+| 1576 | 38 | Pastors Du Bose |
+| 1577 | 37 | Jb Mzresilience |
+| 1578 | 37 | Witty Blockpiece |
 | 1579 | 37 | kiki |
-| 1580 | 37 | Let Them |
-| 1581 | 37 | Cheeky Matchzone |
-| 1582 | 37 | Linda Howard |
-| 1583 | 37 | Jb Mzresilience |
-| 1584 | 36 | Dana |
-| 1585 | 36 | Papi |
+| 1580 | 37 | Cheeky Matchzone |
+| 1581 | 37 | Linda Howard |
+| 1582 | 37 | Ryan |
+| 1583 | 37 | Let Them |
+| 1584 | 37 | XYZ |
+| 1585 | 36 | LS Jamison |
 | 1586 | 36 | Tionka Green |
-| 1587 | 36 | Jessica Lee |
-| 1588 | 36 | RMGreen |
+| 1587 | 36 | RMGreen |
+| 1588 | 36 | Destiny Maria |
 | 1589 | 36 | Candice Poe |
-| 1590 | 36 | LS Jamison |
-| 1591 | 36 | Destiny Maria |
+| 1590 | 36 | Dana |
+| 1591 | 36 | Jessica Lee |
 | 1592 | 36 | Silly Spinblock |
-| 1593 | 36 | Frilly Lifter |
-| 1594 | 36 | Tee4 |
-| 1595 | 36 | Jennifer Nixon |
-| 1596 | 36 | luc |
-| 1597 | 36 | Giggy Rollfit |
-| 1598 | 36 | Sean Walker |
-| 1599 | 36 | D Jay Camberos |
-| 1600 | 36 | Geneva Carter |
-| 1601 | 35 | Kerry Meister Rummel |
-| 1602 | 35 | Frilly Glidepiece |
-| 1603 | 35 | Silly Shifter |
-| 1604 | 35 | Evee |
+| 1593 | 36 | Papi |
+| 1594 | 36 | Jennifer Nixon |
+| 1595 | 36 | Frilly Lifter |
+| 1596 | 36 | Tee4 |
+| 1597 | 36 | luc |
+| 1598 | 36 | Giggy Rollfit |
+| 1599 | 36 | Sean Walker |
+| 1600 | 36 | D Jay Camberos |
+| 1601 | 36 | Geneva Carter |
+| 1602 | 35 | Kerry Meister Rummel |
+| 1603 | 35 | Margie Toni Corley |
+| 1604 | 35 | Silly Shifter |
 | 1605 | 35 | X6TRAUMA9X |
-| 1606 | 35 | Happymama |
-| 1607 | 35 | Margie Toni Corley |
-| 1608 | 35 | Rose Clark |
-| 1609 | 35 | Jade Smalls |
-| 1610 | 35 | Nerdy Twistline |
-| 1611 | 35 | Butta |
-| 1612 | 35 | Charise McGee |
-| 1613 | 35 | Brandy Jaszewski |
-| 1614 | 35 | Wacky Dashgrid |
-| 1615 | 34 | Zayy Wavyy |
-| 1616 | 34 | Bouncy Brickroll |
-| 1617 | 34 | Peppy Shatterblock |
-| 1618 | 34 | Fancy Strikerbuilder |
+| 1606 | 35 | Butta |
+| 1607 | 35 | Rose Clark |
+| 1608 | 35 | Frilly Glidepiece |
+| 1609 | 35 | Nerdy Twistline |
+| 1610 | 35 | Happymama |
+| 1611 | 35 | Charise McGee |
+| 1612 | 35 | Brandy Jaszewski |
+| 1613 | 35 | Wacky Dashgrid |
+| 1614 | 35 | Evee |
+| 1615 | 34 | Peppy Shatterblock |
+| 1616 | 34 | Zayy Wavyy |
+| 1617 | 34 | Bouncy Brickroll |
+| 1618 | 34 | Frisky Pivoty |
 | 1619 | 34 | beeutifullll |
-| 1620 | 34 | Frisky Pivoty |
-| 1621 | 34 | Symonne 'Monnie' Pierce |
+| 1620 | 34 | Fancy Strikerbuilder |
+| 1621 | 34 | Danielle Scholfield |
 | 1622 | 34 | Lauren |
-| 1623 | 34 | Danielle Scholfield |
+| 1623 | 34 | Symonne 'Monnie' Pierce |
 | 1624 | 34 | Dazee Rogers |
 | 1625 | 34 | Matos Boiz |
 | 1626 | 34 | Jumpy Brickbuilder |
@@ -1802,13 +1802,13 @@
 | 1794 | 21 | Cheeky Wipegrid |
 | 1795 | 21 | Michelle Harrison-Woodall |
 | 1796 | 21 | Lisamarie Fabre Cardona |
-| 1797 | 21 | Nikki Cornelious Valentine |
-| 1798 | 21 | Frisky Linkblock |
-| 1799 | 21 | cupcake |
-| 1800 | 21 | Nissa |
+| 1797 | 21 | Zachary Sinclair |
+| 1798 | 21 | Nikki Cornelious Valentine |
+| 1799 | 21 | Frisky Linkblock |
+| 1800 | 21 | cupcake |
 | 1801 | 21 | Sanna Rose |
-| 1802 | 20 | Joseph Mclaughlin |
-| 1803 | 20 | Otavia Gordon |
+| 1802 | 21 | Nissa |
+| 1803 | 20 | Shannon |
 | 1804 | 20 | AllStar Woods |
 | 1805 | 20 | Crafty Shatterfit |
 | 1806 | 20 | Terry Golatte |
@@ -1817,8 +1817,8 @@
 | 1809 | 20 | Justice 4 P |
 | 1810 | 20 | LongLive Peace |
 | 1811 | 20 | Andrea Watts |
-| 1812 | 20 | Cynthia Potter |
-| 1813 | 20 | Shannon |
+| 1812 | 20 | Joseph Mclaughlin |
+| 1813 | 20 | Cynthia Potter |
 | 1814 | 20 | Sonia Savage-Jones |
 | 1815 | 20 | Stefan Flick Man |
 | 1816 | 20 | Cherise Thomas |
@@ -1829,36 +1829,36 @@
 | 1821 | 20 | Deme |
 | 1822 | 20 | Peachy Pusher |
 | 1823 | 20 | prela |
-| 1824 | 20 | Dora Greer |
-| 1825 | 20 | Tiffany Sherman |
-| 1826 | 20 | Kenneth Hefney |
-| 1827 | 20 | Jimel Fraser |
-| 1828 | 20 | DRIFTER |
-| 1829 | 20 | Melody Means |
-| 1830 | 20 | Nikki Vaughn |
-| 1831 | 20 | Breezy Pivoty |
-| 1832 | 20 | Happy Towerfall |
-| 1833 | 20 | Bryttani GoingPlaces Latimer |
-| 1834 | 20 | Luna Lockwood |
-| 1835 | 20 | Chuck Gee |
-| 1836 | 20 | Nikki Jay |
-| 1837 | 19 | Rosanna Ringold |
-| 1838 | 19 | Susie Miranda |
-| 1839 | 19 | Toya Draine |
-| 1840 | 19 | Narena Desertsong |
-| 1841 | 19 | Shannon Hargrove |
-| 1842 | 19 | Mrs . Candy |
-| 1843 | 19 | sceloh |
-| 1844 | 19 | kate |
-| 1845 | 19 | Zondria Barnes |
-| 1846 | 19 | Joanne Davis Cunningham |
-| 1847 | 19 | Trauma Loc |
-| 1848 | 18 | Dominick Towns |
+| 1824 | 20 | Nikki Vaughn |
+| 1825 | 20 | Dora Greer |
+| 1826 | 20 | Chuck Gee |
+| 1827 | 20 | Luna Lockwood |
+| 1828 | 20 | Bryttani GoingPlaces Latimer |
+| 1829 | 20 | Happy Towerfall |
+| 1830 | 20 | Nikki Jay |
+| 1831 | 20 | Tiffany Sherman |
+| 1832 | 20 | Breezy Pivoty |
+| 1833 | 20 | Melody Means |
+| 1834 | 20 | Jimel Fraser |
+| 1835 | 20 | DRIFTER |
+| 1836 | 20 | Otavia Gordon |
+| 1837 | 20 | Kenneth Hefney |
+| 1838 | 19 | Narena Desertsong |
+| 1839 | 19 | Susie Miranda |
+| 1840 | 19 | kate |
+| 1841 | 19 | Mrs . Candy |
+| 1842 | 19 | Rosanna Ringold |
+| 1843 | 19 | Toya Draine |
+| 1844 | 19 | Shannon Hargrove |
+| 1845 | 19 | sceloh |
+| 1846 | 19 | Zondria Barnes |
+| 1847 | 19 | Joanne Davis Cunningham |
+| 1848 | 19 | Trauma Loc |
 | 1849 | 18 | Cheeky Tiltbuilder |
 | 1850 | 18 | Poppy Pivot |
 | 1851 | 18 | MURLWORLD |
 | 1852 | 18 | Saucy Linkgrid |
-| 1853 | 18 | Zachary Sinclair |
+| 1853 | 18 | Dominick Towns |
 | 1854 | 18 | Yeshanna Nicholson |
 | 1855 | 18 | Aliceia Gee |
 | 1856 | 18 | Naudia Hampton |
@@ -1873,8 +1873,8 @@
 | 1865 | 17 | Frisky Cascadefit |
 | 1866 | 17 | Coy Williams |
 | 1867 | 17 | QueenJerelene Figero |
-| 1868 | 17 | Andre Rivera |
-| 1869 | 17 | Sue Boyce |
+| 1868 | 17 | Sue Boyce |
+| 1869 | 17 | Andre Rivera |
 | 1870 | 17 | Wacky Riserpiece |
 | 1871 | 17 | Giggly Bouncer |
 | 1872 | 17 | Party Pandad 3 |
