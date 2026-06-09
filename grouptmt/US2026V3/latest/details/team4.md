@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 07:04:20 UTC
+# Standings for team4 as of 2026-06-09 07:04:45 UTC
 
 **Total Participants:** 2076
 
@@ -247,8 +247,8 @@
 | 239 | 447 | Brick House |
 | 240 | 446 | Smiley Gridzone |
 | 241 | 443 | Genger |
-| 242 | 443 | Joyce Myers |
-| 243 | 443 | Crissy Hoffman |
+| 242 | 443 | Crissy Hoffman |
+| 243 | 443 | Joyce Myers |
 | 244 | 440 | Tipsy Zonebuilder |
 | 245 | 440 | Shy |
 | 246 | 439 | Perky Riserbuilder |
@@ -797,8 +797,8 @@
 | 789 | 134 | Honey |
 | 790 | 134 | Kena T. Tanner |
 | 791 | 134 | Breezy Rollfit |
-| 792 | 134 | Deb 07 |
-| 793 | 134 | Wacky Brick |
+| 792 | 134 | Wacky Brick |
+| 793 | 134 | Deb 07 |
 | 794 | 133 | Scalpel Causes Shambles |
 | 795 | 133 | Domo Dpn |
 | 796 | 133 | Rebekah Anne Macias |
@@ -1004,8 +1004,8 @@
 | 996 | 101 | Melissa Abigail |
 | 997 | 101 | Misty Harland |
 | 998 | 101 | FUNBAT |
-| 999 | 101 | Tipsy Patternfit |
-| 1000 | 101 | Peterson Cottontail |
+| 999 | 101 | Peterson Cottontail |
+| 1000 | 101 | Tipsy Patternfit |
 | 1001 | 100 | Kristal |
 | 1002 | 100 | CorieBe |
 | 1003 | 100 | Heather Garrity |
@@ -1045,8 +1045,8 @@
 | 1037 | 95 | Jasmine Griffin |
 | 1038 | 95 | Patsy |
 | 1039 | 95 | Loony Dashgrid |
-| 1040 | 95 | Frisky Pusher |
-| 1041 | 95 | Hotstuff |
+| 1040 | 95 | Hotstuff |
+| 1041 | 95 | Frisky Pusher |
 | 1042 | 94 | Elizabeth Ann Caro |
 | 1043 | 94 | Ashley Ferguson |
 | 1044 | 94 | Mari Isaac |
@@ -1426,8 +1426,8 @@
 | 1418 | 50 | Suzie |
 | 1419 | 50 | Paulina Deitrick |
 | 1420 | 50 | Alana Joe |
-| 1421 | 50 | Erica Armstrong Baz |
-| 1422 | 50 | Mexican130 |
+| 1421 | 50 | Mexican130 |
+| 1422 | 50 | Erica Armstrong Baz |
 | 1423 | 49 | smarty |
 | 1424 | 49 | Karen Riexinger |
 | 1425 | 49 | Nerdy Piecebuilder |
@@ -1492,8 +1492,8 @@
 | 1484 | 44 | Chyla Burns |
 | 1485 | 44 | Kimmie Warren |
 | 1486 | 44 | Sharron Mullins |
-| 1487 | 44 | EJ Frazier |
-| 1488 | 44 | SweetChaos |
+| 1487 | 44 | SweetChaos |
+| 1488 | 44 | EJ Frazier |
 | 1489 | 43 | BlockFlakes |
 | 1490 | 43 | Lin Ferguson |
 | 1491 | 43 | Janae Gregory |
@@ -1605,8 +1605,8 @@
 | 1597 | 35 | Clever Clearzone |
 | 1598 | 35 | Shimara Hall |
 | 1599 | 35 | Magda Lene |
-| 1600 | 35 | Saul Fajardo |
-| 1601 | 35 | Stephanie Williams |
+| 1600 | 35 | Stephanie Williams |
+| 1601 | 35 | Saul Fajardo |
 | 1602 | 34 | Peezy_419 |
 | 1603 | 34 | DTM0013 |
 | 1604 | 34 | Poppy Matcher |
