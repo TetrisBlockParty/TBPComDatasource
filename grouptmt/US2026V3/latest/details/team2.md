@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 11:06:44 UTC
+# Standings for team2 as of 2026-06-09 11:07:20 UTC
 
 **Total Participants:** 2474
 
@@ -290,8 +290,8 @@
 | 282 | 510 | Samantha Carman |
 | 283 | 508 | Dawnypooh |
 | 284 | 508 | Tara |
-| 285 | 507 | Greta Warden |
-| 286 | 507 | SilentBuffalo |
+| 285 | 507 | SilentBuffalo |
+| 286 | 507 | Greta Warden |
 | 287 | 505 | Melissa Nash |
 | 288 | 501 | Lindsey Ford |
 | 289 | 501 | Kathy McCormick |
@@ -326,39 +326,39 @@
 | 318 | 448 | Eric Drane |
 | 319 | 447 | Xandrea Jones |
 | 320 | 445 | Norma Ortiz |
-| 321 | 438 | Lora Via |
+| 321 | 440 | THUMP |
 | 322 | 438 | Cathy Lee Stoneking |
-| 323 | 436 | BrendaLee NolanBos |
-| 324 | 435 | Thy Bui |
-| 325 | 434 | Mikia Stokes |
-| 326 | 430 | Jenn |
-| 327 | 430 | Jumpy Matchbuilder |
-| 328 | 428 | Physhie |
-| 329 | 426 | Branden Frankowski |
-| 330 | 425 | Goofy Gridclear |
-| 331 | 420 | Linda Guay |
-| 332 | 418 | Heather Burgett |
-| 333 | 418 | Kathleen Keogh Van Schoyck |
-| 334 | 416 | Mouh Med |
-| 335 | 415 | Talyn Domingues |
-| 336 | 413 | Larry Cross |
-| 337 | 413 | Denise Morehart |
-| 338 | 413 | Travis Bundrum |
-| 339 | 413 | Earline Dupuy Bordelon |
-| 340 | 412 | Boldy Fitclear |
-| 341 | 408 | Cheery Tilefall |
-| 342 | 407 | Monee Stronger |
-| 343 | 406 | Ray Daisy |
-| 344 | 405 | Brittni Lawrence |
-| 345 | 404 | Charity Hauser |
-| 346 | 402 | Harper |
-| 347 | 401 | THUMP |
-| 348 | 400 | Sarah Rodriguez |
-| 349 | 400 | Adriana Daniela Agapie |
-| 350 | 400 | Jamin |
-| 351 | 400 | Patricia Carroll |
-| 352 | 400 | Melissa Clogher White |
-| 353 | 400 | Shannon Wilson |
+| 323 | 438 | Lora Via |
+| 324 | 436 | BrendaLee NolanBos |
+| 325 | 435 | Thy Bui |
+| 326 | 434 | Mikia Stokes |
+| 327 | 430 | Jenn |
+| 328 | 430 | Jumpy Matchbuilder |
+| 329 | 428 | Physhie |
+| 330 | 426 | Branden Frankowski |
+| 331 | 425 | Goofy Gridclear |
+| 332 | 420 | Linda Guay |
+| 333 | 418 | Heather Burgett |
+| 334 | 418 | Kathleen Keogh Van Schoyck |
+| 335 | 416 | Mouh Med |
+| 336 | 415 | Talyn Domingues |
+| 337 | 413 | Larry Cross |
+| 338 | 413 | Denise Morehart |
+| 339 | 413 | Travis Bundrum |
+| 340 | 413 | Earline Dupuy Bordelon |
+| 341 | 412 | Boldy Fitclear |
+| 342 | 408 | Cheery Tilefall |
+| 343 | 407 | Monee Stronger |
+| 344 | 406 | Ray Daisy |
+| 345 | 405 | Brittni Lawrence |
+| 346 | 404 | Charity Hauser |
+| 347 | 402 | Harper |
+| 348 | 400 | Melissa Clogher White |
+| 349 | 400 | Shannon Wilson |
+| 350 | 400 | Patricia Carroll |
+| 351 | 400 | Jamin |
+| 352 | 400 | Adriana Daniela Agapie |
+| 353 | 400 | Sarah Rodriguez |
 | 354 | 399 | Jeffrey Smith |
 | 355 | 398 | Kay |
 | 356 | 397 | Carlos J Blas |
@@ -441,12 +441,12 @@
 | 433 | 328 | Buffy Diane Blake |
 | 434 | 327 | Jennifer McCloskey Launder |
 | 435 | 326 | Amber Smith |
-| 436 | 325 | Snappy Combo |
-| 437 | 324 | Kathryn |
-| 438 | 323 | Kim Hunt |
-| 439 | 323 | Jerry L Morales |
-| 440 | 322 | RaeRae |
-| 441 | 322 | Brittany Mathis |
+| 436 | 325 | Brittany Mathis |
+| 437 | 325 | Snappy Combo |
+| 438 | 324 | Kathryn |
+| 439 | 323 | Kim Hunt |
+| 440 | 323 | Jerry L Morales |
+| 441 | 322 | RaeRae |
 | 442 | 321 | Wendy Spoor Hof |
 | 443 | 320 | Flashy Basegrid |
 | 444 | 320 | Partin |
@@ -550,21 +550,21 @@
 | 542 | 260 | Michele Stewart |
 | 543 | 259 | Angie Kowalsky Olson |
 | 544 | 259 | Gabrielle Rivera |
-| 545 | 258 | Lively Curve |
-| 546 | 258 | Julie Alexander Sykes |
-| 547 | 258 | Wacky Curve |
-| 548 | 258 | Diamond Mitchell |
-| 549 | 258 | Amanda Rude |
-| 550 | 257 | Lee Leonard |
-| 551 | 257 | Rydin Dirt |
-| 552 | 257 | Kenzie |
-| 553 | 257 | Simone F |
-| 554 | 256 | Jackie Walker |
-| 555 | 256 | Joshua Dye |
-| 556 | 254 | Cozy Cascade |
-| 557 | 254 | Ava Speedy |
-| 558 | 254 | Frisky Linkbuilder |
-| 559 | 253 | Teddy Williams |
+| 545 | 259 | Teddy Williams |
+| 546 | 258 | Lively Curve |
+| 547 | 258 | Julie Alexander Sykes |
+| 548 | 258 | Wacky Curve |
+| 549 | 258 | Diamond Mitchell |
+| 550 | 258 | Amanda Rude |
+| 551 | 257 | Lee Leonard |
+| 552 | 257 | Rydin Dirt |
+| 553 | 257 | Kenzie |
+| 554 | 257 | Simone F |
+| 555 | 256 | Jackie Walker |
+| 556 | 256 | Joshua Dye |
+| 557 | 254 | Cozy Cascade |
+| 558 | 254 | Ava Speedy |
+| 559 | 254 | Frisky Linkbuilder |
 | 560 | 253 | Teloney Humphrey |
 | 561 | 251 | Cherica Taylor |
 | 562 | 251 | Marilyn Mendoza |
@@ -1007,29 +1007,29 @@
 | 999 | 131 | Eva Lopez |
 | 1000 | 131 | Lyndzey Sciscoe |
 | 1001 | 130 | Desia Walker |
-| 1002 | 130 | Michele Gonzales |
-| 1003 | 130 | gene15 |
-| 1004 | 130 | Stazy Warner |
-| 1005 | 130 | Tiffany Ann |
-| 1006 | 130 | Val |
-| 1007 | 130 | Jolly Brickroll |
-| 1008 | 130 | Binska |
-| 1009 | 130 | Sherry Ann |
-| 1010 | 129 | Cuca Perez |
-| 1011 | 129 | Armando Sabedra |
-| 1012 | 129 | Clever Linkbuilder |
-| 1013 | 129 | Lively Twisterfit |
-| 1014 | 129 | Susan Bosell |
-| 1015 | 129 | Kimberley Marie |
-| 1016 | 129 | Brittany Paul |
-| 1017 | 129 | Michelle Feliciano |
-| 1018 | 129 | Rachel Wooldridge |
-| 1019 | 129 | Danielle Etchison Mask |
-| 1020 | 129 | Dapper Spinbuilder |
+| 1002 | 130 | Silly Clicker |
+| 1003 | 130 | Michele Gonzales |
+| 1004 | 130 | gene15 |
+| 1005 | 130 | Val |
+| 1006 | 130 | Tiffany Ann |
+| 1007 | 130 | Stazy Warner |
+| 1008 | 130 | Jolly Brickroll |
+| 1009 | 130 | Binska |
+| 1010 | 130 | Sherry Ann |
+| 1011 | 129 | Cuca Perez |
+| 1012 | 129 | Armando Sabedra |
+| 1013 | 129 | Clever Linkbuilder |
+| 1014 | 129 | Lively Twisterfit |
+| 1015 | 129 | Susan Bosell |
+| 1016 | 129 | Michelle Feliciano |
+| 1017 | 129 | Danielle Etchison Mask |
+| 1018 | 129 | Kimberley Marie |
+| 1019 | 129 | Brittany Paul |
+| 1020 | 129 | Rachel Wooldridge |
 | 1021 | 129 | jme |
-| 1022 | 128 | Lisa Chapman |
-| 1023 | 128 | Suzanne Davis |
-| 1024 | 127 | Silly Clicker |
+| 1022 | 129 | Dapper Spinbuilder |
+| 1023 | 128 | Lisa Chapman |
+| 1024 | 128 | Suzanne Davis |
 | 1025 | 127 | Jason Janssen |
 | 1026 | 127 | Chirpy Clearpiece |
 | 1027 | 127 | CK Hancock |
@@ -1041,13 +1041,13 @@
 | 1033 | 125 | Nicole Treadway |
 | 1034 | 125 | Sandra Pursell |
 | 1035 | 124 | Purpleroyalty11 |
-| 1036 | 124 | Madbull |
+| 1036 | 124 | Blocker |
 | 1037 | 124 | Spicy Enchilada |
-| 1038 | 124 | Blocker |
-| 1039 | 124 | Amy |
-| 1040 | 124 | Rochelle O'Loughlin |
-| 1041 | 123 | Bubbly Liner |
-| 1042 | 123 | Reggie Ellerbe |
+| 1038 | 124 | Amy |
+| 1039 | 124 | Rochelle O'Loughlin |
+| 1040 | 124 | Madbull |
+| 1041 | 123 | Reggie Ellerbe |
+| 1042 | 123 | Bubbly Liner |
 | 1043 | 123 | Frothy Faller |
 | 1044 | 123 | Nick Waterwalker |
 | 1045 | 123 | Denita Kaherl |
