@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 09:48:46 UTC
+# Standings for team2 as of 2026-06-09 09:49:22 UTC
 
 **Total Participants:** 2458
 
@@ -451,15 +451,15 @@
 | 443 | 317 | Danielle Lyons |
 | 444 | 316 | Saucy Wrecker |
 | 445 | 315 | KazzyKay |
-| 446 | 314 | Hector |
-| 447 | 314 | Victoria Pale |
-| 448 | 314 | Aurora June Brock |
-| 449 | 313 | Dad |
-| 450 | 312 | Patria Osuoha |
-| 451 | 312 | Sam |
-| 452 | 311 | Brittany Mathis |
-| 453 | 310 | Hannah Meadows Hammond |
-| 454 | 310 | Eric Wayne Maschman |
+| 446 | 314 | Eric Wayne Maschman |
+| 447 | 314 | Hector |
+| 448 | 314 | Victoria Pale |
+| 449 | 314 | Aurora June Brock |
+| 450 | 313 | Dad |
+| 451 | 312 | Patria Osuoha |
+| 452 | 312 | Sam |
+| 453 | 311 | Brittany Mathis |
+| 454 | 310 | Hannah Meadows Hammond |
 | 455 | 310 | Zappy Liney |
 | 456 | 310 | Melmel |
 | 457 | 309 | Elliott Mikila |
@@ -796,13 +796,13 @@
 | 788 | 175 | Allison Peterson |
 | 789 | 175 | Lydia Shonee |
 | 790 | 175 | Courtney Madison Hart |
-| 791 | 175 | Nicole Sides KrazyKoop |
-| 792 | 175 | Distro |
-| 793 | 174 | Jasmine Goggans |
-| 794 | 174 | Nichole Fuller |
-| 795 | 174 | Giggly Spinblock |
-| 796 | 174 | Nova |
-| 797 | 173 | Cherica Taylor |
+| 791 | 175 | Cherica Taylor |
+| 792 | 175 | Nicole Sides KrazyKoop |
+| 793 | 175 | Distro |
+| 794 | 174 | Jasmine Goggans |
+| 795 | 174 | Nichole Fuller |
+| 796 | 174 | Giggly Spinblock |
+| 797 | 174 | Nova |
 | 798 | 173 | Groovy Glider |
 | 799 | 173 | Chirpy Combofall |
 | 800 | 173 | Jessica Garoutte |
