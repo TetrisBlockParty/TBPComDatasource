@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:12:43 UTC
+# Standings for team1 as of 2026-06-09 11:13:22 UTC
 
 **Total Participants:** 2037
 
@@ -52,7 +52,7 @@
 | 44 | 2102 | Mimi 1.0 |
 | 45 | 2081 | Hyper Slamdrop |
 | 46 | 2076 | April Inboden |
-| 47 | 2030 | Brian Bohanon II |
+| 47 | 2040 | Brian Bohanon II |
 | 48 | 2023 | Cherry Rose |
 | 49 | 1993 | JoJo |
 | 50 | 1931 | Ceilo Marie |
@@ -89,12 +89,12 @@
 | 81 | 1313 | Ashley Espeut |
 | 82 | 1295 | Whitney Butler |
 | 83 | 1288 | Dawn L Washington-Feuquay |
-| 84 | 1274 | Voice |
-| 85 | 1258 | Frisky Fallmatch |
-| 86 | 1247 | La'Chae Nickole |
-| 87 | 1243 | PandaPrincess |
-| 88 | 1233 | Jason Mungin |
-| 89 | 1225 | Sarah Marie |
+| 84 | 1278 | Sarah Marie |
+| 85 | 1274 | Voice |
+| 86 | 1258 | Frisky Fallmatch |
+| 87 | 1247 | La'Chae Nickole |
+| 88 | 1243 | PandaPrincess |
+| 89 | 1233 | Jason Mungin |
 | 90 | 1217 | Catara Renae Oliver |
 | 91 | 1208 | Aviv Zehavi |
 | 92 | 1206 | BYM4L |
@@ -477,28 +477,28 @@
 | 469 | 245 | Brittnay Wright |
 | 470 | 244 | Perky Pusher |
 | 471 | 244 | Slinky Snapbuilder |
-| 472 | 244 | Saranoh13 |
-| 473 | 244 | Brittanie Wardlow |
-| 474 | 242 | Ryan Runyan |
-| 475 | 242 | Tamika Rocheteau |
-| 476 | 240 | Velma Jones |
-| 477 | 240 | SherylU |
-| 478 | 240 | Malcolm Stanley |
-| 479 | 239 | Guy Incognito |
+| 472 | 244 | Brittanie Wardlow |
+| 473 | 244 | Saranoh13 |
+| 474 | 243 | Valerie Alexander |
+| 475 | 242 | Ryan Runyan |
+| 476 | 242 | Tamika Rocheteau |
+| 477 | 240 | Malcolm Stanley |
+| 478 | 240 | Velma Jones |
+| 479 | 240 | SherylU |
 | 480 | 239 | Manda Allen |
-| 481 | 238 | SnazzyIvy |
-| 482 | 238 | Fina McKinnis |
-| 483 | 237 | Kimberly Anderson |
+| 481 | 239 | Guy Incognito |
+| 482 | 238 | SnazzyIvy |
+| 483 | 238 | Fina McKinnis |
 | 484 | 237 | Tanisha Taylor |
-| 485 | 236 | Vera Beckford |
-| 486 | 235 | Daring Blockclear |
-| 487 | 235 | nameno |
-| 488 | 235 | Tracy Feyler |
-| 489 | 234 | wmedina67 |
-| 490 | 234 | Chris Nelson |
-| 491 | 234 | Lisa Fletcher |
-| 492 | 234 | Shea Ladynick Henderson |
-| 493 | 233 | Valerie Alexander |
+| 485 | 237 | Kimberly Anderson |
+| 486 | 236 | Vera Beckford |
+| 487 | 235 | Daring Blockclear |
+| 488 | 235 | nameno |
+| 489 | 235 | Tracy Feyler |
+| 490 | 234 | wmedina67 |
+| 491 | 234 | Chris Nelson |
+| 492 | 234 | Lisa Fletcher |
+| 493 | 234 | Shea Ladynick Henderson |
 | 494 | 233 | Daris Swearington |
 | 495 | 233 | Kala Miller |
 | 496 | 232 | Monica Fields |
@@ -506,52 +506,52 @@
 | 498 | 230 | Jessica Kirby |
 | 499 | 230 | Tracey Johnson |
 | 500 | 229 | Jenni Hardman |
-| 501 | 228 | Bold Clusterer |
+| 501 | 228 | Matthieu Pistone |
 | 502 | 228 | Crystal Cheresnowsky |
-| 503 | 228 | Matthieu Pistone |
+| 503 | 228 | Bold Clusterer |
 | 504 | 227 | Chris Holland |
 | 505 | 226 | Peppy Glider |
-| 506 | 226 | Kahliah Baker |
-| 507 | 226 | Dreamzzz |
-| 508 | 226 | MonaSparks |
-| 509 | 226 | Monica Tovar |
+| 506 | 226 | Monica Tovar |
+| 507 | 226 | Kahliah Baker |
+| 508 | 226 | Dreamzzz |
+| 509 | 226 | MonaSparks |
 | 510 | 225 | Casey Chapman |
 | 511 | 224 | Juan Santiago |
-| 512 | 223 | Heather Wilson |
-| 513 | 223 | Kamilya Rembert |
+| 512 | 223 | Kamilya Rembert |
+| 513 | 223 | Heather Wilson |
 | 514 | 223 | BB |
 | 515 | 223 | Holly Baker |
-| 516 | 222 | Clint Mcdowell |
+| 516 | 222 | AnnaM |
 | 517 | 222 | Yadira Salgado |
-| 518 | 222 | AnnaM |
+| 518 | 222 | Clint Mcdowell |
 | 519 | 222 | Hardtohandle91 |
-| 520 | 221 | De'Nell Edwards |
-| 521 | 221 | Rayshawn Cohen |
-| 522 | 220 | Tonia Ramos |
-| 523 | 220 | Rufus |
-| 524 | 220 | Taz Ballard |
+| 520 | 221 | Rayshawn Cohen |
+| 521 | 221 | De'Nell Edwards |
+| 522 | 220 | Taz Ballard |
+| 523 | 220 | Tonia Ramos |
+| 524 | 220 | Rufus |
 | 525 | 219 | Ciera Peace |
 | 526 | 218 | Teresa Yanira Cepeda |
 | 527 | 218 | Mommy Frank |
-| 528 | 217 | Saucy Faller |
-| 529 | 217 | Travis Davison |
-| 530 | 217 | Marlainia Boyd |
+| 528 | 217 | Marlainia Boyd |
+| 529 | 217 | BonnieB |
+| 530 | 217 | Saucy Faller |
 | 531 | 217 | Louise Parker |
-| 532 | 217 | BonnieB |
+| 532 | 217 | Travis Davison |
 | 533 | 216 | Londa Londa |
 | 534 | 216 | Aaron Hartmann |
-| 535 | 215 | Yashica Smith |
-| 536 | 215 | Juan Lewis |
+| 535 | 215 | Perky Balancer |
+| 536 | 215 | Yashica Smith |
 | 537 | 215 | Tosha Michelle |
 | 538 | 215 | James Bryant II |
-| 539 | 215 | Perky Balancer |
+| 539 | 215 | Juan Lewis |
 | 540 | 214 | Stephen Providenti |
-| 541 | 214 | PSD |
-| 542 | 214 | Nickeya Phillips |
+| 541 | 214 | Nickeya Phillips |
+| 542 | 214 | PSD |
 | 543 | 214 | TieMs BHughez |
-| 544 | 213 | Lazy Tiltpiece |
-| 545 | 213 | Nyhlah Patterson |
-| 546 | 213 | crumb bumc |
+| 544 | 213 | Nyhlah Patterson |
+| 545 | 213 | crumb bumc |
+| 546 | 213 | Lazy Tiltpiece |
 | 547 | 212 | Daring Riserfit |
 | 548 | 212 | Simply-Beautiful007 |
 | 549 | 211 | Lynnette WheelerBushnell |
@@ -561,34 +561,34 @@
 | 553 | 209 | Phillip Vasquez |
 | 554 | 208 | Juicy |
 | 555 | 208 | Bella |
-| 556 | 208 | Kelley Johnson |
-| 557 | 208 | Soubletzy |
+| 556 | 208 | Soubletzy |
+| 557 | 208 | Kelley Johnson |
 | 558 | 207 | Mary Phillippi Blanton |
-| 559 | 207 | Courtney Cicoria |
+| 559 | 207 | Kristie |
 | 560 | 207 | Dede Tate |
-| 561 | 207 | Candy Lee |
-| 562 | 207 | Kristie |
-| 563 | 206 | Shelly Everette |
-| 564 | 206 | Jack Vlasak |
-| 565 | 206 | Shalya Terry |
-| 566 | 206 | Zappy Clearfit |
+| 561 | 207 | Courtney Cicoria |
+| 562 | 207 | Candy Lee |
+| 563 | 206 | Shalya Terry |
+| 564 | 206 | Shelly Everette |
+| 565 | 206 | Zappy Clearfit |
+| 566 | 206 | Jack Vlasak |
 | 567 | 205 | Polite Granny |
-| 568 | 205 | Sarah Swietlicki - Lopez |
-| 569 | 205 | Treneil Daffin |
-| 570 | 205 | Sarah Barnum |
-| 571 | 205 | Tramaine Crockrum |
-| 572 | 205 | Logan Frost |
-| 573 | 205 | Semaj Johnson |
-| 574 | 204 | Marlynnnnn |
-| 575 | 204 | Dorian Griffin |
-| 576 | 204 | Cynda Cyn |
-| 577 | 204 | Rosalind Chatman |
-| 578 | 204 | ChunLi |
+| 568 | 205 | Sarah Barnum |
+| 569 | 205 | Sarah Swietlicki - Lopez |
+| 570 | 205 | Treneil Daffin |
+| 571 | 205 | Logan Frost |
+| 572 | 205 | Semaj Johnson |
+| 573 | 205 | Tramaine Crockrum |
+| 574 | 204 | Cynda Cyn |
+| 575 | 204 | Marlynnnnn |
+| 576 | 204 | Rosalind Chatman |
+| 577 | 204 | ChunLi |
+| 578 | 204 | Dorian Griffin |
 | 579 | 203 | Poyre Shelton |
 | 580 | 202 | Messy Live |
-| 581 | 202 | Frankey Chi |
-| 582 | 202 | Hyper Blocky |
-| 583 | 202 | Jana Cheek |
+| 581 | 202 | Hyper Blocky |
+| 582 | 202 | Jana Cheek |
+| 583 | 202 | Frankey Chi |
 | 584 | 202 | Alexandrla Smith |
 | 585 | 201 | Angela Brown Babin |
 | 586 | 201 | Ladybug |
