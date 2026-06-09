@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:48:46 UTC
+# Standings for team1 as of 2026-06-09 12:49:22 UTC
 
 **Total Participants:** 2043
 
@@ -240,11 +240,11 @@
 | 232 | 501 | Joey Albright |
 | 233 | 498 | Julian Dickens Jr. |
 | 234 | 496 | Andre Sanon |
-| 235 | 493 | Deveda Williams |
-| 236 | 491 | Mic Balew |
-| 237 | 490 | Lashawn Wallace |
-| 238 | 487 | Tamara Johnson-Carter |
-| 239 | 485 | Rachael Bakowicz Edwards |
+| 235 | 495 | Rachael Bakowicz Edwards |
+| 236 | 493 | Deveda Williams |
+| 237 | 491 | Mic Balew |
+| 238 | 490 | Lashawn Wallace |
+| 239 | 487 | Tamara Johnson-Carter |
 | 240 | 484 | Rhonda Williams Warner |
 | 241 | 477 | Qwlonda Shirrell |
 | 242 | 476 | Roberta Lynn |
@@ -260,10 +260,10 @@
 | 252 | 462 | Jenna Renee |
 | 253 | 462 | Jhonny Maii |
 | 254 | 462 | Jessica Russell |
-| 255 | 460 | Tanya Clayton |
-| 256 | 457 | Choc |
-| 257 | 456 | Cachet A Ward |
-| 258 | 456 | boogeywoogey |
+| 255 | 461 | boogeywoogey |
+| 256 | 460 | Tanya Clayton |
+| 257 | 457 | Choc |
+| 258 | 456 | Cachet A Ward |
 | 259 | 453 | JaClanDiah |
 | 260 | 453 | Elizabeth Vega Coreano |
 | 261 | 452 | Kate Hancock Malicek |
@@ -904,48 +904,48 @@
 | 896 | 120 | Dianne Clagon |
 | 897 | 119 | Danny Talbot |
 | 898 | 119 | Sylvia Offically A Mcgowan |
-| 899 | 119 | Octavia Whitmire |
-| 900 | 119 | Hyy |
-| 901 | 119 | Analesia Taylor |
-| 902 | 119 | Albert McKnight |
-| 903 | 118 | Raymond Boosie Freeman |
-| 904 | 118 | Jjhandsome |
-| 905 | 118 | Hasty Pivoty |
-| 906 | 118 | Maria Baez Medina |
-| 907 | 118 | Felicia Yahuah Johnson |
+| 899 | 119 | Albert McKnight |
+| 900 | 119 | Octavia Whitmire |
+| 901 | 119 | Hyy |
+| 902 | 119 | Analesia Taylor |
+| 903 | 118 | Jjhandsome |
+| 904 | 118 | Shanna Green Williams |
+| 905 | 118 | Raymond Boosie Freeman |
+| 906 | 118 | Hasty Pivoty |
+| 907 | 118 | Dirty Deeds |
 | 908 | 118 | Gabriela Hernandez |
-| 909 | 118 | Dirty Deeds |
-| 910 | 118 | Shanna Green Williams |
-| 911 | 117 | Spicy Tiler |
-| 912 | 117 | Jordan Deon Elery |
-| 913 | 117 | Bruce Paléncia |
-| 914 | 117 | DirtiestofMikes |
-| 915 | 117 | Shanjerrica Taylor Rosell |
-| 916 | 117 | Kayel Good |
-| 917 | 117 | Andrea Jackson |
-| 918 | 117 | Cheery Clusterbuilder |
+| 909 | 118 | Felicia Yahuah Johnson |
+| 910 | 118 | Maria Baez Medina |
+| 911 | 117 | Andrea Jackson |
+| 912 | 117 | Shanjerrica Taylor Rosell |
+| 913 | 117 | DirtiestofMikes |
+| 914 | 117 | Bruce Paléncia |
+| 915 | 117 | Spicy Tiler |
+| 916 | 117 | Jordan Deon Elery |
+| 917 | 117 | Cheery Clusterbuilder |
+| 918 | 117 | Kayel Good |
 | 919 | 116 | Alonzo Kirkland |
 | 920 | 116 | Tray Tolliver |
 | 921 | 115 | Tamyka E Williams |
-| 922 | 115 | Kimberly Noble |
+| 922 | 115 | Vontesha Kidd |
 | 923 | 115 | WOOLFF |
-| 924 | 115 | Mario Meliodas |
-| 925 | 115 | Crtjstr |
-| 926 | 115 | Jennifer Moore |
-| 927 | 115 | Shiny Lift |
-| 928 | 115 | Kathleen Boyles |
-| 929 | 115 | Vontesha Kidd |
-| 930 | 114 | Happy Blocky |
+| 924 | 115 | Kimberly Noble |
+| 925 | 115 | Mario Meliodas |
+| 926 | 115 | Crtjstr |
+| 927 | 115 | Kidgib5 |
+| 928 | 115 | Jennifer Moore |
+| 929 | 115 | Shiny Lift |
+| 930 | 115 | Kathleen Boyles |
 | 931 | 114 | LAhoneybun82 |
 | 932 | 114 | Yellowbone |
-| 933 | 114 | Solomon Valarie |
-| 934 | 114 | jasi |
-| 935 | 114 | Tyree Tman Shinette |
-| 936 | 114 | Seirra Robinson |
-| 937 | 113 | Shaun Anderson |
-| 938 | 113 | Sherry D Singleton |
-| 939 | 113 | Eugenia Vanclusen |
-| 940 | 113 | Kidgib5 |
+| 933 | 114 | Happy Blocky |
+| 934 | 114 | Solomon Valarie |
+| 935 | 114 | jasi |
+| 936 | 114 | Tyree Tman Shinette |
+| 937 | 114 | Seirra Robinson |
+| 938 | 113 | Shaun Anderson |
+| 939 | 113 | Sherry D Singleton |
+| 940 | 113 | Eugenia Vanclusen |
 | 941 | 112 | Nikiya |
 | 942 | 112 | Jose Rodriguez |
 | 943 | 112 | GamerQueenDS |
