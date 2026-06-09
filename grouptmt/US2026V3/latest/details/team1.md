@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:38:22 UTC
+# Standings for team1 as of 2026-06-09 20:38:47 UTC
 
 **Total Participants:** 2110
 
@@ -136,7 +136,7 @@
 | 128 | 966 | Sharon Cail |
 | 129 | 966 | Murg4dr01d |
 | 130 | 946 | Lesley Brunkus Cianfaglione |
-| 131 | 925 | Slim Shedidthat |
+| 131 | 940 | Slim Shedidthat |
 | 132 | 915 | Crystal Boyd |
 | 133 | 908 | Danielle Barthelme |
 | 134 | 907 | Kellie Hall |
@@ -454,8 +454,8 @@
 | 446 | 295 | Derrius SeriousLee Burks |
 | 447 | 295 | Rachael R Gull |
 | 448 | 295 | Maribel Vasquez |
-| 449 | 294 | Brittanie Wardlow |
-| 450 | 293 | Stacy Nicole |
+| 449 | 294 | Stacy Nicole |
+| 450 | 294 | Brittanie Wardlow |
 | 451 | 291 | LuckyStar |
 | 452 | 291 | Brian Taylor |
 | 453 | 290 | Abby |
@@ -482,14 +482,14 @@
 | 474 | 280 | Boldy Liner |
 | 475 | 280 | Teri Marie Clayton |
 | 476 | 279 | Chandler Magee |
-| 477 | 278 | Latore Maxie |
-| 478 | 275 | Nona Harriel |
-| 479 | 275 | Falisa Bell |
-| 480 | 275 | Tonia Ramos |
-| 481 | 275 | Chris Sladoje |
-| 482 | 274 | Christi Walker Patton |
+| 477 | 279 | Slinky Clearzone |
+| 478 | 278 | Latore Maxie |
+| 479 | 275 | Nona Harriel |
+| 480 | 275 | Falisa Bell |
+| 481 | 275 | Tonia Ramos |
+| 482 | 275 | Chris Sladoje |
 | 483 | 274 | FunTime |
-| 484 | 274 | Slinky Clearzone |
+| 484 | 274 | Christi Walker Patton |
 | 485 | 274 | 신재호 |
 | 486 | 273 | Vera Beckford |
 | 487 | 273 | Slinky Snapbuilder |
@@ -934,33 +934,33 @@
 | 926 | 127 | Pretty Yella |
 | 927 | 126 | Latoya Carson |
 | 928 | 126 | Sally Elizabeth Hopson |
-| 929 | 126 | Kahh |
-| 930 | 126 | Marc Papa |
-| 931 | 126 | Elaine Pauley |
-| 932 | 126 | Benjamin Livingston |
-| 933 | 125 | Cheery Strikerbuilder |
-| 934 | 125 | Silly Edgepiece |
+| 929 | 126 | Marc Papa |
+| 930 | 126 | Elaine Pauley |
+| 931 | 126 | Benjamin Livingston |
+| 932 | 126 | Kahh |
+| 933 | 125 | Latanya Gayle |
+| 934 | 125 | Cheery Strikerbuilder |
 | 935 | 125 | Oaklonboy mike |
-| 936 | 124 | Tyrone Porter |
-| 937 | 124 | Kathleen Boyles |
-| 938 | 124 | Franklin Sotelo |
-| 939 | 124 | Willson06 |
-| 940 | 123 | Mamiyoung47 |
-| 941 | 123 | Tia Hazelton |
-| 942 | 123 | Dannie |
-| 943 | 123 | Tanesha Ga'sFinest Corbett |
-| 944 | 123 | Jackytrain52 |
+| 936 | 125 | Silly Edgepiece |
+| 937 | 124 | Tyrone Porter |
+| 938 | 124 | Kathleen Boyles |
+| 939 | 124 | Franklin Sotelo |
+| 940 | 124 | Willson06 |
+| 941 | 123 | Tanesha Ga'sFinest Corbett |
+| 942 | 123 | Tia Hazelton |
+| 943 | 123 | Mamiyoung47 |
+| 944 | 123 | Dannie |
 | 945 | 123 | April Lane |
-| 946 | 122 | Teisha Scott |
+| 946 | 123 | Jackytrain52 |
 | 947 | 122 | CauliMac |
 | 948 | 122 | Nick Stowers |
-| 949 | 121 | Tiana Monique |
-| 950 | 120 | Yellowguy3 |
-| 951 | 120 | Mark Steven Pichler |
-| 952 | 120 | Dianne Clagon |
-| 953 | 120 | Lauren Farkas |
-| 954 | 120 | Latanya Gayle |
-| 955 | 120 | Ebie |
+| 949 | 122 | Teisha Scott |
+| 950 | 121 | Tiana Monique |
+| 951 | 120 | Ebie |
+| 952 | 120 | Yellowguy3 |
+| 953 | 120 | Mark Steven Pichler |
+| 954 | 120 | Dianne Clagon |
+| 955 | 120 | Lauren Farkas |
 | 956 | 120 | Crafty Witch |
 | 957 | 120 | Mikemike Zonethree |
 | 958 | 120 | Charles Johnson |
