@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 01:26:21 UTC
+# Standings for team4 as of 2026-06-09 01:26:47 UTC
 
 **Total Participants:** 1985
 
@@ -243,8 +243,8 @@
 | 235 | 410 | Alma López Morales |
 | 236 | 408 | matt |
 | 237 | 401 | Lush Fitblock |
-| 238 | 400 | Genag |
-| 239 | 400 | Amber Doyle |
+| 238 | 400 | Amber Doyle |
+| 239 | 400 | Genag |
 | 240 | 399 | Janet Sanfilippo Sullivan |
 | 241 | 398 | Danny Keich III |
 | 242 | 397 | Kelly Howland |
@@ -271,8 +271,8 @@
 | 263 | 365 | Debby Ruof |
 | 264 | 363 | Aramat |
 | 265 | 362 | Dazzle Dragon |
-| 266 | 360 | beTrue76 |
-| 267 | 360 | Holly Wessel |
+| 266 | 360 | Holly Wessel |
+| 267 | 360 | beTrue76 |
 | 268 | 359 | Chiquita Blue |
 | 269 | 359 | Leslie Ann Carter |
 | 270 | 359 | BCO22 |
@@ -302,8 +302,8 @@
 | 294 | 336 | Renee Sapp |
 | 295 | 335 | EvoKitty |
 | 296 | 335 | Genger |
-| 297 | 335 | Spunky Gridzone |
-| 298 | 335 | Morgan Stevens |
+| 297 | 335 | Morgan Stevens |
+| 298 | 335 | Spunky Gridzone |
 | 299 | 333 | Tiffany Bunker-Hill |
 | 300 | 331 | Queen B |
 | 301 | 331 | George Palacios |
@@ -330,10 +330,10 @@
 | 322 | 302 | Bre Dee |
 | 323 | 300 | Saucy Wipepiece |
 | 324 | 297 | Brooke Arroyo |
-| 325 | 296 | Dan Butcher |
-| 326 | 296 | Cherrypir05 |
-| 327 | 296 | PerfectPieces |
-| 328 | 296 | beauxie |
+| 325 | 296 | PerfectPieces |
+| 326 | 296 | beauxie |
+| 327 | 296 | Cherrypir05 |
+| 328 | 296 | Dan Butcher |
 | 329 | 295 | Matthew Wilcox |
 | 330 | 295 | Troy Zanelli |
 | 331 | 295 | Marina |
@@ -343,8 +343,8 @@
 | 335 | 293 | Flashy Shatterer |
 | 336 | 292 | Karen Rodriguez |
 | 337 | 292 | Rachel Lemos |
-| 338 | 291 | Ashley Jenkins |
-| 339 | 291 | Funky Tiler |
+| 338 | 291 | Funky Tiler |
+| 339 | 291 | Ashley Jenkins |
 | 340 | 290 | Brian Woods |
 | 341 | 289 | Shepreneur Sade |
 | 342 | 286 | Erika Seaton |
@@ -392,26 +392,26 @@
 | 384 | 255 | Quiomarie Cotto |
 | 385 | 254 | Bouncy |
 | 386 | 254 | farfromlocal |
-| 387 | 254 | Mimi Dominguez |
-| 388 | 254 | Andrick |
-| 389 | 253 | LeRoy jenkins |
-| 390 | 253 | Izz |
-| 391 | 252 | Ryan Paul Clark-Ramsey |
-| 392 | 252 | Toon Up |
-| 393 | 252 | Dawn Phelps |
-| 394 | 252 | Clashy |
-| 395 | 251 | Jj Johnson |
-| 396 | 251 | Mark Fitch Jr. |
-| 397 | 249 | Brennan Shea Greene |
-| 398 | 248 | Jeff Margolis |
+| 387 | 254 | Andrick |
+| 388 | 254 | Ashley Eskridge |
+| 389 | 254 | Mimi Dominguez |
+| 390 | 253 | LeRoy jenkins |
+| 391 | 253 | Izz |
+| 392 | 252 | Ryan Paul Clark-Ramsey |
+| 393 | 252 | Toon Up |
+| 394 | 252 | Dawn Phelps |
+| 395 | 252 | Clashy |
+| 396 | 251 | Jj Johnson |
+| 397 | 251 | Mark Fitch Jr. |
+| 398 | 249 | Brennan Shea Greene |
 | 399 | 248 | Tipsy Piecebuilder |
-| 400 | 247 | Deborah Silberg |
-| 401 | 247 | Shauna Davis |
-| 402 | 247 | Miwa |
-| 403 | 247 | Corie A. Brinson |
-| 404 | 246 | Jennifer Garcia |
-| 405 | 246 | Alyssa Berg |
-| 406 | 245 | Ashley Eskridge |
+| 400 | 248 | Jeff Margolis |
+| 401 | 247 | Deborah Silberg |
+| 402 | 247 | Shauna Davis |
+| 403 | 247 | Miwa |
+| 404 | 247 | Corie A. Brinson |
+| 405 | 246 | Jennifer Garcia |
+| 406 | 246 | Alyssa Berg |
 | 407 | 245 | LandO |
 | 408 | 244 | Jumpy Builderpiece |
 | 409 | 244 | Lisa lisa |
@@ -539,43 +539,43 @@
 | 531 | 192 | Chris |
 | 532 | 192 | Daniel Lossman |
 | 533 | 192 | Ralph Hell Rell Williams |
-| 534 | 190 | Simone |
-| 535 | 190 | Name |
-| 536 | 189 | Butterpat |
-| 537 | 189 | Zesty Lift |
-| 538 | 188 | Alexsandra Hill |
-| 539 | 188 | Henry Lanier |
-| 540 | 187 | Suzanne North |
-| 541 | 186 | Rosy Perez |
-| 542 | 186 | Dolores Falco |
-| 543 | 184 | Lolita Nettles |
-| 544 | 184 | Chilly Pop |
+| 534 | 192 | Tonia Kay |
+| 535 | 190 | Simone |
+| 536 | 190 | Name |
+| 537 | 189 | Butterpat |
+| 538 | 189 | Zesty Lift |
+| 539 | 188 | Alexsandra Hill |
+| 540 | 188 | Henry Lanier |
+| 541 | 187 | Suzanne North |
+| 542 | 186 | Rosy Perez |
+| 543 | 186 | Dolores Falco |
+| 544 | 184 | Lolita Nettles |
 | 545 | 184 | Csigirlnc |
-| 546 | 184 | Holly Bramel |
-| 547 | 182 | Heidi Anne Scheiderer |
-| 548 | 182 | Candiecane324 |
-| 549 | 181 | Jen Smith |
-| 550 | 180 | Shia Marie |
-| 551 | 180 | BookwormCate |
+| 546 | 184 | Chilly Pop |
+| 547 | 184 | Holly Bramel |
+| 548 | 182 | Heidi Anne Scheiderer |
+| 549 | 182 | Candiecane324 |
+| 550 | 181 | Jen Smith |
+| 551 | 180 | Shia Marie |
 | 552 | 180 | Jay Keating |
-| 553 | 180 | Ada Rodriguez Spradley |
-| 554 | 180 | Silly Rollbuilder |
-| 555 | 179 | MrsReap |
-| 556 | 179 | Has2brat |
-| 557 | 179 | Jeremy Barry |
-| 558 | 178 | Bammer |
+| 553 | 180 | Silly Rollbuilder |
+| 554 | 180 | Ada Rodriguez Spradley |
+| 555 | 180 | BookwormCate |
+| 556 | 179 | MrsReap |
+| 557 | 179 | Has2brat |
+| 558 | 179 | Jeremy Barry |
 | 559 | 178 | Allysha McFarland |
-| 560 | 177 | Tonia Kay |
+| 560 | 178 | Bammer |
 | 561 | 176 | DrC |
 | 562 | 176 | Keith Kosmicki |
 | 563 | 176 | Deana Teck |
 | 564 | 175 | Brandon Bedenbaugh |
 | 565 | 175 | alxhue04 |
 | 566 | 175 | Mrsjcraw18 |
-| 567 | 174 | PsyDMom |
-| 568 | 174 | Mmm |
-| 569 | 174 | Michelle Michelle |
-| 570 | 174 | Eddie Fuller |
+| 567 | 174 | Michelle Michelle |
+| 568 | 174 | Eddie Fuller |
+| 569 | 174 | Mmm |
+| 570 | 174 | PsyDMom |
 | 571 | 174 | Lisa Pie |
 | 572 | 174 | Lord Solrac |
 | 573 | 173 | Kimberly Ann |
@@ -770,9 +770,9 @@
 | 762 | 127 | Chirpy Dashfit |
 | 763 | 127 | idk240 |
 | 764 | 127 | Loyalty83 |
-| 765 | 126 | Weird Cat |
+| 765 | 126 | Vanessa Sykes |
 | 766 | 126 | Breezy Rollfit |
-| 767 | 126 | Vanessa Sykes |
+| 767 | 126 | Weird Cat |
 | 768 | 126 | Miguel Teixeira |
 | 769 | 126 | Happy Puzzle |
 | 770 | 125 | Lady |
@@ -781,20 +781,20 @@
 | 773 | 125 | Alex Dawn |
 | 774 | 125 | Youngkueen |
 | 775 | 125 | Kelly Miller Williams |
-| 776 | 124 | Vonni McLean |
-| 777 | 124 | Chad Finton |
+| 776 | 124 | Chad Finton |
+| 777 | 124 | Vonni McLean |
 | 778 | 123 | Ben Figueroa |
 | 779 | 123 | Esmond Johnson IV |
 | 780 | 122 | Sadeha Simpson |
-| 781 | 121 | Toria |
+| 781 | 122 | Toria |
 | 782 | 121 | Quiles Yaitza |
 | 783 | 121 | Giggy Bridgepiece |
 | 784 | 121 | Destiny Starr LeValdo |
 | 785 | 121 | ButterfliesRFree |
 | 786 | 120 | Ana Ruiz |
 | 787 | 120 | Mann Manson |
-| 788 | 120 | Ern |
-| 789 | 120 | Freddy-B |
+| 788 | 120 | Freddy-B |
+| 789 | 120 | Ern |
 | 790 | 120 | Kristen Nicole Depp-Stewart |
 | 791 | 120 | Jenn Wilson |
 | 792 | 120 | Groovy Matchgrid |
