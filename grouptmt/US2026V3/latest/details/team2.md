@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 05:42:44 UTC
+# Standings for team2 as of 2026-06-09 05:43:23 UTC
 
 **Total Participants:** 2418
 
@@ -531,8 +531,8 @@
 | 523 | 250 | Kim Powers |
 | 524 | 250 | Ashley Diana |
 | 525 | 250 | Angela Hogan |
-| 526 | 249 | Plucky Grabber |
-| 527 | 249 | Gina Leal |
+| 526 | 250 | Gina Leal |
+| 527 | 249 | Plucky Grabber |
 | 528 | 249 | Jana Campbell |
 | 529 | 249 | Tina |
 | 530 | 249 | Dana Vaiden Rivers |
@@ -600,8 +600,8 @@
 | 592 | 224 | Carrie Smith Negron |
 | 593 | 222 | Shellie Kioutas |
 | 594 | 222 | Stacy Shaunce |
-| 595 | 222 | Marilyn Strickland |
-| 596 | 222 | David Skelton |
+| 595 | 222 | David Skelton |
+| 596 | 222 | Marilyn Strickland |
 | 597 | 222 | Darla Ragsdale |
 | 598 | 221 | Reign Hustler |
 | 599 | 221 | Kendra Sizemore |
@@ -634,9 +634,9 @@
 | 626 | 212 | Holly Barefoot |
 | 627 | 211 | Edna Nena Cabrera |
 | 628 | 211 | Lazy Staggerpiece |
-| 629 | 210 | Epic Framezone |
-| 630 | 210 | Ozge Akgun Tokat |
-| 631 | 210 | Nichole Wilson |
+| 629 | 210 | Ozge Akgun Tokat |
+| 630 | 210 | Nichole Wilson |
+| 631 | 210 | Epic Framezone |
 | 632 | 210 | Bouncy Snapmatch |
 | 633 | 210 | Busted9mm |
 | 634 | 209 | Nutty Dash |
@@ -657,20 +657,20 @@
 | 649 | 204 | Charlotte Castelli |
 | 650 | 203 | Sherri Caillet Aucoin |
 | 651 | 203 | Amber Marie |
-| 652 | 203 | Jennifer Wymer |
-| 653 | 203 | Violet Olivares |
-| 654 | 203 | Heather Billodeau |
-| 655 | 203 | Churube Finwoiisopw |
-| 656 | 202 | Hillary Frank |
-| 657 | 202 | Mandy |
-| 658 | 202 | Ashley Miller |
+| 652 | 203 | Mary Whitaker |
+| 653 | 203 | Jennifer Wymer |
+| 654 | 203 | Violet Olivares |
+| 655 | 203 | Heather Billodeau |
+| 656 | 203 | Churube Finwoiisopw |
+| 657 | 202 | Hillary Frank |
+| 658 | 202 | Mandy |
 | 659 | 202 | Kati Eckstein |
-| 660 | 202 | Anzhen |
-| 661 | 201 | Mala Phonchanthasone |
-| 662 | 201 | Belle |
-| 663 | 201 | Mary Carriere |
-| 664 | 200 | Coleen Yoder |
-| 665 | 200 | Mary Whitaker |
+| 660 | 202 | Ashley Miller |
+| 661 | 202 | Anzhen |
+| 662 | 201 | Mala Phonchanthasone |
+| 663 | 201 | Belle |
+| 664 | 201 | Mary Carriere |
+| 665 | 200 | Coleen Yoder |
 | 666 | 200 | Karen Mueller |
 | 667 | 199 | Michael Anthony Anstead |
 | 668 | 199 | IncrediDragon |
@@ -701,26 +701,26 @@
 | 693 | 192 | Coleta Singleton-Gallishaw |
 | 694 | 191 | Melissa Willson |
 | 695 | 191 | Nano. |
-| 696 | 191 | Angeleye A James |
-| 697 | 191 | Firebone |
-| 698 | 191 | Chilly Surge |
-| 699 | 190 | Meagan Grimmett Washburn |
-| 700 | 190 | Duck |
+| 696 | 191 | Firebone |
+| 697 | 191 | Denise Morehart |
+| 698 | 191 | Angeleye A James |
+| 699 | 191 | Chilly Surge |
+| 700 | 190 | Meagan Grimmett Washburn |
 | 701 | 190 | Tammy Botkin |
-| 702 | 189 | James Sayers |
-| 703 | 189 | Poppy Strikerbuilder |
+| 702 | 190 | Duck |
+| 703 | 189 | James Sayers |
 | 704 | 189 | Audrey Bickford |
 | 705 | 189 | Kristi K Milner |
-| 706 | 189 | Leighla Davis |
-| 707 | 188 | Denise Morehart |
-| 708 | 188 | Derrick |
+| 706 | 189 | Poppy Strikerbuilder |
+| 707 | 189 | Leighla Davis |
+| 708 | 188 | Chipper Towerzone |
 | 709 | 188 | Marlo Perry |
-| 710 | 188 | Chipper Towerzone |
-| 711 | 187 | Elizabeth Kline |
-| 712 | 187 | Nikki Hatch |
-| 713 | 187 | Cindy Scott |
-| 714 | 187 | Barb Kiser |
-| 715 | 187 | Momof2wigglebutts |
+| 710 | 188 | Derrick |
+| 711 | 187 | Barb Kiser |
+| 712 | 187 | Cindy Scott |
+| 713 | 187 | Momof2wigglebutts |
+| 714 | 187 | Nikki Hatch |
+| 715 | 187 | Elizabeth Kline |
 | 716 | 187 | Jaimie Walters |
 | 717 | 187 | Abby |
 | 718 | 186 | Cody Gates |
@@ -897,25 +897,25 @@
 | 889 | 146 | Perky Rollfit |
 | 890 | 146 | K2N |
 | 891 | 146 | Chad Atchley |
-| 892 | 145 | Momi Kamohai |
-| 893 | 145 | AshleyM |
-| 894 | 145 | Shiny Matchpiece |
-| 895 | 145 | Alicia Parrish |
-| 896 | 144 | Princess Cucumber |
-| 897 | 144 | Alissa Ary |
-| 898 | 144 | Kelli Pazour |
-| 899 | 143 | Quirky Gridclear |
-| 900 | 143 | Bonnie Huckleberry |
-| 901 | 143 | Stoney McMillion |
-| 902 | 143 | Beej Blake |
-| 903 | 143 | Sam Schwieso |
-| 904 | 143 | Sara Karels |
-| 905 | 142 | Jeremy Daurbigny |
-| 906 | 142 | Jacob Corrales |
-| 907 | 142 | Bouncy Cluster |
-| 908 | 142 | CEK |
-| 909 | 141 | mee |
-| 910 | 140 | KS Hengesbach |
+| 892 | 145 | KS Hengesbach |
+| 893 | 145 | Momi Kamohai |
+| 894 | 145 | AshleyM |
+| 895 | 145 | Shiny Matchpiece |
+| 896 | 145 | Alicia Parrish |
+| 897 | 144 | Princess Cucumber |
+| 898 | 144 | Alissa Ary |
+| 899 | 144 | Kelli Pazour |
+| 900 | 143 | Quirky Gridclear |
+| 901 | 143 | Bonnie Huckleberry |
+| 902 | 143 | Stoney McMillion |
+| 903 | 143 | Beej Blake |
+| 904 | 143 | Sam Schwieso |
+| 905 | 143 | Sara Karels |
+| 906 | 142 | Jeremy Daurbigny |
+| 907 | 142 | Jacob Corrales |
+| 908 | 142 | Bouncy Cluster |
+| 909 | 142 | CEK |
+| 910 | 141 | mee |
 | 911 | 140 | Nerdy Spinfit |
 | 912 | 140 | Monica Gonzalez Rios |
 | 913 | 140 | Michelle Jones |
@@ -1113,27 +1113,27 @@
 | 1105 | 110 | Michelle Fry-Cash |
 | 1106 | 110 | Rey Huber |
 | 1107 | 109 | Sandra Rotton Bragg |
-| 1108 | 108 | Peppy Piececlear |
-| 1109 | 108 | Michael James |
-| 1110 | 108 | Purpleroyalty11 |
-| 1111 | 108 | Brooke Marie Fox |
-| 1112 | 108 | build master |
-| 1113 | 107 | Carole Brown |
-| 1114 | 107 | Giggy Linkgrid |
-| 1115 | 106 | R.w. Buck |
-| 1116 | 106 | Toni Tortorici Humphryes |
-| 1117 | 106 | Pamela Gambrell |
-| 1118 | 106 | Spicy Wrecker |
-| 1119 | 106 | Tish |
-| 1120 | 106 | Teresa Ann Curry |
+| 1108 | 109 | Spicy Wrecker |
+| 1109 | 108 | build master |
+| 1110 | 108 | Brooke Marie Fox |
+| 1111 | 108 | Peppy Piececlear |
+| 1112 | 108 | Michael James |
+| 1113 | 108 | Purpleroyalty11 |
+| 1114 | 107 | Carole Brown |
+| 1115 | 107 | Giggy Linkgrid |
+| 1116 | 106 | R.w. Buck |
+| 1117 | 106 | Toni Tortorici Humphryes |
+| 1118 | 106 | Pamela Gambrell |
+| 1119 | 106 | Brandon Ray Holt |
+| 1120 | 106 | Jacy Pickett |
 | 1121 | 106 | Jenifer Gasho |
-| 1122 | 106 | Jacy Pickett |
-| 1123 | 106 | Brandon Ray Holt |
-| 1124 | 106 | CowboyChalie |
-| 1125 | 105 | Witty Shatterline |
-| 1126 | 105 | Wildcat1220 |
-| 1127 | 105 | Nadine Velardo |
-| 1128 | 105 | Swanky Twister |
+| 1122 | 106 | Teresa Ann Curry |
+| 1123 | 106 | CowboyChalie |
+| 1124 | 106 | Tish |
+| 1125 | 105 | Wildcat1220 |
+| 1126 | 105 | Witty Shatterline |
+| 1127 | 105 | Swanky Twister |
+| 1128 | 105 | Nadine Velardo |
 | 1129 | 105 | Patrick Woodard |
 | 1130 | 105 | Chill Wipegrid |
 | 1131 | 104 | Que Henderson |
