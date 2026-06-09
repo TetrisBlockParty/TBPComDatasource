@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 06:22:45 UTC
+# Standings for team2 as of 2026-06-09 06:23:23 UTC
 
 **Total Participants:** 2431
 
@@ -1083,15 +1083,15 @@
 | 1075 | 114 | Amanda Jungclaus |
 | 1076 | 114 | JDub |
 | 1077 | 114 | Miguel360 |
-| 1078 | 114 | Brenda Zona |
-| 1079 | 114 | YAKO |
-| 1080 | 113 | Wood |
-| 1081 | 113 | Jami Borges |
-| 1082 | 112 | Cranky Zonebuilder |
-| 1083 | 112 | Kennadee Albertson |
-| 1084 | 112 | Yuhh |
-| 1085 | 112 | Carlee Becher |
-| 1086 | 112 | Cranky Patternblock |
+| 1078 | 114 | Cranky Patternblock |
+| 1079 | 114 | Brenda Zona |
+| 1080 | 114 | YAKO |
+| 1081 | 113 | Wood |
+| 1082 | 113 | Jami Borges |
+| 1083 | 112 | Cranky Zonebuilder |
+| 1084 | 112 | Kennadee Albertson |
+| 1085 | 112 | Yuhh |
+| 1086 | 112 | Carlee Becher |
 | 1087 | 112 | Alimae |
 | 1088 | 112 | Squared |
 | 1089 | 112 | Arik DiLorenzo |
@@ -1193,12 +1193,12 @@
 | 1185 | 99 | Shannie |
 | 1186 | 99 | Marcia Davis |
 | 1187 | 99 | Tiffany Fitch |
-| 1188 | 99 | Ramona Peña |
-| 1189 | 99 | Lorrie Girardi |
-| 1190 | 99 | Chesterland |
-| 1191 | 98 | puppy mom |
-| 1192 | 98 | Danyell Flood-Morning |
-| 1193 | 98 | Brittany Paul |
+| 1188 | 99 | Brittany Paul |
+| 1189 | 99 | Ramona Peña |
+| 1190 | 99 | Lorrie Girardi |
+| 1191 | 99 | Chesterland |
+| 1192 | 98 | puppy mom |
+| 1193 | 98 | Danyell Flood-Morning |
 | 1194 | 98 | Alexis Abner |
 | 1195 | 98 | Viani09 |
 | 1196 | 98 | Ashley Cadle |
