@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 05:40:46 UTC
+# Standings for team2 as of 2026-06-09 05:41:22 UTC
 
 **Total Participants:** 2418
 
@@ -533,10 +533,10 @@
 | 525 | 250 | Angela Hogan |
 | 526 | 249 | Jana Campbell |
 | 527 | 249 | Plucky Grabber |
-| 528 | 249 | Tina |
-| 529 | 249 | Dana Vaiden Rivers |
-| 530 | 248 | Lively Curve |
-| 531 | 248 | Gina Leal |
+| 528 | 249 | Gina Leal |
+| 529 | 249 | Tina |
+| 530 | 249 | Dana Vaiden Rivers |
+| 531 | 248 | Lively Curve |
 | 532 | 247 | TetrisMama |
 | 533 | 247 | Samantha Bugg Stitcher |
 | 534 | 246 | Darla Nolt |
