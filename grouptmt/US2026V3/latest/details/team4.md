@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 05:52:45 UTC
+# Standings for team4 as of 2026-06-09 05:53:21 UTC
 
 **Total Participants:** 2060
 
@@ -249,8 +249,8 @@
 | 241 | 438 | Aisha Estrada |
 | 242 | 437 | Sarah Perry Cook |
 | 243 | 434 | Jennifer Ellyn Sheets |
-| 244 | 433 | Dae Von |
-| 245 | 433 | Shanae Taylor |
+| 244 | 433 | Shanae Taylor |
+| 245 | 433 | Dae Von |
 | 246 | 432 | Danny Ortiz |
 | 247 | 431 | Jackie Miller |
 | 248 | 431 | Lush Fitblock |
@@ -268,12 +268,12 @@
 | 260 | 411 | Kelly Howland |
 | 261 | 410 | Tiffany Bunker-Hill |
 | 262 | 410 | Tina Thomas |
-| 263 | 408 | Aramat |
-| 264 | 400 | Holly Wessel |
-| 265 | 400 | Amber Doyle |
-| 266 | 399 | Mark Fitch Jr. |
-| 267 | 398 | Juvon SupaShawdii Brooks |
-| 268 | 398 | Danny Keich III |
+| 263 | 409 | Mark Fitch Jr. |
+| 264 | 408 | Aramat |
+| 265 | 400 | Holly Wessel |
+| 266 | 400 | Amber Doyle |
+| 267 | 398 | Danny Keich III |
+| 268 | 398 | Juvon SupaShawdii Brooks |
 | 269 | 398 | EL Booger |
 | 270 | 398 | Becky McCool |
 | 271 | 395 | Thomasena Eady Reid |
@@ -282,8 +282,8 @@
 | 274 | 391 | Sherry Mooney |
 | 275 | 389 | Jenn Norcross |
 | 276 | 384 | Cheery Risegrid |
-| 277 | 381 | Bean |
-| 278 | 381 | Jackie Polanco |
+| 277 | 381 | Jackie Polanco |
+| 278 | 381 | Bean |
 | 279 | 380 | Knijur Callins |
 | 280 | 378 | Hwanger Land |
 | 281 | 378 | Funky Tiler |
@@ -321,14 +321,14 @@
 | 313 | 344 | Roxana Romero |
 | 314 | 343 | Chummy Jumper |
 | 315 | 342 | Spicy Chicken |
-| 316 | 337 | Breezy Cascadeclear |
-| 317 | 337 | Brittany Lentz |
-| 318 | 337 | Giggly Tilt |
-| 319 | 336 | Renee Sapp |
-| 320 | 335 | Morgan Stevens |
-| 321 | 335 | EvoKitty |
-| 322 | 335 | Spunky Gridzone |
-| 323 | 335 | Cranky Buildout |
+| 316 | 340 | Cranky Buildout |
+| 317 | 337 | Breezy Cascadeclear |
+| 318 | 337 | Brittany Lentz |
+| 319 | 337 | Giggly Tilt |
+| 320 | 336 | Renee Sapp |
+| 321 | 335 | Morgan Stevens |
+| 322 | 335 | EvoKitty |
+| 323 | 335 | Spunky Gridzone |
 | 324 | 334 | kellie |
 | 325 | 333 | Joseph Hunter |
 | 326 | 331 | Queen B |
@@ -601,25 +601,25 @@
 | 593 | 184 | Chilly Pop |
 | 594 | 183 | Blessedmom865 |
 | 595 | 183 | Erica Pompey |
-| 596 | 182 | Heidi Anne Scheiderer |
-| 597 | 181 | Jen Smith |
-| 598 | 181 | Gigi Ivicsics |
-| 599 | 181 | Stef |
-| 600 | 181 | Rose Anna Safi |
-| 601 | 180 | Joshua Garner |
-| 602 | 180 | BookwormCate |
-| 603 | 180 | Jay Keating |
-| 604 | 180 | Clever Patterner |
-| 605 | 180 | Shia Marie |
-| 606 | 180 | Ada Rodriguez Spradley |
-| 607 | 180 | Silly Rollbuilder |
-| 608 | 179 | MrsReap |
-| 609 | 179 | Jeri Anne Stormo-Toman |
-| 610 | 179 | chefjaydawg |
-| 611 | 179 | Manolo Canety |
-| 612 | 179 | Has2brat |
-| 613 | 179 | Gigi5 |
-| 614 | 179 | Will E Ayala |
+| 596 | 183 | Rose Anna Safi |
+| 597 | 182 | Heidi Anne Scheiderer |
+| 598 | 181 | Jen Smith |
+| 599 | 181 | Gigi Ivicsics |
+| 600 | 181 | Stef |
+| 601 | 180 | BookwormCate |
+| 602 | 180 | Jay Keating |
+| 603 | 180 | Clever Patterner |
+| 604 | 180 | Shia Marie |
+| 605 | 180 | Ada Rodriguez Spradley |
+| 606 | 180 | Silly Rollbuilder |
+| 607 | 180 | Joshua Garner |
+| 608 | 179 | Will E Ayala |
+| 609 | 179 | MrsReap |
+| 610 | 179 | Jeri Anne Stormo-Toman |
+| 611 | 179 | chefjaydawg |
+| 612 | 179 | Manolo Canety |
+| 613 | 179 | Has2brat |
+| 614 | 179 | Gigi5 |
 | 615 | 178 | Bammer |
 | 616 | 178 | Allysha McFarland |
 | 617 | 178 | Butterfly |
