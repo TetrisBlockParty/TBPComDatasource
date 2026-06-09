@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 03:14:43 UTC
+# Standings for team1 as of 2026-06-09 03:15:21 UTC
 
 **Total Participants:** 1957
 
@@ -146,10 +146,10 @@
 | 138 | 708 | De'Laonzeo Anthony |
 | 139 | 703 | Lesley Brunkus Cianfaglione |
 | 140 | 702 | Chuck Quarles |
-| 141 | 694 | Anthony Washington |
-| 142 | 693 | Andi McGreevy |
-| 143 | 692 | Chirpy Corner |
-| 144 | 690 | Shontanese Adams |
+| 141 | 700 | Shontanese Adams |
+| 142 | 694 | Anthony Washington |
+| 143 | 693 | Andi McGreevy |
+| 144 | 692 | Chirpy Corner |
 | 145 | 686 | W.A. Simpson |
 | 146 | 671 | Gotcha |
 | 147 | 668 | JaszyBadd |
@@ -1073,57 +1073,57 @@
 | 1065 | 80 | nay |
 | 1066 | 80 | Frothy Zoney |
 | 1067 | 80 | Alisha Dawson Crouch |
-| 1068 | 80 | Linzi Cole |
-| 1069 | 80 | Demi Ovalle |
-| 1070 | 80 | Chill Curvebuilder |
-| 1071 | 80 | Lady Scorpio |
-| 1072 | 79 | Evette Moreno |
-| 1073 | 79 | DeShonna Bailey |
-| 1074 | 79 | TNT |
-| 1075 | 79 | Nicole Coko Thomas |
-| 1076 | 78 | Dennis Ripley |
-| 1077 | 77 | Jackie English |
-| 1078 | 77 | Renee J. Thomas |
-| 1079 | 77 | S.S |
-| 1080 | 77 | Clever Wrecker |
+| 1068 | 80 | 1ofaking |
+| 1069 | 80 | Chill Curvebuilder |
+| 1070 | 80 | Linzi Cole |
+| 1071 | 80 | Demi Ovalle |
+| 1072 | 80 | Lady Scorpio |
+| 1073 | 79 | TNT |
+| 1074 | 79 | Evette Moreno |
+| 1075 | 79 | DeShonna Bailey |
+| 1076 | 79 | Nicole Coko Thomas |
+| 1077 | 78 | Dennis Ripley |
+| 1078 | 77 | Alize |
+| 1079 | 77 | Jackie English |
+| 1080 | 77 | Renee J. Thomas |
 | 1081 | 77 | Tomme Poliwka |
-| 1082 | 77 | Alize |
+| 1082 | 77 | Clever Wrecker |
 | 1083 | 77 | Tori Carter |
-| 1084 | 77 | Lil T |
-| 1085 | 77 | Shanae Beasley |
-| 1086 | 76 | Mama P |
-| 1087 | 76 | Sunset Owens |
+| 1084 | 77 | Shanae Beasley |
+| 1085 | 77 | Lil T |
+| 1086 | 77 | S.S |
+| 1087 | 76 | Christopher Wallace |
 | 1088 | 76 | Jane Lame |
-| 1089 | 76 | Silly Edgepiece |
-| 1090 | 76 | Christopher Wallace |
-| 1091 | 76 | LaMinda Todd |
-| 1092 | 76 | Heather Cross-Davis |
-| 1093 | 76 | NataAllDay |
-| 1094 | 75 | Marissa Sweet |
-| 1095 | 75 | Courtney Robinson |
-| 1096 | 75 | sasha |
-| 1097 | 75 | Tina Criam |
-| 1098 | 75 | Ray Baker |
-| 1099 | 75 | Cathilia Rodriguez |
+| 1089 | 76 | NataAllDay |
+| 1090 | 76 | Sunset Owens |
+| 1091 | 76 | Heather Cross-Davis |
+| 1092 | 76 | LaMinda Todd |
+| 1093 | 76 | Mama P |
+| 1094 | 76 | Silly Edgepiece |
+| 1095 | 75 | Kyle Franklin |
+| 1096 | 75 | Marissa Sweet |
+| 1097 | 75 | Ray Baker |
+| 1098 | 75 | Khatyrah Burnette |
+| 1099 | 75 | Amanda Colwell |
 | 1100 | 75 | Trusi Rusi |
-| 1101 | 75 | Kyle Franklin |
-| 1102 | 75 | Amanda Colwell |
-| 1103 | 75 | Khatyrah Burnette |
-| 1104 | 74 | Taylor Jordan Hollis |
-| 1105 | 74 | Lively Clusterline |
-| 1106 | 74 | GiantBehemoth |
-| 1107 | 74 | Diamond Nicole |
-| 1108 | 74 | Giggy Brickfit |
+| 1101 | 75 | Courtney Robinson |
+| 1102 | 75 | sasha |
+| 1103 | 75 | Tina Criam |
+| 1104 | 75 | Cathilia Rodriguez |
+| 1105 | 74 | GiantBehemoth |
+| 1106 | 74 | Lively Clusterline |
+| 1107 | 74 | Taylor Jordan Hollis |
+| 1108 | 74 | Diamond Nicole |
 | 1109 | 74 | Ivan Israel |
-| 1110 | 74 | Ace Hardware |
-| 1111 | 74 | Tetrisdestroyer |
-| 1112 | 74 | Alanna Breitenbach |
-| 1113 | 73 | Alice Biggs |
-| 1114 | 73 | Lazy Matchgrid |
+| 1110 | 74 | Giggy Brickfit |
+| 1111 | 74 | Ace Hardware |
+| 1112 | 74 | Tetrisdestroyer |
+| 1113 | 74 | Alanna Breitenbach |
+| 1114 | 73 | Alice Biggs |
 | 1115 | 73 | Ducc2408 |
-| 1116 | 73 | 1ofaking |
-| 1117 | 73 | Jonathan Zold |
-| 1118 | 73 | Thelma Samuels |
+| 1116 | 73 | Lazy Matchgrid |
+| 1117 | 73 | Thelma Samuels |
+| 1118 | 73 | Jonathan Zold |
 | 1119 | 72 | Bohdi |
 | 1120 | 72 | Demetrice Buck Wilson |
 | 1121 | 72 | Warren Miller |
@@ -1135,12 +1135,12 @@
 | 1127 | 72 | ImmeKC |
 | 1128 | 71 | Jerome Lewis |
 | 1129 | 71 | Boldy Matchfit |
-| 1130 | 71 | HBTone |
-| 1131 | 71 | Joseph Ware Jr. |
+| 1130 | 71 | Joseph Ware Jr. |
+| 1131 | 71 | HBTone |
 | 1132 | 70 | Rande Smith |
 | 1133 | 70 | Nedine Ray |
-| 1134 | 70 | Eli Delao |
-| 1135 | 70 | Rachel Lopez |
+| 1134 | 70 | Rachel Lopez |
+| 1135 | 70 | Eli Delao |
 | 1136 | 70 | Jason Riley |
 | 1137 | 70 | RealOne95 |
 | 1138 | 70 | West Racks |
@@ -1152,14 +1152,14 @@
 | 1144 | 69 | Shadena M Carter Mba |
 | 1145 | 69 | BrettanMary Adkins |
 | 1146 | 69 | Spunky Strikerbuilder |
-| 1147 | 68 | AleahKCH |
-| 1148 | 68 | LaPorscha Wright |
-| 1149 | 68 | Saucy Crusher |
-| 1150 | 68 | Meeee |
+| 1147 | 68 | LaPorscha Wright |
+| 1148 | 68 | Saucy Crusher |
+| 1149 | 68 | Meeee |
+| 1150 | 68 | AleahKCH |
 | 1151 | 68 | Fairy Fae_6 |
 | 1152 | 67 | Tyler |
-| 1153 | 67 | Jeaneé Nay |
-| 1154 | 67 | Mark Steven Pichler |
+| 1153 | 67 | Mark Steven Pichler |
+| 1154 | 67 | Jeaneé Nay |
 | 1155 | 67 | Michele Elizabeth McKay-Johnson |
 | 1156 | 66 | Jennifer Dawn Egbert Fenwick |
 | 1157 | 66 | Letrishia Andrews |
