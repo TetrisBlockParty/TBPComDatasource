@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 11:30:47 UTC
+# Standings for team1 as of 2026-06-09 11:31:22 UTC
 
 **Total Participants:** 2038
 
@@ -153,18 +153,18 @@
 | 145 | 751 | Kellie Hall |
 | 146 | 747 | Carolynne Walker-Bell |
 | 147 | 730 | ing410 |
-| 148 | 721 | Chuck Quarles |
-| 149 | 720 | Felicia Williams |
-| 150 | 719 | Dena Marie Lee |
-| 151 | 708 | De'Laonzeo Anthony |
+| 148 | 725 | De'Laonzeo Anthony |
+| 149 | 721 | Chuck Quarles |
+| 150 | 720 | Felicia Williams |
+| 151 | 719 | Dena Marie Lee |
 | 152 | 703 | Lesley Brunkus Cianfaglione |
 | 153 | 700 | Eugina Slater |
 | 154 | 694 | Anthony Washington |
 | 155 | 693 | Andi McGreevy |
 | 156 | 692 | Chirpy Corner |
 | 157 | 686 | W.A. Simpson |
-| 158 | 685 | Byron Mario Cawthon |
-| 159 | 685 | Ebony Waynes-robinson |
+| 158 | 685 | Ebony Waynes-robinson |
+| 159 | 685 | Byron Mario Cawthon |
 | 160 | 677 | Chantelle Lee |
 | 161 | 673 | Jeffrey Barrows |
 | 162 | 672 | Antonia Wyche |
@@ -210,29 +210,29 @@
 | 202 | 565 | IThinkNot |
 | 203 | 563 | Wild Out Nai |
 | 204 | 562 | Yasmin Nakea Wright |
-| 205 | 559 | Sarah Clark |
+| 205 | 560 | Zippy Lifter |
 | 206 | 559 | Tobey Marberry |
-| 207 | 555 | Dee McCool |
-| 208 | 553 | Sharon Cail |
-| 209 | 552 | Ty Øtg |
-| 210 | 549 | Shell Lewis |
-| 211 | 547 | pooh |
+| 207 | 559 | Sarah Clark |
+| 208 | 555 | Dee McCool |
+| 209 | 553 | Sharon Cail |
+| 210 | 552 | Ty Øtg |
+| 211 | 549 | Shell Lewis |
 | 212 | 547 | Tasha Jones |
-| 213 | 546 | Po Marley |
-| 214 | 539 | DellaLucretia Thomas |
-| 215 | 536 | SPNLover24 |
-| 216 | 532 | Tamara N Lee |
-| 217 | 527 | Ebony |
-| 218 | 527 | MommaCia |
-| 219 | 525 | Tishauna Virgo |
-| 220 | 523 | Christopher Dreamsareality McEachin |
-| 221 | 520 | Dulo |
-| 222 | 519 | Slinky Party |
-| 223 | 511 | Dizzy Dropper |
-| 224 | 509 | Telisha Mims |
-| 225 | 506 | Marie Wilson |
-| 226 | 501 | Joey Albright |
-| 227 | 500 | Zippy Lifter |
+| 213 | 547 | pooh |
+| 214 | 546 | Po Marley |
+| 215 | 539 | DellaLucretia Thomas |
+| 216 | 536 | SPNLover24 |
+| 217 | 532 | Tamara N Lee |
+| 218 | 527 | Ebony |
+| 219 | 527 | MommaCia |
+| 220 | 525 | Tishauna Virgo |
+| 221 | 523 | Christopher Dreamsareality McEachin |
+| 222 | 520 | Dulo |
+| 223 | 519 | Slinky Party |
+| 224 | 511 | Dizzy Dropper |
+| 225 | 509 | Telisha Mims |
+| 226 | 506 | Marie Wilson |
+| 227 | 501 | Joey Albright |
 | 228 | 498 | Julian Dickens Jr. |
 | 229 | 496 | Andre Sanon |
 | 230 | 493 | Deveda Williams |
