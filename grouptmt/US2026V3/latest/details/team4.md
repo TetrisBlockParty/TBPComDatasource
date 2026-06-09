@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 13:18:44 UTC
+# Standings for team4 as of 2026-06-09 13:19:21 UTC
 
 **Total Participants:** 2107
 
@@ -436,43 +436,43 @@
 | 428 | 276 | Joab Gonzalez |
 | 429 | 274 | Dominique Melendez |
 | 430 | 273 | Snazzy Corner |
-| 431 | 273 | Kierra Evans |
-| 432 | 272 | J.Wo |
-| 433 | 271 | King |
-| 434 | 271 | Winter Moon |
-| 435 | 269 | Cheeky Fallzone |
-| 436 | 269 | Heidi Hala |
-| 437 | 269 | Brendan Craven |
-| 438 | 268 | Luna |
-| 439 | 268 | Kendall Rhodie |
+| 431 | 273 | BookwormCate |
+| 432 | 273 | Kierra Evans |
+| 433 | 273 | Henry Lanier |
+| 434 | 272 | J.Wo |
+| 435 | 271 | King |
+| 436 | 271 | Winter Moon |
+| 437 | 269 | Cheeky Fallzone |
+| 438 | 269 | Brendan Craven |
+| 439 | 269 | Heidi Hala |
 | 440 | 268 | Teester |
-| 441 | 267 | BookwormCate |
-| 442 | 265 | Holly Bramel |
+| 441 | 268 | Luna |
+| 442 | 268 | Kendall Rhodie |
 | 443 | 265 | Denise Wilson |
-| 444 | 264 | Perry Ransom |
+| 444 | 265 | Holly Bramel |
 | 445 | 264 | DizzB400 |
 | 446 | 264 | Azahares Alonso |
-| 447 | 263 | Frothy Pattern |
+| 447 | 264 | Perry Ransom |
 | 448 | 263 | Erik Clary |
-| 449 | 262 | Scrumptious |
-| 450 | 261 | Lee Ann Gibby |
-| 451 | 261 | Tricia Motika Cowan |
-| 452 | 260 | Silly Risegrid |
+| 449 | 263 | Frothy Pattern |
+| 450 | 262 | Scrumptious |
+| 451 | 261 | Lee Ann Gibby |
+| 452 | 261 | Tricia Motika Cowan |
 | 453 | 260 | Sarah Montagne Forsberg |
-| 454 | 259 | Jen Roe |
-| 455 | 259 | Tiffany Smith |
+| 454 | 260 | Silly Risegrid |
+| 455 | 259 | Jen Roe |
 | 456 | 259 | Jessica Peyton |
 | 457 | 259 | Valerie Silva |
 | 458 | 259 | Sandra Stark |
-| 459 | 258 | Henry Lanier |
+| 459 | 259 | Tiffany Smith |
 | 460 | 258 | Danny Frausto |
 | 461 | 257 | LaTanya GeminiondaRise Johnson |
-| 462 | 256 | Stacy G |
-| 463 | 256 | Tiffany Morris Garner |
+| 462 | 256 | Tiffany Morris Garner |
+| 463 | 256 | Stacy G |
 | 464 | 255 | Britney Kitora |
 | 465 | 255 | Sean Mccleary |
-| 466 | 255 | Littlebrat |
-| 467 | 255 | Kari Smith |
+| 466 | 255 | Kari Smith |
+| 467 | 255 | Littlebrat |
 | 468 | 254 | farfromlocal |
 | 469 | 254 | Mimi Dominguez |
 | 470 | 254 | Deva Marie Barber |
