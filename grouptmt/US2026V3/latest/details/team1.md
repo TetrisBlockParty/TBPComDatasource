@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:52:45 UTC
+# Standings for team1 as of 2026-06-09 06:53:21 UTC
 
 **Total Participants:** 2007
 
@@ -71,18 +71,18 @@
 | 63 | 1484 | Danielle DeLozier Plesec |
 | 64 | 1479 | Corey Cawthon |
 | 65 | 1461 | Janet Cooke |
-| 66 | 1418 | Daylene Johannes |
-| 67 | 1418 | Sanjuro |
-| 68 | 1414 | LeeLee08 |
+| 66 | 1426 | LeeLee08 |
+| 67 | 1418 | Daylene Johannes |
+| 68 | 1418 | Sanjuro |
 | 69 | 1411 | Blockhead |
 | 70 | 1388 | Jessica Roberts |
 | 71 | 1387 | Angela R Wilson |
 | 72 | 1359 | Uneekly Mayde |
-| 73 | 1344 | Chenell Gillard |
-| 74 | 1333 | Spicy Balancer |
-| 75 | 1316 | Bre Maugh |
-| 76 | 1313 | Ashley Espeut |
-| 77 | 1307 | MamaBear |
+| 73 | 1350 | MamaBear |
+| 74 | 1344 | Chenell Gillard |
+| 75 | 1333 | Spicy Balancer |
+| 76 | 1316 | Bre Maugh |
+| 77 | 1313 | Ashley Espeut |
 | 78 | 1288 | Dawn L Washington-Feuquay |
 | 79 | 1259 | Holly Jolly |
 | 80 | 1258 | Frisky Fallmatch |
@@ -95,9 +95,9 @@
 | 87 | 1187 | Dynah Gordon |
 | 88 | 1184 | Court Court |
 | 89 | 1175 | Ryan Meilleur |
-| 90 | 1170 | Jonathan Vee Jay |
-| 91 | 1169 | Amalie Newvine |
-| 92 | 1169 | Tiana Moore |
+| 90 | 1173 | Tiana Moore |
+| 91 | 1170 | Jonathan Vee Jay |
+| 92 | 1169 | Amalie Newvine |
 | 93 | 1169 | Kimberly Hernandez |
 | 94 | 1168 | Moomoo |
 | 95 | 1164 | Tootsie Pop |
@@ -303,8 +303,8 @@
 | 295 | 380 | Nerdy Blockpiece |
 | 296 | 377 | AF Cruz |
 | 297 | 376 | Reginald Frank |
-| 298 | 375 | NastyFriend |
-| 299 | 375 | Steve Reno |
+| 298 | 376 | Steve Reno |
+| 299 | 375 | NastyFriend |
 | 300 | 371 | Lauraly |
 | 301 | 370 | Allison Baxter |
 | 302 | 368 | Brand Nu |
@@ -561,13 +561,13 @@
 | 553 | 205 | Polite Granny |
 | 554 | 205 | Tramaine Crockrum |
 | 555 | 205 | Sarah Barnum |
-| 556 | 204 | ChunLi |
+| 556 | 205 | Saucy Faller |
 | 557 | 204 | Rosalind Chatman |
-| 558 | 204 | Cynda Cyn |
-| 559 | 204 | Marlynnnnn |
-| 560 | 203 | Poyre Shelton |
-| 561 | 202 | Messy Live |
-| 562 | 202 | Saucy Faller |
+| 558 | 204 | ChunLi |
+| 559 | 204 | Cynda Cyn |
+| 560 | 204 | Marlynnnnn |
+| 561 | 203 | Poyre Shelton |
+| 562 | 202 | Messy Live |
 | 563 | 202 | Hyper Blocky |
 | 564 | 202 | Jana Cheek |
 | 565 | 202 | Frankey Chi |
