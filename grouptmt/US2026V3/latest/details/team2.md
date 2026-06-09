@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 01:04:43 UTC
+# Standings for team2 as of 2026-06-09 01:05:20 UTC
 
 **Total Participants:** 2333
 
@@ -58,7 +58,7 @@
 | 50 | 2990 | Sean Rippa |
 | 51 | 2982 | Elizabeth Sallas |
 | 52 | 2950 | Angie BBlock |
-| 53 | 2848 | Betty Barrett |
+| 53 | 2888 | Betty Barrett |
 | 54 | 2605 | Helen Thomas |
 | 55 | 2556 | Andrew Weissenborn |
 | 56 | 2500 | Jennifer Knott |
@@ -200,13 +200,13 @@
 | 192 | 609 | Bubbly Strikerpiece |
 | 193 | 606 | Chasity Simpson |
 | 194 | 600 | Theresa Marie |
-| 195 | 594 | Tami Kay Williams Watson |
-| 196 | 594 | Zarah Kettler |
-| 197 | 592 | Nikki Hayes |
-| 198 | 592 | Spicy Basepiece |
+| 195 | 594 | Zarah Kettler |
+| 196 | 594 | Tami Kay Williams Watson |
+| 197 | 592 | Spicy Basepiece |
+| 198 | 592 | Nikki Hayes |
 | 199 | 588 | Crystal Allen |
-| 200 | 587 | Kathleen Dumbazz |
-| 201 | 587 | Kevin Mccoy |
+| 200 | 587 | Kevin Mccoy |
+| 201 | 587 | Kathleen Dumbazz |
 | 202 | 584 | Steven Craig |
 | 203 | 577 | Lindsay Klemp |
 | 204 | 576 | Breeana Bennett |
@@ -221,27 +221,27 @@
 | 213 | 555 | Michelle Luke Banta |
 | 214 | 554 | Sabrina Hardrick |
 | 215 | 553 | Rosalie Call Kehlenbeck |
-| 216 | 550 | DomDomsNana |
-| 217 | 549 | Mom |
-| 218 | 549 | Jat |
-| 219 | 548 | Thomas Tyrone |
-| 220 | 544 | Ashley Green |
-| 221 | 542 | Ratchet |
-| 222 | 542 | Bri St Peter |
-| 223 | 541 | AndyJo |
-| 224 | 538 | Alicia Ellenburg |
-| 225 | 535 | Amy Gale |
-| 226 | 534 | Kimmyc |
-| 227 | 533 | Amie Marks |
-| 228 | 531 | Sandy Lynn |
-| 229 | 531 | Sarina Vollink |
-| 230 | 530 | Jennifer Smith |
-| 231 | 528 | H |
+| 216 | 550 | H |
+| 217 | 550 | DomDomsNana |
+| 218 | 549 | Mom |
+| 219 | 549 | Jat |
+| 220 | 548 | Thomas Tyrone |
+| 221 | 544 | Ashley Green |
+| 222 | 542 | Ratchet |
+| 223 | 542 | Bri St Peter |
+| 224 | 541 | AndyJo |
+| 225 | 538 | Alicia Ellenburg |
+| 226 | 535 | Amy Gale |
+| 227 | 534 | Kimmyc |
+| 228 | 533 | Amie Marks |
+| 229 | 531 | Sandy Lynn |
+| 230 | 531 | Sarina Vollink |
+| 231 | 530 | Jennifer Smith |
 | 232 | 526 | Theresa Hollinger |
 | 233 | 521 | Laverne Ellis Blair |
 | 234 | 520 | Zany Blockclear |
-| 235 | 514 | Gabrielle Wilson |
-| 236 | 514 | Kaycie Shaffer |
+| 235 | 514 | Kaycie Shaffer |
+| 236 | 514 | Gabrielle Wilson |
 | 237 | 513 | Gill |
 | 238 | 511 | Stephany Green |
 | 239 | 510 | Samantha Carman |
@@ -268,19 +268,19 @@
 | 260 | 479 | Dawnypooh |
 | 261 | 478 | Swanky Fitline |
 | 262 | 475 | Brenda Jones |
-| 263 | 467 | Nicole Hogue |
-| 264 | 467 | Lisa Underwood Desmond |
+| 263 | 467 | Lisa Underwood Desmond |
+| 264 | 467 | Nicole Hogue |
 | 265 | 462 | Charles E Mccardell |
 | 266 | 461 | Nikki Greeneyebeauty |
-| 267 | 456 | Frilly Dashfit |
-| 268 | 456 | Nikki EightySixed |
+| 267 | 456 | Nikki EightySixed |
+| 268 | 456 | Frilly Dashfit |
 | 269 | 455 | Joni Michelle Morgan |
 | 270 | 453 | Kimberly Cowan |
 | 271 | 448 | Eric Drane |
 | 272 | 444 | Steven |
 | 273 | 443 | Katrien |
-| 274 | 440 | Fudgie Pie |
-| 275 | 440 | Amy Gregg |
+| 274 | 440 | Amy Gregg |
+| 275 | 440 | Fudgie Pie |
 | 276 | 440 | True |
 | 277 | 439 | giamy |
 | 278 | 438 | Cathy Lee Stoneking |
@@ -303,12 +303,12 @@
 | 295 | 402 | Boldy Fitclear |
 | 296 | 401 | Brooke Allred |
 | 297 | 400 | Adriana Daniela Agapie |
-| 298 | 400 | Sarah Rodriguez |
-| 299 | 400 | Melissa Clogher White |
-| 300 | 400 | Shannon Wilson |
+| 298 | 400 | Melissa Clogher White |
+| 299 | 400 | Shannon Wilson |
+| 300 | 400 | Sarah Rodriguez |
 | 301 | 399 | Jeffrey Smith |
-| 302 | 398 | Aldotfus Williams |
-| 303 | 398 | Heather Burgett |
+| 302 | 398 | Heather Burgett |
+| 303 | 398 | Aldotfus Williams |
 | 304 | 393 | Kathy Strickland |
 | 305 | 392 | Lora Via |
 | 306 | 391 | La chulis |
@@ -320,8 +320,8 @@
 | 312 | 385 | Brittni Lawrence |
 | 313 | 385 | meg |
 | 314 | 384 | DayDreamer79 |
-| 315 | 383 | Flashy Twistline |
-| 316 | 383 | Jenna Stahl |
+| 315 | 383 | Jenna Stahl |
+| 316 | 383 | Flashy Twistline |
 | 317 | 382 | Chill Line |
 | 318 | 380 | Bb |
 | 319 | 380 | Patricia Carroll |
@@ -391,13 +391,13 @@
 | 383 | 328 | Nicole Plummer |
 | 384 | 327 | Iesha Cupil |
 | 385 | 326 | Amber Cogdill |
-| 386 | 325 | Snappy Combo |
-| 387 | 323 | Kelly Vedder |
-| 388 | 323 | Kim Hunt |
-| 389 | 322 | Pam Bauder Ludwig |
-| 390 | 321 | Bianca Woodruff |
-| 391 | 320 | Partin |
-| 392 | 320 | Erica South |
+| 386 | 325 | Erica South |
+| 387 | 325 | Snappy Combo |
+| 388 | 323 | Kelly Vedder |
+| 389 | 323 | Kim Hunt |
+| 390 | 322 | Pam Bauder Ludwig |
+| 391 | 321 | Bianca Woodruff |
+| 392 | 320 | Partin |
 | 393 | 320 | Zesty Zoney |
 | 394 | 319 | MUMBLES |
 | 395 | 319 | Sarah Grundisch |
@@ -1828,47 +1828,47 @@
 | 1820 | 33 | Frisky Snapper |
 | 1821 | 33 | Holly |
 | 1822 | 33 | Taderbug |
-| 1823 | 33 | Speedy Crasher |
+| 1823 | 33 | Mandy Ann Riley |
 | 1824 | 33 | Cheeky Twistpiece |
 | 1825 | 33 | Dixie Wilson |
 | 1826 | 33 | Stephanie Stegman |
-| 1827 | 32 | Michael Woodall |
-| 1828 | 32 | Cindy Smith |
-| 1829 | 32 | Chelsea Harriss |
-| 1830 | 32 | Michelle Shemon |
-| 1831 | 32 | Jenea Colvin |
-| 1832 | 32 | Giggly Twisterfit |
-| 1833 | 32 | Foc |
-| 1834 | 32 | Swanky Fallmatch |
-| 1835 | 32 | Zany Dasher |
-| 1836 | 32 | Adrian Alvarez |
-| 1837 | 32 | Berta Hurley |
-| 1838 | 32 | Jolene Moelder |
-| 1839 | 32 | Monique Williams |
-| 1840 | 31 | TyShantelle |
-| 1841 | 31 | Trinni Hansen |
-| 1842 | 31 | Snappy Matchgrid |
-| 1843 | 31 | Ronald Granger |
-| 1844 | 31 | Peppy Slammer |
-| 1845 | 31 | Remyro |
-| 1846 | 31 | Jazzy Gridclear |
-| 1847 | 31 | Jenn |
-| 1848 | 31 | 3RD LEG |
-| 1849 | 31 | Rainbolt |
-| 1850 | 31 | Bouncy Fallmatch |
-| 1851 | 30 | Beaglemom |
-| 1852 | 30 | Shawn Bossuot |
-| 1853 | 30 | Jennifer Gould |
-| 1854 | 30 | tdb |
-| 1855 | 30 | Casie |
-| 1856 | 30 | Melissa Dyer |
-| 1857 | 30 | Chass |
-| 1858 | 30 | Chipper Zigzag |
-| 1859 | 30 | Michele Miessner |
-| 1860 | 30 | Smiley Clearer |
-| 1861 | 30 | Brett Mullins |
-| 1862 | 30 | Patty Brown |
-| 1863 | 30 | Mandy Ann Riley |
+| 1827 | 33 | Speedy Crasher |
+| 1828 | 32 | Michael Woodall |
+| 1829 | 32 | Foc |
+| 1830 | 32 | Swanky Fallmatch |
+| 1831 | 32 | Giggly Twisterfit |
+| 1832 | 32 | Jenea Colvin |
+| 1833 | 32 | Michelle Shemon |
+| 1834 | 32 | Chelsea Harriss |
+| 1835 | 32 | Cindy Smith |
+| 1836 | 32 | Zany Dasher |
+| 1837 | 32 | Adrian Alvarez |
+| 1838 | 32 | Berta Hurley |
+| 1839 | 32 | Jolene Moelder |
+| 1840 | 32 | Monique Williams |
+| 1841 | 31 | TyShantelle |
+| 1842 | 31 | Trinni Hansen |
+| 1843 | 31 | Snappy Matchgrid |
+| 1844 | 31 | Ronald Granger |
+| 1845 | 31 | Jazzy Gridclear |
+| 1846 | 31 | Jenn |
+| 1847 | 31 | Remyro |
+| 1848 | 31 | Peppy Slammer |
+| 1849 | 31 | 3RD LEG |
+| 1850 | 31 | Rainbolt |
+| 1851 | 31 | Bouncy Fallmatch |
+| 1852 | 30 | Beaglemom |
+| 1853 | 30 | Shawn Bossuot |
+| 1854 | 30 | Melissa Dyer |
+| 1855 | 30 | Jennifer Gould |
+| 1856 | 30 | tdb |
+| 1857 | 30 | Casie |
+| 1858 | 30 | Chass |
+| 1859 | 30 | Chipper Zigzag |
+| 1860 | 30 | Michele Miessner |
+| 1861 | 30 | Smiley Clearer |
+| 1862 | 30 | Brett Mullins |
+| 1863 | 30 | Patty Brown |
 | 1864 | 30 | Holly Hannahs |
 | 1865 | 30 | Regina Lamb |
 | 1866 | 30 | Milissa Weihbrecht |
