@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:23:22 UTC
+# Standings for team2 as of 2026-06-09 10:24:45 UTC
 
 **Total Participants:** 2466
 
@@ -171,10 +171,10 @@
 | 163 | 807 | Sara Perkins |
 | 164 | 806 | Monique Frantz |
 | 165 | 805 | Jgato |
-| 166 | 795 | Le Sandy |
-| 167 | 789 | Brandon Link |
-| 168 | 784 | Steven Craig |
-| 169 | 774 | Leigh Ann |
+| 166 | 797 | Leigh Ann |
+| 167 | 795 | Le Sandy |
+| 168 | 789 | Brandon Link |
+| 169 | 784 | Steven Craig |
 | 170 | 772 | Joslyn Johnson |
 | 171 | 771 | Tami Kay Williams Watson |
 | 172 | 770 | Jamie Jones |
@@ -191,8 +191,8 @@
 | 183 | 721 | Nikki Carter |
 | 184 | 711 | Alison Waller |
 | 185 | 702 | Nutty Curver |
-| 186 | 701 | Sarina Vollink |
-| 187 | 699 | Krisanne Kesner-Lonsby |
+| 186 | 701 | Krisanne Kesner-Lonsby |
+| 187 | 701 | Sarina Vollink |
 | 188 | 686 | Milad Arzani |
 | 189 | 682 | Wmk Rathbun |
 | 190 | 681 | Amanda Sikes |
@@ -566,18 +566,18 @@
 | 558 | 250 | Kim Powers |
 | 559 | 250 | Angela Hogan |
 | 560 | 250 | Ashley Diana |
-| 561 | 250 | Happy Drop |
+| 561 | 250 | Twisty Tower |
 | 562 | 250 | Misiek |
 | 563 | 250 | Carrie Hayes Lankford |
-| 564 | 249 | Plucky Grabber |
-| 565 | 249 | Dana Vaiden Rivers |
-| 566 | 249 | Jana Campbell |
-| 567 | 249 | Tina |
-| 568 | 248 | Joanie Swann Ruiter |
-| 569 | 247 | Samantha Bugg Stitcher |
-| 570 | 247 | TetrisMama |
-| 571 | 246 | Holly Huval |
-| 572 | 246 | Twisty Tower |
+| 564 | 250 | Happy Drop |
+| 565 | 249 | Plucky Grabber |
+| 566 | 249 | Dana Vaiden Rivers |
+| 567 | 249 | Jana Campbell |
+| 568 | 249 | Tina |
+| 569 | 248 | Joanie Swann Ruiter |
+| 570 | 247 | Samantha Bugg Stitcher |
+| 571 | 247 | TetrisMama |
+| 572 | 246 | Holly Huval |
 | 573 | 246 | Darla Nolt |
 | 574 | 245 | Crystal Camden Suarez |
 | 575 | 245 | Spencer Ryder |
@@ -1497,32 +1497,32 @@
 | 1489 | 69 | Collins |
 | 1490 | 69 | Courtney Elizabeth Hartnagel |
 | 1491 | 69 | Deanna Mc |
-| 1492 | 68 | Angie Barlow |
-| 1493 | 68 | Viola Fletcher |
-| 1494 | 68 | Samantha Lewis |
-| 1495 | 68 | April Appleton |
-| 1496 | 68 | Cheery Blast |
-| 1497 | 68 | Jara Zavala |
-| 1498 | 67 | Zippy Blockmatch |
-| 1499 | 67 | LK |
-| 1500 | 67 | Happy Curvebuilder |
-| 1501 | 67 | Alexis Meyers |
-| 1502 | 66 | David Cadiente |
-| 1503 | 66 | Jenna Thorn |
-| 1504 | 66 | Erica Abreu |
-| 1505 | 66 | Ali |
-| 1506 | 66 | Bunny Bt |
-| 1507 | 66 | Catherine Whitt Gaddy |
-| 1508 | 66 | Justin Pennington |
-| 1509 | 66 | Brittany Russell |
-| 1510 | 65 | Julie Lint |
-| 1511 | 65 | Wacky Drop |
-| 1512 | 65 | October Fitch |
-| 1513 | 65 | Kandy Comer |
-| 1514 | 65 | Heather Klaus |
-| 1515 | 65 | JrsWife |
-| 1516 | 65 | GentleGiant Brackett |
-| 1517 | 65 | Dandy Wiper |
+| 1492 | 68 | Dandy Wiper |
+| 1493 | 68 | Angie Barlow |
+| 1494 | 68 | Viola Fletcher |
+| 1495 | 68 | Samantha Lewis |
+| 1496 | 68 | April Appleton |
+| 1497 | 68 | Cheery Blast |
+| 1498 | 68 | Jara Zavala |
+| 1499 | 67 | Zippy Blockmatch |
+| 1500 | 67 | LK |
+| 1501 | 67 | Happy Curvebuilder |
+| 1502 | 67 | Alexis Meyers |
+| 1503 | 66 | David Cadiente |
+| 1504 | 66 | Jenna Thorn |
+| 1505 | 66 | Erica Abreu |
+| 1506 | 66 | Ali |
+| 1507 | 66 | Bunny Bt |
+| 1508 | 66 | Catherine Whitt Gaddy |
+| 1509 | 66 | Justin Pennington |
+| 1510 | 66 | Brittany Russell |
+| 1511 | 65 | Julie Lint |
+| 1512 | 65 | Wacky Drop |
+| 1513 | 65 | October Fitch |
+| 1514 | 65 | Kandy Comer |
+| 1515 | 65 | Heather Klaus |
+| 1516 | 65 | JrsWife |
+| 1517 | 65 | GentleGiant Brackett |
 | 1518 | 65 | Auntie YaYa |
 | 1519 | 65 | nogo |
 | 1520 | 65 | bigdog |
