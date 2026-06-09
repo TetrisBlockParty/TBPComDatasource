@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 08:04:45 UTC
+# Standings for team4 as of 2026-06-09 08:05:22 UTC
 
 **Total Participants:** 2085
 
@@ -54,8 +54,8 @@
 | 46 | 2800 | Annastaissia Todd |
 | 47 | 2689 | Blind Bette |
 | 48 | 2547 | 626 |
-| 49 | 2433 | Alexandria Frazier |
-| 50 | 2404 | Wendy Zentz |
+| 49 | 2445 | Wendy Zentz |
+| 50 | 2433 | Alexandria Frazier |
 | 51 | 2398 | Carly Stempien |
 | 52 | 2340 | Kathy Brookins |
 | 53 | 2131 | Michele Walker |
@@ -145,8 +145,8 @@
 | 137 | 800 | Nicole Peoples |
 | 138 | 792 | Lori Stembridge |
 | 139 | 789 | vag1974 |
-| 140 | 785 | Jazzy Gridder |
-| 141 | 778 | Gorica Prusina |
+| 140 | 787 | Gorica Prusina |
+| 141 | 785 | Jazzy Gridder |
 | 142 | 775 | Jason Garnatz |
 | 143 | 773 | Regina Williams |
 | 144 | 770 | Misty Leigh |
@@ -223,7 +223,7 @@
 | 215 | 495 | Baysoph |
 | 216 | 494 | Yesenia Castro Monreal |
 | 217 | 492 | Snippy Splitter |
-| 218 | 490 | Maria Castillo |
+| 218 | 491 | Maria Castillo |
 | 219 | 490 | Stephanie Myers |
 | 220 | 489 | Hen |
 | 221 | 487 | Plucky Shatterfit |
@@ -472,52 +472,52 @@
 | 464 | 240 | Alice Eisnor-Martens |
 | 465 | 240 | Giddy Basepiece |
 | 466 | 238 | Holly Bramel |
-| 467 | 238 | JIGsaw ~(•¿°)~ |
-| 468 | 238 | Jessica Jones Bolton |
+| 467 | 238 | Jessica Jones Bolton |
+| 468 | 238 | JIGsaw ~(•¿°)~ |
 | 469 | 238 | EpicWizard |
 | 470 | 238 | Tara Delay Hill |
 | 471 | 237 | Swanky Snapgrid |
-| 472 | 236 | Cecilia Hicks |
-| 473 | 236 | Tasha Suzanne Prisbrey |
-| 474 | 236 | Susan Stofberg Beltran |
+| 472 | 236 | Tasha Suzanne Prisbrey |
+| 473 | 236 | Susan Stofberg Beltran |
+| 474 | 236 | Cecilia Hicks |
 | 475 | 236 | Alyson M Kehler |
 | 476 | 235 | Snazzy Fitclear |
 | 477 | 235 | Kaps |
 | 478 | 234 | luluraine |
 | 479 | 234 | Lul Babie |
-| 480 | 233 | Dandy Cascade |
+| 480 | 233 | Joe Richard |
 | 481 | 233 | Frothy Pattern |
-| 482 | 233 | Azahares Alonso |
-| 483 | 233 | Karen Small |
-| 484 | 233 | Joe Richard |
+| 482 | 233 | Dandy Cascade |
+| 483 | 233 | Azahares Alonso |
+| 484 | 233 | Karen Small |
 | 485 | 232 | Matthew Hudson |
 | 486 | 232 | Carla Woodard |
-| 487 | 232 | Giggly Column |
-| 488 | 232 | Elli Wright |
-| 489 | 231 | Cindy |
-| 490 | 231 | Lora Schallert |
-| 491 | 229 | Marcus Chavis |
-| 492 | 229 | Lupe Chapa |
-| 493 | 229 | Melika Zeheb |
-| 494 | 228 | Happy Strikerpiece |
+| 487 | 232 | REPENT |
+| 488 | 232 | Giggly Column |
+| 489 | 232 | Elli Wright |
+| 490 | 231 | Cindy |
+| 491 | 231 | Lora Schallert |
+| 492 | 229 | Marcus Chavis |
+| 493 | 229 | Lupe Chapa |
+| 494 | 229 | Melika Zeheb |
 | 495 | 228 | Henry Lanier |
-| 496 | 227 | Garden Girlie |
-| 497 | 226 | Karen Miller |
-| 498 | 226 | Buddyblock |
-| 499 | 225 | Deborah Ayliffe |
+| 496 | 228 | Happy Strikerpiece |
+| 497 | 227 | Garden Girlie |
+| 498 | 226 | Karen Miller |
+| 499 | 226 | Buddyblock |
 | 500 | 225 | Brandy Lynn |
-| 501 | 224 | KrisTina2007 |
-| 502 | 224 | Loopy Clusterline |
+| 501 | 225 | Deborah Ayliffe |
+| 502 | 224 | KrisTina2007 |
 | 503 | 224 | Big Dooka |
-| 504 | 224 | REPENT |
+| 504 | 224 | Loopy Clusterline |
 | 505 | 223 | Playa |
-| 506 | 222 | Jennifer Fisher Franklin |
-| 507 | 222 | Cheeky Fallzone |
+| 506 | 222 | Cheeky Fallzone |
+| 507 | 222 | Jennifer Fisher Franklin |
 | 508 | 222 | Casey Thomas |
 | 509 | 220 | Jimmy Clark |
-| 510 | 220 | Goofy Linkmatch |
+| 510 | 220 | Mrs |
 | 511 | 220 | Groovy Cluster |
-| 512 | 220 | Mrs |
+| 512 | 220 | Goofy Linkmatch |
 | 513 | 219 | Miss Beast |
 | 514 | 219 | JoAnn Summerlot Ratliff |
 | 515 | 218 | Montes Ash |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 08:04:45 UTC
+# Standings for team1 as of 2026-06-09 08:05:22 UTC
 
 **Total Participants:** 2016
 
@@ -754,32 +754,32 @@
 | 746 | 144 | Dapper Matchfit |
 | 747 | 144 | Batty B |
 | 748 | 144 | Cm |
-| 749 | 142 | Shawn Himes |
-| 750 | 142 | Jasmine Hariston-Estis |
-| 751 | 142 | Boricua64 |
+| 749 | 143 | Ameillia Boughner |
+| 750 | 142 | Shawn Himes |
+| 751 | 142 | Jasmine Hariston-Estis |
 | 752 | 142 | Mary Goode |
-| 753 | 141 | Kim Holzmiller |
-| 754 | 141 | Lively Wipeout |
-| 755 | 141 | Shalena Marie Humphrey |
-| 756 | 141 | Krystal Maynard |
-| 757 | 141 | Angela Kitchens |
-| 758 | 141 | Coco |
-| 759 | 140 | Marbama |
-| 760 | 140 | Biggestboss Ransom |
-| 761 | 140 | Tory Miller |
+| 753 | 142 | Boricua64 |
+| 754 | 141 | Kim Holzmiller |
+| 755 | 141 | Lively Wipeout |
+| 756 | 141 | Shalena Marie Humphrey |
+| 757 | 141 | Krystal Maynard |
+| 758 | 141 | Angela Kitchens |
+| 759 | 141 | Coco |
+| 760 | 140 | Marbama |
+| 761 | 140 | Biggestboss Ransom |
 | 762 | 140 | Stanley Dixon |
 | 763 | 140 | TBabii24 |
 | 764 | 140 | Victoria Smith |
 | 765 | 140 | Marcello Rush |
-| 766 | 140 | Cameo Tweed |
-| 767 | 140 | LAdYPOLy |
-| 768 | 140 | Kennedi Brazziel |
-| 769 | 140 | Shadon McMillan |
-| 770 | 140 | Christina Singleton |
-| 771 | 139 | Naee Bee |
-| 772 | 139 | Sunny Clicky |
-| 773 | 139 | Lexx Robins |
-| 774 | 139 | Ameillia Boughner |
+| 766 | 140 | Tory Miller |
+| 767 | 140 | Cameo Tweed |
+| 768 | 140 | LAdYPOLy |
+| 769 | 140 | Kennedi Brazziel |
+| 770 | 140 | Shadon McMillan |
+| 771 | 140 | Christina Singleton |
+| 772 | 139 | Naee Bee |
+| 773 | 139 | Sunny Clicky |
+| 774 | 139 | Lexx Robins |
 | 775 | 139 | Rochelle Nash-Evans |
 | 776 | 139 | Kike Lua |
 | 777 | 139 | Antoinette Kelly |

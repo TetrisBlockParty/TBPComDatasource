@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:04:45 UTC
+# Standings for team2 as of 2026-06-09 08:05:22 UTC
 
 **Total Participants:** 2444
 
@@ -239,8 +239,8 @@
 | 231 | 577 | Lindsay Klemp |
 | 232 | 576 | Mookshake |
 | 233 | 576 | Breeana Bennett |
-| 234 | 574 | Brandy McCune Reep |
-| 235 | 574 | meg |
+| 234 | 574 | meg |
+| 235 | 574 | Brandy McCune Reep |
 | 236 | 573 | Jennifer Smith |
 | 237 | 573 | Chirpy Grid |
 | 238 | 572 | Vistabrat |
@@ -280,8 +280,8 @@
 | 272 | 516 | Charles E Mccardell |
 | 273 | 516 | Frilly Dashfit |
 | 274 | 514 | Kaycie Shaffer |
-| 275 | 510 | Nicole Plummer |
-| 276 | 510 | Samantha Carman |
+| 275 | 510 | Samantha Carman |
+| 276 | 510 | Nicole Plummer |
 | 277 | 508 | Dawnypooh |
 | 278 | 508 | Tara |
 | 279 | 507 | SilentBuffalo |
@@ -334,8 +334,8 @@
 | 326 | 415 | Jason Cunningham |
 | 327 | 415 | Talyn Domingues |
 | 328 | 413 | Larry Cross |
-| 329 | 413 | Travis Bundrum |
-| 330 | 413 | Earline Dupuy Bordelon |
+| 329 | 413 | Earline Dupuy Bordelon |
+| 330 | 413 | Travis Bundrum |
 | 331 | 412 | Greta Warden |
 | 332 | 412 | Boldy Fitclear |
 | 333 | 408 | Cheery Tilefall |
@@ -345,9 +345,9 @@
 | 337 | 400 | Jamin |
 | 338 | 400 | Shannon Wilson |
 | 339 | 400 | Melissa Clogher White |
-| 340 | 400 | Patricia Carroll |
-| 341 | 400 | Adriana Daniela Agapie |
-| 342 | 400 | Sarah Rodriguez |
+| 340 | 400 | Sarah Rodriguez |
+| 341 | 400 | Patricia Carroll |
+| 342 | 400 | Adriana Daniela Agapie |
 | 343 | 399 | Jeffrey Smith |
 | 344 | 398 | Heather Burgett |
 | 345 | 397 | Carlos J Blas |
@@ -404,8 +404,8 @@
 | 396 | 345 | Skye Ehret |
 | 397 | 344 | Denise Morehart |
 | 398 | 344 | Monica Gonzalez Rios |
-| 399 | 343 | ShiverMeSplinter |
-| 400 | 343 | Duke Morley |
+| 399 | 343 | Duke Morley |
+| 400 | 343 | ShiverMeSplinter |
 | 401 | 343 | Paula Haskins |
 | 402 | 343 | Curly Windbreaker |
 | 403 | 341 | Amy Nicole McCanne |
@@ -508,8 +508,8 @@
 | 500 | 277 | Jennifer McClure |
 | 501 | 276 | Ssirkus |
 | 502 | 276 | Carol Whited Loza |
-| 503 | 276 | Mrs biotch |
-| 504 | 276 | Smiley Staggerpiece |
+| 503 | 276 | Smiley Staggerpiece |
+| 504 | 276 | Mrs biotch |
 | 505 | 276 | Patrick Ohanlon |
 | 506 | 275 | Eric Wayne Maschman |
 | 507 | 272 | Donutz |
@@ -558,8 +558,8 @@
 | 550 | 246 | Holly Huval |
 | 551 | 246 | Justin Stark |
 | 552 | 245 | David Skelton |
-| 553 | 245 | Crystal Camden Suarez |
-| 554 | 245 | Spencer Ryder |
+| 553 | 245 | Spencer Ryder |
+| 554 | 245 | Crystal Camden Suarez |
 | 555 | 244 | Speedy Spinfit |
 | 556 | 243 | Nicole Ashbaugh |
 | 557 | 242 | Gluten Gremlin |
@@ -577,14 +577,14 @@
 | 569 | 240 | rageking |
 | 570 | 239 | Candi Cane |
 | 571 | 239 | Stella |
-| 572 | 239 | Jessica Melendy |
-| 573 | 239 | Will Jones |
+| 572 | 239 | Will Jones |
+| 573 | 239 | Jessica Melendy |
 | 574 | 238 | Michele Rogers |
 | 575 | 237 | Rydin Dirt |
 | 576 | 237 | Renee Siems |
 | 577 | 237 | Shellie Kioutas |
-| 578 | 236 | Errkuh |
-| 579 | 236 | Joanne Fish |
+| 578 | 236 | Joanne Fish |
+| 579 | 236 | Errkuh |
 | 580 | 236 | Lush Party |
 | 581 | 236 | NickandJess Reynolds |
 | 582 | 235 | Melissa Pronovost |
@@ -594,41 +594,41 @@
 | 586 | 232 | Sandy Rundel Holderman |
 | 587 | 232 | Rescuegirl76 |
 | 588 | 231 | Camilo Moreno |
-| 589 | 230 | Wendy Mcbride |
-| 590 | 229 | Tracy Lee |
-| 591 | 229 | Shawn Jensen |
-| 592 | 228 | Christy Diane Escobar |
-| 593 | 228 | Nicky Steigerwalt |
-| 594 | 228 | Gina Louise Parker |
-| 595 | 227 | Jennifer Leigh |
-| 596 | 227 | Epic Tilemaker |
-| 597 | 227 | Laura Melton |
-| 598 | 227 | Alonzo Reed |
-| 599 | 227 | Jamie Adams |
-| 600 | 226 | Jodi Johnson |
-| 601 | 226 | Raymond Dawson |
-| 602 | 226 | Ava Speedy |
-| 603 | 225 | Zany Wrecker |
-| 604 | 225 | Cheery Towerzone |
-| 605 | 225 | Katelyn Rodgers |
-| 606 | 225 | Kelly Bormann |
-| 607 | 224 | Carrie Smith Negron |
-| 608 | 224 | Mary Whitaker |
-| 609 | 222 | Marilyn Strickland |
-| 610 | 222 | Darla Ragsdale |
-| 611 | 222 | Stacy Shaunce |
-| 612 | 221 | Kendra Sizemore |
-| 613 | 221 | Dhelsie Qurasima |
-| 614 | 221 | Reign Hustler |
-| 615 | 220 | Brian Favre |
-| 616 | 220 | Saucy Wrecker |
-| 617 | 220 | Joannah Capilitan |
-| 618 | 220 | Wendy McKee |
-| 619 | 220 | Krystle L Coon |
-| 620 | 220 | Carrie Hayes Lankford |
+| 589 | 230 | Hannah Meadows Hammond |
+| 590 | 230 | Wendy Mcbride |
+| 591 | 229 | Tracy Lee |
+| 592 | 229 | Shawn Jensen |
+| 593 | 228 | Christy Diane Escobar |
+| 594 | 228 | Nicky Steigerwalt |
+| 595 | 228 | Gina Louise Parker |
+| 596 | 227 | Jennifer Leigh |
+| 597 | 227 | Epic Tilemaker |
+| 598 | 227 | Laura Melton |
+| 599 | 227 | Alonzo Reed |
+| 600 | 227 | Jamie Adams |
+| 601 | 226 | Jodi Johnson |
+| 602 | 226 | Raymond Dawson |
+| 603 | 226 | Ava Speedy |
+| 604 | 225 | Zany Wrecker |
+| 605 | 225 | Cheery Towerzone |
+| 606 | 225 | Katelyn Rodgers |
+| 607 | 225 | Kelly Bormann |
+| 608 | 224 | Carrie Smith Negron |
+| 609 | 224 | Mary Whitaker |
+| 610 | 222 | Marilyn Strickland |
+| 611 | 222 | Darla Ragsdale |
+| 612 | 222 | Stacy Shaunce |
+| 613 | 221 | Kendra Sizemore |
+| 614 | 221 | Dhelsie Qurasima |
+| 615 | 221 | Reign Hustler |
+| 616 | 220 | Brian Favre |
+| 617 | 220 | Saucy Wrecker |
+| 618 | 220 | Joannah Capilitan |
+| 619 | 220 | Wendy McKee |
+| 620 | 220 | Alycia Marie Zelensky |
 | 621 | 220 | Chris Christ |
-| 622 | 220 | Alycia Marie Zelensky |
-| 623 | 220 | Hannah Meadows Hammond |
+| 622 | 220 | Carrie Hayes Lankford |
+| 623 | 220 | Krystle L Coon |
 | 624 | 219 | Cindy Brown |
 | 625 | 219 | Rick |
 | 626 | 219 | Perky Linebuilder |
@@ -662,19 +662,19 @@
 | 654 | 208 | Susie Conger |
 | 655 | 208 | Jennifer Wymer |
 | 656 | 208 | Giddy Climber |
-| 657 | 207 | Andrea Rawson |
-| 658 | 207 | Laurie |
+| 657 | 207 | Laurie |
+| 658 | 207 | Andrea Rawson |
 | 659 | 207 | WhitS |
 | 660 | 207 | Bonita Alexander |
 | 661 | 206 | rebel4lyfe |
 | 662 | 206 | Amber Carpenter |
 | 663 | 205 | Tamara Whiteley |
-| 664 | 205 | Twisty Tower |
-| 665 | 205 | Connie Marie Cornell Lerma |
+| 664 | 205 | Connie Marie Cornell Lerma |
+| 665 | 205 | Twisty Tower |
 | 666 | 204 | Charlotte Castelli |
-| 667 | 203 | Sherri Caillet Aucoin |
+| 667 | 203 | Amber Marie |
 | 668 | 203 | Churube Finwoiisopw |
-| 669 | 203 | Amber Marie |
+| 669 | 203 | Sherri Caillet Aucoin |
 | 670 | 203 | Heather Billodeau |
 | 671 | 203 | Violet Olivares |
 | 672 | 202 | Kati Eckstein |
@@ -687,8 +687,8 @@
 | 679 | 201 | Mary Carriere |
 | 680 | 201 | Belle |
 | 681 | 200 | Coleen Yoder |
-| 682 | 200 | Leighla Davis |
-| 683 | 200 | Clever Fallmatch |
+| 682 | 200 | Clever Fallmatch |
+| 683 | 200 | Leighla Davis |
 | 684 | 200 | Karen Mueller |
 | 685 | 199 | Michael Anthony Anstead |
 | 686 | 199 | Cranky Basepiece |
@@ -713,8 +713,8 @@
 | 705 | 193 | Ginger Nesbitt |
 | 706 | 193 | Cortney Coleman |
 | 707 | 192 | Spicy Balanceblock |
-| 708 | 192 | Dame Smith |
-| 709 | 192 | Coleta Singleton-Gallishaw |
+| 708 | 192 | Coleta Singleton-Gallishaw |
+| 709 | 192 | Dame Smith |
 | 710 | 191 | Jami Borges |
 | 711 | 191 | Melissa Willson |
 | 712 | 191 | Nano. |
@@ -763,8 +763,8 @@
 | 755 | 179 | Zaniya Brown |
 | 756 | 179 | Mandeee |
 | 757 | 179 | Dandy Tiltgrid |
-| 758 | 179 | Crafty Liner |
-| 759 | 179 | Jennifer Augustine |
+| 758 | 179 | Jennifer Augustine |
+| 759 | 179 | Crafty Liner |
 | 760 | 178 | Dayna Messer-Thelen |
 | 761 | 178 | Twisty Matchfit |
 | 762 | 178 | Rocroc mo |
@@ -774,8 +774,8 @@
 | 766 | 177 | Sara BlueEyes |
 | 767 | 176 | Tracey Cox |
 | 768 | 176 | Tina Carr |
-| 769 | 176 | Sara Moericke |
-| 770 | 176 | Perky Rollfit |
+| 769 | 176 | Perky Rollfit |
+| 770 | 176 | Sara Moericke |
 | 771 | 175 | Distro |
 | 772 | 175 | Nicole Sides KrazyKoop |
 | 773 | 175 | Frisky Linkbuilder |
@@ -787,18 +787,18 @@
 | 779 | 174 | Nova |
 | 780 | 174 | Nichole Fuller |
 | 781 | 174 | Jasmine Goggans |
-| 782 | 173 | Tami Weiss |
-| 783 | 173 | Jessica Garoutte |
+| 782 | 173 | Jessica Garoutte |
+| 783 | 173 | Tami Weiss |
 | 784 | 173 | Groovy Glider |
 | 785 | 173 | Cherica Taylor |
 | 786 | 173 | Chirpy Combofall |
 | 787 | 172 | Frothy Roll |
 | 788 | 172 | Wacky Holder |
 | 789 | 172 | Tito Garcia |
-| 790 | 172 | Danita Moon |
-| 791 | 172 | Rmk |
-| 792 | 171 | Morgan Olson Pingree |
-| 793 | 171 | Mary Stump |
+| 790 | 172 | Rmk |
+| 791 | 172 | Danita Moon |
+| 792 | 171 | Mary Stump |
+| 793 | 171 | Morgan Olson Pingree |
 | 794 | 170 | Happy Shatterblock |
 | 795 | 170 | Ashley Jones |
 | 796 | 169 | Destiny Turner |
