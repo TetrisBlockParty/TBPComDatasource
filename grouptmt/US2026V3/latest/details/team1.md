@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:24:43 UTC
+# Standings for team1 as of 2026-06-09 12:25:21 UTC
 
 **Total Participants:** 2040
 
@@ -328,39 +328,39 @@
 | 320 | 371 | 大竹直之 |
 | 321 | 370 | Allison Baxter |
 | 322 | 368 | Brand Nu |
-| 323 | 368 | Cortaz Lawrie |
-| 324 | 367 | Still Ten Tay |
-| 325 | 367 | Smiley3000 |
-| 326 | 367 | Jayjay Rich |
-| 327 | 364 | Michele Simpson |
-| 328 | 363 | Richard Flex |
-| 329 | 363 | Christina Rebecca |
-| 330 | 362 | Mikayla |
-| 331 | 361 | Jawaun Daniels |
-| 332 | 361 | John Staub |
-| 333 | 361 | Lakiesha Crawford |
+| 323 | 368 | Mikayla |
+| 324 | 368 | Cortaz Lawrie |
+| 325 | 367 | Still Ten Tay |
+| 326 | 367 | Smiley3000 |
+| 327 | 367 | Jayjay Rich |
+| 328 | 364 | Michele Simpson |
+| 329 | 363 | Richard Flex |
+| 330 | 363 | Christina Rebecca |
+| 331 | 361 | John Staub |
+| 332 | 361 | Lakiesha Crawford |
+| 333 | 361 | Jawaun Daniels |
 | 334 | 360 | Giggy Edgefit |
 | 335 | 358 | Analiza Ramos |
 | 336 | 357 | Giggly Tiltbuilder |
 | 337 | 356 | Haley Bell |
 | 338 | 355 | Tajuana Juana'Cee Coleman |
 | 339 | 353 | Bbyunicorn |
-| 340 | 352 | Ann Chung |
-| 341 | 352 | Brave Clearbuilder |
+| 340 | 352 | Brave Clearbuilder |
+| 341 | 352 | Ann Chung |
 | 342 | 350 | Ashley MyBeauty Daniels |
 | 343 | 349 | Sade Goodwine |
 | 344 | 348 | Dennis J Herron II |
 | 345 | 347 | Erin Sabol |
 | 346 | 344 | Andy Rivera |
-| 347 | 343 | MamushiOh |
+| 347 | 343 | izzybella |
 | 348 | 343 | Heather Aurelia |
-| 349 | 343 | izzybella |
+| 349 | 343 | MamushiOh |
 | 350 | 340 | Christian Pham |
 | 351 | 340 | Jean Regis |
 | 352 | 340 | Tipsy Linkroll |
-| 353 | 337 | HarleyJane |
-| 354 | 337 | Desire Rice |
-| 355 | 337 | Brenda Malachi-butler |
+| 353 | 337 | Desire Rice |
+| 354 | 337 | Brenda Malachi-butler |
+| 355 | 337 | HarleyJane |
 | 356 | 336 | Skippy |
 | 357 | 332 | MindlessMic |
 | 358 | 330 | Crystal Boyd |
@@ -374,12 +374,12 @@
 | 366 | 318 | Nerdy Snapfall |
 | 367 | 317 | Poppy Buildout |
 | 368 | 316 | Peppy Towerbuilder |
-| 369 | 315 | Amy Lynn Leifheit |
-| 370 | 315 | Jae Thompson-Tyus |
-| 371 | 315 | KeeKee Williams |
-| 372 | 314 | Tonya McElroy |
+| 369 | 315 | Jae Thompson-Tyus |
+| 370 | 315 | KeeKee Williams |
+| 371 | 315 | Amy Lynn Leifheit |
+| 372 | 314 | Tay |
 | 373 | 314 | Chilly Wipebuilder |
-| 374 | 314 | Tay |
+| 374 | 314 | Tonya McElroy |
 | 375 | 314 | Rayya Kiser |
 | 376 | 313 | Dizzy Dashy |
 | 377 | 312 | Shanns |
@@ -472,7 +472,7 @@
 | 464 | 254 | Brittany Sara Heldwein |
 | 465 | 254 | Glitzy Patternline |
 | 466 | 253 | Tasha |
-| 467 | 250 | Abigail Newman Sweet |
+| 467 | 251 | Abigail Newman Sweet |
 | 468 | 249 | Nate Myers |
 | 469 | 249 | Fina McKinnis |
 | 470 | 249 | Yadira Salgado |
@@ -1036,29 +1036,29 @@
 | 1028 | 97 | Teisha Scott |
 | 1029 | 97 | Kanesha Jackson |
 | 1030 | 97 | Elaine Youmans |
-| 1031 | 97 | Erica Campbell-Stillings |
+| 1031 | 97 | DoMinique Lee |
 | 1032 | 97 | Alize |
-| 1033 | 96 | b |
-| 1034 | 96 | Jerome Lewis |
-| 1035 | 96 | Lazy Chiseler |
-| 1036 | 96 | Just2Play$ |
-| 1037 | 96 | Margretta Henry |
-| 1038 | 96 | Parris Wright |
-| 1039 | 96 | Sonia Binti Mfalme |
-| 1040 | 96 | Giggly Shatterline |
-| 1041 | 96 | Boldy Pivoty |
-| 1042 | 96 | Danny M GR |
+| 1033 | 97 | Erica Campbell-Stillings |
+| 1034 | 96 | b |
+| 1035 | 96 | Jerome Lewis |
+| 1036 | 96 | Lazy Chiseler |
+| 1037 | 96 | Just2Play$ |
+| 1038 | 96 | Margretta Henry |
+| 1039 | 96 | Parris Wright |
+| 1040 | 96 | Sonia Binti Mfalme |
+| 1041 | 96 | Giggly Shatterline |
+| 1042 | 96 | Boldy Pivoty |
 | 1043 | 96 | Yazz |
-| 1044 | 96 | Tammy Collins |
-| 1045 | 96 | Lively Strikesnap |
-| 1046 | 95 | Big Bovice |
-| 1047 | 95 | Spunky Strikerbuilder |
-| 1048 | 95 | Abdul Malik |
+| 1044 | 96 | Danny M GR |
+| 1045 | 96 | Tammy Collins |
+| 1046 | 96 | Lively Strikesnap |
+| 1047 | 95 | Big Bovice |
+| 1048 | 95 | Spunky Strikerbuilder |
 | 1049 | 95 | Teresa Bean |
-| 1050 | 94 | Sha Anderson |
-| 1051 | 94 | Elizabeth Clara |
-| 1052 | 94 | Cortrell Foster |
-| 1053 | 94 | DoMinique Lee |
+| 1050 | 95 | Abdul Malik |
+| 1051 | 94 | Sha Anderson |
+| 1052 | 94 | Elizabeth Clara |
+| 1053 | 94 | Cortrell Foster |
 | 1054 | 93 | Brandi M. Boney |
 | 1055 | 93 | Hoppy Rumbler |
 | 1056 | 92 | 1ofaking |
@@ -1707,11 +1707,11 @@
 | 1699 | 23 | Nika TaurustotheBone Turner |
 | 1700 | 23 | Tranica Sterling |
 | 1701 | 23 | Jamie Lea Popp |
-| 1702 | 22 | Jazzy Drop |
-| 1703 | 22 | Mary M Craven |
-| 1704 | 22 | Alexis Farquer |
-| 1705 | 22 | Jhinarra Walker |
-| 1706 | 22 | Cee CRaze Perry Sr. |
+| 1702 | 23 | Cee CRaze Perry Sr. |
+| 1703 | 22 | Jazzy Drop |
+| 1704 | 22 | Mary M Craven |
+| 1705 | 22 | Alexis Farquer |
+| 1706 | 22 | Jhinarra Walker |
 | 1707 | 22 | Queen Baby 5 |
 | 1708 | 22 | ShayePooh |
 | 1709 | 22 | Chipper Smasher |
