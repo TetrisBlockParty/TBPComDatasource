@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 20:12:43 UTC
+# Standings for team1 as of 2026-06-09 20:13:21 UTC
 
 **Total Participants:** 2108
 
@@ -101,17 +101,17 @@
 | 93 | 1274 | Voice |
 | 94 | 1256 | BYM4L |
 | 95 | 1248 | Jason Mungin |
-| 96 | 1217 | Dynah Gordon |
-| 97 | 1217 | Catara Renae Oliver |
-| 98 | 1216 | Tiana Moore |
-| 99 | 1210 | FallDee |
-| 100 | 1208 | Aviv Zehavi |
-| 101 | 1186 | Kimberly Hernandez |
-| 102 | 1170 | Jonathan Vee Jay |
-| 103 | 1169 | Amalie Newvine |
-| 104 | 1164 | Tootsie Pop |
-| 105 | 1160 | KenpachisGirl |
-| 106 | 1155 | Chill Clusterer |
+| 96 | 1235 | Chill Clusterer |
+| 97 | 1217 | Dynah Gordon |
+| 98 | 1217 | Catara Renae Oliver |
+| 99 | 1216 | Tiana Moore |
+| 100 | 1210 | FallDee |
+| 101 | 1208 | Aviv Zehavi |
+| 102 | 1189 | Kimberly Hernandez |
+| 103 | 1170 | Jonathan Vee Jay |
+| 104 | 1169 | Amalie Newvine |
+| 105 | 1164 | Tootsie Pop |
+| 106 | 1160 | KenpachisGirl |
 | 107 | 1149 | Jazzy Dashpiece |
 | 108 | 1145 | Robbie Cheeseman |
 | 109 | 1145 | ELM |
@@ -132,14 +132,14 @@
 | 124 | 977 | Jeffrey Barrows |
 | 125 | 971 | Cece Fowler |
 | 126 | 968 | Jaida De'Anne Cox |
-| 127 | 966 | Murg4dr01d |
-| 128 | 966 | Sharon Cail |
+| 127 | 966 | Sharon Cail |
+| 128 | 966 | Murg4dr01d |
 | 129 | 956 | Plucky Slamdrop |
 | 130 | 946 | Lesley Brunkus Cianfaglione |
 | 131 | 923 | Slim Shedidthat |
 | 132 | 908 | Danielle Barthelme |
-| 133 | 907 | Jimmie Makia |
-| 134 | 907 | Kellie Hall |
+| 133 | 907 | Kellie Hall |
+| 134 | 907 | Jimmie Makia |
 | 135 | 898 | Eartha Brown |
 | 136 | 897 | Carolynne Walker-Bell |
 | 137 | 896 | Alana Renee |
@@ -517,31 +517,31 @@
 | 509 | 259 | Slinky Clearzone |
 | 510 | 259 | Mighty Dropper |
 | 511 | 258 | Breezy Catcher |
-| 512 | 257 | Sarah Steckbauer |
+| 512 | 257 | Abigail Newman Sweet |
 | 513 | 257 | Adrian Harris |
-| 514 | 257 | Twisty Brickfit |
-| 515 | 256 | Dreamzzz |
-| 516 | 256 | Jessie N Michael Silvers |
+| 514 | 257 | Sarah Steckbauer |
+| 515 | 257 | Twisty Brickfit |
+| 516 | 256 | Dreamzzz |
 | 517 | 256 | Jack Vlasak |
-| 518 | 255 | Mister Reid |
-| 519 | 255 | Michelle Peters |
+| 518 | 256 | Jessie N Michael Silvers |
+| 519 | 255 | Mister Reid |
 | 520 | 255 | James Bryant II |
-| 521 | 254 | Brittany Sara Heldwein |
-| 522 | 253 | Kristie |
+| 521 | 255 | Michelle Peters |
+| 522 | 254 | Brittany Sara Heldwein |
 | 523 | 253 | Monica Tovar |
-| 524 | 253 | Tasha |
-| 525 | 253 | Abigail Newman Sweet |
+| 524 | 253 | Kristie |
+| 525 | 253 | Tasha |
 | 526 | 253 | lizlizliz |
 | 527 | 252 | Kimberly Anderson |
-| 528 | 252 | Hardtohandle91 |
-| 529 | 252 | Mary Phillippi Blanton |
+| 528 | 252 | Mary Phillippi Blanton |
+| 529 | 252 | Hardtohandle91 |
 | 530 | 250 | Jen Hallin |
-| 531 | 249 | Ciera Peace |
-| 532 | 249 | Fina McKinnis |
+| 531 | 249 | Fina McKinnis |
+| 532 | 249 | Ciera Peace |
 | 533 | 248 | Melissa Olvera |
-| 534 | 247 | Mahagony Small |
-| 535 | 247 | SceneGreenz Wali |
-| 536 | 247 | Taz Ballard |
+| 534 | 247 | Taz Ballard |
+| 535 | 247 | Mahagony Small |
+| 536 | 247 | SceneGreenz Wali |
 | 537 | 246 | Kortney Adams |
 | 538 | 245 | ChunLi |
 | 539 | 244 | Casey Chapman |
@@ -553,16 +553,16 @@
 | 545 | 240 | SherylU |
 | 546 | 239 | Clint Mcdowell |
 | 547 | 239 | Guy Incognito |
-| 548 | 239 | Manda Allen |
-| 549 | 239 | Meshia |
-| 550 | 237 | Tanisha Taylor |
-| 551 | 237 | Cynthia Cruell |
-| 552 | 237 | Bold Clusterer |
+| 548 | 239 | Meshia |
+| 549 | 239 | Manda Allen |
+| 550 | 237 | Bold Clusterer |
+| 551 | 237 | Tanisha Taylor |
+| 552 | 237 | Cynthia Cruell |
 | 553 | 236 | Soubletzy |
-| 554 | 235 | Tracy Feyler |
-| 555 | 235 | Juan Lewis |
-| 556 | 235 | nameno |
-| 557 | 235 | Daring Blockclear |
+| 554 | 235 | Juan Lewis |
+| 555 | 235 | nameno |
+| 556 | 235 | Daring Blockclear |
+| 557 | 235 | Tracy Feyler |
 | 558 | 234 | Chris Nelson |
 | 559 | 233 | Holly Baker |
 | 560 | 233 | Kala Miller |
@@ -599,20 +599,20 @@
 | 591 | 222 | Coco |
 | 592 | 222 | Donna Payne |
 | 593 | 221 | Terri Smart |
-| 594 | 221 | Lucy |
-| 595 | 220 | Cori Cleland |
-| 596 | 220 | Carolyn Smith |
-| 597 | 220 | Douglas Price |
-| 598 | 219 | Daring Riserfit |
-| 599 | 218 | Carla |
-| 600 | 217 | Angela Brown Babin |
-| 601 | 217 | Travis Davison |
-| 602 | 217 | Clipzby |
-| 603 | 217 | Louise Parker |
-| 604 | 217 | Marlainia Boyd |
-| 605 | 216 | Lively Clusterline |
-| 606 | 216 | Aaron Hartmann |
-| 607 | 216 | Shakuria Cortia Burney |
+| 594 | 221 | Shakuria Cortia Burney |
+| 595 | 221 | Lucy |
+| 596 | 220 | Cori Cleland |
+| 597 | 220 | Carolyn Smith |
+| 598 | 220 | Douglas Price |
+| 599 | 219 | Daring Riserfit |
+| 600 | 218 | Carla |
+| 601 | 217 | Angela Brown Babin |
+| 602 | 217 | Travis Davison |
+| 603 | 217 | Clipzby |
+| 604 | 217 | Louise Parker |
+| 605 | 217 | Marlainia Boyd |
+| 606 | 216 | Lively Clusterline |
+| 607 | 216 | Aaron Hartmann |
 | 608 | 216 | Will |
 | 609 | 216 | Londa Londa |
 | 610 | 215 | GetDaOPPS |
@@ -765,15 +765,15 @@
 | 757 | 171 | Laysa Nunez |
 | 758 | 170 | Marissa Sweet |
 | 759 | 170 | Devron Reedy |
-| 760 | 169 | rb |
-| 761 | 169 | Sunny Clicky |
-| 762 | 169 | Dizzy Gridmatch |
-| 763 | 168 | brite |
-| 764 | 168 | Meeee |
-| 765 | 168 | QueenShay AllGood |
-| 766 | 168 | Lounique |
-| 767 | 168 | Pinky Pink |
-| 768 | 167 | Montego Allen |
+| 760 | 169 | Montego Allen |
+| 761 | 169 | rb |
+| 762 | 169 | Sunny Clicky |
+| 763 | 169 | Dizzy Gridmatch |
+| 764 | 168 | brite |
+| 765 | 168 | Meeee |
+| 766 | 168 | QueenShay AllGood |
+| 767 | 168 | Lounique |
+| 768 | 168 | Pinky Pink |
 | 769 | 167 | Joka NoTime ForHataz |
 | 770 | 166 | Lilly Brown |
 | 771 | 166 | Amaadi Ward |
@@ -817,17 +817,17 @@
 | 809 | 155 | Poppy Smasher |
 | 810 | 155 | Melissa Ramsey |
 | 811 | 155 | Yoellah Benyahmeen |
-| 812 | 154 | Glitzy Clusterer |
-| 813 | 154 | TRUBBLE45 |
-| 814 | 153 | Tina Bongcayao |
-| 815 | 152 | Wacky Stackbuilder |
-| 816 | 152 | Megan Jones |
-| 817 | 151 | Terrie |
-| 818 | 151 | KimChii |
-| 819 | 151 | Shanell Thomas |
-| 820 | 150 | Stronger Wiser Better |
-| 821 | 150 | DoMinique Lee |
-| 822 | 150 | Crystal Garay |
+| 812 | 155 | Crystal Garay |
+| 813 | 154 | Glitzy Clusterer |
+| 814 | 154 | TRUBBLE45 |
+| 815 | 153 | Tina Bongcayao |
+| 816 | 152 | Wacky Stackbuilder |
+| 817 | 152 | Megan Jones |
+| 818 | 151 | Terrie |
+| 819 | 151 | KimChii |
+| 820 | 151 | Shanell Thomas |
+| 821 | 150 | Stronger Wiser Better |
+| 822 | 150 | DoMinique Lee |
 | 823 | 150 | Kanary Karotz |
 | 824 | 150 | Marshall Davis |
 | 825 | 150 | Raquel Ortiz |
