@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 05:28:44 UTC
+# Standings for team1 as of 2026-06-09 05:29:22 UTC
 
 **Total Participants:** 1993
 
@@ -72,8 +72,8 @@
 | 64 | 1461 | Janet Cooke |
 | 65 | 1418 | Daylene Johannes |
 | 66 | 1411 | Blockhead |
-| 67 | 1388 | Jessica Roberts |
-| 68 | 1369 | Sanjuro |
+| 67 | 1388 | Sanjuro |
+| 68 | 1388 | Jessica Roberts |
 | 69 | 1359 | Uneekly Mayde |
 | 70 | 1344 | Chenell Gillard |
 | 71 | 1333 | Spicy Balancer |
@@ -146,16 +146,16 @@
 | 138 | 730 | ing410 |
 | 139 | 720 | Felicia Williams |
 | 140 | 716 | Plucky Slamdrop |
-| 141 | 708 | De'Laonzeo Anthony |
-| 142 | 705 | Shontanese Adams |
-| 143 | 703 | Lesley Brunkus Cianfaglione |
-| 144 | 702 | Chuck Quarles |
-| 145 | 694 | Anthony Washington |
-| 146 | 693 | Andi McGreevy |
-| 147 | 692 | Chirpy Corner |
-| 148 | 686 | W.A. Simpson |
-| 149 | 685 | Ebony Waynes-robinson |
-| 150 | 675 | Murg4dr01d |
+| 141 | 709 | Murg4dr01d |
+| 142 | 708 | De'Laonzeo Anthony |
+| 143 | 705 | Shontanese Adams |
+| 144 | 703 | Lesley Brunkus Cianfaglione |
+| 145 | 702 | Chuck Quarles |
+| 146 | 694 | Anthony Washington |
+| 147 | 693 | Andi McGreevy |
+| 148 | 692 | Chirpy Corner |
+| 149 | 686 | W.A. Simpson |
+| 150 | 685 | Ebony Waynes-robinson |
 | 151 | 671 | Gotcha |
 | 152 | 668 | JaszyBadd |
 | 153 | 664 | Chantelle Lee |
@@ -1801,10 +1801,10 @@
 | 1793 | 14 | Jazzy |
 | 1794 | 14 | Danielle Mariyh Toomer |
 | 1795 | 14 | Christopher Allan Petty II |
-| 1796 | 14 | Nerdy Curvetile |
-| 1797 | 14 | Barbiebunz |
-| 1798 | 14 | Dymond |
-| 1799 | 14 | Nena |
+| 1796 | 14 | Barbiebunz |
+| 1797 | 14 | Nerdy Curvetile |
+| 1798 | 14 | Nena |
+| 1799 | 14 | Dymond |
 | 1800 | 14 | Jennifer Levan |
 | 1801 | 14 | Keera425 |
 | 1802 | 14 | Carmen Claudio |
@@ -1819,9 +1819,9 @@
 | 1811 | 13 | Ashley Horne |
 | 1812 | 13 | random |
 | 1813 | 13 | Deanna Pinkard Harrington |
-| 1814 | 13 | Shiny Crusher |
-| 1815 | 13 | Schuyler Carson Jackson |
-| 1816 | 13 | Emma Adams |
+| 1814 | 13 | Emma Adams |
+| 1815 | 13 | Shiny Crusher |
+| 1816 | 13 | Schuyler Carson Jackson |
 | 1817 | 13 | Leah Ingram |
 | 1818 | 13 | Jolly Combo |
 | 1819 | 13 | Zesty Clearer |
@@ -1836,8 +1836,8 @@
 | 1828 | 12 | Gracee Hodge Kunze |
 | 1829 | 12 | Chantae Maxwell |
 | 1830 | 12 | Andrae Johnson |
-| 1831 | 12 | Sanchez Jackson |
-| 1832 | 12 | BigDawg Lessley |
+| 1831 | 12 | BigDawg Lessley |
+| 1832 | 12 | Sanchez Jackson |
 | 1833 | 12 | Plucky Twist |
 | 1834 | 12 | Penny Gayles |
 | 1835 | 12 | Outspoken Sirchristopher |
@@ -1849,99 +1849,99 @@
 | 1841 | 11 | KiJoCo |
 | 1842 | 11 | Alex Jacks |
 | 1843 | 11 | Daron White |
-| 1844 | 11 | pizzapie |
-| 1845 | 11 | Hasty Builder |
+| 1844 | 11 | Kallsign |
+| 1845 | 11 | pizzapie |
 | 1846 | 11 | Snappy Towerpiece |
-| 1847 | 11 | Patrick Taylor |
+| 1847 | 11 | Hasty Builder |
 | 1848 | 11 | Quirky Builderpiece |
-| 1849 | 11 | Yolanda Davis |
-| 1850 | 11 | Amber Laine |
-| 1851 | 11 | Susie Miranda |
-| 1852 | 11 | Groovy Climber |
-| 1853 | 11 | Bubbly Rollout |
+| 1849 | 11 | Bubbly Rollout |
+| 1850 | 11 | Marrie Calloway |
+| 1851 | 11 | Yolanda Davis |
+| 1852 | 11 | Kourt Short |
+| 1853 | 11 | Amber Laine |
 | 1854 | 11 | Jayson |
-| 1855 | 11 | Butta |
-| 1856 | 11 | Edward Croom |
-| 1857 | 11 | Marrie Calloway |
-| 1858 | 11 | Kourt Short |
-| 1859 | 10 | Ciera Spottedelk |
-| 1860 | 10 | Yvonne Aggers |
-| 1861 | 10 | kittykatt |
-| 1862 | 10 | Jamal D. Wiley |
-| 1863 | 10 | Tea |
-| 1864 | 10 | Andy Barnett |
-| 1865 | 10 | Upt |
-| 1866 | 10 | Truthful |
-| 1867 | 10 | Jackee Chee-Ming |
-| 1868 | 10 | Jonay Zuri |
-| 1869 | 10 | MizzRoyal Kells |
-| 1870 | 10 | Willard Junior |
-| 1871 | 10 | Pamela Morrow Jones |
-| 1872 | 10 | Stacy Holloway |
-| 1873 | 10 | Twisty Matchline |
-| 1874 | 10 | Mac Mane |
-| 1875 | 10 | Omar Dotray |
-| 1876 | 10 | Tamara Farmer |
-| 1877 | 10 | Latrice Smith |
-| 1878 | 10 | Steve Renelus |
+| 1855 | 11 | Groovy Climber |
+| 1856 | 11 | Butta |
+| 1857 | 11 | Patrick Taylor |
+| 1858 | 11 | Susie Miranda |
+| 1859 | 11 | Edward Croom |
+| 1860 | 10 | Upt |
+| 1861 | 10 | Jackee Chee-Ming |
+| 1862 | 10 | Pamela Morrow Jones |
+| 1863 | 10 | kittykatt |
+| 1864 | 10 | Stacy Holloway |
+| 1865 | 10 | Andy Barnett |
+| 1866 | 10 | Ciera Spottedelk |
+| 1867 | 10 | Yvonne Aggers |
+| 1868 | 10 | Jamal D. Wiley |
+| 1869 | 10 | Tea |
+| 1870 | 10 | MizzRoyal Kells |
+| 1871 | 10 | Antonia Pike |
+| 1872 | 10 | Tranica Sterling |
+| 1873 | 10 | Willard Junior |
+| 1874 | 10 | Kechie Johnson |
+| 1875 | 10 | Truthful |
+| 1876 | 10 | Kim Smith |
+| 1877 | 10 | Tamara Farmer |
+| 1878 | 10 | Omar Dotray |
 | 1879 | 10 | Scorpiogurl Cruz |
-| 1880 | 10 | Kechie Johnson |
-| 1881 | 10 | Ladii Libra |
-| 1882 | 10 | Crystal Segura |
-| 1883 | 10 | Shaye Williams |
-| 1884 | 10 | Kim Smith |
-| 1885 | 10 | Spicy Linkmatch |
-| 1886 | 10 | Love Tara |
-| 1887 | 10 | Antonia Pike |
-| 1888 | 10 | Key Gracia |
-| 1889 | 10 | Tranica Sterling |
-| 1890 | 9 | Beverly S. Robinson |
-| 1891 | 9 | Cee Jones |
-| 1892 | 9 | Tiara Hitchcock |
-| 1893 | 9 | Dennis Rhodes |
-| 1894 | 9 | Sheldon Grosso |
-| 1895 | 9 | Mars |
-| 1896 | 9 | Denise Batt Brown |
-| 1897 | 9 | Tasha Johnson |
-| 1898 | 9 | Sunny Cascader |
-| 1899 | 9 | John Lovato |
-| 1900 | 9 | Yester |
-| 1901 | 9 | Lia Covington |
-| 1902 | 9 | Trista Ramsey |
-| 1903 | 9 | Clifford Petroske |
-| 1904 | 9 | Nikki Jay |
-| 1905 | 9 | Groovy Twisterfit |
-| 1906 | 9 | Dana |
-| 1907 | 9 | Duckey |
-| 1908 | 9 | BigHawk |
-| 1909 | 9 | Jokkah Toomuch |
-| 1910 | 9 | Catelyn Neal |
-| 1911 | 9 | yoyoluv |
-| 1912 | 9 | ummm |
-| 1913 | 9 | Shell Poke |
-| 1914 | 8 | Groovy Riseclear |
-| 1915 | 8 | Rixo Blax |
+| 1880 | 10 | Spicy Linkmatch |
+| 1881 | 10 | Jonay Zuri |
+| 1882 | 10 | Steve Renelus |
+| 1883 | 10 | Mac Mane |
+| 1884 | 10 | Key Gracia |
+| 1885 | 10 | Crystal Segura |
+| 1886 | 10 | Ladii Libra |
+| 1887 | 10 | Shaye Williams |
+| 1888 | 10 | Love Tara |
+| 1889 | 10 | Twisty Matchline |
+| 1890 | 10 | Latrice Smith |
+| 1891 | 9 | Dennis Rhodes |
+| 1892 | 9 | Mars |
+| 1893 | 9 | Tiara Hitchcock |
+| 1894 | 9 | Sunny Cascader |
+| 1895 | 9 | Yester |
+| 1896 | 9 | Sheldon Grosso |
+| 1897 | 9 | Beverly S. Robinson |
+| 1898 | 9 | Clifford Petroske |
+| 1899 | 9 | Cee Jones |
+| 1900 | 9 | Tasha Johnson |
+| 1901 | 9 | John Lovato |
+| 1902 | 9 | BigHawk |
+| 1903 | 9 | Shell Poke |
+| 1904 | 9 | Trista Ramsey |
+| 1905 | 9 | Denise Batt Brown |
+| 1906 | 9 | Nikki Jay |
+| 1907 | 9 | Groovy Twisterfit |
+| 1908 | 9 | Duckey |
+| 1909 | 9 | Lia Covington |
+| 1910 | 9 | Jokkah Toomuch |
+| 1911 | 9 | Dana |
+| 1912 | 9 | Catelyn Neal |
+| 1913 | 9 | yoyoluv |
+| 1914 | 9 | ummm |
+| 1915 | 8 | Jädaa Laa'Destïnyy |
 | 1916 | 8 | Ferocity |
-| 1917 | 8 | Jädaa Laa'Destïnyy |
-| 1918 | 8 | Rose Clark |
-| 1919 | 8 | David Anthony |
-| 1920 | 8 | Chill Tumbler |
-| 1921 | 8 | Ebby |
-| 1922 | 8 | Almarasha Grice |
-| 1923 | 8 | Jeremiah Coffey Sr. |
-| 1924 | 8 | Clever Matchpiece |
-| 1925 | 8 | Andrew James |
-| 1926 | 8 | Frothy Matchpiece |
-| 1927 | 8 | Elizabeth Castro |
-| 1928 | 8 | jus_ry |
-| 1929 | 8 | Abhay Raj |
-| 1930 | 7 | Snippy Balance |
-| 1931 | 7 | Queen |
-| 1932 | 7 | Jazzy |
-| 1933 | 7 | bri |
-| 1934 | 7 | Shenikka Townsend |
-| 1935 | 7 | Beverly Kaday |
-| 1936 | 7 | Kallsign |
+| 1917 | 8 | Groovy Riseclear |
+| 1918 | 8 | Rixo Blax |
+| 1919 | 8 | Rose Clark |
+| 1920 | 8 | David Anthony |
+| 1921 | 8 | Chill Tumbler |
+| 1922 | 8 | Ebby |
+| 1923 | 8 | Almarasha Grice |
+| 1924 | 8 | Jeremiah Coffey Sr. |
+| 1925 | 8 | Clever Matchpiece |
+| 1926 | 8 | Andrew James |
+| 1927 | 8 | Frothy Matchpiece |
+| 1928 | 8 | Elizabeth Castro |
+| 1929 | 8 | jus_ry |
+| 1930 | 8 | Abhay Raj |
+| 1931 | 7 | Snippy Balance |
+| 1932 | 7 | Queen |
+| 1933 | 7 | Jazzy |
+| 1934 | 7 | bri |
+| 1935 | 7 | Shenikka Townsend |
+| 1936 | 7 | Beverly Kaday |
 | 1937 | 7 | Sassy Dashfit |
 | 1938 | 7 | Dimitri Moore |
 | 1939 | 7 | Frisky Cascadefit |

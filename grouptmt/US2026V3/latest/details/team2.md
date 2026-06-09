@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 05:28:44 UTC
+# Standings for team2 as of 2026-06-09 05:29:22 UTC
 
 **Total Participants:** 2418
 
@@ -162,21 +162,21 @@
 | 154 | 832 | Giggly Wipepiece |
 | 155 | 830 | Spicy Risegrid |
 | 156 | 813 | Loony Faller |
-| 157 | 811 | AndrewandShela Gornik |
-| 158 | 810 | Zachary Vymislicky |
-| 159 | 809 | Snappy Blockbuilder |
-| 160 | 807 | Sara Perkins |
-| 161 | 806 | Monique Frantz |
-| 162 | 783 | Zesty Strikerbuilder |
-| 163 | 774 | Jgato |
-| 164 | 772 | Joslyn Johnson |
-| 165 | 771 | Brandon Link |
-| 166 | 771 | Tami Kay Williams Watson |
-| 167 | 770 | Jamie Jones |
-| 168 | 758 | Le Sandy |
-| 169 | 757 | Danielle Blount |
-| 170 | 753 | Lashanda Bertram |
-| 171 | 752 | Tina Marie |
+| 157 | 812 | Tina Marie |
+| 158 | 811 | AndrewandShela Gornik |
+| 159 | 810 | Zachary Vymislicky |
+| 160 | 809 | Snappy Blockbuilder |
+| 161 | 807 | Sara Perkins |
+| 162 | 806 | Monique Frantz |
+| 163 | 783 | Zesty Strikerbuilder |
+| 164 | 774 | Jgato |
+| 165 | 772 | Joslyn Johnson |
+| 166 | 771 | Brandon Link |
+| 167 | 771 | Tami Kay Williams Watson |
+| 168 | 770 | Jamie Jones |
+| 169 | 758 | Le Sandy |
+| 170 | 757 | Danielle Blount |
+| 171 | 753 | Lashanda Bertram |
 | 172 | 750 | Tisha Hairston |
 | 173 | 743 | Karen Reid Cenkush |
 | 174 | 742 | Lori Whitman |
@@ -222,7 +222,7 @@
 | 214 | 609 | Brooke Allred |
 | 215 | 606 | Chasity Simpson |
 | 216 | 594 | Steven |
-| 217 | 592 | Avie Lou |
+| 217 | 593 | Avie Lou |
 | 218 | 592 | Spicy Basepiece |
 | 219 | 587 | Kevin Mccoy |
 | 220 | 584 | Steven Craig |
@@ -684,55 +684,55 @@
 | 676 | 197 | Kristen |
 | 677 | 197 | Jason Lamporte |
 | 678 | 197 | Franky |
-| 679 | 197 | Kalli Bonin |
-| 680 | 196 | s3lc4tr0n |
-| 681 | 196 | Greenie |
-| 682 | 194 | Rachel M. Farnsworth |
-| 683 | 194 | Cassandra Green |
-| 684 | 194 | Lindsey Ross |
-| 685 | 194 | GiGi Cool |
-| 686 | 193 | Ginger Nesbitt |
-| 687 | 192 | Spicy Balanceblock |
-| 688 | 192 | Dame Smith |
-| 689 | 192 | Coleta Singleton-Gallishaw |
-| 690 | 191 | Melissa Willson |
-| 691 | 191 | Firebone |
-| 692 | 191 | Nano. |
-| 693 | 191 | Chilly Surge |
-| 694 | 191 | Angeleye A James |
-| 695 | 190 | Tammy Botkin |
-| 696 | 190 | Duck |
-| 697 | 190 | Mary Whitaker |
-| 698 | 190 | Meagan Grimmett Washburn |
-| 699 | 189 | Audrey Bickford |
-| 700 | 189 | James Sayers |
-| 701 | 189 | Poppy Strikerbuilder |
-| 702 | 189 | Gabrielle Rivera |
-| 703 | 189 | Kristi K Milner |
-| 704 | 189 | Leighla Davis |
-| 705 | 188 | Derrick |
-| 706 | 188 | Marlo Perry |
-| 707 | 188 | Chipper Towerzone |
-| 708 | 187 | Nikki Hatch |
-| 709 | 187 | Momof2wigglebutts |
-| 710 | 187 | Cindy Scott |
-| 711 | 187 | Elizabeth Kline |
-| 712 | 187 | Barb Kiser |
-| 713 | 187 | Jaimie Walters |
-| 714 | 187 | Abby |
-| 715 | 186 | Cody Gates |
-| 716 | 186 | Jennifer Bromeisl-Tettam |
-| 717 | 185 | Vicki Flippo |
-| 718 | 185 | Sillyk |
-| 719 | 185 | Christine James |
-| 720 | 185 | Nutty Fitzone |
-| 721 | 185 | Leigh Wilkerson |
-| 722 | 185 | MamaRachel |
-| 723 | 184 | Melissa Abbott |
-| 724 | 184 | Ashley Fleming |
-| 725 | 183 | Brooke Kaune |
-| 726 | 182 | Paula |
-| 727 | 181 | Anzhen |
+| 679 | 197 | Anzhen |
+| 680 | 197 | Kalli Bonin |
+| 681 | 196 | s3lc4tr0n |
+| 682 | 196 | Greenie |
+| 683 | 194 | Rachel M. Farnsworth |
+| 684 | 194 | Cassandra Green |
+| 685 | 194 | Lindsey Ross |
+| 686 | 194 | GiGi Cool |
+| 687 | 193 | Ginger Nesbitt |
+| 688 | 192 | Spicy Balanceblock |
+| 689 | 192 | Dame Smith |
+| 690 | 192 | Coleta Singleton-Gallishaw |
+| 691 | 191 | Melissa Willson |
+| 692 | 191 | Firebone |
+| 693 | 191 | Nano. |
+| 694 | 191 | Chilly Surge |
+| 695 | 191 | Angeleye A James |
+| 696 | 190 | Tammy Botkin |
+| 697 | 190 | Duck |
+| 698 | 190 | Mary Whitaker |
+| 699 | 190 | Meagan Grimmett Washburn |
+| 700 | 189 | Audrey Bickford |
+| 701 | 189 | James Sayers |
+| 702 | 189 | Poppy Strikerbuilder |
+| 703 | 189 | Gabrielle Rivera |
+| 704 | 189 | Kristi K Milner |
+| 705 | 189 | Leighla Davis |
+| 706 | 188 | Derrick |
+| 707 | 188 | Marlo Perry |
+| 708 | 188 | Chipper Towerzone |
+| 709 | 187 | Nikki Hatch |
+| 710 | 187 | Momof2wigglebutts |
+| 711 | 187 | Cindy Scott |
+| 712 | 187 | Elizabeth Kline |
+| 713 | 187 | Barb Kiser |
+| 714 | 187 | Jaimie Walters |
+| 715 | 187 | Abby |
+| 716 | 186 | Cody Gates |
+| 717 | 186 | Jennifer Bromeisl-Tettam |
+| 718 | 185 | Vicki Flippo |
+| 719 | 185 | Sillyk |
+| 720 | 185 | Christine James |
+| 721 | 185 | Nutty Fitzone |
+| 722 | 185 | Leigh Wilkerson |
+| 723 | 185 | MamaRachel |
+| 724 | 184 | Melissa Abbott |
+| 725 | 184 | Ashley Fleming |
+| 726 | 183 | Brooke Kaune |
+| 727 | 182 | Paula |
 | 728 | 181 | Denise Morehart |
 | 729 | 180 | Shannon Posner |
 | 730 | 180 | Dana Wilson |
@@ -741,11 +741,11 @@
 | 733 | 180 | Brandi Williams |
 | 734 | 180 | Erin Lemanski |
 | 735 | 180 | Dawn Kroptavich |
-| 736 | 180 | Audrey Morris |
-| 737 | 180 | Tiffany Lewis |
-| 738 | 179 | Teloney Humphrey |
-| 739 | 179 | Jennifer Augustine |
-| 740 | 179 | Crafty Liner |
+| 736 | 180 | Tiffany Lewis |
+| 737 | 180 | Audrey Morris |
+| 738 | 179 | Jennifer Augustine |
+| 739 | 179 | Crafty Liner |
+| 740 | 179 | Teloney Humphrey |
 | 741 | 179 | Cool Patternbuilder |
 | 742 | 179 | Kevin Patrick |
 | 743 | 179 | Dandy Tiltgrid |
