@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:32:45 UTC
+# Standings for team1 as of 2026-06-09 15:33:22 UTC
 
 **Total Participants:** 2069
 
@@ -20,7 +20,7 @@
 | 12 | 8746 | Tyeina Johnson |
 | 13 | 7896 | Tracy Cohen |
 | 14 | 7548 | Cozy Edge |
-| 15 | 7315 | Cassidy Butler |
+| 15 | 7415 | Cassidy Butler |
 | 16 | 7001 | Ebo Got-Time |
 | 17 | 5804 | Hunter Rayborn |
 | 18 | 5678 | Jocelyn Pope-Sewell |

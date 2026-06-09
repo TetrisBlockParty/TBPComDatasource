@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 15:32:45 UTC
+# Standings for team4 as of 2026-06-09 15:33:22 UTC
 
 **Total Participants:** 2125
 
@@ -482,19 +482,19 @@
 | 474 | 259 | Jessica Peyton |
 | 475 | 259 | Valerie Silva |
 | 476 | 258 | Danny Frausto |
-| 477 | 257 | LaTanya GeminiondaRise Johnson |
-| 478 | 256 | Stacy G |
-| 479 | 256 | Tiffany Morris Garner |
-| 480 | 255 | Sean Mccleary |
-| 481 | 255 | Britney Kitora |
-| 482 | 255 | Littlebrat |
-| 483 | 254 | Mimi Dominguez |
-| 484 | 254 | Deborah Ayliffe |
-| 485 | 254 | Deva Marie Barber |
-| 486 | 254 | farfromlocal |
-| 487 | 254 | Dawn Marie Trujillo |
-| 488 | 253 | LeRoy jenkins |
-| 489 | 253 | CrashOutCarla |
+| 477 | 258 | CrashOutCarla |
+| 478 | 257 | LaTanya GeminiondaRise Johnson |
+| 479 | 256 | Stacy G |
+| 480 | 256 | Tiffany Morris Garner |
+| 481 | 255 | Sean Mccleary |
+| 482 | 255 | Britney Kitora |
+| 483 | 255 | Littlebrat |
+| 484 | 254 | Mimi Dominguez |
+| 485 | 254 | Deborah Ayliffe |
+| 486 | 254 | Deva Marie Barber |
+| 487 | 254 | farfromlocal |
+| 488 | 254 | Dawn Marie Trujillo |
+| 489 | 253 | LeRoy jenkins |
 | 490 | 253 | Andreas Vs Shinky |
 | 491 | 252 | Ryan Paul Clark-Ramsey |
 | 492 | 252 | Carla Woodard |
@@ -1284,11 +1284,11 @@
 | 1276 | 71 | Jessica Armistead |
 | 1277 | 70 | Uh Lesh Uh |
 | 1278 | 70 | Deanne Silverdahl |
-| 1279 | 70 | Jada Jordyn Campbell |
-| 1280 | 70 | T boo |
-| 1281 | 70 | Tahira Patrice |
-| 1282 | 70 | Scott If |
-| 1283 | 69 | Sunny Tiltbuilder |
+| 1279 | 70 | Sunny Tiltbuilder |
+| 1280 | 70 | Jada Jordyn Campbell |
+| 1281 | 70 | T boo |
+| 1282 | 70 | Tahira Patrice |
+| 1283 | 70 | Scott If |
 | 1284 | 69 | Derrek Lee |
 | 1285 | 69 | Crystal Parker Bryant |
 | 1286 | 69 | Tina Lopez |
@@ -1464,50 +1464,50 @@
 | 1456 | 50 | Kate Clevinger |
 | 1457 | 50 | Dustin Bell |
 | 1458 | 50 | Kortnie Kate Patino |
-| 1459 | 50 | Speedy Snapclear |
+| 1459 | 50 | Angelica Vidales |
 | 1460 | 50 | Natalie Lane |
 | 1461 | 50 | Mexican130 |
 | 1462 | 50 | Jacqueline Wright |
 | 1463 | 50 | Erica Armstrong Baz |
-| 1464 | 50 | Alana Joe |
-| 1465 | 50 | Paulina Deitrick |
-| 1466 | 50 | Dewy |
-| 1467 | 50 | Suzie |
-| 1468 | 50 | Angelica Vidales |
+| 1464 | 50 | Speedy Snapclear |
+| 1465 | 50 | Alana Joe |
+| 1466 | 50 | Paulina Deitrick |
+| 1467 | 50 | Dewy |
+| 1468 | 50 | Suzie |
 | 1469 | 49 | Hasty Grabber |
-| 1470 | 49 | Mandi Rexroat |
-| 1471 | 49 | Mindy Phariss |
-| 1472 | 49 | Rai |
-| 1473 | 49 | Karen Riexinger |
-| 1474 | 49 | Goofy Twistpiece |
+| 1470 | 49 | Mindy Phariss |
+| 1471 | 49 | Rai |
+| 1472 | 49 | Jodi Messere |
+| 1473 | 49 | Goofy Twistpiece |
+| 1474 | 49 | Karen Riexinger |
 | 1475 | 49 | Merrick Marion |
-| 1476 | 49 | smarty |
-| 1477 | 49 | Selina Moore |
-| 1478 | 49 | Nerdy Piecebuilder |
-| 1479 | 49 | Angelo L Casillas |
-| 1480 | 48 | Cmoss |
-| 1481 | 48 | Wali Muhammad |
-| 1482 | 48 | abbie |
-| 1483 | 48 | $bluemoon |
-| 1484 | 48 | Twisty Chiseler |
-| 1485 | 48 | kellyhyatt |
-| 1486 | 48 | Jane M Tiller |
-| 1487 | 48 | Regina N Johnson |
-| 1488 | 48 | Snoopie Johnson |
-| 1489 | 48 | Peachy Grabber |
-| 1490 | 47 | Jaison Horton |
-| 1491 | 47 | Jim Stewart |
-| 1492 | 47 | Mighty Liney |
-| 1493 | 47 | Kaity Cody |
-| 1494 | 47 | Amanda |
-| 1495 | 47 | Kitty Kat |
-| 1496 | 47 | ToneDeaf |
-| 1497 | 47 | Maurice Jones |
-| 1498 | 47 | Destiny Georgia Reeves Beller |
-| 1499 | 47 | Frby Amberr |
-| 1500 | 47 | Casey Alford |
-| 1501 | 47 | Jodi Messere |
-| 1502 | 47 | Danyale Collins |
+| 1476 | 49 | Mandi Rexroat |
+| 1477 | 49 | smarty |
+| 1478 | 49 | Selina Moore |
+| 1479 | 49 | Nerdy Piecebuilder |
+| 1480 | 49 | Angelo L Casillas |
+| 1481 | 48 | $bluemoon |
+| 1482 | 48 | Cmoss |
+| 1483 | 48 | Snoopie Johnson |
+| 1484 | 48 | Wali Muhammad |
+| 1485 | 48 | abbie |
+| 1486 | 48 | kellyhyatt |
+| 1487 | 48 | Twisty Chiseler |
+| 1488 | 48 | Jane M Tiller |
+| 1489 | 48 | Regina N Johnson |
+| 1490 | 48 | Peachy Grabber |
+| 1491 | 47 | Amanda |
+| 1492 | 47 | Danyale Collins |
+| 1493 | 47 | Jaison Horton |
+| 1494 | 47 | Casey Alford |
+| 1495 | 47 | Frby Amberr |
+| 1496 | 47 | Kitty Kat |
+| 1497 | 47 | ToneDeaf |
+| 1498 | 47 | Kaity Cody |
+| 1499 | 47 | Maurice Jones |
+| 1500 | 47 | Mighty Liney |
+| 1501 | 47 | Jim Stewart |
+| 1502 | 47 | Destiny Georgia Reeves Beller |
 | 1503 | 47 | Vernetta Santos |
 | 1504 | 46 | Bindi |
 | 1505 | 46 | Lazy Risepiece |
@@ -1905,37 +1905,37 @@
 | 1897 | 18 | Brian Fisher |
 | 1898 | 18 | Fancy Tiltgrid |
 | 1899 | 18 | Kiaralis Ashley Hancock |
-| 1900 | 18 | Babiideex13 |
-| 1901 | 18 | Orange Sky |
-| 1902 | 18 | Playboy916 |
-| 1903 | 18 | Jamie Legeness |
-| 1904 | 18 | Kris McShane |
-| 1905 | 17 | Breezy Match |
-| 1906 | 17 | Bebe |
-| 1907 | 17 | Kelly Pool |
+| 1900 | 18 | Mac James |
+| 1901 | 18 | Babiideex13 |
+| 1902 | 18 | Orange Sky |
+| 1903 | 18 | Playboy916 |
+| 1904 | 18 | Jamie Legeness |
+| 1905 | 18 | Kris McShane |
+| 1906 | 17 | Breezy Match |
+| 1907 | 17 | Bebe |
 | 1908 | 17 | Anna Bourff |
-| 1909 | 17 | Glitzy Crasher |
-| 1910 | 17 | Shane Snyder |
-| 1911 | 17 | John Wertz |
-| 1912 | 17 | Angela Smiley |
-| 1913 | 17 | Hoppy Clusterfit |
-| 1914 | 17 | happy cupcake |
-| 1915 | 17 | Zanny |
-| 1916 | 17 | Tina Giordano |
-| 1917 | 17 | Cody Richard |
-| 1918 | 17 | Krystal Simpson |
-| 1919 | 16 | Fancy Tiley |
-| 1920 | 16 | Gabby Markham |
-| 1921 | 16 | Faith Love Thompson |
-| 1922 | 16 | Iesha Jefferson |
-| 1923 | 16 | Nissi |
-| 1924 | 16 | Maliyah An |
-| 1925 | 16 | Mac James |
-| 1926 | 16 | Mike Adkins |
-| 1927 | 16 | Valerie Morrison |
-| 1928 | 16 | Mr.Corbin |
-| 1929 | 16 | Mammoth |
-| 1930 | 16 | Fumiko Demello |
+| 1909 | 17 | Kelly Pool |
+| 1910 | 17 | Glitzy Crasher |
+| 1911 | 17 | Shane Snyder |
+| 1912 | 17 | John Wertz |
+| 1913 | 17 | Angela Smiley |
+| 1914 | 17 | Hoppy Clusterfit |
+| 1915 | 17 | happy cupcake |
+| 1916 | 17 | Zanny |
+| 1917 | 17 | Tina Giordano |
+| 1918 | 17 | Cody Richard |
+| 1919 | 17 | Krystal Simpson |
+| 1920 | 16 | Fancy Tiley |
+| 1921 | 16 | Gabby Markham |
+| 1922 | 16 | Faith Love Thompson |
+| 1923 | 16 | Iesha Jefferson |
+| 1924 | 16 | Nissi |
+| 1925 | 16 | Maliyah An |
+| 1926 | 16 | Fumiko Demello |
+| 1927 | 16 | Mammoth |
+| 1928 | 16 | Valerie Morrison |
+| 1929 | 16 | Mr.Corbin |
+| 1930 | 16 | Mike Adkins |
 | 1931 | 16 | Yolanda Ferrer |
 | 1932 | 16 | AngReBo |
 | 1933 | 16 | Scuba steve |
