@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 21:16:45 UTC
+# Standings for team1 as of 2026-06-09 21:17:22 UTC
 
 **Total Participants:** 2113
 
@@ -182,15 +182,15 @@
 | 174 | 728 | Karebear |
 | 175 | 728 | Katherine Short |
 | 176 | 719 | Dena Marie Lee |
-| 177 | 695 | Yasmin Nakea Wright |
-| 178 | 694 | Keke Ferguson |
-| 179 | 692 | Chirpy Corner |
-| 180 | 690 | Genne Scott |
-| 181 | 688 | Byron Mario Cawthon |
-| 182 | 687 | GrkGdess |
-| 183 | 686 | W.A. Simpson |
-| 184 | 680 | Charletha Williams |
-| 185 | 678 | JaszyBadd |
+| 177 | 698 | JaszyBadd |
+| 178 | 695 | Yasmin Nakea Wright |
+| 179 | 694 | Keke Ferguson |
+| 180 | 692 | Chirpy Corner |
+| 181 | 690 | Genne Scott |
+| 182 | 688 | Byron Mario Cawthon |
+| 183 | 687 | GrkGdess |
+| 184 | 686 | W.A. Simpson |
+| 185 | 680 | Charletha Williams |
 | 186 | 677 | Chantelle Lee |
 | 187 | 674 | Zappy Riser |
 | 188 | 672 | BULLSEYE |
@@ -353,7 +353,7 @@
 | 345 | 377 | Amber Wilson |
 | 346 | 377 | ♈️ Ariesbaby |
 | 347 | 377 | AF Cruz |
-| 348 | 373 | Still Ten Tay |
+| 348 | 375 | Still Ten Tay |
 | 349 | 373 | izzybella |
 | 350 | 371 | Lauraly |
 | 351 | 371 | SeanSanchez |
