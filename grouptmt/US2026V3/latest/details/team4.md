@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 15:44:44 UTC
+# Standings for team4 as of 2026-06-09 15:45:23 UTC
 
 **Total Participants:** 2130
 
@@ -83,7 +83,7 @@
 | 75 | 1564 | woopa 716 |
 | 76 | 1506 | Chris Covington |
 | 77 | 1494 | Charlie Lewis |
-| 78 | 1459 | Dana Abegil Lawas |
+| 78 | 1469 | Dana Abegil Lawas |
 | 79 | 1450 | 2 kool |
 | 80 | 1416 | Giggy Matchpiece |
 | 81 | 1401 | SMV |
@@ -459,26 +459,26 @@
 | 451 | 272 | J.Wo |
 | 452 | 272 | Kellz M Bee |
 | 453 | 270 | DizzB400 |
-| 454 | 269 | Brendan Craven |
-| 455 | 269 | Cheeky Fallzone |
-| 456 | 268 | Kendall Rhodie |
-| 457 | 268 | Teester |
-| 458 | 267 | Alyssa Berg |
-| 459 | 267 | Dandy Cascade |
+| 454 | 270 | Joshua Garner |
+| 455 | 269 | Brendan Craven |
+| 456 | 269 | Cheeky Fallzone |
+| 457 | 268 | Kendall Rhodie |
+| 458 | 268 | Teester |
+| 459 | 267 | Alyssa Berg |
 | 460 | 267 | Kari Smith |
-| 461 | 265 | Holly Bramel |
+| 461 | 267 | Dandy Cascade |
 | 462 | 265 | Denise Wilson |
 | 463 | 265 | Mrs |
-| 464 | 264 | Perry Ransom |
-| 465 | 264 | Azahares Alonso |
+| 464 | 265 | Holly Bramel |
+| 465 | 264 | Perry Ransom |
 | 466 | 264 | Chuck Burns |
-| 467 | 263 | Erik Clary |
+| 467 | 264 | Azahares Alonso |
 | 468 | 263 | Playa |
-| 469 | 261 | Chris McBlockster |
+| 469 | 263 | Erik Clary |
 | 470 | 261 | Lee Ann Gibby |
-| 471 | 260 | Silly Risegrid |
-| 472 | 260 | Lady Dolphin |
-| 473 | 260 | Joshua Garner |
+| 471 | 261 | Chris McBlockster |
+| 472 | 260 | Silly Risegrid |
+| 473 | 260 | Lady Dolphin |
 | 474 | 260 | Sarah Montagne Forsberg |
 | 475 | 259 | Tiffany Smith |
 | 476 | 259 | Jen Roe |
@@ -490,35 +490,35 @@
 | 482 | 257 | LaTanya GeminiondaRise Johnson |
 | 483 | 256 | Stacy G |
 | 484 | 256 | Tiffany Morris Garner |
-| 485 | 255 | Britney Kitora |
-| 486 | 255 | Littlebrat |
-| 487 | 255 | Sean Mccleary |
-| 488 | 254 | Dawn Marie Trujillo |
-| 489 | 254 | Mimi Dominguez |
+| 485 | 255 | Littlebrat |
+| 486 | 255 | Sean Mccleary |
+| 487 | 255 | Britney Kitora |
+| 488 | 254 | Mimi Dominguez |
+| 489 | 254 | farfromlocal |
 | 490 | 254 | Deborah Ayliffe |
-| 491 | 254 | Deva Marie Barber |
-| 492 | 254 | farfromlocal |
+| 491 | 254 | Dawn Marie Trujillo |
+| 492 | 254 | Deva Marie Barber |
 | 493 | 253 | LeRoy jenkins |
 | 494 | 253 | Andreas Vs Shinky |
 | 495 | 252 | Carla Woodard |
 | 496 | 252 | Ryan Paul Clark-Ramsey |
-| 497 | 249 | Brennan Shea Greene |
-| 498 | 249 | Will E Ayala |
-| 499 | 249 | Cecilia Hicks |
+| 497 | 249 | Cecilia Hicks |
+| 498 | 249 | Brennan Shea Greene |
+| 499 | 249 | Will E Ayala |
 | 500 | 248 | JIGsaw ~(•¿°)~ |
-| 501 | 247 | Natalie Dillard |
-| 502 | 247 | Deborah Silberg |
-| 503 | 247 | Corie A. Brinson |
-| 504 | 247 | Shauna Davis |
-| 505 | 247 | Swanky Snapgrid |
-| 506 | 247 | aga |
-| 507 | 246 | EpicWizard |
-| 508 | 246 | Brandi Sauer |
-| 509 | 246 | Kaps |
-| 510 | 245 | Katy |
-| 511 | 245 | Candiecane324 |
-| 512 | 244 | Lisa lisa |
-| 513 | 244 | DrC |
+| 501 | 247 | aga |
+| 502 | 247 | Swanky Snapgrid |
+| 503 | 247 | Natalie Dillard |
+| 504 | 247 | Deborah Silberg |
+| 505 | 247 | Corie A. Brinson |
+| 506 | 247 | Shauna Davis |
+| 507 | 246 | Brandi Sauer |
+| 508 | 246 | Kaps |
+| 509 | 246 | EpicWizard |
+| 510 | 245 | Candiecane324 |
+| 511 | 245 | Katy |
+| 512 | 244 | DrC |
+| 513 | 244 | Lisa lisa |
 | 514 | 243 | ariel |
 | 515 | 242 | Nicole Colby McCloskey |
 | 516 | 241 | Cindy |
@@ -526,44 +526,44 @@
 | 518 | 240 | Keke Johnson |
 | 519 | 240 | Alice Eisnor-Martens |
 | 520 | 240 | FitMeDiva |
-| 521 | 239 | Chelle Williams |
-| 522 | 239 | Elissa Danks |
-| 523 | 239 | Lul Babie |
+| 521 | 239 | Lul Babie |
+| 522 | 239 | Chelle Williams |
+| 523 | 239 | Elissa Danks |
 | 524 | 238 | Tara Delay Hill |
-| 525 | 236 | Bonique Bier |
+| 525 | 236 | chefjaydawg |
 | 526 | 236 | Susan Stofberg Beltran |
-| 527 | 235 | Heidi Anne Scheiderer |
-| 528 | 235 | MattJennifer Marie Ericson |
-| 529 | 234 | luluraine |
-| 530 | 234 | Alexsandra Hill |
+| 527 | 236 | Bonique Bier |
+| 528 | 235 | Heidi Anne Scheiderer |
+| 529 | 235 | MattJennifer Marie Ericson |
+| 530 | 234 | luluraine |
 | 531 | 234 | Lupe Chapa |
-| 532 | 233 | Karen Small |
-| 533 | 233 | Shaunna Caldwell |
-| 534 | 232 | REPENT |
+| 532 | 234 | Alexsandra Hill |
+| 533 | 233 | Karen Small |
+| 534 | 233 | Shaunna Caldwell |
 | 535 | 232 | Saucy Brickmatch |
 | 536 | 232 | Elli Wright |
-| 537 | 232 | Rita Ann |
-| 538 | 231 | chefjaydawg |
+| 537 | 232 | REPENT |
+| 538 | 232 | Rita Ann |
 | 539 | 231 | Memphiago Tenninois |
-| 540 | 231 | Lora Schallert |
-| 541 | 231 | Krystal Dixon-Hahn |
-| 542 | 229 | Marcus Chavis |
-| 543 | 229 | Silly Fallzone |
-| 544 | 228 | Happy Strikerpiece |
-| 545 | 228 | Jennifer Fisher Franklin |
-| 546 | 228 | alxhue04 |
-| 547 | 228 | Raising Stars |
-| 548 | 228 | Lani |
-| 549 | 228 | Montes Ash |
-| 550 | 228 | Amanda Snow |
-| 551 | 227 | Erica Pompey |
-| 552 | 227 | Lolita Nettles |
-| 553 | 227 | Thermeka Lindsey |
-| 554 | 227 | Nikki |
-| 555 | 227 | Garden Girlie |
+| 540 | 231 | Krystal Dixon-Hahn |
+| 541 | 231 | Lora Schallert |
+| 542 | 229 | Silly Fallzone |
+| 543 | 229 | Marcus Chavis |
+| 544 | 228 | Amanda Snow |
+| 545 | 228 | Happy Strikerpiece |
+| 546 | 228 | Raising Stars |
+| 547 | 228 | Montes Ash |
+| 548 | 228 | Jennifer Fisher Franklin |
+| 549 | 228 | Lani |
+| 550 | 228 | alxhue04 |
+| 551 | 227 | Nikki |
+| 552 | 227 | Erica Pompey |
+| 553 | 227 | Lolita Nettles |
+| 554 | 227 | Garden Girlie |
+| 555 | 227 | Thermeka Lindsey |
 | 556 | 226 | Buddyblock |
-| 557 | 225 | KingCas |
-| 558 | 225 | Brandy Lynn |
+| 557 | 225 | Brandy Lynn |
+| 558 | 225 | KingCas |
 | 559 | 224 | Loopy Clusterline |
 | 560 | 224 | Big Dooka |
 | 561 | 224 | KrisTina2007 |
@@ -2092,50 +2092,50 @@
 | 2084 | 7 | andy |
 | 2085 | 7 | Tetrees |
 | 2086 | 7 | Naomi Wixon |
-| 2087 | 7 | Estmercy |
-| 2088 | 7 | Crafty Riser |
-| 2089 | 7 | Lacy Legrant |
-| 2090 | 7 | Lincy A. Walsh |
-| 2091 | 7 | Amber Terry |
-| 2092 | 7 | Jennifer Flores |
-| 2093 | 7 | B |
-| 2094 | 7 | Jerrod R VanAlstyne |
-| 2095 | 6 | Snippy Bouncer |
-| 2096 | 6 | Frothy Gridmatch |
-| 2097 | 6 | Valerie Michelle Dula |
-| 2098 | 6 | White As Snow |
-| 2099 | 6 | Kristin R. Billiot |
-| 2100 | 6 | Richierich Gonzalez |
-| 2101 | 6 | April McWhite |
-| 2102 | 6 | Theamazingspiderman |
-| 2103 | 6 | Sherry Heilig |
-| 2104 | 6 | Maria Landa |
-| 2105 | 6 | Barbara Fagan |
-| 2106 | 6 | Spunky Winder |
-| 2107 | 6 | Nutty Dropper |
-| 2108 | 6 | frank |
+| 2087 | 7 | Lacy Legrant |
+| 2088 | 7 | B |
+| 2089 | 7 | Jerrod R VanAlstyne |
+| 2090 | 7 | Amber Terry |
+| 2091 | 7 | Jennifer Flores |
+| 2092 | 7 | Lincy A. Walsh |
+| 2093 | 7 | Crafty Riser |
+| 2094 | 7 | Estmercy |
+| 2095 | 6 | Kristin R. Billiot |
+| 2096 | 6 | Snippy Bouncer |
+| 2097 | 6 | White As Snow |
+| 2098 | 6 | Valerie Michelle Dula |
+| 2099 | 6 | Richierich Gonzalez |
+| 2100 | 6 | April McWhite |
+| 2101 | 6 | Theamazingspiderman |
+| 2102 | 6 | Arsenio Fox |
+| 2103 | 6 | Frothy Gridmatch |
+| 2104 | 6 | Sherry Heilig |
+| 2105 | 6 | Maria Landa |
+| 2106 | 6 | frank |
+| 2107 | 6 | Barbara Fagan |
+| 2108 | 6 | Spunky Winder |
 | 2109 | 6 | Crissie Mary Schafer |
-| 2110 | 5 | Tippet |
-| 2111 | 5 | Wacky Clearzone |
-| 2112 | 5 | Arsenio Fox |
+| 2110 | 6 | Nutty Dropper |
+| 2111 | 5 | Leo |
+| 2112 | 5 | Wacky Clearzone |
 | 2113 | 5 | Darlene Adragna |
 | 2114 | 5 | Kristen Hall |
 | 2115 | 5 | Kayla Ridnour |
-| 2116 | 5 | Zany Shatter |
-| 2117 | 5 | James Lackey |
-| 2118 | 5 | Winza777 |
-| 2119 | 5 | Mercedes Williams |
-| 2120 | 5 | April Vela |
-| 2121 | 5 | Leo |
+| 2116 | 5 | Mercedes Williams |
+| 2117 | 5 | Zany Shatter |
+| 2118 | 5 | James Lackey |
+| 2119 | 5 | Winza777 |
+| 2120 | 5 | Tippet |
+| 2121 | 5 | April Vela |
 | 2122 | 5 | Elizabeth Storey Jones |
 | 2123 | 5 | Sean Ha |
-| 2124 | 5 | Racheal Lowry |
-| 2125 | 5 | courtt |
-| 2126 | 5 | Katrina S. West |
-| 2127 | 5 | Debbie Johnson |
-| 2128 | 5 | Breezy Shatterclear |
-| 2129 | 5 | Linda Monique |
-| 2130 | 5 | Cheery Tower |
+| 2124 | 5 | courtt |
+| 2125 | 5 | Racheal Lowry |
+| 2126 | 5 | Cheery Tower |
+| 2127 | 5 | Katrina S. West |
+| 2128 | 5 | Debbie Johnson |
+| 2129 | 5 | Breezy Shatterclear |
+| 2130 | 5 | Linda Monique |
 
 ---
 *Standings created by tournaments datasource generation tool*
