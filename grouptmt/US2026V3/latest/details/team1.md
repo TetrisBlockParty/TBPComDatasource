@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 06:58:44 UTC
+# Standings for team1 as of 2026-06-09 06:59:22 UTC
 
 **Total Participants:** 2008
 
@@ -102,11 +102,11 @@
 | 94 | 1169 | Kimberly Hernandez |
 | 95 | 1164 | Tootsie Pop |
 | 96 | 1160 | KenpachisGirl |
-| 97 | 1124 | Jazzy Dashpiece |
-| 98 | 1121 | Lisa Müller |
-| 99 | 1120 | IamJust Neyamijah Washington Sr. |
-| 100 | 1091 | Richard Horton |
-| 101 | 1075 | Voice |
+| 97 | 1134 | Voice |
+| 98 | 1124 | Jazzy Dashpiece |
+| 99 | 1121 | Lisa Müller |
+| 100 | 1120 | IamJust Neyamijah Washington Sr. |
+| 101 | 1091 | Richard Horton |
 | 102 | 1057 | ELM |
 | 103 | 1037 | Tameka Jones |
 | 104 | 1027 | Yolanda E Fergerson |
@@ -641,15 +641,15 @@
 | 633 | 176 | Char |
 | 634 | 176 | Frisky Gridder |
 | 635 | 176 | Squaw Ki Ng |
-| 636 | 175 | Eric Machuca |
-| 637 | 175 | Juan Lewis |
-| 638 | 175 | DaemahnFriday |
-| 639 | 174 | Nerdy Wipefit |
+| 636 | 175 | Casey Chapman |
+| 637 | 175 | Eric Machuca |
+| 638 | 175 | Juan Lewis |
+| 639 | 175 | DaemahnFriday |
 | 640 | 174 | Clipzby |
-| 641 | 173 | Ashley Monet Terrell |
+| 641 | 174 | Nerdy Wipefit |
 | 642 | 173 | Mathew Trudell |
 | 643 | 173 | Claudia Price |
-| 644 | 173 | Casey Chapman |
+| 644 | 173 | Ashley Monet Terrell |
 | 645 | 172 | MrsDontPlay |
 | 646 | 172 | Betsy B. Yohan |
 | 647 | 171 | Victor |
@@ -831,8 +831,8 @@
 | 823 | 124 | Franklin Sotelo |
 | 824 | 124 | Sheesh |
 | 825 | 123 | Tanesha Ga'sFinest Corbett |
-| 826 | 123 | Jason Saputo |
-| 827 | 123 | Tia Hazelton |
+| 826 | 123 | Tia Hazelton |
+| 827 | 123 | Jason Saputo |
 | 828 | 123 | Stephen Garland |
 | 829 | 123 | Block |
 | 830 | 123 | Esha I'msoproudofmyself Davis |
@@ -845,74 +845,74 @@
 | 837 | 122 | Nick Stowers |
 | 838 | 122 | Sally Elizabeth Hopson |
 | 839 | 122 | William Vidra |
-| 840 | 121 | Tiana Monique |
-| 841 | 121 | squints |
+| 840 | 121 | Vannie G |
+| 841 | 121 | Cheryl Miller |
 | 842 | 121 | Ameillia Boughner |
-| 843 | 121 | Vannie G |
-| 844 | 120 | Charles Johnson |
-| 845 | 120 | Earl Williams |
-| 846 | 120 | Sandra Mims |
-| 847 | 120 | lookin |
-| 848 | 120 | Tiffany Jean Hinson |
-| 849 | 120 | Richelle Beck |
-| 850 | 120 | Lauren Farkas |
-| 851 | 120 | Yellowguy3 |
+| 843 | 121 | squints |
+| 844 | 121 | Tiana Monique |
+| 845 | 120 | Charles Johnson |
+| 846 | 120 | Earl Williams |
+| 847 | 120 | Sandra Mims |
+| 848 | 120 | lookin |
+| 849 | 120 | Tiffany Jean Hinson |
+| 850 | 120 | Richelle Beck |
+| 851 | 120 | Lauren Farkas |
 | 852 | 120 | Dianne Clagon |
-| 853 | 120 | Ebie |
-| 854 | 120 | Crafty Witch |
-| 855 | 119 | Albert McKnight |
-| 856 | 119 | Analesia Taylor |
-| 857 | 119 | Sylvia Offically A Mcgowan |
-| 858 | 119 | Montréal Mars |
-| 859 | 119 | Adrian Harris |
-| 860 | 119 | Megan Jones |
-| 861 | 119 | Alexis Alexander |
-| 862 | 119 | Octavia Whitmire |
-| 863 | 119 | Boymama917 |
-| 864 | 119 | Hyy |
-| 865 | 118 | Gabriela Hernandez |
-| 866 | 118 | Jjhandsome |
-| 867 | 118 | Hasty Pivoty |
-| 868 | 118 | Shanna Green Williams |
-| 869 | 118 | Maria Baez Medina |
-| 870 | 118 | Dirty Deeds |
-| 871 | 118 | Kashh |
-| 872 | 118 | Raymond Boosie Freeman |
-| 873 | 117 | Kayel Good |
+| 853 | 120 | Yellowguy3 |
+| 854 | 120 | Ebie |
+| 855 | 120 | Crafty Witch |
+| 856 | 119 | Albert McKnight |
+| 857 | 119 | Analesia Taylor |
+| 858 | 119 | Sylvia Offically A Mcgowan |
+| 859 | 119 | Montréal Mars |
+| 860 | 119 | Adrian Harris |
+| 861 | 119 | Megan Jones |
+| 862 | 119 | Alexis Alexander |
+| 863 | 119 | Octavia Whitmire |
+| 864 | 119 | Boymama917 |
+| 865 | 119 | Hyy |
+| 866 | 118 | Kashh |
+| 867 | 118 | Gabriela Hernandez |
+| 868 | 118 | Hasty Pivoty |
+| 869 | 118 | Shanna Green Williams |
+| 870 | 118 | Raymond Boosie Freeman |
+| 871 | 118 | Jjhandsome |
+| 872 | 118 | Maria Baez Medina |
+| 873 | 118 | Dirty Deeds |
 | 874 | 117 | Cheery Clusterbuilder |
 | 875 | 117 | Donnie Withthebody |
 | 876 | 117 | Jordan Deon Elery |
 | 877 | 117 | Andrea Jackson |
-| 878 | 117 | Bruce Paléncia |
-| 879 | 117 | Poppy Twister |
-| 880 | 117 | DirtiestofMikes |
-| 881 | 117 | Shanjerrica Taylor Rosell |
-| 882 | 117 | Spicy Tiler |
-| 883 | 116 | Marc Papa |
-| 884 | 116 | Alonzo Kirkland |
+| 878 | 117 | Poppy Twister |
+| 879 | 117 | Kayel Good |
+| 880 | 117 | Shanjerrica Taylor Rosell |
+| 881 | 117 | Bruce Paléncia |
+| 882 | 117 | DirtiestofMikes |
+| 883 | 117 | Spicy Tiler |
+| 884 | 116 | Marc Papa |
 | 885 | 116 | Tray Tolliver |
-| 886 | 115 | Vontesha Kidd |
-| 887 | 115 | Mario Meliodas |
-| 888 | 115 | Cheryl Miller |
+| 886 | 116 | Alonzo Kirkland |
+| 887 | 115 | Vontesha Kidd |
+| 888 | 115 | Mario Meliodas |
 | 889 | 115 | Jennifer Moore |
-| 890 | 115 | Tamyka E Williams |
-| 891 | 115 | WOOLFF |
-| 892 | 115 | Kimberly Noble |
+| 890 | 115 | Shiny Lift |
+| 891 | 115 | Tamyka E Williams |
+| 892 | 115 | WOOLFF |
 | 893 | 115 | Crtjstr |
-| 894 | 115 | Shiny Lift |
-| 895 | 114 | Happy Blocky |
-| 896 | 114 | Seirra Robinson |
-| 897 | 114 | jasi |
-| 898 | 114 | jeremy92 |
+| 894 | 115 | Kimberly Noble |
+| 895 | 114 | LAhoneybun82 |
+| 896 | 114 | jeremy92 |
+| 897 | 114 | Tyree Tman Shinette |
+| 898 | 114 | Solomon Valarie |
 | 899 | 114 | Yellowbone |
-| 900 | 114 | Felicia Dungey |
-| 901 | 114 | Solomon Valarie |
-| 902 | 114 | Tyree Tman Shinette |
-| 903 | 114 | LAhoneybun82 |
+| 900 | 114 | Seirra Robinson |
+| 901 | 114 | Happy Blocky |
+| 902 | 114 | jasi |
+| 903 | 114 | Felicia Dungey |
 | 904 | 113 | Shaun Anderson |
-| 905 | 113 | Sherry D Singleton |
-| 906 | 113 | Terrance Tindall |
-| 907 | 113 | Eugenia Vanclusen |
+| 905 | 113 | Eugenia Vanclusen |
+| 906 | 113 | Sherry D Singleton |
+| 907 | 113 | Terrance Tindall |
 | 908 | 112 | GamerQueenDS |
 | 909 | 112 | Jose Rodriguez |
 | 910 | 112 | Nikiya |
