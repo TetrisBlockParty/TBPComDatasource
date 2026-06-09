@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:50:21 UTC
+# Standings for team1 as of 2026-06-09 19:50:49 UTC
 
 **Total Participants:** 2107
 
@@ -66,7 +66,7 @@
 | 58 | 1869 | Chris Russell |
 | 59 | 1862 | D'Andra Stewart |
 | 60 | 1809 | Louis Richard Jr |
-| 61 | 1792 | Blockhead |
+| 61 | 1795 | Blockhead |
 | 62 | 1789 | Jolly Dropzone |
 | 63 | 1782 | Jacoby E Fleming |
 | 64 | 1767 | Moomoo |
@@ -134,7 +134,7 @@
 | 126 | 966 | Sharon Cail |
 | 127 | 966 | Murg4dr01d |
 | 128 | 946 | Lesley Brunkus Cianfaglione |
-| 129 | 943 | Plucky Slamdrop |
+| 129 | 945 | Plucky Slamdrop |
 | 130 | 923 | Slim Shedidthat |
 | 131 | 908 | Danielle Barthelme |
 | 132 | 907 | Jimmie Makia |
@@ -362,9 +362,9 @@
 | 354 | 362 | Kendra McIntyre |
 | 355 | 361 | Lakiesha Crawford |
 | 356 | 361 | John Staub |
-| 357 | 361 | Jawaun Daniels |
-| 358 | 360 | Giggy Edgefit |
-| 359 | 359 | Jennah |
+| 357 | 361 | Jennah |
+| 358 | 361 | Jawaun Daniels |
+| 359 | 360 | Giggy Edgefit |
 | 360 | 359 | Montréal Mars |
 | 361 | 358 | Snippy Breaker |
 | 362 | 358 | izzybella |
@@ -883,11 +883,11 @@
 | 875 | 138 | Morenita Rodriguez |
 | 876 | 137 | LaShawyn Wood |
 | 877 | 137 | Crtjstr |
-| 878 | 136 | Christopher Shaw-Black |
-| 879 | 136 | Alanna Breitenbach |
-| 880 | 136 | Smiley Bridgepiece |
-| 881 | 136 | mya |
-| 882 | 136 | Witty Clear |
+| 878 | 137 | Witty Clear |
+| 879 | 136 | Christopher Shaw-Black |
+| 880 | 136 | Alanna Breitenbach |
+| 881 | 136 | Smiley Bridgepiece |
+| 882 | 136 | mya |
 | 883 | 136 | Rissa Rozay |
 | 884 | 135 | Paul Pendley |
 | 885 | 135 | Shaun Anderson |
@@ -1087,30 +1087,30 @@
 | 1079 | 100 | Bunnie Celtavini |
 | 1080 | 100 | BigMike |
 | 1081 | 100 | Smøke DGAF |
-| 1082 | 100 | B.L. Perry |
+| 1082 | 100 | Keith Big-Sixx Mackell |
 | 1083 | 100 | Oldheads |
-| 1084 | 100 | Keith Big-Sixx Mackell |
+| 1084 | 100 | B.L. Perry |
 | 1085 | 99 | Lucille Wilson Davis |
 | 1086 | 99 | Tellisa Payne |
-| 1087 | 99 | Missy Myvette |
-| 1088 | 99 | MikeHunt |
-| 1089 | 99 | Maxine Williams |
-| 1090 | 99 | Evette Moreno |
-| 1091 | 98 | Azeiare Ziare |
-| 1092 | 98 | Jerome Lewis |
-| 1093 | 98 | Dee Dee |
-| 1094 | 98 | Letrishia Andrews |
-| 1095 | 98 | Wacky Spinfit |
-| 1096 | 97 | Kanesha Jackson |
-| 1097 | 97 | Denise Cunningham-English |
-| 1098 | 97 | Quwana Hall |
-| 1099 | 97 | Jaxon Antuna |
-| 1100 | 96 | Danny M GR |
-| 1101 | 96 | Sonia Binti Mfalme |
+| 1087 | 99 | Evette Moreno |
+| 1088 | 99 | Maxine Williams |
+| 1089 | 99 | Missy Myvette |
+| 1090 | 99 | MikeHunt |
+| 1091 | 98 | Lazy Chiseler |
+| 1092 | 98 | Azeiare Ziare |
+| 1093 | 98 | Jerome Lewis |
+| 1094 | 98 | Dee Dee |
+| 1095 | 98 | Letrishia Andrews |
+| 1096 | 98 | Wacky Spinfit |
+| 1097 | 97 | Kanesha Jackson |
+| 1098 | 97 | Denise Cunningham-English |
+| 1099 | 97 | Quwana Hall |
+| 1100 | 97 | Jaxon Antuna |
+| 1101 | 96 | Tammy Collins |
 | 1102 | 96 | Brandi M. Boney |
-| 1103 | 96 | Lazy Chiseler |
-| 1104 | 96 | Tammy Collins |
-| 1105 | 96 | Demetrice Buck Wilson |
+| 1103 | 96 | Sonia Binti Mfalme |
+| 1104 | 96 | Demetrice Buck Wilson |
+| 1105 | 96 | Danny M GR |
 | 1106 | 96 | Just2Play$ |
 | 1107 | 96 | Giggly Shatterline |
 | 1108 | 96 | Dawn Basemore |
