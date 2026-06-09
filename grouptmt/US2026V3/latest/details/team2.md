@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 06:48:22 UTC
+# Standings for team2 as of 2026-06-09 06:48:47 UTC
 
 **Total Participants:** 2434
 
@@ -2006,25 +2006,25 @@
 | 1998 | 27 | Ashley Corbett |
 | 1999 | 27 | Shane Peavey |
 | 2000 | 27 | Sir Paco |
-| 2001 | 27 | Francesca Rice |
-| 2002 | 27 | Loony Shatter |
-| 2003 | 27 | teacake |
+| 2001 | 27 | teacake |
+| 2002 | 27 | Francesca Rice |
+| 2003 | 27 | Loony Shatter |
 | 2004 | 27 | Daddy’s Here |
-| 2005 | 27 | BethAnn Pawlowski |
-| 2006 | 27 | NellieG |
-| 2007 | 27 | Loony Matcher |
-| 2008 | 27 | Nicole Dunn |
+| 2005 | 27 | NellieG |
+| 2006 | 27 | BethAnn Pawlowski |
+| 2007 | 27 | Michael Blackmon |
+| 2008 | 27 | Loony Matcher |
 | 2009 | 27 | Danielle Lynn Maxson |
-| 2010 | 27 | Dreamy Linkblock |
-| 2011 | 27 | Boldy Blockline |
-| 2012 | 27 | Bold Patternfall |
-| 2013 | 27 | Donnell Coates |
-| 2014 | 27 | lion king |
+| 2010 | 27 | Nicole Dunn |
+| 2011 | 27 | Dreamy Linkblock |
+| 2012 | 27 | Boldy Blockline |
+| 2013 | 27 | Bold Patternfall |
+| 2014 | 27 | Donnell Coates |
 | 2015 | 27 | Chad Praytor |
-| 2016 | 26 | whocares |
-| 2017 | 26 | Boya Ray Johnson |
-| 2018 | 26 | Pam Martin |
-| 2019 | 26 | Michael Blackmon |
+| 2016 | 27 | lion king |
+| 2017 | 26 | whocares |
+| 2018 | 26 | Boya Ray Johnson |
+| 2019 | 26 | Pam Martin |
 | 2020 | 26 | Misty Dillard |
 | 2021 | 26 | Megan Theresa Marie Rydle |
 | 2022 | 26 | gnat |
@@ -2041,19 +2041,19 @@
 | 2033 | 25 | Crystal Owen Yocolano |
 | 2034 | 25 | JesseJo |
 | 2035 | 25 | Mighty Piecebuilder |
-| 2036 | 25 | Crasher |
-| 2037 | 25 | Eddie Trigg III |
-| 2038 | 25 | Chipper Gridroll |
+| 2036 | 25 | Chipper Gridroll |
+| 2037 | 25 | JinxxedMozzerella |
+| 2038 | 25 | Eddie Trigg III |
 | 2039 | 25 | Charlene Napier |
-| 2040 | 25 | JinxxedMozzerella |
+| 2040 | 25 | Crasher |
 | 2041 | 25 | Brave Curver |
-| 2042 | 24 | Bria Caldwell |
-| 2043 | 24 | Erica L Jenkins |
-| 2044 | 24 | Sk8Mom |
-| 2045 | 24 | Royalty |
-| 2046 | 24 | PixieGirl |
-| 2047 | 24 | LesterandJulia Duckwitz |
-| 2048 | 24 | Johnson |
+| 2042 | 24 | Erica L Jenkins |
+| 2043 | 24 | PixieGirl |
+| 2044 | 24 | Royalty |
+| 2045 | 24 | Bria Caldwell |
+| 2046 | 24 | Sk8Mom |
+| 2047 | 24 | Johnson |
+| 2048 | 24 | LesterandJulia Duckwitz |
 | 2049 | 24 | Nicole |
 | 2050 | 24 | Kathryn Mason |
 | 2051 | 24 | April Wright |
@@ -2062,32 +2062,32 @@
 | 2054 | 23 | Rich Gorondy |
 | 2055 | 23 | Sarah Phelps Beyer |
 | 2056 | 23 | Shirley Bates |
-| 2057 | 23 | Dawn Lynn |
-| 2058 | 23 | Saucy Clusterer |
-| 2059 | 23 | Giggly Glider |
-| 2060 | 23 | Karen Campbell |
-| 2061 | 23 | Nickishan Richrds |
-| 2062 | 23 | Jumpy Tilemaker |
-| 2063 | 23 | Amanda Raley |
-| 2064 | 23 | Flashy Balanceblock |
-| 2065 | 23 | Mary Goodman |
-| 2066 | 23 | Spicy Basepiece |
-| 2067 | 23 | Tommyboy |
-| 2068 | 23 | Ashley Propst |
-| 2069 | 23 | Haley |
-| 2070 | 23 | Linda Riegsecker |
-| 2071 | 23 | no name |
-| 2072 | 23 | Cherry L. Salama |
-| 2073 | 22 | Tipsy Splitter |
-| 2074 | 22 | Heather |
-| 2075 | 22 | Kevin Ray Cook |
+| 2057 | 23 | Mary Goodman |
+| 2058 | 23 | Jumpy Tilemaker |
+| 2059 | 23 | no name |
+| 2060 | 23 | Cherry L. Salama |
+| 2061 | 23 | Giggly Glider |
+| 2062 | 23 | Linda Riegsecker |
+| 2063 | 23 | Nickishan Richrds |
+| 2064 | 23 | Dawn Lynn |
+| 2065 | 23 | Haley |
+| 2066 | 23 | Saucy Clusterer |
+| 2067 | 23 | Ashley Propst |
+| 2068 | 23 | Karen Campbell |
+| 2069 | 23 | Tommyboy |
+| 2070 | 23 | Amanda Raley |
+| 2071 | 23 | Flashy Balanceblock |
+| 2072 | 23 | Spicy Basepiece |
+| 2073 | 22 | Kevin Ray Cook |
+| 2074 | 22 | Amy DeSoto |
+| 2075 | 22 | Stacy Stickle |
 | 2076 | 22 | Suszi |
-| 2077 | 22 | Stacy Stickle |
-| 2078 | 22 | Amy DeSoto |
-| 2079 | 22 | Dawn Burzee |
+| 2077 | 22 | Tipsy Splitter |
+| 2078 | 22 | Dawn Burzee |
+| 2079 | 22 | Heather |
 | 2080 | 22 | Melanesia Springs |
-| 2081 | 22 | Nutty Cascader |
-| 2082 | 22 | Tyler Bates |
+| 2081 | 22 | Tyler Bates |
+| 2082 | 22 | Nutty Cascader |
 | 2083 | 22 | Amanda Hastings |
 | 2084 | 22 | SueEllen Hawkins |
 | 2085 | 21 | Randi Moore |
@@ -2097,20 +2097,20 @@
 | 2089 | 21 | Lou Sassole |
 | 2090 | 21 | sally |
 | 2091 | 21 | Krickett M. Curtis |
-| 2092 | 21 | Loony Snapclear |
-| 2093 | 21 | Perky Stackbuilder |
+| 2092 | 21 | Perky Stackbuilder |
+| 2093 | 21 | Loony Snapclear |
 | 2094 | 21 | Tina Thomason |
 | 2095 | 21 | Mark Frazier |
-| 2096 | 21 | Swahko |
-| 2097 | 21 | Vee Waller |
-| 2098 | 21 | Chill Shatterclear |
+| 2096 | 21 | Chill Shatterclear |
+| 2097 | 21 | Swahko |
+| 2098 | 21 | Vee Waller |
 | 2099 | 20 | Amondo Duckworth |
-| 2100 | 20 | Mighty Bricky |
+| 2100 | 20 | Codeezy!! |
 | 2101 | 20 | Brandy Knight Roberts |
-| 2102 | 20 | Codeezy!! |
-| 2103 | 20 | Mike Stevens |
-| 2104 | 20 | Scott Mack |
-| 2105 | 20 | Steven Moore |
+| 2102 | 20 | Mighty Bricky |
+| 2103 | 20 | Scott Mack |
+| 2104 | 20 | Steven Moore |
+| 2105 | 20 | Mike Stevens |
 | 2106 | 20 | Kathi Patrick |
 | 2107 | 20 | Chrisann Lebron |
 | 2108 | 20 | Robin Johnson |
