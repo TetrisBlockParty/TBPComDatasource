@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 07:16:43 UTC
+# Standings for team1 as of 2026-06-09 07:17:21 UTC
 
 **Total Participants:** 2009
 
@@ -1228,32 +1228,32 @@
 | 1220 | 64 | LaQuita White |
 | 1221 | 64 | Witty Snapbuilder |
 | 1222 | 64 | sunstar |
-| 1223 | 64 | Briela Sabrina |
-| 1224 | 64 | Capt Kev |
+| 1223 | 64 | Capt Kev |
+| 1224 | 64 | Briela Sabrina |
 | 1225 | 64 | Frothy Snapmatch |
-| 1226 | 63 | Damien Fonseca |
-| 1227 | 63 | Tyrone Porter |
-| 1228 | 63 | Gary Kyle |
+| 1226 | 63 | Tyrone Porter |
+| 1227 | 63 | Natasha Harris |
+| 1228 | 63 | Storie Harris |
 | 1229 | 63 | Tonny Williams |
-| 1230 | 63 | Storie Harris |
-| 1231 | 63 | Natasha Harris |
-| 1232 | 62 | Quirky Slammer |
-| 1233 | 62 | Jenni |
-| 1234 | 62 | Loony Clearer |
-| 1235 | 62 | Spicy Hedgehog |
+| 1230 | 63 | Cheery T-spin |
+| 1231 | 63 | Damien Fonseca |
+| 1232 | 63 | Gary Kyle |
+| 1233 | 62 | Spicy Hedgehog |
+| 1234 | 62 | Korie Dixon |
+| 1235 | 62 | Stephanie Vinson |
 | 1236 | 62 | Shona ShayShay Jones |
-| 1237 | 62 | Stephanie Vinson |
-| 1238 | 62 | Korie Dixon |
-| 1239 | 62 | Brave Gridmatch |
-| 1240 | 62 | Simone Dublin |
-| 1241 | 61 | Michelle Stanford-Page |
-| 1242 | 61 | Giggleme |
-| 1243 | 61 | Audrey Gestring |
-| 1244 | 61 | Sagitterrorist |
-| 1245 | 60 | Jennifer Endean |
-| 1246 | 60 | Nope Young |
-| 1247 | 60 | Lynette Manning |
-| 1248 | 60 | Cheery T-spin |
+| 1237 | 62 | Loony Clearer |
+| 1238 | 62 | Quirky Slammer |
+| 1239 | 62 | Jenni |
+| 1240 | 62 | Brave Gridmatch |
+| 1241 | 62 | Simone Dublin |
+| 1242 | 61 | Michelle Stanford-Page |
+| 1243 | 61 | Giggleme |
+| 1244 | 61 | Audrey Gestring |
+| 1245 | 61 | Sagitterrorist |
+| 1246 | 60 | Jennifer Endean |
+| 1247 | 60 | Nope Young |
+| 1248 | 60 | Lynette Manning |
 | 1249 | 60 | Tweet |
 | 1250 | 60 | Nigel Snyder |
 | 1251 | 60 | Skyhigh Scott |
