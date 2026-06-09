@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 10:34:21 UTC
+# Standings for team2 as of 2026-06-09 10:34:44 UTC
 
 **Total Participants:** 2468
 
@@ -93,9 +93,9 @@
 | 85 | 1699 | Poppy |
 | 86 | 1696 | Gabriella Humphreys |
 | 87 | 1647 | Marquita Toliver |
-| 88 | 1631 | Giddy Slamdrop |
-| 89 | 1610 | Ashlea McBlaine |
-| 90 | 1571 | Bon Lynn |
+| 88 | 1631 | Bon Lynn |
+| 89 | 1631 | Giddy Slamdrop |
+| 90 | 1610 | Ashlea McBlaine |
 | 91 | 1552 | Ruby Sandberg |
 | 92 | 1547 | Lily |
 | 93 | 1510 | Shandrea Crawford |
@@ -475,10 +475,10 @@
 | 467 | 304 | Brandi Christensen-Henley |
 | 468 | 303 | Ashley Voelz |
 | 469 | 303 | Loopy Tower |
-| 470 | 301 | Jeff Pottgether |
-| 471 | 300 | Happy |
-| 472 | 300 | August Christy Lathrop |
-| 473 | 300 | Mrs biotch |
+| 470 | 302 | Mrs biotch |
+| 471 | 301 | Jeff Pottgether |
+| 472 | 300 | Happy |
+| 473 | 300 | August Christy Lathrop |
 | 474 | 299 | Jennifer Covington |
 | 475 | 299 | StacyBabee |
 | 476 | 298 | Olivia Jefferson |

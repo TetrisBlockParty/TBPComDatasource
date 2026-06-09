@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:34:21 UTC
+# Standings for team1 as of 2026-06-09 10:34:44 UTC
 
 **Total Participants:** 2035
 
@@ -66,8 +66,8 @@
 | 58 | 1757 | Chris Russell |
 | 59 | 1700 | Rosey |
 | 60 | 1683 | Jacoby E Fleming |
-| 61 | 1642 | TAZ-MF-NIZIL |
-| 62 | 1619 | Corey Cawthon |
+| 61 | 1679 | Corey Cawthon |
+| 62 | 1642 | TAZ-MF-NIZIL |
 | 63 | 1568 | Helen Smith |
 | 64 | 1507 | Eric Mcgaughy |
 | 65 | 1484 | Danielle DeLozier Plesec |
@@ -185,8 +185,8 @@
 | 177 | 616 | Dandy Brickfit |
 | 178 | 611 | SyTheEvilGenius1 |
 | 179 | 610 | Genne Scott |
-| 180 | 606 | Tammye Turner |
-| 181 | 605 | Jeffrey Barrows |
+| 180 | 610 | Jeffrey Barrows |
+| 181 | 606 | Tammye Turner |
 | 182 | 604 | Michelle Titus |
 | 183 | 600 | Shellzb Roberts |
 | 184 | 599 | Zappy Riser |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 10:34:21 UTC
+# Standings for team4 as of 2026-06-09 10:34:44 UTC
 
 **Total Participants:** 2091
 
@@ -253,8 +253,8 @@
 | 245 | 450 | Fran Aaron-Ring |
 | 246 | 447 | Brick House |
 | 247 | 446 | Smiley Gridzone |
-| 248 | 443 | Crissy Hoffman |
-| 249 | 443 | Joyce Myers |
+| 248 | 443 | Joyce Myers |
+| 249 | 443 | Crissy Hoffman |
 | 250 | 443 | Genger |
 | 251 | 441 | Twirl Girl |
 | 252 | 440 | Shy |
@@ -265,19 +265,19 @@
 | 257 | 438 | Aisha Estrada |
 | 258 | 437 | Sarah Perry Cook |
 | 259 | 435 | Tiffany Bunker-Hill |
-| 260 | 433 | Shanae Taylor |
-| 261 | 433 | Dae Von |
+| 260 | 433 | Dae Von |
+| 261 | 433 | Shanae Taylor |
 | 262 | 432 | Danny Ortiz |
 | 263 | 431 | Jackie Miller |
 | 264 | 431 | Lush Fitblock |
 | 265 | 430 | Tammy June |
 | 266 | 426 | Sassy Rollpiece |
-| 267 | 424 | Drh4090 |
-| 268 | 424 | Funky Tiler |
+| 267 | 424 | Funky Tiler |
+| 268 | 424 | Drh4090 |
 | 269 | 423 | Chirpy Snapclear |
 | 270 | 421 | Bean |
-| 271 | 421 | Swanky Brickzone |
-| 272 | 421 | Shiny Brick |
+| 271 | 421 | Shiny Brick |
+| 272 | 421 | Swanky Brickzone |
 | 273 | 420 | Chiquita Blue |
 | 274 | 419 | Pepper |
 | 275 | 418 | Jojo Ann |
@@ -290,19 +290,19 @@
 | 282 | 400 | Holly Wessel |
 | 283 | 399 | Ashley Jenkins |
 | 284 | 398 | Juvon SupaShawdii Brooks |
-| 285 | 398 | Danny Keich III |
-| 286 | 398 | EL Booger |
-| 287 | 398 | Becky McCool |
-| 288 | 395 | Thomasena Eady Reid |
-| 289 | 395 | Bobbie Harrell |
+| 285 | 398 | Becky McCool |
+| 286 | 398 | Danny Keich III |
+| 287 | 398 | EL Booger |
+| 288 | 395 | Bobbie Harrell |
+| 289 | 395 | Thomasena Eady Reid |
 | 290 | 394 | Glitzy Patternbuilder |
 | 291 | 392 | Clashy |
 | 292 | 391 | Sherry Mooney |
 | 293 | 381 | Jackie Polanco |
 | 294 | 380 | Knijur Callins |
 | 295 | 378 | Hwanger Land |
-| 296 | 377 | Gary Smallwood |
-| 297 | 377 | Amandacolle |
+| 296 | 377 | Amandacolle |
+| 297 | 377 | Gary Smallwood |
 | 298 | 374 | Anthony Lewis |
 | 299 | 372 | Colin |
 | 300 | 371 | Anna Gribble |
@@ -325,15 +325,15 @@
 | 317 | 351 | PerfectPieces |
 | 318 | 351 | Lucy Honer |
 | 319 | 350 | No Time |
-| 320 | 349 | Matthew Hudson |
-| 321 | 348 | Bridget Stevens |
-| 322 | 348 | Bri Martin |
-| 323 | 348 | Slimm |
-| 324 | 346 | Tawna Curry |
-| 325 | 345 | Tipsy Piecebuilder |
-| 326 | 344 | Roxana Romero |
-| 327 | 343 | Chummy Jumper |
-| 328 | 343 | EvoKitty |
+| 320 | 349 | EvoKitty |
+| 321 | 349 | Matthew Hudson |
+| 322 | 348 | Bridget Stevens |
+| 323 | 348 | Bri Martin |
+| 324 | 348 | Slimm |
+| 325 | 346 | Tawna Curry |
+| 326 | 345 | Tipsy Piecebuilder |
+| 327 | 344 | Roxana Romero |
+| 328 | 343 | Chummy Jumper |
 | 329 | 342 | Spicy Chicken |
 | 330 | 342 | Anthony McAlister |
 | 331 | 337 | Breezy Cascadeclear |
