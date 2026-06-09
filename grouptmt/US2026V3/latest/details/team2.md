@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 08:17:24 UTC
+# Standings for team2 as of 2026-06-09 08:18:21 UTC
 
 **Total Participants:** 2445
 
@@ -198,8 +198,8 @@
 | 190 | 681 | Amanda Sikes |
 | 191 | 680 | DukeDino |
 | 192 | 675 | Glitzy Base |
-| 193 | 671 | Gloria May Shook |
-| 194 | 671 | SEH |
+| 193 | 671 | SEH |
+| 194 | 671 | Gloria May Shook |
 | 195 | 671 | Sandy Lynn |
 | 196 | 671 | Krystal Hummel |
 | 197 | 668 | Crystal Allen |
@@ -255,13 +255,13 @@
 | 247 | 555 | Twisty Buildgrid |
 | 248 | 555 | H |
 | 249 | 554 | Sabrina Hardrick |
-| 250 | 553 | Kathy Strickland |
-| 251 | 553 | Rosalie Call Kehlenbeck |
+| 250 | 553 | Rosalie Call Kehlenbeck |
+| 251 | 553 | Kathy Strickland |
 | 252 | 553 | Thomas Tyrone |
-| 253 | 550 | Jess |
-| 254 | 550 | DomDomsNana |
-| 255 | 550 | Gabrielle Wilson |
-| 256 | 550 | Ratchet |
+| 253 | 552 | Ratchet |
+| 254 | 550 | Gabrielle Wilson |
+| 255 | 550 | Jess |
+| 256 | 550 | DomDomsNana |
 | 257 | 547 | Iesha Cupil |
 | 258 | 544 | Starr Collins |
 | 259 | 543 | Alicia Ellenburg |
@@ -450,13 +450,13 @@
 | 442 | 314 | Aurora June Brock |
 | 443 | 313 | Jerry L Morales |
 | 444 | 313 | Dad |
-| 445 | 312 | Patria Osuoha |
-| 446 | 312 | Sam |
-| 447 | 311 | Brittany Mathis |
-| 448 | 311 | KazzyKay |
-| 449 | 310 | Zappy Liney |
-| 450 | 310 | Melmel |
-| 451 | 310 | Hannah Meadows Hammond |
+| 445 | 312 | KazzyKay |
+| 446 | 312 | Patria Osuoha |
+| 447 | 312 | Sam |
+| 448 | 311 | Brittany Mathis |
+| 449 | 310 | Hannah Meadows Hammond |
+| 450 | 310 | Zappy Liney |
+| 451 | 310 | Melmel |
 | 452 | 309 | Elliott Mikila |
 | 453 | 309 | Carolyn McNaughton |
 | 454 | 309 | Martha Lynn Wiggins |
@@ -489,8 +489,8 @@
 | 481 | 291 | Josh Vietz |
 | 482 | 291 | Tara Flood |
 | 483 | 290 | Alyssa Malay |
-| 484 | 290 | Mandy Van Laningham Bishop |
-| 485 | 290 | Nichole Wilson |
+| 484 | 290 | Nichole Wilson |
+| 485 | 290 | Mandy Van Laningham Bishop |
 | 486 | 289 | Analee Nicole Jones |
 | 487 | 289 | Layla Petroff |
 | 488 | 288 | Peter Fogg |
@@ -502,15 +502,15 @@
 | 494 | 280 | Keisha Robinson |
 | 495 | 280 | Brooklyn Todd |
 | 496 | 280 | Michelle M Braley |
-| 497 | 278 | Madonna Ash |
+| 497 | 280 | Ssirkus |
 | 498 | 278 | Sydney Cheyenne |
-| 499 | 278 | Tiffany Hassanshahi |
-| 500 | 278 | Kendra Sizemore |
-| 501 | 277 | Jennifer McClure |
-| 502 | 277 | Amanda Priddy |
-| 503 | 277 | Brandy Chinelle |
-| 504 | 276 | Carol Whited Loza |
-| 505 | 276 | Ssirkus |
+| 499 | 278 | Madonna Ash |
+| 500 | 278 | Tiffany Hassanshahi |
+| 501 | 278 | Kendra Sizemore |
+| 502 | 277 | Jennifer McClure |
+| 503 | 277 | Amanda Priddy |
+| 504 | 277 | Brandy Chinelle |
+| 505 | 276 | Carol Whited Loza |
 | 506 | 276 | Patrick Ohanlon |
 | 507 | 276 | Smiley Staggerpiece |
 | 508 | 275 | Eric Wayne Maschman |
@@ -520,8 +520,8 @@
 | 512 | 269 | Brooke Lynn Marie Adelaide |
 | 513 | 268 | Heather Schardan |
 | 514 | 267 | Lisa Allen Frisk |
-| 515 | 264 | Michael Carmichael |
-| 516 | 264 | Jessica Connot |
+| 515 | 264 | Jessica Connot |
+| 516 | 264 | Michael Carmichael |
 | 517 | 263 | Gina Leal |
 | 518 | 262 | Billy Pittman |
 | 519 | 261 | Frisky Twist |
@@ -529,8 +529,8 @@
 | 521 | 261 | Hyper Striker |
 | 522 | 261 | Donna Esbensen-Alpini |
 | 523 | 260 | Po Yee |
-| 524 | 260 | Michele Stewart |
-| 525 | 260 | phamous1 |
+| 524 | 260 | phamous1 |
+| 525 | 260 | Michele Stewart |
 | 526 | 259 | Gabrielle Rivera |
 | 527 | 259 | Angie Kowalsky Olson |
 | 528 | 259 | Tango Sierra |
@@ -1077,31 +1077,31 @@
 | 1069 | 118 | Michelle Anne |
 | 1070 | 118 | Brian Little |
 | 1071 | 118 | Gino Positano |
-| 1072 | 117 | Jessica Spivey Cooper |
-| 1073 | 117 | Jack |
-| 1074 | 117 | Christina Whitehead |
-| 1075 | 117 | James Maness |
-| 1076 | 117 | Hansent3 |
-| 1077 | 117 | C.L. Deslongchamp |
-| 1078 | 117 | Cindy Wellman |
-| 1079 | 116 | Frisky Linkmatch |
-| 1080 | 116 | Giggy Dropzone |
-| 1081 | 116 | Kendra Sullins |
-| 1082 | 116 | ASL |
-| 1083 | 116 | Chill Clearbuilder |
-| 1084 | 116 | Jill Bobst Marple |
-| 1085 | 116 | Jessica Rose Engebretson |
-| 1086 | 116 | Trisha Schneider |
-| 1087 | 115 | Ollie |
-| 1088 | 115 | D.j. Wingate |
-| 1089 | 115 | STARFIRE |
-| 1090 | 115 | Doris Bonin |
-| 1091 | 115 | Edward Conyers |
-| 1092 | 114 | JDub |
-| 1093 | 114 | Miguel360 |
-| 1094 | 114 | Amanda Jungclaus |
-| 1095 | 114 | Shannon Miller- Cooley |
-| 1096 | 114 | YAKO |
+| 1072 | 118 | Cindy Wellman |
+| 1073 | 117 | Christina Whitehead |
+| 1074 | 117 | James Maness |
+| 1075 | 117 | Hansent3 |
+| 1076 | 117 | C.L. Deslongchamp |
+| 1077 | 117 | Jessica Spivey Cooper |
+| 1078 | 117 | Jack |
+| 1079 | 116 | Jessica Rose Engebretson |
+| 1080 | 116 | Trisha Schneider |
+| 1081 | 116 | Frisky Linkmatch |
+| 1082 | 116 | Giggy Dropzone |
+| 1083 | 116 | Kendra Sullins |
+| 1084 | 116 | ASL |
+| 1085 | 116 | Chill Clearbuilder |
+| 1086 | 116 | Jill Bobst Marple |
+| 1087 | 115 | D.j. Wingate |
+| 1088 | 115 | STARFIRE |
+| 1089 | 115 | Doris Bonin |
+| 1090 | 115 | Edward Conyers |
+| 1091 | 115 | Ollie |
+| 1092 | 114 | YAKO |
+| 1093 | 114 | JDub |
+| 1094 | 114 | Miguel360 |
+| 1095 | 114 | Amanda Jungclaus |
+| 1096 | 114 | Shannon Miller- Cooley |
 | 1097 | 113 | Wood |
 | 1098 | 113 | Randy Taylor |
 | 1099 | 113 | Joffee Joffer |
