@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 13:58:44 UTC
+# Standings for team2 as of 2026-06-09 13:59:22 UTC
 
 **Total Participants:** 2504
 
@@ -43,8 +43,8 @@
 | 35 | 5290 | Logan Basham |
 | 36 | 5114 | Rashanna Bockhorn |
 | 37 | 5104 | Spunky Clicker |
-| 38 | 4590 | DarkHorse |
-| 39 | 4581 | Elizabeth Mooney |
+| 38 | 4681 | Elizabeth Mooney |
+| 39 | 4590 | DarkHorse |
 | 40 | 4307 | Quirky Catcher |
 | 41 | 4279 | Matt Hardin |
 | 42 | 4268 | Erica Dees Parks |
@@ -168,12 +168,12 @@
 | 160 | 826 | Sam |
 | 161 | 821 | Zesty Strikerbuilder |
 | 162 | 813 | Loony Faller |
-| 163 | 811 | AndrewandShela Gornik |
-| 164 | 810 | Zachary Vymislicky |
-| 165 | 809 | Snappy Blockbuilder |
-| 166 | 809 | Nettrainer |
-| 167 | 807 | Glitzy Base |
-| 168 | 807 | Sara Perkins |
+| 163 | 812 | Sara Perkins |
+| 164 | 811 | AndrewandShela Gornik |
+| 165 | 810 | Zachary Vymislicky |
+| 166 | 809 | Snappy Blockbuilder |
+| 167 | 809 | Nettrainer |
+| 168 | 807 | Glitzy Base |
 | 169 | 807 | Brandon Link |
 | 170 | 806 | Monique Frantz |
 | 171 | 805 | Jgato |
@@ -332,15 +332,15 @@
 | 324 | 453 | Kimberly Cowan |
 | 325 | 452 | Boldy Fitclear |
 | 326 | 452 | Jeanna Mendez |
-| 327 | 448 | Eric Drane |
-| 328 | 447 | Xandrea Jones |
-| 329 | 445 | Norma Ortiz |
-| 330 | 438 | Lora Via |
-| 331 | 438 | Cathy Lee Stoneking |
-| 332 | 435 | Thy Bui |
-| 333 | 434 | Mikia Stokes |
-| 334 | 430 | Jenn |
-| 335 | 430 | Kellie Montgomery |
+| 327 | 450 | Kellie Montgomery |
+| 328 | 448 | Eric Drane |
+| 329 | 447 | Xandrea Jones |
+| 330 | 445 | Norma Ortiz |
+| 331 | 438 | Lora Via |
+| 332 | 438 | Cathy Lee Stoneking |
+| 333 | 435 | Thy Bui |
+| 334 | 434 | Mikia Stokes |
+| 335 | 430 | Jenn |
 | 336 | 430 | Jumpy Matchbuilder |
 | 337 | 428 | Goofy Gridclear |
 | 338 | 428 | Physhie |
