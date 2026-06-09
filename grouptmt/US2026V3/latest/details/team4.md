@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 05:22:20 UTC
+# Standings for team4 as of 2026-06-09 05:22:43 UTC
 
 **Total Participants:** 2058
 
@@ -52,7 +52,7 @@
 | 44 | 2800 | Caitlin Johnson |
 | 45 | 2800 | Annastaissia Todd |
 | 46 | 2689 | Blind Bette |
-| 47 | 2468 | 626 |
+| 47 | 2526 | 626 |
 | 48 | 2433 | Alexandria Frazier |
 | 49 | 2428 | Jeanette Hailey |
 | 50 | 2398 | Carly Stempien |
@@ -1751,63 +1751,63 @@
 | 1743 | 23 | Bonniee Lee |
 | 1744 | 23 | Infini Agape |
 | 1745 | 23 | Peachy Tiltpiece |
-| 1746 | 23 | Carole Dyment Westcott |
+| 1746 | 23 | Monika Webb |
 | 1747 | 23 | Frank Brown |
-| 1748 | 23 | Monika Webb |
-| 1749 | 22 | Brittany Lloyd |
+| 1748 | 23 | Carole Dyment Westcott |
+| 1749 | 22 | Clever Clearzone |
 | 1750 | 22 | McScrubby |
-| 1751 | 22 | Sarah McAllister |
-| 1752 | 22 | Funky Rollblock |
-| 1753 | 22 | Diana Torres |
-| 1754 | 22 | James Balderas |
-| 1755 | 22 | Snippy Shatterclear |
-| 1756 | 22 | Chachi |
-| 1757 | 22 | Queen |
-| 1758 | 22 | Clever Blockfall |
-| 1759 | 22 | Renee Short Anthony |
-| 1760 | 22 | Bold Tumbler |
-| 1761 | 22 | Rooney |
-| 1762 | 21 | Tonya Cross |
-| 1763 | 21 | Happy shelli |
-| 1764 | 21 | Luluski Ward |
-| 1765 | 21 | Ak Jones |
-| 1766 | 21 | Hope Fallen |
-| 1767 | 21 | Justin Blasnig |
-| 1768 | 21 | kakasports |
-| 1769 | 21 | Tha Don |
-| 1770 | 20 | Reuben Determination Dixon |
+| 1751 | 22 | Chachi |
+| 1752 | 22 | Renee Short Anthony |
+| 1753 | 22 | Clever Blockfall |
+| 1754 | 22 | Diana Torres |
+| 1755 | 22 | Funky Rollblock |
+| 1756 | 22 | Sarah McAllister |
+| 1757 | 22 | Brittany Lloyd |
+| 1758 | 22 | James Balderas |
+| 1759 | 22 | Snippy Shatterclear |
+| 1760 | 22 | Queen |
+| 1761 | 22 | Bold Tumbler |
+| 1762 | 22 | Rooney |
+| 1763 | 21 | Tonya Cross |
+| 1764 | 21 | kakasports |
+| 1765 | 21 | Tha Don |
+| 1766 | 21 | Happy shelli |
+| 1767 | 21 | Ak Jones |
+| 1768 | 21 | Luluski Ward |
+| 1769 | 21 | Justin Blasnig |
+| 1770 | 21 | Hope Fallen |
 | 1771 | 20 | 67boyyy |
-| 1772 | 20 | Chilly Glidezone |
-| 1773 | 20 | Robert Walker |
-| 1774 | 20 | Kristin Ussery |
-| 1775 | 20 | DamienDante |
-| 1776 | 20 | Hunter Lynn |
-| 1777 | 20 | Bryieson Watson |
-| 1778 | 20 | Zesty lemon |
-| 1779 | 20 | Richard Moneyrich Nottingham |
-| 1780 | 20 | Clever Clearzone |
-| 1781 | 20 | Chirs24 |
-| 1782 | 20 | Krystal Littleton |
-| 1783 | 20 | Ralph Bennett |
-| 1784 | 20 | Sarah Sherman |
-| 1785 | 20 | Hotmessmama1721 |
-| 1786 | 20 | Snippy Balancepiece |
-| 1787 | 20 | Calleen Ellen Madrigal |
-| 1788 | 20 | Ayanna Cornish |
-| 1789 | 20 | Vinnie Barnett |
-| 1790 | 20 | SweetMomma |
-| 1791 | 20 | Becca Milliron |
-| 1792 | 20 | Ryan Luperena |
+| 1772 | 20 | SweetMomma |
+| 1773 | 20 | Vinnie Barnett |
+| 1774 | 20 | Chilly Glidezone |
+| 1775 | 20 | Ayanna Cornish |
+| 1776 | 20 | Reuben Determination Dixon |
+| 1777 | 20 | Calleen Ellen Madrigal |
+| 1778 | 20 | Snippy Balancepiece |
+| 1779 | 20 | Becca Milliron |
+| 1780 | 20 | Robert Walker |
+| 1781 | 20 | Hotmessmama1721 |
+| 1782 | 20 | Kristin Ussery |
+| 1783 | 20 | DamienDante |
+| 1784 | 20 | Hunter Lynn |
+| 1785 | 20 | Sarah Sherman |
+| 1786 | 20 | Ralph Bennett |
+| 1787 | 20 | Zesty lemon |
+| 1788 | 20 | John Ramos |
+| 1789 | 20 | Christine Boone |
+| 1790 | 20 | Mar93 |
+| 1791 | 20 | Snazzy Piecebuilder |
+| 1792 | 20 | Litty |
 | 1793 | 20 | Cool Towerer |
-| 1794 | 20 | Mar93 |
-| 1795 | 20 | Nutty Balanceblock |
-| 1796 | 20 | Christine Boone |
-| 1797 | 20 | Snazzy Piecebuilder |
-| 1798 | 20 | Litty |
-| 1799 | 20 | Dandy Linefit |
-| 1800 | 20 | Candie Morris |
-| 1801 | 20 | John Ramos |
-| 1802 | 20 | Winter |
+| 1794 | 20 | Dandy Linefit |
+| 1795 | 20 | Candie Morris |
+| 1796 | 20 | Ryan Luperena |
+| 1797 | 20 | Nutty Balanceblock |
+| 1798 | 20 | Krystal Littleton |
+| 1799 | 20 | Winter |
+| 1800 | 20 | Chirs24 |
+| 1801 | 20 | Richard Moneyrich Nottingham |
+| 1802 | 20 | Bryieson Watson |
 | 1803 | 20 | Jessica Smith |
 | 1804 | 20 | Whirl-Klines L Evelyn |
 | 1805 | 19 | Kariana Gonzalez Ortiz |
