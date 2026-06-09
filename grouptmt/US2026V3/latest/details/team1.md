@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 13:14:46 UTC
+# Standings for team1 as of 2026-06-09 13:15:21 UTC
 
 **Total Participants:** 2051
 
@@ -445,8 +445,8 @@
 | 437 | 275 | Falisa Bell |
 | 438 | 274 | 신재호 |
 | 439 | 274 | Shakmar |
-| 440 | 271 | Bambam |
-| 441 | 271 | Saucy Faller |
+| 440 | 274 | Saucy Faller |
+| 441 | 271 | Bambam |
 | 442 | 269 | Stephanie L Jeffries Moultrie |
 | 443 | 269 | Kristine Marie Palmer |
 | 444 | 269 | Aihpos |
@@ -635,10 +635,10 @@
 | 627 | 193 | Kimberly Susan Privette |
 | 628 | 192 | Donna Payne |
 | 629 | 192 | Cranky Fall |
-| 630 | 191 | Nona Harriel |
-| 631 | 191 | Miera Nicole |
-| 632 | 191 | Gbnola |
-| 633 | 191 | Coco |
+| 630 | 192 | Coco |
+| 631 | 191 | Nona Harriel |
+| 632 | 191 | Miera Nicole |
+| 633 | 191 | Gbnola |
 | 634 | 190 | Chipper Snapper |
 | 635 | 190 | meatballs |
 | 636 | 190 | Adrian Wilson |
@@ -660,22 +660,22 @@
 | 652 | 186 | Spicy Shatterblock |
 | 653 | 184 | Renee Marshall |
 | 654 | 183 | Shakuria Cortia Burney |
-| 655 | 183 | Amihan |
-| 656 | 183 | Shameka Tiffany |
+| 655 | 183 | Shameka Tiffany |
+| 656 | 183 | Amihan |
 | 657 | 183 | Erika |
 | 658 | 182 | RylonJones |
 | 659 | 182 | Comedian Prince Paul |
 | 660 | 182 | Betsy B. Yohan |
-| 661 | 181 | Amy Villalpando |
-| 662 | 180 | NedaWin |
-| 663 | 180 | Victor |
-| 664 | 180 | Nikita Jones |
-| 665 | 180 | Cornelius Neal |
-| 666 | 179 | Kike Lua |
-| 667 | 179 | Anastasia |
-| 668 | 179 | Ad Doctor |
-| 669 | 179 | Stephen Garland |
-| 670 | 179 | Loony Clearer |
+| 661 | 181 | Loony Clearer |
+| 662 | 181 | Amy Villalpando |
+| 663 | 180 | NedaWin |
+| 664 | 180 | Victor |
+| 665 | 180 | Nikita Jones |
+| 666 | 180 | Cornelius Neal |
+| 667 | 179 | Kike Lua |
+| 668 | 179 | Anastasia |
+| 669 | 179 | Ad Doctor |
+| 670 | 179 | Stephen Garland |
 | 671 | 179 | Jes Marie |
 | 672 | 178 | Don Ray Mc |
 | 673 | 178 | Frilly Shatterline |
@@ -826,11 +826,11 @@
 | 818 | 137 | Angelique Talbot |
 | 819 | 137 | LaShawyn Wood |
 | 820 | 137 | Xana Zania Bopp |
-| 821 | 137 | Star Hart |
-| 822 | 136 | Rissa Rozay |
-| 823 | 136 | Christopher Shaw-Black |
-| 824 | 136 | Alanna Breitenbach |
-| 825 | 136 | Kidgib5 |
+| 821 | 137 | Kidgib5 |
+| 822 | 137 | Star Hart |
+| 823 | 136 | Rissa Rozay |
+| 824 | 136 | Christopher Shaw-Black |
+| 825 | 136 | Alanna Breitenbach |
 | 826 | 135 | Saucy Tile |
 | 827 | 135 | Mellie Mel |
 | 828 | 135 | Laysa Nunez |
