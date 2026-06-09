@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 06:34:44 UTC
+# Standings for team2 as of 2026-06-09 06:35:22 UTC
 
 **Total Participants:** 2431
 
@@ -145,8 +145,8 @@
 | 137 | 954 | Jeska Gaines |
 | 138 | 943 | KD Walusay |
 | 139 | 938 | Amber Miller Wirick |
-| 140 | 933 | Sarah Griffey |
-| 141 | 932 | Jackie Tupper |
+| 140 | 933 | Jackie Tupper |
+| 141 | 933 | Sarah Griffey |
 | 142 | 931 | Groovy Snapper |
 | 143 | 930 | Jamie Fenyus |
 | 144 | 923 | Hilliary Beyer |
@@ -420,8 +420,8 @@
 | 412 | 331 | Anthony Swift |
 | 413 | 330 | marsam |
 | 414 | 328 | Buffy Diane Blake |
-| 415 | 325 | Snappy Combo |
-| 416 | 325 | Amber Smith |
+| 415 | 326 | Amber Smith |
+| 416 | 325 | Snappy Combo |
 | 417 | 324 | Kathryn |
 | 418 | 323 | Kim Hunt |
 | 419 | 323 | Kelly Vedder |
@@ -517,8 +517,8 @@
 | 509 | 262 | Billy Pittman |
 | 510 | 261 | Frisky Twist |
 | 511 | 261 | TNGal |
-| 512 | 261 | Donna Esbensen-Alpini |
-| 513 | 261 | Hyper Striker |
+| 512 | 261 | Hyper Striker |
+| 513 | 261 | Donna Esbensen-Alpini |
 | 514 | 260 | Po Yee |
 | 515 | 260 | Michele Stewart |
 | 516 | 260 | phamous1 |
@@ -586,8 +586,8 @@
 | 578 | 232 | Lee Leonard |
 | 579 | 232 | Rescuegirl76 |
 | 580 | 231 | Camilo Moreno |
-| 581 | 229 | Shawn Jensen |
-| 582 | 229 | Tracy Lee |
+| 581 | 229 | Tracy Lee |
+| 582 | 229 | Shawn Jensen |
 | 583 | 228 | Christy Diane Escobar |
 | 584 | 228 | Nicky Steigerwalt |
 | 585 | 228 | Gina Louise Parker |
@@ -601,69 +601,69 @@
 | 593 | 226 | Ava Speedy |
 | 594 | 225 | Zany Wrecker |
 | 595 | 225 | Cheery Towerzone |
-| 596 | 225 | Katelyn Rodgers |
-| 597 | 225 | Mrs biotch |
-| 598 | 225 | Kelly Bormann |
+| 596 | 225 | Mrs biotch |
+| 597 | 225 | Kelly Bormann |
+| 598 | 225 | Katelyn Rodgers |
 | 599 | 224 | Carrie Smith Negron |
-| 600 | 224 | Mary Whitaker |
-| 601 | 222 | Marilyn Strickland |
-| 602 | 222 | Darla Ragsdale |
-| 603 | 222 | Stacy Shaunce |
-| 604 | 221 | Kendra Sizemore |
-| 605 | 221 | Reign Hustler |
-| 606 | 220 | Joannah Capilitan |
-| 607 | 220 | Saucy Wrecker |
-| 608 | 220 | Wendy McKee |
-| 609 | 220 | Brian Favre |
-| 610 | 220 | Krystle L Coon |
+| 600 | 224 | Monica Gonzalez Rios |
+| 601 | 224 | Mary Whitaker |
+| 602 | 222 | Marilyn Strickland |
+| 603 | 222 | Darla Ragsdale |
+| 604 | 222 | Stacy Shaunce |
+| 605 | 221 | Kendra Sizemore |
+| 606 | 221 | Reign Hustler |
+| 607 | 220 | Joannah Capilitan |
+| 608 | 220 | Saucy Wrecker |
+| 609 | 220 | Wendy McKee |
+| 610 | 220 | Brian Favre |
 | 611 | 220 | Carrie Hayes Lankford |
-| 612 | 220 | Chris Christ |
-| 613 | 220 | Alycia Marie Zelensky |
-| 614 | 219 | Cindy Brown |
-| 615 | 219 | Rick |
-| 616 | 218 | Julie Alexander Sykes |
-| 617 | 218 | Wayne Johnson |
+| 612 | 220 | Krystle L Coon |
+| 613 | 220 | Chris Christ |
+| 614 | 220 | Alycia Marie Zelensky |
+| 615 | 219 | Cindy Brown |
+| 616 | 219 | Rick |
+| 617 | 218 | Julie Alexander Sykes |
 | 618 | 218 | Seana Moran |
-| 619 | 217 | Mona Good |
-| 620 | 217 | Melissa Fink |
-| 621 | 217 | Connie McCoy |
-| 622 | 217 | Spicy Snapclear |
-| 623 | 216 | Denise Morehart |
-| 624 | 215 | Missy Renia |
-| 625 | 215 | Nerdy Gridlock |
-| 626 | 213 | Kimberly Davis |
-| 627 | 213 | s3lc4tr0n |
-| 628 | 213 | Mike Mordhorst |
-| 629 | 213 | Judy Burkhalter |
-| 630 | 213 | Mama G |
-| 631 | 213 | Becky Kennon |
-| 632 | 212 | Holly Barefoot |
-| 633 | 211 | Edna Nena Cabrera |
-| 634 | 211 | Lazy Staggerpiece |
-| 635 | 210 | Nichole Wilson |
-| 636 | 210 | Ozge Akgun Tokat |
-| 637 | 210 | Epic Framezone |
-| 638 | 210 | Bouncy Snapmatch |
-| 639 | 210 | Busted9mm |
-| 640 | 209 | Nutty Dash |
+| 619 | 218 | Wayne Johnson |
+| 620 | 217 | Mona Good |
+| 621 | 217 | Melissa Fink |
+| 622 | 217 | Connie McCoy |
+| 623 | 217 | Spicy Snapclear |
+| 624 | 216 | Denise Morehart |
+| 625 | 215 | Missy Renia |
+| 626 | 215 | Nerdy Gridlock |
+| 627 | 213 | Kimberly Davis |
+| 628 | 213 | s3lc4tr0n |
+| 629 | 213 | Mike Mordhorst |
+| 630 | 213 | Judy Burkhalter |
+| 631 | 213 | Mama G |
+| 632 | 213 | Becky Kennon |
+| 633 | 212 | Holly Barefoot |
+| 634 | 211 | Edna Nena Cabrera |
+| 635 | 211 | Lazy Staggerpiece |
+| 636 | 210 | Nichole Wilson |
+| 637 | 210 | Ozge Akgun Tokat |
+| 638 | 210 | Epic Framezone |
+| 639 | 210 | Bouncy Snapmatch |
+| 640 | 210 | Busted9mm |
 | 641 | 209 | Treau Torres |
-| 642 | 209 | Julibeth Wells |
-| 643 | 208 | Susie Conger |
-| 644 | 208 | Giddy Climber |
-| 645 | 207 | straighttiptoe |
-| 646 | 207 | Andrea Rawson |
-| 647 | 207 | Laurie |
-| 648 | 207 | Bonita Alexander |
-| 649 | 207 | WhitS |
-| 650 | 206 | Amber Carpenter |
-| 651 | 206 | rebel4lyfe |
-| 652 | 205 | Tamara Whiteley |
-| 653 | 205 | Twisty Tower |
-| 654 | 205 | Connie Marie Cornell Lerma |
-| 655 | 204 | Charlotte Castelli |
-| 656 | 204 | Monica Gonzalez Rios |
-| 657 | 203 | Amber Marie |
-| 658 | 203 | Sherri Caillet Aucoin |
+| 642 | 209 | Nutty Dash |
+| 643 | 209 | Julibeth Wells |
+| 644 | 208 | Susie Conger |
+| 645 | 208 | Giddy Climber |
+| 646 | 207 | straighttiptoe |
+| 647 | 207 | Andrea Rawson |
+| 648 | 207 | Laurie |
+| 649 | 207 | Bonita Alexander |
+| 650 | 207 | WhitS |
+| 651 | 206 | Amber Carpenter |
+| 652 | 206 | rebel4lyfe |
+| 653 | 205 | Tamara Whiteley |
+| 654 | 205 | Twisty Tower |
+| 655 | 205 | Connie Marie Cornell Lerma |
+| 656 | 204 | Charlotte Castelli |
+| 657 | 203 | Sherri Caillet Aucoin |
+| 658 | 203 | Amber Marie |
 | 659 | 203 | Churube Finwoiisopw |
 | 660 | 203 | Jennifer Wymer |
 | 661 | 203 | Heather Billodeau |
@@ -685,8 +685,8 @@
 | 677 | 198 | Tammy Roth |
 | 678 | 198 | Flex |
 | 679 | 198 | Nicole Suber |
-| 680 | 198 | THUMP |
-| 681 | 198 | Ques Pryor |
+| 680 | 198 | Ques Pryor |
+| 681 | 198 | THUMP |
 | 682 | 197 | Franky |
 | 683 | 197 | Kalli Bonin |
 | 684 | 197 | Jessica Perkins |
@@ -727,8 +727,8 @@
 | 719 | 187 | Elizabeth Kline |
 | 720 | 187 | Cindy Scott |
 | 721 | 187 | Momof2wigglebutts |
-| 722 | 187 | Jaimie Walters |
-| 723 | 187 | Abby |
+| 722 | 187 | Abby |
+| 723 | 187 | Jaimie Walters |
 | 724 | 186 | Cody Gates |
 | 725 | 186 | Jennifer Bromeisl-Tettam |
 | 726 | 186 | y |
