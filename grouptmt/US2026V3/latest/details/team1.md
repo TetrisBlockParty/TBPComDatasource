@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 10:34:44 UTC
+# Standings for team1 as of 2026-06-09 10:35:19 UTC
 
 **Total Participants:** 2035
 
@@ -20,7 +20,7 @@
 | 12 | 8290 | Timothy Robert |
 | 13 | 7896 | Tracy Cohen |
 | 14 | 7548 | Cozy Edge |
-| 15 | 6307 | Cassidy Butler |
+| 15 | 6387 | Cassidy Butler |
 | 16 | 6156 | Ebo Got-Time |
 | 17 | 5804 | Hunter Rayborn |
 | 18 | 5678 | Jocelyn Pope-Sewell |
@@ -199,10 +199,10 @@
 | 191 | 580 | Felicia Cain |
 | 192 | 577 | Nina Davis |
 | 193 | 577 | Randizzle |
-| 194 | 574 | LaToya Chambers |
-| 195 | 574 | DaVonte' Cretter |
-| 196 | 573 | Nobles Brandon |
-| 197 | 570 | Jamal Itzjusmall Chambers |
+| 194 | 575 | Jamal Itzjusmall Chambers |
+| 195 | 574 | LaToya Chambers |
+| 196 | 574 | DaVonte' Cretter |
+| 197 | 573 | Nobles Brandon |
 | 198 | 569 | Zachary Colegrove |
 | 199 | 565 | IThinkNot |
 | 200 | 563 | Wild Out Nai |
