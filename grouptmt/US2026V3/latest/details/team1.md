@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 12:28:46 UTC
+# Standings for team1 as of 2026-06-09 12:29:21 UTC
 
 **Total Participants:** 2041
 
@@ -476,42 +476,42 @@
 | 468 | 251 | Abigail Newman Sweet |
 | 469 | 249 | Fina McKinnis |
 | 470 | 249 | Nate Myers |
-| 471 | 248 | Melissa Olvera |
-| 472 | 248 | LuckyStar |
+| 471 | 248 | LuckyStar |
+| 472 | 248 | Melissa Olvera |
 | 473 | 247 | SceneGreenz Wali |
 | 474 | 247 | Mahagony Small |
 | 475 | 246 | Latore Maxie |
-| 476 | 245 | Brittnay Wright |
-| 477 | 245 | Vera Beckford |
-| 478 | 244 | Perky Pusher |
-| 479 | 244 | Saranoh13 |
-| 480 | 244 | Slinky Snapbuilder |
-| 481 | 244 | Brittanie Wardlow |
+| 476 | 245 | Vera Beckford |
+| 477 | 245 | Brittnay Wright |
+| 478 | 244 | Saranoh13 |
+| 479 | 244 | Brittanie Wardlow |
+| 480 | 244 | Perky Pusher |
+| 481 | 244 | Slinky Snapbuilder |
 | 482 | 243 | Valerie Alexander |
 | 483 | 242 | Tamika Rocheteau |
 | 484 | 242 | Ryan Runyan |
-| 485 | 240 | SherylU |
-| 486 | 240 | Malcolm Stanley |
-| 487 | 240 | Velma Jones |
-| 488 | 240 | Taz Ballard |
-| 489 | 239 | Guy Incognito |
-| 490 | 239 | Manda Allen |
+| 485 | 240 | Malcolm Stanley |
+| 486 | 240 | Taz Ballard |
+| 487 | 240 | SherylU |
+| 488 | 240 | Velma Jones |
+| 489 | 239 | Manda Allen |
+| 490 | 239 | Guy Incognito |
 | 491 | 238 | SnazzyIvy |
 | 492 | 237 | Kimberly Anderson |
 | 493 | 237 | Tanisha Taylor |
 | 494 | 235 | Tracy Feyler |
 | 495 | 235 | nameno |
 | 496 | 235 | Daring Blockclear |
-| 497 | 234 | Lisa Fletcher |
-| 498 | 234 | Chris Nelson |
-| 499 | 234 | wmedina67 |
+| 497 | 234 | wmedina67 |
+| 498 | 234 | Lisa Fletcher |
+| 499 | 234 | Chris Nelson |
 | 500 | 234 | Shea Ladynick Henderson |
 | 501 | 233 | Daris Swearington |
 | 502 | 233 | Kala Miller |
 | 503 | 233 | Holly Baker |
 | 504 | 232 | Monica Fields |
-| 505 | 231 | Bubbly Slammer |
-| 506 | 231 | TieMs BHughez |
+| 505 | 231 | TieMs BHughez |
+| 506 | 231 | Bubbly Slammer |
 | 507 | 230 | Jessica Kirby |
 | 508 | 230 | Tracey Johnson |
 | 509 | 229 | Jenni Hardman |
@@ -520,42 +520,42 @@
 | 512 | 228 | Crystal Cheresnowsky |
 | 513 | 227 | Breezy Catcher |
 | 514 | 227 | Chris Holland |
-| 515 | 226 | MonaSparks |
-| 516 | 226 | Peppy Glider |
-| 517 | 226 | Kahliah Baker |
-| 518 | 226 | Dreamzzz |
-| 519 | 226 | Monica Tovar |
-| 520 | 225 | Casey Chapman |
-| 521 | 225 | Saucy Faller |
+| 515 | 227 | Saucy Faller |
+| 516 | 226 | MonaSparks |
+| 517 | 226 | Dreamzzz |
+| 518 | 226 | Monica Tovar |
+| 519 | 226 | Kahliah Baker |
+| 520 | 226 | Peppy Glider |
+| 521 | 225 | Casey Chapman |
 | 522 | 225 | Sherri Keys |
 | 523 | 224 | Juan Santiago |
-| 524 | 223 | Heather Wilson |
+| 524 | 223 | Kamilya Rembert |
 | 525 | 223 | BB |
-| 526 | 223 | Kamilya Rembert |
-| 527 | 222 | AnnaM |
+| 526 | 223 | Heather Wilson |
+| 527 | 222 | Hardtohandle91 |
 | 528 | 222 | Clint Mcdowell |
-| 529 | 222 | Hardtohandle91 |
-| 530 | 221 | De'Nell Edwards |
-| 531 | 221 | Jack Vlasak |
-| 532 | 221 | Rayshawn Cohen |
+| 529 | 222 | AnnaM |
+| 530 | 221 | Rayshawn Cohen |
+| 531 | 221 | De'Nell Edwards |
+| 532 | 221 | Jack Vlasak |
 | 533 | 221 | Terri Smart |
-| 534 | 220 | Rufus |
-| 535 | 220 | Douglas Price |
+| 534 | 220 | Douglas Price |
+| 535 | 220 | Rufus |
 | 536 | 220 | Tonia Ramos |
 | 537 | 219 | Ciera Peace |
-| 538 | 218 | Teresa Yanira Cepeda |
-| 539 | 218 | Mommy Frank |
-| 540 | 217 | BonnieB |
-| 541 | 217 | Louise Parker |
-| 542 | 217 | Marlainia Boyd |
-| 543 | 217 | Travis Davison |
+| 538 | 218 | Mommy Frank |
+| 539 | 218 | Teresa Yanira Cepeda |
+| 540 | 217 | Travis Davison |
+| 541 | 217 | Marlainia Boyd |
+| 542 | 217 | Louise Parker |
+| 543 | 217 | BonnieB |
 | 544 | 216 | Londa Londa |
 | 545 | 216 | Aaron Hartmann |
 | 546 | 215 | toxictonic92 |
-| 547 | 215 | Juan Lewis |
-| 548 | 215 | James Bryant II |
-| 549 | 215 | Yashica Smith |
-| 550 | 215 | Perky Balancer |
+| 547 | 215 | Yashica Smith |
+| 548 | 215 | Perky Balancer |
+| 549 | 215 | Juan Lewis |
+| 550 | 215 | James Bryant II |
 | 551 | 215 | MzJuice Box |
 | 552 | 214 | Stephen Providenti |
 | 553 | 214 | PSD |
