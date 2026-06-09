@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 09:27:22 UTC
+# Standings for team1 as of 2026-06-09 09:28:22 UTC
 
 **Total Participants:** 2025
 
@@ -342,10 +342,10 @@
 | 334 | 348 | Dennis J Herron II |
 | 335 | 348 | Frisky Fall |
 | 336 | 348 | Andrew Jay Vaughn |
-| 337 | 347 | Erin Sabol |
-| 338 | 347 | Ashleyy Netchert |
-| 339 | 344 | Mikayla |
-| 340 | 344 | 大竹直之 |
+| 337 | 347 | 大竹直之 |
+| 338 | 347 | Erin Sabol |
+| 339 | 347 | Ashleyy Netchert |
+| 340 | 344 | Mikayla |
 | 341 | 344 | Andy Rivera |
 | 342 | 343 | MamushiOh |
 | 343 | 343 | Heather Aurelia |
