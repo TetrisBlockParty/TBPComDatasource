@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 19:16:44 UTC
+# Standings for team2 as of 2026-06-09 19:17:21 UTC
 
 **Total Participants:** 2554
 
@@ -24,7 +24,7 @@
 | 16 | 8427 | Elizabeth Mooney |
 | 17 | 7546 | Tom Badgley |
 | 18 | 7464 | Andre Love |
-| 19 | 7373 | Renee Weedling |
+| 19 | 7374 | Renee Weedling |
 | 20 | 7268 | Kathleen M Cox |
 | 21 | 7096 | Dapper Rollout |
 | 22 | 6932 | Christina Jambard Sampier |
@@ -602,24 +602,24 @@
 | 594 | 269 | Brooke Lynn Marie Adelaide |
 | 595 | 269 | Kimmi Blake |
 | 596 | 268 | Gina Leal |
-| 597 | 268 | Sltwtrcndrla |
-| 598 | 267 | Amber Marie |
-| 599 | 267 | Chilly Surge |
-| 600 | 267 | Michele Rogers |
-| 601 | 267 | Zany Wrecker |
-| 602 | 266 | Darla Nolt |
-| 603 | 266 | Angela VanOstrand |
-| 604 | 265 | K2N |
-| 605 | 265 | Kenzie |
-| 606 | 264 | Nicole Suber |
-| 607 | 262 | Vicke Patterson |
-| 608 | 262 | Frisky Twist |
+| 597 | 268 | Frisky Twist |
+| 598 | 268 | Sltwtrcndrla |
+| 599 | 267 | Amber Marie |
+| 600 | 267 | Chilly Surge |
+| 601 | 267 | Michele Rogers |
+| 602 | 267 | Zany Wrecker |
+| 603 | 266 | Darla Nolt |
+| 604 | 266 | Angela VanOstrand |
+| 605 | 265 | K2N |
+| 606 | 265 | Kenzie |
+| 607 | 264 | Nicole Suber |
+| 608 | 262 | Vicke Patterson |
 | 609 | 261 | Fallon Moss |
 | 610 | 261 | Errkuh |
 | 611 | 261 | Clever Fallmatch |
 | 612 | 261 | Hyper Striker |
-| 613 | 260 | s3lc4tr0n |
-| 614 | 260 | Bouncy Snapmatch |
+| 613 | 260 | Bouncy Snapmatch |
+| 614 | 260 | s3lc4tr0n |
 | 615 | 260 | CEK |
 | 616 | 260 | Al Smith Jr |
 | 617 | 260 | Ashley Miller |
@@ -652,16 +652,16 @@
 | 644 | 251 | Jennifer Leigh |
 | 645 | 251 | BugMansMom |
 | 646 | 251 | Cherica Taylor |
-| 647 | 250 | Kim Powers |
-| 648 | 250 | Busted9mm |
-| 649 | 250 | Happy Drop |
-| 650 | 249 | Dana Vaiden Rivers |
-| 651 | 249 | Mala Phonchanthasone |
-| 652 | 249 | Plucky Grabber |
-| 653 | 249 | Tina |
-| 654 | 249 | Cranky Basepiece |
-| 655 | 248 | Wendy Mcbride |
-| 656 | 247 | Barb Kiser |
+| 647 | 250 | Barb Kiser |
+| 648 | 250 | Kim Powers |
+| 649 | 250 | Busted9mm |
+| 650 | 250 | Happy Drop |
+| 651 | 249 | Dana Vaiden Rivers |
+| 652 | 249 | Mala Phonchanthasone |
+| 653 | 249 | Plucky Grabber |
+| 654 | 249 | Tina |
+| 655 | 249 | Cranky Basepiece |
+| 656 | 248 | Wendy Mcbride |
 | 657 | 247 | rageking |
 | 658 | 245 | Jennifer Wymer |
 | 659 | 245 | Melissa Aycock |
@@ -799,75 +799,75 @@
 | 791 | 202 | Rmk |
 | 792 | 202 | Staci Behrens |
 | 793 | 202 | John Perkins |
-| 794 | 202 | Hillary Frank |
-| 795 | 202 | IncrediDragon |
-| 796 | 202 | Jessica Rose Engebretson |
+| 794 | 202 | Jessica Rose Engebretson |
+| 795 | 202 | Hillary Frank |
+| 796 | 202 | IncrediDragon |
 | 797 | 201 | Jolly Twisterfit |
 | 798 | 200 | Leighla Davis |
 | 799 | 200 | Karen Mueller |
 | 800 | 199 | KCBlocker |
-| 801 | 199 | y |
+| 801 | 199 | Nova |
 | 802 | 199 | Heather Vircik |
-| 803 | 199 | Nova |
-| 804 | 199 | Jim Wright |
+| 803 | 199 | Jim Wright |
+| 804 | 199 | y |
 | 805 | 198 | Tammy Roth |
 | 806 | 198 | Flex |
 | 807 | 197 | Giddy Chiseler |
 | 808 | 197 | William Dowd |
-| 809 | 197 | Jessica Perkins |
-| 810 | 197 | Kevin Patrick |
-| 811 | 197 | Kristen |
-| 812 | 196 | Greenie |
-| 813 | 196 | Dayna Messer-Thelen |
-| 814 | 195 | Shelby Wilson |
-| 815 | 195 | Nikki Hatch |
+| 809 | 197 | Kristen |
+| 810 | 197 | Jessica Perkins |
+| 811 | 197 | Kevin Patrick |
+| 812 | 196 | Dayna Messer-Thelen |
+| 813 | 196 | Greenie |
+| 814 | 195 | Cool Patternbuilder |
+| 815 | 195 | Shelby Wilson |
 | 816 | 195 | Shiny Matchpiece |
-| 817 | 194 | Cassandra Green |
+| 817 | 195 | Nikki Hatch |
 | 818 | 194 | Lindsey Ross |
-| 819 | 194 | Nichole Fuller |
-| 820 | 193 | Ashley Jones |
-| 821 | 193 | Michele Plunkett |
-| 822 | 193 | Jaimie Walters |
-| 823 | 193 | Ginger Nesbitt |
-| 824 | 193 | Cortney Coleman |
-| 825 | 192 | Alicia Parrish |
-| 826 | 192 | Toni Washington |
-| 827 | 192 | Coleta Singleton-Gallishaw |
-| 828 | 191 | Melissa Willson |
-| 829 | 191 | Firebone |
+| 819 | 194 | Cassandra Green |
+| 820 | 194 | Nichole Fuller |
+| 821 | 193 | Ashley Jones |
+| 822 | 193 | Michele Plunkett |
+| 823 | 193 | Jaimie Walters |
+| 824 | 193 | Ginger Nesbitt |
+| 825 | 193 | Cortney Coleman |
+| 826 | 192 | Alicia Parrish |
+| 827 | 192 | Toni Washington |
+| 828 | 192 | Coleta Singleton-Gallishaw |
+| 829 | 191 | Melissa Willson |
 | 830 | 191 | Nano. |
-| 831 | 191 | Mtnblzr |
-| 832 | 190 | Tammy Botkin |
-| 833 | 190 | Duck |
-| 834 | 190 | Amy Lea Hamilton |
-| 835 | 190 | Patti Ward |
-| 836 | 190 | Kelly Hall Whitt |
-| 837 | 189 | Goofy Patternfit |
-| 838 | 189 | Cool Patternbuilder |
-| 839 | 189 | Audrey Bickford |
-| 840 | 189 | Kristi K Milner |
+| 831 | 191 | Firebone |
+| 832 | 191 | Mtnblzr |
+| 833 | 190 | Tammy Botkin |
+| 834 | 190 | Duck |
+| 835 | 190 | Amy Lea Hamilton |
+| 836 | 190 | Patti Ward |
+| 837 | 190 | Kelly Hall Whitt |
+| 838 | 189 | Goofy Patternfit |
+| 839 | 189 | Kristi K Milner |
+| 840 | 189 | Audrey Bickford |
 | 841 | 189 | Destiny Turner |
 | 842 | 189 | Anna Benjamin Freeman |
 | 843 | 189 | Poppy Strikerbuilder |
 | 844 | 188 | Ashley Fleming |
 | 845 | 188 | Derrick |
-| 846 | 187 | Sara Dunn |
-| 847 | 187 | Wacky Holder |
-| 848 | 187 | Cindy Scott |
+| 846 | 187 | Amanda Neal |
+| 847 | 187 | Sara Dunn |
+| 848 | 187 | Wacky Holder |
 | 849 | 187 | Elizabeth Kline |
-| 850 | 187 | Amanda Neal |
+| 850 | 187 | Cindy Scott |
 | 851 | 187 | Abby |
 | 852 | 186 | Patty Ann Hendrickson |
-| 853 | 185 | Sillyk |
-| 854 | 185 | Christine James |
+| 853 | 185 | Christine James |
+| 854 | 185 | Sillyk |
 | 855 | 185 | Vicki Flippo |
 | 856 | 184 | Jackelyn Ford |
 | 857 | 184 | YAKO |
 | 858 | 184 | Tracey Cox |
 | 859 | 184 | Melissa Abbott |
 | 860 | 183 | Nikki Sadler |
-| 861 | 183 | Staci Walker |
-| 862 | 183 | Ceci |
+| 861 | 183 | Ceci |
+| 862 | 183 | Staci Walker |
 | 863 | 183 | Flashy Wipegrid |
 | 864 | 182 | Paula |
 | 865 | 182 | Steve Eakins |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 19:16:44 UTC
+# Standings for team4 as of 2026-06-09 19:17:21 UTC
 
 **Total Participants:** 2162
 
@@ -246,7 +246,7 @@
 | 238 | 520 | Jaci Marie |
 | 239 | 517 | Goofy Riser |
 | 240 | 510 | Fran Aaron-Ring |
-| 241 | 507 | Snippy Splitter |
+| 241 | 508 | Snippy Splitter |
 | 242 | 504 | Piece of Cake |
 | 243 | 502 | Tipsy Zonebuilder |
 | 244 | 501 | Tammy June |
@@ -739,20 +739,20 @@
 | 731 | 178 | Jacqueline Arce |
 | 732 | 178 | Rin |
 | 733 | 178 | Breezy Wife |
-| 734 | 177 | Charlene Nicole Guidry |
-| 735 | 177 | Dandy Linkgrid |
+| 734 | 177 | Dandy Linkgrid |
+| 735 | 177 | Charlene Nicole Guidry |
 | 736 | 176 | Alizabeth Garcia |
-| 737 | 176 | Erika Rubio |
-| 738 | 176 | Deana Teck |
-| 739 | 176 | Keith Kosmicki |
-| 740 | 175 | Sarah Leake |
+| 737 | 176 | chuck |
+| 738 | 176 | Keith Kosmicki |
+| 739 | 176 | Deana Teck |
+| 740 | 176 | Erika Rubio |
 | 741 | 175 | Ilia Blake |
-| 742 | 174 | chuck |
-| 743 | 174 | Eddie Fuller |
-| 744 | 174 | Playful Raccoon |
-| 745 | 174 | Clever Fallzone |
-| 746 | 174 | Shirley A. Godfrey |
-| 747 | 174 | Michelle Michelle |
+| 742 | 175 | Sarah Leake |
+| 743 | 174 | Shirley A. Godfrey |
+| 744 | 174 | Clever Fallzone |
+| 745 | 174 | Michelle Michelle |
+| 746 | 174 | Playful Raccoon |
+| 747 | 174 | Eddie Fuller |
 | 748 | 173 | Tarsha Thomas-Martinez |
 | 749 | 173 | Justin Ballard |
 | 750 | 173 | Khiem Hernandez |
@@ -1499,42 +1499,42 @@
 | 1491 | 51 | Gareth |
 | 1492 | 50 | Dustin Bell |
 | 1493 | 50 | Nick Virgil |
-| 1494 | 50 | Natalie Lane |
+| 1494 | 50 | Suzie |
 | 1495 | 50 | Jacqueline Wright |
 | 1496 | 50 | Goodie |
 | 1497 | 50 | QuickFreeze |
-| 1498 | 50 | Paulina Deitrick |
-| 1499 | 50 | Dewy |
+| 1498 | 50 | Dewy |
+| 1499 | 50 | Paulina Deitrick |
 | 1500 | 50 | Kortnie Kate Patino |
 | 1501 | 50 | Angelica Vidales |
 | 1502 | 50 | Speedy Snapclear |
 | 1503 | 50 | Mexican130 |
-| 1504 | 50 | Kate Clevinger |
-| 1505 | 50 | Suzie |
-| 1506 | 49 | Naomi Wixon |
+| 1504 | 50 | Natalie Lane |
+| 1505 | 50 | Kate Clevinger |
+| 1506 | 49 | Wacky Brickmatch |
 | 1507 | 49 | Hasty Grabber |
 | 1508 | 49 | Mindy Phariss |
 | 1509 | 49 | smarty |
 | 1510 | 49 | Merrick Marion |
 | 1511 | 49 | Mandi Rexroat |
-| 1512 | 49 | Angelo L Casillas |
-| 1513 | 49 | Goofy Twistpiece |
-| 1514 | 49 | Karen Riexinger |
-| 1515 | 49 | Rai |
-| 1516 | 49 | Selina Moore |
-| 1517 | 48 | Amori85 |
-| 1518 | 48 | abbie |
+| 1512 | 49 | Goofy Twistpiece |
+| 1513 | 49 | Selina Moore |
+| 1514 | 49 | Angelo L Casillas |
+| 1515 | 49 | Karen Riexinger |
+| 1516 | 49 | Rai |
+| 1517 | 49 | Naomi Wixon |
+| 1518 | 48 | Amori85 |
 | 1519 | 48 | Regina N Johnson |
 | 1520 | 48 | $bluemoon |
 | 1521 | 48 | Mumsy |
 | 1522 | 48 | Peachy Grabber |
-| 1523 | 48 | Wali Muhammad |
-| 1524 | 48 | Jane M Tiller |
-| 1525 | 48 | Cmoss |
-| 1526 | 48 | Snoopie Johnson |
-| 1527 | 48 | Idella Cobb Strickland |
-| 1528 | 48 | Twisty Chiseler |
-| 1529 | 47 | Jaison Horton |
+| 1523 | 48 | abbie |
+| 1524 | 48 | Wali Muhammad |
+| 1525 | 48 | Jane M Tiller |
+| 1526 | 48 | Cmoss |
+| 1527 | 48 | Snoopie Johnson |
+| 1528 | 48 | Idella Cobb Strickland |
+| 1529 | 48 | Twisty Chiseler |
 | 1530 | 47 | Mighty Liney |
 | 1531 | 47 | Danyale Collins |
 | 1532 | 47 | Frby Amberr |
@@ -1542,64 +1542,64 @@
 | 1534 | 47 | Casey Alford |
 | 1535 | 47 | Jim Stewart |
 | 1536 | 47 | ToneDeaf |
-| 1537 | 47 | Kitty Kat |
-| 1538 | 47 | Kaity Cody |
+| 1537 | 47 | Jaison Horton |
+| 1538 | 47 | Kitty Kat |
 | 1539 | 47 | Maurice Jones |
-| 1540 | 46 | Judea Leblanc |
-| 1541 | 46 | Danielle Torre-Garza |
-| 1542 | 46 | Lazy Risepiece |
-| 1543 | 46 | Bindi |
+| 1540 | 47 | Kaity Cody |
+| 1541 | 46 | Judea Leblanc |
+| 1542 | 46 | Danielle Torre-Garza |
+| 1543 | 46 | Lazy Risepiece |
 | 1544 | 46 | STRay |
-| 1545 | 45 | Tonya Cross |
-| 1546 | 45 | Loony Glide |
-| 1547 | 45 | Theonei |
-| 1548 | 45 | BurnedCrab52 |
-| 1549 | 45 | Kristie ML SneekaPuff |
-| 1550 | 45 | Karen Gilbertson |
+| 1545 | 46 | Bindi |
+| 1546 | 45 | Cherise Maxwell |
+| 1547 | 45 | Jess Moore |
+| 1548 | 45 | Kristie ML SneekaPuff |
+| 1549 | 45 | BurnedCrab52 |
+| 1550 | 45 | Theonei |
 | 1551 | 45 | Angela Correa |
-| 1552 | 45 | Cherise Maxwell |
-| 1553 | 45 | Jess Moore |
-| 1554 | 45 | Teresa Lescinskas |
+| 1552 | 45 | Loony Glide |
+| 1553 | 45 | Karla Humphry |
+| 1554 | 45 | Jt Home |
 | 1555 | 45 | Joseph Vargas |
-| 1556 | 45 | Karla Humphry |
-| 1557 | 45 | Jt Home |
-| 1558 | 45 | Kim Miller |
-| 1559 | 45 | Antoinette Rodgers |
-| 1560 | 45 | Jennifer O'Connell |
-| 1561 | 44 | Clever Blockfall |
+| 1556 | 45 | Tonya Cross |
+| 1557 | 45 | Antoinette Rodgers |
+| 1558 | 45 | Teresa Lescinskas |
+| 1559 | 45 | Kim Miller |
+| 1560 | 45 | Karen Gilbertson |
+| 1561 | 45 | Jennifer O'Connell |
 | 1562 | 44 | EJ Frazier |
 | 1563 | 44 | Chyla Burns |
 | 1564 | 44 | moonman33 |
 | 1565 | 44 | Cauntay Youngking Williams |
-| 1566 | 44 | Flashy Riser |
-| 1567 | 44 | Lizzie McGuire |
-| 1568 | 44 | Johnny Jeppesen |
-| 1569 | 44 | Sharron Mullins |
-| 1570 | 44 | Kimmie Warren |
-| 1571 | 44 | Angel |
-| 1572 | 44 | Mayleen Delgado |
-| 1573 | 44 | SweetChaos |
-| 1574 | 43 | Lin Ferguson |
+| 1566 | 44 | Clever Blockfall |
+| 1567 | 44 | Kimmie Warren |
+| 1568 | 44 | Angel |
+| 1569 | 44 | Flashy Riser |
+| 1570 | 44 | SweetChaos |
+| 1571 | 44 | Mayleen Delgado |
+| 1572 | 44 | Sharron Mullins |
+| 1573 | 44 | Johnny Jeppesen |
+| 1574 | 44 | Lizzie McGuire |
 | 1575 | 43 | Glitzy Builderline |
-| 1576 | 43 | Wacky Brickmatch |
-| 1577 | 43 | Christopher Ponceja |
-| 1578 | 43 | Janae Gregory |
+| 1576 | 43 | Janae Gregory |
+| 1577 | 43 | Lin Ferguson |
+| 1578 | 43 | BlockFlakes |
 | 1579 | 43 | Jason Shertzer |
-| 1580 | 43 | BlockFlakes |
-| 1581 | 42 | PIPPI |
-| 1582 | 42 | Austin Tan |
-| 1583 | 42 | Crystal Swensen |
+| 1580 | 43 | Christopher Ponceja |
+| 1581 | 42 | Melani Hajny |
+| 1582 | 42 | PIPPI |
+| 1583 | 42 | Gr8flluv1 |
 | 1584 | 42 | Matoka Shuford |
-| 1585 | 42 | Gr8flluv1 |
-| 1586 | 42 | Mounique Melenciano |
-| 1587 | 42 | Colin hollenbeck |
-| 1588 | 42 | Angela Ward |
-| 1589 | 42 | Giggy Tetrisline |
-| 1590 | 42 | Shupurplenurkle |
-| 1591 | 42 | Melani Hajny |
-| 1592 | 42 | Amy |
-| 1593 | 42 | Snappy Patternfall |
-| 1594 | 42 | Katy Roman |
+| 1585 | 42 | Austin Tan |
+| 1586 | 42 | Crystal Swensen |
+| 1587 | 42 | Angela Ward |
+| 1588 | 42 | Mounique Melenciano |
+| 1589 | 42 | Amy |
+| 1590 | 42 | Colin hollenbeck |
+| 1591 | 42 | Snappy Patternfall |
+| 1592 | 42 | Giggy Tetrisline |
+| 1593 | 42 | Katy Roman |
+| 1594 | 42 | Shupurplenurkle |
 | 1595 | 41 | andy |
 | 1596 | 41 | Socorro Arredondo |
 | 1597 | 41 | José A Torres |
