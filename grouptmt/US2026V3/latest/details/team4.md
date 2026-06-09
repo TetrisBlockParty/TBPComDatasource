@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-09 17:44:46 UTC
+# Standings for team4 as of 2026-06-09 17:45:23 UTC
 
 **Total Participants:** 2148
 
@@ -60,8 +60,8 @@
 | 52 | 2475 | Wendy Zentz |
 | 53 | 2460 | Kathy Brookins |
 | 54 | 2433 | Alexandria Frazier |
-| 55 | 2255 | Elissa S-k |
-| 56 | 2218 | Alicia Cook |
+| 55 | 2309 | Alicia Cook |
+| 56 | 2255 | Elissa S-k |
 | 57 | 2185 | Jason Allen |
 | 58 | 2131 | Michele Walker |
 | 59 | 2047 | Michelle Ross |
@@ -306,9 +306,9 @@
 | 298 | 416 | Anna Gribble |
 | 299 | 414 | Slinky Stackzone |
 | 300 | 410 | Andrick |
-| 301 | 409 | Chirpy Link |
-| 302 | 408 | Aramat |
-| 303 | 407 | Speedy Twistslam |
+| 301 | 410 | Speedy Twistslam |
+| 302 | 409 | Chirpy Link |
+| 303 | 408 | Aramat |
 | 304 | 402 | Breezy Cascadeclear |
 | 305 | 400 | Holly Wessel |
 | 306 | 400 | Amber Doyle |
@@ -1110,8 +1110,8 @@
 | 1102 | 100 | Tommy Thomas |
 | 1103 | 100 | Cozy Staggerpiece |
 | 1104 | 100 | Bouncy Fitblock |
-| 1105 | 99 | Ricardo Arias |
-| 1106 | 99 | Nikcole Alexis Bryan |
+| 1105 | 99 | Nikcole Alexis Bryan |
+| 1106 | 99 | Ricardo Arias |
 | 1107 | 99 | Stevonne Roberts |
 | 1108 | 99 | Rodger Lines |
 | 1109 | 99 | Tamika Ashli Bonner |
@@ -1123,30 +1123,30 @@
 | 1115 | 97 | Skylar Durk |
 | 1116 | 97 | Crystal Parker Bryant |
 | 1117 | 97 | Oc Tive |
-| 1118 | 97 | Limbo |
-| 1119 | 97 | Lateasha Wildman |
-| 1120 | 96 | Smiley Wipeblock |
-| 1121 | 96 | Tiffany Taylor |
-| 1122 | 96 | JUNE |
-| 1123 | 96 | Bear Bair |
+| 1118 | 97 | Ashie |
+| 1119 | 97 | Limbo |
+| 1120 | 97 | Lateasha Wildman |
+| 1121 | 96 | Smiley Wipeblock |
+| 1122 | 96 | Tiffany Taylor |
+| 1123 | 96 | JUNE |
 | 1124 | 96 | Steven Patshy |
-| 1125 | 95 | Marion Wade |
-| 1126 | 95 | Hotstuff |
-| 1127 | 95 | LilithMoon |
+| 1125 | 96 | Bear Bair |
+| 1126 | 95 | Marion Wade |
+| 1127 | 95 | Hotstuff |
 | 1128 | 95 | Frisky Pusher |
-| 1129 | 95 | Cheeky Dashy |
-| 1130 | 95 | Hyper Balancepiece |
-| 1131 | 95 | John Ramos |
-| 1132 | 95 | Jasmine Griffin |
-| 1133 | 94 | Cranky Twistpiece |
-| 1134 | 94 | Theo Stamps |
-| 1135 | 94 | Mrs.J2013 |
+| 1129 | 95 | Hyper Balancepiece |
+| 1130 | 95 | Jasmine Griffin |
+| 1131 | 95 | Cheeky Dashy |
+| 1132 | 95 | LilithMoon |
+| 1133 | 95 | John Ramos |
+| 1134 | 94 | Ronald Kent Hall |
+| 1135 | 94 | Cranky Twistpiece |
 | 1136 | 94 | Dandy Balancer |
-| 1137 | 94 | Ronald Kent Hall |
-| 1138 | 94 | Lionel Hampton |
-| 1139 | 94 | Elizabeth Ann Caro |
-| 1140 | 93 | Kennita Cox |
-| 1141 | 93 | Ashie |
+| 1137 | 94 | Mrs.J2013 |
+| 1138 | 94 | Theo Stamps |
+| 1139 | 94 | Lionel Hampton |
+| 1140 | 94 | Elizabeth Ann Caro |
+| 1141 | 93 | Kennita Cox |
 | 1142 | 92 | Sara Cobb |
 | 1143 | 92 | Cinnanin |
 | 1144 | 92 | Donna Winget |
