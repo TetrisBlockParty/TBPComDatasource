@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-09 20:04:22 UTC
+# Standings for team2 as of 2026-06-09 20:04:46 UTC
 
 **Total Participants:** 2563
 
@@ -46,7 +46,7 @@
 | 38 | 5119 | Spunky Clicker |
 | 39 | 4952 | Ashlea McBlaine |
 | 40 | 4792 | DarkHorse |
-| 41 | 4627 | Quirky Catcher |
+| 41 | 4642 | Quirky Catcher |
 | 42 | 4411 | Smashanator |
 | 43 | 4279 | Matt Hardin |
 | 44 | 4268 | Erica Dees Parks |
@@ -509,24 +509,24 @@
 | 501 | 321 | Wendy Spoor Hof |
 | 502 | 321 | Ever Chase |
 | 503 | 320 | Lazy Staggerpiece |
-| 504 | 319 | Robin Lamb |
-| 505 | 318 | Will Jones |
-| 506 | 318 | Eric Wayne Maschman |
-| 507 | 318 | Jill Goff |
-| 508 | 317 | Melmel |
-| 509 | 315 | Chummy Faller |
-| 510 | 314 | Hector |
-| 511 | 314 | Aurora June Brock |
-| 512 | 313 | Reni Seven |
-| 513 | 313 | Ashley Propst |
-| 514 | 312 | Mandeee |
-| 515 | 311 | Alyssa Malay |
-| 516 | 310 | Hannah Meadows Hammond |
-| 517 | 310 | Shannon Curry Riggle |
-| 518 | 310 | Zappy Liney |
-| 519 | 308 | Amanda Bottorff |
-| 520 | 307 | Tamara Whiteley |
-| 521 | 307 | Angela Hogan |
+| 504 | 319 | Angela Hogan |
+| 505 | 319 | Robin Lamb |
+| 506 | 318 | Will Jones |
+| 507 | 318 | Eric Wayne Maschman |
+| 508 | 318 | Jill Goff |
+| 509 | 317 | Melmel |
+| 510 | 315 | Chummy Faller |
+| 511 | 314 | Hector |
+| 512 | 314 | Aurora June Brock |
+| 513 | 313 | Reni Seven |
+| 514 | 313 | Ashley Propst |
+| 515 | 312 | Mandeee |
+| 516 | 311 | Alyssa Malay |
+| 517 | 310 | Hannah Meadows Hammond |
+| 518 | 310 | Shannon Curry Riggle |
+| 519 | 310 | Zappy Liney |
+| 520 | 308 | Amanda Bottorff |
+| 521 | 307 | Tamara Whiteley |
 | 522 | 307 | Jennifer McClure |
 | 523 | 306 | Heather Schardan |
 | 524 | 306 | Anissa Moore |
@@ -861,13 +861,13 @@
 | 853 | 187 | Amanda Neal |
 | 854 | 187 | Jolly Brickroll |
 | 855 | 187 | Abby |
-| 856 | 186 | Patty Ann Hendrickson |
-| 857 | 186 | Natalie M. Arredondo |
-| 858 | 186 | Staci Walker |
-| 859 | 185 | Sillyk |
-| 860 | 185 | Christine James |
-| 861 | 185 | Vicki Flippo |
-| 862 | 185 | Mariya Cline |
+| 856 | 187 | Mariya Cline |
+| 857 | 186 | Patty Ann Hendrickson |
+| 858 | 186 | Natalie M. Arredondo |
+| 859 | 186 | Staci Walker |
+| 860 | 185 | Sillyk |
+| 861 | 185 | Christine James |
+| 862 | 185 | Vicki Flippo |
 | 863 | 184 | Jackelyn Ford |
 | 864 | 184 | Melissa Abbott |
 | 865 | 184 | YAKO |
