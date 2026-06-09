@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:52:44 UTC
+# Standings for team1 as of 2026-06-09 19:53:20 UTC
 
 **Total Participants:** 2107
 
@@ -865,46 +865,46 @@
 | 857 | 141 | Lively Wipeout |
 | 858 | 141 | Williams Candace |
 | 859 | 141 | Krystal Maynard |
-| 860 | 140 | Kennedi Brazziel |
-| 861 | 140 | Tory Miller |
+| 860 | 140 | Tory Miller |
+| 861 | 140 | Kennedi Brazziel |
 | 862 | 140 | Stanley Dixon |
 | 863 | 140 | Marcello Rush |
 | 864 | 140 | Lynette Manning |
 | 865 | 140 | Shadon McMillan |
-| 866 | 139 | Star Hart |
-| 867 | 139 | Rochelle Nash-Evans |
-| 868 | 139 | Lexx Robins |
+| 866 | 139 | Rochelle Nash-Evans |
+| 867 | 139 | Lexx Robins |
+| 868 | 139 | JesusSaves 😇 |
 | 869 | 139 | Chereese Harris |
 | 870 | 139 | Antoinette Kelly |
-| 871 | 139 | JesusSaves 😇 |
-| 872 | 138 | Jjhandsome |
+| 871 | 139 | Star Hart |
+| 872 | 138 | Witty Clear |
 | 873 | 138 | Boldy Pivoty |
-| 874 | 138 | Morenita Rodriguez |
-| 875 | 138 | Rene Hicks |
-| 876 | 138 | Jazzy Bridger |
-| 877 | 137 | Crtjstr |
-| 878 | 137 | Hasty Pivoty |
-| 879 | 137 | LaShawyn Wood |
-| 880 | 137 | Witty Clear |
-| 881 | 136 | Christopher Shaw-Black |
-| 882 | 136 | Rissa Rozay |
-| 883 | 136 | Smiley Bridgepiece |
+| 874 | 138 | Jjhandsome |
+| 875 | 138 | Morenita Rodriguez |
+| 876 | 138 | Rene Hicks |
+| 877 | 138 | Jazzy Bridger |
+| 878 | 137 | Crtjstr |
+| 879 | 137 | Hasty Pivoty |
+| 880 | 137 | LaShawyn Wood |
+| 881 | 136 | Rissa Rozay |
+| 882 | 136 | Smiley Bridgepiece |
+| 883 | 136 | Christopher Shaw-Black |
 | 884 | 136 | mya |
 | 885 | 136 | Alanna Breitenbach |
-| 886 | 135 | Saucy Tile |
+| 886 | 135 | Chanel White |
 | 887 | 135 | Shaun Anderson |
 | 888 | 135 | Paul Pendley |
 | 889 | 135 | Kyle Franklin |
 | 890 | 135 | Mellie Mel |
-| 891 | 135 | Chanel White |
+| 891 | 135 | Saucy Tile |
 | 892 | 134 | Laurie Napper |
-| 893 | 134 | Sheesh |
-| 894 | 134 | Twisty Dashy |
-| 895 | 133 | Spadez1231 |
-| 896 | 133 | Derald Miller |
-| 897 | 133 | Hasty Brickzone |
-| 898 | 133 | Hoppy Rumbler |
-| 899 | 133 | Kàrma Lee |
+| 893 | 134 | Twisty Dashy |
+| 894 | 134 | Sheesh |
+| 895 | 133 | Hasty Brickzone |
+| 896 | 133 | Kàrma Lee |
+| 897 | 133 | Hoppy Rumbler |
+| 898 | 133 | Spadez1231 |
+| 899 | 133 | Derald Miller |
 | 900 | 132 | lady |
 | 901 | 132 | Shauntai Holiday |
 | 902 | 132 | Aanngie Aanngie |
