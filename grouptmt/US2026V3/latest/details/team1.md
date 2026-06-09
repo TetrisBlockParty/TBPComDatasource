@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 19:53:20 UTC
+# Standings for team1 as of 2026-06-09 19:54:45 UTC
 
 **Total Participants:** 2107
 
@@ -48,8 +48,8 @@
 | 40 | 2540 | Jamie Willis |
 | 41 | 2438 | Epic Snapfall |
 | 42 | 2203 | BlackQueen105 |
-| 43 | 2184 | Shortstak |
-| 44 | 2178 | Jennifer To |
+| 43 | 2188 | Jennifer To |
+| 44 | 2184 | Shortstak |
 | 45 | 2156 | Mimi 1.0 |
 | 46 | 2138 | Linzie Marie |
 | 47 | 2135 | Brian Bohanon II |
@@ -65,8 +65,8 @@
 | 57 | 1871 | Helen Smith |
 | 58 | 1869 | Chris Russell |
 | 59 | 1862 | D'Andra Stewart |
-| 60 | 1809 | Louis Richard Jr |
-| 61 | 1795 | Blockhead |
+| 60 | 1809 | Blockhead |
+| 61 | 1809 | Louis Richard Jr |
 | 62 | 1789 | Jolly Dropzone |
 | 63 | 1782 | Jacoby E Fleming |
 | 64 | 1767 | Moomoo |
@@ -134,7 +134,7 @@
 | 126 | 966 | Sharon Cail |
 | 127 | 966 | Murg4dr01d |
 | 128 | 946 | Lesley Brunkus Cianfaglione |
-| 129 | 945 | Plucky Slamdrop |
+| 129 | 946 | Plucky Slamdrop |
 | 130 | 923 | Slim Shedidthat |
 | 131 | 908 | Danielle Barthelme |
 | 132 | 907 | Jimmie Makia |
@@ -387,27 +387,27 @@
 | 379 | 347 | Brenda Malachi-butler |
 | 380 | 344 | DaGuy |
 | 381 | 344 | Chilly Wipebuilder |
-| 382 | 343 | Jae Thompson-Tyus |
-| 383 | 343 | MamushiOh |
+| 382 | 343 | MamushiOh |
+| 383 | 343 | Jae Thompson-Tyus |
 | 384 | 340 | Tipsy Linkroll |
 | 385 | 340 | Peppy Towerbuilder |
 | 386 | 340 | Jean Regis |
 | 387 | 339 | Shanaa Germany Crittenden |
 | 388 | 339 | Wayne Savannah |
-| 389 | 338 | MindlessMic |
-| 390 | 336 | Skippy |
-| 391 | 334 | Emily Wright |
-| 392 | 334 | Kelli Couture |
-| 393 | 330 | Jolly Tilefall |
-| 394 | 330 | Daddy |
-| 395 | 330 | akosua |
-| 396 | 330 | Shea Ladynick Henderson |
-| 397 | 327 | Ashley Monet Terrell |
-| 398 | 326 | SweetByNBy |
-| 399 | 325 | Glitzy Patternline |
-| 400 | 325 | LaShaun Stinson |
-| 401 | 324 | Jai |
-| 402 | 323 | kitten |
+| 389 | 338 | kitten |
+| 390 | 338 | MindlessMic |
+| 391 | 336 | Skippy |
+| 392 | 334 | Emily Wright |
+| 393 | 334 | Kelli Couture |
+| 394 | 330 | Jolly Tilefall |
+| 395 | 330 | Daddy |
+| 396 | 330 | akosua |
+| 397 | 330 | Shea Ladynick Henderson |
+| 398 | 327 | Ashley Monet Terrell |
+| 399 | 326 | SweetByNBy |
+| 400 | 325 | Glitzy Patternline |
+| 401 | 325 | LaShaun Stinson |
+| 402 | 324 | Jai |
 | 403 | 323 | Cheri Robinson |
 | 404 | 322 | Ryan Runyan |
 | 405 | 320 | Shanns |
@@ -598,11 +598,11 @@
 | 590 | 222 | AnnaM |
 | 591 | 222 | Coco |
 | 592 | 221 | Terri Smart |
-| 593 | 220 | Cori Cleland |
-| 594 | 220 | Douglas Price |
-| 595 | 220 | Carolyn Smith |
-| 596 | 219 | Daring Riserfit |
-| 597 | 219 | Lucy |
+| 593 | 221 | Lucy |
+| 594 | 220 | Cori Cleland |
+| 595 | 220 | Douglas Price |
+| 596 | 220 | Carolyn Smith |
+| 597 | 219 | Daring Riserfit |
 | 598 | 218 | Carla |
 | 599 | 217 | Clipzby |
 | 600 | 217 | Marlainia Boyd |
@@ -781,28 +781,28 @@
 | 773 | 165 | Mom3granny2 |
 | 774 | 165 | Analesia Taylor |
 | 775 | 165 | Taneka Howell |
-| 776 | 162 | Big Bovice |
-| 777 | 162 | Jasmine Hariston-Estis |
-| 778 | 162 | Speedy Stacky |
-| 779 | 162 | Peppy Wipeblock |
-| 780 | 160 | William Vidra |
+| 776 | 164 | Octavia Bsb Johnson |
+| 777 | 162 | Big Bovice |
+| 778 | 162 | Peppy Wipeblock |
+| 779 | 162 | Jasmine Hariston-Estis |
+| 780 | 162 | Speedy Stacky |
 | 781 | 160 | Cheeky Twistpiece |
 | 782 | 160 | Amanda Woodruff |
-| 783 | 160 | Donnie Withthebody |
-| 784 | 160 | Tiffany Jean Hinson |
-| 785 | 159 | Kashh |
-| 786 | 159 | Boymama917 |
-| 787 | 159 | Yvette McGee |
-| 788 | 159 | TY Newme Batts |
-| 789 | 159 | Naee Bee |
-| 790 | 159 | Frances Davis |
-| 791 | 159 | Darrel Pemberton |
-| 792 | 158 | P C |
-| 793 | 158 | Seddrick |
-| 794 | 158 | TotoCherue |
-| 795 | 158 | Heru Ogun Yeshua EL |
-| 796 | 158 | Chloe Bankz |
-| 797 | 158 | Octavia Bsb Johnson |
+| 783 | 160 | William Vidra |
+| 784 | 160 | Donnie Withthebody |
+| 785 | 160 | Tiffany Jean Hinson |
+| 786 | 159 | Frances Davis |
+| 787 | 159 | Kashh |
+| 788 | 159 | Boymama917 |
+| 789 | 159 | Yvette McGee |
+| 790 | 159 | TY Newme Batts |
+| 791 | 159 | Naee Bee |
+| 792 | 159 | Darrel Pemberton |
+| 793 | 158 | P C |
+| 794 | 158 | Seddrick |
+| 795 | 158 | TotoCherue |
+| 796 | 158 | Heru Ogun Yeshua EL |
+| 797 | 158 | Chloe Bankz |
 | 798 | 158 | LAdYPOLy |
 | 799 | 158 | Meow Meow |
 | 800 | 157 | Chill Linkroll |
@@ -866,45 +866,45 @@
 | 858 | 141 | Williams Candace |
 | 859 | 141 | Krystal Maynard |
 | 860 | 140 | Tory Miller |
-| 861 | 140 | Kennedi Brazziel |
-| 862 | 140 | Stanley Dixon |
-| 863 | 140 | Marcello Rush |
-| 864 | 140 | Lynette Manning |
-| 865 | 140 | Shadon McMillan |
-| 866 | 139 | Rochelle Nash-Evans |
-| 867 | 139 | Lexx Robins |
-| 868 | 139 | JesusSaves 😇 |
+| 861 | 140 | Stanley Dixon |
+| 862 | 140 | Marcello Rush |
+| 863 | 140 | Lynette Manning |
+| 864 | 140 | Shadon McMillan |
+| 865 | 140 | Kennedi Brazziel |
+| 866 | 139 | JesusSaves 😇 |
+| 867 | 139 | Star Hart |
+| 868 | 139 | Antoinette Kelly |
 | 869 | 139 | Chereese Harris |
-| 870 | 139 | Antoinette Kelly |
-| 871 | 139 | Star Hart |
-| 872 | 138 | Witty Clear |
-| 873 | 138 | Boldy Pivoty |
-| 874 | 138 | Jjhandsome |
+| 870 | 139 | Lexx Robins |
+| 871 | 139 | Rochelle Nash-Evans |
+| 872 | 138 | Hasty Pivoty |
+| 873 | 138 | Jazzy Bridger |
+| 874 | 138 | Rene Hicks |
 | 875 | 138 | Morenita Rodriguez |
-| 876 | 138 | Rene Hicks |
-| 877 | 138 | Jazzy Bridger |
-| 878 | 137 | Crtjstr |
-| 879 | 137 | Hasty Pivoty |
+| 876 | 138 | Witty Clear |
+| 877 | 138 | Jjhandsome |
+| 878 | 138 | Boldy Pivoty |
+| 879 | 137 | Crtjstr |
 | 880 | 137 | LaShawyn Wood |
-| 881 | 136 | Rissa Rozay |
-| 882 | 136 | Smiley Bridgepiece |
-| 883 | 136 | Christopher Shaw-Black |
+| 881 | 136 | Smiley Bridgepiece |
+| 882 | 136 | Alanna Breitenbach |
+| 883 | 136 | Rissa Rozay |
 | 884 | 136 | mya |
-| 885 | 136 | Alanna Breitenbach |
-| 886 | 135 | Chanel White |
-| 887 | 135 | Shaun Anderson |
-| 888 | 135 | Paul Pendley |
-| 889 | 135 | Kyle Franklin |
-| 890 | 135 | Mellie Mel |
-| 891 | 135 | Saucy Tile |
+| 885 | 136 | Christopher Shaw-Black |
+| 886 | 135 | Kyle Franklin |
+| 887 | 135 | Chanel White |
+| 888 | 135 | Mellie Mel |
+| 889 | 135 | Saucy Tile |
+| 890 | 135 | Paul Pendley |
+| 891 | 135 | Shaun Anderson |
 | 892 | 134 | Laurie Napper |
-| 893 | 134 | Twisty Dashy |
-| 894 | 134 | Sheesh |
-| 895 | 133 | Hasty Brickzone |
-| 896 | 133 | Kàrma Lee |
-| 897 | 133 | Hoppy Rumbler |
-| 898 | 133 | Spadez1231 |
-| 899 | 133 | Derald Miller |
+| 893 | 134 | Sheesh |
+| 894 | 134 | Twisty Dashy |
+| 895 | 133 | Kàrma Lee |
+| 896 | 133 | Spadez1231 |
+| 897 | 133 | Hasty Brickzone |
+| 898 | 133 | Derald Miller |
+| 899 | 133 | Hoppy Rumbler |
 | 900 | 132 | lady |
 | 901 | 132 | Shauntai Holiday |
 | 902 | 132 | Aanngie Aanngie |
