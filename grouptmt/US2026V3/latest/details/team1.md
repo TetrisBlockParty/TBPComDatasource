@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-09 15:10:46 UTC
+# Standings for team1 as of 2026-06-09 15:11:21 UTC
 
 **Total Participants:** 2064
 
@@ -302,7 +302,7 @@
 | 294 | 420 | Nerdy Blockpiece |
 | 295 | 419 | Johnathan Deese |
 | 296 | 419 | Dai Bo |
-| 297 | 418 | Ashleyy Netchert |
+| 297 | 419 | Ashleyy Netchert |
 | 298 | 413 | Curtis T Cirno |
 | 299 | 410 | Salim Thugger |
 | 300 | 409 | Andy Rivera |
@@ -357,27 +357,27 @@
 | 349 | 352 | Ann Chung |
 | 350 | 351 | Shameka Thrasher |
 | 351 | 349 | Sade Goodwine |
-| 352 | 349 | Erica Charlise |
-| 353 | 348 | Dennis J Herron II |
-| 354 | 347 | Erin Sabol |
-| 355 | 345 | Poppy Buildout |
-| 356 | 344 | DaGuy |
-| 357 | 343 | izzybella |
+| 352 | 349 | rls |
+| 353 | 349 | Erica Charlise |
+| 354 | 348 | Dennis J Herron II |
+| 355 | 347 | Erin Sabol |
+| 356 | 345 | Poppy Buildout |
+| 357 | 344 | DaGuy |
 | 358 | 343 | MamushiOh |
-| 359 | 340 | Peppy Towerbuilder |
+| 359 | 343 | izzybella |
 | 360 | 340 | Jean Regis |
-| 361 | 340 | Tipsy Linkroll |
-| 362 | 339 | Wayne Savannah |
-| 363 | 337 | Desire Rice |
-| 364 | 337 | Brenda Malachi-butler |
-| 365 | 336 | Skippy |
-| 366 | 336 | Amy Lynn Leifheit |
-| 367 | 334 | Kelli Couture |
-| 368 | 334 | Bubbly Piececlear |
-| 369 | 332 | MindlessMic |
-| 370 | 330 | Crystal Boyd |
-| 371 | 330 | Daddy |
-| 372 | 330 | rls |
+| 361 | 340 | Peppy Towerbuilder |
+| 362 | 340 | Tipsy Linkroll |
+| 363 | 339 | Wayne Savannah |
+| 364 | 337 | Desire Rice |
+| 365 | 337 | Brenda Malachi-butler |
+| 366 | 336 | Skippy |
+| 367 | 336 | Amy Lynn Leifheit |
+| 368 | 334 | Kelli Couture |
+| 369 | 334 | Bubbly Piececlear |
+| 370 | 332 | MindlessMic |
+| 371 | 330 | Crystal Boyd |
+| 372 | 330 | Daddy |
 | 373 | 328 | Snippy Breaker |
 | 374 | 327 | Chilly Wipebuilder |
 | 375 | 327 | Jennah |
