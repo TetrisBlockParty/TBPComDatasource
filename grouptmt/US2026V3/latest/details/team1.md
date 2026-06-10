@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:32:47 UTC
+# Standings for team1 as of 2026-06-10 08:33:22 UTC
 
 **Total Participants:** 2247
 
@@ -184,8 +184,8 @@
 | 176 | 778 | Gael Quintana |
 | 177 | 776 | Ann White |
 | 178 | 767 | GrkGdess |
-| 179 | 764 | Chantelle Lee |
-| 180 | 762 | Keke Ferguson |
+| 179 | 765 | Keke Ferguson |
+| 180 | 764 | Chantelle Lee |
 | 181 | 757 | Abraham Espaillat |
 | 182 | 754 | Jhaime |
 | 183 | 749 | Dulo |
