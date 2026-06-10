@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 17:50:43 UTC
+# Standings for team2 as of 2026-06-10 17:51:23 UTC
 
 **Total Participants:** 2788
 
@@ -119,8 +119,8 @@
 | 111 | 1734 | Charlie Wilson |
 | 112 | 1699 | Poppy |
 | 113 | 1658 | Criccett Hooper-Smith |
-| 114 | 1616 | Deborah Boyce Minor |
-| 115 | 1610 | Kellie Montgomery |
+| 114 | 1650 | Kellie Montgomery |
+| 115 | 1616 | Deborah Boyce Minor |
 | 116 | 1591 | Ruby Sandberg |
 | 117 | 1586 | Jazzy Faller |
 | 118 | 1563 | Amber Triguero |
@@ -407,23 +407,23 @@
 | 399 | 479 | Xandrea Jones |
 | 400 | 479 | Monica Gonzalez Rios |
 | 401 | 478 | Kathleen Keogh Van Schoyck |
-| 402 | 475 | Joanna Trevin Thompson |
+| 402 | 477 | Perky Linebuilder |
 | 403 | 475 | Darla Ragsdale |
 | 404 | 475 | Liseth Vasquez |
-| 405 | 474 | Kathryn |
-| 406 | 472 | Victoria Pale |
-| 407 | 471 | Amy Roseann |
-| 408 | 468 | Larry Cross |
-| 409 | 467 | Missy Renia |
-| 410 | 466 | Charity Hauser |
-| 411 | 465 | Roe Sarmiento |
-| 412 | 464 | Newtwidebody |
-| 413 | 464 | Jessica Connot |
-| 414 | 462 | Funway998 |
-| 415 | 461 | Erica South |
-| 416 | 460 | Happy |
-| 417 | 457 | Heather Burgett |
-| 418 | 457 | Perky Linebuilder |
+| 405 | 475 | Joanna Trevin Thompson |
+| 406 | 474 | Kathryn |
+| 407 | 472 | Victoria Pale |
+| 408 | 471 | Amy Roseann |
+| 409 | 468 | Larry Cross |
+| 410 | 467 | Missy Renia |
+| 411 | 466 | Charity Hauser |
+| 412 | 465 | Roe Sarmiento |
+| 413 | 464 | Newtwidebody |
+| 414 | 464 | Jessica Connot |
+| 415 | 462 | Funway998 |
+| 416 | 461 | Erica South |
+| 417 | 460 | Happy |
+| 418 | 457 | Heather Burgett |
 | 419 | 457 | Sandy Justus |
 | 420 | 455 | Janelle Edgecombe |
 | 421 | 453 | Kimberly Cowan |
@@ -867,10 +867,10 @@
 | 859 | 234 | Mike Mordhorst |
 | 860 | 234 | Natalie M. Arredondo |
 | 861 | 233 | Jolene Hull Hearn |
-| 862 | 233 | Andrea Rawson |
+| 862 | 233 | Jaimie Waybill |
 | 863 | 233 | Spunky Buildout |
 | 864 | 233 | Silly Chiseler |
-| 865 | 233 | Jaimie Waybill |
+| 865 | 233 | Andrea Rawson |
 | 866 | 232 | Kristen |
 | 867 | 232 | Tammy Roth |
 | 868 | 232 | Kati Eckstein |
@@ -878,20 +878,20 @@
 | 870 | 231 | Twisty Matchfit |
 | 871 | 231 | SunnySquare |
 | 872 | 231 | Princess Cucumber |
-| 873 | 231 | Flashy Wipegrid |
+| 873 | 231 | Soliman Soliman |
 | 874 | 231 | Camilo Moreno |
-| 875 | 231 | Amy |
-| 876 | 230 | Nanny t |
+| 875 | 231 | Flashy Wipegrid |
+| 876 | 231 | Amy |
 | 877 | 230 | Thtbrwnsknflla |
-| 878 | 229 | YAKO |
-| 879 | 229 | Chirpy Combofall |
-| 880 | 228 | Michele Plunkett |
+| 878 | 230 | Nanny t |
+| 879 | 229 | YAKO |
+| 880 | 229 | Chirpy Combofall |
 | 881 | 228 | Jennifer Bromeisl-Tettam |
-| 882 | 228 | sugabritches |
-| 883 | 228 | Amy |
-| 884 | 227 | Silly Clicker |
-| 885 | 226 | Brenda Shannon |
-| 886 | 226 | Soliman Soliman |
+| 882 | 228 | Michele Plunkett |
+| 883 | 228 | sugabritches |
+| 884 | 228 | Amy |
+| 885 | 227 | Silly Clicker |
+| 886 | 226 | Brenda Shannon |
 | 887 | 226 | Chris |
 | 888 | 226 | Valeri Bradley |
 | 889 | 225 | Momi Kamohai |
@@ -908,13 +908,13 @@
 | 900 | 222 | SaraAnn Gray Philbrick |
 | 901 | 222 | Sherri Caillet Aucoin |
 | 902 | 221 | Ques Pryor |
-| 903 | 221 | Ashley Fleming |
-| 904 | 221 | Jillian Marie |
+| 903 | 221 | Jillian Marie |
+| 904 | 221 | Ashley Fleming |
 | 905 | 221 | Dayna Messer-Thelen |
 | 906 | 221 | Jazzy |
 | 907 | 220 | Patti Ward |
-| 908 | 220 | Cassandra Milner |
-| 909 | 220 | Krystle L Coon |
+| 908 | 220 | Krystle L Coon |
+| 909 | 220 | Cassandra Milner |
 | 910 | 220 | Jessica Garoutte |
 | 911 | 220 | Debbie Davis |
 | 912 | 220 | Scott Lyles |
