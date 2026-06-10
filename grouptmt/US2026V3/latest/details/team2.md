@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:52:43 UTC
+# Standings for team2 as of 2026-06-10 08:53:23 UTC
 
 **Total Participants:** 2713
 
@@ -16,7 +16,7 @@
 | 8 | 11897 | Cori Keberlein |
 | 9 | 11136 | Jason Wood |
 | 10 | 10100 | Crafty Ziggy |
-| 11 | 9808 | Mocha |
+| 11 | 9864 | Mocha |
 | 12 | 9622 | Lola C Davis |
 | 13 | 9471 | A.j. Langley |
 | 14 | 9261 | Brandon Brown |
