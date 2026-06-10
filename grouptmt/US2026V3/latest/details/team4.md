@@ -1,6 +1,6 @@
-# Standings for team4 as of 2026-06-10 02:10:45 UTC
+# Standings for team4 as of 2026-06-10 02:11:22 UTC
 
-**Total Participants:** 2231
+**Total Participants:** 2232
 
 ## Participant Scores
 
@@ -16,7 +16,7 @@
 | 8 | 10505 | Cinny |
 | 9 | 9489 | Kait Confetti |
 | 10 | 8916 | Boldy Crusher |
-| 11 | 8605 | ktothet |
+| 11 | 8705 | ktothet |
 | 12 | 8408 | Jennifer Edgell Richardson |
 | 13 | 8228 | Candice Driver |
 | 14 | 8185 | t |
@@ -129,7 +129,7 @@
 | 121 | 1064 | Jesse Olive |
 | 122 | 1050 | Jason Garnatz |
 | 123 | 1033 | Dandy Puzzler |
-| 124 | 1026 | Dee Wizz |
+| 124 | 1031 | Dee Wizz |
 | 125 | 1020 | Irma |
 | 126 | 1012 | GeorgeButts |
 | 127 | 1011 | Futrell Brent |
@@ -181,13 +181,13 @@
 | 173 | 735 | Cinta Marie |
 | 174 | 732 | Gracie Ornelas |
 | 175 | 728 | Bonnie Powell |
-| 176 | 725 | iiPurgeV2 |
-| 177 | 720 | Magz |
-| 178 | 716 | Devinlee Brown |
-| 179 | 714 | Nikki Fuller Johnson |
-| 180 | 710 | Lisa Garcia |
-| 181 | 705 | Katie Martin |
-| 182 | 703 | LastBoi |
+| 176 | 725 | LastBoi |
+| 177 | 725 | iiPurgeV2 |
+| 178 | 720 | Magz |
+| 179 | 716 | Devinlee Brown |
+| 180 | 714 | Nikki Fuller Johnson |
+| 181 | 710 | Lisa Garcia |
+| 182 | 705 | Katie Martin |
 | 183 | 703 | zoes |
 | 184 | 700 | Anthony Magaraci |
 | 185 | 697 | Linda Miltenburg |
@@ -317,40 +317,40 @@
 | 309 | 427 | Breezy Cascadeclear |
 | 310 | 426 | Rebecca Watters |
 | 311 | 426 | Sassy Rollpiece |
-| 312 | 425 | Anna Gribble |
-| 313 | 424 | Stephanie Gauna |
-| 314 | 422 | Spunky Gridzone |
-| 315 | 421 | Vicki Adams |
-| 316 | 421 | Slinky Stackzone |
-| 317 | 421 | Ashley Jenkins |
-| 318 | 421 | Shiny Brick |
-| 319 | 419 | Chirpy Link |
-| 320 | 418 | Juvon SupaShawdii Brooks |
-| 321 | 416 | Erika Seaton |
-| 322 | 416 | EL Booger |
-| 323 | 413 | Speedy Twistslam |
-| 324 | 412 | Clashy |
-| 325 | 411 | EvoKitty |
-| 326 | 410 | Justin Michael |
+| 312 | 425 | Bobbie Harrell |
+| 313 | 425 | Anna Gribble |
+| 314 | 424 | Stephanie Gauna |
+| 315 | 422 | Spunky Gridzone |
+| 316 | 421 | Vicki Adams |
+| 317 | 421 | Slinky Stackzone |
+| 318 | 421 | Ashley Jenkins |
+| 319 | 421 | Shiny Brick |
+| 320 | 419 | Chirpy Link |
+| 321 | 418 | Juvon SupaShawdii Brooks |
+| 322 | 416 | Erika Seaton |
+| 323 | 416 | EL Booger |
+| 324 | 413 | Speedy Twistslam |
+| 325 | 412 | Clashy |
+| 326 | 411 | EvoKitty |
 | 327 | 410 | Andrick |
-| 328 | 409 | beTrue76 |
-| 329 | 408 | Aramat |
-| 330 | 404 | Dapper Strikerpiece |
+| 328 | 410 | Justin Michael |
+| 329 | 409 | beTrue76 |
+| 330 | 408 | Aramat |
 | 331 | 404 | Glitzy Patternbuilder |
-| 332 | 401 | Snazzy Corner |
-| 333 | 401 | MomyLiz |
-| 334 | 401 | Pandala Mandala |
-| 335 | 401 | Jay Dee |
-| 336 | 401 | Sherry Mooney |
-| 337 | 400 | Jessi Goodwin |
-| 338 | 399 | Jeri Anne Stormo-Toman |
-| 339 | 399 | Cheeky Fallzone |
-| 340 | 399 | Slinky Column |
-| 341 | 399 | Gary Smallwood |
-| 342 | 397 | Jumpy Builderpiece |
-| 343 | 396 | WeeWooWee |
-| 344 | 395 | PerfectPieces |
-| 345 | 395 | Bobbie Harrell |
+| 332 | 404 | Dapper Strikerpiece |
+| 333 | 401 | Sherry Mooney |
+| 334 | 401 | Jay Dee |
+| 335 | 401 | Pandala Mandala |
+| 336 | 401 | MomyLiz |
+| 337 | 401 | Snazzy Corner |
+| 338 | 400 | Jessi Goodwin |
+| 339 | 399 | Slinky Column |
+| 340 | 399 | Gary Smallwood |
+| 341 | 399 | Cheeky Fallzone |
+| 342 | 399 | Jeri Anne Stormo-Toman |
+| 343 | 397 | Jumpy Builderpiece |
+| 344 | 396 | WeeWooWee |
+| 345 | 395 | PerfectPieces |
 | 346 | 394 | Tipsy Piecebuilder |
 | 347 | 394 | Quirky Fitblock |
 | 348 | 390 | Cherrypir05 |
@@ -2197,8 +2197,8 @@
 | 2189 | 7 | Jazzy Smasher |
 | 2190 | 7 | Goofy Fitclear |
 | 2191 | 7 | Estmercy |
-| 2192 | 7 | Angela Mertz |
-| 2193 | 7 | Crafty Riser |
+| 2192 | 7 | Crafty Riser |
+| 2193 | 7 | Angela Mertz |
 | 2194 | 7 | Jerrod R VanAlstyne |
 | 2195 | 7 | Jennifer Flores |
 | 2196 | 7 | John Brandon Kinney |
@@ -2209,34 +2209,35 @@
 | 2201 | 7 | Peaches3569 |
 | 2202 | 7 | Malinda Fife |
 | 2203 | 6 | Frothy Gridmatch |
-| 2204 | 6 | Spunky Winder |
-| 2205 | 6 | Kristin R. Billiot |
-| 2206 | 6 | April McWhite |
-| 2207 | 6 | Barbara Fagan |
-| 2208 | 6 | Ladybug |
-| 2209 | 6 | Nutty Dropper |
+| 2204 | 6 | Amy Manchion |
+| 2205 | 6 | Spunky Winder |
+| 2206 | 6 | Kristin R. Billiot |
+| 2207 | 6 | April McWhite |
+| 2208 | 6 | Barbara Fagan |
+| 2209 | 6 | Ladybug |
 | 2210 | 6 | Crissie Mary Schafer |
 | 2211 | 6 | frank |
 | 2212 | 6 | Sherry Heilig |
 | 2213 | 6 | Maria Landa |
-| 2214 | 6 | Valerie Michelle Dula |
-| 2215 | 6 | Snippy Bouncer |
-| 2216 | 5 | Zany Shatter |
-| 2217 | 5 | Elizabeth Storey Jones |
-| 2218 | 5 | Racheal Lowry |
-| 2219 | 5 | Cheery Tower |
-| 2220 | 5 | Kayla Ridnour |
-| 2221 | 5 | James Lackey |
-| 2222 | 5 | Debbie Johnson |
-| 2223 | 5 | Darlene Adragna |
-| 2224 | 5 | Leo |
-| 2225 | 5 | Pablo Resendiz |
+| 2214 | 6 | Nutty Dropper |
+| 2215 | 6 | Valerie Michelle Dula |
+| 2216 | 6 | Snippy Bouncer |
+| 2217 | 5 | Leo |
+| 2218 | 5 | Zany Shatter |
+| 2219 | 5 | Elizabeth Storey Jones |
+| 2220 | 5 | Racheal Lowry |
+| 2221 | 5 | Cheery Tower |
+| 2222 | 5 | Kayla Ridnour |
+| 2223 | 5 | James Lackey |
+| 2224 | 5 | Debbie Johnson |
+| 2225 | 5 | Darlene Adragna |
 | 2226 | 5 | Winza777 |
-| 2227 | 5 | Linda Monique |
-| 2228 | 5 | Wacky Clearzone |
-| 2229 | 5 | April Vela |
-| 2230 | 5 | Tippet |
+| 2227 | 5 | Pablo Resendiz |
+| 2228 | 5 | Linda Monique |
+| 2229 | 5 | Wacky Clearzone |
+| 2230 | 5 | April Vela |
 | 2231 | 5 | Mercedes Williams |
+| 2232 | 5 | Tippet |
 
 ---
 *Standings created by tournaments datasource generation tool*
