@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 16:48:46 UTC
+# Standings for team2 as of 2026-06-10 16:49:22 UTC
 
 **Total Participants:** 2782
 
@@ -142,11 +142,11 @@
 | 134 | 1350 | Sigmamom |
 | 135 | 1347 | Jason Cook |
 | 136 | 1338 | Kellie Montgomery |
-| 137 | 1323 | joey |
-| 138 | 1319 | Mirr Lulu |
-| 139 | 1306 | Sam |
-| 140 | 1298 | Hoppy Rotate |
-| 141 | 1288 | Anissa Moore |
+| 137 | 1328 | Anissa Moore |
+| 138 | 1323 | joey |
+| 139 | 1319 | Mirr Lulu |
+| 140 | 1306 | Sam |
+| 141 | 1298 | Hoppy Rotate |
 | 142 | 1286 | Kvothe |
 | 143 | 1275 | Michelle Maulsby |
 | 144 | 1270 | Joslyn Johnson |
@@ -217,8 +217,8 @@
 | 209 | 849 | Brandi Thompson |
 | 210 | 846 | Zesty Strikerbuilder |
 | 211 | 842 | Kevin Mccoy |
-| 212 | 841 | Michelle Luke Banta |
-| 213 | 839 | Denise Morehart |
+| 212 | 841 | Denise Morehart |
+| 213 | 841 | Michelle Luke Banta |
 | 214 | 839 | MegaPooh |
 | 215 | 838 | H |
 | 216 | 836 | Ashley Green |
@@ -339,9 +339,9 @@
 | 331 | 594 | Kristi Chestnut |
 | 332 | 588 | Thomas Tyrone |
 | 333 | 583 | MaddieCherie |
-| 334 | 579 | Mookshake |
-| 335 | 577 | Lindsay Klemp |
-| 336 | 577 | Norma Ortiz |
+| 334 | 581 | Norma Ortiz |
+| 335 | 579 | Mookshake |
+| 336 | 577 | Lindsay Klemp |
 | 337 | 575 | Melissa Nash |
 | 338 | 574 | Brandy McCune Reep |
 | 339 | 565 | Kelly Rogers |
@@ -699,27 +699,27 @@
 | 691 | 289 | Holly Barefoot |
 | 692 | 289 | Stella |
 | 693 | 289 | Cranky Basepiece |
-| 694 | 288 | Chilly Surge |
-| 695 | 288 | Suzanne Davis |
-| 696 | 288 | Wendy Mcbride |
-| 697 | 288 | Nicole Suber |
-| 698 | 287 | Carl Mccoy |
-| 699 | 287 | WhitS |
-| 700 | 287 | Nicole Ashbaugh |
-| 701 | 287 | Brandy Chinelle |
-| 702 | 287 | Jessica Bowman |
-| 703 | 286 | Vanessa King |
-| 704 | 286 | Aneokly |
-| 705 | 285 | Michael Anthony Anstead |
-| 706 | 285 | Kelly Bormann |
-| 707 | 285 | CEK |
-| 708 | 285 | Michele Rogers |
-| 709 | 284 | Henny Henny |
-| 710 | 284 | Flex |
+| 694 | 288 | Michele Rogers |
+| 695 | 288 | Chilly Surge |
+| 696 | 288 | Suzanne Davis |
+| 697 | 288 | Wendy Mcbride |
+| 698 | 288 | Nicole Suber |
+| 699 | 287 | Carl Mccoy |
+| 700 | 287 | WhitS |
+| 701 | 287 | Jessica Bowman |
+| 702 | 287 | Brandy Chinelle |
+| 703 | 287 | Nicole Ashbaugh |
+| 704 | 286 | Vanessa King |
+| 705 | 286 | Aneokly |
+| 706 | 285 | Michael Anthony Anstead |
+| 707 | 285 | Kelly Bormann |
+| 708 | 285 | CEK |
+| 709 | 284 | Flex |
+| 710 | 284 | Henny Henny |
 | 711 | 283 | Precious Womack |
 | 712 | 283 | Alonzo Reed |
-| 713 | 281 | Jennifer Leigh |
-| 714 | 281 | Rick |
+| 713 | 281 | Rick |
+| 714 | 281 | Jennifer Leigh |
 | 715 | 281 | Fallon Moss |
 | 716 | 280 | Keisha Robinson |
 | 717 | 280 | Adam Latin |
@@ -839,15 +839,15 @@
 | 831 | 239 | Shawn Jensen |
 | 832 | 239 | Ashlee Johnson |
 | 833 | 239 | Kalli Bonin |
-| 834 | 238 | Sherry Ann |
-| 835 | 238 | Maurii93 |
-| 836 | 237 | Renee Siems |
-| 837 | 237 | William Dowd |
-| 838 | 237 | Giggy Dropzone |
-| 839 | 237 | Anna Benjamin Freeman |
-| 840 | 237 | Jeremy Daurbigny |
-| 841 | 236 | Duck |
-| 842 | 236 | Hansent3 |
+| 834 | 238 | Hansent3 |
+| 835 | 238 | Sherry Ann |
+| 836 | 238 | Maurii93 |
+| 837 | 237 | Renee Siems |
+| 838 | 237 | William Dowd |
+| 839 | 237 | Giggy Dropzone |
+| 840 | 237 | Anna Benjamin Freeman |
+| 841 | 237 | Jeremy Daurbigny |
+| 842 | 236 | Duck |
 | 843 | 236 | Lush Party |
 | 844 | 236 | Elnaz Mokleh |
 | 845 | 235 | Heather Billodeau |
@@ -867,14 +867,14 @@
 | 859 | 232 | Tammy Roth |
 | 860 | 232 | Kati Eckstein |
 | 861 | 231 | Princess Cucumber |
-| 862 | 231 | Twisty Matchfit |
-| 863 | 231 | SunnySquare |
+| 862 | 231 | SunnySquare |
+| 863 | 231 | Twisty Matchfit |
 | 864 | 231 | Flashy Wipegrid |
 | 865 | 231 | Camilo Moreno |
 | 866 | 231 | Amy |
 | 867 | 230 | Nanny t |
-| 868 | 229 | Chirpy Combofall |
-| 869 | 229 | YAKO |
+| 868 | 229 | YAKO |
+| 869 | 229 | Chirpy Combofall |
 | 870 | 228 | Michele Plunkett |
 | 871 | 228 | Jennifer Bromeisl-Tettam |
 | 872 | 228 | Amy |
@@ -887,14 +887,14 @@
 | 879 | 226 | Valeri Bradley |
 | 880 | 226 | Chris |
 | 881 | 225 | Momi Kamohai |
-| 882 | 225 | R.w. Buck |
-| 883 | 224 | Lindsey Davidson |
-| 884 | 224 | Doug Small |
-| 885 | 224 | Glitzy Roll |
-| 886 | 224 | Calah Amore |
-| 887 | 224 | Melissa Abbott |
+| 882 | 225 | Dandy Tiltgrid |
+| 883 | 225 | R.w. Buck |
+| 884 | 224 | Lindsey Davidson |
+| 885 | 224 | Doug Small |
+| 886 | 224 | Glitzy Roll |
+| 887 | 224 | Calah Amore |
 | 888 | 224 | Leigh Wilkerson |
-| 889 | 224 | Dandy Tiltgrid |
+| 889 | 224 | Melissa Abbott |
 | 890 | 224 | Christine James |
 | 891 | 223 | Kevin Patrick |
 | 892 | 223 | Hillary Frank |
