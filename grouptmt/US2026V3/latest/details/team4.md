@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 06:02:44 UTC
+# Standings for team4 as of 2026-06-10 06:03:22 UTC
 
 **Total Participants:** 2279
 
@@ -1306,8 +1306,8 @@
 | 1298 | 88 | Musky Pits |
 | 1299 | 88 | John Henry |
 | 1300 | 88 | Joe Win |
-| 1301 | 88 | Tbag |
-| 1302 | 87 | Poppy Glider |
+| 1301 | 88 | Poppy Glider |
+| 1302 | 88 | Tbag |
 | 1303 | 87 | Audacious |
 | 1304 | 87 | Leslee Bentley DeLong |
 | 1305 | 86 | Luunii |
@@ -1378,8 +1378,8 @@
 | 1370 | 77 | Shannon Lee |
 | 1371 | 77 | Michael Cruz |
 | 1372 | 77 | Stuart Crosby |
-| 1373 | 76 | Uh Lesh Uh |
-| 1374 | 76 | Brandy Martin-Lowery |
+| 1373 | 76 | Brandy Martin-Lowery |
+| 1374 | 76 | Uh Lesh Uh |
 | 1375 | 76 | Ksawn Collymore-bey Collymore-bey |
 | 1376 | 76 | Nakkia Mobley |
 | 1377 | 76 | Aliyah Abdella |
@@ -1387,55 +1387,55 @@
 | 1379 | 76 | Cozy Patternbuilder |
 | 1380 | 75 | Bri |
 | 1381 | 75 | White As Snow |
-| 1382 | 75 | Gary Moore |
+| 1382 | 75 | Spunky Risegrid |
 | 1383 | 75 | Jeremy Fisher |
 | 1384 | 75 | ŁųŁų |
-| 1385 | 75 | Sydney Taylor Sileno |
-| 1386 | 75 | Marco A. Sandoval |
-| 1387 | 75 | Spunky Risegrid |
+| 1385 | 75 | Gary Moore |
+| 1386 | 75 | Sydney Taylor Sileno |
+| 1387 | 75 | Marco A. Sandoval |
 | 1388 | 75 | Jessica Marie Flores |
 | 1389 | 74 | Frothy Pivotfall |
-| 1390 | 74 | Destiny Georgia Reeves Beller |
-| 1391 | 74 | Shane Tate |
-| 1392 | 74 | Chirpy Corner |
+| 1390 | 74 | Chirpy Corner |
+| 1391 | 74 | Destiny Georgia Reeves Beller |
+| 1392 | 74 | Shane Tate |
 | 1393 | 74 | Beck Samoney |
 | 1394 | 74 | KingWing |
 | 1395 | 73 | Athena Hunt |
 | 1396 | 73 | Fkvj |
-| 1397 | 73 | MamaC |
-| 1398 | 73 | sleepy head |
-| 1399 | 73 | Jozette Smalarz |
-| 1400 | 73 | Jean Crooks |
+| 1397 | 73 | Toyag |
+| 1398 | 73 | Jean Crooks |
+| 1399 | 73 | Jacqueline Couillard Jaeger |
+| 1400 | 73 | Cas Gio |
 | 1401 | 73 | Yseoj M. Zurc |
-| 1402 | 73 | Jacqueline Couillard Jaeger |
-| 1403 | 73 | Cas Gio |
-| 1404 | 73 | Bo Hagan |
-| 1405 | 73 | Toyag |
-| 1406 | 72 | Heather Hilferty |
-| 1407 | 72 | Richard Armstrong |
+| 1402 | 73 | Jozette Smalarz |
+| 1403 | 73 | Bo Hagan |
+| 1404 | 73 | sleepy head |
+| 1405 | 73 | MamaC |
+| 1406 | 72 | Richard Armstrong |
+| 1407 | 72 | Heather Hilferty |
 | 1408 | 72 | Kassey M. Clark |
 | 1409 | 72 | kellyhyatt |
 | 1410 | 72 | Terry Jo Myers |
-| 1411 | 71 | Violet Mejia |
-| 1412 | 71 | Hyper Snaplink |
-| 1413 | 71 | Bouncy Blockclear |
-| 1414 | 71 | Jessica Armistead |
-| 1415 | 71 | Angelo L Casillas |
-| 1416 | 71 | Monique Kitzmiller |
-| 1417 | 71 | Tipsy Curvetile |
-| 1418 | 70 | Kelli Wells Fuhr |
+| 1411 | 72 | Rio Rumble |
+| 1412 | 71 | Violet Mejia |
+| 1413 | 71 | Hyper Snaplink |
+| 1414 | 71 | Bouncy Blockclear |
+| 1415 | 71 | Jessica Armistead |
+| 1416 | 71 | Angelo L Casillas |
+| 1417 | 71 | Monique Kitzmiller |
+| 1418 | 71 | Tipsy Curvetile |
 | 1419 | 70 | Jolene Stieren |
-| 1420 | 70 | Dustin Bell |
-| 1421 | 70 | T boo |
-| 1422 | 70 | Jada Jordyn Campbell |
-| 1423 | 70 | rick mase |
-| 1424 | 70 | Syreeta B Robinson |
-| 1425 | 70 | Felicia May Langley |
-| 1426 | 69 | Jazzy Smasher |
-| 1427 | 69 | Monica Selwyn |
-| 1428 | 69 | Tina Lopez |
-| 1429 | 69 | Felicity Fahrentin |
-| 1430 | 69 | Rio Rumble |
+| 1420 | 70 | Kelli Wells Fuhr |
+| 1421 | 70 | Dustin Bell |
+| 1422 | 70 | T boo |
+| 1423 | 70 | Jada Jordyn Campbell |
+| 1424 | 70 | rick mase |
+| 1425 | 70 | Syreeta B Robinson |
+| 1426 | 70 | Felicia May Langley |
+| 1427 | 69 | Jazzy Smasher |
+| 1428 | 69 | Monica Selwyn |
+| 1429 | 69 | Tina Lopez |
+| 1430 | 69 | Felicity Fahrentin |
 | 1431 | 69 | Liz R |
 | 1432 | 69 | Derrek Lee |
 | 1433 | 69 | Kristin Ussery |
