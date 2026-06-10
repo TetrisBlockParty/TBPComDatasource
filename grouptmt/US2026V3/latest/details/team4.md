@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 14:36:45 UTC
+# Standings for team4 as of 2026-06-10 14:37:25 UTC
 
 **Total Participants:** 2332
 
@@ -39,8 +39,8 @@
 | 31 | 4862 | Chummy Rollzone |
 | 32 | 4841 | Daring Ziggy |
 | 33 | 4759 | Jackie Lucas |
-| 34 | 4418 | Leigh Pierce |
-| 35 | 4418 | Victoria Ver |
+| 34 | 4418 | Victoria Ver |
+| 35 | 4418 | Leigh Pierce |
 | 36 | 4323 | Leah Barnett |
 | 37 | 4319 | Tonya Brooks-Johnson |
 | 38 | 4179 | Witty Clicky |
@@ -61,8 +61,8 @@
 | 53 | 3100 | Posey Smith |
 | 54 | 2960 | Alicia Cook |
 | 55 | 2839 | 626 |
-| 56 | 2800 | Caitlin Johnson |
-| 57 | 2800 | Annastaissia Todd |
+| 56 | 2800 | Annastaissia Todd |
+| 57 | 2800 | Caitlin Johnson |
 | 58 | 2795 | Monica Emel |
 | 59 | 2572 | Маркус Вік |
 | 60 | 2540 | Joseph Anthony Watkins |
@@ -117,14 +117,14 @@
 | 109 | 1259 | Snappy Fitzone |
 | 110 | 1253 | Hannah Pazar |
 | 111 | 1227 | shawna |
-| 112 | 1211 | Dana Fontanez |
-| 113 | 1211 | Jenn Fitzgerald |
+| 112 | 1211 | Jenn Fitzgerald |
+| 113 | 1211 | Dana Fontanez |
 | 114 | 1201 | Trice Stevenson |
 | 115 | 1201 | Twirl Girl |
 | 116 | 1196 | J |
 | 117 | 1160 | Hardy Fuller |
-| 118 | 1156 | Dee Wizz |
-| 119 | 1156 | Jonathan Hewitt |
+| 118 | 1156 | Jonathan Hewitt |
+| 119 | 1156 | Dee Wizz |
 | 120 | 1145 | Kristen Wallace |
 | 121 | 1136 | Jesse Olive |
 | 122 | 1136 | Bri Martin |
@@ -158,8 +158,8 @@
 | 150 | 970 | Kazrin Douglass |
 | 151 | 952 | Jessi Goodwin |
 | 152 | 952 | Alala.Cersei |
-| 153 | 950 | Nicole Peoples |
-| 154 | 950 | Joyce Myers |
+| 153 | 950 | Joyce Myers |
+| 154 | 950 | Nicole Peoples |
 | 155 | 946 | Sharidan Klinginsmith |
 | 156 | 933 | Daryn Elliott |
 | 157 | 931 | Cranky Towerbuilder |
@@ -204,8 +204,8 @@
 | 196 | 735 | Cinta Marie |
 | 197 | 730 | Chuck Burns |
 | 198 | 728 | Neeta Kapadia |
-| 199 | 728 | Roxana Romero |
-| 200 | 728 | Bonnie Powell |
+| 199 | 728 | Bonnie Powell |
+| 200 | 728 | Roxana Romero |
 | 201 | 725 | iiPurgeV2 |
 | 202 | 723 | zoes |
 | 203 | 721 | Janet Sanfilippo Sullivan |
@@ -227,8 +227,8 @@
 | 219 | 666 | Cheery Risegrid |
 | 220 | 659 | Alex Armour |
 | 221 | 659 | Lush Fitblock |
-| 222 | 657 | Tyson Stroppel |
-| 223 | 657 | Jenn Norcross |
+| 222 | 657 | Jenn Norcross |
+| 223 | 657 | Tyson Stroppel |
 | 224 | 656 | Jackie Miller |
 | 225 | 656 | Leslie Ann Carter |
 | 226 | 654 | Gerald Lew |
