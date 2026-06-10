@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 15:28:45 UTC
+# Standings for team4 as of 2026-06-10 15:29:24 UTC
 
 **Total Participants:** 2336
 
@@ -472,8 +472,8 @@
 | 464 | 339 | Inez Nez |
 | 465 | 339 | Shepreneur Sade |
 | 466 | 337 | Tiggerjake |
-| 467 | 337 | Jazzy Rollout |
-| 468 | 336 | Bouncy |
+| 467 | 337 | Bouncy |
+| 468 | 337 | Jazzy Rollout |
 | 469 | 334 | Deborah Ayliffe |
 | 470 | 331 | Maricela Joslin |
 | 471 | 331 | Rosy Perez |
@@ -567,7 +567,7 @@
 | 559 | 284 | Brandi Sauer |
 | 560 | 284 | Nicole Colby McCloskey |
 | 561 | 284 | Krystal Dixon-Hahn |
-| 562 | 283 | Gigi Ivicsics |
+| 562 | 284 | Gigi Ivicsics |
 | 563 | 282 | sierrabeth |
 | 564 | 282 | Travis McKinnon |
 | 565 | 281 | Donna Bush |
@@ -960,17 +960,17 @@
 | 952 | 158 | Breezy Rollfit |
 | 953 | 158 | Cozy Builderfit |
 | 954 | 157 | Marie Lily |
-| 955 | 157 | Andy Petersen |
-| 956 | 157 | Bam SwaggSpitter King |
-| 957 | 157 | Yournightmare |
-| 958 | 157 | TheazO |
-| 959 | 156 | Slinky Snapfit |
-| 960 | 156 | Vergie Michael |
-| 961 | 156 | Miranda Brown |
-| 962 | 156 | Kenyatta Davis |
-| 963 | 156 | Brenda Villa |
-| 964 | 155 | Krystal Simpson |
-| 965 | 155 | Steve Swanson |
+| 955 | 157 | Steve Swanson |
+| 956 | 157 | Andy Petersen |
+| 957 | 157 | Bam SwaggSpitter King |
+| 958 | 157 | Yournightmare |
+| 959 | 157 | TheazO |
+| 960 | 156 | Slinky Snapfit |
+| 961 | 156 | Vergie Michael |
+| 962 | 156 | Miranda Brown |
+| 963 | 156 | Kenyatta Davis |
+| 964 | 156 | Brenda Villa |
+| 965 | 155 | Krystal Simpson |
 | 966 | 155 | Marisela Alvarado |
 | 967 | 155 | Ashley McGeehan |
 | 968 | 155 | Kristen Lester |
@@ -1285,30 +1285,30 @@
 | 1277 | 99 | Amori85 |
 | 1278 | 99 | Jane M Tiller |
 | 1279 | 99 | Tamika Ashli Bonner |
-| 1280 | 99 | Alicia |
+| 1280 | 99 | Koren Heersink |
 | 1281 | 99 | Courtney Miller |
-| 1282 | 99 | Ricardo Arias |
-| 1283 | 98 | Melissa Rathbun |
-| 1284 | 98 | Teresa Lescinskas |
-| 1285 | 98 | katy |
-| 1286 | 98 | SweetMomma |
-| 1287 | 98 | Sprout |
-| 1288 | 98 | Chelsea Leigh Busch |
-| 1289 | 97 | Jodi Messere |
-| 1290 | 97 | Skylar Durk |
-| 1291 | 97 | Danielle Porter |
-| 1292 | 97 | NotAkaren Barker |
-| 1293 | 97 | Limbo |
-| 1294 | 97 | Mike Artis |
-| 1295 | 96 | Richard Moneyrich Nottingham |
-| 1296 | 96 | Poppy Glider |
-| 1297 | 96 | Joshua Conwell |
-| 1298 | 96 | Tiffany Taylor |
-| 1299 | 96 | Smiley Wipeblock |
-| 1300 | 96 | Curved carrot |
-| 1301 | 95 | LilithMoon |
-| 1302 | 95 | Hyper Balancepiece |
-| 1303 | 95 | Koren Heersink |
+| 1282 | 99 | Alicia |
+| 1283 | 99 | Ricardo Arias |
+| 1284 | 98 | Melissa Rathbun |
+| 1285 | 98 | Teresa Lescinskas |
+| 1286 | 98 | katy |
+| 1287 | 98 | SweetMomma |
+| 1288 | 98 | Sprout |
+| 1289 | 98 | Chelsea Leigh Busch |
+| 1290 | 97 | Jodi Messere |
+| 1291 | 97 | Skylar Durk |
+| 1292 | 97 | Danielle Porter |
+| 1293 | 97 | NotAkaren Barker |
+| 1294 | 97 | Limbo |
+| 1295 | 97 | Mike Artis |
+| 1296 | 96 | Richard Moneyrich Nottingham |
+| 1297 | 96 | Poppy Glider |
+| 1298 | 96 | Joshua Conwell |
+| 1299 | 96 | Tiffany Taylor |
+| 1300 | 96 | Smiley Wipeblock |
+| 1301 | 96 | Curved carrot |
+| 1302 | 95 | LilithMoon |
+| 1303 | 95 | Hyper Balancepiece |
 | 1304 | 95 | Kristie McFarland |
 | 1305 | 95 | Jasmine Griffin |
 | 1306 | 94 | Kyle Hergert |
@@ -1316,8 +1316,8 @@
 | 1308 | 94 | Ronald Kent Hall |
 | 1309 | 94 | Cinnanin |
 | 1310 | 94 | Mighty Clicky |
-| 1311 | 94 | Cranky Twistpiece |
-| 1312 | 94 | Dandy Balancer |
+| 1311 | 94 | Dandy Balancer |
+| 1312 | 94 | Cranky Twistpiece |
 | 1313 | 94 | Jim Stewart |
 | 1314 | 94 | Pap337 |
 | 1315 | 93 | Giggly Roll |
@@ -1580,34 +1580,34 @@
 | 1572 | 60 | Brittany LeGros |
 | 1573 | 60 | Dizzy Builderfit |
 | 1574 | 60 | Jeffrey Mann |
-| 1575 | 60 | Tyrell Sanders |
-| 1576 | 60 | Brandi Wacker |
-| 1577 | 60 | Kasondra Cooper |
-| 1578 | 59 | Chyla Burns |
-| 1579 | 59 | Remii |
-| 1580 | 59 | Geneva Mixon |
-| 1581 | 59 | Denisha Schinell Boyd |
-| 1582 | 59 | Thomas Cassell |
-| 1583 | 58 | Grace Mariie |
-| 1584 | 58 | FuzzyBunny |
-| 1585 | 58 | Bryce McGee |
-| 1586 | 58 | Yaya Selbor |
-| 1587 | 58 | Kalisha Monique Wright |
-| 1588 | 58 | Peachy Grabber |
-| 1589 | 58 | Jessica Sanchez |
-| 1590 | 58 | Rebecca Dix |
-| 1591 | 58 | Chris Robertson |
-| 1592 | 58 | courtt |
-| 1593 | 58 | Jazzy Brickfit |
-| 1594 | 58 | Oscar Flores |
-| 1595 | 58 | Gabby |
-| 1596 | 58 | Adrian Cruz |
-| 1597 | 58 | Amy Tennison |
-| 1598 | 57 | Jody Jones Kessler |
-| 1599 | 57 | Rebecca Cook |
-| 1600 | 57 | Loony Shatterer |
-| 1601 | 57 | Todd Kirkland |
-| 1602 | 57 | CrystalP83 |
+| 1575 | 60 | CrystalP83 |
+| 1576 | 60 | Kasondra Cooper |
+| 1577 | 60 | Tyrell Sanders |
+| 1578 | 60 | Brandi Wacker |
+| 1579 | 59 | Chyla Burns |
+| 1580 | 59 | Remii |
+| 1581 | 59 | Geneva Mixon |
+| 1582 | 59 | Denisha Schinell Boyd |
+| 1583 | 59 | Thomas Cassell |
+| 1584 | 58 | Grace Mariie |
+| 1585 | 58 | FuzzyBunny |
+| 1586 | 58 | Bryce McGee |
+| 1587 | 58 | Yaya Selbor |
+| 1588 | 58 | Kalisha Monique Wright |
+| 1589 | 58 | Peachy Grabber |
+| 1590 | 58 | Jessica Sanchez |
+| 1591 | 58 | Jazzy Brickfit |
+| 1592 | 58 | Adrian Cruz |
+| 1593 | 58 | Amy Tennison |
+| 1594 | 58 | Gabby |
+| 1595 | 58 | Oscar Flores |
+| 1596 | 58 | courtt |
+| 1597 | 58 | Chris Robertson |
+| 1598 | 58 | Rebecca Dix |
+| 1599 | 57 | Todd Kirkland |
+| 1600 | 57 | Rebecca Cook |
+| 1601 | 57 | Loony Shatterer |
+| 1602 | 57 | Jody Jones Kessler |
 | 1603 | 57 | Clever Shuffler |
 | 1604 | 57 | BlockFlakes |
 | 1605 | 57 | PapaB |
@@ -1626,8 +1626,8 @@
 | 1618 | 56 | Glitzy Builderline |
 | 1619 | 56 | Flashy Riser |
 | 1620 | 56 | Kahlani Baird |
-| 1621 | 55 | Lincy A. Walsh |
-| 1622 | 55 | Brook Marguerite Benson |
+| 1621 | 55 | Brook Marguerite Benson |
+| 1622 | 55 | Lincy A. Walsh |
 | 1623 | 55 | Adolfo Bernal |
 | 1624 | 55 | Sherell Bowens |
 | 1625 | 55 | Moonp |
@@ -1821,13 +1821,13 @@
 | 1813 | 38 | Simone Marie Thrasher |
 | 1814 | 38 | Heather Cook |
 | 1815 | 38 | Jacquelyn Villarreal-Messenger |
-| 1816 | 38 | Dupontmom |
-| 1817 | 38 | Chris Riley |
+| 1816 | 38 | Chris Riley |
+| 1817 | 38 | Dupontmom |
 | 1818 | 38 | Shimara Hall |
-| 1819 | 37 | Amber Terry |
-| 1820 | 37 | Alisha Hubbard |
-| 1821 | 37 | Cassie Jowett |
-| 1822 | 37 | Nutty Linkroll |
+| 1819 | 37 | Cassie Jowett |
+| 1820 | 37 | Nutty Linkroll |
+| 1821 | 37 | Alisha Hubbard |
+| 1822 | 37 | Amber Terry |
 | 1823 | 37 | theyhatejzt |
 | 1824 | 37 | Scammer |
 | 1825 | 37 | Arlee Woodall |
@@ -1838,16 +1838,16 @@
 | 1830 | 36 | Stacey Hyde |
 | 1831 | 36 | Christine Raine Jalili |
 | 1832 | 36 | Peppy Linefit |
-| 1833 | 36 | Jesse Martinez |
-| 1834 | 36 | Lively Tilebuilder |
+| 1833 | 36 | Litty |
+| 1834 | 36 | Stephanie Cornelius |
 | 1835 | 36 | Jimmy Redding |
-| 1836 | 36 | Kerry Walker |
-| 1837 | 36 | Stephanie Cornelius |
-| 1838 | 36 | Litty |
-| 1839 | 36 | Rise |
-| 1840 | 35 | Junelle Simple |
-| 1841 | 35 | djwil |
-| 1842 | 35 | Lex Allen |
+| 1836 | 36 | Rise |
+| 1837 | 36 | Kerry Walker |
+| 1838 | 36 | Jesse Martinez |
+| 1839 | 36 | Lively Tilebuilder |
+| 1840 | 35 | djwil |
+| 1841 | 35 | Lex Allen |
+| 1842 | 35 | Junelle Simple |
 | 1843 | 35 | Tipsy toesy |
 | 1844 | 35 | Phoenyx Roze |
 | 1845 | 35 | Rowboat |
@@ -1856,55 +1856,55 @@
 | 1848 | 35 | Stephanie Williams |
 | 1849 | 35 | Saul Fajardo |
 | 1850 | 34 | Yulissa Diaz |
-| 1851 | 34 | Loopy Bricky |
-| 1852 | 34 | Hyper Towerfit |
-| 1853 | 34 | Danielle Clutter |
-| 1854 | 34 | Poppy Matcher |
-| 1855 | 34 | Domo |
+| 1851 | 34 | Karin Gimenez |
+| 1852 | 34 | Loopy Bricky |
+| 1853 | 34 | Hyper Towerfit |
+| 1854 | 34 | Danielle Clutter |
+| 1855 | 34 | Poppy Matcher |
 | 1856 | 34 | Jinx4fun |
-| 1857 | 34 | Karin Gimenez |
+| 1857 | 34 | Domo |
 | 1858 | 34 | Christina Neville |
-| 1859 | 33 | Edward Ramos |
-| 1860 | 33 | Shatika Wallace |
-| 1861 | 33 | p11 |
-| 1862 | 33 | Sorry |
-| 1863 | 33 | Shiny Blockfall |
-| 1864 | 33 | Samantha LeBlanc |
-| 1865 | 33 | Nicole Gilmore |
-| 1866 | 33 | Swanky Zigzag |
-| 1867 | 32 | Erin Randazzo |
-| 1868 | 32 | Harpreet Rojas |
-| 1869 | 32 | Rezinbauer Spicer |
-| 1870 | 32 | happy cupcake |
-| 1871 | 32 | Unknown |
-| 1872 | 32 | Rooney |
-| 1873 | 32 | Anna Nieves |
-| 1874 | 32 | Jessica Huber |
-| 1875 | 32 | Wyatt |
-| 1876 | 32 | Christa McPherson Pennington |
+| 1859 | 33 | Sorry |
+| 1860 | 33 | Judy Dickey |
+| 1861 | 33 | Shatika Wallace |
+| 1862 | 33 | p11 |
+| 1863 | 33 | Edward Ramos |
+| 1864 | 33 | Shiny Blockfall |
+| 1865 | 33 | Samantha LeBlanc |
+| 1866 | 33 | Nicole Gilmore |
+| 1867 | 33 | Swanky Zigzag |
+| 1868 | 32 | Erin Randazzo |
+| 1869 | 32 | Harpreet Rojas |
+| 1870 | 32 | Rezinbauer Spicer |
+| 1871 | 32 | happy cupcake |
+| 1872 | 32 | Unknown |
+| 1873 | 32 | Rooney |
+| 1874 | 32 | Anna Nieves |
+| 1875 | 32 | Jessica Huber |
+| 1876 | 32 | Wyatt |
 | 1877 | 32 | Ruthie Laracuente |
-| 1878 | 32 | Samantha Salcedo |
-| 1879 | 32 | Holly |
-| 1880 | 32 | Lively Fit |
+| 1878 | 32 | Holly |
+| 1879 | 32 | Christa McPherson Pennington |
+| 1880 | 32 | Samantha Salcedo |
 | 1881 | 32 | Cozy Clusterer |
-| 1882 | 31 | Abby White |
-| 1883 | 31 | Michelle Tillery - Edwards |
-| 1884 | 31 | Pinkdragon |
-| 1885 | 31 | Blake Alexander |
-| 1886 | 31 | Tifa Awaken Tarot |
-| 1887 | 31 | DuvaDova Ahava |
-| 1888 | 30 | Janna Bruss |
-| 1889 | 30 | Shirley Tow Middaugh |
-| 1890 | 30 | Spicy Holder |
-| 1891 | 30 | Jesus Fuentes III |
-| 1892 | 30 | Diana Acosta |
-| 1893 | 30 | Loopy Wipeout |
-| 1894 | 30 | Spidaman86 |
-| 1895 | 30 | MamaaCaashh |
-| 1896 | 30 | Lmg |
-| 1897 | 30 | Pam Baumgardner |
-| 1898 | 30 | Mari |
-| 1899 | 30 | Judy Dickey |
+| 1882 | 32 | Lively Fit |
+| 1883 | 31 | Abby White |
+| 1884 | 31 | Michelle Tillery - Edwards |
+| 1885 | 31 | Pinkdragon |
+| 1886 | 31 | Blake Alexander |
+| 1887 | 31 | Tifa Awaken Tarot |
+| 1888 | 31 | DuvaDova Ahava |
+| 1889 | 30 | Janna Bruss |
+| 1890 | 30 | Shirley Tow Middaugh |
+| 1891 | 30 | Spicy Holder |
+| 1892 | 30 | Jesus Fuentes III |
+| 1893 | 30 | Diana Acosta |
+| 1894 | 30 | Loopy Wipeout |
+| 1895 | 30 | Spidaman86 |
+| 1896 | 30 | MamaaCaashh |
+| 1897 | 30 | Lmg |
+| 1898 | 30 | Pam Baumgardner |
+| 1899 | 30 | Mari |
 | 1900 | 30 | Novel End83 |
 | 1901 | 30 | Pambeh033 |
 | 1902 | 30 | Christina Guadalupe |
