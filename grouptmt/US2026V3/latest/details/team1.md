@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 21:08:45 UTC
+# Standings for team1 as of 2026-06-10 21:09:24 UTC
 
 **Total Participants:** 2346
 
@@ -13,7 +13,7 @@
 | 5 | 12803 | Charlie Roehm |
 | 6 | 12450 | Erika Windom |
 | 7 | 12404 | Carrie English |
-| 8 | 11340 | Timothy Robert |
+| 8 | 11390 | Timothy Robert |
 | 9 | 10002 | Charnay Peacock |
 | 10 | 9979 | Dyane Leah Ware |
 | 11 | 9765 | Songne Arif |
@@ -60,7 +60,7 @@
 | 52 | 2412 | D'Andra Stewart |
 | 53 | 2372 | Chris Caniglia |
 | 54 | 2359 | Corey Cawthon |
-| 55 | 2329 | Blockhead |
+| 55 | 2332 | Blockhead |
 | 56 | 2305 | Markeeta Lipscomb |
 | 57 | 2249 | Michael J Gresham |
 | 58 | 2203 | BlackQueen105 |
@@ -131,15 +131,15 @@
 | 123 | 1266 | sha |
 | 124 | 1227 | KenpachisGirl |
 | 125 | 1217 | Dynah Gordon |
-| 126 | 1216 | Tiana Moore |
-| 127 | 1214 | Anthony Washington |
-| 128 | 1211 | Keeta Chickswit Scott |
-| 129 | 1194 | Spunky Edgefit |
-| 130 | 1177 | Taylor Evelyn |
-| 131 | 1173 | Jazzy Dashpiece |
-| 132 | 1159 | ELM |
-| 133 | 1146 | Jaida King |
-| 134 | 1125 | Roberta Lynn |
+| 126 | 1217 | Roberta Lynn |
+| 127 | 1216 | Tiana Moore |
+| 128 | 1214 | Anthony Washington |
+| 129 | 1211 | Keeta Chickswit Scott |
+| 130 | 1194 | Spunky Edgefit |
+| 131 | 1177 | Taylor Evelyn |
+| 132 | 1173 | Jazzy Dashpiece |
+| 133 | 1159 | ELM |
+| 134 | 1146 | Jaida King |
 | 135 | 1121 | Zippy Lifter |
 | 136 | 1121 | Lisa Müller |
 | 137 | 1120 | IamJust Neyamijah Washington Sr. |
@@ -243,19 +243,19 @@
 | 235 | 652 | Slinky Party |
 | 236 | 649 | Shell Lewis |
 | 237 | 647 | Simply-Beautiful007 |
-| 238 | 646 | TeeMaster Barber IsLyfe |
-| 239 | 643 | Sarah Barnum |
-| 240 | 639 | Wild Out Nai |
-| 241 | 632 | OhNoZer0 |
-| 242 | 632 | Deveda Williams |
-| 243 | 630 | SyTheEvilGenius1 |
-| 244 | 629 | Nina Davis |
-| 245 | 625 | Tishauna Virgo |
-| 246 | 624 | Rhonda Williams Warner |
-| 247 | 623 | Nicole Watson-Dixon |
-| 248 | 619 | Sade Goodwine |
-| 249 | 618 | Tamara N Lee |
-| 250 | 617 | izzybella |
+| 238 | 647 | izzybella |
+| 239 | 646 | TeeMaster Barber IsLyfe |
+| 240 | 643 | Sarah Barnum |
+| 241 | 639 | Wild Out Nai |
+| 242 | 632 | OhNoZer0 |
+| 243 | 632 | Deveda Williams |
+| 244 | 630 | SyTheEvilGenius1 |
+| 245 | 629 | Nina Davis |
+| 246 | 625 | Tishauna Virgo |
+| 247 | 624 | Rhonda Williams Warner |
+| 248 | 623 | Nicole Watson-Dixon |
+| 249 | 619 | Sade Goodwine |
+| 250 | 618 | Tamara N Lee |
 | 251 | 616 | Tremaine Hiler |
 | 252 | 615 | pooh |
 | 253 | 613 | Cheery Linkfall |
@@ -295,19 +295,19 @@
 | 287 | 545 | Christopher Dreamsareality McEachin |
 | 288 | 543 | Snippy Breaker |
 | 289 | 540 | Qwlonda Shirrell |
-| 290 | 539 | Rayya Kiser |
-| 291 | 539 | Raymond Keeler |
+| 290 | 539 | Raymond Keeler |
+| 291 | 539 | Rayya Kiser |
 | 292 | 535 | Tina Mitchell |
 | 293 | 533 | Calvin Green |
 | 294 | 533 | Telisha Mims |
-| 295 | 532 | Denisa Amazon Clark |
-| 296 | 532 | Jessica Russell |
-| 297 | 531 | Lashaunda |
-| 298 | 527 | MommaCia |
-| 299 | 527 | Leebo Slice |
-| 300 | 526 | Kenny 'Tailormade' Boyd |
-| 301 | 525 | Andre Sanon |
-| 302 | 524 | Penee Wiggins |
+| 295 | 532 | Penee Wiggins |
+| 296 | 532 | Denisa Amazon Clark |
+| 297 | 532 | Jessica Russell |
+| 298 | 531 | Lashaunda |
+| 299 | 527 | MommaCia |
+| 300 | 527 | Leebo Slice |
+| 301 | 526 | Kenny 'Tailormade' Boyd |
+| 302 | 525 | Andre Sanon |
 | 303 | 521 | Anthony |
 | 304 | 519 | Clever Fitblock |
 | 305 | 514 | Slinky Brickmatch |
@@ -401,42 +401,42 @@
 | 393 | 410 | Salim Thugger |
 | 394 | 409 | kick it |
 | 395 | 409 | KeeKee Williams |
-| 396 | 404 | Bold Clusterer |
-| 397 | 401 | Kelli Couture |
-| 398 | 400 | Denell Sims |
-| 399 | 400 | Sara Meri |
-| 400 | 400 | Jae Thompson-Tyus |
-| 401 | 399 | BabyCakes |
+| 396 | 409 | BabyCakes |
+| 397 | 404 | Bold Clusterer |
+| 398 | 401 | Kelli Couture |
+| 399 | 400 | Jae Thompson-Tyus |
+| 400 | 400 | Denell Sims |
+| 401 | 400 | Sara Meri |
 | 402 | 398 | Matthieu Pistone |
 | 403 | 397 | Shameka Thrasher |
 | 404 | 397 | Tipsy Linkroll |
-| 405 | 396 | Bbyunicorn |
-| 406 | 396 | Amber Wilson |
-| 407 | 396 | Nikki Hogan |
-| 408 | 395 | Shea Ladynick Henderson |
-| 409 | 395 | Maribel Vasquez |
-| 410 | 395 | Derrius SeriousLee Burks |
-| 411 | 395 | Sammie Walker |
-| 412 | 394 | Ashley MyBeauty Daniels |
-| 413 | 394 | Wayne Savannah |
-| 414 | 394 | wuvbuug |
+| 405 | 396 | wuvbuug |
+| 406 | 396 | Bbyunicorn |
+| 407 | 396 | Amber Wilson |
+| 408 | 396 | Nikki Hogan |
+| 409 | 395 | Shea Ladynick Henderson |
+| 410 | 395 | Maribel Vasquez |
+| 411 | 395 | Derrius SeriousLee Burks |
+| 412 | 395 | Sammie Walker |
+| 413 | 394 | Ashley MyBeauty Daniels |
+| 414 | 394 | Wayne Savannah |
 | 415 | 393 | Bubbly Piececlear |
 | 416 | 392 | Faith Armone |
-| 417 | 391 | Lisa Fletcher |
-| 418 | 391 | Glitzy Patternline |
+| 417 | 391 | Glitzy Patternline |
+| 418 | 391 | Lisa Fletcher |
 | 419 | 390 | Jean Regis |
-| 420 | 387 | Ladybug |
+| 420 | 387 | kitten |
 | 421 | 387 | Jennah |
-| 422 | 387 | kitten |
+| 422 | 387 | Ladybug |
 | 423 | 383 | Tajuana Juana'Cee Coleman |
-| 424 | 382 | Chilly Wipebuilder |
-| 425 | 382 | Giggy Tower |
-| 426 | 382 | Ann Chung |
+| 424 | 382 | Ann Chung |
+| 425 | 382 | LaShaun Stinson |
+| 426 | 382 | Giggy Tower |
 | 427 | 382 | Betsy B. Yohan |
-| 428 | 382 | LaShaun Stinson |
-| 429 | 380 | Still Ten Tay |
-| 430 | 380 | MindlessMic |
-| 431 | 380 | Tonya Thomas |
+| 428 | 382 | Chilly Wipebuilder |
+| 429 | 380 | Tonya Thomas |
+| 430 | 380 | Still Ten Tay |
+| 431 | 380 | MindlessMic |
 | 432 | 380 | SherylU |
 | 433 | 380 | Ketrell Bailey |
 | 434 | 380 | Giggy Edgefit |
