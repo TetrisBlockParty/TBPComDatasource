@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 06:04:43 UTC
+# Standings for team4 as of 2026-06-10 06:05:22 UTC
 
 **Total Participants:** 2280
 
@@ -563,88 +563,88 @@
 | 555 | 265 | Mrs |
 | 556 | 265 | Nicole Colby McCloskey |
 | 557 | 264 | Momma Boss |
-| 558 | 263 | Melissa Quinn |
-| 559 | 263 | Blessedmom865 |
+| 558 | 263 | Blessedmom865 |
+| 559 | 263 | Melissa Quinn |
 | 560 | 263 | Manolo Canety |
 | 561 | 263 | Deborah Ayliffe |
 | 562 | 263 | Gean DeJesus |
 | 563 | 261 | Lee Ann Gibby |
 | 564 | 261 | Chris McBlockster |
-| 565 | 260 | Jerett Coplin |
-| 566 | 260 | Silly Risegrid |
-| 567 | 260 | Sarah Montagne Forsberg |
-| 568 | 260 | Carissa Thorne-See |
-| 569 | 260 | chefjaydawg |
+| 565 | 260 | Carissa Thorne-See |
+| 566 | 260 | Jerett Coplin |
+| 567 | 260 | Silly Risegrid |
+| 568 | 260 | chefjaydawg |
+| 569 | 260 | Sarah Montagne Forsberg |
 | 570 | 259 | Inez Nez |
 | 571 | 259 | Will E Ayala |
 | 572 | 259 | Leasa Marie |
 | 573 | 259 | Jessica Peyton |
-| 574 | 258 | Brainbabe |
-| 575 | 258 | my my |
+| 574 | 258 | Danny Frausto |
+| 575 | 258 | Brainbabe |
 | 576 | 258 | JIGsaw ~(•¿°)~ |
-| 577 | 258 | Danny Frausto |
+| 577 | 258 | my my |
 | 578 | 257 | MattJennifer Marie Ericson |
-| 579 | 257 | Happy Puzzle |
-| 580 | 255 | Littlebrat |
+| 579 | 257 | Jeremy Barry |
+| 580 | 257 | Happy Puzzle |
 | 581 | 255 | EpicWizard |
-| 582 | 255 | Steven Patshy |
-| 583 | 254 | Mimi Dominguez |
-| 584 | 254 | Snippy Racker |
-| 585 | 254 | Saucy Brickmatch |
-| 586 | 252 | Ryan Paul Clark-Ramsey |
-| 587 | 251 | Kaps |
+| 582 | 255 | Littlebrat |
+| 583 | 255 | Steven Patshy |
+| 584 | 254 | Mimi Dominguez |
+| 585 | 254 | Snippy Racker |
+| 586 | 254 | Saucy Brickmatch |
+| 587 | 252 | Ryan Paul Clark-Ramsey |
 | 588 | 251 | Lul Babie |
-| 589 | 250 | DrC |
-| 590 | 250 | Alexsandra Hill |
-| 591 | 250 | Kristal |
-| 592 | 250 | Rita Ann |
-| 593 | 250 | Cari Underwood |
-| 594 | 250 | Silly Fallzone |
-| 595 | 249 | Edward White |
+| 589 | 251 | Kaps |
+| 590 | 250 | Rita Ann |
+| 591 | 250 | Cari Underwood |
+| 592 | 250 | Silly Fallzone |
+| 593 | 250 | Alexsandra Hill |
+| 594 | 250 | DrC |
+| 595 | 250 | Kristal |
 | 596 | 249 | Brennan Shea Greene |
-| 597 | 248 | Josh Keith Travierso |
-| 598 | 248 | alxhue04 |
-| 599 | 247 | Corie A. Brinson |
+| 597 | 249 | Edward White |
+| 598 | 248 | Josh Keith Travierso |
+| 599 | 248 | alxhue04 |
 | 600 | 247 | aga |
-| 601 | 247 | Sally Hiraldo |
-| 602 | 247 | Shauna Davis |
-| 603 | 247 | Jeremy Barry |
+| 601 | 247 | Corie A. Brinson |
+| 602 | 247 | Sally Hiraldo |
+| 603 | 247 | Shauna Davis |
 | 604 | 247 | Natalie Dillard |
 | 605 | 246 | Lacie Powers |
 | 606 | 245 | Lovetetris |
 | 607 | 245 | Marcus Fontenot |
 | 608 | 245 | Loretta Hendricks |
-| 609 | 244 | Renita Jordan |
-| 610 | 244 | Lolita Nettles |
-| 611 | 244 | Lisa lisa |
+| 609 | 244 | Lolita Nettles |
+| 610 | 244 | Lisa lisa |
+| 611 | 244 | Renita Jordan |
 | 612 | 243 | Anna Ryan |
 | 613 | 243 | Brandy Lynn |
 | 614 | 241 | Seraphim Mabry |
 | 615 | 241 | Stef |
-| 616 | 240 | Jimmy Clark |
-| 617 | 240 | Keke Johnson |
-| 618 | 240 | Jennifer Evans Elliott |
-| 619 | 240 | Tesa Mike Jenkins |
-| 620 | 240 | Alice Eisnor-Martens |
-| 621 | 240 | Nerdy Brickster |
+| 616 | 240 | Nerdy Brickster |
+| 617 | 240 | Jennifer Evans Elliott |
+| 618 | 240 | Tesa Mike Jenkins |
+| 619 | 240 | Jimmy Clark |
+| 620 | 240 | Keke Johnson |
+| 621 | 240 | Alice Eisnor-Martens |
 | 622 | 239 | Chelle Williams |
-| 623 | 238 | Amanda Snow |
-| 624 | 238 | Tara Delay Hill |
-| 625 | 238 | Shaunna Caldwell |
+| 623 | 238 | Tara Delay Hill |
+| 624 | 238 | Shaunna Caldwell |
+| 625 | 238 | Amanda Snow |
 | 626 | 238 | Lisa Pie |
-| 627 | 237 | Donna Bush |
+| 627 | 237 | Diana Fernandez |
 | 628 | 237 | Erica Pompey |
-| 629 | 237 | Diana Fernandez |
+| 629 | 237 | Donna Bush |
 | 630 | 236 | Bonique Bier |
 | 631 | 236 | Playful Raccoon |
 | 632 | 236 | Trang Nguyen |
 | 633 | 236 | JoJo Hutson |
 | 634 | 234 | Dena Lynn Rogers |
-| 635 | 234 | Paula Renee McCracken |
-| 636 | 234 | Andrea Dre Lomeli |
+| 635 | 234 | Andrea Dre Lomeli |
+| 636 | 234 | Paula Renee McCracken |
 | 637 | 233 | Arvin Ortega |
-| 638 | 232 | All knowing |
-| 639 | 232 | Gigi Ivicsics |
+| 638 | 232 | Gigi Ivicsics |
+| 639 | 232 | All knowing |
 | 640 | 231 | Allysha McFarland |
 | 641 | 231 | Stephanie Brock |
 | 642 | 231 | Memphiago Tenninois |
@@ -1493,55 +1493,55 @@
 | 1485 | 63 | Colin hollenbeck |
 | 1486 | 63 | Amina Walker |
 | 1487 | 63 | Snazzy Balanceblock |
-| 1488 | 62 | Danielle Church |
-| 1489 | 62 | Pretty_Rican |
-| 1490 | 62 | Zippy Snaplink |
-| 1491 | 62 | Angela Ward |
-| 1492 | 62 | Mafer |
-| 1493 | 61 | Crystal M. Torres |
-| 1494 | 61 | Melani Hajny |
-| 1495 | 61 | Wacky Brickmatch |
-| 1496 | 61 | Becky Bernazal |
-| 1497 | 61 | moonman33 |
-| 1498 | 61 | Saucy Buildgrid |
-| 1499 | 61 | Bouncy Brickster |
-| 1500 | 61 | Michellee Lewis |
-| 1501 | 61 | Heidi Lyn Ramirez |
-| 1502 | 61 | Milton Lawrence |
-| 1503 | 60 | Boldy Clicky |
-| 1504 | 60 | Jolly Dashy |
-| 1505 | 60 | Dizzy Builderfit |
-| 1506 | 60 | Kortnie Kate Patino |
-| 1507 | 60 | Saucy Matchfit |
-| 1508 | 60 | Sean Ha |
-| 1509 | 60 | Spunky Tower |
-| 1510 | 60 | Jeffrey Mann |
-| 1511 | 60 | Jennie |
-| 1512 | 60 | Chris Rowe |
-| 1513 | 60 | Kasondra Cooper |
-| 1514 | 60 | Sherri G Davis |
-| 1515 | 60 | Jessica Kelly |
-| 1516 | 60 | Brandi Wacker |
-| 1517 | 60 | Brittany LeGros |
-| 1518 | 60 | Shawny Schlogel |
-| 1519 | 60 | Derkesha Huntley |
-| 1520 | 59 | Chyla Burns |
-| 1521 | 59 | Remii |
-| 1522 | 59 | Geneva Mixon |
-| 1523 | 59 | Denisha Schinell Boyd |
-| 1524 | 59 | Johnny Jeppesen |
-| 1525 | 58 | Yaya Selbor |
-| 1526 | 58 | Epic Curver |
-| 1527 | 58 | FuzzyBunny |
-| 1528 | 58 | Kalisha Monique Wright |
-| 1529 | 58 | courtt |
-| 1530 | 58 | Matt Akm |
-| 1531 | 58 | Peachy Grabber |
-| 1532 | 58 | Gabby |
-| 1533 | 58 | Jessica Sanchez |
-| 1534 | 58 | Net |
-| 1535 | 58 | Rebecca Dix |
-| 1536 | 57 | Jess |
+| 1488 | 63 | Jess |
+| 1489 | 62 | Mafer |
+| 1490 | 62 | Angela Ward |
+| 1491 | 62 | Danielle Church |
+| 1492 | 62 | Pretty_Rican |
+| 1493 | 62 | Zippy Snaplink |
+| 1494 | 61 | Becky Bernazal |
+| 1495 | 61 | moonman33 |
+| 1496 | 61 | Saucy Buildgrid |
+| 1497 | 61 | Bouncy Brickster |
+| 1498 | 61 | Michellee Lewis |
+| 1499 | 61 | Heidi Lyn Ramirez |
+| 1500 | 61 | Milton Lawrence |
+| 1501 | 61 | Melani Hajny |
+| 1502 | 61 | Crystal M. Torres |
+| 1503 | 61 | Wacky Brickmatch |
+| 1504 | 60 | Brittany LeGros |
+| 1505 | 60 | Shawny Schlogel |
+| 1506 | 60 | Derkesha Huntley |
+| 1507 | 60 | Boldy Clicky |
+| 1508 | 60 | Jolly Dashy |
+| 1509 | 60 | Dizzy Builderfit |
+| 1510 | 60 | Kortnie Kate Patino |
+| 1511 | 60 | Saucy Matchfit |
+| 1512 | 60 | Sean Ha |
+| 1513 | 60 | Spunky Tower |
+| 1514 | 60 | Jeffrey Mann |
+| 1515 | 60 | Jennie |
+| 1516 | 60 | Chris Rowe |
+| 1517 | 60 | Kasondra Cooper |
+| 1518 | 60 | Sherri G Davis |
+| 1519 | 60 | Jessica Kelly |
+| 1520 | 60 | Brandi Wacker |
+| 1521 | 59 | Denisha Schinell Boyd |
+| 1522 | 59 | Johnny Jeppesen |
+| 1523 | 59 | Chyla Burns |
+| 1524 | 59 | Remii |
+| 1525 | 59 | Geneva Mixon |
+| 1526 | 58 | Rebecca Dix |
+| 1527 | 58 | Yaya Selbor |
+| 1528 | 58 | Epic Curver |
+| 1529 | 58 | FuzzyBunny |
+| 1530 | 58 | Kalisha Monique Wright |
+| 1531 | 58 | courtt |
+| 1532 | 58 | Matt Akm |
+| 1533 | 58 | Peachy Grabber |
+| 1534 | 58 | Gabby |
+| 1535 | 58 | Jessica Sanchez |
+| 1536 | 58 | Net |
 | 1537 | 57 | PapaB |
 | 1538 | 57 | Quirky Puzzler |
 | 1539 | 57 | Clever Shuffler |
@@ -1570,8 +1570,8 @@
 | 1562 | 56 | Flashy Riser |
 | 1563 | 56 | Steph |
 | 1564 | 55 | Sherell Bowens |
-| 1565 | 55 | Mighty Liney |
-| 1566 | 55 | Brooke Limpf |
+| 1565 | 55 | Brooke Limpf |
+| 1566 | 55 | Mighty Liney |
 | 1567 | 55 | Amy |
 | 1568 | 55 | Dana Smith |
 | 1569 | 55 | Amanda Lynn Robinson |
@@ -1591,9 +1591,9 @@
 | 1583 | 54 | Giggly Roll |
 | 1584 | 54 | Kaylynn Hareland |
 | 1585 | 54 | Tammie Baechler |
-| 1586 | 54 | Julia Gareis |
-| 1587 | 54 | MaximalBoss24 |
-| 1588 | 54 | Dandy Clusterbuilder |
+| 1586 | 54 | Dandy Clusterbuilder |
+| 1587 | 54 | Julia Gareis |
+| 1588 | 54 | MaximalBoss24 |
 | 1589 | 53 | Artful*0* |
 | 1590 | 53 | Mike |
 | 1591 | 53 | Fancy Riserfit |
