@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:34:45 UTC
+# Standings for team4 as of 2026-06-10 08:35:22 UTC
 
 **Total Participants:** 2297
 
@@ -298,34 +298,34 @@
 | 290 | 482 | Tasha Suzanne Prisbrey |
 | 291 | 482 | Perky Riserbuilder |
 | 292 | 481 | Swanky Brickzone |
-| 293 | 480 | Adam Dickinson |
-| 294 | 479 | Slinky Stackzone |
-| 295 | 478 | Danny Keich III |
-| 296 | 477 | Pepper |
-| 297 | 477 | Amandacolle |
-| 298 | 477 | Katy |
-| 299 | 473 | Chirpy Snapclear |
-| 300 | 473 | Merritt Brandt |
-| 301 | 473 | Shanae Taylor |
-| 302 | 472 | Chummy Jumper |
-| 303 | 471 | Melika Zeheb |
-| 304 | 471 | Bridget Stevens |
-| 305 | 470 | Jojo Ann |
-| 306 | 466 | Randy M Hatch |
-| 307 | 465 | Sarah Perry Cook |
-| 308 | 464 | Tiffany Bunker-Hill |
-| 309 | 462 | BusterBear56 |
-| 310 | 462 | Spunky Gridzone |
-| 311 | 461 | Kayla Fuentes |
-| 312 | 460 | Holly Wessel |
-| 313 | 460 | Shmeedo |
-| 314 | 460 | Knijur Callins |
-| 315 | 458 | Solace Grace |
-| 316 | 458 | Aisha Estrada |
-| 317 | 456 | EL Booger |
-| 318 | 455 | Morgan Stevens |
-| 319 | 455 | Tawna Curry |
-| 320 | 455 | Matthew Hudson |
+| 293 | 481 | Matthew Hudson |
+| 294 | 480 | Adam Dickinson |
+| 295 | 479 | Slinky Stackzone |
+| 296 | 478 | Danny Keich III |
+| 297 | 477 | Pepper |
+| 298 | 477 | Amandacolle |
+| 299 | 477 | Katy |
+| 300 | 473 | Chirpy Snapclear |
+| 301 | 473 | Merritt Brandt |
+| 302 | 473 | Shanae Taylor |
+| 303 | 472 | Chummy Jumper |
+| 304 | 471 | Melika Zeheb |
+| 305 | 471 | Bridget Stevens |
+| 306 | 470 | Jojo Ann |
+| 307 | 466 | Randy M Hatch |
+| 308 | 465 | Sarah Perry Cook |
+| 309 | 464 | Tiffany Bunker-Hill |
+| 310 | 462 | BusterBear56 |
+| 311 | 462 | Spunky Gridzone |
+| 312 | 461 | Kayla Fuentes |
+| 313 | 460 | Holly Wessel |
+| 314 | 460 | Shmeedo |
+| 315 | 460 | Knijur Callins |
+| 316 | 458 | Solace Grace |
+| 317 | 458 | Aisha Estrada |
+| 318 | 456 | EL Booger |
+| 319 | 455 | Morgan Stevens |
+| 320 | 455 | Tawna Curry |
 | 321 | 454 | Glitzy Patternbuilder |
 | 322 | 453 | JuicyJuice |
 | 323 | 452 | Karen Miller |
@@ -426,19 +426,19 @@
 | 418 | 352 | Martha Fisher |
 | 419 | 352 | Richard Bearse |
 | 420 | 351 | Tiffany Morris Garner |
-| 421 | 349 | Holly Bramel |
-| 422 | 346 | Jennifer Garcia |
-| 423 | 346 | KrisTina2007 |
-| 424 | 345 | yodaa |
-| 425 | 344 | Josh Keith Travierso |
-| 426 | 344 | bollo |
-| 427 | 344 | Zesty Twistpiece |
-| 428 | 344 | Karen Davis |
-| 429 | 343 | maria |
-| 430 | 343 | Cherrel M. Causey |
-| 431 | 343 | Dizzy Slammer |
-| 432 | 342 | Lively Blockpiece |
-| 433 | 341 | Snow77white |
+| 421 | 350 | Snow77white |
+| 422 | 349 | Holly Bramel |
+| 423 | 346 | Jennifer Garcia |
+| 424 | 346 | KrisTina2007 |
+| 425 | 345 | yodaa |
+| 426 | 344 | Josh Keith Travierso |
+| 427 | 344 | bollo |
+| 428 | 344 | Zesty Twistpiece |
+| 429 | 344 | Karen Davis |
+| 430 | 343 | maria |
+| 431 | 343 | Cherrel M. Causey |
+| 432 | 343 | Dizzy Slammer |
+| 433 | 342 | Lively Blockpiece |
 | 434 | 341 | Cool Risepiece |
 | 435 | 341 | LilyRose |
 | 436 | 340 | jojo |

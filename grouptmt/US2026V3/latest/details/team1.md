@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:34:45 UTC
+# Standings for team1 as of 2026-06-10 08:35:22 UTC
 
 **Total Participants:** 2247
 
@@ -1613,39 +1613,39 @@
 | 1605 | 44 | Mary Kimmons |
 | 1606 | 44 | Christopher George Hazard |
 | 1607 | 44 | Nic Nic |
-| 1608 | 44 | Frisky Pivoty |
-| 1609 | 44 | Wacky1 |
-| 1610 | 43 | Dinky da Don |
-| 1611 | 43 | Speedy Glidezone |
-| 1612 | 43 | Michelle Boutherpaper Francis |
-| 1613 | 43 | Narena Desertsong |
-| 1614 | 43 | Frilly Lifter |
+| 1608 | 44 | GlamourN |
+| 1609 | 44 | Frisky Pivoty |
+| 1610 | 44 | Wacky1 |
+| 1611 | 43 | Dinky da Don |
+| 1612 | 43 | Speedy Glidezone |
+| 1613 | 43 | Michelle Boutherpaper Francis |
+| 1614 | 43 | Narena Desertsong |
 | 1615 | 43 | Nicki JTho |
-| 1616 | 43 | Giggly Gridder |
-| 1617 | 42 | Louise |
-| 1618 | 42 | Steven Bell |
-| 1619 | 42 | Pleasure |
-| 1620 | 42 | Dandy Blockfall |
-| 1621 | 42 | Flash97 |
-| 1622 | 42 | Rikki Moran |
-| 1623 | 42 | Tee $ |
-| 1624 | 42 | BizzyCat |
-| 1625 | 42 | Nadine Coleman |
-| 1626 | 42 | Livelovelaugh Ward |
-| 1627 | 42 | Tiffanie Michelle |
-| 1628 | 42 | Andrea DeRoy |
-| 1629 | 41 | Es Bee |
-| 1630 | 41 | Laceshia Finch |
-| 1631 | 41 | Mary Hughes |
-| 1632 | 41 | Kerry Meister Rummel |
-| 1633 | 41 | Tynetta Scott |
-| 1634 | 41 | Carolyn |
-| 1635 | 40 | GlamourN |
-| 1636 | 40 | Tonya Mills |
-| 1637 | 40 | Carol Washington |
-| 1638 | 40 | Phongoudom Tika |
-| 1639 | 40 | Brandon Dontell Saunders |
-| 1640 | 40 | DimplezAOS |
+| 1616 | 43 | Frilly Lifter |
+| 1617 | 43 | Giggly Gridder |
+| 1618 | 42 | Louise |
+| 1619 | 42 | Steven Bell |
+| 1620 | 42 | Pleasure |
+| 1621 | 42 | Dandy Blockfall |
+| 1622 | 42 | Flash97 |
+| 1623 | 42 | Rikki Moran |
+| 1624 | 42 | Tee $ |
+| 1625 | 42 | BizzyCat |
+| 1626 | 42 | Nadine Coleman |
+| 1627 | 42 | Livelovelaugh Ward |
+| 1628 | 42 | Tiffanie Michelle |
+| 1629 | 42 | Andrea DeRoy |
+| 1630 | 41 | Es Bee |
+| 1631 | 41 | Laceshia Finch |
+| 1632 | 41 | Mary Hughes |
+| 1633 | 41 | Kerry Meister Rummel |
+| 1634 | 41 | Tynetta Scott |
+| 1635 | 41 | Carolyn |
+| 1636 | 40 | DimplezAOS |
+| 1637 | 40 | Tonya Mills |
+| 1638 | 40 | Carol Washington |
+| 1639 | 40 | Phongoudom Tika |
+| 1640 | 40 | Brandon Dontell Saunders |
 | 1641 | 40 | James Dunlap |
 | 1642 | 40 | Fancy Zoner |
 | 1643 | 40 | NiingDing |
