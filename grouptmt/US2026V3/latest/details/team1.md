@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:51:23 UTC
+# Standings for team1 as of 2026-06-10 15:52:46 UTC
 
 **Total Participants:** 2291
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 36500 | Ariel |
+| 1 | 37500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
 | 3 | 18431 | Death by SnuSnu |
 | 4 | 12803 | Charlie Roehm |
@@ -23,7 +23,7 @@
 | 15 | 7906 | Cassidy Butler |
 | 16 | 7852 | Cozy Edge |
 | 17 | 7001 | Ebo Got-Time |
-| 18 | 6739 | Cool Bridger |
+| 18 | 6789 | Cool Bridger |
 | 19 | 6121 | Chandler Spencer |
 | 20 | 6078 | Pdubbl3 |
 | 21 | 5857 | Jocelyn Pope-Sewell |
@@ -53,21 +53,21 @@
 | 45 | 2640 | Jamie Willis |
 | 46 | 2619 | Zappy Brickline |
 | 47 | 2584 | Tootsie Pop |
-| 48 | 2495 | Epic Snapfall |
+| 48 | 2496 | Epic Snapfall |
 | 49 | 2456 | Mimi 1.0 |
 | 50 | 2412 | D'Andra Stewart |
 | 51 | 2372 | Chris Caniglia |
 | 52 | 2370 | Therealdywoune Peay |
 | 53 | 2359 | Corey Cawthon |
 | 54 | 2305 | Markeeta Lipscomb |
-| 55 | 2203 | BlackQueen105 |
-| 56 | 2195 | Cee Emm |
+| 55 | 2233 | Cee Emm |
+| 56 | 2203 | BlackQueen105 |
 | 57 | 2174 | Robyn Caldwell |
 | 58 | 2151 | Cherry Rose |
 | 59 | 2145 | Brian Bohanon II |
 | 60 | 2138 | Linzie Marie |
 | 61 | 2106 | Shellzb Roberts |
-| 62 | 2079 | Blockhead |
+| 62 | 2089 | Blockhead |
 | 63 | 2076 | April Inboden |
 | 64 | 2062 | Moomoo |
 | 65 | 2026 | Todd C. Clemens |
@@ -475,8 +475,8 @@
 | 467 | 347 | LiyaSkye |
 | 468 | 345 | Jolly Tilefall |
 | 469 | 343 | Heather Wilson |
-| 470 | 342 | Ashley Monet Terrell |
-| 471 | 342 | EvaLynn NeCole |
+| 470 | 343 | EvaLynn NeCole |
+| 471 | 342 | Ashley Monet Terrell |
 | 472 | 342 | Marsha Earl |
 | 473 | 342 | Crystal Cheresnowsky |
 | 474 | 341 | The DUBZ |
@@ -1352,13 +1352,13 @@
 | 1344 | 79 | Jiff |
 | 1345 | 79 | Ray Baker |
 | 1346 | 79 | Carolyn Delphie |
-| 1347 | 78 | sasha |
-| 1348 | 78 | Breeze |
-| 1349 | 78 | SnazzySnippet |
-| 1350 | 78 | Michelle Fowler |
-| 1351 | 78 | Snappy Fall |
-| 1352 | 78 | Lush Crasher |
-| 1353 | 78 | Centara Goette |
+| 1347 | 79 | Centara Goette |
+| 1348 | 78 | sasha |
+| 1349 | 78 | Breeze |
+| 1350 | 78 | SnazzySnippet |
+| 1351 | 78 | Michelle Fowler |
+| 1352 | 78 | Snappy Fall |
+| 1353 | 78 | Lush Crasher |
 | 1354 | 78 | Jose González |
 | 1355 | 78 | Angela C. |
 | 1356 | 77 | Alturas Supremenineteen Banks |
@@ -1985,34 +1985,34 @@
 | 1977 | 20 | Shannon |
 | 1978 | 19 | Toya Draine |
 | 1979 | 19 | sceloh |
-| 1980 | 19 | Joanne Davis Cunningham |
-| 1981 | 19 | Saucy Basepiece |
-| 1982 | 19 | Quirky Builderline |
-| 1983 | 19 | Trauma Loc |
-| 1984 | 19 | kate |
-| 1985 | 19 | Young Jason |
-| 1986 | 19 | Chipper Snapzone |
-| 1987 | 19 | Mrs . Candy |
-| 1988 | 19 | Marcus Roberts |
-| 1989 | 18 | Anissa Williams |
-| 1990 | 18 | Saucy Linkgrid |
-| 1991 | 18 | Keke |
-| 1992 | 18 | DaRealist1 |
-| 1993 | 18 | Raynell Mcfrazier |
+| 1980 | 19 | Mrs . Candy |
+| 1981 | 19 | Marcus Roberts |
+| 1982 | 19 | QueenBishhh |
+| 1983 | 19 | Chipper Snapzone |
+| 1984 | 19 | Young Jason |
+| 1985 | 19 | kate |
+| 1986 | 19 | Trauma Loc |
+| 1987 | 19 | Quirky Builderline |
+| 1988 | 19 | Saucy Basepiece |
+| 1989 | 19 | Joanne Davis Cunningham |
+| 1990 | 18 | Jonathan White |
+| 1991 | 18 | Yeshanna Nicholson |
+| 1992 | 18 | Poppy Pivot |
+| 1993 | 18 | Una |
 | 1994 | 18 | Dominick Towns |
-| 1995 | 18 | Una |
-| 1996 | 18 | Poppy Pivot |
-| 1997 | 18 | Yeshanna Nicholson |
-| 1998 | 18 | Jonathan White |
-| 1999 | 18 | random |
-| 2000 | 18 | Bouncy Base |
-| 2001 | 18 | Naudia Hampton |
-| 2002 | 18 | JenNay |
-| 2003 | 18 | Betty Joe Lemberg |
-| 2004 | 18 | Andrea Jones |
-| 2005 | 18 | MURLWORLD |
-| 2006 | 18 | Marie SheReady Harris |
-| 2007 | 18 | QueenBishhh |
+| 1995 | 18 | Saucy Linkgrid |
+| 1996 | 18 | Raynell Mcfrazier |
+| 1997 | 18 | DaRealist1 |
+| 1998 | 18 | Keke |
+| 1999 | 18 | Anissa Williams |
+| 2000 | 18 | random |
+| 2001 | 18 | Bouncy Base |
+| 2002 | 18 | Naudia Hampton |
+| 2003 | 18 | JenNay |
+| 2004 | 18 | Betty Joe Lemberg |
+| 2005 | 18 | Andrea Jones |
+| 2006 | 18 | MURLWORLD |
+| 2007 | 18 | Marie SheReady Harris |
 | 2008 | 18 | Daring Twistfit |
 | 2009 | 18 | Aliceia Gee |
 | 2010 | 18 | Cory Richboy BoutthemRackz |
