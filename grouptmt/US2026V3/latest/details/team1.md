@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:34:45 UTC
+# Standings for team1 as of 2026-06-10 13:35:22 UTC
 
 **Total Participants:** 2269
 
@@ -228,9 +228,9 @@
 | 220 | 668 | Bambi Love |
 | 221 | 665 | Po Marley |
 | 222 | 664 | Elizabeth Vega Coreano |
-| 223 | 661 | Jenna Renee |
-| 224 | 659 | Choc |
-| 225 | 658 | TT |
+| 223 | 664 | TT |
+| 224 | 661 | Jenna Renee |
+| 225 | 659 | Choc |
 | 226 | 657 | Crystal Anderson |
 | 227 | 653 | LaToya Chambers |
 | 228 | 647 | Slinky Party |
@@ -951,14 +951,14 @@
 | 943 | 158 | TotoCherue |
 | 944 | 157 | Sheesh |
 | 945 | 156 | Daphne Ceasar |
-| 946 | 156 | Esha I'msoproudofmyself Davis |
-| 947 | 156 | Karen Denen |
-| 948 | 155 | Audrey Gestring |
-| 949 | 155 | Melissa Ramsey |
-| 950 | 155 | Yoellah Benyahmeen |
-| 951 | 155 | Kyle Franklin |
-| 952 | 155 | Williams Candace |
-| 953 | 154 | Brandi M. Boney |
+| 946 | 156 | Brandi M. Boney |
+| 947 | 156 | Esha I'msoproudofmyself Davis |
+| 948 | 156 | Karen Denen |
+| 949 | 155 | Audrey Gestring |
+| 950 | 155 | Melissa Ramsey |
+| 951 | 155 | Yoellah Benyahmeen |
+| 952 | 155 | Kyle Franklin |
+| 953 | 155 | Williams Candace |
 | 954 | 154 | Kanesha Jackson |
 | 955 | 153 | Hasty Pivoty |
 | 956 | 153 | Hoppy Rumbler |
