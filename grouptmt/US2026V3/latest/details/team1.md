@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:34:47 UTC
+# Standings for team1 as of 2026-06-10 10:35:23 UTC
 
 **Total Participants:** 2256
 
@@ -18,7 +18,7 @@
 | 10 | 9723 | Speedy Spinblock |
 | 11 | 9705 | Songne Arif |
 | 12 | 9703 | Dyane Leah Ware |
-| 13 | 9360 | Debbie Carswell |
+| 13 | 9367 | Debbie Carswell |
 | 14 | 8423 | Tracy Cohen |
 | 15 | 7886 | Cassidy Butler |
 | 16 | 7730 | Cozy Edge |
@@ -458,12 +458,12 @@
 | 450 | 338 | Twisty Brickfit |
 | 451 | 337 | Tonia Ramos |
 | 452 | 337 | Donnie Withthebody |
-| 453 | 334 | Emily Wright |
-| 454 | 334 | TBABYJ |
+| 453 | 334 | TBABYJ |
+| 454 | 334 | Emily Wright |
 | 455 | 333 | Heather Wilson |
-| 456 | 332 | De'Nell Edwards |
-| 457 | 332 | SweetByNBy |
-| 458 | 332 | Betsy B. Yohan |
+| 456 | 332 | Betsy B. Yohan |
+| 457 | 332 | De'Nell Edwards |
+| 458 | 332 | SweetByNBy |
 | 459 | 331 | Holly Baker |
 | 460 | 330 | Tracey Johnson |
 | 461 | 329 | Shelly Everette |
@@ -476,77 +476,77 @@
 | 468 | 322 | Juan Alvarez |
 | 469 | 322 | Gbnola |
 | 470 | 321 | Montego Allen |
-| 471 | 320 | Shanns |
-| 472 | 320 | Malcolm Stanley |
-| 473 | 319 | MACHETEEDDIE513 |
-| 474 | 319 | Nora Mahmoud |
+| 471 | 320 | Malcolm Stanley |
+| 472 | 320 | Shanns |
+| 473 | 319 | Nora Mahmoud |
+| 474 | 319 | MACHETEEDDIE513 |
 | 475 | 318 | Nerdy Snapfall |
 | 476 | 318 | Clint Mcdowell |
 | 477 | 315 | Alivia Dove |
 | 478 | 314 | Tay |
 | 479 | 314 | Kristine Marie Palmer |
 | 480 | 313 | Dizzy Dashy |
-| 481 | 313 | Breezy Catcher |
-| 482 | 313 | Bubbly Slammer |
+| 481 | 313 | Bubbly Slammer |
+| 482 | 313 | Breezy Catcher |
 | 483 | 312 | Slinky Snapbuilder |
 | 484 | 312 | Sharee Robinson |
 | 485 | 311 | FunTime |
 | 486 | 311 | Sarah Steckbauer |
-| 487 | 310 | Christi Walker Patton |
-| 488 | 310 | EvaLynn NeCole |
-| 489 | 310 | Latore Maxie |
-| 490 | 310 | Yadira Salgado |
-| 491 | 308 | Tonya Lee Sanders |
-| 492 | 308 | Darrel K Pemberton |
-| 493 | 308 | Bold Clusterer |
+| 487 | 310 | Yadira Salgado |
+| 488 | 310 | Christi Walker Patton |
+| 489 | 310 | EvaLynn NeCole |
+| 490 | 310 | Latore Maxie |
+| 491 | 308 | Bold Clusterer |
+| 492 | 308 | Tonya Lee Sanders |
+| 493 | 308 | Darrel K Pemberton |
 | 494 | 307 | Crystal Cheresnowsky |
 | 495 | 307 | Shakmar |
 | 496 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 497 | 306 | Rebecca Jackson |
-| 498 | 306 | Mafio SO |
-| 499 | 302 | Abigail Newman Sweet |
-| 500 | 301 | Earl Williams |
-| 501 | 300 | Teddy Davis |
-| 502 | 300 | Phillip White |
+| 498 | 306 | Trusi Rusi |
+| 499 | 306 | Mafio SO |
+| 500 | 302 | Abigail Newman Sweet |
+| 501 | 301 | Earl Williams |
+| 502 | 300 | Teddy Davis |
 | 503 | 300 | SherylU |
-| 504 | 299 | Charlene Baltimore |
-| 505 | 299 | Saucy Faller |
+| 504 | 300 | Phillip White |
+| 505 | 299 | Charlene Baltimore |
 | 506 | 299 | Frilly Shatterline |
-| 507 | 298 | Rachael R Gull |
-| 508 | 297 | Bambam |
-| 509 | 296 | James Bryant II |
-| 510 | 295 | Derrius SeriousLee Burks |
-| 511 | 294 | Brittanie Wardlow |
-| 512 | 294 | Abby |
-| 513 | 294 | Lounique |
-| 514 | 293 | Nona Harriel |
+| 507 | 299 | Saucy Faller |
+| 508 | 298 | Rachael R Gull |
+| 509 | 297 | Bambam |
+| 510 | 296 | James Bryant II |
+| 511 | 295 | Derrius SeriousLee Burks |
+| 512 | 294 | Lounique |
+| 513 | 294 | Abby |
+| 514 | 294 | Brittanie Wardlow |
 | 515 | 293 | crumb bumc |
-| 516 | 292 | MonaSparks |
-| 517 | 291 | Hardtohandle91 |
-| 518 | 291 | Brian Taylor |
-| 519 | 291 | LuckyStar |
-| 520 | 291 | Jack Vlasak |
-| 521 | 291 | 신재호 |
-| 522 | 291 | Stephen Glaze |
-| 523 | 290 | Melissa Olvera |
-| 524 | 290 | Tiffany Jean Hinson |
-| 525 | 290 | Boldy Liner |
-| 526 | 290 | SnazzyIvy |
-| 527 | 289 | Yashica Smith |
-| 528 | 289 | Chandler Magee |
-| 529 | 288 | Lozuna |
-| 530 | 288 | Vernon Hoyt |
-| 531 | 287 | Trusi Rusi |
-| 532 | 287 | Daniel Santana |
+| 516 | 293 | Nona Harriel |
+| 517 | 292 | MonaSparks |
+| 518 | 291 | Hardtohandle91 |
+| 519 | 291 | Brian Taylor |
+| 520 | 291 | LuckyStar |
+| 521 | 291 | Jack Vlasak |
+| 522 | 291 | 신재호 |
+| 523 | 291 | Stephen Glaze |
+| 524 | 290 | Melissa Olvera |
+| 525 | 290 | SnazzyIvy |
+| 526 | 290 | Boldy Liner |
+| 527 | 290 | Tiffany Jean Hinson |
+| 528 | 289 | Yashica Smith |
+| 529 | 289 | Chandler Magee |
+| 530 | 288 | Lozuna |
+| 531 | 288 | Vernon Hoyt |
+| 532 | 287 | LiyaSkye |
 | 533 | 287 | Bambi Johnson |
-| 534 | 287 | LiyaSkye |
-| 535 | 286 | Mighty Dropper |
+| 534 | 287 | Daniel Santana |
+| 535 | 286 | Soubletzy |
 | 536 | 286 | Zappy Clearfit |
 | 537 | 286 | Boldy Matchbuilder |
-| 538 | 286 | Soubletzy |
-| 539 | 283 | Phillip Vasquez |
-| 540 | 283 | Kristie |
-| 541 | 283 | lizlizliz |
+| 538 | 286 | Mighty Dropper |
+| 539 | 283 | Kristie |
+| 540 | 283 | lizlizliz |
+| 541 | 283 | Phillip Vasquez |
 | 542 | 282 | Marlainia Boyd |
 | 543 | 282 | Perky Pusher |
 | 544 | 281 | Terri Smart |
@@ -556,12 +556,12 @@
 | 548 | 278 | AnnaM |
 | 549 | 278 | Mister Reid |
 | 550 | 277 | Jenni Hardman |
-| 551 | 276 | Aaron Hartmann |
-| 552 | 276 | Giddy Staggerpiece |
+| 551 | 276 | Giddy Staggerpiece |
+| 552 | 276 | Aaron Hartmann |
 | 553 | 276 | Peppy Glider |
-| 554 | 275 | Falisa Bell |
+| 554 | 275 | Pj Rojas |
 | 555 | 275 | Chris Sladoje |
-| 556 | 275 | Pj Rojas |
+| 556 | 275 | Falisa Bell |
 | 557 | 274 | Zany Breaker |
 | 558 | 274 | brite |
 | 559 | 273 | Vera Beckford |
