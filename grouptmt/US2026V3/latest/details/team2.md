@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 06:34:42 UTC
+# Standings for team2 as of 2026-06-10 06:35:24 UTC
 
 **Total Participants:** 2699
 
@@ -532,12 +532,12 @@
 | 524 | 348 | Kimmi Blake |
 | 525 | 348 | Ava Speedy |
 | 526 | 348 | Sassy Swiper |
-| 527 | 347 | Mouh Ity |
-| 528 | 346 | Justin Stark |
-| 529 | 346 | TetrisMama |
-| 530 | 346 | Carolyn McNaughton |
-| 531 | 345 | DNice |
-| 532 | 344 | Robin Lamb |
+| 527 | 347 | Robin Lamb |
+| 528 | 347 | Mouh Ity |
+| 529 | 346 | Justin Stark |
+| 530 | 346 | TetrisMama |
+| 531 | 346 | Carolyn McNaughton |
+| 532 | 345 | DNice |
 | 533 | 343 | Margie Ann Naffziger |
 | 534 | 342 | Wendy Spoor Hof |
 | 535 | 342 | Po Yee |

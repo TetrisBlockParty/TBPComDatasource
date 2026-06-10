@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:34:42 UTC
+# Standings for team1 as of 2026-06-10 06:35:24 UTC
 
 **Total Participants:** 2236
 
@@ -846,23 +846,23 @@
 | 838 | 173 | DirtiestofMikes |
 | 839 | 173 | Meepycat |
 | 840 | 172 | Li-Li Ratliff |
-| 841 | 171 | Ta'Kaiyah M. Spann |
-| 842 | 171 | Locke Mahal LD |
-| 843 | 171 | Pinky Pink |
-| 844 | 170 | Mikemike Zonethree |
-| 845 | 170 | Ashley Davis |
-| 846 | 170 | Devron Reedy |
-| 847 | 170 | Aaron Sohnrey |
+| 841 | 171 | Pinky Pink |
+| 842 | 171 | Ta'Kaiyah M. Spann |
+| 843 | 171 | Locke Mahal LD |
+| 844 | 170 | Ashley Davis |
+| 845 | 170 | Aaron Sohnrey |
+| 846 | 170 | Mikemike Zonethree |
+| 847 | 170 | Devron Reedy |
 | 848 | 169 | rb |
 | 849 | 169 | Sunny Clicky |
-| 850 | 168 | Meeee |
-| 851 | 168 | DoMinique Lee |
+| 850 | 168 | DoMinique Lee |
+| 851 | 168 | Seirra Robinson |
 | 852 | 168 | Mrs.Ann |
-| 853 | 168 | Seirra Robinson |
-| 854 | 167 | Felicia Woods |
-| 855 | 166 | Amaadi Ward |
-| 856 | 166 | Sallie Sanborn |
-| 857 | 166 | Tyler |
+| 853 | 168 | Meeee |
+| 854 | 168 | Tyler |
+| 855 | 167 | Felicia Woods |
+| 856 | 166 | Amaadi Ward |
+| 857 | 166 | Sallie Sanborn |
 | 858 | 166 | Desi Guerra |
 | 859 | 166 | Motown Chuck |
 | 860 | 166 | Rochelle Nash-Evans |
