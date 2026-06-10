@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 15:58:43 UTC
+# Standings for team2 as of 2026-06-10 15:59:22 UTC
 
 **Total Participants:** 2771
 
@@ -23,7 +23,7 @@
 | 15 | 9547 | A.j. Langley |
 | 16 | 8987 | Christina Shell |
 | 17 | 8781 | Bobbi |
-| 18 | 8672 | Mellzey |
+| 18 | 8772 | Mellzey |
 | 19 | 8427 | Elizabeth Mooney |
 | 20 | 8335 | Bea Bee |
 | 21 | 8086 | Tom Badgley |
@@ -45,9 +45,9 @@
 | 37 | 6000 | Jennifer Knott |
 | 38 | 5944 | Debra Henry |
 | 39 | 5603 | Cassie Swart |
-| 40 | 5437 | Aubree Richard |
-| 41 | 5411 | Matt Hardin |
-| 42 | 5410 | Logan Basham |
+| 40 | 5490 | Logan Basham |
+| 41 | 5437 | Aubree Richard |
+| 42 | 5411 | Matt Hardin |
 | 43 | 5409 | Angel Welch |
 | 44 | 5223 | Spunky Clicker |
 | 45 | 5036 | DarkHorse |
@@ -1294,16 +1294,16 @@
 | 1286 | 137 | Harley Watkins |
 | 1287 | 137 | Melinda Rausch |
 | 1288 | 137 | Cammy Riley |
-| 1289 | 136 | Ahada Seber |
-| 1290 | 136 | Tam |
-| 1291 | 136 | Alexis Meyers |
-| 1292 | 136 | Lauren Maxwell |
-| 1293 | 135 | Tommi Lynn Lawson |
-| 1294 | 135 | Ava Taber |
-| 1295 | 135 | Becka Jones |
-| 1296 | 135 | gurlieheart |
-| 1297 | 135 | Mike |
-| 1298 | 134 | Jollygirl |
+| 1289 | 137 | Jollygirl |
+| 1290 | 136 | Ahada Seber |
+| 1291 | 136 | Tam |
+| 1292 | 136 | Alexis Meyers |
+| 1293 | 136 | Lauren Maxwell |
+| 1294 | 135 | Tommi Lynn Lawson |
+| 1295 | 135 | Ava Taber |
+| 1296 | 135 | Becka Jones |
+| 1297 | 135 | gurlieheart |
+| 1298 | 135 | Mike |
 | 1299 | 134 | Bold Bridgepiece |
 | 1300 | 134 | Thomas Chris |
 | 1301 | 134 | Zippy Balancer |
