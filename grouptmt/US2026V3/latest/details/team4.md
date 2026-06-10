@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 14:12:44 UTC
+# Standings for team4 as of 2026-06-10 14:13:21 UTC
 
 **Total Participants:** 2329
 
@@ -42,7 +42,7 @@
 | 34 | 4418 | Victoria Ver |
 | 35 | 4323 | Leah Barnett |
 | 36 | 4319 | Tonya Brooks-Johnson |
-| 37 | 4228 | Leigh Pierce |
+| 37 | 4268 | Leigh Pierce |
 | 38 | 4179 | Witty Clicky |
 | 39 | 4150 | TitiLo72 |
 | 40 | 4137 | Blind Bette |
@@ -381,25 +381,25 @@
 | 373 | 410 | Justin Michael |
 | 374 | 409 | Cheeky Fallzone |
 | 375 | 409 | beTrue76 |
-| 376 | 408 | Gary Smallwood |
-| 377 | 408 | Maurice DeJean |
+| 376 | 408 | Maurice DeJean |
+| 377 | 408 | Gary Smallwood |
 | 378 | 406 | Ash Gribble |
-| 379 | 402 | Ross Bryant |
-| 380 | 402 | Shawna Downey |
-| 381 | 401 | Jay Dee |
-| 382 | 401 | MomyLiz |
-| 383 | 400 | Queen B |
-| 384 | 400 | jojo |
-| 385 | 395 | PerfectPieces |
-| 386 | 394 | Quirky Fitblock |
-| 387 | 394 | Honey |
-| 388 | 392 | Homie |
-| 389 | 392 | Richard Bearse |
-| 390 | 391 | John Cotugno |
-| 391 | 390 | No Time |
-| 392 | 390 | Lanelva Tiredofbs Marshall |
-| 393 | 388 | Melissa Lowe |
-| 394 | 387 | Tricia Motika Cowan |
+| 379 | 403 | Tricia Motika Cowan |
+| 380 | 402 | Ross Bryant |
+| 381 | 402 | Shawna Downey |
+| 382 | 401 | Jay Dee |
+| 383 | 401 | MomyLiz |
+| 384 | 400 | Queen B |
+| 385 | 400 | jojo |
+| 386 | 395 | PerfectPieces |
+| 387 | 394 | Quirky Fitblock |
+| 388 | 394 | Honey |
+| 389 | 392 | Homie |
+| 390 | 392 | Richard Bearse |
+| 391 | 391 | John Cotugno |
+| 392 | 390 | No Time |
+| 393 | 390 | Lanelva Tiredofbs Marshall |
+| 394 | 388 | Melissa Lowe |
 | 395 | 387 | luluraine |
 | 396 | 386 | Codey Haffner |
 | 397 | 385 | Giggly Tilt |
@@ -476,9 +476,9 @@
 | 468 | 328 | Luna |
 | 469 | 327 | Jen Roe |
 | 470 | 325 | Chonda OhanaMomma Michelle |
-| 471 | 324 | Nikki |
-| 472 | 324 | Jen Smith |
-| 473 | 323 | Lively Cascadebuilder |
+| 471 | 325 | Lively Cascadebuilder |
+| 472 | 324 | Nikki |
+| 473 | 324 | Jen Smith |
 | 474 | 323 | Lupe Chapa |
 | 475 | 322 | Missionary Meda |
 | 476 | 321 | Ashley Eskridge |
