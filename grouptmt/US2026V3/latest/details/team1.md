@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:22:45 UTC
+# Standings for team1 as of 2026-06-10 12:23:22 UTC
 
 **Total Participants:** 2265
 
@@ -52,7 +52,7 @@
 | 44 | 2619 | Zappy Brickline |
 | 45 | 2584 | Tootsie Pop |
 | 46 | 2540 | Jamie Willis |
-| 47 | 2476 | Epic Snapfall |
+| 47 | 2479 | Epic Snapfall |
 | 48 | 2448 | Mimi 1.0 |
 | 49 | 2370 | Therealdywoune Peay |
 | 50 | 2350 | Chris Caniglia |
@@ -174,14 +174,14 @@
 | 166 | 841 | W.A. Simpson |
 | 167 | 833 | Rackemwillie34 |
 | 168 | 829 | Karebear |
-| 169 | 827 | Ty Øtg |
-| 170 | 825 | Keke Ferguson |
-| 171 | 823 | Shontanese Adams |
-| 172 | 822 | LaSharmeika Fancher |
-| 173 | 821 | Chuck Quarles |
-| 174 | 819 | xXEKUNXx |
-| 175 | 814 | Andi McGreevy |
-| 176 | 808 | Taylor Evelyn |
+| 169 | 828 | Taylor Evelyn |
+| 170 | 827 | Ty Øtg |
+| 171 | 825 | Keke Ferguson |
+| 172 | 823 | Shontanese Adams |
+| 173 | 822 | LaSharmeika Fancher |
+| 174 | 821 | Chuck Quarles |
+| 175 | 819 | xXEKUNXx |
+| 176 | 814 | Andi McGreevy |
 | 177 | 803 | Big Tina |
 | 178 | 802 | Gael Quintana |
 | 179 | 800 | Tipsy Tetriblast |
@@ -601,33 +601,33 @@
 | 593 | 263 | Kim Holzmiller |
 | 594 | 261 | PSD |
 | 595 | 261 | Lucy |
-| 596 | 260 | Jen Hallin |
-| 597 | 260 | Nisha Sunshine Jenkins |
-| 598 | 260 | Ashley Danielle |
-| 599 | 260 | Lester Malone |
-| 600 | 260 | Spotlight |
+| 596 | 260 | Nisha Sunshine Jenkins |
+| 597 | 260 | Ashley Danielle |
+| 598 | 260 | Jen Hallin |
+| 599 | 260 | Spotlight |
+| 600 | 260 | Lester Malone |
 | 601 | 259 | Blocksy |
 | 602 | 258 | Jjhandsome |
 | 603 | 258 | Kala Miller |
 | 604 | 257 | Darrel Pemberton |
-| 605 | 256 | John Spath |
-| 606 | 256 | Monica Fields |
-| 607 | 256 | Dreamzzz |
+| 605 | 256 | Dreamzzz |
+| 606 | 256 | John Spath |
+| 607 | 256 | Monica Fields |
 | 608 | 255 | Mathew Trudell |
 | 609 | 255 | Michelle Peters |
 | 610 | 254 | Brittany Sara Heldwein |
-| 611 | 254 | Cheryl Miller |
-| 612 | 254 | Ashlie Mo |
+| 611 | 254 | Zappy Snapgrid |
+| 612 | 254 | Dorian Griffin |
 | 613 | 254 | BB |
-| 614 | 254 | Dorian Griffin |
-| 615 | 253 | Katrina Ramey |
+| 614 | 254 | Ashlie Mo |
+| 615 | 254 | Cheryl Miller |
 | 616 | 253 | Nyhlah Patterson |
-| 617 | 252 | Shakuria Cortia Burney |
-| 618 | 252 | Mary Phillippi Blanton |
-| 619 | 252 | Lazy Tiltpiece |
-| 620 | 251 | meatballs |
-| 621 | 251 | Taz Ballard |
-| 622 | 251 | Zappy Snapgrid |
+| 617 | 253 | Katrina Ramey |
+| 618 | 252 | Shakuria Cortia Burney |
+| 619 | 252 | Mary Phillippi Blanton |
+| 620 | 252 | Lazy Tiltpiece |
+| 621 | 251 | meatballs |
+| 622 | 251 | Taz Ballard |
 | 623 | 250 | Tony Pizzas |
 | 624 | 250 | Rufus |
 | 625 | 249 | Jose Rodriguez |
@@ -736,16 +736,16 @@
 | 728 | 215 | Angie Smith |
 | 729 | 215 | Nikiya |
 | 730 | 215 | GetDaOPPS |
-| 731 | 215 | Ebby |
-| 732 | 215 | Gerold Folk Haddock |
-| 733 | 214 | Nickeya Phillips |
-| 734 | 213 | Oaklonboy mike |
-| 735 | 213 | Lawanda Conley |
-| 736 | 213 | Shannon Carriger |
-| 737 | 212 | Ivery Lee Grays Jr. |
-| 738 | 212 | Simply-Beautiful007 |
-| 739 | 212 | Stanley Dixon |
-| 740 | 212 | Jovy |
+| 731 | 215 | Jovy |
+| 732 | 215 | Ebby |
+| 733 | 215 | Gerold Folk Haddock |
+| 734 | 214 | Nickeya Phillips |
+| 735 | 213 | Oaklonboy mike |
+| 736 | 213 | Lawanda Conley |
+| 737 | 213 | Shannon Carriger |
+| 738 | 212 | Ivery Lee Grays Jr. |
+| 739 | 212 | Simply-Beautiful007 |
+| 740 | 212 | Stanley Dixon |
 | 741 | 211 | Deanna Close |
 | 742 | 211 | Jas |
 | 743 | 210 | Barbramerri Tarboro |
