@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 16:10:44 UTC
+# Standings for team4 as of 2026-06-10 16:11:22 UTC
 
 **Total Participants:** 2341
 
@@ -23,7 +23,7 @@
 | 15 | 7752 | Bryony Nicholson |
 | 16 | 7737 | Jerald Jones |
 | 17 | 7165 | delilahbelle |
-| 18 | 6979 | Chris Hills |
+| 18 | 7047 | Chris Hills |
 | 19 | 6954 | Senor Moppy |
 | 20 | 6718 | Bubbly Twistpiece |
 | 21 | 6449 | Nia Mayfield |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 16:10:44 UTC
+# Standings for team1 as of 2026-06-10 16:11:22 UTC
 
 **Total Participants:** 2291
 
@@ -51,9 +51,9 @@
 | 43 | 2691 | Hyper Slamdrop |
 | 44 | 2675 | JoJo |
 | 45 | 2640 | Jamie Willis |
-| 46 | 2619 | Zappy Brickline |
-| 47 | 2584 | Tootsie Pop |
-| 48 | 2570 | Therealdywoune Peay |
+| 46 | 2630 | Therealdywoune Peay |
+| 47 | 2619 | Zappy Brickline |
+| 48 | 2584 | Tootsie Pop |
 | 49 | 2509 | Epic Snapfall |
 | 50 | 2456 | Mimi 1.0 |
 | 51 | 2412 | D'Andra Stewart |
@@ -214,7 +214,7 @@
 | 206 | 721 | Rachel Zimmerman |
 | 207 | 720 | Nerdy Blockpiece |
 | 208 | 707 | Jazzy Fireflighters |
-| 209 | 704 | Sarah Clark |
+| 209 | 706 | Sarah Clark |
 | 210 | 700 | Spicy Risepiece |
 | 211 | 699 | Block King |
 | 212 | 699 | Dee McCool |
