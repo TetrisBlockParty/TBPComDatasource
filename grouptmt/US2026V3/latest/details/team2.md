@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 04:52:45 UTC
+# Standings for team2 as of 2026-06-10 04:53:22 UTC
 
 **Total Participants:** 2685
 
@@ -343,7 +343,7 @@
 | 335 | 524 | Chill Shatterer |
 | 336 | 523 | James Ward |
 | 337 | 523 | Marilyn Strickland |
-| 338 | 521 | Jumpy Matchbuilder |
+| 338 | 522 | Jumpy Matchbuilder |
 | 339 | 520 | Deezie |
 | 340 | 518 | Cheery Tilefall |
 | 341 | 518 | Jodi Johnson |
@@ -1374,16 +1374,16 @@
 | 1366 | 112 | Thomas Chris |
 | 1367 | 112 | Cranky Zonebuilder |
 | 1368 | 112 | Yuhh |
-| 1369 | 111 | Jbarnsey18 |
+| 1369 | 111 | Swanky Twister |
 | 1370 | 111 | Rebecca Boling |
 | 1371 | 111 | Cranky Fit |
 | 1372 | 111 | Louise LeBlanc |
-| 1373 | 111 | Lisa |
-| 1374 | 111 | Rae Madewell |
-| 1375 | 111 | Tetrismastrr |
-| 1376 | 111 | Giggy Balance |
-| 1377 | 111 | Jennifer Risdell Wilson |
-| 1378 | 111 | Swanky Twister |
+| 1373 | 111 | Jbarnsey18 |
+| 1374 | 111 | Lisa |
+| 1375 | 111 | Rae Madewell |
+| 1376 | 111 | Tetrismastrr |
+| 1377 | 111 | Giggy Balance |
+| 1378 | 111 | Jennifer Risdell Wilson |
 | 1379 | 111 | Linzy Ratliff |
 | 1380 | 110 | Christi Hooper |
 | 1381 | 110 | Dena Cudjo |
@@ -1391,36 +1391,36 @@
 | 1383 | 110 | Lesley Stoeckle |
 | 1384 | 110 | Christina German |
 | 1385 | 110 | Wendy Michelle |
-| 1386 | 110 | David Blocker |
-| 1387 | 110 | AppA |
-| 1388 | 110 | Meve |
-| 1389 | 110 | Twisty Matcher |
-| 1390 | 110 | Brett Mullins |
-| 1391 | 110 | Crystal Logan |
-| 1392 | 110 | Margie King |
-| 1393 | 110 | Sadie-Damion Smith |
-| 1394 | 110 | Andrea Spinelli |
-| 1395 | 110 | Casie |
-| 1396 | 109 | Shannie |
-| 1397 | 109 | Slinky Glidezone |
-| 1398 | 109 | Sandra Rotton Bragg |
-| 1399 | 108 | Crafty Slice |
-| 1400 | 108 | Armordguy |
-| 1401 | 108 | Jamie Benge |
-| 1402 | 108 | Mariah Wygonik |
-| 1403 | 108 | Miranda Krentz |
-| 1404 | 108 | Crystal Whygle |
-| 1405 | 108 | Cheery Blast |
-| 1406 | 108 | Jennifer Robinson |
-| 1407 | 108 | Angela Oates-Killebrew |
-| 1408 | 107 | Giggy Linkgrid |
-| 1409 | 107 | Smiley Rotate |
+| 1386 | 110 | AppA |
+| 1387 | 110 | Meve |
+| 1388 | 110 | Twisty Matcher |
+| 1389 | 110 | Brett Mullins |
+| 1390 | 110 | Crystal Logan |
+| 1391 | 110 | David Blocker |
+| 1392 | 110 | Mariah Wygonik |
+| 1393 | 110 | Andrea Spinelli |
+| 1394 | 110 | Casie |
+| 1395 | 110 | Margie King |
+| 1396 | 110 | Sadie-Damion Smith |
+| 1397 | 109 | Shannie |
+| 1398 | 109 | Slinky Glidezone |
+| 1399 | 109 | Sandra Rotton Bragg |
+| 1400 | 108 | Crafty Slice |
+| 1401 | 108 | Armordguy |
+| 1402 | 108 | Jamie Benge |
+| 1403 | 108 | Jennifer Robinson |
+| 1404 | 108 | Angela Oates-Killebrew |
+| 1405 | 108 | Miranda Krentz |
+| 1406 | 108 | Crystal Whygle |
+| 1407 | 108 | Cheery Blast |
+| 1408 | 107 | Smiley Rotate |
+| 1409 | 107 | Giggy Linkgrid |
 | 1410 | 107 | Carole Brown |
 | 1411 | 107 | Loopy Zone |
-| 1412 | 106 | CowboyChalie |
+| 1412 | 106 | Nikki Blilie |
 | 1413 | 106 | Ashley Lee DeHaan |
-| 1414 | 106 | Nikki Blilie |
-| 1415 | 106 | Teresa Ann Curry |
+| 1414 | 106 | Teresa Ann Curry |
+| 1415 | 106 | CowboyChalie |
 | 1416 | 105 | DragonJB2020 |
 | 1417 | 105 | Katherine Crosby |
 | 1418 | 105 | Yvonne Rodriguez |
@@ -2012,16 +2012,16 @@
 | 2004 | 43 | Dapper Corner |
 | 2005 | 43 | Funkykarebear |
 | 2006 | 43 | Ashley Parrish |
-| 2007 | 43 | Dreamy Wipepiece |
-| 2008 | 43 | Poppy Zonepiece |
-| 2009 | 43 | Aguilar Rita |
-| 2010 | 43 | Kourtney Heiden-Hudson |
-| 2011 | 42 | Shylo Bryant-Brunson |
-| 2012 | 42 | Sweety764u |
-| 2013 | 42 | Miss TENNESEE |
-| 2014 | 42 | Jaime Karmann-Leathers |
-| 2015 | 42 | Peppy Dash |
-| 2016 | 42 | Giddy Glider |
+| 2007 | 43 | Giddy Glider |
+| 2008 | 43 | Dreamy Wipepiece |
+| 2009 | 43 | Poppy Zonepiece |
+| 2010 | 43 | Aguilar Rita |
+| 2011 | 43 | Kourtney Heiden-Hudson |
+| 2012 | 42 | Shylo Bryant-Brunson |
+| 2013 | 42 | Sweety764u |
+| 2014 | 42 | Miss TENNESEE |
+| 2015 | 42 | Jaime Karmann-Leathers |
+| 2016 | 42 | Peppy Dash |
 | 2017 | 42 | Speedy Cascadezone |
 | 2018 | 42 | June Salevao |
 | 2019 | 42 | Tipsy Slice |
