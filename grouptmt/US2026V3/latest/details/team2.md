@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 16:42:22 UTC
+# Standings for team2 as of 2026-06-10 16:43:22 UTC
 
 **Total Participants:** 2782
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 34200 | Mochi |
+| 1 | 34500 | Mochi |
 | 2 | 29796 | Summer Harrison |
 | 3 | 20287 | Puce guide 9156 |
 | 4 | 15304 | boblawboblaw |
@@ -223,8 +223,8 @@
 | 215 | 836 | Ashley Green |
 | 216 | 834 | Brandon Link |
 | 217 | 834 | Glitzy Base |
-| 218 | 828 | Rhonda Diebold |
-| 219 | 827 | Denise Morehart |
+| 218 | 831 | Denise Morehart |
+| 219 | 828 | Rhonda Diebold |
 | 220 | 826 | Milad Arzani |
 | 221 | 825 | Nichole Wilson |
 | 222 | 825 | Sarina Vollink |
@@ -675,25 +675,25 @@
 | 667 | 296 | Joshua Dye |
 | 668 | 296 | Joanne Fish |
 | 669 | 296 | Mandy |
-| 670 | 295 | Julie Brown |
-| 671 | 295 | Brian Favre |
-| 672 | 295 | Nikki Sadler |
-| 673 | 294 | Zany Wrecker |
-| 674 | 294 | Natasha Lee |
-| 675 | 294 | Crafty Rotater |
-| 676 | 294 | Amanda Bryte |
-| 677 | 293 | Sleepypanda67 |
+| 670 | 295 | Wood |
+| 671 | 295 | Julie Brown |
+| 672 | 295 | Brian Favre |
+| 673 | 295 | Nikki Sadler |
+| 674 | 294 | Zany Wrecker |
+| 675 | 294 | Natasha Lee |
+| 676 | 294 | Crafty Rotater |
+| 677 | 294 | Amanda Bryte |
 | 678 | 293 | denirocorona |
-| 679 | 292 | Cindy Brown |
-| 680 | 292 | Charlotte Castelli |
-| 681 | 292 | Raine |
-| 682 | 292 | Rescuegirl76 |
-| 683 | 291 | Michele Stewart |
-| 684 | 291 | Tara Flood |
-| 685 | 290 | Viani09 |
-| 686 | 290 | Errkuh |
-| 687 | 290 | Cool Cornerfall |
-| 688 | 290 | Wood |
+| 679 | 293 | Sleepypanda67 |
+| 680 | 292 | Cindy Brown |
+| 681 | 292 | Charlotte Castelli |
+| 682 | 292 | Raine |
+| 683 | 292 | Rescuegirl76 |
+| 684 | 291 | Michele Stewart |
+| 685 | 291 | Tara Flood |
+| 686 | 290 | Viani09 |
+| 687 | 290 | Errkuh |
+| 688 | 290 | Cool Cornerfall |
 | 689 | 289 | Holly Barefoot |
 | 690 | 289 | Stella |
 | 691 | 289 | Cranky Basepiece |
@@ -733,13 +733,13 @@
 | 725 | 277 | s3lc4tr0n |
 | 726 | 277 | Twisty Blockmatch |
 | 727 | 276 | Ryuu |
-| 728 | 276 | NickandJess Reynolds |
-| 729 | 276 | Barb Kiser |
-| 730 | 276 | Cassandra Green |
-| 731 | 275 | Kelli Pazour |
-| 732 | 274 | K2N |
-| 733 | 273 | Anzhen |
-| 734 | 273 | Michele Rogers |
+| 728 | 276 | Michele Rogers |
+| 729 | 276 | NickandJess Reynolds |
+| 730 | 276 | Barb Kiser |
+| 731 | 276 | Cassandra Green |
+| 732 | 275 | Kelli Pazour |
+| 733 | 274 | K2N |
+| 734 | 273 | Anzhen |
 | 735 | 272 | Muffin Popper |
 | 736 | 271 | Belle |
 | 737 | 271 | Spicy Balanceblock |
@@ -803,15 +803,15 @@
 | 795 | 250 | Amanda Kennedy |
 | 796 | 250 | Constance DelLane Wilson |
 | 797 | 250 | Happy Drop |
-| 798 | 250 | Kim Powers |
-| 799 | 249 | Carrie Smith Negron |
-| 800 | 249 | GiGi Cool |
-| 801 | 249 | MamaRachel |
-| 802 | 249 | Lindsey Ross |
-| 803 | 249 | Raymond Dawson |
-| 804 | 249 | Tina |
-| 805 | 248 | Franky |
-| 806 | 248 | Mikaela Byrd |
+| 798 | 250 | Mikaela Byrd |
+| 799 | 250 | Kim Powers |
+| 800 | 249 | Carrie Smith Negron |
+| 801 | 249 | GiGi Cool |
+| 802 | 249 | MamaRachel |
+| 803 | 249 | Lindsey Ross |
+| 804 | 249 | Raymond Dawson |
+| 805 | 249 | Tina |
+| 806 | 248 | Franky |
 | 807 | 247 | Laura Melton |
 | 808 | 247 | Alycia Marie Zelensky |
 | 809 | 247 | Chesney |
@@ -1000,8 +1000,8 @@
 | 992 | 195 | Edward Conyers |
 | 993 | 194 | sampson |
 | 994 | 194 | Destiny Turner |
-| 995 | 194 | JDub |
-| 996 | 194 | Audrey 'Spence' Hallmark |
+| 995 | 194 | Audrey 'Spence' Hallmark |
+| 996 | 194 | JDub |
 | 997 | 193 | JrsWife |
 | 998 | 193 | Jaimie Walters |
 | 999 | 193 | Jeannine Murphy |
@@ -1010,11 +1010,11 @@
 | 1002 | 193 | Jackie Moran Tiller |
 | 1003 | 192 | Stephen Gillam |
 | 1004 | 192 | Jolly Builderpiece |
-| 1005 | 192 | Mandy Smart |
-| 1006 | 192 | Alicia Parrish |
-| 1007 | 192 | Wendy Durrence Jones |
-| 1008 | 191 | Tamtam |
-| 1009 | 191 | Distro |
+| 1005 | 192 | Alicia Parrish |
+| 1006 | 192 | Wendy Durrence Jones |
+| 1007 | 192 | Mandy Smart |
+| 1008 | 191 | Distro |
+| 1009 | 191 | Tamtam |
 | 1010 | 191 | Bouncy Cluster |
 | 1011 | 191 | Witty Riser |
 | 1012 | 191 | AshleyM |
@@ -1022,45 +1022,45 @@
 | 1014 | 190 | Patti Ward |
 | 1015 | 190 | Silly square |
 | 1016 | 190 | Amanda Mason Scott |
-| 1017 | 190 | Catalina Castro |
-| 1018 | 190 | Shakey Bakey |
-| 1019 | 190 | Brittany Paul |
-| 1020 | 190 | Jolly Brickroll |
-| 1021 | 190 | gene15 |
-| 1022 | 189 | Poppy Strikerbuilder |
-| 1023 | 189 | Marla Paden |
-| 1024 | 189 | Audrey Bickford |
-| 1025 | 189 | Kristi K Milner |
-| 1026 | 189 | Goofy Patternfit |
-| 1027 | 188 | Nikki Layman |
-| 1028 | 188 | Ceci |
-| 1029 | 188 | Derrick |
-| 1030 | 187 | Abby |
+| 1017 | 190 | gene15 |
+| 1018 | 190 | Catalina Castro |
+| 1019 | 190 | Shakey Bakey |
+| 1020 | 190 | Brittany Paul |
+| 1021 | 190 | Jolly Brickroll |
+| 1022 | 189 | Ava Dorsch |
+| 1023 | 189 | Poppy Strikerbuilder |
+| 1024 | 189 | Marla Paden |
+| 1025 | 189 | Audrey Bickford |
+| 1026 | 189 | Kristi K Milner |
+| 1027 | 189 | Goofy Patternfit |
+| 1028 | 188 | Nikki Layman |
+| 1029 | 188 | Ceci |
+| 1030 | 188 | Derrick |
 | 1031 | 187 | Hog Crankin |
-| 1032 | 187 | Elizabeth Kline |
-| 1033 | 186 | Tina Carr |
-| 1034 | 186 | Jessica Veness-Toth |
-| 1035 | 186 | Rhonda Driskill |
-| 1036 | 185 | Kris Dusza Dodus |
-| 1037 | 185 | Clever Linkbuilder |
-| 1038 | 185 | Squared |
-| 1039 | 185 | Samantha LeBlanc |
-| 1040 | 185 | Carlee Becher |
-| 1041 | 185 | Samantha Smith |
-| 1042 | 185 | Ava Dorsch |
-| 1043 | 185 | Stacy Hoffman |
-| 1044 | 185 | April Elaine Messenger |
-| 1045 | 185 | Brandon Ray Holt |
+| 1032 | 187 | Abby |
+| 1033 | 187 | Elizabeth Kline |
+| 1034 | 186 | Tina Carr |
+| 1035 | 186 | Jessica Veness-Toth |
+| 1036 | 186 | Rhonda Driskill |
+| 1037 | 185 | Kris Dusza Dodus |
+| 1038 | 185 | Clever Linkbuilder |
+| 1039 | 185 | Squared |
+| 1040 | 185 | Brandon Ray Holt |
+| 1041 | 185 | Carlee Becher |
+| 1042 | 185 | Kayla Iverson |
+| 1043 | 185 | Samantha Smith |
+| 1044 | 185 | Stacy Hoffman |
+| 1045 | 185 | April Elaine Messenger |
 | 1046 | 185 | Vicki Flippo |
-| 1047 | 185 | Kayla Iverson |
+| 1047 | 185 | Samantha LeBlanc |
 | 1048 | 184 | Jackelyn Ford |
 | 1049 | 184 | Dandy Brickbuilder |
-| 1050 | 184 | Bennie Farbo |
-| 1051 | 184 | Tabitha Ann Bullins-Cobb |
+| 1050 | 184 | Tabitha Ann Bullins-Cobb |
+| 1051 | 184 | Bennie Farbo |
 | 1052 | 184 | Rubics cube |
-| 1053 | 183 | Joshua Hopkins |
-| 1054 | 183 | Jennifer Augustine |
-| 1055 | 183 | Reggie Ellerbe |
+| 1053 | 183 | Reggie Ellerbe |
+| 1054 | 183 | Joshua Hopkins |
+| 1055 | 183 | Jennifer Augustine |
 | 1056 | 183 | Danid |
 | 1057 | 182 | Steve Eakins |
 | 1058 | 182 | Joseph Schreier |
