@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:34:45 UTC
+# Standings for team1 as of 2026-06-10 07:35:21 UTC
 
 **Total Participants:** 2240
 
@@ -85,12 +85,12 @@
 | 77 | 1688 | Frisky Fallmatch |
 | 78 | 1676 | Jessica Roberts |
 | 79 | 1654 | Chenell Gillard |
-| 80 | 1606 | BYM4L |
-| 81 | 1597 | Janet Cooke |
-| 82 | 1581 | Holly Jolly |
-| 83 | 1580 | MamaBear |
-| 84 | 1577 | Danielle DeLozier Plesec |
-| 85 | 1572 | PandaPrincess |
+| 80 | 1610 | PandaPrincess |
+| 81 | 1606 | BYM4L |
+| 82 | 1597 | Janet Cooke |
+| 83 | 1581 | Holly Jolly |
+| 84 | 1580 | MamaBear |
+| 85 | 1577 | Danielle DeLozier Plesec |
 | 86 | 1551 | Sanjuro |
 | 87 | 1524 | La'Chae Nickole |
 | 88 | 1519 | Murg4dr01d |
@@ -2036,26 +2036,26 @@
 | 2028 | 14 | Queen Q. Green |
 | 2029 | 13 | Emma Adams |
 | 2030 | 13 | Leah Ingram |
-| 2031 | 13 | Shiny Crusher |
-| 2032 | 13 | JenNay |
-| 2033 | 13 | Schuyler Carson Jackson |
-| 2034 | 13 | Hasty Shatterbuilder |
-| 2035 | 13 | Angie Hall |
-| 2036 | 13 | Hound Dog |
-| 2037 | 13 | Quirky Snaplink |
-| 2038 | 13 | Flashy Snapgrid |
-| 2039 | 13 | Tipsy Builderfit |
-| 2040 | 13 | Deanna Pinkard Harrington |
-| 2041 | 13 | Neesii |
-| 2042 | 13 | random |
-| 2043 | 13 | Gregory Brown |
-| 2044 | 13 | Lakesha Jackson- Anderson |
-| 2045 | 12 | Eric Harris |
-| 2046 | 12 | Giggly Swiper |
-| 2047 | 12 | Chirpy Wipefit |
-| 2048 | 12 | Nenaberry |
-| 2049 | 12 | upsideDOWN |
-| 2050 | 12 | LahMar Hunter |
+| 2031 | 13 | LahMar Hunter |
+| 2032 | 13 | Shiny Crusher |
+| 2033 | 13 | JenNay |
+| 2034 | 13 | Schuyler Carson Jackson |
+| 2035 | 13 | Hasty Shatterbuilder |
+| 2036 | 13 | Angie Hall |
+| 2037 | 13 | Hound Dog |
+| 2038 | 13 | Quirky Snaplink |
+| 2039 | 13 | Flashy Snapgrid |
+| 2040 | 13 | Tipsy Builderfit |
+| 2041 | 13 | Deanna Pinkard Harrington |
+| 2042 | 13 | Neesii |
+| 2043 | 13 | random |
+| 2044 | 13 | Gregory Brown |
+| 2045 | 13 | Lakesha Jackson- Anderson |
+| 2046 | 12 | Eric Harris |
+| 2047 | 12 | Giggly Swiper |
+| 2048 | 12 | Chirpy Wipefit |
+| 2049 | 12 | Nenaberry |
+| 2050 | 12 | upsideDOWN |
 | 2051 | 12 | Arlene Eager |
 | 2052 | 12 | Lavance Sams |
 | 2053 | 12 | Chantae Maxwell |
