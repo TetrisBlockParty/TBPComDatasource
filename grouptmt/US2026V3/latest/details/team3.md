@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-10 09:00:47 UTC
+# Standings for team3 as of 2026-06-10 09:01:23 UTC
 
 **Total Participants:** 8833
 
@@ -1198,13 +1198,13 @@
 | 1190 | 474 | Dreamy Slamdrop |
 | 1191 | 474 | Jaime |
 | 1192 | 474 | Nicole Leigh |
-| 1193 | 473 | Cocoa |
-| 1194 | 473 | Delores Martin |
-| 1195 | 472 | Sassy Glider |
-| 1196 | 472 | Richard Mathews |
-| 1197 | 472 | Kenneth Curry |
-| 1198 | 471 | Katherine Jodine Robare |
-| 1199 | 471 | Andy Lanning |
+| 1193 | 474 | Andy Lanning |
+| 1194 | 473 | Cocoa |
+| 1195 | 473 | Delores Martin |
+| 1196 | 472 | Sassy Glider |
+| 1197 | 472 | Richard Mathews |
+| 1198 | 472 | Kenneth Curry |
+| 1199 | 471 | Katherine Jodine Robare |
 | 1200 | 471 | Tabitha Morse |
 | 1201 | 471 | Patricia Gesualdo |
 | 1202 | 471 | Melissa Forman |

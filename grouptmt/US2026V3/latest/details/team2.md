@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:00:47 UTC
+# Standings for team2 as of 2026-06-10 09:01:23 UTC
 
 **Total Participants:** 2714
 
@@ -828,8 +828,8 @@
 | 820 | 228 | sugabritches |
 | 821 | 228 | Michele Plunkett |
 | 822 | 228 | Maurii93 |
-| 823 | 227 | Josephina |
-| 824 | 227 | Chesney |
+| 823 | 227 | Chesney |
+| 824 | 227 | Josephina |
 | 825 | 226 | Eva Lopez |
 | 826 | 226 | Valeri Bradley |
 | 827 | 225 | Jami Borges |
@@ -837,27 +837,27 @@
 | 829 | 224 | Stephanie Smith Robinson |
 | 830 | 224 | Glitzy Roll |
 | 831 | 224 | Christine James |
-| 832 | 224 | Dandy Tiltgrid |
-| 833 | 224 | Leigh Wilkerson |
-| 834 | 223 | Kevin Patrick |
-| 835 | 223 | Hillary Frank |
-| 836 | 223 | Lydia Shonee |
-| 837 | 223 | Jazzy Snapfit |
-| 838 | 222 | Sherri Caillet Aucoin |
-| 839 | 222 | Duck |
-| 840 | 222 | Heather |
-| 841 | 222 | SaraAnn Gray Philbrick |
-| 842 | 221 | Jazzy |
-| 843 | 221 | Jillian Marie |
-| 844 | 221 | Ques Pryor |
-| 845 | 221 | Ashley Fleming |
-| 846 | 220 | Tami Leontyuk |
-| 847 | 220 | Cool Balancer |
-| 848 | 220 | Debbie Davis |
-| 849 | 220 | Krystle L Coon |
-| 850 | 220 | Cassandra Milner |
-| 851 | 220 | Jessica Garoutte |
-| 852 | 220 | Doug Small |
+| 832 | 224 | Doug Small |
+| 833 | 224 | Dandy Tiltgrid |
+| 834 | 224 | Leigh Wilkerson |
+| 835 | 223 | Kevin Patrick |
+| 836 | 223 | Hillary Frank |
+| 837 | 223 | Lydia Shonee |
+| 838 | 223 | Jazzy Snapfit |
+| 839 | 222 | Sherri Caillet Aucoin |
+| 840 | 222 | Duck |
+| 841 | 222 | Heather |
+| 842 | 222 | SaraAnn Gray Philbrick |
+| 843 | 221 | Jazzy |
+| 844 | 221 | Jillian Marie |
+| 845 | 221 | Ques Pryor |
+| 846 | 221 | Ashley Fleming |
+| 847 | 220 | Tami Leontyuk |
+| 848 | 220 | Cool Balancer |
+| 849 | 220 | Debbie Davis |
+| 850 | 220 | Krystle L Coon |
+| 851 | 220 | Cassandra Milner |
+| 852 | 220 | Jessica Garoutte |
 | 853 | 219 | Leighla Davis |
 | 854 | 219 | Shawn Bolt |
 | 855 | 218 | Ashley Jones |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:00:47 UTC
+# Standings for team1 as of 2026-06-10 09:01:23 UTC
 
 **Total Participants:** 2249
 
@@ -280,10 +280,10 @@
 | 272 | 533 | Joey Albright |
 | 273 | 533 | Telisha Mims |
 | 274 | 532 | Denisa Amazon Clark |
-| 275 | 527 | MommaCia |
-| 276 | 526 | Kenny 'Tailormade' Boyd |
-| 277 | 525 | Andre Sanon |
-| 278 | 525 | Calvin Green |
+| 275 | 529 | Calvin Green |
+| 276 | 527 | MommaCia |
+| 277 | 526 | Kenny 'Tailormade' Boyd |
+| 278 | 525 | Andre Sanon |
 | 279 | 524 | rls |
 | 280 | 523 | Simmone T. Kadiri |
 | 281 | 523 | win |
