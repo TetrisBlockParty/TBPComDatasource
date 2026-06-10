@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:38:46 UTC
+# Standings for team1 as of 2026-06-10 12:39:23 UTC
 
 **Total Participants:** 2265
 
@@ -777,40 +777,40 @@
 | 769 | 202 | Marbama |
 | 770 | 202 | Nutty Fallmatch |
 | 771 | 201 | Bea Dyer-Fields |
-| 772 | 201 | Rieshelda Marie White |
-| 773 | 200 | Victoria Smith |
-| 774 | 200 | Yellowguy3 |
-| 775 | 200 | Kyle Conley |
-| 776 | 198 | Cornelius Neal |
-| 777 | 198 | Stephen Garland |
-| 778 | 198 | Darrelle Short |
-| 779 | 198 | Mom3granny2 |
-| 780 | 198 | Lynn |
+| 772 | 201 | Mom3granny2 |
+| 773 | 201 | Rieshelda Marie White |
+| 774 | 200 | Victoria Smith |
+| 775 | 200 | Yellowguy3 |
+| 776 | 200 | Kyle Conley |
+| 777 | 198 | Cornelius Neal |
+| 778 | 198 | Rhianna Dinki Austin |
+| 779 | 198 | Stephen Garland |
+| 780 | 198 | Darrelle Short |
 | 781 | 198 | Chocolate |
-| 782 | 198 | Rhianna Dinki Austin |
+| 782 | 198 | Lynn |
 | 783 | 197 | krd |
-| 784 | 197 | Amanda Woodruff |
-| 785 | 197 | Seddrick |
+| 784 | 197 | Seddrick |
+| 785 | 197 | Amanda Woodruff |
 | 786 | 196 | whatever |
 | 787 | 196 | Katness |
 | 788 | 195 | Elaine Pauley |
 | 789 | 195 | William Vidra |
 | 790 | 193 | Sherry D Singleton |
-| 791 | 192 | Cameo Tweed |
+| 791 | 192 | Cranky Fall |
 | 792 | 192 | Taneka Howell |
-| 793 | 192 | QueenzMo |
-| 794 | 192 | Cranky Fall |
+| 793 | 192 | Cameo Tweed |
+| 794 | 192 | QueenzMo |
 | 795 | 190 | Chipper Snapper |
 | 796 | 190 | Essence Jones |
-| 797 | 189 | Anntionette Sotire |
-| 798 | 189 | Missy Myvette |
+| 797 | 189 | Jes Marie |
+| 798 | 189 | Sean White |
 | 799 | 189 | Duncan Timothy |
-| 800 | 189 | Sean White |
-| 801 | 189 | Jes Marie |
-| 802 | 189 | Sunny Tumbler |
+| 800 | 189 | Sunny Tumbler |
+| 801 | 189 | Anntionette Sotire |
+| 802 | 189 | Missy Myvette |
 | 803 | 188 | Mary Goode |
-| 804 | 187 | Megan Jones |
-| 805 | 187 | Vontesha Kidd |
+| 804 | 187 | Vontesha Kidd |
+| 805 | 187 | Megan Jones |
 | 806 | 187 | Lively Riserpiece |
 | 807 | 186 | Nekka |
 | 808 | 186 | Dirty Deeds |
@@ -838,41 +838,41 @@
 | 830 | 181 | Desiree Ryder |
 | 831 | 181 | Spicy Tiler |
 | 832 | 181 | Melissa Hershberger |
-| 833 | 180 | Tory Miller |
-| 834 | 180 | Keith Big-Sixx Mackell |
-| 835 | 180 | Nikita Jones |
-| 836 | 180 | NedaWin |
-| 837 | 180 | Kanary Karotz |
-| 838 | 179 | Cheery Swiper |
-| 839 | 179 | Keith Johnson |
-| 840 | 179 | Wacky Stackbuilder |
-| 841 | 179 | Naee Bee |
-| 842 | 179 | blockman |
-| 843 | 178 | Maxine Williams |
+| 833 | 181 | Kashh |
+| 834 | 180 | Tory Miller |
+| 835 | 180 | Keith Big-Sixx Mackell |
+| 836 | 180 | Nikita Jones |
+| 837 | 180 | NedaWin |
+| 838 | 180 | Kanary Karotz |
+| 839 | 179 | Cheery Swiper |
+| 840 | 179 | Keith Johnson |
+| 841 | 179 | Wacky Stackbuilder |
+| 842 | 179 | Naee Bee |
+| 843 | 179 | blockman |
 | 844 | 178 | Krista McNair |
 | 845 | 178 | Michelle Stottlemyer |
 | 846 | 178 | Paul Pendley |
 | 847 | 178 | TRUBBLE45 |
-| 848 | 177 | QueenShay AllGood |
-| 849 | 177 | Christopher L Crites |
-| 850 | 177 | Angela Kitchens |
-| 851 | 177 | Tina Blessed Cage |
-| 852 | 177 | Meepycat |
-| 853 | 176 | Frisky Gridder |
-| 854 | 176 | Poppy Smasher |
-| 855 | 176 | Callie Mae |
-| 856 | 176 | Squaw Ki Ng |
-| 857 | 176 | Crystal Garay |
-| 858 | 176 | Alexis Alexander |
-| 859 | 176 | Terrie |
-| 860 | 175 | Ozell Jones Jr. |
-| 861 | 175 | DaemahnFriday |
-| 862 | 175 | LAdYPOLy |
-| 863 | 175 | Kashh |
-| 864 | 175 | Dizzy Gridmatch |
-| 865 | 174 | Kizzy Clark |
-| 866 | 174 | Jason Saputo |
-| 867 | 174 | Nerdy Wipefit |
+| 848 | 178 | Maxine Williams |
+| 849 | 177 | QueenShay AllGood |
+| 850 | 177 | Meepycat |
+| 851 | 177 | Angela Kitchens |
+| 852 | 177 | Christopher L Crites |
+| 853 | 177 | Tina Blessed Cage |
+| 854 | 176 | Alexis Alexander |
+| 855 | 176 | Poppy Smasher |
+| 856 | 176 | Callie Mae |
+| 857 | 176 | Terrie |
+| 858 | 176 | Frisky Gridder |
+| 859 | 176 | Squaw Ki Ng |
+| 860 | 176 | Crystal Garay |
+| 861 | 175 | Dizzy Gridmatch |
+| 862 | 175 | DaemahnFriday |
+| 863 | 175 | LAdYPOLy |
+| 864 | 175 | Ozell Jones Jr. |
+| 865 | 174 | Nerdy Wipefit |
+| 866 | 174 | Kizzy Clark |
+| 867 | 174 | Jason Saputo |
 | 868 | 173 | DirtiestofMikes |
 | 869 | 173 | Claudia Price |
 | 870 | 172 | Li-Li Ratliff |
