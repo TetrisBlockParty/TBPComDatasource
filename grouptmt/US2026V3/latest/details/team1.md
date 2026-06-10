@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 19:46:47 UTC
+# Standings for team1 as of 2026-06-10 19:47:23 UTC
 
 **Total Participants:** 2330
 
@@ -246,31 +246,31 @@
 | 238 | 646 | TeeMaster Barber IsLyfe |
 | 239 | 643 | Sarah Barnum |
 | 240 | 639 | Wild Out Nai |
-| 241 | 632 | OhNoZer0 |
-| 242 | 630 | SyTheEvilGenius1 |
-| 243 | 629 | Nina Davis |
-| 244 | 625 | Tishauna Virgo |
-| 245 | 624 | Rhonda Williams Warner |
-| 246 | 623 | Nicole Watson-Dixon |
-| 247 | 619 | Sade Goodwine |
-| 248 | 617 | izzybella |
-| 249 | 616 | Tremaine Hiler |
-| 250 | 613 | Cheery Linkfall |
-| 251 | 611 | Giggy Clusterer |
-| 252 | 609 | Tobey Marberry |
-| 253 | 608 | Dion Gray |
-| 254 | 605 | pooh |
+| 241 | 632 | Deveda Williams |
+| 242 | 632 | OhNoZer0 |
+| 243 | 630 | SyTheEvilGenius1 |
+| 244 | 629 | Nina Davis |
+| 245 | 625 | Tishauna Virgo |
+| 246 | 624 | Rhonda Williams Warner |
+| 247 | 623 | Nicole Watson-Dixon |
+| 248 | 619 | Sade Goodwine |
+| 249 | 617 | izzybella |
+| 250 | 616 | Tremaine Hiler |
+| 251 | 613 | Cheery Linkfall |
+| 252 | 611 | Giggy Clusterer |
+| 253 | 609 | Tobey Marberry |
+| 254 | 608 | Dion Gray |
 | 255 | 605 | Aihpos |
-| 256 | 601 | SPNLover24 |
-| 257 | 600 | Tamara N Lee |
-| 258 | 596 | Mic Balew |
-| 259 | 596 | Albert McKnight |
-| 260 | 593 | Tessa Gaskin |
-| 261 | 592 | Deveda Williams |
+| 256 | 605 | pooh |
+| 257 | 601 | SPNLover24 |
+| 258 | 600 | Tamara N Lee |
+| 259 | 596 | Mic Balew |
+| 260 | 596 | Albert McKnight |
+| 261 | 593 | Tessa Gaskin |
 | 262 | 585 | Rachael Bakowicz Edwards |
 | 263 | 584 | Mikayla |
-| 264 | 580 | Tanya Clayton |
-| 265 | 580 | Jessica Carter |
+| 264 | 580 | Jessica Carter |
+| 265 | 580 | Tanya Clayton |
 | 266 | 579 | IThinkNot |
 | 267 | 578 | Andrew Jay Vaughn |
 | 268 | 577 | Zachary Colegrove |
@@ -439,10 +439,10 @@
 | 431 | 377 | AF Cruz |
 | 432 | 377 | Eric Spencer Whitaker |
 | 433 | 376 | Char |
-| 434 | 376 | Skippy |
-| 435 | 376 | TBABYJ |
-| 436 | 375 | Tosha Michelle |
-| 437 | 375 | Giggy Tower |
+| 434 | 376 | Giggy Tower |
+| 435 | 376 | Skippy |
+| 436 | 376 | TBABYJ |
+| 437 | 375 | Tosha Michelle |
 | 438 | 375 | Betsy B. Yohan |
 | 439 | 371 | Cynthia Bradley |
 | 440 | 370 | Stacy Nicole |
