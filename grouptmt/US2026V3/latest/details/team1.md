@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:23:23 UTC
+# Standings for team1 as of 2026-06-10 07:24:45 UTC
 
 **Total Participants:** 2238
 
@@ -152,7 +152,7 @@
 | 144 | 947 | Cathy Young |
 | 145 | 931 | Antonia Wyche |
 | 146 | 927 | Kellie Hall |
-| 147 | 922 | De'Laonzeo Anthony |
+| 147 | 927 | De'Laonzeo Anthony |
 | 148 | 917 | Ebony |
 | 149 | 915 | Crystal Boyd |
 | 150 | 911 | Ebony Waynes-robinson |
