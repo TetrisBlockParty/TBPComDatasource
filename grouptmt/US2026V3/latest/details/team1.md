@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:10:45 UTC
+# Standings for team1 as of 2026-06-10 09:11:23 UTC
 
 **Total Participants:** 2249
 
@@ -53,7 +53,7 @@
 | 45 | 2540 | Jamie Willis |
 | 46 | 2464 | Epic Snapfall |
 | 47 | 2448 | Mimi 1.0 |
-| 48 | 2413 | Jennifer To |
+| 48 | 2428 | Jennifer To |
 | 49 | 2370 | Therealdywoune Peay |
 | 50 | 2285 | Markeeta Lipscomb |
 | 51 | 2203 | BlackQueen105 |
@@ -471,8 +471,8 @@
 | 463 | 322 | Gbnola |
 | 464 | 321 | Montego Allen |
 | 465 | 320 | Shanns |
-| 466 | 320 | Malcolm Stanley |
-| 467 | 319 | De'Nell Edwards |
+| 466 | 320 | De'Nell Edwards |
+| 467 | 320 | Malcolm Stanley |
 | 468 | 319 | MACHETEEDDIE513 |
 | 469 | 319 | Nora Mahmoud |
 | 470 | 318 | Clint Mcdowell |
@@ -660,12 +660,12 @@
 | 652 | 230 | Jessica Kirby |
 | 653 | 230 | Adrian Wilson |
 | 654 | 230 | Poyre Shelton |
-| 655 | 229 | Lucille Wilson Davis |
-| 656 | 229 | brite |
-| 657 | 229 | Kike Lua |
-| 658 | 228 | Spicy Shatterblock |
-| 659 | 228 | Coco |
-| 660 | 228 | Tyler |
+| 655 | 230 | Tyler |
+| 656 | 229 | Lucille Wilson Davis |
+| 657 | 229 | brite |
+| 658 | 229 | Kike Lua |
+| 659 | 228 | Spicy Shatterblock |
+| 660 | 228 | Coco |
 | 661 | 227 | Katrina Ramey |
 | 662 | 227 | messyboots |
 | 663 | 227 | Kimberly Susan Privette |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:10:45 UTC
+# Standings for team2 as of 2026-06-10 09:11:23 UTC
 
 **Total Participants:** 2715
 
@@ -547,20 +547,20 @@
 | 539 | 348 | Sassy Swiper |
 | 540 | 347 | Robin Lamb |
 | 541 | 347 | Mouh Ity |
-| 542 | 346 | TetrisMama |
-| 543 | 346 | Carolyn McNaughton |
-| 544 | 345 | DNice |
-| 545 | 342 | Po Yee |
-| 546 | 342 | Wendy Spoor Hof |
-| 547 | 342 | Eric Wayne Maschman |
-| 548 | 341 | Kelly Vedder |
-| 549 | 341 | Jana Campbell |
-| 550 | 341 | Patria Osuoha |
-| 551 | 340 | Tony Medina |
-| 552 | 340 | Hannah Meadows Hammond |
-| 553 | 340 | Nicky Steigerwalt |
-| 554 | 339 | Darla Ragsdale |
-| 555 | 339 | Plucky Grabber |
+| 542 | 347 | Eric Wayne Maschman |
+| 543 | 346 | TetrisMama |
+| 544 | 346 | Carolyn McNaughton |
+| 545 | 345 | DNice |
+| 546 | 342 | Po Yee |
+| 547 | 342 | Wendy Spoor Hof |
+| 548 | 341 | Patria Osuoha |
+| 549 | 341 | Kelly Vedder |
+| 550 | 341 | Jana Campbell |
+| 551 | 340 | Nicky Steigerwalt |
+| 552 | 340 | Tony Medina |
+| 553 | 340 | Hannah Meadows Hammond |
+| 554 | 339 | Plucky Grabber |
+| 555 | 339 | Darla Ragsdale |
 | 556 | 338 | Katelyn Rodgers |
 | 557 | 337 | Jennifer McClure |
 | 558 | 336 | Hyper Cascade |
