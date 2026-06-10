@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 19:16:47 UTC
+# Standings for team2 as of 2026-06-10 19:17:23 UTC
 
 **Total Participants:** 2800
 
@@ -65,8 +65,8 @@
 | 57 | 3598 | Angelica Jelli Gillaspy |
 | 58 | 3514 | Traci Elizabeth |
 | 59 | 3461 | Sean Rippa |
-| 60 | 3279 | Helen Thomas |
-| 61 | 3204 | Kimberly Benson |
+| 60 | 3354 | Kimberly Benson |
+| 61 | 3279 | Helen Thomas |
 | 62 | 3189 | LaWanda Powell |
 | 63 | 3182 | Elizabeth Sallas |
 | 64 | 3075 | Suki Kaur |
@@ -138,7 +138,7 @@
 | 130 | 1429 | Anissa Moore |
 | 131 | 1419 | Loopy Cascadepiece |
 | 132 | 1386 | Sam |
-| 133 | 1378 | Marquetta Johnson |
+| 133 | 1382 | Marquetta Johnson |
 | 134 | 1364 | Jayke Edward |
 | 135 | 1361 | LittleHippoEars |
 | 136 | 1354 | Jaime P Lamb |
@@ -165,12 +165,12 @@
 | 157 | 1149 | Allie Bug |
 | 158 | 1148 | Snappy Blockbuilder |
 | 159 | 1137 | Tina Marie |
-| 160 | 1132 | Wmk Rathbun |
-| 161 | 1130 | Allison Jarman |
-| 162 | 1125 | Leigh Ann |
-| 163 | 1115 | Spicy Risegrid |
-| 164 | 1112 | MegaPooh |
-| 165 | 1108 | Cristi Doris |
+| 160 | 1135 | Cristi Doris |
+| 161 | 1132 | Wmk Rathbun |
+| 162 | 1130 | Allison Jarman |
+| 163 | 1125 | Leigh Ann |
+| 164 | 1115 | Spicy Risegrid |
+| 165 | 1112 | MegaPooh |
 | 166 | 1074 | Shea |
 | 167 | 1067 | Groovy Snapper |
 | 168 | 1061 | Jamie Fenyus |
@@ -448,9 +448,9 @@
 | 440 | 435 | Thy Bui |
 | 441 | 435 | Mrs biotch |
 | 442 | 434 | Heather Denise |
-| 443 | 434 | DayDreamer79 |
-| 444 | 434 | Paula Haskins |
-| 445 | 434 | Dad |
+| 443 | 434 | Dad |
+| 444 | 434 | DayDreamer79 |
+| 445 | 434 | Paula Haskins |
 | 446 | 433 | Gwendolyn Boykin Mobbs |
 | 447 | 433 | Amanda Ann Brooks |
 | 448 | 432 | Wacky Stack |
@@ -480,73 +480,73 @@
 | 472 | 417 | Analee Nicole Jones |
 | 473 | 417 | Saucy Wrecker |
 | 474 | 416 | Teresa Mandich |
-| 475 | 415 | Jennifer Lalk |
-| 476 | 415 | Symmy Norton |
-| 477 | 415 | Emma Danielle Wynn |
-| 478 | 414 | Crystal Poss |
-| 479 | 413 | Travis Bundrum |
-| 480 | 410 | Nicole Good |
-| 481 | 408 | Tia Guile |
-| 482 | 407 | Mona Good |
-| 483 | 407 | Arik DiLorenzo |
-| 484 | 406 | Alyssa Malay |
-| 485 | 406 | Ray Daisy |
-| 486 | 406 | Spunky Linkblock |
-| 487 | 406 | Carolyn McNaughton |
-| 488 | 405 | Kelly Vedder |
-| 489 | 405 | Brittni Lawrence |
-| 490 | 405 | Danielle Pack Lewellen |
-| 491 | 403 | Speedy Spinfit |
-| 492 | 403 | PaiBri |
-| 493 | 402 | Candi Cane |
-| 494 | 402 | Buffy Diane Blake |
-| 495 | 401 | Marilyn Mendoza |
-| 496 | 400 | Tiffany Lewis |
-| 497 | 400 | Jacquelyn Snyder Dumas |
-| 498 | 399 | Logan Duffey |
-| 499 | 399 | Mandeee |
-| 500 | 399 | Po Yee |
-| 501 | 399 | Leah Lynn |
-| 502 | 398 | Mandy Van Laningham Bishop |
-| 503 | 397 | Sltwtrcndrla |
-| 504 | 396 | Melisa |
-| 505 | 395 | Hector |
+| 475 | 415 | Firebone |
+| 476 | 415 | Jennifer Lalk |
+| 477 | 415 | Symmy Norton |
+| 478 | 415 | Emma Danielle Wynn |
+| 479 | 414 | Crystal Poss |
+| 480 | 413 | Travis Bundrum |
+| 481 | 410 | Nicole Good |
+| 482 | 408 | Tia Guile |
+| 483 | 407 | Mona Good |
+| 484 | 407 | Arik DiLorenzo |
+| 485 | 406 | Alyssa Malay |
+| 486 | 406 | Ray Daisy |
+| 487 | 406 | Spunky Linkblock |
+| 488 | 406 | Carolyn McNaughton |
+| 489 | 405 | Kelly Vedder |
+| 490 | 405 | Brittni Lawrence |
+| 491 | 405 | Danielle Pack Lewellen |
+| 492 | 403 | Speedy Spinfit |
+| 493 | 403 | PaiBri |
+| 494 | 402 | Candi Cane |
+| 495 | 402 | Buffy Diane Blake |
+| 496 | 401 | Marilyn Mendoza |
+| 497 | 400 | Tiffany Lewis |
+| 498 | 400 | Jacquelyn Snyder Dumas |
+| 499 | 399 | Logan Duffey |
+| 500 | 399 | Mandeee |
+| 501 | 399 | Po Yee |
+| 502 | 399 | Leah Lynn |
+| 503 | 398 | Mandy Van Laningham Bishop |
+| 504 | 397 | Sltwtrcndrla |
+| 505 | 396 | Melisa |
 | 506 | 395 | Tango Sierra |
-| 507 | 395 | Traci Abern |
-| 508 | 395 | Patrick Ohanlon |
-| 509 | 394 | Justin Stark |
-| 510 | 393 | Nicky Steigerwalt |
-| 511 | 393 | Twisty Tower |
-| 512 | 393 | Elizabeth Henry |
-| 513 | 392 | Sassy Twistbuilder |
-| 514 | 391 | TNGal |
-| 515 | 390 | Hyper Cascade |
-| 516 | 389 | Joanie Swann Ruiter |
-| 517 | 389 | Jumpy Dashpiece |
-| 518 | 388 | Ashley Billiot Rhodes |
+| 507 | 395 | Hector |
+| 508 | 395 | Traci Abern |
+| 509 | 395 | Patrick Ohanlon |
+| 510 | 394 | Justin Stark |
+| 511 | 393 | Nicky Steigerwalt |
+| 512 | 393 | Twisty Tower |
+| 513 | 393 | Elizabeth Henry |
+| 514 | 392 | Sassy Twistbuilder |
+| 515 | 391 | TNGal |
+| 516 | 390 | Hyper Cascade |
+| 517 | 389 | Joanie Swann Ruiter |
+| 518 | 389 | Jumpy Dashpiece |
 | 519 | 388 | Madonna Ash |
 | 520 | 388 | Ariel Gundersen |
-| 521 | 387 | RaeRae |
-| 522 | 387 | Ashley Propst |
-| 523 | 386 | murd3rmous3 |
-| 524 | 386 | Brittney Williams |
-| 525 | 385 | Jennifer Wymer |
+| 521 | 388 | Ashley Billiot Rhodes |
+| 522 | 387 | RaeRae |
+| 523 | 387 | Ashley Propst |
+| 524 | 386 | murd3rmous3 |
+| 525 | 386 | Brittney Williams |
 | 526 | 385 | Pamela Raye |
-| 527 | 385 | Holly Huval |
-| 528 | 384 | Jana Campbell |
-| 529 | 384 | Laura Larsen |
-| 530 | 384 | Amanda Bottorff |
-| 531 | 383 | Loopy Tower |
-| 532 | 383 | Jenna Stahl |
-| 533 | 382 | Wendy Spoor Hof |
-| 534 | 382 | Zesty Zoney |
-| 535 | 382 | Chummy Snapbuilder |
+| 527 | 385 | Jennifer Wymer |
+| 528 | 385 | Holly Huval |
+| 529 | 384 | Amanda Bottorff |
+| 530 | 384 | Jana Campbell |
+| 531 | 384 | Laura Larsen |
+| 532 | 383 | Loopy Tower |
+| 533 | 383 | Jenna Stahl |
+| 534 | 382 | Wendy Spoor Hof |
+| 535 | 382 | Zesty Zoney |
 | 536 | 382 | Gina Leal |
-| 537 | 382 | Curly Windbreaker |
-| 538 | 380 | Michelle Jones |
-| 539 | 380 | Zappy Liney |
-| 540 | 377 | Wacky Curve |
-| 541 | 377 | Firebone |
+| 537 | 382 | Chummy Snapbuilder |
+| 538 | 382 | Curly Windbreaker |
+| 539 | 380 | Michelle Jones |
+| 540 | 380 | Zappy Liney |
+| 541 | 377 | Wacky Curve |
 | 542 | 376 | Ava Speedy |
 | 543 | 376 | andee |
 | 544 | 373 | Jerry L Morales |

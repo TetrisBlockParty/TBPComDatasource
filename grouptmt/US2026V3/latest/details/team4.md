@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 19:16:47 UTC
+# Standings for team4 as of 2026-06-10 19:17:23 UTC
 
 **Total Participants:** 2364
 
@@ -225,13 +225,13 @@
 | 217 | 693 | Lush Fitblock |
 | 218 | 691 | Danielle Mitchell |
 | 219 | 688 | Katie Lynn Petit |
-| 220 | 686 | Jennifer Ellyn Sheets |
-| 221 | 684 | Jackie Miller |
-| 222 | 684 | Caitlyn Wang |
-| 223 | 683 | Malik Thompson |
-| 224 | 682 | Samara Garcia |
-| 225 | 680 | Saucy Wipepiece |
-| 226 | 675 | Snippy Splitter |
+| 220 | 688 | Snippy Splitter |
+| 221 | 686 | Jennifer Ellyn Sheets |
+| 222 | 684 | Jackie Miller |
+| 223 | 684 | Caitlyn Wang |
+| 224 | 683 | Malik Thompson |
+| 225 | 682 | Samara Garcia |
+| 226 | 680 | Saucy Wipepiece |
 | 227 | 675 | Iforget |
 | 228 | 672 | Cheery Risegrid |
 | 229 | 670 | Beth Belanger |
