@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:55:22 UTC
+# Standings for team4 as of 2026-06-10 10:56:41 UTC
 
 **Total Participants:** 2310
 
@@ -1434,10 +1434,10 @@
 | 1426 | 74 | Beck Samoney |
 | 1427 | 73 | Toyag |
 | 1428 | 73 | Brooke Limpf |
-| 1429 | 73 | Fkvj |
-| 1430 | 73 | Athena Hunt |
-| 1431 | 73 | Snazzy Balanceblock |
-| 1432 | 73 | sleepy head |
+| 1429 | 73 | Athena Hunt |
+| 1430 | 73 | Fkvj |
+| 1431 | 73 | sleepy head |
+| 1432 | 73 | Snazzy Balanceblock |
 | 1433 | 73 | Jean Crooks |
 | 1434 | 73 | Jacqueline Couillard Jaeger |
 | 1435 | 73 | Yseoj M. Zurc |
@@ -1463,8 +1463,8 @@
 | 1455 | 70 | Syreeta B Robinson |
 | 1456 | 70 | Felicia May Langley |
 | 1457 | 70 | Michelle Coleman |
-| 1458 | 69 | mike b |
-| 1459 | 69 | Felicity Fahrentin |
+| 1458 | 69 | Felicity Fahrentin |
+| 1459 | 69 | mike b |
 | 1460 | 69 | Mighty Liney |
 | 1461 | 69 | Derrek Lee |
 | 1462 | 69 | Tina Lopez |
@@ -1474,8 +1474,8 @@
 | 1466 | 68 | Bold Snapper |
 | 1467 | 68 | Kelley Shoop |
 | 1468 | 68 | Keys Tome |
-| 1469 | 68 | Kelly Kabelac Loomis |
-| 1470 | 68 | Renée Neè Neè |
+| 1469 | 68 | Renée Neè Neè |
+| 1470 | 68 | Kelly Kabelac Loomis |
 | 1471 | 68 | Anna Griego |
 | 1472 | 68 | Rizzler26 |
 | 1473 | 67 | Jamie Wilson |
@@ -1554,32 +1554,32 @@
 | 1546 | 60 | Jessica Kelly |
 | 1547 | 60 | Jennie |
 | 1548 | 60 | Sherri G Davis |
-| 1549 | 60 | Brittany LeGros |
+| 1549 | 60 | Natalia Stone |
 | 1550 | 60 | Shawny Schlogel |
-| 1551 | 60 | Derkesha Huntley |
-| 1552 | 60 | Brandi Wacker |
-| 1553 | 60 | Kasondra Cooper |
-| 1554 | 60 | Dizzy Builderfit |
-| 1555 | 60 | Jeffrey Mann |
-| 1556 | 59 | Chyla Burns |
-| 1557 | 59 | Remii |
-| 1558 | 59 | Geneva Mixon |
-| 1559 | 59 | Thomas Cassell |
-| 1560 | 59 | Denisha Schinell Boyd |
-| 1561 | 58 | FuzzyBunny |
-| 1562 | 58 | Kalisha Monique Wright |
-| 1563 | 58 | courtt |
-| 1564 | 58 | Gabby |
-| 1565 | 58 | Epic Curver |
-| 1566 | 58 | Grace Mariie |
-| 1567 | 58 | Peachy Grabber |
-| 1568 | 58 | Yaya Selbor |
-| 1569 | 58 | Jessica Sanchez |
-| 1570 | 58 | Rebecca Dix |
-| 1571 | 58 | Chris Robertson |
-| 1572 | 58 | Oscar Flores |
-| 1573 | 58 | Adrian Cruz |
-| 1574 | 58 | Natalia Stone |
+| 1551 | 60 | Brittany LeGros |
+| 1552 | 60 | Derkesha Huntley |
+| 1553 | 60 | Brandi Wacker |
+| 1554 | 60 | Kasondra Cooper |
+| 1555 | 60 | Dizzy Builderfit |
+| 1556 | 60 | Jeffrey Mann |
+| 1557 | 59 | Chyla Burns |
+| 1558 | 59 | Remii |
+| 1559 | 59 | Geneva Mixon |
+| 1560 | 59 | Thomas Cassell |
+| 1561 | 59 | Denisha Schinell Boyd |
+| 1562 | 58 | FuzzyBunny |
+| 1563 | 58 | Kalisha Monique Wright |
+| 1564 | 58 | courtt |
+| 1565 | 58 | Gabby |
+| 1566 | 58 | Epic Curver |
+| 1567 | 58 | Grace Mariie |
+| 1568 | 58 | Peachy Grabber |
+| 1569 | 58 | Yaya Selbor |
+| 1570 | 58 | Jessica Sanchez |
+| 1571 | 58 | Rebecca Dix |
+| 1572 | 58 | Chris Robertson |
+| 1573 | 58 | Oscar Flores |
+| 1574 | 58 | Adrian Cruz |
 | 1575 | 57 | Todd Kirkland |
 | 1576 | 57 | Goofy Twistpiece |
 | 1577 | 57 | Rebecca Cook |
