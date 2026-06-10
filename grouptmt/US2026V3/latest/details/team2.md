@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:26:44 UTC
+# Standings for team2 as of 2026-06-10 08:27:23 UTC
 
 **Total Participants:** 2711
 
@@ -42,7 +42,7 @@
 | 34 | 6001 | Danni Campa |
 | 35 | 5944 | Debra Henry |
 | 36 | 5765 | Alexia Reagan |
-| 37 | 5600 | Mellzey |
+| 37 | 5636 | Mellzey |
 | 38 | 5527 | Cassie Swart |
 | 39 | 5410 | Logan Basham |
 | 40 | 5409 | Angel Welch |
@@ -917,18 +917,18 @@
 | 909 | 200 | Tammy Botkin |
 | 910 | 199 | KCBlocker |
 | 911 | 199 | Heather Nicole |
-| 912 | 199 | Silly Chiseler |
-| 913 | 199 | Heather Vircik |
-| 914 | 198 | Shiny Matchpiece |
-| 915 | 198 | Frothy Roll |
-| 916 | 198 | Rocroc mo |
-| 917 | 198 | Smiley Cornerfall |
-| 918 | 197 | William Dowd |
-| 919 | 197 | Jessica Perkins |
-| 920 | 196 | Dayna Messer-Thelen |
-| 921 | 196 | Tiffany Powell |
-| 922 | 196 | Rebekah Holland |
-| 923 | 196 | Rachel Wooldridge |
+| 912 | 199 | Rachel Wooldridge |
+| 913 | 199 | Silly Chiseler |
+| 914 | 199 | Heather Vircik |
+| 915 | 198 | Shiny Matchpiece |
+| 916 | 198 | Frothy Roll |
+| 917 | 198 | Rocroc mo |
+| 918 | 198 | Smiley Cornerfall |
+| 919 | 197 | William Dowd |
+| 920 | 197 | Jessica Perkins |
+| 921 | 196 | Dayna Messer-Thelen |
+| 922 | 196 | Tiffany Powell |
+| 923 | 196 | Rebekah Holland |
 | 924 | 195 | jme |
 | 925 | 195 | C.L. Deslongchamp |
 | 926 | 195 | Silly Clicker |

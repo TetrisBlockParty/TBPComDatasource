@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:26:44 UTC
+# Standings for team4 as of 2026-06-10 08:27:23 UTC
 
 **Total Participants:** 2296
 
@@ -54,7 +54,7 @@
 | 46 | 3400 | Kathy Brookins |
 | 47 | 3323 | Carly Stempien |
 | 48 | 3150 | Destiny Dyer |
-| 49 | 3104 | Wendy Zentz |
+| 49 | 3134 | Wendy Zentz |
 | 50 | 3100 | Posey Smith |
 | 51 | 2960 | Alicia Cook |
 | 52 | 2839 | 626 |
@@ -225,7 +225,7 @@
 | 217 | 637 | QueenLi86 |
 | 218 | 634 | Tyson Stroppel |
 | 219 | 632 | Baysoph |
-| 220 | 629 | Kelly Howland |
+| 220 | 630 | Kelly Howland |
 | 221 | 627 | Erika Seaton |
 | 222 | 626 | Lush Fitblock |
 | 223 | 623 | Leslie Ann Carter |
@@ -833,8 +833,8 @@
 | 825 | 180 | Michelle Sager |
 | 826 | 180 | Urplan |
 | 827 | 180 | Pebbles Gonzalez |
-| 828 | 180 | Worley’s Wife |
-| 829 | 180 | Dominique Summers Tah-tah |
+| 828 | 180 | Dominique Summers Tah-tah |
+| 829 | 180 | Worley’s Wife |
 | 830 | 179 | Diqthot |
 | 831 | 179 | Dandy Linkgrid |
 | 832 | 179 | Shirley Williams |
@@ -966,12 +966,12 @@
 | 958 | 150 | Tod Jae |
 | 959 | 150 | Breezy Brickfit |
 | 960 | 150 | Kay |
-| 961 | 149 | Bam SwaggSpitter King |
-| 962 | 149 | Snappy Fill |
-| 963 | 149 | Loony Edge |
-| 964 | 149 | Lilo |
-| 965 | 149 | Lori A Hamann |
-| 966 | 149 | Cozy Builderfit |
+| 961 | 150 | Cozy Builderfit |
+| 962 | 149 | Bam SwaggSpitter King |
+| 963 | 149 | Snappy Fill |
+| 964 | 149 | Loony Edge |
+| 965 | 149 | Lilo |
+| 966 | 149 | Lori A Hamann |
 | 967 | 148 | Erica Hardwick |
 | 968 | 148 | Ash |
 | 969 | 148 | Lamont |
@@ -1006,40 +1006,40 @@
 | 998 | 143 | Rebekah Anne Macias |
 | 999 | 143 | Miranda Brown |
 | 1000 | 142 | Clever Blockmatch |
-| 1001 | 141 | Audrianna Skaff |
-| 1002 | 141 | Monkey |
-| 1003 | 141 | Phredda Helene Gavornik |
-| 1004 | 141 | Baby cat |
-| 1005 | 141 | Scott Baum |
-| 1006 | 141 | Aaron Turner |
-| 1007 | 140 | the repo |
-| 1008 | 140 | Jean Yap |
-| 1009 | 140 | Willy Leung |
-| 1010 | 140 | Krista Diaz |
-| 1011 | 140 | Larredo Covington |
-| 1012 | 140 | Stacey Heartful |
-| 1013 | 140 | Aim Georgia Bros Scott |
-| 1014 | 140 | Kris McMahon |
-| 1015 | 140 | Groovy Matchgrid |
-| 1016 | 140 | Glitter |
-| 1017 | 140 | Elizabeth Ann Caro |
-| 1018 | 140 | Heather Brown |
-| 1019 | 140 | Littleshark |
-| 1020 | 140 | skynatda |
-| 1021 | 139 | Cozy Patternbuilder |
-| 1022 | 139 | Melissa Wilson |
-| 1023 | 139 | Gualberto Ramirez |
-| 1024 | 139 | Jonelle Jacobs |
-| 1025 | 139 | Giggy Snapgrid |
-| 1026 | 139 | da1ndonly |
-| 1027 | 139 | Erich EMac McIntosh |
-| 1028 | 138 | Lush Match |
-| 1029 | 138 | Ami Ferguson |
-| 1030 | 138 | Meghan Etchells |
-| 1031 | 138 | Tammy Lasseigne |
-| 1032 | 138 | Sa5siy |
-| 1033 | 138 | Vanessa Torres |
-| 1034 | 138 | Blu |
+| 1001 | 141 | Sa5siy |
+| 1002 | 141 | Audrianna Skaff |
+| 1003 | 141 | Monkey |
+| 1004 | 141 | Phredda Helene Gavornik |
+| 1005 | 141 | Baby cat |
+| 1006 | 141 | Scott Baum |
+| 1007 | 141 | Aaron Turner |
+| 1008 | 140 | the repo |
+| 1009 | 140 | Jean Yap |
+| 1010 | 140 | Willy Leung |
+| 1011 | 140 | Krista Diaz |
+| 1012 | 140 | Larredo Covington |
+| 1013 | 140 | Stacey Heartful |
+| 1014 | 140 | Aim Georgia Bros Scott |
+| 1015 | 140 | Kris McMahon |
+| 1016 | 140 | Groovy Matchgrid |
+| 1017 | 140 | Glitter |
+| 1018 | 140 | Elizabeth Ann Caro |
+| 1019 | 140 | Heather Brown |
+| 1020 | 140 | Littleshark |
+| 1021 | 140 | skynatda |
+| 1022 | 139 | Cozy Patternbuilder |
+| 1023 | 139 | Melissa Wilson |
+| 1024 | 139 | Gualberto Ramirez |
+| 1025 | 139 | Jonelle Jacobs |
+| 1026 | 139 | Giggy Snapgrid |
+| 1027 | 139 | da1ndonly |
+| 1028 | 139 | Erich EMac McIntosh |
+| 1029 | 138 | Lush Match |
+| 1030 | 138 | Ami Ferguson |
+| 1031 | 138 | Meghan Etchells |
+| 1032 | 138 | Tammy Lasseigne |
+| 1033 | 138 | Blu |
+| 1034 | 138 | Vanessa Torres |
 | 1035 | 137 | Amowe |
 | 1036 | 137 | TheazO |
 | 1037 | 137 | Susan Mary Kelley |
@@ -1221,15 +1221,15 @@
 | 1213 | 104 | Ashie |
 | 1214 | 104 | Michael J A Moore |
 | 1215 | 104 | Mandy Grant |
-| 1216 | 103 | Archer Family Mayhem |
-| 1217 | 103 | Lizette Chaires |
-| 1218 | 103 | ShortStackz Jones |
-| 1219 | 103 | Mari Isaac |
-| 1220 | 102 | Kristen Hall |
-| 1221 | 102 | Swanky Matchfit |
-| 1222 | 102 | Hasty Slamdrop |
-| 1223 | 102 | Hethyheth |
-| 1224 | 101 | Fancy Gridroll |
+| 1216 | 103 | Fancy Gridroll |
+| 1217 | 103 | Archer Family Mayhem |
+| 1218 | 103 | Lizette Chaires |
+| 1219 | 103 | ShortStackz Jones |
+| 1220 | 103 | Mari Isaac |
+| 1221 | 102 | Kristen Hall |
+| 1222 | 102 | Swanky Matchfit |
+| 1223 | 102 | Hasty Slamdrop |
+| 1224 | 102 | Hethyheth |
 | 1225 | 101 | Fancy Riserfit |
 | 1226 | 101 | FUNBAT |
 | 1227 | 101 | Peterson Cottontail |
