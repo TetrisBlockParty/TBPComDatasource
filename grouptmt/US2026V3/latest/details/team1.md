@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 03:50:46 UTC
+# Standings for team1 as of 2026-06-10 03:51:24 UTC
 
 **Total Participants:** 2203
 
@@ -21,7 +21,7 @@
 | 13 | 9340 | Debbie Carswell |
 | 14 | 8423 | Tracy Cohen |
 | 15 | 7886 | Cassidy Butler |
-| 16 | 7725 | Cozy Edge |
+| 16 | 7730 | Cozy Edge |
 | 17 | 7001 | Ebo Got-Time |
 | 18 | 6447 | Cool Bridger |
 | 19 | 6121 | Chandler Spencer |
@@ -79,11 +79,11 @@
 | 71 | 1726 | Todd C. Clemens |
 | 72 | 1691 | Eric Mcgaughy |
 | 73 | 1660 | Angela R Wilson |
-| 74 | 1623 | Chenell Gillard |
-| 75 | 1616 | Jessica Roberts |
-| 76 | 1581 | Holly Jolly |
-| 77 | 1580 | MamaBear |
-| 78 | 1575 | Shellzb Roberts |
+| 74 | 1625 | Shellzb Roberts |
+| 75 | 1623 | Chenell Gillard |
+| 76 | 1616 | Jessica Roberts |
+| 77 | 1581 | Holly Jolly |
+| 78 | 1580 | MamaBear |
 | 79 | 1572 | Danielle DeLozier Plesec |
 | 80 | 1513 | Sanjuro |
 | 81 | 1482 | Frisky Fallmatch |
@@ -463,14 +463,14 @@
 | 455 | 314 | Tay |
 | 456 | 313 | Dizzy Dashy |
 | 457 | 312 | Sharee Robinson |
-| 458 | 311 | Amy Villalpando |
-| 459 | 311 | Sarah Steckbauer |
-| 460 | 310 | Yadira Salgado |
+| 458 | 311 | Montego Allen |
+| 459 | 311 | Amy Villalpando |
+| 460 | 311 | Sarah Steckbauer |
 | 461 | 310 | Eric Spencer Whitaker |
-| 462 | 309 | Chris Rogers |
-| 463 | 308 | Montego Allen |
-| 464 | 308 | Twisty Brickfit |
-| 465 | 308 | Tonya Lee Sanders |
+| 462 | 310 | Yadira Salgado |
+| 463 | 309 | Chris Rogers |
+| 464 | 308 | Tonya Lee Sanders |
+| 465 | 308 | Twisty Brickfit |
 | 466 | 308 | Darrel K Pemberton |
 | 467 | 307 | Shakmar |
 | 468 | 307 | Crystal Cheresnowsky |
@@ -569,18 +569,18 @@
 | 561 | 257 | Adrian Harris |
 | 562 | 257 | AnnaM |
 | 563 | 256 | John Spath |
-| 564 | 256 | Dreamzzz |
-| 565 | 255 | Kortney Adams |
-| 566 | 255 | Michelle Peters |
-| 567 | 254 | Brittany Sara Heldwein |
+| 564 | 256 | Monica Fields |
+| 565 | 256 | Dreamzzz |
+| 566 | 255 | Kortney Adams |
+| 567 | 255 | Michelle Peters |
 | 568 | 254 | Dorian Griffin |
-| 569 | 254 | Ashlie Mo |
-| 570 | 253 | Monica Fields |
+| 569 | 254 | Brittany Sara Heldwein |
+| 570 | 254 | Ashlie Mo |
 | 571 | 252 | Mary Phillippi Blanton |
-| 572 | 252 | Kimberly Anderson |
-| 573 | 252 | Donna Payne |
-| 574 | 252 | Shakuria Cortia Burney |
-| 575 | 252 | Koreen Johnson-Woolford |
+| 572 | 252 | Koreen Johnson-Woolford |
+| 573 | 252 | Kimberly Anderson |
+| 574 | 252 | Donna Payne |
+| 575 | 252 | Shakuria Cortia Burney |
 | 576 | 252 | Lazy Tiltpiece |
 | 577 | 251 | Casey Chapman |
 | 578 | 251 | Taz Ballard |
@@ -588,8 +588,8 @@
 | 580 | 250 | Rufus |
 | 581 | 249 | Fina McKinnis |
 | 582 | 249 | Ciera Peace |
-| 583 | 248 | Soubletzy |
-| 584 | 248 | Carla |
+| 583 | 248 | Carla |
+| 584 | 248 | Soubletzy |
 | 585 | 247 | Dede Tate |
 | 586 | 247 | Courtney Cicoria |
 | 587 | 246 | Lilly Brown |
@@ -795,27 +795,27 @@
 | 787 | 179 | Naee Bee |
 | 788 | 179 | Cheery Swiper |
 | 789 | 179 | Kike Lua |
-| 790 | 179 | Keith Johnson |
-| 791 | 179 | Melanin Monroe-Dandridge |
-| 792 | 178 | MrsDontPlay |
-| 793 | 178 | TRUBBLE45 |
-| 794 | 178 | Jjhandsome |
-| 795 | 178 | Krista McNair |
-| 796 | 177 | Tina Blessed Cage |
-| 797 | 177 | Christopher L Crites |
-| 798 | 177 | Angela Kitchens |
-| 799 | 177 | QueenShay AllGood |
-| 800 | 176 | Terrie |
-| 801 | 176 | Squaw Ki Ng |
+| 790 | 179 | Melanin Monroe-Dandridge |
+| 791 | 179 | Keith Johnson |
+| 792 | 178 | TRUBBLE45 |
+| 793 | 178 | Jjhandsome |
+| 794 | 178 | Krista McNair |
+| 795 | 178 | Maxine Williams |
+| 796 | 178 | MrsDontPlay |
+| 797 | 177 | Tina Blessed Cage |
+| 798 | 177 | Christopher L Crites |
+| 799 | 177 | Angela Kitchens |
+| 800 | 177 | QueenShay AllGood |
+| 801 | 176 | Terrie |
 | 802 | 176 | Alexis Alexander |
-| 803 | 176 | LaSharmeika Fancher |
-| 804 | 176 | Frisky Gridder |
-| 805 | 176 | Callie Mae |
-| 806 | 176 | Crystal Garay |
-| 807 | 175 | Tiffany Jean Hinson |
+| 803 | 176 | Squaw Ki Ng |
+| 804 | 176 | LaSharmeika Fancher |
+| 805 | 176 | Frisky Gridder |
+| 806 | 176 | Callie Mae |
+| 807 | 176 | Crystal Garay |
 | 808 | 175 | DaemahnFriday |
-| 809 | 175 | Angie Smith |
-| 810 | 175 | Maxine Williams |
+| 809 | 175 | Tiffany Jean Hinson |
+| 810 | 175 | Angie Smith |
 | 811 | 175 | Xana Zania Bopp |
 | 812 | 175 | Christina Singleton |
 | 813 | 175 | Sherry D Singleton |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 03:50:46 UTC
+# Standings for team2 as of 2026-06-10 03:51:24 UTC
 
 **Total Participants:** 2673
 
@@ -361,12 +361,12 @@
 | 353 | 490 | Kay |
 | 354 | 489 | Suki Jacobs |
 | 355 | 488 | Goofy Gridclear |
-| 356 | 486 | Jeanna Mendez |
-| 357 | 486 | MUMBLES |
-| 358 | 485 | Jenn |
-| 359 | 483 | Earline Dupuy Bordelon |
-| 360 | 482 | Monee Stronger |
-| 361 | 481 | Aurora June Brock |
+| 356 | 487 | Aurora June Brock |
+| 357 | 486 | Jeanna Mendez |
+| 358 | 486 | MUMBLES |
+| 359 | 485 | Jenn |
+| 360 | 483 | Earline Dupuy Bordelon |
+| 361 | 482 | Monee Stronger |
 | 362 | 481 | Kim Hunt |
 | 363 | 480 | Jacob Carpenter |
 | 364 | 480 | Physhie |
