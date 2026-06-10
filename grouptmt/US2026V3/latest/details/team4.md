@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 16:32:45 UTC
+# Standings for team4 as of 2026-06-10 16:33:23 UTC
 
 **Total Participants:** 2344
 
@@ -161,8 +161,8 @@
 | 153 | 970 | Kazrin Douglass |
 | 154 | 952 | Jessi Goodwin |
 | 155 | 952 | Alala.Cersei |
-| 156 | 950 | Joyce Myers |
-| 157 | 950 | Nicole Peoples |
+| 156 | 950 | Nicole Peoples |
+| 157 | 950 | Joyce Myers |
 | 158 | 941 | Cranky Towerbuilder |
 | 159 | 933 | Daryn Elliott |
 | 160 | 920 | DexterDobbins |
@@ -176,12 +176,12 @@
 | 168 | 877 | Hwanger Land |
 | 169 | 864 | adrian |
 | 170 | 859 | George Palacios |
-| 171 | 850 | Shiny Dashy |
-| 172 | 850 | Genag |
+| 171 | 850 | Genag |
+| 172 | 850 | Shiny Dashy |
 | 173 | 848 | Gigglycat |
 | 174 | 847 | Christy Beezley-Forbush |
-| 175 | 841 | Pepone Pepe |
-| 176 | 841 | Gerald Lew |
+| 175 | 841 | Gerald Lew |
+| 176 | 841 | Pepone Pepe |
 | 177 | 834 | Lynn Grimes |
 | 178 | 832 | Lori Stembridge |
 | 179 | 830 | Kitsune Bi |
@@ -220,8 +220,8 @@
 | 212 | 696 | Spicy Chicken |
 | 213 | 687 | Leslie Ann Carter |
 | 214 | 686 | Jennifer Ellyn Sheets |
-| 215 | 684 | Jackie Miller |
-| 216 | 684 | Caitlyn Wang |
+| 215 | 684 | Caitlyn Wang |
+| 216 | 684 | Jackie Miller |
 | 217 | 684 | Shannon Rivera |
 | 218 | 683 | Malik Thompson |
 | 219 | 680 | Saucy Wipepiece |
@@ -239,8 +239,8 @@
 | 231 | 657 | Jenn Norcross |
 | 232 | 657 | Tyson Stroppel |
 | 233 | 653 | Laguya |
-| 234 | 651 | Dayna Arthurs |
-| 235 | 651 | Jewelz |
+| 234 | 651 | Jewelz |
+| 235 | 651 | Dayna Arthurs |
 | 236 | 644 | Krysten Danielle Richard |
 | 237 | 644 | Yesenia Castro Monreal |
 | 238 | 641 | Waxboss |
@@ -274,8 +274,8 @@
 | 266 | 572 | Bean |
 | 267 | 571 | Shanna Fragen |
 | 268 | 568 | Breezy Cascadeclear |
-| 269 | 568 | Stephanie Myers |
-| 270 | 568 | Nicole |
+| 269 | 568 | Nicole |
+| 270 | 568 | Stephanie Myers |
 | 271 | 566 | Jackie Jackson |
 | 272 | 564 | Drh4090 |
 | 273 | 561 | Danny Ortiz |
@@ -283,8 +283,8 @@
 | 275 | 555 | Vicki Adams |
 | 276 | 554 | Merritt Brandt |
 | 277 | 553 | Joseph Hunter |
-| 278 | 550 | Fran Aaron-Ring |
-| 279 | 550 | Maria Castillo |
+| 278 | 550 | Maria Castillo |
+| 279 | 550 | Fran Aaron-Ring |
 | 280 | 545 | Betsy Froemming |
 | 281 | 544 | Piece of Cake |
 | 282 | 542 | Tipsy Zonebuilder |
@@ -304,13 +304,13 @@
 | 296 | 508 | Hen |
 | 297 | 508 | Melika Zeheb |
 | 298 | 506 | JuicyJuice |
-| 299 | 505 | Sassy Rollpiece |
-| 300 | 505 | Patrick Alley |
+| 299 | 505 | Patrick Alley |
+| 300 | 505 | Sassy Rollpiece |
 | 301 | 503 | Chirpy Snapclear |
 | 302 | 500 | Shy |
 | 303 | 498 | Tasha Suzanne Prisbrey |
-| 304 | 496 | Randy M Hatch |
-| 305 | 496 | jaz |
+| 304 | 496 | jaz |
+| 305 | 496 | Randy M Hatch |
 | 306 | 495 | Andrick |
 | 307 | 495 | Speedy Twistslam |
 | 308 | 489 | Slinky Column |
@@ -322,8 +322,8 @@
 | 314 | 481 | Swanky Brickzone |
 | 315 | 480 | Adam Dickinson |
 | 316 | 478 | Becky McCool |
-| 317 | 477 | Pepper |
-| 318 | 477 | Amandacolle |
+| 317 | 477 | Amandacolle |
+| 318 | 477 | Pepper |
 | 319 | 475 | Troy Zanelli |
 | 320 | 473 | Shanae Taylor |
 | 321 | 472 | Karen Miller |
@@ -333,17 +333,17 @@
 | 325 | 469 | Jeri Anne Stormo-Toman |
 | 326 | 465 | Sarah Perry Cook |
 | 327 | 464 | Tiffany Bunker-Hill |
-| 328 | 462 | Sherry Mooney |
-| 329 | 462 | BusterBear56 |
+| 328 | 462 | BusterBear56 |
+| 329 | 462 | Sherry Mooney |
 | 330 | 462 | Spunky Gridzone |
 | 331 | 461 | Kayla Fuentes |
 | 332 | 460 | Shmeedo |
-| 333 | 460 | Chirpy Link |
+| 333 | 460 | Knijur Callins |
 | 334 | 460 | Holly Wessel |
-| 335 | 460 | Knijur Callins |
-| 336 | 458 | Solace Grace |
-| 337 | 458 | Tipsy Piecebuilder |
-| 338 | 458 | Aisha Estrada |
+| 335 | 460 | Chirpy Link |
+| 336 | 458 | Tipsy Piecebuilder |
+| 337 | 458 | Aisha Estrada |
+| 338 | 458 | Solace Grace |
 | 339 | 456 | EL Booger |
 | 340 | 454 | Jumpy Builderpiece |
 | 341 | 454 | Glitzy Patternbuilder |
@@ -732,8 +732,8 @@
 | 724 | 220 | Mrsjcraw18 |
 | 725 | 220 | Blockcrusher |
 | 726 | 220 | Brandon Bedenbaugh |
-| 727 | 220 | Ashlee Lemus |
-| 728 | 220 | Jay Keating |
+| 727 | 220 | Jay Keating |
+| 728 | 220 | Ashlee Lemus |
 | 729 | 218 | Ayobribri |
 | 730 | 218 | Breezy Wife |
 | 731 | 217 | Trishaann Triplett |
@@ -767,29 +767,29 @@
 | 759 | 210 | Electric Storm |
 | 760 | 210 | Urplan |
 | 761 | 210 | Kimberly Lusk |
-| 762 | 209 | Ashley Mcdonald |
-| 763 | 209 | Weird Cat |
-| 764 | 209 | Sadeha Simpson |
-| 765 | 209 | Snappy Stack |
-| 766 | 209 | Valerie Marrero |
-| 767 | 209 | Ashley Ferguson |
-| 768 | 209 | Bren70 |
-| 769 | 209 | Squiggy |
-| 770 | 209 | Adi Patterson |
-| 771 | 208 | Angela Adamo-Tash |
-| 772 | 208 | Shirley A. Godfrey |
-| 773 | 208 | Dandy Linkgrid |
-| 774 | 208 | Robert Moore |
-| 775 | 207 | LaToya LeBlanc |
-| 776 | 207 | Jasmine Turner |
-| 777 | 207 | Ashley DuVall |
-| 778 | 206 | Cozy Towerpiece |
-| 779 | 206 | Groovy Stacker |
-| 780 | 206 | Lizzzzzz |
-| 781 | 206 | Miguel Teixeira |
-| 782 | 206 | Nessa Smith |
-| 783 | 206 | Sandy Daye |
-| 784 | 205 | Cozy Patternbuilder |
+| 762 | 210 | Cozy Patternbuilder |
+| 763 | 209 | Squiggy |
+| 764 | 209 | Adi Patterson |
+| 765 | 209 | Ashley Mcdonald |
+| 766 | 209 | Weird Cat |
+| 767 | 209 | Sadeha Simpson |
+| 768 | 209 | Snappy Stack |
+| 769 | 209 | Valerie Marrero |
+| 770 | 209 | Ashley Ferguson |
+| 771 | 209 | Bren70 |
+| 772 | 208 | Angela Adamo-Tash |
+| 773 | 208 | Shirley A. Godfrey |
+| 774 | 208 | Dandy Linkgrid |
+| 775 | 208 | Robert Moore |
+| 776 | 207 | LaToya LeBlanc |
+| 777 | 207 | Jasmine Turner |
+| 778 | 207 | Ashley DuVall |
+| 779 | 206 | Cozy Towerpiece |
+| 780 | 206 | Groovy Stacker |
+| 781 | 206 | Lizzzzzz |
+| 782 | 206 | Miguel Teixeira |
+| 783 | 206 | Nessa Smith |
+| 784 | 206 | Sandy Daye |
 | 785 | 205 | Kristine Hj Han |
 | 786 | 205 | David Kirschner |
 | 787 | 205 | MrsAddams724 |
@@ -858,8 +858,8 @@
 | 850 | 190 | Natalie Ohrtman Strand |
 | 851 | 190 | Layne Davis |
 | 852 | 190 | Monica Shupe |
-| 853 | 190 | TeQuita Jennings |
-| 854 | 190 | Pickles |
+| 853 | 190 | Pickles |
+| 854 | 190 | TeQuita Jennings |
 | 855 | 189 | Hilarie Detweiler |
 | 856 | 188 | Erika Rubio |
 | 857 | 187 | Alicia Blunt |
@@ -883,10 +883,10 @@
 | 875 | 180 | Rodger Lines |
 | 876 | 180 | Krista Diaz |
 | 877 | 180 | George Marshburn |
-| 878 | 180 | Worley’s Wife |
+| 878 | 180 | Silly Rollbuilder |
 | 879 | 180 | Pebbles Gonzalez |
 | 880 | 180 | Mighty Dash |
-| 881 | 180 | Silly Rollbuilder |
+| 881 | 180 | Worley’s Wife |
 | 882 | 179 | Dru Lui |
 | 883 | 179 | Certified Da Don |
 | 884 | 179 | SueSally |
@@ -1053,10 +1053,10 @@
 | 1045 | 142 | Theo Stamps |
 | 1046 | 142 | Jonathan Jackson |
 | 1047 | 142 | Nicole Ambrose |
-| 1048 | 142 | Cheeky Linkpiece |
-| 1049 | 142 | Vanessa Torres |
-| 1050 | 142 | Clever Blockmatch |
-| 1051 | 142 | Blu |
+| 1048 | 142 | Vanessa Torres |
+| 1049 | 142 | Blu |
+| 1050 | 142 | Cheeky Linkpiece |
+| 1051 | 142 | Clever Blockmatch |
 | 1052 | 141 | Monkey |
 | 1053 | 141 | Phredda Helene Gavornik |
 | 1054 | 141 | Baby cat |
@@ -1072,11 +1072,11 @@
 | 1064 | 140 | Aim Georgia Bros Scott |
 | 1065 | 140 | Glitter |
 | 1066 | 140 | Larredo Covington |
-| 1067 | 140 | Willy Leung |
+| 1067 | 140 | skynatda |
 | 1068 | 140 | Marvin Mack |
-| 1069 | 140 | skynatda |
-| 1070 | 140 | Groovy Matchgrid |
-| 1071 | 140 | the repo |
+| 1069 | 140 | Groovy Matchgrid |
+| 1070 | 140 | the repo |
+| 1071 | 140 | Willy Leung |
 | 1072 | 139 | Erich EMac McIntosh |
 | 1073 | 139 | Hayze |
 | 1074 | 139 | Melissa Wilson |
