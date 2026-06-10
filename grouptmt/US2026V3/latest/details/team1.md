@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:18:42 UTC
+# Standings for team1 as of 2026-06-10 18:19:22 UTC
 
 **Total Participants:** 2315
 
@@ -444,54 +444,54 @@
 | 436 | 369 | Guard Up |
 | 437 | 368 | McKayla Owens |
 | 438 | 368 | Jelyfish |
-| 439 | 368 | Tosha Michelle |
-| 440 | 368 | Cortaz Lawrie |
+| 439 | 368 | Cortaz Lawrie |
+| 440 | 368 | Tosha Michelle |
 | 441 | 367 | Stacy Nicole |
-| 442 | 366 | Tajuana Juana'Cee Coleman |
-| 443 | 366 | Shalya Terry |
+| 442 | 366 | Shalya Terry |
+| 443 | 366 | Tajuana Juana'Cee Coleman |
 | 444 | 365 | TieMs BHughez |
 | 445 | 365 | Brittnay Wright |
 | 446 | 364 | Kimberly Anderson |
 | 447 | 363 | Tesiree Cray |
-| 448 | 363 | Jolly Tilefall |
+| 448 | 363 | Brittany Fells |
 | 449 | 363 | Christina Rebecca |
-| 450 | 363 | Brittany Fells |
-| 451 | 362 | Kendra McIntyre |
-| 452 | 362 | SweetByNBy |
-| 453 | 362 | Ryan Runyan |
-| 454 | 361 | C Lo Green |
-| 455 | 361 | Lakiesha Crawford |
+| 450 | 363 | Jolly Tilefall |
+| 451 | 362 | Ryan Runyan |
+| 452 | 362 | Kendra McIntyre |
+| 453 | 362 | SweetByNBy |
+| 454 | 361 | Lakiesha Crawford |
+| 455 | 361 | Tonia Ramos |
 | 456 | 361 | John Staub |
-| 457 | 361 | Tonia Ramos |
-| 458 | 360 | Teri Marie Clayton |
-| 459 | 360 | Peppy Towerbuilder |
-| 460 | 360 | HS Arce |
-| 461 | 359 | John Spath |
-| 462 | 359 | Montréal Mars |
+| 457 | 361 | C Lo Green |
+| 458 | 360 | HS Arce |
+| 459 | 360 | Teri Marie Clayton |
+| 460 | 360 | Peppy Towerbuilder |
+| 461 | 359 | Montréal Mars |
+| 462 | 359 | John Spath |
 | 463 | 359 | Amy Villalpando |
 | 464 | 358 | Tori Carter |
 | 465 | 357 | Manda Allen |
-| 466 | 356 | Nate Myers |
-| 467 | 356 | Haley Bell |
+| 466 | 356 | Haley Bell |
+| 467 | 356 | Nate Myers |
 | 468 | 355 | De'Nell Edwards |
 | 469 | 354 | Carolyn Delphie |
 | 470 | 354 | Amy Lynn Leifheit |
-| 471 | 352 | Jessie N Michael Silvers |
-| 472 | 352 | Asha Langford |
-| 473 | 351 | Kimberly Linares Hernandez |
-| 474 | 350 | SnazzyIvy |
-| 475 | 350 | Daddy |
-| 476 | 347 | LiyaSkye |
-| 477 | 344 | EvaLynn NeCole |
-| 478 | 343 | Kimmie Gargano |
-| 479 | 343 | Heather Wilson |
-| 480 | 342 | Marsha Earl |
-| 481 | 342 | Crystal Cheresnowsky |
+| 471 | 352 | Asha Langford |
+| 472 | 352 | Jessie N Michael Silvers |
+| 473 | 351 | Alivia Dove |
+| 474 | 351 | Kimberly Linares Hernandez |
+| 475 | 350 | SnazzyIvy |
+| 476 | 350 | Daddy |
+| 477 | 347 | LiyaSkye |
+| 478 | 344 | EvaLynn NeCole |
+| 479 | 343 | Kimmie Gargano |
+| 480 | 343 | Heather Wilson |
+| 481 | 342 | Marsha Earl |
 | 482 | 342 | Ashley Monet Terrell |
-| 483 | 341 | The DUBZ |
-| 484 | 340 | Abby |
-| 485 | 339 | Shanns |
-| 486 | 339 | Alivia Dove |
+| 483 | 342 | Crystal Cheresnowsky |
+| 484 | 341 | The DUBZ |
+| 485 | 340 | Abby |
+| 486 | 339 | Shanns |
 | 487 | 338 | Twisty Brickfit |
 | 488 | 338 | Daniel Santana |
 | 489 | 337 | Gbnola |
@@ -617,56 +617,56 @@
 | 609 | 272 | wmedina67 |
 | 610 | 272 | Felicia Dungey |
 | 611 | 270 | Jen Hallin |
-| 612 | 269 | Stephanie L Jeffries Moultrie |
-| 613 | 269 | PSD |
+| 612 | 269 | PSD |
+| 613 | 269 | Stephanie L Jeffries Moultrie |
 | 614 | 269 | RylonJones |
 | 615 | 268 | Monica Tovar |
-| 616 | 267 | Adrian Harris |
-| 617 | 267 | Dana Hawes |
-| 618 | 266 | Stephanie Ellis |
-| 619 | 266 | Chris Holland |
-| 620 | 266 | BB |
+| 616 | 267 | Dana Hawes |
+| 617 | 267 | Adrian Harris |
+| 618 | 266 | BB |
+| 619 | 266 | Stephanie Ellis |
+| 620 | 266 | Chris Holland |
 | 621 | 265 | SceneGreenz Wali |
 | 622 | 265 | Kortney Adams |
 | 623 | 265 | Katrina Ramey |
 | 624 | 264 | Donna Payne |
 | 625 | 264 | Juan Santiago |
 | 626 | 263 | Kim Holzmiller |
-| 627 | 262 | Clipzby |
+| 627 | 263 | Ta'Kaiyah M. Spann |
 | 628 | 262 | Melanin Monroe-Dandridge |
-| 629 | 261 | Shannon Carriger |
-| 630 | 260 | Carolyn Smith |
-| 631 | 260 | Lester Malone |
-| 632 | 260 | Ashley Danielle |
-| 633 | 260 | Nisha Sunshine Jenkins |
-| 634 | 260 | Spotlight |
-| 635 | 259 | Blocksy |
-| 636 | 258 | Kala Miller |
+| 629 | 262 | Clipzby |
+| 630 | 261 | Shannon Carriger |
+| 631 | 260 | Nisha Sunshine Jenkins |
+| 632 | 260 | Spotlight |
+| 633 | 260 | Carolyn Smith |
+| 634 | 260 | Lester Malone |
+| 635 | 260 | Ashley Danielle |
+| 636 | 259 | Blocksy |
 | 637 | 258 | Jose Rodriguez |
-| 638 | 258 | Stronger Wiser Better |
-| 639 | 257 | Seddrick |
-| 640 | 257 | Darrel Pemberton |
-| 641 | 256 | Douglas Price |
-| 642 | 256 | Anastasia |
-| 643 | 256 | Dannie |
-| 644 | 256 | Monica Fields |
-| 645 | 255 | Mathew Trudell |
-| 646 | 254 | Christy Quick |
-| 647 | 254 | Brittany Sara Heldwein |
+| 638 | 258 | Kala Miller |
+| 639 | 258 | Stronger Wiser Better |
+| 640 | 257 | Seddrick |
+| 641 | 257 | Darrel Pemberton |
+| 642 | 256 | Douglas Price |
+| 643 | 256 | Anastasia |
+| 644 | 256 | Dannie |
+| 645 | 256 | Monica Fields |
+| 646 | 255 | Mathew Trudell |
+| 647 | 254 | Christy Quick |
 | 648 | 254 | Dorian Griffin |
-| 649 | 254 | Cheryl Miller |
-| 650 | 253 | Nyhlah Patterson |
-| 651 | 253 | Vontesha Kidd |
-| 652 | 252 | Lazy Tiltpiece |
-| 653 | 252 | Shakuria Cortia Burney |
-| 654 | 251 | Chris Nelson |
-| 655 | 251 | meatballs |
-| 656 | 251 | Taz Ballard |
-| 657 | 250 | Rufus |
-| 658 | 250 | Tony Pizzas |
-| 659 | 249 | Mrs.Ann |
-| 660 | 249 | Fina McKinnis |
-| 661 | 248 | Ta'Kaiyah M. Spann |
+| 649 | 254 | Brittany Sara Heldwein |
+| 650 | 254 | Cheryl Miller |
+| 651 | 253 | Nyhlah Patterson |
+| 652 | 253 | Vontesha Kidd |
+| 653 | 252 | Lazy Tiltpiece |
+| 654 | 252 | Shakuria Cortia Burney |
+| 655 | 251 | Chris Nelson |
+| 656 | 251 | meatballs |
+| 657 | 251 | Taz Ballard |
+| 658 | 250 | Rufus |
+| 659 | 250 | Tony Pizzas |
+| 660 | 249 | Mrs.Ann |
+| 661 | 249 | Fina McKinnis |
 | 662 | 248 | Carla |
 | 663 | 247 | Tyler |
 | 664 | 247 | Courtney Cicoria |
