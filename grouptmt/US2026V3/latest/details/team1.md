@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:14:46 UTC
+# Standings for team1 as of 2026-06-10 11:15:23 UTC
 
 **Total Participants:** 2260
 
@@ -60,7 +60,7 @@
 | 52 | 2174 | Robyn Caldwell |
 | 53 | 2145 | Brian Bohanon II |
 | 54 | 2138 | Linzie Marie |
-| 55 | 2131 | Chris Caniglia |
+| 55 | 2136 | Chris Caniglia |
 | 56 | 2121 | Cherry Rose |
 | 57 | 2106 | Shellzb Roberts |
 | 58 | 2082 | D'Andra Stewart |
@@ -181,10 +181,10 @@
 | 173 | 813 | Keke Ferguson |
 | 174 | 808 | Taylor Evelyn |
 | 175 | 803 | Big Tina |
-| 176 | 788 | Zappy Riser |
-| 177 | 786 | Novaa |
-| 178 | 786 | Eugina Slater |
-| 179 | 778 | Gael Quintana |
+| 176 | 790 | Gael Quintana |
+| 177 | 788 | Zappy Riser |
+| 178 | 786 | Novaa |
+| 179 | 786 | Eugina Slater |
 | 180 | 776 | Ann White |
 | 181 | 767 | GrkGdess |
 | 182 | 764 | Chantelle Lee |
@@ -211,8 +211,8 @@
 | 203 | 695 | Jamal Itzjusmall Chambers |
 | 204 | 692 | Chirpy Corner |
 | 205 | 691 | Nobles Brandon |
-| 206 | 690 | Genne Scott |
-| 207 | 690 | boogeywoogey |
+| 206 | 690 | boogeywoogey |
+| 207 | 690 | Genne Scott |
 | 208 | 684 | Tammye Turner |
 | 209 | 684 | Coco |
 | 210 | 680 | Charletha Williams |
@@ -358,12 +358,12 @@
 | 350 | 430 | akosua |
 | 351 | 429 | Koi |
 | 352 | 428 | Brand Nu |
-| 353 | 424 | Sarah Barnum |
-| 354 | 423 | Christian Pham |
-| 355 | 419 | Dai Bo |
-| 356 | 414 | Smiley Clearpiece |
-| 357 | 414 | Brenda Malachi-butler |
-| 358 | 413 | Reginald Frank |
+| 353 | 426 | Reginald Frank |
+| 354 | 424 | Sarah Barnum |
+| 355 | 423 | Christian Pham |
+| 356 | 419 | Dai Bo |
+| 357 | 414 | Smiley Clearpiece |
+| 358 | 414 | Brenda Malachi-butler |
 | 359 | 411 | MamushiOh |
 | 360 | 410 | Salim Thugger |
 | 361 | 409 | Dacia Hicks |
@@ -459,10 +459,10 @@
 | 451 | 341 | The DUBZ |
 | 452 | 340 | Peppy Towerbuilder |
 | 453 | 338 | Twisty Brickfit |
-| 454 | 337 | Donnie Withthebody |
-| 455 | 337 | Gbnola |
-| 456 | 337 | Tonia Ramos |
-| 457 | 335 | SweetByNBy |
+| 454 | 338 | SweetByNBy |
+| 455 | 337 | Donnie Withthebody |
+| 456 | 337 | Gbnola |
+| 457 | 337 | Tonia Ramos |
 | 458 | 334 | Emily Wright |
 | 459 | 334 | TBABYJ |
 | 460 | 333 | Heather Wilson |
