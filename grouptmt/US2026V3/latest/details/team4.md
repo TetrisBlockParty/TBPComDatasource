@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:14:46 UTC
+# Standings for team4 as of 2026-06-10 12:15:22 UTC
 
 **Total Participants:** 2316
 
@@ -111,7 +111,7 @@
 | 103 | 1286 | HurkleDurkle88 |
 | 104 | 1285 | Kelly Bernard |
 | 105 | 1273 | MysticMaven |
-| 106 | 1258 | GeorgeButts |
+| 106 | 1261 | GeorgeButts |
 | 107 | 1253 | Hannah Pazar |
 | 108 | 1250 | Snippy Grid |
 | 109 | 1237 | Fancy Crasher |
@@ -125,7 +125,7 @@
 | 117 | 1156 | Dee Wizz |
 | 118 | 1145 | Kristen Wallace |
 | 119 | 1142 | Hardy Fuller |
-| 120 | 1124 | Jesse Olive |
+| 120 | 1136 | Jesse Olive |
 | 121 | 1123 | Jenn Fitzgerald |
 | 122 | 1112 | Phil Peterson |
 | 123 | 1108 | Bri Martin |
@@ -173,26 +173,26 @@
 | 165 | 872 | vag1974 |
 | 166 | 864 | adrian |
 | 167 | 859 | George Palacios |
-| 168 | 850 | Shiny Dashy |
-| 169 | 848 | Gigglycat |
-| 170 | 841 | Pepone Pepe |
-| 171 | 832 | Lori Stembridge |
-| 172 | 830 | Kitsune Bi |
-| 173 | 825 | Thomasena Eady Reid |
-| 174 | 808 | Christy Beezley-Forbush |
-| 175 | 808 | Misty Leigh |
-| 176 | 802 | Dandy Clearfit |
-| 177 | 801 | Izz |
-| 178 | 797 | Lynn Grimes |
-| 179 | 783 | Regina Williams |
-| 180 | 780 | CIRAZYPNOY |
-| 181 | 780 | Capone |
-| 182 | 779 | Tiffany Brooke |
-| 183 | 775 | Baysoph |
-| 184 | 764 | Shocinda Sherwood |
-| 185 | 762 | LastBoi |
-| 186 | 760 | Anthony Magaraci |
-| 187 | 759 | Jumpy Brickline |
+| 168 | 857 | Jumpy Brickline |
+| 169 | 850 | Shiny Dashy |
+| 170 | 848 | Gigglycat |
+| 171 | 841 | Pepone Pepe |
+| 172 | 832 | Lori Stembridge |
+| 173 | 830 | Kitsune Bi |
+| 174 | 825 | Thomasena Eady Reid |
+| 175 | 808 | Christy Beezley-Forbush |
+| 176 | 808 | Misty Leigh |
+| 177 | 802 | Dandy Clearfit |
+| 178 | 801 | Izz |
+| 179 | 797 | Lynn Grimes |
+| 180 | 783 | Regina Williams |
+| 181 | 780 | CIRAZYPNOY |
+| 182 | 780 | Capone |
+| 183 | 779 | Tiffany Brooke |
+| 184 | 775 | Baysoph |
+| 185 | 764 | Shocinda Sherwood |
+| 186 | 762 | LastBoi |
+| 187 | 760 | Anthony Magaraci |
 | 188 | 753 | Anthony Lewis |
 | 189 | 750 | Genag |
 | 190 | 749 | Nikki Fuller Johnson |
@@ -243,13 +243,13 @@
 | 235 | 620 | Saucy Wipepiece |
 | 236 | 618 | Iforget |
 | 237 | 616 | Renee Sapp |
-| 238 | 616 | Toon Up |
-| 239 | 615 | Logan Two-dubs Baker |
-| 240 | 614 | Jacqueline Jackii Ramos |
-| 241 | 613 | Big Dooka |
-| 242 | 607 | Taz |
-| 243 | 606 | Addi JayKay |
-| 244 | 606 | Jackie Miller |
+| 238 | 616 | Jackie Miller |
+| 239 | 616 | Toon Up |
+| 240 | 615 | Logan Two-dubs Baker |
+| 241 | 614 | Jacqueline Jackii Ramos |
+| 242 | 613 | Big Dooka |
+| 243 | 607 | Taz |
+| 244 | 606 | Addi JayKay |
 | 245 | 602 | Spicy Chicken |
 | 246 | 600 | Tina Thomas |
 | 247 | 593 | Vanessa Sykes |
@@ -615,39 +615,39 @@
 | 607 | 255 | Littlebrat |
 | 608 | 254 | Mimi Dominguez |
 | 609 | 254 | Snippy Racker |
-| 610 | 254 | Saucy Brickmatch |
-| 611 | 253 | Arvin Ortega |
-| 612 | 253 | Vonni McLean |
-| 613 | 252 | Ryan Paul Clark-Ramsey |
-| 614 | 251 | Lul Babie |
-| 615 | 250 | Kristal |
-| 616 | 250 | DrC |
-| 617 | 250 | Alexsandra Hill |
-| 618 | 250 | Silly Fallzone |
-| 619 | 250 | Cari Underwood |
-| 620 | 249 | Edward White |
-| 621 | 249 | Brennan Shea Greene |
-| 622 | 249 | Chelsea Guajardo |
-| 623 | 248 | alxhue04 |
-| 624 | 247 | Kennita Cox |
+| 610 | 254 | Zesty Lift |
+| 611 | 254 | Saucy Brickmatch |
+| 612 | 253 | Arvin Ortega |
+| 613 | 253 | Vonni McLean |
+| 614 | 252 | Ryan Paul Clark-Ramsey |
+| 615 | 251 | Lul Babie |
+| 616 | 250 | Kristal |
+| 617 | 250 | DrC |
+| 618 | 250 | Alexsandra Hill |
+| 619 | 250 | Silly Fallzone |
+| 620 | 250 | Cari Underwood |
+| 621 | 249 | Edward White |
+| 622 | 249 | Brennan Shea Greene |
+| 623 | 249 | Chelsea Guajardo |
+| 624 | 248 | alxhue04 |
 | 625 | 247 | Corie A. Brinson |
-| 626 | 247 | aga |
-| 627 | 247 | Shauna Davis |
-| 628 | 247 | Natalie Dillard |
-| 629 | 246 | KingCas |
-| 630 | 246 | Lacie Powers |
-| 631 | 245 | Loretta Hendricks |
-| 632 | 245 | Lovetetris |
-| 633 | 245 | Marcus Fontenot |
-| 634 | 244 | Renita Jordan |
-| 635 | 244 | Lolita Nettles |
+| 626 | 247 | Kennita Cox |
+| 627 | 247 | aga |
+| 628 | 247 | Shauna Davis |
+| 629 | 247 | Natalie Dillard |
+| 630 | 246 | KingCas |
+| 631 | 246 | Lacie Powers |
+| 632 | 245 | Loretta Hendricks |
+| 633 | 245 | Lovetetris |
+| 634 | 245 | Marcus Fontenot |
+| 635 | 244 | Renita Jordan |
 | 636 | 244 | Lisa lisa |
-| 637 | 244 | Zesty Lift |
+| 637 | 244 | Lolita Nettles |
 | 638 | 243 | Brandy Lynn |
 | 639 | 243 | Anna Ryan |
 | 640 | 242 | Redhead girl |
-| 641 | 241 | Memphiago Tenninois |
-| 642 | 241 | Stef |
+| 641 | 241 | Stef |
+| 642 | 241 | Memphiago Tenninois |
 | 643 | 241 | Seraphim Mabry |
 | 644 | 240 | Nerdy Brickster |
 | 645 | 240 | Keke Johnson |
@@ -656,18 +656,18 @@
 | 648 | 239 | Chelle Williams |
 | 649 | 238 | Tara Delay Hill |
 | 650 | 238 | Amanda Snow |
-| 651 | 238 | bribop |
-| 652 | 238 | Shaunna Caldwell |
+| 651 | 238 | Shaunna Caldwell |
+| 652 | 238 | bribop |
 | 653 | 237 | Kelly Miller Williams |
 | 654 | 237 | Erica Pompey |
 | 655 | 237 | Diana Fernandez |
 | 656 | 237 | Donna Bush |
-| 657 | 236 | Bonique Bier |
-| 658 | 236 | JoJo Hutson |
+| 657 | 236 | JoJo Hutson |
+| 658 | 236 | Deana Teck |
 | 659 | 236 | Playful Raccoon |
 | 660 | 236 | Deb 07 |
 | 661 | 236 | Trang Nguyen |
-| 662 | 236 | Deana Teck |
+| 662 | 236 | Bonique Bier |
 | 663 | 234 | Dena Lynn Rogers |
 | 664 | 234 | Paula Renee McCracken |
 | 665 | 232 | MrLoner Stoner |
@@ -1329,34 +1329,34 @@
 | 1321 | 89 | Bon Jovi |
 | 1322 | 89 | Ladybug |
 | 1323 | 89 | Khylee DarDar |
-| 1324 | 88 | Cas Gio |
-| 1325 | 88 | Musky Pits |
-| 1326 | 88 | Tbag |
-| 1327 | 88 | Joe Win |
-| 1328 | 88 | Happy Toast |
-| 1329 | 88 | Ελενη Χολεβα |
-| 1330 | 87 | Audacious |
-| 1331 | 87 | Chipper Hitter |
-| 1332 | 87 | Leslee Bentley DeLong |
-| 1333 | 86 | Luunii |
-| 1334 | 86 | Meela Abdurrab |
-| 1335 | 86 | Alicia Loveless |
-| 1336 | 86 | Rio Rumble |
-| 1337 | 86 | Jodi Messere |
-| 1338 | 85 | Diane Obungu |
-| 1339 | 85 | LuLazer27 |
-| 1340 | 85 | Dee Modest |
-| 1341 | 85 | Sherri Lorent |
-| 1342 | 85 | MelodiousDeez |
-| 1343 | 84 | Tay |
-| 1344 | 84 | Tati |
-| 1345 | 84 | Brittany |
-| 1346 | 84 | Amber Arnold |
-| 1347 | 84 | Cassie N Danica Flaherty |
-| 1348 | 84 | Red |
-| 1349 | 84 | Chelsea Pigg |
-| 1350 | 84 | Ginnie Strate |
-| 1351 | 83 | Natalia Stone |
+| 1324 | 89 | Natalia Stone |
+| 1325 | 88 | Ελενη Χολεβα |
+| 1326 | 88 | Cas Gio |
+| 1327 | 88 | Musky Pits |
+| 1328 | 88 | Tbag |
+| 1329 | 88 | Joe Win |
+| 1330 | 88 | Happy Toast |
+| 1331 | 87 | Audacious |
+| 1332 | 87 | Chipper Hitter |
+| 1333 | 87 | Leslee Bentley DeLong |
+| 1334 | 86 | Luunii |
+| 1335 | 86 | Meela Abdurrab |
+| 1336 | 86 | Alicia Loveless |
+| 1337 | 86 | Rio Rumble |
+| 1338 | 86 | Jodi Messere |
+| 1339 | 85 | Diane Obungu |
+| 1340 | 85 | LuLazer27 |
+| 1341 | 85 | Dee Modest |
+| 1342 | 85 | Sherri Lorent |
+| 1343 | 85 | MelodiousDeez |
+| 1344 | 84 | Tay |
+| 1345 | 84 | Tati |
+| 1346 | 84 | Brittany |
+| 1347 | 84 | Amber Arnold |
+| 1348 | 84 | Cassie N Danica Flaherty |
+| 1349 | 84 | Red |
+| 1350 | 84 | Chelsea Pigg |
+| 1351 | 84 | Ginnie Strate |
 | 1352 | 83 | Steph |
 | 1353 | 83 | Monte Smith |
 | 1354 | 83 | Ryan Luperena |
