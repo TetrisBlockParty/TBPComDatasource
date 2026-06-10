@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 00:46:46 UTC
+# Standings for team2 as of 2026-06-10 00:47:24 UTC
 
 **Total Participants:** 2619
 
@@ -189,9 +189,9 @@
 | 181 | 826 | Jgato |
 | 182 | 825 | Brandon Link |
 | 183 | 823 | Nettrainer |
-| 184 | 813 | Loony Faller |
-| 185 | 811 | AndrewandShela Gornik |
-| 186 | 810 | Tami Kay Williams Watson |
+| 184 | 814 | Tami Kay Williams Watson |
+| 185 | 813 | Loony Faller |
+| 186 | 811 | AndrewandShela Gornik |
 | 187 | 810 | Glitzy Base |
 | 188 | 810 | Zachary Vymislicky |
 | 189 | 809 | Fudgie Pie |
@@ -223,7 +223,7 @@
 | 215 | 736 | Nikki Carter |
 | 216 | 729 | Zarah Kettler |
 | 217 | 728 | Tim Tim |
-| 218 | 725 | Jat |
+| 218 | 728 | Jat |
 | 219 | 724 | Kaylene Rigas |
 | 220 | 722 | Kurt Brown |
 | 221 | 721 | Cool Climber |
@@ -277,9 +277,9 @@
 | 269 | 627 | Pooh |
 | 270 | 626 | Starr Collins |
 | 271 | 624 | Chirpy Grid |
-| 272 | 621 | Pam Bauder Ludwig |
-| 273 | 621 | Chipper Stackbuilder |
-| 274 | 619 | H |
+| 272 | 624 | H |
+| 273 | 621 | Pam Bauder Ludwig |
+| 274 | 621 | Chipper Stackbuilder |
 | 275 | 618 | Spicy Basepiece |
 | 276 | 616 | Lyric Price |
 | 277 | 614 | Steven |
@@ -1191,9 +1191,9 @@
 | 1183 | 130 | Desia Walker |
 | 1184 | 130 | gene15 |
 | 1185 | 130 | Loriane Shumate Griggs |
-| 1186 | 129 | Cuca Perez |
+| 1186 | 129 | Lively Twisterfit |
 | 1187 | 129 | Armando Sabedra |
-| 1188 | 129 | Lively Twisterfit |
+| 1188 | 129 | Cuca Perez |
 | 1189 | 129 | Clever Linkbuilder |
 | 1190 | 129 | jme |
 | 1191 | 129 | Brooke Marie Fox |
@@ -1226,10 +1226,10 @@
 | 1218 | 123 | Chatty |
 | 1219 | 123 | Reggie Ellerbe |
 | 1220 | 123 | sampson |
-| 1221 | 123 | Peppy Piececlear |
-| 1222 | 123 | Kawana Nesbitt |
-| 1223 | 122 | Kay Newcomb |
-| 1224 | 122 | Jenna Thorn |
+| 1221 | 123 | Kawana Nesbitt |
+| 1222 | 123 | Peppy Piececlear |
+| 1223 | 122 | Jenna Thorn |
+| 1224 | 122 | Kay Newcomb |
 | 1225 | 122 | Greenbean |
 | 1226 | 122 | Cody Bohannan |
 | 1227 | 122 | Carrie Rutter-Bail |
@@ -1237,67 +1237,67 @@
 | 1229 | 122 | Dandy Matchzone |
 | 1230 | 121 | BikerBorn BikerBred |
 | 1231 | 121 | Jollygirl |
-| 1232 | 121 | Rachel Huber |
-| 1233 | 121 | Mona Smith |
-| 1234 | 121 | Rey Huber |
+| 1232 | 121 | Shay Lynn King |
+| 1233 | 121 | Rey Huber |
+| 1234 | 121 | Trena Sapp |
 | 1235 | 121 | WestieMom |
-| 1236 | 121 | Shay Lynn King |
-| 1237 | 121 | Trena Sapp |
+| 1236 | 121 | Rachel Huber |
+| 1237 | 121 | Mona Smith |
 | 1238 | 120 | Lively Liner |
-| 1239 | 120 | Glowing Earthy Embers |
+| 1239 | 120 | Cassafrass |
 | 1240 | 120 | BB |
-| 1241 | 120 | Charith Lorelle Watson |
-| 1242 | 120 | Michael Delozier |
-| 1243 | 120 | Cory Lynn |
-| 1244 | 120 | Patty Sparkman |
-| 1245 | 120 | Deena-Neal Peryer |
-| 1246 | 120 | Shannon D. Turk |
-| 1247 | 120 | Cheryl Schmid |
-| 1248 | 120 | Debbie Davis |
-| 1249 | 120 | Karrie Austin |
-| 1250 | 120 | Lori Rose |
-| 1251 | 120 | Anna Chance |
-| 1252 | 120 | Michelle Brown |
-| 1253 | 120 | Amanda Gann |
-| 1254 | 120 | Paula Stell |
-| 1255 | 120 | Susan Moyer |
-| 1256 | 120 | Jenny Bishop |
-| 1257 | 120 | Ava |
-| 1258 | 120 | Tanya Goodwin |
-| 1259 | 120 | Britt |
-| 1260 | 119 | Mario Hillman |
-| 1261 | 119 | Aislinn Lowe |
-| 1262 | 119 | Cheeky Cornerfall |
-| 1263 | 119 | Megan McDevitt |
-| 1264 | 119 | Kjsranch |
-| 1265 | 119 | Emily Carns |
-| 1266 | 119 | Daniel Cline |
-| 1267 | 118 | Lacie B |
-| 1268 | 118 | Brian Little |
+| 1241 | 120 | Glowing Earthy Embers |
+| 1242 | 120 | Cory Lynn |
+| 1243 | 120 | Michael Delozier |
+| 1244 | 120 | Charith Lorelle Watson |
+| 1245 | 120 | Patty Sparkman |
+| 1246 | 120 | Deena-Neal Peryer |
+| 1247 | 120 | Shannon D. Turk |
+| 1248 | 120 | Cheryl Schmid |
+| 1249 | 120 | Debbie Davis |
+| 1250 | 120 | Karrie Austin |
+| 1251 | 120 | Lori Rose |
+| 1252 | 120 | Anna Chance |
+| 1253 | 120 | Michelle Brown |
+| 1254 | 120 | Amanda Gann |
+| 1255 | 120 | Paula Stell |
+| 1256 | 120 | Susan Moyer |
+| 1257 | 120 | Jenny Bishop |
+| 1258 | 120 | Ava |
+| 1259 | 120 | Tanya Goodwin |
+| 1260 | 120 | Britt |
+| 1261 | 119 | Mario Hillman |
+| 1262 | 119 | Aislinn Lowe |
+| 1263 | 119 | Cheeky Cornerfall |
+| 1264 | 119 | Megan McDevitt |
+| 1265 | 119 | Kjsranch |
+| 1266 | 119 | Emily Carns |
+| 1267 | 119 | Daniel Cline |
+| 1268 | 118 | Lacie B |
 | 1269 | 118 | Gino Positano |
-| 1270 | 118 | Helen Chao |
-| 1271 | 118 | Raven |
-| 1272 | 118 | Vanessa King |
-| 1273 | 117 | Jack |
-| 1274 | 117 | C.L. Deslongchamp |
-| 1275 | 117 | Shelby Lynn May |
-| 1276 | 117 | Tiffany Fitch |
-| 1277 | 116 | Nicole Chestnut |
+| 1270 | 118 | Brian Little |
+| 1271 | 118 | Helen Chao |
+| 1272 | 118 | Raven |
+| 1273 | 118 | Vanessa King |
+| 1274 | 117 | Jack |
+| 1275 | 117 | C.L. Deslongchamp |
+| 1276 | 117 | Shelby Lynn May |
+| 1277 | 117 | Tiffany Fitch |
 | 1278 | 116 | Stephen Gillam |
-| 1279 | 116 | Tish |
-| 1280 | 116 | Sandy Molina |
-| 1281 | 116 | Bunny Bt |
-| 1282 | 116 | Bonez |
-| 1283 | 116 | Goob277 |
-| 1284 | 115 | Bubbly Wrecker |
-| 1285 | 115 | wutrwerdz |
-| 1286 | 115 | Doris Bonin |
-| 1287 | 115 | Shaun Talbot |
-| 1288 | 115 | Edward Conyers |
-| 1289 | 115 | Kandy Comer |
-| 1290 | 115 | PrissyPris |
-| 1291 | 115 | Cassafrass |
-| 1292 | 115 | Goofy Bridger |
+| 1279 | 116 | Nicole Chestnut |
+| 1280 | 116 | Tish |
+| 1281 | 116 | Sandy Molina |
+| 1282 | 116 | Bunny Bt |
+| 1283 | 116 | Bonez |
+| 1284 | 116 | Goob277 |
+| 1285 | 115 | Bubbly Wrecker |
+| 1286 | 115 | wutrwerdz |
+| 1287 | 115 | Doris Bonin |
+| 1288 | 115 | Shaun Talbot |
+| 1289 | 115 | Edward Conyers |
+| 1290 | 115 | Kandy Comer |
+| 1291 | 115 | Goofy Bridger |
+| 1292 | 115 | PrissyPris |
 | 1293 | 114 | Mona Wagner |
 | 1294 | 114 | James Calhoun |
 | 1295 | 114 | Twisty Snapmatch |
