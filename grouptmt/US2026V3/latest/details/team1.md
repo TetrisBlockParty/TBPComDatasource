@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:20:45 UTC
+# Standings for team1 as of 2026-06-10 08:21:23 UTC
 
 **Total Participants:** 2246
 
@@ -41,7 +41,7 @@
 | 33 | 3652 | Juan Kandiss Escobedo Irwin |
 | 34 | 3463 | Sha Harris |
 | 35 | 3368 | Weeze |
-| 36 | 3317 | Yolanda McDonald |
+| 36 | 3326 | Yolanda McDonald |
 | 37 | 3140 | Brian Stackhouse |
 | 38 | 3025 | COSA303 |
 | 39 | 2809 | Chill Clusterer |
@@ -403,19 +403,19 @@
 | 395 | 368 | Cortaz Lawrie |
 | 396 | 366 | MindlessMic |
 | 397 | 366 | Shalya Terry |
-| 398 | 364 | Tipsy Linkroll |
-| 399 | 364 | Kimberly Anderson |
-| 400 | 363 | Christina Rebecca |
-| 401 | 362 | Ryan Runyan |
+| 398 | 365 | Bbyunicorn |
+| 399 | 364 | Tipsy Linkroll |
+| 400 | 364 | Kimberly Anderson |
+| 401 | 363 | Christina Rebecca |
 | 402 | 362 | Kendra McIntyre |
 | 403 | 362 | LaShaun Stinson |
-| 404 | 361 | John Staub |
-| 405 | 361 | Lakiesha Crawford |
-| 406 | 360 | Tyree Tman Shinette |
-| 407 | 360 | Sara Meri |
-| 408 | 360 | HS Arce |
-| 409 | 360 | Teri Marie Clayton |
-| 410 | 360 | Bbyunicorn |
+| 404 | 362 | Ryan Runyan |
+| 405 | 361 | John Staub |
+| 406 | 361 | Lakiesha Crawford |
+| 407 | 360 | Tyree Tman Shinette |
+| 408 | 360 | Sara Meri |
+| 409 | 360 | HS Arce |
+| 410 | 360 | Teri Marie Clayton |
 | 411 | 359 | Amy Villalpando |
 | 412 | 359 | Stacy Nicole |
 | 413 | 359 | Montréal Mars |
