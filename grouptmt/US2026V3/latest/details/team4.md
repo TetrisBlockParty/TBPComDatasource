@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 20:52:47 UTC
+# Standings for team4 as of 2026-06-10 20:53:24 UTC
 
 **Total Participants:** 2373
 
@@ -466,18 +466,18 @@
 | 458 | 356 | Candiecane324 |
 | 459 | 354 | Stasia |
 | 460 | 354 | Montes Ash |
-| 461 | 353 | Crystal Hammonds |
-| 462 | 353 | Heidi Hala |
-| 463 | 353 | FitMeDiva |
+| 461 | 353 | FitMeDiva |
+| 462 | 353 | Crystal Hammonds |
+| 463 | 353 | Heidi Hala |
 | 464 | 353 | Holly Bramel |
-| 465 | 352 | Kimberly Ann |
-| 466 | 352 | Miss Beast |
-| 467 | 351 | Cecilia Hicks |
-| 468 | 351 | Tiffany Morris Garner |
+| 465 | 352 | Miss Beast |
+| 466 | 352 | Kimberly Ann |
+| 467 | 351 | Tiffany Morris Garner |
+| 468 | 351 | Cecilia Hicks |
 | 469 | 350 | Karen Davis |
 | 470 | 350 | Nutty Rollfit |
-| 471 | 348 | TRUCHILD777$$$ |
-| 472 | 348 | Paulina Deitrick |
+| 471 | 348 | Paulina Deitrick |
+| 472 | 348 | TRUCHILD777$$$ |
 | 473 | 347 | Lively Blockpiece |
 | 474 | 346 | Jen Roe |
 | 475 | 346 | Candice Sellers Worley |
@@ -488,12 +488,12 @@
 | 480 | 342 | Tiggerjake |
 | 481 | 341 | Reggie Laserna Clement |
 | 482 | 341 | LilyRose |
-| 483 | 340 | Karen Small |
-| 484 | 339 | Inez Nez |
-| 485 | 337 | Jazzy Rollout |
+| 483 | 340 | Luna |
+| 484 | 340 | Karen Small |
+| 485 | 339 | Inez Nez |
 | 486 | 337 | Maricela Joslin |
-| 487 | 336 | beauxie |
-| 488 | 335 | Luna |
+| 487 | 337 | Jazzy Rollout |
+| 488 | 336 | beauxie |
 | 489 | 333 | Brendan Craven |
 | 490 | 332 | Missionary Meda |
 | 491 | 332 | John Ramos |
@@ -508,21 +508,21 @@
 | 500 | 324 | Kari Smith |
 | 501 | 324 | Nikki |
 | 502 | 324 | Jen Smith |
-| 503 | 323 | Dubiousdust |
-| 504 | 323 | Lupe Chapa |
-| 505 | 323 | Teester |
-| 506 | 322 | Winter Moon |
-| 507 | 321 | Ashley Eskridge |
-| 508 | 320 | Tesa Mike Jenkins |
-| 509 | 320 | Goofy Linkmatch |
-| 510 | 320 | Dandy Cascade |
-| 511 | 319 | Snazzy Fitclear |
-| 512 | 319 | Azahares Alonso |
-| 513 | 319 | JoAnn Summerlot Ratliff |
-| 514 | 318 | REPENT |
-| 515 | 317 | Elli Wright |
+| 503 | 323 | Garden Girlie |
+| 504 | 323 | Dubiousdust |
+| 505 | 323 | Lupe Chapa |
+| 506 | 323 | Teester |
+| 507 | 322 | Winter Moon |
+| 508 | 321 | Ashley Eskridge |
+| 509 | 320 | Tesa Mike Jenkins |
+| 510 | 320 | Goofy Linkmatch |
+| 511 | 320 | Dandy Cascade |
+| 512 | 319 | Snazzy Fitclear |
+| 513 | 319 | Azahares Alonso |
+| 514 | 319 | JoAnn Summerlot Ratliff |
+| 515 | 318 | REPENT |
 | 516 | 317 | crobb77 |
-| 517 | 317 | Garden Girlie |
+| 517 | 317 | Elli Wright |
 | 518 | 317 | Erik Clary |
 | 519 | 316 | Dawn Phelps |
 | 520 | 315 | Travis McKinnon |
@@ -683,24 +683,24 @@
 | 675 | 250 | Silly Fallzone |
 | 676 | 250 | DrC |
 | 677 | 249 | Virgil Mayfield-Brown |
-| 678 | 249 | Edward White |
-| 679 | 249 | Dena Lynn Rogers |
+| 678 | 249 | Megan Lynn |
+| 679 | 249 | Edward White |
 | 680 | 249 | Brennan Shea Greene |
-| 681 | 249 | Megan Lynn |
+| 681 | 249 | Dena Lynn Rogers |
 | 682 | 248 | alxhue04 |
-| 683 | 248 | Tana-Marie Lynn McCarty-Rolf |
-| 684 | 248 | Daring Towerer |
+| 683 | 248 | Daring Towerer |
+| 684 | 248 | Tana-Marie Lynn McCarty-Rolf |
 | 685 | 247 | Shauna Davis |
 | 686 | 247 | aga |
 | 687 | 247 | Kelly Miller Williams |
-| 688 | 246 | KingCas |
-| 689 | 246 | Lacie Powers |
-| 690 | 245 | Loretta Hendricks |
-| 691 | 245 | Marcus Fontenot |
+| 688 | 246 | Lacie Powers |
+| 689 | 246 | KingCas |
+| 690 | 245 | Marcus Fontenot |
+| 691 | 245 | Loretta Hendricks |
 | 692 | 244 | Renita Jordan |
-| 693 | 243 | Playful Raccoon |
-| 694 | 243 | Brandy Lynn |
-| 695 | 243 | Anna Ryan |
+| 693 | 243 | Anna Ryan |
+| 694 | 243 | Playful Raccoon |
+| 695 | 243 | Brandy Lynn |
 | 696 | 243 | bribop |
 | 697 | 242 | MrLoner Stoner |
 | 698 | 242 | Redhead girl |
@@ -708,48 +708,48 @@
 | 700 | 241 | Seraphim Mabry |
 | 701 | 240 | Pebbles Gonzalez |
 | 702 | 240 | Lori Lynn |
-| 703 | 240 | Nerdy Brickster |
-| 704 | 240 | 1694AF |
+| 703 | 240 | 1694AF |
+| 704 | 240 | Nerdy Brickster |
 | 705 | 239 | Chelle Williams |
 | 706 | 238 | Amanda Snow |
-| 707 | 238 | Tara Delay Hill |
-| 708 | 238 | Mint Marquez |
+| 707 | 238 | Mint Marquez |
+| 708 | 238 | Tara Delay Hill |
 | 709 | 238 | Capt'n Crunch |
 | 710 | 237 | Allysonjo Varela |
 | 711 | 237 | Erica Pompey |
-| 712 | 236 | Deana Teck |
+| 712 | 236 | JoJo Hutson |
 | 713 | 236 | Deb 07 |
-| 714 | 236 | JoJo Hutson |
+| 714 | 236 | Trang Nguyen |
 | 715 | 236 | GETBOXED! |
-| 716 | 236 | Trang Nguyen |
-| 717 | 234 | Alizabeth Garcia |
-| 718 | 234 | Stotty |
-| 719 | 234 | Paula Renee McCracken |
-| 720 | 231 | Lora Schallert |
-| 721 | 231 | Khiem Hernandez |
-| 722 | 231 | Poseidon S Davenport |
-| 723 | 230 | Breezy Brickline |
-| 724 | 230 | Billy Baker |
-| 725 | 230 | Lord Solrac |
-| 726 | 229 | Marcus Chavis |
-| 727 | 229 | chuck |
-| 728 | 229 | Squiggy |
-| 729 | 228 | Raising Stars |
-| 730 | 228 | Tonia Kay |
+| 716 | 236 | Deana Teck |
+| 717 | 235 | Trishaann Triplett |
+| 718 | 234 | Alizabeth Garcia |
+| 719 | 234 | Stotty |
+| 720 | 234 | Paula Renee McCracken |
+| 721 | 231 | Lora Schallert |
+| 722 | 231 | Khiem Hernandez |
+| 723 | 231 | Poseidon S Davenport |
+| 724 | 230 | Breezy Brickline |
+| 725 | 230 | Billy Baker |
+| 726 | 230 | Lord Solrac |
+| 727 | 229 | Marcus Chavis |
+| 728 | 229 | chuck |
+| 729 | 229 | Squiggy |
+| 730 | 228 | Raising Stars |
 | 731 | 228 | Butterpat |
 | 732 | 228 | Happy Strikerpiece |
-| 733 | 227 | Kat Foreman |
-| 734 | 227 | Tactical_B |
-| 735 | 227 | Noa Lee |
-| 736 | 227 | Justin Ballard |
-| 737 | 227 | Kuar T Ejen |
-| 738 | 226 | Buddyblock |
-| 739 | 226 | Scarlett Ashley Clark |
-| 740 | 226 | Steve Foster |
-| 741 | 226 | Domo Dpn |
-| 742 | 225 | Stefanie Street |
-| 743 | 225 | Rose Anna Safi |
-| 744 | 225 | Trishaann Triplett |
+| 733 | 228 | Tonia Kay |
+| 734 | 227 | Kat Foreman |
+| 735 | 227 | Justin Ballard |
+| 736 | 227 | Noa Lee |
+| 737 | 227 | Tactical_B |
+| 738 | 227 | Kuar T Ejen |
+| 739 | 226 | Buddyblock |
+| 740 | 226 | Scarlett Ashley Clark |
+| 741 | 226 | Steve Foster |
+| 742 | 226 | Domo Dpn |
+| 743 | 225 | Stefanie Street |
+| 744 | 225 | Rose Anna Safi |
 | 745 | 225 | Sunny Tiltbuilder |
 | 746 | 224 | Tamara Gay |
 | 747 | 224 | Chilly Pop |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 20:52:47 UTC
+# Standings for team2 as of 2026-06-10 20:53:24 UTC
 
 **Total Participants:** 2813
 
@@ -263,10 +263,10 @@
 | 255 | 748 | Ackerman 85 |
 | 256 | 746 | Dsabrina Maxey |
 | 257 | 741 | meg |
-| 258 | 736 | Nikki Carter |
-| 259 | 734 | Chris Cooper |
-| 260 | 734 | Kellie Sharp Godfrey |
-| 261 | 732 | Laverne Ellis Blair |
+| 258 | 738 | Laverne Ellis Blair |
+| 259 | 736 | Nikki Carter |
+| 260 | 734 | Chris Cooper |
+| 261 | 734 | Kellie Sharp Godfrey |
 | 262 | 728 | Chipper Stackbuilder |
 | 263 | 725 | Bubbly Strikerpiece |
 | 264 | 724 | Sully |
@@ -628,10 +628,10 @@
 | 620 | 331 | Francesca Wagenhoffer |
 | 621 | 330 | Mala Phonchanthasone |
 | 622 | 330 | Bouncy Snapmatch |
-| 623 | 330 | Anthony Chavez |
-| 624 | 329 | Nutty Dash |
-| 625 | 328 | Ever Chase |
-| 626 | 328 | Camilo Moreno |
+| 623 | 330 | Camilo Moreno |
+| 624 | 330 | Anthony Chavez |
+| 625 | 329 | Nutty Dash |
+| 626 | 328 | Ever Chase |
 | 627 | 327 | rageking |
 | 628 | 325 | Kenzie |
 | 629 | 325 | Diamond Mitchell |
@@ -689,85 +689,85 @@
 | 681 | 302 | Sandra Belk |
 | 682 | 300 | phamous1 |
 | 683 | 300 | Rachel |
-| 684 | 300 | aunt nanna |
+| 684 | 300 | Nanny t |
 | 685 | 300 | Steph |
-| 686 | 299 | Jennifer Covington |
-| 687 | 298 | Flex |
+| 686 | 300 | aunt nanna |
+| 687 | 299 | Jennifer Covington |
 | 688 | 298 | Laura Fagans |
-| 689 | 297 | Susie Conger |
-| 690 | 296 | Joshua Dye |
-| 691 | 296 | Joanne Fish |
+| 689 | 298 | Flex |
+| 690 | 297 | Susie Conger |
+| 691 | 296 | Joshua Dye |
 | 692 | 296 | Mandy |
-| 693 | 296 | Chilly Surge |
-| 694 | 295 | Karen Mueller |
-| 695 | 295 | Brian Favre |
-| 696 | 294 | Zany Wrecker |
-| 697 | 294 | Crafty Rotater |
+| 693 | 296 | Joanne Fish |
+| 694 | 296 | Chilly Surge |
+| 695 | 295 | Karen Mueller |
+| 696 | 295 | Brian Favre |
+| 697 | 294 | Zany Wrecker |
 | 698 | 294 | Natasha Lee |
-| 699 | 294 | Amanda Bryte |
-| 700 | 293 | Jessica Garoutte |
-| 701 | 293 | Nicole Suber |
-| 702 | 293 | Sleepypanda67 |
-| 703 | 293 | Kimberly Davis |
+| 699 | 294 | Crafty Rotater |
+| 700 | 294 | Amanda Bryte |
+| 701 | 293 | Kimberly Davis |
+| 702 | 293 | Nicole Suber |
+| 703 | 293 | Sleepypanda67 |
 | 704 | 293 | denirocorona |
 | 705 | 293 | CEK |
-| 706 | 292 | Rescuegirl76 |
+| 706 | 293 | Jessica Garoutte |
 | 707 | 292 | Charlotte Castelli |
 | 708 | 292 | Cindy Brown |
-| 709 | 291 | Tara Flood |
-| 710 | 291 | Michele Stewart |
-| 711 | 290 | Viani09 |
-| 712 | 290 | Cool Cornerfall |
-| 713 | 290 | Errkuh |
-| 714 | 289 | Holly Barefoot |
-| 715 | 289 | Stella |
-| 716 | 289 | Cranky Basepiece |
-| 717 | 288 | Tito Garcia |
-| 718 | 288 | Wendy Mcbride |
+| 709 | 292 | Rescuegirl76 |
+| 710 | 291 | Tara Flood |
+| 711 | 291 | Michele Stewart |
+| 712 | 290 | Viani09 |
+| 713 | 290 | Cool Cornerfall |
+| 714 | 290 | Errkuh |
+| 715 | 289 | Holly Barefoot |
+| 716 | 289 | Stella |
+| 717 | 289 | Cranky Basepiece |
+| 718 | 288 | Tito Garcia |
 | 719 | 288 | Suzanne Davis |
-| 720 | 287 | Twisty Blockmatch |
-| 721 | 287 | Nicole Ashbaugh |
-| 722 | 287 | Brandy Chinelle |
-| 723 | 287 | Jessica Bowman |
-| 724 | 286 | Vanessa King |
-| 725 | 285 | Michael Anthony Anstead |
-| 726 | 284 | Henny Henny |
-| 727 | 284 | Kelli Pazour |
-| 728 | 283 | Precious Womack |
-| 729 | 283 | Alonzo Reed |
-| 730 | 282 | Epic Framezone |
-| 731 | 282 | Deb Rose-Bridinger |
-| 732 | 281 | Jennifer Leigh |
-| 733 | 281 | Rick |
-| 734 | 280 | Sharilyn Jackson |
-| 735 | 280 | Michelle M Braley |
-| 736 | 280 | Al Smith Jr |
-| 737 | 280 | s3lc4tr0n |
-| 738 | 280 | Keisha Robinson |
-| 739 | 280 | Adam Latin |
-| 740 | 279 | Brooke Lynn Marie Adelaide |
+| 720 | 288 | Wendy Mcbride |
+| 721 | 287 | Twisty Blockmatch |
+| 722 | 287 | Nicole Ashbaugh |
+| 723 | 287 | Brandy Chinelle |
+| 724 | 287 | Jessica Bowman |
+| 725 | 286 | Vanessa King |
+| 726 | 285 | Michael Anthony Anstead |
+| 727 | 284 | Henny Henny |
+| 728 | 284 | Kelli Pazour |
+| 729 | 283 | Precious Womack |
+| 730 | 283 | Alonzo Reed |
+| 731 | 282 | Epic Framezone |
+| 732 | 282 | Deb Rose-Bridinger |
+| 733 | 281 | Jennifer Leigh |
+| 734 | 281 | Rick |
+| 735 | 280 | Sharilyn Jackson |
+| 736 | 280 | Michelle M Braley |
+| 737 | 280 | Al Smith Jr |
+| 738 | 280 | s3lc4tr0n |
+| 739 | 280 | Keisha Robinson |
+| 740 | 280 | Adam Latin |
 | 741 | 279 | Greenie |
-| 742 | 279 | Ryan Rhodes |
-| 743 | 278 | James Sayers |
-| 744 | 278 | Thtbrwnsknflla |
+| 742 | 279 | Brooke Lynn Marie Adelaide |
+| 743 | 279 | Ryan Rhodes |
+| 744 | 278 | John Davis |
 | 745 | 278 | Amanda Rude |
-| 746 | 278 | John Davis |
-| 747 | 277 | K2N |
-| 748 | 276 | Ryuu |
-| 749 | 276 | NickandJess Reynolds |
-| 750 | 276 | Cassandra Green |
-| 751 | 276 | Barb Kiser |
-| 752 | 275 | Cheryl Schmid |
-| 753 | 273 | Anzhen |
-| 754 | 273 | Angeleye A James |
-| 755 | 273 | Amber Carpenter |
-| 756 | 273 | Shannon Posner |
-| 757 | 272 | Muffin Popper |
-| 758 | 271 | Belle |
-| 759 | 271 | Spicy Balanceblock |
-| 760 | 270 | Duck |
-| 761 | 270 | Mariya Cline |
-| 762 | 270 | Nanny t |
+| 746 | 278 | James Sayers |
+| 747 | 278 | Thtbrwnsknflla |
+| 748 | 277 | K2N |
+| 749 | 276 | Ryuu |
+| 750 | 276 | NickandJess Reynolds |
+| 751 | 276 | Cassandra Green |
+| 752 | 276 | Barb Kiser |
+| 753 | 275 | Cheryl Schmid |
+| 754 | 273 | Anzhen |
+| 755 | 273 | Angeleye A James |
+| 756 | 273 | Amber Carpenter |
+| 757 | 273 | Shannon Posner |
+| 758 | 272 | Muffin Popper |
+| 759 | 271 | Belle |
+| 760 | 271 | Spicy Balanceblock |
+| 761 | 270 | Duck |
+| 762 | 270 | Mariya Cline |
 | 763 | 269 | DirtySweet84 |
 | 764 | 269 | Melissa Aycock |
 | 765 | 269 | Brooke Kaune |
@@ -778,8 +778,8 @@
 | 770 | 267 | Kelly |
 | 771 | 267 | Connie Marie Cornell Lerma |
 | 772 | 267 | Treau Torres |
-| 773 | 266 | Trisha Schneider |
-| 774 | 266 | Darla Nolt |
+| 773 | 266 | Darla Nolt |
+| 774 | 266 | Trisha Schneider |
 | 775 | 266 | Stacy Shaunce |
 | 776 | 265 | Danita Moon |
 | 777 | 264 | Silly Clicker |

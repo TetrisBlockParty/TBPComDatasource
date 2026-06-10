@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:52:47 UTC
+# Standings for team1 as of 2026-06-10 20:53:24 UTC
 
 **Total Participants:** 2340
 
@@ -721,19 +721,19 @@
 | 713 | 234 | Coco |
 | 714 | 234 | Jes Marie |
 | 715 | 234 | Daring Riserfit |
-| 716 | 234 | Cori Cleland |
-| 717 | 233 | Claudia Price |
-| 718 | 233 | Hyedie Badie |
-| 719 | 233 | Bella |
-| 720 | 232 | Marbama |
-| 721 | 232 | messyboots |
-| 722 | 231 | toxictonic92 |
-| 723 | 231 | Tyiesha Pie Farmer |
-| 724 | 230 | Jessica Kirby |
-| 725 | 229 | Anntionette Sotire |
-| 726 | 229 | Lucille Wilson Davis |
-| 727 | 229 | Kike Lua |
-| 728 | 228 | Lindsey |
+| 716 | 234 | Lindsey |
+| 717 | 234 | Cori Cleland |
+| 718 | 233 | Claudia Price |
+| 719 | 233 | Hyedie Badie |
+| 720 | 233 | Bella |
+| 721 | 232 | Marbama |
+| 722 | 232 | messyboots |
+| 723 | 231 | toxictonic92 |
+| 724 | 231 | Tyiesha Pie Farmer |
+| 725 | 230 | Jessica Kirby |
+| 726 | 229 | Anntionette Sotire |
+| 727 | 229 | Lucille Wilson Davis |
+| 728 | 229 | Kike Lua |
 | 729 | 228 | whatever |
 | 730 | 228 | Joseph Vs Cap |
 | 731 | 228 | Shameka Tiffany |
@@ -1415,25 +1415,25 @@
 | 1407 | 74 | Embracing Hair |
 | 1408 | 74 | Emary Alarcon |
 | 1409 | 74 | Jaay Bender |
-| 1410 | 74 | Sassy Stack |
-| 1411 | 73 | Ducc2408 |
-| 1412 | 73 | Tammy Scott Mallen |
-| 1413 | 73 | Blaze |
-| 1414 | 73 | Amy Thomas |
-| 1415 | 73 | Harriet |
-| 1416 | 73 | Kevin Witdaflute |
-| 1417 | 73 | Jonathan Zold |
-| 1418 | 72 | BADBOY658 |
-| 1419 | 72 | Darryl Love |
-| 1420 | 72 | Chummy Liner |
-| 1421 | 71 | Shona ShayShay Jones |
-| 1422 | 71 | Happymama |
-| 1423 | 71 | Chummy Clearfit |
-| 1424 | 71 | Hasty Builder |
-| 1425 | 71 | Swanky Riserfit |
-| 1426 | 71 | Joseph Ware Jr. |
+| 1410 | 74 | Breezy Dashpiece |
+| 1411 | 74 | Sassy Stack |
+| 1412 | 73 | Ducc2408 |
+| 1413 | 73 | Tammy Scott Mallen |
+| 1414 | 73 | Blaze |
+| 1415 | 73 | Amy Thomas |
+| 1416 | 73 | Harriet |
+| 1417 | 73 | Kevin Witdaflute |
+| 1418 | 73 | Jonathan Zold |
+| 1419 | 72 | BADBOY658 |
+| 1420 | 72 | Darryl Love |
+| 1421 | 72 | Chummy Liner |
+| 1422 | 71 | Shona ShayShay Jones |
+| 1423 | 71 | Happymama |
+| 1424 | 71 | Chummy Clearfit |
+| 1425 | 71 | Hasty Builder |
+| 1426 | 71 | Swanky Riserfit |
 | 1427 | 71 | Zany Pivot |
-| 1428 | 71 | Breezy Dashpiece |
+| 1428 | 71 | Joseph Ware Jr. |
 | 1429 | 71 | Lora Lee |
 | 1430 | 70 | Chris Bell |
 | 1431 | 70 | Pamela Cooper |
