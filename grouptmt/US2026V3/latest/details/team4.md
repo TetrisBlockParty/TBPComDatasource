@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 05:52:44 UTC
+# Standings for team4 as of 2026-06-10 05:53:24 UTC
 
 **Total Participants:** 2277
 
@@ -208,7 +208,7 @@
 | 200 | 683 | Malik Thompson |
 | 201 | 681 | Janet Sanfilippo Sullivan |
 | 202 | 678 | Katie Lynn Petit |
-| 203 | 666 | Megan Vick |
+| 203 | 670 | Megan Vick |
 | 204 | 662 | Danielle Mitchell |
 | 205 | 651 | Jewelz |
 | 206 | 651 | Dayna Arthurs |
@@ -365,10 +365,10 @@
 | 357 | 395 | PerfectPieces |
 | 358 | 394 | Quirky Fitblock |
 | 359 | 391 | John Cotugno |
-| 360 | 388 | Melissa Lowe |
-| 361 | 387 | Neeta Kapadia |
-| 362 | 387 | luluraine |
-| 363 | 387 | Tricia Motika Cowan |
+| 360 | 389 | Neeta Kapadia |
+| 361 | 388 | Melissa Lowe |
+| 362 | 387 | Tricia Motika Cowan |
+| 363 | 387 | luluraine |
 | 364 | 386 | Earl Edwards |
 | 365 | 386 | Codey Haffner |
 | 366 | 385 | Giggly Tilt |
@@ -499,16 +499,16 @@
 | 491 | 292 | Karen Small |
 | 492 | 291 | Valerie Silva |
 | 493 | 290 | Britney Kitora |
-| 494 | 290 | Elli Wright |
-| 495 | 290 | LaTanya GeminiondaRise Johnson |
-| 496 | 289 | Sandra Stark |
-| 497 | 289 | Jrr |
-| 498 | 288 | Justin Sercu |
-| 499 | 288 | Justin Janachovsky |
-| 500 | 286 | Tiffany Smith |
+| 494 | 290 | Daniel Lossman |
+| 495 | 290 | Elli Wright |
+| 496 | 290 | LaTanya GeminiondaRise Johnson |
+| 497 | 289 | Sandra Stark |
+| 498 | 289 | Jrr |
+| 499 | 288 | Justin Sercu |
+| 500 | 288 | Justin Janachovsky |
 | 501 | 286 | King |
-| 502 | 286 | Dubiousdust |
-| 503 | 286 | Daniel Lossman |
+| 502 | 286 | Tiffany Smith |
+| 503 | 286 | Dubiousdust |
 | 504 | 286 | DizzB400 |
 | 505 | 285 | tj |
 | 506 | 285 | ariel |
