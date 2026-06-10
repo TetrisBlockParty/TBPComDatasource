@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 04:44:46 UTC
+# Standings for team4 as of 2026-06-10 04:45:24 UTC
 
 **Total Participants:** 2265
 
@@ -125,7 +125,7 @@
 | 117 | 1112 | Phil Peterson |
 | 118 | 1108 | Bri Martin |
 | 119 | 1106 | Loony Towerer |
-| 120 | 1093 | GeorgeButts |
+| 120 | 1096 | GeorgeButts |
 | 121 | 1084 | Tiffany Loree Tiffany Oneill |
 | 122 | 1066 | Beee |
 | 123 | 1064 | Jesse Olive |
@@ -191,11 +191,11 @@
 | 183 | 720 | Magz |
 | 184 | 716 | Devinlee Brown |
 | 185 | 714 | Nikki Fuller Johnson |
-| 186 | 705 | Katie Martin |
-| 187 | 703 | zoes |
-| 188 | 700 | Anthony Magaraci |
-| 189 | 697 | Linda Miltenburg |
-| 190 | 694 | Roxana Romero |
+| 186 | 711 | Roxana Romero |
+| 187 | 705 | Katie Martin |
+| 188 | 703 | zoes |
+| 189 | 700 | Anthony Magaraci |
+| 190 | 697 | Linda Miltenburg |
 | 191 | 686 | Jennifer Ellyn Sheets |
 | 192 | 684 | Caitlyn Wang |
 | 193 | 684 | Shannon Rivera |
@@ -211,7 +211,7 @@
 | 203 | 651 | Dayna Arthurs |
 | 204 | 650 | Beth Belanger |
 | 205 | 647 | Laguya |
-| 206 | 644 | Snippy Splitter |
+| 206 | 645 | Snippy Splitter |
 | 207 | 644 | Krysten Danielle Richard |
 | 208 | 641 | Waxboss |
 | 209 | 640 | CIRAZYPNOY |
@@ -228,14 +228,14 @@
 | 220 | 607 | Taz |
 | 221 | 606 | Addi JayKay |
 | 222 | 606 | Jackie Miller |
-| 223 | 600 | Tina Thomas |
-| 224 | 596 | Samantha Worley |
-| 225 | 595 | Spicy Chicken |
-| 226 | 593 | Vanessa Sykes |
-| 227 | 592 | Samara Garcia |
-| 228 | 592 | Sarah Berry Stevens |
-| 229 | 591 | Logan Two-dubs Baker |
-| 230 | 591 | George Palacios |
+| 223 | 601 | George Palacios |
+| 224 | 600 | Tina Thomas |
+| 225 | 596 | Samantha Worley |
+| 226 | 595 | Spicy Chicken |
+| 227 | 593 | Vanessa Sykes |
+| 228 | 592 | Samara Garcia |
+| 229 | 592 | Sarah Berry Stevens |
+| 230 | 591 | Logan Two-dubs Baker |
 | 231 | 582 | Kelly Howland |
 | 232 | 577 | Real Talk Vibes |
 | 233 | 575 | Julian Gasque |
@@ -859,13 +859,13 @@
 | 851 | 170 | Kayla Haddenham |
 | 852 | 170 | LaRue Tee |
 | 853 | 169 | BigCup ReeseCup |
-| 854 | 169 | Combo Snappy |
-| 855 | 169 | Taisha Beasley |
+| 854 | 169 | Taisha Beasley |
+| 855 | 169 | Combo Snappy |
 | 856 | 169 | Jt Home |
-| 857 | 168 | Cozy Towerpiece |
+| 857 | 168 | shonaberry |
 | 858 | 168 | Kristan Hoffman |
 | 859 | 168 | Caiti O'Keefe |
-| 860 | 167 | shonaberry |
+| 860 | 168 | Cozy Towerpiece |
 | 861 | 167 | Kuar T Ejen |
 | 862 | 167 | Tray Day |
 | 863 | 167 | Janae Harris |
@@ -1749,63 +1749,63 @@
 | 1741 | 37 | Pearl Poff |
 | 1742 | 37 | theyhatejzt |
 | 1743 | 37 | Cassie Jowett |
-| 1744 | 37 | Scammer |
+| 1744 | 37 | Arlee Woodall |
 | 1745 | 37 | LISHA 2 U |
 | 1746 | 37 | Heather Cline |
 | 1747 | 37 | ScorpioQueen |
-| 1748 | 37 | Arlee Woodall |
+| 1748 | 37 | Scammer |
 | 1749 | 37 | Amber Terry |
 | 1750 | 37 | Groovy Linkmatch |
 | 1751 | 36 | Shawna Bell |
 | 1752 | 36 | Litty |
 | 1753 | 36 | Kerry Walker |
-| 1754 | 36 | Simone Marie Thrasher |
+| 1754 | 36 | Whos Square |
 | 1755 | 36 | Stacey Hyde |
-| 1756 | 36 | Frisky Framezone |
-| 1757 | 36 | Kathy Lindsay |
-| 1758 | 36 | Misty Mathers |
-| 1759 | 36 | Stylist |
-| 1760 | 36 | Dawn Ferrin |
-| 1761 | 36 | Rise |
+| 1756 | 36 | Kathy Lindsay |
+| 1757 | 36 | Rise |
+| 1758 | 36 | Lively Tilebuilder |
+| 1759 | 36 | Dawn Ferrin |
+| 1760 | 36 | Simone Marie Thrasher |
+| 1761 | 36 | Frisky Framezone |
 | 1762 | 36 | Peppy Linefit |
-| 1763 | 36 | Lively Tilebuilder |
-| 1764 | 35 | Saul Fajardo |
-| 1765 | 35 | Lincy A. Walsh |
-| 1766 | 35 | Christine Raine Jalili |
-| 1767 | 35 | Phoenyx Roze |
-| 1768 | 35 | Stephanie Williams |
-| 1769 | 35 | Lex Allen |
-| 1770 | 35 | Tammie Baechler |
-| 1771 | 35 | KySun |
-| 1772 | 35 | Joshua Conwell |
-| 1773 | 35 | Tipsy toesy |
-| 1774 | 35 | Breezy Shatterclear |
-| 1775 | 35 | Shimara Hall |
-| 1776 | 35 | djwil |
-| 1777 | 35 | Magda Lene |
-| 1778 | 34 | Chelsea Pigg |
-| 1779 | 34 | Peezy_419 |
+| 1763 | 36 | Misty Mathers |
+| 1764 | 36 | Stylist |
+| 1765 | 35 | Phoenyx Roze |
+| 1766 | 35 | Stephanie Williams |
+| 1767 | 35 | Saul Fajardo |
+| 1768 | 35 | Magda Lene |
+| 1769 | 35 | Christine Raine Jalili |
+| 1770 | 35 | Lincy A. Walsh |
+| 1771 | 35 | djwil |
+| 1772 | 35 | Lex Allen |
+| 1773 | 35 | Tammie Baechler |
+| 1774 | 35 | Shimara Hall |
+| 1775 | 35 | KySun |
+| 1776 | 35 | Breezy Shatterclear |
+| 1777 | 35 | Joshua Conwell |
+| 1778 | 35 | Tipsy toesy |
+| 1779 | 34 | Ferlyz |
 | 1780 | 34 | Yulissa Diaz |
-| 1781 | 34 | Ferlyz |
-| 1782 | 34 | Jinx4fun |
-| 1783 | 34 | Karin Gimenez |
-| 1784 | 34 | Christina Neville |
-| 1785 | 34 | Giggly Stackbuilder |
-| 1786 | 34 | Poppy Matcher |
-| 1787 | 34 | Hyper Towerfit |
-| 1788 | 34 | Groovy Roll |
-| 1789 | 34 | Loopy Bricky |
-| 1790 | 33 | Shatika Wallace |
-| 1791 | 33 | Edward Ramos |
-| 1792 | 33 | Sorry |
-| 1793 | 33 | Junelle Simple |
-| 1794 | 33 | Samantha LeBlanc |
+| 1781 | 34 | Chelsea Pigg |
+| 1782 | 34 | Peezy_419 |
+| 1783 | 34 | Jinx4fun |
+| 1784 | 34 | Karin Gimenez |
+| 1785 | 34 | Christina Neville |
+| 1786 | 34 | Giggly Stackbuilder |
+| 1787 | 34 | Poppy Matcher |
+| 1788 | 34 | Hyper Towerfit |
+| 1789 | 34 | Groovy Roll |
+| 1790 | 34 | Loopy Bricky |
+| 1791 | 33 | Shatika Wallace |
+| 1792 | 33 | Edward Ramos |
+| 1793 | 33 | Sorry |
+| 1794 | 33 | Junelle Simple |
 | 1795 | 33 | Nicole Gilmore |
-| 1796 | 33 | Swanky Zigzag |
-| 1797 | 33 | p11 |
-| 1798 | 33 | Shiny Blockfall |
-| 1799 | 32 | Lawanda Mayze |
-| 1800 | 32 | Rezinbauer Spicer |
+| 1796 | 33 | Samantha LeBlanc |
+| 1797 | 33 | Swanky Zigzag |
+| 1798 | 33 | p11 |
+| 1799 | 33 | Shiny Blockfall |
+| 1800 | 32 | Lawanda Mayze |
 | 1801 | 32 | Anna Nieves |
 | 1802 | 32 | Samantha Salcedo |
 | 1803 | 32 | Holly |
@@ -1816,14 +1816,14 @@
 | 1808 | 32 | Lively Fit |
 | 1809 | 32 | Ruthie Laracuente |
 | 1810 | 32 | Wyatt |
-| 1811 | 32 | Jessica Huber |
-| 1812 | 32 | Cozy Clusterer |
-| 1813 | 31 | Tifa Awaken Tarot |
-| 1814 | 31 | Justin Blasnig |
-| 1815 | 31 | Harpreet Rojas |
-| 1816 | 31 | Infini Agape |
-| 1817 | 31 | DuvaDova Ahava |
-| 1818 | 31 | Whos Square |
+| 1811 | 32 | Rezinbauer Spicer |
+| 1812 | 32 | Jessica Huber |
+| 1813 | 32 | Cozy Clusterer |
+| 1814 | 31 | Tifa Awaken Tarot |
+| 1815 | 31 | Justin Blasnig |
+| 1816 | 31 | Harpreet Rojas |
+| 1817 | 31 | Infini Agape |
+| 1818 | 31 | DuvaDova Ahava |
 | 1819 | 31 | Grace Mariie |
 | 1820 | 31 | Desiree Nunley Johnson |
 | 1821 | 31 | Abby White |
