@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:14:46 UTC
+# Standings for team1 as of 2026-06-10 13:15:24 UTC
 
 **Total Participants:** 2266
 
@@ -65,10 +65,10 @@
 | 57 | 2106 | Shellzb Roberts |
 | 58 | 2082 | D'Andra Stewart |
 | 59 | 2076 | April Inboden |
-| 60 | 2049 | Blockhead |
-| 61 | 2045 | Moomoo |
+| 60 | 2049 | Moomoo |
+| 61 | 2049 | Blockhead |
 | 62 | 2026 | Todd C. Clemens |
-| 63 | 1991 | Louis Richard Jr |
+| 63 | 2016 | Louis Richard Jr |
 | 64 | 1972 | Helen Smith |
 | 65 | 1962 | Ceilo Marie |
 | 66 | 1945 | Chris Russell |
@@ -692,9 +692,9 @@
 | 684 | 229 | Kike Lua |
 | 685 | 228 | Spicy Shatterblock |
 | 686 | 227 | Kimberly Susan Privette |
-| 687 | 226 | Kahliah Baker |
-| 688 | 226 | Shameka Tiffany |
-| 689 | 226 | Rayshawn Cohen |
+| 687 | 226 | Shameka Tiffany |
+| 688 | 226 | Rayshawn Cohen |
+| 689 | 226 | Kahliah Baker |
 | 690 | 226 | Rosalind Chatman |
 | 691 | 226 | Londa Londa |
 | 692 | 225 | Sarah Swietlicki - Lopez |
@@ -729,33 +729,33 @@
 | 721 | 217 | Polite Granny |
 | 722 | 217 | Lootch |
 | 723 | 217 | Louise Parker |
-| 724 | 216 | Sallie Sanborn |
-| 725 | 216 | Frances Davis |
-| 726 | 216 | Laysa Nunez |
-| 727 | 216 | Shannon Carriger |
+| 724 | 216 | Frances Davis |
+| 725 | 216 | Laysa Nunez |
+| 726 | 216 | Shannon Carriger |
+| 727 | 216 | Sallie Sanborn |
 | 728 | 216 | Lively Clusterline |
 | 729 | 216 | Erica Campbell-Stillings |
 | 730 | 216 | squints |
-| 731 | 215 | Perky Balancer |
-| 732 | 215 | Gerold Folk Haddock |
-| 733 | 215 | GetDaOPPS |
-| 734 | 215 | Nikiya |
-| 735 | 215 | Angie Smith |
+| 731 | 215 | Gerold Folk Haddock |
+| 732 | 215 | GetDaOPPS |
+| 733 | 215 | Nikiya |
+| 734 | 215 | Angie Smith |
+| 735 | 215 | Perky Balancer |
 | 736 | 215 | Ebby |
 | 737 | 214 | Nickeya Phillips |
 | 738 | 213 | Lawanda Conley |
 | 739 | 213 | Oaklonboy mike |
 | 740 | 212 | Simply-Beautiful007 |
-| 741 | 212 | Stanley Dixon |
-| 742 | 212 | Ivery Lee Grays Jr. |
-| 743 | 211 | Jas |
-| 744 | 211 | Deanna Close |
-| 745 | 210 | Antoinette Jones |
-| 746 | 210 | Slinky Fallzone |
+| 741 | 212 | Ivery Lee Grays Jr. |
+| 742 | 212 | Stanley Dixon |
+| 743 | 211 | Deanna Close |
+| 744 | 211 | Jas |
+| 745 | 210 | Slinky Fallzone |
+| 746 | 210 | Antoinette Jones |
 | 747 | 210 | Barbramerri Tarboro |
 | 748 | 210 | Spadez1231 |
-| 749 | 209 | $hort Dog |
-| 750 | 209 | Mami Badd |
+| 749 | 209 | Mami Badd |
+| 750 | 209 | $hort Dog |
 | 751 | 209 | Anastasia |
 | 752 | 208 | Derald Miller |
 | 753 | 208 | Kelvin Cook |
@@ -768,8 +768,8 @@
 | 760 | 205 | tg |
 | 761 | 205 | Tramaine Crockrum |
 | 762 | 204 | Renee Marshall |
-| 763 | 204 | Xana Zania Bopp |
-| 764 | 204 | Glitzy Clusterer |
+| 763 | 204 | Glitzy Clusterer |
+| 764 | 204 | Xana Zania Bopp |
 | 765 | 203 | MrsDontPlay |
 | 766 | 203 | KimChii |
 | 767 | 202 | Marbama |
@@ -777,52 +777,52 @@
 | 769 | 202 | Alexandrla Smith |
 | 770 | 202 | Messy Live |
 | 771 | 202 | Nutty Fallmatch |
-| 772 | 202 | Don Ray Mc |
-| 773 | 202 | Undeniable Williams |
-| 774 | 201 | Bea Dyer-Fields |
-| 775 | 201 | Rieshelda Marie White |
-| 776 | 200 | Tito Divyn |
-| 777 | 200 | Yellowguy3 |
+| 772 | 202 | Dirty Deeds |
+| 773 | 202 | Don Ray Mc |
+| 774 | 202 | Undeniable Williams |
+| 775 | 201 | Bea Dyer-Fields |
+| 776 | 201 | Rieshelda Marie White |
+| 777 | 200 | Tito Divyn |
 | 778 | 200 | Victoria Smith |
 | 779 | 200 | Kyle Conley |
-| 780 | 198 | Darrelle Short |
-| 781 | 198 | Chocolate |
-| 782 | 198 | Stephen Garland |
-| 783 | 198 | Cornelius Neal |
-| 784 | 198 | Rhianna Dinki Austin |
-| 785 | 198 | Lynn |
-| 786 | 198 | Tanesha Ga'sFinest Corbett |
-| 787 | 197 | krd |
-| 788 | 197 | Amanda Woodruff |
-| 789 | 197 | Seddrick |
-| 790 | 196 | whatever |
+| 780 | 200 | Yellowguy3 |
+| 781 | 198 | Darrelle Short |
+| 782 | 198 | Chocolate |
+| 783 | 198 | Stephen Garland |
+| 784 | 198 | Tanesha Ga'sFinest Corbett |
+| 785 | 198 | Rhianna Dinki Austin |
+| 786 | 198 | Lynn |
+| 787 | 198 | Cornelius Neal |
+| 788 | 197 | Seddrick |
+| 789 | 197 | Amanda Woodruff |
+| 790 | 197 | krd |
 | 791 | 196 | Katness |
-| 792 | 195 | Elaine Pauley |
+| 792 | 196 | whatever |
 | 793 | 195 | William Vidra |
-| 794 | 194 | Sunny Clicky |
-| 795 | 193 | Sherry D Singleton |
-| 796 | 193 | Dirty Deeds |
-| 797 | 192 | Taneka Howell |
-| 798 | 192 | QueenzMo |
-| 799 | 192 | Cameo Tweed |
-| 800 | 192 | Cranky Fall |
-| 801 | 190 | Chipper Snapper |
-| 802 | 190 | Essence Jones |
-| 803 | 189 | Jes Marie |
-| 804 | 189 | Sunny Tumbler |
-| 805 | 189 | Missy Myvette |
-| 806 | 189 | Anntionette Sotire |
-| 807 | 189 | Duncan Timothy |
-| 808 | 189 | Sean White |
+| 794 | 195 | Elaine Pauley |
+| 795 | 194 | Sunny Clicky |
+| 796 | 193 | Sherry D Singleton |
+| 797 | 192 | Cameo Tweed |
+| 798 | 192 | Cranky Fall |
+| 799 | 192 | Taneka Howell |
+| 800 | 192 | QueenzMo |
+| 801 | 190 | Essence Jones |
+| 802 | 190 | Chipper Snapper |
+| 803 | 189 | Sean White |
+| 804 | 189 | Duncan Timothy |
+| 805 | 189 | Anntionette Sotire |
+| 806 | 189 | Jes Marie |
+| 807 | 189 | Missy Myvette |
+| 808 | 189 | Sunny Tumbler |
 | 809 | 188 | Mary Goode |
-| 810 | 187 | Megan Jones |
+| 810 | 187 | Vontesha Kidd |
 | 811 | 187 | Lively Riserpiece |
-| 812 | 187 | Vontesha Kidd |
+| 812 | 187 | Megan Jones |
 | 813 | 187 | Kashh |
-| 814 | 186 | Christy Quick |
-| 815 | 186 | Sara |
-| 816 | 186 | Vannie G |
-| 817 | 186 | Tiffany Conley |
+| 814 | 186 | Tiffany Conley |
+| 815 | 186 | Vannie G |
+| 816 | 186 | Christy Quick |
+| 817 | 186 | Sara |
 | 818 | 186 | Morenita Rodriguez |
 | 819 | 186 | Nekka |
 | 820 | 185 | Jess |
