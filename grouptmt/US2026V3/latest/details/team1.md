@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:42:48 UTC
+# Standings for team1 as of 2026-06-10 20:43:25 UTC
 
 **Total Participants:** 2340
 
@@ -51,8 +51,8 @@
 | 43 | 2762 | JoJo |
 | 44 | 2730 | Therealdywoune Peay |
 | 45 | 2691 | Hyper Slamdrop |
-| 46 | 2640 | Jamie Willis |
-| 47 | 2635 | Cee Emm |
+| 46 | 2665 | Cee Emm |
+| 47 | 2640 | Jamie Willis |
 | 48 | 2619 | Zappy Brickline |
 | 49 | 2585 | Epic Snapfall |
 | 50 | 2584 | Tootsie Pop |
