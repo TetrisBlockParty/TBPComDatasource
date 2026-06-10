@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:52:47 UTC
+# Standings for team4 as of 2026-06-10 21:53:25 UTC
 
 **Total Participants:** 2381
 
@@ -23,7 +23,7 @@
 | 15 | 8916 | Boldy Crusher |
 | 16 | 7737 | Jerald Jones |
 | 17 | 7193 | delilahbelle |
-| 18 | 7166 | Chris Hills |
+| 18 | 7185 | Chris Hills |
 | 19 | 6954 | Senor Moppy |
 | 20 | 6718 | Bubbly Twistpiece |
 | 21 | 6449 | Nia Mayfield |
@@ -767,17 +767,17 @@
 | 759 | 223 | Bigmamalizzet Latto |
 | 760 | 222 | Amber Jalbert |
 | 761 | 222 | Maria Munoz |
-| 762 | 221 | Lorrie Ann Burchett |
-| 763 | 220 | Robert Crow |
-| 764 | 220 | Blockcrusher |
-| 765 | 220 | Mrsjcraw18 |
-| 766 | 220 | Marie Adkins |
-| 767 | 220 | Brandon Bedenbaugh |
-| 768 | 220 | Lizzzzzz |
-| 769 | 220 | Janae Harris |
-| 770 | 220 | Zappy Tilemaker |
-| 771 | 220 | Jay Keating |
-| 772 | 219 | Adi Patterson |
+| 762 | 221 | Adi Patterson |
+| 763 | 221 | Lorrie Ann Burchett |
+| 764 | 220 | Robert Crow |
+| 765 | 220 | Blockcrusher |
+| 766 | 220 | Mrsjcraw18 |
+| 767 | 220 | Marie Adkins |
+| 768 | 220 | Brandon Bedenbaugh |
+| 769 | 220 | Lizzzzzz |
+| 770 | 220 | Janae Harris |
+| 771 | 220 | Zappy Tilemaker |
+| 772 | 220 | Jay Keating |
 | 773 | 218 | Breezy Wife |
 | 774 | 218 | Ayobribri |
 | 775 | 217 | Tanya AfricanQueen Savage |
