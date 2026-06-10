@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:50:47 UTC
+# Standings for team2 as of 2026-06-10 08:51:22 UTC
 
 **Total Participants:** 2712
 
@@ -20,7 +20,7 @@
 | 12 | 9622 | Lola C Davis |
 | 13 | 9471 | A.j. Langley |
 | 14 | 9261 | Brandon Brown |
-| 15 | 8798 | Christina Shell |
+| 15 | 8818 | Christina Shell |
 | 16 | 8631 | Bobbi |
 | 17 | 8427 | Elizabeth Mooney |
 | 18 | 8161 | Bea Bee |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:50:47 UTC
+# Standings for team4 as of 2026-06-10 08:51:22 UTC
 
 **Total Participants:** 2297
 
@@ -54,7 +54,7 @@
 | 46 | 3400 | Kathy Brookins |
 | 47 | 3323 | Carly Stempien |
 | 48 | 3200 | Melissa Brown |
-| 49 | 3172 | Wendy Zentz |
+| 49 | 3175 | Wendy Zentz |
 | 50 | 3150 | Destiny Dyer |
 | 51 | 3100 | Posey Smith |
 | 52 | 2960 | Alicia Cook |
@@ -461,40 +461,40 @@
 | 453 | 323 | FitMeDiva |
 | 454 | 321 | Ashley Eskridge |
 | 455 | 320 | Lady Dolphin |
-| 456 | 320 | Goofy Linkmatch |
-| 457 | 320 | Nerdy Faller |
+| 456 | 320 | Nerdy Faller |
+| 457 | 320 | Goofy Linkmatch |
 | 458 | 319 | Azahares Alonso |
 | 459 | 318 | Rosy Perez |
-| 460 | 317 | Breezy Blockzone |
+| 460 | 317 | Lively Cascadebuilder |
 | 461 | 317 | Kari Smith |
-| 462 | 317 | Lively Cascadebuilder |
+| 462 | 317 | Breezy Blockzone |
 | 463 | 316 | Luna |
 | 464 | 316 | Chonda OhanaMomma Michelle |
 | 465 | 315 | Reggie Laserna Clement |
 | 466 | 315 | Thermeka Lindsey |
 | 467 | 314 | Jeff Margolis |
-| 468 | 313 | Stasia |
+| 468 | 313 | Honey |
 | 469 | 313 | Henry Lanier |
-| 470 | 313 | Honey |
+| 470 | 313 | Stasia |
 | 471 | 312 | Jj Johnson |
-| 472 | 312 | Kimberly Ann |
-| 473 | 312 | Carla Woodard |
+| 472 | 312 | Carla Woodard |
+| 473 | 312 | Kimberly Ann |
 | 474 | 311 | Marina |
 | 475 | 311 | LeRoy jenkins |
-| 476 | 310 | Janna Thompson |
+| 476 | 311 | Elli Wright |
 | 477 | 310 | Cindy |
-| 478 | 310 | J.Wo |
-| 479 | 309 | TRUCHILD777$$$ |
-| 480 | 309 | tj |
-| 481 | 309 | Casey Thomas |
-| 482 | 308 | Bouncy |
-| 483 | 308 | BookwormCate |
-| 484 | 307 | Brooke Arroyo |
-| 485 | 307 | Jessica Jones Bolton |
-| 486 | 306 | Powder |
-| 487 | 305 | Lupe Chapa |
-| 488 | 304 | Loopy Clusterline |
-| 489 | 303 | Elli Wright |
+| 478 | 310 | Janna Thompson |
+| 479 | 310 | J.Wo |
+| 480 | 309 | TRUCHILD777$$$ |
+| 481 | 309 | tj |
+| 482 | 309 | Casey Thomas |
+| 483 | 308 | Bouncy |
+| 484 | 308 | BookwormCate |
+| 485 | 307 | Brooke Arroyo |
+| 486 | 307 | Jessica Jones Bolton |
+| 487 | 306 | Powder |
+| 488 | 305 | Lupe Chapa |
+| 489 | 304 | Loopy Clusterline |
 | 490 | 303 | Frothy Pattern |
 | 491 | 302 | Scrumptious |
 | 492 | 302 | Missionary Meda |

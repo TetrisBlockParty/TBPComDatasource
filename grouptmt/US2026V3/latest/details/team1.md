@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:50:47 UTC
+# Standings for team1 as of 2026-06-10 08:51:22 UTC
 
 **Total Participants:** 2249
 
@@ -648,21 +648,21 @@
 | 640 | 235 | Daring Blockclear |
 | 641 | 235 | nameno |
 | 642 | 235 | Juan Lewis |
-| 643 | 234 | Cori Cleland |
-| 644 | 233 | Bella |
-| 645 | 232 | Daring Riserfit |
-| 646 | 232 | Karen Knapp |
-| 647 | 231 | TieMs BHughez |
-| 648 | 231 | Tyiesha Pie Farmer |
-| 649 | 231 | toxictonic92 |
-| 650 | 231 | Dannie |
-| 651 | 230 | Adrian Wilson |
+| 643 | 235 | Loony Clearer |
+| 644 | 234 | Cori Cleland |
+| 645 | 233 | Bella |
+| 646 | 232 | Daring Riserfit |
+| 647 | 232 | Karen Knapp |
+| 648 | 231 | TieMs BHughez |
+| 649 | 231 | Tyiesha Pie Farmer |
+| 650 | 231 | toxictonic92 |
+| 651 | 231 | Dannie |
 | 652 | 230 | Jessica Kirby |
-| 653 | 230 | Poyre Shelton |
-| 654 | 229 | Kike Lua |
-| 655 | 229 | Lucille Wilson Davis |
-| 656 | 229 | brite |
-| 657 | 228 | Loony Clearer |
+| 653 | 230 | Adrian Wilson |
+| 654 | 230 | Poyre Shelton |
+| 655 | 229 | Kike Lua |
+| 656 | 229 | Lucille Wilson Davis |
+| 657 | 229 | brite |
 | 658 | 228 | Coco |
 | 659 | 228 | Spicy Shatterblock |
 | 660 | 227 | Kimberly Susan Privette |
@@ -685,7 +685,7 @@
 | 677 | 223 | Stephen Providenti |
 | 678 | 222 | Krystal Maynard |
 | 679 | 222 | Antoinette Kelly |
-| 680 | 221 | Tyler |
+| 680 | 222 | Tyler |
 | 681 | 220 | Leavon Smith |
 | 682 | 220 | Carolyn Smith |
 | 683 | 220 | jeremy92 |
@@ -1163,35 +1163,35 @@
 | 1155 | 105 | Maria |
 | 1156 | 105 | Ja'mice Nelson |
 | 1157 | 105 | Michael Smith |
-| 1158 | 105 | smash56! |
-| 1159 | 105 | Angie Lebron |
-| 1160 | 105 | Nikkizz |
-| 1161 | 105 | Jack Mehof |
+| 1158 | 105 | WReckitraff |
+| 1159 | 105 | smash56! |
+| 1160 | 105 | Angie Lebron |
+| 1161 | 105 | Nikkizz |
 | 1162 | 105 | Tomme Poliwka |
-| 1163 | 104 | Diamond Nicole |
-| 1164 | 104 | Shadena M Carter Mba |
-| 1165 | 104 | Ahvae Lee |
-| 1166 | 104 | Briela Sabrina |
-| 1167 | 104 | Chummy Twisterfit |
-| 1168 | 103 | LexiiSamayaa |
+| 1163 | 105 | Jack Mehof |
+| 1164 | 104 | Diamond Nicole |
+| 1165 | 104 | Shadena M Carter Mba |
+| 1166 | 104 | Ahvae Lee |
+| 1167 | 104 | Briela Sabrina |
+| 1168 | 104 | Chummy Twisterfit |
 | 1169 | 103 | Nicole Coko Thomas |
-| 1170 | 103 | LaTonya Collier |
-| 1171 | 103 | Darlene Johnson |
-| 1172 | 102 | Austin Smith |
-| 1173 | 102 | Nayyirah Hariyyan |
-| 1174 | 102 | Brave Gridmatch |
-| 1175 | 102 | Silly Shatterline |
-| 1176 | 101 | Wacky Wipepiece |
-| 1177 | 101 | Vortex Viniq |
-| 1178 | 101 | WReckitraff |
+| 1170 | 103 | LexiiSamayaa |
+| 1171 | 103 | LaTonya Collier |
+| 1172 | 103 | Darlene Johnson |
+| 1173 | 102 | Silly Shatterline |
+| 1174 | 102 | Austin Smith |
+| 1175 | 102 | Brave Gridmatch |
+| 1176 | 102 | Nayyirah Hariyyan |
+| 1177 | 101 | Wacky Wipepiece |
+| 1178 | 101 | Vortex Viniq |
 | 1179 | 101 | Kendra KJ Joyner |
 | 1180 | 101 | Ryan Holm |
-| 1181 | 100 | Jonathan McKenzie |
-| 1182 | 100 | Sugar Foot |
+| 1181 | 100 | BigMike |
+| 1182 | 100 | Jonathan McKenzie |
 | 1183 | 100 | Megan Payette |
-| 1184 | 100 | nay |
-| 1185 | 100 | BigMike |
-| 1186 | 100 | Jeaneé Nay |
+| 1184 | 100 | Sugar Foot |
+| 1185 | 100 | Jeaneé Nay |
+| 1186 | 100 | nay |
 | 1187 | 100 | Oldheads |
 | 1188 | 100 | Thomas Pearson |
 | 1189 | 100 | Stefan Flick Man |
@@ -1493,35 +1493,35 @@
 | 1485 | 56 | Carolyn Delphie |
 | 1486 | 56 | Ginna |
 | 1487 | 56 | Tim Tim |
-| 1488 | 56 | Christina A Patterson |
-| 1489 | 55 | Linny Loop |
-| 1490 | 55 | KoolKimJay |
-| 1491 | 55 | Teena K Macon |
-| 1492 | 55 | Pamela Cooper |
-| 1493 | 55 | Kris Gray |
-| 1494 | 55 | Princess Nevaeh |
-| 1495 | 55 | Bouncy Blockclear |
-| 1496 | 55 | Robin Prioleau |
-| 1497 | 55 | Kimberly Red |
-| 1498 | 55 | Kikiness |
-| 1499 | 55 | Dapper Balancefit |
-| 1500 | 54 | Beautiful314 |
-| 1501 | 54 | MoneyMac |
-| 1502 | 54 | Tahlia Nunez Williams |
-| 1503 | 54 | Giggy Holder |
-| 1504 | 54 | Ayeisha W |
-| 1505 | 54 | Mazi Johnson |
-| 1506 | 54 | Laura Long |
-| 1507 | 54 | Sicily Bailey |
-| 1508 | 54 | Ķïrãã Ďãvïss |
-| 1509 | 54 | Maranda Broadway |
-| 1510 | 54 | Michael Jones |
-| 1511 | 54 | deeno |
-| 1512 | 53 | Michael Lindenlauf |
+| 1488 | 56 | Laura Long |
+| 1489 | 56 | Christina A Patterson |
+| 1490 | 55 | Linny Loop |
+| 1491 | 55 | KoolKimJay |
+| 1492 | 55 | Teena K Macon |
+| 1493 | 55 | Pamela Cooper |
+| 1494 | 55 | Kris Gray |
+| 1495 | 55 | Princess Nevaeh |
+| 1496 | 55 | Bouncy Blockclear |
+| 1497 | 55 | Robin Prioleau |
+| 1498 | 55 | Kimberly Red |
+| 1499 | 55 | Kikiness |
+| 1500 | 55 | Dapper Balancefit |
+| 1501 | 54 | Beautiful314 |
+| 1502 | 54 | deeno |
+| 1503 | 54 | Michael Jones |
+| 1504 | 54 | MoneyMac |
+| 1505 | 54 | Maranda Broadway |
+| 1506 | 54 | Ķïrãã Ďãvïss |
+| 1507 | 54 | Tahlia Nunez Williams |
+| 1508 | 54 | Sicily Bailey |
+| 1509 | 54 | Mazi Johnson |
+| 1510 | 54 | Giggy Holder |
+| 1511 | 54 | Ayeisha W |
+| 1512 | 53 | Giddy Bricky |
 | 1513 | 53 | Jade Smalls |
-| 1514 | 53 | Sashaleo |
-| 1515 | 53 | Silly Matchbuilder |
-| 1516 | 53 | Giddy Bricky |
+| 1514 | 53 | Michael Lindenlauf |
+| 1515 | 53 | Sashaleo |
+| 1516 | 53 | Silly Matchbuilder |
 | 1517 | 52 | Loopy Risepiece |
 | 1518 | 52 | Linda Howard |
 | 1519 | 52 | Jateerah Davis |
