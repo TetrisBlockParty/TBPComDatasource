@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:16:43 UTC
+# Standings for team4 as of 2026-06-10 08:17:23 UTC
 
 **Total Participants:** 2296
 
@@ -214,8 +214,8 @@
 | 206 | 681 | Janet Sanfilippo Sullivan |
 | 207 | 678 | Katie Lynn Petit |
 | 208 | 662 | Danielle Mitchell |
-| 209 | 660 | Wanda Simmons |
-| 210 | 657 | Snippy Splitter |
+| 209 | 661 | Snippy Splitter |
+| 210 | 660 | Wanda Simmons |
 | 211 | 651 | Dayna Arthurs |
 | 212 | 651 | Jewelz |
 | 213 | 650 | Beth Belanger |
@@ -456,10 +456,10 @@
 | 448 | 325 | Matthew Wilcox |
 | 449 | 324 | Nikki |
 | 450 | 323 | FitMeDiva |
-| 451 | 322 | Jazzy Rollout |
-| 452 | 321 | Ashley Eskridge |
-| 453 | 320 | Lady Dolphin |
-| 454 | 320 | Laurie Patrick |
+| 451 | 323 | Laurie Patrick |
+| 452 | 322 | Jazzy Rollout |
+| 453 | 321 | Ashley Eskridge |
+| 454 | 320 | Lady Dolphin |
 | 455 | 320 | Nerdy Faller |
 | 456 | 319 | Azahares Alonso |
 | 457 | 318 | Rosy Perez |
@@ -747,8 +747,8 @@
 | 739 | 203 | Goofy Strike |
 | 740 | 202 | Clever Patterner |
 | 741 | 202 | MrLoner Stoner |
-| 742 | 202 | Shaneé Staunton |
-| 743 | 202 | Ashley Nichole Skamra |
+| 742 | 202 | Ashley Nichole Skamra |
+| 743 | 202 | Shaneé Staunton |
 | 744 | 201 | Abby Waterman |
 | 745 | 201 | Frilly Zoney |
 | 746 | 201 | Tipsy Patternfit |
@@ -1004,27 +1004,27 @@
 | 996 | 144 | Mighty Spinfit |
 | 997 | 143 | Miranda Brown |
 | 998 | 143 | Rebekah Anne Macias |
-| 999 | 142 | Clever Blockmatch |
-| 1000 | 141 | Scott Baum |
-| 1001 | 141 | Audrianna Skaff |
-| 1002 | 141 | Baby cat |
-| 1003 | 141 | Aaron Turner |
-| 1004 | 141 | Phredda Helene Gavornik |
-| 1005 | 141 | Monkey |
-| 1006 | 140 | Kris McMahon |
-| 1007 | 140 | the repo |
-| 1008 | 140 | Heather Brown |
-| 1009 | 140 | Glitter |
-| 1010 | 140 | Jean Yap |
-| 1011 | 140 | Groovy Matchgrid |
-| 1012 | 140 | Stacey Heartful |
-| 1013 | 140 | Krista Diaz |
-| 1014 | 140 | Littleshark |
-| 1015 | 140 | Larredo Covington |
-| 1016 | 140 | Aim Georgia Bros Scott |
-| 1017 | 140 | Willy Leung |
-| 1018 | 140 | skynatda |
-| 1019 | 140 | Cozy Builderfit |
+| 999 | 143 | Cozy Builderfit |
+| 1000 | 142 | Clever Blockmatch |
+| 1001 | 141 | Scott Baum |
+| 1002 | 141 | Audrianna Skaff |
+| 1003 | 141 | Baby cat |
+| 1004 | 141 | Aaron Turner |
+| 1005 | 141 | Phredda Helene Gavornik |
+| 1006 | 141 | Monkey |
+| 1007 | 140 | Kris McMahon |
+| 1008 | 140 | the repo |
+| 1009 | 140 | Heather Brown |
+| 1010 | 140 | Glitter |
+| 1011 | 140 | Jean Yap |
+| 1012 | 140 | Groovy Matchgrid |
+| 1013 | 140 | Stacey Heartful |
+| 1014 | 140 | Krista Diaz |
+| 1015 | 140 | Littleshark |
+| 1016 | 140 | Larredo Covington |
+| 1017 | 140 | Aim Georgia Bros Scott |
+| 1018 | 140 | Willy Leung |
+| 1019 | 140 | skynatda |
 | 1020 | 139 | Cozy Patternbuilder |
 | 1021 | 139 | Giggy Snapgrid |
 | 1022 | 139 | Jonelle Jacobs |
@@ -1062,8 +1062,8 @@
 | 1054 | 133 | Sonia Cordero-Martinez |
 | 1055 | 133 | Sa5siy |
 | 1056 | 132 | Marie Lily |
-| 1057 | 132 | Jarad Glover |
-| 1058 | 132 | Chirpy Spinzone |
+| 1057 | 132 | Chirpy Spinzone |
+| 1058 | 132 | Jarad Glover |
 | 1059 | 132 | Giggly Gridzone |
 | 1060 | 132 | Chris Somsen |
 | 1061 | 132 | William Brooks |
@@ -1370,59 +1370,59 @@
 | 1362 | 80 | Peachy Linkbuilder |
 | 1363 | 80 | Brenda Villa |
 | 1364 | 80 | CM |
-| 1365 | 79 | Natisha Bullock |
-| 1366 | 79 | Tahira Patrice |
-| 1367 | 79 | pisces26luna |
-| 1368 | 79 | Blessedmama |
-| 1369 | 79 | James Moore |
-| 1370 | 79 | Jenny Torres |
-| 1371 | 79 | Joshua Powers |
-| 1372 | 79 | Jessikunt Gdula Pierre |
-| 1373 | 79 | Chipper Hitter |
-| 1374 | 78 | Tracy Ann Frederick |
-| 1375 | 78 | AVA |
-| 1376 | 78 | Ja'Net Riley |
-| 1377 | 78 | Jade Alley |
-| 1378 | 78 | Zappy Matchgrid |
-| 1379 | 78 | Spicy Gridder |
-| 1380 | 78 | Christopher Lindsey |
-| 1381 | 78 | Jacklyn Martinez |
-| 1382 | 78 | Doris Wastak |
-| 1383 | 77 | Heather Cross High |
-| 1384 | 77 | Stuart Crosby |
-| 1385 | 77 | Michael Cruz |
-| 1386 | 77 | Vanessa Pritchett |
-| 1387 | 77 | Shannon Lee |
-| 1388 | 77 | Rai |
-| 1389 | 77 | Rebecca Renaud |
-| 1390 | 76 | Aliyah Abdella |
-| 1391 | 76 | Brandy Martin-Lowery |
-| 1392 | 76 | Ksawn Collymore-bey Collymore-bey |
-| 1393 | 76 | Uh Lesh Uh |
-| 1394 | 76 | Nakkia Mobley |
-| 1395 | 76 | Sunny Bricky |
-| 1396 | 76 | Johnny Jeppesen |
+| 1365 | 79 | KingWing |
+| 1366 | 79 | Natisha Bullock |
+| 1367 | 79 | Tahira Patrice |
+| 1368 | 79 | pisces26luna |
+| 1369 | 79 | Blessedmama |
+| 1370 | 79 | James Moore |
+| 1371 | 79 | Jenny Torres |
+| 1372 | 79 | Joshua Powers |
+| 1373 | 79 | Jessikunt Gdula Pierre |
+| 1374 | 79 | Chipper Hitter |
+| 1375 | 78 | Tracy Ann Frederick |
+| 1376 | 78 | AVA |
+| 1377 | 78 | Ja'Net Riley |
+| 1378 | 78 | Jade Alley |
+| 1379 | 78 | Zappy Matchgrid |
+| 1380 | 78 | Spicy Gridder |
+| 1381 | 78 | Christopher Lindsey |
+| 1382 | 78 | Jacklyn Martinez |
+| 1383 | 78 | Doris Wastak |
+| 1384 | 77 | Heather Cross High |
+| 1385 | 77 | Stuart Crosby |
+| 1386 | 77 | Michael Cruz |
+| 1387 | 77 | Vanessa Pritchett |
+| 1388 | 77 | Shannon Lee |
+| 1389 | 77 | Rai |
+| 1390 | 77 | Rebecca Renaud |
+| 1391 | 76 | Aliyah Abdella |
+| 1392 | 76 | Brandy Martin-Lowery |
+| 1393 | 76 | Ksawn Collymore-bey Collymore-bey |
+| 1394 | 76 | Uh Lesh Uh |
+| 1395 | 76 | Nakkia Mobley |
+| 1396 | 76 | Sunny Bricky |
 | 1397 | 76 | Jazzy Smasher |
-| 1398 | 75 | White As Snow |
+| 1398 | 76 | Johnny Jeppesen |
 | 1399 | 75 | Bri |
-| 1400 | 75 | Spunky Risegrid |
-| 1401 | 75 | Jessica Marie Flores |
-| 1402 | 75 | Jeremy Fisher |
-| 1403 | 75 | ŁųŁų |
-| 1404 | 75 | Ali Nicole |
-| 1405 | 75 | Gary Moore |
-| 1406 | 75 | Marco A. Sandoval |
-| 1407 | 74 | Chirpy Corner |
-| 1408 | 74 | Destiny Georgia Reeves Beller |
-| 1409 | 74 | Shane Tate |
-| 1410 | 74 | Frothy Pivotfall |
-| 1411 | 74 | Beck Samoney |
-| 1412 | 74 | KingWing |
+| 1400 | 75 | White As Snow |
+| 1401 | 75 | Spunky Risegrid |
+| 1402 | 75 | Jessica Marie Flores |
+| 1403 | 75 | Jeremy Fisher |
+| 1404 | 75 | ŁųŁų |
+| 1405 | 75 | Ali Nicole |
+| 1406 | 75 | Gary Moore |
+| 1407 | 75 | Marco A. Sandoval |
+| 1408 | 74 | Chirpy Corner |
+| 1409 | 74 | Destiny Georgia Reeves Beller |
+| 1410 | 74 | Shane Tate |
+| 1411 | 74 | Frothy Pivotfall |
+| 1412 | 74 | Beck Samoney |
 | 1413 | 73 | Toyag |
-| 1414 | 73 | Fkvj |
-| 1415 | 73 | Athena Hunt |
-| 1416 | 73 | sleepy head |
-| 1417 | 73 | Brooke Limpf |
+| 1414 | 73 | Brooke Limpf |
+| 1415 | 73 | sleepy head |
+| 1416 | 73 | Athena Hunt |
+| 1417 | 73 | Fkvj |
 | 1418 | 73 | Jozette Smalarz |
 | 1419 | 73 | Bo Hagan |
 | 1420 | 73 | Yseoj M. Zurc |
@@ -1445,8 +1445,8 @@
 | 1437 | 70 | Jada Jordyn Campbell |
 | 1438 | 70 | Dustin Bell |
 | 1439 | 70 | Jolene Stieren |
-| 1440 | 70 | Syreeta B Robinson |
-| 1441 | 70 | Felicia May Langley |
+| 1440 | 70 | Felicia May Langley |
+| 1441 | 70 | Syreeta B Robinson |
 | 1442 | 69 | Felicity Fahrentin |
 | 1443 | 69 | Mighty Liney |
 | 1444 | 69 | Tina Lopez |

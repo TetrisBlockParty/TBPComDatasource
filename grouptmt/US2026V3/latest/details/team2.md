@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:16:43 UTC
+# Standings for team2 as of 2026-06-10 08:17:23 UTC
 
 **Total Participants:** 2710
 
@@ -146,8 +146,8 @@
 | 138 | 1243 | jmo87 |
 | 139 | 1218 | LittleHippoEars |
 | 140 | 1200 | Denise Potter |
-| 141 | 1191 | Ricardo Ewart |
-| 142 | 1186 | Melissa Thomas |
+| 141 | 1200 | Melissa Thomas |
+| 142 | 1191 | Ricardo Ewart |
 | 143 | 1186 | Sam |
 | 144 | 1171 | BrendaLee NolanBos |
 | 145 | 1157 | Hilliary Beyer |
@@ -265,8 +265,8 @@
 | 257 | 691 | Wacky Tumbler |
 | 258 | 690 | Starr Collins |
 | 259 | 687 | meg |
-| 260 | 687 | Zach Jewett |
-| 261 | 685 | Aldotfus Williams |
+| 260 | 687 | Aldotfus Williams |
+| 261 | 687 | Zach Jewett |
 | 262 | 679 | True |
 | 263 | 677 | Cool Balancer |
 | 264 | 674 | Vistabrat |
@@ -276,8 +276,8 @@
 | 268 | 671 | Twisty Buildgrid |
 | 269 | 670 | Michelle Powers Chattaway |
 | 270 | 667 | Iesha Cupil |
-| 271 | 662 | Michelle Rich Burkhart |
-| 272 | 661 | La chulis |
+| 271 | 663 | La chulis |
+| 272 | 662 | Michelle Rich Burkhart |
 | 273 | 660 | Mikia Stokes |
 | 274 | 656 | Laverne Ellis Blair |
 | 275 | 651 | Rosalie Call Kehlenbeck |

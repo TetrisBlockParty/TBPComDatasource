@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:16:43 UTC
+# Standings for team1 as of 2026-06-10 08:17:23 UTC
 
 **Total Participants:** 2243
 
@@ -41,7 +41,7 @@
 | 33 | 3652 | Juan Kandiss Escobedo Irwin |
 | 34 | 3463 | Sha Harris |
 | 35 | 3368 | Weeze |
-| 36 | 3311 | Yolanda McDonald |
+| 36 | 3317 | Yolanda McDonald |
 | 37 | 3140 | Brian Stackhouse |
 | 38 | 3025 | COSA303 |
 | 39 | 2809 | Chill Clusterer |
@@ -767,10 +767,10 @@
 | 759 | 197 | Seddrick |
 | 760 | 196 | whatever |
 | 761 | 196 | LaSharmeika Fancher |
-| 762 | 196 | Katness |
-| 763 | 195 | Elaine Pauley |
-| 764 | 195 | Nikiya |
-| 765 | 195 | Tyler |
+| 762 | 196 | Tyler |
+| 763 | 196 | Katness |
+| 764 | 195 | Elaine Pauley |
+| 765 | 195 | Nikiya |
 | 766 | 193 | Sherry D Singleton |
 | 767 | 192 | Cameo Tweed |
 | 768 | 192 | Cranky Fall |
@@ -1177,65 +1177,65 @@
 | 1169 | 103 | LaTonya Collier |
 | 1170 | 103 | Darlene Johnson |
 | 1171 | 102 | Brave Gridmatch |
-| 1172 | 102 | Austin Smith |
-| 1173 | 102 | Nayyirah Hariyyan |
-| 1174 | 102 | Silly Shatterline |
+| 1172 | 102 | Nayyirah Hariyyan |
+| 1173 | 102 | Silly Shatterline |
+| 1174 | 102 | Austin Smith |
 | 1175 | 101 | Kendra KJ Joyner |
-| 1176 | 101 | WReckitraff |
-| 1177 | 101 | Ryan Holm |
-| 1178 | 101 | Wacky Wipepiece |
-| 1179 | 101 | Vortex Viniq |
-| 1180 | 100 | nay |
-| 1181 | 100 | Oldheads |
-| 1182 | 100 | Jonathan McKenzie |
-| 1183 | 100 | Sugar Foot |
-| 1184 | 100 | Jeaneé Nay |
+| 1176 | 101 | Ryan Holm |
+| 1177 | 101 | Wacky Wipepiece |
+| 1178 | 101 | Vortex Viniq |
+| 1179 | 101 | WReckitraff |
+| 1180 | 100 | Sugar Foot |
+| 1181 | 100 | BigMike |
+| 1182 | 100 | Jeaneé Nay |
+| 1183 | 100 | Megan Payette |
+| 1184 | 100 | nay |
 | 1185 | 100 | Stefan Flick Man |
-| 1186 | 100 | Megan Payette |
-| 1187 | 100 | Thomas Pearson |
-| 1188 | 100 | BigMike |
-| 1189 | 99 | GiantBehemoth |
-| 1190 | 99 | DeShonna Bailey |
+| 1186 | 100 | Thomas Pearson |
+| 1187 | 100 | Jonathan McKenzie |
+| 1188 | 100 | Oldheads |
+| 1189 | 99 | Evette Moreno |
+| 1190 | 99 | Jamal D. Wiley |
 | 1191 | 99 | Tellisa Payne |
-| 1192 | 99 | Evette Moreno |
-| 1193 | 99 | Jamal D. Wiley |
-| 1194 | 98 | Phoenix |
-| 1195 | 98 | PattyPower |
-| 1196 | 98 | Azeiare Ziare |
-| 1197 | 98 | Dee Dee |
-| 1198 | 98 | Tony P Burke |
-| 1199 | 97 | Denise Cunningham-English |
-| 1200 | 97 | Kevin Turner |
-| 1201 | 97 | S.S |
-| 1202 | 97 | Quwana Hall |
+| 1192 | 99 | DeShonna Bailey |
+| 1193 | 99 | GiantBehemoth |
+| 1194 | 98 | Tony P Burke |
+| 1195 | 98 | Dee Dee |
+| 1196 | 98 | PattyPower |
+| 1197 | 98 | Phoenix |
+| 1198 | 98 | Azeiare Ziare |
+| 1199 | 97 | Laura Wesley |
+| 1200 | 97 | S.S |
+| 1201 | 97 | Quwana Hall |
+| 1202 | 97 | Denise Cunningham-English |
 | 1203 | 97 | Leslie Ann |
-| 1204 | 97 | Storie Harris |
-| 1205 | 96 | Sonia Binti Mfalme |
-| 1206 | 96 | Giggly Shatterline |
+| 1204 | 97 | Kevin Turner |
+| 1205 | 97 | Storie Harris |
+| 1206 | 96 | Sonia Binti Mfalme |
 | 1207 | 96 | Linda Lasha Messenger |
-| 1208 | 96 | Just2Play$ |
-| 1209 | 96 | wuvbuug |
+| 1208 | 96 | Giggly Shatterline |
+| 1209 | 96 | Just2Play$ |
 | 1210 | 96 | Yazz |
-| 1211 | 95 | Teresa Bean |
-| 1212 | 94 | Christina Wesley |
-| 1213 | 94 | Warren Miller |
-| 1214 | 94 | Ike Nickerson |
-| 1215 | 94 | AleahKCH |
-| 1216 | 94 | Cortrell Foster |
-| 1217 | 94 | Sha Anderson |
-| 1218 | 94 | Elizabeth Clara |
-| 1219 | 94 | Laura Wesley |
-| 1220 | 94 | Antoinette GallowayJohnson |
+| 1211 | 96 | wuvbuug |
+| 1212 | 95 | Teresa Bean |
+| 1213 | 94 | Christina Wesley |
+| 1214 | 94 | AleahKCH |
+| 1215 | 94 | Sha Anderson |
+| 1216 | 94 | Elizabeth Clara |
+| 1217 | 94 | Antoinette GallowayJohnson |
+| 1218 | 94 | Cortrell Foster |
+| 1219 | 94 | Warren Miller |
+| 1220 | 94 | Ike Nickerson |
 | 1221 | 93 | Brave Balanceblock |
-| 1222 | 93 | Khatyrah Burnette |
-| 1223 | 93 | 214Petty |
-| 1224 | 93 | don ralph |
-| 1225 | 92 | Jennifer Rogers |
-| 1226 | 92 | Anthony T. Fults |
-| 1227 | 92 | 1ofaking |
-| 1228 | 91 | Jason Riley |
-| 1229 | 91 | Cathilia Rodriguez |
-| 1230 | 91 | Jose Antonio Villot |
+| 1222 | 93 | 214Petty |
+| 1223 | 93 | don ralph |
+| 1224 | 93 | Khatyrah Burnette |
+| 1225 | 92 | Anthony T. Fults |
+| 1226 | 92 | 1ofaking |
+| 1227 | 92 | Jennifer Rogers |
+| 1228 | 91 | Cathilia Rodriguez |
+| 1229 | 91 | Jose Antonio Villot |
+| 1230 | 91 | Jason Riley |
 | 1231 | 91 | Stephanie Vinson |
 | 1232 | 91 | David A Alvino |
 | 1233 | 91 | Jenni |
