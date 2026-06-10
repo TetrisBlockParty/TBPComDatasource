@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 14:08:46 UTC
+# Standings for team1 as of 2026-06-10 14:09:21 UTC
 
 **Total Participants:** 2271
 
@@ -148,7 +148,7 @@
 | 140 | 1045 | Joy Citizen Pickney |
 | 141 | 1040 | Quirky Fallgrid |
 | 142 | 1021 | Jeffrey Barrows |
-| 143 | 1017 | Lesley Brunkus Cianfaglione |
+| 143 | 1018 | Lesley Brunkus Cianfaglione |
 | 144 | 1014 | Cece Fowler |
 | 145 | 992 | Danielle Barthelme |
 | 146 | 987 | Kaleisha Smith |
@@ -402,14 +402,14 @@
 | 394 | 386 | De'Mear McKinney |
 | 395 | 385 | Jennah |
 | 396 | 382 | Ashley MyBeauty Daniels |
-| 397 | 381 | Faith Armone |
-| 398 | 381 | SeanSanchez |
-| 399 | 381 | Lisa Fletcher |
-| 400 | 380 | Tonya Thomas |
-| 401 | 380 | Still Ten Tay |
-| 402 | 380 | Giggy Edgefit |
-| 403 | 380 | Ladybug |
-| 404 | 380 | Shea Ladynick Henderson |
+| 397 | 382 | Shea Ladynick Henderson |
+| 398 | 381 | Faith Armone |
+| 399 | 381 | SeanSanchez |
+| 400 | 381 | Lisa Fletcher |
+| 401 | 380 | Tonya Thomas |
+| 402 | 380 | Still Ten Tay |
+| 403 | 380 | Giggy Edgefit |
+| 404 | 380 | Ladybug |
 | 405 | 380 | Ketrell Bailey |
 | 406 | 380 | MindlessMic |
 | 407 | 378 | Dennis J Herron II |
@@ -781,31 +781,31 @@
 | 773 | 203 | Tina Bongcayao |
 | 774 | 202 | Hyper Blocky |
 | 775 | 202 | Undeniable Williams |
-| 776 | 202 | Alexandrla Smith |
-| 777 | 202 | Messy Live |
-| 778 | 202 | Marbama |
-| 779 | 202 | Nutty Fallmatch |
-| 780 | 201 | Rieshelda Marie White |
-| 781 | 201 | Bea Dyer-Fields |
-| 782 | 200 | Victoria Smith |
-| 783 | 200 | Yellowguy3 |
-| 784 | 200 | Tito Divyn |
-| 785 | 200 | Kyle Conley |
-| 786 | 199 | Tanesha Ga'sFinest Corbett |
-| 787 | 198 | Rhianna Dinki Austin |
-| 788 | 198 | Darrelle Short |
-| 789 | 198 | Biggestboss Ransom |
-| 790 | 198 | Stephen Garland |
+| 776 | 202 | Messy Live |
+| 777 | 202 | Alexandrla Smith |
+| 778 | 202 | Nutty Fallmatch |
+| 779 | 202 | Marbama |
+| 780 | 201 | Bea Dyer-Fields |
+| 781 | 201 | Rieshelda Marie White |
+| 782 | 200 | Kyle Conley |
+| 783 | 200 | Tito Divyn |
+| 784 | 200 | Victoria Smith |
+| 785 | 200 | Yellowguy3 |
+| 786 | 200 | Tina Blessed Cage |
+| 787 | 199 | Tanesha Ga'sFinest Corbett |
+| 788 | 198 | Stephen Garland |
+| 789 | 198 | Chocolate |
+| 790 | 198 | Cornelius Neal |
 | 791 | 198 | Lynn |
-| 792 | 198 | Cornelius Neal |
-| 793 | 198 | Chocolate |
-| 794 | 197 | krd |
+| 792 | 198 | Rhianna Dinki Austin |
+| 793 | 198 | Darrelle Short |
+| 794 | 198 | Biggestboss Ransom |
 | 795 | 197 | Amanda Woodruff |
 | 796 | 197 | Seddrick |
-| 797 | 196 | whatever |
-| 798 | 196 | Katness |
-| 799 | 195 | Chanel White |
-| 800 | 195 | Tina Blessed Cage |
+| 797 | 197 | krd |
+| 798 | 196 | whatever |
+| 799 | 196 | Katness |
+| 800 | 195 | Chanel White |
 | 801 | 195 | Elaine Pauley |
 | 802 | 194 | Sunny Clicky |
 | 803 | 193 | Sherry D Singleton |
@@ -1051,15 +1051,15 @@
 | 1043 | 131 | Elaine Youmans |
 | 1044 | 131 | Yellowbone |
 | 1045 | 131 | Eugenia Vanclusen |
-| 1046 | 130 | Latricia George |
-| 1047 | 130 | Jessica Davis |
-| 1048 | 130 | Maria Baez Medina |
-| 1049 | 130 | West Racks |
+| 1046 | 130 | Jessica Davis |
+| 1047 | 130 | West Racks |
+| 1048 | 130 | Latricia George |
+| 1049 | 130 | Maria Baez Medina |
 | 1050 | 130 | kingbrook |
-| 1051 | 129 | Caitlin Michele |
-| 1052 | 129 | Lively Rollpiece |
-| 1053 | 129 | WReckitraff |
-| 1054 | 129 | Chino Baby |
+| 1051 | 129 | Lively Rollpiece |
+| 1052 | 129 | WReckitraff |
+| 1053 | 129 | Chino Baby |
+| 1054 | 129 | Caitlin Michele |
 | 1055 | 128 | Stef Hu |
 | 1056 | 128 | Brittany Britkany Marsden-Garrison |
 | 1057 | 128 | Willson06 |
@@ -1068,13 +1068,13 @@
 | 1060 | 127 | Pretty Yella |
 | 1061 | 127 | Laura Osborne |
 | 1062 | 127 | tk |
-| 1063 | 126 | GoldStarJo |
-| 1064 | 126 | Ounquan Wright |
-| 1065 | 126 | Jeremy Hendrix |
-| 1066 | 126 | Sally Elizabeth Hopson |
-| 1067 | 125 | Angie Lebron |
-| 1068 | 125 | Rande Smith |
-| 1069 | 125 | MikeHunt |
+| 1063 | 127 | MikeHunt |
+| 1064 | 126 | GoldStarJo |
+| 1065 | 126 | Ounquan Wright |
+| 1066 | 126 | Jeremy Hendrix |
+| 1067 | 126 | Sally Elizabeth Hopson |
+| 1068 | 125 | Angie Lebron |
+| 1069 | 125 | Rande Smith |
 | 1070 | 125 | Kayd |
 | 1071 | 124 | Giggy Brickfit |
 | 1072 | 124 | jasi |
