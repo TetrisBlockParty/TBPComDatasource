@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:50:45 UTC
+# Standings for team4 as of 2026-06-10 13:51:22 UTC
 
 **Total Participants:** 2326
 
@@ -153,7 +153,7 @@
 | 145 | 990 | Kim |
 | 146 | 981 | Principal Liz |
 | 147 | 978 | Ermadette |
-| 148 | 970 | Gorica Prusina |
+| 148 | 976 | Gorica Prusina |
 | 149 | 970 | Kazrin Douglass |
 | 150 | 966 | Whitborn |
 | 151 | 952 | Alala.Cersei |
@@ -316,10 +316,10 @@
 | 308 | 477 | Pepper |
 | 309 | 477 | Amandacolle |
 | 310 | 475 | Troy Zanelli |
-| 311 | 473 | Shanae Taylor |
-| 312 | 472 | Karen Miller |
-| 313 | 472 | Chummy Jumper |
-| 314 | 471 | Speedy Twistslam |
+| 311 | 474 | Speedy Twistslam |
+| 312 | 473 | Shanae Taylor |
+| 313 | 472 | Karen Miller |
+| 314 | 472 | Chummy Jumper |
 | 315 | 471 | Bridget Stevens |
 | 316 | 471 | Tawna Curry |
 | 317 | 470 | Jojo Ann |

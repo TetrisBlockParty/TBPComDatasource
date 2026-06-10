@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:50:45 UTC
+# Standings for team1 as of 2026-06-10 13:51:22 UTC
 
 **Total Participants:** 2270
 
@@ -139,10 +139,10 @@
 | 131 | 1084 | Jimmie Makia |
 | 132 | 1084 | Roberta Lynn |
 | 133 | 1081 | Slim Shedidthat |
-| 134 | 1069 | Plucky Slamdrop |
-| 135 | 1053 | Yolanda E Fergerson |
-| 136 | 1051 | Christana Imjustbutton Stone |
-| 137 | 1050 | De'Laonzeo Anthony |
+| 134 | 1079 | De'Laonzeo Anthony |
+| 135 | 1069 | Plucky Slamdrop |
+| 136 | 1053 | Yolanda E Fergerson |
+| 137 | 1051 | Christana Imjustbutton Stone |
 | 138 | 1045 | Joy Citizen Pickney |
 | 139 | 1040 | Quirky Fallgrid |
 | 140 | 1021 | Jeffrey Barrows |
@@ -724,22 +724,22 @@
 | 716 | 220 | Leavon Smith |
 | 717 | 220 | lookin |
 | 718 | 220 | Tushama Cheris Okraku |
-| 719 | 219 | Jackytrain52 |
-| 720 | 219 | Mario Meliodas |
-| 721 | 219 | Cynda Cyn |
-| 722 | 219 | TY Newme Batts |
-| 723 | 218 | Hyedie Badie |
+| 719 | 219 | Cynda Cyn |
+| 720 | 219 | TY Newme Batts |
+| 721 | 219 | Mario Meliodas |
+| 722 | 219 | Jackytrain52 |
+| 723 | 218 | Stanley Dixon |
 | 724 | 218 | Tee Spinks |
-| 725 | 218 | Stanley Dixon |
-| 726 | 217 | Polite Granny |
-| 727 | 217 | Louise Parker |
-| 728 | 217 | Lootch |
-| 729 | 217 | Travis Davison |
-| 730 | 217 | Shemar Singleton |
-| 731 | 216 | Lively Clusterline |
+| 725 | 218 | Hyedie Badie |
+| 726 | 218 | Erica Campbell-Stillings |
+| 727 | 217 | Polite Granny |
+| 728 | 217 | Louise Parker |
+| 729 | 217 | Lootch |
+| 730 | 217 | Travis Davison |
+| 731 | 217 | Shemar Singleton |
 | 732 | 216 | Sallie Sanborn |
-| 733 | 216 | Laysa Nunez |
-| 734 | 216 | Erica Campbell-Stillings |
+| 733 | 216 | Lively Clusterline |
+| 734 | 216 | Laysa Nunez |
 | 735 | 216 | Shannon Carriger |
 | 736 | 216 | Frances Davis |
 | 737 | 216 | squints |
