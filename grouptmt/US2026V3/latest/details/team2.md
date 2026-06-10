@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:48:46 UTC
+# Standings for team2 as of 2026-06-10 07:49:21 UTC
 
 **Total Participants:** 2708
 
@@ -171,9 +171,9 @@
 | 163 | 991 | Sarah Griffey |
 | 164 | 991 | Renee Freeman Jacobson |
 | 165 | 988 | Dane Marko |
-| 166 | 975 | MarioKarasovic |
-| 167 | 971 | Shea |
-| 168 | 967 | Groovy Snapper |
+| 166 | 978 | Groovy Snapper |
+| 167 | 975 | MarioKarasovic |
+| 168 | 971 | Shea |
 | 169 | 958 | Tami Kay Williams Watson |
 | 170 | 952 | Leigh Ann |
 | 171 | 951 | AndrewandShela Gornik |
@@ -282,8 +282,8 @@
 | 274 | 651 | Rosalie Call Kehlenbeck |
 | 275 | 650 | Jennifer Smith |
 | 276 | 648 | Kathleen Dumbazz |
-| 277 | 642 | Bri St Peter |
-| 278 | 642 | La chulis |
+| 277 | 643 | La chulis |
+| 278 | 642 | Bri St Peter |
 | 279 | 639 | Stephany Green |
 | 280 | 639 | Alicia Ellenburg |
 | 281 | 631 | Donna Esbensen-Alpini |
