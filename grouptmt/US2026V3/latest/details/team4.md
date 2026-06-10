@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:12:44 UTC
+# Standings for team4 as of 2026-06-10 09:13:22 UTC
 
 **Total Participants:** 2297
 
@@ -30,8 +30,8 @@
 | 22 | 6254 | Anna Moses |
 | 23 | 5803 | Cal Renee |
 | 24 | 5662 | Tyra Brooke Everman Forest |
-| 25 | 5139 | Squirrel Donkey |
-| 26 | 5089 | Ning Quiambao |
+| 25 | 5289 | Ning Quiambao |
+| 26 | 5139 | Squirrel Donkey |
 | 27 | 5000 | Michele |
 | 28 | 4996 | Irene Arreguin |
 | 29 | 4841 | Daring Ziggy |
@@ -151,9 +151,9 @@
 | 143 | 951 | Cranky Buildout |
 | 144 | 950 | Nicole Peoples |
 | 145 | 950 | Joyce Myers |
-| 146 | 946 | Sharidan Klinginsmith |
-| 147 | 940 | Melissa WC |
-| 148 | 940 | Gorica Prusina |
+| 146 | 949 | Gorica Prusina |
+| 147 | 946 | Sharidan Klinginsmith |
+| 148 | 940 | Melissa WC |
 | 149 | 933 | Daryn Elliott |
 | 150 | 931 | Cranky Towerbuilder |
 | 151 | 920 | DexterDobbins |
@@ -199,9 +199,9 @@
 | 191 | 728 | Bonnie Powell |
 | 192 | 725 | iiPurgeV2 |
 | 193 | 723 | zoes |
-| 194 | 720 | Magz |
-| 195 | 716 | Devinlee Brown |
-| 196 | 707 | Baysoph |
+| 194 | 722 | Baysoph |
+| 195 | 720 | Magz |
+| 196 | 716 | Devinlee Brown |
 | 197 | 705 | Katie Martin |
 | 198 | 701 | Megan Vick |
 | 199 | 701 | Chuck Burns |
@@ -1423,53 +1423,53 @@
 | 1415 | 74 | Frothy Pivotfall |
 | 1416 | 74 | Chirpy Corner |
 | 1417 | 74 | Beck Samoney |
-| 1418 | 73 | Brooke Limpf |
-| 1419 | 73 | Athena Hunt |
-| 1420 | 73 | Toyag |
-| 1421 | 73 | Fkvj |
-| 1422 | 73 | sleepy head |
-| 1423 | 73 | Yseoj M. Zurc |
-| 1424 | 73 | Bo Hagan |
-| 1425 | 73 | MamaC |
-| 1426 | 73 | Jozette Smalarz |
-| 1427 | 73 | Snazzy Balanceblock |
-| 1428 | 73 | Jacqueline Couillard Jaeger |
-| 1429 | 73 | Jean Crooks |
-| 1430 | 72 | Rebecca Sloan |
-| 1431 | 72 | Terry Jo Myers |
-| 1432 | 72 | Kassey M. Clark |
-| 1433 | 72 | Heather Hilferty |
-| 1434 | 72 | Richard Armstrong |
-| 1435 | 71 | Jessica Armistead |
-| 1436 | 71 | Bouncy Blockclear |
-| 1437 | 71 | Angelo L Casillas |
-| 1438 | 71 | Hyper Snaplink |
-| 1439 | 71 | Tipsy Curvetile |
-| 1440 | 70 | T boo |
-| 1441 | 70 | Heather Dornberger |
-| 1442 | 70 | rick mase |
-| 1443 | 70 | Jada Jordyn Campbell |
-| 1444 | 70 | Kelli Wells Fuhr |
-| 1445 | 70 | Jolene Stieren |
-| 1446 | 70 | Dustin Bell |
-| 1447 | 70 | Syreeta B Robinson |
+| 1418 | 73 | Steph |
+| 1419 | 73 | Brooke Limpf |
+| 1420 | 73 | Athena Hunt |
+| 1421 | 73 | Toyag |
+| 1422 | 73 | Fkvj |
+| 1423 | 73 | sleepy head |
+| 1424 | 73 | Yseoj M. Zurc |
+| 1425 | 73 | Bo Hagan |
+| 1426 | 73 | MamaC |
+| 1427 | 73 | Jozette Smalarz |
+| 1428 | 73 | Snazzy Balanceblock |
+| 1429 | 73 | Jacqueline Couillard Jaeger |
+| 1430 | 73 | Jean Crooks |
+| 1431 | 72 | Rebecca Sloan |
+| 1432 | 72 | Terry Jo Myers |
+| 1433 | 72 | Kassey M. Clark |
+| 1434 | 72 | Heather Hilferty |
+| 1435 | 72 | Richard Armstrong |
+| 1436 | 71 | Jessica Armistead |
+| 1437 | 71 | Bouncy Blockclear |
+| 1438 | 71 | Angelo L Casillas |
+| 1439 | 71 | Hyper Snaplink |
+| 1440 | 71 | Tipsy Curvetile |
+| 1441 | 70 | T boo |
+| 1442 | 70 | Heather Dornberger |
+| 1443 | 70 | rick mase |
+| 1444 | 70 | Jada Jordyn Campbell |
+| 1445 | 70 | Kelli Wells Fuhr |
+| 1446 | 70 | Jolene Stieren |
+| 1447 | 70 | Dustin Bell |
 | 1448 | 70 | Felicia May Langley |
-| 1449 | 69 | Felicity Fahrentin |
-| 1450 | 69 | Mighty Liney |
-| 1451 | 69 | Derrek Lee |
-| 1452 | 69 | Kristin Ussery |
-| 1453 | 69 | Monica Selwyn |
-| 1454 | 69 | Tina Lopez |
-| 1455 | 68 | Bold Snapper |
-| 1456 | 68 | Kelly Kabelac Loomis |
-| 1457 | 68 | Kelley Shoop |
-| 1458 | 68 | Fineassdee23 |
-| 1459 | 68 | Keys Tome |
-| 1460 | 68 | Rizzler26 |
-| 1461 | 68 | Anna Griego |
-| 1462 | 68 | Renée Neè Neè |
-| 1463 | 67 | Jamie Wilson |
-| 1464 | 67 | Steph |
+| 1449 | 70 | Syreeta B Robinson |
+| 1450 | 69 | Felicity Fahrentin |
+| 1451 | 69 | Mighty Liney |
+| 1452 | 69 | Derrek Lee |
+| 1453 | 69 | Kristin Ussery |
+| 1454 | 69 | Monica Selwyn |
+| 1455 | 69 | Tina Lopez |
+| 1456 | 68 | Bold Snapper |
+| 1457 | 68 | Kelly Kabelac Loomis |
+| 1458 | 68 | Kelley Shoop |
+| 1459 | 68 | Fineassdee23 |
+| 1460 | 68 | Keys Tome |
+| 1461 | 68 | Rizzler26 |
+| 1462 | 68 | Anna Griego |
+| 1463 | 68 | Renée Neè Neè |
+| 1464 | 67 | Jamie Wilson |
 | 1465 | 67 | Regina N Johnson |
 | 1466 | 67 | Glittara |
 | 1467 | 67 | Nick Virgil |
