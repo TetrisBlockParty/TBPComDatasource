@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:08:46 UTC
+# Standings for team1 as of 2026-06-10 08:09:24 UTC
 
 **Total Participants:** 2243
 
@@ -1481,16 +1481,16 @@
 | 1473 | 57 | Frothy Snapbuilder |
 | 1474 | 57 | Rose Smith |
 | 1475 | 57 | Spicy Snap |
-| 1476 | 56 | Carolyn Delphie |
-| 1477 | 56 | Kevin Witdaflute |
-| 1478 | 56 | Christina A Patterson |
-| 1479 | 56 | Kayleah Washington |
+| 1476 | 56 | David Rankin |
+| 1477 | 56 | Christina A Patterson |
+| 1478 | 56 | Kayleah Washington |
+| 1479 | 56 | Kevin Witdaflute |
 | 1480 | 56 | Lisa Ivy |
-| 1481 | 56 | Tim Tim |
-| 1482 | 56 | Stasha Chaires |
-| 1483 | 56 | Giddy Twistslam |
-| 1484 | 56 | Ginna |
-| 1485 | 56 | David Rankin |
+| 1481 | 56 | Carolyn Delphie |
+| 1482 | 56 | Tim Tim |
+| 1483 | 56 | Stasha Chaires |
+| 1484 | 56 | Giddy Twistslam |
+| 1485 | 56 | Ginna |
 | 1486 | 55 | Kris Gray |
 | 1487 | 55 | Robin Prioleau |
 | 1488 | 55 | KoolKimJay |
@@ -1501,100 +1501,100 @@
 | 1493 | 55 | Bouncy Blockclear |
 | 1494 | 55 | Dapper Balancefit |
 | 1495 | 55 | Kikiness |
-| 1496 | 54 | Sicily Bailey |
-| 1497 | 54 | Ķïrãã Ďãvïss |
-| 1498 | 54 | Giggy Holder |
-| 1499 | 54 | Michael Jones |
-| 1500 | 54 | deeno |
-| 1501 | 54 | Ayeisha W |
-| 1502 | 54 | Beautiful314 |
-| 1503 | 54 | Mazi Johnson |
-| 1504 | 54 | MoneyMac |
-| 1505 | 54 | Maranda Broadway |
-| 1506 | 54 | Tahlia Nunez Williams |
-| 1507 | 53 | Michael Lindenlauf |
-| 1508 | 53 | Giddy Bricky |
-| 1509 | 53 | Peppy Shatterblock |
-| 1510 | 53 | Jade Smalls |
-| 1511 | 53 | Silly Matchbuilder |
-| 1512 | 53 | Sashaleo |
-| 1513 | 52 | Giddy Twisterfit |
-| 1514 | 52 | Jateerah Davis |
-| 1515 | 52 | Linda Howard |
-| 1516 | 52 | MsBobby Patrick |
-| 1517 | 52 | Snippy Glidepiece |
-| 1518 | 52 | Ashley Horne |
-| 1519 | 52 | Loopy Risepiece |
-| 1520 | 51 | Giggy Rollfit |
-| 1521 | 51 | SpeedyJas |
-| 1522 | 51 | Michelle Stottlemyer |
-| 1523 | 51 | Kool bule |
-| 1524 | 51 | mae |
-| 1525 | 51 | Danielle Marie Lewis |
-| 1526 | 51 | Raylane Brandy Larkin |
-| 1527 | 51 | Laura |
-| 1528 | 51 | Emeka Agu |
-| 1529 | 51 | Beth Ingham |
-| 1530 | 51 | Jakari Wool |
+| 1496 | 55 | Teena K Macon |
+| 1497 | 54 | Tahlia Nunez Williams |
+| 1498 | 54 | Ķïrãã Ďãvïss |
+| 1499 | 54 | Giggy Holder |
+| 1500 | 54 | Michael Jones |
+| 1501 | 54 | deeno |
+| 1502 | 54 | Ayeisha W |
+| 1503 | 54 | Sicily Bailey |
+| 1504 | 54 | Beautiful314 |
+| 1505 | 54 | Mazi Johnson |
+| 1506 | 54 | MoneyMac |
+| 1507 | 54 | Maranda Broadway |
+| 1508 | 53 | Michael Lindenlauf |
+| 1509 | 53 | Giddy Bricky |
+| 1510 | 53 | Peppy Shatterblock |
+| 1511 | 53 | Jade Smalls |
+| 1512 | 53 | Silly Matchbuilder |
+| 1513 | 53 | Sashaleo |
+| 1514 | 52 | Giddy Twisterfit |
+| 1515 | 52 | Jateerah Davis |
+| 1516 | 52 | Linda Howard |
+| 1517 | 52 | MsBobby Patrick |
+| 1518 | 52 | Snippy Glidepiece |
+| 1519 | 52 | Ashley Horne |
+| 1520 | 52 | Loopy Risepiece |
+| 1521 | 51 | mae |
+| 1522 | 51 | SpeedyJas |
+| 1523 | 51 | Giggy Rollfit |
+| 1524 | 51 | Michelle Stottlemyer |
+| 1525 | 51 | Kool bule |
+| 1526 | 51 | Danielle Marie Lewis |
+| 1527 | 51 | Raylane Brandy Larkin |
+| 1528 | 51 | Laura |
+| 1529 | 51 | Emeka Agu |
+| 1530 | 51 | Beth Ingham |
 | 1531 | 51 | Kennita Leach Woodard |
-| 1532 | 51 | Chirpy Glidezone |
-| 1533 | 51 | Zappy Zoney |
-| 1534 | 51 | Destiny Maria |
-| 1535 | 51 | Madam Suki |
-| 1536 | 50 | TrapQween39Bi |
-| 1537 | 50 | Clever Tilebuilder |
-| 1538 | 50 | SosaaCurry |
-| 1539 | 50 | Douglas Jones |
-| 1540 | 50 | Speedy Patternblock |
-| 1541 | 50 | Cranky Fitblock |
-| 1542 | 50 | ThaMENACING1 |
-| 1543 | 50 | Danny Kerns Jr. |
-| 1544 | 50 | Happymama |
-| 1545 | 50 | Terry Lee Moya |
-| 1546 | 50 | Aero Builder |
-| 1547 | 49 | Alyssa H |
-| 1548 | 49 | Carl Richardson |
-| 1549 | 49 | Farah Simpson |
-| 1550 | 49 | Temeshia Brooks Washington |
-| 1551 | 49 | Pretty-Lily |
-| 1552 | 49 | Silly Shifter |
-| 1553 | 49 | Brika Brika |
-| 1554 | 48 | Alisia Johns |
+| 1532 | 51 | Jakari Wool |
+| 1533 | 51 | Chirpy Glidezone |
+| 1534 | 51 | Zappy Zoney |
+| 1535 | 51 | Destiny Maria |
+| 1536 | 51 | Madam Suki |
+| 1537 | 50 | Douglas Jones |
+| 1538 | 50 | TrapQween39Bi |
+| 1539 | 50 | SosaaCurry |
+| 1540 | 50 | Clever Tilebuilder |
+| 1541 | 50 | Speedy Patternblock |
+| 1542 | 50 | Happymama |
+| 1543 | 50 | Cranky Fitblock |
+| 1544 | 50 | Danny Kerns Jr. |
+| 1545 | 50 | Aero Builder |
+| 1546 | 50 | Terry Lee Moya |
+| 1547 | 50 | ThaMENACING1 |
+| 1548 | 49 | Alyssa H |
+| 1549 | 49 | Carl Richardson |
+| 1550 | 49 | Farah Simpson |
+| 1551 | 49 | Temeshia Brooks Washington |
+| 1552 | 49 | Pretty-Lily |
+| 1553 | 49 | Silly Shifter |
+| 1554 | 49 | Brika Brika |
 | 1555 | 48 | Jumpy Striker |
-| 1556 | 48 | Dave Breaker |
-| 1557 | 48 | Annie |
-| 1558 | 48 | Bubbly Base |
-| 1559 | 48 | Jolly Combo |
-| 1560 | 47 | Marc Jones |
-| 1561 | 47 | Steven Jurk |
-| 1562 | 47 | Major314 |
-| 1563 | 47 | Kimberly Haynes |
-| 1564 | 47 | Joycina Newsome |
-| 1565 | 47 | Hyper Cluster |
-| 1566 | 47 | Talya Richards |
-| 1567 | 47 | Pizzle |
-| 1568 | 47 | Leonard R. Chanette |
-| 1569 | 46 | Hasaan Jones |
+| 1556 | 48 | Alisia Johns |
+| 1557 | 48 | Dave Breaker |
+| 1558 | 48 | Annie |
+| 1559 | 48 | Bubbly Base |
+| 1560 | 48 | Jolly Combo |
+| 1561 | 47 | Marc Jones |
+| 1562 | 47 | Steven Jurk |
+| 1563 | 47 | Major314 |
+| 1564 | 47 | Kimberly Haynes |
+| 1565 | 47 | Joycina Newsome |
+| 1566 | 47 | Hyper Cluster |
+| 1567 | 47 | Talya Richards |
+| 1568 | 47 | Pizzle |
+| 1569 | 47 | Leonard R. Chanette |
 | 1570 | 46 | Wu May |
-| 1571 | 46 | Bubbly Rollout |
-| 1572 | 46 | Niki Bell |
+| 1571 | 46 | Hasaan Jones |
+| 1572 | 46 | Bubbly Rollout |
 | 1573 | 46 | Breezy Dashpiece |
-| 1574 | 46 | Crystal Ann |
-| 1575 | 46 | Christina Tyler |
-| 1576 | 46 | DaShawntae Durham |
-| 1577 | 46 | Daniel Jenkins |
-| 1578 | 46 | Teena K Macon |
+| 1574 | 46 | Niki Bell |
+| 1575 | 46 | Crystal Ann |
+| 1576 | 46 | Daniel Jenkins |
+| 1577 | 46 | DaShawntae Durham |
+| 1578 | 46 | Christina Tyler |
 | 1579 | 46 | Beverly Redd-Fountain |
 | 1580 | 46 | Moneyy Munrow  |
 | 1581 | 45 | toooooott |
-| 1582 | 45 | Matraca Young |
-| 1583 | 45 | LadyMosley |
+| 1582 | 45 | LadyMosley |
+| 1583 | 45 | Nicole |
 | 1584 | 45 | Venna Cooper |
-| 1585 | 45 | Nicole |
-| 1586 | 45 | Anthony Jackson |
-| 1587 | 45 | Alexis Farquer |
-| 1588 | 45 | Jason A Giantonio |
-| 1589 | 45 | Sonia Nieves |
+| 1585 | 45 | Sonia Nieves |
+| 1586 | 45 | Matraca Young |
+| 1587 | 45 | Anthony Jackson |
+| 1588 | 45 | Alexis Farquer |
+| 1589 | 45 | Jason A Giantonio |
 | 1590 | 45 | Angela Roseburgh |
 | 1591 | 45 | Clever Blocker |
 | 1592 | 45 | Plucky Dashgrid |
