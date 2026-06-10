@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:10:49 UTC
+# Standings for team1 as of 2026-06-10 08:11:22 UTC
 
 **Total Participants:** 2243
 
@@ -220,7 +220,7 @@
 | 212 | 664 | Elizabeth Vega Coreano |
 | 213 | 661 | Sarah Clark |
 | 214 | 657 | Crystal Anderson |
-| 215 | 653 | Jenna Renee |
+| 215 | 654 | Jenna Renee |
 | 216 | 647 | Block King |
 | 217 | 646 | TeeMaster Barber IsLyfe |
 | 218 | 633 | Nobles Brandon |
