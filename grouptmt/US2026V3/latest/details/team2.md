@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:07:22 UTC
+# Standings for team2 as of 2026-06-10 08:08:46 UTC
 
 **Total Participants:** 2710
 
@@ -278,8 +278,8 @@
 | 270 | 667 | Iesha Cupil |
 | 271 | 662 | Michelle Rich Burkhart |
 | 272 | 660 | Mikia Stokes |
-| 273 | 656 | Laverne Ellis Blair |
-| 274 | 655 | La chulis |
+| 273 | 658 | La chulis |
+| 274 | 656 | Laverne Ellis Blair |
 | 275 | 651 | Rosalie Call Kehlenbeck |
 | 276 | 650 | Jennifer Smith |
 | 277 | 648 | Kathleen Dumbazz |
@@ -338,25 +338,25 @@
 | 330 | 549 | Greta Warden |
 | 331 | 545 | Amanda L Strong |
 | 332 | 544 | Elliott Mikila |
-| 333 | 538 | Jason Cunningham |
-| 334 | 536 | Naomi Walker |
-| 335 | 535 | MUMBLES |
-| 336 | 535 | Amy Gale |
-| 337 | 534 | Aurora June Brock |
-| 338 | 533 | Samantha Carman |
-| 339 | 532 | Amy Gregg |
-| 340 | 530 | Nikki Greeneyebeauty |
-| 341 | 525 | Amy Taylor Pomerenk |
-| 342 | 524 | Chill Shatterer |
-| 343 | 523 | Marilyn Strickland |
-| 344 | 523 | James Ward |
-| 345 | 522 | Doowop40 |
-| 346 | 520 | Deezie |
-| 347 | 518 | Cheery Tilefall |
-| 348 | 518 | Jodi Johnson |
-| 349 | 517 | Jeffrey Smith |
-| 350 | 517 | Santara Ferguson |
-| 351 | 517 | Nichole Wilson |
+| 333 | 540 | Nichole Wilson |
+| 334 | 538 | Jason Cunningham |
+| 335 | 536 | Naomi Walker |
+| 336 | 535 | MUMBLES |
+| 337 | 535 | Amy Gale |
+| 338 | 534 | Aurora June Brock |
+| 339 | 533 | Samantha Carman |
+| 340 | 532 | Amy Gregg |
+| 341 | 530 | Nikki Greeneyebeauty |
+| 342 | 525 | Amy Taylor Pomerenk |
+| 343 | 524 | Chill Shatterer |
+| 344 | 523 | Marilyn Strickland |
+| 345 | 523 | James Ward |
+| 346 | 522 | Doowop40 |
+| 347 | 520 | Deezie |
+| 348 | 518 | Cheery Tilefall |
+| 349 | 518 | Jodi Johnson |
+| 350 | 517 | Jeffrey Smith |
+| 351 | 517 | Santara Ferguson |
 | 352 | 517 | Julibeth Wells |
 | 353 | 511 | Flashy Drop |
 | 354 | 509 | Churube Finwoiisopw |
@@ -385,8 +385,8 @@
 | 377 | 472 | Victoria Pale |
 | 378 | 470 | Loopy Dropper |
 | 379 | 467 | Missy Renia |
-| 380 | 464 | Leticia Tillman |
-| 381 | 464 | Jessica Connot |
+| 380 | 464 | Jessica Connot |
+| 381 | 464 | Leticia Tillman |
 | 382 | 462 | Sarah Jane Gorsuch |
 | 383 | 462 | Funway998 |
 | 384 | 461 | Erica South |
@@ -808,36 +808,36 @@
 | 800 | 233 | Jolene Hull Hearn |
 | 801 | 232 | Sandy Rundel Holderman |
 | 802 | 232 | Kati Eckstein |
-| 803 | 232 | Kristen |
-| 804 | 232 | Jeremy Daurbigny |
-| 805 | 231 | Camilo Moreno |
-| 806 | 231 | Amy |
-| 807 | 231 | Judy Burkhalter |
-| 808 | 231 | Twisty Matchfit |
-| 809 | 231 | SunnySquare |
-| 810 | 230 | Allison Peterson |
-| 811 | 230 | Sara BlueEyes |
-| 812 | 229 | Heather Billodeau |
-| 813 | 229 | IncrediDragon |
-| 814 | 229 | Rachel |
-| 815 | 229 | Shawn Jensen |
-| 816 | 228 | Jennifer Bromeisl-Tettam |
-| 817 | 228 | John Perkins |
-| 818 | 228 | Michele Plunkett |
-| 819 | 228 | sugabritches |
-| 820 | 228 | Maurii93 |
-| 821 | 227 | Josephina |
-| 822 | 227 | Chesney |
-| 823 | 226 | Eva Lopez |
-| 824 | 226 | Valeri Bradley |
-| 825 | 225 | R.w. Buck |
-| 826 | 225 | Jami Borges |
-| 827 | 224 | Stephanie Smith Robinson |
-| 828 | 224 | Glitzy Roll |
-| 829 | 224 | Christine James |
-| 830 | 224 | Leigh Wilkerson |
-| 831 | 224 | Dandy Tiltgrid |
-| 832 | 223 | Baby |
+| 803 | 232 | Baby |
+| 804 | 232 | Kristen |
+| 805 | 232 | Jeremy Daurbigny |
+| 806 | 231 | Camilo Moreno |
+| 807 | 231 | Amy |
+| 808 | 231 | Judy Burkhalter |
+| 809 | 231 | Twisty Matchfit |
+| 810 | 231 | SunnySquare |
+| 811 | 230 | Allison Peterson |
+| 812 | 230 | Sara BlueEyes |
+| 813 | 229 | Heather Billodeau |
+| 814 | 229 | IncrediDragon |
+| 815 | 229 | Rachel |
+| 816 | 229 | Shawn Jensen |
+| 817 | 228 | Jennifer Bromeisl-Tettam |
+| 818 | 228 | John Perkins |
+| 819 | 228 | Michele Plunkett |
+| 820 | 228 | sugabritches |
+| 821 | 228 | Maurii93 |
+| 822 | 227 | Josephina |
+| 823 | 227 | Chesney |
+| 824 | 226 | Eva Lopez |
+| 825 | 226 | Valeri Bradley |
+| 826 | 225 | R.w. Buck |
+| 827 | 225 | Jami Borges |
+| 828 | 224 | Stephanie Smith Robinson |
+| 829 | 224 | Glitzy Roll |
+| 830 | 224 | Christine James |
+| 831 | 224 | Leigh Wilkerson |
+| 832 | 224 | Dandy Tiltgrid |
 | 833 | 223 | Kevin Patrick |
 | 834 | 223 | Hillary Frank |
 | 835 | 223 | Lydia Shonee |
