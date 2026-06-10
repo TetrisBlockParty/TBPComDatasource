@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:01:23 UTC
+# Standings for team2 as of 2026-06-10 09:02:46 UTC
 
 **Total Participants:** 2714
 
@@ -153,8 +153,8 @@
 | 145 | 1157 | Hilliary Beyer |
 | 146 | 1149 | Allie Bug |
 | 147 | 1135 | Snappy Blockbuilder |
-| 148 | 1132 | Mirr Lulu |
-| 149 | 1132 | Wmk Rathbun |
+| 148 | 1132 | Wmk Rathbun |
+| 149 | 1132 | Mirr Lulu |
 | 150 | 1130 | Allison Jarman |
 | 151 | 1126 | Jeska Gaines |
 | 152 | 1115 | Spicy Risegrid |
@@ -196,8 +196,8 @@
 | 188 | 864 | Jgato |
 | 189 | 863 | Kathy McCormick |
 | 190 | 857 | Nettrainer |
-| 191 | 849 | SEH |
-| 192 | 849 | Brandi Thompson |
+| 191 | 849 | Brandi Thompson |
+| 192 | 849 | SEH |
 | 193 | 846 | Amanda Sikes |
 | 194 | 846 | Jess |
 | 195 | 841 | Michelle Luke Banta |
@@ -205,25 +205,25 @@
 | 197 | 835 | Zesty Strikerbuilder |
 | 198 | 834 | Alicia Kinney |
 | 199 | 828 | Jat |
-| 200 | 826 | Milad Arzani |
-| 201 | 825 | Nichole Wilson |
-| 202 | 825 | Brandon Link |
-| 203 | 822 | Glitzy Base |
-| 204 | 822 | Lori Whitman |
-| 205 | 822 | Kurt Brown |
-| 206 | 821 | Sarina Vollink |
-| 207 | 820 | Krisanne Kesner-Lonsby |
-| 208 | 819 | KayLynn Ogden McClelland |
-| 209 | 816 | Jamie Jones |
-| 210 | 813 | Loony Faller |
-| 211 | 810 | Zachary Vymislicky |
-| 212 | 808 | Flashy Twistline |
-| 213 | 808 | Crystal Allen |
-| 214 | 805 | Lashanda Bertram |
-| 215 | 805 | Nicole Hogue |
-| 216 | 804 | Steven Craig |
-| 217 | 802 | Brooke Allred |
-| 218 | 801 | MegaPooh |
+| 200 | 827 | MegaPooh |
+| 201 | 826 | Milad Arzani |
+| 202 | 825 | Nichole Wilson |
+| 203 | 825 | Brandon Link |
+| 204 | 822 | Glitzy Base |
+| 205 | 822 | Lori Whitman |
+| 206 | 822 | Kurt Brown |
+| 207 | 821 | Sarina Vollink |
+| 208 | 820 | Krisanne Kesner-Lonsby |
+| 209 | 819 | KayLynn Ogden McClelland |
+| 210 | 816 | Jamie Jones |
+| 211 | 813 | Loony Faller |
+| 212 | 810 | Zachary Vymislicky |
+| 213 | 808 | Flashy Twistline |
+| 214 | 808 | Crystal Allen |
+| 215 | 805 | Lashanda Bertram |
+| 216 | 805 | Nicole Hogue |
+| 217 | 804 | Steven Craig |
+| 218 | 802 | Brooke Allred |
 | 219 | 800 | Ashley Green |
 | 220 | 798 | Rob Owens |
 | 221 | 797 | Perii Reynoso |
@@ -254,8 +254,8 @@
 | 246 | 718 | Bubbly Strikerpiece |
 | 247 | 714 | Kellie Sharp Godfrey |
 | 248 | 712 | Sully |
-| 249 | 711 | Kevin Mccoy |
-| 250 | 711 | Christina Maria |
+| 249 | 711 | Christina Maria |
+| 250 | 711 | Kevin Mccoy |
 | 251 | 710 | Chipper Stackbuilder |
 | 252 | 702 | Boldy Fitclear |
 | 253 | 701 | Amie Marks |
@@ -502,23 +502,23 @@
 | 494 | 371 | Jackie Walker |
 | 495 | 371 | Jessica Christine |
 | 496 | 371 | Roe Sarmiento |
-| 497 | 370 | marsam |
-| 498 | 370 | Marge Cromer |
-| 499 | 370 | Starvinmarvin |
-| 500 | 370 | Zappy Liney |
-| 501 | 369 | ShiverMeSplinter |
-| 502 | 368 | Danielle Lyons |
-| 503 | 367 | Flashy Basegrid |
-| 504 | 366 | Spunky Linkblock |
-| 505 | 365 | Marilyn Mendoza |
-| 506 | 365 | Martha Lynn Wiggins |
-| 507 | 364 | Amy Nicole McCanne |
-| 508 | 363 | Brooklyn Todd |
-| 509 | 362 | Ssirkus |
-| 510 | 362 | Jennifer McCloskey Launder |
-| 511 | 361 | Jennifer Lalk |
-| 512 | 361 | Gina Louise Parker |
-| 513 | 361 | Mama G |
+| 497 | 370 | Mama G |
+| 498 | 370 | marsam |
+| 499 | 370 | Marge Cromer |
+| 500 | 370 | Starvinmarvin |
+| 501 | 370 | Zappy Liney |
+| 502 | 369 | ShiverMeSplinter |
+| 503 | 368 | Danielle Lyons |
+| 504 | 367 | Flashy Basegrid |
+| 505 | 366 | Spunky Linkblock |
+| 506 | 365 | Marilyn Mendoza |
+| 507 | 365 | Martha Lynn Wiggins |
+| 508 | 364 | Amy Nicole McCanne |
+| 509 | 363 | Brooklyn Todd |
+| 510 | 362 | Ssirkus |
+| 511 | 362 | Jennifer McCloskey Launder |
+| 512 | 361 | Jennifer Lalk |
+| 513 | 361 | Gina Louise Parker |
 | 514 | 361 | Bianca Woodruff |
 | 515 | 360 | Jim Longnecker |
 | 516 | 360 | Carrie Hayes Lankford |
@@ -560,27 +560,27 @@
 | 552 | 340 | Tony Medina |
 | 553 | 339 | Plucky Grabber |
 | 554 | 339 | Darla Ragsdale |
-| 555 | 338 | Katelyn Rodgers |
-| 556 | 337 | Jennifer McClure |
-| 557 | 336 | Hyper Cascade |
-| 558 | 336 | Frisky Twist |
-| 559 | 335 | Giddy Chiseler |
-| 560 | 335 | SturgStang |
-| 561 | 335 | Brittany Mathis |
-| 562 | 335 | Holly Huval |
-| 563 | 333 | Nano. |
-| 564 | 333 | Lisa Allen Frisk |
-| 565 | 333 | Jill Goff |
-| 566 | 332 | Lee Leonard |
-| 567 | 331 | Francesca Wagenhoffer |
-| 568 | 331 | LadyDeath |
-| 569 | 329 | Lively Curve |
-| 570 | 328 | Jennifer Wymer |
-| 571 | 328 | Ever Chase |
-| 572 | 327 | Rondell Reedster |
-| 573 | 327 | Cherica Taylor |
-| 574 | 327 | Jim Wright |
-| 575 | 326 | Eric Wayne Maschman |
+| 555 | 338 | Eric Wayne Maschman |
+| 556 | 338 | Katelyn Rodgers |
+| 557 | 337 | Jennifer McClure |
+| 558 | 336 | Hyper Cascade |
+| 559 | 336 | Frisky Twist |
+| 560 | 335 | Giddy Chiseler |
+| 561 | 335 | SturgStang |
+| 562 | 335 | Brittany Mathis |
+| 563 | 335 | Holly Huval |
+| 564 | 333 | Nano. |
+| 565 | 333 | Lisa Allen Frisk |
+| 566 | 333 | Jill Goff |
+| 567 | 332 | Lee Leonard |
+| 568 | 331 | Francesca Wagenhoffer |
+| 569 | 331 | LadyDeath |
+| 570 | 329 | Lively Curve |
+| 571 | 328 | Jennifer Wymer |
+| 572 | 328 | Ever Chase |
+| 573 | 327 | Rondell Reedster |
+| 574 | 327 | Cherica Taylor |
+| 575 | 327 | Jim Wright |
 | 576 | 326 | Katie Jones |
 | 577 | 325 | Ozge Akgun Tokat |
 | 578 | 325 | Diamond Mitchell |
@@ -1000,11 +1000,11 @@
 | 992 | 182 | Damion Morrison |
 | 993 | 182 | Steve Eakins |
 | 994 | 182 | Stacy Hoffman |
-| 995 | 181 | Brittany Paul |
-| 996 | 181 | Evelyn Confer |
-| 997 | 180 | candi |
-| 998 | 180 | Katie Thacker |
-| 999 | 180 | Danid |
+| 995 | 182 | Danid |
+| 996 | 181 | Brittany Paul |
+| 997 | 181 | Evelyn Confer |
+| 998 | 180 | candi |
+| 999 | 180 | Katie Thacker |
 | 1000 | 180 | Brandon Ray Holt |
 | 1001 | 180 | Kylee Pruitt |
 | 1002 | 180 | Dana Wilson |
