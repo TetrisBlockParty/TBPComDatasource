@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:02:46 UTC
+# Standings for team4 as of 2026-06-10 21:03:24 UTC
 
 **Total Participants:** 2375
 
@@ -108,9 +108,9 @@
 | 100 | 1388 | Hannah Pazar |
 | 101 | 1380 | Kelley Roach |
 | 102 | 1364 | Dana Fontanez |
-| 103 | 1362 | Gloria Nunley Trussell |
-| 104 | 1356 | Fancy Crasher |
-| 105 | 1353 | Beee |
+| 103 | 1363 | Beee |
+| 104 | 1362 | Gloria Nunley Trussell |
+| 105 | 1356 | Fancy Crasher |
 | 106 | 1343 | Snappy Fitzone |
 | 107 | 1342 | Shaina Sharp |
 | 108 | 1336 | Jonathan Hewitt |
@@ -576,39 +576,39 @@
 | 568 | 292 | Jennifer Fisher Franklin |
 | 569 | 291 | Valerie Silva |
 | 570 | 290 | LaTanya GeminiondaRise Johnson |
-| 571 | 288 | Happy Shatterfit |
-| 572 | 288 | Mighty1 |
-| 573 | 288 | MattJennifer Marie Ericson |
-| 574 | 288 | Sarah |
-| 575 | 287 | Alyssa Berg |
-| 576 | 286 | Bonique Bier |
-| 577 | 286 | DizzB400 |
-| 578 | 286 | Tiffany Smith |
-| 579 | 285 | Christina Barry |
-| 580 | 285 | Joshua Garner |
-| 581 | 285 | Lovetetris |
-| 582 | 285 | Karen Denise Ann Veitch |
-| 583 | 284 | Nicole Colby McCloskey |
-| 584 | 284 | Brandi Sauer |
-| 585 | 283 | Rita Ann |
-| 586 | 283 | Danny Frausto |
-| 587 | 283 | Chris McBlockster |
-| 588 | 282 | sierrabeth |
-| 589 | 282 | Corie A. Brinson |
-| 590 | 281 | Margie Thomas |
-| 591 | 281 | Anthony Edwards |
-| 592 | 280 | Giddy Basepiece |
-| 593 | 280 | Alice Eisnor-Martens |
-| 594 | 280 | Jimmy Clark |
-| 595 | 279 | Lisa Pie |
-| 596 | 279 | LandO |
-| 597 | 279 | Heidi Anne Scheiderer |
-| 598 | 279 | Will E Ayala |
-| 599 | 279 | Kandylands |
-| 600 | 278 | Stef |
-| 601 | 277 | Deborah Silberg |
-| 602 | 277 | Jeremy Barry |
-| 603 | 277 | Quirky Fallgrid |
+| 571 | 289 | Quirky Fallgrid |
+| 572 | 288 | Sarah |
+| 573 | 288 | Happy Shatterfit |
+| 574 | 288 | Mighty1 |
+| 575 | 288 | MattJennifer Marie Ericson |
+| 576 | 287 | Alyssa Berg |
+| 577 | 286 | Bonique Bier |
+| 578 | 286 | DizzB400 |
+| 579 | 286 | Tiffany Smith |
+| 580 | 285 | Christina Barry |
+| 581 | 285 | Joshua Garner |
+| 582 | 285 | Lovetetris |
+| 583 | 285 | Karen Denise Ann Veitch |
+| 584 | 284 | Nicole Colby McCloskey |
+| 585 | 284 | Brandi Sauer |
+| 586 | 283 | Rita Ann |
+| 587 | 283 | Danny Frausto |
+| 588 | 283 | Chris McBlockster |
+| 589 | 282 | sierrabeth |
+| 590 | 282 | Corie A. Brinson |
+| 591 | 281 | Margie Thomas |
+| 592 | 281 | Anthony Edwards |
+| 593 | 280 | Giddy Basepiece |
+| 594 | 280 | Alice Eisnor-Martens |
+| 595 | 280 | Jimmy Clark |
+| 596 | 279 | Lisa Pie |
+| 597 | 279 | LandO |
+| 598 | 279 | Heidi Anne Scheiderer |
+| 599 | 279 | Will E Ayala |
+| 600 | 279 | Kandylands |
+| 601 | 278 | Stef |
+| 602 | 277 | Deborah Silberg |
+| 603 | 277 | Jeremy Barry |
 | 604 | 276 | Susan Stofberg Beltran |
 | 605 | 276 | chefjaydawg |
 | 606 | 276 | Jennifer Evans Elliott |
@@ -671,8 +671,8 @@
 | 663 | 254 | Mimi Dominguez |
 | 664 | 254 | Zesty Lift |
 | 665 | 253 | Natalie Dillard |
-| 666 | 253 | Kennita Cox |
-| 667 | 253 | Valerie Marrero |
+| 666 | 253 | Valerie Marrero |
+| 667 | 253 | Kennita Cox |
 | 668 | 253 | Vonni McLean |
 | 669 | 252 | Ryan Paul Clark-Ramsey |
 | 670 | 252 | Kimberly Devon |
@@ -743,18 +743,18 @@
 | 735 | 227 | Tactical_B |
 | 736 | 227 | Noa Lee |
 | 737 | 227 | Kat Foreman |
-| 738 | 227 | Kuar T Ejen |
-| 739 | 226 | Steve Foster |
-| 740 | 226 | Buddyblock |
-| 741 | 226 | Scarlett Ashley Clark |
-| 742 | 226 | Domo Dpn |
-| 743 | 225 | Stefanie Street |
-| 744 | 225 | Rose Anna Safi |
-| 745 | 225 | Sunny Tiltbuilder |
-| 746 | 224 | Ashlee Lemus |
+| 738 | 227 | Heather Garrity |
+| 739 | 227 | Kuar T Ejen |
+| 740 | 226 | Steve Foster |
+| 741 | 226 | Buddyblock |
+| 742 | 226 | Scarlett Ashley Clark |
+| 743 | 226 | Domo Dpn |
+| 744 | 225 | Stefanie Street |
+| 745 | 225 | Rose Anna Safi |
+| 746 | 225 | Sunny Tiltbuilder |
 | 747 | 224 | Tamara Gay |
-| 748 | 224 | Chilly Pop |
-| 749 | 224 | Heather Garrity |
+| 748 | 224 | Ashlee Lemus |
+| 749 | 224 | Chilly Pop |
 | 750 | 224 | Csigirlnc |
 | 751 | 224 | Japexican Strong |
 | 752 | 223 | Bigmamalizzet Latto |
