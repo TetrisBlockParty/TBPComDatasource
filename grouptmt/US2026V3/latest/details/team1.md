@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:48:46 UTC
+# Standings for team1 as of 2026-06-10 09:49:24 UTC
 
 **Total Participants:** 2253
 
@@ -573,10 +573,10 @@
 | 565 | 272 | ChunLi |
 | 566 | 269 | Phillip Vasquez |
 | 567 | 269 | Stephanie L Jeffries Moultrie |
-| 568 | 269 | BonnieB |
-| 569 | 268 | Monica Tovar |
-| 570 | 268 | Casey Chapman |
-| 571 | 267 | RylonJones |
+| 568 | 269 | RylonJones |
+| 569 | 269 | BonnieB |
+| 570 | 268 | Monica Tovar |
+| 571 | 268 | Casey Chapman |
 | 572 | 266 | Chris Holland |
 | 573 | 266 | Valerie Alexander |
 | 574 | 265 | Kortney Adams |
@@ -1334,65 +1334,65 @@
 | 1326 | 77 | Clever Wrecker |
 | 1327 | 77 | Adonai Saves |
 | 1328 | 77 | Shemeka Bates |
-| 1329 | 77 | Renee J. Thomas |
-| 1330 | 77 | Alturas Supremenineteen Banks |
-| 1331 | 76 | RealOne95 |
-| 1332 | 76 | Shannon Bradley |
-| 1333 | 76 | Mama P |
-| 1334 | 76 | Joy Marie |
-| 1335 | 76 | Shardai She Gotit |
-| 1336 | 76 | Frilly Riserbuilder |
-| 1337 | 75 | Candice Poe |
-| 1338 | 75 | HBTone |
+| 1329 | 77 | Alturas Supremenineteen Banks |
+| 1330 | 77 | Renee J. Thomas |
+| 1331 | 76 | Shardai She Gotit |
+| 1332 | 76 | Frilly Riserbuilder |
+| 1333 | 76 | RealOne95 |
+| 1334 | 76 | Mama P |
+| 1335 | 76 | Joy Marie |
+| 1336 | 76 | Shannon Bradley |
+| 1337 | 75 | Courtney Robinson |
+| 1338 | 75 | Dana Hill |
 | 1339 | 75 | Y3llOWFAC3 |
-| 1340 | 75 | Courtney Robinson |
-| 1341 | 75 | Dana Hill |
-| 1342 | 74 | Embracing Hair |
+| 1340 | 75 | HBTone |
+| 1341 | 75 | Candice Poe |
+| 1342 | 74 | Scorpiogurl Cruz |
 | 1343 | 74 | Riq Wokhardt |
-| 1344 | 74 | Scorpiogurl Cruz |
+| 1344 | 74 | Embracing Hair |
 | 1345 | 74 | Wrist Mask |
-| 1346 | 74 | Daring Linkfall |
-| 1347 | 74 | Jaay Bender |
-| 1348 | 74 | Tetrisdestroyer |
-| 1349 | 74 | Jaela Washington |
-| 1350 | 73 | Harriet |
-| 1351 | 73 | Ducc2408 |
-| 1352 | 73 | Breeze |
-| 1353 | 73 | Jonathan Zold |
-| 1354 | 73 | Desi |
-| 1355 | 73 | lovel |
+| 1346 | 74 | Crafty Link |
+| 1347 | 74 | Daring Linkfall |
+| 1348 | 74 | Jaay Bender |
+| 1349 | 74 | Tetrisdestroyer |
+| 1350 | 74 | Jaela Washington |
+| 1351 | 73 | Harriet |
+| 1352 | 73 | Ducc2408 |
+| 1353 | 73 | Breeze |
+| 1354 | 73 | Jonathan Zold |
+| 1355 | 73 | Desi |
 | 1356 | 73 | Tiffany Weathersby |
-| 1357 | 73 | Tammy Scott Mallen |
-| 1358 | 72 | SnazzySnippet |
-| 1359 | 72 | Jamie Mclean |
-| 1360 | 72 | Chummy Liner |
-| 1361 | 72 | BADBOY658 |
-| 1362 | 72 | Darryl Love |
-| 1363 | 71 | Joseph Ware Jr. |
-| 1364 | 71 | Lora Lee |
-| 1365 | 71 | Crafty Link |
+| 1357 | 73 | lovel |
+| 1358 | 73 | Tammy Scott Mallen |
+| 1359 | 72 | SnazzySnippet |
+| 1360 | 72 | Jamie Mclean |
+| 1361 | 72 | Chummy Liner |
+| 1362 | 72 | BADBOY658 |
+| 1363 | 72 | Darryl Love |
+| 1364 | 71 | Joseph Ware Jr. |
+| 1365 | 71 | Lora Lee |
 | 1366 | 71 | Zany Pivot |
 | 1367 | 71 | Shona ShayShay Jones |
-| 1368 | 70 | Leon Brown III |
-| 1369 | 70 | Nissa |
-| 1370 | 70 | Alison Emmons |
-| 1371 | 70 | B |
-| 1372 | 70 | Leon Matthew Williams |
-| 1373 | 70 | JoZanna Washington |
-| 1374 | 70 | Kallsign |
-| 1375 | 70 | Eli Delao |
-| 1376 | 70 | Jucee |
-| 1377 | 70 | Anthony D Holmes |
-| 1378 | 70 | Quirky Gridpiece |
-| 1379 | 69 | BrettanMary Adkins |
-| 1380 | 69 | Charlie Brown |
-| 1381 | 69 | XYZ |
-| 1382 | 68 | LOVE |
-| 1383 | 68 | Lillie Blossom Dixon |
-| 1384 | 68 | Butta |
-| 1385 | 68 | Michelle Dollah |
+| 1368 | 70 | Nissa |
+| 1369 | 70 | Leon Brown III |
+| 1370 | 70 | Quirky Gridpiece |
+| 1371 | 70 | Anthony D Holmes |
+| 1372 | 70 | Alison Emmons |
+| 1373 | 70 | Jucee |
+| 1374 | 70 | JoZanna Washington |
+| 1375 | 70 | B |
+| 1376 | 70 | Leon Matthew Williams |
+| 1377 | 70 | Eli Delao |
+| 1378 | 70 | Kallsign |
+| 1379 | 69 | Charlie Brown |
+| 1380 | 69 | XYZ |
+| 1381 | 69 | BrettanMary Adkins |
+| 1382 | 68 | Lillie Blossom Dixon |
+| 1383 | 68 | LOVE |
+| 1384 | 68 | Michelle Dollah |
+| 1385 | 68 | J Dot Flo |
 | 1386 | 68 | Saucy Crusher |
-| 1387 | 68 | J Dot Flo |
+| 1387 | 68 | Butta |
 | 1388 | 68 | Mississippigirl Countrygirl |
 | 1389 | 68 | Michelle Fowler |
 | 1390 | 67 | Ericka C Branch |
