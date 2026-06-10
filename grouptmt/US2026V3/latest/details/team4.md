@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 18:30:46 UTC
+# Standings for team4 as of 2026-06-10 18:31:22 UTC
 
 **Total Participants:** 2359
 
@@ -345,22 +345,22 @@
 | 337 | 460 | Shmeedo |
 | 338 | 460 | Knijur Callins |
 | 339 | 458 | Solace Grace |
-| 340 | 458 | Aisha Estrada |
-| 341 | 458 | Tipsy Piecebuilder |
+| 340 | 458 | Tipsy Piecebuilder |
+| 341 | 458 | Aisha Estrada |
 | 342 | 456 | EL Booger |
 | 343 | 454 | Jumpy Builderpiece |
 | 344 | 454 | Glitzy Patternbuilder |
-| 345 | 452 | Tanita Jobe |
-| 346 | 450 | Breezy Blockzone |
-| 347 | 448 | Earl Edwards |
-| 348 | 445 | Poppy |
+| 345 | 453 | Poppy |
+| 346 | 452 | Tanita Jobe |
+| 347 | 450 | Breezy Blockzone |
+| 348 | 448 | Earl Edwards |
 | 349 | 445 | Brian Woods |
 | 350 | 444 | Funky Tiler |
 | 351 | 443 | Crissy Hoffman |
 | 352 | 442 | Dazzle Dragon |
-| 353 | 441 | Anna Gribble |
-| 354 | 441 | Clever Brickzone |
-| 355 | 441 | Ross Bryant |
+| 353 | 441 | Clever Brickzone |
+| 354 | 441 | Ross Bryant |
+| 355 | 441 | Anna Gribble |
 | 356 | 440 | Brooke Bauer |
 | 357 | 440 | Karen Rodriguez |
 | 358 | 440 | MomyLiz |
@@ -746,52 +746,52 @@
 | 738 | 224 | Ashlee Lemus |
 | 739 | 224 | Tamara Gay |
 | 740 | 224 | Chilly Pop |
-| 741 | 222 | Maria Munoz |
-| 742 | 221 | Lorrie Ann Burchett |
-| 743 | 220 | Zappy Tilemaker |
-| 744 | 220 | Blockcrusher |
-| 745 | 220 | Brandon Bedenbaugh |
+| 741 | 223 | Bigmamalizzet Latto |
+| 742 | 222 | Maria Munoz |
+| 743 | 221 | Lorrie Ann Burchett |
+| 744 | 220 | Zappy Tilemaker |
+| 745 | 220 | Blockcrusher |
 | 746 | 220 | Mrsjcraw18 |
-| 747 | 220 | Marie Adkins |
-| 748 | 220 | Janae Harris |
-| 749 | 220 | Jay Keating |
-| 750 | 218 | Ayobribri |
+| 747 | 220 | Brandon Bedenbaugh |
+| 748 | 220 | Marie Adkins |
+| 749 | 220 | Janae Harris |
+| 750 | 220 | Jay Keating |
 | 751 | 218 | Breezy Wife |
-| 752 | 217 | Ian T Parker |
+| 752 | 218 | Ayobribri |
 | 753 | 217 | Trishaann Triplett |
-| 754 | 217 | Cat |
-| 755 | 216 | Maegon Brazille |
-| 756 | 215 | Autumn Maher |
-| 757 | 215 | Helen Bradley |
-| 758 | 215 | Ben Figueroa |
-| 759 | 215 | ShaniP |
+| 754 | 217 | Ian T Parker |
+| 755 | 217 | Cat |
+| 756 | 216 | Maegon Brazille |
+| 757 | 215 | Clever Blockbuilder |
+| 758 | 215 | Helen Bradley |
+| 759 | 215 | Autumn Maher |
 | 760 | 215 | Swanky Builderline |
-| 761 | 215 | Clever Blockbuilder |
-| 762 | 215 | Adi Patterson |
-| 763 | 215 | Sfalcon1. |
-| 764 | 214 | Cozy Patternline |
-| 765 | 214 | Bigmamalizzet Latto |
-| 766 | 214 | Clever Fallzone |
-| 767 | 214 | Linda |
-| 768 | 214 | Joe Andrews |
-| 769 | 214 | Suzi Smas |
+| 761 | 215 | ShaniP |
+| 762 | 215 | Ben Figueroa |
+| 763 | 215 | Adi Patterson |
+| 764 | 215 | Sfalcon1. |
+| 765 | 214 | Cozy Patternline |
+| 766 | 214 | Linda |
+| 767 | 214 | Joe Andrews |
+| 768 | 214 | Suzi Smas |
+| 769 | 214 | Clever Fallzone |
 | 770 | 213 | Masiso |
 | 771 | 213 | Lala |
 | 772 | 212 | Debby Muniz |
 | 773 | 212 | Lisa Ferriero-Daudin |
 | 774 | 212 | Lori Lynn |
 | 775 | 211 | Monica Shupe |
-| 776 | 211 | Abby Waterman |
+| 776 | 211 | Fancy Tilefall |
 | 777 | 211 | Shirley A. Godfrey |
-| 778 | 211 | Fancy Tilefall |
+| 778 | 211 | Abby Waterman |
 | 779 | 210 | Robert Crow |
-| 780 | 210 | Electric Storm |
-| 781 | 210 | Jonelle Jacobs |
-| 782 | 210 | Urplan |
-| 783 | 210 | Kimberly Lusk |
-| 784 | 209 | Ashley Ferguson |
-| 785 | 209 | Bren70 |
-| 786 | 209 | Ashley Mcdonald |
+| 780 | 210 | Jonelle Jacobs |
+| 781 | 210 | Urplan |
+| 782 | 210 | Kimberly Lusk |
+| 783 | 210 | Electric Storm |
+| 784 | 209 | Ashley Mcdonald |
+| 785 | 209 | Ashley Ferguson |
+| 786 | 209 | Bren70 |
 | 787 | 209 | Snappy Stack |
 | 788 | 209 | Weird Cat |
 | 789 | 209 | Wacky Brick |
