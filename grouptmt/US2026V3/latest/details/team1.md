@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:48:45 UTC
+# Standings for team1 as of 2026-06-10 20:49:24 UTC
 
 **Total Participants:** 2340
 
@@ -49,8 +49,8 @@
 | 41 | 2809 | Chill Clusterer |
 | 42 | 2800 | Rosey |
 | 43 | 2762 | JoJo |
-| 44 | 2730 | Therealdywoune Peay |
-| 45 | 2702 | Cee Emm |
+| 44 | 2762 | Cee Emm |
+| 45 | 2730 | Therealdywoune Peay |
 | 46 | 2691 | Hyper Slamdrop |
 | 47 | 2640 | Jamie Willis |
 | 48 | 2619 | Zappy Brickline |
@@ -404,20 +404,20 @@
 | 396 | 401 | Kelli Couture |
 | 397 | 400 | Denell Sims |
 | 398 | 400 | Sara Meri |
-| 399 | 400 | Jae Thompson-Tyus |
-| 400 | 399 | BabyCakes |
-| 401 | 398 | Matthieu Pistone |
-| 402 | 397 | Shameka Thrasher |
-| 403 | 397 | Tipsy Linkroll |
-| 404 | 396 | Amber Wilson |
-| 405 | 396 | Nikki Hogan |
-| 406 | 396 | Bbyunicorn |
-| 407 | 395 | Shea Ladynick Henderson |
-| 408 | 395 | Derrius SeriousLee Burks |
-| 409 | 395 | Maribel Vasquez |
-| 410 | 395 | Sammie Walker |
-| 411 | 394 | Ashley MyBeauty Daniels |
-| 412 | 394 | kick it |
+| 399 | 400 | kick it |
+| 400 | 400 | Jae Thompson-Tyus |
+| 401 | 399 | BabyCakes |
+| 402 | 398 | Matthieu Pistone |
+| 403 | 397 | Shameka Thrasher |
+| 404 | 397 | Tipsy Linkroll |
+| 405 | 396 | Amber Wilson |
+| 406 | 396 | Nikki Hogan |
+| 407 | 396 | Bbyunicorn |
+| 408 | 395 | Shea Ladynick Henderson |
+| 409 | 395 | Derrius SeriousLee Burks |
+| 410 | 395 | Maribel Vasquez |
+| 411 | 395 | Sammie Walker |
+| 412 | 394 | Ashley MyBeauty Daniels |
 | 413 | 394 | Wayne Savannah |
 | 414 | 393 | Bubbly Piececlear |
 | 415 | 391 | Lisa Fletcher |
@@ -1107,23 +1107,23 @@
 | 1099 | 127 | Laura Osborne |
 | 1100 | 127 | tk |
 | 1101 | 127 | Cheery Climber |
-| 1102 | 126 | Jeremy Hendrix |
-| 1103 | 126 | Ounquan Wright |
-| 1104 | 126 | GoldStarJo |
-| 1105 | 125 | Chummy Twisterfit |
-| 1106 | 125 | Angie Lebron |
-| 1107 | 125 | Kayd |
-| 1108 | 125 | Meme23 |
-| 1109 | 125 | Rande Smith |
-| 1110 | 124 | Andrew Harris |
-| 1111 | 124 | Flashy Stacker |
+| 1102 | 127 | Bunnie Celtavini |
+| 1103 | 126 | Jeremy Hendrix |
+| 1104 | 126 | Ounquan Wright |
+| 1105 | 126 | GoldStarJo |
+| 1106 | 125 | Chummy Twisterfit |
+| 1107 | 125 | Angie Lebron |
+| 1108 | 125 | Rande Smith |
+| 1109 | 125 | Kayd |
+| 1110 | 125 | Meme23 |
+| 1111 | 124 | Andrew Harris |
 | 1112 | 124 | LAhoneybun82 |
-| 1113 | 124 | Giggy Brickfit |
-| 1114 | 124 | jasi |
-| 1115 | 123 | Alice Biggs |
-| 1116 | 123 | Bunnie Celtavini |
-| 1117 | 123 | Angela L Charles |
-| 1118 | 123 | Groovy Rotate |
+| 1113 | 124 | jasi |
+| 1114 | 124 | Giggy Brickfit |
+| 1115 | 124 | Flashy Stacker |
+| 1116 | 123 | Angela L Charles |
+| 1117 | 123 | Groovy Rotate |
+| 1118 | 123 | Alice Biggs |
 | 1119 | 123 | The goat |
 | 1120 | 123 | Danny Talbot |
 | 1121 | 123 | Mamiyoung47 |
@@ -1433,22 +1433,22 @@
 | 1425 | 71 | Swanky Riserfit |
 | 1426 | 71 | Joseph Ware Jr. |
 | 1427 | 71 | Zany Pivot |
-| 1428 | 71 | Lora Lee |
-| 1429 | 70 | Chris Bell |
-| 1430 | 70 | Pamela Cooper |
-| 1431 | 70 | Kallsign |
+| 1428 | 71 | Breezy Dashpiece |
+| 1429 | 71 | Lora Lee |
+| 1430 | 70 | Chris Bell |
+| 1431 | 70 | Pamela Cooper |
 | 1432 | 70 | Quirky Gridpiece |
-| 1433 | 70 | Leon Brown III |
-| 1434 | 70 | Nissa |
-| 1435 | 70 | Jucee |
-| 1436 | 70 | Cee Jones |
-| 1437 | 70 | Eli Delao |
-| 1438 | 70 | Anthony D Holmes |
-| 1439 | 70 | B |
-| 1440 | 69 | Charlie Brown |
-| 1441 | 69 | toooooott |
-| 1442 | 69 | BrettanMary Adkins |
-| 1443 | 68 | Breezy Dashpiece |
+| 1433 | 70 | Kallsign |
+| 1434 | 70 | Leon Brown III |
+| 1435 | 70 | Nissa |
+| 1436 | 70 | Jucee |
+| 1437 | 70 | Cee Jones |
+| 1438 | 70 | Eli Delao |
+| 1439 | 70 | Anthony D Holmes |
+| 1440 | 70 | B |
+| 1441 | 69 | Charlie Brown |
+| 1442 | 69 | toooooott |
+| 1443 | 69 | BrettanMary Adkins |
 | 1444 | 68 | OleGey |
 | 1445 | 68 | Pleasure |
 | 1446 | 68 | Saucy Crusher |
