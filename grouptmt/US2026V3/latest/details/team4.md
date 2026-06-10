@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:40:22 UTC
+# Standings for team4 as of 2026-06-10 12:40:47 UTC
 
 **Total Participants:** 2319
 
@@ -363,9 +363,9 @@
 | 355 | 421 | Shiny Brick |
 | 356 | 420 | Speedy Twistslam |
 | 357 | 419 | Anthony McAlister |
-| 358 | 418 | Juvon SupaShawdii Brooks |
-| 359 | 418 | Dawn Marie Trujillo |
-| 360 | 416 | Snazzy Corner |
+| 358 | 418 | Snazzy Corner |
+| 359 | 418 | Juvon SupaShawdii Brooks |
+| 360 | 418 | Dawn Marie Trujillo |
 | 361 | 415 | Karen Rodriguez |
 | 362 | 415 | Kea Sushi |
 | 363 | 412 | Clashy |

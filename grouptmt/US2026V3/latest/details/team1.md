@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:40:22 UTC
+# Standings for team1 as of 2026-06-10 12:40:47 UTC
 
 **Total Participants:** 2265
 
@@ -244,12 +244,12 @@
 | 236 | 619 | Sade Goodwine |
 | 237 | 616 | Tremaine Hiler |
 | 238 | 613 | TT |
-| 239 | 611 | Giggy Clusterer |
-| 240 | 609 | Wild Out Nai |
-| 241 | 609 | Loopy Block |
-| 242 | 605 | Aihpos |
-| 243 | 604 | Nina Davis |
-| 244 | 603 | Cheery Linkfall |
+| 239 | 613 | Cheery Linkfall |
+| 240 | 611 | Giggy Clusterer |
+| 241 | 609 | Wild Out Nai |
+| 242 | 609 | Loopy Block |
+| 243 | 605 | Aihpos |
+| 244 | 604 | Nina Davis |
 | 245 | 601 | SPNLover24 |
 | 246 | 600 | Tamara N Lee |
 | 247 | 598 | Dion Gray |

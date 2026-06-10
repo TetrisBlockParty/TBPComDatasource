@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:40:22 UTC
+# Standings for team2 as of 2026-06-10 12:40:47 UTC
 
 **Total Participants:** 2739
 
@@ -140,9 +140,9 @@
 | 132 | 1306 | Jason Cook |
 | 133 | 1305 | Kellie Montgomery |
 | 134 | 1298 | Hoppy Rotate |
-| 135 | 1286 | Kathy Strickland |
-| 136 | 1286 | Kvothe |
-| 137 | 1286 | Alicia Kinney |
+| 135 | 1296 | Alicia Kinney |
+| 136 | 1286 | Kathy Strickland |
+| 137 | 1286 | Kvothe |
 | 138 | 1275 | Michelle Maulsby |
 | 139 | 1270 | Joslyn Johnson |
 | 140 | 1266 | Sam |
