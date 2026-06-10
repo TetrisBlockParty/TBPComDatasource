@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 11:04:43 UTC
+# Standings for team2 as of 2026-06-10 11:05:24 UTC
 
 **Total Participants:** 2727
 
@@ -104,8 +104,8 @@
 | 96 | 1919 | Monica Galli |
 | 97 | 1909 | Marquita Toliver |
 | 98 | 1880 | Zappy Pattern |
-| 99 | 1864 | Misiek |
-| 100 | 1831 | Bon Lynn |
+| 99 | 1871 | Bon Lynn |
+| 100 | 1864 | Misiek |
 | 101 | 1828 | Daybreak |
 | 102 | 1810 | Pickle |
 | 103 | 1810 | Smiley Dropper |
@@ -366,12 +366,12 @@
 | 358 | 509 | Churube Finwoiisopw |
 | 359 | 508 | Dawnypooh |
 | 360 | 506 | Chummy Faller |
-| 361 | 505 | Melissa Clogher White |
-| 362 | 500 | Joni Michelle Morgan |
-| 363 | 496 | Staci Behrens |
-| 364 | 495 | Justin McCray |
-| 365 | 491 | Michael Carmichael |
-| 366 | 490 | Kim Hunt |
+| 361 | 505 | Kim Hunt |
+| 362 | 505 | Melissa Clogher White |
+| 363 | 500 | Joni Michelle Morgan |
+| 364 | 496 | Staci Behrens |
+| 365 | 495 | Justin McCray |
+| 366 | 491 | Michael Carmichael |
 | 367 | 489 | Suki Jacobs |
 | 368 | 488 | Goofy Gridclear |
 | 369 | 485 | Jenn |
