@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:32:43 UTC
+# Standings for team2 as of 2026-06-10 12:33:22 UTC
 
 **Total Participants:** 2739
 
@@ -99,8 +99,8 @@
 | 91 | 2049 | Bridget N Jonathan Franz |
 | 92 | 2021 | Jef Wassom |
 | 93 | 2020 | Heather Marie-Tarlton Britt |
-| 94 | 1984 | Misiek |
-| 95 | 1963 | Zappy Pattern |
+| 94 | 1985 | Zappy Pattern |
+| 95 | 1984 | Misiek |
 | 96 | 1952 | Frilly Match |
 | 97 | 1941 | Nova Nova |
 | 98 | 1919 | Monica Galli |
@@ -145,9 +145,9 @@
 | 137 | 1275 | Michelle Maulsby |
 | 138 | 1270 | Joslyn Johnson |
 | 139 | 1266 | Sam |
-| 140 | 1266 | snowwol |
-| 141 | 1263 | jmo87 |
-| 142 | 1246 | Alicia Kinney |
+| 140 | 1266 | Alicia Kinney |
+| 141 | 1266 | snowwol |
+| 142 | 1263 | jmo87 |
 | 143 | 1235 | Melissa Thomas |
 | 144 | 1203 | Hilliary Beyer |
 | 145 | 1200 | Denise Potter |
@@ -816,65 +816,65 @@
 | 808 | 237 | Renee Siems |
 | 809 | 237 | Anna Benjamin Freeman |
 | 810 | 237 | William Dowd |
-| 811 | 236 | Lush Party |
-| 812 | 236 | Elnaz Mokleh |
-| 813 | 235 | Angeleye A James |
-| 814 | 235 | ChefDeb |
-| 815 | 235 | Goldie |
-| 816 | 235 | Heather Billodeau |
-| 817 | 235 | Jazzy Snapfit |
-| 818 | 234 | Connie Marie Cornell Lerma |
-| 819 | 234 | Mike Mordhorst |
-| 820 | 234 | ReiRei |
-| 821 | 234 | Debra May |
-| 822 | 233 | Jolene Hull Hearn |
-| 823 | 233 | Jaimie Waybill |
-| 824 | 233 | Andrea Rawson |
-| 825 | 233 | Giggy Dropzone |
-| 826 | 232 | Jeremy Daurbigny |
-| 827 | 232 | Kristen |
-| 828 | 232 | Sandy Rundel Holderman |
-| 829 | 232 | Kati Eckstein |
-| 830 | 231 | Twisty Matchfit |
-| 831 | 231 | SunnySquare |
-| 832 | 231 | Crafty Rotater |
-| 833 | 231 | Flashy Wipegrid |
-| 834 | 231 | Amy |
-| 835 | 231 | Camilo Moreno |
-| 836 | 230 | Allison Peterson |
-| 837 | 229 | Shawn Jensen |
-| 838 | 229 | Rachel |
-| 839 | 228 | y |
-| 840 | 228 | Michele Plunkett |
-| 841 | 228 | John Perkins |
-| 842 | 228 | Jennifer Bromeisl-Tettam |
-| 843 | 228 | sugabritches |
-| 844 | 228 | Maurii93 |
-| 845 | 227 | Damion Morrison |
-| 846 | 226 | Valeri Bradley |
-| 847 | 226 | Eva Lopez |
-| 848 | 226 | Duck |
-| 849 | 225 | Jami Borges |
-| 850 | 225 | R.w. Buck |
-| 851 | 225 | Wood |
-| 852 | 225 | Momi Kamohai |
-| 853 | 224 | Dandy Tiltgrid |
-| 854 | 224 | Christine James |
-| 855 | 224 | Doug Small |
-| 856 | 224 | Leigh Wilkerson |
-| 857 | 224 | Glitzy Roll |
-| 858 | 224 | Stephanie Smith Robinson |
-| 859 | 223 | Rachel Wooldridge |
-| 860 | 223 | Lindsey Davidson |
-| 861 | 223 | Lydia Shonee |
-| 862 | 223 | Hillary Frank |
-| 863 | 223 | Kevin Patrick |
-| 864 | 222 | SaraAnn Gray Philbrick |
-| 865 | 222 | Sherri Caillet Aucoin |
-| 866 | 221 | Ashley Fleming |
-| 867 | 221 | Jillian Marie |
-| 868 | 221 | Ques Pryor |
-| 869 | 221 | Jazzy |
+| 811 | 236 | Duck |
+| 812 | 236 | Lush Party |
+| 813 | 236 | Elnaz Mokleh |
+| 814 | 235 | Angeleye A James |
+| 815 | 235 | ChefDeb |
+| 816 | 235 | Goldie |
+| 817 | 235 | Heather Billodeau |
+| 818 | 235 | Jazzy Snapfit |
+| 819 | 234 | Connie Marie Cornell Lerma |
+| 820 | 234 | Mike Mordhorst |
+| 821 | 234 | ReiRei |
+| 822 | 234 | Debra May |
+| 823 | 233 | Jolene Hull Hearn |
+| 824 | 233 | Jaimie Waybill |
+| 825 | 233 | Andrea Rawson |
+| 826 | 233 | Giggy Dropzone |
+| 827 | 232 | Jeremy Daurbigny |
+| 828 | 232 | Kristen |
+| 829 | 232 | Sandy Rundel Holderman |
+| 830 | 232 | Kati Eckstein |
+| 831 | 231 | Twisty Matchfit |
+| 832 | 231 | SunnySquare |
+| 833 | 231 | Crafty Rotater |
+| 834 | 231 | Flashy Wipegrid |
+| 835 | 231 | Amy |
+| 836 | 231 | Camilo Moreno |
+| 837 | 230 | Allison Peterson |
+| 838 | 229 | Shawn Jensen |
+| 839 | 229 | Rachel |
+| 840 | 228 | y |
+| 841 | 228 | Michele Plunkett |
+| 842 | 228 | John Perkins |
+| 843 | 228 | Jennifer Bromeisl-Tettam |
+| 844 | 228 | sugabritches |
+| 845 | 228 | Maurii93 |
+| 846 | 227 | Damion Morrison |
+| 847 | 226 | Valeri Bradley |
+| 848 | 226 | Eva Lopez |
+| 849 | 225 | Momi Kamohai |
+| 850 | 225 | Jami Borges |
+| 851 | 225 | R.w. Buck |
+| 852 | 225 | Wood |
+| 853 | 224 | Glitzy Roll |
+| 854 | 224 | Stephanie Smith Robinson |
+| 855 | 224 | Dandy Tiltgrid |
+| 856 | 224 | Christine James |
+| 857 | 224 | Doug Small |
+| 858 | 224 | Leigh Wilkerson |
+| 859 | 223 | Hillary Frank |
+| 860 | 223 | Kevin Patrick |
+| 861 | 223 | Rachel Wooldridge |
+| 862 | 223 | Lindsey Davidson |
+| 863 | 223 | Lydia Shonee |
+| 864 | 222 | Sherri Caillet Aucoin |
+| 865 | 222 | SaraAnn Gray Philbrick |
+| 866 | 221 | Jazzy |
+| 867 | 221 | Ashley Fleming |
+| 868 | 221 | Jillian Marie |
+| 869 | 221 | Ques Pryor |
 | 870 | 220 | rebel4lyfe |
 | 871 | 220 | Krystle L Coon |
 | 872 | 220 | Debbie Davis |
@@ -1384,21 +1384,21 @@
 | 1376 | 119 | Emily Carns |
 | 1377 | 118 | Gino Positano |
 | 1378 | 118 | Lacie B |
-| 1379 | 118 | Helen Chao |
-| 1380 | 118 | Boldy Patterner |
-| 1381 | 118 | Missy Tubb Overly |
-| 1382 | 118 | Raven |
-| 1383 | 117 | Jack |
-| 1384 | 117 | Slinky Towerpiece |
-| 1385 | 117 | Tiffany Fitch |
-| 1386 | 116 | Nicole Chestnut |
-| 1387 | 116 | Jennifer Lewellyn Hutchins |
-| 1388 | 116 | Maithan Conour |
-| 1389 | 116 | Goob277 |
-| 1390 | 116 | Sandy Molina |
-| 1391 | 116 | Brandy Moore |
-| 1392 | 115 | Chillxsnow |
-| 1393 | 115 | Swahko |
+| 1379 | 118 | Swahko |
+| 1380 | 118 | Helen Chao |
+| 1381 | 118 | Boldy Patterner |
+| 1382 | 118 | Missy Tubb Overly |
+| 1383 | 118 | Raven |
+| 1384 | 117 | Jack |
+| 1385 | 117 | Slinky Towerpiece |
+| 1386 | 117 | Tiffany Fitch |
+| 1387 | 116 | Nicole Chestnut |
+| 1388 | 116 | Jennifer Lewellyn Hutchins |
+| 1389 | 116 | Maithan Conour |
+| 1390 | 116 | Goob277 |
+| 1391 | 116 | Sandy Molina |
+| 1392 | 116 | Brandy Moore |
+| 1393 | 115 | Chillxsnow |
 | 1394 | 115 | Bubbly Wrecker |
 | 1395 | 115 | Doris Bonin |
 | 1396 | 115 | Kandy Comer |
@@ -1786,38 +1786,38 @@
 | 1778 | 67 | LK |
 | 1779 | 67 | Lulu Nichole |
 | 1780 | 67 | Snappy Zonepiece |
-| 1781 | 67 | Suszi |
-| 1782 | 67 | Happy Curvebuilder |
-| 1783 | 66 | Debbie Embry |
-| 1784 | 66 | Justin Pennington |
-| 1785 | 66 | Amy ATen |
-| 1786 | 66 | Wayne Mcmillan |
-| 1787 | 66 | Ali |
-| 1788 | 66 | Dysty |
-| 1789 | 66 | Jay King |
-| 1790 | 66 | David Cadiente |
-| 1791 | 66 | Bobbie Carrol |
-| 1792 | 65 | Mistress |
-| 1793 | 65 | Amanda White |
-| 1794 | 65 | Maurice Bethel |
-| 1795 | 65 | Heather Klaus |
-| 1796 | 65 | Wacky Drop |
-| 1797 | 65 | GentleGiant Brackett |
-| 1798 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1799 | 65 | Vicki Ohmer |
-| 1800 | 65 | nogo |
-| 1801 | 65 | Auntie YaYa |
-| 1802 | 64 | Jessica Jones |
-| 1803 | 64 | Emily |
-| 1804 | 64 | Sassafras Cass |
-| 1805 | 64 | Aaron Henry |
+| 1781 | 67 | Jcflorida |
+| 1782 | 67 | Suszi |
+| 1783 | 67 | Happy Curvebuilder |
+| 1784 | 66 | Debbie Embry |
+| 1785 | 66 | Justin Pennington |
+| 1786 | 66 | Amy ATen |
+| 1787 | 66 | Wayne Mcmillan |
+| 1788 | 66 | Ali |
+| 1789 | 66 | Dysty |
+| 1790 | 66 | Jay King |
+| 1791 | 66 | David Cadiente |
+| 1792 | 66 | Bobbie Carrol |
+| 1793 | 65 | Mistress |
+| 1794 | 65 | Amanda White |
+| 1795 | 65 | Maurice Bethel |
+| 1796 | 65 | GentleGiant Brackett |
+| 1797 | 65 | Heather Klaus |
+| 1798 | 65 | Wacky Drop |
+| 1799 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1800 | 65 | Vicki Ohmer |
+| 1801 | 65 | nogo |
+| 1802 | 65 | Auntie YaYa |
+| 1803 | 64 | Jessica Jones |
+| 1804 | 64 | Emily |
+| 1805 | 64 | Sassafras Cass |
 | 1806 | 64 | John Guider |
 | 1807 | 64 | Epic Glide |
 | 1808 | 64 | Michelle Naujalis |
-| 1809 | 64 | Jodi Deninno |
-| 1810 | 64 | Ryan D. Norcross |
-| 1811 | 64 | Andrea |
-| 1812 | 64 | Jcflorida |
+| 1809 | 64 | Aaron Henry |
+| 1810 | 64 | Jodi Deninno |
+| 1811 | 64 | Ryan D. Norcross |
+| 1812 | 64 | Andrea |
 | 1813 | 64 | Pnda |
 | 1814 | 63 | AmyShea |
 | 1815 | 63 | Chad Lakin |
@@ -1826,12 +1826,12 @@
 | 1818 | 63 | Chrissy Hess |
 | 1819 | 63 | Michael Blackmon |
 | 1820 | 63 | Groovy Snapbuild |
-| 1821 | 63 | T-Tommy Hillbilly |
-| 1822 | 63 | Bubbly Tilt |
+| 1821 | 63 | Bubbly Tilt |
+| 1822 | 63 | T-Tommy Hillbilly |
 | 1823 | 63 | Janice |
 | 1824 | 62 | Jon Torres |
-| 1825 | 62 | Natikka Mccleskey |
-| 1826 | 62 | Lazy Zoner |
+| 1825 | 62 | Lazy Zoner |
+| 1826 | 62 | Natikka Mccleskey |
 | 1827 | 62 | Michael Woodall |
 | 1828 | 62 | Saucy Clearzone |
 | 1829 | 62 | Breanna Dykes |
