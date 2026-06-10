@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:43:23 UTC
+# Standings for team4 as of 2026-06-10 08:44:44 UTC
 
 **Total Participants:** 2297
 
@@ -38,7 +38,7 @@
 | 30 | 4750 | Jackie Lucas |
 | 31 | 4706 | Chummy Rollzone |
 | 32 | 4533 | Juan Ford |
-| 33 | 4402 | Victoria Ver |
+| 33 | 4403 | Victoria Ver |
 | 34 | 4277 | Tonya Brooks-Johnson |
 | 35 | 4179 | Witty Clicky |
 | 36 | 4150 | TitiLo72 |
@@ -685,51 +685,51 @@
 | 677 | 224 | Alizabeth Garcia |
 | 678 | 224 | Tamara Gay |
 | 679 | 224 | Mmm |
-| 680 | 223 | Chass Hudson |
-| 681 | 223 | Sarah Leake |
+| 680 | 223 | Sarah Leake |
+| 681 | 223 | Chass Hudson |
 | 682 | 222 | Maria Munoz |
 | 683 | 221 | Spicy Peach |
 | 684 | 221 | Butterpat |
 | 685 | 221 | Tana-Marie Lynn McCarty-Rolf |
 | 686 | 221 | Lorrie Ann Burchett |
 | 687 | 221 | bribop |
-| 688 | 220 | Funky Rollzone |
-| 689 | 220 | 1694AF |
-| 690 | 220 | Jen Smith |
-| 691 | 220 | Mc3003 |
-| 692 | 220 | Ada Rodriguez Spradley |
-| 693 | 220 | Marie Adkins |
+| 688 | 220 | Ada Rodriguez Spradley |
+| 689 | 220 | Jen Smith |
+| 690 | 220 | Mc3003 |
+| 691 | 220 | Funky Rollzone |
+| 692 | 220 | Marie Adkins |
+| 693 | 220 | 1694AF |
 | 694 | 220 | Zappy Tilemaker |
 | 695 | 220 | Jay Keating |
 | 696 | 219 | Rae Saunders |
 | 697 | 218 | Mint Marquez |
 | 698 | 218 | Breezy Wife |
-| 699 | 218 | Ayobribri |
-| 700 | 218 | PsyDMom |
+| 699 | 218 | PsyDMom |
+| 700 | 218 | Ayobribri |
 | 701 | 217 | Cat |
 | 702 | 217 | Kat Foreman |
 | 703 | 216 | Maegon Brazille |
-| 704 | 215 | Sfalcon1. |
+| 704 | 215 | Ginny |
 | 705 | 215 | Swanky Builderline |
-| 706 | 215 | ShaniP |
-| 707 | 215 | Helen Bradley |
-| 708 | 214 | Clever Fallzone |
+| 706 | 215 | Sfalcon1. |
+| 707 | 215 | ShaniP |
+| 708 | 215 | Helen Bradley |
 | 709 | 214 | Joe Andrews |
 | 710 | 214 | Linda |
 | 711 | 214 | Shia Marie |
 | 712 | 214 | yourmomz |
-| 713 | 214 | Zesty Lift |
-| 714 | 214 | Suzi Smas |
-| 715 | 214 | Nutty Rollfit |
-| 716 | 213 | Chelsea Costa |
-| 717 | 212 | Redhead girl |
-| 718 | 212 | Ashlee Lemus |
-| 719 | 212 | Debby Muniz |
-| 720 | 211 | Noa Lee |
+| 713 | 214 | Suzi Smas |
+| 714 | 214 | Zesty Lift |
+| 715 | 214 | Clever Fallzone |
+| 716 | 214 | Nutty Rollfit |
+| 717 | 213 | Chelsea Costa |
+| 718 | 212 | Redhead girl |
+| 719 | 212 | Ashlee Lemus |
+| 720 | 212 | Debby Muniz |
 | 721 | 211 | Haylee Talkington |
-| 722 | 210 | Brandon Bedenbaugh |
-| 723 | 209 | Ashley Mcdonald |
-| 724 | 209 | Ginny |
+| 722 | 211 | Noa Lee |
+| 723 | 210 | Brandon Bedenbaugh |
+| 724 | 209 | Ashley Mcdonald |
 | 725 | 209 | Valerie Marrero |
 | 726 | 209 | Sadeha Simpson |
 | 727 | 209 | Ashley Ferguson |
@@ -1485,8 +1485,8 @@
 | 1477 | 66 | Komikeh White |
 | 1478 | 66 | ApexVibez |
 | 1479 | 66 | Groovy Linkmatch |
-| 1480 | 65 | Ginnie Strate |
-| 1481 | 65 | Frances Walker |
+| 1480 | 65 | Frances Walker |
+| 1481 | 65 | Ginnie Strate |
 | 1482 | 65 | Rell geez |
 | 1483 | 65 | Hannah Harkness |
 | 1484 | 65 | BrokenDiamond |
@@ -1517,8 +1517,8 @@
 | 1509 | 62 | Danielle Church |
 | 1510 | 62 | Mafer |
 | 1511 | 61 | Wacky Brickmatch |
-| 1512 | 61 | Melani Hajny |
-| 1513 | 61 | Crystal M. Torres |
+| 1512 | 61 | Crystal M. Torres |
+| 1513 | 61 | Melani Hajny |
 | 1514 | 61 | Michellee Lewis |
 | 1515 | 61 | Heidi Lyn Ramirez |
 | 1516 | 61 | Milton Lawrence |
@@ -1540,30 +1540,30 @@
 | 1532 | 60 | Sean Ha |
 | 1533 | 60 | Brandi Wacker |
 | 1534 | 60 | Boldy Clicky |
-| 1535 | 60 | Derkesha Huntley |
-| 1536 | 60 | Jeffrey Mann |
-| 1537 | 60 | Steph |
-| 1538 | 60 | Dizzy Builderfit |
+| 1535 | 60 | Shawny Schlogel |
+| 1536 | 60 | Steph |
+| 1537 | 60 | Brittany LeGros |
+| 1538 | 60 | Derkesha Huntley |
 | 1539 | 60 | Kasondra Cooper |
-| 1540 | 60 | Brittany LeGros |
-| 1541 | 60 | Shawny Schlogel |
-| 1542 | 59 | Geneva Mixon |
+| 1540 | 60 | Dizzy Builderfit |
+| 1541 | 60 | Jeffrey Mann |
+| 1542 | 59 | Clever Clearzone |
 | 1543 | 59 | Chyla Burns |
-| 1544 | 59 | Remii |
-| 1545 | 59 | Denisha Schinell Boyd |
-| 1546 | 58 | Epic Curver |
-| 1547 | 58 | Grace Mariie |
-| 1548 | 58 | Jessica Sanchez |
-| 1549 | 58 | Yaya Selbor |
-| 1550 | 58 | Gabby |
-| 1551 | 58 | Net |
-| 1552 | 58 | Kalisha Monique Wright |
-| 1553 | 58 | Peachy Grabber |
-| 1554 | 58 | FuzzyBunny |
-| 1555 | 58 | courtt |
-| 1556 | 58 | Oscar Flores |
-| 1557 | 58 | Clever Clearzone |
-| 1558 | 58 | Rebecca Dix |
+| 1544 | 59 | Geneva Mixon |
+| 1545 | 59 | Remii |
+| 1546 | 59 | Denisha Schinell Boyd |
+| 1547 | 58 | Epic Curver |
+| 1548 | 58 | Grace Mariie |
+| 1549 | 58 | Jessica Sanchez |
+| 1550 | 58 | Yaya Selbor |
+| 1551 | 58 | Gabby |
+| 1552 | 58 | Net |
+| 1553 | 58 | Kalisha Monique Wright |
+| 1554 | 58 | Peachy Grabber |
+| 1555 | 58 | FuzzyBunny |
+| 1556 | 58 | courtt |
+| 1557 | 58 | Rebecca Dix |
+| 1558 | 58 | Oscar Flores |
 | 1559 | 57 | Todd Kirkland |
 | 1560 | 57 | Goofy Twistpiece |
 | 1561 | 57 | Chill Snapclear |
