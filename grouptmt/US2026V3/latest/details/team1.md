@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:50:47 UTC
+# Standings for team1 as of 2026-06-10 18:51:22 UTC
 
 **Total Participants:** 2321
 
@@ -410,13 +410,13 @@
 | 402 | 395 | Maribel Vasquez |
 | 403 | 394 | Ashley MyBeauty Daniels |
 | 404 | 394 | Wayne Savannah |
-| 405 | 393 | Matthieu Pistone |
-| 406 | 393 | Bubbly Piececlear |
-| 407 | 392 | Tipsy Linkroll |
-| 408 | 391 | Lisa Fletcher |
-| 409 | 391 | Glitzy Patternline |
-| 410 | 390 | Jean Regis |
-| 411 | 390 | Alivia Dove |
+| 405 | 394 | Alivia Dove |
+| 406 | 393 | Matthieu Pistone |
+| 407 | 393 | Bubbly Piececlear |
+| 408 | 392 | Tipsy Linkroll |
+| 409 | 391 | Lisa Fletcher |
+| 410 | 391 | Glitzy Patternline |
+| 411 | 390 | Jean Regis |
 | 412 | 387 | kitten |
 | 413 | 387 | Ladybug |
 | 414 | 385 | kick it |
@@ -1449,103 +1449,103 @@
 | 1441 | 67 | Michele Elizabeth McKay-Johnson |
 | 1442 | 67 | Ray Eyes |
 | 1443 | 67 | Tani |
-| 1444 | 66 | Kerry Meister Rummel |
-| 1445 | 66 | Sunny Cascader |
-| 1446 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1447 | 66 | Raquele Hines |
-| 1448 | 66 | Regina Hall |
-| 1449 | 66 | Amanda Bell |
-| 1450 | 66 | Jroc Tyra Taylor |
-| 1451 | 66 | Tamara Jones |
-| 1452 | 66 | LadiGurl |
-| 1453 | 66 | Meluhnee |
-| 1454 | 65 | Juanita Quezaire |
-| 1455 | 65 | Panda Vibes |
-| 1456 | 65 | Sarah Jones |
-| 1457 | 65 | Vonda House |
-| 1458 | 65 | April Ezell |
+| 1444 | 66 | Raquele Hines |
+| 1445 | 66 | Jroc Tyra Taylor |
+| 1446 | 66 | LadiGurl |
+| 1447 | 66 | Kerry Meister Rummel |
+| 1448 | 66 | Tamara Jones |
+| 1449 | 66 | Regina Hall |
+| 1450 | 66 | Sunny Cascader |
+| 1451 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1452 | 66 | Meluhnee |
+| 1453 | 66 | Amanda Bell |
+| 1454 | 65 | April Ezell |
+| 1455 | 65 | Vonda House |
+| 1456 | 65 | Furlough Leslie |
+| 1457 | 65 | Panda Vibes |
+| 1458 | 65 | Juanita Quezaire |
 | 1459 | 65 | Goofy T-spin |
-| 1460 | 65 | QDeezy1906 |
-| 1461 | 65 | Furlough Leslie |
-| 1462 | 64 | Giggly Dasher |
-| 1463 | 64 | Twisty Linkgrid |
-| 1464 | 64 | Capt Kev |
+| 1460 | 65 | Sarah Jones |
+| 1461 | 65 | QDeezy1906 |
+| 1462 | 64 | Capt Kev |
+| 1463 | 64 | Giggly Dasher |
+| 1464 | 64 | Twisty Linkgrid |
 | 1465 | 64 | Breezy Bouncer |
-| 1466 | 63 | Gary Kyle |
-| 1467 | 63 | Tonny Williams |
-| 1468 | 63 | Danielle Mariyh Toomer |
-| 1469 | 63 | Damien Mathews |
-| 1470 | 63 | Crafty Pivoty |
-| 1471 | 63 | LoveLee |
-| 1472 | 63 | Arnold Hamilton |
-| 1473 | 63 | Natasha Harris |
-| 1474 | 62 | Tagashel Gotuwe |
+| 1466 | 63 | LoveLee |
+| 1467 | 63 | Damien Mathews |
+| 1468 | 63 | Natasha Harris |
+| 1469 | 63 | Crafty Pivoty |
+| 1470 | 63 | Francisco R. Avalos |
+| 1471 | 63 | Danielle Mariyh Toomer |
+| 1472 | 63 | Gary Kyle |
+| 1473 | 63 | Tonny Williams |
+| 1474 | 63 | Arnold Hamilton |
 | 1475 | 62 | Chipper Clicker |
-| 1476 | 62 | Crystal Winters Mckay |
+| 1476 | 62 | Tagashel Gotuwe |
 | 1477 | 62 | Chirpy Glidezone |
-| 1478 | 61 | Krose Byers |
-| 1479 | 61 | Arturo Hernandez II |
-| 1480 | 61 | Michelle Stanford-Page |
-| 1481 | 61 | That1Girl |
+| 1478 | 62 | Crystal Winters Mckay |
+| 1479 | 61 | Michelle Stanford-Page |
+| 1480 | 61 | Snippy Balance |
+| 1481 | 61 | Arturo Hernandez II |
 | 1482 | 61 | SosaaCurry |
-| 1483 | 61 | Giggleme |
-| 1484 | 61 | Snippy Balance |
-| 1485 | 60 | Denise Batt Brown |
-| 1486 | 60 | Anthony Intrabartolo |
-| 1487 | 60 | Brian Marsico |
-| 1488 | 60 | Skyhigh Scott |
-| 1489 | 60 | Rachel |
-| 1490 | 60 | Elisha Latimore |
-| 1491 | 60 | Flash97 |
-| 1492 | 60 | Tiffany Thompson |
-| 1493 | 60 | Jennifer Endean |
-| 1494 | 60 | Clever Tilebuilder |
-| 1495 | 60 | Nancy Hartzell |
-| 1496 | 60 | Jolly Brickline |
-| 1497 | 60 | Frothy Snapbuilder |
-| 1498 | 60 | Carl Proby |
-| 1499 | 60 | OleGey |
-| 1500 | 60 | Jenai Brazell |
+| 1483 | 61 | Krose Byers |
+| 1484 | 61 | That1Girl |
+| 1485 | 61 | Giggleme |
+| 1486 | 60 | Brian Marsico |
+| 1487 | 60 | Rachel |
+| 1488 | 60 | Anthony Intrabartolo |
+| 1489 | 60 | Frothy Snapbuilder |
+| 1490 | 60 | Flash97 |
+| 1491 | 60 | Elisha Latimore |
+| 1492 | 60 | Skyhigh Scott |
+| 1493 | 60 | Tiffany Thompson |
+| 1494 | 60 | Jennifer Endean |
+| 1495 | 60 | Clever Tilebuilder |
+| 1496 | 60 | Nancy Hartzell |
+| 1497 | 60 | Jolly Brickline |
+| 1498 | 60 | Jenai Brazell |
+| 1499 | 60 | Carl Proby |
+| 1500 | 60 | Denise Batt Brown |
 | 1501 | 60 | Babette Estep |
-| 1502 | 59 | Cheryl Parraway |
-| 1503 | 59 | QueenJerelene Figero |
-| 1504 | 59 | Joy Shantrice Sorrells |
-| 1505 | 59 | Robert Varnado |
-| 1506 | 59 | Kween Pilot |
-| 1507 | 59 | smn4evolution |
+| 1502 | 60 | OleGey |
+| 1503 | 59 | Cheryl Parraway |
+| 1504 | 59 | Kween Pilot |
+| 1505 | 59 | QueenJerelene Figero |
+| 1506 | 59 | Robert Varnado |
+| 1507 | 59 | Joy Shantrice Sorrells |
 | 1508 | 59 | Sweet BayBee |
-| 1509 | 59 | Smiley Tilebuilder |
-| 1510 | 59 | Jeremy Myers |
-| 1511 | 59 | Ember Hammond |
-| 1512 | 59 | Ana Torres |
-| 1513 | 59 | Tasha Mack |
-| 1514 | 59 | Kennita Leach Woodard |
-| 1515 | 59 | Laceshia Finch |
-| 1516 | 58 | JLynn Mind Ur's Blackwell |
-| 1517 | 58 | CoaCoa Myles |
-| 1518 | 58 | jaz |
-| 1519 | 58 | Brenda Brogden |
-| 1520 | 58 | GlamourN |
+| 1509 | 59 | smn4evolution |
+| 1510 | 59 | Smiley Tilebuilder |
+| 1511 | 59 | Laceshia Finch |
+| 1512 | 59 | Tasha Mack |
+| 1513 | 59 | Ana Torres |
+| 1514 | 59 | Ember Hammond |
+| 1515 | 59 | Kennita Leach Woodard |
+| 1516 | 59 | Jeremy Myers |
+| 1517 | 58 | Brandy Way |
+| 1518 | 58 | Brenda Brogden |
+| 1519 | 58 | Bubbly Crawler |
+| 1520 | 58 | Angelique Thomas |
 | 1521 | 58 | Cee CRaze Perry Sr. |
-| 1522 | 58 | Brandy Way |
-| 1523 | 58 | Angelique Thomas |
-| 1524 | 58 | Bubbly Crawler |
-| 1525 | 57 | Andre Simpson |
-| 1526 | 57 | Frilly Rumbler |
-| 1527 | 57 | Francisco R. Avalos |
+| 1522 | 58 | GlamourN |
+| 1523 | 58 | jaz |
+| 1524 | 58 | JLynn Mind Ur's Blackwell |
+| 1525 | 58 | CoaCoa Myles |
+| 1526 | 57 | Dave Breaker |
+| 1527 | 57 | Rose Smith |
 | 1528 | 57 | Laura Long |
-| 1529 | 57 | Dave Breaker |
-| 1530 | 57 | Rose Smith |
-| 1531 | 57 | Cali Lee |
+| 1529 | 57 | Cali Lee |
+| 1530 | 57 | Frilly Rumbler |
+| 1531 | 57 | Andre Simpson |
 | 1532 | 57 | Tahlia Nunez Williams |
 | 1533 | 57 | Spicy Snap |
-| 1534 | 56 | Kira Wooten |
-| 1535 | 56 | David Rankin |
-| 1536 | 56 | Tim Tim |
+| 1534 | 56 | Tina Drake |
+| 1535 | 56 | Ginna |
+| 1536 | 56 | Lisa Ivy |
 | 1537 | 56 | Giddy Twistslam |
-| 1538 | 56 | Lisa Ivy |
-| 1539 | 56 | Ginna |
-| 1540 | 56 | Tina Drake |
+| 1538 | 56 | Tim Tim |
+| 1539 | 56 | Kira Wooten |
+| 1540 | 56 | David Rankin |
 | 1541 | 56 | Kayleah Washington |
 | 1542 | 56 | Kevin Witdaflute |
 | 1543 | 56 | vvvvv |
