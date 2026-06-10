@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:22:44 UTC
+# Standings for team2 as of 2026-06-10 08:23:22 UTC
 
 **Total Participants:** 2711
 
@@ -124,7 +124,7 @@
 | 116 | 1527 | Amber Salazar |
 | 117 | 1510 | Shandrea Crawford |
 | 118 | 1484 | Loopy Curvebuilder |
-| 119 | 1431 | Deborah Boyce Minor |
+| 119 | 1446 | Deborah Boyce Minor |
 | 120 | 1429 | Amber-leigh Williams |
 | 121 | 1395 | Frothy Fallgrid |
 | 122 | 1369 | Marquetta Johnson |
@@ -144,7 +144,7 @@
 | 136 | 1265 | Criccett Hooper-Smith |
 | 137 | 1261 | Kathy Strickland |
 | 138 | 1243 | jmo87 |
-| 139 | 1220 | Melissa Thomas |
+| 139 | 1235 | Melissa Thomas |
 | 140 | 1218 | LittleHippoEars |
 | 141 | 1200 | Denise Potter |
 | 142 | 1191 | Ricardo Ewart |
@@ -941,44 +941,44 @@
 | 933 | 194 | sampson |
 | 934 | 194 | JDub |
 | 935 | 193 | JrsWife |
-| 936 | 193 | Sleepypanda67 |
-| 937 | 193 | Jaimie Walters |
-| 938 | 193 | Toni Washington |
-| 939 | 193 | Brenda Zona |
-| 940 | 192 | Wendy Durrence Jones |
-| 941 | 192 | Stephen Gillam |
-| 942 | 192 | Alicia Parrish |
-| 943 | 191 | Distro |
-| 944 | 191 | Bouncy Cluster |
-| 945 | 190 | Amy Lea Hamilton |
-| 946 | 190 | Patti Ward |
-| 947 | 190 | Natalie M. Arredondo |
-| 948 | 190 | Silly square |
-| 949 | 190 | Shakey Bakey |
-| 950 | 190 | Jolly Brickroll |
-| 951 | 190 | Kayley |
-| 952 | 190 | gene15 |
-| 953 | 190 | Rachel Wooldridge |
+| 936 | 193 | Rachel Wooldridge |
+| 937 | 193 | Sleepypanda67 |
+| 938 | 193 | Jaimie Walters |
+| 939 | 193 | Toni Washington |
+| 940 | 193 | Brenda Zona |
+| 941 | 192 | Wendy Durrence Jones |
+| 942 | 192 | Stephen Gillam |
+| 943 | 192 | Alicia Parrish |
+| 944 | 191 | Distro |
+| 945 | 191 | Bouncy Cluster |
+| 946 | 190 | Amy Lea Hamilton |
+| 947 | 190 | Patti Ward |
+| 948 | 190 | Natalie M. Arredondo |
+| 949 | 190 | Silly square |
+| 950 | 190 | Shakey Bakey |
+| 951 | 190 | Jolly Brickroll |
+| 952 | 190 | Kayley |
+| 953 | 190 | gene15 |
 | 954 | 190 | whocares |
 | 955 | 189 | Marla Paden |
-| 956 | 189 | Poppy Strikerbuilder |
-| 957 | 189 | Destiny Turner |
+| 956 | 189 | Destiny Turner |
+| 957 | 189 | Poppy Strikerbuilder |
 | 958 | 189 | Goofy Patternfit |
 | 959 | 189 | Audrey Bickford |
 | 960 | 189 | Kristi K Milner |
-| 961 | 188 | Ceci |
-| 962 | 188 | Nikki Layman |
+| 961 | 188 | Nikki Layman |
+| 962 | 188 | Ceci |
 | 963 | 188 | Derrick |
 | 964 | 187 | Abby |
-| 965 | 187 | Hog Crankin |
-| 966 | 187 | Elizabeth Kline |
+| 965 | 187 | Elizabeth Kline |
+| 966 | 187 | Hog Crankin |
 | 967 | 187 | Aaron Jones |
 | 968 | 187 | Sara Dunn |
 | 969 | 187 | Witty Riser |
 | 970 | 186 | Rhonda Driskill |
 | 971 | 186 | Tamtam |
-| 972 | 186 | Lindsey Davidson |
-| 973 | 186 | Mandy Smart |
+| 972 | 186 | Mandy Smart |
+| 973 | 186 | Lindsey Davidson |
 | 974 | 186 | Jessica Veness-Toth |
 | 975 | 186 | Tina Carr |
 | 976 | 185 | Vicki Flippo |
@@ -989,16 +989,16 @@
 | 981 | 184 | YAKO |
 | 982 | 184 | Melissa Abbott |
 | 983 | 184 | Tabitha Ann Bullins-Cobb |
-| 984 | 184 | Jackelyn Ford |
-| 985 | 184 | Dandy Brickbuilder |
+| 984 | 184 | Dandy Brickbuilder |
+| 985 | 184 | Jackelyn Ford |
 | 986 | 183 | Jennifer Augustine |
 | 987 | 183 | Reggie Ellerbe |
 | 988 | 183 | Flashy Wipegrid |
 | 989 | 183 | Nikki Sadler |
 | 990 | 183 | Joshua Hopkins |
 | 991 | 182 | Damion Morrison |
-| 992 | 182 | Stacy Hoffman |
-| 993 | 182 | Steve Eakins |
+| 992 | 182 | Steve Eakins |
+| 993 | 182 | Stacy Hoffman |
 | 994 | 181 | Brittany Paul |
 | 995 | 181 | Evelyn Confer |
 | 996 | 180 | candi |
@@ -1100,37 +1100,37 @@
 | 1092 | 160 | Jocelyn Fisher |
 | 1093 | 160 | Cassey Feller |
 | 1094 | 160 | Jenifer Gasho |
-| 1095 | 160 | puppy mom |
-| 1096 | 160 | Gloria Appleton |
+| 1095 | 160 | Danid |
+| 1096 | 160 | puppy mom |
 | 1097 | 160 | Tasha Gilbert |
-| 1098 | 160 | Kay |
-| 1099 | 160 | Scott Lyles |
-| 1100 | 160 | Frank Laverty |
-| 1101 | 160 | Kaitlyn Hurst |
-| 1102 | 160 | Billie Jensen |
-| 1103 | 160 | Elizabeth Cornelius |
-| 1104 | 160 | Lively Twisterfit |
-| 1105 | 160 | AshleyM |
-| 1106 | 159 | Amanda Bailey |
-| 1107 | 159 | Funko Dave |
-| 1108 | 159 | Christina Reid |
-| 1109 | 159 | Meagan Thompson |
-| 1110 | 159 | Misty Noe |
-| 1111 | 159 | Kiersty Redder |
-| 1112 | 159 | Erica Abreu |
-| 1113 | 158 | Spicy Wrecker |
-| 1114 | 158 | STARFIRE |
-| 1115 | 158 | Samantha LeBlanc |
-| 1116 | 158 | CAL1KAWS559 |
-| 1117 | 157 | Twisty Blockpiece |
-| 1118 | 157 | Peyton Groce |
-| 1119 | 157 | Robert W Schwartz |
-| 1120 | 157 | Michelle Anne |
-| 1121 | 157 | Tracy Tokarz |
-| 1122 | 156 | Chirpy Clearpiece |
-| 1123 | 156 | Ashley Cadle |
+| 1098 | 160 | Gloria Appleton |
+| 1099 | 160 | Kay |
+| 1100 | 160 | Scott Lyles |
+| 1101 | 160 | Frank Laverty |
+| 1102 | 160 | Kaitlyn Hurst |
+| 1103 | 160 | Billie Jensen |
+| 1104 | 160 | Elizabeth Cornelius |
+| 1105 | 160 | Lively Twisterfit |
+| 1106 | 160 | AshleyM |
+| 1107 | 159 | Amanda Bailey |
+| 1108 | 159 | Funko Dave |
+| 1109 | 159 | Christina Reid |
+| 1110 | 159 | Meagan Thompson |
+| 1111 | 159 | Misty Noe |
+| 1112 | 159 | Kiersty Redder |
+| 1113 | 159 | Erica Abreu |
+| 1114 | 158 | Spicy Wrecker |
+| 1115 | 158 | STARFIRE |
+| 1116 | 158 | Samantha LeBlanc |
+| 1117 | 158 | CAL1KAWS559 |
+| 1118 | 157 | Twisty Blockpiece |
+| 1119 | 157 | Peyton Groce |
+| 1120 | 157 | Robert W Schwartz |
+| 1121 | 157 | Michelle Anne |
+| 1122 | 157 | Tracy Tokarz |
+| 1123 | 156 | Chirpy Clearpiece |
 | 1124 | 156 | KS Hengesbach |
-| 1125 | 156 | Danid |
+| 1125 | 156 | Ashley Cadle |
 | 1126 | 155 | Samantha Lewis |
 | 1127 | 155 | Britnee M Karg |
 | 1128 | 155 | Ducky West |
