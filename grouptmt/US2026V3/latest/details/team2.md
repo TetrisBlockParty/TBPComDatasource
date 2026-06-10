@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 13:24:43 UTC
+# Standings for team2 as of 2026-06-10 13:25:22 UTC
 
 **Total Participants:** 2748
 
@@ -62,8 +62,8 @@
 | 54 | 3682 | Chipper Patternblock |
 | 55 | 3598 | Angelica Jelli Gillaspy |
 | 56 | 3514 | Traci Elizabeth |
-| 57 | 3461 | Betty Barrett |
-| 58 | 3461 | Sean Rippa |
+| 57 | 3461 | Sean Rippa |
+| 58 | 3461 | Betty Barrett |
 | 59 | 3309 | Anthony Lilley |
 | 60 | 3207 | Helen Thomas |
 | 61 | 3182 | Elizabeth Sallas |
@@ -136,8 +136,8 @@
 | 128 | 1354 | Jaime P Lamb |
 | 129 | 1350 | Sigmamom |
 | 130 | 1347 | LittleHippoEars |
-| 131 | 1323 | joey |
-| 132 | 1316 | Loopy Cascadepiece |
+| 131 | 1336 | Loopy Cascadepiece |
+| 132 | 1323 | joey |
 | 133 | 1306 | Jason Cook |
 | 134 | 1305 | Kathy Strickland |
 | 135 | 1305 | Kellie Montgomery |
@@ -150,8 +150,8 @@
 | 142 | 1263 | jmo87 |
 | 143 | 1235 | Melissa Thomas |
 | 144 | 1224 | BrendaLee NolanBos |
-| 145 | 1203 | Hilliary Beyer |
-| 146 | 1202 | Mirr Lulu |
+| 145 | 1212 | Mirr Lulu |
+| 146 | 1203 | Hilliary Beyer |
 | 147 | 1200 | Denise Potter |
 | 148 | 1191 | Ricardo Ewart |
 | 149 | 1182 | Vistabrat |
@@ -185,16 +185,16 @@
 | 177 | 951 | AndrewandShela Gornik |
 | 178 | 938 | Amber Miller Wirick |
 | 179 | 929 | Brenda Jones |
-| 180 | 926 | Monique Frantz |
-| 181 | 926 | Jgato |
+| 180 | 926 | Jgato |
+| 181 | 926 | Monique Frantz |
 | 182 | 926 | Le Sandy |
 | 183 | 912 | Havik Whitfield |
 | 184 | 902 | Jat |
 | 185 | 901 | Fudgie Pie |
 | 186 | 898 | Giggly Wipepiece |
 | 187 | 888 | Crystal Allen |
-| 188 | 886 | Sara Perkins |
-| 189 | 886 | Cool Climber |
+| 188 | 886 | Cool Climber |
+| 189 | 886 | Sara Perkins |
 | 190 | 873 | Carebear05 |
 | 191 | 871 | Sandy Lynn |
 | 192 | 869 | SEH |
@@ -203,8 +203,8 @@
 | 195 | 866 | Robin G |
 | 196 | 863 | Kathy McCormick |
 | 197 | 862 | Lori Whitman |
-| 198 | 857 | Nettrainer |
-| 199 | 857 | Amanda Sikes |
+| 198 | 857 | Amanda Sikes |
+| 199 | 857 | Nettrainer |
 | 200 | 849 | Brandi Thompson |
 | 201 | 842 | Kevin Mccoy |
 | 202 | 841 | Michelle Luke Banta |
@@ -214,8 +214,8 @@
 | 206 | 836 | Ashley Green |
 | 207 | 826 | Milad Arzani |
 | 208 | 826 | Glitzy Base |
-| 209 | 825 | Nichole Wilson |
-| 210 | 825 | Brandon Link |
+| 209 | 825 | Brandon Link |
+| 210 | 825 | Nichole Wilson |
 | 211 | 822 | Kurt Brown |
 | 212 | 821 | Sarina Vollink |
 | 213 | 820 | Krisanne Kesner-Lonsby |
@@ -256,8 +256,8 @@
 | 248 | 724 | Kaylene Rigas |
 | 249 | 723 | Nutty Curver |
 | 250 | 721 | Sully |
-| 251 | 720 | Nikki EightySixed |
-| 252 | 720 | Chipper Stackbuilder |
+| 251 | 720 | Chipper Stackbuilder |
+| 252 | 720 | Nikki EightySixed |
 | 253 | 718 | Avie Lou |
 | 254 | 718 | Bubbly Strikerpiece |
 | 255 | 712 | Aldotfus Williams |
@@ -302,8 +302,8 @@
 | 294 | 627 | Theresa Marie |
 | 295 | 627 | Chirpy Grid |
 | 296 | 622 | Jenny |
-| 297 | 621 | Pam Bauder Ludwig |
-| 298 | 621 | Tara |
+| 297 | 621 | Tara |
+| 298 | 621 | Pam Bauder Ludwig |
 | 299 | 620 | Rachel Nilles |
 | 300 | 619 | Lora Via |
 | 301 | 618 | Spicy Basepiece |
@@ -330,8 +330,8 @@
 | 322 | 582 | Ratchet |
 | 323 | 581 | Jolly Slice |
 | 324 | 579 | Mookshake |
-| 325 | 577 | Lindsay Klemp |
-| 326 | 577 | Kristi Chestnut |
+| 325 | 577 | Kristi Chestnut |
+| 326 | 577 | Lindsay Klemp |
 | 327 | 575 | Melissa Nash |
 | 328 | 574 | Brandy McCune Reep |
 | 329 | 573 | James Ward |
@@ -369,8 +369,8 @@
 | 361 | 516 | Jeff Pottgether |
 | 362 | 511 | Jessica Melendy |
 | 363 | 511 | Flashy Drop |
-| 364 | 509 | Churube Finwoiisopw |
-| 365 | 509 | Michael Carmichael |
+| 364 | 510 | Michael Carmichael |
+| 365 | 509 | Churube Finwoiisopw |
 | 366 | 508 | Dawnypooh |
 | 367 | 506 | Chummy Faller |
 | 368 | 505 | Kim Hunt |

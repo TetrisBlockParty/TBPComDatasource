@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:24:43 UTC
+# Standings for team1 as of 2026-06-10 13:25:22 UTC
 
 **Total Participants:** 2268
 
@@ -267,11 +267,11 @@
 | 259 | 577 | Zachary Colegrove |
 | 260 | 577 | Marie Wilson |
 | 261 | 576 | Cachet A Ward |
-| 262 | 574 | DaVonte' Cretter |
-| 263 | 574 | rls |
-| 264 | 565 | IThinkNot |
-| 265 | 565 | DellaLucretia Thomas |
-| 266 | 565 | Cheeky Pop |
+| 262 | 574 | rls |
+| 263 | 574 | DaVonte' Cretter |
+| 264 | 571 | Cheeky Pop |
+| 265 | 565 | IThinkNot |
+| 266 | 565 | DellaLucretia Thomas |
 | 267 | 562 | Frisky Fall |
 | 268 | 556 | pooh |
 | 269 | 554 | Marissa Sweet |
@@ -393,12 +393,12 @@
 | 385 | 395 | Maribel Vasquez |
 | 386 | 394 | Wayne Savannah |
 | 387 | 393 | Jai |
-| 388 | 391 | HarleyJane |
-| 389 | 390 | Jean Regis |
-| 390 | 387 | kitten |
-| 391 | 386 | De'Mear McKinney |
-| 392 | 385 | Jennah |
-| 393 | 385 | Bubbly Piececlear |
+| 388 | 393 | Bubbly Piececlear |
+| 389 | 391 | HarleyJane |
+| 390 | 390 | Jean Regis |
+| 391 | 387 | kitten |
+| 392 | 386 | De'Mear McKinney |
+| 393 | 385 | Jennah |
 | 394 | 381 | Lisa Fletcher |
 | 395 | 381 | SeanSanchez |
 | 396 | 381 | Faith Armone |
