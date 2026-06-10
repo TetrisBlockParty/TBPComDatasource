@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 00:44:21 UTC
+# Standings for team2 as of 2026-06-10 00:44:45 UTC
 
 **Total Participants:** 2619
 
@@ -165,7 +165,7 @@
 | 157 | 989 | Renee Freeman Jacobson |
 | 158 | 988 | Dane Marko |
 | 159 | 979 | Sarah Mccolgan |
-| 160 | 973 | MarioKarasovic |
+| 160 | 975 | MarioKarasovic |
 | 161 | 971 | Shea |
 | 162 | 970 | Sarah Griffey |
 | 163 | 959 | Groovy Snapper |
@@ -194,19 +194,19 @@
 | 186 | 810 | Tami Kay Williams Watson |
 | 187 | 810 | Glitzy Base |
 | 188 | 810 | Zachary Vymislicky |
-| 189 | 808 | Crystal Allen |
-| 190 | 806 | Kellie Montgomery |
-| 191 | 805 | Lashanda Bertram |
-| 192 | 805 | Nicole Hogue |
-| 193 | 801 | Amanda Sikes |
-| 194 | 801 | Alicia Kinney |
-| 195 | 798 | Rob Owens |
-| 196 | 797 | Perii Reynoso |
-| 197 | 795 | Krisanne Kesner-Lonsby |
-| 198 | 789 | Jamie Jones |
-| 199 | 784 | Steven Craig |
-| 200 | 782 | Kimmyc |
-| 201 | 781 | Fudgie Pie |
+| 189 | 809 | Fudgie Pie |
+| 190 | 808 | Crystal Allen |
+| 191 | 806 | Kellie Montgomery |
+| 192 | 805 | Lashanda Bertram |
+| 193 | 805 | Nicole Hogue |
+| 194 | 801 | Amanda Sikes |
+| 195 | 801 | Alicia Kinney |
+| 196 | 798 | Rob Owens |
+| 197 | 797 | Perii Reynoso |
+| 198 | 795 | Krisanne Kesner-Lonsby |
+| 199 | 789 | Jamie Jones |
+| 200 | 784 | Steven Craig |
+| 201 | 782 | Kimmyc |
 | 202 | 773 | MegaPooh |
 | 203 | 772 | Joslyn Johnson |
 | 204 | 771 | Sandy Lynn |
@@ -330,9 +330,9 @@
 | 322 | 523 | Marilyn Strickland |
 | 323 | 521 | Amy Taylor Pomerenk |
 | 324 | 520 | Deezie |
-| 325 | 518 | Jason Cunningham |
-| 326 | 517 | Julibeth Wells |
-| 327 | 516 | Nikki Greeneyebeauty |
+| 325 | 518 | Nikki Greeneyebeauty |
+| 326 | 518 | Jason Cunningham |
+| 327 | 517 | Julibeth Wells |
 | 328 | 509 | Churube Finwoiisopw |
 | 329 | 508 | Dawnypooh |
 | 330 | 508 | Ackerman 85 |
@@ -915,15 +915,15 @@
 | 907 | 186 | Tamtam |
 | 908 | 186 | Patty Ann Hendrickson |
 | 909 | 186 | Tina Carr |
-| 910 | 185 | Vicki Flippo |
-| 911 | 185 | Christine James |
-| 912 | 185 | Sillyk |
-| 913 | 184 | Bouncy Cluster |
-| 914 | 184 | Melissa Abbott |
-| 915 | 184 | YAKO |
-| 916 | 184 | Jackelyn Ford |
-| 917 | 184 | Tabitha Ann Bullins-Cobb |
-| 918 | 184 | Mandy Smart |
+| 910 | 186 | Mandy Smart |
+| 911 | 185 | Vicki Flippo |
+| 912 | 185 | Christine James |
+| 913 | 185 | Sillyk |
+| 914 | 184 | Bouncy Cluster |
+| 915 | 184 | Melissa Abbott |
+| 916 | 184 | YAKO |
+| 917 | 184 | Jackelyn Ford |
+| 918 | 184 | Tabitha Ann Bullins-Cobb |
 | 919 | 183 | Flashy Wipegrid |
 | 920 | 183 | Ceci |
 | 921 | 183 | Nikki Sadler |
@@ -1151,9 +1151,9 @@
 | 1143 | 138 | Sam Brewster |
 | 1144 | 138 | Krystallin Stacy |
 | 1145 | 138 | Kiersty Redder |
-| 1146 | 138 | Jessica Nightshade Hansuld |
-| 1147 | 138 | Saucy Lifter |
-| 1148 | 137 | Anita Blackshear |
+| 1146 | 138 | Anita Blackshear |
+| 1147 | 138 | Jessica Nightshade Hansuld |
+| 1148 | 138 | Saucy Lifter |
 | 1149 | 137 | Erica Abreu |
 | 1150 | 137 | Sarah Louise Cobb |
 | 1151 | 136 | Lauren Maxwell |
