@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:46:45 UTC
+# Standings for team2 as of 2026-06-10 12:47:24 UTC
 
 **Total Participants:** 2740
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 34200 | Mochi |
-| 2 | 29777 | Summer Harrison |
+| 2 | 29796 | Summer Harrison |
 | 3 | 18520 | Puce guide 9156 |
 | 4 | 14612 | Lacey Nolting |
 | 5 | 14275 | Crystalin Heath Lewis |
@@ -97,9 +97,9 @@
 | 89 | 2096 | Block Dog |
 | 90 | 2094 | Peppy Roll |
 | 91 | 2049 | Bridget N Jonathan Franz |
-| 92 | 2021 | Jef Wassom |
-| 93 | 2020 | Heather Marie-Tarlton Britt |
-| 94 | 2015 | Zappy Pattern |
+| 92 | 2034 | Zappy Pattern |
+| 93 | 2021 | Jef Wassom |
+| 94 | 2020 | Heather Marie-Tarlton Britt |
 | 95 | 1984 | Misiek |
 | 96 | 1952 | Frilly Match |
 | 97 | 1941 | Nova Nova |
@@ -814,19 +814,19 @@
 | 806 | 239 | Kalli Bonin |
 | 807 | 239 | Ashlee Johnson |
 | 808 | 239 | Flex |
-| 809 | 238 | Anzhen |
-| 810 | 238 | Suzanne Davis |
-| 811 | 238 | Chipper Towerzone |
-| 812 | 237 | Renee Siems |
-| 813 | 237 | Anna Benjamin Freeman |
-| 814 | 237 | William Dowd |
-| 815 | 236 | Duck |
-| 816 | 236 | Lush Party |
-| 817 | 236 | Elnaz Mokleh |
-| 818 | 235 | Goldie |
-| 819 | 235 | Heather Billodeau |
-| 820 | 235 | Angeleye A James |
-| 821 | 235 | John Perkins |
+| 809 | 238 | John Perkins |
+| 810 | 238 | Anzhen |
+| 811 | 238 | Suzanne Davis |
+| 812 | 238 | Chipper Towerzone |
+| 813 | 237 | Renee Siems |
+| 814 | 237 | Anna Benjamin Freeman |
+| 815 | 237 | William Dowd |
+| 816 | 236 | Duck |
+| 817 | 236 | Lush Party |
+| 818 | 236 | Elnaz Mokleh |
+| 819 | 235 | Goldie |
+| 820 | 235 | Heather Billodeau |
+| 821 | 235 | Angeleye A James |
 | 822 | 235 | Jazzy Snapfit |
 | 823 | 234 | ReiRei |
 | 824 | 234 | Mike Mordhorst |
@@ -2392,51 +2392,51 @@
 | 2384 | 21 | sally |
 | 2385 | 21 | Jacqueline Leigh Zuzinec |
 | 2386 | 20 | Agnes Gable |
-| 2387 | 20 | Chris Weddel |
-| 2388 | 20 | Kathi Patrick |
-| 2389 | 20 | Sasha Hamilton |
-| 2390 | 20 | Michelle Hartman |
-| 2391 | 20 | Sarah Davis |
-| 2392 | 20 | Daring Line |
-| 2393 | 20 | Cheery Filler |
-| 2394 | 20 | Dixie |
-| 2395 | 20 | Roberta Granados |
-| 2396 | 20 | Stacie Taylor |
-| 2397 | 20 | Shawna Bushnell |
-| 2398 | 20 | Lawana Brooks |
-| 2399 | 20 | Deborah Morey-avila |
-| 2400 | 20 | Christine Souza Chavez |
-| 2401 | 20 | Amondo Duckworth |
-| 2402 | 20 | Chrisann Lebron |
-| 2403 | 20 | Wacky Link |
-| 2404 | 20 | Jamaica Flowers |
-| 2405 | 20 | Brandy Knight Roberts |
-| 2406 | 20 | Adam Winters |
-| 2407 | 20 | Valerie Blake |
-| 2408 | 20 | Danielle Lorie |
-| 2409 | 20 | Ciera Adams |
-| 2410 | 20 | Rainbowdust Glitter-pants |
-| 2411 | 20 | TookaRhoGorgeous |
-| 2412 | 20 | Jimberlee Akuna |
-| 2413 | 20 | Bouncy Brickfit |
-| 2414 | 20 | Elora |
-| 2415 | 20 | Tosha Dickson |
-| 2416 | 20 | Melanie Hernandez |
-| 2417 | 20 | Scott Mack |
-| 2418 | 20 | Shana Campbell |
-| 2419 | 19 | Stephanie Thompson |
-| 2420 | 19 | kenzieeeee |
-| 2421 | 19 | Melissa Roark |
-| 2422 | 19 | Brittany E Shirley |
-| 2423 | 19 | Dapper Catcher |
-| 2424 | 19 | Amanda Nicholson |
-| 2425 | 19 | Tetra Maniac |
-| 2426 | 19 | Christy Jackson |
-| 2427 | 19 | sadgirl |
-| 2428 | 19 | Tonya Reed |
-| 2429 | 19 | Clever Balancefit |
-| 2430 | 18 | Miggy Gonzalez |
-| 2431 | 18 | Jennifer Bell |
+| 2387 | 20 | Jennifer Bell |
+| 2388 | 20 | Chris Weddel |
+| 2389 | 20 | Kathi Patrick |
+| 2390 | 20 | Sasha Hamilton |
+| 2391 | 20 | Michelle Hartman |
+| 2392 | 20 | Sarah Davis |
+| 2393 | 20 | Daring Line |
+| 2394 | 20 | Cheery Filler |
+| 2395 | 20 | Dixie |
+| 2396 | 20 | Roberta Granados |
+| 2397 | 20 | Stacie Taylor |
+| 2398 | 20 | Shawna Bushnell |
+| 2399 | 20 | Lawana Brooks |
+| 2400 | 20 | Deborah Morey-avila |
+| 2401 | 20 | Christine Souza Chavez |
+| 2402 | 20 | Amondo Duckworth |
+| 2403 | 20 | Chrisann Lebron |
+| 2404 | 20 | Wacky Link |
+| 2405 | 20 | Jamaica Flowers |
+| 2406 | 20 | Brandy Knight Roberts |
+| 2407 | 20 | Adam Winters |
+| 2408 | 20 | Valerie Blake |
+| 2409 | 20 | Danielle Lorie |
+| 2410 | 20 | Ciera Adams |
+| 2411 | 20 | Rainbowdust Glitter-pants |
+| 2412 | 20 | TookaRhoGorgeous |
+| 2413 | 20 | Jimberlee Akuna |
+| 2414 | 20 | Bouncy Brickfit |
+| 2415 | 20 | Elora |
+| 2416 | 20 | Tosha Dickson |
+| 2417 | 20 | Melanie Hernandez |
+| 2418 | 20 | Scott Mack |
+| 2419 | 20 | Shana Campbell |
+| 2420 | 19 | Stephanie Thompson |
+| 2421 | 19 | kenzieeeee |
+| 2422 | 19 | Melissa Roark |
+| 2423 | 19 | Brittany E Shirley |
+| 2424 | 19 | Dapper Catcher |
+| 2425 | 19 | Amanda Nicholson |
+| 2426 | 19 | Tetra Maniac |
+| 2427 | 19 | Christy Jackson |
+| 2428 | 19 | sadgirl |
+| 2429 | 19 | Tonya Reed |
+| 2430 | 19 | Clever Balancefit |
+| 2431 | 18 | Miggy Gonzalez |
 | 2432 | 18 | Tavia Teschendorf Sliffe |
 | 2433 | 18 | Hoppy Strikesnap |
 | 2434 | 18 | Josefina Vaquero Aguilar |
