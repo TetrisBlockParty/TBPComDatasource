@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:52:22 UTC
+# Standings for team1 as of 2026-06-10 09:53:23 UTC
 
 **Total Participants:** 2253
 
@@ -139,9 +139,9 @@
 | 131 | 1053 | Yolanda E Fergerson |
 | 132 | 1051 | Christana Imjustbutton Stone |
 | 133 | 1045 | Joy Citizen Pickney |
-| 134 | 1041 | Zippy Lifter |
-| 135 | 1034 | Quirky Fallgrid |
-| 136 | 1030 | Plucky Slamdrop |
+| 134 | 1042 | Plucky Slamdrop |
+| 135 | 1041 | Zippy Lifter |
+| 136 | 1034 | Quirky Fallgrid |
 | 137 | 1021 | Jeffrey Barrows |
 | 138 | 1008 | Cece Fowler |
 | 139 | 987 | Kaleisha Smith |
@@ -292,12 +292,12 @@
 | 284 | 522 | Penee Wiggins |
 | 285 | 519 | Clever Fitblock |
 | 286 | 514 | Tessa Felice Hill |
-| 287 | 514 | Chasem45 |
-| 288 | 512 | Anthony |
-| 289 | 511 | Dizzy Dropper |
-| 290 | 509 | JaClanDiah |
-| 291 | 503 | Bre Poston |
-| 292 | 502 | Slinky Brickmatch |
+| 287 | 514 | Slinky Brickmatch |
+| 288 | 514 | Chasem45 |
+| 289 | 512 | Anthony |
+| 290 | 511 | Dizzy Dropper |
+| 291 | 509 | JaClanDiah |
+| 292 | 503 | Bre Poston |
 | 293 | 502 | Jessica Russell |
 | 294 | 501 | Jawaun Daniels |
 | 295 | 501 | Cheri Robinson |
@@ -388,40 +388,40 @@
 | 380 | 381 | Faith Armone |
 | 381 | 380 | Tonya Thomas |
 | 382 | 380 | Still Ten Tay |
-| 383 | 380 | Giggy Edgefit |
-| 384 | 380 | Ladybug |
+| 383 | 380 | Ladybug |
+| 384 | 380 | Giggy Edgefit |
 | 385 | 380 | Ketrell Bailey |
 | 386 | 378 | Ashley MyBeauty Daniels |
 | 387 | 378 | Dennis J Herron II |
-| 388 | 377 | ♈️ Ariesbaby |
-| 389 | 377 | Eric Spencer Whitaker |
-| 390 | 377 | AF Cruz |
-| 391 | 375 | Jana Cheek |
-| 392 | 372 | BabyCakes |
-| 393 | 371 | Cynthia Bradley |
-| 394 | 371 | Shea Ladynick Henderson |
-| 395 | 370 | Allison Baxter |
-| 396 | 369 | Guard Up |
-| 397 | 368 | Cortaz Lawrie |
-| 398 | 366 | Shalya Terry |
+| 388 | 377 | kick it |
+| 389 | 377 | ♈️ Ariesbaby |
+| 390 | 377 | Eric Spencer Whitaker |
+| 391 | 377 | AF Cruz |
+| 392 | 375 | Jana Cheek |
+| 393 | 372 | BabyCakes |
+| 394 | 371 | Cynthia Bradley |
+| 395 | 371 | Shea Ladynick Henderson |
+| 396 | 370 | Allison Baxter |
+| 397 | 369 | Guard Up |
+| 398 | 368 | Cortaz Lawrie |
 | 399 | 366 | MindlessMic |
-| 400 | 364 | Kimberly Anderson |
+| 400 | 366 | Shalya Terry |
 | 401 | 364 | Tipsy Linkroll |
-| 402 | 363 | Christina Rebecca |
-| 403 | 363 | Brittany Fells |
-| 404 | 362 | Ryan Runyan |
+| 402 | 364 | Kimberly Anderson |
+| 403 | 363 | Christina Rebecca |
+| 404 | 363 | Brittany Fells |
 | 405 | 362 | Kendra McIntyre |
-| 406 | 362 | LaShaun Stinson |
-| 407 | 361 | John Staub |
-| 408 | 361 | Lakiesha Crawford |
-| 409 | 360 | Teri Marie Clayton |
-| 410 | 360 | Sara Meri |
-| 411 | 360 | HS Arce |
-| 412 | 360 | Tyree Tman Shinette |
-| 413 | 359 | Stacy Nicole |
-| 414 | 359 | Montréal Mars |
-| 415 | 359 | Amy Villalpando |
-| 416 | 358 | kick it |
+| 406 | 362 | Ryan Runyan |
+| 407 | 362 | LaShaun Stinson |
+| 408 | 361 | John Staub |
+| 409 | 361 | Lakiesha Crawford |
+| 410 | 360 | Teri Marie Clayton |
+| 411 | 360 | Tyree Tman Shinette |
+| 412 | 360 | HS Arce |
+| 413 | 360 | Sara Meri |
+| 414 | 359 | Amy Villalpando |
+| 415 | 359 | Montréal Mars |
+| 416 | 359 | Stacy Nicole |
 | 417 | 357 | Janice Mowel Curtiss |
 | 418 | 357 | McKayla Owens |
 | 419 | 357 | Manda Allen |
