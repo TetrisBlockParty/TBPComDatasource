@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 14:26:46 UTC
+# Standings for team4 as of 2026-06-10 14:27:22 UTC
 
 **Total Participants:** 2331
 
@@ -40,7 +40,7 @@
 | 32 | 4841 | Daring Ziggy |
 | 33 | 4759 | Jackie Lucas |
 | 34 | 4418 | Victoria Ver |
-| 35 | 4358 | Leigh Pierce |
+| 35 | 4378 | Leigh Pierce |
 | 36 | 4323 | Leah Barnett |
 | 37 | 4319 | Tonya Brooks-Johnson |
 | 38 | 4179 | Witty Clicky |
@@ -652,29 +652,29 @@
 | 644 | 246 | Lacie Powers |
 | 645 | 245 | Loretta Hendricks |
 | 646 | 245 | Marcus Fontenot |
-| 647 | 244 | Lolita Nettles |
-| 648 | 244 | Lisa lisa |
+| 647 | 244 | Lisa lisa |
+| 648 | 244 | Lolita Nettles |
 | 649 | 244 | Renita Jordan |
-| 650 | 243 | Brandy Lynn |
-| 651 | 243 | Anna Ryan |
+| 650 | 243 | Anna Ryan |
+| 651 | 243 | Brandy Lynn |
 | 652 | 242 | Redhead girl |
 | 653 | 241 | Memphiago Tenninois |
 | 654 | 241 | Seraphim Mabry |
 | 655 | 240 | Nutty Rollfit |
-| 656 | 240 | Donna Bush |
+| 656 | 240 | Nerdy Brickster |
 | 657 | 240 | 1694AF |
-| 658 | 240 | Nerdy Brickster |
-| 659 | 239 | Funky Twistpiece |
-| 660 | 239 | Mighty1 |
-| 661 | 239 | Chelle Williams |
-| 662 | 238 | bribop |
-| 663 | 238 | Amanda Snow |
-| 664 | 238 | Shaunna Caldwell |
+| 658 | 240 | Donna Bush |
+| 659 | 239 | Chelle Williams |
+| 660 | 239 | Funky Twistpiece |
+| 661 | 239 | Mighty1 |
+| 662 | 238 | Shaunna Caldwell |
+| 663 | 238 | bribop |
+| 664 | 238 | Amanda Snow |
 | 665 | 238 | Tara Delay Hill |
-| 666 | 237 | Erica Pompey |
-| 667 | 237 | Kelly Miller Williams |
-| 668 | 236 | Playful Raccoon |
-| 669 | 236 | Trang Nguyen |
+| 666 | 237 | Kelly Miller Williams |
+| 667 | 237 | Erica Pompey |
+| 668 | 236 | Trang Nguyen |
+| 669 | 236 | Playful Raccoon |
 | 670 | 236 | Stephanie Brock |
 | 671 | 236 | JoJo Hutson |
 | 672 | 236 | Deb 07 |
@@ -688,23 +688,23 @@
 | 680 | 231 | Alizabeth Garcia |
 | 681 | 231 | Lora Schallert |
 | 682 | 231 | Allysha McFarland |
-| 683 | 230 | Breezy Brickline |
-| 684 | 230 | Spicy Peach |
-| 685 | 230 | Lord Solrac |
-| 686 | 229 | Marcus Chavis |
-| 687 | 229 | chuck |
+| 683 | 230 | Lord Solrac |
+| 684 | 230 | GETBOXED! |
+| 685 | 230 | Breezy Brickline |
+| 686 | 230 | Spicy Peach |
+| 687 | 229 | Marcus Chavis |
 | 688 | 229 | Happy Shatterfit |
 | 689 | 229 | Capt'n Crunch |
-| 690 | 228 | Tonia Kay |
-| 691 | 228 | Raising Stars |
-| 692 | 228 | Happy Strikerpiece |
-| 693 | 228 | Chass Hudson |
-| 694 | 228 | Butterpat |
-| 695 | 227 | Kat Foreman |
-| 696 | 227 | Tactical_B |
-| 697 | 227 | Justin Ballard |
+| 690 | 229 | chuck |
+| 691 | 228 | Tonia Kay |
+| 692 | 228 | Raising Stars |
+| 693 | 228 | Happy Strikerpiece |
+| 694 | 228 | Chass Hudson |
+| 695 | 228 | Butterpat |
+| 696 | 227 | Kat Foreman |
+| 697 | 227 | Tactical_B |
 | 698 | 227 | Budda Huitt |
-| 699 | 227 | GETBOXED! |
+| 699 | 227 | Justin Ballard |
 | 700 | 226 | Buddyblock |
 | 701 | 226 | Domo Dpn |
 | 702 | 225 | Stefanie Street |
