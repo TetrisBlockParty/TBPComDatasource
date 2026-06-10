@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:12:46 UTC
+# Standings for team2 as of 2026-06-10 08:13:24 UTC
 
 **Total Participants:** 2710
 
@@ -147,8 +147,8 @@
 | 139 | 1218 | LittleHippoEars |
 | 140 | 1200 | Denise Potter |
 | 141 | 1191 | Ricardo Ewart |
-| 142 | 1186 | Sam |
-| 143 | 1183 | Melissa Thomas |
+| 142 | 1186 | Melissa Thomas |
+| 143 | 1186 | Sam |
 | 144 | 1171 | BrendaLee NolanBos |
 | 145 | 1157 | Hilliary Beyer |
 | 146 | 1149 | Allie Bug |
@@ -277,14 +277,14 @@
 | 269 | 670 | Michelle Powers Chattaway |
 | 270 | 667 | Iesha Cupil |
 | 271 | 662 | Michelle Rich Burkhart |
-| 272 | 660 | Mikia Stokes |
-| 273 | 659 | La chulis |
+| 272 | 660 | La chulis |
+| 273 | 660 | Mikia Stokes |
 | 274 | 656 | Laverne Ellis Blair |
 | 275 | 651 | Rosalie Call Kehlenbeck |
 | 276 | 650 | Jennifer Smith |
 | 277 | 648 | Kathleen Dumbazz |
 | 278 | 642 | Bri St Peter |
-| 279 | 640 | Lyric Price |
+| 279 | 641 | Lyric Price |
 | 280 | 639 | Alicia Ellenburg |
 | 281 | 639 | Stephany Green |
 | 282 | 631 | Donna Esbensen-Alpini |

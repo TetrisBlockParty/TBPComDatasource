@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:12:46 UTC
+# Standings for team4 as of 2026-06-10 08:13:24 UTC
 
 **Total Participants:** 2296
 
@@ -55,7 +55,7 @@
 | 47 | 3323 | Carly Stempien |
 | 48 | 3150 | Destiny Dyer |
 | 49 | 3100 | Posey Smith |
-| 50 | 3044 | Wendy Zentz |
+| 50 | 3074 | Wendy Zentz |
 | 51 | 2960 | Alicia Cook |
 | 52 | 2839 | 626 |
 | 53 | 2800 | Caitlin Johnson |
@@ -165,13 +165,13 @@
 | 157 | 883 | Tamara Triplet |
 | 158 | 877 | Hwanger Land |
 | 159 | 872 | vag1974 |
-| 160 | 864 | adrian |
-| 161 | 859 | George Palacios |
-| 162 | 856 | Kimberly Civinski |
-| 163 | 850 | Shiny Dashy |
-| 164 | 848 | Gigglycat |
-| 165 | 841 | Pepone Pepe |
-| 166 | 841 | Cranky Towerbuilder |
+| 160 | 871 | Cranky Towerbuilder |
+| 161 | 864 | adrian |
+| 162 | 859 | George Palacios |
+| 163 | 856 | Kimberly Civinski |
+| 164 | 850 | Shiny Dashy |
+| 165 | 848 | Gigglycat |
+| 166 | 841 | Pepone Pepe |
 | 167 | 835 | SupaFly |
 | 168 | 832 | Lori Stembridge |
 | 169 | 830 | Kitsune Bi |
@@ -747,8 +747,8 @@
 | 739 | 203 | Goofy Strike |
 | 740 | 202 | Clever Patterner |
 | 741 | 202 | MrLoner Stoner |
-| 742 | 202 | Ashley Nichole Skamra |
-| 743 | 202 | Shaneé Staunton |
+| 742 | 202 | Shaneé Staunton |
+| 743 | 202 | Ashley Nichole Skamra |
 | 744 | 201 | Abby Waterman |
 | 745 | 201 | Frilly Zoney |
 | 746 | 201 | Kimberly Mae Watkins |
@@ -831,9 +831,9 @@
 | 823 | 180 | Michelle Sager |
 | 824 | 180 | Silly Rollbuilder |
 | 825 | 180 | Fancy Tilefall |
-| 826 | 180 | Dominique Summers Tah-tah |
+| 826 | 180 | Pebbles Gonzalez |
 | 827 | 180 | Worley’s Wife |
-| 828 | 180 | Pebbles Gonzalez |
+| 828 | 180 | Dominique Summers Tah-tah |
 | 829 | 179 | Shirley Williams |
 | 830 | 179 | Chelsea Guajardo |
 | 831 | 179 | Laryssia Taylor |
@@ -1003,40 +1003,40 @@
 | 995 | 144 | Mighty Spinfit |
 | 996 | 143 | Miranda Brown |
 | 997 | 143 | Rebekah Anne Macias |
-| 998 | 141 | Scott Baum |
-| 999 | 141 | Audrianna Skaff |
-| 1000 | 141 | Baby cat |
-| 1001 | 141 | Aaron Turner |
-| 1002 | 141 | Phredda Helene Gavornik |
-| 1003 | 141 | Monkey |
-| 1004 | 140 | Kris McMahon |
-| 1005 | 140 | the repo |
-| 1006 | 140 | Heather Brown |
-| 1007 | 140 | Glitter |
-| 1008 | 140 | Jean Yap |
-| 1009 | 140 | Groovy Matchgrid |
-| 1010 | 140 | Stacey Heartful |
-| 1011 | 140 | Krista Diaz |
-| 1012 | 140 | Littleshark |
-| 1013 | 140 | Larredo Covington |
-| 1014 | 140 | Aim Georgia Bros Scott |
-| 1015 | 140 | Willy Leung |
-| 1016 | 140 | skynatda |
-| 1017 | 139 | Cozy Patternbuilder |
-| 1018 | 139 | Giggy Snapgrid |
-| 1019 | 139 | Jonelle Jacobs |
-| 1020 | 139 | da1ndonly |
-| 1021 | 139 | Erich EMac McIntosh |
-| 1022 | 139 | Melissa Wilson |
-| 1023 | 139 | Gualberto Ramirez |
-| 1024 | 138 | Ami Ferguson |
-| 1025 | 138 | Tammy Lasseigne |
-| 1026 | 138 | Lush Match |
-| 1027 | 138 | Meghan Etchells |
-| 1028 | 138 | Blu |
-| 1029 | 138 | Vanessa Torres |
-| 1030 | 137 | Clever Blockmatch |
-| 1031 | 137 | Cozy Builderfit |
+| 998 | 142 | Clever Blockmatch |
+| 999 | 141 | Scott Baum |
+| 1000 | 141 | Audrianna Skaff |
+| 1001 | 141 | Baby cat |
+| 1002 | 141 | Aaron Turner |
+| 1003 | 141 | Phredda Helene Gavornik |
+| 1004 | 141 | Monkey |
+| 1005 | 140 | Kris McMahon |
+| 1006 | 140 | the repo |
+| 1007 | 140 | Heather Brown |
+| 1008 | 140 | Glitter |
+| 1009 | 140 | Jean Yap |
+| 1010 | 140 | Groovy Matchgrid |
+| 1011 | 140 | Stacey Heartful |
+| 1012 | 140 | Krista Diaz |
+| 1013 | 140 | Littleshark |
+| 1014 | 140 | Larredo Covington |
+| 1015 | 140 | Aim Georgia Bros Scott |
+| 1016 | 140 | Willy Leung |
+| 1017 | 140 | skynatda |
+| 1018 | 139 | Cozy Patternbuilder |
+| 1019 | 139 | Cozy Builderfit |
+| 1020 | 139 | Giggy Snapgrid |
+| 1021 | 139 | Jonelle Jacobs |
+| 1022 | 139 | da1ndonly |
+| 1023 | 139 | Erich EMac McIntosh |
+| 1024 | 139 | Melissa Wilson |
+| 1025 | 139 | Gualberto Ramirez |
+| 1026 | 138 | Ami Ferguson |
+| 1027 | 138 | Tammy Lasseigne |
+| 1028 | 138 | Lush Match |
+| 1029 | 138 | Meghan Etchells |
+| 1030 | 138 | Blu |
+| 1031 | 138 | Vanessa Torres |
 | 1032 | 137 | TheazO |
 | 1033 | 137 | Lala |
 | 1034 | 137 | Susan Mary Kelley |
@@ -1062,8 +1062,8 @@
 | 1054 | 132 | Giggly Gridzone |
 | 1055 | 132 | Chris Somsen |
 | 1056 | 132 | William Brooks |
-| 1057 | 132 | Marie Lily |
-| 1058 | 132 | Chirpy Spinzone |
+| 1057 | 132 | Chirpy Spinzone |
+| 1058 | 132 | Marie Lily |
 | 1059 | 132 | Jarad Glover |
 | 1060 | 131 | Lush Balanceblock |
 | 1061 | 131 | Tika Boo |

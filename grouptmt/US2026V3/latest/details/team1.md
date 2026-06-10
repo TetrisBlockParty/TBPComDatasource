@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:12:46 UTC
+# Standings for team1 as of 2026-06-10 08:13:24 UTC
 
 **Total Participants:** 2243
 
@@ -1411,18 +1411,18 @@
 | 1403 | 65 | Furlough Leslie |
 | 1404 | 65 | Panda Vibes |
 | 1405 | 65 | Brandon Knox |
-| 1406 | 65 | Nockallday |
-| 1407 | 65 | Juanita Quezaire |
-| 1408 | 64 | Capt Kev |
-| 1409 | 64 | Twisty Linkgrid |
-| 1410 | 64 | BlessedBeauty |
-| 1411 | 64 | Giggly Dasher |
-| 1412 | 63 | Natasha Harris |
-| 1413 | 63 | Arnold Hamilton |
-| 1414 | 63 | Gary Kyle |
-| 1415 | 63 | Damien Mathews |
-| 1416 | 63 | Tonny Williams |
-| 1417 | 63 | The goat |
+| 1406 | 65 | The goat |
+| 1407 | 65 | Nockallday |
+| 1408 | 65 | Juanita Quezaire |
+| 1409 | 64 | Capt Kev |
+| 1410 | 64 | Twisty Linkgrid |
+| 1411 | 64 | BlessedBeauty |
+| 1412 | 64 | Giggly Dasher |
+| 1413 | 63 | Natasha Harris |
+| 1414 | 63 | Arnold Hamilton |
+| 1415 | 63 | Gary Kyle |
+| 1416 | 63 | Damien Mathews |
+| 1417 | 63 | Tonny Williams |
 | 1418 | 63 | LoveLee |
 | 1419 | 63 | Crafty Pivoty |
 | 1420 | 62 | Chipper Clicker |
@@ -1430,18 +1430,18 @@
 | 1422 | 61 | Giggleme |
 | 1423 | 61 | Sunny Riserbuilder |
 | 1424 | 61 | Michelle Stanford-Page |
-| 1425 | 61 | Krose Byers |
-| 1426 | 61 | Arturo Hernandez II |
+| 1425 | 61 | Arturo Hernandez II |
+| 1426 | 61 | Krose Byers |
 | 1427 | 61 | Cee Jones |
 | 1428 | 61 | That1Girl |
 | 1429 | 61 | Nissa |
 | 1430 | 61 | Swanky Riserfit |
 | 1431 | 60 | Tiffany Thompson |
 | 1432 | 60 | Elisha Latimore |
-| 1433 | 60 | Amy Thomas |
-| 1434 | 60 | Nancy Hartzell |
-| 1435 | 60 | Carl Proby |
-| 1436 | 60 | Brian Marsico |
+| 1433 | 60 | Brian Marsico |
+| 1434 | 60 | Amy Thomas |
+| 1435 | 60 | Nancy Hartzell |
+| 1436 | 60 | Carl Proby |
 | 1437 | 60 | Babette Estep |
 | 1438 | 60 | Jolly Brickline |
 | 1439 | 60 | Snappy Strikerpiece |
