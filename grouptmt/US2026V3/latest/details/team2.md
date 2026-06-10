@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 18:44:44 UTC
+# Standings for team2 as of 2026-06-10 18:45:21 UTC
 
 **Total Participants:** 2795
 
@@ -28,7 +28,7 @@
 | 20 | 8335 | Bea Bee |
 | 21 | 8086 | Tom Badgley |
 | 22 | 8016 | Andre Love |
-| 23 | 7578 | Renee Weedling |
+| 23 | 7581 | Renee Weedling |
 | 24 | 7564 | Dapper Rollout |
 | 25 | 7563 | Maggie McFarland |
 | 26 | 7204 | Rashanna Bockhorn |
@@ -449,19 +449,19 @@
 | 441 | 434 | DayDreamer79 |
 | 442 | 433 | Amanda Ann Brooks |
 | 443 | 432 | Wacky Stack |
-| 444 | 431 | Amber Smith |
-| 445 | 430 | Breezy |
-| 446 | 429 | Lazy Staggerpiece |
-| 447 | 428 | Keri Mears |
-| 448 | 428 | Olivia Jefferson |
-| 449 | 427 | Mama G |
-| 450 | 426 | Branden Frankowski |
-| 451 | 425 | Partin |
-| 452 | 425 | Hypee |
-| 453 | 424 | Heather Denise |
-| 454 | 424 | Jimmy Francis Shasta Bambi |
-| 455 | 424 | Melmel |
-| 456 | 423 | Paula Haskins |
+| 444 | 431 | Paula Haskins |
+| 445 | 431 | Amber Smith |
+| 446 | 430 | Breezy |
+| 447 | 429 | Lazy Staggerpiece |
+| 448 | 428 | Keri Mears |
+| 449 | 428 | Olivia Jefferson |
+| 450 | 427 | Mama G |
+| 451 | 426 | Branden Frankowski |
+| 452 | 425 | Partin |
+| 453 | 425 | Hypee |
+| 454 | 424 | Heather Denise |
+| 455 | 424 | Jimmy Francis Shasta Bambi |
+| 456 | 424 | Melmel |
 | 457 | 423 | Ashley Miller |
 | 458 | 422 | Gwendolyn Boykin Mobbs |
 | 459 | 421 | KazzyKay |
@@ -855,22 +855,22 @@
 | 847 | 239 | Kalli Bonin |
 | 848 | 238 | Amy |
 | 849 | 238 | Sherry Ann |
-| 850 | 238 | Maurii93 |
-| 851 | 237 | Renee Siems |
-| 852 | 237 | Giggy Dropzone |
-| 853 | 237 | Jeremy Daurbigny |
-| 854 | 237 | Anna Benjamin Freeman |
-| 855 | 237 | William Dowd |
-| 856 | 236 | Duck |
-| 857 | 236 | Lush Party |
-| 858 | 236 | Elnaz Mokleh |
-| 859 | 236 | Leigh Wilkerson |
-| 860 | 235 | Heather Billodeau |
-| 861 | 235 | Jami Borges |
-| 862 | 235 | Jazzy Snapfit |
-| 863 | 235 | Goldie |
-| 864 | 234 | Natalie M. Arredondo |
-| 865 | 234 | Mike Mordhorst |
+| 850 | 238 | Mike Mordhorst |
+| 851 | 238 | Maurii93 |
+| 852 | 237 | Renee Siems |
+| 853 | 237 | Giggy Dropzone |
+| 854 | 237 | Jeremy Daurbigny |
+| 855 | 237 | Anna Benjamin Freeman |
+| 856 | 237 | William Dowd |
+| 857 | 236 | Duck |
+| 858 | 236 | Lush Party |
+| 859 | 236 | Elnaz Mokleh |
+| 860 | 236 | Leigh Wilkerson |
+| 861 | 235 | Heather Billodeau |
+| 862 | 235 | Jami Borges |
+| 863 | 235 | Jazzy Snapfit |
+| 864 | 235 | Goldie |
+| 865 | 234 | Natalie M. Arredondo |
 | 866 | 233 | Jolene Hull Hearn |
 | 867 | 233 | Andrea Rawson |
 | 868 | 233 | Silly Chiseler |
