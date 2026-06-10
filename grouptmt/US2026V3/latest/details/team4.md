@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:06:45 UTC
+# Standings for team4 as of 2026-06-10 13:07:23 UTC
 
 **Total Participants:** 2323
 
@@ -53,9 +53,9 @@
 | 45 | 3712 | Watupall13 |
 | 46 | 3600 | Leah Gorsuch |
 | 47 | 3533 | Wendy Zentz |
-| 48 | 3440 | Kathy Brookins |
-| 49 | 3384 | Dennis Montoya |
-| 50 | 3383 | Carly Stempien |
+| 48 | 3443 | Carly Stempien |
+| 49 | 3440 | Kathy Brookins |
+| 50 | 3384 | Dennis Montoya |
 | 51 | 3291 | Dana Abegil Lawas |
 | 52 | 3150 | Destiny Dyer |
 | 53 | 3100 | Posey Smith |
@@ -709,36 +709,36 @@
 | 701 | 223 | Sarah Leake |
 | 702 | 223 | Chass Hudson |
 | 703 | 222 | Maria Munoz |
-| 704 | 221 | Tana-Marie Lynn McCarty-Rolf |
-| 705 | 221 | Lorrie Ann Burchett |
-| 706 | 221 | Butterpat |
-| 707 | 220 | Jay Keating |
-| 708 | 220 | Ada Rodriguez Spradley |
-| 709 | 220 | Marie Adkins |
-| 710 | 220 | Funky Rollzone |
-| 711 | 220 | Zappy Tilemaker |
-| 712 | 219 | Rae Saunders |
-| 713 | 218 | PsyDMom |
-| 714 | 218 | Mint Marquez |
-| 715 | 218 | Breezy Wife |
-| 716 | 218 | Ayobribri |
-| 717 | 217 | Cat |
-| 718 | 217 | Ashlee Lemus |
-| 719 | 216 | Maegon Brazille |
-| 720 | 215 | Swanky Builderline |
-| 721 | 215 | Sfalcon1. |
-| 722 | 215 | Ben Figueroa |
-| 723 | 215 | Janae Harris |
-| 724 | 215 | Helen Bradley |
-| 725 | 215 | Clever Blockbuilder |
-| 726 | 215 | ShaniP |
-| 727 | 214 | Joe Andrews |
-| 728 | 214 | Clever Fallzone |
-| 729 | 214 | Suzi Smas |
-| 730 | 214 | Linda |
-| 731 | 214 | Shia Marie |
-| 732 | 214 | yourmomz |
-| 733 | 214 | Nutty Rollfit |
+| 704 | 222 | Nutty Rollfit |
+| 705 | 221 | Tana-Marie Lynn McCarty-Rolf |
+| 706 | 221 | Lorrie Ann Burchett |
+| 707 | 221 | Butterpat |
+| 708 | 220 | Jay Keating |
+| 709 | 220 | Ada Rodriguez Spradley |
+| 710 | 220 | Marie Adkins |
+| 711 | 220 | Funky Rollzone |
+| 712 | 220 | Zappy Tilemaker |
+| 713 | 219 | Rae Saunders |
+| 714 | 218 | PsyDMom |
+| 715 | 218 | Mint Marquez |
+| 716 | 218 | Breezy Wife |
+| 717 | 218 | Ayobribri |
+| 718 | 217 | Cat |
+| 719 | 217 | Ashlee Lemus |
+| 720 | 216 | Maegon Brazille |
+| 721 | 215 | Swanky Builderline |
+| 722 | 215 | Sfalcon1. |
+| 723 | 215 | Ben Figueroa |
+| 724 | 215 | Janae Harris |
+| 725 | 215 | Helen Bradley |
+| 726 | 215 | Clever Blockbuilder |
+| 727 | 215 | ShaniP |
+| 728 | 214 | Joe Andrews |
+| 729 | 214 | Clever Fallzone |
+| 730 | 214 | Suzi Smas |
+| 731 | 214 | Linda |
+| 732 | 214 | Shia Marie |
+| 733 | 214 | yourmomz |
 | 734 | 213 | Chelsea Costa |
 | 735 | 212 | Lori Lynn |
 | 736 | 212 | Debby Muniz |
