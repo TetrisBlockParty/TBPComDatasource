@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:34:47 UTC
+# Standings for team1 as of 2026-06-10 12:35:24 UTC
 
 **Total Participants:** 2265
 
@@ -1904,77 +1904,77 @@
 | 1896 | 23 | Nicolej |
 | 1897 | 23 | Dani Marie |
 | 1898 | 22 | Zippy Framezone |
-| 1899 | 22 | Chipper Smasher |
-| 1900 | 22 | Vantione Lindsey |
+| 1899 | 22 | Vantione Lindsey |
+| 1900 | 22 | Chipper Smasher |
 | 1901 | 22 | Patioskie |
 | 1902 | 22 | Mary M Craven |
 | 1903 | 22 | Jazzy Drop |
 | 1904 | 22 | ShayePooh |
 | 1905 | 22 | Stylezncutzby Dee |
 | 1906 | 22 | Chantelle Sweet |
-| 1907 | 22 | Shakonya Baynes |
-| 1908 | 22 | Jhinarra Walker |
+| 1907 | 22 | Jhinarra Walker |
+| 1908 | 22 | Shakonya Baynes |
 | 1909 | 22 | Queen Baby 5 |
-| 1910 | 21 | Michelle Villasenor |
-| 1911 | 21 | Michelle Harrison-Woodall |
+| 1910 | 21 | Sanchez Jackson |
+| 1911 | 21 | lp |
 | 1912 | 21 | Cheeky Wipegrid |
 | 1913 | 21 | Sanna Rose |
 | 1914 | 21 | Christy |
-| 1915 | 21 | Sanchez Jackson |
+| 1915 | 21 | Michelle Villasenor |
 | 1916 | 21 | Frisky Linkblock |
 | 1917 | 21 | Zesty Matchzone |
 | 1918 | 21 | Nikki Cornelious Valentine |
 | 1919 | 21 | Truthful |
-| 1920 | 21 | Lisamarie Fabre Cardona |
-| 1921 | 21 | lp |
+| 1920 | 21 | Michelle Harrison-Woodall |
+| 1921 | 21 | Lisamarie Fabre Cardona |
 | 1922 | 20 | Shannon |
-| 1923 | 20 | Justice 4 P |
+| 1923 | 20 | Breezy Pivoty |
 | 1924 | 20 | LongLive Peace |
-| 1925 | 20 | Breezy Pivoty |
-| 1926 | 20 | Happy Towerfall |
+| 1925 | 20 | Happy Towerfall |
+| 1926 | 20 | Justice 4 P |
 | 1927 | 20 | Tiffany Sherman |
 | 1928 | 20 | Tipsy Wobbler |
 | 1929 | 20 | Kenneth Hefney |
-| 1930 | 20 | Nikki Vaughn |
-| 1931 | 20 | Cherise Thomas |
-| 1932 | 20 | Kechie Johnson |
-| 1933 | 20 | Tipsy Builderline |
-| 1934 | 20 | prela |
-| 1935 | 20 | Angie Hall |
-| 1936 | 20 | Cynthia Potter |
-| 1937 | 20 | Luna Lockwood |
-| 1938 | 20 | Laquisha James |
-| 1939 | 20 | Peachy Pusher |
-| 1940 | 20 | Amelia Gibson |
-| 1941 | 20 | Joseph Mclaughlin |
-| 1942 | 20 | Scoots |
-| 1943 | 20 | POOH |
-| 1944 | 20 | Slinky Snaplink |
-| 1945 | 20 | Sonia Savage-Jones |
-| 1946 | 20 | Crafty Shatterfit |
-| 1947 | 20 | Deme |
-| 1948 | 20 | Terry Golatte |
-| 1949 | 20 | Nikki Jay |
-| 1950 | 20 | Cool Rumbler |
+| 1930 | 20 | Ray Day |
+| 1931 | 20 | Nikki Vaughn |
+| 1932 | 20 | Cherise Thomas |
+| 1933 | 20 | Kechie Johnson |
+| 1934 | 20 | Tipsy Builderline |
+| 1935 | 20 | prela |
+| 1936 | 20 | Angie Hall |
+| 1937 | 20 | Cynthia Potter |
+| 1938 | 20 | Luna Lockwood |
+| 1939 | 20 | Laquisha James |
+| 1940 | 20 | Peachy Pusher |
+| 1941 | 20 | Amelia Gibson |
+| 1942 | 20 | Joseph Mclaughlin |
+| 1943 | 20 | Scoots |
+| 1944 | 20 | POOH |
+| 1945 | 20 | Slinky Snaplink |
+| 1946 | 20 | Sonia Savage-Jones |
+| 1947 | 20 | Crafty Shatterfit |
+| 1948 | 20 | Deme |
+| 1949 | 20 | Terry Golatte |
+| 1950 | 20 | Nikki Jay |
 | 1951 | 20 | BigDawg Lessley |
-| 1952 | 20 | Edward Croom |
-| 1953 | 20 | Melody Means |
-| 1954 | 20 | Bryttani GoingPlaces Latimer |
-| 1955 | 20 | taz62 |
-| 1956 | 20 | AllStar Woods |
-| 1957 | 20 | Jimel Fraser |
-| 1958 | 19 | Marcus Roberts |
-| 1959 | 19 | Saucy Basepiece |
-| 1960 | 19 | Toya Draine |
-| 1961 | 19 | Chipper Snapzone |
-| 1962 | 19 | sceloh |
-| 1963 | 19 | Trauma Loc |
-| 1964 | 19 | kate |
-| 1965 | 19 | Joanne Davis Cunningham |
-| 1966 | 19 | Ray Day |
-| 1967 | 19 | Mrs . Candy |
-| 1968 | 18 | Yeshanna Nicholson |
-| 1969 | 18 | Cory Richboy BoutthemRackz |
+| 1952 | 20 | Bryttani GoingPlaces Latimer |
+| 1953 | 20 | Jimel Fraser |
+| 1954 | 20 | taz62 |
+| 1955 | 20 | Melody Means |
+| 1956 | 20 | Edward Croom |
+| 1957 | 20 | Cool Rumbler |
+| 1958 | 20 | AllStar Woods |
+| 1959 | 19 | Joanne Davis Cunningham |
+| 1960 | 19 | kate |
+| 1961 | 19 | Trauma Loc |
+| 1962 | 19 | Marcus Roberts |
+| 1963 | 19 | sceloh |
+| 1964 | 19 | Chipper Snapzone |
+| 1965 | 19 | Toya Draine |
+| 1966 | 19 | Mrs . Candy |
+| 1967 | 19 | Saucy Basepiece |
+| 1968 | 18 | Cory Richboy BoutthemRackz |
+| 1969 | 18 | Yeshanna Nicholson |
 | 1970 | 18 | Anissa Williams |
 | 1971 | 18 | Una |
 | 1972 | 18 | MURLWORLD |
