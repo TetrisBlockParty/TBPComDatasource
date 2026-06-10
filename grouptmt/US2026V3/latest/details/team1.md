@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:06:47 UTC
+# Standings for team1 as of 2026-06-10 20:07:22 UTC
 
 **Total Participants:** 2335
 
@@ -112,10 +112,10 @@
 | 104 | 1410 | Sarah Marie |
 | 105 | 1408 | FallDee |
 | 106 | 1394 | Ashley Espeut |
-| 107 | 1392 | She Higgy |
-| 108 | 1380 | Jason Mungin |
-| 109 | 1376 | Court Court |
-| 110 | 1372 | Amalie Newvine |
+| 107 | 1392 | Amalie Newvine |
+| 108 | 1392 | She Higgy |
+| 109 | 1380 | Jason Mungin |
+| 110 | 1376 | Court Court |
 | 111 | 1355 | Whitney Butler |
 | 112 | 1350 | Peppy Piececlear |
 | 113 | 1327 | Nutty Spinblock |
@@ -591,18 +591,18 @@
 | 583 | 287 | Kelvin Cook |
 | 584 | 287 | CauliMac |
 | 585 | 287 | Mary Phillippi Blanton |
-| 586 | 286 | Soubletzy |
-| 587 | 286 | Zappy Clearfit |
-| 588 | 286 | meatballs |
+| 586 | 286 | meatballs |
+| 587 | 286 | Soubletzy |
+| 588 | 286 | Zappy Clearfit |
 | 589 | 286 | Boldy Matchbuilder |
 | 590 | 284 | Brittany Sara Heldwein |
 | 591 | 283 | Kristie |
 | 592 | 283 | LaShawyn Wood |
-| 593 | 282 | Tanisha Taylor |
-| 594 | 282 | Jovy |
-| 595 | 282 | Perky Pusher |
-| 596 | 282 | Dreamzzz |
-| 597 | 282 | Dede Tate |
+| 593 | 282 | Jovy |
+| 594 | 282 | Perky Pusher |
+| 595 | 282 | Dreamzzz |
+| 596 | 282 | Dede Tate |
+| 597 | 282 | Tanisha Taylor |
 | 598 | 281 | Koreen Johnson-Woolford |
 | 599 | 281 | Terri Smart |
 | 600 | 281 | ChunLi |
@@ -610,60 +610,60 @@
 | 602 | 280 | Meshia |
 | 603 | 279 | Loopy Tiler |
 | 604 | 278 | Kàrma Lee |
-| 605 | 278 | AnnaM |
-| 606 | 278 | Silly Edgepiece |
+| 605 | 278 | Silly Edgepiece |
+| 606 | 278 | AnnaM |
 | 607 | 276 | Chris Watson Draper |
 | 608 | 276 | Peppy Glider |
 | 609 | 276 | Antoinette Jones |
 | 610 | 275 | MzJuice Box |
-| 611 | 275 | Chris Sladoje |
-| 612 | 275 | Michelle Peters |
-| 613 | 274 | Zany Breaker |
-| 614 | 274 | Cheryl Miller |
-| 615 | 273 | Ta'Kaiyah M. Spann |
-| 616 | 273 | Kamilya Rembert |
-| 617 | 272 | Felicia Dungey |
-| 618 | 272 | wmedina67 |
-| 619 | 270 | Jen Hallin |
-| 620 | 269 | PSD |
-| 621 | 269 | RylonJones |
-| 622 | 269 | Tara Clarke |
-| 623 | 269 | Stephanie L Jeffries Moultrie |
-| 624 | 268 | Monica Tovar |
-| 625 | 267 | Dana Hawes |
+| 611 | 275 | Michelle Peters |
+| 612 | 275 | Chris Sladoje |
+| 613 | 274 | Chirpy Buildgrid |
+| 614 | 274 | Zany Breaker |
+| 615 | 274 | Cheryl Miller |
+| 616 | 273 | Ta'Kaiyah M. Spann |
+| 617 | 273 | Kamilya Rembert |
+| 618 | 272 | Felicia Dungey |
+| 619 | 272 | wmedina67 |
+| 620 | 270 | Jen Hallin |
+| 621 | 269 | Tara Clarke |
+| 622 | 269 | Stephanie L Jeffries Moultrie |
+| 623 | 269 | PSD |
+| 624 | 269 | RylonJones |
+| 625 | 268 | Monica Tovar |
 | 626 | 267 | Adrian Harris |
-| 627 | 266 | BB |
+| 627 | 267 | Dana Hawes |
 | 628 | 266 | Chris Holland |
-| 629 | 266 | Stephanie Ellis |
-| 630 | 265 | Katrina Ramey |
-| 631 | 265 | Kortney Adams |
+| 629 | 266 | BB |
+| 630 | 266 | Stephanie Ellis |
+| 631 | 265 | Katrina Ramey |
 | 632 | 265 | SceneGreenz Wali |
-| 633 | 264 | Juan Santiago |
-| 634 | 264 | Donna Payne |
-| 635 | 263 | Kim Holzmiller |
-| 636 | 263 | Twisty Pivot |
-| 637 | 262 | Clipzby |
-| 638 | 262 | Chirpy Buildgrid |
-| 639 | 262 | Sherry D Singleton |
-| 640 | 262 | Melanin Monroe-Dandridge |
+| 633 | 265 | Kortney Adams |
+| 634 | 264 | Juan Santiago |
+| 635 | 264 | Donna Payne |
+| 636 | 263 | Kim Holzmiller |
+| 637 | 263 | Twisty Pivot |
+| 638 | 262 | Clipzby |
+| 639 | 262 | Melanin Monroe-Dandridge |
+| 640 | 262 | Sherry D Singleton |
 | 641 | 261 | Shannon Carriger |
 | 642 | 260 | Nisha Sunshine Jenkins |
-| 643 | 260 | Spotlight |
-| 644 | 260 | Ashley Danielle |
-| 645 | 260 | Lester Malone |
-| 646 | 260 | Carolyn Smith |
-| 647 | 259 | Adrian Wilson |
-| 648 | 259 | Blocksy |
-| 649 | 258 | Jose Rodriguez |
-| 650 | 258 | Kala Miller |
-| 651 | 258 | Stronger Wiser Better |
-| 652 | 257 | Darrel Pemberton |
-| 653 | 257 | Seddrick |
-| 654 | 257 | Mommy Frank |
-| 655 | 256 | Douglas Price |
-| 656 | 256 | Monica Fields |
-| 657 | 256 | Anastasia |
-| 658 | 256 | Dannie |
+| 643 | 260 | Carolyn Smith |
+| 644 | 260 | Lester Malone |
+| 645 | 260 | Ashley Danielle |
+| 646 | 260 | Spotlight |
+| 647 | 259 | Blocksy |
+| 648 | 259 | Adrian Wilson |
+| 649 | 258 | Stronger Wiser Better |
+| 650 | 258 | Jose Rodriguez |
+| 651 | 258 | Kala Miller |
+| 652 | 257 | Seddrick |
+| 653 | 257 | Mommy Frank |
+| 654 | 257 | Darrel Pemberton |
+| 655 | 256 | Dannie |
+| 656 | 256 | Anastasia |
+| 657 | 256 | Monica Fields |
+| 658 | 256 | Douglas Price |
 | 659 | 255 | Mathew Trudell |
 | 660 | 254 | Polite Granny |
 | 661 | 254 | Dorian Griffin |

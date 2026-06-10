@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 20:06:47 UTC
+# Standings for team4 as of 2026-06-10 20:07:22 UTC
 
 **Total Participants:** 2372
 
@@ -580,57 +580,57 @@
 | 572 | 286 | Bonique Bier |
 | 573 | 286 | Tiffany Smith |
 | 574 | 286 | DizzB400 |
-| 575 | 285 | Christina Barry |
+| 575 | 285 | Lovetetris |
 | 576 | 285 | Joshua Garner |
-| 577 | 285 | Joab Gonzalez |
-| 578 | 285 | Lovetetris |
+| 577 | 285 | Christina Barry |
+| 578 | 285 | Joab Gonzalez |
 | 579 | 285 | Karen Denise Ann Veitch |
 | 580 | 284 | Nicole Colby McCloskey |
 | 581 | 284 | Brandi Sauer |
-| 582 | 283 | Danny Frausto |
-| 583 | 283 | Chris McBlockster |
+| 582 | 283 | Chris McBlockster |
+| 583 | 283 | Danny Frausto |
 | 584 | 283 | Rita Ann |
-| 585 | 282 | sierrabeth |
-| 586 | 282 | Corie A. Brinson |
+| 585 | 282 | Corie A. Brinson |
+| 586 | 282 | sierrabeth |
 | 587 | 281 | Margie Thomas |
 | 588 | 281 | Anthony Edwards |
 | 589 | 280 | Giddy Basepiece |
-| 590 | 280 | Jimmy Clark |
-| 591 | 280 | Alice Eisnor-Martens |
+| 590 | 280 | Alice Eisnor-Martens |
+| 591 | 280 | Jimmy Clark |
 | 592 | 279 | LandO |
-| 593 | 279 | Heidi Anne Scheiderer |
-| 594 | 279 | Kandylands |
-| 595 | 279 | Will E Ayala |
-| 596 | 278 | Stef |
-| 597 | 277 | Deborah Silberg |
-| 598 | 277 | MattJennifer Marie Ericson |
-| 599 | 277 | Jeremy Barry |
-| 600 | 276 | Lisa Pie |
-| 601 | 276 | Susan Stofberg Beltran |
-| 602 | 276 | Allysha McFarland |
+| 593 | 279 | Kandylands |
+| 594 | 279 | Will E Ayala |
+| 595 | 279 | Lisa Pie |
+| 596 | 279 | Heidi Anne Scheiderer |
+| 597 | 278 | Stef |
+| 598 | 277 | Jeremy Barry |
+| 599 | 277 | Deborah Silberg |
+| 600 | 277 | MattJennifer Marie Ericson |
+| 601 | 276 | Allysha McFarland |
+| 602 | 276 | Susan Stofberg Beltran |
 | 603 | 276 | Jennifer Evans Elliott |
 | 604 | 274 | Sarah Montagne Forsberg |
 | 605 | 273 | Kierra Evans |
-| 606 | 272 | Snippy Racker |
-| 607 | 272 | Sharon Tyler |
-| 608 | 271 | Jerett Coplin |
-| 609 | 271 | EpicWizard |
+| 606 | 272 | Sharon Tyler |
+| 607 | 272 | Snippy Racker |
+| 608 | 271 | EpicWizard |
+| 609 | 271 | Jerett Coplin |
 | 610 | 271 | Leasa Marie |
 | 611 | 270 | Dawn Renee Thomas |
 | 612 | 269 | Jordan Tamayia Williams |
 | 613 | 269 | Montes Ash |
 | 614 | 269 | Dominique Summers Tah-tah |
-| 615 | 269 | Kiki Moore |
-| 616 | 269 | Shia Marie |
+| 615 | 269 | Shia Marie |
+| 616 | 269 | Mmm |
 | 617 | 269 | Nessa Smith |
-| 618 | 269 | Mmm |
+| 618 | 269 | Kiki Moore |
 | 619 | 268 | Kendall Rhodie |
 | 620 | 268 | Chelsea Guajardo |
 | 621 | 268 | Andreas Vs Shinky |
 | 622 | 267 | Budda Huitt |
 | 623 | 267 | Taisha Beasley |
-| 624 | 267 | Swanky Snapgrid |
-| 625 | 267 | Blessedmom865 |
+| 624 | 267 | Blessedmom865 |
+| 625 | 267 | Swanky Snapgrid |
 | 626 | 266 | Stacy G |
 | 627 | 266 | Andrea Dre Lomeli |
 | 628 | 265 | Lolita Nettles |
@@ -1165,22 +1165,22 @@
 | 1157 | 125 | DNA |
 | 1158 | 124 | Shelly Jackson |
 | 1159 | 124 | taya |
-| 1160 | 124 | Loony Dashgrid |
-| 1161 | 124 | MzCeleste Brooks |
-| 1162 | 124 | Emjae Tupaz-Rivera |
-| 1163 | 124 | CRsLady |
-| 1164 | 123 | Stacy Brown |
-| 1165 | 123 | Wayne Hendricks |
-| 1166 | 123 | Hhs Ffchh |
-| 1167 | 123 | Esmond Johnson IV |
-| 1168 | 123 | T-Dogger |
-| 1169 | 123 | Angela Ward |
-| 1170 | 122 | Scott If |
-| 1171 | 122 | Fkvj |
-| 1172 | 122 | Tati |
+| 1160 | 124 | Darren Miguel |
+| 1161 | 124 | Loony Dashgrid |
+| 1162 | 124 | MzCeleste Brooks |
+| 1163 | 124 | Emjae Tupaz-Rivera |
+| 1164 | 124 | CRsLady |
+| 1165 | 123 | Stacy Brown |
+| 1166 | 123 | Wayne Hendricks |
+| 1167 | 123 | Hhs Ffchh |
+| 1168 | 123 | Esmond Johnson IV |
+| 1169 | 123 | T-Dogger |
+| 1170 | 123 | Angela Ward |
+| 1171 | 122 | Scott If |
+| 1172 | 122 | Fkvj |
 | 1173 | 122 | Misti Rich |
-| 1174 | 122 | 94Blockhead |
-| 1175 | 121 | Darren Miguel |
+| 1174 | 122 | Tati |
+| 1175 | 122 | 94Blockhead |
 | 1176 | 121 | Quiles Yaitza |
 | 1177 | 121 | Maicy Darrah |
 | 1178 | 121 | Mystica |
