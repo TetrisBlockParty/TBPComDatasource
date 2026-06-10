@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 05:16:43 UTC
+# Standings for team4 as of 2026-06-10 05:17:22 UTC
 
 **Total Participants:** 2270
 
@@ -379,8 +379,8 @@
 | 371 | 378 | No Time |
 | 372 | 378 | Hwanger Land |
 | 373 | 378 | Tipsy Builderline |
-| 374 | 376 | Kea Sushi |
-| 375 | 375 | Neeta Kapadia |
+| 374 | 377 | Neeta Kapadia |
+| 375 | 376 | Kea Sushi |
 | 376 | 374 | Dominique Melendez |
 | 377 | 373 | Groovy Towerbuilder |
 | 378 | 371 | TJ |
@@ -1017,40 +1017,40 @@
 | 1009 | 137 | Susan Mary Kelley |
 | 1010 | 137 | Amowe |
 | 1011 | 136 | Dannie Ems |
-| 1012 | 135 | Jennifer Terrill |
-| 1013 | 135 | Cozy Builderfit |
+| 1012 | 135 | Cozy Builderfit |
+| 1013 | 135 | Jennifer Terrill |
 | 1014 | 135 | SuperJen |
 | 1015 | 135 | Frisky Pusher |
-| 1016 | 134 | Samantha Brandt |
-| 1017 | 134 | Rocky |
-| 1018 | 134 | Kena T. Tanner |
-| 1019 | 134 | Alex Dawn |
-| 1020 | 134 | Jeni |
-| 1021 | 133 | Gwendolyn Langwinski |
-| 1022 | 133 | Hasty Snapmatch |
+| 1016 | 134 | Nachos |
+| 1017 | 134 | Jeni |
+| 1018 | 134 | Alex Dawn |
+| 1019 | 134 | Kena T. Tanner |
+| 1020 | 134 | Rocky |
+| 1021 | 134 | Samantha Brandt |
+| 1022 | 133 | Renzo Tonini |
 | 1023 | 133 | Scalpel Causes Shambles |
-| 1024 | 133 | Renzo Tonini |
+| 1024 | 133 | Michelle Wiles |
 | 1025 | 133 | Hayze |
-| 1026 | 133 | Michelle Wiles |
-| 1027 | 133 | Masiso |
-| 1028 | 133 | Sonia Cordero-Martinez |
+| 1026 | 133 | Masiso |
+| 1027 | 133 | Sonia Cordero-Martinez |
+| 1028 | 133 | Hasty Snapmatch |
 | 1029 | 133 | Lizxxx |
-| 1030 | 132 | William Brooks |
-| 1031 | 132 | PDubz |
-| 1032 | 132 | Jarad Glover |
-| 1033 | 132 | Giggly Gridzone |
-| 1034 | 131 | Lush Balanceblock |
-| 1035 | 131 | Tika Boo |
-| 1036 | 131 | Certified Da Don |
-| 1037 | 130 | Perky Balanceblock |
-| 1038 | 130 | Snippy Fitblock |
+| 1030 | 133 | Gwendolyn Langwinski |
+| 1031 | 132 | William Brooks |
+| 1032 | 132 | PDubz |
+| 1033 | 132 | Jarad Glover |
+| 1034 | 132 | Giggly Gridzone |
+| 1035 | 131 | Lush Balanceblock |
+| 1036 | 131 | Tika Boo |
+| 1037 | 131 | Certified Da Don |
+| 1038 | 130 | Perky Balanceblock |
 | 1039 | 130 | Elise Ann |
-| 1040 | 130 | Lizard |
-| 1041 | 130 | CorieBe |
-| 1042 | 130 | Alicia Horsea Rojas |
+| 1040 | 130 | Snippy Fitblock |
+| 1041 | 130 | Lizard |
+| 1042 | 130 | CorieBe |
 | 1043 | 130 | Tammy Wells |
-| 1044 | 130 | Krazylegzzzz |
-| 1045 | 130 | Nachos |
+| 1044 | 130 | Alicia Horsea Rojas |
+| 1045 | 130 | Krazylegzzzz |
 | 1046 | 129 | Andretta Sellers Robinson |
 | 1047 | 129 | Vlad Rudman |
 | 1048 | 129 | Snappy Slice |
