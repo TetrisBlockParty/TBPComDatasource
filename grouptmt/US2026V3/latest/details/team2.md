@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 19:28:43 UTC
+# Standings for team2 as of 2026-06-10 19:29:24 UTC
 
 **Total Participants:** 2801
 
@@ -54,9 +54,9 @@
 | 46 | 5036 | DarkHorse |
 | 47 | 4790 | Smashanator |
 | 48 | 4402 | Charley Bedford |
-| 49 | 4310 | Julie Renee Bertram |
-| 50 | 4268 | Erica Dees Parks |
-| 51 | 4252 | Charles Varca |
+| 49 | 4332 | Charles Varca |
+| 50 | 4310 | Julie Renee Bertram |
+| 51 | 4268 | Erica Dees Parks |
 | 52 | 4022 | Chipper Patternblock |
 | 53 | 3984 | Amber |
 | 54 | 3914 | Betty Barrett |
@@ -168,10 +168,10 @@
 | 160 | 1135 | Cristi Doris |
 | 161 | 1132 | Wmk Rathbun |
 | 162 | 1130 | Allison Jarman |
-| 163 | 1125 | Leigh Ann |
-| 164 | 1115 | Spicy Risegrid |
-| 165 | 1112 | MegaPooh |
-| 166 | 1109 | Shea |
+| 163 | 1129 | Shea |
+| 164 | 1125 | Leigh Ann |
+| 165 | 1115 | Spicy Risegrid |
+| 166 | 1112 | MegaPooh |
 | 167 | 1067 | Groovy Snapper |
 | 168 | 1064 | Jamie Fenyus |
 | 169 | 1056 | Le Sandy |
