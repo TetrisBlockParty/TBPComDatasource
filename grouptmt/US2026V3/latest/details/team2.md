@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 20:46:45 UTC
+# Standings for team2 as of 2026-06-10 20:47:23 UTC
 
 **Total Participants:** 2813
 
@@ -66,7 +66,7 @@
 | 58 | 3514 | Traci Elizabeth |
 | 59 | 3461 | Sean Rippa |
 | 60 | 3384 | Kimberly Benson |
-| 61 | 3336 | Helen Thomas |
+| 61 | 3359 | Helen Thomas |
 | 62 | 3189 | LaWanda Powell |
 | 63 | 3182 | Elizabeth Sallas |
 | 64 | 3075 | Suki Kaur |
@@ -172,7 +172,7 @@
 | 164 | 1125 | Leigh Ann |
 | 165 | 1115 | Spicy Risegrid |
 | 166 | 1112 | MegaPooh |
-| 167 | 1075 | Jamie Fenyus |
+| 167 | 1083 | Jamie Fenyus |
 | 168 | 1067 | Groovy Snapper |
 | 169 | 1056 | Le Sandy |
 | 170 | 1052 | Sarah Mccolgan |
@@ -267,7 +267,7 @@
 | 259 | 734 | Chris Cooper |
 | 260 | 734 | Kellie Sharp Godfrey |
 | 261 | 728 | Chipper Stackbuilder |
-| 262 | 726 | Laverne Ellis Blair |
+| 262 | 728 | Laverne Ellis Blair |
 | 263 | 725 | Bubbly Strikerpiece |
 | 264 | 724 | Sully |
 | 265 | 724 | Kaylene Rigas |
@@ -641,34 +641,34 @@
 | 633 | 322 | Laurie |
 | 634 | 321 | Spencer Ryder |
 | 635 | 321 | Heather Schardan |
-| 636 | 320 | Sunny Tiltbuilder |
-| 637 | 320 | Rydin Dirt |
-| 638 | 319 | Goldie |
-| 639 | 318 | Reni Seven |
-| 640 | 316 | Joannah Capilitan |
-| 641 | 315 | Que Henderson |
-| 642 | 315 | Goofy Shatterbuilder |
-| 643 | 315 | Busted9mm |
-| 644 | 315 | Wood |
-| 645 | 314 | Mary Whitaker |
-| 646 | 314 | Perky Rollfit |
-| 647 | 314 | Hyper Striker |
-| 648 | 314 | Peter Fogg |
-| 649 | 312 | ZBee |
-| 650 | 312 | Riggins Terry |
-| 651 | 312 | whocares |
-| 652 | 311 | Camilo Moreno |
+| 636 | 321 | Camilo Moreno |
+| 637 | 320 | Sunny Tiltbuilder |
+| 638 | 320 | Rydin Dirt |
+| 639 | 319 | Goldie |
+| 640 | 318 | Reni Seven |
+| 641 | 316 | Joannah Capilitan |
+| 642 | 315 | Que Henderson |
+| 643 | 315 | Goofy Shatterbuilder |
+| 644 | 315 | Busted9mm |
+| 645 | 315 | Wood |
+| 646 | 314 | Mary Whitaker |
+| 647 | 314 | Perky Rollfit |
+| 648 | 314 | Hyper Striker |
+| 649 | 314 | Peter Fogg |
+| 650 | 312 | ZBee |
+| 651 | 312 | Riggins Terry |
+| 652 | 312 | whocares |
 | 653 | 311 | Sydney Cheyenne |
 | 654 | 310 | Ashley Diana |
 | 655 | 310 | Kelly Bormann |
 | 656 | 309 | Jasmine Goggans |
 | 657 | 309 | Carol Whited Loza |
-| 658 | 308 | Seana Moran |
-| 659 | 308 | Josh Vietz |
+| 658 | 308 | Josh Vietz |
+| 659 | 308 | Seana Moran |
 | 660 | 308 | Jamie Adams |
 | 661 | 308 | Aneokly |
-| 662 | 307 | Tracy Lee |
-| 663 | 307 | Carl Mccoy |
+| 662 | 307 | Carl Mccoy |
+| 663 | 307 | Tracy Lee |
 | 664 | 307 | Fallon Moss |
 | 665 | 307 | Donutz |
 | 666 | 307 | Bonita Alexander |
@@ -682,8 +682,8 @@
 | 674 | 303 | Julie Brown |
 | 675 | 302 | Dana Vaiden Rivers |
 | 676 | 302 | Nikki Hatch |
-| 677 | 302 | Cindy Scott |
-| 678 | 302 | Smiley Cornerfall |
+| 677 | 302 | Smiley Cornerfall |
+| 678 | 302 | Cindy Scott |
 | 679 | 302 | Sandra Belk |
 | 680 | 300 | phamous1 |
 | 681 | 300 | Rachel |
