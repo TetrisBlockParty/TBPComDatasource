@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 13:46:45 UTC
+# Standings for team2 as of 2026-06-10 13:47:23 UTC
 
 **Total Participants:** 2752
 
@@ -2207,75 +2207,75 @@
 | 2199 | 34 | Celeste Duet |
 | 2200 | 34 | bob |
 | 2201 | 34 | Jennifer Roper Stanley |
-| 2202 | 33 | Sandra Mathes Reece |
+| 2202 | 33 | ZackoryandJaclin Marlar Brown |
 | 2203 | 33 | Maja Hauff |
 | 2204 | 33 | Zappy Snapper |
 | 2205 | 33 | Samantha Robinet |
 | 2206 | 33 | Shawn Bossuot |
 | 2207 | 33 | juhde |
-| 2208 | 33 | ZackoryandJaclin Marlar Brown |
-| 2209 | 33 | Stephanie Stegman |
+| 2208 | 33 | Stephanie Stegman |
+| 2209 | 33 | Rachel Austin |
 | 2210 | 33 | Speedy Crasher |
 | 2211 | 33 | Mandy Ann Riley |
-| 2212 | 33 | Nicki McGill |
-| 2213 | 32 | Zany Dasher |
-| 2214 | 32 | Adrian Alvarez |
-| 2215 | 32 | Boya Ray Johnson |
-| 2216 | 32 | big ray |
-| 2217 | 32 | Pam Martin |
-| 2218 | 32 | Monique Williams |
-| 2219 | 32 | Swanky Fallmatch |
-| 2220 | 32 | April Saeger |
-| 2221 | 32 | Dizzy Rotator |
-| 2222 | 32 | Jenea Colvin |
-| 2223 | 32 | Chelsea Harriss |
-| 2224 | 32 | Foc |
-| 2225 | 31 | Jazzy Gridclear |
-| 2226 | 31 | Jenn |
-| 2227 | 31 | Remyro |
-| 2228 | 31 | Sam Valentino |
-| 2229 | 31 | Rainbolt |
-| 2230 | 31 | Jose Vasquez |
-| 2231 | 31 | Geneva |
-| 2232 | 31 | Maria Urrea-Bacame |
-| 2233 | 31 | Daimien Jarem |
-| 2234 | 31 | Ashley Corbett |
-| 2235 | 31 | Ronald Granger |
-| 2236 | 31 | Rugrat Angi Bechstein |
-| 2237 | 31 | Trinni Hansen |
-| 2238 | 31 | TyShantelle |
-| 2239 | 30 | Snappy Fitblock |
-| 2240 | 30 | Snippy Brickzone |
-| 2241 | 30 | Bad Juju |
-| 2242 | 30 | MoonLilly |
-| 2243 | 30 | crysamoctama57 |
-| 2244 | 30 | Patty Brown |
+| 2212 | 33 | Sandra Mathes Reece |
+| 2213 | 33 | Nicki McGill |
+| 2214 | 32 | Zany Dasher |
+| 2215 | 32 | Adrian Alvarez |
+| 2216 | 32 | Pam Martin |
+| 2217 | 32 | Jenea Colvin |
+| 2218 | 32 | Boya Ray Johnson |
+| 2219 | 32 | big ray |
+| 2220 | 32 | Dizzy Rotator |
+| 2221 | 32 | Swanky Fallmatch |
+| 2222 | 32 | April Saeger |
+| 2223 | 32 | Monique Williams |
+| 2224 | 32 | Chelsea Harriss |
+| 2225 | 32 | Foc |
+| 2226 | 31 | Daimien Jarem |
+| 2227 | 31 | Jenn |
+| 2228 | 31 | Remyro |
+| 2229 | 31 | Jazzy Gridclear |
+| 2230 | 31 | Rainbolt |
+| 2231 | 31 | Jose Vasquez |
+| 2232 | 31 | Geneva |
+| 2233 | 31 | Maria Urrea-Bacame |
+| 2234 | 31 | Sam Valentino |
+| 2235 | 31 | Ashley Corbett |
+| 2236 | 31 | Ronald Granger |
+| 2237 | 31 | Rugrat Angi Bechstein |
+| 2238 | 31 | Trinni Hansen |
+| 2239 | 31 | TyShantelle |
+| 2240 | 30 | Snappy Fitblock |
+| 2241 | 30 | Snippy Brickzone |
+| 2242 | 30 | Bad Juju |
+| 2243 | 30 | MoonLilly |
+| 2244 | 30 | crysamoctama57 |
 | 2245 | 30 | tdb |
-| 2246 | 30 | Peppy Stack |
-| 2247 | 30 | Poppy Shuffler |
-| 2248 | 30 | Beaglemom |
-| 2249 | 30 | Milissa Weihbrecht |
-| 2250 | 30 | Mighty Linkroll |
-| 2251 | 30 | Jennifer Gould |
-| 2252 | 30 | Holly Hannahs |
-| 2253 | 30 | Brave Blockmatch |
-| 2254 | 30 | Regina Lamb |
-| 2255 | 30 | Michele Miessner |
-| 2256 | 30 | Jumpy Tetriblast |
-| 2257 | 30 | Katrina Wheeler |
-| 2258 | 30 | Baldwin Josh |
-| 2259 | 29 | Trinko |
-| 2260 | 29 | Christina Jean Baskin |
-| 2261 | 29 | Flashy Balanceblock |
-| 2262 | 29 | Swanky Blockclear |
-| 2263 | 29 | Dandy Tiltpiece |
-| 2264 | 29 | Thump |
-| 2265 | 29 | Zappy Shatterblock |
-| 2266 | 29 | Aud |
-| 2267 | 29 | Makayla Grubbs |
-| 2268 | 29 | 8it3m3 |
-| 2269 | 29 | Michii |
-| 2270 | 29 | Rachel Austin |
+| 2246 | 30 | Poppy Shuffler |
+| 2247 | 30 | Peppy Stack |
+| 2248 | 30 | Patty Brown |
+| 2249 | 30 | Jennifer Gould |
+| 2250 | 30 | Beaglemom |
+| 2251 | 30 | Milissa Weihbrecht |
+| 2252 | 30 | Mighty Linkroll |
+| 2253 | 30 | Holly Hannahs |
+| 2254 | 30 | Brave Blockmatch |
+| 2255 | 30 | Regina Lamb |
+| 2256 | 30 | Michele Miessner |
+| 2257 | 30 | Jumpy Tetriblast |
+| 2258 | 30 | Katrina Wheeler |
+| 2259 | 30 | Baldwin Josh |
+| 2260 | 29 | Trinko |
+| 2261 | 29 | Christina Jean Baskin |
+| 2262 | 29 | Flashy Balanceblock |
+| 2263 | 29 | Swanky Blockclear |
+| 2264 | 29 | Dandy Tiltpiece |
+| 2265 | 29 | Thump |
+| 2266 | 29 | Zappy Shatterblock |
+| 2267 | 29 | Aud |
+| 2268 | 29 | Makayla Grubbs |
+| 2269 | 29 | 8it3m3 |
+| 2270 | 29 | Michii |
 | 2271 | 29 | Charles Richardson |
 | 2272 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
 | 2273 | 29 | Crystal Owen Yocolano |
