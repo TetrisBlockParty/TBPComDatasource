@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 17:12:44 UTC
+# Standings for team4 as of 2026-06-10 17:13:22 UTC
 
 **Total Participants:** 2349
 
@@ -202,37 +202,37 @@
 | 194 | 756 | Renee Sapp |
 | 195 | 753 | Anthony Lewis |
 | 196 | 749 | Nikki Fuller Johnson |
-| 197 | 748 | Lisa Garcia |
-| 198 | 748 | Bonnie Powell |
+| 197 | 748 | Bonnie Powell |
+| 198 | 748 | Lisa Garcia |
 | 199 | 745 | Gracie Ornelas |
 | 200 | 736 | Neeta Kapadia |
 | 201 | 735 | iiPurgeV2 |
 | 202 | 735 | Cinta Marie |
 | 203 | 730 | Chuck Burns |
 | 204 | 728 | Roxana Romero |
-| 205 | 723 | zoes |
-| 206 | 721 | Janet Sanfilippo Sullivan |
-| 207 | 716 | Devinlee Brown |
-| 208 | 706 | Samantha Worley |
-| 209 | 705 | Katie Martin |
-| 210 | 701 | Megan Vick |
-| 211 | 700 | Suzanne Carter |
-| 212 | 696 | Spicy Chicken |
-| 213 | 691 | Danielle Mitchell |
-| 214 | 687 | Leslie Ann Carter |
-| 215 | 686 | Jennifer Ellyn Sheets |
-| 216 | 684 | Shannon Rivera |
+| 205 | 726 | Brick House |
+| 206 | 723 | zoes |
+| 207 | 721 | Janet Sanfilippo Sullivan |
+| 208 | 716 | Devinlee Brown |
+| 209 | 706 | Samantha Worley |
+| 210 | 705 | Katie Martin |
+| 211 | 701 | Megan Vick |
+| 212 | 700 | Suzanne Carter |
+| 213 | 696 | Spicy Chicken |
+| 214 | 691 | Danielle Mitchell |
+| 215 | 687 | Leslie Ann Carter |
+| 216 | 686 | Jennifer Ellyn Sheets |
 | 217 | 684 | Jackie Miller |
 | 218 | 684 | Caitlyn Wang |
-| 219 | 683 | Malik Thompson |
-| 220 | 682 | Samara Garcia |
-| 221 | 680 | Saucy Wipepiece |
-| 222 | 678 | Katie Lynn Petit |
-| 223 | 675 | Snippy Splitter |
-| 224 | 671 | Cheery Risegrid |
-| 225 | 670 | Beth Belanger |
-| 226 | 669 | Vanessa Sykes |
-| 227 | 667 | Brick House |
+| 219 | 684 | Shannon Rivera |
+| 220 | 683 | Malik Thompson |
+| 221 | 682 | Samara Garcia |
+| 222 | 680 | Saucy Wipepiece |
+| 223 | 678 | Katie Lynn Petit |
+| 224 | 675 | Snippy Splitter |
+| 225 | 671 | Cheery Risegrid |
+| 226 | 670 | Beth Belanger |
+| 227 | 669 | Vanessa Sykes |
 | 228 | 664 | Celina DiBastiani |
 | 229 | 663 | Kelly Howland |
 | 230 | 659 | Lush Fitblock |
