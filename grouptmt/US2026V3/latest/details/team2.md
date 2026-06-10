@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:56:43 UTC
+# Standings for team2 as of 2026-06-10 08:57:23 UTC
 
 **Total Participants:** 2714
 
@@ -20,7 +20,7 @@
 | 12 | 9622 | Lola C Davis |
 | 13 | 9471 | A.j. Langley |
 | 14 | 9261 | Brandon Brown |
-| 15 | 8823 | Christina Shell |
+| 15 | 8830 | Christina Shell |
 | 16 | 8631 | Bobbi |
 | 17 | 8427 | Elizabeth Mooney |
 | 18 | 8161 | Bea Bee |
@@ -71,9 +71,9 @@
 | 63 | 3007 | Kymberlee Rolinski |
 | 64 | 2979 | Angie BBlock |
 | 65 | 2842 | Beverly Lynn Mills |
-| 66 | 2778 | Rose Schaffner-Kibler |
-| 67 | 2693 | Tonya Taber |
-| 68 | 2689 | LaWanda Powell |
+| 66 | 2789 | LaWanda Powell |
+| 67 | 2778 | Rose Schaffner-Kibler |
+| 68 | 2693 | Tonya Taber |
 | 69 | 2684 | Andrew Weissenborn |
 | 70 | 2639 | Nawang Nawang |
 | 71 | 2600 | LEW |
@@ -979,9 +979,9 @@
 | 971 | 186 | Rhonda Driskill |
 | 972 | 186 | Lindsey Davidson |
 | 973 | 186 | Tamtam |
-| 974 | 186 | Tina Carr |
-| 975 | 186 | Mandy Smart |
-| 976 | 186 | Jessica Veness-Toth |
+| 974 | 186 | Mandy Smart |
+| 975 | 186 | Jessica Veness-Toth |
+| 976 | 186 | Tina Carr |
 | 977 | 185 | Vicki Flippo |
 | 978 | 185 | April Elaine Messenger |
 | 979 | 185 | Squared |
@@ -990,64 +990,64 @@
 | 982 | 184 | YAKO |
 | 983 | 184 | Rubics cube |
 | 984 | 184 | Dandy Brickbuilder |
-| 985 | 184 | Tabitha Ann Bullins-Cobb |
-| 986 | 184 | Jackelyn Ford |
+| 985 | 184 | Jackelyn Ford |
+| 986 | 184 | Tabitha Ann Bullins-Cobb |
 | 987 | 183 | Flashy Wipegrid |
 | 988 | 183 | Reggie Ellerbe |
 | 989 | 183 | Jennifer Augustine |
 | 990 | 183 | Nikki Sadler |
 | 991 | 183 | Joshua Hopkins |
 | 992 | 182 | Damion Morrison |
-| 993 | 182 | Stacy Hoffman |
-| 994 | 182 | Steve Eakins |
+| 993 | 182 | Steve Eakins |
+| 994 | 182 | Stacy Hoffman |
 | 995 | 181 | Brittany Paul |
 | 996 | 181 | Evelyn Confer |
 | 997 | 180 | candi |
-| 998 | 180 | Brandon Ray Holt |
-| 999 | 180 | Katie Thacker |
-| 1000 | 180 | Kylee Pruitt |
-| 1001 | 180 | Dana Wilson |
-| 1002 | 180 | Courtney Madison Hart |
-| 1003 | 180 | Jason P. Schwartz |
-| 1004 | 180 | Dawn Kroptavich |
-| 1005 | 179 | Kris Dusza Dodus |
-| 1006 | 179 | Kelly |
-| 1007 | 179 | Mary Stump |
+| 998 | 180 | Katie Thacker |
+| 999 | 180 | Danid |
+| 1000 | 180 | Brandon Ray Holt |
+| 1001 | 180 | Kylee Pruitt |
+| 1002 | 180 | Dana Wilson |
+| 1003 | 180 | Courtney Madison Hart |
+| 1004 | 180 | Jason P. Schwartz |
+| 1005 | 180 | Dawn Kroptavich |
+| 1006 | 179 | Kris Dusza Dodus |
+| 1007 | 179 | Kelly |
 | 1008 | 179 | Jennifer Vitro |
-| 1009 | 178 | Pat Smits |
-| 1010 | 178 | CowboyChalie |
-| 1011 | 178 | Just Me |
-| 1012 | 177 | Thtbrwnsknflla |
-| 1013 | 177 | Chelsea Frye |
-| 1014 | 177 | Sherry Ann |
-| 1015 | 177 | Teea Makensi Meyer |
-| 1016 | 176 | CK Hancock |
-| 1017 | 176 | Peppy Piececlear |
-| 1018 | 176 | Roger Kirksey |
-| 1019 | 176 | Kimberley Marie |
-| 1020 | 176 | Jessica Gayle Sears |
-| 1021 | 176 | Chad Atchley |
-| 1022 | 176 | Sara Moericke |
+| 1009 | 179 | Mary Stump |
+| 1010 | 178 | Just Me |
+| 1011 | 178 | CowboyChalie |
+| 1012 | 178 | Pat Smits |
+| 1013 | 177 | Thtbrwnsknflla |
+| 1014 | 177 | Chelsea Frye |
+| 1015 | 177 | Sherry Ann |
+| 1016 | 177 | Teea Makensi Meyer |
+| 1017 | 176 | CK Hancock |
+| 1018 | 176 | Peppy Piececlear |
+| 1019 | 176 | Roger Kirksey |
+| 1020 | 176 | Chad Atchley |
+| 1021 | 176 | Kimberley Marie |
+| 1022 | 176 | Jessica Gayle Sears |
 | 1023 | 176 | Kennadee Albertson |
-| 1024 | 175 | Frisky Clicker |
-| 1025 | 175 | Sara Karels |
+| 1024 | 176 | Sara Moericke |
+| 1025 | 175 | Frisky Clicker |
 | 1026 | 175 | Samantha Smith |
-| 1027 | 174 | Jenny |
-| 1028 | 174 | Hoppy Linkblock |
-| 1029 | 174 | Amanda |
-| 1030 | 174 | Hansent3 |
-| 1031 | 174 | Seamus |
-| 1032 | 174 | Giggly Spinblock |
-| 1033 | 173 | Chirpy Combofall |
-| 1034 | 173 | Tami Weiss |
-| 1035 | 173 | Ava Dorsch |
-| 1036 | 172 | Shannon Vanlester |
+| 1027 | 175 | Sara Karels |
+| 1028 | 174 | Jenny |
+| 1029 | 174 | Hoppy Linkblock |
+| 1030 | 174 | Amanda |
+| 1031 | 174 | Hansent3 |
+| 1032 | 174 | Seamus |
+| 1033 | 174 | Giggly Spinblock |
+| 1034 | 173 | Chirpy Combofall |
+| 1035 | 173 | Tami Weiss |
+| 1036 | 173 | Ava Dorsch |
 | 1037 | 172 | Jennifer Siggelko |
 | 1038 | 172 | Nicole Treadway |
 | 1039 | 172 | Sarai Coronado |
-| 1040 | 172 | Princess Cucumber |
-| 1041 | 172 | Erin Moore Galloway |
-| 1042 | 171 | Danid |
+| 1040 | 172 | Shannon Vanlester |
+| 1041 | 172 | Princess Cucumber |
+| 1042 | 172 | Erin Moore Galloway |
 | 1043 | 171 | Paige Lynette Sohl |
 | 1044 | 171 | Morgan Olson Pingree |
 | 1045 | 170 | Amanda Kennedy |
