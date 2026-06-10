@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:55:22 UTC
+# Standings for team2 as of 2026-06-10 08:56:43 UTC
 
 **Total Participants:** 2714
 
@@ -159,10 +159,10 @@
 | 151 | 1126 | Jeska Gaines |
 | 152 | 1115 | Spicy Risegrid |
 | 153 | 1108 | Tina Marie |
-| 154 | 1081 | Jackie Tupper |
-| 155 | 1054 | Cristi Doris |
-| 156 | 1049 | Sedy |
-| 157 | 1043 | Kellie Montgomery |
+| 154 | 1100 | Kellie Montgomery |
+| 155 | 1081 | Jackie Tupper |
+| 156 | 1054 | Cristi Doris |
+| 157 | 1049 | Sedy |
 | 158 | 1035 | Sarah Mccolgan |
 | 159 | 1032 | Groovy Snapper |
 | 160 | 1021 | Erin Thomas |
@@ -2345,22 +2345,22 @@
 | 2337 | 22 | Brandi Phifer |
 | 2338 | 22 | Mechelle Muzic |
 | 2339 | 22 | Amy DeSoto |
-| 2340 | 22 | Kim Gentry |
-| 2341 | 22 | Lissa |
-| 2342 | 22 | Hasty Linker |
-| 2343 | 22 | Betu2clos |
+| 2340 | 22 | Charles Richardson |
+| 2341 | 22 | Kim Gentry |
+| 2342 | 22 | Lissa |
+| 2343 | 22 | Hasty Linker |
 | 2344 | 22 | cole |
-| 2345 | 21 | Sophia Macabare |
-| 2346 | 21 | Mark Frazier |
-| 2347 | 21 | Kasey Marie |
-| 2348 | 21 | Chill Shatterclear |
-| 2349 | 21 | Reddbish Sutphen |
-| 2350 | 21 | Jessm8390 |
-| 2351 | 21 | Tina Thomason |
-| 2352 | 21 | Loony Snapclear |
-| 2353 | 21 | Samantha Sipe |
-| 2354 | 21 | Goofy Puzzler |
-| 2355 | 21 | Charles Richardson |
+| 2345 | 22 | Betu2clos |
+| 2346 | 21 | Sophia Macabare |
+| 2347 | 21 | Mark Frazier |
+| 2348 | 21 | Kasey Marie |
+| 2349 | 21 | Chill Shatterclear |
+| 2350 | 21 | Reddbish Sutphen |
+| 2351 | 21 | Jessm8390 |
+| 2352 | 21 | Tina Thomason |
+| 2353 | 21 | Loony Snapclear |
+| 2354 | 21 | Samantha Sipe |
+| 2355 | 21 | Goofy Puzzler |
 | 2356 | 21 | sally |
 | 2357 | 21 | Lou Sassole |
 | 2358 | 21 | Randi Moore |
