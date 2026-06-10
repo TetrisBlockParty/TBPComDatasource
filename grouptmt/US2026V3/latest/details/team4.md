@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:28:47 UTC
+# Standings for team4 as of 2026-06-10 08:29:22 UTC
 
 **Total Participants:** 2296
 
@@ -224,8 +224,8 @@
 | 216 | 641 | Waxboss |
 | 217 | 637 | QueenLi86 |
 | 218 | 634 | Tyson Stroppel |
-| 219 | 632 | Baysoph |
-| 220 | 630 | Kelly Howland |
+| 219 | 633 | Kelly Howland |
+| 220 | 632 | Baysoph |
 | 221 | 627 | Erika Seaton |
 | 222 | 626 | Lush Fitblock |
 | 223 | 623 | Leslie Ann Carter |
@@ -405,22 +405,22 @@
 | 397 | 365 | Brittany Lentz |
 | 398 | 365 | Quiomarie Cotto |
 | 399 | 363 | Mark Norton |
-| 400 | 363 | Rhonda Dowling |
-| 401 | 361 | Patrick Alley |
-| 402 | 360 | Mann Manson |
-| 403 | 360 | Funky Riserpiece |
-| 404 | 360 | Kimyatta Cavin |
-| 405 | 360 | Groovy Cluster |
-| 406 | 359 | June Hoffman |
-| 407 | 359 | BCO22 |
-| 408 | 359 | Ashley Robbins |
-| 409 | 358 | Dennis Montoya |
-| 410 | 357 | Kellz M Bee |
-| 411 | 357 | Momma Boss |
-| 412 | 356 | Candiecane324 |
-| 413 | 356 | Clever Brickzone |
-| 414 | 354 | Joe Richard |
-| 415 | 353 | Lanelva Tiredofbs Marshall |
+| 400 | 363 | Lanelva Tiredofbs Marshall |
+| 401 | 363 | Rhonda Dowling |
+| 402 | 361 | Patrick Alley |
+| 403 | 360 | Mann Manson |
+| 404 | 360 | Funky Riserpiece |
+| 405 | 360 | Kimyatta Cavin |
+| 406 | 360 | Groovy Cluster |
+| 407 | 359 | June Hoffman |
+| 408 | 359 | BCO22 |
+| 409 | 359 | Ashley Robbins |
+| 410 | 358 | Dennis Montoya |
+| 411 | 357 | Kellz M Bee |
+| 412 | 357 | Momma Boss |
+| 413 | 356 | Candiecane324 |
+| 414 | 356 | Clever Brickzone |
+| 415 | 354 | Joe Richard |
 | 416 | 353 | Crystal Hammonds |
 | 417 | 353 | Loopy Hitter |
 | 418 | 352 | Richard Bearse |
@@ -443,19 +443,19 @@
 | 435 | 341 | LilyRose |
 | 436 | 340 | jojo |
 | 437 | 339 | Shepreneur Sade |
-| 438 | 337 | Tiggerjake |
-| 439 | 337 | Chilly Pivot |
-| 440 | 335 | Candice Sellers Worley |
-| 441 | 334 | Steven Patshy |
-| 442 | 332 | Heidi Hala |
-| 443 | 331 | Kaps |
-| 444 | 329 | DanceAngel |
-| 445 | 329 | Lani |
-| 446 | 328 | Bre Dee |
-| 447 | 327 | Jen Roe |
-| 448 | 325 | Matthew Wilcox |
-| 449 | 324 | Nikki |
-| 450 | 324 | Jazzy Rollout |
+| 438 | 337 | Jazzy Rollout |
+| 439 | 337 | Tiggerjake |
+| 440 | 337 | Chilly Pivot |
+| 441 | 335 | Candice Sellers Worley |
+| 442 | 334 | Steven Patshy |
+| 443 | 332 | Heidi Hala |
+| 444 | 331 | Kaps |
+| 445 | 329 | DanceAngel |
+| 446 | 329 | Lani |
+| 447 | 328 | Bre Dee |
+| 448 | 327 | Jen Roe |
+| 449 | 325 | Matthew Wilcox |
+| 450 | 324 | Nikki |
 | 451 | 323 | FitMeDiva |
 | 452 | 323 | Laurie Patrick |
 | 453 | 321 | Ashley Eskridge |
@@ -1212,16 +1212,16 @@
 | 1204 | 106 | MamaBear3 |
 | 1205 | 106 | Donna Howard |
 | 1206 | 106 | Bold Clear |
-| 1207 | 105 | ImagineKaijus |
-| 1208 | 105 | Kriss Owens Uptegrove |
-| 1209 | 105 | Jailen Harper |
-| 1210 | 105 | Kelly |
-| 1211 | 104 | Melissa Elizabeth |
-| 1212 | 104 | Ashie |
-| 1213 | 104 | Alicia |
-| 1214 | 104 | Mandy Grant |
-| 1215 | 104 | Michael J A Moore |
-| 1216 | 103 | Fancy Gridroll |
+| 1207 | 106 | Fancy Gridroll |
+| 1208 | 105 | ImagineKaijus |
+| 1209 | 105 | Kriss Owens Uptegrove |
+| 1210 | 105 | Jailen Harper |
+| 1211 | 105 | Kelly |
+| 1212 | 104 | Melissa Elizabeth |
+| 1213 | 104 | Ashie |
+| 1214 | 104 | Alicia |
+| 1215 | 104 | Mandy Grant |
+| 1216 | 104 | Michael J A Moore |
 | 1217 | 103 | Archer Family Mayhem |
 | 1218 | 103 | Lizette Chaires |
 | 1219 | 103 | Mari Isaac |
