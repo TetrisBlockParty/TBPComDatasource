@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 01:16:47 UTC
+# Standings for team2 as of 2026-06-10 01:17:22 UTC
 
 **Total Participants:** 2627
 
@@ -252,8 +252,8 @@
 | 244 | 677 | Cool Balancer |
 | 245 | 674 | Vistabrat |
 | 246 | 671 | Gloria May Shook |
-| 247 | 671 | Breeana Bennett |
-| 248 | 671 | Krystal Hummel |
+| 247 | 671 | Krystal Hummel |
+| 248 | 671 | Breeana Bennett |
 | 249 | 670 | Michelle Powers Chattaway |
 | 250 | 667 | Iesha Cupil |
 | 251 | 665 | Amie Marks |
@@ -325,8 +325,8 @@
 | 317 | 545 | Swanky Fitline |
 | 318 | 544 | Elliott Mikila |
 | 319 | 535 | Amy Gale |
-| 320 | 533 | Samantha Carman |
-| 321 | 528 | Mikia Stokes |
+| 320 | 533 | Mikia Stokes |
+| 321 | 533 | Samantha Carman |
 | 322 | 527 | SilentBuffalo |
 | 323 | 526 | Naomi Walker |
 | 324 | 523 | Marilyn Strickland |
@@ -368,8 +368,8 @@
 | 360 | 462 | Jumpy Matchbuilder |
 | 361 | 461 | Erica South |
 | 362 | 460 | Samantha Bugg Stitcher |
-| 363 | 458 | Kathleen Keogh Van Schoyck |
-| 364 | 458 | Flashy Drop |
+| 363 | 458 | Flashy Drop |
+| 364 | 458 | Kathleen Keogh Van Schoyck |
 | 365 | 455 | Aurora June Brock |
 | 366 | 455 | Janelle Edgecombe |
 | 367 | 453 | Kimberly Cowan |
@@ -1105,22 +1105,22 @@
 | 1097 | 149 | Chirpy Clearpiece |
 | 1098 | 148 | Christina Whitehead |
 | 1099 | 148 | Amanda Jungclaus |
-| 1100 | 147 | Terie Safrit |
-| 1101 | 147 | Robert W Schwartz |
-| 1102 | 146 | Jolly Builderpiece |
-| 1103 | 146 | R.w. Buck |
-| 1104 | 146 | Alimae |
-| 1105 | 146 | Candace Mihm |
-| 1106 | 146 | Stazy Warner |
-| 1107 | 146 | Kendra Sullins |
-| 1108 | 146 | Jessica Veness-Toth |
-| 1109 | 146 | Glitzy Stack |
-| 1110 | 146 | Jacy Pickett |
-| 1111 | 145 | Thtbrwnsknflla |
-| 1112 | 145 | Meagan Thompson |
-| 1113 | 145 | Que Henderson |
-| 1114 | 145 | Pamela Gambrell |
-| 1115 | 144 | Trisha Farley |
+| 1100 | 147 | Trisha Farley |
+| 1101 | 147 | Terie Safrit |
+| 1102 | 147 | Robert W Schwartz |
+| 1103 | 146 | Jolly Builderpiece |
+| 1104 | 146 | R.w. Buck |
+| 1105 | 146 | Alimae |
+| 1106 | 146 | Candace Mihm |
+| 1107 | 146 | Stazy Warner |
+| 1108 | 146 | Kendra Sullins |
+| 1109 | 146 | Jessica Veness-Toth |
+| 1110 | 146 | Glitzy Stack |
+| 1111 | 146 | Jacy Pickett |
+| 1112 | 145 | Thtbrwnsknflla |
+| 1113 | 145 | Meagan Thompson |
+| 1114 | 145 | Que Henderson |
+| 1115 | 145 | Pamela Gambrell |
 | 1116 | 144 | Kelly Christine Trimmer |
 | 1117 | 144 | Alissa Ary |
 | 1118 | 144 | Steven Moore |
@@ -1697,27 +1697,27 @@
 | 1689 | 65 | October Fitch |
 | 1690 | 65 | Amanda White |
 | 1691 | 65 | Maurice Bethel |
-| 1692 | 65 | Wacky Drop |
-| 1693 | 65 | GentleGiant Brackett |
-| 1694 | 65 | Heather Klaus |
+| 1692 | 65 | Heather Klaus |
+| 1693 | 65 | Wacky Drop |
+| 1694 | 65 | GentleGiant Brackett |
 | 1695 | 65 | G Yolany Andramos |
 | 1696 | 64 | Epic Glide |
 | 1697 | 64 | Andrea |
 | 1698 | 64 | Darla |
-| 1699 | 64 | whocares |
-| 1700 | 64 | Jodi Deninno |
+| 1699 | 64 | Amanda Knox |
+| 1700 | 64 | whocares |
 | 1701 | 64 | Michelle Naujalis |
 | 1702 | 64 | Aaron Henry |
-| 1703 | 64 | Pnda |
-| 1704 | 64 | Jessica Jones |
-| 1705 | 64 | Emily |
-| 1706 | 63 | Lindsey Butler |
-| 1707 | 63 | Brooke Burge |
-| 1708 | 63 | Michael Blackmon |
-| 1709 | 63 | Stetson Tetris |
-| 1710 | 63 | Bubbly Tilt |
-| 1711 | 63 | Janice |
-| 1712 | 63 | Amanda Knox |
+| 1703 | 64 | Jodi Deninno |
+| 1704 | 64 | Pnda |
+| 1705 | 64 | Jessica Jones |
+| 1706 | 64 | Emily |
+| 1707 | 63 | Lindsey Butler |
+| 1708 | 63 | Brooke Burge |
+| 1709 | 63 | Michael Blackmon |
+| 1710 | 63 | Stetson Tetris |
+| 1711 | 63 | Bubbly Tilt |
+| 1712 | 63 | Janice |
 | 1713 | 63 | Wayne Mcmillan |
 | 1714 | 63 | AmyShea |
 | 1715 | 63 | Amanda Jimenez |
