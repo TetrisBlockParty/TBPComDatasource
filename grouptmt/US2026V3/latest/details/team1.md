@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:26:44 UTC
+# Standings for team1 as of 2026-06-10 15:27:24 UTC
 
 **Total Participants:** 2288
 
@@ -73,19 +73,19 @@
 | 65 | 2025 | Louis Richard Jr |
 | 66 | 2022 | Helen Smith |
 | 67 | 1962 | Ceilo Marie |
-| 68 | 1945 | Chris Russell |
-| 69 | 1943 | Michael J Gresham |
-| 70 | 1871 | Ryan Meilleur |
-| 71 | 1870 | TAZ-MF-NIZIL |
-| 72 | 1869 | Jolly Dropzone |
-| 73 | 1837 | Daylene Johannes |
-| 74 | 1791 | Frisky Fallmatch |
-| 75 | 1786 | Jacoby E Fleming |
-| 76 | 1780 | Angela R Wilson |
-| 77 | 1776 | Jessica Roberts |
-| 78 | 1751 | Eric Mcgaughy |
-| 79 | 1748 | Bre Maugh |
-| 80 | 1741 | Cee Emm |
+| 68 | 1960 | Cee Emm |
+| 69 | 1945 | Chris Russell |
+| 70 | 1943 | Michael J Gresham |
+| 71 | 1871 | Ryan Meilleur |
+| 72 | 1870 | TAZ-MF-NIZIL |
+| 73 | 1869 | Jolly Dropzone |
+| 74 | 1837 | Daylene Johannes |
+| 75 | 1791 | Frisky Fallmatch |
+| 76 | 1786 | Jacoby E Fleming |
+| 77 | 1780 | Angela R Wilson |
+| 78 | 1776 | Jessica Roberts |
+| 79 | 1751 | Eric Mcgaughy |
+| 80 | 1748 | Bre Maugh |
 | 81 | 1730 | PandaPrincess |
 | 82 | 1654 | Chenell Gillard |
 | 83 | 1642 | Snappy Link |
@@ -815,9 +815,9 @@
 | 807 | 198 | Biggestboss Ransom |
 | 808 | 197 | krd |
 | 809 | 197 | Amanda Woodruff |
-| 810 | 196 | Katness |
-| 811 | 196 | Arlea Mann |
-| 812 | 196 | whatever |
+| 810 | 196 | whatever |
+| 811 | 196 | Katness |
+| 812 | 196 | Arlea Mann |
 | 813 | 195 | Chanel White |
 | 814 | 195 | Elaine Pauley |
 | 815 | 194 | Sunny Clicky |
@@ -825,21 +825,21 @@
 | 817 | 193 | Sherry D Singleton |
 | 818 | 192 | Cameo Tweed |
 | 819 | 192 | Taneka Howell |
-| 820 | 192 | Duncan Timothy |
-| 821 | 192 | QueenzMo |
-| 822 | 190 | Essence Jones |
-| 823 | 190 | Marshall Davis |
-| 824 | 190 | Crtjstr |
+| 820 | 192 | QueenzMo |
+| 821 | 192 | Li-Li Ratliff |
+| 822 | 192 | Duncan Timothy |
+| 823 | 190 | Essence Jones |
+| 824 | 190 | Marshall Davis |
 | 825 | 190 | Chipper Snapper |
-| 826 | 189 | Anntionette Sotire |
-| 827 | 189 | Sunny Tumbler |
-| 828 | 189 | Sean White |
-| 829 | 188 | Mary Goode |
-| 830 | 188 | Latoya Carson |
-| 831 | 187 | Megan Jones |
-| 832 | 187 | Kashh |
-| 833 | 187 | Lively Riserpiece |
-| 834 | 187 | Li-Li Ratliff |
+| 826 | 190 | Crtjstr |
+| 827 | 189 | Anntionette Sotire |
+| 828 | 189 | Sunny Tumbler |
+| 829 | 189 | Sean White |
+| 830 | 188 | Mary Goode |
+| 831 | 188 | Latoya Carson |
+| 832 | 187 | Megan Jones |
+| 833 | 187 | Kashh |
+| 834 | 187 | Lively Riserpiece |
 | 835 | 187 | Vontesha Kidd |
 | 836 | 187 | QueenShay AllGood |
 | 837 | 186 | Tiffany Conley |
@@ -847,8 +847,8 @@
 | 839 | 186 | Cheery Swiper |
 | 840 | 186 | Christy Quick |
 | 841 | 186 | Kat |
-| 842 | 186 | Morenita Rodriguez |
-| 843 | 186 | Vannie G |
+| 842 | 186 | Vannie G |
+| 843 | 186 | Morenita Rodriguez |
 | 844 | 186 | Sara |
 | 845 | 185 | Dapper Matchfit |
 | 846 | 185 | Eric Machuca |

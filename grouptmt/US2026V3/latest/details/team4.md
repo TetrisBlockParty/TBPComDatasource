@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 15:26:44 UTC
+# Standings for team4 as of 2026-06-10 15:27:24 UTC
 
 **Total Participants:** 2336
 
@@ -897,55 +897,55 @@
 | 889 | 174 | Michelle Michelle |
 | 890 | 174 | Christy Petty |
 | 891 | 174 | Giggy Blockpiece |
-| 892 | 173 | Lizard |
-| 893 | 173 | Tarsha Thomas-Martinez |
-| 894 | 173 | Scot Matthew Bergdorf |
+| 892 | 173 | Tony Clark |
+| 893 | 173 | Lizard |
+| 894 | 173 | Tarsha Thomas-Martinez |
 | 895 | 173 | Patsy |
-| 896 | 172 | Renzo Tonini |
-| 897 | 172 | Poptart |
-| 898 | 172 | Kayla Haddenham |
-| 899 | 172 | Erica Hardwick |
-| 900 | 172 | Christina Williams |
-| 901 | 171 | Carlos Amaya |
-| 902 | 171 | Daring Patternblock |
-| 903 | 171 | Witty Fitblock |
-| 904 | 171 | Darryl Shufford |
-| 905 | 171 | Bouncy Clusterline |
-| 906 | 170 | LaRue Tee |
-| 907 | 170 | Christina Hagan |
-| 908 | 169 | Jolly Fitblock |
-| 909 | 169 | BigCup ReeseCup |
-| 910 | 169 | Jt Home |
+| 896 | 173 | Scot Matthew Bergdorf |
+| 897 | 172 | Renzo Tonini |
+| 898 | 172 | Poptart |
+| 899 | 172 | Kayla Haddenham |
+| 900 | 172 | Erica Hardwick |
+| 901 | 172 | Christina Williams |
+| 902 | 171 | Bouncy Clusterline |
+| 903 | 171 | Darryl Shufford |
+| 904 | 171 | Daring Patternblock |
+| 905 | 171 | Carlos Amaya |
+| 906 | 171 | Witty Fitblock |
+| 907 | 170 | LaRue Tee |
+| 908 | 170 | Christina Hagan |
+| 909 | 169 | Jolly Fitblock |
+| 910 | 169 | BigCup ReeseCup |
 | 911 | 169 | Combo Snappy |
-| 912 | 169 | Taisha Beasley |
-| 913 | 169 | Conela Rouse Goldstein |
-| 914 | 168 | Caiti O'Keefe |
-| 915 | 168 | Kristan Hoffman |
-| 916 | 167 | Tony Clark |
-| 917 | 167 | Kuar T Ejen |
-| 918 | 167 | Ana Ruiz |
+| 912 | 169 | Jt Home |
+| 913 | 169 | Taisha Beasley |
+| 914 | 169 | Conela Rouse Goldstein |
+| 915 | 168 | Caiti O'Keefe |
+| 916 | 168 | Kristan Hoffman |
+| 917 | 167 | Ana Ruiz |
+| 918 | 167 | Kuar T Ejen |
 | 919 | 167 | Tray Day |
-| 920 | 166 | Nachos |
+| 920 | 166 | medicjessi |
 | 921 | 166 | Jillian Marie |
-| 922 | 166 | medicjessi |
+| 922 | 166 | Nachos |
 | 923 | 165 | Corey Jackson |
 | 924 | 165 | Vicente Bolaños Jr. |
 | 925 | 164 | Chad Finton |
 | 926 | 164 | LyvWyre |
 | 927 | 163 | Emily Lowe |
-| 928 | 162 | Fancy Riser |
-| 929 | 162 | BethB |
-| 930 | 162 | Lush Twisterfit |
-| 931 | 161 | JustLessie |
-| 932 | 161 | Melissa Schwager |
-| 933 | 161 | Amber Torres |
-| 934 | 161 | Kelli Miller |
+| 928 | 162 | BethB |
+| 929 | 162 | Lush Twisterfit |
+| 930 | 162 | Fancy Riser |
+| 931 | 161 | Amber Torres |
+| 932 | 161 | Kelli Miller |
+| 933 | 161 | Melissa Schwager |
+| 934 | 161 | JustLessie |
 | 935 | 161 | SuperJen |
-| 936 | 160 | Aleta Svitak |
-| 937 | 160 | Sha Ta Nay Mitchell |
-| 938 | 160 | Glamorous Gracey |
-| 939 | 160 | CorieBe |
-| 940 | 160 | Charissa W Walton |
+| 936 | 160 | Sha Ta Nay Mitchell |
+| 937 | 160 | Glamorous Gracey |
+| 938 | 160 | Aleta Svitak |
+| 939 | 160 | Charissa W Walton |
+| 940 | 160 | CorieBe |
 | 941 | 160 | Stephanie Meinhart |
 | 942 | 160 | Cozy Staggerpiece |
 | 943 | 159 | Ali Garcia |
@@ -969,15 +969,15 @@
 | 961 | 156 | Brenda Villa |
 | 962 | 156 | Kenyatta Davis |
 | 963 | 155 | Krystal Simpson |
-| 964 | 155 | Ashley McGeehan |
-| 965 | 155 | Frisky Pusher |
-| 966 | 155 | Marisela Alvarado |
-| 967 | 155 | Shayna Vaigneur-Hall |
-| 968 | 155 | Kristen Lester |
-| 969 | 155 | idk240 |
-| 970 | 154 | Chelsea Pigg |
-| 971 | 154 | Mrs.J2013 |
-| 972 | 154 | Steve Swanson |
+| 964 | 155 | Steve Swanson |
+| 965 | 155 | Ashley McGeehan |
+| 966 | 155 | Frisky Pusher |
+| 967 | 155 | Marisela Alvarado |
+| 968 | 155 | Shayna Vaigneur-Hall |
+| 969 | 155 | Kristen Lester |
+| 970 | 155 | idk240 |
+| 971 | 154 | Chelsea Pigg |
+| 972 | 154 | Mrs.J2013 |
 | 973 | 153 | Melissa Anne |
 | 974 | 153 | JUNE |
 | 975 | 153 | Lilo |
