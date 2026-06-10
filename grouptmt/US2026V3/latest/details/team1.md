@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 17:41:23 UTC
+# Standings for team1 as of 2026-06-10 17:42:44 UTC
 
 **Total Participants:** 2311
 
@@ -61,7 +61,7 @@
 | 53 | 2372 | Chris Caniglia |
 | 54 | 2359 | Corey Cawthon |
 | 55 | 2305 | Markeeta Lipscomb |
-| 56 | 2266 | Blockhead |
+| 56 | 2268 | Blockhead |
 | 57 | 2203 | BlackQueen105 |
 | 58 | 2194 | Robyn Caldwell |
 | 59 | 2151 | Cherry Rose |
@@ -394,9 +394,9 @@
 | 386 | 409 | KeeKee Williams |
 | 387 | 404 | Bold Clusterer |
 | 388 | 401 | Charlene Baltimore |
-| 389 | 401 | Kelli Couture |
-| 390 | 400 | Sara Meri |
-| 391 | 400 | Janice Mowel Curtiss |
+| 389 | 401 | Janice Mowel Curtiss |
+| 390 | 401 | Kelli Couture |
+| 391 | 400 | Sara Meri |
 | 392 | 400 | Denell Sims |
 | 393 | 400 | Jae Thompson-Tyus |
 | 394 | 399 | BabyCakes |
@@ -498,8 +498,8 @@
 | 490 | 331 | Holly Baker |
 | 491 | 330 | Nora Mahmoud |
 | 492 | 330 | Tracey Johnson |
-| 493 | 329 | Shelly Everette |
-| 494 | 327 | Kristine Marie Palmer |
+| 493 | 329 | Kristine Marie Palmer |
+| 494 | 329 | Shelly Everette |
 | 495 | 325 | Juan Alvarez |
 | 496 | 324 | Giddy Staggerpiece |
 | 497 | 324 | Melissa D. M. Hornsby |
@@ -932,8 +932,8 @@
 | 924 | 169 | Mark Steven Pichler |
 | 925 | 168 | DoMinique Lee |
 | 926 | 168 | Seirra Robinson |
-| 927 | 167 | Felicia Woods |
-| 928 | 167 | Chereese Harris |
+| 927 | 168 | Chereese Harris |
+| 928 | 167 | Felicia Woods |
 | 929 | 167 | Ashley Love Pettit |
 | 930 | 166 | Motown Chuck |
 | 931 | 166 | Shanell Thomas |
@@ -1059,49 +1059,49 @@
 | 1051 | 135 | Caitlin Michele |
 | 1052 | 135 | Teresa Menefee |
 | 1053 | 135 | Saucy Tile |
-| 1054 | 135 | RMGreen |
-| 1055 | 135 | Twisty Pivot |
-| 1056 | 135 | UnionBoss |
+| 1054 | 135 | Twisty Pivot |
+| 1055 | 135 | UnionBoss |
+| 1056 | 135 | RMGreen |
 | 1057 | 134 | Terrence Webster |
-| 1058 | 134 | Laurie Napper |
-| 1059 | 134 | Spunky Gridder |
+| 1058 | 134 | Spunky Gridder |
+| 1059 | 134 | Laurie Napper |
 | 1060 | 133 | Terrance Tindall |
-| 1061 | 132 | Gabriela Hernandez |
-| 1062 | 132 | Shaun Baker |
-| 1063 | 132 | Mumitt |
-| 1064 | 132 | tskmstr |
-| 1065 | 131 | Eugenia Vanclusen |
-| 1066 | 131 | b |
-| 1067 | 131 | Yellowbone |
-| 1068 | 130 | Nope Young |
-| 1069 | 130 | Jessica Davis |
-| 1070 | 130 | LaTonya Collier |
-| 1071 | 130 | Maria Baez Medina |
-| 1072 | 130 | kingbrook |
+| 1061 | 133 | NickyJay Jones |
+| 1062 | 132 | tskmstr |
+| 1063 | 132 | Shaun Baker |
+| 1064 | 132 | Mumitt |
+| 1065 | 132 | Gabriela Hernandez |
+| 1066 | 131 | Yellowbone |
+| 1067 | 131 | Eugenia Vanclusen |
+| 1068 | 131 | b |
+| 1069 | 130 | Maria Baez Medina |
+| 1070 | 130 | Jessica Davis |
+| 1071 | 130 | Nope Young |
+| 1072 | 130 | West Racks |
 | 1073 | 130 | Tara Clarke |
-| 1074 | 130 | Latricia George |
-| 1075 | 130 | West Racks |
-| 1076 | 129 | WReckitraff |
-| 1077 | 129 | Chino Baby |
-| 1078 | 128 | Alonzo Kirkland |
-| 1079 | 128 | Macho Lewis |
-| 1080 | 128 | Brittany Britkany Marsden-Garrison |
+| 1074 | 130 | LaTonya Collier |
+| 1075 | 130 | Latricia George |
+| 1076 | 130 | kingbrook |
+| 1077 | 129 | WReckitraff |
+| 1078 | 129 | Chino Baby |
+| 1079 | 128 | Brittany Britkany Marsden-Garrison |
+| 1080 | 128 | Macho Lewis |
 | 1081 | 128 | Willson06 |
 | 1082 | 128 | Lateef |
-| 1083 | 127 | Aridevina |
-| 1084 | 127 | Laura Osborne |
+| 1083 | 128 | Alonzo Kirkland |
+| 1084 | 127 | Aridevina |
 | 1085 | 127 | Pretty Yella |
 | 1086 | 127 | tk |
-| 1087 | 126 | Ounquan Wright |
-| 1088 | 126 | GoldStarJo |
-| 1089 | 126 | Jeremy Hendrix |
-| 1090 | 125 | Meme23 |
-| 1091 | 125 | Kayd |
-| 1092 | 125 | Angie Lebron |
-| 1093 | 125 | Rande Smith |
-| 1094 | 124 | jasi |
-| 1095 | 124 | Andrew Harris |
-| 1096 | 124 | NickyJay Jones |
+| 1087 | 127 | Laura Osborne |
+| 1088 | 126 | Ounquan Wright |
+| 1089 | 126 | GoldStarJo |
+| 1090 | 126 | Jeremy Hendrix |
+| 1091 | 125 | Meme23 |
+| 1092 | 125 | Kayd |
+| 1093 | 125 | Angie Lebron |
+| 1094 | 125 | Rande Smith |
+| 1095 | 124 | jasi |
+| 1096 | 124 | Andrew Harris |
 | 1097 | 124 | Giggy Brickfit |
 | 1098 | 124 | Diamond Nicole |
 | 1099 | 124 | Flashy Stacker |
@@ -1437,27 +1437,27 @@
 | 1429 | 68 | Mississippigirl Countrygirl |
 | 1430 | 67 | Tani |
 | 1431 | 67 | Evelyn Epps |
-| 1432 | 67 | Leiacellaa23 |
-| 1433 | 67 | Ericka C Branch |
-| 1434 | 67 | Ray Eyes |
-| 1435 | 67 | Michele Elizabeth McKay-Johnson |
-| 1436 | 67 | Catrina Zedd |
-| 1437 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1438 | 66 | Kerry Meister Rummel |
-| 1439 | 66 | Regina Hall |
-| 1440 | 66 | Amanda Bell |
-| 1441 | 66 | Plucky Dashgrid |
-| 1442 | 66 | Raquele Hines |
-| 1443 | 66 | Sunny Cascader |
-| 1444 | 66 | Jroc Tyra Taylor |
-| 1445 | 66 | Tamara Jones |
-| 1446 | 66 | Meluhnee |
-| 1447 | 65 | Goofy T-spin |
-| 1448 | 65 | QDeezy1906 |
-| 1449 | 65 | KingMilo |
-| 1450 | 65 | Juanita Quezaire |
-| 1451 | 65 | April Ezell |
-| 1452 | 65 | Sarah Jones |
+| 1432 | 67 | Plucky Dashgrid |
+| 1433 | 67 | Leiacellaa23 |
+| 1434 | 67 | Ericka C Branch |
+| 1435 | 67 | Ray Eyes |
+| 1436 | 67 | Michele Elizabeth McKay-Johnson |
+| 1437 | 67 | Catrina Zedd |
+| 1438 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1439 | 66 | Meluhnee |
+| 1440 | 66 | Kerry Meister Rummel |
+| 1441 | 66 | Regina Hall |
+| 1442 | 66 | Amanda Bell |
+| 1443 | 66 | Raquele Hines |
+| 1444 | 66 | Sunny Cascader |
+| 1445 | 66 | Jroc Tyra Taylor |
+| 1446 | 66 | Tamara Jones |
+| 1447 | 65 | Sarah Jones |
+| 1448 | 65 | Juanita Quezaire |
+| 1449 | 65 | April Ezell |
+| 1450 | 65 | KingMilo |
+| 1451 | 65 | QDeezy1906 |
+| 1452 | 65 | Goofy T-spin |
 | 1453 | 65 | Panda Vibes |
 | 1454 | 65 | Vonda House |
 | 1455 | 65 | Furlough Leslie |
