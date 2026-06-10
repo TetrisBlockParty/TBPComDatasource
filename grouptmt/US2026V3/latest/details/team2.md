@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 13:42:46 UTC
+# Standings for team2 as of 2026-06-10 13:43:23 UTC
 
 **Total Participants:** 2750
 
@@ -171,9 +171,9 @@
 | 163 | 1035 | Sarah Mccolgan |
 | 164 | 1032 | Groovy Snapper |
 | 165 | 1031 | Sarah Griffey |
-| 166 | 1022 | Wacky Dashfit |
-| 167 | 1021 | Erin Thomas |
-| 168 | 1012 | Tami Kay Williams Watson |
+| 166 | 1022 | Tami Kay Williams Watson |
+| 167 | 1022 | Wacky Dashfit |
+| 168 | 1021 | Erin Thomas |
 | 169 | 1011 | Shea |
 | 170 | 1003 | Giddy Climber |
 | 171 | 1000 | Sydney Headley |
@@ -286,8 +286,8 @@
 | 278 | 667 | Iesha Cupil |
 | 279 | 667 | Bubbly Puzzler |
 | 280 | 662 | Michelle Rich Burkhart |
-| 281 | 660 | Mikia Stokes |
-| 282 | 657 | Alicia Ellenburg |
+| 281 | 660 | Alicia Ellenburg |
+| 282 | 660 | Mikia Stokes |
 | 283 | 651 | Rosalie Call Kehlenbeck |
 | 284 | 650 | Jennifer Smith |
 | 285 | 649 | Lyric Price |
@@ -1139,25 +1139,25 @@
 | 1131 | 160 | Angie Rose |
 | 1132 | 160 | AshleyM |
 | 1133 | 160 | Kaitlyn Hurst |
-| 1134 | 160 | Amber Simonton |
-| 1135 | 160 | Billie Jensen |
-| 1136 | 160 | Elizabeth Cornelius |
-| 1137 | 160 | puppy mom |
-| 1138 | 160 | Frank Laverty |
-| 1139 | 160 | Cassey Feller |
-| 1140 | 160 | Tasha Gilbert |
-| 1141 | 160 | Jenifer Gasho |
-| 1142 | 160 | Gloria Appleton |
-| 1143 | 159 | Misty Noe |
-| 1144 | 159 | Kiersty Redder |
-| 1145 | 159 | Funko Dave |
-| 1146 | 159 | Meagan Thompson |
-| 1147 | 159 | Christina Reid |
-| 1148 | 158 | Samantha LeBlanc |
-| 1149 | 158 | CAL1KAWS559 |
-| 1150 | 158 | Spicy Wrecker |
-| 1151 | 158 | STARFIRE |
-| 1152 | 158 | Kelly Christine Trimmer |
+| 1134 | 160 | Kelly Christine Trimmer |
+| 1135 | 160 | Amber Simonton |
+| 1136 | 160 | Billie Jensen |
+| 1137 | 160 | Elizabeth Cornelius |
+| 1138 | 160 | puppy mom |
+| 1139 | 160 | Frank Laverty |
+| 1140 | 160 | Cassey Feller |
+| 1141 | 160 | Tasha Gilbert |
+| 1142 | 160 | Jenifer Gasho |
+| 1143 | 160 | Gloria Appleton |
+| 1144 | 159 | Misty Noe |
+| 1145 | 159 | Kiersty Redder |
+| 1146 | 159 | Funko Dave |
+| 1147 | 159 | Meagan Thompson |
+| 1148 | 159 | Christina Reid |
+| 1149 | 158 | Samantha LeBlanc |
+| 1150 | 158 | CAL1KAWS559 |
+| 1151 | 158 | Spicy Wrecker |
+| 1152 | 158 | STARFIRE |
 | 1153 | 158 | Kay Newcomb |
 | 1154 | 157 | Tracy Tokarz |
 | 1155 | 157 | Robert W Schwartz |
@@ -1198,23 +1198,23 @@
 | 1190 | 150 | Desia Walker |
 | 1191 | 150 | Chris Wilber |
 | 1192 | 150 | Katie Esquivel |
-| 1193 | 150 | Nanny t |
-| 1194 | 150 | Heather Hill Davidson |
-| 1195 | 150 | Binska |
+| 1193 | 150 | Heather Hill Davidson |
+| 1194 | 150 | Binska |
+| 1195 | 150 | Nanny t |
 | 1196 | 150 | Danielle Etchison Mask |
 | 1197 | 149 | LilMs101 |
 | 1198 | 149 | Michelle Feliciano |
 | 1199 | 149 | Christina Kearns |
 | 1200 | 148 | Annie Hebdon |
 | 1201 | 148 | Carrie Rutter-Bail |
-| 1202 | 148 | Debra Patten |
-| 1203 | 148 | build master |
-| 1204 | 148 | Christina Whitehead |
-| 1205 | 148 | Brandy McGuffey |
-| 1206 | 148 | Amanda Jungclaus |
-| 1207 | 148 | wutrwerdz |
-| 1208 | 147 | Trisha Farley |
-| 1209 | 147 | Shelby Lynn May |
+| 1202 | 148 | Shelby Lynn May |
+| 1203 | 148 | Debra Patten |
+| 1204 | 148 | build master |
+| 1205 | 148 | Christina Whitehead |
+| 1206 | 148 | Brandy McGuffey |
+| 1207 | 148 | Amanda Jungclaus |
+| 1208 | 148 | wutrwerdz |
+| 1209 | 147 | Trisha Farley |
 | 1210 | 147 | Shay Lynn King |
 | 1211 | 146 | Candace Mihm |
 | 1212 | 146 | Cindy Wellman |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:42:46 UTC
+# Standings for team4 as of 2026-06-10 13:43:23 UTC
 
 **Total Participants:** 2325
 
@@ -43,7 +43,7 @@
 | 35 | 4323 | Leah Barnett |
 | 36 | 4319 | Tonya Brooks-Johnson |
 | 37 | 4179 | Witty Clicky |
-| 38 | 4158 | Leigh Pierce |
+| 38 | 4168 | Leigh Pierce |
 | 39 | 4150 | TitiLo72 |
 | 40 | 4120 | Blind Bette |
 | 41 | 4034 | Jeanette Hailey |
@@ -280,8 +280,8 @@
 | 272 | 554 | Merritt Brandt |
 | 273 | 553 | Joseph Hunter |
 | 274 | 550 | Maria Castillo |
-| 275 | 545 | Betsy Froemming |
-| 276 | 540 | Fran Aaron-Ring |
+| 275 | 550 | Fran Aaron-Ring |
+| 276 | 545 | Betsy Froemming |
 | 277 | 540 | Jaci Marie |
 | 278 | 537 | Kaash Brxtt |
 | 279 | 535 | Karr |
@@ -412,21 +412,21 @@
 | 404 | 371 | TJ |
 | 405 | 370 | Dizzy Slammer |
 | 406 | 370 | Queen B |
-| 407 | 369 | DanceAngel |
-| 408 | 369 | Lucy Honer |
+| 407 | 369 | Lucy Honer |
+| 408 | 369 | DanceAngel |
 | 409 | 368 | Brittany Lentz |
 | 410 | 367 | Giggly Column |
 | 411 | 367 | Dolores Falco |
 | 412 | 367 | Lisa Jones |
-| 413 | 366 | Laurie Patrick |
-| 414 | 366 | Alexis Cor |
-| 415 | 366 | KrisTina2007 |
+| 413 | 366 | KrisTina2007 |
+| 414 | 366 | Laurie Patrick |
+| 415 | 366 | Alexis Cor |
 | 416 | 365 | Quiomarie Cotto |
-| 417 | 363 | Rhonda Dowling |
-| 418 | 363 | Mark Norton |
-| 419 | 361 | Patrick Alley |
-| 420 | 361 | Kellz M Bee |
-| 421 | 361 | Breezy Blockzone |
+| 417 | 363 | Mark Norton |
+| 418 | 363 | Rhonda Dowling |
+| 419 | 361 | Kellz M Bee |
+| 420 | 361 | Breezy Blockzone |
+| 421 | 361 | Patrick Alley |
 | 422 | 360 | Kimyatta Cavin |
 | 423 | 360 | Mann Manson |
 | 424 | 360 | Funky Riserpiece |
@@ -436,14 +436,14 @@
 | 428 | 359 | BCO22 |
 | 429 | 358 | Bre Dee |
 | 430 | 356 | Candiecane324 |
-| 431 | 353 | FitMeDiva |
-| 432 | 353 | Heidi Hala |
-| 433 | 353 | Crystal Hammonds |
-| 434 | 353 | Loopy Hitter |
-| 435 | 352 | Martha Fisher |
-| 436 | 351 | Holly Bramel |
-| 437 | 351 | Tiffany Morris Garner |
-| 438 | 351 | Chilly Pivot |
+| 431 | 354 | Chilly Pivot |
+| 432 | 353 | FitMeDiva |
+| 433 | 353 | Heidi Hala |
+| 434 | 353 | Crystal Hammonds |
+| 435 | 353 | Loopy Hitter |
+| 436 | 352 | Martha Fisher |
+| 437 | 351 | Holly Bramel |
+| 438 | 351 | Tiffany Morris Garner |
 | 439 | 350 | Karen Davis |
 | 440 | 348 | TRUCHILD777$$$ |
 | 441 | 346 | Jennifer Garcia |
@@ -1721,9 +1721,9 @@
 | 1713 | 46 | Funky Rollblock |
 | 1714 | 45 | Loony Glide |
 | 1715 | 45 | Joseph Vargas |
-| 1716 | 45 | Jess Moore |
-| 1717 | 45 | Antoinette Rodgers |
-| 1718 | 45 | Cherise Maxwell |
+| 1716 | 45 | Antoinette Rodgers |
+| 1717 | 45 | Cherise Maxwell |
+| 1718 | 45 | Jess Moore |
 | 1719 | 45 | Breezy Match |
 | 1720 | 45 | BurnedCrab52 |
 | 1721 | 45 | Jennifer O'Connell |
@@ -1741,8 +1741,8 @@
 | 1733 | 44 | Poppy Snapfall |
 | 1734 | 44 | Bryanna N Clark |
 | 1735 | 43 | Janae Gregory |
-| 1736 | 43 | Shauntenay Campbell |
-| 1737 | 43 | Zappy Riserpiece |
+| 1736 | 43 | Zappy Riserpiece |
+| 1737 | 43 | Shauntenay Campbell |
 | 1738 | 43 | Justin Blasnig |
 | 1739 | 43 | Christopher Ponceja |
 | 1740 | 43 | Heather Crowe |
@@ -1760,37 +1760,37 @@
 | 1752 | 41 | Quirky Chiseler |
 | 1753 | 41 | SouthernChic |
 | 1754 | 41 | Fabuloso |
-| 1755 | 41 | Dandy Linefit |
-| 1756 | 41 | Serena Smylie |
-| 1757 | 41 | Snippy Shatterclear |
-| 1758 | 41 | José A Torres |
-| 1759 | 41 | Bookgirl69 |
-| 1760 | 41 | Amanda Serrano Ruffner |
-| 1761 | 41 | Frisky Framezone |
-| 1762 | 41 | Debra James |
-| 1763 | 41 | Socorro Arredondo |
-| 1764 | 40 | Leslie Bamonte |
-| 1765 | 40 | Jaime Haggerty |
-| 1766 | 40 | Desiree Nunley Johnson |
-| 1767 | 40 | Vinnie Barnett |
-| 1768 | 40 | Cynthia Bolden |
-| 1769 | 40 | Dawn Mortimer |
-| 1770 | 40 | Bymerica |
-| 1771 | 40 | Billy Brasher |
-| 1772 | 40 | Glitzy Cascadefit |
-| 1773 | 40 | Hunter Lynn |
-| 1774 | 40 | Wayne Mire |
-| 1775 | 40 | Kissyfurr |
-| 1776 | 40 | Amy Johnson |
-| 1777 | 40 | Sherri Lynn |
-| 1778 | 40 | Amanda Albritton Moore |
-| 1779 | 40 | TIGRESSHOTTIE79 |
-| 1780 | 40 | Michael Taul |
-| 1781 | 40 | Amber Bishop |
-| 1782 | 40 | Nutty Balanceblock |
-| 1783 | 40 | Melody Lester |
-| 1784 | 40 | Steven Michael Lutz |
-| 1785 | 40 | Lincy A. Walsh |
+| 1755 | 41 | Lincy A. Walsh |
+| 1756 | 41 | Dandy Linefit |
+| 1757 | 41 | Serena Smylie |
+| 1758 | 41 | Snippy Shatterclear |
+| 1759 | 41 | José A Torres |
+| 1760 | 41 | Bookgirl69 |
+| 1761 | 41 | Amanda Serrano Ruffner |
+| 1762 | 41 | Frisky Framezone |
+| 1763 | 41 | Debra James |
+| 1764 | 41 | Socorro Arredondo |
+| 1765 | 40 | Leslie Bamonte |
+| 1766 | 40 | Jaime Haggerty |
+| 1767 | 40 | Desiree Nunley Johnson |
+| 1768 | 40 | Vinnie Barnett |
+| 1769 | 40 | Cynthia Bolden |
+| 1770 | 40 | Dawn Mortimer |
+| 1771 | 40 | Bymerica |
+| 1772 | 40 | Billy Brasher |
+| 1773 | 40 | Glitzy Cascadefit |
+| 1774 | 40 | Hunter Lynn |
+| 1775 | 40 | Wayne Mire |
+| 1776 | 40 | Kissyfurr |
+| 1777 | 40 | Amy Johnson |
+| 1778 | 40 | Sherri Lynn |
+| 1779 | 40 | Amanda Albritton Moore |
+| 1780 | 40 | TIGRESSHOTTIE79 |
+| 1781 | 40 | Michael Taul |
+| 1782 | 40 | Amber Bishop |
+| 1783 | 40 | Nutty Balanceblock |
+| 1784 | 40 | Melody Lester |
+| 1785 | 40 | Steven Michael Lutz |
 | 1786 | 40 | DamienDante |
 | 1787 | 40 | Angelene Jenson |
 | 1788 | 40 | Suzy |
