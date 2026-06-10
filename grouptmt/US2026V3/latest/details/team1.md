@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:18:46 UTC
+# Standings for team1 as of 2026-06-10 15:19:23 UTC
 
 **Total Participants:** 2284
 
@@ -315,10 +315,10 @@
 | 307 | 498 | Julian Dickens Jr. |
 | 308 | 495 | Queenie Perry |
 | 309 | 494 | Steve Reno |
-| 310 | 492 | Heather Aurelia |
+| 310 | 494 | Koi |
 | 311 | 492 | SANA |
-| 312 | 490 | Kate Hancock Malicek |
-| 313 | 488 | Koi |
+| 312 | 492 | Heather Aurelia |
+| 313 | 490 | Kate Hancock Malicek |
 | 314 | 488 | Snippy Breaker |
 | 315 | 485 | Natasha Rucker |
 | 316 | 484 | Jhonny Maii |
@@ -376,11 +376,11 @@
 | 368 | 428 | Brand Nu |
 | 369 | 425 | Stef Hu |
 | 370 | 423 | Poppy Buildout |
-| 371 | 417 | Brenda Malachi-butler |
-| 372 | 416 | NastyFriend |
-| 373 | 414 | Smiley Clearpiece |
-| 374 | 413 | NewEve |
-| 375 | 412 | Jai |
+| 371 | 418 | Jai |
+| 372 | 417 | Brenda Malachi-butler |
+| 373 | 416 | NastyFriend |
+| 374 | 414 | Smiley Clearpiece |
+| 375 | 413 | NewEve |
 | 376 | 411 | MamushiOh |
 | 377 | 410 | Salim Thugger |
 | 378 | 409 | KeeKee Williams |
@@ -596,8 +596,8 @@
 | 588 | 272 | Koreen Johnson-Woolford |
 | 589 | 272 | wmedina67 |
 | 590 | 272 | Felicia Dungey |
-| 591 | 270 | Jen Hallin |
-| 592 | 270 | Meshia |
+| 591 | 270 | Meshia |
+| 592 | 270 | Jen Hallin |
 | 593 | 269 | RylonJones |
 | 594 | 269 | Stephanie L Jeffries Moultrie |
 | 595 | 268 | Monica Tovar |
@@ -625,26 +625,26 @@
 | 617 | 260 | Spotlight |
 | 618 | 260 | Lester Malone |
 | 619 | 259 | Blocksy |
-| 620 | 258 | Jjhandsome |
-| 621 | 258 | Kala Miller |
-| 622 | 257 | Darrel Pemberton |
-| 623 | 256 | John Spath |
-| 624 | 256 | Monica Fields |
-| 625 | 256 | Douglas Price |
-| 626 | 255 | Michelle Peters |
-| 627 | 255 | Mathew Trudell |
-| 628 | 254 | Brittany Sara Heldwein |
-| 629 | 254 | Ashlie Mo |
-| 630 | 254 | BB |
-| 631 | 254 | Cheryl Miller |
-| 632 | 254 | Dorian Griffin |
-| 633 | 253 | Stronger Wiser Better |
+| 620 | 258 | Stronger Wiser Better |
+| 621 | 258 | Jjhandsome |
+| 622 | 258 | Kala Miller |
+| 623 | 257 | Darrel Pemberton |
+| 624 | 256 | John Spath |
+| 625 | 256 | Monica Fields |
+| 626 | 256 | Douglas Price |
+| 627 | 255 | Michelle Peters |
+| 628 | 255 | Mathew Trudell |
+| 629 | 254 | Cheryl Miller |
+| 630 | 254 | Dorian Griffin |
+| 631 | 254 | BB |
+| 632 | 254 | Brittany Sara Heldwein |
+| 633 | 254 | Ashlie Mo |
 | 634 | 253 | Nyhlah Patterson |
-| 635 | 252 | Mary Phillippi Blanton |
-| 636 | 252 | Lazy Tiltpiece |
+| 635 | 252 | Lazy Tiltpiece |
+| 636 | 252 | Mary Phillippi Blanton |
 | 637 | 252 | Shakuria Cortia Burney |
-| 638 | 251 | Taz Ballard |
-| 639 | 251 | meatballs |
+| 638 | 251 | meatballs |
+| 639 | 251 | Taz Ballard |
 | 640 | 250 | Tony Pizzas |
 | 641 | 250 | Rufus |
 | 642 | 249 | Jose Rodriguez |
