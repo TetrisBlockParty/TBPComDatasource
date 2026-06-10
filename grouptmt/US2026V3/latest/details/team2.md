@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:32:46 UTC
+# Standings for team2 as of 2026-06-10 09:33:21 UTC
 
 **Total Participants:** 2715
 
@@ -716,82 +716,82 @@
 | 708 | 261 | Amber Carpenter |
 | 709 | 261 | Belle |
 | 710 | 260 | Michele Stewart |
-| 711 | 260 | Bouncy Snapmatch |
-| 712 | 260 | Chris Christ |
+| 711 | 260 | Chris Christ |
+| 712 | 260 | Bouncy Snapmatch |
 | 713 | 259 | Momof2wigglebutts |
 | 714 | 259 | Angie Kowalsky Olson |
 | 715 | 259 | Stella |
 | 716 | 258 | Julie Alexander Sykes |
-| 717 | 258 | Amanda Rude |
-| 718 | 258 | Christy Diane Escobar |
-| 719 | 258 | Shellie Kioutas |
-| 720 | 257 | Julie Brown |
-| 721 | 257 | Marlo Perry |
+| 717 | 258 | Shellie Kioutas |
+| 718 | 258 | Amanda Rude |
+| 719 | 258 | Christy Diane Escobar |
+| 720 | 257 | Marlo Perry |
+| 721 | 257 | Julie Brown |
 | 722 | 257 | Shannon Posner |
 | 723 | 256 | Epic Tilemaker |
-| 724 | 256 | Busted9mm |
-| 725 | 256 | Connie McCoy |
+| 724 | 256 | Connie McCoy |
+| 725 | 256 | Busted9mm |
 | 726 | 255 | Jessica Murphree |
 | 727 | 255 | Kelli Pazour |
 | 728 | 255 | Brian Favre |
 | 729 | 254 | Aubrey Gates |
 | 730 | 254 | Jason Lamporte |
 | 731 | 254 | Cozy Cascade |
-| 732 | 253 | Teloney Humphrey |
-| 733 | 252 | Kimberly Davis |
-| 734 | 251 | Melissa Pronovost |
+| 732 | 253 | Sleepypanda67 |
+| 733 | 253 | Teloney Humphrey |
+| 734 | 252 | Kimberly Davis |
 | 735 | 251 | Paula |
-| 736 | 251 | Jennifer Leigh |
-| 737 | 251 | Melissa Fink |
-| 738 | 251 | BugMansMom |
-| 739 | 250 | Epic Framezone |
-| 740 | 250 | Ryan Rhodes |
-| 741 | 250 | Kim Powers |
-| 742 | 250 | Happy Drop |
-| 743 | 250 | Daring Spinzone |
-| 744 | 249 | Treau Torres |
+| 736 | 251 | Melissa Pronovost |
+| 737 | 251 | Jennifer Leigh |
+| 738 | 251 | Melissa Fink |
+| 739 | 251 | BugMansMom |
+| 740 | 250 | Epic Framezone |
+| 741 | 250 | Daring Spinzone |
+| 742 | 250 | Ryan Rhodes |
+| 743 | 250 | Kim Powers |
+| 744 | 250 | Happy Drop |
 | 745 | 249 | GiGi Cool |
 | 746 | 249 | Carrie Smith Negron |
-| 747 | 249 | MamaRachel |
-| 748 | 249 | Lindsey Ross |
-| 749 | 249 | Jessica Bowman |
-| 750 | 249 | Raymond Dawson |
-| 751 | 249 | Tina |
-| 752 | 248 | Franky |
+| 747 | 249 | Treau Torres |
+| 748 | 249 | MamaRachel |
+| 749 | 249 | Lindsey Ross |
+| 750 | 249 | Jessica Bowman |
+| 751 | 249 | Raymond Dawson |
+| 752 | 249 | Tina |
 | 753 | 248 | Quirky Shifter |
-| 754 | 247 | Mariya Cline |
-| 755 | 247 | Alycia Marie Zelensky |
-| 756 | 247 | Kevin Osbourne |
-| 757 | 247 | Laura Melton |
-| 758 | 247 | Robin Stutler |
-| 759 | 246 | Rachel M. Farnsworth |
-| 760 | 246 | Melissa Willson |
-| 761 | 245 | DirtySweet84 |
+| 754 | 248 | Franky |
+| 755 | 247 | Kevin Osbourne |
+| 756 | 247 | Mariya Cline |
+| 757 | 247 | Alycia Marie Zelensky |
+| 758 | 247 | Laura Melton |
+| 759 | 247 | Robin Stutler |
+| 760 | 246 | Rachel M. Farnsworth |
+| 761 | 246 | Melissa Willson |
 | 762 | 245 | Viani09 |
-| 763 | 245 | Melissa Aycock |
-| 764 | 245 | Patty Ann Hendrickson |
-| 765 | 244 | Wacky Holder |
-| 766 | 244 | Deb Rose-Bridinger |
-| 767 | 243 | Nichole Fuller |
+| 763 | 245 | DirtySweet84 |
+| 764 | 245 | Melissa Aycock |
+| 765 | 245 | Patty Ann Hendrickson |
+| 766 | 244 | Wacky Holder |
+| 767 | 244 | Deb Rose-Bridinger |
 | 768 | 243 | Laura Anderson |
-| 769 | 243 | Coleta Singleton-Gallishaw |
-| 770 | 243 | Becky Kennon |
-| 771 | 242 | Tina Kinney |
+| 769 | 243 | Nichole Fuller |
+| 770 | 243 | Coleta Singleton-Gallishaw |
+| 771 | 243 | Becky Kennon |
 | 772 | 242 | Dame Smith |
-| 773 | 241 | Blossom48 |
-| 774 | 240 | Tiffany Lewis |
-| 775 | 240 | Zesty Dash |
-| 776 | 240 | whocares |
-| 777 | 240 | Mandy |
-| 778 | 240 | Ginger Nesbitt |
-| 779 | 239 | Quirky Gridclear |
-| 780 | 239 | Nutty Fitzone |
-| 781 | 239 | Violet Olivares |
-| 782 | 239 | Michael Anthony Anstead |
-| 783 | 239 | Ashlee Johnson |
+| 773 | 242 | Tina Kinney |
+| 774 | 241 | Blossom48 |
+| 775 | 240 | Mandy |
+| 776 | 240 | Zesty Dash |
+| 777 | 240 | Tiffany Lewis |
+| 778 | 240 | whocares |
+| 779 | 240 | Ginger Nesbitt |
+| 780 | 239 | Quirky Gridclear |
+| 781 | 239 | Nutty Fitzone |
+| 782 | 239 | Violet Olivares |
+| 783 | 239 | Michael Anthony Anstead |
 | 784 | 239 | Kalli Bonin |
-| 785 | 239 | Sleepypanda67 |
-| 786 | 239 | Flex |
+| 785 | 239 | Flex |
+| 786 | 239 | Ashlee Johnson |
 | 787 | 238 | Suzanne Davis |
 | 788 | 238 | Anzhen |
 | 789 | 238 | Chipper Towerzone |

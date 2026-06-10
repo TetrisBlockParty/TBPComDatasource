@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:32:46 UTC
+# Standings for team1 as of 2026-06-10 09:33:21 UTC
 
 **Total Participants:** 2252
 
@@ -289,8 +289,8 @@
 | 281 | 523 | Simmone T. Kadiri |
 | 282 | 522 | Penee Wiggins |
 | 283 | 519 | Clever Fitblock |
-| 284 | 517 | Tamara Johnson-Carter |
-| 285 | 517 | Lashaunda |
+| 284 | 518 | Lashaunda |
+| 285 | 517 | Tamara Johnson-Carter |
 | 286 | 514 | Chasem45 |
 | 287 | 512 | Anthony |
 | 288 | 511 | Tessa Felice Hill |
@@ -894,14 +894,14 @@
 | 886 | 162 | Speedy Stacky |
 | 887 | 162 | Chill Linkroll |
 | 888 | 162 | Peppy Wipeblock |
-| 889 | 162 | Big Bovice |
-| 890 | 161 | Biggestboss Ransom |
-| 891 | 161 | KimChii |
-| 892 | 161 | Cauiasia DeJ'ae |
-| 893 | 161 | Melvin Simpson |
-| 894 | 160 | Sarah Guarino |
-| 895 | 160 | Chill Curvebuilder |
-| 896 | 160 | AimlessRain |
+| 889 | 162 | AimlessRain |
+| 890 | 162 | Big Bovice |
+| 891 | 161 | Biggestboss Ransom |
+| 892 | 161 | KimChii |
+| 893 | 161 | Cauiasia DeJ'ae |
+| 894 | 161 | Melvin Simpson |
+| 895 | 160 | Sarah Guarino |
+| 896 | 160 | Chill Curvebuilder |
 | 897 | 160 | Twisty Dashy |
 | 898 | 160 | Latoya Carson |
 | 899 | 160 | Amanda Woodruff |

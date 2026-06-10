@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:32:46 UTC
+# Standings for team4 as of 2026-06-10 09:33:21 UTC
 
 **Total Participants:** 2298
 
@@ -25,7 +25,7 @@
 | 17 | 7109 | delilahbelle |
 | 18 | 6954 | Senor Moppy |
 | 19 | 6938 | Chris Hills |
-| 20 | 6628 | Bubbly Twistpiece |
+| 20 | 6638 | Bubbly Twistpiece |
 | 21 | 6449 | Nia Mayfield |
 | 22 | 6254 | Anna Moses |
 | 23 | 6189 | Ning Quiambao |
@@ -2283,19 +2283,19 @@
 | 2275 | 6 | April McWhite |
 | 2276 | 6 | Crissie Mary Schafer |
 | 2277 | 6 | Kristin R. Billiot |
-| 2278 | 6 | Anthony Reynolds |
-| 2279 | 6 | Jason Benitez |
-| 2280 | 6 | Valerie Michelle Dula |
-| 2281 | 6 | Zumo0hECO |
-| 2282 | 5 | Jenise Maldonado |
-| 2283 | 5 | Pablo Resendiz |
-| 2284 | 5 | Wacky Clearzone |
-| 2285 | 5 | Leo |
-| 2286 | 5 | Zany Shatter |
-| 2287 | 5 | Kayla Ridnour |
-| 2288 | 5 | Saraya M Wood |
-| 2289 | 5 | Cheery Tower |
-| 2290 | 5 | Mary Miller |
+| 2278 | 6 | Mary Miller |
+| 2279 | 6 | Anthony Reynolds |
+| 2280 | 6 | Jason Benitez |
+| 2281 | 6 | Valerie Michelle Dula |
+| 2282 | 6 | Zumo0hECO |
+| 2283 | 5 | Jenise Maldonado |
+| 2284 | 5 | Pablo Resendiz |
+| 2285 | 5 | Wacky Clearzone |
+| 2286 | 5 | Leo |
+| 2287 | 5 | Zany Shatter |
+| 2288 | 5 | Kayla Ridnour |
+| 2289 | 5 | Saraya M Wood |
+| 2290 | 5 | Cheery Tower |
 | 2291 | 5 | Elizabeth Storey Jones |
 | 2292 | 5 | Tippet |
 | 2293 | 5 | Darlene Adragna |
