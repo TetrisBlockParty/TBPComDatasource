@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 18:38:47 UTC
+# Standings for team2 as of 2026-06-10 18:39:23 UTC
 
 **Total Participants:** 2793
 
@@ -21,7 +21,7 @@
 | 13 | 9914 | Mocha |
 | 14 | 9622 | Lola C Davis |
 | 15 | 9585 | A.j. Langley |
-| 16 | 9395 | Mellzey |
+| 16 | 9418 | Mellzey |
 | 17 | 9077 | Christina Shell |
 | 18 | 8931 | Bobbi |
 | 19 | 8427 | Elizabeth Mooney |
@@ -109,8 +109,8 @@
 | 101 | 1969 | Nova Nova |
 | 102 | 1930 | Eileen Egan |
 | 103 | 1920 | missat |
-| 104 | 1846 | Daybreak |
-| 105 | 1842 | Courtney McCulley |
+| 104 | 1848 | Courtney McCulley |
+| 105 | 1846 | Daybreak |
 | 106 | 1820 | Josh Twilley |
 | 107 | 1812 | Gabriella Humphreys |
 | 108 | 1810 | Smiley Dropper |
@@ -2542,10 +2542,10 @@
 | 2534 | 16 | Ruthann Nelson |
 | 2535 | 16 | Spicy Towerbuilder |
 | 2536 | 16 | Regina Lynn Adams |
-| 2537 | 15 | Shawn |
-| 2538 | 15 | Tetris |
-| 2539 | 15 | Neeley Travis |
-| 2540 | 15 | Wynde Wood |
+| 2537 | 15 | Neeley Travis |
+| 2538 | 15 | Haneef Akram |
+| 2539 | 15 | Wynde Wood |
+| 2540 | 15 | Tetris |
 | 2541 | 15 | Amlisi |
 | 2542 | 15 | Jennifer Robles |
 | 2543 | 15 | Happy Roll |
@@ -2553,20 +2553,20 @@
 | 2545 | 15 | Samantha Tharp |
 | 2546 | 15 | Rebekah Conn |
 | 2547 | 15 | Gloria Hyita |
-| 2548 | 15 | Loony Brickbuilder |
-| 2549 | 15 | Brave Fill |
-| 2550 | 15 | Alicia Keating Jensen |
-| 2551 | 15 | Zarious Woelfle |
-| 2552 | 15 | featherz |
+| 2548 | 15 | Brave Fill |
+| 2549 | 15 | Alicia Keating Jensen |
+| 2550 | 15 | Zarious Woelfle |
+| 2551 | 15 | featherz |
+| 2552 | 15 | Loony Brickbuilder |
 | 2553 | 15 | Andrea Lauren Smith |
 | 2554 | 15 | Loony Pop |
 | 2555 | 15 | Karen Calderon |
-| 2556 | 15 | Haneef Akram |
+| 2556 | 15 | Denise Amaro |
 | 2557 | 15 | Mary Sands |
 | 2558 | 15 | Glitzy Wipefit |
-| 2559 | 15 | SabinawNorman Adams |
-| 2560 | 15 | Denise Amaro |
-| 2561 | 15 | Alisha Kolln |
+| 2559 | 15 | Alisha Kolln |
+| 2560 | 15 | SabinawNorman Adams |
+| 2561 | 15 | Shawn |
 | 2562 | 15 | Miles McMahon |
 | 2563 | 15 | Lisa Marie |
 | 2564 | 15 | Christine Ann Eras |
@@ -2582,84 +2582,84 @@
 | 2574 | 14 | MiMi’26 |
 | 2575 | 14 | John Sewell |
 | 2576 | 14 | Angelica Champlin |
-| 2577 | 14 | Patricia Meza |
-| 2578 | 14 | Boobella Thatsme |
-| 2579 | 14 | Dandy Risegrid |
-| 2580 | 14 | Nala |
-| 2581 | 14 | Susan R. Hammons Cunningham |
-| 2582 | 14 | Lynn Bryan |
-| 2583 | 14 | Joseph Austin Prince |
+| 2577 | 14 | Manuel Lucero Jr. |
+| 2578 | 14 | Susan R. Hammons Cunningham |
+| 2579 | 14 | Nala |
+| 2580 | 14 | Lynn Bryan |
+| 2581 | 14 | Patricia Meza |
+| 2582 | 14 | Joseph Austin Prince |
+| 2583 | 14 | Boobella Thatsme |
 | 2584 | 14 | Cranky Gridlock |
-| 2585 | 14 | Heather Raypole |
-| 2586 | 14 | Angela-Josh Millan |
+| 2585 | 14 | Giggly Towerer |
+| 2586 | 14 | Twisty Glider |
 | 2587 | 14 | Phill Bramande |
-| 2588 | 14 | Twisty Glider |
-| 2589 | 14 | Giggly Towerer |
-| 2590 | 14 | Manuel Lucero Jr. |
-| 2591 | 13 | Denise Richards |
-| 2592 | 13 | Dawn Marie Justice |
-| 2593 | 13 | Ryan Welcher |
-| 2594 | 13 | Giggly Linefit |
-| 2595 | 13 | Nayapooh |
-| 2596 | 13 | Spicy Snapbuilder |
-| 2597 | 13 | Raven Hull |
-| 2598 | 13 | Sam Blinn |
-| 2599 | 12 | Groovy Buildout |
-| 2600 | 12 | Sindy08 |
-| 2601 | 12 | Mariah Wells |
-| 2602 | 12 | Whitney Welch |
-| 2603 | 12 | Amber Lynch |
-| 2604 | 12 | Lisa McClelland |
-| 2605 | 12 | Kathy Arnold |
+| 2588 | 14 | Dandy Risegrid |
+| 2589 | 14 | Angela-Josh Millan |
+| 2590 | 14 | Heather Raypole |
+| 2591 | 13 | Ryan Welcher |
+| 2592 | 13 | Raven Hull |
+| 2593 | 13 | Spicy Snapbuilder |
+| 2594 | 13 | Teya Rose |
+| 2595 | 13 | Denise Richards |
+| 2596 | 13 | Giggly Linefit |
+| 2597 | 13 | Dawn Marie Justice |
+| 2598 | 13 | Nayapooh |
+| 2599 | 13 | Sam Blinn |
+| 2600 | 12 | Groovy Buildout |
+| 2601 | 12 | Sindy08 |
+| 2602 | 12 | Kathy Arnold |
+| 2603 | 12 | Tajelasmom |
+| 2604 | 12 | Amber Lynch |
+| 2605 | 12 | Mariah Wells |
 | 2606 | 12 | Elisha Mason |
-| 2607 | 12 | Tajelasmom |
-| 2608 | 12 | Liz Wilkerson |
-| 2609 | 12 | Lyndon Schaak |
-| 2610 | 12 | Apollo |
-| 2611 | 12 | Frothy Fitline |
-| 2612 | 12 | Krystal Syykkogrl Grafyx |
+| 2607 | 12 | Lisa McClelland |
+| 2608 | 12 | Whitney Welch |
+| 2609 | 12 | Dan Foster |
+| 2610 | 12 | Lyndon Schaak |
+| 2611 | 12 | Apollo |
+| 2612 | 12 | Frothy Fitline |
 | 2613 | 12 | Stephanie Sadler |
-| 2614 | 12 | Kevin Santiago |
-| 2615 | 12 | Bsancia |
-| 2616 | 12 | Valerie Kidwell Eckart |
-| 2617 | 12 | Laura Harris Merchant |
-| 2618 | 12 | Shiny Patternbuilder |
-| 2619 | 12 | Michelle Wakefield |
-| 2620 | 12 | Dan Foster |
-| 2621 | 11 | Kala Lily |
+| 2614 | 12 | Krystal Syykkogrl Grafyx |
+| 2615 | 12 | Liz Wilkerson |
+| 2616 | 12 | Kevin Santiago |
+| 2617 | 12 | Bsancia |
+| 2618 | 12 | Valerie Kidwell Eckart |
+| 2619 | 12 | Laura Harris Merchant |
+| 2620 | 12 | Michelle Wakefield |
+| 2621 | 12 | Shiny Patternbuilder |
 | 2622 | 11 | Britney Rinehart |
-| 2623 | 11 | Aspen Smith |
-| 2624 | 11 | Nini |
+| 2623 | 11 | Kala Lily |
+| 2624 | 11 | Aspen Smith |
 | 2625 | 11 | Emily Ackley |
 | 2626 | 11 | Snippy Breaker |
 | 2627 | 11 | Smokii |
 | 2628 | 11 | Dreamy Gridzone |
 | 2629 | 11 | Tink |
-| 2630 | 11 | Kathy May |
-| 2631 | 11 | Silly Strikerbuilder |
-| 2632 | 11 | Arianna Ishel Lizarraga |
-| 2633 | 11 | Tonya Blake |
+| 2630 | 11 | Sam |
+| 2631 | 11 | Kathy May |
+| 2632 | 11 | Silly Strikerbuilder |
+| 2633 | 11 | Arianna Ishel Lizarraga |
 | 2634 | 11 | Forever Young |
-| 2635 | 11 | Snippy Blockfall |
-| 2636 | 11 | Sam |
+| 2635 | 11 | Tonya Blake |
+| 2636 | 11 | Nini |
 | 2637 | 11 | Catspjamas |
-| 2638 | 11 | Teya Rose |
+| 2638 | 11 | Snippy Blockfall |
 | 2639 | 11 | Robert E Tracy |
 | 2640 | 10 | Lacey Johnson |
 | 2641 | 10 | Pamela Kay |
 | 2642 | 10 | Twisty Snapclear |
-| 2643 | 10 | Melissa Metcalf |
+| 2643 | 10 | Giggy Frame |
 | 2644 | 10 | Ashley Anderson |
 | 2645 | 10 | Melissa P |
 | 2646 | 10 | Dandy Fill |
 | 2647 | 10 | Goofy Snapclear |
 | 2648 | 10 | TaLana Ortley |
 | 2649 | 10 | Tiffany Linseman |
-| 2650 | 10 | Giggy Frame |
-| 2651 | 10 | foxxiebby |
-| 2652 | 10 | shywizard |
-| 2653 | 10 | Chief10 |
-| 2654 | 10 | Jacob Lewis |
+| 2650 | 10 | Melissa Metcalf |
+| 2651 | 10 | shywizard |
+| 2652 | 10 | foxxiebby |
+| 2653 | 10 | Jacob Lewis |
+| 2654 | 10 | Chief10 |
 | 2655 | 10 | Tiffany Townsend |
 | 2656 | 10 | Mike Clements |
 | 2657 | 10 | Laura Rake |
