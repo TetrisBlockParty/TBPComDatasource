@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:00:45 UTC
+# Standings for team2 as of 2026-06-10 08:01:22 UTC
 
 **Total Participants:** 2710
 
@@ -267,13 +267,13 @@
 | 259 | 687 | Zach Jewett |
 | 260 | 687 | meg |
 | 261 | 679 | True |
-| 262 | 677 | Cool Balancer |
-| 263 | 674 | Vistabrat |
-| 264 | 674 | Aldotfus Williams |
-| 265 | 671 | Krystal Hummel |
-| 266 | 671 | Twisty Buildgrid |
-| 267 | 671 | Breeana Bennett |
-| 268 | 671 | Gloria May Shook |
+| 262 | 679 | Aldotfus Williams |
+| 263 | 677 | Cool Balancer |
+| 264 | 674 | Vistabrat |
+| 265 | 671 | Gloria May Shook |
+| 266 | 671 | Krystal Hummel |
+| 267 | 671 | Twisty Buildgrid |
+| 268 | 671 | Breeana Bennett |
 | 269 | 670 | Michelle Powers Chattaway |
 | 270 | 667 | Iesha Cupil |
 | 271 | 662 | Michelle Rich Burkhart |
@@ -287,8 +287,8 @@
 | 279 | 639 | Stephany Green |
 | 280 | 639 | Alicia Ellenburg |
 | 281 | 631 | Donna Esbensen-Alpini |
-| 282 | 630 | Nancy Schwartz Gusman-Oliver |
-| 283 | 628 | Lyric Price |
+| 282 | 630 | Lyric Price |
+| 283 | 630 | Nancy Schwartz Gusman-Oliver |
 | 284 | 628 | Ackerman 85 |
 | 285 | 627 | Chirpy Grid |
 | 286 | 627 | Theresa Marie |
@@ -1414,24 +1414,24 @@
 | 1406 | 110 | Brett Mullins |
 | 1407 | 110 | Andrea Spinelli |
 | 1408 | 110 | Christina German |
-| 1409 | 110 | Casie |
-| 1410 | 110 | Twisty Matcher |
-| 1411 | 110 | Debra Horne |
-| 1412 | 110 | Margie King |
-| 1413 | 110 | Wendy Michelle |
-| 1414 | 110 | Crystal Logan |
-| 1415 | 110 | Sadie-Damion Smith |
-| 1416 | 109 | Ayana Yanaeboo Eaddy |
-| 1417 | 109 | Shannie |
-| 1418 | 109 | Sandra Rotton Bragg |
-| 1419 | 109 | Slinky Glidezone |
-| 1420 | 108 | Armordguy |
-| 1421 | 108 | Crafty Slice |
-| 1422 | 108 | Jamie Benge |
-| 1423 | 108 | Anthony Kordich |
-| 1424 | 108 | Cheery Blast |
-| 1425 | 108 | Angela Oates-Killebrew |
-| 1426 | 108 | Lj |
+| 1409 | 110 | Lj |
+| 1410 | 110 | Casie |
+| 1411 | 110 | Twisty Matcher |
+| 1412 | 110 | Debra Horne |
+| 1413 | 110 | Margie King |
+| 1414 | 110 | Wendy Michelle |
+| 1415 | 110 | Crystal Logan |
+| 1416 | 110 | Sadie-Damion Smith |
+| 1417 | 109 | Ayana Yanaeboo Eaddy |
+| 1418 | 109 | Shannie |
+| 1419 | 109 | Sandra Rotton Bragg |
+| 1420 | 109 | Slinky Glidezone |
+| 1421 | 108 | Armordguy |
+| 1422 | 108 | Crafty Slice |
+| 1423 | 108 | Jamie Benge |
+| 1424 | 108 | Anthony Kordich |
+| 1425 | 108 | Cheery Blast |
+| 1426 | 108 | Angela Oates-Killebrew |
 | 1427 | 108 | Miranda Krentz |
 | 1428 | 108 | Jennifer Robinson |
 | 1429 | 108 | Crystal Whygle |

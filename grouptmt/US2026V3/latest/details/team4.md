@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:00:45 UTC
+# Standings for team4 as of 2026-06-10 08:01:22 UTC
 
 **Total Participants:** 2295
 
@@ -38,7 +38,7 @@
 | 30 | 4750 | Jackie Lucas |
 | 31 | 4696 | Chummy Rollzone |
 | 32 | 4533 | Juan Ford |
-| 33 | 4364 | Victoria Ver |
+| 33 | 4366 | Victoria Ver |
 | 34 | 4277 | Tonya Brooks-Johnson |
 | 35 | 4179 | Witty Clicky |
 | 36 | 4150 | TitiLo72 |
@@ -264,7 +264,7 @@
 | 256 | 564 | Drh4090 |
 | 257 | 561 | Danny Ortiz |
 | 258 | 556 | Smiley Gridzone |
-| 259 | 553 | Neeta Kapadia |
+| 259 | 555 | Neeta Kapadia |
 | 260 | 553 | Joseph Hunter |
 | 261 | 550 | Maria Castillo |
 | 262 | 550 | Genger |
@@ -1062,22 +1062,22 @@
 | 1054 | 132 | Marie Lily |
 | 1055 | 132 | Chirpy Spinzone |
 | 1056 | 132 | Jarad Glover |
-| 1057 | 131 | Lush Balanceblock |
-| 1058 | 131 | Tika Boo |
-| 1059 | 130 | Krazylegzzzz |
-| 1060 | 130 | Alicia Horsea Rojas |
-| 1061 | 130 | Elise Ann |
-| 1062 | 130 | Tammy Wells |
-| 1063 | 130 | gothicmisery |
-| 1064 | 130 | CorieBe |
-| 1065 | 130 | Perky Balanceblock |
-| 1066 | 129 | Vlad Rudman |
-| 1067 | 129 | Elizabeth Putansu |
-| 1068 | 129 | Peachy Piecefit |
-| 1069 | 129 | Kay |
-| 1070 | 129 | Clever Blockmatch |
-| 1071 | 128 | Chill Rollpiece |
-| 1072 | 128 | Blu |
+| 1057 | 132 | Blu |
+| 1058 | 131 | Lush Balanceblock |
+| 1059 | 131 | Tika Boo |
+| 1060 | 130 | Krazylegzzzz |
+| 1061 | 130 | Alicia Horsea Rojas |
+| 1062 | 130 | Elise Ann |
+| 1063 | 130 | Tammy Wells |
+| 1064 | 130 | gothicmisery |
+| 1065 | 130 | CorieBe |
+| 1066 | 130 | Perky Balanceblock |
+| 1067 | 129 | Vlad Rudman |
+| 1068 | 129 | Elizabeth Putansu |
+| 1069 | 129 | Peachy Piecefit |
+| 1070 | 129 | Kay |
+| 1071 | 129 | Clever Blockmatch |
+| 1072 | 128 | Chill Rollpiece |
 | 1073 | 128 | SandyEva |
 | 1074 | 128 | Fancy Curvetile |
 | 1075 | 128 | Bridget Reilly |
