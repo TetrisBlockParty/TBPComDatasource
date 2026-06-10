@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:28:44 UTC
+# Standings for team4 as of 2026-06-10 09:29:22 UTC
 
 **Total Participants:** 2298
 
@@ -42,8 +42,8 @@
 | 34 | 4277 | Tonya Brooks-Johnson |
 | 35 | 4200 | Melissa Brown |
 | 36 | 4179 | Witty Clicky |
-| 37 | 4150 | TitiLo72 |
-| 38 | 4048 | Leah Barnett |
+| 37 | 4153 | Leah Barnett |
+| 38 | 4150 | TitiLo72 |
 | 39 | 4008 | Leigh Pierce |
 | 40 | 3873 | Jeanette Hailey |
 | 41 | 3810 | Blind Bette |
@@ -580,10 +580,10 @@
 | 572 | 265 | Nicole Colby McCloskey |
 | 573 | 265 | Denise Wilson |
 | 574 | 265 | Mrs |
-| 575 | 263 | Melissa Quinn |
-| 576 | 263 | Deborah Ayliffe |
-| 577 | 263 | Manolo Canety |
-| 578 | 263 | Rita Ann |
+| 575 | 265 | Rita Ann |
+| 576 | 263 | Melissa Quinn |
+| 577 | 263 | Deborah Ayliffe |
+| 578 | 263 | Manolo Canety |
 | 579 | 263 | Blessedmom865 |
 | 580 | 263 | Gean DeJesus |
 | 581 | 261 | Chris McBlockster |

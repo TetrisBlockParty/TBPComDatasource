@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:28:44 UTC
+# Standings for team1 as of 2026-06-10 09:29:22 UTC
 
 **Total Participants:** 2252
 
@@ -335,8 +335,8 @@
 | 327 | 453 | Tasha |
 | 328 | 452 | Kenny MrOnethousand Peck |
 | 329 | 449 | Nerdy Climber |
-| 330 | 447 | Kyra Coleman |
-| 331 | 446 | 大竹直之 |
+| 330 | 448 | 大竹直之 |
+| 331 | 447 | Kyra Coleman |
 | 332 | 444 | Candy Lee |
 | 333 | 442 | Joana Thompson |
 | 334 | 442 | Richard Flex |
