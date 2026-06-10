@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:03:22 UTC
+# Standings for team1 as of 2026-06-10 06:04:43 UTC
 
 **Total Participants:** 2229
 
@@ -148,10 +148,10 @@
 | 140 | 966 | Sharon Cail |
 | 141 | 954 | Anthony Washington |
 | 142 | 947 | Cathy Young |
-| 143 | 931 | Antonia Wyche |
-| 144 | 927 | Kellie Hall |
-| 145 | 922 | De'Laonzeo Anthony |
-| 146 | 921 | Jimmie Makia |
+| 143 | 934 | Jimmie Makia |
+| 144 | 931 | Antonia Wyche |
+| 145 | 927 | Kellie Hall |
+| 146 | 922 | De'Laonzeo Anthony |
 | 147 | 921 | Zippy Lifter |
 | 148 | 917 | Ebony |
 | 149 | 915 | Crystal Boyd |
@@ -380,16 +380,16 @@
 | 372 | 384 | kitten |
 | 373 | 383 | Wayne Savannah |
 | 374 | 381 | SeanSanchez |
-| 375 | 380 | Ketrell Bailey |
-| 376 | 380 | Ladybug |
+| 375 | 380 | Ladybug |
+| 376 | 380 | Ketrell Bailey |
 | 377 | 380 | Giggy Edgefit |
 | 378 | 379 | Still Ten Tay |
 | 379 | 378 | Dennis J Herron II |
 | 380 | 378 | Ashley MyBeauty Daniels |
 | 381 | 377 | ♈️ Ariesbaby |
 | 382 | 377 | AF Cruz |
-| 383 | 375 | Lisa Fletcher |
-| 384 | 375 | Jana Cheek |
+| 383 | 375 | Jana Cheek |
+| 384 | 375 | Lisa Fletcher |
 | 385 | 371 | Cynthia Bradley |
 | 386 | 371 | Shea Ladynick Henderson |
 | 387 | 371 | Jennah |
@@ -398,30 +398,30 @@
 | 390 | 368 | Faith Armone |
 | 391 | 368 | Cortaz Lawrie |
 | 392 | 367 | Maribel Vasquez |
-| 393 | 366 | Shalya Terry |
-| 394 | 366 | MindlessMic |
+| 393 | 366 | MindlessMic |
+| 394 | 366 | Shalya Terry |
 | 395 | 364 | Tipsy Linkroll |
 | 396 | 363 | Christina Rebecca |
 | 397 | 362 | Kendra McIntyre |
 | 398 | 362 | LaShaun Stinson |
-| 399 | 361 | Lakiesha Crawford |
-| 400 | 361 | John Staub |
+| 399 | 361 | John Staub |
+| 400 | 361 | Lakiesha Crawford |
 | 401 | 360 | Teri Marie Clayton |
 | 402 | 360 | Sara Meri |
-| 403 | 359 | Montréal Mars |
-| 404 | 359 | Stacy Nicole |
-| 405 | 359 | Amy Villalpando |
+| 403 | 359 | Stacy Nicole |
+| 404 | 359 | Amy Villalpando |
+| 405 | 359 | Montréal Mars |
 | 406 | 357 | Janice Mowel Curtiss |
 | 407 | 356 | Haley Bell |
 | 408 | 356 | Daris Swearington |
 | 409 | 355 | Tajuana Juana'Cee Coleman |
-| 410 | 354 | Amy Lynn Leifheit |
-| 411 | 354 | Tyree Tman Shinette |
+| 410 | 354 | Tyree Tman Shinette |
+| 411 | 354 | Amy Lynn Leifheit |
 | 412 | 354 | Chilly Wipebuilder |
-| 413 | 353 | Matthieu Pistone |
-| 414 | 353 | Bbyunicorn |
-| 415 | 352 | Asha Langford |
-| 416 | 352 | Ann Chung |
+| 413 | 353 | Bbyunicorn |
+| 414 | 353 | Matthieu Pistone |
+| 415 | 352 | Ann Chung |
+| 416 | 352 | Asha Langford |
 | 417 | 352 | BabyCakes |
 | 418 | 352 | Tosha Michelle |
 | 419 | 351 | Shameka Thrasher |
@@ -429,74 +429,74 @@
 | 421 | 350 | Kimberly Linares Hernandez |
 | 422 | 350 | Glitzy Patternline |
 | 423 | 349 | Jae Thompson-Tyus |
-| 424 | 348 | CJ Robinson |
-| 425 | 348 | Kelli Couture |
+| 424 | 348 | Kelli Couture |
+| 425 | 348 | CJ Robinson |
 | 426 | 347 | Brenda Malachi-butler |
 | 427 | 344 | DaGuy |
 | 428 | 343 | Tesiree Cray |
-| 429 | 342 | Ryan Runyan |
-| 430 | 342 | Ashley Monet Terrell |
-| 431 | 341 | Giggy Tower |
-| 432 | 341 | McKayla Owens |
-| 433 | 341 | Jolly Tilefall |
+| 429 | 342 | Ashley Monet Terrell |
+| 430 | 342 | Ryan Runyan |
+| 431 | 341 | Jolly Tilefall |
+| 432 | 341 | Giggy Tower |
+| 433 | 341 | McKayla Owens |
 | 434 | 340 | Peppy Towerbuilder |
 | 435 | 338 | Twisty Brickfit |
-| 436 | 337 | Tonia Ramos |
-| 437 | 336 | Skippy |
-| 438 | 334 | kick it |
-| 439 | 334 | TBABYJ |
-| 440 | 334 | Emily Wright |
-| 441 | 333 | Heather Wilson |
-| 442 | 332 | SweetByNBy |
+| 436 | 338 | Manda Allen |
+| 437 | 337 | Tonia Ramos |
+| 438 | 336 | Skippy |
+| 439 | 334 | Emily Wright |
+| 440 | 334 | TBABYJ |
+| 441 | 334 | kick it |
+| 442 | 333 | Heather Wilson |
 | 443 | 332 | Betsy B. Yohan |
-| 444 | 330 | Tracey Johnson |
-| 445 | 329 | Shelly Everette |
-| 446 | 328 | Jelyfish |
-| 447 | 326 | Char |
-| 448 | 326 | Nate Myers |
-| 449 | 324 | Melissa D. M. Hornsby |
+| 444 | 332 | SweetByNBy |
+| 445 | 330 | Tracey Johnson |
+| 446 | 329 | Shelly Everette |
+| 447 | 328 | Jelyfish |
+| 448 | 326 | Char |
+| 449 | 326 | Nate Myers |
 | 450 | 324 | Jai |
-| 451 | 323 | Alyssa Rae |
-| 452 | 322 | Jessie N Michael Silvers |
-| 453 | 322 | Gbnola |
-| 454 | 322 | Juan Alvarez |
-| 455 | 321 | Montego Allen |
-| 456 | 320 | Shanns |
-| 457 | 319 | Donnie Withthebody |
-| 458 | 319 | MACHETEEDDIE513 |
+| 451 | 324 | Melissa D. M. Hornsby |
+| 452 | 323 | Alyssa Rae |
+| 453 | 322 | Jessie N Michael Silvers |
+| 454 | 322 | Gbnola |
+| 455 | 322 | Juan Alvarez |
+| 456 | 321 | Montego Allen |
+| 457 | 320 | Shanns |
+| 458 | 319 | Donnie Withthebody |
 | 459 | 319 | Nora Mahmoud |
-| 460 | 318 | Clint Mcdowell |
+| 460 | 319 | MACHETEEDDIE513 |
 | 461 | 318 | Nerdy Snapfall |
-| 462 | 317 | Sammie Walker |
-| 463 | 316 | Brittany Fells |
-| 464 | 315 | Alivia Dove |
-| 465 | 314 | Kristine Marie Palmer |
-| 466 | 314 | The DUBZ |
-| 467 | 314 | Tay |
-| 468 | 313 | Dizzy Dashy |
-| 469 | 313 | Bubbly Slammer |
-| 470 | 312 | Manda Allen |
+| 462 | 318 | Clint Mcdowell |
+| 463 | 317 | Sammie Walker |
+| 464 | 316 | Brittany Fells |
+| 465 | 315 | Alivia Dove |
+| 466 | 314 | Tay |
+| 467 | 314 | Kristine Marie Palmer |
+| 468 | 314 | The DUBZ |
+| 469 | 313 | Dizzy Dashy |
+| 470 | 313 | Bubbly Slammer |
 | 471 | 312 | Sharee Robinson |
 | 472 | 311 | Sarah Steckbauer |
-| 473 | 310 | Christi Walker Patton |
-| 474 | 310 | Eric Spencer Whitaker |
-| 475 | 310 | Yadira Salgado |
+| 473 | 310 | Eric Spencer Whitaker |
+| 474 | 310 | Yadira Salgado |
+| 475 | 310 | Christi Walker Patton |
 | 476 | 309 | Chris Rogers |
-| 477 | 308 | Tonya Lee Sanders |
-| 478 | 308 | Bold Clusterer |
-| 479 | 308 | Darrel K Pemberton |
-| 480 | 307 | Shakmar |
-| 481 | 307 | Crystal Cheresnowsky |
-| 482 | 306 | Mafio SO |
-| 483 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 477 | 308 | Darrel K Pemberton |
+| 478 | 308 | Tonya Lee Sanders |
+| 479 | 308 | Bold Clusterer |
+| 480 | 307 | Crystal Cheresnowsky |
+| 481 | 307 | Shakmar |
+| 482 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 483 | 306 | Mafio SO |
 | 484 | 305 | C Lo Green |
 | 485 | 302 | Abigail Newman Sweet |
-| 486 | 301 | Earl Williams |
-| 487 | 301 | Holly Baker |
-| 488 | 300 | Phillip White |
-| 489 | 300 | Teddy Davis |
-| 490 | 300 | SherylU |
-| 491 | 300 | Malcolm Stanley |
+| 486 | 301 | Holly Baker |
+| 487 | 301 | Earl Williams |
+| 488 | 300 | Malcolm Stanley |
+| 489 | 300 | Phillip White |
+| 490 | 300 | Teddy Davis |
+| 491 | 300 | SherylU |
 | 492 | 299 | Charlene Baltimore |
 | 493 | 299 | Frilly Shatterline |
 | 494 | 298 | Slinky Snapbuilder |
@@ -549,28 +549,28 @@
 | 541 | 276 | Aaron Hartmann |
 | 542 | 275 | Chris Sladoje |
 | 543 | 275 | Falisa Bell |
-| 544 | 274 | Breezy Catcher |
-| 545 | 274 | Zany Breaker |
+| 544 | 274 | Zany Breaker |
+| 545 | 274 | Kimberly Anderson |
 | 546 | 274 | FunTime |
-| 547 | 273 | Brittnay Wright |
-| 548 | 273 | Kimmie Gargano |
-| 549 | 273 | Vera Beckford |
-| 550 | 273 | Kamilya Rembert |
-| 551 | 272 | ChunLi |
-| 552 | 272 | wmedina67 |
-| 553 | 272 | Tanisha Taylor |
-| 554 | 272 | Felicia Dungey |
-| 555 | 272 | Koreen Johnson-Woolford |
-| 556 | 269 | BonnieB |
-| 557 | 269 | Stephanie L Jeffries Moultrie |
-| 558 | 268 | Casey Chapman |
-| 559 | 268 | Monica Tovar |
-| 560 | 267 | James Bryant II |
-| 561 | 266 | Valerie Alexander |
+| 547 | 274 | Breezy Catcher |
+| 548 | 273 | Kamilya Rembert |
+| 549 | 273 | Brittnay Wright |
+| 550 | 273 | Vera Beckford |
+| 551 | 273 | Kimmie Gargano |
+| 552 | 272 | Felicia Dungey |
+| 553 | 272 | ChunLi |
+| 554 | 272 | wmedina67 |
+| 555 | 272 | Tanisha Taylor |
+| 556 | 272 | Koreen Johnson-Woolford |
+| 557 | 269 | BonnieB |
+| 558 | 269 | Stephanie L Jeffries Moultrie |
+| 559 | 268 | Casey Chapman |
+| 560 | 268 | Monica Tovar |
+| 561 | 267 | James Bryant II |
 | 562 | 266 | Chris Holland |
-| 563 | 265 | SceneGreenz Wali |
-| 564 | 265 | Kortney Adams |
-| 565 | 265 | Kimberly Anderson |
+| 563 | 266 | Valerie Alexander |
+| 564 | 265 | SceneGreenz Wali |
+| 565 | 265 | Kortney Adams |
 | 566 | 264 | Juan Santiago |
 | 567 | 263 | Stephanie Ellis |
 | 568 | 261 | PSD |
