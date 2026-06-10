@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:56:42 UTC
+# Standings for team4 as of 2026-06-10 21:57:23 UTC
 
 **Total Participants:** 2381
 
@@ -708,27 +708,27 @@
 | 700 | 243 | Anna Ryan |
 | 701 | 243 | Stotty |
 | 702 | 243 | Playful Raccoon |
-| 703 | 242 | Redhead girl |
-| 704 | 242 | Deb 07 |
-| 705 | 242 | MrLoner Stoner |
+| 703 | 242 | Deb 07 |
+| 704 | 242 | MrLoner Stoner |
+| 705 | 242 | Redhead girl |
 | 706 | 241 | Memphiago Tenninois |
-| 707 | 241 | Seraphim Mabry |
-| 708 | 240 | Lori Lynn |
-| 709 | 240 | Pebbles Gonzalez |
-| 710 | 240 | 1694AF |
+| 707 | 241 | LaToya LeBlanc |
+| 708 | 241 | Seraphim Mabry |
+| 709 | 240 | Lori Lynn |
+| 710 | 240 | Pebbles Gonzalez |
 | 711 | 240 | Nerdy Brickster |
-| 712 | 239 | Chelle Williams |
-| 713 | 238 | LaToya LeBlanc |
-| 714 | 238 | Amanda Snow |
-| 715 | 238 | Allysonjo Varela |
+| 712 | 240 | 1694AF |
+| 713 | 239 | Chelle Williams |
+| 714 | 238 | Mint Marquez |
+| 715 | 238 | Amanda Snow |
 | 716 | 238 | Tara Delay Hill |
-| 717 | 238 | Mint Marquez |
+| 717 | 238 | Allysonjo Varela |
 | 718 | 238 | Capt'n Crunch |
 | 719 | 237 | Erica Pompey |
-| 720 | 236 | Deana Teck |
-| 721 | 236 | Trang Nguyen |
-| 722 | 236 | GETBOXED! |
-| 723 | 236 | JoJo Hutson |
+| 720 | 236 | Trang Nguyen |
+| 721 | 236 | JoJo Hutson |
+| 722 | 236 | Deana Teck |
+| 723 | 236 | GETBOXED! |
 | 724 | 235 | Trishaann Triplett |
 | 725 | 234 | Paula Renee McCracken |
 | 726 | 234 | Alizabeth Garcia |
@@ -738,8 +738,8 @@
 | 730 | 231 | Tamara Gay |
 | 731 | 231 | Khiem Hernandez |
 | 732 | 231 | Lora Schallert |
-| 733 | 230 | Lord Solrac |
-| 734 | 230 | Billy Baker |
+| 733 | 230 | Billy Baker |
+| 734 | 230 | Lord Solrac |
 | 735 | 230 | Breezy Brickline |
 | 736 | 229 | Marcus Chavis |
 | 737 | 229 | chuck |
