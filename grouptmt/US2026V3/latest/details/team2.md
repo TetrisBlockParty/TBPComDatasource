@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 15:08:46 UTC
+# Standings for team2 as of 2026-06-10 15:09:23 UTC
 
 **Total Participants:** 2762
 
@@ -250,15 +250,15 @@
 | 242 | 754 | Zarah Kettler |
 | 243 | 754 | Sabrina Hardrick |
 | 244 | 750 | Tisha Hairston |
-| 245 | 748 | Ackerman 85 |
-| 246 | 746 | Dsabrina Maxey |
-| 247 | 741 | Kim Hunt |
-| 248 | 741 | Theresa Huddleston |
-| 249 | 740 | Sharon L Brazelton |
-| 250 | 739 | Avie Lou |
-| 251 | 736 | Nikki Carter |
-| 252 | 734 | Chris Cooper |
-| 253 | 734 | Chasity Simpson |
+| 245 | 750 | Chasity Simpson |
+| 246 | 748 | Ackerman 85 |
+| 247 | 746 | Dsabrina Maxey |
+| 248 | 745 | Avie Lou |
+| 249 | 741 | Theresa Huddleston |
+| 250 | 741 | Kim Hunt |
+| 251 | 740 | Sharon L Brazelton |
+| 252 | 736 | Nikki Carter |
+| 253 | 734 | Chris Cooper |
 | 254 | 734 | Kellie Sharp Godfrey |
 | 255 | 729 | Nikki EightySixed |
 | 256 | 728 | Tim Tim |
@@ -281,8 +281,8 @@
 | 273 | 690 | Starr Collins |
 | 274 | 687 | Zach Jewett |
 | 275 | 679 | True |
-| 276 | 676 | La chulis |
-| 277 | 676 | Laverne Ellis Blair |
+| 276 | 676 | Laverne Ellis Blair |
+| 277 | 676 | La chulis |
 | 278 | 671 | Gloria May Shook |
 | 279 | 671 | Breeana Bennett |
 | 280 | 671 | Krystal Hummel |
@@ -296,8 +296,8 @@
 | 288 | 652 | Lyric Price |
 | 289 | 651 | Wacky Rollbuilder |
 | 290 | 650 | Jennifer Smith |
-| 291 | 648 | Kaycie Shaffer |
-| 292 | 648 | Kathleen Dumbazz |
+| 291 | 648 | Kathleen Dumbazz |
+| 292 | 648 | Kaycie Shaffer |
 | 293 | 643 | Jodi Johnson |
 | 294 | 642 | Bri St Peter |
 | 295 | 640 | Nancy Schwartz Gusman-Oliver |
@@ -327,8 +327,8 @@
 | 319 | 603 | Kay |
 | 320 | 603 | Jason Cunningham |
 | 321 | 598 | James Ward |
-| 322 | 595 | Amy Taylor Pomerenk |
-| 323 | 595 | Sherri E Woods Hess |
+| 322 | 595 | Sherri E Woods Hess |
+| 323 | 595 | Amy Taylor Pomerenk |
 | 324 | 594 | Zany Blockclear |
 | 325 | 594 | Kristi Chestnut |
 | 326 | 594 | Sandra Ruiz |
@@ -685,11 +685,11 @@
 | 677 | 290 | Errkuh |
 | 678 | 290 | Cool Cornerfall |
 | 679 | 289 | Holly Barefoot |
-| 680 | 289 | Stella |
-| 681 | 288 | Sunny Tiltbuilder |
-| 682 | 288 | Wendy Mcbride |
-| 683 | 288 | Chilly Surge |
-| 684 | 288 | Clever Fallmatch |
+| 680 | 289 | Clever Fallmatch |
+| 681 | 289 | Stella |
+| 682 | 288 | Sunny Tiltbuilder |
+| 683 | 288 | Wendy Mcbride |
+| 684 | 288 | Chilly Surge |
 | 685 | 288 | Nicole Suber |
 | 686 | 287 | Carl Mccoy |
 | 687 | 287 | Nicole Ashbaugh |
