@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 03:18:46 UTC
+# Standings for team4 as of 2026-06-10 03:19:22 UTC
 
 **Total Participants:** 2246
 
@@ -43,7 +43,7 @@
 | 35 | 4163 | Witty Clicky |
 | 36 | 4150 | TitiLo72 |
 | 37 | 4048 | Leah Barnett |
-| 38 | 3908 | Leigh Pierce |
+| 38 | 3918 | Leigh Pierce |
 | 39 | 3810 | Blind Bette |
 | 40 | 3776 | Dana Smith |
 | 41 | 3762 | Dana Rinaldi |
@@ -468,7 +468,7 @@
 | 460 | 301 | Winter Moon |
 | 461 | 301 | Tiffany Morris Garner |
 | 462 | 300 | Garden Girlie |
-| 463 | 299 | Scrumptious |
+| 463 | 300 | Scrumptious |
 | 464 | 296 | beauxie |
 | 465 | 296 | Alyson M Kehler |
 | 466 | 296 | Erik Clary |
@@ -1396,59 +1396,59 @@
 | 1388 | 72 | Richard Armstrong |
 | 1389 | 72 | Kassey M. Clark |
 | 1390 | 72 | Heather Hilferty |
-| 1391 | 71 | ImagineKaijus |
-| 1392 | 71 | Violet Mejia |
-| 1393 | 71 | Bouncy Blockclear |
-| 1394 | 71 | Monique Kitzmiller |
-| 1395 | 71 | Sydney Taylor Sileno |
-| 1396 | 71 | Jessica Armistead |
-| 1397 | 71 | Tipsy Curvetile |
-| 1398 | 71 | Hyper Snaplink |
-| 1399 | 70 | Uh Lesh Uh |
-| 1400 | 70 | Felicia May Langley |
-| 1401 | 70 | Jada Jordyn Campbell |
-| 1402 | 70 | Dustin Bell |
-| 1403 | 70 | T boo |
-| 1404 | 70 | rick mase |
-| 1405 | 70 | Kelli Wells Fuhr |
-| 1406 | 70 | Syreeta B Robinson |
-| 1407 | 69 | Liz R |
-| 1408 | 69 | Felicity Fahrentin |
-| 1409 | 69 | Tina Lopez |
-| 1410 | 69 | Monica Selwyn |
-| 1411 | 69 | LaShieka Noland |
+| 1391 | 71 | Sydney Taylor Sileno |
+| 1392 | 71 | Bouncy Blockclear |
+| 1393 | 71 | Tipsy Curvetile |
+| 1394 | 71 | Jessica Armistead |
+| 1395 | 71 | Monique Kitzmiller |
+| 1396 | 71 | Hyper Snaplink |
+| 1397 | 71 | Violet Mejia |
+| 1398 | 71 | ImagineKaijus |
+| 1399 | 70 | Syreeta B Robinson |
+| 1400 | 70 | rick mase |
+| 1401 | 70 | Kelli Wells Fuhr |
+| 1402 | 70 | Uh Lesh Uh |
+| 1403 | 70 | Felicia May Langley |
+| 1404 | 70 | T boo |
+| 1405 | 70 | Jada Jordyn Campbell |
+| 1406 | 70 | Dustin Bell |
+| 1407 | 69 | Felicity Fahrentin |
+| 1408 | 69 | Tina Lopez |
+| 1409 | 69 | Liz R |
+| 1410 | 69 | LaShieka Noland |
+| 1411 | 69 | Kristin Ussery |
 | 1412 | 69 | Derrek Lee |
-| 1413 | 69 | Kristin Ussery |
+| 1413 | 69 | Monica Selwyn |
 | 1414 | 68 | Anna Griego |
 | 1415 | 68 | Renée Neè Neè |
-| 1416 | 68 | Kelley Shoop |
-| 1417 | 68 | Kelly Kabelac Loomis |
-| 1418 | 68 | Rizzler26 |
-| 1419 | 68 | Keys Tome |
-| 1420 | 68 | Bold Snapper |
-| 1421 | 67 | Snoopie Johnson |
-| 1422 | 67 | Suzie |
-| 1423 | 67 | Jamie Wilson |
-| 1424 | 67 | Diane Donahue |
+| 1416 | 68 | Keys Tome |
+| 1417 | 68 | Bold Snapper |
+| 1418 | 68 | Kelley Shoop |
+| 1419 | 68 | Kelly Kabelac Loomis |
+| 1420 | 68 | Rizzler26 |
+| 1421 | 67 | Diane Donahue |
+| 1422 | 67 | Wacky Snaplink |
+| 1423 | 67 | Beezy |
+| 1424 | 67 | Jamie Wilson |
 | 1425 | 67 | Glittara |
-| 1426 | 67 | Beezy |
-| 1427 | 67 | Wacky Snaplink |
+| 1426 | 67 | Athena Hunt |
+| 1427 | 67 | Suzie |
 | 1428 | 67 | Amanda KN |
 | 1429 | 67 | Lakeshia Holman |
 | 1430 | 67 | Regina N Johnson |
 | 1431 | 67 | PL GR |
-| 1432 | 66 | Myranda Gereau |
-| 1433 | 66 | Kimberly Nkwopara |
-| 1434 | 66 | Breezy Blockzone |
-| 1435 | 66 | Komikeh White |
-| 1436 | 66 | Cheery Basegrid |
-| 1437 | 66 | Athena Hunt |
+| 1432 | 67 | Snoopie Johnson |
+| 1433 | 66 | Myranda Gereau |
+| 1434 | 66 | Kimberly Nkwopara |
+| 1435 | 66 | Breezy Blockzone |
+| 1436 | 66 | Komikeh White |
+| 1437 | 66 | Cheery Basegrid |
 | 1438 | 66 | John Henry |
 | 1439 | 66 | Rio Rumble |
 | 1440 | 66 | james |
 | 1441 | 66 | Scarlett Ashley Clark |
-| 1442 | 65 | Rell geez |
-| 1443 | 65 | Mamissa |
+| 1442 | 65 | Mamissa |
+| 1443 | 65 | Rell geez |
 | 1444 | 65 | Chachi |
 | 1445 | 65 | Aliyah Abdella |
 | 1446 | 65 | BrokenDiamond |
@@ -1460,17 +1460,17 @@
 | 1452 | 65 | Gabby Simones |
 | 1453 | 65 | Vanessa Pritchett |
 | 1454 | 65 | Ginnie Strate |
-| 1455 | 64 | Jessica Lestage |
-| 1456 | 64 | EJ Frazier |
+| 1455 | 64 | EJ Frazier |
+| 1456 | 64 | Jessica Lestage |
 | 1457 | 64 | Lizzie McGuire |
 | 1458 | 64 | Jennifer Tate |
 | 1459 | 64 | Christopher Farias |
 | 1460 | 64 | Daring Brickbuilder |
 | 1461 | 63 | Snazzy Balanceblock |
-| 1462 | 63 | Colin hollenbeck |
+| 1462 | 63 | Glitzy Crasher |
 | 1463 | 63 | Amina Walker |
 | 1464 | 63 | Charles Chauffe |
-| 1465 | 63 | Glitzy Crasher |
+| 1465 | 63 | Colin hollenbeck |
 | 1466 | 63 | -daiko |
 | 1467 | 63 | EKM |
 | 1468 | 62 | Zippy Snaplink |

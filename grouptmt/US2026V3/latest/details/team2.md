@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 03:18:46 UTC
+# Standings for team2 as of 2026-06-10 03:19:22 UTC
 
 **Total Participants:** 2663
 
@@ -114,12 +114,12 @@
 | 106 | 1584 | Charlie Wilson |
 | 107 | 1570 | Smiley Dropper |
 | 108 | 1563 | Amber Triguero |
-| 109 | 1552 | Ruby Sandberg |
-| 110 | 1547 | Lily |
-| 111 | 1543 | Eileen Egan |
-| 112 | 1527 | Amber Salazar |
-| 113 | 1510 | Shandrea Crawford |
-| 114 | 1497 | Daybreak |
+| 109 | 1557 | Daybreak |
+| 110 | 1552 | Ruby Sandberg |
+| 111 | 1547 | Lily |
+| 112 | 1543 | Eileen Egan |
+| 113 | 1527 | Amber Salazar |
+| 114 | 1510 | Shandrea Crawford |
 | 115 | 1479 | Loopy Curvebuilder |
 | 116 | 1460 | Cathy Tippett |
 | 117 | 1423 | Amber-leigh Williams |
@@ -183,8 +183,8 @@
 | 175 | 901 | AndrewandShela Gornik |
 | 176 | 899 | Marie Luciano |
 | 177 | 898 | Giggly Wipepiece |
-| 178 | 873 | Carebear05 |
-| 179 | 868 | Sara Perkins |
+| 178 | 883 | Sara Perkins |
+| 179 | 873 | Carebear05 |
 | 180 | 867 | Le Sandy |
 | 181 | 866 | Robin G |
 | 182 | 865 | Theresa Hollinger |
@@ -198,21 +198,21 @@
 | 190 | 826 | Jgato |
 | 191 | 826 | H |
 | 192 | 825 | Brandon Link |
-| 193 | 822 | Glitzy Base |
-| 194 | 820 | Krisanne Kesner-Lonsby |
-| 195 | 813 | Loony Faller |
-| 196 | 810 | Zachary Vymislicky |
-| 197 | 808 | Crystal Allen |
-| 198 | 806 | Kellie Montgomery |
-| 199 | 805 | Lashanda Bertram |
-| 200 | 805 | Nicole Hogue |
-| 201 | 803 | Amanda Sikes |
-| 202 | 801 | Alicia Kinney |
-| 203 | 800 | Ashley Green |
-| 204 | 798 | Rob Owens |
-| 205 | 798 | Jamie Jones |
-| 206 | 797 | Perii Reynoso |
-| 207 | 794 | Kurt Brown |
+| 193 | 822 | Kurt Brown |
+| 194 | 822 | Glitzy Base |
+| 195 | 820 | Krisanne Kesner-Lonsby |
+| 196 | 813 | Loony Faller |
+| 197 | 810 | Zachary Vymislicky |
+| 198 | 808 | Crystal Allen |
+| 199 | 806 | Kellie Montgomery |
+| 200 | 805 | Lashanda Bertram |
+| 201 | 805 | Nicole Hogue |
+| 202 | 803 | Amanda Sikes |
+| 203 | 801 | Alicia Kinney |
+| 204 | 800 | Ashley Green |
+| 205 | 798 | Rob Owens |
+| 206 | 798 | Jamie Jones |
+| 207 | 797 | Perii Reynoso |
 | 208 | 791 | Sandy Lynn |
 | 209 | 785 | MegaPooh |
 | 210 | 784 | Steven Craig |
@@ -608,11 +608,11 @@
 | 600 | 296 | Sassy Patternblock |
 | 601 | 296 | Joanne Fish |
 | 602 | 296 | Meagan Grimmett Washburn |
-| 603 | 294 | Amanda Bryte |
+| 603 | 295 | Nikki Hatch |
 | 604 | 294 | Frisky Linkbuilder |
-| 605 | 293 | denirocorona |
-| 606 | 292 | Raine |
-| 607 | 291 | Nikki Hatch |
+| 605 | 294 | Amanda Bryte |
+| 606 | 293 | denirocorona |
+| 607 | 292 | Raine |
 | 608 | 291 | Tara Flood |
 | 609 | 290 | Nichole Wilson |
 | 610 | 290 | Simone F |
@@ -1047,30 +1047,30 @@
 | 1039 | 163 | Zany Cascader |
 | 1040 | 163 | Fancy Stacker |
 | 1041 | 162 | Belinda Gullion Austin |
-| 1042 | 162 | MJLovesHer#OneMistake |
-| 1043 | 162 | Kennadee Albertson |
-| 1044 | 162 | shell |
-| 1045 | 161 | Tony Williams |
-| 1046 | 161 | Carlee Becher |
-| 1047 | 161 | Alimae |
-| 1048 | 160 | Elizabeth Cornelius |
-| 1049 | 160 | Billie Jensen |
-| 1050 | 160 | AshleyM |
-| 1051 | 160 | Kaitlyn Hurst |
-| 1052 | 160 | Scott Lyles |
-| 1053 | 160 | Gloria Appleton |
-| 1054 | 160 | Debbie Davis |
-| 1055 | 160 | Kay |
-| 1056 | 160 | Cassey Feller |
-| 1057 | 160 | Tasha Gilbert |
-| 1058 | 160 | Katie Thacker |
-| 1059 | 160 | Michelle Jones |
-| 1060 | 160 | Frank Laverty |
-| 1061 | 159 | Misty Noe |
-| 1062 | 159 | Kiersty Redder |
-| 1063 | 159 | Jennifer Vitro |
-| 1064 | 159 | Funko Dave |
-| 1065 | 159 | Amanda Bailey |
+| 1042 | 162 | Alimae |
+| 1043 | 162 | MJLovesHer#OneMistake |
+| 1044 | 162 | Kennadee Albertson |
+| 1045 | 162 | shell |
+| 1046 | 161 | Tony Williams |
+| 1047 | 161 | Carlee Becher |
+| 1048 | 160 | Scott Lyles |
+| 1049 | 160 | Gloria Appleton |
+| 1050 | 160 | Debbie Davis |
+| 1051 | 160 | Kay |
+| 1052 | 160 | Cassey Feller |
+| 1053 | 160 | Tasha Gilbert |
+| 1054 | 160 | Katie Thacker |
+| 1055 | 160 | Michelle Jones |
+| 1056 | 160 | Frank Laverty |
+| 1057 | 160 | Elizabeth Cornelius |
+| 1058 | 160 | Billie Jensen |
+| 1059 | 160 | AshleyM |
+| 1060 | 160 | Kaitlyn Hurst |
+| 1061 | 159 | Amanda Bailey |
+| 1062 | 159 | Misty Noe |
+| 1063 | 159 | Kiersty Redder |
+| 1064 | 159 | Jennifer Vitro |
+| 1065 | 159 | Funko Dave |
 | 1066 | 158 | STARFIRE |
 | 1067 | 158 | Samantha LeBlanc |
 | 1068 | 158 | Laura Anderson |
@@ -1126,61 +1126,61 @@
 | 1118 | 150 | Roger Kee |
 | 1119 | 150 | Binska |
 | 1120 | 149 | Catalina Castro |
-| 1121 | 149 | LilMs101 |
-| 1122 | 149 | Dustin Bumbalough |
-| 1123 | 149 | Michelle Feliciano |
-| 1124 | 149 | bozzycat |
-| 1125 | 149 | Christina Kearns |
-| 1126 | 148 | Annie Hebdon |
-| 1127 | 148 | Christina Whitehead |
-| 1128 | 148 | Amanda Jungclaus |
-| 1129 | 148 | wutrwerdz |
-| 1130 | 147 | Shay Lynn King |
-| 1131 | 147 | Erica Abreu |
-| 1132 | 147 | Terie Safrit |
-| 1133 | 147 | Trisha Farley |
-| 1134 | 146 | Jacy Pickett |
-| 1135 | 146 | Candace Mihm |
+| 1121 | 149 | DirtySweet84 |
+| 1122 | 149 | LilMs101 |
+| 1123 | 149 | Dustin Bumbalough |
+| 1124 | 149 | Michelle Feliciano |
+| 1125 | 149 | bozzycat |
+| 1126 | 149 | Christina Kearns |
+| 1127 | 148 | Annie Hebdon |
+| 1128 | 148 | Christina Whitehead |
+| 1129 | 148 | Amanda Jungclaus |
+| 1130 | 148 | wutrwerdz |
+| 1131 | 147 | Shay Lynn King |
+| 1132 | 147 | Erica Abreu |
+| 1133 | 147 | Terie Safrit |
+| 1134 | 147 | Trisha Farley |
+| 1135 | 146 | Jacy Pickett |
 | 1136 | 146 | Kendra Sullins |
 | 1137 | 146 | Glitzy Stack |
 | 1138 | 146 | Stazy Warner |
-| 1139 | 146 | Jessica Veness-Toth |
-| 1140 | 145 | Thtbrwnsknflla |
+| 1139 | 146 | Candace Mihm |
+| 1140 | 146 | Jessica Veness-Toth |
 | 1141 | 145 | Que Henderson |
-| 1142 | 145 | Meagan Thompson |
-| 1143 | 145 | Pamela Gambrell |
-| 1144 | 144 | Kelly Christine Trimmer |
-| 1145 | 144 | James Maness |
-| 1146 | 144 | Calah Amore |
+| 1142 | 145 | Thtbrwnsknflla |
+| 1143 | 145 | Meagan Thompson |
+| 1144 | 145 | Pamela Gambrell |
+| 1145 | 144 | Kelly Christine Trimmer |
+| 1146 | 144 | James Maness |
 | 1147 | 144 | Megan McDevitt |
 | 1148 | 144 | Steven Moore |
-| 1149 | 143 | Jeannine Murphy |
-| 1150 | 143 | Sam Schwieso |
-| 1151 | 143 | Louis Brudzinski |
-| 1152 | 143 | Beej Blake |
-| 1153 | 142 | Lu Wallace |
-| 1154 | 142 | blockrocker |
-| 1155 | 142 | Brian Little |
-| 1156 | 142 | Jacob Corrales |
+| 1149 | 144 | Calah Amore |
+| 1150 | 143 | Jeannine Murphy |
+| 1151 | 143 | Sam Schwieso |
+| 1152 | 143 | Louis Brudzinski |
+| 1153 | 143 | Beej Blake |
+| 1154 | 142 | Lu Wallace |
+| 1155 | 142 | blockrocker |
+| 1156 | 142 | Brian Little |
 | 1157 | 142 | Sarai Coronado |
-| 1158 | 141 | mee |
-| 1159 | 141 | Purpleroyalty11 |
-| 1160 | 140 | Michelle Edgin Tranbarger |
-| 1161 | 140 | Laura Turner |
-| 1162 | 140 | Peppy Piececlear |
-| 1163 | 140 | Michelle Fry-Cash |
-| 1164 | 140 | Signerlisa |
-| 1165 | 140 | Alice Petterborg Barberich |
-| 1166 | 140 | Robert Fenton |
-| 1167 | 140 | Tracy Coe |
-| 1168 | 140 | Unicornlvr |
-| 1169 | 140 | Bubbly Liner |
-| 1170 | 140 | Tiffany Ann |
-| 1171 | 140 | Nerdy Spinfit |
-| 1172 | 140 | Anita Blackshear |
-| 1173 | 140 | Tonya Greger |
-| 1174 | 140 | Kim Hoopes Townsend |
-| 1175 | 139 | DirtySweet84 |
+| 1158 | 142 | Jacob Corrales |
+| 1159 | 141 | mee |
+| 1160 | 141 | Purpleroyalty11 |
+| 1161 | 140 | Michelle Edgin Tranbarger |
+| 1162 | 140 | Laura Turner |
+| 1163 | 140 | Peppy Piececlear |
+| 1164 | 140 | Michelle Fry-Cash |
+| 1165 | 140 | Signerlisa |
+| 1166 | 140 | Tracy Coe |
+| 1167 | 140 | Unicornlvr |
+| 1168 | 140 | Robert Fenton |
+| 1169 | 140 | Tiffany Ann |
+| 1170 | 140 | Nerdy Spinfit |
+| 1171 | 140 | Anita Blackshear |
+| 1172 | 140 | Kim Hoopes Townsend |
+| 1173 | 140 | Alice Petterborg Barberich |
+| 1174 | 140 | Tonya Greger |
+| 1175 | 140 | Bubbly Liner |
 | 1176 | 139 | CAL1KAWS559 |
 | 1177 | 139 | Frisky Linkmatch |
 | 1178 | 139 | Jennifer Lauzon |
@@ -1664,8 +1664,8 @@
 | 1656 | 72 | Aubrey Gates |
 | 1657 | 72 | Nicole Dyer |
 | 1658 | 72 | Stacy Lynn |
-| 1659 | 71 | John C Morrison |
-| 1660 | 71 | Brooke Burge |
+| 1659 | 72 | Brooke Burge |
+| 1660 | 71 | John C Morrison |
 | 1661 | 71 | whocares |
 | 1662 | 71 | Angela Anderson |
 | 1663 | 71 | Nicole Immoos |
