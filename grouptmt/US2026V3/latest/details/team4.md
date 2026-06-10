@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 07:42:44 UTC
+# Standings for team4 as of 2026-06-10 07:43:23 UTC
 
 **Total Participants:** 2294
 
@@ -38,7 +38,7 @@
 | 30 | 4750 | Jackie Lucas |
 | 31 | 4696 | Chummy Rollzone |
 | 32 | 4533 | Juan Ford |
-| 33 | 4359 | Victoria Ver |
+| 33 | 4360 | Victoria Ver |
 | 34 | 4277 | Tonya Brooks-Johnson |
 | 35 | 4179 | Witty Clicky |
 | 36 | 4150 | TitiLo72 |
@@ -854,13 +854,13 @@
 | 846 | 175 | Leslie Ramos |
 | 847 | 175 | kaykay |
 | 848 | 175 | Nerdy Glider |
-| 849 | 174 | Michelle Michelle |
-| 850 | 174 | Christy Petty |
-| 851 | 174 | Eddie Fuller |
-| 852 | 174 | Japexican Strong |
-| 853 | 173 | Lizard |
-| 854 | 173 | Scot Matthew Bergdorf |
-| 855 | 173 | SueSally |
+| 849 | 175 | SueSally |
+| 850 | 174 | Michelle Michelle |
+| 851 | 174 | Christy Petty |
+| 852 | 174 | Eddie Fuller |
+| 853 | 174 | Japexican Strong |
+| 854 | 173 | Lizard |
+| 855 | 173 | Scot Matthew Bergdorf |
 | 856 | 173 | Chelsea Guajardo |
 | 857 | 173 | Tarsha Thomas-Martinez |
 | 858 | 172 | Poptart |
@@ -1479,48 +1479,48 @@
 | 1471 | 66 | Kimberly Nkwopara |
 | 1472 | 66 | Breezy Blockzone |
 | 1473 | 66 | Groovy Linkmatch |
-| 1474 | 65 | Ginnie Strate |
-| 1475 | 65 | Frances Walker |
-| 1476 | 65 | Hannah Harkness |
-| 1477 | 65 | nanaz86 |
-| 1478 | 65 | BrokenDiamond |
-| 1479 | 65 | Selina Moore |
-| 1480 | 65 | Gabby Simones |
-| 1481 | 65 | Chachi |
-| 1482 | 65 | Rell geez |
-| 1483 | 65 | Mamissa |
-| 1484 | 65 | Dewy |
-| 1485 | 64 | Daring Brickbuilder |
-| 1486 | 64 | Matt Akm |
-| 1487 | 64 | Christopher Farias |
-| 1488 | 64 | Lizzie McGuire |
-| 1489 | 64 | EJ Frazier |
-| 1490 | 64 | Jessica Lestage |
-| 1491 | 64 | Jennifer Tate |
-| 1492 | 63 | -daiko |
-| 1493 | 63 | Sheries |
-| 1494 | 63 | EKM |
-| 1495 | 63 | Charles Chauffe |
-| 1496 | 63 | Snazzy Balanceblock |
-| 1497 | 63 | Glitzy Crasher |
-| 1498 | 63 | Colin hollenbeck |
-| 1499 | 63 | Amina Walker |
-| 1500 | 63 | Jess |
-| 1501 | 62 | Calleen Ellen Madrigal |
-| 1502 | 62 | Mafer |
-| 1503 | 62 | Danielle Church |
-| 1504 | 62 | Pretty_Rican |
-| 1505 | 62 | Zippy Snaplink |
-| 1506 | 61 | Heidi Lyn Ramirez |
-| 1507 | 61 | Becky Bernazal |
-| 1508 | 61 | Bouncy Brickster |
-| 1509 | 61 | Milton Lawrence |
-| 1510 | 61 | Saucy Buildgrid |
-| 1511 | 61 | Michellee Lewis |
-| 1512 | 61 | moonman33 |
-| 1513 | 61 | Breezy Striker |
-| 1514 | 61 | Crystal M. Torres |
-| 1515 | 61 | Brooke Limpf |
+| 1474 | 65 | Brooke Limpf |
+| 1475 | 65 | Ginnie Strate |
+| 1476 | 65 | Frances Walker |
+| 1477 | 65 | Hannah Harkness |
+| 1478 | 65 | nanaz86 |
+| 1479 | 65 | BrokenDiamond |
+| 1480 | 65 | Selina Moore |
+| 1481 | 65 | Gabby Simones |
+| 1482 | 65 | Chachi |
+| 1483 | 65 | Rell geez |
+| 1484 | 65 | Mamissa |
+| 1485 | 65 | Dewy |
+| 1486 | 64 | Daring Brickbuilder |
+| 1487 | 64 | Matt Akm |
+| 1488 | 64 | Christopher Farias |
+| 1489 | 64 | Lizzie McGuire |
+| 1490 | 64 | EJ Frazier |
+| 1491 | 64 | Jessica Lestage |
+| 1492 | 64 | Jennifer Tate |
+| 1493 | 63 | -daiko |
+| 1494 | 63 | Sheries |
+| 1495 | 63 | EKM |
+| 1496 | 63 | Charles Chauffe |
+| 1497 | 63 | Snazzy Balanceblock |
+| 1498 | 63 | Glitzy Crasher |
+| 1499 | 63 | Colin hollenbeck |
+| 1500 | 63 | Amina Walker |
+| 1501 | 63 | Jess |
+| 1502 | 62 | Calleen Ellen Madrigal |
+| 1503 | 62 | Mafer |
+| 1504 | 62 | Danielle Church |
+| 1505 | 62 | Pretty_Rican |
+| 1506 | 62 | Zippy Snaplink |
+| 1507 | 61 | Heidi Lyn Ramirez |
+| 1508 | 61 | Becky Bernazal |
+| 1509 | 61 | Bouncy Brickster |
+| 1510 | 61 | Milton Lawrence |
+| 1511 | 61 | Saucy Buildgrid |
+| 1512 | 61 | Michellee Lewis |
+| 1513 | 61 | moonman33 |
+| 1514 | 61 | Breezy Striker |
+| 1515 | 61 | Crystal M. Torres |
 | 1516 | 61 | Melani Hajny |
 | 1517 | 61 | Wacky Brickmatch |
 | 1518 | 60 | Jeffrey Mann |
@@ -1546,8 +1546,8 @@
 | 1538 | 59 | Geneva Mixon |
 | 1539 | 59 | Remii |
 | 1540 | 59 | Chyla Burns |
-| 1541 | 58 | Rebecca Dix |
-| 1542 | 58 | Oscar Flores |
+| 1541 | 58 | Oscar Flores |
+| 1542 | 58 | Rebecca Dix |
 | 1543 | 58 | Net |
 | 1544 | 58 | Epic Curver |
 | 1545 | 58 | Grace Mariie |
@@ -1597,9 +1597,9 @@
 | 1589 | 55 | Cauntay Youngking Williams |
 | 1590 | 55 | Komet Tyler |
 | 1591 | 55 | Sherell Bowens |
-| 1592 | 54 | MaximalBoss24 |
-| 1593 | 54 | Julia Gareis |
-| 1594 | 54 | Dandy Clusterbuilder |
+| 1592 | 54 | Dandy Clusterbuilder |
+| 1593 | 54 | MaximalBoss24 |
+| 1594 | 54 | Julia Gareis |
 | 1595 | 54 | Giggly Roll |
 | 1596 | 54 | Shannon Quinn-ayala |
 | 1597 | 54 | Toya Rimson |
@@ -1628,12 +1628,12 @@
 | 1620 | 51 | Breezy Clusterfit |
 | 1621 | 51 | Tonya Cross |
 | 1622 | 51 | Joshua Doucette |
-| 1623 | 51 | Jenny Cabral |
-| 1624 | 51 | Gareth |
+| 1623 | 51 | Gareth |
+| 1624 | 51 | Jenny Cabral |
 | 1625 | 50 | Kate Clevinger |
-| 1626 | 50 | Hasty Patternline |
+| 1626 | 50 | Jazzy Brickfit |
 | 1627 | 50 | Natalie Lane |
-| 1628 | 50 | Jazzy Brickfit |
+| 1628 | 50 | Hasty Patternline |
 | 1629 | 50 | PabloX |
 | 1630 | 50 | Speedy Snapclear |
 | 1631 | 50 | Jacqueline Wright |
@@ -1645,10 +1645,10 @@
 | 1637 | 49 | smarty |
 | 1638 | 49 | Karen Riexinger |
 | 1639 | 49 | Merrick Marion |
-| 1640 | 49 | Giggly Tilebuilder |
+| 1640 | 49 | Mammoth |
 | 1641 | 49 | Naomi Wixon |
 | 1642 | 49 | Ramona Rosado |
-| 1643 | 49 | Mammoth |
+| 1643 | 49 | Giggly Tilebuilder |
 | 1644 | 48 | Rebecca Ramirez |
 | 1645 | 48 | abbie |
 | 1646 | 48 | Jessica Smith |
@@ -1666,8 +1666,8 @@
 | 1658 | 47 | Kaity Cody |
 | 1659 | 47 | Frby Amberr |
 | 1660 | 47 | Jaison Horton |
-| 1661 | 47 | Hakiem Shorter |
-| 1662 | 47 | andy |
+| 1661 | 47 | andy |
+| 1662 | 47 | Hakiem Shorter |
 | 1663 | 47 | Danyale Collins |
 | 1664 | 47 | Jason Shertzer |
 | 1665 | 47 | DNA |
