@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:56:47 UTC
+# Standings for team1 as of 2026-06-10 20:57:24 UTC
 
 **Total Participants:** 2342
 
@@ -455,21 +455,21 @@
 | 447 | 369 | Guard Up |
 | 448 | 368 | Cortaz Lawrie |
 | 449 | 368 | Jelyfish |
-| 450 | 366 | Shalya Terry |
-| 451 | 365 | Brittnay Wright |
-| 452 | 365 | TieMs BHughez |
-| 453 | 364 | Kimberly Anderson |
-| 454 | 363 | Brittany Fells |
-| 455 | 363 | Jolly Tilefall |
-| 456 | 363 | Christina Rebecca |
-| 457 | 363 | Tesiree Cray |
-| 458 | 362 | SweetByNBy |
-| 459 | 362 | Chirpy Buildgrid |
+| 450 | 367 | Chirpy Buildgrid |
+| 451 | 366 | Shalya Terry |
+| 452 | 365 | Brittnay Wright |
+| 453 | 365 | TieMs BHughez |
+| 454 | 364 | Kimberly Anderson |
+| 455 | 363 | Brittany Fells |
+| 456 | 363 | Jolly Tilefall |
+| 457 | 363 | Christina Rebecca |
+| 458 | 363 | Tesiree Cray |
+| 459 | 362 | SweetByNBy |
 | 460 | 362 | Ryan Runyan |
 | 461 | 361 | Stephen Glaze |
 | 462 | 361 | C Lo Green |
-| 463 | 361 | Lakiesha Crawford |
-| 464 | 361 | Crystal Cheresnowsky |
+| 463 | 361 | Crystal Cheresnowsky |
+| 464 | 361 | Lakiesha Crawford |
 | 465 | 361 | John Staub |
 | 466 | 360 | Peppy Towerbuilder |
 | 467 | 360 | Teri Marie Clayton |
@@ -618,67 +618,67 @@
 | 610 | 279 | Loopy Tiler |
 | 611 | 278 | AnnaM |
 | 612 | 276 | Chris Watson Draper |
-| 613 | 276 | Antoinette Jones |
-| 614 | 276 | Peppy Glider |
-| 615 | 275 | MzJuice Box |
-| 616 | 275 | Chris Sladoje |
-| 617 | 275 | Michelle Peters |
+| 613 | 276 | Peppy Glider |
+| 614 | 276 | Antoinette Jones |
+| 615 | 275 | Chris Sladoje |
+| 616 | 275 | Michelle Peters |
+| 617 | 275 | MzJuice Box |
 | 618 | 274 | Cheryl Miller |
 | 619 | 273 | Ta'Kaiyah M. Spann |
 | 620 | 272 | Chris Holland |
 | 621 | 272 | Felicia Dungey |
 | 622 | 272 | wmedina67 |
 | 623 | 270 | Jen Hallin |
-| 624 | 269 | Tara Clarke |
-| 625 | 269 | RylonJones |
-| 626 | 269 | PSD |
-| 627 | 269 | Stephanie L Jeffries Moultrie |
+| 624 | 269 | RylonJones |
+| 625 | 269 | Tara Clarke |
+| 626 | 269 | Stephanie L Jeffries Moultrie |
+| 627 | 269 | PSD |
 | 628 | 268 | Monica Tovar |
 | 629 | 267 | Dana Hawes |
 | 630 | 267 | Adrian Harris |
-| 631 | 266 | BB |
-| 632 | 266 | Stephanie Ellis |
+| 631 | 266 | Stephanie Ellis |
+| 632 | 266 | BB |
 | 633 | 265 | Katrina Ramey |
-| 634 | 265 | Kortney Adams |
-| 635 | 265 | SceneGreenz Wali |
+| 634 | 265 | SceneGreenz Wali |
+| 635 | 265 | Kortney Adams |
 | 636 | 264 | Donna Payne |
 | 637 | 264 | Juan Santiago |
-| 638 | 263 | Kim Holzmiller |
-| 639 | 262 | Sherry D Singleton |
+| 638 | 264 | Poyre Shelton |
+| 639 | 263 | Kim Holzmiller |
 | 640 | 262 | Clipzby |
 | 641 | 262 | MamaBearTiff |
 | 642 | 262 | Melanin Monroe-Dandridge |
-| 643 | 261 | Shannon Carriger |
-| 644 | 260 | Lester Malone |
-| 645 | 260 | Ashley Danielle |
-| 646 | 260 | Carolyn Smith |
-| 647 | 260 | Nisha Sunshine Jenkins |
+| 643 | 262 | Sherry D Singleton |
+| 644 | 261 | Shannon Carriger |
+| 645 | 260 | Lester Malone |
+| 646 | 260 | Ashley Danielle |
+| 647 | 260 | Carolyn Smith |
 | 648 | 260 | Spotlight |
-| 649 | 259 | Blocksy |
-| 650 | 259 | Adrian Wilson |
-| 651 | 258 | Jose Rodriguez |
+| 649 | 260 | Nisha Sunshine Jenkins |
+| 650 | 259 | Blocksy |
+| 651 | 259 | Adrian Wilson |
 | 652 | 258 | Stronger Wiser Better |
-| 653 | 258 | Kala Miller |
-| 654 | 257 | Seddrick |
-| 655 | 257 | Darrel Pemberton |
+| 653 | 258 | Jose Rodriguez |
+| 654 | 258 | Kala Miller |
+| 655 | 257 | Seddrick |
 | 656 | 257 | Mommy Frank |
-| 657 | 256 | Anastasia |
-| 658 | 256 | Monica Fields |
-| 659 | 256 | Dannie |
-| 660 | 256 | Douglas Price |
-| 661 | 255 | Mathew Trudell |
-| 662 | 254 | Dorian Griffin |
-| 663 | 254 | Polite Granny |
+| 657 | 257 | Darrel Pemberton |
+| 658 | 256 | Anastasia |
+| 659 | 256 | Monica Fields |
+| 660 | 256 | Dannie |
+| 661 | 256 | Douglas Price |
+| 662 | 255 | Mathew Trudell |
+| 663 | 254 | Dorian Griffin |
 | 664 | 254 | Christy Quick |
-| 665 | 253 | Nyhlah Patterson |
-| 666 | 253 | Vontesha Kidd |
-| 667 | 252 | Shakuria Cortia Burney |
+| 665 | 254 | Polite Granny |
+| 666 | 253 | Nyhlah Patterson |
+| 667 | 253 | Vontesha Kidd |
 | 668 | 252 | Lazy Tiltpiece |
-| 669 | 251 | Taz Ballard |
-| 670 | 251 | Chris Nelson |
-| 671 | 250 | Tony Pizzas |
-| 672 | 250 | Rufus |
-| 673 | 249 | Poyre Shelton |
+| 669 | 252 | Shakuria Cortia Burney |
+| 670 | 251 | Taz Ballard |
+| 671 | 251 | Chris Nelson |
+| 672 | 250 | Tony Pizzas |
+| 673 | 250 | Rufus |
 | 674 | 249 | Lynn |
 | 675 | 249 | Fina McKinnis |
 | 676 | 248 | Carla |
@@ -687,29 +687,29 @@
 | 679 | 246 | Stanley Dixon |
 | 680 | 246 | Lilly Brown |
 | 681 | 246 | Karen Knapp |
-| 682 | 245 | Lynnette WheelerBushnell |
-| 683 | 245 | Tracy Feyler |
-| 684 | 245 | Loony Clearer |
-| 685 | 245 | Spicy Shatterblock |
+| 682 | 245 | Spicy Shatterblock |
+| 683 | 245 | Lynnette WheelerBushnell |
+| 684 | 245 | Tracy Feyler |
+| 685 | 245 | Loony Clearer |
 | 686 | 244 | Guy Incognito |
 | 687 | 244 | Jas |
 | 688 | 243 | Lindsey |
 | 689 | 242 | Krista McNair |
 | 690 | 242 | Smøke DGAF |
 | 691 | 242 | Tamika Rocheteau |
-| 692 | 241 | Cynthia Cruell |
-| 693 | 241 | Ad Doctor |
-| 694 | 241 | Marlynnnnn |
+| 692 | 241 | Marlynnnnn |
+| 693 | 241 | Cynthia Cruell |
+| 694 | 241 | Ad Doctor |
 | 695 | 240 | lookin |
 | 696 | 240 | Velma Jones |
 | 697 | 239 | Twisty Cascadeclear |
-| 698 | 239 | Kelley Johnson |
-| 699 | 239 | Frankey Chi |
-| 700 | 238 | B.L. Perry |
-| 701 | 238 | William Vidra |
+| 698 | 239 | Frankey Chi |
+| 699 | 239 | Kelley Johnson |
+| 700 | 238 | William Vidra |
+| 701 | 238 | B.L. Perry |
 | 702 | 238 | Silly Wiper |
-| 703 | 237 | Shalena Marie Humphrey |
-| 704 | 237 | Cranky Fall |
+| 703 | 237 | Cranky Fall |
+| 704 | 237 | Shalena Marie Humphrey |
 | 705 | 237 | Logan Frost |
 | 706 | 237 | Ameillia Boughner |
 | 707 | 237 | Mario Meliodas |
