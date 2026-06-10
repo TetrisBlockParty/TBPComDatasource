@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:06:46 UTC
+# Standings for team1 as of 2026-06-10 07:07:21 UTC
 
 **Total Participants:** 2238
 
@@ -810,46 +810,46 @@
 | 802 | 181 | Melissa Hershberger |
 | 803 | 181 | Derald Miller |
 | 804 | 181 | Spicy Tiler |
-| 805 | 180 | Keith Big-Sixx Mackell |
+| 805 | 180 | tg |
 | 806 | 180 | Tory Miller |
-| 807 | 180 | Nikita Jones |
+| 807 | 180 | Keith Big-Sixx Mackell |
 | 808 | 180 | Kanary Karotz |
 | 809 | 180 | NedaWin |
-| 810 | 179 | Wacky Stackbuilder |
-| 811 | 179 | Keith Johnson |
-| 812 | 179 | Kike Lua |
-| 813 | 179 | Naee Bee |
-| 814 | 179 | Cheery Swiper |
-| 815 | 179 | Analesia Taylor |
-| 816 | 178 | Maxine Williams |
-| 817 | 178 | Jjhandsome |
+| 810 | 180 | Nikita Jones |
+| 811 | 179 | Analesia Taylor |
+| 812 | 179 | Wacky Stackbuilder |
+| 813 | 179 | Cheery Swiper |
+| 814 | 179 | Keith Johnson |
+| 815 | 179 | Kike Lua |
+| 816 | 179 | Naee Bee |
+| 817 | 178 | Maxine Williams |
 | 818 | 178 | TRUBBLE45 |
-| 819 | 178 | Krista McNair |
-| 820 | 177 | QueenShay AllGood |
-| 821 | 177 | Tina Blessed Cage |
-| 822 | 177 | Christopher L Crites |
-| 823 | 177 | Angela Kitchens |
-| 824 | 177 | Megan Jones |
-| 825 | 176 | Squaw Ki Ng |
-| 826 | 176 | Callie Mae |
-| 827 | 176 | Poppy Smasher |
-| 828 | 176 | Frisky Gridder |
-| 829 | 176 | Terrie |
-| 830 | 176 | Alexis Alexander |
-| 831 | 176 | Crystal Garay |
-| 832 | 175 | Ozell Jones Jr. |
+| 819 | 178 | Jjhandsome |
+| 820 | 178 | Krista McNair |
+| 821 | 177 | QueenShay AllGood |
+| 822 | 177 | Tina Blessed Cage |
+| 823 | 177 | Christopher L Crites |
+| 824 | 177 | Angela Kitchens |
+| 825 | 177 | Megan Jones |
+| 826 | 176 | Frisky Gridder |
+| 827 | 176 | Alexis Alexander |
+| 828 | 176 | Squaw Ki Ng |
+| 829 | 176 | Callie Mae |
+| 830 | 176 | Poppy Smasher |
+| 831 | 176 | Terrie |
+| 832 | 176 | Crystal Garay |
 | 833 | 175 | DaemahnFriday |
-| 834 | 175 | Angie Smith |
-| 835 | 175 | Dizzy Gridmatch |
-| 836 | 175 | tg |
-| 837 | 174 | Tyler |
-| 838 | 174 | Lawanda Conley |
-| 839 | 174 | Nerdy Wipefit |
-| 840 | 174 | Kizzy Clark |
-| 841 | 174 | Jason Saputo |
+| 834 | 175 | Dizzy Gridmatch |
+| 835 | 175 | Ozell Jones Jr. |
+| 836 | 175 | Angie Smith |
+| 837 | 174 | Nerdy Wipefit |
+| 838 | 174 | Kizzy Clark |
+| 839 | 174 | Tyler |
+| 840 | 174 | Jason Saputo |
+| 841 | 174 | Lawanda Conley |
 | 842 | 173 | Claudia Price |
-| 843 | 173 | Meepycat |
-| 844 | 173 | DirtiestofMikes |
+| 843 | 173 | DirtiestofMikes |
+| 844 | 173 | Meepycat |
 | 845 | 172 | Li-Li Ratliff |
 | 846 | 171 | Locke Mahal LD |
 | 847 | 171 | Pinky Pink |
