@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:10:46 UTC
+# Standings for team2 as of 2026-06-10 07:11:23 UTC
 
 **Total Participants:** 2701
 
@@ -67,7 +67,7 @@
 | 59 | 3309 | Anthony Lilley |
 | 60 | 3182 | Elizabeth Sallas |
 | 61 | 3075 | Suki Kaur |
-| 62 | 3017 | Helen Thomas |
+| 62 | 3047 | Helen Thomas |
 | 63 | 3007 | Kymberlee Rolinski |
 | 64 | 2979 | Angie BBlock |
 | 65 | 2842 | Beverly Lynn Mills |
@@ -1756,42 +1756,42 @@
 | 1748 | 67 | Suszi |
 | 1749 | 67 | LK |
 | 1750 | 67 | Snappy Zonepiece |
-| 1751 | 67 | Dionne Borden |
-| 1752 | 67 | Happy Curvebuilder |
-| 1753 | 66 | Tiffany Heether |
-| 1754 | 66 | Giggly Dashy |
-| 1755 | 66 | Justin Pennington |
-| 1756 | 66 | sam |
-| 1757 | 66 | Bobbie Carrol |
-| 1758 | 66 | Wayne Mcmillan |
-| 1759 | 66 | David Cadiente |
-| 1760 | 66 | Amy ATen |
-| 1761 | 66 | Dysty |
-| 1762 | 66 | Matthew Black |
-| 1763 | 66 | Jay King |
-| 1764 | 66 | Ali |
-| 1765 | 65 | GentleGiant Brackett |
+| 1751 | 67 | Tara Feineis |
+| 1752 | 67 | Dionne Borden |
+| 1753 | 67 | Happy Curvebuilder |
+| 1754 | 66 | Tiffany Heether |
+| 1755 | 66 | Giggly Dashy |
+| 1756 | 66 | Justin Pennington |
+| 1757 | 66 | sam |
+| 1758 | 66 | Bobbie Carrol |
+| 1759 | 66 | Wayne Mcmillan |
+| 1760 | 66 | David Cadiente |
+| 1761 | 66 | Amy ATen |
+| 1762 | 66 | Ali |
+| 1763 | 66 | Dysty |
+| 1764 | 66 | Jay King |
+| 1765 | 66 | Matthew Black |
 | 1766 | 65 | Heather Klaus |
 | 1767 | 65 | Amanda White |
-| 1768 | 65 | Maurice Bethel |
-| 1769 | 65 | Wacky Drop |
-| 1770 | 65 | October Fitch |
-| 1771 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1772 | 65 | Auntie YaYa |
-| 1773 | 65 | nogo |
-| 1774 | 65 | Vicki Ohmer |
-| 1775 | 64 | Sassafras Cass |
-| 1776 | 64 | Emily |
-| 1777 | 64 | Jessica Jones |
-| 1778 | 64 | Andrea |
-| 1779 | 64 | Michelle Naujalis |
-| 1780 | 64 | Ryan D. Norcross |
+| 1768 | 65 | Wacky Drop |
+| 1769 | 65 | October Fitch |
+| 1770 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1771 | 65 | Maurice Bethel |
+| 1772 | 65 | GentleGiant Brackett |
+| 1773 | 65 | Auntie YaYa |
+| 1774 | 65 | nogo |
+| 1775 | 65 | Vicki Ohmer |
+| 1776 | 64 | Sassafras Cass |
+| 1777 | 64 | Emily |
+| 1778 | 64 | Jessica Jones |
+| 1779 | 64 | Pnda |
+| 1780 | 64 | John Guider |
 | 1781 | 64 | Jodi Deninno |
-| 1782 | 64 | Tara Feineis |
-| 1783 | 64 | Pnda |
-| 1784 | 64 | John Guider |
-| 1785 | 64 | Epic Glide |
-| 1786 | 64 | Aaron Henry |
+| 1782 | 64 | Andrea |
+| 1783 | 64 | Epic Glide |
+| 1784 | 64 | Ryan D. Norcross |
+| 1785 | 64 | Aaron Henry |
+| 1786 | 64 | Michelle Naujalis |
 | 1787 | 63 | Shawn Moore |
 | 1788 | 63 | T-Tommy Hillbilly |
 | 1789 | 63 | Chrissy Hess |
