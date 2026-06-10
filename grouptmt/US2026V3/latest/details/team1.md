@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:36:44 UTC
+# Standings for team1 as of 2026-06-10 07:37:22 UTC
 
 **Total Participants:** 2240
 
@@ -85,7 +85,7 @@
 | 77 | 1688 | Frisky Fallmatch |
 | 78 | 1676 | Jessica Roberts |
 | 79 | 1654 | Chenell Gillard |
-| 80 | 1610 | PandaPrincess |
+| 80 | 1630 | PandaPrincess |
 | 81 | 1606 | BYM4L |
 | 82 | 1597 | Janet Cooke |
 | 83 | 1581 | Holly Jolly |
@@ -179,8 +179,8 @@
 | 171 | 803 | Big Tina |
 | 172 | 799 | Shontanese Adams |
 | 173 | 786 | Eugina Slater |
-| 174 | 778 | Gael Quintana |
-| 175 | 777 | xXEKUNXx |
+| 174 | 781 | xXEKUNXx |
+| 175 | 778 | Gael Quintana |
 | 176 | 776 | Ann White |
 | 177 | 776 | Byron Mario Cawthon |
 | 178 | 767 | GrkGdess |
