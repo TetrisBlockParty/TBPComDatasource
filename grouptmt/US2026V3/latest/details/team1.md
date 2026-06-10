@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:38:45 UTC
+# Standings for team1 as of 2026-06-10 13:39:22 UTC
 
 **Total Participants:** 2269
 
@@ -188,21 +188,21 @@
 | 180 | 803 | Big Tina |
 | 181 | 800 | Tipsy Tetriblast |
 | 182 | 788 | Zappy Riser |
-| 183 | 786 | Novaa |
-| 184 | 786 | Eugina Slater |
+| 183 | 786 | Eugina Slater |
+| 184 | 786 | Novaa |
 | 185 | 776 | Ann White |
 | 186 | 767 | GrkGdess |
 | 187 | 764 | Chantelle Lee |
-| 188 | 757 | Abraham Espaillat |
-| 189 | 754 | Jhaime |
-| 190 | 752 | Latisha Fairley |
-| 191 | 751 | BULLSEYE |
+| 188 | 757 | Dandy Brickfit |
+| 189 | 757 | Abraham Espaillat |
+| 190 | 754 | Jhaime |
+| 191 | 752 | Latisha Fairley |
 | 192 | 751 | Jamal Itzjusmall Chambers |
-| 193 | 749 | Dulo |
-| 194 | 748 | Dandy Brickfit |
+| 193 | 751 | BULLSEYE |
+| 194 | 749 | Dulo |
 | 195 | 747 | Nobles Brandon |
-| 196 | 744 | Kevin M. McGhee Jr |
-| 197 | 744 | Ottison Dianna |
+| 196 | 744 | Ottison Dianna |
+| 197 | 744 | Kevin M. McGhee Jr |
 | 198 | 742 | Randizzle |
 | 199 | 740 | Felicia Cain |
 | 200 | 738 | Dena Marie Lee |
@@ -533,44 +533,44 @@
 | 525 | 298 | Rachael R Gull |
 | 526 | 297 | Stephen Glaze |
 | 527 | 297 | Bambam |
-| 528 | 295 | Derrius SeriousLee Burks |
-| 529 | 295 | brite |
+| 528 | 295 | brite |
+| 529 | 295 | Derrius SeriousLee Burks |
 | 530 | 294 | Lounique |
-| 531 | 294 | Brittanie Wardlow |
-| 532 | 294 | Abby |
+| 531 | 294 | Abby |
+| 532 | 294 | Brittanie Wardlow |
 | 533 | 293 | Nona Harriel |
-| 534 | 293 | crumb bumc |
-| 535 | 293 | BonnieB |
-| 536 | 292 | MonaSparks |
-| 537 | 291 | LuckyStar |
-| 538 | 291 | Hardtohandle91 |
-| 539 | 291 | Jack Vlasak |
-| 540 | 291 | Brian Taylor |
-| 541 | 291 | 신재호 |
-| 542 | 290 | SnazzyIvy |
+| 534 | 293 | BonnieB |
+| 535 | 293 | lizlizliz |
+| 536 | 293 | crumb bumc |
+| 537 | 292 | MonaSparks |
+| 538 | 291 | Jack Vlasak |
+| 539 | 291 | 신재호 |
+| 540 | 291 | LuckyStar |
+| 541 | 291 | Hardtohandle91 |
+| 542 | 291 | Brian Taylor |
 | 543 | 290 | Melissa Olvera |
-| 544 | 290 | Tiffany Jean Hinson |
-| 545 | 289 | Yashica Smith |
-| 546 | 289 | TBabii24 |
-| 547 | 289 | Pj Rojas |
+| 544 | 290 | SnazzyIvy |
+| 545 | 290 | Tiffany Jean Hinson |
+| 546 | 289 | Yashica Smith |
+| 547 | 289 | TBabii24 |
 | 548 | 289 | Chandler Magee |
-| 549 | 288 | Lozuna |
-| 550 | 287 | LiyaSkye |
-| 551 | 286 | Zappy Clearfit |
-| 552 | 286 | Soubletzy |
-| 553 | 286 | Mighty Dropper |
-| 554 | 286 | Boldy Matchbuilder |
-| 555 | 284 | Zappy Snapgrid |
-| 556 | 283 | lizlizliz |
+| 549 | 289 | Pj Rojas |
+| 550 | 288 | Lozuna |
+| 551 | 287 | LiyaSkye |
+| 552 | 286 | Zappy Clearfit |
+| 553 | 286 | Soubletzy |
+| 554 | 286 | Mighty Dropper |
+| 555 | 286 | Boldy Matchbuilder |
+| 556 | 284 | Zappy Snapgrid |
 | 557 | 283 | Phillip Vasquez |
 | 558 | 283 | Kristie |
-| 559 | 282 | Tanisha Taylor |
+| 559 | 282 | Andra Ward |
 | 560 | 282 | Marlainia Boyd |
-| 561 | 282 | Dreamzzz |
-| 562 | 282 | Andra Ward |
+| 561 | 282 | Tanisha Taylor |
+| 562 | 282 | Dreamzzz |
 | 563 | 282 | Perky Pusher |
-| 564 | 281 | Terri Smart |
-| 565 | 281 | ChunLi |
+| 564 | 281 | ChunLi |
+| 565 | 281 | Terri Smart |
 | 566 | 279 | Loopy Tiler |
 | 567 | 279 | Slinky Clearzone |
 | 568 | 278 | AnnaM |
@@ -579,15 +579,15 @@
 | 571 | 276 | Peppy Glider |
 | 572 | 276 | Dede Tate |
 | 573 | 275 | Chris Sladoje |
-| 574 | 275 | MzJuice Box |
-| 575 | 275 | Angela Brown Babin |
-| 576 | 275 | Falisa Bell |
+| 574 | 275 | Falisa Bell |
+| 575 | 275 | MzJuice Box |
+| 576 | 275 | Angela Brown Babin |
 | 577 | 274 | Zany Breaker |
-| 578 | 273 | Vera Beckford |
-| 579 | 273 | Kamilya Rembert |
-| 580 | 273 | Comedian Gdane |
-| 581 | 272 | wmedina67 |
-| 582 | 272 | Koreen Johnson-Woolford |
+| 578 | 273 | Kamilya Rembert |
+| 579 | 273 | Comedian Gdane |
+| 580 | 273 | Vera Beckford |
+| 581 | 272 | Koreen Johnson-Woolford |
+| 582 | 272 | wmedina67 |
 | 583 | 272 | Felicia Dungey |
 | 584 | 270 | Meshia |
 | 585 | 269 | RylonJones |
@@ -792,49 +792,49 @@
 | 784 | 198 | Chocolate |
 | 785 | 198 | Rhianna Dinki Austin |
 | 786 | 198 | Cornelius Neal |
-| 787 | 198 | Darrelle Short |
-| 788 | 198 | Lynn |
-| 789 | 198 | Stephen Garland |
-| 790 | 197 | krd |
-| 791 | 197 | Seddrick |
+| 787 | 198 | Lynn |
+| 788 | 198 | Stephen Garland |
+| 789 | 198 | Darrelle Short |
+| 790 | 197 | Seddrick |
+| 791 | 197 | krd |
 | 792 | 197 | Amanda Woodruff |
-| 793 | 196 | Katness |
-| 794 | 196 | whatever |
-| 795 | 195 | Elaine Pauley |
-| 796 | 195 | William Vidra |
+| 793 | 196 | whatever |
+| 794 | 196 | Katness |
+| 795 | 195 | William Vidra |
+| 796 | 195 | Elaine Pauley |
 | 797 | 194 | Sunny Clicky |
 | 798 | 193 | Sherry D Singleton |
-| 799 | 192 | Cranky Fall |
+| 799 | 192 | Biggestboss Ransom |
 | 800 | 192 | Cameo Tweed |
-| 801 | 192 | Biggestboss Ransom |
+| 801 | 192 | Taneka Howell |
 | 802 | 192 | QueenzMo |
-| 803 | 192 | Taneka Howell |
-| 804 | 190 | Crtjstr |
-| 805 | 190 | Marshall Davis |
+| 803 | 192 | Cranky Fall |
+| 804 | 190 | Chipper Snapper |
+| 805 | 190 | Chanel White |
 | 806 | 190 | Essence Jones |
-| 807 | 190 | Chipper Snapper |
-| 808 | 189 | Sean White |
-| 809 | 189 | Missy Myvette |
-| 810 | 189 | Anntionette Sotire |
-| 811 | 189 | Sunny Tumbler |
-| 812 | 189 | Duncan Timothy |
-| 813 | 189 | Jes Marie |
-| 814 | 188 | Mary Goode |
-| 815 | 187 | Vontesha Kidd |
+| 807 | 190 | Crtjstr |
+| 808 | 190 | Marshall Davis |
+| 809 | 189 | Sunny Tumbler |
+| 810 | 189 | Sean White |
+| 811 | 189 | Duncan Timothy |
+| 812 | 189 | Missy Myvette |
+| 813 | 189 | Anntionette Sotire |
+| 814 | 189 | Jes Marie |
+| 815 | 188 | Mary Goode |
 | 816 | 187 | Lively Riserpiece |
 | 817 | 187 | QueenShay AllGood |
-| 818 | 187 | Megan Jones |
-| 819 | 187 | Kashh |
-| 820 | 186 | Morenita Rodriguez |
-| 821 | 186 | Sara |
-| 822 | 186 | Tiffany Conley |
-| 823 | 186 | Nekka |
-| 824 | 186 | Christy Quick |
-| 825 | 186 | Vannie G |
-| 826 | 185 | Dapper Matchfit |
-| 827 | 185 | Poppy Twister |
-| 828 | 185 | Jess |
-| 829 | 185 | Chanel White |
+| 818 | 187 | Kashh |
+| 819 | 187 | Vontesha Kidd |
+| 820 | 187 | Megan Jones |
+| 821 | 186 | Christy Quick |
+| 822 | 186 | Vannie G |
+| 823 | 186 | Morenita Rodriguez |
+| 824 | 186 | Nekka |
+| 825 | 186 | Tiffany Conley |
+| 826 | 186 | Sara |
+| 827 | 185 | Dapper Matchfit |
+| 828 | 185 | Poppy Twister |
+| 829 | 185 | Jess |
 | 830 | 185 | Eric Machuca |
 | 831 | 183 | Amihan |
 | 832 | 183 | Erika |
