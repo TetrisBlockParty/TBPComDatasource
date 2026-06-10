@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:40:43 UTC
+# Standings for team1 as of 2026-06-10 08:41:21 UTC
 
 **Total Participants:** 2249
 
@@ -223,7 +223,7 @@
 | 215 | 656 | Jenna Renee |
 | 216 | 647 | Block King |
 | 217 | 646 | TeeMaster Barber IsLyfe |
-| 218 | 633 | Nobles Brandon |
+| 218 | 638 | Nobles Brandon |
 | 219 | 632 | Slinky Party |
 | 220 | 630 | SyTheEvilGenius1 |
 | 221 | 623 | Nicole Watson-Dixon |
@@ -486,21 +486,21 @@
 | 478 | 312 | Sharee Robinson |
 | 479 | 311 | Sarah Steckbauer |
 | 480 | 311 | FunTime |
-| 481 | 310 | Slinky Snapbuilder |
-| 482 | 310 | Yadira Salgado |
+| 481 | 310 | Yadira Salgado |
+| 482 | 310 | Slinky Snapbuilder |
 | 483 | 310 | Christi Walker Patton |
-| 484 | 309 | Chris Rogers |
-| 485 | 308 | De'Nell Edwards |
-| 486 | 308 | Darrel K Pemberton |
-| 487 | 308 | Bold Clusterer |
-| 488 | 308 | Tonya Lee Sanders |
-| 489 | 307 | Crystal Cheresnowsky |
-| 490 | 307 | Shakmar |
-| 491 | 307 | C Lo Green |
-| 492 | 306 | Mafio SO |
-| 493 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 494 | 304 | EvaLynn NeCole |
-| 495 | 302 | Latore Maxie |
+| 484 | 310 | Latore Maxie |
+| 485 | 310 | De'Nell Edwards |
+| 486 | 309 | Chris Rogers |
+| 487 | 308 | Darrel K Pemberton |
+| 488 | 308 | Bold Clusterer |
+| 489 | 308 | Tonya Lee Sanders |
+| 490 | 307 | Crystal Cheresnowsky |
+| 491 | 307 | Shakmar |
+| 492 | 307 | C Lo Green |
+| 493 | 306 | Mafio SO |
+| 494 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 495 | 304 | EvaLynn NeCole |
 | 496 | 302 | Abigail Newman Sweet |
 | 497 | 301 | Holly Baker |
 | 498 | 301 | Earl Williams |
@@ -689,11 +689,11 @@
 | 681 | 220 | Douglas Price |
 | 682 | 220 | Carolyn Smith |
 | 683 | 220 | Leavon Smith |
-| 684 | 220 | Tushama Cheris Okraku |
-| 685 | 219 | Darrel Pemberton |
-| 686 | 219 | Lady T |
-| 687 | 219 | Jackytrain52 |
-| 688 | 219 | Tyler |
+| 684 | 220 | Tyler |
+| 685 | 220 | Tushama Cheris Okraku |
+| 686 | 219 | Darrel Pemberton |
+| 687 | 219 | Lady T |
+| 688 | 219 | Jackytrain52 |
 | 689 | 219 | TY Newme Batts |
 | 690 | 219 | Christina Singleton |
 | 691 | 219 | Cynda Cyn |

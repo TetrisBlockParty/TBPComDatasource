@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:40:43 UTC
+# Standings for team4 as of 2026-06-10 08:41:21 UTC
 
 **Total Participants:** 2297
 
@@ -57,11 +57,11 @@
 | 49 | 3150 | Destiny Dyer |
 | 50 | 3100 | Posey Smith |
 | 51 | 2960 | Alicia Cook |
-| 52 | 2839 | 626 |
-| 53 | 2800 | Annastaissia Todd |
-| 54 | 2800 | Caitlin Johnson |
-| 55 | 2795 | Monica Emel |
-| 56 | 2600 | Melissa Brown |
+| 52 | 2900 | Melissa Brown |
+| 53 | 2839 | 626 |
+| 54 | 2800 | Annastaissia Todd |
+| 55 | 2800 | Caitlin Johnson |
+| 56 | 2795 | Monica Emel |
 | 57 | 2569 | Dana Abegil Lawas |
 | 58 | 2525 | Joseph Anthony Watkins |
 | 59 | 2522 | Маркус Вік |
@@ -502,13 +502,13 @@
 | 494 | 300 | Garden Girlie |
 | 495 | 299 | Deva Marie Barber |
 | 496 | 298 | Elissa Danks |
-| 497 | 296 | beauxie |
-| 498 | 296 | Alyson M Kehler |
-| 499 | 296 | Maricela Joslin |
-| 500 | 296 | Erik Clary |
-| 501 | 295 | Miss Beast |
-| 502 | 295 | Carmen Angelica Sosa |
-| 503 | 295 | Elli Wright |
+| 497 | 297 | Elli Wright |
+| 498 | 296 | beauxie |
+| 499 | 296 | Alyson M Kehler |
+| 500 | 296 | Maricela Joslin |
+| 501 | 296 | Erik Clary |
+| 502 | 295 | Miss Beast |
+| 503 | 295 | Carmen Angelica Sosa |
 | 504 | 294 | Dawn Phelps |
 | 505 | 294 | Cecilia Hicks |
 | 506 | 294 | Dandy Cascade |
