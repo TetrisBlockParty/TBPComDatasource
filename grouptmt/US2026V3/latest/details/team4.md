@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:02:43 UTC
+# Standings for team4 as of 2026-06-10 08:03:23 UTC
 
 **Total Participants:** 2295
 
@@ -49,7 +49,7 @@
 | 41 | 3773 | Fruitpunch |
 | 42 | 3762 | Dana Rinaldi |
 | 43 | 3712 | Watupall13 |
-| 44 | 3641 | Jeanette Hailey |
+| 44 | 3681 | Jeanette Hailey |
 | 45 | 3500 | Leah Gorsuch |
 | 46 | 3400 | Kathy Brookins |
 | 47 | 3323 | Carly Stempien |
@@ -95,8 +95,8 @@
 | 87 | 1670 | JoLinda Dunn |
 | 88 | 1624 | Chris Covington |
 | 89 | 1606 | SMV |
-| 90 | 1593 | Jeremy Lopez |
-| 91 | 1585 | Cherry |
+| 90 | 1595 | Cherry |
+| 91 | 1593 | Jeremy Lopez |
 | 92 | 1579 | Lupe Alburquerque |
 | 93 | 1484 | Chaz Duncan |
 | 94 | 1416 | Giggy Matchpiece |
@@ -500,8 +500,8 @@
 | 492 | 298 | Elissa Danks |
 | 493 | 296 | Alyson M Kehler |
 | 494 | 296 | Erik Clary |
-| 495 | 296 | Maricela Joslin |
-| 496 | 296 | beauxie |
+| 495 | 296 | beauxie |
+| 496 | 296 | Maricela Joslin |
 | 497 | 295 | Carmen Angelica Sosa |
 | 498 | 295 | Miss Beast |
 | 499 | 294 | Dandy Cascade |
@@ -511,10 +511,10 @@
 | 503 | 292 | Brendan Craven |
 | 504 | 292 | Karen Small |
 | 505 | 292 | Rachel Lemos |
-| 506 | 291 | Valerie Silva |
-| 507 | 290 | Elli Wright |
-| 508 | 290 | Britney Kitora |
-| 509 | 290 | Daniel Lossman |
+| 506 | 291 | Elli Wright |
+| 507 | 291 | Valerie Silva |
+| 508 | 290 | Daniel Lossman |
+| 509 | 290 | Britney Kitora |
 | 510 | 290 | LaTanya GeminiondaRise Johnson |
 | 511 | 289 | Jrr |
 | 512 | 289 | Sandra Stark |
@@ -852,43 +852,43 @@
 | 844 | 177 | Kristie ML SneekaPuff |
 | 845 | 176 | Elisha Thompson |
 | 846 | 176 | Keith Kosmicki |
-| 847 | 176 | Giggy Bridgepiece |
-| 848 | 176 | Steve Foster |
-| 849 | 175 | kaykay |
-| 850 | 175 | Leslie Ramos |
-| 851 | 175 | Nerdy Glider |
-| 852 | 174 | Michelle Michelle |
-| 853 | 174 | Japexican Strong |
-| 854 | 174 | Christy Petty |
-| 855 | 174 | Eddie Fuller |
-| 856 | 173 | Lizard |
+| 847 | 176 | Ginny |
+| 848 | 176 | Giggy Bridgepiece |
+| 849 | 176 | Steve Foster |
+| 850 | 175 | kaykay |
+| 851 | 175 | Leslie Ramos |
+| 852 | 175 | Nerdy Glider |
+| 853 | 174 | Michelle Michelle |
+| 854 | 174 | Eddie Fuller |
+| 855 | 174 | Christy Petty |
+| 856 | 174 | Japexican Strong |
 | 857 | 173 | Scot Matthew Bergdorf |
 | 858 | 173 | Tarsha Thomas-Martinez |
-| 859 | 172 | Christina Williams |
-| 860 | 172 | Renzo Tonini |
-| 861 | 172 | Poptart |
-| 862 | 171 | Ian T Parker |
-| 863 | 171 | Witty Fitblock |
-| 864 | 171 | Bouncy Clusterline |
-| 865 | 171 | Carlos Amaya |
+| 859 | 173 | Lizard |
+| 860 | 172 | Poptart |
+| 861 | 172 | Renzo Tonini |
+| 862 | 172 | Christina Williams |
+| 863 | 171 | Bouncy Clusterline |
+| 864 | 171 | Carlos Amaya |
+| 865 | 171 | Ian T Parker |
 | 866 | 171 | Darryl Shufford |
-| 867 | 170 | LaRue Tee |
+| 867 | 171 | Witty Fitblock |
 | 868 | 170 | Jill Chapman-Yancer |
-| 869 | 170 | Kayla Haddenham |
-| 870 | 170 | Christina Hagan |
-| 871 | 169 | BigCup ReeseCup |
-| 872 | 169 | Combo Snappy |
-| 873 | 169 | Taisha Beasley |
-| 874 | 169 | Jt Home |
-| 875 | 168 | Caiti O'Keefe |
-| 876 | 168 | Kristan Hoffman |
-| 877 | 167 | Kuar T Ejen |
+| 869 | 170 | Christina Hagan |
+| 870 | 170 | Kayla Haddenham |
+| 871 | 170 | LaRue Tee |
+| 872 | 169 | BigCup ReeseCup |
+| 873 | 169 | Combo Snappy |
+| 874 | 169 | Taisha Beasley |
+| 875 | 169 | Jt Home |
+| 876 | 168 | Caiti O'Keefe |
+| 877 | 168 | Kristan Hoffman |
 | 878 | 167 | Ana Ruiz |
 | 879 | 167 | Tray Day |
-| 880 | 167 | Janae Harris |
-| 881 | 166 | Jillian Marie |
-| 882 | 166 | Ben Figueroa |
-| 883 | 166 | Ginny |
+| 880 | 167 | Kuar T Ejen |
+| 881 | 167 | Janae Harris |
+| 882 | 166 | Jillian Marie |
+| 883 | 166 | Ben Figueroa |
 | 884 | 166 | Nachos |
 | 885 | 166 | Wacky Brick |
 | 886 | 165 | Patsy |
