@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:00:44 UTC
+# Standings for team1 as of 2026-06-10 18:01:22 UTC
 
 **Total Participants:** 2315
 
@@ -61,7 +61,7 @@
 | 53 | 2372 | Chris Caniglia |
 | 54 | 2359 | Corey Cawthon |
 | 55 | 2305 | Markeeta Lipscomb |
-| 56 | 2272 | Blockhead |
+| 56 | 2274 | Blockhead |
 | 57 | 2203 | BlackQueen105 |
 | 58 | 2194 | Robyn Caldwell |
 | 59 | 2151 | Cherry Rose |
@@ -82,8 +82,8 @@
 | 74 | 1867 | Jacoby E Fleming |
 | 75 | 1837 | Daylene Johannes |
 | 76 | 1831 | Jonathan Vee Jay |
-| 77 | 1791 | Eric Mcgaughy |
-| 78 | 1791 | Frisky Fallmatch |
+| 77 | 1791 | Frisky Fallmatch |
+| 78 | 1791 | Eric Mcgaughy |
 | 79 | 1780 | Angela R Wilson |
 | 80 | 1776 | Jessica Roberts |
 | 81 | 1763 | Bre Maugh |
@@ -127,19 +127,19 @@
 | 119 | 1239 | G Ah Mayes |
 | 120 | 1236 | sha |
 | 121 | 1227 | KenpachisGirl |
-| 122 | 1217 | Dynah Gordon |
-| 123 | 1216 | Tiana Moore |
-| 124 | 1211 | Keeta Chickswit Scott |
-| 125 | 1194 | Spunky Edgefit |
-| 126 | 1187 | Nutty Spinblock |
-| 127 | 1174 | Anthony Washington |
-| 128 | 1173 | Jazzy Dashpiece |
-| 129 | 1172 | Sharon Cail |
+| 122 | 1225 | Sharon Cail |
+| 123 | 1217 | Dynah Gordon |
+| 124 | 1216 | Tiana Moore |
+| 125 | 1211 | Keeta Chickswit Scott |
+| 126 | 1194 | Spunky Edgefit |
+| 127 | 1187 | Nutty Spinblock |
+| 128 | 1174 | Anthony Washington |
+| 129 | 1173 | Jazzy Dashpiece |
 | 130 | 1168 | Peppy Piececlear |
 | 131 | 1153 | ELM |
 | 132 | 1146 | Jaida King |
-| 133 | 1121 | Zippy Lifter |
-| 134 | 1121 | Lisa Müller |
+| 133 | 1121 | Lisa Müller |
+| 134 | 1121 | Zippy Lifter |
 | 135 | 1120 | IamJust Neyamijah Washington Sr. |
 | 136 | 1117 | Slim Shedidthat |
 | 137 | 1111 | Roberta Lynn |
@@ -164,9 +164,9 @@
 | 156 | 947 | rls |
 | 157 | 946 | Antonia Wyche |
 | 158 | 932 | Gotcha |
-| 159 | 923 | Ebony Waynes-robinson |
-| 160 | 917 | Slinky Puzzler |
-| 161 | 909 | No_Other_Choice |
+| 159 | 924 | No_Other_Choice |
+| 160 | 923 | Ebony Waynes-robinson |
+| 161 | 917 | Slinky Puzzler |
 | 162 | 907 | Eartha Brown |
 | 163 | 906 | Atlantalindi |
 | 164 | 896 | Alana Renee |
@@ -511,12 +511,12 @@
 | 503 | 323 | Alyssa Rae |
 | 504 | 322 | Vera Beckford |
 | 505 | 322 | Clint Mcdowell |
-| 506 | 321 | Montego Allen |
-| 507 | 320 | Phongoudom Tika |
-| 508 | 320 | Aaron Hartmann |
-| 509 | 320 | Malcolm Stanley |
-| 510 | 319 | Christi Walker Patton |
-| 511 | 319 | Angela Brown Babin |
+| 506 | 321 | Angela Brown Babin |
+| 507 | 321 | Montego Allen |
+| 508 | 320 | Phongoudom Tika |
+| 509 | 320 | Aaron Hartmann |
+| 510 | 320 | Malcolm Stanley |
+| 511 | 319 | Christi Walker Patton |
 | 512 | 319 | Ciera Peace |
 | 513 | 319 | MACHETEEDDIE513 |
 | 514 | 318 | Nerdy Snapfall |
