@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 04:38:52 UTC
+# Standings for team4 as of 2026-06-10 04:39:22 UTC
 
 **Total Participants:** 2263
 
@@ -203,7 +203,7 @@
 | 195 | 678 | Katie Lynn Petit |
 | 196 | 673 | Malik Thompson |
 | 197 | 673 | Anthony Lewis |
-| 198 | 668 | Scamp Jones |
+| 198 | 671 | Scamp Jones |
 | 199 | 662 | Danielle Mitchell |
 | 200 | 660 | Suzanne Carter |
 | 201 | 654 | Megan Vick |
@@ -1150,36 +1150,36 @@
 | 1142 | 113 | Dsay Yates |
 | 1143 | 113 | Theo Stamps |
 | 1144 | 113 | Joshua Franklin |
-| 1145 | 112 | taya |
-| 1146 | 112 | Corissa Handy |
+| 1145 | 112 | Gwendolyn Langwinski |
+| 1146 | 112 | taya |
 | 1147 | 112 | Chris Norman |
-| 1148 | 111 | MzCeleste Brooks |
-| 1149 | 111 | Candace Dean |
-| 1150 | 111 | John Wertz |
-| 1151 | 111 | Jacquelyn L Whitsitt |
-| 1152 | 111 | Anthony Kollar |
-| 1153 | 111 | Buggy Julks |
-| 1154 | 111 | Snazzy Shatterfit |
-| 1155 | 110 | Lauren Zubia Sanchez |
-| 1156 | 110 | Gwendolyn Langwinski |
+| 1148 | 112 | Corissa Handy |
+| 1149 | 111 | MzCeleste Brooks |
+| 1150 | 111 | Candace Dean |
+| 1151 | 111 | John Wertz |
+| 1152 | 111 | Jacquelyn L Whitsitt |
+| 1153 | 111 | Anthony Kollar |
+| 1154 | 111 | Buggy Julks |
+| 1155 | 111 | Snazzy Shatterfit |
+| 1156 | 110 | Lauren Zubia Sanchez |
 | 1157 | 110 | Giggly Rollpiece |
 | 1158 | 110 | Kami |
 | 1159 | 110 | Scott If |
-| 1160 | 109 | Squiggy |
+| 1160 | 109 | Acyndra Cain |
 | 1161 | 109 | Joe Joe |
-| 1162 | 109 | Frisky Blocker |
-| 1163 | 109 | Jonathan Jackson |
-| 1164 | 109 | Acyndra Cain |
-| 1165 | 108 | Nancy McCalla Abercrombie |
-| 1166 | 108 | Chabetta |
+| 1162 | 109 | Squiggy |
+| 1163 | 109 | Frisky Blocker |
+| 1164 | 109 | Jonathan Jackson |
+| 1165 | 108 | Jodi Haman-wheeler |
+| 1166 | 108 | Nancy McCalla Abercrombie |
 | 1167 | 108 | Gingerale<3 |
-| 1168 | 108 | Jodi Haman-wheeler |
+| 1168 | 108 | Chabetta |
 | 1169 | 108 | Nata Lia |
-| 1170 | 107 | Goofy Riserbuilder |
-| 1171 | 107 | JP |
+| 1170 | 107 | JP |
+| 1171 | 107 | Cflixer |
 | 1172 | 107 | Kaela Ferguson |
-| 1173 | 107 | Eric Quan |
-| 1174 | 107 | Cflixer |
+| 1173 | 107 | Goofy Riserbuilder |
+| 1174 | 107 | Eric Quan |
 | 1175 | 106 | Danielle Sulano |
 | 1176 | 106 | JJADHD |
 | 1177 | 106 | Lina Samra |
