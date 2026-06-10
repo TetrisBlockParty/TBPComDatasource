@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 11:29:22 UTC
+# Standings for team2 as of 2026-06-10 11:30:45 UTC
 
 **Total Participants:** 2731
 
@@ -159,7 +159,7 @@
 | 151 | 1132 | Mirr Lulu |
 | 152 | 1132 | Wmk Rathbun |
 | 153 | 1130 | Allison Jarman |
-| 154 | 1123 | Jackie Tupper |
+| 154 | 1124 | Jackie Tupper |
 | 155 | 1115 | Spicy Risegrid |
 | 156 | 1108 | Tina Marie |
 | 157 | 1090 | Cristi Doris |
@@ -186,9 +186,9 @@
 | 178 | 926 | Le Sandy |
 | 179 | 920 | Brenda Jones |
 | 180 | 912 | Havik Whitfield |
-| 181 | 898 | Giggly Wipepiece |
-| 182 | 886 | Sara Perkins |
-| 183 | 883 | Fudgie Pie |
+| 181 | 901 | Fudgie Pie |
+| 182 | 898 | Giggly Wipepiece |
+| 183 | 886 | Sara Perkins |
 | 184 | 873 | Carebear05 |
 | 185 | 871 | Sandy Lynn |
 | 186 | 869 | SEH |
@@ -208,20 +208,20 @@
 | 200 | 838 | H |
 | 201 | 837 | MegaPooh |
 | 202 | 834 | Alicia Kinney |
-| 203 | 826 | Milad Arzani |
-| 204 | 825 | Brandon Link |
-| 205 | 825 | Nichole Wilson |
-| 206 | 822 | Glitzy Base |
-| 207 | 822 | Kurt Brown |
-| 208 | 821 | Sarina Vollink |
-| 209 | 820 | Krisanne Kesner-Lonsby |
-| 210 | 819 | KayLynn Ogden McClelland |
-| 211 | 816 | Jamie Jones |
-| 212 | 814 | Steven Craig |
-| 213 | 813 | Loony Faller |
-| 214 | 810 | Zachary Vymislicky |
-| 215 | 808 | Flashy Twistline |
-| 216 | 808 | Crystal Allen |
+| 203 | 828 | Crystal Allen |
+| 204 | 826 | Milad Arzani |
+| 205 | 825 | Brandon Link |
+| 206 | 825 | Nichole Wilson |
+| 207 | 822 | Glitzy Base |
+| 208 | 822 | Kurt Brown |
+| 209 | 821 | Sarina Vollink |
+| 210 | 820 | Krisanne Kesner-Lonsby |
+| 211 | 819 | KayLynn Ogden McClelland |
+| 212 | 816 | Jamie Jones |
+| 213 | 814 | Steven Craig |
+| 214 | 813 | Loony Faller |
+| 215 | 810 | Zachary Vymislicky |
+| 216 | 808 | Flashy Twistline |
 | 217 | 805 | Nicole Hogue |
 | 218 | 805 | Lashanda Bertram |
 | 219 | 802 | Brooke Allred |
@@ -1026,9 +1026,9 @@
 | 1018 | 179 | Kelly |
 | 1019 | 179 | Kris Dusza Dodus |
 | 1020 | 179 | Jennifer Vitro |
-| 1021 | 179 | Mary Stump |
-| 1022 | 178 | CowboyChalie |
-| 1023 | 178 | Samantha Smith |
+| 1021 | 179 | Samantha Smith |
+| 1022 | 179 | Mary Stump |
+| 1023 | 178 | CowboyChalie |
 | 1024 | 178 | Just Me |
 | 1025 | 178 | Pat Smits |
 | 1026 | 177 | Thtbrwnsknflla |
@@ -1780,27 +1780,27 @@
 | 1772 | 67 | Tipsy Tower |
 | 1773 | 67 | Suszi |
 | 1774 | 67 | Lulu Nichole |
-| 1775 | 67 | Dionne Borden |
-| 1776 | 67 | Snappy Zonepiece |
-| 1777 | 67 | LK |
-| 1778 | 67 | Anna Marie Knight |
+| 1775 | 67 | Snappy Zonepiece |
+| 1776 | 67 | Dionne Borden |
+| 1777 | 67 | Anna Marie Knight |
+| 1778 | 67 | LK |
 | 1779 | 67 | Happy Curvebuilder |
 | 1780 | 66 | Debbie Embry |
-| 1781 | 66 | Justin Pennington |
-| 1782 | 66 | Bobbie Carrol |
-| 1783 | 66 | David Cadiente |
-| 1784 | 66 | Jay King |
-| 1785 | 66 | Wayne Mcmillan |
-| 1786 | 66 | Amy ATen |
-| 1787 | 66 | Ali |
+| 1781 | 66 | David Cadiente |
+| 1782 | 66 | Wayne Mcmillan |
+| 1783 | 66 | Amy ATen |
+| 1784 | 66 | Bobbie Carrol |
+| 1785 | 66 | Justin Pennington |
+| 1786 | 66 | Ali |
+| 1787 | 66 | Jay King |
 | 1788 | 66 | Dysty |
-| 1789 | 65 | Wacky Drop |
-| 1790 | 65 | Heather Klaus |
-| 1791 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1792 | 65 | GentleGiant Brackett |
+| 1789 | 65 | Maurice Bethel |
+| 1790 | 65 | Mistress |
+| 1791 | 65 | GentleGiant Brackett |
+| 1792 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
 | 1793 | 65 | Amanda White |
-| 1794 | 65 | Mistress |
-| 1795 | 65 | Maurice Bethel |
+| 1794 | 65 | Wacky Drop |
+| 1795 | 65 | Heather Klaus |
 | 1796 | 65 | Auntie YaYa |
 | 1797 | 65 | Vicki Ohmer |
 | 1798 | 65 | nogo |
@@ -1808,40 +1808,40 @@
 | 1800 | 64 | Sassafras Cass |
 | 1801 | 64 | Emily |
 | 1802 | 64 | Ryan D. Norcross |
-| 1803 | 64 | Andrea |
-| 1804 | 64 | Aaron Henry |
-| 1805 | 64 | John Guider |
-| 1806 | 64 | Jodi Deninno |
-| 1807 | 64 | Pnda |
-| 1808 | 64 | Epic Glide |
-| 1809 | 64 | Michelle Naujalis |
-| 1810 | 63 | Chrissy Hess |
-| 1811 | 63 | T-Tommy Hillbilly |
-| 1812 | 63 | Shawn Moore |
-| 1813 | 63 | Michael Blackmon |
-| 1814 | 63 | Janice |
-| 1815 | 63 | Bubbly Tilt |
-| 1816 | 63 | Groovy Snapbuild |
-| 1817 | 63 | AmyShea |
-| 1818 | 62 | Saucy Clearzone |
-| 1819 | 62 | Patience Thompson |
-| 1820 | 62 | Lazy Zoner |
-| 1821 | 62 | Natikka Mccleskey |
-| 1822 | 62 | Michael Woodall |
-| 1823 | 62 | Breanna Dykes |
-| 1824 | 62 | Alana Albritton Seals |
-| 1825 | 61 | Natasha Schatte |
-| 1826 | 61 | JesseJo |
-| 1827 | 61 | PortersWife87 |
-| 1828 | 61 | Glitzy Matchclear |
-| 1829 | 61 | Dustyn Sims |
-| 1830 | 61 | Crystal Swigart |
-| 1831 | 61 | LichyBella |
-| 1832 | 61 | Lil G |
-| 1833 | 61 | Ken Vaughn |
-| 1834 | 61 | Anna |
-| 1835 | 60 | Samantha Smith |
-| 1836 | 60 | Dixie Wilson |
+| 1803 | 64 | Pnda |
+| 1804 | 64 | John Guider |
+| 1805 | 64 | Epic Glide |
+| 1806 | 64 | Aaron Henry |
+| 1807 | 64 | Andrea |
+| 1808 | 64 | Michelle Naujalis |
+| 1809 | 64 | Jodi Deninno |
+| 1810 | 63 | Dixie Wilson |
+| 1811 | 63 | Bubbly Tilt |
+| 1812 | 63 | Michael Blackmon |
+| 1813 | 63 | Shawn Moore |
+| 1814 | 63 | Chrissy Hess |
+| 1815 | 63 | T-Tommy Hillbilly |
+| 1816 | 63 | Janice |
+| 1817 | 63 | Groovy Snapbuild |
+| 1818 | 63 | AmyShea |
+| 1819 | 62 | Michael Woodall |
+| 1820 | 62 | Saucy Clearzone |
+| 1821 | 62 | Breanna Dykes |
+| 1822 | 62 | Natikka Mccleskey |
+| 1823 | 62 | Lazy Zoner |
+| 1824 | 62 | Patience Thompson |
+| 1825 | 62 | Alana Albritton Seals |
+| 1826 | 61 | Natasha Schatte |
+| 1827 | 61 | JesseJo |
+| 1828 | 61 | Dustyn Sims |
+| 1829 | 61 | Glitzy Matchclear |
+| 1830 | 61 | Anna |
+| 1831 | 61 | PortersWife87 |
+| 1832 | 61 | Ken Vaughn |
+| 1833 | 61 | Lil G |
+| 1834 | 61 | Crystal Swigart |
+| 1835 | 61 | LichyBella |
+| 1836 | 60 | Samantha Smith |
 | 1837 | 60 | Lela Walk |
 | 1838 | 60 | Jaelyn Orr |
 | 1839 | 60 | Dawn Thuringer-Baird |
