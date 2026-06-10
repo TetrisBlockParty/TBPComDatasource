@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 22:44:46 UTC
+# Standings for team4 as of 2026-06-10 22:45:23 UTC
 
 **Total Participants:** 2391
 
@@ -141,8 +141,8 @@
 | 133 | 1109 | Tiffany Loree Tiffany Oneill |
 | 134 | 1106 | Loony Towerer |
 | 135 | 1094 | Leslie Ann Carter |
-| 136 | 1090 | Becky Doll-Hall |
-| 137 | 1090 | Melissa WC |
+| 136 | 1090 | Melissa WC |
+| 137 | 1090 | Becky Doll-Hall |
 | 138 | 1087 | Whitborn |
 | 139 | 1084 | Suzanne North |
 | 140 | 1073 | Futrell Brent |
@@ -156,10 +156,10 @@
 | 148 | 1029 | Chiquita Blue |
 | 149 | 1022 | Gorica Prusina |
 | 150 | 1001 | Ermadette |
-| 151 | 997 | SupaFly |
-| 152 | 997 | Blayne Kole |
-| 153 | 990 | Sherry Mooney |
-| 154 | 990 | Kim |
+| 151 | 997 | Blayne Kole |
+| 152 | 997 | SupaFly |
+| 153 | 990 | Kim |
+| 154 | 990 | Sherry Mooney |
 | 155 | 986 | Sharidan Klinginsmith |
 | 156 | 978 | Gigglycat |
 | 157 | 974 | Alex Armour |
@@ -167,9 +167,9 @@
 | 159 | 953 | Daryn Elliott |
 | 160 | 952 | Alala.Cersei |
 | 161 | 952 | Jessi Goodwin |
-| 162 | 950 | Nicole Peoples |
+| 162 | 950 | Genag |
 | 163 | 950 | Joyce Myers |
-| 164 | 950 | Genag |
+| 164 | 950 | Nicole Peoples |
 | 165 | 942 | Kay |
 | 166 | 941 | Cranky Towerbuilder |
 | 167 | 940 | Linda Miltenburg |
@@ -212,8 +212,8 @@
 | 204 | 774 | Katie Lynn Petit |
 | 205 | 760 | Anthony Magaraci |
 | 206 | 749 | Lisa Garcia |
-| 207 | 749 | Tasha Suzanne Prisbrey |
-| 208 | 749 | Nikki Fuller Johnson |
+| 207 | 749 | Nikki Fuller Johnson |
+| 208 | 749 | Tasha Suzanne Prisbrey |
 | 209 | 748 | Bonnie Powell |
 | 210 | 740 | Chuck Burns |
 | 211 | 738 | Malik Thompson |
@@ -230,34 +230,34 @@
 | 222 | 705 | Katie Martin |
 | 223 | 704 | Caitlyn Wang |
 | 224 | 702 | Bean |
-| 225 | 700 | Suzanne Carter |
-| 226 | 700 | Shannon Rivera |
+| 225 | 700 | Shannon Rivera |
+| 226 | 700 | Suzanne Carter |
 | 227 | 698 | Celina DiBastiani |
 | 228 | 696 | Jackie Miller |
 | 229 | 691 | Danielle Mitchell |
 | 230 | 680 | Saucy Wipepiece |
 | 231 | 678 | Iforget |
 | 232 | 673 | Tyson Stroppel |
-| 233 | 670 | Beth Belanger |
-| 234 | 669 | Vanessa Sykes |
-| 235 | 663 | Laguya |
-| 236 | 663 | Kelly Howland |
-| 237 | 657 | Jenn Norcross |
-| 238 | 657 | Katy |
-| 239 | 651 | Dayna Arthurs |
-| 240 | 651 | Jewelz |
-| 241 | 649 | Rebecca Watters |
-| 242 | 644 | Tina Thomas |
-| 243 | 644 | Yesenia Castro Monreal |
-| 244 | 644 | Krysten Danielle Richard |
-| 245 | 643 | Toon Up |
-| 246 | 641 | Waxboss |
-| 247 | 637 | QueenLi86 |
-| 248 | 633 | Merritt Brandt |
-| 249 | 627 | Erika Seaton |
-| 250 | 627 | Matthew Hudson |
-| 251 | 621 | Addi JayKay |
-| 252 | 619 | Tricia Motika Cowan |
+| 233 | 671 | Tricia Motika Cowan |
+| 234 | 670 | Beth Belanger |
+| 235 | 669 | Vanessa Sykes |
+| 236 | 663 | Laguya |
+| 237 | 663 | Kelly Howland |
+| 238 | 658 | Toon Up |
+| 239 | 657 | Jenn Norcross |
+| 240 | 657 | Katy |
+| 241 | 651 | Dayna Arthurs |
+| 242 | 651 | Jewelz |
+| 243 | 649 | Rebecca Watters |
+| 244 | 644 | Tina Thomas |
+| 245 | 644 | Yesenia Castro Monreal |
+| 246 | 644 | Krysten Danielle Richard |
+| 247 | 641 | Waxboss |
+| 248 | 637 | QueenLi86 |
+| 249 | 633 | Merritt Brandt |
+| 250 | 627 | Erika Seaton |
+| 251 | 627 | Matthew Hudson |
+| 252 | 621 | Addi JayKay |
 | 253 | 615 | Logan Two-dubs Baker |
 | 254 | 614 | Jacqueline Jackii Ramos |
 | 255 | 613 | Joseph Hunter |
@@ -268,8 +268,8 @@
 | 260 | 599 | Real Talk Vibes |
 | 261 | 595 | tigerlilly |
 | 262 | 594 | Colin |
-| 263 | 594 | Boldy Rumbler |
-| 264 | 594 | Shanna Fragen |
+| 263 | 594 | Shanna Fragen |
+| 264 | 594 | Boldy Rumbler |
 | 265 | 593 | Jeremy |
 | 266 | 592 | Sarah Berry Stevens |
 | 267 | 585 | Hen |
@@ -295,8 +295,8 @@
 | 287 | 556 | Cherrypir05 |
 | 288 | 553 | Betsy Froemming |
 | 289 | 551 | Debby Ruof |
-| 290 | 550 | Maria Castillo |
-| 291 | 550 | Fran Aaron-Ring |
+| 290 | 550 | Fran Aaron-Ring |
+| 291 | 550 | Maria Castillo |
 | 292 | 548 | Tipsy Zonebuilder |
 | 293 | 544 | Piece of Cake |
 | 294 | 540 | Jaci Marie |
@@ -314,8 +314,8 @@
 | 306 | 513 | Melika Zeheb |
 | 307 | 508 | Swanky Brickzone |
 | 308 | 506 | JuicyJuice |
-| 309 | 505 | Patrick Alley |
-| 310 | 505 | Sassy Rollpiece |
+| 309 | 505 | Sassy Rollpiece |
+| 310 | 505 | Patrick Alley |
 | 311 | 501 | Speedy Twistslam |
 | 312 | 497 | Pepper |
 | 313 | 496 | Randy M Hatch |
@@ -331,8 +331,8 @@
 | 323 | 485 | Jojo Ann |
 | 324 | 482 | June Hoffman |
 | 325 | 481 | Snazzy Corner |
-| 326 | 480 | Adam Dickinson |
-| 327 | 480 | Tipsy Piecebuilder |
+| 326 | 480 | Tipsy Piecebuilder |
+| 327 | 480 | Adam Dickinson |
 | 328 | 480 | Krystal Dixon-Hahn |
 | 329 | 478 | Becky McCool |
 | 330 | 477 | Amandacolle |
@@ -341,14 +341,14 @@
 | 333 | 473 | Shanae Taylor |
 | 334 | 472 | Karen Miller |
 | 335 | 472 | Chummy Jumper |
-| 336 | 471 | Bridget Stevens |
-| 337 | 471 | Tawna Curry |
+| 336 | 471 | Tawna Curry |
+| 337 | 471 | Bridget Stevens |
 | 338 | 470 | Knijur Callins |
 | 339 | 469 | Jeri Anne Stormo-Toman |
 | 340 | 466 | Breezy Blockzone |
 | 341 | 466 | Shepreneur Sade |
-| 342 | 462 | BusterBear56 |
-| 343 | 462 | Poppy |
+| 342 | 462 | Poppy |
+| 343 | 462 | BusterBear56 |
 | 344 | 462 | Dapper Strikerpiece |
 | 345 | 462 | Spunky Gridzone |
 | 346 | 461 | Kayla Fuentes |
