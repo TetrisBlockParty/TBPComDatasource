@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 19:14:46 UTC
+# Standings for team2 as of 2026-06-10 19:15:22 UTC
 
 **Total Participants:** 2799
 
@@ -56,7 +56,7 @@
 | 48 | 4402 | Charley Bedford |
 | 49 | 4310 | Julie Renee Bertram |
 | 50 | 4268 | Erica Dees Parks |
-| 51 | 4072 | Charles Varca |
+| 51 | 4112 | Charles Varca |
 | 52 | 3984 | Amber |
 | 53 | 3914 | Betty Barrett |
 | 54 | 3890 | Anthony Lilley |
@@ -137,8 +137,8 @@
 | 129 | 1434 | Frothy Fallgrid |
 | 130 | 1429 | Anissa Moore |
 | 131 | 1419 | Loopy Cascadepiece |
-| 132 | 1378 | Marquetta Johnson |
-| 133 | 1366 | Sam |
+| 132 | 1386 | Sam |
+| 133 | 1378 | Marquetta Johnson |
 | 134 | 1364 | Jayke Edward |
 | 135 | 1361 | LittleHippoEars |
 | 136 | 1354 | Jaime P Lamb |
