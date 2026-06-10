@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:20:45 UTC
+# Standings for team1 as of 2026-06-10 07:21:21 UTC
 
 **Total Participants:** 2238
 
@@ -434,14 +434,14 @@
 | 426 | 350 | Daddy |
 | 427 | 350 | Kimberly Linares Hernandez |
 | 428 | 349 | Jae Thompson-Tyus |
-| 429 | 348 | CJ Robinson |
-| 430 | 348 | Kelli Couture |
-| 431 | 347 | Brenda Malachi-butler |
-| 432 | 346 | Jessie N Michael Silvers |
-| 433 | 345 | Jolly Tilefall |
-| 434 | 344 | DaGuy |
-| 435 | 343 | Tesiree Cray |
-| 436 | 342 | Eric Spencer Whitaker |
+| 429 | 349 | Eric Spencer Whitaker |
+| 430 | 348 | CJ Robinson |
+| 431 | 348 | Kelli Couture |
+| 432 | 347 | Brenda Malachi-butler |
+| 433 | 346 | Jessie N Michael Silvers |
+| 434 | 345 | Jolly Tilefall |
+| 435 | 344 | DaGuy |
+| 436 | 343 | Tesiree Cray |
 | 437 | 342 | Ashley Monet Terrell |
 | 438 | 341 | Giggy Tower |
 | 439 | 341 | McKayla Owens |
