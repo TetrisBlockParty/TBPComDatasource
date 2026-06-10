@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:54:47 UTC
+# Standings for team1 as of 2026-06-10 15:55:22 UTC
 
 **Total Participants:** 2291
 
@@ -140,7 +140,7 @@
 | 132 | 1121 | Lisa Müller |
 | 133 | 1120 | IamJust Neyamijah Washington Sr. |
 | 134 | 1100 | Christana Imjustbutton Stone |
-| 135 | 1087 | Plucky Slamdrop |
+| 135 | 1090 | Plucky Slamdrop |
 | 136 | 1084 | Roberta Lynn |
 | 137 | 1084 | Jimmie Makia |
 | 138 | 1081 | Slim Shedidthat |
@@ -354,22 +354,22 @@
 | 346 | 454 | Tonya McElroy |
 | 347 | 453 | Tasha |
 | 348 | 452 | Kenny MrOnethousand Peck |
-| 349 | 449 | Andy Rivera |
-| 350 | 449 | Nerdy Climber |
-| 351 | 447 | Dacia Hicks |
-| 352 | 447 | Dedra M Prester |
-| 353 | 447 | Chris Rogers |
-| 354 | 447 | Kyra Coleman |
-| 355 | 446 | Hasty Glidezone |
-| 356 | 444 | Candy Lee |
-| 357 | 442 | Joana Thompson |
-| 358 | 442 | Richard Flex |
-| 359 | 441 | Lyn Reed |
-| 360 | 441 | LaTonya Myers |
-| 361 | 439 | Block |
-| 362 | 439 | Asani CHumba |
-| 363 | 436 | DaGuy |
-| 364 | 434 | Dai Bo |
+| 349 | 449 | Dai Bo |
+| 350 | 449 | Andy Rivera |
+| 351 | 449 | Nerdy Climber |
+| 352 | 447 | Dacia Hicks |
+| 353 | 447 | Dedra M Prester |
+| 354 | 447 | Chris Rogers |
+| 355 | 447 | Kyra Coleman |
+| 356 | 446 | Hasty Glidezone |
+| 357 | 444 | Candy Lee |
+| 358 | 442 | Joana Thompson |
+| 359 | 442 | Richard Flex |
+| 360 | 441 | Lyn Reed |
+| 361 | 441 | LaTonya Myers |
+| 362 | 439 | Block |
+| 363 | 439 | Asani CHumba |
+| 364 | 436 | DaGuy |
 | 365 | 433 | CJ Robinson |
 | 366 | 433 | Curtis T Cirno |
 | 367 | 431 | Lauraly |
