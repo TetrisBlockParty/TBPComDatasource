@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 11:36:46 UTC
+# Standings for team4 as of 2026-06-10 11:37:22 UTC
 
 **Total Participants:** 2313
 
@@ -279,11 +279,11 @@
 | 271 | 538 | Nicole |
 | 272 | 537 | Kaash Brxtt |
 | 273 | 536 | Jackie Jackson |
-| 274 | 535 | Karr |
-| 275 | 531 | Colin |
-| 276 | 528 | Tammy June |
-| 277 | 528 | Cyndi Najar |
-| 278 | 527 | Merritt Brandt |
+| 274 | 536 | Merritt Brandt |
+| 275 | 535 | Karr |
+| 276 | 531 | Colin |
+| 277 | 528 | Tammy June |
+| 278 | 528 | Cyndi Najar |
 | 279 | 526 | Cheery Risegrid |
 | 280 | 522 | Katy |
 | 281 | 521 | Debby Ruof |
@@ -651,60 +651,60 @@
 | 643 | 240 | 1694AF |
 | 644 | 240 | Jimmy Clark |
 | 645 | 239 | Chelle Williams |
-| 646 | 238 | Tara Delay Hill |
-| 647 | 238 | bribop |
-| 648 | 238 | Shaunna Caldwell |
-| 649 | 238 | Amanda Snow |
-| 650 | 237 | Diana Fernandez |
-| 651 | 237 | Kelly Miller Williams |
-| 652 | 237 | Erica Pompey |
-| 653 | 237 | Donna Bush |
+| 646 | 238 | bribop |
+| 647 | 238 | Shaunna Caldwell |
+| 648 | 238 | Amanda Snow |
+| 649 | 238 | Tara Delay Hill |
+| 650 | 237 | Kelly Miller Williams |
+| 651 | 237 | Erica Pompey |
+| 652 | 237 | Donna Bush |
+| 653 | 237 | Diana Fernandez |
 | 654 | 236 | Playful Raccoon |
-| 655 | 236 | Trang Nguyen |
-| 656 | 236 | JoJo Hutson |
-| 657 | 236 | Bonique Bier |
-| 658 | 234 | Dena Lynn Rogers |
-| 659 | 234 | Paula Renee McCracken |
-| 660 | 232 | MrLoner Stoner |
-| 661 | 232 | Gigi Ivicsics |
-| 662 | 231 | Poseidon S Davenport |
-| 663 | 231 | Allysha McFarland |
-| 664 | 231 | Lora Schallert |
-| 665 | 231 | Destiny Starr LeValdo |
-| 666 | 231 | Alizabeth Garcia |
-| 667 | 231 | Stephanie Brock |
-| 668 | 230 | Lord Solrac |
-| 669 | 230 | Breezy Brickline |
-| 670 | 229 | Capt'n Crunch |
-| 671 | 229 | Funky Twistpiece |
-| 672 | 229 | Marcus Chavis |
-| 673 | 229 | Happy Shatterfit |
-| 674 | 229 | Allysonjo Varela |
+| 655 | 236 | Bonique Bier |
+| 656 | 236 | Trang Nguyen |
+| 657 | 236 | Jordan Tamayia Williams |
+| 658 | 236 | JoJo Hutson |
+| 659 | 234 | Dena Lynn Rogers |
+| 660 | 234 | Paula Renee McCracken |
+| 661 | 232 | MrLoner Stoner |
+| 662 | 232 | Gigi Ivicsics |
+| 663 | 231 | Poseidon S Davenport |
+| 664 | 231 | Stephanie Brock |
+| 665 | 231 | Alizabeth Garcia |
+| 666 | 231 | Destiny Starr LeValdo |
+| 667 | 231 | Allysha McFarland |
+| 668 | 231 | Lora Schallert |
+| 669 | 230 | Lord Solrac |
+| 670 | 230 | Breezy Brickline |
+| 671 | 229 | Marcus Chavis |
+| 672 | 229 | Capt'n Crunch |
+| 673 | 229 | Allysonjo Varela |
+| 674 | 229 | Funky Twistpiece |
 | 675 | 229 | chuck |
-| 676 | 228 | Happy Strikerpiece |
-| 677 | 228 | Tonia Kay |
-| 678 | 228 | Raising Stars |
-| 679 | 228 | Daring Towerer |
-| 680 | 227 | Budda Huitt |
-| 681 | 227 | Deb 07 |
-| 682 | 227 | Tactical_B |
+| 676 | 229 | Happy Shatterfit |
+| 677 | 228 | Raising Stars |
+| 678 | 228 | Daring Towerer |
+| 679 | 228 | Tonia Kay |
+| 680 | 228 | Happy Strikerpiece |
+| 681 | 227 | Tactical_B |
+| 682 | 227 | Deb 07 |
 | 683 | 227 | Justin Ballard |
-| 684 | 227 | Kiki Moore |
-| 685 | 226 | Buddyblock |
+| 684 | 227 | Budda Huitt |
+| 685 | 227 | Kiki Moore |
 | 686 | 226 | Domo Dpn |
-| 687 | 225 | Rose Anna Safi |
-| 688 | 225 | Stefanie Street |
-| 689 | 224 | Japexican Strong |
-| 690 | 224 | Jordan Tamayia Williams |
+| 687 | 226 | Buddyblock |
+| 688 | 225 | Rose Anna Safi |
+| 689 | 225 | Stefanie Street |
+| 690 | 224 | Japexican Strong |
 | 691 | 224 | Mmm |
 | 692 | 224 | Tamara Gay |
 | 693 | 223 | Chass Hudson |
 | 694 | 223 | Sarah Leake |
 | 695 | 223 | Kat Foreman |
 | 696 | 222 | Maria Munoz |
-| 697 | 221 | Tana-Marie Lynn McCarty-Rolf |
-| 698 | 221 | Lorrie Ann Burchett |
-| 699 | 221 | Butterpat |
+| 697 | 221 | Lorrie Ann Burchett |
+| 698 | 221 | Butterpat |
+| 699 | 221 | Tana-Marie Lynn McCarty-Rolf |
 | 700 | 221 | Spicy Peach |
 | 701 | 220 | Funky Rollzone |
 | 702 | 220 | Ada Rodriguez Spradley |

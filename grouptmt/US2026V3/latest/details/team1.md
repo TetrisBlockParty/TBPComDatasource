@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:36:46 UTC
+# Standings for team1 as of 2026-06-10 11:37:22 UTC
 
 **Total Participants:** 2261
 
@@ -228,15 +228,15 @@
 | 220 | 660 | David Fuentes |
 | 221 | 657 | Crystal Anderson |
 | 222 | 646 | TeeMaster Barber IsLyfe |
-| 223 | 634 | Choc |
-| 224 | 632 | Slinky Party |
-| 225 | 630 | SyTheEvilGenius1 |
-| 226 | 624 | Dee McCool |
-| 227 | 623 | Nicole Watson-Dixon |
-| 228 | 622 | LaToya Chambers |
-| 229 | 620 | Sarah Barnum |
-| 230 | 619 | Sade Goodwine |
-| 231 | 616 | Will |
+| 223 | 636 | Will |
+| 224 | 634 | Choc |
+| 225 | 632 | Slinky Party |
+| 226 | 630 | SyTheEvilGenius1 |
+| 227 | 624 | Dee McCool |
+| 228 | 623 | Nicole Watson-Dixon |
+| 229 | 622 | LaToya Chambers |
+| 230 | 620 | Sarah Barnum |
+| 231 | 619 | Sade Goodwine |
 | 232 | 616 | Tremaine Hiler |
 | 233 | 611 | Giggy Clusterer |
 | 234 | 609 | Loopy Block |
@@ -524,15 +524,15 @@
 | 516 | 296 | James Bryant II |
 | 517 | 295 | Derrius SeriousLee Burks |
 | 518 | 294 | Brittanie Wardlow |
-| 519 | 294 | Lounique |
-| 520 | 294 | Abby |
+| 519 | 294 | Abby |
+| 520 | 294 | Lounique |
 | 521 | 294 | Ciera Peace |
 | 522 | 293 | crumb bumc |
 | 523 | 293 | Nona Harriel |
 | 524 | 292 | MonaSparks |
 | 525 | 291 | LuckyStar |
-| 526 | 291 | Stephen Glaze |
-| 527 | 291 | Jack Vlasak |
+| 526 | 291 | Jack Vlasak |
+| 527 | 291 | Stephen Glaze |
 | 528 | 291 | Hardtohandle91 |
 | 529 | 291 | Brian Taylor |
 | 530 | 291 | 신재호 |
@@ -550,36 +550,36 @@
 | 542 | 286 | Zappy Clearfit |
 | 543 | 286 | Boldy Matchbuilder |
 | 544 | 283 | Kristie |
-| 545 | 283 | lizlizliz |
-| 546 | 283 | Phillip Vasquez |
-| 547 | 282 | Andra Ward |
-| 548 | 282 | Marlainia Boyd |
+| 545 | 283 | Phillip Vasquez |
+| 546 | 283 | lizlizliz |
+| 547 | 282 | Marlainia Boyd |
+| 548 | 282 | Andra Ward |
 | 549 | 282 | Perky Pusher |
 | 550 | 281 | Terri Smart |
 | 551 | 280 | Slinky Swipe |
 | 552 | 279 | Slinky Clearzone |
-| 553 | 279 | Loopy Tiler |
-| 554 | 279 | BonnieB |
-| 555 | 278 | AnnaM |
-| 556 | 278 | Mister Reid |
+| 553 | 279 | BonnieB |
+| 554 | 279 | Loopy Tiler |
+| 555 | 278 | Mister Reid |
+| 556 | 278 | AnnaM |
 | 557 | 277 | Jenni Hardman |
-| 558 | 276 | Dede Tate |
-| 559 | 276 | Aaron Hartmann |
-| 560 | 276 | Peppy Glider |
-| 561 | 275 | Falisa Bell |
-| 562 | 275 | Pj Rojas |
+| 558 | 276 | Aaron Hartmann |
+| 559 | 276 | Peppy Glider |
+| 560 | 276 | Dede Tate |
+| 561 | 275 | Pj Rojas |
+| 562 | 275 | Falisa Bell |
 | 563 | 275 | Chris Sladoje |
 | 564 | 274 | brite |
 | 565 | 274 | Zany Breaker |
 | 566 | 273 | Kimmie Gargano |
-| 567 | 273 | Kamilya Rembert |
-| 568 | 273 | Vera Beckford |
+| 567 | 273 | Vera Beckford |
+| 568 | 273 | Kamilya Rembert |
 | 569 | 273 | Comedian Gdane |
-| 570 | 272 | Tanisha Taylor |
-| 571 | 272 | Felicia Dungey |
-| 572 | 272 | wmedina67 |
-| 573 | 272 | Koreen Johnson-Woolford |
-| 574 | 272 | ChunLi |
+| 570 | 272 | ChunLi |
+| 571 | 272 | Koreen Johnson-Woolford |
+| 572 | 272 | Tanisha Taylor |
+| 573 | 272 | Felicia Dungey |
+| 574 | 272 | wmedina67 |
 | 575 | 270 | Meshia |
 | 576 | 269 | RylonJones |
 | 577 | 269 | Stephanie L Jeffries Moultrie |
@@ -596,37 +596,37 @@
 | 588 | 261 | PSD |
 | 589 | 261 | Lucy |
 | 590 | 261 | Angela Brown Babin |
-| 591 | 260 | Ashley Danielle |
-| 592 | 260 | Spotlight |
-| 593 | 260 | Jen Hallin |
-| 594 | 260 | Lester Malone |
-| 595 | 260 | Nisha Sunshine Jenkins |
+| 591 | 260 | Spotlight |
+| 592 | 260 | Jen Hallin |
+| 593 | 260 | Lester Malone |
+| 594 | 260 | Nisha Sunshine Jenkins |
+| 595 | 260 | Ashley Danielle |
 | 596 | 259 | Blocksy |
 | 597 | 258 | Kala Miller |
-| 598 | 256 | John Spath |
-| 599 | 256 | Dreamzzz |
+| 598 | 256 | Dreamzzz |
+| 599 | 256 | John Spath |
 | 600 | 256 | Monica Fields |
-| 601 | 255 | Michelle Peters |
-| 602 | 255 | Mathew Trudell |
-| 603 | 254 | Dorian Griffin |
+| 601 | 255 | Mathew Trudell |
+| 602 | 255 | Michelle Peters |
+| 603 | 255 | Kim Holzmiller |
 | 604 | 254 | Brittany Sara Heldwein |
-| 605 | 254 | Cheryl Miller |
-| 606 | 254 | Ashlie Mo |
-| 607 | 254 | BB |
-| 608 | 253 | Nyhlah Patterson |
-| 609 | 252 | Mary Phillippi Blanton |
-| 610 | 252 | Lazy Tiltpiece |
-| 611 | 252 | Shakuria Cortia Burney |
-| 612 | 251 | Taz Ballard |
-| 613 | 250 | Tony Pizzas |
+| 605 | 254 | Dorian Griffin |
+| 606 | 254 | Cheryl Miller |
+| 607 | 254 | Ashlie Mo |
+| 608 | 254 | BB |
+| 609 | 253 | Nyhlah Patterson |
+| 610 | 252 | Mary Phillippi Blanton |
+| 611 | 252 | Lazy Tiltpiece |
+| 612 | 252 | Shakuria Cortia Burney |
+| 613 | 251 | Taz Ballard |
 | 614 | 250 | Rufus |
-| 615 | 249 | Jose Rodriguez |
+| 615 | 250 | Tony Pizzas |
 | 616 | 249 | Fina McKinnis |
-| 617 | 248 | Carla |
-| 618 | 247 | Courtney Cicoria |
+| 617 | 249 | Jose Rodriguez |
+| 618 | 248 | Carla |
 | 619 | 247 | Tyler |
-| 620 | 246 | Lilly Brown |
-| 621 | 246 | Kim Holzmiller |
+| 620 | 247 | Courtney Cicoria |
+| 621 | 246 | Lilly Brown |
 | 622 | 246 | Juicy |
 | 623 | 245 | Melanin Monroe-Dandridge |
 | 624 | 245 | Tracy Feyler |
