@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:04:46 UTC
+# Standings for team2 as of 2026-06-10 09:05:23 UTC
 
 **Total Participants:** 2714
 
@@ -34,7 +34,7 @@
 | 26 | 7123 | Ber |
 | 27 | 7004 | Nerdy Glidepiece |
 | 28 | 6944 | Julie Trede Amerson |
-| 29 | 6507 | Rashanna Bockhorn |
+| 29 | 6595 | Rashanna Bockhorn |
 | 30 | 6406 | Tim Ix |
 | 31 | 6203 | Ashley Miller |
 | 32 | 6154 | Morgann McDaniel |
