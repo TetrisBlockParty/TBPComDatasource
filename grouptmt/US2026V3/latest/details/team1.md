@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:04:44 UTC
+# Standings for team1 as of 2026-06-10 10:05:23 UTC
 
 **Total Participants:** 2254
 
@@ -180,7 +180,7 @@
 | 172 | 813 | Keke Ferguson |
 | 173 | 808 | Taylor Evelyn |
 | 174 | 803 | Big Tina |
-| 175 | 793 | xXEKUNXx |
+| 175 | 799 | xXEKUNXx |
 | 176 | 786 | Novaa |
 | 177 | 786 | Eugina Slater |
 | 178 | 784 | Zappy Riser |
@@ -436,15 +436,15 @@
 | 428 | 352 | Ann Chung |
 | 429 | 352 | Tosha Michelle |
 | 430 | 352 | Asha Langford |
-| 431 | 351 | Shameka Thrasher |
-| 432 | 350 | Giggy Tower |
+| 431 | 352 | Giggy Tower |
+| 432 | 351 | Shameka Thrasher |
 | 433 | 350 | Kimberly Linares Hernandez |
 | 434 | 350 | Daddy |
 | 435 | 350 | Glitzy Patternline |
 | 436 | 349 | Jae Thompson-Tyus |
-| 437 | 348 | CJ Robinson |
-| 438 | 348 | Kelli Couture |
-| 439 | 348 | C Lo Green |
+| 437 | 348 | Kelli Couture |
+| 438 | 348 | C Lo Green |
+| 439 | 348 | CJ Robinson |
 | 440 | 346 | Skippy |
 | 441 | 346 | Jessie N Michael Silvers |
 | 442 | 345 | Jolly Tilefall |
@@ -456,30 +456,30 @@
 | 448 | 338 | Twisty Brickfit |
 | 449 | 337 | Donnie Withthebody |
 | 450 | 337 | Tonia Ramos |
-| 451 | 334 | TBABYJ |
-| 452 | 334 | Emily Wright |
+| 451 | 334 | Emily Wright |
+| 452 | 334 | TBABYJ |
 | 453 | 333 | Heather Wilson |
-| 454 | 332 | Betsy B. Yohan |
-| 455 | 332 | SweetByNBy |
+| 454 | 332 | SweetByNBy |
+| 455 | 332 | Betsy B. Yohan |
 | 456 | 331 | Holly Baker |
 | 457 | 330 | Tracey Johnson |
 | 458 | 329 | Shelly Everette |
 | 459 | 328 | Jelyfish |
 | 460 | 327 | De'Nell Edwards |
-| 461 | 326 | Nate Myers |
-| 462 | 326 | Char |
+| 461 | 326 | Char |
+| 462 | 326 | Nate Myers |
 | 463 | 324 | Melissa D. M. Hornsby |
 | 464 | 324 | Jai |
 | 465 | 323 | Alyssa Rae |
 | 466 | 322 | Juan Alvarez |
 | 467 | 322 | Gbnola |
 | 468 | 321 | Montego Allen |
-| 469 | 320 | Malcolm Stanley |
-| 470 | 320 | Shanns |
+| 469 | 320 | Shanns |
+| 470 | 320 | Malcolm Stanley |
 | 471 | 319 | Nora Mahmoud |
 | 472 | 319 | MACHETEEDDIE513 |
-| 473 | 318 | Clint Mcdowell |
-| 474 | 318 | Nerdy Snapfall |
+| 473 | 318 | Nerdy Snapfall |
+| 474 | 318 | Clint Mcdowell |
 | 475 | 317 | Sammie Walker |
 | 476 | 315 | Alivia Dove |
 | 477 | 314 | Tay |

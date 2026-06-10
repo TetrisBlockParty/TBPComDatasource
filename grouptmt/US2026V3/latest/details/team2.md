@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 10:04:44 UTC
+# Standings for team2 as of 2026-06-10 10:05:23 UTC
 
 **Total Participants:** 2720
 
@@ -204,9 +204,9 @@
 | 196 | 841 | Michelle Luke Banta |
 | 197 | 838 | H |
 | 198 | 837 | MegaPooh |
-| 199 | 835 | Zesty Strikerbuilder |
-| 200 | 834 | Alicia Kinney |
-| 201 | 831 | Kevin Mccoy |
+| 199 | 837 | Kevin Mccoy |
+| 200 | 835 | Zesty Strikerbuilder |
+| 201 | 834 | Alicia Kinney |
 | 202 | 828 | Jat |
 | 203 | 826 | Milad Arzani |
 | 204 | 825 | Nichole Wilson |
@@ -1855,15 +1855,15 @@
 | 1847 | 59 | Christina Nycol |
 | 1848 | 59 | Chirpy Towerer |
 | 1849 | 58 | Slinky Winder |
-| 1850 | 58 | Snappy Matchgrid |
-| 1851 | 58 | Donna Gerald |
-| 1852 | 58 | Corey Mac |
-| 1853 | 58 | Elise Marie Mireles |
-| 1854 | 58 | Shanetta Johnson |
-| 1855 | 58 | Rachel Cress |
-| 1856 | 58 | Flynn Flibble |
-| 1857 | 58 | Tonya Willprecht |
-| 1858 | 57 | Sandra Betz |
+| 1850 | 58 | Sandra Betz |
+| 1851 | 58 | Snappy Matchgrid |
+| 1852 | 58 | Donna Gerald |
+| 1853 | 58 | Corey Mac |
+| 1854 | 58 | Elise Marie Mireles |
+| 1855 | 58 | Shanetta Johnson |
+| 1856 | 58 | Rachel Cress |
+| 1857 | 58 | Flynn Flibble |
+| 1858 | 58 | Tonya Willprecht |
 | 1859 | 57 | Corina Marie Prunty |
 | 1860 | 57 | Giggly Patternline |
 | 1861 | 57 | Jumpy Tilemaker |
