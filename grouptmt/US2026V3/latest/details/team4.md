@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 18:34:44 UTC
+# Standings for team4 as of 2026-06-10 18:35:24 UTC
 
 **Total Participants:** 2359
 
@@ -162,25 +162,25 @@
 | 154 | 970 | Kazrin Douglass |
 | 155 | 952 | Jessi Goodwin |
 | 156 | 952 | Alala.Cersei |
-| 157 | 950 | Nicole Peoples |
-| 158 | 950 | Joyce Myers |
-| 159 | 950 | Genag |
+| 157 | 950 | Joyce Myers |
+| 158 | 950 | Genag |
+| 159 | 950 | Nicole Peoples |
 | 160 | 941 | Cranky Towerbuilder |
 | 161 | 933 | Daryn Elliott |
 | 162 | 929 | Gerald Lew |
 | 163 | 920 | DexterDobbins |
 | 164 | 910 | Neeta Kapadia |
 | 165 | 908 | Andrew Dang |
-| 166 | 903 | Kay |
-| 167 | 902 | vag1974 |
+| 166 | 904 | adrian |
+| 167 | 903 | Kay |
 | 168 | 902 | Dandy Clearfit |
-| 169 | 899 | Boldy Striker |
-| 170 | 894 | Leslie Ann Carter |
-| 171 | 893 | Anthony Lewis |
-| 172 | 889 | Alex Armour |
-| 173 | 883 | Tamara Triplet |
-| 174 | 877 | Hwanger Land |
-| 175 | 874 | adrian |
+| 169 | 902 | vag1974 |
+| 170 | 899 | Boldy Striker |
+| 171 | 894 | Leslie Ann Carter |
+| 172 | 893 | Anthony Lewis |
+| 173 | 889 | Alex Armour |
+| 174 | 883 | Tamara Triplet |
+| 175 | 877 | Hwanger Land |
 | 176 | 859 | George Palacios |
 | 177 | 850 | Shiny Dashy |
 | 178 | 847 | Christy Beezley-Forbush |
@@ -343,26 +343,26 @@
 | 335 | 460 | Chirpy Link |
 | 336 | 460 | Holly Wessel |
 | 337 | 460 | Knijur Callins |
-| 338 | 460 | Shmeedo |
-| 339 | 458 | Tipsy Piecebuilder |
-| 340 | 458 | Aisha Estrada |
-| 341 | 458 | Solace Grace |
-| 342 | 456 | EL Booger |
-| 343 | 454 | Jumpy Builderpiece |
-| 344 | 454 | Glitzy Patternbuilder |
-| 345 | 453 | Poppy |
-| 346 | 452 | Tanita Jobe |
-| 347 | 450 | Breezy Blockzone |
-| 348 | 448 | Earl Edwards |
-| 349 | 445 | Brian Woods |
-| 350 | 444 | Funky Tiler |
-| 351 | 443 | Crissy Hoffman |
-| 352 | 442 | Dazzle Dragon |
-| 353 | 441 | Clever Brickzone |
-| 354 | 441 | Ross Bryant |
-| 355 | 441 | Anna Gribble |
-| 356 | 440 | Karen Rodriguez |
-| 357 | 440 | MomyLiz |
+| 338 | 460 | MomyLiz |
+| 339 | 460 | Shmeedo |
+| 340 | 458 | Tipsy Piecebuilder |
+| 341 | 458 | Aisha Estrada |
+| 342 | 458 | Solace Grace |
+| 343 | 456 | EL Booger |
+| 344 | 454 | Jumpy Builderpiece |
+| 345 | 454 | Glitzy Patternbuilder |
+| 346 | 453 | Poppy |
+| 347 | 452 | Tanita Jobe |
+| 348 | 450 | Breezy Blockzone |
+| 349 | 448 | Earl Edwards |
+| 350 | 445 | Brian Woods |
+| 351 | 444 | Funky Tiler |
+| 352 | 443 | Crissy Hoffman |
+| 353 | 442 | Dazzle Dragon |
+| 354 | 441 | Anna Gribble |
+| 355 | 441 | Clever Brickzone |
+| 356 | 441 | Ross Bryant |
+| 357 | 440 | Karen Rodriguez |
 | 358 | 440 | Brooke Bauer |
 | 359 | 437 | farfromlocal |
 | 360 | 436 | WeeWooWee |
@@ -370,8 +370,8 @@
 | 362 | 434 | Mark Fitch Jr. |
 | 363 | 433 | Slimm |
 | 364 | 433 | Snazzy Corner |
-| 365 | 432 | Lanelva Tiredofbs Marshall |
-| 366 | 432 | Cherrypir05 |
+| 365 | 432 | Cherrypir05 |
+| 366 | 432 | Lanelva Tiredofbs Marshall |
 | 367 | 428 | Miwa |
 | 368 | 428 | Dan Butcher |
 | 369 | 428 | Dolores Falco |
@@ -380,8 +380,8 @@
 | 372 | 425 | Bobbie Harrell |
 | 373 | 424 | June Hoffman |
 | 374 | 424 | Stephanie Gauna |
-| 375 | 421 | Ashley Jenkins |
-| 376 | 421 | Jay Dee |
+| 375 | 421 | Jay Dee |
+| 376 | 421 | Ashley Jenkins |
 | 377 | 421 | Shiny Brick |
 | 378 | 420 | Josh Keith Travierso |
 | 379 | 419 | Anthony McAlister |
@@ -1886,50 +1886,50 @@
 | 1878 | 34 | Jinx4fun |
 | 1879 | 34 | Hyper Towerfit |
 | 1880 | 34 | Danielle Clutter |
-| 1881 | 34 | Poppy Matcher |
-| 1882 | 34 | Loopy Bricky |
-| 1883 | 34 | Yulissa Diaz |
-| 1884 | 33 | Nicole Gilmore |
-| 1885 | 33 | Swanky Zigzag |
-| 1886 | 33 | Shiny Blockfall |
-| 1887 | 33 | Shatika Wallace |
-| 1888 | 33 | Edward Ramos |
-| 1889 | 33 | p11 |
-| 1890 | 33 | Sorry |
-| 1891 | 33 | Samantha LeBlanc |
-| 1892 | 33 | Crafty Slamdrop |
-| 1893 | 32 | Lively Fit |
+| 1881 | 34 | Loopy Bricky |
+| 1882 | 34 | Poppy Matcher |
+| 1883 | 34 | Speedy Caster |
+| 1884 | 34 | Yulissa Diaz |
+| 1885 | 33 | Nicole Gilmore |
+| 1886 | 33 | Swanky Zigzag |
+| 1887 | 33 | p11 |
+| 1888 | 33 | Shiny Blockfall |
+| 1889 | 33 | Shatika Wallace |
+| 1890 | 33 | Edward Ramos |
+| 1891 | 33 | Sorry |
+| 1892 | 33 | Samantha LeBlanc |
+| 1893 | 33 | Crafty Slamdrop |
 | 1894 | 32 | Holly |
-| 1895 | 32 | Christa McPherson Pennington |
-| 1896 | 32 | Wyatt |
-| 1897 | 32 | Samantha Salcedo |
+| 1895 | 32 | Samantha Salcedo |
+| 1896 | 32 | Christa McPherson Pennington |
+| 1897 | 32 | Wyatt |
 | 1898 | 32 | Ruthie Laracuente |
-| 1899 | 32 | Rezinbauer Spicer |
-| 1900 | 32 | Unknown |
-| 1901 | 32 | Jessica Huber |
-| 1902 | 32 | Harpreet Rojas |
-| 1903 | 32 | Erin Randazzo |
-| 1904 | 32 | happy cupcake |
-| 1905 | 32 | Rooney |
-| 1906 | 32 | Anna Nieves |
-| 1907 | 31 | DuvaDova Ahava |
-| 1908 | 31 | Blake Alexander |
-| 1909 | 31 | Abby White |
-| 1910 | 31 | Pinkdragon |
-| 1911 | 31 | Babiideex13 |
-| 1912 | 31 | Michelle Tillery - Edwards |
-| 1913 | 31 | Tifa Awaken Tarot |
-| 1914 | 30 | MamaaCaashh |
-| 1915 | 30 | Christina Guadalupe |
+| 1899 | 32 | Lively Fit |
+| 1900 | 32 | Rezinbauer Spicer |
+| 1901 | 32 | Unknown |
+| 1902 | 32 | Jessica Huber |
+| 1903 | 32 | Harpreet Rojas |
+| 1904 | 32 | Erin Randazzo |
+| 1905 | 32 | happy cupcake |
+| 1906 | 32 | Rooney |
+| 1907 | 32 | Anna Nieves |
+| 1908 | 31 | DuvaDova Ahava |
+| 1909 | 31 | Babiideex13 |
+| 1910 | 31 | Tifa Awaken Tarot |
+| 1911 | 31 | Blake Alexander |
+| 1912 | 31 | Abby White |
+| 1913 | 31 | Pinkdragon |
+| 1914 | 31 | Michelle Tillery - Edwards |
+| 1915 | 30 | MamaaCaashh |
 | 1916 | 30 | Winter |
-| 1917 | 30 | Mari |
-| 1918 | 30 | Novel End83 |
-| 1919 | 30 | Witty Piecebuilder |
-| 1920 | 30 | Jordan Maxwell |
-| 1921 | 30 | Pambeh033 |
-| 1922 | 30 | latingirl1056 |
-| 1923 | 30 | Epic Shatterline |
-| 1924 | 30 | Speedy Caster |
+| 1917 | 30 | Christina Guadalupe |
+| 1918 | 30 | Mari |
+| 1919 | 30 | Novel End83 |
+| 1920 | 30 | Witty Piecebuilder |
+| 1921 | 30 | Jordan Maxwell |
+| 1922 | 30 | Pambeh033 |
+| 1923 | 30 | latingirl1056 |
+| 1924 | 30 | Epic Shatterline |
 | 1925 | 30 | JAKADALEW |
 | 1926 | 30 | Trelisa Ashley |
 | 1927 | 30 | Pam Baumgardner |

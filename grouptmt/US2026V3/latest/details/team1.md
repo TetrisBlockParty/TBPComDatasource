@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:34:44 UTC
+# Standings for team1 as of 2026-06-10 18:35:24 UTC
 
 **Total Participants:** 2319
 
@@ -13,7 +13,7 @@
 | 5 | 12450 | Erika Windom |
 | 6 | 12404 | Carrie English |
 | 7 | 11746 | Tyeina Johnson |
-| 8 | 10540 | Timothy Robert |
+| 8 | 10590 | Timothy Robert |
 | 9 | 10002 | Charnay Peacock |
 | 10 | 9765 | Songne Arif |
 | 11 | 9742 | Dyane Leah Ware |
@@ -144,10 +144,10 @@
 | 136 | 1117 | Slim Shedidthat |
 | 137 | 1111 | Roberta Lynn |
 | 138 | 1100 | Christana Imjustbutton Stone |
-| 139 | 1098 | Plucky Slamdrop |
+| 139 | 1099 | Plucky Slamdrop |
 | 140 | 1084 | Jimmie Makia |
 | 141 | 1079 | De'Laonzeo Anthony |
-| 142 | 1068 | Quirky Fallgrid |
+| 142 | 1078 | Quirky Fallgrid |
 | 143 | 1053 | Yolanda E Fergerson |
 | 144 | 1045 | Joy Citizen Pickney |
 | 145 | 1035 | Lesley Brunkus Cianfaglione |
@@ -1061,81 +1061,81 @@
 | 1053 | 136 | Alanna Breitenbach |
 | 1054 | 136 | Rissa Rozay |
 | 1055 | 136 | Smiley Bridgepiece |
-| 1056 | 135 | Saucy Tile |
-| 1057 | 135 | Lively Rollpiece |
+| 1056 | 135 | UnionBoss |
+| 1057 | 135 | Saucy Tile |
 | 1058 | 135 | RMGreen |
-| 1059 | 135 | Caitlin Michele |
-| 1060 | 135 | Teresa Menefee |
-| 1061 | 135 | UnionBoss |
-| 1062 | 134 | Terrence Webster |
-| 1063 | 134 | Spunky Gridder |
-| 1064 | 134 | Laurie Napper |
+| 1059 | 135 | Teresa Menefee |
+| 1060 | 135 | Caitlin Michele |
+| 1061 | 135 | Lively Rollpiece |
+| 1062 | 134 | Laurie Napper |
+| 1063 | 134 | Terrence Webster |
+| 1064 | 134 | Spunky Gridder |
 | 1065 | 133 | Terrance Tindall |
-| 1066 | 132 | Shaun Baker |
+| 1066 | 132 | Mumitt |
 | 1067 | 132 | tskmstr |
-| 1068 | 132 | Mumitt |
-| 1069 | 131 | Yellowbone |
-| 1070 | 131 | Eugenia Vanclusen |
-| 1071 | 131 | b |
-| 1072 | 130 | Jessica Davis |
-| 1073 | 130 | Nope Young |
-| 1074 | 130 | LaTonya Collier |
-| 1075 | 130 | Latricia George |
+| 1068 | 132 | Hasty Rollzone |
+| 1069 | 132 | Shaun Baker |
+| 1070 | 131 | b |
+| 1071 | 131 | Yellowbone |
+| 1072 | 131 | Eugenia Vanclusen |
+| 1073 | 130 | LaTonya Collier |
+| 1074 | 130 | Latricia George |
+| 1075 | 130 | Nope Young |
 | 1076 | 130 | Tara Clarke |
-| 1077 | 130 | Maria Baez Medina |
-| 1078 | 130 | kingbrook |
-| 1079 | 130 | West Racks |
-| 1080 | 130 | Aridevina |
-| 1081 | 129 | WReckitraff |
-| 1082 | 129 | Chino Baby |
-| 1083 | 128 | Lateef |
-| 1084 | 128 | Willson06 |
-| 1085 | 128 | Macho Lewis |
-| 1086 | 128 | Alonzo Kirkland |
-| 1087 | 128 | Brittany Britkany Marsden-Garrison |
-| 1088 | 127 | tk |
-| 1089 | 127 | Pretty Yella |
-| 1090 | 127 | Laura Osborne |
-| 1091 | 126 | GoldStarJo |
-| 1092 | 126 | Jeremy Hendrix |
-| 1093 | 126 | Ounquan Wright |
-| 1094 | 125 | Meme23 |
-| 1095 | 125 | Angie Lebron |
+| 1077 | 130 | Jessica Davis |
+| 1078 | 130 | Maria Baez Medina |
+| 1079 | 130 | kingbrook |
+| 1080 | 130 | West Racks |
+| 1081 | 130 | Aridevina |
+| 1082 | 129 | WReckitraff |
+| 1083 | 129 | Chino Baby |
+| 1084 | 128 | Lateef |
+| 1085 | 128 | Willson06 |
+| 1086 | 128 | Macho Lewis |
+| 1087 | 128 | Alonzo Kirkland |
+| 1088 | 128 | Brittany Britkany Marsden-Garrison |
+| 1089 | 127 | tk |
+| 1090 | 127 | Pretty Yella |
+| 1091 | 127 | Laura Osborne |
+| 1092 | 126 | GoldStarJo |
+| 1093 | 126 | Jeremy Hendrix |
+| 1094 | 126 | Ounquan Wright |
+| 1095 | 125 | Meme23 |
 | 1096 | 125 | Chummy Twisterfit |
 | 1097 | 125 | Rande Smith |
-| 1098 | 125 | Kayd |
-| 1099 | 124 | Giggy Brickfit |
-| 1100 | 124 | Flashy Stacker |
-| 1101 | 124 | Diamond Nicole |
-| 1102 | 124 | jasi |
-| 1103 | 124 | Andrew Harris |
-| 1104 | 123 | Bunnie Celtavini |
-| 1105 | 123 | Alice Biggs |
-| 1106 | 123 | Angela L Charles |
-| 1107 | 123 | Danny Talbot |
-| 1108 | 123 | Hoppy Buildsnap |
-| 1109 | 123 | Groovy Rotate |
+| 1098 | 125 | Angie Lebron |
+| 1099 | 125 | Kayd |
+| 1100 | 124 | Giggy Brickfit |
+| 1101 | 124 | Flashy Stacker |
+| 1102 | 124 | Diamond Nicole |
+| 1103 | 124 | jasi |
+| 1104 | 124 | Andrew Harris |
+| 1105 | 123 | Bunnie Celtavini |
+| 1106 | 123 | Danny Talbot |
+| 1107 | 123 | Alice Biggs |
+| 1108 | 123 | Angela L Charles |
+| 1109 | 123 | Hoppy Buildsnap |
 | 1110 | 123 | Mamiyoung47 |
 | 1111 | 123 | Tia Hazelton |
-| 1112 | 123 | LaMinda Todd |
-| 1113 | 123 | Ruth Ann Ruiz-Nakashima |
-| 1114 | 122 | Spicy Hedgehog |
-| 1115 | 122 | Nichole Horsley-Conn |
-| 1116 | 122 | Hasty Rollzone |
+| 1112 | 123 | Ruth Ann Ruiz-Nakashima |
+| 1113 | 123 | LaMinda Todd |
+| 1114 | 123 | Groovy Rotate |
+| 1115 | 122 | Spicy Hedgehog |
+| 1116 | 122 | Nichole Horsley-Conn |
 | 1117 | 122 | Teisha Scott |
 | 1118 | 122 | Nick Stowers |
 | 1119 | 122 | Bluebino |
 | 1120 | 121 | Tez Mays |
 | 1121 | 121 | Jaxon Antuna |
 | 1122 | 121 | Alize |
-| 1123 | 120 | Jennifer Rogers |
+| 1123 | 120 | Demi Ovalle |
 | 1124 | 120 | Fransine Bennett |
 | 1125 | 120 | Charles Johnson |
 | 1126 | 120 | Yolanda Sadler |
-| 1127 | 120 | Lauren Farkas |
-| 1128 | 120 | Demi Ovalle |
-| 1129 | 120 | Lawreniesha Burkley |
-| 1130 | 120 | Linzi Cole |
+| 1127 | 120 | Jennifer Rogers |
+| 1128 | 120 | Lauren Farkas |
+| 1129 | 120 | Linzi Cole |
+| 1130 | 120 | Lawreniesha Burkley |
 | 1131 | 119 | Hyy |
 | 1132 | 119 | Brave Gridmatch |
 | 1133 | 119 | Ashley Shelton |
