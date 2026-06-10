@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 18:04:46 UTC
+# Standings for team2 as of 2026-06-10 18:05:23 UTC
 
 **Total Participants:** 2789
 
@@ -13,7 +13,7 @@
 | 5 | 14612 | Lacey Nolting |
 | 6 | 14275 | Crystalin Heath Lewis |
 | 7 | 13761 | Brandon Brown |
-| 8 | 13043 | Ashlea McBlaine |
+| 8 | 13443 | Ashlea McBlaine |
 | 9 | 11909 | Cori Keberlein |
 | 10 | 11136 | Jason Wood |
 | 11 | 11000 | Crafty Ziggy |
@@ -963,15 +963,15 @@
 | 955 | 207 | Hoppy Linkblock |
 | 956 | 207 | Funky Blockmatch |
 | 957 | 207 | Rae |
-| 958 | 206 | Cool Patternbuilder |
-| 959 | 206 | Stoney McMillion |
-| 960 | 205 | Jason P. Schwartz |
-| 961 | 205 | Kelly Hall Whitt |
+| 958 | 206 | Stoney McMillion |
+| 959 | 206 | Cool Patternbuilder |
+| 960 | 205 | Kelly Hall Whitt |
+| 961 | 205 | Jason P. Schwartz |
 | 962 | 205 | Happy Shatterblock |
 | 963 | 205 | Epic Slice |
 | 964 | 205 | Dandy Column |
-| 965 | 204 | Sillyk |
-| 966 | 204 | Carmina Truoiolo |
+| 965 | 204 | Carmina Truoiolo |
+| 966 | 204 | Sillyk |
 | 967 | 203 | Crystal Robinson |
 | 968 | 203 | Brenda Zona |
 | 969 | 203 | Evelyn Olive Kalmbach |
@@ -991,113 +991,113 @@
 | 983 | 199 | Pat Smits |
 | 984 | 198 | Rocroc mo |
 | 985 | 198 | candi |
-| 986 | 198 | Diamond Balotje |
-| 987 | 198 | Frothy Roll |
-| 988 | 198 | Jenna Thorn |
-| 989 | 198 | Shiny Matchpiece |
-| 990 | 197 | Jessica Perkins |
+| 986 | 198 | Rhonda Driskill |
+| 987 | 198 | Jenna Thorn |
+| 988 | 198 | Diamond Balotje |
+| 989 | 198 | Frothy Roll |
+| 990 | 198 | Shiny Matchpiece |
 | 991 | 197 | Michelle Anne |
-| 992 | 197 | Sadie-Damion Smith |
-| 993 | 197 | Aaron Jones |
-| 994 | 197 | Amanda |
-| 995 | 196 | Kendra Sullins |
-| 996 | 196 | Tiffany Powell |
-| 997 | 195 | Frisky Clicker |
-| 998 | 195 | jme |
-| 999 | 195 | Gage Tucker |
-| 1000 | 195 | ASL |
-| 1001 | 195 | C.L. Deslongchamp |
-| 1002 | 195 | James Maness |
-| 1003 | 195 | Edward Conyers |
-| 1004 | 194 | Destiny Turner |
-| 1005 | 194 | Wendy Durrence Jones |
-| 1006 | 194 | Audrey 'Spence' Hallmark |
-| 1007 | 194 | JDub |
-| 1008 | 194 | Cuca Perez |
-| 1009 | 193 | Jackie Moran Tiller |
-| 1010 | 193 | Lively Twisterfit |
-| 1011 | 193 | JrsWife |
-| 1012 | 193 | Jeannine Murphy |
-| 1013 | 193 | Tracy Tokarz |
-| 1014 | 193 | Jaimie Walters |
-| 1015 | 192 | Mandy Smart |
-| 1016 | 192 | Alicia Parrish |
-| 1017 | 192 | Ava Dorsch |
-| 1018 | 192 | Stephen Gillam |
+| 992 | 197 | Jessica Perkins |
+| 993 | 197 | Sadie-Damion Smith |
+| 994 | 197 | Aaron Jones |
+| 995 | 197 | Amanda |
+| 996 | 196 | Kendra Sullins |
+| 997 | 196 | Tiffany Powell |
+| 998 | 195 | Frisky Clicker |
+| 999 | 195 | jme |
+| 1000 | 195 | Gage Tucker |
+| 1001 | 195 | ASL |
+| 1002 | 195 | C.L. Deslongchamp |
+| 1003 | 195 | James Maness |
+| 1004 | 195 | Edward Conyers |
+| 1005 | 194 | Destiny Turner |
+| 1006 | 194 | Wendy Durrence Jones |
+| 1007 | 194 | Audrey 'Spence' Hallmark |
+| 1008 | 194 | JDub |
+| 1009 | 194 | Cuca Perez |
+| 1010 | 193 | Jackie Moran Tiller |
+| 1011 | 193 | Lively Twisterfit |
+| 1012 | 193 | JrsWife |
+| 1013 | 193 | Jeannine Murphy |
+| 1014 | 193 | Tracy Tokarz |
+| 1015 | 193 | Jaimie Walters |
+| 1016 | 192 | Mandy Smart |
+| 1017 | 192 | Alicia Parrish |
+| 1018 | 192 | Ava Dorsch |
 | 1019 | 192 | Jolly Builderpiece |
-| 1020 | 191 | AshleyM |
-| 1021 | 191 | Distro |
-| 1022 | 191 | Tamtam |
-| 1023 | 190 | Shakey Bakey |
-| 1024 | 190 | Jolly Brickroll |
-| 1025 | 190 | Catalina Castro |
-| 1026 | 190 | Brittany Paul |
-| 1027 | 190 | gene15 |
-| 1028 | 190 | Amy Lea Hamilton |
-| 1029 | 190 | Silly square |
-| 1030 | 190 | Amanda Mason Scott |
-| 1031 | 189 | Kristi K Milner |
-| 1032 | 189 | Goofy Patternfit |
-| 1033 | 189 | Audrey Bickford |
-| 1034 | 189 | Poppy Strikerbuilder |
-| 1035 | 188 | Derrick |
-| 1036 | 188 | Ceci |
-| 1037 | 188 | Nikki Layman |
-| 1038 | 188 | Kris Dusza Dodus |
-| 1039 | 188 | Bonnie Huckleberry |
-| 1040 | 187 | Elizabeth Kline |
-| 1041 | 187 | Tony Williams |
-| 1042 | 187 | Abby |
-| 1043 | 187 | Hog Crankin |
-| 1044 | 186 | Jessica Veness-Toth |
-| 1045 | 186 | Tina Carr |
-| 1046 | 186 | Rhonda Driskill |
-| 1047 | 185 | Squared |
-| 1048 | 185 | Clever Linkbuilder |
-| 1049 | 185 | Vicki Flippo |
-| 1050 | 185 | Stacy Hoffman |
-| 1051 | 185 | Kayla Iverson |
-| 1052 | 185 | Carlee Becher |
-| 1053 | 185 | Samantha LeBlanc |
-| 1054 | 185 | Brandon Ray Holt |
-| 1055 | 185 | April Elaine Messenger |
-| 1056 | 185 | Samantha Smith |
-| 1057 | 184 | Dandy Brickbuilder |
-| 1058 | 184 | Bennie Farbo |
-| 1059 | 184 | Jackelyn Ford |
-| 1060 | 184 | Tabitha Ann Bullins-Cobb |
-| 1061 | 184 | Roger Kirksey |
-| 1062 | 184 | Rubics cube |
-| 1063 | 183 | Sharon Wade |
-| 1064 | 183 | Chirpy Clearpiece |
-| 1065 | 183 | Reggie Ellerbe |
-| 1066 | 183 | Jennifer Augustine |
-| 1067 | 183 | Danid |
-| 1068 | 183 | Joshua Hopkins |
-| 1069 | 182 | Joseph Schreier |
-| 1070 | 182 | Steve Eakins |
-| 1071 | 182 | CK Hancock |
-| 1072 | 181 | Shiny Spinfit |
-| 1073 | 181 | Boldy Swipe |
-| 1074 | 181 | Evelyn Confer |
-| 1075 | 180 | MJLovesHer#OneMistake |
-| 1076 | 180 | Val |
-| 1077 | 180 | Cheryl Graves Downard |
-| 1078 | 180 | Roger Kee |
-| 1079 | 180 | Katie Thacker |
-| 1080 | 180 | Dawn Kroptavich |
-| 1081 | 180 | Courtney Madison Hart |
-| 1082 | 180 | Alimae |
-| 1083 | 180 | Kylee Pruitt |
-| 1084 | 180 | Dana Wilson |
+| 1020 | 192 | Stephen Gillam |
+| 1021 | 191 | AshleyM |
+| 1022 | 191 | Distro |
+| 1023 | 191 | Tamtam |
+| 1024 | 190 | Shakey Bakey |
+| 1025 | 190 | Jolly Brickroll |
+| 1026 | 190 | Catalina Castro |
+| 1027 | 190 | Brittany Paul |
+| 1028 | 190 | gene15 |
+| 1029 | 190 | Amanda Mason Scott |
+| 1030 | 190 | Amy Lea Hamilton |
+| 1031 | 190 | Silly square |
+| 1032 | 189 | Kristi K Milner |
+| 1033 | 189 | Goofy Patternfit |
+| 1034 | 189 | Audrey Bickford |
+| 1035 | 189 | Poppy Strikerbuilder |
+| 1036 | 188 | Derrick |
+| 1037 | 188 | Ceci |
+| 1038 | 188 | Nikki Layman |
+| 1039 | 188 | Kris Dusza Dodus |
+| 1040 | 188 | Bonnie Huckleberry |
+| 1041 | 187 | Elizabeth Kline |
+| 1042 | 187 | Tony Williams |
+| 1043 | 187 | Abby |
+| 1044 | 187 | Hog Crankin |
+| 1045 | 186 | Jessica Veness-Toth |
+| 1046 | 186 | Tina Carr |
+| 1047 | 185 | Vicki Flippo |
+| 1048 | 185 | Stacy Hoffman |
+| 1049 | 185 | Kayla Iverson |
+| 1050 | 185 | Carlee Becher |
+| 1051 | 185 | Samantha LeBlanc |
+| 1052 | 185 | Brandon Ray Holt |
+| 1053 | 185 | April Elaine Messenger |
+| 1054 | 185 | Samantha Smith |
+| 1055 | 185 | Roger Kirksey |
+| 1056 | 185 | Squared |
+| 1057 | 185 | Clever Linkbuilder |
+| 1058 | 184 | Rubics cube |
+| 1059 | 184 | Dandy Brickbuilder |
+| 1060 | 184 | Bennie Farbo |
+| 1061 | 184 | Jackelyn Ford |
+| 1062 | 184 | Tabitha Ann Bullins-Cobb |
+| 1063 | 183 | Reggie Ellerbe |
+| 1064 | 183 | Jennifer Augustine |
+| 1065 | 183 | Danid |
+| 1066 | 183 | Joshua Hopkins |
+| 1067 | 183 | Sharon Wade |
+| 1068 | 183 | Chirpy Clearpiece |
+| 1069 | 182 | CK Hancock |
+| 1070 | 182 | Joseph Schreier |
+| 1071 | 182 | Steve Eakins |
+| 1072 | 181 | Boldy Swipe |
+| 1073 | 181 | Evelyn Confer |
+| 1074 | 181 | Shiny Spinfit |
+| 1075 | 180 | Dana Wilson |
+| 1076 | 180 | Alimae |
+| 1077 | 180 | Dawn Kroptavich |
+| 1078 | 180 | Courtney Madison Hart |
+| 1079 | 180 | Kylee Pruitt |
+| 1080 | 180 | MJLovesHer#OneMistake |
+| 1081 | 180 | Val |
+| 1082 | 180 | Cheryl Graves Downard |
+| 1083 | 180 | Roger Kee |
+| 1084 | 180 | Katie Thacker |
 | 1085 | 179 | Jennifer Vitro |
 | 1086 | 179 | Mee Maw |
 | 1087 | 178 | CowboyChalie |
 | 1088 | 178 | build master |
 | 1089 | 177 | Shelby Lynn May |
 | 1090 | 177 | Michelle Feliciano |
-| 1091 | 177 | Chelsea Frye |
-| 1092 | 177 | Teea Makensi Meyer |
+| 1091 | 177 | Teea Makensi Meyer |
+| 1092 | 177 | Chelsea Frye |
 | 1093 | 176 | Peppy Piececlear |
 | 1094 | 176 | Kennadee Albertson |
 | 1095 | 176 | Kimberley Marie |
@@ -1582,42 +1582,42 @@
 | 1574 | 98 | Jolene Moelder |
 | 1575 | 98 | Jill Gelhausen |
 | 1576 | 97 | Dani Newton |
-| 1577 | 97 | Lisa Rose |
-| 1578 | 97 | Zet block |
-| 1579 | 97 | Snazzy Tiley |
-| 1580 | 97 | ace510 |
-| 1581 | 97 | Angela Knighton |
-| 1582 | 97 | Dolly |
-| 1583 | 97 | Adri Perez |
-| 1584 | 96 | Elie Mestre |
-| 1585 | 96 | Kerri Bear |
-| 1586 | 96 | Beverly-Jo Peterson |
-| 1587 | 96 | Cole Posey |
-| 1588 | 96 | ktabzz |
-| 1589 | 96 | Amy Walker |
-| 1590 | 96 | Josimarie Otero |
-| 1591 | 96 | Kevin Perez |
-| 1592 | 96 | Anna |
-| 1593 | 96 | Kacey Lindemuth |
-| 1594 | 96 | Ryan |
-| 1595 | 96 | Chipper Blockroll |
-| 1596 | 96 | Marshall Wilson |
-| 1597 | 96 | Zippy Blockmatch |
-| 1598 | 96 | Joyce Galloway |
-| 1599 | 95 | latte |
-| 1600 | 95 | Tonya Marino |
-| 1601 | 95 | Angiela Hope Boggs |
-| 1602 | 95 | Perky Patternbuilder |
-| 1603 | 95 | JinxxedMozzerella |
-| 1604 | 95 | Angie Barlow |
-| 1605 | 94 | Virginia Campbell |
-| 1606 | 94 | Jewels |
-| 1607 | 94 | Joe Duffer |
-| 1608 | 94 | Chamorro Pride |
-| 1609 | 94 | Brenda Leonard |
-| 1610 | 94 | Chirpy Tower |
-| 1611 | 94 | Isiwin |
-| 1612 | 94 | Frothy Line |
+| 1577 | 97 | Frothy Line |
+| 1578 | 97 | Lisa Rose |
+| 1579 | 97 | Zet block |
+| 1580 | 97 | Snazzy Tiley |
+| 1581 | 97 | ace510 |
+| 1582 | 97 | Angela Knighton |
+| 1583 | 97 | Dolly |
+| 1584 | 97 | Adri Perez |
+| 1585 | 96 | Elie Mestre |
+| 1586 | 96 | Kerri Bear |
+| 1587 | 96 | Beverly-Jo Peterson |
+| 1588 | 96 | Cole Posey |
+| 1589 | 96 | ktabzz |
+| 1590 | 96 | Amy Walker |
+| 1591 | 96 | Josimarie Otero |
+| 1592 | 96 | Kevin Perez |
+| 1593 | 96 | Anna |
+| 1594 | 96 | Kacey Lindemuth |
+| 1595 | 96 | Ryan |
+| 1596 | 96 | Chipper Blockroll |
+| 1597 | 96 | Marshall Wilson |
+| 1598 | 96 | Zippy Blockmatch |
+| 1599 | 96 | Joyce Galloway |
+| 1600 | 95 | latte |
+| 1601 | 95 | Tonya Marino |
+| 1602 | 95 | Angiela Hope Boggs |
+| 1603 | 95 | Perky Patternbuilder |
+| 1604 | 95 | JinxxedMozzerella |
+| 1605 | 95 | Angie Barlow |
+| 1606 | 94 | Virginia Campbell |
+| 1607 | 94 | Jewels |
+| 1608 | 94 | Joe Duffer |
+| 1609 | 94 | Chamorro Pride |
+| 1610 | 94 | Brenda Leonard |
+| 1611 | 94 | Chirpy Tower |
+| 1612 | 94 | Isiwin |
 | 1613 | 94 | Missy Savage-Justice |
 | 1614 | 93 | Brandy Wallace |
 | 1615 | 93 | Connie Breeden |
