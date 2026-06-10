@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 11:52:45 UTC
+# Standings for team4 as of 2026-06-10 11:53:22 UTC
 
 **Total Participants:** 2313
 
@@ -35,8 +35,8 @@
 | 27 | 5100 | Melissa Brown |
 | 28 | 5000 | Michele |
 | 29 | 4996 | Irene Arreguin |
-| 30 | 4841 | Daring Ziggy |
-| 31 | 4801 | Chummy Rollzone |
+| 30 | 4850 | Chummy Rollzone |
+| 31 | 4841 | Daring Ziggy |
 | 32 | 4750 | Jackie Lucas |
 | 33 | 4533 | Juan Ford |
 | 34 | 4418 | Victoria Ver |
@@ -117,7 +117,7 @@
 | 109 | 1225 | Kelly Bernard |
 | 110 | 1221 | Snappy Fitzone |
 | 111 | 1201 | Trice Stevenson |
-| 112 | 1198 | GeorgeButts |
+| 112 | 1201 | GeorgeButts |
 | 113 | 1196 | J |
 | 114 | 1191 | Dana Fontanez |
 | 115 | 1189 | Twirl Girl |
@@ -363,12 +363,12 @@
 | 355 | 418 | Dawn Marie Trujillo |
 | 356 | 415 | Karen Rodriguez |
 | 357 | 415 | Kea Sushi |
-| 358 | 412 | Dan Butcher |
-| 359 | 412 | Clashy |
-| 360 | 412 | Dazzle Dragon |
-| 361 | 411 | EvoKitty |
-| 362 | 411 | Momma Boss |
-| 363 | 410 | Snazzy Corner |
+| 358 | 413 | Snazzy Corner |
+| 359 | 412 | Dan Butcher |
+| 360 | 412 | Clashy |
+| 361 | 412 | Dazzle Dragon |
+| 362 | 411 | EvoKitty |
+| 363 | 411 | Momma Boss |
 | 364 | 410 | Justin Michael |
 | 365 | 409 | beTrue76 |
 | 366 | 408 | Sherry Mooney |
@@ -979,33 +979,33 @@
 | 971 | 150 | Tod Jae |
 | 972 | 150 | William Brooks |
 | 973 | 150 | Breezy Brickfit |
-| 974 | 149 | Andy Petersen |
-| 975 | 149 | Lori A Hamann |
-| 976 | 149 | Miranda Brown |
-| 977 | 149 | Bam SwaggSpitter King |
-| 978 | 149 | Snappy Fill |
-| 979 | 149 | Lilo |
-| 980 | 148 | Latisha TeTe Williams |
-| 981 | 148 | Amy Gutierrez |
-| 982 | 148 | Mar Mar |
-| 983 | 148 | Ash |
-| 984 | 148 | Jasmine Marie |
-| 985 | 148 | La Ah Ox |
-| 986 | 148 | Erica Hardwick |
-| 987 | 148 | Sa5siy |
-| 988 | 147 | Gracey Po |
-| 989 | 147 | Snappy Slice |
-| 990 | 147 | Frisky Balance |
-| 991 | 147 | YenSid |
-| 992 | 147 | Leslie |
-| 993 | 146 | Mone DyTorrion Zyan Lotts |
-| 994 | 146 | Marie Culbert |
-| 995 | 146 | John Wertz |
-| 996 | 146 | Lady |
-| 997 | 146 | Joshua Hunt |
-| 998 | 146 | Mammoth |
-| 999 | 145 | Melissa Gorman |
-| 1000 | 145 | Snippy Fitblock |
+| 974 | 150 | Snippy Fitblock |
+| 975 | 149 | Andy Petersen |
+| 976 | 149 | Lori A Hamann |
+| 977 | 149 | Miranda Brown |
+| 978 | 149 | Bam SwaggSpitter King |
+| 979 | 149 | Snappy Fill |
+| 980 | 149 | Lilo |
+| 981 | 148 | Latisha TeTe Williams |
+| 982 | 148 | Amy Gutierrez |
+| 983 | 148 | Mar Mar |
+| 984 | 148 | Ash |
+| 985 | 148 | Jasmine Marie |
+| 986 | 148 | La Ah Ox |
+| 987 | 148 | Erica Hardwick |
+| 988 | 148 | Sa5siy |
+| 989 | 147 | Gracey Po |
+| 990 | 147 | Snappy Slice |
+| 991 | 147 | Frisky Balance |
+| 992 | 147 | YenSid |
+| 993 | 147 | Leslie |
+| 994 | 146 | Mone DyTorrion Zyan Lotts |
+| 995 | 146 | Marie Culbert |
+| 996 | 146 | John Wertz |
+| 997 | 146 | Lady |
+| 998 | 146 | Joshua Hunt |
+| 999 | 146 | Mammoth |
+| 1000 | 145 | Melissa Gorman |
 | 1001 | 145 | Jeff Seymour |
 | 1002 | 145 | Suzie |
 | 1003 | 145 | Kenny Nguyen |
