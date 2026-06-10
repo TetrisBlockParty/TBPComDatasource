@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:02:43 UTC
+# Standings for team1 as of 2026-06-10 10:03:21 UTC
 
 **Total Participants:** 2253
 
@@ -13,7 +13,7 @@
 | 5 | 11754 | Carrie English |
 | 6 | 11746 | Tyeina Johnson |
 | 7 | 10304 | Erika Windom |
-| 8 | 9790 | Timothy Robert |
+| 8 | 9940 | Timothy Robert |
 | 9 | 9779 | Charnay Peacock |
 | 10 | 9723 | Speedy Spinblock |
 | 11 | 9705 | Songne Arif |
@@ -49,8 +49,8 @@
 | 41 | 2691 | Hyper Slamdrop |
 | 42 | 2619 | Zappy Brickline |
 | 43 | 2615 | JoJo |
-| 44 | 2584 | Tootsie Pop |
-| 45 | 2567 | Jennifer To |
+| 44 | 2587 | Jennifer To |
+| 45 | 2584 | Tootsie Pop |
 | 46 | 2540 | Jamie Willis |
 | 47 | 2476 | Epic Snapfall |
 | 48 | 2448 | Mimi 1.0 |
@@ -103,18 +103,18 @@
 | 95 | 1433 | Spicy Balancer |
 | 96 | 1431 | Richard Horton |
 | 97 | 1400 | FallDee |
-| 98 | 1380 | Jason Mungin |
-| 99 | 1370 | Jonathan Vee Jay |
-| 100 | 1356 | Sarah Marie |
+| 98 | 1397 | Sarah Marie |
+| 99 | 1380 | Jason Mungin |
+| 100 | 1370 | Jonathan Vee Jay |
 | 101 | 1355 | Whitney Butler |
 | 102 | 1352 | She Higgy |
 | 103 | 1349 | Court Court |
 | 104 | 1333 | Ashley Espeut |
 | 105 | 1327 | Dawn L Washington-Feuquay |
 | 106 | 1323 | Denise B |
-| 107 | 1309 | Catara Renae Oliver |
-| 108 | 1303 | Aviv Zehavi |
-| 109 | 1297 | Robbie Cheeseman |
+| 107 | 1316 | Robbie Cheeseman |
+| 108 | 1309 | Catara Renae Oliver |
+| 109 | 1303 | Aviv Zehavi |
 | 110 | 1295 | Kimberly Hernandez |
 | 111 | 1288 | Amalie Newvine |
 | 112 | 1282 | Jon Gathers |
@@ -431,20 +431,20 @@
 | 423 | 355 | Tajuana Juana'Cee Coleman |
 | 424 | 354 | Chilly Wipebuilder |
 | 425 | 354 | Amy Lynn Leifheit |
-| 426 | 353 | Matthieu Pistone |
-| 427 | 352 | Ann Chung |
-| 428 | 352 | Tosha Michelle |
-| 429 | 352 | Asha Langford |
-| 430 | 351 | Shameka Thrasher |
-| 431 | 350 | Kimberly Linares Hernandez |
+| 426 | 353 | Brenda Malachi-butler |
+| 427 | 353 | Matthieu Pistone |
+| 428 | 352 | Ann Chung |
+| 429 | 352 | Tosha Michelle |
+| 430 | 352 | Asha Langford |
+| 431 | 351 | Shameka Thrasher |
 | 432 | 350 | Giggy Tower |
-| 433 | 350 | Glitzy Patternline |
+| 433 | 350 | Kimberly Linares Hernandez |
 | 434 | 350 | Daddy |
-| 435 | 349 | Jae Thompson-Tyus |
-| 436 | 348 | C Lo Green |
+| 435 | 350 | Glitzy Patternline |
+| 436 | 349 | Jae Thompson-Tyus |
 | 437 | 348 | CJ Robinson |
 | 438 | 348 | Kelli Couture |
-| 439 | 347 | Brenda Malachi-butler |
+| 439 | 348 | C Lo Green |
 | 440 | 346 | Skippy |
 | 441 | 346 | Jessie N Michael Silvers |
 | 442 | 345 | Jolly Tilefall |
@@ -456,11 +456,11 @@
 | 448 | 338 | Twisty Brickfit |
 | 449 | 337 | Donnie Withthebody |
 | 450 | 337 | Tonia Ramos |
-| 451 | 334 | Emily Wright |
-| 452 | 334 | TBABYJ |
+| 451 | 334 | TBABYJ |
+| 452 | 334 | Emily Wright |
 | 453 | 333 | Heather Wilson |
-| 454 | 332 | SweetByNBy |
-| 455 | 332 | Betsy B. Yohan |
+| 454 | 332 | Betsy B. Yohan |
+| 455 | 332 | SweetByNBy |
 | 456 | 331 | Holly Baker |
 | 457 | 330 | Tracey Johnson |
 | 458 | 329 | Shelly Everette |
@@ -468,18 +468,18 @@
 | 460 | 327 | De'Nell Edwards |
 | 461 | 326 | Nate Myers |
 | 462 | 326 | Char |
-| 463 | 324 | Jai |
-| 464 | 324 | Melissa D. M. Hornsby |
+| 463 | 324 | Melissa D. M. Hornsby |
+| 464 | 324 | Jai |
 | 465 | 323 | Alyssa Rae |
-| 466 | 322 | Gbnola |
-| 467 | 322 | Juan Alvarez |
+| 466 | 322 | Juan Alvarez |
+| 467 | 322 | Gbnola |
 | 468 | 321 | Montego Allen |
-| 469 | 320 | Shanns |
-| 470 | 320 | Malcolm Stanley |
+| 469 | 320 | Malcolm Stanley |
+| 470 | 320 | Shanns |
 | 471 | 319 | Nora Mahmoud |
 | 472 | 319 | MACHETEEDDIE513 |
-| 473 | 318 | Nerdy Snapfall |
-| 474 | 318 | Clint Mcdowell |
+| 473 | 318 | Clint Mcdowell |
+| 474 | 318 | Nerdy Snapfall |
 | 475 | 317 | Sammie Walker |
 | 476 | 315 | Alivia Dove |
 | 477 | 314 | Tay |

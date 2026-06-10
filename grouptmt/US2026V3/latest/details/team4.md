@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:02:43 UTC
+# Standings for team4 as of 2026-06-10 10:03:21 UTC
 
 **Total Participants:** 2302
 
@@ -225,8 +225,8 @@
 | 217 | 651 | Jewelz |
 | 218 | 650 | Beth Belanger |
 | 219 | 647 | Laguya |
-| 220 | 644 | Krysten Danielle Richard |
-| 221 | 644 | Alex Armour |
+| 220 | 647 | Alex Armour |
+| 221 | 644 | Krysten Danielle Richard |
 | 222 | 641 | Waxboss |
 | 223 | 637 | QueenLi86 |
 | 224 | 634 | Tyson Stroppel |
@@ -737,8 +737,8 @@
 | 729 | 210 | Electric Storm |
 | 730 | 209 | Ashley Ferguson |
 | 731 | 209 | Sadeha Simpson |
-| 732 | 209 | Ashley Mcdonald |
-| 733 | 209 | Weird Cat |
+| 732 | 209 | Weird Cat |
+| 733 | 209 | Ashley Mcdonald |
 | 734 | 209 | Valerie Marrero |
 | 735 | 209 | Adi Patterson |
 | 736 | 208 | Lori Lynn |
@@ -749,23 +749,23 @@
 | 741 | 207 | Jasmine Turner |
 | 742 | 206 | Deana Teck |
 | 743 | 206 | Groovy Stacker |
-| 744 | 206 | Sandy Daye |
-| 745 | 205 | MrsAddams724 |
-| 746 | 204 | Megan Lynn |
-| 747 | 204 | Brenda Gustamantes |
-| 748 | 203 | Gma420 |
-| 749 | 203 | Goofy Strike |
-| 750 | 202 | Shaneé Staunton |
-| 751 | 202 | Ashley Nichole Skamra |
-| 752 | 202 | MrLoner Stoner |
-| 753 | 202 | Clever Patterner |
-| 754 | 202 | Shirley A. Godfrey |
-| 755 | 201 | Abby Waterman |
-| 756 | 201 | Tipsy Patternfit |
-| 757 | 201 | Frilly Zoney |
-| 758 | 201 | Kimberly Mae Watkins |
-| 759 | 200 | Bumpy Morris |
-| 760 | 200 | Snappy Stack |
+| 744 | 206 | Snappy Stack |
+| 745 | 206 | Sandy Daye |
+| 746 | 205 | MrsAddams724 |
+| 747 | 204 | Megan Lynn |
+| 748 | 204 | Brenda Gustamantes |
+| 749 | 203 | Gma420 |
+| 750 | 203 | Goofy Strike |
+| 751 | 202 | Shaneé Staunton |
+| 752 | 202 | Ashley Nichole Skamra |
+| 753 | 202 | MrLoner Stoner |
+| 754 | 202 | Clever Patterner |
+| 755 | 202 | Shirley A. Godfrey |
+| 756 | 201 | Kimberly Mae Watkins |
+| 757 | 201 | Tipsy Patternfit |
+| 758 | 201 | Frilly Zoney |
+| 759 | 201 | Abby Waterman |
+| 760 | 200 | Bumpy Morris |
 | 761 | 200 | Kristine Hj Han |
 | 762 | 200 | Jenn Wilson |
 | 763 | 200 | Jessica Caminos |
