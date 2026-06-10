@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 15:56:46 UTC
+# Standings for team4 as of 2026-06-10 15:57:23 UTC
 
 **Total Participants:** 2340
 
@@ -938,41 +938,41 @@
 | 930 | 165 | Vicente Bolaños Jr. |
 | 931 | 164 | Chad Finton |
 | 932 | 164 | LyvWyre |
-| 933 | 163 | Emily Lowe |
-| 934 | 162 | Lush Twisterfit |
-| 935 | 162 | Fancy Riser |
-| 936 | 162 | BethB |
-| 937 | 161 | Breezy Rollfit |
-| 938 | 161 | Amber Torres |
-| 939 | 161 | Melissa Schwager |
-| 940 | 161 | JustLessie |
-| 941 | 160 | Cozy Staggerpiece |
-| 942 | 160 | Aleta Svitak |
-| 943 | 160 | Glamorous Gracey |
-| 944 | 160 | CorieBe |
-| 945 | 160 | Sha Ta Nay Mitchell |
-| 946 | 160 | Charissa W Walton |
-| 947 | 160 | Stephanie Meinhart |
-| 948 | 159 | Gualberto Ramirez |
-| 949 | 159 | Tracy Marino |
-| 950 | 159 | JJ Merc |
-| 951 | 159 | Ali Garcia |
-| 952 | 159 | Mari Isaac |
-| 953 | 159 | Loony Edge |
-| 954 | 159 | Krazylegzzzz |
-| 955 | 158 | Lamont |
-| 956 | 158 | Cozy Builderfit |
-| 957 | 157 | Marie Lily |
-| 958 | 157 | Yournightmare |
-| 959 | 157 | Bam SwaggSpitter King |
-| 960 | 157 | TheazO |
-| 961 | 156 | Vergie Michael |
-| 962 | 156 | Slinky Snapfit |
-| 963 | 156 | Miranda Brown |
-| 964 | 156 | Kenyatta Davis |
-| 965 | 156 | Brenda Villa |
-| 966 | 155 | Krystal Simpson |
-| 967 | 155 | Shavondelia Williams |
+| 933 | 163 | Shavondelia Williams |
+| 934 | 163 | Emily Lowe |
+| 935 | 162 | Lush Twisterfit |
+| 936 | 162 | Fancy Riser |
+| 937 | 162 | BethB |
+| 938 | 161 | Breezy Rollfit |
+| 939 | 161 | Amber Torres |
+| 940 | 161 | Melissa Schwager |
+| 941 | 161 | JustLessie |
+| 942 | 160 | Cozy Staggerpiece |
+| 943 | 160 | Aleta Svitak |
+| 944 | 160 | Glamorous Gracey |
+| 945 | 160 | CorieBe |
+| 946 | 160 | Sha Ta Nay Mitchell |
+| 947 | 160 | Charissa W Walton |
+| 948 | 160 | Stephanie Meinhart |
+| 949 | 159 | Gualberto Ramirez |
+| 950 | 159 | Tracy Marino |
+| 951 | 159 | JJ Merc |
+| 952 | 159 | Ali Garcia |
+| 953 | 159 | Mari Isaac |
+| 954 | 159 | Loony Edge |
+| 955 | 159 | Krazylegzzzz |
+| 956 | 158 | Lamont |
+| 957 | 158 | Cozy Builderfit |
+| 958 | 157 | Marie Lily |
+| 959 | 157 | Yournightmare |
+| 960 | 157 | Bam SwaggSpitter King |
+| 961 | 157 | TheazO |
+| 962 | 156 | Vergie Michael |
+| 963 | 156 | Slinky Snapfit |
+| 964 | 156 | Miranda Brown |
+| 965 | 156 | Kenyatta Davis |
+| 966 | 156 | Brenda Villa |
+| 967 | 155 | Krystal Simpson |
 | 968 | 155 | Shayna Vaigneur-Hall |
 | 969 | 155 | idk240 |
 | 970 | 155 | Kristen Lester |

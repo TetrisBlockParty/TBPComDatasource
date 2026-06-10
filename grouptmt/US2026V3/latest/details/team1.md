@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:56:46 UTC
+# Standings for team1 as of 2026-06-10 15:57:23 UTC
 
 **Total Participants:** 2291
 
@@ -53,7 +53,7 @@
 | 45 | 2640 | Jamie Willis |
 | 46 | 2619 | Zappy Brickline |
 | 47 | 2584 | Tootsie Pop |
-| 48 | 2496 | Epic Snapfall |
+| 48 | 2500 | Epic Snapfall |
 | 49 | 2456 | Mimi 1.0 |
 | 50 | 2412 | D'Andra Stewart |
 | 51 | 2372 | Chris Caniglia |
@@ -1306,63 +1306,63 @@
 | 1298 | 85 | Jessie Wallace |
 | 1299 | 85 | Skye |
 | 1300 | 85 | Crafty Link |
-| 1301 | 84 | Mighty plantlady |
-| 1302 | 84 | Cherita Copney |
-| 1303 | 84 | Boldy Matchfit |
-| 1304 | 84 | Peppy Shatterblock |
+| 1301 | 84 | Cherita Copney |
+| 1302 | 84 | Robyn Ellis |
+| 1303 | 84 | Peppy Shatterblock |
+| 1304 | 84 | Boldy Matchfit |
 | 1305 | 84 | Simone Dublin |
-| 1306 | 84 | Robyn Ellis |
-| 1307 | 83 | John C Sexton |
-| 1308 | 83 | Aridevina |
-| 1309 | 83 | MrsMeadows2019 |
-| 1310 | 83 | Alyssa H |
+| 1306 | 84 | Mighty plantlady |
+| 1307 | 83 | BlessedBeauty |
+| 1308 | 83 | MrsMeadows2019 |
+| 1309 | 83 | Alyssa H |
+| 1310 | 83 | Aridevina |
 | 1311 | 83 | Blakk Ru-sta |
 | 1312 | 83 | The goat |
-| 1313 | 83 | Ahsokadog |
+| 1313 | 83 | John C Sexton |
 | 1314 | 83 | Grant Wilson |
-| 1315 | 83 | BlessedBeauty |
-| 1316 | 82 | Idelia L Brown |
+| 1315 | 83 | Ahsokadog |
+| 1316 | 82 | Quirky Slammer |
 | 1317 | 82 | Kenneth Williams |
-| 1318 | 82 | Quirky Slammer |
-| 1319 | 82 | Taimir Colón |
-| 1320 | 82 | Sagitterrorist |
-| 1321 | 81 | Vontii Blades |
+| 1318 | 82 | Idelia L Brown |
+| 1319 | 82 | Sagitterrorist |
+| 1320 | 82 | Taimir Colón |
+| 1321 | 81 | Centara Goette |
 | 1322 | 81 | Melanie Houghton-McCann |
-| 1323 | 81 | Hannah Hall |
-| 1324 | 81 | Amber Interrobang |
+| 1323 | 81 | Amber Interrobang |
+| 1324 | 81 | GracefulOwl808 |
 | 1325 | 81 | Amanda Colwell |
-| 1326 | 81 | GracefulOwl808 |
-| 1327 | 80 | Hoppy Towerfall |
-| 1328 | 80 | Lisa420 |
-| 1329 | 80 | Lady Scorpio |
-| 1330 | 80 | Tina Criam |
-| 1331 | 80 | Smiley Glider |
-| 1332 | 80 | Alisha Dawson Crouch |
-| 1333 | 80 | Trixie |
-| 1334 | 80 | Bianca Nawlinsgurl Ferguson |
-| 1335 | 80 | Michael Gray |
+| 1326 | 81 | Vontii Blades |
+| 1327 | 81 | Hannah Hall |
+| 1328 | 80 | Chevalier Burley |
+| 1329 | 80 | Lisa420 |
+| 1330 | 80 | Trixie |
+| 1331 | 80 | Tina Criam |
+| 1332 | 80 | Hoppy Towerfall |
+| 1333 | 80 | Bianca Nawlinsgurl Ferguson |
+| 1334 | 80 | Michael Gray |
+| 1335 | 80 | Lady Scorpio |
 | 1336 | 80 | Frothy Zoney |
-| 1337 | 80 | Chevalier Burley |
+| 1337 | 80 | Smiley Glider |
 | 1338 | 80 | Shoppingbagdrezzy |
-| 1339 | 80 | Monique Toya Good |
-| 1340 | 80 | Dani McLeod |
-| 1341 | 80 | Ness |
-| 1342 | 80 | Witty Snapbuilder |
-| 1343 | 79 | Ray Baker |
-| 1344 | 79 | Chinkey Overit |
-| 1345 | 79 | Carolyn Delphie |
+| 1339 | 80 | Ness |
+| 1340 | 80 | Witty Snapbuilder |
+| 1341 | 80 | Monique Toya Good |
+| 1342 | 80 | Dani McLeod |
+| 1343 | 80 | Alisha Dawson Crouch |
+| 1344 | 79 | Carolyn Delphie |
+| 1345 | 79 | Ray Baker |
 | 1346 | 79 | Jiff |
-| 1347 | 79 | Centara Goette |
-| 1348 | 78 | Lush Crasher |
+| 1347 | 79 | Chinkey Overit |
+| 1348 | 78 | sasha |
 | 1349 | 78 | Snappy Fall |
-| 1350 | 78 | Breeze |
-| 1351 | 78 | sasha |
-| 1352 | 78 | SnazzySnippet |
-| 1353 | 78 | Michelle Fowler |
-| 1354 | 78 | Jose González |
-| 1355 | 78 | Angela C. |
-| 1356 | 77 | Adonai Saves |
-| 1357 | 77 | Shemeka Bates |
+| 1350 | 78 | Michelle Fowler |
+| 1351 | 78 | Angela C. |
+| 1352 | 78 | Breeze |
+| 1353 | 78 | Jose González |
+| 1354 | 78 | Lush Crasher |
+| 1355 | 78 | SnazzySnippet |
+| 1356 | 77 | Shemeka Bates |
+| 1357 | 77 | Adonai Saves |
 | 1358 | 77 | Alturas Supremenineteen Banks |
 | 1359 | 77 | Clever Wrecker |
 | 1360 | 77 | Renee J. Thomas |
