@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 03:24:47 UTC
+# Standings for team2 as of 2026-06-10 03:25:21 UTC
 
 **Total Participants:** 2664
 
@@ -76,8 +76,8 @@
 | 68 | 2600 | LEW |
 | 69 | 2592 | Frisky Balanceblock |
 | 70 | 2574 | Andrew Weissenborn |
-| 71 | 2510 | Jennifer Corder |
-| 72 | 2489 | LaWanda Powell |
+| 71 | 2539 | LaWanda Powell |
+| 72 | 2510 | Jennifer Corder |
 | 73 | 2471 | Happy Pivotfall |
 | 74 | 2393 | Tonya Taber |
 | 75 | 2375 | Epic Frame |
@@ -201,59 +201,59 @@
 | 193 | 822 | Kurt Brown |
 | 194 | 822 | Glitzy Base |
 | 195 | 820 | Krisanne Kesner-Lonsby |
-| 196 | 813 | Loony Faller |
-| 197 | 810 | Zachary Vymislicky |
-| 198 | 808 | Crystal Allen |
-| 199 | 806 | Kellie Montgomery |
-| 200 | 805 | Nicole Hogue |
-| 201 | 805 | Lashanda Bertram |
-| 202 | 803 | Amanda Sikes |
-| 203 | 801 | Alicia Kinney |
-| 204 | 800 | Ashley Green |
-| 205 | 798 | Rob Owens |
-| 206 | 798 | Jamie Jones |
-| 207 | 797 | Perii Reynoso |
-| 208 | 791 | Sandy Lynn |
-| 209 | 785 | MegaPooh |
-| 210 | 784 | Steven Craig |
-| 211 | 782 | Kimmyc |
-| 212 | 777 | Alison Waller |
-| 213 | 776 | Becca Marie |
-| 214 | 770 | Rhonda Diebold |
-| 215 | 768 | Danielle Blount |
-| 216 | 767 | Denise Morehart |
-| 217 | 751 | Cool Climber |
-| 218 | 750 | Tisha Hairston |
-| 219 | 745 | Mom |
-| 220 | 742 | Lori Whitman |
-| 221 | 740 | Michelle Luke Banta |
-| 222 | 740 | Nikki Hayes |
-| 223 | 736 | Nikki Carter |
-| 224 | 729 | Zarah Kettler |
-| 225 | 728 | Tim Tim |
-| 226 | 726 | Sarina Vollink |
-| 227 | 724 | Kaylene Rigas |
-| 228 | 723 | Nutty Curver |
-| 229 | 720 | Nikki EightySixed |
-| 230 | 719 | KayLynn Ogden McClelland |
+| 196 | 819 | KayLynn Ogden McClelland |
+| 197 | 813 | Loony Faller |
+| 198 | 810 | Zachary Vymislicky |
+| 199 | 808 | Crystal Allen |
+| 200 | 806 | Kellie Montgomery |
+| 201 | 805 | Nicole Hogue |
+| 202 | 805 | Lashanda Bertram |
+| 203 | 803 | Amanda Sikes |
+| 204 | 801 | Alicia Kinney |
+| 205 | 800 | Ashley Green |
+| 206 | 798 | Rob Owens |
+| 207 | 798 | Jamie Jones |
+| 208 | 797 | Perii Reynoso |
+| 209 | 791 | Sandy Lynn |
+| 210 | 785 | MegaPooh |
+| 211 | 784 | Steven Craig |
+| 212 | 782 | Kimmyc |
+| 213 | 777 | Alison Waller |
+| 214 | 776 | Becca Marie |
+| 215 | 770 | Rhonda Diebold |
+| 216 | 770 | Denise Morehart |
+| 217 | 768 | Danielle Blount |
+| 218 | 751 | Cool Climber |
+| 219 | 750 | Tisha Hairston |
+| 220 | 745 | Mom |
+| 221 | 742 | Lori Whitman |
+| 222 | 740 | Michelle Luke Banta |
+| 223 | 740 | Nikki Hayes |
+| 224 | 736 | Nikki Carter |
+| 225 | 729 | Zarah Kettler |
+| 226 | 728 | Tim Tim |
+| 227 | 726 | Sarina Vollink |
+| 228 | 724 | Kaylene Rigas |
+| 229 | 723 | Nutty Curver |
+| 230 | 720 | Nikki EightySixed |
 | 231 | 716 | Mouh Med |
 | 232 | 715 | Avie Lou |
 | 233 | 714 | Kellie Sharp Godfrey |
 | 234 | 712 | Sully |
-| 235 | 711 | Kevin Mccoy |
-| 236 | 706 | Milad Arzani |
-| 237 | 705 | Chasity Simpson |
-| 238 | 701 | Flashy Twistline |
-| 239 | 700 | DukeDino |
-| 240 | 700 | Sharon L Brazelton |
-| 241 | 698 | Jenni LeBlanc |
-| 242 | 696 | Chipper Stackbuilder |
-| 243 | 695 | Theresa Huddleston |
-| 244 | 694 | Sabrina Hardrick |
-| 245 | 691 | Wacky Tumbler |
-| 246 | 687 | meg |
-| 247 | 685 | Christina Maria |
-| 248 | 681 | Lisa Underwood Desmond |
+| 235 | 711 | Lisa Underwood Desmond |
+| 236 | 711 | Kevin Mccoy |
+| 237 | 706 | Milad Arzani |
+| 238 | 705 | Chasity Simpson |
+| 239 | 701 | Flashy Twistline |
+| 240 | 701 | Chipper Stackbuilder |
+| 241 | 700 | Sharon L Brazelton |
+| 242 | 700 | DukeDino |
+| 243 | 698 | Jenni LeBlanc |
+| 244 | 695 | Theresa Huddleston |
+| 245 | 694 | Sabrina Hardrick |
+| 246 | 691 | Wacky Tumbler |
+| 247 | 687 | meg |
+| 248 | 685 | Christina Maria |
 | 249 | 679 | True |
 | 250 | 677 | Chris Cooper |
 | 251 | 677 | Cool Balancer |
@@ -1390,19 +1390,19 @@
 | 1382 | 110 | Crystal Logan |
 | 1383 | 110 | Smiley Clearer |
 | 1384 | 109 | Shannie |
-| 1385 | 109 | Sandra Rotton Bragg |
-| 1386 | 108 | Armordguy |
-| 1387 | 108 | Jamie Benge |
-| 1388 | 108 | Crystal Whygle |
-| 1389 | 108 | Miranda Krentz |
-| 1390 | 108 | Angela Oates-Killebrew |
-| 1391 | 108 | Cheery Blast |
-| 1392 | 108 | Jennifer Robinson |
-| 1393 | 108 | Lori Lorenz |
-| 1394 | 107 | Giggy Linkgrid |
-| 1395 | 107 | Carole Brown |
-| 1396 | 107 | Loopy Zone |
-| 1397 | 106 | Dena Cudjo |
+| 1385 | 109 | Dena Cudjo |
+| 1386 | 109 | Sandra Rotton Bragg |
+| 1387 | 108 | Armordguy |
+| 1388 | 108 | Jamie Benge |
+| 1389 | 108 | Crystal Whygle |
+| 1390 | 108 | Miranda Krentz |
+| 1391 | 108 | Angela Oates-Killebrew |
+| 1392 | 108 | Cheery Blast |
+| 1393 | 108 | Jennifer Robinson |
+| 1394 | 108 | Lori Lorenz |
+| 1395 | 107 | Giggy Linkgrid |
+| 1396 | 107 | Carole Brown |
+| 1397 | 107 | Loopy Zone |
 | 1398 | 106 | Teresa Ann Curry |
 | 1399 | 106 | Ashley Lee DeHaan |
 | 1400 | 106 | Nikki Blilie |
