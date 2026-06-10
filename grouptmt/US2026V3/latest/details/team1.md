@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:38:45 UTC
+# Standings for team1 as of 2026-06-10 20:39:23 UTC
 
 **Total Participants:** 2339
 
@@ -71,7 +71,7 @@
 | 63 | 2138 | Linzie Marie |
 | 64 | 2106 | Shellzb Roberts |
 | 65 | 2103 | April Inboden |
-| 66 | 2076 | Moomoo |
+| 66 | 2078 | Moomoo |
 | 67 | 2064 | Louis Richard Jr |
 | 68 | 2022 | Helen Smith |
 | 69 | 1966 | Ceilo Marie |
@@ -750,117 +750,117 @@
 | 742 | 225 | Jimmy Shannon |
 | 743 | 224 | Ysma Simmons |
 | 744 | 224 | Joka NoTime ForHataz |
-| 745 | 224 | MELLZZtick€T |
-| 746 | 224 | Miera Nicole |
-| 747 | 224 | Lively Wipeout |
-| 748 | 224 | DeAngelo Sorrells |
+| 745 | 224 | Miera Nicole |
+| 746 | 224 | MELLZZtick€T |
+| 747 | 224 | DeAngelo Sorrells |
+| 748 | 224 | Lively Wipeout |
 | 749 | 223 | Analesia Taylor |
 | 750 | 222 | Antoinette Kelly |
 | 751 | 222 | Big Bovice |
-| 752 | 222 | Krystal Maynard |
+| 752 | 222 | Victoria Smith |
 | 753 | 222 | Latoya Carson |
-| 754 | 222 | Victoria Smith |
+| 754 | 222 | Krystal Maynard |
 | 755 | 221 | Ebby |
 | 756 | 221 | Frances Davis |
-| 757 | 220 | jeremy92 |
-| 758 | 220 | Leavon Smith |
-| 759 | 220 | Tushama Cheris Okraku |
-| 760 | 219 | Jason Saputo |
-| 761 | 219 | Cynda Cyn |
-| 762 | 219 | Jackytrain52 |
-| 763 | 219 | TY Newme Batts |
-| 764 | 219 | Nekka |
+| 757 | 220 | Leavon Smith |
+| 758 | 220 | Tushama Cheris Okraku |
+| 759 | 220 | jeremy92 |
+| 760 | 219 | Cynda Cyn |
+| 761 | 219 | Jackytrain52 |
+| 762 | 219 | TY Newme Batts |
+| 763 | 219 | Nekka |
+| 764 | 219 | Jason Saputo |
 | 765 | 218 | Tee Spinks |
 | 766 | 217 | Travis Davison |
 | 767 | 217 | Shemar Singleton |
-| 768 | 217 | Louise Parker |
-| 769 | 217 | MamaBearTiff |
-| 770 | 216 | Laysa Nunez |
-| 771 | 216 | Sallie Sanborn |
-| 772 | 216 | squints |
-| 773 | 216 | Rachel Renae Bettis |
-| 774 | 216 | Lively Clusterline |
-| 775 | 215 | Gerold Folk Haddock |
-| 776 | 215 | GetDaOPPS |
-| 777 | 215 | Angie Smith |
-| 778 | 215 | Nikiya |
-| 779 | 215 | Perky Balancer |
-| 780 | 214 | Sunny Clicky |
-| 781 | 214 | Nickeya Phillips |
-| 782 | 213 | Oaklonboy mike |
-| 783 | 213 | Lawanda Conley |
+| 768 | 217 | MamaBearTiff |
+| 769 | 217 | Louise Parker |
+| 770 | 216 | squints |
+| 771 | 216 | Rachel Renae Bettis |
+| 772 | 216 | Laysa Nunez |
+| 773 | 216 | Lively Clusterline |
+| 774 | 216 | Sallie Sanborn |
+| 775 | 215 | Angie Smith |
+| 776 | 215 | Gerold Folk Haddock |
+| 777 | 215 | Perky Balancer |
+| 778 | 215 | GetDaOPPS |
+| 779 | 215 | Nikiya |
+| 780 | 214 | Nickeya Phillips |
+| 781 | 214 | Sunny Clicky |
+| 782 | 213 | Lawanda Conley |
+| 783 | 213 | Oaklonboy mike |
 | 784 | 213 | MrsDontPlay |
-| 785 | 212 | Chocolate |
-| 786 | 212 | Ivery Lee Grays Jr. |
+| 785 | 212 | Iceman |
+| 786 | 212 | Chocolate |
 | 787 | 212 | Tina Blessed Cage |
-| 788 | 212 | Iceman |
+| 788 | 212 | Ivery Lee Grays Jr. |
 | 789 | 212 | Dirty Deeds |
 | 790 | 211 | Deanna Close |
 | 791 | 211 | Terrie |
 | 792 | 210 | Barbramerri Tarboro |
 | 793 | 210 | Spadez1231 |
 | 794 | 210 | Don Ray Mc |
-| 795 | 210 | Slinky Fallzone |
-| 796 | 210 | Crystal Garay |
+| 795 | 210 | Crystal Garay |
+| 796 | 210 | Slinky Fallzone |
 | 797 | 210 | Mom3granny2 |
-| 798 | 209 | Mami Badd |
-| 799 | 209 | $hort Dog |
+| 798 | 210 | Lindsey |
+| 799 | 209 | Mami Badd |
 | 800 | 209 | Kashh |
-| 801 | 208 | Derald Miller |
-| 802 | 207 | Tangy Moore |
-| 803 | 206 | Kat |
-| 804 | 205 | Marcello Rush |
-| 805 | 205 | Stephen Garland |
-| 806 | 205 | Tito Divyn |
-| 807 | 205 | Treneil Daffin |
-| 808 | 205 | Tramaine Crockrum |
-| 809 | 205 | tg |
-| 810 | 204 | Maxine Williams |
-| 811 | 204 | Xana Zania Bopp |
-| 812 | 204 | Renee Marshall |
-| 813 | 204 | Glitzy Clusterer |
-| 814 | 203 | KimChii |
-| 815 | 203 | Duncan Timothy |
-| 816 | 203 | Tina Bongcayao |
-| 817 | 202 | Messy Live |
+| 801 | 209 | $hort Dog |
+| 802 | 208 | Derald Miller |
+| 803 | 207 | Tangy Moore |
+| 804 | 206 | Kat |
+| 805 | 205 | tg |
+| 806 | 205 | Stephen Garland |
+| 807 | 205 | Tito Divyn |
+| 808 | 205 | Marcello Rush |
+| 809 | 205 | Tramaine Crockrum |
+| 810 | 205 | Treneil Daffin |
+| 811 | 204 | Renee Marshall |
+| 812 | 204 | Xana Zania Bopp |
+| 813 | 204 | Maxine Williams |
+| 814 | 204 | Glitzy Clusterer |
+| 815 | 203 | KimChii |
+| 816 | 203 | Duncan Timothy |
+| 817 | 203 | Tina Bongcayao |
 | 818 | 202 | Tempee |
-| 819 | 202 | Alexandrla Smith |
+| 819 | 202 | Hyper Blocky |
 | 820 | 202 | Undeniable Williams |
 | 821 | 202 | Nutty Fallmatch |
-| 822 | 202 | Hyper Blocky |
-| 823 | 202 | Paul Pendley |
-| 824 | 201 | Lindsey |
-| 825 | 201 | Sunny Tumbler |
-| 826 | 201 | Boldy Pivoty |
-| 827 | 201 | Bea Dyer-Fields |
-| 828 | 201 | Michelle Fowler |
+| 822 | 202 | Messy Live |
+| 823 | 202 | Alexandrla Smith |
+| 824 | 202 | Paul Pendley |
+| 825 | 201 | Bea Dyer-Fields |
+| 826 | 201 | Michelle Fowler |
+| 827 | 201 | Sunny Tumbler |
+| 828 | 201 | Boldy Pivoty |
 | 829 | 200 | Yellowguy3 |
 | 830 | 200 | Kyle Conley |
 | 831 | 199 | Tanesha Ga'sFinest Corbett |
 | 832 | 199 | Missy Myvette |
-| 833 | 198 | Biggestboss Ransom |
-| 834 | 198 | Darrelle Short |
+| 833 | 198 | Darrelle Short |
+| 834 | 198 | Biggestboss Ransom |
 | 835 | 198 | Cornelius Neal |
 | 836 | 198 | Rhianna Dinki Austin |
-| 837 | 197 | krd |
-| 838 | 197 | Crtjstr |
-| 839 | 197 | Amanda Woodruff |
-| 840 | 196 | Arlea Mann |
-| 841 | 196 | Katness |
+| 837 | 197 | Amanda Woodruff |
+| 838 | 197 | krd |
+| 839 | 197 | Crtjstr |
+| 840 | 196 | Katness |
+| 841 | 196 | Arlea Mann |
 | 842 | 196 | Daphne Ceasar |
-| 843 | 195 | Lucy Range |
-| 844 | 195 | Chanel White |
-| 845 | 195 | LaPorscha Wright |
-| 846 | 195 | Elaine Pauley |
-| 847 | 195 | Eric Machuca |
-| 848 | 194 | Boricua64 |
-| 849 | 194 | Ernie Waters |
+| 843 | 195 | Chanel White |
+| 844 | 195 | LaPorscha Wright |
+| 845 | 195 | Lucy Range |
+| 846 | 195 | Eric Machuca |
+| 847 | 195 | Elaine Pauley |
+| 848 | 194 | Ernie Waters |
+| 849 | 194 | Boricua64 |
 | 850 | 193 | Angelique Talbot |
 | 851 | 192 | Cameo Tweed |
 | 852 | 192 | Mike Hromowyk |
-| 853 | 192 | QueenzMo |
-| 854 | 192 | Taneka Howell |
-| 855 | 192 | Li-Li Ratliff |
+| 853 | 192 | Taneka Howell |
+| 854 | 192 | Li-Li Ratliff |
+| 855 | 192 | QueenzMo |
 | 856 | 190 | Chipper Snapper |
 | 857 | 190 | Marshall Davis |
 | 858 | 190 | Essence Jones |
