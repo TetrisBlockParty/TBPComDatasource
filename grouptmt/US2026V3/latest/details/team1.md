@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:00:48 UTC
+# Standings for team1 as of 2026-06-10 20:01:23 UTC
 
 **Total Participants:** 2333
 
@@ -433,19 +433,19 @@
 | 425 | 380 | Still Ten Tay |
 | 426 | 380 | Tonya Thomas |
 | 427 | 380 | Ketrell Bailey |
-| 428 | 380 | MindlessMic |
-| 429 | 380 | SherylU |
-| 430 | 378 | Giggy Tower |
-| 431 | 378 | McKayla Owens |
+| 428 | 380 | Tajuana Juana'Cee Coleman |
+| 429 | 380 | MindlessMic |
+| 430 | 380 | SherylU |
+| 431 | 378 | Giggy Tower |
 | 432 | 378 | Tyree Tman Shinette |
-| 433 | 377 | Eric Spencer Whitaker |
-| 434 | 377 | AF Cruz |
-| 435 | 376 | Skippy |
-| 436 | 376 | TBABYJ |
-| 437 | 376 | Char |
-| 438 | 375 | Betsy B. Yohan |
-| 439 | 375 | Tosha Michelle |
-| 440 | 374 | Tajuana Juana'Cee Coleman |
+| 433 | 378 | McKayla Owens |
+| 434 | 377 | Eric Spencer Whitaker |
+| 435 | 377 | AF Cruz |
+| 436 | 376 | Skippy |
+| 437 | 376 | TBABYJ |
+| 438 | 376 | Char |
+| 439 | 375 | Betsy B. Yohan |
+| 440 | 375 | Tosha Michelle |
 | 441 | 370 | Allison Baxter |
 | 442 | 370 | Stacy Nicole |
 | 443 | 369 | Guard Up |
@@ -665,53 +665,53 @@
 | 657 | 256 | Dannie |
 | 658 | 255 | Mathew Trudell |
 | 659 | 254 | Polite Granny |
-| 660 | 254 | Christy Quick |
-| 661 | 254 | Dorian Griffin |
-| 662 | 253 | Nyhlah Patterson |
-| 663 | 253 | Vontesha Kidd |
-| 664 | 252 | Lazy Tiltpiece |
-| 665 | 252 | Shakuria Cortia Burney |
-| 666 | 251 | Taz Ballard |
-| 667 | 251 | Chris Nelson |
+| 660 | 254 | Dorian Griffin |
+| 661 | 254 | Christy Quick |
+| 662 | 253 | Vontesha Kidd |
+| 663 | 253 | Nyhlah Patterson |
+| 664 | 252 | Shakuria Cortia Burney |
+| 665 | 252 | Lazy Tiltpiece |
+| 666 | 251 | Chris Nelson |
+| 667 | 251 | Taz Ballard |
 | 668 | 250 | Rufus |
 | 669 | 250 | Tony Pizzas |
-| 670 | 249 | Fina McKinnis |
-| 671 | 248 | Carla |
-| 672 | 247 | Courtney Cicoria |
+| 670 | 249 | Lynn |
+| 671 | 249 | Fina McKinnis |
+| 672 | 248 | Carla |
 | 673 | 247 | Tyler |
-| 674 | 246 | Lilly Brown |
-| 675 | 246 | Stanley Dixon |
-| 676 | 246 | Karen Knapp |
-| 677 | 245 | Tracy Feyler |
-| 678 | 245 | Lynnette WheelerBushnell |
-| 679 | 245 | Loony Clearer |
-| 680 | 244 | Lynn |
+| 674 | 247 | Courtney Cicoria |
+| 675 | 246 | Lilly Brown |
+| 676 | 246 | Stanley Dixon |
+| 677 | 246 | Karen Knapp |
+| 678 | 245 | Loony Clearer |
+| 679 | 245 | Tracy Feyler |
+| 680 | 245 | Lynnette WheelerBushnell |
 | 681 | 244 | Guy Incognito |
 | 682 | 244 | Jas |
-| 683 | 242 | Krista McNair |
-| 684 | 242 | Tamika Rocheteau |
-| 685 | 242 | Smøke DGAF |
-| 686 | 241 | Cynthia Cruell |
-| 687 | 241 | Ad Doctor |
-| 688 | 241 | Marlynnnnn |
-| 689 | 240 | lookin |
-| 690 | 240 | Velma Jones |
-| 691 | 239 | Frankey Chi |
+| 683 | 242 | Smøke DGAF |
+| 684 | 242 | Krista McNair |
+| 685 | 242 | Tamika Rocheteau |
+| 686 | 241 | Ad Doctor |
+| 687 | 241 | Marlynnnnn |
+| 688 | 241 | Cynthia Cruell |
+| 689 | 240 | Velma Jones |
+| 690 | 240 | lookin |
+| 691 | 239 | Kelley Johnson |
 | 692 | 239 | Twisty Cascadeclear |
-| 693 | 239 | Kelley Johnson |
-| 694 | 238 | Silly Wiper |
-| 695 | 238 | B.L. Perry |
-| 696 | 238 | William Vidra |
+| 693 | 239 | Frankey Chi |
+| 694 | 238 | B.L. Perry |
+| 695 | 238 | William Vidra |
+| 696 | 238 | Silly Wiper |
 | 697 | 237 | Shalena Marie Humphrey |
 | 698 | 237 | Spicy Shatterblock |
 | 699 | 237 | Cranky Fall |
-| 700 | 237 | Mario Meliodas |
-| 701 | 237 | Logan Frost |
-| 702 | 237 | Ameillia Boughner |
-| 703 | 236 | Semaj Johnson |
-| 704 | 236 | Parris Wright |
-| 705 | 235 | Squaw Ki Ng |
-| 706 | 235 | Juan Lewis |
+| 700 | 237 | Logan Frost |
+| 701 | 237 | Ameillia Boughner |
+| 702 | 237 | Mario Meliodas |
+| 703 | 236 | Parris Wright |
+| 704 | 236 | Semaj Johnson |
+| 705 | 235 | Juan Lewis |
+| 706 | 235 | Squaw Ki Ng |
 | 707 | 235 | Daring Blockclear |
 | 708 | 235 | nameno |
 | 709 | 234 | Jes Marie |
@@ -719,11 +719,11 @@
 | 711 | 234 | Coco |
 | 712 | 234 | Daring Riserfit |
 | 713 | 233 | Claudia Price |
-| 714 | 233 | Bella |
-| 715 | 233 | Hyedie Badie |
+| 714 | 233 | Hyedie Badie |
+| 715 | 233 | Bella |
 | 716 | 232 | Marbama |
-| 717 | 231 | toxictonic92 |
-| 718 | 231 | Tyiesha Pie Farmer |
+| 717 | 231 | Tyiesha Pie Farmer |
+| 718 | 231 | toxictonic92 |
 | 719 | 230 | Poyre Shelton |
 | 720 | 230 | Jessica Kirby |
 | 721 | 229 | Kike Lua |
@@ -733,8 +733,8 @@
 | 725 | 228 | Kp |
 | 726 | 228 | Shameka Tiffany |
 | 727 | 228 | Joseph Vs Cap |
-| 728 | 227 | Lootch |
-| 729 | 227 | Christina Singleton |
+| 728 | 227 | Christina Singleton |
+| 729 | 227 | Lootch |
 | 730 | 227 | Kimberly Susan Privette |
 | 731 | 226 | Kahliah Baker |
 | 732 | 226 | Rieshelda Marie White |

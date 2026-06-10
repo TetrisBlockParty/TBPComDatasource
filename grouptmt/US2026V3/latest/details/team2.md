@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 20:00:48 UTC
+# Standings for team2 as of 2026-06-10 20:01:23 UTC
 
 **Total Participants:** 2808
 
@@ -121,7 +121,7 @@
 | 113 | 1706 | Jazzy Faller |
 | 114 | 1699 | Poppy |
 | 115 | 1658 | Criccett Hooper-Smith |
-| 116 | 1621 | Deborah Boyce Minor |
+| 116 | 1626 | Deborah Boyce Minor |
 | 117 | 1591 | Ruby Sandberg |
 | 118 | 1583 | haune |
 | 119 | 1568 | Sam |
@@ -1746,190 +1746,190 @@
 | 1738 | 79 | LaicoosBargains Ln |
 | 1739 | 79 | Sandra Betz |
 | 1740 | 79 | Peachy Piecebuilder |
-| 1741 | 78 | lojo |
+| 1741 | 78 | Karen Moore |
 | 1742 | 78 | Chipper Spinzone |
 | 1743 | 78 | Dixie Wilson |
-| 1744 | 78 | Giggly Dashy |
-| 1745 | 78 | Elise Marie Mireles |
-| 1746 | 78 | Casey Hendricks |
-| 1747 | 78 | Karen Moore |
+| 1744 | 78 | Elise Marie Mireles |
+| 1745 | 78 | Giggly Dashy |
+| 1746 | 78 | lojo |
+| 1747 | 78 | Casey Hendricks |
 | 1748 | 78 | Lively Shatter |
 | 1749 | 78 | Shawn Bossuot |
 | 1750 | 78 | Steven Palmer |
-| 1751 | 77 | Cheeky Snapline |
-| 1752 | 77 | 3RD LEG |
+| 1751 | 77 | 3RD LEG |
+| 1752 | 77 | Cheeky Snapline |
 | 1753 | 77 | Fran Gerebics |
 | 1754 | 76 | Happy Riseclear |
-| 1755 | 76 | Mick Loving |
+| 1755 | 76 | Ali |
 | 1756 | 76 | Mary Cook |
 | 1757 | 76 | Joe Dirilo |
-| 1758 | 76 | Amanda Pilcher |
-| 1759 | 76 | Ali |
-| 1760 | 76 | Silly Shatter |
+| 1758 | 76 | Silly Shatter |
+| 1759 | 76 | Amanda Pilcher |
+| 1760 | 76 | Mick Loving |
 | 1761 | 75 | Hodges |
 | 1762 | 75 | Catherine Whitt Gaddy |
 | 1763 | 75 | Jackie Hayslip |
 | 1764 | 74 | Amber Myers |
 | 1765 | 74 | Mary |
-| 1766 | 74 | Katie Magner |
-| 1767 | 74 | Dawn Burzee |
-| 1768 | 74 | Kyle |
+| 1766 | 74 | Dawn Burzee |
+| 1767 | 74 | Kyle |
+| 1768 | 74 | Katie Magner |
 | 1769 | 74 | Epic Glide |
-| 1770 | 74 | Loony Shatter |
+| 1770 | 74 | Kacey Bates |
 | 1771 | 74 | Lori Antrim Nichols |
-| 1772 | 74 | Kacey Bates |
-| 1773 | 73 | lion king |
-| 1774 | 73 | vsavage |
+| 1772 | 74 | Loony Shatter |
+| 1773 | 73 | vsavage |
+| 1774 | 73 | lion king |
 | 1775 | 73 | Quirky Slammer |
-| 1776 | 73 | Christina Ackley |
-| 1777 | 73 | Jenica Davis |
-| 1778 | 73 | Zippy Wobbler |
+| 1776 | 73 | Jenica Davis |
+| 1777 | 73 | Zippy Wobbler |
+| 1778 | 73 | Christina Ackley |
 | 1779 | 73 | giggly gal |
 | 1780 | 73 | Elodie Deveyer |
 | 1781 | 73 | Sunny Spinzone |
-| 1782 | 72 | Suszi |
-| 1783 | 72 | Nicole Dyer |
-| 1784 | 72 | Mindy Corriher |
+| 1782 | 72 | Nicole Dyer |
+| 1783 | 72 | Mindy Corriher |
+| 1784 | 72 | Suszi |
 | 1785 | 72 | Stacy Lynn |
-| 1786 | 71 | Matthew Hanson |
-| 1787 | 71 | Chey |
-| 1788 | 71 | Angela Anderson |
-| 1789 | 71 | David Bright |
-| 1790 | 71 | lols |
-| 1791 | 71 | Nicole Immoos |
-| 1792 | 71 | Mike Honcho |
-| 1793 | 71 | Brittany Nichole Ellenburg |
-| 1794 | 70 | Silly Twister |
-| 1795 | 70 | Donna Casey |
-| 1796 | 70 | Abby Dexter |
-| 1797 | 70 | Brittany Kay |
-| 1798 | 70 | Stephanie |
-| 1799 | 70 | Taderbug |
+| 1786 | 72 | Shelby Woo |
+| 1787 | 71 | Angela Anderson |
+| 1788 | 71 | lols |
+| 1789 | 71 | Chey |
+| 1790 | 71 | Nicole Immoos |
+| 1791 | 71 | Matthew Hanson |
+| 1792 | 71 | David Bright |
+| 1793 | 71 | Mike Honcho |
+| 1794 | 71 | Brittany Nichole Ellenburg |
+| 1795 | 70 | Silly Twister |
+| 1796 | 70 | Donna Casey |
+| 1797 | 70 | Abby Dexter |
+| 1798 | 70 | Brittany Kay |
+| 1799 | 70 | Stephanie |
 | 1800 | 70 | Rachelle Parker |
-| 1801 | 70 | Jenn Wittkamp |
-| 1802 | 70 | Samantha Rhone |
-| 1803 | 70 | Michelle |
+| 1801 | 70 | Taderbug |
+| 1802 | 70 | Jenn Wittkamp |
+| 1803 | 70 | Samantha Rhone |
 | 1804 | 70 | wolfie |
-| 1805 | 70 | Anna |
-| 1806 | 70 | FinnsDad |
-| 1807 | 70 | April Owings |
-| 1808 | 70 | Barbara Fields |
-| 1809 | 70 | Jay Theriault |
-| 1810 | 70 | Angi Carter |
-| 1811 | 70 | Brave Curver |
-| 1812 | 70 | Swanky Builderline |
-| 1813 | 69 | Mandy Anderson |
-| 1814 | 69 | Chrissy Hess |
-| 1815 | 69 | Patty White |
+| 1805 | 70 | Brave Curver |
+| 1806 | 70 | Swanky Builderline |
+| 1807 | 70 | Michelle |
+| 1808 | 70 | Anna |
+| 1809 | 70 | FinnsDad |
+| 1810 | 70 | Barbara Fields |
+| 1811 | 70 | Angi Carter |
+| 1812 | 70 | April Owings |
+| 1813 | 70 | Jay Theriault |
+| 1814 | 69 | Lisa Amick |
+| 1815 | 69 | Chrissy Hess |
 | 1816 | 69 | Alexis Turner |
-| 1817 | 69 | Lazy Zoner |
+| 1817 | 69 | Patty White |
 | 1818 | 69 | Lexi Olsen |
-| 1819 | 69 | Nonnie |
+| 1819 | 69 | Mandy Anderson |
 | 1820 | 69 | Shanna Jones Scott |
 | 1821 | 69 | Victoria Hogan McCreedy |
-| 1822 | 69 | Lisa Amick |
-| 1823 | 69 | Lindsay Gregory |
-| 1824 | 69 | Loretta Crow |
-| 1825 | 69 | Jolly Blockroll |
-| 1826 | 68 | Kim |
-| 1827 | 68 | Amanda Knox |
-| 1828 | 68 | Bertha |
-| 1829 | 68 | Rashae Sheets |
-| 1830 | 68 | Jeanne Hendricks Smith |
-| 1831 | 68 | Funkykarebear |
-| 1832 | 68 | Viola Fletcher |
-| 1833 | 68 | Crafty Matcher |
-| 1834 | 67 | Dionne Borden |
-| 1835 | 67 | Anna Marie Knight |
-| 1836 | 67 | LK |
-| 1837 | 67 | Lulu Nichole |
-| 1838 | 67 | Snappy Zonepiece |
-| 1839 | 67 | Mindy Eigenheer |
-| 1840 | 67 | Blob |
-| 1841 | 67 | Happy Curvebuilder |
-| 1842 | 66 | JesseJo |
-| 1843 | 66 | Debbie Embry |
-| 1844 | 66 | Justin Pennington |
-| 1845 | 66 | Wayne Mcmillan |
-| 1846 | 66 | Jay King |
-| 1847 | 66 | David Cadiente |
-| 1848 | 66 | Amy ATen |
-| 1849 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1850 | 65 | Amanda White |
-| 1851 | 65 | Mistress |
-| 1852 | 65 | Maurice Bethel |
-| 1853 | 65 | Heather Klaus |
+| 1822 | 69 | Lazy Zoner |
+| 1823 | 69 | Nonnie |
+| 1824 | 69 | Lindsay Gregory |
+| 1825 | 69 | Loretta Crow |
+| 1826 | 69 | Jolly Blockroll |
+| 1827 | 68 | Kim |
+| 1828 | 68 | Amanda Knox |
+| 1829 | 68 | Bertha |
+| 1830 | 68 | Rashae Sheets |
+| 1831 | 68 | Jeanne Hendricks Smith |
+| 1832 | 68 | Funkykarebear |
+| 1833 | 68 | Viola Fletcher |
+| 1834 | 68 | Crafty Matcher |
+| 1835 | 67 | Dionne Borden |
+| 1836 | 67 | Anna Marie Knight |
+| 1837 | 67 | LK |
+| 1838 | 67 | Mindy Eigenheer |
+| 1839 | 67 | Snappy Zonepiece |
+| 1840 | 67 | Lulu Nichole |
+| 1841 | 67 | Blob |
+| 1842 | 67 | Happy Curvebuilder |
+| 1843 | 66 | JesseJo |
+| 1844 | 66 | Debbie Embry |
+| 1845 | 66 | David Cadiente |
+| 1846 | 66 | Wayne Mcmillan |
+| 1847 | 66 | Jay King |
+| 1848 | 66 | Justin Pennington |
+| 1849 | 66 | Amy ATen |
+| 1850 | 65 | Mistress |
+| 1851 | 65 | Amanda White |
+| 1852 | 65 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1853 | 65 | Maurice Bethel |
 | 1854 | 65 | Wacky Drop |
-| 1855 | 65 | Auntie YaYa |
-| 1856 | 65 | nogo |
-| 1857 | 65 | Vicki Ohmer |
-| 1858 | 64 | Sassafras Cass |
-| 1859 | 64 | Emily |
-| 1860 | 64 | Jessica Jones |
-| 1861 | 64 | Aaron Henry |
-| 1862 | 64 | John Guider |
-| 1863 | 64 | Jodi Deninno |
-| 1864 | 64 | Pnda |
-| 1865 | 64 | Andrea |
+| 1855 | 65 | Heather Klaus |
+| 1856 | 65 | Auntie YaYa |
+| 1857 | 65 | nogo |
+| 1858 | 65 | Vicki Ohmer |
+| 1859 | 64 | Sassafras Cass |
+| 1860 | 64 | Emily |
+| 1861 | 64 | Jessica Jones |
+| 1862 | 64 | Aaron Henry |
+| 1863 | 64 | John Guider |
+| 1864 | 64 | Ray Ray Madacs |
+| 1865 | 64 | Alexis Love Bowen |
 | 1866 | 64 | Ryan D. Norcross |
-| 1867 | 64 | Alexis Love Bowen |
-| 1868 | 64 | Shelby Woo |
-| 1869 | 64 | Ray Ray Madacs |
-| 1870 | 63 | Groovy Snapbuild |
-| 1871 | 63 | Michael Blackmon |
+| 1867 | 64 | Andrea |
+| 1868 | 64 | Jodi Deninno |
+| 1869 | 64 | Pnda |
+| 1870 | 63 | Poppy Snapper |
+| 1871 | 63 | Dustie Benefield |
 | 1872 | 63 | Bubbly Tilt |
-| 1873 | 63 | Chad Lakin |
-| 1874 | 63 | Shawn Moore |
-| 1875 | 63 | T-Tommy Hillbilly |
-| 1876 | 63 | Dustie Benefield |
+| 1873 | 63 | T-Tommy Hillbilly |
+| 1874 | 63 | Chad Lakin |
+| 1875 | 63 | Michael Blackmon |
+| 1876 | 63 | Groovy Snapbuild |
 | 1877 | 63 | Janice |
 | 1878 | 63 | Flynn Flibble |
-| 1879 | 63 | Poppy Snapper |
+| 1879 | 63 | Shawn Moore |
 | 1880 | 63 | AmyShea |
-| 1881 | 62 | Trisha Christlieb |
+| 1881 | 62 | sunshine |
 | 1882 | 62 | smoke |
 | 1883 | 62 | Michael Woodall |
 | 1884 | 62 | Breanna Dykes |
 | 1885 | 62 | Alana Albritton Seals |
-| 1886 | 62 | sunshine |
-| 1887 | 62 | Natikka Mccleskey |
-| 1888 | 62 | Jon Torres |
-| 1889 | 62 | Patience Thompson |
-| 1890 | 62 | Saucy Clearzone |
-| 1891 | 62 | Licia |
+| 1886 | 62 | Trisha Christlieb |
+| 1887 | 62 | Jon Torres |
+| 1888 | 62 | Patience Thompson |
+| 1889 | 62 | Natikka Mccleskey |
+| 1890 | 62 | Licia |
+| 1891 | 62 | Saucy Clearzone |
 | 1892 | 62 | Lisa Molinero |
-| 1893 | 61 | Crystal Swigart |
-| 1894 | 61 | PortersWife87 |
-| 1895 | 61 | Ken Vaughn |
+| 1893 | 61 | Dustyn Sims |
+| 1894 | 61 | Spunky Buildout |
+| 1895 | 61 | Mighty Blockmatch |
 | 1896 | 61 | LichyBella |
-| 1897 | 61 | Mighty Blockmatch |
-| 1898 | 61 | Dustyn Sims |
-| 1899 | 61 | Glitzy Matchclear |
-| 1900 | 61 | Lil G |
-| 1901 | 61 | Amanda |
-| 1902 | 61 | Spunky Buildout |
+| 1897 | 61 | PortersWife87 |
+| 1898 | 61 | Crystal Swigart |
+| 1899 | 61 | Amanda |
+| 1900 | 61 | Ken Vaughn |
+| 1901 | 61 | Lil G |
+| 1902 | 61 | Glitzy Matchclear |
 | 1903 | 61 | Natasha Schatte |
 | 1904 | 60 | Speedy Gridder |
 | 1905 | 60 | Courtney Ribas |
 | 1906 | 60 | Snippy Shifter |
-| 1907 | 60 | Ephysta |
+| 1907 | 60 | Geneva |
 | 1908 | 60 | Jaelyn Orr |
-| 1909 | 60 | MattandAngie Hopkins |
-| 1910 | 60 | Geneva |
-| 1911 | 60 | Dawn Thuringer-Baird |
-| 1912 | 60 | Jennifer M Mitchell |
-| 1913 | 60 | Giddy Glider |
-| 1914 | 60 | Lela Walk |
-| 1915 | 60 | Joni Lukosavich |
-| 1916 | 60 | Nikki Grant |
-| 1917 | 60 | Samantha Smith |
-| 1918 | 59 | Cheeky Twistpiece |
-| 1919 | 59 | Bowerhouse |
-| 1920 | 59 | Amanda Morales |
-| 1921 | 59 | Chipper Zigzag |
-| 1922 | 59 | Paula |
-| 1923 | 59 | Dapper Corner |
-| 1924 | 59 | Syg Honeyboy |
+| 1909 | 60 | Lela Walk |
+| 1910 | 60 | Jennifer M Mitchell |
+| 1911 | 60 | Giddy Glider |
+| 1912 | 60 | Samantha Smith |
+| 1913 | 60 | Joni Lukosavich |
+| 1914 | 60 | Nikki Grant |
+| 1915 | 60 | Dawn Thuringer-Baird |
+| 1916 | 60 | Ephysta |
+| 1917 | 60 | MattandAngie Hopkins |
+| 1918 | 59 | Syg Honeyboy |
+| 1919 | 59 | Cheeky Twistpiece |
+| 1920 | 59 | Bowerhouse |
+| 1921 | 59 | Paula |
+| 1922 | 59 | Chipper Zigzag |
+| 1923 | 59 | Amanda Morales |
+| 1924 | 59 | Dapper Corner |
 | 1925 | 59 | Clever Clusterfit |
 | 1926 | 59 | Mel Hogan |
 | 1927 | 59 | Road Runnersauraus |
