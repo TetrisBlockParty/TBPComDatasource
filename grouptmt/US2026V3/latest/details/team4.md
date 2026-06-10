@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 19:08:46 UTC
+# Standings for team4 as of 2026-06-10 19:09:24 UTC
 
 **Total Participants:** 2364
 
@@ -122,12 +122,12 @@
 | 114 | 1253 | Hannah Pazar |
 | 115 | 1244 | Trice Stevenson |
 | 116 | 1227 | shawna |
-| 117 | 1211 | Jenn Fitzgerald |
-| 118 | 1211 | Dana Fontanez |
-| 119 | 1206 | Kimberly Civinski |
-| 120 | 1201 | Twirl Girl |
-| 121 | 1196 | J |
-| 122 | 1195 | Jason Garnatz |
+| 117 | 1211 | Jason Garnatz |
+| 118 | 1211 | Jenn Fitzgerald |
+| 119 | 1211 | Dana Fontanez |
+| 120 | 1206 | Kimberly Civinski |
+| 121 | 1201 | Twirl Girl |
+| 122 | 1196 | J |
 | 123 | 1191 | Sean Mccleary |
 | 124 | 1172 | Irma |
 | 125 | 1160 | Hardy Fuller |
@@ -185,13 +185,13 @@
 | 177 | 850 | Shiny Dashy |
 | 178 | 847 | Christy Beezley-Forbush |
 | 179 | 841 | Pepone Pepe |
-| 180 | 834 | Lynn Grimes |
-| 181 | 832 | Lori Stembridge |
-| 182 | 830 | Wanda Simmons |
-| 183 | 830 | Kitsune Bi |
-| 184 | 829 | Tiffany Brooke |
-| 185 | 825 | Thomasena Eady Reid |
-| 186 | 820 | Linda Miltenburg |
+| 180 | 840 | Linda Miltenburg |
+| 181 | 834 | Lynn Grimes |
+| 182 | 832 | Lori Stembridge |
+| 183 | 830 | Wanda Simmons |
+| 184 | 830 | Kitsune Bi |
+| 185 | 829 | Tiffany Brooke |
+| 186 | 825 | Thomasena Eady Reid |
 | 187 | 808 | Misty Leigh |
 | 188 | 801 | Izz |
 | 189 | 795 | Baysoph |
@@ -1158,41 +1158,41 @@
 | 1150 | 125 | Amanda |
 | 1151 | 125 | Mandie Torres |
 | 1152 | 125 | Yam My |
-| 1153 | 124 | Emjae Tupaz-Rivera |
-| 1154 | 124 | CRsLady |
-| 1155 | 124 | Loony Dashgrid |
-| 1156 | 124 | MzCeleste Brooks |
-| 1157 | 124 | taya |
-| 1158 | 124 | Shelly Jackson |
-| 1159 | 123 | Stacy Brown |
-| 1160 | 123 | Wayne Hendricks |
-| 1161 | 123 | T-Dogger |
-| 1162 | 123 | Esmond Johnson IV |
-| 1163 | 122 | Misti Rich |
-| 1164 | 122 | 94Blockhead |
-| 1165 | 122 | Tati |
-| 1166 | 122 | Fkvj |
-| 1167 | 122 | Scott If |
-| 1168 | 121 | Misty Harland |
-| 1169 | 121 | Jumpy Lifter |
-| 1170 | 121 | Mystica |
-| 1171 | 121 | Maicy Darrah |
-| 1172 | 121 | Dsay Yates |
-| 1173 | 121 | Quiles Yaitza |
-| 1174 | 120 | Pap337 |
-| 1175 | 120 | Felicia Harrison |
-| 1176 | 120 | Donny Keets |
-| 1177 | 120 | Sparky Rose |
-| 1178 | 120 | Giggy Splitter |
-| 1179 | 120 | Corissa Handy |
-| 1180 | 120 | Erica Armstrong Baz |
-| 1181 | 120 | Crystal Morrin |
-| 1182 | 120 | Crystal M. Torres |
-| 1183 | 120 | Bear Bair |
-| 1184 | 120 | Leigh Burton |
-| 1185 | 120 | Wyatt Karren |
-| 1186 | 120 | Mike Zec II |
-| 1187 | 120 | Quirky Fallgrid |
+| 1153 | 125 | Quirky Fallgrid |
+| 1154 | 124 | Emjae Tupaz-Rivera |
+| 1155 | 124 | CRsLady |
+| 1156 | 124 | Loony Dashgrid |
+| 1157 | 124 | MzCeleste Brooks |
+| 1158 | 124 | taya |
+| 1159 | 124 | Shelly Jackson |
+| 1160 | 123 | Stacy Brown |
+| 1161 | 123 | Wayne Hendricks |
+| 1162 | 123 | T-Dogger |
+| 1163 | 123 | Esmond Johnson IV |
+| 1164 | 122 | Misti Rich |
+| 1165 | 122 | 94Blockhead |
+| 1166 | 122 | Tati |
+| 1167 | 122 | Fkvj |
+| 1168 | 122 | Scott If |
+| 1169 | 121 | Misty Harland |
+| 1170 | 121 | Jumpy Lifter |
+| 1171 | 121 | Mystica |
+| 1172 | 121 | Maicy Darrah |
+| 1173 | 121 | Dsay Yates |
+| 1174 | 121 | Quiles Yaitza |
+| 1175 | 120 | Pap337 |
+| 1176 | 120 | Felicia Harrison |
+| 1177 | 120 | Donny Keets |
+| 1178 | 120 | Sparky Rose |
+| 1179 | 120 | Giggy Splitter |
+| 1180 | 120 | Corissa Handy |
+| 1181 | 120 | Erica Armstrong Baz |
+| 1182 | 120 | Crystal Morrin |
+| 1183 | 120 | Crystal M. Torres |
+| 1184 | 120 | Bear Bair |
+| 1185 | 120 | Leigh Burton |
+| 1186 | 120 | Wyatt Karren |
+| 1187 | 120 | Mike Zec II |
 | 1188 | 119 | Heather Cross High |
 | 1189 | 119 | Goddatbat |
 | 1190 | 119 | Giggy Risegrid |
@@ -1967,54 +1967,54 @@
 | 1959 | 28 | Littlebird |
 | 1960 | 28 | Wacky Brickroll |
 | 1961 | 28 | MzB3tyBoop |
-| 1962 | 28 | Taya Reynolds |
+| 1962 | 28 | Julia Chavez |
 | 1963 | 28 | Johanan Garcia |
-| 1964 | 28 | Keilia M. Moore |
-| 1965 | 27 | Tetrees |
-| 1966 | 27 | Cranky Towerbuilder |
-| 1967 | 27 | Ragingmel27 |
+| 1964 | 28 | Taya Reynolds |
+| 1965 | 28 | Keilia M. Moore |
+| 1966 | 27 | Tetrees |
+| 1967 | 27 | Cranky Towerbuilder |
 | 1968 | 27 | samismia |
-| 1969 | 27 | Beth Tanacea Mathern |
-| 1970 | 27 | Anna Bourff |
-| 1971 | 27 | Jose Leandro Calderin |
-| 1972 | 27 | Josh Drew |
-| 1973 | 27 | Chris Abney |
-| 1974 | 27 | boo |
-| 1975 | 27 | Twisty Gridclear |
-| 1976 | 27 | Loopy Bridger |
-| 1977 | 26 | Leslie Marie WarClub |
-| 1978 | 26 | Ivyleata McFadden |
-| 1979 | 26 | Lacey Decker |
-| 1980 | 26 | Love GH |
-| 1981 | 26 | Kevin Lyles |
-| 1982 | 26 | Rebecca Rae Reed |
-| 1983 | 26 | Rob$GEE |
-| 1984 | 26 | Crafty Clicker |
-| 1985 | 26 | Omega |
+| 1969 | 27 | Ragingmel27 |
+| 1970 | 27 | Beth Tanacea Mathern |
+| 1971 | 27 | Anna Bourff |
+| 1972 | 27 | Jose Leandro Calderin |
+| 1973 | 27 | Josh Drew |
+| 1974 | 27 | Chris Abney |
+| 1975 | 27 | boo |
+| 1976 | 27 | Twisty Gridclear |
+| 1977 | 27 | Loopy Bridger |
+| 1978 | 26 | Leslie Marie WarClub |
+| 1979 | 26 | Ivyleata McFadden |
+| 1980 | 26 | Lacey Decker |
+| 1981 | 26 | Love GH |
+| 1982 | 26 | Kevin Lyles |
+| 1983 | 26 | Rebecca Rae Reed |
+| 1984 | 26 | Rob$GEE |
+| 1985 | 26 | Crafty Clicker |
 | 1986 | 26 | Cheery Liney |
-| 1987 | 26 | Funky Riser |
-| 1988 | 26 | Damien Cook |
-| 1989 | 26 | Glenda Zulueta Steed |
-| 1990 | 26 | AJscooter |
-| 1991 | 26 | Von |
-| 1992 | 26 | Ryan Espinoza |
-| 1993 | 25 | Rebecca Booth |
+| 1987 | 26 | Omega |
+| 1988 | 26 | Funky Riser |
+| 1989 | 26 | Damien Cook |
+| 1990 | 26 | Glenda Zulueta Steed |
+| 1991 | 26 | AJscooter |
+| 1992 | 26 | Von |
+| 1993 | 26 | Ryan Espinoza |
 | 1994 | 25 | Joseph Gay |
 | 1995 | 25 | Joyell Mersiel |
-| 1996 | 25 | MoCa |
-| 1997 | 25 | Beto Vidaurri |
-| 1998 | 25 | IvyRenee Collette |
-| 1999 | 25 | Happy Slamdrop |
-| 2000 | 25 | Giggy Mover |
-| 2001 | 25 | Daisy Jaramillo |
-| 2002 | 25 | Chad N Tori Steiner |
-| 2003 | 25 | chapis |
-| 2004 | 25 | Gellix |
-| 2005 | 24 | Katiana Gonzalez |
-| 2006 | 24 | Flashy Wipebuilder |
-| 2007 | 24 | Tameka Harrison |
-| 2008 | 24 | BreOunna Zonye Littleton |
-| 2009 | 24 | Julia Chavez |
+| 1996 | 25 | Rebecca Booth |
+| 1997 | 25 | MoCa |
+| 1998 | 25 | Beto Vidaurri |
+| 1999 | 25 | IvyRenee Collette |
+| 2000 | 25 | Happy Slamdrop |
+| 2001 | 25 | Giggy Mover |
+| 2002 | 25 | Daisy Jaramillo |
+| 2003 | 25 | Chad N Tori Steiner |
+| 2004 | 25 | chapis |
+| 2005 | 25 | Gellix |
+| 2006 | 24 | Katiana Gonzalez |
+| 2007 | 24 | Flashy Wipebuilder |
+| 2008 | 24 | Tameka Harrison |
+| 2009 | 24 | BreOunna Zonye Littleton |
 | 2010 | 24 | Janie Burris |
 | 2011 | 24 | Snappy Blockzone |
 | 2012 | 24 | Hannah White |
