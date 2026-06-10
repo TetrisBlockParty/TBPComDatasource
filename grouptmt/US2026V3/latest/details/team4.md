@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 17:26:45 UTC
+# Standings for team4 as of 2026-06-10 17:27:23 UTC
 
 **Total Participants:** 2351
 
@@ -826,27 +826,27 @@
 | 818 | 200 | Sierra A Hortman |
 | 819 | 199 | Worley’s Wife |
 | 820 | 199 | Andretta Sellers Robinson |
-| 821 | 199 | Janet Willoughby |
-| 822 | 199 | Nicole Dombrow |
-| 823 | 199 | Frilly Riserpiece |
-| 824 | 199 | Gigi5 |
-| 825 | 199 | Elena Marí |
-| 826 | 199 | Lindsey DeRosa |
-| 827 | 198 | Has2brat |
-| 828 | 198 | Lana Tran |
-| 829 | 198 | Giggy Bridgepiece |
-| 830 | 197 | Yournightmare |
+| 821 | 199 | Frilly Riserpiece |
+| 822 | 199 | Lindsey DeRosa |
+| 823 | 199 | Elena Marí |
+| 824 | 199 | Wacky Brick |
+| 825 | 199 | Nicole Dombrow |
+| 826 | 199 | Janet Willoughby |
+| 827 | 199 | Gigi5 |
+| 828 | 198 | Has2brat |
+| 829 | 198 | Lana Tran |
+| 830 | 198 | Giggy Bridgepiece |
 | 831 | 197 | Yvette Johnson |
-| 832 | 197 | Toria |
-| 833 | 197 | Gracey Po |
-| 834 | 197 | SuperJen |
-| 835 | 196 | Tipsy Matchline |
-| 836 | 196 | David Lay |
-| 837 | 196 | Surviving Be Back Soon |
-| 838 | 195 | Samantha Lohmeyer |
+| 832 | 197 | Yournightmare |
+| 833 | 197 | Toria |
+| 834 | 197 | Gracey Po |
+| 835 | 197 | SuperJen |
+| 836 | 196 | Tipsy Matchline |
+| 837 | 196 | David Lay |
+| 838 | 196 | Surviving Be Back Soon |
 | 839 | 195 | Reina Pagan |
-| 840 | 195 | Freddy-B |
-| 841 | 195 | Wacky Brick |
+| 840 | 195 | Samantha Lohmeyer |
+| 841 | 195 | Freddy-B |
 | 842 | 194 | Gerald Richard Franke |
 | 843 | 194 | Shannon Foster |
 | 844 | 194 | Jennifer Brucz |
@@ -937,52 +937,52 @@
 | 929 | 170 | Christina Hagan |
 | 930 | 169 | Jolly Fitblock |
 | 931 | 169 | Jt Home |
-| 932 | 169 | Combo Snappy |
-| 933 | 168 | Caiti O'Keefe |
-| 934 | 168 | Heather Brown |
-| 935 | 168 | JJADHD |
-| 936 | 168 | Kristan Hoffman |
-| 937 | 167 | Tray Day |
-| 938 | 167 | Ana Ruiz |
-| 939 | 167 | Kuar T Ejen |
-| 940 | 166 | Andy Petersen |
-| 941 | 166 | medicjessi |
-| 942 | 166 | Jillian Marie |
-| 943 | 166 | Steve Swanson |
-| 944 | 165 | Corey Jackson |
-| 945 | 165 | Vicente Bolaños Jr. |
-| 946 | 164 | Chad Finton |
-| 947 | 164 | LyvWyre |
-| 948 | 163 | Emily Lowe |
-| 949 | 162 | BethB |
-| 950 | 162 | Lush Twisterfit |
-| 951 | 162 | Fancy Riser |
-| 952 | 161 | JustLessie |
-| 953 | 161 | Amber Torres |
-| 954 | 161 | Melissa Schwager |
-| 955 | 161 | MsThick SrtLady Williams |
-| 956 | 160 | Joshua Hunt |
-| 957 | 160 | Glamorous Gracey |
-| 958 | 160 | CorieBe |
-| 959 | 160 | Sha Ta Nay Mitchell |
-| 960 | 160 | Stephanie Meinhart |
-| 961 | 160 | Charissa W Walton |
-| 962 | 160 | Deanne Silverdahl |
-| 963 | 160 | Cozy Staggerpiece |
-| 964 | 160 | Aleta Svitak |
-| 965 | 159 | Mari Isaac |
-| 966 | 159 | Ali Garcia |
-| 967 | 159 | JJ Merc |
-| 968 | 159 | Lilo |
-| 969 | 159 | Gualberto Ramirez |
-| 970 | 159 | Loony Edge |
-| 971 | 159 | Krazylegzzzz |
+| 932 | 169 | Loony Edge |
+| 933 | 169 | Combo Snappy |
+| 934 | 168 | Caiti O'Keefe |
+| 935 | 168 | Heather Brown |
+| 936 | 168 | JJADHD |
+| 937 | 168 | Kristan Hoffman |
+| 938 | 167 | Tray Day |
+| 939 | 167 | Ana Ruiz |
+| 940 | 167 | Kuar T Ejen |
+| 941 | 166 | Andy Petersen |
+| 942 | 166 | medicjessi |
+| 943 | 166 | Jillian Marie |
+| 944 | 166 | Steve Swanson |
+| 945 | 165 | Corey Jackson |
+| 946 | 165 | Vicente Bolaños Jr. |
+| 947 | 164 | Chad Finton |
+| 948 | 164 | LyvWyre |
+| 949 | 163 | Emily Lowe |
+| 950 | 162 | Fancy Riser |
+| 951 | 162 | Lush Twisterfit |
+| 952 | 162 | BethB |
+| 953 | 161 | JustLessie |
+| 954 | 161 | MsThick SrtLady Williams |
+| 955 | 161 | Melissa Schwager |
+| 956 | 161 | Amber Torres |
+| 957 | 160 | Deanne Silverdahl |
+| 958 | 160 | Sha Ta Nay Mitchell |
+| 959 | 160 | Stephanie Meinhart |
+| 960 | 160 | Cozy Staggerpiece |
+| 961 | 160 | CorieBe |
+| 962 | 160 | Glamorous Gracey |
+| 963 | 160 | Joshua Hunt |
+| 964 | 160 | Charissa W Walton |
+| 965 | 160 | Aleta Svitak |
+| 966 | 159 | Mari Isaac |
+| 967 | 159 | Ali Garcia |
+| 968 | 159 | JJ Merc |
+| 969 | 159 | Lilo |
+| 970 | 159 | Krazylegzzzz |
+| 971 | 159 | Gualberto Ramirez |
 | 972 | 158 | Lamont |
 | 973 | 158 | Cozy Builderfit |
 | 974 | 157 | Marie Lily |
-| 975 | 157 | idk240 |
-| 976 | 157 | TheazO |
-| 977 | 157 | Bam SwaggSpitter King |
+| 975 | 157 | TheazO |
+| 976 | 157 | Bam SwaggSpitter King |
+| 977 | 157 | idk240 |
 | 978 | 156 | Vergie Michael |
 | 979 | 156 | Miranda Brown |
 | 980 | 156 | Slinky Snapfit |
@@ -990,17 +990,17 @@
 | 982 | 156 | Kenyatta Davis |
 | 983 | 156 | Stuart Crosby |
 | 984 | 155 | Krystal Simpson |
-| 985 | 155 | Shayna Vaigneur-Hall |
-| 986 | 155 | Frisky Pusher |
-| 987 | 155 | Marisela Alvarado |
-| 988 | 155 | Kristen Lester |
-| 989 | 154 | Mrs.J2013 |
-| 990 | 154 | Stacey Heartful |
+| 985 | 155 | Marisela Alvarado |
+| 986 | 155 | Shayna Vaigneur-Hall |
+| 987 | 155 | Kristen Lester |
+| 988 | 155 | Frisky Pusher |
+| 989 | 154 | Stacey Heartful |
+| 990 | 154 | Mrs.J2013 |
 | 991 | 154 | Chelsea Pigg |
 | 992 | 153 | JUNE |
 | 993 | 153 | Littleshark |
-| 994 | 153 | ButterfliesRFree |
-| 995 | 153 | Joyce Hampton |
+| 994 | 153 | Joyce Hampton |
+| 995 | 153 | ButterfliesRFree |
 | 996 | 153 | Melissa Anne |
 | 997 | 153 | Shawntae Mccary |
 | 998 | 153 | Ajohnna Frazee |
@@ -1637,24 +1637,24 @@
 | 1629 | 56 | Glitzy Builderline |
 | 1630 | 56 | Flashy Riser |
 | 1631 | 56 | Kahlani Baird |
-| 1632 | 56 | Breezy Match |
-| 1633 | 56 | Frothy Pivotfall |
-| 1634 | 56 | Amanda Jill Sturgill |
-| 1635 | 56 | TSM Ballsniffer |
-| 1636 | 56 | Lawrissa Andrews |
-| 1637 | 55 | Cauntay Youngking Williams |
-| 1638 | 55 | Peezy_419 |
-| 1639 | 55 | Brooke |
-| 1640 | 55 | Nina Martinez |
-| 1641 | 55 | Dana Smith |
-| 1642 | 55 | The Jazziest |
-| 1643 | 55 | Bee |
-| 1644 | 55 | Moonp |
-| 1645 | 55 | Lincy A. Walsh |
-| 1646 | 55 | Sherell Bowens |
-| 1647 | 55 | Adolfo Bernal |
-| 1648 | 55 | Brook Marguerite Benson |
-| 1649 | 55 | Pearl Poff |
+| 1632 | 56 | Pearl Poff |
+| 1633 | 56 | Breezy Match |
+| 1634 | 56 | Frothy Pivotfall |
+| 1635 | 56 | Amanda Jill Sturgill |
+| 1636 | 56 | TSM Ballsniffer |
+| 1637 | 56 | Lawrissa Andrews |
+| 1638 | 55 | Cauntay Youngking Williams |
+| 1639 | 55 | Peezy_419 |
+| 1640 | 55 | Brooke |
+| 1641 | 55 | Nina Martinez |
+| 1642 | 55 | Dana Smith |
+| 1643 | 55 | The Jazziest |
+| 1644 | 55 | Bee |
+| 1645 | 55 | Moonp |
+| 1646 | 55 | Lincy A. Walsh |
+| 1647 | 55 | Sherell Bowens |
+| 1648 | 55 | Adolfo Bernal |
+| 1649 | 55 | Brook Marguerite Benson |
 | 1650 | 54 | Julia Gareis |
 | 1651 | 54 | Shannon Quinn-ayala |
 | 1652 | 54 | MaximalBoss24 |
