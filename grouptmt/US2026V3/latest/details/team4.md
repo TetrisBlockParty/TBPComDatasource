@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 14:31:22 UTC
+# Standings for team4 as of 2026-06-10 14:32:23 UTC
 
 **Total Participants:** 2331
 
@@ -40,7 +40,7 @@
 | 32 | 4841 | Daring Ziggy |
 | 33 | 4759 | Jackie Lucas |
 | 34 | 4418 | Victoria Ver |
-| 35 | 4378 | Leigh Pierce |
+| 35 | 4408 | Leigh Pierce |
 | 36 | 4323 | Leah Barnett |
 | 37 | 4319 | Tonya Brooks-Johnson |
 | 38 | 4179 | Witty Clicky |
@@ -127,9 +127,9 @@
 | 119 | 1156 | Dee Wizz |
 | 120 | 1145 | Kristen Wallace |
 | 121 | 1136 | Jesse Olive |
-| 122 | 1112 | Phil Peterson |
-| 123 | 1108 | Tiffany Loree Tiffany Oneill |
-| 124 | 1108 | Bri Martin |
+| 122 | 1136 | Bri Martin |
+| 123 | 1112 | Phil Peterson |
+| 124 | 1108 | Tiffany Loree Tiffany Oneill |
 | 125 | 1106 | Loony Towerer |
 | 126 | 1095 | Jason Garnatz |
 | 127 | 1090 | Becky Doll-Hall |
@@ -146,8 +146,8 @@
 | 138 | 1042 | Futrell Brent |
 | 139 | 1029 | Chiquita Blue |
 | 140 | 1021 | Scamp Jones |
-| 141 | 1008 | Loony Glidepiece |
-| 142 | 1006 | Whitborn |
+| 141 | 1011 | Whitborn |
+| 142 | 1008 | Loony Glidepiece |
 | 143 | 1006 | Kimberly Civinski |
 | 144 | 998 | Gorica Prusina |
 | 145 | 997 | Blayne Kole |
@@ -288,7 +288,7 @@
 | 280 | 540 | Jaci Marie |
 | 281 | 537 | Kaash Brxtt |
 | 282 | 535 | Karr |
-| 283 | 532 | Vicki Adams |
+| 283 | 535 | Vicki Adams |
 | 284 | 528 | Cyndi Najar |
 | 285 | 528 | Tammy June |
 | 286 | 528 | Danny Keich III |
@@ -454,19 +454,19 @@
 | 446 | 348 | TRUCHILD777$$$ |
 | 447 | 346 | Jennifer Garcia |
 | 448 | 346 | Candice Sellers Worley |
-| 449 | 345 | yodaa |
-| 450 | 344 | bollo |
-| 451 | 344 | Josh Keith Travierso |
-| 452 | 343 | BookwormCate |
-| 453 | 343 | maria |
-| 454 | 342 | Kimberly Ann |
-| 455 | 342 | Cecilia Hicks |
-| 456 | 342 | Lively Blockpiece |
-| 457 | 341 | LilyRose |
-| 458 | 339 | Inez Nez |
-| 459 | 339 | Shepreneur Sade |
-| 460 | 337 | Tiggerjake |
-| 461 | 337 | Stasia |
+| 449 | 345 | Stasia |
+| 450 | 345 | yodaa |
+| 451 | 344 | bollo |
+| 452 | 344 | Josh Keith Travierso |
+| 453 | 343 | BookwormCate |
+| 454 | 343 | maria |
+| 455 | 342 | Kimberly Ann |
+| 456 | 342 | Cecilia Hicks |
+| 457 | 342 | Lively Blockpiece |
+| 458 | 341 | LilyRose |
+| 459 | 339 | Inez Nez |
+| 460 | 339 | Shepreneur Sade |
+| 461 | 337 | Tiggerjake |
 | 462 | 337 | Jazzy Rollout |
 | 463 | 334 | Deborah Ayliffe |
 | 464 | 331 | Maricela Joslin |
