@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 01:26:20 UTC
+# Standings for team1 as of 2026-06-10 01:26:49 UTC
 
 **Total Participants:** 2158
 
@@ -126,7 +126,7 @@
 | 118 | 1125 | Shellzb Roberts |
 | 119 | 1121 | Lisa Müller |
 | 120 | 1120 | IamJust Neyamijah Washington Sr. |
-| 121 | 1070 | Spunky Edgefit |
+| 121 | 1097 | Spunky Edgefit |
 | 122 | 1066 | Keeta Chickswit Scott |
 | 123 | 1051 | Christana Imjustbutton Stone |
 | 124 | 1050 | Peppy Piececlear |
@@ -157,8 +157,8 @@
 | 149 | 890 | Cj Gorman |
 | 150 | 882 | De'Laonzeo Anthony |
 | 151 | 874 | Anthony Washington |
-| 152 | 863 | Antonia Wyche |
-| 153 | 855 | No_Other_Choice |
+| 152 | 864 | No_Other_Choice |
+| 153 | 863 | Antonia Wyche |
 | 154 | 842 | Nutty Spinblock |
 | 155 | 836 | Cee Emm |
 | 156 | 813 | Rackemwillie34 |
@@ -349,9 +349,9 @@
 | 341 | 402 | Chummy Frame |
 | 342 | 401 | LaTonya Myers |
 | 343 | 400 | Denell Sims |
-| 344 | 396 | Nikki Hogan |
+| 344 | 398 | Reginald Frank |
 | 345 | 396 | akosua |
-| 346 | 395 | Reginald Frank |
+| 346 | 396 | Nikki Hogan |
 | 347 | 395 | Jackie Sanasay |
 | 348 | 393 | Rayya Kiser |
 | 349 | 390 | Jean Regis |
@@ -887,25 +887,25 @@
 | 879 | 147 | Charika Marie Bergmann |
 | 880 | 147 | Christopher L Crites |
 | 881 | 147 | Angelique Talbot |
-| 882 | 147 | Benjamin Livingston |
-| 883 | 147 | Ashley Love Pettit |
+| 882 | 147 | Ashley Love Pettit |
+| 883 | 147 | Benjamin Livingston |
 | 884 | 146 | Richelle Beck |
 | 885 | 146 | Paul Doty |
 | 886 | 146 | Tempee |
-| 887 | 146 | Morenita Rodriguez |
-| 888 | 146 | Jojo M |
-| 889 | 146 | Rieshelda Marie White |
+| 887 | 146 | Rieshelda Marie White |
+| 888 | 146 | Morenita Rodriguez |
+| 889 | 146 | Jojo M |
 | 890 | 146 | Kidgib5 |
 | 891 | 145 | tg |
 | 892 | 145 | Cheery Strikerbuilder |
 | 893 | 145 | Tito Divyn |
-| 894 | 144 | Ysma Simmons |
-| 895 | 144 | Dapper Matchfit |
-| 896 | 144 | Bouncy Glide |
-| 897 | 144 | Batty B |
-| 898 | 144 | Hasty Pivoty |
-| 899 | 144 | Witty Clear |
-| 900 | 143 | Kanesha Jackson |
+| 894 | 144 | Kanesha Jackson |
+| 895 | 144 | Ysma Simmons |
+| 896 | 144 | Dapper Matchfit |
+| 897 | 144 | Bouncy Glide |
+| 898 | 144 | Batty B |
+| 899 | 144 | Hasty Pivoty |
+| 900 | 144 | Witty Clear |
 | 901 | 142 | Sharon Lynn |
 | 902 | 142 | Desi Guerra |
 | 903 | 142 | Trusi Rusi |
@@ -1053,14 +1053,14 @@
 | 1045 | 113 | e |
 | 1046 | 113 | Alice Biggs |
 | 1047 | 113 | Sherry D Singleton |
-| 1048 | 112 | Nikiya |
-| 1049 | 112 | Ashanti Eden |
-| 1050 | 112 | LaPorscha Wright |
-| 1051 | 112 | GamerQueenDS |
-| 1052 | 112 | Caitlin Michele |
-| 1053 | 111 | Deihja Weaver |
-| 1054 | 111 | Jeremy Hendrix |
-| 1055 | 111 | Hoppy Buildsnap |
+| 1048 | 113 | Hoppy Buildsnap |
+| 1049 | 112 | Nikiya |
+| 1050 | 112 | Ashanti Eden |
+| 1051 | 112 | LaPorscha Wright |
+| 1052 | 112 | GamerQueenDS |
+| 1053 | 112 | Caitlin Michele |
+| 1054 | 111 | Deihja Weaver |
+| 1055 | 111 | Jeremy Hendrix |
 | 1056 | 111 | Heather Cross-Davis |
 | 1057 | 111 | GoldStarJo |
 | 1058 | 111 | Tip318 |
