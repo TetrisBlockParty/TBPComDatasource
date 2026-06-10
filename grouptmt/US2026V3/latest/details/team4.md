@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:29:22 UTC
+# Standings for team4 as of 2026-06-10 08:30:43 UTC
 
 **Total Participants:** 2296
 
@@ -25,7 +25,7 @@
 | 17 | 7109 | delilahbelle |
 | 18 | 6954 | Senor Moppy |
 | 19 | 6938 | Chris Hills |
-| 20 | 6513 | Bubbly Twistpiece |
+| 20 | 6528 | Bubbly Twistpiece |
 | 21 | 6449 | Nia Mayfield |
 | 22 | 6254 | Anna Moses |
 | 23 | 5803 | Cal Renee |
@@ -45,21 +45,21 @@
 | 37 | 4048 | Leah Barnett |
 | 38 | 4008 | Leigh Pierce |
 | 39 | 3810 | Blind Bette |
-| 40 | 3776 | Dana Smith |
-| 41 | 3773 | Fruitpunch |
-| 42 | 3762 | Dana Rinaldi |
-| 43 | 3741 | Jeanette Hailey |
+| 40 | 3801 | Jeanette Hailey |
+| 41 | 3776 | Dana Smith |
+| 42 | 3773 | Fruitpunch |
+| 43 | 3762 | Dana Rinaldi |
 | 44 | 3712 | Watupall13 |
 | 45 | 3500 | Leah Gorsuch |
 | 46 | 3400 | Kathy Brookins |
 | 47 | 3323 | Carly Stempien |
-| 48 | 3150 | Destiny Dyer |
-| 49 | 3134 | Wendy Zentz |
+| 48 | 3172 | Wendy Zentz |
+| 49 | 3150 | Destiny Dyer |
 | 50 | 3100 | Posey Smith |
 | 51 | 2960 | Alicia Cook |
 | 52 | 2839 | 626 |
-| 53 | 2800 | Annastaissia Todd |
-| 54 | 2800 | Caitlin Johnson |
+| 53 | 2800 | Caitlin Johnson |
+| 54 | 2800 | Annastaissia Todd |
 | 55 | 2795 | Monica Emel |
 | 56 | 2569 | Dana Abegil Lawas |
 | 57 | 2525 | Joseph Anthony Watkins |
@@ -119,8 +119,8 @@
 | 111 | 1196 | J |
 | 112 | 1181 | Dana Fontanez |
 | 113 | 1165 | GeorgeButts |
-| 114 | 1156 | Jonathan Hewitt |
-| 115 | 1156 | Dee Wizz |
+| 114 | 1156 | Dee Wizz |
+| 115 | 1156 | Jonathan Hewitt |
 | 116 | 1145 | Kristen Wallace |
 | 117 | 1142 | Hardy Fuller |
 | 118 | 1129 | Twirl Girl |
@@ -213,7 +213,7 @@
 | 205 | 683 | Malik Thompson |
 | 206 | 681 | Janet Sanfilippo Sullivan |
 | 207 | 678 | Katie Lynn Petit |
-| 208 | 665 | Snippy Splitter |
+| 208 | 667 | Snippy Splitter |
 | 209 | 662 | Danielle Mitchell |
 | 210 | 660 | Wanda Simmons |
 | 211 | 651 | Dayna Arthurs |
@@ -234,7 +234,7 @@
 | 226 | 617 | Alex Armour |
 | 227 | 616 | Renee Sapp |
 | 228 | 616 | Toon Up |
-| 229 | 614 | Neeta Kapadia |
+| 229 | 616 | Neeta Kapadia |
 | 230 | 613 | Big Dooka |
 | 231 | 611 | Logan Two-dubs Baker |
 | 232 | 607 | Samara Garcia |
@@ -246,8 +246,8 @@
 | 238 | 596 | Samantha Worley |
 | 239 | 593 | Vanessa Sykes |
 | 240 | 592 | Sarah Berry Stevens |
-| 241 | 590 | Jacqueline Jackii Ramos |
-| 242 | 589 | Jeremy |
+| 241 | 591 | Jeremy |
+| 242 | 590 | Jacqueline Jackii Ramos |
 | 243 | 584 | Real Talk Vibes |
 | 244 | 583 | Dae Von |
 | 245 | 576 | Goofy Riser |
@@ -325,11 +325,11 @@
 | 317 | 456 | EL Booger |
 | 318 | 455 | Morgan Stevens |
 | 319 | 455 | Tawna Curry |
-| 320 | 453 | JuicyJuice |
-| 321 | 452 | Karen Miller |
-| 322 | 449 | Troy Zanelli |
-| 323 | 449 | Glitzy Patternbuilder |
-| 324 | 448 | Matthew Hudson |
+| 320 | 455 | Matthew Hudson |
+| 321 | 454 | Glitzy Patternbuilder |
+| 322 | 453 | JuicyJuice |
+| 323 | 452 | Karen Miller |
+| 324 | 449 | Troy Zanelli |
 | 325 | 448 | Earl Edwards |
 | 326 | 445 | Brian Woods |
 | 327 | 444 | Funky Tiler |
@@ -500,53 +500,53 @@
 | 492 | 300 | Teester |
 | 493 | 300 | Reggie Laserna Clement |
 | 494 | 299 | Deva Marie Barber |
-| 495 | 298 | Elissa Danks |
-| 496 | 296 | Alyson M Kehler |
-| 497 | 296 | beauxie |
-| 498 | 296 | Erik Clary |
-| 499 | 296 | Maricela Joslin |
-| 500 | 295 | Carmen Angelica Sosa |
-| 501 | 295 | Elli Wright |
-| 502 | 295 | Miss Beast |
-| 503 | 294 | Dandy Cascade |
-| 504 | 294 | Dawn Phelps |
-| 505 | 294 | Cecilia Hicks |
-| 506 | 292 | Karen Small |
-| 507 | 292 | Jennifer Fisher Franklin |
-| 508 | 292 | Brendan Craven |
-| 509 | 292 | Rachel Lemos |
-| 510 | 291 | Valerie Silva |
-| 511 | 290 | Britney Kitora |
-| 512 | 290 | LaTanya GeminiondaRise Johnson |
-| 513 | 290 | Daniel Lossman |
-| 514 | 289 | Jrr |
-| 515 | 289 | Sandra Stark |
-| 516 | 288 | Justin Sercu |
-| 517 | 288 | Justin Janachovsky |
-| 518 | 286 | DizzB400 |
-| 519 | 286 | King |
-| 520 | 286 | Tiffany Smith |
-| 521 | 286 | Dubiousdust |
-| 522 | 285 | ariel |
-| 523 | 285 | gabs |
-| 524 | 285 | Karen Denise Ann Veitch |
-| 525 | 285 | Christina Barry |
-| 526 | 285 | Joab Gonzalez |
-| 527 | 284 | Brandi Sauer |
-| 528 | 282 | Travis McKinnon |
-| 529 | 282 | sierrabeth |
-| 530 | 281 | farfromlocal |
-| 531 | 281 | Margie Thomas |
-| 532 | 280 | Giddy Basepiece |
-| 533 | 280 | Alice Eisnor-Martens |
-| 534 | 280 | Snazzy Fitclear |
-| 535 | 279 | Perry Ransom |
-| 536 | 279 | LandO |
-| 537 | 279 | Krystal Dixon-Hahn |
-| 538 | 279 | JoAnn Summerlot Ratliff |
-| 539 | 279 | Heidi Anne Scheiderer |
-| 540 | 279 | Jacinta Hooker-Brown |
-| 541 | 279 | Jubalicious |
+| 495 | 299 | Jubalicious |
+| 496 | 298 | Elissa Danks |
+| 497 | 296 | Alyson M Kehler |
+| 498 | 296 | beauxie |
+| 499 | 296 | Erik Clary |
+| 500 | 296 | Maricela Joslin |
+| 501 | 295 | Carmen Angelica Sosa |
+| 502 | 295 | Elli Wright |
+| 503 | 295 | Miss Beast |
+| 504 | 294 | Dandy Cascade |
+| 505 | 294 | Dawn Phelps |
+| 506 | 294 | Cecilia Hicks |
+| 507 | 292 | Karen Small |
+| 508 | 292 | Jennifer Fisher Franklin |
+| 509 | 292 | Brendan Craven |
+| 510 | 292 | Rachel Lemos |
+| 511 | 291 | Valerie Silva |
+| 512 | 290 | Britney Kitora |
+| 513 | 290 | LaTanya GeminiondaRise Johnson |
+| 514 | 290 | Daniel Lossman |
+| 515 | 289 | Jrr |
+| 516 | 289 | Sandra Stark |
+| 517 | 288 | Justin Sercu |
+| 518 | 288 | Justin Janachovsky |
+| 519 | 286 | DizzB400 |
+| 520 | 286 | King |
+| 521 | 286 | Tiffany Smith |
+| 522 | 286 | Dubiousdust |
+| 523 | 285 | ariel |
+| 524 | 285 | gabs |
+| 525 | 285 | Karen Denise Ann Veitch |
+| 526 | 285 | Christina Barry |
+| 527 | 285 | Joab Gonzalez |
+| 528 | 284 | Brandi Sauer |
+| 529 | 282 | Travis McKinnon |
+| 530 | 282 | sierrabeth |
+| 531 | 281 | farfromlocal |
+| 532 | 281 | Margie Thomas |
+| 533 | 280 | Giddy Basepiece |
+| 534 | 280 | Alice Eisnor-Martens |
+| 535 | 280 | Snazzy Fitclear |
+| 536 | 279 | Perry Ransom |
+| 537 | 279 | LandO |
+| 538 | 279 | Krystal Dixon-Hahn |
+| 539 | 279 | JoAnn Summerlot Ratliff |
+| 540 | 279 | Heidi Anne Scheiderer |
+| 541 | 279 | Jacinta Hooker-Brown |
 | 542 | 278 | Kandylands |
 | 543 | 277 | CrashOutCarla |
 | 544 | 277 | Deborah Silberg |
@@ -953,20 +953,20 @@
 | 945 | 152 | SuperJen |
 | 946 | 152 | Street724 |
 | 947 | 152 | Hotstuff |
-| 948 | 151 | David Kirschner |
-| 949 | 151 | Barbara Mays |
-| 950 | 151 | Steve Swanson |
-| 951 | 151 | Kasey Lynne |
-| 952 | 151 | Jason Moves |
-| 953 | 151 | MsThick SrtLady Williams |
-| 954 | 151 | Joha Mldo Castillo |
-| 955 | 150 | Tod Jae |
-| 956 | 150 | Tigger |
-| 957 | 150 | Liz R |
-| 958 | 150 | Kay |
-| 959 | 150 | PDubz |
-| 960 | 150 | Breezy Brickfit |
-| 961 | 150 | Cozy Builderfit |
+| 948 | 152 | Cozy Builderfit |
+| 949 | 151 | David Kirschner |
+| 950 | 151 | Barbara Mays |
+| 951 | 151 | Steve Swanson |
+| 952 | 151 | Kasey Lynne |
+| 953 | 151 | Jason Moves |
+| 954 | 151 | MsThick SrtLady Williams |
+| 955 | 151 | Joha Mldo Castillo |
+| 956 | 150 | Tod Jae |
+| 957 | 150 | Tigger |
+| 958 | 150 | Liz R |
+| 959 | 150 | Kay |
+| 960 | 150 | PDubz |
+| 961 | 150 | Breezy Brickfit |
 | 962 | 149 | Lilo |
 | 963 | 149 | Loony Edge |
 | 964 | 149 | Snappy Fill |
