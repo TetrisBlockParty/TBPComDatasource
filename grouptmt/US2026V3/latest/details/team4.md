@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 03:52:44 UTC
+# Standings for team4 as of 2026-06-10 03:53:22 UTC
 
 **Total Participants:** 2253
 
@@ -19,7 +19,7 @@
 | 11 | 8846 | ktothet |
 | 12 | 8678 | Candice Driver |
 | 13 | 8428 | Jennifer Edgell Richardson |
-| 14 | 8290 | t |
+| 14 | 8387 | t |
 | 15 | 7752 | Bryony Nicholson |
 | 16 | 7109 | delilahbelle |
 | 17 | 7078 | Jerald Jones |
@@ -187,7 +187,7 @@
 | 179 | 725 | iiPurgeV2 |
 | 180 | 721 | Lisa Garcia |
 | 181 | 720 | Magz |
-| 182 | 717 | Suzanne North |
+| 182 | 719 | Suzanne North |
 | 183 | 716 | Devinlee Brown |
 | 184 | 714 | Nikki Fuller Johnson |
 | 185 | 705 | Katie Martin |
@@ -422,14 +422,14 @@
 | 414 | 340 | jojo |
 | 415 | 339 | Shepreneur Sade |
 | 416 | 337 | Chilly Pivot |
-| 417 | 335 | Neeta Kapadia |
-| 418 | 335 | Candice Sellers Worley |
-| 419 | 333 | Mark Norton |
-| 420 | 333 | Snow77white |
-| 421 | 333 | Kellz M Bee |
-| 422 | 332 | Heidi Hala |
-| 423 | 332 | Tiggerjake |
-| 424 | 331 | Tiffany Morris Garner |
+| 417 | 336 | Tiffany Morris Garner |
+| 418 | 335 | Neeta Kapadia |
+| 419 | 335 | Candice Sellers Worley |
+| 420 | 333 | Mark Norton |
+| 421 | 333 | Snow77white |
+| 422 | 333 | Kellz M Bee |
+| 423 | 332 | Heidi Hala |
+| 424 | 332 | Tiggerjake |
 | 425 | 329 | DanceAngel |
 | 426 | 329 | Lani |
 | 427 | 329 | Candiecane324 |
@@ -1250,62 +1250,62 @@
 | 1242 | 94 | Mighty Clicky |
 | 1243 | 94 | Ronald Kent Hall |
 | 1244 | 94 | Mrs.J2013 |
-| 1245 | 94 | Cranky Twistpiece |
-| 1246 | 94 | Dandy Balancer |
-| 1247 | 94 | Cinnanin |
-| 1248 | 94 | Shavondelia Williams |
-| 1249 | 94 | Lionel Hampton |
-| 1250 | 94 | Elizabeth Ann Caro |
-| 1251 | 94 | Kyle Hergert |
-| 1252 | 93 | E money |
+| 1245 | 94 | Katherine Stec |
+| 1246 | 94 | Cranky Twistpiece |
+| 1247 | 94 | Dandy Balancer |
+| 1248 | 94 | Cinnanin |
+| 1249 | 94 | Shavondelia Williams |
+| 1250 | 94 | Lionel Hampton |
+| 1251 | 94 | Elizabeth Ann Caro |
+| 1252 | 94 | Kyle Hergert |
 | 1253 | 93 | Dorothy Mitchell |
-| 1254 | 92 | Pap337 |
-| 1255 | 92 | Bruce Hobbs |
-| 1256 | 92 | Chelsea Leann Lamb |
-| 1257 | 92 | Koren Heersink |
-| 1258 | 92 | Sara Cobb |
-| 1259 | 92 | Travis Whitner |
-| 1260 | 92 | Amori85 |
-| 1261 | 92 | Donna Winget |
-| 1262 | 92 | Sprout |
-| 1263 | 91 | Erica Armstrong Baz |
-| 1264 | 91 | Funky Zonebuilder |
-| 1265 | 91 | Jolly Fitblock |
-| 1266 | 91 | Becca Milliron |
-| 1267 | 91 | A La |
-| 1268 | 91 | CRsLady |
-| 1269 | 90 | Monique Anne Edwards |
-| 1270 | 90 | Heather Griffin |
-| 1271 | 90 | Krissy Smith |
-| 1272 | 90 | Katherine Stec |
+| 1254 | 93 | E money |
+| 1255 | 92 | Pap337 |
+| 1256 | 92 | Bruce Hobbs |
+| 1257 | 92 | Chelsea Leann Lamb |
+| 1258 | 92 | Koren Heersink |
+| 1259 | 92 | Donna Winget |
+| 1260 | 92 | Sara Cobb |
+| 1261 | 92 | Amori85 |
+| 1262 | 92 | Travis Whitner |
+| 1263 | 92 | Sprout |
+| 1264 | 91 | A La |
+| 1265 | 91 | Becca Milliron |
+| 1266 | 91 | Funky Zonebuilder |
+| 1267 | 91 | CRsLady |
+| 1268 | 91 | Jolly Fitblock |
+| 1269 | 91 | Erica Armstrong Baz |
+| 1270 | 90 | Krissy Smith |
+| 1271 | 90 | Snappy Glidebuilder |
+| 1272 | 90 | Monique Anne Edwards |
 | 1273 | 90 | Волна Бог |
 | 1274 | 90 | STRay |
 | 1275 | 90 | Mystica |
-| 1276 | 90 | Snappy Glidebuilder |
-| 1277 | 89 | Bon Jovi |
+| 1276 | 90 | Heather Griffin |
+| 1277 | 89 | Bekka Walker |
 | 1278 | 89 | Khylee DarDar |
-| 1279 | 89 | Ladybug |
-| 1280 | 89 | Bekka Walker |
+| 1279 | 89 | Bon Jovi |
+| 1280 | 89 | Ladybug |
 | 1281 | 89 | Mandie Torres |
-| 1282 | 88 | Joe Win |
-| 1283 | 88 | Mandi Rexroat |
+| 1282 | 88 | Tbag |
+| 1283 | 88 | Joe Win |
 | 1284 | 88 | Musky Pits |
-| 1285 | 88 | Happy Toast |
-| 1286 | 88 | Tbag |
+| 1285 | 88 | Mandi Rexroat |
+| 1286 | 88 | Happy Toast |
 | 1287 | 88 | Ελενη Χολεβα |
-| 1288 | 87 | Audacious |
-| 1289 | 87 | Leslee Bentley DeLong |
+| 1288 | 87 | Leslee Bentley DeLong |
+| 1289 | 87 | Audacious |
 | 1290 | 86 | Alicia Loveless |
-| 1291 | 86 | Jodi Messere |
-| 1292 | 86 | Meela Abdurrab |
-| 1293 | 86 | Luunii |
-| 1294 | 85 | Diane Obungu |
-| 1295 | 85 | LuLazer27 |
+| 1291 | 86 | Luunii |
+| 1292 | 86 | Jodi Messere |
+| 1293 | 86 | Meela Abdurrab |
+| 1294 | 85 | Sherri Lorent |
+| 1295 | 85 | Diane Obungu |
 | 1296 | 85 | MelodiousDeez |
-| 1297 | 85 | Dee Modest |
-| 1298 | 85 | Sherri Lorent |
-| 1299 | 84 | Tay |
-| 1300 | 84 | Red |
+| 1297 | 85 | LuLazer27 |
+| 1298 | 85 | Dee Modest |
+| 1299 | 84 | Red |
+| 1300 | 84 | Tay |
 | 1301 | 84 | Amber Arnold |
 | 1302 | 84 | Brittany |
 | 1303 | 84 | Cassie N Danica Flaherty |
@@ -1319,20 +1319,20 @@
 | 1311 | 82 | Krystalclear |
 | 1312 | 82 | aubz |
 | 1313 | 82 | Brenda Mueller |
-| 1314 | 82 | Charity Thomas |
-| 1315 | 81 | Lashae |
-| 1316 | 81 | QuickFreeze |
-| 1317 | 81 | Poppy Glider |
-| 1318 | 81 | Kristen Lester |
-| 1319 | 81 | Monte Smith |
-| 1320 | 81 | Sa5siy |
+| 1314 | 82 | Clever Linkfall |
+| 1315 | 82 | Charity Thomas |
+| 1316 | 81 | Lashae |
+| 1317 | 81 | QuickFreeze |
+| 1318 | 81 | Poppy Glider |
+| 1319 | 81 | Kristen Lester |
+| 1320 | 81 | Monte Smith |
 | 1321 | 81 | MsThick SrtLady Williams |
-| 1322 | 81 | Michelle Clark |
-| 1323 | 81 | Bold Clear |
-| 1324 | 81 | Dominique Miesha Smith |
-| 1325 | 80 | Brenda Villa |
-| 1326 | 80 | Danielle Porter |
-| 1327 | 80 | Clever Linkfall |
+| 1322 | 81 | Sa5siy |
+| 1323 | 81 | Michelle Clark |
+| 1324 | 81 | Bold Clear |
+| 1325 | 81 | Dominique Miesha Smith |
+| 1326 | 80 | Brenda Villa |
+| 1327 | 80 | Danielle Porter |
 | 1328 | 80 | CM |
 | 1329 | 80 | Hyper Clusterline |
 | 1330 | 80 | Donya' Johnson |
