@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:51:25 UTC
+# Standings for team2 as of 2026-06-10 09:52:22 UTC
 
 **Total Participants:** 2718
 
@@ -167,7 +167,7 @@
 | 159 | 1032 | Groovy Snapper |
 | 160 | 1021 | Erin Thomas |
 | 161 | 1019 | Vistabrat |
-| 162 | 1015 | Sarah Griffey |
+| 162 | 1017 | Sarah Griffey |
 | 163 | 1003 | Giddy Climber |
 | 164 | 1003 | Wacky Dashfit |
 | 165 | 1000 | Sydney Headley |

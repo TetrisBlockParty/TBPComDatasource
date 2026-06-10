@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:51:25 UTC
+# Standings for team4 as of 2026-06-10 09:52:22 UTC
 
 **Total Participants:** 2299
 
@@ -25,7 +25,7 @@
 | 17 | 7109 | delilahbelle |
 | 18 | 6954 | Senor Moppy |
 | 19 | 6938 | Chris Hills |
-| 20 | 6693 | Bubbly Twistpiece |
+| 20 | 6708 | Bubbly Twistpiece |
 | 21 | 6449 | Nia Mayfield |
 | 22 | 6254 | Anna Moses |
 | 23 | 6189 | Ning Quiambao |
@@ -62,7 +62,7 @@
 | 54 | 2800 | Annastaissia Todd |
 | 55 | 2800 | Caitlin Johnson |
 | 56 | 2795 | Monica Emel |
-| 57 | 2672 | Dana Abegil Lawas |
+| 57 | 2682 | Dana Abegil Lawas |
 | 58 | 2537 | Маркус Вік |
 | 59 | 2525 | Joseph Anthony Watkins |
 | 60 | 2433 | Alexandria Frazier |
@@ -639,57 +639,57 @@
 | 631 | 241 | Memphiago Tenninois |
 | 632 | 241 | Stef |
 | 633 | 241 | Seraphim Mabry |
-| 634 | 240 | Jennifer Evans Elliott |
-| 635 | 240 | 1694AF |
-| 636 | 240 | Jimmy Clark |
-| 637 | 240 | Keke Johnson |
-| 638 | 240 | Nerdy Brickster |
-| 639 | 240 | Tesa Mike Jenkins |
+| 634 | 240 | Tesa Mike Jenkins |
+| 635 | 240 | Nerdy Brickster |
+| 636 | 240 | Keke Johnson |
+| 637 | 240 | Jennifer Evans Elliott |
+| 638 | 240 | 1694AF |
+| 639 | 240 | Jimmy Clark |
 | 640 | 239 | Chelle Williams |
-| 641 | 238 | Amanda Snow |
-| 642 | 238 | Tara Delay Hill |
-| 643 | 238 | Shaunna Caldwell |
-| 644 | 237 | Diana Fernandez |
-| 645 | 237 | Erica Pompey |
-| 646 | 237 | Donna Bush |
-| 647 | 236 | JoJo Hutson |
+| 641 | 238 | Tara Delay Hill |
+| 642 | 238 | Shaunna Caldwell |
+| 643 | 238 | Amanda Snow |
+| 644 | 237 | Donna Bush |
+| 645 | 237 | Diana Fernandez |
+| 646 | 237 | Erica Pompey |
+| 647 | 236 | Trang Nguyen |
 | 648 | 236 | Bonique Bier |
-| 649 | 236 | Trang Nguyen |
-| 650 | 236 | Playful Raccoon |
-| 651 | 234 | Paula Renee McCracken |
-| 652 | 234 | Dena Lynn Rogers |
+| 649 | 236 | Playful Raccoon |
+| 650 | 236 | JoJo Hutson |
+| 651 | 234 | Dena Lynn Rogers |
+| 652 | 234 | Paula Renee McCracken |
 | 653 | 233 | Arvin Ortega |
 | 654 | 232 | All knowing |
 | 655 | 232 | Gigi Ivicsics |
 | 656 | 231 | Poseidon S Davenport |
-| 657 | 231 | Lora Schallert |
-| 658 | 231 | Allysha McFarland |
-| 659 | 231 | Stephanie Brock |
-| 660 | 231 | Destiny Starr LeValdo |
+| 657 | 231 | Allysha McFarland |
+| 658 | 231 | Destiny Starr LeValdo |
+| 659 | 231 | Lora Schallert |
+| 660 | 231 | Stephanie Brock |
 | 661 | 230 | Breezy Brickline |
-| 662 | 230 | Lord Solrac |
-| 663 | 229 | Happy Shatterfit |
+| 662 | 230 | Alizabeth Garcia |
+| 663 | 230 | Lord Solrac |
 | 664 | 229 | chuck |
 | 665 | 229 | Marcus Chavis |
-| 666 | 229 | Capt'n Crunch |
-| 667 | 229 | Allysonjo Varela |
+| 666 | 229 | Happy Shatterfit |
+| 667 | 229 | Capt'n Crunch |
 | 668 | 229 | Funky Twistpiece |
-| 669 | 228 | Happy Strikerpiece |
+| 669 | 229 | Allysonjo Varela |
 | 670 | 228 | Raising Stars |
 | 671 | 228 | Tonia Kay |
-| 672 | 228 | Daring Towerer |
-| 673 | 227 | Justin Ballard |
+| 672 | 228 | Happy Strikerpiece |
+| 673 | 228 | Daring Towerer |
 | 674 | 227 | Budda Huitt |
 | 675 | 227 | Kiki Moore |
-| 676 | 227 | Tactical_B |
-| 677 | 226 | Domo Dpn |
-| 678 | 226 | Buddyblock |
-| 679 | 226 | Alizabeth Garcia |
+| 676 | 227 | Justin Ballard |
+| 677 | 227 | Tactical_B |
+| 678 | 226 | Domo Dpn |
+| 679 | 226 | Buddyblock |
 | 680 | 225 | Stefanie Street |
 | 681 | 225 | Rose Anna Safi |
 | 682 | 224 | Mmm |
-| 683 | 224 | Jordan Tamayia Williams |
-| 684 | 224 | Tamara Gay |
+| 683 | 224 | Tamara Gay |
+| 684 | 224 | Jordan Tamayia Williams |
 | 685 | 223 | Sarah Leake |
 | 686 | 223 | Chass Hudson |
 | 687 | 222 | Maria Munoz |
@@ -873,17 +873,17 @@
 | 865 | 174 | Eddie Fuller |
 | 866 | 174 | Michelle Michelle |
 | 867 | 173 | Tarsha Thomas-Martinez |
-| 868 | 173 | Patsy |
-| 869 | 173 | Scot Matthew Bergdorf |
-| 870 | 173 | Lizard |
-| 871 | 172 | Renzo Tonini |
-| 872 | 172 | Christina Williams |
-| 873 | 172 | Poptart |
-| 874 | 172 | Lizxxx |
+| 868 | 173 | Lizxxx |
+| 869 | 173 | Patsy |
+| 870 | 173 | Scot Matthew Bergdorf |
+| 871 | 173 | Lizard |
+| 872 | 172 | Renzo Tonini |
+| 873 | 172 | Christina Williams |
+| 874 | 172 | Poptart |
 | 875 | 171 | Bouncy Clusterline |
 | 876 | 171 | Witty Fitblock |
-| 877 | 171 | Darryl Shufford |
-| 878 | 171 | Carlos Amaya |
+| 877 | 171 | Carlos Amaya |
+| 878 | 171 | Darryl Shufford |
 | 879 | 171 | Ian T Parker |
 | 880 | 170 | Christina Hagan |
 | 881 | 170 | LaRue Tee |
@@ -1291,20 +1291,20 @@
 | 1283 | 94 | Dandy Balancer |
 | 1284 | 93 | Dorothy Mitchell |
 | 1285 | 93 | E money |
-| 1286 | 92 | Sprout |
-| 1287 | 92 | Mandi Rexroat |
-| 1288 | 92 | Koren Heersink |
-| 1289 | 92 | Sara Cobb |
-| 1290 | 92 | Bruce Hobbs |
-| 1291 | 92 | Chelsea Leann Lamb |
-| 1292 | 92 | Travis Whitner |
-| 1293 | 91 | Becca Milliron |
-| 1294 | 91 | Monique Kitzmiller |
-| 1295 | 91 | Funky Zonebuilder |
-| 1296 | 91 | A La |
-| 1297 | 91 | Erica Armstrong Baz |
-| 1298 | 91 | Jolly Fitblock |
-| 1299 | 91 | Clever Clearzone |
+| 1286 | 92 | Clever Clearzone |
+| 1287 | 92 | Sprout |
+| 1288 | 92 | Mandi Rexroat |
+| 1289 | 92 | Koren Heersink |
+| 1290 | 92 | Sara Cobb |
+| 1291 | 92 | Bruce Hobbs |
+| 1292 | 92 | Chelsea Leann Lamb |
+| 1293 | 92 | Travis Whitner |
+| 1294 | 91 | Becca Milliron |
+| 1295 | 91 | Monique Kitzmiller |
+| 1296 | 91 | Funky Zonebuilder |
+| 1297 | 91 | A La |
+| 1298 | 91 | Erica Armstrong Baz |
+| 1299 | 91 | Jolly Fitblock |
 | 1300 | 91 | Calleen Ellen Madrigal |
 | 1301 | 90 | Monique Anne Edwards |
 | 1302 | 90 | Волна Бог |
@@ -1808,16 +1808,16 @@
 | 1800 | 35 | djwil |
 | 1801 | 35 | Junelle Simple |
 | 1802 | 35 | Lincy A. Walsh |
-| 1803 | 35 | Breezy Shatterclear |
-| 1804 | 35 | Tipsy toesy |
-| 1805 | 35 | Stephanie Williams |
-| 1806 | 35 | Lex Allen |
-| 1807 | 35 | KySun |
-| 1808 | 35 | Saul Fajardo |
-| 1809 | 35 | Phoenyx Roze |
-| 1810 | 35 | Magda Lene |
-| 1811 | 34 | Jinx4fun |
-| 1812 | 34 | Shakita Moore-Bernard |
+| 1803 | 35 | Shakita Moore-Bernard |
+| 1804 | 35 | Breezy Shatterclear |
+| 1805 | 35 | Tipsy toesy |
+| 1806 | 35 | Stephanie Williams |
+| 1807 | 35 | Lex Allen |
+| 1808 | 35 | KySun |
+| 1809 | 35 | Saul Fajardo |
+| 1810 | 35 | Phoenyx Roze |
+| 1811 | 35 | Magda Lene |
+| 1812 | 34 | Jinx4fun |
 | 1813 | 34 | Yulissa Diaz |
 | 1814 | 34 | Chelsea Pigg |
 | 1815 | 34 | Danielle Clutter |
