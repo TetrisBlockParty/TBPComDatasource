@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 19:48:48 UTC
+# Standings for team4 as of 2026-06-10 19:49:24 UTC
 
 **Total Participants:** 2370
 
@@ -523,12 +523,12 @@
 | 515 | 315 | gabs |
 | 516 | 315 | Travis McKinnon |
 | 517 | 315 | Jrr |
-| 518 | 315 | Perry Ransom |
-| 519 | 315 | Littlebrat |
-| 520 | 315 | tj |
-| 521 | 315 | Daniel Lossman |
-| 522 | 315 | Thermeka Lindsey |
-| 523 | 314 | ariel |
+| 518 | 315 | ariel |
+| 519 | 315 | Perry Ransom |
+| 520 | 315 | Littlebrat |
+| 521 | 315 | tj |
+| 522 | 315 | Daniel Lossman |
+| 523 | 315 | Thermeka Lindsey |
 | 524 | 314 | Ginny |
 | 525 | 313 | Frothy Pattern |
 | 526 | 313 | Jessica Jones Bolton |
@@ -555,23 +555,23 @@
 | 547 | 301 | Sally Hiraldo |
 | 548 | 300 | Ada Rodriguez Spradley |
 | 549 | 299 | Diana Fernandez |
-| 550 | 299 | Donna Bush |
-| 551 | 299 | Jacinta Hooker-Brown |
-| 552 | 299 | Sandra Stark |
+| 550 | 299 | Sandra Stark |
+| 551 | 299 | Donna Bush |
+| 552 | 299 | Jacinta Hooker-Brown |
 | 553 | 299 | Justin Sercu |
 | 554 | 298 | Elissa Danks |
 | 555 | 297 | shonaberry |
-| 556 | 295 | Carmen Angelica Sosa |
-| 557 | 294 | Gigi Ivicsics |
-| 558 | 294 | Lisa lisa |
+| 556 | 296 | Sarah Leake |
+| 557 | 295 | Carmen Angelica Sosa |
+| 558 | 294 | Gigi Ivicsics |
 | 559 | 294 | Mrs |
-| 560 | 293 | Playa |
-| 561 | 293 | Butterfly |
-| 562 | 292 | Jennifer Fisher Franklin |
+| 560 | 294 | Lisa lisa |
+| 561 | 293 | Playa |
+| 562 | 293 | Butterfly |
 | 563 | 292 | Rachel Lemos |
-| 564 | 292 | Brendan Craven |
-| 565 | 291 | Valerie Silva |
-| 566 | 290 | Sarah Leake |
+| 564 | 292 | Jennifer Fisher Franklin |
+| 565 | 292 | Brendan Craven |
+| 566 | 291 | Valerie Silva |
 | 567 | 290 | LaTanya GeminiondaRise Johnson |
 | 568 | 288 | Justin Janachovsky |
 | 569 | 288 | Happy Shatterfit |
