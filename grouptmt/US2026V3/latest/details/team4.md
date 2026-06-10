@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 20:24:46 UTC
+# Standings for team4 as of 2026-06-10 20:25:23 UTC
 
 **Total Participants:** 2373
 
@@ -498,20 +498,20 @@
 | 490 | 331 | Rosy Perez |
 | 491 | 329 | MrsReap |
 | 492 | 328 | Hasty Dropzone |
-| 493 | 326 | beauxie |
-| 494 | 326 | Nerdy Faller |
-| 495 | 325 | Destiny Starr LeValdo |
-| 496 | 325 | Chonda OhanaMomma Michelle |
-| 497 | 324 | Nikki |
-| 498 | 324 | Jen Smith |
-| 499 | 324 | Kari Smith |
-| 500 | 323 | Dubiousdust |
-| 501 | 323 | Teester |
-| 502 | 323 | Lupe Chapa |
-| 503 | 322 | Winter Moon |
-| 504 | 321 | Ashley Eskridge |
-| 505 | 320 | Tesa Mike Jenkins |
-| 506 | 320 | Reggie Laserna Clement |
+| 493 | 327 | Reggie Laserna Clement |
+| 494 | 326 | beauxie |
+| 495 | 326 | Nerdy Faller |
+| 496 | 325 | Destiny Starr LeValdo |
+| 497 | 325 | Chonda OhanaMomma Michelle |
+| 498 | 324 | Nikki |
+| 499 | 324 | Jen Smith |
+| 500 | 324 | Kari Smith |
+| 501 | 323 | Dubiousdust |
+| 502 | 323 | Teester |
+| 503 | 323 | Lupe Chapa |
+| 504 | 322 | Winter Moon |
+| 505 | 321 | Ashley Eskridge |
+| 506 | 320 | Tesa Mike Jenkins |
 | 507 | 320 | Goofy Linkmatch |
 | 508 | 320 | Dandy Cascade |
 | 509 | 319 | Snazzy Fitclear |
@@ -619,8 +619,8 @@
 | 611 | 271 | EpicWizard |
 | 612 | 270 | Dawn Renee Thomas |
 | 613 | 269 | Jordan Tamayia Williams |
-| 614 | 269 | Montes Ash |
-| 615 | 269 | Dominique Summers Tah-tah |
+| 614 | 269 | Dominique Summers Tah-tah |
+| 615 | 269 | Montes Ash |
 | 616 | 269 | Mmm |
 | 617 | 269 | Shia Marie |
 | 618 | 269 | Nessa Smith |
@@ -628,14 +628,14 @@
 | 620 | 268 | Kendall Rhodie |
 | 621 | 268 | Chelsea Guajardo |
 | 622 | 268 | Andreas Vs Shinky |
-| 623 | 267 | Budda Huitt |
-| 624 | 267 | Blessedmom865 |
-| 625 | 267 | Taisha Beasley |
-| 626 | 267 | Swanky Snapgrid |
-| 627 | 266 | Stacy G |
-| 628 | 266 | Andrea Dre Lomeli |
-| 629 | 265 | Lolita Nettles |
-| 630 | 265 | Saucy Brickmatch |
+| 623 | 267 | Saucy Brickmatch |
+| 624 | 267 | Budda Huitt |
+| 625 | 267 | Blessedmom865 |
+| 626 | 267 | Taisha Beasley |
+| 627 | 267 | Swanky Snapgrid |
+| 628 | 266 | Stacy G |
+| 629 | 266 | Andrea Dre Lomeli |
+| 630 | 265 | Lolita Nettles |
 | 631 | 264 | yourmomz |
 | 632 | 264 | Brenda Gustamantes |
 | 633 | 263 | PsyDMom |
@@ -741,17 +741,17 @@
 | 733 | 227 | Justin Ballard |
 | 734 | 227 | Kuar T Ejen |
 | 735 | 226 | Domo Dpn |
-| 736 | 226 | Steve Foster |
-| 737 | 226 | Buddyblock |
-| 738 | 226 | Scarlett Ashley Clark |
+| 736 | 226 | Buddyblock |
+| 737 | 226 | Scarlett Ashley Clark |
+| 738 | 226 | Steve Foster |
 | 739 | 225 | Sunny Tiltbuilder |
 | 740 | 225 | Rose Anna Safi |
 | 741 | 225 | Stefanie Street |
 | 742 | 224 | Japexican Strong |
 | 743 | 224 | Csigirlnc |
-| 744 | 224 | Chilly Pop |
-| 745 | 224 | Tamara Gay |
-| 746 | 224 | Ashlee Lemus |
+| 744 | 224 | Ashlee Lemus |
+| 745 | 224 | Chilly Pop |
+| 746 | 224 | Tamara Gay |
 | 747 | 223 | Bigmamalizzet Latto |
 | 748 | 222 | Maria Munoz |
 | 749 | 221 | Lorrie Ann Burchett |
@@ -777,8 +777,8 @@
 | 769 | 215 | Autumn Maher |
 | 770 | 215 | Helen Bradley |
 | 771 | 215 | Ben Figueroa |
-| 772 | 215 | Adi Patterson |
-| 773 | 215 | Sfalcon1. |
+| 772 | 215 | Sfalcon1. |
+| 773 | 215 | Adi Patterson |
 | 774 | 214 | Cozy Patternline |
 | 775 | 214 | Joe Andrews |
 | 776 | 214 | Monica Shupe |
