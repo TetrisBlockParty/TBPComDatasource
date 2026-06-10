@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:38:42 UTC
+# Standings for team1 as of 2026-06-10 09:39:22 UTC
 
 **Total Participants:** 2252
 
@@ -62,8 +62,8 @@
 | 54 | 2138 | Linzie Marie |
 | 55 | 2121 | Cherry Rose |
 | 56 | 2106 | Shellzb Roberts |
-| 57 | 2082 | D'Andra Stewart |
-| 58 | 2080 | Chris Caniglia |
+| 57 | 2088 | Chris Caniglia |
+| 58 | 2082 | D'Andra Stewart |
 | 59 | 2076 | April Inboden |
 | 60 | 2049 | Blockhead |
 | 61 | 1972 | Helen Smith |
@@ -115,7 +115,7 @@
 | 107 | 1309 | Catara Renae Oliver |
 | 108 | 1303 | Aviv Zehavi |
 | 109 | 1295 | Kimberly Hernandez |
-| 110 | 1291 | Robbie Cheeseman |
+| 110 | 1293 | Robbie Cheeseman |
 | 111 | 1288 | Amalie Newvine |
 | 112 | 1282 | Jon Gathers |
 | 113 | 1239 | G Ah Mayes |
@@ -881,15 +881,15 @@
 | 873 | 166 | Sallie Sanborn |
 | 874 | 165 | Kashh |
 | 875 | 165 | Silly Edgepiece |
-| 876 | 164 | Shauntai Holiday |
-| 877 | 164 | Bouncy Glide |
-| 878 | 164 | Arlea Mann |
-| 879 | 164 | Markeita Jones |
-| 880 | 164 | Yashicha Hertzock |
-| 881 | 164 | Chereese Harris |
-| 882 | 163 | Kathleen Boyles |
-| 883 | 163 | TNT |
-| 884 | 163 | AimlessRain |
+| 876 | 165 | AimlessRain |
+| 877 | 164 | Shauntai Holiday |
+| 878 | 164 | Bouncy Glide |
+| 879 | 164 | Arlea Mann |
+| 880 | 164 | Markeita Jones |
+| 881 | 164 | Yashicha Hertzock |
+| 882 | 164 | Chereese Harris |
+| 883 | 163 | Kathleen Boyles |
+| 884 | 163 | TNT |
 | 885 | 162 | Chill Linkroll |
 | 886 | 162 | Sandra Mims |
 | 887 | 162 | Peppy Wipeblock |
