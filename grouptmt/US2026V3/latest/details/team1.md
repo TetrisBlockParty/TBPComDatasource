@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 22:36:47 UTC
+# Standings for team1 as of 2026-06-10 22:37:26 UTC
 
 **Total Participants:** 2357
 
@@ -73,8 +73,8 @@
 | 65 | 2137 | Shellzb Roberts |
 | 66 | 2106 | Moomoo |
 | 67 | 2103 | April Inboden |
-| 68 | 2064 | Louis Richard Jr |
-| 69 | 2031 | Jacoby E Fleming |
+| 68 | 2101 | Jacoby E Fleming |
+| 69 | 2064 | Louis Richard Jr |
 | 70 | 2026 | Ceilo Marie |
 | 71 | 2022 | Helen Smith |
 | 72 | 1950 | Chris Russell |
@@ -281,9 +281,9 @@
 | 273 | 577 | Zachary Colegrove |
 | 274 | 576 | Cachet A Ward |
 | 275 | 575 | TBABYJ |
-| 276 | 571 | Cheeky Pop |
-| 277 | 571 | Block |
-| 278 | 571 | Lashaunda |
+| 276 | 574 | Lashaunda |
+| 277 | 571 | Cheeky Pop |
+| 278 | 571 | Block |
 | 279 | 570 | Tessa Felice Hill |
 | 280 | 564 | Joey Albright |
 | 281 | 563 | Simmone T. Kadiri |
@@ -390,7 +390,7 @@
 | 382 | 431 | Charlene Baltimore |
 | 383 | 431 | Lauraly |
 | 384 | 428 | Brand Nu |
-| 385 | 427 | wuvbuug |
+| 385 | 428 | wuvbuug |
 | 386 | 425 | Stef Hu |
 | 387 | 423 | Jai |
 | 388 | 423 | Poppy Buildout |
@@ -993,8 +993,8 @@
 | 985 | 161 | Maria Baez Medina |
 | 986 | 160 | Cheeky Twistpiece |
 | 987 | 160 | Charles Johnson |
-| 988 | 160 | Quitito1014 |
-| 989 | 159 | Batty B |
+| 988 | 160 | Batty B |
+| 989 | 160 | Quitito1014 |
 | 990 | 159 | Boymama917 |
 | 991 | 159 | Yvette McGee |
 | 992 | 159 | Rene Hicks |
@@ -1120,17 +1120,17 @@
 | 1112 | 127 | Cheery Climber |
 | 1113 | 127 | tk |
 | 1114 | 126 | GoldStarJo |
-| 1115 | 126 | Jeremy Hendrix |
-| 1116 | 126 | Ounquan Wright |
+| 1115 | 126 | Ounquan Wright |
+| 1116 | 126 | Jeremy Hendrix |
 | 1117 | 125 | Kayd |
 | 1118 | 125 | nay |
 | 1119 | 125 | Meme23 |
-| 1120 | 125 | Rande Smith |
-| 1121 | 125 | Angie Lebron |
+| 1120 | 125 | Angie Lebron |
+| 1121 | 125 | Rande Smith |
 | 1122 | 124 | Flashy Stacker |
 | 1123 | 124 | Andrew Harris |
-| 1124 | 124 | Giggy Brickfit |
-| 1125 | 124 | jasi |
+| 1124 | 124 | jasi |
+| 1125 | 124 | Giggy Brickfit |
 | 1126 | 124 | Grant Wilson |
 | 1127 | 123 | Alice Biggs |
 | 1128 | 123 | Ruth Ann Ruiz-Nakashima |
@@ -1152,29 +1152,29 @@
 | 1144 | 122 | rosieredpanda |
 | 1145 | 121 | 214Petty |
 | 1146 | 121 | Tez Mays |
-| 1147 | 121 | Alize |
-| 1148 | 120 | Tiffany Thompson |
-| 1149 | 120 | Demi Ovalle |
-| 1150 | 120 | Lawreniesha Burkley |
-| 1151 | 120 | Laura Wesley |
-| 1152 | 120 | Spunky Strikerbuilder |
-| 1153 | 120 | Linzi Cole |
-| 1154 | 120 | Lauren Farkas |
-| 1155 | 120 | Yolanda Sadler |
-| 1156 | 120 | Shannon Bradley |
+| 1147 | 121 | Shannon Callarman |
+| 1148 | 121 | Alize |
+| 1149 | 120 | Tiffany Thompson |
+| 1150 | 120 | Demi Ovalle |
+| 1151 | 120 | Lawreniesha Burkley |
+| 1152 | 120 | Laura Wesley |
+| 1153 | 120 | Spunky Strikerbuilder |
+| 1154 | 120 | Linzi Cole |
+| 1155 | 120 | Lauren Farkas |
+| 1156 | 120 | Yolanda Sadler |
 | 1157 | 120 | Fransine Bennett |
-| 1158 | 119 | Solomon Valarie |
-| 1159 | 119 | Octavia Whitmire |
+| 1158 | 120 | Shannon Bradley |
+| 1159 | 119 | Solomon Valarie |
 | 1160 | 119 | Evette Moreno |
-| 1161 | 119 | Ashley Shelton |
-| 1162 | 119 | Sarah Jones |
-| 1163 | 119 | Jordan Deon Elery |
-| 1164 | 119 | Dawn Basemore |
-| 1165 | 118 | Tanisha Robinson |
-| 1166 | 118 | Shanna Green Williams |
-| 1167 | 118 | Shanae Beasley |
-| 1168 | 118 | Felicia Yahuah Johnson |
-| 1169 | 118 | Shannon Callarman |
+| 1161 | 119 | Octavia Whitmire |
+| 1162 | 119 | Ashley Shelton |
+| 1163 | 119 | Sarah Jones |
+| 1164 | 119 | Jordan Deon Elery |
+| 1165 | 119 | Dawn Basemore |
+| 1166 | 118 | Tanisha Robinson |
+| 1167 | 118 | Shanna Green Williams |
+| 1168 | 118 | Shanae Beasley |
+| 1169 | 118 | Felicia Yahuah Johnson |
 | 1170 | 118 | Leslie Ann |
 | 1171 | 118 | Hyper Patternline |
 | 1172 | 117 | Cheery Clusterbuilder |
