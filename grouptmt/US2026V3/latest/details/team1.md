@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:59:22 UTC
+# Standings for team1 as of 2026-06-10 07:00:46 UTC
 
 **Total Participants:** 2237
 
@@ -63,7 +63,7 @@
 | 55 | 2106 | Shellzb Roberts |
 | 56 | 2082 | D'Andra Stewart |
 | 57 | 2076 | April Inboden |
-| 58 | 2059 | Chris Caniglia |
+| 58 | 2065 | Chris Caniglia |
 | 59 | 2049 | Blockhead |
 | 60 | 1972 | Helen Smith |
 | 61 | 1972 | Robyn Caldwell |
@@ -469,18 +469,18 @@
 | 461 | 321 | Montego Allen |
 | 462 | 320 | Malcolm Stanley |
 | 463 | 320 | Shanns |
-| 464 | 319 | Nora Mahmoud |
-| 465 | 319 | MACHETEEDDIE513 |
-| 466 | 318 | Clint Mcdowell |
-| 467 | 318 | Nerdy Snapfall |
+| 464 | 319 | MACHETEEDDIE513 |
+| 465 | 319 | Nora Mahmoud |
+| 466 | 318 | Nerdy Snapfall |
+| 467 | 318 | Clint Mcdowell |
 | 468 | 317 | Sammie Walker |
 | 469 | 315 | Alivia Dove |
-| 470 | 314 | Kristine Marie Palmer |
-| 471 | 314 | Tay |
-| 472 | 314 | The DUBZ |
-| 473 | 313 | Dizzy Dashy |
-| 474 | 313 | Bubbly Slammer |
-| 475 | 312 | Eric Spencer Whitaker |
+| 470 | 314 | Eric Spencer Whitaker |
+| 471 | 314 | The DUBZ |
+| 472 | 314 | Tay |
+| 473 | 314 | Kristine Marie Palmer |
+| 474 | 313 | Dizzy Dashy |
+| 475 | 313 | Bubbly Slammer |
 | 476 | 312 | Sharee Robinson |
 | 477 | 311 | Sarah Steckbauer |
 | 478 | 310 | Christi Walker Patton |
@@ -849,10 +849,10 @@
 | 841 | 173 | Claudia Price |
 | 842 | 173 | Meepycat |
 | 843 | 172 | Li-Li Ratliff |
-| 844 | 171 | Locke Mahal LD |
-| 845 | 171 | Pinky Pink |
-| 846 | 171 | Ta'Kaiyah M. Spann |
-| 847 | 171 | Lawanda Conley |
+| 844 | 172 | Lawanda Conley |
+| 845 | 171 | Locke Mahal LD |
+| 846 | 171 | Pinky Pink |
+| 847 | 171 | Ta'Kaiyah M. Spann |
 | 848 | 170 | Aaron Sohnrey |
 | 849 | 170 | Devron Reedy |
 | 850 | 170 | Mikemike Zonethree |
