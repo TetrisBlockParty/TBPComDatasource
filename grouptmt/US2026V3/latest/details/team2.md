@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 05:20:44 UTC
+# Standings for team2 as of 2026-06-10 05:21:23 UTC
 
 **Total Participants:** 2689
 
@@ -673,8 +673,8 @@
 | 665 | 274 | Angela VanOstrand |
 | 666 | 273 | Laurie |
 | 667 | 273 | Mary Whitaker |
-| 668 | 272 | Muffin Popper |
-| 669 | 272 | Aneokly |
+| 668 | 272 | Aneokly |
+| 669 | 272 | Muffin Popper |
 | 670 | 271 | Chilly Surge |
 | 671 | 271 | Spicy Balanceblock |
 | 672 | 271 | Barb Kiser |
@@ -688,10 +688,10 @@
 | 680 | 266 | Zaniya Brown |
 | 681 | 266 | Stacy Shaunce |
 | 682 | 266 | Darla Nolt |
-| 683 | 265 | K2N |
-| 684 | 265 | Danita Moon |
-| 685 | 265 | s3lc4tr0n |
-| 686 | 264 | Clever Fallmatch |
+| 683 | 265 | Clever Fallmatch |
+| 684 | 265 | K2N |
+| 685 | 265 | Danita Moon |
+| 686 | 265 | s3lc4tr0n |
 | 687 | 264 | Cranky Basepiece |
 | 688 | 264 | Reign Hustler |
 | 689 | 264 | Gabrielle Rivera |
