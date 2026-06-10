@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:23:20 UTC
+# Standings for team1 as of 2026-06-10 10:24:45 UTC
 
 **Total Participants:** 2255
 
@@ -47,7 +47,7 @@
 | 39 | 2809 | Chill Clusterer |
 | 40 | 2800 | Rosey |
 | 41 | 2691 | Hyper Slamdrop |
-| 42 | 2622 | Jennifer To |
+| 42 | 2640 | Jennifer To |
 | 43 | 2619 | Zappy Brickline |
 | 44 | 2615 | JoJo |
 | 45 | 2584 | Tootsie Pop |
@@ -1399,25 +1399,25 @@
 | 1391 | 68 | LOVE |
 | 1392 | 68 | Michelle Dollah |
 | 1393 | 68 | Saucy Crusher |
-| 1394 | 67 | Daring Snaplink |
-| 1395 | 67 | Evelyn Epps |
+| 1394 | 67 | Sunny Riserbuilder |
+| 1395 | 67 | Daring Snaplink |
 | 1396 | 67 | Michele Elizabeth McKay-Johnson |
 | 1397 | 67 | Catrina Zedd |
-| 1398 | 67 | Tani |
-| 1399 | 67 | Ericka C Branch |
-| 1400 | 66 | Regina Hall |
-| 1401 | 66 | Raquele Hines |
-| 1402 | 66 | Iceman |
-| 1403 | 66 | Amanda Bell |
-| 1404 | 66 | Meluhnee |
-| 1405 | 66 | Sunny Cascader |
-| 1406 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1407 | 66 | Tamara Jones |
-| 1408 | 66 | Jroc Tyra Taylor |
-| 1409 | 65 | Panda Vibes |
-| 1410 | 65 | Brandon Knox |
-| 1411 | 65 | Sarah Jones |
-| 1412 | 65 | Sunny Riserbuilder |
+| 1398 | 67 | Evelyn Epps |
+| 1399 | 67 | Tani |
+| 1400 | 67 | Ericka C Branch |
+| 1401 | 66 | Regina Hall |
+| 1402 | 66 | Raquele Hines |
+| 1403 | 66 | Iceman |
+| 1404 | 66 | Amanda Bell |
+| 1405 | 66 | Meluhnee |
+| 1406 | 66 | Sunny Cascader |
+| 1407 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1408 | 66 | Tamara Jones |
+| 1409 | 66 | Jroc Tyra Taylor |
+| 1410 | 65 | Panda Vibes |
+| 1411 | 65 | Brandon Knox |
+| 1412 | 65 | Sarah Jones |
 | 1413 | 65 | Vonda House |
 | 1414 | 65 | Chummy Clearfit |
 | 1415 | 65 | Juanita Quezaire |
@@ -1670,72 +1670,72 @@
 | 1662 | 40 | Dominique Barbie Periandri |
 | 1663 | 40 | Chuck Gee |
 | 1664 | 40 | Katrina Trein Bein Dickerson |
-| 1665 | 40 | D Jay Camberos |
-| 1666 | 40 | Carol Washington |
-| 1667 | 40 | Chummy Blockpiece |
-| 1668 | 40 | Tonya Mills |
-| 1669 | 40 | DimplezAOS |
-| 1670 | 40 | Girly Pop |
-| 1671 | 39 | Deborah |
-| 1672 | 39 | Giggly Cascader |
-| 1673 | 39 | Jenine Wiser |
-| 1674 | 39 | Rekeia Minding Mine |
-| 1675 | 39 | Queen |
-| 1676 | 39 | Jamey |
-| 1677 | 39 | BP Phillips |
-| 1678 | 39 | Nerdy Riser |
-| 1679 | 39 | Katybeth Pauley |
-| 1680 | 39 | Diva shrock |
+| 1665 | 40 | Girly Pop |
+| 1666 | 40 | D Jay Camberos |
+| 1667 | 40 | DimplezAOS |
+| 1668 | 40 | Chummy Blockpiece |
+| 1669 | 40 | Tonya Mills |
+| 1670 | 40 | Carol Washington |
+| 1671 | 39 | Nerdy Riser |
+| 1672 | 39 | Katybeth Pauley |
+| 1673 | 39 | Rekeia Minding Mine |
+| 1674 | 39 | Deborah |
+| 1675 | 39 | Giggly Cascader |
+| 1676 | 39 | Jenine Wiser |
+| 1677 | 39 | Queen |
+| 1678 | 39 | Jamey |
+| 1679 | 39 | BP Phillips |
+| 1680 | 39 | Shemar Singleton |
 | 1681 | 39 | Blaze |
-| 1682 | 38 | Snippy T-spin |
-| 1683 | 38 | Pastors Du Bose |
-| 1684 | 38 | Breezy Bouncer |
-| 1685 | 38 | Clever Twistbuilder |
-| 1686 | 38 | Hasty Slammer |
-| 1687 | 38 | Kiyeri |
-| 1688 | 38 | Nicole Freeman |
-| 1689 | 38 | Krista Shanice |
-| 1690 | 38 | Twisty Tilebuilder |
-| 1691 | 38 | hope |
-| 1692 | 37 | Ryan |
-| 1693 | 37 | kattat |
-| 1694 | 37 | Chris Bell |
-| 1695 | 37 | Tagashel Gotuwe |
-| 1696 | 37 | Cheeky Matchzone |
-| 1697 | 37 | vvvvv |
-| 1698 | 37 | kiki |
-| 1699 | 37 | Laugh N Learn Tutoring |
-| 1700 | 37 | Witty Blockpiece |
-| 1701 | 37 | Jb Mzresilience |
-| 1702 | 37 | Zachary Sinclair |
-| 1703 | 36 | cupcake |
-| 1704 | 36 | Jessica Lee |
-| 1705 | 36 | Sean Walker |
-| 1706 | 36 | Jennifer Nixon |
-| 1707 | 36 | Tionka Green |
-| 1708 | 36 | Shemar Singleton |
-| 1709 | 36 | Geneva Carter |
-| 1710 | 36 | Dana |
+| 1682 | 39 | Diva shrock |
+| 1683 | 38 | Breezy Bouncer |
+| 1684 | 38 | Clever Twistbuilder |
+| 1685 | 38 | Hasty Slammer |
+| 1686 | 38 | Kiyeri |
+| 1687 | 38 | Snippy T-spin |
+| 1688 | 38 | Twisty Tilebuilder |
+| 1689 | 38 | Nicole Freeman |
+| 1690 | 38 | Krista Shanice |
+| 1691 | 38 | Pastors Du Bose |
+| 1692 | 38 | hope |
+| 1693 | 37 | vvvvv |
+| 1694 | 37 | kattat |
+| 1695 | 37 | Cheeky Matchzone |
+| 1696 | 37 | kiki |
+| 1697 | 37 | Jb Mzresilience |
+| 1698 | 37 | Zachary Sinclair |
+| 1699 | 37 | Tagashel Gotuwe |
+| 1700 | 37 | Ryan |
+| 1701 | 37 | Chris Bell |
+| 1702 | 37 | Laugh N Learn Tutoring |
+| 1703 | 37 | Witty Blockpiece |
+| 1704 | 36 | Abdul Saleem |
+| 1705 | 36 | Jessica Lee |
+| 1706 | 36 | Tionka Green |
+| 1707 | 36 | Sean Walker |
+| 1708 | 36 | LS Jamison |
+| 1709 | 36 | cupcake |
+| 1710 | 36 | Geneva Carter |
 | 1711 | 36 | Mighty Curver |
-| 1712 | 36 | Brownie |
+| 1712 | 36 | Dana |
 | 1713 | 36 | luc |
-| 1714 | 36 | Tee4 |
-| 1715 | 36 | Abdul Saleem |
-| 1716 | 36 | Papi |
-| 1717 | 36 | LS Jamison |
-| 1718 | 35 | Christian Whittaker |
+| 1714 | 36 | Brownie |
+| 1715 | 36 | Tee4 |
+| 1716 | 36 | Jennifer Nixon |
+| 1717 | 36 | Papi |
+| 1718 | 35 | Hyper Patternline |
 | 1719 | 35 | Evee |
-| 1720 | 35 | X6TRAUMA9X |
-| 1721 | 35 | np63 |
-| 1722 | 35 | Kate Moses |
-| 1723 | 35 | Charise McGee |
-| 1724 | 35 | Brandy Jaszewski |
-| 1725 | 35 | Margie Toni Corley |
-| 1726 | 35 | Hyper Patternline |
-| 1727 | 35 | Ruth Ann SotoRogers |
-| 1728 | 35 | Nerdy Twistline |
-| 1729 | 35 | Sassy Stack |
-| 1730 | 35 | Frilly Glidepiece |
+| 1720 | 35 | Frilly Glidepiece |
+| 1721 | 35 | Sassy Stack |
+| 1722 | 35 | Nerdy Twistline |
+| 1723 | 35 | Christian Whittaker |
+| 1724 | 35 | Ruth Ann SotoRogers |
+| 1725 | 35 | np63 |
+| 1726 | 35 | X6TRAUMA9X |
+| 1727 | 35 | Kate Moses |
+| 1728 | 35 | Charise McGee |
+| 1729 | 35 | Brandy Jaszewski |
+| 1730 | 35 | Margie Toni Corley |
 | 1731 | 34 | Bouncy Brickroll |
 | 1732 | 34 | Dazee Rogers |
 | 1733 | 34 | Deidre Anderson |
