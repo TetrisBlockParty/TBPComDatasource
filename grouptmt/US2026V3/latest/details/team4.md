@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:56:41 UTC
+# Standings for team4 as of 2026-06-10 10:57:24 UTC
 
 **Total Participants:** 2310
 
@@ -220,16 +220,16 @@
 | 212 | 662 | Danielle Mitchell |
 | 213 | 660 | Wanda Simmons |
 | 214 | 657 | Jenn Norcross |
-| 215 | 654 | Gerald Lew |
-| 216 | 653 | Alex Armour |
-| 217 | 651 | Jewelz |
-| 218 | 651 | Dayna Arthurs |
-| 219 | 650 | Beth Belanger |
-| 220 | 647 | Laguya |
-| 221 | 644 | Krysten Danielle Richard |
-| 222 | 641 | Waxboss |
-| 223 | 637 | QueenLi86 |
-| 224 | 636 | Samantha Worley |
+| 215 | 656 | Samantha Worley |
+| 216 | 654 | Gerald Lew |
+| 217 | 653 | Alex Armour |
+| 218 | 651 | Jewelz |
+| 219 | 651 | Dayna Arthurs |
+| 220 | 650 | Beth Belanger |
+| 221 | 647 | Laguya |
+| 222 | 644 | Krysten Danielle Richard |
+| 223 | 641 | Waxboss |
+| 224 | 637 | QueenLi86 |
 | 225 | 634 | Tyson Stroppel |
 | 226 | 633 | Kelly Howland |
 | 227 | 627 | Brick House |
@@ -563,12 +563,12 @@
 | 555 | 273 | Kierra Evans |
 | 556 | 273 | Rita Ann |
 | 557 | 273 | Anthony Edwards |
-| 558 | 272 | Sharon Tyler |
-| 559 | 271 | Deborah Ayliffe |
-| 560 | 271 | EpicWizard |
-| 561 | 271 | crobb77 |
-| 562 | 271 | Leasa Marie |
-| 563 | 270 | Sally Hiraldo |
+| 558 | 273 | Sally Hiraldo |
+| 559 | 272 | Sharon Tyler |
+| 560 | 271 | Deborah Ayliffe |
+| 561 | 271 | EpicWizard |
+| 562 | 271 | crobb77 |
+| 563 | 271 | Leasa Marie |
 | 564 | 270 | Joshua Garner |
 | 565 | 270 | Lisa Pie |
 | 566 | 270 | Alexia Boston |
@@ -695,21 +695,21 @@
 | 687 | 224 | Jordan Tamayia Williams |
 | 688 | 224 | Tamara Gay |
 | 689 | 224 | Japexican Strong |
-| 690 | 223 | Sarah Leake |
-| 691 | 223 | Chass Hudson |
-| 692 | 222 | Maria Munoz |
-| 693 | 221 | Spicy Peach |
-| 694 | 221 | Lorrie Ann Burchett |
-| 695 | 221 | Butterpat |
-| 696 | 221 | Tana-Marie Lynn McCarty-Rolf |
-| 697 | 221 | bribop |
-| 698 | 220 | Zappy Tilemaker |
-| 699 | 220 | Ada Rodriguez Spradley |
-| 700 | 220 | Funky Rollzone |
-| 701 | 220 | Marie Adkins |
-| 702 | 220 | Jay Keating |
-| 703 | 219 | Rae Saunders |
-| 704 | 219 | Chelsea Guajardo |
+| 690 | 224 | Chelsea Guajardo |
+| 691 | 223 | Sarah Leake |
+| 692 | 223 | Chass Hudson |
+| 693 | 222 | Maria Munoz |
+| 694 | 221 | Spicy Peach |
+| 695 | 221 | Lorrie Ann Burchett |
+| 696 | 221 | Butterpat |
+| 697 | 221 | Tana-Marie Lynn McCarty-Rolf |
+| 698 | 221 | bribop |
+| 699 | 220 | Zappy Tilemaker |
+| 700 | 220 | Ada Rodriguez Spradley |
+| 701 | 220 | Funky Rollzone |
+| 702 | 220 | Marie Adkins |
+| 703 | 220 | Jay Keating |
+| 704 | 219 | Rae Saunders |
 | 705 | 218 | PsyDMom |
 | 706 | 218 | Breezy Wife |
 | 707 | 218 | Ayobribri |
