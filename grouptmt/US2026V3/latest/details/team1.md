@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 16:46:44 UTC
+# Standings for team1 as of 2026-06-10 16:47:24 UTC
 
 **Total Participants:** 2301
 
@@ -12,7 +12,7 @@
 | 4 | 12803 | Charlie Roehm |
 | 5 | 12404 | Carrie English |
 | 6 | 11746 | Tyeina Johnson |
-| 7 | 11199 | Erika Windom |
+| 7 | 11289 | Erika Windom |
 | 8 | 10390 | Timothy Robert |
 | 9 | 9972 | Charnay Peacock |
 | 10 | 9765 | Songne Arif |
@@ -55,9 +55,9 @@
 | 47 | 2619 | Zappy Brickline |
 | 48 | 2584 | Tootsie Pop |
 | 49 | 2511 | Epic Snapfall |
-| 50 | 2456 | Mimi 1.0 |
-| 51 | 2412 | D'Andra Stewart |
-| 52 | 2379 | Cee Emm |
+| 50 | 2469 | Cee Emm |
+| 51 | 2456 | Mimi 1.0 |
+| 52 | 2412 | D'Andra Stewart |
 | 53 | 2372 | Chris Caniglia |
 | 54 | 2359 | Corey Cawthon |
 | 55 | 2305 | Markeeta Lipscomb |
@@ -149,9 +149,9 @@
 | 141 | 1045 | Joy Citizen Pickney |
 | 142 | 1043 | Quirky Fallgrid |
 | 143 | 1035 | Lesley Brunkus Cianfaglione |
-| 144 | 1021 | Jeffrey Barrows |
-| 145 | 1014 | Cece Fowler |
-| 146 | 1013 | Carolynne Walker-Bell |
+| 144 | 1028 | Carolynne Walker-Bell |
+| 145 | 1021 | Jeffrey Barrows |
+| 146 | 1014 | Cece Fowler |
 | 147 | 992 | Danielle Barthelme |
 | 148 | 987 | Kaleisha Smith |
 | 149 | 977 | Jaida De'Anne Cox |
@@ -384,28 +384,28 @@
 | 376 | 416 | NastyFriend |
 | 377 | 414 | Smiley Clearpiece |
 | 378 | 413 | NewEve |
-| 379 | 411 | MamushiOh |
-| 380 | 410 | Salim Thugger |
-| 381 | 409 | KeeKee Williams |
-| 382 | 404 | Michele Simpson |
-| 383 | 404 | Bold Clusterer |
-| 384 | 402 | Rayya Kiser |
-| 385 | 401 | Kelli Couture |
-| 386 | 400 | Jae Thompson-Tyus |
-| 387 | 400 | Denell Sims |
-| 388 | 400 | Sara Meri |
-| 389 | 399 | BabyCakes |
-| 390 | 398 | Jana Cheek |
-| 391 | 397 | Shameka Thrasher |
-| 392 | 396 | Nikki Hogan |
-| 393 | 396 | Amber Wilson |
-| 394 | 396 | Bbyunicorn |
-| 395 | 395 | Shea Ladynick Henderson |
-| 396 | 395 | Maribel Vasquez |
-| 397 | 394 | Ashley MyBeauty Daniels |
-| 398 | 394 | Wayne Savannah |
-| 399 | 393 | Bubbly Piececlear |
-| 400 | 391 | HarleyJane |
+| 379 | 412 | HarleyJane |
+| 380 | 411 | MamushiOh |
+| 381 | 410 | Salim Thugger |
+| 382 | 409 | KeeKee Williams |
+| 383 | 404 | Michele Simpson |
+| 384 | 404 | Bold Clusterer |
+| 385 | 402 | Rayya Kiser |
+| 386 | 401 | Kelli Couture |
+| 387 | 400 | Jae Thompson-Tyus |
+| 388 | 400 | Denell Sims |
+| 389 | 400 | Sara Meri |
+| 390 | 399 | BabyCakes |
+| 391 | 398 | Jana Cheek |
+| 392 | 397 | Shameka Thrasher |
+| 393 | 396 | Nikki Hogan |
+| 394 | 396 | Amber Wilson |
+| 395 | 396 | Bbyunicorn |
+| 396 | 395 | Shea Ladynick Henderson |
+| 397 | 395 | Maribel Vasquez |
+| 398 | 394 | Ashley MyBeauty Daniels |
+| 399 | 394 | Wayne Savannah |
+| 400 | 393 | Bubbly Piececlear |
 | 401 | 390 | Jean Regis |
 | 402 | 389 | Charlene Baltimore |
 | 403 | 387 | Ladybug |
