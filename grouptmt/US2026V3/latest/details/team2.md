@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 16:04:45 UTC
+# Standings for team2 as of 2026-06-10 16:05:21 UTC
 
 **Total Participants:** 2771
 
@@ -959,64 +959,64 @@
 | 951 | 203 | Crystal Robinson |
 | 952 | 203 | Evelyn Olive Kalmbach |
 | 953 | 203 | Michelle |
-| 954 | 202 | Jessica Rose Engebretson |
-| 955 | 201 | Jolly Twisterfit |
-| 956 | 200 | Kay |
-| 957 | 200 | Cheryl Schmid |
-| 958 | 200 | Audrey Morris |
-| 959 | 200 | Tammy Botkin |
-| 960 | 199 | Heather Nicole |
-| 961 | 199 | Nichole |
-| 962 | 199 | Pat Smits |
-| 963 | 199 | KCBlocker |
-| 964 | 198 | candi |
-| 965 | 198 | Rocroc mo |
-| 966 | 198 | Smiley Cornerfall |
-| 967 | 198 | Terie Safrit |
-| 968 | 198 | Diamond Balotje |
-| 969 | 198 | Jenna Thorn |
+| 954 | 202 | Terie Safrit |
+| 955 | 202 | Jessica Rose Engebretson |
+| 956 | 201 | Jolly Twisterfit |
+| 957 | 200 | Kay |
+| 958 | 200 | Cheryl Schmid |
+| 959 | 200 | Audrey Morris |
+| 960 | 200 | Tammy Botkin |
+| 961 | 199 | Heather Nicole |
+| 962 | 199 | Nichole |
+| 963 | 199 | Pat Smits |
+| 964 | 199 | KCBlocker |
+| 965 | 198 | candi |
+| 966 | 198 | Rocroc mo |
+| 967 | 198 | Smiley Cornerfall |
+| 968 | 198 | Frothy Roll |
+| 969 | 198 | Diamond Balotje |
 | 970 | 198 | Shiny Matchpiece |
-| 971 | 198 | Frothy Roll |
+| 971 | 198 | Jenna Thorn |
 | 972 | 197 | Jessica Perkins |
-| 973 | 197 | Michelle Anne |
-| 974 | 197 | Amanda |
-| 975 | 197 | Aaron Jones |
-| 976 | 197 | Sadie-Damion Smith |
-| 977 | 196 | Frothy Faller |
-| 978 | 196 | Tiffany Powell |
-| 979 | 195 | Kelly Hall Whitt |
-| 980 | 195 | Frisky Clicker |
-| 981 | 195 | Edward Conyers |
-| 982 | 195 | C.L. Deslongchamp |
-| 983 | 195 | Gage Tucker |
-| 984 | 195 | ASL |
-| 985 | 195 | jme |
-| 986 | 194 | Destiny Turner |
-| 987 | 194 | JDub |
-| 988 | 194 | Audrey 'Spence' Hallmark |
-| 989 | 194 | sampson |
-| 990 | 193 | Hansent3 |
-| 991 | 193 | Jaimie Walters |
-| 992 | 193 | Hoppy Linkblock |
-| 993 | 193 | JrsWife |
-| 994 | 193 | Toni Washington |
-| 995 | 193 | Jeannine Murphy |
-| 996 | 193 | Brenda Zona |
+| 973 | 197 | Natalie M. Arredondo |
+| 974 | 197 | Michelle Anne |
+| 975 | 197 | Amanda |
+| 976 | 197 | Aaron Jones |
+| 977 | 197 | Sadie-Damion Smith |
+| 978 | 196 | Frothy Faller |
+| 979 | 196 | Tiffany Powell |
+| 980 | 195 | Kelly Hall Whitt |
+| 981 | 195 | Frisky Clicker |
+| 982 | 195 | Edward Conyers |
+| 983 | 195 | C.L. Deslongchamp |
+| 984 | 195 | Gage Tucker |
+| 985 | 195 | ASL |
+| 986 | 195 | jme |
+| 987 | 194 | Destiny Turner |
+| 988 | 194 | JDub |
+| 989 | 194 | Audrey 'Spence' Hallmark |
+| 990 | 194 | sampson |
+| 991 | 193 | Hansent3 |
+| 992 | 193 | Jaimie Walters |
+| 993 | 193 | Hoppy Linkblock |
+| 994 | 193 | JrsWife |
+| 995 | 193 | Toni Washington |
+| 996 | 193 | Jeannine Murphy |
 | 997 | 193 | Jackie Moran Tiller |
-| 998 | 192 | Natalie M. Arredondo |
+| 998 | 193 | Brenda Zona |
 | 999 | 192 | Stephen Gillam |
 | 1000 | 192 | Jolly Builderpiece |
 | 1001 | 192 | Wendy Durrence Jones |
 | 1002 | 192 | Alicia Parrish |
 | 1003 | 191 | Distro |
 | 1004 | 191 | Tamtam |
-| 1005 | 191 | Bouncy Cluster |
-| 1006 | 191 | Witty Riser |
+| 1005 | 191 | Witty Riser |
+| 1006 | 191 | Bouncy Cluster |
 | 1007 | 191 | AshleyM |
-| 1008 | 190 | Silly square |
-| 1009 | 190 | Patti Ward |
-| 1010 | 190 | Amanda Mason Scott |
-| 1011 | 190 | Amy Lea Hamilton |
+| 1008 | 190 | Amanda Mason Scott |
+| 1009 | 190 | Amy Lea Hamilton |
+| 1010 | 190 | Patti Ward |
+| 1011 | 190 | Silly square |
 | 1012 | 190 | Kayley |
 | 1013 | 190 | gene15 |
 | 1014 | 190 | Brittany Paul |
@@ -1026,8 +1026,8 @@
 | 1018 | 190 | Shakey Bakey |
 | 1019 | 189 | Marla Paden |
 | 1020 | 189 | Poppy Strikerbuilder |
-| 1021 | 189 | Kristi K Milner |
-| 1022 | 189 | Audrey Bickford |
+| 1021 | 189 | Audrey Bickford |
+| 1022 | 189 | Kristi K Milner |
 | 1023 | 189 | Goofy Patternfit |
 | 1024 | 188 | Nikki Layman |
 | 1025 | 188 | Derrick |
@@ -1185,7 +1185,7 @@
 | 1177 | 157 | Britnee M Karg |
 | 1178 | 157 | Twisty Blockpiece |
 | 1179 | 157 | Robert W Schwartz |
-| 1180 | 156 | Chirpy Clearpiece |
+| 1180 | 157 | Chirpy Clearpiece |
 | 1181 | 156 | Randy Taylor |
 | 1182 | 155 | Frisky Balancefit |
 | 1183 | 155 | Samantha Lewis |

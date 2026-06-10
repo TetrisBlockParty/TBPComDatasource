@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 16:04:45 UTC
+# Standings for team4 as of 2026-06-10 16:05:21 UTC
 
 **Total Participants:** 2341
 
@@ -14,7 +14,7 @@
 | 6 | 11639 | BertaF1irta |
 | 7 | 11514 | Hasty Builder |
 | 8 | 11215 | Cinny |
-| 9 | 9859 | Kait Confetti |
+| 9 | 10053 | Kait Confetti |
 | 10 | 9164 | t |
 | 11 | 8993 | ktothet |
 | 12 | 8978 | Candice Driver |
@@ -370,20 +370,20 @@
 | 362 | 424 | June Hoffman |
 | 363 | 424 | Stephanie Gauna |
 | 364 | 422 | Clever Brickzone |
-| 365 | 421 | Ashley Jenkins |
-| 366 | 421 | Karen Rodriguez |
-| 367 | 421 | Shiny Brick |
-| 368 | 421 | Jay Dee |
+| 365 | 421 | Shiny Brick |
+| 366 | 421 | Ashley Jenkins |
+| 367 | 421 | Jay Dee |
+| 368 | 421 | Karen Rodriguez |
 | 369 | 420 | Dolores Falco |
 | 370 | 419 | Anthony McAlister |
 | 371 | 418 | Dawn Marie Trujillo |
 | 372 | 418 | Juvon SupaShawdii Brooks |
 | 373 | 415 | Kea Sushi |
 | 374 | 413 | Flashy Shatterer |
-| 375 | 412 | Dan Butcher |
-| 376 | 412 | Clashy |
-| 377 | 411 | Tricia Motika Cowan |
-| 378 | 411 | EvoKitty |
+| 375 | 412 | Clashy |
+| 376 | 412 | Dan Butcher |
+| 377 | 411 | EvoKitty |
+| 378 | 411 | Tricia Motika Cowan |
 | 379 | 410 | Justin Michael |
 | 380 | 409 | beTrue76 |
 | 381 | 409 | Cheeky Fallzone |
@@ -393,10 +393,10 @@
 | 385 | 406 | Ash Gribble |
 | 386 | 402 | Shawna Downey |
 | 387 | 401 | MomyLiz |
-| 388 | 400 | Queen B |
-| 389 | 400 | jojo |
-| 390 | 399 | Zesty Twistpiece |
-| 391 | 399 | No Time |
+| 388 | 400 | jojo |
+| 389 | 400 | Queen B |
+| 390 | 399 | No Time |
+| 391 | 399 | Zesty Twistpiece |
 | 392 | 397 | kellie |
 | 393 | 396 | Cool Risepiece |
 | 394 | 395 | PerfectPieces |
@@ -419,8 +419,8 @@
 | 411 | 376 | Funky Riserpiece |
 | 412 | 374 | Dominique Melendez |
 | 413 | 374 | bofe |
-| 414 | 373 | Groovy Towerbuilder |
-| 415 | 373 | Chass Hudson |
+| 414 | 373 | Chass Hudson |
+| 415 | 373 | Groovy Towerbuilder |
 | 416 | 371 | TJ |
 | 417 | 370 | Dizzy Slammer |
 | 418 | 370 | Queen B |
@@ -428,42 +428,42 @@
 | 420 | 368 | Brittany Lentz |
 | 421 | 367 | Giggly Column |
 | 422 | 367 | Lisa Jones |
-| 423 | 366 | Alexis Cor |
-| 424 | 366 | Jennifer Garcia |
-| 425 | 366 | KrisTina2007 |
-| 426 | 366 | Laurie Patrick |
-| 427 | 366 | Steven Patshy |
+| 423 | 366 | Jennifer Garcia |
+| 424 | 366 | Alexis Cor |
+| 425 | 366 | Laurie Patrick |
+| 426 | 366 | Steven Patshy |
+| 427 | 366 | KrisTina2007 |
 | 428 | 365 | Quiomarie Cotto |
-| 429 | 365 | Chilly Pivot |
-| 430 | 365 | Matthew Wilcox |
-| 431 | 363 | Mark Norton |
-| 432 | 361 | Jeff Margolis |
-| 433 | 361 | Breezy Blockzone |
-| 434 | 361 | Kellz M Bee |
-| 435 | 360 | Mann Manson |
+| 429 | 365 | Matthew Wilcox |
+| 430 | 365 | Chilly Pivot |
+| 431 | 365 | Josh Keith Travierso |
+| 432 | 363 | Mark Norton |
+| 433 | 361 | Kellz M Bee |
+| 434 | 361 | Jeff Margolis |
+| 435 | 361 | Breezy Blockzone |
 | 436 | 360 | Lady Dolphin |
-| 437 | 360 | Groovy Cluster |
-| 438 | 359 | Ashley Robbins |
-| 439 | 359 | BCO22 |
+| 437 | 360 | Mann Manson |
+| 438 | 360 | Groovy Cluster |
+| 439 | 359 | Ashley Robbins |
 | 440 | 359 | Kaps |
-| 441 | 358 | Arvin Ortega |
+| 441 | 359 | BCO22 |
 | 442 | 358 | Bre Dee |
-| 443 | 356 | Candiecane324 |
-| 444 | 353 | Holly Bramel |
-| 445 | 353 | Loopy Hitter |
-| 446 | 353 | Crystal Hammonds |
-| 447 | 353 | Heidi Hala |
-| 448 | 353 | FitMeDiva |
-| 449 | 352 | Martha Fisher |
-| 450 | 351 | Tiffany Morris Garner |
+| 443 | 358 | Arvin Ortega |
+| 444 | 356 | Candiecane324 |
+| 445 | 353 | Holly Bramel |
+| 446 | 353 | Loopy Hitter |
+| 447 | 353 | Crystal Hammonds |
+| 448 | 353 | Heidi Hala |
+| 449 | 353 | FitMeDiva |
+| 450 | 352 | Martha Fisher |
 | 451 | 351 | Cecilia Hicks |
-| 452 | 350 | Karen Davis |
-| 453 | 348 | TRUCHILD777$$$ |
-| 454 | 346 | Candice Sellers Worley |
-| 455 | 345 | Stasia |
-| 456 | 345 | yodaa |
-| 457 | 344 | bollo |
-| 458 | 344 | Josh Keith Travierso |
+| 452 | 351 | Tiffany Morris Garner |
+| 453 | 350 | Karen Davis |
+| 454 | 348 | TRUCHILD777$$$ |
+| 455 | 346 | Candice Sellers Worley |
+| 456 | 345 | Stasia |
+| 457 | 345 | yodaa |
+| 458 | 344 | bollo |
 | 459 | 343 | BookwormCate |
 | 460 | 343 | maria |
 | 461 | 342 | Lively Blockpiece |
@@ -486,13 +486,13 @@
 | 478 | 324 | Jen Smith |
 | 479 | 323 | Dubiousdust |
 | 480 | 323 | Lupe Chapa |
-| 481 | 322 | Winter Moon |
-| 482 | 322 | Missionary Meda |
+| 481 | 322 | Missionary Meda |
+| 482 | 322 | Winter Moon |
 | 483 | 321 | Ashley Eskridge |
 | 484 | 321 | Nutty Rollfit |
-| 485 | 320 | Dandy Cascade |
-| 486 | 320 | Nerdy Faller |
-| 487 | 320 | Goofy Linkmatch |
+| 485 | 320 | Nerdy Faller |
+| 486 | 320 | Goofy Linkmatch |
+| 487 | 320 | Dandy Cascade |
 | 488 | 319 | Azahares Alonso |
 | 489 | 319 | JoAnn Summerlot Ratliff |
 | 490 | 318 | REPENT |
