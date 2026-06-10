@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 19:18:47 UTC
+# Standings for team2 as of 2026-06-10 19:19:22 UTC
 
 **Total Participants:** 2800
 
@@ -307,11 +307,11 @@
 | 299 | 648 | Kathleen Dumbazz |
 | 300 | 648 | Kaycie Shaffer |
 | 301 | 643 | Jodi Johnson |
-| 302 | 642 | Bri St Peter |
-| 303 | 642 | Julibeth Wells |
-| 304 | 640 | Nancy Schwartz Gusman-Oliver |
-| 305 | 639 | Stephany Green |
-| 306 | 637 | Donna Esbensen-Alpini |
+| 302 | 643 | Donna Esbensen-Alpini |
+| 303 | 642 | Bri St Peter |
+| 304 | 642 | Julibeth Wells |
+| 305 | 640 | Nancy Schwartz Gusman-Oliver |
+| 306 | 639 | Stephany Green |
 | 307 | 633 | Chirpy Grid |
 | 308 | 632 | Gabrielle Wilson |
 | 309 | 632 | Swanky Fitline |
@@ -616,16 +616,16 @@
 | 608 | 335 | Teddy Williams |
 | 609 | 334 | Frisky Linkbuilder |
 | 610 | 334 | Mikaela Byrd |
-| 611 | 333 | Lisa Allen Frisk |
-| 612 | 332 | Wayne Johnson |
-| 613 | 331 | Francesca Wagenhoffer |
-| 614 | 331 | Clever Fallmatch |
-| 615 | 330 | Bouncy Snapmatch |
-| 616 | 330 | Mala Phonchanthasone |
-| 617 | 330 | Anthony Chavez |
-| 618 | 329 | Nutty Dash |
-| 619 | 328 | Ever Chase |
-| 620 | 327 | Cranky Patternblock |
+| 611 | 333 | Cranky Patternblock |
+| 612 | 333 | Lisa Allen Frisk |
+| 613 | 332 | Wayne Johnson |
+| 614 | 331 | Francesca Wagenhoffer |
+| 615 | 331 | Clever Fallmatch |
+| 616 | 330 | Bouncy Snapmatch |
+| 617 | 330 | Mala Phonchanthasone |
+| 618 | 330 | Anthony Chavez |
+| 619 | 329 | Nutty Dash |
+| 620 | 328 | Ever Chase |
 | 621 | 325 | Ozge Akgun Tokat |
 | 622 | 325 | Diamond Mitchell |
 | 623 | 325 | Kenzie |
@@ -894,7 +894,7 @@
 | 886 | 231 | Flashy Wipegrid |
 | 887 | 230 | Thtbrwnsknflla |
 | 888 | 230 | Nanny t |
-| 889 | 229 | YAKO |
+| 889 | 230 | YAKO |
 | 890 | 229 | Chirpy Combofall |
 | 891 | 228 | Funky Blockmatch |
 | 892 | 228 | sugabritches |
