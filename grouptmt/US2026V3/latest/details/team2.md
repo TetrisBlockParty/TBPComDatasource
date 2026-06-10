@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 17:18:46 UTC
+# Standings for team2 as of 2026-06-10 17:19:22 UTC
 
 **Total Participants:** 2786
 
@@ -2066,18 +2066,18 @@
 | 2058 | 45 | Nikki |
 | 2059 | 45 | Spunky Buildout |
 | 2060 | 45 | Holly |
-| 2061 | 45 | Gail Flory |
-| 2062 | 45 | Nerdy Base |
-| 2063 | 45 | Phyllis DiCristo |
-| 2064 | 45 | Frothy Cascader |
-| 2065 | 45 | Nora Buchan |
-| 2066 | 44 | Christopher Pulley |
-| 2067 | 44 | Deion Marshall |
-| 2068 | 44 | Nerdy Stagger |
-| 2069 | 44 | Patricia Ramsey Osborne |
-| 2070 | 44 | Tee Have |
-| 2071 | 44 | Crafty Shatterer |
-| 2072 | 44 | Patty White |
+| 2061 | 45 | Patty White |
+| 2062 | 45 | Gail Flory |
+| 2063 | 45 | Nerdy Base |
+| 2064 | 45 | Phyllis DiCristo |
+| 2065 | 45 | Frothy Cascader |
+| 2066 | 45 | Nora Buchan |
+| 2067 | 44 | Christopher Pulley |
+| 2068 | 44 | Deion Marshall |
+| 2069 | 44 | Nerdy Stagger |
+| 2070 | 44 | Patricia Ramsey Osborne |
+| 2071 | 44 | Tee Have |
+| 2072 | 44 | Crafty Shatterer |
 | 2073 | 44 | Bold Patternfall |
 | 2074 | 44 | Jane Shevlin |
 | 2075 | 44 | Ferrt |
