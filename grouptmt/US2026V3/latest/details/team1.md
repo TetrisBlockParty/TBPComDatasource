@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:11:23 UTC
+# Standings for team1 as of 2026-06-10 09:12:44 UTC
 
 **Total Participants:** 2249
 
@@ -243,8 +243,8 @@
 | 235 | 596 | Mic Balew |
 | 236 | 595 | Tishauna Virgo |
 | 237 | 593 | Tessa Gaskin |
-| 238 | 589 | Tamara N Lee |
-| 239 | 587 | Wild Out Nai |
+| 238 | 590 | Wild Out Nai |
+| 239 | 589 | Tamara N Lee |
 | 240 | 584 | Loopy Block |
 | 241 | 582 | Deveda Williams |
 | 242 | 580 | Tobey Marberry |
@@ -292,8 +292,8 @@
 | 284 | 517 | Tamara Johnson-Carter |
 | 285 | 514 | Chasem45 |
 | 286 | 512 | Anthony |
-| 287 | 511 | Tessa Felice Hill |
-| 288 | 511 | Dizzy Dropper |
+| 287 | 511 | Dizzy Dropper |
+| 288 | 511 | Tessa Felice Hill |
 | 289 | 509 | JaClanDiah |
 | 290 | 503 | Bre Poston |
 | 291 | 502 | Jessica Russell |
@@ -303,11 +303,11 @@
 | 295 | 498 | Julian Dickens Jr. |
 | 296 | 498 | Michael Bethezar |
 | 297 | 496 | Slinky Brickmatch |
-| 298 | 495 | Queenie Perry |
-| 299 | 493 | Tamika Fisher |
-| 300 | 492 | Heather Aurelia |
-| 301 | 492 | SANA |
-| 302 | 491 | Lashaunda |
+| 298 | 495 | Lashaunda |
+| 299 | 495 | Queenie Perry |
+| 300 | 493 | Tamika Fisher |
+| 301 | 492 | Heather Aurelia |
+| 302 | 492 | SANA |
 | 303 | 490 | Kate Hancock Malicek |
 | 304 | 488 | Snippy Breaker |
 | 305 | 485 | Natasha Rucker |
@@ -321,8 +321,8 @@
 | 313 | 471 | Chummy Frame |
 | 314 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 315 | 469 | Victor |
-| 316 | 468 | Sheila Burnham |
-| 317 | 468 | Jayjay Rich |
+| 316 | 468 | Jayjay Rich |
+| 317 | 468 | Sheila Burnham |
 | 318 | 467 | e |
 | 319 | 465 | Shanaa Germany Crittenden |
 | 320 | 464 | Devin West |
@@ -850,13 +850,13 @@
 | 842 | 175 | Angie Smith |
 | 843 | 175 | Dizzy Gridmatch |
 | 844 | 174 | Nerdy Wipefit |
-| 845 | 174 | Kizzy Clark |
-| 846 | 174 | Jason Saputo |
-| 847 | 173 | Meepycat |
-| 848 | 173 | DirtiestofMikes |
-| 849 | 173 | Claudia Price |
-| 850 | 172 | Li-Li Ratliff |
-| 851 | 171 | Barbramerri Tarboro |
+| 845 | 174 | Barbramerri Tarboro |
+| 846 | 174 | Kizzy Clark |
+| 847 | 174 | Jason Saputo |
+| 848 | 173 | Meepycat |
+| 849 | 173 | DirtiestofMikes |
+| 850 | 173 | Claudia Price |
+| 851 | 172 | Li-Li Ratliff |
 | 852 | 171 | Pinky Pink |
 | 853 | 171 | Ta'Kaiyah M. Spann |
 | 854 | 171 | Locke Mahal LD |
@@ -966,14 +966,14 @@
 | 958 | 144 | Happy Blocky |
 | 959 | 144 | Batty B |
 | 960 | 144 | Tammy Collins |
-| 961 | 143 | Kàrma Lee |
+| 961 | 143 | AimlessRain |
 | 962 | 143 | Tray Tolliver |
-| 963 | 142 | Ace Hardware |
-| 964 | 142 | E Dubb$ |
-| 965 | 142 | Sharon Lynn |
-| 966 | 141 | Shalena Marie Humphrey |
-| 967 | 141 | Deihja Weaver |
-| 968 | 141 | AimlessRain |
+| 963 | 143 | Kàrma Lee |
+| 964 | 142 | Ace Hardware |
+| 965 | 142 | E Dubb$ |
+| 966 | 142 | Sharon Lynn |
+| 967 | 141 | Shalena Marie Humphrey |
+| 968 | 141 | Deihja Weaver |
 | 969 | 141 | Hasty Brickzone |
 | 970 | 141 | Tiana Monique |
 | 971 | 141 | Mike Hromowyk |
@@ -1960,26 +1960,26 @@
 | 1952 | 18 | Aliceia Gee |
 | 1953 | 18 | DaRealist1 |
 | 1954 | 18 | Naudia Hampton |
-| 1955 | 18 | Andrea Jones |
-| 1956 | 18 | Betty Joe Lemberg |
-| 1957 | 18 | Marie SheReady Harris |
-| 1958 | 18 | Saucy Linkgrid |
-| 1959 | 18 | MURLWORLD |
-| 1960 | 18 | Keke |
-| 1961 | 18 | Anissa Williams |
+| 1955 | 18 | Anissa Williams |
+| 1956 | 18 | Poppy Pivot |
+| 1957 | 18 | Raynell Mcfrazier |
+| 1958 | 18 | Cory Richboy BoutthemRackz |
+| 1959 | 18 | Valerie Kendrick |
+| 1960 | 18 | Dominick Towns |
+| 1961 | 18 | Daring Twistfit |
 | 1962 | 18 | Yeshanna Nicholson |
-| 1963 | 18 | Valerie Kendrick |
-| 1964 | 18 | Daring Twistfit |
-| 1965 | 18 | Dominick Towns |
-| 1966 | 18 | Poppy Pivot |
-| 1967 | 18 | Cory Richboy BoutthemRackz |
-| 1968 | 18 | Raynell Mcfrazier |
-| 1969 | 17 | Bouncy Base |
-| 1970 | 17 | Wacky Riserpiece |
-| 1971 | 17 | Coy Williams |
-| 1972 | 17 | Sue Boyce |
-| 1973 | 17 | Andre Rivera |
-| 1974 | 17 | Janie Helton |
+| 1963 | 18 | Janie Helton |
+| 1964 | 18 | Keke |
+| 1965 | 18 | MURLWORLD |
+| 1966 | 18 | Saucy Linkgrid |
+| 1967 | 18 | Marie SheReady Harris |
+| 1968 | 18 | Betty Joe Lemberg |
+| 1969 | 18 | Andrea Jones |
+| 1970 | 17 | Bouncy Base |
+| 1971 | 17 | Wacky Riserpiece |
+| 1972 | 17 | Coy Williams |
+| 1973 | 17 | Sue Boyce |
+| 1974 | 17 | Andre Rivera |
 | 1975 | 17 | Tara Hall |
 | 1976 | 17 | Christina |
 | 1977 | 17 | law |
