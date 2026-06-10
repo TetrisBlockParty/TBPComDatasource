@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:30:45 UTC
+# Standings for team1 as of 2026-06-10 13:31:22 UTC
 
 **Total Participants:** 2269
 
@@ -94,9 +94,9 @@
 | 86 | 1581 | Holly Jolly |
 | 87 | 1580 | MamaBear |
 | 88 | 1538 | Uneekly Mayde |
-| 89 | 1524 | La'Chae Nickole |
-| 90 | 1519 | Murg4dr01d |
-| 91 | 1513 | Snappy Link |
+| 89 | 1529 | Snappy Link |
+| 90 | 1524 | La'Chae Nickole |
+| 91 | 1519 | Murg4dr01d |
 | 92 | 1501 | LeeLee08 |
 | 93 | 1468 | Voice |
 | 94 | 1441 | Rolanda Williams |
@@ -233,9 +233,9 @@
 | 225 | 658 | TT |
 | 226 | 657 | Crystal Anderson |
 | 227 | 653 | LaToya Chambers |
-| 228 | 646 | TeeMaster Barber IsLyfe |
-| 229 | 643 | Sarah Barnum |
-| 230 | 637 | Slinky Party |
+| 228 | 647 | Slinky Party |
+| 229 | 646 | TeeMaster Barber IsLyfe |
+| 230 | 643 | Sarah Barnum |
 | 231 | 631 | Wild Out Nai |
 | 232 | 630 | SyTheEvilGenius1 |
 | 233 | 627 | Erin Sabol |
@@ -466,16 +466,16 @@
 | 458 | 344 | DaGuy |
 | 459 | 343 | Tesiree Cray |
 | 460 | 343 | Heather Wilson |
-| 461 | 342 | Ashley Monet Terrell |
-| 462 | 342 | Marsha Earl |
+| 461 | 342 | Marsha Earl |
+| 462 | 342 | Ashley Monet Terrell |
 | 463 | 341 | The DUBZ |
 | 464 | 340 | Peppy Towerbuilder |
-| 465 | 338 | Daniel Santana |
-| 466 | 338 | Twisty Brickfit |
-| 467 | 337 | Donnie Withthebody |
-| 468 | 337 | Tonia Ramos |
-| 469 | 337 | Gbnola |
-| 470 | 336 | De'Nell Edwards |
+| 465 | 340 | De'Nell Edwards |
+| 466 | 338 | Daniel Santana |
+| 467 | 338 | Twisty Brickfit |
+| 468 | 337 | Donnie Withthebody |
+| 469 | 337 | Tonia Ramos |
+| 470 | 337 | Gbnola |
 | 471 | 334 | Emily Wright |
 | 472 | 334 | TBABYJ |
 | 473 | 331 | Holly Baker |
@@ -1891,49 +1891,49 @@
 | 1883 | 24 | H Hr De Gfe |
 | 1884 | 24 | Null Kim |
 | 1885 | 24 | Snazzy Shatterbuilder |
-| 1886 | 23 | Jamie Lea Popp |
-| 1887 | 23 | Flashy Buildgrid |
-| 1888 | 23 | Valerina Robinson |
-| 1889 | 23 | Genevieve Nieves |
-| 1890 | 23 | Shiny Zonebuilder |
-| 1891 | 23 | Cherika Wright |
-| 1892 | 23 | Dani Marie |
-| 1893 | 23 | Tabitha Dupre-Allen |
-| 1894 | 23 | Nika TaurustotheBone Turner |
-| 1895 | 23 | Brave Combofall |
-| 1896 | 23 | Milfchaser530 |
-| 1897 | 23 | Nicolej |
-| 1898 | 23 | Saundy |
-| 1899 | 23 | Epic Glide |
-| 1900 | 22 | Zippy Framezone |
-| 1901 | 22 | Stylezncutzby Dee |
-| 1902 | 22 | Shakonya Baynes |
-| 1903 | 22 | Chantelle Sweet |
-| 1904 | 22 | Vantione Lindsey |
+| 1886 | 24 | Cheeky Wipegrid |
+| 1887 | 23 | Epic Glide |
+| 1888 | 23 | Saundy |
+| 1889 | 23 | Valerina Robinson |
+| 1890 | 23 | Flashy Buildgrid |
+| 1891 | 23 | Dani Marie |
+| 1892 | 23 | Nika TaurustotheBone Turner |
+| 1893 | 23 | Genevieve Nieves |
+| 1894 | 23 | Shiny Zonebuilder |
+| 1895 | 23 | Cherika Wright |
+| 1896 | 23 | Tabitha Dupre-Allen |
+| 1897 | 23 | Brave Combofall |
+| 1898 | 23 | Nicolej |
+| 1899 | 23 | Milfchaser530 |
+| 1900 | 23 | Jamie Lea Popp |
+| 1901 | 22 | ShayePooh |
+| 1902 | 22 | Patioskie |
+| 1903 | 22 | Vantione Lindsey |
+| 1904 | 22 | Zippy Framezone |
 | 1905 | 22 | Mary M Craven |
-| 1906 | 22 | ShayePooh |
-| 1907 | 22 | Chipper Smasher |
-| 1908 | 22 | Jhinarra Walker |
+| 1906 | 22 | Chantelle Sweet |
+| 1907 | 22 | Shakonya Baynes |
+| 1908 | 22 | Stylezncutzby Dee |
 | 1909 | 22 | Queen Baby 5 |
-| 1910 | 22 | Patioskie |
-| 1911 | 22 | Jazzy Drop |
-| 1912 | 21 | Michelle Harrison-Woodall |
+| 1910 | 22 | Jazzy Drop |
+| 1911 | 22 | Chipper Smasher |
+| 1912 | 22 | Jhinarra Walker |
 | 1913 | 21 | Christy |
-| 1914 | 21 | Cheeky Wipegrid |
-| 1915 | 21 | Sanna Rose |
-| 1916 | 21 | Lisamarie Fabre Cardona |
-| 1917 | 21 | Nikki Cornelious Valentine |
-| 1918 | 21 | Michelle Villasenor |
-| 1919 | 21 | lp |
-| 1920 | 21 | Zesty Matchzone |
-| 1921 | 21 | Ray Day |
-| 1922 | 21 | Truthful |
-| 1923 | 21 | Frisky Linkblock |
-| 1924 | 21 | Sanchez Jackson |
+| 1914 | 21 | Ray Day |
+| 1915 | 21 | Sanchez Jackson |
+| 1916 | 21 | Frisky Linkblock |
+| 1917 | 21 | Michelle Harrison-Woodall |
+| 1918 | 21 | Sanna Rose |
+| 1919 | 21 | Lisamarie Fabre Cardona |
+| 1920 | 21 | Nikki Cornelious Valentine |
+| 1921 | 21 | Michelle Villasenor |
+| 1922 | 21 | lp |
+| 1923 | 21 | Truthful |
+| 1924 | 21 | Zesty Matchzone |
 | 1925 | 20 | Terry Golatte |
-| 1926 | 20 | Melody Means |
+| 1926 | 20 | Cool Rumbler |
 | 1927 | 20 | Angie Hall |
-| 1928 | 20 | Cool Rumbler |
+| 1928 | 20 | Melody Means |
 | 1929 | 20 | Kenneth Hefney |
 | 1930 | 20 | Shannon |
 | 1931 | 20 | Tiffany Sherman |

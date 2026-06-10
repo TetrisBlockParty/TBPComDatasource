@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:30:45 UTC
+# Standings for team4 as of 2026-06-10 13:31:22 UTC
 
 **Total Participants:** 2324
 
@@ -530,12 +530,12 @@
 | 522 | 294 | Dawn Phelps |
 | 523 | 294 | Mrs |
 | 524 | 292 | Jennifer Fisher Franklin |
-| 525 | 292 | Rachel Lemos |
-| 526 | 292 | Brendan Craven |
-| 527 | 292 | Karen Small |
-| 528 | 291 | Valerie Silva |
-| 529 | 290 | Daniel Lossman |
-| 530 | 290 | REPENT |
+| 525 | 292 | REPENT |
+| 526 | 292 | Rachel Lemos |
+| 527 | 292 | Brendan Craven |
+| 528 | 292 | Karen Small |
+| 529 | 291 | Valerie Silva |
+| 530 | 290 | Daniel Lossman |
 | 531 | 290 | LaTanya GeminiondaRise Johnson |
 | 532 | 289 | Sandra Stark |
 | 533 | 288 | Butterfly |
@@ -1163,8 +1163,8 @@
 | 1155 | 118 | Jennifer Naughton |
 | 1156 | 118 | Darren Miguel |
 | 1157 | 118 | Alaina Rousseau |
-| 1158 | 118 | EmBem |
-| 1159 | 118 | Nancy McCalla Abercrombie |
+| 1158 | 118 | Nancy McCalla Abercrombie |
+| 1159 | 118 | EmBem |
 | 1160 | 118 | Badmofo |
 | 1161 | 118 | Jumpy Clearbuilder |
 | 1162 | 117 | CharmingS |
@@ -1173,36 +1173,36 @@
 | 1165 | 117 | Melinda Roman |
 | 1166 | 117 | Mrs Peabod |
 | 1167 | 117 | Kay |
-| 1168 | 117 | Catherine Garza |
-| 1169 | 117 | Oc Tive |
-| 1170 | 116 | Purple Queen |
+| 1168 | 117 | Oc Tive |
+| 1169 | 117 | Catherine Garza |
+| 1170 | 116 | Pamela Kaye |
 | 1171 | 116 | JP Chua |
-| 1172 | 116 | Pamela Kaye |
-| 1173 | 115 | ManOfSteel |
-| 1174 | 115 | Dinah Mccall |
+| 1172 | 116 | Purple Queen |
+| 1173 | 115 | Dinah Mccall |
+| 1174 | 115 | ManOfSteel |
 | 1175 | 115 | Shiny Strikerbuilder |
 | 1176 | 115 | Alexis Siefker |
 | 1177 | 114 | Natalia Stone |
 | 1178 | 114 | Giggly Stackbuilder |
-| 1179 | 114 | Lionel Hampton |
-| 1180 | 114 | Donna Winget |
-| 1181 | 114 | Dapper Tiltpiece |
-| 1182 | 114 | Joe Joe |
-| 1183 | 114 | Chabetta |
-| 1184 | 114 | Tommy Thomas |
+| 1179 | 114 | Chabetta |
+| 1180 | 114 | Lionel Hampton |
+| 1181 | 114 | Joe Joe |
+| 1182 | 114 | Tommy Thomas |
+| 1183 | 114 | Donna Winget |
+| 1184 | 114 | Dapper Tiltpiece |
 | 1185 | 114 | Elizabeth Nicole Zahm |
-| 1186 | 113 | Joshua Franklin |
-| 1187 | 113 | Theo Stamps |
-| 1188 | 113 | Dsay Yates |
+| 1186 | 113 | Marion Wade |
+| 1187 | 113 | Joshua Franklin |
+| 1188 | 113 | Theo Stamps |
 | 1189 | 113 | Cflixer |
-| 1190 | 113 | Marion Wade |
+| 1190 | 113 | Dsay Yates |
 | 1191 | 112 | Frisky Blocker |
-| 1192 | 112 | Chris Norman |
-| 1193 | 112 | taya |
-| 1194 | 111 | Jacquelyn L Whitsitt |
+| 1192 | 112 | taya |
+| 1193 | 112 | Chris Norman |
+| 1194 | 111 | Anthony Kollar |
 | 1195 | 111 | Buggy Julks |
 | 1196 | 111 | Candace Dean |
-| 1197 | 111 | Anthony Kollar |
+| 1197 | 111 | Jacquelyn L Whitsitt |
 | 1198 | 111 | Snazzy Shatterfit |
 | 1199 | 110 | Clever Clearzone |
 | 1200 | 110 | Lauren Zubia Sanchez |
@@ -1216,22 +1216,22 @@
 | 1208 | 108 | Katrina S. West |
 | 1209 | 108 | Nata Lia |
 | 1210 | 107 | Dominique Miesha Smith |
-| 1211 | 107 | Kaela Ferguson |
-| 1212 | 107 | JP |
+| 1211 | 107 | JP |
+| 1212 | 107 | Kaela Ferguson |
 | 1213 | 107 | Eric Quan |
 | 1214 | 107 | Clever Linkfall |
-| 1215 | 106 | Lina Samra |
-| 1216 | 106 | Ciara Brown |
-| 1217 | 106 | CRsLady |
-| 1218 | 106 | Danielle Sulano |
-| 1219 | 106 | MamaBear3 |
-| 1220 | 106 | Donna Howard |
+| 1215 | 106 | MamaBear3 |
+| 1216 | 106 | Donna Howard |
+| 1217 | 106 | Ciara Brown |
+| 1218 | 106 | CRsLady |
+| 1219 | 106 | Lina Samra |
+| 1220 | 106 | Danielle Sulano |
 | 1221 | 106 | JJADHD |
 | 1222 | 106 | Pink Tetramino |
 | 1223 | 106 | LynDee Danielle Hankins |
-| 1224 | 105 | Kriss Owens Uptegrove |
+| 1224 | 105 | ImagineKaijus |
 | 1225 | 105 | Jailen Harper |
-| 1226 | 105 | ImagineKaijus |
+| 1226 | 105 | Kriss Owens Uptegrove |
 | 1227 | 105 | Kelly |
 | 1228 | 104 | Melissa Elizabeth |
 | 1229 | 104 | Ashie |
@@ -1239,28 +1239,28 @@
 | 1231 | 104 | Alicia |
 | 1232 | 104 | Mandy Grant |
 | 1233 | 103 | ShortStackz Jones |
-| 1234 | 103 | Lizette Chaires |
-| 1235 | 103 | Archer Family Mayhem |
-| 1236 | 102 | Swanky Matchfit |
-| 1237 | 102 | Hasty Slamdrop |
-| 1238 | 102 | Kristen Hall |
+| 1234 | 103 | Archer Family Mayhem |
+| 1235 | 103 | Lizette Chaires |
+| 1236 | 102 | Hasty Slamdrop |
+| 1237 | 102 | Kristen Hall |
+| 1238 | 102 | Swanky Matchfit |
 | 1239 | 102 | Hethyheth |
 | 1240 | 101 | Fancy Riserfit |
 | 1241 | 101 | Boldy Basegrid |
 | 1242 | 101 | Glitzy Rotate |
-| 1243 | 101 | Misty Harland |
-| 1244 | 101 | FUNBAT |
-| 1245 | 101 | Peterson Cottontail |
-| 1246 | 100 | Crafty Linkfall |
-| 1247 | 100 | Katherine Stec |
-| 1248 | 100 | Lemus |
-| 1249 | 100 | Bouncy Fitblock |
-| 1250 | 100 | Lovely |
-| 1251 | 100 | Pauline Cortez |
-| 1252 | 100 | Tiffy |
-| 1253 | 100 | Nova Kain |
-| 1254 | 100 | Jumpy Lifter |
-| 1255 | 100 | Alicia LaFaye |
+| 1243 | 101 | Jumpy Lifter |
+| 1244 | 101 | Misty Harland |
+| 1245 | 101 | FUNBAT |
+| 1246 | 101 | Peterson Cottontail |
+| 1247 | 100 | Crafty Linkfall |
+| 1248 | 100 | Katherine Stec |
+| 1249 | 100 | Alicia LaFaye |
+| 1250 | 100 | Lemus |
+| 1251 | 100 | Bouncy Fitblock |
+| 1252 | 100 | Lovely |
+| 1253 | 100 | Pauline Cortez |
+| 1254 | 100 | Nova Kain |
+| 1255 | 100 | Tiffy |
 | 1256 | 100 | Nykell Sturdivant |
 | 1257 | 100 | Georgiana Meegan |
 | 1258 | 100 | Lawanda Mayze |
@@ -1268,10 +1268,10 @@
 | 1260 | 100 | Amanda Lynn Robinson |
 | 1261 | 99 | Stevonne Roberts |
 | 1262 | 99 | Cheeky Dashy |
-| 1263 | 99 | Alicia |
-| 1264 | 99 | Tamika Ashli Bonner |
-| 1265 | 99 | Lateasha Wildman |
-| 1266 | 99 | Ricardo Arias |
+| 1263 | 99 | Tamika Ashli Bonner |
+| 1264 | 99 | Lateasha Wildman |
+| 1265 | 99 | Ricardo Arias |
+| 1266 | 99 | Alicia |
 | 1267 | 99 | Jane M Tiller |
 | 1268 | 99 | Amori85 |
 | 1269 | 99 | Courtney Miller |
@@ -2228,57 +2228,57 @@
 | 2220 | 10 | Mary Miller |
 | 2221 | 10 | AceBoogie |
 | 2222 | 10 | Zesty Snapmatch |
-| 2223 | 10 | Leah Keesling |
-| 2224 | 10 | Lea Hartley |
-| 2225 | 10 | Coolgirl |
-| 2226 | 10 | Jumpy Patternfall |
-| 2227 | 9 | Shara Oliver |
-| 2228 | 9 | Frilly Shuffler |
-| 2229 | 9 | Giggy Clicky |
-| 2230 | 9 | Trippy Mels |
-| 2231 | 9 | Micole Norris |
-| 2232 | 9 | fmp |
-| 2233 | 9 | Todd Hamilton |
-| 2234 | 9 | apryliss Star |
-| 2235 | 9 | Kristen Templeman |
-| 2236 | 9 | Frothy Riseclear |
-| 2237 | 9 | Marty Carver |
-| 2238 | 9 | Diane Arreola |
-| 2239 | 9 | MissGranity |
-| 2240 | 9 | Julie Smith |
-| 2241 | 9 | K Courtney Camp |
-| 2242 | 9 | estefi |
-| 2243 | 9 | Monica Bell |
-| 2244 | 9 | Terry Peach |
-| 2245 | 8 | Tony Tenas |
-| 2246 | 8 | Lewis Potts |
-| 2247 | 8 | Ivory Glenn |
-| 2248 | 8 | Virgo27 |
-| 2249 | 8 | LaTesha D Williams |
-| 2250 | 8 | Jen Molepske |
-| 2251 | 8 | Gerald Marx |
-| 2252 | 8 | Shania Richmond |
-| 2253 | 8 | Phoebe Tracy |
-| 2254 | 8 | Nums |
-| 2255 | 8 | Glitzy Shuffler |
-| 2256 | 8 | Hasty Glidezone |
-| 2257 | 8 | John Leslie |
-| 2258 | 8 | Lisa Alley |
-| 2259 | 8 | Loopy Fall |
-| 2260 | 8 | Zo |
-| 2261 | 8 | Floyda Lynch |
-| 2262 | 8 | Evie |
-| 2263 | 8 | Anaya |
-| 2264 | 8 | hotrod |
-| 2265 | 8 | corrupt corpse |
-| 2266 | 8 | MissMess |
-| 2267 | 8 | Box smash’em |
-| 2268 | 7 | Ragingmel27 |
-| 2269 | 7 | Michelle Copas |
-| 2270 | 7 | Jennifer Flores |
-| 2271 | 7 | Charlesa Callis |
-| 2272 | 7 | Lisa Morea |
-| 2273 | 7 | B |
+| 2223 | 10 | Ragingmel27 |
+| 2224 | 10 | Leah Keesling |
+| 2225 | 10 | Lea Hartley |
+| 2226 | 10 | Coolgirl |
+| 2227 | 10 | Jumpy Patternfall |
+| 2228 | 9 | Shara Oliver |
+| 2229 | 9 | Frilly Shuffler |
+| 2230 | 9 | Giggy Clicky |
+| 2231 | 9 | Trippy Mels |
+| 2232 | 9 | Micole Norris |
+| 2233 | 9 | fmp |
+| 2234 | 9 | Todd Hamilton |
+| 2235 | 9 | apryliss Star |
+| 2236 | 9 | Kristen Templeman |
+| 2237 | 9 | Frothy Riseclear |
+| 2238 | 9 | Marty Carver |
+| 2239 | 9 | Diane Arreola |
+| 2240 | 9 | MissGranity |
+| 2241 | 9 | Julie Smith |
+| 2242 | 9 | K Courtney Camp |
+| 2243 | 9 | estefi |
+| 2244 | 9 | Monica Bell |
+| 2245 | 9 | Terry Peach |
+| 2246 | 8 | Tony Tenas |
+| 2247 | 8 | Lewis Potts |
+| 2248 | 8 | Ivory Glenn |
+| 2249 | 8 | Virgo27 |
+| 2250 | 8 | LaTesha D Williams |
+| 2251 | 8 | Jen Molepske |
+| 2252 | 8 | Gerald Marx |
+| 2253 | 8 | Shania Richmond |
+| 2254 | 8 | Phoebe Tracy |
+| 2255 | 8 | Nums |
+| 2256 | 8 | Glitzy Shuffler |
+| 2257 | 8 | Lisa Alley |
+| 2258 | 8 | hotrod |
+| 2259 | 8 | Box smash’em |
+| 2260 | 8 | MissMess |
+| 2261 | 8 | corrupt corpse |
+| 2262 | 8 | Anaya |
+| 2263 | 8 | Floyda Lynch |
+| 2264 | 8 | Zo |
+| 2265 | 8 | Loopy Fall |
+| 2266 | 8 | Hasty Glidezone |
+| 2267 | 8 | John Leslie |
+| 2268 | 8 | Evie |
+| 2269 | 7 | Lisa Morea |
+| 2270 | 7 | Charlesa Callis |
+| 2271 | 7 | Jennifer Flores |
+| 2272 | 7 | B |
+| 2273 | 7 | Michelle Copas |
 | 2274 | 7 | Crafty Riser |
 | 2275 | 7 | Lacy Legrant |
 | 2276 | 7 | Spiked |
