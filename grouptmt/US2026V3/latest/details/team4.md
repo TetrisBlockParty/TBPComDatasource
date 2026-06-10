@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 19:02:47 UTC
+# Standings for team4 as of 2026-06-10 19:03:23 UTC
 
 **Total Participants:** 2363
 
@@ -510,32 +510,32 @@
 | 502 | 319 | Azahares Alonso |
 | 503 | 319 | JoAnn Summerlot Ratliff |
 | 504 | 318 | REPENT |
-| 505 | 317 | crobb77 |
+| 505 | 317 | Garden Girlie |
 | 506 | 317 | Elli Wright |
-| 507 | 316 | Dawn Phelps |
-| 508 | 315 | Perry Ransom |
-| 509 | 315 | Daniel Lossman |
-| 510 | 315 | tj |
-| 511 | 315 | Travis McKinnon |
-| 512 | 315 | Littlebrat |
-| 513 | 315 | Jrr |
-| 514 | 315 | gabs |
-| 515 | 315 | Thermeka Lindsey |
-| 516 | 314 | Ginny |
-| 517 | 313 | Jessica Jones Bolton |
-| 518 | 313 | Casey Thomas |
-| 519 | 313 | Frothy Pattern |
-| 520 | 312 | Carla Woodard |
+| 507 | 317 | crobb77 |
+| 508 | 316 | Dawn Phelps |
+| 509 | 315 | Perry Ransom |
+| 510 | 315 | Daniel Lossman |
+| 511 | 315 | tj |
+| 512 | 315 | Travis McKinnon |
+| 513 | 315 | Littlebrat |
+| 514 | 315 | Jrr |
+| 515 | 315 | gabs |
+| 516 | 315 | Thermeka Lindsey |
+| 517 | 314 | Ginny |
+| 518 | 313 | Frothy Pattern |
+| 519 | 313 | Casey Thomas |
+| 520 | 313 | Jessica Jones Bolton |
 | 521 | 312 | Jj Johnson |
-| 522 | 312 | Shaneé Staunton |
-| 523 | 311 | LeRoy jenkins |
-| 524 | 311 | Marina |
-| 525 | 310 | Janna Thompson |
+| 522 | 312 | Carla Woodard |
+| 523 | 312 | Shaneé Staunton |
+| 524 | 311 | LeRoy jenkins |
+| 525 | 311 | Marina |
 | 526 | 310 | Britney Kitora |
-| 527 | 310 | J.Wo |
-| 528 | 310 | Cindy |
-| 529 | 310 | Cozy Patternbuilder |
-| 530 | 309 | Garden Girlie |
+| 527 | 310 | Janna Thompson |
+| 528 | 310 | J.Wo |
+| 529 | 310 | Cindy |
+| 530 | 310 | Cozy Patternbuilder |
 | 531 | 308 | Haylee Talkington |
 | 532 | 307 | Deva Marie Barber |
 | 533 | 307 | Miss Beast |
@@ -1387,30 +1387,30 @@
 | 1379 | 87 | Leslee Bentley DeLong |
 | 1380 | 87 | Alexis William |
 | 1381 | 87 | Johnny Jeppesen |
-| 1382 | 86 | Luunii |
-| 1383 | 86 | Meela Abdurrab |
-| 1384 | 85 | Diane Obungu |
-| 1385 | 85 | LuLazer27 |
-| 1386 | 85 | Sherri Lorent |
-| 1387 | 85 | Dee Modest |
-| 1388 | 85 | Melly |
-| 1389 | 85 | Jason Shertzer |
-| 1390 | 85 | ZaysWife89 |
-| 1391 | 85 | Charles Chauffe |
-| 1392 | 84 | Ginnie Strate |
-| 1393 | 84 | Cassie N Danica Flaherty |
-| 1394 | 84 | Tay |
-| 1395 | 84 | Red |
-| 1396 | 84 | Amber Arnold |
-| 1397 | 84 | Brittany |
-| 1398 | 83 | Terry Jo Myers |
-| 1399 | 83 | Monte Smith |
-| 1400 | 83 | Peter Babineaux Jr |
-| 1401 | 83 | Steph |
-| 1402 | 83 | Bubbly Shatter |
-| 1403 | 83 | EpicBarista |
-| 1404 | 82 | Frank Loher III |
-| 1405 | 82 | Angela Ward |
+| 1382 | 86 | Angela Ward |
+| 1383 | 86 | Luunii |
+| 1384 | 86 | Meela Abdurrab |
+| 1385 | 85 | Diane Obungu |
+| 1386 | 85 | LuLazer27 |
+| 1387 | 85 | Sherri Lorent |
+| 1388 | 85 | Dee Modest |
+| 1389 | 85 | Melly |
+| 1390 | 85 | Jason Shertzer |
+| 1391 | 85 | ZaysWife89 |
+| 1392 | 85 | Charles Chauffe |
+| 1393 | 84 | Ginnie Strate |
+| 1394 | 84 | Cassie N Danica Flaherty |
+| 1395 | 84 | Tay |
+| 1396 | 84 | Red |
+| 1397 | 84 | Amber Arnold |
+| 1398 | 84 | Brittany |
+| 1399 | 83 | Terry Jo Myers |
+| 1400 | 83 | Monte Smith |
+| 1401 | 83 | Peter Babineaux Jr |
+| 1402 | 83 | Steph |
+| 1403 | 83 | Bubbly Shatter |
+| 1404 | 83 | EpicBarista |
+| 1405 | 82 | Frank Loher III |
 | 1406 | 82 | crazy lazy |
 | 1407 | 82 | JuicyJay |
 | 1408 | 82 | Brenda Mueller |
