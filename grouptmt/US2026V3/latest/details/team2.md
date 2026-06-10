@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 06:08:44 UTC
+# Standings for team2 as of 2026-06-10 06:09:21 UTC
 
 **Total Participants:** 2698
 
@@ -14,7 +14,7 @@
 | 6 | 12443 | Ashlea McBlaine |
 | 7 | 12304 | boblawboblaw |
 | 8 | 11897 | Cori Keberlein |
-| 9 | 11021 | Jason Wood |
+| 9 | 11052 | Jason Wood |
 | 10 | 10100 | Crafty Ziggy |
 | 11 | 9808 | Mocha |
 | 12 | 9622 | Lola C Davis |
