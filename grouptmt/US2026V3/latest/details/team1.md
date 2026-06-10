@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:50:23 UTC
+# Standings for team1 as of 2026-06-10 08:50:47 UTC
 
 **Total Participants:** 2249
 
@@ -129,11 +129,11 @@
 | 121 | 1152 | Spunky Edgefit |
 | 122 | 1149 | Jazzy Dashpiece |
 | 123 | 1145 | sha |
-| 124 | 1128 | Nutty Spinblock |
-| 125 | 1124 | Jaida King |
-| 126 | 1121 | Lisa Müller |
-| 127 | 1120 | IamJust Neyamijah Washington Sr. |
-| 128 | 1110 | Cj Gorman |
+| 124 | 1130 | Cj Gorman |
+| 125 | 1128 | Nutty Spinblock |
+| 126 | 1124 | Jaida King |
+| 127 | 1121 | Lisa Müller |
+| 128 | 1120 | IamJust Neyamijah Washington Sr. |
 | 129 | 1084 | Jimmie Makia |
 | 130 | 1081 | Slim Shedidthat |
 | 131 | 1053 | Yolanda E Fergerson |
@@ -1383,60 +1383,60 @@
 | 1375 | 70 | Quirky Gridpiece |
 | 1376 | 69 | BrettanMary Adkins |
 | 1377 | 69 | Charlie Brown |
-| 1378 | 68 | Mississippigirl Countrygirl |
+| 1378 | 68 | Butta |
 | 1379 | 68 | Michelle Dollah |
-| 1380 | 68 | Butta |
-| 1381 | 68 | Lillie Blossom Dixon |
-| 1382 | 68 | LOVE |
-| 1383 | 68 | Michelle Fowler |
+| 1380 | 68 | Lillie Blossom Dixon |
+| 1381 | 68 | LOVE |
+| 1382 | 68 | Michelle Fowler |
+| 1383 | 68 | Saucy Crusher |
 | 1384 | 68 | Daring Linkfall |
-| 1385 | 68 | Saucy Crusher |
+| 1385 | 68 | Mississippigirl Countrygirl |
 | 1386 | 67 | Tani |
-| 1387 | 67 | Daring Snaplink |
-| 1388 | 67 | Michele Elizabeth McKay-Johnson |
+| 1387 | 67 | Michele Elizabeth McKay-Johnson |
+| 1388 | 67 | Daring Snaplink |
 | 1389 | 67 | Evelyn Epps |
-| 1390 | 67 | Catrina Zedd |
-| 1391 | 67 | Ericka C Branch |
-| 1392 | 66 | Meluhnee |
+| 1390 | 67 | Ericka C Branch |
+| 1391 | 67 | Catrina Zedd |
+| 1392 | 66 | Jroc Tyra Taylor |
 | 1393 | 66 | J Dot Flo |
 | 1394 | 66 | Tamara Jones |
 | 1395 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1396 | 66 | Iceman |
-| 1397 | 66 | Raquele Hines |
-| 1398 | 66 | Amanda Bell |
-| 1399 | 66 | Jroc Tyra Taylor |
+| 1396 | 66 | Sunny Cascader |
+| 1397 | 66 | Iceman |
+| 1398 | 66 | Raquele Hines |
+| 1399 | 66 | Meluhnee |
 | 1400 | 66 | Regina Hall |
-| 1401 | 65 | Juanita Quezaire |
-| 1402 | 65 | Sarah Jones |
+| 1401 | 66 | Amanda Bell |
+| 1402 | 65 | Juanita Quezaire |
 | 1403 | 65 | Goofy T-spin |
-| 1404 | 65 | Brandon Knox |
-| 1405 | 65 | April Ezell |
-| 1406 | 65 | Vonda House |
-| 1407 | 65 | Nockallday |
-| 1408 | 65 | Furlough Leslie |
-| 1409 | 65 | Panda Vibes |
-| 1410 | 64 | Twisty Linkgrid |
-| 1411 | 64 | Giggly Dasher |
-| 1412 | 64 | Capt Kev |
-| 1413 | 64 | BlessedBeauty |
-| 1414 | 63 | Arnold Hamilton |
-| 1415 | 63 | LoveLee |
-| 1416 | 63 | Danielle Mariyh Toomer |
-| 1417 | 63 | Natasha Harris |
-| 1418 | 63 | Crafty Pivoty |
-| 1419 | 63 | Gary Kyle |
-| 1420 | 63 | Damien Mathews |
-| 1421 | 63 | Tonny Williams |
-| 1422 | 62 | Crystal Winters Mckay |
-| 1423 | 62 | Chipper Clicker |
-| 1424 | 62 | Sunny Cascader |
+| 1404 | 65 | Sarah Jones |
+| 1405 | 65 | Brandon Knox |
+| 1406 | 65 | April Ezell |
+| 1407 | 65 | Vonda House |
+| 1408 | 65 | Nockallday |
+| 1409 | 65 | Furlough Leslie |
+| 1410 | 65 | Panda Vibes |
+| 1411 | 64 | Twisty Linkgrid |
+| 1412 | 64 | Giggly Dasher |
+| 1413 | 64 | Capt Kev |
+| 1414 | 64 | BlessedBeauty |
+| 1415 | 63 | Arnold Hamilton |
+| 1416 | 63 | LoveLee |
+| 1417 | 63 | Danielle Mariyh Toomer |
+| 1418 | 63 | Natasha Harris |
+| 1419 | 63 | Crafty Pivoty |
+| 1420 | 63 | Gary Kyle |
+| 1421 | 63 | Damien Mathews |
+| 1422 | 63 | Tonny Williams |
+| 1423 | 62 | Crystal Winters Mckay |
+| 1424 | 62 | Chipper Clicker |
 | 1425 | 61 | That1Girl |
-| 1426 | 61 | Sunny Riserbuilder |
+| 1426 | 61 | Giggleme |
 | 1427 | 61 | Krose Byers |
 | 1428 | 61 | Arturo Hernandez II |
 | 1429 | 61 | Michelle Stanford-Page |
 | 1430 | 61 | Swanky Riserfit |
-| 1431 | 61 | Giggleme |
+| 1431 | 61 | Sunny Riserbuilder |
 | 1432 | 61 | Cee Jones |
 | 1433 | 61 | Nissa |
 | 1434 | 60 | Amy Thomas |
