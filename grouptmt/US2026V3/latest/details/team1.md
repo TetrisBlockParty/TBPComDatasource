@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:40:46 UTC
+# Standings for team1 as of 2026-06-10 07:41:22 UTC
 
 **Total Participants:** 2240
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 34000 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 17130 | Death by SnuSnu |
+| 3 | 17231 | Death by SnuSnu |
 | 4 | 12803 | Charlie Roehm |
 | 5 | 11754 | Carrie English |
 | 6 | 11746 | Tyeina Johnson |
@@ -85,7 +85,7 @@
 | 77 | 1688 | Frisky Fallmatch |
 | 78 | 1676 | Jessica Roberts |
 | 79 | 1654 | Chenell Gillard |
-| 80 | 1630 | PandaPrincess |
+| 80 | 1650 | PandaPrincess |
 | 81 | 1606 | BYM4L |
 | 82 | 1597 | Janet Cooke |
 | 83 | 1581 | Holly Jolly |
