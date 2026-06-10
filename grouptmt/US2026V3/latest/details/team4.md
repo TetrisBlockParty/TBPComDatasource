@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:40:44 UTC
+# Standings for team4 as of 2026-06-10 10:41:23 UTC
 
 **Total Participants:** 2308
 
@@ -58,7 +58,7 @@
 | 50 | 3323 | Carly Stempien |
 | 51 | 3150 | Destiny Dyer |
 | 52 | 3100 | Posey Smith |
-| 53 | 3012 | Dana Abegil Lawas |
+| 53 | 3048 | Dana Abegil Lawas |
 | 54 | 2960 | Alicia Cook |
 | 55 | 2839 | 626 |
 | 56 | 2800 | Caitlin Johnson |
@@ -608,47 +608,47 @@
 | 600 | 257 | Happy Puzzle |
 | 601 | 256 | Honey Honey |
 | 602 | 255 | Littlebrat |
-| 603 | 254 | Mimi Dominguez |
-| 604 | 254 | Snippy Racker |
+| 603 | 254 | Snippy Racker |
+| 604 | 254 | Mimi Dominguez |
 | 605 | 254 | Saucy Brickmatch |
 | 606 | 253 | Vonni McLean |
 | 607 | 252 | Ryan Paul Clark-Ramsey |
 | 608 | 251 | Lul Babie |
-| 609 | 250 | Cari Underwood |
-| 610 | 250 | DrC |
-| 611 | 250 | Kristal |
+| 609 | 250 | Kristal |
+| 610 | 250 | Silly Fallzone |
+| 611 | 250 | Tesa Mike Jenkins |
 | 612 | 250 | Alexsandra Hill |
-| 613 | 250 | Silly Fallzone |
-| 614 | 249 | Brennan Shea Greene |
+| 613 | 250 | Cari Underwood |
+| 614 | 250 | DrC |
 | 615 | 249 | Edward White |
-| 616 | 248 | alxhue04 |
-| 617 | 247 | Corie A. Brinson |
-| 618 | 247 | Natalie Dillard |
+| 616 | 249 | Brennan Shea Greene |
+| 617 | 248 | alxhue04 |
+| 618 | 247 | Shauna Davis |
 | 619 | 247 | Kennita Cox |
-| 620 | 247 | aga |
-| 621 | 247 | Shauna Davis |
-| 622 | 246 | Lacie Powers |
-| 623 | 246 | KingCas |
-| 624 | 245 | Lovetetris |
-| 625 | 245 | Marcus Fontenot |
-| 626 | 245 | Loretta Hendricks |
-| 627 | 244 | Lolita Nettles |
+| 620 | 247 | Corie A. Brinson |
+| 621 | 247 | Natalie Dillard |
+| 622 | 247 | aga |
+| 623 | 246 | Lacie Powers |
+| 624 | 246 | KingCas |
+| 625 | 245 | Loretta Hendricks |
+| 626 | 245 | Marcus Fontenot |
+| 627 | 245 | Lovetetris |
 | 628 | 244 | Lisa lisa |
-| 629 | 244 | Renita Jordan |
-| 630 | 243 | Anna Ryan |
+| 629 | 244 | Lolita Nettles |
+| 630 | 244 | Renita Jordan |
 | 631 | 243 | Brandy Lynn |
-| 632 | 242 | Redhead girl |
-| 633 | 241 | Memphiago Tenninois |
-| 634 | 241 | Stef |
-| 635 | 241 | Seraphim Mabry |
-| 636 | 240 | Keke Johnson |
-| 637 | 240 | Nerdy Brickster |
-| 638 | 240 | Jimmy Clark |
-| 639 | 240 | Tesa Mike Jenkins |
+| 632 | 243 | Anna Ryan |
+| 633 | 242 | Redhead girl |
+| 634 | 241 | Memphiago Tenninois |
+| 635 | 241 | Stef |
+| 636 | 241 | Seraphim Mabry |
+| 637 | 240 | Keke Johnson |
+| 638 | 240 | Nerdy Brickster |
+| 639 | 240 | Jimmy Clark |
 | 640 | 240 | 1694AF |
 | 641 | 239 | Chelle Williams |
-| 642 | 238 | Tara Delay Hill |
-| 643 | 238 | Amanda Snow |
+| 642 | 238 | Amanda Snow |
+| 643 | 238 | Tara Delay Hill |
 | 644 | 238 | Shaunna Caldwell |
 | 645 | 237 | Erica Pompey |
 | 646 | 237 | Kelly Miller Williams |
@@ -1586,13 +1586,13 @@
 | 1578 | 57 | Chill Snapclear |
 | 1579 | 57 | Mumsy |
 | 1580 | 57 | Twisty Chiseler |
-| 1581 | 57 | BossBaby |
-| 1582 | 57 | RaeRae |
-| 1583 | 57 | Alana Joe |
-| 1584 | 56 | Glitzy Builderline |
-| 1585 | 56 | Amanda Jill Sturgill |
-| 1586 | 56 | Bryce McGee |
-| 1587 | 56 | Thomas Cassell |
+| 1581 | 57 | Thomas Cassell |
+| 1582 | 57 | BossBaby |
+| 1583 | 57 | RaeRae |
+| 1584 | 57 | Alana Joe |
+| 1585 | 56 | Glitzy Builderline |
+| 1586 | 56 | Amanda Jill Sturgill |
+| 1587 | 56 | Bryce McGee |
 | 1588 | 56 | Frothy Pivotfall |
 | 1589 | 56 | Danielle Torre-Garza |
 | 1590 | 56 | TSM Ballsniffer |
