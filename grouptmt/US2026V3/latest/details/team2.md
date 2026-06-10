@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:04:44 UTC
+# Standings for team2 as of 2026-06-10 07:05:23 UTC
 
 **Total Participants:** 2701
 
@@ -540,22 +540,22 @@
 | 532 | 346 | TetrisMama |
 | 533 | 346 | Carolyn McNaughton |
 | 534 | 346 | Justin Stark |
-| 535 | 345 | DNice |
-| 536 | 343 | Margie Ann Naffziger |
-| 537 | 343 | David Skelton |
-| 538 | 342 | Wendy Spoor Hof |
-| 539 | 342 | Po Yee |
-| 540 | 341 | Patria Osuoha |
-| 541 | 341 | Jana Campbell |
-| 542 | 341 | Ssirkus |
-| 543 | 341 | Kelly Vedder |
-| 544 | 340 | Nicky Steigerwalt |
-| 545 | 340 | Tony Medina |
-| 546 | 340 | Hannah Meadows Hammond |
-| 547 | 339 | Plucky Grabber |
-| 548 | 339 | Darla Ragsdale |
-| 549 | 338 | Katelyn Rodgers |
-| 550 | 338 | Mona Good |
+| 535 | 346 | Mona Good |
+| 536 | 345 | DNice |
+| 537 | 343 | Margie Ann Naffziger |
+| 538 | 343 | David Skelton |
+| 539 | 342 | Wendy Spoor Hof |
+| 540 | 342 | Po Yee |
+| 541 | 341 | Patria Osuoha |
+| 542 | 341 | Jana Campbell |
+| 543 | 341 | Ssirkus |
+| 544 | 341 | Kelly Vedder |
+| 545 | 340 | Nicky Steigerwalt |
+| 546 | 340 | Tony Medina |
+| 547 | 340 | Hannah Meadows Hammond |
+| 548 | 339 | Plucky Grabber |
+| 549 | 339 | Darla Ragsdale |
+| 550 | 338 | Katelyn Rodgers |
 | 551 | 337 | Jennifer McClure |
 | 552 | 337 | Perky Linebuilder |
 | 553 | 336 | Symmy Norton |
@@ -615,95 +615,95 @@
 | 607 | 302 | Jasmine Goggans |
 | 608 | 302 | Dana Vaiden Rivers |
 | 609 | 301 | Sydney Cheyenne |
-| 610 | 300 | Teddy Williams |
+| 610 | 301 | Jim Wright |
 | 611 | 300 | Ashley Diana |
 | 612 | 300 | phamous1 |
-| 613 | 300 | aunt nanna |
-| 614 | 300 | Twisty Tower |
-| 615 | 299 | Spencer Ryder |
-| 616 | 299 | Jennifer Covington |
-| 617 | 298 | Laura Fagans |
-| 618 | 297 | Nikki Hatch |
+| 613 | 300 | Teddy Williams |
+| 614 | 300 | aunt nanna |
+| 615 | 300 | Twisty Tower |
+| 616 | 299 | Spencer Ryder |
+| 617 | 299 | Jennifer Covington |
+| 618 | 298 | Laura Fagans |
 | 619 | 297 | Amanda Priddy |
-| 620 | 297 | Zaniya Brown |
-| 621 | 296 | Joanne Fish |
-| 622 | 296 | Meagan Grimmett Washburn |
-| 623 | 294 | Amanda Bryte |
-| 624 | 294 | Natasha Lee |
-| 625 | 294 | Frisky Linkbuilder |
-| 626 | 293 | denirocorona |
-| 627 | 292 | Charlotte Castelli |
-| 628 | 292 | Cindy Brown |
-| 629 | 292 | Raine |
-| 630 | 291 | Kenzie |
-| 631 | 291 | Tara Flood |
-| 632 | 290 | Mala Phonchanthasone |
-| 633 | 290 | Simone F |
-| 634 | 289 | Layla Petroff |
-| 635 | 288 | Joanie Swann Ruiter |
-| 636 | 288 | Sunny Tiltbuilder |
+| 620 | 297 | Nikki Hatch |
+| 621 | 297 | Zaniya Brown |
+| 622 | 296 | Joanne Fish |
+| 623 | 296 | Meagan Grimmett Washburn |
+| 624 | 294 | Amanda Bryte |
+| 625 | 294 | Natasha Lee |
+| 626 | 294 | Frisky Linkbuilder |
+| 627 | 293 | denirocorona |
+| 628 | 292 | Charlotte Castelli |
+| 629 | 292 | Cindy Brown |
+| 630 | 292 | Raine |
+| 631 | 291 | Kenzie |
+| 632 | 291 | Tara Flood |
+| 633 | 290 | Mala Phonchanthasone |
+| 634 | 290 | Simone F |
+| 635 | 289 | Layla Petroff |
+| 636 | 288 | Joanie Swann Ruiter |
 | 637 | 288 | Susie Conger |
-| 638 | 287 | Brandy Chinelle |
-| 639 | 287 | rageking |
-| 640 | 287 | WhitS |
-| 641 | 286 | Aneokly |
-| 642 | 286 | Vanessa King |
-| 643 | 285 | CEK |
-| 644 | 285 | Kelly Bormann |
-| 645 | 285 | Dapper Riser |
-| 646 | 284 | Henny Henny |
-| 647 | 284 | Audrey Wood |
-| 648 | 284 | Perky Rollfit |
-| 649 | 283 | Alonzo Reed |
-| 650 | 283 | Precious Womack |
-| 651 | 282 | ZBee |
-| 652 | 282 | Rescuegirl76 |
-| 653 | 282 | Sandra Belk |
-| 654 | 282 | Cranky Patternblock |
-| 655 | 281 | Fallon Moss |
-| 656 | 281 | Rick |
-| 657 | 280 | Al Smith Jr |
-| 658 | 280 | Michelle M Braley |
-| 659 | 280 | Sharilyn Jackson |
-| 660 | 280 | Brandi Williams |
-| 661 | 280 | Michelle Jones |
-| 662 | 280 | Carl Mccoy |
-| 663 | 280 | Keisha Robinson |
-| 664 | 279 | Greenie |
-| 665 | 278 | John Davis |
-| 666 | 278 | James Sayers |
-| 667 | 278 | Nicole Suber |
-| 668 | 278 | Zany Wrecker |
-| 669 | 277 | Nicole Ashbaugh |
-| 670 | 277 | Twisty Blockmatch |
-| 671 | 277 | s3lc4tr0n |
-| 672 | 277 | Cindy Scott |
-| 673 | 276 | Ryuu |
-| 674 | 276 | NickandJess Reynolds |
-| 675 | 276 | Cassandra Green |
+| 638 | 288 | Sunny Tiltbuilder |
+| 639 | 287 | Brandy Chinelle |
+| 640 | 287 | rageking |
+| 641 | 287 | WhitS |
+| 642 | 286 | Aneokly |
+| 643 | 286 | Vanessa King |
+| 644 | 285 | CEK |
+| 645 | 285 | Kelly Bormann |
+| 646 | 285 | Dapper Riser |
+| 647 | 284 | Henny Henny |
+| 648 | 284 | Audrey Wood |
+| 649 | 284 | Perky Rollfit |
+| 650 | 283 | Alonzo Reed |
+| 651 | 283 | Precious Womack |
+| 652 | 282 | Sandra Belk |
+| 653 | 282 | ZBee |
+| 654 | 282 | Rescuegirl76 |
+| 655 | 282 | Cranky Patternblock |
+| 656 | 281 | Fallon Moss |
+| 657 | 281 | Rick |
+| 658 | 280 | Al Smith Jr |
+| 659 | 280 | Brandi Williams |
+| 660 | 280 | Sharilyn Jackson |
+| 661 | 280 | Michelle M Braley |
+| 662 | 280 | Michelle Jones |
+| 663 | 280 | Carl Mccoy |
+| 664 | 280 | Keisha Robinson |
+| 665 | 279 | Greenie |
+| 666 | 278 | John Davis |
+| 667 | 278 | James Sayers |
+| 668 | 278 | Nicole Suber |
+| 669 | 278 | Zany Wrecker |
+| 670 | 277 | Nicole Ashbaugh |
+| 671 | 277 | Twisty Blockmatch |
+| 672 | 277 | s3lc4tr0n |
+| 673 | 277 | Cindy Scott |
+| 674 | 276 | Ryuu |
+| 675 | 276 | NickandJess Reynolds |
 | 676 | 276 | Joshua Dye |
-| 677 | 274 | Clever Fallmatch |
-| 678 | 274 | Angela VanOstrand |
-| 679 | 273 | Laurie |
-| 680 | 273 | Mary Whitaker |
-| 681 | 272 | Muffin Popper |
-| 682 | 271 | Chilly Surge |
-| 683 | 271 | Spicy Balanceblock |
-| 684 | 271 | Jim Wright |
-| 685 | 271 | Barb Kiser |
+| 677 | 276 | Cassandra Green |
+| 678 | 274 | Clever Fallmatch |
+| 679 | 274 | Angela VanOstrand |
+| 680 | 273 | Laurie |
+| 681 | 273 | Mary Whitaker |
+| 682 | 272 | Muffin Popper |
+| 683 | 271 | Chilly Surge |
+| 684 | 271 | Barb Kiser |
+| 685 | 271 | Spicy Balanceblock |
 | 686 | 270 | Duck |
 | 687 | 269 | Brooke Lynn Marie Adelaide |
 | 688 | 268 | Sltwtrcndrla |
-| 689 | 268 | Frilly Shiftsnap |
-| 690 | 268 | Tito Garcia |
+| 689 | 268 | Tito Garcia |
+| 690 | 268 | Frilly Shiftsnap |
 | 691 | 267 | Michele Rogers |
 | 692 | 266 | Stacy Shaunce |
 | 693 | 266 | Trisha Schneider |
 | 694 | 266 | Darla Nolt |
 | 695 | 265 | Danita Moon |
 | 696 | 265 | K2N |
-| 697 | 264 | Reign Hustler |
-| 698 | 264 | Gabrielle Rivera |
+| 697 | 264 | Gabrielle Rivera |
+| 698 | 264 | Reign Hustler |
 | 699 | 264 | Cranky Basepiece |
 | 700 | 263 | Cheery Towerzone |
 | 701 | 263 | Firebone |
@@ -717,8 +717,8 @@
 | 709 | 260 | Chris Christ |
 | 710 | 260 | Bouncy Snapmatch |
 | 711 | 259 | Stella |
-| 712 | 259 | Angie Kowalsky Olson |
-| 713 | 259 | Momof2wigglebutts |
+| 712 | 259 | Momof2wigglebutts |
+| 713 | 259 | Angie Kowalsky Olson |
 | 714 | 258 | Julie Alexander Sykes |
 | 715 | 258 | Shellie Kioutas |
 | 716 | 258 | Christy Diane Escobar |

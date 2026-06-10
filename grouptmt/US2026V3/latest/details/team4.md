@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 07:04:44 UTC
+# Standings for team4 as of 2026-06-10 07:05:23 UTC
 
 **Total Participants:** 2290
 
@@ -559,8 +559,8 @@
 | 551 | 269 | Montes Ash |
 | 552 | 268 | Kendall Rhodie |
 | 553 | 268 | Andreas Vs Shinky |
-| 554 | 267 | Butterfly |
-| 555 | 267 | Jeremy Barry |
+| 554 | 267 | Jeremy Barry |
+| 555 | 267 | Butterfly |
 | 556 | 267 | Dolores Falco |
 | 557 | 267 | Swanky Snapgrid |
 | 558 | 267 | Alyssa Berg |
@@ -568,35 +568,35 @@
 | 560 | 265 | Mrs |
 | 561 | 265 | Denise Wilson |
 | 562 | 265 | Nicole Colby McCloskey |
-| 563 | 263 | Melissa Quinn |
-| 564 | 263 | Gean DeJesus |
-| 565 | 263 | Manolo Canety |
-| 566 | 263 | Blessedmom865 |
-| 567 | 263 | Deborah Ayliffe |
-| 568 | 261 | Chris McBlockster |
-| 569 | 261 | Lee Ann Gibby |
-| 570 | 261 | Lisa Pie |
+| 563 | 263 | Deborah Ayliffe |
+| 564 | 263 | Lisa Pie |
+| 565 | 263 | Gean DeJesus |
+| 566 | 263 | Manolo Canety |
+| 567 | 263 | Melissa Quinn |
+| 568 | 263 | Blessedmom865 |
+| 569 | 261 | Chris McBlockster |
+| 570 | 261 | Lee Ann Gibby |
 | 571 | 260 | Silly Risegrid |
-| 572 | 260 | Jerett Coplin |
-| 573 | 260 | chefjaydawg |
-| 574 | 260 | Sarah Montagne Forsberg |
-| 575 | 260 | Carissa Thorne-See |
-| 576 | 259 | Inez Nez |
-| 577 | 259 | Jessica Peyton |
-| 578 | 259 | Will E Ayala |
+| 572 | 260 | Carissa Thorne-See |
+| 573 | 260 | Sarah Montagne Forsberg |
+| 574 | 260 | chefjaydawg |
+| 575 | 260 | Jerett Coplin |
+| 576 | 259 | Jessica Peyton |
+| 577 | 259 | Will E Ayala |
+| 578 | 259 | Inez Nez |
 | 579 | 259 | Leasa Marie |
-| 580 | 258 | Danny Frausto |
-| 581 | 258 | my my |
-| 582 | 258 | Brainbabe |
-| 583 | 258 | JIGsaw ~(•¿°)~ |
-| 584 | 257 | MattJennifer Marie Ericson |
-| 585 | 257 | Jazzy Rollout |
-| 586 | 257 | Happy Puzzle |
+| 580 | 258 | Brainbabe |
+| 581 | 258 | JIGsaw ~(•¿°)~ |
+| 582 | 258 | Danny Frausto |
+| 583 | 258 | my my |
+| 584 | 257 | Jazzy Rollout |
+| 585 | 257 | Happy Puzzle |
+| 586 | 257 | MattJennifer Marie Ericson |
 | 587 | 256 | Honey Honey |
-| 588 | 255 | EpicWizard |
-| 589 | 255 | Littlebrat |
-| 590 | 254 | Mimi Dominguez |
-| 591 | 254 | Snippy Racker |
+| 588 | 255 | Littlebrat |
+| 589 | 255 | EpicWizard |
+| 590 | 254 | Snippy Racker |
+| 591 | 254 | Mimi Dominguez |
 | 592 | 254 | Saucy Brickmatch |
 | 593 | 252 | Ryan Paul Clark-Ramsey |
 | 594 | 251 | Lul Babie |
