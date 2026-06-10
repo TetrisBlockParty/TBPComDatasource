@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:16:44 UTC
+# Standings for team4 as of 2026-06-10 21:17:24 UTC
 
 **Total Participants:** 2376
 
@@ -206,15 +206,15 @@
 | 198 | 769 | Sherry Mooney |
 | 199 | 764 | Shocinda Sherwood |
 | 200 | 760 | Anthony Magaraci |
-| 201 | 756 | Renee Sapp |
-| 202 | 749 | Lisa Garcia |
-| 203 | 749 | Nikki Fuller Johnson |
-| 204 | 749 | Tasha Suzanne Prisbrey |
-| 205 | 748 | Bonnie Powell |
-| 206 | 740 | Chuck Burns |
-| 207 | 738 | Jennifer Ellyn Sheets |
-| 208 | 737 | Samara Garcia |
-| 209 | 737 | Devinlee Brown |
+| 201 | 757 | Devinlee Brown |
+| 202 | 756 | Renee Sapp |
+| 203 | 749 | Lisa Garcia |
+| 204 | 749 | Nikki Fuller Johnson |
+| 205 | 749 | Tasha Suzanne Prisbrey |
+| 206 | 748 | Bonnie Powell |
+| 207 | 740 | Chuck Burns |
+| 208 | 738 | Jennifer Ellyn Sheets |
+| 209 | 737 | Samara Garcia |
 | 210 | 735 | iiPurgeV2 |
 | 211 | 728 | Roxana Romero |
 | 212 | 726 | Brick House |
@@ -729,10 +729,10 @@
 | 721 | 234 | Alizabeth Garcia |
 | 722 | 234 | Stotty |
 | 723 | 234 | Paula Renee McCracken |
-| 724 | 231 | Lora Schallert |
-| 725 | 231 | Khiem Hernandez |
-| 726 | 231 | Poseidon S Davenport |
-| 727 | 230 | Heather Garrity |
+| 724 | 232 | Heather Garrity |
+| 725 | 231 | Poseidon S Davenport |
+| 726 | 231 | Lora Schallert |
+| 727 | 231 | Khiem Hernandez |
 | 728 | 230 | Billy Baker |
 | 729 | 230 | Lord Solrac |
 | 730 | 230 | Breezy Brickline |
@@ -1014,8 +1014,8 @@
 | 1006 | 158 | Vergie Michael |
 | 1007 | 158 | Jeremy Fisher |
 | 1008 | 158 | Cozy Builderfit |
-| 1009 | 157 | Marie Lily |
-| 1010 | 157 | Stuart Crosby |
+| 1009 | 157 | Stuart Crosby |
+| 1010 | 157 | Marie Lily |
 | 1011 | 157 | Bam SwaggSpitter King |
 | 1012 | 157 | TheazO |
 | 1013 | 156 | Miranda Brown |
@@ -1030,10 +1030,10 @@
 | 1022 | 154 | Mrs.J2013 |
 | 1023 | 154 | the repo |
 | 1024 | 154 | Chelsea Pigg |
-| 1025 | 153 | Littleshark |
-| 1026 | 153 | JUNE |
-| 1027 | 153 | White As Snow |
-| 1028 | 153 | QuickFreeze |
+| 1025 | 153 | JUNE |
+| 1026 | 153 | White As Snow |
+| 1027 | 153 | QuickFreeze |
+| 1028 | 153 | Littleshark |
 | 1029 | 153 | Shawntae Mccary |
 | 1030 | 153 | Ajohnna Frazee |
 | 1031 | 153 | Joyce Hampton |
@@ -1072,10 +1072,10 @@
 | 1064 | 146 | Marie Culbert |
 | 1065 | 146 | John Wertz |
 | 1066 | 146 | Mone DyTorrion Zyan Lotts |
-| 1067 | 145 | Melissa Gorman |
+| 1067 | 145 | Alicia Loveless |
 | 1068 | 145 | Kenny Nguyen |
-| 1069 | 145 | Alicia Loveless |
-| 1070 | 145 | Jeff Seymour |
+| 1069 | 145 | Jeff Seymour |
+| 1070 | 145 | Melissa Gorman |
 | 1071 | 145 | Hooti Smile |
 | 1072 | 145 | Suzie |
 | 1073 | 145 | Dinah Mccall |
@@ -1083,8 +1083,8 @@
 | 1075 | 144 | San |
 | 1076 | 144 | Wynisha Johnson |
 | 1077 | 144 | Jodi Messere |
-| 1078 | 143 | Cheeky Linkpiece |
-| 1079 | 143 | Michelle Wiles |
+| 1078 | 143 | Michelle Wiles |
+| 1079 | 143 | Cheeky Linkpiece |
 | 1080 | 143 | Rebekah Anne Macias |
 | 1081 | 142 | Theo Stamps |
 | 1082 | 142 | Jonathan Jackson |
@@ -1101,11 +1101,11 @@
 | 1093 | 140 | Aim Georgia Bros Scott |
 | 1094 | 140 | Kris McMahon |
 | 1095 | 140 | skynatda |
-| 1096 | 140 | Willy Leung |
-| 1097 | 140 | Marvin Mack |
-| 1098 | 140 | Groovy Matchgrid |
-| 1099 | 140 | Jean Yap |
-| 1100 | 139 | Gwendolyn Langwinski |
+| 1096 | 140 | Gwendolyn Langwinski |
+| 1097 | 140 | Willy Leung |
+| 1098 | 140 | Marvin Mack |
+| 1099 | 140 | Groovy Matchgrid |
+| 1100 | 140 | Jean Yap |
 | 1101 | 139 | Hayze |
 | 1102 | 139 | Melissa Wilson |
 | 1103 | 139 | Erich EMac McIntosh |
