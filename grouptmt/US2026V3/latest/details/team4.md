@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:30:46 UTC
+# Standings for team4 as of 2026-06-10 21:31:22 UTC
 
 **Total Participants:** 2376
 
@@ -204,17 +204,17 @@
 | 196 | 780 | Gracie Ornelas |
 | 197 | 780 | CIRAZYPNOY |
 | 198 | 778 | LastBoi |
-| 199 | 769 | Sherry Mooney |
-| 200 | 767 | Devinlee Brown |
-| 201 | 760 | Anthony Magaraci |
-| 202 | 756 | Renee Sapp |
-| 203 | 749 | Nikki Fuller Johnson |
-| 204 | 749 | Lisa Garcia |
+| 199 | 774 | Katie Lynn Petit |
+| 200 | 769 | Sherry Mooney |
+| 201 | 767 | Devinlee Brown |
+| 202 | 760 | Anthony Magaraci |
+| 203 | 756 | Renee Sapp |
+| 204 | 749 | Nikki Fuller Johnson |
 | 205 | 749 | Tasha Suzanne Prisbrey |
-| 206 | 748 | Bonnie Powell |
-| 207 | 740 | Chuck Burns |
-| 208 | 738 | Jennifer Ellyn Sheets |
-| 209 | 738 | Katie Lynn Petit |
+| 206 | 749 | Lisa Garcia |
+| 207 | 748 | Bonnie Powell |
+| 208 | 740 | Chuck Burns |
+| 209 | 738 | Jennifer Ellyn Sheets |
 | 210 | 737 | Samara Garcia |
 | 211 | 735 | iiPurgeV2 |
 | 212 | 728 | Roxana Romero |
@@ -595,24 +595,24 @@
 | 587 | 285 | Karen Denise Ann Veitch |
 | 588 | 284 | Brandi Sauer |
 | 589 | 283 | Chris McBlockster |
-| 590 | 283 | Danny Frausto |
-| 591 | 283 | Rita Ann |
-| 592 | 282 | sierrabeth |
+| 590 | 283 | Rita Ann |
+| 591 | 283 | Danny Frausto |
+| 592 | 282 | Lul Babie |
 | 593 | 282 | Corie A. Brinson |
-| 594 | 281 | Margie Thomas |
-| 595 | 281 | Anthony Edwards |
-| 596 | 280 | Giddy Basepiece |
-| 597 | 280 | Jimmy Clark |
+| 594 | 282 | sierrabeth |
+| 595 | 281 | Margie Thomas |
+| 596 | 281 | Anthony Edwards |
+| 597 | 280 | Giddy Basepiece |
 | 598 | 280 | Alice Eisnor-Martens |
-| 599 | 279 | Heidi Anne Scheiderer |
-| 600 | 279 | Will E Ayala |
-| 601 | 279 | LandO |
-| 602 | 279 | Lisa Pie |
-| 603 | 279 | Kandylands |
-| 604 | 278 | Brenda Gustamantes |
+| 599 | 280 | Jimmy Clark |
+| 600 | 279 | Lisa Pie |
+| 601 | 279 | Kandylands |
+| 602 | 279 | LandO |
+| 603 | 279 | Will E Ayala |
+| 604 | 279 | Heidi Anne Scheiderer |
 | 605 | 278 | Stef |
-| 606 | 277 | Jeremy Barry |
-| 607 | 277 | Lul Babie |
+| 606 | 278 | Brenda Gustamantes |
+| 607 | 277 | Jeremy Barry |
 | 608 | 277 | Deborah Silberg |
 | 609 | 276 | Susan Stofberg Beltran |
 | 610 | 276 | Jennifer Evans Elliott |
@@ -624,33 +624,33 @@
 | 616 | 273 | Kierra Evans |
 | 617 | 272 | Snippy Racker |
 | 618 | 272 | Sharon Tyler |
-| 619 | 271 | Jerett Coplin |
-| 620 | 271 | EpicWizard |
-| 621 | 271 | Leasa Marie |
+| 619 | 271 | Leasa Marie |
+| 620 | 271 | Jerett Coplin |
+| 621 | 271 | EpicWizard |
 | 622 | 270 | Dawn Renee Thomas |
 | 623 | 269 | Dominique Summers Tah-tah |
 | 624 | 269 | Jordan Tamayia Williams |
-| 625 | 269 | Shia Marie |
-| 626 | 269 | Kiki Moore |
-| 627 | 269 | Nessa Smith |
-| 628 | 269 | Lolita Nettles |
-| 629 | 268 | Kendall Rhodie |
-| 630 | 268 | alxhue04 |
+| 625 | 269 | Lolita Nettles |
+| 626 | 269 | Nessa Smith |
+| 627 | 269 | Kiki Moore |
+| 628 | 269 | Shia Marie |
+| 629 | 268 | alxhue04 |
+| 630 | 268 | Kendall Rhodie |
 | 631 | 268 | Andreas Vs Shinky |
 | 632 | 268 | Chelsea Guajardo |
 | 633 | 267 | Saucy Brickmatch |
 | 634 | 267 | Budda Huitt |
 | 635 | 267 | Blessedmom865 |
 | 636 | 267 | my my |
-| 637 | 267 | Swanky Snapgrid |
-| 638 | 267 | Taisha Beasley |
-| 639 | 266 | Andrea Dre Lomeli |
-| 640 | 266 | Stacy G |
+| 637 | 267 | Taisha Beasley |
+| 638 | 267 | Swanky Snapgrid |
+| 639 | 266 | Stacy G |
+| 640 | 266 | Andrea Dre Lomeli |
 | 641 | 264 | yourmomz |
-| 642 | 263 | Stephanie Brock |
-| 643 | 263 | Gean DeJesus |
-| 644 | 263 | PsyDMom |
-| 645 | 263 | Melissa Quinn |
+| 642 | 263 | Gean DeJesus |
+| 643 | 263 | PsyDMom |
+| 644 | 263 | Melissa Quinn |
+| 645 | 263 | Stephanie Brock |
 | 646 | 262 | All knowing |
 | 647 | 262 | Chelsea Costa |
 | 648 | 261 | Lee Ann Gibby |
@@ -927,19 +927,19 @@
 | 919 | 180 | Rodger Lines |
 | 920 | 180 | Silly Rollbuilder |
 | 921 | 179 | Diqthot |
-| 922 | 179 | Laryssia Taylor |
-| 923 | 179 | SueSally |
+| 922 | 179 | SueSally |
+| 923 | 179 | Laryssia Taylor |
 | 924 | 179 | Shirley Williams |
 | 925 | 179 | Dru Lui |
-| 926 | 178 | Rin |
-| 927 | 178 | Jacqueline Arce |
+| 926 | 178 | Tracy Marino |
+| 927 | 178 | Rin |
 | 928 | 178 | Renzo Tonini |
-| 929 | 178 | Tracy Marino |
-| 930 | 177 | Happy Filler |
+| 929 | 178 | Jacqueline Arce |
+| 930 | 177 | Lizxxx |
 | 931 | 177 | Charlene Nicole Guidry |
-| 932 | 177 | Lizxxx |
-| 933 | 177 | Kristie ML SneekaPuff |
-| 934 | 177 | Slinky Snapfit |
+| 932 | 177 | Kristie ML SneekaPuff |
+| 933 | 177 | Slinky Snapfit |
+| 934 | 177 | Happy Filler |
 | 935 | 177 | Nachos |
 | 936 | 176 | Keith Kosmicki |
 | 937 | 176 | Kelli Miller |
@@ -951,36 +951,36 @@
 | 943 | 174 | Eddie Fuller |
 | 944 | 174 | Bridget Reilly |
 | 945 | 174 | Michelle Michelle |
-| 946 | 173 | Shavondelia Williams |
+| 946 | 174 | Breezy Rollfit |
 | 947 | 173 | Tarsha Thomas-Martinez |
 | 948 | 173 | Lizard |
 | 949 | 173 | idk240 |
-| 950 | 172 | Poptart |
-| 951 | 172 | Breezy Rollfit |
-| 952 | 172 | Kayla Haddenham |
-| 953 | 172 | Erica Hardwick |
-| 954 | 172 | Amanda Lynn Robinson |
-| 955 | 172 | Christina Williams |
-| 956 | 171 | Carlos Amaya |
-| 957 | 171 | Daring Patternblock |
-| 958 | 171 | Bouncy Clusterline |
-| 959 | 171 | Witty Fitblock |
-| 960 | 170 | Marisela Alvarado |
-| 961 | 170 | Christina Hagan |
-| 962 | 170 | Chirpy Spinzone |
-| 963 | 170 | LaRue Tee |
-| 964 | 170 | Aleta Svitak |
-| 965 | 169 | Jolly Fitblock |
-| 966 | 169 | Loony Edge |
-| 967 | 169 | Combo Snappy |
-| 968 | 169 | Jt Home |
-| 969 | 168 | SandyEva |
-| 970 | 168 | Caiti O'Keefe |
-| 971 | 168 | Heather Brown |
-| 972 | 168 | JJADHD |
-| 973 | 168 | Kristan Hoffman |
-| 974 | 167 | Stacey Heartful |
-| 975 | 167 | Ana Ruiz |
+| 950 | 173 | Shavondelia Williams |
+| 951 | 172 | Amanda Lynn Robinson |
+| 952 | 172 | Christina Williams |
+| 953 | 172 | Poptart |
+| 954 | 172 | Kayla Haddenham |
+| 955 | 172 | Erica Hardwick |
+| 956 | 171 | Bouncy Clusterline |
+| 957 | 171 | Witty Fitblock |
+| 958 | 171 | Carlos Amaya |
+| 959 | 171 | Daring Patternblock |
+| 960 | 170 | Christina Hagan |
+| 961 | 170 | Chirpy Spinzone |
+| 962 | 170 | LaRue Tee |
+| 963 | 170 | Aleta Svitak |
+| 964 | 170 | Marisela Alvarado |
+| 965 | 169 | Loony Edge |
+| 966 | 169 | Combo Snappy |
+| 967 | 169 | Jt Home |
+| 968 | 169 | Jolly Fitblock |
+| 969 | 168 | Heather Brown |
+| 970 | 168 | JJADHD |
+| 971 | 168 | Kristan Hoffman |
+| 972 | 168 | SandyEva |
+| 973 | 168 | Caiti O'Keefe |
+| 974 | 167 | Ana Ruiz |
+| 975 | 167 | Stacey Heartful |
 | 976 | 166 | Andy Petersen |
 | 977 | 166 | Jillian Marie |
 | 978 | 166 | medicjessi |
@@ -1379,33 +1379,33 @@
 | 1371 | 90 | Sherri G Davis |
 | 1372 | 90 | Quirky Puzzler |
 | 1373 | 90 | Krissy Smith |
-| 1374 | 90 | Волна Бог |
-| 1375 | 90 | STRay |
-| 1376 | 90 | Monique Anne Edwards |
-| 1377 | 90 | Snappy Glidebuilder |
-| 1378 | 90 | Nerdy Piecebuilder |
-| 1379 | 90 | Heather Griffin |
+| 1374 | 90 | Heather Griffin |
+| 1375 | 90 | Nerdy Piecebuilder |
+| 1376 | 90 | Snappy Glidebuilder |
+| 1377 | 90 | Волна Бог |
+| 1378 | 90 | STRay |
+| 1379 | 90 | Monique Anne Edwards |
 | 1380 | 89 | Jessica Lestage |
-| 1381 | 89 | Bon Jovi |
-| 1382 | 89 | Khylee DarDar |
+| 1381 | 89 | Khylee DarDar |
+| 1382 | 89 | Bon Jovi |
 | 1383 | 89 | Stacy Sisson |
 | 1384 | 89 | Ladybug |
 | 1385 | 89 | Bekka Walker |
 | 1386 | 88 | Ελενη Χολεβα |
 | 1387 | 88 | Tbag |
 | 1388 | 88 | Musky Pits |
-| 1389 | 88 | Ryan Luperena |
-| 1390 | 88 | Happy Toast |
+| 1389 | 88 | Happy Toast |
+| 1390 | 88 | Ryan Luperena |
 | 1391 | 88 | Cas Gio |
-| 1392 | 87 | Leslee Bentley DeLong |
-| 1393 | 87 | Audacious |
-| 1394 | 87 | Johnny Jeppesen |
-| 1395 | 86 | Luunii |
+| 1392 | 87 | Monte Smith |
+| 1393 | 87 | Leslee Bentley DeLong |
+| 1394 | 87 | Audacious |
+| 1395 | 87 | Johnny Jeppesen |
 | 1396 | 86 | Meela Abdurrab |
-| 1397 | 85 | LuLazer27 |
-| 1398 | 85 | Sherri Lorent |
-| 1399 | 85 | Dee Modest |
-| 1400 | 85 | Monte Smith |
+| 1397 | 86 | Luunii |
+| 1398 | 85 | LuLazer27 |
+| 1399 | 85 | Sherri Lorent |
+| 1400 | 85 | Dee Modest |
 | 1401 | 85 | ZaysWife89 |
 | 1402 | 85 | Melly |
 | 1403 | 85 | Charles Chauffe |

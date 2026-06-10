@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 21:30:46 UTC
+# Standings for team2 as of 2026-06-10 21:31:22 UTC
 
 **Total Participants:** 2818
 
@@ -50,7 +50,7 @@
 | 42 | 5411 | Matt Hardin |
 | 43 | 5409 | Angel Welch |
 | 44 | 5223 | Spunky Clicker |
-| 45 | 5153 | Quirky Catcher |
+| 45 | 5163 | Quirky Catcher |
 | 46 | 5036 | DarkHorse |
 | 47 | 4987 | Erica Dees Parks |
 | 48 | 4822 | Chipper Patternblock |
@@ -81,7 +81,7 @@
 | 73 | 2693 | Tonya Taber |
 | 74 | 2639 | Nawang Nawang |
 | 75 | 2605 | Frisky Balanceblock |
-| 76 | 2585 | Happy Pivotfall |
+| 76 | 2595 | Happy Pivotfall |
 | 77 | 2548 | Nerdy Climber |
 | 78 | 2546 | Epic Frame |
 | 79 | 2513 | Frilly Dashfit |
@@ -154,7 +154,7 @@
 | 146 | 1266 | Shea |
 | 147 | 1266 | snowwol |
 | 148 | 1259 | Marie Luciano |
-| 149 | 1235 | Melissa Thomas |
+| 149 | 1245 | Melissa Thomas |
 | 150 | 1224 | BrendaLee NolanBos |
 | 151 | 1203 | Hilliary Beyer |
 | 152 | 1200 | Denise Potter |
@@ -187,8 +187,8 @@
 | 179 | 991 | Renee Freeman Jacobson |
 | 180 | 988 | Dane Marko |
 | 181 | 980 | Rob Owens |
-| 182 | 964 | Brooke Allred |
-| 183 | 959 | Amber Wolf |
+| 182 | 964 | Amber Wolf |
+| 183 | 964 | Brooke Allred |
 | 184 | 952 | Havik Whitfield |
 | 185 | 951 | AndrewandShela Gornik |
 | 186 | 944 | Sara Perkins |
@@ -368,7 +368,7 @@
 | 360 | 549 | Amanda L Strong |
 | 361 | 548 | Stephanie |
 | 362 | 544 | Elliott Mikila |
-| 363 | 539 | Nikki Greeneyebeauty |
+| 363 | 541 | Nikki Greeneyebeauty |
 | 364 | 537 | Angela Hogan |
 | 365 | 535 | Michelle Hicks |
 | 366 | 533 | Marilyn Strickland |
@@ -641,12 +641,12 @@
 | 633 | 324 | Billy Pittman |
 | 634 | 323 | Josephina |
 | 635 | 322 | Rydin Dirt |
-| 636 | 322 | Heather |
-| 637 | 322 | Laurie |
-| 638 | 321 | Heather Schardan |
-| 639 | 321 | Spencer Ryder |
-| 640 | 320 | Sunny Tiltbuilder |
-| 641 | 319 | Joannah Capilitan |
+| 636 | 322 | Joannah Capilitan |
+| 637 | 322 | Heather |
+| 638 | 322 | Laurie |
+| 639 | 321 | Heather Schardan |
+| 640 | 321 | Spencer Ryder |
+| 641 | 320 | Sunny Tiltbuilder |
 | 642 | 319 | Goldie |
 | 643 | 318 | Reni Seven |
 | 644 | 316 | Jasmine Goggans |
