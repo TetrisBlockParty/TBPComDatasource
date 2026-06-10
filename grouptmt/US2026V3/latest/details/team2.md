@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:54:44 UTC
+# Standings for team2 as of 2026-06-10 07:55:23 UTC
 
 **Total Participants:** 2708
 
@@ -569,16 +569,16 @@
 | 561 | 335 | Holly Huval |
 | 562 | 333 | Jill Goff |
 | 563 | 333 | Nano. |
-| 564 | 332 | Lee Leonard |
-| 565 | 331 | LadyDeath |
-| 566 | 331 | Francesca Wagenhoffer |
-| 567 | 329 | Lively Curve |
-| 568 | 328 | Jennifer Wymer |
-| 569 | 328 | Ever Chase |
-| 570 | 327 | Rondell Reedster |
-| 571 | 327 | Cherica Taylor |
-| 572 | 327 | Jim Wright |
-| 573 | 326 | Lisa Allen Frisk |
+| 564 | 333 | Lisa Allen Frisk |
+| 565 | 332 | Lee Leonard |
+| 566 | 331 | LadyDeath |
+| 567 | 331 | Francesca Wagenhoffer |
+| 568 | 329 | Lively Curve |
+| 569 | 328 | Jennifer Wymer |
+| 570 | 328 | Ever Chase |
+| 571 | 327 | Rondell Reedster |
+| 572 | 327 | Cherica Taylor |
+| 573 | 327 | Jim Wright |
 | 574 | 326 | Katie Jones |
 | 575 | 326 | Giddy Chiseler |
 | 576 | 325 | Ozge Akgun Tokat |
