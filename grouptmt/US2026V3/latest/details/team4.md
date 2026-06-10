@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 20:08:46 UTC
+# Standings for team4 as of 2026-06-10 20:09:25 UTC
 
 **Total Participants:** 2372
 
@@ -141,7 +141,7 @@
 | 133 | 1094 | Leslie Ann Carter |
 | 134 | 1090 | Becky Doll-Hall |
 | 135 | 1090 | Melissa WC |
-| 136 | 1084 | CJ |
+| 136 | 1089 | CJ |
 | 137 | 1082 | Whitborn |
 | 138 | 1078 | Suzanne North |
 | 139 | 1058 | Dandy Puzzler |
@@ -175,8 +175,8 @@
 | 167 | 908 | Andrew Dang |
 | 168 | 904 | adrian |
 | 169 | 903 | Kay |
-| 170 | 902 | Dandy Clearfit |
-| 171 | 902 | vag1974 |
+| 170 | 902 | vag1974 |
+| 171 | 902 | Dandy Clearfit |
 | 172 | 900 | Wanda Simmons |
 | 173 | 899 | Boldy Striker |
 | 174 | 895 | Alex Armour |
@@ -194,8 +194,8 @@
 | 186 | 825 | Thomasena Eady Reid |
 | 187 | 808 | Misty Leigh |
 | 188 | 801 | Izz |
-| 189 | 795 | Baysoph |
-| 190 | 795 | Capone |
+| 189 | 795 | Capone |
+| 190 | 795 | Baysoph |
 | 191 | 790 | Magz |
 | 192 | 783 | Regina Williams |
 | 193 | 780 | CIRAZYPNOY |
@@ -204,52 +204,52 @@
 | 196 | 764 | Shocinda Sherwood |
 | 197 | 760 | Anthony Magaraci |
 | 198 | 756 | Renee Sapp |
-| 199 | 749 | Nikki Fuller Johnson |
-| 200 | 749 | Tasha Suzanne Prisbrey |
+| 199 | 749 | Tasha Suzanne Prisbrey |
+| 200 | 749 | Nikki Fuller Johnson |
 | 201 | 748 | Bonnie Powell |
 | 202 | 748 | Lisa Garcia |
 | 203 | 745 | Gracie Ornelas |
 | 204 | 740 | Chuck Burns |
 | 205 | 737 | Samara Garcia |
-| 206 | 735 | iiPurgeV2 |
-| 207 | 735 | Cinta Marie |
-| 208 | 728 | Roxana Romero |
-| 209 | 726 | Brick House |
-| 210 | 723 | zoes |
-| 211 | 721 | Janet Sanfilippo Sullivan |
-| 212 | 716 | Devinlee Brown |
-| 213 | 708 | Lush Fitblock |
-| 214 | 706 | Samantha Worley |
-| 215 | 705 | Katie Martin |
-| 216 | 701 | Megan Vick |
-| 217 | 700 | Shannon Rivera |
-| 218 | 700 | Suzanne Carter |
-| 219 | 699 | Snippy Splitter |
-| 220 | 691 | Danielle Mitchell |
-| 221 | 688 | Katie Lynn Petit |
-| 222 | 686 | Jennifer Ellyn Sheets |
-| 223 | 684 | Jackie Miller |
+| 206 | 735 | Cinta Marie |
+| 207 | 735 | iiPurgeV2 |
+| 208 | 732 | Sherry Mooney |
+| 209 | 728 | Roxana Romero |
+| 210 | 726 | Brick House |
+| 211 | 723 | zoes |
+| 212 | 721 | Janet Sanfilippo Sullivan |
+| 213 | 716 | Devinlee Brown |
+| 214 | 708 | Lush Fitblock |
+| 215 | 706 | Samantha Worley |
+| 216 | 705 | Katie Martin |
+| 217 | 701 | Megan Vick |
+| 218 | 700 | Shannon Rivera |
+| 219 | 700 | Suzanne Carter |
+| 220 | 699 | Snippy Splitter |
+| 221 | 691 | Danielle Mitchell |
+| 222 | 688 | Katie Lynn Petit |
+| 223 | 686 | Jennifer Ellyn Sheets |
 | 224 | 684 | Caitlyn Wang |
-| 225 | 683 | Malik Thompson |
-| 226 | 680 | Saucy Wipepiece |
-| 227 | 677 | Celina DiBastiani |
-| 228 | 675 | Iforget |
-| 229 | 673 | Tyson Stroppel |
-| 230 | 672 | Cheery Risegrid |
-| 231 | 670 | Beth Belanger |
-| 232 | 669 | Vanessa Sykes |
-| 233 | 663 | Kelly Howland |
+| 225 | 684 | Jackie Miller |
+| 226 | 683 | Malik Thompson |
+| 227 | 680 | Saucy Wipepiece |
+| 228 | 677 | Celina DiBastiani |
+| 229 | 675 | Iforget |
+| 230 | 673 | Tyson Stroppel |
+| 231 | 672 | Cheery Risegrid |
+| 232 | 670 | Beth Belanger |
+| 233 | 669 | Vanessa Sykes |
 | 234 | 663 | Laguya |
-| 235 | 657 | Jenn Norcross |
-| 236 | 657 | Katy |
-| 237 | 651 | Jewelz |
-| 238 | 651 | Dayna Arthurs |
-| 239 | 644 | Tina Thomas |
-| 240 | 644 | Krysten Danielle Richard |
-| 241 | 644 | Yesenia Castro Monreal |
-| 242 | 641 | Waxboss |
-| 243 | 637 | QueenLi86 |
-| 244 | 634 | Sherry Mooney |
+| 235 | 663 | Kelly Howland |
+| 236 | 657 | Jenn Norcross |
+| 237 | 657 | Katy |
+| 238 | 651 | Jewelz |
+| 239 | 651 | Dayna Arthurs |
+| 240 | 644 | Tina Thomas |
+| 241 | 644 | Krysten Danielle Richard |
+| 242 | 644 | Yesenia Castro Monreal |
+| 243 | 641 | Waxboss |
+| 244 | 637 | QueenLi86 |
 | 245 | 631 | Toon Up |
 | 246 | 629 | Rebecca Watters |
 | 247 | 627 | Erika Seaton |
@@ -270,14 +270,14 @@
 | 262 | 589 | Shanna Fragen |
 | 263 | 585 | Hen |
 | 264 | 585 | Vicki Adams |
-| 265 | 584 | Colin |
-| 266 | 584 | Dae Von |
+| 265 | 584 | Dae Von |
+| 266 | 584 | Colin |
 | 267 | 583 | Genger |
 | 268 | 579 | Merritt Brandt |
 | 269 | 576 | Goofy Riser |
 | 270 | 575 | Julian Gasque |
-| 271 | 574 | Perky Riserbuilder |
-| 272 | 574 | Alma López Morales |
+| 271 | 574 | Alma López Morales |
+| 272 | 574 | Perky Riserbuilder |
 | 273 | 573 | Sisi RedVelvet Reneè |
 | 274 | 572 | Bean |
 | 275 | 568 | Nicole |
@@ -897,79 +897,79 @@
 | 889 | 187 | Brandi Gray |
 | 890 | 187 | Heather Garrity |
 | 891 | 186 | PDubz |
-| 892 | 185 | Ilia Blake |
-| 893 | 185 | Tre'nya Smith |
-| 894 | 185 | Street724 |
-| 895 | 185 | Joshua Hunt |
-| 896 | 184 | RustyMaster40 |
-| 897 | 184 | Maliyah An |
-| 898 | 184 | Dizzy |
-| 899 | 182 | Cranky Twisterfit |
-| 900 | 182 | Patsy |
-| 901 | 181 | Bammer |
-| 902 | 180 | Krista Diaz |
-| 903 | 180 | George Marshburn |
-| 904 | 180 | Rodger Lines |
-| 905 | 180 | Mighty Dash |
-| 906 | 180 | Silly Rollbuilder |
-| 907 | 180 | Quirky Fallgrid |
-| 908 | 179 | Laryssia Taylor |
-| 909 | 179 | Shirley Williams |
-| 910 | 179 | SueSally |
-| 911 | 179 | Diqthot |
-| 912 | 179 | Dru Lui |
-| 913 | 178 | Renzo Tonini |
-| 914 | 178 | Jacqueline Arce |
-| 915 | 178 | Tracy Marino |
-| 916 | 178 | Rin |
-| 917 | 177 | Happy Filler |
-| 918 | 177 | Kristie ML SneekaPuff |
-| 919 | 177 | Charlene Nicole Guidry |
-| 920 | 177 | Slinky Snapfit |
+| 892 | 186 | Phredda Helene Gavornik |
+| 893 | 185 | Street724 |
+| 894 | 185 | Joshua Hunt |
+| 895 | 185 | Tre'nya Smith |
+| 896 | 185 | Ilia Blake |
+| 897 | 184 | Dizzy |
+| 898 | 184 | RustyMaster40 |
+| 899 | 184 | Maliyah An |
+| 900 | 182 | Cranky Twisterfit |
+| 901 | 182 | Patsy |
+| 902 | 181 | Bammer |
+| 903 | 180 | Krista Diaz |
+| 904 | 180 | George Marshburn |
+| 905 | 180 | Rodger Lines |
+| 906 | 180 | Mighty Dash |
+| 907 | 180 | Silly Rollbuilder |
+| 908 | 180 | Quirky Fallgrid |
+| 909 | 179 | Dru Lui |
+| 910 | 179 | Shirley Williams |
+| 911 | 179 | Laryssia Taylor |
+| 912 | 179 | Diqthot |
+| 913 | 179 | SueSally |
+| 914 | 178 | Renzo Tonini |
+| 915 | 178 | Jacqueline Arce |
+| 916 | 178 | Tracy Marino |
+| 917 | 178 | Rin |
+| 918 | 177 | Happy Filler |
+| 919 | 177 | Slinky Snapfit |
+| 920 | 177 | Kristie ML SneekaPuff |
 | 921 | 177 | Lizxxx |
-| 922 | 176 | Phredda Helene Gavornik |
-| 923 | 176 | Keith Kosmicki |
-| 924 | 176 | Elisha Thompson |
+| 922 | 177 | Charlene Nicole Guidry |
+| 923 | 176 | Elisha Thompson |
+| 924 | 176 | Keith Kosmicki |
 | 925 | 176 | Kelli Miller |
-| 926 | 175 | Leslie Ramos |
+| 926 | 175 | Nerdy Glider |
 | 927 | 175 | Nachos |
-| 928 | 175 | Nerdy Glider |
+| 928 | 175 | Leslie Ramos |
 | 929 | 175 | Mari Isaac |
 | 930 | 174 | Eddie Fuller |
 | 931 | 174 | Michelle Michelle |
 | 932 | 174 | Bridget Reilly |
 | 933 | 174 | Christy Petty |
-| 934 | 173 | Tarsha Thomas-Martinez |
-| 935 | 173 | Lizard |
+| 934 | 173 | Lizard |
+| 935 | 173 | Tarsha Thomas-Martinez |
 | 936 | 173 | Shavondelia Williams |
 | 937 | 172 | Amanda Lynn Robinson |
-| 938 | 172 | Erica Hardwick |
-| 939 | 172 | Breezy Rollfit |
-| 940 | 172 | Kayla Haddenham |
-| 941 | 172 | Poptart |
-| 942 | 172 | Christina Williams |
+| 938 | 172 | Christina Williams |
+| 939 | 172 | Kayla Haddenham |
+| 940 | 172 | Breezy Rollfit |
+| 941 | 172 | Erica Hardwick |
+| 942 | 172 | Poptart |
 | 943 | 171 | Bouncy Clusterline |
 | 944 | 171 | Witty Fitblock |
 | 945 | 171 | Daring Patternblock |
 | 946 | 171 | Carlos Amaya |
 | 947 | 170 | Chirpy Spinzone |
 | 948 | 170 | Christina Hagan |
-| 949 | 170 | Charissa W Walton |
-| 950 | 170 | LaRue Tee |
+| 949 | 170 | LaRue Tee |
+| 950 | 170 | Charissa W Walton |
 | 951 | 170 | Marisela Alvarado |
-| 952 | 169 | Combo Snappy |
-| 953 | 169 | Jt Home |
+| 952 | 169 | Jt Home |
+| 953 | 169 | Combo Snappy |
 | 954 | 169 | Loony Edge |
 | 955 | 169 | Jolly Fitblock |
 | 956 | 168 | JJADHD |
 | 957 | 168 | Heather Brown |
 | 958 | 168 | Kristan Hoffman |
-| 959 | 168 | Caiti O'Keefe |
-| 960 | 168 | SandyEva |
+| 959 | 168 | SandyEva |
+| 960 | 168 | Caiti O'Keefe |
 | 961 | 167 | Ana Ruiz |
 | 962 | 166 | medicjessi |
-| 963 | 166 | Andy Petersen |
-| 964 | 166 | Jillian Marie |
+| 963 | 166 | Jillian Marie |
+| 964 | 166 | Andy Petersen |
 | 965 | 166 | Steve Swanson |
 | 966 | 165 | Vicente Bolaños Jr. |
 | 967 | 165 | Stephanie Meinhart |
