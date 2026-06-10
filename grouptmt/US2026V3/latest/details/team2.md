@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 19:18:22 UTC
+# Standings for team2 as of 2026-06-10 19:18:47 UTC
 
 **Total Participants:** 2800
 
@@ -98,9 +98,9 @@
 | 90 | 2222 | Brent Bittenbender |
 | 91 | 2184 | Bon Lynn |
 | 92 | 2182 | Block Dog |
-| 93 | 2099 | Monica Galli |
-| 94 | 2064 | Zappy Pattern |
-| 95 | 2060 | missat |
+| 93 | 2100 | missat |
+| 94 | 2099 | Monica Galli |
+| 95 | 2064 | Zappy Pattern |
 | 96 | 2049 | Bridget N Jonathan Franz |
 | 97 | 2027 | Heather Marie-Tarlton Britt |
 | 98 | 2021 | Jef Wassom |
@@ -137,7 +137,7 @@
 | 129 | 1434 | Frothy Fallgrid |
 | 130 | 1429 | Anissa Moore |
 | 131 | 1419 | Loopy Cascadepiece |
-| 132 | 1386 | Sam |
+| 132 | 1406 | Sam |
 | 133 | 1382 | Marquetta Johnson |
 | 134 | 1364 | Jayke Edward |
 | 135 | 1361 | LittleHippoEars |
@@ -966,39 +966,39 @@
 | 958 | 211 | Alissa Ary |
 | 959 | 211 | Kaitlyn Hurst |
 | 960 | 210 | Dee |
-| 961 | 209 | Marla Paden |
-| 962 | 209 | Nick Waterwalker |
-| 963 | 209 | Groovy Glider |
-| 964 | 208 | Chill Clearbuilder |
-| 965 | 207 | Hoppy Linkblock |
-| 966 | 207 | Jessi Ann |
-| 967 | 207 | Rae |
-| 968 | 206 | Stoney McMillion |
-| 969 | 206 | Cool Patternbuilder |
-| 970 | 205 | Jason P. Schwartz |
-| 971 | 205 | Kelly Hall Whitt |
-| 972 | 205 | Epic Slice |
-| 973 | 205 | Dandy Column |
-| 974 | 204 | Carmina Truoiolo |
-| 975 | 204 | Sillyk |
-| 976 | 203 | Crystal Robinson |
-| 977 | 203 | Michelle |
+| 961 | 209 | Heather Nicole |
+| 962 | 209 | Marla Paden |
+| 963 | 209 | Nick Waterwalker |
+| 964 | 209 | Groovy Glider |
+| 965 | 208 | Chill Clearbuilder |
+| 966 | 207 | Hoppy Linkblock |
+| 967 | 207 | Jessi Ann |
+| 968 | 207 | Rae |
+| 969 | 206 | Stoney McMillion |
+| 970 | 206 | Cool Patternbuilder |
+| 971 | 205 | Jason P. Schwartz |
+| 972 | 205 | Kelly Hall Whitt |
+| 973 | 205 | Epic Slice |
+| 974 | 205 | Dandy Column |
+| 975 | 204 | Carmina Truoiolo |
+| 976 | 204 | Sillyk |
+| 977 | 203 | Crystal Robinson |
 | 978 | 203 | Evelyn Olive Kalmbach |
-| 979 | 202 | Kayley |
-| 980 | 202 | Jessica Rose Engebretson |
-| 981 | 201 | Jolly Twisterfit |
-| 982 | 201 | Binska |
-| 983 | 200 | Audrey Morris |
-| 984 | 200 | Kay |
-| 985 | 200 | Tammy Botkin |
-| 986 | 200 | Courtney Madison Hart |
-| 987 | 200 | Roger Kirksey |
-| 988 | 199 | Alimae |
-| 989 | 199 | Heather Nicole |
-| 990 | 199 | Pat Smits |
-| 991 | 199 | Nichole |
-| 992 | 199 | Frothy Faller |
-| 993 | 199 | KCBlocker |
+| 979 | 203 | Michelle |
+| 980 | 202 | Kayley |
+| 981 | 202 | Jessica Rose Engebretson |
+| 982 | 201 | Jolly Twisterfit |
+| 983 | 201 | Binska |
+| 984 | 200 | Audrey Morris |
+| 985 | 200 | Kay |
+| 986 | 200 | Tammy Botkin |
+| 987 | 200 | Courtney Madison Hart |
+| 988 | 200 | Roger Kirksey |
+| 989 | 199 | Alimae |
+| 990 | 199 | KCBlocker |
+| 991 | 199 | Pat Smits |
+| 992 | 199 | Nichole |
+| 993 | 199 | Frothy Faller |
 | 994 | 198 | Rocroc mo |
 | 995 | 198 | candi |
 | 996 | 198 | Frothy Roll |
@@ -1011,9 +1011,9 @@
 | 1003 | 197 | Aaron Jones |
 | 1004 | 196 | Kendra Sullins |
 | 1005 | 196 | Tiffany Powell |
-| 1006 | 195 | Frisky Clicker |
-| 1007 | 195 | C.L. Deslongchamp |
-| 1008 | 195 | jme |
+| 1006 | 195 | jme |
+| 1007 | 195 | Frisky Clicker |
+| 1008 | 195 | C.L. Deslongchamp |
 | 1009 | 195 | ASL |
 | 1010 | 195 | Gage Tucker |
 | 1011 | 195 | James Maness |
