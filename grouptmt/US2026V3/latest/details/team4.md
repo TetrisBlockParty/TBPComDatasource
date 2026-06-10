@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:08:47 UTC
+# Standings for team4 as of 2026-06-10 13:09:22 UTC
 
 **Total Participants:** 2323
 
@@ -70,7 +70,7 @@
 | 62 | 2433 | Alexandria Frazier |
 | 63 | 2406 | Bryan DjMagnum Evans |
 | 64 | 2310 | Nick Graber |
-| 65 | 2269 | Jace McCullough |
+| 65 | 2279 | Jace McCullough |
 | 66 | 2255 | Elissa S-k |
 | 67 | 2243 | Adam J Leong |
 | 68 | 2131 | Michele Walker |
@@ -239,22 +239,22 @@
 | 231 | 637 | QueenLi86 |
 | 232 | 634 | Tyson Stroppel |
 | 233 | 633 | Kelly Howland |
-| 234 | 629 | Rebecca Watters |
-| 235 | 627 | Brick House |
-| 236 | 627 | Erika Seaton |
-| 237 | 627 | Matthew Hudson |
-| 238 | 618 | Iforget |
-| 239 | 616 | Renee Sapp |
-| 240 | 616 | Toon Up |
-| 241 | 615 | Logan Two-dubs Baker |
-| 242 | 614 | Jacqueline Jackii Ramos |
-| 243 | 613 | Big Dooka |
-| 244 | 607 | Taz |
-| 245 | 606 | Addi JayKay |
-| 246 | 602 | Spicy Chicken |
-| 247 | 600 | Tina Thomas |
-| 248 | 593 | Jeremy |
-| 249 | 593 | Vanessa Sykes |
+| 234 | 630 | Vanessa Sykes |
+| 235 | 629 | Rebecca Watters |
+| 236 | 627 | Brick House |
+| 237 | 627 | Erika Seaton |
+| 238 | 627 | Matthew Hudson |
+| 239 | 618 | Iforget |
+| 240 | 616 | Renee Sapp |
+| 241 | 616 | Toon Up |
+| 242 | 615 | Logan Two-dubs Baker |
+| 243 | 614 | Jacqueline Jackii Ramos |
+| 244 | 613 | Big Dooka |
+| 245 | 607 | Taz |
+| 246 | 606 | Addi JayKay |
+| 247 | 602 | Spicy Chicken |
+| 248 | 600 | Tina Thomas |
+| 249 | 593 | Jeremy |
 | 250 | 592 | Sarah Berry Stevens |
 | 251 | 589 | Celina DiBastiani |
 | 252 | 585 | Real Talk Vibes |
@@ -339,13 +339,13 @@
 | 331 | 453 | Dapper Strikerpiece |
 | 332 | 452 | Karen Miller |
 | 333 | 452 | Tanita Jobe |
-| 334 | 448 | Earl Edwards |
-| 335 | 445 | Poppy |
-| 336 | 445 | Brian Woods |
-| 337 | 444 | Funky Tiler |
-| 338 | 443 | Crissy Hoffman |
-| 339 | 440 | Brooke Bauer |
-| 340 | 439 | Jumpy Builderpiece |
+| 334 | 451 | Jumpy Builderpiece |
+| 335 | 448 | Earl Edwards |
+| 336 | 445 | Poppy |
+| 337 | 445 | Brian Woods |
+| 338 | 444 | Funky Tiler |
+| 339 | 443 | Crissy Hoffman |
+| 340 | 440 | Brooke Bauer |
 | 341 | 439 | Jeri Anne Stormo-Toman |
 | 342 | 436 | WeeWooWee |
 | 343 | 434 | Mark Fitch Jr. |
