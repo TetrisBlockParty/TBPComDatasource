@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:30:45 UTC
+# Standings for team1 as of 2026-06-10 11:31:24 UTC
 
 **Total Participants:** 2261
 
@@ -70,8 +70,8 @@
 | 62 | 1962 | Ceilo Marie |
 | 63 | 1945 | Chris Russell |
 | 64 | 1939 | Corey Cawthon |
-| 65 | 1932 | Louis Richard Jr |
-| 66 | 1923 | Moomoo |
+| 65 | 1933 | Moomoo |
+| 66 | 1932 | Louis Richard Jr |
 | 67 | 1876 | Todd C. Clemens |
 | 68 | 1870 | TAZ-MF-NIZIL |
 | 69 | 1869 | Jolly Dropzone |
@@ -376,14 +376,14 @@
 | 368 | 403 | NastyFriend |
 | 369 | 403 | Jackie Sanasay |
 | 370 | 402 | ♈️ Ariesbaby |
-| 371 | 400 | Denell Sims |
-| 372 | 398 | Hasty Glidezone |
-| 373 | 396 | Amber Wilson |
-| 374 | 396 | Bbyunicorn |
-| 375 | 396 | Nikki Hogan |
-| 376 | 395 | Maribel Vasquez |
-| 377 | 393 | Rayya Kiser |
-| 378 | 391 | Kelli Couture |
+| 371 | 401 | Kelli Couture |
+| 372 | 400 | Denell Sims |
+| 373 | 398 | Hasty Glidezone |
+| 374 | 396 | Amber Wilson |
+| 375 | 396 | Bbyunicorn |
+| 376 | 396 | Nikki Hogan |
+| 377 | 395 | Maribel Vasquez |
+| 378 | 393 | Rayya Kiser |
 | 379 | 391 | HarleyJane |
 | 380 | 390 | Jean Regis |
 | 381 | 387 | kitten |
@@ -474,34 +474,34 @@
 | 466 | 330 | Tracey Johnson |
 | 467 | 329 | Shelly Everette |
 | 468 | 328 | Jelyfish |
-| 469 | 326 | Nate Myers |
-| 470 | 324 | Giddy Staggerpiece |
-| 471 | 324 | Jai |
-| 472 | 324 | Melissa D. M. Hornsby |
-| 473 | 323 | Alyssa Rae |
-| 474 | 322 | Juan Alvarez |
-| 475 | 321 | Montego Allen |
-| 476 | 320 | Malcolm Stanley |
-| 477 | 320 | Shanns |
-| 478 | 319 | MACHETEEDDIE513 |
-| 479 | 319 | Nora Mahmoud |
-| 480 | 319 | Brittnay Wright |
-| 481 | 318 | Nerdy Snapfall |
-| 482 | 318 | Clint Mcdowell |
+| 469 | 327 | Brittnay Wright |
+| 470 | 326 | Nate Myers |
+| 471 | 324 | Giddy Staggerpiece |
+| 472 | 324 | Jai |
+| 473 | 324 | Melissa D. M. Hornsby |
+| 474 | 323 | Alyssa Rae |
+| 475 | 322 | Juan Alvarez |
+| 476 | 321 | Montego Allen |
+| 477 | 320 | Malcolm Stanley |
+| 478 | 320 | Shanns |
+| 479 | 319 | MACHETEEDDIE513 |
+| 480 | 319 | Nora Mahmoud |
+| 481 | 318 | Clint Mcdowell |
+| 482 | 318 | Nerdy Snapfall |
 | 483 | 315 | Alivia Dove |
 | 484 | 314 | Kristine Marie Palmer |
 | 485 | 314 | Tay |
-| 486 | 313 | Dizzy Dashy |
+| 486 | 313 | Breezy Catcher |
 | 487 | 313 | Bubbly Slammer |
-| 488 | 313 | Breezy Catcher |
+| 488 | 313 | Dizzy Dashy |
 | 489 | 312 | Sharee Robinson |
 | 490 | 312 | Slinky Snapbuilder |
 | 491 | 311 | FunTime |
 | 492 | 311 | Sarah Steckbauer |
-| 493 | 310 | Latore Maxie |
-| 494 | 310 | Christi Walker Patton |
-| 495 | 310 | Yadira Salgado |
-| 496 | 310 | EvaLynn NeCole |
+| 493 | 310 | EvaLynn NeCole |
+| 494 | 310 | Yadira Salgado |
+| 495 | 310 | Latore Maxie |
+| 496 | 310 | Christi Walker Patton |
 | 497 | 308 | Bold Clusterer |
 | 498 | 308 | Tonya Lee Sanders |
 | 499 | 308 | Darrel K Pemberton |
@@ -693,8 +693,8 @@
 | 685 | 224 | DeAngelo Sorrells |
 | 686 | 224 | Lively Wipeout |
 | 687 | 223 | Stephen Providenti |
-| 688 | 223 | Kp |
-| 689 | 222 | Analesia Taylor |
+| 688 | 223 | Analesia Taylor |
+| 689 | 223 | Kp |
 | 690 | 222 | Antoinette Kelly |
 | 691 | 222 | Krystal Maynard |
 | 692 | 222 | Silly Wiper |
