@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:58:45 UTC
+# Standings for team4 as of 2026-06-10 10:59:22 UTC
 
 **Total Participants:** 2310
 
@@ -134,11 +134,11 @@
 | 126 | 1087 | Tiffany Loree Tiffany Oneill |
 | 127 | 1078 | Suzanne North |
 | 128 | 1064 | Jesse Olive |
-| 129 | 1058 | CJ |
-| 130 | 1058 | Dandy Puzzler |
+| 129 | 1058 | Dandy Puzzler |
+| 130 | 1058 | CJ |
 | 131 | 1057 | Heather Preston |
-| 132 | 1046 | Irma |
-| 133 | 1046 | Hairy Snake |
+| 132 | 1046 | Hairy Snake |
+| 133 | 1046 | Irma |
 | 134 | 1042 | Futrell Brent |
 | 135 | 1029 | Chiquita Blue |
 | 136 | 1010 | Melissa WC |
@@ -152,8 +152,8 @@
 | 144 | 978 | Ermadette |
 | 145 | 970 | Gorica Prusina |
 | 146 | 966 | Whitborn |
-| 147 | 952 | Jessi Goodwin |
-| 148 | 952 | Alala.Cersei |
+| 147 | 952 | Alala.Cersei |
+| 148 | 952 | Jessi Goodwin |
 | 149 | 951 | Cranky Buildout |
 | 150 | 950 | Nicole Peoples |
 | 151 | 950 | Joyce Myers |
@@ -179,14 +179,14 @@
 | 171 | 832 | Lori Stembridge |
 | 172 | 830 | Kitsune Bi |
 | 173 | 825 | Thomasena Eady Reid |
-| 174 | 808 | Misty Leigh |
-| 175 | 808 | Christy Beezley-Forbush |
+| 174 | 808 | Christy Beezley-Forbush |
+| 175 | 808 | Misty Leigh |
 | 176 | 802 | Dandy Clearfit |
 | 177 | 801 | Izz |
 | 178 | 797 | Lynn Grimes |
 | 179 | 783 | Regina Williams |
-| 180 | 780 | CIRAZYPNOY |
-| 181 | 780 | Capone |
+| 180 | 780 | Capone |
+| 181 | 780 | CIRAZYPNOY |
 | 182 | 779 | Tiffany Brooke |
 | 183 | 764 | Shocinda Sherwood |
 | 184 | 762 | LastBoi |
@@ -198,8 +198,8 @@
 | 190 | 745 | Gracie Ornelas |
 | 191 | 740 | Baysoph |
 | 192 | 735 | Cinta Marie |
-| 193 | 728 | Bonnie Powell |
-| 194 | 728 | Roxana Romero |
+| 193 | 728 | Roxana Romero |
+| 194 | 728 | Bonnie Powell |
 | 195 | 728 | Neeta Kapadia |
 | 196 | 725 | iiPurgeV2 |
 | 197 | 723 | zoes |
@@ -211,8 +211,8 @@
 | 203 | 700 | Suzanne Carter |
 | 204 | 697 | Linda Miltenburg |
 | 205 | 686 | Jennifer Ellyn Sheets |
-| 206 | 684 | Shannon Rivera |
-| 207 | 684 | Caitlyn Wang |
+| 206 | 684 | Caitlyn Wang |
+| 207 | 684 | Shannon Rivera |
 | 208 | 683 | Malik Thompson |
 | 209 | 681 | Janet Sanfilippo Sullivan |
 | 210 | 678 | Katie Lynn Petit |
@@ -239,13 +239,13 @@
 | 231 | 621 | Matthew Hudson |
 | 232 | 620 | Saucy Wipepiece |
 | 233 | 618 | Iforget |
-| 234 | 616 | Renee Sapp |
-| 235 | 616 | Toon Up |
+| 234 | 616 | Toon Up |
+| 235 | 616 | Renee Sapp |
 | 236 | 614 | Logan Two-dubs Baker |
 | 237 | 614 | Jacqueline Jackii Ramos |
 | 238 | 613 | Big Dooka |
-| 239 | 607 | Taz |
-| 240 | 607 | Samara Garcia |
+| 239 | 607 | Samara Garcia |
+| 240 | 607 | Taz |
 | 241 | 606 | Jackie Miller |
 | 242 | 606 | Addi JayKay |
 | 243 | 602 | Spicy Chicken |
@@ -539,49 +539,49 @@
 | 531 | 286 | Dubiousdust |
 | 532 | 286 | King |
 | 533 | 285 | Karen Denise Ann Veitch |
-| 534 | 285 | Joab Gonzalez |
-| 535 | 285 | Christina Barry |
-| 536 | 285 | ariel |
-| 537 | 285 | gabs |
+| 534 | 285 | gabs |
+| 535 | 285 | Joab Gonzalez |
+| 536 | 285 | Christina Barry |
+| 537 | 285 | ariel |
 | 538 | 284 | Brandi Sauer |
-| 539 | 282 | sierrabeth |
-| 540 | 282 | Travis McKinnon |
+| 539 | 282 | Travis McKinnon |
+| 540 | 282 | sierrabeth |
 | 541 | 281 | Margie Thomas |
-| 542 | 280 | Snazzy Fitclear |
-| 543 | 280 | Giddy Basepiece |
-| 544 | 280 | Alice Eisnor-Martens |
-| 545 | 279 | JoAnn Summerlot Ratliff |
-| 546 | 279 | LandO |
-| 547 | 279 | Heidi Anne Scheiderer |
-| 548 | 279 | Krystal Dixon-Hahn |
-| 549 | 278 | Kandylands |
-| 550 | 277 | Deborah Silberg |
+| 542 | 280 | Alice Eisnor-Martens |
+| 543 | 280 | Deborah Ayliffe |
+| 544 | 280 | Giddy Basepiece |
+| 545 | 280 | Snazzy Fitclear |
+| 546 | 279 | Heidi Anne Scheiderer |
+| 547 | 279 | LandO |
+| 548 | 279 | JoAnn Summerlot Ratliff |
+| 549 | 279 | Krystal Dixon-Hahn |
+| 550 | 278 | Kandylands |
 | 551 | 277 | CrashOutCarla |
-| 552 | 276 | Susan Stofberg Beltran |
-| 553 | 274 | shonaberry |
+| 552 | 277 | Deborah Silberg |
+| 553 | 276 | Susan Stofberg Beltran |
 | 554 | 274 | REPENT |
-| 555 | 273 | Anthony Edwards |
-| 556 | 273 | Rita Ann |
+| 555 | 274 | shonaberry |
+| 556 | 273 | Anthony Edwards |
 | 557 | 273 | Kierra Evans |
-| 558 | 273 | Sally Hiraldo |
-| 559 | 272 | Sharon Tyler |
-| 560 | 271 | Deborah Ayliffe |
+| 558 | 273 | Rita Ann |
+| 559 | 273 | Sally Hiraldo |
+| 560 | 272 | Sharon Tyler |
 | 561 | 271 | EpicWizard |
-| 562 | 271 | Leasa Marie |
-| 563 | 271 | crobb77 |
+| 562 | 271 | crobb77 |
+| 563 | 271 | Leasa Marie |
 | 564 | 270 | Joshua Garner |
 | 565 | 270 | Lisa Pie |
 | 566 | 270 | Alexia Boston |
 | 567 | 269 | Dominique Summers Tah-tah |
 | 568 | 269 | Montes Ash |
 | 569 | 269 | Playa |
-| 570 | 268 | Andreas Vs Shinky |
-| 571 | 268 | Kendall Rhodie |
+| 570 | 268 | Kendall Rhodie |
+| 571 | 268 | Andreas Vs Shinky |
 | 572 | 267 | Alyssa Berg |
 | 573 | 267 | Jennifer Evans Elliott |
 | 574 | 267 | Jeremy Barry |
-| 575 | 267 | Butterfly |
-| 576 | 267 | Dolores Falco |
+| 575 | 267 | Dolores Falco |
+| 576 | 267 | Butterfly |
 | 577 | 267 | Swanky Snapgrid |
 | 578 | 266 | Andrea Dre Lomeli |
 | 579 | 266 | Stacy G |
