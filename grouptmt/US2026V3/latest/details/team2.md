@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 13:52:43 UTC
+# Standings for team2 as of 2026-06-10 13:53:24 UTC
 
 **Total Participants:** 2753
 
@@ -26,7 +26,7 @@
 | 18 | 8335 | Bea Bee |
 | 19 | 8172 | Mellzey |
 | 20 | 8086 | Tom Badgley |
-| 21 | 7890 | Andre Love |
+| 21 | 7900 | Andre Love |
 | 22 | 7563 | Maggie McFarland |
 | 23 | 7549 | Renee Weedling |
 | 24 | 7548 | Kathleen M Cox |
@@ -550,27 +550,27 @@
 | 542 | 358 | David Skelton |
 | 543 | 358 | Kimmi Blake |
 | 544 | 357 | Eric Wayne Maschman |
-| 545 | 357 | Ava Speedy |
-| 546 | 356 | Jill Goff |
-| 547 | 356 | straighttiptoe |
-| 548 | 355 | Brandi Christensen-Henley |
-| 549 | 355 | TNGal |
+| 545 | 357 | TNGal |
+| 546 | 357 | Ava Speedy |
+| 547 | 356 | Jill Goff |
+| 548 | 356 | straighttiptoe |
+| 549 | 355 | Brandi Christensen-Henley |
 | 550 | 354 | Baby |
-| 551 | 351 | Jim Wright |
-| 552 | 351 | Tamara Whiteley |
-| 553 | 351 | Ashley Voelz |
+| 551 | 351 | Ashley Voelz |
+| 552 | 351 | Jim Wright |
+| 553 | 351 | Tamara Whiteley |
 | 554 | 351 | Patria Osuoha |
 | 555 | 350 | Robin Lamb |
-| 556 | 350 | Margie Ann Naffziger |
-| 557 | 350 | Brandi Vandevanter-Duke |
+| 556 | 350 | Brandi Vandevanter-Duke |
+| 557 | 350 | Margie Ann Naffziger |
 | 558 | 349 | Lively Curve |
-| 559 | 349 | Sarah Grundisch |
-| 560 | 349 | Mandeee |
+| 559 | 349 | Mandeee |
+| 560 | 349 | Sarah Grundisch |
 | 561 | 348 | Wendy McKee |
 | 562 | 348 | Sassy Swiper |
 | 563 | 347 | Wendy Spoor Hof |
-| 564 | 347 | Cherica Taylor |
-| 565 | 347 | Mouh Ity |
+| 564 | 347 | Mouh Ity |
+| 565 | 347 | Cherica Taylor |
 | 566 | 346 | TetrisMama |
 | 567 | 346 | Carolyn McNaughton |
 | 568 | 346 | Kendra Sizemore |
@@ -586,8 +586,8 @@
 | 578 | 336 | Frisky Twist |
 | 579 | 335 | Brittany Mathis |
 | 580 | 335 | Giddy Chiseler |
-| 581 | 335 | Teddy Williams |
-| 582 | 335 | Holly Huval |
+| 581 | 335 | Holly Huval |
+| 582 | 335 | Teddy Williams |
 | 583 | 335 | Dapper Riser |
 | 584 | 333 | Nano. |
 | 585 | 333 | Lisa Allen Frisk |
@@ -619,8 +619,8 @@
 | 611 | 314 | Shannon Curry Riggle |
 | 612 | 314 | Hyper Striker |
 | 613 | 314 | Peter Fogg |
-| 614 | 314 | Hector |
-| 615 | 314 | Tracey Cox |
+| 614 | 314 | Tracey Cox |
+| 615 | 314 | Hector |
 | 616 | 313 | Josephina |
 | 617 | 312 | whocares |
 | 618 | 312 | Riggins Terry |
@@ -634,8 +634,8 @@
 | 626 | 307 | Tracy Lee |
 | 627 | 307 | Donutz |
 | 628 | 307 | Bonita Alexander |
-| 629 | 306 | Sassy Patternblock |
-| 630 | 306 | Sara BlueEyes |
+| 629 | 306 | Sara BlueEyes |
+| 630 | 306 | Sassy Patternblock |
 | 631 | 305 | Spencer Ryder |
 | 632 | 305 | Vicke Patterson |
 | 633 | 304 | Joannah Capilitan |
@@ -986,40 +986,40 @@
 | 978 | 192 | Alicia Parrish |
 | 979 | 191 | Distro |
 | 980 | 191 | Tamtam |
-| 981 | 191 | Bouncy Cluster |
-| 982 | 191 | Witty Riser |
-| 983 | 190 | Amy Lea Hamilton |
-| 984 | 190 | Silly square |
-| 985 | 190 | Natalie M. Arredondo |
-| 986 | 190 | Patti Ward |
-| 987 | 190 | Kayley |
-| 988 | 190 | Jolly Brickroll |
-| 989 | 190 | Hansent3 |
-| 990 | 190 | Brittany Paul |
+| 981 | 191 | Hansent3 |
+| 982 | 191 | Bouncy Cluster |
+| 983 | 191 | Witty Riser |
+| 984 | 190 | Amy Lea Hamilton |
+| 985 | 190 | Silly square |
+| 986 | 190 | Natalie M. Arredondo |
+| 987 | 190 | Patti Ward |
+| 988 | 190 | Kayley |
+| 989 | 190 | Jolly Brickroll |
+| 990 | 190 | gene15 |
 | 991 | 190 | Shakey Bakey |
-| 992 | 190 | gene15 |
+| 992 | 190 | Brittany Paul |
 | 993 | 189 | Poppy Strikerbuilder |
 | 994 | 189 | Marla Paden |
 | 995 | 189 | Audrey Bickford |
 | 996 | 189 | Kristi K Milner |
 | 997 | 189 | Melissa Abbott |
 | 998 | 189 | Goofy Patternfit |
-| 999 | 188 | Derrick |
-| 1000 | 188 | Ceci |
-| 1001 | 188 | Nikki Layman |
-| 1002 | 187 | Elizabeth Kline |
-| 1003 | 187 | Abby |
-| 1004 | 187 | Hog Crankin |
+| 999 | 188 | Ceci |
+| 1000 | 188 | Nikki Layman |
+| 1001 | 188 | Derrick |
+| 1002 | 187 | Abby |
+| 1003 | 187 | Hog Crankin |
+| 1004 | 187 | Elizabeth Kline |
 | 1005 | 187 | Sara Dunn |
 | 1006 | 186 | Rhonda Driskill |
 | 1007 | 186 | Terie Safrit |
 | 1008 | 186 | Tina Carr |
-| 1009 | 186 | Jessica Veness-Toth |
-| 1010 | 186 | Mandy Smart |
-| 1011 | 185 | Samantha Smith |
+| 1009 | 186 | Mandy Smart |
+| 1010 | 186 | Jessica Veness-Toth |
+| 1011 | 185 | Carlee Becher |
 | 1012 | 185 | Vicki Flippo |
-| 1013 | 185 | April Elaine Messenger |
-| 1014 | 185 | Carlee Becher |
+| 1013 | 185 | Samantha Smith |
+| 1014 | 185 | April Elaine Messenger |
 | 1015 | 185 | Squared |
 | 1016 | 185 | Clever Linkbuilder |
 | 1017 | 184 | Bennie Farbo |
@@ -1031,8 +1031,8 @@
 | 1023 | 183 | Danid |
 | 1024 | 183 | Reggie Ellerbe |
 | 1025 | 183 | Joshua Hopkins |
-| 1026 | 182 | Audrey 'Spence' Hallmark |
-| 1027 | 182 | Steve Eakins |
+| 1026 | 182 | Steve Eakins |
+| 1027 | 182 | Audrey 'Spence' Hallmark |
 | 1028 | 182 | Stacy Hoffman |
 | 1029 | 181 | Boldy Swipe |
 | 1030 | 181 | Evelyn Confer |

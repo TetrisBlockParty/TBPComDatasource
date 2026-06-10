@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:52:43 UTC
+# Standings for team4 as of 2026-06-10 13:53:24 UTC
 
 **Total Participants:** 2326
 
@@ -110,11 +110,11 @@
 | 102 | 1338 | Gloria Nunley Trussell |
 | 103 | 1286 | HurkleDurkle88 |
 | 104 | 1285 | Kelly Bernard |
-| 105 | 1273 | MysticMaven |
-| 106 | 1267 | GeorgeButts |
-| 107 | 1264 | Snippy Grid |
-| 108 | 1259 | Snappy Fitzone |
-| 109 | 1256 | Fancy Crasher |
+| 105 | 1276 | Fancy Crasher |
+| 106 | 1273 | MysticMaven |
+| 107 | 1267 | GeorgeButts |
+| 108 | 1264 | Snippy Grid |
+| 109 | 1259 | Snappy Fitzone |
 | 110 | 1253 | Hannah Pazar |
 | 111 | 1227 | shawna |
 | 112 | 1211 | Dana Fontanez |
@@ -1278,10 +1278,10 @@
 | 1270 | 98 | katy |
 | 1271 | 98 | Melissa Rathbun |
 | 1272 | 98 | Teresa Lescinskas |
-| 1273 | 98 | SweetMomma |
-| 1274 | 98 | Chelsea Leigh Busch |
-| 1275 | 97 | Skylar Durk |
-| 1276 | 97 | Crystal M. Torres |
+| 1273 | 98 | Crystal M. Torres |
+| 1274 | 98 | SweetMomma |
+| 1275 | 98 | Chelsea Leigh Busch |
+| 1276 | 97 | Skylar Durk |
 | 1277 | 97 | Mike Artis |
 | 1278 | 97 | NotAkaren Barker |
 | 1279 | 97 | Danielle Porter |
