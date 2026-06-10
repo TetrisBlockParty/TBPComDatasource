@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 20:28:46 UTC
+# Standings for team2 as of 2026-06-10 20:29:25 UTC
 
 **Total Participants:** 2811
 
@@ -845,12 +845,12 @@
 | 837 | 244 | Lindsey Davidson |
 | 838 | 244 | Giggy Dropzone |
 | 839 | 243 | Coleta Singleton-Gallishaw |
-| 840 | 243 | Nichole Fuller |
-| 841 | 243 | Stephanie Smith Robinson |
-| 842 | 243 | Laura Anderson |
-| 843 | 243 | Jessi Ann |
-| 844 | 242 | Cheeky Cornerfall |
-| 845 | 242 | sampson |
+| 840 | 243 | sampson |
+| 841 | 243 | Nichole Fuller |
+| 842 | 243 | Stephanie Smith Robinson |
+| 843 | 243 | Laura Anderson |
+| 844 | 243 | Jessi Ann |
+| 845 | 242 | Cheeky Cornerfall |
 | 846 | 242 | Dame Smith |
 | 847 | 242 | Damion Morrison |
 | 848 | 242 | Natalie M. Arredondo |
@@ -1114,23 +1114,23 @@
 | 1106 | 177 | Shelby Lynn May |
 | 1107 | 177 | Nicole Treadway |
 | 1108 | 177 | Teea Makensi Meyer |
-| 1109 | 176 | Peppy Piececlear |
-| 1110 | 176 | Sara Moericke |
-| 1111 | 176 | Kennadee Albertson |
-| 1112 | 176 | Kimberley Marie |
-| 1113 | 176 | Jessica Gayle Sears |
-| 1114 | 176 | Beth Engberg |
-| 1115 | 176 | Erin Winberry |
-| 1116 | 175 | Kiersty Redder |
-| 1117 | 175 | Sara Karels |
-| 1118 | 175 | Jessica Spivey Cooper |
-| 1119 | 175 | James Moore |
-| 1120 | 174 | Jenny |
-| 1121 | 174 | Pamela Gambrell |
-| 1122 | 174 | Kelly Christine Trimmer |
-| 1123 | 174 | Seamus |
-| 1124 | 174 | Giggly Spinblock |
-| 1125 | 173 | bozzycat |
+| 1109 | 176 | bozzycat |
+| 1110 | 176 | Peppy Piececlear |
+| 1111 | 176 | Sara Moericke |
+| 1112 | 176 | Kennadee Albertson |
+| 1113 | 176 | Kimberley Marie |
+| 1114 | 176 | Jessica Gayle Sears |
+| 1115 | 176 | Beth Engberg |
+| 1116 | 176 | Erin Winberry |
+| 1117 | 175 | Kiersty Redder |
+| 1118 | 175 | Sara Karels |
+| 1119 | 175 | Jessica Spivey Cooper |
+| 1120 | 175 | James Moore |
+| 1121 | 174 | Jenny |
+| 1122 | 174 | Pamela Gambrell |
+| 1123 | 174 | Kelly Christine Trimmer |
+| 1124 | 174 | Seamus |
+| 1125 | 174 | Giggly Spinblock |
 | 1126 | 173 | Louis Brudzinski |
 | 1127 | 173 | Tami Weiss |
 | 1128 | 172 | Shannon Vanlester |
@@ -1701,102 +1701,102 @@
 | 1693 | 84 | Darla |
 | 1694 | 84 | Tiffany Heether |
 | 1695 | 83 | Amy Hahn Nickels |
-| 1696 | 83 | Collins |
-| 1697 | 83 | RalphyD |
-| 1698 | 83 | April Appleton |
+| 1696 | 83 | April Appleton |
+| 1697 | 83 | Collins |
+| 1698 | 83 | RalphyD |
 | 1699 | 83 | Jodee Woods |
 | 1700 | 83 | G Yolany Andramos |
-| 1701 | 82 | Shelby Woo |
-| 1702 | 82 | Britters |
-| 1703 | 82 | Tipsy Tower |
-| 1704 | 82 | Jessica LeNeave |
-| 1705 | 82 | Amanda Nash |
-| 1706 | 82 | uglyvillager |
-| 1707 | 82 | John Rosales |
-| 1708 | 81 | Bouncy Stagger |
-| 1709 | 81 | Plucky Linkmatch |
-| 1710 | 81 | Groovy Mover |
-| 1711 | 81 | Disguised Duck |
-| 1712 | 81 | YUKITATA |
+| 1701 | 82 | Amanda Nash |
+| 1702 | 82 | Shelby Woo |
+| 1703 | 82 | uglyvillager |
+| 1704 | 82 | Tipsy Tower |
+| 1705 | 82 | Britters |
+| 1706 | 82 | John Rosales |
+| 1707 | 82 | Jessica LeNeave |
+| 1708 | 81 | Groovy Mover |
+| 1709 | 81 | Bouncy Stagger |
+| 1710 | 81 | Plucky Linkmatch |
+| 1711 | 81 | YUKITATA |
+| 1712 | 81 | Disguised Duck |
 | 1713 | 81 | Bobbie Carrol |
-| 1714 | 81 | Moeshia Turner |
-| 1715 | 81 | Frisky Snapper |
-| 1716 | 81 | Kathryn N Heather Todd |
-| 1717 | 81 | Witty Linkfall |
-| 1718 | 81 | Jazzy Cornerfall |
-| 1719 | 81 | Octavia Jus Mae Hill |
+| 1714 | 81 | Frisky Snapper |
+| 1715 | 81 | Octavia Jus Mae Hill |
+| 1716 | 81 | Moeshia Turner |
+| 1717 | 81 | Jazzy Cornerfall |
+| 1718 | 81 | Kathryn N Heather Todd |
+| 1719 | 81 | Witty Linkfall |
 | 1720 | 81 | YldBoar |
 | 1721 | 80 | Rosie |
 | 1722 | 80 | Dapper Pivotfall |
-| 1723 | 80 | Torb |
-| 1724 | 80 | Michael Quinones |
-| 1725 | 80 | Tessa Kalili |
-| 1726 | 80 | Ally Miller |
-| 1727 | 80 | Tipsy Splitter |
-| 1728 | 80 | Karen Pearson-Wilson |
-| 1729 | 80 | Javyjavz |
-| 1730 | 80 | John C Morrison |
-| 1731 | 80 | Ramon James |
-| 1732 | 80 | Betty Johnson |
-| 1733 | 79 | Taran Evans |
-| 1734 | 79 | Nickishan Richrds |
-| 1735 | 79 | Zesty Gridlock |
-| 1736 | 79 | Jade007 |
-| 1737 | 79 | Amber Marie Lacey |
-| 1738 | 79 | Elle |
-| 1739 | 79 | LaicoosBargains Ln |
-| 1740 | 79 | Michelle Naujalis |
-| 1741 | 79 | Sandra Betz |
+| 1723 | 80 | Tipsy Splitter |
+| 1724 | 80 | Betty Johnson |
+| 1725 | 80 | Ramon James |
+| 1726 | 80 | Michael Quinones |
+| 1727 | 80 | Torb |
+| 1728 | 80 | John C Morrison |
+| 1729 | 80 | Tessa Kalili |
+| 1730 | 80 | Ally Miller |
+| 1731 | 80 | Javyjavz |
+| 1732 | 80 | Karen Pearson-Wilson |
+| 1733 | 79 | Zesty Gridlock |
+| 1734 | 79 | Taran Evans |
+| 1735 | 79 | Nickishan Richrds |
+| 1736 | 79 | Amber Marie Lacey |
+| 1737 | 79 | Jade007 |
+| 1738 | 79 | LaicoosBargains Ln |
+| 1739 | 79 | Michelle Naujalis |
+| 1740 | 79 | Sandra Betz |
+| 1741 | 79 | Elle |
 | 1742 | 79 | Peachy Piecebuilder |
-| 1743 | 78 | Lively Shatter |
-| 1744 | 78 | Dixie Wilson |
-| 1745 | 78 | Elise Marie Mireles |
-| 1746 | 78 | Shawn Bossuot |
-| 1747 | 78 | Casey Hendricks |
-| 1748 | 78 | Chipper Spinzone |
-| 1749 | 78 | lojo |
-| 1750 | 78 | Steven Palmer |
-| 1751 | 78 | Karen Moore |
-| 1752 | 78 | Giggly Dashy |
-| 1753 | 77 | 3RD LEG |
-| 1754 | 77 | Cheeky Snapline |
-| 1755 | 77 | Fran Gerebics |
-| 1756 | 76 | Happy Riseclear |
-| 1757 | 76 | Ali |
-| 1758 | 76 | Amanda Pilcher |
+| 1743 | 78 | Chipper Spinzone |
+| 1744 | 78 | Steven Palmer |
+| 1745 | 78 | Christina Ackley |
+| 1746 | 78 | Lively Shatter |
+| 1747 | 78 | Dixie Wilson |
+| 1748 | 78 | Elise Marie Mireles |
+| 1749 | 78 | Shawn Bossuot |
+| 1750 | 78 | lojo |
+| 1751 | 78 | Casey Hendricks |
+| 1752 | 78 | Karen Moore |
+| 1753 | 78 | Giggly Dashy |
+| 1754 | 77 | 3RD LEG |
+| 1755 | 77 | Cheeky Snapline |
+| 1756 | 77 | Fran Gerebics |
+| 1757 | 76 | Happy Riseclear |
+| 1758 | 76 | Mick Loving |
 | 1759 | 76 | Joe Dirilo |
-| 1760 | 76 | Mick Loving |
+| 1760 | 76 | Ali |
 | 1761 | 76 | Silly Shatter |
 | 1762 | 76 | Mary Cook |
-| 1763 | 75 | Hodges |
+| 1763 | 76 | Amanda Pilcher |
 | 1764 | 75 | Catherine Whitt Gaddy |
-| 1765 | 75 | Jackie Hayslip |
-| 1766 | 74 | Mary |
-| 1767 | 74 | Amber Myers |
-| 1768 | 74 | Katie Magner |
-| 1769 | 74 | Loony Shatter |
-| 1770 | 74 | Kyle |
-| 1771 | 74 | Lori Antrim Nichols |
-| 1772 | 74 | Dawn Burzee |
-| 1773 | 74 | Epic Glide |
-| 1774 | 74 | Kacey Bates |
-| 1775 | 73 | Zippy Wobbler |
-| 1776 | 73 | vsavage |
-| 1777 | 73 | Quirky Slammer |
+| 1765 | 75 | Hodges |
+| 1766 | 75 | Jackie Hayslip |
+| 1767 | 74 | Mary |
+| 1768 | 74 | Amber Myers |
+| 1769 | 74 | Lori Antrim Nichols |
+| 1770 | 74 | Katie Magner |
+| 1771 | 74 | Loony Shatter |
+| 1772 | 74 | Kyle |
+| 1773 | 74 | Kacey Bates |
+| 1774 | 74 | Epic Glide |
+| 1775 | 74 | Dawn Burzee |
+| 1776 | 73 | Zippy Wobbler |
+| 1777 | 73 | lion king |
 | 1778 | 73 | Jenica Davis |
-| 1779 | 73 | lion king |
-| 1780 | 73 | Christina Ackley |
+| 1779 | 73 | vsavage |
+| 1780 | 73 | Quirky Slammer |
 | 1781 | 73 | Elodie Deveyer |
 | 1782 | 73 | Sunny Spinzone |
 | 1783 | 73 | giggly gal |
 | 1784 | 72 | Suszi |
-| 1785 | 72 | Nicole Dyer |
-| 1786 | 72 | Stacy Lynn |
+| 1785 | 72 | Stacy Lynn |
+| 1786 | 72 | Nicole Dyer |
 | 1787 | 72 | Mindy Corriher |
-| 1788 | 71 | Chey |
-| 1789 | 71 | lols |
-| 1790 | 71 | Matthew Hanson |
-| 1791 | 71 | David Bright |
+| 1788 | 71 | David Bright |
+| 1789 | 71 | Chey |
+| 1790 | 71 | lols |
+| 1791 | 71 | Matthew Hanson |
 | 1792 | 71 | Nicole Immoos |
 | 1793 | 71 | Angela Anderson |
 | 1794 | 71 | Brittany Nichole Ellenburg |
@@ -1806,25 +1806,25 @@
 | 1798 | 70 | Brittany Kay |
 | 1799 | 70 | Silly Twister |
 | 1800 | 70 | Donna Casey |
-| 1801 | 70 | Michelle |
-| 1802 | 70 | Anna |
-| 1803 | 70 | wolfie |
-| 1804 | 70 | Angi Carter |
+| 1801 | 70 | Samantha Rhone |
+| 1802 | 70 | wolfie |
+| 1803 | 70 | Anna |
+| 1804 | 70 | Swanky Builderline |
 | 1805 | 70 | April Owings |
-| 1806 | 70 | Swanky Builderline |
-| 1807 | 70 | Rachelle Parker |
+| 1806 | 70 | Rachelle Parker |
+| 1807 | 70 | Michelle |
 | 1808 | 70 | Jay Theriault |
-| 1809 | 70 | Samantha Rhone |
+| 1809 | 70 | Angi Carter |
 | 1810 | 70 | Taderbug |
-| 1811 | 70 | Brave Curver |
+| 1811 | 70 | Jenn Wittkamp |
 | 1812 | 70 | Barbara Fields |
-| 1813 | 70 | Jenn Wittkamp |
+| 1813 | 70 | Brave Curver |
 | 1814 | 70 | FinnsDad |
 | 1815 | 69 | Shanna Jones Scott |
 | 1816 | 69 | Nonnie |
 | 1817 | 69 | Victoria Hogan McCreedy |
-| 1818 | 69 | Lisa Amick |
-| 1819 | 69 | Mandy Anderson |
+| 1818 | 69 | Mandy Anderson |
+| 1819 | 69 | Lisa Amick |
 | 1820 | 69 | Alexis Turner |
 | 1821 | 69 | Lexi Olsen |
 | 1822 | 69 | Lazy Zoner |
