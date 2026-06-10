@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:34:47 UTC
+# Standings for team1 as of 2026-06-10 15:35:23 UTC
 
 **Total Participants:** 2289
 
@@ -181,12 +181,12 @@
 | 173 | 834 | GrkGdess |
 | 174 | 833 | Rackemwillie34 |
 | 175 | 830 | Keke Ferguson |
-| 176 | 829 | Shontanese Adams |
-| 177 | 829 | Karebear |
+| 176 | 829 | Karebear |
+| 177 | 829 | Shontanese Adams |
 | 178 | 829 | Novaa |
-| 179 | 827 | Ty Øtg |
-| 180 | 826 | Gael Quintana |
-| 181 | 825 | Dandy Brickfit |
+| 179 | 827 | Dandy Brickfit |
+| 180 | 827 | Ty Øtg |
+| 181 | 826 | Gael Quintana |
 | 182 | 822 | LaSharmeika Fancher |
 | 183 | 821 | Chuck Quarles |
 | 184 | 819 | xXEKUNXx |
@@ -271,9 +271,9 @@
 | 263 | 574 | DaVonte' Cretter |
 | 264 | 572 | Frisky Fall |
 | 265 | 571 | Cheeky Pop |
-| 266 | 570 | Tessa Felice Hill |
-| 267 | 569 | Hailey Hil |
-| 268 | 565 | IThinkNot |
+| 266 | 570 | IThinkNot |
+| 267 | 570 | Tessa Felice Hill |
+| 268 | 569 | Hailey Hil |
 | 269 | 565 | DellaLucretia Thomas |
 | 270 | 558 | Joey Albright |
 | 271 | 557 | Tamara Johnson-Carter |
@@ -510,9 +510,9 @@
 | 502 | 319 | Ciera Peace |
 | 503 | 318 | Latore Maxie |
 | 504 | 318 | Nerdy Snapfall |
-| 505 | 314 | Tay |
-| 506 | 313 | Breezy Catcher |
-| 507 | 313 | Angela Brown Babin |
+| 505 | 315 | Angela Brown Babin |
+| 506 | 314 | Tay |
+| 507 | 313 | Breezy Catcher |
 | 508 | 313 | Dizzy Dashy |
 | 509 | 313 | Bubbly Slammer |
 | 510 | 312 | Comedian Gdane |
@@ -698,51 +698,51 @@
 | 690 | 233 | Claudia Price |
 | 691 | 233 | Bella |
 | 692 | 232 | Karen Knapp |
-| 693 | 231 | Tyiesha Pie Farmer |
-| 694 | 231 | toxictonic92 |
-| 695 | 230 | Jessica Kirby |
-| 696 | 230 | Cranky Fall |
-| 697 | 230 | Adrian Wilson |
-| 698 | 230 | Poyre Shelton |
-| 699 | 229 | Lucille Wilson Davis |
+| 693 | 231 | Lynn |
+| 694 | 231 | Tyiesha Pie Farmer |
+| 695 | 231 | toxictonic92 |
+| 696 | 230 | Jessica Kirby |
+| 697 | 230 | Cranky Fall |
+| 698 | 230 | Adrian Wilson |
+| 699 | 230 | Poyre Shelton |
 | 700 | 229 | messyboots |
-| 701 | 229 | Kike Lua |
-| 702 | 228 | Spicy Shatterblock |
+| 701 | 229 | Lucille Wilson Davis |
+| 702 | 229 | Kike Lua |
 | 703 | 228 | Kp |
-| 704 | 227 | Kimberly Susan Privette |
+| 704 | 228 | Spicy Shatterblock |
 | 705 | 227 | Lootch |
 | 706 | 227 | Christina Singleton |
-| 707 | 226 | Shameka Tiffany |
+| 707 | 227 | Kimberly Susan Privette |
 | 708 | 226 | Rayshawn Cohen |
-| 709 | 226 | Rosalind Chatman |
-| 710 | 226 | Kahliah Baker |
-| 711 | 226 | Londa Londa |
-| 712 | 226 | Erica Campbell-Stillings |
-| 713 | 225 | Lynn |
-| 714 | 225 | Sherri Keys |
-| 715 | 225 | Sarah Swietlicki - Lopez |
-| 716 | 225 | Joseph Vs Cap |
-| 717 | 224 | Lively Wipeout |
-| 718 | 224 | Miera Nicole |
-| 719 | 224 | DeAngelo Sorrells |
-| 720 | 224 | MELLZZtick€T |
-| 721 | 224 | Ysma Simmons |
-| 722 | 224 | Joka NoTime ForHataz |
+| 709 | 226 | Kahliah Baker |
+| 710 | 226 | Shameka Tiffany |
+| 711 | 226 | Erica Campbell-Stillings |
+| 712 | 226 | Rosalind Chatman |
+| 713 | 226 | Londa Londa |
+| 714 | 225 | Sarah Swietlicki - Lopez |
+| 715 | 225 | Joseph Vs Cap |
+| 716 | 225 | Sherri Keys |
+| 717 | 224 | Ysma Simmons |
+| 718 | 224 | Joka NoTime ForHataz |
+| 719 | 224 | Miera Nicole |
+| 720 | 224 | DeAngelo Sorrells |
+| 721 | 224 | Lively Wipeout |
+| 722 | 224 | MELLZZtick€T |
 | 723 | 223 | Stephen Providenti |
 | 724 | 223 | Analesia Taylor |
-| 725 | 222 | Krystal Maynard |
+| 725 | 222 | Big Bovice |
 | 726 | 222 | Antoinette Kelly |
-| 727 | 222 | Big Bovice |
+| 727 | 222 | Krystal Maynard |
 | 728 | 221 | Shalena Marie Humphrey |
 | 729 | 221 | Jimmy Shannon |
-| 730 | 220 | jeremy92 |
-| 731 | 220 | Leavon Smith |
-| 732 | 220 | Tushama Cheris Okraku |
-| 733 | 219 | Mario Meliodas |
+| 730 | 220 | Leavon Smith |
+| 731 | 220 | Tushama Cheris Okraku |
+| 732 | 220 | jeremy92 |
+| 733 | 219 | TY Newme Batts |
 | 734 | 219 | Cynda Cyn |
-| 735 | 219 | TY Newme Batts |
-| 736 | 219 | Jason Saputo |
-| 737 | 219 | Jackytrain52 |
+| 735 | 219 | Jason Saputo |
+| 736 | 219 | Jackytrain52 |
+| 737 | 219 | Mario Meliodas |
 | 738 | 218 | Stanley Dixon |
 | 739 | 218 | Tee Spinks |
 | 740 | 218 | Victoria Smith |
@@ -1868,101 +1868,101 @@
 | 1860 | 26 | Layla Williams |
 | 1861 | 26 | MoodieKat |
 | 1862 | 26 | Dee-Dee Stewart |
-| 1863 | 26 | Marla |
-| 1864 | 26 | Lush Risebuilder |
-| 1865 | 26 | Konkrete Pop |
+| 1863 | 26 | Konkrete Pop |
+| 1864 | 26 | jae |
+| 1865 | 26 | Jolly Zoner |
 | 1866 | 26 | Chevonne Huggins |
-| 1867 | 26 | jae |
-| 1868 | 26 | Jolly Zoner |
-| 1869 | 25 | Anthony |
-| 1870 | 25 | RossA |
-| 1871 | 25 | Epic Puzzle |
+| 1867 | 26 | Marla |
+| 1868 | 26 | Lush Risebuilder |
+| 1869 | 25 | Charlean Sims |
+| 1870 | 25 | Epic Puzzle |
+| 1871 | 25 | Ladii Ree |
 | 1872 | 25 | PuddenPop |
-| 1873 | 25 | Charlean Sims |
-| 1874 | 25 | Jashana Thomas |
-| 1875 | 25 | Ladii Ree |
-| 1876 | 25 | Boldy Slammer |
-| 1877 | 25 | Susie Miranda |
-| 1878 | 25 | Em Purvis |
-| 1879 | 25 | Yolo |
-| 1880 | 25 | pettymexoxo |
+| 1873 | 25 | Boldy Slammer |
+| 1874 | 25 | Anthony |
+| 1875 | 25 | Em Purvis |
+| 1876 | 25 | Susie Miranda |
+| 1877 | 25 | Yolo |
+| 1878 | 25 | pettymexoxo |
+| 1879 | 25 | Jashana Thomas |
+| 1880 | 25 | RossA |
 | 1881 | 25 | Terrance Jenkins |
-| 1882 | 25 | PennyCandee |
-| 1883 | 25 | Arjuna Taylor |
-| 1884 | 24 | Antoinette AugustusJones III |
-| 1885 | 24 | Cheeky Wipegrid |
-| 1886 | 24 | Kara |
-| 1887 | 24 | Snazzy Shatterbuilder |
-| 1888 | 24 | Stacy Higginbotham |
-| 1889 | 24 | Crystal Segura |
-| 1890 | 24 | Null Kim |
+| 1882 | 25 | Arjuna Taylor |
+| 1883 | 25 | PennyCandee |
+| 1884 | 24 | Null Kim |
+| 1885 | 24 | Crystal Segura |
+| 1886 | 24 | Snazzy Shatterbuilder |
+| 1887 | 24 | Antoinette AugustusJones III |
+| 1888 | 24 | Kara |
+| 1889 | 24 | Stacy Higginbotham |
+| 1890 | 24 | Cheeky Wipegrid |
 | 1891 | 24 | Jazzy lady |
 | 1892 | 24 | David Sk Vaughan Jr. |
 | 1893 | 24 | BuddyLove37 |
 | 1894 | 24 | Jaricar_21 |
 | 1895 | 24 | Elizabeth Castro |
 | 1896 | 24 | H Hr De Gfe |
-| 1897 | 23 | Valerina Robinson |
-| 1898 | 23 | Jamie Lea Popp |
+| 1897 | 23 | Jamie Lea Popp |
+| 1898 | 23 | Valerina Robinson |
 | 1899 | 23 | Tabitha Dupre-Allen |
 | 1900 | 23 | GLO510 |
 | 1901 | 23 | Flashy Buildgrid |
 | 1902 | 23 | Saundy |
-| 1903 | 23 | Nicolej |
-| 1904 | 23 | Shiny Zonebuilder |
-| 1905 | 23 | Brave Combofall |
-| 1906 | 23 | Nika TaurustotheBone Turner |
-| 1907 | 23 | Dani Marie |
+| 1903 | 23 | Dani Marie |
+| 1904 | 23 | Nicolej |
+| 1905 | 23 | Shiny Zonebuilder |
+| 1906 | 23 | Brave Combofall |
+| 1907 | 23 | Nika TaurustotheBone Turner |
 | 1908 | 23 | Cherika Wright |
 | 1909 | 23 | Milfchaser530 |
 | 1910 | 23 | Genevieve Nieves |
 | 1911 | 23 | Antoinette Mark |
-| 1912 | 23 | Epic Glide |
-| 1913 | 22 | Shakonya Baynes |
-| 1914 | 22 | Mary M Craven |
-| 1915 | 22 | Patioskie |
-| 1916 | 22 | Chantelle Sweet |
+| 1912 | 23 | Minerva |
+| 1913 | 23 | Epic Glide |
+| 1914 | 22 | Patioskie |
+| 1915 | 22 | Shakonya Baynes |
+| 1916 | 22 | Mary M Craven |
 | 1917 | 22 | Zippy Framezone |
 | 1918 | 22 | Vantione Lindsey |
-| 1919 | 22 | Queen Baby 5 |
-| 1920 | 22 | Jhinarra Walker |
-| 1921 | 22 | Chipper Smasher |
-| 1922 | 22 | ShayePooh |
+| 1919 | 22 | Jhinarra Walker |
+| 1920 | 22 | Jazzy Drop |
+| 1921 | 22 | Queen Baby 5 |
+| 1922 | 22 | Chipper Smasher |
 | 1923 | 22 | Stylezncutzby Dee |
-| 1924 | 22 | Jazzy Drop |
-| 1925 | 21 | Nikki Cornelious Valentine |
+| 1924 | 22 | Chantelle Sweet |
+| 1925 | 22 | ShayePooh |
 | 1926 | 21 | Christy |
-| 1927 | 21 | Frisky Linkblock |
-| 1928 | 21 | lp |
-| 1929 | 21 | taz62 |
-| 1930 | 21 | Michelle Harrison-Woodall |
-| 1931 | 21 | Minerva |
+| 1927 | 21 | taz62 |
+| 1928 | 21 | Frisky Linkblock |
+| 1929 | 21 | lp |
+| 1930 | 21 | Nikki Cornelious Valentine |
+| 1931 | 21 | Michelle Harrison-Woodall |
 | 1932 | 21 | Michelle Villasenor |
 | 1933 | 21 | Sanna Rose |
 | 1934 | 21 | Zesty Matchzone |
-| 1935 | 21 | Sanchez Jackson |
-| 1936 | 21 | Truthful |
-| 1937 | 21 | Angie Hall |
-| 1938 | 21 | Lisamarie Fabre Cardona |
-| 1939 | 20 | Bryttani GoingPlaces Latimer |
-| 1940 | 20 | Happy Towerfall |
+| 1935 | 21 | Truthful |
+| 1936 | 21 | Sanchez Jackson |
+| 1937 | 21 | Lisamarie Fabre Cardona |
+| 1938 | 21 | Angie Hall |
+| 1939 | 20 | Happy Towerfall |
+| 1940 | 20 | Terry Golatte |
 | 1941 | 20 | Sonia Savage-Jones |
-| 1942 | 20 | Luna Lockwood |
-| 1943 | 20 | Justice 4 P |
+| 1942 | 20 | Justice 4 P |
+| 1943 | 20 | Tipsy Builderline |
 | 1944 | 20 | POOH |
-| 1945 | 20 | Tipsy Builderline |
+| 1945 | 20 | Luna Lockwood |
 | 1946 | 20 | Kechie Johnson |
-| 1947 | 20 | Peachy Pusher |
-| 1948 | 20 | Cherise Thomas |
-| 1949 | 20 | Laquisha James |
-| 1950 | 20 | Cool Rumbler |
-| 1951 | 20 | Cynthia Potter |
-| 1952 | 20 | Nikki Vaughn |
-| 1953 | 20 | Amelia Gibson |
+| 1947 | 20 | Cherise Thomas |
+| 1948 | 20 | Peachy Pusher |
+| 1949 | 20 | Bryttani GoingPlaces Latimer |
+| 1950 | 20 | Cynthia Potter |
+| 1951 | 20 | Cool Rumbler |
+| 1952 | 20 | Amelia Gibson |
+| 1953 | 20 | Nikki Vaughn |
 | 1954 | 20 | Kenneth Hefney |
 | 1955 | 20 | Crafty Shatterfit |
 | 1956 | 20 | Edward Croom |
-| 1957 | 20 | Terry Golatte |
+| 1957 | 20 | Laquisha James |
 | 1958 | 20 | Chipper Riseclear |
 | 1959 | 20 | prela |
 | 1960 | 20 | Scoots |

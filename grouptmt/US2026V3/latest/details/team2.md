@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 15:34:47 UTC
+# Standings for team2 as of 2026-06-10 15:35:23 UTC
 
 **Total Participants:** 2765
 
@@ -271,11 +271,11 @@
 | 263 | 712 | Aldotfus Williams |
 | 264 | 711 | Christina Maria |
 | 265 | 710 | Michelle Powers Chattaway |
-| 266 | 707 | Cool Balancer |
-| 267 | 705 | Snappy Combo |
-| 268 | 700 | Frisky Tiltgrid |
-| 269 | 698 | Jenni LeBlanc |
-| 270 | 694 | alf |
+| 266 | 709 | alf |
+| 267 | 707 | Cool Balancer |
+| 268 | 705 | Snappy Combo |
+| 269 | 700 | Frisky Tiltgrid |
+| 270 | 698 | Jenni LeBlanc |
 | 271 | 692 | Charles E Mccardell |
 | 272 | 691 | meg |
 | 273 | 691 | Wacky Tumbler |
@@ -602,11 +602,11 @@
 | 594 | 332 | Lee Leonard |
 | 595 | 332 | Amber Marie |
 | 596 | 332 | Wayne Johnson |
-| 597 | 331 | Francesca Wagenhoffer |
-| 598 | 330 | Bouncy Snapmatch |
-| 599 | 330 | Mala Phonchanthasone |
-| 600 | 330 | Anthony Chavez |
-| 601 | 329 | Twisty Tower |
+| 597 | 331 | Twisty Tower |
+| 598 | 331 | Francesca Wagenhoffer |
+| 599 | 330 | Bouncy Snapmatch |
+| 600 | 330 | Mala Phonchanthasone |
+| 601 | 330 | Anthony Chavez |
 | 602 | 328 | Ever Chase |
 | 603 | 327 | Rondell Reedster |
 | 604 | 325 | Ozge Akgun Tokat |
@@ -643,8 +643,8 @@
 | 635 | 308 | Seana Moran |
 | 636 | 308 | Josh Vietz |
 | 637 | 307 | Bonita Alexander |
-| 638 | 307 | Tracy Lee |
-| 639 | 307 | Donutz |
+| 638 | 307 | Donutz |
+| 639 | 307 | Tracy Lee |
 | 640 | 306 | Sassy Patternblock |
 | 641 | 306 | Sara BlueEyes |
 | 642 | 305 | Vicke Patterson |
@@ -682,17 +682,17 @@
 | 674 | 292 | Raine |
 | 675 | 291 | Michele Stewart |
 | 676 | 291 | Tara Flood |
-| 677 | 290 | Viani09 |
-| 678 | 290 | Cranky Patternblock |
+| 677 | 290 | Mandy |
+| 678 | 290 | Viani09 |
 | 679 | 290 | Cool Cornerfall |
-| 680 | 290 | Errkuh |
-| 681 | 289 | Holly Barefoot |
-| 682 | 289 | Stella |
-| 683 | 288 | Sunny Tiltbuilder |
-| 684 | 288 | Chilly Surge |
-| 685 | 288 | Wendy Mcbride |
-| 686 | 288 | Nicole Suber |
-| 687 | 288 | Mandy |
+| 680 | 290 | Cranky Patternblock |
+| 681 | 290 | Errkuh |
+| 682 | 289 | Holly Barefoot |
+| 683 | 289 | Stella |
+| 684 | 288 | Sunny Tiltbuilder |
+| 685 | 288 | Chilly Surge |
+| 686 | 288 | Wendy Mcbride |
+| 687 | 288 | Nicole Suber |
 | 688 | 287 | Carl Mccoy |
 | 689 | 287 | Jessica Bowman |
 | 690 | 287 | Nicole Ashbaugh |
@@ -709,13 +709,13 @@
 | 701 | 283 | Alonzo Reed |
 | 702 | 281 | Rick |
 | 703 | 281 | Fallon Moss |
-| 704 | 280 | Keisha Robinson |
-| 705 | 280 | Adam Latin |
+| 704 | 280 | Adam Latin |
+| 705 | 280 | Keisha Robinson |
 | 706 | 280 | Michelle M Braley |
 | 707 | 280 | Al Smith Jr |
 | 708 | 280 | Sharilyn Jackson |
-| 709 | 279 | Ryan Rhodes |
-| 710 | 279 | Greenie |
+| 709 | 279 | Greenie |
+| 710 | 279 | Ryan Rhodes |
 | 711 | 278 | James Sayers |
 | 712 | 278 | Amanda Rude |
 | 713 | 278 | John Davis |
@@ -732,17 +732,17 @@
 | 724 | 274 | K2N |
 | 725 | 273 | Anzhen |
 | 726 | 272 | Muffin Popper |
-| 727 | 271 | Belle |
-| 728 | 271 | Michael Anthony Anstead |
+| 727 | 271 | Michael Anthony Anstead |
+| 728 | 271 | Belle |
 | 729 | 271 | Spicy Balanceblock |
 | 730 | 270 | Duck |
 | 731 | 270 | Shannon Posner |
 | 732 | 269 | Brooke Kaune |
 | 733 | 269 | Melissa Aycock |
-| 734 | 269 | Brooke Lynn Marie Adelaide |
-| 735 | 269 | DirtySweet84 |
-| 736 | 268 | Kimberly Davis |
-| 737 | 268 | Sltwtrcndrla |
+| 734 | 269 | DirtySweet84 |
+| 735 | 269 | Brooke Lynn Marie Adelaide |
+| 736 | 268 | Sltwtrcndrla |
+| 737 | 268 | Kimberly Davis |
 | 738 | 268 | Frilly Shiftsnap |
 | 739 | 268 | Tito Garcia |
 | 740 | 267 | Jason Lamporte |
