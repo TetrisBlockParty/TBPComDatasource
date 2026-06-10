@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 14:52:43 UTC
+# Standings for team1 as of 2026-06-10 14:53:21 UTC
 
 **Total Participants:** 2279
 
@@ -181,9 +181,9 @@
 | 173 | 834 | GrkGdess |
 | 174 | 833 | Rackemwillie34 |
 | 175 | 830 | Keke Ferguson |
-| 176 | 829 | Shontanese Adams |
-| 177 | 829 | Novaa |
-| 178 | 829 | Karebear |
+| 176 | 829 | Novaa |
+| 177 | 829 | Karebear |
+| 178 | 829 | Shontanese Adams |
 | 179 | 827 | Ty Øtg |
 | 180 | 826 | Gael Quintana |
 | 181 | 822 | Dandy Brickfit |
@@ -203,8 +203,8 @@
 | 195 | 751 | BULLSEYE |
 | 196 | 749 | Dulo |
 | 197 | 747 | Nobles Brandon |
-| 198 | 744 | Kevin M. McGhee Jr |
-| 199 | 744 | Ottison Dianna |
+| 198 | 744 | Ottison Dianna |
+| 199 | 744 | Kevin M. McGhee Jr |
 | 200 | 742 | Randizzle |
 | 201 | 740 | Felicia Cain |
 | 202 | 738 | Dena Marie Lee |
@@ -217,11 +217,11 @@
 | 209 | 704 | Sarah Clark |
 | 210 | 700 | Spicy Risepiece |
 | 211 | 699 | Block King |
-| 212 | 695 | Yasmin Nakea Wright |
-| 213 | 692 | Chirpy Corner |
-| 214 | 691 | Dee McCool |
-| 215 | 690 | Loopy Block |
-| 216 | 690 | Genne Scott |
+| 212 | 699 | Dee McCool |
+| 213 | 695 | Yasmin Nakea Wright |
+| 214 | 692 | Chirpy Corner |
+| 215 | 690 | Genne Scott |
+| 216 | 690 | Loopy Block |
 | 217 | 688 | TT |
 | 218 | 684 | Tammye Turner |
 | 219 | 684 | Coco |
@@ -261,8 +261,8 @@
 | 253 | 593 | Tessa Gaskin |
 | 254 | 588 | OhNoZer0 |
 | 255 | 582 | Deveda Williams |
-| 256 | 580 | Jessica Carter |
-| 257 | 580 | Tanya Clayton |
+| 256 | 580 | Tanya Clayton |
+| 257 | 580 | Jessica Carter |
 | 258 | 579 | Mikayla |
 | 259 | 578 | Andrew Jay Vaughn |
 | 260 | 577 | Marie Wilson |
@@ -273,8 +273,8 @@
 | 265 | 571 | Cheeky Pop |
 | 266 | 565 | IThinkNot |
 | 267 | 565 | DellaLucretia Thomas |
-| 268 | 556 | pooh |
-| 269 | 555 | Tessa Felice Hill |
+| 268 | 558 | Tessa Felice Hill |
+| 269 | 556 | pooh |
 | 270 | 554 | Marissa Sweet |
 | 271 | 553 | win |
 | 272 | 551 | Giggly Tiltbuilder |
@@ -811,11 +811,11 @@
 | 803 | 197 | Seddrick |
 | 804 | 197 | Amanda Woodruff |
 | 805 | 197 | krd |
-| 806 | 196 | Arlea Mann |
-| 807 | 196 | whatever |
-| 808 | 196 | Katness |
-| 809 | 195 | Chanel White |
-| 810 | 195 | Elaine Pauley |
+| 806 | 196 | Katness |
+| 807 | 196 | Arlea Mann |
+| 808 | 196 | whatever |
+| 809 | 195 | Elaine Pauley |
+| 810 | 195 | Chanel White |
 | 811 | 194 | Sunny Clicky |
 | 812 | 193 | Sherry D Singleton |
 | 813 | 192 | Taneka Howell |
@@ -823,13 +823,13 @@
 | 815 | 192 | QueenzMo |
 | 816 | 191 | Terrie |
 | 817 | 190 | Essence Jones |
-| 818 | 190 | Crtjstr |
-| 819 | 190 | Marshall Davis |
-| 820 | 190 | Chipper Snapper |
-| 821 | 189 | Sunny Tumbler |
-| 822 | 189 | Sean White |
-| 823 | 189 | Anntionette Sotire |
-| 824 | 189 | Boricua64 |
+| 818 | 190 | Marshall Davis |
+| 819 | 190 | Boricua64 |
+| 820 | 190 | Crtjstr |
+| 821 | 190 | Chipper Snapper |
+| 822 | 189 | Sunny Tumbler |
+| 823 | 189 | Sean White |
+| 824 | 189 | Anntionette Sotire |
 | 825 | 189 | Duncan Timothy |
 | 826 | 188 | Mary Goode |
 | 827 | 187 | Lively Riserpiece |
@@ -863,9 +863,9 @@
 | 855 | 181 | Tamyka E Williams |
 | 856 | 181 | Melissa Hershberger |
 | 857 | 181 | Desiree Ryder |
-| 858 | 180 | Nikita Jones |
+| 858 | 180 | Kanary Karotz |
 | 859 | 180 | NedaWin |
-| 860 | 180 | Kanary Karotz |
+| 860 | 180 | Nikita Jones |
 | 861 | 180 | Tory Miller |
 | 862 | 180 | Keith Big-Sixx Mackell |
 | 863 | 179 | Wacky Stackbuilder |
