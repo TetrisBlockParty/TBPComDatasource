@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 16:12:46 UTC
+# Standings for team4 as of 2026-06-10 16:13:22 UTC
 
 **Total Participants:** 2342
 
@@ -1213,15 +1213,15 @@
 | 1205 | 113 | Marion Wade |
 | 1206 | 113 | Joshua Franklin |
 | 1207 | 113 | Cflixer |
-| 1208 | 112 | Frisky Blocker |
-| 1209 | 112 | Chris Norman |
-| 1210 | 111 | Snazzy Shatterfit |
-| 1211 | 111 | Candace Dean |
-| 1212 | 111 | Anthony Kollar |
-| 1213 | 111 | Buggy Julks |
-| 1214 | 111 | Jacquelyn L Whitsitt |
-| 1215 | 110 | Giggly Rollpiece |
-| 1216 | 110 | Tati |
+| 1208 | 113 | Tati |
+| 1209 | 112 | Frisky Blocker |
+| 1210 | 112 | Chris Norman |
+| 1211 | 111 | Snazzy Shatterfit |
+| 1212 | 111 | Candace Dean |
+| 1213 | 111 | Anthony Kollar |
+| 1214 | 111 | Buggy Julks |
+| 1215 | 111 | Jacquelyn L Whitsitt |
+| 1216 | 110 | Giggly Rollpiece |
 | 1217 | 110 | Scott If |
 | 1218 | 110 | Kami |
 | 1219 | 110 | Lauren Zubia Sanchez |
