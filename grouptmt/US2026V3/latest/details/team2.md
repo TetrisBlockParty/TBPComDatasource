@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 22:22:44 UTC
+# Standings for team2 as of 2026-06-10 22:23:26 UTC
 
 **Total Participants:** 2829
 
@@ -53,7 +53,7 @@
 | 45 | 5223 | Spunky Clicker |
 | 46 | 5131 | DarkHorse |
 | 47 | 4987 | Erica Dees Parks |
-| 48 | 4842 | Chipper Patternblock |
+| 48 | 4902 | Chipper Patternblock |
 | 49 | 4790 | Smashanator |
 | 50 | 4412 | Charles Varca |
 | 51 | 4402 | Charley Bedford |
@@ -550,24 +550,24 @@
 | 542 | 382 | Ssirkus |
 | 543 | 382 | Chummy Snapbuilder |
 | 544 | 382 | Gina Leal |
-| 545 | 380 | Michelle Jones |
-| 546 | 380 | Steph |
+| 545 | 380 | Steph |
+| 546 | 380 | Michelle Jones |
 | 547 | 380 | Zappy Liney |
 | 548 | 379 | Martha Lynn Wiggins |
 | 549 | 379 | Aubrey Gates |
-| 550 | 376 | Ava Speedy |
-| 551 | 376 | andee |
-| 552 | 376 | TetrisMama |
-| 553 | 374 | Shannon Curry Riggle |
-| 554 | 374 | Mikaela Byrd |
+| 550 | 377 | Mikaela Byrd |
+| 551 | 376 | Ava Speedy |
+| 552 | 376 | andee |
+| 553 | 376 | TetrisMama |
+| 554 | 374 | Shannon Curry Riggle |
 | 555 | 373 | Jerry L Morales |
 | 556 | 372 | Flashy Basegrid |
 | 557 | 371 | Jessica Christine |
 | 558 | 371 | Jackie Walker |
 | 559 | 371 | Gina Louise Parker |
 | 560 | 370 | marsam |
-| 561 | 370 | Starvinmarvin |
-| 562 | 370 | Carrie Hayes Lankford |
+| 561 | 370 | Carrie Hayes Lankford |
+| 562 | 370 | Starvinmarvin |
 | 563 | 369 | ShiverMeSplinter |
 | 564 | 369 | Josephina |
 | 565 | 369 | Mouh Ity |
@@ -586,36 +586,36 @@
 | 578 | 359 | Margie Ann Naffziger |
 | 579 | 359 | Sarah Grundisch |
 | 580 | 359 | Flashy Hitter |
-| 581 | 358 | Tina Kinney |
-| 582 | 358 | David Skelton |
-| 583 | 358 | Eric Wayne Maschman |
-| 584 | 358 | Kimmi Blake |
-| 585 | 358 | Joannah Capilitan |
-| 586 | 357 | Amanda Priddy |
-| 587 | 356 | Jill Goff |
-| 588 | 356 | Wendy McKee |
-| 589 | 356 | straighttiptoe |
+| 581 | 358 | Sassy Swiper |
+| 582 | 358 | Tina Kinney |
+| 583 | 358 | David Skelton |
+| 584 | 358 | Eric Wayne Maschman |
+| 585 | 358 | Kimmi Blake |
+| 586 | 358 | Joannah Capilitan |
+| 587 | 357 | Amanda Priddy |
+| 588 | 356 | Jill Goff |
+| 589 | 356 | Wendy McKee |
 | 590 | 356 | Robin Lamb |
-| 591 | 355 | Brandi Christensen-Henley |
-| 592 | 353 | Nano. |
-| 593 | 352 | Raine |
-| 594 | 351 | Ashley Voelz |
-| 595 | 351 | Patria Osuoha |
-| 596 | 350 | Brandi Vandevanter-Duke |
-| 597 | 350 | Debra May |
-| 598 | 349 | Lively Curve |
-| 599 | 349 | Amber Marie |
-| 600 | 348 | Sassy Swiper |
+| 591 | 356 | straighttiptoe |
+| 592 | 355 | Brandi Christensen-Henley |
+| 593 | 353 | Nano. |
+| 594 | 352 | Raine |
+| 595 | 351 | Ashley Voelz |
+| 596 | 351 | Patria Osuoha |
+| 597 | 350 | Brandi Vandevanter-Duke |
+| 598 | 350 | Debra May |
+| 599 | 349 | Lively Curve |
+| 600 | 349 | Amber Marie |
 | 601 | 348 | Mary Carriere |
-| 602 | 346 | Meagan Grimmett Washburn |
-| 603 | 346 | Kendra Sizemore |
+| 602 | 346 | Kendra Sizemore |
+| 603 | 346 | Meagan Grimmett Washburn |
 | 604 | 345 | Lee Leonard |
 | 605 | 345 | DNice |
-| 606 | 340 | Clever Fallmatch |
-| 607 | 340 | Tony Medina |
+| 606 | 340 | Rachel |
+| 607 | 340 | Hannah Meadows Hammond |
 | 608 | 340 | Cranky Patternblock |
-| 609 | 340 | Rachel |
-| 610 | 340 | Hannah Meadows Hammond |
+| 609 | 340 | Clever Fallmatch |
+| 610 | 340 | Tony Medina |
 | 611 | 340 | Lindsey Ross |
 | 612 | 340 | Brandi Williams |
 | 613 | 339 | Plucky Grabber |
@@ -1557,20 +1557,20 @@
 | 1549 | 105 | Heather Hi |
 | 1550 | 105 | Patrick Woodard |
 | 1551 | 105 | Erin Marie Smith |
-| 1552 | 104 | Jolene Smith |
-| 1553 | 104 | Yari |
-| 1554 | 104 | Stacey Ann Kelley |
-| 1555 | 103 | BoxerMom |
-| 1556 | 103 | Maureen Bryan Adams |
-| 1557 | 103 | Katie Boen |
-| 1558 | 103 | Chamorro Pride |
-| 1559 | 103 | Ashley Shazes |
-| 1560 | 103 | Guadalupe Medina |
-| 1561 | 103 | twistyzone |
-| 1562 | 103 | Bowling girl |
-| 1563 | 103 | October Fitch |
-| 1564 | 103 | Shalice Jacobs |
-| 1565 | 103 | Jill Gelhausen |
+| 1552 | 104 | Jill Gelhausen |
+| 1553 | 104 | Jolene Smith |
+| 1554 | 104 | Yari |
+| 1555 | 104 | Stacey Ann Kelley |
+| 1556 | 103 | BoxerMom |
+| 1557 | 103 | Maureen Bryan Adams |
+| 1558 | 103 | Katie Boen |
+| 1559 | 103 | Chamorro Pride |
+| 1560 | 103 | Ashley Shazes |
+| 1561 | 103 | Guadalupe Medina |
+| 1562 | 103 | twistyzone |
+| 1563 | 103 | Bowling girl |
+| 1564 | 103 | October Fitch |
+| 1565 | 103 | Shalice Jacobs |
 | 1566 | 103 | Kendi |
 | 1567 | 102 | bigdog |
 | 1568 | 102 | Josie Mendivil |
