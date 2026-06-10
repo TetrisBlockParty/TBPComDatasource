@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:26:45 UTC
+# Standings for team4 as of 2026-06-10 10:27:23 UTC
 
 **Total Participants:** 2305
 
@@ -929,43 +929,43 @@
 | 921 | 160 | Stephanie Meinhart |
 | 922 | 160 | Daring Patternblock |
 | 923 | 160 | Cozy Staggerpiece |
-| 924 | 160 | George Marshburn |
-| 925 | 160 | CorieBe |
+| 924 | 160 | CorieBe |
+| 925 | 160 | George Marshburn |
 | 926 | 159 | Tracy Marino |
 | 927 | 159 | Ali Garcia |
 | 928 | 159 | JJ Merc |
 | 929 | 158 | Cozy Builderfit |
-| 930 | 157 | TheazO |
+| 930 | 157 | Conela Rouse Goldstein |
 | 931 | 157 | Yournightmare |
-| 932 | 156 | Slinky Snapfit |
-| 933 | 156 | Kenyatta Davis |
-| 934 | 156 | Autumn Maher |
-| 935 | 156 | Bren70 |
-| 936 | 155 | Ashley McGeehan |
+| 932 | 157 | TheazO |
+| 933 | 156 | Slinky Snapfit |
+| 934 | 156 | Kenyatta Davis |
+| 935 | 156 | Autumn Maher |
+| 936 | 156 | Bren70 |
 | 937 | 155 | Kristen Lester |
-| 938 | 155 | Krystal Simpson |
-| 939 | 155 | Shayna Vaigneur-Hall |
-| 940 | 155 | Frisky Pusher |
-| 941 | 155 | idk240 |
-| 942 | 155 | Kelli Miller |
-| 943 | 155 | Marisela Alvarado |
-| 944 | 155 | Mighty Dash |
-| 945 | 154 | Conela Rouse Goldstein |
+| 938 | 155 | Ashley McGeehan |
+| 939 | 155 | Krystal Simpson |
+| 940 | 155 | Shayna Vaigneur-Hall |
+| 941 | 155 | Frisky Pusher |
+| 942 | 155 | idk240 |
+| 943 | 155 | Kelli Miller |
+| 944 | 155 | Marisela Alvarado |
+| 945 | 155 | Mighty Dash |
 | 946 | 153 | JUNE |
 | 947 | 153 | Shawntae Mccary |
 | 948 | 153 | Ajohnna Frazee |
 | 949 | 153 | Joyce Hampton |
 | 950 | 153 | Melissa Anne |
-| 951 | 152 | SuperJen |
+| 951 | 152 | Hotstuff |
 | 952 | 152 | Loyalty83 |
 | 953 | 152 | Bhakti Sawarkar |
 | 954 | 152 | Breezy Rollfit |
-| 955 | 152 | Hotstuff |
+| 955 | 152 | SuperJen |
 | 956 | 151 | Jason Moves |
-| 957 | 151 | Joha Mldo Castillo |
-| 958 | 151 | MsThick SrtLady Williams |
-| 959 | 151 | Kasey Lynne |
-| 960 | 151 | David Kirschner |
+| 957 | 151 | David Kirschner |
+| 958 | 151 | Joha Mldo Castillo |
+| 959 | 151 | MsThick SrtLady Williams |
+| 960 | 151 | Kasey Lynne |
 | 961 | 151 | Steve Swanson |
 | 962 | 151 | Barbara Mays |
 | 963 | 150 | h_chloe10 |
@@ -1153,9 +1153,9 @@
 | 1145 | 118 | Darren Miguel |
 | 1146 | 118 | Jennifer Naughton |
 | 1147 | 118 | Badmofo |
-| 1148 | 118 | Alaina Rousseau |
-| 1149 | 117 | Kay |
-| 1150 | 117 | Bold Clear |
+| 1148 | 118 | Bold Clear |
+| 1149 | 118 | Alaina Rousseau |
+| 1150 | 117 | Kay |
 | 1151 | 117 | Mrs Peabod |
 | 1152 | 117 | Oc Tive |
 | 1153 | 117 | Catherine Garza |
