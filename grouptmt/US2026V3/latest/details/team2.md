@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 10:35:23 UTC
+# Standings for team2 as of 2026-06-10 10:36:44 UTC
 
 **Total Participants:** 2724
 
@@ -160,8 +160,8 @@
 | 152 | 1130 | Allison Jarman |
 | 153 | 1126 | Jeska Gaines |
 | 154 | 1115 | Spicy Risegrid |
-| 155 | 1108 | Tina Marie |
-| 156 | 1107 | Jackie Tupper |
+| 155 | 1109 | Jackie Tupper |
+| 156 | 1108 | Tina Marie |
 | 157 | 1054 | Cristi Doris |
 | 158 | 1049 | Sedy |
 | 159 | 1035 | Sarah Mccolgan |
@@ -190,22 +190,22 @@
 | 182 | 886 | Sara Perkins |
 | 183 | 873 | Carebear05 |
 | 184 | 871 | Sandy Lynn |
-| 185 | 866 | Fudgie Pie |
-| 186 | 866 | Robin G |
-| 187 | 865 | Theresa Hollinger |
-| 188 | 864 | Jgato |
-| 189 | 863 | Kathy McCormick |
-| 190 | 862 | Lori Whitman |
-| 191 | 857 | Nettrainer |
-| 192 | 849 | Brandi Thompson |
-| 193 | 849 | SEH |
+| 185 | 869 | SEH |
+| 186 | 866 | Fudgie Pie |
+| 187 | 866 | Robin G |
+| 188 | 865 | Theresa Hollinger |
+| 189 | 864 | Jgato |
+| 190 | 863 | Kathy McCormick |
+| 191 | 862 | Lori Whitman |
+| 192 | 857 | Nettrainer |
+| 193 | 849 | Brandi Thompson |
 | 194 | 846 | Amanda Sikes |
 | 195 | 846 | Jess |
 | 196 | 842 | Kevin Mccoy |
 | 197 | 841 | Michelle Luke Banta |
-| 198 | 838 | H |
-| 199 | 837 | MegaPooh |
-| 200 | 835 | Zesty Strikerbuilder |
+| 198 | 840 | Zesty Strikerbuilder |
+| 199 | 838 | H |
+| 200 | 837 | MegaPooh |
 | 201 | 834 | Alicia Kinney |
 | 202 | 828 | Jat |
 | 203 | 826 | Milad Arzani |
@@ -478,18 +478,18 @@
 | 470 | 392 | Justin Stark |
 | 471 | 392 | Sassy Twistbuilder |
 | 472 | 390 | Mrs biotch |
-| 473 | 388 | Ashley Billiot Rhodes |
-| 474 | 388 | Ariel Gundersen |
-| 475 | 388 | Mama G |
+| 473 | 388 | Mama G |
+| 474 | 388 | Ashley Billiot Rhodes |
+| 475 | 388 | Ariel Gundersen |
 | 476 | 387 | RaeRae |
 | 477 | 387 | Ashley Propst |
-| 478 | 386 | Brittney Williams |
-| 479 | 385 | Bengy Lead |
+| 478 | 386 | Ashley Miller |
+| 479 | 386 | Brittney Williams |
 | 480 | 385 | Pamela Raye |
-| 481 | 384 | Laura Larsen |
-| 482 | 383 | Loopy Tower |
-| 483 | 383 | Ashley Miller |
-| 484 | 383 | Olivia Jefferson |
+| 481 | 385 | Bengy Lead |
+| 482 | 384 | Laura Larsen |
+| 483 | 383 | Olivia Jefferson |
+| 484 | 383 | Loopy Tower |
 | 485 | 383 | Jenna Stahl |
 | 486 | 382 | Zesty Zoney |
 | 487 | 382 | Chummy Snapbuilder |
@@ -1067,22 +1067,22 @@
 | 1059 | 169 | Jacy Pickett |
 | 1060 | 168 | Boo Boo Binx |
 | 1061 | 168 | Bruni |
-| 1062 | 167 | Donna R. Banks |
-| 1063 | 167 | Grimwitch |
-| 1064 | 167 | Joffee Joffer |
-| 1065 | 167 | Alisha Shelton |
-| 1066 | 167 | Cara Rivera |
-| 1067 | 167 | Aeryal Snow |
-| 1068 | 167 | Brandy Westfall-panchari |
-| 1069 | 167 | Bennie Farbo |
-| 1070 | 166 | Jocelyn Fisher |
-| 1071 | 166 | LyndaLou |
-| 1072 | 166 | Belinda Head |
-| 1073 | 166 | Constance DelLane Wilson |
-| 1074 | 166 | Ryan Sanders |
-| 1075 | 165 | Cheryl Graves Downard |
-| 1076 | 165 | Black Sheep |
-| 1077 | 165 | MJLovesHer#OneMistake |
+| 1062 | 168 | MJLovesHer#OneMistake |
+| 1063 | 167 | Donna R. Banks |
+| 1064 | 167 | Grimwitch |
+| 1065 | 167 | Joffee Joffer |
+| 1066 | 167 | Alisha Shelton |
+| 1067 | 167 | Cara Rivera |
+| 1068 | 167 | Aeryal Snow |
+| 1069 | 167 | Brandy Westfall-panchari |
+| 1070 | 167 | Bennie Farbo |
+| 1071 | 166 | Jocelyn Fisher |
+| 1072 | 166 | LyndaLou |
+| 1073 | 166 | Belinda Head |
+| 1074 | 166 | Constance DelLane Wilson |
+| 1075 | 166 | Ryan Sanders |
+| 1076 | 165 | Cheryl Graves Downard |
+| 1077 | 165 | Black Sheep |
 | 1078 | 165 | Chris Delauro |
 | 1079 | 165 | Melissa Mae |
 | 1080 | 165 | Wood |
@@ -1687,21 +1687,21 @@
 | 1679 | 76 | Silly Shatter |
 | 1680 | 76 | Amanda Pilcher |
 | 1681 | 76 | Joe Dirilo |
-| 1682 | 75 | Poppy Zone |
-| 1683 | 75 | Crazygranny |
-| 1684 | 75 | Catherine Whitt Gaddy |
-| 1685 | 75 | Jenifer Seeley |
-| 1686 | 75 | Jackie Hayslip |
-| 1687 | 74 | Mary |
-| 1688 | 74 | Isiwin |
-| 1689 | 74 | Amber Myers |
-| 1690 | 74 | Bethany Nestor |
-| 1691 | 74 | Loony Shatter |
-| 1692 | 74 | Kyle |
-| 1693 | 74 | Katie Magner |
-| 1694 | 74 | Lori Antrim Nichols |
-| 1695 | 73 | RalphyD |
-| 1696 | 73 | Sandra Betz |
+| 1682 | 75 | Sandra Betz |
+| 1683 | 75 | Poppy Zone |
+| 1684 | 75 | Crazygranny |
+| 1685 | 75 | Catherine Whitt Gaddy |
+| 1686 | 75 | Jenifer Seeley |
+| 1687 | 75 | Jackie Hayslip |
+| 1688 | 74 | Mary |
+| 1689 | 74 | Isiwin |
+| 1690 | 74 | Amber Myers |
+| 1691 | 74 | Bethany Nestor |
+| 1692 | 74 | Loony Shatter |
+| 1693 | 74 | Kyle |
+| 1694 | 74 | Katie Magner |
+| 1695 | 74 | Lori Antrim Nichols |
+| 1696 | 73 | RalphyD |
 | 1697 | 73 | Bowling girl |
 | 1698 | 73 | Jenica Davis |
 | 1699 | 73 | lion king |
