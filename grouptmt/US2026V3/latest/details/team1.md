@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 14:10:45 UTC
+# Standings for team1 as of 2026-06-10 14:11:23 UTC
 
 **Total Participants:** 2271
 
@@ -55,9 +55,9 @@
 | 47 | 2479 | Epic Snapfall |
 | 48 | 2448 | Mimi 1.0 |
 | 49 | 2404 | Tipsy Tetriblast |
-| 50 | 2372 | Chris Caniglia |
-| 51 | 2370 | Therealdywoune Peay |
-| 52 | 2342 | D'Andra Stewart |
+| 50 | 2372 | D'Andra Stewart |
+| 51 | 2372 | Chris Caniglia |
+| 52 | 2370 | Therealdywoune Peay |
 | 53 | 2285 | Markeeta Lipscomb |
 | 54 | 2203 | BlackQueen105 |
 | 55 | 2174 | Robyn Caldwell |
@@ -373,13 +373,13 @@
 | 365 | 428 | Brand Nu |
 | 366 | 420 | Poppy Buildout |
 | 367 | 417 | Brenda Malachi-butler |
-| 368 | 414 | Smiley Clearpiece |
-| 369 | 413 | NewEve |
-| 370 | 411 | MamushiOh |
-| 371 | 410 | Salim Thugger |
-| 372 | 409 | KeeKee Williams |
-| 373 | 404 | Bold Clusterer |
-| 374 | 404 | DaGuy |
+| 368 | 416 | DaGuy |
+| 369 | 414 | Smiley Clearpiece |
+| 370 | 413 | NewEve |
+| 371 | 411 | MamushiOh |
+| 372 | 410 | Salim Thugger |
+| 373 | 409 | KeeKee Williams |
+| 374 | 404 | Bold Clusterer |
 | 375 | 404 | Michele Simpson |
 | 376 | 403 | NastyFriend |
 | 377 | 403 | Jackie Sanasay |
@@ -1038,37 +1038,37 @@
 | 1030 | 135 | RMGreen |
 | 1031 | 135 | UnionBoss |
 | 1032 | 135 | Saucy Tile |
-| 1033 | 135 | Vivian Bunnell Myers |
-| 1034 | 135 | Teresa Menefee |
+| 1033 | 135 | Teresa Menefee |
+| 1034 | 135 | Vivian Bunnell Myers |
 | 1035 | 134 | Spunky Gridder |
 | 1036 | 134 | Laurie Napper |
 | 1037 | 134 | Ernie Waters |
 | 1038 | 133 | Terrance Tindall |
 | 1039 | 132 | tskmstr |
-| 1040 | 132 | Mumitt |
-| 1041 | 132 | Shaun Baker |
+| 1040 | 132 | Shaun Baker |
+| 1041 | 132 | Mumitt |
 | 1042 | 131 | b |
-| 1043 | 131 | Elaine Youmans |
+| 1043 | 131 | Eugenia Vanclusen |
 | 1044 | 131 | Yellowbone |
-| 1045 | 131 | Eugenia Vanclusen |
-| 1046 | 130 | Jessica Davis |
-| 1047 | 130 | West Racks |
-| 1048 | 130 | Latricia George |
-| 1049 | 130 | Maria Baez Medina |
-| 1050 | 130 | kingbrook |
+| 1045 | 131 | Elaine Youmans |
+| 1046 | 130 | kingbrook |
+| 1047 | 130 | Latricia George |
+| 1048 | 130 | Jessica Davis |
+| 1049 | 130 | West Racks |
+| 1050 | 130 | Maria Baez Medina |
 | 1051 | 129 | Lively Rollpiece |
 | 1052 | 129 | WReckitraff |
-| 1053 | 129 | Chino Baby |
-| 1054 | 129 | Caitlin Michele |
-| 1055 | 128 | Stef Hu |
-| 1056 | 128 | Brittany Britkany Marsden-Garrison |
-| 1057 | 128 | Willson06 |
-| 1058 | 128 | Alonzo Kirkland |
-| 1059 | 128 | Macho Lewis |
-| 1060 | 127 | Pretty Yella |
-| 1061 | 127 | Laura Osborne |
-| 1062 | 127 | tk |
-| 1063 | 127 | MikeHunt |
+| 1053 | 129 | Caitlin Michele |
+| 1054 | 129 | Chino Baby |
+| 1055 | 128 | MikeHunt |
+| 1056 | 128 | Stef Hu |
+| 1057 | 128 | Brittany Britkany Marsden-Garrison |
+| 1058 | 128 | Willson06 |
+| 1059 | 128 | Alonzo Kirkland |
+| 1060 | 128 | Macho Lewis |
+| 1061 | 127 | Pretty Yella |
+| 1062 | 127 | Laura Osborne |
+| 1063 | 127 | tk |
 | 1064 | 126 | GoldStarJo |
 | 1065 | 126 | Ounquan Wright |
 | 1066 | 126 | Jeremy Hendrix |
@@ -2266,17 +2266,17 @@
 | 2258 | 5 | MistyJaye |
 | 2259 | 5 | Sunny Cascadepiece |
 | 2260 | 5 | Cherry |
-| 2261 | 5 | Cheery Edgefit |
-| 2262 | 5 | Happy |
-| 2263 | 5 | MrKeith Debraux |
-| 2264 | 5 | Ruben Esquibel |
-| 2265 | 5 | Misty Sollberger |
+| 2261 | 5 | Jennifer Haton Kreighbaum |
+| 2262 | 5 | Crafty Fallzone |
+| 2263 | 5 | VERA DAME |
+| 2264 | 5 | Cleversphinx76 |
+| 2265 | 5 | the guy |
 | 2266 | 5 | Ashley Marie |
-| 2267 | 5 | the guy |
-| 2268 | 5 | Cleversphinx76 |
-| 2269 | 5 | VERA DAME |
-| 2270 | 5 | Crafty Fallzone |
-| 2271 | 5 | Jennifer Haton Kreighbaum |
+| 2267 | 5 | Misty Sollberger |
+| 2268 | 5 | Ruben Esquibel |
+| 2269 | 5 | MrKeith Debraux |
+| 2270 | 5 | Happy |
+| 2271 | 5 | Cheery Edgefit |
 
 ---
 *Standings created by tournaments datasource generation tool*
