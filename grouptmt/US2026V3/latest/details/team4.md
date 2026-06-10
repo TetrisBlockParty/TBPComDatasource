@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:52:45 UTC
+# Standings for team4 as of 2026-06-10 12:53:23 UTC
 
 **Total Participants:** 2320
 
@@ -367,13 +367,13 @@
 | 359 | 419 | Anthony McAlister |
 | 360 | 418 | Juvon SupaShawdii Brooks |
 | 361 | 418 | Dawn Marie Trujillo |
-| 362 | 415 | Karen Rodriguez |
-| 363 | 415 | Kea Sushi |
+| 362 | 415 | Kea Sushi |
+| 363 | 415 | Karen Rodriguez |
 | 364 | 412 | Dan Butcher |
 | 365 | 412 | Clashy |
 | 366 | 412 | Dazzle Dragon |
-| 367 | 411 | Momma Boss |
-| 368 | 411 | EvoKitty |
+| 367 | 411 | EvoKitty |
+| 368 | 411 | Momma Boss |
 | 369 | 410 | Justin Michael |
 | 370 | 409 | beTrue76 |
 | 371 | 409 | Cheeky Fallzone |
@@ -381,10 +381,10 @@
 | 373 | 408 | Sherry Mooney |
 | 374 | 406 | Ash Gribble |
 | 375 | 402 | Shawna Downey |
-| 376 | 401 | MomyLiz |
-| 377 | 401 | Jay Dee |
-| 378 | 400 | jojo |
-| 379 | 400 | Queen B |
+| 376 | 401 | Jay Dee |
+| 377 | 401 | MomyLiz |
+| 378 | 400 | Queen B |
+| 379 | 400 | jojo |
 | 380 | 399 | Gary Smallwood |
 | 381 | 395 | PerfectPieces |
 | 382 | 394 | Quirky Fitblock |
@@ -392,50 +392,50 @@
 | 384 | 392 | Homie |
 | 385 | 392 | Richard Bearse |
 | 386 | 391 | John Cotugno |
-| 387 | 390 | Lanelva Tiredofbs Marshall |
-| 388 | 390 | No Time |
+| 387 | 390 | No Time |
+| 388 | 390 | Lanelva Tiredofbs Marshall |
 | 389 | 388 | Melissa Lowe |
-| 390 | 387 | Tricia Motika Cowan |
-| 391 | 387 | luluraine |
+| 390 | 387 | luluraine |
+| 391 | 387 | Tricia Motika Cowan |
 | 392 | 386 | Codey Haffner |
 | 393 | 385 | Giggly Tilt |
-| 394 | 380 | Joe Richard |
-| 395 | 378 | Tipsy Builderline |
-| 396 | 377 | Snow77white |
-| 397 | 374 | Dominique Melendez |
-| 398 | 374 | bofe |
-| 399 | 373 | Groovy Towerbuilder |
-| 400 | 372 | kellie |
-| 401 | 371 | TJ |
-| 402 | 370 | Dizzy Slammer |
-| 403 | 370 | Honey |
-| 404 | 370 | Queen B |
-| 405 | 369 | Lucy Honer |
-| 406 | 368 | Brittany Lentz |
-| 407 | 367 | Lisa Jones |
-| 408 | 367 | Giggly Column |
-| 409 | 366 | Alexis Cor |
-| 410 | 366 | Ross Bryant |
-| 411 | 365 | Quiomarie Cotto |
-| 412 | 363 | Rhonda Dowling |
-| 413 | 363 | Mark Norton |
-| 414 | 361 | Kellz M Bee |
-| 415 | 361 | Patrick Alley |
-| 416 | 361 | Breezy Blockzone |
-| 417 | 360 | Mann Manson |
-| 418 | 360 | Kimyatta Cavin |
+| 394 | 382 | Henry Lanier |
+| 395 | 380 | Joe Richard |
+| 396 | 379 | Honey |
+| 397 | 378 | Tipsy Builderline |
+| 398 | 377 | Snow77white |
+| 399 | 374 | bofe |
+| 400 | 374 | Dominique Melendez |
+| 401 | 373 | Groovy Towerbuilder |
+| 402 | 372 | kellie |
+| 403 | 371 | TJ |
+| 404 | 370 | Dizzy Slammer |
+| 405 | 370 | Queen B |
+| 406 | 369 | Lucy Honer |
+| 407 | 368 | Brittany Lentz |
+| 408 | 367 | Lisa Jones |
+| 409 | 367 | Giggly Column |
+| 410 | 366 | Alexis Cor |
+| 411 | 366 | Ross Bryant |
+| 412 | 365 | Quiomarie Cotto |
+| 413 | 363 | Rhonda Dowling |
+| 414 | 363 | Mark Norton |
+| 415 | 361 | Breezy Blockzone |
+| 416 | 361 | Kellz M Bee |
+| 417 | 361 | Patrick Alley |
+| 418 | 360 | Mann Manson |
 | 419 | 360 | Funky Riserpiece |
-| 420 | 360 | Henry Lanier |
+| 420 | 360 | Kimyatta Cavin |
 | 421 | 360 | Groovy Cluster |
 | 422 | 359 | BCO22 |
-| 423 | 359 | Ashley Robbins |
-| 424 | 359 | Kaps |
+| 423 | 359 | Kaps |
+| 424 | 359 | Ashley Robbins |
 | 425 | 358 | Bre Dee |
 | 426 | 356 | Candiecane324 |
-| 427 | 353 | Crystal Hammonds |
-| 428 | 353 | FitMeDiva |
-| 429 | 353 | Heidi Hala |
-| 430 | 353 | Loopy Hitter |
+| 427 | 353 | Loopy Hitter |
+| 428 | 353 | Heidi Hala |
+| 429 | 353 | FitMeDiva |
+| 430 | 353 | Crystal Hammonds |
 | 431 | 352 | Martha Fisher |
 | 432 | 351 | Tiffany Morris Garner |
 | 433 | 351 | Holly Bramel |
