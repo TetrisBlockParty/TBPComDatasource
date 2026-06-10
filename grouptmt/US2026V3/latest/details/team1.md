@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 23:00:46 UTC
+# Standings for team1 as of 2026-06-10 23:01:24 UTC
 
 **Total Participants:** 2360
 
@@ -210,8 +210,8 @@
 | 202 | 749 | Dulo |
 | 203 | 748 | win |
 | 204 | 746 | Albert McKnight |
-| 205 | 744 | Ottison Dianna |
-| 206 | 744 | Kevin M. McGhee Jr |
+| 205 | 744 | Kevin M. McGhee Jr |
+| 206 | 744 | Ottison Dianna |
 | 207 | 742 | Randizzle |
 | 208 | 740 | Felicia Cain |
 | 209 | 738 | Dena Marie Lee |
@@ -221,8 +221,8 @@
 | 213 | 725 | Marcheta Cervantez |
 | 214 | 721 | Rachel Zimmerman |
 | 215 | 710 | Sarah Clark |
-| 216 | 708 | Tammye Turner |
-| 217 | 708 | Loopy Block |
+| 216 | 708 | Loopy Block |
+| 217 | 708 | Tammye Turner |
 | 218 | 707 | Jazzy Fireflighters |
 | 219 | 706 | Tasha Jones |
 | 220 | 700 | Spicy Risepiece |
@@ -249,8 +249,8 @@
 | 241 | 646 | TeeMaster Barber IsLyfe |
 | 242 | 641 | Marissa Sweet |
 | 243 | 639 | Wild Out Nai |
-| 244 | 632 | Deveda Williams |
-| 245 | 632 | OhNoZer0 |
+| 244 | 632 | OhNoZer0 |
+| 245 | 632 | Deveda Williams |
 | 246 | 631 | Giggy Clusterer |
 | 247 | 630 | SyTheEvilGenius1 |
 | 248 | 629 | Nina Davis |
@@ -275,20 +275,20 @@
 | 267 | 585 | Rachael Bakowicz Edwards |
 | 268 | 584 | DellaLucretia Thomas |
 | 269 | 584 | Mikayla |
-| 270 | 580 | Jessica Carter |
-| 271 | 580 | Tanya Clayton |
+| 270 | 580 | Tanya Clayton |
+| 271 | 580 | Jessica Carter |
 | 272 | 579 | IThinkNot |
 | 273 | 578 | Andrew Jay Vaughn |
-| 274 | 577 | Marie Wilson |
-| 275 | 577 | Zachary Colegrove |
+| 274 | 577 | Zachary Colegrove |
+| 275 | 577 | Marie Wilson |
 | 276 | 576 | Cachet A Ward |
 | 277 | 575 | TBABYJ |
 | 278 | 571 | Block |
 | 279 | 571 | Cheeky Pop |
 | 280 | 570 | Tessa Felice Hill |
-| 281 | 564 | Joey Albright |
-| 282 | 563 | Simmone T. Kadiri |
-| 283 | 561 | Alivia Dove |
+| 281 | 565 | Alivia Dove |
+| 282 | 564 | Joey Albright |
+| 283 | 563 | Simmone T. Kadiri |
 | 284 | 557 | Tamara Johnson-Carter |
 | 285 | 557 | Desire Rice |
 | 286 | 553 | Giggly Tiltbuilder |
@@ -793,25 +793,25 @@
 | 785 | 216 | Laysa Nunez |
 | 786 | 216 | Xrandomx |
 | 787 | 216 | Lawanda Conley |
-| 788 | 216 | Tina Blessed Cage |
-| 789 | 216 | Sallie Sanborn |
-| 790 | 216 | MrsDontPlay |
-| 791 | 216 | Rachel Renae Bettis |
-| 792 | 216 | Meepycat |
-| 793 | 216 | squints |
-| 794 | 215 | Perky Balancer |
-| 795 | 215 | Angie Smith |
-| 796 | 215 | Gerold Folk Haddock |
-| 797 | 215 | Nikiya |
-| 798 | 215 | GetDaOPPS |
-| 799 | 214 | Mary Goode |
-| 800 | 214 | Sunny Clicky |
-| 801 | 214 | Nickeya Phillips |
-| 802 | 213 | Oaklonboy mike |
-| 803 | 213 | Duncan Timothy |
+| 788 | 216 | Duncan Timothy |
+| 789 | 216 | Tina Blessed Cage |
+| 790 | 216 | Sallie Sanborn |
+| 791 | 216 | MrsDontPlay |
+| 792 | 216 | squints |
+| 793 | 216 | Meepycat |
+| 794 | 216 | Rachel Renae Bettis |
+| 795 | 215 | Perky Balancer |
+| 796 | 215 | Nikiya |
+| 797 | 215 | GetDaOPPS |
+| 798 | 215 | Gerold Folk Haddock |
+| 799 | 215 | Angie Smith |
+| 800 | 214 | Nickeya Phillips |
+| 801 | 214 | Mary Goode |
+| 802 | 214 | Sunny Clicky |
+| 803 | 213 | Oaklonboy mike |
 | 804 | 213 | Seirra Robinson |
-| 805 | 212 | Dirty Deeds |
-| 806 | 212 | Chocolate |
+| 805 | 212 | Chocolate |
+| 806 | 212 | Dirty Deeds |
 | 807 | 212 | tskmstr |
 | 808 | 212 | Don Ray Mc |
 | 809 | 212 | Ivery Lee Grays Jr. |
@@ -827,31 +827,31 @@
 | 819 | 209 | Kashh |
 | 820 | 208 | Ashley Davis |
 | 821 | 208 | Derald Miller |
-| 822 | 207 | Tangy Moore |
-| 823 | 207 | Kayel Good |
+| 822 | 207 | Kayel Good |
+| 823 | 207 | Tangy Moore |
 | 824 | 206 | Kat |
 | 825 | 205 | Marcello Rush |
-| 826 | 205 | Treneil Daffin |
+| 826 | 205 | tg |
 | 827 | 205 | Tramaine Crockrum |
-| 828 | 205 | tg |
-| 829 | 205 | Tito Divyn |
-| 830 | 205 | Stephen Garland |
-| 831 | 204 | Xana Zania Bopp |
+| 828 | 205 | Tito Divyn |
+| 829 | 205 | Stephen Garland |
+| 830 | 205 | Treneil Daffin |
+| 831 | 204 | Renee Marshall |
 | 832 | 204 | Boricua64 |
-| 833 | 204 | Renee Marshall |
-| 834 | 204 | Maxine Williams |
-| 835 | 203 | Tina Bongcayao |
-| 836 | 203 | Erika |
-| 837 | 203 | KimChii |
-| 838 | 202 | Undeniable Williams |
-| 839 | 202 | Messy Live |
-| 840 | 202 | Hyper Blocky |
-| 841 | 202 | Alexandrla Smith |
-| 842 | 202 | Nutty Fallmatch |
-| 843 | 201 | Bea Dyer-Fields |
-| 844 | 201 | Michelle Fowler |
-| 845 | 201 | Boldy Pivoty |
-| 846 | 201 | Cj Chimelis |
+| 833 | 204 | Maxine Williams |
+| 834 | 204 | Cj Chimelis |
+| 835 | 204 | Xana Zania Bopp |
+| 836 | 203 | Tina Bongcayao |
+| 837 | 203 | Erika |
+| 838 | 203 | KimChii |
+| 839 | 202 | Undeniable Williams |
+| 840 | 202 | Alexandrla Smith |
+| 841 | 202 | Messy Live |
+| 842 | 202 | Hyper Blocky |
+| 843 | 202 | Nutty Fallmatch |
+| 844 | 201 | Bea Dyer-Fields |
+| 845 | 201 | Michelle Fowler |
+| 846 | 201 | Boldy Pivoty |
 | 847 | 201 | Sunny Tumbler |
 | 848 | 200 | Marshall Davis |
 | 849 | 200 | Cheery Swiper |
@@ -905,34 +905,34 @@
 | 897 | 185 | Poppy Twister |
 | 898 | 185 | Jess |
 | 899 | 185 | Yellowbone |
-| 900 | 183 | Twisty Dashy |
-| 901 | 183 | Amihan |
-| 902 | 183 | Cm |
-| 903 | 182 | JesusSaves 😇 |
-| 904 | 182 | Comedian Prince Paul |
-| 905 | 182 | Meow Meow |
-| 906 | 182 | Lexx Robins |
-| 907 | 182 | Hasty Rollzone |
-| 908 | 182 | Sabrina Wilkerson |
-| 909 | 181 | Melissa Hershberger |
-| 910 | 181 | Desiree Ryder |
-| 911 | 181 | Spicy Tiler |
-| 912 | 181 | Tamyka E Williams |
-| 913 | 180 | Shadon McMillan |
-| 914 | 180 | Keith Big-Sixx Mackell |
+| 900 | 185 | Batty B |
+| 901 | 183 | Twisty Dashy |
+| 902 | 183 | Amihan |
+| 903 | 183 | Cm |
+| 904 | 182 | JesusSaves 😇 |
+| 905 | 182 | Comedian Prince Paul |
+| 906 | 182 | Meow Meow |
+| 907 | 182 | Lexx Robins |
+| 908 | 182 | Hasty Rollzone |
+| 909 | 182 | Sabrina Wilkerson |
+| 910 | 181 | Melissa Hershberger |
+| 911 | 181 | Desiree Ryder |
+| 912 | 181 | Spicy Tiler |
+| 913 | 181 | Tamyka E Williams |
+| 914 | 180 | Shadon McMillan |
 | 915 | 180 | Tory Miller |
-| 916 | 180 | Hasty Pivoty |
-| 917 | 180 | Nikita Jones |
-| 918 | 180 | Kanary Karotz |
-| 919 | 180 | NedaWin |
-| 920 | 179 | MikeHunt |
-| 921 | 179 | Keith Johnson |
-| 922 | 179 | Wacky Stackbuilder |
-| 923 | 179 | Batty B |
-| 924 | 178 | Tyrone Porter |
+| 916 | 180 | Keith Big-Sixx Mackell |
+| 917 | 180 | Hasty Pivoty |
+| 918 | 180 | Nikita Jones |
+| 919 | 180 | Kanary Karotz |
+| 920 | 180 | NedaWin |
+| 921 | 179 | MikeHunt |
+| 922 | 179 | Keith Johnson |
+| 923 | 179 | Wacky Stackbuilder |
+| 924 | 178 | Meeee |
 | 925 | 178 | TotoCherue |
 | 926 | 178 | Michelle Stottlemyer |
-| 927 | 178 | Meeee |
+| 927 | 178 | Tyrone Porter |
 | 928 | 177 | Christopher L Crites |
 | 929 | 176 | Poppy Smasher |
 | 930 | 176 | Taylor Jordan Hollis |
