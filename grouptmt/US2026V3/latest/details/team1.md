@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:54:44 UTC
+# Standings for team1 as of 2026-06-10 18:55:22 UTC
 
 **Total Participants:** 2322
 
@@ -448,23 +448,23 @@
 | 440 | 368 | Tosha Michelle |
 | 441 | 368 | Cortaz Lawrie |
 | 442 | 367 | Stacy Nicole |
-| 443 | 366 | Tajuana Juana'Cee Coleman |
-| 444 | 366 | Shalya Terry |
+| 443 | 366 | Shalya Terry |
+| 444 | 366 | Tajuana Juana'Cee Coleman |
 | 445 | 365 | TieMs BHughez |
 | 446 | 365 | Brittnay Wright |
 | 447 | 364 | Kimberly Anderson |
 | 448 | 364 | AshyTay |
-| 449 | 363 | Tesiree Cray |
-| 450 | 363 | Jolly Tilefall |
-| 451 | 363 | Christina Rebecca |
-| 452 | 363 | Brittany Fells |
-| 453 | 362 | Ryan Runyan |
-| 454 | 362 | Kendra McIntyre |
+| 449 | 363 | Jolly Tilefall |
+| 450 | 363 | Tesiree Cray |
+| 451 | 363 | Brittany Fells |
+| 452 | 363 | Christina Rebecca |
+| 453 | 362 | Kendra McIntyre |
+| 454 | 362 | Ryan Runyan |
 | 455 | 362 | SweetByNBy |
 | 456 | 361 | Lakiesha Crawford |
-| 457 | 361 | Stephen Glaze |
-| 458 | 361 | Tonia Ramos |
-| 459 | 361 | C Lo Green |
+| 457 | 361 | Tonia Ramos |
+| 458 | 361 | C Lo Green |
+| 459 | 361 | Stephen Glaze |
 | 460 | 361 | John Staub |
 | 461 | 360 | Peppy Towerbuilder |
 | 462 | 360 | HS Arce |
@@ -474,23 +474,23 @@
 | 466 | 359 | Montréal Mars |
 | 467 | 358 | Tori Carter |
 | 468 | 357 | Manda Allen |
-| 469 | 356 | Haley Bell |
-| 470 | 356 | De'Nell Edwards |
-| 471 | 356 | Nate Myers |
-| 472 | 354 | Carolyn Delphie |
-| 473 | 354 | Amy Lynn Leifheit |
-| 474 | 352 | Jessie N Michael Silvers |
-| 475 | 352 | Asha Langford |
-| 476 | 351 | Kimberly Linares Hernandez |
-| 477 | 350 | SnazzyIvy |
-| 478 | 350 | Daddy |
-| 479 | 347 | LiyaSkye |
-| 480 | 344 | EvaLynn NeCole |
-| 481 | 343 | Heather Wilson |
-| 482 | 343 | Kimmie Gargano |
-| 483 | 342 | Crystal Cheresnowsky |
-| 484 | 342 | Marsha Earl |
-| 485 | 342 | Ashley Monet Terrell |
+| 469 | 356 | De'Nell Edwards |
+| 470 | 356 | Nate Myers |
+| 471 | 356 | Haley Bell |
+| 472 | 354 | Amy Lynn Leifheit |
+| 473 | 354 | Carolyn Delphie |
+| 474 | 352 | Crystal Cheresnowsky |
+| 475 | 352 | Jessie N Michael Silvers |
+| 476 | 352 | Asha Langford |
+| 477 | 351 | Kimberly Linares Hernandez |
+| 478 | 350 | SnazzyIvy |
+| 479 | 350 | Daddy |
+| 480 | 347 | LiyaSkye |
+| 481 | 344 | EvaLynn NeCole |
+| 482 | 343 | Heather Wilson |
+| 483 | 343 | Kimmie Gargano |
+| 484 | 342 | Ashley Monet Terrell |
+| 485 | 342 | Marsha Earl |
 | 486 | 341 | The DUBZ |
 | 487 | 340 | Abby |
 | 488 | 339 | Shanns |
@@ -612,20 +612,20 @@
 | 604 | 275 | MzJuice Box |
 | 605 | 275 | Michelle Peters |
 | 606 | 275 | Chris Sladoje |
-| 607 | 274 | Zany Breaker |
-| 608 | 273 | Ta'Kaiyah M. Spann |
-| 609 | 273 | Kamilya Rembert |
-| 610 | 272 | Felicia Dungey |
-| 611 | 272 | wmedina67 |
-| 612 | 272 | Koreen Johnson-Woolford |
-| 613 | 272 | Cheryl Miller |
+| 607 | 274 | Cheryl Miller |
+| 608 | 274 | Zany Breaker |
+| 609 | 273 | Ta'Kaiyah M. Spann |
+| 610 | 273 | Kamilya Rembert |
+| 611 | 272 | Felicia Dungey |
+| 612 | 272 | wmedina67 |
+| 613 | 272 | Koreen Johnson-Woolford |
 | 614 | 270 | Jen Hallin |
 | 615 | 269 | Stephanie L Jeffries Moultrie |
 | 616 | 269 | RylonJones |
 | 617 | 269 | PSD |
 | 618 | 268 | Monica Tovar |
-| 619 | 267 | Dana Hawes |
-| 620 | 267 | Adrian Harris |
+| 619 | 267 | Adrian Harris |
+| 620 | 267 | Dana Hawes |
 | 621 | 266 | Stephanie Ellis |
 | 622 | 266 | Chris Holland |
 | 623 | 266 | BB |
