@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:56:46 UTC
+# Standings for team1 as of 2026-06-10 13:57:24 UTC
 
 **Total Participants:** 2270
 
@@ -160,9 +160,9 @@
 | 152 | 931 | Antonia Wyche |
 | 153 | 927 | Cee Emm |
 | 154 | 926 | Gotcha |
-| 155 | 917 | Slinky Puzzler |
-| 156 | 915 | Crystal Boyd |
-| 157 | 911 | Ebony Waynes-robinson |
+| 155 | 920 | Ebony Waynes-robinson |
+| 156 | 917 | Slinky Puzzler |
+| 157 | 915 | Crystal Boyd |
 | 158 | 907 | Eartha Brown |
 | 159 | 906 | Atlantalindi |
 | 160 | 897 | Carolynne Walker-Bell |
@@ -680,40 +680,40 @@
 | 672 | 235 | Daring Blockclear |
 | 673 | 235 | Squaw Ki Ng |
 | 674 | 235 | nameno |
-| 675 | 234 | Cori Cleland |
-| 676 | 234 | Coco |
-| 677 | 234 | Daring Riserfit |
+| 675 | 234 | Coco |
+| 676 | 234 | Daring Riserfit |
+| 677 | 234 | Cori Cleland |
 | 678 | 233 | Bella |
 | 679 | 233 | Claudia Price |
 | 680 | 232 | Karen Knapp |
-| 681 | 231 | Tyiesha Pie Farmer |
+| 681 | 231 | Dannie |
 | 682 | 231 | toxictonic92 |
-| 683 | 231 | Dannie |
-| 684 | 230 | Adrian Wilson |
+| 683 | 231 | Tyiesha Pie Farmer |
+| 684 | 230 | Jessica Kirby |
 | 685 | 230 | Poyre Shelton |
-| 686 | 230 | Jessica Kirby |
+| 686 | 230 | Adrian Wilson |
 | 687 | 229 | Kike Lua |
 | 688 | 229 | Lucille Wilson Davis |
 | 689 | 229 | messyboots |
 | 690 | 228 | Spicy Shatterblock |
 | 691 | 227 | Christina Singleton |
-| 692 | 227 | Kimberly Susan Privette |
-| 693 | 226 | Rosalind Chatman |
+| 692 | 227 | Hyedie Badie |
+| 693 | 227 | Kimberly Susan Privette |
 | 694 | 226 | Rayshawn Cohen |
 | 695 | 226 | Shameka Tiffany |
-| 696 | 226 | Londa Londa |
-| 697 | 226 | Kahliah Baker |
-| 698 | 226 | Jas |
-| 699 | 225 | Sarah Swietlicki - Lopez |
-| 700 | 225 | Sherri Keys |
-| 701 | 225 | Joseph Vs Cap |
-| 702 | 224 | Joka NoTime ForHataz |
-| 703 | 224 | Lively Wipeout |
-| 704 | 224 | MELLZZtick€T |
-| 705 | 224 | Ysma Simmons |
-| 706 | 224 | DeAngelo Sorrells |
-| 707 | 224 | Hyedie Badie |
-| 708 | 224 | Miera Nicole |
+| 696 | 226 | Rosalind Chatman |
+| 697 | 226 | Londa Londa |
+| 698 | 226 | Kahliah Baker |
+| 699 | 226 | Jas |
+| 700 | 225 | Sarah Swietlicki - Lopez |
+| 701 | 225 | Sherri Keys |
+| 702 | 225 | Joseph Vs Cap |
+| 703 | 224 | Miera Nicole |
+| 704 | 224 | Lively Wipeout |
+| 705 | 224 | MELLZZtick€T |
+| 706 | 224 | Ysma Simmons |
+| 707 | 224 | Joka NoTime ForHataz |
+| 708 | 224 | DeAngelo Sorrells |
 | 709 | 223 | Stephen Providenti |
 | 710 | 223 | Analesia Taylor |
 | 711 | 223 | Kp |
@@ -722,9 +722,9 @@
 | 714 | 222 | Antoinette Kelly |
 | 715 | 221 | Shalena Marie Humphrey |
 | 716 | 221 | Jimmy Shannon |
-| 717 | 220 | Leavon Smith |
-| 718 | 220 | Tushama Cheris Okraku |
-| 719 | 220 | jeremy92 |
+| 717 | 220 | jeremy92 |
+| 718 | 220 | Leavon Smith |
+| 719 | 220 | Tushama Cheris Okraku |
 | 720 | 219 | Jackytrain52 |
 | 721 | 219 | Cynda Cyn |
 | 722 | 219 | Mario Meliodas |
