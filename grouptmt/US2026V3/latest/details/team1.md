@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 14:40:44 UTC
+# Standings for team1 as of 2026-06-10 14:41:24 UTC
 
 **Total Participants:** 2278
 
@@ -188,9 +188,9 @@
 | 180 | 826 | Gael Quintana |
 | 181 | 822 | LaSharmeika Fancher |
 | 182 | 821 | Chuck Quarles |
-| 183 | 819 | xXEKUNXx |
-| 184 | 814 | Andi McGreevy |
-| 185 | 814 | Dandy Brickfit |
+| 183 | 820 | Dandy Brickfit |
+| 184 | 819 | xXEKUNXx |
+| 185 | 814 | Andi McGreevy |
 | 186 | 803 | Big Tina |
 | 187 | 792 | Zappy Riser |
 | 188 | 786 | Eugina Slater |
@@ -873,19 +873,19 @@
 | 865 | 178 | Maxine Williams |
 | 866 | 178 | Michelle Stottlemyer |
 | 867 | 178 | TRUBBLE45 |
-| 868 | 177 | Meepycat |
-| 869 | 177 | Christopher L Crites |
-| 870 | 177 | Angela Kitchens |
-| 871 | 176 | April Lane |
-| 872 | 176 | Frisky Gridder |
-| 873 | 176 | Terrie |
-| 874 | 176 | Poppy Smasher |
-| 875 | 176 | Callie Mae |
-| 876 | 176 | Crystal Garay |
-| 877 | 176 | Alexis Alexander |
-| 878 | 175 | Ozell Jones Jr. |
-| 879 | 175 | Dizzy Gridmatch |
-| 880 | 175 | Boricua64 |
+| 868 | 178 | Boricua64 |
+| 869 | 177 | Meepycat |
+| 870 | 177 | Christopher L Crites |
+| 871 | 177 | Angela Kitchens |
+| 872 | 176 | April Lane |
+| 873 | 176 | Frisky Gridder |
+| 874 | 176 | Terrie |
+| 875 | 176 | Poppy Smasher |
+| 876 | 176 | Callie Mae |
+| 877 | 176 | Crystal Garay |
+| 878 | 176 | Alexis Alexander |
+| 879 | 175 | Ozell Jones Jr. |
+| 880 | 175 | Dizzy Gridmatch |
 | 881 | 175 | DaemahnFriday |
 | 882 | 175 | LAdYPOLy |
 | 883 | 174 | Kizzy Clark |
