@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:02:44 UTC
+# Standings for team1 as of 2026-06-10 18:03:22 UTC
 
 **Total Participants:** 2315
 
@@ -85,8 +85,8 @@
 | 77 | 1791 | Eric Mcgaughy |
 | 78 | 1791 | Frisky Fallmatch |
 | 79 | 1780 | Angela R Wilson |
-| 80 | 1776 | Jessica Roberts |
-| 81 | 1763 | Bre Maugh |
+| 80 | 1778 | Bre Maugh |
+| 81 | 1776 | Jessica Roberts |
 | 82 | 1757 | Carolynne Walker-Bell |
 | 83 | 1754 | PandaPrincess |
 | 84 | 1747 | Chenell Gillard |
