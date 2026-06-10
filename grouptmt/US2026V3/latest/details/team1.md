@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:36:44 UTC
+# Standings for team1 as of 2026-06-10 10:37:22 UTC
 
 **Total Participants:** 2256
 
@@ -18,7 +18,7 @@
 | 10 | 9723 | Speedy Spinblock |
 | 11 | 9705 | Songne Arif |
 | 12 | 9703 | Dyane Leah Ware |
-| 13 | 9367 | Debbie Carswell |
+| 13 | 9370 | Debbie Carswell |
 | 14 | 8423 | Tracy Cohen |
 | 15 | 7886 | Cassidy Butler |
 | 16 | 7730 | Cozy Edge |
@@ -61,7 +61,7 @@
 | 53 | 2145 | Brian Bohanon II |
 | 54 | 2138 | Linzie Marie |
 | 55 | 2121 | Cherry Rose |
-| 56 | 2108 | Chris Caniglia |
+| 56 | 2116 | Chris Caniglia |
 | 57 | 2106 | Shellzb Roberts |
 | 58 | 2082 | D'Andra Stewart |
 | 59 | 2076 | April Inboden |
@@ -175,12 +175,12 @@
 | 167 | 823 | Shontanese Adams |
 | 168 | 821 | Gotcha |
 | 169 | 821 | Chuck Quarles |
-| 170 | 814 | Andi McGreevy |
-| 171 | 813 | Keke Ferguson |
-| 172 | 813 | Rackemwillie34 |
-| 173 | 808 | Taylor Evelyn |
-| 174 | 803 | Big Tina |
-| 175 | 802 | xXEKUNXx |
+| 170 | 819 | xXEKUNXx |
+| 171 | 814 | Andi McGreevy |
+| 172 | 813 | Keke Ferguson |
+| 173 | 813 | Rackemwillie34 |
+| 174 | 808 | Taylor Evelyn |
+| 175 | 803 | Big Tina |
 | 176 | 788 | Zappy Riser |
 | 177 | 786 | Novaa |
 | 178 | 786 | Eugina Slater |
@@ -439,30 +439,30 @@
 | 431 | 352 | Ann Chung |
 | 432 | 352 | Asha Langford |
 | 433 | 352 | Tosha Michelle |
-| 434 | 351 | Shameka Thrasher |
-| 435 | 350 | Daddy |
-| 436 | 350 | Kimberly Linares Hernandez |
-| 437 | 350 | Glitzy Patternline |
-| 438 | 349 | Jae Thompson-Tyus |
-| 439 | 348 | CJ Robinson |
-| 440 | 348 | C Lo Green |
-| 441 | 348 | Kelli Couture |
-| 442 | 346 | Jessie N Michael Silvers |
-| 443 | 345 | Jolly Tilefall |
-| 444 | 344 | Sammie Walker |
+| 434 | 351 | Sammie Walker |
+| 435 | 351 | Shameka Thrasher |
+| 436 | 350 | Daddy |
+| 437 | 350 | Kimberly Linares Hernandez |
+| 438 | 350 | Glitzy Patternline |
+| 439 | 349 | Jae Thompson-Tyus |
+| 440 | 348 | Kelli Couture |
+| 441 | 348 | CJ Robinson |
+| 442 | 348 | C Lo Green |
+| 443 | 346 | Jessie N Michael Silvers |
+| 444 | 345 | Jolly Tilefall |
 | 445 | 344 | DaGuy |
 | 446 | 343 | Tesiree Cray |
 | 447 | 342 | Ashley Monet Terrell |
 | 448 | 341 | The DUBZ |
 | 449 | 340 | Peppy Towerbuilder |
 | 450 | 338 | Twisty Brickfit |
-| 451 | 337 | Tonia Ramos |
-| 452 | 337 | Donnie Withthebody |
+| 451 | 337 | Donnie Withthebody |
+| 452 | 337 | Tonia Ramos |
 | 453 | 334 | TBABYJ |
 | 454 | 334 | Emily Wright |
 | 455 | 333 | Heather Wilson |
-| 456 | 332 | Betsy B. Yohan |
-| 457 | 332 | De'Nell Edwards |
+| 456 | 332 | De'Nell Edwards |
+| 457 | 332 | Betsy B. Yohan |
 | 458 | 332 | SweetByNBy |
 | 459 | 331 | Holly Baker |
 | 460 | 330 | Tracey Johnson |
@@ -478,8 +478,8 @@
 | 470 | 321 | Montego Allen |
 | 471 | 320 | Malcolm Stanley |
 | 472 | 320 | Shanns |
-| 473 | 319 | Nora Mahmoud |
-| 474 | 319 | MACHETEEDDIE513 |
+| 473 | 319 | MACHETEEDDIE513 |
+| 474 | 319 | Nora Mahmoud |
 | 475 | 318 | Nerdy Snapfall |
 | 476 | 318 | Clint Mcdowell |
 | 477 | 315 | Alivia Dove |
