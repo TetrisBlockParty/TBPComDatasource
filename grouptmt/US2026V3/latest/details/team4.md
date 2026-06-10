@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 17:34:46 UTC
+# Standings for team4 as of 2026-06-10 17:35:24 UTC
 
 **Total Participants:** 2353
 
@@ -198,8 +198,8 @@
 | 190 | 778 | LastBoi |
 | 191 | 770 | Wanda Simmons |
 | 192 | 764 | Shocinda Sherwood |
-| 193 | 760 | Anthony Magaraci |
-| 194 | 758 | Neeta Kapadia |
+| 193 | 763 | Neeta Kapadia |
+| 194 | 760 | Anthony Magaraci |
 | 195 | 756 | Renee Sapp |
 | 196 | 753 | Anthony Lewis |
 | 197 | 749 | Nikki Fuller Johnson |
@@ -634,51 +634,51 @@
 | 626 | 262 | Chelsea Guajardo |
 | 627 | 261 | Lee Ann Gibby |
 | 628 | 260 | chefjaydawg |
-| 629 | 260 | Silly Risegrid |
-| 630 | 260 | Sarah Montagne Forsberg |
+| 629 | 260 | Sarah Montagne Forsberg |
+| 630 | 260 | Silly Risegrid |
 | 631 | 260 | Keke Johnson |
 | 632 | 260 | Carissa Thorne-See |
 | 633 | 260 | Kiara Itzel Crowe |
 | 634 | 259 | Jessica Peyton |
 | 635 | 259 | Mc3003 |
-| 636 | 258 | PsyDMom |
-| 637 | 258 | Brainbabe |
-| 638 | 258 | Danny Frausto |
-| 639 | 258 | Rae Saunders |
+| 636 | 258 | Rae Saunders |
+| 637 | 258 | Danny Frausto |
+| 638 | 258 | PsyDMom |
+| 639 | 258 | my my |
 | 640 | 258 | Giggy Blockpiece |
-| 641 | 258 | my my |
-| 642 | 258 | Shaunna Caldwell |
+| 641 | 258 | Shaunna Caldwell |
+| 642 | 258 | Brainbabe |
 | 643 | 258 | JIGsaw ~(•¿°)~ |
 | 644 | 257 | Happy Puzzle |
-| 645 | 256 | Honey Honey |
-| 646 | 256 | pussface |
-| 647 | 256 | Mighty1 |
+| 645 | 256 | Mighty1 |
+| 646 | 256 | Honey Honey |
+| 647 | 256 | pussface |
 | 648 | 255 | Frilly Zoney |
 | 649 | 254 | Mimi Dominguez |
 | 650 | 254 | Snippy Racker |
 | 651 | 254 | Zesty Lift |
-| 652 | 253 | Kennita Cox |
-| 653 | 253 | Vonni McLean |
-| 654 | 253 | Natalie Dillard |
-| 655 | 253 | Spicy Peach |
+| 652 | 253 | Natalie Dillard |
+| 653 | 253 | Kennita Cox |
+| 654 | 253 | Spicy Peach |
+| 655 | 253 | Vonni McLean |
 | 656 | 252 | Ryan Paul Clark-Ramsey |
 | 657 | 251 | Lul Babie |
-| 658 | 250 | Funky Rollzone |
-| 659 | 250 | Kristal |
-| 660 | 250 | Cari Underwood |
-| 661 | 250 | Alexsandra Hill |
-| 662 | 250 | Silly Fallzone |
-| 663 | 250 | DrC |
-| 664 | 249 | Brennan Shea Greene |
-| 665 | 249 | Megan Lynn |
-| 666 | 249 | Dena Lynn Rogers |
-| 667 | 249 | Edward White |
-| 668 | 249 | Virgil Mayfield-Brown |
-| 669 | 248 | alxhue04 |
-| 670 | 248 | Tana-Marie Lynn McCarty-Rolf |
-| 671 | 248 | Daring Towerer |
-| 672 | 247 | Kelly Miller Williams |
-| 673 | 247 | Sarah Leake |
+| 658 | 250 | Cari Underwood |
+| 659 | 250 | Sarah Leake |
+| 660 | 250 | Funky Rollzone |
+| 661 | 250 | Kristal |
+| 662 | 250 | Alexsandra Hill |
+| 663 | 250 | Silly Fallzone |
+| 664 | 250 | DrC |
+| 665 | 249 | Brennan Shea Greene |
+| 666 | 249 | Megan Lynn |
+| 667 | 249 | Dena Lynn Rogers |
+| 668 | 249 | Edward White |
+| 669 | 249 | Virgil Mayfield-Brown |
+| 670 | 248 | alxhue04 |
+| 671 | 248 | Tana-Marie Lynn McCarty-Rolf |
+| 672 | 248 | Daring Towerer |
+| 673 | 247 | Kelly Miller Williams |
 | 674 | 247 | Shauna Davis |
 | 675 | 247 | Corie A. Brinson |
 | 676 | 247 | aga |
@@ -1089,8 +1089,8 @@
 | 1081 | 139 | Melissa Wilson |
 | 1082 | 138 | Tammy Lasseigne |
 | 1083 | 138 | Ami Ferguson |
-| 1084 | 138 | Lush Match |
-| 1085 | 137 | Jodi Messere |
+| 1084 | 138 | Jodi Messere |
+| 1085 | 138 | Lush Match |
 | 1086 | 137 | LaShieka Noland |
 | 1087 | 137 | Amowe |
 | 1088 | 137 | Lala |
