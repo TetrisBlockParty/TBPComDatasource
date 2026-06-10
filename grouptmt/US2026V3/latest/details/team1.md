@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:16:43 UTC
+# Standings for team1 as of 2026-06-10 15:17:23 UTC
 
 **Total Participants:** 2284
 
@@ -2266,30 +2266,30 @@
 | 2258 | 6 | Sunny Shatterer |
 | 2259 | 6 | NEM0228 |
 | 2260 | 6 | Doc Elm |
-| 2261 | 6 | Dan Quintero |
-| 2262 | 6 | Adam Harrison |
-| 2263 | 6 | James Singleton |
-| 2264 | 5 | the guy |
+| 2261 | 6 | desmi |
+| 2262 | 6 | Dan Quintero |
+| 2263 | 6 | Adam Harrison |
+| 2264 | 6 | James Singleton |
 | 2265 | 5 | MrKeith Debraux |
-| 2266 | 5 | Happy |
-| 2267 | 5 | Melanie Leonard |
-| 2268 | 5 | Cherry |
+| 2266 | 5 | the guy |
+| 2267 | 5 | Happy |
+| 2268 | 5 | Melanie Leonard |
 | 2269 | 5 | Misty Sollberger |
-| 2270 | 5 | Cleversphinx76 |
-| 2271 | 5 | Jennie Vblaricom |
-| 2272 | 5 | Zesty Brickline |
-| 2273 | 5 | Crafty Fallzone |
-| 2274 | 5 | Ruben Esquibel |
-| 2275 | 5 | Jennifer Haton Kreighbaum |
-| 2276 | 5 | Cheery Edgefit |
-| 2277 | 5 | desmi |
+| 2270 | 5 | Cherry |
+| 2271 | 5 | Cleversphinx76 |
+| 2272 | 5 | Jennie Vblaricom |
+| 2273 | 5 | Godz Chosen |
+| 2274 | 5 | Crafty Fallzone |
+| 2275 | 5 | Ruben Esquibel |
+| 2276 | 5 | Jennifer Haton Kreighbaum |
+| 2277 | 5 | Cheery Edgefit |
 | 2278 | 5 | Ashley Marie |
-| 2279 | 5 | MistyJaye |
-| 2280 | 5 | VERA DAME |
-| 2281 | 5 | Joi |
-| 2282 | 5 | Forrestine Eubanks |
-| 2283 | 5 | Sunny Cascadepiece |
-| 2284 | 5 | Godz Chosen |
+| 2279 | 5 | Sunny Cascadepiece |
+| 2280 | 5 | MistyJaye |
+| 2281 | 5 | VERA DAME |
+| 2282 | 5 | Joi |
+| 2283 | 5 | Forrestine Eubanks |
+| 2284 | 5 | Zesty Brickline |
 
 ---
 *Standings created by tournaments datasource generation tool*
