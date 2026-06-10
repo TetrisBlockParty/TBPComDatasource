@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:46:47 UTC
+# Standings for team4 as of 2026-06-10 08:47:23 UTC
 
 **Total Participants:** 2297
 
@@ -36,7 +36,7 @@
 | 28 | 4996 | Irene Arreguin |
 | 29 | 4841 | Daring Ziggy |
 | 30 | 4750 | Jackie Lucas |
-| 31 | 4706 | Chummy Rollzone |
+| 31 | 4716 | Chummy Rollzone |
 | 32 | 4533 | Juan Ford |
 | 33 | 4403 | Victoria Ver |
 | 34 | 4277 | Tonya Brooks-Johnson |
@@ -155,7 +155,7 @@
 | 147 | 940 | Melissa WC |
 | 148 | 933 | Daryn Elliott |
 | 149 | 931 | Cranky Towerbuilder |
-| 150 | 929 | Gorica Prusina |
+| 150 | 930 | Gorica Prusina |
 | 151 | 920 | DexterDobbins |
 | 152 | 910 | Scamp Jones |
 | 153 | 908 | Chiquita Blue |
@@ -753,9 +753,9 @@
 | 745 | 202 | Clever Patterner |
 | 746 | 202 | Ashley Nichole Skamra |
 | 747 | 202 | Shaneé Staunton |
-| 748 | 201 | Abby Waterman |
+| 748 | 201 | Kimberly Mae Watkins |
 | 749 | 201 | Tipsy Patternfit |
-| 750 | 201 | Kimberly Mae Watkins |
+| 750 | 201 | Abby Waterman |
 | 751 | 201 | Frilly Zoney |
 | 752 | 200 | Blockcrusher |
 | 753 | 200 | Jenn Wilson |
@@ -775,26 +775,26 @@
 | 767 | 198 | Has2brat |
 | 768 | 197 | Toria |
 | 769 | 197 | Mighty1 |
-| 770 | 197 | Yvette Johnson |
-| 771 | 196 | Bigmamalizzet Latto |
-| 772 | 196 | Surviving Be Back Soon |
-| 773 | 196 | David Lay |
-| 774 | 196 | Tipsy Matchline |
-| 775 | 195 | Dominique Summers Tah-tah |
-| 776 | 195 | Reina Pagan |
+| 770 | 197 | Millie Hoskins |
+| 771 | 197 | Yvette Johnson |
+| 772 | 196 | Bigmamalizzet Latto |
+| 773 | 196 | Surviving Be Back Soon |
+| 774 | 196 | David Lay |
+| 775 | 196 | Tipsy Matchline |
+| 776 | 195 | Dominique Summers Tah-tah |
 | 777 | 195 | Freddy-B |
 | 778 | 195 | Trishaann Triplett |
-| 779 | 195 | Samantha Lohmeyer |
-| 780 | 194 | Stotty |
-| 781 | 194 | Csigirlnc |
-| 782 | 194 | Jennifer Brucz |
-| 783 | 193 | Fancy Rollfit |
-| 784 | 193 | Sweetfire |
-| 785 | 193 | Kimberly Devon |
-| 786 | 193 | Paulina Deitrick |
-| 787 | 192 | Chris |
-| 788 | 192 | Ralph Hell Rell Williams |
-| 789 | 192 | Millie Hoskins |
+| 779 | 195 | Reina Pagan |
+| 780 | 195 | Samantha Lohmeyer |
+| 781 | 194 | Stotty |
+| 782 | 194 | Csigirlnc |
+| 783 | 194 | Jennifer Brucz |
+| 784 | 193 | Fancy Rollfit |
+| 785 | 193 | Sweetfire |
+| 786 | 193 | Kimberly Devon |
+| 787 | 193 | Paulina Deitrick |
+| 788 | 192 | Chris |
+| 789 | 192 | Ralph Hell Rell Williams |
 | 790 | 191 | Snappy Stack |
 | 791 | 190 | Name |
 | 792 | 190 | Billy Baker |
@@ -1134,17 +1134,17 @@
 | 1126 | 120 | Marvin Mack |
 | 1127 | 120 | Leigh Burton |
 | 1128 | 120 | Dawn Renee Thomas |
-| 1129 | 119 | Chummy Twistpiece |
-| 1130 | 119 | Daffney Starr |
-| 1131 | 119 | Krushie |
-| 1132 | 119 | Giggy Risegrid |
-| 1133 | 119 | Goddatbat |
-| 1134 | 118 | Jennifer Naughton |
-| 1135 | 118 | EmBem |
-| 1136 | 118 | Darren Miguel |
-| 1137 | 118 | Alaina Rousseau |
-| 1138 | 118 | Badmofo |
-| 1139 | 118 | Fancy Gridroll |
+| 1129 | 119 | Fancy Gridroll |
+| 1130 | 119 | Chummy Twistpiece |
+| 1131 | 119 | Daffney Starr |
+| 1132 | 119 | Krushie |
+| 1133 | 119 | Giggy Risegrid |
+| 1134 | 119 | Goddatbat |
+| 1135 | 118 | Jennifer Naughton |
+| 1136 | 118 | EmBem |
+| 1137 | 118 | Darren Miguel |
+| 1138 | 118 | Alaina Rousseau |
+| 1139 | 118 | Badmofo |
 | 1140 | 118 | Tracey Hudspath |
 | 1141 | 117 | Jace Warren |
 | 1142 | 117 | Melissa Abigail |
