@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:32:23 UTC
+# Standings for team2 as of 2026-06-10 08:32:47 UTC
 
 **Total Participants:** 2712
 
@@ -207,31 +207,31 @@
 | 199 | 826 | Milad Arzani |
 | 200 | 825 | Brandon Link |
 | 201 | 825 | Nichole Wilson |
-| 202 | 822 | Kurt Brown |
-| 203 | 822 | Glitzy Base |
-| 204 | 822 | Lori Whitman |
-| 205 | 821 | Sarina Vollink |
-| 206 | 820 | Krisanne Kesner-Lonsby |
-| 207 | 819 | KayLynn Ogden McClelland |
-| 208 | 816 | Jamie Jones |
-| 209 | 813 | Loony Faller |
-| 210 | 810 | Zachary Vymislicky |
-| 211 | 808 | Flashy Twistline |
-| 212 | 808 | Crystal Allen |
-| 213 | 805 | Lashanda Bertram |
-| 214 | 805 | Nicole Hogue |
-| 215 | 804 | Steven Craig |
-| 216 | 802 | Brooke Allred |
-| 217 | 801 | MegaPooh |
-| 218 | 800 | Ashley Green |
-| 219 | 798 | Rob Owens |
-| 220 | 797 | Perii Reynoso |
-| 221 | 795 | Rhonda Diebold |
-| 222 | 788 | Kimmyc |
-| 223 | 787 | Lisa Underwood Desmond |
-| 224 | 777 | Alison Waller |
-| 225 | 776 | Becca Marie |
-| 226 | 774 | Vistabrat |
+| 202 | 824 | Vistabrat |
+| 203 | 822 | Kurt Brown |
+| 204 | 822 | Glitzy Base |
+| 205 | 822 | Lori Whitman |
+| 206 | 821 | Sarina Vollink |
+| 207 | 820 | Krisanne Kesner-Lonsby |
+| 208 | 819 | KayLynn Ogden McClelland |
+| 209 | 816 | Jamie Jones |
+| 210 | 813 | Loony Faller |
+| 211 | 810 | Zachary Vymislicky |
+| 212 | 808 | Flashy Twistline |
+| 213 | 808 | Crystal Allen |
+| 214 | 805 | Lashanda Bertram |
+| 215 | 805 | Nicole Hogue |
+| 216 | 804 | Steven Craig |
+| 217 | 802 | Brooke Allred |
+| 218 | 801 | MegaPooh |
+| 219 | 800 | Ashley Green |
+| 220 | 798 | Rob Owens |
+| 221 | 797 | Perii Reynoso |
+| 222 | 795 | Rhonda Diebold |
+| 223 | 788 | Kimmyc |
+| 224 | 787 | Lisa Underwood Desmond |
+| 225 | 777 | Alison Waller |
+| 226 | 776 | Becca Marie |
 | 227 | 774 | Denise Morehart |
 | 228 | 773 | Katrien |
 | 229 | 768 | Danielle Blount |
@@ -250,8 +250,8 @@
 | 242 | 723 | Nutty Curver |
 | 243 | 720 | Nikki EightySixed |
 | 244 | 720 | Sharon L Brazelton |
-| 245 | 718 | Bubbly Strikerpiece |
-| 246 | 718 | Avie Lou |
+| 245 | 718 | Avie Lou |
+| 246 | 718 | Bubbly Strikerpiece |
 | 247 | 714 | Kellie Sharp Godfrey |
 | 248 | 712 | Sully |
 | 249 | 711 | Christina Maria |
@@ -271,7 +271,7 @@
 | 263 | 687 | Zach Jewett |
 | 264 | 679 | True |
 | 265 | 677 | Cool Balancer |
-| 266 | 673 | La chulis |
+| 266 | 675 | La chulis |
 | 267 | 671 | Gloria May Shook |
 | 268 | 671 | Twisty Buildgrid |
 | 269 | 671 | Krystal Hummel |
