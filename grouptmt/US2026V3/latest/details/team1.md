@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:12:44 UTC
+# Standings for team1 as of 2026-06-10 11:13:23 UTC
 
 **Total Participants:** 2260
 
@@ -71,7 +71,7 @@
 | 63 | 1945 | Chris Russell |
 | 64 | 1939 | Corey Cawthon |
 | 65 | 1932 | Louis Richard Jr |
-| 66 | 1893 | Moomoo |
+| 66 | 1903 | Moomoo |
 | 67 | 1876 | Todd C. Clemens |
 | 68 | 1870 | TAZ-MF-NIZIL |
 | 69 | 1869 | Jolly Dropzone |
@@ -334,13 +334,13 @@
 | 326 | 457 | Desire Rice |
 | 327 | 457 | Saranoh13 |
 | 328 | 456 | Brave Clearbuilder |
-| 329 | 455 | Ashleyy Netchert |
-| 330 | 453 | Tasha |
-| 331 | 452 | Kenny MrOnethousand Peck |
-| 332 | 449 | Nerdy Climber |
-| 333 | 447 | Chris Rogers |
-| 334 | 447 | Kyra Coleman |
-| 335 | 446 | Will |
+| 329 | 456 | Will |
+| 330 | 455 | Ashleyy Netchert |
+| 331 | 453 | Tasha |
+| 332 | 452 | Kenny MrOnethousand Peck |
+| 333 | 449 | Nerdy Climber |
+| 334 | 447 | Chris Rogers |
+| 335 | 447 | Kyra Coleman |
 | 336 | 444 | Candy Lee |
 | 337 | 442 | Joana Thompson |
 | 338 | 442 | Richard Flex |
@@ -395,23 +395,23 @@
 | 387 | 380 | Ladybug |
 | 388 | 380 | Giggy Edgefit |
 | 389 | 380 | Still Ten Tay |
-| 390 | 378 | Ashley MyBeauty Daniels |
-| 391 | 378 | Dennis J Herron II |
-| 392 | 377 | AF Cruz |
-| 393 | 377 | kick it |
-| 394 | 377 | Eric Spencer Whitaker |
+| 390 | 378 | Kelli Couture |
+| 391 | 378 | Ashley MyBeauty Daniels |
+| 392 | 378 | Dennis J Herron II |
+| 393 | 377 | AF Cruz |
+| 394 | 377 | kick it |
 | 395 | 377 | ♈️ Ariesbaby |
-| 396 | 375 | Jana Cheek |
-| 397 | 372 | BabyCakes |
-| 398 | 371 | Shea Ladynick Henderson |
-| 399 | 371 | Cynthia Bradley |
-| 400 | 371 | Giggy Tower |
-| 401 | 370 | Boldy Liner |
-| 402 | 370 | Allison Baxter |
-| 403 | 369 | Guard Up |
-| 404 | 368 | Cortaz Lawrie |
-| 405 | 366 | MindlessMic |
-| 406 | 366 | Kelli Couture |
+| 396 | 377 | Eric Spencer Whitaker |
+| 397 | 375 | Jana Cheek |
+| 398 | 372 | BabyCakes |
+| 399 | 371 | Shea Ladynick Henderson |
+| 400 | 371 | Cynthia Bradley |
+| 401 | 371 | Giggy Tower |
+| 402 | 370 | Boldy Liner |
+| 403 | 370 | Allison Baxter |
+| 404 | 369 | Guard Up |
+| 405 | 368 | Cortaz Lawrie |
+| 406 | 366 | MindlessMic |
 | 407 | 366 | Shalya Terry |
 | 408 | 366 | Skippy |
 | 409 | 364 | Kimberly Anderson |
@@ -462,9 +462,9 @@
 | 454 | 337 | Donnie Withthebody |
 | 455 | 337 | Gbnola |
 | 456 | 337 | Tonia Ramos |
-| 457 | 334 | Emily Wright |
-| 458 | 334 | TBABYJ |
-| 459 | 334 | SweetByNBy |
+| 457 | 335 | SweetByNBy |
+| 458 | 334 | Emily Wright |
+| 459 | 334 | TBABYJ |
 | 460 | 333 | Heather Wilson |
 | 461 | 332 | De'Nell Edwards |
 | 462 | 331 | Holly Baker |
@@ -780,32 +780,32 @@
 | 772 | 195 | Nikiya |
 | 773 | 195 | William Vidra |
 | 774 | 195 | Elaine Pauley |
-| 775 | 193 | Sherry D Singleton |
-| 776 | 192 | Cameo Tweed |
-| 777 | 192 | Cranky Fall |
-| 778 | 192 | QueenzMo |
-| 779 | 192 | Taneka Howell |
-| 780 | 190 | Essence Jones |
-| 781 | 190 | Chipper Snapper |
-| 782 | 189 | Missy Myvette |
-| 783 | 189 | Sunny Tumbler |
-| 784 | 189 | Sean White |
-| 785 | 189 | Jes Marie |
-| 786 | 189 | Anntionette Sotire |
-| 787 | 189 | Analesia Taylor |
-| 788 | 189 | TBabii24 |
-| 789 | 189 | Duncan Timothy |
+| 775 | 194 | Analesia Taylor |
+| 776 | 193 | Sherry D Singleton |
+| 777 | 192 | Cameo Tweed |
+| 778 | 192 | Cranky Fall |
+| 779 | 192 | QueenzMo |
+| 780 | 192 | Taneka Howell |
+| 781 | 190 | Essence Jones |
+| 782 | 190 | Chipper Snapper |
+| 783 | 189 | Sean White |
+| 784 | 189 | Missy Myvette |
+| 785 | 189 | Anntionette Sotire |
+| 786 | 189 | Sunny Tumbler |
+| 787 | 189 | Jes Marie |
+| 788 | 189 | Duncan Timothy |
+| 789 | 189 | TBabii24 |
 | 790 | 188 | Mary Goode |
-| 791 | 187 | Megan Jones |
-| 792 | 187 | Vontesha Kidd |
+| 791 | 187 | Chocolate |
+| 792 | 187 | Megan Jones |
 | 793 | 187 | Lively Riserpiece |
-| 794 | 187 | Chocolate |
-| 795 | 186 | Christy Quick |
-| 796 | 186 | Tiffany Conley |
-| 797 | 186 | Morenita Rodriguez |
-| 798 | 186 | Dirty Deeds |
-| 799 | 186 | Nekka |
-| 800 | 186 | Vannie G |
+| 794 | 187 | Vontesha Kidd |
+| 795 | 186 | Vannie G |
+| 796 | 186 | Christy Quick |
+| 797 | 186 | Dirty Deeds |
+| 798 | 186 | Tiffany Conley |
+| 799 | 186 | Morenita Rodriguez |
+| 800 | 186 | Nekka |
 | 801 | 185 | Poppy Twister |
 | 802 | 185 | Dapper Matchfit |
 | 803 | 185 | Eric Machuca |
@@ -1787,25 +1787,25 @@
 | 1779 | 30 | Jessica Corey |
 | 1780 | 30 | Moneke Randolph |
 | 1781 | 30 | Dora Greer |
-| 1782 | 30 | Grace Page |
-| 1783 | 30 | scorpiobae |
-| 1784 | 30 | Spicy Builderfit |
-| 1785 | 30 | Tipsy Tilt |
-| 1786 | 30 | Jeanne Bitner |
-| 1787 | 30 | Chavez James |
+| 1782 | 30 | scorpiobae |
+| 1783 | 30 | Zesty Clearer |
+| 1784 | 30 | Grace Page |
+| 1785 | 30 | Spicy Builderfit |
+| 1786 | 30 | Tipsy Tilt |
+| 1787 | 30 | Jeanne Bitner |
 | 1788 | 30 | linda m |
-| 1789 | 30 | Dee |
-| 1790 | 30 | Myca Cooper |
-| 1791 | 29 | Zondria Barnes |
-| 1792 | 29 | Elizabeth Ragland |
-| 1793 | 29 | Cheeky Tiltbuilder |
-| 1794 | 29 | Virginia Beilen |
-| 1795 | 29 | Epic Wipepiece |
-| 1796 | 29 | Swanky Linkmatch |
-| 1797 | 29 | Macaroni Meechie Johnson |
-| 1798 | 29 | Everett Semmions |
-| 1799 | 29 | Chris Davidson |
-| 1800 | 29 | Zesty Clearer |
+| 1789 | 30 | Chavez James |
+| 1790 | 30 | Dee |
+| 1791 | 30 | Myca Cooper |
+| 1792 | 29 | Zondria Barnes |
+| 1793 | 29 | Elizabeth Ragland |
+| 1794 | 29 | Cheeky Tiltbuilder |
+| 1795 | 29 | Virginia Beilen |
+| 1796 | 29 | Epic Wipepiece |
+| 1797 | 29 | Swanky Linkmatch |
+| 1798 | 29 | Macaroni Meechie Johnson |
+| 1799 | 29 | Everett Semmions |
+| 1800 | 29 | Chris Davidson |
 | 1801 | 29 | Rebecca Hofer |
 | 1802 | 29 | Clever Linkroll |
 | 1803 | 29 | Lively Stagger |
@@ -1815,26 +1815,26 @@
 | 1807 | 28 | Keera425 |
 | 1808 | 28 | Kenya Richardson |
 | 1809 | 28 | Will Stanton |
-| 1810 | 28 | Raevon Bailey |
-| 1811 | 28 | Carlotta L Parker |
-| 1812 | 28 | Honey Beck |
-| 1813 | 28 | Kris |
-| 1814 | 28 | Shutyoface Barber |
-| 1815 | 28 | kiki |
+| 1810 | 28 | Honey Beck |
+| 1811 | 28 | Raevon Bailey |
+| 1812 | 28 | Carlotta L Parker |
+| 1813 | 28 | kiki |
+| 1814 | 28 | Kris |
+| 1815 | 28 | Shutyoface Barber |
 | 1816 | 28 | Tranica Sterling |
-| 1817 | 28 | Zany Edgepiece |
-| 1818 | 28 | Damien Johnson |
+| 1817 | 28 | Damien Johnson |
+| 1818 | 28 | Zany Edgepiece |
 | 1819 | 28 | Dannie Brown |
-| 1820 | 28 | Shanna Nicole Anderson |
-| 1821 | 28 | Iván Cedeño |
+| 1820 | 28 | Iván Cedeño |
+| 1821 | 28 | Shanna Nicole Anderson |
 | 1822 | 28 | VeLora GreenEyez Holt |
-| 1823 | 27 | katia |
+| 1823 | 27 | Mariela J. Mazariegos |
 | 1824 | 27 | Manda Pecora |
 | 1825 | 27 | Earnest Manning Bey |
 | 1826 | 27 | Taylor Keisha |
-| 1827 | 27 | Shaylyn Lockwood |
-| 1828 | 27 | Zesty Fitclear |
-| 1829 | 27 | Mariela J. Mazariegos |
+| 1827 | 27 | Zesty Fitclear |
+| 1828 | 27 | Shaylyn Lockwood |
+| 1829 | 27 | katia |
 | 1830 | 27 | Poppy Clusterbuilder |
 | 1831 | 27 | Lush Buildsnap |
 | 1832 | 27 | Ramon Leno Coolridge |
