@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 02:40:44 UTC
+# Standings for team4 as of 2026-06-10 02:41:21 UTC
 
 **Total Participants:** 2240
 
@@ -978,13 +978,13 @@
 | 970 | 138 | Lush Match |
 | 971 | 138 | Ami Ferguson |
 | 972 | 138 | Tammy Lasseigne |
-| 973 | 138 | Meghan Etchells |
-| 974 | 137 | Amber Torres |
-| 975 | 137 | Glitter |
-| 976 | 137 | Lala |
-| 977 | 137 | Susan Mary Kelley |
-| 978 | 137 | TheazO |
-| 979 | 136 | Vicente Bolaños Jr. |
+| 973 | 138 | Vicente Bolaños Jr. |
+| 974 | 138 | Meghan Etchells |
+| 975 | 137 | Amber Torres |
+| 976 | 137 | Glitter |
+| 977 | 137 | Lala |
+| 978 | 137 | Susan Mary Kelley |
+| 979 | 137 | TheazO |
 | 980 | 136 | Barbara Mays |
 | 981 | 136 | Dannie Ems |
 | 982 | 135 | Frisky Pusher |
