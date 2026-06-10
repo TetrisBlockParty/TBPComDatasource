@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 14:58:47 UTC
+# Standings for team1 as of 2026-06-10 14:59:23 UTC
 
 **Total Participants:** 2280
 
@@ -547,22 +547,22 @@
 | 539 | 293 | crumb bumc |
 | 540 | 293 | Nona Harriel |
 | 541 | 292 | MonaSparks |
-| 542 | 291 | Jack Vlasak |
-| 543 | 291 | LuckyStar |
-| 544 | 291 | 신재호 |
+| 542 | 291 | 신재호 |
+| 543 | 291 | Jack Vlasak |
+| 544 | 291 | LuckyStar |
 | 545 | 291 | Pj Rojas |
 | 546 | 291 | Brian Taylor |
 | 547 | 291 | Hardtohandle91 |
 | 548 | 290 | Tiffany Jean Hinson |
 | 549 | 290 | SnazzyIvy |
-| 550 | 290 | Melissa Olvera |
-| 551 | 289 | Angela Brown Babin |
+| 550 | 290 | Angela Brown Babin |
+| 551 | 290 | Melissa Olvera |
 | 552 | 289 | Lady T |
 | 553 | 289 | Chandler Magee |
 | 554 | 289 | Yashica Smith |
 | 555 | 289 | TBabii24 |
-| 556 | 288 | Falisa Bell |
-| 557 | 288 | Lozuna |
+| 556 | 288 | Lozuna |
+| 557 | 288 | Falisa Bell |
 | 558 | 287 | LiyaSkye |
 | 559 | 286 | Boldy Matchbuilder |
 | 560 | 286 | Zappy Clearfit |
@@ -820,10 +820,10 @@
 | 812 | 195 | Elaine Pauley |
 | 813 | 194 | Sunny Clicky |
 | 814 | 193 | Sherry D Singleton |
-| 815 | 192 | Taneka Howell |
-| 816 | 192 | QueenzMo |
-| 817 | 192 | Cameo Tweed |
-| 818 | 191 | Boricua64 |
+| 815 | 193 | Boricua64 |
+| 816 | 192 | Taneka Howell |
+| 817 | 192 | QueenzMo |
+| 818 | 192 | Cameo Tweed |
 | 819 | 190 | Essence Jones |
 | 820 | 190 | Marshall Davis |
 | 821 | 190 | Chipper Snapper |
@@ -993,45 +993,45 @@
 | 985 | 148 | Raymond Boosie Freeman |
 | 986 | 148 | Star Hart |
 | 987 | 148 | Shawna Passwater |
-| 988 | 147 | Charika Marie Bergmann |
-| 989 | 147 | Angelique Talbot |
-| 990 | 147 | Nichelle Warren |
-| 991 | 147 | Benjamin Livingston |
-| 992 | 147 | Rachel Lopez |
-| 993 | 146 | Jojo M |
-| 994 | 146 | Paul Doty |
-| 995 | 145 | Ashanti Eden |
-| 996 | 145 | Cheery Strikerbuilder |
-| 997 | 144 | Batty B |
-| 998 | 144 | Tammy Collins |
-| 999 | 144 | Witty Clear |
-| 1000 | 144 | Happy Blocky |
-| 1001 | 143 | Tray Tolliver |
+| 988 | 147 | Nichelle Warren |
+| 989 | 147 | Mike Hromowyk |
+| 990 | 147 | Charika Marie Bergmann |
+| 991 | 147 | Angelique Talbot |
+| 992 | 147 | Benjamin Livingston |
+| 993 | 147 | Rachel Lopez |
+| 994 | 146 | Jojo M |
+| 995 | 146 | Paul Doty |
+| 996 | 145 | Ashanti Eden |
+| 997 | 145 | Cheery Strikerbuilder |
+| 998 | 144 | Witty Clear |
+| 999 | 144 | Batty B |
+| 1000 | 144 | Tammy Collins |
+| 1001 | 144 | Happy Blocky |
 | 1002 | 143 | Latanya Gayle |
-| 1003 | 142 | Sharon Lynn |
-| 1004 | 142 | Ace Hardware |
-| 1005 | 142 | E Dubb$ |
-| 1006 | 141 | Tiana Monique |
-| 1007 | 141 | Abdul Malik |
-| 1008 | 141 | Deihja Weaver |
-| 1009 | 141 | Mike Hromowyk |
-| 1010 | 140 | Kimberly Noble |
+| 1003 | 143 | Tray Tolliver |
+| 1004 | 142 | Sharon Lynn |
+| 1005 | 142 | Ace Hardware |
+| 1006 | 142 | E Dubb$ |
+| 1007 | 141 | Tiana Monique |
+| 1008 | 141 | Abdul Malik |
+| 1009 | 141 | Deihja Weaver |
+| 1010 | 140 | Ebie |
 | 1011 | 140 | Marcello Rush |
-| 1012 | 140 | Shadon McMillan |
-| 1013 | 140 | Kennedi Brazziel |
-| 1014 | 140 | Lynette Manning |
-| 1015 | 140 | Ebie |
-| 1016 | 139 | Margretta Henry |
-| 1017 | 139 | Angela Hill O'Neal |
-| 1018 | 139 | Elaine Youmans |
-| 1019 | 139 | OneBuke FollowMe |
+| 1012 | 140 | Lynette Manning |
+| 1013 | 140 | Shadon McMillan |
+| 1014 | 140 | Kimberly Noble |
+| 1015 | 140 | Kennedi Brazziel |
+| 1016 | 139 | Aanngie Aanngie |
+| 1017 | 139 | OneBuke FollowMe |
+| 1018 | 139 | Margretta Henry |
+| 1019 | 139 | Angela Hill O'Neal |
 | 1020 | 139 | Jumpy Gridlock |
-| 1021 | 139 | Aanngie Aanngie |
-| 1022 | 138 | Boldy Pivoty |
-| 1023 | 138 | Franklin Sotelo |
-| 1024 | 138 | Samona Mcculler |
-| 1025 | 138 | Rene Hicks |
-| 1026 | 138 | Jazzy Bridger |
+| 1021 | 139 | Elaine Youmans |
+| 1022 | 138 | Samona Mcculler |
+| 1023 | 138 | Jazzy Bridger |
+| 1024 | 138 | Rene Hicks |
+| 1025 | 138 | Franklin Sotelo |
+| 1026 | 138 | Boldy Pivoty |
 | 1027 | 137 | Yazz |
 | 1028 | 137 | Shaun Anderson |
 | 1029 | 137 | Wacky Dashgrid |
@@ -1416,14 +1416,14 @@
 | 1408 | 68 | Butta |
 | 1409 | 68 | Lillie Blossom Dixon |
 | 1410 | 68 | LOVE |
-| 1411 | 68 | J Dot Flo |
-| 1412 | 68 | Saucy Crusher |
-| 1413 | 68 | Michelle Dollah |
-| 1414 | 68 | Mississippigirl Countrygirl |
-| 1415 | 67 | Leiacellaa23 |
-| 1416 | 67 | Tani |
-| 1417 | 67 | Ray Eyes |
-| 1418 | 67 | Centara Goette |
+| 1411 | 68 | Centara Goette |
+| 1412 | 68 | J Dot Flo |
+| 1413 | 68 | Saucy Crusher |
+| 1414 | 68 | Michelle Dollah |
+| 1415 | 68 | Mississippigirl Countrygirl |
+| 1416 | 67 | Leiacellaa23 |
+| 1417 | 67 | Tani |
+| 1418 | 67 | Ray Eyes |
 | 1419 | 67 | Michele Elizabeth McKay-Johnson |
 | 1420 | 67 | Ericka C Branch |
 | 1421 | 67 | Catrina Zedd |
@@ -1588,36 +1588,36 @@
 | 1580 | 50 | Speedy Patternblock |
 | 1581 | 50 | Plucky Twist |
 | 1582 | 50 | TrapQween39Bi |
-| 1583 | 50 | ThaMENACING1 |
-| 1584 | 50 | Danny Kerns Jr. |
-| 1585 | 49 | Brika Brika |
-| 1586 | 49 | Temeshia Brooks Washington |
-| 1587 | 49 | Pretty-Lily |
-| 1588 | 49 | Farah Simpson |
-| 1589 | 49 | Dave Breaker |
-| 1590 | 49 | Carl Richardson |
-| 1591 | 48 | Steven Bell |
-| 1592 | 48 | Jolly Combo |
-| 1593 | 48 | Blacq Ice |
-| 1594 | 48 | Alisia Johns |
-| 1595 | 48 | Bubbly Base |
-| 1596 | 48 | Jumpy Striker |
-| 1597 | 47 | Joycina Newsome |
-| 1598 | 47 | Major314 |
-| 1599 | 47 | Talya Richards |
-| 1600 | 47 | Pizzle |
-| 1601 | 47 | Hyper Cluster |
-| 1602 | 47 | Marc Jones |
-| 1603 | 47 | Leonard R. Chanette |
-| 1604 | 47 | Sassy Stack |
-| 1605 | 46 | Moneyy Munrow  |
-| 1606 | 46 | Breezy Dashpiece |
-| 1607 | 46 | Niki Bell |
-| 1608 | 46 | Wu May |
-| 1609 | 46 | Hasaan Jones |
-| 1610 | 46 | Bubbly Rollout |
-| 1611 | 46 | Christina Tyler |
-| 1612 | 46 | kayluv85 |
+| 1583 | 50 | Dave Breaker |
+| 1584 | 50 | ThaMENACING1 |
+| 1585 | 50 | Danny Kerns Jr. |
+| 1586 | 49 | Carl Richardson |
+| 1587 | 49 | Farah Simpson |
+| 1588 | 49 | Brika Brika |
+| 1589 | 49 | Pretty-Lily |
+| 1590 | 49 | Temeshia Brooks Washington |
+| 1591 | 48 | Jolly Combo |
+| 1592 | 48 | Bubbly Base |
+| 1593 | 48 | Jumpy Striker |
+| 1594 | 48 | Steven Bell |
+| 1595 | 48 | Blacq Ice |
+| 1596 | 48 | Alisia Johns |
+| 1597 | 47 | Sassy Stack |
+| 1598 | 47 | Pizzle |
+| 1599 | 47 | Leonard R. Chanette |
+| 1600 | 47 | Talya Richards |
+| 1601 | 47 | Joycina Newsome |
+| 1602 | 47 | Major314 |
+| 1603 | 47 | Hyper Cluster |
+| 1604 | 47 | Marc Jones |
+| 1605 | 46 | Breezy Dashpiece |
+| 1606 | 46 | Niki Bell |
+| 1607 | 46 | Wu May |
+| 1608 | 46 | Christina Tyler |
+| 1609 | 46 | Moneyy Munrow  |
+| 1610 | 46 | kayluv85 |
+| 1611 | 46 | Hasaan Jones |
+| 1612 | 46 | Bubbly Rollout |
 | 1613 | 46 | kattat |
 | 1614 | 46 | Crystal Ann |
 | 1615 | 46 | Beverly Redd-Fountain |
