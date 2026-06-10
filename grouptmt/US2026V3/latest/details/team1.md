@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 17:08:45 UTC
+# Standings for team1 as of 2026-06-10 17:09:22 UTC
 
 **Total Participants:** 2306
 
@@ -278,9 +278,9 @@
 | 270 | 570 | Tessa Felice Hill |
 | 271 | 569 | Hailey Hil |
 | 272 | 565 | DellaLucretia Thomas |
-| 273 | 558 | Joey Albright |
-| 274 | 557 | Tamara Johnson-Carter |
-| 275 | 556 | pooh |
+| 273 | 560 | pooh |
+| 274 | 558 | Joey Albright |
+| 275 | 557 | Tamara Johnson-Carter |
 | 276 | 554 | Marissa Sweet |
 | 277 | 551 | Giggly Tiltbuilder |
 | 278 | 549 | Chasem45 |
