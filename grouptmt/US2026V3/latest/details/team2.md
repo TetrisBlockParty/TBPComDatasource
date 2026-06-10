@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:16:46 UTC
+# Standings for team2 as of 2026-06-10 09:17:23 UTC
 
 **Total Participants:** 2715
 
@@ -103,11 +103,11 @@
 | 95 | 1914 | Nova Nova |
 | 96 | 1909 | Marquita Toliver |
 | 97 | 1880 | Zappy Pattern |
-| 98 | 1828 | Daybreak |
-| 99 | 1810 | Pickle |
-| 100 | 1810 | Smiley Dropper |
-| 101 | 1778 | Cathy Tippett |
-| 102 | 1755 | Bridget N Jonathan Franz |
+| 98 | 1850 | Bridget N Jonathan Franz |
+| 99 | 1828 | Daybreak |
+| 100 | 1810 | Pickle |
+| 101 | 1810 | Smiley Dropper |
+| 102 | 1778 | Cathy Tippett |
 | 103 | 1740 | Josh Twilley |
 | 104 | 1711 | Bon Lynn |
 | 105 | 1701 | Giddy Slamdrop |
@@ -476,10 +476,10 @@
 | 468 | 391 | Dad |
 | 469 | 390 | Mrs biotch |
 | 470 | 388 | Ashley Billiot Rhodes |
-| 471 | 387 | RaeRae |
-| 472 | 387 | Ashley Propst |
-| 473 | 386 | Brittney Williams |
-| 474 | 385 | Mama G |
+| 471 | 388 | Mama G |
+| 472 | 387 | RaeRae |
+| 473 | 387 | Ashley Propst |
+| 474 | 386 | Brittney Williams |
 | 475 | 385 | Bengy Lead |
 | 476 | 385 | Liseth Vasquez |
 | 477 | 385 | Pamela Raye |
@@ -1439,25 +1439,25 @@
 | 1431 | 108 | Angela Oates-Killebrew |
 | 1432 | 108 | Miranda Krentz |
 | 1433 | 108 | Crystal Whygle |
-| 1434 | 107 | TyGur the Tony |
-| 1435 | 107 | Giggy Linkgrid |
-| 1436 | 107 | Alisha Kralicek Trainham |
-| 1437 | 107 | Silly Cluster |
+| 1434 | 107 | Giggy Linkgrid |
+| 1435 | 107 | TyGur the Tony |
+| 1436 | 107 | Silly Cluster |
+| 1437 | 107 | Alisha Kralicek Trainham |
 | 1438 | 107 | Carole Brown |
 | 1439 | 107 | Loopy Zone |
-| 1440 | 106 | Ashley Lee DeHaan |
-| 1441 | 106 | Matthew Black |
+| 1440 | 106 | sam |
+| 1441 | 106 | Teresa Ann Curry |
 | 1442 | 106 | Nikki Blilie |
-| 1443 | 106 | Teresa Ann Curry |
-| 1444 | 105 | Nadine Velardo |
-| 1445 | 105 | DragonJB2020 |
-| 1446 | 105 | Katherine Crosby |
-| 1447 | 105 | Yvonne Rodriguez |
-| 1448 | 105 | Heather Hi |
-| 1449 | 105 | Erin Marie Smith |
-| 1450 | 105 | Patrick Woodard |
-| 1451 | 104 | Michele Choate |
-| 1452 | 104 | sam |
+| 1443 | 106 | Matthew Black |
+| 1444 | 106 | Ashley Lee DeHaan |
+| 1445 | 105 | Katherine Crosby |
+| 1446 | 105 | Yvonne Rodriguez |
+| 1447 | 105 | DragonJB2020 |
+| 1448 | 105 | Nadine Velardo |
+| 1449 | 105 | Heather Hi |
+| 1450 | 105 | Erin Marie Smith |
+| 1451 | 105 | Patrick Woodard |
+| 1452 | 104 | Michele Choate |
 | 1453 | 104 | Jolene Smith |
 | 1454 | 104 | Yari |
 | 1455 | 104 | Stacey Ann Kelley |
@@ -2657,31 +2657,31 @@
 | 2649 | 7 | Janice Simpson |
 | 2650 | 7 | Myki Orton |
 | 2651 | 7 | David Theoneandonly |
-| 2652 | 7 | Zany Risepiece |
-| 2653 | 7 | Terri Jane Hardin |
-| 2654 | 7 | Savannah Little |
-| 2655 | 7 | bluesky |
-| 2656 | 7 | Carl Gadberry |
-| 2657 | 7 | VikinGs Vnm |
-| 2658 | 7 | elegant 1 |
+| 2652 | 7 | Savannah Little |
+| 2653 | 7 | Hyper Staggerpiece |
+| 2654 | 7 | Vema Shailaja |
+| 2655 | 7 | Traci Hill |
+| 2656 | 7 | Sandy Hutcheson |
+| 2657 | 7 | Zany Risepiece |
+| 2658 | 7 | Slingin.hohoes |
 | 2659 | 7 | Pico |
-| 2660 | 7 | Slingin.hohoes |
-| 2661 | 7 | chrissy |
-| 2662 | 7 | Traci Hill |
-| 2663 | 7 | Hyper Staggerpiece |
-| 2664 | 7 | Vema Shailaja |
-| 2665 | 7 | Sandy Hutcheson |
+| 2660 | 7 | chrissy |
+| 2661 | 7 | elegant 1 |
+| 2662 | 7 | VikinGs Vnm |
+| 2663 | 7 | Carl Gadberry |
+| 2664 | 7 | bluesky |
+| 2665 | 7 | Terri Jane Hardin |
 | 2666 | 7 | Giggy Clusterbuilder |
 | 2667 | 7 | Kelly Shumate |
-| 2668 | 7 | Kim Smith |
+| 2668 | 7 | Kelly Benoit |
 | 2669 | 7 | Terri Rodriguez |
-| 2670 | 7 | Donald Dorgan |
-| 2671 | 7 | Kelly Benoit |
-| 2672 | 7 | Michael Bond |
+| 2670 | 7 | Ashley |
+| 2671 | 7 | Michael David Hennessey |
+| 2672 | 7 | Kim Smith |
 | 2673 | 7 | Gina Gina |
-| 2674 | 7 | Lush Tile |
-| 2675 | 7 | Michael David Hennessey |
-| 2676 | 7 | Ashley |
+| 2674 | 7 | Donald Dorgan |
+| 2675 | 7 | Lush Tile |
+| 2676 | 7 | Michael Bond |
 | 2677 | 7 | michael |
 | 2678 | 7 | Brenda Ohaus Facher |
 | 2679 | 7 | Mercedes Lowery |
@@ -2689,34 +2689,34 @@
 | 2681 | 7 | Elizabeth Elaine Coursey |
 | 2682 | 6 | Cheeky Dashpiece |
 | 2683 | 6 | Adam Shimmel |
-| 2684 | 6 | Rhonda Mckenzie |
-| 2685 | 6 | Kariann Grams |
-| 2686 | 6 | Lonna Staber |
+| 2684 | 6 | Emma |
+| 2685 | 6 | Michelle Brown |
+| 2686 | 6 | Cara Douglas |
 | 2687 | 6 | Rosie Andrade |
-| 2688 | 6 | Paul Medley |
-| 2689 | 6 | Jamie Norred |
-| 2690 | 6 | Anna Hale |
-| 2691 | 6 | Cara Douglas |
-| 2692 | 6 | Jessie |
-| 2693 | 6 | Emma |
-| 2694 | 6 | Pandagirl34 |
+| 2688 | 6 | Rhonda Mckenzie |
+| 2689 | 6 | Lonna Staber |
+| 2690 | 6 | Kariann Grams |
+| 2691 | 6 | Pandagirl34 |
+| 2692 | 6 | Paul Medley |
+| 2693 | 6 | Anna Hale |
+| 2694 | 6 | Crystal |
 | 2695 | 6 | Slay bestie |
-| 2696 | 6 | Crystal |
-| 2697 | 6 | Michelle Brown |
-| 2698 | 5 | Hillary Pizzuti |
-| 2699 | 5 | Slinky Matchgrid |
-| 2700 | 5 | Quirky Liney |
-| 2701 | 5 | Michael Davis |
-| 2702 | 5 | Tiffany Rose Riggins |
-| 2703 | 5 | Diane Mckinney |
-| 2704 | 5 | Julie Ann Jacobs |
-| 2705 | 5 | Alicia Keating Jensen |
-| 2706 | 5 | MamaB |
-| 2707 | 5 | Kathy Lewis |
-| 2708 | 5 | Splashy |
-| 2709 | 5 | Veggie |
-| 2710 | 5 | Bethanie Jo Catenacci |
-| 2711 | 5 | Mighty Linefit |
+| 2696 | 6 | Jessie |
+| 2697 | 6 | Jamie Norred |
+| 2698 | 5 | Tiffany Rose Riggins |
+| 2699 | 5 | Bethanie Jo Catenacci |
+| 2700 | 5 | Diane Mckinney |
+| 2701 | 5 | Julie Ann Jacobs |
+| 2702 | 5 | Mighty Linefit |
+| 2703 | 5 | Slinky Matchgrid |
+| 2704 | 5 | Kathy Lewis |
+| 2705 | 5 | Quirky Liney |
+| 2706 | 5 | Splashy |
+| 2707 | 5 | Hillary Pizzuti |
+| 2708 | 5 | Michael Davis |
+| 2709 | 5 | Alicia Keating Jensen |
+| 2710 | 5 | MamaB |
+| 2711 | 5 | Veggie |
 | 2712 | 5 | Dapper Clearpiece |
 | 2713 | 5 | Jennifer Mauler Schmidt |
 | 2714 | 5 | Nolife |
