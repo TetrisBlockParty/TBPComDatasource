@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:10:44 UTC
+# Standings for team1 as of 2026-06-10 10:11:22 UTC
 
 **Total Participants:** 2255
 
@@ -1039,30 +1039,30 @@
 | 1031 | 129 | Lively Rollpiece |
 | 1032 | 128 | Alonzo Kirkland |
 | 1033 | 128 | Macho Lewis |
-| 1034 | 128 | Stef Hu |
-| 1035 | 128 | Brittany Britkany Marsden-Garrison |
+| 1034 | 128 | Brittany Britkany Marsden-Garrison |
+| 1035 | 128 | Stef Hu |
 | 1036 | 127 | tk |
 | 1037 | 127 | Caitlin Michele |
 | 1038 | 127 | Pretty Yella |
-| 1039 | 126 | Sally Elizabeth Hopson |
-| 1040 | 126 | April Lane |
-| 1041 | 126 | GoldStarJo |
-| 1042 | 126 | Jeremy Hendrix |
-| 1043 | 125 | Rande Smith |
-| 1044 | 124 | Willson06 |
-| 1045 | 124 | jasi |
-| 1046 | 124 | Tyrone Porter |
-| 1047 | 124 | Giggy Brickfit |
-| 1048 | 123 | Angela L Charles |
-| 1049 | 123 | Xrandomx |
-| 1050 | 123 | Alice Biggs |
+| 1039 | 126 | April Lane |
+| 1040 | 126 | Jeremy Hendrix |
+| 1041 | 126 | Sally Elizabeth Hopson |
+| 1042 | 126 | GoldStarJo |
+| 1043 | 125 | WReckitraff |
+| 1044 | 125 | Rande Smith |
+| 1045 | 124 | Giggy Brickfit |
+| 1046 | 124 | Willson06 |
+| 1047 | 124 | jasi |
+| 1048 | 124 | Tyrone Porter |
+| 1049 | 123 | Angela L Charles |
+| 1050 | 123 | Mamiyoung47 |
 | 1051 | 123 | Tia Hazelton |
-| 1052 | 123 | LaMinda Todd |
-| 1053 | 123 | Mamiyoung47 |
-| 1054 | 123 | Vivian Bunnell Myers |
+| 1052 | 123 | Xrandomx |
+| 1053 | 123 | LaMinda Todd |
+| 1054 | 123 | Alice Biggs |
 | 1055 | 123 | Hoppy Buildsnap |
 | 1056 | 123 | Bunnie Celtavini |
-| 1057 | 123 | WReckitraff |
+| 1057 | 123 | Vivian Bunnell Myers |
 | 1058 | 123 | Groovy Rotate |
 | 1059 | 122 | Bluebino |
 | 1060 | 122 | Nichole Horsley-Conn |

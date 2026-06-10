@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:10:44 UTC
+# Standings for team4 as of 2026-06-10 10:11:22 UTC
 
 **Total Participants:** 2302
 
@@ -169,16 +169,16 @@
 | 161 | 877 | Hwanger Land |
 | 162 | 874 | SupaFly |
 | 163 | 872 | vag1974 |
-| 164 | 864 | adrian |
-| 165 | 859 | George Palacios |
-| 166 | 856 | Kimberly Civinski |
-| 167 | 850 | Shiny Dashy |
-| 168 | 848 | Gigglycat |
-| 169 | 841 | Pepone Pepe |
-| 170 | 832 | Lori Stembridge |
-| 171 | 830 | Kitsune Bi |
-| 172 | 825 | Thomasena Eady Reid |
-| 173 | 809 | Sean Mccleary |
+| 164 | 871 | Sean Mccleary |
+| 165 | 864 | adrian |
+| 166 | 859 | George Palacios |
+| 167 | 856 | Kimberly Civinski |
+| 168 | 850 | Shiny Dashy |
+| 169 | 848 | Gigglycat |
+| 170 | 841 | Pepone Pepe |
+| 171 | 832 | Lori Stembridge |
+| 172 | 830 | Kitsune Bi |
+| 173 | 825 | Thomasena Eady Reid |
 | 174 | 808 | Misty Leigh |
 | 175 | 808 | Christy Beezley-Forbush |
 | 176 | 802 | Dandy Clearfit |
@@ -545,9 +545,9 @@
 | 537 | 280 | Snazzy Fitclear |
 | 538 | 280 | Alice Eisnor-Martens |
 | 539 | 280 | Giddy Basepiece |
-| 540 | 279 | LandO |
-| 541 | 279 | JoAnn Summerlot Ratliff |
-| 542 | 279 | Hasty Dropzone |
+| 540 | 280 | Hasty Dropzone |
+| 541 | 279 | LandO |
+| 542 | 279 | JoAnn Summerlot Ratliff |
 | 543 | 279 | Heidi Anne Scheiderer |
 | 544 | 279 | Jacinta Hooker-Brown |
 | 545 | 279 | Krystal Dixon-Hahn |
@@ -627,24 +627,24 @@
 | 619 | 247 | Kennita Cox |
 | 620 | 247 | Corie A. Brinson |
 | 621 | 246 | Lacie Powers |
-| 622 | 246 | KingCas |
-| 623 | 245 | Marcus Fontenot |
-| 624 | 245 | Lovetetris |
-| 625 | 245 | Loretta Hendricks |
-| 626 | 244 | Lolita Nettles |
-| 627 | 244 | Lisa lisa |
-| 628 | 244 | Renita Jordan |
-| 629 | 243 | Anna Ryan |
-| 630 | 243 | Brandy Lynn |
-| 631 | 241 | Stef |
-| 632 | 241 | Memphiago Tenninois |
-| 633 | 241 | Seraphim Mabry |
-| 634 | 240 | 1694AF |
-| 635 | 240 | Jimmy Clark |
-| 636 | 240 | Nerdy Brickster |
-| 637 | 240 | Tesa Mike Jenkins |
-| 638 | 240 | Keke Johnson |
-| 639 | 240 | Jennifer Evans Elliott |
+| 622 | 246 | Jennifer Evans Elliott |
+| 623 | 246 | KingCas |
+| 624 | 245 | Marcus Fontenot |
+| 625 | 245 | Lovetetris |
+| 626 | 245 | Loretta Hendricks |
+| 627 | 244 | Lolita Nettles |
+| 628 | 244 | Lisa lisa |
+| 629 | 244 | Renita Jordan |
+| 630 | 243 | Anna Ryan |
+| 631 | 243 | Brandy Lynn |
+| 632 | 241 | Stef |
+| 633 | 241 | Memphiago Tenninois |
+| 634 | 241 | Seraphim Mabry |
+| 635 | 240 | 1694AF |
+| 636 | 240 | Jimmy Clark |
+| 637 | 240 | Nerdy Brickster |
+| 638 | 240 | Tesa Mike Jenkins |
+| 639 | 240 | Keke Johnson |
 | 640 | 239 | Chelle Williams |
 | 641 | 238 | Amanda Snow |
 | 642 | 238 | Tara Delay Hill |
@@ -1015,14 +1015,14 @@
 | 1007 | 143 | Rebekah Anne Macias |
 | 1008 | 143 | Chirpy Spinzone |
 | 1009 | 142 | Clever Blockmatch |
-| 1010 | 141 | Phredda Helene Gavornik |
-| 1011 | 141 | Monkey |
-| 1012 | 141 | Scott Baum |
-| 1013 | 141 | Baby cat |
+| 1010 | 141 | Baby cat |
+| 1011 | 141 | Phredda Helene Gavornik |
+| 1012 | 141 | Monkey |
+| 1013 | 141 | Scott Baum |
 | 1014 | 141 | Aaron Turner |
 | 1015 | 141 | Audrianna Skaff |
-| 1016 | 140 | Groovy Matchgrid |
-| 1017 | 140 | Deanne Silverdahl |
+| 1016 | 140 | Stacey Heartful |
+| 1017 | 140 | Groovy Matchgrid |
 | 1018 | 140 | Aim Georgia Bros Scott |
 | 1019 | 140 | Jean Yap |
 | 1020 | 140 | the repo |
@@ -1031,15 +1031,15 @@
 | 1023 | 140 | Glitter |
 | 1024 | 140 | Elizabeth Ann Caro |
 | 1025 | 140 | Heather Brown |
-| 1026 | 140 | Krista Diaz |
-| 1027 | 140 | Littleshark |
-| 1028 | 140 | Stacey Heartful |
+| 1026 | 140 | Deanne Silverdahl |
+| 1027 | 140 | Krista Diaz |
+| 1028 | 140 | Littleshark |
 | 1029 | 140 | Willy Leung |
 | 1030 | 140 | skynatda |
 | 1031 | 139 | Cozy Patternbuilder |
 | 1032 | 139 | Melissa Wilson |
-| 1033 | 139 | da1ndonly |
-| 1034 | 139 | Erich EMac McIntosh |
+| 1033 | 139 | Erich EMac McIntosh |
+| 1034 | 139 | da1ndonly |
 | 1035 | 139 | Jonelle Jacobs |
 | 1036 | 139 | Giggy Snapgrid |
 | 1037 | 139 | Gualberto Ramirez |
@@ -1052,12 +1052,12 @@
 | 1044 | 137 | Amowe |
 | 1045 | 137 | Susan Mary Kelley |
 | 1046 | 137 | Lala |
-| 1047 | 136 | Dannie Ems |
-| 1048 | 136 | Gwendolyn Langwinski |
-| 1049 | 135 | Crystal Parker Bryant |
+| 1047 | 136 | Marie Culbert |
+| 1048 | 136 | Dannie Ems |
+| 1049 | 136 | Gwendolyn Langwinski |
 | 1050 | 135 | Jennifer Terrill |
-| 1051 | 134 | Jeni |
-| 1052 | 134 | Marie Culbert |
+| 1051 | 135 | Crystal Parker Bryant |
+| 1052 | 134 | Jeni |
 | 1053 | 134 | Rocky |
 | 1054 | 134 | Kena T. Tanner |
 | 1055 | 134 | LaShieka Noland |
@@ -1169,33 +1169,33 @@
 | 1161 | 115 | Rodger Lines |
 | 1162 | 115 | Shiny Strikerbuilder |
 | 1163 | 115 | Alexis Siefker |
-| 1164 | 114 | Dapper Tiltpiece |
-| 1165 | 114 | Elizabeth Nicole Zahm |
-| 1166 | 114 | Chabetta |
-| 1167 | 114 | Donna Winget |
-| 1168 | 114 | Tommy Thomas |
-| 1169 | 114 | Vergie Michael |
-| 1170 | 114 | Lionel Hampton |
-| 1171 | 113 | Cflixer |
-| 1172 | 113 | Joshua Franklin |
-| 1173 | 113 | Theo Stamps |
+| 1164 | 114 | Donna Winget |
+| 1165 | 114 | Lionel Hampton |
+| 1166 | 114 | Tommy Thomas |
+| 1167 | 114 | Dapper Tiltpiece |
+| 1168 | 114 | Joe Joe |
+| 1169 | 114 | Chabetta |
+| 1170 | 114 | Vergie Michael |
+| 1171 | 114 | Elizabeth Nicole Zahm |
+| 1172 | 113 | Cflixer |
+| 1173 | 113 | Dsay Yates |
 | 1174 | 113 | Marion Wade |
-| 1175 | 113 | Dsay Yates |
-| 1176 | 112 | taya |
+| 1175 | 113 | Theo Stamps |
+| 1176 | 113 | Joshua Franklin |
 | 1177 | 112 | Chris Norman |
-| 1178 | 111 | Jacquelyn L Whitsitt |
-| 1179 | 111 | Buggy Julks |
-| 1180 | 111 | Candace Dean |
-| 1181 | 111 | Anthony Kollar |
-| 1182 | 111 | Snazzy Shatterfit |
-| 1183 | 110 | Clever Clearzone |
-| 1184 | 110 | Lauren Zubia Sanchez |
-| 1185 | 110 | Giggly Rollpiece |
-| 1186 | 110 | Kami |
-| 1187 | 110 | Scott If |
-| 1188 | 109 | Acyndra Cain |
-| 1189 | 109 | Jonathan Jackson |
-| 1190 | 109 | Joe Joe |
+| 1178 | 112 | taya |
+| 1179 | 111 | Jacquelyn L Whitsitt |
+| 1180 | 111 | Buggy Julks |
+| 1181 | 111 | Candace Dean |
+| 1182 | 111 | Anthony Kollar |
+| 1183 | 111 | Snazzy Shatterfit |
+| 1184 | 110 | Clever Clearzone |
+| 1185 | 110 | Lauren Zubia Sanchez |
+| 1186 | 110 | Giggly Rollpiece |
+| 1187 | 110 | Kami |
+| 1188 | 110 | Scott If |
+| 1189 | 109 | Acyndra Cain |
+| 1190 | 109 | Jonathan Jackson |
 | 1191 | 109 | Frisky Blocker |
 | 1192 | 109 | Squiggy |
 | 1193 | 108 | Nata Lia |
