@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 20:04:47 UTC
+# Standings for team2 as of 2026-06-10 20:05:22 UTC
 
 **Total Participants:** 2808
 
@@ -126,9 +126,9 @@
 | 118 | 1583 | haune |
 | 119 | 1568 | Sam |
 | 120 | 1563 | Amber Triguero |
-| 121 | 1551 | Amber Salazar |
-| 122 | 1547 | Lily |
-| 123 | 1545 | Loopy Curvebuilder |
+| 121 | 1555 | Loopy Curvebuilder |
+| 122 | 1551 | Amber Salazar |
+| 123 | 1547 | Lily |
 | 124 | 1510 | Shandrea Crawford |
 | 125 | 1485 | Vistabrat |
 | 126 | 1476 | jmo87 |
@@ -160,7 +160,7 @@
 | 152 | 1195 | Shea |
 | 153 | 1193 | Tami Kay Williams Watson |
 | 154 | 1191 | Ricardo Ewart |
-| 155 | 1168 | Snappy Blockbuilder |
+| 155 | 1178 | Snappy Blockbuilder |
 | 156 | 1164 | Jennifer Siggelko |
 | 157 | 1160 | Jackie Tupper |
 | 158 | 1151 | Jeska Gaines |
@@ -262,10 +262,10 @@
 | 254 | 749 | Jenni LeBlanc |
 | 255 | 748 | Ackerman 85 |
 | 256 | 746 | Dsabrina Maxey |
-| 257 | 736 | Nikki Carter |
-| 258 | 734 | Chris Cooper |
-| 259 | 734 | Kellie Sharp Godfrey |
-| 260 | 733 | meg |
+| 257 | 741 | meg |
+| 258 | 736 | Nikki Carter |
+| 259 | 734 | Chris Cooper |
+| 260 | 734 | Kellie Sharp Godfrey |
 | 261 | 728 | Chipper Stackbuilder |
 | 262 | 725 | Bubbly Strikerpiece |
 | 263 | 724 | Sully |
@@ -492,17 +492,17 @@
 | 484 | 408 | Jennifer Wymer |
 | 485 | 407 | Arik DiLorenzo |
 | 486 | 407 | Wacky Curve |
-| 487 | 407 | Mona Good |
-| 488 | 406 | Spunky Linkblock |
-| 489 | 406 | Alyssa Malay |
-| 490 | 406 | Ray Daisy |
-| 491 | 406 | Carolyn McNaughton |
-| 492 | 405 | Danielle Pack Lewellen |
-| 493 | 405 | Kelly Vedder |
-| 494 | 405 | Brittni Lawrence |
-| 495 | 403 | Speedy Spinfit |
-| 496 | 403 | PaiBri |
-| 497 | 402 | RaeRae |
+| 487 | 407 | RaeRae |
+| 488 | 407 | Mona Good |
+| 489 | 406 | Spunky Linkblock |
+| 490 | 406 | Alyssa Malay |
+| 491 | 406 | Ray Daisy |
+| 492 | 406 | Carolyn McNaughton |
+| 493 | 405 | Danielle Pack Lewellen |
+| 494 | 405 | Kelly Vedder |
+| 495 | 405 | Brittni Lawrence |
+| 496 | 403 | Speedy Spinfit |
+| 497 | 403 | PaiBri |
 | 498 | 402 | Buffy Diane Blake |
 | 499 | 402 | Candi Cane |
 | 500 | 401 | Marilyn Mendoza |
@@ -674,36 +674,36 @@
 | 666 | 304 | Michele Rogers |
 | 667 | 304 | Nikki Sadler |
 | 668 | 304 | Audrey Wood |
-| 669 | 302 | Sandra Belk |
+| 669 | 303 | Julie Brown |
 | 670 | 302 | Smiley Cornerfall |
 | 671 | 302 | Nikki Hatch |
 | 672 | 302 | Cindy Scott |
 | 673 | 302 | Dana Vaiden Rivers |
-| 674 | 300 | aunt nanna |
-| 675 | 300 | Rachel |
-| 676 | 300 | phamous1 |
-| 677 | 299 | Jennifer Covington |
+| 674 | 302 | Sandra Belk |
+| 675 | 300 | phamous1 |
+| 676 | 300 | aunt nanna |
+| 677 | 300 | Rachel |
 | 678 | 299 | Angela VanOstrand |
-| 679 | 298 | Flex |
-| 680 | 298 | Laura Fagans |
-| 681 | 297 | Susie Conger |
-| 682 | 296 | Joshua Dye |
-| 683 | 296 | Joanne Fish |
-| 684 | 296 | Mandy |
-| 685 | 296 | Chilly Surge |
-| 686 | 295 | Julie Brown |
+| 679 | 299 | Jennifer Covington |
+| 680 | 298 | Flex |
+| 681 | 298 | Laura Fagans |
+| 682 | 297 | Susie Conger |
+| 683 | 296 | Joshua Dye |
+| 684 | 296 | Joanne Fish |
+| 685 | 296 | Mandy |
+| 686 | 296 | Chilly Surge |
 | 687 | 295 | Karen Mueller |
 | 688 | 295 | Brian Favre |
 | 689 | 294 | Zany Wrecker |
-| 690 | 294 | Natasha Lee |
-| 691 | 294 | Crafty Rotater |
-| 692 | 294 | Amanda Bryte |
-| 693 | 293 | Jessica Garoutte |
-| 694 | 293 | Nicole Suber |
+| 690 | 294 | Amanda Bryte |
+| 691 | 294 | Natasha Lee |
+| 692 | 294 | Crafty Rotater |
+| 693 | 293 | CEK |
+| 694 | 293 | denirocorona |
 | 695 | 293 | Kimberly Davis |
-| 696 | 293 | denirocorona |
-| 697 | 293 | Sleepypanda67 |
-| 698 | 293 | CEK |
+| 696 | 293 | Sleepypanda67 |
+| 697 | 293 | Jessica Garoutte |
+| 698 | 293 | Nicole Suber |
 | 699 | 292 | Cindy Brown |
 | 700 | 292 | Charlotte Castelli |
 | 701 | 292 | Rescuegirl76 |

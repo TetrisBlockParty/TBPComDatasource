@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 20:04:47 UTC
+# Standings for team4 as of 2026-06-10 20:05:22 UTC
 
 **Total Participants:** 2371
 
@@ -224,7 +224,7 @@
 | 216 | 701 | Megan Vick |
 | 217 | 700 | Shannon Rivera |
 | 218 | 700 | Suzanne Carter |
-| 219 | 696 | Snippy Splitter |
+| 219 | 698 | Snippy Splitter |
 | 220 | 691 | Danielle Mitchell |
 | 221 | 688 | Katie Lynn Petit |
 | 222 | 686 | Jennifer Ellyn Sheets |
@@ -878,16 +878,16 @@
 | 870 | 192 | MsChelleAnn |
 | 871 | 192 | Chris |
 | 872 | 192 | Scot Matthew Bergdorf |
-| 873 | 191 | Kasey Lynne |
-| 874 | 191 | Tony Clark |
-| 875 | 191 | Fancy Gridroll |
-| 876 | 190 | Pickles |
-| 877 | 190 | TeQuita Jennings |
-| 878 | 190 | Brenda Villa |
-| 879 | 190 | Darryl Shufford |
-| 880 | 190 | Layne Davis |
-| 881 | 190 | Name |
-| 882 | 190 | Natalie Ohrtman Strand |
+| 873 | 192 | Fancy Gridroll |
+| 874 | 191 | Kasey Lynne |
+| 875 | 191 | Tony Clark |
+| 876 | 190 | Darryl Shufford |
+| 877 | 190 | Layne Davis |
+| 878 | 190 | Name |
+| 879 | 190 | Natalie Ohrtman Strand |
+| 880 | 190 | Pickles |
+| 881 | 190 | TeQuita Jennings |
+| 882 | 190 | Brenda Villa |
 | 883 | 189 | Chad Finton |
 | 884 | 189 | Amy Gutierrez |
 | 885 | 188 | Certified Da Don |
