@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 02:38:22 UTC
+# Standings for team1 as of 2026-06-10 02:38:46 UTC
 
 **Total Participants:** 2185
 
@@ -54,7 +54,7 @@
 | 46 | 2413 | Jennifer To |
 | 47 | 2370 | Therealdywoune Peay |
 | 48 | 2285 | Markeeta Lipscomb |
-| 49 | 2226 | Mimi 1.0 |
+| 49 | 2239 | Mimi 1.0 |
 | 50 | 2203 | BlackQueen105 |
 | 51 | 2184 | Shortstak |
 | 52 | 2138 | Linzie Marie |
@@ -94,28 +94,28 @@
 | 86 | 1419 | Uneekly Mayde |
 | 87 | 1418 | Daylene Johannes |
 | 88 | 1366 | La'Chae Nickole |
-| 89 | 1356 | Sarah Marie |
-| 90 | 1355 | Whitney Butler |
-| 91 | 1355 | Snappy Link |
-| 92 | 1355 | PandaPrincess |
-| 93 | 1352 | She Higgy |
-| 94 | 1349 | Court Court |
-| 95 | 1341 | Rolanda Williams |
+| 89 | 1356 | Rolanda Williams |
+| 90 | 1356 | Sarah Marie |
+| 91 | 1355 | PandaPrincess |
+| 92 | 1355 | Snappy Link |
+| 93 | 1355 | Whitney Butler |
+| 94 | 1352 | She Higgy |
+| 95 | 1349 | Court Court |
 | 96 | 1333 | Ashley Espeut |
 | 97 | 1331 | Ryan Meilleur |
 | 98 | 1327 | Dawn L Washington-Feuquay |
 | 99 | 1323 | Denise B |
 | 100 | 1299 | Jason Mungin |
 | 101 | 1282 | Jon Gathers |
-| 102 | 1256 | BYM4L |
-| 103 | 1256 | Tameka Jones |
+| 102 | 1256 | Tameka Jones |
+| 103 | 1256 | BYM4L |
 | 104 | 1246 | Robbie Cheeseman |
 | 105 | 1238 | Kimberly Hernandez |
 | 106 | 1230 | Amalie Newvine |
-| 107 | 1227 | KenpachisGirl |
-| 108 | 1227 | G Ah Mayes |
-| 109 | 1217 | Dynah Gordon |
-| 110 | 1217 | Catara Renae Oliver |
+| 107 | 1227 | G Ah Mayes |
+| 108 | 1227 | KenpachisGirl |
+| 109 | 1217 | Catara Renae Oliver |
+| 110 | 1217 | Dynah Gordon |
 | 111 | 1216 | Tiana Moore |
 | 112 | 1210 | FallDee |
 | 113 | 1208 | Aviv Zehavi |
@@ -158,8 +158,8 @@
 | 150 | 897 | Carolynne Walker-Bell |
 | 151 | 896 | Alana Renee |
 | 152 | 895 | Slinky Puzzler |
-| 153 | 890 | Ebony Waynes-robinson |
-| 154 | 890 | Cj Gorman |
+| 153 | 890 | Cj Gorman |
+| 154 | 890 | Ebony Waynes-robinson |
 | 155 | 882 | Katherine Short |
 | 156 | 864 | No_Other_Choice |
 | 157 | 841 | W.A. Simpson |
@@ -169,8 +169,8 @@
 | 161 | 808 | Taylor Evelyn |
 | 162 | 805 | JaszyBadd |
 | 163 | 803 | Chuck Quarles |
-| 164 | 799 | Big Tina |
-| 165 | 799 | Shontanese Adams |
+| 164 | 799 | Shontanese Adams |
+| 165 | 799 | Big Tina |
 | 166 | 790 | Gotcha |
 | 167 | 786 | sha |
 | 168 | 776 | Ann White |
@@ -196,10 +196,10 @@
 | 188 | 700 | Nerdy Blockpiece |
 | 189 | 695 | Yasmin Nakea Wright |
 | 190 | 695 | Jamal Itzjusmall Chambers |
-| 191 | 692 | Zappy Riser |
-| 192 | 692 | Chirpy Corner |
-| 193 | 690 | boogeywoogey |
-| 194 | 690 | Genne Scott |
+| 191 | 692 | Chirpy Corner |
+| 192 | 692 | Zappy Riser |
+| 193 | 690 | Genne Scott |
+| 194 | 690 | boogeywoogey |
 | 195 | 687 | GrkGdess |
 | 196 | 684 | Coco |
 | 197 | 680 | Charletha Williams |
@@ -565,35 +565,35 @@
 | 557 | 255 | Kortney Adams |
 | 558 | 254 | Dorian Griffin |
 | 559 | 254 | Brittany Sara Heldwein |
-| 560 | 252 | Kimberly Anderson |
-| 561 | 252 | Donna Payne |
-| 562 | 252 | Lazy Tiltpiece |
-| 563 | 252 | Mary Phillippi Blanton |
-| 564 | 251 | Taz Ballard |
+| 560 | 253 | Monica Fields |
+| 561 | 252 | Kimberly Anderson |
+| 562 | 252 | Donna Payne |
+| 563 | 252 | Lazy Tiltpiece |
+| 564 | 252 | Mary Phillippi Blanton |
 | 565 | 251 | Casey Chapman |
-| 566 | 250 | Cheryl Miller |
-| 567 | 250 | Rufus |
-| 568 | 249 | Fina McKinnis |
-| 569 | 249 | Ciera Peace |
-| 570 | 248 | Carla |
-| 571 | 248 | Soubletzy |
-| 572 | 247 | Koreen Johnson-Woolford |
-| 573 | 247 | Courtney Cicoria |
-| 574 | 247 | SceneGreenz Wali |
-| 575 | 246 | Juicy |
-| 576 | 246 | Dede Tate |
-| 577 | 246 | Lilly Brown |
-| 578 | 245 | Mommy Frank |
-| 579 | 245 | Tracy Feyler |
-| 580 | 244 | Monica Fields |
-| 581 | 243 | Lynnette WheelerBushnell |
-| 582 | 243 | Lucy |
-| 583 | 242 | Tamika Rocheteau |
-| 584 | 242 | Marlainia Boyd |
-| 585 | 242 | wmedina67 |
-| 586 | 241 | Shakuria Cortia Burney |
-| 587 | 241 | Cynthia Cruell |
-| 588 | 241 | De'Nell Edwards |
+| 566 | 251 | Taz Ballard |
+| 567 | 250 | Cheryl Miller |
+| 568 | 250 | Rufus |
+| 569 | 249 | Fina McKinnis |
+| 570 | 249 | Ciera Peace |
+| 571 | 248 | Carla |
+| 572 | 248 | Soubletzy |
+| 573 | 247 | Koreen Johnson-Woolford |
+| 574 | 247 | Courtney Cicoria |
+| 575 | 247 | SceneGreenz Wali |
+| 576 | 246 | Juicy |
+| 577 | 246 | Dede Tate |
+| 578 | 246 | Lilly Brown |
+| 579 | 245 | Mommy Frank |
+| 580 | 245 | Tracy Feyler |
+| 581 | 243 | Lucy |
+| 582 | 243 | Lynnette WheelerBushnell |
+| 583 | 242 | Marlainia Boyd |
+| 584 | 242 | wmedina67 |
+| 585 | 242 | Tamika Rocheteau |
+| 586 | 241 | Cynthia Cruell |
+| 587 | 241 | De'Nell Edwards |
+| 588 | 241 | Shakuria Cortia Burney |
 | 589 | 240 | Chris Watson Draper |
 | 590 | 240 | Kesha Brady |
 | 591 | 240 | Shawn Himes |
@@ -733,45 +733,45 @@
 | 725 | 192 | Laysa Nunez |
 | 726 | 192 | Cameo Tweed |
 | 727 | 192 | Cranky Fall |
-| 728 | 191 | Miera Nicole |
-| 729 | 190 | Chipper Snapper |
-| 730 | 190 | Adrian Wilson |
-| 731 | 190 | Essence Jones |
-| 732 | 190 | Lester Malone |
-| 733 | 189 | Anntionette Sotire |
-| 734 | 189 | Duncan Timothy |
-| 735 | 189 | Sean White |
-| 736 | 189 | Missy Myvette |
-| 737 | 189 | Lady T |
-| 738 | 189 | TBabii24 |
-| 739 | 188 | Lynn |
+| 728 | 191 | Jackytrain52 |
+| 729 | 191 | Miera Nicole |
+| 730 | 190 | Chipper Snapper |
+| 731 | 190 | Adrian Wilson |
+| 732 | 190 | Essence Jones |
+| 733 | 190 | Lester Malone |
+| 734 | 189 | Anntionette Sotire |
+| 735 | 189 | Duncan Timothy |
+| 736 | 189 | Sean White |
+| 737 | 189 | Missy Myvette |
+| 738 | 189 | Lady T |
+| 739 | 189 | TBabii24 |
 | 740 | 188 | Mary Goode |
-| 741 | 188 | Loony Clearer |
-| 742 | 188 | Tyiesha Pie Farmer |
-| 743 | 188 | jeremy92 |
-| 744 | 187 | Vontesha Kidd |
+| 741 | 188 | Lynn |
+| 742 | 188 | jeremy92 |
+| 743 | 188 | Loony Clearer |
+| 744 | 188 | Tyiesha Pie Farmer |
 | 745 | 187 | Lively Riserpiece |
-| 746 | 186 | Dirty Deeds |
-| 747 | 186 | Nekka |
+| 746 | 187 | Vontesha Kidd |
+| 747 | 186 | Dirty Deeds |
 | 748 | 186 | Vannie G |
-| 749 | 186 | Tiffany Conley |
-| 750 | 185 | Gerold Folk Haddock |
-| 751 | 185 | Poppy Twister |
-| 752 | 185 | Jackytrain52 |
-| 753 | 185 | Eric Machuca |
-| 754 | 185 | Parris Wright |
+| 749 | 186 | Nekka |
+| 750 | 186 | Tiffany Conley |
+| 751 | 185 | Eric Machuca |
+| 752 | 185 | Gerold Folk Haddock |
+| 753 | 185 | Parris Wright |
+| 754 | 185 | Poppy Twister |
 | 755 | 185 | Jess |
 | 756 | 184 | LaShawyn Wood |
 | 757 | 184 | Jes Marie |
-| 758 | 183 | Cm |
-| 759 | 183 | Mom3granny2 |
-| 760 | 183 | Janice Mowel Curtiss |
+| 758 | 183 | Janice Mowel Curtiss |
+| 759 | 183 | Amihan |
+| 760 | 183 | Mom3granny2 |
 | 761 | 183 | Erika |
-| 762 | 183 | Amihan |
+| 762 | 183 | Cm |
 | 763 | 182 | Comedian Prince Paul |
 | 764 | 182 | Lexx Robins |
-| 765 | 182 | Octavia Bsb Johnson |
-| 766 | 182 | Stanley Dixon |
+| 765 | 182 | Stanley Dixon |
+| 766 | 182 | Octavia Bsb Johnson |
 | 767 | 181 | Melissa Hershberger |
 | 768 | 181 | Spicy Tiler |
 | 769 | 180 | Nikita Jones |
