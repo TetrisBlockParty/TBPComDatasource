@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 11:25:24 UTC
+# Standings for team4 as of 2026-06-10 11:26:45 UTC
 
 **Total Participants:** 2312
 
@@ -67,8 +67,8 @@
 | 59 | 2537 | Маркус Вік |
 | 60 | 2525 | Joseph Anthony Watkins |
 | 61 | 2433 | Alexandria Frazier |
-| 62 | 2406 | Bryan DjMagnum Evans |
-| 63 | 2395 | Jason Allen |
+| 62 | 2425 | Jason Allen |
+| 63 | 2406 | Bryan DjMagnum Evans |
 | 64 | 2310 | Nick Graber |
 | 65 | 2258 | Jace McCullough |
 | 66 | 2255 | Elissa S-k |
@@ -389,26 +389,26 @@
 | 381 | 388 | Melissa Lowe |
 | 382 | 387 | Tricia Motika Cowan |
 | 383 | 387 | luluraine |
-| 384 | 386 | Codey Haffner |
-| 385 | 386 | Poppy |
+| 384 | 386 | Poppy |
+| 385 | 386 | Codey Haffner |
 | 386 | 385 | Giggly Tilt |
 | 387 | 383 | Richard Bearse |
-| 388 | 380 | Brooke Bauer |
-| 389 | 380 | Joe Richard |
+| 388 | 380 | Joe Richard |
+| 389 | 380 | Brooke Bauer |
 | 390 | 379 | Jumpy Brickline |
-| 391 | 378 | No Time |
-| 392 | 378 | Tipsy Builderline |
+| 391 | 378 | Tipsy Builderline |
+| 392 | 378 | No Time |
 | 393 | 377 | Snow77white |
 | 394 | 374 | Dominique Melendez |
 | 395 | 373 | Groovy Towerbuilder |
 | 396 | 371 | TJ |
-| 397 | 370 | Dizzy Slammer |
-| 398 | 370 | Queen B |
-| 399 | 369 | RotatedWrongAgain |
-| 400 | 369 | Lucy Honer |
-| 401 | 367 | kellie |
-| 402 | 367 | Lisa Jones |
-| 403 | 367 | Queen B |
+| 397 | 370 | Queen B |
+| 398 | 370 | Dizzy Slammer |
+| 399 | 370 | Queen B |
+| 400 | 369 | RotatedWrongAgain |
+| 401 | 369 | Lucy Honer |
+| 402 | 367 | kellie |
+| 403 | 367 | Lisa Jones |
 | 404 | 367 | Giggly Column |
 | 405 | 366 | Alexis Cor |
 | 406 | 366 | Ross Bryant |
