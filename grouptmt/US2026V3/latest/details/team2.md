@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:28:45 UTC
+# Standings for team2 as of 2026-06-10 12:29:24 UTC
 
 **Total Participants:** 2739
 
@@ -100,9 +100,9 @@
 | 92 | 2021 | Jef Wassom |
 | 93 | 2020 | Heather Marie-Tarlton Britt |
 | 94 | 1984 | Misiek |
-| 95 | 1952 | Frilly Match |
-| 96 | 1941 | Nova Nova |
-| 97 | 1933 | Zappy Pattern |
+| 95 | 1963 | Zappy Pattern |
+| 96 | 1952 | Frilly Match |
+| 97 | 1941 | Nova Nova |
 | 98 | 1919 | Monica Galli |
 | 99 | 1909 | Marquita Toliver |
 | 100 | 1871 | Bon Lynn |
@@ -1052,26 +1052,26 @@
 | 1044 | 176 | Kimberley Marie |
 | 1045 | 176 | Beth Engberg |
 | 1046 | 175 | Sara Karels |
-| 1047 | 174 | Amanda |
-| 1048 | 174 | Jenny |
-| 1049 | 174 | Hoppy Linkblock |
-| 1050 | 174 | Giggly Spinblock |
-| 1051 | 174 | Seamus |
-| 1052 | 173 | Chirpy Combofall |
+| 1047 | 175 | Brandy McCleary |
+| 1048 | 174 | Giggly Spinblock |
+| 1049 | 174 | Seamus |
+| 1050 | 174 | Amanda |
+| 1051 | 174 | Jenny |
+| 1052 | 174 | Hoppy Linkblock |
 | 1053 | 173 | Ava Dorsch |
 | 1054 | 173 | Tami Weiss |
-| 1055 | 172 | Jennifer Siggelko |
-| 1056 | 172 | Shannon Vanlester |
-| 1057 | 172 | Nicole Treadway |
-| 1058 | 172 | Sarai Coronado |
-| 1059 | 172 | Erin Moore Galloway |
-| 1060 | 171 | Morgan Olson Pingree |
-| 1061 | 171 | Paige Lynette Sohl |
-| 1062 | 170 | Amanda Kennedy |
-| 1063 | 170 | Amanda Mason Scott |
-| 1064 | 170 | Bonnie Huckleberry |
-| 1065 | 170 | Naomi Jaynes |
-| 1066 | 169 | Brandy McCleary |
+| 1055 | 173 | Chirpy Combofall |
+| 1056 | 172 | Erin Moore Galloway |
+| 1057 | 172 | Jennifer Siggelko |
+| 1058 | 172 | Shannon Vanlester |
+| 1059 | 172 | Nicole Treadway |
+| 1060 | 172 | Sarai Coronado |
+| 1061 | 171 | Morgan Olson Pingree |
+| 1062 | 171 | Paige Lynette Sohl |
+| 1063 | 170 | Amanda Kennedy |
+| 1064 | 170 | Amanda Mason Scott |
+| 1065 | 170 | Bonnie Huckleberry |
+| 1066 | 170 | Naomi Jaynes |
 | 1067 | 169 | Sharon Wade |
 | 1068 | 169 | Cranky Brickzone |
 | 1069 | 169 | Wendy Michelle Wise-Ledford |
@@ -1404,22 +1404,22 @@
 | 1396 | 115 | Doris Bonin |
 | 1397 | 115 | CATFISH |
 | 1398 | 115 | Chillxsnow |
-| 1399 | 115 | Raffa |
-| 1400 | 115 | Dan Ramsey |
-| 1401 | 115 | PrissyPris |
-| 1402 | 114 | Twisty Snapmatch |
-| 1403 | 114 | Shannon Miller- Cooley |
-| 1404 | 114 | Lori Lorenz |
-| 1405 | 114 | Bold Bridgepiece |
-| 1406 | 114 | Kayla Faulkiner |
-| 1407 | 114 | Silly Swiper |
-| 1408 | 114 | Jennifer Bailey Byrum |
-| 1409 | 113 | Chummy Smasher |
-| 1410 | 113 | Cool cee |
-| 1411 | 113 | Quina Jesse Fejaran |
-| 1412 | 112 | Cranky Zonebuilder |
-| 1413 | 112 | Yuhh |
-| 1414 | 112 | Swahko |
+| 1399 | 115 | Swahko |
+| 1400 | 115 | Raffa |
+| 1401 | 115 | Dan Ramsey |
+| 1402 | 115 | PrissyPris |
+| 1403 | 114 | Twisty Snapmatch |
+| 1404 | 114 | Shannon Miller- Cooley |
+| 1405 | 114 | Lori Lorenz |
+| 1406 | 114 | Bold Bridgepiece |
+| 1407 | 114 | Kayla Faulkiner |
+| 1408 | 114 | Silly Swiper |
+| 1409 | 114 | Jennifer Bailey Byrum |
+| 1410 | 113 | Chummy Smasher |
+| 1411 | 113 | Cool cee |
+| 1412 | 113 | Quina Jesse Fejaran |
+| 1413 | 112 | Cranky Zonebuilder |
+| 1414 | 112 | Yuhh |
 | 1415 | 112 | Thomas Chris |
 | 1416 | 111 | Lisa |
 | 1417 | 111 | Jennifer Risdell Wilson |
