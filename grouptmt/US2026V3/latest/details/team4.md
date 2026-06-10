@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 16:16:46 UTC
+# Standings for team4 as of 2026-06-10 16:17:22 UTC
 
 **Total Participants:** 2342
 
@@ -481,12 +481,12 @@
 | 473 | 329 | MrsReap |
 | 474 | 328 | Luna |
 | 475 | 327 | Jen Roe |
-| 476 | 325 | Chonda OhanaMomma Michelle |
-| 477 | 324 | Nikki |
-| 478 | 324 | Jen Smith |
-| 479 | 324 | Nutty Rollfit |
-| 480 | 323 | Lupe Chapa |
-| 481 | 323 | Dubiousdust |
+| 476 | 327 | Nutty Rollfit |
+| 477 | 325 | Chonda OhanaMomma Michelle |
+| 478 | 324 | Nikki |
+| 479 | 324 | Jen Smith |
+| 480 | 323 | Dubiousdust |
+| 481 | 323 | Lupe Chapa |
 | 482 | 322 | Missionary Meda |
 | 483 | 322 | Winter Moon |
 | 484 | 321 | Ashley Eskridge |
