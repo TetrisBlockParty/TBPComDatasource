@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 11:54:45 UTC
+# Standings for team2 as of 2026-06-10 11:55:23 UTC
 
 **Total Participants:** 2732
 
@@ -1274,26 +1274,26 @@
 | 1266 | 135 | Smiley Clearer |
 | 1267 | 135 | Matt Solomon |
 | 1268 | 134 | grey panther |
-| 1269 | 133 | Glitzy Fallgrid |
-| 1270 | 133 | BigHearted-57 |
+| 1269 | 133 | Wildcat1220 |
+| 1270 | 133 | Nutty Blockline |
 | 1271 | 133 | Nichole Eileen Doorn Lundy |
-| 1272 | 133 | Wildcat1220 |
-| 1273 | 133 | Nutty Blockline |
-| 1274 | 132 | Tanya Goodwin |
-| 1275 | 132 | Jason Janssen |
-| 1276 | 132 | Bonez |
-| 1277 | 132 | Denita Kaherl |
-| 1278 | 132 | Tim Moore |
-| 1279 | 132 | Jason M Barnes |
-| 1280 | 131 | Jill Bobst Marple |
-| 1281 | 131 | Lyndzey Sciscoe |
-| 1282 | 131 | Marcia Davis |
-| 1283 | 131 | Justtony Fareal |
-| 1284 | 130 | Loriane Shumate Griggs |
-| 1285 | 130 | Lori |
-| 1286 | 130 | Michele Gonzales |
-| 1287 | 130 | Elizabeth Henry |
-| 1288 | 129 | Ayana Yanaeboo Eaddy |
+| 1272 | 133 | BigHearted-57 |
+| 1273 | 133 | Glitzy Fallgrid |
+| 1274 | 132 | Jason Janssen |
+| 1275 | 132 | Denita Kaherl |
+| 1276 | 132 | Tim Moore |
+| 1277 | 132 | Jason M Barnes |
+| 1278 | 132 | Bonez |
+| 1279 | 132 | Tanya Goodwin |
+| 1280 | 131 | Lyndzey Sciscoe |
+| 1281 | 131 | Ayana Yanaeboo Eaddy |
+| 1282 | 131 | Jill Bobst Marple |
+| 1283 | 131 | Marcia Davis |
+| 1284 | 131 | Justtony Fareal |
+| 1285 | 130 | Loriane Shumate Griggs |
+| 1286 | 130 | Lori |
+| 1287 | 130 | Michele Gonzales |
+| 1288 | 130 | Elizabeth Henry |
 | 1289 | 129 | Michelle Brown |
 | 1290 | 129 | Britt |
 | 1291 | 129 | Susan Bosell |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 11:54:45 UTC
+# Standings for team4 as of 2026-06-10 11:55:23 UTC
 
 **Total Participants:** 2313
 
@@ -66,8 +66,8 @@
 | 58 | 2795 | Monica Emel |
 | 59 | 2537 | Маркус Вік |
 | 60 | 2525 | Joseph Anthony Watkins |
-| 61 | 2433 | Alexandria Frazier |
-| 62 | 2425 | Jason Allen |
+| 61 | 2445 | Jason Allen |
+| 62 | 2433 | Alexandria Frazier |
 | 63 | 2406 | Bryan DjMagnum Evans |
 | 64 | 2310 | Nick Graber |
 | 65 | 2264 | Jace McCullough |
@@ -116,7 +116,7 @@
 | 108 | 1237 | Fancy Crasher |
 | 109 | 1227 | shawna |
 | 110 | 1221 | Snappy Fitzone |
-| 111 | 1201 | GeorgeButts |
+| 111 | 1213 | GeorgeButts |
 | 112 | 1201 | Trice Stevenson |
 | 113 | 1196 | J |
 | 114 | 1191 | Dana Fontanez |
@@ -224,13 +224,13 @@
 | 216 | 659 | Lush Fitblock |
 | 217 | 659 | Alex Armour |
 | 218 | 657 | Jenn Norcross |
-| 219 | 654 | Gerald Lew |
-| 220 | 651 | Jewelz |
-| 221 | 651 | Dayna Arthurs |
-| 222 | 650 | Beth Belanger |
-| 223 | 647 | Laguya |
-| 224 | 644 | Krysten Danielle Richard |
-| 225 | 643 | Leslie Ann Carter |
+| 219 | 656 | Leslie Ann Carter |
+| 220 | 654 | Gerald Lew |
+| 221 | 651 | Jewelz |
+| 222 | 651 | Dayna Arthurs |
+| 223 | 650 | Beth Belanger |
+| 224 | 647 | Laguya |
+| 225 | 644 | Krysten Danielle Richard |
 | 226 | 642 | Samara Garcia |
 | 227 | 641 | Waxboss |
 | 228 | 637 | QueenLi86 |
@@ -995,89 +995,89 @@
 | 987 | 148 | Mar Mar |
 | 988 | 148 | Sa5siy |
 | 989 | 147 | Gracey Po |
-| 990 | 147 | Frisky Balance |
-| 991 | 147 | YenSid |
-| 992 | 147 | Snappy Slice |
-| 993 | 147 | Leslie |
-| 994 | 146 | Marie Culbert |
-| 995 | 146 | John Wertz |
-| 996 | 146 | Joshua Hunt |
-| 997 | 146 | Lady |
-| 998 | 146 | Mone DyTorrion Zyan Lotts |
-| 999 | 146 | Mammoth |
-| 1000 | 145 | Melissa Gorman |
-| 1001 | 145 | ButterfliesRFree |
-| 1002 | 145 | Ern |
-| 1003 | 145 | Jeff Seymour |
-| 1004 | 145 | Suzie |
-| 1005 | 145 | Kenny Nguyen |
-| 1006 | 145 | Hooti Smile |
-| 1007 | 144 | GingaNinja |
-| 1008 | 144 | Nikcole Alexis Bryan |
-| 1009 | 144 | Allrise99 |
-| 1010 | 144 | Mighty Spinfit |
-| 1011 | 144 | Tika Boo |
-| 1012 | 143 | Chirpy Spinzone |
-| 1013 | 143 | Rebekah Anne Macias |
-| 1014 | 142 | Clever Blockmatch |
-| 1015 | 141 | Aaron Turner |
-| 1016 | 141 | Phredda Helene Gavornik |
-| 1017 | 141 | Scott Baum |
-| 1018 | 141 | Monkey |
-| 1019 | 141 | Baby cat |
-| 1020 | 141 | Audrianna Skaff |
-| 1021 | 140 | Krista Diaz |
-| 1022 | 140 | Heather Brown |
-| 1023 | 140 | Glitter |
-| 1024 | 140 | Deanne Silverdahl |
-| 1025 | 140 | Kris McMahon |
-| 1026 | 140 | Jean Yap |
-| 1027 | 140 | Larredo Covington |
-| 1028 | 140 | Groovy Matchgrid |
-| 1029 | 140 | Littleshark |
-| 1030 | 140 | the repo |
-| 1031 | 140 | Elizabeth Ann Caro |
-| 1032 | 140 | Stacey Heartful |
-| 1033 | 140 | Aim Georgia Bros Scott |
-| 1034 | 140 | skynatda |
-| 1035 | 140 | Willy Leung |
-| 1036 | 139 | Cozy Patternbuilder |
-| 1037 | 139 | da1ndonly |
-| 1038 | 139 | Giggy Snapgrid |
-| 1039 | 139 | Jonelle Jacobs |
-| 1040 | 139 | Gualberto Ramirez |
-| 1041 | 139 | Melissa Wilson |
-| 1042 | 139 | Erich EMac McIntosh |
-| 1043 | 138 | Meghan Etchells |
-| 1044 | 138 | Lush Match |
-| 1045 | 138 | Tammy Lasseigne |
-| 1046 | 138 | Ami Ferguson |
-| 1047 | 138 | Vanessa Torres |
-| 1048 | 138 | Blu |
-| 1049 | 137 | Lala |
-| 1050 | 137 | Amowe |
-| 1051 | 137 | Susan Mary Kelley |
-| 1052 | 136 | Keisha Petway |
-| 1053 | 136 | Gwendolyn Langwinski |
-| 1054 | 136 | Dannie Ems |
-| 1055 | 135 | Jennifer Terrill |
-| 1056 | 135 | Crystal Parker Bryant |
-| 1057 | 134 | LaShieka Noland |
-| 1058 | 134 | Jeni |
-| 1059 | 134 | Alex Dawn |
-| 1060 | 134 | Kena T. Tanner |
-| 1061 | 134 | Rocky |
-| 1062 | 134 | Samantha Brandt |
-| 1063 | 134 | Cheeky Linkpiece |
-| 1064 | 133 | Scalpel Causes Shambles |
-| 1065 | 133 | Hayze |
-| 1066 | 133 | Michelle Wiles |
-| 1067 | 133 | Masiso |
-| 1068 | 133 | Hasty Snapmatch |
-| 1069 | 133 | Sonia Cordero-Martinez |
-| 1070 | 132 | Chris Somsen |
-| 1071 | 132 | Giggly Gridzone |
-| 1072 | 132 | Marie Lily |
+| 990 | 147 | Marie Lily |
+| 991 | 147 | Frisky Balance |
+| 992 | 147 | YenSid |
+| 993 | 147 | Snappy Slice |
+| 994 | 147 | Leslie |
+| 995 | 146 | Marie Culbert |
+| 996 | 146 | John Wertz |
+| 997 | 146 | Joshua Hunt |
+| 998 | 146 | Lady |
+| 999 | 146 | Mone DyTorrion Zyan Lotts |
+| 1000 | 146 | Mammoth |
+| 1001 | 145 | Melissa Gorman |
+| 1002 | 145 | ButterfliesRFree |
+| 1003 | 145 | Ern |
+| 1004 | 145 | Jeff Seymour |
+| 1005 | 145 | Suzie |
+| 1006 | 145 | Kenny Nguyen |
+| 1007 | 145 | Hooti Smile |
+| 1008 | 144 | GingaNinja |
+| 1009 | 144 | Nikcole Alexis Bryan |
+| 1010 | 144 | Allrise99 |
+| 1011 | 144 | Mighty Spinfit |
+| 1012 | 144 | Tika Boo |
+| 1013 | 143 | Chirpy Spinzone |
+| 1014 | 143 | Rebekah Anne Macias |
+| 1015 | 142 | Clever Blockmatch |
+| 1016 | 142 | Cheeky Linkpiece |
+| 1017 | 141 | Aaron Turner |
+| 1018 | 141 | Phredda Helene Gavornik |
+| 1019 | 141 | Scott Baum |
+| 1020 | 141 | Monkey |
+| 1021 | 141 | Baby cat |
+| 1022 | 141 | Audrianna Skaff |
+| 1023 | 140 | Krista Diaz |
+| 1024 | 140 | Heather Brown |
+| 1025 | 140 | Glitter |
+| 1026 | 140 | Deanne Silverdahl |
+| 1027 | 140 | Kris McMahon |
+| 1028 | 140 | Jean Yap |
+| 1029 | 140 | Larredo Covington |
+| 1030 | 140 | Groovy Matchgrid |
+| 1031 | 140 | Littleshark |
+| 1032 | 140 | the repo |
+| 1033 | 140 | Elizabeth Ann Caro |
+| 1034 | 140 | Stacey Heartful |
+| 1035 | 140 | Aim Georgia Bros Scott |
+| 1036 | 140 | Willy Leung |
+| 1037 | 140 | skynatda |
+| 1038 | 139 | Cozy Patternbuilder |
+| 1039 | 139 | da1ndonly |
+| 1040 | 139 | Giggy Snapgrid |
+| 1041 | 139 | Jonelle Jacobs |
+| 1042 | 139 | Gualberto Ramirez |
+| 1043 | 139 | Melissa Wilson |
+| 1044 | 139 | Erich EMac McIntosh |
+| 1045 | 138 | Meghan Etchells |
+| 1046 | 138 | Lush Match |
+| 1047 | 138 | Tammy Lasseigne |
+| 1048 | 138 | Ami Ferguson |
+| 1049 | 138 | Vanessa Torres |
+| 1050 | 138 | Blu |
+| 1051 | 137 | Lala |
+| 1052 | 137 | Amowe |
+| 1053 | 137 | Susan Mary Kelley |
+| 1054 | 136 | Keisha Petway |
+| 1055 | 136 | Gwendolyn Langwinski |
+| 1056 | 136 | Dannie Ems |
+| 1057 | 135 | Jennifer Terrill |
+| 1058 | 135 | Crystal Parker Bryant |
+| 1059 | 134 | LaShieka Noland |
+| 1060 | 134 | Jeni |
+| 1061 | 134 | Alex Dawn |
+| 1062 | 134 | Kena T. Tanner |
+| 1063 | 134 | Rocky |
+| 1064 | 134 | Samantha Brandt |
+| 1065 | 133 | Scalpel Causes Shambles |
+| 1066 | 133 | Hayze |
+| 1067 | 133 | Michelle Wiles |
+| 1068 | 133 | Masiso |
+| 1069 | 133 | Hasty Snapmatch |
+| 1070 | 133 | Sonia Cordero-Martinez |
+| 1071 | 132 | Chris Somsen |
+| 1072 | 132 | Giggly Gridzone |
 | 1073 | 132 | Jarad Glover |
 | 1074 | 131 | Lush Balanceblock |
 | 1075 | 131 | Jonathan Jackson |
