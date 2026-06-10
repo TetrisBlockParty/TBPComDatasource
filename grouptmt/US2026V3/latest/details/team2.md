@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:58:47 UTC
+# Standings for team2 as of 2026-06-10 08:59:23 UTC
 
 **Total Participants:** 2714
 
@@ -158,8 +158,8 @@
 | 150 | 1130 | Allison Jarman |
 | 151 | 1126 | Jeska Gaines |
 | 152 | 1115 | Spicy Risegrid |
-| 153 | 1108 | Tina Marie |
-| 154 | 1100 | Kellie Montgomery |
+| 153 | 1114 | Kellie Montgomery |
+| 154 | 1108 | Tina Marie |
 | 155 | 1081 | Jackie Tupper |
 | 156 | 1054 | Cristi Doris |
 | 157 | 1049 | Sedy |
@@ -315,8 +315,8 @@
 | 307 | 594 | Chill Line |
 | 308 | 594 | Zany Blockclear |
 | 309 | 584 | Tara |
-| 310 | 583 | MaddieCherie |
-| 311 | 583 | Gabrielle Wilson |
+| 310 | 583 | Gabrielle Wilson |
+| 311 | 583 | MaddieCherie |
 | 312 | 582 | Ratchet |
 | 313 | 579 | Sandra Ruiz |
 | 314 | 579 | Mookshake |
@@ -331,16 +331,16 @@
 | 323 | 560 | Jamin |
 | 324 | 553 | Thomas Tyrone |
 | 325 | 552 | Lora Via |
-| 326 | 551 | Norma Ortiz |
-| 327 | 551 | Jumpy Matchbuilder |
+| 326 | 551 | Jumpy Matchbuilder |
+| 327 | 551 | Norma Ortiz |
 | 328 | 550 | AndyJo |
 | 329 | 550 | Sarah Rodriguez |
 | 330 | 550 | DomDomsNana |
 | 331 | 549 | Greta Warden |
-| 332 | 545 | Amanda L Strong |
-| 333 | 544 | Elliott Mikila |
-| 334 | 539 | Santara Ferguson |
-| 335 | 538 | Jason Cunningham |
+| 332 | 548 | Jason Cunningham |
+| 333 | 545 | Amanda L Strong |
+| 334 | 544 | Elliott Mikila |
+| 335 | 539 | Santara Ferguson |
 | 336 | 536 | Naomi Walker |
 | 337 | 535 | MUMBLES |
 | 338 | 535 | Amy Gale |
