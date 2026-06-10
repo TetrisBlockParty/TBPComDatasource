@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 21:06:45 UTC
+# Standings for team2 as of 2026-06-10 21:07:23 UTC
 
 **Total Participants:** 2813
 
@@ -21,7 +21,7 @@
 | 13 | 9914 | Mocha |
 | 14 | 9622 | Lola C Davis |
 | 15 | 9585 | A.j. Langley |
-| 16 | 9422 | Mellzey |
+| 16 | 9429 | Mellzey |
 | 17 | 9098 | Christina Shell |
 | 18 | 8931 | Bobbi |
 | 19 | 8427 | Elizabeth Mooney |
@@ -290,17 +290,17 @@
 | 282 | 689 | Rosalie Call Kehlenbeck |
 | 283 | 688 | giamy |
 | 284 | 687 | Zach Jewett |
-| 285 | 679 | True |
-| 286 | 679 | Michelle Rich Burkhart |
-| 287 | 674 | Frothy Fitzone |
-| 288 | 672 | Sandra Ruiz |
-| 289 | 672 | Twisty Buildgrid |
-| 290 | 671 | Gloria May Shook |
+| 285 | 680 | Jodi Johnson |
+| 286 | 679 | True |
+| 287 | 679 | Michelle Rich Burkhart |
+| 288 | 674 | Frothy Fitzone |
+| 289 | 672 | Sandra Ruiz |
+| 290 | 672 | Twisty Buildgrid |
 | 291 | 671 | Breeana Bennett |
-| 292 | 671 | Krystal Hummel |
-| 293 | 667 | Iesha Cupil |
-| 294 | 666 | Churube Finwoiisopw |
-| 295 | 664 | Jodi Johnson |
+| 292 | 671 | Gloria May Shook |
+| 293 | 671 | Krystal Hummel |
+| 294 | 667 | Iesha Cupil |
+| 295 | 666 | Churube Finwoiisopw |
 | 296 | 663 | Lyric Price |
 | 297 | 660 | Alicia Ellenburg |
 | 298 | 660 | Mikia Stokes |
@@ -531,14 +531,14 @@
 | 523 | 392 | Wendy Spoor Hof |
 | 524 | 392 | TNGal |
 | 525 | 392 | Sassy Twistbuilder |
-| 526 | 390 | Katelyn Rodgers |
-| 527 | 389 | Jumpy Dashpiece |
-| 528 | 388 | Ashley Billiot Rhodes |
-| 529 | 388 | Ariel Gundersen |
-| 530 | 388 | Madonna Ash |
-| 531 | 387 | Ashley Propst |
-| 532 | 386 | murd3rmous3 |
-| 533 | 385 | Pamela Raye |
+| 526 | 391 | Pamela Raye |
+| 527 | 390 | Katelyn Rodgers |
+| 528 | 389 | Jumpy Dashpiece |
+| 529 | 388 | Ashley Billiot Rhodes |
+| 530 | 388 | Ariel Gundersen |
+| 531 | 388 | Madonna Ash |
+| 532 | 387 | Ashley Propst |
+| 533 | 386 | murd3rmous3 |
 | 534 | 385 | Holly Huval |
 | 535 | 384 | Laura Larsen |
 | 536 | 384 | Jana Campbell |
@@ -737,11 +737,11 @@
 | 729 | 283 | Precious Womack |
 | 730 | 283 | Alonzo Reed |
 | 731 | 282 | Epic Framezone |
-| 732 | 282 | Deb Rose-Bridinger |
-| 733 | 281 | Jennifer Leigh |
-| 734 | 281 | Rick |
-| 735 | 280 | Al Smith Jr |
-| 736 | 280 | Funky Blockmatch |
+| 732 | 282 | Funky Blockmatch |
+| 733 | 282 | Deb Rose-Bridinger |
+| 734 | 281 | Jennifer Leigh |
+| 735 | 281 | Rick |
+| 736 | 280 | Al Smith Jr |
 | 737 | 280 | Michelle M Braley |
 | 738 | 280 | Sharilyn Jackson |
 | 739 | 280 | Adam Latin |
@@ -761,8 +761,8 @@
 | 753 | 276 | NickandJess Reynolds |
 | 754 | 275 | Cheryl Schmid |
 | 755 | 273 | Anzhen |
-| 756 | 273 | Angeleye A James |
-| 757 | 273 | Shannon Posner |
+| 756 | 273 | Shannon Posner |
+| 757 | 273 | Angeleye A James |
 | 758 | 273 | Amber Carpenter |
 | 759 | 272 | Muffin Popper |
 | 760 | 271 | Belle |

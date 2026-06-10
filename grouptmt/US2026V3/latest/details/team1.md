@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 21:06:45 UTC
+# Standings for team1 as of 2026-06-10 21:07:23 UTC
 
 **Total Participants:** 2344
 
@@ -9,7 +9,7 @@
 | 1 | 37500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
 | 3 | 18431 | Death by SnuSnu |
-| 4 | 15935 | Tyeina Johnson |
+| 4 | 16835 | Tyeina Johnson |
 | 5 | 12803 | Charlie Roehm |
 | 6 | 12450 | Erika Windom |
 | 7 | 12404 | Carrie English |
@@ -1598,38 +1598,38 @@
 | 1590 | 53 | Talya Richards |
 | 1591 | 53 | D~√!9£°√¥B£§ |
 | 1592 | 53 | Giddy Bricky |
-| 1593 | 53 | Sashaleo |
-| 1594 | 53 | Jade Smalls |
-| 1595 | 52 | MsBobby Patrick |
-| 1596 | 52 | mimither |
-| 1597 | 52 | Loopy Risepiece |
-| 1598 | 52 | Ashley Horne |
+| 1593 | 53 | Jade Smalls |
+| 1594 | 53 | Sashaleo |
+| 1595 | 52 | Loopy Risepiece |
+| 1596 | 52 | Snippy Glidepiece |
+| 1597 | 52 | Jon Doe |
+| 1598 | 52 | Linda Howard |
 | 1599 | 52 | Giddy Twisterfit |
-| 1600 | 52 | Linda Howard |
-| 1601 | 52 | Snippy Glidepiece |
-| 1602 | 51 | Raylane Brandy Larkin |
-| 1603 | 51 | Emeka Agu |
+| 1600 | 52 | Ashley Horne |
+| 1601 | 52 | mimither |
+| 1602 | 52 | MsBobby Patrick |
+| 1603 | 51 | Raylane Brandy Larkin |
 | 1604 | 51 | Zappy Zoney |
-| 1605 | 51 | SpeedyJas |
-| 1606 | 51 | Destiny Maria |
-| 1607 | 51 | Beth Ingham |
-| 1608 | 51 | Jakari Wool |
-| 1609 | 51 | mae |
-| 1610 | 51 | Madam Suki |
+| 1605 | 51 | Emeka Agu |
+| 1606 | 51 | SpeedyJas |
+| 1607 | 51 | Destiny Maria |
+| 1608 | 51 | Beth Ingham |
+| 1609 | 51 | Jakari Wool |
+| 1610 | 51 | mae |
 | 1611 | 51 | Giggy Rollfit |
 | 1612 | 51 | Danielle Marie Lewis |
-| 1613 | 50 | Steven Bell |
-| 1614 | 50 | Terry Lee Moya |
-| 1615 | 50 | Dee |
-| 1616 | 50 | Aero Builder |
-| 1617 | 50 | Blacq Ice |
-| 1618 | 50 | Speedy Patternblock |
-| 1619 | 50 | Danny Kerns Jr. |
-| 1620 | 50 | ThaMENACING1 |
-| 1621 | 50 | Plucky Twist |
-| 1622 | 50 | TrapQween39Bi |
-| 1623 | 50 | Cranky Fitblock |
-| 1624 | 49 | Jon Doe |
+| 1613 | 51 | Madam Suki |
+| 1614 | 50 | Cranky Fitblock |
+| 1615 | 50 | Terry Lee Moya |
+| 1616 | 50 | Dee |
+| 1617 | 50 | Aero Builder |
+| 1618 | 50 | Blacq Ice |
+| 1619 | 50 | Speedy Patternblock |
+| 1620 | 50 | Danny Kerns Jr. |
+| 1621 | 50 | TrapQween39Bi |
+| 1622 | 50 | ThaMENACING1 |
+| 1623 | 50 | Plucky Twist |
+| 1624 | 50 | Steven Bell |
 | 1625 | 49 | Temeshia Brooks Washington |
 | 1626 | 49 | Brika Brika |
 | 1627 | 49 | Pretty-Lily |
