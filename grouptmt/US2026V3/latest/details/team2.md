@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 18:42:44 UTC
+# Standings for team2 as of 2026-06-10 18:43:22 UTC
 
 **Total Participants:** 2795
 
@@ -401,16 +401,16 @@
 | 393 | 488 | Dallas Runyan |
 | 394 | 487 | Jessica Lynn |
 | 395 | 485 | Jenn |
-| 396 | 484 | Harper |
-| 397 | 483 | Earline Dupuy Bordelon |
-| 398 | 482 | Monee Stronger |
-| 399 | 482 | Newtwidebody |
-| 400 | 480 | Skye Ehret |
-| 401 | 480 | Samantha Bugg Stitcher |
-| 402 | 480 | Physhie |
-| 403 | 480 | Jacob Carpenter |
-| 404 | 479 | Monica Gonzalez Rios |
-| 405 | 479 | Xandrea Jones |
+| 396 | 485 | Newtwidebody |
+| 397 | 484 | Harper |
+| 398 | 483 | Earline Dupuy Bordelon |
+| 399 | 482 | Monee Stronger |
+| 400 | 480 | Samantha Bugg Stitcher |
+| 401 | 480 | Physhie |
+| 402 | 480 | Jacob Carpenter |
+| 403 | 480 | Skye Ehret |
+| 404 | 479 | Xandrea Jones |
+| 405 | 479 | Monica Gonzalez Rios |
 | 406 | 478 | Kathleen Keogh Van Schoyck |
 | 407 | 477 | Darla Ragsdale |
 | 408 | 475 | Liseth Vasquez |
@@ -751,23 +751,23 @@
 | 743 | 273 | Angeleye A James |
 | 744 | 272 | Muffin Popper |
 | 745 | 271 | Belle |
-| 746 | 271 | Spicy Balanceblock |
-| 747 | 270 | Duck |
-| 748 | 270 | Shannon Posner |
-| 749 | 269 | Brooke Kaune |
-| 750 | 269 | Brooke Lynn Marie Adelaide |
-| 751 | 269 | Melissa Aycock |
-| 752 | 269 | DirtySweet84 |
-| 753 | 268 | Tito Garcia |
-| 754 | 268 | Frilly Shiftsnap |
-| 755 | 267 | Kelly |
-| 756 | 267 | Jason Lamporte |
-| 757 | 267 | Treau Torres |
-| 758 | 266 | Stacy Shaunce |
-| 759 | 266 | Darla Nolt |
-| 760 | 266 | Trisha Schneider |
-| 761 | 266 | Epic Framezone |
-| 762 | 265 | Rachel |
+| 746 | 271 | Rachel |
+| 747 | 271 | Spicy Balanceblock |
+| 748 | 270 | Duck |
+| 749 | 270 | Shannon Posner |
+| 750 | 269 | Brooke Kaune |
+| 751 | 269 | Brooke Lynn Marie Adelaide |
+| 752 | 269 | Melissa Aycock |
+| 753 | 269 | DirtySweet84 |
+| 754 | 268 | Tito Garcia |
+| 755 | 268 | Frilly Shiftsnap |
+| 756 | 267 | Kelly |
+| 757 | 267 | Jason Lamporte |
+| 758 | 267 | Treau Torres |
+| 759 | 266 | Stacy Shaunce |
+| 760 | 266 | Darla Nolt |
+| 761 | 266 | Trisha Schneider |
+| 762 | 266 | Epic Framezone |
 | 763 | 265 | Danita Moon |
 | 764 | 265 | Mariya Cline |
 | 765 | 264 | Reign Hustler |
@@ -1489,15 +1489,15 @@
 | 1481 | 110 | Twisty Matcher |
 | 1482 | 110 | Debra Horne |
 | 1483 | 110 | Margie King |
-| 1484 | 110 | Lesley Stoeckle |
-| 1485 | 110 | Shannon Michelle |
-| 1486 | 110 | Brett Mullins |
-| 1487 | 110 | David Blocker |
-| 1488 | 110 | Andrea Spinelli |
-| 1489 | 110 | Krystal Edwards Johnson |
-| 1490 | 110 | Christina German |
-| 1491 | 110 | LivePhoenix |
-| 1492 | 109 | Alena Ross |
+| 1484 | 110 | Alena Ross |
+| 1485 | 110 | Lesley Stoeckle |
+| 1486 | 110 | Shannon Michelle |
+| 1487 | 110 | Brett Mullins |
+| 1488 | 110 | David Blocker |
+| 1489 | 110 | Andrea Spinelli |
+| 1490 | 110 | Krystal Edwards Johnson |
+| 1491 | 110 | Christina German |
+| 1492 | 110 | LivePhoenix |
 | 1493 | 109 | Shannie |
 | 1494 | 109 | Peppy Clusterer |
 | 1495 | 109 | Slinky Glidezone |
