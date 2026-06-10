@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 11:50:45 UTC
+# Standings for team2 as of 2026-06-10 11:51:23 UTC
 
 **Total Participants:** 2732
 
@@ -177,48 +177,48 @@
 | 169 | 975 | MarioKarasovic |
 | 170 | 971 | Shea |
 | 171 | 958 | Tami Kay Williams Watson |
-| 172 | 952 | Leigh Ann |
-| 173 | 951 | AndrewandShela Gornik |
-| 174 | 943 | Amber Wolf |
-| 175 | 939 | Marie Luciano |
-| 176 | 938 | Amber Miller Wirick |
-| 177 | 932 | Alicia Kinney |
-| 178 | 926 | Le Sandy |
-| 179 | 926 | Monique Frantz |
+| 172 | 952 | Alicia Kinney |
+| 173 | 952 | Leigh Ann |
+| 174 | 951 | AndrewandShela Gornik |
+| 175 | 943 | Amber Wolf |
+| 176 | 939 | Marie Luciano |
+| 177 | 938 | Amber Miller Wirick |
+| 178 | 926 | Monique Frantz |
+| 179 | 926 | Le Sandy |
 | 180 | 920 | Brenda Jones |
 | 181 | 912 | Havik Whitfield |
 | 182 | 901 | Fudgie Pie |
 | 183 | 898 | Giggly Wipepiece |
 | 184 | 886 | Sara Perkins |
 | 185 | 886 | Cool Climber |
-| 186 | 878 | Crystal Allen |
-| 187 | 873 | Jat |
-| 188 | 873 | Carebear05 |
-| 189 | 871 | Sandy Lynn |
-| 190 | 869 | SEH |
-| 191 | 866 | Robin G |
-| 192 | 865 | Theresa Hollinger |
-| 193 | 864 | Jgato |
-| 194 | 863 | Kathy McCormick |
-| 195 | 862 | Lori Whitman |
-| 196 | 857 | Nettrainer |
-| 197 | 854 | Amanda Sikes |
-| 198 | 849 | Brandi Thompson |
-| 199 | 846 | Jess |
-| 200 | 842 | Kevin Mccoy |
-| 201 | 841 | Michelle Luke Banta |
-| 202 | 840 | Zesty Strikerbuilder |
-| 203 | 838 | H |
-| 204 | 837 | MegaPooh |
-| 205 | 826 | Milad Arzani |
-| 206 | 825 | Brandon Link |
-| 207 | 825 | Nichole Wilson |
-| 208 | 822 | Kurt Brown |
-| 209 | 822 | Glitzy Base |
-| 210 | 821 | Sarina Vollink |
-| 211 | 820 | Krisanne Kesner-Lonsby |
-| 212 | 819 | KayLynn Ogden McClelland |
-| 213 | 818 | Rob Owens |
+| 186 | 878 | Rob Owens |
+| 187 | 878 | Crystal Allen |
+| 188 | 873 | Jat |
+| 189 | 873 | Carebear05 |
+| 190 | 871 | Sandy Lynn |
+| 191 | 869 | SEH |
+| 192 | 866 | Robin G |
+| 193 | 865 | Theresa Hollinger |
+| 194 | 864 | Jgato |
+| 195 | 863 | Kathy McCormick |
+| 196 | 862 | Lori Whitman |
+| 197 | 857 | Nettrainer |
+| 198 | 854 | Amanda Sikes |
+| 199 | 849 | Brandi Thompson |
+| 200 | 846 | Jess |
+| 201 | 842 | Kevin Mccoy |
+| 202 | 841 | Michelle Luke Banta |
+| 203 | 840 | Zesty Strikerbuilder |
+| 204 | 838 | H |
+| 205 | 837 | MegaPooh |
+| 206 | 826 | Milad Arzani |
+| 207 | 825 | Brandon Link |
+| 208 | 825 | Nichole Wilson |
+| 209 | 822 | Kurt Brown |
+| 210 | 822 | Glitzy Base |
+| 211 | 821 | Sarina Vollink |
+| 212 | 820 | Krisanne Kesner-Lonsby |
+| 213 | 819 | KayLynn Ogden McClelland |
 | 214 | 816 | Jamie Jones |
 | 215 | 814 | Steven Craig |
 | 216 | 813 | Loony Faller |
@@ -426,9 +426,9 @@
 | 418 | 432 | Wacky Stack |
 | 419 | 431 | Gluten Gremlin |
 | 420 | 431 | Amber Smith |
-| 421 | 430 | Breezy |
-| 422 | 428 | Keri Mears |
-| 423 | 427 | TiffTaff |
+| 421 | 431 | TiffTaff |
+| 422 | 430 | Breezy |
+| 423 | 428 | Keri Mears |
 | 424 | 426 | Branden Frankowski |
 | 425 | 425 | Hypee |
 | 426 | 423 | Olivia Jefferson |
