@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 06:51:23 UTC
+# Standings for team2 as of 2026-06-10 06:52:46 UTC
 
 **Total Participants:** 2701
 
@@ -68,7 +68,7 @@
 | 60 | 3182 | Elizabeth Sallas |
 | 61 | 3075 | Suki Kaur |
 | 62 | 3007 | Kymberlee Rolinski |
-| 63 | 2989 | Helen Thomas |
+| 63 | 2999 | Helen Thomas |
 | 64 | 2979 | Angie BBlock |
 | 65 | 2842 | Beverly Lynn Mills |
 | 66 | 2778 | Rose Schaffner-Kibler |
@@ -86,8 +86,8 @@
 | 78 | 2329 | Karen Reid Cenkush |
 | 79 | 2309 | KD Walusay |
 | 80 | 2303 | Angie Mccain |
-| 81 | 2267 | Jenny Graham |
-| 82 | 2265 | Mikki Torres |
+| 81 | 2283 | Mikki Torres |
+| 82 | 2267 | Jenny Graham |
 | 83 | 2229 | Frilly Dashfit |
 | 84 | 2222 | Brent Bittenbender |
 | 85 | 2184 | Marie Edmonds |
@@ -349,19 +349,19 @@
 | 341 | 523 | Marilyn Strickland |
 | 342 | 522 | Doowop40 |
 | 343 | 521 | Melissa Nash |
-| 344 | 520 | Deezie |
-| 345 | 518 | Jodi Johnson |
-| 346 | 518 | Cheery Tilefall |
-| 347 | 517 | Santara Ferguson |
-| 348 | 517 | Jeffrey Smith |
-| 349 | 517 | Nichole Wilson |
-| 350 | 517 | Julibeth Wells |
-| 351 | 516 | Amanda L Strong |
-| 352 | 511 | Flashy Drop |
-| 353 | 509 | Churube Finwoiisopw |
-| 354 | 508 | Dawnypooh |
-| 355 | 506 | Chummy Faller |
-| 356 | 505 | MUMBLES |
+| 344 | 520 | MUMBLES |
+| 345 | 520 | Deezie |
+| 346 | 518 | Jodi Johnson |
+| 347 | 518 | Cheery Tilefall |
+| 348 | 517 | Santara Ferguson |
+| 349 | 517 | Jeffrey Smith |
+| 350 | 517 | Nichole Wilson |
+| 351 | 517 | Julibeth Wells |
+| 352 | 516 | Amanda L Strong |
+| 353 | 511 | Flashy Drop |
+| 354 | 509 | Churube Finwoiisopw |
+| 355 | 508 | Dawnypooh |
+| 356 | 506 | Chummy Faller |
 | 357 | 505 | Melissa Clogher White |
 | 358 | 500 | Joni Michelle Morgan |
 | 359 | 496 | Staci Behrens |
@@ -550,15 +550,15 @@
 | 542 | 340 | Tony Medina |
 | 543 | 339 | Plucky Grabber |
 | 544 | 339 | Darla Ragsdale |
-| 545 | 338 | Katelyn Rodgers |
-| 546 | 337 | Perky Linebuilder |
-| 547 | 337 | Jennifer McClure |
-| 548 | 336 | Hyper Cascade |
-| 549 | 336 | Frisky Twist |
-| 550 | 336 | Symmy Norton |
-| 551 | 335 | SturgStang |
-| 552 | 335 | Brittany Mathis |
-| 553 | 335 | Ssirkus |
+| 545 | 338 | Ssirkus |
+| 546 | 338 | Katelyn Rodgers |
+| 547 | 337 | Perky Linebuilder |
+| 548 | 337 | Jennifer McClure |
+| 549 | 336 | Hyper Cascade |
+| 550 | 336 | Frisky Twist |
+| 551 | 336 | Symmy Norton |
+| 552 | 335 | SturgStang |
+| 553 | 335 | Brittany Mathis |
 | 554 | 335 | Holly Huval |
 | 555 | 333 | Nano. |
 | 556 | 333 | Jill Goff |
@@ -573,7 +573,7 @@
 | 565 | 327 | Cherica Taylor |
 | 566 | 326 | Katie Jones |
 | 567 | 325 | Ozge Akgun Tokat |
-| 568 | 320 | Wendy McKee |
+| 568 | 322 | Wendy McKee |
 | 569 | 320 | Rydin Dirt |
 | 570 | 320 | Happy |
 | 571 | 319 | Michelle Ferrara |
