@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:58:45 UTC
+# Standings for team2 as of 2026-06-10 12:59:23 UTC
 
 **Total Participants:** 2742
 
@@ -129,8 +129,8 @@
 | 121 | 1437 | Amber-leigh Williams |
 | 122 | 1428 | Alicia Kinney |
 | 123 | 1426 | Jazzy Faller |
-| 124 | 1395 | Frothy Fallgrid |
-| 125 | 1378 | Criccett Hooper-Smith |
+| 124 | 1418 | Criccett Hooper-Smith |
+| 125 | 1395 | Frothy Fallgrid |
 | 126 | 1369 | Marquetta Johnson |
 | 127 | 1364 | Jayke Edward |
 | 128 | 1354 | Jaime P Lamb |
@@ -139,9 +139,9 @@
 | 131 | 1323 | joey |
 | 132 | 1316 | Loopy Cascadepiece |
 | 133 | 1306 | Jason Cook |
-| 134 | 1305 | Kellie Montgomery |
-| 135 | 1298 | Hoppy Rotate |
-| 136 | 1286 | Kathy Strickland |
+| 134 | 1305 | Kathy Strickland |
+| 135 | 1305 | Kellie Montgomery |
+| 136 | 1298 | Hoppy Rotate |
 | 137 | 1286 | Kvothe |
 | 138 | 1275 | Michelle Maulsby |
 | 139 | 1270 | Joslyn Johnson |
@@ -164,7 +164,7 @@
 | 156 | 1115 | Spicy Risegrid |
 | 157 | 1108 | Tina Marie |
 | 158 | 1099 | Marie Luciano |
-| 159 | 1090 | Cristi Doris |
+| 159 | 1094 | Cristi Doris |
 | 160 | 1049 | Sedy |
 | 161 | 1035 | Sarah Mccolgan |
 | 162 | 1032 | Groovy Snapper |
@@ -322,8 +322,8 @@
 | 314 | 594 | Zany Blockclear |
 | 315 | 594 | Chill Line |
 | 316 | 594 | Sandra Ruiz |
-| 317 | 589 | Layla Petroff |
-| 318 | 589 | Kay |
+| 317 | 593 | Kay |
+| 318 | 589 | Layla Petroff |
 | 319 | 588 | Thomas Tyrone |
 | 320 | 583 | MaddieCherie |
 | 321 | 582 | Ratchet |
