@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 21:36:45 UTC
+# Standings for team1 as of 2026-06-10 21:37:23 UTC
 
 **Total Participants:** 2347
 
@@ -450,7 +450,7 @@
 | 442 | 376 | Char |
 | 443 | 376 | Skippy |
 | 444 | 375 | Tosha Michelle |
-| 445 | 372 | Tonia Ramos |
+| 445 | 375 | Tonia Ramos |
 | 446 | 372 | Chirpy Buildgrid |
 | 447 | 370 | Allison Baxter |
 | 448 | 370 | Stacy Nicole |
@@ -677,54 +677,54 @@
 | 669 | 253 | Nyhlah Patterson |
 | 670 | 252 | Lazy Tiltpiece |
 | 671 | 252 | Shakuria Cortia Burney |
-| 672 | 251 | Chris Nelson |
-| 673 | 250 | Tony Pizzas |
+| 672 | 251 | Joka NoTime ForHataz |
+| 673 | 251 | Chris Nelson |
 | 674 | 250 | Rufus |
-| 675 | 249 | Lynn |
-| 676 | 249 | Fina McKinnis |
-| 677 | 248 | Carla |
-| 678 | 247 | Tyler |
-| 679 | 247 | Courtney Cicoria |
-| 680 | 246 | Lindsey |
-| 681 | 246 | Stanley Dixon |
-| 682 | 246 | Lilly Brown |
-| 683 | 245 | Loony Clearer |
+| 675 | 250 | Tony Pizzas |
+| 676 | 249 | Lynn |
+| 677 | 249 | Fina McKinnis |
+| 678 | 248 | Carla |
+| 679 | 247 | Tyler |
+| 680 | 247 | Courtney Cicoria |
+| 681 | 246 | Lilly Brown |
+| 682 | 246 | Stanley Dixon |
+| 683 | 246 | Lindsey |
 | 684 | 245 | Tracy Feyler |
-| 685 | 245 | Lynnette WheelerBushnell |
+| 685 | 245 | Loony Clearer |
 | 686 | 245 | Spicy Shatterblock |
-| 687 | 244 | Jas |
-| 688 | 244 | Guy Incognito |
-| 689 | 244 | Joka NoTime ForHataz |
-| 690 | 242 | Tamika Rocheteau |
+| 687 | 245 | Lynnette WheelerBushnell |
+| 688 | 244 | Jas |
+| 689 | 244 | Guy Incognito |
+| 690 | 242 | Smøke DGAF |
 | 691 | 242 | Krista McNair |
-| 692 | 242 | Smøke DGAF |
-| 693 | 241 | Ad Doctor |
-| 694 | 241 | Cynthia Cruell |
-| 695 | 241 | Marlynnnnn |
+| 692 | 242 | Tamika Rocheteau |
+| 693 | 241 | Marlynnnnn |
+| 694 | 241 | Ad Doctor |
+| 695 | 241 | Cynthia Cruell |
 | 696 | 240 | Velma Jones |
 | 697 | 240 | lookin |
-| 698 | 239 | Sherri Keys |
-| 699 | 239 | Frankey Chi |
+| 698 | 239 | Twisty Cascadeclear |
+| 699 | 239 | Sherri Keys |
 | 700 | 239 | Kelley Johnson |
-| 701 | 239 | Twisty Cascadeclear |
-| 702 | 238 | William Vidra |
+| 701 | 239 | Frankey Chi |
+| 702 | 238 | Silly Wiper |
 | 703 | 238 | B.L. Perry |
-| 704 | 238 | Silly Wiper |
-| 705 | 237 | Logan Frost |
-| 706 | 237 | Ameillia Boughner |
-| 707 | 237 | Shalena Marie Humphrey |
-| 708 | 237 | Mario Meliodas |
+| 704 | 238 | William Vidra |
+| 705 | 237 | Ameillia Boughner |
+| 706 | 237 | Logan Frost |
+| 707 | 237 | Mario Meliodas |
+| 708 | 237 | Shalena Marie Humphrey |
 | 709 | 237 | Cranky Fall |
 | 710 | 236 | Semaj Johnson |
 | 711 | 236 | Parris Wright |
-| 712 | 235 | Sarah Swietlicki - Lopez |
-| 713 | 235 | nameno |
-| 714 | 235 | Juan Lewis |
-| 715 | 235 | Squaw Ki Ng |
-| 716 | 235 | Daring Blockclear |
-| 717 | 234 | Jes Marie |
+| 712 | 235 | nameno |
+| 713 | 235 | Daring Blockclear |
+| 714 | 235 | Squaw Ki Ng |
+| 715 | 235 | Juan Lewis |
+| 716 | 235 | Sarah Swietlicki - Lopez |
+| 717 | 234 | Cori Cleland |
 | 718 | 234 | Coco |
-| 719 | 234 | Cori Cleland |
+| 719 | 234 | Jes Marie |
 | 720 | 234 | Daring Riserfit |
 | 721 | 233 | Claudia Price |
 | 722 | 233 | Bella |
