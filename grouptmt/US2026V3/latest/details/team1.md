@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 02:02:44 UTC
+# Standings for team1 as of 2026-06-10 02:03:22 UTC
 
 **Total Participants:** 2167
 
@@ -17,8 +17,8 @@
 | 9 | 9533 | Songne Arif |
 | 10 | 9442 | Dyane Leah Ware |
 | 11 | 9340 | Debbie Carswell |
-| 12 | 9232 | Erika Windom |
-| 13 | 9046 | Tyeina Johnson |
+| 12 | 9246 | Tyeina Johnson |
+| 13 | 9232 | Erika Windom |
 | 14 | 8423 | Tracy Cohen |
 | 15 | 7694 | Cozy Edge |
 | 16 | 7415 | Cassidy Butler |
@@ -161,16 +161,16 @@
 | 153 | 863 | Antonia Wyche |
 | 154 | 842 | Nutty Spinblock |
 | 155 | 836 | Cee Emm |
-| 156 | 822 | Katherine Short |
-| 157 | 813 | Rackemwillie34 |
-| 158 | 805 | JaszyBadd |
-| 159 | 803 | Chuck Quarles |
-| 160 | 799 | Shontanese Adams |
-| 161 | 799 | Big Tina |
-| 162 | 790 | Gotcha |
-| 163 | 776 | sha |
-| 164 | 776 | Ann White |
-| 165 | 770 | Michelle Titus |
+| 156 | 833 | Michelle Titus |
+| 157 | 822 | Katherine Short |
+| 158 | 813 | Rackemwillie34 |
+| 159 | 805 | JaszyBadd |
+| 160 | 803 | Chuck Quarles |
+| 161 | 799 | Shontanese Adams |
+| 162 | 799 | Big Tina |
+| 163 | 790 | Gotcha |
+| 164 | 776 | sha |
+| 165 | 776 | Ann White |
 | 166 | 764 | Byron Mario Cawthon |
 | 167 | 764 | Chantelle Lee |
 | 168 | 760 | Trendalyn Webb |
@@ -872,82 +872,82 @@
 | 864 | 156 | Oaklonboy mike |
 | 865 | 156 | Karen Denen |
 | 866 | 155 | Yoellah Benyahmeen |
-| 867 | 155 | Melissa Ramsey |
-| 868 | 155 | Poppy Smasher |
+| 867 | 155 | Poppy Smasher |
+| 868 | 155 | Melissa Ramsey |
 | 869 | 153 | Latoya Carson |
 | 870 | 152 | Chereese Harris |
 | 871 | 152 | Sandra Mims |
-| 872 | 151 | Kanesha Jackson |
-| 873 | 151 | lady |
-| 874 | 151 | AshyTay |
-| 875 | 151 | Jodie |
-| 876 | 151 | Meepycat |
+| 872 | 151 | lady |
+| 873 | 151 | AshyTay |
+| 874 | 151 | Jodie |
+| 875 | 151 | Meepycat |
+| 876 | 151 | Kanesha Jackson |
 | 877 | 151 | Shanell Thomas |
 | 878 | 150 | Stronger Wiser Better |
 | 879 | 150 | Marshall Davis |
 | 880 | 150 | Raquel Ortiz |
 | 881 | 149 | Sylvia Offically A Mcgowan |
-| 882 | 148 | Shawna Passwater |
-| 883 | 148 | Zany Patternblock |
-| 884 | 147 | Benjamin Livingston |
-| 885 | 147 | Crtjstr |
-| 886 | 147 | Ashley Love Pettit |
-| 887 | 147 | Nichelle Warren |
-| 888 | 147 | Charika Marie Bergmann |
-| 889 | 147 | Angelique Talbot |
-| 890 | 147 | Christopher L Crites |
+| 882 | 148 | Zany Patternblock |
+| 883 | 148 | Shawna Passwater |
+| 884 | 147 | Crtjstr |
+| 885 | 147 | Ashley Love Pettit |
+| 886 | 147 | Benjamin Livingston |
+| 887 | 147 | Charika Marie Bergmann |
+| 888 | 147 | Christopher L Crites |
+| 889 | 147 | Nichelle Warren |
+| 890 | 147 | Angelique Talbot |
 | 891 | 146 | Richelle Beck |
 | 892 | 146 | Jojo M |
-| 893 | 146 | Paul Doty |
-| 894 | 146 | Morenita Rodriguez |
+| 893 | 146 | Tempee |
+| 894 | 146 | Rieshelda Marie White |
 | 895 | 146 | Kidgib5 |
-| 896 | 146 | Rieshelda Marie White |
-| 897 | 146 | Tempee |
-| 898 | 145 | Cheery Strikerbuilder |
-| 899 | 145 | Tito Divyn |
-| 900 | 145 | tg |
-| 901 | 144 | Happy Blocky |
-| 902 | 144 | Ysma Simmons |
-| 903 | 144 | Witty Clear |
-| 904 | 144 | Hasty Pivoty |
-| 905 | 144 | Batty B |
-| 906 | 144 | Dapper Matchfit |
-| 907 | 142 | Sharon Lynn |
+| 896 | 146 | Morenita Rodriguez |
+| 897 | 146 | Paul Doty |
+| 898 | 145 | Janice Mowel Curtiss |
+| 899 | 145 | Cheery Strikerbuilder |
+| 900 | 145 | Tito Divyn |
+| 901 | 145 | tg |
+| 902 | 144 | Witty Clear |
+| 903 | 144 | Ysma Simmons |
+| 904 | 144 | Happy Blocky |
+| 905 | 144 | Hasty Pivoty |
+| 906 | 144 | Batty B |
+| 907 | 144 | Dapper Matchfit |
 | 908 | 142 | Trusi Rusi |
-| 909 | 142 | Desi Guerra |
-| 910 | 141 | Hasty Brickzone |
-| 911 | 141 | Mike Hromowyk |
-| 912 | 141 | Williams Candace |
-| 913 | 141 | Lively Wipeout |
-| 914 | 141 | Shalena Marie Humphrey |
-| 915 | 140 | Kennedi Brazziel |
-| 916 | 140 | Ebie |
-| 917 | 140 | Shadon McMillan |
+| 909 | 142 | Sharon Lynn |
+| 910 | 142 | Desi Guerra |
+| 911 | 141 | Hasty Brickzone |
+| 912 | 141 | Mike Hromowyk |
+| 913 | 141 | Williams Candace |
+| 914 | 141 | Lively Wipeout |
+| 915 | 141 | Shalena Marie Humphrey |
+| 916 | 140 | Kennedi Brazziel |
+| 917 | 140 | Ebie |
 | 918 | 140 | Desiree Ryder |
-| 919 | 140 | Lynette Manning |
-| 920 | 140 | Marcello Rush |
-| 921 | 140 | Janice Mowel Curtiss |
+| 919 | 140 | Shadon McMillan |
+| 920 | 140 | Lynette Manning |
+| 921 | 140 | Marcello Rush |
 | 922 | 140 | Kimberly Noble |
 | 923 | 139 | Jumpy Gridlock |
 | 924 | 139 | Star Hart |
 | 925 | 139 | Antoinette Kelly |
 | 926 | 139 | Raymond Boosie Freeman |
-| 927 | 138 | Boldy Pivoty |
-| 928 | 138 | Jazzy Bridger |
-| 929 | 138 | Daphne Ceasar |
-| 930 | 138 | Franklin Sotelo |
+| 927 | 138 | Jazzy Bridger |
+| 928 | 138 | Daphne Ceasar |
+| 929 | 138 | Franklin Sotelo |
+| 930 | 138 | Boldy Pivoty |
 | 931 | 138 | Rene Hicks |
 | 932 | 137 | Shaun Anderson |
-| 933 | 136 | Brittany Cole |
-| 934 | 136 | Kàrma Lee |
-| 935 | 136 | Rissa Rozay |
-| 936 | 136 | mya |
-| 937 | 136 | Alanna Breitenbach |
-| 938 | 136 | Christopher Shaw-Black |
+| 933 | 136 | Rissa Rozay |
+| 934 | 136 | Brittany Cole |
+| 935 | 136 | Kàrma Lee |
+| 936 | 136 | Christopher Shaw-Black |
+| 937 | 136 | mya |
+| 938 | 136 | Alanna Breitenbach |
 | 939 | 136 | Smiley Bridgepiece |
 | 940 | 135 | Saucy Tile |
-| 941 | 135 | Chanel White |
-| 942 | 135 | Kyle Franklin |
+| 941 | 135 | Kyle Franklin |
+| 942 | 135 | Chanel White |
 | 943 | 135 | Paul Pendley |
 | 944 | 134 | Ernie Waters |
 | 945 | 134 | Laurie Napper |
