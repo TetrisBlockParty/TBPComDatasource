@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:14:45 UTC
+# Standings for team1 as of 2026-06-10 08:15:24 UTC
 
 **Total Participants:** 2243
 
@@ -523,26 +523,26 @@
 | 515 | 291 | 신재호 |
 | 516 | 291 | LuckyStar |
 | 517 | 290 | Melissa Olvera |
-| 518 | 290 | SnazzyIvy |
-| 519 | 290 | Boldy Liner |
-| 520 | 289 | Yashica Smith |
-| 521 | 289 | Chandler Magee |
-| 522 | 288 | Lozuna |
-| 523 | 288 | Vernon Hoyt |
-| 524 | 287 | Daniel Santana |
+| 518 | 290 | Latore Maxie |
+| 519 | 290 | SnazzyIvy |
+| 520 | 290 | Boldy Liner |
+| 521 | 289 | Yashica Smith |
+| 522 | 289 | Chandler Magee |
+| 523 | 288 | Lozuna |
+| 524 | 288 | Vernon Hoyt |
 | 525 | 287 | Trusi Rusi |
 | 526 | 287 | LiyaSkye |
-| 527 | 287 | Bambi Johnson |
-| 528 | 286 | Boldy Matchbuilder |
-| 529 | 286 | Mighty Dropper |
-| 530 | 286 | Zappy Clearfit |
-| 531 | 286 | Tonya Thomas |
-| 532 | 286 | Rebecca Jackson |
-| 533 | 286 | Saucy Faller |
-| 534 | 284 | Hardtohandle91 |
-| 535 | 283 | Latore Maxie |
-| 536 | 283 | Kristie |
-| 537 | 283 | lizlizliz |
+| 527 | 287 | Daniel Santana |
+| 528 | 287 | Bambi Johnson |
+| 529 | 286 | Rebecca Jackson |
+| 530 | 286 | Tonya Thomas |
+| 531 | 286 | Zappy Clearfit |
+| 532 | 286 | Saucy Faller |
+| 533 | 286 | Boldy Matchbuilder |
+| 534 | 286 | Mighty Dropper |
+| 535 | 284 | Hardtohandle91 |
+| 536 | 283 | lizlizliz |
+| 537 | 283 | Kristie |
 | 538 | 282 | Perky Pusher |
 | 539 | 282 | Marlainia Boyd |
 | 540 | 281 | Terri Smart |
@@ -559,52 +559,52 @@
 | 551 | 275 | Chris Sladoje |
 | 552 | 274 | Zany Breaker |
 | 553 | 273 | Comedian Gdane |
-| 554 | 273 | Kimmie Gargano |
+| 554 | 273 | Kamilya Rembert |
 | 555 | 273 | Brittnay Wright |
-| 556 | 273 | Vera Beckford |
-| 557 | 273 | Kamilya Rembert |
-| 558 | 272 | Felicia Dungey |
+| 556 | 273 | Kimmie Gargano |
+| 557 | 273 | Vera Beckford |
+| 558 | 272 | ChunLi |
 | 559 | 272 | wmedina67 |
-| 560 | 272 | Koreen Johnson-Woolford |
-| 561 | 272 | ChunLi |
-| 562 | 272 | Tanisha Taylor |
+| 560 | 272 | Tanisha Taylor |
+| 561 | 272 | Felicia Dungey |
+| 562 | 272 | Koreen Johnson-Woolford |
 | 563 | 269 | Phillip Vasquez |
-| 564 | 269 | BonnieB |
-| 565 | 269 | Stephanie L Jeffries Moultrie |
+| 564 | 269 | Stephanie L Jeffries Moultrie |
+| 565 | 269 | BonnieB |
 | 566 | 268 | Casey Chapman |
 | 567 | 268 | Monica Tovar |
 | 568 | 266 | Chris Holland |
 | 569 | 266 | Valerie Alexander |
-| 570 | 265 | SceneGreenz Wali |
-| 571 | 265 | Kortney Adams |
+| 570 | 265 | Kortney Adams |
+| 571 | 265 | SceneGreenz Wali |
 | 572 | 264 | Juan Santiago |
 | 573 | 263 | Stephanie Ellis |
-| 574 | 261 | Angela Brown Babin |
+| 574 | 261 | Lucy |
 | 575 | 261 | PSD |
-| 576 | 261 | Lucy |
-| 577 | 260 | Jen Hallin |
-| 578 | 260 | Ashley Danielle |
+| 576 | 261 | Angela Brown Babin |
+| 577 | 260 | Ashley Danielle |
+| 578 | 260 | Spotlight |
 | 579 | 260 | Meshia |
-| 580 | 260 | Lester Malone |
-| 581 | 260 | Spotlight |
+| 580 | 260 | Jen Hallin |
+| 581 | 260 | Lester Malone |
 | 582 | 259 | Blocksy |
 | 583 | 258 | Kala Miller |
 | 584 | 257 | Adrian Harris |
-| 585 | 256 | Monica Fields |
-| 586 | 256 | John Spath |
-| 587 | 256 | Dreamzzz |
-| 588 | 255 | Mathew Trudell |
-| 589 | 255 | Michelle Peters |
-| 590 | 254 | Cheryl Miller |
+| 585 | 256 | John Spath |
+| 586 | 256 | Dreamzzz |
+| 587 | 256 | Monica Fields |
+| 588 | 255 | Michelle Peters |
+| 589 | 255 | Mathew Trudell |
+| 590 | 254 | Dede Tate |
 | 591 | 254 | Dorian Griffin |
-| 592 | 254 | BB |
-| 593 | 254 | Ashlie Mo |
-| 594 | 254 | Dede Tate |
+| 592 | 254 | Ashlie Mo |
+| 593 | 254 | Cheryl Miller |
+| 594 | 254 | BB |
 | 595 | 254 | Brittany Sara Heldwein |
-| 596 | 252 | Lazy Tiltpiece |
-| 597 | 252 | Shakuria Cortia Burney |
+| 596 | 252 | Shakuria Cortia Burney |
+| 597 | 252 | Donna Payne |
 | 598 | 252 | Mary Phillippi Blanton |
-| 599 | 252 | Donna Payne |
+| 599 | 252 | Lazy Tiltpiece |
 | 600 | 251 | Taz Ballard |
 | 601 | 251 | Soubletzy |
 | 602 | 250 | Rufus |
@@ -770,7 +770,7 @@
 | 762 | 196 | Katness |
 | 763 | 195 | Elaine Pauley |
 | 764 | 195 | Nikiya |
-| 765 | 194 | Tyler |
+| 765 | 195 | Tyler |
 | 766 | 193 | Sherry D Singleton |
 | 767 | 192 | Cameo Tweed |
 | 768 | 192 | Cranky Fall |

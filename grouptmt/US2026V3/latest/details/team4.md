@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:14:45 UTC
+# Standings for team4 as of 2026-06-10 08:15:24 UTC
 
 **Total Participants:** 2296
 
@@ -254,15 +254,15 @@
 | 246 | 574 | Jeremy |
 | 247 | 573 | Sisi RedVelvet Reneè |
 | 248 | 572 | Bean |
-| 249 | 568 | Stephanie Myers |
-| 250 | 568 | Breezy Cascadeclear |
-| 251 | 567 | Brick House |
-| 252 | 567 | tigerlilly |
-| 253 | 565 | Rebecca Watters |
-| 254 | 565 | Shanna Fragen |
-| 255 | 564 | Boldy Rumbler |
-| 256 | 564 | Drh4090 |
-| 257 | 563 | Neeta Kapadia |
+| 249 | 571 | Neeta Kapadia |
+| 250 | 568 | Stephanie Myers |
+| 251 | 568 | Breezy Cascadeclear |
+| 252 | 567 | Brick House |
+| 253 | 567 | tigerlilly |
+| 254 | 565 | Rebecca Watters |
+| 255 | 565 | Shanna Fragen |
+| 256 | 564 | Boldy Rumbler |
+| 257 | 564 | Drh4090 |
 | 258 | 561 | Danny Ortiz |
 | 259 | 556 | Smiley Gridzone |
 | 260 | 553 | Joseph Hunter |
@@ -791,23 +791,23 @@
 | 783 | 192 | Ralph Hell Rell Williams |
 | 784 | 192 | Millie Hoskins |
 | 785 | 192 | Chris |
-| 786 | 191 | Snappy Stack |
-| 787 | 190 | Layne Davis |
-| 788 | 190 | Name |
-| 789 | 190 | Natalie Ohrtman Strand |
+| 786 | 191 | Ginny |
+| 787 | 191 | Snappy Stack |
+| 788 | 190 | Billy Baker |
+| 789 | 190 | Simone |
 | 790 | 190 | Robert Crow |
-| 791 | 190 | Simone |
-| 792 | 190 | Billy Baker |
-| 793 | 190 | TeQuita Jennings |
-| 794 | 189 | Ginny |
+| 791 | 190 | TeQuita Jennings |
+| 792 | 190 | Natalie Ohrtman Strand |
+| 793 | 190 | Name |
+| 794 | 190 | Layne Davis |
 | 795 | 189 | Lisa Ferriero-Daudin |
 | 796 | 189 | Sarah |
 | 797 | 189 | Jessica Caminos |
 | 798 | 188 | Gerald Richard Franke |
 | 799 | 188 | Erika Rubio |
 | 800 | 187 | Brandi Gray |
-| 801 | 187 | Heather Garrity |
-| 802 | 187 | Alicia Blunt |
+| 801 | 187 | Alicia Blunt |
+| 802 | 187 | Heather Garrity |
 | 803 | 187 | Ricky Colvin |
 | 804 | 187 | Kelly Miller Williams |
 | 805 | 186 | Amber Jalbert |
@@ -1023,7 +1023,7 @@
 | 1015 | 140 | Aim Georgia Bros Scott |
 | 1016 | 140 | Willy Leung |
 | 1017 | 140 | skynatda |
-| 1018 | 139 | Cozy Builderfit |
+| 1018 | 140 | Cozy Builderfit |
 | 1019 | 139 | Cozy Patternbuilder |
 | 1020 | 139 | Giggy Snapgrid |
 | 1021 | 139 | Jonelle Jacobs |
