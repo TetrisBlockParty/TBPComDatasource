@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 16:00:45 UTC
+# Standings for team1 as of 2026-06-10 16:01:24 UTC
 
 **Total Participants:** 2291
 
@@ -53,7 +53,7 @@
 | 45 | 2640 | Jamie Willis |
 | 46 | 2619 | Zappy Brickline |
 | 47 | 2584 | Tootsie Pop |
-| 48 | 2500 | Epic Snapfall |
+| 48 | 2503 | Epic Snapfall |
 | 49 | 2456 | Mimi 1.0 |
 | 50 | 2430 | Therealdywoune Peay |
 | 51 | 2412 | D'Andra Stewart |
@@ -2187,7 +2187,7 @@
 | 2179 | 9 | Sweetpea |
 | 2180 | 9 | Duckey |
 | 2181 | 9 | Shell Poke |
-| 2182 | 9 | John Lovato |
+| 2182 | 9 | Trista Ramsey |
 | 2183 | 9 | Sheldon Grosso |
 | 2184 | 9 | Dennis Rhodes |
 | 2185 | 9 | Jenny McCall Haslacker |
@@ -2195,46 +2195,46 @@
 | 2187 | 9 | ummm |
 | 2188 | 9 | Lia Covington |
 | 2189 | 9 | Mars |
-| 2190 | 9 | Trista Ramsey |
+| 2190 | 9 | John Lovato |
 | 2191 | 9 | Tiara Hitchcock |
 | 2192 | 9 | Clifford Petroske |
-| 2193 | 9 | Tony Maple |
-| 2194 | 9 | Witty Clicker |
-| 2195 | 9 | Tasha Johnson |
+| 2193 | 9 | Witty Clicker |
+| 2194 | 9 | Tasha Johnson |
+| 2195 | 9 | BigHawk |
 | 2196 | 9 | Jokkah Toomuch |
-| 2197 | 9 | BigHawk |
+| 2197 | 9 | Tony Maple |
 | 2198 | 8 | Janiah Seibert |
 | 2199 | 8 | KingMilo |
-| 2200 | 8 | Zesty Combofall |
-| 2201 | 8 | David NuggieMan Smith |
+| 2200 | 8 | M Julio E Xocol Tepaz |
+| 2201 | 8 | Zesty Combofall |
 | 2202 | 8 | Adelia Seymour |
 | 2203 | 8 | Ferocity |
-| 2204 | 8 | Groovy Riseclear |
-| 2205 | 8 | Jeremiah Coffey Sr. |
-| 2206 | 8 | jus_ry |
-| 2207 | 8 | Charlotte Jones |
-| 2208 | 8 | Dee Williamson |
-| 2209 | 8 | All World |
+| 2204 | 8 | Jeremiah Coffey Sr. |
+| 2205 | 8 | All World |
+| 2206 | 8 | David NuggieMan Smith |
+| 2207 | 8 | Dee Williamson |
+| 2208 | 8 | jus_ry |
+| 2209 | 8 | Charlotte Jones |
 | 2210 | 8 | Clever Matchpiece |
-| 2211 | 8 | Andrew James |
-| 2212 | 8 | Abhay Raj |
-| 2213 | 8 | David Anthony |
-| 2214 | 8 | Chill Tumbler |
-| 2215 | 8 | Frothy Matchpiece |
-| 2216 | 8 | Rixo Blax |
-| 2217 | 7 | Beverly Kaday |
-| 2218 | 7 | Shane Brucewayne |
-| 2219 | 7 | Chilly Cluster |
-| 2220 | 7 | Tierra Latte |
-| 2221 | 7 | Happy Strike |
-| 2222 | 7 | Gerardo Galiz |
+| 2211 | 8 | Groovy Riseclear |
+| 2212 | 8 | David Anthony |
+| 2213 | 8 | Andrew James |
+| 2214 | 8 | Abhay Raj |
+| 2215 | 8 | Chill Tumbler |
+| 2216 | 8 | Frothy Matchpiece |
+| 2217 | 8 | Rixo Blax |
+| 2218 | 7 | Happy Drop |
+| 2219 | 7 | Beverly Kaday |
+| 2220 | 7 | Chilly Cluster |
+| 2221 | 7 | Tierra Latte |
+| 2222 | 7 | Happy Strike |
 | 2223 | 7 | Jamal Richmond |
-| 2224 | 7 | Dimitri Moore |
-| 2225 | 7 | Chirpy Cascadeclear |
-| 2226 | 7 | Beach girl444 |
-| 2227 | 7 | Mary2 |
-| 2228 | 7 | Happy Drop |
-| 2229 | 7 | Tipsy Towerzone |
+| 2224 | 7 | Gerardo Galiz |
+| 2225 | 7 | Dimitri Moore |
+| 2226 | 7 | Chirpy Cascadeclear |
+| 2227 | 7 | Beach girl444 |
+| 2228 | 7 | Mary2 |
+| 2229 | 7 | bri |
 | 2230 | 7 | Tapenga Smith |
 | 2231 | 7 | Loopy Blockline |
 | 2232 | 7 | Court Ney |
@@ -2242,41 +2242,41 @@
 | 2234 | 7 | Roscoe |
 | 2235 | 7 | style |
 | 2236 | 7 | Linda Clark |
-| 2237 | 7 | bri |
-| 2238 | 7 | M Julio E Xocol Tepaz |
-| 2239 | 7 | Daniel Okuka |
-| 2240 | 7 | Brittany Killebrew |
-| 2241 | 7 | Shenikka Townsend |
-| 2242 | 7 | Teresa F. Campos Eaton |
-| 2243 | 7 | Sheena Hamilton |
-| 2244 | 7 | Quana |
-| 2245 | 7 | Sassy Dashfit |
-| 2246 | 7 | John Boone |
+| 2237 | 7 | Shane Brucewayne |
+| 2238 | 7 | Deadra Graham |
+| 2239 | 7 | Shenikka Townsend |
+| 2240 | 7 | Teresa F. Campos Eaton |
+| 2241 | 7 | Sheena Hamilton |
+| 2242 | 7 | Quana |
+| 2243 | 7 | Sassy Dashfit |
+| 2244 | 7 | John Boone |
+| 2245 | 7 | crumpettwo |
+| 2246 | 7 | Twisty Cascader |
 | 2247 | 7 | Jazzy |
-| 2248 | 7 | crumpettwo |
-| 2249 | 7 | Twisty Cascader |
-| 2250 | 7 | Deadra Graham |
-| 2251 | 7 | Hyper Basepiece |
-| 2252 | 7 | Ciara Bedford |
-| 2253 | 7 | KingSlim82 |
-| 2254 | 7 | Joey Hoover |
-| 2255 | 7 | Bryan Dell |
-| 2256 | 6 | Adam Harrison |
-| 2257 | 6 | Ruben Baca |
+| 2248 | 7 | Brittany Killebrew |
+| 2249 | 7 | Hyper Basepiece |
+| 2250 | 7 | KingSlim82 |
+| 2251 | 7 | Daniel Okuka |
+| 2252 | 7 | Joey Hoover |
+| 2253 | 7 | Ciara Bedford |
+| 2254 | 7 | Bryan Dell |
+| 2255 | 7 | Tipsy Towerzone |
+| 2256 | 6 | CK |
+| 2257 | 6 | Adam Harrison |
 | 2258 | 6 | party t-rex 27 |
-| 2259 | 6 | CK |
-| 2260 | 6 | Barefield Curt |
+| 2259 | 6 | Ruben Baca |
+| 2260 | 6 | Stevie Malcon |
 | 2261 | 6 | Doc Elm |
 | 2262 | 6 | Tarsha' Seymone Sherrod |
 | 2263 | 6 | Andrae Robinson |
-| 2264 | 6 | Kyshia |
-| 2265 | 6 | Tammy Hooser |
-| 2266 | 6 | Dan Quintero |
+| 2264 | 6 | Dan Quintero |
+| 2265 | 6 | Kyshia |
+| 2266 | 6 | Tammy Hooser |
 | 2267 | 6 | Nerdy Slam |
 | 2268 | 6 | James Singleton |
 | 2269 | 6 | NEM0228 |
 | 2270 | 6 | Sunny Shatterer |
-| 2271 | 6 | Stevie Malcon |
+| 2271 | 6 | Barefield Curt |
 | 2272 | 5 | Forrestine Eubanks |
 | 2273 | 5 | Happy |
 | 2274 | 5 | Joi |
