@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:40:47 UTC
+# Standings for team4 as of 2026-06-10 12:41:24 UTC
 
 **Total Participants:** 2319
 
@@ -35,9 +35,9 @@
 | 27 | 5100 | Melissa Brown |
 | 28 | 5000 | Michele |
 | 29 | 4996 | Irene Arreguin |
-| 30 | 4860 | Chummy Rollzone |
-| 31 | 4841 | Daring Ziggy |
-| 32 | 4760 | Juan Ford |
+| 30 | 4882 | Juan Ford |
+| 31 | 4860 | Chummy Rollzone |
+| 32 | 4841 | Daring Ziggy |
 | 33 | 4750 | Jackie Lucas |
 | 34 | 4418 | Victoria Ver |
 | 35 | 4323 | Leah Barnett |
@@ -509,21 +509,21 @@
 | 501 | 303 | Deva Marie Barber |
 | 502 | 302 | Scrumptious |
 | 503 | 301 | Alyson M Kehler |
-| 504 | 301 | Winter Moon |
-| 505 | 300 | Teester |
-| 506 | 300 | Hasty Dropzone |
-| 507 | 300 | Tesa Mike Jenkins |
-| 508 | 300 | Garden Girlie |
-| 509 | 299 | Jacinta Hooker-Brown |
-| 510 | 298 | Elissa Danks |
-| 511 | 297 | Haylee Talkington |
-| 512 | 296 | Maricela Joslin |
-| 513 | 296 | Erik Clary |
-| 514 | 296 | beauxie |
+| 504 | 301 | Maricela Joslin |
+| 505 | 301 | Winter Moon |
+| 506 | 300 | Teester |
+| 507 | 300 | Hasty Dropzone |
+| 508 | 300 | Tesa Mike Jenkins |
+| 509 | 300 | Garden Girlie |
+| 510 | 299 | Jacinta Hooker-Brown |
+| 511 | 298 | Elissa Danks |
+| 512 | 297 | Haylee Talkington |
+| 513 | 296 | beauxie |
+| 514 | 296 | Erik Clary |
 | 515 | 296 | Justin Sercu |
 | 516 | 296 | farfromlocal |
-| 517 | 295 | Miss Beast |
-| 518 | 295 | Carmen Angelica Sosa |
+| 517 | 295 | Carmen Angelica Sosa |
+| 518 | 295 | Miss Beast |
 | 519 | 294 | Mrs |
 | 520 | 294 | Dawn Phelps |
 | 521 | 294 | Dandy Cascade |
@@ -1260,9 +1260,9 @@
 | 1252 | 100 | Abraham Ch |
 | 1253 | 100 | Nykell Sturdivant |
 | 1254 | 100 | Georgiana Meegan |
-| 1255 | 99 | Cheeky Dashy |
-| 1256 | 99 | Stevonne Roberts |
-| 1257 | 99 | Natalia Stone |
+| 1255 | 100 | Natalia Stone |
+| 1256 | 99 | Cheeky Dashy |
+| 1257 | 99 | Stevonne Roberts |
 | 1258 | 99 | Courtney Miller |
 | 1259 | 99 | Lateasha Wildman |
 | 1260 | 99 | Amori85 |

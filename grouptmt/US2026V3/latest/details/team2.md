@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:40:47 UTC
+# Standings for team2 as of 2026-06-10 12:41:24 UTC
 
 **Total Participants:** 2739
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 34200 | Mochi |
-| 2 | 29738 | Summer Harrison |
+| 2 | 29777 | Summer Harrison |
 | 3 | 18520 | Puce guide 9156 |
 | 4 | 14612 | Lacey Nolting |
 | 5 | 14275 | Crystalin Heath Lewis |
@@ -247,8 +247,8 @@
 | 239 | 740 | Nikki Hayes |
 | 240 | 739 | Zarah Kettler |
 | 241 | 736 | Nikki Carter |
-| 242 | 734 | Chasity Simpson |
-| 243 | 734 | Chris Cooper |
+| 242 | 734 | Chris Cooper |
+| 243 | 734 | Chasity Simpson |
 | 244 | 734 | Kellie Sharp Godfrey |
 | 245 | 728 | Tim Tim |
 | 246 | 724 | Kaylene Rigas |
@@ -289,11 +289,11 @@
 | 281 | 649 | Lyric Price |
 | 282 | 648 | Kaycie Shaffer |
 | 283 | 648 | Kathleen Dumbazz |
-| 284 | 642 | Bri St Peter |
-| 285 | 640 | Nancy Schwartz Gusman-Oliver |
-| 286 | 639 | Stephany Green |
-| 287 | 639 | Alicia Ellenburg |
-| 288 | 634 | Jodi Johnson |
+| 284 | 643 | Jodi Johnson |
+| 285 | 642 | Bri St Peter |
+| 286 | 640 | Nancy Schwartz Gusman-Oliver |
+| 287 | 639 | Stephany Green |
+| 288 | 639 | Alicia Ellenburg |
 | 289 | 632 | Gabrielle Wilson |
 | 290 | 631 | Donna Esbensen-Alpini |
 | 291 | 627 | Theresa Marie |
@@ -345,16 +345,16 @@
 | 337 | 550 | Loopy Dropper |
 | 338 | 550 | DomDomsNana |
 | 339 | 550 | Sarah Rodriguez |
-| 340 | 545 | Amanda L Strong |
-| 341 | 544 | Elliott Mikila |
-| 342 | 543 | Amy Gale |
-| 343 | 539 | Santara Ferguson |
-| 344 | 536 | Naomi Walker |
-| 345 | 535 | Michelle Hicks |
-| 346 | 535 | MUMBLES |
-| 347 | 534 | Aurora June Brock |
-| 348 | 533 | Marilyn Strickland |
-| 349 | 532 | Bubbly Dash |
+| 340 | 547 | Bubbly Dash |
+| 341 | 545 | Amanda L Strong |
+| 342 | 544 | Elliott Mikila |
+| 343 | 543 | Amy Gale |
+| 344 | 539 | Santara Ferguson |
+| 345 | 536 | Naomi Walker |
+| 346 | 535 | Michelle Hicks |
+| 347 | 535 | MUMBLES |
+| 348 | 534 | Aurora June Brock |
+| 349 | 533 | Marilyn Strickland |
 | 350 | 532 | Amy Gregg |
 | 351 | 530 | Nikki Greeneyebeauty |
 | 352 | 525 | Amy Taylor Pomerenk |
@@ -651,17 +651,17 @@
 | 643 | 296 | Joanne Fish |
 | 644 | 295 | Brian Favre |
 | 645 | 294 | Frisky Linkbuilder |
-| 646 | 294 | Natasha Lee |
-| 647 | 294 | Amanda Bryte |
-| 648 | 293 | Sleepypanda67 |
-| 649 | 293 | denirocorona |
-| 650 | 292 | Charlotte Castelli |
-| 651 | 292 | Cindy Brown |
-| 652 | 292 | Rescuegirl76 |
-| 653 | 292 | Raine |
-| 654 | 291 | Michele Stewart |
-| 655 | 291 | Kenzie |
-| 656 | 291 | Crafty Rotater |
+| 646 | 294 | Crafty Rotater |
+| 647 | 294 | Natasha Lee |
+| 648 | 294 | Amanda Bryte |
+| 649 | 293 | Sleepypanda67 |
+| 650 | 293 | denirocorona |
+| 651 | 292 | Charlotte Castelli |
+| 652 | 292 | Cindy Brown |
+| 653 | 292 | Rescuegirl76 |
+| 654 | 292 | Raine |
+| 655 | 291 | Michele Stewart |
+| 656 | 291 | Kenzie |
 | 657 | 291 | Tara Flood |
 | 658 | 290 | Mala Phonchanthasone |
 | 659 | 290 | Simone F |
@@ -675,8 +675,8 @@
 | 667 | 287 | rageking |
 | 668 | 287 | Carl Mccoy |
 | 669 | 287 | Cindy Scott |
-| 670 | 286 | Aneokly |
-| 671 | 286 | Vanessa King |
+| 670 | 286 | Vanessa King |
+| 671 | 286 | Aneokly |
 | 672 | 285 | CEK |
 | 673 | 285 | Kelly Bormann |
 | 674 | 284 | Perky Rollfit |
@@ -695,11 +695,11 @@
 | 687 | 280 | Michelle M Braley |
 | 688 | 280 | Keisha Robinson |
 | 689 | 280 | Michelle Jones |
-| 690 | 279 | Ryan Rhodes |
-| 691 | 279 | Greenie |
-| 692 | 278 | John Davis |
-| 693 | 278 | James Sayers |
-| 694 | 278 | Nicole Suber |
+| 690 | 279 | Greenie |
+| 691 | 279 | Ryan Rhodes |
+| 692 | 278 | James Sayers |
+| 693 | 278 | Nicole Suber |
+| 694 | 278 | John Davis |
 | 695 | 278 | Amanda Rude |
 | 696 | 277 | s3lc4tr0n |
 | 697 | 277 | Twisty Blockmatch |
@@ -707,11 +707,11 @@
 | 699 | 276 | Barb Kiser |
 | 700 | 276 | NickandJess Reynolds |
 | 701 | 276 | Cassandra Green |
-| 702 | 276 | Ryuu |
-| 703 | 276 | Busted9mm |
+| 702 | 276 | Busted9mm |
+| 703 | 276 | Ryuu |
 | 704 | 275 | Mary Whitaker |
-| 705 | 274 | Mandy |
-| 706 | 274 | Clever Fallmatch |
+| 705 | 274 | Clever Fallmatch |
+| 706 | 274 | Mandy |
 | 707 | 272 | Muffin Popper |
 | 708 | 271 | Michael Anthony Anstead |
 | 709 | 271 | Belle |
@@ -1644,49 +1644,49 @@
 | 1636 | 82 | Mikaela Byrd |
 | 1637 | 82 | Amanda Nash |
 | 1638 | 82 | John Rosales |
-| 1639 | 82 | Daring Pivotfall |
-| 1640 | 82 | Cardisa Hall |
-| 1641 | 82 | Jessica LeNeave |
-| 1642 | 82 | Lindsey Butler |
-| 1643 | 81 | YldBoar |
-| 1644 | 81 | Frisky Snapper |
-| 1645 | 81 | Giggy Snapper |
-| 1646 | 81 | Elie Mestre |
-| 1647 | 81 | Kathryn N Heather Todd |
-| 1648 | 81 | Plucky Linkmatch |
-| 1649 | 81 | YUKITATA |
-| 1650 | 81 | Octavia Jus Mae Hill |
-| 1651 | 81 | Groovy Mover |
-| 1652 | 81 | Witty Linkfall |
-| 1653 | 81 | Moeshia Turner |
-| 1654 | 80 | ll Patton |
-| 1655 | 80 | Mitsy Lang |
-| 1656 | 80 | Ramon James |
-| 1657 | 80 | Javyjavz |
-| 1658 | 80 | Tipsy Splitter |
-| 1659 | 80 | John C Morrison |
-| 1660 | 80 | Ally Miller |
-| 1661 | 80 | Michael Quinones |
-| 1662 | 80 | Bridgett Smith |
-| 1663 | 80 | Torb |
-| 1664 | 80 | Frisky Rumbler |
-| 1665 | 80 | Dizzy Gridder |
-| 1666 | 80 | Rosie |
-| 1667 | 79 | Courtney Joy Dustrude |
-| 1668 | 79 | Jcflorida |
+| 1639 | 82 | Jcflorida |
+| 1640 | 82 | Daring Pivotfall |
+| 1641 | 82 | Cardisa Hall |
+| 1642 | 82 | Jessica LeNeave |
+| 1643 | 82 | Lindsey Butler |
+| 1644 | 81 | YldBoar |
+| 1645 | 81 | Frisky Snapper |
+| 1646 | 81 | Giggy Snapper |
+| 1647 | 81 | Elie Mestre |
+| 1648 | 81 | Kathryn N Heather Todd |
+| 1649 | 81 | Plucky Linkmatch |
+| 1650 | 81 | YUKITATA |
+| 1651 | 81 | Octavia Jus Mae Hill |
+| 1652 | 81 | Groovy Mover |
+| 1653 | 81 | Witty Linkfall |
+| 1654 | 81 | Moeshia Turner |
+| 1655 | 80 | ll Patton |
+| 1656 | 80 | Mitsy Lang |
+| 1657 | 80 | Ramon James |
+| 1658 | 80 | Javyjavz |
+| 1659 | 80 | Tipsy Splitter |
+| 1660 | 80 | John C Morrison |
+| 1661 | 80 | Ally Miller |
+| 1662 | 80 | Michael Quinones |
+| 1663 | 80 | Frisky Rumbler |
+| 1664 | 80 | Dizzy Gridder |
+| 1665 | 80 | Torb |
+| 1666 | 80 | Bridgett Smith |
+| 1667 | 80 | Rosie |
+| 1668 | 79 | Courtney Joy Dustrude |
 | 1669 | 79 | Sandra Betz |
 | 1670 | 79 | Taran Evans |
 | 1671 | 79 | Dawnie Rodarte |
 | 1672 | 79 | Elle |
-| 1673 | 79 | Cindy Smith |
-| 1674 | 79 | LaicoosBargains Ln |
-| 1675 | 79 | Brianne Coffer |
-| 1676 | 79 | Amber Marie Lacey |
-| 1677 | 79 | Jade007 |
+| 1673 | 79 | LaicoosBargains Ln |
+| 1674 | 79 | Brianne Coffer |
+| 1675 | 79 | Amber Marie Lacey |
+| 1676 | 79 | Jade007 |
+| 1677 | 79 | Cindy Smith |
 | 1678 | 78 | Darla |
 | 1679 | 78 | Chipper Spinzone |
-| 1680 | 78 | Giggly Dashy |
-| 1681 | 78 | Lively Shatter |
+| 1680 | 78 | Lively Shatter |
+| 1681 | 78 | Giggly Dashy |
 | 1682 | 78 | Casey Hendricks |
 | 1683 | 78 | Steven Palmer |
 | 1684 | 77 | Karen Campbell |

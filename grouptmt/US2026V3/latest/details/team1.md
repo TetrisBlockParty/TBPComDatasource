@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:40:47 UTC
+# Standings for team1 as of 2026-06-10 12:41:24 UTC
 
 **Total Participants:** 2265
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 34000 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 17831 | Death by SnuSnu |
+| 3 | 18131 | Death by SnuSnu |
 | 4 | 12803 | Charlie Roehm |
 | 5 | 12404 | Carrie English |
 | 6 | 11746 | Tyeina Johnson |
@@ -67,7 +67,7 @@
 | 59 | 2076 | April Inboden |
 | 60 | 2049 | Blockhead |
 | 61 | 2026 | Todd C. Clemens |
-| 62 | 1973 | Moomoo |
+| 62 | 1993 | Moomoo |
 | 63 | 1972 | Helen Smith |
 | 64 | 1962 | Ceilo Marie |
 | 65 | 1945 | Chris Russell |
@@ -824,7 +824,7 @@
 | 816 | 185 | Poppy Twister |
 | 817 | 185 | Eric Machuca |
 | 818 | 185 | Jess |
-| 819 | 183 | Tanesha Ga'sFinest Corbett |
+| 819 | 184 | Tanesha Ga'sFinest Corbett |
 | 820 | 183 | Erika |
 | 821 | 183 | Cj Chimelis |
 | 822 | 183 | Lucy Range |
@@ -1237,9 +1237,9 @@
 | 1229 | 96 | Giggly Shatterline |
 | 1230 | 96 | Sonia Binti Mfalme |
 | 1231 | 96 | wuvbuug |
-| 1232 | 96 | Linda Lasha Messenger |
-| 1233 | 95 | Nockallday |
-| 1234 | 95 | Toohartless Mech |
+| 1232 | 96 | Toohartless Mech |
+| 1233 | 96 | Linda Lasha Messenger |
+| 1234 | 95 | Nockallday |
 | 1235 | 95 | Teresa Bean |
 | 1236 | 94 | AleahKCH |
 | 1237 | 94 | Sha Anderson |
