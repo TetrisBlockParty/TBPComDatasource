@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:46:45 UTC
+# Standings for team2 as of 2026-06-10 07:47:24 UTC
 
 **Total Participants:** 2708
 
@@ -283,7 +283,7 @@
 | 275 | 650 | Jennifer Smith |
 | 276 | 648 | Kathleen Dumbazz |
 | 277 | 642 | Bri St Peter |
-| 278 | 641 | La chulis |
+| 278 | 642 | La chulis |
 | 279 | 639 | Stephany Green |
 | 280 | 639 | Alicia Ellenburg |
 | 281 | 631 | Donna Esbensen-Alpini |
@@ -294,9 +294,9 @@
 | 286 | 627 | Theresa Marie |
 | 287 | 627 | SilentBuffalo |
 | 288 | 622 | Jenny |
-| 289 | 621 | Pam Bauder Ludwig |
-| 290 | 620 | Rachel Nilles |
-| 291 | 620 | Lyric Price |
+| 289 | 621 | Lyric Price |
+| 290 | 621 | Pam Bauder Ludwig |
+| 291 | 620 | Rachel Nilles |
 | 292 | 618 | Spicy Basepiece |
 | 293 | 614 | Steven |
 | 294 | 613 | Nicole Plummer |
