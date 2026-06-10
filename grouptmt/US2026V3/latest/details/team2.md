@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 16:24:44 UTC
+# Standings for team2 as of 2026-06-10 16:25:23 UTC
 
 **Total Participants:** 2778
 
@@ -244,8 +244,8 @@
 | 236 | 788 | Kimmyc |
 | 237 | 787 | Lisa Underwood Desmond |
 | 238 | 787 | SilentBuffalo |
-| 239 | 783 | Layla Petroff |
-| 240 | 781 | Katrien |
+| 239 | 784 | Katrien |
+| 240 | 783 | Layla Petroff |
 | 241 | 777 | Alison Waller |
 | 242 | 774 | Mouh Med |
 | 243 | 774 | Sabrina Hardrick |
@@ -352,8 +352,8 @@
 | 344 | 560 | Santara Ferguson |
 | 345 | 554 | Amy Gale |
 | 346 | 553 | Samantha Carman |
-| 347 | 551 | Jumpy Matchbuilder |
-| 348 | 551 | Bubbly Dash |
+| 347 | 552 | Bubbly Dash |
+| 348 | 551 | Jumpy Matchbuilder |
 | 349 | 550 | Loopy Dropper |
 | 350 | 550 | AndyJo |
 | 351 | 550 | MUMBLES |
@@ -478,9 +478,9 @@
 | 470 | 407 | Arik DiLorenzo |
 | 471 | 407 | Mona Good |
 | 472 | 407 | Melmel |
-| 473 | 406 | Ray Daisy |
-| 474 | 406 | Spunky Linkblock |
-| 475 | 405 | Mrs biotch |
+| 473 | 406 | Mrs biotch |
+| 474 | 406 | Ray Daisy |
+| 475 | 406 | Spunky Linkblock |
 | 476 | 405 | Danielle Pack Lewellen |
 | 477 | 405 | Kelly Vedder |
 | 478 | 405 | Brittni Lawrence |
@@ -1331,15 +1331,15 @@
 | 1323 | 130 | Loriane Shumate Griggs |
 | 1324 | 130 | Witty Clearbuilder |
 | 1325 | 130 | Charith Lorelle Watson |
-| 1326 | 130 | Swahko |
-| 1327 | 130 | Elizabeth Henry |
-| 1328 | 130 | Michele Gonzales |
-| 1329 | 130 | Paula Martin |
-| 1330 | 130 | Lori |
+| 1326 | 130 | Michele Gonzales |
+| 1327 | 130 | Paula Martin |
+| 1328 | 130 | Elizabeth Henry |
+| 1329 | 130 | Lori |
+| 1330 | 130 | Swahko |
 | 1331 | 129 | Brooke Marie Fox |
-| 1332 | 129 | Mariah Wygonik |
-| 1333 | 129 | Britt |
-| 1334 | 129 | Susan Bosell |
+| 1332 | 129 | Britt |
+| 1333 | 129 | Susan Bosell |
+| 1334 | 129 | Mariah Wygonik |
 | 1335 | 129 | Michelle Brown |
 | 1336 | 129 | Ramona Peña |
 | 1337 | 129 | Cuca Perez |
@@ -1352,33 +1352,33 @@
 | 1344 | 128 | Nicole |
 | 1345 | 128 | Amanda Gray Manlove |
 | 1346 | 127 | Snippy Racker |
-| 1347 | 127 | Rob Phillips |
-| 1348 | 127 | Christine Fortner Caskey |
-| 1349 | 127 | Amanda Jimenez |
-| 1350 | 127 | Joseph Mejia |
-| 1351 | 127 | James Calhoun |
-| 1352 | 127 | Blocker |
+| 1347 | 127 | Blocker |
+| 1348 | 127 | Rob Phillips |
+| 1349 | 127 | Joseph Mejia |
+| 1350 | 127 | Amanda Jimenez |
+| 1351 | 127 | Christine Fortner Caskey |
+| 1352 | 127 | James Calhoun |
 | 1353 | 127 | Michael James |
 | 1354 | 127 | Angelique Matzke Starns |
 | 1355 | 127 | Stacey Loretta Wallace |
 | 1356 | 126 | Lively Liner |
-| 1357 | 126 | Bunny Bt |
+| 1357 | 126 | KT Scott |
 | 1358 | 126 | Cheery Blast |
-| 1359 | 125 | Amy Renaud |
-| 1360 | 125 | James Moore |
-| 1361 | 125 | ElizaThornberry |
+| 1359 | 126 | Bunny Bt |
+| 1360 | 125 | ElizaThornberry |
+| 1361 | 125 | Amy Renaud |
 | 1362 | 125 | Gilbert Medina |
-| 1363 | 125 | Sandra Pursell |
-| 1364 | 124 | Kodi Gay |
-| 1365 | 124 | Cary M. Fong |
-| 1366 | 124 | Dawn Marie |
-| 1367 | 124 | Kassie D Harmon |
-| 1368 | 124 | Spicy Enchilada |
-| 1369 | 124 | Dottie Leavy Van Deventer |
-| 1370 | 123 | Karrie Austin |
-| 1371 | 123 | Casandra Shenesky |
-| 1372 | 123 | Julie Lint |
-| 1373 | 123 | KT Scott |
+| 1363 | 125 | James Moore |
+| 1364 | 125 | Sandra Pursell |
+| 1365 | 124 | Kodi Gay |
+| 1366 | 124 | Cary M. Fong |
+| 1367 | 124 | Dawn Marie |
+| 1368 | 124 | Kassie D Harmon |
+| 1369 | 124 | Spicy Enchilada |
+| 1370 | 124 | Dottie Leavy Van Deventer |
+| 1371 | 123 | Julie Lint |
+| 1372 | 123 | Casandra Shenesky |
+| 1373 | 123 | Karrie Austin |
 | 1374 | 123 | Kawana Nesbitt |
 | 1375 | 122 | Tashamonique Puckey |
 | 1376 | 122 | Cody Bohannan |
