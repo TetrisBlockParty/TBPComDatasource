@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:28:45 UTC
+# Standings for team1 as of 2026-06-10 10:29:23 UTC
 
 **Total Participants:** 2255
 
@@ -61,8 +61,8 @@
 | 53 | 2145 | Brian Bohanon II |
 | 54 | 2138 | Linzie Marie |
 | 55 | 2121 | Cherry Rose |
-| 56 | 2106 | Shellzb Roberts |
-| 57 | 2100 | Chris Caniglia |
+| 56 | 2108 | Chris Caniglia |
+| 57 | 2106 | Shellzb Roberts |
 | 58 | 2082 | D'Andra Stewart |
 | 59 | 2076 | April Inboden |
 | 60 | 2049 | Blockhead |
@@ -180,7 +180,7 @@
 | 172 | 813 | Rackemwillie34 |
 | 173 | 808 | Taylor Evelyn |
 | 174 | 803 | Big Tina |
-| 175 | 799 | xXEKUNXx |
+| 175 | 802 | xXEKUNXx |
 | 176 | 788 | Zappy Riser |
 | 177 | 786 | Eugina Slater |
 | 178 | 786 | Novaa |
@@ -797,36 +797,36 @@
 | 789 | 186 | Christy Quick |
 | 790 | 186 | Vannie G |
 | 791 | 186 | Morenita Rodriguez |
-| 792 | 186 | Dirty Deeds |
-| 793 | 186 | Nekka |
-| 794 | 186 | Tiffany Conley |
-| 795 | 185 | Dapper Matchfit |
-| 796 | 185 | Jess |
+| 792 | 186 | Derald Miller |
+| 793 | 186 | Dirty Deeds |
+| 794 | 186 | Nekka |
+| 795 | 186 | Tiffany Conley |
+| 796 | 185 | Dapper Matchfit |
 | 797 | 185 | Eric Machuca |
-| 798 | 185 | Gerold Folk Haddock |
-| 799 | 185 | Poppy Twister |
-| 800 | 184 | William Vidra |
-| 801 | 183 | Erika |
-| 802 | 183 | Amihan |
-| 803 | 183 | Derald Miller |
-| 804 | 183 | Lucy Range |
-| 805 | 183 | Mom3granny2 |
+| 798 | 185 | Jess |
+| 799 | 185 | Gerold Folk Haddock |
+| 800 | 185 | Poppy Twister |
+| 801 | 184 | William Vidra |
+| 802 | 183 | Erika |
+| 803 | 183 | Amihan |
+| 804 | 183 | Mom3granny2 |
+| 805 | 183 | Sara |
 | 806 | 183 | Octavia Bsb Johnson |
-| 807 | 183 | Sara |
+| 807 | 183 | Lucy Range |
 | 808 | 183 | Cm |
 | 809 | 182 | Sabrina Wilkerson |
 | 810 | 182 | Lexx Robins |
 | 811 | 182 | Comedian Prince Paul |
 | 812 | 182 | Tempee |
-| 813 | 182 | Stanley Dixon |
-| 814 | 182 | Meow Meow |
+| 813 | 182 | Meow Meow |
+| 814 | 182 | Stanley Dixon |
 | 815 | 181 | Desiree Ryder |
 | 816 | 181 | Melissa Hershberger |
 | 817 | 181 | Spicy Tiler |
-| 818 | 180 | NedaWin |
+| 818 | 180 | Keith Big-Sixx Mackell |
 | 819 | 180 | Nikita Jones |
-| 820 | 180 | Keith Big-Sixx Mackell |
-| 821 | 180 | Tory Miller |
+| 820 | 180 | Tory Miller |
+| 821 | 180 | NedaWin |
 | 822 | 180 | Kanary Karotz |
 | 823 | 180 | Mario Meliodas |
 | 824 | 179 | Keith Johnson |
@@ -873,31 +873,31 @@
 | 865 | 169 | Sunny Clicky |
 | 866 | 168 | DoMinique Lee |
 | 867 | 168 | Seirra Robinson |
-| 868 | 168 | Meeee |
-| 869 | 168 | Mrs.Ann |
+| 868 | 168 | Mrs.Ann |
+| 869 | 168 | Meeee |
 | 870 | 167 | Ashley Love Pettit |
 | 871 | 167 | Felicia Woods |
-| 872 | 166 | Motown Chuck |
-| 873 | 166 | Sallie Sanborn |
+| 872 | 166 | Sallie Sanborn |
+| 873 | 166 | Motown Chuck |
 | 874 | 166 | Rochelle Nash-Evans |
 | 875 | 166 | Desi Guerra |
-| 876 | 166 | Amaadi Ward |
-| 877 | 165 | Kashh |
+| 876 | 166 | Peppy Wipeblock |
+| 877 | 166 | Amaadi Ward |
 | 878 | 165 | AimlessRain |
-| 879 | 164 | Markeita Jones |
-| 880 | 164 | Shauntai Holiday |
-| 881 | 164 | Arlea Mann |
-| 882 | 164 | Chereese Harris |
-| 883 | 164 | Yashicha Hertzock |
-| 884 | 164 | Bouncy Glide |
-| 885 | 163 | TNT |
-| 886 | 163 | Kathleen Boyles |
-| 887 | 162 | Chill Linkroll |
-| 888 | 162 | Speedy Stacky |
-| 889 | 162 | Sandra Mims |
-| 890 | 162 | Fatty May |
-| 891 | 162 | Big Bovice |
-| 892 | 162 | Peppy Wipeblock |
+| 879 | 165 | Kashh |
+| 880 | 164 | Markeita Jones |
+| 881 | 164 | Shauntai Holiday |
+| 882 | 164 | Arlea Mann |
+| 883 | 164 | Chereese Harris |
+| 884 | 164 | Yashicha Hertzock |
+| 885 | 164 | Bouncy Glide |
+| 886 | 163 | TNT |
+| 887 | 163 | Kathleen Boyles |
+| 888 | 162 | Chill Linkroll |
+| 889 | 162 | Speedy Stacky |
+| 890 | 162 | Sandra Mims |
+| 891 | 162 | Fatty May |
+| 892 | 162 | Big Bovice |
 | 893 | 162 | Jasmine Hariston-Estis |
 | 894 | 161 | Cauiasia DeJ'ae |
 | 895 | 161 | Biggestboss Ransom |
