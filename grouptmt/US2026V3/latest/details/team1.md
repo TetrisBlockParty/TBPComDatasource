@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:42:44 UTC
+# Standings for team1 as of 2026-06-10 12:43:24 UTC
 
 **Total Participants:** 2265
 
@@ -186,8 +186,8 @@
 | 178 | 802 | Gael Quintana |
 | 179 | 800 | Tipsy Tetriblast |
 | 180 | 788 | Zappy Riser |
-| 181 | 786 | Eugina Slater |
-| 182 | 786 | Novaa |
+| 181 | 786 | Novaa |
+| 182 | 786 | Eugina Slater |
 | 183 | 776 | Ann White |
 | 184 | 767 | GrkGdess |
 | 185 | 764 | Chantelle Lee |
@@ -195,8 +195,8 @@
 | 187 | 754 | Jhaime |
 | 188 | 751 | Jamal Itzjusmall Chambers |
 | 189 | 749 | Dulo |
-| 190 | 744 | Kevin M. McGhee Jr |
-| 191 | 744 | Ottison Dianna |
+| 190 | 744 | Ottison Dianna |
+| 191 | 744 | Kevin M. McGhee Jr |
 | 192 | 742 | Randizzle |
 | 193 | 742 | Latisha Fairley |
 | 194 | 740 | Felicia Cain |
@@ -213,17 +213,17 @@
 | 205 | 707 | Jazzy Fireflighters |
 | 206 | 700 | Spicy Risepiece |
 | 207 | 699 | Block King |
-| 208 | 695 | Yasmin Nakea Wright |
-| 209 | 692 | Chirpy Corner |
-| 210 | 690 | boogeywoogey |
+| 208 | 695 | boogeywoogey |
+| 209 | 695 | Yasmin Nakea Wright |
+| 210 | 692 | Chirpy Corner |
 | 211 | 690 | Genne Scott |
 | 212 | 687 | Sarah Clark |
 | 213 | 684 | Tammye Turner |
 | 214 | 684 | Coco |
 | 215 | 680 | Charletha Williams |
 | 216 | 672 | Trina Greenwood |
-| 217 | 670 | Johnathan Deese |
-| 218 | 670 | David Fuentes |
+| 217 | 670 | David Fuentes |
+| 218 | 670 | Johnathan Deese |
 | 219 | 668 | Tasha Jones |
 | 220 | 668 | Bambi Love |
 | 221 | 665 | Po Marley |
@@ -383,76 +383,76 @@
 | 375 | 400 | Denell Sims |
 | 376 | 399 | BabyCakes |
 | 377 | 398 | Hasty Glidezone |
-| 378 | 397 | Jae Thompson-Tyus |
-| 379 | 397 | Shameka Thrasher |
+| 378 | 397 | Shameka Thrasher |
+| 379 | 397 | Jae Thompson-Tyus |
 | 380 | 396 | Bbyunicorn |
 | 381 | 396 | Amber Wilson |
 | 382 | 396 | Nikki Hogan |
 | 383 | 395 | Maribel Vasquez |
 | 384 | 394 | Wayne Savannah |
-| 385 | 393 | Rayya Kiser |
-| 386 | 393 | Jai |
+| 385 | 393 | Jai |
+| 386 | 393 | Rayya Kiser |
 | 387 | 391 | HarleyJane |
 | 388 | 390 | Jean Regis |
 | 389 | 387 | kitten |
 | 390 | 386 | De'Mear McKinney |
-| 391 | 385 | Jennah |
-| 392 | 385 | Bubbly Piececlear |
-| 393 | 381 | SeanSanchez |
-| 394 | 381 | Lisa Fletcher |
+| 391 | 385 | Bubbly Piececlear |
+| 392 | 385 | Jennah |
+| 393 | 381 | Lisa Fletcher |
+| 394 | 381 | SeanSanchez |
 | 395 | 381 | Faith Armone |
 | 396 | 380 | Giggy Edgefit |
-| 397 | 380 | MindlessMic |
-| 398 | 380 | Still Ten Tay |
+| 397 | 380 | Ketrell Bailey |
+| 398 | 380 | MindlessMic |
 | 399 | 380 | Tonya Thomas |
-| 400 | 380 | Ladybug |
-| 401 | 380 | Ketrell Bailey |
-| 402 | 378 | Dennis J Herron II |
-| 403 | 378 | Ashley MyBeauty Daniels |
+| 400 | 380 | Still Ten Tay |
+| 401 | 380 | Ladybug |
+| 402 | 378 | Ashley MyBeauty Daniels |
+| 403 | 378 | Dennis J Herron II |
 | 404 | 377 | AF Cruz |
-| 405 | 377 | Eric Spencer Whitaker |
-| 406 | 377 | kick it |
+| 405 | 377 | kick it |
+| 406 | 377 | Eric Spencer Whitaker |
 | 407 | 376 | Char |
 | 408 | 375 | Jana Cheek |
-| 409 | 371 | Cynthia Bradley |
-| 410 | 371 | Shea Ladynick Henderson |
+| 409 | 371 | Shea Ladynick Henderson |
+| 410 | 371 | Cynthia Bradley |
 | 411 | 371 | Giggy Tower |
 | 412 | 370 | Allison Baxter |
 | 413 | 369 | Guard Up |
-| 414 | 368 | Cortaz Lawrie |
-| 415 | 368 | Jelyfish |
-| 416 | 367 | Bold Clusterer |
-| 417 | 367 | Tipsy Linkroll |
-| 418 | 366 | Skippy |
-| 419 | 366 | Shalya Terry |
-| 420 | 364 | Kimberly Anderson |
-| 421 | 363 | Brittany Fells |
-| 422 | 363 | Tyree Tman Shinette |
-| 423 | 363 | Stacy Nicole |
+| 414 | 368 | Jelyfish |
+| 415 | 368 | Cortaz Lawrie |
+| 416 | 368 | Tosha Michelle |
+| 417 | 367 | Bold Clusterer |
+| 418 | 367 | Tipsy Linkroll |
+| 419 | 366 | Skippy |
+| 420 | 366 | Shalya Terry |
+| 421 | 364 | Kimberly Anderson |
+| 422 | 363 | Stacy Nicole |
+| 423 | 363 | Tyree Tman Shinette |
 | 424 | 363 | Christina Rebecca |
-| 425 | 362 | Kendra McIntyre |
-| 426 | 362 | LaShaun Stinson |
+| 425 | 363 | Brittany Fells |
+| 426 | 362 | Kendra McIntyre |
 | 427 | 362 | Ryan Runyan |
-| 428 | 361 | John Staub |
+| 428 | 362 | LaShaun Stinson |
 | 429 | 361 | Lakiesha Crawford |
-| 430 | 360 | Teri Marie Clayton |
-| 431 | 360 | HS Arce |
-| 432 | 360 | Sara Meri |
-| 433 | 359 | Montréal Mars |
-| 434 | 359 | Amy Villalpando |
-| 435 | 359 | SweetByNBy |
-| 436 | 358 | Sammie Walker |
-| 437 | 357 | Janice Mowel Curtiss |
-| 438 | 357 | McKayla Owens |
-| 439 | 357 | Manda Allen |
-| 440 | 356 | Glitzy Patternline |
-| 441 | 356 | Haley Bell |
-| 442 | 356 | Tosha Michelle |
+| 430 | 361 | John Staub |
+| 431 | 360 | Teri Marie Clayton |
+| 432 | 360 | HS Arce |
+| 433 | 360 | Sara Meri |
+| 434 | 359 | Montréal Mars |
+| 435 | 359 | Amy Villalpando |
+| 436 | 359 | SweetByNBy |
+| 437 | 358 | Sammie Walker |
+| 438 | 357 | Janice Mowel Curtiss |
+| 439 | 357 | McKayla Owens |
+| 440 | 357 | Manda Allen |
+| 441 | 356 | Glitzy Patternline |
+| 442 | 356 | Haley Bell |
 | 443 | 355 | Betsy B. Yohan |
 | 444 | 355 | Tajuana Juana'Cee Coleman |
-| 445 | 354 | Amy Lynn Leifheit |
+| 445 | 354 | Brittnay Wright |
 | 446 | 354 | Chilly Wipebuilder |
-| 447 | 354 | Brittnay Wright |
+| 447 | 354 | Amy Lynn Leifheit |
 | 448 | 353 | Matthieu Pistone |
 | 449 | 352 | Asha Langford |
 | 450 | 352 | Ann Chung |
