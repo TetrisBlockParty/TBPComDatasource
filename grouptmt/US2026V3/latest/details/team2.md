@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:24:42 UTC
+# Standings for team2 as of 2026-06-10 09:25:23 UTC
 
 **Total Participants:** 2715
 
@@ -115,7 +115,7 @@
 | 107 | 1699 | Poppy |
 | 108 | 1696 | Gabriella Humphreys |
 | 109 | 1680 | missat |
-| 110 | 1596 | Deborah Boyce Minor |
+| 110 | 1601 | Deborah Boyce Minor |
 | 111 | 1591 | Ruby Sandberg |
 | 112 | 1584 | Charlie Wilson |
 | 113 | 1563 | Amber Triguero |
@@ -257,8 +257,8 @@
 | 249 | 711 | Christina Maria |
 | 250 | 711 | Kevin Mccoy |
 | 251 | 710 | Chipper Stackbuilder |
-| 252 | 702 | Boldy Fitclear |
-| 253 | 701 | Amie Marks |
+| 252 | 707 | Amie Marks |
+| 253 | 702 | Boldy Fitclear |
 | 254 | 700 | DukeDino |
 | 255 | 698 | Aldotfus Williams |
 | 256 | 698 | Jenni LeBlanc |

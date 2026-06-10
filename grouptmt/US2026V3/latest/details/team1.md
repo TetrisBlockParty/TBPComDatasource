@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:24:42 UTC
+# Standings for team1 as of 2026-06-10 09:25:23 UTC
 
 **Total Participants:** 2250
 
@@ -313,7 +313,7 @@
 | 305 | 485 | Natasha Rucker |
 | 306 | 484 | Jhonny Maii |
 | 307 | 483 | Mahagony Small |
-| 308 | 481 | Steve Reno |
+| 308 | 482 | Steve Reno |
 | 309 | 479 | Leebo Slice |
 | 310 | 478 | Tarnisha Neicy Jones |
 | 311 | 477 | Analiza Ramos |
@@ -457,10 +457,10 @@
 | 449 | 334 | Brittany Fells |
 | 450 | 334 | Emily Wright |
 | 451 | 333 | Heather Wilson |
-| 452 | 332 | SweetByNBy |
-| 453 | 332 | Betsy B. Yohan |
-| 454 | 330 | Tracey Johnson |
-| 455 | 329 | The DUBZ |
+| 452 | 333 | The DUBZ |
+| 453 | 332 | SweetByNBy |
+| 454 | 332 | Betsy B. Yohan |
+| 455 | 330 | Tracey Johnson |
 | 456 | 329 | Shelly Everette |
 | 457 | 328 | Jelyfish |
 | 458 | 327 | De'Nell Edwards |
