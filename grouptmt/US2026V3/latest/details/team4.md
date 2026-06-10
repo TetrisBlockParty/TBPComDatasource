@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:42:44 UTC
+# Standings for team4 as of 2026-06-10 09:43:22 UTC
 
 **Total Participants:** 2298
 
@@ -117,13 +117,13 @@
 | 109 | 1221 | Snappy Fitzone |
 | 110 | 1201 | Trice Stevenson |
 | 111 | 1196 | J |
-| 112 | 1181 | Dana Fontanez |
-| 113 | 1165 | GeorgeButts |
-| 114 | 1156 | Dee Wizz |
-| 115 | 1156 | Jonathan Hewitt |
-| 116 | 1145 | Kristen Wallace |
-| 117 | 1142 | Hardy Fuller |
-| 118 | 1129 | Twirl Girl |
+| 112 | 1189 | Twirl Girl |
+| 113 | 1181 | Dana Fontanez |
+| 114 | 1165 | GeorgeButts |
+| 115 | 1156 | Dee Wizz |
+| 116 | 1156 | Jonathan Hewitt |
+| 117 | 1145 | Kristen Wallace |
+| 118 | 1142 | Hardy Fuller |
 | 119 | 1123 | Jenn Fitzgerald |
 | 120 | 1112 | Phil Peterson |
 | 121 | 1108 | Bri Martin |
@@ -184,8 +184,8 @@
 | 176 | 802 | Dandy Clearfit |
 | 177 | 797 | Lynn Grimes |
 | 178 | 783 | Regina Williams |
-| 179 | 780 | CIRAZYPNOY |
-| 180 | 780 | Capone |
+| 179 | 780 | Capone |
+| 180 | 780 | CIRAZYPNOY |
 | 181 | 779 | Tiffany Brooke |
 | 182 | 773 | Izz |
 | 183 | 764 | Shocinda Sherwood |
@@ -198,8 +198,8 @@
 | 190 | 745 | Gracie Ornelas |
 | 191 | 737 | Baysoph |
 | 192 | 735 | Cinta Marie |
-| 193 | 728 | Roxana Romero |
-| 194 | 728 | Bonnie Powell |
+| 193 | 728 | Bonnie Powell |
+| 194 | 728 | Roxana Romero |
 | 195 | 725 | iiPurgeV2 |
 | 196 | 723 | zoes |
 | 197 | 720 | Magz |
@@ -211,8 +211,8 @@
 | 203 | 700 | Suzanne Carter |
 | 204 | 697 | Linda Miltenburg |
 | 205 | 686 | Jennifer Ellyn Sheets |
-| 206 | 684 | Caitlyn Wang |
-| 207 | 684 | Shannon Rivera |
+| 206 | 684 | Shannon Rivera |
+| 207 | 684 | Caitlyn Wang |
 | 208 | 683 | Malik Thompson |
 | 209 | 681 | Janet Sanfilippo Sullivan |
 | 210 | 678 | Katie Lynn Petit |
@@ -652,36 +652,36 @@
 | 644 | 237 | Diana Fernandez |
 | 645 | 237 | Erica Pompey |
 | 646 | 237 | Donna Bush |
-| 647 | 236 | JoJo Hutson |
+| 647 | 236 | Playful Raccoon |
 | 648 | 236 | Bonique Bier |
-| 649 | 236 | Playful Raccoon |
+| 649 | 236 | JoJo Hutson |
 | 650 | 236 | Trang Nguyen |
-| 651 | 234 | Paula Renee McCracken |
-| 652 | 234 | Dena Lynn Rogers |
+| 651 | 234 | Dena Lynn Rogers |
+| 652 | 234 | Paula Renee McCracken |
 | 653 | 233 | Arvin Ortega |
 | 654 | 232 | All knowing |
 | 655 | 232 | Gigi Ivicsics |
 | 656 | 231 | Poseidon S Davenport |
-| 657 | 231 | Allysha McFarland |
-| 658 | 231 | Stephanie Brock |
-| 659 | 231 | Destiny Starr LeValdo |
-| 660 | 231 | Lora Schallert |
-| 661 | 230 | Breezy Brickline |
-| 662 | 230 | Lord Solrac |
+| 657 | 231 | Stephanie Brock |
+| 658 | 231 | Lora Schallert |
+| 659 | 231 | Allysha McFarland |
+| 660 | 231 | Destiny Starr LeValdo |
+| 661 | 230 | Lord Solrac |
+| 662 | 230 | Breezy Brickline |
 | 663 | 229 | Marcus Chavis |
-| 664 | 229 | Allysonjo Varela |
-| 665 | 229 | Happy Shatterfit |
+| 664 | 229 | Capt'n Crunch |
+| 665 | 229 | Allysonjo Varela |
 | 666 | 229 | Funky Twistpiece |
-| 667 | 229 | Capt'n Crunch |
-| 668 | 229 | chuck |
-| 669 | 228 | Tonia Kay |
+| 667 | 229 | chuck |
+| 668 | 229 | Happy Shatterfit |
+| 669 | 228 | Raising Stars |
 | 670 | 228 | Daring Towerer |
 | 671 | 228 | Happy Strikerpiece |
-| 672 | 228 | Raising Stars |
+| 672 | 228 | Tonia Kay |
 | 673 | 227 | Justin Ballard |
 | 674 | 227 | Budda Huitt |
-| 675 | 227 | Tactical_B |
-| 676 | 227 | Kiki Moore |
+| 675 | 227 | Kiki Moore |
+| 676 | 227 | Tactical_B |
 | 677 | 226 | Buddyblock |
 | 678 | 226 | Domo Dpn |
 | 679 | 225 | Rose Anna Safi |
@@ -689,63 +689,63 @@
 | 681 | 224 | Mmm |
 | 682 | 224 | Alizabeth Garcia |
 | 683 | 224 | Tamara Gay |
-| 684 | 223 | Sarah Leake |
-| 685 | 223 | Chass Hudson |
+| 684 | 223 | Chass Hudson |
+| 685 | 223 | Sarah Leake |
 | 686 | 222 | Maria Munoz |
 | 687 | 221 | Lorrie Ann Burchett |
 | 688 | 221 | Tana-Marie Lynn McCarty-Rolf |
-| 689 | 221 | Butterpat |
+| 689 | 221 | bribop |
 | 690 | 221 | Spicy Peach |
-| 691 | 221 | bribop |
-| 692 | 220 | Marie Adkins |
-| 693 | 220 | Zappy Tilemaker |
-| 694 | 220 | Mc3003 |
-| 695 | 220 | Ada Rodriguez Spradley |
-| 696 | 220 | Funky Rollzone |
-| 697 | 220 | Jay Keating |
+| 691 | 221 | Butterpat |
+| 692 | 220 | Mc3003 |
+| 693 | 220 | Jay Keating |
+| 694 | 220 | Ada Rodriguez Spradley |
+| 695 | 220 | Funky Rollzone |
+| 696 | 220 | Marie Adkins |
+| 697 | 220 | Zappy Tilemaker |
 | 698 | 219 | Rae Saunders |
 | 699 | 218 | PsyDMom |
-| 700 | 218 | Ayobribri |
-| 701 | 218 | Breezy Wife |
-| 702 | 218 | Mint Marquez |
-| 703 | 217 | Kat Foreman |
-| 704 | 217 | Cat |
-| 705 | 216 | Maegon Brazille |
-| 706 | 215 | Helen Bradley |
+| 700 | 218 | Mint Marquez |
+| 701 | 218 | Ayobribri |
+| 702 | 218 | Breezy Wife |
+| 703 | 217 | Cat |
+| 704 | 217 | Kat Foreman |
+| 705 | 216 | Stefanie Street |
+| 706 | 216 | Maegon Brazille |
 | 707 | 215 | Janae Harris |
-| 708 | 215 | Sfalcon1. |
+| 708 | 215 | ShaniP |
 | 709 | 215 | Swanky Builderline |
-| 710 | 215 | ShaniP |
-| 711 | 214 | Clever Fallzone |
-| 712 | 214 | Shia Marie |
-| 713 | 214 | Zesty Lift |
-| 714 | 214 | Joe Andrews |
-| 715 | 214 | Linda |
-| 716 | 214 | yourmomz |
-| 717 | 214 | Suzi Smas |
-| 718 | 214 | Nutty Rollfit |
-| 719 | 213 | Chelsea Costa |
-| 720 | 212 | Redhead girl |
-| 721 | 212 | Debby Muniz |
-| 722 | 212 | Ashlee Lemus |
-| 723 | 211 | Noa Lee |
-| 724 | 211 | Haylee Talkington |
-| 725 | 210 | GETBOXED! |
-| 726 | 210 | Brandon Bedenbaugh |
-| 727 | 210 | Electric Storm |
-| 728 | 209 | Valerie Marrero |
-| 729 | 209 | Sadeha Simpson |
-| 730 | 209 | Ashley Mcdonald |
-| 731 | 209 | Ashley Ferguson |
-| 732 | 209 | Weird Cat |
-| 733 | 209 | Adi Patterson |
-| 734 | 208 | Robert Moore |
-| 735 | 208 | Angela Adamo-Tash |
-| 736 | 208 | Lori Lynn |
-| 737 | 207 | Ashley DuVall |
-| 738 | 207 | LaToya LeBlanc |
-| 739 | 207 | Jasmine Turner |
-| 740 | 207 | Stefanie Street |
+| 710 | 215 | Sfalcon1. |
+| 711 | 215 | Helen Bradley |
+| 712 | 214 | Clever Fallzone |
+| 713 | 214 | Shia Marie |
+| 714 | 214 | Zesty Lift |
+| 715 | 214 | Joe Andrews |
+| 716 | 214 | Linda |
+| 717 | 214 | yourmomz |
+| 718 | 214 | Suzi Smas |
+| 719 | 214 | Nutty Rollfit |
+| 720 | 213 | Chelsea Costa |
+| 721 | 212 | Redhead girl |
+| 722 | 212 | Debby Muniz |
+| 723 | 212 | Ashlee Lemus |
+| 724 | 211 | Noa Lee |
+| 725 | 211 | Haylee Talkington |
+| 726 | 210 | GETBOXED! |
+| 727 | 210 | Brandon Bedenbaugh |
+| 728 | 210 | Electric Storm |
+| 729 | 209 | Valerie Marrero |
+| 730 | 209 | Sadeha Simpson |
+| 731 | 209 | Ashley Mcdonald |
+| 732 | 209 | Ashley Ferguson |
+| 733 | 209 | Weird Cat |
+| 734 | 209 | Adi Patterson |
+| 735 | 208 | Robert Moore |
+| 736 | 208 | Angela Adamo-Tash |
+| 737 | 208 | Lori Lynn |
+| 738 | 207 | Ashley DuVall |
+| 739 | 207 | LaToya LeBlanc |
+| 740 | 207 | Jasmine Turner |
 | 741 | 206 | Groovy Stacker |
 | 742 | 206 | Deana Teck |
 | 743 | 206 | Sandy Daye |
@@ -892,9 +892,9 @@
 | 884 | 169 | Taisha Beasley |
 | 885 | 169 | Combo Snappy |
 | 886 | 169 | BigCup ReeseCup |
-| 887 | 168 | Caiti O'Keefe |
-| 888 | 168 | Kristan Hoffman |
-| 889 | 167 | Lizxxx |
+| 887 | 168 | Lizxxx |
+| 888 | 168 | Caiti O'Keefe |
+| 889 | 168 | Kristan Hoffman |
 | 890 | 167 | Kuar T Ejen |
 | 891 | 167 | Tray Day |
 | 892 | 167 | Ana Ruiz |
