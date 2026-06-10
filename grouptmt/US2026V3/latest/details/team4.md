@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:39:22 UTC
+# Standings for team4 as of 2026-06-10 09:40:46 UTC
 
 **Total Participants:** 2298
 
@@ -204,8 +204,8 @@
 | 196 | 723 | zoes |
 | 197 | 720 | Magz |
 | 198 | 716 | Devinlee Brown |
-| 199 | 710 | Chuck Burns |
-| 200 | 706 | Neeta Kapadia |
+| 199 | 715 | Chuck Burns |
+| 200 | 711 | Neeta Kapadia |
 | 201 | 705 | Katie Martin |
 | 202 | 701 | Megan Vick |
 | 203 | 700 | Suzanne Carter |
@@ -730,8 +730,8 @@
 | 722 | 212 | Debby Muniz |
 | 723 | 211 | Haylee Talkington |
 | 724 | 211 | Noa Lee |
-| 725 | 210 | Brandon Bedenbaugh |
-| 726 | 210 | GETBOXED! |
+| 725 | 210 | GETBOXED! |
+| 726 | 210 | Brandon Bedenbaugh |
 | 727 | 210 | Electric Storm |
 | 728 | 209 | Weird Cat |
 | 729 | 209 | Ashley Ferguson |
@@ -743,44 +743,44 @@
 | 735 | 208 | Angela Adamo-Tash |
 | 736 | 208 | Lori Lynn |
 | 737 | 207 | LaToya LeBlanc |
-| 738 | 207 | Ashley DuVall |
-| 739 | 207 | Jasmine Turner |
-| 740 | 206 | Deana Teck |
-| 741 | 206 | Sandy Daye |
-| 742 | 206 | Groovy Stacker |
-| 743 | 205 | MrsAddams724 |
-| 744 | 204 | Megan Lynn |
-| 745 | 204 | Stefanie Street |
+| 738 | 207 | Stefanie Street |
+| 739 | 207 | Ashley DuVall |
+| 740 | 207 | Jasmine Turner |
+| 741 | 206 | Deana Teck |
+| 742 | 206 | Sandy Daye |
+| 743 | 206 | Groovy Stacker |
+| 744 | 205 | MrsAddams724 |
+| 745 | 204 | Megan Lynn |
 | 746 | 204 | Brenda Gustamantes |
 | 747 | 203 | Gma420 |
 | 748 | 203 | Goofy Strike |
 | 749 | 202 | Shaneé Staunton |
 | 750 | 202 | Ashley Nichole Skamra |
-| 751 | 202 | Clever Patterner |
-| 752 | 202 | MrLoner Stoner |
-| 753 | 201 | Frilly Zoney |
-| 754 | 201 | Kimberly Mae Watkins |
-| 755 | 201 | Tipsy Patternfit |
-| 756 | 201 | Abby Waterman |
-| 757 | 200 | Jessica Caminos |
-| 758 | 200 | Jenn Wilson |
-| 759 | 200 | Kiara Itzel Crowe |
-| 760 | 200 | Kristine Hj Han |
-| 761 | 200 | Sierra A Hortman |
-| 762 | 200 | Blockcrusher |
+| 751 | 202 | MrLoner Stoner |
+| 752 | 202 | Clever Patterner |
+| 753 | 201 | Tipsy Patternfit |
+| 754 | 201 | Abby Waterman |
+| 755 | 201 | Kimberly Mae Watkins |
+| 756 | 201 | Frilly Zoney |
+| 757 | 200 | Blockcrusher |
+| 758 | 200 | Sierra A Hortman |
+| 759 | 200 | Kristine Hj Han |
+| 760 | 200 | Jenn Wilson |
+| 761 | 200 | Jessica Caminos |
+| 762 | 200 | Kiara Itzel Crowe |
 | 763 | 200 | Melissa Derby Rood |
 | 764 | 199 | Andretta Sellers Robinson |
-| 765 | 199 | Gigi5 |
-| 766 | 199 | Lindsey DeRosa |
+| 765 | 199 | Nicole Dombrow |
+| 766 | 199 | Elena Marí |
 | 767 | 199 | Janet Willoughby |
-| 768 | 199 | Elena Marí |
-| 769 | 199 | Nicole Dombrow |
+| 768 | 199 | Gigi5 |
+| 769 | 199 | Lindsey DeRosa |
 | 770 | 199 | Cozy Patternline |
 | 771 | 198 | Has2brat |
-| 772 | 198 | Lana Tran |
-| 773 | 198 | Lizzzzzz |
-| 774 | 197 | Toria |
-| 775 | 197 | Mighty1 |
+| 772 | 198 | Lizzzzzz |
+| 773 | 198 | Lana Tran |
+| 774 | 197 | Mighty1 |
+| 775 | 197 | Toria |
 | 776 | 197 | Yvette Johnson |
 | 777 | 197 | Millie Hoskins |
 | 778 | 196 | Tipsy Matchline |
@@ -886,40 +886,40 @@
 | 878 | 171 | Ian T Parker |
 | 879 | 170 | Jill Chapman-Yancer |
 | 880 | 170 | Kayla Haddenham |
-| 881 | 170 | LaRue Tee |
-| 882 | 170 | Christina Hagan |
-| 883 | 169 | Jt Home |
-| 884 | 169 | BigCup ReeseCup |
-| 885 | 169 | Combo Snappy |
-| 886 | 169 | Taisha Beasley |
+| 881 | 170 | Christina Hagan |
+| 882 | 170 | LaRue Tee |
+| 883 | 169 | BigCup ReeseCup |
+| 884 | 169 | Jt Home |
+| 885 | 169 | Taisha Beasley |
+| 886 | 169 | Combo Snappy |
 | 887 | 168 | Caiti O'Keefe |
 | 888 | 168 | Kristan Hoffman |
 | 889 | 167 | Tray Day |
 | 890 | 167 | Ana Ruiz |
-| 891 | 167 | Kuar T Ejen |
-| 892 | 166 | Ben Figueroa |
-| 893 | 166 | Wacky Brick |
-| 894 | 166 | Jillian Marie |
-| 895 | 166 | Nachos |
-| 896 | 165 | Lizxxx |
+| 891 | 167 | Lizxxx |
+| 892 | 167 | Kuar T Ejen |
+| 893 | 166 | Ben Figueroa |
+| 894 | 166 | Nachos |
+| 895 | 166 | Jillian Marie |
+| 896 | 166 | Wacky Brick |
 | 897 | 165 | Corey Jackson |
 | 898 | 164 | Chad Finton |
 | 899 | 164 | LyvWyre |
 | 900 | 163 | Emily Lowe |
 | 901 | 163 | Tony Clark |
-| 902 | 162 | Vicente Bolaños Jr. |
-| 903 | 162 | Lush Twisterfit |
-| 904 | 162 | Frilly Riserpiece |
-| 905 | 162 | BethB |
-| 906 | 162 | Fancy Riser |
-| 907 | 161 | Hilarie Detweiler |
-| 908 | 161 | JustLessie |
+| 902 | 162 | Lush Twisterfit |
+| 903 | 162 | BethB |
+| 904 | 162 | Fancy Riser |
+| 905 | 162 | Frilly Riserpiece |
+| 906 | 162 | Vicente Bolaños Jr. |
+| 907 | 161 | JustLessie |
+| 908 | 161 | Certified Da Don |
 | 909 | 161 | Amber Torres |
 | 910 | 161 | Melissa Schwager |
-| 911 | 161 | Certified Da Don |
-| 912 | 160 | Stephanie Meinhart |
-| 913 | 160 | Charissa W Walton |
-| 914 | 160 | George Marshburn |
+| 911 | 161 | Hilarie Detweiler |
+| 912 | 160 | Charissa W Walton |
+| 913 | 160 | George Marshburn |
+| 914 | 160 | Stephanie Meinhart |
 | 915 | 160 | Cozy Staggerpiece |
 | 916 | 160 | Sha Ta Nay Mitchell |
 | 917 | 160 | Bumpy Morris |
@@ -1012,28 +1012,28 @@
 | 1004 | 144 | Nikcole Alexis Bryan |
 | 1005 | 143 | Miranda Brown |
 | 1006 | 143 | Rebekah Anne Macias |
-| 1007 | 142 | Clever Blockmatch |
-| 1008 | 141 | Aaron Turner |
-| 1009 | 141 | Phredda Helene Gavornik |
-| 1010 | 141 | Scott Baum |
-| 1011 | 141 | Baby cat |
-| 1012 | 141 | Audrianna Skaff |
-| 1013 | 141 | Monkey |
-| 1014 | 140 | Elizabeth Ann Caro |
-| 1015 | 140 | the repo |
-| 1016 | 140 | Kris McMahon |
-| 1017 | 140 | Deanne Silverdahl |
-| 1018 | 140 | Stacey Heartful |
-| 1019 | 140 | Krista Diaz |
-| 1020 | 140 | Jean Yap |
-| 1021 | 140 | Glitter |
-| 1022 | 140 | Aim Georgia Bros Scott |
-| 1023 | 140 | Groovy Matchgrid |
-| 1024 | 140 | Heather Brown |
-| 1025 | 140 | Larredo Covington |
-| 1026 | 140 | Littleshark |
-| 1027 | 140 | Willy Leung |
-| 1028 | 140 | Chirpy Spinzone |
+| 1007 | 143 | Chirpy Spinzone |
+| 1008 | 142 | Clever Blockmatch |
+| 1009 | 141 | Aaron Turner |
+| 1010 | 141 | Phredda Helene Gavornik |
+| 1011 | 141 | Scott Baum |
+| 1012 | 141 | Baby cat |
+| 1013 | 141 | Audrianna Skaff |
+| 1014 | 141 | Monkey |
+| 1015 | 140 | Elizabeth Ann Caro |
+| 1016 | 140 | the repo |
+| 1017 | 140 | Kris McMahon |
+| 1018 | 140 | Deanne Silverdahl |
+| 1019 | 140 | Stacey Heartful |
+| 1020 | 140 | Krista Diaz |
+| 1021 | 140 | Jean Yap |
+| 1022 | 140 | Glitter |
+| 1023 | 140 | Aim Georgia Bros Scott |
+| 1024 | 140 | Groovy Matchgrid |
+| 1025 | 140 | Heather Brown |
+| 1026 | 140 | Larredo Covington |
+| 1027 | 140 | Littleshark |
+| 1028 | 140 | Willy Leung |
 | 1029 | 140 | skynatda |
 | 1030 | 139 | Cozy Patternbuilder |
 | 1031 | 139 | Gualberto Ramirez |
