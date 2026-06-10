@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:09:22 UTC
+# Standings for team4 as of 2026-06-10 13:10:41 UTC
 
 **Total Participants:** 2323
 
@@ -147,9 +147,9 @@
 | 139 | 1021 | Scamp Jones |
 | 140 | 1008 | Loony Glidepiece |
 | 141 | 1006 | Kimberly Civinski |
-| 142 | 997 | Blayne Kole |
-| 143 | 992 | Keesha Muro |
-| 144 | 991 | blockhead |
+| 142 | 1001 | blockhead |
+| 143 | 997 | Blayne Kole |
+| 144 | 992 | Keesha Muro |
 | 145 | 990 | Kim |
 | 146 | 981 | Principal Liz |
 | 147 | 978 | Ermadette |
@@ -477,9 +477,9 @@
 | 469 | 323 | Lupe Chapa |
 | 470 | 321 | Ashley Eskridge |
 | 471 | 320 | Goofy Linkmatch |
-| 472 | 320 | Lady Dolphin |
-| 473 | 320 | Nerdy Faller |
-| 474 | 319 | Rosy Perez |
+| 472 | 320 | Rosy Perez |
+| 473 | 320 | Lady Dolphin |
+| 474 | 320 | Nerdy Faller |
 | 475 | 319 | Azahares Alonso |
 | 476 | 319 | Deborah Ayliffe |
 | 477 | 317 | Elli Wright |
@@ -703,8 +703,8 @@
 | 695 | 225 | Stefanie Street |
 | 696 | 225 | Rose Anna Safi |
 | 697 | 224 | Kat Foreman |
-| 698 | 224 | Tamara Gay |
-| 699 | 224 | Csigirlnc |
+| 698 | 224 | Csigirlnc |
+| 699 | 224 | Tamara Gay |
 | 700 | 224 | Japexican Strong |
 | 701 | 223 | Chass Hudson |
 | 702 | 223 | Sarah Leake |
@@ -713,62 +713,62 @@
 | 705 | 221 | Tana-Marie Lynn McCarty-Rolf |
 | 706 | 221 | Butterpat |
 | 707 | 221 | Lorrie Ann Burchett |
-| 708 | 220 | Marie Adkins |
+| 708 | 220 | Jay Keating |
 | 709 | 220 | Zappy Tilemaker |
-| 710 | 220 | Funky Rollzone |
-| 711 | 220 | Jay Keating |
-| 712 | 220 | Ada Rodriguez Spradley |
-| 713 | 219 | Rae Saunders |
-| 714 | 218 | PsyDMom |
-| 715 | 218 | Breezy Wife |
-| 716 | 218 | Ayobribri |
-| 717 | 218 | Mint Marquez |
-| 718 | 217 | Cat |
-| 719 | 217 | Ashlee Lemus |
-| 720 | 216 | Maegon Brazille |
-| 721 | 215 | Janae Harris |
-| 722 | 215 | Swanky Builderline |
-| 723 | 215 | Clever Blockbuilder |
-| 724 | 215 | Ben Figueroa |
-| 725 | 215 | ShaniP |
-| 726 | 215 | Sfalcon1. |
-| 727 | 215 | Helen Bradley |
-| 728 | 214 | Clever Fallzone |
-| 729 | 214 | yourmomz |
-| 730 | 214 | Joe Andrews |
-| 731 | 214 | Shia Marie |
-| 732 | 214 | Linda |
+| 710 | 220 | Ada Rodriguez Spradley |
+| 711 | 220 | Marie Adkins |
+| 712 | 220 | Funky Rollzone |
+| 713 | 219 | Mighty1 |
+| 714 | 219 | Rae Saunders |
+| 715 | 218 | Mint Marquez |
+| 716 | 218 | PsyDMom |
+| 717 | 218 | Breezy Wife |
+| 718 | 218 | Ayobribri |
+| 719 | 217 | Cat |
+| 720 | 217 | Ashlee Lemus |
+| 721 | 216 | Maegon Brazille |
+| 722 | 215 | Sfalcon1. |
+| 723 | 215 | Ben Figueroa |
+| 724 | 215 | Janae Harris |
+| 725 | 215 | Clever Blockbuilder |
+| 726 | 215 | ShaniP |
+| 727 | 215 | Swanky Builderline |
+| 728 | 215 | Helen Bradley |
+| 729 | 214 | Clever Fallzone |
+| 730 | 214 | yourmomz |
+| 731 | 214 | Joe Andrews |
+| 732 | 214 | Shia Marie |
 | 733 | 214 | Suzi Smas |
-| 734 | 213 | Chelsea Costa |
-| 735 | 212 | Lori Lynn |
+| 734 | 214 | Linda |
+| 735 | 213 | Chelsea Costa |
 | 736 | 212 | Debby Muniz |
-| 737 | 211 | Noa Lee |
-| 738 | 210 | Electric Storm |
-| 739 | 210 | Brandon Bedenbaugh |
-| 740 | 210 | Urplan |
-| 741 | 209 | Valerie Marrero |
-| 742 | 209 | Ashley Ferguson |
-| 743 | 209 | Sadeha Simpson |
-| 744 | 209 | Snappy Stack |
-| 745 | 209 | Ashley Mcdonald |
-| 746 | 209 | Weird Cat |
-| 747 | 209 | Adi Patterson |
-| 748 | 208 | Robert Moore |
-| 749 | 208 | Angela Adamo-Tash |
+| 737 | 212 | Lori Lynn |
+| 738 | 211 | Noa Lee |
+| 739 | 210 | Urplan |
+| 740 | 210 | Electric Storm |
+| 741 | 210 | Brandon Bedenbaugh |
+| 742 | 209 | Valerie Marrero |
+| 743 | 209 | Weird Cat |
+| 744 | 209 | Sadeha Simpson |
+| 745 | 209 | Snappy Stack |
+| 746 | 209 | Ashley Mcdonald |
+| 747 | 209 | Ashley Ferguson |
+| 748 | 209 | Adi Patterson |
+| 749 | 208 | Robert Moore |
 | 750 | 208 | Shirley A. Godfrey |
-| 751 | 207 | Jasmine Turner |
-| 752 | 207 | Ashley DuVall |
-| 753 | 207 | LaToya LeBlanc |
-| 754 | 206 | Groovy Stacker |
-| 755 | 206 | Sandy Daye |
-| 756 | 206 | Lizzzzzz |
-| 757 | 206 | Miguel Teixeira |
-| 758 | 205 | Mighty1 |
+| 751 | 208 | Angela Adamo-Tash |
+| 752 | 207 | Jasmine Turner |
+| 753 | 207 | Ashley DuVall |
+| 754 | 207 | LaToya LeBlanc |
+| 755 | 206 | Miguel Teixeira |
+| 756 | 206 | Sandy Daye |
+| 757 | 206 | Groovy Stacker |
+| 758 | 206 | Lizzzzzz |
 | 759 | 205 | Kristine Hj Han |
 | 760 | 205 | MrsAddams724 |
-| 761 | 204 | Megan Lynn |
-| 762 | 204 | Amber Jalbert |
-| 763 | 204 | Brenda Gustamantes |
+| 761 | 204 | Amber Jalbert |
+| 762 | 204 | Brenda Gustamantes |
+| 763 | 204 | Megan Lynn |
 | 764 | 204 | Jessica Caminos |
 | 765 | 204 | Jill Chapman-Yancer |
 | 766 | 203 | Goofy Strike |
@@ -1414,20 +1414,20 @@
 | 1406 | 78 | kellyhyatt |
 | 1407 | 77 | Stuart Crosby |
 | 1408 | 77 | Heather Cross High |
-| 1409 | 77 | Rebecca Renaud |
-| 1410 | 77 | Michael Cruz |
-| 1411 | 77 | Terry Jo Myers |
-| 1412 | 77 | Rai |
-| 1413 | 77 | Shannon Lee |
-| 1414 | 77 | Vanessa Pritchett |
-| 1415 | 76 | Brandy Martin-Lowery |
-| 1416 | 76 | Nakkia Mobley |
-| 1417 | 76 | Uh Lesh Uh |
-| 1418 | 76 | Aliyah Abdella |
-| 1419 | 76 | Heather Dornberger |
-| 1420 | 76 | Sunny Bricky |
-| 1421 | 76 | Johnny Jeppesen |
-| 1422 | 76 | Cheery Basegrid |
+| 1409 | 77 | Cheery Basegrid |
+| 1410 | 77 | Rebecca Renaud |
+| 1411 | 77 | Michael Cruz |
+| 1412 | 77 | Terry Jo Myers |
+| 1413 | 77 | Rai |
+| 1414 | 77 | Shannon Lee |
+| 1415 | 77 | Vanessa Pritchett |
+| 1416 | 76 | Brandy Martin-Lowery |
+| 1417 | 76 | Nakkia Mobley |
+| 1418 | 76 | Uh Lesh Uh |
+| 1419 | 76 | Aliyah Abdella |
+| 1420 | 76 | Heather Dornberger |
+| 1421 | 76 | Sunny Bricky |
+| 1422 | 76 | Johnny Jeppesen |
 | 1423 | 76 | Jazzy Smasher |
 | 1424 | 76 | Ksawn Collymore-bey Collymore-bey |
 | 1425 | 75 | Bri |
