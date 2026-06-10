@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:41:21 UTC
+# Standings for team1 as of 2026-06-10 09:42:44 UTC
 
 **Total Participants:** 2252
 
@@ -17,7 +17,7 @@
 | 9 | 9779 | Charnay Peacock |
 | 10 | 9723 | Speedy Spinblock |
 | 11 | 9705 | Songne Arif |
-| 12 | 9546 | Dyane Leah Ware |
+| 12 | 9703 | Dyane Leah Ware |
 | 13 | 9360 | Debbie Carswell |
 | 14 | 8423 | Tracy Cohen |
 | 15 | 7886 | Cassidy Butler |
@@ -51,7 +51,7 @@
 | 43 | 2615 | JoJo |
 | 44 | 2584 | Tootsie Pop |
 | 45 | 2540 | Jamie Willis |
-| 46 | 2499 | Jennifer To |
+| 46 | 2515 | Jennifer To |
 | 47 | 2468 | Epic Snapfall |
 | 48 | 2448 | Mimi 1.0 |
 | 49 | 2370 | Therealdywoune Peay |
@@ -73,7 +73,7 @@
 | 65 | 1883 | Chris Russell |
 | 66 | 1870 | TAZ-MF-NIZIL |
 | 67 | 1869 | Jolly Dropzone |
-| 68 | 1844 | Moomoo |
+| 68 | 1845 | Moomoo |
 | 69 | 1837 | Daylene Johannes |
 | 70 | 1815 | Michael J Gresham |
 | 71 | 1786 | Jacoby E Fleming |
@@ -114,8 +114,8 @@
 | 106 | 1323 | Denise B |
 | 107 | 1309 | Catara Renae Oliver |
 | 108 | 1303 | Aviv Zehavi |
-| 109 | 1295 | Kimberly Hernandez |
-| 110 | 1293 | Robbie Cheeseman |
+| 109 | 1297 | Robbie Cheeseman |
+| 110 | 1295 | Kimberly Hernandez |
 | 111 | 1288 | Amalie Newvine |
 | 112 | 1282 | Jon Gathers |
 | 113 | 1239 | G Ah Mayes |
@@ -155,9 +155,9 @@
 | 147 | 931 | Antonia Wyche |
 | 148 | 927 | Kellie Hall |
 | 149 | 917 | Ebony |
-| 150 | 915 | Crystal Boyd |
-| 151 | 911 | Ebony Waynes-robinson |
-| 152 | 908 | Danielle Barthelme |
+| 150 | 916 | Danielle Barthelme |
+| 151 | 915 | Crystal Boyd |
+| 152 | 911 | Ebony Waynes-robinson |
 | 153 | 907 | Eartha Brown |
 | 154 | 906 | Atlantalindi |
 | 155 | 899 | Slinky Puzzler |
@@ -209,9 +209,9 @@
 | 201 | 691 | Nobles Brandon |
 | 202 | 690 | Genne Scott |
 | 203 | 690 | boogeywoogey |
-| 204 | 684 | Tammye Turner |
-| 205 | 684 | Coco |
-| 206 | 680 | Block King |
+| 204 | 689 | Block King |
+| 205 | 684 | Tammye Turner |
+| 206 | 684 | Coco |
 | 207 | 680 | Charletha Williams |
 | 208 | 672 | Trina Greenwood |
 | 209 | 672 | BULLSEYE |
@@ -241,8 +241,8 @@
 | 233 | 598 | Dion Gray |
 | 234 | 596 | Albert McKnight |
 | 235 | 596 | Mic Balew |
-| 236 | 595 | Tishauna Virgo |
-| 237 | 595 | Wild Out Nai |
+| 236 | 595 | Wild Out Nai |
+| 237 | 595 | Tishauna Virgo |
 | 238 | 593 | Tessa Gaskin |
 | 239 | 590 | Loopy Block |
 | 240 | 589 | Tamara N Lee |
@@ -1652,45 +1652,45 @@
 | 1644 | 40 | Chummy Blockpiece |
 | 1645 | 40 | Phongoudom Tika |
 | 1646 | 40 | Kira Wooten |
-| 1647 | 40 | Billz143 |
-| 1648 | 40 | James Dunlap |
-| 1649 | 40 | Boldy Zoner |
-| 1650 | 40 | Dawn Walker |
-| 1651 | 40 | NiingDing |
-| 1652 | 40 | Carol Washington |
-| 1653 | 40 | Fancy Zoner |
-| 1654 | 40 | Flashy Slam |
-| 1655 | 40 | Dominique Barbie Periandri |
-| 1656 | 40 | Erica Wells |
-| 1657 | 40 | Sylvia Holst |
-| 1658 | 40 | meep |
-| 1659 | 40 | Brandon Dontell Saunders |
-| 1660 | 40 | Lisa Messerli |
-| 1661 | 40 | Katrina Trein Bein Dickerson |
-| 1662 | 40 | Steve Renelus |
-| 1663 | 40 | Girly Pop |
-| 1664 | 40 | Chuck Gee |
-| 1665 | 40 | Bumpy Ricketts |
-| 1666 | 39 | BP Phillips |
-| 1667 | 39 | Jamey |
-| 1668 | 39 | Rekeia Minding Mine |
-| 1669 | 39 | Katybeth Pauley |
-| 1670 | 39 | Queen |
-| 1671 | 39 | Nerdy Riser |
-| 1672 | 39 | Jenine Wiser |
-| 1673 | 39 | Giggly Cascader |
-| 1674 | 39 | Blaze |
-| 1675 | 39 | Diva shrock |
-| 1676 | 39 | Deborah |
-| 1677 | 38 | Clever Twistbuilder |
-| 1678 | 38 | Pastors Du Bose |
-| 1679 | 38 | Krista Shanice |
-| 1680 | 38 | Kiyeri |
-| 1681 | 38 | Twisty Tilebuilder |
-| 1682 | 38 | Snippy T-spin |
-| 1683 | 38 | Nicole Freeman |
-| 1684 | 38 | hope |
-| 1685 | 38 | D Jay Camberos |
+| 1647 | 40 | D Jay Camberos |
+| 1648 | 40 | Billz143 |
+| 1649 | 40 | James Dunlap |
+| 1650 | 40 | Boldy Zoner |
+| 1651 | 40 | Dawn Walker |
+| 1652 | 40 | NiingDing |
+| 1653 | 40 | Carol Washington |
+| 1654 | 40 | Fancy Zoner |
+| 1655 | 40 | Flashy Slam |
+| 1656 | 40 | Dominique Barbie Periandri |
+| 1657 | 40 | Erica Wells |
+| 1658 | 40 | Steve Renelus |
+| 1659 | 40 | Sylvia Holst |
+| 1660 | 40 | meep |
+| 1661 | 40 | Brandon Dontell Saunders |
+| 1662 | 40 | Katrina Trein Bein Dickerson |
+| 1663 | 40 | Lisa Messerli |
+| 1664 | 40 | Girly Pop |
+| 1665 | 40 | Chuck Gee |
+| 1666 | 40 | Bumpy Ricketts |
+| 1667 | 39 | Nerdy Riser |
+| 1668 | 39 | BP Phillips |
+| 1669 | 39 | Jamey |
+| 1670 | 39 | Katybeth Pauley |
+| 1671 | 39 | Rekeia Minding Mine |
+| 1672 | 39 | Queen |
+| 1673 | 39 | Jenine Wiser |
+| 1674 | 39 | Giggly Cascader |
+| 1675 | 39 | Blaze |
+| 1676 | 39 | Diva shrock |
+| 1677 | 39 | Deborah |
+| 1678 | 38 | Krista Shanice |
+| 1679 | 38 | Kiyeri |
+| 1680 | 38 | Clever Twistbuilder |
+| 1681 | 38 | Pastors Du Bose |
+| 1682 | 38 | Twisty Tilebuilder |
+| 1683 | 38 | Snippy T-spin |
+| 1684 | 38 | Nicole Freeman |
+| 1685 | 38 | hope |
 | 1686 | 38 | kaboom |
 | 1687 | 38 | Hasty Slammer |
 | 1688 | 37 | Ryan |
@@ -1699,8 +1699,8 @@
 | 1691 | 37 | Chris Bell |
 | 1692 | 37 | vvvvv |
 | 1693 | 37 | kiki |
-| 1694 | 37 | Cheeky Matchzone |
-| 1695 | 37 | Tagashel Gotuwe |
+| 1694 | 37 | Tagashel Gotuwe |
+| 1695 | 37 | Cheeky Matchzone |
 | 1696 | 37 | Laugh N Learn Tutoring |
 | 1697 | 37 | Witty Blockpiece |
 | 1698 | 37 | Zachary Sinclair |
