@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 05:36:47 UTC
+# Standings for team1 as of 2026-06-10 05:37:22 UTC
 
 **Total Participants:** 2225
 
@@ -285,9 +285,9 @@
 | 277 | 519 | Clever Fitblock |
 | 278 | 519 | win |
 | 279 | 517 | Tamara Johnson-Carter |
-| 280 | 513 | Calvin Green |
-| 281 | 511 | Dizzy Dropper |
-| 282 | 511 | Chasem45 |
+| 280 | 514 | Chasem45 |
+| 281 | 513 | Calvin Green |
+| 282 | 511 | Dizzy Dropper |
 | 283 | 509 | JaClanDiah |
 | 284 | 503 | Giggly Tiltbuilder |
 | 285 | 502 | Jessica Russell |
@@ -344,12 +344,12 @@
 | 336 | 435 | Richard Flex |
 | 337 | 434 | Tonya McElroy |
 | 338 | 434 | 大竹直之 |
-| 339 | 430 | Davionte DaeDae Hopson-Rodriguez |
-| 340 | 430 | akosua |
-| 341 | 429 | Koi |
-| 342 | 428 | Brand Nu |
-| 343 | 424 | Sarah Barnum |
-| 344 | 424 | Shanaa Germany Crittenden |
+| 339 | 434 | Shanaa Germany Crittenden |
+| 340 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 341 | 430 | akosua |
+| 342 | 429 | Koi |
+| 343 | 428 | Brand Nu |
+| 344 | 424 | Sarah Barnum |
 | 345 | 423 | Andrew Jay Vaughn |
 | 346 | 423 | Christian Pham |
 | 347 | 419 | Dai Bo |
@@ -587,11 +587,11 @@
 | 579 | 255 | Michelle Peters |
 | 580 | 254 | Ashlie Mo |
 | 581 | 254 | Brittany Sara Heldwein |
-| 582 | 254 | Dede Tate |
-| 583 | 254 | Cheryl Miller |
-| 584 | 254 | Dorian Griffin |
-| 585 | 252 | Kimberly Anderson |
-| 586 | 252 | BB |
+| 582 | 254 | BB |
+| 583 | 254 | Dede Tate |
+| 584 | 254 | Cheryl Miller |
+| 585 | 254 | Dorian Griffin |
+| 586 | 252 | Kimberly Anderson |
 | 587 | 252 | Shakuria Cortia Burney |
 | 588 | 252 | Lazy Tiltpiece |
 | 589 | 252 | Mary Phillippi Blanton |
