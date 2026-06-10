@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:37:24 UTC
+# Standings for team2 as of 2026-06-10 08:38:46 UTC
 
 **Total Participants:** 2712
 
@@ -123,8 +123,8 @@
 | 115 | 1539 | Courtney McCulley |
 | 116 | 1527 | Amber Salazar |
 | 117 | 1510 | Shandrea Crawford |
-| 118 | 1484 | Loopy Curvebuilder |
-| 119 | 1481 | Deborah Boyce Minor |
+| 118 | 1486 | Deborah Boyce Minor |
+| 119 | 1484 | Loopy Curvebuilder |
 | 120 | 1429 | Amber-leigh Williams |
 | 121 | 1395 | Frothy Fallgrid |
 | 122 | 1369 | Marquetta Johnson |
@@ -240,11 +240,11 @@
 | 232 | 750 | Tisha Hairston |
 | 233 | 746 | Dsabrina Maxey |
 | 234 | 744 | Mouh Med |
-| 235 | 740 | Nikki Hayes |
-| 236 | 739 | Zarah Kettler |
-| 237 | 736 | Nikki Carter |
-| 238 | 734 | Chasity Simpson |
-| 239 | 734 | Theresa Huddleston |
+| 235 | 741 | Theresa Huddleston |
+| 236 | 740 | Nikki Hayes |
+| 237 | 739 | Zarah Kettler |
+| 238 | 736 | Nikki Carter |
+| 239 | 734 | Chasity Simpson |
 | 240 | 728 | Tim Tim |
 | 241 | 724 | Kaylene Rigas |
 | 242 | 723 | Nutty Curver |
@@ -490,12 +490,12 @@
 | 482 | 382 | Chummy Snapbuilder |
 | 483 | 382 | Curly Windbreaker |
 | 484 | 381 | Ariel Gundersen |
-| 485 | 380 | Leah Lynn |
+| 485 | 381 | Symmy Norton |
 | 486 | 380 | August Christy Lathrop |
-| 487 | 379 | Nathan Walker |
-| 488 | 378 | Paula Haskins |
-| 489 | 376 | andee |
-| 490 | 376 | Symmy Norton |
+| 487 | 380 | Leah Lynn |
+| 488 | 379 | Nathan Walker |
+| 489 | 378 | Paula Haskins |
+| 490 | 376 | andee |
 | 491 | 375 | Mandy Van Laningham Bishop |
 | 492 | 373 | Jumpy Dashpiece |
 | 493 | 372 | Wacky Curve |
@@ -523,8 +523,8 @@
 | 515 | 360 | Jim Longnecker |
 | 516 | 360 | Carrie Hayes Lankford |
 | 517 | 359 | Patrick Ohanlon |
-| 518 | 359 | murd3rmous3 |
-| 519 | 359 | Flashy Hitter |
+| 518 | 359 | Flashy Hitter |
+| 519 | 359 | murd3rmous3 |
 | 520 | 359 | Gina Leal |
 | 521 | 358 | David Skelton |
 | 522 | 357 | Perky Linebuilder |
@@ -1061,16 +1061,16 @@
 | 1053 | 169 | Joey Grillo |
 | 1054 | 169 | MjLovebug13 |
 | 1055 | 168 | Bruni |
-| 1056 | 168 | Boo Boo Binx |
-| 1057 | 167 | Grimwitch |
-| 1058 | 167 | Alisha Shelton |
-| 1059 | 167 | Donna R. Banks |
-| 1060 | 167 | Joffee Joffer |
-| 1061 | 167 | Aeryal Snow |
-| 1062 | 167 | Brandy Westfall-panchari |
-| 1063 | 167 | Bennie Farbo |
-| 1064 | 167 | Cara Rivera |
-| 1065 | 166 | Danid |
+| 1056 | 168 | Danid |
+| 1057 | 168 | Boo Boo Binx |
+| 1058 | 167 | Grimwitch |
+| 1059 | 167 | Alisha Shelton |
+| 1060 | 167 | Donna R. Banks |
+| 1061 | 167 | Joffee Joffer |
+| 1062 | 167 | Aeryal Snow |
+| 1063 | 167 | Brandy Westfall-panchari |
+| 1064 | 167 | Bennie Farbo |
+| 1065 | 167 | Cara Rivera |
 | 1066 | 166 | LyndaLou |
 | 1067 | 166 | Ryan Sanders |
 | 1068 | 166 | Belinda Head |
