@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:04:43 UTC
+# Standings for team1 as of 2026-06-10 13:05:22 UTC
 
 **Total Participants:** 2266
 
@@ -198,19 +198,19 @@
 | 190 | 752 | Latisha Fairley |
 | 191 | 751 | Jamal Itzjusmall Chambers |
 | 192 | 749 | Dulo |
-| 193 | 744 | Ottison Dianna |
-| 194 | 744 | Kevin M. McGhee Jr |
-| 195 | 742 | Randizzle |
-| 196 | 740 | Felicia Cain |
-| 197 | 738 | Dena Marie Lee |
-| 198 | 733 | Dandy Brickfit |
-| 199 | 730 | ing410 |
-| 200 | 725 | Marcheta Cervantez |
-| 201 | 723 | Zippy Tilefall |
-| 202 | 722 | BULLSEYE |
-| 203 | 721 | Rachel Zimmerman |
-| 204 | 720 | Nerdy Blockpiece |
-| 205 | 719 | Nobles Brandon |
+| 193 | 747 | Nobles Brandon |
+| 194 | 744 | Ottison Dianna |
+| 195 | 744 | Kevin M. McGhee Jr |
+| 196 | 742 | Randizzle |
+| 197 | 740 | Felicia Cain |
+| 198 | 738 | Dena Marie Lee |
+| 199 | 733 | Dandy Brickfit |
+| 200 | 730 | ing410 |
+| 201 | 725 | Marcheta Cervantez |
+| 202 | 723 | Zippy Tilefall |
+| 203 | 722 | BULLSEYE |
+| 204 | 721 | Rachel Zimmerman |
+| 205 | 720 | Nerdy Blockpiece |
 | 206 | 707 | Jazzy Fireflighters |
 | 207 | 700 | Spicy Risepiece |
 | 208 | 699 | Block King |
@@ -792,9 +792,9 @@
 | 784 | 197 | krd |
 | 785 | 197 | Seddrick |
 | 786 | 197 | Amanda Woodruff |
-| 787 | 196 | Katness |
-| 788 | 196 | whatever |
-| 789 | 195 | Tanesha Ga'sFinest Corbett |
+| 787 | 196 | Tanesha Ga'sFinest Corbett |
+| 788 | 196 | Katness |
+| 789 | 196 | whatever |
 | 790 | 195 | Elaine Pauley |
 | 791 | 195 | William Vidra |
 | 792 | 193 | Sherry D Singleton |
@@ -864,77 +864,77 @@
 | 856 | 176 | Alexis Alexander |
 | 857 | 176 | Callie Mae |
 | 858 | 176 | Poppy Smasher |
-| 859 | 176 | Frisky Gridder |
-| 860 | 176 | Crystal Garay |
-| 861 | 176 | Squaw Ki Ng |
-| 862 | 175 | Dizzy Gridmatch |
-| 863 | 175 | Ozell Jones Jr. |
-| 864 | 175 | LAdYPOLy |
-| 865 | 175 | DaemahnFriday |
-| 866 | 174 | Nerdy Wipefit |
-| 867 | 174 | Kizzy Clark |
-| 868 | 174 | Jason Saputo |
-| 869 | 173 | DirtiestofMikes |
-| 870 | 173 | Claudia Price |
-| 871 | 172 | Li-Li Ratliff |
-| 872 | 171 | Pinky Pink |
-| 873 | 171 | Ta'Kaiyah M. Spann |
-| 874 | 171 | Locke Mahal LD |
-| 875 | 170 | Mikemike Zonethree |
+| 859 | 176 | April Lane |
+| 860 | 176 | Frisky Gridder |
+| 861 | 176 | Crystal Garay |
+| 862 | 176 | Squaw Ki Ng |
+| 863 | 175 | Dizzy Gridmatch |
+| 864 | 175 | Ozell Jones Jr. |
+| 865 | 175 | LAdYPOLy |
+| 866 | 175 | DaemahnFriday |
+| 867 | 174 | Nerdy Wipefit |
+| 868 | 174 | Kizzy Clark |
+| 869 | 174 | Jason Saputo |
+| 870 | 173 | DirtiestofMikes |
+| 871 | 173 | Claudia Price |
+| 872 | 172 | Li-Li Ratliff |
+| 873 | 171 | Pinky Pink |
+| 874 | 171 | Ta'Kaiyah M. Spann |
+| 875 | 171 | Locke Mahal LD |
 | 876 | 170 | Devron Reedy |
-| 877 | 170 | Ashley Davis |
-| 878 | 170 | Aaron Sohnrey |
-| 879 | 170 | Kat |
+| 877 | 170 | Mikemike Zonethree |
+| 878 | 170 | Ashley Davis |
+| 879 | 170 | Aaron Sohnrey |
 | 880 | 170 | Jamesha Lawrence |
-| 881 | 169 | CauliMac |
-| 882 | 169 | April Lane |
+| 881 | 170 | Kat |
+| 882 | 169 | CauliMac |
 | 883 | 169 | rb |
 | 884 | 169 | Sunny Clicky |
-| 885 | 168 | DoMinique Lee |
+| 885 | 168 | Meeee |
 | 886 | 168 | Seirra Robinson |
-| 887 | 168 | Meeee |
-| 888 | 168 | Mrs.Ann |
-| 889 | 167 | Ashley Love Pettit |
-| 890 | 167 | Crtjstr |
-| 891 | 167 | Felicia Woods |
+| 887 | 168 | Mrs.Ann |
+| 888 | 168 | DoMinique Lee |
+| 889 | 167 | Felicia Woods |
+| 890 | 167 | Ashley Love Pettit |
+| 891 | 167 | Crtjstr |
 | 892 | 166 | Amaadi Ward |
-| 893 | 166 | Shanell Thomas |
-| 894 | 166 | Desi Guerra |
-| 895 | 166 | Rochelle Nash-Evans |
-| 896 | 166 | Motown Chuck |
+| 893 | 166 | Desi Guerra |
+| 894 | 166 | Motown Chuck |
+| 895 | 166 | Shanell Thomas |
+| 896 | 166 | Rochelle Nash-Evans |
 | 897 | 166 | Peppy Wipeblock |
 | 898 | 165 | AimlessRain |
 | 899 | 165 | Tyrone Porter |
-| 900 | 164 | Bouncy Glide |
-| 901 | 164 | Kidgib5 |
-| 902 | 164 | Shauntai Holiday |
-| 903 | 164 | Markeita Jones |
-| 904 | 164 | Yashicha Hertzock |
-| 905 | 164 | Arlea Mann |
-| 906 | 164 | Chereese Harris |
-| 907 | 163 | JesusSaves 😇 |
-| 908 | 163 | TNT |
+| 900 | 164 | Shauntai Holiday |
+| 901 | 164 | Arlea Mann |
+| 902 | 164 | Bouncy Glide |
+| 903 | 164 | Chereese Harris |
+| 904 | 164 | Markeita Jones |
+| 905 | 164 | Yashicha Hertzock |
+| 906 | 164 | Kidgib5 |
+| 907 | 163 | TNT |
+| 908 | 163 | JesusSaves 😇 |
 | 909 | 163 | Kathleen Boyles |
-| 910 | 162 | Speedy Stacky |
-| 911 | 162 | Chill Linkroll |
-| 912 | 162 | Jasmine Hariston-Estis |
-| 913 | 162 | Fatty May |
-| 914 | 162 | Sandra Mims |
-| 915 | 161 | Cauiasia DeJ'ae |
-| 916 | 161 | Melvin Simpson |
-| 917 | 161 | Biggestboss Ransom |
-| 918 | 161 | Rosanna Ringold |
-| 919 | 160 | Twisty Dashy |
-| 920 | 160 | Latoya Carson |
-| 921 | 160 | Cheeky Twistpiece |
-| 922 | 160 | Chill Curvebuilder |
-| 923 | 160 | Sarah Guarino |
-| 924 | 159 | Kiki |
-| 925 | 159 | Boricua64 |
-| 926 | 159 | Yvette McGee |
-| 927 | 159 | Boymama917 |
-| 928 | 159 | Mellie Mel |
-| 929 | 159 | Dianne Clagon |
+| 910 | 162 | Chill Linkroll |
+| 911 | 162 | Jasmine Hariston-Estis |
+| 912 | 162 | Speedy Stacky |
+| 913 | 162 | Sandra Mims |
+| 914 | 162 | Fatty May |
+| 915 | 161 | Biggestboss Ransom |
+| 916 | 161 | Rosanna Ringold |
+| 917 | 161 | Cauiasia DeJ'ae |
+| 918 | 161 | Melvin Simpson |
+| 919 | 160 | Chill Curvebuilder |
+| 920 | 160 | Sarah Guarino |
+| 921 | 160 | Latoya Carson |
+| 922 | 160 | Twisty Dashy |
+| 923 | 160 | Cheeky Twistpiece |
+| 924 | 159 | Boymama917 |
+| 925 | 159 | Mellie Mel |
+| 926 | 159 | Dianne Clagon |
+| 927 | 159 | Kiki |
+| 928 | 159 | Yvette McGee |
+| 929 | 159 | Boricua64 |
 | 930 | 158 | Chloe Bankz |
 | 931 | 158 | P C |
 | 932 | 158 | Shanjerrica Taylor Rosell |
