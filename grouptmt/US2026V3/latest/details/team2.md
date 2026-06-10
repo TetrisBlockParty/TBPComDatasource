@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 05:44:22 UTC
+# Standings for team2 as of 2026-06-10 05:44:48 UTC
 
 **Total Participants:** 2696
 
@@ -262,9 +262,9 @@
 | 254 | 689 | Charles E Mccardell |
 | 255 | 687 | Zach Jewett |
 | 256 | 687 | meg |
-| 257 | 679 | True |
-| 258 | 677 | Cool Balancer |
-| 259 | 677 | Dsabrina Maxey |
+| 257 | 681 | Dsabrina Maxey |
+| 258 | 679 | True |
+| 259 | 677 | Cool Balancer |
 | 260 | 675 | Amie Marks |
 | 261 | 674 | Vistabrat |
 | 262 | 671 | Gloria May Shook |
@@ -282,8 +282,8 @@
 | 274 | 642 | Bri St Peter |
 | 275 | 641 | La chulis |
 | 276 | 639 | Alicia Ellenburg |
-| 277 | 636 | Stephany Green |
-| 278 | 636 | Laverne Ellis Blair |
+| 277 | 639 | Stephany Green |
+| 278 | 638 | Laverne Ellis Blair |
 | 279 | 635 | Aldotfus Williams |
 | 280 | 631 | Donna Esbensen-Alpini |
 | 281 | 630 | Nancy Schwartz Gusman-Oliver |
@@ -559,18 +559,18 @@
 | 551 | 332 | Lee Leonard |
 | 552 | 331 | Francesca Wagenhoffer |
 | 553 | 331 | LadyDeath |
-| 554 | 329 | Lively Curve |
-| 555 | 328 | Jennifer Wymer |
-| 556 | 328 | Ever Chase |
-| 557 | 327 | Amanda Ann Brooks |
-| 558 | 327 | Emma Danielle Wynn |
-| 559 | 327 | Rondell Reedster |
-| 560 | 327 | Cherica Taylor |
-| 561 | 326 | Katie Jones |
-| 562 | 325 | Ozge Akgun Tokat |
-| 563 | 320 | Lazy Staggerpiece |
-| 564 | 320 | Happy |
-| 565 | 320 | Nichole Wilson |
+| 554 | 330 | Nichole Wilson |
+| 555 | 329 | Lively Curve |
+| 556 | 328 | Jennifer Wymer |
+| 557 | 328 | Ever Chase |
+| 558 | 327 | Amanda Ann Brooks |
+| 559 | 327 | Emma Danielle Wynn |
+| 560 | 327 | Rondell Reedster |
+| 561 | 327 | Cherica Taylor |
+| 562 | 326 | Katie Jones |
+| 563 | 325 | Ozge Akgun Tokat |
+| 564 | 320 | Lazy Staggerpiece |
+| 565 | 320 | Happy |
 | 566 | 319 | Michelle Ferrara |
 | 567 | 319 | Nutty Dash |
 | 568 | 318 | Will Jones |
@@ -614,10 +614,10 @@
 | 606 | 300 | Twisty Tower |
 | 607 | 300 | aunt nanna |
 | 608 | 299 | Jennifer Covington |
-| 609 | 298 | Laura Fagans |
-| 610 | 297 | Ssirkus |
-| 611 | 297 | Amanda Priddy |
-| 612 | 297 | Wendy McKee |
+| 609 | 299 | Wendy McKee |
+| 610 | 298 | Laura Fagans |
+| 611 | 297 | Ssirkus |
+| 612 | 297 | Amanda Priddy |
 | 613 | 297 | Nikki Hatch |
 | 614 | 297 | Zaniya Brown |
 | 615 | 296 | Giddy Chiseler |
