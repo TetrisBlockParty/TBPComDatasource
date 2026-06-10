@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:46:45 UTC
+# Standings for team1 as of 2026-06-10 15:47:24 UTC
 
 **Total Participants:** 2291
 
@@ -105,8 +105,8 @@
 | 97 | 1441 | Rolanda Williams |
 | 98 | 1433 | Spicy Balancer |
 | 99 | 1431 | Richard Horton |
-| 100 | 1405 | Sarah Marie |
-| 101 | 1400 | FallDee |
+| 100 | 1408 | FallDee |
+| 101 | 1405 | Sarah Marie |
 | 102 | 1394 | Ashley Espeut |
 | 103 | 1392 | She Higgy |
 | 104 | 1384 | Robbie Cheeseman |
@@ -479,10 +479,10 @@
 | 471 | 342 | Crystal Cheresnowsky |
 | 472 | 341 | The DUBZ |
 | 473 | 339 | Shanns |
-| 474 | 338 | Daniel Santana |
-| 475 | 338 | Twisty Brickfit |
-| 476 | 337 | Abby |
-| 477 | 337 | EvaLynn NeCole |
+| 474 | 338 | EvaLynn NeCole |
+| 475 | 338 | Daniel Santana |
+| 476 | 338 | Twisty Brickfit |
+| 477 | 337 | Abby |
 | 478 | 337 | Donnie Withthebody |
 | 479 | 337 | Gbnola |
 | 480 | 334 | Brittanie Wardlow |
@@ -708,65 +708,65 @@
 | 700 | 229 | messyboots |
 | 701 | 229 | Kike Lua |
 | 702 | 229 | Lucille Wilson Davis |
-| 703 | 228 | Kp |
-| 704 | 228 | Spicy Shatterblock |
-| 705 | 227 | Lootch |
-| 706 | 227 | Kimberly Susan Privette |
-| 707 | 227 | Christina Singleton |
-| 708 | 226 | Erica Campbell-Stillings |
-| 709 | 226 | Rosalind Chatman |
-| 710 | 226 | Kahliah Baker |
-| 711 | 226 | Rayshawn Cohen |
-| 712 | 226 | Londa Londa |
-| 713 | 226 | Shameka Tiffany |
-| 714 | 225 | Sherri Keys |
-| 715 | 225 | Sarah Swietlicki - Lopez |
-| 716 | 225 | Joseph Vs Cap |
-| 717 | 224 | Ysma Simmons |
-| 718 | 224 | Joka NoTime ForHataz |
-| 719 | 224 | Miera Nicole |
-| 720 | 224 | Lively Wipeout |
-| 721 | 224 | MELLZZtick€T |
-| 722 | 224 | DeAngelo Sorrells |
-| 723 | 223 | Analesia Taylor |
+| 703 | 228 | Spicy Shatterblock |
+| 704 | 228 | Kp |
+| 705 | 227 | Kimberly Susan Privette |
+| 706 | 227 | Christina Singleton |
+| 707 | 227 | Lootch |
+| 708 | 226 | Rosalind Chatman |
+| 709 | 226 | Erica Campbell-Stillings |
+| 710 | 226 | Londa Londa |
+| 711 | 226 | Shameka Tiffany |
+| 712 | 226 | Stanley Dixon |
+| 713 | 226 | Rayshawn Cohen |
+| 714 | 226 | Kahliah Baker |
+| 715 | 225 | Joseph Vs Cap |
+| 716 | 225 | Sherri Keys |
+| 717 | 225 | Sarah Swietlicki - Lopez |
+| 718 | 224 | DeAngelo Sorrells |
+| 719 | 224 | Ysma Simmons |
+| 720 | 224 | Joka NoTime ForHataz |
+| 721 | 224 | Miera Nicole |
+| 722 | 224 | Lively Wipeout |
+| 723 | 224 | MELLZZtick€T |
 | 724 | 223 | Stephen Providenti |
-| 725 | 222 | Victoria Smith |
+| 725 | 223 | Analesia Taylor |
 | 726 | 222 | Latoya Carson |
-| 727 | 222 | Big Bovice |
-| 728 | 222 | Antoinette Kelly |
-| 729 | 222 | Krystal Maynard |
-| 730 | 221 | Jimmy Shannon |
+| 727 | 222 | Victoria Smith |
+| 728 | 222 | Krystal Maynard |
+| 729 | 222 | Big Bovice |
+| 730 | 222 | Antoinette Kelly |
 | 731 | 221 | Shalena Marie Humphrey |
-| 732 | 220 | Leavon Smith |
-| 733 | 220 | Tushama Cheris Okraku |
-| 734 | 220 | jeremy92 |
-| 735 | 219 | Jackytrain52 |
+| 732 | 221 | Jimmy Shannon |
+| 733 | 220 | Leavon Smith |
+| 734 | 220 | Tushama Cheris Okraku |
+| 735 | 220 | jeremy92 |
 | 736 | 219 | Jason Saputo |
 | 737 | 219 | Cynda Cyn |
 | 738 | 219 | Mario Meliodas |
-| 739 | 219 | TY Newme Batts |
-| 740 | 218 | Stanley Dixon |
+| 739 | 219 | Jackytrain52 |
+| 740 | 219 | TY Newme Batts |
 | 741 | 218 | Tee Spinks |
 | 742 | 217 | Polite Granny |
 | 743 | 217 | Shemar Singleton |
 | 744 | 217 | Louise Parker |
 | 745 | 217 | Travis Davison |
-| 746 | 216 | squints |
+| 746 | 216 | Laysa Nunez |
 | 747 | 216 | Lively Clusterline |
-| 748 | 216 | Laysa Nunez |
-| 749 | 216 | Shannon Carriger |
+| 748 | 216 | Shannon Carriger |
+| 749 | 216 | squints |
 | 750 | 216 | Frances Davis |
 | 751 | 216 | Sallie Sanborn |
 | 752 | 215 | Ebby |
 | 753 | 215 | Perky Balancer |
-| 754 | 215 | Gerold Folk Haddock |
-| 755 | 215 | Angie Smith |
-| 756 | 215 | GetDaOPPS |
-| 757 | 215 | Nikiya |
-| 758 | 214 | Nickeya Phillips |
-| 759 | 214 | Jes Marie |
-| 760 | 213 | Oaklonboy mike |
-| 761 | 213 | Lawanda Conley |
+| 754 | 215 | Angie Smith |
+| 755 | 215 | Gerold Folk Haddock |
+| 756 | 215 | Nikiya |
+| 757 | 215 | GetDaOPPS |
+| 758 | 214 | Jes Marie |
+| 759 | 214 | Nickeya Phillips |
+| 760 | 213 | Lawanda Conley |
+| 761 | 213 | Oaklonboy mike |
 | 762 | 212 | Ivery Lee Grays Jr. |
 | 763 | 212 | Simply-Beautiful007 |
 | 764 | 212 | Tina Blessed Cage |
@@ -1209,8 +1209,8 @@
 | 1201 | 105 | Maria |
 | 1202 | 104 | Briela Sabrina |
 | 1203 | 104 | Elizabeth Clara |
-| 1204 | 104 | Toohartless Mech |
-| 1205 | 104 | Ahvae Lee |
+| 1204 | 104 | Ahvae Lee |
+| 1205 | 104 | Toohartless Mech |
 | 1206 | 103 | LaTonya Collier |
 | 1207 | 103 | Darlene Johnson |
 | 1208 | 103 | kaboom |
@@ -1224,32 +1224,32 @@
 | 1216 | 101 | Wacky Wipepiece |
 | 1217 | 100 | Sugar Foot |
 | 1218 | 100 | Jamie Mclean |
-| 1219 | 100 | BigMike |
-| 1220 | 100 | Jeaneé Nay |
-| 1221 | 100 | Stefan Flick Man |
-| 1222 | 100 | nay |
-| 1223 | 100 | Jonathan McKenzie |
-| 1224 | 100 | Thomas Pearson |
-| 1225 | 100 | Megan Payette |
-| 1226 | 100 | Oldheads |
-| 1227 | 99 | Evette Moreno |
-| 1228 | 99 | Tellisa Payne |
-| 1229 | 99 | DeShonna Bailey |
+| 1219 | 100 | wuvbuug |
+| 1220 | 100 | BigMike |
+| 1221 | 100 | Jeaneé Nay |
+| 1222 | 100 | Stefan Flick Man |
+| 1223 | 100 | nay |
+| 1224 | 100 | Jonathan McKenzie |
+| 1225 | 100 | Thomas Pearson |
+| 1226 | 100 | Megan Payette |
+| 1227 | 100 | Oldheads |
+| 1228 | 99 | Jenni |
+| 1229 | 99 | Torrie Eckrote |
 | 1230 | 99 | GiantBehemoth |
-| 1231 | 99 | Torrie Eckrote |
-| 1232 | 99 | Jenni |
-| 1233 | 98 | XYZ |
-| 1234 | 98 | OG LUCKY |
-| 1235 | 98 | Azeiare Ziare |
-| 1236 | 98 | Dee Dee |
-| 1237 | 98 | PattyPower |
-| 1238 | 98 | Tony P Burke |
-| 1239 | 98 | Phoenix |
-| 1240 | 97 | Hyper Patternline |
-| 1241 | 97 | Storie Harris |
-| 1242 | 97 | wuvbuug |
-| 1243 | 97 | Denise Cunningham-English |
-| 1244 | 97 | Kevin Turner |
+| 1231 | 99 | DeShonna Bailey |
+| 1232 | 99 | Evette Moreno |
+| 1233 | 99 | Tellisa Payne |
+| 1234 | 98 | Dee Dee |
+| 1235 | 98 | Tony P Burke |
+| 1236 | 98 | OG LUCKY |
+| 1237 | 98 | XYZ |
+| 1238 | 98 | PattyPower |
+| 1239 | 98 | Azeiare Ziare |
+| 1240 | 98 | Phoenix |
+| 1241 | 97 | Hyper Patternline |
+| 1242 | 97 | Storie Harris |
+| 1243 | 97 | Kevin Turner |
+| 1244 | 97 | Denise Cunningham-English |
 | 1245 | 97 | S.S |
 | 1246 | 96 | Giggly Shatterline |
 | 1247 | 96 | Just2Play$ |
@@ -1262,8 +1262,8 @@
 | 1254 | 94 | Sha Anderson |
 | 1255 | 94 | Antoinette GallowayJohnson |
 | 1256 | 94 | Dennis Ripley |
-| 1257 | 94 | Ike Nickerson |
-| 1258 | 94 | Christina Wesley |
+| 1257 | 94 | Christina Wesley |
+| 1258 | 94 | Ike Nickerson |
 | 1259 | 94 | Richard Harper |
 | 1260 | 94 | AleahKCH |
 | 1261 | 93 | Khatyrah Burnette |

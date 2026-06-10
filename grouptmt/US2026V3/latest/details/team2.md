@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 15:46:45 UTC
+# Standings for team2 as of 2026-06-10 15:47:24 UTC
 
 **Total Participants:** 2768
 
@@ -39,7 +39,7 @@
 | 31 | 6406 | Tim Ix |
 | 32 | 6263 | Ashley Miller |
 | 33 | 6154 | Morgann McDaniel |
-| 34 | 6139 | Jewels |
+| 34 | 6144 | Jewels |
 | 35 | 6117 | Alexia Reagan |
 | 36 | 6033 | Danni Campa |
 | 37 | 6000 | Jennifer Knott |
@@ -233,28 +233,28 @@
 | 225 | 810 | Zachary Vymislicky |
 | 226 | 805 | Lashanda Bertram |
 | 227 | 805 | Nicole Hogue |
-| 228 | 792 | Denise Morehart |
-| 229 | 791 | Theresa Huddleston |
-| 230 | 790 | Becca Marie |
-| 231 | 789 | Amie Marks |
-| 232 | 789 | Danielle Blount |
-| 233 | 788 | Kimmyc |
-| 234 | 787 | Lisa Underwood Desmond |
-| 235 | 787 | SilentBuffalo |
-| 236 | 783 | Layla Petroff |
-| 237 | 778 | Tim Tim |
-| 238 | 777 | Alison Waller |
-| 239 | 777 | Chasity Simpson |
-| 240 | 776 | Katrien |
-| 241 | 774 | Mouh Med |
-| 242 | 771 | Jolly Slice |
-| 243 | 767 | alf |
+| 228 | 803 | alf |
+| 229 | 792 | Denise Morehart |
+| 230 | 791 | Theresa Huddleston |
+| 231 | 790 | Becca Marie |
+| 232 | 789 | Amie Marks |
+| 233 | 789 | Danielle Blount |
+| 234 | 788 | Kimmyc |
+| 235 | 787 | Lisa Underwood Desmond |
+| 236 | 787 | SilentBuffalo |
+| 237 | 783 | Layla Petroff |
+| 238 | 778 | Tim Tim |
+| 239 | 777 | Alison Waller |
+| 240 | 777 | Chasity Simpson |
+| 241 | 776 | Katrien |
+| 242 | 774 | Mouh Med |
+| 243 | 771 | Jolly Slice |
 | 244 | 762 | Boldy Fitclear |
-| 245 | 755 | Mom |
-| 246 | 754 | Zarah Kettler |
-| 247 | 754 | Sabrina Hardrick |
-| 248 | 752 | Kim Hunt |
-| 249 | 750 | Sharon L Brazelton |
+| 245 | 760 | Sharon L Brazelton |
+| 246 | 755 | Mom |
+| 247 | 754 | Zarah Kettler |
+| 248 | 754 | Sabrina Hardrick |
+| 249 | 752 | Kim Hunt |
 | 250 | 750 | Tisha Hairston |
 | 251 | 748 | Ackerman 85 |
 | 252 | 747 | Avie Lou |
