@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 05:30:45 UTC
+# Standings for team2 as of 2026-06-10 05:31:21 UTC
 
 **Total Participants:** 2692
 
@@ -63,8 +63,8 @@
 | 55 | 3514 | Traci Elizabeth |
 | 56 | 3461 | Sean Rippa |
 | 57 | 3457 | Betty Barrett |
-| 58 | 3309 | Anthony Lilley |
-| 59 | 3258 | Angelica Jelli Gillaspy |
+| 58 | 3318 | Angelica Jelli Gillaspy |
+| 59 | 3309 | Anthony Lilley |
 | 60 | 3182 | Elizabeth Sallas |
 | 61 | 3075 | Suki Kaur |
 | 62 | 3007 | Kymberlee Rolinski |
@@ -94,7 +94,7 @@
 | 86 | 2171 | Kimberly Benson |
 | 87 | 2096 | Block Dog |
 | 88 | 2094 | Peppy Roll |
-| 89 | 2052 | THUMP |
+| 89 | 2072 | THUMP |
 | 90 | 2042 | Lisa Breiding |
 | 91 | 2021 | Jef Wassom |
 | 92 | 2020 | Heather Marie-Tarlton Britt |
@@ -125,8 +125,8 @@
 | 117 | 1484 | Loopy Curvebuilder |
 | 118 | 1429 | Amber-leigh Williams |
 | 119 | 1421 | Deborah Boyce Minor |
-| 120 | 1395 | Frothy Fallgrid |
-| 121 | 1389 | Courtney McCulley |
+| 120 | 1399 | Courtney McCulley |
+| 121 | 1395 | Frothy Fallgrid |
 | 122 | 1369 | Marquetta Johnson |
 | 123 | 1364 | Jayke Edward |
 | 124 | 1354 | Jaime P Lamb |
@@ -165,16 +165,16 @@
 | 157 | 1034 | Tina Marie |
 | 158 | 1021 | Erin Thomas |
 | 159 | 1003 | Wacky Dashfit |
-| 160 | 1000 | Sydney Headley |
-| 161 | 998 | Jamie Fenyus |
-| 162 | 991 | Sarah Griffey |
-| 163 | 991 | Renee Freeman Jacobson |
-| 164 | 988 | Dane Marko |
-| 165 | 975 | MarioKarasovic |
-| 166 | 971 | Shea |
-| 167 | 963 | Groovy Snapper |
-| 168 | 958 | Tami Kay Williams Watson |
-| 169 | 953 | Giddy Climber |
+| 160 | 1003 | Giddy Climber |
+| 161 | 1000 | Sydney Headley |
+| 162 | 998 | Jamie Fenyus |
+| 163 | 991 | Sarah Griffey |
+| 164 | 991 | Renee Freeman Jacobson |
+| 165 | 988 | Dane Marko |
+| 166 | 975 | MarioKarasovic |
+| 167 | 971 | Shea |
+| 168 | 963 | Groovy Snapper |
+| 169 | 958 | Tami Kay Williams Watson |
 | 170 | 952 | Leigh Ann |
 | 171 | 951 | AndrewandShela Gornik |
 | 172 | 943 | Amber Wolf |
@@ -226,11 +226,11 @@
 | 218 | 785 | MegaPooh |
 | 219 | 784 | Steven Craig |
 | 220 | 782 | Brooke Allred |
-| 221 | 777 | Alison Waller |
-| 222 | 776 | Becca Marie |
-| 223 | 774 | Denise Morehart |
-| 224 | 773 | Lisa Underwood Desmond |
-| 225 | 770 | Rhonda Diebold |
+| 221 | 781 | Rhonda Diebold |
+| 222 | 777 | Alison Waller |
+| 223 | 776 | Becca Marie |
+| 224 | 774 | Denise Morehart |
+| 225 | 773 | Lisa Underwood Desmond |
 | 226 | 768 | Danielle Blount |
 | 227 | 751 | Cool Climber |
 | 228 | 750 | Mom |

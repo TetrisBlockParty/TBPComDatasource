@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 05:30:45 UTC
+# Standings for team4 as of 2026-06-10 05:31:21 UTC
 
 **Total Participants:** 2274
 
@@ -98,8 +98,8 @@
 | 90 | 1579 | Lupe Alburquerque |
 | 91 | 1576 | Cherry |
 | 92 | 1484 | Chaz Duncan |
-| 93 | 1416 | Giggy Matchpiece |
-| 94 | 1393 | Jeremy Lopez |
+| 93 | 1433 | Jeremy Lopez |
+| 94 | 1416 | Giggy Matchpiece |
 | 95 | 1380 | Kelley Roach |
 | 96 | 1343 | squareMel |
 | 97 | 1342 | Shaina Sharp |
@@ -400,35 +400,35 @@
 | 392 | 361 | Patrick Alley |
 | 393 | 361 | Karen Rodriguez |
 | 394 | 360 | Groovy Cluster |
-| 395 | 360 | Mann Manson |
-| 396 | 360 | Funky Riserpiece |
-| 397 | 360 | Kimyatta Cavin |
+| 395 | 360 | Kimyatta Cavin |
+| 396 | 360 | Mann Manson |
+| 397 | 360 | Funky Riserpiece |
 | 398 | 359 | BCO22 |
 | 399 | 359 | June Hoffman |
-| 400 | 357 | Kellz M Bee |
-| 401 | 356 | Candiecane324 |
-| 402 | 356 | Clever Brickzone |
-| 403 | 354 | Joe Richard |
-| 404 | 353 | Crystal Hammonds |
+| 400 | 358 | Slimm |
+| 401 | 357 | Kellz M Bee |
+| 402 | 356 | Candiecane324 |
+| 403 | 356 | Clever Brickzone |
+| 404 | 354 | Joe Richard |
 | 405 | 353 | Lanelva Tiredofbs Marshall |
-| 406 | 353 | Slimm |
+| 406 | 353 | Crystal Hammonds |
 | 407 | 353 | Loopy Hitter |
 | 408 | 352 | Martha Fisher |
-| 409 | 352 | Homie |
-| 410 | 352 | Richard Bearse |
+| 409 | 352 | Richard Bearse |
+| 410 | 352 | Homie |
 | 411 | 351 | Tiffany Morris Garner |
-| 412 | 346 | Shawna Downey |
-| 413 | 346 | KrisTina2007 |
-| 414 | 346 | Jennifer Garcia |
+| 412 | 346 | KrisTina2007 |
+| 413 | 346 | Jennifer Garcia |
+| 414 | 346 | Shawna Downey |
 | 415 | 345 | yodaa |
 | 416 | 344 | bollo |
 | 417 | 344 | Karen Davis |
-| 418 | 343 | Dizzy Slammer |
-| 419 | 343 | Cherrel M. Causey |
+| 418 | 343 | Chummy Jumper |
+| 419 | 343 | Dizzy Slammer |
 | 420 | 343 | maria |
-| 421 | 343 | Chummy Jumper |
-| 422 | 341 | Snow77white |
-| 423 | 341 | Cool Risepiece |
+| 421 | 343 | Cherrel M. Causey |
+| 422 | 341 | Cool Risepiece |
+| 423 | 341 | Snow77white |
 | 424 | 341 | LilyRose |
 | 425 | 340 | jojo |
 | 426 | 339 | Shepreneur Sade |
@@ -551,13 +551,13 @@
 | 543 | 267 | Dolores Falco |
 | 544 | 267 | Swanky Snapgrid |
 | 545 | 267 | Butterfly |
-| 546 | 266 | Stacy G |
-| 547 | 265 | Elissa Danks |
+| 546 | 266 | Elissa Danks |
+| 547 | 266 | Stacy G |
 | 548 | 265 | Denise Wilson |
 | 549 | 265 | Mrs |
 | 550 | 265 | Nicole Colby McCloskey |
-| 551 | 264 | Powder |
-| 552 | 264 | Kandylands |
+| 551 | 265 | Kandylands |
+| 552 | 264 | Powder |
 | 553 | 264 | Lupe Chapa |
 | 554 | 263 | Gean DeJesus |
 | 555 | 263 | Blessedmom865 |
