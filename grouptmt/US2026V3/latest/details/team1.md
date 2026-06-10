@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:26:45 UTC
+# Standings for team1 as of 2026-06-10 11:27:23 UTC
 
 **Total Participants:** 2261
 
@@ -207,8 +207,8 @@
 | 199 | 720 | Nerdy Blockpiece |
 | 200 | 707 | Jazzy Fireflighters |
 | 201 | 700 | Spicy Risepiece |
-| 202 | 699 | Block King |
-| 203 | 695 | Jamal Itzjusmall Chambers |
+| 202 | 699 | Jamal Itzjusmall Chambers |
+| 203 | 699 | Block King |
 | 204 | 695 | Yasmin Nakea Wright |
 | 205 | 692 | Chirpy Corner |
 | 206 | 691 | Nobles Brandon |
@@ -270,29 +270,29 @@
 | 262 | 556 | Will |
 | 263 | 556 | pooh |
 | 264 | 554 | Marissa Sweet |
-| 265 | 553 | Roberta Lynn |
-| 266 | 553 | win |
+| 265 | 553 | win |
+| 266 | 553 | Roberta Lynn |
 | 267 | 549 | Shell Lewis |
 | 268 | 547 | Erin Sabol |
 | 269 | 545 | Christopher Dreamsareality McEachin |
-| 270 | 544 | Rhonda Williams Warner |
-| 271 | 542 | Giggly Tiltbuilder |
-| 272 | 539 | Raymond Keeler |
-| 273 | 537 | Qwlonda Shirrell |
-| 274 | 537 | izzybella |
-| 275 | 535 | Rachael Bakowicz Edwards |
-| 276 | 535 | Tina Mitchell |
+| 270 | 544 | Sarah Barnum |
+| 271 | 544 | Rhonda Williams Warner |
+| 272 | 542 | Giggly Tiltbuilder |
+| 273 | 539 | Raymond Keeler |
+| 274 | 537 | Qwlonda Shirrell |
+| 275 | 537 | izzybella |
+| 276 | 535 | Rachael Bakowicz Edwards |
 | 277 | 535 | Lashawn Wallace |
-| 278 | 533 | Telisha Mims |
-| 279 | 533 | Joey Albright |
-| 280 | 532 | Denisa Amazon Clark |
-| 281 | 530 | Calvin Green |
-| 282 | 528 | Lashaunda |
-| 283 | 527 | MommaCia |
-| 284 | 527 | Tamara Johnson-Carter |
-| 285 | 526 | Kenny 'Tailormade' Boyd |
-| 286 | 525 | Andre Sanon |
-| 287 | 524 | Sarah Barnum |
+| 278 | 535 | Tina Mitchell |
+| 279 | 533 | Telisha Mims |
+| 280 | 533 | Joey Albright |
+| 281 | 532 | Denisa Amazon Clark |
+| 282 | 530 | Calvin Green |
+| 283 | 528 | Lashaunda |
+| 284 | 527 | MommaCia |
+| 285 | 527 | Tamara Johnson-Carter |
+| 286 | 526 | Kenny 'Tailormade' Boyd |
+| 287 | 525 | Andre Sanon |
 | 288 | 523 | Simmone T. Kadiri |
 | 289 | 522 | Penee Wiggins |
 | 290 | 519 | Clever Fitblock |
@@ -568,55 +568,55 @@
 | 560 | 275 | Falisa Bell |
 | 561 | 274 | brite |
 | 562 | 274 | Zany Breaker |
-| 563 | 273 | Comedian Gdane |
-| 564 | 273 | Vera Beckford |
-| 565 | 273 | Kamilya Rembert |
+| 563 | 273 | Kamilya Rembert |
+| 564 | 273 | Comedian Gdane |
+| 565 | 273 | Vera Beckford |
 | 566 | 273 | Kimmie Gargano |
 | 567 | 272 | Tanisha Taylor |
-| 568 | 272 | Koreen Johnson-Woolford |
-| 569 | 272 | Felicia Dungey |
+| 568 | 272 | Felicia Dungey |
+| 569 | 272 | Koreen Johnson-Woolford |
 | 570 | 272 | wmedina67 |
 | 571 | 272 | ChunLi |
 | 572 | 270 | Meshia |
 | 573 | 270 | Dede Tate |
 | 574 | 269 | Stephanie L Jeffries Moultrie |
-| 575 | 269 | RylonJones |
-| 576 | 269 | BonnieB |
-| 577 | 268 | Casey Chapman |
-| 578 | 268 | Monica Tovar |
-| 579 | 266 | Chris Holland |
-| 580 | 266 | Valerie Alexander |
-| 581 | 265 | Kortney Adams |
-| 582 | 265 | SceneGreenz Wali |
-| 583 | 264 | Juan Santiago |
+| 575 | 269 | Ciera Peace |
+| 576 | 269 | RylonJones |
+| 577 | 269 | BonnieB |
+| 578 | 268 | Casey Chapman |
+| 579 | 268 | Monica Tovar |
+| 580 | 266 | Chris Holland |
+| 581 | 266 | Valerie Alexander |
+| 582 | 265 | Kortney Adams |
+| 583 | 265 | SceneGreenz Wali |
 | 584 | 264 | Donna Payne |
-| 585 | 264 | Ciera Peace |
+| 585 | 264 | Juan Santiago |
 | 586 | 263 | Stephanie Ellis |
-| 587 | 261 | PSD |
-| 588 | 261 | Lucy |
-| 589 | 261 | Angela Brown Babin |
-| 590 | 260 | Ashley Danielle |
-| 591 | 260 | Nisha Sunshine Jenkins |
-| 592 | 260 | Lester Malone |
-| 593 | 260 | Spotlight |
-| 594 | 260 | Jen Hallin |
+| 587 | 261 | Lucy |
+| 588 | 261 | Angela Brown Babin |
+| 589 | 261 | PSD |
+| 590 | 260 | Lester Malone |
+| 591 | 260 | Ashley Danielle |
+| 592 | 260 | Nisha Sunshine Jenkins |
+| 593 | 260 | Jen Hallin |
+| 594 | 260 | Spotlight |
 | 595 | 259 | Blocksy |
 | 596 | 258 | Kala Miller |
 | 597 | 257 | Adrian Harris |
-| 598 | 256 | John Spath |
-| 599 | 256 | Dreamzzz |
-| 600 | 256 | Monica Fields |
+| 598 | 256 | Dreamzzz |
+| 599 | 256 | Monica Fields |
+| 600 | 256 | John Spath |
 | 601 | 255 | Mathew Trudell |
 | 602 | 255 | Michelle Peters |
-| 603 | 254 | BB |
-| 604 | 254 | Brittany Sara Heldwein |
-| 605 | 254 | Cheryl Miller |
-| 606 | 254 | Ashlie Mo |
-| 607 | 254 | Dorian Griffin |
+| 603 | 254 | Brittany Sara Heldwein |
+| 604 | 254 | Ashlie Mo |
+| 605 | 254 | Dorian Griffin |
+| 606 | 254 | BB |
+| 607 | 254 | Cheryl Miller |
 | 608 | 253 | Nyhlah Patterson |
 | 609 | 252 | Shakuria Cortia Burney |
-| 610 | 252 | Mary Phillippi Blanton |
-| 611 | 252 | Lazy Tiltpiece |
+| 610 | 252 | Lazy Tiltpiece |
+| 611 | 252 | Mary Phillippi Blanton |
 | 612 | 251 | Taz Ballard |
 | 613 | 250 | Rufus |
 | 614 | 250 | Tony Pizzas |
@@ -625,8 +625,8 @@
 | 617 | 248 | Carla |
 | 618 | 247 | Tyler |
 | 619 | 247 | Courtney Cicoria |
-| 620 | 246 | Juicy |
-| 621 | 246 | Lilly Brown |
+| 620 | 246 | Lilly Brown |
+| 621 | 246 | Juicy |
 | 622 | 245 | Mommy Frank |
 | 623 | 245 | Tracy Feyler |
 | 624 | 245 | Lynnette WheelerBushnell |
