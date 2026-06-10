@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 06:56:46 UTC
+# Standings for team2 as of 2026-06-10 06:57:22 UTC
 
 **Total Participants:** 2701
 
@@ -696,11 +696,11 @@
 | 688 | 268 | Tito Garcia |
 | 689 | 268 | Frilly Shiftsnap |
 | 690 | 267 | Michele Rogers |
-| 691 | 266 | Darla Nolt |
-| 692 | 266 | Stacy Shaunce |
-| 693 | 266 | Trisha Schneider |
-| 694 | 265 | K2N |
-| 695 | 265 | Danita Moon |
+| 691 | 266 | Trisha Schneider |
+| 692 | 266 | Darla Nolt |
+| 693 | 266 | Stacy Shaunce |
+| 694 | 265 | Danita Moon |
+| 695 | 265 | K2N |
 | 696 | 264 | Gabrielle Rivera |
 | 697 | 264 | Jim Wright |
 | 698 | 264 | Cranky Basepiece |
@@ -714,8 +714,8 @@
 | 706 | 261 | Belle |
 | 707 | 261 | Amber Carpenter |
 | 708 | 260 | Michele Stewart |
-| 709 | 260 | Bouncy Snapmatch |
-| 710 | 260 | Chris Christ |
+| 709 | 260 | Chris Christ |
+| 710 | 260 | Bouncy Snapmatch |
 | 711 | 259 | Angie Kowalsky Olson |
 | 712 | 259 | Stella |
 | 713 | 259 | Momof2wigglebutts |
@@ -724,18 +724,18 @@
 | 716 | 258 | Christy Diane Escobar |
 | 717 | 258 | Shellie Kioutas |
 | 718 | 257 | Marlo Perry |
-| 719 | 257 | Shannon Posner |
-| 720 | 256 | Epic Tilemaker |
-| 721 | 256 | Connie McCoy |
-| 722 | 256 | Busted9mm |
-| 723 | 255 | Jessica Murphree |
-| 724 | 255 | Brian Favre |
-| 725 | 255 | Kelli Pazour |
-| 726 | 254 | Aubrey Gates |
-| 727 | 254 | Jason Lamporte |
-| 728 | 254 | Cozy Cascade |
-| 729 | 253 | Teloney Humphrey |
-| 730 | 252 | Julie Brown |
+| 719 | 257 | Julie Brown |
+| 720 | 257 | Shannon Posner |
+| 721 | 256 | Epic Tilemaker |
+| 722 | 256 | Connie McCoy |
+| 723 | 256 | Busted9mm |
+| 724 | 255 | Jessica Murphree |
+| 725 | 255 | Brian Favre |
+| 726 | 255 | Kelli Pazour |
+| 727 | 254 | Aubrey Gates |
+| 728 | 254 | Jason Lamporte |
+| 729 | 254 | Cozy Cascade |
+| 730 | 253 | Teloney Humphrey |
 | 731 | 252 | Kimberly Davis |
 | 732 | 251 | Paula |
 | 733 | 251 | Melissa Pronovost |
@@ -2243,43 +2243,43 @@
 | 2235 | 28 | Michael Brow |
 | 2236 | 28 | Momma |
 | 2237 | 28 | Chummy Clear |
-| 2238 | 28 | Sassy Snapfall |
-| 2239 | 28 | Shirley Lee |
-| 2240 | 28 | Courtney Freeman |
-| 2241 | 28 | Zesty Rollpiece |
-| 2242 | 28 | Bria Caldwell |
-| 2243 | 28 | Charles Mercer |
-| 2244 | 28 | Loony Shatterline |
-| 2245 | 28 | Celeste Samuels |
-| 2246 | 28 | Crafty Combo |
-| 2247 | 28 | Leigh Kashner |
-| 2248 | 28 | Dusty Lollar Shelley |
-| 2249 | 27 | Cathy Maddox |
-| 2250 | 27 | Donnell Coates |
-| 2251 | 27 | Nicole Dunn |
-| 2252 | 27 | Danielle Lynn Maxson |
-| 2253 | 27 | Loony Matcher |
-| 2254 | 27 | BethAnn Pawlowski |
-| 2255 | 27 | NellieG |
-| 2256 | 27 | COWBOY |
-| 2257 | 27 | Francesca Rice |
-| 2258 | 27 | Andrea Arias |
-| 2259 | 27 | Laurie Robertshaw |
-| 2260 | 27 | Kristina Joye |
-| 2261 | 27 | Rachel Austin |
-| 2262 | 27 | Celeste Smith |
-| 2263 | 27 | Leslie McMillan |
-| 2264 | 27 | Jcflorida |
-| 2265 | 27 | Shane Peavey |
-| 2266 | 26 | Tina Doyens Munis |
-| 2267 | 26 | Danibellee |
-| 2268 | 26 | Darlene Russell |
-| 2269 | 26 | nova |
-| 2270 | 26 | Samantha Morrison |
-| 2271 | 26 | Quirky Climber |
-| 2272 | 26 | Cathy Clark |
+| 2238 | 28 | Amanda Chaney |
+| 2239 | 28 | Dusty Lollar Shelley |
+| 2240 | 28 | Leigh Kashner |
+| 2241 | 28 | Charles Mercer |
+| 2242 | 28 | Zesty Rollpiece |
+| 2243 | 28 | Courtney Freeman |
+| 2244 | 28 | Shirley Lee |
+| 2245 | 28 | Sassy Snapfall |
+| 2246 | 28 | Bria Caldwell |
+| 2247 | 28 | Loony Shatterline |
+| 2248 | 28 | Celeste Samuels |
+| 2249 | 28 | Crafty Combo |
+| 2250 | 27 | NellieG |
+| 2251 | 27 | COWBOY |
+| 2252 | 27 | BethAnn Pawlowski |
+| 2253 | 27 | Donnell Coates |
+| 2254 | 27 | Cathy Maddox |
+| 2255 | 27 | Nicole Dunn |
+| 2256 | 27 | Danielle Lynn Maxson |
+| 2257 | 27 | Loony Matcher |
+| 2258 | 27 | Jcflorida |
+| 2259 | 27 | Celeste Smith |
+| 2260 | 27 | Leslie McMillan |
+| 2261 | 27 | Francesca Rice |
+| 2262 | 27 | Andrea Arias |
+| 2263 | 27 | Laurie Robertshaw |
+| 2264 | 27 | Kristina Joye |
+| 2265 | 27 | Rachel Austin |
+| 2266 | 27 | Shane Peavey |
+| 2267 | 26 | Tina Doyens Munis |
+| 2268 | 26 | Danibellee |
+| 2269 | 26 | Darlene Russell |
+| 2270 | 26 | nova |
+| 2271 | 26 | Samantha Morrison |
+| 2272 | 26 | Quirky Climber |
 | 2273 | 26 | Misty Dillard |
-| 2274 | 26 | Amanda Chaney |
+| 2274 | 26 | Cathy Clark |
 | 2275 | 26 | Megan Theresa Marie Rydle |
 | 2276 | 26 | gnat |
 | 2277 | 25 | Chipper Gridroll |
