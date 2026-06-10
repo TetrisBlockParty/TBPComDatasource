@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:24:46 UTC
+# Standings for team2 as of 2026-06-10 12:25:24 UTC
 
 **Total Participants:** 2738
 
@@ -40,8 +40,8 @@
 | 32 | 6154 | Morgann McDaniel |
 | 33 | 6139 | Jewels |
 | 34 | 6117 | Alexia Reagan |
-| 35 | 6001 | Danni Campa |
-| 36 | 5985 | Mellzey |
+| 35 | 6035 | Mellzey |
+| 36 | 6001 | Danni Campa |
 | 37 | 5944 | Debra Henry |
 | 38 | 5600 | Jennifer Knott |
 | 39 | 5527 | Cassie Swart |
@@ -147,8 +147,8 @@
 | 139 | 1266 | Sam |
 | 140 | 1266 | snowwol |
 | 141 | 1263 | jmo87 |
-| 142 | 1235 | Melissa Thomas |
-| 143 | 1232 | Alicia Kinney |
+| 142 | 1240 | Alicia Kinney |
+| 143 | 1235 | Melissa Thomas |
 | 144 | 1203 | Hilliary Beyer |
 | 145 | 1200 | Denise Potter |
 | 146 | 1191 | Ricardo Ewart |
