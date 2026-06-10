@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:28:45 UTC
+# Standings for team2 as of 2026-06-10 07:29:22 UTC
 
 **Total Participants:** 2704
 
@@ -158,7 +158,7 @@
 | 150 | 1130 | Allison Jarman |
 | 151 | 1126 | Jeska Gaines |
 | 152 | 1115 | Spicy Risegrid |
-| 153 | 1088 | Tina Marie |
+| 153 | 1108 | Tina Marie |
 | 154 | 1081 | Jackie Tupper |
 | 155 | 1054 | Cristi Doris |
 | 156 | 1049 | Sedy |
@@ -216,8 +216,8 @@
 | 208 | 810 | Zachary Vymislicky |
 | 209 | 808 | Flashy Twistline |
 | 210 | 808 | Crystal Allen |
-| 211 | 805 | Nicole Hogue |
-| 212 | 805 | Lashanda Bertram |
+| 211 | 805 | Lashanda Bertram |
+| 212 | 805 | Nicole Hogue |
 | 213 | 803 | Alicia Kinney |
 | 214 | 802 | Brooke Allred |
 | 215 | 800 | Ashley Green |
@@ -310,8 +310,8 @@
 | 302 | 596 | Swanky Fitline |
 | 303 | 596 | alf |
 | 304 | 595 | Sherri E Woods Hess |
-| 305 | 594 | Chill Line |
-| 306 | 594 | Zany Blockclear |
+| 305 | 594 | Zany Blockclear |
+| 306 | 594 | Chill Line |
 | 307 | 584 | Tara |
 | 308 | 583 | Gabrielle Wilson |
 | 309 | 583 | MaddieCherie |
@@ -400,8 +400,8 @@
 | 392 | 453 | Kimberly Cowan |
 | 393 | 451 | StacyBabee |
 | 394 | 448 | Charity Hauser |
-| 395 | 448 | Eric Drane |
-| 396 | 448 | Patricia Carroll |
+| 395 | 448 | Patricia Carroll |
+| 396 | 448 | Eric Drane |
 | 397 | 446 | Duke Morley |
 | 398 | 445 | Crystal Camden Suarez |
 | 399 | 441 | Cathy Lee Stoneking |
@@ -434,8 +434,8 @@
 | 426 | 416 | Teresa Mandich |
 | 427 | 415 | KazzyKay |
 | 428 | 415 | Partin |
-| 429 | 415 | Emma Danielle Wynn |
-| 430 | 415 | Stephanie |
+| 429 | 415 | Stephanie |
+| 430 | 415 | Emma Danielle Wynn |
 | 431 | 415 | Michelle Hicks |
 | 432 | 414 | Crystal Poss |
 | 433 | 413 | Newtwidebody |
@@ -448,10 +448,10 @@
 | 440 | 407 | Jeff Pottgether |
 | 441 | 407 | Melmel |
 | 442 | 407 | Gwendolyn Boykin Mobbs |
-| 443 | 406 | Quirky Clicky |
-| 444 | 406 | Spunky Piecebuilder |
-| 445 | 406 | Ray Daisy |
-| 446 | 405 | Mona Good |
+| 443 | 407 | Mona Good |
+| 444 | 406 | Quirky Clicky |
+| 445 | 406 | Spunky Piecebuilder |
+| 446 | 406 | Ray Daisy |
 | 447 | 405 | Brittni Lawrence |
 | 448 | 405 | Danielle Pack Lewellen |
 | 449 | 403 | Speedy Spinfit |
@@ -953,73 +953,73 @@
 | 945 | 190 | Patti Ward |
 | 946 | 190 | Amy Lea Hamilton |
 | 947 | 190 | Kelly Hall Whitt |
-| 948 | 190 | whocares |
-| 949 | 190 | gene15 |
+| 948 | 190 | Shakey Bakey |
+| 949 | 190 | whocares |
 | 950 | 190 | Jolly Brickroll |
-| 951 | 190 | Shakey Bakey |
+| 951 | 190 | gene15 |
 | 952 | 189 | Marla Paden |
-| 953 | 189 | Destiny Turner |
-| 954 | 189 | Poppy Strikerbuilder |
+| 953 | 189 | Poppy Strikerbuilder |
+| 954 | 189 | Destiny Turner |
 | 955 | 189 | Audrey Bickford |
 | 956 | 189 | Goofy Patternfit |
 | 957 | 189 | Kristi K Milner |
-| 958 | 188 | Ceci |
+| 958 | 188 | Derrick |
 | 959 | 188 | Nikki Layman |
-| 960 | 188 | Derrick |
-| 961 | 187 | Hog Crankin |
-| 962 | 187 | Elizabeth Kline |
-| 963 | 187 | Aaron Jones |
-| 964 | 187 | Abby |
+| 960 | 188 | Ceci |
+| 961 | 187 | Elizabeth Kline |
+| 962 | 187 | Aaron Jones |
+| 963 | 187 | Abby |
+| 964 | 187 | Hog Crankin |
 | 965 | 187 | Sara Dunn |
 | 966 | 187 | Witty Riser |
 | 967 | 186 | Rhonda Driskill |
-| 968 | 186 | Mandy Smart |
+| 968 | 186 | Lindsey Davidson |
 | 969 | 186 | Jessica Veness-Toth |
-| 970 | 186 | Tina Carr |
-| 971 | 186 | Tamtam |
-| 972 | 186 | Lindsey Davidson |
-| 973 | 185 | Vicki Flippo |
-| 974 | 185 | April Elaine Messenger |
+| 970 | 186 | Tamtam |
+| 971 | 186 | Mandy Smart |
+| 972 | 186 | Tina Carr |
+| 973 | 185 | April Elaine Messenger |
+| 974 | 185 | Vicki Flippo |
 | 975 | 185 | Clever Linkbuilder |
 | 976 | 184 | Melissa Abbott |
 | 977 | 184 | Rubics cube |
 | 978 | 184 | YAKO |
-| 979 | 184 | Jackelyn Ford |
-| 980 | 184 | Tabitha Ann Bullins-Cobb |
-| 981 | 183 | Jennifer Augustine |
-| 982 | 183 | Reggie Ellerbe |
+| 979 | 184 | Tabitha Ann Bullins-Cobb |
+| 980 | 184 | Dandy Brickbuilder |
+| 981 | 184 | Jackelyn Ford |
+| 982 | 183 | Jennifer Augustine |
 | 983 | 183 | Flashy Wipegrid |
-| 984 | 183 | Joshua Hopkins |
-| 985 | 183 | Nikki Sadler |
-| 986 | 182 | Damion Morrison |
-| 987 | 182 | Steve Eakins |
-| 988 | 182 | Stacy Hoffman |
-| 989 | 181 | Evelyn Confer |
-| 990 | 180 | Katie Thacker |
+| 984 | 183 | Reggie Ellerbe |
+| 985 | 183 | Joshua Hopkins |
+| 986 | 183 | Nikki Sadler |
+| 987 | 182 | Damion Morrison |
+| 988 | 182 | Steve Eakins |
+| 989 | 182 | Stacy Hoffman |
+| 990 | 181 | Evelyn Confer |
 | 991 | 180 | candi |
-| 992 | 180 | Brandon Ray Holt |
-| 993 | 180 | Dawn Kroptavich |
-| 994 | 180 | Kylee Pruitt |
-| 995 | 180 | Jason P. Schwartz |
-| 996 | 180 | Courtney Madison Hart |
-| 997 | 180 | Dana Wilson |
-| 998 | 179 | Kelly |
-| 999 | 179 | Kris Dusza Dodus |
-| 1000 | 179 | Mary Stump |
+| 992 | 180 | Katie Thacker |
+| 993 | 180 | Brandon Ray Holt |
+| 994 | 180 | Dawn Kroptavich |
+| 995 | 180 | Kylee Pruitt |
+| 996 | 180 | Jason P. Schwartz |
+| 997 | 180 | Courtney Madison Hart |
+| 998 | 180 | Dana Wilson |
+| 999 | 179 | Kelly |
+| 1000 | 179 | Kris Dusza Dodus |
 | 1001 | 179 | Jennifer Vitro |
-| 1002 | 178 | Just Me |
-| 1003 | 178 | Pat Smits |
-| 1004 | 178 | Rachel Wooldridge |
-| 1005 | 178 | CowboyChalie |
-| 1006 | 177 | Thtbrwnsknflla |
-| 1007 | 177 | Teea Makensi Meyer |
-| 1008 | 177 | Sherry Ann |
-| 1009 | 177 | Chelsea Frye |
-| 1010 | 176 | CK Hancock |
-| 1011 | 176 | Roger Kirksey |
-| 1012 | 176 | Peppy Piececlear |
-| 1013 | 176 | Sara Moericke |
-| 1014 | 176 | Dandy Brickbuilder |
+| 1002 | 179 | Mary Stump |
+| 1003 | 178 | Just Me |
+| 1004 | 178 | Pat Smits |
+| 1005 | 178 | Rachel Wooldridge |
+| 1006 | 178 | CowboyChalie |
+| 1007 | 177 | Thtbrwnsknflla |
+| 1008 | 177 | Teea Makensi Meyer |
+| 1009 | 177 | Sherry Ann |
+| 1010 | 177 | Chelsea Frye |
+| 1011 | 176 | CK Hancock |
+| 1012 | 176 | Roger Kirksey |
+| 1013 | 176 | Peppy Piececlear |
+| 1014 | 176 | Sara Moericke |
 | 1015 | 176 | Kennadee Albertson |
 | 1016 | 176 | Chad Atchley |
 | 1017 | 176 | Jessica Gayle Sears |
