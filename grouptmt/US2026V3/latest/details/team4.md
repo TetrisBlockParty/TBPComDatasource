@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 03:20:46 UTC
+# Standings for team4 as of 2026-06-10 03:21:22 UTC
 
 **Total Participants:** 2247
 
@@ -56,9 +56,9 @@
 | 48 | 3150 | Destiny Dyer |
 | 49 | 2960 | Alicia Cook |
 | 50 | 2831 | 626 |
-| 51 | 2800 | Caitlin Johnson |
-| 52 | 2800 | Posey Smith |
-| 53 | 2800 | Annastaissia Todd |
+| 51 | 2800 | Annastaissia Todd |
+| 52 | 2800 | Caitlin Johnson |
+| 53 | 2800 | Posey Smith |
 | 54 | 2685 | Wendy Zentz |
 | 55 | 2569 | Dana Abegil Lawas |
 | 56 | 2522 | Маркус Вік |
@@ -89,8 +89,8 @@
 | 81 | 1791 | Keg |
 | 82 | 1751 | Amber Doyle |
 | 83 | 1742 | Chuck Gannon |
-| 84 | 1670 | JoLinda Dunn |
-| 85 | 1650 | 2 kool |
+| 84 | 1700 | 2 kool |
+| 85 | 1670 | JoLinda Dunn |
 | 86 | 1606 | SMV |
 | 87 | 1586 | Chris Covington |
 | 88 | 1561 | Cherry |
@@ -160,11 +160,11 @@
 | 152 | 868 | Chiquita Blue |
 | 153 | 864 | adrian |
 | 154 | 856 | Kimberly Civinski |
-| 155 | 848 | Andrew Dang |
-| 156 | 848 | Gigglycat |
-| 157 | 841 | Cranky Towerbuilder |
-| 158 | 841 | Shiny Dashy |
-| 159 | 841 | Pepone Pepe |
+| 155 | 848 | Gigglycat |
+| 156 | 848 | Andrew Dang |
+| 157 | 841 | Pepone Pepe |
+| 158 | 841 | Cranky Towerbuilder |
+| 159 | 841 | Shiny Dashy |
 | 160 | 830 | Kitsune Bi |
 | 161 | 819 | SupaFly |
 | 162 | 815 | Thomasena Eady Reid |
@@ -714,16 +714,16 @@
 | 706 | 206 | Groovy Stacker |
 | 707 | 205 | MrsAddams724 |
 | 708 | 204 | Brenda Gustamantes |
-| 709 | 204 | Clever Fallzone |
-| 710 | 204 | Megan Lynn |
-| 711 | 203 | Sarah Leake |
+| 709 | 204 | Sarah Leake |
+| 710 | 204 | Clever Fallzone |
+| 711 | 204 | Megan Lynn |
 | 712 | 202 | Shaneé Staunton |
-| 713 | 202 | MrLoner Stoner |
-| 714 | 202 | Ashley Nichole Skamra |
+| 713 | 202 | Ashley Nichole Skamra |
+| 714 | 202 | MrLoner Stoner |
 | 715 | 202 | Queen B |
 | 716 | 201 | Abby Waterman |
-| 717 | 201 | Rose Anna Safi |
-| 718 | 201 | Kimberly Mae Watkins |
+| 717 | 201 | Kimberly Mae Watkins |
+| 718 | 201 | Rose Anna Safi |
 | 719 | 200 | Jay Keating |
 | 720 | 200 | Sierra A Hortman |
 | 721 | 200 | Blockcrusher |
@@ -1036,67 +1036,67 @@
 | 1028 | 129 | Vlad Rudman |
 | 1029 | 129 | Clever Blockmatch |
 | 1030 | 128 | SandyEva |
-| 1031 | 127 | Marie Lily |
-| 1032 | 127 | Chirpy Dashfit |
-| 1033 | 127 | Cheeky Climber |
-| 1034 | 127 | Trishaann Triplett |
-| 1035 | 127 | Sonya |
-| 1036 | 127 | Darryl Shufford |
+| 1031 | 127 | Chirpy Dashfit |
+| 1032 | 127 | Sonya |
+| 1033 | 127 | Marie Lily |
+| 1034 | 127 | Darryl Shufford |
+| 1035 | 127 | Sandra O'Reilly |
+| 1036 | 127 | Cail |
 | 1037 | 127 | Lola |
-| 1038 | 127 | Cail |
-| 1039 | 127 | Sandra O'Reilly |
-| 1040 | 126 | Nicole Ambrose |
-| 1041 | 126 | Carlos Amaya |
-| 1042 | 126 | San |
-| 1043 | 126 | Masiso |
-| 1044 | 126 | Tiffany Roberts |
+| 1038 | 127 | Trishaann Triplett |
+| 1039 | 127 | Cheeky Climber |
+| 1040 | 126 | Sunny Tiltbuilder |
+| 1041 | 126 | Tiffany Roberts |
+| 1042 | 126 | Chipper Fitblock |
+| 1043 | 126 | Seraphina |
+| 1044 | 126 | San |
 | 1045 | 126 | John Ramos |
-| 1046 | 126 | Chipper Fitblock |
-| 1047 | 126 | Sunny Tiltbuilder |
-| 1048 | 125 | Youngkueen |
+| 1046 | 126 | Masiso |
+| 1047 | 126 | Carlos Amaya |
+| 1048 | 126 | Nicole Ambrose |
 | 1049 | 125 | RustyMaster40 |
-| 1050 | 125 | Yam My |
-| 1051 | 125 | Courtney Niichole |
-| 1052 | 125 | Taquilla Branch |
-| 1053 | 125 | Gerald Lew |
-| 1054 | 124 | Loony Dashgrid |
-| 1055 | 124 | Blu |
-| 1056 | 124 | Emjae Tupaz-Rivera |
+| 1050 | 125 | Courtney Niichole |
+| 1051 | 125 | Yam My |
+| 1052 | 125 | Youngkueen |
+| 1053 | 125 | Taquilla Branch |
+| 1054 | 125 | Gerald Lew |
+| 1055 | 124 | Loony Dashgrid |
+| 1056 | 124 | Blu |
 | 1057 | 124 | Shelly Jackson |
 | 1058 | 124 | Melissa Wilson |
-| 1059 | 124 | Wynisha Johnson |
-| 1060 | 123 | Keisha Petway |
-| 1061 | 123 | Stacy Brown |
-| 1062 | 123 | T-Dogger |
-| 1063 | 123 | Wayne Hendricks |
-| 1064 | 123 | Tina Berdeja |
+| 1059 | 124 | Emjae Tupaz-Rivera |
+| 1060 | 124 | Wynisha Johnson |
+| 1061 | 123 | Keisha Petway |
+| 1062 | 123 | Jarad Glover |
+| 1063 | 123 | Elizabeth Putansu |
+| 1064 | 123 | Stacy Brown |
 | 1065 | 123 | Esmond Johnson IV |
-| 1066 | 123 | Elizabeth Putansu |
-| 1067 | 123 | Jarad Glover |
-| 1068 | 122 | Honey Honey |
-| 1069 | 122 | Misti Rich |
-| 1070 | 122 | Matoka Shuford |
-| 1071 | 122 | Chris Somsen |
-| 1072 | 121 | h_chloe10 |
-| 1073 | 121 | Quiles Yaitza |
-| 1074 | 120 | Giggy Splitter |
-| 1075 | 120 | Mike Zec II |
-| 1076 | 120 | Marvin Mack |
-| 1077 | 120 | Leigh Burton |
-| 1078 | 120 | skynatda |
-| 1079 | 120 | Donny Keets |
+| 1066 | 123 | Tina Berdeja |
+| 1067 | 123 | Wayne Hendricks |
+| 1068 | 123 | T-Dogger |
+| 1069 | 122 | Honey Honey |
+| 1070 | 122 | Misti Rich |
+| 1071 | 122 | Matoka Shuford |
+| 1072 | 122 | Chris Somsen |
+| 1073 | 121 | h_chloe10 |
+| 1074 | 121 | Quiles Yaitza |
+| 1075 | 120 | Giggy Splitter |
+| 1076 | 120 | Mike Zec II |
+| 1077 | 120 | Marvin Mack |
+| 1078 | 120 | Leigh Burton |
+| 1079 | 120 | skynatda |
 | 1080 | 120 | Sparky Rose |
 | 1081 | 120 | Vanessa Torres |
-| 1082 | 120 | Wyatt Karren |
-| 1083 | 120 | Bear Bair |
-| 1084 | 120 | Felicia Harrison |
-| 1085 | 120 | Dawn Renee Thomas |
-| 1086 | 119 | Daffney Starr |
-| 1087 | 119 | Goofy Strike |
-| 1088 | 119 | Krushie |
-| 1089 | 119 | Goddatbat |
-| 1090 | 119 | Giggy Risegrid |
-| 1091 | 118 | Seraphina |
+| 1082 | 120 | Donny Keets |
+| 1083 | 120 | Wyatt Karren |
+| 1084 | 120 | Bear Bair |
+| 1085 | 120 | Felicia Harrison |
+| 1086 | 120 | Dawn Renee Thomas |
+| 1087 | 119 | Daffney Starr |
+| 1088 | 119 | Goofy Strike |
+| 1089 | 119 | Krushie |
+| 1090 | 119 | Goddatbat |
+| 1091 | 119 | Giggy Risegrid |
 | 1092 | 118 | Darren Miguel |
 | 1093 | 118 | EmBem |
 | 1094 | 118 | Tracey Hudspath |
@@ -1134,10 +1134,10 @@
 | 1126 | 113 | Theo Stamps |
 | 1127 | 113 | Cheeky Linkpiece |
 | 1128 | 113 | Dsay Yates |
-| 1129 | 112 | Chris Norman |
-| 1130 | 112 | Hotstuff |
-| 1131 | 112 | Corissa Handy |
-| 1132 | 112 | Marion Wade |
+| 1129 | 113 | Marion Wade |
+| 1130 | 112 | Chris Norman |
+| 1131 | 112 | Hotstuff |
+| 1132 | 112 | Corissa Handy |
 | 1133 | 111 | Snazzy Shatterfit |
 | 1134 | 111 | John Wertz |
 | 1135 | 111 | Jacquelyn L Whitsitt |
