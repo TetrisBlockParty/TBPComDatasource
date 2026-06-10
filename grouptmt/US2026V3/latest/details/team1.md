@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 23:36:46 UTC
+# Standings for team1 as of 2026-06-10 23:37:23 UTC
 
 **Total Participants:** 2366
 
@@ -48,8 +48,8 @@
 | 40 | 3313 | Jacoby E Fleming |
 | 41 | 3109 | Chill Clusterer |
 | 42 | 3025 | COSA303 |
-| 43 | 2941 | Jennifer To |
-| 44 | 2902 | JoJo |
+| 43 | 2942 | JoJo |
+| 44 | 2941 | Jennifer To |
 | 45 | 2800 | Rosey |
 | 46 | 2730 | Therealdywoune Peay |
 | 47 | 2691 | Hyper Slamdrop |
@@ -340,26 +340,26 @@
 | 332 | 490 | Analiza Ramos |
 | 333 | 490 | Kate Hancock Malicek |
 | 334 | 489 | Jhonny Maii |
-| 335 | 485 | Natasha Rucker |
-| 336 | 485 | 大竹直之 |
-| 337 | 485 | Chummy Frame |
+| 335 | 487 | Chummy Frame |
+| 336 | 485 | Natasha Rucker |
+| 337 | 485 | 大竹直之 |
 | 338 | 482 | akosua |
 | 339 | 482 | Brave Clearbuilder |
 | 340 | 481 | Simone Bailey |
-| 341 | 480 | NastyFriend |
-| 342 | 480 | Ashleyy Netchert |
+| 341 | 480 | Ashleyy Netchert |
+| 342 | 480 | NastyFriend |
 | 343 | 480 | ♈️ Ariesbaby |
 | 344 | 477 | Smiley3000 |
 | 345 | 476 | AshyTay |
-| 346 | 476 | Nerdy Climber |
-| 347 | 475 | Vernon Hoyt |
-| 348 | 475 | wuvbuug |
+| 346 | 476 | wuvbuug |
+| 347 | 476 | Nerdy Climber |
+| 348 | 475 | Vernon Hoyt |
 | 349 | 472 | StingerD |
 | 350 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 351 | 469 | Jackie Sanasay |
 | 352 | 469 | Victor |
-| 353 | 468 | Jayjay Rich |
-| 354 | 468 | Christian Pham |
+| 353 | 468 | Christian Pham |
+| 354 | 468 | Jayjay Rich |
 | 355 | 467 | NewEve |
 | 356 | 464 | Michele Simpson |
 | 357 | 464 | Devin West |
@@ -619,73 +619,73 @@
 | 611 | 283 | LaShawyn Wood |
 | 612 | 283 | Kristie |
 | 613 | 283 | Kamilya Rembert |
-| 614 | 282 | Tanisha Taylor |
-| 615 | 282 | Poyre Shelton |
-| 616 | 282 | Perky Pusher |
-| 617 | 282 | Jovy |
-| 618 | 282 | Taz Ballard |
-| 619 | 282 | Dreamzzz |
-| 620 | 282 | Dede Tate |
-| 621 | 281 | ChunLi |
-| 622 | 281 | Daring Blockclear |
+| 614 | 282 | Taz Ballard |
+| 615 | 282 | Perky Pusher |
+| 616 | 282 | Jovy |
+| 617 | 282 | Dede Tate |
+| 618 | 282 | Dreamzzz |
+| 619 | 282 | Poyre Shelton |
+| 620 | 282 | Tanisha Taylor |
+| 621 | 281 | Daring Blockclear |
+| 622 | 281 | ChunLi |
 | 623 | 281 | Terri Smart |
 | 624 | 280 | Meshia |
 | 625 | 280 | Juicy |
-| 626 | 279 | Karen Knapp |
-| 627 | 279 | Loopy Tiler |
-| 628 | 279 | DeAngelo Sorrells |
+| 626 | 279 | Loopy Tiler |
+| 627 | 279 | DeAngelo Sorrells |
+| 628 | 279 | Karen Knapp |
 | 629 | 277 | Jose Rodriguez |
 | 630 | 276 | Peppy Glider |
 | 631 | 276 | Antoinette Jones |
-| 632 | 275 | Chris Sladoje |
+| 632 | 276 | Stephanie L Jeffries Moultrie |
 | 633 | 275 | MzJuice Box |
-| 634 | 275 | Michelle Peters |
-| 635 | 274 | Rufus |
-| 636 | 273 | Ta'Kaiyah M. Spann |
-| 637 | 273 | Stephanie L Jeffries Moultrie |
-| 638 | 272 | wmedina67 |
-| 639 | 272 | Felicia Dungey |
+| 634 | 275 | Chris Sladoje |
+| 635 | 275 | Michelle Peters |
+| 636 | 274 | Rufus |
+| 637 | 273 | Ta'Kaiyah M. Spann |
+| 638 | 272 | Felicia Dungey |
+| 639 | 272 | wmedina67 |
 | 640 | 272 | BB |
 | 641 | 270 | Octavia Bsb Johnson |
 | 642 | 270 | Jen Hallin |
-| 643 | 269 | Tara Clarke |
-| 644 | 269 | RMGreen |
-| 645 | 269 | RylonJones |
-| 646 | 268 | Logan Frost |
+| 643 | 269 | RylonJones |
+| 644 | 269 | Daring Riserfit |
+| 645 | 269 | Tara Clarke |
+| 646 | 269 | RMGreen |
 | 647 | 268 | Monica Tovar |
-| 648 | 267 | Adrian Harris |
+| 648 | 268 | Logan Frost |
 | 649 | 267 | Dana Hawes |
-| 650 | 266 | Daring Riserfit |
+| 650 | 267 | Adrian Harris |
 | 651 | 266 | Stephanie Ellis |
 | 652 | 266 | Dannie |
 | 653 | 266 | Mommy Frank |
-| 654 | 265 | SceneGreenz Wali |
-| 655 | 265 | Kortney Adams |
+| 654 | 265 | Katrina Ramey |
+| 655 | 265 | SceneGreenz Wali |
 | 656 | 265 | Loony Clearer |
-| 657 | 265 | Katrina Ramey |
+| 657 | 265 | Kortney Adams |
 | 658 | 264 | Christy Quick |
 | 659 | 264 | Donna Payne |
 | 660 | 264 | Kelley Johnson |
 | 661 | 263 | Kim Holzmiller |
 | 662 | 262 | MamaBearTiff |
-| 663 | 262 | Clipzby |
-| 664 | 262 | Sherry D Singleton |
+| 663 | 262 | Sherry D Singleton |
+| 664 | 262 | Clipzby |
 | 665 | 261 | Shannon Carriger |
-| 666 | 260 | Spotlight |
+| 666 | 260 | Ashley Danielle |
 | 667 | 260 | Nisha Sunshine Jenkins |
-| 668 | 260 | Ashley Danielle |
+| 668 | 260 | Spotlight |
 | 669 | 260 | Carolyn Smith |
 | 670 | 260 | Lester Malone |
-| 671 | 259 | Anastasia |
+| 671 | 259 | Adrian Wilson |
 | 672 | 259 | Blocksy |
-| 673 | 259 | Adrian Wilson |
+| 673 | 259 | Anastasia |
 | 674 | 258 | Stronger Wiser Better |
 | 675 | 258 | Kala Miller |
 | 676 | 257 | Darrel Pemberton |
-| 677 | 257 | Seddrick |
-| 678 | 257 | GetDaOPPS |
-| 679 | 256 | Douglas Price |
-| 680 | 256 | Stanley Dixon |
+| 677 | 257 | GetDaOPPS |
+| 678 | 257 | Seddrick |
+| 679 | 256 | Stanley Dixon |
+| 680 | 256 | Douglas Price |
 | 681 | 256 | Monica Fields |
 | 682 | 255 | Taneka Howell |
 | 683 | 255 | Lindsey |
