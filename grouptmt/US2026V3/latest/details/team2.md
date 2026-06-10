@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 10:08:47 UTC
+# Standings for team2 as of 2026-06-10 10:09:23 UTC
 
 **Total Participants:** 2720
 
@@ -328,11 +328,11 @@
 | 320 | 574 | Brandy McCune Reep |
 | 321 | 565 | Kelly Rogers |
 | 322 | 565 | Gill |
-| 323 | 561 | Lindsey Ford |
-| 324 | 560 | Frisky Tiltgrid |
-| 325 | 560 | Jamin |
-| 326 | 553 | Thomas Tyrone |
-| 327 | 552 | Lora Via |
+| 323 | 561 | Lora Via |
+| 324 | 561 | Lindsey Ford |
+| 325 | 560 | Frisky Tiltgrid |
+| 326 | 560 | Jamin |
+| 327 | 553 | Thomas Tyrone |
 | 328 | 551 | Norma Ortiz |
 | 329 | 551 | Jumpy Matchbuilder |
 | 330 | 550 | AndyJo |
@@ -499,20 +499,20 @@
 | 491 | 378 | Paula Haskins |
 | 492 | 377 | Perky Linebuilder |
 | 493 | 376 | andee |
-| 494 | 375 | Mandy Van Laningham Bishop |
-| 495 | 373 | Jerry L Morales |
-| 496 | 373 | Jumpy Dashpiece |
-| 497 | 372 | Wacky Curve |
-| 498 | 371 | Jackie Walker |
-| 499 | 371 | Jessica Christine |
-| 500 | 371 | Roe Sarmiento |
-| 501 | 370 | Marge Cromer |
-| 502 | 370 | Starvinmarvin |
-| 503 | 370 | Zappy Liney |
-| 504 | 370 | marsam |
-| 505 | 370 | Katelyn Rodgers |
-| 506 | 369 | ShiverMeSplinter |
-| 507 | 369 | Hyper Cascade |
+| 494 | 376 | Hyper Cascade |
+| 495 | 375 | Mandy Van Laningham Bishop |
+| 496 | 373 | Jerry L Morales |
+| 497 | 373 | Jumpy Dashpiece |
+| 498 | 372 | Wacky Curve |
+| 499 | 371 | Jackie Walker |
+| 500 | 371 | Jessica Christine |
+| 501 | 371 | Roe Sarmiento |
+| 502 | 370 | Marge Cromer |
+| 503 | 370 | Starvinmarvin |
+| 504 | 370 | Zappy Liney |
+| 505 | 370 | marsam |
+| 506 | 370 | Katelyn Rodgers |
+| 507 | 369 | ShiverMeSplinter |
 | 508 | 368 | Danielle Lyons |
 | 509 | 367 | Jennifer McCloskey Launder |
 | 510 | 367 | Flashy Basegrid |
@@ -568,8 +568,8 @@
 | 560 | 337 | Jennifer McClure |
 | 561 | 336 | Frisky Twist |
 | 562 | 335 | Brittany Mathis |
-| 563 | 335 | Giddy Chiseler |
-| 564 | 335 | SturgStang |
+| 563 | 335 | SturgStang |
+| 564 | 335 | Giddy Chiseler |
 | 565 | 335 | Holly Huval |
 | 566 | 333 | Lisa Allen Frisk |
 | 567 | 333 | Nano. |
@@ -583,16 +583,16 @@
 | 575 | 327 | Jim Wright |
 | 576 | 327 | Rondell Reedster |
 | 577 | 326 | Katie Jones |
-| 578 | 325 | Ozge Akgun Tokat |
-| 579 | 325 | Diamond Mitchell |
+| 578 | 325 | Diamond Mitchell |
+| 579 | 325 | Ozge Akgun Tokat |
 | 580 | 324 | Amanda Bottorff |
 | 581 | 321 | Heather Schardan |
 | 582 | 320 | Rydin Dirt |
 | 583 | 319 | Nutty Dash |
-| 584 | 318 | Will Jones |
-| 585 | 318 | Tiffany Hassanshahi |
-| 586 | 315 | Goofy Shatterbuilder |
-| 587 | 315 | Amber Marie |
+| 584 | 319 | Amber Marie |
+| 585 | 318 | Will Jones |
+| 586 | 318 | Tiffany Hassanshahi |
+| 587 | 315 | Goofy Shatterbuilder |
 | 588 | 314 | Shannon Curry Riggle |
 | 589 | 314 | Hyper Striker |
 | 590 | 314 | Alyssa Malay |
@@ -1586,12 +1586,12 @@
 | 1578 | 88 | Haley Mansfield |
 | 1579 | 88 | Redangel |
 | 1580 | 88 | Brittany Russell |
-| 1581 | 87 | Angela Knighton |
-| 1582 | 87 | LivePhoenix |
-| 1583 | 86 | Alessandria Anderson |
-| 1584 | 86 | Brian David Fogg |
-| 1585 | 86 | JEEPER |
-| 1586 | 86 | Daniel Flathers |
+| 1581 | 88 | Brian David Fogg |
+| 1582 | 87 | Angela Knighton |
+| 1583 | 87 | LivePhoenix |
+| 1584 | 86 | Alessandria Anderson |
+| 1585 | 86 | Daniel Flathers |
+| 1586 | 86 | JEEPER |
 | 1587 | 86 | Spunky Riserfit |
 | 1588 | 86 | Spunky Fit |
 | 1589 | 86 | Loopy Brickroll |

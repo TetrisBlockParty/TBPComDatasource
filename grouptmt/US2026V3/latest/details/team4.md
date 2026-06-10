@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:08:47 UTC
+# Standings for team4 as of 2026-06-10 10:09:23 UTC
 
 **Total Participants:** 2302
 
@@ -65,14 +65,14 @@
 | 57 | 2791 | Dana Abegil Lawas |
 | 58 | 2537 | Маркус Вік |
 | 59 | 2525 | Joseph Anthony Watkins |
-| 60 | 2433 | Alexandria Frazier |
-| 61 | 2406 | Bryan DjMagnum Evans |
-| 62 | 2364 | Jason Allen |
-| 63 | 2310 | Nick Graber |
-| 64 | 2255 | Elissa S-k |
-| 65 | 2253 | Jace McCullough |
-| 66 | 2243 | Adam J Leong |
-| 67 | 2164 | Dennis Montoya |
+| 60 | 2464 | Dennis Montoya |
+| 61 | 2433 | Alexandria Frazier |
+| 62 | 2406 | Bryan DjMagnum Evans |
+| 63 | 2364 | Jason Allen |
+| 64 | 2310 | Nick Graber |
+| 65 | 2255 | Elissa S-k |
+| 66 | 2253 | Jace McCullough |
+| 67 | 2243 | Adam J Leong |
 | 68 | 2131 | Michele Walker |
 | 69 | 2129 | Erin Figone |
 | 70 | 2102 | Tommy Bond |
@@ -84,7 +84,7 @@
 | 76 | 1937 | JayJay Smith |
 | 77 | 1920 | Alyssa Oth |
 | 78 | 1909 | Jackie Polanco |
-| 79 | 1883 | Cherry |
+| 79 | 1888 | Cherry |
 | 80 | 1880 | Shelby |
 | 81 | 1847 | Dheeh Robles |
 | 82 | 1846 | Sassy Column |
@@ -298,9 +298,9 @@
 | 290 | 496 | jaz |
 | 291 | 494 | Yesenia Castro Monreal |
 | 292 | 488 | Aramat |
-| 293 | 488 | matt |
-| 294 | 487 | Plucky Shatterfit |
-| 295 | 483 | Danny Keich III |
+| 293 | 488 | Danny Keich III |
+| 294 | 488 | matt |
+| 295 | 487 | Plucky Shatterfit |
 | 296 | 482 | Tasha Suzanne Prisbrey |
 | 297 | 481 | Swanky Brickzone |
 | 298 | 480 | Adam Dickinson |
@@ -1031,9 +1031,9 @@
 | 1023 | 140 | Groovy Matchgrid |
 | 1024 | 140 | Littleshark |
 | 1025 | 140 | Krista Diaz |
-| 1026 | 140 | Stacey Heartful |
+| 1026 | 140 | Heather Brown |
 | 1027 | 140 | Aim Georgia Bros Scott |
-| 1028 | 140 | Heather Brown |
+| 1028 | 140 | Stacey Heartful |
 | 1029 | 140 | skynatda |
 | 1030 | 140 | Willy Leung |
 | 1031 | 139 | Cozy Patternbuilder |
@@ -1058,18 +1058,18 @@
 | 1050 | 135 | Jennifer Terrill |
 | 1051 | 134 | LaShieka Noland |
 | 1052 | 134 | Samantha Brandt |
-| 1053 | 134 | Rocky |
-| 1054 | 134 | Jeni |
-| 1055 | 134 | Kena T. Tanner |
-| 1056 | 134 | Alex Dawn |
-| 1057 | 133 | Hayze |
-| 1058 | 133 | Michelle Wiles |
-| 1059 | 133 | Hasty Snapmatch |
-| 1060 | 133 | Scalpel Causes Shambles |
-| 1061 | 133 | Masiso |
-| 1062 | 133 | Sonia Cordero-Martinez |
-| 1063 | 132 | Giggly Gridzone |
-| 1064 | 132 | Marie Culbert |
+| 1053 | 134 | Marie Culbert |
+| 1054 | 134 | Rocky |
+| 1055 | 134 | Jeni |
+| 1056 | 134 | Kena T. Tanner |
+| 1057 | 134 | Alex Dawn |
+| 1058 | 133 | Hayze |
+| 1059 | 133 | Michelle Wiles |
+| 1060 | 133 | Hasty Snapmatch |
+| 1061 | 133 | Scalpel Causes Shambles |
+| 1062 | 133 | Masiso |
+| 1063 | 133 | Sonia Cordero-Martinez |
+| 1064 | 132 | Giggly Gridzone |
 | 1065 | 132 | Chris Somsen |
 | 1066 | 132 | William Brooks |
 | 1067 | 132 | Marie Lily |
@@ -1189,16 +1189,16 @@
 | 1181 | 111 | Jacquelyn L Whitsitt |
 | 1182 | 111 | Snazzy Shatterfit |
 | 1183 | 110 | Lauren Zubia Sanchez |
-| 1184 | 110 | Giggly Rollpiece |
-| 1185 | 110 | Kami |
-| 1186 | 110 | Scott If |
-| 1187 | 109 | Joe Joe |
-| 1188 | 109 | Jonathan Jackson |
-| 1189 | 109 | Acyndra Cain |
-| 1190 | 109 | Frisky Blocker |
-| 1191 | 109 | Squiggy |
-| 1192 | 108 | Nata Lia |
-| 1193 | 108 | Clever Clearzone |
+| 1184 | 110 | Clever Clearzone |
+| 1185 | 110 | Giggly Rollpiece |
+| 1186 | 110 | Kami |
+| 1187 | 110 | Scott If |
+| 1188 | 109 | Joe Joe |
+| 1189 | 109 | Jonathan Jackson |
+| 1190 | 109 | Acyndra Cain |
+| 1191 | 109 | Frisky Blocker |
+| 1192 | 109 | Squiggy |
+| 1193 | 108 | Nata Lia |
 | 1194 | 108 | Katrina S. West |
 | 1195 | 108 | Nancy McCalla Abercrombie |
 | 1196 | 108 | Jodi Haman-wheeler |
