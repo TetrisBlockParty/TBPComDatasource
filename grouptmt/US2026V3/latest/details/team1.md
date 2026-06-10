@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:22:47 UTC
+# Standings for team1 as of 2026-06-10 18:23:23 UTC
 
 **Total Participants:** 2317
 
@@ -60,7 +60,7 @@
 | 52 | 2412 | D'Andra Stewart |
 | 53 | 2372 | Chris Caniglia |
 | 54 | 2359 | Corey Cawthon |
-| 55 | 2310 | Blockhead |
+| 55 | 2313 | Blockhead |
 | 56 | 2305 | Markeeta Lipscomb |
 | 57 | 2203 | BlackQueen105 |
 | 58 | 2194 | Robyn Caldwell |
@@ -806,25 +806,25 @@
 | 798 | 205 | Marcello Rush |
 | 799 | 205 | Treneil Daffin |
 | 800 | 205 | Stephen Garland |
-| 801 | 204 | Glitzy Clusterer |
-| 802 | 204 | Renee Marshall |
-| 803 | 204 | Xana Zania Bopp |
-| 804 | 204 | Maxine Williams |
-| 805 | 203 | KimChii |
-| 806 | 203 | Tina Bongcayao |
-| 807 | 203 | Duncan Timothy |
-| 808 | 202 | Messy Live |
-| 809 | 202 | Undeniable Williams |
-| 810 | 202 | Tempee |
-| 811 | 202 | Alexandrla Smith |
-| 812 | 202 | Nutty Fallmatch |
-| 813 | 202 | Hyper Blocky |
-| 814 | 202 | Paul Pendley |
-| 815 | 201 | Bea Dyer-Fields |
-| 816 | 201 | Boldy Pivoty |
-| 817 | 200 | Kyle Conley |
-| 818 | 200 | Yellowguy3 |
-| 819 | 200 | Tito Divyn |
+| 801 | 205 | Tito Divyn |
+| 802 | 204 | Glitzy Clusterer |
+| 803 | 204 | Renee Marshall |
+| 804 | 204 | Xana Zania Bopp |
+| 805 | 204 | Maxine Williams |
+| 806 | 203 | Duncan Timothy |
+| 807 | 203 | KimChii |
+| 808 | 203 | Tina Bongcayao |
+| 809 | 202 | Nutty Fallmatch |
+| 810 | 202 | Alexandrla Smith |
+| 811 | 202 | Messy Live |
+| 812 | 202 | Hyper Blocky |
+| 813 | 202 | Tempee |
+| 814 | 202 | Undeniable Williams |
+| 815 | 202 | Paul Pendley |
+| 816 | 201 | Bea Dyer-Fields |
+| 817 | 201 | Boldy Pivoty |
+| 818 | 200 | Kyle Conley |
+| 819 | 200 | Yellowguy3 |
 | 820 | 199 | Tanesha Ga'sFinest Corbett |
 | 821 | 199 | Missy Myvette |
 | 822 | 198 | Biggestboss Ransom |
