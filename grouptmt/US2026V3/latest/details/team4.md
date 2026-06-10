@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:54:45 UTC
+# Standings for team4 as of 2026-06-10 10:55:22 UTC
 
 **Total Participants:** 2310
 
@@ -467,35 +467,35 @@
 | 459 | 321 | Ashley Eskridge |
 | 460 | 320 | Lady Dolphin |
 | 461 | 320 | Goofy Linkmatch |
-| 462 | 320 | Nerdy Faller |
-| 463 | 319 | Luna |
-| 464 | 319 | Azahares Alonso |
-| 465 | 318 | Rosy Perez |
-| 466 | 317 | Kari Smith |
-| 467 | 317 | Elli Wright |
-| 468 | 317 | Lively Cascadebuilder |
+| 462 | 320 | Henry Lanier |
+| 463 | 320 | Nerdy Faller |
+| 464 | 319 | Luna |
+| 465 | 319 | Azahares Alonso |
+| 466 | 318 | Rosy Perez |
+| 467 | 317 | Kari Smith |
+| 468 | 317 | Elli Wright |
 | 469 | 317 | Breezy Blockzone |
-| 470 | 316 | Chonda OhanaMomma Michelle |
-| 471 | 315 | Perry Ransom |
-| 472 | 315 | Reggie Laserna Clement |
-| 473 | 315 | Thermeka Lindsey |
-| 474 | 314 | Jeff Margolis |
-| 475 | 314 | Ginny |
-| 476 | 313 | Henry Lanier |
+| 470 | 317 | Lively Cascadebuilder |
+| 471 | 316 | Chonda OhanaMomma Michelle |
+| 472 | 315 | Perry Ransom |
+| 473 | 315 | Reggie Laserna Clement |
+| 474 | 315 | Thermeka Lindsey |
+| 475 | 314 | Jeff Margolis |
+| 476 | 314 | Ginny |
 | 477 | 313 | Honey |
-| 478 | 313 | Frothy Pattern |
-| 479 | 313 | Jessica Jones Bolton |
+| 478 | 313 | Jessica Jones Bolton |
+| 479 | 313 | Frothy Pattern |
 | 480 | 312 | Carla Woodard |
 | 481 | 312 | Kimberly Ann |
 | 482 | 312 | Jj Johnson |
 | 483 | 311 | LeRoy jenkins |
 | 484 | 311 | Marina |
-| 485 | 310 | Janna Thompson |
-| 486 | 310 | Cindy |
-| 487 | 310 | J.Wo |
-| 488 | 310 | Britney Kitora |
-| 489 | 309 | tj |
-| 490 | 309 | Casey Thomas |
+| 485 | 310 | Britney Kitora |
+| 486 | 310 | Janna Thompson |
+| 487 | 310 | Cindy |
+| 488 | 310 | J.Wo |
+| 489 | 309 | Casey Thomas |
+| 490 | 309 | tj |
 | 491 | 308 | BookwormCate |
 | 492 | 308 | Bouncy |
 | 493 | 308 | bofe |
@@ -564,43 +564,43 @@
 | 556 | 273 | Rita Ann |
 | 557 | 273 | Anthony Edwards |
 | 558 | 272 | Sharon Tyler |
-| 559 | 271 | EpicWizard |
-| 560 | 271 | Leasa Marie |
+| 559 | 271 | Deborah Ayliffe |
+| 560 | 271 | EpicWizard |
 | 561 | 271 | crobb77 |
-| 562 | 270 | Joshua Garner |
-| 563 | 270 | Lisa Pie |
-| 564 | 270 | Sally Hiraldo |
-| 565 | 270 | Alexia Boston |
-| 566 | 269 | Dominique Summers Tah-tah |
-| 567 | 269 | Montes Ash |
-| 568 | 269 | Playa |
-| 569 | 268 | Andreas Vs Shinky |
+| 562 | 271 | Leasa Marie |
+| 563 | 270 | Sally Hiraldo |
+| 564 | 270 | Joshua Garner |
+| 565 | 270 | Lisa Pie |
+| 566 | 270 | Alexia Boston |
+| 567 | 269 | Dominique Summers Tah-tah |
+| 568 | 269 | Montes Ash |
+| 569 | 269 | Playa |
 | 570 | 268 | Kendall Rhodie |
-| 571 | 267 | Dolores Falco |
-| 572 | 267 | Alyssa Berg |
-| 573 | 267 | Jennifer Evans Elliott |
-| 574 | 267 | Jeremy Barry |
-| 575 | 267 | Butterfly |
-| 576 | 267 | Swanky Snapgrid |
-| 577 | 266 | Andrea Dre Lomeli |
+| 571 | 268 | Andreas Vs Shinky |
+| 572 | 267 | Dolores Falco |
+| 573 | 267 | Alyssa Berg |
+| 574 | 267 | Jennifer Evans Elliott |
+| 575 | 267 | Jeremy Barry |
+| 576 | 267 | Butterfly |
+| 577 | 267 | Swanky Snapgrid |
 | 578 | 266 | Stacy G |
-| 579 | 265 | Denise Wilson |
-| 580 | 265 | Nicole Colby McCloskey |
-| 581 | 265 | Mrs |
-| 582 | 263 | Deborah Ayliffe |
-| 583 | 263 | Melissa Quinn |
-| 584 | 263 | Gean DeJesus |
-| 585 | 263 | Blessedmom865 |
-| 586 | 263 | Manolo Canety |
+| 579 | 266 | Andrea Dre Lomeli |
+| 580 | 265 | Denise Wilson |
+| 581 | 265 | Nicole Colby McCloskey |
+| 582 | 265 | Mrs |
+| 583 | 263 | Gean DeJesus |
+| 584 | 263 | Manolo Canety |
+| 585 | 263 | Melissa Quinn |
+| 586 | 263 | Blessedmom865 |
 | 587 | 261 | Lee Ann Gibby |
 | 588 | 261 | Chris McBlockster |
-| 589 | 260 | Silly Risegrid |
-| 590 | 260 | Sarah Montagne Forsberg |
-| 591 | 260 | chefjaydawg |
-| 592 | 260 | Jerett Coplin |
-| 593 | 260 | Carissa Thorne-See |
-| 594 | 259 | Jessica Peyton |
-| 595 | 259 | Will E Ayala |
+| 589 | 260 | Jerett Coplin |
+| 590 | 260 | Carissa Thorne-See |
+| 591 | 260 | Silly Risegrid |
+| 592 | 260 | chefjaydawg |
+| 593 | 260 | Sarah Montagne Forsberg |
+| 594 | 259 | Will E Ayala |
+| 595 | 259 | Jessica Peyton |
 | 596 | 258 | JIGsaw ~(•¿°)~ |
 | 597 | 258 | my my |
 | 598 | 258 | Danny Frausto |
