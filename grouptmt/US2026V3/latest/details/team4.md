@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 19:24:22 UTC
+# Standings for team4 as of 2026-06-10 19:24:48 UTC
 
 **Total Participants:** 2365
 
@@ -297,11 +297,11 @@
 | 289 | 537 | Kaash Brxtt |
 | 290 | 535 | Karr |
 | 291 | 534 | Slinky Stackzone |
-| 292 | 531 | matt |
-| 293 | 528 | Danny Keich III |
-| 294 | 528 | Tammy June |
-| 295 | 528 | Cyndi Najar |
-| 296 | 527 | Momma Boss |
+| 292 | 532 | Momma Boss |
+| 293 | 531 | matt |
+| 294 | 528 | Danny Keich III |
+| 295 | 528 | Tammy June |
+| 296 | 528 | Cyndi Najar |
 | 297 | 521 | Debby Ruof |
 | 298 | 508 | Goofy Fall |
 | 299 | 508 | Melika Zeheb |
@@ -1335,120 +1335,120 @@
 | 1327 | 96 | Poppy Glider |
 | 1328 | 96 | Curved carrot |
 | 1329 | 95 | Hyper Balancepiece |
-| 1330 | 95 | Kristie McFarland |
-| 1331 | 95 | Jasmine Griffin |
-| 1332 | 94 | Kyle Hergert |
-| 1333 | 94 | Ronald Kent Hall |
+| 1330 | 95 | sleepy head |
+| 1331 | 95 | Kristie McFarland |
+| 1332 | 95 | Jasmine Griffin |
+| 1333 | 94 | Kyle Hergert |
 | 1334 | 94 | Jazzy Smasher |
-| 1335 | 94 | Dandy Balancer |
-| 1336 | 94 | Dandy Clusterbuilder |
-| 1337 | 94 | Mighty Clicky |
-| 1338 | 94 | Jim Stewart |
-| 1339 | 94 | Cranky Twistpiece |
-| 1340 | 93 | Myranda Gereau |
-| 1341 | 93 | Dorothy Mitchell |
-| 1342 | 93 | Rizzler26 |
-| 1343 | 93 | Rio Rumble |
-| 1344 | 93 | Peachy Linkbuilder |
+| 1335 | 94 | Ronald Kent Hall |
+| 1336 | 94 | Dandy Balancer |
+| 1337 | 94 | Dandy Clusterbuilder |
+| 1338 | 94 | Mighty Clicky |
+| 1339 | 94 | Jim Stewart |
+| 1340 | 94 | Cranky Twistpiece |
+| 1341 | 93 | Myranda Gereau |
+| 1342 | 93 | Dorothy Mitchell |
+| 1343 | 93 | Rizzler26 |
+| 1344 | 93 | Rio Rumble |
 | 1345 | 93 | E money |
-| 1346 | 92 | Bruce Hobbs |
-| 1347 | 92 | Chelsea Leann Lamb |
-| 1348 | 92 | Sara Cobb |
-| 1349 | 92 | Mandi Rexroat |
-| 1350 | 91 | Lashae |
-| 1351 | 91 | Funky Zonebuilder |
-| 1352 | 91 | Becca Milliron |
-| 1353 | 91 | aubz |
-| 1354 | 91 | Monique Kitzmiller |
-| 1355 | 91 | A La |
-| 1356 | 91 | Calleen Ellen Madrigal |
-| 1357 | 91 | sleepy head |
+| 1346 | 93 | Peachy Linkbuilder |
+| 1347 | 92 | Bruce Hobbs |
+| 1348 | 92 | Chelsea Leann Lamb |
+| 1349 | 92 | Sara Cobb |
+| 1350 | 92 | Mandi Rexroat |
+| 1351 | 91 | Lashae |
+| 1352 | 91 | Funky Zonebuilder |
+| 1353 | 91 | Becca Milliron |
+| 1354 | 91 | aubz |
+| 1355 | 91 | Monique Kitzmiller |
+| 1356 | 91 | A La |
+| 1357 | 91 | Calleen Ellen Madrigal |
 | 1358 | 90 | Quirky Puzzler |
-| 1359 | 90 | Sherri G Davis |
-| 1360 | 90 | Richard Armstrong |
-| 1361 | 90 | Волна Бог |
-| 1362 | 90 | Krissy Smith |
-| 1363 | 90 | Heather Griffin |
-| 1364 | 90 | Snappy Glidebuilder |
-| 1365 | 90 | STRay |
-| 1366 | 90 | Monique Anne Edwards |
-| 1367 | 90 | Nerdy Piecebuilder |
-| 1368 | 89 | Bon Jovi |
-| 1369 | 89 | Jessica Lestage |
-| 1370 | 89 | Khylee DarDar |
-| 1371 | 89 | Ladybug |
-| 1372 | 89 | Stacy Sisson |
-| 1373 | 89 | Bekka Walker |
-| 1374 | 88 | Ελενη Χολεβα |
+| 1359 | 90 | Niki Bastianelli |
+| 1360 | 90 | Sherri G Davis |
+| 1361 | 90 | Richard Armstrong |
+| 1362 | 90 | Волна Бог |
+| 1363 | 90 | Krissy Smith |
+| 1364 | 90 | Heather Griffin |
+| 1365 | 90 | Snappy Glidebuilder |
+| 1366 | 90 | STRay |
+| 1367 | 90 | Monique Anne Edwards |
+| 1368 | 90 | Nerdy Piecebuilder |
+| 1369 | 89 | Bon Jovi |
+| 1370 | 89 | Jessica Lestage |
+| 1371 | 89 | Khylee DarDar |
+| 1372 | 89 | Ladybug |
+| 1373 | 89 | Stacy Sisson |
+| 1374 | 89 | Bekka Walker |
 | 1375 | 88 | Tbag |
-| 1376 | 88 | Happy Toast |
-| 1377 | 88 | Musky Pits |
-| 1378 | 88 | Ryan Luperena |
-| 1379 | 88 | Cas Gio |
-| 1380 | 87 | Leslee Bentley DeLong |
-| 1381 | 87 | Audacious |
-| 1382 | 87 | Johnny Jeppesen |
+| 1376 | 88 | Ελενη Χολεβα |
+| 1377 | 88 | Happy Toast |
+| 1378 | 88 | Musky Pits |
+| 1379 | 88 | Ryan Luperena |
+| 1380 | 88 | Cas Gio |
+| 1381 | 87 | Leslee Bentley DeLong |
+| 1382 | 87 | Audacious |
 | 1383 | 87 | Alexis William |
-| 1384 | 86 | Luunii |
-| 1385 | 86 | Meela Abdurrab |
-| 1386 | 85 | LuLazer27 |
-| 1387 | 85 | Diane Obungu |
-| 1388 | 85 | Sherri Lorent |
-| 1389 | 85 | Dee Modest |
-| 1390 | 85 | ZaysWife89 |
-| 1391 | 85 | Charles Chauffe |
-| 1392 | 85 | Jason Shertzer |
-| 1393 | 85 | Melly |
-| 1394 | 84 | Ginnie Strate |
-| 1395 | 84 | Amber Arnold |
-| 1396 | 84 | Cassie N Danica Flaherty |
-| 1397 | 84 | Tay |
-| 1398 | 84 | Brittany |
-| 1399 | 84 | Red |
-| 1400 | 83 | Terry Jo Myers |
-| 1401 | 83 | Peter Babineaux Jr |
-| 1402 | 83 | Monte Smith |
-| 1403 | 83 | Bubbly Shatter |
-| 1404 | 83 | EpicBarista |
-| 1405 | 83 | Steph |
-| 1406 | 82 | Frank Loher III |
+| 1384 | 87 | Johnny Jeppesen |
+| 1385 | 86 | Luunii |
+| 1386 | 86 | Meela Abdurrab |
+| 1387 | 85 | LuLazer27 |
+| 1388 | 85 | Diane Obungu |
+| 1389 | 85 | Sherri Lorent |
+| 1390 | 85 | Dee Modest |
+| 1391 | 85 | ZaysWife89 |
+| 1392 | 85 | Melly |
+| 1393 | 85 | Charles Chauffe |
+| 1394 | 85 | Jason Shertzer |
+| 1395 | 84 | Ginnie Strate |
+| 1396 | 84 | Amber Arnold |
+| 1397 | 84 | Cassie N Danica Flaherty |
+| 1398 | 84 | Tay |
+| 1399 | 84 | Brittany |
+| 1400 | 84 | Red |
+| 1401 | 83 | Terry Jo Myers |
+| 1402 | 83 | Peter Babineaux Jr |
+| 1403 | 83 | Monte Smith |
+| 1404 | 83 | Bubbly Shatter |
+| 1405 | 83 | EpicBarista |
+| 1406 | 83 | Steph |
 | 1407 | 82 | crazy lazy |
-| 1408 | 82 | JuicyJay |
-| 1409 | 82 | Charity Thomas |
-| 1410 | 82 | Krystalclear |
-| 1411 | 82 | Brenda Mueller |
-| 1412 | 81 | Michelle Clark |
-| 1413 | 81 | BossBaby |
-| 1414 | 81 | Violet Mejia |
-| 1415 | 81 | Infini Agape |
+| 1408 | 82 | Frank Loher III |
+| 1409 | 82 | JuicyJay |
+| 1410 | 82 | Charity Thomas |
+| 1411 | 82 | Krystalclear |
+| 1412 | 82 | Brenda Mueller |
+| 1413 | 81 | Michelle Clark |
+| 1414 | 81 | Infini Agape |
+| 1415 | 81 | Violet Mejia |
 | 1416 | 81 | Speedy Brick |
-| 1417 | 80 | Hyper Clusterline |
-| 1418 | 80 | Brett |
-| 1419 | 80 | Rai |
-| 1420 | 80 | Idella Cobb Strickland |
-| 1421 | 80 | kellyhyatt |
-| 1422 | 80 | Amber Walters |
-| 1423 | 80 | Donya' Johnson |
-| 1424 | 80 | Zippy Wipepiece |
-| 1425 | 80 | CM |
-| 1426 | 80 | Gabby Simones |
-| 1427 | 80 | Melissa Robinson |
-| 1428 | 80 | James James |
-| 1429 | 79 | Blessedmama |
-| 1430 | 79 | Jessica Armistead |
-| 1431 | 79 | Tahira Patrice |
-| 1432 | 79 | Joshua Powers |
-| 1433 | 79 | Jenny Torres |
-| 1434 | 79 | Jessikunt Gdula Pierre |
-| 1435 | 79 | James Moore |
-| 1436 | 79 | Cheery Basegrid |
-| 1437 | 79 | pisces26luna |
-| 1438 | 79 | KingWing |
-| 1439 | 78 | AVA |
-| 1440 | 78 | Niki Bastianelli |
-| 1441 | 78 | Doris Wastak |
-| 1442 | 78 | Spicy Gridder |
-| 1443 | 78 | Memel |
+| 1417 | 81 | BossBaby |
+| 1418 | 80 | Donya' Johnson |
+| 1419 | 80 | kellyhyatt |
+| 1420 | 80 | Rai |
+| 1421 | 80 | Idella Cobb Strickland |
+| 1422 | 80 | Zippy Wipepiece |
+| 1423 | 80 | Amber Walters |
+| 1424 | 80 | Brett |
+| 1425 | 80 | Hyper Clusterline |
+| 1426 | 80 | CM |
+| 1427 | 80 | Gabby Simones |
+| 1428 | 80 | Melissa Robinson |
+| 1429 | 80 | James James |
+| 1430 | 79 | Blessedmama |
+| 1431 | 79 | Jessica Armistead |
+| 1432 | 79 | Tahira Patrice |
+| 1433 | 79 | Joshua Powers |
+| 1434 | 79 | Jenny Torres |
+| 1435 | 79 | KingWing |
+| 1436 | 79 | Jessikunt Gdula Pierre |
+| 1437 | 79 | Cheery Basegrid |
+| 1438 | 79 | James Moore |
+| 1439 | 79 | pisces26luna |
+| 1440 | 78 | Memel |
+| 1441 | 78 | AVA |
+| 1442 | 78 | Doris Wastak |
+| 1443 | 78 | Spicy Gridder |
 | 1444 | 78 | Zappy Matchgrid |
 | 1445 | 78 | Tracy Ann Frederick |
 | 1446 | 78 | Jacklyn Martinez |
@@ -1460,8 +1460,8 @@
 | 1452 | 77 | Rebecca Renaud |
 | 1453 | 77 | Ali Nicole |
 | 1454 | 77 | Vanessa Pritchett |
-| 1455 | 76 | Brandy Martin-Lowery |
-| 1456 | 76 | Sunny Bricky |
+| 1455 | 76 | Sunny Bricky |
+| 1456 | 76 | Brandy Martin-Lowery |
 | 1457 | 76 | Nakkia Mobley |
 | 1458 | 76 | Ksawn Collymore-bey Collymore-bey |
 | 1459 | 76 | Uh Lesh Uh |
