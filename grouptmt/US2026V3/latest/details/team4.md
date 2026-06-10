@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 06:10:44 UTC
+# Standings for team4 as of 2026-06-10 06:11:22 UTC
 
 **Total Participants:** 2281
 
@@ -56,7 +56,7 @@
 | 48 | 3150 | Destiny Dyer |
 | 49 | 3100 | Posey Smith |
 | 50 | 2960 | Alicia Cook |
-| 51 | 2831 | 626 |
+| 51 | 2839 | 626 |
 | 52 | 2800 | Caitlin Johnson |
 | 53 | 2800 | Annastaissia Todd |
 | 54 | 2795 | Monica Emel |
@@ -244,7 +244,7 @@
 | 236 | 592 | Samara Garcia |
 | 237 | 591 | Logan Two-dubs Baker |
 | 238 | 590 | Jacqueline Jackii Ramos |
-| 239 | 585 | Kelly Howland |
+| 239 | 589 | Kelly Howland |
 | 240 | 584 | Real Talk Vibes |
 | 241 | 583 | Dae Von |
 | 242 | 575 | Julian Gasque |
@@ -319,12 +319,12 @@
 | 311 | 453 | JuicyJuice |
 | 312 | 452 | Karen Miller |
 | 313 | 448 | Matthew Hudson |
-| 314 | 445 | Brian Woods |
-| 315 | 444 | Glitzy Patternbuilder |
-| 316 | 444 | Funky Tiler |
-| 317 | 443 | Crissy Hoffman |
-| 318 | 443 | Tanita Jobe |
-| 319 | 440 | Neeta Kapadia |
+| 314 | 447 | Neeta Kapadia |
+| 315 | 445 | Brian Woods |
+| 316 | 444 | Glitzy Patternbuilder |
+| 317 | 444 | Funky Tiler |
+| 318 | 443 | Crissy Hoffman |
+| 319 | 443 | Tanita Jobe |
 | 320 | 440 | Shy |
 | 321 | 438 | Aisha Estrada |
 | 322 | 435 | Tiffany Bunker-Hill |
@@ -522,8 +522,8 @@
 | 514 | 284 | Reggie Laserna Clement |
 | 515 | 284 | Brandi Sauer |
 | 516 | 284 | Maricela Joslin |
-| 517 | 282 | Travis McKinnon |
-| 518 | 282 | Elissa Danks |
+| 517 | 284 | Elissa Danks |
+| 518 | 282 | Travis McKinnon |
 | 519 | 281 | farfromlocal |
 | 520 | 281 | Margie Thomas |
 | 521 | 280 | Snazzy Fitclear |
@@ -1928,35 +1928,35 @@
 | 1920 | 25 | Gellix |
 | 1921 | 25 | Crafty Slamdrop |
 | 1922 | 25 | Happy Slamdrop |
-| 1923 | 25 | Rebecca Booth |
+| 1923 | 25 | Sassy Frame |
 | 1924 | 25 | Beto Vidaurri |
-| 1925 | 24 | Christa McPherson Pennington |
-| 1926 | 24 | Sandra Magaly Rivera Medina |
-| 1927 | 24 | Bouncy Splitter |
-| 1928 | 24 | Sindee Fell |
-| 1929 | 24 | Tina Louise |
-| 1930 | 24 | Bouncy Brickmatch |
-| 1931 | 24 | Hannah White |
-| 1932 | 24 | Speedy Caster |
-| 1933 | 24 | BreOunna Zonye Littleton |
-| 1934 | 24 | Janie Burris |
-| 1935 | 24 | Flashy Wipebuilder |
-| 1936 | 24 | Katiana Gonzalez |
-| 1937 | 24 | Tameka Harrison |
-| 1938 | 24 | Gma526 |
-| 1939 | 24 | Lively Setter |
-| 1940 | 24 | Snappy Blockzone |
-| 1941 | 23 | Carole Dyment Westcott |
-| 1942 | 23 | Terrick Robinson |
-| 1943 | 23 | Peachy Tiltpiece |
-| 1944 | 23 | Monika Webb |
-| 1945 | 23 | Crafty Builderfit |
-| 1946 | 23 | Mystie Malotte |
-| 1947 | 23 | Katie Stewart |
-| 1948 | 23 | Loony Brickzone |
-| 1949 | 23 | Jennifer Dixon |
-| 1950 | 23 | Lisa Jo Merwin |
-| 1951 | 23 | Sassy Frame |
+| 1925 | 25 | Rebecca Booth |
+| 1926 | 24 | Christa McPherson Pennington |
+| 1927 | 24 | Sandra Magaly Rivera Medina |
+| 1928 | 24 | Bouncy Splitter |
+| 1929 | 24 | Sindee Fell |
+| 1930 | 24 | Tina Louise |
+| 1931 | 24 | Bouncy Brickmatch |
+| 1932 | 24 | Hannah White |
+| 1933 | 24 | Speedy Caster |
+| 1934 | 24 | BreOunna Zonye Littleton |
+| 1935 | 24 | Janie Burris |
+| 1936 | 24 | Flashy Wipebuilder |
+| 1937 | 24 | Katiana Gonzalez |
+| 1938 | 24 | Tameka Harrison |
+| 1939 | 24 | Gma526 |
+| 1940 | 24 | Lively Setter |
+| 1941 | 24 | Snappy Blockzone |
+| 1942 | 23 | Carole Dyment Westcott |
+| 1943 | 23 | Terrick Robinson |
+| 1944 | 23 | Peachy Tiltpiece |
+| 1945 | 23 | Monika Webb |
+| 1946 | 23 | Crafty Builderfit |
+| 1947 | 23 | Mystie Malotte |
+| 1948 | 23 | Katie Stewart |
+| 1949 | 23 | Loony Brickzone |
+| 1950 | 23 | Jennifer Dixon |
+| 1951 | 23 | Lisa Jo Merwin |
 | 1952 | 23 | Frank Brown |
 | 1953 | 23 | Anthony Pickens |
 | 1954 | 22 | Slinky Edgefit |
