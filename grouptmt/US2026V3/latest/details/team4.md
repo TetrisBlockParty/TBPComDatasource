@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:18:46 UTC
+# Standings for team4 as of 2026-06-10 09:19:22 UTC
 
 **Total Participants:** 2298
 
@@ -52,8 +52,8 @@
 | 44 | 3762 | Dana Rinaldi |
 | 45 | 3712 | Watupall13 |
 | 46 | 3500 | Leah Gorsuch |
-| 47 | 3400 | Kathy Brookins |
-| 48 | 3392 | Wendy Zentz |
+| 47 | 3423 | Wendy Zentz |
+| 48 | 3400 | Kathy Brookins |
 | 49 | 3323 | Carly Stempien |
 | 50 | 3150 | Destiny Dyer |
 | 51 | 3100 | Posey Smith |
@@ -1144,33 +1144,33 @@
 | 1136 | 119 | Daffney Starr |
 | 1137 | 119 | Goddatbat |
 | 1138 | 118 | Alaina Rousseau |
-| 1139 | 118 | Jennifer Naughton |
-| 1140 | 118 | Badmofo |
-| 1141 | 118 | EmBem |
-| 1142 | 118 | Darren Miguel |
-| 1143 | 117 | Goofy Riserbuilder |
-| 1144 | 117 | Mrs Peabod |
-| 1145 | 117 | Kay |
-| 1146 | 117 | Catherine Garza |
-| 1147 | 117 | Oc Tive |
-| 1148 | 117 | Melinda Roman |
-| 1149 | 117 | Jace Warren |
-| 1150 | 117 | CharmingS |
-| 1151 | 117 | Melissa Abigail |
-| 1152 | 116 | John Henry |
-| 1153 | 116 | JP Chua |
-| 1154 | 116 | Pamela Kaye |
-| 1155 | 116 | Maicy Darrah |
-| 1156 | 115 | ManOfSteel |
-| 1157 | 115 | Dinah Mccall |
-| 1158 | 115 | Rodger Lines |
+| 1139 | 118 | Badmofo |
+| 1140 | 118 | EmBem |
+| 1141 | 118 | Darren Miguel |
+| 1142 | 118 | John Henry |
+| 1143 | 118 | Jennifer Naughton |
+| 1144 | 117 | Catherine Garza |
+| 1145 | 117 | Oc Tive |
+| 1146 | 117 | Mrs Peabod |
+| 1147 | 117 | Kay |
+| 1148 | 117 | Goofy Riserbuilder |
+| 1149 | 117 | Melinda Roman |
+| 1150 | 117 | Jace Warren |
+| 1151 | 117 | CharmingS |
+| 1152 | 117 | Melissa Abigail |
+| 1153 | 116 | Maicy Darrah |
+| 1154 | 116 | JP Chua |
+| 1155 | 116 | Pamela Kaye |
+| 1156 | 115 | Dinah Mccall |
+| 1157 | 115 | Rodger Lines |
+| 1158 | 115 | ManOfSteel |
 | 1159 | 115 | Shiny Strikerbuilder |
 | 1160 | 115 | Alexis Siefker |
 | 1161 | 114 | Dapper Tiltpiece |
-| 1162 | 114 | Elizabeth Nicole Zahm |
-| 1163 | 114 | Chabetta |
-| 1164 | 114 | Lionel Hampton |
-| 1165 | 114 | Tommy Thomas |
+| 1162 | 114 | Lionel Hampton |
+| 1163 | 114 | Tommy Thomas |
+| 1164 | 114 | Elizabeth Nicole Zahm |
+| 1165 | 114 | Chabetta |
 | 1166 | 114 | Donna Winget |
 | 1167 | 114 | Vergie Michael |
 | 1168 | 113 | Theo Stamps |
