@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 21:10:47 UTC
+# Standings for team1 as of 2026-06-10 21:11:22 UTC
 
 **Total Participants:** 2346
 
@@ -44,7 +44,7 @@
 | 36 | 3463 | Sha Harris |
 | 37 | 3438 | Weeze |
 | 38 | 3329 | Yolanda McDonald |
-| 39 | 3122 | Cee Emm |
+| 39 | 3162 | Cee Emm |
 | 40 | 3025 | COSA303 |
 | 41 | 2903 | Jennifer To |
 | 42 | 2809 | Chill Clusterer |
@@ -409,8 +409,8 @@
 | 401 | 400 | Sara Meri |
 | 402 | 398 | Matthieu Pistone |
 | 403 | 397 | Shameka Thrasher |
-| 404 | 397 | Tipsy Linkroll |
-| 405 | 396 | wuvbuug |
+| 404 | 397 | wuvbuug |
+| 405 | 397 | Tipsy Linkroll |
 | 406 | 396 | Bbyunicorn |
 | 407 | 396 | Amber Wilson |
 | 408 | 396 | Nikki Hogan |
@@ -881,12 +881,12 @@
 | 873 | 186 | Sara |
 | 874 | 186 | Vannie G |
 | 875 | 186 | Morenita Rodriguez |
-| 876 | 186 | Tiffany Conley |
-| 877 | 185 | Dapper Matchfit |
-| 878 | 185 | Poppy Twister |
-| 879 | 185 | Yellowbone |
-| 880 | 185 | Jess |
-| 881 | 184 | Chereese Harris |
+| 876 | 186 | Chereese Harris |
+| 877 | 186 | Tiffany Conley |
+| 878 | 185 | Dapper Matchfit |
+| 879 | 185 | Poppy Twister |
+| 880 | 185 | Yellowbone |
+| 881 | 185 | Jess |
 | 882 | 183 | Twisty Dashy |
 | 883 | 183 | LaSharon Jackson |
 | 884 | 183 | Cm |
@@ -2328,7 +2328,7 @@
 | 2320 | 5 | Rex |
 | 2321 | 5 | Damien Anthony |
 | 2322 | 5 | Brett Ledford |
-| 2323 | 5 | Godz Chosen |
+| 2323 | 5 | Crafty Fallzone |
 | 2324 | 5 | Zesty Brickline |
 | 2325 | 5 | Patricia Allen |
 | 2326 | 5 | LaKisha Cannon |
@@ -2351,7 +2351,7 @@
 | 2343 | 5 | MrKeith Debraux |
 | 2344 | 5 | Forrestine Eubanks |
 | 2345 | 5 | Jennifer Haton Kreighbaum |
-| 2346 | 5 | Crafty Fallzone |
+| 2346 | 5 | Godz Chosen |
 
 ---
 *Standings created by tournaments datasource generation tool*
