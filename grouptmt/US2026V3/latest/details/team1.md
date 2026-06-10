@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:22:47 UTC
+# Standings for team1 as of 2026-06-10 07:23:23 UTC
 
 **Total Participants:** 2238
 
@@ -197,25 +197,25 @@
 | 189 | 727 | Randizzle |
 | 190 | 725 | Marcheta Cervantez |
 | 191 | 721 | Rachel Zimmerman |
-| 192 | 720 | Nerdy Blockpiece |
-| 193 | 717 | Keke Ferguson |
-| 194 | 707 | Jazzy Fireflighters |
-| 195 | 700 | Spicy Risepiece |
-| 196 | 695 | Jamal Itzjusmall Chambers |
-| 197 | 695 | Yasmin Nakea Wright |
-| 198 | 692 | Novaa |
-| 199 | 692 | Chirpy Corner |
-| 200 | 690 | Genne Scott |
-| 201 | 690 | boogeywoogey |
-| 202 | 684 | Tammye Turner |
+| 192 | 721 | xXEKUNXx |
+| 193 | 720 | Nerdy Blockpiece |
+| 194 | 717 | Keke Ferguson |
+| 195 | 707 | Jazzy Fireflighters |
+| 196 | 700 | Spicy Risepiece |
+| 197 | 695 | Jamal Itzjusmall Chambers |
+| 198 | 695 | Yasmin Nakea Wright |
+| 199 | 692 | Novaa |
+| 200 | 692 | Chirpy Corner |
+| 201 | 690 | Genne Scott |
+| 202 | 690 | boogeywoogey |
 | 203 | 684 | Coco |
-| 204 | 683 | xXEKUNXx |
+| 204 | 684 | Tammye Turner |
 | 205 | 680 | Charletha Williams |
-| 206 | 672 | Trina Greenwood |
-| 207 | 672 | BULLSEYE |
+| 206 | 672 | BULLSEYE |
+| 207 | 672 | Trina Greenwood |
 | 208 | 670 | Johnathan Deese |
-| 209 | 668 | Bambi Love |
-| 210 | 668 | Tasha Jones |
+| 209 | 668 | Tasha Jones |
+| 210 | 668 | Bambi Love |
 | 211 | 665 | Po Marley |
 | 212 | 664 | Elizabeth Vega Coreano |
 | 213 | 661 | Sarah Clark |
@@ -235,8 +235,8 @@
 | 227 | 607 | Jenna Renee |
 | 228 | 605 | Aihpos |
 | 229 | 605 | Dee McCool |
-| 230 | 604 | TT |
-| 231 | 604 | Nina Davis |
+| 230 | 604 | Nina Davis |
+| 231 | 604 | TT |
 | 232 | 598 | Dion Gray |
 | 233 | 596 | Mic Balew |
 | 234 | 596 | Albert McKnight |
@@ -260,48 +260,48 @@
 | 252 | 563 | Wild Out Nai |
 | 253 | 562 | Frisky Fall |
 | 254 | 561 | Cheery Linkfall |
-| 255 | 556 | pooh |
-| 256 | 554 | Marissa Sweet |
-| 257 | 549 | Shell Lewis |
-| 258 | 547 | Erin Sabol |
-| 259 | 545 | Christopher Dreamsareality McEachin |
-| 260 | 545 | Zippy Tilefall |
-| 261 | 544 | Rhonda Williams Warner |
-| 262 | 544 | Roberta Lynn |
-| 263 | 542 | Giggly Tiltbuilder |
-| 264 | 542 | Deveda Williams |
-| 265 | 539 | Raymond Keeler |
-| 266 | 537 | izzybella |
+| 255 | 556 | Cachet A Ward |
+| 256 | 556 | pooh |
+| 257 | 554 | Marissa Sweet |
+| 258 | 549 | Shell Lewis |
+| 259 | 547 | Erin Sabol |
+| 260 | 545 | Christopher Dreamsareality McEachin |
+| 261 | 545 | Zippy Tilefall |
+| 262 | 544 | Rhonda Williams Warner |
+| 263 | 544 | Roberta Lynn |
+| 264 | 542 | Giggly Tiltbuilder |
+| 265 | 542 | Deveda Williams |
+| 266 | 539 | Raymond Keeler |
 | 267 | 537 | Qwlonda Shirrell |
-| 268 | 535 | Rachael Bakowicz Edwards |
+| 268 | 537 | izzybella |
 | 269 | 535 | Lashawn Wallace |
-| 270 | 535 | Tina Mitchell |
-| 271 | 533 | Telisha Mims |
+| 270 | 535 | Rachael Bakowicz Edwards |
+| 271 | 535 | Tina Mitchell |
 | 272 | 533 | Joey Albright |
-| 273 | 532 | Denisa Amazon Clark |
-| 274 | 527 | MommaCia |
-| 275 | 526 | Cachet A Ward |
+| 273 | 533 | Telisha Mims |
+| 274 | 532 | Denisa Amazon Clark |
+| 275 | 527 | MommaCia |
 | 276 | 526 | Kenny 'Tailormade' Boyd |
 | 277 | 525 | Andre Sanon |
 | 278 | 524 | rls |
 | 279 | 523 | Simmone T. Kadiri |
 | 280 | 522 | Penee Wiggins |
-| 281 | 519 | Clever Fitblock |
-| 282 | 519 | win |
+| 281 | 519 | win |
+| 282 | 519 | Clever Fitblock |
 | 283 | 517 | Tamara Johnson-Carter |
 | 284 | 514 | Chasem45 |
 | 285 | 513 | Calvin Green |
 | 286 | 512 | Anthony |
 | 287 | 511 | Dizzy Dropper |
 | 288 | 509 | JaClanDiah |
-| 289 | 503 | Bre Poston |
-| 290 | 502 | Tessa Felice Hill |
+| 289 | 503 | Tessa Felice Hill |
+| 290 | 503 | Bre Poston |
 | 291 | 502 | Jessica Russell |
-| 292 | 501 | Cheri Robinson |
-| 293 | 501 | Jawaun Daniels |
+| 292 | 501 | Jawaun Daniels |
+| 293 | 501 | Cheri Robinson |
 | 294 | 499 | Hailey Hil |
-| 295 | 498 | Michael Bethezar |
-| 296 | 498 | Julian Dickens Jr. |
+| 295 | 498 | Julian Dickens Jr. |
+| 296 | 498 | Michael Bethezar |
 | 297 | 496 | Slinky Brickmatch |
 | 298 | 495 | Queenie Perry |
 | 299 | 492 | SANA |
@@ -324,12 +324,12 @@
 | 316 | 467 | e |
 | 317 | 465 | Shanaa Germany Crittenden |
 | 318 | 464 | Devin West |
-| 319 | 463 | Andrew Jay Vaughn |
-| 320 | 463 | Tamika Fisher |
+| 319 | 463 | Tamika Fisher |
+| 320 | 463 | Andrew Jay Vaughn |
 | 321 | 461 | StingerD |
 | 322 | 459 | Mahagony Small |
-| 323 | 457 | Saranoh13 |
-| 324 | 457 | Desire Rice |
+| 323 | 457 | Desire Rice |
+| 324 | 457 | Saranoh13 |
 | 325 | 456 | Brave Clearbuilder |
 | 326 | 453 | Tasha |
 | 327 | 452 | Kenny MrOnethousand Peck |
@@ -341,12 +341,12 @@
 | 333 | 442 | Joana Thompson |
 | 334 | 441 | Lyn Reed |
 | 335 | 440 | Larina Cherie Johnson |
-| 336 | 439 | Block |
-| 337 | 439 | Andy Rivera |
-| 338 | 439 | Asani CHumba |
+| 336 | 439 | Andy Rivera |
+| 337 | 439 | Asani CHumba |
+| 338 | 439 | Block |
 | 339 | 438 | Simone Bailey |
-| 340 | 437 | Dedra M Prester |
-| 341 | 437 | 大竹直之 |
+| 340 | 437 | 大竹直之 |
+| 341 | 437 | Dedra M Prester |
 | 342 | 434 | Tonya McElroy |
 | 343 | 430 | akosua |
 | 344 | 429 | Koi |
@@ -357,12 +357,12 @@
 | 349 | 414 | Smiley Clearpiece |
 | 350 | 413 | Curtis T Cirno |
 | 351 | 413 | Reginald Frank |
-| 352 | 411 | MamushiOh |
-| 353 | 411 | Lauraly |
+| 352 | 411 | Lauraly |
+| 353 | 411 | MamushiOh |
 | 354 | 410 | Salim Thugger |
 | 355 | 409 | KeeKee Williams |
-| 356 | 409 | Erica Charlise |
-| 357 | 409 | Dacia Hicks |
+| 356 | 409 | Dacia Hicks |
+| 357 | 409 | Erica Charlise |
 | 358 | 408 | NewEve |
 | 359 | 404 | Michele Simpson |
 | 360 | 403 | NastyFriend |
@@ -372,15 +372,15 @@
 | 364 | 398 | Hasty Glidezone |
 | 365 | 396 | Nikki Hogan |
 | 366 | 396 | Amber Wilson |
-| 367 | 393 | Maribel Vasquez |
-| 368 | 393 | Rayya Kiser |
+| 367 | 393 | Rayya Kiser |
+| 368 | 393 | Maribel Vasquez |
 | 369 | 392 | Poppy Buildout |
 | 370 | 391 | HarleyJane |
 | 371 | 390 | Jean Regis |
 | 372 | 387 | kitten |
 | 373 | 386 | De'Mear McKinney |
-| 374 | 385 | Jennah |
-| 375 | 385 | Bubbly Piececlear |
+| 374 | 385 | Bubbly Piececlear |
+| 375 | 385 | Jennah |
 | 376 | 383 | Wayne Savannah |
 | 377 | 381 | SeanSanchez |
 | 378 | 381 | Faith Armone |

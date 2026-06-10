@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:22:47 UTC
+# Standings for team2 as of 2026-06-10 07:23:23 UTC
 
 **Total Participants:** 2702
 
@@ -263,13 +263,13 @@
 | 255 | 691 | Wacky Tumbler |
 | 256 | 687 | meg |
 | 257 | 687 | Zach Jewett |
-| 258 | 685 | Bubbly Strikerpiece |
-| 259 | 679 | True |
-| 260 | 677 | Cool Balancer |
-| 261 | 675 | Amie Marks |
-| 262 | 674 | Vistabrat |
-| 263 | 674 | Aldotfus Williams |
-| 264 | 673 | Starr Collins |
+| 258 | 686 | Bubbly Strikerpiece |
+| 259 | 683 | Starr Collins |
+| 260 | 679 | True |
+| 261 | 677 | Cool Balancer |
+| 262 | 675 | Amie Marks |
+| 263 | 674 | Vistabrat |
+| 264 | 674 | Aldotfus Williams |
 | 265 | 671 | Krystal Hummel |
 | 266 | 671 | Twisty Buildgrid |
 | 267 | 671 | Breeana Bennett |
@@ -432,11 +432,11 @@
 | 424 | 417 | Analee Nicole Jones |
 | 425 | 417 | Saucy Wrecker |
 | 426 | 416 | Teresa Mandich |
-| 427 | 415 | Partin |
-| 428 | 415 | Michelle Hicks |
-| 429 | 415 | Stephanie |
-| 430 | 415 | Emma Danielle Wynn |
-| 431 | 414 | KazzyKay |
+| 427 | 415 | KazzyKay |
+| 428 | 415 | Partin |
+| 429 | 415 | Michelle Hicks |
+| 430 | 415 | Stephanie |
+| 431 | 415 | Emma Danielle Wynn |
 | 432 | 414 | Crystal Poss |
 | 433 | 413 | Newtwidebody |
 | 434 | 413 | Travis Bundrum |
@@ -1257,13 +1257,13 @@
 | 1249 | 132 | Bonez |
 | 1250 | 132 | Jason M Barnes |
 | 1251 | 132 | Jason Janssen |
-| 1252 | 131 | Lyndzey Sciscoe |
-| 1253 | 131 | Jill Bobst Marple |
-| 1254 | 131 | Marcia Davis |
-| 1255 | 131 | Justtony Fareal |
-| 1256 | 130 | Loriane Shumate Griggs |
-| 1257 | 130 | Denita Kaherl |
-| 1258 | 130 | Michelle Arnold |
+| 1252 | 131 | Michelle Arnold |
+| 1253 | 131 | Lyndzey Sciscoe |
+| 1254 | 131 | Jill Bobst Marple |
+| 1255 | 131 | Marcia Davis |
+| 1256 | 131 | Justtony Fareal |
+| 1257 | 130 | Loriane Shumate Griggs |
+| 1258 | 130 | Denita Kaherl |
 | 1259 | 130 | Elizabeth Henry |
 | 1260 | 130 | Cindy Wellman |
 | 1261 | 130 | Lori |
