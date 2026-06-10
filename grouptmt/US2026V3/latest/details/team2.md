@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 21:58:49 UTC
+# Standings for team2 as of 2026-06-10 21:59:21 UTC
 
 **Total Participants:** 2825
 
@@ -88,12 +88,12 @@
 | 80 | 2510 | Jennifer Corder |
 | 81 | 2497 | Kellie Montgomery |
 | 82 | 2444 | AcardBoardBox |
-| 83 | 2329 | Karen Reid Cenkush |
-| 84 | 2303 | Angie Mccain |
-| 85 | 2294 | Peppy Roll |
-| 86 | 2288 | Block Dog |
-| 87 | 2285 | Jenny Graham |
-| 88 | 2280 | missat |
+| 83 | 2340 | missat |
+| 84 | 2329 | Karen Reid Cenkush |
+| 85 | 2303 | Angie Mccain |
+| 86 | 2294 | Peppy Roll |
+| 87 | 2288 | Block Dog |
+| 88 | 2285 | Jenny Graham |
 | 89 | 2262 | Lisa Breiding |
 | 90 | 2250 | THUMP |
 | 91 | 2244 | Marie Edmonds |
@@ -112,8 +112,8 @@
 | 104 | 1935 | Courtney McCulley |
 | 105 | 1920 | Gabriella Humphreys |
 | 106 | 1879 | Giddy Slamdrop |
-| 107 | 1850 | Daybreak |
-| 108 | 1828 | Criccett Hooper-Smith |
+| 107 | 1878 | Criccett Hooper-Smith |
+| 108 | 1850 | Daybreak |
 | 109 | 1820 | Josh Twilley |
 | 110 | 1815 | Pickle |
 | 111 | 1814 | Smiley Dropper |
@@ -263,30 +263,30 @@
 | 255 | 749 | Jenni LeBlanc |
 | 256 | 748 | Ackerman 85 |
 | 257 | 746 | Dsabrina Maxey |
-| 258 | 741 | meg |
-| 259 | 736 | Nikki Carter |
-| 260 | 735 | La chulis |
-| 261 | 734 | Kellie Sharp Godfrey |
-| 262 | 734 | Chris Cooper |
-| 263 | 733 | James Ward |
-| 264 | 728 | Chipper Stackbuilder |
-| 265 | 725 | Bubbly Strikerpiece |
-| 266 | 724 | Sully |
-| 267 | 724 | Kaylene Rigas |
-| 268 | 724 | Frothy Fitzone |
-| 269 | 723 | Nutty Curver |
-| 270 | 720 | Michelle Powers Chattaway |
-| 271 | 717 | Donna Esbensen-Alpini |
-| 272 | 717 | Cool Balancer |
-| 273 | 714 | Snappy Combo |
-| 274 | 714 | Jennifer Smith |
-| 275 | 713 | Aldotfus Williams |
-| 276 | 713 | SturgStang |
-| 277 | 711 | Christina Maria |
-| 278 | 707 | Bubbly Puzzler |
-| 279 | 700 | Frisky Tiltgrid |
-| 280 | 697 | Sandra Ruiz |
-| 281 | 697 | Cheery Tilefall |
+| 258 | 743 | Cheery Tilefall |
+| 259 | 741 | meg |
+| 260 | 736 | Nikki Carter |
+| 261 | 735 | La chulis |
+| 262 | 734 | Kellie Sharp Godfrey |
+| 263 | 734 | Chris Cooper |
+| 264 | 733 | James Ward |
+| 265 | 728 | Chipper Stackbuilder |
+| 266 | 725 | Bubbly Strikerpiece |
+| 267 | 724 | Sully |
+| 268 | 724 | Kaylene Rigas |
+| 269 | 724 | Frothy Fitzone |
+| 270 | 723 | Nutty Curver |
+| 271 | 720 | Michelle Powers Chattaway |
+| 272 | 717 | Donna Esbensen-Alpini |
+| 273 | 717 | Cool Balancer |
+| 274 | 714 | Snappy Combo |
+| 275 | 714 | Jennifer Smith |
+| 276 | 713 | Aldotfus Williams |
+| 277 | 713 | SturgStang |
+| 278 | 711 | Christina Maria |
+| 279 | 707 | Bubbly Puzzler |
+| 280 | 700 | Frisky Tiltgrid |
+| 281 | 697 | Sandra Ruiz |
 | 282 | 692 | Charles E Mccardell |
 | 283 | 691 | Wacky Tumbler |
 | 284 | 690 | Starr Collins |
@@ -296,9 +296,9 @@
 | 288 | 680 | Jodi Johnson |
 | 289 | 679 | True |
 | 290 | 679 | Michelle Rich Burkhart |
-| 291 | 674 | Twisty Buildgrid |
-| 292 | 671 | Krystal Hummel |
-| 293 | 671 | Gloria May Shook |
+| 291 | 675 | Twisty Buildgrid |
+| 292 | 671 | Gloria May Shook |
+| 293 | 671 | Krystal Hummel |
 | 294 | 671 | Breeana Bennett |
 | 295 | 667 | Iesha Cupil |
 | 296 | 666 | Churube Finwoiisopw |
@@ -1231,24 +1231,24 @@
 | 1223 | 157 | Peyton Groce |
 | 1224 | 156 | KT Scott |
 | 1225 | 156 | Anita Blackshear |
-| 1226 | 156 | Randy Taylor |
-| 1227 | 155 | Frisky Balancefit |
-| 1228 | 155 | Alexis Abner |
-| 1229 | 155 | Ducky West |
-| 1230 | 155 | Dandy Matchzone |
-| 1231 | 155 | Michelle Arnold |
-| 1232 | 155 | D.j. Wingate |
-| 1233 | 155 | Jason Janssen |
-| 1234 | 154 | Dapper Spinbuilder |
-| 1235 | 154 | Beej Blake |
-| 1236 | 154 | Harley Watkins |
+| 1226 | 156 | Harley Watkins |
+| 1227 | 156 | Randy Taylor |
+| 1228 | 155 | Frisky Balancefit |
+| 1229 | 155 | Alexis Abner |
+| 1230 | 155 | Ducky West |
+| 1231 | 155 | Dandy Matchzone |
+| 1232 | 155 | Michelle Arnold |
+| 1233 | 155 | D.j. Wingate |
+| 1234 | 155 | Jason Janssen |
+| 1235 | 154 | Dapper Spinbuilder |
+| 1236 | 154 | Beej Blake |
 | 1237 | 154 | Audra Rose Berry |
 | 1238 | 154 | Madbull |
 | 1239 | 154 | Purpleroyalty11 |
 | 1240 | 154 | Amy D Coble |
 | 1241 | 154 | Steven Moore |
-| 1242 | 153 | Judy Bailey |
-| 1243 | 153 | Matt Wylie |
+| 1242 | 153 | Matt Wylie |
+| 1243 | 153 | Judy Bailey |
 | 1244 | 153 | Kimberly Brooks |
 | 1245 | 153 | Smiley Clearer |
 | 1246 | 153 | Yany |
