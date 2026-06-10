@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 18:05:23 UTC
+# Standings for team1 as of 2026-06-10 18:06:46 UTC
 
 **Total Participants:** 2315
 
@@ -497,14 +497,14 @@
 | 489 | 337 | Donnie Withthebody |
 | 490 | 334 | Brittanie Wardlow |
 | 491 | 334 | Emily Wright |
-| 492 | 333 | Alivia Dove |
-| 493 | 331 | Holly Baker |
-| 494 | 330 | Nora Mahmoud |
-| 495 | 330 | Tracey Johnson |
-| 496 | 329 | Kristine Marie Palmer |
-| 497 | 329 | Giddy Staggerpiece |
-| 498 | 329 | Shelly Everette |
-| 499 | 327 | Melissa D. M. Hornsby |
+| 492 | 333 | Melissa D. M. Hornsby |
+| 493 | 333 | Alivia Dove |
+| 494 | 331 | Holly Baker |
+| 495 | 330 | Nora Mahmoud |
+| 496 | 330 | Tracey Johnson |
+| 497 | 329 | Kristine Marie Palmer |
+| 498 | 329 | Giddy Staggerpiece |
+| 499 | 329 | Shelly Everette |
 | 500 | 325 | Juan Alvarez |
 | 501 | 323 | Trusi Rusi |
 | 502 | 323 | Alyssa Rae |
