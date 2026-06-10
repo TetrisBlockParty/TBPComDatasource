@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 04:10:45 UTC
+# Standings for team4 as of 2026-06-10 04:11:23 UTC
 
 **Total Participants:** 2258
 
@@ -79,7 +79,7 @@
 | 71 | 1989 | Erin Figone |
 | 72 | 1958 | woopa 716 |
 | 73 | 1954 | Damon Gaston |
-| 74 | 1920 | Charlie Lewis |
+| 74 | 1937 | Charlie Lewis |
 | 75 | 1920 | Alyssa Oth |
 | 76 | 1917 | JayJay Smith |
 | 77 | 1909 | Jackie Polanco |
@@ -167,9 +167,9 @@
 | 159 | 841 | Cranky Towerbuilder |
 | 160 | 832 | Lori Stembridge |
 | 161 | 830 | Kitsune Bi |
-| 162 | 819 | SupaFly |
-| 163 | 815 | Thomasena Eady Reid |
-| 164 | 811 | Suzanne North |
+| 162 | 827 | Suzanne North |
+| 163 | 819 | SupaFly |
+| 164 | 815 | Thomasena Eady Reid |
 | 165 | 809 | Sean Mccleary |
 | 166 | 808 | Misty Leigh |
 | 167 | 802 | Dandy Clearfit |
@@ -179,7 +179,7 @@
 | 171 | 780 | Capone |
 | 172 | 779 | Tiffany Brooke |
 | 173 | 764 | Shocinda Sherwood |
-| 174 | 745 | Lisa Garcia |
+| 174 | 748 | Lisa Garcia |
 | 175 | 740 | Izz |
 | 176 | 738 | LastBoi |
 | 177 | 737 | Christy Beezley-Forbush |
@@ -195,23 +195,23 @@
 | 187 | 700 | Anthony Magaraci |
 | 188 | 697 | Linda Miltenburg |
 | 189 | 686 | Jennifer Ellyn Sheets |
-| 190 | 684 | Caitlyn Wang |
-| 191 | 684 | Shannon Rivera |
+| 190 | 684 | Shannon Rivera |
+| 191 | 684 | Caitlyn Wang |
 | 192 | 681 | Janet Sanfilippo Sullivan |
 | 193 | 678 | Katie Lynn Petit |
 | 194 | 673 | Anthony Lewis |
 | 195 | 662 | Danielle Mitchell |
 | 196 | 660 | Suzanne Carter |
 | 197 | 654 | Megan Vick |
-| 198 | 651 | Dayna Arthurs |
-| 199 | 651 | Jewelz |
+| 198 | 651 | Jewelz |
+| 199 | 651 | Dayna Arthurs |
 | 200 | 650 | Beth Belanger |
 | 201 | 647 | Laguya |
 | 202 | 644 | Krysten Danielle Richard |
 | 203 | 641 | Waxboss |
 | 204 | 640 | CIRAZYPNOY |
 | 205 | 632 | Baysoph |
-| 206 | 627 | Snippy Splitter |
+| 206 | 631 | Snippy Splitter |
 | 207 | 627 | Erika Seaton |
 | 208 | 626 | Lush Fitblock |
 | 209 | 624 | Scamp Jones |
@@ -233,7 +233,7 @@
 | 225 | 592 | Sarah Berry Stevens |
 | 226 | 592 | Samara Garcia |
 | 227 | 591 | Logan Two-dubs Baker |
-| 228 | 586 | George Palacios |
+| 228 | 591 | George Palacios |
 | 229 | 582 | Kelly Howland |
 | 230 | 575 | Julian Gasque |
 | 231 | 574 | Alma López Morales |
@@ -315,19 +315,19 @@
 | 307 | 445 | Brian Woods |
 | 308 | 443 | Crissy Hoffman |
 | 309 | 443 | Tanita Jobe |
-| 310 | 440 | Shy |
-| 311 | 438 | Aisha Estrada |
-| 312 | 437 | Funky Tiler |
-| 313 | 435 | Tiffany Bunker-Hill |
-| 314 | 434 | Mark Fitch Jr. |
-| 315 | 433 | Becky McCool |
-| 316 | 431 | Andrick |
-| 317 | 428 | Spunky Gridzone |
-| 318 | 426 | Sassy Rollpiece |
-| 319 | 425 | Bobbie Harrell |
-| 320 | 425 | Anna Gribble |
-| 321 | 424 | Glitzy Patternbuilder |
-| 322 | 424 | Slinky Stackzone |
+| 310 | 442 | Slinky Stackzone |
+| 311 | 440 | Shy |
+| 312 | 438 | Aisha Estrada |
+| 313 | 437 | Funky Tiler |
+| 314 | 435 | Tiffany Bunker-Hill |
+| 315 | 434 | Mark Fitch Jr. |
+| 316 | 433 | Becky McCool |
+| 317 | 431 | Andrick |
+| 318 | 428 | Spunky Gridzone |
+| 319 | 426 | Sassy Rollpiece |
+| 320 | 425 | Bobbie Harrell |
+| 321 | 425 | Anna Gribble |
+| 322 | 424 | Glitzy Patternbuilder |
 | 323 | 424 | Stephanie Gauna |
 | 324 | 421 | Ashley Jenkins |
 | 325 | 421 | Shiny Brick |
@@ -765,48 +765,48 @@
 | 757 | 194 | Gma420 |
 | 758 | 194 | Stotty |
 | 759 | 193 | Fancy Rollfit |
-| 760 | 193 | Cat |
-| 761 | 193 | Kimberly Devon |
-| 762 | 193 | Sweetfire |
-| 763 | 192 | Ralph Hell Rell Williams |
-| 764 | 192 | Frilly Zoney |
+| 760 | 193 | Kimberly Devon |
+| 761 | 193 | Sweetfire |
+| 762 | 193 | Cat |
+| 763 | 192 | Frilly Zoney |
+| 764 | 192 | Ralph Hell Rell Williams |
 | 765 | 192 | Chris |
 | 766 | 191 | Clever Patterner |
 | 767 | 191 | Snappy Stack |
-| 768 | 190 | Name |
-| 769 | 190 | TeQuita Jennings |
-| 770 | 190 | Robert Crow |
-| 771 | 190 | Billy Baker |
-| 772 | 190 | Simone |
-| 773 | 190 | Natalie Ohrtman Strand |
-| 774 | 190 | Layne Davis |
+| 768 | 190 | Natalie Ohrtman Strand |
+| 769 | 190 | Name |
+| 770 | 190 | TeQuita Jennings |
+| 771 | 190 | Robert Crow |
+| 772 | 190 | Layne Davis |
+| 773 | 190 | Billy Baker |
+| 774 | 190 | Simone |
 | 775 | 189 | Sarah |
 | 776 | 189 | Lisa Ferriero-Daudin |
 | 777 | 189 | Jessica Caminos |
 | 778 | 188 | Erika Rubio |
-| 779 | 187 | Kelly Miller Williams |
-| 780 | 187 | Alicia Blunt |
+| 779 | 187 | Alicia Blunt |
+| 780 | 187 | Kelly Miller Williams |
 | 781 | 187 | Ricky Colvin |
 | 782 | 187 | Dennis Montoya |
-| 783 | 186 | Amber Jalbert |
-| 784 | 186 | Lorrie Ann Burchett |
-| 785 | 185 | Ilia Blake |
-| 786 | 185 | Ashley Ferguson |
-| 787 | 185 | Tre'nya Smith |
-| 788 | 184 | Clever Blockbuilder |
+| 783 | 187 | Heather Garrity |
+| 784 | 186 | Amber Jalbert |
+| 785 | 186 | Lorrie Ann Burchett |
+| 786 | 185 | Ilia Blake |
+| 787 | 185 | Ashley Ferguson |
+| 788 | 185 | Tre'nya Smith |
 | 789 | 184 | Chilly Pop |
 | 790 | 184 | Mrsjcraw18 |
 | 791 | 184 | Dizzy |
-| 792 | 184 | Brandi Gray |
-| 793 | 184 | Kimberly Lusk |
-| 794 | 184 | Virgil Mayfield-Brown |
-| 795 | 183 | pussface |
-| 796 | 183 | mikey moo |
-| 797 | 183 | Adi Patterson |
-| 798 | 182 | Cranky Twisterfit |
-| 799 | 182 | Nessa Smith |
-| 800 | 182 | Deb 07 |
-| 801 | 181 | Heather Garrity |
+| 792 | 184 | Virgil Mayfield-Brown |
+| 793 | 184 | Brandi Gray |
+| 794 | 184 | Kimberly Lusk |
+| 795 | 184 | Clever Blockbuilder |
+| 796 | 183 | pussface |
+| 797 | 183 | mikey moo |
+| 798 | 183 | Adi Patterson |
+| 799 | 182 | Cranky Twisterfit |
+| 800 | 182 | Nessa Smith |
+| 801 | 182 | Deb 07 |
 | 802 | 181 | Kristen Nicole Depp-Stewart |
 | 803 | 180 | Worley’s Wife |
 | 804 | 180 | Urplan |
@@ -915,16 +915,16 @@
 | 907 | 153 | Joyce Hampton |
 | 908 | 153 | JUNE |
 | 909 | 153 | Shawntae Mccary |
-| 910 | 153 | Witty Fitblock |
+| 910 | 153 | Ajohnna Frazee |
 | 911 | 153 | Melissa Anne |
-| 912 | 152 | Street724 |
-| 913 | 152 | Loyalty83 |
-| 914 | 152 | Bhakti Sawarkar |
-| 915 | 152 | Breezy Rollfit |
-| 916 | 151 | Kasey Lynne |
-| 917 | 151 | Ajohnna Frazee |
-| 918 | 151 | Jason Moves |
-| 919 | 151 | Steve Swanson |
+| 912 | 153 | Witty Fitblock |
+| 913 | 152 | Street724 |
+| 914 | 152 | Loyalty83 |
+| 915 | 152 | Bhakti Sawarkar |
+| 916 | 152 | Breezy Rollfit |
+| 917 | 151 | Jason Moves |
+| 918 | 151 | Steve Swanson |
+| 919 | 151 | Kasey Lynne |
 | 920 | 151 | Joha Mldo Castillo |
 | 921 | 151 | Ginny |
 | 922 | 150 | Tod Jae |
