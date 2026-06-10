@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:05:23 UTC
+# Standings for team1 as of 2026-06-10 09:06:45 UTC
 
 **Total Participants:** 2249
 
@@ -180,18 +180,18 @@
 | 172 | 808 | Taylor Evelyn |
 | 173 | 803 | Big Tina |
 | 174 | 790 | xXEKUNXx |
-| 175 | 786 | Eugina Slater |
-| 176 | 778 | Gael Quintana |
-| 177 | 776 | Ann White |
-| 178 | 772 | Keke Ferguson |
+| 175 | 786 | Keke Ferguson |
+| 176 | 786 | Eugina Slater |
+| 177 | 778 | Gael Quintana |
+| 178 | 776 | Ann White |
 | 179 | 767 | GrkGdess |
 | 180 | 764 | Chantelle Lee |
 | 181 | 757 | Abraham Espaillat |
 | 182 | 754 | Jhaime |
 | 183 | 749 | Zappy Riser |
 | 184 | 749 | Dulo |
-| 185 | 744 | Ottison Dianna |
-| 186 | 744 | Kevin M. McGhee Jr |
+| 185 | 744 | Kevin M. McGhee Jr |
+| 186 | 744 | Ottison Dianna |
 | 187 | 742 | Latisha Fairley |
 | 188 | 738 | Dena Marie Lee |
 | 189 | 733 | Dandy Brickfit |
@@ -310,9 +310,9 @@
 | 302 | 490 | Kate Hancock Malicek |
 | 303 | 488 | Snippy Breaker |
 | 304 | 485 | Natasha Rucker |
-| 305 | 484 | Jhonny Maii |
-| 306 | 483 | Mahagony Small |
-| 307 | 481 | Lashaunda |
+| 305 | 485 | Lashaunda |
+| 306 | 484 | Jhonny Maii |
+| 307 | 483 | Mahagony Small |
 | 308 | 479 | Leebo Slice |
 | 309 | 478 | Tarnisha Neicy Jones |
 | 310 | 477 | Analiza Ramos |
@@ -476,11 +476,11 @@
 | 468 | 318 | Nerdy Snapfall |
 | 469 | 318 | Clint Mcdowell |
 | 470 | 318 | De'Nell Edwards |
-| 471 | 317 | Sammie Walker |
-| 472 | 315 | Alivia Dove |
-| 473 | 314 | Tay |
-| 474 | 314 | C Lo Green |
-| 475 | 314 | The DUBZ |
+| 471 | 317 | The DUBZ |
+| 472 | 317 | Sammie Walker |
+| 473 | 315 | Alivia Dove |
+| 474 | 314 | Tay |
+| 475 | 314 | C Lo Green |
 | 476 | 314 | Kristine Marie Palmer |
 | 477 | 313 | Bubbly Slammer |
 | 478 | 313 | Dizzy Dashy |
