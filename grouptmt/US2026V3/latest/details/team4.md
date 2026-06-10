@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 05:56:45 UTC
+# Standings for team4 as of 2026-06-10 05:57:22 UTC
 
 **Total Participants:** 2277
 
@@ -1310,15 +1310,15 @@
 | 1302 | 87 | Audacious |
 | 1303 | 86 | Jodi Messere |
 | 1304 | 86 | Alicia Loveless |
-| 1305 | 86 | Meela Abdurrab |
-| 1306 | 86 | Luunii |
-| 1307 | 85 | Poppy Glider |
-| 1308 | 85 | Dee Modest |
-| 1309 | 85 | LuLazer27 |
-| 1310 | 85 | Diane Obungu |
-| 1311 | 85 | Sherri Lorent |
-| 1312 | 85 | Kay |
-| 1313 | 85 | MelodiousDeez |
+| 1305 | 86 | Poppy Glider |
+| 1306 | 86 | Meela Abdurrab |
+| 1307 | 86 | Luunii |
+| 1308 | 85 | MelodiousDeez |
+| 1309 | 85 | Dee Modest |
+| 1310 | 85 | LuLazer27 |
+| 1311 | 85 | Diane Obungu |
+| 1312 | 85 | Sherri Lorent |
+| 1313 | 85 | Kay |
 | 1314 | 84 | Tati |
 | 1315 | 84 | Red |
 | 1316 | 84 | Cassie N Danica Flaherty |
@@ -1328,8 +1328,8 @@
 | 1320 | 84 | Dominique Miesha Smith |
 | 1321 | 83 | Ryan Luperena |
 | 1322 | 83 | Peter Babineaux Jr |
-| 1323 | 83 | EpicBarista |
-| 1324 | 83 | Bubbly Shatter |
+| 1323 | 83 | Bubbly Shatter |
+| 1324 | 83 | EpicBarista |
 | 1325 | 82 | JuicyJay |
 | 1326 | 82 | Brenda Mueller |
 | 1327 | 82 | Charity Thomas |

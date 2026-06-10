@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 05:56:45 UTC
+# Standings for team1 as of 2026-06-10 05:57:22 UTC
 
 **Total Participants:** 2229
 
@@ -213,12 +213,12 @@
 | 205 | 670 | Johnathan Deese |
 | 206 | 668 | Tasha Jones |
 | 207 | 668 | Bambi Love |
-| 208 | 665 | Po Marley |
-| 209 | 664 | Tammye Turner |
-| 210 | 664 | Elizabeth Vega Coreano |
-| 211 | 661 | Sarah Clark |
-| 212 | 657 | Crystal Anderson |
-| 213 | 647 | Ty Øtg |
+| 208 | 667 | Ty Øtg |
+| 209 | 665 | Po Marley |
+| 210 | 664 | Tammye Turner |
+| 211 | 664 | Elizabeth Vega Coreano |
+| 212 | 661 | Sarah Clark |
+| 213 | 657 | Crystal Anderson |
 | 214 | 647 | Block King |
 | 215 | 646 | TeeMaster Barber IsLyfe |
 | 216 | 638 | xXEKUNXx |
@@ -227,8 +227,8 @@
 | 219 | 623 | Nicole Watson-Dixon |
 | 220 | 622 | LaToya Chambers |
 | 221 | 619 | Sade Goodwine |
-| 222 | 615 | Choc |
-| 223 | 615 | Slinky Party |
+| 222 | 618 | Slinky Party |
+| 223 | 615 | Choc |
 | 224 | 614 | David Fuentes |
 | 225 | 611 | Giggy Clusterer |
 | 226 | 607 | Jenna Renee |
@@ -236,9 +236,9 @@
 | 228 | 604 | Nina Davis |
 | 229 | 604 | TT |
 | 230 | 597 | Dee McCool |
-| 231 | 596 | Mic Balew |
-| 232 | 595 | Tishauna Virgo |
-| 233 | 589 | Tremaine Hiler |
+| 231 | 597 | Tremaine Hiler |
+| 232 | 596 | Mic Balew |
+| 233 | 595 | Tishauna Virgo |
 | 234 | 583 | Tessa Gaskin |
 | 235 | 580 | Tanya Clayton |
 | 236 | 580 | Felicia Cain |
@@ -714,11 +714,11 @@
 | 706 | 210 | Nisha Sunshine Jenkins |
 | 707 | 210 | Slinky Fallzone |
 | 708 | 210 | Antoinette Jones |
-| 709 | 209 | Pj Rojas |
-| 710 | 209 | Anastasia |
-| 711 | 209 | Darrel Pemberton |
-| 712 | 209 | $hort Dog |
-| 713 | 209 | Marsha Earl |
+| 709 | 209 | Marsha Earl |
+| 710 | 209 | Pj Rojas |
+| 711 | 209 | $hort Dog |
+| 712 | 209 | Darrel Pemberton |
+| 713 | 209 | Anastasia |
 | 714 | 208 | Kelvin Cook |
 | 715 | 207 | Tangy Moore |
 | 716 | 207 | Rachel Renae Bettis |
@@ -732,25 +732,25 @@
 | 724 | 204 | Glitzy Clusterer |
 | 725 | 204 | Renee Marshall |
 | 726 | 203 | Ebby |
-| 727 | 202 | Don Ray Mc |
+| 727 | 203 | brite |
 | 728 | 202 | Undeniable Williams |
-| 729 | 202 | Alexandrla Smith |
+| 729 | 202 | Don Ray Mc |
 | 730 | 202 | Hyper Blocky |
 | 731 | 202 | Nutty Fallmatch |
-| 732 | 202 | Messy Live |
-| 733 | 202 | Marbama |
-| 734 | 200 | RylonJones |
-| 735 | 200 | Jimmy Shannon |
-| 736 | 200 | Kyle Conley |
-| 737 | 200 | Victoria Smith |
-| 738 | 200 | Yellowguy3 |
-| 739 | 199 | brite |
+| 732 | 202 | Alexandrla Smith |
+| 733 | 202 | Messy Live |
+| 734 | 202 | Marbama |
+| 735 | 200 | RylonJones |
+| 736 | 200 | Jimmy Shannon |
+| 737 | 200 | Kyle Conley |
+| 738 | 200 | Victoria Smith |
+| 739 | 200 | Yellowguy3 |
 | 740 | 199 | Mami Badd |
 | 741 | 198 | Rhianna Dinki Austin |
 | 742 | 198 | Stephen Garland |
-| 743 | 198 | Darrelle Short |
-| 744 | 198 | Frances Davis |
-| 745 | 198 | Shannon Carriger |
+| 743 | 198 | Frances Davis |
+| 744 | 198 | Shannon Carriger |
+| 745 | 198 | Darrelle Short |
 | 746 | 198 | Cornelius Neal |
 | 747 | 197 | krd |
 | 748 | 197 | Seddrick |
@@ -803,22 +803,22 @@
 | 795 | 182 | Meow Meow |
 | 796 | 182 | Tempee |
 | 797 | 182 | Comedian Prince Paul |
-| 798 | 181 | Melissa Hershberger |
-| 799 | 181 | Spicy Tiler |
-| 800 | 180 | NedaWin |
-| 801 | 180 | Kanary Karotz |
-| 802 | 180 | Keith Big-Sixx Mackell |
-| 803 | 180 | Nikita Jones |
-| 804 | 180 | Tory Miller |
-| 805 | 179 | Cheery Swiper |
-| 806 | 179 | Wacky Stackbuilder |
-| 807 | 179 | Analesia Taylor |
-| 808 | 179 | Kike Lua |
-| 809 | 179 | Keith Johnson |
-| 810 | 179 | Naee Bee |
-| 811 | 178 | Maxine Williams |
-| 812 | 178 | Jjhandsome |
-| 813 | 178 | MrsDontPlay |
+| 798 | 182 | MrsDontPlay |
+| 799 | 181 | Melissa Hershberger |
+| 800 | 181 | Spicy Tiler |
+| 801 | 180 | NedaWin |
+| 802 | 180 | Kanary Karotz |
+| 803 | 180 | Keith Big-Sixx Mackell |
+| 804 | 180 | Nikita Jones |
+| 805 | 180 | Tory Miller |
+| 806 | 179 | Cheery Swiper |
+| 807 | 179 | Wacky Stackbuilder |
+| 808 | 179 | Analesia Taylor |
+| 809 | 179 | Kike Lua |
+| 810 | 179 | Keith Johnson |
+| 811 | 179 | Naee Bee |
+| 812 | 178 | Maxine Williams |
+| 813 | 178 | Jjhandsome |
 | 814 | 178 | Krista McNair |
 | 815 | 178 | TRUBBLE45 |
 | 816 | 177 | Angela Kitchens |
@@ -826,14 +826,14 @@
 | 818 | 177 | QueenShay AllGood |
 | 819 | 177 | Megan Jones |
 | 820 | 177 | Christopher L Crites |
-| 821 | 176 | LaSharmeika Fancher |
+| 821 | 176 | Alexis Alexander |
 | 822 | 176 | Squaw Ki Ng |
 | 823 | 176 | Crystal Garay |
 | 824 | 176 | Frisky Gridder |
-| 825 | 176 | Alexis Alexander |
+| 825 | 176 | LaSharmeika Fancher |
 | 826 | 176 | Callie Mae |
-| 827 | 176 | Terrie |
-| 828 | 176 | Poppy Smasher |
+| 827 | 176 | Poppy Smasher |
+| 828 | 176 | Terrie |
 | 829 | 175 | Ozell Jones Jr. |
 | 830 | 175 | DaemahnFriday |
 | 831 | 175 | Angie Smith |
@@ -848,8 +848,8 @@
 | 840 | 171 | Locke Mahal LD |
 | 841 | 171 | Pinky Pink |
 | 842 | 170 | Aaron Sohnrey |
-| 843 | 170 | Devron Reedy |
-| 844 | 170 | Mikemike Zonethree |
+| 843 | 170 | Mikemike Zonethree |
+| 844 | 170 | Devron Reedy |
 | 845 | 170 | Ashley Davis |
 | 846 | 169 | rb |
 | 847 | 169 | Sunny Clicky |
@@ -857,13 +857,13 @@
 | 849 | 168 | Seirra Robinson |
 | 850 | 168 | DoMinique Lee |
 | 851 | 168 | Mrs.Ann |
-| 852 | 168 | Meeee |
-| 853 | 167 | Felicia Woods |
-| 854 | 166 | Desi Guerra |
-| 855 | 166 | Amaadi Ward |
-| 856 | 166 | Rochelle Nash-Evans |
-| 857 | 166 | Motown Chuck |
-| 858 | 166 | Derald Miller |
+| 852 | 168 | Derald Miller |
+| 853 | 168 | Meeee |
+| 854 | 167 | Felicia Woods |
+| 855 | 166 | Desi Guerra |
+| 856 | 166 | Amaadi Ward |
+| 857 | 166 | Rochelle Nash-Evans |
+| 858 | 166 | Motown Chuck |
 | 859 | 166 | Sallie Sanborn |
 | 860 | 165 | Silly Edgepiece |
 | 861 | 165 | Kashh |
