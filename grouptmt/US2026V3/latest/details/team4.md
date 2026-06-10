@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 07:32:43 UTC
+# Standings for team4 as of 2026-06-10 07:33:21 UTC
 
 **Total Participants:** 2293
 
@@ -211,14 +211,14 @@
 | 203 | 681 | Janet Sanfilippo Sullivan |
 | 204 | 678 | Katie Lynn Petit |
 | 205 | 678 | Megan Vick |
-| 206 | 671 | Chuck Burns |
+| 206 | 677 | Chuck Burns |
 | 207 | 662 | Danielle Mitchell |
 | 208 | 660 | Wanda Simmons |
 | 209 | 651 | Jewelz |
 | 210 | 651 | Dayna Arthurs |
-| 211 | 650 | Genag |
-| 212 | 650 | Snippy Splitter |
-| 213 | 650 | Beth Belanger |
+| 211 | 650 | Snippy Splitter |
+| 212 | 650 | Beth Belanger |
+| 213 | 650 | Genag |
 | 214 | 647 | Laguya |
 | 215 | 644 | Krysten Danielle Richard |
 | 216 | 641 | Waxboss |
@@ -227,13 +227,13 @@
 | 219 | 632 | Baysoph |
 | 220 | 627 | Erika Seaton |
 | 221 | 626 | Lush Fitblock |
-| 222 | 623 | Leslie Ann Carter |
-| 223 | 620 | Saucy Wipepiece |
-| 224 | 618 | Iforget |
-| 225 | 617 | Alex Armour |
-| 226 | 616 | Renee Sapp |
-| 227 | 616 | Toon Up |
-| 228 | 615 | Kelly Howland |
+| 222 | 625 | Kelly Howland |
+| 223 | 623 | Leslie Ann Carter |
+| 224 | 620 | Saucy Wipepiece |
+| 225 | 618 | Iforget |
+| 226 | 617 | Alex Armour |
+| 227 | 616 | Renee Sapp |
+| 228 | 616 | Toon Up |
 | 229 | 613 | Big Dooka |
 | 230 | 607 | Samara Garcia |
 | 231 | 607 | Taz |
