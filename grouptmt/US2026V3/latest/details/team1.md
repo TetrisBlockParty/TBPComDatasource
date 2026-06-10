@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 14:20:46 UTC
+# Standings for team1 as of 2026-06-10 14:21:23 UTC
 
 **Total Participants:** 2275
 
@@ -106,11 +106,11 @@
 | 98 | 1405 | Sarah Marie |
 | 99 | 1400 | FallDee |
 | 100 | 1394 | Ashley Espeut |
-| 101 | 1384 | Robbie Cheeseman |
-| 102 | 1380 | Jason Mungin |
-| 103 | 1370 | Jonathan Vee Jay |
-| 104 | 1355 | Whitney Butler |
-| 105 | 1352 | She Higgy |
+| 101 | 1392 | She Higgy |
+| 102 | 1384 | Robbie Cheeseman |
+| 103 | 1380 | Jason Mungin |
+| 104 | 1370 | Jonathan Vee Jay |
+| 105 | 1355 | Whitney Butler |
 | 106 | 1349 | Court Court |
 | 107 | 1327 | Dawn L Washington-Feuquay |
 | 108 | 1326 | Cj Gorman |
@@ -398,11 +398,11 @@
 | 390 | 393 | Jai |
 | 391 | 391 | HarleyJane |
 | 392 | 390 | Jean Regis |
-| 393 | 387 | kitten |
-| 394 | 386 | De'Mear McKinney |
-| 395 | 386 | Ashley MyBeauty Daniels |
-| 396 | 385 | Jennah |
-| 397 | 382 | Shea Ladynick Henderson |
+| 393 | 388 | Shea Ladynick Henderson |
+| 394 | 387 | kitten |
+| 395 | 386 | De'Mear McKinney |
+| 396 | 386 | Ashley MyBeauty Daniels |
+| 397 | 385 | Jennah |
 | 398 | 381 | Lisa Fletcher |
 | 399 | 381 | Faith Armone |
 | 400 | 381 | SeanSanchez |
