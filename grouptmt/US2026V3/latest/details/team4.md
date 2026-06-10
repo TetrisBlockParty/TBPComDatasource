@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:38:44 UTC
+# Standings for team4 as of 2026-06-10 10:39:23 UTC
 
 **Total Participants:** 2306
 
@@ -58,7 +58,7 @@
 | 50 | 3323 | Carly Stempien |
 | 51 | 3150 | Destiny Dyer |
 | 52 | 3100 | Posey Smith |
-| 53 | 2991 | Dana Abegil Lawas |
+| 53 | 3012 | Dana Abegil Lawas |
 | 54 | 2960 | Alicia Cook |
 | 55 | 2839 | 626 |
 | 56 | 2800 | Caitlin Johnson |
@@ -235,20 +235,20 @@
 | 227 | 627 | Erika Seaton |
 | 228 | 626 | Lush Fitblock |
 | 229 | 623 | Leslie Ann Carter |
-| 230 | 620 | Saucy Wipepiece |
-| 231 | 618 | Iforget |
-| 232 | 616 | Renee Sapp |
-| 233 | 616 | Toon Up |
-| 234 | 614 | Jacqueline Jackii Ramos |
-| 235 | 614 | Logan Two-dubs Baker |
-| 236 | 613 | Big Dooka |
-| 237 | 607 | Samara Garcia |
-| 238 | 607 | Taz |
-| 239 | 606 | Addi JayKay |
-| 240 | 606 | Jackie Miller |
-| 241 | 602 | Spicy Chicken |
-| 242 | 600 | Tina Thomas |
-| 243 | 599 | Matthew Hudson |
+| 230 | 621 | Matthew Hudson |
+| 231 | 620 | Saucy Wipepiece |
+| 232 | 618 | Iforget |
+| 233 | 616 | Renee Sapp |
+| 234 | 616 | Toon Up |
+| 235 | 614 | Jacqueline Jackii Ramos |
+| 236 | 614 | Logan Two-dubs Baker |
+| 237 | 613 | Big Dooka |
+| 238 | 607 | Samara Garcia |
+| 239 | 607 | Taz |
+| 240 | 606 | Addi JayKay |
+| 241 | 606 | Jackie Miller |
+| 242 | 602 | Spicy Chicken |
+| 243 | 600 | Tina Thomas |
 | 244 | 596 | Samantha Worley |
 | 245 | 593 | Vanessa Sykes |
 | 246 | 592 | Sarah Berry Stevens |
