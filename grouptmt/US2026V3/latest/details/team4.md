@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 15:22:46 UTC
+# Standings for team4 as of 2026-06-10 15:23:24 UTC
 
 **Total Participants:** 2336
 
@@ -924,74 +924,74 @@
 | 916 | 167 | Kuar T Ejen |
 | 917 | 167 | Conela Rouse Goldstein |
 | 918 | 167 | Tray Day |
-| 919 | 166 | Jillian Marie |
-| 920 | 166 | medicjessi |
-| 921 | 166 | Nachos |
-| 922 | 165 | Vicente Bolaños Jr. |
-| 923 | 165 | Corey Jackson |
-| 924 | 164 | Chad Finton |
-| 925 | 164 | LyvWyre |
-| 926 | 163 | Giggy Blockpiece |
+| 919 | 166 | Giggy Blockpiece |
+| 920 | 166 | Jillian Marie |
+| 921 | 166 | medicjessi |
+| 922 | 166 | Nachos |
+| 923 | 165 | Vicente Bolaños Jr. |
+| 924 | 165 | Corey Jackson |
+| 925 | 164 | Chad Finton |
+| 926 | 164 | LyvWyre |
 | 927 | 163 | Emily Lowe |
 | 928 | 162 | BethB |
-| 929 | 162 | Lush Twisterfit |
-| 930 | 162 | Fancy Riser |
-| 931 | 161 | JustLessie |
-| 932 | 161 | Amber Torres |
-| 933 | 161 | Melissa Schwager |
+| 929 | 162 | Fancy Riser |
+| 930 | 162 | Lush Twisterfit |
+| 931 | 161 | Melissa Schwager |
+| 932 | 161 | JustLessie |
+| 933 | 161 | Amber Torres |
 | 934 | 161 | SuperJen |
-| 935 | 160 | Cozy Staggerpiece |
-| 936 | 160 | Aleta Svitak |
-| 937 | 160 | Sha Ta Nay Mitchell |
+| 935 | 160 | Stephanie Meinhart |
+| 936 | 160 | Sha Ta Nay Mitchell |
+| 937 | 160 | CorieBe |
 | 938 | 160 | Glamorous Gracey |
-| 939 | 160 | Stephanie Meinhart |
-| 940 | 160 | CorieBe |
-| 941 | 160 | Charissa W Walton |
-| 942 | 159 | Ali Garcia |
-| 943 | 159 | Mari Isaac |
+| 939 | 160 | Charissa W Walton |
+| 940 | 160 | Cozy Staggerpiece |
+| 941 | 160 | Aleta Svitak |
+| 942 | 159 | Mari Isaac |
+| 943 | 159 | Loony Edge |
 | 944 | 159 | Tracy Marino |
-| 945 | 159 | Gualberto Ramirez |
-| 946 | 159 | JJ Merc |
-| 947 | 159 | Loony Edge |
-| 948 | 158 | Lamont |
+| 945 | 159 | Krazylegzzzz |
+| 946 | 159 | Ali Garcia |
+| 947 | 159 | Gualberto Ramirez |
+| 948 | 159 | JJ Merc |
 | 949 | 158 | Breezy Rollfit |
-| 950 | 158 | Kelli Miller |
-| 951 | 158 | Cozy Builderfit |
-| 952 | 157 | Marie Lily |
-| 953 | 157 | TheazO |
-| 954 | 157 | Bam SwaggSpitter King |
+| 950 | 158 | Lamont |
+| 951 | 158 | Kelli Miller |
+| 952 | 158 | Cozy Builderfit |
+| 953 | 157 | Marie Lily |
+| 954 | 157 | TheazO |
 | 955 | 157 | Andy Petersen |
-| 956 | 157 | Yournightmare |
-| 957 | 156 | Vergie Michael |
+| 956 | 157 | Bam SwaggSpitter King |
+| 957 | 157 | Yournightmare |
 | 958 | 156 | Slinky Snapfit |
-| 959 | 156 | Miranda Brown |
-| 960 | 156 | Kenyatta Davis |
-| 961 | 155 | Krystal Simpson |
-| 962 | 155 | Frisky Pusher |
-| 963 | 155 | Ashley McGeehan |
-| 964 | 155 | idk240 |
-| 965 | 155 | Shayna Vaigneur-Hall |
-| 966 | 155 | Marisela Alvarado |
-| 967 | 155 | Kristen Lester |
-| 968 | 154 | Krazylegzzzz |
+| 959 | 156 | Vergie Michael |
+| 960 | 156 | Miranda Brown |
+| 961 | 156 | Kenyatta Davis |
+| 962 | 155 | Krystal Simpson |
+| 963 | 155 | Frisky Pusher |
+| 964 | 155 | Ashley McGeehan |
+| 965 | 155 | idk240 |
+| 966 | 155 | Shayna Vaigneur-Hall |
+| 967 | 155 | Marisela Alvarado |
+| 968 | 155 | Kristen Lester |
 | 969 | 154 | Mrs.J2013 |
 | 970 | 154 | Chelsea Pigg |
-| 971 | 153 | Ajohnna Frazee |
-| 972 | 153 | JUNE |
-| 973 | 153 | Joyce Hampton |
-| 974 | 153 | Melissa Anne |
-| 975 | 153 | Littleshark |
-| 976 | 153 | Shawntae Mccary |
-| 977 | 153 | Lilo |
-| 978 | 152 | Bhakti Sawarkar |
-| 979 | 152 | Hotstuff |
-| 980 | 152 | Loyalty83 |
-| 981 | 151 | Jason Moves |
-| 982 | 151 | MsThick SrtLady Williams |
-| 983 | 151 | Joha Mldo Castillo |
-| 984 | 151 | David Kirschner |
-| 985 | 151 | Barbara Mays |
-| 986 | 151 | Steve Swanson |
+| 971 | 154 | Steve Swanson |
+| 972 | 153 | Ajohnna Frazee |
+| 973 | 153 | JUNE |
+| 974 | 153 | Joyce Hampton |
+| 975 | 153 | Melissa Anne |
+| 976 | 153 | Littleshark |
+| 977 | 153 | Shawntae Mccary |
+| 978 | 153 | Lilo |
+| 979 | 152 | Bhakti Sawarkar |
+| 980 | 152 | Hotstuff |
+| 981 | 152 | Loyalty83 |
+| 982 | 151 | Jason Moves |
+| 983 | 151 | MsThick SrtLady Williams |
+| 984 | 151 | Joha Mldo Castillo |
+| 985 | 151 | David Kirschner |
+| 986 | 151 | Barbara Mays |
 | 987 | 150 | Snippy Fitblock |
 | 988 | 150 | Kay |
 | 989 | 150 | h_chloe10 |
