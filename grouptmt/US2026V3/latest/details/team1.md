@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 12:18:45 UTC
+# Standings for team1 as of 2026-06-10 12:19:22 UTC
 
 **Total Participants:** 2265
 
@@ -555,14 +555,14 @@
 | 547 | 286 | Zappy Clearfit |
 | 548 | 286 | Boldy Matchbuilder |
 | 549 | 283 | Kristie |
-| 550 | 283 | lizlizliz |
-| 551 | 283 | Phillip Vasquez |
-| 552 | 282 | Perky Pusher |
-| 553 | 282 | Marlainia Boyd |
-| 554 | 282 | Andra Ward |
-| 555 | 282 | Tanisha Taylor |
-| 556 | 281 | Terri Smart |
-| 557 | 281 | Kimmie Gargano |
+| 550 | 283 | Kimmie Gargano |
+| 551 | 283 | lizlizliz |
+| 552 | 283 | Phillip Vasquez |
+| 553 | 282 | Perky Pusher |
+| 554 | 282 | Marlainia Boyd |
+| 555 | 282 | Andra Ward |
+| 556 | 282 | Tanisha Taylor |
+| 557 | 281 | Terri Smart |
 | 558 | 280 | Slinky Swipe |
 | 559 | 279 | Loopy Tiler |
 | 560 | 279 | Slinky Clearzone |
@@ -591,53 +591,53 @@
 | 583 | 268 | Casey Chapman |
 | 584 | 268 | Monica Tovar |
 | 585 | 267 | Adrian Harris |
-| 586 | 266 | Chris Holland |
-| 587 | 266 | Valerie Alexander |
+| 586 | 266 | Valerie Alexander |
+| 587 | 266 | Chris Holland |
 | 588 | 265 | SceneGreenz Wali |
 | 589 | 265 | Kortney Adams |
 | 590 | 264 | Juan Santiago |
 | 591 | 264 | Donna Payne |
-| 592 | 263 | Stephanie Ellis |
-| 593 | 263 | Kim Holzmiller |
-| 594 | 261 | Lucy |
-| 595 | 261 | PSD |
-| 596 | 260 | Nisha Sunshine Jenkins |
-| 597 | 260 | Lester Malone |
+| 592 | 263 | Kim Holzmiller |
+| 593 | 263 | Stephanie Ellis |
+| 594 | 261 | PSD |
+| 595 | 261 | Lucy |
+| 596 | 260 | Ashley Danielle |
+| 597 | 260 | Jen Hallin |
 | 598 | 260 | Spotlight |
-| 599 | 260 | Ashley Danielle |
-| 600 | 260 | Jen Hallin |
+| 599 | 260 | Nisha Sunshine Jenkins |
+| 600 | 260 | Lester Malone |
 | 601 | 259 | Blocksy |
-| 602 | 258 | Jjhandsome |
-| 603 | 258 | Kala Miller |
+| 602 | 258 | Kala Miller |
+| 603 | 258 | Jjhandsome |
 | 604 | 257 | Darrel Pemberton |
 | 605 | 256 | Dreamzzz |
 | 606 | 256 | John Spath |
 | 607 | 256 | Monica Fields |
 | 608 | 255 | Michelle Peters |
 | 609 | 255 | Mathew Trudell |
-| 610 | 254 | Ashlie Mo |
-| 611 | 254 | Brittany Sara Heldwein |
-| 612 | 254 | Dorian Griffin |
+| 610 | 254 | Dorian Griffin |
+| 611 | 254 | BB |
+| 612 | 254 | Brittany Sara Heldwein |
 | 613 | 254 | Cheryl Miller |
-| 614 | 254 | BB |
+| 614 | 254 | Ashlie Mo |
 | 615 | 253 | Nyhlah Patterson |
 | 616 | 252 | Mary Phillippi Blanton |
-| 617 | 252 | Lazy Tiltpiece |
-| 618 | 252 | Shakuria Cortia Burney |
-| 619 | 251 | meatballs |
-| 620 | 251 | Taz Ballard |
-| 621 | 250 | Rufus |
+| 617 | 252 | Shakuria Cortia Burney |
+| 618 | 252 | Lazy Tiltpiece |
+| 619 | 251 | Taz Ballard |
+| 620 | 251 | meatballs |
+| 621 | 251 | Zappy Snapgrid |
 | 622 | 250 | Tony Pizzas |
-| 623 | 249 | Fina McKinnis |
+| 623 | 250 | Rufus |
 | 624 | 249 | Jose Rodriguez |
-| 625 | 248 | Carla |
-| 626 | 247 | LaShawyn Wood |
-| 627 | 247 | Courtney Cicoria |
-| 628 | 247 | Tyler |
-| 629 | 246 | Lilly Brown |
-| 630 | 246 | Juicy |
-| 631 | 246 | AshyTay |
-| 632 | 245 | Zappy Snapgrid |
+| 625 | 249 | Fina McKinnis |
+| 626 | 248 | Carla |
+| 627 | 247 | LaShawyn Wood |
+| 628 | 247 | Courtney Cicoria |
+| 629 | 247 | Tyler |
+| 630 | 246 | Lilly Brown |
+| 631 | 246 | Juicy |
+| 632 | 246 | AshyTay |
 | 633 | 245 | Loony Clearer |
 | 634 | 245 | Katrina Ramey |
 | 635 | 245 | Lynnette WheelerBushnell |
@@ -928,11 +928,11 @@
 | 920 | 159 | Mellie Mel |
 | 921 | 158 | Tina Bongcayao |
 | 922 | 158 | Danny M GR |
-| 923 | 158 | TotoCherue |
-| 924 | 158 | Chloe Bankz |
-| 925 | 158 | Heru Ogun Yeshua EL |
-| 926 | 158 | P C |
-| 927 | 157 | Kidgib5 |
+| 923 | 158 | Kidgib5 |
+| 924 | 158 | TotoCherue |
+| 925 | 158 | Chloe Bankz |
+| 926 | 158 | Heru Ogun Yeshua EL |
+| 927 | 158 | P C |
 | 928 | 157 | Sheesh |
 | 929 | 157 | JesusSaves 😇 |
 | 930 | 156 | Esha I'msoproudofmyself Davis |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:18:45 UTC
+# Standings for team4 as of 2026-06-10 12:19:22 UTC
 
 **Total Participants:** 2316
 
@@ -192,16 +192,16 @@
 | 184 | 775 | Baysoph |
 | 185 | 764 | Shocinda Sherwood |
 | 186 | 762 | LastBoi |
-| 187 | 760 | Anthony Magaraci |
-| 188 | 753 | Anthony Lewis |
-| 189 | 750 | Genag |
-| 190 | 749 | Nikki Fuller Johnson |
-| 191 | 748 | Lisa Garcia |
-| 192 | 745 | Gracie Ornelas |
-| 193 | 735 | Cinta Marie |
-| 194 | 730 | Magz |
-| 195 | 728 | Bonnie Powell |
-| 196 | 728 | Roxana Romero |
+| 187 | 760 | Magz |
+| 188 | 760 | Anthony Magaraci |
+| 189 | 753 | Anthony Lewis |
+| 190 | 750 | Genag |
+| 191 | 749 | Nikki Fuller Johnson |
+| 192 | 748 | Lisa Garcia |
+| 193 | 745 | Gracie Ornelas |
+| 194 | 735 | Cinta Marie |
+| 195 | 728 | Roxana Romero |
+| 196 | 728 | Bonnie Powell |
 | 197 | 728 | Neeta Kapadia |
 | 198 | 725 | iiPurgeV2 |
 | 199 | 723 | zoes |
@@ -213,8 +213,8 @@
 | 205 | 700 | Suzanne Carter |
 | 206 | 697 | Linda Miltenburg |
 | 207 | 686 | Jennifer Ellyn Sheets |
-| 208 | 684 | Caitlyn Wang |
-| 209 | 684 | Shannon Rivera |
+| 208 | 684 | Shannon Rivera |
+| 209 | 684 | Caitlyn Wang |
 | 210 | 683 | Malik Thompson |
 | 211 | 681 | Janet Sanfilippo Sullivan |
 | 212 | 680 | Saucy Wipepiece |
@@ -838,12 +838,12 @@
 | 830 | 187 | Brandi Gray |
 | 831 | 187 | Heather Garrity |
 | 832 | 187 | Ricky Colvin |
-| 833 | 186 | Amber Jalbert |
-| 834 | 185 | Street724 |
-| 835 | 185 | Tre'nya Smith |
-| 836 | 185 | Ilia Blake |
-| 837 | 184 | Chilly Pop |
-| 838 | 184 | Sunny Tiltbuilder |
+| 833 | 187 | Sunny Tiltbuilder |
+| 834 | 186 | Amber Jalbert |
+| 835 | 185 | Street724 |
+| 836 | 185 | Tre'nya Smith |
+| 837 | 185 | Ilia Blake |
+| 838 | 184 | Chilly Pop |
 | 839 | 184 | Virgil Mayfield-Brown |
 | 840 | 184 | Dizzy |
 | 841 | 184 | Maliyah An |
