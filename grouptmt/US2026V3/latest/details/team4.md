@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 23:02:45 UTC
+# Standings for team4 as of 2026-06-10 23:03:25 UTC
 
 **Total Participants:** 2394
 
@@ -236,9 +236,9 @@
 | 228 | 696 | Jackie Miller |
 | 229 | 696 | Danielle Mitchell |
 | 230 | 695 | Toon Up |
-| 231 | 680 | Saucy Wipepiece |
-| 232 | 678 | Iforget |
-| 233 | 676 | Tricia Motika Cowan |
+| 231 | 691 | Tricia Motika Cowan |
+| 232 | 680 | Saucy Wipepiece |
+| 233 | 678 | Iforget |
 | 234 | 673 | Tyson Stroppel |
 | 235 | 670 | Beth Belanger |
 | 236 | 669 | Vanessa Sykes |
@@ -526,21 +526,21 @@
 | 518 | 323 | Lacie Powers |
 | 519 | 323 | Garden Girlie |
 | 520 | 323 | Dubiousdust |
-| 521 | 323 | Teester |
-| 522 | 322 | Winter Moon |
-| 523 | 320 | Dandy Cascade |
-| 524 | 320 | Tesa Mike Jenkins |
-| 525 | 320 | Goofy Linkmatch |
-| 526 | 320 | Butterfly |
-| 527 | 319 | JoAnn Summerlot Ratliff |
-| 528 | 319 | Azahares Alonso |
-| 529 | 319 | Snazzy Fitclear |
-| 530 | 317 | Elli Wright |
-| 531 | 317 | crobb77 |
-| 532 | 317 | Erik Clary |
-| 533 | 316 | Dawn Phelps |
-| 534 | 315 | Littlebrat |
-| 535 | 315 | Daniel Lossman |
+| 521 | 323 | Daniel Lossman |
+| 522 | 323 | Teester |
+| 523 | 322 | Winter Moon |
+| 524 | 320 | Dandy Cascade |
+| 525 | 320 | Tesa Mike Jenkins |
+| 526 | 320 | Goofy Linkmatch |
+| 527 | 320 | Butterfly |
+| 528 | 319 | JoAnn Summerlot Ratliff |
+| 529 | 319 | Azahares Alonso |
+| 530 | 319 | Snazzy Fitclear |
+| 531 | 317 | Elli Wright |
+| 532 | 317 | crobb77 |
+| 533 | 317 | Erik Clary |
+| 534 | 316 | Dawn Phelps |
+| 535 | 315 | Littlebrat |
 | 536 | 315 | Travis McKinnon |
 | 537 | 315 | ariel |
 | 538 | 315 | gabs |
@@ -585,11 +585,11 @@
 | 577 | 292 | Rachel Lemos |
 | 578 | 291 | Valerie Silva |
 | 579 | 290 | LaTanya GeminiondaRise Johnson |
-| 580 | 290 | Funky Rollzone |
-| 581 | 290 | Christina Barry |
-| 582 | 288 | Mighty1 |
-| 583 | 288 | MattJennifer Marie Ericson |
-| 584 | 288 | Kandylands |
+| 580 | 290 | Kandylands |
+| 581 | 290 | Funky Rollzone |
+| 582 | 290 | Christina Barry |
+| 583 | 288 | Mighty1 |
+| 584 | 288 | MattJennifer Marie Ericson |
 | 585 | 288 | Happy Shatterfit |
 | 586 | 288 | Sarah |
 | 587 | 287 | Alyssa Berg |
@@ -2051,35 +2051,35 @@
 | 2043 | 23 | Anthony Cushing |
 | 2044 | 23 | Terrick Robinson |
 | 2045 | 23 | Loony Brickzone |
-| 2046 | 23 | Jennifer Dixon |
-| 2047 | 23 | Frank Brown |
-| 2048 | 23 | Anthony Pickens |
-| 2049 | 23 | Lisa Jo Merwin |
-| 2050 | 23 | Crafty Builderfit |
-| 2051 | 23 | Jacquibaybee |
-| 2052 | 23 | Mystie Malotte |
-| 2053 | 23 | Katie Stewart |
-| 2054 | 22 | Chipper Brickfit |
-| 2055 | 22 | Kelli Hurt |
-| 2056 | 22 | Catherine Sandoval |
-| 2057 | 22 | Renee Short Anthony |
-| 2058 | 22 | Slinky Edgefit |
-| 2059 | 22 | Sarah McAllister |
-| 2060 | 22 | Chipper Bridger |
-| 2061 | 22 | Bianca Harris |
-| 2062 | 22 | Diana Torres |
-| 2063 | 22 | happycappy |
+| 2046 | 23 | Katie Stewart |
+| 2047 | 23 | Anthony Pickens |
+| 2048 | 23 | Lorrie Lane Cummings |
+| 2049 | 23 | Mystie Malotte |
+| 2050 | 23 | Jacquibaybee |
+| 2051 | 23 | Crafty Builderfit |
+| 2052 | 23 | Jennifer Dixon |
+| 2053 | 23 | Frank Brown |
+| 2054 | 23 | Lisa Jo Merwin |
+| 2055 | 22 | Chipper Bridger |
+| 2056 | 22 | Chipper Brickfit |
+| 2057 | 22 | Kelli Hurt |
+| 2058 | 22 | Catherine Sandoval |
+| 2059 | 22 | Renee Short Anthony |
+| 2060 | 22 | Slinky Edgefit |
+| 2061 | 22 | Sarah McAllister |
+| 2062 | 22 | Bianca Harris |
+| 2063 | 22 | Diana Torres |
 | 2064 | 22 | ThickyJicky |
-| 2065 | 22 | McScrubby |
-| 2066 | 22 | Richierich Gonzalez |
-| 2067 | 21 | Tha Don |
-| 2068 | 21 | Happy shelli |
-| 2069 | 21 | Luluski Ward |
-| 2070 | 21 | Honnala Vaughn |
-| 2071 | 21 | Froggyone |
-| 2072 | 21 | ITSME |
-| 2073 | 21 | Eltōfy |
-| 2074 | 21 | Lorrie Lane Cummings |
+| 2065 | 22 | happycappy |
+| 2066 | 22 | McScrubby |
+| 2067 | 22 | Richierich Gonzalez |
+| 2068 | 21 | Tha Don |
+| 2069 | 21 | Happy shelli |
+| 2070 | 21 | Froggyone |
+| 2071 | 21 | Luluski Ward |
+| 2072 | 21 | Honnala Vaughn |
+| 2073 | 21 | ITSME |
+| 2074 | 21 | Eltōfy |
 | 2075 | 21 | Zanny |
 | 2076 | 21 | Hope Fallen |
 | 2077 | 21 | Ak Jones |
