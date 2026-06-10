@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:36:44 UTC
+# Standings for team4 as of 2026-06-10 09:37:22 UTC
 
 **Total Participants:** 2298
 
@@ -205,10 +205,10 @@
 | 197 | 720 | Magz |
 | 198 | 716 | Devinlee Brown |
 | 199 | 710 | Chuck Burns |
-| 200 | 705 | Katie Martin |
-| 201 | 701 | Megan Vick |
-| 202 | 700 | Suzanne Carter |
-| 203 | 698 | Neeta Kapadia |
+| 200 | 706 | Neeta Kapadia |
+| 201 | 705 | Katie Martin |
+| 202 | 701 | Megan Vick |
+| 203 | 700 | Suzanne Carter |
 | 204 | 697 | Linda Miltenburg |
 | 205 | 686 | Jennifer Ellyn Sheets |
 | 206 | 684 | Shannon Rivera |
@@ -745,82 +745,82 @@
 | 737 | 207 | Ashley DuVall |
 | 738 | 207 | Jasmine Turner |
 | 739 | 207 | LaToya LeBlanc |
-| 740 | 206 | Sandy Daye |
-| 741 | 206 | Groovy Stacker |
+| 740 | 206 | Groovy Stacker |
+| 741 | 206 | Sandy Daye |
 | 742 | 206 | Deana Teck |
 | 743 | 205 | MrsAddams724 |
 | 744 | 204 | Megan Lynn |
-| 745 | 204 | Brenda Gustamantes |
-| 746 | 203 | Gma420 |
-| 747 | 203 | Goofy Strike |
-| 748 | 202 | Shaneé Staunton |
-| 749 | 202 | Ashley Nichole Skamra |
-| 750 | 202 | Clever Patterner |
-| 751 | 202 | MrLoner Stoner |
-| 752 | 201 | Frilly Zoney |
+| 745 | 204 | Stefanie Street |
+| 746 | 204 | Brenda Gustamantes |
+| 747 | 203 | Gma420 |
+| 748 | 203 | Goofy Strike |
+| 749 | 202 | Shaneé Staunton |
+| 750 | 202 | Ashley Nichole Skamra |
+| 751 | 202 | Clever Patterner |
+| 752 | 202 | MrLoner Stoner |
 | 753 | 201 | Abby Waterman |
-| 754 | 201 | Kimberly Mae Watkins |
-| 755 | 201 | Tipsy Patternfit |
-| 756 | 200 | Jessica Caminos |
-| 757 | 200 | Blockcrusher |
-| 758 | 200 | Jenn Wilson |
-| 759 | 200 | Kristine Hj Han |
-| 760 | 200 | Kiara Itzel Crowe |
-| 761 | 200 | Sierra A Hortman |
-| 762 | 200 | Melissa Derby Rood |
-| 763 | 199 | Andretta Sellers Robinson |
-| 764 | 199 | Nicole Dombrow |
-| 765 | 199 | Cozy Patternline |
-| 766 | 199 | Gigi5 |
-| 767 | 199 | Janet Willoughby |
-| 768 | 199 | Lindsey DeRosa |
-| 769 | 199 | Elena Marí |
-| 770 | 198 | Lana Tran |
-| 771 | 198 | Lizzzzzz |
-| 772 | 198 | Has2brat |
-| 773 | 197 | Yvette Johnson |
+| 754 | 201 | Frilly Zoney |
+| 755 | 201 | Kimberly Mae Watkins |
+| 756 | 201 | Tipsy Patternfit |
+| 757 | 200 | Jessica Caminos |
+| 758 | 200 | Blockcrusher |
+| 759 | 200 | Jenn Wilson |
+| 760 | 200 | Kristine Hj Han |
+| 761 | 200 | Kiara Itzel Crowe |
+| 762 | 200 | Sierra A Hortman |
+| 763 | 200 | Melissa Derby Rood |
+| 764 | 199 | Andretta Sellers Robinson |
+| 765 | 199 | Janet Willoughby |
+| 766 | 199 | Nicole Dombrow |
+| 767 | 199 | Cozy Patternline |
+| 768 | 199 | Gigi5 |
+| 769 | 199 | Lindsey DeRosa |
+| 770 | 199 | Elena Marí |
+| 771 | 198 | Lana Tran |
+| 772 | 198 | Lizzzzzz |
+| 773 | 198 | Has2brat |
 | 774 | 197 | Toria |
 | 775 | 197 | Mighty1 |
-| 776 | 197 | Millie Hoskins |
-| 777 | 196 | Tipsy Matchline |
-| 778 | 196 | Bigmamalizzet Latto |
+| 776 | 197 | Yvette Johnson |
+| 777 | 197 | Millie Hoskins |
+| 778 | 196 | Tipsy Matchline |
 | 779 | 196 | Surviving Be Back Soon |
-| 780 | 196 | David Lay |
-| 781 | 195 | Stefanie Street |
-| 782 | 195 | Reina Pagan |
-| 783 | 195 | Samantha Lohmeyer |
-| 784 | 195 | Trishaann Triplett |
-| 785 | 195 | Freddy-B |
-| 786 | 194 | Gerald Richard Franke |
-| 787 | 194 | Jennifer Brucz |
-| 788 | 194 | Stotty |
-| 789 | 194 | Csigirlnc |
+| 780 | 196 | Bigmamalizzet Latto |
+| 781 | 196 | David Lay |
+| 782 | 195 | Trishaann Triplett |
+| 783 | 195 | Reina Pagan |
+| 784 | 195 | Freddy-B |
+| 785 | 195 | Samantha Lohmeyer |
+| 786 | 194 | Stotty |
+| 787 | 194 | Gerald Richard Franke |
+| 788 | 194 | Csigirlnc |
+| 789 | 194 | Jennifer Brucz |
 | 790 | 193 | Fancy Rollfit |
-| 791 | 193 | Sweetfire |
-| 792 | 193 | Paulina Deitrick |
-| 793 | 193 | Kimberly Devon |
+| 791 | 193 | Paulina Deitrick |
+| 792 | 193 | Kimberly Devon |
+| 793 | 193 | Sweetfire |
 | 794 | 192 | Ralph Hell Rell Williams |
 | 795 | 192 | MsChelleAnn |
 | 796 | 192 | Chris |
 | 797 | 191 | Snappy Stack |
 | 798 | 191 | Miguel Teixeira |
-| 799 | 190 | Billy Baker |
+| 799 | 190 | Robert Crow |
 | 800 | 190 | Simone |
-| 801 | 190 | Natalie Ohrtman Strand |
-| 802 | 190 | Layne Davis |
-| 803 | 190 | Name |
-| 804 | 190 | Robert Crow |
+| 801 | 190 | Billy Baker |
+| 802 | 190 | Name |
+| 803 | 190 | Natalie Ohrtman Strand |
+| 804 | 190 | Layne Davis |
 | 805 | 190 | TeQuita Jennings |
-| 806 | 189 | Sarah |
-| 807 | 189 | Nessa Smith |
-| 808 | 189 | Lisa Ferriero-Daudin |
+| 806 | 189 | Lisa Ferriero-Daudin |
+| 807 | 189 | Sarah |
+| 808 | 189 | Nessa Smith |
 | 809 | 188 | Erika Rubio |
-| 810 | 187 | Monica Shupe |
-| 811 | 187 | Alicia Blunt |
-| 812 | 187 | Kelly Miller Williams |
-| 813 | 187 | Heather Garrity |
-| 814 | 187 | Ricky Colvin |
-| 815 | 187 | Brandi Gray |
+| 810 | 187 | Ricky Colvin |
+| 811 | 187 | Brandi Gray |
+| 812 | 187 | Alicia Blunt |
+| 813 | 187 | Monica Shupe |
+| 814 | 187 | Heather Garrity |
+| 815 | 187 | Kelly Miller Williams |
 | 816 | 186 | Amber Jalbert |
 | 817 | 185 | Tre'nya Smith |
 | 818 | 185 | Ilia Blake |
@@ -874,18 +874,18 @@
 | 866 | 173 | Patsy |
 | 867 | 173 | Scot Matthew Bergdorf |
 | 868 | 173 | Tarsha Thomas-Martinez |
-| 869 | 173 | Lizard |
-| 870 | 172 | Christina Williams |
-| 871 | 172 | Poptart |
-| 872 | 172 | Renzo Tonini |
-| 873 | 171 | Ian T Parker |
-| 874 | 171 | Bouncy Clusterline |
-| 875 | 171 | Carlos Amaya |
-| 876 | 171 | Witty Fitblock |
-| 877 | 171 | Darryl Shufford |
-| 878 | 170 | Jill Chapman-Yancer |
+| 869 | 173 | Shannon Foster |
+| 870 | 173 | Lizard |
+| 871 | 172 | Christina Williams |
+| 872 | 172 | Poptart |
+| 873 | 172 | Renzo Tonini |
+| 874 | 171 | Ian T Parker |
+| 875 | 171 | Bouncy Clusterline |
+| 876 | 171 | Carlos Amaya |
+| 877 | 171 | Witty Fitblock |
+| 878 | 171 | Darryl Shufford |
 | 879 | 170 | Kayla Haddenham |
-| 880 | 170 | Shannon Foster |
+| 880 | 170 | Jill Chapman-Yancer |
 | 881 | 170 | LaRue Tee |
 | 882 | 170 | Christina Hagan |
 | 883 | 169 | Jt Home |
