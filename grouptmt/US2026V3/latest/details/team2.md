@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 10:24:45 UTC
+# Standings for team2 as of 2026-06-10 10:25:22 UTC
 
 **Total Participants:** 2722
 
@@ -234,10 +234,10 @@
 | 226 | 777 | Amie Marks |
 | 227 | 777 | Alison Waller |
 | 228 | 776 | Becca Marie |
-| 229 | 774 | Denise Morehart |
-| 230 | 773 | Katrien |
-| 231 | 768 | Danielle Blount |
-| 232 | 754 | Mouh Med |
+| 229 | 774 | Mouh Med |
+| 230 | 774 | Denise Morehart |
+| 231 | 773 | Katrien |
+| 232 | 768 | Danielle Blount |
 | 233 | 751 | Cool Climber |
 | 234 | 750 | Mom |
 | 235 | 750 | Tisha Hairston |
@@ -746,16 +746,16 @@
 | 738 | 254 | Aubrey Gates |
 | 739 | 254 | Cozy Cascade |
 | 740 | 253 | Teloney Humphrey |
-| 741 | 252 | Kimberly Davis |
-| 742 | 251 | Paula |
-| 743 | 251 | Melissa Pronovost |
-| 744 | 251 | BugMansMom |
-| 745 | 251 | Jennifer Leigh |
-| 746 | 251 | Melissa Fink |
-| 747 | 250 | Epic Framezone |
-| 748 | 250 | Daring Spinzone |
-| 749 | 250 | Happy Drop |
-| 750 | 250 | Ryan Rhodes |
+| 741 | 253 | Ryan Rhodes |
+| 742 | 252 | Kimberly Davis |
+| 743 | 251 | Paula |
+| 744 | 251 | Melissa Pronovost |
+| 745 | 251 | BugMansMom |
+| 746 | 251 | Jennifer Leigh |
+| 747 | 251 | Melissa Fink |
+| 748 | 250 | Epic Framezone |
+| 749 | 250 | Daring Spinzone |
+| 750 | 250 | Happy Drop |
 | 751 | 250 | Kim Powers |
 | 752 | 249 | Treau Torres |
 | 753 | 249 | MamaRachel |
