@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 13:12:45 UTC
+# Standings for team4 as of 2026-06-10 13:13:24 UTC
 
 **Total Participants:** 2323
 
@@ -303,14 +303,14 @@
 | 295 | 497 | Pandala Mandala |
 | 296 | 496 | jaz |
 | 297 | 496 | Randy M Hatch |
-| 298 | 494 | Yesenia Castro Monreal |
-| 299 | 489 | Slinky Column |
-| 300 | 488 | Aramat |
-| 301 | 488 | matt |
-| 302 | 487 | Plucky Shatterfit |
-| 303 | 483 | Melika Zeheb |
-| 304 | 482 | RotatedWrongAgain |
-| 305 | 482 | Tasha Suzanne Prisbrey |
+| 298 | 495 | Tasha Suzanne Prisbrey |
+| 299 | 494 | Yesenia Castro Monreal |
+| 300 | 489 | Slinky Column |
+| 301 | 488 | Aramat |
+| 302 | 488 | matt |
+| 303 | 487 | Plucky Shatterfit |
+| 304 | 483 | Melika Zeheb |
+| 305 | 482 | RotatedWrongAgain |
 | 306 | 481 | Swanky Brickzone |
 | 307 | 480 | Adam Dickinson |
 | 308 | 477 | Amandacolle |
@@ -547,46 +547,46 @@
 | 539 | 285 | ariel |
 | 540 | 285 | Karen Denise Ann Veitch |
 | 541 | 285 | Christina Barry |
-| 542 | 285 | gabs |
-| 543 | 285 | Littlebrat |
+| 542 | 285 | Littlebrat |
+| 543 | 285 | gabs |
 | 544 | 284 | Brandi Sauer |
 | 545 | 282 | sierrabeth |
-| 546 | 282 | Travis McKinnon |
-| 547 | 281 | Margie Thomas |
-| 548 | 280 | Alice Eisnor-Martens |
+| 546 | 282 | Dolores Falco |
+| 547 | 282 | Travis McKinnon |
+| 548 | 281 | Margie Thomas |
 | 549 | 280 | Giddy Basepiece |
 | 550 | 280 | Snazzy Fitclear |
-| 551 | 279 | JoAnn Summerlot Ratliff |
-| 552 | 279 | Heidi Anne Scheiderer |
-| 553 | 279 | LandO |
-| 554 | 279 | Krystal Dixon-Hahn |
-| 555 | 278 | Kandylands |
-| 556 | 278 | Sally Hiraldo |
-| 557 | 277 | Deborah Silberg |
+| 551 | 280 | Alice Eisnor-Martens |
+| 552 | 279 | JoAnn Summerlot Ratliff |
+| 553 | 279 | Heidi Anne Scheiderer |
+| 554 | 279 | LandO |
+| 555 | 279 | Krystal Dixon-Hahn |
+| 556 | 278 | Kandylands |
+| 557 | 278 | Sally Hiraldo |
 | 558 | 277 | Jeremy Barry |
-| 559 | 277 | Manolo Canety |
-| 560 | 277 | Dolores Falco |
+| 559 | 277 | Deborah Silberg |
+| 560 | 277 | Manolo Canety |
 | 561 | 277 | CrashOutCarla |
 | 562 | 276 | Susan Stofberg Beltran |
 | 563 | 275 | Lovetetris |
 | 564 | 274 | REPENT |
 | 565 | 274 | shonaberry |
-| 566 | 273 | Kierra Evans |
-| 567 | 273 | Rita Ann |
+| 566 | 273 | Rita Ann |
+| 567 | 273 | Kierra Evans |
 | 568 | 273 | Anthony Edwards |
 | 569 | 272 | Sharon Tyler |
-| 570 | 271 | Jerett Coplin |
-| 571 | 271 | Leasa Marie |
-| 572 | 271 | EpicWizard |
-| 573 | 271 | crobb77 |
+| 570 | 271 | Leasa Marie |
+| 571 | 271 | EpicWizard |
+| 572 | 271 | crobb77 |
+| 573 | 271 | Jerett Coplin |
 | 574 | 270 | Lisa Pie |
 | 575 | 270 | MattJennifer Marie Ericson |
 | 576 | 270 | Jennifer Evans Elliott |
 | 577 | 270 | Alexia Boston |
 | 578 | 269 | Dominique Summers Tah-tah |
 | 579 | 269 | Montes Ash |
-| 580 | 269 | Playa |
-| 581 | 269 | Jordan Tamayia Williams |
+| 580 | 269 | Jordan Tamayia Williams |
+| 581 | 269 | Playa |
 | 582 | 268 | Kendall Rhodie |
 | 583 | 268 | Andreas Vs Shinky |
 | 584 | 267 | Swanky Snapgrid |
@@ -1267,30 +1267,30 @@
 | 1259 | 99 | Stevonne Roberts |
 | 1260 | 99 | Amori85 |
 | 1261 | 99 | Tamika Ashli Bonner |
-| 1262 | 99 | Alicia |
-| 1263 | 99 | Jane M Tiller |
+| 1262 | 99 | Jane M Tiller |
+| 1263 | 99 | Alicia |
 | 1264 | 99 | Ricardo Arias |
 | 1265 | 99 | Lateasha Wildman |
 | 1266 | 99 | Courtney Miller |
-| 1267 | 98 | Melissa Rathbun |
+| 1267 | 98 | katy |
 | 1268 | 98 | Teresa Lescinskas |
-| 1269 | 98 | katy |
+| 1269 | 98 | Melissa Rathbun |
 | 1270 | 98 | Chelsea Leigh Busch |
 | 1271 | 98 | SweetMomma |
 | 1272 | 97 | Skylar Durk |
-| 1273 | 97 | Mike Artis |
-| 1274 | 97 | NotAkaren Barker |
-| 1275 | 97 | Danielle Porter |
-| 1276 | 97 | Limbo |
-| 1277 | 97 | Caroline Peralta |
-| 1278 | 96 | Smiley Wipeblock |
-| 1279 | 96 | Joshua Conwell |
-| 1280 | 96 | Tiffany Taylor |
-| 1281 | 96 | Curved carrot |
-| 1282 | 95 | Jasmine Griffin |
+| 1273 | 97 | Caroline Peralta |
+| 1274 | 97 | Clever Linkfall |
+| 1275 | 97 | Mike Artis |
+| 1276 | 97 | NotAkaren Barker |
+| 1277 | 97 | Danielle Porter |
+| 1278 | 97 | Limbo |
+| 1279 | 96 | Smiley Wipeblock |
+| 1280 | 96 | Joshua Conwell |
+| 1281 | 96 | Tiffany Taylor |
+| 1282 | 96 | Curved carrot |
 | 1283 | 95 | Hyper Balancepiece |
 | 1284 | 95 | Jeremy Fisher |
-| 1285 | 95 | Clever Linkfall |
+| 1285 | 95 | Jasmine Griffin |
 | 1286 | 95 | LilithMoon |
 | 1287 | 95 | Kristie McFarland |
 | 1288 | 94 | Ronald Kent Hall |
@@ -1410,9 +1410,9 @@
 | 1402 | 78 | Zappy Matchgrid |
 | 1403 | 78 | Tracy Ann Frederick |
 | 1404 | 78 | Christopher Lindsey |
-| 1405 | 78 | Doris Wastak |
-| 1406 | 78 | kellyhyatt |
-| 1407 | 77 | Cheery Basegrid |
+| 1405 | 78 | Cheery Basegrid |
+| 1406 | 78 | Doris Wastak |
+| 1407 | 78 | kellyhyatt |
 | 1408 | 77 | Heather Cross High |
 | 1409 | 77 | Stuart Crosby |
 | 1410 | 77 | Shannon Lee |
@@ -1430,8 +1430,8 @@
 | 1422 | 76 | Ksawn Collymore-bey Collymore-bey |
 | 1423 | 76 | Sunny Bricky |
 | 1424 | 76 | Jazzy Smasher |
-| 1425 | 75 | White As Snow |
-| 1426 | 75 | Spunky Risegrid |
+| 1425 | 75 | Spunky Risegrid |
+| 1426 | 75 | White As Snow |
 | 1427 | 75 | Bri |
 | 1428 | 75 | Gary Moore |
 | 1429 | 75 | Ali Nicole |
