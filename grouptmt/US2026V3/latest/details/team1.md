@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 16:56:46 UTC
+# Standings for team1 as of 2026-06-10 16:57:24 UTC
 
 **Total Participants:** 2302
 
@@ -601,22 +601,22 @@
 | 593 | 278 | AnnaM |
 | 594 | 276 | Peppy Glider |
 | 595 | 275 | Chris Sladoje |
-| 596 | 275 | Michelle Peters |
+| 596 | 275 | Meshia |
 | 597 | 275 | MzJuice Box |
-| 598 | 274 | Zany Breaker |
-| 599 | 273 | Kamilya Rembert |
-| 600 | 272 | wmedina67 |
-| 601 | 272 | Koreen Johnson-Woolford |
-| 602 | 272 | Felicia Dungey |
-| 603 | 272 | Simply-Beautiful007 |
-| 604 | 270 | Meshia |
+| 598 | 275 | Michelle Peters |
+| 599 | 274 | Zany Breaker |
+| 600 | 273 | Kamilya Rembert |
+| 601 | 272 | Felicia Dungey |
+| 602 | 272 | wmedina67 |
+| 603 | 272 | Koreen Johnson-Woolford |
+| 604 | 272 | Simply-Beautiful007 |
 | 605 | 270 | Jen Hallin |
-| 606 | 269 | PSD |
+| 606 | 269 | Stephanie L Jeffries Moultrie |
 | 607 | 269 | RylonJones |
-| 608 | 269 | Stephanie L Jeffries Moultrie |
+| 608 | 269 | PSD |
 | 609 | 268 | Monica Tovar |
-| 610 | 267 | Adrian Harris |
-| 611 | 267 | Kelvin Cook |
+| 610 | 267 | Kelvin Cook |
+| 611 | 267 | Adrian Harris |
 | 612 | 267 | Dana Hawes |
 | 613 | 266 | Stephanie Ellis |
 | 614 | 266 | BB |
@@ -1403,9 +1403,9 @@
 | 1395 | 72 | Butta |
 | 1396 | 72 | Chummy Liner |
 | 1397 | 72 | Darryl Love |
-| 1398 | 71 | Joseph Ware Jr. |
-| 1399 | 71 | Shona ShayShay Jones |
-| 1400 | 71 | Chip |
+| 1398 | 72 | Chip |
+| 1399 | 71 | Joseph Ware Jr. |
+| 1400 | 71 | Shona ShayShay Jones |
 | 1401 | 71 | Lora Lee |
 | 1402 | 71 | Swanky Riserfit |
 | 1403 | 71 | Hasty Builder |
