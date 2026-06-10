@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 06:36:44 UTC
+# Standings for team4 as of 2026-06-10 06:37:22 UTC
 
 **Total Participants:** 2287
 
@@ -137,8 +137,8 @@
 | 129 | 1050 | Jason Garnatz |
 | 130 | 1046 | Hairy Snake |
 | 131 | 1046 | Irma |
-| 132 | 1042 | Futrell Brent |
-| 133 | 1027 | CJ |
+| 132 | 1043 | CJ |
+| 133 | 1042 | Futrell Brent |
 | 134 | 1008 | Loony Glidepiece |
 | 135 | 997 | Blayne Kole |
 | 136 | 992 | Keesha Muro |
@@ -884,29 +884,29 @@
 | 876 | 166 | Jillian Marie |
 | 877 | 166 | Wacky Brick |
 | 878 | 166 | Ben Figueroa |
-| 879 | 165 | Corey Jackson |
-| 880 | 164 | Shannon Foster |
-| 881 | 164 | Chad Finton |
-| 882 | 163 | Tony Clark |
-| 883 | 163 | Emily Lowe |
-| 884 | 163 | Electric Storm |
-| 885 | 162 | Trishaann Triplett |
-| 886 | 162 | Frilly Riserpiece |
-| 887 | 162 | Vicente Bolaños Jr. |
-| 888 | 162 | Miguel Teixeira |
-| 889 | 162 | BethB |
-| 890 | 162 | Fancy Riser |
-| 891 | 162 | Renzo Tonini |
+| 879 | 165 | Renzo Tonini |
+| 880 | 165 | Corey Jackson |
+| 881 | 164 | Shannon Foster |
+| 882 | 164 | Chad Finton |
+| 883 | 163 | Tony Clark |
+| 884 | 163 | Emily Lowe |
+| 885 | 163 | Electric Storm |
+| 886 | 162 | Trishaann Triplett |
+| 887 | 162 | Frilly Riserpiece |
+| 888 | 162 | Vicente Bolaños Jr. |
+| 889 | 162 | Miguel Teixeira |
+| 890 | 162 | BethB |
+| 891 | 162 | Fancy Riser |
 | 892 | 162 | Lush Twisterfit |
 | 893 | 161 | Melissa Schwager |
 | 894 | 161 | Hilarie Detweiler |
 | 895 | 161 | Certified Da Don |
 | 896 | 161 | JustLessie |
 | 897 | 160 | Charissa W Walton |
-| 898 | 160 | George Marshburn |
-| 899 | 160 | Bumpy Morris |
-| 900 | 160 | Glamorous Gracey |
-| 901 | 160 | Sha Ta Nay Mitchell |
+| 898 | 160 | Bumpy Morris |
+| 899 | 160 | Glamorous Gracey |
+| 900 | 160 | Sha Ta Nay Mitchell |
+| 901 | 160 | George Marshburn |
 | 902 | 160 | Dexter Hammond Jr |
 | 903 | 160 | Stephanie Meinhart |
 | 904 | 160 | Pickles |
@@ -1422,31 +1422,31 @@
 | 1414 | 72 | kellyhyatt |
 | 1415 | 71 | Tipsy Curvetile |
 | 1416 | 71 | Hyper Snaplink |
-| 1417 | 71 | Angelo L Casillas |
-| 1418 | 71 | Violet Mejia |
-| 1419 | 71 | Bouncy Blockclear |
-| 1420 | 71 | Jessica Armistead |
-| 1421 | 71 | Monique Kitzmiller |
-| 1422 | 70 | Jada Jordyn Campbell |
-| 1423 | 70 | rick mase |
-| 1424 | 70 | Kelli Wells Fuhr |
-| 1425 | 70 | T boo |
-| 1426 | 70 | Jolene Stieren |
+| 1417 | 71 | Ali Nicole |
+| 1418 | 71 | Angelo L Casillas |
+| 1419 | 71 | Violet Mejia |
+| 1420 | 71 | Bouncy Blockclear |
+| 1421 | 71 | Jessica Armistead |
+| 1422 | 71 | Monique Kitzmiller |
+| 1423 | 70 | T boo |
+| 1424 | 70 | Jada Jordyn Campbell |
+| 1425 | 70 | rick mase |
+| 1426 | 70 | Kelli Wells Fuhr |
 | 1427 | 70 | Dustin Bell |
-| 1428 | 70 | Syreeta B Robinson |
-| 1429 | 70 | Felicia May Langley |
-| 1430 | 69 | Tina Lopez |
-| 1431 | 69 | Liz R |
+| 1428 | 70 | Jolene Stieren |
+| 1429 | 70 | Syreeta B Robinson |
+| 1430 | 70 | Felicia May Langley |
+| 1431 | 69 | Tina Lopez |
 | 1432 | 69 | Monica Selwyn |
-| 1433 | 69 | Derrek Lee |
+| 1433 | 69 | Liz R |
 | 1434 | 69 | Felicity Fahrentin |
-| 1435 | 69 | Kristin Ussery |
-| 1436 | 68 | Fineassdee23 |
-| 1437 | 68 | Kelley Shoop |
-| 1438 | 68 | Keys Tome |
-| 1439 | 68 | Kelly Kabelac Loomis |
-| 1440 | 68 | Ali Nicole |
-| 1441 | 68 | Bold Snapper |
+| 1435 | 69 | Derrek Lee |
+| 1436 | 69 | Kristin Ussery |
+| 1437 | 68 | Bold Snapper |
+| 1438 | 68 | Kelley Shoop |
+| 1439 | 68 | Fineassdee23 |
+| 1440 | 68 | Kelly Kabelac Loomis |
+| 1441 | 68 | Keys Tome |
 | 1442 | 68 | Renée Neè Neè |
 | 1443 | 68 | Rizzler26 |
 | 1444 | 68 | Anna Griego |

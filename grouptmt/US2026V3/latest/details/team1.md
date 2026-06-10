@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:36:44 UTC
+# Standings for team1 as of 2026-06-10 06:37:22 UTC
 
 **Total Participants:** 2236
 
@@ -63,8 +63,8 @@
 | 55 | 2106 | Shellzb Roberts |
 | 56 | 2082 | D'Andra Stewart |
 | 57 | 2076 | April Inboden |
-| 58 | 2049 | Blockhead |
-| 59 | 2049 | Chris Caniglia |
+| 58 | 2049 | Chris Caniglia |
+| 59 | 2049 | Blockhead |
 | 60 | 1972 | Helen Smith |
 | 61 | 1972 | Robyn Caldwell |
 | 62 | 1962 | Ceilo Marie |
@@ -91,11 +91,11 @@
 | 83 | 1580 | MamaBear |
 | 84 | 1577 | Danielle DeLozier Plesec |
 | 85 | 1551 | Sanjuro |
-| 86 | 1513 | Snappy Link |
-| 87 | 1481 | LeeLee08 |
-| 88 | 1475 | PandaPrincess |
-| 89 | 1468 | Voice |
-| 90 | 1463 | Murg4dr01d |
+| 86 | 1519 | Murg4dr01d |
+| 87 | 1513 | Snappy Link |
+| 88 | 1481 | LeeLee08 |
+| 89 | 1475 | PandaPrincess |
+| 90 | 1468 | Voice |
 | 91 | 1441 | Rolanda Williams |
 | 92 | 1439 | Tameka Jones |
 | 93 | 1436 | La'Chae Nickole |
@@ -375,8 +375,8 @@
 | 367 | 392 | Poppy Buildout |
 | 368 | 391 | HarleyJane |
 | 369 | 390 | Jean Regis |
-| 370 | 387 | kitten |
-| 371 | 387 | Maribel Vasquez |
+| 370 | 388 | Maribel Vasquez |
+| 371 | 387 | kitten |
 | 372 | 386 | De'Mear McKinney |
 | 373 | 385 | Bubbly Piececlear |
 | 374 | 383 | Wayne Savannah |
