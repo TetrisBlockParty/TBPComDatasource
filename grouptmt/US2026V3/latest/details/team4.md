@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 23:30:46 UTC
+# Standings for team4 as of 2026-06-10 23:31:24 UTC
 
 **Total Participants:** 2400
 
@@ -221,37 +221,37 @@
 | 213 | 738 | Malik Thompson |
 | 214 | 738 | Megan Vick |
 | 215 | 735 | iiPurgeV2 |
-| 216 | 728 | Roxana Romero |
-| 217 | 726 | Brick House |
-| 218 | 723 | zoes |
-| 219 | 721 | Janet Sanfilippo Sullivan |
-| 220 | 718 | Snippy Splitter |
-| 221 | 716 | Celina DiBastiani |
-| 222 | 708 | Lush Fitblock |
-| 223 | 706 | Samantha Worley |
-| 224 | 706 | Toon Up |
-| 225 | 705 | Katie Martin |
-| 226 | 704 | Caitlyn Wang |
-| 227 | 702 | Bean |
-| 228 | 700 | Suzanne Carter |
+| 216 | 732 | Beth Belanger |
+| 217 | 728 | Roxana Romero |
+| 218 | 726 | Brick House |
+| 219 | 723 | zoes |
+| 220 | 721 | Janet Sanfilippo Sullivan |
+| 221 | 718 | Snippy Splitter |
+| 222 | 716 | Celina DiBastiani |
+| 223 | 708 | Lush Fitblock |
+| 224 | 706 | Samantha Worley |
+| 225 | 706 | Toon Up |
+| 226 | 705 | Katie Martin |
+| 227 | 704 | Caitlyn Wang |
+| 228 | 702 | Bean |
 | 229 | 700 | Shannon Rivera |
-| 230 | 696 | Danielle Mitchell |
-| 231 | 696 | Jackie Miller |
-| 232 | 691 | Tricia Motika Cowan |
-| 233 | 680 | Saucy Wipepiece |
-| 234 | 678 | Iforget |
-| 235 | 673 | Tyson Stroppel |
-| 236 | 670 | Beth Belanger |
+| 230 | 700 | Suzanne Carter |
+| 231 | 696 | Danielle Mitchell |
+| 232 | 696 | Jackie Miller |
+| 233 | 691 | Tricia Motika Cowan |
+| 234 | 680 | Saucy Wipepiece |
+| 235 | 678 | Iforget |
+| 236 | 673 | Tyson Stroppel |
 | 237 | 669 | Vanessa Sykes |
-| 238 | 663 | Laguya |
-| 239 | 663 | Kelly Howland |
+| 238 | 663 | Kelly Howland |
+| 239 | 663 | Laguya |
 | 240 | 657 | Katy |
 | 241 | 651 | Dayna Arthurs |
 | 242 | 651 | Jewelz |
 | 243 | 649 | Rebecca Watters |
-| 244 | 644 | Krysten Danielle Richard |
-| 245 | 644 | Tina Thomas |
-| 246 | 644 | Yesenia Castro Monreal |
+| 244 | 644 | Tina Thomas |
+| 245 | 644 | Yesenia Castro Monreal |
+| 246 | 644 | Krysten Danielle Richard |
 | 247 | 641 | Waxboss |
 | 248 | 639 | Merritt Brandt |
 | 249 | 637 | QueenLi86 |
@@ -268,8 +268,8 @@
 | 260 | 603 | Danny Keich III |
 | 261 | 599 | Real Talk Vibes |
 | 262 | 595 | tigerlilly |
-| 263 | 594 | Boldy Rumbler |
-| 264 | 594 | Shanna Fragen |
+| 263 | 594 | Shanna Fragen |
+| 264 | 594 | Boldy Rumbler |
 | 265 | 594 | Colin |
 | 266 | 593 | Jeremy |
 | 267 | 592 | Sarah Berry Stevens |
@@ -844,47 +844,47 @@
 | 836 | 205 | Simone |
 | 837 | 205 | MrsAddams724 |
 | 838 | 205 | Kristine Hj Han |
-| 839 | 204 | BigCup ReeseCup |
-| 840 | 204 | Tod Jae |
-| 841 | 204 | JUNE |
-| 842 | 204 | Jessica Caminos |
-| 843 | 204 | Jill Chapman-Yancer |
-| 844 | 203 | Worley’s Wife |
-| 845 | 203 | Goofy Strike |
-| 846 | 203 | Gma420 |
-| 847 | 203 | Nikcole Alexis Bryan |
-| 848 | 202 | Ashley Nichole Skamra |
-| 849 | 201 | Millie Hoskins |
-| 850 | 201 | Hilarie Detweiler |
-| 851 | 201 | Tipsy Patternfit |
-| 852 | 201 | Kimberly Mae Watkins |
-| 853 | 200 | Michelle Sager |
-| 854 | 200 | Bumpy Morris |
-| 855 | 200 | Alicia Blunt |
-| 856 | 200 | Jenn Wilson |
+| 839 | 205 | Surviving Be Back Soon |
+| 840 | 204 | BigCup ReeseCup |
+| 841 | 204 | Tod Jae |
+| 842 | 204 | JUNE |
+| 843 | 204 | Jessica Caminos |
+| 844 | 204 | Jill Chapman-Yancer |
+| 845 | 203 | Worley’s Wife |
+| 846 | 203 | Goofy Strike |
+| 847 | 203 | Gma420 |
+| 848 | 203 | Nikcole Alexis Bryan |
+| 849 | 202 | Ashley Nichole Skamra |
+| 850 | 201 | Millie Hoskins |
+| 851 | 201 | Hilarie Detweiler |
+| 852 | 201 | Tipsy Patternfit |
+| 853 | 201 | Kimberly Mae Watkins |
+| 854 | 200 | Michelle Sager |
+| 855 | 200 | Bumpy Morris |
+| 856 | 200 | Alicia Blunt |
 | 857 | 200 | Dexter Hammond Jr |
-| 858 | 200 | Freddy-B |
-| 859 | 200 | Sierra A Hortman |
-| 860 | 200 | April Richardson Morgan |
-| 861 | 200 | Melissa Derby Rood |
-| 862 | 200 | Conela Rouse Goldstein |
-| 863 | 199 | Frilly Riserpiece |
-| 864 | 199 | Nicole Dombrow |
-| 865 | 199 | Janet Willoughby |
-| 866 | 199 | Andretta Sellers Robinson |
-| 867 | 199 | Lindsey DeRosa |
-| 868 | 199 | Surviving Be Back Soon |
-| 869 | 199 | Tre'nya Smith |
-| 870 | 199 | Elena Marí |
-| 871 | 199 | Gigi5 |
-| 872 | 198 | Has2brat |
-| 873 | 198 | Lana Tran |
+| 858 | 200 | Jenn Wilson |
+| 859 | 200 | Freddy-B |
+| 860 | 200 | Sierra A Hortman |
+| 861 | 200 | April Richardson Morgan |
+| 862 | 200 | Melissa Derby Rood |
+| 863 | 200 | Conela Rouse Goldstein |
+| 864 | 199 | Frilly Riserpiece |
+| 865 | 199 | Nicole Dombrow |
+| 866 | 199 | Janet Willoughby |
+| 867 | 199 | Andretta Sellers Robinson |
+| 868 | 199 | Lindsey DeRosa |
+| 869 | 199 | Elena Marí |
+| 870 | 199 | Gigi5 |
+| 871 | 199 | Tre'nya Smith |
+| 872 | 198 | Lana Tran |
+| 873 | 198 | Has2brat |
 | 874 | 198 | Giggy Bridgepiece |
 | 875 | 197 | Toria |
 | 876 | 197 | Gracey Po |
-| 877 | 197 | Yournightmare |
+| 877 | 197 | Yvette Johnson |
 | 878 | 197 | Alex Dawn |
-| 879 | 197 | Yvette Johnson |
+| 879 | 197 | Yournightmare |
 | 880 | 196 | Kristen Nicole Depp-Stewart |
 | 881 | 196 | Tipsy Matchline |
 | 882 | 195 | Tray Day |
@@ -894,8 +894,8 @@
 | 886 | 194 | Jennifer Brucz |
 | 887 | 194 | Shirley Williams |
 | 888 | 193 | Ashley McGeehan |
-| 889 | 192 | Ralph Hell Rell Williams |
-| 890 | 192 | MsChelleAnn |
+| 889 | 192 | MsChelleAnn |
+| 890 | 192 | Ralph Hell Rell Williams |
 | 891 | 192 | Scot Matthew Bergdorf |
 | 892 | 192 | Chris |
 | 893 | 191 | Kasey Lynne |
