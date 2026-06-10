@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 03:14:45 UTC
+# Standings for team1 as of 2026-06-10 03:15:22 UTC
 
 **Total Participants:** 2195
 
@@ -277,13 +277,13 @@
 | 269 | 513 | Calvin Green |
 | 270 | 511 | Dizzy Dropper |
 | 271 | 507 | Dion Gray |
-| 272 | 502 | Chasem45 |
-| 273 | 502 | Jessica Russell |
-| 274 | 499 | Hailey Hil |
-| 275 | 498 | Michael Bethezar |
-| 276 | 498 | Julian Dickens Jr. |
-| 277 | 498 | Choc |
-| 278 | 497 | Clever Fitblock |
+| 272 | 503 | Clever Fitblock |
+| 273 | 502 | Chasem45 |
+| 274 | 502 | Jessica Russell |
+| 275 | 499 | Hailey Hil |
+| 276 | 498 | Michael Bethezar |
+| 277 | 498 | Julian Dickens Jr. |
+| 278 | 498 | Choc |
 | 279 | 497 | Qwlonda Shirrell |
 | 280 | 496 | Andre Sanon |
 | 281 | 496 | Slinky Brickmatch |
@@ -1261,114 +1261,114 @@
 | 1253 | 80 | Michael Gray |
 | 1254 | 80 | Lisa420 |
 | 1255 | 80 | Bianca Nawlinsgurl Ferguson |
-| 1256 | 80 | Smiley Glider |
-| 1257 | 80 | Ness |
-| 1258 | 80 | Alisha Dawson Crouch |
-| 1259 | 80 | Frothy Zoney |
+| 1256 | 80 | Ness |
+| 1257 | 80 | Alisha Dawson Crouch |
+| 1258 | 80 | Frothy Zoney |
+| 1259 | 80 | Smiley Glider |
 | 1260 | 80 | Rachel Lopez |
 | 1261 | 80 | Richard Harper |
-| 1262 | 80 | Chevalier Burley |
-| 1263 | 80 | Lady Scorpio |
-| 1264 | 80 | Trixie |
-| 1265 | 79 | Chinkey Overit |
-| 1266 | 78 | Amanda Colwell |
-| 1267 | 78 | Tara Clarke |
-| 1268 | 78 | sasha |
-| 1269 | 78 | Angela C. |
-| 1270 | 78 | Jose González |
-| 1271 | 78 | Dennis Ripley |
-| 1272 | 78 | Ray Baker |
-| 1273 | 77 | Tomme Poliwka |
-| 1274 | 77 | Mighty Riserbuilder |
-| 1275 | 77 | Clever Wrecker |
-| 1276 | 77 | Jeffrey Pierce-Overton |
-| 1277 | 77 | Ruth Ann Ruiz-Nakashima |
-| 1278 | 77 | E Dubb$ |
+| 1262 | 80 | Rande Smith |
+| 1263 | 80 | Chevalier Burley |
+| 1264 | 80 | Lady Scorpio |
+| 1265 | 80 | Trixie |
+| 1266 | 79 | Chinkey Overit |
+| 1267 | 79 | Ray Baker |
+| 1268 | 78 | Tara Clarke |
+| 1269 | 78 | Amanda Colwell |
+| 1270 | 78 | Dennis Ripley |
+| 1271 | 78 | sasha |
+| 1272 | 78 | Jose González |
+| 1273 | 78 | Angela C. |
+| 1274 | 77 | Tomme Poliwka |
+| 1275 | 77 | Ruth Ann Ruiz-Nakashima |
+| 1276 | 77 | Clever Wrecker |
+| 1277 | 77 | Mighty Riserbuilder |
+| 1278 | 77 | Jeffrey Pierce-Overton |
 | 1279 | 77 | Witty Snapbuilder |
-| 1280 | 77 | Renee J. Thomas |
-| 1281 | 77 | Lil T |
+| 1280 | 77 | E Dubb$ |
+| 1281 | 77 | Renee J. Thomas |
 | 1282 | 77 | Adonai Saves |
-| 1283 | 76 | Frilly Riserbuilder |
-| 1284 | 76 | AimlessRain |
-| 1285 | 76 | Mama P |
-| 1286 | 76 | Joy Marie |
+| 1283 | 77 | Lil T |
+| 1284 | 76 | Frilly Riserbuilder |
+| 1285 | 76 | AimlessRain |
+| 1286 | 76 | Mama P |
 | 1287 | 76 | Lush Crasher |
-| 1288 | 76 | Jane Lame |
-| 1289 | 75 | HBTone |
-| 1290 | 75 | Dana Hill |
-| 1291 | 75 | Khatyrah Burnette |
+| 1288 | 76 | Joy Marie |
+| 1289 | 76 | Jane Lame |
+| 1290 | 75 | HBTone |
+| 1291 | 75 | Dana Hill |
 | 1292 | 75 | Tina Criam |
-| 1293 | 75 | Y3llOWFAC3 |
-| 1294 | 75 | Candice Poe |
+| 1293 | 75 | Khatyrah Burnette |
+| 1294 | 75 | Y3llOWFAC3 |
 | 1295 | 75 | Courtney Robinson |
-| 1296 | 75 | Cathilia Rodriguez |
-| 1297 | 74 | Jaay Bender |
-| 1298 | 74 | Tetrisdestroyer |
-| 1299 | 74 | Embracing Hair |
-| 1300 | 74 | Riq Wokhardt |
-| 1301 | 73 | Ducc2408 |
-| 1302 | 73 | Desi |
+| 1296 | 75 | Candice Poe |
+| 1297 | 75 | Cathilia Rodriguez |
+| 1298 | 74 | Jaay Bender |
+| 1299 | 74 | Tetrisdestroyer |
+| 1300 | 74 | Embracing Hair |
+| 1301 | 74 | Riq Wokhardt |
+| 1302 | 73 | Ducc2408 |
 | 1303 | 73 | Harriet |
-| 1304 | 73 | Jaela Washington |
+| 1304 | 73 | Desi |
 | 1305 | 73 | Jonathan Zold |
-| 1306 | 73 | lovel |
+| 1306 | 73 | Jaela Washington |
 | 1307 | 73 | Breeze |
-| 1308 | 72 | MamaBearTiff |
-| 1309 | 72 | Jamie Mclean |
-| 1310 | 72 | tskmstr |
-| 1311 | 72 | SnazzySnippet |
-| 1312 | 72 | Chummy Liner |
-| 1313 | 72 | ImmeKC |
-| 1314 | 72 | BADBOY658 |
-| 1315 | 72 | Toohartless Mech |
-| 1316 | 72 | Darryl Love |
-| 1317 | 71 | Crafty Link |
-| 1318 | 71 | Zany Pivot |
-| 1319 | 71 | Melanie Houghton-McCann |
-| 1320 | 71 | Joseph Ware Jr. |
-| 1321 | 70 | RealOne95 |
-| 1322 | 70 | Alison Emmons |
-| 1323 | 70 | Leon Matthew Williams |
-| 1324 | 70 | JoZanna Washington |
-| 1325 | 70 | Eli Delao |
+| 1308 | 73 | lovel |
+| 1309 | 72 | Toohartless Mech |
+| 1310 | 72 | ImmeKC |
+| 1311 | 72 | Chummy Liner |
+| 1312 | 72 | SnazzySnippet |
+| 1313 | 72 | tskmstr |
+| 1314 | 72 | MamaBearTiff |
+| 1315 | 72 | BADBOY658 |
+| 1316 | 72 | Jamie Mclean |
+| 1317 | 72 | Melanie Houghton-McCann |
+| 1318 | 72 | Darryl Love |
+| 1319 | 71 | Joseph Ware Jr. |
+| 1320 | 71 | Crafty Link |
+| 1321 | 71 | Zany Pivot |
+| 1322 | 70 | Leon Matthew Williams |
+| 1323 | 70 | JoZanna Washington |
+| 1324 | 70 | Eli Delao |
+| 1325 | 70 | Alison Emmons |
 | 1326 | 70 | Jucee |
 | 1327 | 70 | Leon Brown III |
 | 1328 | 70 | B |
-| 1329 | 70 | Rande Smith |
+| 1329 | 70 | RealOne95 |
 | 1330 | 70 | Nedine Ray |
 | 1331 | 69 | Markeita Jones |
 | 1332 | 69 | BrettanMary Adkins |
 | 1333 | 68 | Lillie Blossom Dixon |
 | 1334 | 68 | Michelle Dollah |
-| 1335 | 68 | Saucy Crusher |
+| 1335 | 68 | Mississippigirl Countrygirl |
 | 1336 | 68 | LOVE |
-| 1337 | 68 | Daring Linkfall |
-| 1338 | 68 | Mississippigirl Countrygirl |
-| 1339 | 67 | Michele Elizabeth McKay-Johnson |
-| 1340 | 67 | Evelyn Epps |
-| 1341 | 66 | Iceman |
-| 1342 | 66 | Regina Hall |
-| 1343 | 66 | Jroc Tyra Taylor |
-| 1344 | 66 | Amanda Bell |
-| 1345 | 66 | Raquele Hines |
-| 1346 | 66 | J Dot Flo |
-| 1347 | 66 | Shardai She Gotit |
-| 1348 | 66 | Meluhnee |
-| 1349 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1350 | 66 | Kallsign |
-| 1351 | 65 | Brandon Knox |
-| 1352 | 65 | Shemeka Bates |
-| 1353 | 65 | April Ezell |
-| 1354 | 65 | Furlough Leslie |
-| 1355 | 65 | Goofy T-spin |
-| 1356 | 65 | Panda Vibes |
-| 1357 | 65 | Sarah Jones |
-| 1358 | 65 | Nockallday |
-| 1359 | 65 | Vonda House |
+| 1337 | 68 | Saucy Crusher |
+| 1338 | 68 | Daring Linkfall |
+| 1339 | 67 | Evelyn Epps |
+| 1340 | 67 | Michele Elizabeth McKay-Johnson |
+| 1341 | 66 | Meluhnee |
+| 1342 | 66 | Iceman |
+| 1343 | 66 | Regina Hall |
+| 1344 | 66 | Jroc Tyra Taylor |
+| 1345 | 66 | Amanda Bell |
+| 1346 | 66 | Kallsign |
+| 1347 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1348 | 66 | Raquele Hines |
+| 1349 | 66 | Shardai She Gotit |
+| 1350 | 66 | J Dot Flo |
+| 1351 | 65 | Vonda House |
+| 1352 | 65 | Brandon Knox |
+| 1353 | 65 | Furlough Leslie |
+| 1354 | 65 | Shemeka Bates |
+| 1355 | 65 | April Ezell |
+| 1356 | 65 | Goofy T-spin |
+| 1357 | 65 | Panda Vibes |
+| 1358 | 65 | Sarah Jones |
+| 1359 | 65 | Nockallday |
 | 1360 | 64 | Twisty Linkgrid |
-| 1361 | 64 | Giggly Dasher |
-| 1362 | 64 | BlessedBeauty |
-| 1363 | 64 | Scorpiogurl Cruz |
+| 1361 | 64 | BlessedBeauty |
+| 1362 | 64 | Scorpiogurl Cruz |
+| 1363 | 64 | Giggly Dasher |
 | 1364 | 64 | Frothy Snapmatch |
 | 1365 | 64 | Capt Kev |
 | 1366 | 63 | Torrie Eckrote |
@@ -1549,26 +1549,26 @@
 | 1541 | 45 | Matraca Young |
 | 1542 | 45 | Nicole |
 | 1543 | 45 | Jasmine Bates |
-| 1544 | 45 | toooooott |
-| 1545 | 45 | Cee Jones |
-| 1546 | 45 | Jason A Giantonio |
-| 1547 | 45 | Alexis Farquer |
-| 1548 | 45 | Joy Baker |
-| 1549 | 45 | Elizabeth Slater |
+| 1544 | 45 | Let Them |
+| 1545 | 45 | Joy Baker |
+| 1546 | 45 | toooooott |
+| 1547 | 45 | Cee Jones |
+| 1548 | 45 | Alexis Farquer |
+| 1549 | 45 | Jason A Giantonio |
 | 1550 | 45 | Angela Roseburgh |
-| 1551 | 44 | Ernest Maxwell |
-| 1552 | 44 | Connor Leon Cluff |
-| 1553 | 44 | MeatSweats |
-| 1554 | 44 | LadiGurl |
-| 1555 | 44 | Mary Kimmons |
-| 1556 | 44 | Spicy Risepiece |
-| 1557 | 44 | Nic Nic |
-| 1558 | 44 | Silly Shifter |
-| 1559 | 43 | Michelle Boutherpaper Francis |
-| 1560 | 43 | Frilly Lifter |
-| 1561 | 43 | Narena Desertsong |
+| 1551 | 45 | Elizabeth Slater |
+| 1552 | 44 | Mary Kimmons |
+| 1553 | 44 | Connor Leon Cluff |
+| 1554 | 44 | MeatSweats |
+| 1555 | 44 | LadiGurl |
+| 1556 | 44 | Ernest Maxwell |
+| 1557 | 44 | Spicy Risepiece |
+| 1558 | 44 | Nic Nic |
+| 1559 | 44 | Silly Shifter |
+| 1560 | 43 | Narena Desertsong |
+| 1561 | 43 | Frilly Lifter |
 | 1562 | 43 | Nicki JTho |
-| 1563 | 43 | Let Them |
+| 1563 | 43 | Michelle Boutherpaper Francis |
 | 1564 | 43 | Giggly Gridder |
 | 1565 | 43 | Speedy Glidezone |
 | 1566 | 43 | Plucky Dashgrid |
