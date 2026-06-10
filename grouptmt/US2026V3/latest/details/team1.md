@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:14:44 UTC
+# Standings for team1 as of 2026-06-10 06:15:23 UTC
 
 **Total Participants:** 2232
 
@@ -131,8 +131,8 @@
 | 123 | 1128 | Nutty Spinblock |
 | 124 | 1124 | Jaida King |
 | 125 | 1121 | Lisa Müller |
-| 126 | 1120 | IamJust Neyamijah Washington Sr. |
-| 127 | 1116 | Keeta Chickswit Scott |
+| 126 | 1121 | Keeta Chickswit Scott |
+| 127 | 1120 | IamJust Neyamijah Washington Sr. |
 | 128 | 1081 | Slim Shedidthat |
 | 129 | 1053 | Yolanda E Fergerson |
 | 130 | 1051 | Christana Imjustbutton Stone |
@@ -330,9 +330,9 @@
 | 322 | 450 | Ashleyy Netchert |
 | 323 | 449 | Shanaa Germany Crittenden |
 | 324 | 449 | Nerdy Climber |
-| 325 | 447 | StingerD |
-| 326 | 447 | Kyra Coleman |
-| 327 | 445 | Loopy Block |
+| 325 | 448 | Loopy Block |
+| 326 | 447 | StingerD |
+| 327 | 447 | Kyra Coleman |
 | 328 | 444 | Candy Lee |
 | 329 | 442 | Joana Thompson |
 | 330 | 441 | Lyn Reed |
@@ -426,8 +426,8 @@
 | 418 | 352 | BabyCakes |
 | 419 | 352 | Ann Chung |
 | 420 | 351 | Shameka Thrasher |
-| 421 | 350 | Glitzy Patternline |
-| 422 | 350 | Daddy |
+| 421 | 350 | Daddy |
+| 422 | 350 | Glitzy Patternline |
 | 423 | 350 | Kimberly Linares Hernandez |
 | 424 | 349 | Jae Thompson-Tyus |
 | 425 | 348 | CJ Robinson |
@@ -437,25 +437,25 @@
 | 429 | 343 | Tesiree Cray |
 | 430 | 342 | Ashley Monet Terrell |
 | 431 | 342 | Ryan Runyan |
-| 432 | 341 | Jolly Tilefall |
-| 433 | 341 | McKayla Owens |
-| 434 | 341 | Giggy Tower |
+| 432 | 341 | McKayla Owens |
+| 433 | 341 | Giggy Tower |
+| 434 | 341 | Jolly Tilefall |
 | 435 | 340 | Peppy Towerbuilder |
 | 436 | 338 | Twisty Brickfit |
-| 437 | 337 | Tonia Ramos |
-| 438 | 336 | Skippy |
-| 439 | 334 | kick it |
-| 440 | 334 | TBABYJ |
-| 441 | 334 | Emily Wright |
-| 442 | 333 | Heather Wilson |
-| 443 | 332 | SweetByNBy |
-| 444 | 332 | Betsy B. Yohan |
-| 445 | 330 | Tracey Johnson |
-| 446 | 329 | Shelly Everette |
-| 447 | 328 | Jelyfish |
-| 448 | 326 | Char |
+| 437 | 337 | Jessie N Michael Silvers |
+| 438 | 337 | Tonia Ramos |
+| 439 | 336 | Skippy |
+| 440 | 334 | kick it |
+| 441 | 334 | TBABYJ |
+| 442 | 334 | Emily Wright |
+| 443 | 333 | Heather Wilson |
+| 444 | 332 | SweetByNBy |
+| 445 | 332 | Betsy B. Yohan |
+| 446 | 330 | Tracey Johnson |
+| 447 | 329 | Shelly Everette |
+| 448 | 328 | Jelyfish |
 | 449 | 326 | Nate Myers |
-| 450 | 326 | Jessie N Michael Silvers |
+| 450 | 326 | Char |
 | 451 | 324 | Melissa D. M. Hornsby |
 | 452 | 324 | Jai |
 | 453 | 323 | Alyssa Rae |
@@ -463,11 +463,11 @@
 | 455 | 322 | Gbnola |
 | 456 | 321 | Montego Allen |
 | 457 | 320 | Shanns |
-| 458 | 319 | Donnie Withthebody |
-| 459 | 319 | MACHETEEDDIE513 |
+| 458 | 319 | MACHETEEDDIE513 |
+| 459 | 319 | Donnie Withthebody |
 | 460 | 319 | Nora Mahmoud |
-| 461 | 318 | Nerdy Snapfall |
-| 462 | 318 | Clint Mcdowell |
+| 461 | 318 | Clint Mcdowell |
+| 462 | 318 | Nerdy Snapfall |
 | 463 | 317 | Sammie Walker |
 | 464 | 316 | Brittany Fells |
 | 465 | 315 | Alivia Dove |
@@ -834,17 +834,17 @@
 | 826 | 176 | Frisky Gridder |
 | 827 | 176 | Crystal Garay |
 | 828 | 176 | Callie Mae |
-| 829 | 175 | Angie Smith |
+| 829 | 175 | Dizzy Gridmatch |
 | 830 | 175 | DaemahnFriday |
 | 831 | 175 | Ozell Jones Jr. |
-| 832 | 174 | Nerdy Wipefit |
-| 833 | 174 | Kizzy Clark |
-| 834 | 174 | Jason Saputo |
-| 835 | 173 | Claudia Price |
-| 836 | 173 | Meepycat |
-| 837 | 173 | DirtiestofMikes |
-| 838 | 172 | Li-Li Ratliff |
-| 839 | 172 | Dizzy Gridmatch |
+| 832 | 175 | Angie Smith |
+| 833 | 174 | Nerdy Wipefit |
+| 834 | 174 | Kizzy Clark |
+| 835 | 174 | Jason Saputo |
+| 836 | 173 | Claudia Price |
+| 837 | 173 | Meepycat |
+| 838 | 173 | DirtiestofMikes |
+| 839 | 172 | Li-Li Ratliff |
 | 840 | 171 | Pinky Pink |
 | 841 | 171 | Ta'Kaiyah M. Spann |
 | 842 | 171 | Locke Mahal LD |
@@ -1023,29 +1023,29 @@
 | 1015 | 128 | Fatty May |
 | 1016 | 127 | Barbramerri Tarboro |
 | 1017 | 127 | Pretty Yella |
-| 1018 | 127 | Caitlin Michele |
-| 1019 | 127 | Abdul Malik |
+| 1018 | 127 | Abdul Malik |
+| 1019 | 127 | Caitlin Michele |
 | 1020 | 127 | tk |
-| 1021 | 126 | April Lane |
-| 1022 | 126 | Sally Elizabeth Hopson |
-| 1023 | 125 | Rande Smith |
-| 1024 | 124 | Willson06 |
-| 1025 | 124 | jasi |
-| 1026 | 124 | Tyrone Porter |
-| 1027 | 124 | Lawanda Conley |
-| 1028 | 124 | Giggy Brickfit |
+| 1021 | 126 | Lawanda Conley |
+| 1022 | 126 | April Lane |
+| 1023 | 126 | Sally Elizabeth Hopson |
+| 1024 | 125 | Rande Smith |
+| 1025 | 124 | Willson06 |
+| 1026 | 124 | jasi |
+| 1027 | 124 | Giggy Brickfit |
+| 1028 | 124 | Tyrone Porter |
 | 1029 | 123 | Hoppy Buildsnap |
-| 1030 | 123 | Bunnie Celtavini |
+| 1030 | 123 | LaMinda Todd |
 | 1031 | 123 | Vivian Bunnell Myers |
 | 1032 | 123 | Xrandomx |
-| 1033 | 123 | LaMinda Todd |
+| 1033 | 123 | Bunnie Celtavini |
 | 1034 | 123 | Mamiyoung47 |
 | 1035 | 123 | Angela L Charles |
 | 1036 | 123 | Tia Hazelton |
-| 1037 | 122 | Nichole Horsley-Conn |
-| 1038 | 122 | Alonzo Kirkland |
-| 1039 | 122 | Nick Stowers |
-| 1040 | 122 | CauliMac |
+| 1037 | 122 | Nick Stowers |
+| 1038 | 122 | CauliMac |
+| 1039 | 122 | Alonzo Kirkland |
+| 1040 | 122 | Nichole Horsley-Conn |
 | 1041 | 122 | Spicy Hedgehog |
 | 1042 | 122 | Bluebino |
 | 1043 | 122 | Teisha Scott |
