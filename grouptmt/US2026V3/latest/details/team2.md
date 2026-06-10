@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 11:24:47 UTC
+# Standings for team2 as of 2026-06-10 11:25:24 UTC
 
 **Total Participants:** 2731
 
@@ -159,7 +159,7 @@
 | 151 | 1132 | Wmk Rathbun |
 | 152 | 1132 | Mirr Lulu |
 | 153 | 1130 | Allison Jarman |
-| 154 | 1121 | Jackie Tupper |
+| 154 | 1122 | Jackie Tupper |
 | 155 | 1115 | Spicy Risegrid |
 | 156 | 1108 | Tina Marie |
 | 157 | 1090 | Cristi Doris |
@@ -188,10 +188,10 @@
 | 180 | 912 | Havik Whitfield |
 | 181 | 898 | Giggly Wipepiece |
 | 182 | 886 | Sara Perkins |
-| 183 | 873 | Carebear05 |
-| 184 | 871 | Sandy Lynn |
-| 185 | 869 | SEH |
-| 186 | 866 | Fudgie Pie |
+| 183 | 883 | Fudgie Pie |
+| 184 | 873 | Carebear05 |
+| 185 | 871 | Sandy Lynn |
+| 186 | 869 | SEH |
 | 187 | 866 | Robin G |
 | 188 | 865 | Theresa Hollinger |
 | 189 | 864 | Jgato |
@@ -277,9 +277,9 @@
 | 269 | 671 | Krystal Hummel |
 | 270 | 671 | Breeana Bennett |
 | 271 | 670 | Michelle Powers Chattaway |
-| 272 | 667 | Iesha Cupil |
-| 273 | 667 | Bubbly Puzzler |
-| 274 | 664 | Laverne Ellis Blair |
+| 272 | 667 | Laverne Ellis Blair |
+| 273 | 667 | Iesha Cupil |
+| 274 | 667 | Bubbly Puzzler |
 | 275 | 662 | Michelle Rich Burkhart |
 | 276 | 660 | Mikia Stokes |
 | 277 | 651 | Rosalie Call Kehlenbeck |
@@ -732,24 +732,24 @@
 | 724 | 260 | Chris Christ |
 | 725 | 260 | Bouncy Snapmatch |
 | 726 | 259 | Quirky Shifter |
-| 727 | 259 | Momof2wigglebutts |
+| 727 | 259 | Nova |
 | 728 | 259 | Angie Kowalsky Olson |
-| 729 | 259 | Stella |
-| 730 | 258 | Julie Alexander Sykes |
-| 731 | 258 | Shellie Kioutas |
-| 732 | 258 | Christy Diane Escobar |
-| 733 | 257 | Marlo Perry |
-| 734 | 257 | Julie Brown |
-| 735 | 257 | Kevin Osbourne |
-| 736 | 257 | Judy Burkhalter |
-| 737 | 257 | Shannon Posner |
-| 738 | 256 | Epic Tilemaker |
-| 739 | 256 | Jolly Slice |
-| 740 | 256 | Connie McCoy |
-| 741 | 255 | Jessica Murphree |
-| 742 | 255 | Michael Anthony Anstead |
-| 743 | 255 | Kelli Pazour |
-| 744 | 254 | Nova |
+| 729 | 259 | Momof2wigglebutts |
+| 730 | 259 | Stella |
+| 731 | 258 | Julie Alexander Sykes |
+| 732 | 258 | Shellie Kioutas |
+| 733 | 258 | Christy Diane Escobar |
+| 734 | 257 | Marlo Perry |
+| 735 | 257 | Julie Brown |
+| 736 | 257 | Kevin Osbourne |
+| 737 | 257 | Judy Burkhalter |
+| 738 | 257 | Shannon Posner |
+| 739 | 256 | Epic Tilemaker |
+| 740 | 256 | Jolly Slice |
+| 741 | 256 | Connie McCoy |
+| 742 | 255 | Jessica Murphree |
+| 743 | 255 | Michael Anthony Anstead |
+| 744 | 255 | Kelli Pazour |
 | 745 | 254 | Jason Lamporte |
 | 746 | 254 | Aubrey Gates |
 | 747 | 254 | Cozy Cascade |
@@ -993,24 +993,24 @@
 | 985 | 186 | Tina Carr |
 | 986 | 185 | April Elaine Messenger |
 | 987 | 185 | Vicki Flippo |
-| 988 | 185 | Squared |
-| 989 | 185 | Clever Linkbuilder |
-| 990 | 184 | Melissa Abbott |
-| 991 | 184 | YAKO |
-| 992 | 184 | Rubics cube |
-| 993 | 184 | Tabitha Ann Bullins-Cobb |
-| 994 | 184 | Jackelyn Ford |
-| 995 | 184 | Dandy Brickbuilder |
-| 996 | 183 | Jennifer Augustine |
-| 997 | 183 | Jessi Ann |
+| 988 | 185 | Jessi Ann |
+| 989 | 185 | Squared |
+| 990 | 185 | Clever Linkbuilder |
+| 991 | 184 | Melissa Abbott |
+| 992 | 184 | YAKO |
+| 993 | 184 | Rubics cube |
+| 994 | 184 | Tabitha Ann Bullins-Cobb |
+| 995 | 184 | Jackelyn Ford |
+| 996 | 184 | Dandy Brickbuilder |
+| 997 | 183 | Jennifer Augustine |
 | 998 | 183 | Reggie Ellerbe |
 | 999 | 183 | Danid |
 | 1000 | 183 | Nikki Sadler |
 | 1001 | 183 | Joshua Hopkins |
 | 1002 | 182 | Terie Safrit |
 | 1003 | 182 | Damion Morrison |
-| 1004 | 182 | Stacy Hoffman |
-| 1005 | 182 | Steve Eakins |
+| 1004 | 182 | Steve Eakins |
+| 1005 | 182 | Stacy Hoffman |
 | 1006 | 181 | Boldy Swipe |
 | 1007 | 181 | Evelyn Confer |
 | 1008 | 180 | MJLovesHer#OneMistake |

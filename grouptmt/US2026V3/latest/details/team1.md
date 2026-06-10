@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:24:47 UTC
+# Standings for team1 as of 2026-06-10 11:25:24 UTC
 
 **Total Participants:** 2261
 
@@ -57,8 +57,8 @@
 | 49 | 2370 | Therealdywoune Peay |
 | 50 | 2285 | Markeeta Lipscomb |
 | 51 | 2203 | BlackQueen105 |
-| 52 | 2174 | Robyn Caldwell |
-| 53 | 2171 | Chris Caniglia |
+| 52 | 2176 | Chris Caniglia |
+| 53 | 2174 | Robyn Caldwell |
 | 54 | 2145 | Brian Bohanon II |
 | 55 | 2138 | Linzie Marie |
 | 56 | 2121 | Cherry Rose |
@@ -182,8 +182,8 @@
 | 174 | 813 | Keke Ferguson |
 | 175 | 808 | Taylor Evelyn |
 | 176 | 803 | Big Tina |
-| 177 | 800 | Tipsy Tetriblast |
-| 178 | 793 | Gael Quintana |
+| 177 | 802 | Gael Quintana |
+| 178 | 800 | Tipsy Tetriblast |
 | 179 | 788 | Zappy Riser |
 | 180 | 786 | Eugina Slater |
 | 181 | 786 | Novaa |
