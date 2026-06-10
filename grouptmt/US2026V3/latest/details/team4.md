@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:41:24 UTC
+# Standings for team4 as of 2026-06-10 12:42:44 UTC
 
 **Total Participants:** 2319
 
@@ -12,8 +12,8 @@
 | 4 | 18644 | Lyza |
 | 5 | 12341 | Loony Rotater |
 | 6 | 11639 | BertaF1irta |
-| 7 | 11014 | Hasty Builder |
-| 8 | 10938 | Cinny |
+| 7 | 11076 | Cinny |
+| 8 | 11014 | Hasty Builder |
 | 9 | 9489 | Kait Confetti |
 | 10 | 8923 | Jennifer Edgell Richardson |
 | 11 | 8916 | Boldy Crusher |
@@ -368,22 +368,22 @@
 | 360 | 418 | Dawn Marie Trujillo |
 | 361 | 415 | Karen Rodriguez |
 | 362 | 415 | Kea Sushi |
-| 363 | 412 | Clashy |
-| 364 | 412 | Dazzle Dragon |
+| 363 | 412 | Dazzle Dragon |
+| 364 | 412 | Clashy |
 | 365 | 412 | Dan Butcher |
 | 366 | 411 | EvoKitty |
 | 367 | 411 | Momma Boss |
 | 368 | 410 | Justin Michael |
 | 369 | 409 | beTrue76 |
 | 370 | 409 | Cheeky Fallzone |
-| 371 | 408 | Sherry Mooney |
-| 372 | 408 | Maurice DeJean |
-| 373 | 406 | Ash Gribble |
-| 374 | 402 | Shawna Downey |
-| 375 | 401 | Jay Dee |
-| 376 | 401 | MomyLiz |
-| 377 | 400 | jojo |
-| 378 | 400 | Jumpy Builderpiece |
+| 371 | 409 | Jumpy Builderpiece |
+| 372 | 408 | Sherry Mooney |
+| 373 | 408 | Maurice DeJean |
+| 374 | 406 | Ash Gribble |
+| 375 | 402 | Shawna Downey |
+| 376 | 401 | Jay Dee |
+| 377 | 401 | MomyLiz |
+| 378 | 400 | jojo |
 | 379 | 400 | Queen B |
 | 380 | 399 | Gary Smallwood |
 | 381 | 395 | PerfectPieces |
@@ -429,34 +429,34 @@
 | 421 | 359 | Ashley Robbins |
 | 422 | 358 | Bre Dee |
 | 423 | 356 | Candiecane324 |
-| 424 | 353 | FitMeDiva |
-| 425 | 353 | Heidi Hala |
-| 426 | 353 | Crystal Hammonds |
+| 424 | 353 | Crystal Hammonds |
+| 425 | 353 | FitMeDiva |
+| 426 | 353 | Heidi Hala |
 | 427 | 353 | Loopy Hitter |
 | 428 | 352 | Martha Fisher |
 | 429 | 351 | Holly Bramel |
 | 430 | 351 | Tiffany Morris Garner |
 | 431 | 350 | Henry Lanier |
 | 432 | 348 | TRUCHILD777$$$ |
-| 433 | 346 | Jennifer Garcia |
-| 434 | 346 | Candice Sellers Worley |
-| 435 | 346 | KrisTina2007 |
-| 436 | 345 | yodaa |
-| 437 | 344 | Karen Davis |
-| 438 | 344 | Zesty Twistpiece |
-| 439 | 344 | bollo |
-| 440 | 344 | Josh Keith Travierso |
-| 441 | 343 | Cherrel M. Causey |
-| 442 | 343 | maria |
-| 443 | 342 | Lively Blockpiece |
-| 444 | 342 | Chilly Pivot |
-| 445 | 342 | Cecilia Hicks |
-| 446 | 342 | Kimberly Ann |
-| 447 | 341 | Cool Risepiece |
-| 448 | 341 | LilyRose |
-| 449 | 339 | Inez Nez |
-| 450 | 339 | Shepreneur Sade |
-| 451 | 337 | Honey |
+| 433 | 346 | Candice Sellers Worley |
+| 434 | 346 | Jennifer Garcia |
+| 435 | 346 | Honey |
+| 436 | 346 | KrisTina2007 |
+| 437 | 345 | yodaa |
+| 438 | 344 | Karen Davis |
+| 439 | 344 | Zesty Twistpiece |
+| 440 | 344 | bollo |
+| 441 | 344 | Josh Keith Travierso |
+| 442 | 343 | Cherrel M. Causey |
+| 443 | 343 | maria |
+| 444 | 342 | Lively Blockpiece |
+| 445 | 342 | Chilly Pivot |
+| 446 | 342 | Cecilia Hicks |
+| 447 | 342 | Kimberly Ann |
+| 448 | 341 | Cool Risepiece |
+| 449 | 341 | LilyRose |
+| 450 | 339 | Inez Nez |
+| 451 | 339 | Shepreneur Sade |
 | 452 | 337 | Tiggerjake |
 | 453 | 337 | Jazzy Rollout |
 | 454 | 334 | Steven Patshy |
@@ -810,46 +810,46 @@
 | 802 | 195 | Freddy-B |
 | 803 | 194 | Stotty |
 | 804 | 194 | Gerald Richard Franke |
-| 805 | 194 | Jennifer Brucz |
-| 806 | 194 | Shannon Foster |
+| 805 | 194 | Shannon Foster |
+| 806 | 194 | Jennifer Brucz |
 | 807 | 194 | Mrsjcraw18 |
 | 808 | 193 | Kimberly Devon |
 | 809 | 193 | Paulina Deitrick |
 | 810 | 193 | Sweetfire |
 | 811 | 193 | Fancy Rollfit |
-| 812 | 192 | Chris |
-| 813 | 192 | Ralph Hell Rell Williams |
+| 812 | 192 | Ralph Hell Rell Williams |
+| 813 | 192 | Chris |
 | 814 | 192 | MsChelleAnn |
-| 815 | 191 | Miguel Teixeira |
-| 816 | 190 | Simone |
-| 817 | 190 | Pickles |
+| 815 | 192 | Amber Jalbert |
+| 816 | 191 | Miguel Teixeira |
+| 817 | 190 | Natalie Ohrtman Strand |
 | 818 | 190 | Billy Baker |
-| 819 | 190 | Robert Crow |
-| 820 | 190 | Natalie Ohrtman Strand |
+| 819 | 190 | Pickles |
+| 820 | 190 | Robert Crow |
 | 821 | 190 | Name |
 | 822 | 190 | Monica Shupe |
 | 823 | 190 | Layne Davis |
-| 824 | 190 | TeQuita Jennings |
-| 825 | 189 | Lisa Ferriero-Daudin |
-| 826 | 189 | Nessa Smith |
-| 827 | 188 | Erika Rubio |
-| 828 | 187 | Brandi Gray |
-| 829 | 187 | Fancy Tilefall |
-| 830 | 187 | Ricky Colvin |
-| 831 | 187 | Hilarie Detweiler |
-| 832 | 187 | Alicia Blunt |
+| 824 | 190 | Simone |
+| 825 | 190 | TeQuita Jennings |
+| 826 | 189 | Lisa Ferriero-Daudin |
+| 827 | 189 | Nessa Smith |
+| 828 | 188 | Erika Rubio |
+| 829 | 187 | Brandi Gray |
+| 830 | 187 | Fancy Tilefall |
+| 831 | 187 | Ricky Colvin |
+| 832 | 187 | Hilarie Detweiler |
 | 833 | 187 | Heather Garrity |
-| 834 | 187 | Sunny Tiltbuilder |
-| 835 | 186 | Amber Jalbert |
-| 836 | 185 | Tre'nya Smith |
-| 837 | 185 | Street724 |
-| 838 | 185 | Ilia Blake |
-| 839 | 184 | Chilly Pop |
-| 840 | 184 | RustyMaster40 |
-| 841 | 184 | Maliyah An |
-| 842 | 184 | Dizzy |
-| 843 | 184 | Kimberly Lusk |
-| 844 | 184 | Virgil Mayfield-Brown |
+| 834 | 187 | Alicia Blunt |
+| 835 | 187 | Sunny Tiltbuilder |
+| 836 | 185 | Ilia Blake |
+| 837 | 185 | Tre'nya Smith |
+| 838 | 185 | Street724 |
+| 839 | 184 | RustyMaster40 |
+| 840 | 184 | Maliyah An |
+| 841 | 184 | Dizzy |
+| 842 | 184 | Kimberly Lusk |
+| 843 | 184 | Virgil Mayfield-Brown |
+| 844 | 184 | Chilly Pop |
 | 845 | 183 | pussface |
 | 846 | 183 | Cozy Towerpiece |
 | 847 | 183 | mikey moo |
