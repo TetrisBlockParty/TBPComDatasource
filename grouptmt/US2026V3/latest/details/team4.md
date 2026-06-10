@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 07:18:45 UTC
+# Standings for team4 as of 2026-06-10 07:19:23 UTC
 
 **Total Participants:** 2292
 
@@ -239,8 +239,8 @@
 | 231 | 602 | Spicy Chicken |
 | 232 | 600 | Tina Thomas |
 | 233 | 600 | Iforget |
-| 234 | 597 | Samara Garcia |
-| 235 | 596 | Kelly Howland |
+| 234 | 599 | Kelly Howland |
+| 235 | 597 | Samara Garcia |
 | 236 | 596 | Samantha Worley |
 | 237 | 593 | Vanessa Sykes |
 | 238 | 592 | Sarah Berry Stevens |
@@ -1307,40 +1307,40 @@
 | 1299 | 89 | Bekka Walker |
 | 1300 | 89 | Mandie Torres |
 | 1301 | 88 | Ελενη Χολεβα |
-| 1302 | 88 | John Henry |
-| 1303 | 88 | Musky Pits |
+| 1302 | 88 | Musky Pits |
+| 1303 | 88 | John Henry |
 | 1304 | 88 | Joe Win |
-| 1305 | 88 | Happy Toast |
-| 1306 | 88 | Tbag |
+| 1305 | 88 | Tbag |
+| 1306 | 88 | Happy Toast |
 | 1307 | 87 | Audacious |
-| 1308 | 87 | Leslee Bentley DeLong |
-| 1309 | 86 | Meela Abdurrab |
-| 1310 | 86 | Rio Rumble |
-| 1311 | 86 | Alicia Loveless |
-| 1312 | 86 | Luunii |
-| 1313 | 86 | Jodi Messere |
-| 1314 | 85 | LuLazer27 |
-| 1315 | 85 | Dee Modest |
+| 1308 | 87 | Quirky Puzzler |
+| 1309 | 87 | Leslee Bentley DeLong |
+| 1310 | 86 | Meela Abdurrab |
+| 1311 | 86 | Rio Rumble |
+| 1312 | 86 | Alicia Loveless |
+| 1313 | 86 | Luunii |
+| 1314 | 86 | Jodi Messere |
+| 1315 | 85 | LuLazer27 |
 | 1316 | 85 | Diane Obungu |
-| 1317 | 85 | Sherri Lorent |
-| 1318 | 85 | Kay |
+| 1317 | 85 | Kay |
+| 1318 | 85 | Dee Modest |
 | 1319 | 85 | MelodiousDeez |
-| 1320 | 84 | Quirky Puzzler |
-| 1321 | 84 | Brittany |
+| 1320 | 85 | Sherri Lorent |
+| 1321 | 84 | Tati |
 | 1322 | 84 | Tay |
-| 1323 | 84 | Amber Arnold |
-| 1324 | 84 | Red |
-| 1325 | 84 | Cassie N Danica Flaherty |
-| 1326 | 84 | Tati |
+| 1323 | 84 | Brittany |
+| 1324 | 84 | Amber Arnold |
+| 1325 | 84 | Red |
+| 1326 | 84 | Cassie N Danica Flaherty |
 | 1327 | 83 | Bubbly Shatter |
 | 1328 | 83 | Monte Smith |
 | 1329 | 83 | EpicBarista |
 | 1330 | 83 | Peter Babineaux Jr |
 | 1331 | 83 | Ryan Luperena |
 | 1332 | 82 | aubz |
-| 1333 | 82 | Charity Thomas |
+| 1333 | 82 | Sydney Taylor Sileno |
 | 1334 | 82 | JuicyJay |
-| 1335 | 82 | Sydney Taylor Sileno |
+| 1335 | 82 | Charity Thomas |
 | 1336 | 82 | Krystalclear |
 | 1337 | 82 | Brenda Mueller |
 | 1338 | 82 | crazy lazy |

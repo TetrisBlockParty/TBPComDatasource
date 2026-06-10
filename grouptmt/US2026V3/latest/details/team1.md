@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:18:45 UTC
+# Standings for team1 as of 2026-06-10 07:19:23 UTC
 
 **Total Participants:** 2238
 
@@ -209,14 +209,14 @@
 | 201 | 690 | boogeywoogey |
 | 202 | 684 | Tammye Turner |
 | 203 | 684 | Coco |
-| 204 | 680 | Charletha Williams |
-| 205 | 672 | Trina Greenwood |
-| 206 | 672 | BULLSEYE |
-| 207 | 670 | Johnathan Deese |
-| 208 | 668 | Bambi Love |
-| 209 | 668 | Tasha Jones |
-| 210 | 665 | Po Marley |
-| 211 | 665 | xXEKUNXx |
+| 204 | 683 | xXEKUNXx |
+| 205 | 680 | Charletha Williams |
+| 206 | 672 | Trina Greenwood |
+| 207 | 672 | BULLSEYE |
+| 208 | 670 | Johnathan Deese |
+| 209 | 668 | Bambi Love |
+| 210 | 668 | Tasha Jones |
+| 211 | 665 | Po Marley |
 | 212 | 664 | Elizabeth Vega Coreano |
 | 213 | 661 | Sarah Clark |
 | 214 | 657 | Crystal Anderson |
