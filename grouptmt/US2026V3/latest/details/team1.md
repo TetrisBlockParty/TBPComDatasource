@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 05:24:49 UTC
+# Standings for team1 as of 2026-06-10 05:25:22 UTC
 
 **Total Participants:** 2223
 
@@ -316,42 +316,42 @@
 | 308 | 468 | Sheila Burnham |
 | 309 | 468 | Jayjay Rich |
 | 310 | 467 | e |
-| 311 | 464 | Devin West |
-| 312 | 462 | Cheri Robinson |
-| 313 | 459 | Mahagony Small |
-| 314 | 457 | Desire Rice |
+| 311 | 467 | Giggly Tiltbuilder |
+| 312 | 464 | Devin West |
+| 313 | 462 | Cheri Robinson |
+| 314 | 459 | Mahagony Small |
 | 315 | 457 | Saranoh13 |
-| 316 | 456 | Brave Clearbuilder |
-| 317 | 455 | Tamika Fisher |
-| 318 | 453 | Tasha |
-| 319 | 452 | Kenny MrOnethousand Peck |
-| 320 | 450 | Ashleyy Netchert |
-| 321 | 449 | Nerdy Climber |
-| 322 | 447 | Kyra Coleman |
+| 316 | 457 | Desire Rice |
+| 317 | 456 | Brave Clearbuilder |
+| 318 | 455 | Tamika Fisher |
+| 319 | 453 | Tasha |
+| 320 | 452 | Kenny MrOnethousand Peck |
+| 321 | 450 | Ashleyy Netchert |
+| 322 | 449 | Nerdy Climber |
 | 323 | 447 | StingerD |
-| 324 | 444 | Candy Lee |
-| 325 | 442 | Joana Thompson |
-| 326 | 441 | Lyn Reed |
-| 327 | 440 | Larina Cherie Johnson |
-| 328 | 439 | Block |
-| 329 | 439 | Andy Rivera |
-| 330 | 439 | Asani CHumba |
-| 331 | 438 | Simone Bailey |
-| 332 | 437 | Dedra M Prester |
-| 333 | 436 | Loopy Block |
-| 334 | 435 | Richard Flex |
-| 335 | 434 | Tonya McElroy |
-| 336 | 434 | 大竹直之 |
-| 337 | 430 | akosua |
-| 338 | 430 | Davionte DaeDae Hopson-Rodriguez |
-| 339 | 429 | Koi |
-| 340 | 428 | Brand Nu |
-| 341 | 424 | Sarah Barnum |
-| 342 | 424 | Shanaa Germany Crittenden |
-| 343 | 423 | Christian Pham |
-| 344 | 423 | Andrew Jay Vaughn |
-| 345 | 419 | Dai Bo |
-| 346 | 416 | Giggly Tiltbuilder |
+| 324 | 447 | Kyra Coleman |
+| 325 | 444 | Candy Lee |
+| 326 | 442 | Joana Thompson |
+| 327 | 441 | Lyn Reed |
+| 328 | 440 | Larina Cherie Johnson |
+| 329 | 439 | Asani CHumba |
+| 330 | 439 | Andy Rivera |
+| 331 | 439 | Block |
+| 332 | 438 | Simone Bailey |
+| 333 | 437 | Dedra M Prester |
+| 334 | 436 | Loopy Block |
+| 335 | 435 | Richard Flex |
+| 336 | 434 | Tonya McElroy |
+| 337 | 434 | 大竹直之 |
+| 338 | 430 | akosua |
+| 339 | 430 | Davionte DaeDae Hopson-Rodriguez |
+| 340 | 429 | Koi |
+| 341 | 428 | Brand Nu |
+| 342 | 424 | Sarah Barnum |
+| 343 | 424 | Shanaa Germany Crittenden |
+| 344 | 423 | Christian Pham |
+| 345 | 423 | Andrew Jay Vaughn |
+| 346 | 419 | Dai Bo |
 | 347 | 414 | Smiley Clearpiece |
 | 348 | 413 | Reginald Frank |
 | 349 | 413 | Curtis T Cirno |
@@ -453,8 +453,8 @@
 | 445 | 324 | Melissa D. M. Hornsby |
 | 446 | 324 | Jai |
 | 447 | 323 | Alyssa Rae |
-| 448 | 322 | Juan Alvarez |
-| 449 | 322 | Tonia Ramos |
+| 448 | 323 | Tonia Ramos |
+| 449 | 322 | Juan Alvarez |
 | 450 | 322 | Gbnola |
 | 451 | 322 | Jessie N Michael Silvers |
 | 452 | 321 | Montego Allen |
@@ -895,26 +895,26 @@
 | 887 | 158 | Chloe Bankz |
 | 888 | 158 | TotoCherue |
 | 889 | 157 | Lootch |
-| 890 | 157 | JesusSaves 😇 |
-| 891 | 157 | Sheesh |
-| 892 | 156 | Oaklonboy mike |
-| 893 | 156 | Karen Denen |
-| 894 | 156 | Esha I'msoproudofmyself Davis |
-| 895 | 156 | Shanjerrica Taylor Rosell |
+| 890 | 157 | Sheesh |
+| 891 | 157 | JesusSaves 😇 |
+| 892 | 156 | Shanjerrica Taylor Rosell |
+| 893 | 156 | Esha I'msoproudofmyself Davis |
+| 894 | 156 | Oaklonboy mike |
+| 895 | 156 | Karen Denen |
 | 896 | 155 | Yoellah Benyahmeen |
-| 897 | 155 | Melissa Ramsey |
-| 898 | 153 | Hasty Pivoty |
-| 899 | 153 | Anthony Collins |
-| 900 | 153 | Tanesha Ga'sFinest Corbett |
-| 901 | 152 | Swanky Glide |
-| 902 | 151 | Jodie |
-| 903 | 151 | Kanesha Jackson |
-| 904 | 151 | Sunset Owens |
-| 905 | 151 | Marc Papa |
-| 906 | 151 | Shanell Thomas |
-| 907 | 151 | lady |
-| 908 | 150 | Spadez1231 |
-| 909 | 150 | Felicia Woods |
+| 897 | 155 | Felicia Woods |
+| 898 | 155 | Melissa Ramsey |
+| 899 | 153 | Hasty Pivoty |
+| 900 | 153 | Anthony Collins |
+| 901 | 153 | Tanesha Ga'sFinest Corbett |
+| 902 | 152 | Swanky Glide |
+| 903 | 151 | Sunset Owens |
+| 904 | 151 | Kanesha Jackson |
+| 905 | 151 | Jodie |
+| 906 | 151 | Marc Papa |
+| 907 | 151 | Shanell Thomas |
+| 908 | 151 | lady |
+| 909 | 150 | Spadez1231 |
 | 910 | 150 | Rieshelda Marie White |
 | 911 | 150 | Raquel Ortiz |
 | 912 | 150 | Marshall Davis |
@@ -1344,17 +1344,17 @@
 | 1336 | 72 | SnazzySnippet |
 | 1337 | 72 | Toohartless Mech |
 | 1338 | 72 | MamaBearTiff |
-| 1339 | 72 | BADBOY658 |
-| 1340 | 72 | Chummy Liner |
-| 1341 | 72 | Darryl Love |
-| 1342 | 72 | Jamie Mclean |
-| 1343 | 71 | Crafty Link |
-| 1344 | 71 | Joseph Ware Jr. |
-| 1345 | 71 | Zany Pivot |
-| 1346 | 71 | Lora Lee |
-| 1347 | 70 | Leon Brown III |
-| 1348 | 70 | Eli Delao |
-| 1349 | 70 | Frothy Snapmatch |
+| 1339 | 72 | Frothy Snapmatch |
+| 1340 | 72 | BADBOY658 |
+| 1341 | 72 | Chummy Liner |
+| 1342 | 72 | Darryl Love |
+| 1343 | 72 | Jamie Mclean |
+| 1344 | 71 | Crafty Link |
+| 1345 | 71 | Joseph Ware Jr. |
+| 1346 | 71 | Zany Pivot |
+| 1347 | 71 | Lora Lee |
+| 1348 | 70 | Leon Brown III |
+| 1349 | 70 | Eli Delao |
 | 1350 | 70 | Nedine Ray |
 | 1351 | 70 | Jucee |
 | 1352 | 70 | Leon Matthew Williams |
