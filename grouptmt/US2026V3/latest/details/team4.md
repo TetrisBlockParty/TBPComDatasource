@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:06:43 UTC
+# Standings for team4 as of 2026-06-10 10:07:23 UTC
 
 **Total Participants:** 2302
 
@@ -549,12 +549,12 @@
 | 541 | 279 | LandO |
 | 542 | 279 | JoAnn Summerlot Ratliff |
 | 543 | 279 | Perry Ransom |
-| 544 | 279 | Krystal Dixon-Hahn |
-| 545 | 278 | Kandylands |
-| 546 | 277 | CrashOutCarla |
-| 547 | 277 | Deborah Silberg |
-| 548 | 276 | Susan Stofberg Beltran |
-| 549 | 275 | Hasty Dropzone |
+| 544 | 279 | Hasty Dropzone |
+| 545 | 279 | Krystal Dixon-Hahn |
+| 546 | 278 | Kandylands |
+| 547 | 277 | CrashOutCarla |
+| 548 | 277 | Deborah Silberg |
+| 549 | 276 | Susan Stofberg Beltran |
 | 550 | 274 | shonaberry |
 | 551 | 274 | REPENT |
 | 552 | 273 | Kierra Evans |
@@ -1577,12 +1577,12 @@
 | 1569 | 57 | Chill Snapclear |
 | 1570 | 57 | Savage |
 | 1571 | 57 | Rebecca Cook |
-| 1572 | 57 | Clever Shuffler |
-| 1573 | 57 | Angela Correa |
-| 1574 | 57 | PapaB |
-| 1575 | 57 | Mumsy |
-| 1576 | 56 | TSM Ballsniffer |
-| 1577 | 56 | Twisty Chiseler |
+| 1572 | 57 | Twisty Chiseler |
+| 1573 | 57 | Clever Shuffler |
+| 1574 | 57 | Angela Correa |
+| 1575 | 57 | PapaB |
+| 1576 | 57 | Mumsy |
+| 1577 | 56 | TSM Ballsniffer |
 | 1578 | 56 | Bryce McGee |
 | 1579 | 56 | Thomas Cassell |
 | 1580 | 56 | Amanda Jill Sturgill |
@@ -1745,56 +1745,56 @@
 | 1737 | 40 | Dawn Mortimer |
 | 1738 | 40 | Amy Johnson |
 | 1739 | 40 | Bymerica |
-| 1740 | 40 | Leslie Bamonte |
-| 1741 | 40 | Vinnie Barnett |
-| 1742 | 40 | Billy Brasher |
-| 1743 | 40 | Cynthia Bolden |
-| 1744 | 40 | Amanda Albritton Moore |
-| 1745 | 40 | Wayne Mire |
-| 1746 | 40 | Hunter Lynn |
-| 1747 | 40 | Jaime Haggerty |
-| 1748 | 40 | Glitzy Cascadefit |
-| 1749 | 40 | TIGRESSHOTTIE79 |
-| 1750 | 40 | Angelene Jenson |
-| 1751 | 40 | Perfect  Rain |
-| 1752 | 40 | Jess Ortiz |
-| 1753 | 40 | Melissa Payne |
-| 1754 | 40 | DamienDante |
-| 1755 | 40 | Steven Michael Lutz |
-| 1756 | 40 | Nutty Balanceblock |
-| 1757 | 40 | Michael Taul |
-| 1758 | 40 | Amir Harris |
-| 1759 | 40 | Amber Bishop |
-| 1760 | 40 | Suzy |
-| 1761 | 39 | Quest |
-| 1762 | 39 | Desiree Haines-Marshall |
-| 1763 | 39 | tmnt |
-| 1764 | 39 | Chris Davis |
-| 1765 | 39 | Jewel Steele |
-| 1766 | 39 | Shakita Moore-Bernard |
-| 1767 | 39 | Carrie Sue Shaffer |
-| 1768 | 39 | Jenni |
-| 1769 | 39 | Amy White |
+| 1740 | 40 | Desiree Nunley Johnson |
+| 1741 | 40 | Leslie Bamonte |
+| 1742 | 40 | Vinnie Barnett |
+| 1743 | 40 | Billy Brasher |
+| 1744 | 40 | Cynthia Bolden |
+| 1745 | 40 | Amanda Albritton Moore |
+| 1746 | 40 | Wayne Mire |
+| 1747 | 40 | Glitzy Cascadefit |
+| 1748 | 40 | Hunter Lynn |
+| 1749 | 40 | Jaime Haggerty |
+| 1750 | 40 | TIGRESSHOTTIE79 |
+| 1751 | 40 | Angelene Jenson |
+| 1752 | 40 | Perfect  Rain |
+| 1753 | 40 | Jess Ortiz |
+| 1754 | 40 | Melissa Payne |
+| 1755 | 40 | DamienDante |
+| 1756 | 40 | Steven Michael Lutz |
+| 1757 | 40 | Nutty Balanceblock |
+| 1758 | 40 | Michael Taul |
+| 1759 | 40 | Amir Harris |
+| 1760 | 40 | Amber Bishop |
+| 1761 | 40 | Suzy |
+| 1762 | 39 | Quest |
+| 1763 | 39 | Desiree Haines-Marshall |
+| 1764 | 39 | Carrie Sue Shaffer |
+| 1765 | 39 | Chris Davis |
+| 1766 | 39 | tmnt |
+| 1767 | 39 | Jewel Steele |
+| 1768 | 39 | Shakita Moore-Bernard |
+| 1769 | 39 | Jenni |
 | 1770 | 39 | Glitzy Linkbuilder |
-| 1771 | 38 | Heather Cook |
+| 1771 | 39 | Amy White |
 | 1772 | 38 | Dupontmom |
-| 1773 | 38 | Jacquelyn Villarreal-Messenger |
-| 1774 | 38 | Robin M Casebolt |
-| 1775 | 38 | Amy Tennison |
-| 1776 | 38 | Chris Riley |
-| 1777 | 38 | Shimara Hall |
-| 1778 | 38 | Queen |
-| 1779 | 37 | Amber Terry |
-| 1780 | 37 | Cassie Jowett |
-| 1781 | 37 | LISHA 2 U |
-| 1782 | 37 | Heather Cline |
-| 1783 | 37 | theyhatejzt |
-| 1784 | 37 | Arlee Woodall |
-| 1785 | 37 | ScorpioQueen |
-| 1786 | 37 | Scammer |
-| 1787 | 36 | Simone Marie Thrasher |
+| 1773 | 38 | Robin M Casebolt |
+| 1774 | 38 | Heather Cook |
+| 1775 | 38 | Jacquelyn Villarreal-Messenger |
+| 1776 | 38 | Amy Tennison |
+| 1777 | 38 | Chris Riley |
+| 1778 | 38 | Shimara Hall |
+| 1779 | 38 | Queen |
+| 1780 | 37 | Amber Terry |
+| 1781 | 37 | theyhatejzt |
+| 1782 | 37 | Scammer |
+| 1783 | 37 | Heather Cline |
+| 1784 | 37 | LISHA 2 U |
+| 1785 | 37 | Cassie Jowett |
+| 1786 | 37 | Arlee Woodall |
+| 1787 | 37 | ScorpioQueen |
 | 1788 | 36 | Christine Raine Jalili |
-| 1789 | 36 | Desiree Nunley Johnson |
+| 1789 | 36 | Simone Marie Thrasher |
 | 1790 | 36 | Stylist |
 | 1791 | 36 | Peppy Linefit |
 | 1792 | 36 | Frisky Framezone |

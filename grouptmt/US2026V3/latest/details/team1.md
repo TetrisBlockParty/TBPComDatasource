@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:06:43 UTC
+# Standings for team1 as of 2026-06-10 10:07:23 UTC
 
 **Total Participants:** 2254
 
@@ -49,7 +49,7 @@
 | 41 | 2691 | Hyper Slamdrop |
 | 42 | 2619 | Zappy Brickline |
 | 43 | 2615 | JoJo |
-| 44 | 2587 | Jennifer To |
+| 44 | 2602 | Jennifer To |
 | 45 | 2584 | Tootsie Pop |
 | 46 | 2540 | Jamie Willis |
 | 47 | 2476 | Epic Snapfall |
