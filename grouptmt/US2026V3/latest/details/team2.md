@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 05:12:44 UTC
+# Standings for team2 as of 2026-06-10 05:13:21 UTC
 
 **Total Participants:** 2687
 
@@ -105,16 +105,16 @@
 | 97 | 1791 | Pickle |
 | 98 | 1790 | Zappy Pattern |
 | 99 | 1778 | Cathy Tippett |
-| 100 | 1755 | Bridget N Jonathan Franz |
-| 101 | 1740 | Josh Twilley |
-| 102 | 1711 | Bon Lynn |
-| 103 | 1701 | Giddy Slamdrop |
-| 104 | 1700 | Misiek |
-| 105 | 1699 | Poppy |
-| 106 | 1696 | Gabriella Humphreys |
-| 107 | 1680 | missat |
-| 108 | 1665 | Smiley Dropper |
-| 109 | 1621 | Jef Wassom |
+| 100 | 1771 | Jef Wassom |
+| 101 | 1755 | Bridget N Jonathan Franz |
+| 102 | 1740 | Josh Twilley |
+| 103 | 1711 | Bon Lynn |
+| 104 | 1701 | Giddy Slamdrop |
+| 105 | 1700 | Misiek |
+| 106 | 1699 | Poppy |
+| 107 | 1696 | Gabriella Humphreys |
+| 108 | 1680 | missat |
+| 109 | 1665 | Smiley Dropper |
 | 110 | 1591 | Ruby Sandberg |
 | 111 | 1584 | Charlie Wilson |
 | 112 | 1563 | Amber Triguero |
@@ -413,7 +413,7 @@
 | 405 | 428 | Keri Mears |
 | 406 | 426 | Branden Frankowski |
 | 407 | 426 | Jessica Melendy |
-| 408 | 424 | Amber Smith |
+| 408 | 426 | Amber Smith |
 | 409 | 423 | Heather Burgett |
 | 410 | 420 | Linda Guay |
 | 411 | 420 | Adriana Daniela Agapie |
@@ -690,11 +690,11 @@
 | 682 | 265 | Danita Moon |
 | 683 | 265 | K2N |
 | 684 | 265 | s3lc4tr0n |
-| 685 | 264 | Gabrielle Rivera |
-| 686 | 264 | Reign Hustler |
-| 687 | 264 | Cranky Basepiece |
-| 688 | 263 | Cheery Towerzone |
-| 689 | 263 | Clever Fallmatch |
+| 685 | 264 | Clever Fallmatch |
+| 686 | 264 | Gabrielle Rivera |
+| 687 | 264 | Reign Hustler |
+| 688 | 264 | Cranky Basepiece |
+| 689 | 263 | Cheery Towerzone |
 | 690 | 262 | Vicke Patterson |
 | 691 | 262 | Dhelsie Qurasima |
 | 692 | 261 | Hyper Striker |
@@ -815,13 +815,13 @@
 | 807 | 225 | Jami Borges |
 | 808 | 224 | Stephanie Smith Robinson |
 | 809 | 224 | Dandy Tiltgrid |
-| 810 | 224 | Leigh Wilkerson |
-| 811 | 223 | Kevin Patrick |
-| 812 | 223 | Hillary Frank |
-| 813 | 223 | Jazzy Snapfit |
-| 814 | 222 | Duck |
-| 815 | 222 | Sherri Caillet Aucoin |
-| 816 | 222 | Debra May |
+| 810 | 224 | Debra May |
+| 811 | 224 | Leigh Wilkerson |
+| 812 | 223 | Kevin Patrick |
+| 813 | 223 | Hillary Frank |
+| 814 | 223 | Jazzy Snapfit |
+| 815 | 222 | Duck |
+| 816 | 222 | Sherri Caillet Aucoin |
 | 817 | 222 | Heather |
 | 818 | 222 | SaraAnn Gray Philbrick |
 | 819 | 221 | Ashley Fleming |
@@ -1289,20 +1289,20 @@
 | 1281 | 123 | Julie Lint |
 | 1282 | 123 | Reggie Ellerbe |
 | 1283 | 123 | Frothy Faller |
-| 1284 | 123 | Kawana Nesbitt |
-| 1285 | 122 | Jenna Thorn |
-| 1286 | 122 | Kay Newcomb |
-| 1287 | 122 | Cody Bohannan |
-| 1288 | 122 | Carrie Rutter-Bail |
-| 1289 | 122 | Greenbean |
-| 1290 | 122 | Dandy Matchzone |
-| 1291 | 121 | BikerBorn BikerBred |
-| 1292 | 121 | Jollygirl |
-| 1293 | 121 | Mona Wagner |
-| 1294 | 121 | Tipsy Wipebuilder |
-| 1295 | 121 | Rachel Huber |
-| 1296 | 121 | Trena Sapp |
-| 1297 | 121 | Nina-Christina Cusyck |
+| 1284 | 123 | Nina-Christina Cusyck |
+| 1285 | 123 | Kawana Nesbitt |
+| 1286 | 122 | Jenna Thorn |
+| 1287 | 122 | Kay Newcomb |
+| 1288 | 122 | Cody Bohannan |
+| 1289 | 122 | Carrie Rutter-Bail |
+| 1290 | 122 | Greenbean |
+| 1291 | 122 | Dandy Matchzone |
+| 1292 | 121 | BikerBorn BikerBred |
+| 1293 | 121 | Jollygirl |
+| 1294 | 121 | Mona Wagner |
+| 1295 | 121 | Tipsy Wipebuilder |
+| 1296 | 121 | Rachel Huber |
+| 1297 | 121 | Trena Sapp |
 | 1298 | 121 | Mona Smith |
 | 1299 | 121 | Donna Segletes Kay |
 | 1300 | 121 | Rey Huber |
@@ -1832,15 +1832,15 @@
 | 1824 | 59 | LaicoosBargains Ln |
 | 1825 | 59 | Cheeky Twistpiece |
 | 1826 | 59 | Road Runnersauraus |
-| 1827 | 59 | Paula |
-| 1828 | 59 | Chipper Zigzag |
-| 1829 | 59 | April Addis |
-| 1830 | 59 | Chirpy Towerer |
-| 1831 | 59 | Christina Nycol |
-| 1832 | 58 | Slinky Winder |
-| 1833 | 58 | Elise Marie Mireles |
-| 1834 | 58 | Rachel Cress |
-| 1835 | 58 | Cheeky Snapline |
+| 1827 | 59 | Cheeky Snapline |
+| 1828 | 59 | Paula |
+| 1829 | 59 | Chipper Zigzag |
+| 1830 | 59 | April Addis |
+| 1831 | 59 | Chirpy Towerer |
+| 1832 | 59 | Christina Nycol |
+| 1833 | 58 | Slinky Winder |
+| 1834 | 58 | Elise Marie Mireles |
+| 1835 | 58 | Rachel Cress |
 | 1836 | 58 | Shanetta Johnson |
 | 1837 | 58 | Tonya Willprecht |
 | 1838 | 58 | Donna Gerald |
