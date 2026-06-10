@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:44:44 UTC
+# Standings for team4 as of 2026-06-10 09:45:24 UTC
 
 **Total Participants:** 2298
 
@@ -232,19 +232,19 @@
 | 224 | 633 | Kelly Howland |
 | 225 | 627 | Erika Seaton |
 | 226 | 627 | Brick House |
-| 227 | 626 | Alex Armour |
-| 228 | 626 | Lush Fitblock |
+| 227 | 626 | Lush Fitblock |
+| 228 | 626 | Alex Armour |
 | 229 | 623 | Leslie Ann Carter |
 | 230 | 620 | Saucy Wipepiece |
 | 231 | 618 | Iforget |
 | 232 | 616 | Toon Up |
 | 233 | 616 | Renee Sapp |
-| 234 | 613 | Big Dooka |
-| 235 | 611 | Logan Two-dubs Baker |
+| 234 | 614 | Logan Two-dubs Baker |
+| 235 | 613 | Big Dooka |
 | 236 | 607 | Taz |
 | 237 | 607 | Samara Garcia |
-| 238 | 606 | Jackie Miller |
-| 239 | 606 | Addi JayKay |
+| 238 | 606 | Addi JayKay |
+| 239 | 606 | Jackie Miller |
 | 240 | 602 | Spicy Chicken |
 | 241 | 600 | Tina Thomas |
 | 242 | 596 | Samantha Worley |
@@ -259,8 +259,8 @@
 | 251 | 574 | Alma López Morales |
 | 252 | 573 | Sisi RedVelvet Reneè |
 | 253 | 572 | Bean |
-| 254 | 568 | Breezy Cascadeclear |
-| 255 | 568 | Stephanie Myers |
+| 254 | 568 | Stephanie Myers |
+| 255 | 568 | Breezy Cascadeclear |
 | 256 | 567 | tigerlilly |
 | 257 | 566 | Matthew Hudson |
 | 258 | 565 | Rebecca Watters |
@@ -271,8 +271,8 @@
 | 263 | 559 | Jubalicious |
 | 264 | 556 | Smiley Gridzone |
 | 265 | 553 | Joseph Hunter |
-| 266 | 550 | Maria Castillo |
-| 267 | 550 | Genger |
+| 266 | 550 | Genger |
+| 267 | 550 | Maria Castillo |
 | 268 | 545 | Betsy Froemming |
 | 269 | 540 | Jaci Marie |
 | 270 | 538 | Nicole |
@@ -280,8 +280,8 @@
 | 272 | 535 | Karr |
 | 273 | 531 | Colin |
 | 274 | 530 | Celina DiBastiani |
-| 275 | 528 | Tammy June |
-| 276 | 528 | Cyndi Najar |
+| 275 | 528 | Cyndi Najar |
+| 276 | 528 | Tammy June |
 | 277 | 526 | Cheery Risegrid |
 | 278 | 521 | Debby Ruof |
 | 279 | 520 | Fran Aaron-Ring |
@@ -888,11 +888,11 @@
 | 880 | 170 | LaRue Tee |
 | 881 | 170 | Kayla Haddenham |
 | 882 | 170 | Jill Chapman-Yancer |
-| 883 | 169 | Taisha Beasley |
-| 884 | 169 | Combo Snappy |
-| 885 | 169 | BigCup ReeseCup |
-| 886 | 169 | Jt Home |
-| 887 | 168 | Lizxxx |
+| 883 | 169 | Lizxxx |
+| 884 | 169 | Taisha Beasley |
+| 885 | 169 | Combo Snappy |
+| 886 | 169 | BigCup ReeseCup |
+| 887 | 169 | Jt Home |
 | 888 | 168 | Caiti O'Keefe |
 | 889 | 168 | Kristan Hoffman |
 | 890 | 167 | Tray Day |
