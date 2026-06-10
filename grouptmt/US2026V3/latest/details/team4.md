@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:16:46 UTC
+# Standings for team4 as of 2026-06-10 12:17:23 UTC
 
 **Total Participants:** 2316
 
@@ -227,22 +227,22 @@
 | 219 | 659 | Alex Armour |
 | 220 | 659 | Lush Fitblock |
 | 221 | 657 | Jenn Norcross |
-| 222 | 656 | Leslie Ann Carter |
-| 223 | 654 | Gerald Lew |
-| 224 | 651 | Jewelz |
-| 225 | 651 | Dayna Arthurs |
-| 226 | 650 | Beth Belanger |
-| 227 | 647 | Laguya |
-| 228 | 644 | Krysten Danielle Richard |
-| 229 | 641 | Waxboss |
-| 230 | 637 | QueenLi86 |
-| 231 | 634 | Tyson Stroppel |
-| 232 | 633 | Kelly Howland |
-| 233 | 627 | Brick House |
-| 234 | 627 | Erika Seaton |
-| 235 | 621 | Matthew Hudson |
-| 236 | 618 | Iforget |
-| 237 | 616 | Jackie Miller |
+| 222 | 656 | Jackie Miller |
+| 223 | 656 | Leslie Ann Carter |
+| 224 | 654 | Gerald Lew |
+| 225 | 651 | Jewelz |
+| 226 | 651 | Dayna Arthurs |
+| 227 | 650 | Beth Belanger |
+| 228 | 647 | Laguya |
+| 229 | 644 | Krysten Danielle Richard |
+| 230 | 641 | Waxboss |
+| 231 | 637 | QueenLi86 |
+| 232 | 634 | Tyson Stroppel |
+| 233 | 633 | Kelly Howland |
+| 234 | 627 | Brick House |
+| 235 | 627 | Erika Seaton |
+| 236 | 621 | Matthew Hudson |
+| 237 | 618 | Iforget |
 | 238 | 616 | Toon Up |
 | 239 | 616 | Renee Sapp |
 | 240 | 615 | Logan Two-dubs Baker |
@@ -263,19 +263,19 @@
 | 255 | 574 | Alma López Morales |
 | 256 | 573 | Sisi RedVelvet Reneè |
 | 257 | 572 | Bean |
-| 258 | 568 | Breezy Cascadeclear |
-| 259 | 568 | Stephanie Myers |
+| 258 | 568 | Stephanie Myers |
+| 259 | 568 | Breezy Cascadeclear |
 | 260 | 567 | tigerlilly |
 | 261 | 566 | Smiley Gridzone |
-| 262 | 565 | Shanna Fragen |
-| 263 | 565 | Rebecca Watters |
+| 262 | 565 | Rebecca Watters |
+| 263 | 565 | Shanna Fragen |
 | 264 | 564 | Boldy Rumbler |
 | 265 | 564 | Drh4090 |
 | 266 | 561 | Danny Ortiz |
 | 267 | 559 | Jubalicious |
 | 268 | 553 | Joseph Hunter |
-| 269 | 550 | Maria Castillo |
-| 270 | 550 | Genger |
+| 269 | 550 | Genger |
+| 270 | 550 | Maria Castillo |
 | 271 | 545 | Merritt Brandt |
 | 272 | 545 | Betsy Froemming |
 | 273 | 540 | Jaci Marie |
@@ -284,16 +284,16 @@
 | 276 | 536 | Jackie Jackson |
 | 277 | 535 | Karr |
 | 278 | 531 | Colin |
-| 279 | 528 | Cyndi Najar |
-| 280 | 528 | Tammy June |
+| 279 | 528 | Tammy June |
+| 280 | 528 | Cyndi Najar |
 | 281 | 528 | Danny Keich III |
 | 282 | 522 | Katy |
 | 283 | 521 | Debby Ruof |
 | 284 | 520 | Fran Aaron-Ring |
 | 285 | 516 | Tipsy Zonebuilder |
 | 286 | 515 | Morgan Stevens |
-| 287 | 508 | Hen |
-| 288 | 508 | Goofy Fall |
+| 287 | 508 | Goofy Fall |
+| 288 | 508 | Hen |
 | 289 | 504 | Piece of Cake |
 | 290 | 504 | Perky Riserbuilder |
 | 291 | 503 | Chirpy Snapclear |
@@ -302,12 +302,12 @@
 | 294 | 497 | Pandala Mandala |
 | 295 | 496 | jaz |
 | 296 | 494 | Yesenia Castro Monreal |
-| 297 | 488 | Aramat |
-| 298 | 488 | matt |
-| 299 | 487 | Plucky Shatterfit |
-| 300 | 482 | Tasha Suzanne Prisbrey |
-| 301 | 482 | RotatedWrongAgain |
-| 302 | 481 | Slinky Stackzone |
+| 297 | 489 | Slinky Stackzone |
+| 298 | 488 | Aramat |
+| 299 | 488 | matt |
+| 300 | 487 | Plucky Shatterfit |
+| 301 | 482 | Tasha Suzanne Prisbrey |
+| 302 | 482 | RotatedWrongAgain |
 | 303 | 481 | Swanky Brickzone |
 | 304 | 480 | Adam Dickinson |
 | 305 | 477 | Amandacolle |
@@ -1008,33 +1008,33 @@
 | 1000 | 146 | Joshua Hunt |
 | 1001 | 146 | John Wertz |
 | 1002 | 146 | Mone DyTorrion Zyan Lotts |
-| 1003 | 146 | Mammoth |
-| 1004 | 145 | Melissa Gorman |
-| 1005 | 145 | ButterfliesRFree |
-| 1006 | 145 | Jeff Seymour |
-| 1007 | 145 | Suzie |
-| 1008 | 145 | Hooti Smile |
-| 1009 | 145 | Kenny Nguyen |
-| 1010 | 145 | Ern |
-| 1011 | 144 | Mighty Spinfit |
-| 1012 | 144 | Nikcole Alexis Bryan |
-| 1013 | 144 | Allrise99 |
-| 1014 | 144 | GingaNinja |
-| 1015 | 144 | Tika Boo |
-| 1016 | 143 | Chirpy Spinzone |
-| 1017 | 143 | Rebekah Anne Macias |
-| 1018 | 142 | Mari Isaac |
+| 1003 | 146 | Mari Isaac |
+| 1004 | 146 | Mammoth |
+| 1005 | 145 | Melissa Gorman |
+| 1006 | 145 | ButterfliesRFree |
+| 1007 | 145 | Jeff Seymour |
+| 1008 | 145 | Suzie |
+| 1009 | 145 | Hooti Smile |
+| 1010 | 145 | Kenny Nguyen |
+| 1011 | 145 | Ern |
+| 1012 | 144 | Mighty Spinfit |
+| 1013 | 144 | Nikcole Alexis Bryan |
+| 1014 | 144 | Allrise99 |
+| 1015 | 144 | GingaNinja |
+| 1016 | 144 | Tika Boo |
+| 1017 | 143 | Chirpy Spinzone |
+| 1018 | 143 | Rebekah Anne Macias |
 | 1019 | 142 | Cheeky Linkpiece |
 | 1020 | 142 | Clever Blockmatch |
 | 1021 | 141 | Phredda Helene Gavornik |
-| 1022 | 141 | Scott Baum |
-| 1023 | 141 | Baby cat |
+| 1022 | 141 | Aaron Turner |
+| 1023 | 141 | Audrianna Skaff |
 | 1024 | 141 | Monkey |
-| 1025 | 141 | Audrianna Skaff |
-| 1026 | 141 | Aaron Turner |
-| 1027 | 140 | Elizabeth Ann Caro |
-| 1028 | 140 | Jean Yap |
-| 1029 | 140 | Heather Brown |
+| 1025 | 141 | Baby cat |
+| 1026 | 141 | Scott Baum |
+| 1027 | 140 | Heather Brown |
+| 1028 | 140 | Elizabeth Ann Caro |
+| 1029 | 140 | Jean Yap |
 | 1030 | 140 | Larredo Covington |
 | 1031 | 140 | Aim Georgia Bros Scott |
 | 1032 | 140 | Glitter |
