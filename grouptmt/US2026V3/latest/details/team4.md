@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:18:45 UTC
+# Standings for team4 as of 2026-06-10 21:19:24 UTC
 
 **Total Participants:** 2376
 
@@ -75,9 +75,9 @@
 | 67 | 2310 | Nick Graber |
 | 68 | 2283 | Adam J Leong |
 | 69 | 2255 | Elissa S-k |
-| 70 | 2131 | Michele Walker |
-| 71 | 2129 | Erin Figone |
-| 72 | 2102 | Tommy Bond |
+| 70 | 2132 | Tommy Bond |
+| 71 | 2131 | Michele Walker |
+| 72 | 2129 | Erin Figone |
 | 73 | 2091 | Charlie Lewis |
 | 74 | 2066 | kcknbtz |
 | 75 | 2047 | Michelle Ross |
@@ -145,7 +145,7 @@
 | 137 | 1090 | Melissa WC |
 | 138 | 1082 | Whitborn |
 | 139 | 1078 | Suzanne North |
-| 140 | 1066 | Futrell Brent |
+| 140 | 1068 | Futrell Brent |
 | 141 | 1058 | Dandy Puzzler |
 | 142 | 1057 | Jumpy Brickline |
 | 143 | 1057 | Heather Preston |
@@ -459,46 +459,46 @@
 | 451 | 361 | Kellz M Bee |
 | 452 | 361 | Jeff Margolis |
 | 453 | 361 | Bouncy |
-| 454 | 360 | Lady Dolphin |
-| 455 | 360 | Mann Manson |
-| 456 | 360 | Groovy Cluster |
-| 457 | 359 | Ashley Robbins |
+| 454 | 361 | Fancy Riserfit |
+| 455 | 360 | Groovy Cluster |
+| 456 | 360 | Lady Dolphin |
+| 457 | 360 | Mann Manson |
 | 458 | 359 | Kaps |
 | 459 | 359 | BCO22 |
 | 460 | 359 | Luna |
-| 461 | 357 | Loopy Hitter |
-| 462 | 356 | Candiecane324 |
-| 463 | 354 | Stasia |
-| 464 | 354 | Montes Ash |
-| 465 | 353 | Holly Bramel |
-| 466 | 353 | FitMeDiva |
-| 467 | 353 | Crystal Hammonds |
-| 468 | 353 | Heidi Hala |
-| 469 | 352 | Miss Beast |
-| 470 | 351 | Tiffany Morris Garner |
-| 471 | 351 | Cecilia Hicks |
-| 472 | 350 | Karen Davis |
-| 473 | 350 | Nutty Rollfit |
-| 474 | 348 | TRUCHILD777$$$ |
-| 475 | 348 | Paulina Deitrick |
-| 476 | 347 | Lively Blockpiece |
-| 477 | 346 | Jen Roe |
-| 478 | 345 | yodaa |
-| 479 | 344 | bollo |
-| 480 | 343 | BookwormCate |
-| 481 | 343 | maria |
-| 482 | 341 | Reggie Laserna Clement |
+| 461 | 359 | Ashley Robbins |
+| 462 | 357 | Loopy Hitter |
+| 463 | 356 | Candiecane324 |
+| 464 | 354 | Stasia |
+| 465 | 354 | Montes Ash |
+| 466 | 353 | Holly Bramel |
+| 467 | 353 | FitMeDiva |
+| 468 | 353 | Crystal Hammonds |
+| 469 | 353 | Heidi Hala |
+| 470 | 352 | Miss Beast |
+| 471 | 351 | Tiffany Morris Garner |
+| 472 | 351 | Cecilia Hicks |
+| 473 | 350 | Karen Davis |
+| 474 | 350 | Nutty Rollfit |
+| 475 | 348 | TRUCHILD777$$$ |
+| 476 | 348 | Paulina Deitrick |
+| 477 | 347 | Lively Blockpiece |
+| 478 | 346 | Jen Roe |
+| 479 | 345 | yodaa |
+| 480 | 344 | bollo |
+| 481 | 343 | BookwormCate |
+| 482 | 343 | maria |
 | 483 | 341 | LilyRose |
-| 484 | 340 | Karen Small |
-| 485 | 339 | Inez Nez |
-| 486 | 337 | Jazzy Rollout |
-| 487 | 337 | Maricela Joslin |
-| 488 | 336 | beauxie |
-| 489 | 334 | Chonda OhanaMomma Michelle |
-| 490 | 333 | Brendan Craven |
-| 491 | 332 | Missionary Meda |
-| 492 | 332 | John Ramos |
-| 493 | 331 | Fancy Riserfit |
+| 484 | 341 | Reggie Laserna Clement |
+| 485 | 340 | Karen Small |
+| 486 | 339 | Inez Nez |
+| 487 | 337 | Jazzy Rollout |
+| 488 | 337 | Maricela Joslin |
+| 489 | 336 | beauxie |
+| 490 | 334 | Chonda OhanaMomma Michelle |
+| 491 | 333 | Brendan Craven |
+| 492 | 332 | Missionary Meda |
+| 493 | 332 | John Ramos |
 | 494 | 331 | Rosy Perez |
 | 495 | 331 | CrashOutCarla |
 | 496 | 331 | Lively Cascadebuilder |
@@ -1093,15 +1093,15 @@
 | 1085 | 142 | Darren Miguel |
 | 1086 | 142 | Blu |
 | 1087 | 142 | Clever Blockmatch |
-| 1088 | 141 | Audrianna Skaff |
-| 1089 | 141 | Aaron Turner |
-| 1090 | 141 | Baby cat |
-| 1091 | 141 | Monkey |
-| 1092 | 141 | Scott Baum |
-| 1093 | 140 | Aim Georgia Bros Scott |
-| 1094 | 140 | Kris McMahon |
-| 1095 | 140 | skynatda |
-| 1096 | 140 | Gwendolyn Langwinski |
+| 1088 | 142 | Gwendolyn Langwinski |
+| 1089 | 141 | Audrianna Skaff |
+| 1090 | 141 | Aaron Turner |
+| 1091 | 141 | Baby cat |
+| 1092 | 141 | Monkey |
+| 1093 | 141 | Scott Baum |
+| 1094 | 140 | Aim Georgia Bros Scott |
+| 1095 | 140 | Kris McMahon |
+| 1096 | 140 | skynatda |
 | 1097 | 140 | Willy Leung |
 | 1098 | 140 | Marvin Mack |
 | 1099 | 140 | Groovy Matchgrid |

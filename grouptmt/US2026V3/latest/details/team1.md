@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 21:18:45 UTC
+# Standings for team1 as of 2026-06-10 21:19:24 UTC
 
 **Total Participants:** 2347
 
@@ -1024,33 +1024,33 @@
 | 1016 | 150 | Jerome Lewis |
 | 1017 | 150 | Vivian Bunnell Myers |
 | 1018 | 150 | Raquel Ortiz |
-| 1019 | 148 | Raymond Boosie Freeman |
-| 1020 | 148 | Jaxon Antuna |
-| 1021 | 148 | Zany Patternblock |
-| 1022 | 148 | Shawna Passwater |
-| 1023 | 147 | Charika Marie Bergmann |
-| 1024 | 147 | Jane Lame |
-| 1025 | 147 | Rachel Lopez |
+| 1019 | 149 | Scorpiogurl Cruz |
+| 1020 | 148 | Raymond Boosie Freeman |
+| 1021 | 148 | Jaxon Antuna |
+| 1022 | 148 | Zany Patternblock |
+| 1023 | 148 | Shawna Passwater |
+| 1024 | 147 | Rachel Lopez |
+| 1025 | 147 | Charika Marie Bergmann |
 | 1026 | 147 | Benjamin Livingston |
-| 1027 | 146 | Paul Doty |
+| 1027 | 147 | Jane Lame |
 | 1028 | 146 | Jojo M |
-| 1029 | 145 | Abdul Malik |
-| 1030 | 144 | Batty B |
-| 1031 | 144 | Tammy Collins |
-| 1032 | 144 | Witty Clear |
+| 1029 | 146 | Paul Doty |
+| 1030 | 145 | Abdul Malik |
+| 1031 | 144 | Batty B |
+| 1032 | 144 | Tammy Collins |
 | 1033 | 144 | Happy Blocky |
-| 1034 | 143 | Tray Tolliver |
-| 1035 | 143 | Scorpiogurl Cruz |
+| 1034 | 144 | Witty Clear |
+| 1035 | 143 | Tray Tolliver |
 | 1036 | 143 | Beautiful314 |
 | 1037 | 143 | Latanya Gayle |
 | 1038 | 142 | Ace Hardware |
-| 1039 | 142 | Sharon Lynn |
-| 1040 | 142 | E Dubb$ |
-| 1041 | 141 | Tiana Monique |
-| 1042 | 141 | Deihja Weaver |
-| 1043 | 140 | Ebie |
+| 1039 | 142 | E Dubb$ |
+| 1040 | 142 | Sharon Lynn |
+| 1041 | 141 | Deihja Weaver |
+| 1042 | 141 | Tiana Monique |
+| 1043 | 140 | Kennedi Brazziel |
 | 1044 | 140 | Lynette Manning |
-| 1045 | 140 | Kennedi Brazziel |
+| 1045 | 140 | Ebie |
 | 1046 | 140 | Kimberly Noble |
 | 1047 | 139 | Margretta Henry |
 | 1048 | 139 | Jumpy Gridlock |
@@ -1732,162 +1732,162 @@
 | 1724 | 40 | DimplezAOS |
 | 1725 | 40 | Sylvia Holst |
 | 1726 | 40 | Billz143 |
-| 1727 | 40 | Chummy Blockpiece |
-| 1728 | 40 | Brandon Dontell Saunders |
+| 1727 | 40 | Brandon Dontell Saunders |
+| 1728 | 40 | Chummy Blockpiece |
 | 1729 | 40 | Bumpy Ricketts |
 | 1730 | 40 | Flashy Slam |
 | 1731 | 40 | Katrina Trein Bein Dickerson |
 | 1732 | 40 | Lisa Messerli |
 | 1733 | 40 | Crafty Shatterfit |
-| 1734 | 40 | Carol Washington |
+| 1734 | 40 | Girly Pop |
 | 1735 | 40 | meep |
-| 1736 | 40 | Girly Pop |
+| 1736 | 40 | Carol Washington |
 | 1737 | 40 | Boldy Zoner |
 | 1738 | 40 | Chuck Gee |
 | 1739 | 40 | Steve Renelus |
-| 1740 | 39 | Rekeia Minding Mine |
-| 1741 | 39 | BP Phillips |
+| 1740 | 39 | Queen |
+| 1741 | 39 | Nerdy Riser |
 | 1742 | 39 | Katybeth Pauley |
 | 1743 | 39 | Deborah |
 | 1744 | 39 | Giggly Cascader |
-| 1745 | 39 | Nerdy Riser |
-| 1746 | 39 | Queen |
+| 1745 | 39 | BP Phillips |
+| 1746 | 39 | Rekeia Minding Mine |
 | 1747 | 39 | Jenine Wiser |
 | 1748 | 39 | Diva shrock |
 | 1749 | 39 | Akee Mosley |
 | 1750 | 39 | LahMar Hunter |
-| 1751 | 38 | Krista Shanice |
-| 1752 | 38 | Pastors Du Bose |
-| 1753 | 38 | Nicole Freeman |
-| 1754 | 38 | Zesty Clearer |
-| 1755 | 38 | Mrs . Candy |
-| 1756 | 38 | Snippy T-spin |
-| 1757 | 38 | hope |
-| 1758 | 38 | Kiyeri |
+| 1751 | 38 | Zesty Clearer |
+| 1752 | 38 | Nicole Freeman |
+| 1753 | 38 | Kiyeri |
+| 1754 | 38 | Krista Shanice |
+| 1755 | 38 | Snippy T-spin |
+| 1756 | 38 | Mrs . Candy |
+| 1757 | 38 | Pastors Du Bose |
+| 1758 | 38 | hope |
 | 1759 | 38 | Clever Twistbuilder |
 | 1760 | 37 | kiki |
 | 1761 | 37 | Cheeky Matchzone |
 | 1762 | 37 | Witty Blockpiece |
-| 1763 | 37 | Ryan |
-| 1764 | 37 | Jb Mzresilience |
+| 1763 | 37 | Jb Mzresilience |
+| 1764 | 37 | Ryan |
 | 1765 | 37 | Zachary Sinclair |
-| 1766 | 36 | Tionka Green |
-| 1767 | 36 | Sean Walker |
-| 1768 | 36 | Kungfupanda |
-| 1769 | 36 | cupcake |
+| 1766 | 36 | Kungfupanda |
+| 1767 | 36 | Mizta Lewis |
+| 1768 | 36 | cupcake |
+| 1769 | 36 | Sean Walker |
 | 1770 | 36 | luc |
-| 1771 | 36 | Abdul Saleem |
-| 1772 | 36 | Mizta Lewis |
-| 1773 | 36 | Geneva Carter |
-| 1774 | 36 | Funky Tetris |
-| 1775 | 36 | Jennifer Nixon |
-| 1776 | 36 | Dana |
-| 1777 | 36 | Jessica Lee |
-| 1778 | 36 | Tee4 |
-| 1779 | 36 | Brownie |
-| 1780 | 36 | LS Jamison |
-| 1781 | 35 | Charise McGee |
-| 1782 | 35 | X6TRAUMA9X |
-| 1783 | 35 | np63 |
-| 1784 | 35 | Christian Whittaker |
-| 1785 | 35 | Frilly Glidepiece |
-| 1786 | 35 | Margie Toni Corley |
-| 1787 | 35 | Ruth Ann SotoRogers |
-| 1788 | 35 | Nerdy Twistline |
-| 1789 | 35 | Brandy Jaszewski |
-| 1790 | 35 | Evee |
-| 1791 | 35 | MissingYou Nini |
+| 1771 | 36 | Tee4 |
+| 1772 | 36 | Funky Tetris |
+| 1773 | 36 | Tionka Green |
+| 1774 | 36 | Dana |
+| 1775 | 36 | Abdul Saleem |
+| 1776 | 36 | LS Jamison |
+| 1777 | 36 | Brownie |
+| 1778 | 36 | Jennifer Nixon |
+| 1779 | 36 | Jessica Lee |
+| 1780 | 36 | Geneva Carter |
+| 1781 | 35 | Nerdy Twistline |
+| 1782 | 35 | np63 |
+| 1783 | 35 | Frilly Glidepiece |
+| 1784 | 35 | X6TRAUMA9X |
+| 1785 | 35 | Christian Whittaker |
+| 1786 | 35 | MissingYou Nini |
+| 1787 | 35 | Margie Toni Corley |
+| 1788 | 35 | Charise McGee |
+| 1789 | 35 | Evee |
+| 1790 | 35 | Ruth Ann SotoRogers |
+| 1791 | 35 | Brandy Jaszewski |
 | 1792 | 34 | Regina Haygood |
-| 1793 | 34 | Andrea Watts |
-| 1794 | 34 | beeutifullll |
-| 1795 | 34 | Dazee Rogers |
-| 1796 | 34 | Plucky Clearpiece |
-| 1797 | 34 | Danielle Scholfield |
-| 1798 | 34 | Lauren |
-| 1799 | 34 | Zayy Wavyy |
-| 1800 | 34 | Crafty |
-| 1801 | 34 | Jumpy Brickbuilder |
-| 1802 | 34 | Daron Montgomery |
-| 1803 | 34 | Fancy Strikerbuilder |
-| 1804 | 34 | Matos Boiz |
-| 1805 | 34 | Bouncy Brickroll |
+| 1793 | 34 | Plucky Clearpiece |
+| 1794 | 34 | Danielle Scholfield |
+| 1795 | 34 | Lauren |
+| 1796 | 34 | beeutifullll |
+| 1797 | 34 | Dazee Rogers |
+| 1798 | 34 | Andrea Watts |
+| 1799 | 34 | Crafty |
+| 1800 | 34 | Jumpy Brickbuilder |
+| 1801 | 34 | Daron Montgomery |
+| 1802 | 34 | Fancy Strikerbuilder |
+| 1803 | 34 | Zayy Wavyy |
+| 1804 | 34 | Bouncy Brickroll |
+| 1805 | 34 | Matos Boiz |
 | 1806 | 33 | Rose Chassé |
 | 1807 | 33 | Koz176 |
-| 1808 | 33 | Brianna Floyd |
-| 1809 | 33 | Kim Ratcliff Leatherman |
-| 1810 | 33 | BigDawg Lessley |
-| 1811 | 33 | Shay Simmons |
-| 1812 | 32 | Melissa Embrey |
-| 1813 | 32 | Shalyn Law |
-| 1814 | 32 | Juniper |
-| 1815 | 32 | Janie Helton |
-| 1816 | 32 | Betty Joe Lemberg |
-| 1817 | 32 | Tiffany Ali Shaw |
-| 1818 | 32 | Van Cunning |
-| 1819 | 32 | Jädaa Laa'Destïnyy |
-| 1820 | 32 | Stephanie Scott |
-| 1821 | 31 | Kelly Darty |
-| 1822 | 31 | Edward Hickmon |
-| 1823 | 31 | Otavia Gordon |
-| 1824 | 31 | Jennifer Diamond |
-| 1825 | 31 | Donna Tillis |
-| 1826 | 31 | Charlene Marshall |
-| 1827 | 31 | Emily Burgoon |
-| 1828 | 31 | Zippy Slammer |
-| 1829 | 31 | EchoQuirky Blockclear |
-| 1830 | 30 | Jessica Corey |
-| 1831 | 30 | Dora Greer |
-| 1832 | 30 | Myca Cooper |
-| 1833 | 30 | Biggie Cheeze |
-| 1834 | 30 | Spicy Builderfit |
-| 1835 | 30 | Lavender |
-| 1836 | 30 | Derek Beverly |
-| 1837 | 30 | Jeanne Bitner |
-| 1838 | 30 | Swanky Glidebuilder |
-| 1839 | 30 | Grace Page |
-| 1840 | 30 | Tipsy Tilt |
-| 1841 | 30 | Annette DeLoatch Thompson |
+| 1808 | 33 | Swanky Glidebuilder |
+| 1809 | 33 | Brianna Floyd |
+| 1810 | 33 | Kim Ratcliff Leatherman |
+| 1811 | 33 | BigDawg Lessley |
+| 1812 | 33 | Shay Simmons |
+| 1813 | 32 | Van Cunning |
+| 1814 | 32 | Stephanie Scott |
+| 1815 | 32 | Betty Joe Lemberg |
+| 1816 | 32 | Shalyn Law |
+| 1817 | 32 | Jädaa Laa'Destïnyy |
+| 1818 | 32 | Tiffany Ali Shaw |
+| 1819 | 32 | Juniper |
+| 1820 | 32 | Melissa Embrey |
+| 1821 | 32 | Janie Helton |
+| 1822 | 31 | Otavia Gordon |
+| 1823 | 31 | Jennifer Diamond |
+| 1824 | 31 | Donna Tillis |
+| 1825 | 31 | Charlene Marshall |
+| 1826 | 31 | Edward Hickmon |
+| 1827 | 31 | Kelly Darty |
+| 1828 | 31 | Emily Burgoon |
+| 1829 | 31 | Zippy Slammer |
+| 1830 | 31 | EchoQuirky Blockclear |
+| 1831 | 30 | Jessica Corey |
+| 1832 | 30 | Chavez James |
+| 1833 | 30 | Dora Greer |
+| 1834 | 30 | Biggie Cheeze |
+| 1835 | 30 | Grace Page |
+| 1836 | 30 | Spicy Builderfit |
+| 1837 | 30 | Lavender |
+| 1838 | 30 | Derek Beverly |
+| 1839 | 30 | Jeanne Bitner |
+| 1840 | 30 | Myca Cooper |
+| 1841 | 30 | Tipsy Tilt |
 | 1842 | 30 | Cucumber |
-| 1843 | 30 | Chavez James |
-| 1844 | 30 | Sandra Buller |
-| 1845 | 30 | Dee |
+| 1843 | 30 | Annette DeLoatch Thompson |
+| 1844 | 30 | Dee |
+| 1845 | 30 | Sandra Buller |
 | 1846 | 30 | PS |
 | 1847 | 30 | DRIFTER |
 | 1848 | 30 | scorpiobae |
 | 1849 | 30 | Edward Hackett |
-| 1850 | 30 | Moneke Randolph |
-| 1851 | 30 | Bob Bon |
+| 1850 | 30 | Bob Bon |
+| 1851 | 30 | Moneke Randolph |
 | 1852 | 30 | Jimel Fraser |
 | 1853 | 30 | Cool Rumbler |
-| 1854 | 29 | Macaroni Meechie Johnson |
-| 1855 | 29 | Rebecca Hofer |
-| 1856 | 29 | Caprice Taylor |
-| 1857 | 29 | Ty Brown |
-| 1858 | 29 | Everett Semmions |
-| 1859 | 29 | Epic Wipepiece |
-| 1860 | 29 | Swanky Linkmatch |
-| 1861 | 29 | Clever Linkroll |
-| 1862 | 29 | Virginia Beilen |
-| 1863 | 29 | Elizabeth Ragland |
-| 1864 | 29 | Zondria Barnes |
-| 1865 | 29 | Lively Stagger |
+| 1854 | 29 | Virginia Beilen |
+| 1855 | 29 | Macaroni Meechie Johnson |
+| 1856 | 29 | Rebecca Hofer |
+| 1857 | 29 | Caprice Taylor |
+| 1858 | 29 | Ty Brown |
+| 1859 | 29 | Everett Semmions |
+| 1860 | 29 | Epic Wipepiece |
+| 1861 | 29 | Swanky Linkmatch |
+| 1862 | 29 | Clever Linkroll |
+| 1863 | 29 | Zondria Barnes |
+| 1864 | 29 | Lively Stagger |
+| 1865 | 29 | Chris Davidson |
 | 1866 | 29 | Candice Mayo |
-| 1867 | 29 | Chris Davidson |
-| 1868 | 29 | Cheeky Tiltbuilder |
-| 1869 | 28 | Raevon Bailey |
-| 1870 | 28 | Groovy Towerer |
-| 1871 | 28 | Honey Beck |
+| 1867 | 29 | Cheeky Tiltbuilder |
+| 1868 | 29 | Elizabeth Ragland |
+| 1869 | 28 | Bouncy Base |
+| 1870 | 28 | Raevon Bailey |
+| 1871 | 28 | Groovy Towerer |
 | 1872 | 28 | Carlotta L Parker |
-| 1873 | 28 | Dannie Brown |
-| 1874 | 28 | Will Stanton |
-| 1875 | 28 | Keera425 |
-| 1876 | 28 | GLO510 |
-| 1877 | 28 | Bouncy Base |
-| 1878 | 28 | Kris |
-| 1879 | 28 | Steven Holloway |
-| 1880 | 28 | Tranica Sterling |
-| 1881 | 28 | kiki |
-| 1882 | 28 | Shutyoface Barber |
+| 1873 | 28 | Honey Beck |
+| 1874 | 28 | Dannie Brown |
+| 1875 | 28 | Will Stanton |
+| 1876 | 28 | Keera425 |
+| 1877 | 28 | GLO510 |
+| 1878 | 28 | Steven Holloway |
+| 1879 | 28 | Tranica Sterling |
+| 1880 | 28 | kiki |
+| 1881 | 28 | Shutyoface Barber |
+| 1882 | 28 | Kris |
 | 1883 | 28 | Iván Cedeño |
 | 1884 | 28 | Damien Johnson |
 | 1885 | 28 | Kenya Richardson |
