@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:22:47 UTC
+# Standings for team1 as of 2026-06-10 20:23:23 UTC
 
 **Total Participants:** 2338
 
@@ -550,24 +550,24 @@
 | 542 | 306 | Valerie Alexander |
 | 543 | 306 | Rebecca Jackson |
 | 544 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 545 | 306 | Mafio SO |
-| 546 | 305 | Onovella Titsworth |
-| 547 | 305 | BonnieB |
-| 548 | 304 | Marlainia Boyd |
-| 549 | 303 | Lucy |
+| 545 | 306 | Lucy |
+| 546 | 306 | Mafio SO |
+| 547 | 305 | Onovella Titsworth |
+| 548 | 305 | BonnieB |
+| 549 | 304 | Marlainia Boyd |
 | 550 | 303 | Twisty Pivot |
 | 551 | 302 | Bambam |
 | 552 | 301 | Earl Williams |
-| 553 | 300 | brite |
-| 554 | 300 | Andra Ward |
-| 555 | 300 | Slinky Swipe |
-| 556 | 300 | Kate Moses |
-| 557 | 300 | Teddy Davis |
-| 558 | 300 | Phillip White |
+| 553 | 300 | Phillip White |
+| 554 | 300 | brite |
+| 555 | 300 | Andra Ward |
+| 556 | 300 | Slinky Swipe |
+| 557 | 300 | Kate Moses |
+| 558 | 300 | Teddy Davis |
 | 559 | 300 | Ashlie Mo |
-| 560 | 299 | Frilly Shatterline |
-| 561 | 299 | Saucy Faller |
-| 562 | 299 | Chandler Magee |
+| 560 | 299 | Chandler Magee |
+| 561 | 299 | Frilly Shatterline |
+| 562 | 299 | Saucy Faller |
 | 563 | 298 | Rachael R Gull |
 | 564 | 298 | Jjhandsome |
 | 565 | 294 | Lounique |
@@ -1441,31 +1441,31 @@
 | 1433 | 70 | Leon Brown III |
 | 1434 | 70 | Nissa |
 | 1435 | 69 | Charlie Brown |
-| 1436 | 69 | toooooott |
-| 1437 | 69 | BrettanMary Adkins |
-| 1438 | 68 | LOVE |
-| 1439 | 68 | OleGey |
-| 1440 | 68 | J Dot Flo |
-| 1441 | 68 | Saucy Crusher |
-| 1442 | 68 | Pleasure |
-| 1443 | 68 | Mississippigirl Countrygirl |
-| 1444 | 67 | Ray Eyes |
+| 1436 | 69 | Sunny Cascader |
+| 1437 | 69 | toooooott |
+| 1438 | 69 | BrettanMary Adkins |
+| 1439 | 68 | LOVE |
+| 1440 | 68 | OleGey |
+| 1441 | 68 | J Dot Flo |
+| 1442 | 68 | Saucy Crusher |
+| 1443 | 68 | Pleasure |
+| 1444 | 68 | Mississippigirl Countrygirl |
 | 1445 | 67 | Leiacellaa23 |
 | 1446 | 67 | Michele Elizabeth McKay-Johnson |
-| 1447 | 67 | Ericka C Branch |
-| 1448 | 67 | Tani |
-| 1449 | 67 | Catrina Zedd |
-| 1450 | 67 | Boldy Line |
-| 1451 | 67 | Evelyn Epps |
-| 1452 | 66 | Raquele Hines |
-| 1453 | 66 | Jroc Tyra Taylor |
-| 1454 | 66 | Jennifer Dawn Egbert Fenwick |
-| 1455 | 66 | Kerry Meister Rummel |
-| 1456 | 66 | LadiGurl |
-| 1457 | 66 | Tamara Jones |
-| 1458 | 66 | Francisco R. Avalos |
-| 1459 | 66 | Regina Hall |
-| 1460 | 66 | Sunny Cascader |
+| 1447 | 67 | Ray Eyes |
+| 1448 | 67 | Ericka C Branch |
+| 1449 | 67 | Tani |
+| 1450 | 67 | Catrina Zedd |
+| 1451 | 67 | Boldy Line |
+| 1452 | 67 | Evelyn Epps |
+| 1453 | 66 | Raquele Hines |
+| 1454 | 66 | Jroc Tyra Taylor |
+| 1455 | 66 | Jennifer Dawn Egbert Fenwick |
+| 1456 | 66 | Kerry Meister Rummel |
+| 1457 | 66 | LadiGurl |
+| 1458 | 66 | Tamara Jones |
+| 1459 | 66 | Francisco R. Avalos |
+| 1460 | 66 | Regina Hall |
 | 1461 | 66 | Meluhnee |
 | 1462 | 66 | Amanda Bell |
 | 1463 | 65 | Dee Williamson |

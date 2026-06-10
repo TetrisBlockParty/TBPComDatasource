@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 20:22:47 UTC
+# Standings for team2 as of 2026-06-10 20:23:23 UTC
 
 **Total Participants:** 2811
 
@@ -53,8 +53,8 @@
 | 45 | 5063 | Quirky Catcher |
 | 46 | 5036 | DarkHorse |
 | 47 | 4790 | Smashanator |
-| 48 | 4689 | Erica Dees Parks |
-| 49 | 4522 | Chipper Patternblock |
+| 48 | 4718 | Chipper Patternblock |
+| 49 | 4689 | Erica Dees Parks |
 | 50 | 4412 | Charles Varca |
 | 51 | 4402 | Charley Bedford |
 | 52 | 4310 | Julie Renee Bertram |
