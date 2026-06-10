@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 00:08:45 UTC
+# Standings for team1 as of 2026-06-10 00:09:21 UTC
 
 **Total Participants:** 2136
 
@@ -68,8 +68,8 @@
 | 60 | 1914 | Robyn Caldwell |
 | 61 | 1874 | Markeeta Lipscomb |
 | 62 | 1869 | Chris Russell |
-| 63 | 1814 | Louis Richard Jr |
-| 64 | 1809 | Jolly Dropzone |
+| 63 | 1829 | Jolly Dropzone |
+| 64 | 1814 | Louis Richard Jr |
 | 65 | 1801 | Moomoo |
 | 66 | 1786 | Jacoby E Fleming |
 | 67 | 1746 | Michael J Gresham |
@@ -134,9 +134,9 @@
 | 126 | 1017 | Spunky Edgefit |
 | 127 | 1004 | Cece Fowler |
 | 128 | 1000 | Felicia Williams |
-| 129 | 999 | Jeffrey Barrows |
-| 130 | 997 | Plucky Slamdrop |
-| 131 | 994 | Quirky Fallgrid |
+| 129 | 1000 | Quirky Fallgrid |
+| 130 | 999 | Jeffrey Barrows |
+| 131 | 997 | Plucky Slamdrop |
 | 132 | 968 | Jaida De'Anne Cox |
 | 133 | 966 | Sharon Cail |
 | 134 | 966 | Slim Shedidthat |
@@ -828,25 +828,25 @@
 | 820 | 160 | Tiffany Jean Hinson |
 | 821 | 160 | William Vidra |
 | 822 | 160 | Amanda Woodruff |
-| 823 | 160 | Cheeky Twistpiece |
-| 824 | 159 | Yvette McGee |
-| 825 | 159 | Frances Davis |
-| 826 | 159 | Lady T |
-| 827 | 159 | Kiki |
+| 823 | 160 | Yashicha Hertzock |
+| 824 | 160 | Cheeky Twistpiece |
+| 825 | 159 | Yvette McGee |
+| 826 | 159 | Frances Davis |
+| 827 | 159 | Lady T |
 | 828 | 159 | Boymama917 |
-| 829 | 158 | TotoCherue |
-| 830 | 158 | P C |
-| 831 | 158 | Chloe Bankz |
-| 832 | 158 | Heru Ogun Yeshua EL |
-| 833 | 158 | Meow Meow |
-| 834 | 157 | JesusSaves 😇 |
-| 835 | 157 | Chirpy Buildgrid |
-| 836 | 157 | Lootch |
-| 837 | 156 | Karen Denen |
-| 838 | 156 | Sallie Sanborn |
-| 839 | 156 | Oaklonboy mike |
-| 840 | 156 | Shanjerrica Taylor Rosell |
-| 841 | 156 | Yashicha Hertzock |
+| 829 | 159 | Kiki |
+| 830 | 158 | TotoCherue |
+| 831 | 158 | P C |
+| 832 | 158 | Chloe Bankz |
+| 833 | 158 | Heru Ogun Yeshua EL |
+| 834 | 158 | Meow Meow |
+| 835 | 157 | JesusSaves 😇 |
+| 836 | 157 | Chirpy Buildgrid |
+| 837 | 157 | Lootch |
+| 838 | 156 | Karen Denen |
+| 839 | 156 | Sallie Sanborn |
+| 840 | 156 | Oaklonboy mike |
+| 841 | 156 | Shanjerrica Taylor Rosell |
 | 842 | 155 | Yoellah Benyahmeen |
 | 843 | 155 | Melissa Ramsey |
 | 844 | 155 | Silly Edgepiece |
@@ -945,25 +945,25 @@
 | 937 | 130 | Maria Baez Medina |
 | 938 | 130 | Sarah Guarino |
 | 939 | 129 | Chino Baby |
-| 940 | 129 | Desiree Ryder |
+| 940 | 129 | Sharon Lynn |
 | 941 | 129 | Mumitt |
-| 942 | 128 | Brittany Britkany Marsden-Garrison |
-| 943 | 128 | Fatty May |
+| 942 | 129 | Desiree Ryder |
+| 943 | 128 | Brittany Britkany Marsden-Garrison |
 | 944 | 128 | Katness |
-| 945 | 128 | Stef Hu |
-| 946 | 127 | Esha I'msoproudofmyself Davis |
-| 947 | 127 | Pretty Yella |
-| 948 | 127 | tk |
-| 949 | 127 | Barbramerri Tarboro |
-| 950 | 126 | Elaine Pauley |
-| 951 | 126 | Kahh |
-| 952 | 126 | Sharon Lynn |
-| 953 | 126 | Latoya Carson |
-| 954 | 126 | Marc Papa |
-| 955 | 126 | Sally Elizabeth Hopson |
-| 956 | 126 | Benjamin Livingston |
-| 957 | 125 | Lucy Range |
-| 958 | 125 | Latanya Gayle |
+| 945 | 128 | Fatty May |
+| 946 | 128 | Stef Hu |
+| 947 | 127 | Esha I'msoproudofmyself Davis |
+| 948 | 127 | Pretty Yella |
+| 949 | 127 | tk |
+| 950 | 127 | Barbramerri Tarboro |
+| 951 | 126 | Sally Elizabeth Hopson |
+| 952 | 126 | Kahh |
+| 953 | 126 | Elaine Pauley |
+| 954 | 126 | Benjamin Livingston |
+| 955 | 126 | Marc Papa |
+| 956 | 126 | Latoya Carson |
+| 957 | 125 | Latanya Gayle |
+| 958 | 125 | Lucy Range |
 | 959 | 125 | Macho Lewis |
 | 960 | 124 | Angela Hill O'Neal |
 | 961 | 124 | Willson06 |
