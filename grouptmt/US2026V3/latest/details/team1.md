@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 15:52:46 UTC
+# Standings for team1 as of 2026-06-10 15:53:24 UTC
 
 **Total Participants:** 2291
 
@@ -684,52 +684,52 @@
 | 676 | 237 | Twisty Cascadeclear |
 | 677 | 237 | Logan Frost |
 | 678 | 237 | Ameillia Boughner |
-| 679 | 236 | Parris Wright |
-| 680 | 236 | Jas |
-| 681 | 236 | Semaj Johnson |
-| 682 | 235 | Daring Blockclear |
-| 683 | 235 | Squaw Ki Ng |
-| 684 | 235 | Juan Lewis |
-| 685 | 235 | nameno |
-| 686 | 234 | Coco |
-| 687 | 234 | Daring Riserfit |
-| 688 | 234 | Cori Cleland |
-| 689 | 233 | Claudia Price |
-| 690 | 233 | Bella |
-| 691 | 233 | Hyedie Badie |
-| 692 | 232 | Karen Knapp |
-| 693 | 232 | Mario Meliodas |
-| 694 | 231 | Lynn |
-| 695 | 231 | toxictonic92 |
-| 696 | 231 | Tyiesha Pie Farmer |
-| 697 | 230 | Cranky Fall |
+| 679 | 237 | Mario Meliodas |
+| 680 | 236 | Parris Wright |
+| 681 | 236 | Jas |
+| 682 | 236 | Semaj Johnson |
+| 683 | 235 | Daring Blockclear |
+| 684 | 235 | Squaw Ki Ng |
+| 685 | 235 | Juan Lewis |
+| 686 | 235 | nameno |
+| 687 | 234 | Coco |
+| 688 | 234 | Daring Riserfit |
+| 689 | 234 | Cori Cleland |
+| 690 | 233 | Claudia Price |
+| 691 | 233 | Bella |
+| 692 | 233 | Hyedie Badie |
+| 693 | 232 | Karen Knapp |
+| 694 | 231 | Tyiesha Pie Farmer |
+| 695 | 231 | Lynn |
+| 696 | 231 | toxictonic92 |
+| 697 | 230 | Poyre Shelton |
 | 698 | 230 | Adrian Wilson |
-| 699 | 230 | Jessica Kirby |
-| 700 | 230 | Poyre Shelton |
-| 701 | 229 | messyboots |
-| 702 | 229 | Kike Lua |
+| 699 | 230 | Cranky Fall |
+| 700 | 230 | Jessica Kirby |
+| 701 | 229 | Kike Lua |
+| 702 | 229 | messyboots |
 | 703 | 229 | Lucille Wilson Davis |
-| 704 | 228 | Spicy Shatterblock |
-| 705 | 228 | Kp |
+| 704 | 228 | Kp |
+| 705 | 228 | Spicy Shatterblock |
 | 706 | 227 | Lootch |
 | 707 | 227 | Kimberly Susan Privette |
 | 708 | 227 | Christina Singleton |
 | 709 | 226 | Kahliah Baker |
-| 710 | 226 | Londa Londa |
+| 710 | 226 | Rosalind Chatman |
 | 711 | 226 | Erica Campbell-Stillings |
-| 712 | 226 | Shameka Tiffany |
+| 712 | 226 | Rayshawn Cohen |
 | 713 | 226 | Stanley Dixon |
-| 714 | 226 | Rosalind Chatman |
-| 715 | 226 | Rayshawn Cohen |
-| 716 | 225 | Sherri Keys |
-| 717 | 225 | Joseph Vs Cap |
-| 718 | 225 | Sarah Swietlicki - Lopez |
-| 719 | 224 | Miera Nicole |
-| 720 | 224 | DeAngelo Sorrells |
+| 714 | 226 | Londa Londa |
+| 715 | 226 | Shameka Tiffany |
+| 716 | 225 | Sarah Swietlicki - Lopez |
+| 717 | 225 | Sherri Keys |
+| 718 | 225 | Joseph Vs Cap |
+| 719 | 224 | MELLZZtick€T |
+| 720 | 224 | Miera Nicole |
 | 721 | 224 | Joka NoTime ForHataz |
-| 722 | 224 | Ysma Simmons |
-| 723 | 224 | MELLZZtick€T |
-| 724 | 224 | Lively Wipeout |
+| 722 | 224 | DeAngelo Sorrells |
+| 723 | 224 | Lively Wipeout |
+| 724 | 224 | Ysma Simmons |
 | 725 | 223 | Stephen Providenti |
 | 726 | 223 | Analesia Taylor |
 | 727 | 222 | Victoria Smith |
@@ -739,16 +739,16 @@
 | 731 | 222 | Latoya Carson |
 | 732 | 221 | Shalena Marie Humphrey |
 | 733 | 221 | Jimmy Shannon |
-| 734 | 220 | Tushama Cheris Okraku |
-| 735 | 220 | Leavon Smith |
+| 734 | 220 | Leavon Smith |
+| 735 | 220 | Tushama Cheris Okraku |
 | 736 | 220 | jeremy92 |
 | 737 | 219 | Jackytrain52 |
-| 738 | 219 | Jason Saputo |
+| 738 | 219 | Cynda Cyn |
 | 739 | 219 | TY Newme Batts |
-| 740 | 219 | Cynda Cyn |
+| 740 | 219 | Jason Saputo |
 | 741 | 218 | Tee Spinks |
-| 742 | 217 | Polite Granny |
-| 743 | 217 | Louise Parker |
+| 742 | 217 | Louise Parker |
+| 743 | 217 | Polite Granny |
 | 744 | 217 | Shemar Singleton |
 | 745 | 217 | Travis Davison |
 | 746 | 216 | Laysa Nunez |

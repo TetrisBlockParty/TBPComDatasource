@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 15:52:46 UTC
+# Standings for team2 as of 2026-06-10 15:53:24 UTC
 
 **Total Participants:** 2771
 
@@ -196,8 +196,8 @@
 | 188 | 922 | Havik Whitfield |
 | 189 | 916 | SEH |
 | 190 | 913 | Amanda Sikes |
-| 191 | 908 | Robin G |
-| 192 | 906 | Jat |
+| 191 | 909 | Jat |
+| 192 | 908 | Robin G |
 | 193 | 901 | Fudgie Pie |
 | 194 | 898 | Crystal Allen |
 | 195 | 898 | Giggly Wipepiece |
@@ -243,9 +243,9 @@
 | 235 | 787 | Lisa Underwood Desmond |
 | 236 | 787 | SilentBuffalo |
 | 237 | 783 | Layla Petroff |
-| 238 | 778 | Tim Tim |
-| 239 | 777 | Alison Waller |
-| 240 | 777 | Chasity Simpson |
+| 238 | 780 | Chasity Simpson |
+| 239 | 778 | Tim Tim |
+| 240 | 777 | Alison Waller |
 | 241 | 776 | Katrien |
 | 242 | 774 | Mouh Med |
 | 243 | 771 | Jolly Slice |
@@ -477,19 +477,19 @@
 | 469 | 406 | Baby |
 | 470 | 406 | Spunky Linkblock |
 | 471 | 406 | Ray Daisy |
-| 472 | 405 | Danielle Pack Lewellen |
-| 473 | 405 | Brittni Lawrence |
-| 474 | 405 | Kelly Vedder |
-| 475 | 403 | PaiBri |
-| 476 | 403 | Speedy Spinfit |
-| 477 | 402 | Candi Cane |
-| 478 | 402 | Mrs biotch |
-| 479 | 401 | Alyssa Malay |
-| 480 | 400 | Tiffany Lewis |
-| 481 | 400 | Boldy Wobbler |
-| 482 | 399 | Mandeee |
-| 483 | 399 | Logan Duffey |
-| 484 | 399 | Po Yee |
+| 472 | 405 | Mrs biotch |
+| 473 | 405 | Danielle Pack Lewellen |
+| 474 | 405 | Brittni Lawrence |
+| 475 | 405 | Kelly Vedder |
+| 476 | 405 | Boldy Wobbler |
+| 477 | 403 | PaiBri |
+| 478 | 403 | Speedy Spinfit |
+| 479 | 402 | Candi Cane |
+| 480 | 401 | Alyssa Malay |
+| 481 | 400 | Tiffany Lewis |
+| 482 | 399 | Po Yee |
+| 483 | 399 | Mandeee |
+| 484 | 399 | Logan Duffey |
 | 485 | 398 | Amber Cogdill |
 | 486 | 397 | Jacquelyn Snyder Dumas |
 | 487 | 396 | Melisa |
