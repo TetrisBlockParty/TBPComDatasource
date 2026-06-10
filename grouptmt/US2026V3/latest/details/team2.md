@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:06:46 UTC
+# Standings for team2 as of 2026-06-10 08:07:22 UTC
 
 **Total Participants:** 2710
 
@@ -286,7 +286,7 @@
 | 278 | 642 | Bri St Peter |
 | 279 | 639 | Alicia Ellenburg |
 | 280 | 639 | Stephany Green |
-| 281 | 633 | Lyric Price |
+| 281 | 636 | Lyric Price |
 | 282 | 631 | Donna Esbensen-Alpini |
 | 283 | 630 | Nancy Schwartz Gusman-Oliver |
 | 284 | 628 | Ackerman 85 |
@@ -322,9 +322,9 @@
 | 314 | 577 | Kristi Chestnut |
 | 315 | 575 | Melissa Nash |
 | 316 | 574 | Brandy McCune Reep |
-| 317 | 565 | Kelly Rogers |
-| 318 | 565 | Judy Long |
-| 319 | 565 | Gill |
+| 317 | 570 | Judy Long |
+| 318 | 565 | Gill |
+| 319 | 565 | Kelly Rogers |
 | 320 | 561 | Lindsey Ford |
 | 321 | 560 | Frisky Tiltgrid |
 | 322 | 560 | Jamin |
@@ -354,9 +354,9 @@
 | 346 | 520 | Deezie |
 | 347 | 518 | Cheery Tilefall |
 | 348 | 518 | Jodi Johnson |
-| 349 | 517 | Santara Ferguson |
-| 350 | 517 | Nichole Wilson |
-| 351 | 517 | Jeffrey Smith |
+| 349 | 517 | Jeffrey Smith |
+| 350 | 517 | Santara Ferguson |
+| 351 | 517 | Nichole Wilson |
 | 352 | 517 | Julibeth Wells |
 | 353 | 511 | Flashy Drop |
 | 354 | 509 | Churube Finwoiisopw |
@@ -379,19 +379,19 @@
 | 371 | 480 | Physhie |
 | 372 | 480 | Jacob Carpenter |
 | 373 | 479 | Xandrea Jones |
-| 374 | 475 | Angela Hogan |
-| 375 | 474 | Kathryn |
-| 376 | 472 | Victoria Pale |
-| 377 | 470 | Loopy Dropper |
-| 378 | 467 | Missy Renia |
-| 379 | 464 | Leticia Tillman |
-| 380 | 464 | Jessica Connot |
-| 381 | 462 | Sarah Jane Gorsuch |
-| 382 | 462 | Funway998 |
-| 383 | 461 | Erica South |
-| 384 | 460 | Samantha Bugg Stitcher |
-| 385 | 460 | Happy |
-| 386 | 459 | Jessica Lynn |
+| 374 | 477 | Jessica Lynn |
+| 375 | 475 | Angela Hogan |
+| 376 | 474 | Kathryn |
+| 377 | 472 | Victoria Pale |
+| 378 | 470 | Loopy Dropper |
+| 379 | 467 | Missy Renia |
+| 380 | 464 | Leticia Tillman |
+| 381 | 464 | Jessica Connot |
+| 382 | 462 | Sarah Jane Gorsuch |
+| 383 | 462 | Funway998 |
+| 384 | 461 | Erica South |
+| 385 | 460 | Samantha Bugg Stitcher |
+| 386 | 460 | Happy |
 | 387 | 459 | Monica Gonzalez Rios |
 | 388 | 458 | Kathleen Keogh Van Schoyck |
 | 389 | 458 | Larry Cross |
@@ -778,21 +778,21 @@
 | 770 | 242 | Dame Smith |
 | 771 | 242 | Tina Kinney |
 | 772 | 241 | Blossom48 |
-| 773 | 240 | Mandy |
-| 774 | 240 | Tiffany Lewis |
-| 775 | 240 | Zesty Dash |
+| 773 | 240 | Tiffany Lewis |
+| 774 | 240 | Zesty Dash |
+| 775 | 240 | Mandy |
 | 776 | 240 | Ginger Nesbitt |
 | 777 | 240 | Adam Latin |
 | 778 | 239 | Nutty Fitzone |
 | 779 | 239 | Violet Olivares |
-| 780 | 239 | Kalli Bonin |
-| 781 | 239 | Michael Anthony Anstead |
-| 782 | 239 | Ashlee Johnson |
-| 783 | 239 | Flex |
-| 784 | 238 | Anzhen |
+| 780 | 239 | Quirky Gridclear |
+| 781 | 239 | Kalli Bonin |
+| 782 | 239 | Flex |
+| 783 | 239 | Ashlee Johnson |
+| 784 | 239 | Michael Anthony Anstead |
 | 785 | 238 | Suzanne Davis |
-| 786 | 238 | Chipper Towerzone |
-| 787 | 237 | Quirky Gridclear |
+| 786 | 238 | Anzhen |
+| 787 | 238 | Chipper Towerzone |
 | 788 | 237 | Renee Siems |
 | 789 | 237 | Anna Benjamin Freeman |
 | 790 | 236 | Lush Party |
@@ -801,47 +801,47 @@
 | 793 | 234 | ReiRei |
 | 794 | 234 | Debra May |
 | 795 | 234 | Connie Marie Cornell Lerma |
-| 796 | 233 | Jaimie Waybill |
+| 796 | 233 | Giggy Dropzone |
 | 797 | 233 | Andrea Rawson |
-| 798 | 233 | Brooke Kaune |
-| 799 | 233 | Jolene Hull Hearn |
-| 800 | 232 | Sandy Rundel Holderman |
-| 801 | 232 | Kati Eckstein |
-| 802 | 232 | Kristen |
-| 803 | 232 | Jeremy Daurbigny |
-| 804 | 231 | Camilo Moreno |
-| 805 | 231 | Amy |
-| 806 | 231 | Judy Burkhalter |
-| 807 | 231 | Twisty Matchfit |
-| 808 | 231 | SunnySquare |
-| 809 | 230 | Allison Peterson |
-| 810 | 230 | Sara BlueEyes |
-| 811 | 229 | Heather Billodeau |
-| 812 | 229 | IncrediDragon |
-| 813 | 229 | Rachel |
-| 814 | 229 | Shawn Jensen |
-| 815 | 228 | Jennifer Bromeisl-Tettam |
-| 816 | 228 | John Perkins |
-| 817 | 228 | sugabritches |
+| 798 | 233 | Jaimie Waybill |
+| 799 | 233 | Brooke Kaune |
+| 800 | 233 | Jolene Hull Hearn |
+| 801 | 232 | Sandy Rundel Holderman |
+| 802 | 232 | Kati Eckstein |
+| 803 | 232 | Kristen |
+| 804 | 232 | Jeremy Daurbigny |
+| 805 | 231 | Camilo Moreno |
+| 806 | 231 | Amy |
+| 807 | 231 | Judy Burkhalter |
+| 808 | 231 | Twisty Matchfit |
+| 809 | 231 | SunnySquare |
+| 810 | 230 | Allison Peterson |
+| 811 | 230 | Sara BlueEyes |
+| 812 | 229 | Heather Billodeau |
+| 813 | 229 | IncrediDragon |
+| 814 | 229 | Rachel |
+| 815 | 229 | Shawn Jensen |
+| 816 | 228 | Jennifer Bromeisl-Tettam |
+| 817 | 228 | John Perkins |
 | 818 | 228 | Michele Plunkett |
-| 819 | 228 | Maurii93 |
-| 820 | 227 | Josephina |
-| 821 | 227 | Chesney |
-| 822 | 226 | Eva Lopez |
-| 823 | 226 | Valeri Bradley |
-| 824 | 225 | R.w. Buck |
-| 825 | 225 | Jami Borges |
-| 826 | 224 | Stephanie Smith Robinson |
-| 827 | 224 | Glitzy Roll |
-| 828 | 224 | Christine James |
-| 829 | 224 | Leigh Wilkerson |
-| 830 | 224 | Dandy Tiltgrid |
-| 831 | 223 | Baby |
-| 832 | 223 | Kevin Patrick |
-| 833 | 223 | Hillary Frank |
-| 834 | 223 | Lydia Shonee |
-| 835 | 223 | Jazzy Snapfit |
-| 836 | 223 | Giggy Dropzone |
+| 819 | 228 | sugabritches |
+| 820 | 228 | Maurii93 |
+| 821 | 227 | Josephina |
+| 822 | 227 | Chesney |
+| 823 | 226 | Eva Lopez |
+| 824 | 226 | Valeri Bradley |
+| 825 | 225 | R.w. Buck |
+| 826 | 225 | Jami Borges |
+| 827 | 224 | Stephanie Smith Robinson |
+| 828 | 224 | Glitzy Roll |
+| 829 | 224 | Christine James |
+| 830 | 224 | Leigh Wilkerson |
+| 831 | 224 | Dandy Tiltgrid |
+| 832 | 223 | Baby |
+| 833 | 223 | Kevin Patrick |
+| 834 | 223 | Hillary Frank |
+| 835 | 223 | Lydia Shonee |
+| 836 | 223 | Jazzy Snapfit |
 | 837 | 222 | Sherri Caillet Aucoin |
 | 838 | 222 | Duck |
 | 839 | 222 | Heather |
@@ -849,12 +849,12 @@
 | 841 | 221 | Ashley Fleming |
 | 842 | 221 | Jillian Marie |
 | 843 | 221 | Ques Pryor |
-| 844 | 220 | Krystle L Coon |
-| 845 | 220 | Tami Leontyuk |
-| 846 | 220 | Debbie Davis |
-| 847 | 220 | Cool Balancer |
-| 848 | 220 | Jessica Garoutte |
-| 849 | 220 | Cassandra Milner |
+| 844 | 220 | Tami Leontyuk |
+| 845 | 220 | Debbie Davis |
+| 846 | 220 | Cool Balancer |
+| 847 | 220 | Jessica Garoutte |
+| 848 | 220 | Cassandra Milner |
+| 849 | 220 | Krystle L Coon |
 | 850 | 220 | Doug Small |
 | 851 | 219 | Jazzy |
 | 852 | 219 | Leighla Davis |
@@ -867,8 +867,8 @@
 | 859 | 217 | Amy |
 | 860 | 217 | Rmk |
 | 861 | 217 | Que Henderson |
-| 862 | 216 | Michael Saunders |
-| 863 | 216 | Lori Yelvington Cain |
+| 862 | 216 | Lori Yelvington Cain |
+| 863 | 216 | Michael Saunders |
 | 864 | 216 | Cody Gates |
 | 865 | 216 | Witty Shatterline |
 | 866 | 216 | Brenda Shannon |
