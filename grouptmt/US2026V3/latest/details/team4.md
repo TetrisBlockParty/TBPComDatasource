@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 14:19:20 UTC
+# Standings for team4 as of 2026-06-10 14:20:46 UTC
 
 **Total Participants:** 2331
 
@@ -40,9 +40,9 @@
 | 32 | 4841 | Daring Ziggy |
 | 33 | 4759 | Jackie Lucas |
 | 34 | 4418 | Victoria Ver |
-| 35 | 4323 | Leah Barnett |
-| 36 | 4319 | Tonya Brooks-Johnson |
-| 37 | 4298 | Leigh Pierce |
+| 35 | 4328 | Leigh Pierce |
+| 36 | 4323 | Leah Barnett |
+| 37 | 4319 | Tonya Brooks-Johnson |
 | 38 | 4179 | Witty Clicky |
 | 39 | 4150 | TitiLo72 |
 | 40 | 4137 | Blind Bette |
@@ -136,8 +136,8 @@
 | 128 | 1088 | blockhead |
 | 129 | 1085 | Melissa WC |
 | 130 | 1078 | Suzanne North |
-| 131 | 1058 | CJ |
-| 132 | 1058 | Dandy Puzzler |
+| 131 | 1058 | Dandy Puzzler |
+| 132 | 1058 | CJ |
 | 133 | 1057 | Heather Preston |
 | 134 | 1057 | Jumpy Brickline |
 | 135 | 1054 | Irma |
@@ -158,8 +158,8 @@
 | 150 | 970 | Kazrin Douglass |
 | 151 | 952 | Jessi Goodwin |
 | 152 | 952 | Alala.Cersei |
-| 153 | 950 | Joyce Myers |
-| 154 | 950 | Nicole Peoples |
+| 153 | 950 | Nicole Peoples |
+| 154 | 950 | Joyce Myers |
 | 155 | 946 | Sharidan Klinginsmith |
 | 156 | 933 | Daryn Elliott |
 | 157 | 931 | Cranky Towerbuilder |
@@ -189,8 +189,8 @@
 | 181 | 801 | Izz |
 | 182 | 790 | Magz |
 | 183 | 783 | Regina Williams |
-| 184 | 780 | CIRAZYPNOY |
-| 185 | 780 | Capone |
+| 184 | 780 | Capone |
+| 185 | 780 | CIRAZYPNOY |
 | 186 | 778 | LastBoi |
 | 187 | 775 | Baysoph |
 | 188 | 770 | Wanda Simmons |
@@ -204,8 +204,8 @@
 | 196 | 735 | Cinta Marie |
 | 197 | 730 | Chuck Burns |
 | 198 | 728 | Neeta Kapadia |
-| 199 | 728 | Roxana Romero |
-| 200 | 728 | Bonnie Powell |
+| 199 | 728 | Bonnie Powell |
+| 200 | 728 | Roxana Romero |
 | 201 | 725 | iiPurgeV2 |
 | 202 | 723 | zoes |
 | 203 | 721 | Janet Sanfilippo Sullivan |
@@ -306,12 +306,12 @@
 | 298 | 498 | Tasha Suzanne Prisbrey |
 | 299 | 496 | jaz |
 | 300 | 496 | Randy M Hatch |
-| 301 | 494 | Yesenia Castro Monreal |
-| 302 | 492 | Speedy Twistslam |
-| 303 | 489 | Slinky Column |
-| 304 | 488 | Aramat |
-| 305 | 487 | Plucky Shatterfit |
-| 306 | 485 | Andrick |
+| 301 | 495 | Andrick |
+| 302 | 494 | Yesenia Castro Monreal |
+| 303 | 492 | Speedy Twistslam |
+| 304 | 489 | Slinky Column |
+| 305 | 488 | Aramat |
+| 306 | 487 | Plucky Shatterfit |
 | 307 | 482 | RotatedWrongAgain |
 | 308 | 481 | Swanky Brickzone |
 | 309 | 480 | Adam Dickinson |
@@ -322,18 +322,18 @@
 | 314 | 473 | Shanae Taylor |
 | 315 | 472 | Karen Miller |
 | 316 | 472 | Chummy Jumper |
-| 317 | 471 | Tawna Curry |
-| 318 | 471 | Bridget Stevens |
+| 317 | 471 | Bridget Stevens |
+| 318 | 471 | Tawna Curry |
 | 319 | 470 | Jojo Ann |
 | 320 | 465 | Sarah Perry Cook |
 | 321 | 464 | Tiffany Bunker-Hill |
-| 322 | 462 | BusterBear56 |
+| 322 | 462 | Spunky Gridzone |
 | 323 | 462 | Sherry Mooney |
-| 324 | 462 | Spunky Gridzone |
+| 324 | 462 | BusterBear56 |
 | 325 | 461 | Kayla Fuentes |
-| 326 | 460 | Holly Wessel |
+| 326 | 460 | Shmeedo |
 | 327 | 460 | Knijur Callins |
-| 328 | 460 | Shmeedo |
+| 328 | 460 | Holly Wessel |
 | 329 | 460 | Chirpy Link |
 | 330 | 458 | Aisha Estrada |
 | 331 | 458 | Tipsy Piecebuilder |
@@ -467,8 +467,8 @@
 | 459 | 339 | Inez Nez |
 | 460 | 337 | Jazzy Rollout |
 | 461 | 337 | Tiggerjake |
-| 462 | 334 | Deborah Ayliffe |
-| 463 | 332 | Stasia |
+| 462 | 337 | Stasia |
+| 463 | 334 | Deborah Ayliffe |
 | 464 | 331 | Rosy Perez |
 | 465 | 331 | Maricela Joslin |
 | 466 | 331 | Lively Cascadebuilder |
@@ -765,41 +765,41 @@
 | 757 | 208 | Robert Moore |
 | 758 | 208 | Dandy Linkgrid |
 | 759 | 208 | Shirley A. Godfrey |
-| 760 | 207 | Ashley DuVall |
-| 761 | 207 | LaToya LeBlanc |
-| 762 | 207 | Jasmine Turner |
-| 763 | 206 | Miguel Teixeira |
-| 764 | 206 | Groovy Stacker |
-| 765 | 206 | Lizzzzzz |
-| 766 | 206 | Sandy Daye |
-| 767 | 205 | MrsAddams724 |
-| 768 | 205 | Kristine Hj Han |
-| 769 | 204 | Amber Jalbert |
-| 770 | 204 | Megan Lynn |
-| 771 | 204 | Brenda Gustamantes |
-| 772 | 204 | Jessica Caminos |
-| 773 | 204 | Jill Chapman-Yancer |
-| 774 | 203 | Goofy Strike |
-| 775 | 203 | Gma420 |
-| 776 | 202 | Clever Patterner |
-| 777 | 202 | Ashley Nichole Skamra |
-| 778 | 201 | Millie Hoskins |
-| 779 | 201 | Tipsy Patternfit |
-| 780 | 201 | Cozy Towerpiece |
-| 781 | 201 | Autumn Maher |
+| 760 | 207 | Autumn Maher |
+| 761 | 207 | Ashley DuVall |
+| 762 | 207 | LaToya LeBlanc |
+| 763 | 207 | Jasmine Turner |
+| 764 | 206 | Miguel Teixeira |
+| 765 | 206 | Groovy Stacker |
+| 766 | 206 | Lizzzzzz |
+| 767 | 206 | Sandy Daye |
+| 768 | 205 | MrsAddams724 |
+| 769 | 205 | Kristine Hj Han |
+| 770 | 204 | Amber Jalbert |
+| 771 | 204 | Megan Lynn |
+| 772 | 204 | Brenda Gustamantes |
+| 773 | 204 | Jessica Caminos |
+| 774 | 204 | Jill Chapman-Yancer |
+| 775 | 203 | Goofy Strike |
+| 776 | 203 | Gma420 |
+| 777 | 202 | Clever Patterner |
+| 778 | 202 | Ashley Nichole Skamra |
+| 779 | 201 | Millie Hoskins |
+| 780 | 201 | Tipsy Patternfit |
+| 781 | 201 | Cozy Towerpiece |
 | 782 | 201 | Kimberly Mae Watkins |
 | 783 | 200 | Jenn Wilson |
 | 784 | 200 | Sierra A Hortman |
 | 785 | 200 | Bumpy Morris |
-| 786 | 200 | Kiara Itzel Crowe |
-| 787 | 200 | Trishaann Triplett |
-| 788 | 200 | Michelle Sager |
+| 786 | 200 | Trishaann Triplett |
+| 787 | 200 | Michelle Sager |
+| 788 | 200 | Kiara Itzel Crowe |
 | 789 | 200 | Melissa Derby Rood |
 | 790 | 199 | Andretta Sellers Robinson |
-| 791 | 199 | Lindsey DeRosa |
-| 792 | 199 | Elena Marí |
-| 793 | 199 | Frilly Riserpiece |
-| 794 | 199 | Nicole Dombrow |
+| 791 | 199 | Nicole Dombrow |
+| 792 | 199 | Frilly Riserpiece |
+| 793 | 199 | Elena Marí |
+| 794 | 199 | Lindsey DeRosa |
 | 795 | 199 | Janet Willoughby |
 | 796 | 199 | Gigi5 |
 | 797 | 198 | Ian T Parker |
