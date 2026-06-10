@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:24:47 UTC
+# Standings for team2 as of 2026-06-10 08:25:22 UTC
 
 **Total Participants:** 2711
 
@@ -892,9 +892,9 @@
 | 884 | 210 | Dee |
 | 885 | 209 | Groovy Glider |
 | 886 | 208 | rebel4lyfe |
-| 887 | 208 | Arik DiLorenzo |
+| 887 | 208 | Tia Guile |
 | 888 | 208 | Chill Clearbuilder |
-| 889 | 208 | Tia Guile |
+| 889 | 208 | Arik DiLorenzo |
 | 890 | 207 | Rae |
 | 891 | 207 | Funky Blockmatch |
 | 892 | 207 | Tracey Cox |
@@ -904,20 +904,20 @@
 | 896 | 204 | Sillyk |
 | 897 | 204 | Shelby Wilson |
 | 898 | 203 | Crystal Robinson |
-| 899 | 203 | Nick Waterwalker |
-| 900 | 203 | Evelyn Olive Kalmbach |
+| 899 | 203 | Evelyn Olive Kalmbach |
+| 900 | 203 | Nick Waterwalker |
 | 901 | 202 | y |
 | 902 | 202 | Jessica Rose Engebretson |
 | 903 | 202 | Chris |
 | 904 | 201 | Jolly Twisterfit |
 | 905 | 200 | Cool Patternbuilder |
-| 906 | 200 | Tammy Botkin |
-| 907 | 200 | Karen Mueller |
-| 908 | 200 | Audrey Morris |
-| 909 | 200 | Dandy Column |
-| 910 | 199 | KCBlocker |
+| 906 | 200 | Dandy Column |
+| 907 | 200 | Audrey Morris |
+| 908 | 200 | Karen Mueller |
+| 909 | 200 | Tammy Botkin |
+| 910 | 199 | Heather Nicole |
 | 911 | 199 | Silly Chiseler |
-| 912 | 199 | Heather Nicole |
+| 912 | 199 | KCBlocker |
 | 913 | 199 | Heather Vircik |
 | 914 | 198 | Frothy Roll |
 | 915 | 198 | Shiny Matchpiece |
@@ -927,21 +927,21 @@
 | 919 | 197 | Jessica Perkins |
 | 920 | 196 | Tiffany Powell |
 | 921 | 196 | Dayna Messer-Thelen |
-| 922 | 196 | Rebekah Holland |
-| 923 | 195 | jme |
-| 924 | 195 | Frothy Faller |
-| 925 | 195 | ASL |
-| 926 | 195 | Silly Clicker |
-| 927 | 195 | Nicole Sides KrazyKoop |
-| 928 | 195 | Gage Tucker |
+| 922 | 196 | Rachel Wooldridge |
+| 923 | 196 | Rebekah Holland |
+| 924 | 195 | jme |
+| 925 | 195 | Silly Clicker |
+| 926 | 195 | Frothy Faller |
+| 927 | 195 | ASL |
+| 928 | 195 | Nicole Sides KrazyKoop |
 | 929 | 195 | C.L. Deslongchamp |
-| 930 | 195 | Staci Walker |
-| 931 | 195 | Kelly Hall Whitt |
-| 932 | 195 | Carmina Truoiolo |
-| 933 | 194 | sampson |
-| 934 | 194 | JDub |
-| 935 | 193 | JrsWife |
-| 936 | 193 | Rachel Wooldridge |
+| 930 | 195 | Gage Tucker |
+| 931 | 195 | Staci Walker |
+| 932 | 195 | Kelly Hall Whitt |
+| 933 | 195 | Carmina Truoiolo |
+| 934 | 194 | sampson |
+| 935 | 194 | JDub |
+| 936 | 193 | JrsWife |
 | 937 | 193 | Sleepypanda67 |
 | 938 | 193 | Jaimie Walters |
 | 939 | 193 | Toni Washington |
@@ -966,12 +966,12 @@
 | 958 | 189 | Goofy Patternfit |
 | 959 | 189 | Audrey Bickford |
 | 960 | 189 | Kristi K Milner |
-| 961 | 188 | Nikki Layman |
-| 962 | 188 | Ceci |
+| 961 | 188 | Ceci |
+| 962 | 188 | Nikki Layman |
 | 963 | 188 | Derrick |
 | 964 | 187 | Abby |
-| 965 | 187 | Elizabeth Kline |
-| 966 | 187 | Hog Crankin |
+| 965 | 187 | Hog Crankin |
+| 966 | 187 | Elizabeth Kline |
 | 967 | 187 | Aaron Jones |
 | 968 | 187 | Sara Dunn |
 | 969 | 187 | Witty Riser |
@@ -988,8 +988,8 @@
 | 980 | 184 | Rubics cube |
 | 981 | 184 | YAKO |
 | 982 | 184 | Melissa Abbott |
-| 983 | 184 | Tabitha Ann Bullins-Cobb |
-| 984 | 184 | Dandy Brickbuilder |
+| 983 | 184 | Dandy Brickbuilder |
+| 984 | 184 | Tabitha Ann Bullins-Cobb |
 | 985 | 184 | Jackelyn Ford |
 | 986 | 183 | Jennifer Augustine |
 | 987 | 183 | Reggie Ellerbe |

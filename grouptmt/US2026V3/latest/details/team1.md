@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:24:47 UTC
+# Standings for team1 as of 2026-06-10 08:25:22 UTC
 
 **Total Participants:** 2246
 
@@ -174,9 +174,9 @@
 | 166 | 823 | Shontanese Adams |
 | 167 | 821 | Gotcha |
 | 168 | 821 | Chuck Quarles |
-| 169 | 814 | Andi McGreevy |
-| 170 | 813 | Rackemwillie34 |
-| 171 | 812 | Byron Mario Cawthon |
+| 169 | 814 | Byron Mario Cawthon |
+| 170 | 814 | Andi McGreevy |
+| 171 | 813 | Rackemwillie34 |
 | 172 | 808 | Taylor Evelyn |
 | 173 | 803 | Big Tina |
 | 174 | 790 | xXEKUNXx |
@@ -726,72 +726,72 @@
 | 718 | 210 | Nisha Sunshine Jenkins |
 | 719 | 210 | Slinky Fallzone |
 | 720 | 209 | Mami Badd |
-| 721 | 209 | Marsha Earl |
-| 722 | 209 | Anastasia |
+| 721 | 209 | Anastasia |
+| 722 | 209 | Marsha Earl |
 | 723 | 209 | $hort Dog |
 | 724 | 209 | Pj Rojas |
-| 725 | 208 | Parris Wright |
-| 726 | 208 | Kelvin Cook |
-| 727 | 207 | Tangy Moore |
-| 728 | 207 | Dana Hawes |
-| 729 | 207 | Ad Doctor |
-| 730 | 207 | Rachel Renae Bettis |
-| 731 | 206 | Tony Pizzas |
-| 732 | 205 | Treneil Daffin |
-| 733 | 205 | Tramaine Crockrum |
-| 734 | 205 | tg |
-| 735 | 205 | Kim Holzmiller |
-| 736 | 204 | Glitzy Clusterer |
-| 737 | 204 | Tyler |
-| 738 | 204 | Xana Zania Bopp |
+| 725 | 208 | Tyler |
+| 726 | 208 | Parris Wright |
+| 727 | 208 | Kelvin Cook |
+| 728 | 207 | Tangy Moore |
+| 729 | 207 | Dana Hawes |
+| 730 | 207 | Ad Doctor |
+| 731 | 207 | Rachel Renae Bettis |
+| 732 | 206 | Tony Pizzas |
+| 733 | 205 | Treneil Daffin |
+| 734 | 205 | Tramaine Crockrum |
+| 735 | 205 | tg |
+| 736 | 205 | Kim Holzmiller |
+| 737 | 204 | Xana Zania Bopp |
+| 738 | 204 | Glitzy Clusterer |
 | 739 | 204 | Renee Marshall |
 | 740 | 203 | MrsDontPlay |
 | 741 | 203 | Ebby |
-| 742 | 202 | Marbama |
+| 742 | 202 | Messy Live |
 | 743 | 202 | Don Ray Mc |
 | 744 | 202 | Alexandrla Smith |
 | 745 | 202 | Hyper Blocky |
-| 746 | 202 | Messy Live |
-| 747 | 202 | Nutty Fallmatch |
-| 748 | 202 | Undeniable Williams |
+| 746 | 202 | Marbama |
+| 747 | 202 | Undeniable Williams |
+| 748 | 202 | Nutty Fallmatch |
 | 749 | 200 | Yellowguy3 |
-| 750 | 200 | RylonJones |
-| 751 | 200 | Jimmy Shannon |
+| 750 | 200 | Jimmy Shannon |
+| 751 | 200 | Victoria Smith |
 | 752 | 200 | Kyle Conley |
-| 753 | 200 | Victoria Smith |
-| 754 | 198 | Cornelius Neal |
-| 755 | 198 | Rhianna Dinki Austin |
-| 756 | 198 | Darrelle Short |
-| 757 | 198 | Lynn |
-| 758 | 198 | Stephen Garland |
+| 753 | 200 | RylonJones |
+| 754 | 198 | Stephen Garland |
+| 755 | 198 | Darrelle Short |
+| 756 | 198 | Lynn |
+| 757 | 198 | Cornelius Neal |
+| 758 | 198 | Rhianna Dinki Austin |
 | 759 | 197 | Seddrick |
 | 760 | 197 | krd |
-| 761 | 196 | Katness |
-| 762 | 196 | LaSharmeika Fancher |
+| 761 | 196 | LaSharmeika Fancher |
+| 762 | 196 | Katness |
 | 763 | 196 | whatever |
 | 764 | 195 | Nikiya |
 | 765 | 195 | Elaine Pauley |
 | 766 | 193 | Sherry D Singleton |
 | 767 | 192 | QueenzMo |
-| 768 | 192 | Cameo Tweed |
+| 768 | 192 | Cranky Fall |
 | 769 | 192 | Taneka Howell |
-| 770 | 192 | Cranky Fall |
-| 771 | 190 | Chipper Snapper |
-| 772 | 190 | Essence Jones |
+| 770 | 192 | Cameo Tweed |
+| 771 | 190 | Essence Jones |
+| 772 | 190 | Chipper Snapper |
 | 773 | 189 | TBabii24 |
-| 774 | 189 | Missy Myvette |
+| 774 | 189 | Sunny Tumbler |
 | 775 | 189 | Jes Marie |
-| 776 | 189 | Sunny Tumbler |
-| 777 | 189 | Anntionette Sotire |
-| 778 | 189 | Duncan Timothy |
-| 779 | 189 | Sean White |
+| 776 | 189 | Duncan Timothy |
+| 777 | 189 | Sean White |
+| 778 | 189 | Anntionette Sotire |
+| 779 | 189 | Missy Myvette |
 | 780 | 188 | Mary Goode |
 | 781 | 187 | Vontesha Kidd |
 | 782 | 187 | Chocolate |
 | 783 | 187 | Lively Riserpiece |
-| 784 | 186 | Christy Quick |
+| 784 | 186 | Dirty Deeds |
 | 785 | 186 | Vannie G |
-| 786 | 186 | Dirty Deeds |
+| 786 | 186 | Christy Quick |
 | 787 | 186 | Nekka |
 | 788 | 186 | Tiffany Conley |
 | 789 | 186 | Morenita Rodriguez |
