@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 11:40:45 UTC
+# Standings for team4 as of 2026-06-10 11:41:23 UTC
 
 **Total Participants:** 2313
 
@@ -120,7 +120,7 @@
 | 112 | 1196 | J |
 | 113 | 1191 | Dana Fontanez |
 | 114 | 1189 | Twirl Girl |
-| 115 | 1174 | GeorgeButts |
+| 115 | 1177 | GeorgeButts |
 | 116 | 1156 | Jonathan Hewitt |
 | 117 | 1156 | Dee Wizz |
 | 118 | 1145 | Kristen Wallace |
@@ -359,10 +359,10 @@
 | 351 | 421 | Ashley Jenkins |
 | 352 | 420 | Speedy Twistslam |
 | 353 | 418 | Juvon SupaShawdii Brooks |
-| 354 | 418 | Dawn Marie Trujillo |
-| 355 | 415 | Karen Rodriguez |
-| 356 | 415 | Kea Sushi |
-| 357 | 414 | Anthony McAlister |
+| 354 | 418 | Anthony McAlister |
+| 355 | 418 | Dawn Marie Trujillo |
+| 356 | 415 | Karen Rodriguez |
+| 357 | 415 | Kea Sushi |
 | 358 | 412 | Clashy |
 | 359 | 412 | Dazzle Dragon |
 | 360 | 412 | Dan Butcher |
@@ -456,11 +456,11 @@
 | 448 | 332 | Heidi Hala |
 | 449 | 332 | Stasia |
 | 450 | 331 | Kaps |
-| 451 | 329 | MrsReap |
-| 452 | 329 | Lani |
-| 453 | 329 | DanceAngel |
-| 454 | 328 | Bre Dee |
-| 455 | 327 | FitMeDiva |
+| 451 | 331 | FitMeDiva |
+| 452 | 329 | MrsReap |
+| 453 | 329 | Lani |
+| 454 | 329 | DanceAngel |
+| 455 | 328 | Bre Dee |
 | 456 | 327 | Jen Roe |
 | 457 | 325 | Chonda OhanaMomma Michelle |
 | 458 | 325 | Matthew Wilcox |
@@ -1131,10 +1131,10 @@
 | 1123 | 123 | Cheeky Linkpiece |
 | 1124 | 123 | Fancy Gridroll |
 | 1125 | 122 | 94Blockhead |
-| 1126 | 122 | Misti Rich |
-| 1127 | 122 | Matoka Shuford |
-| 1128 | 121 | Maicy Darrah |
-| 1129 | 121 | Jonathan Jackson |
+| 1126 | 122 | Jonathan Jackson |
+| 1127 | 122 | Misti Rich |
+| 1128 | 122 | Matoka Shuford |
+| 1129 | 121 | Maicy Darrah |
 | 1130 | 121 | Quiles Yaitza |
 | 1131 | 120 | Corissa Handy |
 | 1132 | 120 | Donny Keets |

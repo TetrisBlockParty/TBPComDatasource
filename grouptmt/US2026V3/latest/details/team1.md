@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 11:40:45 UTC
+# Standings for team1 as of 2026-06-10 11:41:23 UTC
 
 **Total Participants:** 2262
 
@@ -56,7 +56,7 @@
 | 48 | 2448 | Mimi 1.0 |
 | 49 | 2370 | Therealdywoune Peay |
 | 50 | 2285 | Markeeta Lipscomb |
-| 51 | 2206 | Chris Caniglia |
+| 51 | 2211 | Chris Caniglia |
 | 52 | 2203 | BlackQueen105 |
 | 53 | 2174 | Robyn Caldwell |
 | 54 | 2145 | Brian Bohanon II |
@@ -900,12 +900,12 @@
 | 892 | 163 | Kathleen Boyles |
 | 893 | 163 | TNT |
 | 894 | 162 | Jasmine Hariston-Estis |
-| 895 | 162 | Big Bovice |
-| 896 | 162 | Fatty May |
-| 897 | 162 | Chill Linkroll |
-| 898 | 162 | Sandra Mims |
-| 899 | 162 | Speedy Stacky |
-| 900 | 161 | Tanesha Ga'sFinest Corbett |
+| 895 | 162 | Tanesha Ga'sFinest Corbett |
+| 896 | 162 | Big Bovice |
+| 897 | 162 | Fatty May |
+| 898 | 162 | Chill Linkroll |
+| 899 | 162 | Sandra Mims |
+| 900 | 162 | Speedy Stacky |
 | 901 | 161 | Melvin Simpson |
 | 902 | 161 | Biggestboss Ransom |
 | 903 | 161 | Cauiasia DeJ'ae |
