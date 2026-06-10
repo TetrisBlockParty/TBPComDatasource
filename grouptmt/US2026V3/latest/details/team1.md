@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 23:22:45 UTC
+# Standings for team1 as of 2026-06-10 23:23:26 UTC
 
 **Total Participants:** 2366
 
@@ -123,10 +123,10 @@
 | 115 | 1350 | Sarah Barnum |
 | 116 | 1327 | Nutty Spinblock |
 | 117 | 1326 | Cj Gorman |
-| 118 | 1323 | Denise B |
-| 119 | 1319 | G Ah Mayes |
-| 120 | 1315 | Kimberly Hernandez |
-| 121 | 1309 | Catara Renae Oliver |
+| 118 | 1323 | Catara Renae Oliver |
+| 119 | 1323 | Denise B |
+| 120 | 1319 | G Ah Mayes |
+| 121 | 1315 | Kimberly Hernandez |
 | 122 | 1303 | Aviv Zehavi |
 | 123 | 1298 | Felicia Williams |
 | 124 | 1296 | Alana Renee |
@@ -200,8 +200,8 @@
 | 192 | 798 | Zappy Riser |
 | 193 | 791 | Jamal Itzjusmall Chambers |
 | 194 | 787 | Jazzy Fireflighters |
-| 195 | 776 | Abraham Espaillat |
-| 196 | 770 | Po Marley |
+| 195 | 783 | Po Marley |
+| 196 | 776 | Abraham Espaillat |
 | 197 | 770 | Genne Scott |
 | 198 | 764 | Chantelle Lee |
 | 199 | 764 | Nobles Brandon |
@@ -314,9 +314,9 @@
 | 306 | 521 | Anthony |
 | 307 | 521 | Jawaun Daniels |
 | 308 | 519 | Clever Fitblock |
-| 309 | 514 | Dai Bo |
-| 310 | 514 | Slinky Brickmatch |
-| 311 | 512 | Koi |
+| 309 | 515 | Koi |
+| 310 | 514 | Dai Bo |
+| 311 | 514 | Slinky Brickmatch |
 | 312 | 511 | Dizzy Dropper |
 | 313 | 509 | Andy Rivera |
 | 314 | 509 | JaClanDiah |
@@ -813,12 +813,12 @@
 | 805 | 214 | Nickeya Phillips |
 | 806 | 213 | Oaklonboy mike |
 | 807 | 213 | Seirra Robinson |
-| 808 | 212 | tskmstr |
-| 809 | 212 | Chocolate |
-| 810 | 212 | Ivery Lee Grays Jr. |
-| 811 | 212 | Don Ray Mc |
-| 812 | 212 | DirtiestofMikes |
-| 813 | 211 | Chereese Harris |
+| 808 | 213 | Chereese Harris |
+| 809 | 212 | tskmstr |
+| 810 | 212 | Chocolate |
+| 811 | 212 | Ivery Lee Grays Jr. |
+| 812 | 212 | Don Ray Mc |
+| 813 | 212 | DirtiestofMikes |
 | 814 | 211 | Deanna Close |
 | 815 | 211 | Terrie |
 | 816 | 210 | Slinky Fallzone |
@@ -1095,16 +1095,16 @@
 | 1087 | 135 | UnionBoss |
 | 1088 | 135 | Caitlin Michele |
 | 1089 | 135 | Eugenia Vanclusen |
-| 1090 | 135 | Lively Rollpiece |
-| 1091 | 135 | Teresa Menefee |
-| 1092 | 135 | Saucy Tile |
-| 1093 | 134 | Brave Gridmatch |
-| 1094 | 134 | Terrence Webster |
-| 1095 | 134 | Laurie Napper |
-| 1096 | 133 | Terrance Tindall |
-| 1097 | 132 | Shaun Baker |
-| 1098 | 132 | Mumitt |
-| 1099 | 131 | Bunnie Celtavini |
+| 1090 | 135 | Teresa Menefee |
+| 1091 | 135 | Saucy Tile |
+| 1092 | 135 | Lively Rollpiece |
+| 1093 | 134 | Bunnie Celtavini |
+| 1094 | 134 | Brave Gridmatch |
+| 1095 | 134 | Terrence Webster |
+| 1096 | 134 | Laurie Napper |
+| 1097 | 133 | Terrance Tindall |
+| 1098 | 132 | Shaun Baker |
+| 1099 | 132 | Mumitt |
 | 1100 | 131 | WReckitraff |
 | 1101 | 131 | b |
 | 1102 | 130 | Nope Young |
