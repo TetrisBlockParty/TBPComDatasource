@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:14:46 UTC
+# Standings for team4 as of 2026-06-10 10:15:24 UTC
 
 **Total Participants:** 2303
 
@@ -1027,42 +1027,42 @@
 | 1019 | 140 | Heather Brown |
 | 1020 | 140 | Groovy Matchgrid |
 | 1021 | 140 | Deanne Silverdahl |
-| 1022 | 140 | the repo |
-| 1023 | 140 | Littleshark |
-| 1024 | 140 | Elizabeth Ann Caro |
-| 1025 | 140 | Larredo Covington |
-| 1026 | 140 | Jean Yap |
-| 1027 | 140 | Glitter |
-| 1028 | 140 | Aim Georgia Bros Scott |
-| 1029 | 140 | Willy Leung |
-| 1030 | 140 | skynatda |
-| 1031 | 139 | Cozy Patternbuilder |
-| 1032 | 139 | Gualberto Ramirez |
-| 1033 | 139 | Giggy Snapgrid |
-| 1034 | 139 | Erich EMac McIntosh |
-| 1035 | 139 | Jonelle Jacobs |
-| 1036 | 139 | Melissa Wilson |
-| 1037 | 139 | da1ndonly |
-| 1038 | 138 | Ami Ferguson |
-| 1039 | 138 | Lush Match |
-| 1040 | 138 | Tammy Lasseigne |
-| 1041 | 138 | Meghan Etchells |
-| 1042 | 138 | Vanessa Torres |
-| 1043 | 138 | Blu |
-| 1044 | 137 | Amowe |
-| 1045 | 137 | Susan Mary Kelley |
-| 1046 | 137 | Lala |
-| 1047 | 136 | Marie Culbert |
+| 1022 | 140 | Marie Culbert |
+| 1023 | 140 | the repo |
+| 1024 | 140 | Littleshark |
+| 1025 | 140 | Elizabeth Ann Caro |
+| 1026 | 140 | Larredo Covington |
+| 1027 | 140 | Jean Yap |
+| 1028 | 140 | Glitter |
+| 1029 | 140 | Aim Georgia Bros Scott |
+| 1030 | 140 | Willy Leung |
+| 1031 | 140 | skynatda |
+| 1032 | 139 | Cozy Patternbuilder |
+| 1033 | 139 | Gualberto Ramirez |
+| 1034 | 139 | Giggy Snapgrid |
+| 1035 | 139 | Erich EMac McIntosh |
+| 1036 | 139 | Jonelle Jacobs |
+| 1037 | 139 | Melissa Wilson |
+| 1038 | 139 | da1ndonly |
+| 1039 | 138 | Ami Ferguson |
+| 1040 | 138 | Lush Match |
+| 1041 | 138 | Tammy Lasseigne |
+| 1042 | 138 | Meghan Etchells |
+| 1043 | 138 | Vanessa Torres |
+| 1044 | 138 | Blu |
+| 1045 | 137 | Amowe |
+| 1046 | 137 | Susan Mary Kelley |
+| 1047 | 137 | Lala |
 | 1048 | 136 | Dannie Ems |
 | 1049 | 136 | Gwendolyn Langwinski |
 | 1050 | 135 | Jennifer Terrill |
 | 1051 | 135 | Crystal Parker Bryant |
-| 1052 | 134 | Jeni |
+| 1052 | 134 | LaShieka Noland |
 | 1053 | 134 | Samantha Brandt |
 | 1054 | 134 | Kena T. Tanner |
 | 1055 | 134 | Alex Dawn |
 | 1056 | 134 | Rocky |
-| 1057 | 134 | LaShieka Noland |
+| 1057 | 134 | Jeni |
 | 1058 | 133 | Masiso |
 | 1059 | 133 | Michelle Wiles |
 | 1060 | 133 | Hayze |
