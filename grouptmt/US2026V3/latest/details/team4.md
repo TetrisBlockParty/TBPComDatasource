@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 03:08:44 UTC
+# Standings for team4 as of 2026-06-10 03:09:22 UTC
 
 **Total Participants:** 2245
 
@@ -559,29 +559,29 @@
 | 551 | 258 | my my |
 | 552 | 258 | Danny Frausto |
 | 553 | 258 | Brainbabe |
-| 554 | 257 | Happy Puzzle |
-| 555 | 257 | MattJennifer Marie Ericson |
-| 556 | 257 | Travis McKinnon |
+| 554 | 257 | Travis McKinnon |
+| 555 | 257 | Happy Puzzle |
+| 556 | 257 | MattJennifer Marie Ericson |
 | 557 | 255 | Daniel Lossman |
 | 558 | 255 | EpicWizard |
 | 559 | 255 | Littlebrat |
-| 560 | 254 | Mimi Dominguez |
-| 561 | 254 | farfromlocal |
+| 560 | 254 | farfromlocal |
+| 561 | 254 | Mimi Dominguez |
 | 562 | 253 | LeRoy jenkins |
-| 563 | 252 | Ryan Paul Clark-Ramsey |
-| 564 | 251 | Kaps |
-| 565 | 251 | Lul Babie |
-| 566 | 250 | Silly Fallzone |
-| 567 | 250 | Rita Ann |
-| 568 | 250 | Cari Underwood |
-| 569 | 250 | DrC |
-| 570 | 250 | Alexsandra Hill |
-| 571 | 249 | Will E Ayala |
-| 572 | 249 | Cecilia Hicks |
-| 573 | 249 | Brennan Shea Greene |
-| 574 | 248 | Josh Keith Travierso |
-| 575 | 248 | alxhue04 |
-| 576 | 248 | Snippy Racker |
+| 563 | 252 | Snippy Racker |
+| 564 | 252 | Ryan Paul Clark-Ramsey |
+| 565 | 251 | Kaps |
+| 566 | 251 | Lul Babie |
+| 567 | 250 | DrC |
+| 568 | 250 | Alexsandra Hill |
+| 569 | 250 | Silly Fallzone |
+| 570 | 250 | Rita Ann |
+| 571 | 250 | Cari Underwood |
+| 572 | 249 | Will E Ayala |
+| 573 | 249 | Cecilia Hicks |
+| 574 | 249 | Brennan Shea Greene |
+| 575 | 248 | Josh Keith Travierso |
+| 576 | 248 | alxhue04 |
 | 577 | 247 | Jeremy Barry |
 | 578 | 247 | Shauna Davis |
 | 579 | 247 | Natalie Dillard |
@@ -910,35 +910,35 @@
 | 902 | 153 | Witty Fitblock |
 | 903 | 153 | JUNE |
 | 904 | 153 | Melissa Anne |
-| 905 | 152 | Loyalty83 |
-| 906 | 152 | Bhakti Sawarkar |
-| 907 | 152 | Breezy Rollfit |
+| 905 | 153 | Emily Lowe |
+| 906 | 152 | Loyalty83 |
+| 907 | 152 | Bhakti Sawarkar |
 | 908 | 152 | Street724 |
-| 909 | 151 | Ajohnna Frazee |
-| 910 | 151 | Ginny |
-| 911 | 151 | Kasey Lynne |
-| 912 | 151 | Jason Moves |
-| 913 | 150 | Tigger |
-| 914 | 150 | Tod Jae |
-| 915 | 150 | Breezy Brickfit |
-| 916 | 149 | Emily Lowe |
-| 917 | 149 | Snappy Fill |
-| 918 | 149 | Loony Edge |
-| 919 | 149 | Bam SwaggSpitter King |
-| 920 | 149 | Lori A Hamann |
+| 909 | 152 | Breezy Rollfit |
+| 910 | 151 | Ajohnna Frazee |
+| 911 | 151 | Jason Moves |
+| 912 | 151 | Kasey Lynne |
+| 913 | 151 | Ginny |
+| 914 | 150 | Breezy Brickfit |
+| 915 | 150 | Tod Jae |
+| 916 | 150 | Tigger |
+| 917 | 149 | Bam SwaggSpitter King |
+| 918 | 149 | Snappy Fill |
+| 919 | 149 | Lori A Hamann |
+| 920 | 149 | Loony Edge |
 | 921 | 148 | Erica Hardwick |
-| 922 | 148 | Amy Gutierrez |
-| 923 | 148 | Jasmine Marie |
-| 924 | 148 | Monica Shupe |
-| 925 | 148 | Lamont |
-| 926 | 148 | Conela Rouse Goldstein |
-| 927 | 148 | Latisha TeTe Williams |
-| 928 | 148 | Mar Mar |
-| 929 | 148 | Ash |
-| 930 | 147 | Frisky Balance |
-| 931 | 147 | YenSid |
-| 932 | 147 | La Ah Ox |
-| 933 | 147 | Gracey Po |
+| 922 | 148 | Latisha TeTe Williams |
+| 923 | 148 | Conela Rouse Goldstein |
+| 924 | 148 | Lamont |
+| 925 | 148 | Monica Shupe |
+| 926 | 148 | Mar Mar |
+| 927 | 148 | Jasmine Marie |
+| 928 | 148 | Ash |
+| 929 | 148 | Amy Gutierrez |
+| 930 | 147 | YenSid |
+| 931 | 147 | Gracey Po |
+| 932 | 147 | Frisky Balance |
+| 933 | 147 | La Ah Ox |
 | 934 | 147 | Kristie ML SneekaPuff |
 | 935 | 146 | Mone DyTorrion Zyan Lotts |
 | 936 | 146 | Lady |
@@ -952,29 +952,29 @@
 | 944 | 145 | Hooti Smile |
 | 945 | 145 | ButterfliesRFree |
 | 946 | 145 | Ern |
-| 947 | 144 | GingaNinja |
-| 948 | 144 | Mighty Spinfit |
+| 947 | 144 | Mighty Spinfit |
+| 948 | 144 | GingaNinja |
 | 949 | 144 | Allrise99 |
 | 950 | 144 | Nikcole Alexis Bryan |
 | 951 | 143 | Miranda Brown |
 | 952 | 143 | Rebekah Anne Macias |
 | 953 | 143 | Ben Figueroa |
-| 954 | 142 | Melissa Schwager |
-| 955 | 141 | Aaron Turner |
-| 956 | 141 | Audrianna Skaff |
-| 957 | 141 | Phredda Helene Gavornik |
-| 958 | 141 | Lilo |
-| 959 | 141 | Kennita Cox |
-| 960 | 140 | Heather Brown |
+| 954 | 142 | Steve Swanson |
+| 955 | 142 | Melissa Schwager |
+| 956 | 141 | Aaron Turner |
+| 957 | 141 | Audrianna Skaff |
+| 958 | 141 | Phredda Helene Gavornik |
+| 959 | 141 | Lilo |
+| 960 | 141 | Kennita Cox |
 | 961 | 140 | Kris McMahon |
-| 962 | 140 | Krista Diaz |
-| 963 | 140 | Stacey Heartful |
-| 964 | 140 | Charissa W Walton |
-| 965 | 140 | Willy Leung |
-| 966 | 140 | Aim Georgia Bros Scott |
-| 967 | 140 | the repo |
-| 968 | 140 | Littleshark |
-| 969 | 139 | Steve Swanson |
+| 962 | 140 | Heather Brown |
+| 963 | 140 | Krista Diaz |
+| 964 | 140 | Stacey Heartful |
+| 965 | 140 | Charissa W Walton |
+| 966 | 140 | Willy Leung |
+| 967 | 140 | Aim Georgia Bros Scott |
+| 968 | 140 | the repo |
+| 969 | 140 | Littleshark |
 | 970 | 139 | David Kirschner |
 | 971 | 139 | da1ndonly |
 | 972 | 139 | Giggy Snapgrid |
