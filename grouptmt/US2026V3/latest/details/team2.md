@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 14:33:22 UTC
+# Standings for team2 as of 2026-06-10 14:34:45 UTC
 
 **Total Participants:** 2758
 
@@ -18,7 +18,7 @@
 | 10 | 11136 | Jason Wood |
 | 11 | 11000 | Crafty Ziggy |
 | 12 | 9914 | Mocha |
-| 13 | 9661 | Kathleen M Cox |
+| 13 | 9761 | Kathleen M Cox |
 | 14 | 9622 | Lola C Davis |
 | 15 | 9471 | A.j. Langley |
 | 16 | 8851 | Christina Shell |
@@ -307,10 +307,10 @@
 | 299 | 627 | Theresa Marie |
 | 300 | 627 | Pooh |
 | 301 | 627 | Chirpy Grid |
-| 302 | 621 | Pam Bauder Ludwig |
-| 303 | 621 | Tara |
-| 304 | 620 | Rachel Nilles |
-| 305 | 619 | Lora Via |
+| 302 | 622 | Lora Via |
+| 303 | 621 | Pam Bauder Ludwig |
+| 304 | 621 | Tara |
+| 305 | 620 | Rachel Nilles |
 | 306 | 618 | Spicy Basepiece |
 | 307 | 614 | Jeanna Mendez |
 | 308 | 614 | Steven |
@@ -517,10 +517,10 @@
 | 509 | 379 | Nathan Walker |
 | 510 | 378 | Paula Haskins |
 | 511 | 377 | Perky Linebuilder |
-| 512 | 376 | andee |
-| 513 | 376 | Hyper Cascade |
-| 514 | 373 | Jerry L Morales |
-| 515 | 373 | Holly Huval |
+| 512 | 377 | Holly Huval |
+| 513 | 376 | andee |
+| 514 | 376 | Hyper Cascade |
+| 515 | 373 | Jerry L Morales |
 | 516 | 372 | Flashy Basegrid |
 | 517 | 372 | Wacky Curve |
 | 518 | 371 | Jessica Christine |
@@ -915,19 +915,19 @@
 | 907 | 216 | Michael Saunders |
 | 908 | 216 | Lori Yelvington Cain |
 | 909 | 215 | TheAggie12 |
-| 910 | 215 | Nerdy Gridlock |
-| 911 | 215 | Rebekah Holland |
-| 912 | 215 | Thtbrwnsknflla |
-| 913 | 215 | Brandy McCleary |
-| 914 | 215 | Cortney Coleman |
-| 915 | 214 | Crafty Liner |
-| 916 | 213 | Lisa Chapman |
-| 917 | 213 | Mtnblzr |
-| 918 | 211 | Tammy Roth |
-| 919 | 211 | Alissa Ary |
-| 920 | 211 | Edna Nena Cabrera |
-| 921 | 211 | Clever Gridzone |
-| 922 | 210 | Nicole Sides KrazyKoop |
+| 910 | 215 | Nicole Sides KrazyKoop |
+| 911 | 215 | Nerdy Gridlock |
+| 912 | 215 | Rebekah Holland |
+| 913 | 215 | Thtbrwnsknflla |
+| 914 | 215 | Brandy McCleary |
+| 915 | 215 | Cortney Coleman |
+| 916 | 214 | Crafty Liner |
+| 917 | 213 | Lisa Chapman |
+| 918 | 213 | Mtnblzr |
+| 919 | 211 | Tammy Roth |
+| 920 | 211 | Alissa Ary |
+| 921 | 211 | Edna Nena Cabrera |
+| 922 | 211 | Clever Gridzone |
 | 923 | 210 | Dee |
 | 924 | 209 | Groovy Glider |
 | 925 | 208 | Chill Clearbuilder |
