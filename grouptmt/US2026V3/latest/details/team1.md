@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:30:43 UTC
+# Standings for team1 as of 2026-06-10 08:31:23 UTC
 
 **Total Participants:** 2247
 
@@ -716,12 +716,12 @@
 | 708 | 214 | Nickeya Phillips |
 | 709 | 213 | Lawanda Conley |
 | 710 | 213 | Oaklonboy mike |
-| 711 | 213 | Shannon Carriger |
-| 712 | 212 | Simply-Beautiful007 |
-| 713 | 212 | Ivery Lee Grays Jr. |
-| 714 | 212 | Jovy |
-| 715 | 211 | Deanna Close |
-| 716 | 211 | Tyler |
+| 711 | 213 | Tyler |
+| 712 | 213 | Shannon Carriger |
+| 713 | 212 | Simply-Beautiful007 |
+| 714 | 212 | Ivery Lee Grays Jr. |
+| 715 | 212 | Jovy |
+| 716 | 211 | Deanna Close |
 | 717 | 211 | Jas |
 | 718 | 210 | Nisha Sunshine Jenkins |
 | 719 | 210 | Antoinette Jones |
@@ -1601,62 +1601,62 @@
 | 1593 | 45 | toooooott |
 | 1594 | 45 | Joy Baker |
 | 1595 | 45 | Anthony Jackson |
-| 1596 | 45 | Jasmine Bates |
-| 1597 | 45 | Angela Roseburgh |
-| 1598 | 45 | Rose Clark |
-| 1599 | 44 | MeatSweats |
+| 1596 | 45 | Wacky Dashgrid |
+| 1597 | 45 | Jasmine Bates |
+| 1598 | 45 | Angela Roseburgh |
+| 1599 | 45 | Rose Clark |
 | 1600 | 44 | Frisky Pivoty |
-| 1601 | 44 | Christopher George Hazard |
+| 1601 | 44 | MeatSweats |
 | 1602 | 44 | Spicy Risepiece |
 | 1603 | 44 | Nic Nic |
 | 1604 | 44 | Connor Leon Cluff |
 | 1605 | 44 | Ernest Maxwell |
-| 1606 | 44 | Wacky1 |
-| 1607 | 44 | LadiGurl |
-| 1608 | 44 | Mary Kimmons |
-| 1609 | 43 | Speedy Glidezone |
-| 1610 | 43 | Dinky da Don |
-| 1611 | 43 | Giggly Gridder |
-| 1612 | 43 | Nicki JTho |
-| 1613 | 43 | Narena Desertsong |
-| 1614 | 43 | Michelle Boutherpaper Francis |
-| 1615 | 43 | Frilly Lifter |
-| 1616 | 42 | Flash97 |
-| 1617 | 42 | Tiffanie Michelle |
-| 1618 | 42 | Louise |
-| 1619 | 42 | Rikki Moran |
-| 1620 | 42 | Andrea DeRoy |
-| 1621 | 42 | Pleasure |
-| 1622 | 42 | Livelovelaugh Ward |
-| 1623 | 42 | BizzyCat |
-| 1624 | 42 | Tee $ |
-| 1625 | 42 | Nadine Coleman |
-| 1626 | 42 | Steven Bell |
+| 1606 | 44 | Christopher George Hazard |
+| 1607 | 44 | Wacky1 |
+| 1608 | 44 | LadiGurl |
+| 1609 | 44 | Mary Kimmons |
+| 1610 | 43 | Speedy Glidezone |
+| 1611 | 43 | Dinky da Don |
+| 1612 | 43 | Giggly Gridder |
+| 1613 | 43 | Nicki JTho |
+| 1614 | 43 | Narena Desertsong |
+| 1615 | 43 | Michelle Boutherpaper Francis |
+| 1616 | 43 | Frilly Lifter |
+| 1617 | 42 | Flash97 |
+| 1618 | 42 | Tiffanie Michelle |
+| 1619 | 42 | Louise |
+| 1620 | 42 | Rikki Moran |
+| 1621 | 42 | Andrea DeRoy |
+| 1622 | 42 | BizzyCat |
+| 1623 | 42 | Pleasure |
+| 1624 | 42 | Livelovelaugh Ward |
+| 1625 | 42 | Tee $ |
+| 1626 | 42 | Nadine Coleman |
 | 1627 | 42 | Dandy Blockfall |
-| 1628 | 41 | Carolyn |
-| 1629 | 41 | Laceshia Finch |
+| 1628 | 42 | Steven Bell |
+| 1629 | 41 | Tynetta Scott |
 | 1630 | 41 | Kerry Meister Rummel |
-| 1631 | 41 | Tynetta Scott |
-| 1632 | 41 | Es Bee |
-| 1633 | 41 | Mary Hughes |
-| 1634 | 40 | Flashy Slam |
-| 1635 | 40 | James Dunlap |
-| 1636 | 40 | Chummy Blockpiece |
-| 1637 | 40 | GlamourN |
-| 1638 | 40 | Hasty Bridger |
-| 1639 | 40 | DimplezAOS |
-| 1640 | 40 | Dawn Walker |
+| 1631 | 41 | Laceshia Finch |
+| 1632 | 41 | Carolyn |
+| 1633 | 41 | Es Bee |
+| 1634 | 41 | Mary Hughes |
+| 1635 | 40 | Dawn Walker |
+| 1636 | 40 | James Dunlap |
+| 1637 | 40 | Chummy Blockpiece |
+| 1638 | 40 | GlamourN |
+| 1639 | 40 | Hasty Bridger |
+| 1640 | 40 | DimplezAOS |
 | 1641 | 40 | Katrina Trein Bein Dickerson |
 | 1642 | 40 | Steve Renelus |
 | 1643 | 40 | NiingDing |
-| 1644 | 40 | Dominique Barbie Periandri |
-| 1645 | 40 | Fancy Zoner |
-| 1646 | 40 | meep |
-| 1647 | 40 | Bumpy Ricketts |
-| 1648 | 40 | Phongoudom Tika |
-| 1649 | 40 | Boldy Zoner |
-| 1650 | 40 | Tonya Mills |
-| 1651 | 40 | Wacky Dashgrid |
+| 1644 | 40 | Flashy Slam |
+| 1645 | 40 | Dominique Barbie Periandri |
+| 1646 | 40 | Fancy Zoner |
+| 1647 | 40 | meep |
+| 1648 | 40 | Bumpy Ricketts |
+| 1649 | 40 | Phongoudom Tika |
+| 1650 | 40 | Boldy Zoner |
+| 1651 | 40 | Tonya Mills |
 | 1652 | 40 | Sylvia Holst |
 | 1653 | 40 | Carol Washington |
 | 1654 | 40 | Chuck Gee |
