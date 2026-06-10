@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:41:21 UTC
+# Standings for team1 as of 2026-06-10 08:42:45 UTC
 
 **Total Participants:** 2249
 
@@ -172,9 +172,9 @@
 | 164 | 829 | Karebear |
 | 165 | 827 | Ty Øtg |
 | 166 | 823 | Shontanese Adams |
-| 167 | 821 | Gotcha |
-| 168 | 821 | Chuck Quarles |
-| 169 | 820 | Byron Mario Cawthon |
+| 167 | 822 | Byron Mario Cawthon |
+| 168 | 821 | Gotcha |
+| 169 | 821 | Chuck Quarles |
 | 170 | 814 | Andi McGreevy |
 | 171 | 813 | Rackemwillie34 |
 | 172 | 808 | Taylor Evelyn |
@@ -292,8 +292,8 @@
 | 284 | 514 | Chasem45 |
 | 285 | 513 | Calvin Green |
 | 286 | 512 | Anthony |
-| 287 | 511 | Dizzy Dropper |
-| 288 | 510 | Tessa Felice Hill |
+| 287 | 511 | Tessa Felice Hill |
+| 288 | 511 | Dizzy Dropper |
 | 289 | 509 | JaClanDiah |
 | 290 | 503 | Bre Poston |
 | 291 | 502 | Jessica Russell |
