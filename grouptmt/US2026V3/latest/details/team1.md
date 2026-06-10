@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:02:45 UTC
+# Standings for team1 as of 2026-06-10 07:03:22 UTC
 
 **Total Participants:** 2238
 
@@ -173,8 +173,8 @@
 | 165 | 821 | Gotcha |
 | 166 | 814 | Andi McGreevy |
 | 167 | 813 | Rackemwillie34 |
-| 168 | 808 | Taylor Evelyn |
-| 169 | 803 | Chuck Quarles |
+| 168 | 811 | Chuck Quarles |
+| 169 | 808 | Taylor Evelyn |
 | 170 | 803 | Big Tina |
 | 171 | 799 | Shontanese Adams |
 | 172 | 786 | Eugina Slater |
