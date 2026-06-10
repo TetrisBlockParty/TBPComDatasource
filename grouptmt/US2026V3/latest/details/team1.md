@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 23:04:44 UTC
+# Standings for team1 as of 2026-06-10 23:05:23 UTC
 
 **Total Participants:** 2361
 
@@ -45,7 +45,7 @@
 | 37 | 3613 | Sha Harris |
 | 38 | 3587 | Cee Emm |
 | 39 | 3329 | Yolanda McDonald |
-| 40 | 3057 | Jacoby E Fleming |
+| 40 | 3167 | Jacoby E Fleming |
 | 41 | 3025 | COSA303 |
 | 42 | 2941 | Jennifer To |
 | 43 | 2842 | JoJo |
@@ -60,8 +60,8 @@
 | 52 | 2559 | Peppy Piececlear |
 | 53 | 2461 | Mimi 1.0 |
 | 54 | 2412 | D'Andra Stewart |
-| 55 | 2372 | Chris Caniglia |
-| 56 | 2367 | Blockhead |
+| 55 | 2376 | Blockhead |
+| 56 | 2372 | Chris Caniglia |
 | 57 | 2359 | Corey Cawthon |
 | 58 | 2331 | Michael J Gresham |
 | 59 | 2305 | Markeeta Lipscomb |
@@ -310,20 +310,20 @@
 | 302 | 527 | MommaCia |
 | 303 | 526 | Kenny 'Tailormade' Boyd |
 | 304 | 525 | Andre Sanon |
-| 305 | 521 | Jawaun Daniels |
-| 306 | 521 | Anthony |
+| 305 | 521 | Anthony |
+| 306 | 521 | Jawaun Daniels |
 | 307 | 519 | Clever Fitblock |
-| 308 | 514 | Dai Bo |
-| 309 | 514 | Slinky Brickmatch |
+| 308 | 514 | Slinky Brickmatch |
+| 309 | 514 | Dai Bo |
 | 310 | 511 | Dizzy Dropper |
 | 311 | 509 | JaClanDiah |
 | 312 | 509 | Andy Rivera |
 | 313 | 508 | Sheila Burnham |
 | 314 | 507 | Teresa Yanira Cepeda |
-| 315 | 503 | Bre Poston |
-| 316 | 503 | Tonia Lance |
-| 317 | 501 | Mahagony Small |
-| 318 | 501 | Cheri Robinson |
+| 315 | 503 | Tonia Lance |
+| 316 | 503 | Bre Poston |
+| 317 | 501 | Cheri Robinson |
+| 318 | 501 | Mahagony Small |
 | 319 | 500 | Tamika Fisher |
 | 320 | 498 | Julian Dickens Jr. |
 | 321 | 498 | Michael Bethezar |
@@ -336,37 +336,37 @@
 | 328 | 492 | SANA |
 | 329 | 490 | Kate Hancock Malicek |
 | 330 | 489 | Jhonny Maii |
-| 331 | 485 | Natasha Rucker |
-| 332 | 485 | Analiza Ramos |
-| 333 | 485 | 大竹直之 |
-| 334 | 485 | Chummy Frame |
-| 335 | 482 | Brave Clearbuilder |
-| 336 | 482 | akosua |
-| 337 | 481 | Simone Bailey |
-| 338 | 480 | ♈️ Ariesbaby |
+| 331 | 487 | Tarnisha Neicy Jones |
+| 332 | 485 | 大竹直之 |
+| 333 | 485 | Natasha Rucker |
+| 334 | 485 | Analiza Ramos |
+| 335 | 485 | Chummy Frame |
+| 336 | 482 | Brave Clearbuilder |
+| 337 | 482 | akosua |
+| 338 | 481 | Simone Bailey |
 | 339 | 480 | Ashleyy Netchert |
-| 340 | 478 | Tarnisha Neicy Jones |
+| 340 | 480 | ♈️ Ariesbaby |
 | 341 | 477 | Smiley3000 |
-| 342 | 476 | Nerdy Climber |
-| 343 | 476 | AshyTay |
+| 342 | 476 | AshyTay |
+| 343 | 476 | Nerdy Climber |
 | 344 | 475 | Vernon Hoyt |
 | 345 | 473 | NastyFriend |
 | 346 | 472 | e |
 | 347 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 348 | 469 | Victor |
+| 348 | 469 | Jackie Sanasay |
 | 349 | 469 | StingerD |
-| 350 | 469 | Jackie Sanasay |
+| 350 | 469 | Victor |
 | 351 | 468 | Christian Pham |
 | 352 | 468 | Jayjay Rich |
-| 353 | 464 | Michele Simpson |
-| 354 | 464 | Devin West |
+| 353 | 464 | Devin West |
+| 354 | 464 | Michele Simpson |
 | 355 | 463 | NewEve |
 | 356 | 462 | Reginald Frank |
 | 357 | 461 | SeanSanchez |
 | 358 | 461 | Kesha Brady |
-| 359 | 460 | Larina Cherie Johnson |
+| 359 | 460 | Boldy Liner |
 | 360 | 460 | SherylU |
-| 361 | 460 | Boldy Liner |
+| 361 | 460 | Larina Cherie Johnson |
 | 362 | 459 | Erica Charlise |
 | 363 | 457 | Saranoh13 |
 | 364 | 456 | Char |
@@ -692,12 +692,12 @@
 | 684 | 250 | Tony Pizzas |
 | 685 | 249 | Lynn |
 | 686 | 249 | Fina McKinnis |
-| 687 | 248 | Loony Clearer |
-| 688 | 248 | Carla |
-| 689 | 247 | Tyler |
-| 690 | 247 | Courtney Cicoria |
-| 691 | 246 | Lindsey |
-| 692 | 246 | Stanley Dixon |
+| 687 | 248 | Stanley Dixon |
+| 688 | 248 | Loony Clearer |
+| 689 | 248 | Carla |
+| 690 | 247 | Tyler |
+| 691 | 247 | Courtney Cicoria |
+| 692 | 246 | Lindsey |
 | 693 | 246 | Lilly Brown |
 | 694 | 245 | Lynnette WheelerBushnell |
 | 695 | 245 | Spicy Shatterblock |
