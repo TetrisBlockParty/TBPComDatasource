@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:12:46 UTC
+# Standings for team1 as of 2026-06-10 20:13:25 UTC
 
 **Total Participants:** 2336
 
@@ -164,12 +164,12 @@
 | 156 | 955 | Antonia Wyche |
 | 157 | 949 | Ebony |
 | 158 | 947 | rls |
-| 159 | 932 | Gotcha |
-| 160 | 924 | No_Other_Choice |
-| 161 | 923 | Ebony Waynes-robinson |
-| 162 | 920 | Atlantalindi |
-| 163 | 917 | Slinky Puzzler |
-| 164 | 912 | Taylor Evelyn |
+| 159 | 932 | Taylor Evelyn |
+| 160 | 932 | Gotcha |
+| 161 | 924 | No_Other_Choice |
+| 162 | 923 | Ebony Waynes-robinson |
+| 163 | 920 | Atlantalindi |
+| 164 | 917 | Slinky Puzzler |
 | 165 | 907 | Ann White |
 | 166 | 899 | Dandy Brickfit |
 | 167 | 896 | Alana Renee |
