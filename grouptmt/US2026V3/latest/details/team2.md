@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:50:20 UTC
+# Standings for team2 as of 2026-06-10 09:50:41 UTC
 
 **Total Participants:** 2718
 
@@ -250,11 +250,11 @@
 | 242 | 728 | Tim Tim |
 | 243 | 724 | Kaylene Rigas |
 | 244 | 723 | Nutty Curver |
-| 245 | 720 | Sharon L Brazelton |
-| 246 | 720 | Nikki EightySixed |
-| 247 | 718 | Avie Lou |
-| 248 | 718 | Bubbly Strikerpiece |
-| 249 | 715 | Sully |
+| 245 | 721 | Sully |
+| 246 | 720 | Sharon L Brazelton |
+| 247 | 720 | Nikki EightySixed |
+| 248 | 718 | Avie Lou |
+| 249 | 718 | Bubbly Strikerpiece |
 | 250 | 714 | Kellie Sharp Godfrey |
 | 251 | 711 | Christina Maria |
 | 252 | 710 | Chipper Stackbuilder |
@@ -745,29 +745,29 @@
 | 737 | 251 | Paula |
 | 738 | 251 | Melissa Pronovost |
 | 739 | 251 | BugMansMom |
-| 740 | 251 | Melissa Fink |
+| 740 | 251 | Judy Burkhalter |
 | 741 | 251 | Jennifer Leigh |
-| 742 | 250 | Epic Framezone |
-| 743 | 250 | Kim Powers |
-| 744 | 250 | Daring Spinzone |
-| 745 | 250 | Ryan Rhodes |
-| 746 | 250 | Happy Drop |
-| 747 | 249 | GiGi Cool |
-| 748 | 249 | Carrie Smith Negron |
-| 749 | 249 | Treau Torres |
-| 750 | 249 | MamaRachel |
-| 751 | 249 | Raymond Dawson |
+| 742 | 251 | Melissa Fink |
+| 743 | 250 | Epic Framezone |
+| 744 | 250 | Kim Powers |
+| 745 | 250 | Daring Spinzone |
+| 746 | 250 | Ryan Rhodes |
+| 747 | 250 | Happy Drop |
+| 748 | 249 | GiGi Cool |
+| 749 | 249 | Carrie Smith Negron |
+| 750 | 249 | Treau Torres |
+| 751 | 249 | MamaRachel |
 | 752 | 249 | Jessica Bowman |
-| 753 | 249 | Lindsey Ross |
-| 754 | 249 | Tina |
-| 755 | 248 | Franky |
-| 756 | 247 | Mariya Cline |
-| 757 | 247 | Alycia Marie Zelensky |
-| 758 | 247 | Kevin Osbourne |
-| 759 | 247 | Laura Melton |
-| 760 | 247 | Robin Stutler |
-| 761 | 246 | Rachel M. Farnsworth |
-| 762 | 246 | Judy Burkhalter |
+| 753 | 249 | Raymond Dawson |
+| 754 | 249 | Lindsey Ross |
+| 755 | 249 | Tina |
+| 756 | 248 | Franky |
+| 757 | 247 | Mariya Cline |
+| 758 | 247 | Alycia Marie Zelensky |
+| 759 | 247 | Kevin Osbourne |
+| 760 | 247 | Laura Melton |
+| 761 | 247 | Robin Stutler |
+| 762 | 246 | Rachel M. Farnsworth |
 | 763 | 246 | Melissa Willson |
 | 764 | 245 | Viani09 |
 | 765 | 245 | DirtySweet84 |
@@ -2309,102 +2309,102 @@
 | 2301 | 24 | Sk8Mom |
 | 2302 | 24 | Royalty |
 | 2303 | 24 | LesterandJulia Duckwitz |
-| 2304 | 24 | AARM36 |
-| 2305 | 24 | mrs.flattz |
-| 2306 | 24 | PixieGirl |
-| 2307 | 24 | Ellen Mallette Clemmons |
-| 2308 | 24 | Jennifer Traywick |
-| 2309 | 24 | Erica L Jenkins |
-| 2310 | 24 | Audrey 'Spence' Hallmark |
-| 2311 | 24 | Kevin Huber |
-| 2312 | 23 | Kharisma Unks |
-| 2313 | 23 | Linda Riegsecker |
-| 2314 | 23 | Spicy Basepiece |
-| 2315 | 23 | Tommyboy |
+| 2304 | 24 | Kevin Huber |
+| 2305 | 24 | Audrey 'Spence' Hallmark |
+| 2306 | 24 | Erica L Jenkins |
+| 2307 | 24 | mrs.flattz |
+| 2308 | 24 | PixieGirl |
+| 2309 | 24 | Ellen Mallette Clemmons |
+| 2310 | 24 | Jennifer Traywick |
+| 2311 | 24 | AARM36 |
+| 2312 | 23 | zee |
+| 2313 | 23 | Frilly T-spin |
+| 2314 | 23 | Linda Riegsecker |
+| 2315 | 23 | Giggly Glider |
 | 2316 | 23 | Ari's Wonderland |
 | 2317 | 23 | Kristyn Crysel |
-| 2318 | 23 | Giggly Glider |
-| 2319 | 23 | Frilly T-spin |
-| 2320 | 23 | Lori |
-| 2321 | 23 | Rich Gorondy |
-| 2322 | 23 | Haley |
-| 2323 | 23 | zee |
-| 2324 | 23 | Lisa Amick |
-| 2325 | 23 | Amanda Raley |
-| 2326 | 23 | Saucy Clusterer |
-| 2327 | 23 | Cherry L. Salama |
+| 2318 | 23 | Kharisma Unks |
+| 2319 | 23 | Tommyboy |
+| 2320 | 23 | Saucy Clusterer |
+| 2321 | 23 | Haley |
+| 2322 | 23 | Lori |
+| 2323 | 23 | Amanda Raley |
+| 2324 | 23 | Rich Gorondy |
+| 2325 | 23 | Lisa Amick |
+| 2326 | 23 | Cherry L. Salama |
+| 2327 | 23 | Spicy Basepiece |
 | 2328 | 23 | Sarah Phelps Beyer |
 | 2329 | 23 | Shirley Bates |
 | 2330 | 22 | SueEllen Hawkins |
 | 2331 | 22 | Amanda Hastings |
-| 2332 | 22 | Celeste Duet |
-| 2333 | 22 | Brandi Phifer |
-| 2334 | 22 | Charles Chase |
-| 2335 | 22 | Hasty Linker |
+| 2332 | 22 | Hasty Linker |
+| 2333 | 22 | Celeste Duet |
+| 2334 | 22 | cole |
+| 2335 | 22 | Charles Chase |
 | 2336 | 22 | Kim Gentry |
-| 2337 | 22 | PrincessGT |
-| 2338 | 22 | cole |
-| 2339 | 22 | Melanesia Springs |
-| 2340 | 22 | Mechelle Muzic |
-| 2341 | 22 | Betu2clos |
-| 2342 | 22 | Amy DeSoto |
-| 2343 | 22 | Lissa |
-| 2344 | 22 | Nutty Cascader |
+| 2337 | 22 | Heather |
+| 2338 | 22 | Mechelle Muzic |
+| 2339 | 22 | Amy DeSoto |
+| 2340 | 22 | Brandi Phifer |
+| 2341 | 22 | PrincessGT |
+| 2342 | 22 | Tyler Bates |
+| 2343 | 22 | Melanesia Springs |
+| 2344 | 22 | Stacy Stickle |
 | 2345 | 22 | Shaunda Thompson |
-| 2346 | 22 | Tyler Bates |
-| 2347 | 22 | Heather |
-| 2348 | 22 | Stacy Stickle |
-| 2349 | 21 | Samantha Sipe |
-| 2350 | 21 | Tina Thomason |
-| 2351 | 21 | Jessm8390 |
-| 2352 | 21 | Loony Snapclear |
-| 2353 | 21 | Sophia Macabare |
-| 2354 | 21 | Reddbish Sutphen |
-| 2355 | 21 | Goofy Puzzler |
-| 2356 | 21 | Chill Shatterclear |
-| 2357 | 21 | Mark Frazier |
-| 2358 | 21 | Kasey Marie |
+| 2346 | 22 | Nutty Cascader |
+| 2347 | 22 | Betu2clos |
+| 2348 | 22 | Lissa |
+| 2349 | 21 | Loony Snapclear |
+| 2350 | 21 | Jessm8390 |
+| 2351 | 21 | Sophia Macabare |
+| 2352 | 21 | Reddbish Sutphen |
+| 2353 | 21 | Tina Thomason |
+| 2354 | 21 | Goofy Puzzler |
+| 2355 | 21 | Chill Shatterclear |
+| 2356 | 21 | Samantha Sipe |
+| 2357 | 21 | Kasey Marie |
+| 2358 | 21 | Mark Frazier |
 | 2359 | 21 | sally |
 | 2360 | 21 | Lou Sassole |
 | 2361 | 21 | Randi Moore |
 | 2362 | 21 | Jacqueline Leigh Zuzinec |
 | 2363 | 20 | Agnes Gable |
 | 2364 | 20 | Chris Weddel |
-| 2365 | 20 | Michelle Hartman |
-| 2366 | 20 | Chrisann Lebron |
-| 2367 | 20 | Dixie |
-| 2368 | 20 | Jamaica Flowers |
-| 2369 | 20 | Ciera Adams |
-| 2370 | 20 | Scott Mack |
-| 2371 | 20 | Adam Winters |
-| 2372 | 20 | Melanie Hernandez |
-| 2373 | 20 | Kathi Patrick |
-| 2374 | 20 | Rainbowdust Glitter-pants |
-| 2375 | 20 | Shana Campbell |
-| 2376 | 20 | Elora |
-| 2377 | 20 | Stacie Taylor |
-| 2378 | 20 | Roberta Granados |
-| 2379 | 20 | Valerie Blake |
-| 2380 | 20 | TookaRhoGorgeous |
-| 2381 | 20 | Daring Line |
-| 2382 | 20 | Wacky Link |
-| 2383 | 20 | Cheery Filler |
-| 2384 | 20 | Deborah Morey-avila |
-| 2385 | 20 | Sarah Davis |
-| 2386 | 20 | Amondo Duckworth |
-| 2387 | 20 | Tosha Dickson |
-| 2388 | 20 | Lawana Brooks |
-| 2389 | 20 | Sasha Hamilton |
-| 2390 | 20 | Shawna Bushnell |
-| 2391 | 20 | Brandy Knight Roberts |
-| 2392 | 20 | Bouncy Brickfit |
-| 2393 | 20 | Christine Souza Chavez |
-| 2394 | 20 | Jimberlee Akuna |
-| 2395 | 19 | Stephanie Thompson |
-| 2396 | 19 | kenzieeeee |
-| 2397 | 19 | Christy Jackson |
-| 2398 | 19 | Brittany E Shirley |
-| 2399 | 19 | Glitzy Linkbuilder |
+| 2365 | 20 | Jimberlee Akuna |
+| 2366 | 20 | Michelle Hartman |
+| 2367 | 20 | Glitzy Linkbuilder |
+| 2368 | 20 | Adam Winters |
+| 2369 | 20 | Melanie Hernandez |
+| 2370 | 20 | Kathi Patrick |
+| 2371 | 20 | Rainbowdust Glitter-pants |
+| 2372 | 20 | Shana Campbell |
+| 2373 | 20 | Elora |
+| 2374 | 20 | Scott Mack |
+| 2375 | 20 | Valerie Blake |
+| 2376 | 20 | Daring Line |
+| 2377 | 20 | Dixie |
+| 2378 | 20 | Jamaica Flowers |
+| 2379 | 20 | Chrisann Lebron |
+| 2380 | 20 | Christine Souza Chavez |
+| 2381 | 20 | Brandy Knight Roberts |
+| 2382 | 20 | Sasha Hamilton |
+| 2383 | 20 | Wacky Link |
+| 2384 | 20 | TookaRhoGorgeous |
+| 2385 | 20 | Ciera Adams |
+| 2386 | 20 | Roberta Granados |
+| 2387 | 20 | Stacie Taylor |
+| 2388 | 20 | Cheery Filler |
+| 2389 | 20 | Deborah Morey-avila |
+| 2390 | 20 | Sarah Davis |
+| 2391 | 20 | Amondo Duckworth |
+| 2392 | 20 | Tosha Dickson |
+| 2393 | 20 | Lawana Brooks |
+| 2394 | 20 | Shawna Bushnell |
+| 2395 | 20 | Bouncy Brickfit |
+| 2396 | 19 | Stephanie Thompson |
+| 2397 | 19 | Brittany E Shirley |
+| 2398 | 19 | Christy Jackson |
+| 2399 | 19 | kenzieeeee |
 | 2400 | 19 | Amanda Nicholson |
 | 2401 | 19 | Dapper Catcher |
 | 2402 | 19 | Melissa Roark |

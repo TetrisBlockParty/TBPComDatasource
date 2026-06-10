@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:50:20 UTC
+# Standings for team4 as of 2026-06-10 09:50:41 UTC
 
 **Total Participants:** 2298
 
@@ -639,92 +639,92 @@
 | 631 | 241 | Memphiago Tenninois |
 | 632 | 241 | Stef |
 | 633 | 241 | Seraphim Mabry |
-| 634 | 240 | Jimmy Clark |
-| 635 | 240 | Tesa Mike Jenkins |
-| 636 | 240 | Nerdy Brickster |
+| 634 | 240 | Jennifer Evans Elliott |
+| 635 | 240 | 1694AF |
+| 636 | 240 | Jimmy Clark |
 | 637 | 240 | Keke Johnson |
-| 638 | 240 | 1694AF |
-| 639 | 240 | Jennifer Evans Elliott |
+| 638 | 240 | Nerdy Brickster |
+| 639 | 240 | Tesa Mike Jenkins |
 | 640 | 239 | Chelle Williams |
-| 641 | 238 | Shaunna Caldwell |
+| 641 | 238 | Amanda Snow |
 | 642 | 238 | Tara Delay Hill |
-| 643 | 238 | Amanda Snow |
-| 644 | 237 | Erica Pompey |
-| 645 | 237 | Diana Fernandez |
+| 643 | 238 | Shaunna Caldwell |
+| 644 | 237 | Diana Fernandez |
+| 645 | 237 | Erica Pompey |
 | 646 | 237 | Donna Bush |
-| 647 | 236 | Playful Raccoon |
-| 648 | 236 | Trang Nguyen |
-| 649 | 236 | JoJo Hutson |
-| 650 | 236 | Bonique Bier |
-| 651 | 234 | Dena Lynn Rogers |
-| 652 | 234 | Paula Renee McCracken |
+| 647 | 236 | JoJo Hutson |
+| 648 | 236 | Bonique Bier |
+| 649 | 236 | Trang Nguyen |
+| 650 | 236 | Playful Raccoon |
+| 651 | 234 | Paula Renee McCracken |
+| 652 | 234 | Dena Lynn Rogers |
 | 653 | 233 | Arvin Ortega |
 | 654 | 232 | All knowing |
 | 655 | 232 | Gigi Ivicsics |
 | 656 | 231 | Poseidon S Davenport |
-| 657 | 231 | Allysha McFarland |
-| 658 | 231 | Stephanie Brock |
-| 659 | 231 | Destiny Starr LeValdo |
-| 660 | 231 | Lora Schallert |
+| 657 | 231 | Lora Schallert |
+| 658 | 231 | Allysha McFarland |
+| 659 | 231 | Stephanie Brock |
+| 660 | 231 | Destiny Starr LeValdo |
 | 661 | 230 | Breezy Brickline |
 | 662 | 230 | Lord Solrac |
-| 663 | 229 | Funky Twistpiece |
-| 664 | 229 | Allysonjo Varela |
+| 663 | 229 | Happy Shatterfit |
+| 664 | 229 | chuck |
 | 665 | 229 | Marcus Chavis |
-| 666 | 229 | chuck |
-| 667 | 229 | Capt'n Crunch |
-| 668 | 229 | Happy Shatterfit |
-| 669 | 228 | Raising Stars |
-| 670 | 228 | Tonia Kay |
-| 671 | 228 | Happy Strikerpiece |
+| 666 | 229 | Capt'n Crunch |
+| 667 | 229 | Allysonjo Varela |
+| 668 | 229 | Funky Twistpiece |
+| 669 | 228 | Happy Strikerpiece |
+| 670 | 228 | Raising Stars |
+| 671 | 228 | Tonia Kay |
 | 672 | 228 | Daring Towerer |
-| 673 | 227 | Budda Huitt |
-| 674 | 227 | Justin Ballard |
-| 675 | 227 | Tactical_B |
-| 676 | 227 | Kiki Moore |
-| 677 | 226 | Buddyblock |
-| 678 | 226 | Domo Dpn |
+| 673 | 227 | Justin Ballard |
+| 674 | 227 | Budda Huitt |
+| 675 | 227 | Kiki Moore |
+| 676 | 227 | Tactical_B |
+| 677 | 226 | Domo Dpn |
+| 678 | 226 | Buddyblock |
 | 679 | 226 | Alizabeth Garcia |
-| 680 | 225 | Rose Anna Safi |
-| 681 | 224 | Tamara Gay |
+| 680 | 225 | Stefanie Street |
+| 681 | 225 | Rose Anna Safi |
 | 682 | 224 | Mmm |
 | 683 | 224 | Jordan Tamayia Williams |
-| 684 | 223 | Sarah Leake |
-| 685 | 223 | Chass Hudson |
-| 686 | 222 | Maria Munoz |
-| 687 | 221 | Lorrie Ann Burchett |
-| 688 | 221 | Tana-Marie Lynn McCarty-Rolf |
-| 689 | 221 | Spicy Peach |
+| 684 | 224 | Tamara Gay |
+| 685 | 223 | Sarah Leake |
+| 686 | 223 | Chass Hudson |
+| 687 | 222 | Maria Munoz |
+| 688 | 221 | Lorrie Ann Burchett |
+| 689 | 221 | Tana-Marie Lynn McCarty-Rolf |
 | 690 | 221 | bribop |
-| 691 | 221 | Butterpat |
-| 692 | 220 | Funky Rollzone |
-| 693 | 220 | Mc3003 |
-| 694 | 220 | Jay Keating |
-| 695 | 220 | Zappy Tilemaker |
-| 696 | 220 | Ada Rodriguez Spradley |
-| 697 | 220 | Marie Adkins |
-| 698 | 219 | Rae Saunders |
-| 699 | 219 | Stefanie Street |
-| 700 | 218 | Mint Marquez |
-| 701 | 218 | PsyDMom |
-| 702 | 218 | Ayobribri |
-| 703 | 218 | Breezy Wife |
-| 704 | 217 | Cat |
-| 705 | 217 | Kat Foreman |
+| 691 | 221 | Spicy Peach |
+| 692 | 221 | Butterpat |
+| 693 | 220 | Funky Rollzone |
+| 694 | 220 | Marie Adkins |
+| 695 | 220 | Ada Rodriguez Spradley |
+| 696 | 220 | Mc3003 |
+| 697 | 220 | Jay Keating |
+| 698 | 220 | Zappy Tilemaker |
+| 699 | 219 | Rae Saunders |
+| 700 | 218 | Ayobribri |
+| 701 | 218 | Breezy Wife |
+| 702 | 218 | PsyDMom |
+| 703 | 218 | Mint Marquez |
+| 704 | 217 | Kat Foreman |
+| 705 | 217 | Cat |
 | 706 | 216 | Maegon Brazille |
-| 707 | 215 | ShaniP |
-| 708 | 215 | Janae Harris |
+| 707 | 215 | Janae Harris |
+| 708 | 215 | Helen Bradley |
 | 709 | 215 | Sfalcon1. |
-| 710 | 215 | Helen Bradley |
+| 710 | 215 | ShaniP |
 | 711 | 215 | Swanky Builderline |
-| 712 | 214 | Linda |
+| 712 | 214 | Zesty Lift |
 | 713 | 214 | Shia Marie |
-| 714 | 214 | yourmomz |
-| 715 | 214 | Suzi Smas |
-| 716 | 214 | Japexican Strong |
-| 717 | 214 | Clever Fallzone |
-| 718 | 214 | Zesty Lift |
-| 719 | 214 | Joe Andrews |
+| 714 | 214 | Linda |
+| 715 | 214 | Joe Andrews |
+| 716 | 214 | yourmomz |
+| 717 | 214 | Suzi Smas |
+| 718 | 214 | Japexican Strong |
+| 719 | 214 | Clever Fallzone |
 | 720 | 214 | Nutty Rollfit |
 | 721 | 213 | Chelsea Costa |
 | 722 | 212 | Debby Muniz |
