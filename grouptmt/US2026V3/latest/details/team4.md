@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 21:32:44 UTC
+# Standings for team4 as of 2026-06-10 21:33:23 UTC
 
 **Total Participants:** 2377
 
@@ -64,7 +64,7 @@
 | 56 | 2800 | Annastaissia Todd |
 | 57 | 2800 | Caitlin Johnson |
 | 58 | 2795 | Monica Emel |
-| 59 | 2668 | Jace McCullough |
+| 59 | 2672 | Jace McCullough |
 | 60 | 2578 | Joseph Anthony Watkins |
 | 61 | 2572 | Маркус Вік |
 | 62 | 2543 | Jason Allen |
@@ -176,8 +176,8 @@
 | 168 | 912 | Neeta Kapadia |
 | 169 | 908 | Andrew Dang |
 | 170 | 904 | adrian |
-| 171 | 902 | vag1974 |
-| 172 | 902 | Dandy Clearfit |
+| 171 | 902 | Dandy Clearfit |
+| 172 | 902 | vag1974 |
 | 173 | 900 | Wanda Simmons |
 | 174 | 899 | Boldy Striker |
 | 175 | 893 | Anthony Lewis |
@@ -800,29 +800,29 @@
 | 792 | 213 | Lala |
 | 793 | 213 | mikey moo |
 | 794 | 213 | Sassy Frame |
-| 795 | 212 | Debby Muniz |
-| 796 | 212 | Lisa Ferriero-Daudin |
-| 797 | 212 | Snappy Stack |
-| 798 | 211 | Shirley A. Godfrey |
-| 799 | 211 | Clever Patterner |
-| 800 | 211 | Fancy Tilefall |
-| 801 | 211 | Abby Waterman |
-| 802 | 211 | Matoka Shuford |
-| 803 | 210 | Fancy Gridroll |
-| 804 | 210 | Urplan |
-| 805 | 210 | Electric Storm |
-| 806 | 210 | Kimberly Lusk |
-| 807 | 210 | Jonelle Jacobs |
-| 808 | 209 | Sadeha Simpson |
-| 809 | 209 | Bren70 |
-| 810 | 209 | Wacky Brick |
-| 811 | 209 | Ashley Mcdonald |
-| 812 | 209 | Sweetfire |
-| 813 | 209 | Weird Cat |
-| 814 | 209 | Ashley Ferguson |
-| 815 | 208 | Dandy Linkgrid |
-| 816 | 208 | Robert Moore |
-| 817 | 208 | Angela Adamo-Tash |
+| 795 | 212 | Matoka Shuford |
+| 796 | 212 | Debby Muniz |
+| 797 | 212 | Lisa Ferriero-Daudin |
+| 798 | 212 | Snappy Stack |
+| 799 | 211 | Shirley A. Godfrey |
+| 800 | 211 | Clever Patterner |
+| 801 | 211 | Fancy Tilefall |
+| 802 | 211 | Abby Waterman |
+| 803 | 210 | Kimberly Lusk |
+| 804 | 210 | Jonelle Jacobs |
+| 805 | 210 | Fancy Gridroll |
+| 806 | 210 | Urplan |
+| 807 | 210 | Electric Storm |
+| 808 | 209 | Ashley Ferguson |
+| 809 | 209 | Sadeha Simpson |
+| 810 | 209 | Bren70 |
+| 811 | 209 | Wacky Brick |
+| 812 | 209 | Ashley Mcdonald |
+| 813 | 209 | Sweetfire |
+| 814 | 209 | Weird Cat |
+| 815 | 208 | Robert Moore |
+| 816 | 208 | Angela Adamo-Tash |
+| 817 | 208 | Dandy Linkgrid |
 | 818 | 207 | Ashley DuVall |
 | 819 | 207 | LaToya LeBlanc |
 | 820 | 207 | Jasmine Turner |
