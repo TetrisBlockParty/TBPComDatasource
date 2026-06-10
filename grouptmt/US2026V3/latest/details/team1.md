@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 13:54:44 UTC
+# Standings for team1 as of 2026-06-10 13:55:22 UTC
 
 **Total Participants:** 2270
 
@@ -363,9 +363,9 @@
 | 355 | 439 | Asani CHumba |
 | 356 | 439 | Block |
 | 357 | 438 | Simone Bailey |
-| 358 | 434 | Dai Bo |
-| 359 | 433 | Curtis T Cirno |
-| 360 | 432 | Hasty Glidezone |
+| 358 | 436 | Hasty Glidezone |
+| 359 | 434 | Dai Bo |
+| 360 | 433 | Curtis T Cirno |
 | 361 | 431 | Lauraly |
 | 362 | 430 | akosua |
 | 363 | 430 | Boldy Liner |
@@ -465,12 +465,12 @@
 | 457 | 348 | C Lo Green |
 | 458 | 346 | Jessie N Michael Silvers |
 | 459 | 345 | Jolly Tilefall |
-| 460 | 343 | Tesiree Cray |
-| 461 | 343 | Heather Wilson |
-| 462 | 342 | Marsha Earl |
-| 463 | 342 | Ashley Monet Terrell |
-| 464 | 341 | The DUBZ |
-| 465 | 340 | De'Nell Edwards |
+| 460 | 343 | De'Nell Edwards |
+| 461 | 343 | Tesiree Cray |
+| 462 | 343 | Heather Wilson |
+| 463 | 342 | Marsha Earl |
+| 464 | 342 | Ashley Monet Terrell |
+| 465 | 341 | The DUBZ |
 | 466 | 338 | Daniel Santana |
 | 467 | 338 | Twisty Brickfit |
 | 468 | 337 | Tonia Ramos |
