@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:48:43 UTC
+# Standings for team1 as of 2026-06-10 08:49:22 UTC
 
 **Total Participants:** 2249
 
@@ -133,9 +133,9 @@
 | 125 | 1124 | Jaida King |
 | 126 | 1121 | Lisa Müller |
 | 127 | 1120 | IamJust Neyamijah Washington Sr. |
-| 128 | 1084 | Jimmie Makia |
-| 129 | 1081 | Slim Shedidthat |
-| 130 | 1070 | Cj Gorman |
+| 128 | 1110 | Cj Gorman |
+| 129 | 1084 | Jimmie Makia |
+| 130 | 1081 | Slim Shedidthat |
 | 131 | 1053 | Yolanda E Fergerson |
 | 132 | 1051 | Christana Imjustbutton Stone |
 | 133 | 1045 | Joy Citizen Pickney |
@@ -183,8 +183,8 @@
 | 175 | 786 | Eugina Slater |
 | 176 | 778 | Gael Quintana |
 | 177 | 776 | Ann White |
-| 178 | 767 | GrkGdess |
-| 179 | 765 | Keke Ferguson |
+| 178 | 767 | Keke Ferguson |
+| 179 | 767 | GrkGdess |
 | 180 | 764 | Chantelle Lee |
 | 181 | 757 | Abraham Espaillat |
 | 182 | 754 | Jhaime |
@@ -224,16 +224,16 @@
 | 216 | 647 | Block King |
 | 217 | 646 | TeeMaster Barber IsLyfe |
 | 218 | 638 | Nobles Brandon |
-| 219 | 632 | Slinky Party |
-| 220 | 630 | SyTheEvilGenius1 |
-| 221 | 623 | Nicole Watson-Dixon |
-| 222 | 622 | Dee McCool |
-| 223 | 622 | LaToya Chambers |
-| 224 | 619 | Sade Goodwine |
-| 225 | 617 | David Fuentes |
+| 219 | 632 | David Fuentes |
+| 220 | 632 | Slinky Party |
+| 221 | 630 | SyTheEvilGenius1 |
+| 222 | 623 | Nicole Watson-Dixon |
+| 223 | 622 | Dee McCool |
+| 224 | 622 | LaToya Chambers |
+| 225 | 619 | Sade Goodwine |
 | 226 | 615 | Choc |
-| 227 | 613 | Zippy Tilefall |
-| 228 | 613 | Tremaine Hiler |
+| 227 | 613 | Tremaine Hiler |
+| 228 | 613 | Zippy Tilefall |
 | 229 | 611 | Giggy Clusterer |
 | 230 | 605 | Aihpos |
 | 231 | 604 | Nina Davis |
@@ -1291,111 +1291,111 @@
 | 1283 | 82 | Kenneth Williams |
 | 1284 | 82 | Bea Dyer-Fields |
 | 1285 | 81 | Vontii Blades |
-| 1286 | 81 | Amber Interrobang |
+| 1286 | 81 | GracefulOwl808 |
 | 1287 | 81 | Hannah Hall |
-| 1288 | 81 | GracefulOwl808 |
+| 1288 | 81 | Amber Interrobang |
 | 1289 | 81 | Melanie Houghton-McCann |
-| 1290 | 80 | Frothy Zoney |
-| 1291 | 80 | Michael Gray |
-| 1292 | 80 | Shoppingbagdrezzy |
-| 1293 | 80 | Ness |
-| 1294 | 80 | Richard Harper |
-| 1295 | 80 | Quitito1014 |
-| 1296 | 80 | Trixie |
-| 1297 | 80 | Nope Young |
-| 1298 | 80 | Meme23 |
-| 1299 | 80 | Chevalier Burley |
-| 1300 | 80 | Lisa420 |
-| 1301 | 80 | Witty Snapbuilder |
-| 1302 | 80 | Smiley Glider |
+| 1290 | 80 | Ness |
+| 1291 | 80 | Witty Snapbuilder |
+| 1292 | 80 | Trixie |
+| 1293 | 80 | Lady Scorpio |
+| 1294 | 80 | Alisha Dawson Crouch |
+| 1295 | 80 | Richard Harper |
+| 1296 | 80 | Frothy Zoney |
+| 1297 | 80 | Smiley Glider |
+| 1298 | 80 | Michael Gray |
+| 1299 | 80 | Quitito1014 |
+| 1300 | 80 | Shoppingbagdrezzy |
+| 1301 | 80 | Nope Young |
+| 1302 | 80 | Chevalier Burley |
 | 1303 | 80 | Bianca Nawlinsgurl Ferguson |
-| 1304 | 80 | Dani McLeod |
-| 1305 | 80 | Alisha Dawson Crouch |
-| 1306 | 80 | Lady Scorpio |
-| 1307 | 79 | Chinkey Overit |
-| 1308 | 79 | Jiff |
-| 1309 | 79 | Ray Baker |
-| 1310 | 78 | Dennis Ripley |
-| 1311 | 78 | Lush Crasher |
-| 1312 | 78 | Amanda Colwell |
-| 1313 | 78 | Jose González |
-| 1314 | 78 | Tara Clarke |
-| 1315 | 78 | Tina Criam |
-| 1316 | 78 | sasha |
-| 1317 | 78 | Angela C. |
-| 1318 | 78 | Snappy Fall |
-| 1319 | 78 | Torrie Eckrote |
-| 1320 | 77 | Renee J. Thomas |
-| 1321 | 77 | Lil T |
+| 1304 | 80 | Meme23 |
+| 1305 | 80 | Lisa420 |
+| 1306 | 80 | Dani McLeod |
+| 1307 | 79 | Jiff |
+| 1308 | 79 | Ray Baker |
+| 1309 | 79 | Chinkey Overit |
+| 1310 | 78 | Peppy Shatterblock |
+| 1311 | 78 | Jose González |
+| 1312 | 78 | Tara Clarke |
+| 1313 | 78 | Snappy Fall |
+| 1314 | 78 | Lush Crasher |
+| 1315 | 78 | Dennis Ripley |
+| 1316 | 78 | Amanda Colwell |
+| 1317 | 78 | Torrie Eckrote |
+| 1318 | 78 | Angela C. |
+| 1319 | 78 | sasha |
+| 1320 | 78 | Tina Criam |
+| 1321 | 77 | Renee J. Thomas |
 | 1322 | 77 | Mighty Riserbuilder |
-| 1323 | 77 | Adonai Saves |
-| 1324 | 77 | Alturas Supremenineteen Banks |
+| 1323 | 77 | Alturas Supremenineteen Banks |
+| 1324 | 77 | Shemeka Bates |
 | 1325 | 77 | Clever Wrecker |
-| 1326 | 77 | Shemeka Bates |
-| 1327 | 76 | Shardai She Gotit |
+| 1326 | 77 | Adonai Saves |
+| 1327 | 77 | Lil T |
 | 1328 | 76 | RealOne95 |
-| 1329 | 76 | Mama P |
-| 1330 | 76 | Shannon Bradley |
-| 1331 | 76 | Joy Marie |
+| 1329 | 76 | Shannon Bradley |
+| 1330 | 76 | Joy Marie |
+| 1331 | 76 | Mama P |
 | 1332 | 76 | Frilly Riserbuilder |
-| 1333 | 75 | Candice Poe |
+| 1333 | 76 | Shardai She Gotit |
 | 1334 | 75 | Y3llOWFAC3 |
-| 1335 | 75 | HBTone |
+| 1335 | 75 | Candice Poe |
 | 1336 | 75 | Dana Hill |
-| 1337 | 75 | Courtney Robinson |
-| 1338 | 74 | Embracing Hair |
+| 1337 | 75 | HBTone |
+| 1338 | 75 | Courtney Robinson |
 | 1339 | 74 | Wrist Mask |
-| 1340 | 74 | Jaela Washington |
+| 1340 | 74 | Jaay Bender |
 | 1341 | 74 | Riq Wokhardt |
-| 1342 | 74 | Peppy Shatterblock |
-| 1343 | 74 | Tetrisdestroyer |
-| 1344 | 74 | Jaay Bender |
-| 1345 | 74 | Scorpiogurl Cruz |
-| 1346 | 73 | Desi |
-| 1347 | 73 | lovel |
-| 1348 | 73 | Breeze |
-| 1349 | 73 | Jonathan Zold |
-| 1350 | 73 | Harriet |
-| 1351 | 73 | Ducc2408 |
-| 1352 | 73 | Tiffany Weathersby |
-| 1353 | 73 | Tammy Scott Mallen |
-| 1354 | 72 | SnazzySnippet |
+| 1342 | 74 | Tetrisdestroyer |
+| 1343 | 74 | Scorpiogurl Cruz |
+| 1344 | 74 | Jaela Washington |
+| 1345 | 74 | Embracing Hair |
+| 1346 | 73 | Breeze |
+| 1347 | 73 | Jonathan Zold |
+| 1348 | 73 | Tiffany Weathersby |
+| 1349 | 73 | Tammy Scott Mallen |
+| 1350 | 73 | lovel |
+| 1351 | 73 | Desi |
+| 1352 | 73 | Ducc2408 |
+| 1353 | 73 | Harriet |
+| 1354 | 72 | Chummy Liner |
 | 1355 | 72 | Darryl Love |
 | 1356 | 72 | BADBOY658 |
-| 1357 | 72 | Chummy Liner |
-| 1358 | 72 | Jamie Mclean |
-| 1359 | 72 | Toohartless Mech |
-| 1360 | 71 | Shona ShayShay Jones |
-| 1361 | 71 | Crafty Link |
-| 1362 | 71 | Joseph Ware Jr. |
-| 1363 | 71 | Lora Lee |
-| 1364 | 71 | Zany Pivot |
-| 1365 | 70 | Kallsign |
-| 1366 | 70 | Alison Emmons |
-| 1367 | 70 | B |
-| 1368 | 70 | Nedine Ray |
-| 1369 | 70 | JoZanna Washington |
-| 1370 | 70 | Eli Delao |
-| 1371 | 70 | Leon Brown III |
-| 1372 | 70 | Jucee |
-| 1373 | 70 | Leon Matthew Williams |
-| 1374 | 70 | Quirky Gridpiece |
+| 1357 | 72 | Jamie Mclean |
+| 1358 | 72 | Toohartless Mech |
+| 1359 | 72 | SnazzySnippet |
+| 1360 | 71 | Zany Pivot |
+| 1361 | 71 | Joseph Ware Jr. |
+| 1362 | 71 | Lora Lee |
+| 1363 | 71 | Crafty Link |
+| 1364 | 71 | Shona ShayShay Jones |
+| 1365 | 70 | Eli Delao |
+| 1366 | 70 | JoZanna Washington |
+| 1367 | 70 | Leon Brown III |
+| 1368 | 70 | Alison Emmons |
+| 1369 | 70 | Nedine Ray |
+| 1370 | 70 | Jucee |
+| 1371 | 70 | Quirky Gridpiece |
+| 1372 | 70 | Leon Matthew Williams |
+| 1373 | 70 | Kallsign |
+| 1374 | 70 | B |
 | 1375 | 70 | Anthony D Holmes |
-| 1376 | 69 | BrettanMary Adkins |
-| 1377 | 69 | Charlie Brown |
-| 1378 | 68 | Mississippigirl Countrygirl |
-| 1379 | 68 | Butta |
-| 1380 | 68 | Michelle Fowler |
-| 1381 | 68 | Michelle Dollah |
-| 1382 | 68 | Daring Linkfall |
-| 1383 | 68 | LOVE |
-| 1384 | 68 | Saucy Crusher |
-| 1385 | 68 | Lillie Blossom Dixon |
-| 1386 | 67 | Tani |
-| 1387 | 67 | Catrina Zedd |
-| 1388 | 67 | Michele Elizabeth McKay-Johnson |
+| 1376 | 69 | Charlie Brown |
+| 1377 | 69 | BrettanMary Adkins |
+| 1378 | 68 | Michelle Fowler |
+| 1379 | 68 | LOVE |
+| 1380 | 68 | Lillie Blossom Dixon |
+| 1381 | 68 | Saucy Crusher |
+| 1382 | 68 | Michelle Dollah |
+| 1383 | 68 | Butta |
+| 1384 | 68 | Daring Linkfall |
+| 1385 | 68 | Mississippigirl Countrygirl |
+| 1386 | 67 | Daring Snaplink |
+| 1387 | 67 | Michele Elizabeth McKay-Johnson |
+| 1388 | 67 | Catrina Zedd |
 | 1389 | 67 | Ericka C Branch |
-| 1390 | 67 | Daring Snaplink |
+| 1390 | 67 | Tani |
 | 1391 | 67 | Evelyn Epps |
 | 1392 | 66 | Jroc Tyra Taylor |
 | 1393 | 66 | Iceman |
