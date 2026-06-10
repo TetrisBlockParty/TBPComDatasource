@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:30:47 UTC
+# Standings for team1 as of 2026-06-10 06:31:23 UTC
 
 **Total Participants:** 2236
 
@@ -1833,76 +1833,76 @@
 | 1825 | 25 | Epic Puzzle |
 | 1826 | 25 | Charlean Sims |
 | 1827 | 25 | PuddenPop |
-| 1828 | 25 | Jashana Thomas |
-| 1829 | 25 | PennyCandee |
-| 1830 | 25 | Ladii Ree |
-| 1831 | 25 | Terrance Jenkins |
+| 1828 | 25 | PennyCandee |
+| 1829 | 25 | Jashana Thomas |
+| 1830 | 25 | Terrance Jenkins |
+| 1831 | 25 | Ladii Ree |
 | 1832 | 25 | RossA |
 | 1833 | 25 | Annette DeLoatch Thompson |
 | 1834 | 25 | Breezy Bouncer |
 | 1835 | 25 | Arjuna Taylor |
-| 1836 | 25 | Boldy Slammer |
-| 1837 | 25 | Em Purvis |
-| 1838 | 25 | Hoppy Towerfall |
-| 1839 | 25 | Regina Haygood |
-| 1840 | 25 | Anthony |
-| 1841 | 25 | pettymexoxo |
+| 1836 | 25 | pettymexoxo |
+| 1837 | 25 | Boldy Slammer |
+| 1838 | 25 | Em Purvis |
+| 1839 | 25 | Hoppy Towerfall |
+| 1840 | 25 | Regina Haygood |
+| 1841 | 25 | Anthony |
 | 1842 | 24 | BuddyLove37 |
-| 1843 | 24 | Null Kim |
-| 1844 | 24 | Snazzy Shatterbuilder |
+| 1843 | 24 | Snazzy Shatterbuilder |
+| 1844 | 24 | Null Kim |
 | 1845 | 24 | David Sk Vaughan Jr. |
 | 1846 | 24 | Jaricar_21 |
 | 1847 | 24 | Jazzy lady |
-| 1848 | 24 | Antoinette AugustusJones III |
-| 1849 | 24 | Stacy Higginbotham |
-| 1850 | 24 | Elizabeth Castro |
-| 1851 | 24 | Crystal Segura |
-| 1852 | 24 | H Hr De Gfe |
-| 1853 | 23 | Nicolej |
-| 1854 | 23 | Milfchaser530 |
-| 1855 | 23 | Epic Glide |
-| 1856 | 23 | Jamie Lea Popp |
-| 1857 | 23 | Nika TaurustotheBone Turner |
-| 1858 | 23 | Shiny Zonebuilder |
-| 1859 | 23 | Valerina Robinson |
+| 1848 | 24 | Nerdy Riser |
+| 1849 | 24 | Antoinette AugustusJones III |
+| 1850 | 24 | Stacy Higginbotham |
+| 1851 | 24 | H Hr De Gfe |
+| 1852 | 24 | Crystal Segura |
+| 1853 | 24 | Elizabeth Castro |
+| 1854 | 23 | Charisse Johnson |
+| 1855 | 23 | Jamie Lea Popp |
+| 1856 | 23 | Milfchaser530 |
+| 1857 | 23 | Epic Glide |
+| 1858 | 23 | Nika TaurustotheBone Turner |
+| 1859 | 23 | Shiny Zonebuilder |
 | 1860 | 23 | Flashy Buildgrid |
-| 1861 | 23 | Charisse Johnson |
+| 1861 | 23 | Valerina Robinson |
 | 1862 | 23 | Genevieve Nieves |
 | 1863 | 23 | Tabitha Dupre-Allen |
 | 1864 | 23 | Dani Marie |
 | 1865 | 23 | Brave Combofall |
 | 1866 | 23 | Saundy |
-| 1867 | 22 | Queen Baby 5 |
-| 1868 | 22 | Jazzy Drop |
-| 1869 | 22 | Susie Miranda |
-| 1870 | 22 | Patioskie |
-| 1871 | 22 | Chipper Smasher |
-| 1872 | 22 | Shakonya Baynes |
-| 1873 | 22 | Vantione Lindsey |
-| 1874 | 22 | Chantelle Sweet |
-| 1875 | 22 | Mary M Craven |
-| 1876 | 22 | ShayePooh |
-| 1877 | 22 | Stylezncutzby Dee |
-| 1878 | 22 | Jhinarra Walker |
-| 1879 | 22 | Zippy Framezone |
-| 1880 | 22 | Kara |
-| 1881 | 21 | Michelle Harrison-Woodall |
-| 1882 | 21 | Truthful |
-| 1883 | 21 | Michelle Villasenor |
-| 1884 | 21 | lp |
-| 1885 | 21 | Lisamarie Fabre Cardona |
-| 1886 | 21 | Cheeky Wipegrid |
-| 1887 | 21 | Sanchez Jackson |
-| 1888 | 21 | Sanna Rose |
-| 1889 | 21 | Nikki Cornelious Valentine |
-| 1890 | 21 | Zesty Matchzone |
+| 1867 | 23 | Nicolej |
+| 1868 | 22 | Queen Baby 5 |
+| 1869 | 22 | Chantelle Sweet |
+| 1870 | 22 | Jazzy Drop |
+| 1871 | 22 | Patioskie |
+| 1872 | 22 | Susie Miranda |
+| 1873 | 22 | Shakonya Baynes |
+| 1874 | 22 | Chipper Smasher |
+| 1875 | 22 | ShayePooh |
+| 1876 | 22 | Stylezncutzby Dee |
+| 1877 | 22 | Jhinarra Walker |
+| 1878 | 22 | Mary M Craven |
+| 1879 | 22 | Vantione Lindsey |
+| 1880 | 22 | Zippy Framezone |
+| 1881 | 22 | Kara |
+| 1882 | 21 | Sanna Rose |
+| 1883 | 21 | Nikki Cornelious Valentine |
+| 1884 | 21 | Truthful |
+| 1885 | 21 | Michelle Villasenor |
+| 1886 | 21 | lp |
+| 1887 | 21 | Cheeky Wipegrid |
+| 1888 | 21 | Sanchez Jackson |
+| 1889 | 21 | Michelle Harrison-Woodall |
+| 1890 | 21 | Lisamarie Fabre Cardona |
 | 1891 | 21 | Christy |
 | 1892 | 21 | Frisky Linkblock |
-| 1893 | 21 | Nerdy Riser |
-| 1894 | 20 | Shannon |
+| 1893 | 21 | Zesty Matchzone |
+| 1894 | 20 | Sonia Savage-Jones |
 | 1895 | 20 | Cool Rumbler |
 | 1896 | 20 | Happy Towerfall |
-| 1897 | 20 | Sonia Savage-Jones |
+| 1897 | 20 | Shannon |
 | 1898 | 20 | taz62 |
 | 1899 | 20 | Breezy Pivoty |
 | 1900 | 20 | Chuck Gee |
