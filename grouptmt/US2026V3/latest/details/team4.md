@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:42:45 UTC
+# Standings for team4 as of 2026-06-10 10:43:22 UTC
 
 **Total Participants:** 2308
 
@@ -501,21 +501,21 @@
 | 493 | 307 | Brooke Arroyo |
 | 494 | 306 | Powder |
 | 495 | 305 | Lupe Chapa |
-| 496 | 304 | Loopy Clusterline |
-| 497 | 303 | Deva Marie Barber |
-| 498 | 302 | Scrumptious |
-| 499 | 302 | Missionary Meda |
-| 500 | 301 | Winter Moon |
-| 501 | 300 | Garden Girlie |
-| 502 | 300 | Teester |
-| 503 | 298 | Hasty Dropzone |
-| 504 | 298 | Elissa Danks |
-| 505 | 296 | Maricela Joslin |
-| 506 | 296 | Erik Clary |
-| 507 | 296 | Alyson M Kehler |
-| 508 | 296 | beauxie |
-| 509 | 296 | farfromlocal |
-| 510 | 295 | Britney Kitora |
+| 496 | 305 | Britney Kitora |
+| 497 | 304 | Loopy Clusterline |
+| 498 | 303 | Deva Marie Barber |
+| 499 | 302 | Scrumptious |
+| 500 | 302 | Missionary Meda |
+| 501 | 301 | Winter Moon |
+| 502 | 300 | Garden Girlie |
+| 503 | 300 | Teester |
+| 504 | 298 | Hasty Dropzone |
+| 505 | 298 | Elissa Danks |
+| 506 | 296 | Maricela Joslin |
+| 507 | 296 | Erik Clary |
+| 508 | 296 | Alyson M Kehler |
+| 509 | 296 | beauxie |
+| 510 | 296 | farfromlocal |
 | 511 | 295 | Carmen Angelica Sosa |
 | 512 | 295 | Miss Beast |
 | 513 | 294 | Dandy Cascade |
