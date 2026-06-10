@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 22:14:44 UTC
+# Standings for team2 as of 2026-06-10 22:15:23 UTC
 
 **Total Participants:** 2828
 
@@ -679,9 +679,9 @@
 | 671 | 306 | Sara BlueEyes |
 | 672 | 306 | Zaniya Brown |
 | 673 | 306 | Sassy Patternblock |
-| 674 | 306 | Angela VanOstrand |
-| 675 | 305 | Vicke Patterson |
-| 676 | 305 | Alonzo Reed |
+| 674 | 306 | Alonzo Reed |
+| 675 | 306 | Angela VanOstrand |
+| 676 | 305 | Vicke Patterson |
 | 677 | 304 | Nikki Sadler |
 | 678 | 304 | Michele Rogers |
 | 679 | 304 | Audrey Wood |
@@ -1441,55 +1441,55 @@
 | 1433 | 120 | Deanna Mc |
 | 1434 | 120 | PrissyPris |
 | 1435 | 120 | Christi Hooper |
-| 1436 | 120 | Rita Silveeia Miller |
-| 1437 | 120 | Bridgett Smith |
-| 1438 | 120 | Casie |
-| 1439 | 120 | Gammawms |
+| 1436 | 120 | Susan Moyer |
+| 1437 | 120 | Gammawms |
+| 1438 | 120 | Bridgett Smith |
+| 1439 | 120 | Casie |
 | 1440 | 120 | Dizzy Gridder |
 | 1441 | 120 | Jenny Bishop |
 | 1442 | 120 | Patty Sparkman |
 | 1443 | 120 | Anna Chance |
-| 1444 | 120 | Susan Moyer |
+| 1444 | 120 | sam |
 | 1445 | 120 | Michael Delozier |
-| 1446 | 120 | Twisty Glider |
-| 1447 | 120 | Amanda Gann |
-| 1448 | 120 | sam |
-| 1449 | 120 | Lori Rose |
-| 1450 | 120 | Cassafrass |
-| 1451 | 120 | Loopy Brickroll |
-| 1452 | 119 | Kjsranch |
-| 1453 | 119 | Mario Hillman |
-| 1454 | 119 | Giggy Balance |
-| 1455 | 119 | Aislinn Lowe |
-| 1456 | 119 | Katherine Crosby |
-| 1457 | 119 | Emily Carns |
-| 1458 | 119 | Sandra Rotton Bragg |
-| 1459 | 119 | Michele Choate |
-| 1460 | 118 | REE4 |
-| 1461 | 118 | Lakeisha Ryder |
-| 1462 | 118 | Lacie B |
-| 1463 | 118 | Boldy Patterner |
+| 1446 | 120 | Amanda Gann |
+| 1447 | 120 | Rita Silveeia Miller |
+| 1448 | 120 | Loopy Brickroll |
+| 1449 | 120 | Cassafrass |
+| 1450 | 120 | Lori Rose |
+| 1451 | 120 | JinxxedMozzerella |
+| 1452 | 120 | Twisty Glider |
+| 1453 | 119 | Kjsranch |
+| 1454 | 119 | Mario Hillman |
+| 1455 | 119 | Giggy Balance |
+| 1456 | 119 | Aislinn Lowe |
+| 1457 | 119 | Katherine Crosby |
+| 1458 | 119 | Emily Carns |
+| 1459 | 119 | Sandra Rotton Bragg |
+| 1460 | 119 | Michele Choate |
+| 1461 | 118 | REE4 |
+| 1462 | 118 | Lakeisha Ryder |
+| 1463 | 118 | Lacie B |
 | 1464 | 118 | Missy Tubb Overly |
 | 1465 | 118 | Raven |
-| 1466 | 117 | Jack |
-| 1467 | 117 | Slinky Towerpiece |
-| 1468 | 117 | Jessie Elizabeth |
-| 1469 | 117 | Alena Ross |
-| 1470 | 117 | Shannon Miller- Cooley |
-| 1471 | 117 | Linzy Ratliff |
-| 1472 | 117 | Tiffany Fitch |
-| 1473 | 116 | Nicole Chestnut |
-| 1474 | 116 | Michelle Naujalis |
-| 1475 | 116 | Goob277 |
-| 1476 | 116 | Megan Wolfe |
-| 1477 | 115 | Doris Bonin |
+| 1466 | 118 | Boldy Patterner |
+| 1467 | 117 | Jack |
+| 1468 | 117 | Slinky Towerpiece |
+| 1469 | 117 | Jessie Elizabeth |
+| 1470 | 117 | Alena Ross |
+| 1471 | 117 | Shannon Miller- Cooley |
+| 1472 | 117 | Linzy Ratliff |
+| 1473 | 117 | Tiffany Fitch |
+| 1474 | 116 | Nicole Chestnut |
+| 1475 | 116 | Michelle Naujalis |
+| 1476 | 116 | Goob277 |
+| 1477 | 116 | Megan Wolfe |
 | 1478 | 115 | CATFISH |
-| 1479 | 115 | Kandy Comer |
-| 1480 | 115 | Chillxsnow |
+| 1479 | 115 | Doris Bonin |
+| 1480 | 115 | Kandy Comer |
 | 1481 | 115 | Shaun Talbot |
-| 1482 | 115 | Crazygranny |
-| 1483 | 115 | Bubbly Wrecker |
-| 1484 | 115 | JinxxedMozzerella |
+| 1482 | 115 | Chillxsnow |
+| 1483 | 115 | Crazygranny |
+| 1484 | 115 | Bubbly Wrecker |
 | 1485 | 115 | Smiley Rotate |
 | 1486 | 115 | Dan Ramsey |
 | 1487 | 115 | Raffa |
