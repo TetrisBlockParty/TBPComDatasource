@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 20:50:44 UTC
+# Standings for team4 as of 2026-06-10 20:51:23 UTC
 
 **Total Participants:** 2373
 
@@ -577,42 +577,42 @@
 | 569 | 290 | LaTanya GeminiondaRise Johnson |
 | 570 | 288 | Happy Shatterfit |
 | 571 | 288 | Mighty1 |
-| 572 | 288 | Sarah |
-| 573 | 287 | Alyssa Berg |
-| 574 | 287 | Joab Gonzalez |
-| 575 | 286 | Tiffany Smith |
-| 576 | 286 | Bonique Bier |
-| 577 | 286 | DizzB400 |
-| 578 | 285 | Joshua Garner |
-| 579 | 285 | Christina Barry |
-| 580 | 285 | Lovetetris |
-| 581 | 285 | Karen Denise Ann Veitch |
-| 582 | 284 | Nicole Colby McCloskey |
-| 583 | 284 | Brandi Sauer |
-| 584 | 283 | Danny Frausto |
-| 585 | 283 | Chris McBlockster |
-| 586 | 283 | Rita Ann |
-| 587 | 282 | Corie A. Brinson |
-| 588 | 282 | sierrabeth |
-| 589 | 281 | Margie Thomas |
-| 590 | 281 | Anthony Edwards |
-| 591 | 280 | Giddy Basepiece |
-| 592 | 280 | Jimmy Clark |
-| 593 | 280 | Alice Eisnor-Martens |
-| 594 | 279 | LandO |
-| 595 | 279 | Kandylands |
-| 596 | 279 | Lisa Pie |
-| 597 | 279 | Will E Ayala |
-| 598 | 279 | Heidi Anne Scheiderer |
-| 599 | 278 | Stef |
-| 600 | 277 | Deborah Silberg |
-| 601 | 277 | Jeremy Barry |
-| 602 | 277 | MattJennifer Marie Ericson |
+| 572 | 288 | MattJennifer Marie Ericson |
+| 573 | 288 | Sarah |
+| 574 | 287 | Alyssa Berg |
+| 575 | 287 | Joab Gonzalez |
+| 576 | 286 | Tiffany Smith |
+| 577 | 286 | Bonique Bier |
+| 578 | 286 | DizzB400 |
+| 579 | 285 | Joshua Garner |
+| 580 | 285 | Christina Barry |
+| 581 | 285 | Lovetetris |
+| 582 | 285 | Karen Denise Ann Veitch |
+| 583 | 284 | Nicole Colby McCloskey |
+| 584 | 284 | Brandi Sauer |
+| 585 | 283 | Danny Frausto |
+| 586 | 283 | Chris McBlockster |
+| 587 | 283 | Rita Ann |
+| 588 | 282 | Corie A. Brinson |
+| 589 | 282 | sierrabeth |
+| 590 | 281 | Margie Thomas |
+| 591 | 281 | Anthony Edwards |
+| 592 | 280 | Giddy Basepiece |
+| 593 | 280 | Jimmy Clark |
+| 594 | 280 | Alice Eisnor-Martens |
+| 595 | 279 | LandO |
+| 596 | 279 | Kandylands |
+| 597 | 279 | Lisa Pie |
+| 598 | 279 | Will E Ayala |
+| 599 | 279 | Heidi Anne Scheiderer |
+| 600 | 278 | Stef |
+| 601 | 277 | Deborah Silberg |
+| 602 | 277 | Jeremy Barry |
 | 603 | 277 | Quirky Fallgrid |
-| 604 | 276 | Jennifer Evans Elliott |
+| 604 | 276 | Allysha McFarland |
 | 605 | 276 | Susan Stofberg Beltran |
 | 606 | 276 | David Lay |
-| 607 | 276 | Allysha McFarland |
+| 607 | 276 | Jennifer Evans Elliott |
 | 608 | 274 | Sarah Montagne Forsberg |
 | 609 | 273 | Kierra Evans |
 | 610 | 272 | Sharon Tyler |
@@ -646,8 +646,8 @@
 | 638 | 263 | Melissa Quinn |
 | 639 | 263 | Stephanie Brock |
 | 640 | 263 | Gean DeJesus |
-| 641 | 262 | All knowing |
-| 642 | 262 | Chelsea Costa |
+| 641 | 262 | Chelsea Costa |
+| 642 | 262 | All knowing |
 | 643 | 261 | Lee Ann Gibby |
 | 644 | 261 | Funky Twistpiece |
 | 645 | 260 | Silly Risegrid |
@@ -664,9 +664,9 @@
 | 656 | 258 | JIGsaw ~(•¿°)~ |
 | 657 | 257 | Happy Puzzle |
 | 658 | 257 | Spicy Peach |
-| 659 | 256 | pussface |
-| 660 | 256 | Honey Honey |
-| 661 | 256 | Fancy Rollfit |
+| 659 | 257 | Fancy Rollfit |
+| 660 | 256 | pussface |
+| 661 | 256 | Honey Honey |
 | 662 | 255 | Frilly Zoney |
 | 663 | 254 | Mimi Dominguez |
 | 664 | 254 | Zesty Lift |
