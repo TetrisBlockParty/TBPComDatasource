@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 08:36:46 UTC
+# Standings for team1 as of 2026-06-10 08:37:24 UTC
 
 **Total Participants:** 2248
 
@@ -142,8 +142,8 @@
 | 134 | 1034 | Quirky Fallgrid |
 | 135 | 1030 | Plucky Slamdrop |
 | 136 | 1021 | Jeffrey Barrows |
-| 137 | 1008 | Cece Fowler |
-| 138 | 990 | Cj Gorman |
+| 137 | 1010 | Cj Gorman |
+| 138 | 1008 | Cece Fowler |
 | 139 | 987 | Kaleisha Smith |
 | 140 | 981 | De'Laonzeo Anthony |
 | 141 | 977 | Jaida De'Anne Cox |
@@ -174,7 +174,7 @@
 | 166 | 823 | Shontanese Adams |
 | 167 | 821 | Gotcha |
 | 168 | 821 | Chuck Quarles |
-| 169 | 818 | Byron Mario Cawthon |
+| 169 | 820 | Byron Mario Cawthon |
 | 170 | 814 | Andi McGreevy |
 | 171 | 813 | Rackemwillie34 |
 | 172 | 808 | Taylor Evelyn |
@@ -341,20 +341,20 @@
 | 333 | 442 | Richard Flex |
 | 334 | 441 | Lyn Reed |
 | 335 | 440 | Larina Cherie Johnson |
-| 336 | 439 | Asani CHumba |
-| 337 | 439 | Block |
-| 338 | 439 | Andy Rivera |
+| 336 | 439 | Andy Rivera |
+| 337 | 439 | Asani CHumba |
+| 338 | 439 | Block |
 | 339 | 438 | Simone Bailey |
 | 340 | 437 | Dedra M Prester |
 | 341 | 437 | 大竹直之 |
 | 342 | 434 | Tonya McElroy |
 | 343 | 433 | Curtis T Cirno |
-| 344 | 430 | akosua |
-| 345 | 429 | Koi |
-| 346 | 428 | Brand Nu |
-| 347 | 424 | Sarah Barnum |
-| 348 | 423 | Christian Pham |
-| 349 | 421 | LaTonya Myers |
+| 344 | 431 | LaTonya Myers |
+| 345 | 430 | akosua |
+| 346 | 429 | Koi |
+| 347 | 428 | Brand Nu |
+| 348 | 424 | Sarah Barnum |
+| 349 | 423 | Christian Pham |
 | 350 | 419 | Dai Bo |
 | 351 | 414 | Smiley Clearpiece |
 | 352 | 413 | Reginald Frank |
@@ -1642,44 +1642,44 @@
 | 1634 | 41 | Mary Hughes |
 | 1635 | 41 | Tynetta Scott |
 | 1636 | 41 | Es Bee |
-| 1637 | 40 | Dominique Barbie Periandri |
-| 1638 | 40 | Lisa Messerli |
-| 1639 | 40 | Girly Pop |
-| 1640 | 40 | Carol Washington |
-| 1641 | 40 | Phongoudom Tika |
-| 1642 | 40 | Chuck Gee |
+| 1637 | 40 | Tonya Mills |
+| 1638 | 40 | Hasty Bridger |
+| 1639 | 40 | Katrina Trein Bein Dickerson |
+| 1640 | 40 | Lisa Messerli |
+| 1641 | 40 | NiingDing |
+| 1642 | 40 | Girly Pop |
 | 1643 | 40 | Fancy Zoner |
-| 1644 | 40 | DimplezAOS |
-| 1645 | 40 | Steve Renelus |
-| 1646 | 40 | James Dunlap |
+| 1644 | 40 | Carol Washington |
+| 1645 | 40 | Phongoudom Tika |
+| 1646 | 40 | Chuck Gee |
 | 1647 | 40 | Flashy Slam |
-| 1648 | 40 | NiingDing |
-| 1649 | 40 | Tonya Mills |
-| 1650 | 40 | meep |
+| 1648 | 40 | DimplezAOS |
+| 1649 | 40 | Steve Renelus |
+| 1650 | 40 | James Dunlap |
 | 1651 | 40 | Brandon Dontell Saunders |
-| 1652 | 40 | Katrina Trein Bein Dickerson |
-| 1653 | 40 | Bumpy Ricketts |
-| 1654 | 40 | Boldy Zoner |
-| 1655 | 40 | Billz143 |
-| 1656 | 40 | Kira Wooten |
-| 1657 | 40 | Erica Wells |
-| 1658 | 40 | Chummy Blockpiece |
-| 1659 | 40 | Dawn Walker |
-| 1660 | 40 | Sylvia Holst |
-| 1661 | 40 | Hasty Bridger |
-| 1662 | 39 | Rekeia Minding Mine |
-| 1663 | 39 | Queen |
-| 1664 | 39 | Deborah |
-| 1665 | 39 | BP Phillips |
-| 1666 | 39 | Giggly Cascader |
-| 1667 | 39 | Blaze |
-| 1668 | 39 | Jenine Wiser |
-| 1669 | 39 | Diva shrock |
-| 1670 | 39 | Jamey |
-| 1671 | 39 | Katybeth Pauley |
-| 1672 | 39 | Nerdy Riser |
-| 1673 | 38 | Clever Twistbuilder |
-| 1674 | 38 | D~√!9£°√¥B£§ |
+| 1652 | 40 | Sylvia Holst |
+| 1653 | 40 | Dawn Walker |
+| 1654 | 40 | D~√!9£°√¥B£§ |
+| 1655 | 40 | Chummy Blockpiece |
+| 1656 | 40 | Erica Wells |
+| 1657 | 40 | Kira Wooten |
+| 1658 | 40 | Billz143 |
+| 1659 | 40 | Bumpy Ricketts |
+| 1660 | 40 | Boldy Zoner |
+| 1661 | 40 | meep |
+| 1662 | 40 | Dominique Barbie Periandri |
+| 1663 | 39 | BP Phillips |
+| 1664 | 39 | Queen |
+| 1665 | 39 | Rekeia Minding Mine |
+| 1666 | 39 | Deborah |
+| 1667 | 39 | Giggly Cascader |
+| 1668 | 39 | Blaze |
+| 1669 | 39 | Jenine Wiser |
+| 1670 | 39 | Katybeth Pauley |
+| 1671 | 39 | Diva shrock |
+| 1672 | 39 | Jamey |
+| 1673 | 39 | Nerdy Riser |
+| 1674 | 38 | Clever Twistbuilder |
 | 1675 | 38 | Twisty Tilebuilder |
 | 1676 | 38 | kaboom |
 | 1677 | 38 | hope |
@@ -1689,8 +1689,8 @@
 | 1681 | 38 | Kiyeri |
 | 1682 | 38 | Snippy T-spin |
 | 1683 | 37 | Witty Blockpiece |
-| 1684 | 37 | Tagashel Gotuwe |
-| 1685 | 37 | Cheeky Matchzone |
+| 1684 | 37 | Cheeky Matchzone |
+| 1685 | 37 | Tagashel Gotuwe |
 | 1686 | 37 | vvvvv |
 | 1687 | 37 | kiki |
 | 1688 | 37 | Chris Bell |

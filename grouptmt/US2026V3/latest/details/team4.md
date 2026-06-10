@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 08:36:46 UTC
+# Standings for team4 as of 2026-06-10 08:37:24 UTC
 
 **Total Participants:** 2297
 
@@ -1930,12 +1930,12 @@
 | 1922 | 26 | Crafty Clicker |
 | 1923 | 26 | Ryan Espinoza |
 | 1924 | 26 | Omega |
-| 1925 | 26 | Fabuloso |
-| 1926 | 26 | Brook Marguerite Benson |
-| 1927 | 26 | Funky Riser |
-| 1928 | 25 | Rebecca Booth |
-| 1929 | 25 | Beto Vidaurri |
-| 1930 | 25 | Sassy Frame |
+| 1925 | 26 | Sassy Frame |
+| 1926 | 26 | Fabuloso |
+| 1927 | 26 | Brook Marguerite Benson |
+| 1928 | 26 | Funky Riser |
+| 1929 | 25 | Rebecca Booth |
+| 1930 | 25 | Beto Vidaurri |
 | 1931 | 25 | Happy Slamdrop |
 | 1932 | 25 | MoCa |
 | 1933 | 25 | Joyell Mersiel |

@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 08:36:46 UTC
+# Standings for team2 as of 2026-06-10 08:37:24 UTC
 
 **Total Participants:** 2712
 
@@ -153,8 +153,8 @@
 | 145 | 1157 | Hilliary Beyer |
 | 146 | 1149 | Allie Bug |
 | 147 | 1135 | Snappy Blockbuilder |
-| 148 | 1132 | Wmk Rathbun |
-| 149 | 1132 | Mirr Lulu |
+| 148 | 1132 | Mirr Lulu |
+| 149 | 1132 | Wmk Rathbun |
 | 150 | 1130 | Allison Jarman |
 | 151 | 1126 | Jeska Gaines |
 | 152 | 1115 | Spicy Risegrid |
@@ -174,40 +174,40 @@
 | 166 | 991 | Renee Freeman Jacobson |
 | 167 | 988 | Dane Marko |
 | 168 | 975 | MarioKarasovic |
-| 169 | 971 | Shea |
-| 170 | 958 | Tami Kay Williams Watson |
-| 171 | 952 | Leigh Ann |
-| 172 | 951 | AndrewandShela Gornik |
-| 173 | 943 | Amber Wolf |
-| 174 | 939 | Marie Luciano |
-| 175 | 938 | Amber Miller Wirick |
-| 176 | 926 | Monique Frantz |
-| 177 | 926 | Le Sandy |
-| 178 | 920 | Brenda Jones |
-| 179 | 912 | Havik Whitfield |
-| 180 | 898 | Giggly Wipepiece |
-| 181 | 886 | Sara Perkins |
-| 182 | 873 | Carebear05 |
-| 183 | 871 | Sandy Lynn |
-| 184 | 866 | Fudgie Pie |
-| 185 | 866 | Robin G |
-| 186 | 865 | Theresa Hollinger |
-| 187 | 864 | Jgato |
-| 188 | 863 | Kathy McCormick |
-| 189 | 857 | Nettrainer |
-| 190 | 849 | SEH |
-| 191 | 849 | Brandi Thompson |
-| 192 | 846 | Amanda Sikes |
-| 193 | 846 | Jess |
-| 194 | 841 | Michelle Luke Banta |
-| 195 | 838 | H |
-| 196 | 835 | Zesty Strikerbuilder |
-| 197 | 834 | Alicia Kinney |
-| 198 | 828 | Jat |
-| 199 | 826 | Milad Arzani |
-| 200 | 825 | Brandon Link |
+| 169 | 974 | Vistabrat |
+| 170 | 971 | Shea |
+| 171 | 958 | Tami Kay Williams Watson |
+| 172 | 952 | Leigh Ann |
+| 173 | 951 | AndrewandShela Gornik |
+| 174 | 943 | Amber Wolf |
+| 175 | 939 | Marie Luciano |
+| 176 | 938 | Amber Miller Wirick |
+| 177 | 926 | Monique Frantz |
+| 178 | 926 | Le Sandy |
+| 179 | 920 | Brenda Jones |
+| 180 | 912 | Havik Whitfield |
+| 181 | 898 | Giggly Wipepiece |
+| 182 | 886 | Sara Perkins |
+| 183 | 873 | Carebear05 |
+| 184 | 871 | Sandy Lynn |
+| 185 | 866 | Fudgie Pie |
+| 186 | 866 | Robin G |
+| 187 | 865 | Theresa Hollinger |
+| 188 | 864 | Jgato |
+| 189 | 863 | Kathy McCormick |
+| 190 | 857 | Nettrainer |
+| 191 | 849 | SEH |
+| 192 | 849 | Brandi Thompson |
+| 193 | 846 | Amanda Sikes |
+| 194 | 846 | Jess |
+| 195 | 841 | Michelle Luke Banta |
+| 196 | 838 | H |
+| 197 | 835 | Zesty Strikerbuilder |
+| 198 | 834 | Alicia Kinney |
+| 199 | 828 | Jat |
+| 200 | 826 | Milad Arzani |
 | 201 | 825 | Nichole Wilson |
-| 202 | 824 | Vistabrat |
+| 202 | 825 | Brandon Link |
 | 203 | 822 | Lori Whitman |
 | 204 | 822 | Glitzy Base |
 | 205 | 822 | Kurt Brown |
@@ -248,14 +248,14 @@
 | 240 | 728 | Tim Tim |
 | 241 | 724 | Kaylene Rigas |
 | 242 | 723 | Nutty Curver |
-| 243 | 720 | Sharon L Brazelton |
-| 244 | 720 | Nikki EightySixed |
+| 243 | 720 | Nikki EightySixed |
+| 244 | 720 | Sharon L Brazelton |
 | 245 | 718 | Bubbly Strikerpiece |
 | 246 | 718 | Avie Lou |
 | 247 | 714 | Kellie Sharp Godfrey |
 | 248 | 712 | Sully |
-| 249 | 711 | Kevin Mccoy |
-| 250 | 711 | Christina Maria |
+| 249 | 711 | Christina Maria |
+| 250 | 711 | Kevin Mccoy |
 | 251 | 710 | Chipper Stackbuilder |
 | 252 | 702 | Boldy Fitclear |
 | 253 | 701 | Amie Marks |
@@ -320,8 +320,8 @@
 | 312 | 582 | Ratchet |
 | 313 | 579 | Mookshake |
 | 314 | 579 | Sandra Ruiz |
-| 315 | 577 | Kristi Chestnut |
-| 316 | 577 | Lindsay Klemp |
+| 315 | 577 | Lindsay Klemp |
+| 316 | 577 | Kristi Chestnut |
 | 317 | 575 | Melissa Nash |
 | 318 | 574 | Brandy McCune Reep |
 | 319 | 565 | Kelly Rogers |
@@ -331,8 +331,8 @@
 | 323 | 560 | Frisky Tiltgrid |
 | 324 | 553 | Thomas Tyrone |
 | 325 | 552 | Lora Via |
-| 326 | 551 | Jumpy Matchbuilder |
-| 327 | 551 | Norma Ortiz |
+| 326 | 551 | Norma Ortiz |
+| 327 | 551 | Jumpy Matchbuilder |
 | 328 | 550 | AndyJo |
 | 329 | 550 | DomDomsNana |
 | 330 | 550 | Sarah Rodriguez |
@@ -356,8 +356,8 @@
 | 348 | 520 | Deezie |
 | 349 | 518 | Jodi Johnson |
 | 350 | 518 | Cheery Tilefall |
-| 351 | 517 | Julibeth Wells |
-| 352 | 517 | Jeffrey Smith |
+| 351 | 517 | Jeffrey Smith |
+| 352 | 517 | Julibeth Wells |
 | 353 | 511 | Flashy Drop |
 | 354 | 509 | Churube Finwoiisopw |
 | 355 | 508 | Dawnypooh |
@@ -385,10 +385,10 @@
 | 377 | 472 | Victoria Pale |
 | 378 | 470 | Loopy Dropper |
 | 379 | 467 | Missy Renia |
-| 380 | 464 | Jessica Connot |
-| 381 | 464 | Leticia Tillman |
-| 382 | 462 | Sarah Jane Gorsuch |
-| 383 | 462 | Funway998 |
+| 380 | 464 | Leticia Tillman |
+| 381 | 464 | Jessica Connot |
+| 382 | 462 | Funway998 |
+| 383 | 462 | Sarah Jane Gorsuch |
 | 384 | 461 | Erica South |
 | 385 | 460 | Samantha Bugg Stitcher |
 | 386 | 460 | Happy |
@@ -407,8 +407,8 @@
 | 399 | 441 | Cathy Lee Stoneking |
 | 400 | 441 | Marylin Eacker |
 | 401 | 440 | Skye Ehret |
-| 402 | 438 | Harper |
-| 403 | 438 | Talyn Domingues |
+| 402 | 438 | Talyn Domingues |
+| 403 | 438 | Harper |
 | 404 | 436 | Bubbly Dash |
 | 405 | 435 | Thy Bui |
 | 406 | 434 | DayDreamer79 |
@@ -430,8 +430,8 @@
 | 422 | 419 | Michelle Ferrara |
 | 423 | 418 | Hoppy Mover |
 | 424 | 418 | KazzyKay |
-| 425 | 417 | Saucy Wrecker |
-| 426 | 417 | Analee Nicole Jones |
+| 425 | 417 | Analee Nicole Jones |
+| 426 | 417 | Saucy Wrecker |
 | 427 | 417 | Jimmy Francis Shasta Bambi |
 | 428 | 416 | Teresa Mandich |
 | 429 | 415 | Partin |
@@ -446,25 +446,25 @@
 | 438 | 410 | Nicole Good |
 | 439 | 409 | Anthony Swift |
 | 440 | 409 | Angie Bishop |
-| 441 | 407 | Jeff Pottgether |
-| 442 | 407 | Gwendolyn Boykin Mobbs |
-| 443 | 407 | Melmel |
+| 441 | 407 | Melmel |
+| 442 | 407 | Jeff Pottgether |
+| 443 | 407 | Gwendolyn Boykin Mobbs |
 | 444 | 407 | Mona Good |
 | 445 | 406 | Ray Daisy |
 | 446 | 406 | Quirky Clicky |
 | 447 | 406 | Spunky Piecebuilder |
 | 448 | 405 | Maria Ward |
-| 449 | 405 | Brittni Lawrence |
-| 450 | 405 | Danielle Pack Lewellen |
+| 449 | 405 | Danielle Pack Lewellen |
+| 450 | 405 | Brittni Lawrence |
 | 451 | 403 | PaiBri |
 | 452 | 403 | Speedy Spinfit |
 | 453 | 403 | Queen |
 | 454 | 402 | Candi Cane |
 | 455 | 401 | Lazy Staggerpiece |
 | 456 | 399 | Logan Duffey |
-| 457 | 398 | Amber Cogdill |
-| 458 | 398 | Bb |
-| 459 | 398 | Coleen Yoder |
+| 457 | 398 | Bb |
+| 458 | 398 | Coleen Yoder |
+| 459 | 398 | Amber Cogdill |
 | 460 | 397 | Jacquelyn Snyder Dumas |
 | 461 | 396 | Melisa |
 | 462 | 395 | Traci Abern |
