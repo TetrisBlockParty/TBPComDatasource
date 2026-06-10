@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 16:54:47 UTC
+# Standings for team1 as of 2026-06-10 16:55:24 UTC
 
 **Total Participants:** 2302
 
@@ -759,44 +759,44 @@
 | 751 | 217 | Louise Parker |
 | 752 | 217 | Shemar Singleton |
 | 753 | 216 | Lively Clusterline |
-| 754 | 216 | Rachel Renae Bettis |
-| 755 | 216 | Laysa Nunez |
-| 756 | 216 | Sallie Sanborn |
-| 757 | 216 | squints |
-| 758 | 216 | Frances Davis |
-| 759 | 215 | Nikiya |
-| 760 | 215 | Gerold Folk Haddock |
-| 761 | 215 | Perky Balancer |
-| 762 | 215 | Angie Smith |
-| 763 | 215 | GetDaOPPS |
-| 764 | 214 | Jes Marie |
-| 765 | 214 | Nickeya Phillips |
-| 766 | 213 | Lawanda Conley |
-| 767 | 213 | MrsDontPlay |
-| 768 | 213 | Sherry D Singleton |
-| 769 | 213 | Oaklonboy mike |
-| 770 | 212 | Tina Blessed Cage |
-| 771 | 212 | Iceman |
-| 772 | 212 | Ivery Lee Grays Jr. |
-| 773 | 211 | Terrie |
-| 774 | 211 | Deanna Close |
+| 754 | 216 | Laysa Nunez |
+| 755 | 216 | Sallie Sanborn |
+| 756 | 216 | Rachel Renae Bettis |
+| 757 | 216 | Frances Davis |
+| 758 | 216 | squints |
+| 759 | 215 | Vontesha Kidd |
+| 760 | 215 | Nikiya |
+| 761 | 215 | Gerold Folk Haddock |
+| 762 | 215 | Perky Balancer |
+| 763 | 215 | Angie Smith |
+| 764 | 215 | GetDaOPPS |
+| 765 | 214 | Jes Marie |
+| 766 | 214 | Nickeya Phillips |
+| 767 | 213 | Oaklonboy mike |
+| 768 | 213 | Lawanda Conley |
+| 769 | 213 | MrsDontPlay |
+| 770 | 213 | Sherry D Singleton |
+| 771 | 212 | Ivery Lee Grays Jr. |
+| 772 | 212 | Iceman |
+| 773 | 212 | Tina Blessed Cage |
+| 774 | 211 | Terrie |
 | 775 | 211 | Rieshelda Marie White |
-| 776 | 211 | Vontesha Kidd |
+| 776 | 211 | Deanna Close |
 | 777 | 210 | Slinky Fallzone |
-| 778 | 210 | Mom3granny2 |
+| 778 | 210 | Spadez1231 |
 | 779 | 210 | Antoinette Jones |
-| 780 | 210 | Spadez1231 |
-| 781 | 210 | Dirty Deeds |
-| 782 | 210 | Barbramerri Tarboro |
-| 783 | 209 | Don Ray Mc |
+| 780 | 210 | Dirty Deeds |
+| 781 | 210 | Barbramerri Tarboro |
+| 782 | 210 | Mom3granny2 |
+| 783 | 209 | $hort Dog |
 | 784 | 209 | Mami Badd |
-| 785 | 209 | $hort Dog |
+| 785 | 209 | Don Ray Mc |
 | 786 | 208 | Derald Miller |
 | 787 | 207 | Tangy Moore |
 | 788 | 206 | Kat |
-| 789 | 205 | Stephen Garland |
-| 790 | 205 | tg |
-| 791 | 205 | Tramaine Crockrum |
+| 789 | 205 | Tramaine Crockrum |
+| 790 | 205 | Stephen Garland |
+| 791 | 205 | tg |
 | 792 | 205 | Treneil Daffin |
 | 793 | 204 | Glitzy Clusterer |
 | 794 | 204 | Xana Zania Bopp |
@@ -1395,43 +1395,43 @@
 | 1387 | 73 | Tammy Scott Mallen |
 | 1388 | 73 | Desi |
 | 1389 | 73 | Ducc2408 |
-| 1390 | 73 | Blaze |
-| 1391 | 73 | Tiffany Weathersby |
-| 1392 | 73 | Jonathan Zold |
-| 1393 | 73 | Amy Thomas |
+| 1390 | 73 | Tiffany Weathersby |
+| 1391 | 73 | Blaze |
+| 1392 | 73 | Amy Thomas |
+| 1393 | 73 | Jonathan Zold |
 | 1394 | 72 | BADBOY658 |
-| 1395 | 72 | Darryl Love |
-| 1396 | 72 | Chummy Liner |
-| 1397 | 71 | Zany Pivot |
-| 1398 | 71 | Shona ShayShay Jones |
-| 1399 | 71 | Joseph Ware Jr. |
-| 1400 | 71 | Hasty Builder |
-| 1401 | 71 | Chummy Clearfit |
-| 1402 | 71 | Swanky Riserfit |
-| 1403 | 71 | Lora Lee |
-| 1404 | 70 | Leon Brown III |
-| 1405 | 70 | Nissa |
+| 1395 | 72 | Butta |
+| 1396 | 72 | Darryl Love |
+| 1397 | 72 | Chummy Liner |
+| 1398 | 71 | Zany Pivot |
+| 1399 | 71 | Shona ShayShay Jones |
+| 1400 | 71 | Joseph Ware Jr. |
+| 1401 | 71 | Chip |
+| 1402 | 71 | Hasty Builder |
+| 1403 | 71 | Chummy Clearfit |
+| 1404 | 71 | Lora Lee |
+| 1405 | 71 | Swanky Riserfit |
 | 1406 | 70 | Cee Jones |
-| 1407 | 70 | JoZanna Washington |
-| 1408 | 70 | Leon Matthew Williams |
-| 1409 | 70 | Chip |
-| 1410 | 70 | Anthony D Holmes |
-| 1411 | 70 | B |
-| 1412 | 70 | Jucee |
-| 1413 | 70 | Eli Delao |
-| 1414 | 70 | Alison Emmons |
-| 1415 | 70 | Quirky Gridpiece |
-| 1416 | 70 | Kallsign |
-| 1417 | 69 | BrettanMary Adkins |
+| 1407 | 70 | Leon Brown III |
+| 1408 | 70 | Nissa |
+| 1409 | 70 | JoZanna Washington |
+| 1410 | 70 | Leon Matthew Williams |
+| 1411 | 70 | Quirky Gridpiece |
+| 1412 | 70 | Kallsign |
+| 1413 | 70 | Anthony D Holmes |
+| 1414 | 70 | B |
+| 1415 | 70 | Alison Emmons |
+| 1416 | 70 | Eli Delao |
+| 1417 | 70 | Jucee |
 | 1418 | 69 | Charlie Brown |
 | 1419 | 69 | Brandon Knox |
-| 1420 | 68 | LOVE |
+| 1420 | 69 | BrettanMary Adkins |
 | 1421 | 68 | Michelle Dollah |
-| 1422 | 68 | Mississippigirl Countrygirl |
-| 1423 | 68 | Saucy Crusher |
-| 1424 | 68 | Butta |
-| 1425 | 68 | Pleasure |
-| 1426 | 68 | J Dot Flo |
+| 1422 | 68 | Saucy Crusher |
+| 1423 | 68 | LOVE |
+| 1424 | 68 | Mississippigirl Countrygirl |
+| 1425 | 68 | J Dot Flo |
+| 1426 | 68 | Pleasure |
 | 1427 | 67 | Leiacellaa23 |
 | 1428 | 67 | Ray Eyes |
 | 1429 | 67 | Catrina Zedd |
