@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:20:46 UTC
+# Standings for team4 as of 2026-06-10 10:21:23 UTC
 
 **Total Participants:** 2303
 
@@ -41,7 +41,7 @@
 | 33 | 4533 | Juan Ford |
 | 34 | 4418 | Victoria Ver |
 | 35 | 4323 | Leah Barnett |
-| 36 | 4299 | Tonya Brooks-Johnson |
+| 36 | 4319 | Tonya Brooks-Johnson |
 | 37 | 4179 | Witty Clicky |
 | 38 | 4150 | TitiLo72 |
 | 39 | 4008 | Leigh Pierce |
@@ -383,43 +383,43 @@
 | 375 | 392 | Homie |
 | 376 | 391 | John Cotugno |
 | 377 | 390 | Lanelva Tiredofbs Marshall |
-| 378 | 388 | Melissa Lowe |
-| 379 | 387 | Tricia Motika Cowan |
+| 378 | 388 | Clever Brickzone |
+| 379 | 388 | Melissa Lowe |
 | 380 | 387 | luluraine |
-| 381 | 386 | Codey Haffner |
-| 382 | 385 | Clever Brickzone |
-| 383 | 385 | Giggly Tilt |
-| 384 | 385 | Anthony McAlister |
+| 381 | 387 | Tricia Motika Cowan |
+| 382 | 386 | Codey Haffner |
+| 383 | 385 | Anthony McAlister |
+| 384 | 385 | Giggly Tilt |
 | 385 | 383 | Flashy Shatterer |
 | 386 | 380 | Poppy |
 | 387 | 380 | Brooke Bauer |
 | 388 | 379 | Jumpy Brickline |
 | 389 | 378 | Tipsy Builderline |
 | 390 | 378 | No Time |
-| 391 | 374 | Dominique Melendez |
-| 392 | 374 | Snow77white |
+| 391 | 374 | Snow77white |
+| 392 | 374 | Dominique Melendez |
 | 393 | 373 | Groovy Towerbuilder |
 | 394 | 371 | TJ |
 | 395 | 370 | Queen B |
 | 396 | 369 | RotatedWrongAgain |
 | 397 | 369 | Lucy Honer |
-| 398 | 367 | Giggly Column |
+| 398 | 367 | Lisa Jones |
 | 399 | 367 | kellie |
-| 400 | 367 | Queen B |
-| 401 | 367 | Lisa Jones |
+| 400 | 367 | Giggly Column |
+| 401 | 367 | Queen B |
 | 402 | 366 | Ross Bryant |
 | 403 | 366 | Alexis Cor |
-| 404 | 365 | Brittany Lentz |
-| 405 | 365 | Quiomarie Cotto |
-| 406 | 363 | Mark Norton |
-| 407 | 363 | Rhonda Dowling |
+| 404 | 365 | Quiomarie Cotto |
+| 405 | 365 | Brittany Lentz |
+| 406 | 363 | Rhonda Dowling |
+| 407 | 363 | Mark Norton |
 | 408 | 361 | Patrick Alley |
 | 409 | 360 | Kimyatta Cavin |
-| 410 | 360 | Mann Manson |
-| 411 | 360 | Funky Riserpiece |
+| 410 | 360 | Funky Riserpiece |
+| 411 | 360 | Mann Manson |
 | 412 | 360 | Groovy Cluster |
-| 413 | 359 | Ashley Robbins |
-| 414 | 359 | BCO22 |
+| 413 | 359 | BCO22 |
+| 414 | 359 | Ashley Robbins |
 | 415 | 357 | Kellz M Bee |
 | 416 | 356 | Candiecane324 |
 | 417 | 354 | Joe Richard |
@@ -432,21 +432,21 @@
 | 424 | 346 | Jennifer Garcia |
 | 425 | 346 | KrisTina2007 |
 | 426 | 345 | yodaa |
-| 427 | 344 | Josh Keith Travierso |
-| 428 | 344 | Zesty Twistpiece |
-| 429 | 344 | bollo |
-| 430 | 344 | Karen Davis |
+| 427 | 344 | Karen Davis |
+| 428 | 344 | Josh Keith Travierso |
+| 429 | 344 | Zesty Twistpiece |
+| 430 | 344 | bollo |
 | 431 | 343 | Cherrel M. Causey |
-| 432 | 343 | Dizzy Slammer |
-| 433 | 343 | maria |
+| 432 | 343 | maria |
+| 433 | 343 | Dizzy Slammer |
 | 434 | 342 | Lively Blockpiece |
 | 435 | 341 | Cool Risepiece |
 | 436 | 341 | LilyRose |
 | 437 | 340 | jojo |
 | 438 | 339 | Shepreneur Sade |
-| 439 | 337 | Tiggerjake |
+| 439 | 337 | Jazzy Rollout |
 | 440 | 337 | Chilly Pivot |
-| 441 | 337 | Jazzy Rollout |
+| 441 | 337 | Tiggerjake |
 | 442 | 335 | Candice Sellers Worley |
 | 443 | 334 | Steven Patshy |
 | 444 | 332 | Heidi Hala |
