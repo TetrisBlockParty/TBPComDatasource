@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 19:36:45 UTC
+# Standings for team4 as of 2026-06-10 19:37:21 UTC
 
 **Total Participants:** 2367
 
@@ -147,8 +147,8 @@
 | 139 | 1058 | Dandy Puzzler |
 | 140 | 1057 | Jumpy Brickline |
 | 141 | 1057 | Heather Preston |
-| 142 | 1053 | Keesha Muro |
-| 143 | 1052 | Scamp Jones |
+| 142 | 1055 | Scamp Jones |
+| 143 | 1053 | Keesha Muro |
 | 144 | 1049 | Futrell Brent |
 | 145 | 1038 | Principal Liz |
 | 146 | 1029 | Chiquita Blue |
@@ -577,15 +577,15 @@
 | 569 | 288 | Sarah |
 | 570 | 287 | Alyssa Berg |
 | 571 | 286 | Bonique Bier |
-| 572 | 286 | DizzB400 |
-| 573 | 286 | Tiffany Smith |
-| 574 | 285 | Christina Barry |
-| 575 | 285 | Joab Gonzalez |
-| 576 | 285 | Karen Denise Ann Veitch |
-| 577 | 285 | Lovetetris |
-| 578 | 285 | Joshua Garner |
-| 579 | 284 | Nicole Colby McCloskey |
-| 580 | 284 | Brandi Sauer |
+| 572 | 286 | Tiffany Smith |
+| 573 | 286 | DizzB400 |
+| 574 | 285 | Joshua Garner |
+| 575 | 285 | Christina Barry |
+| 576 | 285 | Lovetetris |
+| 577 | 285 | Joab Gonzalez |
+| 578 | 285 | Karen Denise Ann Veitch |
+| 579 | 284 | Brandi Sauer |
+| 580 | 284 | Nicole Colby McCloskey |
 | 581 | 283 | Chris McBlockster |
 | 582 | 283 | Danny Frausto |
 | 583 | 282 | sierrabeth |
@@ -593,21 +593,21 @@
 | 585 | 281 | Margie Thomas |
 | 586 | 281 | Anthony Edwards |
 | 587 | 280 | Giddy Basepiece |
-| 588 | 280 | Jimmy Clark |
-| 589 | 280 | Alice Eisnor-Martens |
-| 590 | 279 | LandO |
-| 591 | 279 | Will E Ayala |
-| 592 | 279 | Heidi Anne Scheiderer |
+| 588 | 280 | Alice Eisnor-Martens |
+| 589 | 280 | Jimmy Clark |
+| 590 | 279 | Heidi Anne Scheiderer |
+| 591 | 279 | LandO |
+| 592 | 279 | Will E Ayala |
 | 593 | 279 | Kandylands |
-| 594 | 278 | Stef |
-| 595 | 277 | Deborah Silberg |
-| 596 | 277 | MattJennifer Marie Ericson |
-| 597 | 277 | Jeremy Barry |
-| 598 | 276 | Susan Stofberg Beltran |
-| 599 | 276 | Jennifer Evans Elliott |
-| 600 | 276 | Allysha McFarland |
-| 601 | 276 | Lisa Pie |
-| 602 | 274 | Sarah Leake |
+| 594 | 278 | Sarah Leake |
+| 595 | 278 | Stef |
+| 596 | 277 | Deborah Silberg |
+| 597 | 277 | MattJennifer Marie Ericson |
+| 598 | 277 | Jeremy Barry |
+| 599 | 276 | Susan Stofberg Beltran |
+| 600 | 276 | Jennifer Evans Elliott |
+| 601 | 276 | Allysha McFarland |
+| 602 | 276 | Lisa Pie |
 | 603 | 273 | Rita Ann |
 | 604 | 273 | Kierra Evans |
 | 605 | 272 | Sharon Tyler |
