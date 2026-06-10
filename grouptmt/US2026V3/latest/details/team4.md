@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 12:00:45 UTC
+# Standings for team4 as of 2026-06-10 12:01:22 UTC
 
 **Total Participants:** 2314
 
@@ -114,15 +114,15 @@
 | 106 | 1253 | Hannah Pazar |
 | 107 | 1250 | Snippy Grid |
 | 108 | 1237 | Fancy Crasher |
-| 109 | 1227 | shawna |
-| 110 | 1225 | GeorgeButts |
+| 109 | 1231 | GeorgeButts |
+| 110 | 1227 | shawna |
 | 111 | 1221 | Snappy Fitzone |
 | 112 | 1201 | Trice Stevenson |
 | 113 | 1196 | J |
 | 114 | 1191 | Dana Fontanez |
 | 115 | 1189 | Twirl Girl |
-| 116 | 1156 | Jonathan Hewitt |
-| 117 | 1156 | Dee Wizz |
+| 116 | 1156 | Dee Wizz |
+| 117 | 1156 | Jonathan Hewitt |
 | 118 | 1145 | Kristen Wallace |
 | 119 | 1142 | Hardy Fuller |
 | 120 | 1123 | Jenn Fitzgerald |
@@ -135,14 +135,14 @@
 | 127 | 1085 | Melissa WC |
 | 128 | 1078 | Suzanne North |
 | 129 | 1064 | Jesse Olive |
-| 130 | 1058 | CJ |
-| 131 | 1058 | Dandy Puzzler |
+| 130 | 1058 | Dandy Puzzler |
+| 131 | 1058 | CJ |
 | 132 | 1057 | Heather Preston |
 | 133 | 1046 | Hairy Snake |
 | 134 | 1046 | Irma |
 | 135 | 1042 | Futrell Brent |
-| 136 | 1029 | Chiquita Blue |
-| 137 | 1021 | Cranky Buildout |
+| 136 | 1031 | Cranky Buildout |
+| 137 | 1029 | Chiquita Blue |
 | 138 | 1021 | Scamp Jones |
 | 139 | 1008 | Loony Glidepiece |
 | 140 | 1006 | Kimberly Civinski |
