@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:32:45 UTC
+# Standings for team4 as of 2026-06-10 10:33:21 UTC
 
 **Total Participants:** 2305
 
@@ -245,9 +245,9 @@
 | 237 | 607 | Samara Garcia |
 | 238 | 606 | Jackie Miller |
 | 239 | 606 | Addi JayKay |
-| 240 | 602 | Spicy Chicken |
-| 241 | 600 | Tina Thomas |
-| 242 | 600 | Jacqueline Jackii Ramos |
+| 240 | 604 | Jacqueline Jackii Ramos |
+| 241 | 602 | Spicy Chicken |
+| 242 | 600 | Tina Thomas |
 | 243 | 596 | Samantha Worley |
 | 244 | 593 | Vanessa Sykes |
 | 245 | 592 | Sarah Berry Stevens |
@@ -784,15 +784,15 @@
 | 776 | 198 | Has2brat |
 | 777 | 198 | Lana Tran |
 | 778 | 198 | Lizzzzzz |
-| 779 | 197 | Mighty1 |
-| 780 | 197 | Yvette Johnson |
-| 781 | 197 | Toria |
-| 782 | 197 | Millie Hoskins |
-| 783 | 196 | Tipsy Matchline |
-| 784 | 196 | Bigmamalizzet Latto |
-| 785 | 196 | David Lay |
-| 786 | 196 | Surviving Be Back Soon |
-| 787 | 195 | Trishaann Triplett |
+| 779 | 198 | Trishaann Triplett |
+| 780 | 197 | Mighty1 |
+| 781 | 197 | Yvette Johnson |
+| 782 | 197 | Toria |
+| 783 | 197 | Millie Hoskins |
+| 784 | 196 | Tipsy Matchline |
+| 785 | 196 | Bigmamalizzet Latto |
+| 786 | 196 | David Lay |
+| 787 | 196 | Surviving Be Back Soon |
 | 788 | 195 | Freddy-B |
 | 789 | 195 | Samantha Lohmeyer |
 | 790 | 195 | Reina Pagan |
@@ -1076,31 +1076,31 @@
 | 1068 | 132 | Marie Lily |
 | 1069 | 132 | Jarad Glover |
 | 1070 | 131 | Lush Balanceblock |
-| 1071 | 130 | Krazylegzzzz |
-| 1072 | 130 | Tammy Wells |
+| 1071 | 130 | John Henry |
+| 1072 | 130 | Elise Ann |
 | 1073 | 130 | Perky Balanceblock |
-| 1074 | 130 | gothicmisery |
-| 1075 | 130 | Elise Ann |
-| 1076 | 130 | Alicia Horsea Rojas |
-| 1077 | 129 | Elizabeth Putansu |
-| 1078 | 129 | Vlad Rudman |
-| 1079 | 129 | Peachy Piecefit |
-| 1080 | 128 | Bridget Reilly |
-| 1081 | 128 | Fancy Curvetile |
+| 1074 | 130 | Krazylegzzzz |
+| 1075 | 130 | Tammy Wells |
+| 1076 | 130 | gothicmisery |
+| 1077 | 130 | Alicia Horsea Rojas |
+| 1078 | 129 | Elizabeth Putansu |
+| 1079 | 129 | Vlad Rudman |
+| 1080 | 129 | Peachy Piecefit |
+| 1081 | 128 | Bridget Reilly |
 | 1082 | 128 | SandyEva |
-| 1083 | 128 | Chill Rollpiece |
-| 1084 | 128 | Chummy Twistpiece |
-| 1085 | 128 | Tracey Hudspath |
-| 1086 | 127 | Chirpy Dashfit |
-| 1087 | 127 | Lola |
-| 1088 | 127 | Cheeky Climber |
-| 1089 | 127 | Sandra O'Reilly |
-| 1090 | 127 | Cail |
-| 1091 | 127 | Sonya |
-| 1092 | 126 | John Ramos |
-| 1093 | 126 | Seraphina |
+| 1083 | 128 | Fancy Curvetile |
+| 1084 | 128 | Chill Rollpiece |
+| 1085 | 128 | Chummy Twistpiece |
+| 1086 | 128 | Tracey Hudspath |
+| 1087 | 127 | Chirpy Dashfit |
+| 1088 | 127 | Lola |
+| 1089 | 127 | Cail |
+| 1090 | 127 | Sandra O'Reilly |
+| 1091 | 127 | Cheeky Climber |
+| 1092 | 127 | Sonya |
+| 1093 | 126 | John Ramos |
 | 1094 | 126 | medicjessi |
-| 1095 | 126 | John Henry |
+| 1095 | 126 | Seraphina |
 | 1096 | 126 | Nicole Ambrose |
 | 1097 | 126 | San |
 | 1098 | 126 | Tiffany Roberts |
