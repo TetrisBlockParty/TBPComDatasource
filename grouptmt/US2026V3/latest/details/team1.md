@@ -1,6 +1,6 @@
-# Standings for team1 as of 2026-06-10 13:16:44 UTC
+# Standings for team1 as of 2026-06-10 13:17:23 UTC
 
-**Total Participants:** 2266
+**Total Participants:** 2267
 
 ## Participant Scores
 
@@ -145,8 +145,8 @@
 | 137 | 1045 | Joy Citizen Pickney |
 | 138 | 1040 | Quirky Fallgrid |
 | 139 | 1021 | Jeffrey Barrows |
-| 140 | 1014 | Lesley Brunkus Cianfaglione |
-| 141 | 1011 | Cece Fowler |
+| 140 | 1014 | Cece Fowler |
+| 141 | 1014 | Lesley Brunkus Cianfaglione |
 | 142 | 992 | Danielle Barthelme |
 | 143 | 987 | Kaleisha Smith |
 | 144 | 986 | De'Laonzeo Anthony |
@@ -188,8 +188,8 @@
 | 180 | 802 | Gael Quintana |
 | 181 | 800 | Tipsy Tetriblast |
 | 182 | 788 | Zappy Riser |
-| 183 | 786 | Eugina Slater |
-| 184 | 786 | Novaa |
+| 183 | 786 | Novaa |
+| 184 | 786 | Eugina Slater |
 | 185 | 776 | Ann White |
 | 186 | 767 | GrkGdess |
 | 187 | 764 | Chantelle Lee |
@@ -202,13 +202,13 @@
 | 194 | 744 | Ottison Dianna |
 | 195 | 744 | Kevin M. McGhee Jr |
 | 196 | 742 | Randizzle |
-| 197 | 740 | Felicia Cain |
-| 198 | 738 | Dena Marie Lee |
-| 199 | 733 | Dandy Brickfit |
-| 200 | 730 | ing410 |
-| 201 | 725 | Marcheta Cervantez |
-| 202 | 723 | Zippy Tilefall |
-| 203 | 722 | BULLSEYE |
+| 197 | 742 | BULLSEYE |
+| 198 | 740 | Felicia Cain |
+| 199 | 738 | Dena Marie Lee |
+| 200 | 733 | Dandy Brickfit |
+| 201 | 730 | ing410 |
+| 202 | 725 | Marcheta Cervantez |
+| 203 | 723 | Zippy Tilefall |
 | 204 | 721 | Rachel Zimmerman |
 | 205 | 720 | Nerdy Blockpiece |
 | 206 | 707 | Jazzy Fireflighters |
@@ -218,8 +218,8 @@
 | 210 | 692 | Chirpy Corner |
 | 211 | 690 | Genne Scott |
 | 212 | 687 | Sarah Clark |
-| 213 | 684 | Tammye Turner |
-| 214 | 684 | Coco |
+| 213 | 684 | Coco |
+| 214 | 684 | Tammye Turner |
 | 215 | 680 | Charletha Williams |
 | 216 | 672 | Trina Greenwood |
 | 217 | 670 | David Fuentes |
@@ -465,38 +465,38 @@
 | 457 | 345 | Jolly Tilefall |
 | 458 | 344 | DaGuy |
 | 459 | 343 | Tesiree Cray |
-| 460 | 342 | Marsha Earl |
-| 461 | 342 | Ashley Monet Terrell |
-| 462 | 341 | The DUBZ |
-| 463 | 340 | Peppy Towerbuilder |
-| 464 | 338 | Twisty Brickfit |
-| 465 | 338 | Daniel Santana |
-| 466 | 337 | Tonia Ramos |
-| 467 | 337 | Gbnola |
+| 460 | 343 | Heather Wilson |
+| 461 | 342 | Marsha Earl |
+| 462 | 342 | Ashley Monet Terrell |
+| 463 | 341 | The DUBZ |
+| 464 | 340 | Peppy Towerbuilder |
+| 465 | 338 | Twisty Brickfit |
+| 466 | 338 | Daniel Santana |
+| 467 | 337 | Tonia Ramos |
 | 468 | 337 | Donnie Withthebody |
-| 469 | 336 | De'Nell Edwards |
-| 470 | 334 | Emily Wright |
-| 471 | 334 | TBABYJ |
-| 472 | 333 | Heather Wilson |
+| 469 | 337 | Gbnola |
+| 470 | 336 | De'Nell Edwards |
+| 471 | 334 | Emily Wright |
+| 472 | 334 | TBABYJ |
 | 473 | 331 | Holly Baker |
-| 474 | 330 | Tracey Johnson |
-| 475 | 330 | Nora Mahmoud |
+| 474 | 330 | Nora Mahmoud |
+| 475 | 330 | Tracey Johnson |
 | 476 | 329 | Shelly Everette |
 | 477 | 326 | Nate Myers |
-| 478 | 324 | Melissa D. M. Hornsby |
-| 479 | 324 | Giddy Staggerpiece |
-| 480 | 323 | James Bryant II |
+| 478 | 324 | Giddy Staggerpiece |
+| 479 | 324 | Melissa D. M. Hornsby |
+| 480 | 323 | Alyssa Rae |
 | 481 | 323 | Trusi Rusi |
-| 482 | 323 | Alyssa Rae |
+| 482 | 323 | James Bryant II |
 | 483 | 322 | Juan Alvarez |
 | 484 | 321 | Montego Allen |
-| 485 | 320 | Shanns |
-| 486 | 320 | Malcolm Stanley |
-| 487 | 320 | Aaron Hartmann |
+| 485 | 320 | Aaron Hartmann |
+| 486 | 320 | Shanns |
+| 487 | 320 | Malcolm Stanley |
 | 488 | 319 | MACHETEEDDIE513 |
 | 489 | 319 | Ciera Peace |
-| 490 | 318 | Clint Mcdowell |
-| 491 | 318 | Nerdy Snapfall |
+| 490 | 318 | Nerdy Snapfall |
+| 491 | 318 | Clint Mcdowell |
 | 492 | 315 | Alivia Dove |
 | 493 | 315 | Kristine Marie Palmer |
 | 494 | 314 | Tay |
@@ -507,11 +507,11 @@
 | 499 | 312 | Slinky Snapbuilder |
 | 500 | 311 | FunTime |
 | 501 | 311 | Sarah Steckbauer |
-| 502 | 310 | Shakmar |
-| 503 | 310 | Christi Walker Patton |
-| 504 | 310 | Latore Maxie |
+| 502 | 310 | EvaLynn NeCole |
+| 503 | 310 | Latore Maxie |
+| 504 | 310 | Shakmar |
 | 505 | 310 | Yadira Salgado |
-| 506 | 310 | EvaLynn NeCole |
+| 506 | 310 | Christi Walker Patton |
 | 507 | 308 | Tonya Lee Sanders |
 | 508 | 308 | Darrel K Pemberton |
 | 509 | 307 | Crystal Cheresnowsky |
@@ -2226,52 +2226,53 @@
 | 2218 | 7 | Joey Hoover |
 | 2219 | 7 | Quana |
 | 2220 | 7 | Tipsy Towerzone |
-| 2221 | 7 | Shenikka Townsend |
-| 2222 | 7 | Happy Drop |
+| 2221 | 7 | Happy Drop |
+| 2222 | 7 | Tierra Latte |
 | 2223 | 7 | Linda Clark |
-| 2224 | 7 | Bouncy Clearbuilder |
-| 2225 | 7 | Daniel Okuka |
-| 2226 | 7 | Happy Strike |
-| 2227 | 7 | Shane Brucewayne |
-| 2228 | 7 | bri |
-| 2229 | 7 | Jazzy |
-| 2230 | 7 | Tierra Latte |
-| 2231 | 6 | Nerdy Slam |
-| 2232 | 6 | Adam Harrison |
-| 2233 | 6 | Sunny Shatterer |
-| 2234 | 6 | Doc Elm |
-| 2235 | 6 | party t-rex 27 |
+| 2224 | 7 | Shenikka Townsend |
+| 2225 | 7 | Happy Strike |
+| 2226 | 7 | Shane Brucewayne |
+| 2227 | 7 | Bouncy Clearbuilder |
+| 2228 | 7 | Jazzy |
+| 2229 | 7 | bri |
+| 2230 | 7 | Daniel Okuka |
+| 2231 | 6 | Barefield Curt |
+| 2232 | 6 | Doc Elm |
+| 2233 | 6 | Tammy Hooser |
+| 2234 | 6 | Ruben Baca |
+| 2235 | 6 | Tarsha' Seymone Sherrod |
 | 2236 | 6 | Kyshia |
-| 2237 | 6 | Andrae Robinson |
-| 2238 | 6 | Ruben Baca |
-| 2239 | 6 | Tarsha' Seymone Sherrod |
-| 2240 | 6 | CK |
-| 2241 | 6 | Tammy Hooser |
-| 2242 | 6 | Barefield Curt |
-| 2243 | 6 | NEM0228 |
-| 2244 | 6 | Stevie Malcon |
-| 2245 | 6 | James Singleton |
-| 2246 | 6 | Dan Quintero |
-| 2247 | 5 | Forrestine Eubanks |
+| 2237 | 6 | party t-rex 27 |
+| 2238 | 6 | Sunny Shatterer |
+| 2239 | 6 | NEM0228 |
+| 2240 | 6 | James Singleton |
+| 2241 | 6 | Nerdy Slam |
+| 2242 | 6 | Dan Quintero |
+| 2243 | 6 | Stevie Malcon |
+| 2244 | 6 | Andrae Robinson |
+| 2245 | 6 | CK |
+| 2246 | 6 | Centara Goette |
+| 2247 | 6 | Adam Harrison |
 | 2248 | 5 | Godz Chosen |
-| 2249 | 5 | Cherry |
-| 2250 | 5 | Jennifer Haton Kreighbaum |
-| 2251 | 5 | Zesty Brickline |
-| 2252 | 5 | Melanie Leonard |
-| 2253 | 5 | MrKeith Debraux |
-| 2254 | 5 | Misty Sollberger |
-| 2255 | 5 | Cleversphinx76 |
-| 2256 | 5 | VERA DAME |
-| 2257 | 5 | Sunny Cascadepiece |
-| 2258 | 5 | MistyJaye |
-| 2259 | 5 | Joi |
-| 2260 | 5 | Crafty Fallzone |
-| 2261 | 5 | the guy |
-| 2262 | 5 | Ashley Marie |
-| 2263 | 5 | Ruben Esquibel |
-| 2264 | 5 | Cheery Edgefit |
-| 2265 | 5 | Happy |
-| 2266 | 5 | Jennie Vblaricom |
+| 2249 | 5 | Zesty Brickline |
+| 2250 | 5 | Forrestine Eubanks |
+| 2251 | 5 | Melanie Leonard |
+| 2252 | 5 | Jennifer Haton Kreighbaum |
+| 2253 | 5 | Cherry |
+| 2254 | 5 | MrKeith Debraux |
+| 2255 | 5 | Misty Sollberger |
+| 2256 | 5 | Cleversphinx76 |
+| 2257 | 5 | VERA DAME |
+| 2258 | 5 | Sunny Cascadepiece |
+| 2259 | 5 | MistyJaye |
+| 2260 | 5 | Joi |
+| 2261 | 5 | Crafty Fallzone |
+| 2262 | 5 | the guy |
+| 2263 | 5 | Ashley Marie |
+| 2264 | 5 | Ruben Esquibel |
+| 2265 | 5 | Cheery Edgefit |
+| 2266 | 5 | Happy |
+| 2267 | 5 | Jennie Vblaricom |
 
 ---
 *Standings created by tournaments datasource generation tool*
