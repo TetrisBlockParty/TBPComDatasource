@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:00:48 UTC
+# Standings for team1 as of 2026-06-10 10:01:22 UTC
 
 **Total Participants:** 2253
 
@@ -437,17 +437,17 @@
 | 429 | 352 | Asha Langford |
 | 430 | 351 | Shameka Thrasher |
 | 431 | 350 | Kimberly Linares Hernandez |
-| 432 | 350 | Glitzy Patternline |
-| 433 | 350 | Daddy |
-| 434 | 349 | Jae Thompson-Tyus |
-| 435 | 348 | C Lo Green |
-| 436 | 348 | CJ Robinson |
-| 437 | 348 | Kelli Couture |
-| 438 | 347 | Brenda Malachi-butler |
-| 439 | 346 | Skippy |
-| 440 | 346 | Jessie N Michael Silvers |
-| 441 | 345 | Jolly Tilefall |
-| 442 | 344 | Giggy Tower |
+| 432 | 350 | Giggy Tower |
+| 433 | 350 | Glitzy Patternline |
+| 434 | 350 | Daddy |
+| 435 | 349 | Jae Thompson-Tyus |
+| 436 | 348 | C Lo Green |
+| 437 | 348 | CJ Robinson |
+| 438 | 348 | Kelli Couture |
+| 439 | 347 | Brenda Malachi-butler |
+| 440 | 346 | Skippy |
+| 441 | 346 | Jessie N Michael Silvers |
+| 442 | 345 | Jolly Tilefall |
 | 443 | 344 | DaGuy |
 | 444 | 343 | Tesiree Cray |
 | 445 | 342 | Ashley Monet Terrell |
@@ -1198,46 +1198,46 @@
 | 1190 | 100 | Thomas Pearson |
 | 1191 | 100 | Oldheads |
 | 1192 | 100 | BigMike |
-| 1193 | 100 | nay |
-| 1194 | 100 | Jonathan McKenzie |
+| 1193 | 100 | Jonathan McKenzie |
+| 1194 | 100 | nay |
 | 1195 | 99 | Tellisa Payne |
-| 1196 | 99 | GiantBehemoth |
-| 1197 | 99 | DeShonna Bailey |
-| 1198 | 99 | Jamal D. Wiley |
-| 1199 | 99 | Evette Moreno |
-| 1200 | 98 | Phoenix |
-| 1201 | 98 | PattyPower |
-| 1202 | 98 | Tony P Burke |
-| 1203 | 98 | Azeiare Ziare |
-| 1204 | 98 | Dee Dee |
-| 1205 | 97 | Denise Cunningham-English |
-| 1206 | 97 | Quwana Hall |
-| 1207 | 97 | Storie Harris |
+| 1196 | 99 | Silly Spinblock |
+| 1197 | 99 | Jamal D. Wiley |
+| 1198 | 99 | DeShonna Bailey |
+| 1199 | 99 | GiantBehemoth |
+| 1200 | 99 | Evette Moreno |
+| 1201 | 98 | Phoenix |
+| 1202 | 98 | PattyPower |
+| 1203 | 98 | Tony P Burke |
+| 1204 | 98 | Azeiare Ziare |
+| 1205 | 98 | Dee Dee |
+| 1206 | 97 | Denise Cunningham-English |
+| 1207 | 97 | Quwana Hall |
 | 1208 | 97 | Leslie Ann |
-| 1209 | 97 | Kevin Turner |
-| 1210 | 97 | S.S |
-| 1211 | 96 | Linda Lasha Messenger |
-| 1212 | 96 | Giggly Shatterline |
-| 1213 | 96 | Just2Play$ |
-| 1214 | 96 | wuvbuug |
-| 1215 | 96 | Silly Spinblock |
+| 1209 | 97 | Storie Harris |
+| 1210 | 97 | Kevin Turner |
+| 1211 | 97 | S.S |
+| 1212 | 96 | Linda Lasha Messenger |
+| 1213 | 96 | Giggly Shatterline |
+| 1214 | 96 | Just2Play$ |
+| 1215 | 96 | wuvbuug |
 | 1216 | 96 | Sonia Binti Mfalme |
 | 1217 | 95 | Teresa Bean |
-| 1218 | 94 | AleahKCH |
-| 1219 | 94 | Cortrell Foster |
-| 1220 | 94 | Sha Anderson |
-| 1221 | 94 | Elizabeth Clara |
-| 1222 | 94 | Antoinette GallowayJohnson |
+| 1218 | 94 | Sha Anderson |
+| 1219 | 94 | Elizabeth Clara |
+| 1220 | 94 | Antoinette GallowayJohnson |
+| 1221 | 94 | Warren Miller |
+| 1222 | 94 | AleahKCH |
 | 1223 | 94 | Ike Nickerson |
-| 1224 | 94 | Warren Miller |
-| 1225 | 94 | Christina Wesley |
+| 1224 | 94 | Christina Wesley |
+| 1225 | 94 | Cortrell Foster |
 | 1226 | 93 | don ralph |
 | 1227 | 93 | 214Petty |
-| 1228 | 93 | Torrie Eckrote |
-| 1229 | 93 | Brave Balanceblock |
-| 1230 | 93 | Khatyrah Burnette |
-| 1231 | 92 | 1ofaking |
-| 1232 | 92 | Jennifer Rogers |
+| 1228 | 93 | Brave Balanceblock |
+| 1229 | 93 | Khatyrah Burnette |
+| 1230 | 93 | Torrie Eckrote |
+| 1231 | 92 | Jennifer Rogers |
+| 1232 | 92 | 1ofaking |
 | 1233 | 92 | Anthony T. Fults |
 | 1234 | 91 | Jose Antonio Villot |
 | 1235 | 91 | Cathilia Rodriguez |
