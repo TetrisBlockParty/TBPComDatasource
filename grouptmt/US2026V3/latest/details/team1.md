@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 09:50:41 UTC
+# Standings for team1 as of 2026-06-10 09:51:25 UTC
 
 **Total Participants:** 2253
 
@@ -50,8 +50,8 @@
 | 42 | 2619 | Zappy Brickline |
 | 43 | 2615 | JoJo |
 | 44 | 2584 | Tootsie Pop |
-| 45 | 2540 | Jamie Willis |
-| 46 | 2529 | Jennifer To |
+| 45 | 2547 | Jennifer To |
+| 46 | 2540 | Jamie Willis |
 | 47 | 2476 | Epic Snapfall |
 | 48 | 2448 | Mimi 1.0 |
 | 49 | 2370 | Therealdywoune Peay |
@@ -285,12 +285,12 @@
 | 277 | 528 | Lashaunda |
 | 278 | 528 | win |
 | 279 | 527 | MommaCia |
-| 280 | 526 | Kenny 'Tailormade' Boyd |
-| 281 | 525 | Andre Sanon |
-| 282 | 523 | Simmone T. Kadiri |
-| 283 | 522 | Penee Wiggins |
-| 284 | 519 | Clever Fitblock |
-| 285 | 517 | Tamara Johnson-Carter |
+| 280 | 527 | Tamara Johnson-Carter |
+| 281 | 526 | Kenny 'Tailormade' Boyd |
+| 282 | 525 | Andre Sanon |
+| 283 | 523 | Simmone T. Kadiri |
+| 284 | 522 | Penee Wiggins |
+| 285 | 519 | Clever Fitblock |
 | 286 | 514 | Tessa Felice Hill |
 | 287 | 514 | Chasem45 |
 | 288 | 512 | Anthony |

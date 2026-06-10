@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 09:50:41 UTC
+# Standings for team2 as of 2026-06-10 09:51:25 UTC
 
 **Total Participants:** 2718
 
@@ -115,8 +115,8 @@
 | 107 | 1699 | Poppy |
 | 108 | 1696 | Gabriella Humphreys |
 | 109 | 1680 | missat |
-| 110 | 1616 | Deborah Boyce Minor |
-| 111 | 1599 | Courtney McCulley |
+| 110 | 1629 | Courtney McCulley |
+| 111 | 1616 | Deborah Boyce Minor |
 | 112 | 1591 | Ruby Sandberg |
 | 113 | 1584 | Charlie Wilson |
 | 114 | 1563 | Amber Triguero |
