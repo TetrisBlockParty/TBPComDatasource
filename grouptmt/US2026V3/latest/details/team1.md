@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:22:45 UTC
+# Standings for team1 as of 2026-06-10 10:23:20 UTC
 
 **Total Participants:** 2255
 
@@ -848,39 +848,39 @@
 | 840 | 176 | Frisky Gridder |
 | 841 | 176 | Alexis Alexander |
 | 842 | 176 | Squaw Ki Ng |
-| 843 | 175 | Ozell Jones Jr. |
-| 844 | 175 | Dizzy Gridmatch |
-| 845 | 175 | DaemahnFriday |
-| 846 | 175 | LAdYPOLy |
-| 847 | 174 | Nerdy Wipefit |
+| 843 | 175 | DaemahnFriday |
+| 844 | 175 | LAdYPOLy |
+| 845 | 175 | Mario Meliodas |
+| 846 | 175 | Dizzy Gridmatch |
+| 847 | 175 | Ozell Jones Jr. |
 | 848 | 174 | Kizzy Clark |
-| 849 | 174 | Jason Saputo |
-| 850 | 173 | Meepycat |
-| 851 | 173 | DirtiestofMikes |
-| 852 | 173 | Claudia Price |
-| 853 | 172 | Li-Li Ratliff |
-| 854 | 171 | Ta'Kaiyah M. Spann |
-| 855 | 171 | Locke Mahal LD |
-| 856 | 171 | Pinky Pink |
-| 857 | 170 | Ashley Davis |
-| 858 | 170 | Mikemike Zonethree |
-| 859 | 170 | Jamesha Lawrence |
-| 860 | 170 | Devron Reedy |
-| 861 | 170 | Aaron Sohnrey |
-| 862 | 170 | Mario Meliodas |
-| 863 | 169 | rb |
-| 864 | 169 | Sunny Clicky |
-| 865 | 168 | DoMinique Lee |
-| 866 | 168 | Mrs.Ann |
-| 867 | 168 | Seirra Robinson |
-| 868 | 168 | Meeee |
+| 849 | 174 | Nerdy Wipefit |
+| 850 | 174 | Jason Saputo |
+| 851 | 173 | Meepycat |
+| 852 | 173 | DirtiestofMikes |
+| 853 | 173 | Claudia Price |
+| 854 | 172 | Li-Li Ratliff |
+| 855 | 171 | Ta'Kaiyah M. Spann |
+| 856 | 171 | Locke Mahal LD |
+| 857 | 171 | Pinky Pink |
+| 858 | 170 | Jamesha Lawrence |
+| 859 | 170 | Ashley Davis |
+| 860 | 170 | Mikemike Zonethree |
+| 861 | 170 | Devron Reedy |
+| 862 | 170 | Aaron Sohnrey |
+| 863 | 169 | Sunny Clicky |
+| 864 | 169 | rb |
+| 865 | 168 | Meeee |
+| 866 | 168 | DoMinique Lee |
+| 867 | 168 | Mrs.Ann |
+| 868 | 168 | Seirra Robinson |
 | 869 | 167 | Felicia Woods |
 | 870 | 167 | Ashley Love Pettit |
 | 871 | 166 | Rochelle Nash-Evans |
 | 872 | 166 | Motown Chuck |
 | 873 | 166 | Desi Guerra |
-| 874 | 166 | Sallie Sanborn |
-| 875 | 166 | Amaadi Ward |
+| 874 | 166 | Amaadi Ward |
+| 875 | 166 | Sallie Sanborn |
 | 876 | 165 | Silly Edgepiece |
 | 877 | 165 | Kashh |
 | 878 | 165 | AimlessRain |
