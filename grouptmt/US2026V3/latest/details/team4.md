@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 00:34:22 UTC
+# Standings for team4 as of 2026-06-10 00:34:47 UTC
 
 **Total Participants:** 2210
 
@@ -37,7 +37,7 @@
 | 29 | 4617 | Jackie Lucas |
 | 30 | 4548 | Chummy Rollzone |
 | 31 | 4533 | Juan Ford |
-| 32 | 4268 | Tonya Brooks-Johnson |
+| 32 | 4277 | Tonya Brooks-Johnson |
 | 33 | 4160 | Witty Clicky |
 | 34 | 4146 | TitiLo72 |
 | 35 | 3829 | Leigh Pierce |
@@ -75,8 +75,8 @@
 | 67 | 1989 | Erin Figone |
 | 68 | 1985 | kcknbtz |
 | 69 | 1954 | Damon Gaston |
-| 70 | 1920 | Alyssa Oth |
-| 71 | 1920 | Charlie Lewis |
+| 70 | 1920 | Charlie Lewis |
+| 71 | 1920 | Alyssa Oth |
 | 72 | 1906 | Jackie Polanco |
 | 73 | 1892 | Jace McCullough |
 | 74 | 1889 | Bryan DjMagnum Evans |
