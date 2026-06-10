@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 06:40:44 UTC
+# Standings for team1 as of 2026-06-10 06:41:22 UTC
 
 **Total Participants:** 2236
 
@@ -302,33 +302,33 @@
 | 294 | 496 | Slinky Brickmatch |
 | 295 | 495 | Queenie Perry |
 | 296 | 492 | Heather Aurelia |
-| 297 | 492 | SANA |
-| 298 | 490 | Kate Hancock Malicek |
-| 299 | 488 | Snippy Breaker |
-| 300 | 485 | Natasha Rucker |
-| 301 | 484 | Jhonny Maii |
-| 302 | 479 | Leebo Slice |
-| 303 | 478 | Tarnisha Neicy Jones |
-| 304 | 477 | Cheri Robinson |
+| 297 | 492 | Cheri Robinson |
+| 298 | 492 | SANA |
+| 299 | 490 | Kate Hancock Malicek |
+| 300 | 488 | Snippy Breaker |
+| 301 | 485 | Natasha Rucker |
+| 302 | 484 | Jhonny Maii |
+| 303 | 479 | Leebo Slice |
+| 304 | 478 | Tarnisha Neicy Jones |
 | 305 | 477 | Analiza Ramos |
 | 306 | 476 | Cachet A Ward |
 | 307 | 474 | Steve Reno |
 | 308 | 472 | Smiley3000 |
 | 309 | 471 | Chummy Frame |
 | 310 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 311 | 469 | Victor |
-| 312 | 469 | Lashaunda |
-| 313 | 468 | Jayjay Rich |
-| 314 | 468 | Sheila Burnham |
+| 311 | 469 | Lashaunda |
+| 312 | 469 | Victor |
+| 313 | 468 | Sheila Burnham |
+| 314 | 468 | Jayjay Rich |
 | 315 | 467 | e |
 | 316 | 464 | Devin West |
-| 317 | 463 | Andrew Jay Vaughn |
-| 318 | 463 | Tamika Fisher |
+| 317 | 463 | Tamika Fisher |
+| 318 | 463 | Andrew Jay Vaughn |
 | 319 | 461 | StingerD |
 | 320 | 459 | Shanaa Germany Crittenden |
 | 321 | 459 | Mahagony Small |
-| 322 | 457 | Desire Rice |
-| 323 | 457 | Saranoh13 |
+| 322 | 457 | Saranoh13 |
+| 323 | 457 | Desire Rice |
 | 324 | 456 | Brave Clearbuilder |
 | 325 | 453 | Tasha |
 | 326 | 452 | Kenny MrOnethousand Peck |
@@ -340,11 +340,11 @@
 | 332 | 441 | Lyn Reed |
 | 333 | 440 | Larina Cherie Johnson |
 | 334 | 439 | Asani CHumba |
-| 335 | 439 | Block |
-| 336 | 439 | Andy Rivera |
+| 335 | 439 | Andy Rivera |
+| 336 | 439 | Block |
 | 337 | 438 | Simone Bailey |
-| 338 | 437 | Dedra M Prester |
-| 339 | 437 | 大竹直之 |
+| 338 | 437 | 大竹直之 |
+| 339 | 437 | Dedra M Prester |
 | 340 | 435 | Richard Flex |
 | 341 | 434 | Tonya McElroy |
 | 342 | 430 | akosua |
