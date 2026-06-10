@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:16:43 UTC
+# Standings for team1 as of 2026-06-10 10:17:26 UTC
 
 **Total Participants:** 2255
 
@@ -518,66 +518,66 @@
 | 510 | 294 | Abby |
 | 511 | 294 | Brittanie Wardlow |
 | 512 | 294 | Lounique |
-| 513 | 293 | Nona Harriel |
-| 514 | 293 | crumb bumc |
+| 513 | 293 | crumb bumc |
+| 514 | 293 | Nona Harriel |
 | 515 | 292 | MonaSparks |
-| 516 | 291 | 신재호 |
-| 517 | 291 | LuckyStar |
-| 518 | 291 | Jack Vlasak |
-| 519 | 291 | Hardtohandle91 |
-| 520 | 291 | Stephen Glaze |
-| 521 | 291 | Brian Taylor |
-| 522 | 290 | Boldy Liner |
-| 523 | 290 | SnazzyIvy |
+| 516 | 291 | LuckyStar |
+| 517 | 291 | Stephen Glaze |
+| 518 | 291 | Brian Taylor |
+| 519 | 291 | 신재호 |
+| 520 | 291 | Jack Vlasak |
+| 521 | 291 | Hardtohandle91 |
+| 522 | 290 | SnazzyIvy |
+| 523 | 290 | Boldy Liner |
 | 524 | 290 | Tiffany Jean Hinson |
 | 525 | 290 | Melissa Olvera |
-| 526 | 289 | Yashica Smith |
-| 527 | 289 | Chandler Magee |
-| 528 | 288 | Lozuna |
-| 529 | 288 | Vernon Hoyt |
-| 530 | 287 | Bambi Johnson |
-| 531 | 287 | Daniel Santana |
-| 532 | 287 | LiyaSkye |
-| 533 | 287 | Trusi Rusi |
+| 526 | 289 | Chandler Magee |
+| 527 | 289 | Yashica Smith |
+| 528 | 288 | Vernon Hoyt |
+| 529 | 288 | Lozuna |
+| 530 | 287 | Daniel Santana |
+| 531 | 287 | LiyaSkye |
+| 532 | 287 | Trusi Rusi |
+| 533 | 287 | Bambi Johnson |
 | 534 | 286 | Mighty Dropper |
-| 535 | 286 | Boldy Matchbuilder |
-| 536 | 286 | Zappy Clearfit |
-| 537 | 286 | Soubletzy |
-| 538 | 286 | Rebecca Jackson |
+| 535 | 286 | Zappy Clearfit |
+| 536 | 286 | Soubletzy |
+| 537 | 286 | Rebecca Jackson |
+| 538 | 286 | Boldy Matchbuilder |
 | 539 | 283 | lizlizliz |
-| 540 | 283 | Kristie |
-| 541 | 282 | Marlainia Boyd |
-| 542 | 282 | Perky Pusher |
-| 543 | 281 | Terri Smart |
-| 544 | 280 | Slinky Swipe |
-| 545 | 279 | Slinky Clearzone |
+| 540 | 283 | Phillip Vasquez |
+| 541 | 283 | Kristie |
+| 542 | 282 | Marlainia Boyd |
+| 543 | 282 | Perky Pusher |
+| 544 | 281 | Terri Smart |
+| 545 | 280 | Slinky Swipe |
 | 546 | 279 | Loopy Tiler |
-| 547 | 278 | Mister Reid |
+| 547 | 279 | Slinky Clearzone |
 | 548 | 278 | AnnaM |
-| 549 | 277 | Jenni Hardman |
-| 550 | 276 | Peppy Glider |
+| 549 | 278 | Mister Reid |
+| 550 | 277 | Jenni Hardman |
 | 551 | 276 | Giddy Staggerpiece |
-| 552 | 276 | Aaron Hartmann |
-| 553 | 275 | Chris Sladoje |
-| 554 | 275 | Pj Rojas |
-| 555 | 275 | Falisa Bell |
-| 556 | 274 | brite |
-| 557 | 274 | Zany Breaker |
-| 558 | 273 | Brittnay Wright |
+| 552 | 276 | Peppy Glider |
+| 553 | 276 | Aaron Hartmann |
+| 554 | 275 | Falisa Bell |
+| 555 | 275 | Pj Rojas |
+| 556 | 275 | Chris Sladoje |
+| 557 | 274 | brite |
+| 558 | 274 | Zany Breaker |
 | 559 | 273 | Comedian Gdane |
-| 560 | 273 | Vera Beckford |
-| 561 | 273 | Kamilya Rembert |
-| 562 | 273 | Kimmie Gargano |
-| 563 | 272 | Felicia Dungey |
+| 560 | 273 | Kimmie Gargano |
+| 561 | 273 | Brittnay Wright |
+| 562 | 273 | Vera Beckford |
+| 563 | 273 | Kamilya Rembert |
 | 564 | 272 | wmedina67 |
-| 565 | 272 | Koreen Johnson-Woolford |
-| 566 | 272 | Tanisha Taylor |
-| 567 | 272 | ChunLi |
-| 568 | 270 | Meshia |
-| 569 | 269 | RylonJones |
-| 570 | 269 | Phillip Vasquez |
-| 571 | 269 | Stephanie L Jeffries Moultrie |
-| 572 | 269 | BonnieB |
+| 565 | 272 | Tanisha Taylor |
+| 566 | 272 | Koreen Johnson-Woolford |
+| 567 | 272 | Felicia Dungey |
+| 568 | 272 | ChunLi |
+| 569 | 270 | Meshia |
+| 570 | 269 | RylonJones |
+| 571 | 269 | BonnieB |
+| 572 | 269 | Stephanie L Jeffries Moultrie |
 | 573 | 268 | Monica Tovar |
 | 574 | 268 | Casey Chapman |
 | 575 | 266 | Valerie Alexander |
@@ -591,8 +591,8 @@
 | 583 | 261 | Lucy |
 | 584 | 260 | Jen Hallin |
 | 585 | 260 | Lester Malone |
-| 586 | 260 | Ashley Danielle |
-| 587 | 260 | Spotlight |
+| 586 | 260 | Spotlight |
+| 587 | 260 | Ashley Danielle |
 | 588 | 259 | Blocksy |
 | 589 | 258 | Kala Miller |
 | 590 | 257 | Adrian Harris |
@@ -601,11 +601,11 @@
 | 593 | 256 | Dreamzzz |
 | 594 | 255 | Michelle Peters |
 | 595 | 255 | Mathew Trudell |
-| 596 | 254 | Ashlie Mo |
-| 597 | 254 | Brittany Sara Heldwein |
-| 598 | 254 | Dorian Griffin |
-| 599 | 254 | Dede Tate |
-| 600 | 254 | BB |
+| 596 | 254 | Dorian Griffin |
+| 597 | 254 | Ashlie Mo |
+| 598 | 254 | Dede Tate |
+| 599 | 254 | BB |
+| 600 | 254 | Brittany Sara Heldwein |
 | 601 | 254 | Cheryl Miller |
 | 602 | 253 | Nyhlah Patterson |
 | 603 | 252 | Shakuria Cortia Burney |
