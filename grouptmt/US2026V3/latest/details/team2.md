@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 12:12:48 UTC
+# Standings for team2 as of 2026-06-10 12:13:22 UTC
 
 **Total Participants:** 2737
 
@@ -260,17 +260,17 @@
 | 252 | 712 | Aldotfus Williams |
 | 253 | 711 | Christina Maria |
 | 254 | 710 | Chipper Stackbuilder |
-| 255 | 702 | Boldy Fitclear |
-| 256 | 700 | DukeDino |
-| 257 | 698 | Jenni LeBlanc |
-| 258 | 694 | Sabrina Hardrick |
-| 259 | 692 | Charles E Mccardell |
-| 260 | 691 | Wacky Tumbler |
-| 261 | 690 | Starr Collins |
-| 262 | 687 | Zach Jewett |
-| 263 | 687 | meg |
-| 264 | 679 | True |
-| 265 | 678 | Ackerman 85 |
+| 255 | 708 | Ackerman 85 |
+| 256 | 702 | Boldy Fitclear |
+| 257 | 700 | DukeDino |
+| 258 | 698 | Jenni LeBlanc |
+| 259 | 694 | Sabrina Hardrick |
+| 260 | 692 | Charles E Mccardell |
+| 261 | 691 | Wacky Tumbler |
+| 262 | 690 | Starr Collins |
+| 263 | 687 | Zach Jewett |
+| 264 | 687 | meg |
+| 265 | 679 | True |
 | 266 | 677 | Cool Balancer |
 | 267 | 676 | La chulis |
 | 268 | 676 | Laverne Ellis Blair |
@@ -1929,8 +1929,8 @@
 | 1921 | 52 | Mel Hogan |
 | 1922 | 52 | Funkykarebear |
 | 1923 | 52 | Trixie |
-| 1924 | 52 | Sunnylynn Hodge |
-| 1925 | 52 | Mcksmash |
+| 1924 | 52 | Mcksmash |
+| 1925 | 52 | Sunnylynn Hodge |
 | 1926 | 52 | Elroy Bond |
 | 1927 | 52 | Chirpy Shiftspin |
 | 1928 | 52 | Lavenda Nettles |
@@ -1939,33 +1939,33 @@
 | 1931 | 51 | Staci Carl |
 | 1932 | 51 | Ashley Gracelynn Tiner |
 | 1933 | 51 | Bold Blockline |
-| 1934 | 51 | haihai |
-| 1935 | 51 | Brandi Lynn Tumey |
-| 1936 | 51 | Daring Blockline |
+| 1934 | 51 | Glitzy Linkbuilder |
+| 1935 | 51 | Īvý S Karma |
+| 1936 | 51 | Jazzy Cornerfall |
 | 1937 | 51 | Alicia Abston |
-| 1938 | 51 | Christina Wilson |
-| 1939 | 51 | Jess |
-| 1940 | 51 | Brian Giddens |
-| 1941 | 51 | Shiny Align |
-| 1942 | 51 | Jazzy Cornerfall |
-| 1943 | 51 | Īvý S Karma |
-| 1944 | 50 | Glitzy Linkbuilder |
-| 1945 | 50 | Joyce Bartel |
+| 1938 | 51 | Daring Blockline |
+| 1939 | 51 | Brandi Lynn Tumey |
+| 1940 | 51 | Jess |
+| 1941 | 51 | haihai |
+| 1942 | 51 | Brian Giddens |
+| 1943 | 51 | Shiny Align |
+| 1944 | 51 | Christina Wilson |
+| 1945 | 50 | Chamorro Pride |
 | 1946 | 50 | Tabitha Palen |
 | 1947 | 50 | Mandy |
-| 1948 | 50 | Chamorro Pride |
-| 1949 | 50 | Karen Moore |
-| 1950 | 50 | Jazzy |
+| 1948 | 50 | Karen Moore |
+| 1949 | 50 | Jazzy |
+| 1950 | 50 | Loony Glider |
 | 1951 | 50 | himesamayuki77 |
-| 1952 | 50 | Loony Glider |
+| 1952 | 50 | Joyce Bartel |
 | 1953 | 50 | Witty Matchfit |
 | 1954 | 50 | Timone907 |
 | 1955 | 50 | Whitt |
-| 1956 | 49 | Dustie Benefield |
-| 1957 | 49 | Lively Zone |
-| 1958 | 49 | Nickishan Richrds |
-| 1959 | 49 | unvoiced |
-| 1960 | 49 | Erin Winberry |
+| 1956 | 49 | Lively Zone |
+| 1957 | 49 | Erin Winberry |
+| 1958 | 49 | unvoiced |
+| 1959 | 49 | Dustie Benefield |
+| 1960 | 49 | Nickishan Richrds |
 | 1961 | 49 | Carol Huff |
 | 1962 | 49 | Spryng Cox |
 | 1963 | 49 | Emily Busick |
