@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 10:50:43 UTC
+# Standings for team4 as of 2026-06-10 10:51:23 UTC
 
 **Total Participants:** 2309
 
@@ -61,8 +61,8 @@
 | 53 | 3100 | Posey Smith |
 | 54 | 2960 | Alicia Cook |
 | 55 | 2839 | 626 |
-| 56 | 2800 | Caitlin Johnson |
-| 57 | 2800 | Annastaissia Todd |
+| 56 | 2800 | Annastaissia Todd |
+| 57 | 2800 | Caitlin Johnson |
 | 58 | 2795 | Monica Emel |
 | 59 | 2537 | Маркус Вік |
 | 60 | 2525 | Joseph Anthony Watkins |
@@ -121,8 +121,8 @@
 | 113 | 1189 | Twirl Girl |
 | 114 | 1181 | Dana Fontanez |
 | 115 | 1165 | GeorgeButts |
-| 116 | 1156 | Jonathan Hewitt |
-| 117 | 1156 | Dee Wizz |
+| 116 | 1156 | Dee Wizz |
+| 117 | 1156 | Jonathan Hewitt |
 | 118 | 1145 | Kristen Wallace |
 | 119 | 1142 | Hardy Fuller |
 | 120 | 1123 | Jenn Fitzgerald |
@@ -137,8 +137,8 @@
 | 129 | 1058 | Dandy Puzzler |
 | 130 | 1058 | CJ |
 | 131 | 1057 | Heather Preston |
-| 132 | 1046 | Hairy Snake |
-| 133 | 1046 | Irma |
+| 132 | 1046 | Irma |
+| 133 | 1046 | Hairy Snake |
 | 134 | 1042 | Futrell Brent |
 | 135 | 1029 | Chiquita Blue |
 | 136 | 1008 | Loony Glidepiece |
@@ -179,14 +179,14 @@
 | 171 | 832 | Lori Stembridge |
 | 172 | 830 | Kitsune Bi |
 | 173 | 825 | Thomasena Eady Reid |
-| 174 | 808 | Misty Leigh |
-| 175 | 808 | Christy Beezley-Forbush |
+| 174 | 808 | Christy Beezley-Forbush |
+| 175 | 808 | Misty Leigh |
 | 176 | 802 | Dandy Clearfit |
 | 177 | 801 | Izz |
 | 178 | 797 | Lynn Grimes |
 | 179 | 783 | Regina Williams |
-| 180 | 780 | Capone |
-| 181 | 780 | CIRAZYPNOY |
+| 180 | 780 | CIRAZYPNOY |
+| 181 | 780 | Capone |
 | 182 | 779 | Tiffany Brooke |
 | 183 | 764 | Shocinda Sherwood |
 | 184 | 762 | LastBoi |
@@ -211,8 +211,8 @@
 | 203 | 700 | Suzanne Carter |
 | 204 | 697 | Linda Miltenburg |
 | 205 | 686 | Jennifer Ellyn Sheets |
-| 206 | 684 | Shannon Rivera |
-| 207 | 684 | Caitlyn Wang |
+| 206 | 684 | Caitlyn Wang |
+| 207 | 684 | Shannon Rivera |
 | 208 | 683 | Malik Thompson |
 | 209 | 681 | Janet Sanfilippo Sullivan |
 | 210 | 678 | Katie Lynn Petit |
@@ -222,8 +222,8 @@
 | 214 | 657 | Jenn Norcross |
 | 215 | 654 | Gerald Lew |
 | 216 | 653 | Alex Armour |
-| 217 | 651 | Dayna Arthurs |
-| 218 | 651 | Jewelz |
+| 217 | 651 | Jewelz |
+| 218 | 651 | Dayna Arthurs |
 | 219 | 650 | Beth Belanger |
 | 220 | 647 | Laguya |
 | 221 | 644 | Krysten Danielle Richard |
@@ -231,23 +231,23 @@
 | 223 | 637 | QueenLi86 |
 | 224 | 634 | Tyson Stroppel |
 | 225 | 633 | Kelly Howland |
-| 226 | 627 | Erika Seaton |
-| 227 | 627 | Brick House |
+| 226 | 627 | Brick House |
+| 227 | 627 | Erika Seaton |
 | 228 | 626 | Lush Fitblock |
 | 229 | 623 | Leslie Ann Carter |
 | 230 | 621 | Matthew Hudson |
 | 231 | 620 | Saucy Wipepiece |
 | 232 | 618 | Iforget |
-| 233 | 616 | Toon Up |
-| 234 | 616 | Renee Sapp |
+| 233 | 616 | Renee Sapp |
+| 234 | 616 | Toon Up |
 | 235 | 614 | Logan Two-dubs Baker |
 | 236 | 614 | Jacqueline Jackii Ramos |
 | 237 | 613 | Big Dooka |
-| 238 | 607 | Taz |
-| 239 | 607 | Samara Garcia |
-| 240 | 606 | Jackie Miller |
-| 241 | 606 | Addi JayKay |
-| 242 | 606 | Samantha Worley |
+| 238 | 607 | Samara Garcia |
+| 239 | 607 | Taz |
+| 240 | 606 | Addi JayKay |
+| 241 | 606 | Samantha Worley |
+| 242 | 606 | Jackie Miller |
 | 243 | 602 | Spicy Chicken |
 | 244 | 600 | Tina Thomas |
 | 245 | 593 | Vanessa Sykes |
@@ -258,14 +258,14 @@
 | 250 | 576 | Goofy Riser |
 | 251 | 575 | Julian Gasque |
 | 252 | 574 | Alma López Morales |
-| 253 | 573 | Celina DiBastiani |
-| 254 | 573 | Sisi RedVelvet Reneè |
+| 253 | 573 | Sisi RedVelvet Reneè |
+| 254 | 573 | Celina DiBastiani |
 | 255 | 572 | Bean |
-| 256 | 568 | Breezy Cascadeclear |
-| 257 | 568 | Stephanie Myers |
+| 256 | 568 | Stephanie Myers |
+| 257 | 568 | Breezy Cascadeclear |
 | 258 | 567 | tigerlilly |
-| 259 | 565 | Rebecca Watters |
-| 260 | 565 | Shanna Fragen |
+| 259 | 565 | Shanna Fragen |
+| 260 | 565 | Rebecca Watters |
 | 261 | 564 | Drh4090 |
 | 262 | 564 | Boldy Rumbler |
 | 263 | 561 | Danny Ortiz |
@@ -288,8 +288,8 @@
 | 280 | 520 | Fran Aaron-Ring |
 | 281 | 516 | Tipsy Zonebuilder |
 | 282 | 512 | Merritt Brandt |
-| 283 | 508 | Goofy Fall |
-| 284 | 508 | Danny Keich III |
+| 283 | 508 | Danny Keich III |
+| 284 | 508 | Goofy Fall |
 | 285 | 508 | Hen |
 | 286 | 504 | Piece of Cake |
 | 287 | 504 | Perky Riserbuilder |
@@ -299,8 +299,8 @@
 | 291 | 496 | Jackie Jackson |
 | 292 | 496 | jaz |
 | 293 | 494 | Yesenia Castro Monreal |
-| 294 | 488 | Aramat |
-| 295 | 488 | matt |
+| 294 | 488 | matt |
+| 295 | 488 | Aramat |
 | 296 | 487 | Plucky Shatterfit |
 | 297 | 482 | Tasha Suzanne Prisbrey |
 | 298 | 481 | Swanky Brickzone |

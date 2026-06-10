@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 10:50:43 UTC
+# Standings for team1 as of 2026-06-10 10:51:23 UTC
 
 **Total Participants:** 2258
 
@@ -530,66 +530,66 @@
 | 522 | 291 | Brian Taylor |
 | 523 | 291 | 신재호 |
 | 524 | 291 | Hardtohandle91 |
-| 525 | 290 | Tiffany Jean Hinson |
-| 526 | 290 | Boldy Liner |
+| 525 | 290 | Boldy Liner |
+| 526 | 290 | SnazzyIvy |
 | 527 | 290 | Melissa Olvera |
-| 528 | 290 | SnazzyIvy |
-| 529 | 289 | Yashica Smith |
-| 530 | 289 | Chandler Magee |
-| 531 | 288 | Lozuna |
-| 532 | 288 | Vernon Hoyt |
-| 533 | 287 | Daniel Santana |
-| 534 | 287 | LiyaSkye |
+| 528 | 290 | Tiffany Jean Hinson |
+| 529 | 289 | Chandler Magee |
+| 530 | 289 | Yashica Smith |
+| 531 | 288 | Vernon Hoyt |
+| 532 | 288 | Lozuna |
+| 533 | 287 | LiyaSkye |
+| 534 | 287 | Daniel Santana |
 | 535 | 287 | Bambi Johnson |
-| 536 | 286 | Boldy Matchbuilder |
-| 537 | 286 | Zappy Clearfit |
-| 538 | 286 | Mighty Dropper |
-| 539 | 286 | Soubletzy |
-| 540 | 283 | lizlizliz |
+| 536 | 286 | Zappy Clearfit |
+| 537 | 286 | Will |
+| 538 | 286 | Soubletzy |
+| 539 | 286 | Boldy Matchbuilder |
+| 540 | 286 | Mighty Dropper |
 | 541 | 283 | Phillip Vasquez |
-| 542 | 283 | Kristie |
-| 543 | 282 | Perky Pusher |
-| 544 | 282 | Marlainia Boyd |
-| 545 | 281 | Terri Smart |
-| 546 | 280 | Slinky Swipe |
-| 547 | 279 | Loopy Tiler |
-| 548 | 279 | Slinky Clearzone |
-| 549 | 278 | Mister Reid |
-| 550 | 278 | AnnaM |
-| 551 | 277 | Jenni Hardman |
-| 552 | 276 | Aaron Hartmann |
-| 553 | 276 | Peppy Glider |
-| 554 | 276 | Will |
+| 542 | 283 | lizlizliz |
+| 543 | 283 | Kristie |
+| 544 | 282 | Perky Pusher |
+| 545 | 282 | Marlainia Boyd |
+| 546 | 281 | Terri Smart |
+| 547 | 280 | Slinky Swipe |
+| 548 | 279 | Loopy Tiler |
+| 549 | 279 | Slinky Clearzone |
+| 550 | 278 | Mister Reid |
+| 551 | 278 | AnnaM |
+| 552 | 277 | Jenni Hardman |
+| 553 | 276 | Aaron Hartmann |
+| 554 | 276 | Peppy Glider |
 | 555 | 275 | Pj Rojas |
-| 556 | 275 | Falisa Bell |
-| 557 | 275 | Chris Sladoje |
+| 556 | 275 | Chris Sladoje |
+| 557 | 275 | Falisa Bell |
 | 558 | 274 | Zany Breaker |
 | 559 | 274 | brite |
 | 560 | 273 | Kamilya Rembert |
 | 561 | 273 | Comedian Gdane |
-| 562 | 273 | Kimmie Gargano |
-| 563 | 273 | Brittnay Wright |
-| 564 | 273 | Vera Beckford |
-| 565 | 272 | Koreen Johnson-Woolford |
-| 566 | 272 | Felicia Dungey |
+| 562 | 273 | Vera Beckford |
+| 563 | 273 | Kimmie Gargano |
+| 564 | 273 | Brittnay Wright |
+| 565 | 272 | Tanisha Taylor |
+| 566 | 272 | wmedina67 |
 | 567 | 272 | ChunLi |
-| 568 | 272 | wmedina67 |
-| 569 | 272 | Tanisha Taylor |
+| 568 | 272 | Felicia Dungey |
+| 569 | 272 | Koreen Johnson-Woolford |
 | 570 | 270 | Meshia |
 | 571 | 269 | BonnieB |
 | 572 | 269 | Stephanie L Jeffries Moultrie |
 | 573 | 269 | RylonJones |
-| 574 | 268 | Casey Chapman |
-| 575 | 268 | Monica Tovar |
+| 574 | 268 | Monica Tovar |
+| 575 | 268 | Casey Chapman |
 | 576 | 266 | Valerie Alexander |
 | 577 | 266 | Chris Holland |
 | 578 | 265 | SceneGreenz Wali |
 | 579 | 265 | Kortney Adams |
 | 580 | 264 | Juan Santiago |
 | 581 | 263 | Stephanie Ellis |
-| 582 | 261 | Angela Brown Babin |
+| 582 | 261 | PSD |
 | 583 | 261 | Lucy |
-| 584 | 261 | PSD |
+| 584 | 261 | Angela Brown Babin |
 | 585 | 260 | Ashley Danielle |
 | 586 | 260 | Spotlight |
 | 587 | 260 | Jen Hallin |
@@ -1023,10 +1023,10 @@
 | 1015 | 134 | Laurie Napper |
 | 1016 | 134 | Spunky Gridder |
 | 1017 | 133 | Terrance Tindall |
-| 1018 | 132 | Silly Wiper |
-| 1019 | 132 | tskmstr |
-| 1020 | 132 | Shaun Baker |
-| 1021 | 132 | Sassy Wipeblock |
+| 1018 | 133 | Sassy Wipeblock |
+| 1019 | 132 | Silly Wiper |
+| 1020 | 132 | tskmstr |
+| 1021 | 132 | Shaun Baker |
 | 1022 | 131 | Yellowbone |
 | 1023 | 131 | Elaine Youmans |
 | 1024 | 131 | Eugenia Vanclusen |
