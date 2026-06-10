@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 16:26:51 UTC
+# Standings for team1 as of 2026-06-10 16:27:23 UTC
 
 **Total Participants:** 2295
 
@@ -101,7 +101,7 @@
 | 93 | 1524 | La'Chae Nickole |
 | 94 | 1519 | Murg4dr01d |
 | 95 | 1501 | LeeLee08 |
-| 96 | 1485 | Voice |
+| 96 | 1495 | Voice |
 | 97 | 1441 | Rolanda Williams |
 | 98 | 1433 | Spicy Balancer |
 | 99 | 1431 | Richard Horton |
@@ -133,9 +133,9 @@
 | 125 | 1168 | Peppy Piececlear |
 | 126 | 1163 | Jazzy Dashpiece |
 | 127 | 1153 | ELM |
-| 128 | 1136 | Sharon Cail |
-| 129 | 1128 | Nutty Spinblock |
-| 130 | 1124 | Jaida King |
+| 128 | 1140 | Jaida King |
+| 129 | 1136 | Sharon Cail |
+| 130 | 1128 | Nutty Spinblock |
 | 131 | 1121 | Zippy Lifter |
 | 132 | 1121 | Lisa Müller |
 | 133 | 1120 | IamJust Neyamijah Washington Sr. |
@@ -153,9 +153,9 @@
 | 145 | 1014 | Cece Fowler |
 | 146 | 992 | Danielle Barthelme |
 | 147 | 987 | Kaleisha Smith |
-| 148 | 977 | Jaida De'Anne Cox |
-| 149 | 974 | Will |
-| 150 | 973 | Carolynne Walker-Bell |
+| 148 | 978 | Carolynne Walker-Bell |
+| 149 | 977 | Jaida De'Anne Cox |
+| 150 | 974 | Will |
 | 151 | 973 | Michelle Titus |
 | 152 | 968 | Cathy Young |
 | 153 | 967 | Kellie Hall |
@@ -671,28 +671,28 @@
 | 663 | 243 | Anastasia |
 | 664 | 242 | Smøke DGAF |
 | 665 | 242 | Tamika Rocheteau |
-| 666 | 241 | Cynthia Cruell |
-| 667 | 241 | Marlynnnnn |
-| 668 | 240 | lookin |
-| 669 | 240 | Stanley Dixon |
-| 670 | 240 | Shawn Himes |
-| 671 | 240 | Velma Jones |
-| 672 | 239 | Frankey Chi |
-| 673 | 239 | Kelley Johnson |
-| 674 | 238 | Silly Wiper |
-| 675 | 238 | William Vidra |
+| 666 | 241 | Ad Doctor |
+| 667 | 241 | Cynthia Cruell |
+| 668 | 241 | Marlynnnnn |
+| 669 | 240 | lookin |
+| 670 | 240 | Stanley Dixon |
+| 671 | 240 | Shawn Himes |
+| 672 | 240 | Velma Jones |
+| 673 | 239 | Frankey Chi |
+| 674 | 239 | Kelley Johnson |
+| 675 | 238 | Silly Wiper |
 | 676 | 238 | B.L. Perry |
-| 677 | 237 | Ad Doctor |
-| 678 | 237 | Ameillia Boughner |
-| 679 | 237 | Mario Meliodas |
-| 680 | 237 | Logan Frost |
+| 677 | 238 | William Vidra |
+| 678 | 237 | Mario Meliodas |
+| 679 | 237 | Logan Frost |
+| 680 | 237 | Cranky Fall |
 | 681 | 237 | Twisty Cascadeclear |
-| 682 | 237 | Cranky Fall |
+| 682 | 237 | Ameillia Boughner |
 | 683 | 236 | Parris Wright |
 | 684 | 236 | Semaj Johnson |
 | 685 | 236 | Jas |
-| 686 | 235 | Juan Lewis |
-| 687 | 235 | Squaw Ki Ng |
+| 686 | 235 | Squaw Ki Ng |
+| 687 | 235 | Juan Lewis |
 | 688 | 235 | nameno |
 | 689 | 235 | Daring Blockclear |
 | 690 | 234 | Cori Cleland |
@@ -1585,30 +1585,30 @@
 | 1577 | 51 | Kool bule |
 | 1578 | 51 | Chirpy Glidezone |
 | 1579 | 51 | SpeedyJas |
-| 1580 | 51 | Danielle Marie Lewis |
-| 1581 | 51 | Jakari Wool |
+| 1580 | 51 | Jakari Wool |
+| 1581 | 51 | Danielle Marie Lewis |
 | 1582 | 51 | Emeka Agu |
-| 1583 | 50 | Plucky Twist |
-| 1584 | 50 | Cranky Fitblock |
-| 1585 | 50 | Aero Builder |
-| 1586 | 50 | TrapQween39Bi |
-| 1587 | 50 | Blacq Ice |
-| 1588 | 50 | Happymama |
-| 1589 | 50 | ThaMENACING1 |
-| 1590 | 50 | Steven Bell |
-| 1591 | 50 | Danny Kerns Jr. |
-| 1592 | 50 | Terry Lee Moya |
-| 1593 | 50 | Speedy Patternblock |
-| 1594 | 50 | Sassy Stack |
-| 1595 | 49 | Farah Simpson |
-| 1596 | 49 | Brika Brika |
+| 1583 | 50 | Dee |
+| 1584 | 50 | Sassy Stack |
+| 1585 | 50 | Terry Lee Moya |
+| 1586 | 50 | ThaMENACING1 |
+| 1587 | 50 | TrapQween39Bi |
+| 1588 | 50 | Cranky Fitblock |
+| 1589 | 50 | Aero Builder |
+| 1590 | 50 | Blacq Ice |
+| 1591 | 50 | Happymama |
+| 1592 | 50 | Plucky Twist |
+| 1593 | 50 | Steven Bell |
+| 1594 | 50 | Danny Kerns Jr. |
+| 1595 | 50 | Speedy Patternblock |
+| 1596 | 49 | Temeshia Brooks Washington |
 | 1597 | 49 | Pretty-Lily |
-| 1598 | 49 | Temeshia Brooks Washington |
-| 1599 | 49 | Carl Richardson |
-| 1600 | 48 | Clever Blocker |
-| 1601 | 48 | Jolly Combo |
-| 1602 | 48 | Jumpy Striker |
-| 1603 | 48 | Dee |
+| 1598 | 49 | Carl Richardson |
+| 1599 | 49 | Brika Brika |
+| 1600 | 49 | Farah Simpson |
+| 1601 | 48 | Clever Blocker |
+| 1602 | 48 | Jolly Combo |
+| 1603 | 48 | Jumpy Striker |
 | 1604 | 48 | Bubbly Base |
 | 1605 | 48 | Alisia Johns |
 | 1606 | 47 | Pizzle |
@@ -1885,65 +1885,65 @@
 | 1877 | 25 | Anthony |
 | 1878 | 25 | RossA |
 | 1879 | 25 | pettymexoxo |
-| 1880 | 25 | Boldy Slammer |
+| 1880 | 25 | Susie Miranda |
 | 1881 | 25 | PuddenPop |
-| 1882 | 25 | Jashana Thomas |
-| 1883 | 25 | Terrance Jenkins |
-| 1884 | 25 | Yolo |
-| 1885 | 25 | Arjuna Taylor |
+| 1882 | 25 | Terrance Jenkins |
+| 1883 | 25 | Yolo |
+| 1884 | 25 | Jashana Thomas |
+| 1885 | 25 | Boldy Slammer |
 | 1886 | 25 | Epic Puzzle |
 | 1887 | 25 | Charlean Sims |
-| 1888 | 25 | Em Purvis |
-| 1889 | 25 | PennyCandee |
-| 1890 | 25 | Ladii Ree |
-| 1891 | 25 | Susie Miranda |
-| 1892 | 24 | Null Kim |
-| 1893 | 24 | H Hr De Gfe |
-| 1894 | 24 | Jazzy lady |
-| 1895 | 24 | Stacy Higginbotham |
-| 1896 | 24 | Jaricar_21 |
-| 1897 | 24 | Snazzy Shatterbuilder |
-| 1898 | 24 | Kara |
-| 1899 | 24 | Elizabeth Castro |
-| 1900 | 24 | Crystal Segura |
+| 1888 | 25 | Arjuna Taylor |
+| 1889 | 25 | Em Purvis |
+| 1890 | 25 | PennyCandee |
+| 1891 | 25 | Ladii Ree |
+| 1892 | 24 | Jazzy lady |
+| 1893 | 24 | Jaricar_21 |
+| 1894 | 24 | Stacy Higginbotham |
+| 1895 | 24 | Snazzy Shatterbuilder |
+| 1896 | 24 | Kara |
+| 1897 | 24 | Null Kim |
+| 1898 | 24 | Elizabeth Castro |
+| 1899 | 24 | Crystal Segura |
+| 1900 | 24 | H Hr De Gfe |
 | 1901 | 24 | Antoinette AugustusJones III |
 | 1902 | 24 | David Sk Vaughan Jr. |
-| 1903 | 24 | BuddyLove37 |
-| 1904 | 24 | Cheeky Wipegrid |
-| 1905 | 23 | GLO510 |
-| 1906 | 23 | Nicolej |
-| 1907 | 23 | Dani Marie |
-| 1908 | 23 | Cherika Wright |
-| 1909 | 23 | Brave Combofall |
-| 1910 | 23 | Nika TaurustotheBone Turner |
-| 1911 | 23 | Antoinette Mark |
-| 1912 | 23 | Flashy Buildgrid |
-| 1913 | 23 | Jamie Lea Popp |
-| 1914 | 23 | Genevieve Nieves |
+| 1903 | 24 | Jonathan White |
+| 1904 | 24 | BuddyLove37 |
+| 1905 | 24 | Cheeky Wipegrid |
+| 1906 | 23 | GLO510 |
+| 1907 | 23 | Cherika Wright |
+| 1908 | 23 | Dani Marie |
+| 1909 | 23 | Nika TaurustotheBone Turner |
+| 1910 | 23 | Antoinette Mark |
+| 1911 | 23 | Brave Combofall |
+| 1912 | 23 | Nicolej |
+| 1913 | 23 | Valerina Robinson |
+| 1914 | 23 | Jamie Lea Popp |
 | 1915 | 23 | Tabitha Dupre-Allen |
-| 1916 | 23 | Milfchaser530 |
-| 1917 | 23 | Saundy |
+| 1916 | 23 | Epic Glide |
+| 1917 | 23 | Flashy Buildgrid |
 | 1918 | 23 | Shiny Zonebuilder |
-| 1919 | 23 | Valerina Robinson |
-| 1920 | 23 | Epic Glide |
-| 1921 | 22 | Vantione Lindsey |
-| 1922 | 22 | Jonathan White |
-| 1923 | 22 | Stylezncutzby Dee |
-| 1924 | 22 | Chantelle Sweet |
-| 1925 | 22 | Zippy Framezone |
-| 1926 | 22 | Patioskie |
-| 1927 | 22 | Queen Baby 5 |
-| 1928 | 22 | Chipper Smasher |
-| 1929 | 22 | Shakonya Baynes |
-| 1930 | 22 | Mary M Craven |
-| 1931 | 22 | ShayePooh |
-| 1932 | 22 | Jazzy Drop |
-| 1933 | 22 | Jhinarra Walker |
+| 1919 | 23 | Saundy |
+| 1920 | 23 | Milfchaser530 |
+| 1921 | 23 | Genevieve Nieves |
+| 1922 | 22 | Mary M Craven |
+| 1923 | 22 | Chipper Smasher |
+| 1924 | 22 | Jhinarra Walker |
+| 1925 | 22 | Stylezncutzby Dee |
+| 1926 | 22 | Chantelle Sweet |
+| 1927 | 22 | Zippy Framezone |
+| 1928 | 22 | Patioskie |
+| 1929 | 22 | Queen Baby 5 |
+| 1930 | 22 | Vantione Lindsey |
+| 1931 | 22 | Jazzy Drop |
+| 1932 | 22 | Shakonya Baynes |
+| 1933 | 22 | ShayePooh |
 | 1934 | 21 | lp |
 | 1935 | 21 | Michelle Harrison-Woodall |
-| 1936 | 21 | Nikki Cornelious Valentine |
-| 1937 | 21 | Angie Hall |
-| 1938 | 21 | Zesty Matchzone |
+| 1936 | 21 | Zesty Matchzone |
+| 1937 | 21 | Nikki Cornelious Valentine |
+| 1938 | 21 | Angie Hall |
 | 1939 | 21 | taz62 |
 | 1940 | 21 | Michelle Villasenor |
 | 1941 | 21 | Truthful |
