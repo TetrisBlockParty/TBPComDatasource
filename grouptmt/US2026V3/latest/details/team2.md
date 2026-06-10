@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 07:01:23 UTC
+# Standings for team2 as of 2026-06-10 07:02:45 UTC
 
 **Total Participants:** 2701
 
@@ -75,15 +75,15 @@
 | 67 | 2693 | Tonya Taber |
 | 68 | 2689 | LaWanda Powell |
 | 69 | 2684 | Andrew Weissenborn |
-| 70 | 2629 | Nawang Nawang |
+| 70 | 2639 | Nawang Nawang |
 | 71 | 2600 | LEW |
 | 72 | 2592 | Frisky Balanceblock |
 | 73 | 2548 | Nerdy Climber |
 | 74 | 2510 | Jennifer Corder |
 | 75 | 2471 | Happy Pivotfall |
 | 76 | 2375 | Epic Frame |
-| 77 | 2344 | AcardBoardBox |
-| 78 | 2343 | Mikki Torres |
+| 77 | 2363 | Mikki Torres |
+| 78 | 2344 | AcardBoardBox |
 | 79 | 2329 | Karen Reid Cenkush |
 | 80 | 2309 | KD Walusay |
 | 81 | 2303 | Angie Mccain |
@@ -192,7 +192,7 @@
 | 184 | 866 | Robin G |
 | 185 | 865 | Theresa Hollinger |
 | 186 | 863 | Kathy McCormick |
-| 187 | 858 | Jgato |
+| 187 | 861 | Jgato |
 | 188 | 857 | Nettrainer |
 | 189 | 849 | SEH |
 | 190 | 849 | Brandi Thompson |
@@ -456,19 +456,19 @@
 | 448 | 402 | Candi Cane |
 | 449 | 400 | Shannon Wilson |
 | 450 | 399 | Logan Duffey |
-| 451 | 398 | Amber Cogdill |
-| 452 | 398 | Coleen Yoder |
-| 453 | 398 | Bb |
-| 454 | 397 | Jacquelyn Snyder Dumas |
-| 455 | 396 | Melisa |
-| 456 | 395 | Traci Abern |
-| 457 | 394 | Maria Ward |
-| 458 | 393 | Buffy Diane Blake |
-| 459 | 393 | Elizabeth Henry |
-| 460 | 392 | Karly Moore |
-| 461 | 392 | Sassy Twistbuilder |
-| 462 | 391 | Dad |
-| 463 | 391 | Jimmy Francis Shasta Bambi |
+| 451 | 399 | Jimmy Francis Shasta Bambi |
+| 452 | 398 | Amber Cogdill |
+| 453 | 398 | Coleen Yoder |
+| 454 | 398 | Bb |
+| 455 | 397 | Jacquelyn Snyder Dumas |
+| 456 | 396 | Melisa |
+| 457 | 395 | Traci Abern |
+| 458 | 394 | Maria Ward |
+| 459 | 393 | Buffy Diane Blake |
+| 460 | 393 | Elizabeth Henry |
+| 461 | 392 | Karly Moore |
+| 462 | 392 | Sassy Twistbuilder |
+| 463 | 391 | Dad |
 | 464 | 388 | Ashley Billiot Rhodes |
 | 465 | 387 | Ashley Propst |
 | 466 | 387 | RaeRae |
@@ -1196,9 +1196,9 @@
 | 1188 | 142 | Toni Tortorici Humphryes |
 | 1189 | 142 | blockrocker |
 | 1190 | 142 | Jacob Corrales |
-| 1191 | 141 | Helen Townsend |
-| 1192 | 141 | mee |
-| 1193 | 140 | Dandy Brickbuilder |
+| 1191 | 142 | Dandy Brickbuilder |
+| 1192 | 141 | Helen Townsend |
+| 1193 | 141 | mee |
 | 1194 | 140 | Tracy Coe |
 | 1195 | 140 | Alice Petterborg Barberich |
 | 1196 | 140 | Nerdy Spinfit |
@@ -2163,36 +2163,36 @@
 | 2155 | 34 | Danielle Bailey |
 | 2156 | 34 | bob |
 | 2157 | 34 | Robin Johnson |
-| 2158 | 34 | Angela Best |
-| 2159 | 34 | Jennifer Roper Stanley |
+| 2158 | 34 | Jennifer Roper Stanley |
+| 2159 | 34 | Angela Best |
 | 2160 | 33 | Stephanie Stegman |
-| 2161 | 33 | Shawn Bossuot |
-| 2162 | 33 | Maja Hauff |
-| 2163 | 33 | Sandra Mathes Reece |
-| 2164 | 33 | juhde |
-| 2165 | 33 | Mandy Ann Riley |
-| 2166 | 33 | Speedy Crasher |
-| 2167 | 33 | Samantha Robinet |
-| 2168 | 33 | Zappy Snapper |
+| 2161 | 33 | Mandy Ann Riley |
+| 2162 | 33 | Zappy Snapper |
+| 2163 | 33 | Samantha Robinet |
+| 2164 | 33 | Speedy Crasher |
+| 2165 | 33 | juhde |
+| 2166 | 33 | Sandra Mathes Reece |
+| 2167 | 33 | Maja Hauff |
+| 2168 | 33 | Shawn Bossuot |
 | 2169 | 33 | Nicki McGill |
 | 2170 | 32 | Adrian Alvarez |
 | 2171 | 32 | Zany Dasher |
 | 2172 | 32 | Peachy Piecebuilder |
-| 2173 | 32 | Foc |
-| 2174 | 32 | big ray |
-| 2175 | 32 | Chelsea Harriss |
+| 2173 | 32 | Pam Martin |
+| 2174 | 32 | Chelsea Harriss |
+| 2175 | 32 | Swanky Fallmatch |
 | 2176 | 32 | April Saeger |
-| 2177 | 32 | Pam Martin |
-| 2178 | 32 | Swanky Fallmatch |
+| 2177 | 32 | big ray |
+| 2178 | 32 | Foc |
 | 2179 | 32 | Jenea Colvin |
-| 2180 | 32 | Monique Williams |
-| 2181 | 32 | Boya Ray Johnson |
+| 2180 | 32 | Boya Ray Johnson |
+| 2181 | 32 | Monique Williams |
 | 2182 | 31 | Jenn |
 | 2183 | 31 | Rainbolt |
 | 2184 | 31 | Jose Vasquez |
 | 2185 | 31 | Remyro |
-| 2186 | 31 | Geneva |
-| 2187 | 31 | Maria Urrea-Bacame |
+| 2186 | 31 | Maria Urrea-Bacame |
+| 2187 | 31 | Geneva |
 | 2188 | 31 | Jazzy Gridclear |
 | 2189 | 31 | Sam Valentino |
 | 2190 | 31 | Daimien Jarem |
@@ -2205,49 +2205,49 @@
 | 2197 | 30 | Snappy Fitblock |
 | 2198 | 30 | MoonLilly |
 | 2199 | 30 | Bad Juju |
-| 2200 | 30 | Jumpy Tetriblast |
-| 2201 | 30 | Mighty Linkroll |
-| 2202 | 30 | Brave Blockmatch |
-| 2203 | 30 | Michele Miessner |
-| 2204 | 30 | Holly Hannahs |
-| 2205 | 30 | crysamoctama57 |
-| 2206 | 30 | Milissa Weihbrecht |
-| 2207 | 30 | Katrina Wheeler |
-| 2208 | 30 | Jennifer Gould |
-| 2209 | 30 | Beaglemom |
-| 2210 | 30 | Poppy Shuffler |
-| 2211 | 30 | Regina Lamb |
-| 2212 | 30 | tdb |
-| 2213 | 30 | Baldwin Josh |
-| 2214 | 30 | Tucker Catherman |
-| 2215 | 30 | Amanda Morales |
-| 2216 | 30 | Peppy Stack |
-| 2217 | 30 | Patty Brown |
-| 2218 | 29 | Aud |
-| 2219 | 29 | Trinko |
-| 2220 | 29 | Christina Jean Baskin |
-| 2221 | 29 | Flashy Balanceblock |
-| 2222 | 29 | Swanky Blockclear |
-| 2223 | 29 | Makayla Grubbs |
-| 2224 | 29 | Thump |
-| 2225 | 29 | 8it3m3 |
-| 2226 | 29 | Dandy Tiltpiece |
-| 2227 | 29 | Smalls |
-| 2228 | 29 | Licia |
-| 2229 | 29 | Crystal Owen Yocolano |
-| 2230 | 29 | Michii |
-| 2231 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
-| 2232 | 28 | Amanda Fields |
-| 2233 | 28 | Dusty Lollar Shelley |
+| 2200 | 30 | Poppy Shuffler |
+| 2201 | 30 | Jumpy Tetriblast |
+| 2202 | 30 | Mighty Linkroll |
+| 2203 | 30 | Milissa Weihbrecht |
+| 2204 | 30 | Michele Miessner |
+| 2205 | 30 | Holly Hannahs |
+| 2206 | 30 | Brave Blockmatch |
+| 2207 | 30 | crysamoctama57 |
+| 2208 | 30 | Katrina Wheeler |
+| 2209 | 30 | Amanda Chaney |
+| 2210 | 30 | Jennifer Gould |
+| 2211 | 30 | Beaglemom |
+| 2212 | 30 | Regina Lamb |
+| 2213 | 30 | tdb |
+| 2214 | 30 | Baldwin Josh |
+| 2215 | 30 | Tucker Catherman |
+| 2216 | 30 | Amanda Morales |
+| 2217 | 30 | Peppy Stack |
+| 2218 | 30 | Patty Brown |
+| 2219 | 29 | Aud |
+| 2220 | 29 | Trinko |
+| 2221 | 29 | Christina Jean Baskin |
+| 2222 | 29 | Flashy Balanceblock |
+| 2223 | 29 | Swanky Blockclear |
+| 2224 | 29 | Makayla Grubbs |
+| 2225 | 29 | Thump |
+| 2226 | 29 | 8it3m3 |
+| 2227 | 29 | Dandy Tiltpiece |
+| 2228 | 29 | Smalls |
+| 2229 | 29 | Licia |
+| 2230 | 29 | Crystal Owen Yocolano |
+| 2231 | 29 | Michii |
+| 2232 | 29 | T-Rex Ricky Lee Dieumegarde Jr. |
+| 2233 | 28 | Amanda Fields |
 | 2234 | 28 | Crafty Combo |
-| 2235 | 28 | Zesty Rollpiece |
-| 2236 | 28 | Andrea Maloney Stephenson |
-| 2237 | 28 | Sassy Snapfall |
-| 2238 | 28 | Celeste Samuels |
-| 2239 | 28 | Leigh Kashner |
-| 2240 | 28 | Chummy Clear |
-| 2241 | 28 | Courtney Freeman |
-| 2242 | 28 | Amanda Chaney |
+| 2235 | 28 | Dusty Lollar Shelley |
+| 2236 | 28 | Zesty Rollpiece |
+| 2237 | 28 | Andrea Maloney Stephenson |
+| 2238 | 28 | Sassy Snapfall |
+| 2239 | 28 | Celeste Samuels |
+| 2240 | 28 | Leigh Kashner |
+| 2241 | 28 | Chummy Clear |
+| 2242 | 28 | Courtney Freeman |
 | 2243 | 28 | Michael Brow |
 | 2244 | 28 | Charles Mercer |
 | 2245 | 28 | Bria Caldwell |
