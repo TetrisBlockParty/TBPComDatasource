@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-10 06:54:43 UTC
+# Standings for team2 as of 2026-06-10 06:55:23 UTC
 
 **Total Participants:** 2701
 
@@ -246,8 +246,8 @@
 | 238 | 728 | Tim Tim |
 | 239 | 724 | Kaylene Rigas |
 | 240 | 723 | Nutty Curver |
-| 241 | 720 | Sharon L Brazelton |
-| 242 | 720 | Nikki EightySixed |
+| 241 | 720 | Nikki EightySixed |
+| 242 | 720 | Sharon L Brazelton |
 | 243 | 718 | Avie Lou |
 | 244 | 714 | Kellie Sharp Godfrey |
 | 245 | 712 | Sully |
@@ -271,8 +271,8 @@
 | 263 | 671 | Breeana Bennett |
 | 264 | 671 | Twisty Buildgrid |
 | 265 | 671 | Krystal Hummel |
-| 266 | 671 | Gloria May Shook |
-| 267 | 671 | Bubbly Strikerpiece |
+| 266 | 671 | Bubbly Strikerpiece |
+| 267 | 671 | Gloria May Shook |
 | 268 | 670 | Michelle Powers Chattaway |
 | 269 | 667 | Iesha Cupil |
 | 270 | 662 | Michelle Rich Burkhart |
@@ -312,8 +312,8 @@
 | 304 | 594 | Chill Line |
 | 305 | 594 | Zany Blockclear |
 | 306 | 584 | Tara |
-| 307 | 583 | MaddieCherie |
-| 308 | 583 | Gabrielle Wilson |
+| 307 | 583 | Gabrielle Wilson |
+| 308 | 583 | MaddieCherie |
 | 309 | 582 | Ratchet |
 | 310 | 580 | Swanky Fitline |
 | 311 | 579 | Mookshake |
@@ -335,27 +335,27 @@
 | 327 | 550 | DomDomsNana |
 | 328 | 549 | Greta Warden |
 | 329 | 544 | Elliott Mikila |
-| 330 | 538 | Jason Cunningham |
-| 331 | 536 | Naomi Walker |
-| 332 | 535 | Amy Gale |
-| 333 | 534 | Aurora June Brock |
-| 334 | 533 | Samantha Carman |
-| 335 | 532 | Amy Gregg |
-| 336 | 530 | Nikki Greeneyebeauty |
-| 337 | 529 | Jumpy Matchbuilder |
-| 338 | 525 | Amy Taylor Pomerenk |
-| 339 | 524 | Chill Shatterer |
-| 340 | 523 | James Ward |
-| 341 | 523 | Marilyn Strickland |
-| 342 | 522 | Doowop40 |
-| 343 | 521 | Melissa Nash |
+| 330 | 539 | Melissa Nash |
+| 331 | 538 | Jason Cunningham |
+| 332 | 536 | Naomi Walker |
+| 333 | 535 | Amy Gale |
+| 334 | 534 | Aurora June Brock |
+| 335 | 533 | Samantha Carman |
+| 336 | 532 | Amy Gregg |
+| 337 | 530 | Nikki Greeneyebeauty |
+| 338 | 529 | Jumpy Matchbuilder |
+| 339 | 525 | Amy Taylor Pomerenk |
+| 340 | 524 | Chill Shatterer |
+| 341 | 523 | James Ward |
+| 342 | 523 | Marilyn Strickland |
+| 343 | 522 | Doowop40 |
 | 344 | 520 | MUMBLES |
 | 345 | 520 | Deezie |
 | 346 | 518 | Cheery Tilefall |
 | 347 | 518 | Jodi Johnson |
-| 348 | 517 | Santara Ferguson |
-| 349 | 517 | Jeffrey Smith |
-| 350 | 517 | Nichole Wilson |
+| 348 | 517 | Nichole Wilson |
+| 349 | 517 | Santara Ferguson |
+| 350 | 517 | Jeffrey Smith |
 | 351 | 517 | Julibeth Wells |
 | 352 | 516 | Amanda L Strong |
 | 353 | 511 | Flashy Drop |
@@ -374,8 +374,8 @@
 | 366 | 485 | Jenn |
 | 367 | 483 | Earline Dupuy Bordelon |
 | 368 | 482 | Monee Stronger |
-| 369 | 481 | Kim Hunt |
-| 370 | 481 | Dallas Runyan |
+| 369 | 481 | Dallas Runyan |
+| 370 | 481 | Kim Hunt |
 | 371 | 480 | Jacob Carpenter |
 | 372 | 480 | Physhie |
 | 373 | 479 | Xandrea Jones |
@@ -430,8 +430,8 @@
 | 422 | 416 | Teresa Mandich |
 | 423 | 415 | Partin |
 | 424 | 415 | Stephanie |
-| 425 | 415 | Michelle Hicks |
-| 426 | 415 | Emma Danielle Wynn |
+| 425 | 415 | Emma Danielle Wynn |
+| 426 | 415 | Michelle Hicks |
 | 427 | 414 | Crystal Poss |
 | 428 | 413 | KazzyKay |
 | 429 | 413 | Newtwidebody |
@@ -443,33 +443,33 @@
 | 435 | 407 | Jeff Pottgether |
 | 436 | 407 | Melmel |
 | 437 | 407 | Gwendolyn Boykin Mobbs |
-| 438 | 406 | Spunky Piecebuilder |
-| 439 | 406 | Ray Daisy |
-| 440 | 406 | Quirky Clicky |
-| 441 | 405 | Danielle Pack Lewellen |
-| 442 | 405 | Brittni Lawrence |
-| 443 | 403 | Queen |
+| 438 | 406 | Ray Daisy |
+| 439 | 406 | Spunky Piecebuilder |
+| 440 | 406 | Duke Morley |
+| 441 | 406 | Quirky Clicky |
+| 442 | 405 | Danielle Pack Lewellen |
+| 443 | 405 | Brittni Lawrence |
 | 444 | 403 | PaiBri |
-| 445 | 403 | Speedy Spinfit |
-| 446 | 402 | Candi Cane |
-| 447 | 400 | Shannon Wilson |
-| 448 | 399 | Logan Duffey |
-| 449 | 398 | Coleen Yoder |
-| 450 | 398 | Amber Cogdill |
-| 451 | 398 | Bb |
-| 452 | 397 | Jacquelyn Snyder Dumas |
-| 453 | 396 | Melisa |
-| 454 | 395 | Traci Abern |
-| 455 | 394 | Maria Ward |
-| 456 | 393 | Buffy Diane Blake |
-| 457 | 393 | Elizabeth Henry |
-| 458 | 392 | Karly Moore |
-| 459 | 392 | Sassy Twistbuilder |
-| 460 | 391 | Dad |
-| 461 | 388 | Ashley Billiot Rhodes |
-| 462 | 387 | Ashley Propst |
-| 463 | 387 | RaeRae |
-| 464 | 386 | Duke Morley |
+| 445 | 403 | Queen |
+| 446 | 403 | Speedy Spinfit |
+| 447 | 402 | Candi Cane |
+| 448 | 400 | Shannon Wilson |
+| 449 | 399 | Logan Duffey |
+| 450 | 398 | Coleen Yoder |
+| 451 | 398 | Amber Cogdill |
+| 452 | 398 | Bb |
+| 453 | 397 | Jacquelyn Snyder Dumas |
+| 454 | 396 | Melisa |
+| 455 | 395 | Traci Abern |
+| 456 | 394 | Maria Ward |
+| 457 | 393 | Buffy Diane Blake |
+| 458 | 393 | Elizabeth Henry |
+| 459 | 392 | Karly Moore |
+| 460 | 392 | Sassy Twistbuilder |
+| 461 | 391 | Dad |
+| 462 | 388 | Ashley Billiot Rhodes |
+| 463 | 387 | Ashley Propst |
+| 464 | 387 | RaeRae |
 | 465 | 386 | Brittney Williams |
 | 466 | 385 | Pamela Raye |
 | 467 | 385 | Liseth Vasquez |
@@ -1698,36 +1698,36 @@
 | 1690 | 72 | Daddy’s Here |
 | 1691 | 72 | Nicole Dyer |
 | 1692 | 72 | Stacy Lynn |
-| 1693 | 71 | Chey |
-| 1694 | 71 | Cassaundra Pardo |
-| 1695 | 71 | David Bright |
+| 1693 | 72 | Spunky Riserfit |
+| 1694 | 71 | David Bright |
+| 1695 | 71 | Cassaundra Pardo |
 | 1696 | 71 | lols |
 | 1697 | 71 | Nicole Immoos |
 | 1698 | 71 | Angela Anderson |
 | 1699 | 71 | Matthew Hanson |
-| 1700 | 71 | Brittany Nichole Ellenburg |
-| 1701 | 71 | Mike Honcho |
-| 1702 | 70 | Donna Casey |
-| 1703 | 70 | Brittany Kay |
-| 1704 | 70 | Abby Dexter |
-| 1705 | 70 | Silly Twister |
-| 1706 | 70 | Stephanie |
-| 1707 | 70 | Fran Gerebics |
-| 1708 | 70 | Jay Theriault |
-| 1709 | 70 | Brave Curver |
-| 1710 | 70 | Samantha Rhone |
-| 1711 | 70 | Zet block |
-| 1712 | 70 | Michelle |
-| 1713 | 70 | FinnsDad |
-| 1714 | 70 | Jenn Wittkamp |
-| 1715 | 70 | Stephania Edwards |
-| 1716 | 70 | Betsey Terry |
-| 1717 | 70 | Taderbug |
-| 1718 | 70 | April Owings |
-| 1719 | 70 | Rachelle Parker |
-| 1720 | 70 | Robert Brewster |
-| 1721 | 70 | Tessa Kalili |
-| 1722 | 70 | Spunky Riserfit |
+| 1700 | 71 | Chey |
+| 1701 | 71 | Brittany Nichole Ellenburg |
+| 1702 | 71 | Mike Honcho |
+| 1703 | 70 | Donna Casey |
+| 1704 | 70 | Brittany Kay |
+| 1705 | 70 | Abby Dexter |
+| 1706 | 70 | Silly Twister |
+| 1707 | 70 | Stephanie |
+| 1708 | 70 | Fran Gerebics |
+| 1709 | 70 | Jay Theriault |
+| 1710 | 70 | Zet block |
+| 1711 | 70 | Brave Curver |
+| 1712 | 70 | Samantha Rhone |
+| 1713 | 70 | Michelle |
+| 1714 | 70 | FinnsDad |
+| 1715 | 70 | Jenn Wittkamp |
+| 1716 | 70 | Stephania Edwards |
+| 1717 | 70 | Betsey Terry |
+| 1718 | 70 | Taderbug |
+| 1719 | 70 | April Owings |
+| 1720 | 70 | Rachelle Parker |
+| 1721 | 70 | Robert Brewster |
+| 1722 | 70 | Tessa Kalili |
 | 1723 | 70 | Angi Carter |
 | 1724 | 69 | Alexis Turner |
 | 1725 | 69 | Dawn Burzee |
