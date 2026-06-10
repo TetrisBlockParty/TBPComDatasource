@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:08:45 UTC
+# Standings for team1 as of 2026-06-10 07:09:21 UTC
 
 **Total Participants:** 2238
 
@@ -466,14 +466,14 @@
 | 458 | 323 | Alyssa Rae |
 | 459 | 322 | Juan Alvarez |
 | 460 | 322 | Gbnola |
-| 461 | 321 | Montego Allen |
-| 462 | 320 | Shanns |
+| 461 | 321 | Eric Spencer Whitaker |
+| 462 | 321 | Montego Allen |
 | 463 | 320 | Malcolm Stanley |
-| 464 | 319 | MACHETEEDDIE513 |
+| 464 | 320 | Shanns |
 | 465 | 319 | Nora Mahmoud |
-| 466 | 318 | Clint Mcdowell |
-| 467 | 318 | Nerdy Snapfall |
-| 468 | 318 | Eric Spencer Whitaker |
+| 466 | 319 | MACHETEEDDIE513 |
+| 467 | 318 | Clint Mcdowell |
+| 468 | 318 | Nerdy Snapfall |
 | 469 | 317 | Sammie Walker |
 | 470 | 315 | Alivia Dove |
 | 471 | 314 | Tay |
