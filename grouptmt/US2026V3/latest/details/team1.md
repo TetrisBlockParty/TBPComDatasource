@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 20:36:48 UTC
+# Standings for team1 as of 2026-06-10 20:37:23 UTC
 
 **Total Participants:** 2339
 
@@ -750,18 +750,18 @@
 | 742 | 225 | Jimmy Shannon |
 | 743 | 224 | Ysma Simmons |
 | 744 | 224 | Joka NoTime ForHataz |
-| 745 | 224 | DeAngelo Sorrells |
-| 746 | 224 | MELLZZtick€T |
-| 747 | 224 | Miera Nicole |
-| 748 | 224 | Lively Wipeout |
+| 745 | 224 | MELLZZtick€T |
+| 746 | 224 | Miera Nicole |
+| 747 | 224 | Lively Wipeout |
+| 748 | 224 | DeAngelo Sorrells |
 | 749 | 223 | Analesia Taylor |
 | 750 | 222 | Antoinette Kelly |
-| 751 | 222 | Latoya Carson |
-| 752 | 222 | Victoria Smith |
-| 753 | 222 | Krystal Maynard |
-| 754 | 222 | Big Bovice |
-| 755 | 221 | Frances Davis |
-| 756 | 221 | Ebby |
+| 751 | 222 | Big Bovice |
+| 752 | 222 | Krystal Maynard |
+| 753 | 222 | Latoya Carson |
+| 754 | 222 | Victoria Smith |
+| 755 | 221 | Ebby |
+| 756 | 221 | Frances Davis |
 | 757 | 220 | jeremy92 |
 | 758 | 220 | Leavon Smith |
 | 759 | 220 | Tushama Cheris Okraku |
@@ -771,93 +771,93 @@
 | 763 | 219 | TY Newme Batts |
 | 764 | 219 | Nekka |
 | 765 | 218 | Tee Spinks |
-| 766 | 217 | Shemar Singleton |
-| 767 | 217 | Travis Davison |
+| 766 | 217 | Travis Davison |
+| 767 | 217 | Shemar Singleton |
 | 768 | 217 | Louise Parker |
-| 769 | 216 | squints |
-| 770 | 216 | Sallie Sanborn |
-| 771 | 216 | Lively Clusterline |
-| 772 | 216 | Rachel Renae Bettis |
-| 773 | 216 | Laysa Nunez |
-| 774 | 215 | Angie Smith |
-| 775 | 215 | Nikiya |
-| 776 | 215 | Gerold Folk Haddock |
-| 777 | 215 | Perky Balancer |
-| 778 | 215 | GetDaOPPS |
-| 779 | 214 | Nickeya Phillips |
+| 769 | 217 | MamaBearTiff |
+| 770 | 216 | Laysa Nunez |
+| 771 | 216 | Sallie Sanborn |
+| 772 | 216 | squints |
+| 773 | 216 | Rachel Renae Bettis |
+| 774 | 216 | Lively Clusterline |
+| 775 | 215 | Gerold Folk Haddock |
+| 776 | 215 | GetDaOPPS |
+| 777 | 215 | Angie Smith |
+| 778 | 215 | Nikiya |
+| 779 | 215 | Perky Balancer |
 | 780 | 214 | Sunny Clicky |
-| 781 | 213 | MrsDontPlay |
+| 781 | 214 | Nickeya Phillips |
 | 782 | 213 | Oaklonboy mike |
 | 783 | 213 | Lawanda Conley |
-| 784 | 212 | Chocolate |
-| 785 | 212 | Tina Blessed Cage |
+| 784 | 213 | MrsDontPlay |
+| 785 | 212 | Chocolate |
 | 786 | 212 | Ivery Lee Grays Jr. |
-| 787 | 212 | Iceman |
-| 788 | 212 | Dirty Deeds |
-| 789 | 211 | Deanna Close |
-| 790 | 211 | Terrie |
-| 791 | 210 | Don Ray Mc |
-| 792 | 210 | Mom3granny2 |
+| 787 | 212 | Tina Blessed Cage |
+| 788 | 212 | Iceman |
+| 789 | 212 | Dirty Deeds |
+| 790 | 211 | Deanna Close |
+| 791 | 211 | Terrie |
+| 792 | 210 | Barbramerri Tarboro |
 | 793 | 210 | Spadez1231 |
-| 794 | 210 | Barbramerri Tarboro |
+| 794 | 210 | Don Ray Mc |
 | 795 | 210 | Slinky Fallzone |
 | 796 | 210 | Crystal Garay |
-| 797 | 209 | $hort Dog |
-| 798 | 209 | Kashh |
-| 799 | 209 | Mami Badd |
-| 800 | 208 | Derald Miller |
-| 801 | 207 | Tangy Moore |
-| 802 | 206 | Kat |
-| 803 | 205 | Marcello Rush |
-| 804 | 205 | Treneil Daffin |
+| 797 | 210 | Mom3granny2 |
+| 798 | 209 | Mami Badd |
+| 799 | 209 | $hort Dog |
+| 800 | 209 | Kashh |
+| 801 | 208 | Derald Miller |
+| 802 | 207 | Tangy Moore |
+| 803 | 206 | Kat |
+| 804 | 205 | Marcello Rush |
 | 805 | 205 | Stephen Garland |
-| 806 | 205 | Tramaine Crockrum |
-| 807 | 205 | tg |
-| 808 | 205 | Tito Divyn |
-| 809 | 204 | Renee Marshall |
+| 806 | 205 | Tito Divyn |
+| 807 | 205 | Treneil Daffin |
+| 808 | 205 | Tramaine Crockrum |
+| 809 | 205 | tg |
 | 810 | 204 | Maxine Williams |
 | 811 | 204 | Xana Zania Bopp |
-| 812 | 204 | Glitzy Clusterer |
-| 813 | 203 | Tina Bongcayao |
+| 812 | 204 | Renee Marshall |
+| 813 | 204 | Glitzy Clusterer |
 | 814 | 203 | KimChii |
 | 815 | 203 | Duncan Timothy |
-| 816 | 202 | Messy Live |
-| 817 | 202 | Alexandrla Smith |
-| 818 | 202 | Hyper Blocky |
-| 819 | 202 | Undeniable Williams |
-| 820 | 202 | Nutty Fallmatch |
-| 821 | 202 | Tempee |
-| 822 | 202 | Paul Pendley |
-| 823 | 201 | Sunny Tumbler |
-| 824 | 201 | Boldy Pivoty |
-| 825 | 201 | Michelle Fowler |
-| 826 | 201 | Lindsey |
+| 816 | 203 | Tina Bongcayao |
+| 817 | 202 | Messy Live |
+| 818 | 202 | Tempee |
+| 819 | 202 | Alexandrla Smith |
+| 820 | 202 | Undeniable Williams |
+| 821 | 202 | Nutty Fallmatch |
+| 822 | 202 | Hyper Blocky |
+| 823 | 202 | Paul Pendley |
+| 824 | 201 | Lindsey |
+| 825 | 201 | Sunny Tumbler |
+| 826 | 201 | Boldy Pivoty |
 | 827 | 201 | Bea Dyer-Fields |
-| 828 | 200 | Yellowguy3 |
-| 829 | 200 | Kyle Conley |
-| 830 | 199 | Tanesha Ga'sFinest Corbett |
-| 831 | 199 | Missy Myvette |
-| 832 | 198 | Rhianna Dinki Austin |
+| 828 | 201 | Michelle Fowler |
+| 829 | 200 | Yellowguy3 |
+| 830 | 200 | Kyle Conley |
+| 831 | 199 | Tanesha Ga'sFinest Corbett |
+| 832 | 199 | Missy Myvette |
 | 833 | 198 | Biggestboss Ransom |
 | 834 | 198 | Darrelle Short |
 | 835 | 198 | Cornelius Neal |
-| 836 | 197 | krd |
-| 837 | 197 | MamaBearTiff |
-| 838 | 197 | Amanda Woodruff |
-| 839 | 197 | Crtjstr |
+| 836 | 198 | Rhianna Dinki Austin |
+| 837 | 197 | krd |
+| 838 | 197 | Crtjstr |
+| 839 | 197 | Amanda Woodruff |
 | 840 | 196 | Arlea Mann |
 | 841 | 196 | Katness |
 | 842 | 196 | Daphne Ceasar |
-| 843 | 195 | Eric Machuca |
-| 844 | 195 | LaPorscha Wright |
-| 845 | 195 | Elaine Pauley |
-| 846 | 195 | Chanel White |
-| 847 | 195 | Lucy Range |
+| 843 | 195 | Lucy Range |
+| 844 | 195 | Chanel White |
+| 845 | 195 | LaPorscha Wright |
+| 846 | 195 | Elaine Pauley |
+| 847 | 195 | Eric Machuca |
 | 848 | 194 | Boricua64 |
 | 849 | 194 | Ernie Waters |
-| 850 | 192 | QueenzMo |
-| 851 | 192 | Cameo Tweed |
-| 852 | 192 | Mike Hromowyk |
+| 850 | 192 | Cameo Tweed |
+| 851 | 192 | Mike Hromowyk |
+| 852 | 192 | QueenzMo |
 | 853 | 192 | Taneka Howell |
 | 854 | 192 | Li-Li Ratliff |
 | 855 | 191 | Angelique Talbot |
@@ -1294,13 +1294,13 @@
 | 1286 | 93 | Deantenique Smalls |
 | 1287 | 93 | Brave Balanceblock |
 | 1288 | 93 | Khatyrah Burnette |
-| 1289 | 93 | don ralph |
-| 1290 | 93 | Cathilia Rodriguez |
-| 1291 | 93 | Annie |
-| 1292 | 92 | Mighty plantlady |
-| 1293 | 92 | AshMo |
-| 1294 | 92 | 1ofaking |
-| 1295 | 92 | Lazy Matchgrid |
+| 1289 | 93 | Lazy Matchgrid |
+| 1290 | 93 | don ralph |
+| 1291 | 93 | Cathilia Rodriguez |
+| 1292 | 93 | Annie |
+| 1293 | 92 | Mighty plantlady |
+| 1294 | 92 | AshMo |
+| 1295 | 92 | 1ofaking |
 | 1296 | 92 | Lush Crasher |
 | 1297 | 92 | Keia Price |
 | 1298 | 91 | Jose Antonio Villot |
