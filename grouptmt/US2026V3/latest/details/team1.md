@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-10 07:33:21 UTC
+# Standings for team1 as of 2026-06-10 07:34:45 UTC
 
 **Total Participants:** 2240
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 34000 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 16407 | Death by SnuSnu |
+| 3 | 16911 | Death by SnuSnu |
 | 4 | 12803 | Charlie Roehm |
 | 5 | 11754 | Carrie English |
 | 6 | 11746 | Tyeina Johnson |
@@ -65,8 +65,8 @@
 | 57 | 2076 | April Inboden |
 | 58 | 2068 | Chris Caniglia |
 | 59 | 2049 | Blockhead |
-| 60 | 1972 | Helen Smith |
-| 61 | 1972 | Robyn Caldwell |
+| 60 | 1985 | Robyn Caldwell |
+| 61 | 1972 | Helen Smith |
 | 62 | 1962 | Ceilo Marie |
 | 63 | 1939 | Corey Cawthon |
 | 64 | 1932 | Louis Richard Jr |
@@ -75,7 +75,7 @@
 | 67 | 1869 | Jolly Dropzone |
 | 68 | 1837 | Daylene Johannes |
 | 69 | 1815 | Michael J Gresham |
-| 70 | 1811 | Moomoo |
+| 70 | 1813 | Moomoo |
 | 71 | 1786 | Jacoby E Fleming |
 | 72 | 1764 | Ryan Meilleur |
 | 73 | 1748 | Bre Maugh |
@@ -778,25 +778,25 @@
 | 770 | 189 | Anntionette Sotire |
 | 771 | 189 | Duncan Timothy |
 | 772 | 189 | Jes Marie |
-| 773 | 189 | Sean White |
+| 773 | 189 | Kike Lua |
 | 774 | 189 | TBabii24 |
-| 775 | 189 | Sunny Tumbler |
-| 776 | 188 | Mary Goode |
-| 777 | 187 | Vontesha Kidd |
-| 778 | 187 | Chocolate |
-| 779 | 187 | Lively Riserpiece |
-| 780 | 186 | Vannie G |
-| 781 | 186 | Nekka |
-| 782 | 186 | Dirty Deeds |
-| 783 | 186 | Christy Quick |
-| 784 | 186 | Tiffany Conley |
-| 785 | 185 | Poppy Twister |
-| 786 | 185 | Dapper Matchfit |
+| 775 | 189 | Sean White |
+| 776 | 189 | Sunny Tumbler |
+| 777 | 188 | Mary Goode |
+| 778 | 187 | Vontesha Kidd |
+| 779 | 187 | Chocolate |
+| 780 | 187 | Lively Riserpiece |
+| 781 | 186 | Vannie G |
+| 782 | 186 | Nekka |
+| 783 | 186 | Dirty Deeds |
+| 784 | 186 | Christy Quick |
+| 785 | 186 | Tiffany Conley |
+| 786 | 185 | Poppy Twister |
 | 787 | 185 | Gerold Folk Haddock |
-| 788 | 185 | Eric Machuca |
-| 789 | 185 | Jess |
-| 790 | 184 | William Vidra |
-| 791 | 184 | Kike Lua |
+| 788 | 185 | Dapper Matchfit |
+| 789 | 185 | Eric Machuca |
+| 790 | 185 | Jess |
+| 791 | 184 | William Vidra |
 | 792 | 183 | Cm |
 | 793 | 183 | Erika |
 | 794 | 183 | Octavia Bsb Johnson |
