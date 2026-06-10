@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-10 09:34:46 UTC
+# Standings for team4 as of 2026-06-10 09:35:23 UTC
 
 **Total Participants:** 2298
 
@@ -38,7 +38,7 @@
 | 30 | 4750 | Jackie Lucas |
 | 31 | 4734 | Chummy Rollzone |
 | 32 | 4533 | Juan Ford |
-| 33 | 4416 | Victoria Ver |
+| 33 | 4418 | Victoria Ver |
 | 34 | 4300 | Melissa Brown |
 | 35 | 4277 | Tonya Brooks-Johnson |
 | 36 | 4179 | Witty Clicky |
@@ -119,8 +119,8 @@
 | 111 | 1196 | J |
 | 112 | 1181 | Dana Fontanez |
 | 113 | 1165 | GeorgeButts |
-| 114 | 1156 | Jonathan Hewitt |
-| 115 | 1156 | Dee Wizz |
+| 114 | 1156 | Dee Wizz |
+| 115 | 1156 | Jonathan Hewitt |
 | 116 | 1145 | Kristen Wallace |
 | 117 | 1142 | Hardy Fuller |
 | 118 | 1129 | Twirl Girl |
@@ -136,8 +136,8 @@
 | 128 | 1058 | CJ |
 | 129 | 1057 | Heather Preston |
 | 130 | 1055 | Jason Garnatz |
-| 131 | 1046 | Hairy Snake |
-| 132 | 1046 | Irma |
+| 131 | 1046 | Irma |
+| 132 | 1046 | Hairy Snake |
 | 133 | 1042 | Futrell Brent |
 | 134 | 1008 | Loony Glidepiece |
 | 135 | 997 | Blayne Kole |
@@ -147,15 +147,15 @@
 | 139 | 981 | Principal Liz |
 | 140 | 970 | Gorica Prusina |
 | 141 | 966 | Whitborn |
-| 142 | 953 | Ermadette |
-| 143 | 952 | Alala.Cersei |
-| 144 | 951 | Cranky Buildout |
-| 145 | 950 | Nicole Peoples |
+| 142 | 957 | Chiquita Blue |
+| 143 | 953 | Ermadette |
+| 144 | 952 | Alala.Cersei |
+| 145 | 951 | Cranky Buildout |
 | 146 | 950 | Joyce Myers |
-| 147 | 946 | Sharidan Klinginsmith |
-| 148 | 940 | Dennis Montoya |
-| 149 | 940 | Melissa WC |
-| 150 | 937 | Chiquita Blue |
+| 147 | 950 | Nicole Peoples |
+| 148 | 946 | Sharidan Klinginsmith |
+| 149 | 940 | Dennis Montoya |
+| 150 | 940 | Melissa WC |
 | 151 | 933 | Daryn Elliott |
 | 152 | 931 | Cranky Towerbuilder |
 | 153 | 920 | DexterDobbins |
@@ -178,8 +178,8 @@
 | 170 | 830 | Kitsune Bi |
 | 171 | 825 | Thomasena Eady Reid |
 | 172 | 809 | Sean Mccleary |
-| 173 | 808 | Misty Leigh |
-| 174 | 808 | Christy Beezley-Forbush |
+| 173 | 808 | Christy Beezley-Forbush |
+| 174 | 808 | Misty Leigh |
 | 175 | 802 | Dandy Clearfit |
 | 176 | 797 | Lynn Grimes |
 | 177 | 783 | Regina Williams |
@@ -197,8 +197,8 @@
 | 189 | 745 | Gracie Ornelas |
 | 190 | 737 | Baysoph |
 | 191 | 735 | Cinta Marie |
-| 192 | 728 | Bonnie Powell |
-| 193 | 728 | Roxana Romero |
+| 192 | 728 | Roxana Romero |
+| 193 | 728 | Bonnie Powell |
 | 194 | 725 | iiPurgeV2 |
 | 195 | 723 | zoes |
 | 196 | 720 | Magz |
@@ -206,8 +206,8 @@
 | 198 | 710 | Chuck Burns |
 | 199 | 705 | Katie Martin |
 | 200 | 701 | Megan Vick |
-| 201 | 700 | Jessi Goodwin |
-| 202 | 700 | Suzanne Carter |
+| 201 | 700 | Suzanne Carter |
+| 202 | 700 | Jessi Goodwin |
 | 203 | 698 | Neeta Kapadia |
 | 204 | 697 | Linda Miltenburg |
 | 205 | 686 | Jennifer Ellyn Sheets |
@@ -265,14 +265,14 @@
 | 257 | 566 | Matthew Hudson |
 | 258 | 565 | Shanna Fragen |
 | 259 | 565 | Rebecca Watters |
-| 260 | 564 | Boldy Rumbler |
-| 261 | 564 | Drh4090 |
+| 260 | 564 | Drh4090 |
+| 261 | 564 | Boldy Rumbler |
 | 262 | 561 | Danny Ortiz |
 | 263 | 559 | Jubalicious |
 | 264 | 556 | Smiley Gridzone |
 | 265 | 553 | Joseph Hunter |
-| 266 | 550 | Genger |
-| 267 | 550 | Maria Castillo |
+| 266 | 550 | Maria Castillo |
+| 267 | 550 | Genger |
 | 268 | 545 | Betsy Froemming |
 | 269 | 540 | Jaci Marie |
 | 270 | 538 | Nicole |
