@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 18:58:46 UTC
+# Standings for team4 as of 2026-06-11 18:59:27 UTC
 
 **Total Participants:** 2573
 
@@ -52,7 +52,7 @@
 | 44 | 4179 | Witty Clicky |
 | 45 | 4142 | Jeanette Hailey |
 | 46 | 4130 | Wendy Zentz |
-| 47 | 4069 | Fruitpunch |
+| 47 | 4083 | Fruitpunch |
 | 48 | 3942 | Dana Rinaldi |
 | 49 | 3854 | Watupall13 |
 | 50 | 3776 | Dana Smith |
@@ -91,7 +91,7 @@
 | 83 | 2139 | 2 kool |
 | 84 | 2106 | Dana Fontanez |
 | 85 | 2102 | Sweet Stacker |
-| 86 | 2083 | Cranky Buildout |
+| 86 | 2088 | Cranky Buildout |
 | 87 | 2068 | Damon Gaston |
 | 88 | 2066 | kcknbtz |
 | 89 | 2052 | Jackie Polanco |
@@ -128,9 +128,9 @@
 | 120 | 1431 | Bri Martin |
 | 121 | 1430 | Hannah Pazar |
 | 122 | 1414 | Chiquita Blue |
-| 123 | 1408 | GeorgeButts |
-| 124 | 1406 | Irma |
-| 125 | 1405 | MysticMaven |
+| 123 | 1408 | MysticMaven |
+| 124 | 1408 | GeorgeButts |
+| 125 | 1406 | Irma |
 | 126 | 1396 | Shaina Sharp |
 | 127 | 1392 | blockhead |
 | 128 | 1362 | Gloria Nunley Trussell |
@@ -161,18 +161,18 @@
 | 153 | 1193 | Matthew Hudson |
 | 154 | 1180 | Anthony Magaraci |
 | 155 | 1176 | Shocinda Sherwood |
-| 156 | 1175 | Suzanne North |
-| 157 | 1160 | Linda Miltenburg |
-| 158 | 1154 | Tanya AfricanQueen Savage |
-| 159 | 1152 | Nutty Rollfit |
-| 160 | 1144 | Dandy Puzzler |
-| 161 | 1133 | Anthony Lewis |
-| 162 | 1133 | Daryn Elliott |
-| 163 | 1123 | Tiffany Loree Tiffany Oneill |
-| 164 | 1118 | Fancy Riserfit |
-| 165 | 1117 | Heather Preston |
-| 166 | 1106 | Loony Towerer |
-| 167 | 1100 | Genag |
+| 156 | 1176 | Genag |
+| 157 | 1175 | Suzanne North |
+| 158 | 1160 | Linda Miltenburg |
+| 159 | 1154 | Tanya AfricanQueen Savage |
+| 160 | 1152 | Nutty Rollfit |
+| 161 | 1144 | Dandy Puzzler |
+| 162 | 1133 | Anthony Lewis |
+| 163 | 1133 | Daryn Elliott |
+| 164 | 1123 | Tiffany Loree Tiffany Oneill |
+| 165 | 1118 | Fancy Riserfit |
+| 166 | 1117 | Heather Preston |
+| 167 | 1106 | Loony Towerer |
 | 168 | 1097 | Whitborn |
 | 169 | 1096 | SupaFly |
 | 170 | 1090 | Becky Doll-Hall |
@@ -244,8 +244,8 @@
 | 236 | 801 | Yesenia Castro Monreal |
 | 237 | 796 | WeeWooWee |
 | 238 | 796 | Alyssa Berg |
-| 239 | 788 | Slinky Stackzone |
-| 240 | 788 | Jackie Jackson |
+| 239 | 788 | Jackie Jackson |
+| 240 | 788 | Slinky Stackzone |
 | 241 | 781 | Janet Sanfilippo Sullivan |
 | 242 | 778 | Suzanne Carter |
 | 243 | 776 | Samantha Worley |
@@ -264,8 +264,8 @@
 | 256 | 737 | Momma Boss |
 | 257 | 726 | Perky Riserbuilder |
 | 258 | 724 | Lush Fitblock |
-| 259 | 723 | zoes |
-| 260 | 723 | Breezy Cascadeclear |
+| 259 | 723 | Breezy Cascadeclear |
+| 260 | 723 | zoes |
 | 261 | 720 | Saucy Wipepiece |
 | 262 | 719 | Logan Two-dubs Baker |
 | 263 | 717 | Iforget |
@@ -296,10 +296,10 @@
 | 288 | 644 | Shanna Fragen |
 | 289 | 642 | Clever Brickzone |
 | 290 | 639 | Merritt Brandt |
-| 291 | 638 | Bryanna N Clark |
-| 292 | 638 | Piece of Cake |
-| 293 | 636 | Debby Ruof |
-| 294 | 636 | Sassy Rollpiece |
+| 291 | 638 | Piece of Cake |
+| 292 | 638 | Bryanna N Clark |
+| 293 | 636 | Sassy Rollpiece |
+| 294 | 636 | Debby Ruof |
 | 295 | 633 | Homie |
 | 296 | 632 | Real Talk Vibes |
 | 297 | 631 | Morgan Stevens |
@@ -1319,19 +1319,19 @@
 | 1311 | 121 | Mystica |
 | 1312 | 121 | Glitzy Rotate |
 | 1313 | 121 | Anthony Kollar |
-| 1314 | 120 | Leigh Burton |
-| 1315 | 120 | Sparky Rose |
-| 1316 | 120 | Sarah Sherman |
-| 1317 | 120 | Corissa Handy |
-| 1318 | 120 | Derkesha Huntley |
-| 1319 | 120 | Chipper Hitter |
-| 1320 | 120 | Jeffrey Mann |
-| 1321 | 120 | Giggy Splitter |
-| 1322 | 120 | Hyper Snaplink |
-| 1323 | 119 | Jess |
-| 1324 | 119 | Heather Hilferty |
-| 1325 | 119 | Mighty Clicky |
-| 1326 | 119 | Destiny Georgia Reeves Beller |
+| 1314 | 121 | Destiny Georgia Reeves Beller |
+| 1315 | 120 | Leigh Burton |
+| 1316 | 120 | Sparky Rose |
+| 1317 | 120 | Sarah Sherman |
+| 1318 | 120 | Corissa Handy |
+| 1319 | 120 | Derkesha Huntley |
+| 1320 | 120 | Chipper Hitter |
+| 1321 | 120 | Jeffrey Mann |
+| 1322 | 120 | Giggy Splitter |
+| 1323 | 120 | Hyper Snaplink |
+| 1324 | 119 | Jess |
+| 1325 | 119 | Heather Hilferty |
+| 1326 | 119 | Mighty Clicky |
 | 1327 | 118 | Jean Crooks |
 | 1328 | 118 | Tonya Cross |
 | 1329 | 118 | Komikeh White |
