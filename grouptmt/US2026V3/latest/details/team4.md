@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 22:16:24 UTC
+# Standings for team4 as of 2026-06-11 22:17:22 UTC
 
 **Total Participants:** 2595
 
@@ -129,8 +129,8 @@
 | 121 | 1465 | Bri Martin |
 | 122 | 1462 | Kelley Roach |
 | 123 | 1443 | Jenn Norcross |
-| 124 | 1430 | Hannah Pazar |
-| 125 | 1420 | Irma |
+| 124 | 1430 | Irma |
+| 125 | 1430 | Hannah Pazar |
 | 126 | 1414 | Chiquita Blue |
 | 127 | 1408 | MysticMaven |
 | 128 | 1408 | GeorgeButts |
@@ -292,9 +292,9 @@
 | 284 | 671 | Homie |
 | 285 | 664 | QueenLi86 |
 | 286 | 663 | Drh4090 |
-| 287 | 661 | Addi JayKay |
-| 288 | 659 | Krysten Danielle Richard |
-| 289 | 659 | Shanna Fragen |
+| 287 | 662 | Shanna Fragen |
+| 288 | 661 | Addi JayKay |
+| 289 | 659 | Krysten Danielle Richard |
 | 290 | 650 | Jacqueline Jackii Ramos |
 | 291 | 649 | Boldy Rumbler |
 | 292 | 646 | Dapper Strikerpiece |
@@ -691,26 +691,26 @@
 | 683 | 302 | Kierra Evans |
 | 684 | 301 | King |
 | 685 | 301 | Sa5siy |
-| 686 | 300 | Alice Eisnor-Martens |
-| 687 | 300 | Ada Rodriguez Spradley |
-| 688 | 300 | Kiara Itzel Crowe |
-| 689 | 300 | Bigmamalizzet Latto |
+| 686 | 300 | Kiara Itzel Crowe |
+| 687 | 300 | Bigmamalizzet Latto |
+| 688 | 300 | Ada Rodriguez Spradley |
+| 689 | 300 | Alice Eisnor-Martens |
 | 690 | 299 | Csigirlnc |
 | 691 | 299 | Mighty Dash |
 | 692 | 299 | Jacinta Hooker-Brown |
 | 693 | 298 | Playful Raccoon |
-| 694 | 297 | MrLoner Stoner |
-| 695 | 297 | Kimberly Devon |
+| 694 | 297 | Kimberly Devon |
+| 695 | 297 | MrLoner Stoner |
 | 696 | 296 | Jozette Smalarz |
 | 697 | 295 | Heather Garrity |
-| 698 | 295 | JoJo Hutson |
-| 699 | 295 | Carmen Angelica Sosa |
+| 698 | 295 | Carmen Angelica Sosa |
+| 699 | 295 | JoJo Hutson |
 | 700 | 294 | Edward White |
 | 701 | 293 | Breezy Rollfit |
-| 702 | 293 | Clever Patterner |
-| 703 | 293 | Natalie Dillard |
-| 704 | 292 | Rachel Lemos |
-| 705 | 292 | gothicmisery |
+| 702 | 293 | Natalie Dillard |
+| 703 | 293 | Clever Patterner |
+| 704 | 292 | gothicmisery |
+| 705 | 292 | Rachel Lemos |
 | 706 | 291 | David Lay |
 | 707 | 291 | Tipsy Matchline |
 | 708 | 290 | Lori Lynn |
@@ -721,11 +721,11 @@
 | 713 | 288 | Honey Honey |
 | 714 | 287 | sierrabeth |
 | 715 | 286 | DizzB400 |
-| 716 | 286 | Gean DeJesus |
-| 717 | 286 | Andrea Dre Lomeli |
-| 718 | 285 | Brainbabe |
-| 719 | 285 | SuperJen |
-| 720 | 285 | Kat Foreman |
+| 716 | 286 | Kat Foreman |
+| 717 | 286 | Gean DeJesus |
+| 718 | 286 | Andrea Dre Lomeli |
+| 719 | 285 | Brainbabe |
+| 720 | 285 | SuperJen |
 | 721 | 284 | Anna Ryan |
 | 722 | 284 | Poppy Snapfall |
 | 723 | 282 | Yournightmare |
@@ -984,15 +984,15 @@
 | 976 | 207 | Jasmine Turner |
 | 977 | 207 | Vergie Michael |
 | 978 | 207 | Witty Fitblock |
-| 979 | 206 | Lizard |
+| 979 | 206 | Ana Ruiz |
 | 980 | 206 | Shawntae Mccary |
-| 981 | 205 | Dexter Hammond Jr |
-| 982 | 205 | MrsAddams724 |
-| 983 | 205 | Jt Home |
-| 984 | 205 | Yvette Johnson |
-| 985 | 204 | Shelly Jackson |
-| 986 | 204 | Eddie Fuller |
-| 987 | 204 | Ana Ruiz |
+| 981 | 206 | Lizard |
+| 982 | 205 | Dexter Hammond Jr |
+| 983 | 205 | MrsAddams724 |
+| 984 | 205 | Jt Home |
+| 985 | 205 | Yvette Johnson |
+| 986 | 204 | Shelly Jackson |
+| 987 | 204 | Eddie Fuller |
 | 988 | 203 | John Wertz |
 | 989 | 203 | LilithMoon |
 | 990 | 203 | LaShieka Noland |
@@ -1149,38 +1149,38 @@
 | 1141 | 163 | ShortStackz Jones |
 | 1142 | 163 | Jasmine Marie |
 | 1143 | 162 | 94Blockhead |
-| 1144 | 161 | Cail |
-| 1145 | 161 | Lush Balanceblock |
-| 1146 | 161 | Kriss Owens Uptegrove |
-| 1147 | 161 | Darren Miguel |
-| 1148 | 161 | Melissa Schwager |
-| 1149 | 160 | Bold Clear |
-| 1150 | 160 | Kenyatta Davis |
-| 1151 | 160 | Aim Georgia Bros Scott |
-| 1152 | 160 | Alicia LaFaye |
-| 1153 | 160 | Cozy Staggerpiece |
-| 1154 | 160 | Mike Zec II |
-| 1155 | 160 | Tigger |
-| 1156 | 159 | Groovy Matchgrid |
-| 1157 | 159 | Ali Garcia |
-| 1158 | 159 | Krushie |
-| 1159 | 158 | Lush Match |
+| 1144 | 162 | Cinnanin |
+| 1145 | 161 | Cail |
+| 1146 | 161 | Lush Balanceblock |
+| 1147 | 161 | Kriss Owens Uptegrove |
+| 1148 | 161 | Darren Miguel |
+| 1149 | 161 | Melissa Schwager |
+| 1150 | 160 | Bold Clear |
+| 1151 | 160 | Kenyatta Davis |
+| 1152 | 160 | Aim Georgia Bros Scott |
+| 1153 | 160 | Alicia LaFaye |
+| 1154 | 160 | Tigger |
+| 1155 | 160 | Mike Zec II |
+| 1156 | 160 | Cozy Staggerpiece |
+| 1157 | 159 | Krushie |
+| 1158 | 159 | Groovy Matchgrid |
+| 1159 | 159 | Ali Garcia |
 | 1160 | 158 | Chris Somsen |
-| 1161 | 157 | Goofy Riserbuilder |
+| 1161 | 158 | Lush Match |
 | 1162 | 157 | Marie Lily |
 | 1163 | 157 | Loyalty83 |
 | 1164 | 157 | NotAkaren Barker |
-| 1165 | 157 | Isabel Roman |
-| 1166 | 157 | Theo Stamps |
-| 1167 | 157 | Giggy Risegrid |
-| 1168 | 157 | Skylar Durk |
-| 1169 | 156 | Aleah Briann |
-| 1170 | 156 | Donny Keets |
-| 1171 | 155 | Shayna Vaigneur-Hall |
-| 1172 | 155 | Donna Winget |
-| 1173 | 155 | Ern |
+| 1165 | 157 | Theo Stamps |
+| 1166 | 157 | Goofy Riserbuilder |
+| 1167 | 157 | Isabel Roman |
+| 1168 | 157 | Giggy Risegrid |
+| 1169 | 157 | Skylar Durk |
+| 1170 | 156 | Aleah Briann |
+| 1171 | 156 | Donny Keets |
+| 1172 | 155 | Shayna Vaigneur-Hall |
+| 1173 | 155 | Donna Winget |
 | 1174 | 155 | Frisky Pusher |
-| 1175 | 155 | Cinnanin |
+| 1175 | 155 | Ern |
 | 1176 | 154 | Lady |
 | 1177 | 154 | La Ah Ox |
 | 1178 | 154 | Emma Mancino |
