@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 05:58:45 UTC
+# Standings for team1 as of 2026-06-11 05:59:24 UTC
 
 **Total Participants:** 2448
 
@@ -559,34 +559,34 @@
 | 551 | 329 | Shelly Everette |
 | 552 | 329 | Tiffany Jean Hinson |
 | 553 | 328 | Slinky Snapbuilder |
-| 554 | 325 | Tracy Feyler |
-| 555 | 324 | Breezy Catcher |
-| 556 | 324 | Teddy Davis |
-| 557 | 324 | Vera Beckford |
-| 558 | 324 | Sharee Robinson |
-| 559 | 324 | Kristie |
-| 560 | 322 | TNT |
-| 561 | 321 | LuckyStar |
-| 562 | 321 | Terri Smart |
-| 563 | 321 | Andra Ward |
-| 564 | 321 | Iceman |
-| 565 | 320 | Malcolm Stanley |
-| 566 | 320 | Phongoudom Tika |
-| 567 | 320 | Valerie Alexander |
-| 568 | 320 | Jose Rodriguez |
-| 569 | 320 | Aaron Hartmann |
-| 570 | 319 | Ciera Peace |
+| 554 | 328 | Jose Rodriguez |
+| 555 | 325 | Tracy Feyler |
+| 556 | 324 | Breezy Catcher |
+| 557 | 324 | Teddy Davis |
+| 558 | 324 | Vera Beckford |
+| 559 | 324 | Sharee Robinson |
+| 560 | 324 | Kristie |
+| 561 | 322 | TNT |
+| 562 | 321 | LuckyStar |
+| 563 | 321 | Terri Smart |
+| 564 | 321 | Andra Ward |
+| 565 | 321 | Iceman |
+| 566 | 320 | Malcolm Stanley |
+| 567 | 320 | Aaron Hartmann |
+| 568 | 320 | Phongoudom Tika |
+| 569 | 320 | Valerie Alexander |
+| 570 | 319 | MACHETEEDDIE513 |
 | 571 | 319 | TY Newme Batts |
-| 572 | 319 | Christi Walker Patton |
-| 573 | 319 | Zappy Snapgrid |
-| 574 | 319 | MACHETEEDDIE513 |
-| 575 | 318 | Latore Maxie |
-| 576 | 318 | Nerdy Snapfall |
-| 577 | 317 | Bea Dyer-Fields |
-| 578 | 317 | Bambi Johnson |
-| 579 | 317 | Chris Holland |
-| 580 | 317 | Monica Tovar |
-| 581 | 317 | Hardtohandle91 |
+| 572 | 319 | Zappy Snapgrid |
+| 573 | 319 | Christi Walker Patton |
+| 574 | 319 | Ciera Peace |
+| 575 | 318 | Nerdy Snapfall |
+| 576 | 318 | Latore Maxie |
+| 577 | 317 | Chris Holland |
+| 578 | 317 | Hardtohandle91 |
+| 579 | 317 | Bambi Johnson |
+| 580 | 317 | Bea Dyer-Fields |
+| 581 | 317 | Monica Tovar |
 | 582 | 317 | Mister Reid |
 | 583 | 316 | Comedian Gdane |
 | 584 | 314 | Breezy Dashpiece |
@@ -2054,72 +2054,72 @@
 | 2046 | 23 | Shiny Zonebuilder |
 | 2047 | 23 | Genevieve Nieves |
 | 2048 | 23 | Milfchaser530 |
-| 2049 | 22 | Queen Baby 5 |
-| 2050 | 22 | Jhinarra Walker |
-| 2051 | 22 | Mary M Craven |
+| 2049 | 22 | Jhinarra Walker |
+| 2050 | 22 | Mary M Craven |
+| 2051 | 22 | Patioskie |
 | 2052 | 22 | Chantelle Sweet |
-| 2053 | 22 | Patioskie |
-| 2054 | 22 | Jazzy Drop |
-| 2055 | 22 | ShayePooh |
-| 2056 | 22 | Eileen Peterson |
+| 2053 | 22 | ShayePooh |
+| 2054 | 22 | Eileen Peterson |
+| 2055 | 22 | Jazzy Drop |
+| 2056 | 22 | Queen Baby 5 |
 | 2057 | 22 | Chipper Smasher |
 | 2058 | 22 | Stylezncutzby Dee |
-| 2059 | 22 | kittykatt |
-| 2060 | 22 | Eggly |
-| 2061 | 22 | Tamika Davis |
-| 2062 | 22 | Zippy Framezone |
-| 2063 | 21 | Sanna Rose |
+| 2059 | 22 | Eggly |
+| 2060 | 22 | kittykatt |
+| 2061 | 22 | Brittany N. Hess |
+| 2062 | 22 | Tamika Davis |
+| 2063 | 22 | Zippy Framezone |
 | 2064 | 21 | Angie Hall |
-| 2065 | 21 | Marcus Hannah |
-| 2066 | 21 | Christy |
-| 2067 | 21 | Michelle Harrison-Woodall |
-| 2068 | 21 | Michelle Villasenor |
-| 2069 | 21 | Truthful |
-| 2070 | 21 | taz62 |
-| 2071 | 21 | Zesty Matchzone |
+| 2065 | 21 | Michelle Harrison-Woodall |
+| 2066 | 21 | Marcus Hannah |
+| 2067 | 21 | Michelle Villasenor |
+| 2068 | 21 | Christy |
+| 2069 | 21 | Sanna Rose |
+| 2070 | 21 | Truthful |
+| 2071 | 21 | taz62 |
 | 2072 | 21 | Lisamarie Fabre Cardona |
-| 2073 | 21 | Nikki Cornelious Valentine |
-| 2074 | 21 | lp |
-| 2075 | 21 | Billy Vennemann |
-| 2076 | 21 | Frisky Linkblock |
-| 2077 | 20 | Adrianna Hernandez |
-| 2078 | 20 | Nikki Vaughn |
-| 2079 | 20 | Laquisha James |
-| 2080 | 20 | LongLive Peace |
-| 2081 | 20 | Kechie Johnson |
-| 2082 | 20 | Marquel Coley |
-| 2083 | 20 | Bryttani GoingPlaces Latimer |
-| 2084 | 20 | AllStar Woods |
-| 2085 | 20 | Candy Jones |
-| 2086 | 20 | Tipsy Builderline |
-| 2087 | 20 | prela |
-| 2088 | 20 | Cherise Thomas |
-| 2089 | 20 | Edward Croom |
-| 2090 | 20 | Happy Towerfall |
-| 2091 | 20 | Luna Lockwood |
-| 2092 | 20 | Terry Golatte |
-| 2093 | 20 | lilpryncess |
-| 2094 | 20 | Jermaine Brown |
-| 2095 | 20 | Allison Davis |
-| 2096 | 20 | Misha |
-| 2097 | 20 | Kenneth Hefney |
-| 2098 | 20 | Scoots |
-| 2099 | 20 | Owen Stone |
-| 2100 | 20 | Tanika Duffey |
-| 2101 | 20 | Lisa Regusters |
-| 2102 | 20 | Deme |
-| 2103 | 20 | Sonia Savage-Jones |
-| 2104 | 20 | Nikki Jay |
-| 2105 | 20 | Cynthia Potter |
-| 2106 | 20 | LaKisha Cannon |
-| 2107 | 20 | Brittany N. Hess |
-| 2108 | 20 | Justice 4 P |
-| 2109 | 20 | POOH |
-| 2110 | 20 | Chipper Riseclear |
+| 2073 | 21 | Zesty Matchzone |
+| 2074 | 21 | Nikki Cornelious Valentine |
+| 2075 | 21 | lp |
+| 2076 | 21 | Billy Vennemann |
+| 2077 | 21 | Frisky Linkblock |
+| 2078 | 20 | AllStar Woods |
+| 2079 | 20 | Nikki Vaughn |
+| 2080 | 20 | Laquisha James |
+| 2081 | 20 | LongLive Peace |
+| 2082 | 20 | Kechie Johnson |
+| 2083 | 20 | Marquel Coley |
+| 2084 | 20 | Bryttani GoingPlaces Latimer |
+| 2085 | 20 | Adrianna Hernandez |
+| 2086 | 20 | Candy Jones |
+| 2087 | 20 | Tipsy Builderline |
+| 2088 | 20 | prela |
+| 2089 | 20 | Cherise Thomas |
+| 2090 | 20 | Edward Croom |
+| 2091 | 20 | Happy Towerfall |
+| 2092 | 20 | Luna Lockwood |
+| 2093 | 20 | Terry Golatte |
+| 2094 | 20 | lilpryncess |
+| 2095 | 20 | Jermaine Brown |
+| 2096 | 20 | Allison Davis |
+| 2097 | 20 | Misha |
+| 2098 | 20 | Kenneth Hefney |
+| 2099 | 20 | Tanika Duffey |
+| 2100 | 20 | Chipper Riseclear |
+| 2101 | 20 | Scoots |
+| 2102 | 20 | Lisa Regusters |
+| 2103 | 20 | Owen Stone |
+| 2104 | 20 | Deme |
+| 2105 | 20 | Sonia Savage-Jones |
+| 2106 | 20 | Nikki Jay |
+| 2107 | 20 | LaKisha Cannon |
+| 2108 | 20 | Cynthia Potter |
+| 2109 | 20 | Justice 4 P |
+| 2110 | 20 | POOH |
 | 2111 | 20 | Melody Means |
-| 2112 | 19 | Tiara Hitchcock |
+| 2112 | 19 | Young Jason |
 | 2113 | 19 | Saucy Basepiece |
-| 2114 | 19 | Young Jason |
+| 2114 | 19 | Tiara Hitchcock |
 | 2115 | 19 | M Julio E Xocol Tepaz |
 | 2116 | 19 | Toya Draine |
 | 2117 | 19 | QueenBishhh |
