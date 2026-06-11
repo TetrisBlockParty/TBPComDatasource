@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 02:16:48 UTC
+# Standings for team1 as of 2026-06-11 02:17:24 UTC
 
 **Total Participants:** 2404
 
@@ -93,8 +93,8 @@
 | 85 | 1821 | Spunky Edgefit |
 | 86 | 1813 | PandaPrincess |
 | 87 | 1811 | Chenell Gillard |
-| 88 | 1757 | Carolynne Walker-Bell |
-| 89 | 1755 | Kimberly Hernandez |
+| 88 | 1765 | Kimberly Hernandez |
+| 89 | 1757 | Carolynne Walker-Bell |
 | 90 | 1742 | Snappy Link |
 | 91 | 1724 | Sharon Cail |
 | 92 | 1711 | Richard Horton |
@@ -320,16 +320,16 @@
 | 312 | 526 | Kenny 'Tailormade' Boyd |
 | 313 | 525 | Andre Sanon |
 | 314 | 524 | Dai Bo |
-| 315 | 521 | Anthony |
-| 316 | 521 | Jawaun Daniels |
-| 317 | 518 | Sheila Burnham |
+| 315 | 523 | Sheila Burnham |
+| 316 | 521 | Anthony |
+| 317 | 521 | Jawaun Daniels |
 | 318 | 515 | Queenie Perry |
 | 319 | 513 | Tasha |
 | 320 | 511 | Dizzy Dropper |
 | 321 | 509 | JaClanDiah |
 | 322 | 508 | Heather Aurelia |
-| 323 | 507 | Mahagony Small |
-| 324 | 507 | Teresa Yanira Cepeda |
+| 323 | 507 | Teresa Yanira Cepeda |
+| 324 | 507 | Mahagony Small |
 | 325 | 503 | Chummy Frame |
 | 326 | 503 | Tonia Lance |
 | 327 | 503 | Bre Poston |
@@ -337,8 +337,8 @@
 | 329 | 501 | Cheri Robinson |
 | 330 | 501 | Analiza Ramos |
 | 331 | 500 | Steve Reno |
-| 332 | 498 | Michael Bethezar |
-| 333 | 498 | Shanaa Germany Crittenden |
+| 332 | 498 | Shanaa Germany Crittenden |
+| 333 | 498 | Michael Bethezar |
 | 334 | 498 | Julian Dickens Jr. |
 | 335 | 495 | Jana Cheek |
 | 336 | 492 | SANA |
@@ -534,8 +534,8 @@
 | 526 | 336 | Silly Edgepiece |
 | 527 | 334 | Yashica Smith |
 | 528 | 332 | Kristine Marie Palmer |
-| 529 | 331 | James Bryant II |
-| 530 | 331 | Holly Baker |
+| 529 | 331 | Holly Baker |
+| 530 | 331 | James Bryant II |
 | 531 | 330 | Tracey Johnson |
 | 532 | 330 | Mighty Dropper |
 | 533 | 329 | Shelly Everette |
@@ -544,17 +544,17 @@
 | 536 | 327 | AnnaM |
 | 537 | 326 | Clint Mcdowell |
 | 538 | 325 | Tracy Feyler |
-| 539 | 324 | Vera Beckford |
+| 539 | 325 | Earl Williams |
 | 540 | 324 | Kristie |
-| 541 | 324 | Breezy Catcher |
-| 542 | 323 | Alyssa Rae |
-| 543 | 322 | TNT |
-| 544 | 321 | Andra Ward |
-| 545 | 321 | LuckyStar |
-| 546 | 320 | Malcolm Stanley |
-| 547 | 320 | Slinky Snapbuilder |
-| 548 | 320 | Aaron Hartmann |
-| 549 | 320 | Earl Williams |
+| 541 | 324 | Vera Beckford |
+| 542 | 324 | Breezy Catcher |
+| 543 | 323 | Alyssa Rae |
+| 544 | 322 | TNT |
+| 545 | 321 | Andra Ward |
+| 546 | 321 | LuckyStar |
+| 547 | 320 | Malcolm Stanley |
+| 548 | 320 | Slinky Snapbuilder |
+| 549 | 320 | Aaron Hartmann |
 | 550 | 320 | Phongoudom Tika |
 | 551 | 320 | Jessica Kirby |
 | 552 | 319 | Christi Walker Patton |
@@ -1055,33 +1055,33 @@
 | 1047 | 153 | Quirky Spinblock |
 | 1048 | 152 | Swanky Glide |
 | 1049 | 152 | E Dubb$ |
-| 1050 | 151 | lady |
-| 1051 | 150 | Jerome Lewis |
-| 1052 | 150 | Raquel Ortiz |
-| 1053 | 150 | Vivian Bunnell Myers |
-| 1054 | 150 | Anthony T. Fults |
-| 1055 | 149 | Shannon Callarman |
+| 1050 | 152 | Tray Tolliver |
+| 1051 | 151 | lady |
+| 1052 | 150 | Jerome Lewis |
+| 1053 | 150 | Raquel Ortiz |
+| 1054 | 150 | Vivian Bunnell Myers |
+| 1055 | 150 | Anthony T. Fults |
 | 1056 | 149 | Macho Lewis |
-| 1057 | 148 | Raymond Boosie Freeman |
-| 1058 | 148 | Shawna Passwater |
-| 1059 | 148 | Witty Clear |
-| 1060 | 148 | Jaxon Antuna |
-| 1061 | 148 | Zany Patternblock |
-| 1062 | 147 | Benjamin Livingston |
-| 1063 | 147 | Jane Lame |
-| 1064 | 147 | Charika Marie Bergmann |
-| 1065 | 147 | Sean Parham |
-| 1066 | 146 | Jojo M |
+| 1057 | 149 | Shannon Callarman |
+| 1058 | 148 | Raymond Boosie Freeman |
+| 1059 | 148 | Shawna Passwater |
+| 1060 | 148 | Witty Clear |
+| 1061 | 148 | Jaxon Antuna |
+| 1062 | 148 | Zany Patternblock |
+| 1063 | 147 | Benjamin Livingston |
+| 1064 | 147 | Jane Lame |
+| 1065 | 147 | Charika Marie Bergmann |
+| 1066 | 147 | Sean Parham |
 | 1067 | 146 | Paul Doty |
-| 1068 | 145 | Jumpy Gridlock |
-| 1069 | 145 | Abdul Malik |
-| 1070 | 145 | Jennifer Moore |
-| 1071 | 144 | Flashy Stacker |
-| 1072 | 144 | Tammy Collins |
-| 1073 | 143 | Beautiful314 |
-| 1074 | 143 | Caitlin Michele |
-| 1075 | 143 | Jennifer Rogers |
-| 1076 | 143 | Tray Tolliver |
+| 1068 | 146 | Jojo M |
+| 1069 | 145 | Jumpy Gridlock |
+| 1070 | 145 | Abdul Malik |
+| 1071 | 145 | Jennifer Moore |
+| 1072 | 144 | Flashy Stacker |
+| 1073 | 144 | Tammy Collins |
+| 1074 | 143 | Beautiful314 |
+| 1075 | 143 | Caitlin Michele |
+| 1076 | 143 | Jennifer Rogers |
 | 1077 | 142 | Ace Hardware |
 | 1078 | 142 | Chummy Twisterfit |
 | 1079 | 141 | Tiana Monique |
