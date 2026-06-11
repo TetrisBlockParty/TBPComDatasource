@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:02:24 UTC
+# Standings for team1 as of 2026-06-11 16:03:24 UTC
 
 **Total Participants:** 2503
 
@@ -31,7 +31,7 @@
 | 23 | 7037 | Tekedra Wilson |
 | 24 | 6121 | Chandler Spencer |
 | 25 | 6002 | Ivana Schmidt |
-| 26 | 5883 | Hunter Rayborn |
+| 26 | 5903 | Hunter Rayborn |
 | 27 | 5594 | jaimie |
 | 28 | 5282 | Plucky Swipe |
 | 29 | 4767 | Kkbk |
@@ -114,13 +114,13 @@
 | 106 | 1639 | Loopy Block |
 | 107 | 1627 | Janet Cooke |
 | 108 | 1623 | Robbie Cheeseman |
-| 109 | 1613 | rls |
-| 110 | 1611 | Sarah Marie |
-| 111 | 1606 | BYM4L |
-| 112 | 1598 | Voice |
-| 113 | 1588 | Anthony Washington |
-| 114 | 1564 | Spicy Balancer |
-| 115 | 1558 | Uneekly Mayde |
+| 109 | 1618 | Uneekly Mayde |
+| 110 | 1613 | rls |
+| 111 | 1611 | Sarah Marie |
+| 112 | 1606 | BYM4L |
+| 113 | 1598 | Voice |
+| 114 | 1588 | Anthony Washington |
+| 115 | 1581 | Spicy Balancer |
 | 116 | 1548 | Jimmie Makia |
 | 117 | 1546 | Alana Renee |
 | 118 | 1537 | Gotcha |
@@ -155,7 +155,7 @@
 | 147 | 1225 | Taylor Evelyn |
 | 148 | 1224 | Tiana Moore |
 | 149 | 1208 | Jazzy Dashpiece |
-| 150 | 1185 | Lesley Brunkus Cianfaglione |
+| 150 | 1189 | Lesley Brunkus Cianfaglione |
 | 151 | 1170 | boogeywoogey |
 | 152 | 1166 | Raymond Keeler |
 | 153 | 1160 | Danielle Barthelme |
@@ -165,8 +165,8 @@
 | 157 | 1142 | Yasmin Nakea Wright |
 | 158 | 1139 | Atlantalindi |
 | 159 | 1123 | Keke Ferguson |
-| 160 | 1121 | Zippy Lifter |
-| 161 | 1121 | Lisa Müller |
+| 160 | 1121 | Lisa Müller |
+| 161 | 1121 | Zippy Lifter |
 | 162 | 1113 | Eartha Brown |
 | 163 | 1107 | Katherine Short |
 | 164 | 1100 | Christana Imjustbutton Stone |
@@ -217,8 +217,8 @@
 | 209 | 881 | Karebear |
 | 210 | 876 | Tamara N Lee |
 | 211 | 866 | Trendalyn Webb |
-| 212 | 862 | Stef Hu |
-| 213 | 862 | LaSharmeika Fancher |
+| 212 | 862 | LaSharmeika Fancher |
+| 213 | 862 | Stef Hu |
 | 214 | 861 | Rachel Zimmerman |
 | 215 | 837 | Clint Mcdowell |
 | 216 | 837 | Crystal Anderson |
@@ -241,8 +241,8 @@
 | 233 | 777 | Johnathan Deese |
 | 234 | 776 | Mikayla |
 | 235 | 774 | Ottison Dianna |
-| 236 | 772 | Latisha Fairley |
-| 237 | 772 | Dena Marie Lee |
+| 236 | 772 | Dena Marie Lee |
+| 237 | 772 | Latisha Fairley |
 | 238 | 770 | Genne Scott |
 | 239 | 766 | Shameka Thrasher |
 | 240 | 762 | Frisky Fall |
@@ -295,7 +295,7 @@
 | 287 | 623 | Nicole Watson-Dixon |
 | 288 | 623 | Daris Swearington |
 | 289 | 622 | Giggly Tiltbuilder |
-| 290 | 621 | Tessa Felice Hill |
+| 290 | 622 | Tessa Felice Hill |
 | 291 | 620 | Tanya Clayton |
 | 292 | 620 | Jessica Carter |
 | 293 | 620 | DellaLucretia Thomas |
@@ -366,12 +366,12 @@
 | 358 | 513 | Tasha |
 | 359 | 511 | Lauraly |
 | 360 | 511 | Dizzy Dropper |
-| 361 | 510 | Krista McNair |
-| 362 | 510 | Dedra M Prester |
-| 363 | 510 | ♈️ Ariesbaby |
-| 364 | 509 | JaClanDiah |
-| 365 | 509 | Simone Bailey |
-| 366 | 509 | Shea Ladynick Henderson |
+| 361 | 511 | Shea Ladynick Henderson |
+| 362 | 510 | Krista McNair |
+| 363 | 510 | Dedra M Prester |
+| 364 | 510 | ♈️ Ariesbaby |
+| 365 | 509 | JaClanDiah |
+| 366 | 509 | Simone Bailey |
 | 367 | 509 | Ta'Kaiyah M. Spann |
 | 368 | 507 | Teresa Yanira Cepeda |
 | 369 | 505 | Cheri Robinson |
@@ -617,8 +617,8 @@
 | 609 | 329 | Chris Holland |
 | 610 | 327 | Bambi Johnson |
 | 611 | 327 | Hardtohandle91 |
-| 612 | 325 | Kàrma Lee |
-| 613 | 324 | Hyedie Badie |
+| 612 | 326 | Hyedie Badie |
+| 613 | 325 | Kàrma Lee |
 | 614 | 324 | Teddy Davis |
 | 615 | 324 | Sharee Robinson |
 | 616 | 323 | jeremy92 |
@@ -2416,99 +2416,99 @@
 | 2408 | 8 | Clever Matchpiece |
 | 2409 | 8 | jus_ry |
 | 2410 | 8 | No Worries |
-| 2411 | 8 | Adelia Seymour |
-| 2412 | 8 | Andrew James |
+| 2411 | 8 | Tabitha Harris |
+| 2412 | 8 | Ferocity |
 | 2413 | 8 | Zesty Combofall |
-| 2414 | 8 | Groovy Riseclear |
-| 2415 | 8 | David NuggieMan Smith |
-| 2416 | 8 | Stu McQueen |
-| 2417 | 8 | Frothy Matchpiece |
-| 2418 | 8 | Ferocity |
-| 2419 | 8 | David Anthony |
-| 2420 | 8 | Charlotte Jones |
-| 2421 | 8 | Tabitha Harris |
-| 2422 | 8 | Janiah Seibert |
-| 2423 | 8 | All World |
-| 2424 | 8 | Rixo Blax |
-| 2425 | 8 | Chill Tumbler |
-| 2426 | 7 | Bouncy Clearbuilder |
-| 2427 | 7 | Bryan Dell |
-| 2428 | 7 | Gerardo Galiz |
-| 2429 | 7 | Roscoe |
-| 2430 | 7 | Chill Smasher |
-| 2431 | 7 | John Boone |
+| 2414 | 8 | Chill Tumbler |
+| 2415 | 8 | All World |
+| 2416 | 8 | Adelia Seymour |
+| 2417 | 8 | Groovy Riseclear |
+| 2418 | 8 | Charlotte Jones |
+| 2419 | 8 | Andrew James |
+| 2420 | 8 | David NuggieMan Smith |
+| 2421 | 8 | Stu McQueen |
+| 2422 | 8 | Rixo Blax |
+| 2423 | 8 | Frothy Matchpiece |
+| 2424 | 8 | Janiah Seibert |
+| 2425 | 8 | David Anthony |
+| 2426 | 7 | Tipsy Towerzone |
+| 2427 | 7 | Loopy Blockline |
+| 2428 | 7 | Linda Clark |
+| 2429 | 7 | Brittany Killebrew |
+| 2430 | 7 | Bouncy Clearbuilder |
+| 2431 | 7 | Happy Strike |
 | 2432 | 7 | Hyper Basepiece |
-| 2433 | 7 | Happy Strike |
-| 2434 | 7 | Sheena Hamilton |
-| 2435 | 7 | Shane Brucewayne |
-| 2436 | 7 | Happy Drop |
-| 2437 | 7 | Linda Clark |
-| 2438 | 7 | Loopy Blockline |
-| 2439 | 7 | crumpettwo |
-| 2440 | 7 | Chirpy Cascadeclear |
-| 2441 | 7 | Breanna Page |
-| 2442 | 7 | Teresa F. Campos Eaton |
-| 2443 | 7 | Brittany Killebrew |
-| 2444 | 7 | KingSlim82 |
-| 2445 | 7 | Quana |
-| 2446 | 7 | Joey Hoover |
-| 2447 | 7 | Jazzy |
-| 2448 | 7 | Jamal Richmond |
-| 2449 | 7 | Daniel Okuka |
-| 2450 | 7 | Albert Smith |
-| 2451 | 7 | bri |
-| 2452 | 7 | Mary2 |
-| 2453 | 7 | Volushia Jennings-Figgs |
-| 2454 | 7 | Court Ney |
-| 2455 | 7 | Tierra Latte |
-| 2456 | 7 | Tipsy Towerzone |
-| 2457 | 7 | Vicky Brown |
-| 2458 | 7 | Deadra Graham |
-| 2459 | 7 | style |
-| 2460 | 7 | Beverly Kaday |
-| 2461 | 7 | Shenikka Townsend |
-| 2462 | 6 | Nerdy Slam |
-| 2463 | 6 | Barefield Curt |
-| 2464 | 6 | James Singleton |
-| 2465 | 6 | Doc Elm |
-| 2466 | 6 | Tarsha' Seymone Sherrod |
-| 2467 | 6 | Andrae Robinson |
-| 2468 | 6 | Stevie Malcon |
-| 2469 | 6 | Dandy Tiltbuilder |
-| 2470 | 6 | Kimberly Mann |
-| 2471 | 6 | Dan Quintero |
-| 2472 | 6 | party t-rex 27 |
-| 2473 | 6 | CK |
-| 2474 | 6 | Sunny Shatterer |
-| 2475 | 6 | Kyshia |
-| 2476 | 6 | Groovy Grid |
-| 2477 | 6 | 840PurgeAsylum |
-| 2478 | 6 | Darkness |
-| 2479 | 6 | Ruben Baca |
-| 2480 | 5 | Misty Sollberger |
-| 2481 | 5 | Davery Spencer Adair |
-| 2482 | 5 | Happy |
-| 2483 | 5 | the guy |
-| 2484 | 5 | Zesty Brickline |
-| 2485 | 5 | MrKeith Debraux |
-| 2486 | 5 | Ruben Esquibel |
-| 2487 | 5 | Cleversphinx76 |
-| 2488 | 5 | Brett Ledford |
-| 2489 | 5 | Cranky Lifter |
-| 2490 | 5 | Godz Chosen |
-| 2491 | 5 | Ashley Marie |
-| 2492 | 5 | Denise Morris-General |
-| 2493 | 5 | Cherry |
-| 2494 | 5 | Crafty Fallzone |
-| 2495 | 5 | MistyJaye |
-| 2496 | 5 | Cheery Edgefit |
+| 2433 | 7 | John Boone |
+| 2434 | 7 | Chirpy Cascadeclear |
+| 2435 | 7 | Teresa F. Campos Eaton |
+| 2436 | 7 | Shane Brucewayne |
+| 2437 | 7 | Roscoe |
+| 2438 | 7 | Chill Smasher |
+| 2439 | 7 | Happy Drop |
+| 2440 | 7 | crumpettwo |
+| 2441 | 7 | Bryan Dell |
+| 2442 | 7 | Breanna Page |
+| 2443 | 7 | Sheena Hamilton |
+| 2444 | 7 | Gerardo Galiz |
+| 2445 | 7 | Deadra Graham |
+| 2446 | 7 | bri |
+| 2447 | 7 | Mary2 |
+| 2448 | 7 | Volushia Jennings-Figgs |
+| 2449 | 7 | Albert Smith |
+| 2450 | 7 | Joey Hoover |
+| 2451 | 7 | Jamal Richmond |
+| 2452 | 7 | Daniel Okuka |
+| 2453 | 7 | Tierra Latte |
+| 2454 | 7 | Quana |
+| 2455 | 7 | Vicky Brown |
+| 2456 | 7 | Beverly Kaday |
+| 2457 | 7 | Jazzy |
+| 2458 | 7 | Shenikka Townsend |
+| 2459 | 7 | KingSlim82 |
+| 2460 | 7 | style |
+| 2461 | 7 | Court Ney |
+| 2462 | 6 | Doc Elm |
+| 2463 | 6 | Groovy Grid |
+| 2464 | 6 | Tarsha' Seymone Sherrod |
+| 2465 | 6 | Ruben Baca |
+| 2466 | 6 | Nerdy Slam |
+| 2467 | 6 | Darkness |
+| 2468 | 6 | party t-rex 27 |
+| 2469 | 6 | Barefield Curt |
+| 2470 | 6 | Stevie Malcon |
+| 2471 | 6 | Dandy Tiltbuilder |
+| 2472 | 6 | Kimberly Mann |
+| 2473 | 6 | James Singleton |
+| 2474 | 6 | Andrae Robinson |
+| 2475 | 6 | Dan Quintero |
+| 2476 | 6 | CK |
+| 2477 | 6 | Sunny Shatterer |
+| 2478 | 6 | 840PurgeAsylum |
+| 2479 | 6 | Kyshia |
+| 2480 | 5 | Ashley Marie |
+| 2481 | 5 | Brett Ledford |
+| 2482 | 5 | Ruben Esquibel |
+| 2483 | 5 | Zesty Brickline |
+| 2484 | 5 | Godz Chosen |
+| 2485 | 5 | Joi |
+| 2486 | 5 | Cleversphinx76 |
+| 2487 | 5 | the guy |
+| 2488 | 5 | Misty Sollberger |
+| 2489 | 5 | Davery Spencer Adair |
+| 2490 | 5 | Happy |
+| 2491 | 5 | MrKeith Debraux |
+| 2492 | 5 | VERA DAME |
+| 2493 | 5 | Forrestine Eubanks |
+| 2494 | 5 | Jennifer Haton Kreighbaum |
+| 2495 | 5 | Jennie Vblaricom |
+| 2496 | 5 | Chummy Patternfall |
 | 2497 | 5 | Shuntae Scott |
-| 2498 | 5 | Chummy Patternfall |
-| 2499 | 5 | Jennie Vblaricom |
-| 2500 | 5 | Joi |
-| 2501 | 5 | VERA DAME |
-| 2502 | 5 | Jennifer Haton Kreighbaum |
-| 2503 | 5 | Forrestine Eubanks |
+| 2498 | 5 | Cheery Edgefit |
+| 2499 | 5 | Crafty Fallzone |
+| 2500 | 5 | Cherry |
+| 2501 | 5 | Cranky Lifter |
+| 2502 | 5 | Denise Morris-General |
+| 2503 | 5 | MistyJaye |
 
 ---
 *Standings created by tournaments datasource generation tool*
