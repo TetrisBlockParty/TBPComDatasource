@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:32:46 UTC
+# Standings for team4 as of 2026-06-11 08:33:23 UTC
 
 **Total Participants:** 2503
 
@@ -669,8 +669,8 @@
 | 661 | 281 | Raising Stars |
 | 662 | 281 | DrC |
 | 663 | 281 | Anthony Edwards |
-| 664 | 280 | Giddy Basepiece |
-| 665 | 280 | Bear Bair |
+| 664 | 281 | Bear Bair |
+| 665 | 280 | Giddy Basepiece |
 | 666 | 280 | Jimmy Clark |
 | 667 | 280 | Sharon Tyler |
 | 668 | 279 | LandO |
