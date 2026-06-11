@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 04:34:48 UTC
+# Standings for team4 as of 2026-06-11 04:35:24 UTC
 
 **Total Participants:** 2468
 
@@ -306,7 +306,7 @@
 | 298 | 563 | Cherrel M. Causey |
 | 299 | 562 | Tipsy Zonebuilder |
 | 300 | 560 | Betsy Froemming |
-| 301 | 558 | matt |
+| 301 | 559 | matt |
 | 302 | 558 | Aramat |
 | 303 | 557 | Chummy Jumper |
 | 304 | 556 | Cherrypir05 |
@@ -761,22 +761,22 @@
 | 753 | 238 | Tara Delay Hill |
 | 754 | 238 | Capt'n Crunch |
 | 755 | 238 | Mint Marquez |
-| 756 | 237 | Erica Pompey |
-| 757 | 237 | Amber Jalbert |
-| 758 | 237 | Samantha Lohmeyer |
-| 759 | 236 | Niki Bastianelli |
-| 760 | 236 | Weird Cat |
-| 761 | 236 | Ashley DuVall |
-| 762 | 236 | GETBOXED! |
-| 763 | 236 | Domo Dpn |
-| 764 | 236 | Trang Nguyen |
-| 765 | 236 | chuck |
-| 766 | 236 | Deana Teck |
-| 767 | 235 | Reina Pagan |
-| 768 | 235 | Simone |
-| 769 | 235 | Khiem Hernandez |
-| 770 | 234 | Alizabeth Garcia |
-| 771 | 234 | Clever Patterner |
+| 756 | 237 | Clever Patterner |
+| 757 | 237 | Erica Pompey |
+| 758 | 237 | Amber Jalbert |
+| 759 | 237 | Samantha Lohmeyer |
+| 760 | 236 | Niki Bastianelli |
+| 761 | 236 | Weird Cat |
+| 762 | 236 | Ashley DuVall |
+| 763 | 236 | GETBOXED! |
+| 764 | 236 | Domo Dpn |
+| 765 | 236 | Trang Nguyen |
+| 766 | 236 | chuck |
+| 767 | 236 | Deana Teck |
+| 768 | 235 | Reina Pagan |
+| 769 | 235 | Simone |
+| 770 | 235 | Khiem Hernandez |
+| 771 | 234 | Alizabeth Garcia |
 | 772 | 234 | Ajohnna Frazee |
 | 773 | 234 | SuperJen |
 | 774 | 233 | Stefanie Street |
@@ -786,8 +786,8 @@
 | 778 | 231 | Poseidon S Davenport |
 | 779 | 231 | Mighty Dash |
 | 780 | 231 | Angela Adamo-Tash |
-| 781 | 231 | Janae Harris |
-| 782 | 231 | Butterpat |
+| 781 | 231 | Butterpat |
+| 782 | 231 | Janae Harris |
 | 783 | 230 | Breezy Brickline |
 | 784 | 230 | Clever Blockbuilder |
 | 785 | 229 | Squiggy |
@@ -960,34 +960,34 @@
 | 952 | 186 | Diqthot |
 | 953 | 186 | PDubz |
 | 954 | 186 | Phredda Helene Gavornik |
-| 955 | 185 | Dannie Ems |
+| 955 | 186 | Fkvj |
 | 956 | 185 | Lush Twisterfit |
-| 957 | 184 | RustyMaster40 |
-| 958 | 183 | Amori85 |
-| 959 | 183 | Mar Mar |
-| 960 | 183 | Slinky Snapfit |
-| 961 | 182 | Vicente Bolaños Jr. |
-| 962 | 182 | Lori A Hamann |
+| 957 | 185 | Dannie Ems |
+| 958 | 184 | RustyMaster40 |
+| 959 | 183 | Amori85 |
+| 960 | 183 | Mar Mar |
+| 961 | 183 | Slinky Snapfit |
+| 962 | 182 | Vicente Bolaños Jr. |
 | 963 | 182 | Patsy |
-| 964 | 181 | Elise Ann |
-| 965 | 180 | George Marshburn |
-| 966 | 180 | Glamorous Gracey |
-| 967 | 180 | Melissa Wilson |
-| 968 | 180 | Charissa W Walton |
-| 969 | 180 | Krista Diaz |
-| 970 | 180 | Kristie McFarland |
-| 971 | 180 | Wyatt Karren |
+| 964 | 182 | Lori A Hamann |
+| 965 | 181 | Elise Ann |
+| 966 | 180 | George Marshburn |
+| 967 | 180 | Glamorous Gracey |
+| 968 | 180 | Melissa Wilson |
+| 969 | 180 | Charissa W Walton |
+| 970 | 180 | Krista Diaz |
+| 971 | 180 | Rodger Lines |
 | 972 | 180 | Silly Rollbuilder |
-| 973 | 180 | Rodger Lines |
-| 974 | 179 | Dru Lui |
-| 975 | 179 | SueSally |
+| 973 | 180 | Wyatt Karren |
+| 974 | 180 | Kristie McFarland |
+| 975 | 179 | idk240 |
 | 976 | 179 | Goddatbat |
-| 977 | 179 | idk240 |
-| 978 | 178 | Amanda Lynn Robinson |
-| 979 | 178 | Nachos |
-| 980 | 178 | Rin |
-| 981 | 178 | Renzo Tonini |
-| 982 | 178 | Fkvj |
+| 977 | 179 | SueSally |
+| 978 | 179 | Dru Lui |
+| 979 | 178 | Rin |
+| 980 | 178 | Nachos |
+| 981 | 178 | Amanda Lynn Robinson |
+| 982 | 178 | Renzo Tonini |
 | 983 | 178 | Jacqueline Arce |
 | 984 | 177 | Lilo |
 | 985 | 177 | Happy Filler |
@@ -996,17 +996,17 @@
 | 988 | 176 | Keith Kosmicki |
 | 989 | 176 | Kelli Miller |
 | 990 | 176 | Rocky |
-| 991 | 175 | JustLessie |
-| 992 | 175 | Leslie Ramos |
-| 993 | 175 | Mari Isaac |
-| 994 | 174 | Michelle Michelle |
-| 995 | 174 | Bridget Reilly |
+| 991 | 175 | Mari Isaac |
+| 992 | 175 | JustLessie |
+| 993 | 175 | Leslie Ramos |
+| 994 | 174 | Bridget Reilly |
+| 995 | 174 | Michelle Michelle |
 | 996 | 174 | Stacey Heartful |
 | 997 | 174 | Witty Fitblock |
 | 998 | 174 | Eddie Fuller |
-| 999 | 173 | Lizard |
-| 1000 | 173 | Rio Rumble |
-| 1001 | 173 | Shavondelia Williams |
+| 999 | 173 | Rio Rumble |
+| 1000 | 173 | Shavondelia Williams |
+| 1001 | 173 | Lizard |
 | 1002 | 173 | FUNBAT |
 | 1003 | 173 | Ana Ruiz |
 | 1004 | 173 | Tarsha Thomas-Martinez |
@@ -1017,13 +1017,13 @@
 | 1009 | 171 | Miranda Brown |
 | 1010 | 170 | Marisela Alvarado |
 | 1011 | 170 | Breezy Brickfit |
-| 1012 | 170 | LaRue Tee |
-| 1013 | 170 | Christina Hagan |
-| 1014 | 170 | Aleta Svitak |
-| 1015 | 169 | Loony Dashgrid |
-| 1016 | 169 | Jolly Fitblock |
-| 1017 | 169 | Chill Rollpiece |
-| 1018 | 169 | Jt Home |
+| 1012 | 170 | Christina Hagan |
+| 1013 | 170 | Aleta Svitak |
+| 1014 | 170 | LaRue Tee |
+| 1015 | 169 | Jolly Fitblock |
+| 1016 | 169 | Loony Dashgrid |
+| 1017 | 169 | Jt Home |
+| 1018 | 169 | Chill Rollpiece |
 | 1019 | 169 | Giggy Snapgrid |
 | 1020 | 169 | Snappy Fill |
 | 1021 | 168 | SandyEva |
