@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:59:26 UTC
+# Standings for team4 as of 2026-06-11 09:00:43 UTC
 
 **Total Participants:** 2505
 
@@ -159,10 +159,10 @@
 | 151 | 1087 | Loony Glidepiece |
 | 152 | 1073 | Anthony Lewis |
 | 153 | 1070 | Scamp Jones |
-| 154 | 1057 | Heather Preston |
-| 155 | 1055 | Jenn Norcross |
-| 156 | 1053 | Keesha Muro |
-| 157 | 1038 | Principal Liz |
+| 154 | 1058 | Principal Liz |
+| 155 | 1057 | Heather Preston |
+| 156 | 1055 | Jenn Norcross |
+| 157 | 1053 | Keesha Muro |
 | 158 | 1033 | Daryn Elliott |
 | 159 | 1030 | Gorica Prusina |
 | 160 | 1028 | Alex Armour |
@@ -540,66 +540,66 @@
 | 532 | 337 | Happy Puzzle |
 | 533 | 336 | Cozy Patternbuilder |
 | 534 | 335 | CrashOutCarla |
-| 535 | 334 | Chonda OhanaMomma Michelle |
-| 536 | 334 | Jen Smith |
-| 537 | 334 | Chirpy Spinzone |
+| 535 | 334 | Jen Smith |
+| 536 | 334 | Chirpy Spinzone |
+| 537 | 334 | Chonda OhanaMomma Michelle |
 | 538 | 334 | Cindy |
 | 539 | 333 | gabs |
 | 540 | 333 | Brendan Craven |
 | 541 | 332 | Missionary Meda |
-| 542 | 332 | LyvWyre |
-| 543 | 332 | Fancy Rollfit |
-| 544 | 332 | Matoka Shuford |
-| 545 | 332 | Jessica Jones Bolton |
-| 546 | 332 | Brandi Sauer |
+| 542 | 332 | Fancy Rollfit |
+| 543 | 332 | Jessica Jones Bolton |
+| 544 | 332 | Brandi Sauer |
+| 545 | 332 | Matoka Shuford |
+| 546 | 332 | LyvWyre |
 | 547 | 331 | Dubiousdust |
 | 548 | 331 | Lively Cascadebuilder |
 | 549 | 331 | Tiffany Smith |
 | 550 | 331 | Rosy Perez |
 | 551 | 330 | Destiny Starr LeValdo |
-| 552 | 330 | J.Wo |
-| 553 | 330 | Mammoth |
+| 552 | 330 | Mammoth |
+| 553 | 330 | J.Wo |
 | 554 | 329 | MrsReap |
 | 555 | 329 | ariel |
 | 556 | 328 | Jennifer Fisher Franklin |
 | 557 | 327 | my my |
 | 558 | 327 | Lisa Pie |
 | 559 | 327 | Kendall Rhodie |
-| 560 | 327 | Haylee Talkington |
-| 561 | 327 | Deborah Silberg |
-| 562 | 326 | Bonique Bier |
-| 563 | 326 | Dandy Cascade |
-| 564 | 326 | REPENT |
-| 565 | 325 | Donna Bush |
-| 566 | 325 | Ilia Blake |
-| 567 | 324 | Alexsandra Hill |
-| 568 | 324 | Frilly Zoney |
-| 569 | 324 | Sarah Leake |
-| 570 | 324 | Winter Moon |
-| 571 | 323 | Daniel Lossman |
-| 572 | 323 | Lacie Powers |
-| 573 | 321 | Casey Thomas |
-| 574 | 321 | Jerett Coplin |
-| 575 | 320 | EpicWizard |
-| 576 | 320 | Christina Barry |
-| 577 | 320 | Britney Kitora |
-| 578 | 320 | Butterfly |
-| 579 | 320 | Lovetetris |
-| 580 | 320 | Tesa Mike Jenkins |
-| 581 | 319 | Renita Jordan |
+| 560 | 327 | Deborah Silberg |
+| 561 | 327 | Karen Denise Ann Veitch |
+| 562 | 327 | Haylee Talkington |
+| 563 | 326 | Bonique Bier |
+| 564 | 326 | Dandy Cascade |
+| 565 | 326 | REPENT |
+| 566 | 325 | Donna Bush |
+| 567 | 325 | Ilia Blake |
+| 568 | 324 | Sarah Leake |
+| 569 | 324 | Alexsandra Hill |
+| 570 | 324 | Frilly Zoney |
+| 571 | 324 | Winter Moon |
+| 572 | 323 | Daniel Lossman |
+| 573 | 323 | Lacie Powers |
+| 574 | 321 | Casey Thomas |
+| 575 | 321 | Jerett Coplin |
+| 576 | 320 | EpicWizard |
+| 577 | 320 | Christina Barry |
+| 578 | 320 | Britney Kitora |
+| 579 | 320 | Butterfly |
+| 580 | 320 | Lovetetris |
+| 581 | 320 | Tesa Mike Jenkins |
 | 582 | 319 | JoAnn Summerlot Ratliff |
-| 583 | 319 | Rita Ann |
-| 584 | 318 | Shaunna Caldwell |
-| 585 | 318 | Valerie Marrero |
-| 586 | 317 | Chelsea Guajardo |
-| 587 | 317 | alxhue04 |
-| 588 | 317 | Elli Wright |
-| 589 | 317 | Stef |
-| 590 | 317 | crobb77 |
-| 591 | 317 | LaTanya GeminiondaRise Johnson |
-| 592 | 316 | Dawn Phelps |
-| 593 | 316 | Ashlee Lemus |
-| 594 | 315 | Karen Denise Ann Veitch |
+| 583 | 319 | Renita Jordan |
+| 584 | 319 | Rita Ann |
+| 585 | 318 | Shaunna Caldwell |
+| 586 | 318 | Valerie Marrero |
+| 587 | 317 | Elli Wright |
+| 588 | 317 | alxhue04 |
+| 589 | 317 | Chelsea Guajardo |
+| 590 | 317 | Stef |
+| 591 | 317 | crobb77 |
+| 592 | 317 | LaTanya GeminiondaRise Johnson |
+| 593 | 316 | Dawn Phelps |
+| 594 | 316 | Ashlee Lemus |
 | 595 | 315 | Littlebrat |
 | 596 | 315 | Travis McKinnon |
 | 597 | 315 | Thermeka Lindsey |
@@ -609,8 +609,8 @@
 | 601 | 314 | Ginny |
 | 602 | 313 | Scrumptious |
 | 603 | 313 | Gigi Ivicsics |
-| 604 | 312 | Shaneé Staunton |
-| 605 | 312 | Justin Sercu |
+| 604 | 312 | Justin Sercu |
+| 605 | 312 | Shaneé Staunton |
 | 606 | 312 | shonaberry |
 | 607 | 312 | Jj Johnson |
 | 608 | 311 | Nicole Colby McCloskey |
@@ -1435,49 +1435,49 @@
 | 1427 | 93 | Dorothy Mitchell |
 | 1428 | 93 | Snoopie Johnson |
 | 1429 | 93 | Rizzler26 |
-| 1430 | 92 | KingWing |
-| 1431 | 92 | Melissa |
-| 1432 | 92 | Bruce Hobbs |
-| 1433 | 92 | Chelsea Leann Lamb |
-| 1434 | 92 | Zappy Matchgrid |
-| 1435 | 91 | Funky Zonebuilder |
+| 1430 | 93 | nanaz86 |
+| 1431 | 92 | Zappy Matchgrid |
+| 1432 | 92 | KingWing |
+| 1433 | 92 | Melissa |
+| 1434 | 92 | Bruce Hobbs |
+| 1435 | 92 | Chelsea Leann Lamb |
 | 1436 | 91 | Calleen Ellen Madrigal |
 | 1437 | 91 | rick mase |
 | 1438 | 91 | aubz |
 | 1439 | 91 | A La |
 | 1440 | 91 | Lashae |
 | 1441 | 91 | Tina Louise |
-| 1442 | 90 | Nerdy Piecebuilder |
-| 1443 | 90 | Quirky Puzzler |
-| 1444 | 90 | Boldy Clicky |
-| 1445 | 90 | Snappy Glidebuilder |
-| 1446 | 90 | Sherri G Davis |
-| 1447 | 90 | Spunky Risegrid |
-| 1448 | 90 | Charles Chauffe |
-| 1449 | 90 | Monique Anne Edwards |
-| 1450 | 90 | STRay |
-| 1451 | 90 | Melissa Robinson |
-| 1452 | 90 | Brittany |
-| 1453 | 90 | Heather Griffin |
-| 1454 | 90 | Spidaman86 |
-| 1455 | 90 | Волна Бог |
-| 1456 | 89 | Bon Jovi |
-| 1457 | 89 | nanaz86 |
-| 1458 | 89 | Dawn Ferrin |
-| 1459 | 89 | Johnny Jeppesen |
-| 1460 | 89 | Bekka Walker |
-| 1461 | 89 | Ladybug |
-| 1462 | 89 | Aliyah Abdella |
-| 1463 | 88 | Happy Toast |
-| 1464 | 88 | Musky Pits |
-| 1465 | 88 | Hyper Towerfit |
-| 1466 | 88 | Glendala Whitewing |
-| 1467 | 88 | Chris Robertson |
-| 1468 | 88 | Ελενη Χολεβα |
-| 1469 | 88 | Jade Alley |
-| 1470 | 88 | Ryan Luperena |
-| 1471 | 88 | Tracy Ann Frederick |
-| 1472 | 88 | Cas Gio |
+| 1442 | 91 | Funky Zonebuilder |
+| 1443 | 90 | Heather Griffin |
+| 1444 | 90 | Spidaman86 |
+| 1445 | 90 | Волна Бог |
+| 1446 | 90 | Nerdy Piecebuilder |
+| 1447 | 90 | Quirky Puzzler |
+| 1448 | 90 | Boldy Clicky |
+| 1449 | 90 | Snappy Glidebuilder |
+| 1450 | 90 | Sherri G Davis |
+| 1451 | 90 | Spunky Risegrid |
+| 1452 | 90 | Charles Chauffe |
+| 1453 | 90 | Monique Anne Edwards |
+| 1454 | 90 | STRay |
+| 1455 | 90 | Melissa Robinson |
+| 1456 | 90 | Brittany |
+| 1457 | 89 | Johnny Jeppesen |
+| 1458 | 89 | Bekka Walker |
+| 1459 | 89 | Ladybug |
+| 1460 | 89 | Aliyah Abdella |
+| 1461 | 89 | Bon Jovi |
+| 1462 | 89 | Dawn Ferrin |
+| 1463 | 88 | Tracy Ann Frederick |
+| 1464 | 88 | Cas Gio |
+| 1465 | 88 | Happy Toast |
+| 1466 | 88 | Musky Pits |
+| 1467 | 88 | Hyper Towerfit |
+| 1468 | 88 | Glendala Whitewing |
+| 1469 | 88 | Chris Robertson |
+| 1470 | 88 | Ελενη Χολεβα |
+| 1471 | 88 | Jade Alley |
+| 1472 | 88 | Ryan Luperena |
 | 1473 | 87 | Speedy Brick |
 | 1474 | 87 | Audacious |
 | 1475 | 87 | Leslee Bentley DeLong |
