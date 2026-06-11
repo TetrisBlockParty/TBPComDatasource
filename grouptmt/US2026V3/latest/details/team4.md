@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 11:32:24 UTC
+# Standings for team4 as of 2026-06-11 11:33:24 UTC
 
 **Total Participants:** 2518
 
@@ -102,9 +102,9 @@
 | 94 | 1842 | Keg |
 | 95 | 1745 | Jessi Goodwin |
 | 96 | 1704 | Beee |
-| 97 | 1686 | SMV |
-| 98 | 1669 | Lupe Alburquerque |
-| 99 | 1655 | Leslie Ann Carter |
+| 97 | 1694 | Leslie Ann Carter |
+| 98 | 1686 | SMV |
+| 99 | 1669 | Lupe Alburquerque |
 | 100 | 1644 | Chris Covington |
 | 101 | 1624 | Chaz Duncan |
 | 102 | 1616 | Giggy Matchpiece |
@@ -338,12 +338,12 @@
 | 330 | 545 | Bobbie Harrell |
 | 331 | 540 | Shy |
 | 332 | 540 | Goofy Fall |
-| 333 | 538 | Tawna Curry |
-| 334 | 537 | Sarah Perry Cook |
-| 335 | 537 | Kaash Brxtt |
-| 336 | 533 | Corey Jackson |
-| 337 | 532 | Clever Brickzone |
-| 338 | 530 | Knijur Callins |
+| 333 | 540 | Knijur Callins |
+| 334 | 538 | Tawna Curry |
+| 335 | 537 | Sarah Perry Cook |
+| 336 | 537 | Kaash Brxtt |
+| 337 | 533 | Corey Jackson |
+| 338 | 532 | Clever Brickzone |
 | 339 | 529 | Glitzy Patternbuilder |
 | 340 | 526 | Kea Sushi |
 | 341 | 520 | Rachel Mae Kubes |
@@ -391,13 +391,13 @@
 | 383 | 469 | Groovy Cluster |
 | 384 | 466 | Shepreneur Sade |
 | 385 | 465 | Joab Gonzalez |
-| 386 | 463 | Flashy Shatterer |
-| 387 | 462 | BusterBear56 |
-| 388 | 462 | Tanita Jobe |
-| 389 | 462 | Poppy |
-| 390 | 461 | Ash Gribble |
-| 391 | 461 | Kayla Fuentes |
-| 392 | 460 | farfromlocal |
+| 386 | 463 | farfromlocal |
+| 387 | 463 | Flashy Shatterer |
+| 388 | 462 | BusterBear56 |
+| 389 | 462 | Tanita Jobe |
+| 390 | 462 | Poppy |
+| 391 | 461 | Ash Gribble |
+| 392 | 461 | Kayla Fuentes |
 | 393 | 460 | Shmeedo |
 | 394 | 460 | Holly Wessel |
 | 395 | 460 | Snow77white |
@@ -988,70 +988,70 @@
 | 980 | 188 | LaRue Tee |
 | 981 | 188 | Andy Petersen |
 | 982 | 188 | Chirpy Dashfit |
-| 983 | 187 | Krystal Simpson |
-| 984 | 187 | YenSid |
-| 985 | 186 | Quirky Shatterblock |
-| 986 | 186 | Diqthot |
-| 987 | 186 | Phredda Helene Gavornik |
+| 983 | 187 | YenSid |
+| 984 | 187 | Krystal Simpson |
+| 985 | 186 | Phredda Helene Gavornik |
+| 986 | 186 | Quirky Shatterblock |
+| 987 | 186 | Diqthot |
 | 988 | 185 | Dannie Ems |
 | 989 | 185 | Hooti Smile |
 | 990 | 184 | RustyMaster40 |
-| 991 | 184 | Amanda Lynn Robinson |
-| 992 | 184 | Witty Fitblock |
+| 991 | 184 | Witty Fitblock |
+| 992 | 184 | Amanda Lynn Robinson |
 | 993 | 183 | Mar Mar |
-| 994 | 182 | Lori A Hamann |
-| 995 | 182 | Patsy |
-| 996 | 182 | TheazO |
-| 997 | 182 | Vicente Bolaños Jr. |
-| 998 | 181 | Scott If |
+| 994 | 183 | Lizard |
+| 995 | 182 | TheazO |
+| 996 | 182 | Patsy |
+| 997 | 182 | Lori A Hamann |
+| 998 | 182 | Vicente Bolaños Jr. |
 | 999 | 181 | SueSally |
-| 1000 | 181 | Elise Ann |
-| 1001 | 180 | Melissa Wilson |
-| 1002 | 180 | Wyatt Karren |
-| 1003 | 180 | Kristie McFarland |
-| 1004 | 180 | Rodger Lines |
+| 1000 | 181 | Scott If |
+| 1001 | 181 | Elise Ann |
+| 1002 | 180 | Kristie McFarland |
+| 1003 | 180 | Rodger Lines |
+| 1004 | 180 | Wyatt Karren |
 | 1005 | 180 | Silly Rollbuilder |
-| 1006 | 180 | Charissa W Walton |
-| 1007 | 180 | George Marshburn |
-| 1008 | 180 | Krista Diaz |
-| 1009 | 180 | Hotstuff |
-| 1010 | 180 | Glamorous Gracey |
-| 1011 | 179 | Amber Torres |
-| 1012 | 179 | idk240 |
+| 1006 | 180 | Melissa Wilson |
+| 1007 | 180 | Charissa W Walton |
+| 1008 | 180 | George Marshburn |
+| 1009 | 180 | Krista Diaz |
+| 1010 | 180 | Hotstuff |
+| 1011 | 180 | Glamorous Gracey |
+| 1012 | 179 | Dru Lui |
 | 1013 | 179 | Goddatbat |
-| 1014 | 179 | Dru Lui |
-| 1015 | 178 | Renzo Tonini |
+| 1014 | 179 | idk240 |
+| 1015 | 179 | Amber Torres |
 | 1016 | 178 | Rin |
-| 1017 | 178 | Jacqueline Arce |
-| 1018 | 178 | Krazylegzzzz |
-| 1019 | 177 | Lionel Hampton |
-| 1020 | 177 | Gualberto Ramirez |
+| 1017 | 178 | Krazylegzzzz |
+| 1018 | 178 | Jacqueline Arce |
+| 1019 | 178 | Renzo Tonini |
+| 1020 | 177 | Lionel Hampton |
 | 1021 | 177 | Happy Filler |
-| 1022 | 176 | Keisha Petway |
-| 1023 | 176 | Rocky |
-| 1024 | 176 | Keith Kosmicki |
-| 1025 | 176 | Rio Rumble |
-| 1026 | 175 | Leslie Ramos |
-| 1027 | 175 | Mari Isaac |
-| 1028 | 175 | JustLessie |
-| 1029 | 174 | Kay |
-| 1030 | 174 | Giggly Stackbuilder |
-| 1031 | 174 | Bridget Reilly |
+| 1022 | 177 | Gualberto Ramirez |
+| 1023 | 176 | Keisha Petway |
+| 1024 | 176 | Rocky |
+| 1025 | 176 | Keith Kosmicki |
+| 1026 | 176 | Rio Rumble |
+| 1027 | 175 | Leslie Ramos |
+| 1028 | 175 | Mari Isaac |
+| 1029 | 175 | JustLessie |
+| 1030 | 174 | Bridget Reilly |
+| 1031 | 174 | Giggly Stackbuilder |
 | 1032 | 174 | Michelle Michelle |
-| 1033 | 173 | Tarsha Thomas-Martinez |
-| 1034 | 173 | Shavondelia Williams |
-| 1035 | 173 | Littleshark |
+| 1033 | 174 | Kay |
+| 1034 | 173 | Jazzy Brickfit |
+| 1035 | 173 | Tarsha Thomas-Martinez |
 | 1036 | 173 | FUNBAT |
-| 1037 | 173 | Lizard |
-| 1038 | 173 | Jazzy Brickfit |
+| 1037 | 173 | Shavondelia Williams |
+| 1038 | 173 | Littleshark |
 | 1039 | 173 | Ana Ruiz |
 | 1040 | 172 | Stuart Crosby |
-| 1041 | 172 | Erica Hardwick |
-| 1042 | 172 | Chelsea Pigg |
+| 1041 | 172 | Chelsea Pigg |
+| 1042 | 172 | Erica Hardwick |
 | 1043 | 172 | Ramona Rosado |
-| 1044 | 171 | Fancy Riser |
+| 1044 | 171 | Miranda Brown |
 | 1045 | 171 | Baby cat |
-| 1046 | 171 | Miranda Brown |
+| 1046 | 171 | Fancy Riser |
 | 1047 | 170 | Breezy Brickfit |
 | 1048 | 170 | Christina Hagan |
 | 1049 | 170 | Marisela Alvarado |

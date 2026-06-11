@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 11:32:24 UTC
+# Standings for team2 as of 2026-06-11 11:33:24 UTC
 
 **Total Participants:** 2948
 
@@ -222,16 +222,16 @@
 | 214 | 962 | Lashanda Bertram |
 | 215 | 954 | Fudgie Pie |
 | 216 | 952 | Havik Whitfield |
-| 217 | 948 | Sara Perkins |
-| 218 | 945 | Michelle Luke Banta |
-| 219 | 943 | Flashy Twistline |
-| 220 | 942 | Snappy Combo |
-| 221 | 940 | Mouh Med |
-| 222 | 936 | Katrien |
-| 223 | 934 | Amanda Sikes |
-| 224 | 932 | Lori Whitman |
-| 225 | 931 | Sandy Lynn |
-| 226 | 928 | Crystal Allen |
+| 217 | 948 | Crystal Allen |
+| 218 | 948 | Sara Perkins |
+| 219 | 945 | Michelle Luke Banta |
+| 220 | 943 | Flashy Twistline |
+| 221 | 942 | Snappy Combo |
+| 222 | 940 | Mouh Med |
+| 223 | 936 | Katrien |
+| 224 | 934 | Amanda Sikes |
+| 225 | 932 | Lori Whitman |
+| 226 | 931 | Sandy Lynn |
 | 227 | 927 | SEH |
 | 228 | 926 | Melissa Nash |
 | 229 | 924 | Nettrainer |
@@ -264,14 +264,14 @@
 | 256 | 850 | Jamie Jones |
 | 257 | 849 | Brandi Thompson |
 | 258 | 846 | Steven Craig |
-| 259 | 842 | Becca Marie |
-| 260 | 842 | Kevin Mccoy |
-| 261 | 840 | Frisky Tiltgrid |
-| 262 | 837 | Janice |
-| 263 | 835 | Wacky Rollbuilder |
-| 264 | 831 | Sandra Ruiz |
-| 265 | 827 | SilentBuffalo |
-| 266 | 825 | Michelle Hicks |
+| 259 | 845 | Michelle Hicks |
+| 260 | 842 | Becca Marie |
+| 261 | 842 | Kevin Mccoy |
+| 262 | 840 | Frisky Tiltgrid |
+| 263 | 837 | Janice |
+| 264 | 835 | Wacky Rollbuilder |
+| 265 | 831 | Sandra Ruiz |
+| 266 | 827 | SilentBuffalo |
 | 267 | 824 | Twisty Buildgrid |
 | 268 | 824 | Mom |
 | 269 | 822 | Gabrielle Wilson |
@@ -1680,79 +1680,79 @@
 | 1672 | 102 | Flashy Blockfall |
 | 1673 | 102 | Becki Lynne Corinthos |
 | 1674 | 102 | Josie Mendivil |
-| 1675 | 101 | Kathryn N Heather Todd |
-| 1676 | 101 | Em |
-| 1677 | 101 | Cynthia Dawn Reitz Hanson |
-| 1678 | 101 | Jenifer Seeley |
-| 1679 | 101 | Happy Wipeout |
-| 1680 | 101 | Cate Imel |
-| 1681 | 101 | Kristen Alta |
-| 1682 | 100 | Angiela Hope Boggs |
-| 1683 | 100 | Steve Appel |
-| 1684 | 100 | Bubbly Risebuilder |
-| 1685 | 100 | Giggy Balancefit |
-| 1686 | 100 | Stephania Edwards |
+| 1675 | 101 | Cynthia Dawn Reitz Hanson |
+| 1676 | 101 | Jenifer Seeley |
+| 1677 | 101 | Em |
+| 1678 | 101 | Cate Imel |
+| 1679 | 101 | Kathryn N Heather Todd |
+| 1680 | 101 | Kristen Alta |
+| 1681 | 101 | Happy Wipeout |
+| 1682 | 100 | Stephania Edwards |
+| 1683 | 100 | Angiela Hope Boggs |
+| 1684 | 100 | Steve Appel |
+| 1685 | 100 | Bubbly Risebuilder |
+| 1686 | 100 | Giggy Balancefit |
 | 1687 | 100 | Carrie Wilcox |
-| 1688 | 100 | Dysty |
-| 1689 | 100 | Kaylyn Wickham |
-| 1690 | 100 | Jason Guy |
+| 1688 | 100 | Jason Guy |
+| 1689 | 100 | Dysty |
+| 1690 | 100 | Kaylyn Wickham |
 | 1691 | 100 | Dizzy Dropzone |
 | 1692 | 100 | Justin Furne |
 | 1693 | 99 | Lorrie Girardi |
 | 1694 | 99 | LaicoosBargains Ln |
-| 1695 | 98 | Zach Walkup |
-| 1696 | 98 | lojo |
-| 1697 | 98 | Dawnie Rodarte |
+| 1695 | 98 | Rashae Sheets |
+| 1696 | 98 | Zach Walkup |
+| 1697 | 98 | lojo |
 | 1698 | 98 | Tracy G Ragsdale |
-| 1699 | 98 | Rashae Sheets |
+| 1699 | 98 | Dawnie Rodarte |
 | 1700 | 97 | Angela Knighton |
 | 1701 | 97 | Bowerhouse |
 | 1702 | 97 | Adri Perez |
 | 1703 | 97 | Dani Newton |
 | 1704 | 96 | Mike Honcho |
-| 1705 | 96 | Amy Walker |
-| 1706 | 96 | Beverly-Jo Peterson |
-| 1707 | 96 | Kerri Bear |
-| 1708 | 96 | Zippy Blockmatch |
-| 1709 | 96 | ktabzz |
-| 1710 | 96 | Kevin Perez |
-| 1711 | 96 | Ryan |
+| 1705 | 96 | ktabzz |
+| 1706 | 96 | Ryan |
+| 1707 | 96 | Amy Walker |
+| 1708 | 96 | Beverly-Jo Peterson |
+| 1709 | 96 | Kerri Bear |
+| 1710 | 96 | Zippy Blockmatch |
+| 1711 | 96 | Kevin Perez |
 | 1712 | 95 | Perky Patternbuilder |
-| 1713 | 95 | Angie Barlow |
-| 1714 | 95 | Jstang |
-| 1715 | 95 | Tonya Marino |
-| 1716 | 95 | Lexi Chouinard |
-| 1717 | 94 | Dixie Wilson |
-| 1718 | 94 | Loony Shatter |
-| 1719 | 94 | Jewels |
-| 1720 | 94 | Taran Evans |
-| 1721 | 94 | Brenda Leonard |
+| 1713 | 95 | Dixie Wilson |
+| 1714 | 95 | Angie Barlow |
+| 1715 | 95 | Jstang |
+| 1716 | 95 | Tonya Marino |
+| 1717 | 95 | Lexi Chouinard |
+| 1718 | 94 | Jewels |
+| 1719 | 94 | Brenda Leonard |
+| 1720 | 94 | Loony Shatter |
+| 1721 | 94 | Taran Evans |
 | 1722 | 94 | Isiwin |
 | 1723 | 93 | Mataya |
-| 1724 | 93 | Antle Jeff |
+| 1724 | 93 | Kandie Warren |
 | 1725 | 93 | Zappy Pivotfall |
-| 1726 | 93 | Kandie Warren |
-| 1727 | 93 | Jeremiah Cardell |
-| 1728 | 93 | Collins |
-| 1729 | 93 | Lezley Hawkins |
+| 1726 | 93 | Collins |
+| 1727 | 93 | Lezley Hawkins |
+| 1728 | 93 | Jeremiah Cardell |
+| 1729 | 93 | Antle Jeff |
 | 1730 | 93 | Bethany Nestor |
 | 1731 | 93 | Brandy Wallace |
 | 1732 | 93 | Connie Breeden |
 | 1733 | 92 | Pleaze Marshall |
 | 1734 | 92 | Buddy |
-| 1735 | 92 | Sami Amato |
-| 1736 | 92 | Mindy Corriher |
-| 1737 | 92 | Jodi Deninno |
-| 1738 | 92 | Jayda Walters |
-| 1739 | 91 | Witty Grid |
-| 1740 | 91 | Amanda Pilcher |
-| 1741 | 91 | Groovy Mover |
-| 1742 | 91 | Ali |
-| 1743 | 91 | Courtney Joy Dustrude |
-| 1744 | 91 | Epic Glide |
-| 1745 | 91 | Jara Zavala |
-| 1746 | 91 | Christina Sheldon |
-| 1747 | 91 | Brittany Russell |
+| 1735 | 92 | Jodi Deninno |
+| 1736 | 92 | Sami Amato |
+| 1737 | 92 | Jayda Walters |
+| 1738 | 92 | Mindy Corriher |
+| 1739 | 91 | Groovy Mover |
+| 1740 | 91 | Witty Grid |
+| 1741 | 91 | Amanda Pilcher |
+| 1742 | 91 | Epic Glide |
+| 1743 | 91 | Jara Zavala |
+| 1744 | 91 | Ali |
+| 1745 | 91 | Courtney Joy Dustrude |
+| 1746 | 91 | Brittany Russell |
+| 1747 | 91 | Christina Sheldon |
 | 1748 | 90 | Jenn Wittkamp |
 | 1749 | 90 | Rob Miller |
 | 1750 | 90 | Latrell Thomas |
