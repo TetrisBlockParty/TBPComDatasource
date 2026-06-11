@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:58:47 UTC
+# Standings for team2 as of 2026-06-11 08:59:26 UTC
 
 **Total Participants:** 2937
 
@@ -972,35 +972,35 @@
 | 964 | 234 | Christine James |
 | 965 | 234 | Princess Cucumber |
 | 966 | 233 | Dayna Messer-Thelen |
-| 967 | 233 | Andrea Rawson |
-| 968 | 233 | YAKO |
-| 969 | 233 | Jaimie Waybill |
-| 970 | 233 | Diane Byrd |
-| 971 | 232 | Tammy Roth |
-| 972 | 231 | Flashy Wipegrid |
-| 973 | 231 | Loony Clearpiece |
-| 974 | 230 | Sara Moericke |
-| 975 | 230 | Crystal Logan |
-| 976 | 229 | Tabitha Ann Bullins-Cobb |
-| 977 | 229 | Fluffypuffin |
-| 978 | 228 | Berta Hurley |
-| 979 | 228 | Jennifer Bromeisl-Tettam |
-| 980 | 228 | zippity |
-| 981 | 228 | Michele Plunkett |
-| 982 | 227 | James Maness |
-| 983 | 227 | Boo Boo Binx |
-| 984 | 226 | Chris |
-| 985 | 226 | Valeri Bradley |
-| 986 | 226 | Teea Makensi Meyer |
-| 987 | 225 | Chad Atchley |
-| 988 | 225 | Carmina Truoiolo |
-| 989 | 225 | Michael Saunders |
-| 990 | 225 | Stephen Gillam |
-| 991 | 224 | Staci Walker |
-| 992 | 224 | Melissa Abbott |
-| 993 | 223 | Hillary Frank |
-| 994 | 223 | Harley Watkins |
-| 995 | 223 | Terie Safrit |
+| 967 | 233 | Diane Byrd |
+| 968 | 233 | Andrea Rawson |
+| 969 | 233 | Terie Safrit |
+| 970 | 233 | YAKO |
+| 971 | 233 | Jaimie Waybill |
+| 972 | 232 | Tammy Roth |
+| 973 | 231 | Flashy Wipegrid |
+| 974 | 231 | Loony Clearpiece |
+| 975 | 230 | Sara Moericke |
+| 976 | 230 | Crystal Logan |
+| 977 | 229 | Tabitha Ann Bullins-Cobb |
+| 978 | 229 | Fluffypuffin |
+| 979 | 228 | Berta Hurley |
+| 980 | 228 | Jennifer Bromeisl-Tettam |
+| 981 | 228 | zippity |
+| 982 | 228 | Michele Plunkett |
+| 983 | 227 | James Maness |
+| 984 | 227 | Boo Boo Binx |
+| 985 | 226 | Chris |
+| 986 | 226 | Valeri Bradley |
+| 987 | 226 | Teea Makensi Meyer |
+| 988 | 225 | Chad Atchley |
+| 989 | 225 | Carmina Truoiolo |
+| 990 | 225 | Michael Saunders |
+| 991 | 225 | Stephen Gillam |
+| 992 | 224 | Staci Walker |
+| 993 | 224 | Melissa Abbott |
+| 994 | 223 | Hillary Frank |
+| 995 | 223 | Harley Watkins |
 | 996 | 223 | Kevin Patrick |
 | 997 | 222 | candi |
 | 998 | 222 | Kendra Sullins |

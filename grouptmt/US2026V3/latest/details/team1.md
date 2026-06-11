@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:58:47 UTC
+# Standings for team1 as of 2026-06-11 08:59:26 UTC
 
 **Total Participants:** 2467
 
@@ -1325,40 +1325,40 @@
 | 1317 | 103 | Arnold Hamilton |
 | 1318 | 103 | BigMike |
 | 1319 | 102 | Chip |
-| 1320 | 101 | Duane Thomas Lmt |
+| 1320 | 101 | Ryan Holm |
 | 1321 | 101 | Frothy Snapmatch |
-| 1322 | 101 | Ryan Holm |
-| 1323 | 100 | Sugar Foot |
-| 1324 | 100 | Megan Payette |
-| 1325 | 100 | Jamie Mclean |
-| 1326 | 100 | Warren Miller |
-| 1327 | 100 | Stefan Flick Man |
-| 1328 | 100 | Jeaneé Nay |
-| 1329 | 100 | Oldheads |
-| 1330 | 100 | Alison Emmons |
-| 1331 | 100 | Thomas Pearson |
-| 1332 | 99 | don ralph |
-| 1333 | 99 | TiffanyG |
+| 1322 | 101 | Duane Thomas Lmt |
+| 1323 | 100 | Jeaneé Nay |
+| 1324 | 100 | Thomas Pearson |
+| 1325 | 100 | Butta |
+| 1326 | 100 | Alison Emmons |
+| 1327 | 100 | Oldheads |
+| 1328 | 100 | Stefan Flick Man |
+| 1329 | 100 | Warren Miller |
+| 1330 | 100 | Jamie Mclean |
+| 1331 | 100 | Megan Payette |
+| 1332 | 100 | Sugar Foot |
+| 1333 | 99 | don ralph |
 | 1334 | 99 | Tellisa Payne |
-| 1335 | 99 | Kechie Johnson |
+| 1335 | 99 | TiffanyG |
 | 1336 | 99 | DeShonna Bailey |
-| 1337 | 98 | Leon Matthew Williams |
+| 1337 | 99 | Kechie Johnson |
 | 1338 | 98 | Mighty plantlady |
 | 1339 | 98 | OG LUCKY |
-| 1340 | 98 | Azeiare Ziare |
-| 1341 | 98 | Crafty Link |
-| 1342 | 98 | Chinkey Overit |
-| 1343 | 98 | Kallsign |
+| 1340 | 98 | Kallsign |
+| 1341 | 98 | Chinkey Overit |
+| 1342 | 98 | Crafty Link |
+| 1343 | 98 | Leon Matthew Williams |
 | 1344 | 98 | Tony P Burke |
-| 1345 | 97 | Butta |
+| 1345 | 98 | Azeiare Ziare |
 | 1346 | 97 | Derek Beverly |
-| 1347 | 97 | Kevin Turner |
-| 1348 | 97 | 1ofaking |
+| 1347 | 97 | 1ofaking |
+| 1348 | 97 | Kevin Turner |
 | 1349 | 97 | Denise Cunningham-English |
-| 1350 | 96 | Kevin Witdaflute |
-| 1351 | 96 | Just2Play$ |
-| 1352 | 96 | Linda Lasha Messenger |
-| 1353 | 96 | Giggly Shatterline |
+| 1350 | 96 | Just2Play$ |
+| 1351 | 96 | Giggly Shatterline |
+| 1352 | 96 | Kevin Witdaflute |
+| 1353 | 96 | Linda Lasha Messenger |
 | 1354 | 96 | Jason Riley |
 | 1355 | 96 | Peppy Shatterblock |
 | 1356 | 95 | Teresa Bean |
@@ -1929,52 +1929,52 @@
 | 1921 | 34 | beeutifullll |
 | 1922 | 34 | Plucky Clearpiece |
 | 1923 | 34 | Dazee Rogers |
-| 1924 | 33 | Kim Ratcliff Leatherman |
-| 1925 | 33 | Koz176 |
-| 1926 | 33 | BigDawg Lessley |
+| 1924 | 33 | BigDawg Lessley |
+| 1925 | 33 | Neesii |
+| 1926 | 33 | Kim Ratcliff Leatherman |
 | 1927 | 33 | Brianna Floyd |
-| 1928 | 32 | Wx_Birdie |
-| 1929 | 32 | Betty Joe Lemberg |
-| 1930 | 32 | Janie Helton |
-| 1931 | 32 | Tiffany Ali Shaw |
-| 1932 | 32 | Van Cunning |
-| 1933 | 32 | Shericka Taylor |
-| 1934 | 32 | Jädaa Laa'Destïnyy |
-| 1935 | 32 | Tiara Hitchcock |
-| 1936 | 32 | Shalyn Law |
+| 1928 | 33 | Koz176 |
+| 1929 | 32 | Tiffany Ali Shaw |
+| 1930 | 32 | Shalyn Law |
+| 1931 | 32 | Wx_Birdie |
+| 1932 | 32 | Betty Joe Lemberg |
+| 1933 | 32 | Janie Helton |
+| 1934 | 32 | Van Cunning |
+| 1935 | 32 | Shericka Taylor |
+| 1936 | 32 | Melissa Embrey |
 | 1937 | 32 | Tasha Stuckey |
-| 1938 | 32 | Melissa Embrey |
-| 1939 | 31 | EchoQuirky Blockclear |
-| 1940 | 31 | Kelly Darty |
-| 1941 | 31 | Emily Burgoon |
-| 1942 | 31 | Otavia Gordon |
-| 1943 | 31 | Zippy Slammer |
+| 1938 | 32 | Jädaa Laa'Destïnyy |
+| 1939 | 32 | Tiara Hitchcock |
+| 1940 | 31 | EchoQuirky Blockclear |
+| 1941 | 31 | Otavia Gordon |
+| 1942 | 31 | Kelly Darty |
+| 1943 | 31 | Emily Burgoon |
 | 1944 | 31 | Jennifer Diamond |
 | 1945 | 31 | Edward Hickmon |
-| 1946 | 30 | PS |
-| 1947 | 30 | Tipsy Tilt |
+| 1946 | 31 | Zippy Slammer |
+| 1947 | 30 | Grace Page |
 | 1948 | 30 | Moneke Randolph |
-| 1949 | 30 | Myca Cooper |
-| 1950 | 30 | Dee |
-| 1951 | 30 | Grace Page |
-| 1952 | 30 | DeJuan BD |
-| 1953 | 30 | Annette DeLoatch Thompson |
-| 1954 | 30 | Chavez James |
-| 1955 | 30 | Cool Rumbler |
+| 1949 | 30 | DeJuan BD |
+| 1950 | 30 | Myca Cooper |
+| 1951 | 30 | Dee |
+| 1952 | 30 | Annette DeLoatch Thompson |
+| 1953 | 30 | Tipsy Tilt |
+| 1954 | 30 | PS |
+| 1955 | 30 | Cucumber |
 | 1956 | 30 | Jeanne Bitner |
-| 1957 | 30 | Cierra Banks |
-| 1958 | 30 | Bob Bon |
-| 1959 | 30 | DRIFTER |
-| 1960 | 30 | Biggie Cheeze |
-| 1961 | 30 | Dremer Clark |
-| 1962 | 30 | Charlean Sims |
-| 1963 | 30 | Edward Hackett |
-| 1964 | 30 | Cucumber |
-| 1965 | 30 | Dora Greer |
-| 1966 | 29 | Chris Davidson |
-| 1967 | 29 | Neesii |
-| 1968 | 29 | Cheeky Tiltbuilder |
-| 1969 | 29 | Swanky Linkmatch |
+| 1957 | 30 | Cool Rumbler |
+| 1958 | 30 | Dora Greer |
+| 1959 | 30 | Cierra Banks |
+| 1960 | 30 | Bob Bon |
+| 1961 | 30 | DRIFTER |
+| 1962 | 30 | Biggie Cheeze |
+| 1963 | 30 | Chavez James |
+| 1964 | 30 | Dremer Clark |
+| 1965 | 30 | Charlean Sims |
+| 1966 | 30 | Edward Hackett |
+| 1967 | 29 | Cheeky Tiltbuilder |
+| 1968 | 29 | Swanky Linkmatch |
+| 1969 | 29 | Chris Davidson |
 | 1970 | 29 | Everett Semmions |
 | 1971 | 29 | Candice Mayo |
 | 1972 | 29 | Macaroni Meechie Johnson |
