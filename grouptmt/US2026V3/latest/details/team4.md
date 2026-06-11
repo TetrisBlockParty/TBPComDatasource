@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:15:24 UTC
+# Standings for team4 as of 2026-06-11 15:16:24 UTC
 
 **Total Participants:** 2541
 
@@ -68,8 +68,8 @@
 | 60 | 3200 | 626 |
 | 61 | 3150 | Destiny Dyer |
 | 62 | 3135 | Amber Doyle |
-| 63 | 2800 | Caitlin Johnson |
-| 64 | 2800 | Annastaissia Todd |
+| 63 | 2800 | Annastaissia Todd |
+| 64 | 2800 | Caitlin Johnson |
 | 65 | 2714 | Маркус Вік |
 | 66 | 2706 | Joseph Anthony Watkins |
 | 67 | 2610 | Tommy Bond |
@@ -144,9 +144,9 @@
 | 136 | 1272 | Trice Stevenson |
 | 137 | 1272 | Jesse Olive |
 | 138 | 1258 | Blayne Kole |
-| 139 | 1242 | Jason Garnatz |
-| 140 | 1236 | Hairy Snake |
-| 141 | 1233 | Alex Armour |
+| 139 | 1243 | Alex Armour |
+| 140 | 1242 | Jason Garnatz |
+| 141 | 1236 | Hairy Snake |
 | 142 | 1227 | shawna |
 | 143 | 1220 | Hardy Fuller |
 | 144 | 1210 | Wanda Simmons |
@@ -162,17 +162,17 @@
 | 154 | 1133 | Anthony Lewis |
 | 155 | 1123 | Tiffany Loree Tiffany Oneill |
 | 156 | 1117 | Heather Preston |
-| 157 | 1106 | Loony Towerer |
-| 158 | 1104 | Suzanne North |
+| 157 | 1107 | Suzanne North |
+| 158 | 1106 | Loony Towerer |
 | 159 | 1101 | Loony Glidepiece |
 | 160 | 1097 | Whitborn |
 | 161 | 1090 | Becky Doll-Hall |
 | 162 | 1080 | Linda Miltenburg |
 | 163 | 1070 | Scamp Jones |
 | 164 | 1067 | SupaFly |
-| 165 | 1059 | Keesha Muro |
-| 166 | 1050 | Poppy |
-| 167 | 1047 | Pepone Pepe |
+| 165 | 1067 | Pepone Pepe |
+| 166 | 1059 | Keesha Muro |
+| 167 | 1050 | Poppy |
 | 168 | 1035 | George Palacios |
 | 169 | 1033 | Daryn Elliott |
 | 170 | 1030 | Gorica Prusina |
@@ -197,8 +197,8 @@
 | 189 | 963 | Hwanger Land |
 | 190 | 953 | Tasha Suzanne Prisbrey |
 | 191 | 952 | Alala.Cersei |
-| 192 | 950 | Nicole Peoples |
-| 193 | 950 | Genag |
+| 192 | 950 | Genag |
+| 193 | 950 | Nicole Peoples |
 | 194 | 950 | Joyce Myers |
 | 195 | 946 | Lori Stembridge |
 | 196 | 944 | vag1974 |
@@ -230,20 +230,20 @@
 | 222 | 821 | Snippy Splitter |
 | 223 | 820 | Capone |
 | 224 | 815 | Megan Vick |
-| 225 | 813 | Tyson Stroppel |
-| 226 | 813 | Misty Leigh |
-| 227 | 811 | Kelly Howland |
+| 225 | 814 | Kelly Howland |
+| 226 | 813 | Tyson Stroppel |
+| 227 | 813 | Misty Leigh |
 | 228 | 806 | Gracie Ornelas |
 | 229 | 788 | Jackie Jackson |
 | 230 | 788 | Slinky Stackzone |
 | 231 | 781 | Vicki Adams |
 | 232 | 781 | Janet Sanfilippo Sullivan |
 | 233 | 778 | Suzanne Carter |
-| 234 | 776 | WeeWooWee |
-| 235 | 776 | Samantha Worley |
+| 234 | 776 | Samantha Worley |
+| 235 | 776 | WeeWooWee |
 | 236 | 774 | Katie Lynn Petit |
-| 237 | 773 | Danny Keich III |
-| 238 | 765 | iiPurgeV2 |
+| 237 | 774 | iiPurgeV2 |
+| 238 | 773 | Danny Keich III |
 | 239 | 761 | Tricia Motika Cowan |
 | 240 | 760 | Katie Martin |
 | 241 | 755 | Colin |
@@ -280,10 +280,10 @@
 | 272 | 659 | Krysten Danielle Richard |
 | 273 | 651 | QueenLi86 |
 | 274 | 651 | Dayna Arthurs |
-| 275 | 649 | Tina Thomas |
-| 276 | 648 | Tipsy Zonebuilder |
-| 277 | 646 | Dapper Strikerpiece |
-| 278 | 646 | Jacqueline Jackii Ramos |
+| 275 | 650 | Jacqueline Jackii Ramos |
+| 276 | 649 | Tina Thomas |
+| 277 | 648 | Tipsy Zonebuilder |
+| 278 | 646 | Dapper Strikerpiece |
 | 279 | 644 | Yesenia Castro Monreal |
 | 280 | 639 | Merritt Brandt |
 | 281 | 638 | Bryanna N Clark |
@@ -1124,47 +1124,47 @@
 | 1116 | 159 | Lawanda Mayze |
 | 1117 | 159 | Ali Garcia |
 | 1118 | 159 | Groovy Matchgrid |
-| 1119 | 158 | Lush Match |
-| 1120 | 158 | Lamont |
-| 1121 | 158 | gothicmisery |
-| 1122 | 157 | Loyalty83 |
-| 1123 | 157 | Marie Lily |
-| 1124 | 157 | Goofy Riserbuilder |
-| 1125 | 157 | Skylar Durk |
-| 1126 | 157 | CrystalP83 |
-| 1127 | 157 | Isabel Roman |
-| 1128 | 157 | NotAkaren Barker |
-| 1129 | 157 | Giggy Risegrid |
-| 1130 | 157 | Kahlie Grant |
-| 1131 | 156 | Bold Clear |
-| 1132 | 156 | Donny Keets |
-| 1133 | 155 | Ern |
-| 1134 | 155 | Donna Winget |
-| 1135 | 155 | Chris Somsen |
-| 1136 | 155 | Shayna Vaigneur-Hall |
-| 1137 | 155 | Frisky Pusher |
-| 1138 | 154 | Lady |
-| 1139 | 154 | La Ah Ox |
-| 1140 | 154 | Hhs Ffchh |
-| 1141 | 154 | Samantha Brandt |
-| 1142 | 153 | Kristen Hall |
-| 1143 | 153 | White As Snow |
-| 1144 | 153 | Giddy Brickline |
-| 1145 | 153 | Allrise99 |
-| 1146 | 153 | Groovy Linkmatch |
-| 1147 | 153 | Amber Bishop |
-| 1148 | 153 | Joyce Hampton |
-| 1149 | 153 | Melissa Anne |
-| 1150 | 152 | Dominique Miesha Smith |
-| 1151 | 152 | Chabetta |
-| 1152 | 151 | Jumpy Lifter |
-| 1153 | 151 | Jason Moves |
-| 1154 | 150 | Danielle Porter |
-| 1155 | 150 | h_chloe10 |
-| 1156 | 150 | William Brooks |
-| 1157 | 150 | MzCeleste Brooks |
-| 1158 | 150 | Cranky Twistpiece |
-| 1159 | 150 | Sonya |
+| 1119 | 159 | Sonya |
+| 1120 | 158 | Lush Match |
+| 1121 | 158 | Lamont |
+| 1122 | 158 | gothicmisery |
+| 1123 | 157 | Loyalty83 |
+| 1124 | 157 | Marie Lily |
+| 1125 | 157 | Goofy Riserbuilder |
+| 1126 | 157 | Skylar Durk |
+| 1127 | 157 | CrystalP83 |
+| 1128 | 157 | Isabel Roman |
+| 1129 | 157 | NotAkaren Barker |
+| 1130 | 157 | Giggy Risegrid |
+| 1131 | 157 | Kahlie Grant |
+| 1132 | 156 | Bold Clear |
+| 1133 | 156 | Donny Keets |
+| 1134 | 155 | Ern |
+| 1135 | 155 | Donna Winget |
+| 1136 | 155 | Chris Somsen |
+| 1137 | 155 | Shayna Vaigneur-Hall |
+| 1138 | 155 | Frisky Pusher |
+| 1139 | 154 | Lady |
+| 1140 | 154 | La Ah Ox |
+| 1141 | 154 | Hhs Ffchh |
+| 1142 | 154 | Samantha Brandt |
+| 1143 | 153 | Kristen Hall |
+| 1144 | 153 | White As Snow |
+| 1145 | 153 | Giddy Brickline |
+| 1146 | 153 | Allrise99 |
+| 1147 | 153 | Groovy Linkmatch |
+| 1148 | 153 | Amber Bishop |
+| 1149 | 153 | Joyce Hampton |
+| 1150 | 153 | Melissa Anne |
+| 1151 | 152 | Dominique Miesha Smith |
+| 1152 | 152 | Chabetta |
+| 1153 | 151 | Jumpy Lifter |
+| 1154 | 151 | Jason Moves |
+| 1155 | 150 | Danielle Porter |
+| 1156 | 150 | h_chloe10 |
+| 1157 | 150 | William Brooks |
+| 1158 | 150 | MzCeleste Brooks |
+| 1159 | 150 | Cranky Twistpiece |
 | 1160 | 149 | Natisha Bullock |
 | 1161 | 149 | LynDee Danielle Hankins |
 | 1162 | 149 | Krushie |
