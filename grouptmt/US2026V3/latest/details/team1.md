@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:42:25 UTC
+# Standings for team1 as of 2026-06-11 18:43:23 UTC
 
 **Total Participants:** 2519
 
@@ -19,7 +19,7 @@
 | 11 | 10972 | Charnay Peacock |
 | 12 | 10579 | Dyane Leah Ware |
 | 13 | 10075 | Songne Arif |
-| 14 | 9864 | Debbie Carswell |
+| 14 | 9870 | Debbie Carswell |
 | 15 | 9723 | Speedy Spinblock |
 | 16 | 8739 | Tracy Cohen |
 | 17 | 7986 | Cassidy Butler |
@@ -81,8 +81,8 @@
 | 73 | 2166 | Helen Smith |
 | 74 | 2157 | Louis Richard Jr |
 | 75 | 2154 | Chenell Gillard |
-| 76 | 2138 | Linzie Marie |
-| 77 | 2108 | Felicia Williams |
+| 76 | 2154 | Felicia Williams |
+| 77 | 2138 | Linzie Marie |
 | 78 | 2104 | Carolynne Walker-Bell |
 | 79 | 2103 | Bre Maugh |
 | 80 | 2103 | April Inboden |
@@ -104,7 +104,7 @@
 | 96 | 1870 | TAZ-MF-NIZIL |
 | 97 | 1869 | Crystal Boyd |
 | 98 | 1854 | Jessica Roberts |
-| 99 | 1780 | sha |
+| 99 | 1781 | sha |
 | 100 | 1766 | Tameka Jones |
 | 101 | 1756 | BYM4L |
 | 102 | 1742 | Roberta Lynn |
@@ -446,17 +446,17 @@
 | 438 | 452 | Jennah |
 | 439 | 451 | McKayla Owens |
 | 440 | 449 | Brittnay Wright |
-| 441 | 448 | Brand Nu |
-| 442 | 448 | Maribel Vasquez |
-| 443 | 447 | Kyra Coleman |
-| 444 | 447 | LiyaSkye |
+| 441 | 448 | Maribel Vasquez |
+| 442 | 448 | Brand Nu |
+| 443 | 447 | LiyaSkye |
+| 444 | 447 | Kyra Coleman |
 | 445 | 445 | Betsy B. Yohan |
 | 446 | 444 | Melanin Monroe-Dandridge |
 | 447 | 444 | kitten |
 | 448 | 443 | Tonia Ramos |
 | 449 | 443 | Chilly Wipebuilder |
-| 450 | 441 | LaTonya Myers |
-| 451 | 441 | Lyn Reed |
+| 450 | 441 | Lyn Reed |
+| 451 | 441 | LaTonya Myers |
 | 452 | 441 | Dennis J Herron II |
 | 453 | 440 | Carolyn Delphie |
 | 454 | 440 | C Lo Green |
@@ -467,78 +467,78 @@
 | 459 | 436 | MindlessMic |
 | 460 | 436 | Gbnola |
 | 461 | 434 | Saucy Faller |
-| 462 | 434 | Tajuana Juana'Cee Coleman |
-| 463 | 434 | Tosha Michelle |
-| 464 | 432 | blockman |
-| 465 | 431 | Bubbly Slammer |
-| 466 | 430 | SnazzyIvy |
-| 467 | 429 | RMGreen |
-| 468 | 428 | Jelyfish |
-| 469 | 425 | Jas |
-| 470 | 424 | Brittanie Wardlow |
-| 471 | 423 | Kimberly Anderson |
+| 462 | 434 | Tosha Michelle |
+| 463 | 434 | Tajuana Juana'Cee Coleman |
+| 464 | 433 | Crystal Cheresnowsky |
+| 465 | 432 | blockman |
+| 466 | 431 | Bubbly Slammer |
+| 467 | 430 | SnazzyIvy |
+| 468 | 429 | RMGreen |
+| 469 | 428 | Jelyfish |
+| 470 | 425 | Jas |
+| 471 | 424 | Brittanie Wardlow |
 | 472 | 423 | Holly Baker |
-| 473 | 422 | The DUBZ |
-| 474 | 421 | Juan Alvarez |
-| 475 | 420 | Glitzy Patternline |
-| 476 | 420 | Abby |
+| 473 | 423 | Kimberly Anderson |
+| 474 | 422 | The DUBZ |
+| 475 | 421 | Juan Alvarez |
+| 476 | 420 | Glitzy Patternline |
 | 477 | 420 | Ketrell Bailey |
-| 478 | 419 | FunTime |
-| 479 | 419 | Stephen Glaze |
-| 480 | 419 | Yadira Salgado |
-| 481 | 418 | Cortaz Lawrie |
-| 482 | 417 | John Staub |
-| 483 | 416 | Twisty Pivot |
-| 484 | 416 | Silly Edgepiece |
-| 485 | 415 | De'Nell Edwards |
-| 486 | 414 | Sammie Walker |
-| 487 | 414 | Giddy Staggerpiece |
-| 488 | 414 | Melissa D. M. Hornsby |
-| 489 | 413 | Lisa Fletcher |
-| 490 | 412 | Montego Allen |
-| 491 | 412 | Jessica Kirby |
-| 492 | 412 | Ashley MyBeauty Daniels |
-| 493 | 411 | Giggy Tower |
-| 494 | 410 | Salim Thugger |
-| 495 | 410 | Kimberly Linares Hernandez |
-| 496 | 409 | KeeKee Williams |
-| 497 | 409 | Still Ten Tay |
-| 498 | 408 | Michelle Fowler |
-| 499 | 405 | Sherry D Singleton |
-| 500 | 405 | Slinky Snapbuilder |
-| 501 | 403 | Brittany Fells |
+| 478 | 420 | Abby |
+| 479 | 419 | Yadira Salgado |
+| 480 | 419 | FunTime |
+| 481 | 419 | Stephen Glaze |
+| 482 | 418 | Cortaz Lawrie |
+| 483 | 417 | John Staub |
+| 484 | 416 | Twisty Pivot |
+| 485 | 416 | Silly Edgepiece |
+| 486 | 415 | De'Nell Edwards |
+| 487 | 414 | Melissa D. M. Hornsby |
+| 488 | 414 | Giddy Staggerpiece |
+| 489 | 414 | Sammie Walker |
+| 490 | 413 | Lisa Fletcher |
+| 491 | 412 | Ashley MyBeauty Daniels |
+| 492 | 412 | Montego Allen |
+| 493 | 412 | Jessica Kirby |
+| 494 | 411 | Giggy Tower |
+| 495 | 410 | Salim Thugger |
+| 496 | 410 | Kimberly Linares Hernandez |
+| 497 | 409 | KeeKee Williams |
+| 498 | 409 | Still Ten Tay |
+| 499 | 408 | Michelle Fowler |
+| 500 | 405 | Sherry D Singleton |
+| 501 | 405 | Slinky Snapbuilder |
 | 502 | 403 | Tesiree Cray |
-| 503 | 403 | Crystal Cheresnowsky |
+| 503 | 403 | Brittany Fells |
 | 504 | 402 | Trusi Rusi |
 | 505 | 401 | Cynda Cyn |
-| 506 | 400 | Christina Rebecca |
-| 507 | 400 | Sara Meri |
-| 508 | 400 | Bbyunicorn |
+| 506 | 400 | Sara Meri |
+| 507 | 400 | Bbyunicorn |
+| 508 | 400 | Christina Rebecca |
 | 509 | 399 | Kala LaRicka |
 | 510 | 398 | Kristine Marie Palmer |
 | 511 | 397 | Eric Spencer Whitaker |
 | 512 | 396 | Chirpy Buildgrid |
 | 513 | 396 | Jessie N Michael Silvers |
 | 514 | 396 | Aridevina |
-| 515 | 395 | Rachel |
-| 516 | 395 | Ysma Simmons |
+| 515 | 395 | Ysma Simmons |
+| 516 | 395 | Rachel |
 | 517 | 394 | Aaron Hartmann |
-| 518 | 393 | Shawn Himes |
-| 519 | 393 | Tonya Thomas |
-| 520 | 391 | whatever |
-| 521 | 391 | Shelly Everette |
+| 518 | 393 | Tonya Thomas |
+| 519 | 393 | Shawn Himes |
+| 520 | 391 | Shelly Everette |
+| 521 | 391 | whatever |
 | 522 | 391 | Stacy Nicole |
 | 523 | 390 | Daddy |
-| 524 | 390 | Nisha Sunshine Jenkins |
-| 525 | 390 | Jean Regis |
+| 524 | 390 | Jean Regis |
+| 525 | 390 | Nisha Sunshine Jenkins |
 | 526 | 388 | Tiffany Jean Hinson |
 | 527 | 387 | Richelle Beck |
 | 528 | 386 | Nona Harriel |
 | 529 | 384 | Breezy Catcher |
-| 530 | 383 | James Bryant II |
-| 531 | 383 | AF Cruz |
-| 532 | 383 | SweetByNBy |
-| 533 | 383 | Tina Sellars |
+| 530 | 383 | AF Cruz |
+| 531 | 383 | James Bryant II |
+| 532 | 383 | Tina Sellars |
+| 533 | 383 | SweetByNBy |
 | 534 | 382 | Kimmie Gargano |
 | 535 | 382 | Ryan Runyan |
 | 536 | 382 | Ann Chung |
@@ -1458,11 +1458,11 @@
 | 1450 | 88 | Brii Michelle Lamb |
 | 1451 | 88 | ImmeKC |
 | 1452 | 87 | Renee J. Thomas |
-| 1453 | 87 | Sandra Buller |
-| 1454 | 87 | Tahlia Nunez Williams |
-| 1455 | 87 | Natalie Burroughs |
-| 1456 | 87 | Ray Baker |
-| 1457 | 86 | Boldy Line |
+| 1453 | 87 | Boldy Line |
+| 1454 | 87 | Sandra Buller |
+| 1455 | 87 | Tahlia Nunez Williams |
+| 1456 | 87 | Natalie Burroughs |
+| 1457 | 87 | Ray Baker |
 | 1458 | 86 | rummy |
 | 1459 | 86 | GLO510 |
 | 1460 | 86 | Sunny Cascader |
@@ -1725,43 +1725,43 @@
 | 1717 | 54 | Maranda Broadway |
 | 1718 | 54 | Giggy Holder |
 | 1719 | 54 | MoneyMac |
-| 1720 | 54 | Zany Slice |
-| 1721 | 54 | Swanky Glidebuilder |
-| 1722 | 54 | Let Them |
-| 1723 | 54 | Ķïrãã Ďãvïss |
-| 1724 | 54 | Slinky Snaplink |
-| 1725 | 54 | DaShawntae Durham |
+| 1720 | 54 | Slinky Snaplink |
+| 1721 | 54 | George Snodgrass |
+| 1722 | 54 | Cranky Lifter |
+| 1723 | 54 | Giggly Cascader |
+| 1724 | 54 | Tiffany Sherman |
+| 1725 | 54 | Crafty |
 | 1726 | 54 | Ayeisha W |
-| 1727 | 54 | Crafty |
-| 1728 | 54 | Tiffany Sherman |
-| 1729 | 54 | George Snodgrass |
-| 1730 | 54 | Cranky Lifter |
-| 1731 | 54 | Giggly Cascader |
-| 1732 | 53 | Jennifer Nixon |
-| 1733 | 53 | Epic Basepiece |
-| 1734 | 53 | Michael Lindenlauf |
-| 1735 | 53 | Bubbly Base |
-| 1736 | 53 | Bubbly Rollout |
-| 1737 | 53 | Catherine McGowan |
-| 1738 | 53 | Lively Stagger |
-| 1739 | 53 | LS Jamison |
-| 1740 | 53 | Snippy Glidepiece |
-| 1741 | 53 | Sashaleo |
-| 1742 | 53 | Talya Richards |
-| 1743 | 53 | Jateerah Davis |
-| 1744 | 52 | Stephanie Scott |
-| 1745 | 52 | Loopy Risepiece |
-| 1746 | 52 | Giddy Twisterfit |
-| 1747 | 52 | MsBobby Patrick |
-| 1748 | 52 | Tiffanie Michelle |
-| 1749 | 52 | Ashley Horne |
-| 1750 | 52 | LCh Jessi |
-| 1751 | 52 | mimither |
-| 1752 | 52 | Valerie Kendrick |
-| 1753 | 51 | Beth Ingham |
-| 1754 | 51 | SpeedyJas |
-| 1755 | 51 | Destiny Maria |
-| 1756 | 51 | Honey Beck |
+| 1727 | 54 | DaShawntae Durham |
+| 1728 | 54 | Ķïrãã Ďãvïss |
+| 1729 | 54 | Let Them |
+| 1730 | 54 | Swanky Glidebuilder |
+| 1731 | 54 | Zany Slice |
+| 1732 | 53 | Bubbly Rollout |
+| 1733 | 53 | Talya Richards |
+| 1734 | 53 | Catherine McGowan |
+| 1735 | 53 | Snippy Glidepiece |
+| 1736 | 53 | LS Jamison |
+| 1737 | 53 | Michael Lindenlauf |
+| 1738 | 53 | Jateerah Davis |
+| 1739 | 53 | Sashaleo |
+| 1740 | 53 | Lively Stagger |
+| 1741 | 53 | Bubbly Base |
+| 1742 | 53 | Epic Basepiece |
+| 1743 | 53 | Jennifer Nixon |
+| 1744 | 52 | Tiffanie Michelle |
+| 1745 | 52 | mimither |
+| 1746 | 52 | LCh Jessi |
+| 1747 | 52 | Valerie Kendrick |
+| 1748 | 52 | Ashley Horne |
+| 1749 | 52 | MsBobby Patrick |
+| 1750 | 52 | Giddy Twisterfit |
+| 1751 | 52 | Loopy Risepiece |
+| 1752 | 52 | Honey Beck |
+| 1753 | 52 | Stephanie Scott |
+| 1754 | 51 | Beth Ingham |
+| 1755 | 51 | SpeedyJas |
+| 1756 | 51 | Destiny Maria |
 | 1757 | 51 | Jakari Wool |
 | 1758 | 51 | Danielle Marie Lewis |
 | 1759 | 51 | Raylane Brandy Larkin |
