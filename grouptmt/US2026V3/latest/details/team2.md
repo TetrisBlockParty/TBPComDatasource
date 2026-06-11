@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:00:43 UTC
+# Standings for team2 as of 2026-06-11 09:01:25 UTC
 
 **Total Participants:** 2937
 
@@ -389,20 +389,20 @@
 | 381 | 573 | Marilyn Strickland |
 | 382 | 568 | Chummy Faller |
 | 383 | 567 | Candi Cane |
-| 384 | 567 | Roe Sarmiento |
-| 385 | 567 | Michael Carmichael |
-| 386 | 566 | Santara Ferguson |
-| 387 | 563 | Alicia Parrish |
-| 388 | 559 | Po Yee |
-| 389 | 558 | Tia Guile |
-| 390 | 557 | Janice |
-| 391 | 555 | Symmy Norton |
-| 392 | 554 | Amy Gale |
+| 384 | 567 | Amy Gale |
+| 385 | 567 | Roe Sarmiento |
+| 386 | 567 | Michael Carmichael |
+| 387 | 566 | Santara Ferguson |
+| 388 | 563 | Alicia Parrish |
+| 389 | 559 | Po Yee |
+| 390 | 558 | Tia Guile |
+| 391 | 557 | Janice |
+| 392 | 555 | Symmy Norton |
 | 393 | 553 | Bb |
 | 394 | 552 | Heather Denise |
 | 395 | 550 | DomDomsNana |
-| 396 | 550 | AndyJo |
-| 397 | 550 | Loopy Dropper |
+| 396 | 550 | Loopy Dropper |
+| 397 | 550 | AndyJo |
 | 398 | 548 | Stephanie |
 | 399 | 546 | Quirky Shifter |
 | 400 | 546 | Newtwidebody |
@@ -422,8 +422,8 @@
 | 414 | 527 | Doowop40 |
 | 415 | 527 | Joni Michelle Morgan |
 | 416 | 524 | Funway998 |
-| 417 | 524 | Leticia Tillman |
-| 418 | 524 | Marylin Eacker |
+| 417 | 524 | Marylin Eacker |
+| 418 | 524 | Leticia Tillman |
 | 419 | 524 | Chill Shatterer |
 | 420 | 523 | Earline Dupuy Bordelon |
 | 421 | 522 | Victoria Pale |
@@ -475,19 +475,19 @@
 | 467 | 469 | ShiverMeSplinter |
 | 468 | 469 | Karly Moore |
 | 469 | 468 | Breezy |
-| 470 | 467 | Maria Ward |
-| 471 | 467 | Missy Renia |
+| 470 | 467 | Missy Renia |
+| 471 | 467 | Maria Ward |
 | 472 | 467 | Spunky Piecebuilder |
 | 473 | 460 | Mrs biotch |
-| 474 | 460 | Jackie Walker |
-| 475 | 460 | Linda Guay |
+| 474 | 460 | Linda Guay |
+| 475 | 460 | Jackie Walker |
 | 476 | 459 | TiffTaff |
 | 477 | 458 | Talyn Domingues |
 | 478 | 458 | Hoppy Mover |
-| 479 | 458 | Olivia Jefferson |
-| 480 | 458 | Julie Alexander Sykes |
-| 481 | 457 | Heather Burgett |
-| 482 | 457 | Coleen Yoder |
+| 479 | 458 | Julie Alexander Sykes |
+| 480 | 458 | Olivia Jefferson |
+| 481 | 457 | Coleen Yoder |
+| 482 | 457 | Heather Burgett |
 | 483 | 455 | Partin |
 | 484 | 455 | Reni Seven |
 | 485 | 453 | Shannon Wilson |
@@ -503,23 +503,23 @@
 | 495 | 446 | Cherica Taylor |
 | 496 | 446 | Paula Haskins |
 | 497 | 444 | Teresa Mandich |
-| 498 | 442 | Bengy Lead |
-| 499 | 442 | Nicole Good |
-| 500 | 440 | Firebone |
-| 501 | 439 | Logan Duffey |
-| 502 | 439 | Angie Bishop |
-| 503 | 439 | Carolyn McNaughton |
-| 504 | 439 | Gina Louise Parker |
-| 505 | 439 | Tina Kinney |
-| 506 | 438 | Amber Cogdill |
-| 507 | 437 | Amanda Ann Brooks |
-| 508 | 437 | Anna Benjamin Freeman |
-| 509 | 436 | Gwendolyn Boykin Mobbs |
-| 510 | 434 | DayDreamer79 |
-| 511 | 432 | Patrick Ohanlon |
-| 512 | 431 | Amber Smith |
-| 513 | 431 | Crystal Poss |
-| 514 | 430 | Mama G |
+| 498 | 443 | Mama G |
+| 499 | 442 | Bengy Lead |
+| 500 | 442 | Nicole Good |
+| 501 | 440 | Firebone |
+| 502 | 439 | Logan Duffey |
+| 503 | 439 | Angie Bishop |
+| 504 | 439 | Carolyn McNaughton |
+| 505 | 439 | Gina Louise Parker |
+| 506 | 439 | Tina Kinney |
+| 507 | 438 | Amber Cogdill |
+| 508 | 437 | Amanda Ann Brooks |
+| 509 | 437 | Anna Benjamin Freeman |
+| 510 | 436 | Gwendolyn Boykin Mobbs |
+| 511 | 434 | DayDreamer79 |
+| 512 | 432 | Patrick Ohanlon |
+| 513 | 431 | Amber Smith |
+| 514 | 431 | Crystal Poss |
 | 515 | 430 | Starvinmarvin |
 | 516 | 430 | Alyssa Malay |
 | 517 | 430 | Hypee |
@@ -539,8 +539,8 @@
 | 531 | 420 | Jacquelyn Snyder Dumas |
 | 532 | 420 | Michelle Jones |
 | 533 | 420 | August Christy Lathrop |
-| 534 | 419 | Mandy Van Laningham Bishop |
-| 535 | 419 | Ariel Gundersen |
+| 534 | 419 | Ariel Gundersen |
+| 535 | 419 | Mandy Van Laningham Bishop |
 | 536 | 418 | Margie Ann Naffziger |
 | 537 | 415 | Kelly Vedder |
 | 538 | 413 | PaiBri |
@@ -565,8 +565,8 @@
 | 557 | 400 | Carrie Hayes Lankford |
 | 558 | 400 | Tracy Lee |
 | 559 | 400 | Loopy Tower |
-| 560 | 399 | Gina Leal |
-| 561 | 399 | Nicky Steigerwalt |
+| 560 | 399 | Nicky Steigerwalt |
+| 561 | 399 | Gina Leal |
 | 562 | 399 | Nikki Layman |
 | 563 | 399 | Plucky Grabber |
 | 564 | 399 | Mandeee |
@@ -578,8 +578,8 @@
 | 570 | 395 | murd3rmous3 |
 | 571 | 395 | Hector |
 | 572 | 395 | Traci Abern |
-| 573 | 395 | Madonna Ash |
-| 574 | 395 | Tango Sierra |
+| 573 | 395 | Tango Sierra |
+| 574 | 395 | Madonna Ash |
 | 575 | 394 | Justin Stark |
 | 576 | 393 | Elizabeth Henry |
 | 577 | 392 | Sassy Twistbuilder |
@@ -588,8 +588,8 @@
 | 580 | 392 | Amanda Bottorff |
 | 581 | 390 | Rachel |
 | 582 | 390 | Jim Wright |
-| 583 | 389 | Jumpy Dashpiece |
-| 584 | 389 | Josephina |
+| 583 | 389 | Josephina |
+| 584 | 389 | Jumpy Dashpiece |
 | 585 | 388 | Clever Fallmatch |
 | 586 | 388 | Sassy Swiper |
 | 587 | 387 | Ashley Propst |
@@ -609,8 +609,8 @@
 | 601 | 380 | Zappy Liney |
 | 602 | 379 | Aubrey Gates |
 | 603 | 378 | Shannon Curry Riggle |
-| 604 | 376 | Ava Speedy |
-| 605 | 376 | TetrisMama |
+| 604 | 376 | TetrisMama |
+| 605 | 376 | Ava Speedy |
 | 606 | 374 | Natasha Lee |
 | 607 | 373 | Nano. |
 | 608 | 373 | Christy Ford |
