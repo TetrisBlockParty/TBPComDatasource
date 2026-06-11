@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:49:23 UTC
+# Standings for team1 as of 2026-06-11 12:50:47 UTC
 
 **Total Participants:** 2484
 
@@ -47,9 +47,9 @@
 | 39 | 3763 | Sha Harris |
 | 40 | 3761 | Brian Stackhouse |
 | 41 | 3609 | Chill Clusterer |
-| 42 | 3578 | Jennifer To |
+| 42 | 3593 | Jennifer To |
 | 43 | 3442 | Yolanda McDonald |
-| 44 | 3419 | Mimi 1.0 |
+| 44 | 3439 | Mimi 1.0 |
 | 45 | 3145 | COSA303 |
 | 46 | 3140 | Will |
 | 47 | 3082 | JoJo |
@@ -302,8 +302,8 @@
 | 294 | 588 | Sheila Burnham |
 | 295 | 588 | Kenny 'Tailormade' Boyd |
 | 296 | 586 | Slinky Brickmatch |
-| 297 | 583 | DaGuy |
-| 298 | 579 | Calvin Green |
+| 297 | 585 | Calvin Green |
+| 298 | 583 | DaGuy |
 | 299 | 579 | Mahagony Small |
 | 300 | 577 | Desire Rice |
 | 301 | 577 | Zachary Colegrove |
@@ -343,16 +343,16 @@
 | 335 | 521 | Jawaun Daniels |
 | 336 | 516 | Jayjay Rich |
 | 337 | 515 | Queenie Perry |
-| 338 | 513 | Analiza Ramos |
-| 339 | 513 | Tasha |
-| 340 | 512 | wuvbuug |
-| 341 | 511 | Lauraly |
-| 342 | 511 | NewEve |
-| 343 | 511 | Dizzy Dropper |
-| 344 | 510 | ♈️ Ariesbaby |
-| 345 | 509 | JaClanDiah |
-| 346 | 508 | Heather Aurelia |
-| 347 | 508 | Hasty Glidezone |
+| 338 | 514 | Hasty Glidezone |
+| 339 | 513 | Analiza Ramos |
+| 340 | 513 | Tasha |
+| 341 | 512 | wuvbuug |
+| 342 | 511 | Lauraly |
+| 343 | 511 | NewEve |
+| 344 | 511 | Dizzy Dropper |
+| 345 | 510 | ♈️ Ariesbaby |
+| 346 | 509 | JaClanDiah |
+| 347 | 508 | Heather Aurelia |
 | 348 | 507 | Teresa Yanira Cepeda |
 | 349 | 505 | Cheri Robinson |
 | 350 | 505 | Jackie Sanasay |
@@ -492,13 +492,13 @@
 | 484 | 393 | Tesiree Cray |
 | 485 | 391 | Stacy Nicole |
 | 486 | 391 | MindlessMic |
-| 487 | 391 | Christina Rebecca |
-| 488 | 390 | Melissa D. M. Hornsby |
-| 489 | 390 | Daddy |
-| 490 | 390 | Jean Regis |
-| 491 | 389 | Betsy B. Yohan |
-| 492 | 388 | Tiffany Jean Hinson |
-| 493 | 385 | whatever |
+| 487 | 391 | whatever |
+| 488 | 391 | Christina Rebecca |
+| 489 | 390 | Melissa D. M. Hornsby |
+| 490 | 390 | Daddy |
+| 491 | 390 | Jean Regis |
+| 492 | 389 | Betsy B. Yohan |
+| 493 | 388 | Tiffany Jean Hinson |
 | 494 | 385 | Kimberly Anderson |
 | 495 | 383 | Crystal Cheresnowsky |
 | 496 | 383 | James Bryant II |
@@ -1199,20 +1199,20 @@
 | 1191 | 129 | Ounquan Wright |
 | 1192 | 129 | Tomme Poliwka |
 | 1193 | 128 | rosieredpanda |
-| 1194 | 128 | Lazy Matchgrid |
-| 1195 | 128 | Alonzo Kirkland |
-| 1196 | 128 | Brittany Britkany Marsden-Garrison |
-| 1197 | 127 | Pretty Yella |
-| 1198 | 127 | Thelma Samuels |
-| 1199 | 127 | Teisha Scott |
-| 1200 | 127 | tk |
-| 1201 | 127 | Funky Tetris |
-| 1202 | 127 | Sonia Binti Mfalme |
-| 1203 | 127 | Nissa |
-| 1204 | 126 | Jason Riley |
-| 1205 | 126 | Shannon Bradley |
-| 1206 | 126 | Jeremy Hendrix |
-| 1207 | 126 | Richard Harper |
+| 1194 | 128 | Richard Harper |
+| 1195 | 128 | Lazy Matchgrid |
+| 1196 | 128 | Alonzo Kirkland |
+| 1197 | 128 | Brittany Britkany Marsden-Garrison |
+| 1198 | 127 | Pretty Yella |
+| 1199 | 127 | Thelma Samuels |
+| 1200 | 127 | Teisha Scott |
+| 1201 | 127 | tk |
+| 1202 | 127 | Funky Tetris |
+| 1203 | 127 | Sonia Binti Mfalme |
+| 1204 | 127 | Nissa |
+| 1205 | 126 | Jason Riley |
+| 1206 | 126 | Shannon Bradley |
+| 1207 | 126 | Jeremy Hendrix |
 | 1208 | 125 | Kayd |
 | 1209 | 125 | Meme23 |
 | 1210 | 125 | Butta |
@@ -1244,47 +1244,47 @@
 | 1236 | 122 | Spicy Hedgehog |
 | 1237 | 122 | Tagashel Gotuwe |
 | 1238 | 122 | Nick Stowers |
-| 1239 | 122 | Hyper Patternline |
-| 1240 | 122 | Silly Shatterline |
+| 1239 | 122 | Silly Shatterline |
+| 1240 | 122 | Hyper Patternline |
 | 1241 | 121 | Arnold Hamilton |
-| 1242 | 120 | Fransine Bennett |
-| 1243 | 120 | Tiffany Thompson |
-| 1244 | 120 | Spunky Strikerbuilder |
-| 1245 | 120 | Yolanda Sadler |
+| 1242 | 120 | Haakuu |
+| 1243 | 120 | Linzi Cole |
+| 1244 | 120 | Laura Wesley |
+| 1245 | 120 | Lawreniesha Burkley |
 | 1246 | 120 | Demi Ovalle |
-| 1247 | 120 | Lawreniesha Burkley |
-| 1248 | 120 | Laura Wesley |
-| 1249 | 120 | Linzi Cole |
-| 1250 | 119 | Octavia Whitmire |
+| 1247 | 120 | Yolanda Sadler |
+| 1248 | 120 | Spunky Strikerbuilder |
+| 1249 | 120 | Tiffany Thompson |
+| 1250 | 120 | Fransine Bennett |
 | 1251 | 119 | Jordan Deon Elery |
-| 1252 | 119 | Christina Wesley |
-| 1253 | 119 | Solomon Valarie |
-| 1254 | 119 | Evette Moreno |
-| 1255 | 119 | Ashley Shelton |
-| 1256 | 118 | Tanisha Robinson |
-| 1257 | 118 | Leslie Ann |
-| 1258 | 118 | Shanna Green Williams |
-| 1259 | 118 | Felicia Yahuah Johnson |
-| 1260 | 118 | Michelle Dollah |
-| 1261 | 117 | Cheery Clusterbuilder |
+| 1252 | 119 | Solomon Valarie |
+| 1253 | 119 | Octavia Whitmire |
+| 1254 | 119 | Christina Wesley |
+| 1255 | 119 | Evette Moreno |
+| 1256 | 119 | Ashley Shelton |
+| 1257 | 118 | Tanisha Robinson |
+| 1258 | 118 | Felicia Yahuah Johnson |
+| 1259 | 118 | Shanna Green Williams |
+| 1260 | 118 | Leslie Ann |
+| 1261 | 118 | Michelle Dollah |
 | 1262 | 117 | Andrea Jackson |
-| 1263 | 116 | Amanda Bell |
-| 1264 | 116 | Tonya Carroll |
-| 1265 | 116 | Daring Linkfall |
-| 1266 | 116 | Bouncy Blockclear |
-| 1267 | 116 | Torrie Eckrote |
+| 1263 | 117 | Cheery Clusterbuilder |
+| 1264 | 116 | Bouncy Blockclear |
+| 1265 | 116 | Demetrice Buck Wilson |
+| 1266 | 116 | Elizabeth Green |
+| 1267 | 116 | Jeffrey Pierce-Overton |
 | 1268 | 116 | Sugar Foot |
-| 1269 | 116 | Jeffrey Pierce-Overton |
-| 1270 | 116 | Demetrice Buck Wilson |
-| 1271 | 116 | Elizabeth Green |
-| 1272 | 115 | Haakuu |
-| 1273 | 115 | WOOLFF |
-| 1274 | 115 | Tiffany Weathersby |
-| 1275 | 115 | Quwana Hall |
-| 1276 | 115 | Shiny Lift |
-| 1277 | 114 | Elizabeth Clara |
-| 1278 | 114 | Amy Thomas |
-| 1279 | 114 | Cherita Copney |
+| 1269 | 116 | Daring Linkfall |
+| 1270 | 116 | Amanda Bell |
+| 1271 | 116 | Tonya Carroll |
+| 1272 | 116 | Torrie Eckrote |
+| 1273 | 115 | Quwana Hall |
+| 1274 | 115 | Shiny Lift |
+| 1275 | 115 | WOOLFF |
+| 1276 | 115 | Tiffany Weathersby |
+| 1277 | 114 | Amy Thomas |
+| 1278 | 114 | Cherita Copney |
+| 1279 | 114 | Elizabeth Clara |
 | 1280 | 114 | Pharen Oneofakind Frazier |
 | 1281 | 113 | Sha Anderson |
 | 1282 | 113 | Wacky Spinfit |
