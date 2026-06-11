@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 20:16:47 UTC
+# Standings for team2 as of 2026-06-11 20:17:24 UTC
 
 **Total Participants:** 3007
 
@@ -145,7 +145,7 @@
 | 137 | 1715 | Amber Salazar |
 | 138 | 1675 | Shea |
 | 139 | 1669 | JB6 |
-| 140 | 1633 | Hoppy Rotate |
+| 140 | 1637 | Hoppy Rotate |
 | 141 | 1632 | Robin G |
 | 142 | 1628 | Ruby Sandberg |
 | 143 | 1627 | Zachary Vymislicky |
@@ -193,7 +193,7 @@
 | 185 | 1247 | Monique Frantz |
 | 186 | 1234 | Cristi Doris |
 | 187 | 1234 | Spicy Risegrid |
-| 188 | 1229 | Jeska Gaines |
+| 188 | 1234 | Jeska Gaines |
 | 189 | 1219 | Chris Cooper |
 | 190 | 1217 | Leigh Ann |
 | 191 | 1199 | Allie Bug |
@@ -446,9 +446,9 @@
 | 438 | 544 | Elliott Mikila |
 | 439 | 544 | Jimmy Francis Shasta Bambi |
 | 440 | 542 | Amy Gregg |
-| 441 | 540 | Jim Longnecker |
-| 442 | 539 | Earline Dupuy Bordelon |
-| 443 | 539 | Twisty Tower |
+| 441 | 541 | Twisty Tower |
+| 442 | 540 | Jim Longnecker |
+| 443 | 539 | Earline Dupuy Bordelon |
 | 444 | 539 | Leticia Tillman |
 | 445 | 537 | Wacky Stack |
 | 446 | 534 | Heather Burgett |
@@ -791,13 +791,13 @@
 | 783 | 322 | Dana Vaiden Rivers |
 | 784 | 321 | Melissa Aycock |
 | 785 | 321 | Kelly |
-| 786 | 320 | Cheryl Schmid |
+| 786 | 320 | Wood |
 | 787 | 320 | Robin Stutler |
-| 788 | 320 | Wood |
-| 789 | 319 | sampson |
-| 790 | 319 | Laura Anderson |
-| 791 | 319 | Silly Clicker |
-| 792 | 319 | Goldie |
+| 788 | 320 | Cheryl Schmid |
+| 789 | 319 | Goldie |
+| 790 | 319 | sampson |
+| 791 | 319 | Laura Anderson |
+| 792 | 319 | Silly Clicker |
 | 793 | 318 | MamaRachel |
 | 794 | 318 | Kay Newcomb |
 | 795 | 318 | Seana Moran |
@@ -807,8 +807,8 @@
 | 799 | 314 | Nova |
 | 800 | 314 | Epic Tilemaker |
 | 801 | 313 | Melissa Fink |
-| 802 | 312 | Franky |
-| 803 | 312 | John Perkins |
+| 802 | 312 | John Perkins |
+| 803 | 312 | Franky |
 | 804 | 312 | whocares |
 | 805 | 312 | Melissa Pronovost |
 | 806 | 311 | Holly Barefoot |
@@ -816,90 +816,90 @@
 | 808 | 310 | Glitzy Roll |
 | 809 | 309 | Connie Marie Cornell Lerma |
 | 810 | 309 | Jami Borges |
-| 811 | 308 | Marlo Perry |
-| 812 | 308 | Jamie Adams |
-| 813 | 307 | GiGi Cool |
-| 814 | 307 | Witty Riser |
+| 811 | 308 | Jamie Adams |
+| 812 | 308 | Marlo Perry |
+| 813 | 307 | Witty Riser |
+| 814 | 307 | GiGi Cool |
 | 815 | 307 | Bonita Alexander |
 | 816 | 306 | Reign Hustler |
 | 817 | 305 | Susie Conger |
 | 818 | 305 | Cozy Cascade |
 | 819 | 305 | Hansent3 |
 | 820 | 304 | Sadie-Damion Smith |
-| 821 | 303 | Giggy Dropzone |
-| 822 | 303 | Errkuh |
-| 823 | 302 | Kimberly Davis |
-| 824 | 302 | Rescuegirl76 |
+| 821 | 303 | Errkuh |
+| 822 | 303 | Giggy Dropzone |
+| 823 | 302 | Rescuegirl76 |
+| 824 | 302 | Kimberly Davis |
 | 825 | 302 | Jazzy Snapfit |
 | 826 | 302 | Smiley Cornerfall |
-| 827 | 301 | Belle |
-| 828 | 301 | Jessica Bowman |
-| 829 | 301 | Brenda Shannon |
+| 827 | 301 | Jessica Bowman |
+| 828 | 301 | Brenda Shannon |
+| 829 | 301 | Belle |
 | 830 | 301 | Momof2wigglebutts |
 | 831 | 300 | Brooke Kaune |
-| 832 | 300 | Frisky Rumbler |
-| 833 | 300 | Happy Shatterblock |
-| 834 | 300 | Erin Lemanski |
-| 835 | 300 | aunt nanna |
-| 836 | 300 | Adam Latin |
-| 837 | 300 | Cody Gates |
+| 832 | 300 | Happy Shatterblock |
+| 833 | 300 | Erin Lemanski |
+| 834 | 300 | Adam Latin |
+| 835 | 300 | Cody Gates |
+| 836 | 300 | aunt nanna |
+| 837 | 300 | Frisky Rumbler |
 | 838 | 299 | Amanda Kennedy |
 | 839 | 299 | Becky Kennon |
 | 840 | 299 | Jennifer Covington |
 | 841 | 298 | Frothy Roll |
-| 842 | 298 | Ryan Rhodes |
-| 843 | 298 | Laura Fagans |
-| 844 | 298 | Just Me |
-| 845 | 297 | Jaimie Waybill |
-| 846 | 297 | Chipper Towerzone |
-| 847 | 296 | Duck |
-| 848 | 295 | NickandJess Reynolds |
-| 849 | 294 | Zany Wrecker |
-| 850 | 294 | Rebekah Holland |
-| 851 | 294 | Amanda Bryte |
-| 852 | 294 | Rachel Wooldridge |
-| 853 | 294 | Crafty Rotater |
-| 854 | 294 | Diane Byrd |
-| 855 | 294 | candi |
-| 856 | 293 | Dandy Column |
-| 857 | 293 | Blossom48 |
-| 858 | 293 | Jessica Garoutte |
-| 859 | 293 | Lori Lorenz |
-| 860 | 293 | denirocorona |
-| 861 | 293 | Danita Moon |
-| 862 | 292 | Dame Smith |
+| 842 | 298 | Laura Fagans |
+| 843 | 298 | Just Me |
+| 844 | 298 | Joshua Hopkins |
+| 845 | 298 | Ryan Rhodes |
+| 846 | 297 | Jaimie Waybill |
+| 847 | 297 | Chipper Towerzone |
+| 848 | 296 | Duck |
+| 849 | 295 | NickandJess Reynolds |
+| 850 | 294 | Zany Wrecker |
+| 851 | 294 | Rebekah Holland |
+| 852 | 294 | Amanda Bryte |
+| 853 | 294 | Rachel Wooldridge |
+| 854 | 294 | Crafty Rotater |
+| 855 | 294 | Diane Byrd |
+| 856 | 294 | candi |
+| 857 | 293 | Dandy Column |
+| 858 | 293 | Blossom48 |
+| 859 | 293 | Jessica Garoutte |
+| 860 | 293 | Lori Lorenz |
+| 861 | 293 | denirocorona |
+| 862 | 293 | Danita Moon |
 | 863 | 292 | Darla Nolt |
-| 864 | 292 | BugMansMom |
-| 865 | 291 | ReiRei |
-| 866 | 290 | Edna Nena Cabrera |
-| 867 | 290 | Duck |
-| 868 | 290 | ChefDeb |
-| 869 | 289 | Precious Womack |
-| 870 | 289 | Stella |
-| 871 | 289 | Joshua Hopkins |
-| 872 | 288 | Amy |
-| 873 | 288 | Nutty Fitzone |
-| 874 | 288 | Funky Blockmatch |
-| 875 | 288 | Maurii93 |
-| 876 | 286 | Jason Lamporte |
-| 877 | 286 | Thtbrwnsknflla |
-| 878 | 286 | Frilly Shiftsnap |
-| 879 | 285 | y |
-| 880 | 285 | Clever Gridzone |
-| 881 | 285 | Shawn Bolt |
-| 882 | 285 | Princess Cucumber |
-| 883 | 285 | Eva Lopez |
-| 884 | 285 | Alissa Ary |
-| 885 | 285 | Leigh Wilkerson |
-| 886 | 284 | Natalie M. Arredondo |
-| 887 | 284 | Twisty Matchfit |
-| 888 | 284 | Wacky Holder |
-| 889 | 284 | Cortney Coleman |
-| 890 | 284 | Megan Wolfe |
-| 891 | 282 | Kati Eckstein |
-| 892 | 282 | Mandy Smart |
+| 864 | 292 | Dame Smith |
+| 865 | 292 | BugMansMom |
+| 866 | 291 | ReiRei |
+| 867 | 290 | Edna Nena Cabrera |
+| 868 | 290 | Duck |
+| 869 | 290 | ChefDeb |
+| 870 | 289 | Precious Womack |
+| 871 | 289 | Stella |
+| 872 | 288 | Nutty Fitzone |
+| 873 | 288 | Funky Blockmatch |
+| 874 | 288 | Maurii93 |
+| 875 | 288 | Amy |
+| 876 | 286 | Thtbrwnsknflla |
+| 877 | 286 | Frilly Shiftsnap |
+| 878 | 286 | Jason Lamporte |
+| 879 | 285 | Princess Cucumber |
+| 880 | 285 | Eva Lopez |
+| 881 | 285 | Alissa Ary |
+| 882 | 285 | Leigh Wilkerson |
+| 883 | 285 | Clever Gridzone |
+| 884 | 285 | Shawn Bolt |
+| 885 | 285 | y |
+| 886 | 284 | Megan Wolfe |
+| 887 | 284 | Cortney Coleman |
+| 888 | 284 | Natalie M. Arredondo |
+| 889 | 284 | Twisty Matchfit |
+| 890 | 284 | Wacky Holder |
+| 891 | 282 | Mandy Smart |
+| 892 | 282 | Goofy Patternfit |
 | 893 | 282 | Jeremy Daurbigny |
-| 894 | 282 | Goofy Patternfit |
+| 894 | 282 | Kati Eckstein |
 | 895 | 281 | Jillian Marie |
 | 896 | 281 | uglyvillager |
 | 897 | 281 | Damion Morrison |
