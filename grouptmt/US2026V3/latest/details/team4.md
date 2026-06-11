@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:45:20 UTC
+# Standings for team4 as of 2026-06-11 09:46:26 UTC
 
 **Total Participants:** 2506
 
@@ -25,7 +25,7 @@
 | 17 | 8005 | delilahbelle |
 | 18 | 7845 | Jerald Jones |
 | 19 | 6954 | Senor Moppy |
-| 20 | 6863 | Bubbly Twistpiece |
+| 20 | 6868 | Bubbly Twistpiece |
 | 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
 | 23 | 6254 | Anna Moses |
@@ -59,7 +59,7 @@
 | 51 | 3600 | Leah Gorsuch |
 | 52 | 3440 | Kathy Brookins |
 | 53 | 3391 | Dana Abegil Lawas |
-| 54 | 3277 | Jace McCullough |
+| 54 | 3348 | Jace McCullough |
 | 55 | 3244 | Elissa S-k |
 | 56 | 3200 | 626 |
 | 57 | 3150 | Destiny Dyer |
@@ -127,9 +127,9 @@
 | 119 | 1339 | Beth Belanger |
 | 120 | 1336 | Jonathan Hewitt |
 | 121 | 1336 | MysticMaven |
-| 122 | 1311 | J |
-| 123 | 1306 | Irma |
-| 124 | 1303 | Snippy Grid |
+| 122 | 1316 | Snippy Grid |
+| 123 | 1311 | J |
+| 124 | 1306 | Irma |
 | 125 | 1297 | Bri Martin |
 | 126 | 1285 | Kristen Wallace |
 | 127 | 1285 | Kelly Bernard |
@@ -1624,78 +1624,78 @@
 | 1616 | 69 | Derrek Lee |
 | 1617 | 69 | mike b |
 | 1618 | 68 | Kelley Shoop |
-| 1619 | 68 | Fineassdee23 |
-| 1620 | 68 | Anna Griego |
+| 1619 | 68 | Anna Griego |
+| 1620 | 68 | Fineassdee23 |
 | 1621 | 68 | Renée Neè Neè |
 | 1622 | 68 | Bold Snapper |
 | 1623 | 68 | Keys Tome |
 | 1624 | 68 | babygirlw |
 | 1625 | 67 | PL GR |
 | 1626 | 67 | Komet Tyler |
-| 1627 | 67 | Amanda KN |
-| 1628 | 67 | Beezy |
-| 1629 | 67 | Glittara |
-| 1630 | 67 | Jamie Wilson |
-| 1631 | 67 | Wacky Snaplink |
-| 1632 | 67 | Diane Donahue |
-| 1633 | 66 | Hakiem Shorter |
-| 1634 | 66 | james |
-| 1635 | 66 | Kimberly Nkwopara |
-| 1636 | 66 | ApexVibez |
-| 1637 | 66 | Tammie Baechler |
-| 1638 | 66 | Cauntay Youngking Williams |
-| 1639 | 66 | Chill Snapclear |
-| 1640 | 66 | Breezy Blockzone |
-| 1641 | 65 | Rell geez |
-| 1642 | 65 | Stylist |
+| 1627 | 67 | Diane Donahue |
+| 1628 | 67 | Jamie Wilson |
+| 1629 | 67 | Beezy |
+| 1630 | 67 | Amanda KN |
+| 1631 | 67 | Glittara |
+| 1632 | 67 | Wacky Snaplink |
+| 1633 | 66 | james |
+| 1634 | 66 | ApexVibez |
+| 1635 | 66 | Hakiem Shorter |
+| 1636 | 66 | Kimberly Nkwopara |
+| 1637 | 66 | Honey B |
+| 1638 | 66 | Tammie Baechler |
+| 1639 | 66 | Cauntay Youngking Williams |
+| 1640 | 66 | Chill Snapclear |
+| 1641 | 66 | Breezy Blockzone |
+| 1642 | 65 | Rell geez |
 | 1643 | 65 | Rainbow |
-| 1644 | 65 | Saucy Buildgrid |
-| 1645 | 65 | Mamissa |
+| 1644 | 65 | Mamissa |
+| 1645 | 65 | Chachi |
 | 1646 | 65 | BrokenDiamond |
-| 1647 | 65 | Chachi |
+| 1647 | 65 | Saucy Buildgrid |
 | 1648 | 65 | Dewy |
 | 1649 | 65 | BlackThanos |
-| 1650 | 64 | Meghan Trice Theodore |
-| 1651 | 64 | Jennifer Tate |
-| 1652 | 64 | Dorothy Schetzel |
-| 1653 | 64 | Kate Clevinger |
-| 1654 | 64 | Matt Akm |
-| 1655 | 64 | EJ Frazier |
-| 1656 | 64 | Daring Brickbuilder |
-| 1657 | 63 | Glitzy Crasher |
-| 1658 | 63 | Angela Correa |
-| 1659 | 63 | -daiko |
-| 1660 | 63 | Colin hollenbeck |
-| 1661 | 63 | Amina Walker |
-| 1662 | 63 | Casey Alford |
-| 1663 | 63 | Jess |
+| 1650 | 65 | Stylist |
+| 1651 | 64 | Dorothy Schetzel |
+| 1652 | 64 | Meghan Trice Theodore |
+| 1653 | 64 | Jennifer Tate |
+| 1654 | 64 | Kate Clevinger |
+| 1655 | 64 | Matt Akm |
+| 1656 | 64 | EJ Frazier |
+| 1657 | 64 | Daring Brickbuilder |
+| 1658 | 63 | Glitzy Crasher |
+| 1659 | 63 | Angela Correa |
+| 1660 | 63 | Jess |
+| 1661 | 63 | -daiko |
+| 1662 | 63 | Colin hollenbeck |
+| 1663 | 63 | Amina Walker |
 | 1664 | 63 | Heather Crowe |
-| 1665 | 62 | Michelle Tillery - Edwards |
-| 1666 | 62 | Zippy Snaplink |
-| 1667 | 61 | Michellee Lewis |
-| 1668 | 61 | Milton Lawrence |
-| 1669 | 61 | Heidi Lyn Ramirez |
-| 1670 | 61 | pommom |
-| 1671 | 61 | Breezy Striker |
-| 1672 | 61 | Bryieson Watson |
-| 1673 | 61 | Speedy Caster |
-| 1674 | 61 | Melani Hajny |
-| 1675 | 61 | Anthony |
-| 1676 | 61 | Bouncy Brickster |
-| 1677 | 61 | Becky Bernazal |
-| 1678 | 61 | Chirpy Column |
-| 1679 | 60 | Mumsy |
+| 1665 | 63 | Casey Alford |
+| 1666 | 62 | Michelle Tillery - Edwards |
+| 1667 | 62 | Zippy Snaplink |
+| 1668 | 61 | Michellee Lewis |
+| 1669 | 61 | Melani Hajny |
+| 1670 | 61 | Breezy Striker |
+| 1671 | 61 | Milton Lawrence |
+| 1672 | 61 | Heidi Lyn Ramirez |
+| 1673 | 61 | pommom |
+| 1674 | 61 | Speedy Caster |
+| 1675 | 61 | Bryieson Watson |
+| 1676 | 61 | Anthony |
+| 1677 | 61 | Bouncy Brickster |
+| 1678 | 61 | Becky Bernazal |
+| 1679 | 61 | Chirpy Column |
 | 1680 | 60 | Pearl Poff |
-| 1681 | 60 | Nutty Balanceblock |
-| 1682 | 60 | Dizzy Builderfit |
-| 1683 | 60 | Honey B |
-| 1684 | 60 | Sean Ha |
-| 1685 | 60 | Brandi Wacker |
-| 1686 | 60 | Jennie |
+| 1681 | 60 | Mumsy |
+| 1682 | 60 | Kasondra Cooper |
+| 1683 | 60 | Nutty Balanceblock |
+| 1684 | 60 | Dizzy Builderfit |
+| 1685 | 60 | Sean Ha |
+| 1686 | 60 | Brandi Wacker |
 | 1687 | 60 | Saucy Matchfit |
-| 1688 | 60 | Jolly Dashy |
-| 1689 | 60 | Robert Walker |
-| 1690 | 60 | Kasondra Cooper |
+| 1688 | 60 | Jennie |
+| 1689 | 60 | Jolly Dashy |
+| 1690 | 60 | Robert Walker |
 | 1691 | 60 | Kortnie Kate Patino |
 | 1692 | 60 | Kenya Lavan |
 | 1693 | 60 | Lawrissa Andrews |
