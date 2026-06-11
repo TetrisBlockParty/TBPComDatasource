@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:10:45 UTC
+# Standings for team4 as of 2026-06-11 09:11:23 UTC
 
 **Total Participants:** 2505
 
@@ -163,35 +163,35 @@
 | 155 | 1058 | Principal Liz |
 | 156 | 1057 | Heather Preston |
 | 157 | 1055 | Jenn Norcross |
-| 158 | 1033 | Daryn Elliott |
-| 159 | 1030 | Gorica Prusina |
-| 160 | 1028 | Alex Armour |
-| 161 | 1023 | Gigglycat |
-| 162 | 1015 | Ermadette |
-| 163 | 1013 | Regina Williams |
-| 164 | 1005 | Fancy Riserfit |
-| 165 | 1004 | Shocinda Sherwood |
-| 166 | 1002 | Bean |
-| 167 | 1001 | DexterDobbins |
-| 168 | 997 | SupaFly |
-| 169 | 996 | Renee Sapp |
-| 170 | 995 | Andrew Dang |
-| 171 | 990 | Kim |
-| 172 | 990 | Magz |
-| 173 | 986 | Sharidan Klinginsmith |
-| 174 | 981 | Kazrin Douglass |
-| 175 | 963 | Jubalicious |
-| 176 | 963 | Hwanger Land |
-| 177 | 959 | Cranky Towerbuilder |
-| 178 | 953 | Tasha Suzanne Prisbrey |
-| 179 | 952 | Alala.Cersei |
-| 180 | 950 | Nicole Peoples |
-| 181 | 950 | Genag |
-| 182 | 950 | Joyce Myers |
-| 183 | 946 | Lori Stembridge |
-| 184 | 944 | adrian |
-| 185 | 942 | Kay |
-| 186 | 940 | Linda Miltenburg |
+| 158 | 1037 | SupaFly |
+| 159 | 1033 | Daryn Elliott |
+| 160 | 1030 | Gorica Prusina |
+| 161 | 1028 | Alex Armour |
+| 162 | 1023 | Gigglycat |
+| 163 | 1015 | Ermadette |
+| 164 | 1013 | Regina Williams |
+| 165 | 1005 | Fancy Riserfit |
+| 166 | 1004 | Shocinda Sherwood |
+| 167 | 1002 | Bean |
+| 168 | 1001 | DexterDobbins |
+| 169 | 1000 | Linda Miltenburg |
+| 170 | 996 | Renee Sapp |
+| 171 | 995 | Andrew Dang |
+| 172 | 990 | Kim |
+| 173 | 990 | Magz |
+| 174 | 986 | Sharidan Klinginsmith |
+| 175 | 981 | Kazrin Douglass |
+| 176 | 963 | Jubalicious |
+| 177 | 963 | Hwanger Land |
+| 178 | 959 | Cranky Towerbuilder |
+| 179 | 953 | Tasha Suzanne Prisbrey |
+| 180 | 952 | Alala.Cersei |
+| 181 | 950 | Nicole Peoples |
+| 182 | 950 | Genag |
+| 183 | 950 | Joyce Myers |
+| 184 | 946 | Lori Stembridge |
+| 185 | 944 | adrian |
+| 186 | 942 | Kay |
 | 187 | 932 | Dandy Clearfit |
 | 188 | 930 | Wanda Simmons |
 | 189 | 923 | Roxana Romero |
@@ -262,8 +262,8 @@
 | 254 | 680 | Saucy Wipepiece |
 | 255 | 673 | Karr |
 | 256 | 669 | Vanessa Sykes |
-| 257 | 663 | Drh4090 |
-| 258 | 663 | Laguya |
+| 257 | 663 | Laguya |
+| 258 | 663 | Drh4090 |
 | 259 | 659 | Krysten Danielle Richard |
 | 260 | 655 | Pandala Mandala |
 | 261 | 651 | Dayna Arthurs |
@@ -298,8 +298,8 @@
 | 290 | 599 | Boldy Rumbler |
 | 291 | 596 | Shanae Taylor |
 | 292 | 595 | tigerlilly |
-| 293 | 592 | Dapper Strikerpiece |
-| 294 | 592 | Sarah Berry Stevens |
+| 293 | 592 | Sarah Berry Stevens |
+| 294 | 592 | Dapper Strikerpiece |
 | 295 | 590 | Funky Riserpiece |
 | 296 | 586 | Karen Miller |
 | 297 | 584 | Dae Von |
@@ -319,8 +319,8 @@
 | 311 | 559 | Groovy Towerbuilder |
 | 312 | 558 | Aramat |
 | 313 | 557 | Chummy Jumper |
-| 314 | 556 | Cherrypir05 |
-| 315 | 548 | Snazzy Corner |
+| 314 | 557 | Snazzy Corner |
+| 315 | 556 | Cherrypir05 |
 | 316 | 547 | Swanky Brickzone |
 | 317 | 546 | Honey |
 | 318 | 546 | Earl Edwards |
@@ -350,8 +350,8 @@
 | 342 | 506 | Randy M Hatch |
 | 343 | 506 | Snazzy Fitclear |
 | 344 | 505 | Sassy Rollpiece |
-| 345 | 505 | Patrick Alley |
-| 346 | 505 | jaz |
+| 345 | 505 | jaz |
+| 346 | 505 | Patrick Alley |
 | 347 | 504 | Speedy Twistslam |
 | 348 | 501 | Breezy Blockzone |
 | 349 | 500 | Pepper |
@@ -380,30 +380,30 @@
 | 372 | 472 | Powder |
 | 373 | 470 | jojo |
 | 374 | 469 | Lolita Nettles |
-| 375 | 466 | Shepreneur Sade |
-| 376 | 465 | Joab Gonzalez |
-| 377 | 462 | BusterBear56 |
-| 378 | 462 | Poppy |
-| 379 | 462 | Tanita Jobe |
-| 380 | 462 | Martha Fisher |
-| 381 | 461 | Ash Gribble |
-| 382 | 461 | Kayla Fuentes |
-| 383 | 460 | Shmeedo |
-| 384 | 460 | Holly Wessel |
-| 385 | 459 | Mark Fitch Jr. |
-| 386 | 458 | Solace Grace |
-| 387 | 458 | Jumpy Clearbuilder |
-| 388 | 458 | Aisha Estrada |
-| 389 | 455 | beTrue76 |
-| 390 | 455 | Clashy |
+| 375 | 467 | Mark Fitch Jr. |
+| 376 | 466 | Shepreneur Sade |
+| 377 | 465 | Joab Gonzalez |
+| 378 | 462 | BusterBear56 |
+| 379 | 462 | Poppy |
+| 380 | 462 | Tanita Jobe |
+| 381 | 462 | Martha Fisher |
+| 382 | 461 | Ash Gribble |
+| 383 | 461 | Kayla Fuentes |
+| 384 | 460 | Shmeedo |
+| 385 | 460 | Holly Wessel |
+| 386 | 458 | Jumpy Clearbuilder |
+| 387 | 458 | Aisha Estrada |
+| 388 | 458 | Solace Grace |
+| 389 | 455 | Clashy |
+| 390 | 455 | beTrue76 |
 | 391 | 454 | Jumpy Builderpiece |
 | 392 | 453 | Justin Michael |
 | 393 | 449 | Karen Rodriguez |
 | 394 | 449 | Miwa |
 | 395 | 447 | Lanelva Tiredofbs Marshall |
 | 396 | 444 | Lisa lisa |
-| 397 | 443 | Crissy Hoffman |
-| 398 | 443 | Shawna Downey |
+| 397 | 443 | Shawna Downey |
+| 398 | 443 | Crissy Hoffman |
 | 399 | 442 | EvoKitty |
 | 400 | 442 | Dazzle Dragon |
 | 401 | 441 | Giggly Tilt |
@@ -874,10 +874,10 @@
 | 866 | 214 | Amori85 |
 | 867 | 214 | Cozy Patternline |
 | 868 | 214 | Linda |
-| 869 | 214 | Worley’s Wife |
-| 870 | 214 | Joe Andrews |
-| 871 | 214 | Monica Shupe |
-| 872 | 214 | Felicia Harrison |
+| 869 | 214 | Felicia Harrison |
+| 870 | 214 | Monica Shupe |
+| 871 | 214 | Joe Andrews |
+| 872 | 214 | Worley’s Wife |
 | 873 | 213 | Breezy Rollfit |
 | 874 | 213 | Chill Rollpiece |
 | 875 | 213 | Lala |
@@ -888,22 +888,22 @@
 | 880 | 211 | Fancy Tilefall |
 | 881 | 210 | Jonelle Jacobs |
 | 882 | 210 | Kimberly Lusk |
-| 883 | 210 | Urplan |
-| 884 | 210 | Kristine Hj Han |
-| 885 | 210 | Electric Storm |
-| 886 | 209 | Amy Gutierrez |
-| 887 | 209 | Ashley Ferguson |
+| 883 | 210 | Kristine Hj Han |
+| 884 | 210 | Electric Storm |
+| 885 | 210 | Urplan |
+| 886 | 209 | Ashley Mcdonald |
+| 887 | 209 | Bren70 |
 | 888 | 209 | Sadeha Simpson |
-| 889 | 209 | Bren70 |
-| 890 | 209 | Ashley Mcdonald |
+| 889 | 209 | Ashley Ferguson |
+| 890 | 209 | Amy Gutierrez |
 | 891 | 209 | Sweetfire |
 | 892 | 209 | Wacky Brick |
-| 893 | 208 | Robert Moore |
-| 894 | 207 | Conela Rouse Goldstein |
-| 895 | 207 | MsChelleAnn |
-| 896 | 207 | Gracey Po |
-| 897 | 207 | Jasmine Turner |
-| 898 | 207 | JUNE |
+| 893 | 208 | Conela Rouse Goldstein |
+| 894 | 208 | Robert Moore |
+| 895 | 207 | JUNE |
+| 896 | 207 | MsChelleAnn |
+| 897 | 207 | Gracey Po |
+| 898 | 207 | Jasmine Turner |
 | 899 | 207 | David Kirschner |
 | 900 | 207 | GingaNinja |
 | 901 | 207 | Joshua Hunt |
@@ -913,9 +913,9 @@
 | 905 | 205 | Yvette Johnson |
 | 906 | 204 | Shelly Jackson |
 | 907 | 204 | BigCup ReeseCup |
-| 908 | 204 | Jessica Caminos |
+| 908 | 204 | Nachos |
 | 909 | 204 | Tod Jae |
-| 910 | 204 | Nachos |
+| 910 | 204 | Jessica Caminos |
 | 911 | 203 | Giggy Bridgepiece |
 | 912 | 203 | LaShieka Noland |
 | 913 | 203 | Nikcole Alexis Bryan |
