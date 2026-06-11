@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:14:49 UTC
+# Standings for team4 as of 2026-06-11 15:15:24 UTC
 
 **Total Participants:** 2541
 
@@ -110,9 +110,9 @@
 | 102 | 1624 | Chaz Duncan |
 | 103 | 1616 | Giggy Matchpiece |
 | 104 | 1604 | squareMel |
-| 105 | 1600 | Snappy Fitzone |
-| 106 | 1591 | Sean Mccleary |
-| 107 | 1581 | DexterDobbins |
+| 105 | 1601 | DexterDobbins |
+| 106 | 1600 | Snappy Fitzone |
+| 107 | 1591 | Sean Mccleary |
 | 108 | 1560 | Neeta Kapadia |
 | 109 | 1559 | Melissa WC |
 | 110 | 1535 | Jenn Fitzgerald |
@@ -236,9 +236,9 @@
 | 228 | 806 | Gracie Ornelas |
 | 229 | 788 | Jackie Jackson |
 | 230 | 788 | Slinky Stackzone |
-| 231 | 781 | Janet Sanfilippo Sullivan |
-| 232 | 778 | Suzanne Carter |
-| 233 | 777 | Vicki Adams |
+| 231 | 781 | Vicki Adams |
+| 232 | 781 | Janet Sanfilippo Sullivan |
+| 233 | 778 | Suzanne Carter |
 | 234 | 776 | WeeWooWee |
 | 235 | 776 | Samantha Worley |
 | 236 | 774 | Katie Lynn Petit |

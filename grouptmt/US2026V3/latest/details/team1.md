@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 15:14:49 UTC
+# Standings for team1 as of 2026-06-11 15:15:24 UTC
 
 **Total Participants:** 2497
 
@@ -84,8 +84,8 @@
 | 76 | 2104 | Carolynne Walker-Bell |
 | 77 | 2103 | April Inboden |
 | 78 | 2088 | Sarah Barnum |
-| 79 | 2072 | Jonathan Vee Jay |
-| 80 | 2063 | Bre Maugh |
+| 79 | 2073 | Bre Maugh |
+| 80 | 2072 | Jonathan Vee Jay |
 | 81 | 2056 | PandaPrincess |
 | 82 | 2026 | Ceilo Marie |
 | 83 | 2015 | Felicia Williams |
@@ -207,9 +207,9 @@
 | 199 | 904 | Byron Mario Cawthon |
 | 200 | 899 | Choc |
 | 201 | 896 | Abraham Espaillat |
-| 202 | 887 | Tessa Gaskin |
-| 203 | 884 | Gael Quintana |
-| 204 | 882 | Shontanese Adams |
+| 202 | 895 | Shontanese Adams |
+| 203 | 887 | Tessa Gaskin |
+| 204 | 884 | Gael Quintana |
 | 205 | 881 | Karebear |
 | 206 | 876 | Tamara N Lee |
 | 207 | 866 | Trendalyn Webb |
@@ -435,16 +435,16 @@
 | 427 | 444 | Amy Lynn Leifheit |
 | 428 | 443 | Tonia Ramos |
 | 429 | 442 | Betsy B. Yohan |
-| 430 | 441 | LaTonya Myers |
-| 431 | 441 | Dennis J Herron II |
-| 432 | 441 | Lyn Reed |
-| 433 | 439 | Smiley Clearpiece |
-| 434 | 439 | Asani CHumba |
-| 435 | 438 | Tipsy Linkroll |
-| 436 | 438 | Melanin Monroe-Dandridge |
-| 437 | 438 | CJ Robinson |
-| 438 | 436 | MindlessMic |
-| 439 | 436 | McKayla Owens |
+| 430 | 442 | McKayla Owens |
+| 431 | 441 | LaTonya Myers |
+| 432 | 441 | Dennis J Herron II |
+| 433 | 441 | Lyn Reed |
+| 434 | 439 | Smiley Clearpiece |
+| 435 | 439 | Asani CHumba |
+| 436 | 438 | Tipsy Linkroll |
+| 437 | 438 | Melanin Monroe-Dandridge |
+| 438 | 438 | CJ Robinson |
+| 439 | 436 | MindlessMic |
 | 440 | 436 | Gbnola |
 | 441 | 434 | Wayne Savannah |
 | 442 | 434 | Tajuana Juana'Cee Coleman |
@@ -467,24 +467,24 @@
 | 459 | 419 | Yadira Salgado |
 | 460 | 418 | Cortaz Lawrie |
 | 461 | 417 | John Staub |
-| 462 | 416 | Twisty Pivot |
-| 463 | 416 | Silly Edgepiece |
-| 464 | 414 | Brittanie Wardlow |
-| 465 | 414 | Sammie Walker |
-| 466 | 412 | Matthieu Pistone |
-| 467 | 412 | De'Nell Edwards |
-| 468 | 412 | Ashley MyBeauty Daniels |
-| 469 | 412 | Jessica Kirby |
-| 470 | 412 | Montego Allen |
-| 471 | 411 | Giggy Tower |
-| 472 | 410 | Salim Thugger |
-| 473 | 410 | Kimberly Linares Hernandez |
-| 474 | 409 | Lisa Fletcher |
-| 475 | 409 | Holly Baker |
-| 476 | 409 | Still Ten Tay |
-| 477 | 409 | KeeKee Williams |
-| 478 | 407 | Giddy Staggerpiece |
-| 479 | 406 | Juan Alvarez |
+| 462 | 416 | Silly Edgepiece |
+| 463 | 416 | Twisty Pivot |
+| 464 | 414 | Sammie Walker |
+| 465 | 414 | Brittanie Wardlow |
+| 466 | 412 | Montego Allen |
+| 467 | 412 | Jessica Kirby |
+| 468 | 412 | Matthieu Pistone |
+| 469 | 412 | De'Nell Edwards |
+| 470 | 412 | Juan Alvarez |
+| 471 | 412 | Ashley MyBeauty Daniels |
+| 472 | 411 | Giggy Tower |
+| 473 | 410 | Salim Thugger |
+| 474 | 410 | Kimberly Linares Hernandez |
+| 475 | 409 | Lisa Fletcher |
+| 476 | 409 | Holly Baker |
+| 477 | 409 | Still Ten Tay |
+| 478 | 409 | KeeKee Williams |
+| 479 | 407 | Giddy Staggerpiece |
 | 480 | 405 | Jennah |
 | 481 | 405 | Slinky Snapbuilder |
 | 482 | 405 | Bubbly Slammer |
@@ -704,15 +704,15 @@
 | 696 | 289 | wmedina67 |
 | 697 | 289 | Loopy Tiler |
 | 698 | 289 | TBabii24 |
-| 699 | 288 | Lozuna |
-| 700 | 288 | MikeHunt |
-| 701 | 288 | Douglas Price |
-| 702 | 288 | Anastasia |
-| 703 | 287 | Mary Phillippi Blanton |
-| 704 | 286 | Kahliah Baker |
-| 705 | 285 | Jes Marie |
-| 706 | 284 | Guy Incognito |
-| 707 | 283 | Stronger Wiser Better |
+| 699 | 288 | Stronger Wiser Better |
+| 700 | 288 | Lozuna |
+| 701 | 288 | MikeHunt |
+| 702 | 288 | Douglas Price |
+| 703 | 288 | Anastasia |
+| 704 | 287 | Mary Phillippi Blanton |
+| 705 | 286 | Kahliah Baker |
+| 706 | 285 | Jes Marie |
+| 707 | 284 | Guy Incognito |
 | 708 | 283 | Lawanda Conley |
 | 709 | 283 | RylonJones |
 | 710 | 282 | Tanisha Taylor |
@@ -831,25 +831,25 @@
 | 823 | 238 | B.L. Perry |
 | 824 | 237 | Lootch |
 | 825 | 237 | Christina Singleton |
-| 826 | 236 | Rayshawn Cohen |
-| 827 | 236 | Chereese Harris |
+| 826 | 236 | Chereese Harris |
+| 827 | 236 | Rayshawn Cohen |
 | 828 | 235 | Squaw Ki Ng |
-| 829 | 235 | Yoellah Benyahmeen |
-| 830 | 235 | Oaklonboy mike |
+| 829 | 235 | Oaklonboy mike |
+| 830 | 235 | Yoellah Benyahmeen |
 | 831 | 235 | nameno |
 | 832 | 235 | Juan Lewis |
 | 833 | 234 | Shameka Tiffany |
 | 834 | 234 | Cj Chimelis |
 | 835 | 233 | Claudia Price |
 | 836 | 233 | Aanngie Aanngie |
-| 837 | 232 | Lexx Robins |
-| 838 | 231 | Xrandomx |
-| 839 | 231 | Rieshelda Marie White |
-| 840 | 231 | toxictonic92 |
-| 841 | 231 | Tyiesha Pie Farmer |
-| 842 | 231 | Ashley Davis |
-| 843 | 230 | Ozell Jones Jr. |
-| 844 | 230 | JesusSaves 😇 |
+| 837 | 232 | JesusSaves 😇 |
+| 838 | 232 | Lexx Robins |
+| 839 | 231 | Xrandomx |
+| 840 | 231 | Rieshelda Marie White |
+| 841 | 231 | toxictonic92 |
+| 842 | 231 | Tyiesha Pie Farmer |
+| 843 | 231 | Ashley Davis |
+| 844 | 230 | Ozell Jones Jr. |
 | 845 | 229 | Happy Blocky |
 | 846 | 229 | Angela Kitchens |
 | 847 | 229 | Derald Miller |
