@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 06:24:46 UTC
+# Standings for team4 as of 2026-06-11 06:25:23 UTC
 
 **Total Participants:** 2487
 
@@ -229,9 +229,9 @@
 | 221 | 768 | Danny Keich III |
 | 222 | 766 | Megan Vick |
 | 223 | 765 | iiPurgeV2 |
-| 224 | 755 | Nutty Rollfit |
-| 225 | 754 | Snippy Splitter |
-| 226 | 753 | Fancy Riserfit |
+| 224 | 763 | Fancy Riserfit |
+| 225 | 755 | Nutty Rollfit |
+| 226 | 754 | Snippy Splitter |
 | 227 | 749 | Nikki Fuller Johnson |
 | 228 | 748 | Bonnie Powell |
 | 229 | 746 | Brick House |
