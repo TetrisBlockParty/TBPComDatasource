@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:15:25 UTC
+# Standings for team1 as of 2026-06-11 08:16:49 UTC
 
 **Total Participants:** 2463
 
@@ -122,8 +122,8 @@
 | 114 | 1463 | Robbie Cheeseman |
 | 115 | 1454 | Spicy Balancer |
 | 116 | 1434 | Dulo |
-| 117 | 1432 | Roberta Lynn |
-| 118 | 1432 | She Higgy |
+| 117 | 1432 | She Higgy |
+| 118 | 1432 | Roberta Lynn |
 | 119 | 1426 | Cj Gorman |
 | 120 | 1421 | Ashley Espeut |
 | 121 | 1415 | Sarah Marie |
@@ -134,8 +134,8 @@
 | 126 | 1355 | Whitney Butler |
 | 127 | 1350 | Keeta Chickswit Scott |
 | 128 | 1344 | G Ah Mayes |
-| 129 | 1323 | Catara Renae Oliver |
-| 130 | 1323 | Denise B |
+| 129 | 1323 | Denise B |
+| 130 | 1323 | Catara Renae Oliver |
 | 131 | 1303 | Aviv Zehavi |
 | 132 | 1294 | Anthony Washington |
 | 133 | 1287 | sha |
@@ -164,14 +164,14 @@
 | 156 | 1088 | Jimmie Makia |
 | 157 | 1080 | Nerdy Blockpiece |
 | 158 | 1078 | Quirky Fallgrid |
-| 159 | 1064 | Michelle Titus |
-| 160 | 1061 | Atlantalindi |
-| 161 | 1061 | Joy Citizen Pickney |
-| 162 | 1056 | Cece Fowler |
-| 163 | 1054 | Eartha Brown |
-| 164 | 1053 | Gotcha |
-| 165 | 1053 | Yolanda E Fergerson |
-| 166 | 1047 | Katherine Short |
+| 159 | 1067 | Katherine Short |
+| 160 | 1064 | Michelle Titus |
+| 161 | 1061 | Atlantalindi |
+| 162 | 1061 | Joy Citizen Pickney |
+| 163 | 1056 | Cece Fowler |
+| 164 | 1054 | Eartha Brown |
+| 165 | 1053 | Gotcha |
+| 166 | 1053 | Yolanda E Fergerson |
 | 167 | 1027 | Ty Øtg |
 | 168 | 1021 | Jeffrey Barrows |
 | 169 | 1012 | Danielle Barthelme |
@@ -515,42 +515,42 @@
 | 507 | 359 | Montréal Mars |
 | 508 | 358 | Tori Carter |
 | 509 | 358 | Juan Alvarez |
-| 510 | 357 | Manda Allen |
-| 511 | 355 | Shawn Himes |
-| 512 | 354 | Carolyn Delphie |
-| 513 | 353 | Dizzy Dashy |
-| 514 | 353 | Shanns |
-| 515 | 353 | Tay |
-| 516 | 353 | Jovy |
-| 517 | 352 | AnnaM |
-| 518 | 351 | Slinky Snapbuilder |
-| 519 | 350 | Daddy |
-| 520 | 350 | Jack Vlasak |
-| 521 | 350 | The DUBZ |
-| 522 | 350 | SnazzyIvy |
+| 510 | 357 | Slinky Snapbuilder |
+| 511 | 357 | Manda Allen |
+| 512 | 355 | Shawn Himes |
+| 513 | 354 | Carolyn Delphie |
+| 514 | 353 | Dizzy Dashy |
+| 515 | 353 | Shanns |
+| 516 | 353 | Tay |
+| 517 | 353 | Jovy |
+| 518 | 352 | AnnaM |
+| 519 | 350 | SnazzyIvy |
+| 520 | 350 | The DUBZ |
+| 521 | 350 | Jack Vlasak |
+| 522 | 350 | Daddy |
 | 523 | 349 | Kimmie Gargano |
 | 524 | 348 | Emily Wright |
-| 525 | 347 | Travis Davison |
-| 526 | 347 | Mighty Dropper |
-| 527 | 346 | Casey Chapman |
-| 528 | 346 | Lady T |
-| 529 | 346 | Marsha Earl |
+| 525 | 347 | Mighty Dropper |
+| 526 | 347 | Travis Davison |
+| 527 | 346 | Lady T |
+| 528 | 346 | Marsha Earl |
+| 529 | 346 | Casey Chapman |
 | 530 | 345 | Heather Wilson |
-| 531 | 344 | Boldy Matchbuilder |
-| 532 | 344 | Cherika Wright |
-| 533 | 344 | Juan Santiago |
-| 534 | 344 | Onovella Titsworth |
-| 535 | 344 | EvaLynn NeCole |
-| 536 | 344 | Abby |
+| 531 | 344 | MonaSparks |
+| 532 | 344 | EvaLynn NeCole |
+| 533 | 344 | Onovella Titsworth |
+| 534 | 344 | Juan Santiago |
+| 535 | 344 | Abby |
+| 536 | 344 | Cherika Wright |
 | 537 | 344 | Abigail Newman Sweet |
-| 538 | 344 | MonaSparks |
+| 538 | 344 | Boldy Matchbuilder |
 | 539 | 343 | Earl Williams |
 | 540 | 342 | Ashley Monet Terrell |
-| 541 | 341 | MELLZZtick€T |
-| 542 | 341 | Alyssa Rae |
+| 541 | 341 | Alyssa Rae |
+| 542 | 341 | MELLZZtick€T |
 | 543 | 340 | Chocolate |
-| 544 | 339 | Keith Johnson |
-| 545 | 339 | 신재호 |
+| 544 | 339 | 신재호 |
+| 545 | 339 | Keith Johnson |
 | 546 | 338 | Motown Chuck |
 | 547 | 338 | Giddy Staggerpiece |
 | 548 | 338 | Daniel Santana |
@@ -570,9 +570,9 @@
 | 562 | 329 | Chris Watson Draper |
 | 563 | 329 | Tiffany Jean Hinson |
 | 564 | 325 | Tracy Feyler |
-| 565 | 324 | Teddy Davis |
+| 565 | 324 | Sharee Robinson |
 | 566 | 324 | Vera Beckford |
-| 567 | 324 | Sharee Robinson |
+| 567 | 324 | Teddy Davis |
 | 568 | 324 | Kristie |
 | 569 | 324 | Breezy Catcher |
 | 570 | 323 | Bea Dyer-Fields |
@@ -581,17 +581,17 @@
 | 573 | 321 | Terri Smart |
 | 574 | 321 | LuckyStar |
 | 575 | 321 | Andra Ward |
-| 576 | 320 | Phongoudom Tika |
-| 577 | 320 | Valerie Alexander |
+| 576 | 320 | Aaron Hartmann |
+| 577 | 320 | Phongoudom Tika |
 | 578 | 320 | Malcolm Stanley |
-| 579 | 320 | Aaron Hartmann |
+| 579 | 320 | Valerie Alexander |
 | 580 | 319 | Zappy Snapgrid |
 | 581 | 319 | Ciera Peace |
 | 582 | 319 | TY Newme Batts |
 | 583 | 319 | Christi Walker Patton |
 | 584 | 319 | MACHETEEDDIE513 |
-| 585 | 318 | Marlainia Boyd |
-| 586 | 318 | Nerdy Snapfall |
+| 585 | 318 | Nerdy Snapfall |
+| 586 | 318 | Marlainia Boyd |
 | 587 | 318 | Latore Maxie |
 | 588 | 317 | Hardtohandle91 |
 | 589 | 317 | Chris Holland |
@@ -599,62 +599,62 @@
 | 591 | 317 | Monica Tovar |
 | 592 | 317 | Mister Reid |
 | 593 | 316 | Comedian Gdane |
-| 594 | 314 | Dana Hawes |
-| 595 | 314 | Breezy Dashpiece |
-| 596 | 314 | PSD |
-| 597 | 312 | Spunky Gridder |
-| 598 | 312 | Silly Wiper |
-| 599 | 311 | Jenni Hardman |
-| 600 | 311 | Sarah Steckbauer |
-| 601 | 311 | Saucy Faller |
+| 594 | 314 | PSD |
+| 595 | 314 | Dana Hawes |
+| 596 | 314 | Breezy Dashpiece |
+| 597 | 313 | jeremy92 |
+| 598 | 312 | Spunky Gridder |
+| 599 | 312 | Silly Wiper |
+| 600 | 311 | Jenni Hardman |
+| 601 | 311 | Sarah Steckbauer |
 | 602 | 311 | SceneGreenz Wali |
-| 603 | 310 | Shakmar |
-| 604 | 310 | Peppy Glider |
+| 603 | 311 | Saucy Faller |
+| 604 | 310 | Shakmar |
 | 605 | 310 | Bambam |
-| 606 | 309 | Frilly Shatterline |
-| 607 | 308 | Melissa Olvera |
-| 608 | 308 | Darrel K Pemberton |
-| 609 | 308 | Tonya Lee Sanders |
-| 610 | 308 | Jjhandsome |
-| 611 | 307 | Aridevina |
-| 612 | 307 | Kàrma Lee |
-| 613 | 307 | Zany Breaker |
-| 614 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 615 | 306 | Rebecca Jackson |
-| 616 | 306 | Mafio SO |
-| 617 | 306 | Zappy Clearfit |
-| 618 | 305 | BonnieB |
-| 619 | 304 | Mrs.Ann |
-| 620 | 304 | Octavia Bsb Johnson |
-| 621 | 303 | Kelley Johnson |
-| 622 | 303 | Kelvin Cook |
-| 623 | 303 | Kamilya Rembert |
-| 624 | 302 | Ebby |
-| 625 | 301 | LaShawyn Wood |
-| 626 | 301 | Monica Fields |
-| 627 | 300 | Daring Blockclear |
-| 628 | 300 | brite |
-| 629 | 300 | Cheryl Miller |
-| 630 | 300 | Slinky Swipe |
-| 631 | 300 | Phillip White |
-| 632 | 300 | Ashlie Mo |
-| 633 | 300 | Kate Moses |
-| 634 | 299 | Kala LaRicka |
+| 606 | 310 | Peppy Glider |
+| 607 | 309 | Frilly Shatterline |
+| 608 | 308 | Tonya Lee Sanders |
+| 609 | 308 | Jjhandsome |
+| 610 | 308 | Melissa Olvera |
+| 611 | 308 | Darrel K Pemberton |
+| 612 | 307 | Zany Breaker |
+| 613 | 307 | Aridevina |
+| 614 | 307 | Kàrma Lee |
+| 615 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 616 | 306 | Rebecca Jackson |
+| 617 | 306 | Mafio SO |
+| 618 | 306 | Zappy Clearfit |
+| 619 | 305 | BonnieB |
+| 620 | 304 | Mrs.Ann |
+| 621 | 304 | Octavia Bsb Johnson |
+| 622 | 303 | Kelley Johnson |
+| 623 | 303 | Kelvin Cook |
+| 624 | 303 | Kamilya Rembert |
+| 625 | 302 | Ebby |
+| 626 | 301 | LaShawyn Wood |
+| 627 | 301 | Monica Fields |
+| 628 | 300 | Slinky Swipe |
+| 629 | 300 | Ashlie Mo |
+| 630 | 300 | Daring Blockclear |
+| 631 | 300 | brite |
+| 632 | 300 | Cheryl Miller |
+| 633 | 300 | Phillip White |
+| 634 | 300 | Kate Moses |
 | 635 | 299 | Taz Ballard |
 | 636 | 299 | Chandler Magee |
-| 637 | 298 | Rachael R Gull |
-| 638 | 297 | meatballs |
-| 639 | 297 | Hasty Rollzone |
-| 640 | 296 | Lounique |
+| 637 | 299 | Kala LaRicka |
+| 638 | 298 | Rachael R Gull |
+| 639 | 297 | meatballs |
+| 640 | 297 | Hasty Rollzone |
 | 641 | 296 | Cornelius Neal |
-| 642 | 296 | Stephanie L Jeffries Moultrie |
-| 643 | 295 | Tyler |
-| 644 | 294 | Cori Cleland |
-| 645 | 294 | Tamika Rocheteau |
-| 646 | 294 | Loony Clearer |
-| 647 | 293 | lizlizliz |
-| 648 | 293 | jeremy92 |
-| 649 | 293 | crumb bumc |
+| 642 | 296 | Lounique |
+| 643 | 296 | Stephanie L Jeffries Moultrie |
+| 644 | 295 | Tyler |
+| 645 | 294 | Cori Cleland |
+| 646 | 294 | Tamika Rocheteau |
+| 647 | 294 | Loony Clearer |
+| 648 | 293 | crumb bumc |
+| 649 | 293 | lizlizliz |
 | 650 | 292 | Courtney Cicoria |
 | 651 | 291 | Pj Rojas |
 | 652 | 291 | Bella |
