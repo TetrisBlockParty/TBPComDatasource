@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 17:24:45 UTC
+# Standings for team2 as of 2026-06-11 17:25:23 UTC
 
 **Total Participants:** 2988
 
@@ -113,8 +113,8 @@
 | 105 | 2344 | Marie Edmonds |
 | 106 | 2329 | Karen Reid Cenkush |
 | 107 | 2323 | Angie Mccain |
-| 108 | 2231 | Bon Lynn |
-| 109 | 2223 | Loopy Curvebuilder |
+| 108 | 2233 | Loopy Curvebuilder |
+| 109 | 2231 | Bon Lynn |
 | 110 | 2189 | Courtney McCulley |
 | 111 | 2183 | Jazzy Faller |
 | 112 | 2160 | Kurt Brown |
@@ -184,8 +184,8 @@
 | 176 | 1269 | Snappy Blockbuilder |
 | 177 | 1259 | Marie Luciano |
 | 178 | 1251 | Ricardo Ewart |
-| 179 | 1246 | Monique Frantz |
-| 180 | 1235 | BrendaLee NolanBos |
+| 179 | 1247 | BrendaLee NolanBos |
+| 180 | 1246 | Monique Frantz |
 | 181 | 1234 | Spicy Risegrid |
 | 182 | 1234 | Cristi Doris |
 | 183 | 1230 | Sedy |
@@ -259,7 +259,7 @@
 | 251 | 909 | Lisa Underwood Desmond |
 | 252 | 906 | Cool Climber |
 | 253 | 904 | Jamie Jones |
-| 254 | 901 | Denise Morehart |
+| 254 | 902 | Denise Morehart |
 | 255 | 898 | Kim Hunt |
 | 256 | 898 | Giggly Wipepiece |
 | 257 | 898 | Zesty Strikerbuilder |
@@ -831,35 +831,35 @@
 | 823 | 300 | Adam Latin |
 | 824 | 299 | Amanda Kennedy |
 | 825 | 299 | Jennifer Covington |
-| 826 | 298 | Ryan Rhodes |
-| 827 | 298 | Laura Fagans |
-| 828 | 297 | Jaimie Waybill |
-| 829 | 297 | Chipper Towerzone |
-| 830 | 296 | Jazzy Snapfit |
-| 831 | 295 | NickandJess Reynolds |
-| 832 | 294 | Zany Wrecker |
-| 833 | 294 | Rebekah Holland |
-| 834 | 294 | Crafty Rotater |
-| 835 | 294 | candi |
-| 836 | 294 | Amanda Bryte |
-| 837 | 293 | Blossom48 |
-| 838 | 293 | denirocorona |
-| 839 | 293 | Jessica Garoutte |
-| 840 | 293 | Danita Moon |
-| 841 | 292 | Dame Smith |
-| 842 | 292 | Darla Nolt |
-| 843 | 292 | BugMansMom |
-| 844 | 290 | Duck |
-| 845 | 290 | ChefDeb |
-| 846 | 290 | Sandy Rundel Holderman |
-| 847 | 290 | Frothy Roll |
+| 826 | 298 | Frothy Roll |
+| 827 | 298 | Ryan Rhodes |
+| 828 | 298 | Laura Fagans |
+| 829 | 297 | Jaimie Waybill |
+| 830 | 297 | Chipper Towerzone |
+| 831 | 296 | Jazzy Snapfit |
+| 832 | 295 | NickandJess Reynolds |
+| 833 | 294 | Zany Wrecker |
+| 834 | 294 | Rebekah Holland |
+| 835 | 294 | Crafty Rotater |
+| 836 | 294 | candi |
+| 837 | 294 | Amanda Bryte |
+| 838 | 293 | Blossom48 |
+| 839 | 293 | denirocorona |
+| 840 | 293 | Jessica Garoutte |
+| 841 | 293 | Danita Moon |
+| 842 | 292 | Dame Smith |
+| 843 | 292 | Darla Nolt |
+| 844 | 292 | BugMansMom |
+| 845 | 290 | Duck |
+| 846 | 290 | ChefDeb |
+| 847 | 290 | Sandy Rundel Holderman |
 | 848 | 289 | Stella |
 | 849 | 289 | Precious Womack |
 | 850 | 289 | Diane Byrd |
 | 851 | 289 | Joshua Hopkins |
 | 852 | 288 | Amy |
-| 853 | 288 | Henny Henny |
-| 854 | 288 | Maurii93 |
+| 853 | 288 | Maurii93 |
+| 854 | 288 | Henny Henny |
 | 855 | 288 | Nutty Fitzone |
 | 856 | 288 | Funky Blockmatch |
 | 857 | 286 | Jason Lamporte |
@@ -1229,44 +1229,44 @@
 | 1221 | 186 | Jessica Veness-Toth |
 | 1222 | 186 | Kimberly Brooks |
 | 1223 | 185 | Squared |
-| 1224 | 185 | Samantha LeBlanc |
+| 1224 | 185 | Vicki Flippo |
 | 1225 | 185 | Casandra Shenesky |
 | 1226 | 185 | Alessandria Anderson |
-| 1227 | 185 | Vicki Flippo |
+| 1227 | 185 | Samantha LeBlanc |
 | 1228 | 184 | Nikki Blilie |
 | 1229 | 184 | Tonya Willprecht |
 | 1230 | 184 | Seamus |
 | 1231 | 184 | Kelly Christine Trimmer |
 | 1232 | 183 | Spunky Cascadeclear |
 | 1233 | 183 | Louis Brudzinski |
-| 1234 | 183 | Kennadee Albertson |
-| 1235 | 183 | Maithan Conour |
-| 1236 | 183 | Nadine Velardo |
+| 1234 | 183 | KT Scott |
+| 1235 | 183 | Kennadee Albertson |
+| 1236 | 183 | Maithan Conour |
 | 1237 | 183 | Alena Ross |
-| 1238 | 182 | LeighAnn Loftis |
-| 1239 | 182 | Emilee Dulyea |
+| 1238 | 183 | Nadine Velardo |
+| 1239 | 182 | Bubbly Wrecker |
 | 1240 | 182 | Jason Williams |
-| 1241 | 182 | Dandy Matchzone |
-| 1242 | 181 | CowboyChalie |
-| 1243 | 181 | Daniel Cline |
+| 1241 | 182 | LeighAnn Loftis |
+| 1242 | 182 | Dandy Matchzone |
+| 1243 | 182 | Emilee Dulyea |
 | 1244 | 181 | Meve |
-| 1245 | 181 | Karen Pearson-Wilson |
-| 1246 | 181 | BikerBorn BikerBred |
-| 1247 | 181 | Bubbly Wrecker |
-| 1248 | 181 | Chass |
-| 1249 | 181 | WestieMom |
+| 1245 | 181 | CowboyChalie |
+| 1246 | 181 | Daniel Cline |
+| 1247 | 181 | Silly Cluster |
+| 1248 | 181 | WestieMom |
+| 1249 | 181 | Karen Pearson-Wilson |
 | 1250 | 181 | Cammy Riley |
-| 1251 | 181 | Silly Cluster |
-| 1252 | 181 | Shiny Spinfit |
-| 1253 | 180 | Dana Wilson |
-| 1254 | 180 | Marcia Davis |
-| 1255 | 180 | Dawn Kroptavich |
-| 1256 | 180 | Kristy Moore |
-| 1257 | 180 | KT Scott |
-| 1258 | 180 | Rob Miller |
+| 1251 | 181 | BikerBorn BikerBred |
+| 1252 | 181 | Chass |
+| 1253 | 181 | Shiny Spinfit |
+| 1254 | 180 | Dana Wilson |
+| 1255 | 180 | Marcia Davis |
+| 1256 | 180 | Dawn Kroptavich |
+| 1257 | 180 | Rob Miller |
+| 1258 | 180 | Kristy Moore |
 | 1259 | 180 | Loriane Shumate Griggs |
-| 1260 | 180 | Amy Renaud |
-| 1261 | 180 | Tommi Lynn Lawson |
+| 1260 | 180 | Tommi Lynn Lawson |
+| 1261 | 180 | Amy Renaud |
 | 1262 | 180 | Tonya Templin Smith |
 | 1263 | 180 | Tucker Catherman |
 | 1264 | 180 | Ally Miller |
@@ -1619,34 +1619,34 @@
 | 1611 | 118 | Raven |
 | 1612 | 117 | Haley Mansfield |
 | 1613 | 117 | BoxerMom |
-| 1614 | 117 | Tiffany Fitch |
-| 1615 | 117 | Suszi |
-| 1616 | 117 | Rae Madewell |
+| 1614 | 117 | Suszi |
+| 1615 | 117 | Rae Madewell |
+| 1616 | 117 | Tiffany Fitch |
 | 1617 | 117 | Josie Mendivil |
 | 1618 | 116 | Nicole Chestnut |
 | 1619 | 116 | latte |
 | 1620 | 116 | Michelle Naujalis |
 | 1621 | 116 | Lisa |
-| 1622 | 115 | Kaylyn Wickham |
-| 1623 | 115 | Crazygranny |
-| 1624 | 115 | Brave Curver |
-| 1625 | 115 | Shaun Talbot |
-| 1626 | 115 | Kyle |
-| 1627 | 115 | Kandy Comer |
-| 1628 | 115 | Joe Duffer |
-| 1629 | 115 | Doris Bonin |
-| 1630 | 115 | CATFISH |
+| 1622 | 115 | CATFISH |
+| 1623 | 115 | Doris Bonin |
+| 1624 | 115 | Kyle |
+| 1625 | 115 | Brave Curver |
+| 1626 | 115 | Kaylyn Wickham |
+| 1627 | 115 | Crazygranny |
+| 1628 | 115 | Shaun Talbot |
+| 1629 | 115 | Kandy Comer |
+| 1630 | 115 | Joe Duffer |
 | 1631 | 115 | Raffa |
 | 1632 | 115 | Peachy Piecebuilder |
-| 1633 | 114 | Emma |
-| 1634 | 114 | Nickishan Richrds |
-| 1635 | 114 | Kayla Faulkiner |
-| 1636 | 114 | Jennifer Bailey Byrum |
-| 1637 | 114 | Kacey Bates |
-| 1638 | 114 | Frisky Snapper |
-| 1639 | 113 | RalphyD |
+| 1633 | 114 | Kayla Faulkiner |
+| 1634 | 114 | Jennifer Bailey Byrum |
+| 1635 | 114 | Kacey Bates |
+| 1636 | 114 | Frisky Snapper |
+| 1637 | 114 | Emma |
+| 1638 | 114 | Dolly |
+| 1639 | 114 | Nickishan Richrds |
 | 1640 | 113 | Nutty Cascader |
-| 1641 | 113 | Dolly |
+| 1641 | 113 | RalphyD |
 | 1642 | 113 | Renee Garneau Cain |
 | 1643 | 113 | Dawn Lynn |
 | 1644 | 112 | Yuhh |
