@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 19:24:46 UTC
+# Standings for team1 as of 2026-06-11 19:25:27 UTC
 
 **Total Participants:** 2525
 
@@ -438,10 +438,10 @@
 | 430 | 454 | Smiley Clearpiece |
 | 431 | 454 | tskmstr |
 | 432 | 454 | HarleyJane |
-| 433 | 454 | MamushiOh |
-| 434 | 454 | Taz Ballard |
-| 435 | 454 | Ladybug |
-| 436 | 453 | C Lo Green |
+| 433 | 454 | C Lo Green |
+| 434 | 454 | MamushiOh |
+| 435 | 454 | Taz Ballard |
+| 436 | 454 | Ladybug |
 | 437 | 453 | Andra Ward |
 | 438 | 452 | Charlene Baltimore |
 | 439 | 452 | Kenny MrOnethousand Peck |
@@ -701,94 +701,94 @@
 | 693 | 297 | Marbama |
 | 694 | 296 | Antoinette Jones |
 | 695 | 296 | Stephanie L Jeffries Moultrie |
-| 696 | 296 | Cornelius Neal |
-| 697 | 295 | Tyler |
-| 698 | 294 | Dirty Deeds |
-| 699 | 294 | Cori Cleland |
-| 700 | 293 | Claudia Price |
-| 701 | 293 | Rhianna Dinki Austin |
-| 702 | 292 | Courtney Cicoria |
+| 696 | 296 | Christy Quick |
+| 697 | 296 | Cornelius Neal |
+| 698 | 295 | Tyler |
+| 699 | 294 | Dirty Deeds |
+| 700 | 294 | Cori Cleland |
+| 701 | 293 | Claudia Price |
+| 702 | 293 | Rhianna Dinki Austin |
 | 703 | 292 | Darrelle Short |
-| 704 | 292 | Gerold Folk Haddock |
-| 705 | 291 | Bubbly Basegrid |
-| 706 | 291 | Pj Rojas |
-| 707 | 291 | Bella |
-| 708 | 291 | Brian Taylor |
-| 709 | 291 | Christy Quick |
-| 710 | 290 | Maxine Williams |
-| 711 | 290 | Stephanie Ellis |
+| 704 | 292 | Courtney Cicoria |
+| 705 | 292 | Gerold Folk Haddock |
+| 706 | 291 | Bubbly Basegrid |
+| 707 | 291 | Brian Taylor |
+| 708 | 291 | Bella |
+| 709 | 291 | Pj Rojas |
+| 710 | 290 | Stephanie Ellis |
+| 711 | 290 | Maxine Williams |
 | 712 | 290 | Mathew Trudell |
-| 713 | 289 | wmedina67 |
-| 714 | 289 | TBabii24 |
-| 715 | 289 | Loopy Tiler |
-| 716 | 288 | Stronger Wiser Better |
-| 717 | 288 | Anastasia |
+| 713 | 289 | Loopy Tiler |
+| 714 | 289 | wmedina67 |
+| 715 | 289 | TBabii24 |
+| 716 | 288 | MikeHunt |
+| 717 | 288 | Stronger Wiser Better |
 | 718 | 288 | Lozuna |
-| 719 | 288 | Douglas Price |
-| 720 | 288 | MikeHunt |
+| 719 | 288 | Anastasia |
+| 720 | 288 | Douglas Price |
 | 721 | 287 | GetDaOPPS |
-| 722 | 286 | Rieshelda Marie White |
-| 723 | 286 | Kahliah Baker |
+| 722 | 286 | Kahliah Baker |
+| 723 | 286 | Rieshelda Marie White |
 | 724 | 285 | Jes Marie |
-| 725 | 284 | Don Ray Mc |
-| 726 | 284 | Guy Incognito |
+| 725 | 284 | Guy Incognito |
+| 726 | 284 | Don Ray Mc |
 | 727 | 284 | Dorian Griffin |
 | 728 | 283 | Lawanda Conley |
 | 729 | 283 | RylonJones |
-| 730 | 282 | Poyre Shelton |
-| 731 | 282 | Tanisha Taylor |
-| 732 | 282 | Clipzby |
-| 733 | 282 | Perky Pusher |
+| 730 | 282 | Tanisha Taylor |
+| 731 | 282 | Poyre Shelton |
+| 732 | 282 | Perky Pusher |
+| 733 | 282 | Clipzby |
 | 734 | 281 | Lilly Brown |
 | 735 | 281 | Lucille Wilson Davis |
 | 736 | 281 | ChunLi |
-| 737 | 280 | Sarah Swietlicki - Lopez |
-| 738 | 280 | Leavon Smith |
-| 739 | 280 | Juicy |
-| 740 | 280 | Nekka |
-| 741 | 280 | Latoya Carson |
-| 742 | 280 | NedaWin |
-| 743 | 279 | DeAngelo Sorrells |
-| 744 | 279 | Fina McKinnis |
+| 737 | 280 | Leavon Smith |
+| 738 | 280 | NedaWin |
+| 739 | 280 | Sarah Swietlicki - Lopez |
+| 740 | 280 | Latoya Carson |
+| 741 | 280 | Juicy |
+| 742 | 280 | Nekka |
+| 743 | 279 | Fina McKinnis |
+| 744 | 279 | DeAngelo Sorrells |
 | 745 | 277 | Mario Meliodas |
-| 746 | 276 | Dannie |
-| 747 | 276 | Taneka Howell |
-| 748 | 276 | Rosalind Chatman |
-| 749 | 276 | Joseph Vs Cap |
-| 750 | 275 | Chris Sladoje |
-| 751 | 275 | MzJuice Box |
-| 752 | 275 | Michelle Peters |
+| 746 | 276 | Taneka Howell |
+| 747 | 276 | Rosalind Chatman |
+| 748 | 276 | Joseph Vs Cap |
+| 749 | 276 | Dannie |
+| 750 | 275 | MzJuice Box |
+| 751 | 275 | Michelle Peters |
+| 752 | 275 | Chris Sladoje |
 | 753 | 274 | Jimmy Shannon |
 | 754 | 274 | Polite Granny |
-| 755 | 273 | Frances Davis |
-| 756 | 273 | Laysa Nunez |
+| 755 | 273 | Cheery Climber |
+| 756 | 273 | Bob |
 | 757 | 273 | Mommy Frank |
-| 758 | 273 | Cheery Climber |
-| 759 | 273 | Bob |
-| 760 | 272 | Felicia Dungey |
-| 761 | 272 | Seirra Robinson |
-| 762 | 272 | kayluv85 |
-| 763 | 272 | $hort Dog |
-| 764 | 271 | Xrandomx |
-| 765 | 271 | Sunset Owens |
-| 766 | 271 | MsSassygee Boom |
+| 758 | 273 | Frances Davis |
+| 759 | 273 | Laysa Nunez |
+| 760 | 272 | $hort Dog |
+| 761 | 272 | kayluv85 |
+| 762 | 272 | Felicia Dungey |
+| 763 | 272 | Seirra Robinson |
+| 764 | 271 | Sunset Owens |
+| 765 | 271 | MsSassygee Boom |
+| 766 | 271 | Xrandomx |
 | 767 | 270 | Lester Malone |
-| 768 | 269 | Tara Clarke |
-| 769 | 269 | messyboots |
+| 768 | 269 | Blocksy |
+| 769 | 269 | Tara Clarke |
 | 770 | 269 | Lynn |
-| 771 | 269 | Blocksy |
+| 771 | 269 | messyboots |
 | 772 | 268 | Kala Miller |
 | 773 | 268 | Katrina Ramey |
-| 774 | 267 | Rachel Lopez |
-| 775 | 267 | Analesia Taylor |
-| 776 | 266 | Silly Shifter |
-| 777 | 266 | Semaj Johnson |
+| 774 | 267 | Analesia Taylor |
+| 775 | 267 | Rachel Lopez |
+| 776 | 266 | Semaj Johnson |
+| 777 | 266 | Silly Shifter |
 | 778 | 265 | Kortney Adams |
 | 779 | 265 | Shanjerrica Taylor Rosell |
 | 780 | 264 | Donna Payne |
 | 781 | 264 | Mom3granny2 |
-| 782 | 264 | Glitzy Clusterer |
-| 783 | 264 | Adrian Wilson |
+| 782 | 264 | Adrian Wilson |
+| 783 | 264 | Glitzy Clusterer |
 | 784 | 264 | Tiffany Hooper |
 | 785 | 263 | Messy Live |
 | 786 | 263 | Mami Badd |
@@ -1777,36 +1777,36 @@
 | 1769 | 51 | Madam Suki |
 | 1770 | 50 | Aero Builder |
 | 1771 | 50 | TrapQween39Bi |
-| 1772 | 50 | Bouncy Slammer |
+| 1772 | 50 | Marc Jones |
 | 1773 | 50 | Terry Lee Moya |
 | 1774 | 50 | Hoppy Combo |
-| 1775 | 50 | Speedy Patternblock |
-| 1776 | 50 | ThaMENACING1 |
+| 1775 | 50 | Bouncy Slammer |
+| 1776 | 50 | Speedy Patternblock |
 | 1777 | 50 | Danny Kerns Jr. |
-| 1778 | 50 | Melissa Embrey |
-| 1779 | 49 | Temeshia Brooks Washington |
+| 1778 | 50 | ThaMENACING1 |
+| 1779 | 50 | Melissa Embrey |
 | 1780 | 49 | Carl Richardson |
-| 1781 | 49 | Lush Buildsnap |
-| 1782 | 49 | Brika Brika |
-| 1783 | 48 | Narena Desertsong |
-| 1784 | 48 | Rl Valsin |
-| 1785 | 48 | Jumpy Striker |
-| 1786 | 48 | Michelle Ellehcim |
-| 1787 | 48 | Jolly Combo |
+| 1781 | 49 | Temeshia Brooks Washington |
+| 1782 | 49 | Lush Buildsnap |
+| 1783 | 49 | Brika Brika |
+| 1784 | 48 | Narena Desertsong |
+| 1785 | 48 | Rl Valsin |
+| 1786 | 48 | Jumpy Striker |
+| 1787 | 48 | Michelle Ellehcim |
 | 1788 | 48 | Deidre Anderson |
-| 1789 | 47 | Kristy Nichole Smith |
-| 1790 | 47 | Slinky Balancepiece |
-| 1791 | 47 | Marc Jones |
+| 1789 | 48 | Jolly Combo |
+| 1790 | 47 | Kristy Nichole Smith |
+| 1791 | 47 | Slinky Balancepiece |
 | 1792 | 47 | lou28 |
-| 1793 | 47 | Dizzy Ziggy |
-| 1794 | 47 | Hyper Cluster |
-| 1795 | 47 | Mina Abdullah |
+| 1793 | 47 | Hyper Cluster |
+| 1794 | 47 | Dizzy Ziggy |
+| 1795 | 47 | Queen |
 | 1796 | 47 | Leonard R. Chanette |
 | 1797 | 47 | Major314 |
-| 1798 | 47 | Queen |
+| 1798 | 47 | Mina Abdullah |
 | 1799 | 47 | Pizzle |
-| 1800 | 46 | NEM0228 |
-| 1801 | 46 | Beverly Redd-Fountain |
+| 1800 | 46 | Beverly Redd-Fountain |
+| 1801 | 46 | NEM0228 |
 | 1802 | 46 | Christy Grier |
 | 1803 | 46 | Daniel Jenkins |
 | 1804 | 46 | Swanky Linkmatch |
