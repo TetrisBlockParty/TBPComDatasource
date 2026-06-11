@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 04:02:48 UTC
+# Standings for team1 as of 2026-06-11 04:03:23 UTC
 
 **Total Participants:** 2431
 
@@ -351,18 +351,18 @@
 | 343 | 490 | Kate Hancock Malicek |
 | 344 | 489 | Jhonny Maii |
 | 345 | 489 | wuvbuug |
-| 346 | 486 | 大竹直之 |
-| 347 | 485 | Natasha Rucker |
-| 348 | 484 | Candy Lee |
-| 349 | 484 | Joana Thompson |
-| 350 | 483 | NastyFriend |
-| 351 | 482 | akosua |
-| 352 | 482 | Brave Clearbuilder |
-| 353 | 481 | Simone Bailey |
-| 354 | 481 | NewEve |
-| 355 | 480 | Ashleyy Netchert |
-| 356 | 480 | ♈️ Ariesbaby |
-| 357 | 478 | Jackie Sanasay |
+| 346 | 487 | Jackie Sanasay |
+| 347 | 486 | 大竹直之 |
+| 348 | 485 | Natasha Rucker |
+| 349 | 484 | Candy Lee |
+| 350 | 484 | Joana Thompson |
+| 351 | 483 | NastyFriend |
+| 352 | 482 | akosua |
+| 353 | 482 | Brave Clearbuilder |
+| 354 | 481 | Simone Bailey |
+| 355 | 481 | NewEve |
+| 356 | 480 | Ashleyy Netchert |
+| 357 | 480 | ♈️ Ariesbaby |
 | 358 | 477 | Nerdy Climber |
 | 359 | 476 | Donnie Withthebody |
 | 360 | 476 | Hasty Glidezone |
@@ -1386,14 +1386,14 @@
 | 1378 | 87 | Korie Dixon |
 | 1379 | 87 | Sunny Riserbuilder |
 | 1380 | 87 | Natalie Burroughs |
-| 1381 | 86 | LaTonya Rivers |
-| 1382 | 86 | rummy |
-| 1383 | 86 | Noni |
-| 1384 | 86 | Sunny Cascader |
-| 1385 | 86 | kattat |
-| 1386 | 86 | Davina Valentino |
-| 1387 | 86 | Pamela Cooper |
-| 1388 | 86 | J Dot Flo |
+| 1381 | 87 | J Dot Flo |
+| 1382 | 86 | LaTonya Rivers |
+| 1383 | 86 | rummy |
+| 1384 | 86 | Noni |
+| 1385 | 86 | Sunny Cascader |
+| 1386 | 86 | kattat |
+| 1387 | 86 | Davina Valentino |
+| 1388 | 86 | Pamela Cooper |
 | 1389 | 85 | Skye |
 | 1390 | 85 | Danielle Winfield |
 | 1391 | 85 | Sunnyflower |
