@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 03:52:49 UTC
+# Standings for team1 as of 2026-06-11 03:53:25 UTC
 
 **Total Participants:** 2425
 
@@ -333,24 +333,24 @@
 | 325 | 508 | Heather Aurelia |
 | 326 | 507 | Teresa Yanira Cepeda |
 | 327 | 507 | Mahagony Small |
-| 328 | 503 | Tonia Lance |
-| 329 | 503 | Bre Poston |
-| 330 | 503 | Chummy Frame |
-| 331 | 502 | Tamika Fisher |
-| 332 | 501 | Cheri Robinson |
+| 328 | 505 | Cheri Robinson |
+| 329 | 503 | Tonia Lance |
+| 330 | 503 | Bre Poston |
+| 331 | 503 | Chummy Frame |
+| 332 | 502 | Tamika Fisher |
 | 333 | 501 | Analiza Ramos |
 | 334 | 500 | Steve Reno |
 | 335 | 499 | Tempee |
-| 336 | 498 | Michael Bethezar |
-| 337 | 498 | Julian Dickens Jr. |
-| 338 | 498 | Shanaa Germany Crittenden |
+| 336 | 498 | Shanaa Germany Crittenden |
+| 337 | 498 | Michael Bethezar |
+| 338 | 498 | Julian Dickens Jr. |
 | 339 | 497 | Victor |
 | 340 | 495 | Jana Cheek |
 | 341 | 492 | SANA |
 | 342 | 491 | Jayjay Rich |
 | 343 | 490 | Kate Hancock Malicek |
-| 344 | 489 | wuvbuug |
-| 345 | 489 | Jhonny Maii |
+| 344 | 489 | Jhonny Maii |
+| 345 | 489 | wuvbuug |
 | 346 | 486 | 大竹直之 |
 | 347 | 485 | Natasha Rucker |
 | 348 | 484 | Candy Lee |
@@ -367,11 +367,11 @@
 | 359 | 476 | Hasty Glidezone |
 | 360 | 476 | Donnie Withthebody |
 | 361 | 475 | Vernon Hoyt |
-| 362 | 473 | Lisa420 |
-| 363 | 473 | Erica Charlise |
-| 364 | 472 | StingerD |
-| 365 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 366 | 469 | Jackie Sanasay |
+| 362 | 475 | Jackie Sanasay |
+| 363 | 473 | Lisa420 |
+| 364 | 473 | Erica Charlise |
+| 365 | 472 | StingerD |
+| 366 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 367 | 468 | Christian Pham |
 | 368 | 464 | Michele Simpson |
 | 369 | 464 | Devin West |
