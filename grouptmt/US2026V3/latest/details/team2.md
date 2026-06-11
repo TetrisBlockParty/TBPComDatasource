@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:09:23 UTC
+# Standings for team2 as of 2026-06-11 08:10:24 UTC
 
 **Total Participants:** 2932
 
@@ -212,17 +212,17 @@
 | 204 | 981 | Hoppy Linkblock |
 | 205 | 973 | Chasity Simpson |
 | 206 | 969 | Jat |
-| 207 | 964 | Sarina Vollink |
-| 208 | 961 | Krisanne Kesner-Lonsby |
-| 209 | 959 | Michelle Ferrara |
-| 210 | 954 | Fudgie Pie |
-| 211 | 952 | Havik Whitfield |
-| 212 | 948 | Sara Perkins |
-| 213 | 945 | Michelle Luke Banta |
-| 214 | 943 | Flashy Twistline |
-| 215 | 942 | Snappy Combo |
-| 216 | 940 | Mouh Med |
-| 217 | 937 | Perii Reynoso |
+| 207 | 967 | Perii Reynoso |
+| 208 | 964 | Sarina Vollink |
+| 209 | 961 | Krisanne Kesner-Lonsby |
+| 210 | 959 | Michelle Ferrara |
+| 211 | 954 | Fudgie Pie |
+| 212 | 952 | Havik Whitfield |
+| 213 | 948 | Sara Perkins |
+| 214 | 945 | Michelle Luke Banta |
+| 215 | 943 | Flashy Twistline |
+| 216 | 942 | Snappy Combo |
+| 217 | 940 | Mouh Med |
 | 218 | 934 | Glitzy Base |
 | 219 | 934 | Amanda Sikes |
 | 220 | 932 | Lori Whitman |
@@ -341,9 +341,9 @@
 | 333 | 658 | Ratchet |
 | 334 | 652 | Stephany Green |
 | 335 | 650 | Jeff Pottgether |
-| 336 | 645 | MaddieCherie |
+| 336 | 646 | Jumpy Matchbuilder |
 | 337 | 645 | Kay |
-| 338 | 643 | Jumpy Matchbuilder |
+| 338 | 645 | MaddieCherie |
 | 339 | 643 | Thy Bui |
 | 340 | 642 | Julibeth Wells |
 | 341 | 642 | Bri St Peter |
@@ -439,35 +439,35 @@
 | 431 | 497 | Carlos J Blas |
 | 432 | 495 | Harper |
 | 433 | 493 | Saucy Wrecker |
-| 434 | 492 | Goofy Gridclear |
+| 434 | 493 | Quirky Shifter |
 | 435 | 492 | Kathleen Keogh Van Schoyck |
 | 436 | 492 | Wendy Spoor Hof |
-| 437 | 491 | Adriana Daniela Agapie |
-| 438 | 491 | Dad |
-| 439 | 491 | Charity Hauser |
-| 440 | 490 | Nathan Walker |
-| 441 | 489 | Darla Ragsdale |
-| 442 | 489 | Wacky Stack |
-| 443 | 489 | Suki Jacobs |
-| 444 | 485 | Jenn |
-| 445 | 483 | Larry Cross |
-| 446 | 481 | Twisty Tower |
-| 447 | 480 | Analee Nicole Jones |
-| 448 | 480 | Jacob Carpenter |
-| 449 | 480 | Physhie |
-| 450 | 480 | Anthony Swift |
-| 451 | 480 | Skye Ehret |
-| 452 | 479 | andee |
-| 453 | 478 | Boldy Wobbler |
-| 454 | 478 | RaeRae |
-| 455 | 477 | Brittany Mathis |
-| 456 | 477 | Melisa |
-| 457 | 477 | Sandy Justus |
-| 458 | 476 | Danielle Pack Lewellen |
-| 459 | 475 | Joanna Trevin Thompson |
-| 460 | 474 | Cathy Lee Stoneking |
-| 461 | 474 | Melmel |
-| 462 | 473 | Quirky Shifter |
+| 437 | 492 | Goofy Gridclear |
+| 438 | 491 | Adriana Daniela Agapie |
+| 439 | 491 | Dad |
+| 440 | 491 | Charity Hauser |
+| 441 | 490 | Nathan Walker |
+| 442 | 489 | Darla Ragsdale |
+| 443 | 489 | Wacky Stack |
+| 444 | 489 | Suki Jacobs |
+| 445 | 485 | Jenn |
+| 446 | 483 | Larry Cross |
+| 447 | 481 | Twisty Tower |
+| 448 | 480 | Physhie |
+| 449 | 480 | Analee Nicole Jones |
+| 450 | 480 | Jacob Carpenter |
+| 451 | 480 | Anthony Swift |
+| 452 | 480 | Skye Ehret |
+| 453 | 479 | andee |
+| 454 | 478 | Boldy Wobbler |
+| 455 | 478 | RaeRae |
+| 456 | 477 | Brittany Mathis |
+| 457 | 477 | Melisa |
+| 458 | 477 | Sandy Justus |
+| 459 | 476 | Danielle Pack Lewellen |
+| 460 | 475 | Joanna Trevin Thompson |
+| 461 | 474 | Cathy Lee Stoneking |
+| 462 | 474 | Melmel |
 | 463 | 471 | Amy Roseann |
 | 464 | 470 | Baby |
 | 465 | 469 | Karly Moore |
