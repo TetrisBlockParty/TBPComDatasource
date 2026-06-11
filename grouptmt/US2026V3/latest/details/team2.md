@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:44:43 UTC
+# Standings for team2 as of 2026-06-11 09:45:20 UTC
 
 **Total Participants:** 2938
 
@@ -24,7 +24,7 @@
 | 16 | 9620 | A.j. Langley |
 | 17 | 9351 | Christina Shell |
 | 18 | 9262 | Maggie McFarland |
-| 19 | 9017 | Bobbi |
+| 19 | 9103 | Bobbi |
 | 20 | 9000 | Jennifer Knott |
 | 21 | 8493 | Andre Love |
 | 22 | 8427 | Elizabeth Mooney |
@@ -64,7 +64,7 @@
 | 56 | 4486 | Brent Bittenbender |
 | 57 | 4412 | Charles Varca |
 | 58 | 4224 | LaWanda Powell |
-| 59 | 4021 | Betty Barrett |
+| 59 | 4030 | Betty Barrett |
 | 60 | 3990 | Anthony Lilley |
 | 61 | 3984 | Amber |
 | 62 | 3942 | Sean Rippa |
@@ -187,9 +187,9 @@
 | 179 | 1183 | Spicy Risegrid |
 | 180 | 1152 | Cristi Doris |
 | 181 | 1147 | Sarah Mccolgan |
-| 182 | 1140 | Nichole Wilson |
-| 183 | 1139 | Tina Marie |
-| 184 | 1126 | MegaPooh |
+| 182 | 1146 | MegaPooh |
+| 183 | 1140 | Nichole Wilson |
+| 184 | 1139 | Tina Marie |
 | 185 | 1105 | Jgato |
 | 186 | 1090 | Le Sandy |
 | 187 | 1080 | Erin Thomas |
@@ -442,22 +442,22 @@
 | 434 | 499 | Monee Stronger |
 | 435 | 499 | Erica South |
 | 436 | 499 | Mikaela Byrd |
-| 437 | 497 | Carlos J Blas |
-| 438 | 495 | Harper |
-| 439 | 493 | Saucy Wrecker |
-| 440 | 492 | Goofy Gridclear |
-| 441 | 492 | Kathleen Keogh Van Schoyck |
-| 442 | 492 | Wendy Spoor Hof |
-| 443 | 491 | Adriana Daniela Agapie |
-| 444 | 491 | Dad |
-| 445 | 491 | Charity Hauser |
-| 446 | 490 | Nathan Walker |
-| 447 | 489 | Suki Jacobs |
-| 448 | 489 | Darla Ragsdale |
-| 449 | 489 | Wacky Stack |
-| 450 | 485 | Jenn |
-| 451 | 483 | Larry Cross |
-| 452 | 483 | Anthony Swift |
+| 437 | 497 | Anthony Swift |
+| 438 | 497 | Carlos J Blas |
+| 439 | 495 | Harper |
+| 440 | 493 | Saucy Wrecker |
+| 441 | 492 | Goofy Gridclear |
+| 442 | 492 | Kathleen Keogh Van Schoyck |
+| 443 | 492 | Wendy Spoor Hof |
+| 444 | 491 | Adriana Daniela Agapie |
+| 445 | 491 | Dad |
+| 446 | 491 | Charity Hauser |
+| 447 | 490 | Nathan Walker |
+| 448 | 489 | Suki Jacobs |
+| 449 | 489 | Darla Ragsdale |
+| 450 | 489 | Wacky Stack |
+| 451 | 485 | Jenn |
+| 452 | 483 | Larry Cross |
 | 453 | 481 | Sonya YuntHatton |
 | 454 | 481 | Twisty Tower |
 | 455 | 480 | Jacob Carpenter |
@@ -596,13 +596,13 @@
 | 588 | 389 | Jumpy Dashpiece |
 | 589 | 389 | Josephina |
 | 590 | 388 | Clever Fallmatch |
-| 591 | 388 | Sassy Swiper |
-| 592 | 387 | Ashley Propst |
-| 593 | 386 | Ryuu |
-| 594 | 386 | phamous1 |
-| 595 | 385 | Aneokly |
-| 596 | 384 | Jana Campbell |
-| 597 | 384 | Christy Ford |
+| 591 | 388 | Christy Ford |
+| 592 | 388 | Sassy Swiper |
+| 593 | 387 | Ashley Propst |
+| 594 | 386 | Ryuu |
+| 595 | 386 | phamous1 |
+| 596 | 385 | Aneokly |
+| 597 | 384 | Jana Campbell |
 | 598 | 384 | Laura Larsen |
 | 599 | 384 | Gabrielle Rivera |
 | 600 | 383 | Jenna Stahl |
@@ -611,8 +611,8 @@
 | 603 | 382 | Curly Windbreaker |
 | 604 | 381 | Katie Jones |
 | 605 | 381 | s3lc4tr0n |
-| 606 | 380 | Melissa Willson |
-| 607 | 380 | Zappy Liney |
+| 606 | 380 | Zappy Liney |
+| 607 | 380 | Melissa Willson |
 | 608 | 379 | Aubrey Gates |
 | 609 | 378 | Shannon Curry Riggle |
 | 610 | 376 | TetrisMama |
@@ -620,11 +620,11 @@
 | 612 | 373 | Amy Nicole McCanne |
 | 613 | 373 | Wendy McKee |
 | 614 | 373 | Nano. |
-| 615 | 372 | Gage Tucker |
-| 616 | 372 | Viani09 |
-| 617 | 372 | Toni Washington |
-| 618 | 372 | ZBee |
-| 619 | 372 | Flashy Basegrid |
+| 615 | 372 | Viani09 |
+| 616 | 372 | Gage Tucker |
+| 617 | 372 | ZBee |
+| 618 | 372 | Flashy Basegrid |
+| 619 | 372 | Toni Washington |
 | 620 | 372 | Tito Garcia |
 | 621 | 371 | Teddy Williams |
 | 622 | 370 | marsam |
@@ -1122,52 +1122,52 @@
 | 1114 | 195 | Evelyn Confer |
 | 1115 | 195 | Frisky Clicker |
 | 1116 | 195 | Michelle Feliciano |
-| 1117 | 195 | Lively Twisterfit |
-| 1118 | 195 | Amy Lea Hamilton |
-| 1119 | 193 | CK Hancock |
-| 1120 | 193 | Jaimie Walters |
-| 1121 | 193 | Jeannine Murphy |
-| 1122 | 193 | JrsWife |
-| 1123 | 193 | Steve Eakins |
-| 1124 | 193 | Melinda Rausch |
-| 1125 | 192 | Ramona Peña |
-| 1126 | 192 | Nichole Eileen Doorn Lundy |
-| 1127 | 192 | Cozy Builder |
-| 1128 | 191 | Randy Taylor |
+| 1117 | 195 | Ayana Yanaeboo Eaddy |
+| 1118 | 195 | Lively Twisterfit |
+| 1119 | 195 | Amy Lea Hamilton |
+| 1120 | 193 | CK Hancock |
+| 1121 | 193 | Jaimie Walters |
+| 1122 | 193 | Steve Eakins |
+| 1123 | 193 | Melinda Rausch |
+| 1124 | 193 | JrsWife |
+| 1125 | 193 | Jeannine Murphy |
+| 1126 | 192 | Cozy Builder |
+| 1127 | 192 | Ramona Peña |
+| 1128 | 192 | Nichole Eileen Doorn Lundy |
 | 1129 | 191 | Distro |
 | 1130 | 191 | Shelby Lynn May |
-| 1131 | 191 | Lindsey Butler |
-| 1132 | 191 | AshleyM |
-| 1133 | 190 | Peppy Piececlear |
-| 1134 | 190 | Amanda Mason Scott |
-| 1135 | 190 | Roger Kee |
-| 1136 | 190 | Jocelyn Fisher |
+| 1131 | 191 | Randy Taylor |
+| 1132 | 191 | Lindsey Butler |
+| 1133 | 191 | AshleyM |
+| 1134 | 190 | Peppy Piececlear |
+| 1135 | 190 | Amanda Mason Scott |
+| 1136 | 190 | Roger Kee |
 | 1137 | 190 | gene15 |
-| 1138 | 190 | Brittany Paul |
-| 1139 | 190 | Heather Hill Davidson |
-| 1140 | 189 | Guadalupe Medina |
-| 1141 | 189 | Jennifer Augustine |
-| 1142 | 189 | Audrey Bickford |
-| 1143 | 189 | Aislinn Lowe |
-| 1144 | 189 | Cranky Brickzone |
+| 1138 | 190 | Jocelyn Fisher |
+| 1139 | 190 | Brittany Paul |
+| 1140 | 190 | Heather Hill Davidson |
+| 1141 | 189 | Guadalupe Medina |
+| 1142 | 189 | Frisky Linkmatch |
+| 1143 | 189 | Cranky Brickzone |
+| 1144 | 189 | Meagan Thompson |
 | 1145 | 189 | Poppy Strikerbuilder |
-| 1146 | 189 | Frisky Linkmatch |
-| 1147 | 189 | Meagan Thompson |
-| 1148 | 189 | Ayana Yanaeboo Eaddy |
+| 1146 | 189 | Audrey Bickford |
+| 1147 | 189 | Aislinn Lowe |
+| 1148 | 189 | Jennifer Augustine |
 | 1149 | 189 | Kristi K Milner |
 | 1150 | 188 | Susan Bosell |
-| 1151 | 188 | Christina Whitehead |
-| 1152 | 188 | Derrick |
-| 1153 | 188 | Bonnie Huckleberry |
-| 1154 | 187 | Donna R. Banks |
-| 1155 | 187 | Hog Crankin |
-| 1156 | 187 | Abby |
-| 1157 | 187 | Charity Black |
-| 1158 | 187 | Lj |
-| 1159 | 187 | Tam |
-| 1160 | 187 | AppA |
-| 1161 | 187 | Tony Williams |
-| 1162 | 187 | Jessica Spivey Cooper |
+| 1151 | 188 | Derrick |
+| 1152 | 188 | Bonnie Huckleberry |
+| 1153 | 188 | Christina Whitehead |
+| 1154 | 187 | Charity Black |
+| 1155 | 187 | Abby |
+| 1156 | 187 | Hog Crankin |
+| 1157 | 187 | Lj |
+| 1158 | 187 | Donna R. Banks |
+| 1159 | 187 | AppA |
+| 1160 | 187 | Tam |
+| 1161 | 187 | Jessica Spivey Cooper |
+| 1162 | 187 | Tony Williams |
 | 1163 | 187 | Chirpy Clearpiece |
 | 1164 | 186 | Kimberly Brooks |
 | 1165 | 186 | Jessica Veness-Toth |
