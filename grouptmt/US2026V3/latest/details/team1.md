@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:09:25 UTC
+# Standings for team1 as of 2026-06-11 12:10:20 UTC
 
 **Total Participants:** 2483
 
@@ -217,7 +217,7 @@
 | 209 | 827 | Andrew Jay Vaughn |
 | 210 | 825 | Aihpos |
 | 211 | 816 | Tasha Jones |
-| 212 | 813 | Choc |
+| 212 | 816 | Choc |
 | 213 | 812 | Big Tina |
 | 214 | 808 | TT |
 | 215 | 807 | Jazzy Fireflighters |
@@ -339,11 +339,11 @@
 | 331 | 527 | MommaCia |
 | 332 | 523 | Bre Poston |
 | 333 | 521 | Jawaun Daniels |
-| 334 | 516 | Jayjay Rich |
-| 335 | 515 | Queenie Perry |
-| 336 | 513 | Analiza Ramos |
-| 337 | 513 | Tasha |
-| 338 | 512 | NastyFriend |
+| 334 | 517 | NastyFriend |
+| 335 | 516 | Jayjay Rich |
+| 336 | 515 | Queenie Perry |
+| 337 | 513 | Analiza Ramos |
+| 338 | 513 | Tasha |
 | 339 | 511 | Lauraly |
 | 340 | 511 | NewEve |
 | 341 | 511 | Dizzy Dropper |
@@ -532,14 +532,14 @@
 | 524 | 358 | Tori Carter |
 | 525 | 357 | Manda Allen |
 | 526 | 355 | Shawn Himes |
-| 527 | 354 | Carolyn Delphie |
-| 528 | 353 | Shanns |
-| 529 | 353 | LaShawyn Wood |
-| 530 | 353 | Tay |
-| 531 | 353 | Jovy |
-| 532 | 353 | Dizzy Dashy |
-| 533 | 352 | AnnaM |
-| 534 | 351 | Centara Goette |
+| 527 | 355 | Centara Goette |
+| 528 | 354 | Carolyn Delphie |
+| 529 | 353 | Shanns |
+| 530 | 353 | LaShawyn Wood |
+| 531 | 353 | Tay |
+| 532 | 353 | Jovy |
+| 533 | 353 | Dizzy Dashy |
+| 534 | 352 | AnnaM |
 | 535 | 350 | 신재호 |
 | 536 | 350 | Jack Vlasak |
 | 537 | 350 | SnazzyIvy |
@@ -687,8 +687,8 @@
 | 679 | 287 | wmedina67 |
 | 680 | 286 | Soubletzy |
 | 681 | 286 | Kahliah Baker |
-| 682 | 285 | Hyedie Badie |
-| 683 | 285 | MikeHunt |
+| 682 | 286 | MikeHunt |
+| 683 | 285 | Hyedie Badie |
 | 684 | 285 | Jes Marie |
 | 685 | 284 | Guy Incognito |
 | 686 | 284 | Brittany Sara Heldwein |
@@ -748,29 +748,29 @@
 | 740 | 262 | MamaBearTiff |
 | 741 | 262 | LaSharon Jackson |
 | 742 | 261 | Shannon Carriger |
-| 743 | 261 | Nickeya Phillips |
-| 744 | 261 | Laysa Nunez |
+| 743 | 261 | Laysa Nunez |
+| 744 | 261 | Nickeya Phillips |
 | 745 | 260 | NedaWin |
-| 746 | 260 | Lester Malone |
-| 747 | 260 | Carolyn Smith |
-| 748 | 260 | Nisha Sunshine Jenkins |
-| 749 | 260 | Ashley Danielle |
-| 750 | 260 | Spotlight |
-| 751 | 259 | Darrelle Short |
-| 752 | 259 | Deanna Close |
-| 753 | 259 | Adrian Wilson |
-| 754 | 259 | Anastasia |
-| 755 | 258 | Ameillia Boughner |
-| 756 | 258 | Stronger Wiser Better |
+| 746 | 260 | Carolyn Smith |
+| 747 | 260 | Nisha Sunshine Jenkins |
+| 748 | 260 | Spotlight |
+| 749 | 260 | Jimmy Shannon |
+| 750 | 260 | Lester Malone |
+| 751 | 260 | Ashley Danielle |
+| 752 | 259 | Darrelle Short |
+| 753 | 259 | Anastasia |
+| 754 | 259 | Adrian Wilson |
+| 755 | 259 | Deanna Close |
+| 756 | 258 | Ameillia Boughner |
 | 757 | 258 | Lynnette WheelerBushnell |
-| 758 | 257 | Seddrick |
-| 759 | 257 | Mario Meliodas |
-| 760 | 257 | GetDaOPPS |
-| 761 | 257 | Shemar Singleton |
-| 762 | 257 | Gerold Folk Haddock |
-| 763 | 257 | Renee Marshall |
-| 764 | 257 | Chris Nelson |
-| 765 | 257 | Jimmy Shannon |
+| 758 | 258 | Stronger Wiser Better |
+| 759 | 257 | Seddrick |
+| 760 | 257 | Gerold Folk Haddock |
+| 761 | 257 | Mario Meliodas |
+| 762 | 257 | GetDaOPPS |
+| 763 | 257 | Shemar Singleton |
+| 764 | 257 | Renee Marshall |
+| 765 | 257 | Chris Nelson |
 | 766 | 257 | Joka NoTime ForHataz |
 | 767 | 257 | Nekka |
 | 768 | 256 | Semaj Johnson |
@@ -781,11 +781,11 @@
 | 773 | 254 | Dorian Griffin |
 | 774 | 253 | Nyhlah Patterson |
 | 775 | 253 | Vontesha Kidd |
-| 776 | 252 | Smøke DGAF |
+| 776 | 252 | Shakuria Cortia Burney |
 | 777 | 252 | Maxine Williams |
 | 778 | 252 | Antoinette Kelly |
 | 779 | 252 | Flashy Stacker |
-| 780 | 252 | Shakuria Cortia Burney |
+| 780 | 252 | Smøke DGAF |
 | 781 | 251 | Michelle Stottlemyer |
 | 782 | 251 | LaPorscha Wright |
 | 783 | 250 | Tony Pizzas |
@@ -1044,25 +1044,25 @@
 | 1036 | 170 | Aaron Sohnrey |
 | 1037 | 170 | Shawna Passwater |
 | 1038 | 169 | Amilia Cruz |
-| 1039 | 169 | Latricia George |
-| 1040 | 169 | LAhoneybun82 |
-| 1041 | 169 | Nicole Coko Thomas |
-| 1042 | 169 | rb |
+| 1039 | 169 | Nicole Coko Thomas |
+| 1040 | 169 | Latricia George |
+| 1041 | 169 | rb |
+| 1042 | 169 | LAhoneybun82 |
 | 1043 | 168 | Crafty Witch |
 | 1044 | 167 | Richelle Beck |
-| 1045 | 167 | Felicia Woods |
+| 1045 | 167 | LexiiSamayaa |
 | 1046 | 167 | Shadena M Carter Mba |
-| 1047 | 167 | LexiiSamayaa |
-| 1048 | 166 | Elizabeth AW |
-| 1049 | 166 | Cheery T-spin |
-| 1050 | 166 | Amaadi Ward |
-| 1051 | 166 | Angela Hill O'Neal |
-| 1052 | 165 | Wacky Wipepiece |
-| 1053 | 165 | Dawn Basemore |
-| 1054 | 165 | Jerome Lewis |
-| 1055 | 164 | Bianca Nawlinsgurl Ferguson |
-| 1056 | 164 | Jodie |
-| 1057 | 164 | Kidgib5 |
+| 1047 | 167 | Felicia Woods |
+| 1048 | 166 | Angela Hill O'Neal |
+| 1049 | 166 | Kidgib5 |
+| 1050 | 166 | Elizabeth AW |
+| 1051 | 166 | Cheery T-spin |
+| 1052 | 166 | Amaadi Ward |
+| 1053 | 165 | Wacky Wipepiece |
+| 1054 | 165 | Dawn Basemore |
+| 1055 | 165 | Jerome Lewis |
+| 1056 | 164 | Bianca Nawlinsgurl Ferguson |
+| 1057 | 164 | Jodie |
 | 1058 | 164 | Markeita Jones |
 | 1059 | 164 | Esha I'msoproudofmyself Davis |
 | 1060 | 163 | Kathleen Boyles |

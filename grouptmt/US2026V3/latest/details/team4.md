@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 12:09:25 UTC
+# Standings for team4 as of 2026-06-11 12:10:20 UTC
 
 **Total Participants:** 2521
 
@@ -38,7 +38,7 @@
 | 30 | 5200 | Squirrel Donkey |
 | 31 | 5169 | Chummy Rollzone |
 | 32 | 5126 | Juan Ford |
-| 33 | 4927 | Victoria Ver |
+| 33 | 4967 | Victoria Ver |
 | 34 | 4855 | Jackie Lucas |
 | 35 | 4841 | Daring Ziggy |
 | 36 | 4768 | Bryan DjMagnum Evans |
@@ -373,12 +373,12 @@
 | 365 | 496 | Troy Zanelli |
 | 366 | 492 | RotatedWrongAgain |
 | 367 | 491 | Anthony McAlister |
-| 368 | 487 | Spunky Gridzone |
-| 369 | 487 | Plucky Shatterfit |
-| 370 | 485 | Jojo Ann |
-| 371 | 483 | Brian Woods |
-| 372 | 482 | Martha Fisher |
-| 373 | 480 | Kristal |
+| 368 | 490 | Kristal |
+| 369 | 487 | Spunky Gridzone |
+| 370 | 487 | Plucky Shatterfit |
+| 371 | 485 | Jojo Ann |
+| 372 | 483 | Brian Woods |
+| 373 | 482 | Martha Fisher |
 | 374 | 480 | Adam Dickinson |
 | 375 | 480 | Goofy Linkmatch |
 | 376 | 478 | Dawn Marie Trujillo |
@@ -388,18 +388,18 @@
 | 380 | 475 | Shiny Brick |
 | 381 | 472 | Lucy Honer |
 | 382 | 472 | Powder |
-| 383 | 471 | Cool Risepiece |
-| 384 | 470 | jojo |
-| 385 | 469 | Lolita Nettles |
-| 386 | 469 | Groovy Cluster |
-| 387 | 468 | Shawna Downey |
-| 388 | 466 | Shepreneur Sade |
-| 389 | 465 | Joab Gonzalez |
-| 390 | 465 | farfromlocal |
-| 391 | 463 | Flashy Shatterer |
-| 392 | 462 | chefjaydawg |
-| 393 | 462 | Poppy |
-| 394 | 462 | BusterBear56 |
+| 383 | 471 | Poppy |
+| 384 | 471 | Cool Risepiece |
+| 385 | 470 | jojo |
+| 386 | 469 | Lolita Nettles |
+| 387 | 469 | Groovy Cluster |
+| 388 | 468 | Shawna Downey |
+| 389 | 466 | Shepreneur Sade |
+| 390 | 465 | Joab Gonzalez |
+| 391 | 465 | farfromlocal |
+| 392 | 463 | Flashy Shatterer |
+| 393 | 462 | BusterBear56 |
+| 394 | 462 | chefjaydawg |
 | 395 | 462 | Tanita Jobe |
 | 396 | 461 | Kayla Fuentes |
 | 397 | 461 | Ash Gribble |
@@ -428,8 +428,8 @@
 | 420 | 438 | Juvon SupaShawdii Brooks |
 | 421 | 436 | Jennifer Garcia |
 | 422 | 436 | John Cotugno |
-| 423 | 434 | Dolores Falco |
-| 424 | 434 | Kimyatta Cavin |
+| 423 | 434 | Kimyatta Cavin |
+| 424 | 434 | Dolores Falco |
 | 425 | 433 | Slimm |
 | 426 | 432 | Melissa Lowe |
 | 427 | 431 | Henry Lanier |
@@ -1511,76 +1511,76 @@
 | 1503 | 84 | Ginnie Strate |
 | 1504 | 84 | Lakeshia Holman |
 | 1505 | 84 | Lizzie McGuire |
-| 1506 | 83 | Bubbly Shatter |
-| 1507 | 83 | Terry Jo Myers |
-| 1508 | 83 | EpicBarista |
-| 1509 | 83 | Peter Babineaux Jr |
+| 1506 | 83 | Terry Jo Myers |
+| 1507 | 83 | Peter Babineaux Jr |
+| 1508 | 83 | Bubbly Shatter |
+| 1509 | 83 | EpicBarista |
 | 1510 | 83 | Thomas Cassell |
 | 1511 | 82 | Charity Thomas |
 | 1512 | 82 | Jacklyn Martinez |
-| 1513 | 82 | JuicyJay |
+| 1513 | 82 | Peachy Grabber |
 | 1514 | 82 | Frank Loher III |
-| 1515 | 82 | Judea Leblanc |
-| 1516 | 82 | Rebecca Dix |
-| 1517 | 82 | Peachy Grabber |
-| 1518 | 82 | Brenda Mueller |
-| 1519 | 82 | crazy lazy |
-| 1520 | 82 | EKM |
-| 1521 | 82 | Sunny Bricky |
-| 1522 | 81 | Lazy Frame |
-| 1523 | 81 | courtt |
+| 1515 | 82 | Rebecca Dix |
+| 1516 | 82 | JuicyJay |
+| 1517 | 82 | Brenda Mueller |
+| 1518 | 82 | crazy lazy |
+| 1519 | 82 | Sunny Bricky |
+| 1520 | 82 | Judea Leblanc |
+| 1521 | 82 | EKM |
+| 1522 | 81 | courtt |
+| 1523 | 81 | Lazy Frame |
 | 1524 | 81 | Infini Agape |
-| 1525 | 80 | Leigh Champion |
-| 1526 | 80 | Amber Walters |
-| 1527 | 80 | Hyper Clusterline |
-| 1528 | 80 | Zippy Wipepiece |
-| 1529 | 80 | happycappy |
-| 1530 | 80 | Rai |
-| 1531 | 80 | Brett |
-| 1532 | 80 | CM |
+| 1525 | 80 | Zippy Wipepiece |
+| 1526 | 80 | happycappy |
+| 1527 | 80 | Leigh Champion |
+| 1528 | 80 | Amber Walters |
+| 1529 | 80 | Hyper Clusterline |
+| 1530 | 80 | Snazzy Piecebuilder |
+| 1531 | 80 | Donya' Johnson |
+| 1532 | 80 | Rai |
 | 1533 | 80 | Gabby Simones |
-| 1534 | 80 | Donya' Johnson |
-| 1535 | 80 | Snazzy Piecebuilder |
-| 1536 | 80 | James James |
+| 1534 | 80 | James James |
+| 1535 | 80 | CM |
+| 1536 | 80 | Brett |
 | 1537 | 80 | Kaillyn Duenas |
 | 1538 | 79 | Joshua Powers |
-| 1539 | 79 | Jenny Torres |
-| 1540 | 79 | ZiaDemon |
-| 1541 | 79 | Jessica Marie Flores |
-| 1542 | 79 | Cool Slammer |
-| 1543 | 79 | Cheery Basegrid |
-| 1544 | 79 | Laura Molero |
-| 1545 | 79 | Jinx4fun |
-| 1546 | 78 | Memel |
+| 1539 | 79 | Laura Molero |
+| 1540 | 79 | Cheery Basegrid |
+| 1541 | 79 | Jinx4fun |
+| 1542 | 79 | Jessica Marie Flores |
+| 1543 | 79 | Jenny Torres |
+| 1544 | 79 | Cool Slammer |
+| 1545 | 79 | ZiaDemon |
+| 1546 | 78 | Jesse Martinez |
 | 1547 | 78 | Giggy Mover |
-| 1548 | 78 | Nakkia Mobley |
-| 1549 | 78 | AVA |
-| 1550 | 78 | Doris Wastak |
-| 1551 | 78 | Jesse Martinez |
-| 1552 | 78 | Spicy Gridder |
+| 1548 | 78 | Spicy Gridder |
+| 1549 | 78 | Nakkia Mobley |
+| 1550 | 78 | AVA |
+| 1551 | 78 | Memel |
+| 1552 | 78 | Doris Wastak |
 | 1553 | 78 | Christopher Lindsey |
-| 1554 | 77 | Tonya Cross |
-| 1555 | 77 | Brooke Limpf |
-| 1556 | 77 | Karin Gimenez |
-| 1557 | 77 | Vanessa Pritchett |
-| 1558 | 77 | Jim Faust |
-| 1559 | 77 | Michael Cruz |
-| 1560 | 77 | Ali Nicole |
-| 1561 | 76 | moonman33 |
-| 1562 | 76 | James Balderas |
-| 1563 | 76 | Yseoj M. Zurc |
-| 1564 | 76 | Net |
+| 1554 | 77 | Jim Faust |
+| 1555 | 77 | Karin Gimenez |
+| 1556 | 77 | Vanessa Pritchett |
+| 1557 | 77 | BlackThanos |
+| 1558 | 77 | Brooke Limpf |
+| 1559 | 77 | Tonya Cross |
+| 1560 | 77 | Michael Cruz |
+| 1561 | 77 | Ali Nicole |
+| 1562 | 76 | moonman33 |
+| 1563 | 76 | Heather Dornberger |
+| 1564 | 76 | Brandy Martin-Lowery |
 | 1565 | 76 | Uh Lesh Uh |
 | 1566 | 76 | Christopher Farias |
-| 1567 | 76 | Brandy Martin-Lowery |
-| 1568 | 76 | Heather Dornberger |
-| 1569 | 75 | ŁųŁų |
-| 1570 | 75 | Saucy Buildgrid |
-| 1571 | 75 | Amy |
-| 1572 | 75 | Stephy |
+| 1567 | 76 | Net |
+| 1568 | 76 | James Balderas |
+| 1569 | 76 | Yseoj M. Zurc |
+| 1570 | 75 | ŁųŁų |
+| 1571 | 75 | Saucy Buildgrid |
+| 1572 | 75 | Amy |
 | 1573 | 75 | Giggly Tilebuilder |
 | 1574 | 75 | Bri |
-| 1575 | 75 | BlackThanos |
+| 1575 | 75 | Stephy |
 | 1576 | 75 | Gary Moore |
 | 1577 | 75 | Marco A. Sandoval |
 | 1578 | 74 | Julia Chavez |

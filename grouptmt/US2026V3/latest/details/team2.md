@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 12:09:25 UTC
+# Standings for team2 as of 2026-06-11 12:10:20 UTC
 
 **Total Participants:** 2953
 
@@ -186,7 +186,7 @@
 | 178 | 1192 | Sabrina Hardrick |
 | 179 | 1189 | AndrewandShela Gornik |
 | 180 | 1182 | Cristi Doris |
-| 181 | 1156 | MegaPooh |
+| 181 | 1160 | MegaPooh |
 | 182 | 1149 | Sarah Mccolgan |
 | 183 | 1140 | Nichole Wilson |
 | 184 | 1139 | Tina Marie |
@@ -248,15 +248,15 @@
 | 240 | 898 | Giggly Wipepiece |
 | 241 | 898 | Lisa Underwood Desmond |
 | 242 | 898 | Zesty Strikerbuilder |
-| 243 | 894 | Spunky Buildout |
-| 244 | 893 | La chulis |
-| 245 | 892 | H |
-| 246 | 891 | Jessica Melendy |
-| 247 | 887 | Danielle Blount |
-| 248 | 883 | Kathy McCormick |
-| 249 | 880 | Jess |
-| 250 | 878 | Kim Hunt |
-| 251 | 876 | Boldy Fitclear |
+| 243 | 896 | Boldy Fitclear |
+| 244 | 894 | Spunky Buildout |
+| 245 | 893 | La chulis |
+| 246 | 892 | H |
+| 247 | 891 | Jessica Melendy |
+| 248 | 887 | Danielle Blount |
+| 249 | 883 | Kathy McCormick |
+| 250 | 880 | Jess |
+| 251 | 878 | Kim Hunt |
 | 252 | 873 | Brandon Link |
 | 253 | 866 | Milad Arzani |
 | 254 | 866 | Chipper Stackbuilder |
