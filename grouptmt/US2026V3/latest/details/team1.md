@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 02:48:43 UTC
+# Standings for team1 as of 2026-06-11 02:49:24 UTC
 
 **Total Participants:** 2412
 
@@ -64,7 +64,7 @@
 | 56 | 2469 | Chris Caniglia |
 | 57 | 2461 | Mimi 1.0 |
 | 58 | 2412 | D'Andra Stewart |
-| 59 | 2374 | Michael J Gresham |
+| 59 | 2385 | Michael J Gresham |
 | 60 | 2367 | Markeeta Lipscomb |
 | 61 | 2359 | Corey Cawthon |
 | 62 | 2216 | Robyn Caldwell |
@@ -145,9 +145,9 @@
 | 137 | 1224 | Tiana Moore |
 | 138 | 1217 | Taylor Evelyn |
 | 139 | 1208 | Jazzy Dashpiece |
-| 140 | 1198 | Slim Shedidthat |
-| 141 | 1196 | ELM |
-| 142 | 1195 | Po Marley |
+| 140 | 1205 | Po Marley |
+| 141 | 1198 | Slim Shedidthat |
+| 142 | 1196 | ELM |
 | 143 | 1186 | Plucky Slamdrop |
 | 144 | 1122 | Yasmin Nakea Wright |
 | 145 | 1121 | Lisa Müller |
@@ -471,30 +471,30 @@
 | 463 | 376 | Skippy |
 | 464 | 375 | Tosha Michelle |
 | 465 | 373 | Twisty Brickfit |
-| 466 | 373 | Brittany Fells |
-| 467 | 373 | Jessie N Michael Silvers |
+| 466 | 373 | Jessie N Michael Silvers |
+| 467 | 373 | Brittany Fells |
 | 468 | 372 | Stacy Nicole |
 | 469 | 372 | Chirpy Buildgrid |
 | 470 | 372 | Jas |
 | 471 | 371 | De'Nell Edwards |
-| 472 | 370 | Allison Baxter |
-| 473 | 370 | Lucy |
+| 472 | 370 | Lucy |
+| 473 | 370 | Allison Baxter |
 | 474 | 369 | Guard Up |
 | 475 | 368 | Jelyfish |
-| 476 | 367 | Stephen Glaze |
+| 476 | 367 | Gbnola |
 | 477 | 367 | SweetByNBy |
-| 478 | 367 | Gbnola |
-| 479 | 366 | Shalya Terry |
+| 478 | 367 | Stephen Glaze |
+| 479 | 366 | Asha Langford |
 | 480 | 366 | Falisa Bell |
-| 481 | 365 | TieMs BHughez |
-| 482 | 365 | Brittnay Wright |
-| 483 | 365 | Melanin Monroe-Dandridge |
-| 484 | 364 | Kimberly Anderson |
-| 485 | 363 | Christina Rebecca |
-| 486 | 363 | Tesiree Cray |
-| 487 | 363 | Jolly Tilefall |
-| 488 | 362 | Ryan Runyan |
-| 489 | 362 | Asha Langford |
+| 481 | 366 | Shalya Terry |
+| 482 | 365 | TieMs BHughez |
+| 483 | 365 | Brittnay Wright |
+| 484 | 365 | Melanin Monroe-Dandridge |
+| 485 | 364 | Kimberly Anderson |
+| 486 | 363 | Christina Rebecca |
+| 487 | 363 | Tesiree Cray |
+| 488 | 363 | Jolly Tilefall |
+| 489 | 362 | Ryan Runyan |
 | 490 | 361 | Lakiesha Crawford |
 | 491 | 361 | Crystal Cheresnowsky |
 | 492 | 361 | John Staub |
@@ -534,8 +534,8 @@
 | 526 | 337 | Montego Allen |
 | 527 | 336 | Melissa D. M. Hornsby |
 | 528 | 336 | Silly Edgepiece |
-| 529 | 334 | Yashica Smith |
-| 530 | 334 | Chocolate |
+| 529 | 335 | Chocolate |
+| 530 | 334 | Yashica Smith |
 | 531 | 334 | Jessica Kirby |
 | 532 | 333 | AnnaM |
 | 533 | 332 | Kristine Marie Palmer |
