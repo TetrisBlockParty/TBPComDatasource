@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 06:42:20 UTC
+# Standings for team1 as of 2026-06-11 06:42:47 UTC
 
 **Total Participants:** 2453
 
@@ -198,7 +198,7 @@
 | 190 | 869 | Shontanese Adams |
 | 191 | 865 | Byron Mario Cawthon |
 | 192 | 862 | LaSharmeika Fancher |
-| 193 | 852 | Loopy Block |
+| 193 | 855 | Loopy Block |
 | 194 | 850 | Stef Hu |
 | 195 | 849 | Trendalyn Webb |
 | 196 | 849 | boogeywoogey |
@@ -972,10 +972,10 @@
 | 964 | 187 | TRUBBLE45 |
 | 965 | 187 | Lively Riserpiece |
 | 966 | 187 | Melissa Ramsey |
-| 967 | 186 | Kizzy Clark |
-| 968 | 186 | Morenita Rodriguez |
-| 969 | 186 | Nikkizz |
-| 970 | 186 | Jane Lame |
+| 967 | 187 | Jane Lame |
+| 968 | 186 | Kizzy Clark |
+| 969 | 186 | Morenita Rodriguez |
+| 970 | 186 | Nikkizz |
 | 971 | 185 | Jess |
 | 972 | 185 | Mississippigirl Countrygirl |
 | 973 | 185 | Dapper Matchfit |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 06:42:20 UTC
+# Standings for team4 as of 2026-06-11 06:42:47 UTC
 
 **Total Participants:** 2490
 
@@ -26,7 +26,7 @@
 | 18 | 7813 | Jerald Jones |
 | 19 | 6954 | Senor Moppy |
 | 20 | 6733 | Bubbly Twistpiece |
-| 21 | 6610 | Nia Mayfield |
+| 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
 | 23 | 6254 | Anna Moses |
 | 24 | 6189 | Ning Quiambao |
@@ -2088,100 +2088,100 @@
 | 2080 | 26 | Cheery Liney |
 | 2081 | 26 | Von |
 | 2082 | 26 | AJscooter |
-| 2083 | 26 | Love GH |
-| 2084 | 26 | Leslie Marie WarClub |
-| 2085 | 26 | Kevin Lyles |
-| 2086 | 26 | Rob$GEE |
-| 2087 | 26 | Ivyleata McFadden |
-| 2088 | 26 | Rebecca Rae Reed |
-| 2089 | 26 | Lacey Decker |
-| 2090 | 25 | Gellix |
-| 2091 | 25 | Joseph Gay |
+| 2083 | 26 | ThickyJicky |
+| 2084 | 26 | Love GH |
+| 2085 | 26 | Leslie Marie WarClub |
+| 2086 | 26 | Kevin Lyles |
+| 2087 | 26 | Rob$GEE |
+| 2088 | 26 | Ivyleata McFadden |
+| 2089 | 26 | Rebecca Rae Reed |
+| 2090 | 26 | Lacey Decker |
+| 2091 | 25 | Gellix |
 | 2092 | 25 | chapis |
-| 2093 | 25 | Ak Jones |
-| 2094 | 25 | Rebecca Booth |
-| 2095 | 25 | MoCa |
-| 2096 | 25 | Joyell Mersiel |
-| 2097 | 25 | IvyRenee Collette |
-| 2098 | 25 | Spunky Winder |
-| 2099 | 25 | Lush Dash |
-| 2100 | 25 | Jessica Lee Christy |
-| 2101 | 25 | Happy Slamdrop |
-| 2102 | 25 | Wacky Clearzone |
-| 2103 | 25 | Chad N Tori Steiner |
-| 2104 | 25 | Daisy Jaramillo |
-| 2105 | 25 | Mrs Tucker |
-| 2106 | 25 | Hyper Twistfit |
+| 2093 | 25 | IvyRenee Collette |
+| 2094 | 25 | Ak Jones |
+| 2095 | 25 | Rebecca Booth |
+| 2096 | 25 | MoCa |
+| 2097 | 25 | Joyell Mersiel |
+| 2098 | 25 | Joseph Gay |
+| 2099 | 25 | Spunky Winder |
+| 2100 | 25 | Lush Dash |
+| 2101 | 25 | Jessica Lee Christy |
+| 2102 | 25 | Happy Slamdrop |
+| 2103 | 25 | Wacky Clearzone |
+| 2104 | 25 | Chad N Tori Steiner |
+| 2105 | 25 | Hyper Twistfit |
+| 2106 | 25 | Mrs Tucker |
 | 2107 | 25 | Hillary Sisson |
-| 2108 | 24 | Bouncy Brickmatch |
-| 2109 | 24 | Snippy Twister |
-| 2110 | 24 | Gma526 |
-| 2111 | 24 | Bouncy Splitter |
-| 2112 | 24 | Sindee Fell |
-| 2113 | 24 | Lush Party |
-| 2114 | 24 | Frilly Brickroll |
-| 2115 | 24 | Sandra Magaly Rivera Medina |
-| 2116 | 24 | Hannah White |
-| 2117 | 24 | Domonique Kolkind |
-| 2118 | 24 | ThickyJicky |
-| 2119 | 24 | Tameka Harrison |
-| 2120 | 24 | Laura Ratliff |
-| 2121 | 24 | Snappy Blockzone |
+| 2108 | 25 | Daisy Jaramillo |
+| 2109 | 24 | Lush Party |
+| 2110 | 24 | Sindee Fell |
+| 2111 | 24 | Frilly Brickroll |
+| 2112 | 24 | Bouncy Brickmatch |
+| 2113 | 24 | Tameka Harrison |
+| 2114 | 24 | Sandra Magaly Rivera Medina |
+| 2115 | 24 | Hannah White |
+| 2116 | 24 | Snippy Twister |
+| 2117 | 24 | Gma526 |
+| 2118 | 24 | Laura Ratliff |
+| 2119 | 24 | Snappy Blockzone |
+| 2120 | 24 | Bouncy Splitter |
+| 2121 | 24 | Domonique Kolkind |
 | 2122 | 24 | Lively Setter |
 | 2123 | 24 | Tonya Raymundo |
 | 2124 | 24 | Katiana Gonzalez |
 | 2125 | 24 | Flashy Wipebuilder |
 | 2126 | 23 | Monika Webb |
-| 2127 | 23 | Samantha Mayhall |
-| 2128 | 23 | Terrick Robinson |
-| 2129 | 23 | Crafty Builderfit |
-| 2130 | 23 | Carole Dyment Westcott |
-| 2131 | 23 | Jennifer Dixon |
-| 2132 | 23 | Frank Brown |
-| 2133 | 23 | Mystie Malotte |
-| 2134 | 23 | Anthony Pickens |
-| 2135 | 23 | Mike Adkins |
-| 2136 | 23 | Peachy Tiltpiece |
-| 2137 | 23 | Loony Brickzone |
-| 2138 | 23 | Mar93 |
+| 2127 | 23 | Carole Dyment Westcott |
+| 2128 | 23 | Anthony Pickens |
+| 2129 | 23 | Peachy Tiltpiece |
+| 2130 | 23 | Mike Adkins |
+| 2131 | 23 | Loony Brickzone |
+| 2132 | 23 | Mar93 |
+| 2133 | 23 | Terrick Robinson |
+| 2134 | 23 | Crafty Builderfit |
+| 2135 | 23 | Jennifer Dixon |
+| 2136 | 23 | Frank Brown |
+| 2137 | 23 | Mystie Malotte |
+| 2138 | 23 | Samantha Mayhall |
 | 2139 | 23 | Anthony Cushing |
-| 2140 | 22 | Slinky Edgefit |
-| 2141 | 22 | Bianca Harris |
-| 2142 | 22 | Chipper Bridger |
-| 2143 | 22 | Sarah McAllister |
-| 2144 | 22 | Renee Short Anthony |
-| 2145 | 22 | Catherine Sandoval |
-| 2146 | 22 | Diana Torres |
-| 2147 | 22 | Eileen Clements |
+| 2140 | 22 | Renee Short Anthony |
+| 2141 | 22 | Eileen Clements |
+| 2142 | 22 | Sarah McAllister |
+| 2143 | 22 | Bianca Harris |
+| 2144 | 22 | Diana Torres |
+| 2145 | 22 | Slinky Edgefit |
+| 2146 | 22 | Catherine Sandoval |
+| 2147 | 22 | Chipper Bridger |
 | 2148 | 22 | Richierich Gonzalez |
 | 2149 | 22 | McScrubby |
-| 2150 | 21 | Froggyone |
-| 2151 | 21 | LOLO |
-| 2152 | 21 | Wildlife |
-| 2153 | 21 | Christine |
-| 2154 | 21 | Sophia Hinton |
-| 2155 | 21 | ITSME |
-| 2156 | 21 | Jim Jimerson |
-| 2157 | 21 | dragonmom |
-| 2158 | 21 | Happy shelli |
-| 2159 | 21 | Luluski Ward |
-| 2160 | 21 | Zanny |
-| 2161 | 21 | kakasports |
-| 2162 | 21 | Amirah Safieddine |
-| 2163 | 21 | Honnala Vaughn |
-| 2164 | 21 | Hope Fallen |
-| 2165 | 20 | Zesty lemon |
-| 2166 | 20 | Brittany Biffle |
-| 2167 | 20 | Coolgirl |
-| 2168 | 20 | Tasha Williams |
-| 2169 | 20 | Dapper Clicker |
-| 2170 | 20 | Cool Towerer |
-| 2171 | 20 | Michael Jones |
-| 2172 | 20 | Ralph Bennett |
-| 2173 | 20 | Candice Johnson |
-| 2174 | 20 | Candie Morris |
-| 2175 | 20 | Robert Walker |
-| 2176 | 20 | Shiny Rollblock |
+| 2150 | 21 | ITSME |
+| 2151 | 21 | Sophia Hinton |
+| 2152 | 21 | Christine |
+| 2153 | 21 | Froggyone |
+| 2154 | 21 | Wildlife |
+| 2155 | 21 | dragonmom |
+| 2156 | 21 | Happy shelli |
+| 2157 | 21 | Luluski Ward |
+| 2158 | 21 | Jim Jimerson |
+| 2159 | 21 | LOLO |
+| 2160 | 21 | kakasports |
+| 2161 | 21 | Amirah Safieddine |
+| 2162 | 21 | Zanny |
+| 2163 | 21 | Hope Fallen |
+| 2164 | 21 | Honnala Vaughn |
+| 2165 | 20 | Shiny Rollblock |
+| 2166 | 20 | Zesty lemon |
+| 2167 | 20 | Brittany Biffle |
+| 2168 | 20 | Coolgirl |
+| 2169 | 20 | Tasha Williams |
+| 2170 | 20 | Dapper Clicker |
+| 2171 | 20 | Cool Towerer |
+| 2172 | 20 | Michael Jones |
+| 2173 | 20 | Ralph Bennett |
+| 2174 | 20 | Candice Johnson |
+| 2175 | 20 | Candie Morris |
+| 2176 | 20 | Robert Walker |
 | 2177 | 20 | Ayanna Cornish |
 | 2178 | 20 | BlueBerry |
 | 2179 | 20 | Mr.Corbin |
