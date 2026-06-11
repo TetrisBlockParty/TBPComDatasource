@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:41:22 UTC
+# Standings for team4 as of 2026-06-11 09:42:50 UTC
 
 **Total Participants:** 2506
 
@@ -25,7 +25,7 @@
 | 17 | 8005 | delilahbelle |
 | 18 | 7835 | Jerald Jones |
 | 19 | 6954 | Senor Moppy |
-| 20 | 6838 | Bubbly Twistpiece |
+| 20 | 6848 | Bubbly Twistpiece |
 | 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
 | 23 | 6254 | Anna Moses |
@@ -37,7 +37,7 @@
 | 29 | 5200 | Squirrel Donkey |
 | 30 | 5169 | Chummy Rollzone |
 | 31 | 5126 | Juan Ford |
-| 32 | 5001 | Leah Barnett |
+| 32 | 5107 | Leah Barnett |
 | 33 | 4855 | Jackie Lucas |
 | 34 | 4841 | Daring Ziggy |
 | 35 | 4768 | Bryan DjMagnum Evans |
@@ -51,7 +51,7 @@
 | 43 | 4142 | Jeanette Hailey |
 | 44 | 3923 | Fruitpunch |
 | 45 | 3922 | Dana Rinaldi |
-| 46 | 3810 | Wendy Zentz |
+| 46 | 3850 | Wendy Zentz |
 | 47 | 3776 | Dana Smith |
 | 48 | 3763 | Carly Stempien |
 | 49 | 3762 | Watupall13 |
@@ -59,8 +59,8 @@
 | 51 | 3600 | Leah Gorsuch |
 | 52 | 3440 | Kathy Brookins |
 | 53 | 3391 | Dana Abegil Lawas |
-| 54 | 3244 | Elissa S-k |
-| 55 | 3215 | Jace McCullough |
+| 54 | 3277 | Jace McCullough |
+| 55 | 3244 | Elissa S-k |
 | 56 | 3200 | 626 |
 | 57 | 3150 | Destiny Dyer |
 | 58 | 3130 | Alicia Cook |
@@ -125,12 +125,12 @@
 | 117 | 1348 | GeorgeButts |
 | 118 | 1342 | Shaina Sharp |
 | 119 | 1339 | Beth Belanger |
-| 120 | 1336 | MysticMaven |
-| 121 | 1336 | Jonathan Hewitt |
+| 120 | 1336 | Jonathan Hewitt |
+| 121 | 1336 | MysticMaven |
 | 122 | 1311 | J |
 | 123 | 1306 | Irma |
-| 124 | 1297 | Bri Martin |
-| 125 | 1295 | Snippy Grid |
+| 124 | 1303 | Snippy Grid |
+| 125 | 1297 | Bri Martin |
 | 126 | 1285 | Kristen Wallace |
 | 127 | 1285 | Kelly Bernard |
 | 128 | 1282 | Jenn Fitzgerald |
@@ -225,7 +225,7 @@
 | 217 | 806 | Gracie Ornelas |
 | 218 | 789 | Snippy Splitter |
 | 219 | 788 | Jackie Jackson |
-| 220 | 781 | Kelly Howland |
+| 220 | 785 | Kelly Howland |
 | 221 | 781 | Janet Sanfilippo Sullivan |
 | 222 | 778 | Suzanne Carter |
 | 223 | 777 | Vicki Adams |
@@ -493,27 +493,27 @@
 | 485 | 371 | Kari Smith |
 | 486 | 370 | Dizzy Slammer |
 | 487 | 369 | Azahares Alonso |
-| 488 | 367 | Alyssa Berg |
-| 489 | 367 | Lul Babie |
-| 490 | 366 | Alexis Cor |
-| 491 | 366 | Steven Patshy |
-| 492 | 366 | Erik Clary |
-| 493 | 366 | KrisTina2007 |
-| 494 | 365 | Bouncy |
-| 495 | 365 | Chilly Pivot |
-| 496 | 363 | Luna |
-| 497 | 363 | Deva Marie Barber |
-| 498 | 363 | Mark Norton |
-| 499 | 360 | Mann Manson |
-| 500 | 360 | Lady Dolphin |
-| 501 | 359 | Stasia |
-| 502 | 359 | BCO22 |
-| 503 | 357 | Maricela Joslin |
-| 504 | 357 | Karen Denise Ann Veitch |
-| 505 | 357 | Garden Girlie |
-| 506 | 357 | Lively Blockpiece |
-| 507 | 356 | Frilly Zoney |
-| 508 | 355 | Justin Sercu |
+| 488 | 368 | Justin Sercu |
+| 489 | 367 | Alyssa Berg |
+| 490 | 367 | Lul Babie |
+| 491 | 366 | Alexis Cor |
+| 492 | 366 | Steven Patshy |
+| 493 | 366 | Erik Clary |
+| 494 | 366 | KrisTina2007 |
+| 495 | 365 | Bouncy |
+| 496 | 365 | Chilly Pivot |
+| 497 | 363 | Luna |
+| 498 | 363 | Deva Marie Barber |
+| 499 | 363 | Mark Norton |
+| 500 | 360 | Mann Manson |
+| 501 | 360 | Lady Dolphin |
+| 502 | 359 | Stasia |
+| 503 | 359 | BCO22 |
+| 504 | 357 | Maricela Joslin |
+| 505 | 357 | Karen Denise Ann Veitch |
+| 506 | 357 | Garden Girlie |
+| 507 | 357 | Lively Blockpiece |
+| 508 | 356 | Frilly Zoney |
 | 509 | 354 | Frothy Pattern |
 | 510 | 354 | Miss Beast |
 | 511 | 354 | Montes Ash |
@@ -1782,50 +1782,50 @@
 | 1774 | 53 | Antoine Eugene |
 | 1775 | 53 | Amber Terry |
 | 1776 | 53 | Funky Rollblock |
-| 1777 | 53 | Artful*0* |
-| 1778 | 53 | Shawna Bell |
+| 1777 | 53 | Shawna Bell |
+| 1778 | 53 | Artful*0* |
 | 1779 | 53 | Agent |
 | 1780 | 53 | Sunshine Dreamchaser Whitfield |
 | 1781 | 53 | Jaison Horton |
 | 1782 | 52 | Dougieanna |
-| 1783 | 52 | Air1 |
-| 1784 | 52 | Domenique Wilson |
-| 1785 | 52 | Vv |
-| 1786 | 52 | Chill Slider |
-| 1787 | 52 | keikei77 |
-| 1788 | 52 | Erica Pinneo |
-| 1789 | 51 | DTM0013 |
-| 1790 | 51 | Danielle Clutter |
+| 1783 | 52 | Jessica Parsons |
+| 1784 | 52 | Air1 |
+| 1785 | 52 | Domenique Wilson |
+| 1786 | 52 | Vv |
+| 1787 | 52 | Chill Slider |
+| 1788 | 52 | keikei77 |
+| 1789 | 52 | Erica Pinneo |
+| 1790 | 51 | DTM0013 |
 | 1791 | 51 | Shatika Wallace |
-| 1792 | 51 | Jayson Hilliard |
-| 1793 | 51 | Gareth |
-| 1794 | 51 | Breezy Clusterfit |
-| 1795 | 51 | Joshua Doucette |
-| 1796 | 50 | Mexican130 |
-| 1797 | 50 | Goodie |
-| 1798 | 50 | Jacqueline Wright |
-| 1799 | 50 | Winza777 |
-| 1800 | 50 | Quirky Chiseler |
+| 1792 | 51 | Danielle Clutter |
+| 1793 | 51 | Jayson Hilliard |
+| 1794 | 51 | Gareth |
+| 1795 | 51 | Breezy Clusterfit |
+| 1796 | 51 | Joshua Doucette |
+| 1797 | 50 | Mexican130 |
+| 1798 | 50 | Goodie |
+| 1799 | 50 | Jacqueline Wright |
+| 1800 | 50 | Winza777 |
 | 1801 | 50 | Renee Short Anthony |
 | 1802 | 50 | Vinnie Barnett |
-| 1803 | 50 | Groovy Roll |
-| 1804 | 50 | Speedy Snapclear |
+| 1803 | 50 | Quirky Chiseler |
+| 1804 | 50 | Groovy Roll |
 | 1805 | 50 | Angelica Vidales |
 | 1806 | 50 | Giggy Clicky |
-| 1807 | 50 | Natalie Lane |
-| 1808 | 50 | Giggy Tetrisline |
-| 1809 | 50 | Hasty Patternline |
-| 1810 | 50 | Sarah Sherman |
-| 1811 | 50 | Breezy Shatterclear |
-| 1812 | 49 | Jessica Parsons |
-| 1813 | 49 | Naomi Wixon |
-| 1814 | 49 | Karen Riexinger |
-| 1815 | 49 | MrChino405 |
-| 1816 | 49 | Ona Jane |
-| 1817 | 49 | Merrick Marion |
-| 1818 | 49 | Stravo |
-| 1819 | 49 | Cheery Clear |
-| 1820 | 49 | Lorrie Lane Cummings |
+| 1807 | 50 | Hasty Patternline |
+| 1808 | 50 | Breezy Shatterclear |
+| 1809 | 50 | Sarah Sherman |
+| 1810 | 50 | Giggy Tetrisline |
+| 1811 | 50 | Natalie Lane |
+| 1812 | 50 | Speedy Snapclear |
+| 1813 | 49 | Stravo |
+| 1814 | 49 | Merrick Marion |
+| 1815 | 49 | Ona Jane |
+| 1816 | 49 | Cheery Clear |
+| 1817 | 49 | Lorrie Lane Cummings |
+| 1818 | 49 | MrChino405 |
+| 1819 | 49 | Karen Riexinger |
+| 1820 | 49 | Naomi Wixon |
 | 1821 | 49 | smarty |
 | 1822 | 49 | Hasty Grabber |
 | 1823 | 49 | Mindy Phariss |
@@ -1940,23 +1940,23 @@
 | 1932 | 39 | Tha Don |
 | 1933 | 39 | Shakita Moore-Bernard |
 | 1934 | 39 | Smack |
-| 1935 | 39 | BreOunna Zonye Littleton |
-| 1936 | 39 | Desiree Haines-Marshall |
-| 1937 | 39 | Quest |
-| 1938 | 39 | Smiley Stagger |
-| 1939 | 39 | Shiny Blockfall |
-| 1940 | 39 | Carrie Sue Shaffer |
-| 1941 | 39 | Glitzy Linkbuilder |
-| 1942 | 39 | bXrX |
-| 1943 | 39 | Rise |
-| 1944 | 38 | Heather Cook |
-| 1945 | 38 | Stephanie Marrero |
-| 1946 | 38 | Robin M Casebolt |
+| 1935 | 39 | Garett Lahti |
+| 1936 | 39 | BreOunna Zonye Littleton |
+| 1937 | 39 | Desiree Haines-Marshall |
+| 1938 | 39 | Quest |
+| 1939 | 39 | Smiley Stagger |
+| 1940 | 39 | Shiny Blockfall |
+| 1941 | 39 | Carrie Sue Shaffer |
+| 1942 | 39 | Glitzy Linkbuilder |
+| 1943 | 39 | bXrX |
+| 1944 | 39 | Rise |
+| 1945 | 38 | Chris Riley |
+| 1946 | 38 | twocrude2 |
 | 1947 | 38 | Dupontmom |
-| 1948 | 38 | twocrude2 |
-| 1949 | 38 | Chris Riley |
-| 1950 | 38 | Jacquelyn Villarreal-Messenger |
-| 1951 | 38 | Garett Lahti |
+| 1948 | 38 | Jacquelyn Villarreal-Messenger |
+| 1949 | 38 | Robin M Casebolt |
+| 1950 | 38 | Stephanie Marrero |
+| 1951 | 38 | Heather Cook |
 | 1952 | 38 | Bold Tumbler |
 | 1953 | 37 | Heather Cline |
 | 1954 | 37 | Arlee Woodall |
@@ -1966,12 +1966,12 @@
 | 1958 | 37 | ScorpioQueen |
 | 1959 | 37 | Flashy Snap |
 | 1960 | 37 | Alisha Hubbard |
-| 1961 | 37 | Cassie Jowett |
-| 1962 | 37 | Nutty Linkroll |
-| 1963 | 36 | Peppy Linefit |
-| 1964 | 36 | Kathy Lindsay |
-| 1965 | 36 | Lively Tilebuilder |
-| 1966 | 36 | Jimmy Redding |
+| 1961 | 37 | Nutty Linkroll |
+| 1962 | 37 | Cassie Jowett |
+| 1963 | 36 | Jimmy Redding |
+| 1964 | 36 | Peppy Linefit |
+| 1965 | 36 | Kathy Lindsay |
+| 1966 | 36 | Lively Tilebuilder |
 | 1967 | 36 | Misty Mathers |
 | 1968 | 36 | Litty |
 | 1969 | 36 | Stephanie Cornelius |
