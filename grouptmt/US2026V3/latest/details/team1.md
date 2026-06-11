@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:42:24 UTC
+# Standings for team1 as of 2026-06-11 16:43:23 UTC
 
 **Total Participants:** 2506
 
@@ -10,9 +10,9 @@
 | 2 | 22135 | Death by SnuSnu |
 | 3 | 22000 | Kalynn Parks |
 | 4 | 17629 | Tyeina Johnson |
-| 5 | 13741 | Peppy Piececlear |
-| 6 | 13684 | Carrie English |
-| 7 | 13643 | Erika Windom |
+| 5 | 13992 | Erika Windom |
+| 6 | 13741 | Peppy Piececlear |
+| 7 | 13684 | Carrie English |
 | 8 | 13431 | Timothy Robert |
 | 9 | 12803 | Charlie Roehm |
 | 10 | 12059 | Tipsy Tetriblast |
@@ -157,8 +157,8 @@
 | 149 | 1209 | win |
 | 150 | 1208 | Jazzy Dashpiece |
 | 151 | 1189 | Lesley Brunkus Cianfaglione |
-| 152 | 1170 | boogeywoogey |
-| 153 | 1166 | Raymond Keeler |
+| 152 | 1176 | Raymond Keeler |
+| 153 | 1170 | boogeywoogey |
 | 154 | 1160 | Danielle Barthelme |
 | 155 | 1158 | kc |
 | 156 | 1149 | Shell Lewis |
@@ -306,7 +306,7 @@
 | 298 | 618 | NewEve |
 | 299 | 615 | pooh |
 | 300 | 612 | Jessica Russell |
-| 301 | 607 | Alivia Dove |
+| 301 | 608 | Alivia Dove |
 | 302 | 604 | Andre Sanon |
 | 303 | 601 | Marie Wilson |
 | 304 | 599 | IThinkNot |
@@ -738,28 +738,28 @@
 | 730 | 280 | Tina Sellars |
 | 731 | 279 | DeAngelo Sorrells |
 | 732 | 277 | William Vidra |
-| 733 | 276 | Dannie |
+| 733 | 276 | Lindsey |
 | 734 | 276 | Joseph Vs Cap |
-| 735 | 276 | Taneka Howell |
-| 736 | 276 | Rosalind Chatman |
-| 737 | 275 | MzJuice Box |
-| 738 | 275 | Chris Sladoje |
-| 739 | 275 | Michelle Peters |
-| 740 | 274 | Dorian Griffin |
-| 741 | 274 | Polite Granny |
-| 742 | 273 | Mommy Frank |
-| 743 | 273 | Cheery Climber |
-| 744 | 273 | Laysa Nunez |
-| 745 | 273 | Don Ray Mc |
-| 746 | 273 | Frances Davis |
-| 747 | 272 | $hort Dog |
-| 748 | 272 | Seirra Robinson |
-| 749 | 272 | Felicia Dungey |
+| 735 | 276 | Rosalind Chatman |
+| 736 | 276 | Taneka Howell |
+| 737 | 276 | Dannie |
+| 738 | 275 | MzJuice Box |
+| 739 | 275 | Chris Sladoje |
+| 740 | 275 | Michelle Peters |
+| 741 | 274 | Dorian Griffin |
+| 742 | 274 | Polite Granny |
+| 743 | 273 | Mommy Frank |
+| 744 | 273 | Cheery Climber |
+| 745 | 273 | Laysa Nunez |
+| 746 | 273 | Don Ray Mc |
+| 747 | 273 | Frances Davis |
+| 748 | 272 | $hort Dog |
+| 749 | 272 | Seirra Robinson |
 | 750 | 272 | kayluv85 |
-| 751 | 271 | Sunset Owens |
-| 752 | 271 | MsSassygee Boom |
-| 753 | 270 | Bob |
-| 754 | 270 | Lindsey |
+| 751 | 272 | Felicia Dungey |
+| 752 | 271 | Sunset Owens |
+| 753 | 271 | MsSassygee Boom |
+| 754 | 270 | Bob |
 | 755 | 270 | Lester Malone |
 | 756 | 269 | Blocksy |
 | 757 | 269 | RMGreen |
@@ -775,13 +775,13 @@
 | 767 | 265 | Kortney Adams |
 | 768 | 264 | Donna Payne |
 | 769 | 264 | Glitzy Clusterer |
-| 770 | 263 | Mami Badd |
-| 771 | 263 | Yellowbone |
-| 772 | 263 | Messy Live |
+| 770 | 263 | Yellowbone |
+| 771 | 263 | Messy Live |
+| 772 | 263 | Mami Badd |
 | 773 | 262 | Tiffany Conley |
 | 774 | 262 | MamaBearTiff |
-| 775 | 261 | Nickeya Phillips |
-| 776 | 261 | Shannon Carriger |
+| 775 | 261 | Shannon Carriger |
+| 776 | 261 | Nickeya Phillips |
 | 777 | 260 | Jimmy Shannon |
 | 778 | 260 | Ashley Danielle |
 | 779 | 260 | Carolyn Smith |
@@ -1045,12 +1045,12 @@
 | 1037 | 174 | Hoppy Rumbler |
 | 1038 | 173 | Beautiful314 |
 | 1039 | 173 | Damien Fonseca |
-| 1040 | 173 | Lazy Chiseler |
-| 1041 | 173 | Latanya Gayle |
-| 1042 | 172 | Aaron Sohnrey |
-| 1043 | 171 | Deihja Weaver |
-| 1044 | 171 | Dani McLeod |
-| 1045 | 171 | Sharon Lynn |
+| 1040 | 173 | Sharon Lynn |
+| 1041 | 173 | Lazy Chiseler |
+| 1042 | 173 | Latanya Gayle |
+| 1043 | 172 | Aaron Sohnrey |
+| 1044 | 171 | Deihja Weaver |
+| 1045 | 171 | Dani McLeod |
 | 1046 | 171 | Margretta Henry |
 | 1047 | 171 | Shanell Thomas |
 | 1048 | 171 | Pinky Pink |
@@ -1672,42 +1672,42 @@
 | 1664 | 59 | Clever Linkroll |
 | 1665 | 59 | Tiffany Hooper |
 | 1666 | 59 | Joy Shantrice Sorrells |
-| 1667 | 59 | Cheryl Parraway |
-| 1668 | 59 | Zondria Barnes |
-| 1669 | 59 | Robert Varnado |
-| 1670 | 59 | Sweet BayBee |
-| 1671 | 58 | jaz |
-| 1672 | 58 | Chirpy Pivot |
-| 1673 | 58 | CoaCoa Myles |
-| 1674 | 58 | Angelique Thomas |
-| 1675 | 58 | Sylvia Holst |
-| 1676 | 58 | JLynn Mind Ur's Blackwell |
-| 1677 | 58 | Brandy Way |
-| 1678 | 58 | Dizzy Roĺlback |
+| 1667 | 59 | Zondria Barnes |
+| 1668 | 59 | Robert Varnado |
+| 1669 | 59 | Sweet BayBee |
+| 1670 | 59 | Cheryl Parraway |
+| 1671 | 58 | Angelique Thomas |
+| 1672 | 58 | Brittany N. Hess |
+| 1673 | 58 | GlamourN |
+| 1674 | 58 | Brandy Way |
+| 1675 | 58 | Dizzy Roĺlback |
+| 1676 | 58 | jaz |
+| 1677 | 58 | JLynn Mind Ur's Blackwell |
+| 1678 | 58 | Sylvia Holst |
 | 1679 | 58 | Twisty Cascader |
-| 1680 | 58 | GlamourN |
-| 1681 | 57 | Wacky Towerer |
-| 1682 | 57 | Cali Lee |
-| 1683 | 57 | Spicy Snap |
-| 1684 | 57 | Frilly Rumbler |
-| 1685 | 57 | Pretty-Lily |
-| 1686 | 57 | MissingYou Nini |
-| 1687 | 56 | LaVonda Myers |
-| 1688 | 56 | Tina Drake |
-| 1689 | 56 | VeLora GreenEyez Holt |
-| 1690 | 56 | Brittany N. Hess |
-| 1691 | 56 | Kayleah Washington |
+| 1680 | 58 | Chirpy Pivot |
+| 1681 | 58 | CoaCoa Myles |
+| 1682 | 57 | Wacky Towerer |
+| 1683 | 57 | Cali Lee |
+| 1684 | 57 | Spicy Snap |
+| 1685 | 57 | Frilly Rumbler |
+| 1686 | 57 | Pretty-Lily |
+| 1687 | 57 | MissingYou Nini |
+| 1688 | 56 | Giddy Twistslam |
+| 1689 | 56 | David Rankin |
+| 1690 | 56 | Tim Tim |
+| 1691 | 56 | VeLora GreenEyez Holt |
 | 1692 | 56 | Kira Wooten |
-| 1693 | 56 | Tim Tim |
-| 1694 | 56 | Giddy Twistslam |
-| 1695 | 56 | David Rankin |
-| 1696 | 56 | Lisa Ivy |
-| 1697 | 55 | Jay Carmicheal |
+| 1693 | 56 | Kayleah Washington |
+| 1694 | 56 | Lisa Ivy |
+| 1695 | 56 | Tina Drake |
+| 1696 | 56 | LaVonda Myers |
+| 1697 | 55 | Linny Loop |
 | 1698 | 55 | KoolKimJay |
-| 1699 | 55 | D Jay Camberos |
-| 1700 | 55 | Dee |
-| 1701 | 55 | Cranky Fitblock |
-| 1702 | 55 | Linny Loop |
+| 1699 | 55 | Jay Carmicheal |
+| 1700 | 55 | Cranky Fitblock |
+| 1701 | 55 | Dee |
+| 1702 | 55 | D Jay Camberos |
 | 1703 | 55 | Kikiness |
 | 1704 | 55 | Andrea DeRoy |
 | 1705 | 54 | deeno |
