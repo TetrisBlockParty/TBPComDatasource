@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 19:18:40 UTC
+# Standings for team1 as of 2026-06-11 19:19:20 UTC
 
 **Total Participants:** 2524
 
@@ -225,17 +225,17 @@
 | 217 | 862 | LaSharmeika Fancher |
 | 218 | 861 | Rachel Zimmerman |
 | 219 | 857 | Analiza Ramos |
-| 220 | 844 | Clint Mcdowell |
-| 221 | 839 | Sarah Clark |
-| 222 | 835 | Erin Sabol |
-| 223 | 834 | Jamal Itzjusmall Chambers |
-| 224 | 832 | Chantelle Lee |
-| 225 | 827 | Andrew Jay Vaughn |
-| 226 | 825 | Aihpos |
-| 227 | 816 | Tasha Jones |
-| 228 | 816 | Coco |
-| 229 | 812 | Trina Greenwood |
-| 230 | 812 | Big Tina |
+| 220 | 852 | Big Tina |
+| 221 | 844 | Clint Mcdowell |
+| 222 | 839 | Sarah Clark |
+| 223 | 835 | Erin Sabol |
+| 224 | 834 | Jamal Itzjusmall Chambers |
+| 225 | 832 | Chantelle Lee |
+| 226 | 827 | Andrew Jay Vaughn |
+| 227 | 825 | Aihpos |
+| 228 | 816 | Tasha Jones |
+| 229 | 816 | Coco |
+| 230 | 812 | Trina Greenwood |
 | 231 | 812 | Mic Balew |
 | 232 | 801 | BULLSEYE |
 | 233 | 800 | izzybella |
@@ -245,8 +245,8 @@
 | 237 | 786 | David Fuentes |
 | 238 | 777 | Johnathan Deese |
 | 239 | 774 | Ottison Dianna |
-| 240 | 772 | Dena Marie Lee |
-| 241 | 772 | Latisha Fairley |
+| 240 | 772 | Latisha Fairley |
+| 241 | 772 | Dena Marie Lee |
 | 242 | 770 | Andy Rivera |
 | 243 | 770 | Genne Scott |
 | 244 | 766 | Shameka Thrasher |
@@ -977,32 +977,32 @@
 | 969 | 198 | Biggestboss Ransom |
 | 970 | 197 | krd |
 | 971 | 196 | Jodie |
-| 972 | 196 | Amaadi Ward |
-| 973 | 196 | Locke Mahal LD |
+| 972 | 196 | Locke Mahal LD |
+| 973 | 196 | Amaadi Ward |
 | 974 | 196 | Jerome Lewis |
 | 975 | 196 | Katness |
-| 976 | 196 | Tray Tolliver |
-| 977 | 196 | Sylvia Offically A Mcgowan |
+| 976 | 196 | Sylvia Offically A Mcgowan |
+| 977 | 196 | Tray Tolliver |
 | 978 | 196 | Arlea Mann |
 | 979 | 195 | Lucy Range |
-| 980 | 195 | Fatty May |
-| 981 | 194 | Ernie Waters |
-| 982 | 194 | Mark Steven Pichler |
-| 983 | 193 | Swanky Glide |
-| 984 | 192 | Kanesha Jackson |
+| 980 | 195 | Jane Lame |
+| 981 | 195 | Fatty May |
+| 982 | 194 | Ernie Waters |
+| 983 | 194 | Mark Steven Pichler |
+| 984 | 193 | Swanky Glide |
 | 985 | 192 | Ashley Love Pettit |
 | 986 | 192 | Pinky Pink |
-| 987 | 192 | Mike Hromowyk |
-| 988 | 192 | Shawna Passwater |
-| 989 | 192 | TRUBBLE45 |
-| 990 | 192 | QueenzMo |
-| 991 | 192 | Williams Candace |
-| 992 | 191 | Christopher Shaw-Black |
-| 993 | 191 | Dee Dee |
-| 994 | 191 | Jane Lame |
-| 995 | 190 | Shauntai Holiday |
-| 996 | 190 | Batty B |
-| 997 | 190 | West Racks |
+| 987 | 192 | Shawna Passwater |
+| 988 | 192 | TRUBBLE45 |
+| 989 | 192 | QueenzMo |
+| 990 | 192 | Williams Candace |
+| 991 | 192 | Mike Hromowyk |
+| 992 | 192 | Kanesha Jackson |
+| 993 | 191 | Christopher Shaw-Black |
+| 994 | 191 | Dee Dee |
+| 995 | 190 | West Racks |
+| 996 | 190 | Shauntai Holiday |
+| 997 | 190 | Batty B |
 | 998 | 190 | Spicy Tiler |
 | 999 | 190 | Chipper Snapper |
 | 1000 | 190 | Chipper Clicker |
@@ -1224,16 +1224,16 @@
 | 1216 | 132 | Tip318 |
 | 1217 | 131 | XYZ |
 | 1218 | 131 | Daring Linkfall |
-| 1219 | 130 | Juppi |
-| 1220 | 130 | jac |
-| 1221 | 130 | Jessica Davis |
-| 1222 | 130 | Hoppy Towerfall |
-| 1223 | 130 | Tez Mays |
-| 1224 | 130 | Funky Tetris |
-| 1225 | 130 | kingbrook |
-| 1226 | 129 | Tomme Poliwka |
-| 1227 | 129 | Chino Baby |
-| 1228 | 129 | Hoppy Buildsnap |
+| 1219 | 131 | Hoppy Buildsnap |
+| 1220 | 130 | Juppi |
+| 1221 | 130 | jac |
+| 1222 | 130 | Jessica Davis |
+| 1223 | 130 | Hoppy Towerfall |
+| 1224 | 130 | Tez Mays |
+| 1225 | 130 | Funky Tetris |
+| 1226 | 130 | kingbrook |
+| 1227 | 129 | Tomme Poliwka |
+| 1228 | 129 | Chino Baby |
 | 1229 | 129 | Ounquan Wright |
 | 1230 | 128 | Brittany Britkany Marsden-Garrison |
 | 1231 | 128 | Lazy Matchgrid |
