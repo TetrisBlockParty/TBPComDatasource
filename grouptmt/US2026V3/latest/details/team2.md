@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 15:00:46 UTC
+# Standings for team2 as of 2026-06-11 15:01:23 UTC
 
 **Total Participants:** 2974
 
@@ -203,10 +203,10 @@
 | 195 | 1101 | Kimmyc |
 | 196 | 1095 | Rhonda Diebold |
 | 197 | 1090 | Le Sandy |
-| 198 | 1086 | Sarah Griffey |
-| 199 | 1080 | Erin Thomas |
-| 200 | 1073 | Nikki Hayes |
-| 201 | 1067 | Perii Reynoso |
+| 198 | 1087 | Perii Reynoso |
+| 199 | 1086 | Sarah Griffey |
+| 200 | 1080 | Erin Thomas |
+| 201 | 1073 | Nikki Hayes |
 | 202 | 1062 | Krisanne Kesner-Lonsby |
 | 203 | 1054 | MarioKarasovic |
 | 204 | 1045 | Bubbly Dash |
@@ -655,13 +655,13 @@
 | 647 | 372 | ZBee |
 | 648 | 372 | Viani09 |
 | 649 | 372 | Flashy Basegrid |
-| 650 | 370 | Bouncy Snapmatch |
+| 650 | 371 | Shelby Wilson |
 | 651 | 370 | marsam |
-| 652 | 369 | Francesca Wagenhoffer |
-| 653 | 368 | Kimmi Blake |
-| 654 | 368 | Shelby Wilson |
-| 655 | 367 | Debra May |
-| 656 | 367 | Frisky Twist |
+| 652 | 370 | Bouncy Snapmatch |
+| 653 | 369 | Francesca Wagenhoffer |
+| 654 | 368 | Kimmi Blake |
+| 655 | 367 | Frisky Twist |
+| 656 | 367 | Debra May |
 | 657 | 366 | Ozge Akgun Tokat |
 | 658 | 365 | Lee Leonard |
 | 659 | 364 | Frisky Linkbuilder |
