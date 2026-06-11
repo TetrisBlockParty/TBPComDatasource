@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:18:24 UTC
+# Standings for team4 as of 2026-06-11 15:19:24 UTC
 
 **Total Participants:** 2541
 
@@ -91,17 +91,17 @@
 | 83 | 2068 | Damon Gaston |
 | 84 | 2066 | kcknbtz |
 | 85 | 2063 | Cranky Buildout |
-| 86 | 2003 | Jackie Polanco |
-| 87 | 1992 | 2 kool |
-| 88 | 1961 | Jazzy Gridder |
-| 89 | 1920 | Alyssa Oth |
-| 90 | 1906 | Sassy Column |
-| 91 | 1897 | Chris Covington |
-| 92 | 1870 | JoLinda Dunn |
-| 93 | 1869 | Dheeh Robles |
-| 94 | 1857 | Jumpy Brickline |
-| 95 | 1842 | Keg |
-| 96 | 1777 | Jessi Goodwin |
+| 86 | 2055 | Jessi Goodwin |
+| 87 | 2003 | Jackie Polanco |
+| 88 | 1992 | 2 kool |
+| 89 | 1961 | Jazzy Gridder |
+| 90 | 1920 | Alyssa Oth |
+| 91 | 1906 | Sassy Column |
+| 92 | 1897 | Chris Covington |
+| 93 | 1870 | JoLinda Dunn |
+| 94 | 1869 | Dheeh Robles |
+| 95 | 1857 | Jumpy Brickline |
+| 96 | 1842 | Keg |
 | 97 | 1728 | Leslie Ann Carter |
 | 98 | 1704 | Beee |
 | 99 | 1686 | SMV |
@@ -144,7 +144,7 @@
 | 136 | 1272 | Trice Stevenson |
 | 137 | 1272 | Jesse Olive |
 | 138 | 1258 | Blayne Kole |
-| 139 | 1243 | Alex Armour |
+| 139 | 1248 | Alex Armour |
 | 140 | 1242 | Jason Garnatz |
 | 141 | 1236 | Hairy Snake |
 | 142 | 1227 | shawna |
