@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 16:48:45 UTC
+# Standings for team2 as of 2026-06-11 16:49:24 UTC
 
 **Total Participants:** 2985
 
@@ -796,8 +796,8 @@
 | 788 | 311 | Holly Barefoot |
 | 789 | 310 | Glitzy Roll |
 | 790 | 309 | Amy |
-| 791 | 309 | Jami Borges |
-| 792 | 309 | Peachy Wipegrid |
+| 791 | 309 | Peachy Wipegrid |
+| 792 | 309 | Jami Borges |
 | 793 | 308 | Jamie Adams |
 | 794 | 308 | Marlo Perry |
 | 795 | 307 | GiGi Cool |
@@ -806,11 +806,11 @@
 | 798 | 307 | Nikki Sadler |
 | 799 | 307 | Bonita Alexander |
 | 800 | 306 | Reign Hustler |
-| 801 | 305 | Susie Conger |
+| 801 | 306 | Nicole Suber |
 | 802 | 305 | Silly Clicker |
 | 803 | 305 | Cozy Cascade |
 | 804 | 305 | Hansent3 |
-| 805 | 305 | Nicole Suber |
+| 805 | 305 | Susie Conger |
 | 806 | 304 | Cranky Basepiece |
 | 807 | 304 | Sadie-Damion Smith |
 | 808 | 303 | Errkuh |
