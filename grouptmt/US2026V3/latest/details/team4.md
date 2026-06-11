@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 04:04:47 UTC
+# Standings for team4 as of 2026-06-11 04:05:23 UTC
 
 **Total Participants:** 2463
 
@@ -112,7 +112,7 @@
 | 104 | 1462 | Beee |
 | 105 | 1442 | Kelley Roach |
 | 106 | 1431 | Sean Mccleary |
-| 107 | 1417 | Hannah Pazar |
+| 107 | 1430 | Hannah Pazar |
 | 108 | 1403 | Tina Shalay Hayes |
 | 109 | 1398 | Snappy Fitzone |
 | 110 | 1390 | Esther Hadassah |
@@ -124,7 +124,7 @@
 | 116 | 1348 | GeorgeButts |
 | 117 | 1342 | Shaina Sharp |
 | 118 | 1336 | Jonathan Hewitt |
-| 119 | 1312 | MysticMaven |
+| 119 | 1321 | MysticMaven |
 | 120 | 1306 | Irma |
 | 121 | 1297 | Bri Martin |
 | 122 | 1295 | Snippy Grid |
@@ -178,24 +178,24 @@
 | 170 | 950 | Nicole Peoples |
 | 171 | 950 | Joyce Myers |
 | 172 | 950 | Genag |
-| 173 | 946 | Lori Stembridge |
-| 174 | 942 | Kay |
-| 175 | 941 | Cranky Towerbuilder |
-| 176 | 940 | Linda Miltenburg |
-| 177 | 930 | Wanda Simmons |
-| 178 | 912 | Tamara Triplet |
-| 179 | 908 | Andrew Dang |
-| 180 | 904 | adrian |
-| 181 | 902 | vag1974 |
-| 182 | 902 | Dandy Clearfit |
-| 183 | 899 | Boldy Striker |
-| 184 | 899 | Cheery Risegrid |
-| 185 | 894 | Tiffany Brooke |
-| 186 | 893 | Anthony Lewis |
-| 187 | 892 | George Palacios |
-| 188 | 877 | Hwanger Land |
-| 189 | 872 | Katy |
-| 190 | 867 | Regina Williams |
+| 173 | 947 | Regina Williams |
+| 174 | 946 | Lori Stembridge |
+| 175 | 942 | Kay |
+| 176 | 941 | Cranky Towerbuilder |
+| 177 | 940 | Linda Miltenburg |
+| 178 | 930 | Wanda Simmons |
+| 179 | 912 | Tamara Triplet |
+| 180 | 908 | Andrew Dang |
+| 181 | 904 | adrian |
+| 182 | 902 | vag1974 |
+| 183 | 902 | Dandy Clearfit |
+| 184 | 899 | Boldy Striker |
+| 185 | 899 | Cheery Risegrid |
+| 186 | 894 | Tiffany Brooke |
+| 187 | 893 | Anthony Lewis |
+| 188 | 892 | George Palacios |
+| 189 | 877 | Hwanger Land |
+| 190 | 872 | Katy |
 | 191 | 862 | Samara Garcia |
 | 192 | 850 | Magz |
 | 193 | 850 | Shiny Dashy |
@@ -240,8 +240,8 @@
 | 232 | 723 | zoes |
 | 233 | 721 | Smiley Gridzone |
 | 234 | 718 | Lush Fitblock |
-| 235 | 716 | Samantha Worley |
-| 236 | 716 | Celina DiBastiani |
+| 235 | 716 | Celina DiBastiani |
+| 236 | 716 | Samantha Worley |
 | 237 | 710 | Katie Martin |
 | 238 | 708 | Shannon Rivera |
 | 239 | 706 | Toon Up |
