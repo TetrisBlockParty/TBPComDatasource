@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 22:10:25 UTC
+# Standings for team1 as of 2026-06-11 22:11:20 UTC
 
 **Total Participants:** 2542
 
@@ -18,7 +18,7 @@
 | 10 | 12803 | Charlie Roehm |
 | 11 | 11184 | Charnay Peacock |
 | 12 | 10579 | Dyane Leah Ware |
-| 13 | 10121 | Debbie Carswell |
+| 13 | 10126 | Debbie Carswell |
 | 14 | 10075 | Songne Arif |
 | 15 | 9723 | Speedy Spinblock |
 | 16 | 8739 | Tracy Cohen |
@@ -112,9 +112,9 @@
 | 104 | 1758 | Roberta Lynn |
 | 105 | 1756 | BYM4L |
 | 106 | 1746 | Sanjuro |
-| 107 | 1714 | Alana Renee |
-| 108 | 1708 | MamaBear |
-| 109 | 1701 | Loopy Block |
+| 107 | 1724 | Loopy Block |
+| 108 | 1714 | Alana Renee |
+| 109 | 1708 | MamaBear |
 | 110 | 1682 | Danielle DeLozier Plesec |
 | 111 | 1668 | La'Chae Nickole |
 | 112 | 1668 | Anthony Washington |
@@ -364,12 +364,12 @@
 | 356 | 529 | Dai Bo |
 | 357 | 528 | wuvbuug |
 | 358 | 527 | MommaCia |
-| 359 | 523 | Tonia Lance |
-| 360 | 521 | SeanSanchez |
-| 361 | 521 | Jawaun Daniels |
-| 362 | 520 | Hasty Glidezone |
-| 363 | 520 | Soubletzy |
-| 364 | 520 | Victor |
+| 359 | 527 | Victor |
+| 360 | 523 | Tonia Lance |
+| 361 | 521 | SeanSanchez |
+| 362 | 521 | Jawaun Daniels |
+| 363 | 520 | Hasty Glidezone |
+| 364 | 520 | Soubletzy |
 | 365 | 518 | Queenie Perry |
 | 366 | 517 | Cynthia Cruell |
 | 367 | 515 | Tay |
@@ -668,9 +668,9 @@
 | 660 | 320 | Malcolm Stanley |
 | 661 | 319 | Tamika Rocheteau |
 | 662 | 319 | Ciera Peace |
-| 663 | 319 | Zany Breaker |
-| 664 | 318 | Nerdy Snapfall |
-| 665 | 318 | Bambam |
+| 663 | 319 | Bambam |
+| 664 | 319 | Zany Breaker |
+| 665 | 318 | Nerdy Snapfall |
 | 666 | 318 | Stanley Dixon |
 | 667 | 317 | Tushama Cheris Okraku |
 | 668 | 317 | Shemar Singleton |
@@ -959,26 +959,26 @@
 | 951 | 205 | Treneil Daffin |
 | 952 | 205 | Mellie Mel |
 | 953 | 205 | Marcello Rush |
-| 954 | 205 | LAdYPOLy |
-| 955 | 205 | tg |
-| 956 | 205 | Tramaine Crockrum |
-| 957 | 205 | Alexis Alexander |
-| 958 | 204 | Danny Talbot |
+| 954 | 205 | Alexis Alexander |
+| 955 | 205 | LAdYPOLy |
+| 956 | 205 | tg |
+| 957 | 205 | Tramaine Crockrum |
+| 958 | 204 | Ernie Waters |
 | 959 | 204 | Chill Linkroll |
-| 960 | 204 | Ernie Waters |
+| 960 | 204 | Danny Talbot |
 | 961 | 204 | Shauntai Holiday |
-| 962 | 203 | Snappy Matchfit |
+| 962 | 203 | Witty Clear |
 | 963 | 203 | Erika |
 | 964 | 203 | krd |
 | 965 | 203 | Yazz |
-| 966 | 203 | Witty Clear |
-| 967 | 202 | Alexandrla Smith |
-| 968 | 202 | Hyper Blocky |
-| 969 | 202 | Jaxon Antuna |
-| 970 | 202 | Jane Lame |
+| 966 | 203 | Snappy Matchfit |
+| 967 | 202 | Jaxon Antuna |
+| 968 | 202 | Alexandrla Smith |
+| 969 | 202 | Jane Lame |
+| 970 | 202 | Hyper Blocky |
 | 971 | 201 | Boldy Pivoty |
-| 972 | 201 | Sabrina Wilkerson |
-| 973 | 201 | Tyrone Porter |
+| 972 | 201 | Tyrone Porter |
+| 973 | 201 | Sabrina Wilkerson |
 | 974 | 201 | 214Petty |
 | 975 | 201 | Sunny Tumbler |
 | 976 | 200 | Shadon McMillan |
@@ -989,40 +989,40 @@
 | 981 | 199 | Missy Myvette |
 | 982 | 199 | Delitra Perkins Hatter |
 | 983 | 198 | Heru Ogun Yeshua EL |
-| 984 | 198 | Peppy Wipeblock |
-| 985 | 198 | Biggestboss Ransom |
+| 984 | 198 | Biggestboss Ransom |
+| 985 | 198 | Peppy Wipeblock |
 | 986 | 196 | Katness |
 | 987 | 196 | Crafty Witch |
 | 988 | 196 | Locke Mahal LD |
-| 989 | 196 | Sylvia Offically A Mcgowan |
-| 990 | 196 | Amaadi Ward |
-| 991 | 196 | Arlea Mann |
-| 992 | 196 | Jerome Lewis |
-| 993 | 196 | Jodie |
-| 994 | 196 | Tray Tolliver |
+| 989 | 196 | Amaadi Ward |
+| 990 | 196 | Arlea Mann |
+| 991 | 196 | Jerome Lewis |
+| 992 | 196 | Sylvia Offically A Mcgowan |
+| 993 | 196 | Tray Tolliver |
+| 994 | 196 | Jodie |
 | 995 | 195 | Lucy Range |
 | 996 | 195 | Fatty May |
 | 997 | 194 | Mark Steven Pichler |
-| 998 | 193 | Swanky Glide |
-| 999 | 192 | Mike Hromowyk |
-| 1000 | 192 | TRUBBLE45 |
+| 998 | 194 | Cm |
+| 999 | 193 | Swanky Glide |
+| 1000 | 192 | Mike Hromowyk |
 | 1001 | 192 | Williams Candace |
-| 1002 | 192 | Pinky Pink |
-| 1003 | 192 | QueenzMo |
-| 1004 | 192 | Taylor Jordan Hollis |
+| 1002 | 192 | TRUBBLE45 |
+| 1003 | 192 | Pinky Pink |
+| 1004 | 192 | QueenzMo |
 | 1005 | 192 | Ashley Love Pettit |
-| 1006 | 191 | Christopher Shaw-Black |
-| 1007 | 191 | Cm |
-| 1008 | 191 | Mumitt |
-| 1009 | 191 | Dee Dee |
+| 1006 | 192 | Taylor Jordan Hollis |
+| 1007 | 191 | Christopher Shaw-Black |
+| 1008 | 191 | Dee Dee |
+| 1009 | 191 | Mumitt |
 | 1010 | 191 | Brandi M. Boney |
-| 1011 | 190 | Chipper Clicker |
-| 1012 | 190 | Batty B |
-| 1013 | 190 | Chipper Snapper |
-| 1014 | 190 | Sarah Guarino |
-| 1015 | 190 | Spicy Tiler |
-| 1016 | 190 | Samona Mcculler |
-| 1017 | 190 | West Racks |
+| 1011 | 190 | Sarah Guarino |
+| 1012 | 190 | Chipper Clicker |
+| 1013 | 190 | Batty B |
+| 1014 | 190 | Chipper Snapper |
+| 1015 | 190 | West Racks |
+| 1016 | 190 | Spicy Tiler |
+| 1017 | 190 | Samona Mcculler |
 | 1018 | 189 | Amilia Cruz |
 | 1019 | 189 | Sean White |
 | 1020 | 189 | Abdul Malik |
@@ -1983,13 +1983,13 @@
 | 1975 | 34 | Matthew Simmons |
 | 1976 | 34 | Zayy Wavyy |
 | 1977 | 34 | beeutifullll |
-| 1978 | 33 | Brianna Floyd |
-| 1979 | 33 | Joseph Mclaughlin |
-| 1980 | 33 | Dapper Basegrid |
-| 1981 | 33 | Funky Clearfit |
-| 1982 | 33 | Kim Ratcliff Leatherman |
-| 1983 | 33 | Koz176 |
-| 1984 | 33 | Kevin Troy |
+| 1978 | 34 | Kevin Troy |
+| 1979 | 33 | Brianna Floyd |
+| 1980 | 33 | Joseph Mclaughlin |
+| 1981 | 33 | Dapper Basegrid |
+| 1982 | 33 | Funky Clearfit |
+| 1983 | 33 | Kim Ratcliff Leatherman |
+| 1984 | 33 | Koz176 |
 | 1985 | 33 | Raynell Mcfrazier |
 | 1986 | 32 | Brandy Cristina Dickey |
 | 1987 | 32 | Jhinarra Walker |
