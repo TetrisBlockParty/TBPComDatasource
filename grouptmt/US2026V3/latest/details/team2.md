@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:38:46 UTC
+# Standings for team2 as of 2026-06-11 08:39:23 UTC
 
 **Total Participants:** 2934
 
@@ -14,7 +14,7 @@
 | 6 | 14612 | Lacey Nolting |
 | 7 | 14576 | Crystalin Heath Lewis |
 | 8 | 13761 | Brandon Brown |
-| 9 | 13198 | Mellzey |
+| 9 | 13330 | Mellzey |
 | 10 | 12760 | Cori Keberlein |
 | 11 | 12553 | Jason Wood |
 | 12 | 11800 | Crafty Ziggy |
@@ -139,29 +139,29 @@
 | 131 | 1628 | Ruby Sandberg |
 | 132 | 1621 | Jamie Fenyus |
 | 133 | 1593 | haune |
-| 134 | 1563 | Amber Triguero |
-| 135 | 1547 | Lily |
-| 136 | 1546 | snowwol |
-| 137 | 1532 | Wmk Rathbun |
-| 138 | 1521 | Renee Freeman Jacobson |
-| 139 | 1510 | Shandrea Crawford |
-| 140 | 1498 | Tim Tim |
-| 141 | 1492 | Amber-leigh Williams |
-| 142 | 1485 | Vistabrat |
-| 143 | 1479 | Hilliary Beyer |
-| 144 | 1475 | Alicia Kinney |
-| 145 | 1457 | Kathy Strickland |
-| 146 | 1456 | alf |
-| 147 | 1454 | Frothy Fallgrid |
-| 148 | 1439 | Zachary Vymislicky |
+| 134 | 1575 | Zachary Vymislicky |
+| 135 | 1563 | Amber Triguero |
+| 136 | 1547 | Lily |
+| 137 | 1546 | snowwol |
+| 138 | 1532 | Wmk Rathbun |
+| 139 | 1521 | Renee Freeman Jacobson |
+| 140 | 1510 | Shandrea Crawford |
+| 141 | 1498 | Tim Tim |
+| 142 | 1492 | Amber-leigh Williams |
+| 143 | 1485 | Vistabrat |
+| 144 | 1479 | Hilliary Beyer |
+| 145 | 1475 | Alicia Kinney |
+| 146 | 1457 | Kathy Strickland |
+| 147 | 1456 | alf |
+| 148 | 1454 | Frothy Fallgrid |
 | 149 | 1439 | Anissa Moore |
 | 150 | 1431 | LittleHippoEars |
 | 151 | 1416 | Marquetta Johnson |
 | 152 | 1413 | Jason Cook |
 | 153 | 1354 | Jaime P Lamb |
 | 154 | 1351 | Mirr Lulu |
-| 155 | 1350 | Denise Potter |
-| 156 | 1350 | Hoppy Rotate |
+| 155 | 1350 | Hoppy Rotate |
+| 156 | 1350 | Denise Potter |
 | 157 | 1350 | Sigmamom |
 | 158 | 1323 | joey |
 | 159 | 1321 | Allison Jarman |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:38:46 UTC
+# Standings for team1 as of 2026-06-11 08:39:23 UTC
 
 **Total Participants:** 2466
 
@@ -590,16 +590,16 @@
 | 582 | 319 | Ciera Peace |
 | 583 | 319 | MACHETEEDDIE513 |
 | 584 | 319 | Zappy Snapgrid |
-| 585 | 319 | TY Newme Batts |
-| 586 | 318 | Nerdy Snapfall |
-| 587 | 318 | Marlainia Boyd |
-| 588 | 318 | Latore Maxie |
-| 589 | 317 | Mister Reid |
-| 590 | 317 | Bambi Johnson |
-| 591 | 317 | Chris Holland |
-| 592 | 317 | Hardtohandle91 |
-| 593 | 317 | Monica Tovar |
-| 594 | 316 | Saucy Faller |
+| 585 | 319 | Saucy Faller |
+| 586 | 319 | TY Newme Batts |
+| 587 | 318 | Nerdy Snapfall |
+| 588 | 318 | Marlainia Boyd |
+| 589 | 318 | Latore Maxie |
+| 590 | 317 | Mister Reid |
+| 591 | 317 | Bambi Johnson |
+| 592 | 317 | Chris Holland |
+| 593 | 317 | Hardtohandle91 |
+| 594 | 317 | Monica Tovar |
 | 595 | 316 | Comedian Gdane |
 | 596 | 314 | Breezy Dashpiece |
 | 597 | 314 | PSD |

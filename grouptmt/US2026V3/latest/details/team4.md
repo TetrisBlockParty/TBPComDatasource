@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:38:46 UTC
+# Standings for team4 as of 2026-06-11 08:39:23 UTC
 
 **Total Participants:** 2503
 
@@ -54,8 +54,8 @@
 | 46 | 3776 | Dana Smith |
 | 47 | 3763 | Carly Stempien |
 | 48 | 3762 | Watupall13 |
-| 49 | 3627 | Dennis Montoya |
-| 50 | 3603 | Wendy Zentz |
+| 49 | 3673 | Wendy Zentz |
+| 50 | 3627 | Dennis Montoya |
 | 51 | 3600 | Leah Gorsuch |
 | 52 | 3440 | Kathy Brookins |
 | 53 | 3391 | Dana Abegil Lawas |
@@ -100,16 +100,16 @@
 | 92 | 1852 | 2 kool |
 | 93 | 1842 | Keg |
 | 94 | 1745 | Jessi Goodwin |
-| 95 | 1704 | Beee |
-| 96 | 1686 | SMV |
-| 97 | 1669 | Lupe Alburquerque |
-| 98 | 1644 | Chris Covington |
-| 99 | 1624 | Chaz Duncan |
-| 100 | 1616 | Giggy Matchpiece |
-| 101 | 1593 | Jeremy Lopez |
-| 102 | 1591 | Sean Mccleary |
-| 103 | 1560 | Neeta Kapadia |
-| 104 | 1553 | Twirl Girl |
+| 95 | 1738 | Twirl Girl |
+| 96 | 1704 | Beee |
+| 97 | 1686 | SMV |
+| 98 | 1669 | Lupe Alburquerque |
+| 99 | 1644 | Chris Covington |
+| 100 | 1624 | Chaz Duncan |
+| 101 | 1616 | Giggy Matchpiece |
+| 102 | 1593 | Jeremy Lopez |
+| 103 | 1591 | Sean Mccleary |
+| 104 | 1560 | Neeta Kapadia |
 | 105 | 1521 | Leslie Ann Carter |
 | 106 | 1464 | squareMel |
 | 107 | 1442 | Kelley Roach |
