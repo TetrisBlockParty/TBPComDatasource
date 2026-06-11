@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:28:44 UTC
+# Standings for team1 as of 2026-06-11 08:29:24 UTC
 
 **Total Participants:** 2465
 
@@ -15,7 +15,7 @@
 | 7 | 12803 | Charlie Roehm |
 | 8 | 12469 | Erika Windom |
 | 9 | 12431 | Timothy Robert |
-| 10 | 10460 | Charnay Peacock |
+| 10 | 10520 | Charnay Peacock |
 | 11 | 10231 | Dyane Leah Ware |
 | 12 | 10025 | Songne Arif |
 | 13 | 9723 | Speedy Spinblock |
@@ -51,8 +51,8 @@
 | 43 | 3413 | Jennifer To |
 | 44 | 3145 | COSA303 |
 | 45 | 3140 | Will |
-| 46 | 3082 | JoJo |
-| 47 | 3057 | Mimi 1.0 |
+| 46 | 3107 | Mimi 1.0 |
+| 47 | 3082 | JoJo |
 | 48 | 3042 | Hyper Slamdrop |
 | 49 | 2909 | Therealdywoune Peay |
 | 50 | 2903 | BlackQueen105 |
