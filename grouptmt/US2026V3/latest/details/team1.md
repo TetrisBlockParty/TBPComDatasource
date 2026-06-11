@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:52:26 UTC
+# Standings for team1 as of 2026-06-11 12:53:27 UTC
 
 **Total Participants:** 2485
 
@@ -7,8 +7,8 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 56500 | Ariel |
-| 2 | 22000 | Kalynn Parks |
-| 3 | 21835 | Death by SnuSnu |
+| 2 | 22035 | Death by SnuSnu |
+| 3 | 22000 | Kalynn Parks |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13741 | Peppy Piececlear |
 | 6 | 13684 | Carrie English |
@@ -47,7 +47,7 @@
 | 39 | 3763 | Sha Harris |
 | 40 | 3761 | Brian Stackhouse |
 | 41 | 3609 | Chill Clusterer |
-| 42 | 3593 | Jennifer To |
+| 42 | 3603 | Jennifer To |
 | 43 | 3442 | Yolanda McDonald |
 | 44 | 3439 | Mimi 1.0 |
 | 45 | 3145 | COSA303 |
@@ -140,7 +140,7 @@
 | 132 | 1350 | Keeta Chickswit Scott |
 | 133 | 1344 | G Ah Mayes |
 | 134 | 1323 | Denise B |
-| 135 | 1314 | Plucky Slamdrop |
+| 135 | 1316 | Plucky Slamdrop |
 | 136 | 1284 | xXEKUNXx |
 | 137 | 1282 | Jon Gathers |
 | 138 | 1277 | Dynah Gordon |
@@ -438,16 +438,16 @@
 | 430 | 431 | Charlene Baltimore |
 | 431 | 430 | John Spath |
 | 432 | 430 | Chilly Wipebuilder |
-| 433 | 428 | Jelyfish |
-| 434 | 428 | Poppy Buildout |
-| 435 | 427 | Cynthia Cruell |
-| 436 | 426 | Nate Myers |
-| 437 | 425 | Jas |
-| 438 | 425 | Centara Goette |
-| 439 | 422 | The DUBZ |
-| 440 | 420 | Ketrell Bailey |
-| 441 | 419 | Yadira Salgado |
-| 442 | 419 | kitten |
+| 433 | 429 | kitten |
+| 434 | 428 | Jelyfish |
+| 435 | 428 | Poppy Buildout |
+| 436 | 427 | Cynthia Cruell |
+| 437 | 426 | Nate Myers |
+| 438 | 425 | Jas |
+| 439 | 425 | Centara Goette |
+| 440 | 422 | The DUBZ |
+| 441 | 420 | Ketrell Bailey |
+| 442 | 419 | Yadira Salgado |
 | 443 | 419 | Stephen Glaze |
 | 444 | 418 | Cortaz Lawrie |
 | 445 | 417 | John Staub |
@@ -1961,37 +1961,37 @@
 | 1953 | 32 | Tiffany Ali Shaw |
 | 1954 | 32 | Tiara Hitchcock |
 | 1955 | 32 | Shericka Taylor |
-| 1956 | 31 | Emily Burgoon |
+| 1956 | 31 | Zippy Slammer |
 | 1957 | 31 | EchoQuirky Blockclear |
-| 1958 | 31 | Jennifer Diamond |
-| 1959 | 31 | Edward Hickmon |
+| 1958 | 31 | Emily Burgoon |
+| 1959 | 31 | Jennifer Diamond |
 | 1960 | 31 | Otavia Gordon |
-| 1961 | 31 | Zippy Slammer |
-| 1962 | 30 | Edward Hackett |
-| 1963 | 30 | DRIFTER |
-| 1964 | 30 | Moneke Randolph |
-| 1965 | 30 | Cucumber |
-| 1966 | 30 | Dora Greer |
-| 1967 | 30 | Dee |
-| 1968 | 30 | Myca Cooper |
-| 1969 | 30 | Annette DeLoatch Thompson |
-| 1970 | 30 | Cierra Banks |
-| 1971 | 30 | Grace Page |
-| 1972 | 30 | Jeanne Bitner |
-| 1973 | 30 | Biggie Cheeze |
-| 1974 | 30 | Chavez James |
-| 1975 | 30 | Tipsy Tilt |
+| 1961 | 31 | Edward Hickmon |
+| 1962 | 30 | DRIFTER |
+| 1963 | 30 | Myca Cooper |
+| 1964 | 30 | Dee |
+| 1965 | 30 | Dora Greer |
+| 1966 | 30 | Cucumber |
+| 1967 | 30 | Moneke Randolph |
+| 1968 | 30 | Edward Hackett |
+| 1969 | 30 | Susie Miranda |
+| 1970 | 30 | Annette DeLoatch Thompson |
+| 1971 | 30 | Charlean Sims |
+| 1972 | 30 | Dremer Clark |
+| 1973 | 30 | Cool Rumbler |
+| 1974 | 30 | DeJuan BD |
+| 1975 | 30 | PS |
 | 1976 | 30 | Bob Bon |
-| 1977 | 30 | PS |
-| 1978 | 30 | DeJuan BD |
-| 1979 | 30 | Charlean Sims |
-| 1980 | 30 | Cool Rumbler |
-| 1981 | 30 | Dremer Clark |
-| 1982 | 29 | Virginia Beilen |
-| 1983 | 29 | Chris Davidson |
+| 1977 | 30 | Tipsy Tilt |
+| 1978 | 30 | Biggie Cheeze |
+| 1979 | 30 | Jeanne Bitner |
+| 1980 | 30 | Grace Page |
+| 1981 | 30 | Cierra Banks |
+| 1982 | 30 | Chavez James |
+| 1983 | 29 | Macaroni Meechie Johnson |
 | 1984 | 29 | Cheeky Tiltbuilder |
-| 1985 | 29 | Susie Miranda |
-| 1986 | 29 | Macaroni Meechie Johnson |
+| 1985 | 29 | Chris Davidson |
+| 1986 | 29 | Virginia Beilen |
 | 1987 | 29 | Epic Wipepiece |
 | 1988 | 29 | Ty Brown |
 | 1989 | 29 | Caprice Taylor |
