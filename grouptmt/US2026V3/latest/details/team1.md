@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:31:21 UTC
+# Standings for team1 as of 2026-06-11 09:32:20 UTC
 
 **Total Participants:** 2469
 
@@ -539,39 +539,39 @@
 | 531 | 346 | Marsha Earl |
 | 532 | 346 | Casey Chapman |
 | 533 | 345 | Heather Wilson |
-| 534 | 344 | Onovella Titsworth |
-| 535 | 344 | Abigail Newman Sweet |
-| 536 | 344 | EvaLynn NeCole |
-| 537 | 344 | Juan Santiago |
-| 538 | 344 | Cherika Wright |
-| 539 | 344 | Abby |
-| 540 | 344 | MonaSparks |
-| 541 | 344 | Boldy Matchbuilder |
-| 542 | 344 | Motown Chuck |
-| 543 | 343 | Earl Williams |
-| 544 | 342 | Ashley Monet Terrell |
-| 545 | 341 | MELLZZtick€T |
-| 546 | 341 | Alyssa Rae |
-| 547 | 340 | Chocolate |
-| 548 | 339 | Keith Johnson |
-| 549 | 339 | 신재호 |
-| 550 | 338 | Daniel Santana |
-| 551 | 338 | Giddy Staggerpiece |
-| 552 | 337 | Nora Mahmoud |
+| 534 | 345 | Krystal Maynard |
+| 535 | 344 | Onovella Titsworth |
+| 536 | 344 | Abby |
+| 537 | 344 | Abigail Newman Sweet |
+| 538 | 344 | EvaLynn NeCole |
+| 539 | 344 | Juan Santiago |
+| 540 | 344 | Cherika Wright |
+| 541 | 344 | Motown Chuck |
+| 542 | 344 | MonaSparks |
+| 543 | 344 | Boldy Matchbuilder |
+| 544 | 343 | Earl Williams |
+| 545 | 342 | Ashley Monet Terrell |
+| 546 | 341 | MELLZZtick€T |
+| 547 | 341 | Alyssa Rae |
+| 548 | 340 | Chocolate |
+| 549 | 339 | Keith Johnson |
+| 550 | 339 | 신재호 |
+| 551 | 338 | Daniel Santana |
+| 552 | 338 | Giddy Staggerpiece |
 | 553 | 337 | Angela Brown Babin |
-| 554 | 336 | Jose Rodriguez |
-| 555 | 336 | Silly Edgepiece |
-| 556 | 335 | Krystal Maynard |
+| 554 | 337 | Nora Mahmoud |
+| 555 | 336 | Jose Rodriguez |
+| 556 | 336 | Silly Edgepiece |
 | 557 | 335 | Nona Harriel |
 | 558 | 335 | Phillip Vasquez |
-| 559 | 334 | Kristine Marie Palmer |
-| 560 | 334 | Yashica Smith |
+| 559 | 334 | Yashica Smith |
+| 560 | 334 | Kristine Marie Palmer |
 | 561 | 331 | James Bryant II |
-| 562 | 330 | Tracey Johnson |
-| 563 | 330 | Tito Divyn |
-| 564 | 329 | Chris Watson Draper |
+| 562 | 330 | Tito Divyn |
+| 563 | 330 | Tracey Johnson |
+| 564 | 329 | Tiffany Jean Hinson |
 | 565 | 329 | Shelly Everette |
-| 566 | 329 | Tiffany Jean Hinson |
+| 566 | 329 | Chris Watson Draper |
 | 567 | 327 | Tangy Moore |
 | 568 | 325 | Tracy Feyler |
 | 569 | 324 | Vera Beckford |
