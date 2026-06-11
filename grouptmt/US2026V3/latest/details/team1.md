@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 06:20:45 UTC
+# Standings for team1 as of 2026-06-11 06:21:22 UTC
 
 **Total Participants:** 2450
 
@@ -11,7 +11,7 @@
 | 3 | 18431 | Death by SnuSnu |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13684 | Carrie English |
-| 6 | 13033 | Peppy Piececlear |
+| 6 | 13174 | Peppy Piececlear |
 | 7 | 12803 | Charlie Roehm |
 | 8 | 12469 | Erika Windom |
 | 9 | 12431 | Timothy Robert |
@@ -504,8 +504,8 @@
 | 496 | 363 | Jolly Tilefall |
 | 497 | 361 | Lakiesha Crawford |
 | 498 | 361 | Crystal Cheresnowsky |
-| 499 | 361 | John Staub |
-| 500 | 361 | Holly Baker |
+| 499 | 361 | Holly Baker |
+| 500 | 361 | John Staub |
 | 501 | 360 | Slinky Clearzone |
 | 502 | 360 | HS Arce |
 | 503 | 360 | Teri Marie Clayton |
@@ -513,16 +513,16 @@
 | 505 | 358 | Tori Carter |
 | 506 | 357 | Manda Allen |
 | 507 | 355 | Shawn Himes |
-| 508 | 354 | Carolyn Delphie |
-| 509 | 353 | Tay |
-| 510 | 353 | Dizzy Dashy |
-| 511 | 353 | Shanns |
-| 512 | 352 | AnnaM |
-| 513 | 350 | Jack Vlasak |
-| 514 | 350 | The DUBZ |
-| 515 | 350 | Daddy |
-| 516 | 350 | SnazzyIvy |
-| 517 | 349 | Juan Alvarez |
+| 508 | 355 | Juan Alvarez |
+| 509 | 354 | Carolyn Delphie |
+| 510 | 353 | Tay |
+| 511 | 353 | Dizzy Dashy |
+| 512 | 353 | Shanns |
+| 513 | 352 | AnnaM |
+| 514 | 350 | Jack Vlasak |
+| 515 | 350 | The DUBZ |
+| 516 | 350 | Daddy |
+| 517 | 350 | SnazzyIvy |
 | 518 | 349 | Kimmie Gargano |
 | 519 | 348 | Emily Wright |
 | 520 | 347 | Travis Davison |
@@ -822,71 +822,71 @@
 | 814 | 227 | Christina Singleton |
 | 815 | 227 | Epic Puzzle |
 | 816 | 227 | Elaine Pauley |
-| 817 | 227 | Sallie Sanborn |
-| 818 | 227 | Lootch |
-| 819 | 227 | Kimberly Susan Privette |
+| 817 | 227 | Kimberly Susan Privette |
+| 818 | 227 | Sallie Sanborn |
+| 819 | 227 | Lootch |
 | 820 | 226 | Stephen Providenti |
-| 821 | 226 | Laura Osborne |
-| 822 | 226 | Undeniable Williams |
-| 823 | 226 | Rieshelda Marie White |
+| 821 | 226 | Rieshelda Marie White |
+| 822 | 226 | Laura Osborne |
+| 823 | 226 | Undeniable Williams |
 | 824 | 226 | Paul Pendley |
-| 825 | 225 | squints |
-| 826 | 225 | Yashicha Hertzock |
+| 825 | 226 | Megan Jones |
+| 826 | 225 | Victoria Smith |
 | 827 | 225 | Essence Jones |
-| 828 | 225 | Victoria Smith |
-| 829 | 224 | Miera Nicole |
+| 828 | 225 | squints |
+| 829 | 225 | Yashicha Hertzock |
 | 830 | 224 | Tina Blessed Cage |
-| 831 | 224 | Lively Wipeout |
-| 832 | 224 | Ysma Simmons |
-| 833 | 224 | jeremy92 |
-| 834 | 223 | Chereese Harris |
-| 835 | 223 | Analesia Taylor |
-| 836 | 222 | Shannon Callarman |
+| 831 | 224 | Miera Nicole |
+| 832 | 224 | Lively Wipeout |
+| 833 | 224 | Ysma Simmons |
+| 834 | 224 | jeremy92 |
+| 835 | 223 | Chereese Harris |
+| 836 | 223 | Analesia Taylor |
 | 837 | 222 | MrsDontPlay |
 | 838 | 222 | Latoya Carson |
 | 839 | 222 | Centara Goette |
-| 840 | 221 | Barbramerri Tarboro |
+| 840 | 222 | Shannon Callarman |
 | 841 | 221 | Xrandomx |
-| 842 | 220 | Quitito1014 |
-| 843 | 220 | Yellowguy3 |
-| 844 | 220 | Marshall Davis |
-| 845 | 220 | Spadez1231 |
-| 846 | 219 | Jason Saputo |
-| 847 | 218 | Tina Bongcayao |
-| 848 | 218 | Tee Spinks |
-| 849 | 218 | Megan Jones |
+| 842 | 221 | Barbramerri Tarboro |
+| 843 | 220 | Quitito1014 |
+| 844 | 220 | Yellowguy3 |
+| 845 | 220 | Marshall Davis |
+| 846 | 220 | Spadez1231 |
+| 847 | 219 | Jason Saputo |
+| 848 | 218 | Tina Bongcayao |
+| 849 | 218 | Tee Spinks |
 | 850 | 218 | Ivery Lee Grays Jr. |
-| 851 | 217 | Crystal Garay |
-| 852 | 217 | Louise Parker |
+| 851 | 217 | Louise Parker |
+| 852 | 217 | Crystal Garay |
 | 853 | 217 | Dirty Deeds |
 | 854 | 217 | Xana Zania Bopp |
-| 855 | 216 | DoMinique Lee |
+| 855 | 216 | Rachel Renae Bettis |
 | 856 | 216 | Duncan Timothy |
-| 857 | 216 | Rachel Renae Bettis |
-| 858 | 216 | Meepycat |
+| 857 | 216 | Meepycat |
+| 858 | 216 | DoMinique Lee |
 | 859 | 215 | Darrelle Short |
 | 860 | 215 | Nikiya |
 | 861 | 215 | Perky Balancer |
 | 862 | 215 | Angie Smith |
 | 863 | 214 | Sunny Clicky |
 | 864 | 214 | Mary Goode |
-| 865 | 214 | Amanda Woodruff |
-| 866 | 214 | Boricua64 |
+| 865 | 214 | Boricua64 |
+| 866 | 214 | Amanda Woodruff |
 | 867 | 214 | Hyy |
-| 868 | 212 | DirtiestofMikes |
-| 869 | 212 | Ace Hardware |
-| 870 | 212 | Don Ray Mc |
+| 868 | 212 | Ace Hardware |
+| 869 | 212 | Don Ray Mc |
+| 870 | 212 | KimChii |
 | 871 | 212 | tskmstr |
-| 872 | 212 | KimChii |
-| 873 | 211 | Terrie |
-| 874 | 211 | NickyJay Jones |
-| 875 | 211 | Melissa Hershberger |
-| 876 | 211 | Tiffany Conley |
-| 877 | 211 | Poppy Smasher |
-| 878 | 210 | Kanary Karotz |
-| 879 | 210 | Mom3granny2 |
-| 880 | 210 | Slinky Fallzone |
-| 881 | 210 | Cameo Tweed |
+| 872 | 212 | DirtiestofMikes |
+| 873 | 211 | Poppy Smasher |
+| 874 | 211 | Terrie |
+| 875 | 211 | NickyJay Jones |
+| 876 | 211 | Melissa Hershberger |
+| 877 | 211 | Tiffany Conley |
+| 878 | 210 | Mom3granny2 |
+| 879 | 210 | Kanary Karotz |
+| 880 | 210 | Cameo Tweed |
+| 881 | 210 | Slinky Fallzone |
 | 882 | 210 | Cj Chimelis |
 | 883 | 210 | Cheery Swiper |
 | 884 | 210 | Rob'N Blox |
