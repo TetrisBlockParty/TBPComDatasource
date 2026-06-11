@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 23:58:47 UTC
+# Standings for team1 as of 2026-06-11 23:59:20 UTC
 
 **Total Participants:** 2559
 
@@ -43,7 +43,7 @@
 | 35 | 4269 | Shortstak |
 | 36 | 4168 | Brian Stackhouse |
 | 37 | 4151 | Mary Jenkins |
-| 38 | 4099 | Weeze |
+| 38 | 4128 | Weeze |
 | 39 | 3965 | Jo NewmindNewfocus Bell |
 | 40 | 3813 | Jennifer To |
 | 41 | 3763 | Sha Harris |
@@ -73,10 +73,10 @@
 | 65 | 2627 | Moomoo |
 | 66 | 2619 | Zappy Brickline |
 | 67 | 2599 | Tootsie Pop |
-| 68 | 2407 | Markeeta Lipscomb |
-| 69 | 2401 | Holly Jolly |
+| 68 | 2501 | Holly Jolly |
+| 69 | 2407 | Markeeta Lipscomb |
 | 70 | 2374 | Eric Mcgaughy |
-| 71 | 2359 | Louis Richard Jr |
+| 71 | 2363 | Louis Richard Jr |
 | 72 | 2306 | Felicia Williams |
 | 73 | 2263 | Zippy Lifter |
 | 74 | 2241 | Cherry Rose |
@@ -492,32 +492,32 @@
 | 484 | 432 | James Bryant II |
 | 485 | 432 | blockman |
 | 486 | 431 | Abby |
-| 487 | 429 | CauliMac |
-| 488 | 429 | Kristine Marie Palmer |
-| 489 | 429 | RMGreen |
-| 490 | 428 | Eric Spencer Whitaker |
-| 491 | 428 | Jelyfish |
-| 492 | 427 | Shannon Callarman |
+| 487 | 430 | Shannon Callarman |
+| 488 | 429 | CauliMac |
+| 489 | 429 | Kristine Marie Palmer |
+| 490 | 429 | RMGreen |
+| 491 | 428 | Eric Spencer Whitaker |
+| 492 | 428 | Jelyfish |
 | 493 | 425 | Lounique |
 | 494 | 424 | Brittanie Wardlow |
-| 495 | 423 | Holly Baker |
-| 496 | 423 | Kimberly Anderson |
+| 495 | 423 | Kimberly Anderson |
+| 496 | 423 | Holly Baker |
 | 497 | 422 | Lady T |
 | 498 | 422 | The DUBZ |
-| 499 | 420 | Salim Thugger |
-| 500 | 420 | Sara Meri |
-| 501 | 420 | Glitzy Patternline |
-| 502 | 420 | Ashley MyBeauty Daniels |
-| 503 | 419 | FunTime |
+| 499 | 420 | Sara Meri |
+| 500 | 420 | Ashley MyBeauty Daniels |
+| 501 | 420 | Salim Thugger |
+| 502 | 420 | Glitzy Patternline |
+| 503 | 419 | Stephen Glaze |
 | 504 | 419 | Giggy Tower |
-| 505 | 419 | Stephen Glaze |
+| 505 | 419 | FunTime |
 | 506 | 418 | Cortaz Lawrie |
 | 507 | 417 | John Staub |
 | 508 | 416 | De'Nell Edwards |
 | 509 | 416 | Silly Edgepiece |
 | 510 | 414 | Melissa D. M. Hornsby |
-| 511 | 414 | Sammie Walker |
-| 512 | 414 | Giddy Staggerpiece |
+| 511 | 414 | Giddy Staggerpiece |
+| 512 | 414 | Sammie Walker |
 | 513 | 413 | Dizzy Dashy |
 | 514 | 412 | Montego Allen |
 | 515 | 412 | Jessica Kirby |
@@ -1739,75 +1739,75 @@
 | 1731 | 57 | Spicy Snap |
 | 1732 | 57 | Cali Lee |
 | 1733 | 57 | Wacky Towerer |
-| 1734 | 57 | Steven Holloway |
+| 1734 | 57 | Pretty-Lily |
 | 1735 | 57 | Dizzy Ziggy |
-| 1736 | 57 | Cranky Lifter |
-| 1737 | 57 | Pretty-Lily |
-| 1738 | 56 | Zachary Sinclair |
-| 1739 | 56 | Tim Tim |
-| 1740 | 56 | Kayleah Washington |
-| 1741 | 56 | Tina Drake |
-| 1742 | 56 | Giddy Twistslam |
-| 1743 | 56 | David Rankin |
-| 1744 | 56 | Kira Wooten |
-| 1745 | 56 | Lisa Ivy |
-| 1746 | 56 | LaVonda Myers |
+| 1736 | 57 | Steven Holloway |
+| 1737 | 57 | Cranky Lifter |
+| 1738 | 56 | Kira Wooten |
+| 1739 | 56 | Lisa Ivy |
+| 1740 | 56 | David Rankin |
+| 1741 | 56 | Giddy Twistslam |
+| 1742 | 56 | LaVonda Myers |
+| 1743 | 56 | Zachary Sinclair |
+| 1744 | 56 | Tim Tim |
+| 1745 | 56 | Kayleah Washington |
+| 1746 | 56 | Tina Drake |
 | 1747 | 55 | Marc Jones |
-| 1748 | 55 | KoolKimJay |
-| 1749 | 55 | Cranky Fitblock |
-| 1750 | 55 | D Jay Camberos |
-| 1751 | 55 | X6TRAUMA9X |
+| 1748 | 55 | Cranky Fitblock |
+| 1749 | 55 | X6TRAUMA9X |
+| 1750 | 55 | KoolKimJay |
+| 1751 | 55 | D Jay Camberos |
 | 1752 | 54 | Tiffany Sherman |
-| 1753 | 54 | Giggy Holder |
-| 1754 | 54 | deeno |
-| 1755 | 54 | Laura |
-| 1756 | 54 | Carolyn |
-| 1757 | 54 | Michael Jones |
-| 1758 | 54 | DaShawntae Durham |
+| 1753 | 54 | Carolyn |
+| 1754 | 54 | Laura |
+| 1755 | 54 | Michael Jones |
+| 1756 | 54 | deeno |
+| 1757 | 54 | DaShawntae Durham |
+| 1758 | 54 | Giggy Holder |
 | 1759 | 54 | Danielle Scholfield |
 | 1760 | 54 | Zany Slice |
 | 1761 | 54 | MoneyMac |
-| 1762 | 54 | George Snodgrass |
-| 1763 | 54 | Giggly Cascader |
-| 1764 | 54 | Slinky Snaplink |
-| 1765 | 54 | Ķïrãã Ďãvïss |
-| 1766 | 54 | Maranda Broadway |
+| 1762 | 54 | Giggly Cascader |
+| 1763 | 54 | Deidre Anderson |
+| 1764 | 54 | Maranda Broadway |
+| 1765 | 54 | Slinky Snaplink |
+| 1766 | 54 | Ķïrãã Ďãvïss |
 | 1767 | 54 | zenntiff |
 | 1768 | 54 | Honey Beck |
-| 1769 | 53 | Snippy Glidepiece |
-| 1770 | 53 | Epic Basepiece |
-| 1771 | 53 | Michael Lindenlauf |
+| 1769 | 54 | George Snodgrass |
+| 1770 | 53 | Snippy Glidepiece |
+| 1771 | 53 | Epic Basepiece |
 | 1772 | 53 | Jennifer Nixon |
-| 1773 | 53 | Bubbly Rollout |
-| 1774 | 53 | Sashaleo |
-| 1775 | 53 | LS Jamison |
-| 1776 | 53 | Talya Richards |
-| 1777 | 53 | Matos Boiz |
-| 1778 | 53 | Bubbly Base |
-| 1779 | 52 | Loopy Risepiece |
+| 1773 | 53 | Michael Lindenlauf |
+| 1774 | 53 | Bubbly Rollout |
+| 1775 | 53 | Sashaleo |
+| 1776 | 53 | LS Jamison |
+| 1777 | 53 | Talya Richards |
+| 1778 | 53 | Matos Boiz |
+| 1779 | 53 | Bubbly Base |
 | 1780 | 52 | Brownsville Ny |
-| 1781 | 52 | LCh Jessi |
-| 1782 | 52 | Giddy Twisterfit |
-| 1783 | 52 | Ashley Horne |
-| 1784 | 52 | Valerie Kendrick |
-| 1785 | 52 | MsBobby Patrick |
-| 1786 | 52 | Chilly Cluster |
-| 1787 | 52 | mimither |
-| 1788 | 52 | Tiffanie Michelle |
-| 1789 | 51 | Jakari Wool |
-| 1790 | 51 | Destiny Maria |
-| 1791 | 51 | Raylane Brandy Larkin |
-| 1792 | 51 | Danielle Marie Lewis |
-| 1793 | 51 | star |
-| 1794 | 51 | SpeedyJas |
-| 1795 | 51 | James Leggett |
-| 1796 | 51 | Deidre Anderson |
-| 1797 | 51 | Hasaan Jones |
-| 1798 | 51 | Beth Ingham |
+| 1781 | 52 | Giddy Twisterfit |
+| 1782 | 52 | Loopy Risepiece |
+| 1783 | 52 | Tiffanie Michelle |
+| 1784 | 52 | MsBobby Patrick |
+| 1785 | 52 | Chilly Cluster |
+| 1786 | 52 | mimither |
+| 1787 | 52 | Ashley Horne |
+| 1788 | 52 | Valerie Kendrick |
+| 1789 | 52 | LCh Jessi |
+| 1790 | 51 | Hasaan Jones |
+| 1791 | 51 | Beth Ingham |
+| 1792 | 51 | SpeedyJas |
+| 1793 | 51 | Jakari Wool |
+| 1794 | 51 | star |
+| 1795 | 51 | Danielle Marie Lewis |
+| 1796 | 51 | Raylane Brandy Larkin |
+| 1797 | 51 | Destiny Maria |
+| 1798 | 51 | James Leggett |
 | 1799 | 50 | Jazzy Snapbuild |
-| 1800 | 50 | Melissa Embrey |
-| 1801 | 50 | Hoppy Combo |
-| 1802 | 50 | Danny Kerns Jr. |
+| 1800 | 50 | Hoppy Combo |
+| 1801 | 50 | Danny Kerns Jr. |
+| 1802 | 50 | Melissa Embrey |
 | 1803 | 50 | ThaMENACING1 |
 | 1804 | 50 | Jädaa Laa'Destïnyy |
 | 1805 | 50 | Terry Lee Moya |
