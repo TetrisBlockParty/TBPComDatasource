@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:16:49 UTC
+# Standings for team4 as of 2026-06-11 08:17:23 UTC
 
 **Total Participants:** 2502
 
@@ -222,7 +222,7 @@
 | 214 | 813 | Tyson Stroppel |
 | 215 | 807 | LastBoi |
 | 216 | 806 | Gracie Ornelas |
-| 217 | 789 | Megan Vick |
+| 217 | 805 | Megan Vick |
 | 218 | 788 | Jackie Jackson |
 | 219 | 782 | Snippy Splitter |
 | 220 | 781 | Janet Sanfilippo Sullivan |
@@ -357,15 +357,15 @@
 | 349 | 498 | Maurice DeJean |
 | 350 | 498 | Anna Gribble |
 | 351 | 496 | Troy Zanelli |
-| 352 | 494 | Tiffany Bunker-Hill |
-| 353 | 492 | RotatedWrongAgain |
-| 354 | 491 | Anthony McAlister |
-| 355 | 490 | Krystal Dixon-Hahn |
-| 356 | 489 | Slinky Column |
-| 357 | 487 | Spunky Gridzone |
-| 358 | 487 | Plucky Shatterfit |
-| 359 | 485 | Jojo Ann |
-| 360 | 485 | Shanae Taylor |
+| 352 | 495 | Shanae Taylor |
+| 353 | 494 | Tiffany Bunker-Hill |
+| 354 | 492 | RotatedWrongAgain |
+| 355 | 491 | Anthony McAlister |
+| 356 | 490 | Krystal Dixon-Hahn |
+| 357 | 489 | Slinky Column |
+| 358 | 487 | Spunky Gridzone |
+| 359 | 487 | Plucky Shatterfit |
+| 360 | 485 | Jojo Ann |
 | 361 | 483 | Brian Woods |
 | 362 | 482 | Sandra Stark |
 | 363 | 480 | Adam Dickinson |

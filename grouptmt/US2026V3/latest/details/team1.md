@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:16:49 UTC
+# Standings for team1 as of 2026-06-11 08:17:23 UTC
 
 **Total Participants:** 2463
 
@@ -1248,8 +1248,8 @@
 | 1240 | 118 | Leslie Ann |
 | 1241 | 118 | Shanna Green Williams |
 | 1242 | 118 | Felicia Yahuah Johnson |
-| 1243 | 117 | Cheery Clusterbuilder |
-| 1244 | 117 | dweetyuhself |
+| 1243 | 118 | dweetyuhself |
+| 1244 | 117 | Cheery Clusterbuilder |
 | 1245 | 117 | Andrea Jackson |
 | 1246 | 116 | Elizabeth Green |
 | 1247 | 116 | Jeffrey Pierce-Overton |
