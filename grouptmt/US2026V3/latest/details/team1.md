@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 14:44:19 UTC
+# Standings for team1 as of 2026-06-11 14:45:27 UTC
 
 **Total Participants:** 2496
 
@@ -26,8 +26,8 @@
 | 18 | 7934 | Cozy Edge |
 | 19 | 7797 | Cool Bridger |
 | 20 | 7239 | Ebo Got-Time |
-| 21 | 7154 | Jocelyn Pope-Sewell |
-| 22 | 7081 | Pdubbl3 |
+| 21 | 7181 | Pdubbl3 |
+| 22 | 7154 | Jocelyn Pope-Sewell |
 | 23 | 7037 | Tekedra Wilson |
 | 24 | 6121 | Chandler Spencer |
 | 25 | 6002 | Ivana Schmidt |
@@ -58,8 +58,8 @@
 | 50 | 2903 | BlackQueen105 |
 | 51 | 2900 | Rosey |
 | 52 | 2794 | Epic Snapfall |
-| 53 | 2707 | Blockhead |
-| 54 | 2703 | Frisky Fallmatch |
+| 53 | 2723 | Frisky Fallmatch |
+| 54 | 2707 | Blockhead |
 | 55 | 2700 | Jamie Willis |
 | 56 | 2659 | Corey Cawthon |
 | 57 | 2647 | Chris Caniglia |
@@ -233,21 +233,21 @@
 | 225 | 801 | BULLSEYE |
 | 226 | 800 | izzybella |
 | 227 | 798 | Zappy Riser |
-| 228 | 786 | David Fuentes |
-| 229 | 784 | Coco |
-| 230 | 778 | Block King |
-| 231 | 777 | Johnathan Deese |
-| 232 | 776 | Mikayla |
-| 233 | 774 | Ottison Dianna |
-| 234 | 772 | Dena Marie Lee |
-| 235 | 772 | Latisha Fairley |
-| 236 | 770 | Genne Scott |
-| 237 | 766 | Shameka Thrasher |
-| 238 | 762 | Frisky Fall |
-| 239 | 761 | Sade Goodwine |
-| 240 | 754 | Jhaime |
-| 241 | 752 | Trina Greenwood |
-| 242 | 746 | Albert McKnight |
+| 228 | 796 | Albert McKnight |
+| 229 | 786 | David Fuentes |
+| 230 | 784 | Coco |
+| 231 | 778 | Block King |
+| 232 | 777 | Johnathan Deese |
+| 233 | 776 | Mikayla |
+| 234 | 774 | Ottison Dianna |
+| 235 | 772 | Dena Marie Lee |
+| 236 | 772 | Latisha Fairley |
+| 237 | 770 | Genne Scott |
+| 238 | 766 | Shameka Thrasher |
+| 239 | 762 | Frisky Fall |
+| 240 | 761 | Sade Goodwine |
+| 241 | 754 | Jhaime |
+| 242 | 752 | Trina Greenwood |
 | 243 | 740 | Spicy Risepiece |
 | 244 | 740 | Felicia Cain |
 | 245 | 738 | Deveda Williams |
@@ -499,8 +499,8 @@
 | 491 | 395 | Ysma Simmons |
 | 492 | 395 | Rachel |
 | 493 | 394 | Aaron Hartmann |
-| 494 | 393 | Tonya Thomas |
-| 495 | 393 | McKayla Owens |
+| 494 | 394 | McKayla Owens |
+| 495 | 393 | Tonya Thomas |
 | 496 | 393 | Tesiree Cray |
 | 497 | 391 | Stacy Nicole |
 | 498 | 391 | Christina Rebecca |
@@ -526,26 +526,26 @@
 | 518 | 376 | Juan Alvarez |
 | 519 | 376 | Richelle Beck |
 | 520 | 376 | Skippy |
-| 521 | 373 | Brittany Fells |
-| 522 | 373 | Jessie N Michael Silvers |
-| 523 | 373 | Twisty Brickfit |
-| 524 | 373 | Falisa Bell |
-| 525 | 372 | Chirpy Buildgrid |
-| 526 | 371 | Asha Langford |
-| 527 | 370 | Allison Baxter |
-| 528 | 370 | Kristie |
-| 529 | 370 | Lucy |
-| 530 | 369 | Krystal Maynard |
-| 531 | 367 | Tangy Moore |
+| 521 | 374 | SweetByNBy |
+| 522 | 373 | Brittany Fells |
+| 523 | 373 | Falisa Bell |
+| 524 | 373 | Twisty Brickfit |
+| 525 | 373 | Jessie N Michael Silvers |
+| 526 | 372 | Chirpy Buildgrid |
+| 527 | 371 | Asha Langford |
+| 528 | 370 | Lucy |
+| 529 | 370 | Allison Baxter |
+| 530 | 370 | Kristie |
+| 531 | 369 | Krystal Maynard |
 | 532 | 367 | Darrel Pemberton |
-| 533 | 367 | SweetByNBy |
+| 533 | 367 | Tangy Moore |
 | 534 | 366 | Lady T |
 | 535 | 365 | TieMs BHughez |
 | 536 | 364 | AnnaM |
 | 537 | 363 | Mighty Dropper |
 | 538 | 361 | Lakiesha Crawford |
-| 539 | 360 | Teri Marie Clayton |
-| 540 | 360 | HS Arce |
+| 539 | 360 | HS Arce |
+| 540 | 360 | Teri Marie Clayton |
 | 541 | 360 | Slinky Clearzone |
 | 542 | 359 | Montréal Mars |
 | 543 | 358 | Tori Carter |
