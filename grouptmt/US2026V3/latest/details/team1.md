@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:19:24 UTC
+# Standings for team1 as of 2026-06-11 16:20:21 UTC
 
 **Total Participants:** 2505
 
@@ -139,8 +139,8 @@
 | 131 | 1380 | Jason Mungin |
 | 132 | 1372 | Catara Renae Oliver |
 | 133 | 1370 | Plucky Slamdrop |
-| 134 | 1355 | Whitney Butler |
-| 135 | 1355 | Cathy Young |
+| 134 | 1365 | Cathy Young |
+| 135 | 1355 | Whitney Butler |
 | 136 | 1350 | Keeta Chickswit Scott |
 | 137 | 1344 | G Ah Mayes |
 | 138 | 1323 | Denise B |
@@ -184,8 +184,8 @@
 | 176 | 1027 | Ty Øtg |
 | 177 | 1021 | Jeffrey Barrows |
 | 178 | 1009 | win |
-| 179 | 1004 | Antonia Wyche |
-| 180 | 1000 | Dandy Brickfit |
+| 179 | 1005 | Dandy Brickfit |
+| 180 | 1004 | Antonia Wyche |
 | 181 | 994 | GrkGdess |
 | 182 | 986 | Eugina Slater |
 | 183 | 982 | Cheeky Pop |
@@ -325,13 +325,13 @@
 | 317 | 574 | De'Mear McKinney |
 | 318 | 573 | Telisha Mims |
 | 319 | 571 | Block |
-| 320 | 569 | Chasem45 |
-| 321 | 566 | Christopher Dreamsareality McEachin |
-| 322 | 565 | Shanaa Germany Crittenden |
-| 323 | 563 | Simmone T. Kadiri |
-| 324 | 563 | Jhonny Maii |
-| 325 | 560 | Larina Cherie Johnson |
-| 326 | 560 | Sean Parham |
+| 320 | 569 | Sean Parham |
+| 321 | 569 | Chasem45 |
+| 322 | 566 | Christopher Dreamsareality McEachin |
+| 323 | 565 | Shanaa Germany Crittenden |
+| 324 | 563 | Simmone T. Kadiri |
+| 325 | 563 | Jhonny Maii |
+| 326 | 560 | Larina Cherie Johnson |
 | 327 | 560 | Steve Reno |
 | 328 | 554 | Heather Aurelia |
 | 329 | 548 | Amy Villalpando |
@@ -619,31 +619,31 @@
 | 611 | 327 | Bambi Johnson |
 | 612 | 326 | Hyedie Badie |
 | 613 | 325 | Kàrma Lee |
-| 614 | 324 | Sharee Robinson |
-| 615 | 324 | Teddy Davis |
-| 616 | 323 | jeremy92 |
-| 617 | 323 | Bea Dyer-Fields |
-| 618 | 322 | TNT |
-| 619 | 321 | LuckyStar |
-| 620 | 321 | Terri Smart |
-| 621 | 321 | Kat |
-| 622 | 321 | Daring Riserfit |
-| 623 | 320 | Phongoudom Tika |
+| 614 | 324 | Marlainia Boyd |
+| 615 | 324 | Sharee Robinson |
+| 616 | 324 | Teddy Davis |
+| 617 | 323 | jeremy92 |
+| 618 | 323 | Bea Dyer-Fields |
+| 619 | 322 | TNT |
+| 620 | 321 | LuckyStar |
+| 621 | 321 | Terri Smart |
+| 622 | 321 | Kat |
+| 623 | 321 | Daring Riserfit |
 | 624 | 320 | Malcolm Stanley |
 | 625 | 320 | Meshia |
-| 626 | 319 | Dreamzzz |
+| 626 | 320 | Phongoudom Tika |
 | 627 | 319 | Christi Walker Patton |
-| 628 | 319 | Zany Breaker |
-| 629 | 319 | Ciera Peace |
-| 630 | 319 | Kelvin Cook |
-| 631 | 319 | TY Newme Batts |
-| 632 | 318 | Nerdy Snapfall |
-| 633 | 318 | Marlainia Boyd |
-| 634 | 318 | Latore Maxie |
-| 635 | 318 | Poppy Twister |
+| 628 | 319 | TY Newme Batts |
+| 629 | 319 | Kelvin Cook |
+| 630 | 319 | Ciera Peace |
+| 631 | 319 | Zany Breaker |
+| 632 | 319 | Dreamzzz |
+| 633 | 318 | Latore Maxie |
+| 634 | 318 | Poppy Twister |
+| 635 | 318 | Nerdy Snapfall |
 | 636 | 317 | Shemar Singleton |
-| 637 | 317 | Mister Reid |
-| 638 | 317 | Monica Tovar |
+| 637 | 317 | Monica Tovar |
+| 638 | 317 | Mister Reid |
 | 639 | 316 | Comedian Gdane |
 | 640 | 314 | Breezy Dashpiece |
 | 641 | 314 | PSD |
@@ -772,12 +772,12 @@
 | 764 | 265 | Kortney Adams |
 | 765 | 264 | Glitzy Clusterer |
 | 766 | 264 | Donna Payne |
-| 767 | 263 | Yellowbone |
-| 768 | 263 | Mami Badd |
-| 769 | 262 | Tiffany Conley |
-| 770 | 262 | MamaBearTiff |
-| 771 | 261 | Nickeya Phillips |
-| 772 | 261 | Laysa Nunez |
+| 767 | 264 | Laysa Nunez |
+| 768 | 263 | Yellowbone |
+| 769 | 263 | Mami Badd |
+| 770 | 262 | Tiffany Conley |
+| 771 | 262 | MamaBearTiff |
+| 772 | 261 | Nickeya Phillips |
 | 773 | 261 | Shannon Carriger |
 | 774 | 260 | Ashley Danielle |
 | 775 | 260 | Carolyn Smith |
@@ -895,9 +895,9 @@
 | 887 | 217 | Xana Zania Bopp |
 | 888 | 217 | Felicia Yahuah Johnson |
 | 889 | 217 | Li-Li Ratliff |
-| 890 | 216 | Rachel Renae Bettis |
-| 891 | 216 | DoMinique Lee |
-| 892 | 216 | Sheesh |
+| 890 | 217 | Sheesh |
+| 891 | 216 | Rachel Renae Bettis |
+| 892 | 216 | DoMinique Lee |
 | 893 | 215 | Cheery Swiper |
 | 894 | 215 | Nikiya |
 | 895 | 215 | Mississippigirl Countrygirl |
