@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 22:52:45 UTC
+# Standings for team1 as of 2026-06-11 22:53:25 UTC
 
 **Total Participants:** 2548
 
@@ -18,7 +18,7 @@
 | 10 | 12803 | Charlie Roehm |
 | 11 | 11184 | Charnay Peacock |
 | 12 | 10579 | Dyane Leah Ware |
-| 13 | 10406 | Debbie Carswell |
+| 13 | 10412 | Debbie Carswell |
 | 14 | 10196 | Songne Arif |
 | 15 | 9723 | Speedy Spinblock |
 | 16 | 8739 | Tracy Cohen |
@@ -160,7 +160,7 @@
 | 152 | 1263 | Po Marley |
 | 153 | 1260 | IamJust Neyamijah Washington Sr. |
 | 154 | 1256 | Raymond Keeler |
-| 155 | 1240 | Cece Fowler |
+| 155 | 1244 | Cece Fowler |
 | 156 | 1236 | ELM |
 | 157 | 1235 | Lesley Brunkus Cianfaglione |
 | 158 | 1227 | KenpachisGirl |
@@ -302,8 +302,8 @@
 | 294 | 653 | SPNLover24 |
 | 295 | 647 | Jovy |
 | 296 | 646 | Tessa Felice Hill |
-| 297 | 644 | Jackie Sanasay |
-| 298 | 643 | Janice Mowel Curtiss |
+| 297 | 645 | Janice Mowel Curtiss |
+| 298 | 644 | Jackie Sanasay |
 | 299 | 641 | Marissa Sweet |
 | 300 | 641 | Centara Goette |
 | 301 | 640 | Tanya Clayton |
@@ -491,23 +491,23 @@
 | 483 | 429 | Kristine Marie Palmer |
 | 484 | 429 | RMGreen |
 | 485 | 429 | Abby |
-| 486 | 428 | KeeKee Williams |
-| 487 | 428 | Jelyfish |
+| 486 | 428 | Jelyfish |
+| 487 | 428 | KeeKee Williams |
 | 488 | 428 | Eric Spencer Whitaker |
 | 489 | 425 | Lounique |
 | 490 | 424 | Brittanie Wardlow |
 | 491 | 423 | Holly Baker |
 | 492 | 423 | Kimberly Anderson |
 | 493 | 422 | The DUBZ |
-| 494 | 420 | Ketrell Bailey |
-| 495 | 420 | Glitzy Patternline |
-| 496 | 420 | Ashley MyBeauty Daniels |
-| 497 | 420 | Sara Meri |
-| 498 | 419 | Giggy Tower |
-| 499 | 419 | FunTime |
-| 500 | 419 | Stephen Glaze |
-| 501 | 418 | Cortaz Lawrie |
-| 502 | 418 | Lady T |
+| 494 | 421 | Lady T |
+| 495 | 420 | Ketrell Bailey |
+| 496 | 420 | Glitzy Patternline |
+| 497 | 420 | Ashley MyBeauty Daniels |
+| 498 | 420 | Sara Meri |
+| 499 | 419 | Giggy Tower |
+| 500 | 419 | FunTime |
+| 501 | 419 | Stephen Glaze |
+| 502 | 418 | Cortaz Lawrie |
 | 503 | 417 | John Staub |
 | 504 | 416 | De'Nell Edwards |
 | 505 | 416 | Twisty Pivot |
