@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 07:02:46 UTC
+# Standings for team4 as of 2026-06-11 07:03:24 UTC
 
 **Total Participants:** 2494
 
@@ -125,14 +125,14 @@
 | 117 | 1342 | Shaina Sharp |
 | 118 | 1336 | Jonathan Hewitt |
 | 119 | 1333 | MysticMaven |
-| 120 | 1311 | J |
-| 121 | 1306 | Irma |
-| 122 | 1297 | Bri Martin |
-| 123 | 1295 | Snippy Grid |
-| 124 | 1285 | Kristen Wallace |
-| 125 | 1285 | Kelly Bernard |
-| 126 | 1282 | Jenn Fitzgerald |
-| 127 | 1279 | Beth Belanger |
+| 120 | 1319 | Beth Belanger |
+| 121 | 1311 | J |
+| 122 | 1306 | Irma |
+| 123 | 1297 | Bri Martin |
+| 124 | 1295 | Snippy Grid |
+| 125 | 1285 | Kristen Wallace |
+| 126 | 1285 | Kelly Bernard |
+| 127 | 1282 | Jenn Fitzgerald |
 | 128 | 1272 | Trice Stevenson |
 | 129 | 1258 | Blayne Kole |
 | 130 | 1257 | Jesse Olive |
@@ -269,10 +269,10 @@
 | 261 | 649 | Tina Thomas |
 | 262 | 649 | Logan Two-dubs Baker |
 | 263 | 646 | Jacqueline Jackii Ramos |
-| 264 | 644 | Yesenia Castro Monreal |
-| 265 | 643 | Matthew Hudson |
-| 266 | 641 | Waxboss |
-| 267 | 640 | QueenLi86 |
+| 264 | 645 | QueenLi86 |
+| 265 | 644 | Yesenia Castro Monreal |
+| 266 | 643 | Matthew Hudson |
+| 267 | 641 | Waxboss |
 | 268 | 639 | Merritt Brandt |
 | 269 | 638 | Piece of Cake |
 | 270 | 636 | Debby Ruof |
@@ -293,11 +293,11 @@
 | 285 | 600 | Jaci Marie |
 | 286 | 599 | Boldy Rumbler |
 | 287 | 595 | tigerlilly |
-| 288 | 592 | Sarah Berry Stevens |
-| 289 | 592 | Dapper Strikerpiece |
-| 290 | 591 | Perky Riserbuilder |
-| 291 | 590 | Funky Riserpiece |
-| 292 | 590 | Genger |
+| 288 | 593 | Genger |
+| 289 | 592 | Sarah Berry Stevens |
+| 290 | 592 | Dapper Strikerpiece |
+| 291 | 591 | Perky Riserbuilder |
+| 292 | 590 | Funky Riserpiece |
 | 293 | 586 | Karen Miller |
 | 294 | 584 | Dae Von |
 | 295 | 578 | Stephanie Myers |
@@ -608,8 +608,8 @@
 | 600 | 311 | LeRoy jenkins |
 | 601 | 309 | Mammoth |
 | 602 | 308 | JIGsaw ~(•¿°)~ |
-| 603 | 306 | Susan Stofberg Beltran |
-| 604 | 305 | Lisa Pie |
+| 603 | 306 | Lisa Pie |
+| 604 | 306 | Susan Stofberg Beltran |
 | 605 | 305 | Christina Barry |
 | 606 | 304 | Loopy Clusterline |
 | 607 | 304 | Frilly Zoney |
@@ -623,51 +623,51 @@
 | 615 | 301 | King |
 | 616 | 300 | Jennifer Evans Elliott |
 | 617 | 300 | Joshua Garner |
-| 618 | 300 | Ada Rodriguez Spradley |
-| 619 | 299 | Jacinta Hooker-Brown |
-| 620 | 298 | Snippy Racker |
-| 621 | 298 | Elissa Danks |
-| 622 | 298 | Brenda Gustamantes |
-| 623 | 298 | PsyDMom |
-| 624 | 298 | Lolita Nettles |
-| 625 | 297 | Swanky Snapgrid |
-| 626 | 297 | Playa |
-| 627 | 295 | Redhead girl |
-| 628 | 295 | Carmen Angelica Sosa |
-| 629 | 295 | Heather Garrity |
-| 630 | 294 | Edward White |
-| 631 | 294 | Mrs |
-| 632 | 294 | Erika Rubio |
-| 633 | 292 | Rachel Lemos |
-| 634 | 292 | All knowing |
-| 635 | 289 | Mighty1 |
-| 636 | 289 | Will E Ayala |
-| 637 | 288 | MattJennifer Marie Ericson |
-| 638 | 288 | Happy Shatterfit |
-| 639 | 288 | chefjaydawg |
-| 640 | 288 | Corie A. Brinson |
-| 641 | 288 | Andretta Sellers Robinson |
+| 618 | 300 | Alice Eisnor-Martens |
+| 619 | 300 | Ada Rodriguez Spradley |
+| 620 | 299 | Jacinta Hooker-Brown |
+| 621 | 298 | Brenda Gustamantes |
+| 622 | 298 | Elissa Danks |
+| 623 | 298 | Snippy Racker |
+| 624 | 298 | PsyDMom |
+| 625 | 298 | Lolita Nettles |
+| 626 | 297 | Swanky Snapgrid |
+| 627 | 297 | Playa |
+| 628 | 295 | Redhead girl |
+| 629 | 295 | Carmen Angelica Sosa |
+| 630 | 295 | Heather Garrity |
+| 631 | 294 | Edward White |
+| 632 | 294 | Mrs |
+| 633 | 294 | Erika Rubio |
+| 634 | 292 | Rachel Lemos |
+| 635 | 292 | All knowing |
+| 636 | 289 | Mighty1 |
+| 637 | 289 | Will E Ayala |
+| 638 | 288 | MattJennifer Marie Ericson |
+| 639 | 288 | Happy Shatterfit |
+| 640 | 288 | chefjaydawg |
+| 641 | 288 | Corie A. Brinson |
 | 642 | 288 | Sarah |
-| 643 | 287 | sierrabeth |
-| 644 | 287 | Jeremy Barry |
-| 645 | 287 | Mc3003 |
-| 646 | 286 | Gean DeJesus |
-| 647 | 286 | DizzB400 |
-| 648 | 285 | Karen Denise Ann Veitch |
-| 649 | 285 | JoJo Hutson |
-| 650 | 285 | Brainbabe |
-| 651 | 283 | Chris McBlockster |
-| 652 | 283 | Nessa Smith |
-| 653 | 282 | Cozy Towerpiece |
-| 654 | 282 | David Lay |
-| 655 | 281 | Andrea Dre Lomeli |
-| 656 | 281 | Margie Thomas |
-| 657 | 281 | Anthony Edwards |
-| 658 | 281 | Raising Stars |
-| 659 | 281 | DrC |
-| 660 | 280 | Jimmy Clark |
-| 661 | 280 | Giddy Basepiece |
-| 662 | 280 | Alice Eisnor-Martens |
+| 643 | 288 | Andretta Sellers Robinson |
+| 644 | 287 | sierrabeth |
+| 645 | 287 | Jeremy Barry |
+| 646 | 287 | Mc3003 |
+| 647 | 286 | Gean DeJesus |
+| 648 | 286 | DizzB400 |
+| 649 | 285 | Karen Denise Ann Veitch |
+| 650 | 285 | JoJo Hutson |
+| 651 | 285 | Brainbabe |
+| 652 | 283 | Chris McBlockster |
+| 653 | 283 | Nessa Smith |
+| 654 | 282 | Cozy Towerpiece |
+| 655 | 282 | David Lay |
+| 656 | 281 | Andrea Dre Lomeli |
+| 657 | 281 | Margie Thomas |
+| 658 | 281 | Anthony Edwards |
+| 659 | 281 | Raising Stars |
+| 660 | 281 | DrC |
+| 661 | 280 | Jimmy Clark |
+| 662 | 280 | Giddy Basepiece |
 | 663 | 280 | Sharon Tyler |
 | 664 | 279 | LandO |
 | 665 | 278 | Deb 07 |
@@ -1103,21 +1103,21 @@
 | 1095 | 155 | Frisky Pusher |
 | 1096 | 155 | Donna Winget |
 | 1097 | 155 | Chris Somsen |
-| 1098 | 155 | Ern |
-| 1099 | 154 | Samantha Brandt |
-| 1100 | 154 | Chelsea Pigg |
-| 1101 | 154 | the repo |
-| 1102 | 154 | Lady |
-| 1103 | 154 | Mrs.J2013 |
-| 1104 | 153 | Joyce Hampton |
-| 1105 | 153 | Melissa Anne |
-| 1106 | 153 | Amber Bishop |
-| 1107 | 153 | Kristen Hall |
-| 1108 | 153 | Groovy Linkmatch |
-| 1109 | 153 | Littleshark |
-| 1110 | 153 | White As Snow |
-| 1111 | 153 | Allrise99 |
-| 1112 | 152 | Snappy Slice |
+| 1098 | 155 | Snappy Slice |
+| 1099 | 155 | Ern |
+| 1100 | 154 | Samantha Brandt |
+| 1101 | 154 | Chelsea Pigg |
+| 1102 | 154 | the repo |
+| 1103 | 154 | Lady |
+| 1104 | 154 | Mrs.J2013 |
+| 1105 | 153 | Joyce Hampton |
+| 1106 | 153 | Melissa Anne |
+| 1107 | 153 | Amber Bishop |
+| 1108 | 153 | Kristen Hall |
+| 1109 | 153 | Groovy Linkmatch |
+| 1110 | 153 | Littleshark |
+| 1111 | 153 | White As Snow |
+| 1112 | 153 | Allrise99 |
 | 1113 | 152 | Cheeky Linkpiece |
 | 1114 | 152 | Loyalty83 |
 | 1115 | 151 | Jason Moves |
@@ -1538,16 +1538,16 @@
 | 1530 | 78 | Spicy Gridder |
 | 1531 | 77 | Karin Gimenez |
 | 1532 | 77 | Vanessa Pritchett |
-| 1533 | 77 | Ali Nicole |
-| 1534 | 77 | Michael Cruz |
-| 1535 | 76 | moonman33 |
-| 1536 | 76 | Christopher Farias |
-| 1537 | 76 | Heather Dornberger |
-| 1538 | 76 | Uh Lesh Uh |
-| 1539 | 76 | Net |
-| 1540 | 76 | Brandy Martin-Lowery |
-| 1541 | 76 | James Balderas |
-| 1542 | 76 | Sunny Bricky |
+| 1533 | 77 | Sunny Bricky |
+| 1534 | 77 | Ali Nicole |
+| 1535 | 77 | Michael Cruz |
+| 1536 | 76 | moonman33 |
+| 1537 | 76 | Christopher Farias |
+| 1538 | 76 | Heather Dornberger |
+| 1539 | 76 | Uh Lesh Uh |
+| 1540 | 76 | Net |
+| 1541 | 76 | Brandy Martin-Lowery |
+| 1542 | 76 | James Balderas |
 | 1543 | 75 | Gary Moore |
 | 1544 | 75 | Bri |
 | 1545 | 75 | Marco A. Sandoval |
