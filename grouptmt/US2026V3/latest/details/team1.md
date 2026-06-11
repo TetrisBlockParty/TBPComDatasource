@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 10:59:20 UTC
+# Standings for team1 as of 2026-06-11 11:00:25 UTC
 
 **Total Participants:** 2474
 
@@ -66,7 +66,7 @@
 | 58 | 2599 | Tootsie Pop |
 | 59 | 2539 | Corey Cawthon |
 | 60 | 2535 | Michael J Gresham |
-| 61 | 2517 | Moomoo |
+| 61 | 2519 | Moomoo |
 | 62 | 2483 | Frisky Fallmatch |
 | 63 | 2478 | Todd C. Clemens |
 | 64 | 2412 | D'Andra Stewart |
@@ -212,8 +212,8 @@
 | 204 | 837 | Crystal Anderson |
 | 205 | 832 | Chantelle Lee |
 | 206 | 828 | Eugina Slater |
-| 207 | 825 | Aihpos |
-| 208 | 821 | Andrew Jay Vaughn |
+| 207 | 827 | Andrew Jay Vaughn |
+| 208 | 825 | Aihpos |
 | 209 | 814 | Andi McGreevy |
 | 210 | 813 | Choc |
 | 211 | 812 | Big Tina |
@@ -800,21 +800,21 @@
 | 792 | 243 | Eric Machuca |
 | 793 | 242 | Big Bovice |
 | 794 | 241 | Marlynnnnn |
-| 795 | 241 | Jackytrain52 |
-| 796 | 241 | Ad Doctor |
-| 797 | 240 | Velma Jones |
-| 798 | 240 | lookin |
-| 799 | 240 | Leavon Smith |
-| 800 | 239 | Twisty Cascadeclear |
-| 801 | 239 | Anntionette Sotire |
+| 795 | 241 | Ad Doctor |
+| 796 | 241 | Jackytrain52 |
+| 797 | 240 | lookin |
+| 798 | 240 | Velma Jones |
+| 799 | 240 | Renee Marshall |
+| 800 | 240 | Leavon Smith |
+| 801 | 239 | Twisty Cascadeclear |
 | 802 | 239 | Sherri Keys |
-| 803 | 238 | Renee Marshall |
+| 803 | 239 | Anntionette Sotire |
 | 804 | 238 | B.L. Perry |
 | 805 | 237 | Christina Singleton |
 | 806 | 237 | Shalena Marie Humphrey |
 | 807 | 236 | Rayshawn Cohen |
-| 808 | 235 | Juan Lewis |
-| 809 | 235 | Yoellah Benyahmeen |
+| 808 | 235 | Yoellah Benyahmeen |
+| 809 | 235 | Juan Lewis |
 | 810 | 235 | Oaklonboy mike |
 | 811 | 235 | nameno |
 | 812 | 235 | Squaw Ki Ng |
