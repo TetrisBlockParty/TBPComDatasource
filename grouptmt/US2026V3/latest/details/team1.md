@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:43:23 UTC
+# Standings for team1 as of 2026-06-11 18:44:20 UTC
 
 **Total Participants:** 2519
 
@@ -101,23 +101,23 @@
 | 93 | 1931 | Sharon Cail |
 | 94 | 1899 | Jolly Dropzone |
 | 95 | 1895 | Ryan Meilleur |
-| 96 | 1870 | TAZ-MF-NIZIL |
-| 97 | 1869 | Crystal Boyd |
+| 96 | 1891 | Crystal Boyd |
+| 97 | 1870 | TAZ-MF-NIZIL |
 | 98 | 1854 | Jessica Roberts |
 | 99 | 1781 | sha |
 | 100 | 1766 | Tameka Jones |
 | 101 | 1756 | BYM4L |
 | 102 | 1742 | Roberta Lynn |
-| 103 | 1711 | Richard Horton |
-| 104 | 1708 | MamaBear |
-| 105 | 1703 | Sanjuro |
+| 103 | 1740 | Sanjuro |
+| 104 | 1711 | Richard Horton |
+| 105 | 1708 | MamaBear |
 | 106 | 1682 | Danielle DeLozier Plesec |
 | 107 | 1677 | Alana Renee |
 | 108 | 1668 | Anthony Washington |
 | 109 | 1668 | La'Chae Nickole |
 | 110 | 1661 | LeeLee08 |
-| 111 | 1649 | Voice |
-| 112 | 1649 | Loopy Block |
+| 111 | 1649 | Loopy Block |
+| 112 | 1649 | Voice |
 | 113 | 1647 | Dawn L Washington-Feuquay |
 | 114 | 1627 | Janet Cooke |
 | 115 | 1623 | Robbie Cheeseman |
@@ -140,7 +140,7 @@
 | 132 | 1402 | Amalie Newvine |
 | 133 | 1401 | win |
 | 134 | 1393 | Taylor Evelyn |
-| 135 | 1381 | Plucky Slamdrop |
+| 135 | 1387 | Plucky Slamdrop |
 | 136 | 1380 | Jason Mungin |
 | 137 | 1372 | Catara Renae Oliver |
 | 138 | 1355 | Whitney Butler |
