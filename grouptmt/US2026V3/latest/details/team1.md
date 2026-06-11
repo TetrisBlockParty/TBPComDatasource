@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:04:50 UTC
+# Standings for team1 as of 2026-06-11 08:05:27 UTC
 
 **Total Participants:** 2462
 
@@ -70,7 +70,7 @@
 | 62 | 2367 | Markeeta Lipscomb |
 | 63 | 2359 | Corey Cawthon |
 | 64 | 2359 | Shellzb Roberts |
-| 65 | 2304 | Frisky Fallmatch |
+| 65 | 2343 | Frisky Fallmatch |
 | 66 | 2247 | Moomoo |
 | 67 | 2230 | Robyn Caldwell |
 | 68 | 2175 | Brian Bohanon II |
@@ -230,7 +230,7 @@
 | 222 | 765 | Aihpos |
 | 223 | 761 | Sade Goodwine |
 | 224 | 760 | Tasha Jones |
-| 225 | 757 | Tammye Turner |
+| 225 | 758 | Tammye Turner |
 | 226 | 754 | Jhaime |
 | 227 | 751 | BULLSEYE |
 | 228 | 749 | Block King |
