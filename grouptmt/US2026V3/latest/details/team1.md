@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 17:27:23 UTC
+# Standings for team1 as of 2026-06-11 17:28:25 UTC
 
 **Total Participants:** 2510
 
@@ -54,8 +54,8 @@
 | 46 | 3140 | Will |
 | 47 | 3082 | JoJo |
 | 48 | 3042 | Hyper Slamdrop |
-| 49 | 2909 | Therealdywoune Peay |
-| 50 | 2909 | Blockhead |
+| 49 | 2909 | Blockhead |
+| 50 | 2909 | Therealdywoune Peay |
 | 51 | 2903 | BlackQueen105 |
 | 52 | 2900 | Rosey |
 | 53 | 2804 | Epic Snapfall |
@@ -153,9 +153,9 @@
 | 145 | 1256 | Raymond Keeler |
 | 146 | 1244 | Jaida King |
 | 147 | 1236 | ELM |
-| 148 | 1229 | Shell Lewis |
-| 149 | 1227 | KenpachisGirl |
-| 150 | 1225 | Taylor Evelyn |
+| 148 | 1235 | Taylor Evelyn |
+| 149 | 1229 | Shell Lewis |
+| 150 | 1227 | KenpachisGirl |
 | 151 | 1224 | Tiana Moore |
 | 152 | 1208 | Jazzy Dashpiece |
 | 153 | 1203 | Lesley Brunkus Cianfaglione |
@@ -208,9 +208,9 @@
 | 200 | 915 | W.A. Simpson |
 | 201 | 913 | JaszyBadd |
 | 202 | 911 | Shontanese Adams |
-| 203 | 907 | Ann White |
-| 204 | 905 | Marcheta Cervantez |
-| 205 | 904 | TT |
+| 203 | 910 | TT |
+| 204 | 907 | Ann White |
+| 205 | 905 | Marcheta Cervantez |
 | 206 | 904 | Byron Mario Cawthon |
 | 207 | 899 | Choc |
 | 208 | 896 | Abraham Espaillat |
@@ -230,8 +230,8 @@
 | 222 | 827 | Andrew Jay Vaughn |
 | 223 | 825 | Aihpos |
 | 224 | 816 | Tasha Jones |
-| 225 | 812 | Mic Balew |
-| 226 | 812 | Big Tina |
+| 225 | 812 | Big Tina |
+| 226 | 812 | Mic Balew |
 | 227 | 801 | BULLSEYE |
 | 228 | 800 | izzybella |
 | 229 | 798 | Zappy Riser |
@@ -241,35 +241,35 @@
 | 233 | 777 | Johnathan Deese |
 | 234 | 776 | Mikayla |
 | 235 | 774 | Ottison Dianna |
-| 236 | 772 | Latisha Fairley |
-| 237 | 772 | Dena Marie Lee |
-| 238 | 770 | Genne Scott |
-| 239 | 770 | Andy Rivera |
+| 236 | 772 | Dena Marie Lee |
+| 237 | 772 | Latisha Fairley |
+| 238 | 770 | Andy Rivera |
+| 239 | 770 | Genne Scott |
 | 240 | 766 | Shameka Thrasher |
 | 241 | 762 | Frisky Fall |
 | 242 | 761 | Sade Goodwine |
 | 243 | 754 | Jhaime |
 | 244 | 752 | Trina Greenwood |
 | 245 | 742 | Analiza Ramos |
-| 246 | 740 | Spicy Risepiece |
-| 247 | 740 | Felicia Cain |
+| 246 | 740 | Felicia Cain |
+| 247 | 740 | Spicy Risepiece |
 | 248 | 738 | Deveda Williams |
 | 249 | 734 | Dana Hawes |
 | 250 | 731 | Rhonda Williams Warner |
 | 251 | 730 | ing410 |
-| 252 | 727 | Tamara Johnson-Carter |
-| 253 | 725 | Snippy Breaker |
-| 254 | 723 | Tremaine Hiler |
-| 255 | 720 | Hailey Hil |
-| 256 | 715 | Tishauna Virgo |
-| 257 | 713 | SyTheEvilGenius1 |
-| 258 | 711 | Chirpy Corner |
-| 259 | 708 | Simply-Beautiful007 |
-| 260 | 706 | TeeMaster Barber IsLyfe |
-| 261 | 700 | Abigail Newman Sweet |
-| 262 | 699 | Tempee |
-| 263 | 695 | Kenny 'Tailormade' Boyd |
-| 264 | 692 | Elizabeth Vega Coreano |
+| 252 | 729 | Elizabeth Vega Coreano |
+| 253 | 727 | Tamara Johnson-Carter |
+| 254 | 725 | Snippy Breaker |
+| 255 | 723 | Tremaine Hiler |
+| 256 | 720 | Hailey Hil |
+| 257 | 715 | Tishauna Virgo |
+| 258 | 713 | SyTheEvilGenius1 |
+| 259 | 711 | Chirpy Corner |
+| 260 | 708 | Simply-Beautiful007 |
+| 261 | 706 | TeeMaster Barber IsLyfe |
+| 262 | 700 | Abigail Newman Sweet |
+| 263 | 699 | Tempee |
+| 264 | 695 | Kenny 'Tailormade' Boyd |
 | 265 | 688 | Bambi Love |
 | 266 | 685 | Haley Bell |
 | 267 | 684 | Giggy Clusterer |
@@ -408,8 +408,8 @@
 | 400 | 480 | Erica Charlise |
 | 401 | 480 | Ashleyy Netchert |
 | 402 | 477 | Brenda Malachi-butler |
-| 403 | 476 | Nikki Hogan |
-| 404 | 476 | Poppy Buildout |
+| 403 | 477 | Poppy Buildout |
+| 404 | 476 | Nikki Hogan |
 | 405 | 476 | MACHETEEDDIE513 |
 | 406 | 476 | AshyTay |
 | 407 | 475 | Amy Lynn Leifheit |
