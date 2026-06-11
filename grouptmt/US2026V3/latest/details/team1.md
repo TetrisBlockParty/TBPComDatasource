@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 17:00:44 UTC
+# Standings for team1 as of 2026-06-11 17:01:24 UTC
 
 **Total Participants:** 2508
 
@@ -44,7 +44,7 @@
 | 36 | 3953 | Jo NewmindNewfocus Bell |
 | 37 | 3942 | Juan Kandiss Escobedo Irwin |
 | 38 | 3927 | Mary Jenkins |
-| 39 | 3768 | Jennifer To |
+| 39 | 3783 | Jennifer To |
 | 40 | 3763 | Sha Harris |
 | 41 | 3761 | Brian Stackhouse |
 | 42 | 3642 | Yolanda McDonald |
@@ -86,10 +86,10 @@
 | 78 | 2103 | April Inboden |
 | 79 | 2088 | Sarah Barnum |
 | 80 | 2072 | Jonathan Vee Jay |
-| 81 | 2060 | Angela R Wilson |
-| 82 | 2056 | PandaPrincess |
-| 83 | 2026 | Ceilo Marie |
-| 84 | 2015 | Felicia Williams |
+| 81 | 2065 | Felicia Williams |
+| 82 | 2060 | Angela R Wilson |
+| 83 | 2056 | PandaPrincess |
+| 84 | 2026 | Ceilo Marie |
 | 85 | 1998 | Uneekly Mayde |
 | 86 | 1982 | Kimberly Hernandez |
 | 87 | 1971 | Chris Russell |
@@ -102,16 +102,16 @@
 | 94 | 1870 | TAZ-MF-NIZIL |
 | 95 | 1854 | Jessica Roberts |
 | 96 | 1776 | sha |
-| 97 | 1737 | Roberta Lynn |
-| 98 | 1711 | Richard Horton |
-| 99 | 1708 | MamaBear |
-| 100 | 1703 | Sanjuro |
-| 101 | 1684 | FallDee |
-| 102 | 1682 | Danielle DeLozier Plesec |
-| 103 | 1681 | Tameka Jones |
-| 104 | 1677 | Alana Renee |
-| 105 | 1668 | La'Chae Nickole |
-| 106 | 1661 | Spicy Balancer |
+| 97 | 1741 | Spicy Balancer |
+| 98 | 1737 | Roberta Lynn |
+| 99 | 1711 | Richard Horton |
+| 100 | 1708 | MamaBear |
+| 101 | 1703 | Sanjuro |
+| 102 | 1684 | FallDee |
+| 103 | 1682 | Danielle DeLozier Plesec |
+| 104 | 1681 | Tameka Jones |
+| 105 | 1677 | Alana Renee |
+| 106 | 1668 | La'Chae Nickole |
 | 107 | 1661 | LeeLee08 |
 | 108 | 1647 | Dawn L Washington-Feuquay |
 | 109 | 1645 | Loopy Block |
@@ -478,16 +478,16 @@
 | 470 | 419 | FunTime |
 | 471 | 419 | Stephen Glaze |
 | 472 | 418 | Cortaz Lawrie |
-| 473 | 417 | John Staub |
-| 474 | 416 | Twisty Pivot |
-| 475 | 416 | Silly Edgepiece |
-| 476 | 415 | De'Nell Edwards |
-| 477 | 414 | Sammie Walker |
-| 478 | 414 | Melissa D. M. Hornsby |
-| 479 | 414 | Giddy Staggerpiece |
-| 480 | 413 | Lisa Fletcher |
-| 481 | 413 | Abby |
-| 482 | 412 | Matthieu Pistone |
+| 473 | 417 | Matthieu Pistone |
+| 474 | 417 | John Staub |
+| 475 | 416 | Twisty Pivot |
+| 476 | 416 | Silly Edgepiece |
+| 477 | 415 | De'Nell Edwards |
+| 478 | 414 | Sammie Walker |
+| 479 | 414 | Melissa D. M. Hornsby |
+| 480 | 414 | Giddy Staggerpiece |
+| 481 | 413 | Lisa Fletcher |
+| 482 | 413 | Abby |
 | 483 | 412 | Ashley MyBeauty Daniels |
 | 484 | 412 | Montego Allen |
 | 485 | 412 | Jessica Kirby |
@@ -580,27 +580,27 @@
 | 572 | 348 | Emily Wright |
 | 573 | 347 | Travis Davison |
 | 574 | 346 | Rebecca Jackson |
-| 575 | 346 | Casey Chapman |
-| 576 | 346 | Marsha Earl |
+| 575 | 346 | Marsha Earl |
+| 576 | 346 | Casey Chapman |
 | 577 | 345 | Heather Wilson |
 | 578 | 345 | Loony Clearer |
 | 579 | 344 | EvaLynn NeCole |
 | 580 | 344 | Cherika Wright |
-| 581 | 344 | MonaSparks |
-| 582 | 344 | Motown Chuck |
-| 583 | 344 | Juan Santiago |
+| 581 | 344 | Zappy Snapgrid |
+| 582 | 344 | MonaSparks |
+| 583 | 344 | Motown Chuck |
 | 584 | 344 | Onovella Titsworth |
 | 585 | 344 | Boldy Matchbuilder |
-| 586 | 343 | Earl Williams |
-| 587 | 343 | lizlizliz |
-| 588 | 342 | Nora Mahmoud |
+| 586 | 344 | Juan Santiago |
+| 587 | 343 | Earl Williams |
+| 588 | 343 | lizlizliz |
 | 589 | 342 | Ashley Monet Terrell |
-| 590 | 341 | Alyssa Rae |
-| 591 | 340 | Iceman |
-| 592 | 340 | Slinky Swipe |
-| 593 | 340 | Chocolate |
-| 594 | 339 | Keith Johnson |
-| 595 | 339 | Zappy Snapgrid |
+| 590 | 342 | Nora Mahmoud |
+| 591 | 341 | Alyssa Rae |
+| 592 | 340 | Chocolate |
+| 593 | 340 | Iceman |
+| 594 | 340 | Slinky Swipe |
+| 595 | 339 | Keith Johnson |
 | 596 | 339 | Angela Brown Babin |
 | 597 | 335 | Tito Divyn |
 | 598 | 335 | Phillip Vasquez |
@@ -689,16 +689,16 @@
 | 681 | 299 | Chandler Magee |
 | 682 | 298 | Logan Frost |
 | 683 | 298 | Rachael R Gull |
-| 684 | 297 | Marbama |
-| 685 | 296 | Cornelius Neal |
-| 686 | 296 | Antoinette Jones |
-| 687 | 296 | Lounique |
-| 688 | 296 | Stephanie L Jeffries Moultrie |
-| 689 | 295 | Tyler |
-| 690 | 294 | Cori Cleland |
-| 691 | 293 | Rhianna Dinki Austin |
-| 692 | 293 | Claudia Price |
-| 693 | 293 | William Vidra |
+| 684 | 297 | William Vidra |
+| 685 | 297 | Marbama |
+| 686 | 296 | Cornelius Neal |
+| 687 | 296 | Antoinette Jones |
+| 688 | 296 | Lounique |
+| 689 | 296 | Stephanie L Jeffries Moultrie |
+| 690 | 295 | Tyler |
+| 691 | 294 | Cori Cleland |
+| 692 | 293 | Rhianna Dinki Austin |
+| 693 | 293 | Claudia Price |
 | 694 | 293 | crumb bumc |
 | 695 | 292 | Courtney Cicoria |
 | 696 | 292 | Darrelle Short |
@@ -900,11 +900,11 @@
 | 892 | 217 | Xana Zania Bopp |
 | 893 | 216 | DoMinique Lee |
 | 894 | 216 | Rachel Renae Bettis |
-| 895 | 215 | Cheery Swiper |
-| 896 | 215 | KimChii |
-| 897 | 215 | Angie Smith |
-| 898 | 215 | Nikiya |
-| 899 | 215 | Tanesha Ga'sFinest Corbett |
+| 895 | 216 | Tanesha Ga'sFinest Corbett |
+| 896 | 215 | Cheery Swiper |
+| 897 | 215 | KimChii |
+| 898 | 215 | Angie Smith |
+| 899 | 215 | Nikiya |
 | 900 | 215 | Perky Balancer |
 | 901 | 215 | Mississippigirl Countrygirl |
 | 902 | 214 | Hyy |
@@ -1780,61 +1780,61 @@
 | 1772 | 49 | Brika Brika |
 | 1773 | 48 | Narena Desertsong |
 | 1774 | 48 | Jumpy Striker |
-| 1775 | 48 | Tiffany Sherman |
-| 1776 | 48 | Steeler Ace |
+| 1775 | 48 | Steeler Ace |
+| 1776 | 48 | Tiffany Sherman |
 | 1777 | 48 | Alisia Johns |
 | 1778 | 48 | Rl Valsin |
 | 1779 | 48 | Deidre Anderson |
 | 1780 | 48 | Honey Beck |
 | 1781 | 48 | Jolly Combo |
-| 1782 | 47 | Mina Abdullah |
-| 1783 | 47 | Queen |
-| 1784 | 47 | Marc Jones |
-| 1785 | 47 | lou28 |
-| 1786 | 47 | Slinky Balancepiece |
-| 1787 | 47 | Pizzle |
+| 1782 | 47 | Major314 |
+| 1783 | 47 | Mina Abdullah |
+| 1784 | 47 | Queen |
+| 1785 | 47 | Marc Jones |
+| 1786 | 47 | Kristy Nichole Smith |
+| 1787 | 47 | lou28 |
 | 1788 | 47 | Leonard R. Chanette |
-| 1789 | 47 | Hyper Cluster |
-| 1790 | 47 | Major314 |
-| 1791 | 46 | Twisty Matchline |
+| 1789 | 47 | Slinky Balancepiece |
+| 1790 | 47 | Pizzle |
+| 1791 | 47 | Hyper Cluster |
 | 1792 | 46 | Wu May |
-| 1793 | 46 | Swanky Linkmatch |
-| 1794 | 46 | Daniel Jenkins |
-| 1795 | 46 | cheehooo |
-| 1796 | 46 | Geneva Carter |
-| 1797 | 46 | Beverly Redd-Fountain |
-| 1798 | 46 | Christy Grier |
-| 1799 | 46 | NEM0228 |
-| 1800 | 45 | Jasmine Bates |
-| 1801 | 45 | LadyMosley |
-| 1802 | 45 | Tea |
-| 1803 | 45 | marie |
-| 1804 | 45 | Mighty Curver |
-| 1805 | 45 | Florida boi |
-| 1806 | 45 | Alexis Farquer |
-| 1807 | 45 | linda m |
+| 1793 | 46 | Daniel Jenkins |
+| 1794 | 46 | Swanky Linkmatch |
+| 1795 | 46 | Geneva Carter |
+| 1796 | 46 | cheehooo |
+| 1797 | 46 | Twisty Matchline |
+| 1798 | 46 | Beverly Redd-Fountain |
+| 1799 | 46 | Christy Grier |
+| 1800 | 46 | NEM0228 |
+| 1801 | 45 | marie |
+| 1802 | 45 | Florida boi |
+| 1803 | 45 | Alexis Farquer |
+| 1804 | 45 | LadyMosley |
+| 1805 | 45 | Jasmine Bates |
+| 1806 | 45 | Mighty Curver |
+| 1807 | 45 | Tea |
 | 1808 | 45 | Joy Baker |
-| 1809 | 45 | Sonia Nieves |
+| 1809 | 45 | linda m |
 | 1810 | 45 | Papi |
-| 1811 | 45 | Jason A Giantonio |
-| 1812 | 45 | Kristy Nichole Smith |
-| 1813 | 45 | Elizabeth Slater |
-| 1814 | 45 | Nicole |
-| 1815 | 45 | Lavender |
-| 1816 | 45 | Matraca Young |
-| 1817 | 45 | Venna Cooper |
-| 1818 | 45 | Angela Roseburgh |
-| 1819 | 45 | Sleepy Doe |
+| 1811 | 45 | Sonia Nieves |
+| 1812 | 45 | Venna Cooper |
+| 1813 | 45 | Jason A Giantonio |
+| 1814 | 45 | Sleepy Doe |
+| 1815 | 45 | Elizabeth Slater |
+| 1816 | 45 | Nicole |
+| 1817 | 45 | Lavender |
+| 1818 | 45 | Matraca Young |
+| 1819 | 45 | Angela Roseburgh |
 | 1820 | 44 | yoyoluv |
-| 1821 | 44 | Wacky1 |
-| 1822 | 44 | MeatSweats |
-| 1823 | 44 | Kelly Darty |
-| 1824 | 44 | Christopher George Hazard |
+| 1821 | 44 | MeatSweats |
+| 1822 | 44 | Kelly Darty |
+| 1823 | 44 | Christopher George Hazard |
+| 1824 | 44 | Jamey |
 | 1825 | 44 | Ernest Maxwell |
-| 1826 | 44 | Jamey |
-| 1827 | 44 | Frisky Pivoty |
-| 1828 | 43 | Donna Tillis |
-| 1829 | 43 | Owen Stone |
+| 1826 | 44 | Frisky Pivoty |
+| 1827 | 44 | Wacky1 |
+| 1828 | 43 | Owen Stone |
+| 1829 | 43 | Donna Tillis |
 | 1830 | 43 | Speedy Glidezone |
 | 1831 | 43 | Rex |
 | 1832 | 43 | SillyGirl |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 17:00:44 UTC
+# Standings for team4 as of 2026-06-11 17:01:24 UTC
 
 **Total Participants:** 2549
 
@@ -51,7 +51,7 @@
 | 43 | 4179 | Witty Clicky |
 | 44 | 4164 | Blind Bette |
 | 45 | 4142 | Jeanette Hailey |
-| 46 | 4060 | Wendy Zentz |
+| 46 | 4080 | Wendy Zentz |
 | 47 | 3942 | Dana Rinaldi |
 | 48 | 3923 | Fruitpunch |
 | 49 | 3854 | Watupall13 |
@@ -176,7 +176,7 @@
 | 168 | 1067 | SupaFly |
 | 169 | 1059 | Keesha Muro |
 | 170 | 1058 | Poppy |
-| 171 | 1052 | Gorica Prusina |
+| 171 | 1058 | Gorica Prusina |
 | 172 | 1048 | Fancy Riserfit |
 | 173 | 1035 | George Palacios |
 | 174 | 1026 | Bean |
@@ -475,15 +475,15 @@
 | 467 | 409 | Azahares Alonso |
 | 468 | 408 | Gary Smallwood |
 | 469 | 407 | Heidi Hala |
-| 470 | 406 | Paulina Deitrick |
-| 471 | 405 | Jrr |
-| 472 | 404 | Steven Patshy |
-| 473 | 402 | Dandy Cascade |
-| 474 | 402 | Manolo Canety |
-| 475 | 402 | TJ |
-| 476 | 402 | Loopy Hitter |
-| 477 | 401 | Candice Sellers Worley |
-| 478 | 400 | REPENT |
+| 470 | 406 | REPENT |
+| 471 | 406 | Paulina Deitrick |
+| 472 | 405 | Jrr |
+| 473 | 404 | Steven Patshy |
+| 474 | 402 | Dandy Cascade |
+| 475 | 402 | Manolo Canety |
+| 476 | 402 | TJ |
+| 477 | 402 | Loopy Hitter |
+| 478 | 401 | Candice Sellers Worley |
 | 479 | 400 | Karen Davis |
 | 480 | 400 | Lul Babie |
 | 481 | 396 | my my |
