@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:19:24 UTC
+# Standings for team1 as of 2026-06-11 07:20:46 UTC
 
 **Total Participants:** 2457
 
@@ -80,7 +80,7 @@
 | 72 | 2104 | Carolynne Walker-Bell |
 | 73 | 2103 | April Inboden |
 | 74 | 2101 | Holly Jolly |
-| 75 | 2078 | Frisky Fallmatch |
+| 75 | 2098 | Frisky Fallmatch |
 | 76 | 2038 | Eric Mcgaughy |
 | 77 | 2026 | Ceilo Marie |
 | 78 | 1978 | Bre Maugh |
@@ -586,65 +586,65 @@
 | 578 | 319 | Zappy Snapgrid |
 | 579 | 319 | Ciera Peace |
 | 580 | 319 | Christi Walker Patton |
-| 581 | 319 | TY Newme Batts |
-| 582 | 319 | MACHETEEDDIE513 |
+| 581 | 319 | MACHETEEDDIE513 |
+| 582 | 319 | TY Newme Batts |
 | 583 | 318 | Nerdy Snapfall |
 | 584 | 318 | Marlainia Boyd |
 | 585 | 318 | Latore Maxie |
-| 586 | 317 | Chris Holland |
-| 587 | 317 | Hardtohandle91 |
-| 588 | 317 | Bambi Johnson |
-| 589 | 317 | Monica Tovar |
-| 590 | 317 | Mister Reid |
+| 586 | 317 | Hardtohandle91 |
+| 587 | 317 | Monica Tovar |
+| 588 | 317 | Mister Reid |
+| 589 | 317 | Bambi Johnson |
+| 590 | 317 | Chris Holland |
 | 591 | 316 | Comedian Gdane |
-| 592 | 314 | Dana Hawes |
-| 593 | 314 | PSD |
-| 594 | 314 | Breezy Dashpiece |
+| 592 | 314 | Breezy Dashpiece |
+| 593 | 314 | Dana Hawes |
+| 594 | 314 | PSD |
 | 595 | 312 | Silly Wiper |
 | 596 | 312 | Spunky Gridder |
 | 597 | 311 | Sarah Steckbauer |
-| 598 | 310 | Bambam |
-| 599 | 310 | Peppy Glider |
-| 600 | 310 | Shakmar |
-| 601 | 309 | Phillip Vasquez |
-| 602 | 309 | Frilly Shatterline |
-| 603 | 309 | Jenni Hardman |
-| 604 | 308 | Tonya Lee Sanders |
-| 605 | 308 | Melissa Olvera |
-| 606 | 308 | Darrel K Pemberton |
-| 607 | 308 | Jjhandsome |
-| 608 | 307 | Aridevina |
-| 609 | 307 | Zany Breaker |
+| 598 | 311 | Saucy Faller |
+| 599 | 310 | Bambam |
+| 600 | 310 | Peppy Glider |
+| 601 | 310 | Shakmar |
+| 602 | 309 | Phillip Vasquez |
+| 603 | 309 | Frilly Shatterline |
+| 604 | 309 | Jenni Hardman |
+| 605 | 308 | Tonya Lee Sanders |
+| 606 | 308 | Melissa Olvera |
+| 607 | 308 | Darrel K Pemberton |
+| 608 | 308 | Jjhandsome |
+| 609 | 307 | Aridevina |
 | 610 | 307 | Kàrma Lee |
-| 611 | 306 | Zappy Clearfit |
-| 612 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 613 | 306 | Rebecca Jackson |
-| 614 | 306 | Mafio SO |
-| 615 | 305 | BonnieB |
-| 616 | 304 | Octavia Bsb Johnson |
-| 617 | 304 | Mrs.Ann |
-| 618 | 303 | Kelley Johnson |
-| 619 | 303 | Kamilya Rembert |
-| 620 | 303 | Kelvin Cook |
-| 621 | 302 | Ebby |
-| 622 | 302 | Saucy Faller |
-| 623 | 301 | LaShawyn Wood |
-| 624 | 301 | Monica Fields |
-| 625 | 300 | Kate Moses |
-| 626 | 300 | Daring Blockclear |
-| 627 | 300 | Phillip White |
-| 628 | 300 | brite |
-| 629 | 300 | Slinky Swipe |
-| 630 | 300 | Ashlie Mo |
-| 631 | 300 | Cheryl Miller |
-| 632 | 299 | Taz Ballard |
-| 633 | 299 | Kala LaRicka |
-| 634 | 299 | Chandler Magee |
+| 611 | 307 | Zany Breaker |
+| 612 | 306 | Zappy Clearfit |
+| 613 | 306 | Mafio SO |
+| 614 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 615 | 306 | Rebecca Jackson |
+| 616 | 305 | BonnieB |
+| 617 | 304 | Octavia Bsb Johnson |
+| 618 | 304 | Mrs.Ann |
+| 619 | 303 | Kelley Johnson |
+| 620 | 303 | Kamilya Rembert |
+| 621 | 303 | Kelvin Cook |
+| 622 | 302 | Ebby |
+| 623 | 301 | Monica Fields |
+| 624 | 301 | LaShawyn Wood |
+| 625 | 300 | Daring Blockclear |
+| 626 | 300 | Phillip White |
+| 627 | 300 | Ashlie Mo |
+| 628 | 300 | Cheryl Miller |
+| 629 | 300 | brite |
+| 630 | 300 | Slinky Swipe |
+| 631 | 300 | Kate Moses |
+| 632 | 299 | Kala LaRicka |
+| 633 | 299 | Chandler Magee |
+| 634 | 299 | Taz Ballard |
 | 635 | 298 | Rachael R Gull |
 | 636 | 297 | meatballs |
 | 637 | 297 | Hasty Rollzone |
-| 638 | 296 | Stephanie L Jeffries Moultrie |
-| 639 | 296 | Lounique |
+| 638 | 296 | Lounique |
+| 639 | 296 | Stephanie L Jeffries Moultrie |
 | 640 | 296 | Cornelius Neal |
 | 641 | 294 | Cori Cleland |
 | 642 | 294 | Loony Clearer |
@@ -974,10 +974,10 @@
 | 966 | 187 | TRUBBLE45 |
 | 967 | 187 | Melissa Ramsey |
 | 968 | 187 | Lively Riserpiece |
-| 969 | 186 | Morenita Rodriguez |
-| 970 | 186 | Kizzy Clark |
-| 971 | 186 | Nikkizz |
-| 972 | 185 | Jaxon Antuna |
+| 969 | 187 | Jaxon Antuna |
+| 970 | 186 | Morenita Rodriguez |
+| 971 | 186 | Kizzy Clark |
+| 972 | 186 | Nikkizz |
 | 973 | 185 | Jess |
 | 974 | 185 | Dapper Matchfit |
 | 975 | 185 | Mississippigirl Countrygirl |
@@ -1500,11 +1500,11 @@
 | 1492 | 76 | luc |
 | 1493 | 76 | Christina Tyler |
 | 1494 | 76 | Jacqueline Gory |
-| 1495 | 75 | Rose Smith |
-| 1496 | 75 | Tagashel Gotuwe |
+| 1495 | 75 | Tagashel Gotuwe |
+| 1496 | 75 | Y3llOWFAC3 |
 | 1497 | 75 | Dana Hill |
-| 1498 | 75 | Candice Poe |
-| 1499 | 75 | Y3llOWFAC3 |
+| 1498 | 75 | Rose Smith |
+| 1499 | 75 | Candice Poe |
 | 1500 | 75 | Courtney Robinson |
 | 1501 | 75 | Melanie Leonard |
 | 1502 | 74 | Riq Wokhardt |
@@ -1512,32 +1512,32 @@
 | 1504 | 74 | Tetrisdestroyer |
 | 1505 | 74 | Jade Smalls |
 | 1506 | 74 | Cee Jones |
-| 1507 | 74 | Daring Linkfall |
-| 1508 | 74 | Stasha Chaires |
-| 1509 | 73 | Blaze |
-| 1510 | 73 | Ducc2408 |
+| 1507 | 74 | Lora Lee |
+| 1508 | 74 | Daring Linkfall |
+| 1509 | 74 | Stasha Chaires |
+| 1510 | 73 | Blaze |
 | 1511 | 73 | Pleasure |
-| 1512 | 73 | key |
-| 1513 | 73 | Jonathan Zold |
-| 1514 | 73 | Ray Day |
-| 1515 | 73 | Tammy Scott Mallen |
-| 1516 | 73 | Tranica Sterling |
-| 1517 | 72 | Mariela J. Mazariegos |
-| 1518 | 72 | Chummy Liner |
-| 1519 | 72 | Darryl Love |
-| 1520 | 71 | Hasty Builder |
-| 1521 | 71 | toooooott |
-| 1522 | 71 | Emeka Agu |
-| 1523 | 71 | Lora Lee |
-| 1524 | 71 | Ana Torres |
-| 1525 | 71 | Chummy Clearfit |
-| 1526 | 71 | Happymama |
+| 1512 | 73 | Ducc2408 |
+| 1513 | 73 | key |
+| 1514 | 73 | Jonathan Zold |
+| 1515 | 73 | Ray Day |
+| 1516 | 73 | Tammy Scott Mallen |
+| 1517 | 73 | Tranica Sterling |
+| 1518 | 72 | Darryl Love |
+| 1519 | 72 | Mariela J. Mazariegos |
+| 1520 | 72 | Chummy Liner |
+| 1521 | 71 | Emeka Agu |
+| 1522 | 71 | Ana Torres |
+| 1523 | 71 | toooooott |
+| 1524 | 71 | Happymama |
+| 1525 | 71 | Hasty Builder |
+| 1526 | 71 | Shona ShayShay Jones |
 | 1527 | 71 | Ember Hammond |
 | 1528 | 71 | Laurene Bivins Fortney |
-| 1529 | 71 | Shona ShayShay Jones |
-| 1530 | 70 | Chris Bell |
-| 1531 | 70 | Eli Delao |
-| 1532 | 70 | Jucee |
+| 1529 | 71 | Chummy Clearfit |
+| 1530 | 70 | Jucee |
+| 1531 | 70 | Chris Bell |
+| 1532 | 70 | Eli Delao |
 | 1533 | 70 | Tina Sellars |
 | 1534 | 70 | Leon Brown III |
 | 1535 | 69 | BrettanMary Adkins |
