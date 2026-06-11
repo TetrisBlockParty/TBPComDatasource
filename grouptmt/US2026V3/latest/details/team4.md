@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:59:24 UTC
+# Standings for team4 as of 2026-06-11 16:00:45 UTC
 
 **Total Participants:** 2543
 
@@ -107,12 +107,12 @@
 | 99 | 1700 | Snappy Fitzone |
 | 100 | 1686 | SMV |
 | 101 | 1684 | Jeremy Lopez |
-| 102 | 1669 | Lupe Alburquerque |
-| 103 | 1624 | Chaz Duncan |
-| 104 | 1616 | Giggy Matchpiece |
-| 105 | 1604 | squareMel |
-| 106 | 1601 | DexterDobbins |
-| 107 | 1591 | Sean Mccleary |
+| 102 | 1671 | Sean Mccleary |
+| 103 | 1669 | Lupe Alburquerque |
+| 104 | 1624 | Chaz Duncan |
+| 105 | 1616 | Giggy Matchpiece |
+| 106 | 1604 | squareMel |
+| 107 | 1601 | DexterDobbins |
 | 108 | 1562 | Tina Shalay Hayes |
 | 109 | 1560 | Neeta Kapadia |
 | 110 | 1559 | Melissa WC |
@@ -232,7 +232,7 @@
 | 224 | 834 | iiPurgeV2 |
 | 225 | 830 | Kitsune Bi |
 | 226 | 829 | Rebecca Watters |
-| 227 | 821 | Vicki Adams |
+| 227 | 826 | Vicki Adams |
 | 228 | 821 | Snippy Splitter |
 | 229 | 820 | Capone |
 | 230 | 815 | Megan Vick |
@@ -361,8 +361,8 @@
 | 353 | 526 | Kea Sushi |
 | 354 | 522 | Lolita Nettles |
 | 355 | 520 | Rachel Mae Kubes |
-| 356 | 516 | EL Booger |
-| 357 | 515 | jaz |
+| 356 | 518 | jaz |
+| 357 | 516 | EL Booger |
 | 358 | 513 | Melika Zeheb |
 | 359 | 510 | jojo |
 | 360 | 510 | Funky Tiler |
@@ -817,45 +817,45 @@
 | 809 | 241 | Goofy Strike |
 | 810 | 241 | Memphiago Tenninois |
 | 811 | 240 | Steve Foster |
-| 812 | 240 | Nerdy Brickster |
-| 813 | 240 | Marie Adkins |
-| 814 | 240 | Urplan |
-| 815 | 238 | Robert Moore |
-| 816 | 238 | Tara Delay Hill |
-| 817 | 238 | Ian T Parker |
-| 818 | 238 | Fancy Tilefall |
-| 819 | 237 | Erica Pompey |
-| 820 | 237 | Yournightmare |
-| 821 | 237 | Amber Jalbert |
-| 822 | 237 | MsChelleAnn |
-| 823 | 237 | Samantha Lohmeyer |
-| 824 | 236 | Trang Nguyen |
+| 812 | 240 | Bammer |
+| 813 | 240 | Nerdy Brickster |
+| 814 | 240 | Marie Adkins |
+| 815 | 240 | Urplan |
+| 816 | 238 | Robert Moore |
+| 817 | 238 | Tara Delay Hill |
+| 818 | 238 | Ian T Parker |
+| 819 | 238 | Fancy Tilefall |
+| 820 | 237 | Erica Pompey |
+| 821 | 237 | Yournightmare |
+| 822 | 237 | Amber Jalbert |
+| 823 | 237 | MsChelleAnn |
+| 824 | 237 | Samantha Lohmeyer |
 | 825 | 236 | Weird Cat |
-| 826 | 236 | Domo Dpn |
+| 826 | 236 | Trang Nguyen |
 | 827 | 236 | Ashley DuVall |
 | 828 | 236 | Masiso |
-| 829 | 236 | chuck |
-| 830 | 235 | Laryssia Taylor |
-| 831 | 235 | Christy Petty |
-| 832 | 235 | Simone |
-| 833 | 235 | Reina Pagan |
-| 834 | 235 | Shannon Foster |
-| 835 | 235 | Ashley Nichole Skamra |
+| 829 | 236 | Domo Dpn |
+| 830 | 236 | chuck |
+| 831 | 235 | Laryssia Taylor |
+| 832 | 235 | Christy Petty |
+| 833 | 235 | Simone |
+| 834 | 235 | Reina Pagan |
+| 835 | 235 | Shannon Foster |
 | 836 | 235 | Helen Bradley |
-| 837 | 234 | Ajohnna Frazee |
-| 838 | 234 | Tod Jae |
-| 839 | 234 | Alizabeth Garcia |
-| 840 | 233 | Blu |
-| 841 | 232 | Daring Patternblock |
-| 842 | 231 | Lora Schallert |
-| 843 | 231 | Butterpat |
-| 844 | 231 | GingaNinja |
-| 845 | 230 | Jonelle Jacobs |
-| 846 | 230 | Breezy Brickline |
-| 847 | 230 | Bammer |
-| 848 | 230 | Michelle Sager |
-| 849 | 230 | Clever Blockbuilder |
-| 850 | 230 | Ralph Hell Rell Williams |
+| 837 | 235 | Ashley Nichole Skamra |
+| 838 | 234 | Ajohnna Frazee |
+| 839 | 234 | Tod Jae |
+| 840 | 234 | Alizabeth Garcia |
+| 841 | 233 | Blu |
+| 842 | 232 | Daring Patternblock |
+| 843 | 231 | Lora Schallert |
+| 844 | 231 | Butterpat |
+| 845 | 231 | GingaNinja |
+| 846 | 230 | Jonelle Jacobs |
+| 847 | 230 | Michelle Sager |
+| 848 | 230 | Ralph Hell Rell Williams |
+| 849 | 230 | Breezy Brickline |
+| 850 | 230 | Clever Blockbuilder |
 | 851 | 229 | Marcus Chavis |
 | 852 | 229 | JJ Merc |
 | 853 | 229 | Lizzzzzz |
@@ -893,8 +893,8 @@
 | 885 | 220 | Sha Ta Nay Mitchell |
 | 886 | 220 | Glamorous Gracey |
 | 887 | 220 | Millie Hoskins |
-| 888 | 220 | Charlene Nicole Guidry |
-| 889 | 220 | Freddy-B |
+| 888 | 220 | Freddy-B |
+| 889 | 220 | Charlene Nicole Guidry |
 | 890 | 219 | Cozy Patternline |
 | 891 | 219 | Poptart |
 | 892 | 219 | Gigi5 |
@@ -904,25 +904,25 @@
 | 896 | 217 | Hilarie Detweiler |
 | 897 | 217 | Ben Figueroa |
 | 898 | 217 | Bam SwaggSpitter King |
-| 899 | 216 | Clever Fallzone |
-| 900 | 216 | Maegon Brazille |
-| 901 | 216 | Layne Davis |
-| 902 | 216 | Groovy Stacker |
-| 903 | 215 | ShaniP |
-| 904 | 215 | Swanky Builderline |
-| 905 | 215 | Mari Isaac |
-| 906 | 215 | Autumn Maher |
-| 907 | 215 | Sfalcon1. |
-| 908 | 215 | Larredo Covington |
-| 909 | 214 | Amori85 |
-| 910 | 214 | Nerdy Glider |
+| 899 | 216 | Layne Davis |
+| 900 | 216 | Clever Fallzone |
+| 901 | 216 | Groovy Stacker |
+| 902 | 216 | Maegon Brazille |
+| 903 | 215 | Mari Isaac |
+| 904 | 215 | Larredo Covington |
+| 905 | 215 | Autumn Maher |
+| 906 | 215 | Sfalcon1. |
+| 907 | 215 | Swanky Builderline |
+| 908 | 215 | ShaniP |
+| 909 | 214 | Felicia Harrison |
+| 910 | 214 | Amori85 |
 | 911 | 214 | Worley’s Wife |
-| 912 | 214 | Felicia Harrison |
-| 913 | 214 | Linda |
+| 912 | 214 | Linda |
+| 913 | 214 | Breezy Rollfit |
 | 914 | 214 | Monica Shupe |
-| 915 | 213 | Chill Rollpiece |
-| 916 | 213 | Deanne Silverdahl |
-| 917 | 213 | Breezy Rollfit |
+| 915 | 214 | Nerdy Glider |
+| 916 | 213 | Chill Rollpiece |
+| 917 | 213 | Deanne Silverdahl |
 | 918 | 213 | Lala |
 | 919 | 212 | Conela Rouse Goldstein |
 | 920 | 212 | Ashley McGeehan |
@@ -1005,13 +1005,13 @@
 | 997 | 190 | TeQuita Jennings |
 | 998 | 190 | Darryl Shufford |
 | 999 | 190 | Natalie Ohrtman Strand |
-| 1000 | 189 | Sonya |
-| 1001 | 189 | Stuart Crosby |
-| 1002 | 188 | LaRue Tee |
-| 1003 | 188 | Andy Petersen |
-| 1004 | 188 | Littleshark |
-| 1005 | 188 | Chirpy Dashfit |
-| 1006 | 188 | Vergie Michael |
+| 1000 | 190 | Vergie Michael |
+| 1001 | 189 | Sonya |
+| 1002 | 189 | Stuart Crosby |
+| 1003 | 188 | LaRue Tee |
+| 1004 | 188 | Andy Petersen |
+| 1005 | 188 | Littleshark |
+| 1006 | 188 | Chirpy Dashfit |
 | 1007 | 187 | Krystal Simpson |
 | 1008 | 186 | Quirky Shatterblock |
 | 1009 | 186 | Phredda Helene Gavornik |
