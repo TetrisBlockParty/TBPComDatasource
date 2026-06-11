@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:59:25 UTC
+# Standings for team1 as of 2026-06-11 08:00:49 UTC
 
 **Total Participants:** 2462
 
@@ -11,7 +11,7 @@
 | 3 | 18431 | Death by SnuSnu |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13684 | Carrie English |
-| 6 | 13385 | Peppy Piececlear |
+| 6 | 13405 | Peppy Piececlear |
 | 7 | 12803 | Charlie Roehm |
 | 8 | 12469 | Erika Windom |
 | 9 | 12431 | Timothy Robert |
@@ -119,8 +119,8 @@
 | 111 | 1496 | Dawn L Washington-Feuquay |
 | 112 | 1473 | rls |
 | 113 | 1467 | Crystal Boyd |
-| 114 | 1454 | Spicy Balancer |
-| 115 | 1447 | Robbie Cheeseman |
+| 114 | 1456 | Robbie Cheeseman |
+| 115 | 1454 | Spicy Balancer |
 | 116 | 1434 | Dulo |
 | 117 | 1432 | She Higgy |
 | 118 | 1432 | Roberta Lynn |
@@ -230,8 +230,8 @@
 | 222 | 765 | Aihpos |
 | 223 | 761 | Sade Goodwine |
 | 224 | 760 | Tasha Jones |
-| 225 | 754 | Jhaime |
-| 226 | 752 | Tammye Turner |
+| 225 | 755 | Tammye Turner |
+| 226 | 754 | Jhaime |
 | 227 | 751 | BULLSEYE |
 | 228 | 749 | Block King |
 | 229 | 746 | Albert McKnight |
@@ -968,41 +968,41 @@
 | 960 | 190 | Batty B |
 | 961 | 190 | Spicy Tiler |
 | 962 | 189 | Sean White |
-| 963 | 189 | Vannie G |
-| 964 | 189 | Naee Bee |
-| 965 | 188 | Jennifer Rogers |
-| 966 | 188 | AimlessRain |
+| 963 | 189 | Naee Bee |
+| 964 | 189 | Vannie G |
+| 965 | 188 | AimlessRain |
+| 966 | 188 | Jennifer Rogers |
 | 967 | 188 | Mikemike Zonethree |
 | 968 | 187 | Melissa Ramsey |
 | 969 | 187 | Jamesha Lawrence |
 | 970 | 187 | Lively Riserpiece |
 | 971 | 187 | TRUBBLE45 |
 | 972 | 186 | Kizzy Clark |
-| 973 | 186 | Nikkizz |
-| 974 | 186 | Morenita Rodriguez |
+| 973 | 186 | Morenita Rodriguez |
+| 974 | 186 | Nikkizz |
 | 975 | 185 | Mississippigirl Countrygirl |
 | 976 | 185 | Jess |
 | 977 | 185 | Dapper Matchfit |
-| 978 | 183 | Amihan |
-| 979 | 183 | Twisty Dashy |
-| 980 | 183 | Sally Elizabeth Hopson |
-| 981 | 183 | Angela L Charles |
+| 978 | 183 | Twisty Dashy |
+| 979 | 183 | Amihan |
+| 980 | 183 | Angela L Charles |
+| 981 | 183 | Sally Elizabeth Hopson |
 | 982 | 183 | Cm |
-| 983 | 182 | Lexx Robins |
-| 984 | 182 | JesusSaves 😇 |
-| 985 | 182 | Comedian Prince Paul |
-| 986 | 182 | Audrey Gestring |
-| 987 | 182 | Callie Mae |
-| 988 | 181 | Tamyka E Williams |
-| 989 | 181 | Maria Baez Medina |
-| 990 | 181 | Rosanna Ringold |
-| 991 | 181 | Marc Papa |
-| 992 | 180 | LAdYPOLy |
-| 993 | 180 | Hasty Pivoty |
-| 994 | 180 | Keith Big-Sixx Mackell |
-| 995 | 180 | Shauntai Holiday |
-| 996 | 179 | Mumitt |
-| 997 | 179 | Boymama917 |
+| 983 | 182 | JesusSaves 😇 |
+| 984 | 182 | Lexx Robins |
+| 985 | 182 | Shauntai Holiday |
+| 986 | 182 | Comedian Prince Paul |
+| 987 | 182 | Audrey Gestring |
+| 988 | 182 | Callie Mae |
+| 989 | 181 | Rosanna Ringold |
+| 990 | 181 | Maria Baez Medina |
+| 991 | 181 | Tamyka E Williams |
+| 992 | 181 | Marc Papa |
+| 993 | 180 | LAdYPOLy |
+| 994 | 180 | Hasty Pivoty |
+| 995 | 180 | Keith Big-Sixx Mackell |
+| 996 | 179 | Boymama917 |
+| 997 | 179 | Mumitt |
 | 998 | 179 | Wacky Stackbuilder |
 | 999 | 179 | Lively Rollpiece |
 | 1000 | 179 | Kahh |
@@ -1898,86 +1898,86 @@
 | 1890 | 36 | Brownie |
 | 1891 | 36 | Mizta Lewis |
 | 1892 | 36 | Sharon Fears |
-| 1893 | 36 | Megan Dickerson |
+| 1893 | 36 | Sean Walker |
 | 1894 | 36 | Tee4 |
-| 1895 | 36 | Jessica Lee |
-| 1896 | 36 | Sean Walker |
-| 1897 | 35 | Charise McGee |
-| 1898 | 35 | MissingYou Nini |
-| 1899 | 35 | X6TRAUMA9X |
-| 1900 | 35 | np63 |
-| 1901 | 35 | Margie Toni Corley |
-| 1902 | 35 | Matos Boiz |
-| 1903 | 35 | Damien Johnson |
-| 1904 | 35 | Brandy Jaszewski |
-| 1905 | 35 | Christian Whittaker |
-| 1906 | 35 | Terrance Jenkins |
-| 1907 | 35 | Tiffany Sherman |
-| 1908 | 35 | Frilly Glidepiece |
+| 1895 | 36 | Megan Dickerson |
+| 1896 | 36 | Jessica Lee |
+| 1897 | 35 | X6TRAUMA9X |
+| 1898 | 35 | Matos Boiz |
+| 1899 | 35 | MissingYou Nini |
+| 1900 | 35 | Terrance Jenkins |
+| 1901 | 35 | Tiffany Sherman |
+| 1902 | 35 | Charise McGee |
+| 1903 | 35 | Frilly Glidepiece |
+| 1904 | 35 | np63 |
+| 1905 | 35 | Margie Toni Corley |
+| 1906 | 35 | Christian Whittaker |
+| 1907 | 35 | Brandy Jaszewski |
+| 1908 | 35 | Evee |
 | 1909 | 35 | Nerdy Twistline |
-| 1910 | 35 | Evee |
-| 1911 | 34 | Dazee Rogers |
-| 1912 | 34 | Plucky Clearpiece |
-| 1913 | 34 | Zayy Wavyy |
-| 1914 | 34 | Fancy Strikerbuilder |
-| 1915 | 34 | Jumpy Brickbuilder |
-| 1916 | 34 | beeutifullll |
-| 1917 | 34 | Lauren |
-| 1918 | 34 | Bouncy Brickroll |
-| 1919 | 34 | Daron Montgomery |
-| 1920 | 33 | Brianna Floyd |
-| 1921 | 33 | Koz176 |
-| 1922 | 33 | BigDawg Lessley |
-| 1923 | 33 | Kim Ratcliff Leatherman |
-| 1924 | 32 | Jädaa Laa'Destïnyy |
-| 1925 | 32 | Wx_Birdie |
-| 1926 | 32 | Tiffany Ali Shaw |
-| 1927 | 32 | Melissa Embrey |
-| 1928 | 32 | Van Cunning |
-| 1929 | 32 | Tasha Stuckey |
-| 1930 | 32 | Bouncy Base |
-| 1931 | 32 | cheehooo |
-| 1932 | 32 | Shericka Taylor |
-| 1933 | 32 | Betty Joe Lemberg |
-| 1934 | 32 | Janie Helton |
-| 1935 | 32 | Shalyn Law |
-| 1936 | 31 | Otavia Gordon |
-| 1937 | 31 | Edward Hickmon |
+| 1910 | 35 | Damien Johnson |
+| 1911 | 34 | Lauren |
+| 1912 | 34 | beeutifullll |
+| 1913 | 34 | Bouncy Brickroll |
+| 1914 | 34 | Plucky Clearpiece |
+| 1915 | 34 | Dazee Rogers |
+| 1916 | 34 | Jumpy Brickbuilder |
+| 1917 | 34 | Fancy Strikerbuilder |
+| 1918 | 34 | Daron Montgomery |
+| 1919 | 34 | Zayy Wavyy |
+| 1920 | 33 | Kim Ratcliff Leatherman |
+| 1921 | 33 | BigDawg Lessley |
+| 1922 | 33 | Brianna Floyd |
+| 1923 | 33 | Koz176 |
+| 1924 | 32 | Shericka Taylor |
+| 1925 | 32 | cheehooo |
+| 1926 | 32 | Bouncy Base |
+| 1927 | 32 | Wx_Birdie |
+| 1928 | 32 | Jädaa Laa'Destïnyy |
+| 1929 | 32 | Betty Joe Lemberg |
+| 1930 | 32 | Tasha Stuckey |
+| 1931 | 32 | Tiffany Ali Shaw |
+| 1932 | 32 | Janie Helton |
+| 1933 | 32 | Shalyn Law |
+| 1934 | 32 | Van Cunning |
+| 1935 | 32 | Melissa Embrey |
+| 1936 | 31 | jae |
+| 1937 | 31 | Otavia Gordon |
 | 1938 | 31 | Jennifer Diamond |
-| 1939 | 31 | EchoQuirky Blockclear |
-| 1940 | 31 | Zippy Slammer |
-| 1941 | 31 | Emily Burgoon |
-| 1942 | 31 | Kelly Darty |
-| 1943 | 30 | Cierra Banks |
-| 1944 | 30 | Annette DeLoatch Thompson |
-| 1945 | 30 | Moneke Randolph |
-| 1946 | 30 | Edward Hackett |
-| 1947 | 30 | Charlean Sims |
-| 1948 | 30 | Dora Greer |
-| 1949 | 30 | Myca Cooper |
-| 1950 | 30 | Cool Rumbler |
-| 1951 | 30 | Dee |
-| 1952 | 30 | Tipsy Tilt |
-| 1953 | 30 | Grace Page |
-| 1954 | 30 | Biggie Cheeze |
-| 1955 | 30 | Bob Bon |
-| 1956 | 30 | Jeanne Bitner |
-| 1957 | 30 | DeJuan BD |
-| 1958 | 30 | PS |
-| 1959 | 30 | Cucumber |
-| 1960 | 30 | DRIFTER |
-| 1961 | 30 | Chavez James |
-| 1962 | 30 | Dremer Clark |
-| 1963 | 29 | Cheeky Tiltbuilder |
+| 1939 | 31 | Zippy Slammer |
+| 1940 | 31 | Kelly Darty |
+| 1941 | 31 | EchoQuirky Blockclear |
+| 1942 | 31 | Emily Burgoon |
+| 1943 | 31 | Edward Hickmon |
+| 1944 | 30 | Edward Hackett |
+| 1945 | 30 | Myca Cooper |
+| 1946 | 30 | Dora Greer |
+| 1947 | 30 | Moneke Randolph |
+| 1948 | 30 | Jeanne Bitner |
+| 1949 | 30 | Charlean Sims |
+| 1950 | 30 | Annette DeLoatch Thompson |
+| 1951 | 30 | DRIFTER |
+| 1952 | 30 | Cucumber |
+| 1953 | 30 | Cool Rumbler |
+| 1954 | 30 | Dremer Clark |
+| 1955 | 30 | Biggie Cheeze |
+| 1956 | 30 | Grace Page |
+| 1957 | 30 | Chavez James |
+| 1958 | 30 | Cierra Banks |
+| 1959 | 30 | Tipsy Tilt |
+| 1960 | 30 | PS |
+| 1961 | 30 | Dee |
+| 1962 | 30 | DeJuan BD |
+| 1963 | 30 | Bob Bon |
 | 1964 | 29 | Chris Davidson |
 | 1965 | 29 | Ty Brown |
-| 1966 | 29 | Virginia Beilen |
-| 1967 | 29 | jae |
+| 1966 | 29 | Cheeky Tiltbuilder |
+| 1967 | 29 | Virginia Beilen |
 | 1968 | 29 | Everett Semmions |
 | 1969 | 29 | Caprice Taylor |
-| 1970 | 29 | Elizabeth Ragland |
-| 1971 | 29 | Candice Mayo |
-| 1972 | 29 | Epic Wipepiece |
+| 1970 | 29 | Epic Wipepiece |
+| 1971 | 29 | Elizabeth Ragland |
+| 1972 | 29 | Candice Mayo |
 | 1973 | 29 | Macaroni Meechie Johnson |
 | 1974 | 29 | Swanky Linkmatch |
 | 1975 | 29 | Neesii |
@@ -1987,14 +1987,14 @@
 | 1979 | 28 | Groovy Towerer |
 | 1980 | 28 | Lauren |
 | 1981 | 28 | Kenya Richardson |
-| 1982 | 28 | Shanna Nicole Anderson |
-| 1983 | 28 | DaNesha Simmons |
+| 1982 | 28 | DaNesha Simmons |
+| 1983 | 28 | Shanna Nicole Anderson |
 | 1984 | 28 | Raevon Bailey |
 | 1985 | 28 | Zany Edgepiece |
 | 1986 | 28 | Keera425 |
-| 1987 | 28 | Dannie Brown |
-| 1988 | 28 | Chief block |
-| 1989 | 28 | Shutyoface Barber |
+| 1987 | 28 | Shutyoface Barber |
+| 1988 | 28 | Dannie Brown |
+| 1989 | 28 | Chief block |
 | 1990 | 27 | Bubbly Fallmatch |
 | 1991 | 27 | TanB53 |
 | 1992 | 27 | Sanchez Jackson |
