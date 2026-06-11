@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 17:44:24 UTC
+# Standings for team2 as of 2026-06-11 17:45:25 UTC
 
 **Total Participants:** 2990
 
@@ -377,14 +377,14 @@
 | 369 | 638 | Flower_child |
 | 370 | 638 | Pam Bauder Ludwig |
 | 371 | 638 | Jason Cunningham |
-| 372 | 627 | Theresa Marie |
-| 373 | 620 | Justin McCray |
-| 374 | 620 | Happy |
-| 375 | 619 | Zany Blockclear |
-| 376 | 618 | Spicy Basepiece |
-| 377 | 617 | Marylin Eacker |
-| 378 | 617 | Candi Cane |
-| 379 | 616 | Heather Denise |
+| 372 | 629 | Heather Denise |
+| 373 | 627 | Theresa Marie |
+| 374 | 620 | Justin McCray |
+| 375 | 620 | Happy |
+| 376 | 619 | Zany Blockclear |
+| 377 | 618 | Spicy Basepiece |
+| 378 | 617 | Marylin Eacker |
+| 379 | 617 | Candi Cane |
 | 380 | 613 | Nicole Plummer |
 | 381 | 613 | Norma Ortiz |
 | 382 | 608 | Saucy Wrecker |
@@ -719,23 +719,23 @@
 | 711 | 348 | Audrey 'Spence' Hallmark |
 | 712 | 347 | Twisty Blockmatch |
 | 713 | 347 | Heather |
-| 714 | 346 | Meagan Grimmett Washburn |
-| 715 | 346 | Sassy Patternblock |
-| 716 | 346 | Kendra Sizemore |
-| 717 | 345 | Charlotte Castelli |
-| 718 | 345 | Chilly Surge |
-| 719 | 345 | Dhelsie Qurasima |
-| 720 | 345 | DNice |
-| 721 | 344 | Jackelyn Ford |
-| 722 | 343 | Anthony Chavez |
-| 723 | 341 | Jennifer Leigh |
-| 724 | 341 | Joanne Fish |
-| 725 | 341 | Patty Ann Hendrickson |
-| 726 | 340 | Cindy Scott |
-| 727 | 340 | Laurie |
-| 728 | 340 | Tony Medina |
-| 729 | 340 | Hannah Meadows Hammond |
-| 730 | 340 | Nikki Hatch |
+| 714 | 346 | Nikki Hatch |
+| 715 | 346 | Meagan Grimmett Washburn |
+| 716 | 346 | Sassy Patternblock |
+| 717 | 346 | Kendra Sizemore |
+| 718 | 345 | Charlotte Castelli |
+| 719 | 345 | Chilly Surge |
+| 720 | 345 | Dhelsie Qurasima |
+| 721 | 345 | DNice |
+| 722 | 344 | Jackelyn Ford |
+| 723 | 343 | Anthony Chavez |
+| 724 | 341 | Jennifer Leigh |
+| 725 | 341 | Joanne Fish |
+| 726 | 341 | Patty Ann Hendrickson |
+| 727 | 340 | Cindy Scott |
+| 728 | 340 | Laurie |
+| 729 | 340 | Tony Medina |
+| 730 | 340 | Hannah Meadows Hammond |
 | 731 | 340 | Al Smith Jr |
 | 732 | 340 | Shakey Bakey |
 | 733 | 339 | Kalli Bonin |
@@ -1884,55 +1884,55 @@
 | 1876 | 80 | Betty Johnson |
 | 1877 | 80 | Sarah Davis |
 | 1878 | 79 | Shanna Jones Scott |
-| 1879 | 79 | Sandra Betz |
-| 1880 | 79 | Jade007 |
-| 1881 | 79 | Amber Marie Lacey |
-| 1882 | 79 | Kristyn Crysel |
+| 1879 | 79 | Jade007 |
+| 1880 | 79 | Sandra Betz |
+| 1881 | 79 | Kristyn Crysel |
+| 1882 | 79 | Amber Marie Lacey |
 | 1883 | 79 | Zippy Wobbler |
 | 1884 | 79 | Kassidy Lee |
-| 1885 | 78 | Tori Hotseller |
-| 1886 | 78 | Steven Palmer |
-| 1887 | 78 | Danielle Brummett |
-| 1888 | 78 | Elise Marie Mireles |
-| 1889 | 78 | Clever Clusterfit |
-| 1890 | 78 | Shawn Bossuot |
-| 1891 | 78 | Betty Muise |
-| 1892 | 78 | Chipper Spinzone |
-| 1893 | 78 | Karen Moore |
-| 1894 | 78 | Casey Hendricks |
-| 1895 | 78 | Lively Shatter |
+| 1885 | 78 | Jennifer Roper Stanley |
+| 1886 | 78 | Tori Hotseller |
+| 1887 | 78 | Steven Palmer |
+| 1888 | 78 | Danielle Brummett |
+| 1889 | 78 | Elise Marie Mireles |
+| 1890 | 78 | Clever Clusterfit |
+| 1891 | 78 | Shawn Bossuot |
+| 1892 | 78 | Betty Muise |
+| 1893 | 78 | Chipper Spinzone |
+| 1894 | 78 | Karen Moore |
+| 1895 | 78 | Casey Hendricks |
 | 1896 | 78 | Lisa McClelland |
-| 1897 | 77 | Loopy Puzzler |
-| 1898 | 77 | Groovy Snapbuild |
-| 1899 | 77 | 3RD LEG |
-| 1900 | 76 | Joe Dirilo |
-| 1901 | 76 | Slingin.hohoes |
-| 1902 | 76 | Lisa Amick |
-| 1903 | 76 | Silly Shatter |
-| 1904 | 76 | Mary Cook |
-| 1905 | 76 | ZackoryandJaclin Marlar Brown |
-| 1906 | 76 | Peppy Dash |
-| 1907 | 76 | June Salevao |
-| 1908 | 76 | Pj |
+| 1897 | 78 | Lively Shatter |
+| 1898 | 77 | Loopy Puzzler |
+| 1899 | 77 | Groovy Snapbuild |
+| 1900 | 77 | 3RD LEG |
+| 1901 | 76 | Joe Dirilo |
+| 1902 | 76 | Slingin.hohoes |
+| 1903 | 76 | Lisa Amick |
+| 1904 | 76 | Silly Shatter |
+| 1905 | 76 | Mary Cook |
+| 1906 | 76 | ZackoryandJaclin Marlar Brown |
+| 1907 | 76 | Peppy Dash |
+| 1908 | 76 | June Salevao |
 | 1909 | 76 | Shawn Moore |
-| 1910 | 76 | Mick Loving |
-| 1911 | 76 | Happy Riseclear |
-| 1912 | 75 | Jackie Hayslip |
-| 1913 | 75 | Donna Casey |
-| 1914 | 75 | Angelica Kelley |
-| 1915 | 75 | Nikki |
-| 1916 | 75 | Tonia M Eckenrode |
-| 1917 | 75 | Shawn Field Geist |
-| 1918 | 75 | Barbara Fields |
+| 1910 | 76 | Pj |
+| 1911 | 76 | Mick Loving |
+| 1912 | 76 | Happy Riseclear |
+| 1913 | 75 | Jackie Hayslip |
+| 1914 | 75 | Donna Casey |
+| 1915 | 75 | Angelica Kelley |
+| 1916 | 75 | Nikki |
+| 1917 | 75 | Tonia M Eckenrode |
+| 1918 | 75 | Shawn Field Geist |
 | 1919 | 75 | Aguilar Rita |
 | 1920 | 75 | T-Tommy Hillbilly |
-| 1921 | 74 | Goofy Patternbuilder |
-| 1922 | 74 | Giddy Glider |
-| 1923 | 74 | MattandAngie Hopkins |
-| 1924 | 74 | Dawn Burzee |
-| 1925 | 74 | Cheeky Twistpiece |
-| 1926 | 74 | Robert Covey |
-| 1927 | 74 | Jennifer Roper Stanley |
+| 1921 | 75 | Barbara Fields |
+| 1922 | 74 | Robert Covey |
+| 1923 | 74 | Giddy Glider |
+| 1924 | 74 | MattandAngie Hopkins |
+| 1925 | 74 | Dawn Burzee |
+| 1926 | 74 | Cheeky Twistpiece |
+| 1927 | 74 | Goofy Patternbuilder |
 | 1928 | 74 | Mary |
 | 1929 | 73 | Dapper Align |
 | 1930 | 73 | Quirky Slammer |
