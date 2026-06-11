@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:12:44 UTC
+# Standings for team1 as of 2026-06-11 09:13:24 UTC
 
 **Total Participants:** 2467
 
@@ -289,11 +289,11 @@
 | 281 | 607 | Frisky Fall |
 | 282 | 605 | Tamara Johnson-Carter |
 | 283 | 604 | Andre Sanon |
-| 284 | 601 | Marie Wilson |
-| 285 | 599 | IThinkNot |
-| 286 | 594 | Lashaunda |
-| 287 | 594 | Rachael Bakowicz Edwards |
-| 288 | 593 | Daris Swearington |
+| 284 | 603 | Daris Swearington |
+| 285 | 601 | Marie Wilson |
+| 286 | 599 | IThinkNot |
+| 287 | 594 | Lashaunda |
+| 288 | 594 | Rachael Bakowicz Edwards |
 | 289 | 588 | Kenny 'Tailormade' Boyd |
 | 290 | 585 | Anthony |
 | 291 | 579 | Mahagony Small |
