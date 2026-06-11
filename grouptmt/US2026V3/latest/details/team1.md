@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:17:27 UTC
+# Standings for team1 as of 2026-06-11 09:18:21 UTC
 
 **Total Participants:** 2467
 
@@ -625,31 +625,31 @@
 | 617 | 306 | Mafio SO |
 | 618 | 306 | Rebecca Jackson |
 | 619 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 620 | 305 | BonnieB |
-| 621 | 304 | Mrs.Ann |
-| 622 | 304 | Octavia Bsb Johnson |
-| 623 | 303 | Kamilya Rembert |
-| 624 | 303 | Kelley Johnson |
-| 625 | 303 | Kelvin Cook |
-| 626 | 302 | Ebby |
-| 627 | 301 | Monica Fields |
-| 628 | 301 | LaShawyn Wood |
-| 629 | 300 | brite |
-| 630 | 300 | Ashlie Mo |
-| 631 | 300 | Slinky Swipe |
-| 632 | 300 | Phillip White |
-| 633 | 300 | Daring Blockclear |
-| 634 | 300 | Kate Moses |
-| 635 | 300 | Cheryl Miller |
-| 636 | 299 | Kala LaRicka |
+| 620 | 306 | Krystal Maynard |
+| 621 | 305 | BonnieB |
+| 622 | 304 | Mrs.Ann |
+| 623 | 304 | Octavia Bsb Johnson |
+| 624 | 303 | Kamilya Rembert |
+| 625 | 303 | Kelley Johnson |
+| 626 | 303 | Kelvin Cook |
+| 627 | 302 | Ebby |
+| 628 | 301 | Monica Fields |
+| 629 | 301 | LaShawyn Wood |
+| 630 | 300 | brite |
+| 631 | 300 | Ashlie Mo |
+| 632 | 300 | Slinky Swipe |
+| 633 | 300 | Phillip White |
+| 634 | 300 | Daring Blockclear |
+| 635 | 300 | Kate Moses |
+| 636 | 300 | Cheryl Miller |
 | 637 | 299 | Chandler Magee |
-| 638 | 299 | Taz Ballard |
-| 639 | 298 | Rachael R Gull |
-| 640 | 297 | Hasty Rollzone |
-| 641 | 297 | Krystal Maynard |
+| 638 | 299 | Kala LaRicka |
+| 639 | 299 | Taz Ballard |
+| 640 | 298 | Rachael R Gull |
+| 641 | 297 | Hasty Rollzone |
 | 642 | 297 | meatballs |
-| 643 | 296 | Lounique |
-| 644 | 296 | Stephanie L Jeffries Moultrie |
+| 643 | 296 | Stephanie L Jeffries Moultrie |
+| 644 | 296 | Lounique |
 | 645 | 296 | Cornelius Neal |
 | 646 | 295 | Tyler |
 | 647 | 294 | Loony Clearer |

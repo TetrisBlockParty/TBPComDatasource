@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:17:27 UTC
+# Standings for team2 as of 2026-06-11 09:18:21 UTC
 
 **Total Participants:** 2938
 
@@ -241,8 +241,8 @@
 | 233 | 893 | La chulis |
 | 234 | 892 | H |
 | 235 | 891 | Jessica Melendy |
-| 236 | 886 | Cool Climber |
-| 237 | 885 | Laverne Ellis Blair |
+| 236 | 886 | Laverne Ellis Blair |
+| 237 | 886 | Cool Climber |
 | 238 | 885 | Katrien |
 | 239 | 883 | Kathy McCormick |
 | 240 | 882 | Danielle Blount |
@@ -577,8 +577,8 @@
 | 569 | 398 | Ashley Billiot Rhodes |
 | 570 | 397 | Sltwtrcndrla |
 | 571 | 396 | Joanie Swann Ruiter |
-| 572 | 395 | Hector |
-| 573 | 395 | murd3rmous3 |
+| 572 | 395 | murd3rmous3 |
+| 573 | 395 | Hector |
 | 574 | 395 | Traci Abern |
 | 575 | 395 | Madonna Ash |
 | 576 | 395 | Tango Sierra |
@@ -588,50 +588,50 @@
 | 580 | 392 | Sassy Twistbuilder |
 | 581 | 392 | Amanda Bottorff |
 | 582 | 390 | Rachel |
-| 583 | 390 | Jim Wright |
-| 584 | 389 | Jumpy Dashpiece |
-| 585 | 389 | Josephina |
-| 586 | 388 | Clever Fallmatch |
+| 583 | 390 | Wayne Johnson |
+| 584 | 390 | Jim Wright |
+| 585 | 389 | Jumpy Dashpiece |
+| 586 | 389 | Josephina |
 | 587 | 388 | Sassy Swiper |
-| 588 | 387 | Ashley Propst |
-| 589 | 386 | Ryuu |
-| 590 | 386 | phamous1 |
-| 591 | 385 | Aneokly |
-| 592 | 384 | Jana Campbell |
-| 593 | 384 | Gabrielle Rivera |
-| 594 | 384 | Laura Larsen |
-| 595 | 383 | Jenna Stahl |
-| 596 | 382 | Zesty Zoney |
+| 588 | 388 | Clever Fallmatch |
+| 589 | 387 | Ashley Propst |
+| 590 | 386 | Ryuu |
+| 591 | 386 | phamous1 |
+| 592 | 385 | Aneokly |
+| 593 | 384 | Jana Campbell |
+| 594 | 384 | Gabrielle Rivera |
+| 595 | 384 | Laura Larsen |
+| 596 | 383 | Jenna Stahl |
 | 597 | 382 | Jennifer McCloskey Launder |
-| 598 | 382 | Curly Windbreaker |
-| 599 | 381 | Katie Jones |
-| 600 | 381 | s3lc4tr0n |
-| 601 | 380 | Zappy Liney |
-| 602 | 380 | Melissa Willson |
-| 603 | 379 | Aubrey Gates |
-| 604 | 378 | Shannon Curry Riggle |
-| 605 | 376 | Ava Speedy |
-| 606 | 376 | TetrisMama |
-| 607 | 374 | Natasha Lee |
-| 608 | 373 | Christy Ford |
-| 609 | 373 | Nano. |
-| 610 | 373 | Amy Nicole McCanne |
-| 611 | 373 | Wendy McKee |
-| 612 | 372 | Tito Garcia |
-| 613 | 372 | Viani09 |
-| 614 | 372 | ZBee |
-| 615 | 372 | Toni Washington |
-| 616 | 372 | Flashy Basegrid |
-| 617 | 371 | Amber Carpenter |
-| 618 | 371 | Teddy Williams |
-| 619 | 370 | marsam |
-| 620 | 370 | Wayne Johnson |
+| 598 | 382 | Zesty Zoney |
+| 599 | 382 | Curly Windbreaker |
+| 600 | 381 | Katie Jones |
+| 601 | 381 | s3lc4tr0n |
+| 602 | 380 | Zappy Liney |
+| 603 | 380 | Melissa Willson |
+| 604 | 379 | Aubrey Gates |
+| 605 | 378 | Shannon Curry Riggle |
+| 606 | 376 | Ava Speedy |
+| 607 | 376 | TetrisMama |
+| 608 | 374 | Natasha Lee |
+| 609 | 373 | Christy Ford |
+| 610 | 373 | Nano. |
+| 611 | 373 | Amy Nicole McCanne |
+| 612 | 373 | Wendy McKee |
+| 613 | 372 | Tito Garcia |
+| 614 | 372 | Viani09 |
+| 615 | 372 | ZBee |
+| 616 | 372 | Toni Washington |
+| 617 | 372 | Flashy Basegrid |
+| 618 | 371 | Amber Carpenter |
+| 619 | 371 | Teddy Williams |
+| 620 | 370 | marsam |
 | 621 | 369 | Francesca Wagenhoffer |
 | 622 | 369 | Angela VanOstrand |
 | 623 | 368 | Kimmi Blake |
 | 624 | 368 | Danielle Lyons |
-| 625 | 367 | Frisky Twist |
-| 626 | 367 | Jennifer McClure |
+| 625 | 367 | Jennifer McClure |
+| 626 | 367 | Frisky Twist |
 | 627 | 366 | Ozge Akgun Tokat |
 | 628 | 366 | Doug Small |
 | 629 | 365 | Lee Leonard |
@@ -650,8 +650,8 @@
 | 642 | 359 | Eric Wayne Maschman |
 | 643 | 357 | Brandy Chinelle |
 | 644 | 357 | Amanda Priddy |
-| 645 | 356 | Joshua Dye |
-| 646 | 356 | Perky Rollfit |
+| 645 | 356 | Perky Rollfit |
+| 646 | 356 | Joshua Dye |
 | 647 | 356 | Jill Goff |
 | 648 | 354 | Spencer Ryder |
 | 649 | 352 | Amber Marie |
@@ -2753,24 +2753,24 @@
 | 2745 | 12 | Laura Harris Merchant |
 | 2746 | 12 | Perky Party |
 | 2747 | 12 | Whitney Welch |
-| 2748 | 12 | Dan Foster |
-| 2749 | 12 | Valerie Kidwell Eckart |
-| 2750 | 12 | Bsancia |
-| 2751 | 12 | Mariah Wells |
-| 2752 | 12 | Jennabean |
-| 2753 | 12 | Tajelasmom |
-| 2754 | 12 | Amber Lynch |
-| 2755 | 12 | Amber Nicole Reynolds |
-| 2756 | 12 | Frothy Fitline |
-| 2757 | 12 | Michelle Wakefield |
-| 2758 | 12 | Stephanie Sadler |
-| 2759 | 12 | Krystal Syykkogrl Grafyx |
-| 2760 | 12 | Groovy Buildout |
-| 2761 | 12 | Sindy08 |
-| 2762 | 11 | Robert E Tracy |
-| 2763 | 11 | Smokii |
-| 2764 | 11 | Kathy May |
-| 2765 | 11 | Dwyla Howard |
+| 2748 | 12 | Dwyla Howard |
+| 2749 | 12 | Dan Foster |
+| 2750 | 12 | Valerie Kidwell Eckart |
+| 2751 | 12 | Bsancia |
+| 2752 | 12 | Mariah Wells |
+| 2753 | 12 | Jennabean |
+| 2754 | 12 | Tajelasmom |
+| 2755 | 12 | Amber Lynch |
+| 2756 | 12 | Amber Nicole Reynolds |
+| 2757 | 12 | Frothy Fitline |
+| 2758 | 12 | Michelle Wakefield |
+| 2759 | 12 | Stephanie Sadler |
+| 2760 | 12 | Krystal Syykkogrl Grafyx |
+| 2761 | 12 | Groovy Buildout |
+| 2762 | 12 | Sindy08 |
+| 2763 | 11 | Robert E Tracy |
+| 2764 | 11 | Smokii |
+| 2765 | 11 | Kathy May |
 | 2766 | 11 | Tink |
 | 2767 | 11 | Kayla Jeffries |
 | 2768 | 11 | Catspjamas |
