@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:46:25 UTC
+# Standings for team1 as of 2026-06-11 18:47:24 UTC
 
 **Total Participants:** 2519
 
@@ -14,7 +14,7 @@
 | 6 | 13741 | Peppy Piececlear |
 | 7 | 13684 | Carrie English |
 | 8 | 13431 | Timothy Robert |
-| 9 | 13259 | Tipsy Tetriblast |
+| 9 | 13274 | Tipsy Tetriblast |
 | 10 | 12803 | Charlie Roehm |
 | 11 | 10972 | Charnay Peacock |
 | 12 | 10579 | Dyane Leah Ware |
@@ -515,9 +515,9 @@
 | 507 | 400 | Christina Rebecca |
 | 508 | 400 | Sara Meri |
 | 509 | 399 | Kala LaRicka |
-| 510 | 398 | Kristine Marie Palmer |
-| 511 | 397 | Eric Spencer Whitaker |
-| 512 | 396 | Jessie N Michael Silvers |
+| 510 | 398 | Jessie N Michael Silvers |
+| 511 | 398 | Kristine Marie Palmer |
+| 512 | 397 | Eric Spencer Whitaker |
 | 513 | 396 | Aridevina |
 | 514 | 396 | Chirpy Buildgrid |
 | 515 | 395 | Rachel |
@@ -1175,8 +1175,8 @@
 | 1167 | 144 | Crafty Link |
 | 1168 | 144 | Cee CRaze Perry Sr. |
 | 1169 | 144 | Tammy Collins |
-| 1170 | 142 | Lateef |
-| 1171 | 142 | Cee Jones |
+| 1170 | 143 | Cee Jones |
+| 1171 | 142 | Lateef |
 | 1172 | 141 | sunstar |
 | 1173 | 141 | Tiana Monique |
 | 1174 | 141 | Happy Blockpiece |
