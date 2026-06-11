@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 14:08:41 UTC
+# Standings for team1 as of 2026-06-11 14:09:21 UTC
 
 **Total Participants:** 2494
 
@@ -166,15 +166,15 @@
 | 158 | 1121 | Lisa Müller |
 | 159 | 1121 | Zippy Lifter |
 | 160 | 1113 | Eartha Brown |
-| 161 | 1107 | Katherine Short |
-| 162 | 1100 | Christana Imjustbutton Stone |
-| 163 | 1097 | De'Laonzeo Anthony |
-| 164 | 1082 | Gotcha |
-| 165 | 1080 | Nerdy Blockpiece |
-| 166 | 1078 | Quirky Fallgrid |
-| 167 | 1074 | Dee McCool |
-| 168 | 1073 | Rackemwillie34 |
-| 169 | 1069 | Shell Lewis |
+| 161 | 1109 | Shell Lewis |
+| 162 | 1107 | Katherine Short |
+| 163 | 1100 | Christana Imjustbutton Stone |
+| 164 | 1097 | De'Laonzeo Anthony |
+| 165 | 1082 | Gotcha |
+| 166 | 1080 | Nerdy Blockpiece |
+| 167 | 1078 | Quirky Fallgrid |
+| 168 | 1074 | Dee McCool |
+| 169 | 1073 | Rackemwillie34 |
 | 170 | 1068 | Cece Fowler |
 | 171 | 1064 | Michelle Titus |
 | 172 | 1063 | Jaida De'Anne Cox |
@@ -451,10 +451,10 @@
 | 443 | 428 | Poppy Buildout |
 | 444 | 428 | Jelyfish |
 | 445 | 427 | Cynthia Cruell |
-| 446 | 425 | Jas |
-| 447 | 423 | Andra Ward |
-| 448 | 422 | The DUBZ |
-| 449 | 422 | Melanin Monroe-Dandridge |
+| 446 | 426 | Melanin Monroe-Dandridge |
+| 447 | 425 | Jas |
+| 448 | 423 | Andra Ward |
+| 449 | 422 | The DUBZ |
 | 450 | 420 | Ketrell Bailey |
 | 451 | 419 | Yadira Salgado |
 | 452 | 419 | Stephen Glaze |
@@ -1493,66 +1493,66 @@
 | 1485 | 80 | Frothy Zoney |
 | 1486 | 80 | Tina Criam |
 | 1487 | 80 | Chevalier Burley |
-| 1488 | 80 | Jaay Bender |
-| 1489 | 80 | Shoppingbagdrezzy |
-| 1490 | 80 | Monique Toya Good |
+| 1488 | 80 | Shoppingbagdrezzy |
+| 1489 | 80 | Monique Toya Good |
+| 1490 | 80 | Jaay Bender |
 | 1491 | 80 | Anthony D Holmes |
-| 1492 | 80 | Frilly Riserbuilder |
-| 1493 | 80 | Ness |
+| 1492 | 80 | Ness |
+| 1493 | 80 | Frilly Riserbuilder |
 | 1494 | 79 | Zany Pivot |
-| 1495 | 78 | sasha |
-| 1496 | 78 | Bubbly Crawler |
+| 1495 | 78 | Bubbly Crawler |
+| 1496 | 78 | Mary Kimmons |
 | 1497 | 78 | Breeze |
-| 1498 | 78 | Jose González |
+| 1498 | 78 | sasha |
 | 1499 | 78 | Angela C. |
-| 1500 | 78 | Mary Kimmons |
-| 1501 | 77 | Shemeka Bates |
-| 1502 | 77 | Renee J. Thomas |
-| 1503 | 77 | Laura Long |
-| 1504 | 77 | Alturas Supremenineteen Banks |
-| 1505 | 77 | kiki |
+| 1500 | 78 | Jose González |
+| 1501 | 77 | Frilly Mover |
+| 1502 | 77 | Shemeka Bates |
+| 1503 | 77 | Renee J. Thomas |
+| 1504 | 77 | Laura Long |
+| 1505 | 77 | Alturas Supremenineteen Banks |
 | 1506 | 77 | Lil T |
-| 1507 | 77 | Frilly Mover |
-| 1508 | 77 | Clever Wrecker |
-| 1509 | 77 | Neesii |
-| 1510 | 77 | Adonai Saves |
-| 1511 | 77 | That1Girl |
-| 1512 | 76 | luc |
-| 1513 | 76 | Crystal Ann |
-| 1514 | 76 | Jacqueline Gory |
-| 1515 | 76 | Joseph Ware Jr. |
-| 1516 | 76 | Christina Tyler |
-| 1517 | 76 | Jamel Bubba Thomas |
-| 1518 | 76 | RealOne95 |
-| 1519 | 76 | Kimberly Haynes |
-| 1520 | 76 | Mama P |
-| 1521 | 75 | Melanie Leonard |
+| 1507 | 77 | That1Girl |
+| 1508 | 77 | Adonai Saves |
+| 1509 | 77 | Clever Wrecker |
+| 1510 | 77 | Neesii |
+| 1511 | 77 | kiki |
+| 1512 | 76 | Kimberly Haynes |
+| 1513 | 76 | Mama P |
+| 1514 | 76 | RealOne95 |
+| 1515 | 76 | Jamel Bubba Thomas |
+| 1516 | 76 | luc |
+| 1517 | 76 | Christina Tyler |
+| 1518 | 76 | Joseph Ware Jr. |
+| 1519 | 76 | Cee Jones |
+| 1520 | 76 | Jacqueline Gory |
+| 1521 | 76 | Crystal Ann |
 | 1522 | 75 | Y3llOWFAC3 |
-| 1523 | 75 | Courtney Robinson |
-| 1524 | 75 | Candice Poe |
-| 1525 | 75 | Dana Hill |
+| 1523 | 75 | Melanie Leonard |
+| 1524 | 75 | Courtney Robinson |
+| 1525 | 75 | Candice Poe |
 | 1526 | 75 | Rose Smith |
-| 1527 | 74 | Cee Jones |
-| 1528 | 74 | Riq Wokhardt |
-| 1529 | 74 | Tetrisdestroyer |
-| 1530 | 74 | Jaela Washington |
-| 1531 | 74 | Damien Anthony |
-| 1532 | 74 | Jade Smalls |
-| 1533 | 73 | key |
+| 1527 | 75 | Dana Hill |
+| 1528 | 74 | Tetrisdestroyer |
+| 1529 | 74 | Jade Smalls |
+| 1530 | 74 | Riq Wokhardt |
+| 1531 | 74 | Jaela Washington |
+| 1532 | 74 | Damien Anthony |
+| 1533 | 73 | Blaze |
 | 1534 | 73 | Tranica Sterling |
-| 1535 | 73 | Blaze |
+| 1535 | 73 | key |
 | 1536 | 73 | Tammy Scott Mallen |
 | 1537 | 73 | Jonathan Zold |
 | 1538 | 73 | Ducc2408 |
-| 1539 | 72 | solarpower00 |
-| 1540 | 72 | NaeNeezy |
-| 1541 | 72 | Mariela J. Mazariegos |
-| 1542 | 72 | Darryl Love |
+| 1539 | 72 | NaeNeezy |
+| 1540 | 72 | Mariela J. Mazariegos |
+| 1541 | 72 | Darryl Love |
+| 1542 | 72 | solarpower00 |
 | 1543 | 72 | Chummy Liner |
-| 1544 | 71 | Jason Rogers |
-| 1545 | 71 | Emeka Agu |
-| 1546 | 71 | toooooott |
-| 1547 | 71 | Happymama |
+| 1544 | 71 | Happymama |
+| 1545 | 71 | toooooott |
+| 1546 | 71 | Jason Rogers |
+| 1547 | 71 | Emeka Agu |
 | 1548 | 71 | Shona ShayShay Jones |
 | 1549 | 71 | Ana Torres |
 | 1550 | 71 | Laurene Bivins Fortney |
