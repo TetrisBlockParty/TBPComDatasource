@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 18:51:23 UTC
+# Standings for team4 as of 2026-06-11 18:52:24 UTC
 
 **Total Participants:** 2572
 
@@ -130,8 +130,8 @@
 | 122 | 1414 | Chiquita Blue |
 | 123 | 1408 | GeorgeButts |
 | 124 | 1406 | Irma |
-| 125 | 1396 | Shaina Sharp |
-| 126 | 1396 | MysticMaven |
+| 125 | 1399 | MysticMaven |
+| 126 | 1396 | Shaina Sharp |
 | 127 | 1392 | blockhead |
 | 128 | 1362 | Gloria Nunley Trussell |
 | 129 | 1361 | Dee Wizz |
@@ -146,10 +146,10 @@
 | 138 | 1305 | Kristen Wallace |
 | 139 | 1285 | Kelly Bernard |
 | 140 | 1281 | CJ |
-| 141 | 1274 | Pepone Pepe |
-| 142 | 1272 | Jesse Olive |
-| 143 | 1271 | Loony Glidepiece |
-| 144 | 1266 | Alex Armour |
+| 141 | 1276 | Alex Armour |
+| 142 | 1274 | Pepone Pepe |
+| 143 | 1272 | Jesse Olive |
+| 144 | 1271 | Loony Glidepiece |
 | 145 | 1258 | Blayne Kole |
 | 146 | 1242 | Jason Garnatz |
 | 147 | 1237 | Scamp Jones |
@@ -269,7 +269,7 @@
 | 261 | 720 | Saucy Wipepiece |
 | 262 | 719 | Logan Two-dubs Baker |
 | 263 | 713 | Jewelz |
-| 264 | 708 | Iforget |
+| 264 | 711 | Iforget |
 | 265 | 706 | Toon Up |
 | 266 | 704 | Caitlyn Wang |
 | 267 | 701 | Ross Bryant |
@@ -314,14 +314,14 @@
 | 306 | 611 | Hen |
 | 307 | 610 | Tipsy Builderline |
 | 308 | 608 | Dae Von |
-| 309 | 607 | Taz |
-| 310 | 606 | Andrick |
-| 311 | 606 | Speedy Twistslam |
-| 312 | 603 | Cherrel M. Causey |
-| 313 | 603 | Goofy Riser |
-| 314 | 599 | Kea Sushi |
-| 315 | 598 | Stephanie Myers |
-| 316 | 598 | Jojo Ann |
+| 309 | 608 | Jojo Ann |
+| 310 | 607 | Taz |
+| 311 | 606 | Andrick |
+| 312 | 606 | Speedy Twistslam |
+| 313 | 603 | Cherrel M. Causey |
+| 314 | 603 | Goofy Riser |
+| 315 | 599 | Kea Sushi |
+| 316 | 598 | Stephanie Myers |
 | 317 | 596 | Shanae Taylor |
 | 318 | 595 | Julian Gasque |
 | 319 | 595 | tigerlilly |
@@ -433,7 +433,7 @@
 | 425 | 459 | Cheeky Fallzone |
 | 426 | 458 | Solace Grace |
 | 427 | 458 | Jumpy Clearbuilder |
-| 428 | 454 | Jumpy Builderpiece |
+| 428 | 457 | Jumpy Builderpiece |
 | 429 | 449 | Karen Small |
 | 430 | 448 | Dizzy Slammer |
 | 431 | 448 | Holly Bramel |
@@ -758,12 +758,12 @@
 | 750 | 270 | Dawn Renee Thomas |
 | 751 | 270 | Carissa Thorne-See |
 | 752 | 270 | Loretta Hendricks |
-| 753 | 269 | Chelle Williams |
-| 754 | 268 | bribop |
-| 755 | 268 | Andreas Vs Shinky |
-| 756 | 268 | Sunny Tiltbuilder |
-| 757 | 267 | Budda Huitt |
-| 758 | 267 | Sassy Frame |
+| 753 | 269 | Sassy Frame |
+| 754 | 269 | Chelle Williams |
+| 755 | 268 | bribop |
+| 756 | 268 | Andreas Vs Shinky |
+| 757 | 268 | Sunny Tiltbuilder |
+| 758 | 267 | Budda Huitt |
 | 759 | 267 | aga |
 | 760 | 266 | Khiem Hernandez |
 | 761 | 266 | Trishaann Triplett |
@@ -1816,43 +1816,43 @@
 | 1808 | 55 | Jess Moore |
 | 1809 | 55 | Jewel Steele |
 | 1810 | 55 | The Jazziest |
-| 1811 | 54 | Janie Burris |
-| 1812 | 54 | Jason Benitez |
-| 1813 | 54 | Shannon Quinn-ayala |
-| 1814 | 54 | MaximalBoss24 |
+| 1811 | 54 | Toya Rimson |
+| 1812 | 54 | MaximalBoss24 |
+| 1813 | 54 | Jason Benitez |
+| 1814 | 54 | Shannon Quinn-ayala |
 | 1815 | 54 | Jimmy Redding |
-| 1816 | 54 | Toya Rimson |
+| 1816 | 54 | Janie Burris |
 | 1817 | 54 | Cole Ni |
-| 1818 | 54 | tmnt |
-| 1819 | 54 | kilo |
+| 1818 | 54 | kilo |
+| 1819 | 54 | tmnt |
 | 1820 | 54 | Harpreet Rojas |
 | 1821 | 54 | Kaylynn Hareland |
 | 1822 | 54 | Susan Gusso Peterson |
 | 1823 | 53 | Mike |
-| 1824 | 53 | Warrenlee Harris |
-| 1825 | 53 | Shawna Bell |
-| 1826 | 53 | Zippy Jumper |
-| 1827 | 53 | Antoine Eugene |
-| 1828 | 53 | Amber Terry |
-| 1829 | 53 | Artful*0* |
-| 1830 | 53 | Sunshine Dreamchaser Whitfield |
-| 1831 | 53 | Jaison Horton |
-| 1832 | 52 | Air1 |
-| 1833 | 52 | Christa McPherson Pennington |
-| 1834 | 52 | Chill Slider |
-| 1835 | 52 | Lively Linkroll |
+| 1824 | 53 | Lively Linkroll |
+| 1825 | 53 | Warrenlee Harris |
+| 1826 | 53 | Shawna Bell |
+| 1827 | 53 | Zippy Jumper |
+| 1828 | 53 | Antoine Eugene |
+| 1829 | 53 | Amber Terry |
+| 1830 | 53 | Artful*0* |
+| 1831 | 53 | Sunshine Dreamchaser Whitfield |
+| 1832 | 53 | Jaison Horton |
+| 1833 | 52 | Air1 |
+| 1834 | 52 | Christa McPherson Pennington |
+| 1835 | 52 | Chill Slider |
 | 1836 | 52 | Vv |
 | 1837 | 52 | Cat |
 | 1838 | 52 | Erica Pinneo |
 | 1839 | 52 | Dougieanna |
-| 1840 | 52 | Domenique Wilson |
-| 1841 | 52 | Christina Neville |
+| 1840 | 52 | Christina Neville |
+| 1841 | 52 | Domenique Wilson |
 | 1842 | 52 | Jackie Jones |
 | 1843 | 52 | Ruthless8 |
-| 1844 | 51 | Danielle Clutter |
-| 1845 | 51 | DTM0013 |
-| 1846 | 51 | Gareth |
-| 1847 | 51 | Breezy Clusterfit |
+| 1844 | 51 | Gareth |
+| 1845 | 51 | Danielle Clutter |
+| 1846 | 51 | Breezy Clusterfit |
+| 1847 | 51 | DTM0013 |
 | 1848 | 51 | Shatika Wallace |
 | 1849 | 51 | Midwest MlLF |
 | 1850 | 51 | Sharron Mullins |
