@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 12:02:42 UTC
+# Standings for team2 as of 2026-06-11 12:03:20 UTC
 
 **Total Participants:** 2952
 
@@ -994,14 +994,14 @@
 | 986 | 232 | Tammy Roth |
 | 987 | 231 | Berta Hurley |
 | 988 | 231 | Jolly Builderpiece |
-| 989 | 231 | Loony Clearpiece |
-| 990 | 230 | Crystal Logan |
-| 991 | 230 | Sara Moericke |
-| 992 | 229 | Tabitha Ann Bullins-Cobb |
-| 993 | 229 | Fluffypuffin |
-| 994 | 228 | Kylee Pruitt |
-| 995 | 228 | Jennifer Bromeisl-Tettam |
-| 996 | 228 | zippity |
+| 989 | 231 | zippity |
+| 990 | 231 | Loony Clearpiece |
+| 991 | 230 | Crystal Logan |
+| 992 | 230 | Sara Moericke |
+| 993 | 229 | Tabitha Ann Bullins-Cobb |
+| 994 | 229 | Fluffypuffin |
+| 995 | 228 | Kylee Pruitt |
+| 996 | 228 | Jennifer Bromeisl-Tettam |
 | 997 | 228 | Lisa Chapman |
 | 998 | 228 | Michele Plunkett |
 | 999 | 227 | James Maness |
