@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 21:06:46 UTC
+# Standings for team1 as of 2026-06-11 21:07:23 UTC
 
 **Total Participants:** 2535
 
@@ -174,10 +174,10 @@
 | 166 | 1117 | Eartha Brown |
 | 167 | 1112 | Crystal Anderson |
 | 168 | 1107 | Katherine Short |
-| 169 | 1100 | Nerdy Blockpiece |
-| 170 | 1099 | Dee McCool |
-| 171 | 1097 | De'Laonzeo Anthony |
-| 172 | 1089 | Jaida De'Anne Cox |
+| 169 | 1104 | Jaida De'Anne Cox |
+| 170 | 1100 | Nerdy Blockpiece |
+| 171 | 1099 | Dee McCool |
+| 172 | 1097 | De'Laonzeo Anthony |
 | 173 | 1078 | Quirky Fallgrid |
 | 174 | 1073 | Rackemwillie34 |
 | 175 | 1068 | Cece Fowler |
@@ -554,13 +554,13 @@
 | 546 | 380 | Slinky Swipe |
 | 547 | 380 | Giggy Edgefit |
 | 548 | 380 | Daniel Santana |
-| 549 | 379 | Shakmar |
-| 550 | 378 | Kat |
-| 551 | 378 | Jolly Tilefall |
-| 552 | 377 | Vera Beckford |
-| 553 | 376 | Skippy |
-| 554 | 375 | Christi Walker Patton |
-| 555 | 375 | Lady T |
+| 549 | 379 | Lady T |
+| 550 | 379 | Shakmar |
+| 551 | 378 | Kat |
+| 552 | 378 | Jolly Tilefall |
+| 553 | 377 | Vera Beckford |
+| 554 | 376 | Skippy |
+| 555 | 375 | Christi Walker Patton |
 | 556 | 374 | AnnaM |
 | 557 | 373 | Falisa Bell |
 | 558 | 372 | Casey Chapman |
@@ -1235,62 +1235,62 @@
 | 1227 | 131 | XYZ |
 | 1228 | 131 | Jose Antonio Villot |
 | 1229 | 131 | Daring Linkfall |
-| 1230 | 130 | Jessica Davis |
-| 1231 | 130 | kingbrook |
-| 1232 | 130 | Juppi |
-| 1233 | 130 | Hoppy Towerfall |
-| 1234 | 130 | jac |
-| 1235 | 130 | Tez Mays |
-| 1236 | 129 | Tomme Poliwka |
-| 1237 | 129 | Ounquan Wright |
-| 1238 | 129 | Chino Baby |
-| 1239 | 128 | Keia Price |
-| 1240 | 128 | Brittany Britkany Marsden-Garrison |
-| 1241 | 128 | Alonzo Kirkland |
-| 1242 | 128 | Bouncy Blockclear |
-| 1243 | 128 | Richard Harper |
-| 1244 | 128 | Hyper Patternline |
-| 1245 | 128 | Desi |
-| 1246 | 128 | Lazy Matchgrid |
-| 1247 | 128 | Wacky Spinfit |
+| 1230 | 131 | Bouncy Blockclear |
+| 1231 | 130 | Jessica Davis |
+| 1232 | 130 | kingbrook |
+| 1233 | 130 | Juppi |
+| 1234 | 130 | Hoppy Towerfall |
+| 1235 | 130 | jac |
+| 1236 | 130 | Tez Mays |
+| 1237 | 129 | Tomme Poliwka |
+| 1238 | 129 | Ounquan Wright |
+| 1239 | 129 | Chino Baby |
+| 1240 | 128 | Hyper Patternline |
+| 1241 | 128 | Brittany Britkany Marsden-Garrison |
+| 1242 | 128 | Lazy Matchgrid |
+| 1243 | 128 | Wacky Spinfit |
+| 1244 | 128 | Desi |
+| 1245 | 128 | Keia Price |
+| 1246 | 128 | Alonzo Kirkland |
+| 1247 | 128 | Richard Harper |
 | 1248 | 127 | Sonia Binti Mfalme |
-| 1249 | 127 | Derek Beverly |
+| 1249 | 127 | Pretty Yella |
 | 1250 | 127 | Antoinette GallowayJohnson |
-| 1251 | 127 | Pretty Yella |
-| 1252 | 127 | Nissa |
-| 1253 | 127 | Tiffany Weathersby |
-| 1254 | 127 | Thelma Samuels |
-| 1255 | 126 | Jeremy Hendrix |
+| 1251 | 127 | Tiffany Weathersby |
+| 1252 | 127 | Derek Beverly |
+| 1253 | 127 | Thelma Samuels |
+| 1254 | 127 | Nissa |
+| 1255 | 126 | Jason Riley |
 | 1256 | 126 | Shannon Bradley |
-| 1257 | 126 | Jason Riley |
-| 1258 | 125 | Rande Smith |
-| 1259 | 125 | Bruce Paléncia |
-| 1260 | 125 | Kayd |
-| 1261 | 124 | Sugar Foot |
-| 1262 | 124 | Andrew Harris |
-| 1263 | 124 | Bold Spinblock |
+| 1257 | 126 | Jeremy Hendrix |
+| 1258 | 125 | Kayd |
+| 1259 | 125 | Rande Smith |
+| 1260 | 125 | Bruce Paléncia |
+| 1261 | 124 | Grant Wilson |
+| 1262 | 124 | Tani |
+| 1263 | 124 | Douglas Jones |
 | 1264 | 124 | jasi |
-| 1265 | 124 | Douglas Jones |
-| 1266 | 124 | Grant Wilson |
+| 1265 | 124 | Sugar Foot |
+| 1266 | 124 | Andrew Harris |
 | 1267 | 124 | Giggy Brickfit |
-| 1268 | 124 | Tani |
-| 1269 | 123 | BigMike |
-| 1270 | 123 | LaMinda Todd |
-| 1271 | 123 | Tia Hazelton |
-| 1272 | 123 | Emary Alarcon |
-| 1273 | 122 | LaTonya Rivers |
-| 1274 | 122 | Spicy Hedgehog |
-| 1275 | 122 | Bluebino |
+| 1268 | 124 | Bold Spinblock |
+| 1269 | 123 | Tia Hazelton |
+| 1270 | 123 | BigMike |
+| 1271 | 123 | Emary Alarcon |
+| 1272 | 123 | LaMinda Todd |
+| 1273 | 122 | Spicy Hedgehog |
+| 1274 | 122 | Tagashel Gotuwe |
+| 1275 | 122 | Amanda Colwell |
 | 1276 | 122 | Nichole Horsley-Conn |
-| 1277 | 122 | Tagashel Gotuwe |
-| 1278 | 122 | Amanda Colwell |
-| 1279 | 122 | Nick Stowers |
-| 1280 | 122 | Silly Shatterline |
+| 1277 | 122 | LaTonya Rivers |
+| 1278 | 122 | Bluebino |
+| 1279 | 122 | Silly Shatterline |
+| 1280 | 122 | Nick Stowers |
 | 1281 | 121 | Kevin Turner |
 | 1282 | 120 | Tiffany Thompson |
 | 1283 | 120 | Yolanda Sadler |
-| 1284 | 120 | Jamie Mclean |
-| 1285 | 120 | Erica Wells |
+| 1284 | 120 | Erica Wells |
+| 1285 | 120 | Jamie Mclean |
 | 1286 | 120 | Spunky Strikerbuilder |
 | 1287 | 120 | Linzi Cole |
 | 1288 | 120 | Demi Ovalle |
@@ -1310,27 +1310,27 @@
 | 1302 | 118 | Shanna Green Williams |
 | 1303 | 118 | Giggy Rollfit |
 | 1304 | 118 | Michelle Dollah |
-| 1305 | 117 | Andrea Jackson |
-| 1306 | 117 | Bohdi |
+| 1305 | 117 | Bohdi |
+| 1306 | 117 | Andrea Jackson |
 | 1307 | 117 | Cheery Clusterbuilder |
-| 1308 | 116 | Tonya Carroll |
+| 1308 | 116 | OG LUCKY |
 | 1309 | 116 | Demetrice Buck Wilson |
 | 1310 | 116 | Cozy Balancefit |
-| 1311 | 116 | Jenni |
-| 1312 | 116 | Silly Spinblock |
-| 1313 | 116 | Jeffrey Pierce-Overton |
-| 1314 | 116 | Jeremy Pope |
-| 1315 | 116 | Amanda Bell |
-| 1316 | 116 | Elizabeth Green |
-| 1317 | 115 | WOOLFF |
-| 1318 | 115 | Bruce Leroy |
-| 1319 | 115 | Swanky Riserfit |
-| 1320 | 115 | Shiny Lift |
-| 1321 | 114 | Pharen Oneofakind Frazier |
-| 1322 | 114 | Elizabeth Clara |
-| 1323 | 114 | Dandy Shatterer |
-| 1324 | 113 | Sha Anderson |
-| 1325 | 113 | OG LUCKY |
+| 1311 | 116 | Tonya Carroll |
+| 1312 | 116 | Jenni |
+| 1313 | 116 | Silly Spinblock |
+| 1314 | 116 | Jeffrey Pierce-Overton |
+| 1315 | 116 | Jeremy Pope |
+| 1316 | 116 | Amanda Bell |
+| 1317 | 116 | Elizabeth Green |
+| 1318 | 115 | WOOLFF |
+| 1319 | 115 | Bruce Leroy |
+| 1320 | 115 | Swanky Riserfit |
+| 1321 | 115 | Shiny Lift |
+| 1322 | 114 | Pharen Oneofakind Frazier |
+| 1323 | 114 | Elizabeth Clara |
+| 1324 | 114 | Dandy Shatterer |
+| 1325 | 113 | Sha Anderson |
 | 1326 | 113 | Leiacellaa23 |
 | 1327 | 112 | GamerQueenDS |
 | 1328 | 112 | Embracing Hair |

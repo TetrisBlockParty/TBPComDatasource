@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 21:06:46 UTC
+# Standings for team4 as of 2026-06-11 21:07:23 UTC
 
 **Total Participants:** 2586
 
@@ -207,13 +207,13 @@
 | 199 | 964 | Cranky Towerbuilder |
 | 200 | 963 | Hwanger Land |
 | 201 | 960 | Tasha Suzanne Prisbrey |
-| 202 | 952 | Alala.Cersei |
-| 203 | 950 | Nicole Peoples |
-| 204 | 950 | Joyce Myers |
-| 205 | 946 | Lori Stembridge |
-| 206 | 944 | vag1974 |
-| 207 | 942 | Lynn Grimes |
-| 208 | 934 | Gracie Ornelas |
+| 202 | 954 | Gracie Ornelas |
+| 203 | 952 | Alala.Cersei |
+| 204 | 950 | Nicole Peoples |
+| 205 | 950 | Joyce Myers |
+| 206 | 946 | Lori Stembridge |
+| 207 | 944 | vag1974 |
+| 208 | 942 | Lynn Grimes |
 | 209 | 932 | Dandy Clearfit |
 | 210 | 928 | Bonnie Powell |
 | 211 | 923 | Roxana Romero |
@@ -333,7 +333,7 @@
 | 325 | 592 | Sarah Berry Stevens |
 | 326 | 590 | Chummy Jumper |
 | 327 | 590 | Funky Riserpiece |
-| 328 | 586 | Groovy Towerbuilder |
+| 328 | 587 | Groovy Towerbuilder |
 | 329 | 583 | Chirpy Link |
 | 330 | 581 | Danny Ortiz |
 | 331 | 581 | Maria Castillo |
