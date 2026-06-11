@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 07:36:48 UTC
+# Standings for team4 as of 2026-06-11 07:37:23 UTC
 
 **Total Participants:** 2497
 
@@ -346,10 +346,10 @@
 | 338 | 505 | Sassy Rollpiece |
 | 339 | 505 | Patrick Alley |
 | 340 | 504 | Speedy Twistslam |
-| 341 | 501 | Breezy Blockzone |
-| 342 | 500 | Pepper |
-| 343 | 500 | June Hoffman |
-| 344 | 499 | Funky Tiler |
+| 341 | 501 | Funky Tiler |
+| 342 | 501 | Breezy Blockzone |
+| 343 | 500 | Pepper |
+| 344 | 500 | June Hoffman |
 | 345 | 498 | Anna Gribble |
 | 346 | 498 | Maurice DeJean |
 | 347 | 496 | Troy Zanelli |
@@ -598,14 +598,14 @@
 | 590 | 315 | tj |
 | 591 | 315 | Travis McKinnon |
 | 592 | 315 | Perry Ransom |
-| 593 | 314 | Ginny |
-| 594 | 313 | Scrumptious |
-| 595 | 313 | Gigi Ivicsics |
-| 596 | 312 | Justin Sercu |
-| 597 | 312 | Shaneé Staunton |
-| 598 | 312 | shonaberry |
-| 599 | 312 | Jj Johnson |
-| 600 | 311 | Lisa Pie |
+| 593 | 314 | Lisa Pie |
+| 594 | 314 | Ginny |
+| 595 | 313 | Scrumptious |
+| 596 | 313 | Gigi Ivicsics |
+| 597 | 312 | Justin Sercu |
+| 598 | 312 | Shaneé Staunton |
+| 599 | 312 | shonaberry |
+| 600 | 312 | Jj Johnson |
 | 601 | 311 | Nicole Colby McCloskey |
 | 602 | 311 | LeRoy jenkins |
 | 603 | 309 | Mammoth |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:36:48 UTC
+# Standings for team1 as of 2026-06-11 07:37:23 UTC
 
 **Total Participants:** 2459
 
@@ -1386,22 +1386,22 @@
 | 1378 | 91 | Nicki JTho |
 | 1379 | 91 | Ginna |
 | 1380 | 91 | Princess Nevaeh |
-| 1381 | 91 | Jose Antonio Villot |
-| 1382 | 91 | Denise Batt Brown |
-| 1383 | 90 | Smiley Glider |
-| 1384 | 90 | Trixie |
-| 1385 | 90 | Nigel Snyder |
-| 1386 | 90 | Harriet |
-| 1387 | 90 | Groovy Gridzone |
-| 1388 | 90 | Babette Estep |
-| 1389 | 90 | Hoppy Snapper |
-| 1390 | 90 | Lisa Y. Bell-Harvey |
-| 1391 | 90 | Andrea Watts |
-| 1392 | 90 | Akee Mosley |
-| 1393 | 89 | Idelia L Brown |
-| 1394 | 89 | Nancy Hartzell |
-| 1395 | 89 | JoZanna Washington |
-| 1396 | 89 | Lora Lee |
+| 1381 | 91 | Denise Batt Brown |
+| 1382 | 91 | Jose Antonio Villot |
+| 1383 | 90 | Lora Lee |
+| 1384 | 90 | Smiley Glider |
+| 1385 | 90 | Hoppy Snapper |
+| 1386 | 90 | Akee Mosley |
+| 1387 | 90 | Andrea Watts |
+| 1388 | 90 | Lisa Y. Bell-Harvey |
+| 1389 | 90 | Babette Estep |
+| 1390 | 90 | Groovy Gridzone |
+| 1391 | 90 | Harriet |
+| 1392 | 90 | Nigel Snyder |
+| 1393 | 90 | Trixie |
+| 1394 | 89 | Idelia L Brown |
+| 1395 | 89 | Nancy Hartzell |
+| 1396 | 89 | JoZanna Washington |
 | 1397 | 89 | Bobby Chestefield |
 | 1398 | 89 | Mighty Riserbuilder |
 | 1399 | 88 | Ayanna James |
