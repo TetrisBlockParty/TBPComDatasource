@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 05:56:46 UTC
+# Standings for team4 as of 2026-06-11 05:57:23 UTC
 
 **Total Participants:** 2480
 
@@ -1159,10 +1159,10 @@
 | 1151 | 143 | Michelle Wiles |
 | 1152 | 143 | Kriss Owens Uptegrove |
 | 1153 | 143 | Natisha Bullock |
-| 1154 | 142 | Mandi Rexroat |
-| 1155 | 142 | Clever Blockmatch |
-| 1156 | 142 | Gwendolyn Langwinski |
-| 1157 | 142 | Jonathan Jackson |
+| 1154 | 142 | Clever Blockmatch |
+| 1155 | 142 | Gwendolyn Langwinski |
+| 1156 | 142 | Jonathan Jackson |
+| 1157 | 142 | Mandi Rexroat |
 | 1158 | 142 | Darren Miguel |
 | 1159 | 142 | Theo Stamps |
 | 1160 | 142 | Meghan Etchells |
@@ -1172,19 +1172,19 @@
 | 1164 | 141 | Monkey |
 | 1165 | 141 | Audrianna Skaff |
 | 1166 | 141 | Aaron Turner |
-| 1167 | 140 | Michelle Clark |
-| 1168 | 140 | John Henry |
-| 1169 | 140 | Groovy Matchgrid |
-| 1170 | 140 | NotAkaren Barker |
-| 1171 | 140 | Willy Leung |
+| 1167 | 140 | NotAkaren Barker |
+| 1168 | 140 | Michelle Clark |
+| 1169 | 140 | John Henry |
+| 1170 | 140 | Willy Leung |
+| 1171 | 140 | Groovy Matchgrid |
 | 1172 | 140 | skynatda |
 | 1173 | 140 | Alicia Horsea Rojas |
 | 1174 | 140 | Tiffy |
 | 1175 | 140 | Crystal Parker Bryant |
 | 1176 | 139 | Erich EMac McIntosh |
 | 1177 | 139 | DNA |
-| 1178 | 139 | Geneva Mixon |
-| 1179 | 139 | da1ndonly |
+| 1178 | 139 | da1ndonly |
+| 1179 | 139 | Geneva Mixon |
 | 1180 | 139 | Hayze |
 | 1181 | 138 | Perky Balanceblock |
 | 1182 | 138 | Ami Ferguson |
@@ -1193,48 +1193,48 @@
 | 1185 | 138 | Tammy Lasseigne |
 | 1186 | 138 | Tommy Thomas |
 | 1187 | 137 | Shannon Lee |
-| 1188 | 136 | Selina Moore |
-| 1189 | 136 | Oscar Flores |
+| 1188 | 136 | Oscar Flores |
+| 1189 | 136 | Selina Moore |
 | 1190 | 136 | Nykell Sturdivant |
 | 1191 | 136 | Crystal Morrin |
-| 1192 | 135 | Yam My |
-| 1193 | 135 | Misty Harland |
-| 1194 | 135 | Jennifer Terrill |
-| 1195 | 134 | Kena T. Tanner |
-| 1196 | 134 | Heather Cross High |
+| 1192 | 135 | Danielle Porter |
+| 1193 | 135 | Yam My |
+| 1194 | 135 | Misty Harland |
+| 1195 | 135 | Jennifer Terrill |
+| 1196 | 134 | Kena T. Tanner |
 | 1197 | 134 | Goofy Twistpiece |
-| 1198 | 134 | Chummy Twistpiece |
-| 1199 | 133 | pisces26luna |
-| 1200 | 133 | Wayne Hendricks |
-| 1201 | 133 | taya |
-| 1202 | 132 | Jarad Glover |
-| 1203 | 132 | Giggly Gridzone |
-| 1204 | 131 | Pink Tetramino |
-| 1205 | 131 | Dominique Miesha Smith |
-| 1206 | 131 | Melissa Abigail |
+| 1198 | 134 | Heather Cross High |
+| 1199 | 134 | Chummy Twistpiece |
+| 1200 | 133 | pisces26luna |
+| 1201 | 133 | Wayne Hendricks |
+| 1202 | 133 | taya |
+| 1203 | 132 | Jarad Glover |
+| 1204 | 132 | Giggly Gridzone |
+| 1205 | 131 | Pink Tetramino |
+| 1206 | 131 | Dominique Miesha Smith |
 | 1207 | 131 | Tracey Hudspath |
-| 1208 | 129 | Vlad Rudman |
-| 1209 | 129 | Quiles Yaitza |
-| 1210 | 129 | Dsay Yates |
-| 1211 | 129 | Daffney Starr |
-| 1212 | 129 | Crystal M. Torres |
-| 1213 | 129 | Peachy Piecefit |
-| 1214 | 128 | Fancy Curvetile |
+| 1208 | 131 | Melissa Abigail |
+| 1209 | 129 | Crystal M. Torres |
+| 1210 | 129 | Daffney Starr |
+| 1211 | 129 | Dsay Yates |
+| 1212 | 129 | Vlad Rudman |
+| 1213 | 129 | Quiles Yaitza |
+| 1214 | 129 | Peachy Piecefit |
 | 1215 | 128 | Kami |
 | 1216 | 128 | Ksawn Collymore-bey Collymore-bey |
-| 1217 | 127 | Lola |
-| 1218 | 127 | Jace Warren |
-| 1219 | 127 | Sandra O'Reilly |
-| 1220 | 127 | Cail |
-| 1221 | 127 | Cheeky Climber |
-| 1222 | 126 | Swanky Matchfit |
-| 1223 | 126 | Seraphina |
-| 1224 | 126 | Tiffany Taylor |
-| 1225 | 126 | Chipper Fitblock |
-| 1226 | 126 | Tiffany Roberts |
-| 1227 | 125 | Danielle Porter |
-| 1228 | 125 | Mandie Torres |
-| 1229 | 125 | CharmingS |
+| 1217 | 128 | Fancy Curvetile |
+| 1218 | 127 | Lola |
+| 1219 | 127 | Jace Warren |
+| 1220 | 127 | Sandra O'Reilly |
+| 1221 | 127 | Cail |
+| 1222 | 127 | Cheeky Climber |
+| 1223 | 126 | Swanky Matchfit |
+| 1224 | 126 | Seraphina |
+| 1225 | 126 | Tiffany Taylor |
+| 1226 | 126 | Chipper Fitblock |
+| 1227 | 126 | Tiffany Roberts |
+| 1228 | 125 | CharmingS |
+| 1229 | 125 | Mandie Torres |
 | 1230 | 125 | Jailen Harper |
 | 1231 | 125 | Amanda |
 | 1232 | 125 | Youngkueen |
@@ -1249,8 +1249,8 @@
 | 1241 | 124 | Emjae Tupaz-Rivera |
 | 1242 | 124 | E money |
 | 1243 | 124 | LuLazer27 |
-| 1244 | 123 | Angela Ward |
-| 1245 | 123 | Joshua Conwell |
+| 1244 | 123 | Joshua Conwell |
+| 1245 | 123 | Angela Ward |
 | 1246 | 123 | Hhs Ffchh |
 | 1247 | 123 | Myranda Gereau |
 | 1248 | 123 | Esmond Johnson IV |
@@ -1267,16 +1267,16 @@
 | 1259 | 120 | Pap337 |
 | 1260 | 120 | Cranky Twistpiece |
 | 1261 | 120 | Corissa Handy |
-| 1262 | 120 | Hyper Snaplink |
-| 1263 | 120 | Lauren Zubia Sanchez |
+| 1262 | 120 | Lauren Zubia Sanchez |
+| 1263 | 120 | Hyper Snaplink |
 | 1264 | 120 | Giggy Splitter |
 | 1265 | 120 | Abraham Ch |
 | 1266 | 120 | Leigh Burton |
 | 1267 | 120 | Jeffrey Mann |
 | 1268 | 120 | Sparky Rose |
 | 1269 | 120 | Mike Zec II |
-| 1270 | 119 | Shane Tate |
-| 1271 | 119 | Mighty Clicky |
+| 1270 | 119 | Mighty Clicky |
+| 1271 | 119 | Shane Tate |
 | 1272 | 119 | Heather Hilferty |
 | 1273 | 119 | Destiny Georgia Reeves Beller |
 | 1274 | 118 | EmBem |
