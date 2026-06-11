@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 05:24:49 UTC
+# Standings for team4 as of 2026-06-11 05:25:25 UTC
 
 **Total Participants:** 2477
 
@@ -16,7 +16,7 @@
 | 8 | 11833 | Candice Driver |
 | 9 | 11639 | BertaF1irta |
 | 10 | 11215 | Cinny |
-| 11 | 10353 | Jennifer Edgell Richardson |
+| 11 | 10379 | Jennifer Edgell Richardson |
 | 12 | 10201 | Kait Confetti |
 | 13 | 9749 | ktothet |
 | 14 | 9716 | t |
@@ -747,85 +747,85 @@
 | 739 | 246 | KingCas |
 | 740 | 245 | 1694AF |
 | 741 | 244 | Poppy Snapfall |
-| 742 | 244 | Maliyah An |
-| 743 | 244 | Chilly Pop |
+| 742 | 244 | Chilly Pop |
+| 743 | 244 | Maliyah An |
 | 744 | 244 | Brandi Gray |
 | 745 | 244 | Paula Renee McCracken |
 | 746 | 243 | Brandy Lynn |
 | 747 | 242 | MrLoner Stoner |
-| 748 | 241 | Loony Edge |
-| 749 | 241 | Kasey Lynne |
-| 750 | 241 | Allysonjo Varela |
-| 751 | 241 | Tamara Gay |
-| 752 | 241 | Mrsjcraw18 |
-| 753 | 241 | Memphiago Tenninois |
-| 754 | 241 | Goofy Strike |
-| 755 | 240 | Lori Lynn |
+| 748 | 242 | Dandy Linkgrid |
+| 749 | 241 | Tamara Gay |
+| 750 | 241 | Mrsjcraw18 |
+| 751 | 241 | Memphiago Tenninois |
+| 752 | 241 | Goofy Strike |
+| 753 | 241 | Loony Edge |
+| 754 | 241 | Kasey Lynne |
+| 755 | 241 | Allysonjo Varela |
 | 756 | 240 | Nerdy Brickster |
-| 757 | 239 | Chelle Williams |
-| 758 | 238 | Capt'n Crunch |
-| 759 | 238 | Tara Delay Hill |
-| 760 | 238 | Mint Marquez |
-| 761 | 237 | Erica Pompey |
-| 762 | 237 | Alicia Blunt |
-| 763 | 237 | Amber Jalbert |
-| 764 | 237 | Samantha Lohmeyer |
-| 765 | 236 | Weird Cat |
-| 766 | 236 | Niki Bastianelli |
-| 767 | 236 | Ashley DuVall |
-| 768 | 236 | Trang Nguyen |
-| 769 | 236 | Domo Dpn |
-| 770 | 236 | GETBOXED! |
-| 771 | 236 | chuck |
-| 772 | 236 | Deana Teck |
-| 773 | 235 | Laryssia Taylor |
-| 774 | 235 | Christy Petty |
-| 775 | 235 | Simone |
-| 776 | 235 | Reina Pagan |
-| 777 | 235 | Khiem Hernandez |
-| 778 | 234 | Ajohnna Frazee |
-| 779 | 234 | Alizabeth Garcia |
-| 780 | 234 | SuperJen |
-| 781 | 233 | Stefanie Street |
-| 782 | 232 | Masiso |
-| 783 | 231 | Lora Schallert |
+| 757 | 240 | Lori Lynn |
+| 758 | 239 | Chelle Williams |
+| 759 | 238 | Capt'n Crunch |
+| 760 | 238 | Tara Delay Hill |
+| 761 | 238 | Mint Marquez |
+| 762 | 237 | Erica Pompey |
+| 763 | 237 | Samantha Lohmeyer |
+| 764 | 237 | Amber Jalbert |
+| 765 | 237 | Alicia Blunt |
+| 766 | 236 | Weird Cat |
+| 767 | 236 | Niki Bastianelli |
+| 768 | 236 | Ashley DuVall |
+| 769 | 236 | Trang Nguyen |
+| 770 | 236 | Domo Dpn |
+| 771 | 236 | GETBOXED! |
+| 772 | 236 | chuck |
+| 773 | 236 | Deana Teck |
+| 774 | 235 | Laryssia Taylor |
+| 775 | 235 | Christy Petty |
+| 776 | 235 | Simone |
+| 777 | 235 | Reina Pagan |
+| 778 | 235 | Khiem Hernandez |
+| 779 | 234 | Ajohnna Frazee |
+| 780 | 234 | Alizabeth Garcia |
+| 781 | 234 | SuperJen |
+| 782 | 233 | Stefanie Street |
+| 783 | 232 | Masiso |
 | 784 | 231 | Poseidon S Davenport |
-| 785 | 231 | Mighty Dash |
-| 786 | 231 | Angela Adamo-Tash |
-| 787 | 231 | Ricky Colvin |
-| 788 | 231 | Butterpat |
-| 789 | 231 | Janae Harris |
-| 790 | 230 | Breezy Brickline |
-| 791 | 230 | Clever Blockbuilder |
-| 792 | 229 | Marcus Chavis |
-| 793 | 229 | Squiggy |
-| 794 | 229 | Lizzzzzz |
-| 795 | 229 | Surviving Be Back Soon |
-| 796 | 228 | Gma420 |
-| 797 | 228 | Happy Strikerpiece |
-| 798 | 228 | Tonia Kay |
-| 799 | 227 | Tre'nya Smith |
-| 800 | 227 | Noa Lee |
-| 801 | 227 | Alaina Rousseau |
-| 802 | 227 | Tactical_B |
-| 803 | 226 | Buddyblock |
-| 804 | 226 | Scarlett Ashley Clark |
-| 805 | 226 | Carlos Amaya |
-| 806 | 226 | Steve Foster |
-| 807 | 225 | Sunny Tiltbuilder |
-| 808 | 225 | Elisha Thompson |
+| 785 | 231 | Lora Schallert |
+| 786 | 231 | Mighty Dash |
+| 787 | 231 | Angela Adamo-Tash |
+| 788 | 231 | Ricky Colvin |
+| 789 | 231 | Butterpat |
+| 790 | 231 | Janae Harris |
+| 791 | 230 | Breezy Brickline |
+| 792 | 230 | Clever Blockbuilder |
+| 793 | 229 | Marcus Chavis |
+| 794 | 229 | Squiggy |
+| 795 | 229 | Lizzzzzz |
+| 796 | 229 | Surviving Be Back Soon |
+| 797 | 228 | Gma420 |
+| 798 | 228 | Happy Strikerpiece |
+| 799 | 228 | Tonia Kay |
+| 800 | 227 | Tre'nya Smith |
+| 801 | 227 | Noa Lee |
+| 802 | 227 | Alaina Rousseau |
+| 803 | 227 | Tactical_B |
+| 804 | 226 | Buddyblock |
+| 805 | 226 | Steve Foster |
+| 806 | 226 | Scarlett Ashley Clark |
+| 807 | 226 | Carlos Amaya |
+| 808 | 225 | Sunny Tiltbuilder |
 | 809 | 225 | Helen Bradley |
-| 810 | 225 | Rose Anna Safi |
-| 811 | 224 | Tracy Marino |
+| 810 | 225 | Elisha Thompson |
+| 811 | 225 | Rose Anna Safi |
 | 812 | 224 | Japexican Strong |
-| 813 | 223 | Debby Muniz |
-| 814 | 223 | Alexis Siefker |
-| 815 | 223 | Bigmamalizzet Latto |
-| 816 | 222 | Maria Munoz |
-| 817 | 221 | Abby Waterman |
-| 818 | 220 | Marie Adkins |
-| 819 | 220 | Sha Ta Nay Mitchell |
-| 820 | 220 | Dandy Linkgrid |
+| 813 | 224 | Tracy Marino |
+| 814 | 223 | Bigmamalizzet Latto |
+| 815 | 223 | Alexis Siefker |
+| 816 | 223 | Debby Muniz |
+| 817 | 222 | Maria Munoz |
+| 818 | 221 | Abby Waterman |
+| 819 | 220 | Marie Adkins |
+| 820 | 220 | Sha Ta Nay Mitchell |
 | 821 | 220 | Charlene Nicole Guidry |
 | 822 | 220 | Millie Hoskins |
 | 823 | 220 | Jay Keating |
