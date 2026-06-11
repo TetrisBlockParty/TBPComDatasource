@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 06:42:47 UTC
+# Standings for team4 as of 2026-06-11 06:43:20 UTC
 
 **Total Participants:** 2490
 
@@ -108,7 +108,7 @@
 | 100 | 1616 | Giggy Matchpiece |
 | 101 | 1593 | Jeremy Lopez |
 | 102 | 1591 | Sean Mccleary |
-| 103 | 1555 | Neeta Kapadia |
+| 103 | 1560 | Neeta Kapadia |
 | 104 | 1521 | Leslie Ann Carter |
 | 105 | 1464 | squareMel |
 | 106 | 1442 | Kelley Roach |
@@ -232,12 +232,12 @@
 | 224 | 765 | iiPurgeV2 |
 | 225 | 761 | Snippy Splitter |
 | 226 | 755 | Nutty Rollfit |
-| 227 | 749 | Nikki Fuller Johnson |
-| 228 | 748 | Bonnie Powell |
-| 229 | 748 | Kelly Howland |
-| 230 | 746 | Smiley Gridzone |
-| 231 | 746 | Brick House |
-| 232 | 746 | Chuck Burns |
+| 227 | 751 | Kelly Howland |
+| 228 | 749 | Nikki Fuller Johnson |
+| 229 | 748 | Bonnie Powell |
+| 230 | 746 | Brick House |
+| 231 | 746 | Chuck Burns |
+| 232 | 746 | Smiley Gridzone |
 | 233 | 738 | Malik Thompson |
 | 234 | 734 | Tricia Motika Cowan |
 | 235 | 728 | Jackie Miller |

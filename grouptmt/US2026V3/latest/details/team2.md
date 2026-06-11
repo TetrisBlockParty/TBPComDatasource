@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 06:42:47 UTC
+# Standings for team2 as of 2026-06-11 06:43:20 UTC
 
 **Total Participants:** 2926
 
@@ -628,9 +628,9 @@
 | 620 | 365 | Lee Leonard |
 | 621 | 365 | Camilo Moreno |
 | 622 | 364 | Robert Brewster |
-| 623 | 364 | Joannah Capilitan |
-| 624 | 364 | Frisky Linkbuilder |
-| 625 | 363 | Clever Fallmatch |
+| 623 | 364 | Clever Fallmatch |
+| 624 | 364 | Joannah Capilitan |
+| 625 | 364 | Frisky Linkbuilder |
 | 626 | 361 | Bianca Woodruff |
 | 627 | 360 | Sharilyn Jackson |
 | 628 | 360 | Teloney Humphrey |
@@ -929,60 +929,60 @@
 | 921 | 243 | Coleta Singleton-Gallishaw |
 | 922 | 243 | Silly square |
 | 923 | 243 | Lori Lorenz |
-| 924 | 242 | Dandy Tiltgrid |
-| 925 | 242 | Bouncy Cluster |
-| 926 | 241 | Groovy Glider |
-| 927 | 241 | Jazzy |
-| 928 | 241 | Heather Billodeau |
-| 929 | 241 | Christina Reid |
-| 930 | 240 | Debbie Davis |
+| 924 | 242 | Anita Blackshear |
+| 925 | 242 | Dandy Tiltgrid |
+| 926 | 242 | Bouncy Cluster |
+| 927 | 241 | Groovy Glider |
+| 928 | 241 | Jazzy |
+| 929 | 241 | Heather Billodeau |
+| 930 | 241 | Christina Reid |
 | 931 | 240 | Ava |
-| 932 | 240 | Amy |
-| 933 | 240 | y |
+| 932 | 240 | y |
+| 933 | 240 | Amy |
 | 934 | 240 | Tami Leontyuk |
 | 935 | 240 | Katie Thacker |
-| 936 | 240 | Rhonda Driskill |
-| 937 | 239 | Shawn Jensen |
-| 938 | 239 | Chirpy Combofall |
-| 939 | 239 | Mary Stump |
-| 940 | 238 | SaraAnn Gray Philbrick |
-| 941 | 238 | Mike Mordhorst |
-| 942 | 238 | Sherry Ann |
-| 943 | 237 | Renee Siems |
-| 944 | 237 | William Dowd |
-| 945 | 236 | Elnaz Mokleh |
-| 946 | 236 | Lush Party |
-| 947 | 235 | Naomi Jaynes |
-| 948 | 235 | BB |
+| 936 | 240 | Debbie Davis |
+| 937 | 240 | Rhonda Driskill |
+| 938 | 239 | Mary Stump |
+| 939 | 239 | Shawn Jensen |
+| 940 | 239 | Chirpy Combofall |
+| 941 | 238 | SaraAnn Gray Philbrick |
+| 942 | 238 | Mike Mordhorst |
+| 943 | 238 | Sherry Ann |
+| 944 | 237 | Renee Siems |
+| 945 | 237 | William Dowd |
+| 946 | 236 | Elnaz Mokleh |
+| 947 | 236 | Lush Party |
+| 948 | 235 | Naomi Jaynes |
 | 949 | 235 | jme |
-| 950 | 234 | Calah Amore |
-| 951 | 234 | Anita Blackshear |
+| 950 | 235 | BB |
+| 951 | 234 | Just Me |
 | 952 | 234 | Soliman Soliman |
-| 953 | 234 | Just Me |
+| 953 | 234 | Calah Amore |
 | 954 | 234 | Goofy Patternfit |
 | 955 | 234 | Princess Cucumber |
 | 956 | 234 | Christine James |
 | 957 | 233 | Dayna Messer-Thelen |
-| 958 | 233 | Diane Byrd |
-| 959 | 233 | Jaimie Waybill |
-| 960 | 233 | YAKO |
-| 961 | 233 | Andrea Rawson |
+| 958 | 233 | Andrea Rawson |
+| 959 | 233 | Diane Byrd |
+| 960 | 233 | Jaimie Waybill |
+| 961 | 233 | YAKO |
 | 962 | 232 | Tammy Roth |
 | 963 | 231 | Flashy Wipegrid |
-| 964 | 230 | Crystal Logan |
-| 965 | 230 | Sara Moericke |
+| 964 | 230 | Sara Moericke |
+| 965 | 230 | Crystal Logan |
 | 966 | 229 | Tabitha Ann Bullins-Cobb |
 | 967 | 229 | Fluffypuffin |
 | 968 | 228 | Berta Hurley |
-| 969 | 228 | Jennifer Bromeisl-Tettam |
-| 970 | 228 | zippity |
-| 971 | 228 | Michele Plunkett |
+| 969 | 228 | Michele Plunkett |
+| 970 | 228 | Jennifer Bromeisl-Tettam |
+| 971 | 228 | zippity |
 | 972 | 227 | James Maness |
-| 973 | 226 | Chris |
-| 974 | 226 | Valeri Bradley |
-| 975 | 225 | Carmina Truoiolo |
-| 976 | 225 | Chad Atchley |
-| 977 | 225 | Michael Saunders |
+| 973 | 226 | Valeri Bradley |
+| 974 | 226 | Chris |
+| 975 | 225 | Michael Saunders |
+| 976 | 225 | Carmina Truoiolo |
+| 977 | 225 | Chad Atchley |
 | 978 | 225 | Stephen Gillam |
 | 979 | 224 | Staci Walker |
 | 980 | 224 | Melissa Abbott |
@@ -990,15 +990,15 @@
 | 982 | 223 | Kevin Patrick |
 | 983 | 223 | Harley Watkins |
 | 984 | 222 | Sherri Caillet Aucoin |
-| 985 | 222 | uglyvillager |
-| 986 | 222 | candi |
+| 985 | 222 | candi |
+| 986 | 222 | uglyvillager |
 | 987 | 222 | Shiny Matchpiece |
 | 988 | 222 | Crystal Robinson |
 | 989 | 221 | Kylee Pruitt |
 | 990 | 221 | Jillian Marie |
-| 991 | 220 | Krystle L Coon |
+| 991 | 220 | Audrey Morris |
 | 992 | 220 | ASL |
-| 993 | 220 | Audrey Morris |
+| 993 | 220 | Krystle L Coon |
 | 994 | 220 | Danid |
 | 995 | 220 | Kayla Iverson |
 | 996 | 220 | Scott Lyles |
