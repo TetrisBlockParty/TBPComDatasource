@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 10:38:23 UTC
+# Standings for team4 as of 2026-06-11 10:39:20 UTC
 
 **Total Participants:** 2513
 
@@ -172,15 +172,15 @@
 | 164 | 1020 | Bean |
 | 165 | 1015 | Ermadette |
 | 166 | 1013 | Regina Williams |
-| 167 | 1005 | Fancy Riserfit |
-| 168 | 1004 | Shocinda Sherwood |
-| 169 | 1001 | DexterDobbins |
-| 170 | 1000 | Cheery Risegrid |
-| 171 | 996 | Renee Sapp |
-| 172 | 995 | Andrew Dang |
-| 173 | 990 | Kim |
-| 174 | 990 | Magz |
-| 175 | 987 | Nicole |
+| 167 | 1007 | Nicole |
+| 168 | 1005 | Fancy Riserfit |
+| 169 | 1004 | Shocinda Sherwood |
+| 170 | 1001 | DexterDobbins |
+| 171 | 1000 | Cheery Risegrid |
+| 172 | 996 | Renee Sapp |
+| 173 | 995 | Andrew Dang |
+| 174 | 990 | Kim |
+| 175 | 990 | Magz |
 | 176 | 986 | Sharidan Klinginsmith |
 | 177 | 981 | Kazrin Douglass |
 | 178 | 975 | Cinta Marie |
@@ -718,14 +718,14 @@
 | 710 | 265 | Lori Lynn |
 | 711 | 264 | Stephanie Brock |
 | 712 | 264 | Giggy Blockpiece |
-| 713 | 264 | yourmomz |
-| 714 | 263 | Kat Foreman |
-| 715 | 263 | Melissa Quinn |
-| 716 | 262 | Surviving Be Back Soon |
-| 717 | 262 | Lush Twisterfit |
-| 718 | 262 | Bhakti Sawarkar |
-| 719 | 261 | Lee Ann Gibby |
-| 720 | 261 | Alicia Blunt |
+| 713 | 264 | Alicia Blunt |
+| 714 | 264 | yourmomz |
+| 715 | 263 | Kat Foreman |
+| 716 | 263 | Melissa Quinn |
+| 717 | 262 | Surviving Be Back Soon |
+| 718 | 262 | Lush Twisterfit |
+| 719 | 262 | Bhakti Sawarkar |
+| 720 | 261 | Lee Ann Gibby |
 | 721 | 261 | Funky Twistpiece |
 | 722 | 260 | Keke Johnson |
 | 723 | 260 | Silly Risegrid |
@@ -1462,88 +1462,88 @@
 | 1454 | 90 | STRay |
 | 1455 | 90 | Nerdy Piecebuilder |
 | 1456 | 90 | Sherri G Davis |
-| 1457 | 90 | Snappy Glidebuilder |
-| 1458 | 90 | Charles Chauffe |
-| 1459 | 90 | Melissa Robinson |
+| 1457 | 90 | JustMe |
+| 1458 | 90 | Snappy Glidebuilder |
+| 1459 | 90 | Charles Chauffe |
 | 1460 | 90 | Волна Бог |
 | 1461 | 90 | Boldy Clicky |
-| 1462 | 90 | Spidaman86 |
-| 1463 | 90 | Heather Griffin |
-| 1464 | 89 | Dawn Ferrin |
-| 1465 | 89 | Bon Jovi |
-| 1466 | 89 | Ladybug |
-| 1467 | 89 | Johnny Jeppesen |
-| 1468 | 89 | Bekka Walker |
-| 1469 | 89 | Aliyah Abdella |
-| 1470 | 88 | Ryan Luperena |
-| 1471 | 88 | Chris Robertson |
-| 1472 | 88 | Musky Pits |
-| 1473 | 88 | Ελενη Χολεβα |
-| 1474 | 88 | Hyper Towerfit |
-| 1475 | 88 | Jade Alley |
-| 1476 | 88 | Happy Toast |
-| 1477 | 88 | Glendala Whitewing |
-| 1478 | 88 | Tracy Ann Frederick |
-| 1479 | 88 | Cas Gio |
-| 1480 | 87 | Audacious |
-| 1481 | 87 | Leslee Bentley DeLong |
-| 1482 | 86 | Meela Abdurrab |
+| 1462 | 90 | Melissa Robinson |
+| 1463 | 90 | Spidaman86 |
+| 1464 | 90 | Heather Griffin |
+| 1465 | 89 | Dawn Ferrin |
+| 1466 | 89 | Bon Jovi |
+| 1467 | 89 | Ladybug |
+| 1468 | 89 | Johnny Jeppesen |
+| 1469 | 89 | Bekka Walker |
+| 1470 | 89 | Aliyah Abdella |
+| 1471 | 88 | Happy Toast |
+| 1472 | 88 | Hyper Towerfit |
+| 1473 | 88 | Ryan Luperena |
+| 1474 | 88 | Ελενη Χολεβα |
+| 1475 | 88 | Glendala Whitewing |
+| 1476 | 88 | Tracy Ann Frederick |
+| 1477 | 88 | Chris Robertson |
+| 1478 | 88 | Musky Pits |
+| 1479 | 88 | Jade Alley |
+| 1480 | 88 | Cas Gio |
+| 1481 | 87 | Audacious |
+| 1482 | 87 | Leslee Bentley DeLong |
 | 1483 | 86 | Luunii |
-| 1484 | 85 | Jason Shertzer |
-| 1485 | 85 | Dancy Dinosaur |
-| 1486 | 85 | Brook Marguerite Benson |
-| 1487 | 85 | Sherri Lorent |
-| 1488 | 85 | happy cupcake |
-| 1489 | 85 | Melly |
-| 1490 | 85 | Dee Modest |
-| 1491 | 85 | Ja'Net Riley |
-| 1492 | 84 | Amber Arnold |
-| 1493 | 84 | Misty Larrabee |
-| 1494 | 84 | Ginnie Strate |
-| 1495 | 84 | JustMe |
-| 1496 | 84 | Lakeshia Holman |
-| 1497 | 84 | Red |
-| 1498 | 84 | Lizzie McGuire |
-| 1499 | 83 | Bubbly Shatter |
-| 1500 | 83 | Terry Jo Myers |
-| 1501 | 83 | EpicBarista |
-| 1502 | 83 | Peter Babineaux Jr |
+| 1484 | 86 | Meela Abdurrab |
+| 1485 | 85 | Jason Shertzer |
+| 1486 | 85 | Dancy Dinosaur |
+| 1487 | 85 | happy cupcake |
+| 1488 | 85 | Brook Marguerite Benson |
+| 1489 | 85 | Sherri Lorent |
+| 1490 | 85 | Melly |
+| 1491 | 85 | Dee Modest |
+| 1492 | 85 | Ja'Net Riley |
+| 1493 | 84 | Amber Arnold |
+| 1494 | 84 | Lizzie McGuire |
+| 1495 | 84 | Lakeshia Holman |
+| 1496 | 84 | Ginnie Strate |
+| 1497 | 84 | Misty Larrabee |
+| 1498 | 84 | Red |
+| 1499 | 83 | Peter Babineaux Jr |
+| 1500 | 83 | EpicBarista |
+| 1501 | 83 | Bubbly Shatter |
+| 1502 | 83 | Terry Jo Myers |
 | 1503 | 83 | Thomas Cassell |
 | 1504 | 82 | Charity Thomas |
 | 1505 | 82 | Jacklyn Martinez |
-| 1506 | 82 | Judea Leblanc |
-| 1507 | 82 | Sunny Bricky |
-| 1508 | 82 | JuicyJay |
+| 1506 | 82 | Brenda Mueller |
+| 1507 | 82 | Peachy Grabber |
+| 1508 | 82 | Judea Leblanc |
 | 1509 | 82 | crazy lazy |
-| 1510 | 82 | Peachy Grabber |
-| 1511 | 82 | Frank Loher III |
-| 1512 | 82 | EKM |
-| 1513 | 82 | Rebecca Dix |
-| 1514 | 82 | Brenda Mueller |
-| 1515 | 81 | Infini Agape |
-| 1516 | 81 | courtt |
-| 1517 | 81 | Lazy Frame |
-| 1518 | 80 | Gabby Simones |
-| 1519 | 80 | Rai |
-| 1520 | 80 | happycappy |
-| 1521 | 80 | Snazzy Piecebuilder |
-| 1522 | 80 | Amber Walters |
-| 1523 | 80 | James James |
-| 1524 | 80 | Zippy Wipepiece |
-| 1525 | 80 | Hyper Clusterline |
-| 1526 | 80 | Leigh Champion |
-| 1527 | 80 | Idella Cobb Strickland |
-| 1528 | 80 | CM |
-| 1529 | 80 | Donya' Johnson |
+| 1510 | 82 | Sunny Bricky |
+| 1511 | 82 | Rebecca Dix |
+| 1512 | 82 | Frank Loher III |
+| 1513 | 82 | JuicyJay |
+| 1514 | 82 | EKM |
+| 1515 | 81 | Lazy Frame |
+| 1516 | 81 | Infini Agape |
+| 1517 | 81 | courtt |
+| 1518 | 80 | Donya' Johnson |
+| 1519 | 80 | Idella Cobb Strickland |
+| 1520 | 80 | Leigh Champion |
+| 1521 | 80 | happycappy |
+| 1522 | 80 | Gabby Simones |
+| 1523 | 80 | Zippy Wipepiece |
+| 1524 | 80 | CM |
+| 1525 | 80 | Amber Walters |
+| 1526 | 80 | Hyper Clusterline |
+| 1527 | 80 | Snazzy Piecebuilder |
+| 1528 | 80 | Rai |
+| 1529 | 80 | James James |
 | 1530 | 80 | Brett |
-| 1531 | 79 | Jessica Marie Flores |
-| 1532 | 79 | ZiaDemon |
-| 1533 | 79 | Jenny Torres |
+| 1531 | 79 | Cool Slammer |
+| 1532 | 79 | Joshua Powers |
+| 1533 | 79 | Jessica Marie Flores |
 | 1534 | 79 | Cheery Basegrid |
-| 1535 | 79 | Joshua Powers |
-| 1536 | 79 | Jinx4fun |
-| 1537 | 79 | Cool Slammer |
-| 1538 | 79 | Laura Molero |
+| 1535 | 79 | Laura Molero |
+| 1536 | 79 | Jenny Torres |
+| 1537 | 79 | ZiaDemon |
+| 1538 | 79 | Jinx4fun |
 | 1539 | 78 | Christopher Lindsey |
 | 1540 | 78 | Doris Wastak |
 | 1541 | 78 | Memel |
