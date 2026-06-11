@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 06:40:41 UTC
+# Standings for team1 as of 2026-06-11 06:41:25 UTC
 
 **Total Participants:** 2453
 
@@ -92,11 +92,11 @@
 | 84 | 1895 | Ryan Meilleur |
 | 85 | 1893 | Sarah Barnum |
 | 86 | 1880 | Angela R Wilson |
-| 87 | 1870 | TAZ-MF-NIZIL |
-| 88 | 1854 | Jessica Roberts |
-| 89 | 1841 | Spunky Edgefit |
-| 90 | 1833 | PandaPrincess |
-| 91 | 1831 | Felicia Williams |
+| 87 | 1872 | Felicia Williams |
+| 88 | 1870 | TAZ-MF-NIZIL |
+| 89 | 1854 | Jessica Roberts |
+| 90 | 1841 | Spunky Edgefit |
+| 91 | 1833 | PandaPrincess |
 | 92 | 1831 | Jonathan Vee Jay |
 | 93 | 1724 | Sharon Cail |
 | 94 | 1711 | Richard Horton |
@@ -116,9 +116,9 @@
 | 108 | 1500 | Nutty Spinblock |
 | 109 | 1497 | Rolanda Williams |
 | 110 | 1496 | Dawn L Washington-Feuquay |
-| 111 | 1473 | rls |
-| 112 | 1467 | Crystal Boyd |
-| 113 | 1467 | Alana Renee |
+| 111 | 1486 | Alana Renee |
+| 112 | 1473 | rls |
+| 113 | 1467 | Crystal Boyd |
 | 114 | 1454 | Spicy Balancer |
 | 115 | 1434 | Dulo |
 | 116 | 1432 | Roberta Lynn |
@@ -195,7 +195,7 @@
 | 187 | 887 | Tessa Gaskin |
 | 188 | 881 | Karebear |
 | 189 | 873 | Rackemwillie34 |
-| 190 | 865 | Shontanese Adams |
+| 190 | 869 | Shontanese Adams |
 | 191 | 865 | Byron Mario Cawthon |
 | 192 | 862 | LaSharmeika Fancher |
 | 193 | 852 | Loopy Block |
@@ -412,10 +412,10 @@
 | 404 | 432 | blockman |
 | 405 | 431 | Charlene Baltimore |
 | 406 | 431 | Lauraly |
-| 407 | 430 | Chilly Wipebuilder |
-| 408 | 430 | John Spath |
-| 409 | 428 | Poppy Buildout |
-| 410 | 427 | Maribel Vasquez |
+| 407 | 430 | Maribel Vasquez |
+| 408 | 430 | Chilly Wipebuilder |
+| 409 | 430 | John Spath |
+| 410 | 428 | Poppy Buildout |
 | 411 | 426 | Nate Myers |
 | 412 | 425 | Jas |
 | 413 | 423 | Jai |
