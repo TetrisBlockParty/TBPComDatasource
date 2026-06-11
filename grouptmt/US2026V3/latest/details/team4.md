@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 21:48:47 UTC
+# Standings for team4 as of 2026-06-11 21:49:21 UTC
 
 **Total Participants:** 2593
 
@@ -272,16 +272,16 @@
 | 264 | 726 | Perky Riserbuilder |
 | 265 | 724 | Lush Fitblock |
 | 266 | 723 | Breezy Cascadeclear |
-| 267 | 720 | Saucy Wipepiece |
-| 268 | 719 | Logan Two-dubs Baker |
-| 269 | 713 | Jewelz |
-| 270 | 706 | Toon Up |
-| 271 | 704 | Caitlyn Wang |
-| 272 | 701 | Ross Bryant |
-| 273 | 700 | Jaci Marie |
-| 274 | 693 | Big Dooka |
-| 275 | 691 | Clever Brickzone |
-| 276 | 690 | Kristal |
+| 267 | 720 | Kristal |
+| 268 | 720 | Saucy Wipepiece |
+| 269 | 719 | Logan Two-dubs Baker |
+| 270 | 713 | Jewelz |
+| 271 | 706 | Toon Up |
+| 272 | 704 | Caitlyn Wang |
+| 273 | 701 | Ross Bryant |
+| 274 | 700 | Jaci Marie |
+| 275 | 693 | Big Dooka |
+| 276 | 691 | Clever Brickzone |
 | 277 | 688 | Ashley Jenkins |
 | 278 | 679 | Tipsy Zonebuilder |
 | 279 | 679 | meowster |
