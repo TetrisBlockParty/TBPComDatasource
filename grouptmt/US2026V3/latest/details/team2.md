@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:24:49 UTC
+# Standings for team2 as of 2026-06-11 09:25:21 UTC
 
 **Total Participants:** 2938
 
@@ -64,7 +64,7 @@
 | 56 | 4412 | Charles Varca |
 | 57 | 4301 | Nawang Nawang |
 | 58 | 4224 | LaWanda Powell |
-| 59 | 3995 | Betty Barrett |
+| 59 | 4005 | Betty Barrett |
 | 60 | 3990 | Anthony Lilley |
 | 61 | 3984 | Amber |
 | 62 | 3942 | Sean Rippa |
@@ -198,9 +198,9 @@
 | 190 | 1061 | Frothy Fitzone |
 | 191 | 1049 | Sedy |
 | 192 | 1046 | Sarah Griffey |
-| 193 | 1035 | Amber Wolf |
-| 194 | 1033 | Theresa Hollinger |
-| 195 | 1029 | Rhonda Diebold |
+| 193 | 1036 | Rhonda Diebold |
+| 194 | 1035 | Amber Wolf |
+| 195 | 1033 | Theresa Hollinger |
 | 196 | 1028 | Wacky Dashfit |
 | 197 | 1016 | Robin G |
 | 198 | 1003 | Giddy Climber |
@@ -2617,7 +2617,7 @@
 | 2609 | 19 | Damein Fox |
 | 2610 | 19 | Jessie |
 | 2611 | 19 | kenzieeeee |
-| 2612 | 18 | Barbara Hagger |
+| 2612 | 18 | Dwyla Howard |
 | 2613 | 18 | Nathan L Slate |
 | 2614 | 18 | Dapper Clearpiece |
 | 2615 | 18 | Josefina Vaquero Aguilar |
@@ -2627,39 +2627,39 @@
 | 2619 | 18 | Glitzy Linkfall |
 | 2620 | 18 | Cambrie Hales |
 | 2621 | 18 | Chrystal Rodriguez |
-| 2622 | 18 | Nik Nobles |
-| 2623 | 18 | Epic Cascadeclear |
-| 2624 | 18 | Dizzy Glidezone |
-| 2625 | 18 | Hasty Tilefall |
-| 2626 | 18 | Fancy Riser |
-| 2627 | 18 | MD |
-| 2628 | 18 | Garrett Hill |
-| 2629 | 18 | Cathy Cobb |
-| 2630 | 18 | Hoppy Strikesnap |
-| 2631 | 18 | Syssi Anne Humphrey |
-| 2632 | 18 | Naomi Christiansen |
-| 2633 | 18 | Araiiya |
-| 2634 | 18 | Amelia Wilson |
-| 2635 | 18 | Griff |
-| 2636 | 18 | Mack Rayray |
-| 2637 | 18 | Tavia Teschendorf Sliffe |
-| 2638 | 17 | Amanda Hamacher |
-| 2639 | 17 | Dwyla Howard |
-| 2640 | 17 | Coco Brown |
-| 2641 | 17 | Jacob nitro |
-| 2642 | 17 | Clever Spinfit |
-| 2643 | 17 | Darrell Dean Strong |
-| 2644 | 17 | Smiley Edgefit |
-| 2645 | 17 | Nicole Acevedo |
-| 2646 | 17 | Hyper Framezone |
-| 2647 | 17 | Terri Jane Hardin |
-| 2648 | 17 | Groovy Curver |
-| 2649 | 17 | Cj Ross |
-| 2650 | 17 | Elisha Mason |
-| 2651 | 17 | Shiny Patternbuilder |
+| 2622 | 18 | Barbara Hagger |
+| 2623 | 18 | Nik Nobles |
+| 2624 | 18 | Epic Cascadeclear |
+| 2625 | 18 | Dizzy Glidezone |
+| 2626 | 18 | Hasty Tilefall |
+| 2627 | 18 | Fancy Riser |
+| 2628 | 18 | MD |
+| 2629 | 18 | Garrett Hill |
+| 2630 | 18 | Cathy Cobb |
+| 2631 | 18 | Griff |
+| 2632 | 18 | Syssi Anne Humphrey |
+| 2633 | 18 | Naomi Christiansen |
+| 2634 | 18 | Araiiya |
+| 2635 | 18 | Hoppy Strikesnap |
+| 2636 | 18 | Amelia Wilson |
+| 2637 | 18 | Mack Rayray |
+| 2638 | 18 | Tavia Teschendorf Sliffe |
+| 2639 | 17 | Amanda Hamacher |
+| 2640 | 17 | Shiny Patternbuilder |
+| 2641 | 17 | Coco Brown |
+| 2642 | 17 | Jacob nitro |
+| 2643 | 17 | Clever Spinfit |
+| 2644 | 17 | Darrell Dean Strong |
+| 2645 | 17 | Smiley Edgefit |
+| 2646 | 17 | Nicole Acevedo |
+| 2647 | 17 | Hyper Framezone |
+| 2648 | 17 | Terri Jane Hardin |
+| 2649 | 17 | Groovy Curver |
+| 2650 | 17 | Cj Ross |
+| 2651 | 17 | Elisha Mason |
 | 2652 | 17 | Giggly Tetrisline |
 | 2653 | 16 | Qu33nB33 |
-| 2654 | 16 | Anarcho |
+| 2654 | 16 | Vickie Tinsley |
 | 2655 | 16 | Sarah Elizabeth Foret |
 | 2656 | 16 | CiCi |
 | 2657 | 16 | Marshall Payne |
@@ -2667,17 +2667,17 @@
 | 2659 | 16 | Dreamy Fitclear |
 | 2660 | 16 | Cozy Cascadezone |
 | 2661 | 16 | Cranky Rollblock |
-| 2662 | 16 | Anne Bellinger |
-| 2663 | 16 | Diane Pinkston Massey |
-| 2664 | 16 | tiff |
-| 2665 | 16 | Jeremy Monceaux |
-| 2666 | 16 | Spicy Towerbuilder |
-| 2667 | 16 | Frothy Stackbuilder |
-| 2668 | 16 | Beckie Cash-Newberry |
-| 2669 | 16 | Vickie Tinsley |
+| 2662 | 16 | Anarcho |
+| 2663 | 16 | Anne Bellinger |
+| 2664 | 16 | Spicy Towerbuilder |
+| 2665 | 16 | Diane Pinkston Massey |
+| 2666 | 16 | tiff |
+| 2667 | 16 | Jeremy Monceaux |
+| 2668 | 16 | Frothy Stackbuilder |
+| 2669 | 16 | Beckie Cash-Newberry |
 | 2670 | 16 | Imat Yesmar |
-| 2671 | 16 | Regina Lynn Adams |
-| 2672 | 16 | Crafty Tumbler |
+| 2671 | 16 | Crafty Tumbler |
+| 2672 | 16 | Regina Lynn Adams |
 | 2673 | 16 | Elliot |
 | 2674 | 16 | Eugene Brown |
 | 2675 | 15 | Lisa Marie |
