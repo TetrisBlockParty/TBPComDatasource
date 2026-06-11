@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 21:23:21 UTC
+# Standings for team2 as of 2026-06-11 21:24:25 UTC
 
 **Total Participants:** 3019
 
@@ -58,7 +58,7 @@
 | 50 | 5300 | DarkHorse |
 | 51 | 5237 | THUMP |
 | 52 | 5231 | Julie Renee Bertram |
-| 53 | 5114 | Wacky Dashfit |
+| 53 | 5115 | Wacky Dashfit |
 | 54 | 5075 | Frisky Balanceblock |
 | 55 | 5036 | Brent Bittenbender |
 | 56 | 4987 | Erica Dees Parks |
@@ -72,9 +72,9 @@
 | 64 | 4094 | Sean Rippa |
 | 65 | 3990 | Anthony Lilley |
 | 66 | 3984 | Amber |
-| 67 | 3900 | LEW |
-| 68 | 3892 | Crystal M Sowden |
-| 69 | 3874 | jmo87 |
+| 67 | 3974 | jmo87 |
+| 68 | 3900 | LEW |
+| 69 | 3892 | Crystal M Sowden |
 | 70 | 3809 | Kellie Montgomery |
 | 71 | 3782 | Elizabeth Sallas |
 | 72 | 3598 | Angelica Jelli Gillaspy |
@@ -404,13 +404,13 @@
 | 396 | 606 | Lindsey Ford |
 | 397 | 605 | Jessica Connot |
 | 398 | 600 | Jamin |
-| 399 | 599 | Carlos J Blas |
-| 400 | 599 | Logan Duffey |
-| 401 | 598 | Amanda L Strong |
-| 402 | 597 | Perky Linebuilder |
-| 403 | 596 | Roe Sarmiento |
-| 404 | 593 | Goofy Gridclear |
-| 405 | 592 | Smiley Staggerpiece |
+| 399 | 600 | Smiley Staggerpiece |
+| 400 | 599 | Carlos J Blas |
+| 401 | 599 | Logan Duffey |
+| 402 | 598 | Amanda L Strong |
+| 403 | 597 | Perky Linebuilder |
+| 404 | 596 | Roe Sarmiento |
+| 405 | 593 | Goofy Gridclear |
 | 406 | 591 | Stephanie |
 | 407 | 589 | Adriana Daniela Agapie |
 | 408 | 583 | Anthony Swift |
