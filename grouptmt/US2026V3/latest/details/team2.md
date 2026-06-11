@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:08:41 UTC
+# Standings for team2 as of 2026-06-11 07:09:24 UTC
 
 **Total Participants:** 2926
 
@@ -68,8 +68,8 @@
 | 60 | 3984 | Amber |
 | 61 | 3892 | Crystal M Sowden |
 | 62 | 3866 | Nawang Nawang |
-| 63 | 3837 | THUMP |
-| 64 | 3812 | Sean Rippa |
+| 63 | 3839 | Sean Rippa |
+| 64 | 3837 | THUMP |
 | 65 | 3634 | Kimberly Benson |
 | 66 | 3598 | Angelica Jelli Gillaspy |
 | 67 | 3514 | Traci Elizabeth |
@@ -117,7 +117,7 @@
 | 109 | 2031 | Frilly Match |
 | 110 | 2027 | Heather Marie-Tarlton Britt |
 | 111 | 2024 | Misiek |
-| 112 | 1989 | Leah Lynn |
+| 112 | 2018 | Leah Lynn |
 | 113 | 1937 | Cathy Tippett |
 | 114 | 1934 | Loopy Cascadepiece |
 | 115 | 1929 | Gabriella Humphreys |
@@ -171,8 +171,8 @@
 | 163 | 1259 | Marie Luciano |
 | 164 | 1251 | Ricardo Ewart |
 | 165 | 1246 | Monique Frantz |
-| 166 | 1238 | Melissa Thomas |
-| 167 | 1238 | Jackie Tupper |
+| 166 | 1238 | Jackie Tupper |
+| 167 | 1238 | Melissa Thomas |
 | 168 | 1224 | BrendaLee NolanBos |
 | 169 | 1217 | Leigh Ann |
 | 170 | 1208 | Tami Kay Williams Watson |
