@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 10:20:25 UTC
+# Standings for team1 as of 2026-06-11 10:21:19 UTC
 
 **Total Participants:** 2471
 
@@ -198,8 +198,8 @@
 | 190 | 896 | Abraham Espaillat |
 | 191 | 895 | W.A. Simpson |
 | 192 | 887 | Tessa Gaskin |
-| 193 | 881 | Byron Mario Cawthon |
-| 194 | 881 | Karebear |
+| 193 | 881 | Karebear |
+| 194 | 881 | Byron Mario Cawthon |
 | 195 | 873 | Rackemwillie34 |
 | 196 | 869 | Shontanese Adams |
 | 197 | 866 | Trendalyn Webb |
@@ -217,8 +217,8 @@
 | 209 | 812 | Big Tina |
 | 210 | 811 | Andrew Jay Vaughn |
 | 211 | 808 | TT |
-| 212 | 804 | Jamal Itzjusmall Chambers |
-| 213 | 804 | Sarah Clark |
+| 212 | 804 | Sarah Clark |
+| 213 | 804 | Jamal Itzjusmall Chambers |
 | 214 | 801 | Rachel Zimmerman |
 | 215 | 798 | Zappy Riser |
 | 216 | 794 | Kevin M. McGhee Jr |
@@ -245,8 +245,8 @@
 | 237 | 720 | Hailey Hil |
 | 238 | 711 | Chirpy Corner |
 | 239 | 706 | TeeMaster Barber IsLyfe |
-| 240 | 700 | Andy Rivera |
-| 241 | 700 | Spicy Risepiece |
+| 240 | 700 | Spicy Risepiece |
+| 241 | 700 | Andy Rivera |
 | 242 | 699 | Dee McCool |
 | 243 | 699 | Tempee |
 | 244 | 692 | Trina Greenwood |
@@ -268,8 +268,8 @@
 | 260 | 663 | LaToya Chambers |
 | 261 | 656 | Slinky Party |
 | 262 | 655 | Tishauna Virgo |
-| 263 | 654 | Nina Davis |
-| 264 | 654 | Rhonda Williams Warner |
+| 263 | 654 | Rhonda Williams Warner |
+| 264 | 654 | Nina Davis |
 | 265 | 647 | Simply-Beautiful007 |
 | 266 | 642 | Anthony |
 | 267 | 641 | Marissa Sweet |
@@ -282,22 +282,22 @@
 | 274 | 624 | Tobey Marberry |
 | 275 | 623 | Daris Swearington |
 | 276 | 623 | Nicole Watson-Dixon |
-| 277 | 620 | Tanya Clayton |
+| 277 | 620 | DellaLucretia Thomas |
 | 278 | 620 | Jessica Carter |
-| 279 | 620 | DellaLucretia Thomas |
+| 279 | 620 | Tanya Clayton |
 | 280 | 619 | Donnie Withthebody |
 | 281 | 615 | pooh |
 | 282 | 613 | Cheery Linkfall |
-| 283 | 607 | SPNLover24 |
-| 284 | 607 | Frisky Fall |
+| 283 | 607 | Frisky Fall |
+| 284 | 607 | SPNLover24 |
 | 285 | 604 | Andre Sanon |
 | 286 | 601 | Marie Wilson |
 | 287 | 599 | IThinkNot |
-| 288 | 594 | Rachael Bakowicz Edwards |
-| 289 | 594 | Lashaunda |
-| 290 | 590 | Alivia Dove |
-| 291 | 588 | Kenny 'Tailormade' Boyd |
-| 292 | 583 | Snippy Breaker |
+| 288 | 598 | Snippy Breaker |
+| 289 | 594 | Rachael Bakowicz Edwards |
+| 290 | 594 | Lashaunda |
+| 291 | 590 | Alivia Dove |
+| 292 | 588 | Kenny 'Tailormade' Boyd |
 | 293 | 579 | Calvin Green |
 | 294 | 579 | Mahagony Small |
 | 295 | 577 | Slinky Brickmatch |
@@ -311,7 +311,7 @@
 | 303 | 573 | Telisha Mims |
 | 304 | 571 | Block |
 | 305 | 568 | Joey Albright |
-| 306 | 564 | Christopher Dreamsareality McEachin |
+| 306 | 566 | Christopher Dreamsareality McEachin |
 | 307 | 563 | Simmone T. Kadiri |
 | 308 | 553 | Giggly Tiltbuilder |
 | 309 | 549 | Qwlonda Shirrell |
@@ -330,12 +330,12 @@
 | 322 | 529 | Dai Bo |
 | 323 | 527 | MommaCia |
 | 324 | 527 | Leebo Slice |
-| 325 | 523 | Bre Poston |
-| 326 | 521 | Shanaa Germany Crittenden |
-| 327 | 521 | Jawaun Daniels |
-| 328 | 516 | Jayjay Rich |
-| 329 | 515 | Queenie Perry |
-| 330 | 514 | Jhonny Maii |
+| 325 | 523 | Jhonny Maii |
+| 326 | 523 | Bre Poston |
+| 327 | 521 | Shanaa Germany Crittenden |
+| 328 | 521 | Jawaun Daniels |
+| 329 | 516 | Jayjay Rich |
+| 330 | 515 | Queenie Perry |
 | 331 | 513 | Tasha |
 | 332 | 513 | Analiza Ramos |
 | 333 | 511 | NewEve |
