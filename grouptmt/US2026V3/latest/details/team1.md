@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 15:45:24 UTC
+# Standings for team1 as of 2026-06-11 15:46:24 UTC
 
 **Total Participants:** 2500
 
@@ -57,7 +57,7 @@
 | 49 | 2909 | Therealdywoune Peay |
 | 50 | 2903 | BlackQueen105 |
 | 51 | 2900 | Rosey |
-| 52 | 2891 | Blockhead |
+| 52 | 2896 | Blockhead |
 | 53 | 2794 | Epic Snapfall |
 | 54 | 2723 | Frisky Fallmatch |
 | 55 | 2700 | Jamie Willis |
@@ -144,9 +144,9 @@
 | 136 | 1344 | G Ah Mayes |
 | 137 | 1323 | Denise B |
 | 138 | 1316 | Slim Shedidthat |
-| 139 | 1284 | xXEKUNXx |
-| 140 | 1282 | Jon Gathers |
-| 141 | 1275 | Cathy Young |
+| 139 | 1285 | Cathy Young |
+| 140 | 1284 | xXEKUNXx |
+| 141 | 1282 | Jon Gathers |
 | 142 | 1263 | Po Marley |
 | 143 | 1260 | IamJust Neyamijah Washington Sr. |
 | 144 | 1244 | Jaida King |
@@ -188,7 +188,7 @@
 | 180 | 982 | Cheeky Pop |
 | 181 | 981 | No_Other_Choice |
 | 182 | 974 | Slinky Puzzler |
-| 183 | 969 | Dandy Brickfit |
+| 183 | 971 | Dandy Brickfit |
 | 184 | 964 | Zippy Tilefall |
 | 185 | 959 | Tammye Turner |
 | 186 | 953 | Ebony Waynes-robinson |
@@ -673,79 +673,79 @@
 | 665 | 302 | Ebby |
 | 666 | 301 | Monica Fields |
 | 667 | 300 | Lazy Tiltpiece |
-| 668 | 300 | Stanley Dixon |
-| 669 | 300 | Phillip White |
-| 670 | 300 | Daring Blockclear |
-| 671 | 300 | Cheryl Miller |
+| 668 | 300 | Cheryl Miller |
+| 669 | 300 | Daring Blockclear |
+| 670 | 300 | Phillip White |
+| 671 | 300 | Stanley Dixon |
 | 672 | 300 | BB |
 | 673 | 300 | Quitito1014 |
 | 674 | 300 | brite |
 | 675 | 300 | Kate Moses |
-| 676 | 299 | Spicy Shatterblock |
-| 677 | 299 | Chandler Magee |
+| 676 | 299 | Chandler Magee |
+| 677 | 299 | Spicy Shatterblock |
 | 678 | 298 | Logan Frost |
 | 679 | 298 | Rachael R Gull |
 | 680 | 297 | Marbama |
-| 681 | 296 | Antoinette Jones |
-| 682 | 296 | Lounique |
-| 683 | 296 | Stephanie L Jeffries Moultrie |
-| 684 | 296 | Cornelius Neal |
-| 685 | 295 | Tyler |
-| 686 | 294 | Cori Cleland |
+| 681 | 297 | Shemar Singleton |
+| 682 | 296 | Stephanie L Jeffries Moultrie |
+| 683 | 296 | Antoinette Jones |
+| 684 | 296 | Lounique |
+| 685 | 296 | Cornelius Neal |
+| 686 | 295 | Tyler |
 | 687 | 294 | Tamika Rocheteau |
-| 688 | 293 | Rhianna Dinki Austin |
+| 688 | 294 | Cori Cleland |
 | 689 | 293 | crumb bumc |
-| 690 | 292 | Courtney Cicoria |
-| 691 | 292 | Darrelle Short |
-| 692 | 291 | Bubbly Basegrid |
-| 693 | 291 | Pj Rojas |
-| 694 | 291 | Bella |
-| 695 | 291 | Brian Taylor |
-| 696 | 290 | Dirty Deeds |
-| 697 | 290 | Stephanie Ellis |
-| 698 | 290 | Mathew Trudell |
-| 699 | 289 | wmedina67 |
+| 690 | 293 | Rhianna Dinki Austin |
+| 691 | 292 | Courtney Cicoria |
+| 692 | 292 | Darrelle Short |
+| 693 | 291 | Brian Taylor |
+| 694 | 291 | Pj Rojas |
+| 695 | 291 | Bubbly Basegrid |
+| 696 | 291 | Bella |
+| 697 | 290 | Mathew Trudell |
+| 698 | 290 | Dirty Deeds |
+| 699 | 290 | Stephanie Ellis |
 | 700 | 289 | TBabii24 |
-| 701 | 289 | Loopy Tiler |
-| 702 | 288 | Lozuna |
-| 703 | 288 | Stronger Wiser Better |
-| 704 | 288 | Anastasia |
-| 705 | 288 | MikeHunt |
-| 706 | 288 | Douglas Price |
-| 707 | 287 | Mary Phillippi Blanton |
-| 708 | 286 | Kahliah Baker |
-| 709 | 286 | Maxine Williams |
-| 710 | 285 | Jes Marie |
-| 711 | 284 | Guy Incognito |
-| 712 | 283 | Lawanda Conley |
+| 701 | 289 | wmedina67 |
+| 702 | 289 | Loopy Tiler |
+| 703 | 288 | MikeHunt |
+| 704 | 288 | Douglas Price |
+| 705 | 288 | Anastasia |
+| 706 | 288 | Stronger Wiser Better |
+| 707 | 288 | Lozuna |
+| 708 | 287 | Mary Phillippi Blanton |
+| 709 | 286 | Kahliah Baker |
+| 710 | 286 | Maxine Williams |
+| 711 | 285 | Jes Marie |
+| 712 | 284 | Guy Incognito |
 | 713 | 283 | RylonJones |
-| 714 | 282 | Shemar Singleton |
-| 715 | 282 | Tanisha Taylor |
-| 716 | 282 | Perky Pusher |
-| 717 | 282 | Poyre Shelton |
-| 718 | 282 | Clipzby |
-| 719 | 281 | ChunLi |
-| 720 | 281 | Lucille Wilson Davis |
-| 721 | 280 | Tina Sellars |
-| 722 | 280 | NedaWin |
-| 723 | 280 | Juicy |
-| 724 | 280 | Sarah Swietlicki - Lopez |
+| 714 | 283 | Lawanda Conley |
+| 715 | 282 | Clipzby |
+| 716 | 282 | Poyre Shelton |
+| 717 | 282 | Tanisha Taylor |
+| 718 | 282 | Perky Pusher |
+| 719 | 281 | Lucille Wilson Davis |
+| 720 | 281 | ChunLi |
+| 721 | 280 | Juicy |
+| 722 | 280 | Tina Sellars |
+| 723 | 280 | Sarah Swietlicki - Lopez |
+| 724 | 280 | NedaWin |
 | 725 | 279 | DeAngelo Sorrells |
 | 726 | 277 | William Vidra |
-| 727 | 276 | Joseph Vs Cap |
-| 728 | 276 | Dannie |
+| 727 | 276 | Dannie |
+| 728 | 276 | Joseph Vs Cap |
 | 729 | 276 | Rosalind Chatman |
 | 730 | 275 | Michelle Peters |
 | 731 | 275 | Chris Sladoje |
 | 732 | 275 | MzJuice Box |
-| 733 | 274 | Rufus |
-| 734 | 274 | Dorian Griffin |
-| 735 | 274 | Polite Granny |
+| 733 | 274 | Polite Granny |
+| 734 | 274 | Rufus |
+| 735 | 274 | Dorian Griffin |
 | 736 | 273 | Kim Holzmiller |
-| 737 | 273 | Don Ray Mc |
-| 738 | 273 | Mommy Frank |
-| 739 | 273 | Cheery Climber |
-| 740 | 273 | Frances Davis |
+| 737 | 273 | Cheery Climber |
+| 738 | 273 | Frances Davis |
+| 739 | 273 | Don Ray Mc |
+| 740 | 273 | Mommy Frank |
 | 741 | 272 | Felicia Dungey |
 | 742 | 272 | Seirra Robinson |
 | 743 | 271 | Sunset Owens |
@@ -753,15 +753,15 @@
 | 745 | 270 | Lester Malone |
 | 746 | 270 | Bob |
 | 747 | 269 | Lynn |
-| 748 | 269 | Christy Quick |
-| 749 | 269 | RMGreen |
-| 750 | 269 | Blocksy |
-| 751 | 269 | messyboots |
-| 752 | 269 | Tara Clarke |
-| 753 | 268 | Kala Miller |
-| 754 | 268 | Katrina Ramey |
-| 755 | 267 | Lindsey |
-| 756 | 267 | Taneka Howell |
+| 748 | 269 | Tara Clarke |
+| 749 | 269 | messyboots |
+| 750 | 269 | Christy Quick |
+| 751 | 269 | Blocksy |
+| 752 | 269 | RMGreen |
+| 753 | 268 | Katrina Ramey |
+| 754 | 268 | Kala Miller |
+| 755 | 267 | Taneka Howell |
+| 756 | 267 | Lindsey |
 | 757 | 267 | Rachel Lopez |
 | 758 | 266 | Semaj Johnson |
 | 759 | 265 | Kortney Adams |
