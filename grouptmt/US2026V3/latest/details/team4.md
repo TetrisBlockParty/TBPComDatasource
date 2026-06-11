@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 00:02:48 UTC
+# Standings for team4 as of 2026-06-11 00:03:23 UTC
 
 **Total Participants:** 2411
 
@@ -12,8 +12,8 @@
 | 4 | 18644 | Lyza |
 | 5 | 12356 | Loony Rotater |
 | 6 | 11833 | Candice Driver |
-| 7 | 11639 | BertaF1irta |
-| 8 | 11614 | Hasty Builder |
+| 7 | 11664 | Hasty Builder |
+| 8 | 11639 | BertaF1irta |
 | 9 | 11215 | Cinny |
 | 10 | 10760 | Boldy Crusher |
 | 11 | 10201 | Kait Confetti |
@@ -995,11 +995,11 @@
 | 987 | 168 | Heather Brown |
 | 988 | 168 | JJADHD |
 | 989 | 168 | Kristan Hoffman |
-| 990 | 167 | Ana Ruiz |
-| 991 | 166 | Andy Petersen |
-| 992 | 166 | Jillian Marie |
-| 993 | 166 | medicjessi |
-| 994 | 166 | Stuart Crosby |
+| 990 | 167 | Stuart Crosby |
+| 991 | 167 | Ana Ruiz |
+| 992 | 166 | Andy Petersen |
+| 993 | 166 | Jillian Marie |
+| 994 | 166 | medicjessi |
 | 995 | 165 | Stephanie Meinhart |
 | 996 | 165 | Teresa Lescinskas |
 | 997 | 165 | Vicente Bolaños Jr. |
