@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 15:48:47 UTC
+# Standings for team1 as of 2026-06-11 15:49:24 UTC
 
 **Total Participants:** 2500
 
@@ -15,7 +15,7 @@
 | 7 | 13431 | Timothy Robert |
 | 8 | 12803 | Charlie Roehm |
 | 9 | 12469 | Erika Windom |
-| 10 | 12049 | Tipsy Tetriblast |
+| 10 | 12059 | Tipsy Tetriblast |
 | 11 | 10625 | Charnay Peacock |
 | 12 | 10436 | Dyane Leah Ware |
 | 13 | 10075 | Songne Arif |
@@ -118,11 +118,11 @@
 | 110 | 1611 | Sarah Marie |
 | 111 | 1606 | BYM4L |
 | 112 | 1598 | Voice |
-| 113 | 1564 | Spicy Balancer |
-| 114 | 1558 | Uneekly Mayde |
-| 115 | 1548 | Jimmie Makia |
-| 116 | 1546 | Alana Renee |
-| 117 | 1545 | Anthony Washington |
+| 113 | 1588 | Anthony Washington |
+| 114 | 1564 | Spicy Balancer |
+| 115 | 1558 | Uneekly Mayde |
+| 116 | 1548 | Jimmie Makia |
+| 117 | 1546 | Alana Renee |
 | 118 | 1537 | Gotcha |
 | 119 | 1534 | Dulo |
 | 120 | 1525 | Murg4dr01d |
@@ -898,28 +898,28 @@
 | 890 | 215 | Cheery Swiper |
 | 891 | 215 | Angie Smith |
 | 892 | 215 | Perky Balancer |
-| 893 | 215 | Mississippigirl Countrygirl |
-| 894 | 215 | Nikiya |
-| 895 | 215 | KimChii |
-| 896 | 214 | Hyy |
+| 893 | 215 | Sheesh |
+| 894 | 215 | Mississippigirl Countrygirl |
+| 895 | 215 | Nikiya |
+| 896 | 215 | KimChii |
 | 897 | 214 | Chanel White |
 | 898 | 214 | Messy Live |
 | 899 | 214 | Boricua64 |
-| 900 | 214 | Sunny Clicky |
-| 901 | 214 | Mary Goode |
-| 902 | 214 | Amanda Woodruff |
-| 903 | 213 | Daphne Ceasar |
-| 904 | 213 | Jennifer Rogers |
-| 905 | 212 | Ace Hardware |
-| 906 | 212 | Cauiasia DeJ'ae |
-| 907 | 211 | Terrie |
-| 908 | 211 | Poppy Smasher |
-| 909 | 211 | Crtjstr |
-| 910 | 211 | Melissa Hershberger |
-| 911 | 211 | Sheesh |
-| 912 | 210 | Kanary Karotz |
-| 913 | 210 | Slinky Fallzone |
-| 914 | 210 | Keith Big-Sixx Mackell |
+| 900 | 214 | Hyy |
+| 901 | 214 | Sunny Clicky |
+| 902 | 214 | Mary Goode |
+| 903 | 214 | Amanda Woodruff |
+| 904 | 213 | Daphne Ceasar |
+| 905 | 213 | Jennifer Rogers |
+| 906 | 212 | Ace Hardware |
+| 907 | 212 | Cauiasia DeJ'ae |
+| 908 | 211 | Terrie |
+| 909 | 211 | Poppy Smasher |
+| 910 | 211 | Crtjstr |
+| 911 | 211 | Melissa Hershberger |
+| 912 | 210 | Slinky Fallzone |
+| 913 | 210 | Keith Big-Sixx Mackell |
+| 914 | 210 | Kanary Karotz |
 | 915 | 210 | Rob'N Blox |
 | 916 | 210 | Cameo Tweed |
 | 917 | 209 | Bouncy Glide |
