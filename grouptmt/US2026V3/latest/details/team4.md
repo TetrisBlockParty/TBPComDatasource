@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 20:28:23 UTC
+# Standings for team4 as of 2026-06-11 20:29:23 UTC
 
 **Total Participants:** 2583
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 42640 | Hanan Hana |
+| 1 | 42655 | Hanan Hana |
 | 2 | 23500 | Jessica Sheehan |
 | 3 | 21667 | Lisa Cullum |
 | 4 | 18644 | Lyza |
@@ -36,7 +36,7 @@
 | 28 | 5900 | Melissa Brown |
 | 29 | 5600 | Michele |
 | 30 | 5414 | Leah Barnett |
-| 31 | 5226 | Juan Ford |
+| 31 | 5266 | Juan Ford |
 | 32 | 5200 | Squirrel Donkey |
 | 33 | 5169 | Chummy Rollzone |
 | 34 | 5117 | Victoria Ver |
@@ -664,11 +664,11 @@
 | 656 | 313 | Bear Bair |
 | 657 | 313 | Mrsjcraw18 |
 | 658 | 312 | Stephanie Brock |
-| 659 | 311 | Nicole Colby McCloskey |
-| 660 | 311 | Loony Edge |
-| 661 | 310 | Corie A. Brinson |
-| 662 | 310 | Angela Adamo-Tash |
-| 663 | 310 | Elissa Danks |
+| 659 | 312 | Elissa Danks |
+| 660 | 311 | Nicole Colby McCloskey |
+| 661 | 311 | Loony Edge |
+| 662 | 310 | Corie A. Brinson |
+| 663 | 310 | Angela Adamo-Tash |
 | 664 | 309 | April Richardson Morgan |
 | 665 | 308 | Leasa Marie |
 | 666 | 308 | Sarah |
