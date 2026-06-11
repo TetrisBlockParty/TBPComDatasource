@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:44:25 UTC
+# Standings for team1 as of 2026-06-11 12:45:25 UTC
 
 **Total Participants:** 2484
 
@@ -57,7 +57,7 @@
 | 49 | 2909 | Therealdywoune Peay |
 | 50 | 2903 | BlackQueen105 |
 | 51 | 2900 | Rosey |
-| 52 | 2766 | Epic Snapfall |
+| 52 | 2776 | Epic Snapfall |
 | 53 | 2680 | Jamie Willis |
 | 54 | 2647 | Chris Caniglia |
 | 55 | 2632 | D'Andra Stewart |
@@ -182,9 +182,9 @@
 | 174 | 1021 | Jeffrey Barrows |
 | 175 | 1004 | Antonia Wyche |
 | 176 | 994 | GrkGdess |
-| 177 | 981 | No_Other_Choice |
-| 178 | 971 | Slinky Puzzler |
-| 179 | 969 | boogeywoogey |
+| 177 | 989 | boogeywoogey |
+| 178 | 981 | No_Other_Choice |
+| 179 | 971 | Slinky Puzzler |
 | 180 | 964 | Zippy Tilefall |
 | 181 | 952 | Ebony |
 | 182 | 950 | Andi McGreevy |
@@ -392,7 +392,7 @@
 | 384 | 471 | Jae Thompson-Tyus |
 | 385 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 386 | 468 | Christian Pham |
-| 387 | 467 | Shea Ladynick Henderson |
+| 387 | 468 | Shea Ladynick Henderson |
 | 388 | 464 | Krista McNair |
 | 389 | 464 | Devin West |
 | 390 | 464 | Koreen Johnson-Woolford |
@@ -450,13 +450,13 @@
 | 442 | 417 | Peppy Towerbuilder |
 | 443 | 417 | John Staub |
 | 444 | 416 | Silly Edgepiece |
-| 445 | 414 | Brittanie Wardlow |
-| 446 | 414 | Sammie Walker |
-| 447 | 412 | Jessica Kirby |
-| 448 | 412 | Ashley MyBeauty Daniels |
-| 449 | 412 | Matthieu Pistone |
-| 450 | 411 | Giggy Tower |
-| 451 | 410 | Centara Goette |
+| 445 | 415 | Centara Goette |
+| 446 | 414 | Brittanie Wardlow |
+| 447 | 414 | Sammie Walker |
+| 448 | 412 | Jessica Kirby |
+| 449 | 412 | Ashley MyBeauty Daniels |
+| 450 | 412 | Matthieu Pistone |
+| 451 | 411 | Giggy Tower |
 | 452 | 410 | Kimberly Linares Hernandez |
 | 453 | 410 | Salim Thugger |
 | 454 | 409 | Amber Wilson |
@@ -824,11 +824,11 @@
 | 816 | 235 | nameno |
 | 817 | 235 | Squaw Ki Ng |
 | 818 | 235 | Oaklonboy mike |
-| 819 | 235 | Juan Lewis |
-| 820 | 234 | Shameka Tiffany |
-| 821 | 233 | Aanngie Aanngie |
-| 822 | 233 | Claudia Price |
-| 823 | 233 | Kashh |
+| 819 | 235 | Kashh |
+| 820 | 235 | Juan Lewis |
+| 821 | 234 | Shameka Tiffany |
+| 822 | 233 | Aanngie Aanngie |
+| 823 | 233 | Claudia Price |
 | 824 | 232 | Lexx Robins |
 | 825 | 231 | Ashley Davis |
 | 826 | 231 | Rieshelda Marie White |
@@ -1033,51 +1033,51 @@
 | 1025 | 174 | Hasty Brickzone |
 | 1026 | 174 | Austin Smith |
 | 1027 | 174 | Hoppy Rumbler |
-| 1028 | 173 | Latanya Gayle |
-| 1029 | 173 | Damien Fonseca |
-| 1030 | 171 | Shanell Thomas |
-| 1031 | 171 | Margretta Henry |
-| 1032 | 171 | Pinky Pink |
+| 1028 | 173 | Damien Fonseca |
+| 1029 | 173 | Latanya Gayle |
+| 1030 | 173 | Beautiful314 |
+| 1031 | 171 | Shanell Thomas |
+| 1032 | 171 | Deihja Weaver |
 | 1033 | 171 | Sharon Lynn |
-| 1034 | 171 | Deihja Weaver |
-| 1035 | 170 | Devron Reedy |
+| 1034 | 171 | Pinky Pink |
+| 1035 | 171 | Margretta Henry |
 | 1036 | 170 | Aaron Sohnrey |
-| 1037 | 170 | Sarah Guarino |
-| 1038 | 170 | Shawna Passwater |
-| 1039 | 169 | rb |
+| 1037 | 170 | Devron Reedy |
+| 1038 | 170 | Sarah Guarino |
+| 1039 | 170 | Shawna Passwater |
 | 1040 | 169 | Nicole Coko Thomas |
 | 1041 | 169 | LAhoneybun82 |
 | 1042 | 169 | Amilia Cruz |
-| 1043 | 169 | Latricia George |
-| 1044 | 168 | Crafty Witch |
-| 1045 | 168 | Kidgib5 |
-| 1046 | 167 | Shadena M Carter Mba |
-| 1047 | 167 | Richelle Beck |
+| 1043 | 169 | rb |
+| 1044 | 169 | Latricia George |
+| 1045 | 168 | Crafty Witch |
+| 1046 | 168 | Kidgib5 |
+| 1047 | 167 | Shadena M Carter Mba |
 | 1048 | 167 | Felicia Woods |
-| 1049 | 167 | LexiiSamayaa |
-| 1050 | 166 | Angela Hill O'Neal |
-| 1051 | 166 | Elizabeth AW |
-| 1052 | 166 | Cheery T-spin |
-| 1053 | 166 | Amaadi Ward |
-| 1054 | 165 | Wacky Wipepiece |
+| 1049 | 167 | Richelle Beck |
+| 1050 | 167 | LexiiSamayaa |
+| 1051 | 166 | Angela Hill O'Neal |
+| 1052 | 166 | Elizabeth AW |
+| 1053 | 166 | Cheery T-spin |
+| 1054 | 166 | Amaadi Ward |
 | 1055 | 165 | Jerome Lewis |
 | 1056 | 165 | Dawn Basemore |
-| 1057 | 164 | Jodie |
-| 1058 | 164 | Esha I'msoproudofmyself Davis |
-| 1059 | 164 | Markeita Jones |
-| 1060 | 164 | Bianca Nawlinsgurl Ferguson |
-| 1061 | 163 | Beautiful314 |
+| 1057 | 165 | Wacky Wipepiece |
+| 1058 | 164 | Bianca Nawlinsgurl Ferguson |
+| 1059 | 164 | Jodie |
+| 1060 | 164 | Esha I'msoproudofmyself Davis |
+| 1061 | 164 | Markeita Jones |
 | 1062 | 163 | Kathleen Boyles |
-| 1063 | 162 | Speedy Stacky |
-| 1064 | 162 | Sandra Mims |
-| 1065 | 162 | L-Kamice Boykin |
-| 1066 | 162 | Jasmine Hariston-Estis |
+| 1063 | 162 | Sandra Mims |
+| 1064 | 162 | L-Kamice Boykin |
+| 1065 | 162 | Jasmine Hariston-Estis |
+| 1066 | 162 | Speedy Stacky |
 | 1067 | 161 | kaboom |
-| 1068 | 160 | Willson06 |
-| 1069 | 160 | nay |
+| 1068 | 160 | nay |
+| 1069 | 160 | Willson06 |
 | 1070 | 160 | Cheeky Twistpiece |
-| 1071 | 160 | Tipsy Wobbler |
-| 1072 | 160 | Stefan Flick Man |
+| 1071 | 160 | Stefan Flick Man |
+| 1072 | 160 | Tipsy Wobbler |
 | 1073 | 160 | Kennedi Brazziel |
 | 1074 | 160 | Silly Shifter |
 | 1075 | 160 | Charles Johnson |
@@ -1313,13 +1313,13 @@
 | 1305 | 108 | Tony P Burke |
 | 1306 | 108 | Smiley Tilebuilder |
 | 1307 | 108 | Phoenix |
-| 1308 | 107 | Mrs |
-| 1309 | 107 | Brandon Knox |
-| 1310 | 107 | Arjuna Taylor |
-| 1311 | 107 | Amanda Miller |
-| 1312 | 107 | Jeremy Pope |
-| 1313 | 106 | Toohartless Mech |
-| 1314 | 106 | Sugar Foot |
+| 1308 | 108 | Sugar Foot |
+| 1309 | 107 | Mrs |
+| 1310 | 107 | Brandon Knox |
+| 1311 | 107 | Arjuna Taylor |
+| 1312 | 107 | Amanda Miller |
+| 1313 | 107 | Jeremy Pope |
+| 1314 | 106 | Toohartless Mech |
 | 1315 | 106 | NataAllDay |
 | 1316 | 106 | Symonne 'Monnie' Pierce |
 | 1317 | 106 | Hound Dog |
