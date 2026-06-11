@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 16:46:45 UTC
+# Standings for team4 as of 2026-06-11 16:47:25 UTC
 
 **Total Participants:** 2546
 
@@ -127,12 +127,12 @@
 | 119 | 1408 | GeorgeButts |
 | 120 | 1392 | blockhead |
 | 121 | 1362 | Gloria Nunley Trussell |
-| 122 | 1361 | Dee Wizz |
-| 123 | 1360 | Shaina Sharp |
-| 124 | 1358 | HurkleDurkle88 |
-| 125 | 1356 | Fancy Crasher |
-| 126 | 1352 | Nicole |
-| 127 | 1351 | Phil Peterson |
+| 122 | 1361 | Phil Peterson |
+| 123 | 1361 | Dee Wizz |
+| 124 | 1360 | Shaina Sharp |
+| 125 | 1358 | HurkleDurkle88 |
+| 126 | 1356 | Fancy Crasher |
+| 127 | 1352 | Nicole |
 | 128 | 1350 | Principal Liz |
 | 129 | 1346 | Irma |
 | 130 | 1339 | Beth Belanger |
@@ -177,7 +177,7 @@
 | 169 | 1059 | Keesha Muro |
 | 170 | 1058 | Poppy |
 | 171 | 1048 | Fancy Riserfit |
-| 172 | 1040 | Gorica Prusina |
+| 172 | 1046 | Gorica Prusina |
 | 173 | 1035 | George Palacios |
 | 174 | 1026 | Bean |
 | 175 | 1023 | Gigglycat |
@@ -288,18 +288,18 @@
 | 280 | 646 | Dapper Strikerpiece |
 | 281 | 644 | Yesenia Castro Monreal |
 | 282 | 642 | Clever Brickzone |
-| 283 | 640 | Kristal |
-| 284 | 639 | Merritt Brandt |
-| 285 | 638 | Piece of Cake |
+| 283 | 641 | Shanna Fragen |
+| 284 | 640 | Kristal |
+| 285 | 639 | Merritt Brandt |
 | 286 | 638 | Bryanna N Clark |
-| 287 | 636 | Sassy Rollpiece |
-| 288 | 636 | Debby Ruof |
-| 289 | 632 | Real Talk Vibes |
-| 290 | 631 | Morgan Stevens |
-| 291 | 629 | Boldy Rumbler |
-| 292 | 629 | Lani |
-| 293 | 628 | Jeremy |
-| 294 | 627 | Shanna Fragen |
+| 287 | 638 | Piece of Cake |
+| 288 | 636 | Sassy Rollpiece |
+| 289 | 636 | Debby Ruof |
+| 290 | 632 | Real Talk Vibes |
+| 291 | 631 | Morgan Stevens |
+| 292 | 629 | Boldy Rumbler |
+| 293 | 629 | Lani |
+| 294 | 628 | Jeremy |
 | 295 | 625 | Addi JayKay |
 | 296 | 614 | Pebbles Gonzalez |
 | 297 | 613 | Cyndi Najar |
