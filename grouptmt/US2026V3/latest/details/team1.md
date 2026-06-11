@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:30:48 UTC
+# Standings for team1 as of 2026-06-11 07:31:23 UTC
 
 **Total Participants:** 2458
 
@@ -368,10 +368,10 @@
 | 360 | 480 | ♈️ Ariesbaby |
 | 361 | 477 | Nerdy Climber |
 | 362 | 476 | Hasty Glidezone |
-| 363 | 476 | AshyTay |
-| 364 | 475 | Vernon Hoyt |
-| 365 | 473 | Lisa420 |
-| 366 | 473 | Erica Charlise |
+| 363 | 476 | Erica Charlise |
+| 364 | 476 | AshyTay |
+| 365 | 475 | Vernon Hoyt |
+| 366 | 473 | Lisa420 |
 | 367 | 472 | StingerD |
 | 368 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 369 | 468 | Christian Pham |

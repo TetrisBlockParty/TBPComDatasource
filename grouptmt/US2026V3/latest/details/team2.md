@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:30:48 UTC
+# Standings for team2 as of 2026-06-11 07:31:23 UTC
 
 **Total Participants:** 2928
 
@@ -276,8 +276,8 @@
 | 268 | 801 | DukeDino |
 | 269 | 798 | Flashy Drop |
 | 270 | 794 | Amy Taylor Pomerenk |
-| 271 | 792 | Aldotfus Williams |
-| 272 | 792 | Chris Cooper |
+| 271 | 792 | Chris Cooper |
+| 272 | 792 | Aldotfus Williams |
 | 273 | 790 | Sharon L Brazelton |
 | 274 | 789 | Chipper Stackbuilder |
 | 275 | 788 | Ackerman 85 |
@@ -289,8 +289,8 @@
 | 281 | 773 | Kelly Rogers |
 | 282 | 773 | SturgStang |
 | 283 | 772 | Dsabrina Maxey |
-| 284 | 771 | Nikki Carter |
-| 285 | 771 | Christina Maria |
+| 284 | 771 | Christina Maria |
+| 285 | 771 | Nikki Carter |
 | 286 | 771 | Jolly Slice |
 | 287 | 762 | Jenny |
 | 288 | 757 | Kristi Chestnut |
@@ -322,14 +322,14 @@
 | 314 | 688 | giamy |
 | 315 | 687 | Zach Jewett |
 | 316 | 680 | Churube Finwoiisopw |
-| 317 | 679 | Nutty Dash |
-| 318 | 679 | True |
+| 317 | 679 | True |
+| 318 | 679 | Nutty Dash |
 | 319 | 679 | Michelle Rich Burkhart |
 | 320 | 676 | Michelle Hicks |
 | 321 | 674 | Angela Hogan |
 | 322 | 674 | Kathryn |
-| 323 | 671 | Breeana Bennett |
-| 324 | 671 | Krystal Hummel |
+| 323 | 671 | Krystal Hummel |
+| 324 | 671 | Breeana Bennett |
 | 325 | 671 | Gloria May Shook |
 | 326 | 670 | Chirpy Grid |
 | 327 | 667 | Chill Line |
@@ -363,9 +363,9 @@
 | 355 | 613 | Norma Ortiz |
 | 356 | 613 | Nicole Plummer |
 | 357 | 610 | Judy Long |
-| 358 | 607 | Janelle Edgecombe |
-| 359 | 606 | Lindsey Ford |
-| 360 | 603 | Jumpy Matchbuilder |
+| 358 | 608 | Jumpy Matchbuilder |
+| 359 | 607 | Janelle Edgecombe |
+| 360 | 606 | Lindsey Ford |
 | 361 | 602 | MUMBLES |
 | 362 | 600 | Liseth Vasquez |
 | 363 | 598 | Thomas Tyrone |
@@ -819,36 +819,36 @@
 | 811 | 280 | Angeleye A James |
 | 812 | 279 | SunnySquare |
 | 813 | 279 | Brooke Lynn Marie Adelaide |
-| 814 | 279 | Nova |
-| 815 | 279 | Ryan Rhodes |
-| 816 | 278 | John Davis |
+| 814 | 279 | Ryan Rhodes |
+| 815 | 279 | Nova |
+| 816 | 278 | Amanda Rude |
 | 817 | 278 | Chrystal |
-| 818 | 278 | Amanda Rude |
+| 818 | 278 | John Davis |
 | 819 | 278 | Shannon Posner |
-| 820 | 277 | Ashley Fleming |
-| 821 | 277 | Carrie Smith Negron |
-| 822 | 277 | Ashlee Johnson |
-| 823 | 276 | Connie McCoy |
-| 824 | 276 | NickandJess Reynolds |
-| 825 | 275 | Cheryl Schmid |
+| 820 | 277 | Carrie Smith Negron |
+| 821 | 277 | Jeremy Daurbigny |
+| 822 | 277 | Ashley Fleming |
+| 823 | 277 | Ashlee Johnson |
+| 824 | 276 | Connie McCoy |
+| 825 | 276 | NickandJess Reynolds |
 | 826 | 275 | Trisha Schneider |
 | 827 | 275 | rebel4lyfe |
-| 828 | 274 | Clever Gridzone |
-| 829 | 273 | Amber Carpenter |
-| 830 | 272 | Lydia Shonee |
-| 831 | 271 | MamaRachel |
-| 832 | 271 | Spicy Balanceblock |
-| 833 | 270 | Cody Gates |
-| 834 | 270 | Kim Powers |
-| 835 | 270 | Cool Balancer |
-| 836 | 268 | Silly Chiseler |
-| 837 | 268 | Maurii93 |
-| 838 | 267 | Allison Peterson |
-| 839 | 267 | Kelly |
-| 840 | 267 | Chipper Towerzone |
-| 841 | 267 | Treau Torres |
-| 842 | 267 | Dustin Bumbalough |
-| 843 | 267 | Jeremy Daurbigny |
+| 828 | 275 | Cheryl Schmid |
+| 829 | 274 | Clever Gridzone |
+| 830 | 273 | Amber Carpenter |
+| 831 | 272 | Lydia Shonee |
+| 832 | 271 | MamaRachel |
+| 833 | 271 | Spicy Balanceblock |
+| 834 | 270 | Cody Gates |
+| 835 | 270 | Kim Powers |
+| 836 | 270 | Cool Balancer |
+| 837 | 268 | Silly Chiseler |
+| 838 | 268 | Maurii93 |
+| 839 | 267 | Allison Peterson |
+| 840 | 267 | Kelly |
+| 841 | 267 | Chipper Towerzone |
+| 842 | 267 | Treau Torres |
+| 843 | 267 | Dustin Bumbalough |
 | 844 | 266 | Stacy Shaunce |
 | 845 | 266 | Darla Nolt |
 | 846 | 266 | Jazzy Snapfit |
@@ -1627,58 +1627,58 @@
 | 1619 | 109 | Courtney Elizabeth Hartnagel |
 | 1620 | 108 | Anthony Kordich |
 | 1621 | 108 | Jamie Benge |
-| 1622 | 108 | Brian David Fogg |
-| 1623 | 108 | Perky Twistfit |
-| 1624 | 108 | Jennifer Robinson |
-| 1625 | 107 | Giggy Linkgrid |
-| 1626 | 107 | Lori Antrim Nichols |
-| 1627 | 107 | Carole Brown |
-| 1628 | 107 | bigdog |
-| 1629 | 106 | Amy N Daniel Greene |
-| 1630 | 106 | Teresa Ann Curry |
-| 1631 | 106 | Slinky Linkgrid |
-| 1632 | 106 | David Bright |
-| 1633 | 106 | Chipper Blockroll |
-| 1634 | 106 | Chirpy Tower |
-| 1635 | 105 | Yvonne Rodriguez |
-| 1636 | 105 | Daddy’s Here |
-| 1637 | 105 | Jill Gelhausen |
-| 1638 | 105 | Heather Hi |
-| 1639 | 105 | DragonJB2020 |
-| 1640 | 105 | Annie82 |
-| 1641 | 105 | Patrick Woodard |
-| 1642 | 104 | Yari |
-| 1643 | 104 | Jolene Smith |
-| 1644 | 103 | Jamie Mullins |
-| 1645 | 103 | Shalice Jacobs |
-| 1646 | 103 | Cynthia Vornlocker |
-| 1647 | 103 | BoxerMom |
-| 1648 | 103 | twistyzone |
-| 1649 | 103 | Bowling girl |
-| 1650 | 102 | Flashy Blockfall |
-| 1651 | 102 | Chad Praytor |
-| 1652 | 102 | Becki Lynne Corinthos |
-| 1653 | 102 | Josie Mendivil |
-| 1654 | 101 | Kathryn N Heather Todd |
-| 1655 | 101 | Happy Wipeout |
-| 1656 | 101 | Em |
-| 1657 | 101 | Cate Imel |
-| 1658 | 101 | Jenifer Seeley |
-| 1659 | 101 | Kristen Alta |
-| 1660 | 101 | Cynthia Dawn Reitz Hanson |
-| 1661 | 100 | Kaylyn Wickham |
-| 1662 | 100 | Steve Appel |
-| 1663 | 100 | Kristy Moore |
-| 1664 | 100 | Jason Guy |
-| 1665 | 100 | Stephania Edwards |
-| 1666 | 100 | Carrie Wilcox |
-| 1667 | 100 | Dysty |
-| 1668 | 100 | Bubbly Risebuilder |
-| 1669 | 100 | Angiela Hope Boggs |
-| 1670 | 100 | Giggy Balancefit |
-| 1671 | 100 | Justin Furne |
-| 1672 | 100 | Denna Marteney |
-| 1673 | 100 | Dizzy Dropzone |
+| 1622 | 108 | Denna Marteney |
+| 1623 | 108 | Brian David Fogg |
+| 1624 | 108 | Perky Twistfit |
+| 1625 | 108 | Jennifer Robinson |
+| 1626 | 107 | Giggy Linkgrid |
+| 1627 | 107 | Lori Antrim Nichols |
+| 1628 | 107 | Carole Brown |
+| 1629 | 107 | bigdog |
+| 1630 | 106 | Amy N Daniel Greene |
+| 1631 | 106 | Teresa Ann Curry |
+| 1632 | 106 | Slinky Linkgrid |
+| 1633 | 106 | David Bright |
+| 1634 | 106 | Chipper Blockroll |
+| 1635 | 106 | Chirpy Tower |
+| 1636 | 105 | Yvonne Rodriguez |
+| 1637 | 105 | Daddy’s Here |
+| 1638 | 105 | Jill Gelhausen |
+| 1639 | 105 | Heather Hi |
+| 1640 | 105 | DragonJB2020 |
+| 1641 | 105 | Annie82 |
+| 1642 | 105 | Patrick Woodard |
+| 1643 | 104 | Yari |
+| 1644 | 104 | Jolene Smith |
+| 1645 | 103 | Jamie Mullins |
+| 1646 | 103 | Shalice Jacobs |
+| 1647 | 103 | Cynthia Vornlocker |
+| 1648 | 103 | BoxerMom |
+| 1649 | 103 | twistyzone |
+| 1650 | 103 | Bowling girl |
+| 1651 | 102 | Flashy Blockfall |
+| 1652 | 102 | Chad Praytor |
+| 1653 | 102 | Becki Lynne Corinthos |
+| 1654 | 102 | Josie Mendivil |
+| 1655 | 101 | Kathryn N Heather Todd |
+| 1656 | 101 | Happy Wipeout |
+| 1657 | 101 | Em |
+| 1658 | 101 | Cate Imel |
+| 1659 | 101 | Jenifer Seeley |
+| 1660 | 101 | Kristen Alta |
+| 1661 | 101 | Cynthia Dawn Reitz Hanson |
+| 1662 | 100 | Kaylyn Wickham |
+| 1663 | 100 | Steve Appel |
+| 1664 | 100 | Kristy Moore |
+| 1665 | 100 | Jason Guy |
+| 1666 | 100 | Stephania Edwards |
+| 1667 | 100 | Carrie Wilcox |
+| 1668 | 100 | Dysty |
+| 1669 | 100 | Bubbly Risebuilder |
+| 1670 | 100 | Angiela Hope Boggs |
+| 1671 | 100 | Giggy Balancefit |
+| 1672 | 100 | Dizzy Dropzone |
+| 1673 | 100 | Justin Furne |
 | 1674 | 99 | Joyce Galloway |
 | 1675 | 99 | Lorrie Girardi |
 | 1676 | 99 | Brianne Coffer |
@@ -1705,9 +1705,9 @@
 | 1697 | 95 | Licia |
 | 1698 | 95 | Perky Patternbuilder |
 | 1699 | 95 | Jstang |
-| 1700 | 95 | Tonya Marino |
-| 1701 | 95 | Peachy Piecebuilder |
-| 1702 | 95 | Lexi Chouinard |
+| 1700 | 95 | Peachy Piecebuilder |
+| 1701 | 95 | Lexi Chouinard |
+| 1702 | 95 | Tonya Marino |
 | 1703 | 94 | Isiwin |
 | 1704 | 94 | Loony Shatter |
 | 1705 | 94 | Taran Evans |
@@ -1721,11 +1721,11 @@
 | 1713 | 93 | Kandie Warren |
 | 1714 | 93 | Collins |
 | 1715 | 93 | Connie Breeden |
-| 1716 | 93 | Bethany Nestor |
-| 1717 | 93 | Brandy Wallace |
+| 1716 | 93 | Brandy Wallace |
+| 1717 | 93 | Bethany Nestor |
 | 1718 | 92 | Sami Amato |
-| 1719 | 92 | Buddy |
-| 1720 | 92 | Pleaze Marshall |
+| 1719 | 92 | Pleaze Marshall |
+| 1720 | 92 | Buddy |
 | 1721 | 92 | Jayda Walters |
 | 1722 | 92 | Mindy Corriher |
 | 1723 | 92 | Jodi Deninno |
@@ -1890,8 +1890,8 @@
 | 1882 | 71 | Brittany Nichole Ellenburg |
 | 1883 | 70 | Abby Dexter |
 | 1884 | 70 | Silly Twister |
-| 1885 | 70 | Brittany Kay |
-| 1886 | 70 | Stephanie |
+| 1885 | 70 | Stephanie |
+| 1886 | 70 | Brittany Kay |
 | 1887 | 70 | Rachelle Parker |
 | 1888 | 70 | Nanette Michelle Donahue |
 | 1889 | 70 | Anna |
@@ -2025,8 +2025,8 @@
 | 2017 | 59 | Road Runnersauraus |
 | 2018 | 59 | MommaTinaV |
 | 2019 | 59 | Syg Honeyboy |
-| 2020 | 59 | April Addis |
-| 2021 | 59 | Chirpy Towerer |
+| 2020 | 59 | Chirpy Towerer |
+| 2021 | 59 | April Addis |
 | 2022 | 59 | Christina Nycol |
 | 2023 | 58 | Deborah Fowler |
 | 2024 | 58 | Slinky Winder |
@@ -2044,8 +2044,8 @@
 | 2036 | 57 | Snippy Tilefall |
 | 2037 | 57 | Ashley Bennett |
 | 2038 | 57 | Tommyboy |
-| 2039 | 57 | Bigbb |
-| 2040 | 57 | Missy Stevens |
+| 2039 | 57 | Missy Stevens |
+| 2040 | 57 | Bigbb |
 | 2041 | 56 | Glitzy Stackbuilder |
 | 2042 | 56 | אֵלִיָּהוּ ציר |
 | 2043 | 56 | Ruthann Nelson |
@@ -2103,8 +2103,8 @@
 | 2095 | 53 | Kimberly Rochon |
 | 2096 | 53 | Topknot13 |
 | 2097 | 53 | Thomas Johnstone |
-| 2098 | 52 | Sir Paco |
-| 2099 | 52 | Lavenda Nettles |
+| 2098 | 52 | Lavenda Nettles |
+| 2099 | 52 | Sir Paco |
 | 2100 | 52 | Spunky Patternfit |
 | 2101 | 52 | Katy Marie |
 | 2102 | 52 | Joyce Bartel |
