@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 12:05:23 UTC
+# Standings for team4 as of 2026-06-11 12:06:23 UTC
 
 **Total Participants:** 2521
 
@@ -446,8 +446,8 @@
 | 438 | 422 | Tiggerjake |
 | 439 | 421 | Jay Dee |
 | 440 | 421 | Holly Bramel |
-| 441 | 417 | Shiny Strikerbuilder |
-| 442 | 417 | FitMeDiva |
+| 441 | 419 | FitMeDiva |
+| 442 | 417 | Shiny Strikerbuilder |
 | 443 | 416 | Jen Roe |
 | 444 | 415 | Chass Hudson |
 | 445 | 415 | Matthew Wilcox |
@@ -705,11 +705,11 @@
 | 697 | 274 | Justin Ballard |
 | 698 | 274 | Sarah Montagne Forsberg |
 | 699 | 274 | Zesty Lift |
-| 700 | 274 | Kiki Moore |
-| 701 | 273 | Blessedmom865 |
-| 702 | 272 | Chelsea Costa |
-| 703 | 272 | Alicia Blunt |
-| 704 | 272 | Stephanie Brock |
+| 700 | 274 | Stephanie Brock |
+| 701 | 274 | Kiki Moore |
+| 702 | 273 | Blessedmom865 |
+| 703 | 272 | Chelsea Costa |
+| 704 | 272 | Alicia Blunt |
 | 705 | 271 | Adi Patterson |
 | 706 | 271 | Suzi Smas |
 | 707 | 271 | Lord Solrac |
@@ -942,8 +942,8 @@
 | 934 | 200 | skynatda |
 | 935 | 200 | Rodger Lines |
 | 936 | 200 | Jenn Wilson |
-| 937 | 200 | Marvin Mack |
-| 938 | 200 | Bumpy Morris |
+| 937 | 200 | Bumpy Morris |
+| 938 | 200 | Marvin Mack |
 | 939 | 200 | April Richardson Morgan |
 | 940 | 200 | Sierra A Hortman |
 | 941 | 200 | Melissa Derby Rood |
@@ -951,20 +951,20 @@
 | 943 | 200 | Michelle Sager |
 | 944 | 199 | Lindsey DeRosa |
 | 945 | 199 | Janet Willoughby |
-| 946 | 199 | Tray Day |
-| 947 | 199 | Combo Snappy |
+| 946 | 199 | Combo Snappy |
+| 947 | 199 | Tray Day |
 | 948 | 199 | Kristan Hoffman |
 | 949 | 199 | Kristen Lester |
-| 950 | 199 | Frilly Riserpiece |
-| 951 | 199 | Nicole Dombrow |
+| 950 | 199 | Nicole Dombrow |
+| 951 | 199 | Frilly Riserpiece |
 | 952 | 199 | Dizzy |
-| 953 | 198 | Ashley McGeehan |
-| 954 | 198 | Jeremy Fisher |
-| 955 | 197 | Yournightmare |
-| 956 | 197 | Kayla Haddenham |
+| 953 | 198 | Jeremy Fisher |
+| 954 | 198 | Ashley McGeehan |
+| 955 | 197 | Toria |
+| 956 | 197 | Shawntae Mccary |
 | 957 | 197 | Street724 |
-| 958 | 197 | Toria |
-| 959 | 197 | Shawntae Mccary |
+| 958 | 197 | Kayla Haddenham |
+| 959 | 197 | Yournightmare |
 | 960 | 197 | Alex Dawn |
 | 961 | 196 | Lilo |
 | 962 | 196 | Tipsy Matchline |
@@ -975,47 +975,47 @@
 | 967 | 193 | Amy Tennison |
 | 968 | 193 | ButterfliesRFree |
 | 969 | 192 | Cranky Twisterfit |
-| 970 | 192 | Chris |
-| 971 | 192 | Scot Matthew Bergdorf |
+| 970 | 192 | Scot Matthew Bergdorf |
+| 971 | 192 | Chris |
 | 972 | 191 | Bouncy Clusterline |
 | 973 | 191 | Tony Clark |
 | 974 | 190 | Natalie Ohrtman Strand |
-| 975 | 190 | Kris McMahon |
-| 976 | 190 | Name |
-| 977 | 190 | TeQuita Jennings |
-| 978 | 190 | Darryl Shufford |
-| 979 | 190 | Brenda Villa |
-| 980 | 190 | Layne Davis |
-| 981 | 190 | Pickles |
-| 982 | 188 | Daring Patternblock |
-| 983 | 188 | LaRue Tee |
-| 984 | 188 | Littleshark |
-| 985 | 188 | Chirpy Dashfit |
-| 986 | 188 | Andy Petersen |
-| 987 | 187 | YenSid |
-| 988 | 187 | Krystal Simpson |
-| 989 | 186 | Quirky Shatterblock |
+| 975 | 190 | Pickles |
+| 976 | 190 | Kris McMahon |
+| 977 | 190 | Layne Davis |
+| 978 | 190 | TeQuita Jennings |
+| 979 | 190 | Name |
+| 980 | 190 | Darryl Shufford |
+| 981 | 190 | Brenda Villa |
+| 982 | 188 | Chirpy Dashfit |
+| 983 | 188 | Daring Patternblock |
+| 984 | 188 | Andy Petersen |
+| 985 | 188 | Littleshark |
+| 986 | 188 | LaRue Tee |
+| 987 | 187 | Krystal Simpson |
+| 988 | 187 | YenSid |
+| 989 | 186 | Phredda Helene Gavornik |
 | 990 | 186 | Diqthot |
-| 991 | 186 | Phredda Helene Gavornik |
+| 991 | 186 | Quirky Shatterblock |
 | 992 | 185 | Hooti Smile |
 | 993 | 185 | Dannie Ems |
 | 994 | 184 | Amanda Lynn Robinson |
 | 995 | 184 | Witty Fitblock |
 | 996 | 184 | RustyMaster40 |
 | 997 | 183 | Mar Mar |
-| 998 | 182 | TheazO |
-| 999 | 182 | Happy Filler |
-| 1000 | 182 | Lori A Hamann |
-| 1001 | 182 | Patsy |
-| 1002 | 182 | Vicente Bolaños Jr. |
-| 1003 | 181 | SueSally |
-| 1004 | 181 | Scott If |
-| 1005 | 181 | Elise Ann |
-| 1006 | 180 | Silly Rollbuilder |
-| 1007 | 180 | Kristie McFarland |
-| 1008 | 180 | Melissa Wilson |
-| 1009 | 180 | Wyatt Karren |
-| 1010 | 180 | Fancy Riser |
+| 998 | 183 | Fancy Riser |
+| 999 | 182 | TheazO |
+| 1000 | 182 | Happy Filler |
+| 1001 | 182 | Lori A Hamann |
+| 1002 | 182 | Patsy |
+| 1003 | 182 | Vicente Bolaños Jr. |
+| 1004 | 181 | SueSally |
+| 1005 | 181 | Scott If |
+| 1006 | 181 | Elise Ann |
+| 1007 | 180 | Silly Rollbuilder |
+| 1008 | 180 | Kristie McFarland |
+| 1009 | 180 | Melissa Wilson |
+| 1010 | 180 | Wyatt Karren |
 | 1011 | 180 | Hotstuff |
 | 1012 | 180 | Charissa W Walton |
 | 1013 | 180 | Glamorous Gracey |
