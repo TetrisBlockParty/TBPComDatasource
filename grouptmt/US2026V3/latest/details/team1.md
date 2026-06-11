@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:08:28 UTC
+# Standings for team1 as of 2026-06-11 18:09:26 UTC
 
 **Total Participants:** 2518
 
@@ -36,7 +36,7 @@
 | 28 | 5282 | Plucky Swipe |
 | 29 | 4767 | Kkbk |
 | 30 | 4517 | Chummy Combo |
-| 31 | 4396 | Janine Hunter |
+| 31 | 4441 | Janine Hunter |
 | 32 | 4269 | Shortstak |
 | 33 | 4151 | Mary Jenkins |
 | 34 | 4140 | Cee Emm |
@@ -417,15 +417,15 @@
 | 409 | 475 | Amy Lynn Leifheit |
 | 410 | 475 | Vernon Hoyt |
 | 411 | 473 | Lisa420 |
-| 412 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 413 | 469 | Kendra McIntyre |
-| 414 | 465 | Bubbly Piececlear |
-| 415 | 464 | Wayne Savannah |
-| 416 | 464 | Nate Myers |
-| 417 | 464 | Michele Simpson |
-| 418 | 464 | Koreen Johnson-Woolford |
-| 419 | 461 | Bold Clusterer |
-| 420 | 460 | Faith Armone |
+| 412 | 473 | Faith Armone |
+| 413 | 470 | Davionte DaeDae Hopson-Rodriguez |
+| 414 | 469 | Kendra McIntyre |
+| 415 | 465 | Bubbly Piececlear |
+| 416 | 464 | Wayne Savannah |
+| 417 | 464 | Nate Myers |
+| 418 | 464 | Michele Simpson |
+| 419 | 464 | Koreen Johnson-Woolford |
+| 420 | 461 | Bold Clusterer |
 | 421 | 460 | SherylU |
 | 422 | 460 | Kelli Couture |
 | 423 | 457 | Saranoh13 |
@@ -476,15 +476,15 @@
 | 468 | 423 | Holly Baker |
 | 469 | 423 | Kimberly Anderson |
 | 470 | 422 | The DUBZ |
-| 471 | 421 | Juan Alvarez |
-| 472 | 420 | Ketrell Bailey |
-| 473 | 420 | Abby |
-| 474 | 420 | Glitzy Patternline |
-| 475 | 419 | FunTime |
-| 476 | 419 | Yadira Salgado |
-| 477 | 419 | Stephen Glaze |
-| 478 | 418 | Cortaz Lawrie |
-| 479 | 418 | Jennah |
+| 471 | 422 | Jennah |
+| 472 | 421 | Juan Alvarez |
+| 473 | 420 | Ketrell Bailey |
+| 474 | 420 | Abby |
+| 475 | 420 | Glitzy Patternline |
+| 476 | 419 | FunTime |
+| 477 | 419 | Yadira Salgado |
+| 478 | 419 | Stephen Glaze |
+| 479 | 418 | Cortaz Lawrie |
 | 480 | 417 | Matthieu Pistone |
 | 481 | 417 | John Staub |
 | 482 | 416 | Twisty Pivot |
@@ -631,85 +631,85 @@
 | 623 | 330 | Karen Knapp |
 | 624 | 328 | Poppy Twister |
 | 625 | 327 | Marlainia Boyd |
-| 626 | 327 | Hardtohandle91 |
-| 627 | 327 | Bambi Johnson |
-| 628 | 325 | Kàrma Lee |
-| 629 | 325 | Meshia |
-| 630 | 324 | Teddy Davis |
-| 631 | 324 | Sharee Robinson |
+| 626 | 327 | Bambi Johnson |
+| 627 | 327 | Hardtohandle91 |
+| 628 | 325 | Meshia |
+| 629 | 325 | Kàrma Lee |
+| 630 | 324 | Sharee Robinson |
+| 631 | 324 | Teddy Davis |
 | 632 | 323 | Bea Dyer-Fields |
 | 633 | 323 | jeremy92 |
-| 634 | 322 | TNT |
-| 635 | 321 | Terri Smart |
+| 634 | 322 | Mary Phillippi Blanton |
+| 635 | 322 | TNT |
 | 636 | 321 | LuckyStar |
-| 637 | 320 | Malcolm Stanley |
-| 638 | 319 | Tamika Rocheteau |
-| 639 | 319 | Ciera Peace |
-| 640 | 319 | TY Newme Batts |
-| 641 | 319 | Christi Walker Patton |
-| 642 | 319 | Dreamzzz |
-| 643 | 319 | Zany Breaker |
-| 644 | 318 | Latore Maxie |
-| 645 | 318 | Nerdy Snapfall |
-| 646 | 317 | Mister Reid |
+| 637 | 321 | Terri Smart |
+| 638 | 320 | Malcolm Stanley |
+| 639 | 319 | Zany Breaker |
+| 640 | 319 | Dreamzzz |
+| 641 | 319 | TY Newme Batts |
+| 642 | 319 | Christi Walker Patton |
+| 643 | 319 | Ciera Peace |
+| 644 | 319 | Tamika Rocheteau |
+| 645 | 318 | Latore Maxie |
+| 646 | 318 | Nerdy Snapfall |
 | 647 | 317 | Shemar Singleton |
-| 648 | 317 | Mary Phillippi Blanton |
+| 648 | 317 | Mister Reid |
 | 649 | 316 | Comedian Gdane |
 | 650 | 312 | Spunky Gridder |
 | 651 | 311 | Sarah Steckbauer |
 | 652 | 310 | Bambam |
-| 653 | 310 | Brittany Sara Heldwein |
+| 653 | 310 | Peppy Glider |
 | 654 | 310 | Jen Hallin |
-| 655 | 310 | Peppy Glider |
-| 656 | 309 | Frilly Shatterline |
-| 657 | 309 | Kike Lua |
+| 655 | 310 | Brittany Sara Heldwein |
+| 656 | 309 | Kike Lua |
+| 657 | 309 | Frilly Shatterline |
 | 658 | 308 | Michelle Fowler |
-| 659 | 308 | Tonya Lee Sanders |
-| 660 | 308 | Darrel K Pemberton |
-| 661 | 308 | Melissa Olvera |
-| 662 | 308 | Jjhandsome |
+| 659 | 308 | Jjhandsome |
+| 660 | 308 | Melissa Olvera |
+| 661 | 308 | Darrel K Pemberton |
+| 662 | 308 | Tonya Lee Sanders |
 | 663 | 307 | Coco |
 | 664 | 307 | Spicy Shatterblock |
-| 665 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 666 | 306 | Zappy Clearfit |
-| 667 | 306 | Mafio SO |
-| 668 | 305 | BonnieB |
-| 669 | 305 | Shalena Marie Humphrey |
+| 665 | 306 | Zappy Clearfit |
+| 666 | 306 | Mafio SO |
+| 667 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 668 | 305 | Shalena Marie Humphrey |
+| 669 | 305 | BonnieB |
 | 670 | 304 | Octavia Bsb Johnson |
 | 671 | 304 | BB |
-| 672 | 303 | Chris Nelson |
-| 673 | 303 | Kelley Johnson |
+| 672 | 303 | Kelley Johnson |
+| 673 | 303 | Chris Nelson |
 | 674 | 302 | Stanley Dixon |
 | 675 | 301 | Monica Fields |
 | 676 | 301 | Rufus |
-| 677 | 300 | Daring Blockclear |
-| 678 | 300 | Phillip White |
-| 679 | 300 | Quitito1014 |
-| 680 | 300 | Cheryl Miller |
-| 681 | 300 | Spadez1231 |
+| 677 | 300 | Kate Moses |
+| 678 | 300 | Quitito1014 |
+| 679 | 300 | Phillip White |
+| 680 | 300 | Spadez1231 |
+| 681 | 300 | Daring Blockclear |
 | 682 | 300 | brite |
-| 683 | 300 | Kate Moses |
-| 684 | 300 | Lazy Tiltpiece |
+| 683 | 300 | Lazy Tiltpiece |
+| 684 | 300 | Cheryl Miller |
 | 685 | 299 | Chandler Magee |
-| 686 | 298 | Rachael R Gull |
-| 687 | 298 | Logan Frost |
+| 686 | 298 | Logan Frost |
+| 687 | 298 | Rachael R Gull |
 | 688 | 297 | William Vidra |
-| 689 | 297 | Marbama |
-| 690 | 297 | Lindsey |
+| 689 | 297 | Lindsey |
+| 690 | 297 | Marbama |
 | 691 | 296 | Cornelius Neal |
 | 692 | 296 | Antoinette Jones |
 | 693 | 296 | Stephanie L Jeffries Moultrie |
 | 694 | 295 | Tyler |
 | 695 | 294 | Cori Cleland |
-| 696 | 293 | crumb bumc |
-| 697 | 293 | Claudia Price |
-| 698 | 293 | Rhianna Dinki Austin |
-| 699 | 292 | Darrelle Short |
-| 700 | 292 | Courtney Cicoria |
+| 696 | 293 | Rhianna Dinki Austin |
+| 697 | 293 | crumb bumc |
+| 698 | 293 | Claudia Price |
+| 699 | 292 | Courtney Cicoria |
+| 700 | 292 | Darrelle Short |
 | 701 | 291 | Pj Rojas |
-| 702 | 291 | Brian Taylor |
-| 703 | 291 | Bella |
-| 704 | 291 | Bubbly Basegrid |
+| 702 | 291 | Bella |
+| 703 | 291 | Bubbly Basegrid |
+| 704 | 291 | Brian Taylor |
 | 705 | 290 | Stephanie Ellis |
 | 706 | 290 | Dirty Deeds |
 | 707 | 290 | Mathew Trudell |
