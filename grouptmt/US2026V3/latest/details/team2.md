@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 06:26:44 UTC
+# Standings for team2 as of 2026-06-11 06:27:24 UTC
 
 **Total Participants:** 2924
 
@@ -161,37 +161,37 @@
 | 153 | 1350 | Sigmamom |
 | 154 | 1323 | joey |
 | 155 | 1321 | Allison Jarman |
-| 156 | 1287 | Rob Owens |
-| 157 | 1286 | Kvothe |
-| 158 | 1275 | Michelle Maulsby |
-| 159 | 1270 | Joslyn Johnson |
-| 160 | 1266 | Shea |
-| 161 | 1259 | Marie Luciano |
-| 162 | 1246 | Monique Frantz |
-| 163 | 1238 | Melissa Thomas |
-| 164 | 1238 | Jackie Tupper |
-| 165 | 1224 | BrendaLee NolanBos |
-| 166 | 1217 | Leigh Ann |
-| 167 | 1211 | Ricardo Ewart |
-| 168 | 1208 | Brenda Jones |
-| 169 | 1208 | Tami Kay Williams Watson |
-| 170 | 1199 | Jeska Gaines |
-| 171 | 1192 | Sabrina Hardrick |
-| 172 | 1189 | AndrewandShela Gornik |
-| 173 | 1188 | Snappy Blockbuilder |
-| 174 | 1183 | Spicy Risegrid |
-| 175 | 1152 | Cristi Doris |
-| 176 | 1149 | Allie Bug |
-| 177 | 1139 | Tina Marie |
-| 178 | 1117 | MegaPooh |
-| 179 | 1090 | Le Sandy |
-| 180 | 1080 | Erin Thomas |
-| 181 | 1073 | Nikki Hayes |
-| 182 | 1072 | Groovy Snapper |
-| 183 | 1061 | Frothy Fitzone |
-| 184 | 1060 | Sarah Mccolgan |
-| 185 | 1049 | Sedy |
-| 186 | 1046 | JB6 |
+| 156 | 1290 | JB6 |
+| 157 | 1287 | Rob Owens |
+| 158 | 1286 | Kvothe |
+| 159 | 1275 | Michelle Maulsby |
+| 160 | 1270 | Joslyn Johnson |
+| 161 | 1266 | Shea |
+| 162 | 1259 | Marie Luciano |
+| 163 | 1246 | Monique Frantz |
+| 164 | 1238 | Melissa Thomas |
+| 165 | 1238 | Jackie Tupper |
+| 166 | 1224 | BrendaLee NolanBos |
+| 167 | 1217 | Leigh Ann |
+| 168 | 1211 | Ricardo Ewart |
+| 169 | 1208 | Brenda Jones |
+| 170 | 1208 | Tami Kay Williams Watson |
+| 171 | 1199 | Jeska Gaines |
+| 172 | 1192 | Sabrina Hardrick |
+| 173 | 1189 | AndrewandShela Gornik |
+| 174 | 1188 | Snappy Blockbuilder |
+| 175 | 1183 | Spicy Risegrid |
+| 176 | 1152 | Cristi Doris |
+| 177 | 1149 | Allie Bug |
+| 178 | 1139 | Tina Marie |
+| 179 | 1117 | MegaPooh |
+| 180 | 1090 | Le Sandy |
+| 181 | 1080 | Erin Thomas |
+| 182 | 1073 | Nikki Hayes |
+| 183 | 1072 | Groovy Snapper |
+| 184 | 1061 | Frothy Fitzone |
+| 185 | 1060 | Sarah Mccolgan |
+| 186 | 1049 | Sedy |
 | 187 | 1046 | Sarah Griffey |
 | 188 | 1035 | Amber Wolf |
 | 189 | 1033 | Theresa Hollinger |
@@ -226,9 +226,9 @@
 | 218 | 927 | SEH |
 | 219 | 924 | Nettrainer |
 | 220 | 923 | Kimmyc |
-| 221 | 911 | Sandy Lynn |
-| 222 | 910 | Lashanda Bertram |
-| 223 | 907 | Melissa Nash |
+| 221 | 922 | Melissa Nash |
+| 222 | 911 | Sandy Lynn |
+| 223 | 910 | Lashanda Bertram |
 | 224 | 904 | Carebear05 |
 | 225 | 903 | Theresa Huddleston |
 | 226 | 898 | Giggly Wipepiece |
@@ -1017,13 +1017,13 @@
 | 1009 | 217 | Spicy Snapclear |
 | 1010 | 216 | Sara Dunn |
 | 1011 | 216 | KS Hengesbach |
-| 1012 | 216 | Lori Yelvington Cain |
-| 1013 | 215 | TheAggie12 |
-| 1014 | 215 | Heather Nicole |
-| 1015 | 215 | Brandy McCleary |
-| 1016 | 215 | Nerdy Gridlock |
-| 1017 | 214 | Marissa Alpeza |
-| 1018 | 214 | Anita Blackshear |
+| 1012 | 216 | Anita Blackshear |
+| 1013 | 216 | Lori Yelvington Cain |
+| 1014 | 215 | TheAggie12 |
+| 1015 | 215 | Heather Nicole |
+| 1016 | 215 | Brandy McCleary |
+| 1017 | 215 | Nerdy Gridlock |
+| 1018 | 214 | Marissa Alpeza |
 | 1019 | 213 | Lisa Chapman |
 | 1020 | 213 | Brenda Zona |
 | 1021 | 212 | Rae |
