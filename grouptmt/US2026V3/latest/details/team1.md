@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:16:19 UTC
+# Standings for team1 as of 2026-06-11 11:17:18 UTC
 
 **Total Participants:** 2476
 
@@ -337,11 +337,11 @@
 | 329 | 523 | Bre Poston |
 | 330 | 521 | Jawaun Daniels |
 | 331 | 521 | Shanaa Germany Crittenden |
-| 332 | 516 | Jayjay Rich |
-| 333 | 515 | Queenie Perry |
-| 334 | 513 | Analiza Ramos |
-| 335 | 513 | Tasha |
-| 336 | 512 | Steve Reno |
+| 332 | 516 | Steve Reno |
+| 333 | 516 | Jayjay Rich |
+| 334 | 515 | Queenie Perry |
+| 335 | 513 | Analiza Ramos |
+| 336 | 513 | Tasha |
 | 337 | 511 | NewEve |
 | 338 | 511 | Dizzy Dropper |
 | 339 | 509 | JaClanDiah |
@@ -451,8 +451,8 @@
 | 443 | 409 | Still Ten Tay |
 | 444 | 409 | Holly Baker |
 | 445 | 409 | KeeKee Williams |
-| 446 | 408 | Kimberly Linares Hernandez |
-| 447 | 406 | Gbnola |
+| 446 | 409 | Gbnola |
+| 447 | 408 | Kimberly Linares Hernandez |
 | 448 | 405 | C Lo Green |
 | 449 | 405 | Sherry D Singleton |
 | 450 | 405 | De'Nell Edwards |
@@ -682,10 +682,10 @@
 | 674 | 286 | Kahliah Baker |
 | 675 | 286 | Soubletzy |
 | 676 | 285 | Adrian Harris |
-| 677 | 285 | Hyedie Badie |
-| 678 | 284 | Guy Incognito |
-| 679 | 284 | Brittany Sara Heldwein |
-| 680 | 284 | Jes Marie |
+| 677 | 285 | Jes Marie |
+| 678 | 285 | Hyedie Badie |
+| 679 | 284 | Guy Incognito |
+| 680 | 284 | Brittany Sara Heldwein |
 | 681 | 283 | RylonJones |
 | 682 | 283 | Rhianna Dinki Austin |
 | 683 | 283 | Lawanda Conley |
