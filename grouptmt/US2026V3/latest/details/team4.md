@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 21:16:42 UTC
+# Standings for team4 as of 2026-06-11 21:17:23 UTC
 
 **Total Participants:** 2587
 
@@ -133,7 +133,7 @@
 | 125 | 1408 | GeorgeButts |
 | 126 | 1408 | MysticMaven |
 | 127 | 1406 | Irma |
-| 128 | 1398 | Blayne Kole |
+| 128 | 1403 | Blayne Kole |
 | 129 | 1396 | Shaina Sharp |
 | 130 | 1372 | Genag |
 | 131 | 1362 | Gloria Nunley Trussell |
@@ -218,7 +218,7 @@
 | 210 | 928 | Bonnie Powell |
 | 211 | 923 | Roxana Romero |
 | 212 | 922 | Tamara Triplet |
-| 213 | 909 | Lisa Garcia |
+| 213 | 912 | Lisa Garcia |
 | 214 | 899 | Boldy Striker |
 | 215 | 896 | Karen Miller |
 | 216 | 888 | Christy Beezley-Forbush |
@@ -570,29 +570,29 @@
 | 562 | 361 | Tina Berdeja |
 | 563 | 361 | Winter Moon |
 | 564 | 361 | Rita Ann |
-| 565 | 360 | Lady Dolphin |
-| 566 | 360 | Redhead girl |
+| 565 | 360 | Redhead girl |
+| 566 | 360 | Lady Dolphin |
 | 567 | 360 | Perry Ransom |
 | 568 | 359 | Playa |
 | 569 | 359 | BCO22 |
 | 570 | 358 | Elissa Danks |
-| 571 | 357 | Maricela Joslin |
-| 572 | 357 | Karen Denise Ann Veitch |
+| 571 | 357 | Karen Denise Ann Veitch |
+| 572 | 357 | Maricela Joslin |
 | 573 | 357 | Lively Blockpiece |
 | 574 | 356 | Frilly Zoney |
 | 575 | 355 | Christina Barry |
-| 576 | 354 | Chelsea Guajardo |
-| 577 | 354 | Chonda OhanaMomma Michelle |
-| 578 | 352 | Brooke Arroyo |
-| 579 | 351 | Cecilia Hicks |
-| 580 | 350 | Jen Smith |
-| 581 | 350 | Anthony Edwards |
-| 582 | 350 | Valerie Silva |
-| 583 | 349 | Mc3003 |
-| 584 | 349 | BookwormCate |
-| 585 | 349 | Nessa Smith |
-| 586 | 348 | Justin Janachovsky |
-| 587 | 348 | Sally Hiraldo |
+| 576 | 355 | Nessa Smith |
+| 577 | 354 | Chelsea Guajardo |
+| 578 | 354 | Chonda OhanaMomma Michelle |
+| 579 | 352 | Brooke Arroyo |
+| 580 | 351 | Cecilia Hicks |
+| 581 | 350 | Jen Smith |
+| 582 | 350 | Anthony Edwards |
+| 583 | 350 | Valerie Silva |
+| 584 | 349 | Mc3003 |
+| 585 | 349 | BookwormCate |
+| 586 | 348 | Sally Hiraldo |
+| 587 | 348 | Justin Janachovsky |
 | 588 | 348 | Kristen Nicole Depp-Stewart |
 | 589 | 348 | TRUCHILD777$$$ |
 | 590 | 348 | Melissa Quinn |
