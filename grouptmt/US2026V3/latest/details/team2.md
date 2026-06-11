@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 06:34:46 UTC
+# Standings for team2 as of 2026-06-11 06:35:24 UTC
 
 **Total Participants:** 2926
 
@@ -285,12 +285,12 @@
 | 277 | 783 | Layla Petroff |
 | 278 | 777 | Alison Waller |
 | 279 | 775 | Spunky Buildout |
-| 280 | 773 | SturgStang |
-| 281 | 772 | Dsabrina Maxey |
-| 282 | 771 | Jolly Slice |
-| 283 | 771 | Christina Maria |
-| 284 | 771 | Nikki Carter |
-| 285 | 763 | Kelly Rogers |
+| 280 | 773 | Kelly Rogers |
+| 281 | 773 | SturgStang |
+| 282 | 772 | Dsabrina Maxey |
+| 283 | 771 | Jolly Slice |
+| 284 | 771 | Christina Maria |
+| 285 | 771 | Nikki Carter |
 | 286 | 762 | Jenny |
 | 287 | 757 | Kristi Chestnut |
 | 288 | 754 | Nikki EightySixed |
@@ -300,12 +300,12 @@
 | 292 | 744 | Charles E Mccardell |
 | 293 | 742 | meg |
 | 294 | 740 | Jodi Johnson |
-| 295 | 734 | Mikia Stokes |
-| 296 | 734 | Kellie Sharp Godfrey |
-| 297 | 733 | James Ward |
-| 298 | 732 | Cool Balancer |
-| 299 | 729 | Kaylene Rigas |
-| 300 | 728 | Swanky Fitline |
+| 295 | 739 | Swanky Fitline |
+| 296 | 734 | Mikia Stokes |
+| 297 | 734 | Kellie Sharp Godfrey |
+| 298 | 733 | James Ward |
+| 299 | 732 | Cool Balancer |
+| 300 | 729 | Kaylene Rigas |
 | 301 | 724 | Sully |
 | 302 | 723 | Nutty Curver |
 | 303 | 720 | Michelle Powers Chattaway |
