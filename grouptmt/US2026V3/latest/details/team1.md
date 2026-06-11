@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 13:30:46 UTC
+# Standings for team1 as of 2026-06-11 13:31:19 UTC
 
 **Total Participants:** 2490
 
@@ -125,12 +125,12 @@
 | 117 | 1500 | Nutty Spinblock |
 | 118 | 1497 | Rolanda Williams |
 | 119 | 1494 | Robbie Cheeseman |
-| 120 | 1484 | Spicy Balancer |
-| 121 | 1473 | rls |
-| 122 | 1467 | Crystal Boyd |
-| 123 | 1457 | Sarah Marie |
-| 124 | 1440 | Ashley Espeut |
-| 125 | 1432 | She Higgy |
+| 120 | 1492 | She Higgy |
+| 121 | 1484 | Spicy Balancer |
+| 122 | 1473 | rls |
+| 123 | 1467 | Crystal Boyd |
+| 124 | 1457 | Sarah Marie |
+| 125 | 1440 | Ashley Espeut |
 | 126 | 1426 | Cj Gorman |
 | 127 | 1414 | Randizzle |
 | 128 | 1402 | Amalie Newvine |
@@ -154,8 +154,8 @@
 | 146 | 1208 | Jazzy Dashpiece |
 | 147 | 1196 | ELM |
 | 148 | 1183 | Lesley Brunkus Cianfaglione |
-| 149 | 1160 | Danielle Barthelme |
-| 150 | 1160 | boogeywoogey |
+| 149 | 1170 | boogeywoogey |
+| 150 | 1160 | Danielle Barthelme |
 | 151 | 1158 | kc |
 | 152 | 1147 | Kaleisha Smith |
 | 153 | 1142 | Yasmin Nakea Wright |
@@ -590,14 +590,14 @@
 | 582 | 334 | Zappy Snapgrid |
 | 583 | 332 | Silly Wiper |
 | 584 | 331 | Mrs.Ann |
-| 585 | 330 | Tracey Johnson |
-| 586 | 330 | Karen Knapp |
-| 587 | 330 | Tito Divyn |
-| 588 | 329 | Chris Watson Draper |
-| 589 | 329 | Shelly Everette |
-| 590 | 327 | Hardtohandle91 |
-| 591 | 327 | Bambi Johnson |
-| 592 | 325 | Andra Ward |
+| 585 | 331 | Andra Ward |
+| 586 | 330 | Tracey Johnson |
+| 587 | 330 | Karen Knapp |
+| 588 | 330 | Tito Divyn |
+| 589 | 329 | Chris Watson Draper |
+| 590 | 329 | Shelly Everette |
+| 591 | 327 | Hardtohandle91 |
+| 592 | 327 | Bambi Johnson |
 | 593 | 324 | Sharee Robinson |
 | 594 | 324 | Teddy Davis |
 | 595 | 323 | Bea Dyer-Fields |

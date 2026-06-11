@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 13:30:46 UTC
+# Standings for team4 as of 2026-06-11 13:31:19 UTC
 
 **Total Participants:** 2529
 
@@ -688,12 +688,12 @@
 | 680 | 287 | sierrabeth |
 | 681 | 286 | Gean DeJesus |
 | 682 | 286 | DizzB400 |
-| 683 | 285 | Brainbabe |
-| 684 | 285 | JoJo Hutson |
-| 685 | 283 | Chris McBlockster |
-| 686 | 282 | David Lay |
-| 687 | 281 | Margie Thomas |
-| 688 | 281 | Andrea Dre Lomeli |
+| 683 | 286 | Andrea Dre Lomeli |
+| 684 | 285 | Brainbabe |
+| 685 | 285 | JoJo Hutson |
+| 686 | 283 | Chris McBlockster |
+| 687 | 282 | David Lay |
+| 688 | 281 | Margie Thomas |
 | 689 | 281 | Janae Harris |
 | 690 | 281 | Anthony Edwards |
 | 691 | 281 | Raising Stars |
@@ -944,14 +944,14 @@
 | 936 | 204 | BigCup ReeseCup |
 | 937 | 203 | Nikcole Alexis Bryan |
 | 938 | 203 | LaShieka Noland |
-| 939 | 202 | Christina Williams |
-| 940 | 202 | Monkey |
-| 941 | 201 | Kimberly Mae Watkins |
-| 942 | 201 | Certified Da Don |
-| 943 | 201 | PDubz |
-| 944 | 201 | Jillian Marie |
-| 945 | 201 | Barbara Mays |
-| 946 | 201 | John Wertz |
+| 939 | 203 | John Wertz |
+| 940 | 202 | Christina Williams |
+| 941 | 202 | Monkey |
+| 942 | 201 | Kimberly Mae Watkins |
+| 943 | 201 | Certified Da Don |
+| 944 | 201 | PDubz |
+| 945 | 201 | Jillian Marie |
+| 946 | 201 | Barbara Mays |
 | 947 | 200 | Rodger Lines |
 | 948 | 200 | April Richardson Morgan |
 | 949 | 200 | skynatda |
