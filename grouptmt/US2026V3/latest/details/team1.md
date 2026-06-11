@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 13:38:42 UTC
+# Standings for team1 as of 2026-06-11 13:39:25 UTC
 
 **Total Participants:** 2491
 
@@ -160,9 +160,9 @@
 | 152 | 1147 | Kaleisha Smith |
 | 153 | 1142 | Yasmin Nakea Wright |
 | 154 | 1136 | Cathy Young |
-| 155 | 1121 | Lisa Müller |
-| 156 | 1121 | Raymond Keeler |
-| 157 | 1121 | Zippy Lifter |
+| 155 | 1121 | Raymond Keeler |
+| 156 | 1121 | Zippy Lifter |
+| 157 | 1121 | Lisa Müller |
 | 158 | 1113 | Eartha Brown |
 | 159 | 1109 | Keke Ferguson |
 | 160 | 1107 | Katherine Short |
@@ -178,8 +178,8 @@
 | 170 | 1063 | Jaida De'Anne Cox |
 | 171 | 1061 | Joy Citizen Pickney |
 | 172 | 1053 | Yolanda E Fergerson |
-| 173 | 1027 | Kellie Hall |
-| 174 | 1027 | Ty Øtg |
+| 173 | 1027 | Ty Øtg |
+| 174 | 1027 | Kellie Hall |
 | 175 | 1021 | Jeffrey Barrows |
 | 176 | 1004 | Antonia Wyche |
 | 177 | 994 | GrkGdess |
@@ -190,11 +190,11 @@
 | 182 | 958 | Dee McCool |
 | 183 | 957 | Tammye Turner |
 | 184 | 955 | Dandy Brickfit |
-| 185 | 952 | Ebony |
-| 186 | 950 | Andi McGreevy |
-| 187 | 949 | Chuck Quarles |
-| 188 | 946 | Smiley3000 |
-| 189 | 942 | Ebony Waynes-robinson |
+| 185 | 953 | Ebony Waynes-robinson |
+| 186 | 952 | Ebony |
+| 187 | 950 | Andi McGreevy |
+| 188 | 949 | Chuck Quarles |
+| 189 | 946 | Smiley3000 |
 | 190 | 927 | Novaa |
 | 191 | 927 | Nobles Brandon |
 | 192 | 921 | win |
@@ -211,10 +211,10 @@
 | 203 | 876 | Tamara N Lee |
 | 204 | 869 | Shontanese Adams |
 | 205 | 866 | Trendalyn Webb |
-| 206 | 862 | Stef Hu |
-| 207 | 862 | LaSharmeika Fancher |
-| 208 | 837 | Clint Mcdowell |
-| 209 | 837 | Crystal Anderson |
+| 206 | 862 | LaSharmeika Fancher |
+| 207 | 862 | Stef Hu |
+| 208 | 837 | Crystal Anderson |
+| 209 | 837 | Clint Mcdowell |
 | 210 | 835 | Erin Sabol |
 | 211 | 834 | Jamal Itzjusmall Chambers |
 | 212 | 832 | Chantelle Lee |
@@ -222,8 +222,8 @@
 | 214 | 827 | Andrew Jay Vaughn |
 | 215 | 825 | Aihpos |
 | 216 | 817 | TT |
-| 217 | 816 | Tasha Jones |
-| 218 | 816 | Sarah Clark |
+| 217 | 816 | Sarah Clark |
+| 218 | 816 | Tasha Jones |
 | 219 | 812 | Big Tina |
 | 220 | 807 | Jazzy Fireflighters |
 | 221 | 801 | Rachel Zimmerman |
@@ -551,12 +551,12 @@
 | 543 | 353 | LaShawyn Wood |
 | 544 | 353 | Dizzy Dashy |
 | 545 | 352 | AnnaM |
-| 546 | 352 | MELLZZtick€T |
-| 547 | 350 | Jack Vlasak |
-| 548 | 350 | 신재호 |
-| 549 | 348 | Emily Wright |
-| 550 | 348 | Jose Rodriguez |
-| 551 | 348 | Abigail Newman Sweet |
+| 546 | 352 | Abigail Newman Sweet |
+| 547 | 352 | MELLZZtick€T |
+| 548 | 350 | Jack Vlasak |
+| 549 | 350 | 신재호 |
+| 550 | 348 | Emily Wright |
+| 551 | 348 | Jose Rodriguez |
 | 552 | 347 | Travis Davison |
 | 553 | 346 | Rebecca Jackson |
 | 554 | 346 | Marsha Earl |
@@ -564,21 +564,21 @@
 | 556 | 345 | Heather Wilson |
 | 557 | 345 | Loony Clearer |
 | 558 | 344 | Abby |
-| 559 | 344 | Motown Chuck |
-| 560 | 344 | Juan Santiago |
-| 561 | 344 | Onovella Titsworth |
+| 559 | 344 | EvaLynn NeCole |
+| 560 | 344 | Boldy Matchbuilder |
+| 561 | 344 | MonaSparks |
 | 562 | 344 | Cherika Wright |
-| 563 | 344 | MonaSparks |
-| 564 | 344 | EvaLynn NeCole |
-| 565 | 344 | Boldy Matchbuilder |
-| 566 | 343 | Earl Williams |
+| 563 | 344 | Onovella Titsworth |
+| 564 | 344 | Juan Santiago |
+| 565 | 344 | Motown Chuck |
+| 566 | 343 | Andra Ward |
 | 567 | 343 | Vera Beckford |
-| 568 | 343 | lizlizliz |
-| 569 | 342 | Nora Mahmoud |
+| 568 | 343 | Earl Williams |
+| 569 | 343 | lizlizliz |
 | 570 | 342 | Ashley Monet Terrell |
-| 571 | 341 | Alyssa Rae |
-| 572 | 340 | Chocolate |
-| 573 | 340 | Andra Ward |
+| 571 | 342 | Nora Mahmoud |
+| 572 | 341 | Alyssa Rae |
+| 573 | 340 | Chocolate |
 | 574 | 340 | Slinky Swipe |
 | 575 | 339 | Keith Johnson |
 | 576 | 337 | Angela Brown Babin |
@@ -1781,85 +1781,85 @@
 | 1773 | 47 | Leonard R. Chanette |
 | 1774 | 47 | Queen |
 | 1775 | 47 | Joycina Newsome |
-| 1776 | 47 | Pizzle |
+| 1776 | 47 | Hyper Cluster |
 | 1777 | 47 | Slinky Balancepiece |
-| 1778 | 47 | Hyper Cluster |
-| 1779 | 47 | Major314 |
+| 1778 | 47 | Major314 |
+| 1779 | 47 | Pizzle |
 | 1780 | 47 | Mina Abdullah |
 | 1781 | 46 | Geneva Carter |
-| 1782 | 46 | NEM0228 |
-| 1783 | 46 | Christy Grier |
-| 1784 | 46 | Swanky Linkmatch |
-| 1785 | 46 | Wu May |
-| 1786 | 46 | cheehooo |
-| 1787 | 46 | Beverly Redd-Fountain |
-| 1788 | 46 | Daniel Jenkins |
-| 1789 | 46 | Twisty Matchline |
-| 1790 | 45 | Lavender |
+| 1782 | 46 | Swanky Linkmatch |
+| 1783 | 46 | NEM0228 |
+| 1784 | 46 | Christy Grier |
+| 1785 | 46 | GLO510 |
+| 1786 | 46 | Wu May |
+| 1787 | 46 | cheehooo |
+| 1788 | 46 | Beverly Redd-Fountain |
+| 1789 | 46 | Daniel Jenkins |
+| 1790 | 46 | Twisty Matchline |
 | 1791 | 45 | Jason A Giantonio |
-| 1792 | 45 | LadyMosley |
-| 1793 | 45 | Nicole |
-| 1794 | 45 | Angela Roseburgh |
-| 1795 | 45 | Elizabeth Slater |
-| 1796 | 45 | Jasmine Bates |
-| 1797 | 45 | Venna Cooper |
-| 1798 | 45 | Alexis Farquer |
-| 1799 | 45 | Mighty Curver |
-| 1800 | 45 | linda m |
-| 1801 | 45 | Matraca Young |
-| 1802 | 45 | Joy Baker |
-| 1803 | 45 | Florida boi |
-| 1804 | 45 | Tea |
-| 1805 | 45 | Papi |
-| 1806 | 45 | Sonia Nieves |
-| 1807 | 44 | Frisky Pivoty |
-| 1808 | 44 | MeatSweats |
-| 1809 | 44 | Wacky1 |
-| 1810 | 44 | Ernest Maxwell |
-| 1811 | 44 | Kelly Darty |
-| 1812 | 44 | Christopher George Hazard |
-| 1813 | 44 | yoyoluv |
-| 1814 | 44 | Jamey |
-| 1815 | 43 | Jashana Thomas |
-| 1816 | 43 | Nicolej |
-| 1817 | 43 | Giggly Gridder |
-| 1818 | 43 | Annette D Elliott |
-| 1819 | 43 | Donna Tillis |
-| 1820 | 43 | Dinky da Don |
+| 1792 | 45 | Lavender |
+| 1793 | 45 | LadyMosley |
+| 1794 | 45 | Nicole |
+| 1795 | 45 | Angela Roseburgh |
+| 1796 | 45 | Elizabeth Slater |
+| 1797 | 45 | Jasmine Bates |
+| 1798 | 45 | Mighty Curver |
+| 1799 | 45 | Venna Cooper |
+| 1800 | 45 | Alexis Farquer |
+| 1801 | 45 | linda m |
+| 1802 | 45 | Matraca Young |
+| 1803 | 45 | Joy Baker |
+| 1804 | 45 | Florida boi |
+| 1805 | 45 | Tea |
+| 1806 | 45 | Papi |
+| 1807 | 45 | Sonia Nieves |
+| 1808 | 44 | Frisky Pivoty |
+| 1809 | 44 | MeatSweats |
+| 1810 | 44 | Wacky1 |
+| 1811 | 44 | Ernest Maxwell |
+| 1812 | 44 | Kelly Darty |
+| 1813 | 44 | Christopher George Hazard |
+| 1814 | 44 | yoyoluv |
+| 1815 | 44 | Jamey |
+| 1816 | 43 | Dinky da Don |
+| 1817 | 43 | Nicolej |
+| 1818 | 43 | Giggly Gridder |
+| 1819 | 43 | Annette D Elliott |
+| 1820 | 43 | Donna Tillis |
 | 1821 | 43 | SillyGirl |
 | 1822 | 43 | Owen Stone |
 | 1823 | 43 | Speedy Glidezone |
-| 1824 | 42 | BizzyCat |
-| 1825 | 42 | DaRealist1 |
-| 1826 | 42 | Charisse Johnson |
-| 1827 | 42 | Dandy Blockfall |
-| 1828 | 42 | Shannon Hargrove |
-| 1829 | 42 | Louise |
-| 1830 | 42 | Clever Balancepiece |
-| 1831 | 42 | Spicy Builderfit |
-| 1832 | 42 | Nadine Coleman |
-| 1833 | 42 | Nerdy Riser |
-| 1834 | 42 | Tee $ |
-| 1835 | 42 | Shakonya Baynes |
-| 1836 | 41 | Tynetta Scott |
-| 1837 | 41 | Es Bee |
-| 1838 | 41 | Saundy |
-| 1839 | 41 | Jessica Corey |
+| 1824 | 43 | Jashana Thomas |
+| 1825 | 42 | BizzyCat |
+| 1826 | 42 | Nerdy Riser |
+| 1827 | 42 | DaRealist1 |
+| 1828 | 42 | Charisse Johnson |
+| 1829 | 42 | Shannon Hargrove |
+| 1830 | 42 | Dandy Blockfall |
+| 1831 | 42 | Clever Balancepiece |
+| 1832 | 42 | Spicy Builderfit |
+| 1833 | 42 | Louise |
+| 1834 | 42 | Nadine Coleman |
+| 1835 | 42 | Tee $ |
+| 1836 | 42 | Shakonya Baynes |
+| 1837 | 41 | AnatB |
+| 1838 | 41 | Tynetta Scott |
+| 1839 | 41 | Es Bee |
 | 1840 | 41 | Rebecca Hofer |
-| 1841 | 41 | Mary Hughes |
-| 1842 | 41 | Taylor Daniel Davis |
-| 1843 | 41 | Dizzy Roĺlback |
-| 1844 | 41 | AnatB |
-| 1845 | 40 | GLO510 |
-| 1846 | 40 | Jerome Davis |
-| 1847 | 40 | Fancy Zoner |
+| 1841 | 41 | Saundy |
+| 1842 | 41 | Jessica Corey |
+| 1843 | 41 | Mary Hughes |
+| 1844 | 41 | Taylor Daniel Davis |
+| 1845 | 41 | Dizzy Roĺlback |
+| 1846 | 40 | Fancy Zoner |
+| 1847 | 40 | Dominique Barbie Periandri |
 | 1848 | 40 | Hasty Bridger |
-| 1849 | 40 | NiingDing |
-| 1850 | 40 | Amelia Gibson |
-| 1851 | 40 | Erica Wells |
-| 1852 | 40 | Rl Valsin |
-| 1853 | 40 | Dee Doris Ewald Flynn |
-| 1854 | 40 | Dominique Barbie Periandri |
+| 1849 | 40 | Jerome Davis |
+| 1850 | 40 | NiingDing |
+| 1851 | 40 | Amelia Gibson |
+| 1852 | 40 | Dee Doris Ewald Flynn |
+| 1853 | 40 | Erica Wells |
+| 1854 | 40 | Rl Valsin |
 | 1855 | 40 | Tonya Mills |
 | 1856 | 40 | Katrina Trein Bein Dickerson |
 | 1857 | 40 | Dawn Walker |
