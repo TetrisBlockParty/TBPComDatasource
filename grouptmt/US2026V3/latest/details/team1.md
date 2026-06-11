@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:37:23 UTC
+# Standings for team1 as of 2026-06-11 07:38:44 UTC
 
 **Total Participants:** 2459
 
@@ -71,7 +71,7 @@
 | 63 | 2359 | Shellzb Roberts |
 | 64 | 2359 | Corey Cawthon |
 | 65 | 2230 | Robyn Caldwell |
-| 66 | 2198 | Frisky Fallmatch |
+| 66 | 2218 | Frisky Fallmatch |
 | 67 | 2175 | Brian Bohanon II |
 | 68 | 2172 | Moomoo |
 | 69 | 2166 | Helen Smith |
@@ -130,12 +130,12 @@
 | 122 | 1402 | Amalie Newvine |
 | 123 | 1384 | Randizzle |
 | 124 | 1380 | Jason Mungin |
-| 125 | 1355 | Whitney Butler |
-| 126 | 1350 | Keeta Chickswit Scott |
-| 127 | 1344 | G Ah Mayes |
-| 128 | 1323 | Catara Renae Oliver |
-| 129 | 1323 | Denise B |
-| 130 | 1310 | Loopy Block |
+| 125 | 1360 | Loopy Block |
+| 126 | 1355 | Whitney Butler |
+| 127 | 1350 | Keeta Chickswit Scott |
+| 128 | 1344 | G Ah Mayes |
+| 129 | 1323 | Catara Renae Oliver |
+| 130 | 1323 | Denise B |
 | 131 | 1303 | Aviv Zehavi |
 | 132 | 1294 | Anthony Washington |
 | 133 | 1287 | sha |
@@ -149,7 +149,7 @@
 | 141 | 1225 | Taylor Evelyn |
 | 142 | 1224 | Tiana Moore |
 | 143 | 1208 | Jazzy Dashpiece |
-| 144 | 1203 | Plucky Slamdrop |
+| 144 | 1205 | Plucky Slamdrop |
 | 145 | 1196 | ELM |
 | 146 | 1179 | Lesley Brunkus Cianfaglione |
 | 147 | 1158 | kc |
@@ -185,13 +185,13 @@
 | 177 | 947 | Keke Ferguson |
 | 178 | 946 | Smiley3000 |
 | 179 | 942 | Chuck Quarles |
-| 180 | 926 | Ebony Waynes-robinson |
-| 181 | 923 | xXEKUNXx |
-| 182 | 916 | Novaa |
-| 183 | 913 | JaszyBadd |
-| 184 | 909 | Dandy Brickfit |
-| 185 | 907 | Ann White |
-| 186 | 902 | Katherine Short |
+| 180 | 942 | Katherine Short |
+| 181 | 926 | Ebony Waynes-robinson |
+| 182 | 923 | xXEKUNXx |
+| 183 | 916 | Novaa |
+| 184 | 913 | JaszyBadd |
+| 185 | 909 | Dandy Brickfit |
+| 186 | 907 | Ann White |
 | 187 | 899 | win |
 | 188 | 895 | W.A. Simpson |
 | 189 | 887 | Tessa Gaskin |
@@ -1914,146 +1914,146 @@
 | 1906 | 35 | Christian Whittaker |
 | 1907 | 35 | Margie Toni Corley |
 | 1908 | 35 | Nerdy Twistline |
-| 1909 | 34 | Lauren |
-| 1910 | 34 | Fancy Strikerbuilder |
-| 1911 | 34 | Plucky Clearpiece |
-| 1912 | 34 | Dazee Rogers |
-| 1913 | 34 | Bouncy Brickroll |
-| 1914 | 34 | Zayy Wavyy |
-| 1915 | 34 | Daron Montgomery |
+| 1909 | 34 | Zayy Wavyy |
+| 1910 | 34 | Jumpy Brickbuilder |
+| 1911 | 34 | Bouncy Brickroll |
+| 1912 | 34 | Lauren |
+| 1913 | 34 | Daron Montgomery |
+| 1914 | 34 | Plucky Clearpiece |
+| 1915 | 34 | Fancy Strikerbuilder |
 | 1916 | 34 | beeutifullll |
-| 1917 | 34 | Jumpy Brickbuilder |
-| 1918 | 33 | Kim Ratcliff Leatherman |
-| 1919 | 33 | Brianna Floyd |
-| 1920 | 33 | Koz176 |
+| 1917 | 34 | Dazee Rogers |
+| 1918 | 33 | Brianna Floyd |
+| 1919 | 33 | Koz176 |
+| 1920 | 33 | Kim Ratcliff Leatherman |
 | 1921 | 33 | BigDawg Lessley |
-| 1922 | 32 | Van Cunning |
-| 1923 | 32 | Betty Joe Lemberg |
-| 1924 | 32 | Bouncy Base |
+| 1922 | 32 | cheehooo |
+| 1923 | 32 | Jädaa Laa'Destïnyy |
+| 1924 | 32 | Shericka Taylor |
 | 1925 | 32 | Tasha Stuckey |
-| 1926 | 32 | Melissa Embrey |
-| 1927 | 32 | cheehooo |
-| 1928 | 32 | Tiffany Ali Shaw |
-| 1929 | 32 | Janie Helton |
-| 1930 | 32 | Wx_Birdie |
-| 1931 | 32 | Shalyn Law |
-| 1932 | 32 | Shericka Taylor |
-| 1933 | 32 | Jädaa Laa'Destïnyy |
-| 1934 | 31 | Jennifer Diamond |
-| 1935 | 31 | Edward Hickmon |
-| 1936 | 31 | Otavia Gordon |
-| 1937 | 31 | EchoQuirky Blockclear |
-| 1938 | 31 | Emily Burgoon |
-| 1939 | 31 | Zippy Slammer |
-| 1940 | 31 | Kelly Darty |
-| 1941 | 30 | Grace Page |
+| 1926 | 32 | Bouncy Base |
+| 1927 | 32 | Betty Joe Lemberg |
+| 1928 | 32 | Melissa Embrey |
+| 1929 | 32 | Tiffany Ali Shaw |
+| 1930 | 32 | Janie Helton |
+| 1931 | 32 | Wx_Birdie |
+| 1932 | 32 | Tynesha Woodard |
+| 1933 | 32 | Van Cunning |
+| 1934 | 32 | Shalyn Law |
+| 1935 | 31 | Kelly Darty |
+| 1936 | 31 | Zippy Slammer |
+| 1937 | 31 | Jennifer Diamond |
+| 1938 | 31 | Otavia Gordon |
+| 1939 | 31 | Emily Burgoon |
+| 1940 | 31 | Edward Hickmon |
+| 1941 | 31 | EchoQuirky Blockclear |
 | 1942 | 30 | Dee |
-| 1943 | 30 | Cucumber |
-| 1944 | 30 | Cool Rumbler |
-| 1945 | 30 | DeJuan BD |
-| 1946 | 30 | DRIFTER |
-| 1947 | 30 | Myca Cooper |
-| 1948 | 30 | Cierra Banks |
-| 1949 | 30 | Dora Greer |
+| 1943 | 30 | Tipsy Tilt |
+| 1944 | 30 | Myca Cooper |
+| 1945 | 30 | DRIFTER |
+| 1946 | 30 | Cool Rumbler |
+| 1947 | 30 | Charlean Sims |
+| 1948 | 30 | Dremer Clark |
+| 1949 | 30 | Cucumber |
 | 1950 | 30 | Biggie Cheeze |
-| 1951 | 30 | Charlean Sims |
-| 1952 | 30 | Dremer Clark |
-| 1953 | 30 | Tipsy Tilt |
-| 1954 | 30 | Moneke Randolph |
-| 1955 | 30 | Edward Hackett |
-| 1956 | 30 | PS |
-| 1957 | 30 | Chavez James |
+| 1951 | 30 | Grace Page |
+| 1952 | 30 | Jeanne Bitner |
+| 1953 | 30 | Dora Greer |
+| 1954 | 30 | DeJuan BD |
+| 1955 | 30 | Moneke Randolph |
+| 1956 | 30 | Annette DeLoatch Thompson |
+| 1957 | 30 | Edward Hackett |
 | 1958 | 30 | Bob Bon |
-| 1959 | 30 | Annette DeLoatch Thompson |
-| 1960 | 30 | Jeanne Bitner |
-| 1961 | 29 | Ty Brown |
-| 1962 | 29 | Candice Mayo |
-| 1963 | 29 | Swanky Linkmatch |
-| 1964 | 29 | Cheeky Tiltbuilder |
-| 1965 | 29 | Chris Davidson |
-| 1966 | 29 | Neesii |
-| 1967 | 29 | Caprice Taylor |
-| 1968 | 29 | Everett Semmions |
+| 1959 | 30 | PS |
+| 1960 | 30 | Chavez James |
+| 1961 | 30 | Cierra Banks |
+| 1962 | 29 | Swanky Linkmatch |
+| 1963 | 29 | Cheeky Tiltbuilder |
+| 1964 | 29 | Elizabeth Ragland |
+| 1965 | 29 | Macaroni Meechie Johnson |
+| 1966 | 29 | Candice Mayo |
+| 1967 | 29 | Ty Brown |
+| 1968 | 29 | Epic Wipepiece |
 | 1969 | 29 | Virginia Beilen |
-| 1970 | 29 | Elizabeth Ragland |
-| 1971 | 29 | Epic Wipepiece |
-| 1972 | 29 | Macaroni Meechie Johnson |
-| 1973 | 28 | Carlotta L Parker |
+| 1970 | 29 | Everett Semmions |
+| 1971 | 29 | Caprice Taylor |
+| 1972 | 29 | Neesii |
+| 1973 | 29 | Chris Davidson |
 | 1974 | 28 | Shanna Nicole Anderson |
-| 1975 | 28 | Keera425 |
-| 1976 | 28 | Kenya Richardson |
-| 1977 | 28 | Groovy Towerer |
-| 1978 | 28 | Raevon Bailey |
+| 1975 | 28 | Raevon Bailey |
+| 1976 | 28 | Carlotta L Parker |
+| 1977 | 28 | Keera425 |
+| 1978 | 28 | Groovy Towerer |
 | 1979 | 28 | Chief block |
-| 1980 | 28 | Steven Holloway |
-| 1981 | 28 | Dannie Brown |
-| 1982 | 28 | Shutyoface Barber |
-| 1983 | 28 | DaNesha Simmons |
-| 1984 | 28 | Lauren |
-| 1985 | 28 | Will Stanton |
-| 1986 | 28 | Zany Edgepiece |
-| 1987 | 27 | Earnest Manning Bey |
-| 1988 | 27 | katia |
-| 1989 | 27 | Kenyae K-Holla Holloway |
-| 1990 | 27 | Tara Hall |
-| 1991 | 27 | Sanchez Jackson |
-| 1992 | 27 | Bubbly Fallmatch |
-| 1993 | 27 | Adam Harrison |
-| 1994 | 27 | TanB53 |
-| 1995 | 27 | Poppy Clusterbuilder |
-| 1996 | 27 | Juantize Jackson |
-| 1997 | 27 | Manda Pecora |
-| 1998 | 27 | Shaylyn Lockwood |
-| 1999 | 27 | Ramon Leno Coolridge |
+| 1980 | 28 | Kenya Richardson |
+| 1981 | 28 | Steven Holloway |
+| 1982 | 28 | Dannie Brown |
+| 1983 | 28 | Shutyoface Barber |
+| 1984 | 28 | DaNesha Simmons |
+| 1985 | 28 | Lauren |
+| 1986 | 28 | Will Stanton |
+| 1987 | 28 | Zany Edgepiece |
+| 1988 | 27 | Ramon Leno Coolridge |
+| 1989 | 27 | katia |
+| 1990 | 27 | Kenyae K-Holla Holloway |
+| 1991 | 27 | Tara Hall |
+| 1992 | 27 | Sanchez Jackson |
+| 1993 | 27 | Bubbly Fallmatch |
+| 1994 | 27 | Adam Harrison |
+| 1995 | 27 | TanB53 |
+| 1996 | 27 | Poppy Clusterbuilder |
+| 1997 | 27 | Juantize Jackson |
+| 1998 | 27 | Earnest Manning Bey |
+| 1999 | 27 | Taylor Keisha |
 | 2000 | 27 | BloodKnight |
 | 2001 | 27 | Zesty Fitclear |
-| 2002 | 27 | Tynesha Woodard |
-| 2003 | 27 | marie |
-| 2004 | 27 | Taylor Keisha |
-| 2005 | 27 | Tapenga Smith |
-| 2006 | 26 | Dee-Dee Stewart |
-| 2007 | 26 | MoodieKat |
-| 2008 | 26 | Lush Risebuilder |
+| 2002 | 27 | marie |
+| 2003 | 27 | Shaylyn Lockwood |
+| 2004 | 27 | Tapenga Smith |
+| 2005 | 27 | Manda Pecora |
+| 2006 | 26 | Chevonne Huggins |
+| 2007 | 26 | Dee-Dee Stewart |
+| 2008 | 26 | MoodieKat |
 | 2009 | 26 | Jolly Zoner |
-| 2010 | 26 | Chevonne Huggins |
+| 2010 | 26 | Lush Risebuilder |
 | 2011 | 26 | jae |
 | 2012 | 26 | Joseph Mclaughlin |
 | 2013 | 26 | Shiny Crusher |
-| 2014 | 26 | Brownsville Ny |
-| 2015 | 26 | Rakesia S Williams |
-| 2016 | 26 | Layla Williams |
-| 2017 | 26 | Anyelin |
-| 2018 | 26 | Konkrete Pop |
-| 2019 | 26 | Trill Spill |
+| 2014 | 26 | Layla Williams |
+| 2015 | 26 | Brownsville Ny |
+| 2016 | 26 | Rakesia S Williams |
+| 2017 | 26 | Trill Spill |
+| 2018 | 26 | Marla |
+| 2019 | 26 | Konkrete Pop |
 | 2020 | 26 | Pynkbuddafly1 |
-| 2021 | 26 | Marla |
-| 2022 | 25 | PennyCandee |
-| 2023 | 25 | Ladii Ree |
-| 2024 | 25 | Susie Miranda |
-| 2025 | 25 | Boldy Slammer |
-| 2026 | 25 | Anthony |
-| 2027 | 25 | Rachel Davis McQueen |
-| 2028 | 25 | pettymexoxo |
-| 2029 | 25 | PuddenPop |
-| 2030 | 25 | Zai100 |
-| 2031 | 25 | Lameka Kendle |
-| 2032 | 25 | Vantione Lindsey |
-| 2033 | 25 | LassoStan |
-| 2034 | 25 | Em Purvis |
+| 2021 | 26 | Anyelin |
+| 2022 | 25 | Rachel Davis McQueen |
+| 2023 | 25 | LassoStan |
+| 2024 | 25 | Lameka Kendle |
+| 2025 | 25 | Zai100 |
+| 2026 | 25 | PuddenPop |
+| 2027 | 25 | Em Purvis |
+| 2028 | 25 | Anthony |
+| 2029 | 25 | Boldy Slammer |
+| 2030 | 25 | Susie Miranda |
+| 2031 | 25 | Ladii Ree |
+| 2032 | 25 | pettymexoxo |
+| 2033 | 25 | Vantione Lindsey |
+| 2034 | 25 | PennyCandee |
 | 2035 | 25 | Yolo |
 | 2036 | 25 | sceloh |
-| 2037 | 24 | Peachy Combofall |
-| 2038 | 24 | BuddyLove37 |
-| 2039 | 24 | Stacy Higginbotham |
-| 2040 | 24 | Jazzy lady |
-| 2041 | 24 | Antoinette AugustusJones III |
+| 2037 | 24 | David Sk Vaughan Jr. |
+| 2038 | 24 | Peachy Combofall |
+| 2039 | 24 | BuddyLove37 |
+| 2040 | 24 | Stacy Higginbotham |
+| 2041 | 24 | Jazzy lady |
 | 2042 | 24 | Tammy Hooser |
-| 2043 | 24 | David Sk Vaughan Jr. |
-| 2044 | 24 | Null Kim |
-| 2045 | 24 | Jaricar_21 |
-| 2046 | 24 | Snazzy Shatterbuilder |
-| 2047 | 24 | Chilly Cluster |
-| 2048 | 24 | JeanJellyBean |
+| 2043 | 24 | JeanJellyBean |
+| 2044 | 24 | Antoinette AugustusJones III |
+| 2045 | 24 | Null Kim |
+| 2046 | 24 | Chilly Cluster |
+| 2047 | 24 | Jaricar_21 |
+| 2048 | 24 | Snazzy Shatterbuilder |
 | 2049 | 23 | Valerina Robinson |
 | 2050 | 23 | Epic Glide |
 | 2051 | 23 | Sharinda Grimsley |
