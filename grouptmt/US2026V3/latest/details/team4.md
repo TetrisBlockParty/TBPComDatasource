@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:06:43 UTC
+# Standings for team4 as of 2026-06-11 09:07:24 UTC
 
 **Total Participants:** 2505
 
@@ -13,7 +13,7 @@
 | 5 | 14614 | Hasty Builder |
 | 6 | 12960 | Boldy Crusher |
 | 7 | 12373 | Loony Rotater |
-| 8 | 12136 | Candice Driver |
+| 8 | 12236 | Candice Driver |
 | 9 | 11669 | Cinny |
 | 10 | 11639 | BertaF1irta |
 | 11 | 11134 | t |
@@ -153,8 +153,8 @@
 | 145 | 1123 | Tiffany Loree Tiffany Oneill |
 | 146 | 1106 | Loony Towerer |
 | 147 | 1095 | Suzanne North |
-| 148 | 1090 | Becky Doll-Hall |
-| 149 | 1090 | Melissa WC |
+| 148 | 1094 | Melissa WC |
+| 149 | 1090 | Becky Doll-Hall |
 | 150 | 1087 | Whitborn |
 | 151 | 1087 | Loony Glidepiece |
 | 152 | 1073 | Anthony Lewis |
@@ -234,12 +234,12 @@
 | 226 | 765 | iiPurgeV2 |
 | 227 | 755 | Nutty Rollfit |
 | 228 | 751 | Kelly Howland |
-| 229 | 749 | Nikki Fuller Johnson |
-| 230 | 748 | Bonnie Powell |
-| 231 | 746 | Brick House |
-| 232 | 746 | Chuck Burns |
-| 233 | 746 | Smiley Gridzone |
-| 234 | 739 | Shannon Rivera |
+| 229 | 749 | Shannon Rivera |
+| 230 | 749 | Nikki Fuller Johnson |
+| 231 | 748 | Bonnie Powell |
+| 232 | 746 | Brick House |
+| 233 | 746 | Chuck Burns |
+| 234 | 746 | Smiley Gridzone |
 | 235 | 738 | Malik Thompson |
 | 236 | 734 | Tricia Motika Cowan |
 | 237 | 728 | Jackie Miller |
@@ -1359,34 +1359,34 @@
 | 1351 | 108 | Blessedmama |
 | 1352 | 107 | Kaela Ferguson |
 | 1353 | 107 | Clever Linkfall |
-| 1354 | 107 | Grace Mariie |
-| 1355 | 106 | Donna Howard |
-| 1356 | 106 | Ciara Brown |
-| 1357 | 106 | MamaC |
-| 1358 | 106 | MamaBear3 |
-| 1359 | 106 | Lina Samra |
-| 1360 | 105 | ImagineKaijus |
-| 1361 | 105 | BossBaby |
-| 1362 | 105 | Cassie N Danica Flaherty |
-| 1363 | 105 | Kelly |
-| 1364 | 104 | Mandy Grant |
-| 1365 | 104 | Stacy Sisson |
-| 1366 | 104 | Jessica Lestage |
-| 1367 | 104 | Michael J A Moore |
-| 1368 | 104 | Diane Obungu |
-| 1369 | 103 | Tahira Patrice |
-| 1370 | 103 | Lizette Chaires |
-| 1371 | 102 | Bouncy Mover |
-| 1372 | 102 | Sara Cobb |
-| 1373 | 102 | NikkiLyn79 |
-| 1374 | 102 | Hethyheth |
-| 1375 | 102 | Jessikunt Gdula Pierre |
-| 1376 | 101 | Tay |
-| 1377 | 101 | Boldy Basegrid |
-| 1378 | 101 | Mafer |
-| 1379 | 101 | Lateasha Wildman |
-| 1380 | 101 | Rebecca Renaud |
-| 1381 | 101 | nanaz86 |
+| 1354 | 107 | nanaz86 |
+| 1355 | 107 | Grace Mariie |
+| 1356 | 106 | Donna Howard |
+| 1357 | 106 | Ciara Brown |
+| 1358 | 106 | MamaC |
+| 1359 | 106 | MamaBear3 |
+| 1360 | 106 | Lina Samra |
+| 1361 | 105 | ImagineKaijus |
+| 1362 | 105 | BossBaby |
+| 1363 | 105 | Cassie N Danica Flaherty |
+| 1364 | 105 | Kelly |
+| 1365 | 104 | Mandy Grant |
+| 1366 | 104 | Stacy Sisson |
+| 1367 | 104 | Jessica Lestage |
+| 1368 | 104 | Michael J A Moore |
+| 1369 | 104 | Diane Obungu |
+| 1370 | 103 | Tahira Patrice |
+| 1371 | 103 | Lizette Chaires |
+| 1372 | 102 | Bouncy Mover |
+| 1373 | 102 | Sara Cobb |
+| 1374 | 102 | NikkiLyn79 |
+| 1375 | 102 | Hethyheth |
+| 1376 | 102 | Jessikunt Gdula Pierre |
+| 1377 | 101 | Tay |
+| 1378 | 101 | Boldy Basegrid |
+| 1379 | 101 | Mafer |
+| 1380 | 101 | Lateasha Wildman |
+| 1381 | 101 | Rebecca Renaud |
 | 1382 | 100 | Nova Kain |
 | 1383 | 100 | Monte Smith |
 | 1384 | 100 | Bouncy Fitblock |
@@ -1405,8 +1405,8 @@
 | 1397 | 99 | Crystal Swensen |
 | 1398 | 99 | Jane M Tiller |
 | 1399 | 99 | Richard Moneyrich Nottingham |
-| 1400 | 99 | Ricardo Arias |
-| 1401 | 99 | Tamika Ashli Bonner |
+| 1400 | 99 | Tamika Ashli Bonner |
+| 1401 | 99 | Ricardo Arias |
 | 1402 | 98 | Kelly Kabelac Loomis |
 | 1403 | 98 | SweetMomma |
 | 1404 | 98 | Melissa Rathbun |
