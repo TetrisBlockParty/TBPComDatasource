@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 14:28:43 UTC
+# Standings for team4 as of 2026-06-11 14:29:24 UTC
 
 **Total Participants:** 2536
 
@@ -10,7 +10,7 @@
 | 2 | 23500 | Jessica Sheehan |
 | 3 | 21667 | Lisa Cullum |
 | 4 | 18644 | Lyza |
-| 5 | 15214 | Hasty Builder |
+| 5 | 15314 | Hasty Builder |
 | 6 | 12960 | Boldy Crusher |
 | 7 | 12686 | Candice Driver |
 | 8 | 12405 | Loony Rotater |
@@ -66,10 +66,10 @@
 | 58 | 3200 | 626 |
 | 59 | 3150 | Destiny Dyer |
 | 60 | 3100 | Posey Smith |
-| 61 | 2800 | Caitlin Johnson |
-| 62 | 2800 | Annastaissia Todd |
-| 63 | 2795 | Monica Emel |
-| 64 | 2764 | Amber Doyle |
+| 61 | 2914 | Amber Doyle |
+| 62 | 2800 | Caitlin Johnson |
+| 63 | 2800 | Annastaissia Todd |
+| 64 | 2795 | Monica Emel |
 | 65 | 2714 | Маркус Вік |
 | 66 | 2706 | Joseph Anthony Watkins |
 | 67 | 2610 | Tommy Bond |
@@ -134,7 +134,7 @@
 | 126 | 1336 | Jonathan Hewitt |
 | 127 | 1316 | Irma |
 | 128 | 1311 | J |
-| 129 | 1297 | Principal Liz |
+| 129 | 1303 | Principal Liz |
 | 130 | 1297 | Bri Martin |
 | 131 | 1287 | Nicole |
 | 132 | 1285 | Kristen Wallace |
@@ -230,7 +230,7 @@
 | 222 | 815 | Megan Vick |
 | 223 | 813 | Misty Leigh |
 | 224 | 813 | Tyson Stroppel |
-| 225 | 807 | Kelly Howland |
+| 225 | 809 | Kelly Howland |
 | 226 | 806 | Gracie Ornelas |
 | 227 | 788 | Slinky Stackzone |
 | 228 | 788 | Jackie Jackson |
@@ -562,35 +562,35 @@
 | 554 | 342 | Hasty Dropzone |
 | 555 | 341 | Brendan Craven |
 | 556 | 341 | LilyRose |
-| 557 | 339 | Winter Moon |
-| 558 | 337 | JoAnn Summerlot Ratliff |
-| 559 | 337 | Happy Puzzle |
-| 560 | 336 | Cozy Patternbuilder |
-| 561 | 335 | CrashOutCarla |
-| 562 | 334 | Chirpy Spinzone |
-| 563 | 334 | Lisa Pie |
-| 564 | 334 | Cindy |
-| 565 | 334 | Joshua Garner |
-| 566 | 333 | gabs |
-| 567 | 332 | Kelli Hurt |
-| 568 | 332 | Matoka Shuford |
-| 569 | 332 | LyvWyre |
-| 570 | 332 | Missionary Meda |
-| 571 | 332 | Jessica Jones Bolton |
-| 572 | 332 | Brandi Sauer |
-| 573 | 332 | Fancy Rollfit |
-| 574 | 332 | Mighty1 |
-| 575 | 331 | Dubiousdust |
+| 557 | 339 | MrsReap |
+| 558 | 339 | Winter Moon |
+| 559 | 337 | JoAnn Summerlot Ratliff |
+| 560 | 337 | Happy Puzzle |
+| 561 | 336 | Cozy Patternbuilder |
+| 562 | 335 | CrashOutCarla |
+| 563 | 334 | Chirpy Spinzone |
+| 564 | 334 | Lisa Pie |
+| 565 | 334 | Cindy |
+| 566 | 334 | Joshua Garner |
+| 567 | 333 | gabs |
+| 568 | 332 | Kelli Hurt |
+| 569 | 332 | Matoka Shuford |
+| 570 | 332 | LyvWyre |
+| 571 | 332 | Missionary Meda |
+| 572 | 332 | Jessica Jones Bolton |
+| 573 | 332 | Brandi Sauer |
+| 574 | 332 | Fancy Rollfit |
+| 575 | 332 | Mighty1 |
 | 576 | 331 | Lively Cascadebuilder |
 | 577 | 331 | Tiffany Smith |
-| 578 | 330 | J.Wo |
-| 579 | 330 | Mammoth |
-| 580 | 330 | Destiny Starr LeValdo |
-| 581 | 329 | MattJennifer Marie Ericson |
-| 582 | 329 | ariel |
-| 583 | 329 | Alexis Siefker |
+| 578 | 331 | Dubiousdust |
+| 579 | 330 | J.Wo |
+| 580 | 330 | Mammoth |
+| 581 | 330 | Destiny Starr LeValdo |
+| 582 | 329 | MattJennifer Marie Ericson |
+| 583 | 329 | ariel |
 | 584 | 329 | Shia Marie |
-| 585 | 329 | MrsReap |
+| 585 | 329 | Alexis Siefker |
 | 586 | 328 | Jennifer Fisher Franklin |
 | 587 | 328 | Melissa Quinn |
 | 588 | 327 | Kendall Rhodie |
@@ -601,10 +601,10 @@
 | 593 | 325 | Ilia Blake |
 | 594 | 325 | Donna Bush |
 | 595 | 325 | Christina Barry |
-| 596 | 324 | Alexsandra Hill |
-| 597 | 324 | Sarah Leake |
-| 598 | 324 | Playa |
-| 599 | 323 | Chelsea Guajardo |
+| 596 | 324 | Chelsea Guajardo |
+| 597 | 324 | Alexsandra Hill |
+| 598 | 324 | Sarah Leake |
+| 599 | 324 | Playa |
 | 600 | 323 | Lacie Powers |
 | 601 | 323 | shonaberry |
 | 602 | 323 | GETBOXED! |
@@ -629,8 +629,8 @@
 | 621 | 317 | Stef |
 | 622 | 317 | crobb77 |
 | 623 | 316 | Ashlee Lemus |
-| 624 | 315 | Travis McKinnon |
-| 625 | 315 | Thermeka Lindsey |
+| 624 | 315 | Thermeka Lindsey |
+| 625 | 315 | Travis McKinnon |
 | 626 | 315 | Littlebrat |
 | 627 | 315 | LeRoy jenkins |
 | 628 | 315 | tj |
@@ -647,15 +647,15 @@
 | 639 | 311 | Loony Edge |
 | 640 | 310 | Corie A. Brinson |
 | 641 | 310 | Angela Adamo-Tash |
-| 642 | 310 | Saucy Brickmatch |
-| 643 | 308 | JIGsaw ~(•¿°)~ |
+| 642 | 310 | 1694AF |
+| 643 | 310 | Saucy Brickmatch |
 | 644 | 308 | Sarah |
-| 645 | 307 | Allysha McFarland |
-| 646 | 306 | Capt'n Crunch |
-| 647 | 306 | Jordan Tamayia Williams |
-| 648 | 306 | Susan Stofberg Beltran |
-| 649 | 305 | Erika Rubio |
-| 650 | 305 | 1694AF |
+| 645 | 308 | JIGsaw ~(•¿°)~ |
+| 646 | 307 | Allysha McFarland |
+| 647 | 306 | Capt'n Crunch |
+| 648 | 306 | Jordan Tamayia Williams |
+| 649 | 306 | Susan Stofberg Beltran |
+| 650 | 305 | Erika Rubio |
 | 651 | 304 | Loopy Clusterline |
 | 652 | 304 | Kandylands |
 | 653 | 303 | Kennita Cox |
@@ -1006,10 +1006,10 @@
 | 998 | 188 | Chirpy Dashfit |
 | 999 | 188 | Andy Petersen |
 | 1000 | 187 | Krystal Simpson |
-| 1001 | 186 | Diqthot |
-| 1002 | 186 | Phredda Helene Gavornik |
-| 1003 | 186 | Quirky Shatterblock |
-| 1004 | 186 | Vergie Michael |
+| 1001 | 187 | Vergie Michael |
+| 1002 | 186 | Diqthot |
+| 1003 | 186 | Phredda Helene Gavornik |
+| 1004 | 186 | Quirky Shatterblock |
 | 1005 | 185 | Hooti Smile |
 | 1006 | 185 | Dannie Ems |
 | 1007 | 184 | RustyMaster40 |
