@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:46:45 UTC
+# Standings for team2 as of 2026-06-11 07:47:23 UTC
 
 **Total Participants:** 2930
 
@@ -186,10 +186,10 @@
 | 178 | 1152 | Cristi Doris |
 | 179 | 1140 | Nichole Wilson |
 | 180 | 1139 | Tina Marie |
-| 181 | 1117 | MegaPooh |
-| 182 | 1093 | Jgato |
-| 183 | 1090 | Le Sandy |
-| 184 | 1087 | Sarah Mccolgan |
+| 181 | 1133 | Sarah Mccolgan |
+| 182 | 1117 | MegaPooh |
+| 183 | 1093 | Jgato |
+| 184 | 1090 | Le Sandy |
 | 185 | 1080 | Erin Thomas |
 | 186 | 1073 | Nikki Hayes |
 | 187 | 1072 | Groovy Snapper |
@@ -429,9 +429,9 @@
 | 421 | 508 | Dawnypooh |
 | 422 | 508 | Patricia Carroll |
 | 423 | 506 | Monica Gonzalez Rios |
-| 424 | 505 | Melissa Clogher White |
-| 425 | 504 | Xandrea Jones |
-| 426 | 504 | KazzyKay |
+| 424 | 506 | KazzyKay |
+| 425 | 505 | Melissa Clogher White |
+| 426 | 504 | Xandrea Jones |
 | 427 | 499 | Monee Stronger |
 | 428 | 499 | Erica South |
 | 429 | 499 | Mikaela Byrd |
@@ -1628,24 +1628,24 @@
 | 1620 | 108 | Denna Marteney |
 | 1621 | 108 | Jamie Benge |
 | 1622 | 108 | Anthony Kordich |
-| 1623 | 108 | Perky Twistfit |
-| 1624 | 108 | Jennifer Robinson |
-| 1625 | 108 | Brian David Fogg |
-| 1626 | 107 | Lori Antrim Nichols |
-| 1627 | 107 | Giggy Linkgrid |
-| 1628 | 107 | Carole Brown |
-| 1629 | 107 | bigdog |
-| 1630 | 106 | Chirpy Tower |
-| 1631 | 106 | Chipper Blockroll |
-| 1632 | 106 | Slinky Linkgrid |
-| 1633 | 106 | David Bright |
-| 1634 | 106 | Amy N Daniel Greene |
-| 1635 | 106 | Teresa Ann Curry |
-| 1636 | 105 | Yvonne Rodriguez |
-| 1637 | 105 | Jill Gelhausen |
-| 1638 | 105 | Heather Hi |
-| 1639 | 105 | DragonJB2020 |
-| 1640 | 105 | Anna Lee Richardson |
+| 1623 | 108 | Anna Lee Richardson |
+| 1624 | 108 | Perky Twistfit |
+| 1625 | 108 | Jennifer Robinson |
+| 1626 | 108 | Brian David Fogg |
+| 1627 | 107 | Lori Antrim Nichols |
+| 1628 | 107 | Giggy Linkgrid |
+| 1629 | 107 | Carole Brown |
+| 1630 | 107 | bigdog |
+| 1631 | 106 | Chirpy Tower |
+| 1632 | 106 | Chipper Blockroll |
+| 1633 | 106 | Slinky Linkgrid |
+| 1634 | 106 | David Bright |
+| 1635 | 106 | Amy N Daniel Greene |
+| 1636 | 106 | Teresa Ann Curry |
+| 1637 | 105 | Yvonne Rodriguez |
+| 1638 | 105 | Jill Gelhausen |
+| 1639 | 105 | Heather Hi |
+| 1640 | 105 | DragonJB2020 |
 | 1641 | 105 | Annie82 |
 | 1642 | 105 | Daddy’s Here |
 | 1643 | 105 | Patrick Woodard |
@@ -2063,44 +2063,44 @@
 | 2055 | 56 | Squyrt |
 | 2056 | 56 | CountryGurl |
 | 2057 | 55 | Speedy Builderline |
-| 2058 | 55 | Cheryl Stevens |
-| 2059 | 55 | Jazzy |
-| 2060 | 55 | Kimberly Nicholson Deem |
+| 2058 | 55 | Loopy Puzzler |
+| 2059 | 55 | James Brown |
+| 2060 | 55 | Merine Mott |
 | 2061 | 55 | Dapper Align |
-| 2062 | 55 | Jessica Ann |
-| 2063 | 55 | Emily Busick |
-| 2064 | 55 | Jennifer Petrie |
-| 2065 | 55 | Mary Goodman |
-| 2066 | 55 | Merine Mott |
-| 2067 | 55 | Misty McElroy |
-| 2068 | 55 | James Brown |
-| 2069 | 55 | Zappy Shatterblock |
+| 2062 | 55 | Cheryl Stevens |
+| 2063 | 55 | Jazzy |
+| 2064 | 55 | Kimberly Nicholson Deem |
+| 2065 | 55 | Jessica Ann |
+| 2066 | 55 | Emily Busick |
+| 2067 | 55 | Jennifer Petrie |
+| 2068 | 55 | Mary Goodman |
+| 2069 | 55 | C0rt3z |
 | 2070 | 55 | Brittnee Lane |
-| 2071 | 55 | C0rt3z |
-| 2072 | 55 | Katelynn Hunt |
-| 2073 | 54 | Eugene Clawson |
-| 2074 | 54 | Paula Smith |
-| 2075 | 54 | Wafflemaker4000 |
-| 2076 | 54 | Frilly Riseclear |
-| 2077 | 54 | Giggly Twisterfit |
-| 2078 | 54 | Denise Singleton |
-| 2079 | 54 | Michelle Shemon |
-| 2080 | 54 | Kasey Marie |
-| 2081 | 54 | Amanda Nicholson |
+| 2071 | 55 | Misty McElroy |
+| 2072 | 55 | Zappy Shatterblock |
+| 2073 | 55 | Katelynn Hunt |
+| 2074 | 54 | Eugene Clawson |
+| 2075 | 54 | Amanda Nicholson |
+| 2076 | 54 | Wafflemaker4000 |
+| 2077 | 54 | Paula Smith |
+| 2078 | 54 | Frilly Riseclear |
+| 2079 | 54 | Giggly Twisterfit |
+| 2080 | 54 | Michelle Shemon |
+| 2081 | 54 | Kasey Marie |
 | 2082 | 54 | Spunky Snapfall |
 | 2083 | 54 | Loony Glider |
 | 2084 | 54 | Angela Bustillos |
 | 2085 | 54 | Jess Duehring |
-| 2086 | 54 | B.A. Watt |
-| 2087 | 54 | Cheery Filler |
-| 2088 | 54 | Erica |
-| 2089 | 53 | Kimberly Rochon |
-| 2090 | 53 | Tee Have |
-| 2091 | 53 | Janet Cetola |
-| 2092 | 53 | Tiffany Haskins |
-| 2093 | 53 | Mel |
+| 2086 | 54 | Denise Singleton |
+| 2087 | 54 | Erica |
+| 2088 | 54 | B.A. Watt |
+| 2089 | 54 | Cheery Filler |
+| 2090 | 53 | Janet Cetola |
+| 2091 | 53 | Mel |
+| 2092 | 53 | Tee Have |
+| 2093 | 53 | Tiffany Haskins |
 | 2094 | 53 | Patricia Ann Tondreault Hammonds |
-| 2095 | 53 | Loopy Puzzler |
+| 2095 | 53 | Kimberly Rochon |
 | 2096 | 53 | Topknot13 |
 | 2097 | 53 | Vee Waller |
 | 2098 | 53 | Gigi |
@@ -2110,30 +2110,30 @@
 | 2102 | 53 | Thomas Johnstone |
 | 2103 | 52 | Lavenda Nettles |
 | 2104 | 52 | Sir Paco |
-| 2105 | 52 | Elroy Bond |
-| 2106 | 52 | Sunnylynn Hodge |
-| 2107 | 52 | Katy Marie |
+| 2105 | 52 | Chirpy Shiftspin |
+| 2106 | 52 | Samantha Sipe |
+| 2107 | 52 | Loony Matcher |
 | 2108 | 52 | Joyce Bartel |
-| 2109 | 52 | Trixie |
-| 2110 | 52 | Chirpy Shiftspin |
-| 2111 | 52 | Nicole |
-| 2112 | 52 | Lynn Anne |
-| 2113 | 52 | Samantha Robinet |
-| 2114 | 52 | RNKERI |
-| 2115 | 52 | Loony Matcher |
-| 2116 | 52 | Samantha Sipe |
-| 2117 | 51 | Brian Giddens |
-| 2118 | 51 | Heather Turner George |
-| 2119 | 51 | Robert Covey |
-| 2120 | 51 | Jess |
-| 2121 | 51 | Alicia Abston |
-| 2122 | 51 | Bold Blockline |
-| 2123 | 51 | Brandi Lynn Tumey |
-| 2124 | 51 | Daring Blockline |
-| 2125 | 51 | Snazzy Clusterfit |
-| 2126 | 51 | Cheery Bridger |
-| 2127 | 51 | Mighty Bricky |
-| 2128 | 51 | Michael David Hennessey |
+| 2109 | 52 | Katy Marie |
+| 2110 | 52 | Elroy Bond |
+| 2111 | 52 | Sunnylynn Hodge |
+| 2112 | 52 | Trixie |
+| 2113 | 52 | Lynn Anne |
+| 2114 | 52 | Samantha Robinet |
+| 2115 | 52 | Nicole |
+| 2116 | 52 | RNKERI |
+| 2117 | 51 | Robert Covey |
+| 2118 | 51 | Jess |
+| 2119 | 51 | Michael David Hennessey |
+| 2120 | 51 | Mighty Bricky |
+| 2121 | 51 | Heather Turner George |
+| 2122 | 51 | Cheery Bridger |
+| 2123 | 51 | Brian Giddens |
+| 2124 | 51 | Snazzy Clusterfit |
+| 2125 | 51 | Daring Blockline |
+| 2126 | 51 | Alicia Abston |
+| 2127 | 51 | Bold Blockline |
+| 2128 | 51 | Brandi Lynn Tumey |
 | 2129 | 51 | Īvý S Karma |
 | 2130 | 51 | haihai |
 | 2131 | 51 | Ashley Gracelynn Tiner |
