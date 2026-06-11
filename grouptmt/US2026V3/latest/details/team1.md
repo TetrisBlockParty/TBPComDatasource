@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 20:45:25 UTC
+# Standings for team1 as of 2026-06-11 20:46:44 UTC
 
 **Total Participants:** 2535
 
@@ -7,7 +7,7 @@
 | Rank | Score | Name |
 | :- | :- | :- |
 | 1 | 69000 | Ariel |
-| 2 | 22935 | Death by SnuSnu |
+| 2 | 23135 | Death by SnuSnu |
 | 3 | 22000 | Kalynn Parks |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 15993 | Erika Windom |
@@ -32,7 +32,7 @@
 | 24 | 6121 | Chandler Spencer |
 | 25 | 6027 | Ivana Schmidt |
 | 26 | 6013 | Hunter Rayborn |
-| 27 | 5713 | jaimie |
+| 27 | 5753 | jaimie |
 | 28 | 5680 | Juan Kandiss Escobedo Irwin |
 | 29 | 5282 | Plucky Swipe |
 | 30 | 5026 | Janine Hunter |
@@ -58,7 +58,7 @@
 | 50 | 2915 | Blockhead |
 | 51 | 2903 | BlackQueen105 |
 | 52 | 2900 | Rosey |
-| 53 | 2807 | Epic Snapfall |
+| 53 | 2810 | Epic Snapfall |
 | 54 | 2723 | Frisky Fallmatch |
 | 55 | 2700 | Jamie Willis |
 | 56 | 2659 | Corey Cawthon |
@@ -105,20 +105,20 @@
 | 97 | 1891 | Crystal Boyd |
 | 98 | 1870 | TAZ-MF-NIZIL |
 | 99 | 1854 | Jessica Roberts |
-| 100 | 1781 | sha |
-| 101 | 1766 | Tameka Jones |
-| 102 | 1758 | Roberta Lynn |
-| 103 | 1756 | BYM4L |
-| 104 | 1746 | Sanjuro |
-| 105 | 1711 | Richard Horton |
-| 106 | 1708 | MamaBear |
-| 107 | 1687 | Alana Renee |
-| 108 | 1682 | Danielle DeLozier Plesec |
-| 109 | 1668 | Anthony Washington |
-| 110 | 1668 | La'Chae Nickole |
-| 111 | 1661 | LeeLee08 |
-| 112 | 1659 | Loopy Block |
-| 113 | 1657 | Teresa Yanira Cepeda |
+| 100 | 1823 | Teresa Yanira Cepeda |
+| 101 | 1781 | sha |
+| 102 | 1766 | Tameka Jones |
+| 103 | 1758 | Roberta Lynn |
+| 104 | 1756 | BYM4L |
+| 105 | 1746 | Sanjuro |
+| 106 | 1711 | Richard Horton |
+| 107 | 1708 | MamaBear |
+| 108 | 1687 | Alana Renee |
+| 109 | 1682 | Danielle DeLozier Plesec |
+| 110 | 1668 | Anthony Washington |
+| 111 | 1668 | La'Chae Nickole |
+| 112 | 1661 | LeeLee08 |
+| 113 | 1659 | Loopy Block |
 | 114 | 1649 | Voice |
 | 115 | 1647 | Dawn L Washington-Feuquay |
 | 116 | 1627 | Janet Cooke |
@@ -241,8 +241,8 @@
 | 233 | 802 | Johnathan Deese |
 | 234 | 801 | BULLSEYE |
 | 235 | 798 | Zappy Riser |
-| 236 | 796 | Albert McKnight |
-| 237 | 794 | David Fuentes |
+| 236 | 798 | David Fuentes |
+| 237 | 796 | Albert McKnight |
 | 238 | 792 | Frisky Fall |
 | 239 | 774 | Ottison Dianna |
 | 240 | 772 | Dena Marie Lee |
@@ -415,23 +415,23 @@
 | 407 | 480 | Ashleyy Netchert |
 | 408 | 480 | Erica Charlise |
 | 409 | 477 | Brenda Malachi-butler |
-| 410 | 476 | Nikki Hogan |
-| 411 | 476 | AshyTay |
-| 412 | 475 | Vernon Hoyt |
-| 413 | 475 | Amy Lynn Leifheit |
-| 414 | 474 | Tonya McElroy |
-| 415 | 473 | Faith Armone |
-| 416 | 473 | Lisa420 |
-| 417 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 418 | 469 | Kendra McIntyre |
-| 419 | 468 | Bold Clusterer |
-| 420 | 467 | Sunny Clicky |
+| 410 | 477 | Sunny Clicky |
+| 411 | 476 | Nikki Hogan |
+| 412 | 476 | AshyTay |
+| 413 | 475 | Vernon Hoyt |
+| 414 | 475 | Amy Lynn Leifheit |
+| 415 | 474 | Tonya McElroy |
+| 416 | 473 | Faith Armone |
+| 417 | 473 | Lisa420 |
+| 418 | 470 | Davionte DaeDae Hopson-Rodriguez |
+| 419 | 469 | Kendra McIntyre |
+| 420 | 468 | Bold Clusterer |
 | 421 | 467 | C Lo Green |
 | 422 | 465 | Bubbly Piececlear |
-| 423 | 464 | Wayne Savannah |
+| 423 | 464 | Koreen Johnson-Woolford |
 | 424 | 464 | Ladybug |
 | 425 | 464 | kitten |
-| 426 | 464 | Koreen Johnson-Woolford |
+| 426 | 464 | Wayne Savannah |
 | 427 | 464 | Nate Myers |
 | 428 | 464 | Michele Simpson |
 | 429 | 462 | Chilly Wipebuilder |
@@ -518,14 +518,14 @@
 | 510 | 403 | Brittany Fells |
 | 511 | 403 | Tesiree Cray |
 | 512 | 402 | Trusi Rusi |
-| 513 | 401 | Cynda Cyn |
-| 514 | 400 | Bbyunicorn |
-| 515 | 400 | Christina Rebecca |
-| 516 | 400 | Sara Meri |
-| 517 | 399 | Kala LaRicka |
-| 518 | 397 | Lucy |
-| 519 | 396 | Aridevina |
-| 520 | 396 | Stacy Nicole |
+| 513 | 402 | Lucy |
+| 514 | 401 | Cynda Cyn |
+| 515 | 400 | Bbyunicorn |
+| 516 | 400 | Christina Rebecca |
+| 517 | 400 | Sara Meri |
+| 518 | 399 | Kala LaRicka |
+| 519 | 398 | Stacy Nicole |
+| 520 | 396 | Aridevina |
 | 521 | 396 | Chirpy Buildgrid |
 | 522 | 395 | Rachel |
 | 523 | 395 | Ysma Simmons |
@@ -1465,41 +1465,41 @@
 | 1457 | 88 | Boldy Line |
 | 1458 | 88 | Fairy Fae_6 |
 | 1459 | 88 | Shardai She Gotit |
-| 1460 | 88 | ImmeKC |
-| 1461 | 88 | Simone Dublin |
-| 1462 | 88 | Brii Michelle Lamb |
-| 1463 | 88 | Breeze |
-| 1464 | 88 | Connor Leon Cluff |
-| 1465 | 87 | Ray Baker |
-| 1466 | 87 | Renee J. Thomas |
-| 1467 | 87 | Natalie Burroughs |
-| 1468 | 87 | Tahlia Nunez Williams |
-| 1469 | 87 | Sandra Buller |
-| 1470 | 86 | Sunny Cascader |
-| 1471 | 86 | rummy |
+| 1460 | 88 | Connor Leon Cluff |
+| 1461 | 88 | ImmeKC |
+| 1462 | 88 | Simone Dublin |
+| 1463 | 88 | Brii Michelle Lamb |
+| 1464 | 88 | Breeze |
+| 1465 | 87 | Tahlia Nunez Williams |
+| 1466 | 87 | Natalie Burroughs |
+| 1467 | 87 | Sandra Buller |
+| 1468 | 87 | Renee J. Thomas |
+| 1469 | 87 | Ray Baker |
+| 1470 | 86 | rummy |
+| 1471 | 86 | Sunny Cascader |
 | 1472 | 86 | Snappy Strikerpiece |
-| 1473 | 86 | GLO510 |
-| 1474 | 86 | Davina Valentino |
-| 1475 | 86 | Plucky Twist |
+| 1473 | 86 | Joy Shantrice Sorrells |
+| 1474 | 86 | Plucky Twist |
+| 1475 | 86 | GLO510 |
 | 1476 | 86 | Noni |
-| 1477 | 85 | Kris Gray |
-| 1478 | 85 | Victor Palomino |
-| 1479 | 85 | Jessie Wallace |
-| 1480 | 85 | Danielle Winfield |
-| 1481 | 85 | Skye |
-| 1482 | 84 | B |
-| 1483 | 84 | Robyn Ellis |
-| 1484 | 84 | Quirky Gridpiece |
-| 1485 | 83 | Laceshia Finch |
-| 1486 | 83 | MR. SHED |
-| 1487 | 83 | John C Sexton |
-| 1488 | 83 | Kimberly Haynes |
-| 1489 | 83 | Kerry Meister Rummel |
-| 1490 | 83 | Crystal Winters Mckay |
-| 1491 | 83 | Blakk Ru-sta |
-| 1492 | 83 | Alyssa H |
-| 1493 | 83 | MrsMeadows2019 |
-| 1494 | 83 | Joy Shantrice Sorrells |
+| 1477 | 86 | Davina Valentino |
+| 1478 | 85 | Skye |
+| 1479 | 85 | Danielle Winfield |
+| 1480 | 85 | Jessie Wallace |
+| 1481 | 85 | Kris Gray |
+| 1482 | 85 | Victor Palomino |
+| 1483 | 84 | Quirky Gridpiece |
+| 1484 | 84 | Robyn Ellis |
+| 1485 | 84 | B |
+| 1486 | 83 | John C Sexton |
+| 1487 | 83 | Laceshia Finch |
+| 1488 | 83 | MR. SHED |
+| 1489 | 83 | Kimberly Haynes |
+| 1490 | 83 | Kerry Meister Rummel |
+| 1491 | 83 | Crystal Winters Mckay |
+| 1492 | 83 | Blakk Ru-sta |
+| 1493 | 83 | Alyssa H |
+| 1494 | 83 | MrsMeadows2019 |
 | 1495 | 83 | Ahsokadog |
 | 1496 | 82 | Dapper Balancefit |
 | 1497 | 82 | Kenneth Williams |
@@ -1528,9 +1528,9 @@
 | 1520 | 80 | Tina Criam |
 | 1521 | 80 | Chevalier Burley |
 | 1522 | 80 | Anthony D Holmes |
-| 1523 | 80 | Shannon |
-| 1524 | 80 | Steven Bell |
-| 1525 | 80 | Ness |
+| 1523 | 80 | Ness |
+| 1524 | 80 | Shannon |
+| 1525 | 80 | Steven Bell |
 | 1526 | 80 | Shoppingbagdrezzy |
 | 1527 | 79 | Zany Pivot |
 | 1528 | 79 | smn4evolution |
