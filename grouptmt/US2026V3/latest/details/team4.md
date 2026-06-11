@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:38:41 UTC
+# Standings for team4 as of 2026-06-11 09:39:21 UTC
 
 **Total Participants:** 2506
 
@@ -60,8 +60,8 @@
 | 52 | 3440 | Kathy Brookins |
 | 53 | 3391 | Dana Abegil Lawas |
 | 54 | 3244 | Elissa S-k |
-| 55 | 3200 | 626 |
-| 56 | 3183 | Jace McCullough |
+| 55 | 3215 | Jace McCullough |
+| 56 | 3200 | 626 |
 | 57 | 3150 | Destiny Dyer |
 | 58 | 3130 | Alicia Cook |
 | 59 | 3100 | Posey Smith |
@@ -87,19 +87,19 @@
 | 79 | 2091 | Charlie Lewis |
 | 80 | 2068 | Damon Gaston |
 | 81 | 2066 | kcknbtz |
-| 82 | 2025 | Cherry |
-| 83 | 2023 | Sweet Stacker |
-| 84 | 2007 | Cranky Buildout |
-| 85 | 2003 | Jackie Polanco |
-| 86 | 1920 | Alyssa Oth |
-| 87 | 1896 | Sassy Column |
-| 88 | 1870 | JoLinda Dunn |
-| 89 | 1869 | Dheeh Robles |
-| 90 | 1865 | Jazzy Gridder |
-| 91 | 1857 | Jumpy Brickline |
-| 92 | 1852 | 2 kool |
-| 93 | 1842 | Keg |
-| 94 | 1839 | Twirl Girl |
+| 82 | 2039 | Twirl Girl |
+| 83 | 2025 | Cherry |
+| 84 | 2023 | Sweet Stacker |
+| 85 | 2007 | Cranky Buildout |
+| 86 | 2003 | Jackie Polanco |
+| 87 | 1920 | Alyssa Oth |
+| 88 | 1896 | Sassy Column |
+| 89 | 1870 | JoLinda Dunn |
+| 90 | 1869 | Dheeh Robles |
+| 91 | 1865 | Jazzy Gridder |
+| 92 | 1857 | Jumpy Brickline |
+| 93 | 1852 | 2 kool |
+| 94 | 1842 | Keg |
 | 95 | 1745 | Jessi Goodwin |
 | 96 | 1704 | Beee |
 | 97 | 1686 | SMV |
@@ -148,11 +148,11 @@
 | 140 | 1177 | Gerald Lew |
 | 141 | 1157 | Futrell Brent |
 | 142 | 1154 | Tanya AfricanQueen Savage |
-| 143 | 1130 | blockhead |
-| 144 | 1126 | Dandy Puzzler |
-| 145 | 1123 | Tiffany Loree Tiffany Oneill |
-| 146 | 1118 | Principal Liz |
-| 147 | 1113 | Melissa WC |
+| 143 | 1143 | Melissa WC |
+| 144 | 1130 | blockhead |
+| 145 | 1126 | Dandy Puzzler |
+| 146 | 1123 | Tiffany Loree Tiffany Oneill |
+| 147 | 1118 | Principal Liz |
 | 148 | 1106 | Loony Towerer |
 | 149 | 1095 | Suzanne North |
 | 150 | 1090 | Becky Doll-Hall |
@@ -223,8 +223,8 @@
 | 215 | 813 | Misty Leigh |
 | 216 | 807 | LastBoi |
 | 217 | 806 | Gracie Ornelas |
-| 218 | 788 | Jackie Jackson |
-| 219 | 786 | Snippy Splitter |
+| 218 | 789 | Snippy Splitter |
+| 219 | 788 | Jackie Jackson |
 | 220 | 781 | Janet Sanfilippo Sullivan |
 | 221 | 778 | Suzanne Carter |
 | 222 | 777 | Vicki Adams |
@@ -257,11 +257,11 @@
 | 249 | 706 | Toon Up |
 | 250 | 704 | Caitlyn Wang |
 | 251 | 696 | Danielle Mitchell |
-| 252 | 689 | Rebecca Watters |
-| 253 | 688 | Ashley Jenkins |
-| 254 | 680 | Saucy Wipepiece |
-| 255 | 673 | Karr |
-| 256 | 669 | Logan Two-dubs Baker |
+| 252 | 689 | Logan Two-dubs Baker |
+| 253 | 689 | Rebecca Watters |
+| 254 | 688 | Ashley Jenkins |
+| 255 | 680 | Saucy Wipepiece |
+| 256 | 673 | Karr |
 | 257 | 669 | Vanessa Sykes |
 | 258 | 663 | Drh4090 |
 | 259 | 663 | Laguya |
@@ -305,14 +305,14 @@
 | 297 | 586 | Karen Miller |
 | 298 | 584 | Dae Von |
 | 299 | 581 | Maria Castillo |
-| 300 | 578 | Stephanie Myers |
-| 301 | 576 | Goofy Riser |
-| 302 | 575 | Julian Gasque |
-| 303 | 574 | Alma López Morales |
-| 304 | 573 | Sisi RedVelvet Reneè |
-| 305 | 571 | Danny Ortiz |
-| 306 | 570 | Fran Aaron-Ring |
-| 307 | 568 | Tammy June |
+| 300 | 578 | Tammy June |
+| 301 | 578 | Stephanie Myers |
+| 302 | 576 | Goofy Riser |
+| 303 | 575 | Julian Gasque |
+| 304 | 574 | Alma López Morales |
+| 305 | 573 | Sisi RedVelvet Reneè |
+| 306 | 571 | Danny Ortiz |
+| 307 | 570 | Fran Aaron-Ring |
 | 308 | 565 | Morgan Stevens |
 | 309 | 563 | Homie |
 | 310 | 563 | Cherrel M. Causey |
@@ -981,8 +981,8 @@
 | 973 | 188 | Daring Patternblock |
 | 974 | 188 | LaRue Tee |
 | 975 | 187 | YenSid |
-| 976 | 187 | Krystal Simpson |
-| 977 | 186 | Lizxxx |
+| 976 | 187 | Lizxxx |
+| 977 | 187 | Krystal Simpson |
 | 978 | 186 | Phredda Helene Gavornik |
 | 979 | 186 | Quirky Shatterblock |
 | 980 | 186 | Diqthot |
