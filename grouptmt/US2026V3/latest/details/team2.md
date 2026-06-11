@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 19:50:45 UTC
+# Standings for team2 as of 2026-06-11 19:51:22 UTC
 
 **Total Participants:** 3004
 
@@ -279,8 +279,8 @@
 | 271 | 879 | Amie Marks |
 | 272 | 873 | Brandon Link |
 | 273 | 873 | Mom |
-| 274 | 871 | Chipper Stackbuilder |
-| 275 | 870 | Avie Lou |
+| 274 | 872 | Avie Lou |
+| 275 | 871 | Chipper Stackbuilder |
 | 276 | 864 | Flashy Drop |
 | 277 | 849 | Brandi Thompson |
 | 278 | 845 | Twisty Buildgrid |
@@ -300,8 +300,8 @@
 | 292 | 816 | Ratchet |
 | 293 | 813 | Loony Faller |
 | 294 | 811 | Ozge Akgun Tokat |
-| 295 | 802 | meg |
-| 296 | 802 | Charles E Mccardell |
+| 295 | 808 | Charles E Mccardell |
+| 296 | 802 | meg |
 | 297 | 798 | Nutty Curver |
 | 298 | 797 | Kristi Chestnut |
 | 299 | 796 | True |
@@ -492,35 +492,35 @@
 | 484 | 494 | Teresa Mandich |
 | 485 | 491 | Dad |
 | 486 | 489 | Suki Jacobs |
-| 487 | 488 | Mrs biotch |
-| 488 | 486 | Tina Kinney |
-| 489 | 485 | Jenn |
-| 490 | 484 | Marge Cromer |
-| 491 | 484 | Gluten Gremlin |
-| 492 | 483 | Danielle Pack Lewellen |
-| 493 | 481 | Sonya YuntHatton |
-| 494 | 480 | Hypee |
-| 495 | 480 | Gwendolyn Boykin Mobbs |
-| 496 | 480 | Analee Nicole Jones |
-| 497 | 480 | Physhie |
-| 498 | 480 | Carolyn McNaughton |
-| 499 | 480 | Jacob Carpenter |
-| 500 | 479 | Mandeee |
-| 501 | 478 | Boldy Wobbler |
-| 502 | 478 | RaeRae |
-| 503 | 477 | Brittany Mathis |
-| 504 | 477 | Melisa |
-| 505 | 476 | Jessi Ann |
-| 506 | 476 | Firebone |
-| 507 | 475 | Patrick Ohanlon |
-| 508 | 475 | Joanna Trevin Thompson |
-| 509 | 474 | Cathy Lee Stoneking |
-| 510 | 471 | Simone F |
-| 511 | 470 | WhitS |
+| 487 | 488 | WhitS |
+| 488 | 488 | Mrs biotch |
+| 489 | 486 | Tina Kinney |
+| 490 | 485 | Jenn |
+| 491 | 484 | Marge Cromer |
+| 492 | 484 | Gluten Gremlin |
+| 493 | 483 | Danielle Pack Lewellen |
+| 494 | 481 | Sonya YuntHatton |
+| 495 | 480 | Hypee |
+| 496 | 480 | Gwendolyn Boykin Mobbs |
+| 497 | 480 | Analee Nicole Jones |
+| 498 | 480 | Physhie |
+| 499 | 480 | Carolyn McNaughton |
+| 500 | 480 | Jacob Carpenter |
+| 501 | 479 | Mandeee |
+| 502 | 478 | Boldy Wobbler |
+| 503 | 478 | RaeRae |
+| 504 | 477 | Brittany Mathis |
+| 505 | 477 | Melisa |
+| 506 | 476 | Jessi Ann |
+| 507 | 476 | Firebone |
+| 508 | 475 | Patrick Ohanlon |
+| 509 | 475 | Joanna Trevin Thompson |
+| 510 | 474 | Cathy Lee Stoneking |
+| 511 | 471 | Simone F |
 | 512 | 469 | ShiverMeSplinter |
 | 513 | 467 | Lazy Staggerpiece |
-| 514 | 467 | Maria Ward |
-| 515 | 467 | Missy Renia |
+| 514 | 467 | Missy Renia |
+| 515 | 467 | Maria Ward |
 | 516 | 465 | SunnySquare |
 | 517 | 463 | Mandy Van Laningham Bishop |
 | 518 | 463 | Flashy Hitter |
@@ -573,11 +573,11 @@
 | 565 | 432 | Muffin Popper |
 | 566 | 431 | Amber Smith |
 | 567 | 431 | murd3rmous3 |
-| 568 | 431 | Crystal Poss |
-| 569 | 430 | DNice |
-| 570 | 428 | Keri Mears |
-| 571 | 428 | Christy Ford |
-| 572 | 428 | Robert Brewster |
+| 568 | 431 | Robert Brewster |
+| 569 | 431 | Crystal Poss |
+| 570 | 430 | DNice |
+| 571 | 428 | Keri Mears |
+| 572 | 428 | Christy Ford |
 | 573 | 427 | Shannon Curry Riggle |
 | 574 | 427 | Amber Carpenter |
 | 575 | 426 | Gage Tucker |
@@ -946,31 +946,31 @@
 | 938 | 263 | Kevin Patrick |
 | 939 | 261 | Soliman Soliman |
 | 940 | 261 | KS Hengesbach |
-| 941 | 260 | Violet Olivares |
-| 942 | 260 | Tabetha Cooper |
-| 943 | 260 | Chris Christ |
-| 944 | 260 | Daring Spinzone |
+| 941 | 260 | Tabetha Cooper |
+| 942 | 260 | Violet Olivares |
+| 943 | 260 | Daring Spinzone |
+| 944 | 260 | Chris Christ |
 | 945 | 260 | Courtney Madison Hart |
 | 946 | 259 | Angie Kowalsky Olson |
-| 947 | 258 | Shellie Kioutas |
+| 947 | 258 | Christy Diane Escobar |
 | 948 | 258 | Quirky Gridclear |
-| 949 | 258 | sugabritches |
+| 949 | 258 | Shellie Kioutas |
 | 950 | 258 | Mary Stump |
-| 951 | 258 | Christy Diane Escobar |
+| 951 | 258 | sugabritches |
 | 952 | 258 | Ginger Nesbitt |
 | 953 | 257 | Judy Burkhalter |
-| 954 | 257 | Spicy Wrecker |
-| 955 | 257 | Ava Dorsch |
+| 954 | 257 | Ava Dorsch |
+| 955 | 257 | Spicy Wrecker |
 | 956 | 257 | Kevin Osbourne |
-| 957 | 256 | Edward Conyers |
-| 958 | 256 | Crafty Liner |
+| 957 | 256 | Crafty Liner |
+| 958 | 256 | Edward Conyers |
 | 959 | 256 | Staci Walker |
 | 960 | 256 | Heather Vircik |
 | 961 | 255 | Jackie Moran Tiller |
-| 962 | 255 | Giggy Bridger |
+| 962 | 255 | Ques Pryor |
 | 963 | 255 | Nichole Fuller |
 | 964 | 255 | Loopy Roll |
-| 965 | 255 | Ques Pryor |
+| 965 | 255 | Giggy Bridger |
 | 966 | 253 | R.w. Buck |
 | 967 | 252 | Kristen |
 | 968 | 252 | Carlee Becher |
@@ -980,12 +980,12 @@
 | 972 | 250 | Roger Kee |
 | 973 | 250 | zippity |
 | 974 | 249 | Stacey Peters |
-| 975 | 249 | Mtnblzr |
-| 976 | 249 | Raymond Dawson |
-| 977 | 248 | Jason P. Schwartz |
-| 978 | 248 | Jeannine Murphy |
-| 979 | 248 | Anita Blackshear |
-| 980 | 247 | Loony Clearpiece |
+| 975 | 249 | Loony Clearpiece |
+| 976 | 249 | Mtnblzr |
+| 977 | 249 | Raymond Dawson |
+| 978 | 248 | Jason P. Schwartz |
+| 979 | 248 | Jeannine Murphy |
+| 980 | 248 | Anita Blackshear |
 | 981 | 247 | Julie Lint |
 | 982 | 247 | Laura Melton |
 | 983 | 247 | Amanda Neal |
