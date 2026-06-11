@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 10:43:20 UTC
+# Standings for team2 as of 2026-06-11 10:44:19 UTC
 
 **Total Participants:** 2941
 
@@ -114,11 +114,11 @@
 | 106 | 2117 | Smiley Dropper |
 | 107 | 2082 | Jennifer Siggelko |
 | 108 | 2074 | Zappy Pattern |
-| 109 | 2042 | Leah Lynn |
-| 110 | 2038 | Kurt Brown |
-| 111 | 2031 | Frilly Match |
-| 112 | 2027 | Heather Marie-Tarlton Britt |
-| 113 | 2024 | Misiek |
+| 109 | 2064 | Misiek |
+| 110 | 2042 | Leah Lynn |
+| 111 | 2038 | Kurt Brown |
+| 112 | 2031 | Frilly Match |
+| 113 | 2027 | Heather Marie-Tarlton Britt |
 | 114 | 2018 | Deborah Boyce Minor |
 | 115 | 1937 | Cathy Tippett |
 | 116 | 1934 | Loopy Cascadepiece |
@@ -158,7 +158,7 @@
 | 150 | 1431 | LittleHippoEars |
 | 151 | 1416 | Marquetta Johnson |
 | 152 | 1413 | Jason Cook |
-| 153 | 1366 | Hoppy Rotate |
+| 153 | 1367 | Hoppy Rotate |
 | 154 | 1354 | Jaime P Lamb |
 | 155 | 1351 | Mirr Lulu |
 | 156 | 1350 | Sigmamom |
@@ -179,9 +179,9 @@
 | 171 | 1224 | BrendaLee NolanBos |
 | 172 | 1217 | Leigh Ann |
 | 173 | 1214 | Jeska Gaines |
-| 174 | 1208 | Tami Kay Williams Watson |
-| 175 | 1208 | Brenda Jones |
-| 176 | 1207 | Spicy Risegrid |
+| 174 | 1211 | Spicy Risegrid |
+| 175 | 1208 | Tami Kay Williams Watson |
+| 176 | 1208 | Brenda Jones |
 | 177 | 1199 | Allie Bug |
 | 178 | 1192 | Sabrina Hardrick |
 | 179 | 1189 | AndrewandShela Gornik |
@@ -193,15 +193,15 @@
 | 185 | 1105 | Jgato |
 | 186 | 1090 | Le Sandy |
 | 187 | 1080 | Erin Thomas |
-| 188 | 1075 | Groovy Snapper |
-| 189 | 1075 | Rhonda Diebold |
-| 190 | 1073 | Nikki Hayes |
-| 191 | 1067 | Perii Reynoso |
-| 192 | 1062 | Krisanne Kesner-Lonsby |
-| 193 | 1061 | Frothy Fitzone |
-| 194 | 1049 | Sedy |
-| 195 | 1046 | Sarah Griffey |
-| 196 | 1039 | Michelle Ferrara |
+| 188 | 1079 | Michelle Ferrara |
+| 189 | 1075 | Groovy Snapper |
+| 190 | 1075 | Rhonda Diebold |
+| 191 | 1073 | Nikki Hayes |
+| 192 | 1067 | Perii Reynoso |
+| 193 | 1062 | Krisanne Kesner-Lonsby |
+| 194 | 1061 | Frothy Fitzone |
+| 195 | 1049 | Sedy |
+| 196 | 1046 | Sarah Griffey |
 | 197 | 1035 | Amber Wolf |
 | 198 | 1033 | Theresa Hollinger |
 | 199 | 1028 | Wacky Dashfit |
@@ -266,23 +266,23 @@
 | 258 | 840 | Frisky Tiltgrid |
 | 259 | 837 | Janice |
 | 260 | 835 | Wacky Rollbuilder |
-| 261 | 834 | Steven Craig |
-| 262 | 831 | Sandra Ruiz |
-| 263 | 827 | SilentBuffalo |
-| 264 | 824 | Twisty Buildgrid |
-| 265 | 824 | Mom |
-| 266 | 822 | Gabrielle Wilson |
-| 267 | 819 | KayLynn Ogden McClelland |
-| 268 | 817 | Zarah Kettler |
-| 269 | 815 | Michelle Hicks |
-| 270 | 813 | Loony Faller |
-| 271 | 805 | Nicole Hogue |
-| 272 | 804 | Avie Lou |
-| 273 | 803 | Amie Marks |
-| 274 | 803 | Kay |
-| 275 | 801 | DukeDino |
-| 276 | 798 | Flashy Drop |
-| 277 | 797 | Spunky Buildout |
+| 261 | 835 | Spunky Buildout |
+| 262 | 834 | Steven Craig |
+| 263 | 831 | Sandra Ruiz |
+| 264 | 827 | SilentBuffalo |
+| 265 | 824 | Twisty Buildgrid |
+| 266 | 824 | Mom |
+| 267 | 822 | Gabrielle Wilson |
+| 268 | 819 | KayLynn Ogden McClelland |
+| 269 | 817 | Zarah Kettler |
+| 270 | 815 | Michelle Hicks |
+| 271 | 813 | Loony Faller |
+| 272 | 805 | Nicole Hogue |
+| 273 | 804 | Avie Lou |
+| 274 | 803 | Amie Marks |
+| 275 | 803 | Kay |
+| 276 | 801 | DukeDino |
+| 277 | 798 | Flashy Drop |
 | 278 | 794 | Amy Taylor Pomerenk |
 | 279 | 792 | Chris Cooper |
 | 280 | 792 | Aldotfus Williams |
@@ -393,8 +393,8 @@
 | 385 | 574 | Brandy McCune Reep |
 | 386 | 573 | Marilyn Strickland |
 | 387 | 570 | Symmy Norton |
-| 388 | 568 | Chummy Faller |
-| 389 | 567 | Michael Carmichael |
+| 388 | 569 | Michael Carmichael |
+| 389 | 568 | Chummy Faller |
 | 390 | 567 | Roe Sarmiento |
 | 391 | 566 | Santara Ferguson |
 | 392 | 563 | Alicia Parrish |
@@ -573,18 +573,18 @@
 | 565 | 402 | Buffy Diane Blake |
 | 566 | 401 | Marilyn Mendoza |
 | 567 | 400 | Tracy Lee |
-| 568 | 400 | Tiffany Lewis |
-| 569 | 399 | Nikki Layman |
-| 570 | 399 | Plucky Grabber |
-| 571 | 399 | Mandeee |
-| 572 | 399 | James Sayers |
-| 573 | 399 | Gina Leal |
-| 574 | 399 | Nicky Steigerwalt |
-| 575 | 398 | David Skelton |
-| 576 | 398 | Ashley Billiot Rhodes |
-| 577 | 398 | Vanessa King |
-| 578 | 397 | Sltwtrcndrla |
-| 579 | 395 | Doug Small |
+| 568 | 400 | Doug Small |
+| 569 | 400 | Tiffany Lewis |
+| 570 | 399 | Nikki Layman |
+| 571 | 399 | Plucky Grabber |
+| 572 | 399 | Mandeee |
+| 573 | 399 | James Sayers |
+| 574 | 399 | Gina Leal |
+| 575 | 399 | Nicky Steigerwalt |
+| 576 | 398 | David Skelton |
+| 577 | 398 | Ashley Billiot Rhodes |
+| 578 | 398 | Vanessa King |
+| 579 | 397 | Sltwtrcndrla |
 | 580 | 395 | murd3rmous3 |
 | 581 | 395 | Hector |
 | 582 | 395 | Madonna Ash |
@@ -594,14 +594,14 @@
 | 586 | 394 | Natasha Lee |
 | 587 | 393 | Elizabeth Henry |
 | 588 | 392 | Sassy Twistbuilder |
-| 589 | 390 | Jim Wright |
-| 590 | 390 | Rachel |
-| 591 | 390 | Wayne Johnson |
+| 589 | 390 | Wayne Johnson |
+| 590 | 390 | Jim Wright |
+| 591 | 390 | Rachel |
 | 592 | 389 | Jumpy Dashpiece |
 | 593 | 389 | Josephina |
 | 594 | 388 | Christy Ford |
-| 595 | 388 | Sassy Swiper |
-| 596 | 388 | Clever Fallmatch |
+| 595 | 388 | Clever Fallmatch |
+| 596 | 388 | Sassy Swiper |
 | 597 | 387 | Ashley Propst |
 | 598 | 386 | Ryuu |
 | 599 | 386 | phamous1 |
@@ -616,8 +616,8 @@
 | 608 | 382 | Curly Windbreaker |
 | 609 | 381 | Katie Jones |
 | 610 | 381 | s3lc4tr0n |
-| 611 | 380 | Melissa Willson |
-| 612 | 380 | Zappy Liney |
+| 611 | 380 | Zappy Liney |
+| 612 | 380 | Melissa Willson |
 | 613 | 379 | Aubrey Gates |
 | 614 | 378 | Shannon Curry Riggle |
 | 615 | 376 | TetrisMama |
@@ -734,12 +734,12 @@
 | 726 | 316 | Happy Drop |
 | 727 | 316 | Nicole Ashbaugh |
 | 728 | 315 | Jessica Murphree |
-| 729 | 315 | Que Henderson |
-| 730 | 315 | Wood |
-| 731 | 314 | Hyper Striker |
-| 732 | 314 | Epic Tilemaker |
-| 733 | 314 | Audrey Wood |
-| 734 | 313 | Jessi Ann |
+| 729 | 315 | Jessi Ann |
+| 730 | 315 | Que Henderson |
+| 731 | 315 | Wood |
+| 732 | 314 | Hyper Striker |
+| 733 | 314 | Epic Tilemaker |
+| 734 | 314 | Audrey Wood |
 | 735 | 312 | Chilly Surge |
 | 736 | 312 | Melissa Pronovost |
 | 737 | 312 | Mariya Cline |
