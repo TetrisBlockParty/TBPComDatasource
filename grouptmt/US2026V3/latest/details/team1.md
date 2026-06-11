@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:44:46 UTC
+# Standings for team1 as of 2026-06-11 07:45:26 UTC
 
 **Total Participants:** 2460
 
@@ -70,8 +70,8 @@
 | 62 | 2367 | Markeeta Lipscomb |
 | 63 | 2359 | Corey Cawthon |
 | 64 | 2359 | Shellzb Roberts |
-| 65 | 2230 | Robyn Caldwell |
-| 66 | 2218 | Frisky Fallmatch |
+| 65 | 2258 | Frisky Fallmatch |
+| 66 | 2230 | Robyn Caldwell |
 | 67 | 2175 | Brian Bohanon II |
 | 68 | 2172 | Moomoo |
 | 69 | 2166 | Helen Smith |
@@ -184,8 +184,8 @@
 | 176 | 952 | Ebony |
 | 177 | 947 | Keke Ferguson |
 | 178 | 946 | Smiley3000 |
-| 179 | 942 | Katherine Short |
-| 180 | 942 | Chuck Quarles |
+| 179 | 942 | Chuck Quarles |
+| 180 | 942 | Katherine Short |
 | 181 | 926 | Ebony Waynes-robinson |
 | 182 | 923 | xXEKUNXx |
 | 183 | 916 | Novaa |
@@ -205,8 +205,8 @@
 | 197 | 849 | boogeywoogey |
 | 198 | 847 | Gael Quintana |
 | 199 | 845 | Tamara N Lee |
-| 200 | 837 | Crystal Anderson |
-| 201 | 837 | Clint Mcdowell |
+| 200 | 837 | Clint Mcdowell |
+| 201 | 837 | Crystal Anderson |
 | 202 | 828 | Eugina Slater |
 | 203 | 825 | Marcheta Cervantez |
 | 204 | 814 | Andi McGreevy |
@@ -223,8 +223,8 @@
 | 215 | 787 | Jazzy Fireflighters |
 | 216 | 784 | Coco |
 | 217 | 777 | Johnathan Deese |
-| 218 | 772 | Latisha Fairley |
-| 219 | 772 | Dena Marie Lee |
+| 218 | 772 | Dena Marie Lee |
+| 219 | 772 | Latisha Fairley |
 | 220 | 770 | Genne Scott |
 | 221 | 766 | Sarah Clark |
 | 222 | 765 | Aihpos |
@@ -252,9 +252,9 @@
 | 244 | 688 | Bambi Love |
 | 245 | 685 | Haley Bell |
 | 246 | 684 | Giggy Clusterer |
-| 247 | 680 | Charletha Williams |
-| 248 | 680 | Erin Sabol |
-| 249 | 680 | e |
+| 247 | 680 | Erin Sabol |
+| 248 | 680 | e |
+| 249 | 680 | Charletha Williams |
 | 250 | 679 | Lashawn Wallace |
 | 251 | 676 | Mikayla |
 | 252 | 674 | DaVonte' Cretter |
@@ -266,22 +266,22 @@
 | 258 | 663 | LaToya Chambers |
 | 259 | 656 | Slinky Party |
 | 260 | 655 | Tishauna Virgo |
-| 261 | 654 | Nina Davis |
+| 261 | 655 | Andrew Jay Vaughn |
 | 262 | 654 | Rhonda Williams Warner |
-| 263 | 647 | Simply-Beautiful007 |
-| 264 | 641 | Marissa Sweet |
-| 265 | 639 | Mic Balew |
-| 266 | 638 | OhNoZer0 |
-| 267 | 635 | Tremaine Hiler |
-| 268 | 633 | Cheeky Pop |
-| 269 | 630 | SyTheEvilGenius1 |
-| 270 | 628 | BabyCakes |
-| 271 | 623 | Nicole Watson-Dixon |
+| 263 | 654 | Nina Davis |
+| 264 | 647 | Simply-Beautiful007 |
+| 265 | 641 | Marissa Sweet |
+| 266 | 639 | Mic Balew |
+| 267 | 638 | OhNoZer0 |
+| 268 | 635 | Tremaine Hiler |
+| 269 | 633 | Cheeky Pop |
+| 270 | 630 | SyTheEvilGenius1 |
+| 271 | 628 | BabyCakes |
 | 272 | 623 | Tobey Marberry |
-| 273 | 620 | DellaLucretia Thomas |
-| 274 | 620 | Tanya Clayton |
-| 275 | 620 | Jessica Carter |
-| 276 | 616 | Andrew Jay Vaughn |
+| 273 | 623 | Nicole Watson-Dixon |
+| 274 | 620 | DellaLucretia Thomas |
+| 275 | 620 | Tanya Clayton |
+| 276 | 620 | Jessica Carter |
 | 277 | 615 | pooh |
 | 278 | 613 | Cheery Linkfall |
 | 279 | 612 | Donnie Withthebody |
@@ -315,16 +315,16 @@
 | 307 | 548 | Sheila Burnham |
 | 308 | 546 | Daris Swearington |
 | 309 | 545 | Christopher Dreamsareality McEachin |
-| 310 | 541 | Penee Wiggins |
-| 311 | 541 | Clever Fitblock |
+| 310 | 541 | Clever Fitblock |
+| 311 | 541 | Penee Wiggins |
 | 312 | 539 | Rayya Kiser |
 | 313 | 535 | Tina Mitchell |
 | 314 | 533 | Bunnie Celtavini |
-| 315 | 532 | Jessica Russell |
-| 316 | 532 | Denisa Amazon Clark |
-| 317 | 532 | Koi |
-| 318 | 531 | Kesha Brady |
-| 319 | 531 | Tarnisha Neicy Jones |
+| 315 | 532 | Koi |
+| 316 | 532 | Jessica Russell |
+| 317 | 532 | Denisa Amazon Clark |
+| 318 | 531 | Tarnisha Neicy Jones |
+| 319 | 531 | Kesha Brady |
 | 320 | 529 | Dai Bo |
 | 321 | 527 | MommaCia |
 | 322 | 527 | Leebo Slice |
