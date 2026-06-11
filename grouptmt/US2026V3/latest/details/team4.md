@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 10:44:19 UTC
+# Standings for team4 as of 2026-06-11 10:44:49 UTC
 
 **Total Participants:** 2513
 
@@ -24,7 +24,7 @@
 | 16 | 8777 | Chris Hills |
 | 17 | 8157 | Jerald Jones |
 | 18 | 8005 | delilahbelle |
-| 19 | 7073 | Bubbly Twistpiece |
+| 19 | 7078 | Bubbly Twistpiece |
 | 20 | 6954 | Senor Moppy |
 | 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
@@ -110,8 +110,8 @@
 | 102 | 1593 | Jeremy Lopez |
 | 103 | 1591 | Sean Mccleary |
 | 104 | 1560 | Neeta Kapadia |
-| 105 | 1521 | Leslie Ann Carter |
-| 106 | 1517 | Melissa WC |
+| 105 | 1559 | Melissa WC |
+| 106 | 1521 | Leslie Ann Carter |
 | 107 | 1464 | squareMel |
 | 108 | 1442 | Kelley Roach |
 | 109 | 1441 | Snippy Grid |
@@ -382,10 +382,10 @@
 | 374 | 475 | Shiny Brick |
 | 375 | 474 | Joe Richard |
 | 376 | 472 | Powder |
-| 377 | 470 | jojo |
-| 378 | 469 | Lolita Nettles |
-| 379 | 466 | Shepreneur Sade |
-| 380 | 466 | Tiffany Morris Garner |
+| 377 | 471 | Tiffany Morris Garner |
+| 378 | 470 | jojo |
+| 379 | 469 | Lolita Nettles |
+| 380 | 466 | Shepreneur Sade |
 | 381 | 465 | Joab Gonzalez |
 | 382 | 463 | Flashy Shatterer |
 | 383 | 462 | BusterBear56 |

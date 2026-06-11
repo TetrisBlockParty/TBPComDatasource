@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 10:44:19 UTC
+# Standings for team2 as of 2026-06-11 10:44:49 UTC
 
 **Total Participants:** 2941
 
@@ -72,7 +72,7 @@
 | 64 | 3892 | Crystal M Sowden |
 | 65 | 3837 | THUMP |
 | 66 | 3797 | Kellie Montgomery |
-| 67 | 3714 | Kimberly Benson |
+| 67 | 3754 | Kimberly Benson |
 | 68 | 3598 | Angelica Jelli Gillaspy |
 | 69 | 3514 | Traci Elizabeth |
 | 70 | 3459 | Jennifer Corder |
@@ -443,9 +443,9 @@
 | 435 | 507 | KazzyKay |
 | 436 | 506 | Monica Gonzalez Rios |
 | 437 | 505 | Melissa Clogher White |
-| 438 | 504 | Treau Torres |
-| 439 | 504 | Xandrea Jones |
-| 440 | 501 | Twisty Tower |
+| 438 | 505 | Twisty Tower |
+| 439 | 504 | Treau Torres |
+| 440 | 504 | Xandrea Jones |
 | 441 | 499 | Erica South |
 | 442 | 499 | Mikaela Byrd |
 | 443 | 499 | Monee Stronger |

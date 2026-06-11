@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 10:44:19 UTC
+# Standings for team1 as of 2026-06-11 10:44:49 UTC
 
 **Total Participants:** 2473
 
@@ -809,16 +809,16 @@
 | 801 | 238 | B.L. Perry |
 | 802 | 237 | Shalena Marie Humphrey |
 | 803 | 236 | Rayshawn Cohen |
-| 804 | 235 | Squaw Ki Ng |
-| 805 | 235 | Juan Lewis |
-| 806 | 235 | nameno |
-| 807 | 235 | Oaklonboy mike |
-| 808 | 235 | Yoellah Benyahmeen |
-| 809 | 234 | Shameka Tiffany |
-| 810 | 234 | Cheery Climber |
-| 811 | 233 | Aanngie Aanngie |
-| 812 | 233 | Claudia Price |
-| 813 | 232 | Renee Marshall |
+| 804 | 236 | Renee Marshall |
+| 805 | 235 | Squaw Ki Ng |
+| 806 | 235 | Juan Lewis |
+| 807 | 235 | nameno |
+| 808 | 235 | Oaklonboy mike |
+| 809 | 235 | Yoellah Benyahmeen |
+| 810 | 234 | Shameka Tiffany |
+| 811 | 234 | Cheery Climber |
+| 812 | 233 | Aanngie Aanngie |
+| 813 | 233 | Claudia Price |
 | 814 | 232 | Lexx Robins |
 | 815 | 231 | Rieshelda Marie White |
 | 816 | 231 | Tyiesha Pie Farmer |
@@ -1615,8 +1615,8 @@
 | 1607 | 63 | Gary Kyle |
 | 1608 | 63 | mae |
 | 1609 | 63 | Kennita Leach Woodard |
-| 1610 | 62 | Stopdacap |
-| 1611 | 62 | D~√!9£°√¥B£§ |
+| 1610 | 63 | D~√!9£°√¥B£§ |
+| 1611 | 62 | Stopdacap |
 | 1612 | 62 | Chirpy Glidezone |
 | 1613 | 62 | Steven Jurk |
 | 1614 | 61 | SosaaCurry |
