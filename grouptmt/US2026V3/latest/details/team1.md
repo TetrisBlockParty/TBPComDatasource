@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 14:48:48 UTC
+# Standings for team1 as of 2026-06-11 14:49:23 UTC
 
 **Total Participants:** 2496
 
@@ -68,7 +68,7 @@
 | 60 | 2619 | Zappy Brickline |
 | 61 | 2599 | Tootsie Pop |
 | 62 | 2589 | Michael J Gresham |
-| 63 | 2525 | Moomoo |
+| 63 | 2529 | Moomoo |
 | 64 | 2478 | Todd C. Clemens |
 | 65 | 2401 | Holly Jolly |
 | 66 | 2367 | Markeeta Lipscomb |
@@ -112,10 +112,10 @@
 | 104 | 1661 | LeeLee08 |
 | 105 | 1647 | Dawn L Washington-Feuquay |
 | 106 | 1639 | Loopy Block |
-| 107 | 1606 | BYM4L |
-| 108 | 1598 | Voice |
-| 109 | 1597 | Janet Cooke |
-| 110 | 1593 | Robbie Cheeseman |
+| 107 | 1623 | Robbie Cheeseman |
+| 108 | 1606 | BYM4L |
+| 109 | 1598 | Voice |
+| 110 | 1597 | Janet Cooke |
 | 111 | 1564 | Spicy Balancer |
 | 112 | 1558 | Uneekly Mayde |
 | 113 | 1548 | Jimmie Makia |
@@ -478,20 +478,20 @@
 | 470 | 409 | KeeKee Williams |
 | 471 | 409 | Holly Baker |
 | 472 | 409 | Lisa Fletcher |
-| 473 | 407 | Giddy Staggerpiece |
-| 474 | 406 | De'Nell Edwards |
-| 475 | 405 | Slinky Snapbuilder |
+| 473 | 408 | FunTime |
+| 474 | 407 | Giddy Staggerpiece |
+| 475 | 406 | De'Nell Edwards |
 | 476 | 405 | Bubbly Slammer |
 | 477 | 405 | Jennah |
-| 478 | 405 | C Lo Green |
-| 479 | 405 | Sherry D Singleton |
-| 480 | 402 | Trusi Rusi |
-| 481 | 401 | Cynda Cyn |
-| 482 | 400 | Sara Meri |
-| 483 | 400 | Bbyunicorn |
-| 484 | 398 | Bubbly Piececlear |
-| 485 | 398 | Kristine Marie Palmer |
-| 486 | 397 | FunTime |
+| 478 | 405 | Slinky Snapbuilder |
+| 479 | 405 | C Lo Green |
+| 480 | 405 | Sherry D Singleton |
+| 481 | 402 | Trusi Rusi |
+| 482 | 401 | Cynda Cyn |
+| 483 | 400 | Sara Meri |
+| 484 | 400 | Bbyunicorn |
+| 485 | 398 | Bubbly Piececlear |
+| 486 | 398 | Kristine Marie Palmer |
 | 487 | 397 | Eric Spencer Whitaker |
 | 488 | 397 | Ladybug |
 | 489 | 396 | Glitzy Patternline |
