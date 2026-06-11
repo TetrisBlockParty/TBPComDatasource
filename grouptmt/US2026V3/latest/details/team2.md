@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 17:18:45 UTC
+# Standings for team2 as of 2026-06-11 17:19:22 UTC
 
 **Total Participants:** 2988
 
@@ -39,7 +39,7 @@
 | 31 | 7244 | Julie Trede Amerson |
 | 32 | 7172 | Christina Jambard Sampier |
 | 33 | 6945 | Debra Henry |
-| 34 | 6486 | Katelyn Rodgers |
+| 34 | 6741 | Katelyn Rodgers |
 | 35 | 6470 | Ashley Miller |
 | 36 | 6426 | Tim Ix |
 | 37 | 6316 | Alexia Reagan |
@@ -173,8 +173,8 @@
 | 165 | 1333 | Brooke Allred |
 | 166 | 1323 | joey |
 | 167 | 1321 | Allison Jarman |
-| 168 | 1287 | Rob Owens |
-| 169 | 1287 | Jackie Tupper |
+| 168 | 1290 | Jackie Tupper |
+| 169 | 1287 | Rob Owens |
 | 170 | 1286 | Kvothe |
 | 171 | 1284 | Glitzy Base |
 | 172 | 1284 | Melissa Thomas |
@@ -248,9 +248,9 @@
 | 240 | 934 | H |
 | 241 | 932 | Nikki EightySixed |
 | 242 | 932 | Lori Whitman |
-| 243 | 931 | Sandy Lynn |
-| 244 | 926 | Melissa Nash |
-| 245 | 925 | Ashley Green |
+| 243 | 931 | Ashley Green |
+| 244 | 931 | Sandy Lynn |
+| 245 | 926 | Melissa Nash |
 | 246 | 916 | Bubbly Puzzler |
 | 247 | 915 | Michelle Hicks |
 | 248 | 913 | Kelly Rogers |
@@ -574,18 +574,18 @@
 | 566 | 420 | Doug Small |
 | 567 | 420 | Wayne Johnson |
 | 568 | 420 | August Christy Lathrop |
-| 569 | 419 | Ariel Gundersen |
-| 570 | 418 | Katie Jones |
-| 571 | 418 | TetrisMama |
-| 572 | 417 | Brandi Christensen-Henley |
-| 573 | 415 | Amanda Bottorff |
-| 574 | 415 | Julie Brown |
-| 575 | 415 | Kelly Vedder |
-| 576 | 413 | PaiBri |
-| 577 | 413 | Lindsey Ross |
-| 578 | 413 | Travis Bundrum |
-| 579 | 412 | Nicky Steigerwalt |
-| 580 | 412 | Marge Cromer |
+| 569 | 419 | Marge Cromer |
+| 570 | 419 | Ariel Gundersen |
+| 571 | 418 | Katie Jones |
+| 572 | 418 | TetrisMama |
+| 573 | 417 | Brandi Christensen-Henley |
+| 574 | 415 | Amanda Bottorff |
+| 575 | 415 | Julie Brown |
+| 576 | 415 | Kelly Vedder |
+| 577 | 413 | PaiBri |
+| 578 | 413 | Lindsey Ross |
+| 579 | 413 | Travis Bundrum |
+| 580 | 412 | Nicky Steigerwalt |
 | 581 | 412 | Rick |
 | 582 | 411 | Brittney Williams |
 | 583 | 411 | Robin Lamb |
@@ -604,15 +604,15 @@
 | 596 | 402 | Sunny Tiltbuilder |
 | 597 | 402 | Jill Goff |
 | 598 | 401 | Marilyn Mendoza |
-| 599 | 400 | Zappy Liney |
-| 600 | 400 | Tracy Lee |
-| 601 | 399 | James Sayers |
-| 602 | 399 | Nikki Layman |
-| 603 | 399 | Plucky Grabber |
-| 604 | 399 | Gina Leal |
-| 605 | 398 | Ashley Billiot Rhodes |
-| 606 | 398 | Vanessa King |
-| 607 | 398 | Robert Brewster |
+| 599 | 401 | Robert Brewster |
+| 600 | 400 | Zappy Liney |
+| 601 | 400 | Tracy Lee |
+| 602 | 399 | James Sayers |
+| 603 | 399 | Nikki Layman |
+| 604 | 399 | Plucky Grabber |
+| 605 | 399 | Gina Leal |
+| 606 | 398 | Ashley Billiot Rhodes |
+| 607 | 398 | Vanessa King |
 | 608 | 396 | Joshua Dye |
 | 609 | 396 | Rachel |
 | 610 | 396 | Connie McCoy |
@@ -970,18 +970,18 @@
 | 962 | 249 | ReiRei |
 | 963 | 249 | Raymond Dawson |
 | 964 | 249 | Mtnblzr |
-| 965 | 248 | Jeannine Murphy |
-| 966 | 248 | Franky |
-| 967 | 247 | Julie Lint |
-| 968 | 247 | Alycia Marie Zelensky |
-| 969 | 247 | Amanda Neal |
-| 970 | 247 | Laura Melton |
-| 971 | 246 | Chad Atchley |
-| 972 | 246 | Alisha Shelton |
-| 973 | 246 | Terie Safrit |
-| 974 | 246 | Anita Blackshear |
-| 975 | 246 | Sara Dunn |
-| 976 | 245 | Staci Walker |
+| 965 | 248 | Staci Walker |
+| 966 | 248 | Jeannine Murphy |
+| 967 | 248 | Franky |
+| 968 | 247 | Julie Lint |
+| 969 | 247 | Alycia Marie Zelensky |
+| 970 | 247 | Amanda Neal |
+| 971 | 247 | Laura Melton |
+| 972 | 246 | Chad Atchley |
+| 973 | 246 | Alisha Shelton |
+| 974 | 246 | Terie Safrit |
+| 975 | 246 | Anita Blackshear |
+| 976 | 246 | Sara Dunn |
 | 977 | 245 | Jolly Builderpiece |
 | 978 | 245 | Jenn Mccarty |
 | 979 | 244 | Rocroc mo |
@@ -1620,28 +1620,28 @@
 | 1612 | 117 | Suszi |
 | 1613 | 117 | BoxerMom |
 | 1614 | 117 | Rae Madewell |
-| 1615 | 116 | Lisa |
-| 1616 | 116 | Michelle Naujalis |
-| 1617 | 116 | latte |
-| 1618 | 116 | Nicole Chestnut |
-| 1619 | 115 | Raffa |
-| 1620 | 115 | Peachy Piecebuilder |
-| 1621 | 115 | Kyle |
-| 1622 | 115 | Kaylyn Wickham |
-| 1623 | 115 | Joe Duffer |
-| 1624 | 115 | CATFISH |
-| 1625 | 115 | Shaun Talbot |
-| 1626 | 115 | Kandy Comer |
-| 1627 | 115 | Crazygranny |
-| 1628 | 115 | Doris Bonin |
-| 1629 | 115 | Brave Curver |
-| 1630 | 114 | Jennifer Bailey Byrum |
-| 1631 | 114 | Kacey Bates |
-| 1632 | 114 | Kayla Faulkiner |
-| 1633 | 114 | Emma |
-| 1634 | 114 | Nickishan Richrds |
-| 1635 | 114 | Frisky Snapper |
-| 1636 | 114 | Josie Mendivil |
+| 1615 | 117 | Josie Mendivil |
+| 1616 | 116 | Nicole Chestnut |
+| 1617 | 116 | Lisa |
+| 1618 | 116 | Michelle Naujalis |
+| 1619 | 116 | latte |
+| 1620 | 115 | Kyle |
+| 1621 | 115 | Kaylyn Wickham |
+| 1622 | 115 | Joe Duffer |
+| 1623 | 115 | CATFISH |
+| 1624 | 115 | Shaun Talbot |
+| 1625 | 115 | Kandy Comer |
+| 1626 | 115 | Crazygranny |
+| 1627 | 115 | Doris Bonin |
+| 1628 | 115 | Brave Curver |
+| 1629 | 115 | Raffa |
+| 1630 | 115 | Peachy Piecebuilder |
+| 1631 | 114 | Jennifer Bailey Byrum |
+| 1632 | 114 | Kacey Bates |
+| 1633 | 114 | Kayla Faulkiner |
+| 1634 | 114 | Emma |
+| 1635 | 114 | Nickishan Richrds |
+| 1636 | 114 | Frisky Snapper |
 | 1637 | 113 | Dawn Lynn |
 | 1638 | 113 | Nutty Cascader |
 | 1639 | 113 | RalphyD |
