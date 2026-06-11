@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:55:21 UTC
+# Standings for team2 as of 2026-06-11 09:56:25 UTC
 
 **Total Participants:** 2939
 
@@ -277,17 +277,17 @@
 | 269 | 801 | DukeDino |
 | 270 | 798 | Flashy Drop |
 | 271 | 794 | Amy Taylor Pomerenk |
-| 272 | 792 | Chris Cooper |
-| 273 | 792 | Aldotfus Williams |
-| 274 | 790 | Sharon L Brazelton |
-| 275 | 789 | Chipper Stackbuilder |
-| 276 | 788 | Ackerman 85 |
-| 277 | 787 | SilentBuffalo |
-| 278 | 784 | Spunky Buildout |
-| 279 | 784 | Bubbly Strikerpiece |
-| 280 | 783 | Jodi Johnson |
-| 281 | 783 | Layla Petroff |
-| 282 | 783 | Kelly Rogers |
+| 272 | 793 | Kelly Rogers |
+| 273 | 792 | Chris Cooper |
+| 274 | 792 | Aldotfus Williams |
+| 275 | 790 | Sharon L Brazelton |
+| 276 | 789 | Chipper Stackbuilder |
+| 277 | 788 | Ackerman 85 |
+| 278 | 787 | SilentBuffalo |
+| 279 | 784 | Spunky Buildout |
+| 280 | 784 | Bubbly Strikerpiece |
+| 281 | 783 | Jodi Johnson |
+| 282 | 783 | Layla Petroff |
 | 283 | 777 | Alison Waller |
 | 284 | 773 | SturgStang |
 | 285 | 772 | Dsabrina Maxey |
@@ -344,14 +344,14 @@
 | 336 | 659 | Kaycie Shaffer |
 | 337 | 658 | Kay |
 | 338 | 658 | Ratchet |
-| 339 | 652 | Stephany Green |
-| 340 | 650 | Jeff Pottgether |
-| 341 | 645 | MaddieCherie |
-| 342 | 643 | Thy Bui |
-| 343 | 642 | Bri St Peter |
-| 344 | 642 | Julibeth Wells |
-| 345 | 641 | Pooh |
-| 346 | 641 | Janice |
+| 339 | 657 | Janice |
+| 340 | 652 | Stephany Green |
+| 341 | 650 | Jeff Pottgether |
+| 342 | 645 | MaddieCherie |
+| 343 | 643 | Thy Bui |
+| 344 | 642 | Bri St Peter |
+| 345 | 642 | Julibeth Wells |
+| 346 | 641 | Pooh |
 | 347 | 638 | Flower_child |
 | 348 | 638 | Pam Bauder Ludwig |
 | 349 | 638 | Jason Cunningham |
@@ -716,8 +716,8 @@
 | 708 | 325 | Diamond Mitchell |
 | 709 | 325 | Vicke Patterson |
 | 710 | 325 | chad |
-| 711 | 324 | Carl Mccoy |
-| 712 | 322 | Witty Shatterline |
+| 711 | 324 | Witty Shatterline |
+| 712 | 324 | Carl Mccoy |
 | 713 | 322 | Dana Vaiden Rivers |
 | 714 | 322 | Laurie |
 | 715 | 321 | Heather Schardan |
@@ -732,20 +732,20 @@
 | 724 | 316 | Nicole Ashbaugh |
 | 725 | 315 | Que Henderson |
 | 726 | 315 | Wood |
-| 727 | 314 | Hyper Striker |
-| 728 | 314 | Audrey Wood |
-| 729 | 314 | Epic Tilemaker |
-| 730 | 312 | Chilly Surge |
-| 731 | 312 | Melissa Pronovost |
-| 732 | 312 | Mariya Cline |
-| 733 | 312 | whocares |
-| 734 | 311 | Holly Barefoot |
-| 735 | 311 | Brian Favre |
-| 736 | 311 | Alonzo Reed |
-| 737 | 311 | Sydney Cheyenne |
-| 738 | 310 | WhitS |
-| 739 | 310 | Ashley Diana |
-| 740 | 310 | Jessica Murphree |
+| 727 | 315 | Jessica Murphree |
+| 728 | 314 | Hyper Striker |
+| 729 | 314 | Audrey Wood |
+| 730 | 314 | Epic Tilemaker |
+| 731 | 312 | Chilly Surge |
+| 732 | 312 | Melissa Pronovost |
+| 733 | 312 | Mariya Cline |
+| 734 | 312 | whocares |
+| 735 | 311 | Holly Barefoot |
+| 736 | 311 | Brian Favre |
+| 737 | 311 | Alonzo Reed |
+| 738 | 311 | Sydney Cheyenne |
+| 739 | 310 | WhitS |
+| 740 | 310 | Ashley Diana |
 | 741 | 310 | Kelly Bormann |
 | 742 | 310 | Glitzy Roll |
 | 743 | 309 | Peachy Wipegrid |
@@ -1683,15 +1683,15 @@
 | 1675 | 100 | Carrie Wilcox |
 | 1676 | 100 | Kaylyn Wickham |
 | 1677 | 100 | Stephania Edwards |
-| 1678 | 100 | Angiela Hope Boggs |
-| 1679 | 100 | Giggy Balancefit |
-| 1680 | 100 | Steve Appel |
-| 1681 | 100 | Jason Guy |
-| 1682 | 100 | Dysty |
-| 1683 | 100 | Dizzy Dropzone |
-| 1684 | 100 | Justin Furne |
-| 1685 | 99 | Lorrie Girardi |
-| 1686 | 98 | Josimarie Otero |
+| 1678 | 100 | Josimarie Otero |
+| 1679 | 100 | Angiela Hope Boggs |
+| 1680 | 100 | Giggy Balancefit |
+| 1681 | 100 | Steve Appel |
+| 1682 | 100 | Jason Guy |
+| 1683 | 100 | Dysty |
+| 1684 | 100 | Dizzy Dropzone |
+| 1685 | 100 | Justin Furne |
+| 1686 | 99 | Lorrie Girardi |
 | 1687 | 98 | Rashae Sheets |
 | 1688 | 98 | Tracy G Ragsdale |
 | 1689 | 98 | Zach Walkup |
@@ -1791,48 +1791,48 @@
 | 1783 | 85 | Denise Oppenheimer-Mace Lawrence Mendoza |
 | 1784 | 84 | Katie Magner |
 | 1785 | 84 | Darla |
-| 1786 | 84 | Audrey F Devis |
+| 1786 | 84 | Dom D Davis |
 | 1787 | 84 | Giggly Dashy |
-| 1788 | 84 | Dom D Davis |
+| 1788 | 84 | Audrey F Devis |
 | 1789 | 84 | Tiffany Heether |
-| 1790 | 83 | Poppy Snapper |
-| 1791 | 83 | Britters |
-| 1792 | 83 | Dan Rosenberg |
-| 1793 | 83 | Amy Hahn Nickels |
-| 1794 | 83 | April Appleton |
+| 1790 | 83 | April Appleton |
+| 1791 | 83 | G Yolany Andramos |
+| 1792 | 83 | LalaFufu07 |
+| 1793 | 83 | smoke |
+| 1794 | 83 | Jodee Woods |
 | 1795 | 83 | Dionne Borden |
-| 1796 | 83 | Jodee Woods |
-| 1797 | 83 | LalaFufu07 |
-| 1798 | 83 | G Yolany Andramos |
-| 1799 | 82 | Amanda Nash |
-| 1800 | 82 | Alana Albritton Seals |
-| 1801 | 82 | Jessica LeNeave |
-| 1802 | 82 | Betu2clos |
-| 1803 | 82 | John Rosales |
-| 1804 | 82 | David Starmer |
-| 1805 | 82 | Amber Myers |
-| 1806 | 81 | YldBoar |
-| 1807 | 81 | Jazzy Cornerfall |
-| 1808 | 81 | Bouncy Stagger |
-| 1809 | 81 | YUKITATA |
-| 1810 | 81 | Disguised Duck |
-| 1811 | 81 | Witty Linkfall |
-| 1812 | 81 | Zesty Gridlock |
-| 1813 | 81 | Octavia Jus Mae Hill |
-| 1814 | 81 | Bobbie Carrol |
-| 1815 | 81 | Moeshia Turner |
-| 1816 | 80 | Tessa Kalili |
-| 1817 | 80 | Ramon James |
-| 1818 | 80 | Karen Pearson-Wilson |
-| 1819 | 80 | Sarah Davis |
-| 1820 | 80 | John C Morrison |
-| 1821 | 80 | Teach4life |
-| 1822 | 80 | Betty Johnson |
-| 1823 | 80 | Javyjavz |
-| 1824 | 80 | Dapper Pivotfall |
-| 1825 | 79 | Kristyn Crysel |
-| 1826 | 79 | Amber Marie Lacey |
-| 1827 | 79 | smoke |
+| 1796 | 83 | Amy Hahn Nickels |
+| 1797 | 83 | Dan Rosenberg |
+| 1798 | 83 | Britters |
+| 1799 | 83 | Poppy Snapper |
+| 1800 | 82 | Amanda Nash |
+| 1801 | 82 | Betu2clos |
+| 1802 | 82 | Jessica LeNeave |
+| 1803 | 82 | Alana Albritton Seals |
+| 1804 | 82 | John Rosales |
+| 1805 | 82 | David Starmer |
+| 1806 | 82 | Amber Myers |
+| 1807 | 81 | YldBoar |
+| 1808 | 81 | Bobbie Carrol |
+| 1809 | 81 | Bouncy Stagger |
+| 1810 | 81 | Jazzy Cornerfall |
+| 1811 | 81 | Disguised Duck |
+| 1812 | 81 | YUKITATA |
+| 1813 | 81 | Witty Linkfall |
+| 1814 | 81 | Zesty Gridlock |
+| 1815 | 81 | Octavia Jus Mae Hill |
+| 1816 | 81 | Moeshia Turner |
+| 1817 | 80 | Tessa Kalili |
+| 1818 | 80 | Ramon James |
+| 1819 | 80 | Karen Pearson-Wilson |
+| 1820 | 80 | Sarah Davis |
+| 1821 | 80 | John C Morrison |
+| 1822 | 80 | Teach4life |
+| 1823 | 80 | Betty Johnson |
+| 1824 | 80 | Javyjavz |
+| 1825 | 80 | Dapper Pivotfall |
+| 1826 | 79 | Kristyn Crysel |
+| 1827 | 79 | Amber Marie Lacey |
 | 1828 | 79 | Jade007 |
 | 1829 | 79 | Zippy Wobbler |
 | 1830 | 79 | Sandra Betz |
