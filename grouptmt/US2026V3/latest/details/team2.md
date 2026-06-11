@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:06:44 UTC
+# Standings for team2 as of 2026-06-11 08:07:24 UTC
 
 **Total Participants:** 2932
 
@@ -338,16 +338,16 @@
 | 330 | 666 | Lyric Price |
 | 331 | 660 | Sherri E Woods Hess |
 | 332 | 659 | Kaycie Shaffer |
-| 333 | 653 | Ratchet |
+| 333 | 658 | Ratchet |
 | 334 | 652 | Stephany Green |
 | 335 | 650 | Jeff Pottgether |
 | 336 | 645 | MaddieCherie |
 | 337 | 645 | Kay |
-| 338 | 643 | Thy Bui |
-| 339 | 642 | Julibeth Wells |
-| 340 | 642 | Bri St Peter |
-| 341 | 641 | Pooh |
-| 342 | 641 | Jumpy Matchbuilder |
+| 338 | 643 | Jumpy Matchbuilder |
+| 339 | 643 | Thy Bui |
+| 340 | 642 | Julibeth Wells |
+| 341 | 642 | Bri St Peter |
+| 342 | 641 | Pooh |
 | 343 | 638 | Flower_child |
 | 344 | 638 | Pam Bauder Ludwig |
 | 345 | 638 | Jason Cunningham |
@@ -2033,40 +2033,40 @@
 | 2025 | 59 | Cheeky Twistpiece |
 | 2026 | 59 | Chipper Zigzag |
 | 2027 | 59 | Mel Hogan |
-| 2028 | 59 | April Addis |
-| 2029 | 59 | Christina Nycol |
-| 2030 | 59 | Chirpy Towerer |
-| 2031 | 58 | Deborah Fowler |
-| 2032 | 58 | Slinky Winder |
-| 2033 | 58 | Judy Harker |
-| 2034 | 58 | Slinky Shiftspin |
-| 2035 | 58 | Sarah Jean Huston |
-| 2036 | 58 | Jennifer Roper Stanley |
-| 2037 | 58 | Donna Gerald |
-| 2038 | 58 | Shanetta Johnson |
-| 2039 | 58 | Mechelle Muzic |
-| 2040 | 57 | Tommyboy |
-| 2041 | 57 | SamIAm |
-| 2042 | 57 | Giggly Patternline |
+| 2028 | 59 | Michele Miessner |
+| 2029 | 59 | April Addis |
+| 2030 | 59 | Christina Nycol |
+| 2031 | 59 | Chirpy Towerer |
+| 2032 | 58 | Deborah Fowler |
+| 2033 | 58 | Slinky Winder |
+| 2034 | 58 | Mechelle Muzic |
+| 2035 | 58 | Shanetta Johnson |
+| 2036 | 58 | Donna Gerald |
+| 2037 | 58 | Jennifer Roper Stanley |
+| 2038 | 58 | Sarah Jean Huston |
+| 2039 | 58 | Slinky Shiftspin |
+| 2040 | 58 | Judy Harker |
+| 2041 | 57 | Boldy Blockline |
+| 2042 | 57 | Snippy Tilefall |
 | 2043 | 57 | Ashley Bennett |
-| 2044 | 57 | Snippy Tilefall |
-| 2045 | 57 | Boldy Blockline |
-| 2046 | 57 | Corina Marie Prunty |
-| 2047 | 57 | Missy Stevens |
-| 2048 | 57 | Bigbb |
-| 2049 | 56 | Glitzy Stackbuilder |
-| 2050 | 56 | Squyrt |
+| 2044 | 57 | Giggly Patternline |
+| 2045 | 57 | SamIAm |
+| 2046 | 57 | Tommyboy |
+| 2047 | 57 | Corina Marie Prunty |
+| 2048 | 57 | Missy Stevens |
+| 2049 | 57 | Bigbb |
+| 2050 | 56 | Glitzy Stackbuilder |
 | 2051 | 56 | אֵלִיָּהוּ ציר |
-| 2052 | 56 | Shirley Lee |
-| 2053 | 56 | Dapper Catcher |
-| 2054 | 56 | Eleni Kambouris Mardas |
+| 2052 | 56 | Squyrt |
+| 2053 | 56 | Shirley Lee |
+| 2054 | 56 | Dapper Catcher |
 | 2055 | 56 | Chirpy Riser |
 | 2056 | 56 | CountryGurl |
 | 2057 | 56 | Mike Stevens |
 | 2058 | 56 | Ruthann Nelson |
 | 2059 | 56 | Miranda Rabey |
-| 2060 | 56 | Monique Welch |
-| 2061 | 55 | Michele Miessner |
+| 2060 | 56 | Eleni Kambouris Mardas |
+| 2061 | 56 | Monique Welch |
 | 2062 | 55 | C0rt3z |
 | 2063 | 55 | Brittnee Lane |
 | 2064 | 55 | Kimberly Nicholson Deem |
@@ -2085,38 +2085,38 @@
 | 2077 | 55 | Katelynn Hunt |
 | 2078 | 54 | Eugene Clawson |
 | 2079 | 54 | Spunky Snapfall |
-| 2080 | 54 | Paula Smith |
-| 2081 | 54 | Cheery Filler |
-| 2082 | 54 | B.A. Watt |
-| 2083 | 54 | Frilly Riseclear |
+| 2080 | 54 | Cheery Filler |
+| 2081 | 54 | B.A. Watt |
+| 2082 | 54 | Frilly Riseclear |
+| 2083 | 54 | Erica |
 | 2084 | 54 | Michelle Shemon |
-| 2085 | 54 | Erica |
-| 2086 | 54 | Loony Glider |
+| 2085 | 54 | Loony Glider |
+| 2086 | 54 | Paula Smith |
 | 2087 | 54 | Angela Bustillos |
-| 2088 | 54 | Giggly Twisterfit |
-| 2089 | 54 | Denise Singleton |
-| 2090 | 54 | Jess Duehring |
-| 2091 | 54 | Wafflemaker4000 |
-| 2092 | 54 | Amanda Nicholson |
+| 2088 | 54 | Denise Singleton |
+| 2089 | 54 | Jess Duehring |
+| 2090 | 54 | Wafflemaker4000 |
+| 2091 | 54 | Amanda Nicholson |
+| 2092 | 54 | Giggly Twisterfit |
 | 2093 | 54 | Kasey Marie |
 | 2094 | 53 | Vee Waller |
 | 2095 | 53 | Heather |
 | 2096 | 53 | Mel |
 | 2097 | 53 | Gigi |
 | 2098 | 53 | Cool Edge |
-| 2099 | 53 | Tiffany Haskins |
-| 2100 | 53 | Tee Have |
-| 2101 | 53 | Kimberly Rochon |
-| 2102 | 53 | Janet Cetola |
-| 2103 | 53 | Mckennas Nana |
+| 2099 | 53 | Tee Have |
+| 2100 | 53 | Kimberly Rochon |
+| 2101 | 53 | Janet Cetola |
+| 2102 | 53 | Mckennas Nana |
+| 2103 | 53 | Tiffany Haskins |
 | 2104 | 53 | Patricia Ann Tondreault Hammonds |
 | 2105 | 53 | Topknot13 |
 | 2106 | 53 | Thomas Johnstone |
 | 2107 | 52 | Sir Paco |
 | 2108 | 52 | Lavenda Nettles |
 | 2109 | 52 | Sunnylynn Hodge |
-| 2110 | 52 | Katy Marie |
-| 2111 | 52 | Nicole |
+| 2110 | 52 | Nicole |
+| 2111 | 52 | Katy Marie |
 | 2112 | 52 | Samantha Robinet |
 | 2113 | 52 | Chirpy Shiftspin |
 | 2114 | 52 | Joyce Bartel |
