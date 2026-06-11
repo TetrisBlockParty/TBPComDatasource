@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 14:57:22 UTC
+# Standings for team4 as of 2026-06-11 14:58:24 UTC
 
 **Total Participants:** 2538
 
@@ -55,14 +55,14 @@
 | 47 | 3923 | Fruitpunch |
 | 48 | 3854 | Watupall13 |
 | 49 | 3776 | Dana Smith |
-| 50 | 3627 | Dennis Montoya |
-| 51 | 3600 | Leah Gorsuch |
-| 52 | 3500 | Kathy Brookins |
-| 53 | 3456 | Jace McCullough |
-| 54 | 3427 | Jason Allen |
-| 55 | 3400 | Posey Smith |
-| 56 | 3395 | Dana Abegil Lawas |
-| 57 | 3395 | Monica Emel |
+| 50 | 3695 | Monica Emel |
+| 51 | 3627 | Dennis Montoya |
+| 52 | 3600 | Leah Gorsuch |
+| 53 | 3500 | Kathy Brookins |
+| 54 | 3456 | Jace McCullough |
+| 55 | 3427 | Jason Allen |
+| 56 | 3400 | Posey Smith |
+| 57 | 3395 | Dana Abegil Lawas |
 | 58 | 3312 | Alicia Cook |
 | 59 | 3244 | Elissa S-k |
 | 60 | 3200 | 626 |
@@ -79,8 +79,8 @@
 | 71 | 2433 | Alexandria Frazier |
 | 72 | 2382 | Adam J Leong |
 | 73 | 2376 | Cherry |
-| 74 | 2367 | Twirl Girl |
-| 75 | 2309 | Erin Figone |
+| 74 | 2369 | Erin Figone |
+| 75 | 2367 | Twirl Girl |
 | 76 | 2302 | Chuck Gannon |
 | 77 | 2239 | Michelle Ross |
 | 78 | 2237 | JayJay Smith |
@@ -712,52 +712,52 @@
 | 704 | 279 | LandO |
 | 705 | 279 | Csigirlnc |
 | 706 | 279 | Kat Foreman |
-| 707 | 277 | Kuar T Ejen |
-| 708 | 277 | Anna Ryan |
-| 709 | 276 | Stacy G |
-| 710 | 276 | Joe Andrews |
-| 711 | 276 | Sarah |
-| 712 | 275 | Marcus Fontenot |
-| 713 | 275 | Taisha Beasley |
-| 714 | 274 | Justin Ballard |
-| 715 | 274 | Kiki Moore |
-| 716 | 274 | Zesty Lift |
-| 717 | 274 | Sarah Montagne Forsberg |
-| 718 | 273 | Blessedmom865 |
-| 719 | 272 | Chelsea Costa |
-| 720 | 272 | Alicia Blunt |
-| 721 | 271 | Fluffypuppy |
-| 722 | 271 | Suzi Smas |
-| 723 | 271 | Lord Solrac |
-| 724 | 270 | Carissa Thorne-See |
-| 725 | 270 | Dawn Renee Thomas |
-| 726 | 270 | Miguel Teixeira |
-| 727 | 270 | Loretta Hendricks |
-| 728 | 270 | Tana-Marie Lynn McCarty-Rolf |
-| 729 | 269 | Chelle Williams |
-| 730 | 268 | Andreas Vs Shinky |
-| 731 | 268 | bribop |
-| 732 | 267 | Snappy Tile |
-| 733 | 267 | aga |
-| 734 | 267 | Brandon Bedenbaugh |
-| 735 | 267 | Budda Huitt |
-| 736 | 266 | Trishaann Triplett |
-| 737 | 265 | Khiem Hernandez |
-| 738 | 264 | Giggy Blockpiece |
-| 739 | 264 | yourmomz |
-| 740 | 262 | Lush Twisterfit |
-| 741 | 262 | Bhakti Sawarkar |
-| 742 | 262 | Surviving Be Back Soon |
-| 743 | 261 | Lee Ann Gibby |
-| 744 | 261 | Funky Twistpiece |
-| 745 | 261 | Lisa Ferriero-Daudin |
-| 746 | 260 | Silly Risegrid |
-| 747 | 260 | Niki Bastianelli |
-| 748 | 260 | Keke Johnson |
-| 749 | 259 | Jessica Peyton |
-| 750 | 258 | Maria Munoz |
-| 751 | 258 | Daring Towerer |
-| 752 | 258 | Clever Patterner |
+| 707 | 279 | Clever Patterner |
+| 708 | 277 | Kuar T Ejen |
+| 709 | 277 | Anna Ryan |
+| 710 | 276 | Stacy G |
+| 711 | 276 | Joe Andrews |
+| 712 | 276 | Sarah |
+| 713 | 275 | Marcus Fontenot |
+| 714 | 275 | Taisha Beasley |
+| 715 | 274 | Justin Ballard |
+| 716 | 274 | Kiki Moore |
+| 717 | 274 | Zesty Lift |
+| 718 | 274 | Sarah Montagne Forsberg |
+| 719 | 273 | Blessedmom865 |
+| 720 | 272 | Chelsea Costa |
+| 721 | 272 | Alicia Blunt |
+| 722 | 271 | Fluffypuppy |
+| 723 | 271 | Suzi Smas |
+| 724 | 271 | Lord Solrac |
+| 725 | 270 | Carissa Thorne-See |
+| 726 | 270 | Dawn Renee Thomas |
+| 727 | 270 | Miguel Teixeira |
+| 728 | 270 | Loretta Hendricks |
+| 729 | 270 | Tana-Marie Lynn McCarty-Rolf |
+| 730 | 269 | Chelle Williams |
+| 731 | 268 | Andreas Vs Shinky |
+| 732 | 268 | bribop |
+| 733 | 267 | Snappy Tile |
+| 734 | 267 | aga |
+| 735 | 267 | Brandon Bedenbaugh |
+| 736 | 267 | Budda Huitt |
+| 737 | 266 | Trishaann Triplett |
+| 738 | 265 | Khiem Hernandez |
+| 739 | 264 | Giggy Blockpiece |
+| 740 | 264 | yourmomz |
+| 741 | 262 | Lush Twisterfit |
+| 742 | 262 | Bhakti Sawarkar |
+| 743 | 262 | Surviving Be Back Soon |
+| 744 | 261 | Lee Ann Gibby |
+| 745 | 261 | Funky Twistpiece |
+| 746 | 261 | Lisa Ferriero-Daudin |
+| 747 | 260 | Silly Risegrid |
+| 748 | 260 | Niki Bastianelli |
+| 749 | 260 | Keke Johnson |
+| 750 | 259 | Jessica Peyton |
+| 751 | 258 | Maria Munoz |
+| 752 | 258 | Daring Towerer |
 | 753 | 258 | Rae Saunders |
 | 754 | 258 | Allysonjo Varela |
 | 755 | 257 | Kelly Miller Williams |
