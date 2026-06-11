@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:21:24 UTC
+# Standings for team2 as of 2026-06-11 08:22:24 UTC
 
 **Total Participants:** 2932
 
@@ -106,7 +106,7 @@
 | 98 | 2285 | Jenny Graham |
 | 99 | 2244 | Marie Edmonds |
 | 100 | 2242 | Nova Nova |
-| 101 | 2225 | Bridget N Jonathan Franz |
+| 101 | 2235 | Bridget N Jonathan Franz |
 | 102 | 2222 | Bon Lynn |
 | 103 | 2189 | Courtney McCulley |
 | 104 | 2163 | Loopy Curvebuilder |
@@ -264,21 +264,21 @@
 | 256 | 835 | Wacky Rollbuilder |
 | 257 | 834 | Steven Craig |
 | 258 | 831 | Sandra Ruiz |
-| 259 | 824 | Twisty Buildgrid |
-| 260 | 824 | Mom |
-| 261 | 822 | Gabrielle Wilson |
-| 262 | 819 | KayLynn Ogden McClelland |
-| 263 | 817 | Zarah Kettler |
-| 264 | 813 | Loony Faller |
-| 265 | 810 | Zachary Vymislicky |
+| 259 | 830 | Zachary Vymislicky |
+| 260 | 824 | Twisty Buildgrid |
+| 261 | 824 | Mom |
+| 262 | 822 | Gabrielle Wilson |
+| 263 | 819 | KayLynn Ogden McClelland |
+| 264 | 817 | Zarah Kettler |
+| 265 | 813 | Loony Faller |
 | 266 | 805 | Nicole Hogue |
 | 267 | 804 | Avie Lou |
 | 268 | 803 | Amie Marks |
 | 269 | 801 | DukeDino |
 | 270 | 798 | Flashy Drop |
 | 271 | 794 | Amy Taylor Pomerenk |
-| 272 | 792 | Chris Cooper |
-| 273 | 792 | Aldotfus Williams |
+| 272 | 792 | Aldotfus Williams |
+| 273 | 792 | Chris Cooper |
 | 274 | 790 | Sharon L Brazelton |
 | 275 | 789 | Chipper Stackbuilder |
 | 276 | 788 | Ackerman 85 |
@@ -290,8 +290,8 @@
 | 282 | 773 | SturgStang |
 | 283 | 773 | Kelly Rogers |
 | 284 | 772 | Dsabrina Maxey |
-| 285 | 771 | Nikki Carter |
-| 286 | 771 | Christina Maria |
+| 285 | 771 | Christina Maria |
+| 286 | 771 | Nikki Carter |
 | 287 | 762 | Jenny |
 | 288 | 757 | Kristi Chestnut |
 | 289 | 754 | Nikki EightySixed |
@@ -338,9 +338,9 @@
 | 330 | 667 | Iesha Cupil |
 | 331 | 666 | Lyric Price |
 | 332 | 660 | Sherri E Woods Hess |
-| 333 | 659 | Kaycie Shaffer |
-| 334 | 658 | Ratchet |
-| 335 | 657 | Jumpy Matchbuilder |
+| 333 | 659 | Jumpy Matchbuilder |
+| 334 | 659 | Kaycie Shaffer |
+| 335 | 658 | Ratchet |
 | 336 | 652 | Stephany Green |
 | 337 | 650 | Jeff Pottgether |
 | 338 | 645 | MaddieCherie |
@@ -936,13 +936,13 @@
 | 928 | 243 | Stephanie Smith Robinson |
 | 929 | 243 | Coleta Singleton-Gallishaw |
 | 930 | 243 | Silly square |
-| 931 | 242 | Dandy Tiltgrid |
-| 932 | 242 | Bouncy Cluster |
-| 933 | 241 | Groovy Glider |
-| 934 | 241 | Jazzy |
-| 935 | 241 | Christina Reid |
-| 936 | 241 | Heather Billodeau |
-| 937 | 241 | Marissa Alpeza |
+| 931 | 242 | Marissa Alpeza |
+| 932 | 242 | Dandy Tiltgrid |
+| 933 | 242 | Bouncy Cluster |
+| 934 | 241 | Groovy Glider |
+| 935 | 241 | Jazzy |
+| 936 | 241 | Christina Reid |
+| 937 | 241 | Heather Billodeau |
 | 938 | 240 | Debbie Davis |
 | 939 | 240 | Katie Thacker |
 | 940 | 240 | Tami Leontyuk |
