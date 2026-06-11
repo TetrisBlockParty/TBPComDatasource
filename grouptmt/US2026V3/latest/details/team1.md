@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:41:23 UTC
+# Standings for team1 as of 2026-06-11 07:42:47 UTC
 
 **Total Participants:** 2460
 
@@ -612,35 +612,35 @@
 | 604 | 309 | Frilly Shatterline |
 | 605 | 308 | Melissa Olvera |
 | 606 | 308 | Jjhandsome |
-| 607 | 308 | Darrel K Pemberton |
-| 608 | 308 | Tonya Lee Sanders |
-| 609 | 307 | Zany Breaker |
-| 610 | 307 | Kàrma Lee |
-| 611 | 307 | Aridevina |
-| 612 | 306 | Mafio SO |
-| 613 | 306 | Rebecca Jackson |
-| 614 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 607 | 308 | Motown Chuck |
+| 608 | 308 | Darrel K Pemberton |
+| 609 | 308 | Tonya Lee Sanders |
+| 610 | 307 | Zany Breaker |
+| 611 | 307 | Kàrma Lee |
+| 612 | 307 | Aridevina |
+| 613 | 306 | Mafio SO |
+| 614 | 306 | Rebecca Jackson |
 | 615 | 306 | Zappy Clearfit |
-| 616 | 305 | BonnieB |
-| 617 | 304 | Mrs.Ann |
-| 618 | 304 | Octavia Bsb Johnson |
-| 619 | 303 | Kamilya Rembert |
-| 620 | 303 | Motown Chuck |
-| 621 | 303 | Kelley Johnson |
-| 622 | 303 | Kelvin Cook |
+| 616 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 617 | 305 | BonnieB |
+| 618 | 304 | Mrs.Ann |
+| 619 | 304 | Octavia Bsb Johnson |
+| 620 | 303 | Kamilya Rembert |
+| 621 | 303 | Kelvin Cook |
+| 622 | 303 | Kelley Johnson |
 | 623 | 302 | Ebby |
-| 624 | 301 | Monica Fields |
-| 625 | 301 | LaShawyn Wood |
-| 626 | 300 | Ashlie Mo |
-| 627 | 300 | Daring Blockclear |
+| 624 | 301 | LaShawyn Wood |
+| 625 | 301 | Monica Fields |
+| 626 | 300 | Cheryl Miller |
+| 627 | 300 | Ashlie Mo |
 | 628 | 300 | Kate Moses |
-| 629 | 300 | brite |
-| 630 | 300 | Slinky Swipe |
-| 631 | 300 | Phillip White |
-| 632 | 300 | Cheryl Miller |
-| 633 | 299 | Chandler Magee |
-| 634 | 299 | Kala LaRicka |
-| 635 | 299 | Taz Ballard |
+| 629 | 300 | Daring Blockclear |
+| 630 | 300 | Phillip White |
+| 631 | 300 | brite |
+| 632 | 300 | Slinky Swipe |
+| 633 | 299 | Taz Ballard |
+| 634 | 299 | Chandler Magee |
+| 635 | 299 | Kala LaRicka |
 | 636 | 298 | Rachael R Gull |
 | 637 | 297 | meatballs |
 | 638 | 297 | Hasty Rollzone |
