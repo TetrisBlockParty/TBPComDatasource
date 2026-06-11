@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:59:19 UTC
+# Standings for team1 as of 2026-06-11 10:00:23 UTC
 
 **Total Participants:** 2471
 
@@ -111,15 +111,15 @@
 | 103 | 1598 | Voice |
 | 104 | 1597 | Janet Cooke |
 | 105 | 1558 | Uneekly Mayde |
-| 106 | 1548 | Jimmie Makia |
-| 107 | 1546 | Alana Renee |
-| 108 | 1534 | Dulo |
-| 109 | 1525 | Murg4dr01d |
-| 110 | 1503 | Court Court |
-| 111 | 1502 | Aviv Zehavi |
-| 112 | 1500 | Nutty Spinblock |
-| 113 | 1497 | Rolanda Williams |
-| 114 | 1496 | Dawn L Washington-Feuquay |
+| 106 | 1556 | Dawn L Washington-Feuquay |
+| 107 | 1548 | Jimmie Makia |
+| 108 | 1546 | Alana Renee |
+| 109 | 1534 | Dulo |
+| 110 | 1525 | Murg4dr01d |
+| 111 | 1503 | Court Court |
+| 112 | 1502 | Aviv Zehavi |
+| 113 | 1500 | Nutty Spinblock |
+| 114 | 1497 | Rolanda Williams |
 | 115 | 1494 | Robbie Cheeseman |
 | 116 | 1473 | rls |
 | 117 | 1469 | Roberta Lynn |
@@ -781,12 +781,12 @@
 | 773 | 249 | Marbama |
 | 774 | 248 | Meow Meow |
 | 775 | 248 | Shanjerrica Taylor Rosell |
-| 776 | 248 | QueenShay AllGood |
-| 777 | 248 | Carla |
+| 776 | 248 | Carla |
+| 777 | 248 | QueenShay AllGood |
 | 778 | 247 | MikeHunt |
 | 779 | 247 | Crystal Martinez |
-| 780 | 246 | Lilly Brown |
-| 781 | 246 | Parris Wright |
+| 780 | 246 | Parris Wright |
+| 781 | 246 | Lilly Brown |
 | 782 | 246 | Cranky Fall |
 | 783 | 245 | Lively Clusterline |
 | 784 | 244 | Frankey Chi |
@@ -795,18 +795,18 @@
 | 787 | 243 | Eric Machuca |
 | 788 | 242 | Big Bovice |
 | 789 | 241 | Ad Doctor |
-| 790 | 241 | Jackytrain52 |
-| 791 | 241 | Marlynnnnn |
+| 790 | 241 | Marlynnnnn |
+| 791 | 241 | Jackytrain52 |
 | 792 | 241 | Rosalind Chatman |
-| 793 | 240 | Leavon Smith |
-| 794 | 240 | lookin |
-| 795 | 240 | Velma Jones |
-| 796 | 239 | Sherri Keys |
-| 797 | 239 | Anntionette Sotire |
-| 798 | 239 | Twisty Cascadeclear |
-| 799 | 238 | B.L. Perry |
-| 800 | 237 | Shalena Marie Humphrey |
-| 801 | 237 | Frances Davis |
+| 793 | 240 | Frances Davis |
+| 794 | 240 | Leavon Smith |
+| 795 | 240 | lookin |
+| 796 | 240 | Velma Jones |
+| 797 | 239 | Sherri Keys |
+| 798 | 239 | Anntionette Sotire |
+| 799 | 239 | Twisty Cascadeclear |
+| 800 | 238 | B.L. Perry |
+| 801 | 237 | Shalena Marie Humphrey |
 | 802 | 236 | Rayshawn Cohen |
 | 803 | 235 | Squaw Ki Ng |
 | 804 | 235 | nameno |
@@ -1516,60 +1516,60 @@
 | 1508 | 75 | Candice Poe |
 | 1509 | 75 | Dana Hill |
 | 1510 | 75 | Courtney Robinson |
-| 1511 | 75 | Melanie Leonard |
-| 1512 | 75 | Y3llOWFAC3 |
-| 1513 | 74 | Jade Smalls |
-| 1514 | 74 | Riq Wokhardt |
-| 1515 | 74 | Cee Jones |
+| 1511 | 75 | Tahlia Nunez Williams |
+| 1512 | 75 | Melanie Leonard |
+| 1513 | 75 | Y3llOWFAC3 |
+| 1514 | 74 | Jade Smalls |
+| 1515 | 74 | Riq Wokhardt |
 | 1516 | 74 | Jaela Washington |
 | 1517 | 74 | Tetrisdestroyer |
-| 1518 | 73 | Ducc2408 |
-| 1519 | 73 | Jonathan Zold |
-| 1520 | 73 | Ray Day |
-| 1521 | 73 | Tranica Sterling |
+| 1518 | 74 | Cee Jones |
+| 1519 | 73 | Ducc2408 |
+| 1520 | 73 | Jonathan Zold |
+| 1521 | 73 | Ray Day |
 | 1522 | 73 | Blaze |
-| 1523 | 73 | Tammy Scott Mallen |
-| 1524 | 73 | key |
-| 1525 | 72 | NaeNeezy |
-| 1526 | 72 | Chummy Liner |
-| 1527 | 72 | Andre Simpson |
-| 1528 | 72 | Darryl Love |
-| 1529 | 72 | Mariela J. Mazariegos |
-| 1530 | 72 | Tahlia Nunez Williams |
-| 1531 | 71 | Tynesha Woodard |
+| 1523 | 73 | Tranica Sterling |
+| 1524 | 73 | Tammy Scott Mallen |
+| 1525 | 73 | key |
+| 1526 | 72 | NaeNeezy |
+| 1527 | 72 | Chummy Liner |
+| 1528 | 72 | Andre Simpson |
+| 1529 | 72 | Darryl Love |
+| 1530 | 72 | Mariela J. Mazariegos |
+| 1531 | 71 | Jason Rogers |
 | 1532 | 71 | Happymama |
 | 1533 | 71 | Emeka Agu |
 | 1534 | 71 | Shona ShayShay Jones |
-| 1535 | 71 | toooooott |
-| 1536 | 71 | Ana Torres |
-| 1537 | 71 | Jason Rogers |
-| 1538 | 71 | Ember Hammond |
-| 1539 | 71 | Laurene Bivins Fortney |
-| 1540 | 71 | Hasty Builder |
+| 1535 | 71 | Ana Torres |
+| 1536 | 71 | toooooott |
+| 1537 | 71 | Ember Hammond |
+| 1538 | 71 | Laurene Bivins Fortney |
+| 1539 | 71 | Hasty Builder |
+| 1540 | 71 | Tynesha Woodard |
 | 1541 | 70 | Eli Delao |
-| 1542 | 70 | Leon Brown III |
-| 1543 | 70 | Tina Sellars |
-| 1544 | 70 | Jucee |
+| 1542 | 70 | Jucee |
+| 1543 | 70 | Leon Brown III |
+| 1544 | 70 | Tina Sellars |
 | 1545 | 70 | Chris Bell |
 | 1546 | 69 | Elizabeth Castro |
-| 1547 | 69 | BrettanMary Adkins |
-| 1548 | 69 | desmi |
-| 1549 | 69 | Charlie Brown |
+| 1547 | 69 | Charlie Brown |
+| 1548 | 69 | BrettanMary Adkins |
+| 1549 | 69 | desmi |
 | 1550 | 69 | Farah Simpson |
 | 1551 | 69 | Dana |
 | 1552 | 68 | Juanita Quezaire |
 | 1553 | 68 | LOVE |
 | 1554 | 68 | Livelovelaugh Ward |
-| 1555 | 68 | Saucy Crusher |
-| 1556 | 68 | LoveLee |
-| 1557 | 67 | Boldy Line |
-| 1558 | 67 | Rose Chassé |
-| 1559 | 67 | Jonathan White |
-| 1560 | 67 | Ericka C Branch |
-| 1561 | 67 | Leiacellaa23 |
+| 1555 | 68 | LoveLee |
+| 1556 | 68 | Saucy Crusher |
+| 1557 | 67 | Jonathan White |
+| 1558 | 67 | Boldy Line |
+| 1559 | 67 | Rose Chassé |
+| 1560 | 67 | Leiacellaa23 |
+| 1561 | 67 | Ericka C Branch |
 | 1562 | 67 | Cheryl |
-| 1563 | 67 | Michele Elizabeth McKay-Johnson |
-| 1564 | 67 | Ray Eyes |
+| 1563 | 67 | Ray Eyes |
+| 1564 | 67 | Michele Elizabeth McKay-Johnson |
 | 1565 | 66 | Regina Hall |
 | 1566 | 66 | Tigerlily |
 | 1567 | 66 | Jennifer Dawn Egbert Fenwick |
