@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:27:23 UTC
+# Standings for team2 as of 2026-06-11 09:28:29 UTC
 
 **Total Participants:** 2938
 
@@ -25,7 +25,7 @@
 | 17 | 9291 | Christina Shell |
 | 18 | 9262 | Maggie McFarland |
 | 19 | 9017 | Bobbi |
-| 20 | 8443 | Andre Love |
+| 20 | 8473 | Andre Love |
 | 21 | 8427 | Elizabeth Mooney |
 | 22 | 8400 | Jennifer Knott |
 | 23 | 8335 | Bea Bee |
@@ -232,7 +232,7 @@
 | 224 | 926 | Melissa Nash |
 | 225 | 924 | Nettrainer |
 | 226 | 923 | Kimmyc |
-| 227 | 913 | Katrien |
+| 227 | 923 | Katrien |
 | 228 | 910 | Lashanda Bertram |
 | 229 | 904 | Carebear05 |
 | 230 | 903 | Theresa Huddleston |
@@ -242,7 +242,7 @@
 | 234 | 893 | La chulis |
 | 235 | 892 | H |
 | 236 | 891 | Jessica Melendy |
-| 237 | 887 | Laverne Ellis Blair |
+| 237 | 888 | Laverne Ellis Blair |
 | 238 | 886 | Cool Climber |
 | 239 | 883 | Kathy McCormick |
 | 240 | 882 | Danielle Blount |
@@ -315,9 +315,9 @@
 | 307 | 714 | Jennifer Smith |
 | 308 | 712 | Kathleen Dumbazz |
 | 309 | 709 | Jeffrey Smith |
-| 310 | 700 | Sarah Rodriguez |
-| 311 | 700 | Rachel Nilles |
-| 312 | 696 | Churube Finwoiisopw |
+| 310 | 701 | Churube Finwoiisopw |
+| 311 | 700 | Sarah Rodriguez |
+| 312 | 700 | Rachel Nilles |
 | 313 | 694 | Samantha Bugg Stitcher |
 | 314 | 692 | Speedy Spinfit |
 | 315 | 691 | Wacky Tumbler |
@@ -583,47 +583,47 @@
 | 575 | 395 | Madonna Ash |
 | 576 | 395 | murd3rmous3 |
 | 577 | 395 | Hector |
-| 578 | 394 | Justin Stark |
-| 579 | 393 | Elizabeth Henry |
-| 580 | 392 | Hyper Cascade |
-| 581 | 392 | Sassy Twistbuilder |
-| 582 | 392 | Amanda Bottorff |
-| 583 | 390 | Rachel |
+| 578 | 394 | Natasha Lee |
+| 579 | 394 | Justin Stark |
+| 580 | 393 | Elizabeth Henry |
+| 581 | 392 | Hyper Cascade |
+| 582 | 392 | Sassy Twistbuilder |
+| 583 | 392 | Amanda Bottorff |
 | 584 | 390 | Jim Wright |
-| 585 | 390 | Wayne Johnson |
-| 586 | 389 | Josephina |
-| 587 | 389 | Jumpy Dashpiece |
-| 588 | 388 | Clever Fallmatch |
-| 589 | 388 | Sassy Swiper |
-| 590 | 387 | Ashley Propst |
-| 591 | 386 | Ryuu |
-| 592 | 386 | phamous1 |
-| 593 | 385 | Aneokly |
-| 594 | 384 | Jana Campbell |
-| 595 | 384 | Laura Larsen |
-| 596 | 384 | Gabrielle Rivera |
-| 597 | 383 | Jenna Stahl |
-| 598 | 382 | Jennifer McCloskey Launder |
-| 599 | 382 | Zesty Zoney |
-| 600 | 382 | Curly Windbreaker |
-| 601 | 381 | Katie Jones |
-| 602 | 381 | s3lc4tr0n |
-| 603 | 380 | Zappy Liney |
-| 604 | 380 | Melissa Willson |
-| 605 | 379 | Aubrey Gates |
-| 606 | 378 | Shannon Curry Riggle |
-| 607 | 376 | Ava Speedy |
-| 608 | 376 | TetrisMama |
-| 609 | 374 | Natasha Lee |
-| 610 | 373 | Christy Ford |
-| 611 | 373 | Nano. |
-| 612 | 373 | Amy Nicole McCanne |
-| 613 | 373 | Wendy McKee |
-| 614 | 372 | Tito Garcia |
-| 615 | 372 | Flashy Basegrid |
-| 616 | 372 | Viani09 |
-| 617 | 372 | ZBee |
-| 618 | 372 | Toni Washington |
+| 585 | 390 | Rachel |
+| 586 | 390 | Wayne Johnson |
+| 587 | 389 | Josephina |
+| 588 | 389 | Jumpy Dashpiece |
+| 589 | 388 | Clever Fallmatch |
+| 590 | 388 | Sassy Swiper |
+| 591 | 387 | Ashley Propst |
+| 592 | 386 | Ryuu |
+| 593 | 386 | phamous1 |
+| 594 | 385 | Aneokly |
+| 595 | 384 | Jana Campbell |
+| 596 | 384 | Laura Larsen |
+| 597 | 384 | Gabrielle Rivera |
+| 598 | 383 | Jenna Stahl |
+| 599 | 382 | Jennifer McCloskey Launder |
+| 600 | 382 | Zesty Zoney |
+| 601 | 382 | Curly Windbreaker |
+| 602 | 381 | Katie Jones |
+| 603 | 381 | s3lc4tr0n |
+| 604 | 380 | Zappy Liney |
+| 605 | 380 | Melissa Willson |
+| 606 | 379 | Aubrey Gates |
+| 607 | 378 | Shannon Curry Riggle |
+| 608 | 376 | Ava Speedy |
+| 609 | 376 | TetrisMama |
+| 610 | 373 | Amy Nicole McCanne |
+| 611 | 373 | Wendy McKee |
+| 612 | 373 | Christy Ford |
+| 613 | 373 | Nano. |
+| 614 | 372 | Flashy Basegrid |
+| 615 | 372 | Viani09 |
+| 616 | 372 | ZBee |
+| 617 | 372 | Toni Washington |
+| 618 | 372 | Tito Garcia |
 | 619 | 371 | Teddy Williams |
 | 620 | 370 | marsam |
 | 621 | 369 | Angela VanOstrand |
@@ -803,10 +803,10 @@
 | 795 | 289 | Precious Womack |
 | 796 | 289 | Stella |
 | 797 | 288 | Funky Blockmatch |
-| 798 | 288 | Tipsy Wipebuilder |
-| 799 | 287 | Twisty Blockmatch |
-| 800 | 286 | Frilly Shiftsnap |
-| 801 | 286 | Witty Shatterline |
+| 798 | 288 | Witty Shatterline |
+| 799 | 288 | Tipsy Wipebuilder |
+| 800 | 287 | Twisty Blockmatch |
+| 801 | 286 | Frilly Shiftsnap |
 | 802 | 286 | Jason Lamporte |
 | 803 | 285 | Alissa Ary |
 | 804 | 285 | Barb Kiser |
@@ -834,25 +834,25 @@
 | 826 | 279 | Ryan Rhodes |
 | 827 | 278 | Amanda Rude |
 | 828 | 278 | Chrystal |
-| 829 | 278 | Shannon Posner |
-| 830 | 277 | Ashley Fleming |
-| 831 | 277 | Ashlee Johnson |
-| 832 | 277 | Carrie Smith Negron |
-| 833 | 276 | Shawn Bolt |
+| 829 | 278 | Shawn Bolt |
+| 830 | 278 | Shannon Posner |
+| 831 | 277 | Ashley Fleming |
+| 832 | 277 | Ashlee Johnson |
+| 833 | 277 | Carrie Smith Negron |
 | 834 | 276 | Connie McCoy |
 | 835 | 276 | Dustin Bumbalough |
 | 836 | 276 | NickandJess Reynolds |
-| 837 | 275 | rebel4lyfe |
-| 838 | 275 | Cheryl Schmid |
-| 839 | 275 | Trisha Schneider |
+| 837 | 275 | Cheryl Schmid |
+| 838 | 275 | Trisha Schneider |
+| 839 | 275 | rebel4lyfe |
 | 840 | 274 | Clever Gridzone |
 | 841 | 272 | Lydia Shonee |
 | 842 | 271 | MamaRachel |
 | 843 | 271 | ASL |
 | 844 | 271 | Spicy Balanceblock |
-| 845 | 270 | Kim Powers |
-| 846 | 270 | Dandy Column |
-| 847 | 270 | Cool Balancer |
+| 845 | 270 | Cool Balancer |
+| 846 | 270 | Kim Powers |
+| 847 | 270 | Dandy Column |
 | 848 | 268 | Silly Chiseler |
 | 849 | 268 | Maurii93 |
 | 850 | 267 | Allison Peterson |
@@ -980,12 +980,12 @@
 | 972 | 233 | Andrea Rawson |
 | 973 | 233 | Diane Byrd |
 | 974 | 233 | YAKO |
-| 975 | 232 | Tammy Roth |
-| 976 | 231 | Loony Clearpiece |
-| 977 | 231 | Flashy Wipegrid |
-| 978 | 230 | Crystal Logan |
-| 979 | 230 | Sara Moericke |
-| 980 | 230 | Peppy Piececlear |
+| 975 | 233 | Peppy Piececlear |
+| 976 | 232 | Tammy Roth |
+| 977 | 231 | Loony Clearpiece |
+| 978 | 231 | Flashy Wipegrid |
+| 979 | 230 | Crystal Logan |
+| 980 | 230 | Sara Moericke |
 | 981 | 229 | Tabitha Ann Bullins-Cobb |
 | 982 | 229 | Fluffypuffin |
 | 983 | 228 | Berta Hurley |
@@ -1472,24 +1472,24 @@
 | 1464 | 132 | Cardisa Hall |
 | 1465 | 132 | Lively Liner |
 | 1466 | 132 | Tanya Goodwin |
-| 1467 | 132 | Tim Moore |
-| 1468 | 131 | Lyndzey Sciscoe |
-| 1469 | 131 | Rob Phillips |
-| 1470 | 131 | Mona Smith |
-| 1471 | 131 | Justtony Fareal |
-| 1472 | 130 | Witty Clearbuilder |
-| 1473 | 130 | Stacey Loretta Wallace |
-| 1474 | 130 | Charith Lorelle Watson |
-| 1475 | 130 | Michele Gonzales |
-| 1476 | 130 | Sandy Molina |
-| 1477 | 130 | Ramona Guillermo |
-| 1478 | 130 | Shannon D. Turk |
-| 1479 | 130 | Cory Lynn |
-| 1480 | 130 | Bill Edge |
-| 1481 | 130 | Betsey Terry |
-| 1482 | 130 | Lori |
-| 1483 | 129 | Crasher |
-| 1484 | 129 | Jessie Elizabeth |
+| 1467 | 132 | Jessie Elizabeth |
+| 1468 | 132 | Tim Moore |
+| 1469 | 131 | Lyndzey Sciscoe |
+| 1470 | 131 | Rob Phillips |
+| 1471 | 131 | Mona Smith |
+| 1472 | 131 | Justtony Fareal |
+| 1473 | 130 | Witty Clearbuilder |
+| 1474 | 130 | Stacey Loretta Wallace |
+| 1475 | 130 | Charith Lorelle Watson |
+| 1476 | 130 | Michele Gonzales |
+| 1477 | 130 | Sandy Molina |
+| 1478 | 130 | Ramona Guillermo |
+| 1479 | 130 | Shannon D. Turk |
+| 1480 | 130 | Cory Lynn |
+| 1481 | 130 | Bill Edge |
+| 1482 | 130 | Betsey Terry |
+| 1483 | 130 | Lori |
+| 1484 | 129 | Crasher |
 | 1485 | 129 | Elle |
 | 1486 | 129 | Michelle Brown |
 | 1487 | 129 | Cheery Blast |
