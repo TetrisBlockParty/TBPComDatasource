@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:18:21 UTC
+# Standings for team1 as of 2026-06-11 09:19:26 UTC
 
 **Total Participants:** 2467
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 56500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 19742 | Death by SnuSnu |
+| 3 | 19847 | Death by SnuSnu |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13741 | Peppy Piececlear |
 | 6 | 13684 | Carrie English |
@@ -145,7 +145,7 @@
 | 137 | 1263 | Po Marley |
 | 138 | 1260 | IamJust Neyamijah Washington Sr. |
 | 139 | 1244 | Jaida King |
-| 140 | 1236 | Plucky Slamdrop |
+| 140 | 1238 | Plucky Slamdrop |
 | 141 | 1232 | Slim Shedidthat |
 | 142 | 1227 | KenpachisGirl |
 | 143 | 1225 | Taylor Evelyn |
