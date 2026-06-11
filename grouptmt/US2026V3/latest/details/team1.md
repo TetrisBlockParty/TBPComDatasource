@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:57:26 UTC
+# Standings for team1 as of 2026-06-11 09:58:41 UTC
 
 **Total Participants:** 2471
 
@@ -63,7 +63,7 @@
 | 55 | 2619 | Zappy Brickline |
 | 56 | 2599 | Epic Snapfall |
 | 57 | 2599 | Tootsie Pop |
-| 58 | 2540 | Chris Caniglia |
+| 58 | 2545 | Chris Caniglia |
 | 59 | 2535 | Michael J Gresham |
 | 60 | 2483 | Frisky Fallmatch |
 | 61 | 2478 | Todd C. Clemens |
@@ -187,22 +187,22 @@
 | 179 | 952 | Ebony |
 | 180 | 946 | Smiley3000 |
 | 181 | 942 | Chuck Quarles |
-| 182 | 927 | Nobles Brandon |
-| 183 | 927 | Novaa |
+| 182 | 927 | Novaa |
+| 183 | 927 | Nobles Brandon |
 | 184 | 926 | Ebony Waynes-robinson |
 | 185 | 921 | win |
 | 186 | 913 | JaszyBadd |
 | 187 | 909 | Dandy Brickfit |
 | 188 | 907 | Ann White |
 | 189 | 905 | Marcheta Cervantez |
-| 190 | 895 | W.A. Simpson |
-| 191 | 887 | Tessa Gaskin |
-| 192 | 881 | Karebear |
-| 193 | 873 | Rackemwillie34 |
-| 194 | 872 | Byron Mario Cawthon |
-| 195 | 869 | Shontanese Adams |
-| 196 | 866 | Trendalyn Webb |
-| 197 | 866 | Abraham Espaillat |
+| 190 | 896 | Abraham Espaillat |
+| 191 | 895 | W.A. Simpson |
+| 192 | 887 | Tessa Gaskin |
+| 193 | 881 | Karebear |
+| 194 | 873 | Rackemwillie34 |
+| 195 | 872 | Byron Mario Cawthon |
+| 196 | 869 | Shontanese Adams |
+| 197 | 866 | Trendalyn Webb |
 | 198 | 862 | LaSharmeika Fancher |
 | 199 | 850 | Stef Hu |
 | 200 | 849 | boogeywoogey |
@@ -311,8 +311,8 @@
 | 303 | 568 | Joey Albright |
 | 304 | 568 | Snippy Breaker |
 | 305 | 563 | Simmone T. Kadiri |
-| 306 | 553 | Giggly Tiltbuilder |
-| 307 | 550 | Slinky Brickmatch |
+| 306 | 559 | Slinky Brickmatch |
+| 307 | 553 | Giggly Tiltbuilder |
 | 308 | 549 | Chasem45 |
 | 309 | 549 | Qwlonda Shirrell |
 | 310 | 548 | Sheila Burnham |
@@ -775,12 +775,12 @@
 | 767 | 252 | Antoinette Kelly |
 | 768 | 251 | LaPorscha Wright |
 | 769 | 250 | Tony Pizzas |
-| 770 | 249 | Fina McKinnis |
-| 771 | 249 | Jimmy Shannon |
+| 770 | 249 | Jimmy Shannon |
+| 771 | 249 | Fina McKinnis |
 | 772 | 249 | Nikkizz |
 | 773 | 249 | Marbama |
-| 774 | 248 | Shanjerrica Taylor Rosell |
-| 775 | 248 | Meow Meow |
+| 774 | 248 | Meow Meow |
+| 775 | 248 | Shanjerrica Taylor Rosell |
 | 776 | 248 | QueenShay AllGood |
 | 777 | 248 | Carla |
 | 778 | 247 | MikeHunt |
@@ -791,16 +791,16 @@
 | 783 | 245 | Lively Clusterline |
 | 784 | 244 | Frankey Chi |
 | 785 | 244 | Darrelle Short |
-| 786 | 243 | Eric Machuca |
-| 787 | 243 | whatever |
+| 786 | 243 | whatever |
+| 787 | 243 | Eric Machuca |
 | 788 | 242 | Big Bovice |
 | 789 | 241 | Ad Doctor |
-| 790 | 241 | Marlynnnnn |
-| 791 | 241 | Jackytrain52 |
-| 792 | 240 | Leavon Smith |
-| 793 | 240 | lookin |
-| 794 | 240 | Velma Jones |
-| 795 | 239 | Rosalind Chatman |
+| 790 | 241 | Jackytrain52 |
+| 791 | 241 | Marlynnnnn |
+| 792 | 241 | Rosalind Chatman |
+| 793 | 240 | Leavon Smith |
+| 794 | 240 | lookin |
+| 795 | 240 | Velma Jones |
 | 796 | 239 | Sherri Keys |
 | 797 | 239 | Anntionette Sotire |
 | 798 | 239 | Twisty Cascadeclear |
@@ -2393,14 +2393,14 @@
 | 2385 | 8 | Rixo Blax |
 | 2386 | 8 | Esther StarlyQn |
 | 2387 | 8 | Groovy Riseclear |
-| 2388 | 8 | Drayon Rogers |
-| 2389 | 7 | Teresa F. Campos Eaton |
-| 2390 | 7 | Mufasa Los |
-| 2391 | 7 | Hasty Clicky |
-| 2392 | 7 | Ciara Bedford |
-| 2393 | 7 | Shane Brucewayne |
-| 2394 | 7 | Quana |
-| 2395 | 7 | Victor Palomino |
+| 2388 | 8 | Victor Palomino |
+| 2389 | 8 | Drayon Rogers |
+| 2390 | 7 | Teresa F. Campos Eaton |
+| 2391 | 7 | Mufasa Los |
+| 2392 | 7 | Hasty Clicky |
+| 2393 | 7 | Ciara Bedford |
+| 2394 | 7 | Shane Brucewayne |
+| 2395 | 7 | Quana |
 | 2396 | 7 | Tierra Latte |
 | 2397 | 7 | Loopy Blockline |
 | 2398 | 7 | Vicky Brown |
