@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:00:47 UTC
+# Standings for team1 as of 2026-06-11 07:01:23 UTC
 
 **Total Participants:** 2454
 
@@ -70,12 +70,12 @@
 | 62 | 2359 | Corey Cawthon |
 | 63 | 2359 | Shellzb Roberts |
 | 64 | 2230 | Robyn Caldwell |
-| 65 | 2175 | Brian Bohanon II |
-| 66 | 2166 | Helen Smith |
-| 67 | 2161 | Cherry Rose |
-| 68 | 2160 | Moomoo |
-| 69 | 2152 | Louis Richard Jr |
-| 70 | 2147 | Snappy Link |
+| 65 | 2207 | Snappy Link |
+| 66 | 2175 | Brian Bohanon II |
+| 67 | 2166 | Helen Smith |
+| 68 | 2161 | Cherry Rose |
+| 69 | 2160 | Moomoo |
+| 70 | 2152 | Louis Richard Jr |
 | 71 | 2138 | Linzie Marie |
 | 72 | 2104 | Carolynne Walker-Bell |
 | 73 | 2103 | April Inboden |
@@ -197,11 +197,11 @@
 | 189 | 881 | Karebear |
 | 190 | 873 | Rackemwillie34 |
 | 191 | 869 | Shontanese Adams |
-| 192 | 865 | Byron Mario Cawthon |
-| 193 | 863 | Loopy Block |
-| 194 | 862 | LaSharmeika Fancher |
-| 195 | 850 | Stef Hu |
-| 196 | 849 | Trendalyn Webb |
+| 192 | 866 | Trendalyn Webb |
+| 193 | 865 | Byron Mario Cawthon |
+| 194 | 863 | Loopy Block |
+| 195 | 862 | LaSharmeika Fancher |
+| 196 | 850 | Stef Hu |
 | 197 | 849 | boogeywoogey |
 | 198 | 847 | Gael Quintana |
 | 199 | 845 | Tamara N Lee |
@@ -704,8 +704,8 @@
 | 696 | 271 | Sunset Owens |
 | 697 | 270 | Daring Riserfit |
 | 698 | 270 | Bob |
-| 699 | 269 | Poppy Twister |
-| 700 | 269 | Tyler |
+| 699 | 270 | Tyler |
+| 700 | 269 | Poppy Twister |
 | 701 | 269 | RMGreen |
 | 702 | 269 | Christy Quick |
 | 703 | 269 | Tara Clarke |
@@ -786,34 +786,34 @@
 | 778 | 241 | Marlynnnnn |
 | 779 | 241 | Jackytrain52 |
 | 780 | 241 | Ad Doctor |
-| 781 | 240 | lookin |
+| 781 | 240 | Leavon Smith |
 | 782 | 240 | Velma Jones |
-| 783 | 240 | Leavon Smith |
+| 783 | 240 | lookin |
 | 784 | 239 | Sherri Keys |
 | 785 | 239 | Rosalind Chatman |
-| 786 | 239 | Twisty Cascadeclear |
+| 786 | 239 | Darrelle Short |
 | 787 | 239 | Anntionette Sotire |
-| 788 | 239 | Darrelle Short |
-| 789 | 238 | William Vidra |
-| 790 | 238 | B.L. Perry |
-| 791 | 238 | Marbama |
-| 792 | 237 | Shalena Marie Humphrey |
+| 788 | 239 | Twisty Cascadeclear |
+| 789 | 238 | B.L. Perry |
+| 790 | 238 | Marbama |
+| 791 | 238 | William Vidra |
+| 792 | 238 | Motown Chuck |
 | 793 | 237 | Flashy Stacker |
-| 794 | 236 | Rayshawn Cohen |
-| 795 | 235 | nameno |
+| 794 | 237 | Shalena Marie Humphrey |
+| 795 | 236 | Rayshawn Cohen |
 | 796 | 235 | Yoellah Benyahmeen |
-| 797 | 235 | Juan Lewis |
-| 798 | 235 | Oaklonboy mike |
-| 799 | 235 | Squaw Ki Ng |
-| 800 | 234 | Frances Davis |
-| 801 | 234 | Joseph Vs Cap |
-| 802 | 234 | Shameka Tiffany |
-| 803 | 233 | Aanngie Aanngie |
-| 804 | 233 | Motown Chuck |
-| 805 | 233 | Claudia Price |
+| 797 | 235 | nameno |
+| 798 | 235 | Juan Lewis |
+| 799 | 235 | Oaklonboy mike |
+| 800 | 235 | Squaw Ki Ng |
+| 801 | 234 | Frances Davis |
+| 802 | 234 | Joseph Vs Cap |
+| 803 | 234 | Shameka Tiffany |
+| 804 | 233 | Claudia Price |
+| 805 | 233 | Aanngie Aanngie |
 | 806 | 232 | Renee Marshall |
-| 807 | 231 | Ashley Davis |
-| 808 | 231 | Tyiesha Pie Farmer |
+| 807 | 231 | Tyiesha Pie Farmer |
+| 808 | 231 | Ashley Davis |
 | 809 | 231 | toxictonic92 |
 | 810 | 230 | Erica Campbell-Stillings |
 | 811 | 229 | Derald Miller |
@@ -821,28 +821,28 @@
 | 813 | 229 | Happy Blocky |
 | 814 | 228 | Kp |
 | 815 | 228 | Meeee |
-| 816 | 227 | Lootch |
-| 817 | 227 | Sallie Sanborn |
-| 818 | 227 | Elaine Pauley |
-| 819 | 227 | Kimberly Susan Privette |
-| 820 | 227 | Christina Singleton |
-| 821 | 227 | Epic Puzzle |
-| 822 | 227 | Nikita Jones |
-| 823 | 226 | Paul Pendley |
-| 824 | 226 | Megan Jones |
+| 816 | 227 | Sallie Sanborn |
+| 817 | 227 | Nikita Jones |
+| 818 | 227 | Kimberly Susan Privette |
+| 819 | 227 | Elaine Pauley |
+| 820 | 227 | Epic Puzzle |
+| 821 | 227 | Christina Singleton |
+| 822 | 227 | Lootch |
+| 823 | 226 | Megan Jones |
+| 824 | 226 | Paul Pendley |
 | 825 | 226 | Laura Osborne |
-| 826 | 226 | Rieshelda Marie White |
-| 827 | 226 | Undeniable Williams |
-| 828 | 226 | Stephen Providenti |
+| 826 | 226 | Undeniable Williams |
+| 827 | 226 | Stephen Providenti |
+| 828 | 226 | Rieshelda Marie White |
 | 829 | 225 | Yashicha Hertzock |
 | 830 | 225 | Victoria Smith |
 | 831 | 225 | squints |
 | 832 | 225 | Essence Jones |
-| 833 | 224 | Ysma Simmons |
-| 834 | 224 | Tina Blessed Cage |
-| 835 | 224 | Miera Nicole |
-| 836 | 224 | jeremy92 |
-| 837 | 224 | Lively Wipeout |
+| 833 | 224 | Tina Blessed Cage |
+| 834 | 224 | Miera Nicole |
+| 835 | 224 | Ysma Simmons |
+| 836 | 224 | Lively Wipeout |
+| 837 | 224 | jeremy92 |
 | 838 | 223 | Chereese Harris |
 | 839 | 223 | Analesia Taylor |
 | 840 | 222 | Latoya Carson |
