@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 13:58:41 UTC
+# Standings for team2 as of 2026-06-11 13:59:24 UTC
 
 **Total Participants:** 2967
 
@@ -105,8 +105,8 @@
 | 97 | 2362 | Lisa Breiding |
 | 98 | 2344 | Marie Edmonds |
 | 99 | 2329 | Karen Reid Cenkush |
-| 100 | 2323 | Angie Mccain |
-| 101 | 2304 | Misiek |
+| 100 | 2324 | Misiek |
+| 101 | 2323 | Angie Mccain |
 | 102 | 2295 | Block Dog |
 | 103 | 2285 | Jenny Graham |
 | 104 | 2231 | Bon Lynn |
@@ -363,8 +363,8 @@
 | 355 | 641 | Wacky Curve |
 | 356 | 641 | Pooh |
 | 357 | 639 | Gill |
-| 358 | 638 | Jason Cunningham |
-| 359 | 638 | Pam Bauder Ludwig |
+| 358 | 638 | Pam Bauder Ludwig |
+| 359 | 638 | Jason Cunningham |
 | 360 | 638 | Flower_child |
 | 361 | 636 | Tara |
 | 362 | 632 | Naomi Walker |
@@ -385,21 +385,21 @@
 | 377 | 598 | Amanda L Strong |
 | 378 | 597 | Perky Linebuilder |
 | 379 | 594 | Zany Blockclear |
-| 380 | 592 | Samantha Carman |
-| 381 | 588 | Darla Ragsdale |
-| 382 | 588 | Jessica Connot |
-| 383 | 587 | Jennifer Wymer |
-| 384 | 586 | Smiley Staggerpiece |
-| 385 | 583 | Adriana Daniela Agapie |
-| 386 | 583 | Mouh Ity |
-| 387 | 580 | Jamin |
-| 388 | 579 | Mookshake |
-| 389 | 579 | Sarah Jane Gorsuch |
-| 390 | 577 | Lindsay Klemp |
-| 391 | 577 | Newtwidebody |
-| 392 | 574 | Nikki Greeneyebeauty |
-| 393 | 574 | Brandy McCune Reep |
-| 394 | 573 | Saucy Wrecker |
+| 380 | 593 | Saucy Wrecker |
+| 381 | 592 | Samantha Carman |
+| 382 | 588 | Darla Ragsdale |
+| 383 | 588 | Jessica Connot |
+| 384 | 587 | Jennifer Wymer |
+| 385 | 586 | Smiley Staggerpiece |
+| 386 | 583 | Adriana Daniela Agapie |
+| 387 | 583 | Mouh Ity |
+| 388 | 580 | Jamin |
+| 389 | 579 | Mookshake |
+| 390 | 579 | Sarah Jane Gorsuch |
+| 391 | 577 | Lindsay Klemp |
+| 392 | 577 | Newtwidebody |
+| 393 | 574 | Nikki Greeneyebeauty |
+| 394 | 574 | Brandy McCune Reep |
 | 395 | 571 | Partin |
 | 396 | 570 | Symmy Norton |
 | 397 | 568 | Chummy Faller |
@@ -750,55 +750,55 @@
 | 742 | 321 | Heather Schardan |
 | 743 | 320 | Cheryl Schmid |
 | 744 | 320 | Sunny Tiltbuilder |
-| 745 | 319 | Laura Anderson |
-| 746 | 319 | Goldie |
-| 747 | 318 | MamaRachel |
-| 748 | 318 | Seana Moran |
+| 745 | 319 | Goldie |
+| 746 | 319 | Laura Anderson |
+| 747 | 318 | Seana Moran |
+| 748 | 318 | MamaRachel |
 | 749 | 317 | Twisty Blockmatch |
-| 750 | 316 | Happy Drop |
-| 751 | 316 | Pat Smits |
+| 750 | 316 | Pat Smits |
+| 751 | 316 | Happy Drop |
 | 752 | 316 | Nicole Ashbaugh |
 | 753 | 315 | Jessica Murphree |
-| 754 | 315 | Wood |
-| 755 | 315 | Melissa Aycock |
+| 754 | 315 | Melissa Aycock |
+| 755 | 315 | Wood |
 | 756 | 314 | Audrey Wood |
 | 757 | 314 | Epic Tilemaker |
 | 758 | 313 | Melissa Fink |
 | 759 | 312 | Chilly Surge |
 | 760 | 312 | Mariya Cline |
-| 761 | 312 | whocares |
-| 762 | 312 | Melissa Pronovost |
+| 761 | 312 | Melissa Pronovost |
+| 762 | 312 | whocares |
 | 763 | 311 | Holly Barefoot |
 | 764 | 311 | Alonzo Reed |
 | 765 | 310 | Ashley Diana |
 | 766 | 310 | WhitS |
 | 767 | 310 | Glitzy Roll |
-| 768 | 309 | Jami Borges |
-| 769 | 309 | YAKO |
-| 770 | 309 | Peachy Wipegrid |
-| 771 | 308 | Jamie Adams |
-| 772 | 308 | Stetson Tetris |
-| 773 | 308 | Marlo Perry |
-| 774 | 307 | GiGi Cool |
-| 775 | 307 | Epic Framezone |
-| 776 | 307 | Bonita Alexander |
-| 777 | 307 | Nikki Sadler |
-| 778 | 306 | Kelly |
-| 779 | 306 | Sara BlueEyes |
-| 780 | 306 | Reign Hustler |
-| 781 | 305 | Susie Conger |
-| 782 | 305 | Cozy Cascade |
+| 768 | 310 | Karen Mueller |
+| 769 | 309 | Peachy Wipegrid |
+| 770 | 309 | Jami Borges |
+| 771 | 309 | YAKO |
+| 772 | 308 | Marlo Perry |
+| 773 | 308 | Jamie Adams |
+| 774 | 308 | Stetson Tetris |
+| 775 | 307 | GiGi Cool |
+| 776 | 307 | Epic Framezone |
+| 777 | 307 | Bonita Alexander |
+| 778 | 307 | Nikki Sadler |
+| 779 | 306 | Kelly |
+| 780 | 306 | Sara BlueEyes |
+| 781 | 306 | Reign Hustler |
+| 782 | 305 | Susie Conger |
 | 783 | 305 | Hansent3 |
-| 784 | 304 | Nova |
-| 785 | 304 | Cranky Basepiece |
-| 786 | 303 | Errkuh |
-| 787 | 302 | Kimberly Davis |
+| 784 | 305 | Cozy Cascade |
+| 785 | 304 | Nova |
+| 786 | 304 | Cranky Basepiece |
+| 787 | 303 | Errkuh |
 | 788 | 302 | Smiley Cornerfall |
-| 789 | 301 | Belle |
-| 790 | 301 | Jessica Bowman |
-| 791 | 300 | Adam Latin |
+| 789 | 302 | Kimberly Davis |
+| 790 | 301 | Belle |
+| 791 | 301 | Jessica Bowman |
 | 792 | 300 | Nicole Suber |
-| 793 | 300 | Karen Mueller |
+| 793 | 300 | Adam Latin |
 | 794 | 300 | Erin Lemanski |
 | 795 | 300 | Frisky Rumbler |
 | 796 | 300 | Nanny t |
@@ -873,10 +873,10 @@
 | 865 | 278 | Maurii93 |
 | 866 | 277 | Ashley Fleming |
 | 867 | 277 | Ashlee Johnson |
-| 868 | 277 | Carrie Smith Negron |
-| 869 | 276 | Connie McCoy |
-| 870 | 276 | NickandJess Reynolds |
-| 871 | 275 | Trisha Schneider |
+| 868 | 277 | Trisha Schneider |
+| 869 | 277 | Carrie Smith Negron |
+| 870 | 276 | Connie McCoy |
+| 871 | 276 | NickandJess Reynolds |
 | 872 | 275 | Rachel Wooldridge |
 | 873 | 275 | rebel4lyfe |
 | 874 | 274 | Clever Gridzone |
@@ -1058,22 +1058,22 @@
 | 1050 | 219 | April Elaine Messenger |
 | 1051 | 219 | JDub |
 | 1052 | 218 | Chill Clearbuilder |
-| 1053 | 217 | Heather Nicole |
-| 1054 | 217 | Nick Waterwalker |
-| 1055 | 217 | Ava Dorsch |
+| 1053 | 217 | Sadie-Damion Smith |
+| 1054 | 217 | Heather Nicole |
+| 1055 | 217 | Nick Waterwalker |
 | 1056 | 217 | Saucy Lifter |
-| 1057 | 217 | Spicy Snapclear |
-| 1058 | 216 | Sara Dunn |
-| 1059 | 216 | Jenifer Gasho |
-| 1060 | 216 | Lori Yelvington Cain |
-| 1061 | 215 | Samantha Smith |
-| 1062 | 215 | Maja Hauff |
-| 1063 | 215 | Nerdy Gridlock |
-| 1064 | 215 | Brandy McCleary |
-| 1065 | 214 | Erin Moore Galloway |
-| 1066 | 213 | Evelyn Confer |
-| 1067 | 213 | Jenny |
-| 1068 | 212 | Sadie-Damion Smith |
+| 1057 | 217 | Ava Dorsch |
+| 1058 | 217 | Spicy Snapclear |
+| 1059 | 216 | Sara Dunn |
+| 1060 | 216 | Jenifer Gasho |
+| 1061 | 216 | Lori Yelvington Cain |
+| 1062 | 215 | Samantha Smith |
+| 1063 | 215 | Maja Hauff |
+| 1064 | 215 | Nerdy Gridlock |
+| 1065 | 215 | Brandy McCleary |
+| 1066 | 214 | Erin Moore Galloway |
+| 1067 | 213 | Evelyn Confer |
+| 1068 | 213 | Jenny |
 | 1069 | 212 | Rae |
 | 1070 | 211 | Kaitlyn Hurst |
 | 1071 | 211 | Ollie |
