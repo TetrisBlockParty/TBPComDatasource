@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 03:22:46 UTC
+# Standings for team4 as of 2026-06-11 03:23:23 UTC
 
 **Total Participants:** 2455
 
@@ -64,8 +64,8 @@
 | 56 | 3053 | Alicia Cook |
 | 57 | 2963 | Jason Allen |
 | 58 | 2828 | Jace McCullough |
-| 59 | 2800 | Annastaissia Todd |
-| 60 | 2800 | Caitlin Johnson |
+| 59 | 2800 | Caitlin Johnson |
+| 60 | 2800 | Annastaissia Todd |
 | 61 | 2795 | Monica Emel |
 | 62 | 2728 | Bryan DjMagnum Evans |
 | 63 | 2578 | Joseph Anthony Watkins |
@@ -116,11 +116,11 @@
 | 108 | 1398 | Snappy Fitzone |
 | 109 | 1390 | Esther Hadassah |
 | 110 | 1362 | Gloria Nunley Trussell |
-| 111 | 1358 | HurkleDurkle88 |
-| 112 | 1356 | Fancy Crasher |
-| 113 | 1348 | GeorgeButts |
-| 114 | 1342 | Shaina Sharp |
-| 115 | 1339 | Twirl Girl |
+| 111 | 1359 | Twirl Girl |
+| 112 | 1358 | HurkleDurkle88 |
+| 113 | 1356 | Fancy Crasher |
+| 114 | 1348 | GeorgeButts |
+| 115 | 1342 | Shaina Sharp |
 | 116 | 1336 | Jonathan Hewitt |
 | 117 | 1306 | Irma |
 | 118 | 1297 | Bri Martin |
@@ -199,8 +199,8 @@
 | 191 | 850 | Shiny Dashy |
 | 192 | 847 | Christy Beezley-Forbush |
 | 193 | 842 | Bean |
-| 194 | 841 | Pepone Pepe |
-| 195 | 841 | Lynn Grimes |
+| 194 | 841 | Lynn Grimes |
+| 195 | 841 | Pepone Pepe |
 | 196 | 840 | CIRAZYPNOY |
 | 197 | 838 | Jennifer Ellyn Sheets |
 | 198 | 838 | Spicy Chicken |
@@ -531,22 +531,22 @@
 | 523 | 334 | Cindy |
 | 524 | 334 | Chonda OhanaMomma Michelle |
 | 525 | 333 | Brendan Craven |
-| 526 | 332 | Brandi Sauer |
-| 527 | 332 | Missionary Meda |
-| 528 | 331 | Lively Cascadebuilder |
-| 529 | 331 | Jessica Jones Bolton |
+| 526 | 332 | Jessica Jones Bolton |
+| 527 | 332 | Brandi Sauer |
+| 528 | 332 | Missionary Meda |
+| 529 | 331 | Lively Cascadebuilder |
 | 530 | 331 | Tiffany Smith |
 | 531 | 331 | Rosy Perez |
 | 532 | 331 | Lupe Chapa |
 | 533 | 330 | J.Wo |
-| 534 | 329 | MrsReap |
-| 535 | 328 | Jennifer Fisher Franklin |
-| 536 | 328 | ariel |
-| 537 | 328 | Chirpy Spinzone |
-| 538 | 327 | Deborah Silberg |
-| 539 | 327 | Haylee Talkington |
-| 540 | 327 | my my |
-| 541 | 327 | Destiny Starr LeValdo |
+| 534 | 329 | Destiny Starr LeValdo |
+| 535 | 329 | MrsReap |
+| 536 | 328 | Jennifer Fisher Franklin |
+| 537 | 328 | ariel |
+| 538 | 328 | Chirpy Spinzone |
+| 539 | 327 | Deborah Silberg |
+| 540 | 327 | Haylee Talkington |
+| 541 | 327 | my my |
 | 542 | 326 | REPENT |
 | 543 | 326 | Dandy Cascade |
 | 544 | 326 | Frothy Pattern |
@@ -780,31 +780,31 @@
 | 772 | 230 | Clever Blockbuilder |
 | 773 | 230 | Billy Baker |
 | 774 | 229 | Marcus Chavis |
-| 775 | 229 | Squiggy |
-| 776 | 229 | chuck |
-| 777 | 229 | Lizzzzzz |
-| 778 | 229 | Surviving Be Back Soon |
-| 779 | 229 | Lorrie Ann Burchett |
-| 780 | 228 | Angela Adamo-Tash |
-| 781 | 228 | Happy Strikerpiece |
-| 782 | 228 | Janae Harris |
-| 783 | 228 | Tonia Kay |
-| 784 | 227 | Kuar T Ejen |
-| 785 | 227 | Tre'nya Smith |
-| 786 | 227 | Noa Lee |
-| 787 | 227 | Tactical_B |
-| 788 | 226 | Ricky Colvin |
-| 789 | 226 | Steve Foster |
-| 790 | 226 | Buddyblock |
-| 791 | 226 | Scarlett Ashley Clark |
-| 792 | 225 | Sunny Tiltbuilder |
-| 793 | 225 | Elisha Thompson |
-| 794 | 225 | Helen Bradley |
-| 795 | 225 | Rose Anna Safi |
-| 796 | 224 | Japexican Strong |
-| 797 | 224 | Sassy Frame |
-| 798 | 223 | Alexis Siefker |
-| 799 | 223 | Carlos Amaya |
+| 775 | 229 | Sassy Frame |
+| 776 | 229 | Squiggy |
+| 777 | 229 | chuck |
+| 778 | 229 | Lizzzzzz |
+| 779 | 229 | Surviving Be Back Soon |
+| 780 | 229 | Lorrie Ann Burchett |
+| 781 | 228 | Angela Adamo-Tash |
+| 782 | 228 | Happy Strikerpiece |
+| 783 | 228 | Janae Harris |
+| 784 | 228 | Tonia Kay |
+| 785 | 227 | Kuar T Ejen |
+| 786 | 227 | Tre'nya Smith |
+| 787 | 227 | Noa Lee |
+| 788 | 227 | Tactical_B |
+| 789 | 226 | Ricky Colvin |
+| 790 | 226 | Steve Foster |
+| 791 | 226 | Buddyblock |
+| 792 | 226 | Scarlett Ashley Clark |
+| 793 | 225 | Sunny Tiltbuilder |
+| 794 | 225 | Elisha Thompson |
+| 795 | 225 | Helen Bradley |
+| 796 | 225 | Rose Anna Safi |
+| 797 | 224 | Japexican Strong |
+| 798 | 223 | Carlos Amaya |
+| 799 | 223 | Alexis Siefker |
 | 800 | 223 | Bigmamalizzet Latto |
 | 801 | 223 | Debby Muniz |
 | 802 | 222 | Maria Munoz |
@@ -2273,45 +2273,45 @@
 | 2265 | 14 | Ernesto Flores |
 | 2266 | 14 | Tipsy Towerzone |
 | 2267 | 14 | crow me |
-| 2268 | 14 | Tipsy Riseclear |
-| 2269 | 14 | Tammy Santiago |
-| 2270 | 13 | Kaliegh Ann Brunette |
-| 2271 | 13 | Julie Smith |
-| 2272 | 13 | lilthey |
-| 2273 | 13 | Swanky Spinzone |
-| 2274 | 13 | Mary Lowther |
-| 2275 | 13 | Krystal Lyne Gibson |
-| 2276 | 13 | Michelle Boyd |
+| 2268 | 14 | Tammy Santiago |
+| 2269 | 14 | Tipsy Riseclear |
+| 2270 | 13 | Jennyfromtheblock |
+| 2271 | 13 | Mary Lowther |
+| 2272 | 13 | Swanky Spinzone |
+| 2273 | 13 | Kaliegh Ann Brunette |
+| 2274 | 13 | Michelle Boyd |
+| 2275 | 13 | Julie Smith |
+| 2276 | 13 | lilthey |
 | 2277 | 13 | Jason Ervin |
 | 2278 | 13 | Liz Aimé Acosta Guilarte |
-| 2279 | 13 | Jennyfromtheblock |
+| 2279 | 13 | Krystal Lyne Gibson |
 | 2280 | 13 | Jackie Russo-Edens |
 | 2281 | 12 | Mee |
 | 2282 | 12 | ESPERANTU |
 | 2283 | 12 | Delashawne Hodgson |
 | 2284 | 12 | Tatiyana Hockett |
-| 2285 | 12 | Jossimar Chairez |
-| 2286 | 12 | Anna Tastad |
-| 2287 | 12 | May Espinosa |
-| 2288 | 12 | Poppy Linkblock |
-| 2289 | 12 | Carolyn Lalak |
-| 2290 | 12 | Jen&deno |
-| 2291 | 12 | Boldy Shuffler |
-| 2292 | 12 | Sassy Shiftsnap |
-| 2293 | 12 | Maritza Lopez |
-| 2294 | 11 | Heather Smith-Carter |
-| 2295 | 11 | Itsyourgirll_29 |
-| 2296 | 11 | SUGARLUV66 |
-| 2297 | 11 | Eric Mellinger |
-| 2298 | 11 | Scott James Cooper |
-| 2299 | 11 | Tammi Crnza |
-| 2300 | 11 | Jim Faust |
-| 2301 | 11 | Aaron |
+| 2285 | 12 | Sassy Shiftsnap |
+| 2286 | 12 | Jen&deno |
+| 2287 | 12 | Carolyn Lalak |
+| 2288 | 12 | Boldy Shuffler |
+| 2289 | 12 | Aaron |
+| 2290 | 12 | Poppy Linkblock |
+| 2291 | 12 | Maritza Lopez |
+| 2292 | 12 | Anna Tastad |
+| 2293 | 12 | Jossimar Chairez |
+| 2294 | 12 | May Espinosa |
+| 2295 | 11 | Scott James Cooper |
+| 2296 | 11 | Tammi Crnza |
+| 2297 | 11 | Dizzy Snapclear |
+| 2298 | 11 | Jim Faust |
+| 2299 | 11 | Cindy Prieto |
+| 2300 | 11 | Laurelez R. Carmen |
+| 2301 | 11 | Melanie Henderson Spencer |
 | 2302 | 11 | Jane Smith |
-| 2303 | 11 | Dizzy Snapclear |
-| 2304 | 11 | Cindy Prieto |
-| 2305 | 11 | Laurelez R. Carmen |
-| 2306 | 11 | Melanie Henderson Spencer |
+| 2303 | 11 | Itsyourgirll_29 |
+| 2304 | 11 | SUGARLUV66 |
+| 2305 | 11 | Eric Mellinger |
+| 2306 | 11 | Heather Smith-Carter |
 | 2307 | 11 | Fancy Shuffler |
 | 2308 | 11 | Tye Hayes |
 | 2309 | 11 | Cheeky Fitzone |
