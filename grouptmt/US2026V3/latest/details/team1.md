@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 06:41:25 UTC
+# Standings for team1 as of 2026-06-11 06:42:20 UTC
 
 **Total Participants:** 2453
 
@@ -609,9 +609,9 @@
 | 601 | 309 | Frilly Shatterline |
 | 602 | 309 | Phillip Vasquez |
 | 603 | 308 | Tonya Lee Sanders |
-| 604 | 308 | Darrel K Pemberton |
-| 605 | 308 | Melissa Olvera |
-| 606 | 308 | Jjhandsome |
+| 604 | 308 | Jjhandsome |
+| 605 | 308 | Darrel K Pemberton |
+| 606 | 308 | Melissa Olvera |
 | 607 | 307 | Kàrma Lee |
 | 608 | 307 | Aridevina |
 | 609 | 306 | Zappy Clearfit |
@@ -620,40 +620,40 @@
 | 612 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 613 | 305 | BonnieB |
 | 614 | 304 | Mrs.Ann |
-| 615 | 303 | Kamilya Rembert |
-| 616 | 303 | Kelley Johnson |
-| 617 | 303 | Kelvin Cook |
-| 618 | 303 | Zany Breaker |
+| 615 | 303 | Kelvin Cook |
+| 616 | 303 | Zany Breaker |
+| 617 | 303 | Kelley Johnson |
+| 618 | 303 | Kamilya Rembert |
 | 619 | 302 | Ebby |
 | 620 | 301 | Monica Fields |
 | 621 | 301 | LaShawyn Wood |
-| 622 | 300 | Cheryl Miller |
+| 622 | 300 | Phillip White |
 | 623 | 300 | Daring Blockclear |
-| 624 | 300 | Slinky Swipe |
-| 625 | 300 | Kate Moses |
-| 626 | 300 | Phillip White |
+| 624 | 300 | Cheryl Miller |
+| 625 | 300 | Slinky Swipe |
+| 626 | 300 | Kate Moses |
 | 627 | 300 | Ashlie Mo |
 | 628 | 300 | brite |
-| 629 | 299 | Saucy Faller |
+| 629 | 299 | Kala LaRicka |
 | 630 | 299 | Chandler Magee |
-| 631 | 299 | Kala LaRicka |
+| 631 | 299 | Saucy Faller |
 | 632 | 299 | Taz Ballard |
-| 633 | 298 | Rachael R Gull |
-| 634 | 297 | Hasty Rollzone |
-| 635 | 297 | meatballs |
-| 636 | 296 | Stephanie L Jeffries Moultrie |
+| 633 | 298 | Octavia Bsb Johnson |
+| 634 | 298 | Rachael R Gull |
+| 635 | 297 | Hasty Rollzone |
+| 636 | 297 | meatballs |
 | 637 | 296 | Cornelius Neal |
-| 638 | 296 | Lounique |
-| 639 | 294 | Tamika Rocheteau |
-| 640 | 294 | Octavia Bsb Johnson |
+| 638 | 296 | Stephanie L Jeffries Moultrie |
+| 639 | 296 | Lounique |
+| 640 | 294 | Tamika Rocheteau |
 | 641 | 294 | Loony Clearer |
 | 642 | 294 | Cori Cleland |
-| 643 | 293 | lizlizliz |
-| 644 | 293 | crumb bumc |
+| 643 | 293 | crumb bumc |
+| 644 | 293 | lizlizliz |
 | 645 | 292 | Courtney Cicoria |
-| 646 | 291 | Pj Rojas |
-| 647 | 291 | Brian Taylor |
-| 648 | 291 | Bella |
+| 646 | 291 | Brian Taylor |
+| 647 | 291 | Bella |
+| 648 | 291 | Pj Rojas |
 | 649 | 289 | TBabii24 |
 | 650 | 288 | Lozuna |
 | 651 | 288 | Douglas Price |
@@ -1272,61 +1272,61 @@
 | 1264 | 112 | GamerQueenDS |
 | 1265 | 112 | Embracing Hair |
 | 1266 | 112 | Elizabeth Hopkins |
-| 1267 | 111 | Alicia Lei |
-| 1268 | 111 | midnightxtoker |
-| 1269 | 111 | Khatyrah Burnette |
-| 1270 | 111 | Jack Mehof |
-| 1271 | 111 | Funky Tetris |
-| 1272 | 111 | Fred Caston |
-| 1273 | 111 | Francisco R. Avalos |
-| 1274 | 111 | Letrishia Andrews |
-| 1275 | 110 | Swanky Riserfit |
-| 1276 | 110 | Silly Spinblock |
-| 1277 | 110 | PattyPower |
-| 1278 | 110 | Tweet Turner |
-| 1279 | 110 | S.S |
-| 1280 | 109 | Jamal D. Wiley |
-| 1281 | 109 | Darlene Johnson |
-| 1282 | 109 | OleGey |
-| 1283 | 109 | Jeremy Myers |
-| 1284 | 108 | Douglas Jones |
-| 1285 | 108 | Phoenix |
-| 1286 | 108 | Smiley Tilebuilder |
+| 1267 | 111 | Daring Snaplink |
+| 1268 | 111 | Alicia Lei |
+| 1269 | 111 | midnightxtoker |
+| 1270 | 111 | Khatyrah Burnette |
+| 1271 | 111 | Jack Mehof |
+| 1272 | 111 | Funky Tetris |
+| 1273 | 111 | Fred Caston |
+| 1274 | 111 | Francisco R. Avalos |
+| 1275 | 111 | Letrishia Andrews |
+| 1276 | 110 | Swanky Riserfit |
+| 1277 | 110 | Silly Spinblock |
+| 1278 | 110 | PattyPower |
+| 1279 | 110 | Tweet Turner |
+| 1280 | 110 | S.S |
+| 1281 | 109 | Jamal D. Wiley |
+| 1282 | 109 | Darlene Johnson |
+| 1283 | 109 | OleGey |
+| 1284 | 109 | Jeremy Myers |
+| 1285 | 108 | Douglas Jones |
+| 1286 | 108 | Phoenix |
 | 1287 | 108 | Thelma Samuels |
-| 1288 | 107 | Jeremy Pope |
-| 1289 | 107 | Mrs |
-| 1290 | 107 | Brandon Knox |
-| 1291 | 107 | Amanda Miller |
-| 1292 | 107 | Arjuna Taylor |
-| 1293 | 106 | Toohartless Mech |
+| 1288 | 108 | Smiley Tilebuilder |
+| 1289 | 107 | Arjuna Taylor |
+| 1290 | 107 | Jeremy Pope |
+| 1291 | 107 | Mrs |
+| 1292 | 107 | Brandon Knox |
+| 1293 | 107 | Amanda Miller |
 | 1294 | 106 | Symonne 'Monnie' Pierce |
-| 1295 | 106 | Zappy Zoney |
-| 1296 | 106 | NataAllDay |
+| 1295 | 106 | Toohartless Mech |
+| 1296 | 106 | Zappy Zoney |
 | 1297 | 106 | Dani McLeod |
-| 1298 | 105 | Boldy Matchfit |
+| 1298 | 106 | NataAllDay |
 | 1299 | 105 | Michael Smith |
-| 1300 | 105 | Maria |
-| 1301 | 105 | smash56! |
-| 1302 | 104 | Jiff |
-| 1303 | 104 | Jenni |
-| 1304 | 104 | Ahvae Lee |
-| 1305 | 104 | Cozy Balancefit |
-| 1306 | 104 | Elizabeth Clara |
-| 1307 | 104 | Briela Sabrina |
+| 1300 | 105 | Boldy Matchfit |
+| 1301 | 105 | Maria |
+| 1302 | 105 | smash56! |
+| 1303 | 104 | Cozy Balancefit |
+| 1304 | 104 | Jiff |
+| 1305 | 104 | Jenni |
+| 1306 | 104 | Ahvae Lee |
+| 1307 | 104 | Elizabeth Clara |
 | 1308 | 104 | Lush Crasher |
-| 1309 | 103 | Arnold Hamilton |
-| 1310 | 103 | BigMike |
+| 1309 | 104 | Briela Sabrina |
+| 1310 | 103 | Arnold Hamilton |
 | 1311 | 103 | Desi |
-| 1312 | 102 | Daring Snaplink |
+| 1312 | 103 | BigMike |
 | 1313 | 102 | Chip |
-| 1314 | 101 | Frothy Snapmatch |
-| 1315 | 101 | Duane Thomas Lmt |
-| 1316 | 101 | Ryan Holm |
-| 1317 | 101 | dweetyuhself |
+| 1314 | 101 | Ryan Holm |
+| 1315 | 101 | dweetyuhself |
+| 1316 | 101 | Frothy Snapmatch |
+| 1317 | 101 | Duane Thomas Lmt |
 | 1318 | 100 | Sugar Foot |
-| 1319 | 100 | Jeaneé Nay |
-| 1320 | 100 | Jamie Mclean |
-| 1321 | 100 | Megan Payette |
+| 1319 | 100 | Jamie Mclean |
+| 1320 | 100 | Megan Payette |
+| 1321 | 100 | Jeaneé Nay |
 | 1322 | 100 | Thomas Pearson |
 | 1323 | 100 | Alison Emmons |
 | 1324 | 100 | Warren Miller |
@@ -1521,28 +1521,28 @@
 | 1513 | 72 | Mariela J. Mazariegos |
 | 1514 | 72 | Darryl Love |
 | 1515 | 72 | Chummy Liner |
-| 1516 | 71 | Hasty Builder |
-| 1517 | 71 | Shona ShayShay Jones |
-| 1518 | 71 | Chummy Clearfit |
+| 1516 | 71 | Laurene Bivins Fortney |
+| 1517 | 71 | Chummy Clearfit |
+| 1518 | 71 | Shona ShayShay Jones |
 | 1519 | 71 | Ember Hammond |
-| 1520 | 71 | Laurene Bivins Fortney |
+| 1520 | 71 | Hasty Builder |
 | 1521 | 71 | Ana Torres |
 | 1522 | 71 | Lora Lee |
 | 1523 | 71 | Happymama |
 | 1524 | 71 | Emeka Agu |
-| 1525 | 70 | Tina Sellars |
-| 1526 | 70 | Jucee |
+| 1525 | 70 | Jucee |
+| 1526 | 70 | Tina Sellars |
 | 1527 | 70 | Leon Brown III |
 | 1528 | 70 | Eli Delao |
 | 1529 | 70 | Chris Bell |
-| 1530 | 69 | Elizabeth Castro |
-| 1531 | 69 | Charlie Brown |
-| 1532 | 69 | Hound Dog |
-| 1533 | 69 | toooooott |
-| 1534 | 69 | BrettanMary Adkins |
-| 1535 | 69 | desmi |
-| 1536 | 69 | Farah Simpson |
-| 1537 | 68 | H Hr De Gfe |
+| 1530 | 70 | H Hr De Gfe |
+| 1531 | 69 | Elizabeth Castro |
+| 1532 | 69 | Charlie Brown |
+| 1533 | 69 | Hound Dog |
+| 1534 | 69 | toooooott |
+| 1535 | 69 | BrettanMary Adkins |
+| 1536 | 69 | desmi |
+| 1537 | 69 | Farah Simpson |
 | 1538 | 68 | Saucy Crusher |
 | 1539 | 68 | LoveLee |
 | 1540 | 68 | LOVE |
