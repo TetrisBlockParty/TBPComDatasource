@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 13:10:48 UTC
+# Standings for team1 as of 2026-06-11 13:11:24 UTC
 
 **Total Participants:** 2488
 
@@ -46,7 +46,7 @@
 | 38 | 3914 | Juan Kandiss Escobedo Irwin |
 | 39 | 3763 | Sha Harris |
 | 40 | 3761 | Brian Stackhouse |
-| 41 | 3638 | Jennifer To |
+| 41 | 3653 | Jennifer To |
 | 42 | 3609 | Chill Clusterer |
 | 43 | 3442 | Yolanda McDonald |
 | 44 | 3439 | Mimi 1.0 |
@@ -99,11 +99,11 @@
 | 91 | 1870 | TAZ-MF-NIZIL |
 | 92 | 1854 | Jessica Roberts |
 | 93 | 1841 | Spunky Edgefit |
-| 94 | 1711 | Richard Horton |
-| 95 | 1708 | MamaBear |
-| 96 | 1703 | Sanjuro |
-| 97 | 1697 | Roberta Lynn |
-| 98 | 1697 | sha |
+| 94 | 1717 | sha |
+| 95 | 1711 | Richard Horton |
+| 96 | 1708 | MamaBear |
+| 97 | 1703 | Sanjuro |
+| 98 | 1697 | Roberta Lynn |
 | 99 | 1680 | FallDee |
 | 100 | 1668 | La'Chae Nickole |
 | 101 | 1647 | Dawn L Washington-Feuquay |
@@ -139,8 +139,8 @@
 | 131 | 1355 | Whitney Butler |
 | 132 | 1350 | Keeta Chickswit Scott |
 | 133 | 1344 | G Ah Mayes |
-| 134 | 1323 | Denise B |
-| 135 | 1322 | Plucky Slamdrop |
+| 134 | 1325 | Plucky Slamdrop |
+| 135 | 1323 | Denise B |
 | 136 | 1284 | xXEKUNXx |
 | 137 | 1282 | Jon Gathers |
 | 138 | 1277 | Dynah Gordon |
@@ -337,10 +337,10 @@
 | 329 | 532 | Jessica Russell |
 | 330 | 531 | Kesha Brady |
 | 331 | 531 | Tarnisha Neicy Jones |
-| 332 | 529 | Dai Bo |
-| 333 | 529 | Jayjay Rich |
-| 334 | 527 | MommaCia |
-| 335 | 526 | NewEve |
+| 332 | 531 | NewEve |
+| 333 | 529 | Dai Bo |
+| 334 | 529 | Jayjay Rich |
+| 335 | 527 | MommaCia |
 | 336 | 523 | Bre Poston |
 | 337 | 521 | Jawaun Daniels |
 | 338 | 520 | Hasty Glidezone |
@@ -392,20 +392,20 @@
 | 384 | 476 | Nikki Hogan |
 | 385 | 475 | Vernon Hoyt |
 | 386 | 473 | Lisa420 |
-| 387 | 471 | Jae Thompson-Tyus |
-| 388 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 389 | 468 | Christian Pham |
-| 390 | 464 | Devin West |
-| 391 | 464 | Koreen Johnson-Woolford |
-| 392 | 464 | Michele Simpson |
-| 393 | 464 | Krista McNair |
-| 394 | 461 | Bold Clusterer |
-| 395 | 460 | SherylU |
-| 396 | 460 | Kelli Couture |
-| 397 | 460 | Janice Mowel Curtiss |
-| 398 | 457 | Peppy Towerbuilder |
-| 399 | 457 | Saranoh13 |
-| 400 | 456 | Valerie Alexander |
+| 387 | 472 | Valerie Alexander |
+| 388 | 471 | Jae Thompson-Tyus |
+| 389 | 470 | Davionte DaeDae Hopson-Rodriguez |
+| 390 | 468 | Christian Pham |
+| 391 | 464 | Devin West |
+| 392 | 464 | Koreen Johnson-Woolford |
+| 393 | 464 | Michele Simpson |
+| 394 | 464 | Krista McNair |
+| 395 | 461 | Bold Clusterer |
+| 396 | 460 | SherylU |
+| 397 | 460 | Kelli Couture |
+| 398 | 460 | Janice Mowel Curtiss |
+| 399 | 457 | Peppy Towerbuilder |
+| 400 | 457 | Saranoh13 |
 | 401 | 454 | Tonya McElroy |
 | 402 | 454 | MamushiOh |
 | 403 | 453 | Faith Armone |
@@ -475,8 +475,8 @@
 | 467 | 405 | Jennah |
 | 468 | 405 | Slinky Snapbuilder |
 | 469 | 405 | C Lo Green |
-| 470 | 405 | Sherry D Singleton |
-| 471 | 404 | Montego Allen |
+| 470 | 405 | Montego Allen |
+| 471 | 405 | Sherry D Singleton |
 | 472 | 402 | Trusi Rusi |
 | 473 | 401 | Cynda Cyn |
 | 474 | 400 | Bbyunicorn |
@@ -2177,18 +2177,18 @@
 | 2169 | 18 | Una |
 | 2170 | 18 | Yeshanna Nicholson |
 | 2171 | 18 | Beach girl444 |
-| 2172 | 18 | Dynasty Norman |
-| 2173 | 18 | Anissa Williams |
-| 2174 | 18 | AnatB |
-| 2175 | 18 | Lynn Formby |
-| 2176 | 18 | Daring Twistfit |
-| 2177 | 18 | Bridget Rivers |
-| 2178 | 18 | Dominick Towns |
-| 2179 | 18 | Andrea Jones |
-| 2180 | 18 | Poppy Pivot |
-| 2181 | 17 | Christopher Allan Petty II |
-| 2182 | 17 | Dee |
-| 2183 | 17 | Sleepy Doe |
+| 2172 | 18 | Sleepy Doe |
+| 2173 | 18 | Dynasty Norman |
+| 2174 | 18 | Anissa Williams |
+| 2175 | 18 | AnatB |
+| 2176 | 18 | Lynn Formby |
+| 2177 | 18 | Daring Twistfit |
+| 2178 | 18 | Bridget Rivers |
+| 2179 | 18 | Dominick Towns |
+| 2180 | 18 | Andrea Jones |
+| 2181 | 18 | Poppy Pivot |
+| 2182 | 17 | Christopher Allan Petty II |
+| 2183 | 17 | Dee |
 | 2184 | 17 | Christina |
 | 2185 | 17 | Dapper Basegrid |
 | 2186 | 17 | Almarasha Grice |
