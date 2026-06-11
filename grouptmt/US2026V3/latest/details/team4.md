@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 14:10:44 UTC
+# Standings for team4 as of 2026-06-11 14:11:24 UTC
 
 **Total Participants:** 2534
 
@@ -2302,79 +2302,79 @@
 | 2294 | 16 | Mighty Balancer |
 | 2295 | 16 | Fumiko Demello |
 | 2296 | 16 | Yolanda Ferrer |
-| 2297 | 15 | Hashanah Williams |
-| 2298 | 15 | Krissa Weaver |
-| 2299 | 15 | Walker Tracie |
-| 2300 | 15 | Ember Axis |
-| 2301 | 15 | Dantheman |
-| 2302 | 15 | Wacky Clusterer |
-| 2303 | 15 | Speedy Rollbuilder |
-| 2304 | 15 | Jacquez Boyer |
-| 2305 | 15 | Kondwani Winston |
-| 2306 | 15 | Tinker193 |
-| 2307 | 15 | strawberry 05 |
-| 2308 | 15 | Funky Crasher |
-| 2309 | 15 | Kiara Johnson |
-| 2310 | 15 | Robyn Ann Reid Andreoli |
-| 2311 | 15 | Kimberly Ann Shifflett |
-| 2312 | 15 | Michael McIntire |
-| 2313 | 15 | Melia Christiansen |
-| 2314 | 15 | Theamazingspiderman |
+| 2297 | 15 | Michael McIntire |
+| 2298 | 15 | Kiara Johnson |
+| 2299 | 15 | Kimberly Ann Shifflett |
+| 2300 | 15 | Robyn Ann Reid Andreoli |
+| 2301 | 15 | Funky Crasher |
+| 2302 | 15 | strawberry 05 |
+| 2303 | 15 | Tinker193 |
+| 2304 | 15 | Kondwani Winston |
+| 2305 | 15 | Jacquez Boyer |
+| 2306 | 15 | Wacky Clusterer |
+| 2307 | 15 | Dantheman |
+| 2308 | 15 | Ember Axis |
+| 2309 | 15 | Walker Tracie |
+| 2310 | 15 | JSPin22 |
+| 2311 | 15 | Krissa Weaver |
+| 2312 | 15 | Hashanah Williams |
+| 2313 | 15 | Speedy Rollbuilder |
+| 2314 | 15 | Melia Christiansen |
 | 2315 | 15 | Rican |
-| 2316 | 15 | Medrano Cruz Yaquelyn |
-| 2317 | 15 | Cheery Twister |
-| 2318 | 15 | Brandy Dark |
-| 2319 | 15 | Lively Cascadeclear |
-| 2320 | 15 | Tricki Woo |
-| 2321 | 14 | Blanchie Wingo |
-| 2322 | 14 | mrsduke420 |
-| 2323 | 14 | Chummy Gridder |
+| 2316 | 15 | Theamazingspiderman |
+| 2317 | 15 | Medrano Cruz Yaquelyn |
+| 2318 | 15 | Cheery Twister |
+| 2319 | 15 | Brandy Dark |
+| 2320 | 15 | Lively Cascadeclear |
+| 2321 | 15 | Tricki Woo |
+| 2322 | 14 | Blanchie Wingo |
+| 2323 | 14 | mrsduke420 |
 | 2324 | 14 | Plucky Crusher |
-| 2325 | 14 | crow me |
-| 2326 | 14 | Alisha McGahey |
-| 2327 | 14 | Christine Niles |
-| 2328 | 14 | QueenB |
-| 2329 | 14 | Evie |
-| 2330 | 14 | Tammy Santiago |
-| 2331 | 14 | Kayandra |
-| 2332 | 14 | G Money |
-| 2333 | 14 | Warrenlee Harris |
-| 2334 | 14 | Donovan Parmenter Gagne |
-| 2335 | 14 | Tipsy Riseclear |
-| 2336 | 14 | Melanie Henderson Spencer |
-| 2337 | 14 | Ernesto Flores |
-| 2338 | 14 | Dizzy Brickzone |
-| 2339 | 13 | JSPin22 |
-| 2340 | 13 | Jason Ervin |
-| 2341 | 13 | Kristen Howard Dissinger |
-| 2342 | 13 | Sarah Kutschenreuter Michalsky |
-| 2343 | 13 | Jennyfromtheblock |
-| 2344 | 13 | Kaliegh Ann Brunette |
-| 2345 | 13 | Aaron |
-| 2346 | 13 | Liz Aimé Acosta Guilarte |
-| 2347 | 13 | Michelle Boyd |
-| 2348 | 13 | Celestina Aguirre |
-| 2349 | 13 | Swanky Spinzone |
-| 2350 | 13 | Krystal Lyne Gibson |
-| 2351 | 13 | Mary Lowther |
+| 2325 | 14 | Dizzy Brickzone |
+| 2326 | 14 | Ernesto Flores |
+| 2327 | 14 | Melanie Henderson Spencer |
+| 2328 | 14 | Donovan Parmenter Gagne |
+| 2329 | 14 | Warrenlee Harris |
+| 2330 | 14 | Kayandra |
+| 2331 | 14 | Chummy Gridder |
+| 2332 | 14 | Christine Niles |
+| 2333 | 14 | crow me |
+| 2334 | 14 | Alisha McGahey |
+| 2335 | 14 | QueenB |
+| 2336 | 14 | Evie |
+| 2337 | 14 | Tipsy Riseclear |
+| 2338 | 14 | G Money |
+| 2339 | 14 | Tammy Santiago |
+| 2340 | 13 | Liz Aimé Acosta Guilarte |
+| 2341 | 13 | Krystal Lyne Gibson |
+| 2342 | 13 | Michelle Boyd |
+| 2343 | 13 | Aaron |
+| 2344 | 13 | Swanky Spinzone |
+| 2345 | 13 | Kristen Howard Dissinger |
+| 2346 | 13 | Sarah Kutschenreuter Michalsky |
+| 2347 | 13 | Jennyfromtheblock |
+| 2348 | 13 | Jason Ervin |
+| 2349 | 13 | Kaliegh Ann Brunette |
+| 2350 | 13 | Mary Lowther |
+| 2351 | 13 | Celestina Aguirre |
 | 2352 | 13 | Julie Smith |
 | 2353 | 13 | Jackie Russo-Edens |
 | 2354 | 12 | Mee |
-| 2355 | 12 | May Espinosa |
-| 2356 | 12 | Poppy Linkblock |
-| 2357 | 12 | Tatiyana Hockett |
-| 2358 | 12 | ESPERANTU |
-| 2359 | 12 | Carolyn Lalak |
-| 2360 | 12 | Maritza Lopez |
-| 2361 | 12 | nips |
-| 2362 | 12 | Anna Tastad |
-| 2363 | 12 | Sassy Shiftsnap |
-| 2364 | 12 | Nutty Dropper |
-| 2365 | 12 | Boldy Shuffler |
-| 2366 | 12 | Jossimar Chairez |
-| 2367 | 12 | Jen&deno |
-| 2368 | 11 | Heather Smith-Carter |
-| 2369 | 11 | Itsyourgirll_29 |
+| 2355 | 12 | nips |
+| 2356 | 12 | Tatiyana Hockett |
+| 2357 | 12 | Jossimar Chairez |
+| 2358 | 12 | Boldy Shuffler |
+| 2359 | 12 | Nutty Dropper |
+| 2360 | 12 | Anna Tastad |
+| 2361 | 12 | May Espinosa |
+| 2362 | 12 | Maritza Lopez |
+| 2363 | 12 | Carolyn Lalak |
+| 2364 | 12 | ESPERANTU |
+| 2365 | 12 | Poppy Linkblock |
+| 2366 | 12 | Jen&deno |
+| 2367 | 12 | Sassy Shiftsnap |
+| 2368 | 11 | Itsyourgirll_29 |
+| 2369 | 11 | Heather Smith-Carter |
 | 2370 | 11 | Arsenio Fox |
 | 2371 | 11 | Peppy Glidebuilder |
 | 2372 | 11 | Polo Jeffries |
