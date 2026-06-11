@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:24:23 UTC
+# Standings for team4 as of 2026-06-11 15:24:51 UTC
 
 **Total Participants:** 2541
 
@@ -161,10 +161,10 @@
 | 153 | 1147 | Patty |
 | 154 | 1144 | Dandy Puzzler |
 | 155 | 1133 | Anthony Lewis |
-| 156 | 1123 | Tiffany Loree Tiffany Oneill |
-| 157 | 1119 | Suzanne North |
-| 158 | 1117 | Heather Preston |
-| 159 | 1116 | Pepone Pepe |
+| 156 | 1126 | Pepone Pepe |
+| 157 | 1123 | Tiffany Loree Tiffany Oneill |
+| 158 | 1119 | Suzanne North |
+| 159 | 1117 | Heather Preston |
 | 160 | 1106 | Loony Towerer |
 | 161 | 1097 | Whitborn |
 | 162 | 1090 | Becky Doll-Hall |
@@ -630,8 +630,8 @@
 | 622 | 317 | Elli Wright |
 | 623 | 317 | LaTanya GeminiondaRise Johnson |
 | 624 | 317 | alxhue04 |
-| 625 | 317 | Stef |
-| 626 | 317 | Janae Harris |
+| 625 | 317 | Janae Harris |
+| 626 | 317 | Stef |
 | 627 | 317 | Scrumptious |
 | 628 | 317 | crobb77 |
 | 629 | 316 | Ashlee Lemus |
@@ -680,20 +680,20 @@
 | 672 | 297 | Kimberly Devon |
 | 673 | 297 | Sa5siy |
 | 674 | 297 | Anthony Edwards |
-| 675 | 297 | MrLoner Stoner |
-| 676 | 297 | Swanky Snapgrid |
+| 675 | 297 | Swanky Snapgrid |
+| 676 | 297 | MrLoner Stoner |
 | 677 | 295 | Redhead girl |
 | 678 | 295 | Heather Garrity |
 | 679 | 295 | Carmen Angelica Sosa |
 | 680 | 294 | Edward White |
 | 681 | 293 | Natalie Dillard |
 | 682 | 292 | Nessa Smith |
-| 683 | 292 | Rachel Lemos |
-| 684 | 290 | Deb 07 |
-| 685 | 289 | Squiggy |
-| 686 | 288 | Andretta Sellers Robinson |
-| 687 | 288 | Happy Shatterfit |
-| 688 | 287 | Jeremy Barry |
+| 683 | 292 | Jeremy Barry |
+| 684 | 292 | Rachel Lemos |
+| 685 | 290 | Deb 07 |
+| 686 | 289 | Squiggy |
+| 687 | 288 | Andretta Sellers Robinson |
+| 688 | 288 | Happy Shatterfit |
 | 689 | 287 | Allysonjo Varela |
 | 690 | 287 | sierrabeth |
 | 691 | 286 | DizzB400 |
@@ -1310,11 +1310,11 @@
 | 1302 | 119 | Brook Marguerite Benson |
 | 1303 | 119 | Mighty Clicky |
 | 1304 | 119 | Heather Hilferty |
-| 1305 | 118 | NikkiLyn79 |
-| 1306 | 118 | Natalia Stone |
-| 1307 | 118 | Komikeh White |
-| 1308 | 118 | Jean Crooks |
-| 1309 | 118 | Badmofo |
+| 1305 | 119 | Badmofo |
+| 1306 | 118 | NikkiLyn79 |
+| 1307 | 118 | Natalia Stone |
+| 1308 | 118 | Komikeh White |
+| 1309 | 118 | Jean Crooks |
 | 1310 | 118 | Georgiana Meegan |
 | 1311 | 118 | Tbag |
 | 1312 | 118 | Archer Family Mayhem |
