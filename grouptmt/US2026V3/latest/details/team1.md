@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 04:56:46 UTC
+# Standings for team1 as of 2026-06-11 04:57:24 UTC
 
 **Total Participants:** 2437
 
@@ -37,7 +37,7 @@
 | 29 | 4767 | Kkbk |
 | 30 | 4517 | Chummy Combo |
 | 31 | 4259 | Janine Hunter |
-| 32 | 4165 | Shortstak |
+| 32 | 4170 | Shortstak |
 | 33 | 3962 | Weeze |
 | 34 | 3953 | Jo NewmindNewfocus Bell |
 | 35 | 3940 | Jacoby E Fleming |
@@ -165,15 +165,15 @@
 | 157 | 1061 | Atlantalindi |
 | 158 | 1056 | Cece Fowler |
 | 159 | 1054 | Eartha Brown |
-| 160 | 1053 | Gotcha |
-| 161 | 1053 | Yolanda E Fergerson |
-| 162 | 1045 | Joy Citizen Pickney |
-| 163 | 1021 | Jeffrey Barrows |
-| 164 | 1012 | Jaida De'Anne Cox |
-| 165 | 1007 | Ty Øtg |
-| 166 | 1004 | Antonia Wyche |
-| 167 | 994 | GrkGdess |
-| 168 | 994 | Dulo |
+| 160 | 1054 | Dulo |
+| 161 | 1053 | Gotcha |
+| 162 | 1053 | Yolanda E Fergerson |
+| 163 | 1045 | Joy Citizen Pickney |
+| 164 | 1021 | Jeffrey Barrows |
+| 165 | 1012 | Jaida De'Anne Cox |
+| 166 | 1007 | Ty Øtg |
+| 167 | 1004 | Antonia Wyche |
+| 168 | 994 | GrkGdess |
 | 169 | 992 | Danielle Barthelme |
 | 170 | 977 | Kellie Hall |
 | 171 | 973 | No_Other_Choice |
@@ -233,9 +233,9 @@
 | 225 | 740 | Felicia Cain |
 | 226 | 739 | David Fuentes |
 | 227 | 737 | izzybella |
-| 228 | 730 | ing410 |
-| 229 | 717 | Tammye Turner |
-| 230 | 712 | Smiley3000 |
+| 228 | 732 | Smiley3000 |
+| 229 | 730 | ing410 |
+| 230 | 717 | Tammye Turner |
 | 231 | 711 | Chirpy Corner |
 | 232 | 710 | Block King |
 | 233 | 702 | Johnathan Deese |
