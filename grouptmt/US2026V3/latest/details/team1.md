@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 22:24:25 UTC
+# Standings for team1 as of 2026-06-11 22:25:24 UTC
 
 **Total Participants:** 2543
 
@@ -166,8 +166,8 @@
 | 158 | 1220 | Christana Imjustbutton Stone |
 | 159 | 1170 | boogeywoogey |
 | 160 | 1160 | Danielle Barthelme |
-| 161 | 1154 | Atlantalindi |
-| 162 | 1149 | Quirky Fallgrid |
+| 161 | 1159 | Quirky Fallgrid |
+| 162 | 1154 | Atlantalindi |
 | 163 | 1147 | Kaleisha Smith |
 | 164 | 1142 | Yasmin Nakea Wright |
 | 165 | 1126 | Keke Ferguson |
@@ -690,21 +690,21 @@
 | 682 | 308 | Spicy Shatterblock |
 | 683 | 308 | Melissa Olvera |
 | 684 | 307 | Juicy |
-| 685 | 307 | Coco |
-| 686 | 306 | Rachael R Gull |
-| 687 | 306 | Mafio SO |
-| 688 | 306 | Zappy Clearfit |
-| 689 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 690 | 305 | BonnieB |
-| 691 | 305 | Shalena Marie Humphrey |
-| 692 | 304 | BB |
-| 693 | 304 | Octavia Bsb Johnson |
+| 685 | 307 | Octavia Bsb Johnson |
+| 686 | 307 | Coco |
+| 687 | 306 | Rachael R Gull |
+| 688 | 306 | Mafio SO |
+| 689 | 306 | Zappy Clearfit |
+| 690 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 691 | 305 | BonnieB |
+| 692 | 305 | Shalena Marie Humphrey |
+| 693 | 304 | BB |
 | 694 | 303 | Chris Nelson |
 | 695 | 303 | crumb bumc |
 | 696 | 303 | Kelley Johnson |
 | 697 | 301 | Monica Fields |
-| 698 | 301 | Lilly Brown |
-| 699 | 301 | Rufus |
+| 698 | 301 | Rufus |
+| 699 | 301 | Lilly Brown |
 | 700 | 300 | Quitito1014 |
 | 701 | 300 | Phillip White |
 | 702 | 300 | Cheryl Miller |
@@ -984,44 +984,44 @@
 | 976 | 200 | Shadon McMillan |
 | 977 | 200 | Desi Guerra |
 | 978 | 200 | Kyle Conley |
-| 979 | 200 | Tory Miller |
-| 980 | 200 | Chill Curvebuilder |
-| 981 | 199 | Delitra Perkins Hatter |
-| 982 | 199 | Missy Myvette |
-| 983 | 198 | Biggestboss Ransom |
-| 984 | 198 | Heru Ogun Yeshua EL |
-| 985 | 198 | Peppy Wipeblock |
-| 986 | 196 | Amaadi Ward |
-| 987 | 196 | Katness |
-| 988 | 196 | Jodie |
-| 989 | 196 | Arlea Mann |
-| 990 | 196 | Locke Mahal LD |
+| 979 | 200 | The goat |
+| 980 | 200 | Tory Miller |
+| 981 | 200 | Chill Curvebuilder |
+| 982 | 199 | Delitra Perkins Hatter |
+| 983 | 199 | Missy Myvette |
+| 984 | 198 | Biggestboss Ransom |
+| 985 | 198 | Heru Ogun Yeshua EL |
+| 986 | 198 | Peppy Wipeblock |
+| 987 | 196 | Amaadi Ward |
+| 988 | 196 | Katness |
+| 989 | 196 | Jodie |
+| 990 | 196 | Arlea Mann |
 | 991 | 196 | Tray Tolliver |
-| 992 | 196 | Jerome Lewis |
+| 992 | 196 | Crafty Witch |
 | 993 | 196 | Sylvia Offically A Mcgowan |
-| 994 | 196 | Crafty Witch |
-| 995 | 195 | Fatty May |
-| 996 | 195 | Ashanti Eden |
-| 997 | 195 | Lucy Range |
-| 998 | 194 | Cm |
-| 999 | 194 | Mark Steven Pichler |
-| 1000 | 193 | Swanky Glide |
-| 1001 | 192 | QueenzMo |
+| 994 | 196 | Jerome Lewis |
+| 995 | 196 | Locke Mahal LD |
+| 996 | 195 | Lucy Range |
+| 997 | 195 | Ashanti Eden |
+| 998 | 195 | Fatty May |
+| 999 | 194 | Cm |
+| 1000 | 194 | Mark Steven Pichler |
+| 1001 | 193 | Swanky Glide |
 | 1002 | 192 | TRUBBLE45 |
-| 1003 | 192 | Ashley Love Pettit |
-| 1004 | 192 | Williams Candace |
-| 1005 | 192 | The goat |
-| 1006 | 192 | Pinky Pink |
+| 1003 | 192 | QueenzMo |
+| 1004 | 192 | Ashley Love Pettit |
+| 1005 | 192 | Williams Candace |
+| 1006 | 192 | Taylor Jordan Hollis |
 | 1007 | 192 | Mike Hromowyk |
-| 1008 | 192 | Taylor Jordan Hollis |
-| 1009 | 191 | Brandi M. Boney |
-| 1010 | 191 | Dee Dee |
+| 1008 | 192 | Pinky Pink |
+| 1009 | 191 | Dee Dee |
+| 1010 | 191 | Brandi M. Boney |
 | 1011 | 191 | Christopher Shaw-Black |
 | 1012 | 191 | Mumitt |
-| 1013 | 190 | West Racks |
-| 1014 | 190 | Spicy Tiler |
-| 1015 | 190 | Chipper Clicker |
-| 1016 | 190 | Samona Mcculler |
+| 1013 | 190 | Samona Mcculler |
+| 1014 | 190 | Chipper Clicker |
+| 1015 | 190 | Spicy Tiler |
+| 1016 | 190 | West Racks |
 | 1017 | 190 | Batty B |
 | 1018 | 190 | Sarah Guarino |
 | 1019 | 190 | Chipper Snapper |
@@ -1549,21 +1549,21 @@
 | 1541 | 78 | Mary Kimmons |
 | 1542 | 78 | Jose González |
 | 1543 | 78 | Bubbly Crawler |
-| 1544 | 78 | Angela C. |
-| 1545 | 78 | Jateerah Davis |
-| 1546 | 77 | kiki |
-| 1547 | 77 | Lil T |
-| 1548 | 77 | Laura Long |
-| 1549 | 77 | Neesii |
-| 1550 | 77 | Frilly Mover |
-| 1551 | 77 | Shemeka Bates |
-| 1552 | 77 | Chirpy Pivot |
-| 1553 | 77 | Clever Wrecker |
-| 1554 | 77 | Alturas Supremenineteen Banks |
-| 1555 | 76 | Crystal Ann |
-| 1556 | 76 | Christina Tyler |
-| 1557 | 76 | Mama P |
-| 1558 | 76 | Jacqueline Gory |
+| 1544 | 78 | Jacqueline Gory |
+| 1545 | 78 | Angela C. |
+| 1546 | 78 | Jateerah Davis |
+| 1547 | 77 | kiki |
+| 1548 | 77 | Lil T |
+| 1549 | 77 | Laura Long |
+| 1550 | 77 | Neesii |
+| 1551 | 77 | Frilly Mover |
+| 1552 | 77 | Shemeka Bates |
+| 1553 | 77 | Chirpy Pivot |
+| 1554 | 77 | Clever Wrecker |
+| 1555 | 77 | Alturas Supremenineteen Banks |
+| 1556 | 76 | Crystal Ann |
+| 1557 | 76 | Christina Tyler |
+| 1558 | 76 | Mama P |
 | 1559 | 76 | Joseph Ware Jr. |
 | 1560 | 76 | luc |
 | 1561 | 76 | RealOne95 |
@@ -1792,30 +1792,30 @@
 | 1784 | 51 | Hasaan Jones |
 | 1785 | 51 | James Leggett |
 | 1786 | 51 | Beth Ingham |
-| 1787 | 51 | Karrie Anne |
-| 1788 | 51 | star |
-| 1789 | 50 | ThaMENACING1 |
-| 1790 | 50 | Terry Lee Moya |
-| 1791 | 50 | Jädaa Laa'Destïnyy |
-| 1792 | 50 | Danny Kerns Jr. |
-| 1793 | 50 | Hoppy Combo |
-| 1794 | 50 | TrapQween39Bi |
-| 1795 | 50 | Jazzy Snapbuild |
-| 1796 | 50 | Aero Builder |
-| 1797 | 50 | Melissa Embrey |
-| 1798 | 49 | Carl Richardson |
-| 1799 | 49 | Dizzy Ziggy |
-| 1800 | 49 | Lush Buildsnap |
-| 1801 | 49 | Temeshia Brooks Washington |
-| 1802 | 49 | Brika Brika |
-| 1803 | 49 | Boldy Zoner |
+| 1787 | 51 | Dizzy Ziggy |
+| 1788 | 51 | Karrie Anne |
+| 1789 | 51 | star |
+| 1790 | 50 | ThaMENACING1 |
+| 1791 | 50 | Terry Lee Moya |
+| 1792 | 50 | Jädaa Laa'Destïnyy |
+| 1793 | 50 | Danny Kerns Jr. |
+| 1794 | 50 | Hoppy Combo |
+| 1795 | 50 | Aero Builder |
+| 1796 | 50 | Jazzy Snapbuild |
+| 1797 | 50 | TrapQween39Bi |
+| 1798 | 50 | Melissa Embrey |
+| 1799 | 49 | Boldy Zoner |
+| 1800 | 49 | Carl Richardson |
+| 1801 | 49 | Brika Brika |
+| 1802 | 49 | Lush Buildsnap |
+| 1803 | 49 | Temeshia Brooks Washington |
 | 1804 | 48 | Michelle Ellehcim |
-| 1805 | 48 | Jumpy Striker |
-| 1806 | 48 | Jolly Combo |
-| 1807 | 48 | Deidre Anderson |
-| 1808 | 48 | Narena Desertsong |
-| 1809 | 47 | AnatB |
-| 1810 | 47 | Leonard R. Chanette |
+| 1805 | 48 | Narena Desertsong |
+| 1806 | 48 | Deidre Anderson |
+| 1807 | 48 | Jolly Combo |
+| 1808 | 48 | Jumpy Striker |
+| 1809 | 47 | Leonard R. Chanette |
+| 1810 | 47 | AnatB |
 | 1811 | 47 | Major314 |
 | 1812 | 47 | Hyper Cluster |
 | 1813 | 47 | Queen |
