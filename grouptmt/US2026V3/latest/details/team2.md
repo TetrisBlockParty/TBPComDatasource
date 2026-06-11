@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 16:32:50 UTC
+# Standings for team2 as of 2026-06-11 16:33:25 UTC
 
 **Total Participants:** 2983
 
@@ -182,7 +182,7 @@
 | 174 | 1270 | Joslyn Johnson |
 | 175 | 1269 | Snappy Blockbuilder |
 | 176 | 1259 | Marie Luciano |
-| 177 | 1253 | Jackie Tupper |
+| 177 | 1255 | Jackie Tupper |
 | 178 | 1251 | Ricardo Ewart |
 | 179 | 1246 | Monique Frantz |
 | 180 | 1234 | Spicy Risegrid |
@@ -332,17 +332,17 @@
 | 324 | 709 | Jeffrey Smith |
 | 325 | 705 | Lyric Price |
 | 326 | 701 | Churube Finwoiisopw |
-| 327 | 700 | Sarah Rodriguez |
+| 327 | 701 | Tara |
 | 328 | 700 | Rachel Nilles |
-| 329 | 698 | giamy |
-| 330 | 694 | Samantha Bugg Stitcher |
-| 331 | 692 | Speedy Spinfit |
-| 332 | 691 | Wacky Tumbler |
-| 333 | 689 | Nutty Dash |
-| 334 | 687 | Zach Jewett |
-| 335 | 686 | Tara |
-| 336 | 682 | Jeff Pottgether |
-| 337 | 682 | Aurora June Brock |
+| 329 | 700 | Sarah Rodriguez |
+| 330 | 698 | giamy |
+| 331 | 694 | Samantha Bugg Stitcher |
+| 332 | 692 | Speedy Spinfit |
+| 333 | 691 | Wacky Tumbler |
+| 334 | 689 | Nutty Dash |
+| 335 | 687 | Zach Jewett |
+| 336 | 682 | Aurora June Brock |
+| 337 | 682 | Jeff Pottgether |
 | 338 | 681 | Thy Bui |
 | 339 | 679 | Michelle Rich Burkhart |
 | 340 | 678 | Greta Warden |
@@ -968,35 +968,35 @@
 | 960 | 248 | Jeannine Murphy |
 | 961 | 247 | Alycia Marie Zelensky |
 | 962 | 247 | Julie Lint |
-| 963 | 247 | Laura Melton |
-| 964 | 247 | Amanda Neal |
-| 965 | 246 | Sara Dunn |
-| 966 | 246 | Chad Atchley |
-| 967 | 246 | Nichole Fuller |
-| 968 | 246 | Alisha Shelton |
-| 969 | 246 | Anita Blackshear |
-| 970 | 246 | Spicy Wrecker |
-| 971 | 246 | Terie Safrit |
+| 963 | 247 | Spicy Wrecker |
+| 964 | 247 | Laura Melton |
+| 965 | 247 | Amanda Neal |
+| 966 | 246 | Sara Dunn |
+| 967 | 246 | Chad Atchley |
+| 968 | 246 | Nichole Fuller |
+| 969 | 246 | Terie Safrit |
+| 970 | 246 | Anita Blackshear |
+| 971 | 246 | Alisha Shelton |
 | 972 | 245 | Jenn Mccarty |
-| 973 | 244 | Rocroc mo |
-| 974 | 244 | Destiny Turner |
-| 975 | 243 | Stephanie Smith Robinson |
-| 976 | 243 | Coleta Singleton-Gallishaw |
-| 977 | 243 | Silly square |
-| 978 | 243 | Michelle |
+| 973 | 244 | Destiny Turner |
+| 974 | 244 | Rocroc mo |
+| 975 | 243 | Coleta Singleton-Gallishaw |
+| 976 | 243 | Stephanie Smith Robinson |
+| 977 | 243 | Michelle |
+| 978 | 243 | Silly square |
 | 979 | 243 | Brenda Zona |
 | 980 | 242 | Dandy Tiltgrid |
 | 981 | 242 | Bouncy Cluster |
-| 982 | 241 | Christina Reid |
-| 983 | 241 | Heather Billodeau |
+| 982 | 241 | Heather Billodeau |
+| 983 | 241 | Christina Reid |
 | 984 | 241 | Jazzy |
 | 985 | 241 | Groovy Glider |
 | 986 | 240 | Jason P. Schwartz |
 | 987 | 240 | Rhonda Driskill |
-| 988 | 240 | Ava |
-| 989 | 240 | Tami Leontyuk |
-| 990 | 240 | Katie Thacker |
-| 991 | 240 | Debbie Davis |
+| 988 | 240 | Tami Leontyuk |
+| 989 | 240 | Katie Thacker |
+| 990 | 240 | Debbie Davis |
+| 991 | 240 | Ava |
 | 992 | 239 | Mary Stump |
 | 993 | 239 | Jolly Balanceblock |
 | 994 | 238 | SaraAnn Gray Philbrick |
@@ -1358,46 +1358,46 @@
 | 1350 | 161 | Tipsy Tower |
 | 1351 | 161 | Licia |
 | 1352 | 161 | TyGur the Tony |
-| 1353 | 160 | Frank Laverty |
-| 1354 | 160 | Tipsy Twistbuilder |
-| 1355 | 160 | Amanda Gann |
-| 1356 | 160 | Gloria Appleton |
-| 1357 | 160 | mee |
-| 1358 | 160 | Lori Rose |
-| 1359 | 160 | Christi Hooper |
-| 1360 | 160 | Casie |
-| 1361 | 160 | Twisty Glider |
-| 1362 | 160 | Nerdy Spinfit |
-| 1363 | 160 | Gino Positano |
-| 1364 | 160 | Liliana Mills |
-| 1365 | 160 | Chey22 |
-| 1366 | 160 | Denise Baker |
-| 1367 | 160 | Elizabeth Cornelius |
-| 1368 | 160 | Charith Lorelle Watson |
-| 1369 | 160 | Michelle Fry-Cash |
-| 1370 | 160 | Amber Simonton |
-| 1371 | 160 | Dan Ramsey |
-| 1372 | 160 | Billie Jensen |
-| 1373 | 159 | Tabitha Porter |
+| 1353 | 161 | Anthony Kordich |
+| 1354 | 160 | Elizabeth Cornelius |
+| 1355 | 160 | Charith Lorelle Watson |
+| 1356 | 160 | Michelle Fry-Cash |
+| 1357 | 160 | Amber Simonton |
+| 1358 | 160 | Dan Ramsey |
+| 1359 | 160 | Billie Jensen |
+| 1360 | 160 | Frank Laverty |
+| 1361 | 160 | Tipsy Twistbuilder |
+| 1362 | 160 | Amanda Gann |
+| 1363 | 160 | Gloria Appleton |
+| 1364 | 160 | mee |
+| 1365 | 160 | Lori Rose |
+| 1366 | 160 | Christi Hooper |
+| 1367 | 160 | Casie |
+| 1368 | 160 | Twisty Glider |
+| 1369 | 160 | Nerdy Spinfit |
+| 1370 | 160 | Gino Positano |
+| 1371 | 160 | Liliana Mills |
+| 1372 | 160 | Chey22 |
+| 1373 | 160 | Denise Baker |
 | 1374 | 159 | Daniel Cline |
 | 1375 | 159 | Jennifer Lauzon |
 | 1376 | 159 | Misty Noe |
-| 1377 | 158 | Jennifer Lewellyn Hutchins |
-| 1378 | 158 | Shelby Woo |
-| 1379 | 158 | Countrybling77 |
-| 1380 | 157 | Twisty Blockpiece |
-| 1381 | 157 | blockrocker |
-| 1382 | 157 | Stacey Loretta Wallace |
-| 1383 | 156 | Brandy Moore |
-| 1384 | 156 | Spryng Cox |
-| 1385 | 156 | Blocker |
-| 1386 | 155 | Gammawms |
-| 1387 | 155 | Brooke Burge |
-| 1388 | 155 | Jason Janssen |
-| 1389 | 155 | Wendy Morrison |
-| 1390 | 155 | Mel |
-| 1391 | 155 | Tish |
-| 1392 | 155 | Anthony Kordich |
+| 1377 | 159 | Tabitha Porter |
+| 1378 | 158 | Jennifer Lewellyn Hutchins |
+| 1379 | 158 | Shelby Woo |
+| 1380 | 158 | Countrybling77 |
+| 1381 | 157 | Twisty Blockpiece |
+| 1382 | 157 | blockrocker |
+| 1383 | 157 | Stacey Loretta Wallace |
+| 1384 | 156 | Brandy Moore |
+| 1385 | 156 | Spryng Cox |
+| 1386 | 156 | Blocker |
+| 1387 | 155 | Gammawms |
+| 1388 | 155 | Brooke Burge |
+| 1389 | 155 | Jason Janssen |
+| 1390 | 155 | Wendy Morrison |
+| 1391 | 155 | Mel |
+| 1392 | 155 | Tish |
 | 1393 | 154 | Beej Blake |
 | 1394 | 154 | Purpleroyalty11 |
 | 1395 | 154 | Carrie Rutter-Bail |
