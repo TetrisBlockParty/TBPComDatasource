@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:24:41 UTC
+# Standings for team1 as of 2026-06-11 11:25:20 UTC
 
 **Total Participants:** 2477
 
@@ -59,7 +59,7 @@
 | 51 | 2900 | Rosey |
 | 52 | 2680 | Jamie Willis |
 | 53 | 2672 | Epic Snapfall |
-| 54 | 2639 | Chris Caniglia |
+| 54 | 2647 | Chris Caniglia |
 | 55 | 2630 | Snappy Link |
 | 56 | 2625 | Blockhead |
 | 57 | 2619 | Zappy Brickline |
@@ -949,120 +949,120 @@
 | 941 | 199 | Delitra Perkins Hatter |
 | 942 | 198 | Heru Ogun Yeshua EL |
 | 943 | 198 | Biggestboss Ransom |
-| 944 | 197 | Crtjstr |
-| 945 | 197 | Sara |
-| 946 | 197 | Sheesh |
-| 947 | 197 | krd |
-| 948 | 196 | Tray Tolliver |
-| 949 | 196 | Sylvia Offically A Mcgowan |
-| 950 | 196 | Locke Mahal LD |
-| 951 | 196 | Katness |
+| 944 | 197 | krd |
+| 945 | 197 | Sheesh |
+| 946 | 197 | Crtjstr |
+| 947 | 197 | Sara |
+| 948 | 196 | Katness |
+| 949 | 196 | Locke Mahal LD |
+| 950 | 196 | Sylvia Offically A Mcgowan |
+| 951 | 196 | Tray Tolliver |
 | 952 | 196 | Arlea Mann |
 | 953 | 195 | Lucy Range |
 | 954 | 195 | Danny M GR |
 | 955 | 195 | Fatty May |
 | 956 | 195 | Jaxon Antuna |
-| 957 | 194 | Mark Steven Pichler |
-| 958 | 194 | Ernie Waters |
+| 957 | 194 | Ernie Waters |
+| 958 | 194 | Mark Steven Pichler |
 | 959 | 193 | Swanky Glide |
 | 960 | 192 | Kanesha Jackson |
-| 961 | 192 | Williams Candace |
-| 962 | 192 | Ashley Love Pettit |
+| 961 | 192 | Ashley Love Pettit |
+| 962 | 192 | Williams Candace |
 | 963 | 192 | Mike Hromowyk |
 | 964 | 192 | QueenzMo |
-| 965 | 191 | 214Petty |
-| 966 | 191 | Jane Lame |
-| 967 | 190 | Chipper Clicker |
+| 965 | 191 | Jane Lame |
+| 966 | 191 | 214Petty |
+| 967 | 190 | Shauntai Holiday |
 | 968 | 190 | Samona Mcculler |
-| 969 | 190 | Shauntai Holiday |
-| 970 | 190 | Spicy Tiler |
-| 971 | 190 | Chipper Snapper |
-| 972 | 190 | West Racks |
-| 973 | 190 | Batty B |
+| 969 | 190 | West Racks |
+| 970 | 190 | Chipper Clicker |
+| 971 | 190 | Batty B |
+| 972 | 190 | Chipper Snapper |
+| 973 | 190 | Spicy Tiler |
 | 974 | 189 | Vannie G |
 | 975 | 189 | Sean White |
 | 976 | 189 | Naee Bee |
-| 977 | 188 | Jennifer Rogers |
-| 978 | 188 | AimlessRain |
-| 979 | 188 | Mikemike Zonethree |
-| 980 | 187 | Melissa Ramsey |
-| 981 | 187 | Jamesha Lawrence |
-| 982 | 187 | Lively Riserpiece |
-| 983 | 187 | TRUBBLE45 |
+| 977 | 188 | Mikemike Zonethree |
+| 978 | 188 | Jennifer Rogers |
+| 979 | 188 | AimlessRain |
+| 980 | 187 | Jamesha Lawrence |
+| 981 | 187 | Lively Riserpiece |
+| 982 | 187 | TRUBBLE45 |
+| 983 | 187 | Melissa Ramsey |
 | 984 | 186 | Morenita Rodriguez |
 | 985 | 186 | Kizzy Clark |
 | 986 | 185 | Mississippigirl Countrygirl |
-| 987 | 185 | Dapper Matchfit |
-| 988 | 185 | AleahKCH |
+| 987 | 185 | AleahKCH |
+| 988 | 185 | Dapper Matchfit |
 | 989 | 185 | Jess |
-| 990 | 183 | Angela L Charles |
-| 991 | 183 | Cm |
-| 992 | 183 | Sally Elizabeth Hopson |
-| 993 | 183 | Twisty Dashy |
-| 994 | 183 | Amihan |
+| 990 | 183 | Twisty Dashy |
+| 991 | 183 | Amihan |
+| 992 | 183 | Cm |
+| 993 | 183 | Angela L Charles |
+| 994 | 183 | Sally Elizabeth Hopson |
 | 995 | 182 | Ashanti Eden |
-| 996 | 182 | JesusSaves 😇 |
-| 997 | 182 | Comedian Prince Paul |
-| 998 | 182 | Callie Mae |
-| 999 | 182 | Nedine Ray |
-| 1000 | 182 | Audrey Gestring |
-| 1001 | 181 | Marc Papa |
+| 996 | 182 | Comedian Prince Paul |
+| 997 | 182 | Callie Mae |
+| 998 | 182 | JesusSaves 😇 |
+| 999 | 182 | Audrey Gestring |
+| 1000 | 182 | Nedine Ray |
+| 1001 | 181 | Maria Baez Medina |
 | 1002 | 181 | Abdul Malik |
 | 1003 | 181 | Tamyka E Williams |
 | 1004 | 181 | Rosanna Ringold |
 | 1005 | 181 | Peppy Wipeblock |
-| 1006 | 181 | Maria Baez Medina |
+| 1006 | 181 | Marc Papa |
 | 1007 | 180 | Keith Big-Sixx Mackell |
 | 1008 | 180 | Hasty Pivoty |
-| 1009 | 179 | Kahh |
-| 1010 | 179 | Mumitt |
-| 1011 | 179 | Wacky Stackbuilder |
-| 1012 | 179 | Lively Rollpiece |
-| 1013 | 179 | Boymama917 |
+| 1009 | 179 | Boymama917 |
+| 1010 | 179 | Kahh |
+| 1011 | 179 | Lively Rollpiece |
+| 1012 | 179 | Mumitt |
+| 1013 | 179 | Wacky Stackbuilder |
 | 1014 | 178 | Tyrone Porter |
 | 1015 | 178 | TotoCherue |
 | 1016 | 177 | nashsr |
 | 1017 | 176 | Taylor Jordan Hollis |
-| 1018 | 176 | April Lane |
-| 1019 | 176 | Frisky Gridder |
+| 1018 | 176 | Frisky Gridder |
+| 1019 | 176 | April Lane |
 | 1020 | 175 | Melvin Simpson |
 | 1021 | 175 | DaemahnFriday |
-| 1022 | 174 | Austin Smith |
+| 1022 | 174 | Hoppy Rumbler |
 | 1023 | 174 | Hasty Brickzone |
-| 1024 | 173 | Brandi M. Boney |
+| 1024 | 174 | Austin Smith |
 | 1025 | 173 | Latanya Gayle |
-| 1026 | 173 | Damien Fonseca |
-| 1027 | 171 | Shanell Thomas |
-| 1028 | 171 | Pinky Pink |
-| 1029 | 171 | Sharon Lynn |
-| 1030 | 171 | Margretta Henry |
+| 1026 | 173 | Brandi M. Boney |
+| 1027 | 173 | Damien Fonseca |
+| 1028 | 171 | Sharon Lynn |
+| 1029 | 171 | Pinky Pink |
+| 1030 | 171 | Shanell Thomas |
 | 1031 | 171 | Deihja Weaver |
-| 1032 | 170 | Devron Reedy |
+| 1032 | 171 | Margretta Henry |
 | 1033 | 170 | Shawna Passwater |
-| 1034 | 170 | Aaron Sohnrey |
-| 1035 | 170 | Sarah Guarino |
-| 1036 | 169 | Latricia George |
-| 1037 | 169 | rb |
-| 1038 | 169 | LAhoneybun82 |
-| 1039 | 169 | Amilia Cruz |
+| 1034 | 170 | Devron Reedy |
+| 1035 | 170 | Aaron Sohnrey |
+| 1036 | 170 | Sarah Guarino |
+| 1037 | 169 | Amilia Cruz |
+| 1038 | 169 | rb |
+| 1039 | 169 | LAhoneybun82 |
 | 1040 | 169 | Nicole Coko Thomas |
-| 1041 | 168 | Crafty Witch |
-| 1042 | 167 | Shadena M Carter Mba |
+| 1041 | 169 | Latricia George |
+| 1042 | 168 | Crafty Witch |
 | 1043 | 167 | Felicia Woods |
-| 1044 | 167 | LexiiSamayaa |
-| 1045 | 167 | Hoppy Rumbler |
+| 1044 | 167 | Shadena M Carter Mba |
+| 1045 | 167 | LexiiSamayaa |
 | 1046 | 167 | Richelle Beck |
 | 1047 | 166 | Cheery T-spin |
 | 1048 | 166 | Amaadi Ward |
 | 1049 | 166 | Elizabeth AW |
 | 1050 | 165 | Dawn Basemore |
-| 1051 | 165 | Jerome Lewis |
-| 1052 | 165 | Wacky Wipepiece |
-| 1053 | 164 | Bianca Nawlinsgurl Ferguson |
-| 1054 | 164 | Esha I'msoproudofmyself Davis |
-| 1055 | 164 | Kidgib5 |
-| 1056 | 164 | Markeita Jones |
-| 1057 | 164 | Jodie |
+| 1051 | 165 | Wacky Wipepiece |
+| 1052 | 165 | Jerome Lewis |
+| 1053 | 164 | Kidgib5 |
+| 1054 | 164 | Bianca Nawlinsgurl Ferguson |
+| 1055 | 164 | Jodie |
+| 1056 | 164 | Esha I'msoproudofmyself Davis |
+| 1057 | 164 | Markeita Jones |
 | 1058 | 163 | Kathleen Boyles |
 | 1059 | 162 | L-Kamice Boykin |
 | 1060 | 162 | Jasmine Hariston-Estis |
