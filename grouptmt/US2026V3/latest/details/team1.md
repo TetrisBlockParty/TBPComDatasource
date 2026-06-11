@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:54:21 UTC
+# Standings for team1 as of 2026-06-11 09:54:47 UTC
 
 **Total Participants:** 2470
 
@@ -120,11 +120,11 @@
 | 112 | 1497 | Rolanda Williams |
 | 113 | 1496 | Dawn L Washington-Feuquay |
 | 114 | 1494 | Robbie Cheeseman |
-| 115 | 1473 | rls |
-| 116 | 1469 | Roberta Lynn |
-| 117 | 1467 | Crystal Boyd |
-| 118 | 1454 | Spicy Balancer |
-| 119 | 1434 | Dulo |
+| 115 | 1474 | Dulo |
+| 116 | 1473 | rls |
+| 117 | 1469 | Roberta Lynn |
+| 118 | 1467 | Crystal Boyd |
+| 119 | 1454 | Spicy Balancer |
 | 120 | 1434 | Anthony Washington |
 | 121 | 1432 | She Higgy |
 | 122 | 1426 | Sarah Marie |

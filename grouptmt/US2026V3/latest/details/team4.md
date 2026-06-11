@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:54:21 UTC
+# Standings for team4 as of 2026-06-11 09:54:47 UTC
 
 **Total Participants:** 2506
 
@@ -618,52 +618,52 @@
 | 610 | 311 | Nicole Colby McCloskey |
 | 611 | 311 | LeRoy jenkins |
 | 612 | 310 | Angela Adamo-Tash |
-| 613 | 308 | JIGsaw ~(•¿°)~ |
-| 614 | 306 | Jordan Tamayia Williams |
-| 615 | 306 | Susan Stofberg Beltran |
-| 616 | 304 | Loopy Clusterline |
-| 617 | 304 | Kandylands |
-| 618 | 303 | Diana Fernandez |
-| 619 | 302 | Cari Underwood |
-| 620 | 302 | Susan Mary Kelley |
-| 621 | 302 | Kierra Evans |
-| 622 | 302 | Leasa Marie |
-| 623 | 301 | King |
-| 624 | 300 | Joshua Garner |
-| 625 | 300 | Jennifer Evans Elliott |
-| 626 | 300 | Ada Rodriguez Spradley |
+| 613 | 309 | Alexis Siefker |
+| 614 | 308 | JIGsaw ~(•¿°)~ |
+| 615 | 306 | Jordan Tamayia Williams |
+| 616 | 306 | Susan Stofberg Beltran |
+| 617 | 304 | Loopy Clusterline |
+| 618 | 304 | Kandylands |
+| 619 | 303 | Diana Fernandez |
+| 620 | 302 | Cari Underwood |
+| 621 | 302 | Susan Mary Kelley |
+| 622 | 302 | Kierra Evans |
+| 623 | 302 | Leasa Marie |
+| 624 | 301 | King |
+| 625 | 300 | Joshua Garner |
+| 626 | 300 | Jennifer Evans Elliott |
 | 627 | 300 | Alice Eisnor-Martens |
-| 628 | 300 | Kiara Itzel Crowe |
-| 629 | 299 | Jacinta Hooker-Brown |
-| 630 | 298 | Elissa Danks |
-| 631 | 298 | Brenda Gustamantes |
-| 632 | 298 | PsyDMom |
-| 633 | 298 | Snippy Racker |
-| 634 | 297 | Swanky Snapgrid |
-| 635 | 297 | Playa |
-| 636 | 295 | Redhead girl |
-| 637 | 295 | Carmen Angelica Sosa |
-| 638 | 295 | Heather Garrity |
-| 639 | 294 | Edward White |
-| 640 | 294 | Erika Rubio |
-| 641 | 294 | Mrs |
-| 642 | 292 | Rachel Lemos |
-| 643 | 292 | Nessa Smith |
-| 644 | 292 | All knowing |
-| 645 | 289 | DrC |
-| 646 | 289 | Alexis Siefker |
+| 628 | 300 | Ada Rodriguez Spradley |
+| 629 | 300 | Kiara Itzel Crowe |
+| 630 | 299 | Jacinta Hooker-Brown |
+| 631 | 298 | Elissa Danks |
+| 632 | 298 | Brenda Gustamantes |
+| 633 | 298 | PsyDMom |
+| 634 | 298 | Snippy Racker |
+| 635 | 297 | Swanky Snapgrid |
+| 636 | 297 | Playa |
+| 637 | 295 | Redhead girl |
+| 638 | 295 | Carmen Angelica Sosa |
+| 639 | 295 | Heather Garrity |
+| 640 | 294 | Edward White |
+| 641 | 294 | Erika Rubio |
+| 642 | 294 | Mrs |
+| 643 | 292 | Rachel Lemos |
+| 644 | 292 | Nessa Smith |
+| 645 | 292 | All knowing |
+| 646 | 289 | DrC |
 | 647 | 289 | Mighty1 |
 | 648 | 289 | Will E Ayala |
 | 649 | 288 | Happy Shatterfit |
 | 650 | 288 | Corie A. Brinson |
 | 651 | 288 | MattJennifer Marie Ericson |
-| 652 | 288 | Sarah |
-| 653 | 288 | Andretta Sellers Robinson |
+| 652 | 288 | Andretta Sellers Robinson |
+| 653 | 288 | Sarah |
 | 654 | 287 | sierrabeth |
 | 655 | 287 | Mc3003 |
 | 656 | 287 | Jeremy Barry |
-| 657 | 286 | DizzB400 |
-| 658 | 286 | Gean DeJesus |
+| 657 | 286 | Gean DeJesus |
+| 658 | 286 | DizzB400 |
 | 659 | 285 | Brainbabe |
 | 660 | 285 | JoJo Hutson |
 | 661 | 283 | Chris McBlockster |
@@ -671,8 +671,8 @@
 | 663 | 282 | David Lay |
 | 664 | 281 | Andrea Dre Lomeli |
 | 665 | 281 | Margie Thomas |
-| 666 | 281 | Anthony Edwards |
-| 667 | 281 | Raising Stars |
+| 666 | 281 | Raising Stars |
+| 667 | 281 | Anthony Edwards |
 | 668 | 280 | Jimmy Clark |
 | 669 | 280 | Giddy Basepiece |
 | 670 | 280 | Sharon Tyler |
@@ -686,28 +686,28 @@
 | 678 | 275 | Taisha Beasley |
 | 679 | 275 | Kelli Hurt |
 | 680 | 275 | Marcus Fontenot |
-| 681 | 274 | Dominique Summers Tah-tah |
+| 681 | 274 | Zesty Lift |
 | 682 | 274 | Sarah Montagne Forsberg |
-| 683 | 274 | Kiki Moore |
-| 684 | 274 | Zesty Lift |
-| 685 | 274 | Mmm |
+| 683 | 274 | Mmm |
+| 684 | 274 | Kiki Moore |
+| 685 | 274 | Dominique Summers Tah-tah |
 | 686 | 274 | Justin Ballard |
 | 687 | 273 | Blessedmom865 |
 | 688 | 273 | Kennita Cox |
 | 689 | 272 | Chelsea Costa |
-| 690 | 271 | Suzi Smas |
-| 691 | 271 | Adi Patterson |
+| 690 | 271 | Adi Patterson |
+| 691 | 271 | Suzi Smas |
 | 692 | 271 | Lord Solrac |
 | 693 | 270 | Tana-Marie Lynn McCarty-Rolf |
 | 694 | 270 | Loretta Hendricks |
 | 695 | 270 | Carissa Thorne-See |
 | 696 | 270 | Dawn Renee Thomas |
 | 697 | 269 | Chelle Williams |
-| 698 | 269 | Shia Marie |
-| 699 | 269 | Playful Raccoon |
-| 700 | 269 | Saucy Brickmatch |
-| 701 | 268 | Andreas Vs Shinky |
-| 702 | 268 | bribop |
+| 698 | 269 | Playful Raccoon |
+| 699 | 269 | Saucy Brickmatch |
+| 700 | 269 | Shia Marie |
+| 701 | 268 | bribop |
+| 702 | 268 | Andreas Vs Shinky |
 | 703 | 268 | Janae Harris |
 | 704 | 267 | Budda Huitt |
 | 705 | 266 | Trishaann Triplett |
@@ -951,11 +951,11 @@
 | 943 | 197 | Shawntae Mccary |
 | 944 | 197 | Yournightmare |
 | 945 | 197 | Street724 |
-| 946 | 197 | Alex Dawn |
-| 947 | 196 | Lilo |
-| 948 | 196 | Jeremy Fisher |
-| 949 | 196 | Tipsy Matchline |
-| 950 | 195 | Lizxxx |
+| 946 | 197 | Lizxxx |
+| 947 | 197 | Alex Dawn |
+| 948 | 196 | Lilo |
+| 949 | 196 | Jeremy Fisher |
+| 950 | 196 | Tipsy Matchline |
 | 951 | 195 | Emily Lowe |
 | 952 | 194 | Shirley Williams |
 | 953 | 194 | Jennifer Brucz |
