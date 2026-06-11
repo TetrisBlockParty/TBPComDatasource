@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:29:24 UTC
+# Standings for team1 as of 2026-06-11 11:30:42 UTC
 
 **Total Participants:** 2478
 
@@ -189,8 +189,8 @@
 | 181 | 946 | Smiley3000 |
 | 182 | 942 | Chuck Quarles |
 | 183 | 935 | Ebony Waynes-robinson |
-| 184 | 927 | Novaa |
-| 185 | 927 | Nobles Brandon |
+| 184 | 927 | Nobles Brandon |
+| 185 | 927 | Novaa |
 | 186 | 921 | win |
 | 187 | 913 | JaszyBadd |
 | 188 | 909 | Dandy Brickfit |
@@ -208,8 +208,8 @@
 | 200 | 849 | boogeywoogey |
 | 201 | 847 | Gael Quintana |
 | 202 | 845 | Tamara N Lee |
-| 203 | 837 | Clint Mcdowell |
-| 204 | 837 | Crystal Anderson |
+| 203 | 837 | Crystal Anderson |
+| 204 | 837 | Clint Mcdowell |
 | 205 | 834 | Jamal Itzjusmall Chambers |
 | 206 | 832 | Chantelle Lee |
 | 207 | 828 | Eugina Slater |
@@ -219,13 +219,13 @@
 | 211 | 813 | Choc |
 | 212 | 812 | Big Tina |
 | 213 | 808 | TT |
-| 214 | 804 | Sarah Clark |
-| 215 | 801 | Rachel Zimmerman |
+| 214 | 807 | Jazzy Fireflighters |
+| 215 | 804 | Sarah Clark |
 | 216 | 801 | BULLSEYE |
-| 217 | 799 | Mic Balew |
-| 218 | 798 | Zappy Riser |
-| 219 | 794 | Kevin M. McGhee Jr |
-| 220 | 787 | Jazzy Fireflighters |
+| 217 | 801 | Rachel Zimmerman |
+| 218 | 799 | Mic Balew |
+| 219 | 798 | Zappy Riser |
+| 220 | 794 | Kevin M. McGhee Jr |
 | 221 | 784 | Coco |
 | 222 | 777 | Johnathan Deese |
 | 223 | 775 | izzybella |
@@ -387,23 +387,23 @@
 | 379 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 380 | 468 | Christian Pham |
 | 381 | 464 | Devin West |
-| 382 | 464 | Michele Simpson |
-| 383 | 464 | Krista McNair |
+| 382 | 464 | Krista McNair |
+| 383 | 464 | Michele Simpson |
 | 384 | 461 | Shea Ladynick Henderson |
 | 385 | 461 | Bold Clusterer |
-| 386 | 460 | Janice Mowel Curtiss |
-| 387 | 460 | Boldy Liner |
-| 388 | 460 | SherylU |
-| 389 | 460 | Larina Cherie Johnson |
-| 390 | 457 | Saranoh13 |
-| 391 | 456 | Char |
-| 392 | 454 | Dacia Hicks |
-| 393 | 454 | MamushiOh |
-| 394 | 454 | Tonya McElroy |
-| 395 | 453 | Faith Armone |
-| 396 | 453 | Curtis T Cirno |
-| 397 | 452 | Kenny MrOnethousand Peck |
-| 398 | 451 | Kelli Couture |
+| 386 | 460 | Larina Cherie Johnson |
+| 387 | 460 | Kelli Couture |
+| 388 | 460 | Janice Mowel Curtiss |
+| 389 | 460 | Boldy Liner |
+| 390 | 460 | SherylU |
+| 391 | 457 | Saranoh13 |
+| 392 | 456 | Char |
+| 393 | 454 | Dacia Hicks |
+| 394 | 454 | MamushiOh |
+| 395 | 454 | Tonya McElroy |
+| 396 | 453 | Faith Armone |
+| 397 | 453 | Curtis T Cirno |
+| 398 | 452 | Kenny MrOnethousand Peck |
 | 399 | 449 | Brittnay Wright |
 | 400 | 448 | Brenda Malachi-butler |
 | 401 | 448 | Maribel Vasquez |
@@ -767,14 +767,14 @@
 | 759 | 257 | Mario Meliodas |
 | 760 | 257 | GetDaOPPS |
 | 761 | 257 | Chris Nelson |
-| 762 | 257 | Shemar Singleton |
-| 763 | 257 | Joka NoTime ForHataz |
+| 762 | 257 | Renee Marshall |
+| 763 | 257 | Shemar Singleton |
 | 764 | 257 | Gerold Folk Haddock |
-| 765 | 256 | messyboots |
-| 766 | 256 | Semaj Johnson |
-| 767 | 255 | Tushama Cheris Okraku |
-| 768 | 255 | Lindsey |
-| 769 | 254 | Renee Marshall |
+| 765 | 257 | Joka NoTime ForHataz |
+| 766 | 256 | messyboots |
+| 767 | 256 | Semaj Johnson |
+| 768 | 255 | Tushama Cheris Okraku |
+| 769 | 255 | Lindsey |
 | 770 | 254 | Dorian Griffin |
 | 771 | 254 | Coco |
 | 772 | 253 | Vontesha Kidd |
