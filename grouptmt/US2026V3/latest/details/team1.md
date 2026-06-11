@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 06:06:47 UTC
+# Standings for team1 as of 2026-06-11 06:07:25 UTC
 
 **Total Participants:** 2448
 
@@ -268,7 +268,7 @@
 | 260 | 654 | Rhonda Williams Warner |
 | 261 | 654 | Nina Davis |
 | 262 | 647 | Simply-Beautiful007 |
-| 263 | 641 | Wild Out Nai |
+| 263 | 643 | Wild Out Nai |
 | 264 | 641 | Marissa Sweet |
 | 265 | 639 | Mic Balew |
 | 266 | 638 | OhNoZer0 |
@@ -529,18 +529,18 @@
 | 521 | 347 | LiyaSkye |
 | 522 | 346 | Marsha Earl |
 | 523 | 346 | Lady T |
-| 524 | 346 | FunTime |
-| 525 | 345 | Heather Wilson |
-| 526 | 344 | Abby |
-| 527 | 344 | Abigail Newman Sweet |
-| 528 | 344 | MonaSparks |
-| 529 | 344 | Juan Santiago |
-| 530 | 344 | EvaLynn NeCole |
-| 531 | 344 | Onovella Titsworth |
-| 532 | 343 | Earl Williams |
-| 533 | 342 | Ashley Monet Terrell |
-| 534 | 341 | Alyssa Rae |
-| 535 | 341 | Casey Chapman |
+| 524 | 346 | Casey Chapman |
+| 525 | 346 | FunTime |
+| 526 | 345 | Heather Wilson |
+| 527 | 344 | Abby |
+| 528 | 344 | Abigail Newman Sweet |
+| 529 | 344 | MonaSparks |
+| 530 | 344 | Juan Santiago |
+| 531 | 344 | EvaLynn NeCole |
+| 532 | 344 | Onovella Titsworth |
+| 533 | 343 | Earl Williams |
+| 534 | 342 | Ashley Monet Terrell |
+| 535 | 341 | Alyssa Rae |
 | 536 | 340 | Mighty Dropper |
 | 537 | 340 | Chocolate |
 | 538 | 340 | Boldy Matchbuilder |
@@ -549,39 +549,39 @@
 | 541 | 338 | Giddy Staggerpiece |
 | 542 | 337 | Nora Mahmoud |
 | 543 | 337 | Angela Brown Babin |
-| 544 | 336 | Jose Rodriguez |
-| 545 | 336 | Silly Edgepiece |
+| 544 | 336 | Silly Edgepiece |
+| 545 | 336 | Jose Rodriguez |
 | 546 | 335 | Nona Harriel |
 | 547 | 334 | Kristine Marie Palmer |
 | 548 | 334 | Yashica Smith |
 | 549 | 331 | James Bryant II |
 | 550 | 330 | Tracey Johnson |
 | 551 | 330 | Tito Divyn |
-| 552 | 329 | Shelly Everette |
-| 553 | 329 | Tiffany Jean Hinson |
+| 552 | 329 | Tiffany Jean Hinson |
+| 553 | 329 | Shelly Everette |
 | 554 | 328 | Slinky Snapbuilder |
 | 555 | 325 | Tracy Feyler |
-| 556 | 324 | Kristie |
-| 557 | 324 | Vera Beckford |
-| 558 | 324 | Teddy Davis |
-| 559 | 324 | Sharee Robinson |
-| 560 | 324 | Breezy Catcher |
+| 556 | 324 | Teddy Davis |
+| 557 | 324 | Sharee Robinson |
+| 558 | 324 | Kristie |
+| 559 | 324 | Breezy Catcher |
+| 560 | 324 | Vera Beckford |
 | 561 | 322 | TNT |
-| 562 | 321 | Andra Ward |
-| 563 | 321 | Terri Smart |
-| 564 | 321 | Iceman |
-| 565 | 321 | LuckyStar |
-| 566 | 320 | Phongoudom Tika |
+| 562 | 321 | Terri Smart |
+| 563 | 321 | LuckyStar |
+| 564 | 321 | Andra Ward |
+| 565 | 321 | Iceman |
+| 566 | 320 | Valerie Alexander |
 | 567 | 320 | Aaron Hartmann |
-| 568 | 320 | Valerie Alexander |
+| 568 | 320 | Phongoudom Tika |
 | 569 | 320 | Malcolm Stanley |
-| 570 | 319 | Christi Walker Patton |
-| 571 | 319 | TY Newme Batts |
-| 572 | 319 | Zappy Snapgrid |
-| 573 | 319 | Ciera Peace |
-| 574 | 319 | MACHETEEDDIE513 |
-| 575 | 318 | Nerdy Snapfall |
-| 576 | 318 | Latore Maxie |
+| 570 | 319 | TY Newme Batts |
+| 571 | 319 | Christi Walker Patton |
+| 572 | 319 | Ciera Peace |
+| 573 | 319 | MACHETEEDDIE513 |
+| 574 | 319 | Zappy Snapgrid |
+| 575 | 318 | Latore Maxie |
+| 576 | 318 | Nerdy Snapfall |
 | 577 | 318 | Jovy |
 | 578 | 317 | Bambi Johnson |
 | 579 | 317 | Mister Reid |
@@ -645,25 +645,25 @@
 | 637 | 292 | Courtney Cicoria |
 | 638 | 291 | Pj Rojas |
 | 639 | 291 | Brian Taylor |
-| 640 | 291 | Bella |
-| 641 | 290 | Chris Watson Draper |
-| 642 | 289 | Keith Johnson |
-| 643 | 289 | TBabii24 |
-| 644 | 288 | Douglas Price |
-| 645 | 288 | Lozuna |
-| 646 | 288 | Kelley Johnson |
-| 647 | 287 | CauliMac |
-| 648 | 287 | Mary Phillippi Blanton |
-| 649 | 287 | wmedina67 |
+| 640 | 291 | Kelley Johnson |
+| 641 | 291 | Bella |
+| 642 | 290 | Chris Watson Draper |
+| 643 | 289 | Keith Johnson |
+| 644 | 289 | TBabii24 |
+| 645 | 288 | Douglas Price |
+| 646 | 288 | Lozuna |
+| 647 | 287 | wmedina67 |
+| 648 | 287 | CauliMac |
+| 649 | 287 | Mary Phillippi Blanton |
 | 650 | 286 | Soubletzy |
 | 651 | 286 | Kahliah Baker |
-| 652 | 285 | Meshia |
-| 653 | 285 | Adrian Harris |
-| 654 | 285 | Hyedie Badie |
+| 652 | 285 | Hyedie Badie |
+| 653 | 285 | Meshia |
+| 654 | 285 | Adrian Harris |
 | 655 | 284 | Guy Incognito |
 | 656 | 284 | Brittany Sara Heldwein |
-| 657 | 283 | Lawanda Conley |
-| 658 | 283 | Rhianna Dinki Austin |
+| 657 | 283 | Rhianna Dinki Austin |
+| 658 | 283 | Lawanda Conley |
 | 659 | 282 | Poyre Shelton |
 | 660 | 282 | Perky Pusher |
 | 661 | 282 | Dreamzzz |
@@ -865,25 +865,25 @@
 | 857 | 215 | Nikiya |
 | 858 | 215 | Angie Smith |
 | 859 | 215 | Perky Balancer |
-| 860 | 214 | Boricua64 |
-| 861 | 214 | Mary Goode |
-| 862 | 214 | Amanda Woodruff |
-| 863 | 214 | Sunny Clicky |
+| 860 | 215 | Darrelle Short |
+| 861 | 214 | Boricua64 |
+| 862 | 214 | Mary Goode |
+| 863 | 214 | Amanda Woodruff |
 | 864 | 214 | Hyy |
-| 865 | 212 | Darrelle Short |
-| 866 | 212 | tskmstr |
-| 867 | 212 | Ace Hardware |
+| 865 | 214 | Sunny Clicky |
+| 866 | 212 | KimChii |
+| 867 | 212 | DirtiestofMikes |
 | 868 | 212 | Don Ray Mc |
-| 869 | 212 | DirtiestofMikes |
-| 870 | 212 | KimChii |
-| 871 | 211 | Poppy Smasher |
-| 872 | 211 | Tiffany Conley |
-| 873 | 211 | Melissa Hershberger |
+| 869 | 212 | Ace Hardware |
+| 870 | 212 | tskmstr |
+| 871 | 211 | Melissa Hershberger |
+| 872 | 211 | Poppy Smasher |
+| 873 | 211 | Tiffany Conley |
 | 874 | 211 | Terrie |
-| 875 | 210 | Cj Chimelis |
-| 876 | 210 | Slinky Fallzone |
-| 877 | 210 | Cameo Tweed |
-| 878 | 210 | Rob'N Blox |
+| 875 | 210 | Rob'N Blox |
+| 876 | 210 | Cj Chimelis |
+| 877 | 210 | Slinky Fallzone |
+| 878 | 210 | Cameo Tweed |
 | 879 | 210 | Kanary Karotz |
 | 880 | 210 | Mom3granny2 |
 | 881 | 210 | Cheery Swiper |
