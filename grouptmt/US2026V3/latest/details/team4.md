@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 03:24:48 UTC
+# Standings for team4 as of 2026-06-11 03:25:25 UTC
 
 **Total Participants:** 2455
 
@@ -35,7 +35,7 @@
 | 27 | 5900 | Melissa Brown |
 | 28 | 5600 | Michele |
 | 29 | 5175 | Squirrel Donkey |
-| 30 | 5139 | Chummy Rollzone |
+| 30 | 5159 | Chummy Rollzone |
 | 31 | 5126 | Juan Ford |
 | 32 | 4888 | Leah Barnett |
 | 33 | 4855 | Jackie Lucas |
@@ -717,8 +717,8 @@
 | 709 | 250 | Jill Chapman-Yancer |
 | 710 | 249 | Edward White |
 | 711 | 249 | Megan Lynn |
-| 712 | 249 | Virgil Mayfield-Brown |
-| 713 | 249 | Csigirlnc |
+| 712 | 249 | Csigirlnc |
+| 713 | 249 | Virgil Mayfield-Brown |
 | 714 | 249 | Brennan Shea Greene |
 | 715 | 248 | JoJo Hutson |
 | 716 | 248 | Ayobribri |
@@ -728,8 +728,8 @@
 | 720 | 247 | Brandon Bedenbaugh |
 | 721 | 247 | Stotty |
 | 722 | 246 | KingCas |
-| 723 | 245 | Deb 07 |
-| 724 | 245 | 1694AF |
+| 723 | 245 | 1694AF |
+| 724 | 245 | Deb 07 |
 | 725 | 245 | Marcus Fontenot |
 | 726 | 245 | Raising Stars |
 | 727 | 244 | Poppy Snapfall |
@@ -756,14 +756,14 @@
 | 748 | 237 | Amber Jalbert |
 | 749 | 236 | Weird Cat |
 | 750 | 236 | Ashley DuVall |
-| 751 | 236 | Domo Dpn |
-| 752 | 236 | Deana Teck |
-| 753 | 236 | Trang Nguyen |
-| 754 | 236 | GETBOXED! |
-| 755 | 235 | Reina Pagan |
-| 756 | 234 | Ajohnna Frazee |
-| 757 | 234 | Khiem Hernandez |
-| 758 | 234 | Alizabeth Garcia |
+| 751 | 236 | GETBOXED! |
+| 752 | 236 | Domo Dpn |
+| 753 | 236 | Deana Teck |
+| 754 | 236 | Trang Nguyen |
+| 755 | 235 | Khiem Hernandez |
+| 756 | 235 | Reina Pagan |
+| 757 | 234 | Alizabeth Garcia |
+| 758 | 234 | Ajohnna Frazee |
 | 759 | 234 | Niki Bastianelli |
 | 760 | 233 | Stefanie Street |
 | 761 | 232 | Brandi Gray |
@@ -1117,28 +1117,28 @@
 | 1109 | 147 | Peterson Cottontail |
 | 1110 | 146 | John Wertz |
 | 1111 | 146 | Dapper Tiltpiece |
-| 1112 | 146 | Mone DyTorrion Zyan Lotts |
+| 1112 | 146 | Marie Culbert |
 | 1113 | 146 | Larredo Covington |
-| 1114 | 146 | Marie Culbert |
+| 1114 | 146 | Mone DyTorrion Zyan Lotts |
 | 1115 | 146 | Aleah Briann |
-| 1116 | 145 | Jeff Seymour |
-| 1117 | 145 | Kenny Nguyen |
-| 1118 | 145 | Suzie |
-| 1119 | 145 | Hooti Smile |
-| 1120 | 145 | Alicia Loveless |
+| 1116 | 145 | Hooti Smile |
+| 1117 | 145 | Suzie |
+| 1118 | 145 | Jeff Seymour |
+| 1119 | 145 | Alicia Loveless |
+| 1120 | 145 | Kenny Nguyen |
 | 1121 | 145 | Dinah Mccall |
 | 1122 | 144 | San |
 | 1123 | 144 | Mighty Spinfit |
-| 1124 | 144 | Pawpawbare |
-| 1125 | 144 | Jodi Messere |
-| 1126 | 144 | Lionel Hampton |
-| 1127 | 144 | Wynisha Johnson |
+| 1124 | 144 | Jodi Messere |
+| 1125 | 144 | Wynisha Johnson |
+| 1126 | 144 | Pawpawbare |
+| 1127 | 144 | Lionel Hampton |
 | 1128 | 143 | Michelle Wiles |
-| 1129 | 143 | Kriss Owens Uptegrove |
-| 1130 | 143 | Rebekah Anne Macias |
-| 1131 | 142 | Clever Blockmatch |
-| 1132 | 142 | Gwendolyn Langwinski |
-| 1133 | 142 | Jonathan Jackson |
+| 1129 | 143 | Rebekah Anne Macias |
+| 1130 | 143 | Kriss Owens Uptegrove |
+| 1131 | 142 | Gwendolyn Langwinski |
+| 1132 | 142 | Jonathan Jackson |
+| 1133 | 142 | Clever Blockmatch |
 | 1134 | 142 | Nicole Ambrose |
 | 1135 | 142 | Darren Miguel |
 | 1136 | 142 | Meghan Etchells |
@@ -1146,49 +1146,49 @@
 | 1138 | 141 | Audrianna Skaff |
 | 1139 | 141 | Scott Baum |
 | 1140 | 141 | Monkey |
-| 1141 | 141 | Aaron Turner |
-| 1142 | 140 | skynatda |
-| 1143 | 140 | Groovy Matchgrid |
-| 1144 | 140 | Marvin Mack |
-| 1145 | 140 | Willy Leung |
-| 1146 | 140 | Michelle Clark |
-| 1147 | 140 | Tiffy |
-| 1148 | 140 | Crystal Parker Bryant |
-| 1149 | 139 | Hayze |
-| 1150 | 139 | Erich EMac McIntosh |
-| 1151 | 139 | da1ndonly |
-| 1152 | 139 | Geneva Mixon |
-| 1153 | 139 | DNA |
-| 1154 | 138 | Ami Ferguson |
-| 1155 | 138 | Perky Balanceblock |
-| 1156 | 138 | Tammy Lasseigne |
-| 1157 | 138 | Tommy Thomas |
-| 1158 | 138 | Nancy McCalla Abercrombie |
-| 1159 | 137 | Isabel Roman |
-| 1160 | 137 | Amowe |
+| 1141 | 141 | Goofy Riserbuilder |
+| 1142 | 141 | Aaron Turner |
+| 1143 | 140 | Marvin Mack |
+| 1144 | 140 | Groovy Matchgrid |
+| 1145 | 140 | skynatda |
+| 1146 | 140 | Willy Leung |
+| 1147 | 140 | Michelle Clark |
+| 1148 | 140 | Tiffy |
+| 1149 | 140 | Crystal Parker Bryant |
+| 1150 | 139 | Hayze |
+| 1151 | 139 | Erich EMac McIntosh |
+| 1152 | 139 | da1ndonly |
+| 1153 | 139 | Geneva Mixon |
+| 1154 | 139 | DNA |
+| 1155 | 138 | Ami Ferguson |
+| 1156 | 138 | Perky Balanceblock |
+| 1157 | 138 | Tammy Lasseigne |
+| 1158 | 138 | Tommy Thomas |
+| 1159 | 138 | Nancy McCalla Abercrombie |
+| 1160 | 137 | Isabel Roman |
 | 1161 | 137 | LaShieka Noland |
 | 1162 | 137 | Shannon Lee |
-| 1163 | 136 | Sarah |
-| 1164 | 136 | Selina Moore |
-| 1165 | 136 | Nykell Sturdivant |
-| 1166 | 136 | Goofy Riserbuilder |
+| 1163 | 137 | Amowe |
+| 1164 | 136 | Sarah |
+| 1165 | 136 | Selina Moore |
+| 1166 | 136 | Nykell Sturdivant |
 | 1167 | 135 | Misty Harland |
 | 1168 | 135 | Yam My |
-| 1169 | 135 | Jennifer Terrill |
-| 1170 | 134 | Kena T. Tanner |
-| 1171 | 134 | Heather Cross High |
-| 1172 | 134 | Goofy Twistpiece |
-| 1173 | 134 | Chummy Twistpiece |
+| 1169 | 135 | John Henry |
+| 1170 | 135 | Jennifer Terrill |
+| 1171 | 134 | Kena T. Tanner |
+| 1172 | 134 | Heather Cross High |
+| 1173 | 134 | Goofy Twistpiece |
 | 1174 | 134 | Natisha Bullock |
-| 1175 | 134 | John Henry |
+| 1175 | 134 | Chummy Twistpiece |
 | 1176 | 134 | Jumpy Lifter |
 | 1177 | 133 | Wayne Hendricks |
 | 1178 | 133 | taya |
 | 1179 | 133 | Sonia Cordero-Martinez |
 | 1180 | 132 | Jarad Glover |
 | 1181 | 132 | Giggly Gridzone |
-| 1182 | 131 | Pink Tetramino |
-| 1183 | 131 | Tracey Hudspath |
+| 1182 | 131 | Tracey Hudspath |
+| 1183 | 131 | Pink Tetramino |
 | 1184 | 130 | Alicia Horsea Rojas |
 | 1185 | 129 | Vlad Rudman |
 | 1186 | 129 | Daffney Starr |
@@ -1247,42 +1247,42 @@
 | 1239 | 120 | Leigh Burton |
 | 1240 | 120 | Corissa Handy |
 | 1241 | 120 | Mike Zec II |
-| 1242 | 119 | Shane Tate |
-| 1243 | 119 | Mighty Clicky |
+| 1242 | 119 | Mighty Clicky |
+| 1243 | 119 | Shane Tate |
 | 1244 | 119 | Giggly Stackbuilder |
 | 1245 | 119 | Heather Hilferty |
 | 1246 | 119 | Destiny Georgia Reeves Beller |
 | 1247 | 118 | JP |
 | 1248 | 118 | EmBem |
 | 1249 | 118 | Alaina Rousseau |
-| 1250 | 118 | Georgiana Meegan |
-| 1251 | 118 | Badmofo |
-| 1252 | 118 | Bold Clear |
-| 1253 | 118 | Archer Family Mayhem |
-| 1254 | 118 | Regina N Johnson |
-| 1255 | 118 | Joshua Conwell |
+| 1250 | 118 | Badmofo |
+| 1251 | 118 | Archer Family Mayhem |
+| 1252 | 118 | Regina N Johnson |
+| 1253 | 118 | Joshua Conwell |
+| 1254 | 118 | Jean Crooks |
+| 1255 | 118 | Bold Clear |
 | 1256 | 118 | Natalia Stone |
 | 1257 | 118 | Jennifer Naughton |
-| 1258 | 118 | Jean Crooks |
-| 1259 | 118 | Komikeh White |
-| 1260 | 117 | Melinda Roman |
-| 1261 | 117 | Mrs Peabod |
-| 1262 | 117 | Alexis William |
+| 1258 | 118 | Komikeh White |
+| 1259 | 118 | Georgiana Meegan |
+| 1260 | 117 | Eric Quan |
+| 1261 | 117 | Alexis William |
+| 1262 | 117 | Melinda Roman |
 | 1263 | 117 | Oc Tive |
-| 1264 | 117 | Eric Quan |
+| 1264 | 117 | Mrs Peabod |
 | 1265 | 117 | Catherine Garza |
 | 1266 | 117 | Kay |
 | 1267 | 116 | JP Chua |
 | 1268 | 116 | Purple Queen |
 | 1269 | 116 | Lauren Zubia Sanchez |
 | 1270 | 116 | Queen |
-| 1271 | 116 | Wacky Brickmatch |
-| 1272 | 116 | Pamela Kaye |
-| 1273 | 115 | Lawanda Mayze |
-| 1274 | 115 | ZaysWife89 |
-| 1275 | 115 | Smiley Wipeblock |
-| 1276 | 115 | Krystalclear |
-| 1277 | 115 | E money |
+| 1271 | 116 | Pamela Kaye |
+| 1272 | 116 | Wacky Brickmatch |
+| 1273 | 115 | E money |
+| 1274 | 115 | Smiley Wipeblock |
+| 1275 | 115 | ZaysWife89 |
+| 1276 | 115 | Lawanda Mayze |
+| 1277 | 115 | Krystalclear |
 | 1278 | 115 | ManOfSteel |
 | 1279 | 114 | Cranky Twistpiece |
 | 1280 | 114 | Joe Joe |
@@ -1295,23 +1295,23 @@
 | 1287 | 112 | Frisky Blocker |
 | 1288 | 112 | Chris Norman |
 | 1289 | 112 | James Moore |
-| 1290 | 111 | Giggly Roll |
+| 1290 | 111 | Candace Dean |
 | 1291 | 111 | Snazzy Shatterfit |
-| 1292 | 111 | Becca Milliron |
-| 1293 | 111 | Candace Dean |
+| 1292 | 111 | Giggly Roll |
+| 1293 | 111 | Becca Milliron |
 | 1294 | 111 | Jacquelyn L Whitsitt |
 | 1295 | 111 | Buggy Julks |
 | 1296 | 111 | Chipper Hitter |
 | 1297 | 110 | LilithMoon |
 | 1298 | 110 | Charlie Thornton |
 | 1299 | 110 | Giggly Rollpiece |
-| 1300 | 109 | Caroline Peralta |
-| 1301 | 109 | Courtney Miller |
-| 1302 | 109 | Derkesha Huntley |
-| 1303 | 109 | Acyndra Cain |
-| 1304 | 109 | Katherine Stec |
-| 1305 | 109 | Skylar Durk |
-| 1306 | 109 | pisces26luna |
+| 1300 | 110 | pisces26luna |
+| 1301 | 109 | Derkesha Huntley |
+| 1302 | 109 | Acyndra Cain |
+| 1303 | 109 | Caroline Peralta |
+| 1304 | 109 | Courtney Miller |
+| 1305 | 109 | Katherine Stec |
+| 1306 | 109 | Skylar Durk |
 | 1307 | 109 | Alicia |
 | 1308 | 109 | Sprout |
 | 1309 | 108 | Blessedmama |
