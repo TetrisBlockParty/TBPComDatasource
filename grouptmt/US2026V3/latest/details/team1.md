@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 03:28:46 UTC
+# Standings for team1 as of 2026-06-11 03:29:24 UTC
 
 **Total Participants:** 2420
 
@@ -49,9 +49,9 @@
 | 41 | 3587 | Cee Emm |
 | 42 | 3341 | Yolanda McDonald |
 | 43 | 3082 | JoJo |
-| 44 | 3025 | COSA303 |
-| 45 | 3012 | Jennifer To |
-| 46 | 3008 | Will |
+| 44 | 3068 | Will |
+| 45 | 3025 | COSA303 |
+| 46 | 3012 | Jennifer To |
 | 47 | 2909 | Therealdywoune Peay |
 | 48 | 2903 | BlackQueen105 |
 | 49 | 2800 | Rosey |
@@ -62,8 +62,8 @@
 | 54 | 2599 | Tootsie Pop |
 | 55 | 2594 | Epic Snapfall |
 | 56 | 2520 | Mimi 1.0 |
-| 57 | 2469 | Chris Caniglia |
-| 58 | 2465 | Michael J Gresham |
+| 57 | 2475 | Michael J Gresham |
+| 58 | 2469 | Chris Caniglia |
 | 59 | 2412 | D'Andra Stewart |
 | 60 | 2367 | Markeeta Lipscomb |
 | 61 | 2359 | Corey Cawthon |
@@ -231,22 +231,22 @@
 | 223 | 744 | Ottison Dianna |
 | 224 | 740 | Felicia Cain |
 | 225 | 737 | izzybella |
-| 226 | 730 | ing410 |
-| 227 | 722 | David Fuentes |
+| 226 | 732 | David Fuentes |
+| 227 | 730 | ing410 |
 | 228 | 717 | Tammye Turner |
 | 229 | 711 | Chirpy Corner |
 | 230 | 702 | Johnathan Deese |
-| 231 | 700 | Andy Rivera |
-| 232 | 700 | Spicy Risepiece |
-| 233 | 699 | Dee McCool |
-| 234 | 699 | Block King |
+| 231 | 700 | Spicy Risepiece |
+| 232 | 700 | Andy Rivera |
+| 233 | 699 | Block King |
+| 234 | 699 | Dee McCool |
 | 235 | 692 | Trina Greenwood |
 | 236 | 688 | Bambi Love |
 | 237 | 685 | Haley Bell |
 | 238 | 684 | Giggy Clusterer |
 | 239 | 680 | Charletha Williams |
-| 240 | 680 | e |
-| 241 | 680 | Erin Sabol |
+| 240 | 680 | Erin Sabol |
+| 241 | 680 | e |
 | 242 | 679 | Lashawn Wallace |
 | 243 | 678 | Elizabeth Vega Coreano |
 | 244 | 677 | kc |
@@ -261,8 +261,8 @@
 | 253 | 647 | Simply-Beautiful007 |
 | 254 | 646 | TeeMaster Barber IsLyfe |
 | 255 | 641 | Marissa Sweet |
-| 256 | 639 | Mic Balew |
-| 257 | 639 | Wild Out Nai |
+| 256 | 639 | Wild Out Nai |
+| 257 | 639 | Mic Balew |
 | 258 | 638 | OhNoZer0 |
 | 259 | 635 | Tremaine Hiler |
 | 260 | 633 | Cheeky Pop |
@@ -360,10 +360,10 @@
 | 352 | 481 | NewEve |
 | 353 | 480 | ♈️ Ariesbaby |
 | 354 | 480 | Ashleyy Netchert |
-| 355 | 476 | Donnie Withthebody |
-| 356 | 476 | AshyTay |
-| 357 | 476 | Hasty Glidezone |
-| 358 | 476 | Nerdy Climber |
+| 355 | 477 | Nerdy Climber |
+| 356 | 476 | Donnie Withthebody |
+| 357 | 476 | AshyTay |
+| 358 | 476 | Hasty Glidezone |
 | 359 | 475 | Candy Lee |
 | 360 | 475 | Vernon Hoyt |
 | 361 | 473 | Erica Charlise |
@@ -757,19 +757,19 @@
 | 749 | 241 | Ad Doctor |
 | 750 | 240 | lookin |
 | 751 | 240 | Sarah Swietlicki - Lopez |
-| 752 | 240 | Leavon Smith |
-| 753 | 240 | Velma Jones |
+| 752 | 240 | Velma Jones |
+| 753 | 240 | Leavon Smith |
 | 754 | 239 | Rosalind Chatman |
-| 755 | 239 | Twisty Cascadeclear |
-| 756 | 239 | Sherri Keys |
-| 757 | 239 | Anntionette Sotire |
-| 758 | 239 | MikeHunt |
-| 759 | 238 | William Vidra |
-| 760 | 238 | Marbama |
-| 761 | 238 | B.L. Perry |
-| 762 | 237 | Flashy Stacker |
+| 755 | 239 | Jimmy Shannon |
+| 756 | 239 | Twisty Cascadeclear |
+| 757 | 239 | Sherri Keys |
+| 758 | 239 | Anntionette Sotire |
+| 759 | 239 | MikeHunt |
+| 760 | 238 | William Vidra |
+| 761 | 238 | Marbama |
+| 762 | 238 | B.L. Perry |
 | 763 | 237 | Shalena Marie Humphrey |
-| 764 | 237 | Jimmy Shannon |
+| 764 | 237 | Flashy Stacker |
 | 765 | 237 | Ameillia Boughner |
 | 766 | 236 | Semaj Johnson |
 | 767 | 236 | Parris Wright |
@@ -1557,67 +1557,67 @@
 | 1549 | 64 | smn4evolution |
 | 1550 | 64 | Capt Kev |
 | 1551 | 64 | Sicily Bailey |
-| 1552 | 63 | Gary Kyle |
+| 1552 | 63 | Crafty Pivoty |
 | 1553 | 63 | Natasha Harris |
 | 1554 | 63 | Minerva |
-| 1555 | 63 | Danielle Mariyh Toomer |
-| 1556 | 63 | Crafty Pivoty |
-| 1557 | 63 | Damien Mathews |
-| 1558 | 63 | Bouncy Blockclear |
-| 1559 | 63 | Tonny Williams |
-| 1560 | 62 | Chirpy Glidezone |
-| 1561 | 62 | Steven Jurk |
-| 1562 | 62 | Stopdacap |
-| 1563 | 62 | Chipper Clicker |
-| 1564 | 62 | Ryan |
-| 1565 | 61 | Krose Byers |
-| 1566 | 61 | SosaaCurry |
-| 1567 | 61 | Ericca Asberry |
-| 1568 | 61 | Michelle Stanford-Page |
-| 1569 | 61 | Giggleme |
-| 1570 | 61 | Snippy Balance |
+| 1555 | 63 | Kennita Leach Woodard |
+| 1556 | 63 | Danielle Mariyh Toomer |
+| 1557 | 63 | Gary Kyle |
+| 1558 | 63 | Damien Mathews |
+| 1559 | 63 | Bouncy Blockclear |
+| 1560 | 63 | Tonny Williams |
+| 1561 | 62 | Chirpy Glidezone |
+| 1562 | 62 | Steven Jurk |
+| 1563 | 62 | Stopdacap |
+| 1564 | 62 | Chipper Clicker |
+| 1565 | 62 | Ryan |
+| 1566 | 61 | Krose Byers |
+| 1567 | 61 | SosaaCurry |
+| 1568 | 61 | Ericca Asberry |
+| 1569 | 61 | Michelle Stanford-Page |
+| 1570 | 61 | Giggleme |
 | 1571 | 61 | Giddy Bricky |
-| 1572 | 61 | Kennita Leach Woodard |
+| 1572 | 61 | Snippy Balance |
 | 1573 | 61 | Arturo Hernandez II |
-| 1574 | 60 | Skyhigh Scott |
-| 1575 | 60 | Jenai Brazell |
-| 1576 | 60 | Elisha Latimore |
+| 1574 | 60 | Bruce Leroy |
+| 1575 | 60 | Brian Marsico |
+| 1576 | 60 | Jolly Brickline |
 | 1577 | 60 | Carl Proby |
-| 1578 | 60 | Brian Marsico |
-| 1579 | 60 | Jolly Brickline |
+| 1578 | 60 | Elisha Latimore |
+| 1579 | 60 | Jenai Brazell |
 | 1580 | 60 | Jennifer Endean |
 | 1581 | 60 | Flash97 |
 | 1582 | 60 | Anthony Jackson |
 | 1583 | 60 | Robin Prioleau |
 | 1584 | 60 | Frothy Snapbuilder |
 | 1585 | 60 | Clever Tilebuilder |
-| 1586 | 60 | Bruce Leroy |
-| 1587 | 60 | Billz143 |
-| 1588 | 59 | Sweet BayBee |
-| 1589 | 59 | Robert Varnado |
-| 1590 | 59 | Tasha Mack |
-| 1591 | 59 | Cheryl Parraway |
-| 1592 | 59 | Zondria Barnes |
-| 1593 | 59 | Alicia Hummel |
-| 1594 | 59 | Kween Pilot |
-| 1595 | 59 | Nic Nic |
-| 1596 | 59 | solarpower00 |
-| 1597 | 59 | Ana Torres |
+| 1586 | 60 | Billz143 |
+| 1587 | 60 | Skyhigh Scott |
+| 1588 | 59 | Nic Nic |
+| 1589 | 59 | solarpower00 |
+| 1590 | 59 | Kween Pilot |
+| 1591 | 59 | Alicia Hummel |
+| 1592 | 59 | Cheryl Parraway |
+| 1593 | 59 | Tasha Mack |
+| 1594 | 59 | Ana Torres |
+| 1595 | 59 | Robert Varnado |
+| 1596 | 59 | Dave Breaker |
+| 1597 | 59 | Zondria Barnes |
 | 1598 | 59 | Elle |
-| 1599 | 59 | Dave Breaker |
-| 1600 | 59 | Joy Shantrice Sorrells |
-| 1601 | 59 | Tiffany Hooper |
+| 1599 | 59 | Tiffany Hooper |
+| 1600 | 59 | Sweet BayBee |
+| 1601 | 59 | Joy Shantrice Sorrells |
 | 1602 | 58 | JLynn Mind Ur's Blackwell |
-| 1603 | 58 | Sylvia Holst |
+| 1603 | 58 | CoaCoa Myles |
 | 1604 | 58 | GlamourN |
-| 1605 | 58 | CoaCoa Myles |
-| 1606 | 58 | Brandy Way |
-| 1607 | 58 | jaz |
-| 1608 | 58 | Angelique Thomas |
-| 1609 | 57 | mae |
-| 1610 | 57 | Spicy Snap |
+| 1605 | 58 | Brandy Way |
+| 1606 | 58 | jaz |
+| 1607 | 58 | Angelique Thomas |
+| 1608 | 58 | Sylvia Holst |
+| 1609 | 57 | Spicy Snap |
+| 1610 | 57 | Cali Lee |
 | 1611 | 57 | Laura Long |
-| 1612 | 57 | Cali Lee |
+| 1612 | 57 | mae |
 | 1613 | 57 | Pretty-Lily |
 | 1614 | 57 | Frilly Rumbler |
 | 1615 | 57 | Andre Simpson |
