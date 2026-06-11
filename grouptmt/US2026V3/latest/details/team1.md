@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 10:40:27 UTC
+# Standings for team1 as of 2026-06-11 10:41:20 UTC
 
 **Total Participants:** 2473
 
@@ -81,9 +81,9 @@
 | 73 | 2138 | Linzie Marie |
 | 74 | 2104 | Carolynne Walker-Bell |
 | 75 | 2103 | April Inboden |
-| 76 | 2038 | Eric Mcgaughy |
-| 77 | 2026 | Ceilo Marie |
-| 78 | 2016 | PandaPrincess |
+| 76 | 2056 | PandaPrincess |
+| 77 | 2038 | Eric Mcgaughy |
+| 78 | 2026 | Ceilo Marie |
 | 79 | 1978 | Bre Maugh |
 | 80 | 1968 | Daylene Johannes |
 | 81 | 1962 | Chenell Gillard |
@@ -222,12 +222,12 @@
 | 214 | 801 | Rachel Zimmerman |
 | 215 | 798 | Zappy Riser |
 | 216 | 794 | Kevin M. McGhee Jr |
-| 217 | 787 | Jazzy Fireflighters |
-| 218 | 784 | Coco |
-| 219 | 777 | Johnathan Deese |
-| 220 | 775 | izzybella |
-| 221 | 773 | David Fuentes |
-| 222 | 772 | Mic Balew |
+| 217 | 791 | Mic Balew |
+| 218 | 787 | Jazzy Fireflighters |
+| 219 | 784 | Coco |
+| 220 | 777 | Johnathan Deese |
+| 221 | 775 | izzybella |
+| 222 | 773 | David Fuentes |
 | 223 | 772 | Latisha Fairley |
 | 224 | 772 | Dena Marie Lee |
 | 225 | 770 | Genne Scott |
@@ -1121,24 +1121,24 @@
 | 1113 | 147 | Taimir Colón |
 | 1114 | 147 | Sean Parham |
 | 1115 | 146 | Paul Doty |
-| 1116 | 146 | Vortex Viniq |
-| 1117 | 146 | Jojo M |
+| 1116 | 146 | Jojo M |
+| 1117 | 146 | Vortex Viniq |
 | 1118 | 145 | Jennifer Moore |
 | 1119 | 145 | Jumpy Gridlock |
-| 1120 | 144 | Tammy Collins |
-| 1121 | 143 | Caitlin Michele |
-| 1122 | 143 | Beautiful314 |
-| 1123 | 141 | Tiana Monique |
-| 1124 | 141 | sunstar |
-| 1125 | 141 | star |
+| 1120 | 145 | Willson06 |
+| 1121 | 144 | Tammy Collins |
+| 1122 | 143 | Caitlin Michele |
+| 1123 | 143 | Beautiful314 |
+| 1124 | 141 | star |
+| 1125 | 141 | sunstar |
 | 1126 | 141 | Happy Blockpiece |
-| 1127 | 140 | Kimberly Noble |
-| 1128 | 140 | Lazy Chiseler |
-| 1129 | 140 | Tipsy Bricky |
-| 1130 | 140 | Ebie |
-| 1131 | 140 | Willson06 |
-| 1132 | 140 | Anthony Intrabartolo |
-| 1133 | 140 | Lynette Manning |
+| 1127 | 141 | Tiana Monique |
+| 1128 | 140 | Anthony Intrabartolo |
+| 1129 | 140 | Lynette Manning |
+| 1130 | 140 | Kimberly Noble |
+| 1131 | 140 | Lazy Chiseler |
+| 1132 | 140 | Tipsy Bricky |
+| 1133 | 140 | Ebie |
 | 1134 | 139 | Chyna Blacc |
 | 1135 | 139 | Elaine Youmans |
 | 1136 | 139 | Ruth Ann SotoRogers |

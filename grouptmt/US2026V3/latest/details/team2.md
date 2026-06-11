@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 10:40:27 UTC
+# Standings for team2 as of 2026-06-11 10:41:20 UTC
 
 **Total Participants:** 2941
 
@@ -18,7 +18,7 @@
 | 10 | 12760 | Cori Keberlein |
 | 11 | 12553 | Jason Wood |
 | 12 | 11800 | Crafty Ziggy |
-| 13 | 10561 | Kathleen M Cox |
+| 13 | 10961 | Kathleen M Cox |
 | 14 | 10540 | Mocha |
 | 15 | 9630 | Lola C Davis |
 | 16 | 9620 | A.j. Langley |
@@ -72,7 +72,7 @@
 | 64 | 3892 | Crystal M Sowden |
 | 65 | 3837 | THUMP |
 | 66 | 3797 | Kellie Montgomery |
-| 67 | 3694 | Kimberly Benson |
+| 67 | 3714 | Kimberly Benson |
 | 68 | 3598 | Angelica Jelli Gillaspy |
 | 69 | 3514 | Traci Elizabeth |
 | 70 | 3459 | Jennifer Corder |
@@ -236,12 +236,12 @@
 | 228 | 923 | Kimmyc |
 | 229 | 909 | Laverne Ellis Blair |
 | 230 | 904 | Carebear05 |
-| 231 | 903 | Theresa Huddleston |
-| 232 | 898 | Giggly Wipepiece |
-| 233 | 898 | Lisa Underwood Desmond |
-| 234 | 898 | Crystal Allen |
-| 235 | 893 | La chulis |
-| 236 | 893 | Kelly Rogers |
+| 231 | 903 | Kelly Rogers |
+| 232 | 903 | Theresa Huddleston |
+| 233 | 898 | Giggly Wipepiece |
+| 234 | 898 | Lisa Underwood Desmond |
+| 235 | 898 | Crystal Allen |
+| 236 | 893 | La chulis |
 | 237 | 892 | H |
 | 238 | 891 | Jessica Melendy |
 | 239 | 886 | Cool Climber |
@@ -339,16 +339,16 @@
 | 331 | 671 | Breeana Bennett |
 | 332 | 671 | Gloria May Shook |
 | 333 | 671 | Krystal Hummel |
-| 334 | 670 | Chirpy Grid |
-| 335 | 667 | Chill Line |
-| 336 | 667 | Iesha Cupil |
-| 337 | 666 | Lyric Price |
-| 338 | 660 | Sherri E Woods Hess |
-| 339 | 659 | Jumpy Matchbuilder |
-| 340 | 659 | Kaycie Shaffer |
-| 341 | 658 | Ratchet |
-| 342 | 652 | Stephany Green |
-| 343 | 652 | Julibeth Wells |
+| 334 | 671 | Julibeth Wells |
+| 335 | 670 | Chirpy Grid |
+| 336 | 667 | Chill Line |
+| 337 | 667 | Iesha Cupil |
+| 338 | 666 | Lyric Price |
+| 339 | 660 | Sherri E Woods Hess |
+| 340 | 659 | Jumpy Matchbuilder |
+| 341 | 659 | Kaycie Shaffer |
+| 342 | 658 | Ratchet |
+| 343 | 652 | Stephany Green |
 | 344 | 651 | Lora Via |
 | 345 | 650 | Jeff Pottgether |
 | 346 | 645 | MaddieCherie |
@@ -445,7 +445,7 @@
 | 437 | 505 | Melissa Clogher White |
 | 438 | 504 | Treau Torres |
 | 439 | 504 | Xandrea Jones |
-| 440 | 500 | Twisty Tower |
+| 440 | 501 | Twisty Tower |
 | 441 | 499 | Erica South |
 | 442 | 499 | Mikaela Byrd |
 | 443 | 499 | Monee Stronger |
@@ -739,17 +739,17 @@
 | 731 | 314 | Hyper Striker |
 | 732 | 314 | Audrey Wood |
 | 733 | 314 | Epic Tilemaker |
-| 734 | 312 | Mariya Cline |
-| 735 | 312 | whocares |
-| 736 | 312 | Chilly Surge |
-| 737 | 312 | Melissa Pronovost |
-| 738 | 311 | Brian Favre |
-| 739 | 311 | Holly Barefoot |
-| 740 | 311 | Sydney Cheyenne |
-| 741 | 311 | Alonzo Reed |
-| 742 | 310 | Ashley Diana |
-| 743 | 310 | WhitS |
-| 744 | 310 | Jessi Ann |
+| 734 | 313 | Jessi Ann |
+| 735 | 312 | Mariya Cline |
+| 736 | 312 | whocares |
+| 737 | 312 | Chilly Surge |
+| 738 | 312 | Melissa Pronovost |
+| 739 | 311 | Brian Favre |
+| 740 | 311 | Holly Barefoot |
+| 741 | 311 | Sydney Cheyenne |
+| 742 | 311 | Alonzo Reed |
+| 743 | 310 | Ashley Diana |
+| 744 | 310 | WhitS |
 | 745 | 310 | Glitzy Roll |
 | 746 | 310 | Kelly Bormann |
 | 747 | 309 | Peachy Wipegrid |
