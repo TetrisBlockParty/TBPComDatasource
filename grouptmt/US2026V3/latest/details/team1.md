@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:05:25 UTC
+# Standings for team1 as of 2026-06-11 16:06:27 UTC
 
 **Total Participants:** 2503
 
@@ -111,7 +111,7 @@
 | 103 | 1665 | Tameka Jones |
 | 104 | 1661 | LeeLee08 |
 | 105 | 1647 | Dawn L Washington-Feuquay |
-| 106 | 1639 | Loopy Block |
+| 106 | 1643 | Loopy Block |
 | 107 | 1627 | Janet Cooke |
 | 108 | 1623 | Robbie Cheeseman |
 | 109 | 1618 | Uneekly Mayde |
@@ -292,11 +292,11 @@
 | 284 | 641 | Marissa Sweet |
 | 285 | 628 | Joey Albright |
 | 286 | 627 | Tobey Marberry |
-| 287 | 624 | Centara Goette |
-| 288 | 623 | Daris Swearington |
-| 289 | 623 | Nicole Watson-Dixon |
-| 290 | 622 | Giggly Tiltbuilder |
-| 291 | 622 | Tessa Felice Hill |
+| 287 | 626 | Tessa Felice Hill |
+| 288 | 624 | Centara Goette |
+| 289 | 623 | Daris Swearington |
+| 290 | 623 | Nicole Watson-Dixon |
+| 291 | 622 | Giggly Tiltbuilder |
 | 292 | 620 | Tanya Clayton |
 | 293 | 620 | Jessica Carter |
 | 294 | 620 | DellaLucretia Thomas |
@@ -1489,25 +1489,25 @@
 | 1481 | 81 | Andre Simpson |
 | 1482 | 81 | JenNay |
 | 1483 | 81 | Amber Interrobang |
-| 1484 | 80 | Frothy Zoney |
-| 1485 | 80 | Lady Scorpio |
-| 1486 | 80 | Witty Snapbuilder |
-| 1487 | 80 | Frilly Riserbuilder |
-| 1488 | 80 | Shannon |
-| 1489 | 80 | Chevalier Burley |
-| 1490 | 80 | Demetrius Kelsey |
-| 1491 | 80 | Tina Criam |
-| 1492 | 80 | QueenJerelene Figero |
-| 1493 | 80 | Ness |
-| 1494 | 80 | Shoppingbagdrezzy |
-| 1495 | 80 | Monique Toya Good |
-| 1496 | 80 | Anthony D Holmes |
-| 1497 | 80 | Steven Bell |
-| 1498 | 80 | Alisha Dawson Crouch |
-| 1499 | 80 | Kimberly Red |
-| 1500 | 80 | Robin Prioleau |
-| 1501 | 79 | Zany Pivot |
-| 1502 | 79 | Boldy Line |
+| 1484 | 80 | Boldy Line |
+| 1485 | 80 | QueenJerelene Figero |
+| 1486 | 80 | Lady Scorpio |
+| 1487 | 80 | Witty Snapbuilder |
+| 1488 | 80 | Frilly Riserbuilder |
+| 1489 | 80 | Shannon |
+| 1490 | 80 | Chevalier Burley |
+| 1491 | 80 | Demetrius Kelsey |
+| 1492 | 80 | Tina Criam |
+| 1493 | 80 | Frothy Zoney |
+| 1494 | 80 | Ness |
+| 1495 | 80 | Shoppingbagdrezzy |
+| 1496 | 80 | Monique Toya Good |
+| 1497 | 80 | Anthony D Holmes |
+| 1498 | 80 | Steven Bell |
+| 1499 | 80 | Alisha Dawson Crouch |
+| 1500 | 80 | Kimberly Red |
+| 1501 | 80 | Robin Prioleau |
+| 1502 | 79 | Zany Pivot |
 | 1503 | 78 | Breeze |
 | 1504 | 78 | Bubbly Crawler |
 | 1505 | 78 | Angela C. |
