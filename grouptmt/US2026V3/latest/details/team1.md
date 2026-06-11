@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:32:46 UTC
+# Standings for team1 as of 2026-06-11 18:33:23 UTC
 
 **Total Participants:** 2519
 
@@ -421,12 +421,12 @@
 | 413 | 473 | Lisa420 |
 | 414 | 470 | Davionte DaeDae Hopson-Rodriguez |
 | 415 | 469 | Kendra McIntyre |
-| 416 | 465 | Bubbly Piececlear |
-| 417 | 464 | Michele Simpson |
-| 418 | 464 | Nate Myers |
-| 419 | 464 | Wayne Savannah |
-| 420 | 464 | Koreen Johnson-Woolford |
-| 421 | 461 | Bold Clusterer |
+| 416 | 465 | Bold Clusterer |
+| 417 | 465 | Bubbly Piececlear |
+| 418 | 464 | Michele Simpson |
+| 419 | 464 | Nate Myers |
+| 420 | 464 | Wayne Savannah |
+| 421 | 464 | Koreen Johnson-Woolford |
 | 422 | 460 | Kelli Couture |
 | 423 | 460 | SherylU |
 | 424 | 457 | Shalya Terry |
@@ -447,28 +447,28 @@
 | 439 | 449 | Brittnay Wright |
 | 440 | 448 | Maribel Vasquez |
 | 441 | 448 | Brand Nu |
-| 442 | 447 | Jennah |
-| 443 | 447 | LiyaSkye |
+| 442 | 447 | LiyaSkye |
+| 443 | 447 | Jennah |
 | 444 | 447 | Kyra Coleman |
 | 445 | 445 | Betsy B. Yohan |
 | 446 | 444 | kitten |
 | 447 | 444 | Melanin Monroe-Dandridge |
-| 448 | 443 | Chilly Wipebuilder |
-| 449 | 443 | Tonia Ramos |
+| 448 | 443 | Tonia Ramos |
+| 449 | 443 | Chilly Wipebuilder |
 | 450 | 441 | LaTonya Myers |
 | 451 | 441 | Lyn Reed |
 | 452 | 441 | Dennis J Herron II |
 | 453 | 440 | C Lo Green |
 | 454 | 440 | Carolyn Delphie |
-| 455 | 439 | Asani CHumba |
-| 456 | 438 | CJ Robinson |
+| 455 | 439 | LaShaun Stinson |
+| 456 | 439 | Asani CHumba |
 | 457 | 438 | Tipsy Linkroll |
-| 458 | 436 | Gbnola |
-| 459 | 436 | MindlessMic |
-| 460 | 434 | Saucy Faller |
-| 461 | 434 | Tajuana Juana'Cee Coleman |
-| 462 | 434 | Tosha Michelle |
-| 463 | 433 | LaShaun Stinson |
+| 458 | 438 | CJ Robinson |
+| 459 | 436 | Gbnola |
+| 460 | 436 | MindlessMic |
+| 461 | 434 | Tosha Michelle |
+| 462 | 434 | Tajuana Juana'Cee Coleman |
+| 463 | 434 | Saucy Faller |
 | 464 | 432 | blockman |
 | 465 | 431 | Bubbly Slammer |
 | 466 | 430 | SnazzyIvy |
@@ -483,21 +483,21 @@
 | 475 | 420 | Abby |
 | 476 | 420 | Glitzy Patternline |
 | 477 | 420 | Ketrell Bailey |
-| 478 | 419 | Yadira Salgado |
-| 479 | 419 | Stephen Glaze |
+| 478 | 419 | Stephen Glaze |
+| 479 | 419 | Yadira Salgado |
 | 480 | 419 | FunTime |
 | 481 | 418 | Cortaz Lawrie |
 | 482 | 417 | John Staub |
 | 483 | 416 | Twisty Pivot |
 | 484 | 416 | Silly Edgepiece |
 | 485 | 415 | De'Nell Edwards |
-| 486 | 414 | Melissa D. M. Hornsby |
-| 487 | 414 | Sammie Walker |
-| 488 | 414 | Giddy Staggerpiece |
+| 486 | 414 | Giddy Staggerpiece |
+| 487 | 414 | Melissa D. M. Hornsby |
+| 488 | 414 | Sammie Walker |
 | 489 | 413 | Lisa Fletcher |
-| 490 | 412 | Montego Allen |
-| 491 | 412 | Ashley MyBeauty Daniels |
-| 492 | 412 | Jessica Kirby |
+| 490 | 412 | Ashley MyBeauty Daniels |
+| 491 | 412 | Jessica Kirby |
+| 492 | 412 | Montego Allen |
 | 493 | 411 | Giggy Tower |
 | 494 | 410 | Kimberly Linares Hernandez |
 | 495 | 410 | Salim Thugger |
@@ -506,8 +506,8 @@
 | 498 | 408 | Michelle Fowler |
 | 499 | 405 | Slinky Snapbuilder |
 | 500 | 405 | Sherry D Singleton |
-| 501 | 403 | Tesiree Cray |
-| 502 | 403 | Brittany Fells |
+| 501 | 403 | Brittany Fells |
+| 502 | 403 | Tesiree Cray |
 | 503 | 402 | Trusi Rusi |
 | 504 | 401 | Cynda Cyn |
 | 505 | 400 | Sara Meri |
@@ -516,31 +516,31 @@
 | 508 | 399 | Kala LaRicka |
 | 509 | 398 | Kristine Marie Palmer |
 | 510 | 397 | Eric Spencer Whitaker |
-| 511 | 396 | Aridevina |
-| 512 | 396 | Chirpy Buildgrid |
-| 513 | 395 | Rachel |
-| 514 | 395 | Ysma Simmons |
+| 511 | 396 | Chirpy Buildgrid |
+| 512 | 396 | Aridevina |
+| 513 | 395 | Ysma Simmons |
+| 514 | 395 | Rachel |
 | 515 | 394 | Aaron Hartmann |
 | 516 | 393 | Shawn Himes |
 | 517 | 393 | Tonya Thomas |
 | 518 | 391 | Shelly Everette |
 | 519 | 391 | Stacy Nicole |
 | 520 | 391 | whatever |
-| 521 | 390 | Nisha Sunshine Jenkins |
-| 522 | 390 | Jean Regis |
-| 523 | 390 | Daddy |
+| 521 | 390 | Daddy |
+| 522 | 390 | Nisha Sunshine Jenkins |
+| 523 | 390 | Jean Regis |
 | 524 | 388 | Tiffany Jean Hinson |
 | 525 | 387 | Richelle Beck |
 | 526 | 386 | Nona Harriel |
-| 527 | 384 | Breezy Catcher |
-| 528 | 383 | SweetByNBy |
+| 527 | 384 | Jessie N Michael Silvers |
+| 528 | 384 | Breezy Catcher |
 | 529 | 383 | AF Cruz |
 | 530 | 383 | James Bryant II |
-| 531 | 383 | Crystal Cheresnowsky |
-| 532 | 382 | Ryan Runyan |
-| 533 | 382 | Kimmie Gargano |
-| 534 | 382 | Ann Chung |
-| 535 | 382 | Jessie N Michael Silvers |
+| 531 | 383 | SweetByNBy |
+| 532 | 383 | Crystal Cheresnowsky |
+| 533 | 382 | Ryan Runyan |
+| 534 | 382 | Kimmie Gargano |
+| 535 | 382 | Ann Chung |
 | 536 | 380 | Daniel Santana |
 | 537 | 380 | Giggy Edgefit |
 | 538 | 379 | Shakmar |
