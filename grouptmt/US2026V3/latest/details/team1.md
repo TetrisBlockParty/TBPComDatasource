@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:46:46 UTC
+# Standings for team1 as of 2026-06-11 08:47:23 UTC
 
 **Total Participants:** 2466
 
@@ -153,12 +153,12 @@
 | 145 | 1196 | ELM |
 | 146 | 1179 | Lesley Brunkus Cianfaglione |
 | 147 | 1158 | kc |
-| 148 | 1147 | Kaleisha Smith |
-| 149 | 1142 | Yasmin Nakea Wright |
-| 150 | 1136 | Cathy Young |
-| 151 | 1121 | Zippy Lifter |
-| 152 | 1121 | Lisa Müller |
-| 153 | 1110 | Danielle Barthelme |
+| 148 | 1152 | Danielle Barthelme |
+| 149 | 1147 | Kaleisha Smith |
+| 150 | 1142 | Yasmin Nakea Wright |
+| 151 | 1136 | Cathy Young |
+| 152 | 1121 | Zippy Lifter |
+| 153 | 1121 | Lisa Müller |
 | 154 | 1107 | Katherine Short |
 | 155 | 1100 | Christana Imjustbutton Stone |
 | 156 | 1097 | De'Laonzeo Anthony |
@@ -688,23 +688,23 @@
 | 680 | 280 | Jen Hallin |
 | 681 | 280 | Juicy |
 | 682 | 279 | Karen Knapp |
-| 683 | 279 | Loopy Tiler |
-| 684 | 279 | DeAngelo Sorrells |
-| 685 | 278 | Spicy Shatterblock |
-| 686 | 277 | William Vidra |
-| 687 | 276 | Antoinette Jones |
-| 688 | 276 | Londa Londa |
-| 689 | 276 | BB |
-| 690 | 275 | MzJuice Box |
-| 691 | 275 | Michelle Peters |
-| 692 | 275 | Chris Sladoje |
-| 693 | 274 | Rufus |
-| 694 | 274 | Stephanie Ellis |
-| 695 | 274 | Polite Granny |
-| 696 | 273 | Bubbly Basegrid |
-| 697 | 273 | Mommy Frank |
-| 698 | 273 | Krystal Maynard |
-| 699 | 273 | Lazy Tiltpiece |
+| 683 | 279 | Lazy Tiltpiece |
+| 684 | 279 | Loopy Tiler |
+| 685 | 279 | DeAngelo Sorrells |
+| 686 | 278 | Spicy Shatterblock |
+| 687 | 277 | William Vidra |
+| 688 | 276 | Antoinette Jones |
+| 689 | 276 | Londa Londa |
+| 690 | 276 | BB |
+| 691 | 275 | MzJuice Box |
+| 692 | 275 | Michelle Peters |
+| 693 | 275 | Chris Sladoje |
+| 694 | 274 | Rufus |
+| 695 | 274 | Stephanie Ellis |
+| 696 | 274 | Polite Granny |
+| 697 | 273 | Bubbly Basegrid |
+| 698 | 273 | Mommy Frank |
+| 699 | 273 | Krystal Maynard |
 | 700 | 273 | Kike Lua |
 | 701 | 273 | Kim Holzmiller |
 | 702 | 273 | Ta'Kaiyah M. Spann |
