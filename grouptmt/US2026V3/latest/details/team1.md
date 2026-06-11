@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 17:16:45 UTC
+# Standings for team1 as of 2026-06-11 17:17:25 UTC
 
 **Total Participants:** 2509
 
@@ -440,28 +440,28 @@
 | 432 | 452 | Charlene Baltimore |
 | 433 | 452 | Kenny MrOnethousand Peck |
 | 434 | 449 | Brittnay Wright |
-| 435 | 448 | Brand Nu |
-| 436 | 448 | Maribel Vasquez |
-| 437 | 447 | LiyaSkye |
-| 438 | 447 | Kyra Coleman |
+| 435 | 448 | Maribel Vasquez |
+| 436 | 448 | Brand Nu |
+| 437 | 447 | Kyra Coleman |
+| 438 | 447 | LiyaSkye |
 | 439 | 446 | McKayla Owens |
 | 440 | 444 | Melanin Monroe-Dandridge |
-| 441 | 444 | Betsy B. Yohan |
-| 442 | 444 | kitten |
+| 441 | 444 | kitten |
+| 442 | 444 | Betsy B. Yohan |
 | 443 | 443 | Tonia Ramos |
 | 444 | 441 | Lyn Reed |
 | 445 | 441 | LaTonya Myers |
 | 446 | 441 | Dennis J Herron II |
 | 447 | 440 | Carolyn Delphie |
 | 448 | 439 | Asani CHumba |
-| 449 | 438 | Tipsy Linkroll |
-| 450 | 438 | CJ Robinson |
-| 451 | 436 | Gbnola |
-| 452 | 436 | MindlessMic |
+| 449 | 438 | CJ Robinson |
+| 450 | 438 | Tipsy Linkroll |
+| 451 | 436 | MindlessMic |
+| 452 | 436 | Gbnola |
 | 453 | 434 | Saucy Faller |
 | 454 | 434 | Tajuana Juana'Cee Coleman |
-| 455 | 433 | LaShaun Stinson |
-| 456 | 433 | Andra Ward |
+| 455 | 433 | Andra Ward |
+| 456 | 433 | LaShaun Stinson |
 | 457 | 432 | blockman |
 | 458 | 430 | Chilly Wipebuilder |
 | 459 | 430 | SnazzyIvy |
@@ -475,62 +475,62 @@
 | 467 | 421 | Juan Alvarez |
 | 468 | 420 | Ketrell Bailey |
 | 469 | 419 | FunTime |
-| 470 | 419 | Stephen Glaze |
-| 471 | 419 | Yadira Salgado |
+| 470 | 419 | Yadira Salgado |
+| 471 | 419 | Stephen Glaze |
 | 472 | 418 | Cortaz Lawrie |
-| 473 | 417 | John Staub |
-| 474 | 417 | Matthieu Pistone |
+| 473 | 417 | Matthieu Pistone |
+| 474 | 417 | John Staub |
 | 475 | 416 | Silly Edgepiece |
 | 476 | 416 | Twisty Pivot |
 | 477 | 415 | De'Nell Edwards |
 | 478 | 414 | Giddy Staggerpiece |
-| 479 | 414 | Sammie Walker |
-| 480 | 414 | Melissa D. M. Hornsby |
+| 479 | 414 | Melissa D. M. Hornsby |
+| 480 | 414 | Sammie Walker |
 | 481 | 413 | Lisa Fletcher |
 | 482 | 413 | Abby |
-| 483 | 412 | Ashley MyBeauty Daniels |
-| 484 | 412 | Jessica Kirby |
-| 485 | 412 | Montego Allen |
-| 486 | 411 | C Lo Green |
+| 483 | 413 | C Lo Green |
+| 484 | 412 | Ashley MyBeauty Daniels |
+| 485 | 412 | Jessica Kirby |
+| 486 | 412 | Montego Allen |
 | 487 | 411 | Giggy Tower |
-| 488 | 410 | Kimberly Linares Hernandez |
-| 489 | 410 | Salim Thugger |
+| 488 | 410 | Salim Thugger |
+| 489 | 410 | Kimberly Linares Hernandez |
 | 490 | 409 | KeeKee Williams |
 | 491 | 409 | Still Ten Tay |
 | 492 | 405 | Jennah |
-| 493 | 405 | Sherry D Singleton |
+| 493 | 405 | Slinky Snapbuilder |
 | 494 | 405 | Bubbly Slammer |
-| 495 | 405 | Slinky Snapbuilder |
-| 496 | 403 | Tesiree Cray |
-| 497 | 403 | Brittany Fells |
+| 495 | 405 | Sherry D Singleton |
+| 496 | 403 | Brittany Fells |
+| 497 | 403 | Tesiree Cray |
 | 498 | 402 | Trusi Rusi |
 | 499 | 401 | Cynda Cyn |
-| 500 | 400 | Bbyunicorn |
-| 501 | 400 | Sara Meri |
+| 500 | 400 | Sara Meri |
+| 501 | 400 | Bbyunicorn |
 | 502 | 398 | Kristine Marie Palmer |
 | 503 | 397 | Eric Spencer Whitaker |
 | 504 | 396 | Glitzy Patternline |
 | 505 | 396 | Chirpy Buildgrid |
-| 506 | 395 | Ysma Simmons |
-| 507 | 395 | Rachel |
+| 506 | 395 | Rachel |
+| 507 | 395 | Ysma Simmons |
 | 508 | 394 | Aaron Hartmann |
-| 509 | 393 | Shawn Himes |
-| 510 | 393 | Tonya Thomas |
+| 509 | 393 | Tonya Thomas |
+| 510 | 393 | Shawn Himes |
 | 511 | 391 | Stacy Nicole |
-| 512 | 391 | whatever |
-| 513 | 391 | Shelly Everette |
-| 514 | 391 | Christina Rebecca |
-| 515 | 390 | Jean Regis |
-| 516 | 390 | Nisha Sunshine Jenkins |
+| 512 | 391 | Christina Rebecca |
+| 513 | 391 | whatever |
+| 514 | 391 | Shelly Everette |
+| 515 | 390 | Nisha Sunshine Jenkins |
+| 516 | 390 | Jean Regis |
 | 517 | 390 | Daddy |
 | 518 | 388 | Tiffany Jean Hinson |
 | 519 | 387 | Richelle Beck |
 | 520 | 386 | Nona Harriel |
 | 521 | 384 | Breezy Catcher |
-| 522 | 383 | SweetByNBy |
-| 523 | 383 | AF Cruz |
-| 524 | 383 | James Bryant II |
-| 525 | 383 | Crystal Cheresnowsky |
+| 522 | 383 | James Bryant II |
+| 523 | 383 | Crystal Cheresnowsky |
+| 524 | 383 | SweetByNBy |
+| 525 | 383 | AF Cruz |
 | 526 | 382 | Ann Chung |
 | 527 | 382 | Kimmie Gargano |
 | 528 | 381 | Soubletzy |
@@ -538,16 +538,16 @@
 | 530 | 380 | Daniel Santana |
 | 531 | 379 | Shakmar |
 | 532 | 379 | Kala LaRicka |
-| 533 | 378 | Tyree Tman Shinette |
-| 534 | 378 | Jolly Tilefall |
+| 533 | 378 | Jolly Tilefall |
+| 534 | 378 | Tyree Tman Shinette |
 | 535 | 377 | Ryan Runyan |
 | 536 | 376 | Skippy |
 | 537 | 374 | Lucy |
-| 538 | 373 | Twisty Brickfit |
-| 539 | 373 | Falisa Bell |
-| 540 | 373 | Jessie N Michael Silvers |
-| 541 | 371 | Krystal Maynard |
-| 542 | 371 | Asha Langford |
+| 538 | 373 | Jessie N Michael Silvers |
+| 539 | 373 | Twisty Brickfit |
+| 540 | 373 | Falisa Bell |
+| 541 | 371 | Asha Langford |
+| 542 | 371 | Krystal Maynard |
 | 543 | 370 | Allison Baxter |
 | 544 | 370 | Kristie |
 | 545 | 370 | Kat |
@@ -556,9 +556,9 @@
 | 548 | 367 | Darrel Pemberton |
 | 549 | 367 | CauliMac |
 | 550 | 366 | Lady T |
-| 551 | 365 | Tori Carter |
-| 552 | 365 | Vera Beckford |
-| 553 | 365 | TieMs BHughez |
+| 551 | 365 | Vera Beckford |
+| 552 | 365 | TieMs BHughez |
+| 553 | 365 | Tori Carter |
 | 554 | 364 | AnnaM |
 | 555 | 363 | Mighty Dropper |
 | 556 | 362 | Chris Holland |
@@ -668,10 +668,10 @@
 | 660 | 306 | Mafio SO |
 | 661 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 662 | 305 | BonnieB |
-| 663 | 305 | Shalena Marie Humphrey |
-| 664 | 304 | BB |
-| 665 | 304 | Octavia Bsb Johnson |
-| 666 | 303 | Spicy Shatterblock |
+| 663 | 305 | Spicy Shatterblock |
+| 664 | 305 | Shalena Marie Humphrey |
+| 665 | 304 | BB |
+| 666 | 304 | Octavia Bsb Johnson |
 | 667 | 303 | Chris Nelson |
 | 668 | 303 | Kelley Johnson |
 | 669 | 302 | Stanley Dixon |
@@ -1027,42 +1027,42 @@
 | 1019 | 181 | Abdul Malik |
 | 1020 | 181 | Maria Baez Medina |
 | 1021 | 181 | Marc Papa |
-| 1022 | 181 | Rosanna Ringold |
-| 1023 | 181 | Tamyka E Williams |
+| 1022 | 181 | Tamyka E Williams |
+| 1023 | 181 | Rosanna Ringold |
 | 1024 | 180 | Ebie |
 | 1025 | 180 | Heckabluntstho |
 | 1026 | 180 | Elaine Youmans |
-| 1027 | 179 | Boymama917 |
-| 1028 | 179 | Mumitt |
-| 1029 | 179 | Kahh |
-| 1030 | 179 | Wacky Stackbuilder |
-| 1031 | 178 | TotoCherue |
-| 1032 | 177 | Nicole Coko Thomas |
-| 1033 | 176 | Frisky Gridder |
-| 1034 | 176 | Taylor Jordan Hollis |
-| 1035 | 176 | April Lane |
+| 1027 | 180 | Wrist Mask |
+| 1028 | 179 | Boymama917 |
+| 1029 | 179 | Mumitt |
+| 1030 | 179 | Kahh |
+| 1031 | 179 | Wacky Stackbuilder |
+| 1032 | 178 | TotoCherue |
+| 1033 | 177 | Nicole Coko Thomas |
+| 1034 | 176 | Frisky Gridder |
+| 1035 | 176 | Taylor Jordan Hollis |
 | 1036 | 176 | Ayanna James |
-| 1037 | 176 | Austin Smith |
-| 1038 | 175 | Melvin Simpson |
-| 1039 | 175 | DaemahnFriday |
-| 1040 | 175 | Jennifer Moore |
-| 1041 | 174 | Pinky Pink |
-| 1042 | 174 | Hoppy Rumbler |
+| 1037 | 176 | April Lane |
+| 1038 | 176 | Austin Smith |
+| 1039 | 175 | Melvin Simpson |
+| 1040 | 175 | DaemahnFriday |
+| 1041 | 175 | Jennifer Moore |
+| 1042 | 174 | Pinky Pink |
 | 1043 | 174 | Hasty Brickzone |
-| 1044 | 173 | Beautiful314 |
-| 1045 | 173 | Latanya Gayle |
+| 1044 | 174 | Hoppy Rumbler |
+| 1045 | 173 | Beautiful314 |
 | 1046 | 173 | Lazy Chiseler |
 | 1047 | 173 | Damien Fonseca |
-| 1048 | 172 | Aaron Sohnrey |
-| 1049 | 171 | Dani McLeod |
-| 1050 | 171 | Wrist Mask |
-| 1051 | 171 | Margretta Henry |
-| 1052 | 171 | Deihja Weaver |
-| 1053 | 171 | Shanell Thomas |
-| 1054 | 170 | Devron Reedy |
+| 1048 | 173 | Latanya Gayle |
+| 1049 | 172 | Aaron Sohnrey |
+| 1050 | 171 | Shanell Thomas |
+| 1051 | 171 | Deihja Weaver |
+| 1052 | 171 | Margretta Henry |
+| 1053 | 171 | Dani McLeod |
+| 1054 | 170 | Brave Gridmatch |
 | 1055 | 170 | Sarah Guarino |
-| 1056 | 170 | Caitlin Michele |
-| 1057 | 170 | Brave Gridmatch |
+| 1056 | 170 | Devron Reedy |
+| 1057 | 170 | Caitlin Michele |
 | 1058 | 169 | LAhoneybun82 |
 | 1059 | 169 | rb |
 | 1060 | 169 | Amilia Cruz |

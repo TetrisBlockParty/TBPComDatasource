@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 17:16:45 UTC
+# Standings for team2 as of 2026-06-11 17:17:25 UTC
 
 **Total Participants:** 2988
 
@@ -110,9 +110,9 @@
 | 102 | 2362 | Lisa Breiding |
 | 103 | 2350 | Block Dog |
 | 104 | 2344 | Marie Edmonds |
-| 105 | 2329 | Karen Reid Cenkush |
-| 106 | 2323 | Angie Mccain |
-| 107 | 2306 | jmo87 |
+| 105 | 2340 | jmo87 |
+| 106 | 2329 | Karen Reid Cenkush |
+| 107 | 2323 | Angie Mccain |
 | 108 | 2231 | Bon Lynn |
 | 109 | 2189 | Courtney McCulley |
 | 110 | 2183 | Jazzy Faller |
@@ -136,12 +136,12 @@
 | 128 | 1929 | Gabriella Humphreys |
 | 129 | 1919 | Daybreak |
 | 130 | 1871 | Pickle |
-| 131 | 1782 | Wmk Rathbun |
+| 131 | 1832 | Wmk Rathbun |
 | 132 | 1766 | Poppy |
 | 133 | 1758 | Jamie Fenyus |
 | 134 | 1734 | Charlie Wilson |
 | 135 | 1723 | Frothy Fitzone |
-| 136 | 1708 | Amber Salazar |
+| 136 | 1715 | Amber Salazar |
 | 137 | 1675 | Shea |
 | 138 | 1669 | JB6 |
 | 139 | 1633 | Hoppy Rotate |
