@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:25:21 UTC
+# Standings for team4 as of 2026-06-11 09:26:31 UTC
 
 **Total Participants:** 2506
 
@@ -25,7 +25,7 @@
 | 17 | 8005 | delilahbelle |
 | 18 | 7835 | Jerald Jones |
 | 19 | 6954 | Senor Moppy |
-| 20 | 6778 | Bubbly Twistpiece |
+| 20 | 6788 | Bubbly Twistpiece |
 | 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
 | 23 | 6254 | Anna Moses |
@@ -37,7 +37,7 @@
 | 29 | 5200 | Squirrel Donkey |
 | 30 | 5169 | Chummy Rollzone |
 | 31 | 5126 | Juan Ford |
-| 32 | 4939 | Leah Barnett |
+| 32 | 5001 | Leah Barnett |
 | 33 | 4855 | Jackie Lucas |
 | 34 | 4841 | Daring Ziggy |
 | 35 | 4768 | Bryan DjMagnum Evans |
@@ -90,7 +90,7 @@
 | 82 | 2025 | Cherry |
 | 83 | 2023 | Sweet Stacker |
 | 84 | 2003 | Jackie Polanco |
-| 85 | 1929 | Cranky Buildout |
+| 85 | 1937 | Cranky Buildout |
 | 86 | 1920 | Alyssa Oth |
 | 87 | 1896 | Sassy Column |
 | 88 | 1870 | JoLinda Dunn |
@@ -417,8 +417,8 @@
 | 409 | 434 | Kimyatta Cavin |
 | 410 | 434 | Dolores Falco |
 | 411 | 433 | Slimm |
-| 412 | 432 | Melissa Lowe |
-| 413 | 431 | Snow77white |
+| 412 | 433 | Snow77white |
+| 413 | 432 | Melissa Lowe |
 | 414 | 431 | Henry Lanier |
 | 415 | 430 | Josh Keith Travierso |
 | 416 | 430 | Rhonda Dowling |
@@ -524,12 +524,12 @@
 | 516 | 348 | Kristen Nicole Depp-Stewart |
 | 517 | 348 | Sally Hiraldo |
 | 518 | 348 | TRUCHILD777$$$ |
-| 519 | 345 | yodaa |
-| 520 | 345 | Tipsy Twistslam |
-| 521 | 345 | Alyson M Kehler |
-| 522 | 344 | Marina |
-| 523 | 344 | Nikki |
-| 524 | 344 | Frilly Zoney |
+| 519 | 347 | Frilly Zoney |
+| 520 | 345 | yodaa |
+| 521 | 345 | Tipsy Twistslam |
+| 522 | 345 | Alyson M Kehler |
+| 523 | 344 | Marina |
+| 524 | 344 | Nikki |
 | 525 | 343 | maria |
 | 526 | 343 | Jen Smith |
 | 527 | 343 | BookwormCate |
@@ -2048,23 +2048,23 @@
 | 2040 | 30 | JAKADALEW |
 | 2041 | 30 | Lisa Jo Merwin |
 | 2042 | 30 | Mindy Likes Tats |
-| 2043 | 30 | Spicy Holder |
-| 2044 | 30 | Shirley Tow Middaugh |
-| 2045 | 30 | Delashawne Hodgson |
-| 2046 | 30 | Loopy Wipeout |
-| 2047 | 30 | Diana Acosta |
-| 2048 | 29 | Epic Dashfit |
-| 2049 | 29 | thaDon |
-| 2050 | 29 | Zappy Rotator |
-| 2051 | 29 | Keith Myles |
-| 2052 | 29 | Kylee |
-| 2053 | 29 | LIZ |
-| 2054 | 29 | Stacey Allen |
-| 2055 | 29 | Natasha Ferguson |
-| 2056 | 29 | Dee |
-| 2057 | 29 | Allison Berger |
-| 2058 | 29 | Maddie |
-| 2059 | 29 | Garett Lahti |
+| 2043 | 30 | Garett Lahti |
+| 2044 | 30 | Spicy Holder |
+| 2045 | 30 | Shirley Tow Middaugh |
+| 2046 | 30 | Delashawne Hodgson |
+| 2047 | 30 | Loopy Wipeout |
+| 2048 | 30 | Diana Acosta |
+| 2049 | 29 | Epic Dashfit |
+| 2050 | 29 | thaDon |
+| 2051 | 29 | Zappy Rotator |
+| 2052 | 29 | Keith Myles |
+| 2053 | 29 | Kylee |
+| 2054 | 29 | LIZ |
+| 2055 | 29 | Stacey Allen |
+| 2056 | 29 | Natasha Ferguson |
+| 2057 | 29 | Dee |
+| 2058 | 29 | Allison Berger |
+| 2059 | 29 | Maddie |
 | 2060 | 29 | Loopy Fall |
 | 2061 | 29 | Bonniee Lee |
 | 2062 | 29 | Taylor Renee |
