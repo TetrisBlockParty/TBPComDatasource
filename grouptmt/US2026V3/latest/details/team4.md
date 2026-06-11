@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 05:18:46 UTC
+# Standings for team4 as of 2026-06-11 05:19:24 UTC
 
 **Total Participants:** 2474
 
@@ -23,7 +23,7 @@
 | 15 | 8952 | Bryony Nicholson |
 | 16 | 8777 | Chris Hills |
 | 17 | 8005 | delilahbelle |
-| 18 | 7794 | Jerald Jones |
+| 18 | 7813 | Jerald Jones |
 | 19 | 6954 | Senor Moppy |
 | 20 | 6733 | Bubbly Twistpiece |
 | 21 | 6530 | Nia Mayfield |
@@ -129,8 +129,8 @@
 | 121 | 1306 | Irma |
 | 122 | 1297 | Bri Martin |
 | 123 | 1295 | Snippy Grid |
-| 124 | 1285 | Kristen Wallace |
-| 125 | 1285 | Kelly Bernard |
+| 124 | 1285 | Kelly Bernard |
+| 125 | 1285 | Kristen Wallace |
 | 126 | 1282 | Jenn Fitzgerald |
 | 127 | 1272 | Trice Stevenson |
 | 128 | 1258 | Blayne Kole |
@@ -144,14 +144,14 @@
 | 136 | 1180 | Anthony Magaraci |
 | 137 | 1180 | Hardy Fuller |
 | 138 | 1154 | Gerald Lew |
-| 139 | 1139 | Futrell Brent |
+| 139 | 1148 | Futrell Brent |
 | 140 | 1130 | blockhead |
 | 141 | 1123 | Tiffany Loree Tiffany Oneill |
 | 142 | 1106 | Loony Towerer |
 | 143 | 1093 | Suzanne North |
 | 144 | 1090 | Dandy Puzzler |
-| 145 | 1090 | Melissa WC |
-| 146 | 1090 | Becky Doll-Hall |
+| 145 | 1090 | Becky Doll-Hall |
+| 146 | 1090 | Melissa WC |
 | 147 | 1087 | Whitborn |
 | 148 | 1073 | Loony Glidepiece |
 | 149 | 1070 | Scamp Jones |
@@ -1625,9 +1625,9 @@
 | 1617 | 66 | Kimberly Nkwopara |
 | 1618 | 66 | Hakiem Shorter |
 | 1619 | 66 | Lazy Frame |
-| 1620 | 66 | Breezy Blockzone |
+| 1620 | 66 | Chill Snapclear |
 | 1621 | 66 | Cauntay Youngking Williams |
-| 1622 | 66 | Chill Snapclear |
+| 1622 | 66 | Breezy Blockzone |
 | 1623 | 65 | Rell geez |
 | 1624 | 65 | Dewy |
 | 1625 | 65 | Chachi |
@@ -1651,8 +1651,8 @@
 | 1643 | 63 | Amina Walker |
 | 1644 | 62 | happycappy |
 | 1645 | 62 | Zippy Snaplink |
-| 1646 | 61 | Michellee Lewis |
-| 1647 | 61 | Bryieson Watson |
+| 1646 | 61 | Bryieson Watson |
+| 1647 | 61 | Michellee Lewis |
 | 1648 | 61 | Bouncy Brickster |
 | 1649 | 61 | Heidi Lyn Ramirez |
 | 1650 | 61 | Speedy Caster |
@@ -1686,8 +1686,8 @@
 | 1678 | 60 | Kenya Lavan |
 | 1679 | 60 | Mumsy |
 | 1680 | 60 | Judy Dickey |
-| 1681 | 60 | Chris Rowe |
-| 1682 | 60 | LilRain |
+| 1681 | 60 | LilRain |
+| 1682 | 60 | Chris Rowe |
 | 1683 | 60 | ToneDeaf |
 | 1684 | 59 | Denisha Schinell Boyd |
 | 1685 | 59 | Chyla Burns |
@@ -1715,12 +1715,12 @@
 | 1707 | 57 | Edward Ramos |
 | 1708 | 57 | Cozy Clusterer |
 | 1709 | 57 | PapaB |
-| 1710 | 57 | Clever Shuffler |
-| 1711 | 57 | Angela Correa |
-| 1712 | 57 | LISHA 2 U |
-| 1713 | 57 | Jessica Smith |
-| 1714 | 56 | Frothy Pivotfall |
-| 1715 | 56 | Whos Square |
+| 1710 | 57 | Jessica Smith |
+| 1711 | 57 | LISHA 2 U |
+| 1712 | 57 | Angela Correa |
+| 1713 | 57 | Clever Shuffler |
+| 1714 | 56 | Whos Square |
+| 1715 | 56 | Frothy Pivotfall |
 | 1716 | 56 | Kerry Walker |
 | 1717 | 56 | Domo |
 | 1718 | 56 | Amanda Jill Sturgill |
@@ -1738,8 +1738,8 @@
 | 1730 | 55 | Brittany Lloyd |
 | 1731 | 55 | Sherell Bowens |
 | 1732 | 55 | Adolfo Bernal |
-| 1733 | 55 | Peezy_419 |
-| 1734 | 55 | The Jazziest |
+| 1733 | 55 | The Jazziest |
+| 1734 | 55 | Peezy_419 |
 | 1735 | 54 | Susan Gusso Peterson |
 | 1736 | 54 | Janie Burris |
 | 1737 | 54 | Giggy Mover |
@@ -1761,22 +1761,22 @@
 | 1753 | 53 | Agent |
 | 1754 | 53 | Amber Terry |
 | 1755 | 53 | Sunshine Dreamchaser Whitfield |
-| 1756 | 52 | Domenique Wilson |
-| 1757 | 52 | Vv |
-| 1758 | 52 | Air1 |
-| 1759 | 52 | Chill Slider |
-| 1760 | 52 | Erica Pinneo |
-| 1761 | 52 | Dougieanna |
-| 1762 | 51 | Shatika Wallace |
-| 1763 | 51 | Gareth |
-| 1764 | 51 | Breezy Clusterfit |
-| 1765 | 51 | DTM0013 |
-| 1766 | 51 | Jayson Hilliard |
-| 1767 | 51 | Joshua Doucette |
-| 1768 | 50 | Jacqueline Wright |
-| 1769 | 50 | Goodie |
-| 1770 | 50 | Mexican130 |
-| 1771 | 50 | Jaison Horton |
+| 1756 | 52 | Jaison Horton |
+| 1757 | 52 | Domenique Wilson |
+| 1758 | 52 | Vv |
+| 1759 | 52 | Air1 |
+| 1760 | 52 | Chill Slider |
+| 1761 | 52 | Erica Pinneo |
+| 1762 | 52 | Dougieanna |
+| 1763 | 51 | Shatika Wallace |
+| 1764 | 51 | Gareth |
+| 1765 | 51 | Breezy Clusterfit |
+| 1766 | 51 | DTM0013 |
+| 1767 | 51 | Jayson Hilliard |
+| 1768 | 51 | Joshua Doucette |
+| 1769 | 50 | Jacqueline Wright |
+| 1770 | 50 | Goodie |
+| 1771 | 50 | Mexican130 |
 | 1772 | 50 | keikei77 |
 | 1773 | 50 | Winza777 |
 | 1774 | 50 | Giggy Tetrisline |
