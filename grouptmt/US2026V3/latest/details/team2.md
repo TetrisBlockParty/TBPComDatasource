@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:36:41 UTC
+# Standings for team2 as of 2026-06-11 09:37:27 UTC
 
 **Total Participants:** 2938
 
@@ -552,16 +552,16 @@
 | 544 | 412 | Marge Cromer |
 | 545 | 411 | Brittney Williams |
 | 546 | 410 | Ssirkus |
-| 547 | 407 | Holly Huval |
+| 547 | 408 | Hyper Cascade |
 | 548 | 407 | Arik DiLorenzo |
 | 549 | 407 | Mona Good |
-| 550 | 406 | Spunky Linkblock |
-| 551 | 406 | Hyper Cascade |
-| 552 | 406 | Brooklyn Todd |
-| 553 | 405 | Brittni Lawrence |
-| 554 | 405 | Martha Lynn Wiggins |
-| 555 | 405 | Brandi Christensen-Henley |
-| 556 | 405 | DirtySweet84 |
+| 550 | 407 | Holly Huval |
+| 551 | 406 | Brooklyn Todd |
+| 552 | 406 | Spunky Linkblock |
+| 553 | 405 | Brandi Christensen-Henley |
+| 554 | 405 | DirtySweet84 |
+| 555 | 405 | Brittni Lawrence |
+| 556 | 405 | Martha Lynn Wiggins |
 | 557 | 403 | krissy |
 | 558 | 402 | Buffy Diane Blake |
 | 559 | 401 | Robin Lamb |
