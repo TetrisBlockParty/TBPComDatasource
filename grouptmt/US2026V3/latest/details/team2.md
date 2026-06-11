@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 17:28:25 UTC
+# Standings for team2 as of 2026-06-11 17:29:26 UTC
 
 **Total Participants:** 2988
 
@@ -295,11 +295,11 @@
 | 287 | 806 | Ratchet |
 | 288 | 805 | Nicole Hogue |
 | 289 | 798 | Nutty Curver |
-| 290 | 797 | Kristi Chestnut |
-| 291 | 796 | True |
-| 292 | 795 | Jenny |
-| 293 | 794 | Amy Taylor Pomerenk |
-| 294 | 792 | Aldotfus Williams |
+| 290 | 798 | Aldotfus Williams |
+| 291 | 797 | Kristi Chestnut |
+| 292 | 796 | True |
+| 293 | 795 | Jenny |
+| 294 | 794 | Amy Taylor Pomerenk |
 | 295 | 792 | Donna Esbensen-Alpini |
 | 296 | 784 | Bubbly Strikerpiece |
 | 297 | 783 | Layla Petroff |
@@ -315,10 +315,10 @@
 | 307 | 753 | James Ward |
 | 308 | 752 | Starr Collins |
 | 309 | 750 | Tisha Hairston |
-| 310 | 744 | Rondell Reedster |
-| 311 | 744 | Charles E Mccardell |
-| 312 | 742 | Mikia Stokes |
-| 313 | 742 | meg |
+| 310 | 744 | meg |
+| 311 | 744 | Rondell Reedster |
+| 312 | 744 | Charles E Mccardell |
+| 313 | 742 | Mikia Stokes |
 | 314 | 740 | Steph |
 | 315 | 738 | Lora Via |
 | 316 | 734 | Jennifer Smith |
@@ -481,12 +481,12 @@
 | 473 | 498 | Larry Cross |
 | 474 | 497 | Spunky Piecebuilder |
 | 475 | 496 | Melmel |
-| 476 | 491 | Dad |
-| 477 | 491 | Charity Hauser |
-| 478 | 489 | Suki Jacobs |
-| 479 | 486 | Tina Kinney |
-| 480 | 485 | Jenn |
-| 481 | 484 | Teresa Mandich |
+| 476 | 494 | Teresa Mandich |
+| 477 | 491 | Dad |
+| 478 | 491 | Charity Hauser |
+| 479 | 489 | Suki Jacobs |
+| 480 | 486 | Tina Kinney |
+| 481 | 485 | Jenn |
 | 482 | 483 | Danielle Pack Lewellen |
 | 483 | 481 | Sonya YuntHatton |
 | 484 | 480 | Carolyn McNaughton |
@@ -515,8 +515,8 @@
 | 507 | 463 | Mrs biotch |
 | 508 | 461 | Que Henderson |
 | 509 | 460 | Tiffany Lewis |
-| 510 | 460 | Linda Guay |
-| 511 | 460 | Jackie Walker |
+| 510 | 460 | Jackie Walker |
+| 511 | 460 | Linda Guay |
 | 512 | 459 | TiffTaff |
 | 513 | 458 | Reni Seven |
 | 514 | 458 | Talyn Domingues |
@@ -530,14 +530,14 @@
 | 522 | 452 | Clever Fallmatch |
 | 523 | 451 | Tara Flood |
 | 524 | 451 | Holly Huval |
-| 525 | 450 | Starvinmarvin |
-| 526 | 448 | Eric Drane |
-| 527 | 448 | Hyper Cascade |
-| 528 | 448 | Loopy Tower |
-| 529 | 447 | Lazy Staggerpiece |
-| 530 | 446 | Duke Morley |
-| 531 | 446 | Ray Daisy |
-| 532 | 446 | David Skelton |
+| 525 | 450 | David Skelton |
+| 526 | 450 | Starvinmarvin |
+| 527 | 448 | Eric Drane |
+| 528 | 448 | Hyper Cascade |
+| 529 | 448 | Loopy Tower |
+| 530 | 447 | Lazy Staggerpiece |
+| 531 | 446 | Duke Morley |
+| 532 | 446 | Ray Daisy |
 | 533 | 446 | Paula Haskins |
 | 534 | 445 | Tango Sierra |
 | 535 | 442 | Nicole Good |
@@ -606,21 +606,21 @@
 | 598 | 402 | Sunny Tiltbuilder |
 | 599 | 402 | Buffy Diane Blake |
 | 600 | 401 | Marilyn Mendoza |
-| 601 | 400 | Tracy Lee |
-| 602 | 400 | Zappy Liney |
-| 603 | 399 | Nikki Layman |
-| 604 | 399 | James Sayers |
-| 605 | 399 | Plucky Grabber |
-| 606 | 399 | Gina Leal |
-| 607 | 398 | Ashley Billiot Rhodes |
-| 608 | 398 | Vanessa King |
-| 609 | 396 | Joshua Dye |
-| 610 | 396 | Connie McCoy |
-| 611 | 396 | Tracey Cox |
-| 612 | 396 | Ashley Voelz |
-| 613 | 395 | Traci Abern |
-| 614 | 395 | Tipsy Wipebuilder |
-| 615 | 395 | Hector |
+| 601 | 401 | Gina Leal |
+| 602 | 400 | Tracy Lee |
+| 603 | 400 | Zappy Liney |
+| 604 | 399 | Nikki Layman |
+| 605 | 399 | James Sayers |
+| 606 | 399 | Plucky Grabber |
+| 607 | 398 | Vanessa King |
+| 608 | 398 | Ashley Billiot Rhodes |
+| 609 | 396 | Tracey Cox |
+| 610 | 396 | Ashley Voelz |
+| 611 | 396 | Joshua Dye |
+| 612 | 396 | Connie McCoy |
+| 613 | 395 | Tipsy Wipebuilder |
+| 614 | 395 | Hector |
+| 615 | 395 | Traci Abern |
 | 616 | 394 | Camilo Moreno |
 | 617 | 394 | Natasha Lee |
 | 618 | 393 | Elizabeth Henry |
@@ -654,10 +654,10 @@
 | 646 | 380 | Shelby Wilson |
 | 647 | 380 | Dapper Riser |
 | 648 | 380 | Melissa Willson |
-| 649 | 379 | Aubrey Gates |
-| 650 | 379 | Kenzie |
-| 651 | 378 | Heather Schardan |
-| 652 | 377 | Busted9mm |
+| 649 | 379 | Busted9mm |
+| 650 | 379 | Aubrey Gates |
+| 651 | 379 | Kenzie |
+| 652 | 378 | Heather Schardan |
 | 653 | 375 | Lisa Allen Frisk |
 | 654 | 375 | Bennie Farbo |
 | 655 | 373 | Nano. |
@@ -993,15 +993,15 @@
 | 985 | 243 | Silly square |
 | 986 | 243 | Brenda Zona |
 | 987 | 242 | Dandy Tiltgrid |
-| 988 | 242 | Bouncy Cluster |
-| 989 | 242 | Joseph Schreier |
-| 990 | 241 | Christina Reid |
-| 991 | 241 | Groovy Glider |
-| 992 | 241 | Jazzy |
-| 993 | 240 | Rhonda Driskill |
-| 994 | 240 | Kelly Hall Whitt |
-| 995 | 240 | Jason P. Schwartz |
-| 996 | 240 | Just Me |
+| 988 | 242 | Just Me |
+| 989 | 242 | Bouncy Cluster |
+| 990 | 242 | Joseph Schreier |
+| 991 | 241 | Christina Reid |
+| 992 | 241 | Groovy Glider |
+| 993 | 241 | Jazzy |
+| 994 | 240 | Rhonda Driskill |
+| 995 | 240 | Kelly Hall Whitt |
+| 996 | 240 | Jason P. Schwartz |
 | 997 | 240 | Katie Thacker |
 | 998 | 240 | Tami Leontyuk |
 | 999 | 240 | Ava |
@@ -1228,14 +1228,14 @@
 | 1220 | 186 | Kimberly Brooks |
 | 1221 | 186 | Ashley Cadle |
 | 1222 | 186 | Jessica Veness-Toth |
-| 1223 | 185 | Casandra Shenesky |
-| 1224 | 185 | Vicki Flippo |
-| 1225 | 185 | Squared |
-| 1226 | 185 | Samantha LeBlanc |
-| 1227 | 185 | Alessandria Anderson |
-| 1228 | 184 | Tonya Willprecht |
-| 1229 | 184 | Nikki Blilie |
-| 1230 | 184 | Bubbly Wrecker |
+| 1223 | 186 | Bubbly Wrecker |
+| 1224 | 185 | Casandra Shenesky |
+| 1225 | 185 | Vicki Flippo |
+| 1226 | 185 | Squared |
+| 1227 | 185 | Samantha LeBlanc |
+| 1228 | 185 | Alessandria Anderson |
+| 1229 | 184 | Tonya Willprecht |
+| 1230 | 184 | Nikki Blilie |
 | 1231 | 184 | Seamus |
 | 1232 | 184 | Kelly Christine Trimmer |
 | 1233 | 183 | Louis Brudzinski |
