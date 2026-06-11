@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 14:39:24 UTC
+# Standings for team1 as of 2026-06-11 14:40:23 UTC
 
 **Total Participants:** 2496
 
@@ -345,7 +345,7 @@
 | 337 | 531 | Tarnisha Neicy Jones |
 | 338 | 529 | Dai Bo |
 | 339 | 527 | MommaCia |
-| 340 | 523 | Janice Mowel Curtiss |
+| 340 | 525 | Janice Mowel Curtiss |
 | 341 | 523 | Bre Poston |
 | 342 | 521 | Jawaun Daniels |
 | 343 | 521 | SeanSanchez |
@@ -627,71 +627,71 @@
 | 619 | 319 | TY Newme Batts |
 | 620 | 318 | Latore Maxie |
 | 621 | 318 | Nerdy Snapfall |
-| 622 | 318 | Marlainia Boyd |
-| 623 | 318 | Poppy Twister |
+| 622 | 318 | Poppy Twister |
+| 623 | 318 | Marlainia Boyd |
 | 624 | 317 | Mister Reid |
 | 625 | 317 | Chris Holland |
 | 626 | 317 | Monica Tovar |
 | 627 | 316 | Comedian Gdane |
-| 628 | 314 | PSD |
-| 629 | 314 | Breezy Dashpiece |
+| 628 | 314 | Breezy Dashpiece |
+| 629 | 314 | PSD |
 | 630 | 313 | jeremy92 |
 | 631 | 312 | Spunky Gridder |
-| 632 | 311 | SceneGreenz Wali |
-| 633 | 311 | Sarah Steckbauer |
-| 634 | 310 | Jen Hallin |
-| 635 | 310 | Peppy Glider |
-| 636 | 310 | Brittany Sara Heldwein |
-| 637 | 310 | Bambam |
-| 638 | 309 | Frilly Shatterline |
-| 639 | 308 | Tonya Lee Sanders |
+| 632 | 311 | Sarah Steckbauer |
+| 633 | 311 | SceneGreenz Wali |
+| 634 | 310 | Bambam |
+| 635 | 310 | Brittany Sara Heldwein |
+| 636 | 310 | Peppy Glider |
+| 637 | 310 | Jen Hallin |
+| 638 | 309 | Kike Lua |
+| 639 | 309 | Frilly Shatterline |
 | 640 | 308 | Jjhandsome |
-| 641 | 308 | Darrel K Pemberton |
-| 642 | 308 | Melissa Olvera |
-| 643 | 307 | Coco |
-| 644 | 307 | CauliMac |
-| 645 | 307 | Aridevina |
-| 646 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 647 | 306 | Zappy Clearfit |
-| 648 | 306 | Mafio SO |
-| 649 | 305 | BonnieB |
+| 641 | 308 | Melissa Olvera |
+| 642 | 308 | Tonya Lee Sanders |
+| 643 | 308 | Darrel K Pemberton |
+| 644 | 307 | Coco |
+| 645 | 307 | CauliMac |
+| 646 | 307 | Aridevina |
+| 647 | 306 | Mafio SO |
+| 648 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 649 | 306 | Zappy Clearfit |
 | 650 | 305 | Shalena Marie Humphrey |
-| 651 | 304 | Octavia Bsb Johnson |
-| 652 | 303 | Kelvin Cook |
+| 651 | 305 | BonnieB |
+| 652 | 304 | Octavia Bsb Johnson |
 | 653 | 303 | Kelley Johnson |
 | 654 | 303 | Chris Nelson |
-| 655 | 303 | Taz Ballard |
-| 656 | 302 | Ebby |
-| 657 | 301 | Monica Fields |
-| 658 | 300 | Lazy Tiltpiece |
+| 655 | 303 | Kelvin Cook |
+| 656 | 303 | Taz Ballard |
+| 657 | 302 | Ebby |
+| 658 | 301 | Monica Fields |
 | 659 | 300 | brite |
-| 660 | 300 | BB |
-| 661 | 300 | Daring Blockclear |
-| 662 | 300 | Kate Moses |
-| 663 | 300 | Cheryl Miller |
-| 664 | 300 | Phillip White |
-| 665 | 300 | Stanley Dixon |
+| 660 | 300 | Lazy Tiltpiece |
+| 661 | 300 | Phillip White |
+| 662 | 300 | Daring Blockclear |
+| 663 | 300 | Stanley Dixon |
+| 664 | 300 | Kate Moses |
+| 665 | 300 | Cheryl Miller |
 | 666 | 300 | Quitito1014 |
-| 667 | 299 | Chandler Magee |
+| 667 | 300 | BB |
 | 668 | 299 | Spicy Shatterblock |
-| 669 | 299 | Kala LaRicka |
-| 670 | 298 | Rachael R Gull |
-| 671 | 298 | Logan Frost |
-| 672 | 297 | Marbama |
-| 673 | 296 | Lounique |
+| 669 | 299 | Chandler Magee |
+| 670 | 299 | Kala LaRicka |
+| 671 | 298 | Rachael R Gull |
+| 672 | 298 | Logan Frost |
+| 673 | 297 | Marbama |
 | 674 | 296 | Antoinette Jones |
 | 675 | 296 | Cornelius Neal |
-| 676 | 296 | Stephanie L Jeffries Moultrie |
-| 677 | 295 | Kike Lua |
+| 676 | 296 | Lounique |
+| 677 | 296 | Stephanie L Jeffries Moultrie |
 | 678 | 295 | Tyler |
 | 679 | 295 | Kat |
 | 680 | 294 | Tamika Rocheteau |
 | 681 | 294 | Cori Cleland |
-| 682 | 293 | Rhianna Dinki Austin |
-| 683 | 293 | crumb bumc |
-| 684 | 292 | Darrelle Short |
+| 682 | 293 | crumb bumc |
+| 683 | 293 | Rhianna Dinki Austin |
+| 684 | 292 | Dreamzzz |
 | 685 | 292 | Courtney Cicoria |
-| 686 | 292 | Dreamzzz |
+| 686 | 292 | Darrelle Short |
 | 687 | 291 | Pj Rojas |
 | 688 | 291 | Bella |
 | 689 | 291 | Brian Taylor |
@@ -837,18 +837,18 @@
 | 829 | 234 | Shameka Tiffany |
 | 830 | 233 | Claudia Price |
 | 831 | 233 | Aanngie Aanngie |
-| 832 | 232 | Lexx Robins |
-| 833 | 231 | Ashley Davis |
-| 834 | 231 | toxictonic92 |
-| 835 | 231 | Xrandomx |
-| 836 | 231 | Tyiesha Pie Farmer |
-| 837 | 231 | Rieshelda Marie White |
-| 838 | 230 | Ozell Jones Jr. |
-| 839 | 229 | Angela Kitchens |
-| 840 | 229 | Happy Blocky |
-| 841 | 229 | $hort Dog |
-| 842 | 229 | Derald Miller |
-| 843 | 229 | Chereese Harris |
+| 832 | 233 | Chereese Harris |
+| 833 | 232 | Lexx Robins |
+| 834 | 231 | Ashley Davis |
+| 835 | 231 | toxictonic92 |
+| 836 | 231 | Xrandomx |
+| 837 | 231 | Tyiesha Pie Farmer |
+| 838 | 231 | Rieshelda Marie White |
+| 839 | 230 | Ozell Jones Jr. |
+| 840 | 229 | Angela Kitchens |
+| 841 | 229 | Happy Blocky |
+| 842 | 229 | $hort Dog |
+| 843 | 229 | Derald Miller |
 | 844 | 228 | Meeee |
 | 845 | 227 | Elaine Pauley |
 | 846 | 227 | Nikita Jones |
