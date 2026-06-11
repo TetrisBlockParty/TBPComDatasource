@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 06:44:42 UTC
+# Standings for team2 as of 2026-06-11 06:45:23 UTC
 
 **Total Participants:** 2926
 
@@ -28,7 +28,7 @@
 | 20 | 8427 | Elizabeth Mooney |
 | 21 | 8400 | Jennifer Knott |
 | 22 | 8335 | Bea Bee |
-| 23 | 8190 | Andre Love |
+| 23 | 8196 | Andre Love |
 | 24 | 8086 | Tom Badgley |
 | 25 | 7940 | Dapper Rollout |
 | 26 | 7805 | Rashanna Bockhorn |
@@ -606,45 +606,45 @@
 | 598 | 380 | Zappy Liney |
 | 599 | 379 | Aubrey Gates |
 | 600 | 378 | Shannon Curry Riggle |
-| 601 | 376 | TetrisMama |
-| 602 | 376 | Ava Speedy |
+| 601 | 376 | Ava Speedy |
+| 602 | 376 | TetrisMama |
 | 603 | 374 | Natasha Lee |
 | 604 | 373 | Nano. |
 | 605 | 373 | s3lc4tr0n |
 | 606 | 373 | Amy Nicole McCanne |
-| 607 | 372 | ZBee |
-| 608 | 372 | Toni Washington |
-| 609 | 372 | Viani09 |
-| 610 | 372 | Flashy Basegrid |
-| 611 | 371 | Teddy Williams |
-| 612 | 370 | marsam |
-| 613 | 369 | Francesca Wagenhoffer |
-| 614 | 368 | Kimmi Blake |
-| 615 | 368 | Danielle Lyons |
-| 616 | 367 | Frisky Twist |
-| 617 | 367 | Jennifer McClure |
-| 618 | 366 | Ozge Akgun Tokat |
-| 619 | 366 | Doug Small |
-| 620 | 365 | Camilo Moreno |
-| 621 | 365 | Lee Leonard |
-| 622 | 364 | Robert Brewster |
-| 623 | 364 | Clever Fallmatch |
-| 624 | 364 | Joannah Capilitan |
+| 607 | 372 | Tito Garcia |
+| 608 | 372 | ZBee |
+| 609 | 372 | Toni Washington |
+| 610 | 372 | Viani09 |
+| 611 | 372 | Flashy Basegrid |
+| 612 | 371 | Teddy Williams |
+| 613 | 370 | marsam |
+| 614 | 369 | Francesca Wagenhoffer |
+| 615 | 368 | Kimmi Blake |
+| 616 | 368 | Danielle Lyons |
+| 617 | 367 | Frisky Twist |
+| 618 | 367 | Jennifer McClure |
+| 619 | 366 | Ozge Akgun Tokat |
+| 620 | 366 | Doug Small |
+| 621 | 365 | Camilo Moreno |
+| 622 | 365 | Lee Leonard |
+| 623 | 364 | Robert Brewster |
+| 624 | 364 | Clever Fallmatch |
 | 625 | 364 | Frisky Linkbuilder |
-| 626 | 361 | Wendy McKee |
-| 627 | 361 | Bianca Woodruff |
-| 628 | 360 | Teloney Humphrey |
-| 629 | 360 | Sharilyn Jackson |
-| 630 | 360 | Bouncy Snapmatch |
-| 631 | 360 | Tracey Cox |
-| 632 | 359 | Eric Wayne Maschman |
-| 633 | 359 | Sarah Grundisch |
-| 634 | 357 | Brandy Chinelle |
-| 635 | 357 | Amanda Priddy |
-| 636 | 356 | Perky Rollfit |
-| 637 | 356 | Joshua Dye |
-| 638 | 356 | Jill Goff |
-| 639 | 353 | Tito Garcia |
+| 626 | 364 | Joannah Capilitan |
+| 627 | 361 | Wendy McKee |
+| 628 | 361 | Bianca Woodruff |
+| 629 | 360 | Teloney Humphrey |
+| 630 | 360 | Sharilyn Jackson |
+| 631 | 360 | Bouncy Snapmatch |
+| 632 | 360 | Tracey Cox |
+| 633 | 359 | Eric Wayne Maschman |
+| 634 | 359 | Sarah Grundisch |
+| 635 | 357 | Brandy Chinelle |
+| 636 | 357 | Amanda Priddy |
+| 637 | 356 | Perky Rollfit |
+| 638 | 356 | Joshua Dye |
+| 639 | 356 | Jill Goff |
 | 640 | 352 | Raine |
 | 641 | 352 | Amber Marie |
 | 642 | 352 | Muffin Popper |
@@ -720,35 +720,35 @@
 | 712 | 315 | Wood |
 | 713 | 314 | Hyper Striker |
 | 714 | 314 | Epic Tilemaker |
-| 715 | 312 | whocares |
-| 716 | 312 | Gage Tucker |
-| 717 | 312 | Mariya Cline |
-| 718 | 312 | Chilly Surge |
-| 719 | 312 | Julie Brown |
-| 720 | 312 | Melissa Pronovost |
-| 721 | 311 | Holly Barefoot |
-| 722 | 311 | Brian Favre |
-| 723 | 311 | Alonzo Reed |
-| 724 | 311 | Sydney Cheyenne |
-| 725 | 310 | WhitS |
-| 726 | 310 | Ashley Diana |
-| 727 | 310 | Shakey Bakey |
-| 728 | 310 | Kelly Bormann |
-| 729 | 310 | Glitzy Roll |
-| 730 | 310 | Jessica Murphree |
-| 731 | 308 | Jamie Adams |
-| 732 | 307 | GiGi Cool |
-| 733 | 307 | Melissa Fink |
-| 734 | 307 | Bonita Alexander |
-| 735 | 307 | Nikki Sadler |
-| 736 | 306 | Reign Hustler |
+| 715 | 314 | Audrey Wood |
+| 716 | 312 | whocares |
+| 717 | 312 | Gage Tucker |
+| 718 | 312 | Mariya Cline |
+| 719 | 312 | Chilly Surge |
+| 720 | 312 | Julie Brown |
+| 721 | 312 | Melissa Pronovost |
+| 722 | 311 | Holly Barefoot |
+| 723 | 311 | Brian Favre |
+| 724 | 311 | Alonzo Reed |
+| 725 | 311 | Sydney Cheyenne |
+| 726 | 310 | WhitS |
+| 727 | 310 | Ashley Diana |
+| 728 | 310 | Shakey Bakey |
+| 729 | 310 | Kelly Bormann |
+| 730 | 310 | Glitzy Roll |
+| 731 | 310 | Jessica Murphree |
+| 732 | 308 | Jamie Adams |
+| 733 | 307 | GiGi Cool |
+| 734 | 307 | Melissa Fink |
+| 735 | 307 | Bonita Alexander |
+| 736 | 307 | Nikki Sadler |
 | 737 | 306 | Sara BlueEyes |
-| 738 | 306 | Angela VanOstrand |
-| 739 | 305 | Cozy Cascade |
-| 740 | 305 | Cindy Scott |
-| 741 | 305 | Susie Conger |
-| 742 | 305 | Shelby Wilson |
-| 743 | 304 | Audrey Wood |
+| 738 | 306 | Reign Hustler |
+| 739 | 306 | Angela VanOstrand |
+| 740 | 305 | Cozy Cascade |
+| 741 | 305 | Cindy Scott |
+| 742 | 305 | Susie Conger |
+| 743 | 305 | Shelby Wilson |
 | 744 | 304 | Cranky Basepiece |
 | 745 | 304 | Marlo Perry |
 | 746 | 302 | Errkuh |
@@ -785,8 +785,8 @@
 | 777 | 292 | Rescuegirl76 |
 | 778 | 292 | Cindy Brown |
 | 779 | 291 | Michele Stewart |
-| 780 | 290 | Kelli Pazour |
-| 781 | 290 | Duck |
+| 780 | 290 | Duck |
+| 781 | 290 | Kelli Pazour |
 | 782 | 290 | Cool Cornerfall |
 | 783 | 290 | Robin Stutler |
 | 784 | 289 | Precious Womack |
