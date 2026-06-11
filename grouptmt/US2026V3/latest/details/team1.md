@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 10:32:24 UTC
+# Standings for team1 as of 2026-06-11 10:33:19 UTC
 
 **Total Participants:** 2472
 
@@ -277,9 +277,9 @@
 | 269 | 638 | OhNoZer0 |
 | 270 | 635 | Tremaine Hiler |
 | 271 | 633 | Cheeky Pop |
-| 272 | 630 | SyTheEvilGenius1 |
-| 273 | 628 | BabyCakes |
-| 274 | 628 | Snippy Breaker |
+| 272 | 633 | Snippy Breaker |
+| 273 | 630 | SyTheEvilGenius1 |
+| 274 | 628 | BabyCakes |
 | 275 | 627 | Tobey Marberry |
 | 276 | 625 | Tamara Johnson-Carter |
 | 277 | 623 | Daris Swearington |
@@ -424,12 +424,12 @@
 | 416 | 431 | Lauraly |
 | 417 | 430 | John Spath |
 | 418 | 430 | Chilly Wipebuilder |
-| 419 | 428 | Poppy Buildout |
-| 420 | 427 | Cynthia Cruell |
-| 421 | 427 | kick it |
-| 422 | 426 | Nate Myers |
-| 423 | 425 | Jas |
-| 424 | 424 | Tajuana Juana'Cee Coleman |
+| 419 | 430 | Tajuana Juana'Cee Coleman |
+| 420 | 428 | Poppy Buildout |
+| 421 | 427 | Cynthia Cruell |
+| 422 | 427 | kick it |
+| 423 | 426 | Nate Myers |
+| 424 | 425 | Jas |
 | 425 | 423 | Jai |
 | 426 | 420 | HarleyJane |
 | 427 | 420 | Ketrell Bailey |
@@ -653,17 +653,17 @@
 | 645 | 298 | Rachael R Gull |
 | 646 | 297 | Hasty Rollzone |
 | 647 | 297 | meatballs |
-| 648 | 296 | Cornelius Neal |
-| 649 | 296 | Lounique |
-| 650 | 296 | Stephanie L Jeffries Moultrie |
-| 651 | 295 | Tyler |
-| 652 | 294 | Loony Clearer |
-| 653 | 294 | Cori Cleland |
-| 654 | 294 | Tamika Rocheteau |
-| 655 | 294 | Lazy Tiltpiece |
-| 656 | 293 | lizlizliz |
+| 648 | 296 | Ta'Kaiyah M. Spann |
+| 649 | 296 | Cornelius Neal |
+| 650 | 296 | Lounique |
+| 651 | 296 | Stephanie L Jeffries Moultrie |
+| 652 | 295 | Tyler |
+| 653 | 294 | Lazy Tiltpiece |
+| 654 | 294 | Loony Clearer |
+| 655 | 294 | Cori Cleland |
+| 656 | 294 | Tamika Rocheteau |
 | 657 | 293 | crumb bumc |
-| 658 | 292 | Ta'Kaiyah M. Spann |
+| 658 | 293 | lizlizliz |
 | 659 | 292 | Courtney Cicoria |
 | 660 | 291 | Pj Rojas |
 | 661 | 291 | Brian Taylor |
