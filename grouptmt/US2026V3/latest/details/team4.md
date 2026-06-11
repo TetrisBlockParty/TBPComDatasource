@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 00:14:45 UTC
+# Standings for team4 as of 2026-06-11 00:15:23 UTC
 
 **Total Participants:** 2412
 
@@ -100,10 +100,10 @@
 | 92 | 1624 | Chris Covington |
 | 93 | 1616 | Giggy Matchpiece |
 | 94 | 1593 | Jeremy Lopez |
-| 95 | 1588 | Cranky Buildout |
-| 96 | 1579 | Lupe Alburquerque |
-| 97 | 1504 | Chaz Duncan |
-| 98 | 1492 | Sherry Mooney |
+| 95 | 1592 | Sherry Mooney |
+| 96 | 1588 | Cranky Buildout |
+| 97 | 1579 | Lupe Alburquerque |
+| 98 | 1504 | Chaz Duncan |
 | 99 | 1464 | squareMel |
 | 100 | 1462 | Beee |
 | 101 | 1403 | Tina Shalay Hayes |
