@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:12:46 UTC
+# Standings for team4 as of 2026-06-11 08:13:23 UTC
 
 **Total Participants:** 2502
 
@@ -56,9 +56,9 @@
 | 48 | 3627 | Dennis Montoya |
 | 49 | 3600 | Leah Gorsuch |
 | 50 | 3533 | Wendy Zentz |
-| 51 | 3440 | Kathy Brookins |
-| 52 | 3391 | Dana Abegil Lawas |
-| 53 | 3344 | Bryan DjMagnum Evans |
+| 51 | 3441 | Bryan DjMagnum Evans |
+| 52 | 3440 | Kathy Brookins |
+| 53 | 3391 | Dana Abegil Lawas |
 | 54 | 3244 | Elissa S-k |
 | 55 | 3200 | 626 |
 | 56 | 3150 | Destiny Dyer |
@@ -328,9 +328,9 @@
 | 320 | 538 | Tawna Curry |
 | 321 | 537 | Sarah Perry Cook |
 | 322 | 537 | Kaash Brxtt |
-| 323 | 533 | Corey Jackson |
-| 324 | 533 | Chirpy Snapclear |
-| 325 | 532 | Groovy Towerbuilder |
+| 323 | 535 | Groovy Towerbuilder |
+| 324 | 533 | Corey Jackson |
+| 325 | 533 | Chirpy Snapclear |
 | 326 | 529 | Glitzy Patternbuilder |
 | 327 | 528 | Tammy June |
 | 328 | 526 | Kea Sushi |
@@ -2024,95 +2024,95 @@
 | 2016 | 31 | Hasty Lift |
 | 2017 | 31 | Silly kitty |
 | 2018 | 31 | Abby White |
-| 2019 | 31 | Pinkdragon |
-| 2020 | 31 | Babiideex13 |
-| 2021 | 30 | latingirl1056 |
-| 2022 | 30 | Jordan Maxwell |
+| 2019 | 31 | Naya |
+| 2020 | 31 | Pinkdragon |
+| 2021 | 31 | Babiideex13 |
+| 2022 | 30 | latingirl1056 |
 | 2023 | 30 | Christina Guadalupe |
-| 2024 | 30 | Chris Abney |
-| 2025 | 30 | Novel End83 |
-| 2026 | 30 | Mindy Likes Tats |
+| 2024 | 30 | Jordan Maxwell |
+| 2025 | 30 | Chris Abney |
+| 2026 | 30 | Novel End83 |
 | 2027 | 30 | Jesus Fuentes III |
 | 2028 | 30 | Witty Piecebuilder |
-| 2029 | 30 | Dash |
-| 2030 | 30 | Epic Shatterline |
+| 2029 | 30 | Mindy Likes Tats |
+| 2030 | 30 | Dash |
 | 2031 | 30 | Pambeh033 |
-| 2032 | 30 | MamaaCaashh |
-| 2033 | 30 | JAKADALEW |
-| 2034 | 30 | Pam Baumgardner |
-| 2035 | 30 | Lisa Jo Merwin |
-| 2036 | 30 | Janna Bruss |
-| 2037 | 30 | Delashawne Hodgson |
-| 2038 | 30 | Diana Acosta |
-| 2039 | 30 | Shirley Tow Middaugh |
-| 2040 | 30 | Spicy Holder |
-| 2041 | 30 | Loopy Wipeout |
-| 2042 | 29 | Epic Dashfit |
-| 2043 | 29 | Maddie |
-| 2044 | 29 | Natasha Ferguson |
-| 2045 | 29 | thaDon |
-| 2046 | 29 | Keith Myles |
-| 2047 | 29 | Kylee |
-| 2048 | 29 | Garett Lahti |
-| 2049 | 29 | Loopy Fall |
-| 2050 | 29 | LIZ |
-| 2051 | 29 | Bonniee Lee |
-| 2052 | 29 | Allison Berger |
-| 2053 | 29 | Zappy Rotator |
-| 2054 | 29 | Taylor Renee |
-| 2055 | 29 | Stacey Allen |
-| 2056 | 28 | Wacky Brickroll |
-| 2057 | 28 | Littlebird |
-| 2058 | 28 | AceBoogie |
+| 2032 | 30 | Epic Shatterline |
+| 2033 | 30 | MamaaCaashh |
+| 2034 | 30 | JAKADALEW |
+| 2035 | 30 | Pam Baumgardner |
+| 2036 | 30 | Lisa Jo Merwin |
+| 2037 | 30 | Janna Bruss |
+| 2038 | 30 | Delashawne Hodgson |
+| 2039 | 30 | Diana Acosta |
+| 2040 | 30 | Shirley Tow Middaugh |
+| 2041 | 30 | Spicy Holder |
+| 2042 | 30 | Loopy Wipeout |
+| 2043 | 29 | Epic Dashfit |
+| 2044 | 29 | Kylee |
+| 2045 | 29 | Maddie |
+| 2046 | 29 | Natasha Ferguson |
+| 2047 | 29 | thaDon |
+| 2048 | 29 | Stacey Allen |
+| 2049 | 29 | Keith Myles |
+| 2050 | 29 | Taylor Renee |
+| 2051 | 29 | Garett Lahti |
+| 2052 | 29 | Bonniee Lee |
+| 2053 | 29 | LIZ |
+| 2054 | 29 | Loopy Fall |
+| 2055 | 29 | Allison Berger |
+| 2056 | 29 | Zappy Rotator |
+| 2057 | 28 | Wacky Brickroll |
+| 2058 | 28 | Littlebird |
 | 2059 | 28 | Barbara Fagan |
 | 2060 | 28 | Jamaal Sanderson |
-| 2061 | 28 | Lori Sohn |
+| 2061 | 28 | AceBoogie |
 | 2062 | 28 | Dapper Corner |
-| 2063 | 28 | Taya Reynolds |
-| 2064 | 28 | Johanan Garcia |
-| 2065 | 28 | Keilia M. Moore |
-| 2066 | 28 | Margarita Santana |
-| 2067 | 28 | Willedtra Griffin |
-| 2068 | 27 | Kau Morris |
-| 2069 | 27 | Loopy Bridger |
-| 2070 | 27 | Twisty Gridclear |
-| 2071 | 27 | Jose Leandro Calderin |
-| 2072 | 27 | Beto Vidaurri |
-| 2073 | 27 | Naya |
+| 2063 | 28 | Lori Sohn |
+| 2064 | 28 | Keilia M. Moore |
+| 2065 | 28 | Taya Reynolds |
+| 2066 | 28 | Johanan Garcia |
+| 2067 | 28 | Margarita Santana |
+| 2068 | 28 | Willedtra Griffin |
+| 2069 | 27 | Twisty Gridclear |
+| 2070 | 27 | Loopy Bridger |
+| 2071 | 27 | Beto Vidaurri |
+| 2072 | 27 | Jose Leandro Calderin |
+| 2073 | 27 | Hyper Twistfit |
 | 2074 | 27 | Anna Bourff |
 | 2075 | 27 | Dawn Collins |
-| 2076 | 27 | Hyper Twistfit |
+| 2076 | 27 | Kau Morris |
 | 2077 | 27 | Chipper Brickfit |
-| 2078 | 27 | samismia |
-| 2079 | 27 | Tetrees |
-| 2080 | 27 | Cranky Towerbuilder |
-| 2081 | 27 | boo |
-| 2082 | 27 | Dreamy Balancer |
+| 2078 | 27 | Tetrees |
+| 2079 | 27 | samismia |
+| 2080 | 27 | Dreamy Balancer |
+| 2081 | 27 | Cranky Towerbuilder |
+| 2082 | 27 | boo |
 | 2083 | 27 | Josh Drew |
 | 2084 | 27 | Beth Tanacea Mathern |
-| 2085 | 26 | Von |
-| 2086 | 26 | Ryan Espinoza |
-| 2087 | 26 | lilthey |
-| 2088 | 26 | Funky Riser |
-| 2089 | 26 | Cheery Liney |
+| 2085 | 26 | Ryan Espinoza |
+| 2086 | 26 | lilthey |
+| 2087 | 26 | Funky Riser |
+| 2088 | 26 | Cheery Liney |
+| 2089 | 26 | Zada |
 | 2090 | 26 | DarcyDarc |
-| 2091 | 26 | Rebecca Rae Reed |
-| 2092 | 26 | Glenda Zulueta Steed |
-| 2093 | 26 | Rob$GEE |
-| 2094 | 26 | AJscooter |
-| 2095 | 26 | Omega |
-| 2096 | 26 | Zada |
+| 2091 | 26 | Von |
+| 2092 | 26 | Rebecca Rae Reed |
+| 2093 | 26 | Glenda Zulueta Steed |
+| 2094 | 26 | Rob$GEE |
+| 2095 | 26 | AJscooter |
+| 2096 | 26 | Omega |
 | 2097 | 26 | Love GH |
 | 2098 | 26 | Kevin Lyles |
 | 2099 | 26 | Lacey Decker |
 | 2100 | 26 | Leslie Marie WarClub |
 | 2101 | 26 | Ivyleata McFadden |
 | 2102 | 25 | Gellix |
-| 2103 | 25 | chapis |
-| 2104 | 25 | Rebecca Booth |
+| 2103 | 25 | Rebecca Booth |
+| 2104 | 25 | chapis |
 | 2105 | 25 | Jessica Lee Christy |
-| 2106 | 25 | Wacky Clearzone |
-| 2107 | 25 | Happy Slamdrop |
+| 2106 | 25 | Happy Slamdrop |
+| 2107 | 25 | Wacky Clearzone |
 | 2108 | 25 | Daisy Jaramillo |
 | 2109 | 25 | IvyRenee Collette |
 | 2110 | 25 | Mrs Tucker |
