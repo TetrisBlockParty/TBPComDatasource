@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 05:38:44 UTC
+# Standings for team2 as of 2026-06-11 05:39:26 UTC
 
 **Total Participants:** 2917
 
@@ -121,7 +121,7 @@
 | 113 | 1929 | Gabriella Humphreys |
 | 114 | 1928 | Deborah Boyce Minor |
 | 115 | 1905 | Daybreak |
-| 116 | 1879 | Giddy Slamdrop |
+| 116 | 1899 | Giddy Slamdrop |
 | 117 | 1830 | Pickle |
 | 118 | 1820 | Josh Twilley |
 | 119 | 1781 | jmo87 |
@@ -633,11 +633,11 @@
 | 625 | 359 | Sarah Grundisch |
 | 626 | 359 | Wendy McKee |
 | 627 | 359 | Eric Wayne Maschman |
-| 628 | 357 | Amanda Priddy |
-| 629 | 357 | Brandy Chinelle |
-| 630 | 356 | Jill Goff |
-| 631 | 356 | Perky Rollfit |
-| 632 | 356 | Brittany Mathis |
+| 628 | 359 | Brittany Mathis |
+| 629 | 357 | Amanda Priddy |
+| 630 | 357 | Brandy Chinelle |
+| 631 | 356 | Jill Goff |
+| 632 | 356 | Perky Rollfit |
 | 633 | 356 | Joshua Dye |
 | 634 | 352 | Amber Marie |
 | 635 | 352 | Muffin Popper |
@@ -894,14 +894,14 @@
 | 886 | 250 | Daring Spinzone |
 | 887 | 250 | Erin Lemanski |
 | 888 | 250 | Kim Powers |
-| 889 | 250 | Zesty Dash |
-| 890 | 250 | Amanda Kennedy |
-| 891 | 250 | Duck |
-| 892 | 250 | Happy Drop |
-| 893 | 249 | Audrey 'Spence' Hallmark |
-| 894 | 249 | Melissa Mae |
-| 895 | 249 | Jessi Ann |
-| 896 | 249 | Rachel Wooldridge |
+| 889 | 250 | Happy Drop |
+| 890 | 250 | Zesty Dash |
+| 891 | 250 | Amanda Kennedy |
+| 892 | 250 | Duck |
+| 893 | 249 | Rachel Wooldridge |
+| 894 | 249 | Jessi Ann |
+| 895 | 249 | Melissa Mae |
+| 896 | 249 | Audrey 'Spence' Hallmark |
 | 897 | 249 | Raymond Dawson |
 | 898 | 249 | Mtnblzr |
 | 899 | 249 | Wacky Holder |
@@ -914,17 +914,17 @@
 | 906 | 247 | Amanda Neal |
 | 907 | 247 | Chesney |
 | 908 | 246 | Rachel M. Farnsworth |
-| 909 | 246 | Amy |
-| 910 | 245 | Jenn Mccarty |
+| 909 | 246 | Happy Shatterblock |
+| 910 | 246 | Amy |
 | 911 | 245 | Patty Ann Hendrickson |
-| 912 | 244 | Giggy Dropzone |
+| 912 | 245 | Jenn Mccarty |
 | 913 | 244 | Cheeky Cornerfall |
-| 914 | 244 | Happy Shatterblock |
-| 915 | 243 | Coleta Singleton-Gallishaw |
-| 916 | 243 | Stephanie Smith Robinson |
+| 914 | 244 | Giggy Dropzone |
+| 915 | 243 | Stephanie Smith Robinson |
+| 916 | 243 | Coleta Singleton-Gallishaw |
 | 917 | 243 | Silly square |
-| 918 | 243 | Lori Lorenz |
-| 919 | 243 | Nichole Fuller |
+| 918 | 243 | Nichole Fuller |
+| 919 | 243 | Lori Lorenz |
 | 920 | 242 | Bouncy Cluster |
 | 921 | 242 | Dandy Tiltgrid |
 | 922 | 241 | Groovy Glider |
@@ -932,8 +932,8 @@
 | 924 | 241 | Christina Reid |
 | 925 | 241 | Heather Billodeau |
 | 926 | 240 | Tami Leontyuk |
-| 927 | 240 | Amy |
-| 928 | 240 | y |
+| 927 | 240 | y |
+| 928 | 240 | Amy |
 | 929 | 240 | Ava |
 | 930 | 240 | Debbie Davis |
 | 931 | 240 | Katie Thacker |
@@ -1423,14 +1423,14 @@
 | 1415 | 136 | Lauren Maxwell |
 | 1416 | 136 | Plucky Linkmatch |
 | 1417 | 136 | Matthew Black |
-| 1418 | 135 | Stacey Ann Kelley |
-| 1419 | 135 | Ava Taber |
-| 1420 | 135 | Heather Lewis |
-| 1421 | 135 | Daring Pivotfall |
-| 1422 | 134 | Glowing Earthy Embers |
-| 1423 | 134 | Bold Bridgepiece |
+| 1418 | 136 | Katie Boen |
+| 1419 | 135 | Stacey Ann Kelley |
+| 1420 | 135 | Ava Taber |
+| 1421 | 135 | Heather Lewis |
+| 1422 | 135 | Daring Pivotfall |
+| 1423 | 134 | Glowing Earthy Embers |
 | 1424 | 134 | Lesley Stoeckle |
-| 1425 | 134 | Katie Boen |
+| 1425 | 134 | Bold Bridgepiece |
 | 1426 | 134 | Rachael Roberts |
 | 1427 | 134 | Helen Chao |
 | 1428 | 134 | Mona Wagner |
