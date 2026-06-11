@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:20:48 UTC
+# Standings for team1 as of 2026-06-11 08:21:24 UTC
 
 **Total Participants:** 2464
 
@@ -118,8 +118,8 @@
 | 110 | 1497 | Rolanda Williams |
 | 111 | 1496 | Dawn L Washington-Feuquay |
 | 112 | 1473 | rls |
-| 113 | 1467 | Crystal Boyd |
-| 114 | 1463 | Robbie Cheeseman |
+| 113 | 1467 | Robbie Cheeseman |
+| 114 | 1467 | Crystal Boyd |
 | 115 | 1454 | Spicy Balancer |
 | 116 | 1434 | Dulo |
 | 117 | 1432 | She Higgy |
@@ -158,13 +158,13 @@
 | 150 | 1136 | Cathy Young |
 | 151 | 1121 | Lisa Müller |
 | 152 | 1121 | Zippy Lifter |
-| 153 | 1100 | Christana Imjustbutton Stone |
-| 154 | 1097 | De'Laonzeo Anthony |
-| 155 | 1092 | Raymond Keeler |
-| 156 | 1088 | Jimmie Makia |
-| 157 | 1080 | Nerdy Blockpiece |
-| 158 | 1078 | Quirky Fallgrid |
-| 159 | 1067 | Katherine Short |
+| 153 | 1107 | Katherine Short |
+| 154 | 1100 | Christana Imjustbutton Stone |
+| 155 | 1097 | De'Laonzeo Anthony |
+| 156 | 1092 | Raymond Keeler |
+| 157 | 1088 | Jimmie Makia |
+| 158 | 1080 | Nerdy Blockpiece |
+| 159 | 1078 | Quirky Fallgrid |
 | 160 | 1064 | Michelle Titus |
 | 161 | 1061 | Atlantalindi |
 | 162 | 1061 | Joy Citizen Pickney |

@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:20:48 UTC
+# Standings for team4 as of 2026-06-11 08:21:24 UTC
 
 **Total Participants:** 2502
 
@@ -143,8 +143,8 @@
 | 135 | 1206 | Kimberly Civinski |
 | 136 | 1184 | CJ |
 | 137 | 1182 | Phil Peterson |
-| 138 | 1180 | Hardy Fuller |
-| 139 | 1180 | Anthony Magaraci |
+| 138 | 1180 | Anthony Magaraci |
+| 139 | 1180 | Hardy Fuller |
 | 140 | 1173 | Gerald Lew |
 | 141 | 1157 | Futrell Brent |
 | 142 | 1154 | Tanya AfricanQueen Savage |
@@ -202,8 +202,8 @@
 | 194 | 894 | Tiffany Brooke |
 | 195 | 892 | George Palacios |
 | 196 | 881 | Katy |
-| 197 | 862 | Christy Beezley-Forbush |
-| 198 | 862 | Bean |
+| 197 | 862 | Bean |
+| 198 | 862 | Christy Beezley-Forbush |
 | 199 | 861 | Izz |
 | 200 | 860 | Shiny Dashy |
 | 201 | 857 | Cinta Marie |
@@ -246,8 +246,8 @@
 | 238 | 724 | Slinky Stackzone |
 | 239 | 723 | zoes |
 | 240 | 718 | Lush Fitblock |
-| 241 | 716 | Celina DiBastiani |
-| 242 | 716 | Samantha Worley |
+| 241 | 716 | Samantha Worley |
+| 242 | 716 | Celina DiBastiani |
 | 243 | 713 | Jewelz |
 | 244 | 712 | Nicole |
 | 245 | 710 | Katie Martin |
@@ -316,13 +316,13 @@
 | 308 | 559 | matt |
 | 309 | 558 | Aramat |
 | 310 | 557 | Chummy Jumper |
-| 311 | 556 | Andrick |
-| 312 | 556 | Cherrypir05 |
+| 311 | 556 | Cherrypir05 |
+| 312 | 556 | Andrick |
 | 313 | 547 | Swanky Brickzone |
 | 314 | 546 | Honey |
 | 315 | 546 | Earl Edwards |
 | 316 | 545 | Bobbie Harrell |
-| 317 | 543 | Groovy Towerbuilder |
+| 317 | 545 | Groovy Towerbuilder |
 | 318 | 541 | Snazzy Corner |
 | 319 | 540 | Shy |
 | 320 | 540 | Goofy Fall |
@@ -342,22 +342,22 @@
 | 334 | 513 | Melika Zeheb |
 | 335 | 513 | Chirpy Link |
 | 336 | 510 | Bridget Stevens |
-| 337 | 509 | Tipsy Piecebuilder |
-| 338 | 509 | Funky Tiler |
+| 337 | 509 | Funky Tiler |
+| 338 | 509 | Tipsy Piecebuilder |
 | 339 | 508 | Becky McCool |
-| 340 | 506 | Randy M Hatch |
-| 341 | 506 | Snazzy Fitclear |
-| 342 | 505 | Sassy Rollpiece |
-| 343 | 505 | Patrick Alley |
-| 344 | 505 | jaz |
-| 345 | 504 | Speedy Twistslam |
-| 346 | 501 | Breezy Blockzone |
-| 347 | 500 | Pepper |
-| 348 | 500 | June Hoffman |
-| 349 | 498 | Maurice DeJean |
-| 350 | 498 | Anna Gribble |
-| 351 | 496 | Troy Zanelli |
-| 352 | 495 | Shanae Taylor |
+| 340 | 507 | Shanae Taylor |
+| 341 | 506 | Randy M Hatch |
+| 342 | 506 | Snazzy Fitclear |
+| 343 | 505 | Sassy Rollpiece |
+| 344 | 505 | Patrick Alley |
+| 345 | 505 | jaz |
+| 346 | 504 | Speedy Twistslam |
+| 347 | 501 | Breezy Blockzone |
+| 348 | 500 | Pepper |
+| 349 | 500 | June Hoffman |
+| 350 | 498 | Maurice DeJean |
+| 351 | 498 | Anna Gribble |
+| 352 | 496 | Troy Zanelli |
 | 353 | 494 | Tiffany Bunker-Hill |
 | 354 | 492 | RotatedWrongAgain |
 | 355 | 491 | Anthony McAlister |
@@ -368,8 +368,8 @@
 | 360 | 485 | Jojo Ann |
 | 361 | 483 | Brian Woods |
 | 362 | 482 | Sandra Stark |
-| 363 | 480 | Adam Dickinson |
-| 364 | 480 | Goofy Linkmatch |
+| 363 | 480 | Goofy Linkmatch |
+| 364 | 480 | Adam Dickinson |
 | 365 | 478 | Dawn Marie Trujillo |
 | 366 | 477 | Amandacolle |
 | 367 | 476 | MomyLiz |
