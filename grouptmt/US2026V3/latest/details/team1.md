@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 05:16:46 UTC
+# Standings for team1 as of 2026-06-11 05:17:25 UTC
 
 **Total Participants:** 2441
 
@@ -133,13 +133,13 @@
 | 125 | 1344 | G Ah Mayes |
 | 126 | 1323 | Denise B |
 | 127 | 1323 | Catara Renae Oliver |
-| 128 | 1303 | Aviv Zehavi |
-| 129 | 1296 | Alana Renee |
-| 130 | 1294 | Anthony Washington |
-| 131 | 1284 | sha |
-| 132 | 1282 | Jon Gathers |
-| 133 | 1277 | Dynah Gordon |
-| 134 | 1274 | Dulo |
+| 128 | 1314 | Dulo |
+| 129 | 1303 | Aviv Zehavi |
+| 130 | 1296 | Alana Renee |
+| 131 | 1294 | Anthony Washington |
+| 132 | 1284 | sha |
+| 133 | 1282 | Jon Gathers |
+| 134 | 1277 | Dynah Gordon |
 | 135 | 1263 | Po Marley |
 | 136 | 1260 | IamJust Neyamijah Washington Sr. |
 | 137 | 1244 | Jaida King |
@@ -284,10 +284,10 @@
 | 276 | 607 | SPNLover24 |
 | 277 | 607 | Frisky Fall |
 | 278 | 605 | Tamara Johnson-Carter |
-| 279 | 601 | Marie Wilson |
-| 280 | 599 | IThinkNot |
-| 281 | 594 | Lashaunda |
-| 282 | 594 | Andre Sanon |
+| 279 | 604 | Andre Sanon |
+| 280 | 601 | Marie Wilson |
+| 281 | 599 | IThinkNot |
+| 282 | 594 | Lashaunda |
 | 283 | 594 | Rachael Bakowicz Edwards |
 | 284 | 588 | BabyCakes |
 | 285 | 588 | Kenny 'Tailormade' Boyd |
@@ -536,10 +536,10 @@
 | 528 | 343 | Earl Williams |
 | 529 | 342 | Ashley Monet Terrell |
 | 530 | 341 | Alyssa Rae |
-| 531 | 340 | Mighty Dropper |
-| 532 | 340 | Chocolate |
-| 533 | 339 | 신재호 |
-| 534 | 339 | Montego Allen |
+| 531 | 340 | Montego Allen |
+| 532 | 340 | Mighty Dropper |
+| 533 | 340 | Chocolate |
+| 534 | 339 | 신재호 |
 | 535 | 338 | Giddy Staggerpiece |
 | 536 | 338 | Daniel Santana |
 | 537 | 337 | Nora Mahmoud |
@@ -769,60 +769,60 @@
 | 761 | 243 | whatever |
 | 762 | 242 | Shemar Singleton |
 | 763 | 242 | Big Bovice |
-| 764 | 241 | Ad Doctor |
-| 765 | 241 | Marlynnnnn |
+| 764 | 241 | Marlynnnnn |
+| 765 | 241 | Ad Doctor |
 | 766 | 241 | Jackytrain52 |
-| 767 | 240 | Velma Jones |
-| 768 | 240 | lookin |
+| 767 | 240 | lookin |
+| 768 | 240 | Velma Jones |
 | 769 | 240 | Leavon Smith |
-| 770 | 239 | MikeHunt |
-| 771 | 239 | Anntionette Sotire |
-| 772 | 239 | Rosalind Chatman |
-| 773 | 239 | Twisty Cascadeclear |
-| 774 | 239 | Sherri Keys |
-| 775 | 238 | B.L. Perry |
-| 776 | 238 | Marbama |
-| 777 | 238 | William Vidra |
-| 778 | 237 | Shalena Marie Humphrey |
+| 770 | 239 | Anntionette Sotire |
+| 771 | 239 | Twisty Cascadeclear |
+| 772 | 239 | MikeHunt |
+| 773 | 239 | Sherri Keys |
+| 774 | 239 | Rosalind Chatman |
+| 775 | 238 | Cornelius Neal |
+| 776 | 238 | William Vidra |
+| 777 | 238 | Marbama |
+| 778 | 238 | B.L. Perry |
 | 779 | 237 | Flashy Stacker |
-| 780 | 236 | Rayshawn Cohen |
-| 781 | 236 | Parris Wright |
-| 782 | 236 | Semaj Johnson |
-| 783 | 235 | Oaklonboy mike |
-| 784 | 235 | nameno |
-| 785 | 235 | Squaw Ki Ng |
-| 786 | 235 | Juan Lewis |
+| 780 | 237 | Shalena Marie Humphrey |
+| 781 | 236 | Semaj Johnson |
+| 782 | 236 | Rayshawn Cohen |
+| 783 | 236 | Parris Wright |
+| 784 | 235 | Squaw Ki Ng |
+| 785 | 235 | Juan Lewis |
+| 786 | 235 | Oaklonboy mike |
 | 787 | 235 | Yoellah Benyahmeen |
-| 788 | 234 | Frances Davis |
-| 789 | 234 | Jes Marie |
-| 790 | 234 | Mami Badd |
-| 791 | 234 | Joseph Vs Cap |
-| 792 | 233 | Claudia Price |
-| 793 | 232 | Renee Marshall |
-| 794 | 231 | toxictonic92 |
+| 788 | 235 | nameno |
+| 789 | 234 | Frances Davis |
+| 790 | 234 | Joseph Vs Cap |
+| 791 | 234 | Jes Marie |
+| 792 | 234 | Mami Badd |
+| 793 | 233 | Claudia Price |
+| 794 | 232 | Renee Marshall |
 | 795 | 231 | Ashley Davis |
-| 796 | 231 | Tyiesha Pie Farmer |
-| 797 | 230 | Erica Campbell-Stillings |
-| 798 | 229 | Shameka Tiffany |
+| 796 | 231 | toxictonic92 |
+| 797 | 231 | Tyiesha Pie Farmer |
+| 798 | 230 | Erica Campbell-Stillings |
 | 799 | 229 | Happy Blocky |
 | 800 | 229 | Derald Miller |
-| 801 | 228 | Meeee |
-| 802 | 228 | Kp |
-| 803 | 228 | Eric Machuca |
-| 804 | 228 | Cornelius Neal |
-| 805 | 227 | Nikita Jones |
-| 806 | 227 | Epic Puzzle |
-| 807 | 227 | Christina Singleton |
-| 808 | 227 | Elaine Pauley |
+| 801 | 229 | Shameka Tiffany |
+| 802 | 228 | Eric Machuca |
+| 803 | 228 | Meeee |
+| 804 | 228 | Kp |
+| 805 | 227 | Elaine Pauley |
+| 806 | 227 | Christina Singleton |
+| 807 | 227 | Lootch |
+| 808 | 227 | Epic Puzzle |
 | 809 | 227 | Sallie Sanborn |
-| 810 | 227 | Lootch |
-| 811 | 227 | Kimberly Susan Privette |
-| 812 | 226 | Stephen Providenti |
+| 810 | 227 | Kimberly Susan Privette |
+| 811 | 227 | Nikita Jones |
+| 812 | 226 | Paul Pendley |
 | 813 | 226 | Rieshelda Marie White |
-| 814 | 226 | Meow Meow |
-| 815 | 226 | Laura Osborne |
-| 816 | 226 | Undeniable Williams |
-| 817 | 226 | Paul Pendley |
+| 814 | 226 | Undeniable Williams |
+| 815 | 226 | Meow Meow |
+| 816 | 226 | Stephen Providenti |
+| 817 | 226 | Laura Osborne |
 | 818 | 225 | Victoria Smith |
 | 819 | 225 | Yashicha Hertzock |
 | 820 | 225 | squints |
@@ -1287,20 +1287,20 @@
 | 1279 | 107 | Mrs |
 | 1280 | 107 | Jon Doe |
 | 1281 | 107 | Amanda Miller |
-| 1282 | 107 | Arjuna Taylor |
-| 1283 | 107 | Brandon Knox |
-| 1284 | 107 | Jeremy Pope |
-| 1285 | 106 | Toohartless Mech |
-| 1286 | 106 | Symonne 'Monnie' Pierce |
-| 1287 | 106 | Dani McLeod |
-| 1288 | 106 | NataAllDay |
-| 1289 | 106 | Zappy Zoney |
-| 1290 | 105 | smash56! |
-| 1291 | 105 | Maria |
-| 1292 | 105 | Michael Smith |
-| 1293 | 104 | Jenni |
-| 1294 | 104 | Cozy Balancefit |
-| 1295 | 104 | Bold Spinblock |
+| 1282 | 107 | Bold Spinblock |
+| 1283 | 107 | Arjuna Taylor |
+| 1284 | 107 | Brandon Knox |
+| 1285 | 107 | Jeremy Pope |
+| 1286 | 106 | Toohartless Mech |
+| 1287 | 106 | Symonne 'Monnie' Pierce |
+| 1288 | 106 | Dani McLeod |
+| 1289 | 106 | NataAllDay |
+| 1290 | 106 | Zappy Zoney |
+| 1291 | 105 | smash56! |
+| 1292 | 105 | Maria |
+| 1293 | 105 | Michael Smith |
+| 1294 | 104 | Jenni |
+| 1295 | 104 | Cozy Balancefit |
 | 1296 | 104 | Briela Sabrina |
 | 1297 | 104 | Jiff |
 | 1298 | 104 | Ahvae Lee |
