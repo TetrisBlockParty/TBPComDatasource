@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 04:40:47 UTC
+# Standings for team2 as of 2026-06-11 04:41:25 UTC
 
 **Total Participants:** 2905
 
@@ -220,9 +220,9 @@
 | 212 | 927 | Perii Reynoso |
 | 213 | 927 | SEH |
 | 214 | 924 | Rhonda Diebold |
-| 215 | 924 | Glitzy Base |
-| 216 | 923 | Kimmyc |
-| 217 | 919 | Nettrainer |
+| 215 | 924 | Nettrainer |
+| 216 | 924 | Glitzy Base |
+| 217 | 923 | Kimmyc |
 | 218 | 913 | Krisanne Kesner-Lonsby |
 | 219 | 911 | Sandy Lynn |
 | 220 | 910 | Lashanda Bertram |
@@ -610,7 +610,7 @@
 | 602 | 371 | Teddy Williams |
 | 603 | 370 | marsam |
 | 604 | 369 | Francesca Wagenhoffer |
-| 605 | 368 | Toni Washington |
+| 605 | 369 | Toni Washington |
 | 606 | 368 | Kimmi Blake |
 | 607 | 368 | Danielle Lyons |
 | 608 | 367 | Jennifer McClure |
