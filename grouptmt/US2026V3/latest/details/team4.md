@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 10:58:42 UTC
+# Standings for team4 as of 2026-06-11 10:59:20 UTC
 
 **Total Participants:** 2515
 
@@ -163,9 +163,9 @@
 | 155 | 1080 | Linda Miltenburg |
 | 156 | 1073 | Anthony Lewis |
 | 157 | 1070 | Scamp Jones |
-| 158 | 1064 | Alex Armour |
-| 159 | 1059 | Keesha Muro |
-| 160 | 1057 | SupaFly |
+| 158 | 1067 | SupaFly |
+| 159 | 1064 | Alex Armour |
+| 160 | 1059 | Keesha Muro |
 | 161 | 1057 | Heather Preston |
 | 162 | 1033 | Daryn Elliott |
 | 163 | 1030 | Gorica Prusina |
@@ -219,12 +219,12 @@
 | 211 | 840 | CIRAZYPNOY |
 | 212 | 838 | Jennifer Ellyn Sheets |
 | 213 | 830 | Kitsune Bi |
-| 214 | 820 | Capone |
-| 215 | 815 | Snippy Splitter |
-| 216 | 815 | Megan Vick |
-| 217 | 813 | Tyson Stroppel |
-| 218 | 813 | Misty Leigh |
-| 219 | 807 | LastBoi |
+| 214 | 825 | LastBoi |
+| 215 | 820 | Capone |
+| 216 | 815 | Snippy Splitter |
+| 217 | 815 | Megan Vick |
+| 218 | 813 | Tyson Stroppel |
+| 219 | 813 | Misty Leigh |
 | 220 | 806 | Gracie Ornelas |
 | 221 | 806 | Kelly Howland |
 | 222 | 788 | Jackie Jackson |
