@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 16:39:26 UTC
+# Standings for team2 as of 2026-06-11 16:40:22 UTC
 
 **Total Participants:** 2983
 
@@ -362,7 +362,7 @@
 | 354 | 660 | Sherri E Woods Hess |
 | 355 | 659 | Jumpy Matchbuilder |
 | 356 | 659 | Kaycie Shaffer |
-| 357 | 654 | Gill |
+| 357 | 657 | Gill |
 | 358 | 652 | Stephany Green |
 | 359 | 648 | Thomas Tyrone |
 | 360 | 644 | straighttiptoe |
@@ -523,32 +523,32 @@
 | 515 | 457 | Anna Benjamin Freeman |
 | 516 | 456 | Spunky Linkblock |
 | 517 | 455 | Gluten Gremlin |
-| 518 | 453 | Kimberly Cowan |
-| 519 | 453 | Shannon Wilson |
+| 518 | 453 | Shannon Wilson |
+| 519 | 453 | Kimberly Cowan |
 | 520 | 452 | Clever Fallmatch |
 | 521 | 451 | Tara Flood |
-| 522 | 450 | Starvinmarvin |
-| 523 | 449 | Holly Huval |
-| 524 | 448 | Loopy Tower |
+| 522 | 451 | Holly Huval |
+| 523 | 450 | Starvinmarvin |
+| 524 | 448 | Gwendolyn Boykin Mobbs |
 | 525 | 448 | Eric Drane |
-| 526 | 447 | Lazy Staggerpiece |
-| 527 | 446 | Duke Morley |
+| 526 | 448 | Loopy Tower |
+| 527 | 447 | Lazy Staggerpiece |
 | 528 | 446 | Ray Daisy |
-| 529 | 446 | Paula Haskins |
-| 530 | 446 | David Skelton |
-| 531 | 445 | Tango Sierra |
-| 532 | 444 | Hyper Cascade |
-| 533 | 443 | Simone F |
-| 534 | 442 | Nicole Good |
-| 535 | 440 | Michelle Jones |
-| 536 | 440 | Carrie Hayes Lankford |
-| 537 | 439 | Boldy Swipe |
-| 538 | 439 | Alyssa Malay |
-| 539 | 439 | Angie Bishop |
-| 540 | 438 | Amber Cogdill |
-| 541 | 438 | Joanie Swann Ruiter |
-| 542 | 437 | Amanda Ann Brooks |
-| 543 | 436 | Gwendolyn Boykin Mobbs |
+| 529 | 446 | Duke Morley |
+| 530 | 446 | Paula Haskins |
+| 531 | 446 | David Skelton |
+| 532 | 445 | Tango Sierra |
+| 533 | 444 | Hyper Cascade |
+| 534 | 443 | Simone F |
+| 535 | 442 | Nicole Good |
+| 536 | 440 | Michelle Jones |
+| 537 | 440 | Carrie Hayes Lankford |
+| 538 | 439 | Boldy Swipe |
+| 539 | 439 | Alyssa Malay |
+| 540 | 439 | Angie Bishop |
+| 541 | 438 | Amber Cogdill |
+| 542 | 438 | Joanie Swann Ruiter |
+| 543 | 437 | Amanda Ann Brooks |
 | 544 | 435 | DirtySweet84 |
 | 545 | 435 | Jumpy Dashpiece |
 | 546 | 435 | TNGal |
@@ -562,16 +562,16 @@
 | 554 | 427 | Amber Carpenter |
 | 555 | 426 | Branden Frankowski |
 | 556 | 425 | Danielle Lyons |
-| 557 | 423 | Ashley Miller |
-| 558 | 423 | Amanda |
+| 557 | 423 | Amanda |
+| 558 | 423 | Ashley Miller |
 | 559 | 422 | Chummy Snapbuilder |
 | 560 | 422 | Frisky Linkbuilder |
 | 561 | 422 | Jennifer Lalk |
 | 562 | 421 | Pamela Raye |
 | 563 | 420 | Jacquelyn Snyder Dumas |
 | 564 | 420 | Madonna Ash |
-| 565 | 420 | Doug Small |
-| 566 | 420 | Wayne Johnson |
+| 565 | 420 | Wayne Johnson |
+| 566 | 420 | Doug Small |
 | 567 | 420 | August Christy Lathrop |
 | 568 | 419 | Ariel Gundersen |
 | 569 | 418 | Katie Jones |
@@ -957,9 +957,9 @@
 | 949 | 255 | Quirky Gridclear |
 | 950 | 255 | Giggy Bridger |
 | 951 | 253 | R.w. Buck |
-| 952 | 252 | Kristen |
-| 953 | 251 | MjLovebug13 |
-| 954 | 250 | Spicy Wrecker |
+| 952 | 252 | Spicy Wrecker |
+| 953 | 252 | Kristen |
+| 954 | 251 | MjLovebug13 |
 | 955 | 250 | Rachel M. Farnsworth |
 | 956 | 249 | ReiRei |
 | 957 | 249 | Stacey Peters |
@@ -1345,13 +1345,13 @@
 | 1337 | 164 | Miguel360 |
 | 1338 | 164 | Missy Tubb Overly |
 | 1339 | 163 | Zany Cascader |
-| 1340 | 163 | Fancy Stacker |
-| 1341 | 163 | Rochelle O'Loughlin |
-| 1342 | 163 | Yany |
-| 1343 | 162 | Emily Carns |
-| 1344 | 162 | Toni Tortorici Humphryes |
-| 1345 | 162 | Rachel Switala |
-| 1346 | 162 | Bubbly Wrecker |
+| 1340 | 163 | Bubbly Wrecker |
+| 1341 | 163 | Fancy Stacker |
+| 1342 | 163 | Rochelle O'Loughlin |
+| 1343 | 163 | Yany |
+| 1344 | 162 | Emily Carns |
+| 1345 | 162 | Toni Tortorici Humphryes |
+| 1346 | 162 | Rachel Switala |
 | 1347 | 162 | shell |
 | 1348 | 162 | KT Scott |
 | 1349 | 162 | Lu Wallace |
@@ -1435,34 +1435,34 @@
 | 1427 | 147 | Jason M Barnes |
 | 1428 | 147 | Melissa Kinsley |
 | 1429 | 146 | Bonez |
-| 1430 | 146 | Glitzy Stack |
-| 1431 | 146 | Squirrel |
-| 1432 | 145 | Tristin Fleissner |
-| 1433 | 145 | Ashley Shazes |
-| 1434 | 145 | Sandra Kopas Stetka |
-| 1435 | 145 | Rey Huber |
-| 1436 | 145 | Spicy Enchilada |
-| 1437 | 144 | Miranda Krentz |
-| 1438 | 144 | Mona Smith |
-| 1439 | 143 | Cheery Blast |
-| 1440 | 143 | Jollygirl |
-| 1441 | 143 | October Fitch |
-| 1442 | 143 | Sam Schwieso |
-| 1443 | 143 | Loopy Zone |
-| 1444 | 142 | Manda |
-| 1445 | 142 | Jacob Corrales |
-| 1446 | 142 | Karen Pearson-Wilson |
+| 1430 | 146 | Karen Pearson-Wilson |
+| 1431 | 146 | Glitzy Stack |
+| 1432 | 146 | Squirrel |
+| 1433 | 145 | Tristin Fleissner |
+| 1434 | 145 | Ashley Shazes |
+| 1435 | 145 | Sandra Kopas Stetka |
+| 1436 | 145 | Rey Huber |
+| 1437 | 145 | Spicy Enchilada |
+| 1438 | 144 | Miranda Krentz |
+| 1439 | 144 | Mona Smith |
+| 1440 | 143 | Cheery Blast |
+| 1441 | 143 | Jollygirl |
+| 1442 | 143 | October Fitch |
+| 1443 | 143 | Sam Schwieso |
+| 1444 | 143 | Loopy Zone |
+| 1445 | 142 | Manda |
+| 1446 | 142 | Jacob Corrales |
 | 1447 | 142 | Kodi Gay |
 | 1448 | 142 | Brian Little |
 | 1449 | 141 | Jill Bobst Marple |
 | 1450 | 141 | Daring Pivotfall |
 | 1451 | 141 | Tashamonique Puckey |
 | 1452 | 140 | Kim Hoopes Townsend |
-| 1453 | 140 | Glitzy Fallgrid |
-| 1454 | 140 | Michael Quinones |
-| 1455 | 140 | Cranky Linkmatch |
-| 1456 | 140 | Anna Chance |
-| 1457 | 140 | Snazzy Linebuilder |
+| 1453 | 140 | Michael Quinones |
+| 1454 | 140 | Cranky Linkmatch |
+| 1455 | 140 | Glitzy Fallgrid |
+| 1456 | 140 | Snazzy Linebuilder |
+| 1457 | 140 | Anna Chance |
 | 1458 | 140 | Tracy Coe |
 | 1459 | 140 | Elizabeth Henry |
 | 1460 | 140 | Deena-Neal Peryer |
