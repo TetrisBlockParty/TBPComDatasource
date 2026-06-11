@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:56:44 UTC
+# Standings for team2 as of 2026-06-11 07:57:24 UTC
 
 **Total Participants:** 2931
 
@@ -1146,25 +1146,25 @@
 | 1138 | 189 | Cranky Brickzone |
 | 1139 | 189 | Meagan Thompson |
 | 1140 | 189 | Kristi K Milner |
-| 1141 | 188 | Derrick |
-| 1142 | 188 | Bonnie Huckleberry |
+| 1141 | 188 | Bonnie Huckleberry |
+| 1142 | 188 | Derrick |
 | 1143 | 188 | Christina Whitehead |
-| 1144 | 187 | Jessica Spivey Cooper |
-| 1145 | 187 | Tony Williams |
-| 1146 | 187 | Tam |
+| 1144 | 188 | Susan Bosell |
+| 1145 | 187 | Jessica Spivey Cooper |
+| 1146 | 187 | Tony Williams |
 | 1147 | 187 | AppA |
-| 1148 | 187 | Abby |
-| 1149 | 187 | Lj |
-| 1150 | 187 | Charity Black |
-| 1151 | 187 | Donna R. Banks |
-| 1152 | 187 | Hog Crankin |
-| 1153 | 187 | Chirpy Clearpiece |
-| 1154 | 186 | Ashley Cadle |
-| 1155 | 186 | Kimberly Brooks |
-| 1156 | 186 | Jessica Veness-Toth |
-| 1157 | 185 | Squared |
-| 1158 | 185 | Carlee Becher |
-| 1159 | 185 | Susan Bosell |
+| 1148 | 187 | Tam |
+| 1149 | 187 | Abby |
+| 1150 | 187 | Lj |
+| 1151 | 187 | Charity Black |
+| 1152 | 187 | Donna R. Banks |
+| 1153 | 187 | Hog Crankin |
+| 1154 | 187 | Chirpy Clearpiece |
+| 1155 | 186 | Ashley Cadle |
+| 1156 | 186 | Kimberly Brooks |
+| 1157 | 186 | Jessica Veness-Toth |
+| 1158 | 185 | Squared |
+| 1159 | 185 | Carlee Becher |
 | 1160 | 185 | Alessandria Anderson |
 | 1161 | 185 | Samantha LeBlanc |
 | 1162 | 185 | Vicki Flippo |
