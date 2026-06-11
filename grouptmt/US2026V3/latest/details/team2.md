@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 05:54:45 UTC
+# Standings for team2 as of 2026-06-11 05:55:23 UTC
 
 **Total Participants:** 2922
 
@@ -1173,33 +1173,33 @@
 | 1165 | 181 | WestieMom |
 | 1166 | 181 | Meve |
 | 1167 | 181 | CowboyChalie |
-| 1168 | 181 | Ayana Yanaeboo Eaddy |
-| 1169 | 181 | Boldy Swipe |
+| 1168 | 181 | Chass |
+| 1169 | 181 | Ayana Yanaeboo Eaddy |
 | 1170 | 181 | Cammy Riley |
-| 1171 | 181 | Chass |
+| 1171 | 181 | Boldy Swipe |
 | 1172 | 181 | Shiny Spinfit |
 | 1173 | 180 | Dawn Kroptavich |
 | 1174 | 180 | Dana Wilson |
-| 1175 | 180 | Amy Renaud |
-| 1176 | 180 | Tasha Gilbert |
-| 1177 | 180 | Ally Miller |
-| 1178 | 180 | Tonya Templin Smith |
-| 1179 | 180 | Cheryl Graves Downard |
-| 1180 | 179 | Funko Dave |
-| 1181 | 179 | Mee Maw |
-| 1182 | 179 | Sue Fuzy |
-| 1183 | 179 | SarahandAaron Prim |
+| 1175 | 180 | Ally Miller |
+| 1176 | 180 | Cheryl Graves Downard |
+| 1177 | 180 | Tonya Templin Smith |
+| 1178 | 180 | Tasha Gilbert |
+| 1179 | 180 | Amy Renaud |
+| 1180 | 179 | Mee Maw |
+| 1181 | 179 | Sue Fuzy |
+| 1182 | 179 | SarahandAaron Prim |
+| 1183 | 179 | Funko Dave |
 | 1184 | 179 | Jennifer Vitro |
-| 1185 | 178 | build master |
+| 1185 | 179 | Alena Ross |
 | 1186 | 178 | Saucy Lifter |
-| 1187 | 178 | Jcflorida |
-| 1188 | 178 | Annie Hebdon |
-| 1189 | 177 | Marcia Monroe |
-| 1190 | 177 | STARFIRE |
-| 1191 | 177 | Anita Blackshear |
-| 1192 | 177 | Teea Makensi Meyer |
-| 1193 | 177 | Nicole Treadway |
-| 1194 | 177 | Alena Ross |
+| 1187 | 178 | build master |
+| 1188 | 178 | Jcflorida |
+| 1189 | 178 | Annie Hebdon |
+| 1190 | 177 | Marcia Monroe |
+| 1191 | 177 | STARFIRE |
+| 1192 | 177 | Anita Blackshear |
+| 1193 | 177 | Teea Makensi Meyer |
+| 1194 | 177 | Nicole Treadway |
 | 1195 | 176 | Kimberley Marie |
 | 1196 | 176 | Erin Winberry |
 | 1197 | 176 | bozzycat |
@@ -1622,15 +1622,15 @@
 | 1614 | 108 | Jamie Benge |
 | 1615 | 108 | Tristin Fleissner |
 | 1616 | 108 | Perky Twistfit |
-| 1617 | 108 | Jennifer Robinson |
-| 1618 | 107 | Lori Antrim Nichols |
-| 1619 | 107 | Giggy Linkgrid |
-| 1620 | 107 | Carole Brown |
-| 1621 | 107 | bigdog |
-| 1622 | 106 | Chirpy Tower |
-| 1623 | 106 | Slinky Linkgrid |
-| 1624 | 106 | Chipper Blockroll |
-| 1625 | 106 | Brian David Fogg |
+| 1617 | 108 | Brian David Fogg |
+| 1618 | 108 | Jennifer Robinson |
+| 1619 | 107 | Lori Antrim Nichols |
+| 1620 | 107 | Giggy Linkgrid |
+| 1621 | 107 | Carole Brown |
+| 1622 | 107 | bigdog |
+| 1623 | 106 | Chirpy Tower |
+| 1624 | 106 | Slinky Linkgrid |
+| 1625 | 106 | Chipper Blockroll |
 | 1626 | 106 | David Bright |
 | 1627 | 106 | Teresa Ann Curry |
 | 1628 | 106 | Amy N Daniel Greene |
@@ -2245,10 +2245,10 @@
 | 2237 | 40 | Beth |
 | 2238 | 40 | Alan Harley Medeiros |
 | 2239 | 40 | Daily Findery |
-| 2240 | 40 | Jennifer Bryant |
+| 2240 | 40 | LalaFufu07 |
 | 2241 | 40 | Emily Kleinsteiber |
-| 2242 | 40 | Deborah Morey-avila |
-| 2243 | 40 | Tammy Pittman |
+| 2242 | 40 | Tammy Pittman |
+| 2243 | 40 | Deborah Morey-avila |
 | 2244 | 40 | Christine Souza Chavez |
 | 2245 | 40 | Ashley Nichole |
 | 2246 | 40 | Radrac |
@@ -2256,71 +2256,71 @@
 | 2248 | 40 | Swanky Snapzone |
 | 2249 | 40 | Brian Bradley |
 | 2250 | 40 | Ariya Colson |
-| 2251 | 40 | LalaFufu07 |
+| 2251 | 40 | Jennifer Bryant |
 | 2252 | 40 | Sherrita Washington |
-| 2253 | 40 | Michael Aldrich |
-| 2254 | 40 | Elicia Lloyd-Zazweta |
-| 2255 | 40 | Billie Jo Butler |
-| 2256 | 40 | Shirley Lee |
-| 2257 | 40 | Matthew Ultsch |
-| 2258 | 39 | Snappy Cascadefit |
-| 2259 | 39 | Zany Pivoty |
-| 2260 | 39 | Aud |
-| 2261 | 39 | Catey Salazar |
-| 2262 | 39 | Hrodwulf Redfern |
-| 2263 | 39 | Torie Rhodes |
+| 2253 | 40 | Billie Jo Butler |
+| 2254 | 40 | Shirley Lee |
+| 2255 | 40 | Matthew Ultsch |
+| 2256 | 40 | Michael Aldrich |
+| 2257 | 40 | Elicia Lloyd-Zazweta |
+| 2258 | 39 | Torie Rhodes |
+| 2259 | 39 | Christy Jackson |
+| 2260 | 39 | Zany Pivoty |
+| 2261 | 39 | Hrodwulf Redfern |
+| 2262 | 39 | Aud |
+| 2263 | 39 | Catey Salazar |
 | 2264 | 39 | Mario Avila |
 | 2265 | 39 | Joshua Savoir |
 | 2266 | 39 | Dixie |
-| 2267 | 39 | Mag |
-| 2268 | 39 | Lauren Shunkwiler |
-| 2269 | 39 | Instak1ll |
-| 2270 | 39 | Lisa Schwobe |
-| 2271 | 39 | Jeff Mullins |
-| 2272 | 39 | Cyrus Ramirez |
-| 2273 | 38 | Snazzy Racker |
-| 2274 | 38 | Katrina Wheeler |
-| 2275 | 38 | Goofy Patternbuilder |
-| 2276 | 38 | David Thomas |
-| 2277 | 38 | Ko808la |
-| 2278 | 38 | Stephanie Fitzgerald |
-| 2279 | 38 | Joce Barger |
-| 2280 | 38 | Brittaney Roth |
-| 2281 | 38 | Frothy Liner |
-| 2282 | 38 | Andrea Maloney Stephenson |
-| 2283 | 38 | Dizzy Fallmatch |
+| 2267 | 39 | Snappy Cascadefit |
+| 2268 | 39 | Mag |
+| 2269 | 39 | Lauren Shunkwiler |
+| 2270 | 39 | Instak1ll |
+| 2271 | 39 | Lisa Schwobe |
+| 2272 | 39 | Jeff Mullins |
+| 2273 | 39 | Cyrus Ramirez |
+| 2274 | 38 | Snazzy Racker |
+| 2275 | 38 | Ko808la |
+| 2276 | 38 | Katrina Wheeler |
+| 2277 | 38 | Goofy Patternbuilder |
+| 2278 | 38 | David Thomas |
+| 2279 | 38 | Dizzy Fallmatch |
+| 2280 | 38 | Frothy Liner |
+| 2281 | 38 | Andrea Maloney Stephenson |
+| 2282 | 38 | Brittaney Roth |
+| 2283 | 38 | Joce Barger |
 | 2284 | 38 | lsbella |
-| 2285 | 37 | Nicole Slimick |
-| 2286 | 37 | Mary Ann Connors |
-| 2287 | 37 | Carl Antonucci |
-| 2288 | 37 | Leon Welch |
-| 2289 | 37 | Gen |
-| 2290 | 37 | teacake |
-| 2291 | 37 | Cherry L. Salama |
-| 2292 | 37 | Speedy Builderline |
-| 2293 | 37 | DaddyBuck |
-| 2294 | 37 | Christy Jackson |
-| 2295 | 37 | Amanda Bishir |
-| 2296 | 37 | Lawana Brooks |
+| 2285 | 38 | Stephanie Fitzgerald |
+| 2286 | 37 | DaddyBuck |
+| 2287 | 37 | Gen |
+| 2288 | 37 | Mary Ann Connors |
+| 2289 | 37 | Nicole Slimick |
+| 2290 | 37 | Carl Antonucci |
+| 2291 | 37 | Suzee |
+| 2292 | 37 | Leon Welch |
+| 2293 | 37 | Speedy Builderline |
+| 2294 | 37 | teacake |
+| 2295 | 37 | Cherry L. Salama |
+| 2296 | 37 | Zippy Tumbler |
 | 2297 | 37 | Daring Line |
-| 2298 | 37 | Zippy Tumbler |
-| 2299 | 37 | Suzee |
-| 2300 | 36 | Karene Sakala |
-| 2301 | 36 | Amanda Stanley |
-| 2302 | 36 | Jen |
-| 2303 | 36 | Christina Hanson |
-| 2304 | 36 | Audrey Phillips |
-| 2305 | 36 | Courtney Lashay Hill |
-| 2306 | 36 | Cammie Freed |
-| 2307 | 36 | Leigh Kashner |
-| 2308 | 36 | Celeste Smith |
-| 2309 | 36 | Paul Medley |
-| 2310 | 36 | Brandi Phifer |
+| 2298 | 37 | Lawana Brooks |
+| 2299 | 37 | Amanda Bishir |
+| 2300 | 36 | Christina Hanson |
+| 2301 | 36 | Jen |
+| 2302 | 36 | Amanda Stanley |
+| 2303 | 36 | Tiana Rodriguez |
+| 2304 | 36 | Shawn Field Geist |
+| 2305 | 36 | Amanda Chaney |
+| 2306 | 36 | Karene Sakala |
+| 2307 | 36 | Audrey Phillips |
+| 2308 | 36 | Courtney Lashay Hill |
+| 2309 | 36 | Kelly Lee Weaver |
+| 2310 | 36 | Celeste Smith |
 | 2311 | 36 | Monica D Brown |
-| 2312 | 36 | Kelly Lee Weaver |
-| 2313 | 36 | Amanda Chaney |
-| 2314 | 36 | Shawn Field Geist |
-| 2315 | 36 | Tiana Rodriguez |
+| 2312 | 36 | Cammie Freed |
+| 2313 | 36 | Leigh Kashner |
+| 2314 | 36 | Brandi Phifer |
+| 2315 | 36 | Paul Medley |
 | 2316 | 36 | Chilly Fall |
 | 2317 | 36 | Holly Riley |
 | 2318 | 36 | Cody |
