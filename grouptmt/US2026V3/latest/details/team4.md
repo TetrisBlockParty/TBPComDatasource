@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 04:36:45 UTC
+# Standings for team4 as of 2026-06-11 04:37:24 UTC
 
 **Total Participants:** 2469
 
@@ -81,7 +81,7 @@
 | 73 | 2249 | Erin Figone |
 | 74 | 2242 | Chuck Gannon |
 | 75 | 2237 | JayJay Smith |
-| 76 | 2202 | Michelle Ross |
+| 76 | 2210 | Michelle Ross |
 | 77 | 2091 | Charlie Lewis |
 | 78 | 2087 | Dana Fontanez |
 | 79 | 2068 | Damon Gaston |
@@ -107,10 +107,10 @@
 | 99 | 1593 | Jeremy Lopez |
 | 100 | 1579 | Lupe Alburquerque |
 | 101 | 1521 | Leslie Ann Carter |
-| 102 | 1485 | Neeta Kapadia |
-| 103 | 1464 | squareMel |
-| 104 | 1462 | Beee |
-| 105 | 1451 | Sean Mccleary |
+| 102 | 1511 | Sean Mccleary |
+| 103 | 1485 | Neeta Kapadia |
+| 104 | 1464 | squareMel |
+| 105 | 1462 | Beee |
 | 106 | 1442 | Kelley Roach |
 | 107 | 1430 | Hannah Pazar |
 | 108 | 1403 | Tina Shalay Hayes |

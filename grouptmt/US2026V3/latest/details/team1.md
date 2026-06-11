@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 04:36:45 UTC
+# Standings for team1 as of 2026-06-11 04:37:24 UTC
 
 **Total Participants:** 2436
 
@@ -338,11 +338,11 @@
 | 330 | 507 | Teresa Yanira Cepeda |
 | 331 | 507 | Mahagony Small |
 | 332 | 505 | Cheri Robinson |
-| 333 | 503 | Bre Poston |
-| 334 | 503 | Chummy Frame |
-| 335 | 503 | Tonia Lance |
-| 336 | 502 | Tamika Fisher |
-| 337 | 502 | Jackie Sanasay |
+| 333 | 505 | Jackie Sanasay |
+| 334 | 503 | Bre Poston |
+| 335 | 503 | Chummy Frame |
+| 336 | 503 | Tonia Lance |
+| 337 | 502 | Tamika Fisher |
 | 338 | 501 | Analiza Ramos |
 | 339 | 500 | Steve Reno |
 | 340 | 498 | Michael Bethezar |
@@ -1196,40 +1196,40 @@
 | 1188 | 123 | Hoppy Buildsnap |
 | 1189 | 122 | Wacky Wipepiece |
 | 1190 | 122 | Tip318 |
-| 1191 | 122 | Bluebino |
-| 1192 | 122 | Silly Shatterline |
-| 1193 | 122 | Nick Stowers |
-| 1194 | 122 | Nichole Horsley-Conn |
-| 1195 | 122 | Spicy Hedgehog |
-| 1196 | 121 | Tomme Poliwka |
-| 1197 | 121 | 214Petty |
-| 1198 | 121 | MsSassygee Boom |
-| 1199 | 121 | Hyper Patternline |
-| 1200 | 120 | Demi Ovalle |
+| 1191 | 122 | Hyper Patternline |
+| 1192 | 122 | Bluebino |
+| 1193 | 122 | Silly Shatterline |
+| 1194 | 122 | Nick Stowers |
+| 1195 | 122 | Nichole Horsley-Conn |
+| 1196 | 122 | Spicy Hedgehog |
+| 1197 | 121 | Tomme Poliwka |
+| 1198 | 121 | 214Petty |
+| 1199 | 121 | MsSassygee Boom |
+| 1200 | 120 | Laura Wesley |
 | 1201 | 120 | Snappy Matchfit |
 | 1202 | 120 | Juppi |
 | 1203 | 120 | Richard Harper |
 | 1204 | 120 | Tiffany Thompson |
-| 1205 | 120 | Jonathan McKenzie |
-| 1206 | 120 | Lauren Farkas |
+| 1205 | 120 | Lauren Farkas |
+| 1206 | 120 | Demi Ovalle |
 | 1207 | 120 | Lawreniesha Burkley |
 | 1208 | 120 | Spunky Strikerbuilder |
 | 1209 | 120 | Linzi Cole |
 | 1210 | 120 | Fransine Bennett |
 | 1211 | 120 | Yolanda Sadler |
-| 1212 | 120 | Laura Wesley |
+| 1212 | 120 | Jonathan McKenzie |
 | 1213 | 119 | Ashley Shelton |
 | 1214 | 119 | Sarah Jones |
 | 1215 | 119 | Evette Moreno |
 | 1216 | 119 | Octavia Whitmire |
 | 1217 | 119 | Jordan Deon Elery |
-| 1218 | 119 | Christina Wesley |
-| 1219 | 119 | Solomon Valarie |
-| 1220 | 119 | Sonia Binti Mfalme |
-| 1221 | 118 | Tanisha Robinson |
-| 1222 | 118 | Leslie Ann |
+| 1218 | 119 | Sonia Binti Mfalme |
+| 1219 | 119 | Christina Wesley |
+| 1220 | 119 | Solomon Valarie |
+| 1221 | 118 | Leslie Ann |
+| 1222 | 118 | Shanna Green Williams |
 | 1223 | 118 | Felicia Yahuah Johnson |
-| 1224 | 118 | Shanna Green Williams |
+| 1224 | 118 | Tanisha Robinson |
 | 1225 | 117 | Cheery Clusterbuilder |
 | 1226 | 117 | Bruce Paléncia |
 | 1227 | 117 | Andrea Jackson |
