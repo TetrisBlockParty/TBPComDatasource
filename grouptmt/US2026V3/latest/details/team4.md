@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 19:30:42 UTC
+# Standings for team4 as of 2026-06-11 19:31:23 UTC
 
 **Total Participants:** 2575
 
@@ -223,15 +223,15 @@
 | 215 | 887 | Baysoph |
 | 216 | 879 | CIRAZYPNOY |
 | 217 | 873 | Izz |
-| 218 | 871 | Shiny Dashy |
-| 219 | 865 | Celina DiBastiani |
-| 220 | 862 | Snippy Splitter |
-| 221 | 847 | Devinlee Brown |
-| 222 | 845 | Thomasena Eady Reid |
-| 223 | 843 | Spicy Chicken |
-| 224 | 841 | Waxboss |
-| 225 | 839 | Kelly Howland |
-| 226 | 839 | Fluffypuppy |
+| 218 | 872 | Fluffypuppy |
+| 219 | 871 | Shiny Dashy |
+| 220 | 865 | Celina DiBastiani |
+| 221 | 862 | Snippy Splitter |
+| 222 | 847 | Devinlee Brown |
+| 223 | 845 | Thomasena Eady Reid |
+| 224 | 843 | Spicy Chicken |
+| 225 | 841 | Waxboss |
+| 226 | 839 | Kelly Howland |
 | 227 | 838 | Jennifer Ellyn Sheets |
 | 228 | 834 | iiPurgeV2 |
 | 229 | 833 | Danny Keich III |
@@ -267,9 +267,9 @@
 | 259 | 724 | Lush Fitblock |
 | 260 | 723 | zoes |
 | 261 | 723 | Breezy Cascadeclear |
-| 262 | 720 | Saucy Wipepiece |
-| 263 | 719 | Logan Two-dubs Baker |
-| 264 | 718 | Laguya |
+| 262 | 721 | Laguya |
+| 263 | 720 | Saucy Wipepiece |
+| 264 | 719 | Logan Two-dubs Baker |
 | 265 | 713 | Jewelz |
 | 266 | 710 | Danielle Mitchell |
 | 267 | 706 | Toon Up |
@@ -883,47 +883,47 @@
 | 875 | 231 | Joe Win |
 | 876 | 230 | Stephanie Meinhart |
 | 877 | 230 | Jonelle Jacobs |
-| 878 | 230 | Ralph Hell Rell Williams |
-| 879 | 230 | William Brooks |
+| 878 | 230 | William Brooks |
+| 879 | 230 | Ralph Hell Rell Williams |
 | 880 | 230 | Clever Blockbuilder |
 | 881 | 230 | Michelle Sager |
 | 882 | 230 | Brenda Villa |
 | 883 | 230 | Tracy Marino |
-| 884 | 229 | Marcus Chavis |
-| 885 | 229 | JJ Merc |
-| 886 | 228 | SandyEva |
-| 887 | 228 | Frilly Riserpiece |
-| 888 | 228 | Tonia Kay |
+| 884 | 230 | Freddy-B |
+| 885 | 229 | Marcus Chavis |
+| 886 | 229 | JJ Merc |
+| 887 | 228 | SandyEva |
+| 888 | 228 | Happy Strikerpiece |
 | 889 | 228 | Gma420 |
-| 890 | 228 | Happy Strikerpiece |
-| 891 | 227 | Gracey Po |
-| 892 | 227 | Tre'nya Smith |
+| 890 | 228 | Tonia Kay |
+| 891 | 228 | Frilly Riserpiece |
+| 892 | 227 | Noa Lee |
 | 893 | 227 | YenSid |
-| 894 | 227 | Noa Lee |
-| 895 | 227 | Alaina Rousseau |
-| 896 | 226 | Scarlett Ashley Clark |
+| 894 | 227 | Tre'nya Smith |
+| 895 | 227 | Gracey Po |
+| 896 | 227 | Alaina Rousseau |
 | 897 | 226 | Sandy Daye |
-| 898 | 226 | Buddyblock |
-| 899 | 225 | Shannon Lee |
-| 900 | 225 | Michelle Wiles |
-| 901 | 225 | Elisha Thompson |
-| 902 | 225 | Rose Anna Safi |
-| 903 | 224 | Cat |
-| 904 | 223 | Lana Tran |
+| 898 | 226 | Scarlett Ashley Clark |
+| 899 | 226 | Buddyblock |
+| 900 | 225 | Shannon Lee |
+| 901 | 225 | Michelle Wiles |
+| 902 | 225 | Elisha Thompson |
+| 903 | 225 | Rose Anna Safi |
+| 904 | 224 | Cat |
 | 905 | 223 | Debby Muniz |
-| 906 | 223 | Dannie Ems |
-| 907 | 223 | Wacky Brick |
-| 908 | 222 | Chill Rollpiece |
-| 909 | 221 | Snappy Stack |
-| 910 | 220 | Glamorous Gracey |
-| 911 | 220 | Jean Yap |
-| 912 | 220 | Melissa Derby Rood |
-| 913 | 220 | Freddy-B |
+| 906 | 223 | Lana Tran |
+| 907 | 223 | Dannie Ems |
+| 908 | 223 | Wacky Brick |
+| 909 | 222 | Chill Rollpiece |
+| 910 | 221 | Snappy Stack |
+| 911 | 220 | Glamorous Gracey |
+| 912 | 220 | Jean Yap |
+| 913 | 220 | Melissa Derby Rood |
 | 914 | 220 | Zappy Tilemaker |
 | 915 | 220 | Charlene Nicole Guidry |
 | 916 | 220 | Tipsy Patternfit |
-| 917 | 219 | Mari Isaac |
-| 918 | 219 | Poptart |
+| 917 | 219 | Poptart |
+| 918 | 219 | Mari Isaac |
 | 919 | 219 | Cozy Patternline |
 | 920 | 219 | Gigi5 |
 | 921 | 218 | Deanne Silverdahl |
@@ -1271,22 +1271,22 @@
 | 1263 | 134 | Kena T. Tanner |
 | 1264 | 133 | pisces26luna |
 | 1265 | 133 | taya |
-| 1266 | 132 | Giggly Gridzone |
-| 1267 | 132 | Rebecca Sloan |
-| 1268 | 132 | Misti Rich |
-| 1269 | 131 | Kami |
-| 1270 | 131 | ZaysWife89 |
-| 1271 | 131 | Tracey Hudspath |
-| 1272 | 131 | Pink Tetramino |
-| 1273 | 131 | Melissa Abigail |
-| 1274 | 130 | Abraham Ch |
-| 1275 | 130 | Katrina S. West |
-| 1276 | 129 | Jessica Armistead |
-| 1277 | 129 | Crystal M. Torres |
-| 1278 | 129 | Quiles Yaitza |
-| 1279 | 129 | Vlad Rudman |
-| 1280 | 129 | Dsay Yates |
-| 1281 | 129 | Destiny Georgia Reeves Beller |
+| 1266 | 132 | Destiny Georgia Reeves Beller |
+| 1267 | 132 | Giggly Gridzone |
+| 1268 | 132 | Rebecca Sloan |
+| 1269 | 132 | Misti Rich |
+| 1270 | 131 | Kami |
+| 1271 | 131 | ZaysWife89 |
+| 1272 | 131 | Tracey Hudspath |
+| 1273 | 131 | Pink Tetramino |
+| 1274 | 131 | Melissa Abigail |
+| 1275 | 130 | Abraham Ch |
+| 1276 | 130 | Katrina S. West |
+| 1277 | 129 | Jessica Armistead |
+| 1278 | 129 | Crystal M. Torres |
+| 1279 | 129 | Quiles Yaitza |
+| 1280 | 129 | Vlad Rudman |
+| 1281 | 129 | Dsay Yates |
 | 1282 | 129 | Peachy Piecefit |
 | 1283 | 128 | Ksawn Collymore-bey Collymore-bey |
 | 1284 | 128 | Fancy Curvetile |
@@ -1371,20 +1371,20 @@
 | 1363 | 114 | Koren Heersink |
 | 1364 | 113 | Joshua Franklin |
 | 1365 | 113 | Marion Wade |
-| 1366 | 112 | Katherine Stec |
-| 1367 | 112 | Chris Norman |
-| 1368 | 112 | James Moore |
-| 1369 | 112 | Khylee DarDar |
-| 1370 | 111 | Hasty Slamdrop |
-| 1371 | 111 | Snazzy Shatterfit |
-| 1372 | 111 | Jacquelyn L Whitsitt |
-| 1373 | 111 | aubz |
-| 1374 | 111 | Candace Dean |
-| 1375 | 111 | Gregory Pettway |
-| 1376 | 110 | Zippy Wipepiece |
-| 1377 | 110 | Richard Armstrong |
-| 1378 | 110 | Giggly Rollpiece |
-| 1379 | 110 | Dandy Clusterbuilder |
+| 1366 | 112 | Dandy Clusterbuilder |
+| 1367 | 112 | Katherine Stec |
+| 1368 | 112 | Chris Norman |
+| 1369 | 112 | James Moore |
+| 1370 | 112 | Khylee DarDar |
+| 1371 | 111 | Hasty Slamdrop |
+| 1372 | 111 | Snazzy Shatterfit |
+| 1373 | 111 | Jacquelyn L Whitsitt |
+| 1374 | 111 | aubz |
+| 1375 | 111 | Candace Dean |
+| 1376 | 111 | Gregory Pettway |
+| 1377 | 110 | Zippy Wipepiece |
+| 1378 | 110 | Richard Armstrong |
+| 1379 | 110 | Giggly Rollpiece |
 | 1380 | 110 | Heather Griffin |
 | 1381 | 109 | Acyndra Cain |
 | 1382 | 109 | Richard Moneyrich Nottingham |
