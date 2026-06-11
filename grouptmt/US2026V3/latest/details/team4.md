@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:32:20 UTC
+# Standings for team4 as of 2026-06-11 09:32:49 UTC
 
 **Total Participants:** 2506
 
@@ -25,7 +25,7 @@
 | 17 | 8005 | delilahbelle |
 | 18 | 7835 | Jerald Jones |
 | 19 | 6954 | Senor Moppy |
-| 20 | 6803 | Bubbly Twistpiece |
+| 20 | 6808 | Bubbly Twistpiece |
 | 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
 | 23 | 6254 | Anna Moses |
@@ -152,9 +152,9 @@
 | 144 | 1126 | Dandy Puzzler |
 | 145 | 1123 | Tiffany Loree Tiffany Oneill |
 | 146 | 1118 | Principal Liz |
-| 147 | 1106 | Loony Towerer |
-| 148 | 1095 | Suzanne North |
-| 149 | 1094 | Melissa WC |
+| 147 | 1113 | Melissa WC |
+| 148 | 1106 | Loony Towerer |
+| 149 | 1095 | Suzanne North |
 | 150 | 1090 | Becky Doll-Hall |
 | 151 | 1087 | Whitborn |
 | 152 | 1087 | Loony Glidepiece |
