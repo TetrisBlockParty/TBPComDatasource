@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 10:26:20 UTC
+# Standings for team2 as of 2026-06-11 10:27:24 UTC
 
 **Total Participants:** 2940
 
@@ -49,10 +49,10 @@
 | 41 | 5688 | Chipper Patternblock |
 | 42 | 5615 | Cassie Swart |
 | 43 | 5572 | Angel Welch |
-| 44 | 5496 | Spunky Clicker |
-| 45 | 5483 | Quirky Catcher |
-| 46 | 5473 | Matt Hardin |
-| 47 | 5437 | Aubree Richard |
+| 44 | 5545 | Aubree Richard |
+| 45 | 5496 | Spunky Clicker |
+| 46 | 5483 | Quirky Catcher |
+| 47 | 5473 | Matt Hardin |
 | 48 | 5140 | DarkHorse |
 | 49 | 5075 | Frisky Balanceblock |
 | 50 | 4987 | Erica Dees Parks |
@@ -183,8 +183,8 @@
 | 175 | 1208 | Brenda Jones |
 | 176 | 1199 | Allie Bug |
 | 177 | 1192 | Sabrina Hardrick |
-| 178 | 1189 | AndrewandShela Gornik |
-| 179 | 1183 | Spicy Risegrid |
+| 178 | 1191 | Spicy Risegrid |
+| 179 | 1189 | AndrewandShela Gornik |
 | 180 | 1156 | MegaPooh |
 | 181 | 1152 | Cristi Doris |
 | 182 | 1147 | Sarah Mccolgan |
@@ -388,41 +388,41 @@
 | 380 | 580 | Jamin |
 | 381 | 579 | Mookshake |
 | 382 | 577 | Lindsay Klemp |
-| 383 | 574 | Brandy McCune Reep |
-| 384 | 574 | Nikki Greeneyebeauty |
-| 385 | 573 | Marilyn Strickland |
-| 386 | 570 | Symmy Norton |
-| 387 | 568 | Chummy Faller |
-| 388 | 567 | Michael Carmichael |
-| 389 | 567 | Roe Sarmiento |
-| 390 | 566 | Santara Ferguson |
-| 391 | 563 | Alicia Parrish |
-| 392 | 559 | Po Yee |
-| 393 | 558 | Tia Guile |
-| 394 | 557 | Smiley Staggerpiece |
+| 383 | 576 | Smiley Staggerpiece |
+| 384 | 574 | Brandy McCune Reep |
+| 385 | 574 | Nikki Greeneyebeauty |
+| 386 | 573 | Marilyn Strickland |
+| 387 | 570 | Symmy Norton |
+| 388 | 568 | Chummy Faller |
+| 389 | 567 | Michael Carmichael |
+| 390 | 567 | Roe Sarmiento |
+| 391 | 566 | Santara Ferguson |
+| 392 | 563 | Alicia Parrish |
+| 393 | 559 | Po Yee |
+| 394 | 558 | Tia Guile |
 | 395 | 553 | Bb |
 | 396 | 552 | Heather Denise |
 | 397 | 550 | DomDomsNana |
 | 398 | 550 | AndyJo |
 | 399 | 548 | Stephanie |
-| 400 | 546 | Quirky Shifter |
+| 400 | 547 | Coleen Yoder |
 | 401 | 546 | Anthony Swift |
 | 402 | 546 | Newtwidebody |
-| 403 | 545 | Tamara Whiteley |
-| 404 | 544 | Sarah Jane Gorsuch |
-| 405 | 544 | Elliott Mikila |
-| 406 | 544 | Cranky Patternblock |
-| 407 | 542 | Amy Gregg |
-| 408 | 540 | Deezie |
-| 409 | 540 | Jim Longnecker |
-| 410 | 534 | Staci Behrens |
-| 411 | 534 | puppy mom |
-| 412 | 532 | LadyDeath |
-| 413 | 531 | Quirky Clicky |
-| 414 | 529 | Jessica Lynn |
-| 415 | 528 | Emma Danielle Wynn |
-| 416 | 527 | Doowop40 |
-| 417 | 527 | Coleen Yoder |
+| 403 | 546 | Quirky Shifter |
+| 404 | 545 | Tamara Whiteley |
+| 405 | 544 | Sarah Jane Gorsuch |
+| 406 | 544 | Elliott Mikila |
+| 407 | 544 | Cranky Patternblock |
+| 408 | 542 | Amy Gregg |
+| 409 | 540 | Deezie |
+| 410 | 540 | Jim Longnecker |
+| 411 | 534 | Staci Behrens |
+| 412 | 534 | puppy mom |
+| 413 | 532 | LadyDeath |
+| 414 | 531 | Quirky Clicky |
+| 415 | 529 | Jessica Lynn |
+| 416 | 528 | Emma Danielle Wynn |
+| 417 | 527 | Doowop40 |
 | 418 | 527 | Joni Michelle Morgan |
 | 419 | 524 | Funway998 |
 | 420 | 524 | Marylin Eacker |
@@ -817,34 +817,34 @@
 | 809 | 285 | Alissa Ary |
 | 810 | 284 | Henny Henny |
 | 811 | 284 | Twisty Matchfit |
-| 812 | 284 | Connie Marie Cornell Lerma |
+| 812 | 284 | Nova |
 | 813 | 284 | Cortney Coleman |
-| 814 | 283 | Danita Moon |
-| 815 | 283 | Brooke Kaune |
-| 816 | 282 | Goofy Patternfit |
-| 817 | 282 | Jeremy Daurbigny |
-| 818 | 282 | Thtbrwnsknflla |
-| 819 | 282 | Deb Rose-Bridinger |
-| 820 | 282 | Kati Eckstein |
-| 821 | 281 | Melissa Aycock |
-| 822 | 280 | Keisha Robinson |
-| 823 | 280 | Al Smith Jr |
+| 814 | 284 | Connie Marie Cornell Lerma |
+| 815 | 283 | Danita Moon |
+| 816 | 283 | Brooke Kaune |
+| 817 | 282 | Goofy Patternfit |
+| 818 | 282 | Jeremy Daurbigny |
+| 819 | 282 | Thtbrwnsknflla |
+| 820 | 282 | Deb Rose-Bridinger |
+| 821 | 282 | Kati Eckstein |
+| 822 | 281 | Melissa Aycock |
+| 823 | 280 | Zesty Dash |
 | 824 | 280 | Cody Gates |
 | 825 | 280 | Michelle M Braley |
-| 826 | 280 | Zesty Dash |
-| 827 | 280 | Tonya Greger |
-| 828 | 280 | Angeleye A James |
-| 829 | 279 | SunnySquare |
-| 830 | 279 | Nova |
+| 826 | 280 | Tonya Greger |
+| 827 | 280 | Al Smith Jr |
+| 828 | 280 | Keisha Robinson |
+| 829 | 280 | Angeleye A James |
+| 830 | 279 | SunnySquare |
 | 831 | 279 | Brooke Lynn Marie Adelaide |
 | 832 | 279 | Ryan Rhodes |
-| 833 | 278 | Shawn Bolt |
-| 834 | 278 | Amanda Rude |
-| 835 | 278 | Chrystal |
+| 833 | 278 | Chrystal |
+| 834 | 278 | Shawn Bolt |
+| 835 | 278 | Amanda Rude |
 | 836 | 278 | Shannon Posner |
 | 837 | 277 | Carrie Smith Negron |
-| 838 | 277 | Ashlee Johnson |
-| 839 | 277 | Ashley Fleming |
+| 838 | 277 | Ashley Fleming |
+| 839 | 277 | Ashlee Johnson |
 | 840 | 276 | Connie McCoy |
 | 841 | 276 | Dustin Bumbalough |
 | 842 | 276 | NickandJess Reynolds |
