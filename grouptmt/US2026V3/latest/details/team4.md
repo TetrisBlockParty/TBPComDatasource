@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:40:44 UTC
+# Standings for team4 as of 2026-06-11 08:41:24 UTC
 
 **Total Participants:** 2504
 
@@ -478,16 +478,16 @@
 | 470 | 382 | Denise Wilson |
 | 471 | 380 | Reggie Laserna Clement |
 | 472 | 380 | Karen Davis |
-| 473 | 379 | bollo |
-| 474 | 379 | Ashley Robbins |
-| 475 | 378 | Loopy Hitter |
-| 476 | 375 | Ashley Eskridge |
-| 477 | 374 | Quirky Fallgrid |
-| 478 | 373 | Janna Thompson |
-| 479 | 373 | Lupe Chapa |
-| 480 | 371 | Jenny Cabral |
-| 481 | 371 | Kari Smith |
-| 482 | 371 | Kaps |
+| 473 | 380 | Kaps |
+| 474 | 379 | bollo |
+| 475 | 379 | Ashley Robbins |
+| 476 | 378 | Loopy Hitter |
+| 477 | 375 | Ashley Eskridge |
+| 478 | 374 | Quirky Fallgrid |
+| 479 | 373 | Janna Thompson |
+| 480 | 373 | Lupe Chapa |
+| 481 | 371 | Jenny Cabral |
+| 482 | 371 | Kari Smith |
 | 483 | 370 | Jrr |
 | 484 | 370 | Dizzy Slammer |
 | 485 | 369 | Azahares Alonso |
@@ -2274,49 +2274,49 @@
 | 2266 | 16 | Tavon Byrd |
 | 2267 | 16 | Faith Love Thompson |
 | 2268 | 16 | Iesha Jefferson |
-| 2269 | 16 | hotrod |
-| 2270 | 16 | Fumiko Demello |
-| 2271 | 16 | Kara Ramsey |
-| 2272 | 15 | Ember Axis |
-| 2273 | 15 | Melia Christiansen |
-| 2274 | 15 | strawberry 05 |
-| 2275 | 15 | Wacky Clusterer |
+| 2269 | 16 | Fumiko Demello |
+| 2270 | 16 | Dee |
+| 2271 | 16 | hotrod |
+| 2272 | 16 | Kara Ramsey |
+| 2273 | 15 | Dantheman |
+| 2274 | 15 | Melia Christiansen |
+| 2275 | 15 | strawberry 05 |
 | 2276 | 15 | Walker Tracie |
-| 2277 | 15 | Theamazingspiderman |
+| 2277 | 15 | Wacky Clusterer |
 | 2278 | 15 | Robyn Ann Reid Andreoli |
-| 2279 | 15 | Jacquez Boyer |
+| 2279 | 15 | Theamazingspiderman |
 | 2280 | 15 | Krissa Weaver |
-| 2281 | 15 | Rican |
-| 2282 | 15 | Jonathan Mja |
-| 2283 | 15 | Funky Crasher |
-| 2284 | 15 | Dantheman |
-| 2285 | 15 | Kiara Johnson |
-| 2286 | 15 | Michael McIntire |
-| 2287 | 15 | Twisty Tilt |
-| 2288 | 15 | Speedy Rollbuilder |
-| 2289 | 15 | Tinker193 |
-| 2290 | 15 | Kondwani Winston |
-| 2291 | 15 | Hashanah Williams |
-| 2292 | 15 | Medrano Cruz Yaquelyn |
-| 2293 | 15 | Lively Cascadeclear |
-| 2294 | 15 | Tricki Woo |
-| 2295 | 15 | Brandy Dark |
-| 2296 | 15 | Cheery Twister |
-| 2297 | 14 | Blanchie Wingo |
-| 2298 | 14 | mrsduke420 |
-| 2299 | 14 | Ernesto Flores |
-| 2300 | 14 | Chummy Gridder |
-| 2301 | 14 | Tipsy Riseclear |
-| 2302 | 14 | Plucky Crusher |
-| 2303 | 14 | Dizzy Brickzone |
-| 2304 | 14 | Christine Niles |
-| 2305 | 14 | Donovan Parmenter Gagne |
-| 2306 | 14 | G Money |
-| 2307 | 14 | Kayandra |
-| 2308 | 14 | Evie |
-| 2309 | 14 | Tammy Santiago |
-| 2310 | 14 | Warrenlee Harris |
-| 2311 | 14 | Dee |
+| 2281 | 15 | Jacquez Boyer |
+| 2282 | 15 | Ember Axis |
+| 2283 | 15 | Rican |
+| 2284 | 15 | Jonathan Mja |
+| 2285 | 15 | Funky Crasher |
+| 2286 | 15 | Kiara Johnson |
+| 2287 | 15 | Michael McIntire |
+| 2288 | 15 | Twisty Tilt |
+| 2289 | 15 | Speedy Rollbuilder |
+| 2290 | 15 | Tinker193 |
+| 2291 | 15 | Kondwani Winston |
+| 2292 | 15 | Hashanah Williams |
+| 2293 | 15 | Medrano Cruz Yaquelyn |
+| 2294 | 15 | Lively Cascadeclear |
+| 2295 | 15 | Tricki Woo |
+| 2296 | 15 | Brandy Dark |
+| 2297 | 15 | Cheery Twister |
+| 2298 | 14 | Blanchie Wingo |
+| 2299 | 14 | mrsduke420 |
+| 2300 | 14 | Ernesto Flores |
+| 2301 | 14 | Chummy Gridder |
+| 2302 | 14 | Tipsy Riseclear |
+| 2303 | 14 | Plucky Crusher |
+| 2304 | 14 | Dizzy Brickzone |
+| 2305 | 14 | Christine Niles |
+| 2306 | 14 | Donovan Parmenter Gagne |
+| 2307 | 14 | G Money |
+| 2308 | 14 | Kayandra |
+| 2309 | 14 | Evie |
+| 2310 | 14 | Tammy Santiago |
+| 2311 | 14 | Warrenlee Harris |
 | 2312 | 14 | crow me |
 | 2313 | 14 | QueenB |
 | 2314 | 14 | Alisha McGahey |

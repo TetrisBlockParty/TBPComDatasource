@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:40:44 UTC
+# Standings for team2 as of 2026-06-11 08:41:24 UTC
 
 **Total Participants:** 2934
 
@@ -23,7 +23,7 @@
 | 15 | 9630 | Lola C Davis |
 | 16 | 9620 | A.j. Langley |
 | 17 | 9262 | Maggie McFarland |
-| 18 | 9222 | Christina Shell |
+| 18 | 9224 | Christina Shell |
 | 19 | 8931 | Bobbi |
 | 20 | 8427 | Elizabeth Mooney |
 | 21 | 8400 | Jennifer Knott |
@@ -386,24 +386,24 @@
 | 378 | 574 | Brandy McCune Reep |
 | 379 | 574 | Nikki Greeneyebeauty |
 | 380 | 573 | Marilyn Strickland |
-| 381 | 568 | Chummy Faller |
-| 382 | 567 | Candi Cane |
-| 383 | 567 | Roe Sarmiento |
-| 384 | 567 | Michael Carmichael |
-| 385 | 566 | Santara Ferguson |
-| 386 | 563 | Alicia Parrish |
-| 387 | 559 | Po Yee |
-| 388 | 558 | Tia Guile |
-| 389 | 557 | Janice |
-| 390 | 554 | Amy Gale |
-| 391 | 553 | Bb |
-| 392 | 552 | Heather Denise |
-| 393 | 550 | DomDomsNana |
-| 394 | 550 | Loopy Dropper |
-| 395 | 550 | AndyJo |
-| 396 | 548 | Stephanie |
-| 397 | 546 | Quirky Shifter |
-| 398 | 546 | Samantha Bugg Stitcher |
+| 381 | 569 | Samantha Bugg Stitcher |
+| 382 | 568 | Chummy Faller |
+| 383 | 567 | Candi Cane |
+| 384 | 567 | Roe Sarmiento |
+| 385 | 567 | Michael Carmichael |
+| 386 | 566 | Santara Ferguson |
+| 387 | 563 | Alicia Parrish |
+| 388 | 559 | Po Yee |
+| 389 | 558 | Tia Guile |
+| 390 | 557 | Janice |
+| 391 | 554 | Amy Gale |
+| 392 | 553 | Bb |
+| 393 | 552 | Heather Denise |
+| 394 | 550 | DomDomsNana |
+| 395 | 550 | Loopy Dropper |
+| 396 | 550 | AndyJo |
+| 397 | 548 | Stephanie |
+| 398 | 546 | Quirky Shifter |
 | 399 | 546 | Newtwidebody |
 | 400 | 545 | Tamara Whiteley |
 | 401 | 544 | Elliott Mikila |
@@ -414,8 +414,8 @@
 | 406 | 540 | Jim Longnecker |
 | 407 | 534 | Staci Behrens |
 | 408 | 532 | LadyDeath |
-| 409 | 531 | Quirky Clicky |
-| 410 | 531 | Smiley Staggerpiece |
+| 409 | 531 | Smiley Staggerpiece |
+| 410 | 531 | Quirky Clicky |
 | 411 | 529 | Jessica Lynn |
 | 412 | 528 | Emma Danielle Wynn |
 | 413 | 527 | Doowop40 |
@@ -1754,128 +1754,128 @@
 | 1746 | 89 | Rachel Nunn |
 | 1747 | 89 | BethAnn Pawlowski |
 | 1748 | 89 | Randy Clevenger |
-| 1749 | 89 | Perky Stackbuilder |
-| 1750 | 89 | Geneva |
+| 1749 | 89 | Geneva |
+| 1750 | 89 | Perky Stackbuilder |
 | 1751 | 89 | Jumpy Linkroll |
 | 1752 | 89 | Instak1ll |
-| 1753 | 88 | Mookie |
-| 1754 | 88 | Tipsy Splitter |
-| 1755 | 88 | Redangel |
-| 1756 | 88 | Emma |
-| 1757 | 88 | Funkykarebear |
-| 1758 | 88 | Bertha |
-| 1759 | 87 | Lexi Olsen |
-| 1760 | 87 | Alexis Turner |
+| 1753 | 88 | Torb |
+| 1754 | 88 | Mookie |
+| 1755 | 88 | Bertha |
+| 1756 | 88 | Funkykarebear |
+| 1757 | 88 | Redangel |
+| 1758 | 88 | Emma |
+| 1759 | 88 | Tipsy Splitter |
+| 1760 | 87 | Lexi Olsen |
 | 1761 | 87 | Tara Feineis |
-| 1762 | 86 | Jay King |
-| 1763 | 86 | Daniel Flathers |
-| 1764 | 86 | JEEPER |
-| 1765 | 86 | Christina Michelle Wilson |
-| 1766 | 86 | Codeezy!! |
-| 1767 | 86 | Spunky Fit |
-| 1768 | 86 | Jessm8390 |
-| 1769 | 86 | Spunky Riserfit |
-| 1770 | 86 | Jessica Jones |
-| 1771 | 86 | Mark Havens |
-| 1772 | 85 | TJN |
-| 1773 | 85 | Daisy Girl |
+| 1762 | 87 | Alexis Turner |
+| 1763 | 86 | JEEPER |
+| 1764 | 86 | Christina Michelle Wilson |
+| 1765 | 86 | Daniel Flathers |
+| 1766 | 86 | Jessm8390 |
+| 1767 | 86 | Spunky Riserfit |
+| 1768 | 86 | Jay King |
+| 1769 | 86 | Spunky Fit |
+| 1770 | 86 | Codeezy!! |
+| 1771 | 86 | Jessica Jones |
+| 1772 | 86 | Mark Havens |
+| 1773 | 85 | TJN |
 | 1774 | 85 | GentleGiant Brackett |
-| 1775 | 85 | Joanne Haynes |
-| 1776 | 85 | Cynthia Rose Candelaria |
-| 1777 | 85 | Justin Pennington |
-| 1778 | 85 | Hope Ramirez |
-| 1779 | 85 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1780 | 84 | Audrey F Devis |
-| 1781 | 84 | Katie Magner |
-| 1782 | 84 | Darla |
-| 1783 | 84 | Dom D Davis |
-| 1784 | 84 | Giggly Dashy |
-| 1785 | 84 | Tiffany Heether |
-| 1786 | 83 | Britters |
-| 1787 | 83 | April Appleton |
-| 1788 | 83 | G Yolany Andramos |
-| 1789 | 83 | Dionne Borden |
-| 1790 | 83 | Poppy Snapper |
-| 1791 | 83 | LalaFufu07 |
+| 1775 | 85 | Daisy Girl |
+| 1776 | 85 | Justin Pennington |
+| 1777 | 85 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1778 | 85 | Joanne Haynes |
+| 1779 | 85 | Hope Ramirez |
+| 1780 | 85 | Cynthia Rose Candelaria |
+| 1781 | 84 | Darla |
+| 1782 | 84 | Giggly Dashy |
+| 1783 | 84 | Katie Magner |
+| 1784 | 84 | Dom D Davis |
+| 1785 | 84 | Audrey F Devis |
+| 1786 | 84 | Tiffany Heether |
+| 1787 | 83 | Dionne Borden |
+| 1788 | 83 | LalaFufu07 |
+| 1789 | 83 | Britters |
+| 1790 | 83 | Amy Hahn Nickels |
+| 1791 | 83 | Poppy Snapper |
 | 1792 | 83 | Dan Rosenberg |
-| 1793 | 83 | Amy Hahn Nickels |
-| 1794 | 83 | Jodee Woods |
-| 1795 | 82 | John Rosales |
-| 1796 | 82 | Jessica LeNeave |
-| 1797 | 82 | Betu2clos |
+| 1793 | 83 | G Yolany Andramos |
+| 1794 | 83 | April Appleton |
+| 1795 | 83 | Jodee Woods |
+| 1796 | 82 | Alana Albritton Seals |
+| 1797 | 82 | David Starmer |
 | 1798 | 82 | Amanda Nash |
-| 1799 | 82 | Alana Albritton Seals |
-| 1800 | 82 | David Starmer |
-| 1801 | 82 | Amber Myers |
-| 1802 | 81 | YldBoar |
-| 1803 | 81 | Witty Linkfall |
-| 1804 | 81 | Bobbie Carrol |
-| 1805 | 81 | YUKITATA |
-| 1806 | 81 | Zesty Gridlock |
-| 1807 | 81 | Octavia Jus Mae Hill |
-| 1808 | 81 | Moeshia Turner |
-| 1809 | 81 | Disguised Duck |
-| 1810 | 81 | Bouncy Stagger |
-| 1811 | 81 | Jazzy Cornerfall |
-| 1812 | 80 | Ramon James |
-| 1813 | 80 | Tessa Kalili |
-| 1814 | 80 | Javyjavz |
-| 1815 | 80 | Sarah Davis |
-| 1816 | 80 | John C Morrison |
-| 1817 | 80 | Karen Pearson-Wilson |
-| 1818 | 80 | Torb |
+| 1799 | 82 | Jessica LeNeave |
+| 1800 | 82 | Betu2clos |
+| 1801 | 82 | John Rosales |
+| 1802 | 82 | Amber Myers |
+| 1803 | 81 | YldBoar |
+| 1804 | 81 | Disguised Duck |
+| 1805 | 81 | Zesty Gridlock |
+| 1806 | 81 | Bobbie Carrol |
+| 1807 | 81 | YUKITATA |
+| 1808 | 81 | Jazzy Cornerfall |
+| 1809 | 81 | Witty Linkfall |
+| 1810 | 81 | Moeshia Turner |
+| 1811 | 81 | Bouncy Stagger |
+| 1812 | 81 | Octavia Jus Mae Hill |
+| 1813 | 80 | Ramon James |
+| 1814 | 80 | Sarah Davis |
+| 1815 | 80 | Javyjavz |
+| 1816 | 80 | Karen Pearson-Wilson |
+| 1817 | 80 | Tessa Kalili |
+| 1818 | 80 | John C Morrison |
 | 1819 | 80 | Betty Johnson |
 | 1820 | 80 | Dapper Pivotfall |
 | 1821 | 79 | Zippy Wobbler |
-| 1822 | 79 | LaicoosBargains Ln |
-| 1823 | 79 | Jade007 |
-| 1824 | 79 | Shanna Jones Scott |
-| 1825 | 79 | Sandra Betz |
-| 1826 | 79 | Kristyn Crysel |
-| 1827 | 79 | Amber Marie Lacey |
-| 1828 | 78 | Elise Marie Mireles |
-| 1829 | 78 | Lively Shatter |
-| 1830 | 78 | Tori Hotseller |
-| 1831 | 78 | Dixie Wilson |
-| 1832 | 78 | Danielle Brummett |
-| 1833 | 78 | Shawn Bossuot |
-| 1834 | 78 | Clever Clusterfit |
-| 1835 | 78 | Karen Moore |
-| 1836 | 78 | Betty Muise |
-| 1837 | 78 | Casey Hendricks |
-| 1838 | 78 | Steven Palmer |
-| 1839 | 78 | Catherine Whitt Gaddy |
-| 1840 | 78 | Chipper Spinzone |
+| 1822 | 79 | Sandra Betz |
+| 1823 | 79 | Shanna Jones Scott |
+| 1824 | 79 | Jade007 |
+| 1825 | 79 | Kristyn Crysel |
+| 1826 | 79 | Amber Marie Lacey |
+| 1827 | 79 | LaicoosBargains Ln |
+| 1828 | 78 | Betty Muise |
+| 1829 | 78 | Elise Marie Mireles |
+| 1830 | 78 | Lively Shatter |
+| 1831 | 78 | Chipper Spinzone |
+| 1832 | 78 | Catherine Whitt Gaddy |
+| 1833 | 78 | Clever Clusterfit |
+| 1834 | 78 | Shawn Bossuot |
+| 1835 | 78 | Steven Palmer |
+| 1836 | 78 | Casey Hendricks |
+| 1837 | 78 | Danielle Brummett |
+| 1838 | 78 | Tori Hotseller |
+| 1839 | 78 | Karen Moore |
+| 1840 | 78 | Dixie Wilson |
 | 1841 | 77 | Clever Riserpiece |
 | 1842 | 77 | 3RD LEG |
-| 1843 | 76 | Joe Dirilo |
+| 1843 | 76 | Mary Cook |
 | 1844 | 76 | Mick Loving |
-| 1845 | 76 | June Salevao |
-| 1846 | 76 | Silly Shatter |
-| 1847 | 76 | Peppy Dash |
-| 1848 | 76 | Mary Cook |
-| 1849 | 76 | Lisa Amick |
+| 1845 | 76 | Peppy Dash |
+| 1846 | 76 | June Salevao |
+| 1847 | 76 | Lisa Amick |
+| 1848 | 76 | Joe Dirilo |
+| 1849 | 76 | Silly Shatter |
 | 1850 | 76 | Paula |
 | 1851 | 76 | Happy Riseclear |
 | 1852 | 75 | Donna Casey |
 | 1853 | 75 | Jackie Hayslip |
-| 1854 | 75 | Barbara Fields |
-| 1855 | 75 | Hodges |
-| 1856 | 75 | Nikki |
-| 1857 | 75 | Princess |
-| 1858 | 75 | Swanky Clusterbuilder |
-| 1859 | 75 | Tonia M Eckenrode |
+| 1854 | 75 | Hodges |
+| 1855 | 75 | Aguilar Rita |
+| 1856 | 75 | Barbara Fields |
+| 1857 | 75 | LaChalle Shay |
+| 1858 | 75 | Princess |
+| 1859 | 75 | Nikki |
 | 1860 | 75 | Carie Corbin |
-| 1861 | 75 | LaChalle Shay |
-| 1862 | 75 | Angelica Kelley |
-| 1863 | 75 | Aguilar Rita |
-| 1864 | 74 | MattandAngie Hopkins |
-| 1865 | 74 | Amanda Knox |
-| 1866 | 74 | Goofy Patternbuilder |
-| 1867 | 74 | Dawn Burzee |
+| 1861 | 75 | Tonia M Eckenrode |
+| 1862 | 75 | Swanky Clusterbuilder |
+| 1863 | 75 | Angelica Kelley |
+| 1864 | 74 | Goofy Patternbuilder |
+| 1865 | 74 | Dawn Burzee |
+| 1866 | 74 | Amanda Knox |
+| 1867 | 74 | MattandAngie Hopkins |
 | 1868 | 74 | Mary |
-| 1869 | 73 | Sunny Spinzone |
-| 1870 | 73 | Elodie Deveyer |
+| 1869 | 73 | Elodie Deveyer |
+| 1870 | 73 | Sunny Spinzone |
 | 1871 | 73 | Jenica Davis |
 | 1872 | 73 | vsavage |
 | 1873 | 73 | smoke |
