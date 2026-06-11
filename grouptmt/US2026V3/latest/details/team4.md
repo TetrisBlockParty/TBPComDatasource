@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 21:48:20 UTC
+# Standings for team4 as of 2026-06-11 21:48:47 UTC
 
 **Total Participants:** 2593
 
@@ -1025,100 +1025,100 @@
 | 1017 | 192 | Cranky Twisterfit |
 | 1018 | 191 | Christina Hagan |
 | 1019 | 190 | TeQuita Jennings |
-| 1020 | 190 | Kris McMahon |
-| 1021 | 190 | Name |
-| 1022 | 190 | Breezy Brickfit |
-| 1023 | 190 | Darryl Shufford |
+| 1020 | 190 | Name |
+| 1021 | 190 | Darryl Shufford |
+| 1022 | 190 | Kris McMahon |
+| 1023 | 190 | Breezy Brickfit |
 | 1024 | 190 | Natalie Ohrtman Strand |
 | 1025 | 189 | Sonya |
 | 1026 | 189 | Emjae Tupaz-Rivera |
-| 1027 | 188 | Chirpy Dashfit |
+| 1027 | 188 | Andy Petersen |
 | 1028 | 188 | LaRue Tee |
-| 1029 | 188 | Jumpy Lifter |
-| 1030 | 188 | Andy Petersen |
+| 1029 | 188 | Chirpy Dashfit |
+| 1030 | 188 | Jumpy Lifter |
 | 1031 | 187 | Loony Dashgrid |
-| 1032 | 186 | Phredda Helene Gavornik |
-| 1033 | 186 | Diqthot |
+| 1032 | 186 | Diqthot |
+| 1033 | 186 | Phredda Helene Gavornik |
 | 1034 | 186 | Quirky Shatterblock |
-| 1035 | 186 | Keith Kosmicki |
-| 1036 | 186 | Lina Samra |
-| 1037 | 185 | Hooti Smile |
+| 1035 | 186 | Lina Samra |
+| 1036 | 186 | Keith Kosmicki |
+| 1037 | 186 | Breezy Match |
 | 1038 | 185 | Ash |
-| 1039 | 184 | Amanda Lynn Robinson |
-| 1040 | 184 | RustyMaster40 |
-| 1041 | 183 | JP |
-| 1042 | 183 | Giggy Snapgrid |
+| 1039 | 185 | Hooti Smile |
+| 1040 | 184 | Amanda Lynn Robinson |
+| 1041 | 184 | RustyMaster40 |
+| 1042 | 183 | Cflixer |
 | 1043 | 183 | Epic Curver |
-| 1044 | 183 | Mar Mar |
-| 1045 | 183 | Cflixer |
-| 1046 | 182 | Happy Filler |
-| 1047 | 182 | Lori A Hamann |
+| 1044 | 183 | Giggy Snapgrid |
+| 1045 | 183 | JP |
+| 1046 | 183 | Mar Mar |
+| 1047 | 182 | TheazO |
 | 1048 | 182 | Patsy |
-| 1049 | 182 | TheazO |
-| 1050 | 182 | Vicente Bolaños Jr. |
-| 1051 | 181 | Heather Cross High |
-| 1052 | 181 | Scott If |
-| 1053 | 181 | Mary Miller |
-| 1054 | 181 | Krissy Smith |
-| 1055 | 181 | Elise Ann |
-| 1056 | 181 | SueSally |
-| 1057 | 181 | Goofy Twistpiece |
-| 1058 | 180 | BethB |
-| 1059 | 180 | Kristie McFarland |
-| 1060 | 180 | Charissa W Walton |
-| 1061 | 180 | Wyatt Karren |
-| 1062 | 180 | Aleta Svitak |
-| 1063 | 180 | Melissa Wilson |
-| 1064 | 180 | Silly Rollbuilder |
-| 1065 | 180 | George Marshburn |
-| 1066 | 180 | Hotstuff |
-| 1067 | 180 | Krista Diaz |
-| 1068 | 179 | Giggly Stackbuilder |
-| 1069 | 179 | Goddatbat |
+| 1049 | 182 | Lori A Hamann |
+| 1050 | 182 | Happy Filler |
+| 1051 | 182 | Vicente Bolaños Jr. |
+| 1052 | 181 | Mary Miller |
+| 1053 | 181 | Elise Ann |
+| 1054 | 181 | SueSally |
+| 1055 | 181 | Heather Cross High |
+| 1056 | 181 | Krissy Smith |
+| 1057 | 181 | Scott If |
+| 1058 | 181 | Goofy Twistpiece |
+| 1059 | 180 | Charissa W Walton |
+| 1060 | 180 | Kristie McFarland |
+| 1061 | 180 | Aleta Svitak |
+| 1062 | 180 | Melissa Wilson |
+| 1063 | 180 | Silly Rollbuilder |
+| 1064 | 180 | Wyatt Karren |
+| 1065 | 180 | BethB |
+| 1066 | 180 | George Marshburn |
+| 1067 | 180 | Hotstuff |
+| 1068 | 180 | Krista Diaz |
+| 1069 | 179 | Giggly Stackbuilder |
 | 1070 | 179 | Dru Lui |
-| 1071 | 178 | Rin |
-| 1072 | 178 | Michelle Clark |
-| 1073 | 178 | Jacqueline Arce |
-| 1074 | 178 | Cozy Builderfit |
-| 1075 | 178 | Renzo Tonini |
-| 1076 | 178 | Krazylegzzzz |
-| 1077 | 178 | Peterson Cottontail |
-| 1078 | 177 | Nata Lia |
-| 1079 | 177 | Lionel Hampton |
-| 1080 | 177 | Ana Ruiz |
-| 1081 | 177 | QuickFreeze |
-| 1082 | 177 | Gualberto Ramirez |
-| 1083 | 176 | Jazzy Brickfit |
-| 1084 | 176 | Keisha Petway |
-| 1085 | 176 | Rio Rumble |
-| 1086 | 176 | Jazzy Smasher |
+| 1071 | 179 | Goddatbat |
+| 1072 | 178 | Jacqueline Arce |
+| 1073 | 178 | Krazylegzzzz |
+| 1074 | 178 | Renzo Tonini |
+| 1075 | 178 | Rin |
+| 1076 | 178 | Michelle Clark |
+| 1077 | 178 | Cozy Builderfit |
+| 1078 | 178 | Peterson Cottontail |
+| 1079 | 177 | Nata Lia |
+| 1080 | 177 | Lionel Hampton |
+| 1081 | 177 | Ana Ruiz |
+| 1082 | 177 | QuickFreeze |
+| 1083 | 177 | Gualberto Ramirez |
+| 1084 | 176 | Jazzy Brickfit |
+| 1085 | 176 | Keisha Petway |
+| 1086 | 176 | Rio Rumble |
 | 1087 | 176 | Rocky |
-| 1088 | 175 | Cheeky Linkpiece |
+| 1088 | 176 | Jazzy Smasher |
 | 1089 | 175 | Leslie Ramos |
 | 1090 | 175 | JustLessie |
-| 1091 | 174 | Kay |
-| 1092 | 174 | Michelle Michelle |
-| 1093 | 174 | Bridget Reilly |
-| 1094 | 173 | Nicole Ambrose |
-| 1095 | 173 | Shavondelia Williams |
-| 1096 | 173 | Wayne Hendricks |
-| 1097 | 173 | Derkesha Huntley |
-| 1098 | 173 | FUNBAT |
-| 1099 | 173 | Tarsha Thomas-Martinez |
-| 1100 | 172 | Ramona Rosado |
-| 1101 | 172 | Erica Hardwick |
+| 1091 | 175 | Cheeky Linkpiece |
+| 1092 | 174 | Kay |
+| 1093 | 174 | Michelle Michelle |
+| 1094 | 174 | Bridget Reilly |
+| 1095 | 173 | Derkesha Huntley |
+| 1096 | 173 | Tarsha Thomas-Martinez |
+| 1097 | 173 | Wayne Hendricks |
+| 1098 | 173 | Shavondelia Williams |
+| 1099 | 173 | FUNBAT |
+| 1100 | 173 | Nicole Ambrose |
+| 1101 | 172 | Wynisha Johnson |
 | 1102 | 172 | Chelsea Pigg |
-| 1103 | 172 | Wynisha Johnson |
-| 1104 | 171 | Baby cat |
-| 1105 | 171 | Breezy Match |
-| 1106 | 170 | Marisela Alvarado |
-| 1107 | 170 | Pawpawbare |
-| 1108 | 169 | Jt Home |
-| 1109 | 169 | Hayze |
-| 1110 | 169 | Jolly Fitblock |
-| 1111 | 169 | Lamont |
-| 1112 | 169 | Samantha Brandt |
-| 1113 | 169 | Meghan Etchells |
+| 1103 | 172 | Erica Hardwick |
+| 1104 | 172 | Ramona Rosado |
+| 1105 | 171 | Baby cat |
+| 1106 | 170 | Pawpawbare |
+| 1107 | 170 | Marisela Alvarado |
+| 1108 | 169 | Jolly Fitblock |
+| 1109 | 169 | Lamont |
+| 1110 | 169 | Samantha Brandt |
+| 1111 | 169 | Jt Home |
+| 1112 | 169 | Meghan Etchells |
+| 1113 | 169 | Hayze |
 | 1114 | 169 | Snappy Fill |
 | 1115 | 169 | Lawanda Mayze |
 | 1116 | 169 | White As Snow |
@@ -1131,11 +1131,11 @@
 | 1123 | 166 | medicjessi |
 | 1124 | 166 | MsThick SrtLady Williams |
 | 1125 | 166 | the repo |
-| 1126 | 165 | Teresa Lescinskas |
-| 1127 | 165 | Snappy Slice |
-| 1128 | 165 | Melissa Gorman |
+| 1126 | 165 | Snappy Slice |
+| 1127 | 165 | Teresa Lescinskas |
+| 1128 | 165 | Liz R |
 | 1129 | 165 | Joyce Hampton |
-| 1130 | 165 | Liz R |
+| 1130 | 165 | Melissa Gorman |
 | 1131 | 165 | Leslie |
 | 1132 | 165 | Wacky Brickmatch |
 | 1133 | 164 | Shauntenay Campbell |
