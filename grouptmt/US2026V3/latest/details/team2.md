@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:08:46 UTC
+# Standings for team2 as of 2026-06-11 08:09:23 UTC
 
 **Total Participants:** 2932
 
@@ -67,7 +67,7 @@
 | 59 | 3995 | Betty Barrett |
 | 60 | 3990 | Anthony Lilley |
 | 61 | 3984 | Amber |
-| 62 | 3924 | Sean Rippa |
+| 62 | 3942 | Sean Rippa |
 | 63 | 3892 | Crystal M Sowden |
 | 64 | 3837 | THUMP |
 | 65 | 3634 | Kimberly Benson |
@@ -80,7 +80,7 @@
 | 72 | 3229 | Mikki Torres |
 | 73 | 3221 | KD Walusay |
 | 74 | 3111 | Angie BBlock |
-| 75 | 3011 | Kellie Montgomery |
+| 75 | 3031 | Kellie Montgomery |
 | 76 | 3000 | LEW |
 | 77 | 2925 | Crystal Camden Suarez |
 | 78 | 2902 | Beverly Lynn Mills |
@@ -354,19 +354,19 @@
 | 346 | 636 | Tara |
 | 347 | 635 | Bubbly Dash |
 | 348 | 632 | Naomi Walker |
-| 349 | 631 | Lora Via |
-| 350 | 631 | Jeanna Mendez |
-| 351 | 627 | Theresa Marie |
-| 352 | 625 | Greta Warden |
-| 353 | 622 | straighttiptoe |
-| 354 | 619 | Gill |
-| 355 | 618 | Spicy Basepiece |
-| 356 | 613 | Norma Ortiz |
-| 357 | 613 | Nicole Plummer |
-| 358 | 610 | Judy Long |
-| 359 | 607 | Janelle Edgecombe |
-| 360 | 606 | Lindsey Ford |
-| 361 | 603 | Aurora June Brock |
+| 349 | 632 | Aurora June Brock |
+| 350 | 631 | Lora Via |
+| 351 | 631 | Jeanna Mendez |
+| 352 | 627 | Theresa Marie |
+| 353 | 625 | Greta Warden |
+| 354 | 622 | straighttiptoe |
+| 355 | 619 | Gill |
+| 356 | 618 | Spicy Basepiece |
+| 357 | 613 | Norma Ortiz |
+| 358 | 613 | Nicole Plummer |
+| 359 | 610 | Judy Long |
+| 360 | 607 | Janelle Edgecombe |
+| 361 | 606 | Lindsey Ford |
 | 362 | 602 | MUMBLES |
 | 363 | 600 | Liseth Vasquez |
 | 364 | 598 | Thomas Tyrone |
@@ -1621,8 +1621,8 @@
 | 1613 | 110 | Chesterland |
 | 1614 | 110 | Shannon Michelle |
 | 1615 | 110 | LivePhoenix |
-| 1616 | 109 | Krickett M. Curtis |
-| 1617 | 109 | Charles Dwayne |
+| 1616 | 110 | Charles Dwayne |
+| 1617 | 109 | Krickett M. Curtis |
 | 1618 | 109 | Giggy Snapper |
 | 1619 | 109 | Chamorro Pride |
 | 1620 | 109 | Corey Mac |
