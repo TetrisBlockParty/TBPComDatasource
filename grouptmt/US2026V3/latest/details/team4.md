@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 06:48:43 UTC
+# Standings for team4 as of 2026-06-11 06:49:24 UTC
 
 **Total Participants:** 2492
 
@@ -1073,28 +1073,28 @@
 | 1065 | 162 | BethB |
 | 1066 | 161 | Melissa Schwager |
 | 1067 | 161 | Lush Balanceblock |
-| 1068 | 160 | Aim Georgia Bros Scott |
-| 1069 | 160 | Krissy Smith |
-| 1070 | 160 | Cozy Staggerpiece |
-| 1071 | 160 | Tigger |
-| 1072 | 160 | Kenyatta Davis |
-| 1073 | 160 | Deanne Silverdahl |
-| 1074 | 159 | Hasty Snapmatch |
-| 1075 | 159 | Ali Garcia |
-| 1076 | 159 | QuickFreeze |
-| 1077 | 159 | Krazylegzzzz |
-| 1078 | 158 | gothicmisery |
-| 1079 | 158 | Baby cat |
-| 1080 | 158 | Lush Match |
-| 1081 | 158 | Cozy Builderfit |
-| 1082 | 158 | Lamont |
-| 1083 | 157 | Kahlie Grant |
-| 1084 | 157 | Bam SwaggSpitter King |
-| 1085 | 157 | Sa5siy |
-| 1086 | 157 | Skylar Durk |
-| 1087 | 157 | Isabel Roman |
-| 1088 | 157 | Giggy Risegrid |
-| 1089 | 157 | TheazO |
+| 1068 | 161 | TheazO |
+| 1069 | 160 | Kenyatta Davis |
+| 1070 | 160 | Tigger |
+| 1071 | 160 | Cozy Staggerpiece |
+| 1072 | 160 | Krissy Smith |
+| 1073 | 160 | Aim Georgia Bros Scott |
+| 1074 | 160 | Deanne Silverdahl |
+| 1075 | 159 | Hasty Snapmatch |
+| 1076 | 159 | Krazylegzzzz |
+| 1077 | 159 | QuickFreeze |
+| 1078 | 159 | Ali Garcia |
+| 1079 | 158 | Lush Match |
+| 1080 | 158 | Cozy Builderfit |
+| 1081 | 158 | Lamont |
+| 1082 | 158 | gothicmisery |
+| 1083 | 158 | Baby cat |
+| 1084 | 157 | Skylar Durk |
+| 1085 | 157 | Bam SwaggSpitter King |
+| 1086 | 157 | Kahlie Grant |
+| 1087 | 157 | Sa5siy |
+| 1088 | 157 | Isabel Roman |
+| 1089 | 157 | Giggy Risegrid |
 | 1090 | 157 | Marie Lily |
 | 1091 | 157 | Goofy Riserbuilder |
 | 1092 | 156 | Keisha Petway |
@@ -1143,16 +1143,16 @@
 | 1135 | 148 | Vanessa Torres |
 | 1136 | 148 | Ty Brown |
 | 1137 | 148 | Jeni |
-| 1138 | 148 | Jasmine Marie |
-| 1139 | 147 | Peterson Cottontail |
+| 1138 | 148 | Peterson Cottontail |
+| 1139 | 148 | Jasmine Marie |
 | 1140 | 147 | CRsLady |
 | 1141 | 147 | Jumpy Lifter |
 | 1142 | 147 | Tammy Wells |
 | 1143 | 146 | Aleah Briann |
 | 1144 | 146 | Mone DyTorrion Zyan Lotts |
 | 1145 | 146 | Marie Culbert |
-| 1146 | 146 | Dapper Tiltpiece |
-| 1147 | 146 | John Wertz |
+| 1146 | 146 | John Wertz |
+| 1147 | 146 | Dapper Tiltpiece |
 | 1148 | 145 | Suzie |
 | 1149 | 145 | Kenny Nguyen |
 | 1150 | 145 | Alicia Loveless |
@@ -1171,11 +1171,11 @@
 | 1163 | 142 | Mandi Rexroat |
 | 1164 | 142 | Jonathan Jackson |
 | 1165 | 142 | Clever Blockmatch |
-| 1166 | 142 | JP |
-| 1167 | 142 | Theo Stamps |
-| 1168 | 142 | Darren Miguel |
-| 1169 | 142 | Nicole Ambrose |
-| 1170 | 142 | Meghan Etchells |
+| 1166 | 142 | Theo Stamps |
+| 1167 | 142 | JP |
+| 1168 | 142 | Meghan Etchells |
+| 1169 | 142 | Darren Miguel |
+| 1170 | 142 | Nicole Ambrose |
 | 1171 | 141 | Scott Baum |
 | 1172 | 141 | Audrianna Skaff |
 | 1173 | 141 | Monkey |
@@ -1235,9 +1235,9 @@
 | 1227 | 128 | Fancy Curvetile |
 | 1228 | 127 | Lola |
 | 1229 | 127 | Jace Warren |
-| 1230 | 127 | Cail |
-| 1231 | 127 | Sandra O'Reilly |
-| 1232 | 127 | Cheeky Climber |
+| 1230 | 127 | Sandra O'Reilly |
+| 1231 | 127 | Cheeky Climber |
+| 1232 | 127 | Cail |
 | 1233 | 126 | Swanky Matchfit |
 | 1234 | 126 | Chipper Fitblock |
 | 1235 | 126 | Tiffany Taylor |
@@ -1249,9 +1249,9 @@
 | 1241 | 125 | CharmingS |
 | 1242 | 125 | Youngkueen |
 | 1243 | 125 | Joe Win |
-| 1244 | 124 | Melissa Elizabeth |
+| 1244 | 124 | Danielle Sulano |
 | 1245 | 124 | Erica Armstrong Baz |
-| 1246 | 124 | Danielle Sulano |
+| 1246 | 124 | Melissa Elizabeth |
 | 1247 | 124 | E money |
 | 1248 | 124 | Emjae Tupaz-Rivera |
 | 1249 | 124 | LuLazer27 |
