@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:28:29 UTC
+# Standings for team2 as of 2026-06-11 09:29:19 UTC
 
 **Total Participants:** 2938
 
@@ -61,8 +61,8 @@
 | 53 | 4790 | Smashanator |
 | 54 | 4511 | Julie Renee Bertram |
 | 55 | 4486 | Brent Bittenbender |
-| 56 | 4412 | Charles Varca |
-| 57 | 4381 | Nawang Nawang |
+| 56 | 4441 | Nawang Nawang |
+| 57 | 4412 | Charles Varca |
 | 58 | 4224 | LaWanda Powell |
 | 59 | 4005 | Betty Barrett |
 | 60 | 3990 | Anthony Lilley |
@@ -198,7 +198,7 @@
 | 190 | 1061 | Frothy Fitzone |
 | 191 | 1049 | Sedy |
 | 192 | 1046 | Sarah Griffey |
-| 193 | 1036 | Rhonda Diebold |
+| 193 | 1045 | Rhonda Diebold |
 | 194 | 1035 | Amber Wolf |
 | 195 | 1033 | Theresa Hollinger |
 | 196 | 1028 | Wacky Dashfit |
@@ -2541,42 +2541,42 @@
 | 2533 | 23 | Amanda Raley |
 | 2534 | 23 | Sarah Phelps Beyer |
 | 2535 | 23 | Kharisma Unks |
-| 2536 | 23 | Shelby |
-| 2537 | 23 | Terri Rodriguez |
+| 2536 | 23 | Terri Rodriguez |
+| 2537 | 23 | Shelby |
 | 2538 | 23 | Spicy Basepiece |
 | 2539 | 23 | Lane Bryant |
 | 2540 | 23 | Giggly Glider |
-| 2541 | 22 | Amy DeSoto |
+| 2541 | 22 | Amanda Hastings |
 | 2542 | 22 | cole |
-| 2543 | 22 | Amanda Hastings |
-| 2544 | 22 | Heather |
-| 2545 | 22 | Tyler Bates |
-| 2546 | 22 | Kevin Santiago |
-| 2547 | 22 | Stacy Stickle |
-| 2548 | 22 | Kim Gentry |
-| 2549 | 22 | Lisa Partin |
+| 2543 | 22 | Heather |
+| 2544 | 22 | Tyler Bates |
+| 2545 | 22 | Kevin Santiago |
+| 2546 | 22 | Stacy Stickle |
+| 2547 | 22 | Kim Gentry |
+| 2548 | 22 | Lisa Partin |
+| 2549 | 22 | Dwyla Howard |
 | 2550 | 22 | Melanesia Springs |
 | 2551 | 22 | Shaunda Thompson |
 | 2552 | 22 | Brittany E Shirley |
-| 2553 | 22 | SueEllen Hawkins |
-| 2554 | 21 | Jacqueline Leigh Zuzinec |
-| 2555 | 21 | Randi Moore |
-| 2556 | 21 | Ryan Welcher |
-| 2557 | 21 | Stephanie A Crow |
-| 2558 | 21 | sally |
-| 2559 | 21 | Birdy bird |
+| 2553 | 22 | Amy DeSoto |
+| 2554 | 22 | SueEllen Hawkins |
+| 2555 | 21 | Jacqueline Leigh Zuzinec |
+| 2556 | 21 | Randi Moore |
+| 2557 | 21 | sally |
+| 2558 | 21 | Ryan Welcher |
+| 2559 | 21 | Stephanie A Crow |
 | 2560 | 21 | Epic Balanceblock |
 | 2561 | 21 | Reddbish Sutphen |
-| 2562 | 21 | Drahcir |
-| 2563 | 21 | Block buster |
-| 2564 | 21 | Tina Thomason |
-| 2565 | 21 | Ashley Wolford |
-| 2566 | 21 | Danielle S Kester |
-| 2567 | 21 | Mark Frazier |
-| 2568 | 21 | Chill Shatterclear |
-| 2569 | 21 | Crafty Gridpiece |
-| 2570 | 21 | Lou Sassole |
-| 2571 | 21 | Dwyla Howard |
+| 2562 | 21 | Birdy bird |
+| 2563 | 21 | Drahcir |
+| 2564 | 21 | Block buster |
+| 2565 | 21 | Tina Thomason |
+| 2566 | 21 | Ashley Wolford |
+| 2567 | 21 | Danielle S Kester |
+| 2568 | 21 | Mark Frazier |
+| 2569 | 21 | Chill Shatterclear |
+| 2570 | 21 | Crafty Gridpiece |
+| 2571 | 21 | Lou Sassole |
 | 2572 | 21 | Loony Snapclear |
 | 2573 | 20 | Shana Campbell |
 | 2574 | 20 | Jimberlee Akuna |
@@ -2586,8 +2586,8 @@
 | 2578 | 20 | Cindy Lea Jones |
 | 2579 | 20 | Valerie Blake |
 | 2580 | 20 | Jamaica Flowers |
-| 2581 | 20 | Rainbowdust Glitter-pants |
-| 2582 | 20 | Amy Bowens |
+| 2581 | 20 | Amy Bowens |
+| 2582 | 20 | Rainbowdust Glitter-pants |
 | 2583 | 20 | Sasha Hamilton |
 | 2584 | 20 | Scott Mack |
 | 2585 | 20 | TookaRhoGorgeous |

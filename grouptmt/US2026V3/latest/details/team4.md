@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:28:29 UTC
+# Standings for team4 as of 2026-06-11 09:29:19 UTC
 
 **Total Participants:** 2506
 
@@ -12,7 +12,7 @@
 | 4 | 18644 | Lyza |
 | 5 | 14614 | Hasty Builder |
 | 6 | 12960 | Boldy Crusher |
-| 7 | 12636 | Candice Driver |
+| 7 | 12686 | Candice Driver |
 | 8 | 12373 | Loony Rotater |
 | 9 | 11669 | Cinny |
 | 10 | 11639 | BertaF1irta |
@@ -313,15 +313,15 @@
 | 305 | 571 | Danny Ortiz |
 | 306 | 570 | Fran Aaron-Ring |
 | 307 | 565 | Morgan Stevens |
-| 308 | 563 | Cherrel M. Causey |
-| 309 | 562 | Tipsy Zonebuilder |
-| 310 | 560 | Betsy Froemming |
-| 311 | 559 | matt |
-| 312 | 559 | Groovy Towerbuilder |
-| 313 | 558 | Aramat |
-| 314 | 557 | Chummy Jumper |
-| 315 | 556 | Cherrypir05 |
-| 316 | 548 | Tammy June |
+| 308 | 563 | Tammy June |
+| 309 | 563 | Cherrel M. Causey |
+| 310 | 562 | Tipsy Zonebuilder |
+| 311 | 560 | Betsy Froemming |
+| 312 | 559 | matt |
+| 313 | 559 | Groovy Towerbuilder |
+| 314 | 558 | Aramat |
+| 315 | 557 | Chummy Jumper |
+| 316 | 556 | Cherrypir05 |
 | 317 | 547 | Swanky Brickzone |
 | 318 | 546 | Honey |
 | 319 | 546 | Earl Edwards |
@@ -1501,17 +1501,17 @@
 | 1493 | 83 | Terry Jo Myers |
 | 1494 | 83 | Peter Babineaux Jr |
 | 1495 | 83 | Bubbly Shatter |
-| 1496 | 82 | crazy lazy |
-| 1497 | 82 | Peachy Grabber |
-| 1498 | 82 | Sunny Bricky |
-| 1499 | 82 | JuicyJay |
-| 1500 | 82 | Judea Leblanc |
-| 1501 | 82 | Brenda Mueller |
-| 1502 | 82 | EKM |
-| 1503 | 82 | Frank Loher III |
-| 1504 | 82 | Jacklyn Martinez |
-| 1505 | 82 | Thomas Cassell |
-| 1506 | 82 | Charity Thomas |
+| 1496 | 83 | Thomas Cassell |
+| 1497 | 82 | Jacklyn Martinez |
+| 1498 | 82 | Charity Thomas |
+| 1499 | 82 | crazy lazy |
+| 1500 | 82 | Peachy Grabber |
+| 1501 | 82 | Sunny Bricky |
+| 1502 | 82 | JuicyJay |
+| 1503 | 82 | Judea Leblanc |
+| 1504 | 82 | Brenda Mueller |
+| 1505 | 82 | EKM |
+| 1506 | 82 | Frank Loher III |
 | 1507 | 81 | courtt |
 | 1508 | 81 | Violet Mejia |
 | 1509 | 81 | Lazy Frame |
@@ -1564,19 +1564,19 @@
 | 1556 | 75 | Stephy |
 | 1557 | 75 | ŁųŁų |
 | 1558 | 75 | Amy |
-| 1559 | 74 | Julia Chavez |
-| 1560 | 74 | Misty Larrabee |
-| 1561 | 74 | Chirpy Corner |
-| 1562 | 74 | Tyrell Sanders |
-| 1563 | 74 | Dana Sison Vincent |
-| 1564 | 74 | Frothy Pivotfall |
-| 1565 | 74 | Mighty Liney |
-| 1566 | 74 | Pretty_Rican |
-| 1567 | 73 | Tonya Cross |
-| 1568 | 73 | Lanitra Adams |
-| 1569 | 73 | Twisty Chiseler |
-| 1570 | 73 | Pinkdragon |
-| 1571 | 73 | Brooke Limpf |
+| 1559 | 75 | Brooke Limpf |
+| 1560 | 74 | Julia Chavez |
+| 1561 | 74 | Misty Larrabee |
+| 1562 | 74 | Chirpy Corner |
+| 1563 | 74 | Tyrell Sanders |
+| 1564 | 74 | Dana Sison Vincent |
+| 1565 | 74 | Frothy Pivotfall |
+| 1566 | 74 | Mighty Liney |
+| 1567 | 74 | Pretty_Rican |
+| 1568 | 73 | Tonya Cross |
+| 1569 | 73 | Lanitra Adams |
+| 1570 | 73 | Twisty Chiseler |
+| 1571 | 73 | Pinkdragon |
 | 1572 | 73 | Yseoj M. Zurc |
 | 1573 | 73 | Emma Mancino |
 | 1574 | 73 | Toyag |
