@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:07:24 UTC
+# Standings for team1 as of 2026-06-11 09:08:47 UTC
 
 **Total Participants:** 2467
 
@@ -293,9 +293,9 @@
 | 285 | 599 | IThinkNot |
 | 286 | 594 | Lashaunda |
 | 287 | 594 | Rachael Bakowicz Edwards |
-| 288 | 588 | Kenny 'Tailormade' Boyd |
-| 289 | 585 | Anthony |
-| 290 | 583 | Daris Swearington |
+| 288 | 593 | Daris Swearington |
+| 289 | 588 | Kenny 'Tailormade' Boyd |
+| 290 | 585 | Anthony |
 | 291 | 579 | Mahagony Small |
 | 292 | 579 | Calvin Green |
 | 293 | 577 | Desire Rice |
@@ -458,14 +458,14 @@
 | 450 | 400 | Bbyunicorn |
 | 451 | 399 | LaShaun Stinson |
 | 452 | 399 | Twisty Pivot |
-| 453 | 398 | kitten |
-| 454 | 398 | Bubbly Piececlear |
-| 455 | 397 | Ladybug |
-| 456 | 397 | Eric Spencer Whitaker |
-| 457 | 397 | FunTime |
-| 458 | 396 | Nikki Hogan |
-| 459 | 396 | Glitzy Patternline |
-| 460 | 395 | Saucy Faller |
+| 453 | 398 | Saucy Faller |
+| 454 | 398 | kitten |
+| 455 | 398 | Bubbly Piececlear |
+| 456 | 397 | Ladybug |
+| 457 | 397 | Eric Spencer Whitaker |
+| 458 | 397 | FunTime |
+| 459 | 396 | Nikki Hogan |
+| 460 | 396 | Glitzy Patternline |
 | 461 | 395 | Derrius SeriousLee Burks |
 | 462 | 395 | Rachel |
 | 463 | 395 | Sammie Walker |
@@ -1272,29 +1272,29 @@
 | 1264 | 113 | Wacky Spinfit |
 | 1265 | 113 | Bohdi |
 | 1266 | 113 | Sha Anderson |
-| 1267 | 112 | Embracing Hair |
+| 1267 | 112 | GamerQueenDS |
 | 1268 | 112 | Elizabeth Hopkins |
-| 1269 | 112 | GamerQueenDS |
-| 1270 | 111 | Alicia Lei |
-| 1271 | 111 | Letrishia Andrews |
-| 1272 | 111 | Francisco R. Avalos |
+| 1269 | 112 | Embracing Hair |
+| 1270 | 111 | Letrishia Andrews |
+| 1271 | 111 | Jack Mehof |
+| 1272 | 111 | midnightxtoker |
 | 1273 | 111 | Funky Tetris |
-| 1274 | 111 | Khatyrah Burnette |
-| 1275 | 111 | midnightxtoker |
-| 1276 | 111 | Daring Snaplink |
-| 1277 | 111 | Jack Mehof |
-| 1278 | 111 | Fred Caston |
-| 1279 | 110 | S.S |
-| 1280 | 110 | Silly Spinblock |
-| 1281 | 110 | Boldy Matchfit |
-| 1282 | 110 | Swanky Riserfit |
-| 1283 | 110 | PattyPower |
-| 1284 | 110 | Tweet Turner |
-| 1285 | 109 | OleGey |
+| 1274 | 111 | Dandy Shatterer |
+| 1275 | 111 | Alicia Lei |
+| 1276 | 111 | Francisco R. Avalos |
+| 1277 | 111 | Khatyrah Burnette |
+| 1278 | 111 | Daring Snaplink |
+| 1279 | 111 | Fred Caston |
+| 1280 | 110 | S.S |
+| 1281 | 110 | Silly Spinblock |
+| 1282 | 110 | Boldy Matchfit |
+| 1283 | 110 | Swanky Riserfit |
+| 1284 | 110 | PattyPower |
+| 1285 | 110 | Tweet Turner |
 | 1286 | 109 | Jamal D. Wiley |
-| 1287 | 109 | Darlene Johnson |
-| 1288 | 109 | Jeremy Myers |
-| 1289 | 109 | Dandy Shatterer |
+| 1287 | 109 | OleGey |
+| 1288 | 109 | Darlene Johnson |
+| 1289 | 109 | Jeremy Myers |
 | 1290 | 108 | Douglas Jones |
 | 1291 | 108 | Phoenix |
 | 1292 | 108 | Smiley Tilebuilder |
