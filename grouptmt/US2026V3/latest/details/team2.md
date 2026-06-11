@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 20:35:24 UTC
+# Standings for team2 as of 2026-06-11 20:36:24 UTC
 
 **Total Participants:** 3008
 
@@ -23,7 +23,7 @@
 | 15 | 11061 | Kathleen M Cox |
 | 16 | 10862 | Maggie McFarland |
 | 17 | 10100 | Jennifer Knott |
-| 18 | 9693 | Christina Shell |
+| 18 | 9694 | Christina Shell |
 | 19 | 9634 | Lola C Davis |
 | 20 | 9630 | A.j. Langley |
 | 21 | 9203 | Bobbi |
@@ -41,7 +41,7 @@
 | 33 | 7261 | Julie Trede Amerson |
 | 34 | 6941 | Katelyn Rodgers |
 | 35 | 6470 | Ashley Miller |
-| 36 | 6426 | Tim Ix |
+| 36 | 6464 | Tim Ix |
 | 37 | 6316 | Alexia Reagan |
 | 38 | 6272 | Danni Campa |
 | 39 | 6154 | Morgann McDaniel |
@@ -59,7 +59,7 @@
 | 51 | 5237 | THUMP |
 | 52 | 5231 | Julie Renee Bertram |
 | 53 | 5075 | Frisky Balanceblock |
-| 54 | 5010 | Wacky Dashfit |
+| 54 | 5020 | Wacky Dashfit |
 | 55 | 4987 | Erica Dees Parks |
 | 56 | 4836 | Charley Bedford |
 | 57 | 4815 | Tonya Taber |
@@ -229,13 +229,13 @@
 | 221 | 1010 | Nicole Hogue |
 | 222 | 1009 | Ackerman 85 |
 | 223 | 1009 | Steven |
-| 224 | 1003 | Giddy Climber |
-| 225 | 1001 | Snappy Combo |
-| 226 | 1000 | Frisky Tiltgrid |
-| 227 | 1000 | Sydney Headley |
-| 228 | 999 | Hoppy Linkblock |
-| 229 | 999 | Lashanda Bertram |
-| 230 | 996 | Sara Perkins |
+| 224 | 1006 | Sara Perkins |
+| 225 | 1003 | Giddy Climber |
+| 226 | 1001 | Snappy Combo |
+| 227 | 1000 | Frisky Tiltgrid |
+| 228 | 1000 | Sydney Headley |
+| 229 | 999 | Hoppy Linkblock |
+| 230 | 999 | Lashanda Bertram |
 | 231 | 994 | H |
 | 232 | 992 | Nettrainer |
 | 233 | 988 | Dane Marko |
@@ -296,9 +296,9 @@
 | 288 | 827 | Nikki Carter |
 | 289 | 827 | SilentBuffalo |
 | 290 | 825 | Marilyn Strickland |
-| 291 | 822 | Gabrielle Wilson |
-| 292 | 821 | Krystal Hummel |
-| 293 | 820 | Charles E Mccardell |
+| 291 | 824 | Charles E Mccardell |
+| 292 | 822 | Gabrielle Wilson |
+| 293 | 821 | Krystal Hummel |
 | 294 | 819 | KayLynn Ogden McClelland |
 | 295 | 818 | Ratchet |
 | 296 | 813 | Loony Faller |
@@ -681,25 +681,25 @@
 | 673 | 378 | Heather Schardan |
 | 674 | 375 | Bennie Farbo |
 | 675 | 375 | Lisa Allen Frisk |
-| 676 | 373 | Nano. |
-| 677 | 372 | Kendra Sullins |
-| 678 | 372 | ZBee |
-| 679 | 372 | Raine |
-| 680 | 372 | Flashy Basegrid |
-| 681 | 372 | Viani09 |
-| 682 | 370 | Stetson Tetris |
-| 683 | 370 | Mandy Rankin |
-| 684 | 370 | Bouncy Snapmatch |
-| 685 | 370 | marsam |
-| 686 | 369 | Francesca Wagenhoffer |
-| 687 | 367 | Twisty Blockmatch |
-| 688 | 367 | Frisky Twist |
-| 689 | 366 | Nick Waterwalker |
-| 690 | 366 | Flex |
-| 691 | 364 | Audrey Wood |
-| 692 | 364 | Cranky Basepiece |
-| 693 | 364 | Mary Whitaker |
-| 694 | 364 | Eric Wayne Maschman |
+| 676 | 374 | Eric Wayne Maschman |
+| 677 | 373 | Nano. |
+| 678 | 372 | Kendra Sullins |
+| 679 | 372 | ZBee |
+| 680 | 372 | Raine |
+| 681 | 372 | Flashy Basegrid |
+| 682 | 372 | Viani09 |
+| 683 | 370 | Stetson Tetris |
+| 684 | 370 | Mandy Rankin |
+| 685 | 370 | Bouncy Snapmatch |
+| 686 | 370 | marsam |
+| 687 | 369 | Francesca Wagenhoffer |
+| 688 | 367 | Twisty Blockmatch |
+| 689 | 367 | Frisky Twist |
+| 690 | 366 | Nick Waterwalker |
+| 691 | 366 | Flex |
+| 692 | 364 | Audrey Wood |
+| 693 | 364 | Cranky Basepiece |
+| 694 | 364 | Mary Whitaker |
 | 695 | 363 | Hyper Striker |
 | 696 | 362 | Catalina Castro |
 | 697 | 361 | Bianca Woodruff |
@@ -1459,47 +1459,47 @@
 | 1451 | 147 | Jason M Barnes |
 | 1452 | 146 | Bonez |
 | 1453 | 146 | Glitzy Stack |
-| 1454 | 145 | Spicy Enchilada |
-| 1455 | 145 | Rey Huber |
-| 1456 | 145 | Tristin Fleissner |
-| 1457 | 145 | Sandra Kopas Stetka |
+| 1454 | 145 | Rey Huber |
+| 1455 | 145 | Tristin Fleissner |
+| 1456 | 145 | Sandra Kopas Stetka |
+| 1457 | 145 | Spicy Enchilada |
 | 1458 | 144 | Miranda Krentz |
 | 1459 | 144 | Kassie D Harmon |
 | 1460 | 144 | Mona Smith |
-| 1461 | 143 | October Fitch |
-| 1462 | 143 | Sam Schwieso |
+| 1461 | 143 | Sam Schwieso |
+| 1462 | 143 | October Fitch |
 | 1463 | 143 | Loopy Zone |
 | 1464 | 142 | Lauren Maxwell |
-| 1465 | 142 | Manda |
-| 1466 | 142 | Brian Little |
+| 1465 | 142 | Jacob Corrales |
+| 1466 | 142 | Manda |
 | 1467 | 142 | Katie Kounelis |
 | 1468 | 142 | Kodi Gay |
-| 1469 | 142 | Jacob Corrales |
+| 1469 | 142 | Brian Little |
 | 1470 | 141 | Jill Bobst Marple |
 | 1471 | 141 | Joe Duffer |
 | 1472 | 141 | Tashamonique Puckey |
 | 1473 | 141 | Daring Pivotfall |
-| 1474 | 140 | Cranky Linkmatch |
-| 1475 | 140 | Glitzy Fallgrid |
-| 1476 | 140 | Cool cee |
+| 1474 | 140 | Peppy Clusterer |
+| 1475 | 140 | Michael Quinones |
+| 1476 | 140 | Snazzy Linebuilder |
 | 1477 | 140 | Anna Chance |
-| 1478 | 140 | Rob Phillips |
-| 1479 | 140 | Michael Quinones |
-| 1480 | 140 | Tracy Coe |
-| 1481 | 140 | Snazzy Linebuilder |
-| 1482 | 140 | Elizabeth Henry |
-| 1483 | 140 | Jennifer Risdell Wilson |
-| 1484 | 139 | Linda Jeanne Knop |
-| 1485 | 139 | smoke |
-| 1486 | 139 | Valerie Roberts |
-| 1487 | 139 | Greenbean |
-| 1488 | 139 | Shalice Jacobs |
-| 1489 | 139 | Jason Burris |
-| 1490 | 139 | Goofy Bridger |
-| 1491 | 138 | Cary M. Fong |
-| 1492 | 138 | Shannon Miller- Cooley |
-| 1493 | 138 | Krystallin Stacy |
-| 1494 | 138 | Peppy Clusterer |
+| 1478 | 140 | Tracy Coe |
+| 1479 | 140 | Jennifer Risdell Wilson |
+| 1480 | 140 | Rob Phillips |
+| 1481 | 140 | Glitzy Fallgrid |
+| 1482 | 140 | Cranky Linkmatch |
+| 1483 | 140 | Cool cee |
+| 1484 | 140 | Elizabeth Henry |
+| 1485 | 139 | Shalice Jacobs |
+| 1486 | 139 | Jason Burris |
+| 1487 | 139 | Linda Jeanne Knop |
+| 1488 | 139 | Greenbean |
+| 1489 | 139 | smoke |
+| 1490 | 139 | Valerie Roberts |
+| 1491 | 139 | Goofy Bridger |
+| 1492 | 138 | Cary M. Fong |
+| 1493 | 138 | Shannon Miller- Cooley |
+| 1494 | 138 | Krystallin Stacy |
 | 1495 | 138 | Frothy Line |
 | 1496 | 138 | Sam Brewster |
 | 1497 | 138 | Jessica Nightshade Hansuld |
@@ -1951,11 +1951,11 @@
 | 1943 | 73 | Quirky Slammer |
 | 1944 | 72 | Littol1 |
 | 1945 | 72 | Nicole Dyer |
-| 1946 | 72 | Mario Avila |
-| 1947 | 72 | Jennifer Robles |
+| 1946 | 72 | Anna Marie Knight |
+| 1947 | 72 | Mario Avila |
 | 1948 | 72 | Alexis Love Bowen |
-| 1949 | 72 | Erica |
-| 1950 | 72 | Anna Marie Knight |
+| 1949 | 72 | Jennifer Robles |
+| 1950 | 72 | Erica |
 | 1951 | 72 | Stacy Lynn |
 | 1952 | 71 | Chey |
 | 1953 | 71 | Hrodwulf Redfern |
@@ -1963,43 +1963,43 @@
 | 1955 | 71 | lols |
 | 1956 | 71 | Heather |
 | 1957 | 71 | Michael Aldrich |
-| 1958 | 71 | Hunter McGee |
-| 1959 | 71 | Angela Anderson |
-| 1960 | 71 | Nicole Immoos |
-| 1961 | 71 | Jane Shevlin |
-| 1962 | 71 | Missy Stevens |
-| 1963 | 71 | Brittany Nichole Ellenburg |
-| 1964 | 71 | JesseJo |
-| 1965 | 70 | Stephanie |
-| 1966 | 70 | Brittany Kay |
-| 1967 | 70 | Abby Dexter |
-| 1968 | 70 | Deborah Fowler |
-| 1969 | 70 | Silly Twister |
-| 1970 | 70 | Vicki Ohmer |
-| 1971 | 70 | Jami Arne |
-| 1972 | 70 | Michelle |
-| 1973 | 70 | Wayne Mcmillan |
+| 1958 | 71 | Michael Blackmon |
+| 1959 | 71 | Hunter McGee |
+| 1960 | 71 | Angela Anderson |
+| 1961 | 71 | Nicole Immoos |
+| 1962 | 71 | Jane Shevlin |
+| 1963 | 71 | Missy Stevens |
+| 1964 | 71 | Brittany Nichole Ellenburg |
+| 1965 | 71 | JesseJo |
+| 1966 | 70 | Stephanie |
+| 1967 | 70 | Brittany Kay |
+| 1968 | 70 | Abby Dexter |
+| 1969 | 70 | Deborah Fowler |
+| 1970 | 70 | Silly Twister |
+| 1971 | 70 | Vicki Ohmer |
+| 1972 | 70 | Anna |
+| 1973 | 70 | Michelle |
 | 1974 | 70 | Jay Theriault |
-| 1975 | 70 | Nanette Michelle Donahue |
-| 1976 | 70 | Ashley Bennett |
-| 1977 | 70 | wolfie |
-| 1978 | 70 | Samantha Rhone |
-| 1979 | 70 | Rachelle Parker |
-| 1980 | 70 | Michael Woodall |
-| 1981 | 70 | Angi Carter |
-| 1982 | 70 | Taderbug |
-| 1983 | 70 | Madison Murray |
-| 1984 | 70 | Anna |
-| 1985 | 70 | LK |
-| 1986 | 69 | Nonnie |
+| 1975 | 70 | Wayne Mcmillan |
+| 1976 | 70 | Nanette Michelle Donahue |
+| 1977 | 70 | Ashley Bennett |
+| 1978 | 70 | wolfie |
+| 1979 | 70 | Samantha Rhone |
+| 1980 | 70 | Rachelle Parker |
+| 1981 | 70 | Michael Woodall |
+| 1982 | 70 | Angi Carter |
+| 1983 | 70 | Taderbug |
+| 1984 | 70 | Madison Murray |
+| 1985 | 70 | Jami Arne |
+| 1986 | 70 | LK |
 | 1987 | 69 | Michele Miessner |
-| 1988 | 69 | Heather Raypole |
-| 1989 | 69 | Patty White |
-| 1990 | 69 | Victoria Hogan McCreedy |
-| 1991 | 69 | Dreamy Linkblock |
-| 1992 | 69 | Chrissy Hess |
-| 1993 | 69 | Mandy Anderson |
-| 1994 | 69 | Michael Blackmon |
+| 1988 | 69 | Nonnie |
+| 1989 | 69 | Heather Raypole |
+| 1990 | 69 | Patty White |
+| 1991 | 69 | Victoria Hogan McCreedy |
+| 1992 | 69 | Dreamy Linkblock |
+| 1993 | 69 | Chrissy Hess |
+| 1994 | 69 | Mandy Anderson |
 | 1995 | 69 | Loretta Crow |
 | 1996 | 69 | Jolly Blockroll |
 | 1997 | 68 | Kim |
