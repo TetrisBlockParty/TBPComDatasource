@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 15:32:47 UTC
+# Standings for team1 as of 2026-06-11 15:33:22 UTC
 
 **Total Participants:** 2499
 
@@ -148,10 +148,10 @@
 | 140 | 1282 | Jon Gathers |
 | 141 | 1263 | Po Marley |
 | 142 | 1260 | IamJust Neyamijah Washington Sr. |
-| 143 | 1244 | Jaida King |
-| 144 | 1227 | KenpachisGirl |
-| 145 | 1225 | Taylor Evelyn |
-| 146 | 1225 | Cathy Young |
+| 143 | 1245 | Cathy Young |
+| 144 | 1244 | Jaida King |
+| 145 | 1227 | KenpachisGirl |
+| 146 | 1225 | Taylor Evelyn |
 | 147 | 1224 | Tiana Moore |
 | 148 | 1213 | ELM |
 | 149 | 1208 | Jazzy Dashpiece |
@@ -424,10 +424,10 @@
 | 416 | 454 | HarleyJane |
 | 417 | 454 | MamushiOh |
 | 418 | 454 | Tonya McElroy |
-| 419 | 453 | Curtis T Cirno |
-| 420 | 453 | Faith Armone |
-| 421 | 452 | Kenny MrOnethousand Peck |
-| 422 | 450 | Amy Lynn Leifheit |
+| 419 | 454 | Amy Lynn Leifheit |
+| 420 | 453 | Curtis T Cirno |
+| 421 | 453 | Faith Armone |
+| 422 | 452 | Kenny MrOnethousand Peck |
 | 423 | 449 | Brittnay Wright |
 | 424 | 448 | Maribel Vasquez |
 | 425 | 448 | Brand Nu |
@@ -911,36 +911,36 @@
 | 903 | 213 | Jennifer Rogers |
 | 904 | 212 | Cauiasia DeJ'ae |
 | 905 | 212 | Ace Hardware |
-| 906 | 211 | Terrie |
+| 906 | 211 | Poppy Smasher |
 | 907 | 211 | Melissa Hershberger |
 | 908 | 211 | Crtjstr |
-| 909 | 211 | Poppy Smasher |
-| 910 | 210 | Slinky Fallzone |
-| 911 | 210 | Keith Big-Sixx Mackell |
-| 912 | 210 | Cameo Tweed |
-| 913 | 210 | Kanary Karotz |
+| 909 | 211 | Terrie |
+| 910 | 210 | Kanary Karotz |
+| 911 | 210 | Cameo Tweed |
+| 912 | 210 | Slinky Fallzone |
+| 913 | 210 | Keith Big-Sixx Mackell |
 | 914 | 210 | Rob'N Blox |
 | 915 | 209 | Bouncy Glide |
 | 916 | 208 | Nerdy Wipefit |
-| 917 | 207 | Christopher L Crites |
-| 918 | 207 | Kayel Good |
-| 919 | 206 | Rochelle Nash-Evans |
-| 920 | 206 | Cheery Strikerbuilder |
-| 921 | 205 | Stephen Garland |
+| 917 | 207 | Kayel Good |
+| 918 | 207 | Hasty Pivoty |
+| 919 | 207 | Christopher L Crites |
+| 920 | 206 | Rochelle Nash-Evans |
+| 921 | 206 | Cheery Strikerbuilder |
 | 922 | 205 | Tramaine Crockrum |
 | 923 | 205 | Marcello Rush |
-| 924 | 205 | tg |
-| 925 | 205 | LAdYPOLy |
-| 926 | 205 | AleahKCH |
-| 927 | 205 | Alexis Alexander |
-| 928 | 205 | Mellie Mel |
-| 929 | 205 | Treneil Daffin |
-| 930 | 204 | Chill Linkroll |
-| 931 | 204 | Danny Talbot |
-| 932 | 204 | Hasty Pivoty |
+| 924 | 205 | LAdYPOLy |
+| 925 | 205 | tg |
+| 926 | 205 | Stephen Garland |
+| 927 | 205 | AleahKCH |
+| 928 | 205 | Alexis Alexander |
+| 929 | 205 | Mellie Mel |
+| 930 | 205 | Treneil Daffin |
+| 931 | 204 | Chill Linkroll |
+| 932 | 204 | Danny Talbot |
 | 933 | 203 | Yazz |
-| 934 | 203 | Erika |
-| 935 | 203 | Dizzy Gridmatch |
+| 934 | 203 | Dizzy Gridmatch |
+| 935 | 203 | Erika |
 | 936 | 202 | Alexandrla Smith |
 | 937 | 202 | Nutty Fallmatch |
 | 938 | 202 | Hyper Blocky |
