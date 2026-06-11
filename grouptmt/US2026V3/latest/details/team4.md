@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 16:04:45 UTC
+# Standings for team4 as of 2026-06-11 16:05:25 UTC
 
 **Total Participants:** 2544
 
@@ -982,8 +982,8 @@
 | 974 | 199 | Combo Snappy |
 | 975 | 199 | Lindsey DeRosa |
 | 976 | 199 | Nicole Dombrow |
-| 977 | 199 | Witty Fitblock |
-| 978 | 199 | Kristen Lester |
+| 977 | 199 | Kristen Lester |
+| 978 | 199 | Witty Fitblock |
 | 979 | 199 | Kristan Hoffman |
 | 980 | 198 | JJADHD |
 | 981 | 198 | Jeremy Fisher |
@@ -991,76 +991,76 @@
 | 983 | 197 | Toria |
 | 984 | 196 | Tipsy Matchline |
 | 985 | 195 | Emily Lowe |
-| 986 | 194 | Jennifer Brucz |
-| 987 | 194 | Shirley Williams |
-| 988 | 193 | ButterfliesRFree |
+| 986 | 194 | Shirley Williams |
+| 987 | 194 | Jennifer Brucz |
+| 988 | 193 | Elizabeth Putansu |
 | 989 | 193 | Amy Tennison |
-| 990 | 193 | Elizabeth Putansu |
+| 990 | 193 | ButterfliesRFree |
 | 991 | 192 | Cranky Twisterfit |
 | 992 | 192 | Chris |
 | 993 | 192 | Scot Matthew Bergdorf |
 | 994 | 191 | Bouncy Clusterline |
-| 995 | 190 | TeQuita Jennings |
+| 995 | 190 | Darryl Shufford |
 | 996 | 190 | Kris McMahon |
-| 997 | 190 | Darryl Shufford |
+| 997 | 190 | TeQuita Jennings |
 | 998 | 190 | Name |
 | 999 | 190 | Vergie Michael |
 | 1000 | 190 | Natalie Ohrtman Strand |
 | 1001 | 189 | Sonya |
 | 1002 | 189 | Stuart Crosby |
 | 1003 | 188 | Littleshark |
-| 1004 | 188 | Andy Petersen |
-| 1005 | 188 | LaRue Tee |
-| 1006 | 188 | Chirpy Dashfit |
+| 1004 | 188 | Chirpy Dashfit |
+| 1005 | 188 | Andy Petersen |
+| 1006 | 188 | LaRue Tee |
 | 1007 | 187 | Krystal Simpson |
 | 1008 | 186 | Quirky Shatterblock |
 | 1009 | 186 | Phredda Helene Gavornik |
 | 1010 | 186 | Diqthot |
 | 1011 | 185 | Dannie Ems |
 | 1012 | 185 | Hooti Smile |
-| 1013 | 184 | Amanda Lynn Robinson |
-| 1014 | 184 | San |
+| 1013 | 184 | San |
+| 1014 | 184 | Amanda Lynn Robinson |
 | 1015 | 184 | RustyMaster40 |
-| 1016 | 183 | Ash |
+| 1016 | 183 | Epic Curver |
 | 1017 | 183 | Mar Mar |
-| 1018 | 183 | Epic Curver |
-| 1019 | 183 | Giggy Snapgrid |
+| 1018 | 183 | Giggy Snapgrid |
+| 1019 | 183 | Ash |
 | 1020 | 183 | Cflixer |
 | 1021 | 182 | Vicente Bolaños Jr. |
-| 1022 | 182 | TheazO |
-| 1023 | 182 | Happy Filler |
-| 1024 | 182 | Lori A Hamann |
-| 1025 | 182 | Patsy |
+| 1022 | 182 | Happy Filler |
+| 1023 | 182 | Patsy |
+| 1024 | 182 | TheazO |
+| 1025 | 182 | Lori A Hamann |
 | 1026 | 181 | SueSally |
 | 1027 | 181 | Elise Ann |
 | 1028 | 181 | Scott If |
-| 1029 | 180 | Melissa Wilson |
-| 1030 | 180 | Silly Rollbuilder |
+| 1029 | 180 | Wyatt Karren |
+| 1030 | 180 | Kristie McFarland |
 | 1031 | 180 | Charissa W Walton |
-| 1032 | 180 | Kristie McFarland |
-| 1033 | 180 | Wyatt Karren |
-| 1034 | 180 | BethB |
-| 1035 | 180 | Hotstuff |
-| 1036 | 180 | George Marshburn |
-| 1037 | 180 | Krista Diaz |
-| 1038 | 179 | Goddatbat |
-| 1039 | 179 | Dru Lui |
-| 1040 | 178 | Rin |
-| 1041 | 178 | Cozy Builderfit |
-| 1042 | 178 | Renzo Tonini |
-| 1043 | 178 | Krazylegzzzz |
+| 1032 | 180 | Melissa Wilson |
+| 1033 | 180 | Silly Rollbuilder |
+| 1034 | 180 | Frisky Balance |
+| 1035 | 180 | BethB |
+| 1036 | 180 | Hotstuff |
+| 1037 | 180 | George Marshburn |
+| 1038 | 180 | Krista Diaz |
+| 1039 | 179 | Goddatbat |
+| 1040 | 179 | Dru Lui |
+| 1041 | 178 | Rin |
+| 1042 | 178 | Cozy Builderfit |
+| 1043 | 178 | Renzo Tonini |
 | 1044 | 178 | Miranda Brown |
-| 1045 | 178 | Jacqueline Arce |
-| 1046 | 178 | Peterson Cottontail |
-| 1047 | 177 | Lionel Hampton |
-| 1048 | 177 | Gualberto Ramirez |
-| 1049 | 176 | Keisha Petway |
-| 1050 | 176 | Rocky |
-| 1051 | 176 | Rio Rumble |
-| 1052 | 176 | Keith Kosmicki |
-| 1053 | 175 | Leslie Ramos |
-| 1054 | 175 | JustLessie |
-| 1055 | 175 | Frisky Balance |
+| 1045 | 178 | Krazylegzzzz |
+| 1046 | 178 | Jacqueline Arce |
+| 1047 | 178 | Peterson Cottontail |
+| 1048 | 177 | Lionel Hampton |
+| 1049 | 177 | Gualberto Ramirez |
+| 1050 | 176 | Keisha Petway |
+| 1051 | 176 | Rocky |
+| 1052 | 176 | Rio Rumble |
+| 1053 | 176 | Keith Kosmicki |
+| 1054 | 175 | Leslie Ramos |
+| 1055 | 175 | JustLessie |
 | 1056 | 174 | Michelle Michelle |
 | 1057 | 174 | Bridget Reilly |
 | 1058 | 174 | Kay |

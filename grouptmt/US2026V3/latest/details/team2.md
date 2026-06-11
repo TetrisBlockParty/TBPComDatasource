@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 16:04:45 UTC
+# Standings for team2 as of 2026-06-11 16:05:25 UTC
 
 **Total Participants:** 2979
 
@@ -145,8 +145,8 @@
 | 137 | 1669 | JB6 |
 | 138 | 1628 | Ruby Sandberg |
 | 139 | 1627 | Zachary Vymislicky |
-| 140 | 1622 | Robin G |
-| 141 | 1614 | Hoppy Rotate |
+| 140 | 1624 | Hoppy Rotate |
+| 141 | 1622 | Robin G |
 | 142 | 1608 | Anissa Moore |
 | 143 | 1603 | haune |
 | 144 | 1582 | Wmk Rathbun |
@@ -166,8 +166,8 @@
 | 158 | 1370 | Michelle Ferrara |
 | 159 | 1354 | Jaime P Lamb |
 | 160 | 1351 | Mirr Lulu |
-| 161 | 1350 | Denise Potter |
-| 162 | 1350 | Sigmamom |
+| 161 | 1350 | Sigmamom |
+| 162 | 1350 | Denise Potter |
 | 163 | 1337 | Tami Kay Williams Watson |
 | 164 | 1333 | Brooke Allred |
 | 165 | 1323 | joey |
@@ -184,8 +184,8 @@
 | 176 | 1251 | Ricardo Ewart |
 | 177 | 1246 | Monique Frantz |
 | 178 | 1238 | Jackie Tupper |
-| 179 | 1234 | Cristi Doris |
-| 180 | 1234 | Spicy Risegrid |
+| 179 | 1234 | Spicy Risegrid |
+| 180 | 1234 | Cristi Doris |
 | 181 | 1230 | Sedy |
 | 182 | 1224 | BrendaLee NolanBos |
 | 183 | 1217 | Leigh Ann |
@@ -280,8 +280,8 @@
 | 272 | 842 | Kevin Mccoy |
 | 273 | 837 | Janice |
 | 274 | 835 | Sandra Ruiz |
-| 275 | 827 | Nikki Carter |
-| 276 | 827 | SilentBuffalo |
+| 275 | 827 | SilentBuffalo |
+| 276 | 827 | Nikki Carter |
 | 277 | 825 | Kay |
 | 278 | 825 | Marilyn Strickland |
 | 279 | 824 | Mom |
@@ -294,10 +294,10 @@
 | 286 | 805 | Nicole Hogue |
 | 287 | 798 | Nutty Curver |
 | 288 | 794 | Amy Taylor Pomerenk |
-| 289 | 792 | Aldotfus Williams |
+| 289 | 792 | Chris Cooper |
 | 290 | 792 | Jenny |
-| 291 | 792 | Chris Cooper |
-| 292 | 792 | Donna Esbensen-Alpini |
+| 291 | 792 | Donna Esbensen-Alpini |
+| 292 | 792 | Aldotfus Williams |
 | 293 | 784 | Bubbly Strikerpiece |
 | 294 | 783 | Layla Petroff |
 | 295 | 782 | Swanky Fitline |
@@ -322,8 +322,8 @@
 | 314 | 734 | Kellie Sharp Godfrey |
 | 315 | 732 | Cool Balancer |
 | 316 | 731 | Kathleen Dumbazz |
-| 317 | 729 | Angela Hogan |
-| 318 | 729 | Kaylene Rigas |
+| 317 | 729 | Kaylene Rigas |
+| 318 | 729 | Angela Hogan |
 | 319 | 727 | Amy Gale |
 | 320 | 720 | Michelle Powers Chattaway |
 | 321 | 714 | Jennifer Smith |
@@ -453,8 +453,8 @@
 | 445 | 524 | Leticia Tillman |
 | 446 | 522 | Victoria Pale |
 | 447 | 522 | Heather Burgett |
-| 448 | 519 | Monee Stronger |
-| 449 | 518 | Cherica Taylor |
+| 448 | 520 | Cherica Taylor |
+| 449 | 519 | Monee Stronger |
 | 450 | 517 | Wendy Spoor Hof |
 | 451 | 516 | StacyBabee |
 | 452 | 515 | Dallas Runyan |
@@ -1231,8 +1231,8 @@
 | 1223 | 184 | Tonya Willprecht |
 | 1224 | 184 | Seamus |
 | 1225 | 184 | Kelly Christine Trimmer |
-| 1226 | 183 | Spunky Cascadeclear |
-| 1227 | 183 | Louis Brudzinski |
+| 1226 | 183 | Louis Brudzinski |
+| 1227 | 183 | Spunky Cascadeclear |
 | 1228 | 183 | Maithan Conour |
 | 1229 | 183 | Alena Ross |
 | 1230 | 183 | Kennadee Albertson |
@@ -1250,9 +1250,9 @@
 | 1242 | 181 | Meve |
 | 1243 | 181 | CowboyChalie |
 | 1244 | 181 | Shiny Spinfit |
-| 1245 | 180 | Dana Wilson |
+| 1245 | 180 | Marcia Davis |
 | 1246 | 180 | Dawn Kroptavich |
-| 1247 | 180 | Marcia Davis |
+| 1247 | 180 | Dana Wilson |
 | 1248 | 180 | Kristy Moore |
 | 1249 | 180 | Loriane Shumate Griggs |
 | 1250 | 180 | Amy Renaud |
@@ -1274,15 +1274,15 @@
 | 1266 | 177 | STARFIRE |
 | 1267 | 176 | Tucker Catherman |
 | 1268 | 176 | bozzycat |
-| 1269 | 175 | Beachmama |
-| 1270 | 175 | Michelle Edgin Tranbarger |
+| 1269 | 175 | Michelle Edgin Tranbarger |
+| 1270 | 175 | Beachmama |
 | 1271 | 175 | Matt Solomon |
 | 1272 | 175 | Kiersty Redder |
 | 1273 | 175 | Ducky West |
 | 1274 | 174 | sam |
 | 1275 | 174 | Bruni |
-| 1276 | 174 | Giggly Spinblock |
-| 1277 | 174 | Pamela Gambrell |
+| 1276 | 174 | Pamela Gambrell |
+| 1277 | 174 | Giggly Spinblock |
 | 1278 | 173 | Belinda Gullion Austin |
 | 1279 | 173 | Isiwin |
 | 1280 | 173 | Tami Weiss |
@@ -1315,9 +1315,9 @@
 | 1307 | 168 | Thomas Chris |
 | 1308 | 168 | Peyton Groce |
 | 1309 | 168 | Rachel Huber |
-| 1310 | 167 | Aeryal Snow |
+| 1310 | 167 | Cara Rivera |
 | 1311 | 167 | Brandy Westfall-panchari |
-| 1312 | 167 | Cara Rivera |
+| 1312 | 167 | Aeryal Snow |
 | 1313 | 167 | Alisha Kralicek Trainham |
 | 1314 | 167 | Robert W Schwartz |
 | 1315 | 166 | Krystal Edwards Johnson |
@@ -1335,8 +1335,8 @@
 | 1327 | 165 | Chris Delauro |
 | 1328 | 165 | Bubbly Liner |
 | 1329 | 165 | Cassafrass |
-| 1330 | 165 | Loony Ziggy |
-| 1331 | 165 | Shaylee Haltiner |
+| 1330 | 165 | Shaylee Haltiner |
+| 1331 | 165 | Loony Ziggy |
 | 1332 | 164 | Silly Tiltbuilder |
 | 1333 | 164 | Missy Tubb Overly |
 | 1334 | 164 | Goob277 |
@@ -1369,12 +1369,12 @@
 | 1361 | 160 | Gloria Appleton |
 | 1362 | 160 | mee |
 | 1363 | 160 | Nerdy Spinfit |
-| 1364 | 160 | Elizabeth Cornelius |
-| 1365 | 160 | Dan Ramsey |
-| 1366 | 160 | Charith Lorelle Watson |
-| 1367 | 160 | Billie Jensen |
-| 1368 | 160 | Amber Simonton |
-| 1369 | 160 | Michelle Fry-Cash |
+| 1364 | 160 | Dan Ramsey |
+| 1365 | 160 | Michelle Fry-Cash |
+| 1366 | 160 | Elizabeth Cornelius |
+| 1367 | 160 | Charith Lorelle Watson |
+| 1368 | 160 | Billie Jensen |
+| 1369 | 160 | Amber Simonton |
 | 1370 | 159 | Tabitha Porter |
 | 1371 | 159 | Jennifer Lauzon |
 | 1372 | 159 | Misty Noe |
@@ -1428,52 +1428,52 @@
 | 1420 | 148 | Zippy Balancer |
 | 1421 | 148 | Brandy McGuffey |
 | 1422 | 148 | Debra Patten |
-| 1423 | 147 | Jason M Barnes |
-| 1424 | 147 | Melissa Kinsley |
-| 1425 | 147 | Shay Lynn King |
-| 1426 | 146 | Bonez |
-| 1427 | 146 | Glitzy Stack |
-| 1428 | 145 | Sandra Kopas Stetka |
-| 1429 | 145 | Gino Positano |
-| 1430 | 145 | Rey Huber |
-| 1431 | 145 | Ashley Shazes |
-| 1432 | 145 | Spicy Enchilada |
-| 1433 | 144 | Miranda Krentz |
-| 1434 | 144 | Mona Smith |
-| 1435 | 143 | October Fitch |
-| 1436 | 143 | Daniel Cline |
-| 1437 | 143 | Jollygirl |
-| 1438 | 143 | Sam Schwieso |
-| 1439 | 143 | Loopy Zone |
-| 1440 | 142 | Manda |
-| 1441 | 142 | Kodi Gay |
-| 1442 | 142 | Brian Little |
-| 1443 | 142 | Jacob Corrales |
-| 1444 | 142 | Karen Pearson-Wilson |
-| 1445 | 141 | Jill Bobst Marple |
-| 1446 | 141 | Tashamonique Puckey |
-| 1447 | 141 | Daring Pivotfall |
-| 1448 | 140 | Michael Quinones |
-| 1449 | 140 | Snazzy Linebuilder |
-| 1450 | 140 | Cool cee |
-| 1451 | 140 | Elizabeth Henry |
-| 1452 | 140 | Tracy Coe |
-| 1453 | 140 | Glitzy Fallgrid |
-| 1454 | 140 | Cranky Linkmatch |
-| 1455 | 140 | Kim Hoopes Townsend |
-| 1456 | 140 | Squirrel |
-| 1457 | 140 | Deena-Neal Peryer |
-| 1458 | 140 | Anna Chance |
-| 1459 | 139 | Joslyn Erickson |
-| 1460 | 139 | Valerie Roberts |
-| 1461 | 139 | Shalice Jacobs |
-| 1462 | 139 | Jason Burris |
-| 1463 | 139 | Linda Jeanne Knop |
-| 1464 | 139 | Greenbean |
-| 1465 | 139 | smoke |
-| 1466 | 139 | Goofy Bridger |
-| 1467 | 138 | Cary M. Fong |
-| 1468 | 138 | Crafty Slice |
+| 1423 | 148 | Crafty Slice |
+| 1424 | 147 | Shay Lynn King |
+| 1425 | 147 | Jason M Barnes |
+| 1426 | 147 | Melissa Kinsley |
+| 1427 | 146 | Bonez |
+| 1428 | 146 | Glitzy Stack |
+| 1429 | 145 | Sandra Kopas Stetka |
+| 1430 | 145 | Gino Positano |
+| 1431 | 145 | Rey Huber |
+| 1432 | 145 | Ashley Shazes |
+| 1433 | 145 | Spicy Enchilada |
+| 1434 | 144 | Miranda Krentz |
+| 1435 | 144 | Mona Smith |
+| 1436 | 143 | October Fitch |
+| 1437 | 143 | Daniel Cline |
+| 1438 | 143 | Jollygirl |
+| 1439 | 143 | Sam Schwieso |
+| 1440 | 143 | Loopy Zone |
+| 1441 | 142 | Manda |
+| 1442 | 142 | Kodi Gay |
+| 1443 | 142 | Brian Little |
+| 1444 | 142 | Jacob Corrales |
+| 1445 | 142 | Karen Pearson-Wilson |
+| 1446 | 141 | Jill Bobst Marple |
+| 1447 | 141 | Tashamonique Puckey |
+| 1448 | 141 | Daring Pivotfall |
+| 1449 | 140 | Michael Quinones |
+| 1450 | 140 | Snazzy Linebuilder |
+| 1451 | 140 | Cool cee |
+| 1452 | 140 | Elizabeth Henry |
+| 1453 | 140 | Tracy Coe |
+| 1454 | 140 | Glitzy Fallgrid |
+| 1455 | 140 | Cranky Linkmatch |
+| 1456 | 140 | Kim Hoopes Townsend |
+| 1457 | 140 | Squirrel |
+| 1458 | 140 | Deena-Neal Peryer |
+| 1459 | 140 | Anna Chance |
+| 1460 | 139 | Joslyn Erickson |
+| 1461 | 139 | Valerie Roberts |
+| 1462 | 139 | Shalice Jacobs |
+| 1463 | 139 | Jason Burris |
+| 1464 | 139 | Linda Jeanne Knop |
+| 1465 | 139 | Greenbean |
+| 1466 | 139 | smoke |
+| 1467 | 139 | Goofy Bridger |
+| 1468 | 138 | Cary M. Fong |
 | 1469 | 138 | Sam Brewster |
 | 1470 | 138 | Krystallin Stacy |
 | 1471 | 138 | Shannon Miller- Cooley |
