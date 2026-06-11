@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 11:48:41 UTC
+# Standings for team4 as of 2026-06-11 11:49:25 UTC
 
 **Total Participants:** 2521
 
@@ -330,10 +330,10 @@
 | 322 | 560 | Betsy Froemming |
 | 323 | 559 | Groovy Towerbuilder |
 | 324 | 558 | Aramat |
-| 325 | 557 | Chummy Jumper |
-| 326 | 557 | Tiffany Bunker-Hill |
-| 327 | 556 | Cherrypir05 |
-| 328 | 550 | Tawna Curry |
+| 325 | 558 | Tawna Curry |
+| 326 | 557 | Chummy Jumper |
+| 327 | 557 | Tiffany Bunker-Hill |
+| 328 | 556 | Cherrypir05 |
 | 329 | 549 | Slinky Column |
 | 330 | 547 | Swanky Brickzone |
 | 331 | 546 | Earl Edwards |
@@ -605,45 +605,45 @@
 | 597 | 319 | Mc3003 |
 | 598 | 319 | Rita Ann |
 | 599 | 318 | Valerie Marrero |
-| 600 | 318 | Shaunna Caldwell |
-| 601 | 318 | Chelsea Guajardo |
-| 602 | 317 | Elli Wright |
-| 603 | 317 | alxhue04 |
-| 604 | 317 | LaTanya GeminiondaRise Johnson |
-| 605 | 317 | crobb77 |
-| 606 | 317 | Stef |
-| 607 | 316 | Dawn Phelps |
-| 608 | 316 | Ashlee Lemus |
-| 609 | 315 | Littlebrat |
-| 610 | 315 | Thermeka Lindsey |
-| 611 | 315 | Travis McKinnon |
-| 612 | 315 | Jennifer Evans Elliott |
+| 600 | 318 | Jennifer Evans Elliott |
+| 601 | 318 | Shaunna Caldwell |
+| 602 | 318 | Chelsea Guajardo |
+| 603 | 317 | Elli Wright |
+| 604 | 317 | alxhue04 |
+| 605 | 317 | LaTanya GeminiondaRise Johnson |
+| 606 | 317 | crobb77 |
+| 607 | 317 | Stef |
+| 608 | 316 | Dawn Phelps |
+| 609 | 316 | Ashlee Lemus |
+| 610 | 315 | Travis McKinnon |
+| 611 | 315 | Thermeka Lindsey |
+| 612 | 315 | Littlebrat |
 | 613 | 315 | tj |
 | 614 | 315 | Perry Ransom |
 | 615 | 314 | Ginny |
 | 616 | 313 | Scrumptious |
 | 617 | 313 | Mrsjcraw18 |
 | 618 | 313 | Bear Bair |
-| 619 | 312 | shonaberry |
-| 620 | 312 | Shaneé Staunton |
+| 619 | 312 | Shaneé Staunton |
+| 620 | 312 | shonaberry |
 | 621 | 312 | Jj Johnson |
 | 622 | 311 | Nicole Colby McCloskey |
 | 623 | 311 | LeRoy jenkins |
 | 624 | 310 | Angela Adamo-Tash |
 | 625 | 310 | Corie A. Brinson |
-| 626 | 308 | Sarah |
-| 627 | 308 | JIGsaw ~(•¿°)~ |
+| 626 | 308 | JIGsaw ~(•¿°)~ |
+| 627 | 308 | Sarah |
 | 628 | 306 | Capt'n Crunch |
 | 629 | 306 | Jordan Tamayia Williams |
 | 630 | 306 | Susan Stofberg Beltran |
-| 631 | 304 | Loopy Clusterline |
-| 632 | 304 | Kandylands |
+| 631 | 304 | Kandylands |
+| 632 | 304 | Loopy Clusterline |
 | 633 | 303 | Kennita Cox |
 | 634 | 303 | Diana Fernandez |
-| 635 | 302 | Susan Mary Kelley |
-| 636 | 302 | Cari Underwood |
-| 637 | 302 | Kierra Evans |
-| 638 | 302 | Leasa Marie |
+| 635 | 302 | Cari Underwood |
+| 636 | 302 | Kierra Evans |
+| 637 | 302 | Leasa Marie |
+| 638 | 302 | Susan Mary Kelley |
 | 639 | 301 | King |
 | 640 | 300 | Joshua Garner |
 | 641 | 300 | Ada Rodriguez Spradley |
@@ -657,14 +657,14 @@
 | 649 | 297 | MrLoner Stoner |
 | 650 | 297 | Swanky Snapgrid |
 | 651 | 295 | Redhead girl |
-| 652 | 295 | Heather Garrity |
-| 653 | 295 | Carmen Angelica Sosa |
+| 652 | 295 | Carmen Angelica Sosa |
+| 653 | 295 | Heather Garrity |
 | 654 | 294 | Edward White |
 | 655 | 294 | Mrs |
 | 656 | 294 | Erika Rubio |
 | 657 | 292 | Rachel Lemos |
-| 658 | 292 | All knowing |
-| 659 | 292 | Nessa Smith |
+| 658 | 292 | Nessa Smith |
+| 659 | 292 | All knowing |
 | 660 | 289 | Squiggy |
 | 661 | 289 | Will E Ayala |
 | 662 | 288 | Happy Shatterfit |
@@ -672,8 +672,8 @@
 | 664 | 288 | Andretta Sellers Robinson |
 | 665 | 287 | sierrabeth |
 | 666 | 287 | Jeremy Barry |
-| 667 | 286 | DizzB400 |
-| 668 | 286 | Gean DeJesus |
+| 667 | 286 | Gean DeJesus |
+| 668 | 286 | DizzB400 |
 | 669 | 285 | JoJo Hutson |
 | 670 | 285 | Brainbabe |
 | 671 | 283 | Chris McBlockster |
@@ -683,27 +683,27 @@
 | 675 | 281 | Margie Thomas |
 | 676 | 281 | Raising Stars |
 | 677 | 281 | Anthony Edwards |
-| 678 | 280 | Jimmy Clark |
+| 678 | 280 | Sharon Tyler |
 | 679 | 280 | Giddy Basepiece |
-| 680 | 280 | Sharon Tyler |
+| 680 | 280 | Jimmy Clark |
 | 681 | 280 | Lori Lynn |
 | 682 | 279 | Csigirlnc |
 | 683 | 279 | LandO |
 | 684 | 278 | Deb 07 |
 | 685 | 277 | Anna Ryan |
 | 686 | 277 | Kuar T Ejen |
-| 687 | 276 | Allysha McFarland |
-| 688 | 276 | Sarah |
-| 689 | 276 | Stacy G |
+| 687 | 276 | Sarah |
+| 688 | 276 | Stacy G |
+| 689 | 276 | Allysha McFarland |
 | 690 | 276 | Joe Andrews |
-| 691 | 275 | Kelli Hurt |
+| 691 | 275 | 1694AF |
 | 692 | 275 | Marcus Fontenot |
-| 693 | 275 | 1694AF |
-| 694 | 275 | Taisha Beasley |
-| 695 | 274 | Justin Ballard |
+| 693 | 275 | Taisha Beasley |
+| 694 | 275 | Kelli Hurt |
+| 695 | 274 | Sarah Montagne Forsberg |
 | 696 | 274 | Zesty Lift |
-| 697 | 274 | Sarah Montagne Forsberg |
-| 698 | 274 | Kiki Moore |
+| 697 | 274 | Kiki Moore |
+| 698 | 274 | Justin Ballard |
 | 699 | 274 | Dominique Summers Tah-tah |
 | 700 | 273 | Blessedmom865 |
 | 701 | 272 | Chelsea Costa |
@@ -749,27 +749,27 @@
 | 741 | 255 | Jessica Caminos |
 | 742 | 255 | kaykay |
 | 743 | 255 | Khiem Hernandez |
-| 744 | 255 | Miguel Teixeira |
-| 745 | 254 | Mimi Dominguez |
-| 746 | 254 | Dena Lynn Rogers |
-| 747 | 253 | Electric Storm |
-| 748 | 253 | Natalie Dillard |
-| 749 | 253 | Vonni McLean |
-| 750 | 253 | Allysonjo Varela |
-| 751 | 252 | Amanda Snow |
-| 752 | 252 | Ryan Paul Clark-Ramsey |
-| 753 | 252 | Kimberly Devon |
-| 754 | 251 | Tamara Gay |
-| 755 | 251 | LaToya LeBlanc |
-| 756 | 250 | Silly Fallzone |
-| 757 | 250 | Jill Chapman-Yancer |
-| 758 | 250 | KingCas |
-| 759 | 250 | Billy Baker |
-| 760 | 249 | Brennan Shea Greene |
-| 761 | 249 | Sassy Frame |
-| 762 | 249 | Megan Lynn |
-| 763 | 249 | Stefanie Street |
-| 764 | 249 | Virgil Mayfield-Brown |
+| 744 | 255 | Allysonjo Varela |
+| 745 | 255 | Miguel Teixeira |
+| 746 | 254 | Mimi Dominguez |
+| 747 | 254 | Dena Lynn Rogers |
+| 748 | 253 | Electric Storm |
+| 749 | 253 | Natalie Dillard |
+| 750 | 253 | Vonni McLean |
+| 751 | 252 | Kimberly Devon |
+| 752 | 252 | Amanda Snow |
+| 753 | 252 | Ryan Paul Clark-Ramsey |
+| 754 | 251 | LaToya LeBlanc |
+| 755 | 251 | Tamara Gay |
+| 756 | 250 | Jill Chapman-Yancer |
+| 757 | 250 | KingCas |
+| 758 | 250 | Billy Baker |
+| 759 | 250 | Silly Fallzone |
+| 760 | 249 | Stefanie Street |
+| 761 | 249 | Virgil Mayfield-Brown |
+| 762 | 249 | Brennan Shea Greene |
+| 763 | 249 | Sassy Frame |
+| 764 | 249 | Megan Lynn |
 | 765 | 248 | Fkvj |
 | 766 | 248 | Ayobribri |
 | 767 | 247 | Elena Marí |
