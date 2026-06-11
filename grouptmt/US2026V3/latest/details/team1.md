@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 20:30:47 UTC
+# Standings for team1 as of 2026-06-11 20:31:24 UTC
 
 **Total Participants:** 2532
 
@@ -235,9 +235,9 @@
 | 227 | 835 | Erin Sabol |
 | 228 | 832 | Chantelle Lee |
 | 229 | 825 | Aihpos |
-| 230 | 816 | Tasha Jones |
-| 231 | 816 | Coco |
-| 232 | 815 | izzybella |
+| 230 | 820 | izzybella |
+| 231 | 816 | Tasha Jones |
+| 232 | 816 | Coco |
 | 233 | 812 | Mic Balew |
 | 234 | 801 | BULLSEYE |
 | 235 | 798 | Zappy Riser |
@@ -326,23 +326,23 @@
 | 318 | 589 | Slinky Brickmatch |
 | 319 | 588 | Sheila Burnham |
 | 320 | 586 | Denisa Amazon Clark |
-| 321 | 583 | DaGuy |
-| 322 | 583 | Shanaa Germany Crittenden |
-| 323 | 580 | Larina Cherie Johnson |
-| 324 | 580 | Qwlonda Shirrell |
-| 325 | 577 | Leebo Slice |
+| 321 | 583 | Shanaa Germany Crittenden |
+| 322 | 583 | DaGuy |
+| 323 | 580 | Qwlonda Shirrell |
+| 324 | 580 | Larina Cherie Johnson |
+| 325 | 579 | Chasem45 |
 | 326 | 577 | Desire Rice |
-| 327 | 577 | Zachary Colegrove |
-| 328 | 576 | Cachet A Ward |
-| 329 | 573 | Telisha Mims |
-| 330 | 571 | Block |
-| 331 | 569 | Chasem45 |
+| 327 | 577 | Leebo Slice |
+| 328 | 577 | Zachary Colegrove |
+| 329 | 576 | Cachet A Ward |
+| 330 | 573 | Telisha Mims |
+| 331 | 571 | Block |
 | 332 | 569 | Sean Parham |
 | 333 | 567 | Steve Reno |
 | 334 | 566 | Christopher Dreamsareality McEachin |
-| 335 | 563 | Bre Poston |
-| 336 | 563 | Jhonny Maii |
-| 337 | 563 | Simmone T. Kadiri |
+| 335 | 563 | Simmone T. Kadiri |
+| 336 | 563 | Bre Poston |
+| 337 | 563 | Jhonny Maii |
 | 338 | 562 | Penee Wiggins |
 | 339 | 554 | Heather Aurelia |
 | 340 | 548 | Amy Villalpando |
@@ -354,8 +354,8 @@
 | 346 | 536 | Char |
 | 347 | 535 | Tina Mitchell |
 | 348 | 534 | Dacia Hicks |
-| 349 | 533 | Bunnie Celtavini |
-| 350 | 533 | JaClanDiah |
+| 349 | 533 | JaClanDiah |
+| 350 | 533 | Bunnie Celtavini |
 | 351 | 531 | Tarnisha Neicy Jones |
 | 352 | 529 | Dai Bo |
 | 353 | 527 | MommaCia |
@@ -480,9 +480,9 @@
 | 472 | 429 | CauliMac |
 | 473 | 429 | Abby |
 | 474 | 428 | Jelyfish |
-| 475 | 425 | Jas |
-| 476 | 424 | Brittanie Wardlow |
-| 477 | 424 | Eric Spencer Whitaker |
+| 475 | 426 | Eric Spencer Whitaker |
+| 476 | 425 | Jas |
+| 477 | 424 | Brittanie Wardlow |
 | 478 | 423 | Holly Baker |
 | 479 | 423 | Kimberly Anderson |
 | 480 | 423 | Kristine Marie Palmer |
