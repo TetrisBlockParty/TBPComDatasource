@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:33:21 UTC
+# Standings for team1 as of 2026-06-11 12:34:25 UTC
 
 **Total Participants:** 2483
 
@@ -159,17 +159,17 @@
 | 151 | 1147 | Kaleisha Smith |
 | 152 | 1142 | Yasmin Nakea Wright |
 | 153 | 1136 | Cathy Young |
-| 154 | 1121 | Lisa Müller |
-| 155 | 1121 | Zippy Lifter |
+| 154 | 1121 | Zippy Lifter |
+| 155 | 1121 | Lisa Müller |
 | 156 | 1107 | Katherine Short |
 | 157 | 1103 | Keke Ferguson |
 | 158 | 1100 | Christana Imjustbutton Stone |
 | 159 | 1097 | De'Laonzeo Anthony |
 | 160 | 1092 | Raymond Keeler |
-| 161 | 1080 | Nerdy Blockpiece |
-| 162 | 1078 | Quirky Fallgrid |
-| 163 | 1073 | Rackemwillie34 |
-| 164 | 1072 | Gotcha |
+| 161 | 1082 | Gotcha |
+| 162 | 1080 | Nerdy Blockpiece |
+| 163 | 1078 | Quirky Fallgrid |
+| 164 | 1073 | Rackemwillie34 |
 | 165 | 1068 | Cece Fowler |
 | 166 | 1064 | Michelle Titus |
 | 167 | 1063 | Jaida De'Anne Cox |
@@ -351,8 +351,8 @@
 | 343 | 510 | ♈️ Ariesbaby |
 | 344 | 509 | JaClanDiah |
 | 345 | 508 | Heather Aurelia |
-| 346 | 507 | Teresa Yanira Cepeda |
-| 347 | 507 | wuvbuug |
+| 346 | 508 | wuvbuug |
+| 347 | 507 | Teresa Yanira Cepeda |
 | 348 | 505 | Cheri Robinson |
 | 349 | 505 | Jackie Sanasay |
 | 350 | 503 | Chummy Frame |
@@ -468,34 +468,34 @@
 | 460 | 405 | Bubbly Slammer |
 | 461 | 405 | Jennah |
 | 462 | 404 | Montego Allen |
-| 463 | 402 | Trusi Rusi |
-| 464 | 402 | Yadira Salgado |
-| 465 | 401 | Slinky Snapbuilder |
-| 466 | 401 | Cynda Cyn |
-| 467 | 400 | Bbyunicorn |
-| 468 | 400 | Sara Meri |
+| 463 | 402 | Yadira Salgado |
+| 464 | 402 | Trusi Rusi |
+| 465 | 401 | Cynda Cyn |
+| 466 | 401 | Slinky Snapbuilder |
+| 467 | 400 | Sara Meri |
+| 468 | 400 | Bbyunicorn |
 | 469 | 399 | Twisty Pivot |
 | 470 | 398 | Bubbly Piececlear |
 | 471 | 398 | kitten |
-| 472 | 397 | Ladybug |
-| 473 | 397 | Eric Spencer Whitaker |
-| 474 | 397 | FunTime |
-| 475 | 396 | Glitzy Patternline |
-| 476 | 396 | Tay |
-| 477 | 395 | Ysma Simmons |
-| 478 | 395 | Derrius SeriousLee Burks |
-| 479 | 395 | Rachel |
-| 480 | 394 | Aaron Hartmann |
-| 481 | 394 | Tonia Ramos |
-| 482 | 393 | Tesiree Cray |
-| 483 | 393 | Tonya Thomas |
-| 484 | 391 | MindlessMic |
-| 485 | 391 | Stacy Nicole |
-| 486 | 391 | Christina Rebecca |
-| 487 | 390 | Jean Regis |
-| 488 | 390 | Daddy |
-| 489 | 390 | Melissa D. M. Hornsby |
-| 490 | 390 | Centara Goette |
+| 472 | 397 | Eric Spencer Whitaker |
+| 473 | 397 | FunTime |
+| 474 | 397 | Ladybug |
+| 475 | 396 | Tay |
+| 476 | 396 | Glitzy Patternline |
+| 477 | 395 | Derrius SeriousLee Burks |
+| 478 | 395 | Centara Goette |
+| 479 | 395 | Ysma Simmons |
+| 480 | 395 | Rachel |
+| 481 | 394 | Aaron Hartmann |
+| 482 | 394 | Tonia Ramos |
+| 483 | 393 | Tesiree Cray |
+| 484 | 393 | Tonya Thomas |
+| 485 | 391 | MindlessMic |
+| 486 | 391 | Stacy Nicole |
+| 487 | 391 | Christina Rebecca |
+| 488 | 390 | Jean Regis |
+| 489 | 390 | Daddy |
+| 490 | 390 | Melissa D. M. Hornsby |
 | 491 | 389 | Betsy B. Yohan |
 | 492 | 385 | Kimberly Anderson |
 | 493 | 383 | James Bryant II |
@@ -717,14 +717,14 @@
 | 709 | 276 | Rosalind Chatman |
 | 710 | 276 | Dannie |
 | 711 | 276 | Joseph Vs Cap |
-| 712 | 275 | MzJuice Box |
-| 713 | 275 | Chris Sladoje |
-| 714 | 275 | Michelle Peters |
-| 715 | 274 | Polite Granny |
-| 716 | 274 | Rufus |
-| 717 | 274 | Stephanie Ellis |
-| 718 | 273 | Mommy Frank |
-| 719 | 273 | Maxine Williams |
+| 712 | 276 | Maxine Williams |
+| 713 | 275 | MzJuice Box |
+| 714 | 275 | Chris Sladoje |
+| 715 | 275 | Michelle Peters |
+| 716 | 274 | Polite Granny |
+| 717 | 274 | Rufus |
+| 718 | 274 | Stephanie Ellis |
+| 719 | 273 | Mommy Frank |
 | 720 | 273 | Kim Holzmiller |
 | 721 | 273 | Frances Davis |
 | 722 | 272 | Felicia Dungey |
@@ -816,17 +816,17 @@
 | 808 | 239 | Sherri Keys |
 | 809 | 239 | Anntionette Sotire |
 | 810 | 239 | Twisty Cascadeclear |
-| 811 | 238 | B.L. Perry |
-| 812 | 237 | Christina Singleton |
-| 813 | 236 | Rayshawn Cohen |
-| 814 | 235 | nameno |
+| 811 | 238 | Kat |
+| 812 | 238 | B.L. Perry |
+| 813 | 237 | Christina Singleton |
+| 814 | 236 | Rayshawn Cohen |
 | 815 | 235 | Oaklonboy mike |
-| 816 | 235 | Yoellah Benyahmeen |
-| 817 | 235 | Squaw Ki Ng |
-| 818 | 235 | Juan Lewis |
-| 819 | 234 | Shameka Tiffany |
-| 820 | 233 | Aanngie Aanngie |
-| 821 | 233 | Kat |
+| 816 | 235 | nameno |
+| 817 | 235 | Yoellah Benyahmeen |
+| 818 | 235 | Squaw Ki Ng |
+| 819 | 235 | Juan Lewis |
+| 820 | 234 | Shameka Tiffany |
+| 821 | 233 | Aanngie Aanngie |
 | 822 | 233 | Claudia Price |
 | 823 | 232 | Lexx Robins |
 | 824 | 231 | Tyiesha Pie Farmer |
