@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 19:49:24 UTC
+# Standings for team2 as of 2026-06-11 19:50:45 UTC
 
 **Total Participants:** 3004
 
@@ -60,7 +60,7 @@
 | 52 | 5181 | Julie Renee Bertram |
 | 53 | 5075 | Frisky Balanceblock |
 | 54 | 4987 | Erica Dees Parks |
-| 55 | 4859 | Wacky Dashfit |
+| 55 | 4868 | Wacky Dashfit |
 | 56 | 4836 | Charley Bedford |
 | 57 | 4815 | Tonya Taber |
 | 58 | 4790 | Smashanator |
@@ -176,21 +176,21 @@
 | 168 | 1321 | Allison Jarman |
 | 169 | 1304 | Jackie Tupper |
 | 170 | 1293 | BrendaLee NolanBos |
-| 171 | 1287 | Rob Owens |
-| 172 | 1286 | Kvothe |
-| 173 | 1284 | Glitzy Base |
-| 174 | 1284 | Melissa Thomas |
-| 175 | 1281 | Snappy Blockbuilder |
-| 176 | 1275 | Michelle Maulsby |
-| 177 | 1274 | Brenda Jones |
-| 178 | 1270 | Joslyn Johnson |
-| 179 | 1270 | Sedy |
-| 180 | 1262 | Sabrina Hardrick |
-| 181 | 1259 | Marie Luciano |
-| 182 | 1251 | Ricardo Ewart |
+| 171 | 1291 | Ricardo Ewart |
+| 172 | 1287 | Rob Owens |
+| 173 | 1286 | Kvothe |
+| 174 | 1284 | Glitzy Base |
+| 175 | 1284 | Melissa Thomas |
+| 176 | 1281 | Snappy Blockbuilder |
+| 177 | 1275 | Michelle Maulsby |
+| 178 | 1274 | Brenda Jones |
+| 179 | 1270 | Joslyn Johnson |
+| 180 | 1270 | Sedy |
+| 181 | 1262 | Sabrina Hardrick |
+| 182 | 1259 | Marie Luciano |
 | 183 | 1247 | Monique Frantz |
-| 184 | 1234 | Spicy Risegrid |
-| 185 | 1234 | Cristi Doris |
+| 184 | 1234 | Cristi Doris |
+| 185 | 1234 | Spicy Risegrid |
 | 186 | 1219 | Chris Cooper |
 | 187 | 1217 | Leigh Ann |
 | 188 | 1214 | Jeska Gaines |
@@ -299,9 +299,9 @@
 | 291 | 819 | KayLynn Ogden McClelland |
 | 292 | 816 | Ratchet |
 | 293 | 813 | Loony Faller |
-| 294 | 802 | Charles E Mccardell |
+| 294 | 811 | Ozge Akgun Tokat |
 | 295 | 802 | meg |
-| 296 | 801 | Ozge Akgun Tokat |
+| 296 | 802 | Charles E Mccardell |
 | 297 | 798 | Nutty Curver |
 | 298 | 797 | Kristi Chestnut |
 | 299 | 796 | True |
@@ -388,7 +388,7 @@
 | 380 | 638 | Julie Alexander Sykes |
 | 381 | 638 | Pam Bauder Ludwig |
 | 382 | 638 | Jason Cunningham |
-| 383 | 626 | Newtwidebody |
+| 383 | 632 | Newtwidebody |
 | 384 | 620 | Justin McCray |
 | 385 | 620 | Happy |
 | 386 | 618 | Spicy Basepiece |
@@ -699,14 +699,14 @@
 | 691 | 363 | Hyper Striker |
 | 692 | 362 | Catalina Castro |
 | 693 | 361 | Brian Favre |
-| 694 | 361 | Bianca Woodruff |
-| 695 | 360 | CEK |
-| 696 | 360 | Teloney Humphrey |
-| 697 | 359 | Sarah Grundisch |
-| 698 | 359 | Eric Wayne Maschman |
-| 699 | 359 | Michele Stewart |
-| 700 | 358 | Will Jones |
-| 701 | 358 | Mariya Cline |
+| 694 | 361 | Mariya Cline |
+| 695 | 361 | Bianca Woodruff |
+| 696 | 360 | CEK |
+| 697 | 360 | Teloney Humphrey |
+| 698 | 359 | Sarah Grundisch |
+| 699 | 359 | Eric Wayne Maschman |
+| 700 | 359 | Michele Stewart |
+| 701 | 358 | Will Jones |
 | 702 | 358 | John Davis |
 | 703 | 357 | Amanda Priddy |
 | 704 | 357 | Brandy Chinelle |
@@ -1052,10 +1052,10 @@
 | 1044 | 228 | Plucky Linkmatch |
 | 1045 | 228 | Michele Plunkett |
 | 1046 | 228 | Samantha Brown |
-| 1047 | 227 | James Maness |
-| 1048 | 227 | Jolly Brickroll |
-| 1049 | 227 | Ceci |
-| 1050 | 227 | Brianne Coffer |
+| 1047 | 227 | Jolly Brickroll |
+| 1048 | 227 | Ceci |
+| 1049 | 227 | Brianne Coffer |
+| 1050 | 227 | James Maness |
 | 1051 | 227 | Boo Boo Binx |
 | 1052 | 227 | Krystal Snow |
 | 1053 | 226 | Danid |
@@ -1070,17 +1070,17 @@
 | 1062 | 225 | Val |
 | 1063 | 225 | Stephen Gillam |
 | 1064 | 224 | Melissa Abbott |
-| 1065 | 224 | Steven Moore |
+| 1065 | 224 | Jenifer Gasho |
 | 1066 | 224 | JDub |
-| 1067 | 224 | Frisky Linkmatch |
-| 1068 | 223 | Stazy Warner |
-| 1069 | 223 | Frisky Balancefit |
-| 1070 | 223 | Harley Watkins |
-| 1071 | 223 | Hillary Frank |
-| 1072 | 222 | AshleyM |
-| 1073 | 222 | Crystal Robinson |
-| 1074 | 222 | Alimae |
-| 1075 | 222 | Jenifer Gasho |
+| 1067 | 224 | Steven Moore |
+| 1068 | 224 | Frisky Linkmatch |
+| 1069 | 223 | Stazy Warner |
+| 1070 | 223 | Frisky Balancefit |
+| 1071 | 223 | Harley Watkins |
+| 1072 | 223 | Hillary Frank |
+| 1073 | 222 | AshleyM |
+| 1074 | 222 | Crystal Robinson |
+| 1075 | 222 | Alimae |
 | 1076 | 222 | Shiny Matchpiece |
 | 1077 | 222 | Jennifer Augustine |
 | 1078 | 222 | Sherri Caillet Aucoin |
