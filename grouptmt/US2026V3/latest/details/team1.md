@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:34:49 UTC
+# Standings for team1 as of 2026-06-11 07:35:23 UTC
 
 **Total Participants:** 2458
 
@@ -135,19 +135,19 @@
 | 127 | 1344 | G Ah Mayes |
 | 128 | 1323 | Catara Renae Oliver |
 | 129 | 1323 | Denise B |
-| 130 | 1303 | Aviv Zehavi |
-| 131 | 1294 | Anthony Washington |
-| 132 | 1287 | sha |
-| 133 | 1282 | Jon Gathers |
-| 134 | 1277 | Dynah Gordon |
-| 135 | 1263 | Po Marley |
-| 136 | 1260 | IamJust Neyamijah Washington Sr. |
-| 137 | 1244 | Jaida King |
-| 138 | 1232 | Slim Shedidthat |
-| 139 | 1227 | KenpachisGirl |
-| 140 | 1225 | Taylor Evelyn |
-| 141 | 1224 | Tiana Moore |
-| 142 | 1215 | Loopy Block |
+| 130 | 1310 | Loopy Block |
+| 131 | 1303 | Aviv Zehavi |
+| 132 | 1294 | Anthony Washington |
+| 133 | 1287 | sha |
+| 134 | 1282 | Jon Gathers |
+| 135 | 1277 | Dynah Gordon |
+| 136 | 1263 | Po Marley |
+| 137 | 1260 | IamJust Neyamijah Washington Sr. |
+| 138 | 1244 | Jaida King |
+| 139 | 1232 | Slim Shedidthat |
+| 140 | 1227 | KenpachisGirl |
+| 141 | 1225 | Taylor Evelyn |
+| 142 | 1224 | Tiana Moore |
 | 143 | 1208 | Jazzy Dashpiece |
 | 144 | 1202 | Plucky Slamdrop |
 | 145 | 1196 | ELM |
@@ -366,9 +366,9 @@
 | 358 | 481 | Simone Bailey |
 | 359 | 480 | Ashleyy Netchert |
 | 360 | 480 | ♈️ Ariesbaby |
-| 361 | 477 | Nerdy Climber |
-| 362 | 476 | Hasty Glidezone |
-| 363 | 476 | Erica Charlise |
+| 361 | 480 | Erica Charlise |
+| 362 | 477 | Nerdy Climber |
+| 363 | 476 | Hasty Glidezone |
 | 364 | 476 | AshyTay |
 | 365 | 475 | Vernon Hoyt |
 | 366 | 473 | Lisa420 |
@@ -706,42 +706,42 @@
 | 698 | 272 | Seirra Robinson |
 | 699 | 272 | Felicia Dungey |
 | 700 | 271 | Sunset Owens |
-| 701 | 270 | Bob |
-| 702 | 270 | Daring Riserfit |
-| 703 | 269 | Poppy Twister |
-| 704 | 269 | Tara Clarke |
-| 705 | 269 | Christy Quick |
-| 706 | 269 | RMGreen |
-| 707 | 268 | Kala Miller |
-| 708 | 268 | Katrina Ramey |
-| 709 | 267 | Taneka Howell |
-| 710 | 266 | Dannie |
-| 711 | 265 | Kortney Adams |
+| 701 | 270 | Mathew Trudell |
+| 702 | 270 | Bob |
+| 703 | 270 | Daring Riserfit |
+| 704 | 269 | Poppy Twister |
+| 705 | 269 | Tara Clarke |
+| 706 | 269 | Christy Quick |
+| 707 | 269 | RMGreen |
+| 708 | 268 | Kala Miller |
+| 709 | 268 | Katrina Ramey |
+| 710 | 267 | Taneka Howell |
+| 711 | 266 | Dannie |
 | 712 | 265 | SceneGreenz Wali |
-| 713 | 264 | Donna Payne |
-| 714 | 264 | Stanley Dixon |
-| 715 | 264 | Lazy Tiltpiece |
-| 716 | 264 | Glitzy Clusterer |
-| 717 | 263 | Yellowbone |
-| 718 | 263 | Mami Badd |
-| 719 | 262 | Clipzby |
+| 713 | 265 | Kortney Adams |
+| 714 | 264 | Donna Payne |
+| 715 | 264 | Stanley Dixon |
+| 716 | 264 | Lazy Tiltpiece |
+| 717 | 264 | Glitzy Clusterer |
+| 718 | 263 | Yellowbone |
+| 719 | 263 | Mami Badd |
 | 720 | 262 | MamaBearTiff |
 | 721 | 262 | LaSharon Jackson |
-| 722 | 261 | Laysa Nunez |
-| 723 | 261 | Shannon Carriger |
-| 724 | 261 | Nickeya Phillips |
-| 725 | 261 | Jes Marie |
-| 726 | 260 | Mathew Trudell |
-| 727 | 260 | Lester Malone |
-| 728 | 260 | NedaWin |
-| 729 | 260 | Spotlight |
-| 730 | 260 | Carolyn Smith |
+| 722 | 262 | Clipzby |
+| 723 | 261 | Jes Marie |
+| 724 | 261 | Laysa Nunez |
+| 725 | 261 | Shannon Carriger |
+| 726 | 261 | Nickeya Phillips |
+| 727 | 260 | Spotlight |
+| 728 | 260 | Carolyn Smith |
+| 729 | 260 | Lester Malone |
+| 730 | 260 | NedaWin |
 | 731 | 260 | Ashley Danielle |
 | 732 | 260 | Nisha Sunshine Jenkins |
 | 733 | 259 | Adrian Wilson |
-| 734 | 259 | Anastasia |
-| 735 | 259 | Deanna Close |
-| 736 | 259 | Blocksy |
+| 734 | 259 | Deanna Close |
+| 735 | 259 | Blocksy |
+| 736 | 259 | Anastasia |
 | 737 | 258 | Lynnette WheelerBushnell |
 | 738 | 258 | Ameillia Boughner |
 | 739 | 258 | Stronger Wiser Better |

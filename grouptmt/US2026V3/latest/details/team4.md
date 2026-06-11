@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 07:34:49 UTC
+# Standings for team4 as of 2026-06-11 07:35:23 UTC
 
 **Total Participants:** 2497
 
@@ -383,10 +383,10 @@
 | 375 | 461 | Ash Gribble |
 | 376 | 460 | Shmeedo |
 | 377 | 460 | Holly Wessel |
-| 378 | 458 | Jumpy Clearbuilder |
-| 379 | 458 | Solace Grace |
-| 380 | 458 | Aisha Estrada |
-| 381 | 457 | Jazzy Rollout |
+| 378 | 459 | Jazzy Rollout |
+| 379 | 458 | Jumpy Clearbuilder |
+| 380 | 458 | Solace Grace |
+| 381 | 458 | Aisha Estrada |
 | 382 | 457 | Powder |
 | 383 | 455 | beTrue76 |
 | 384 | 455 | Corey Jackson |
