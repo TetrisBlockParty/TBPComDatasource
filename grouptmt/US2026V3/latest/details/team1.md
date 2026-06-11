@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 21:21:24 UTC
+# Standings for team1 as of 2026-06-11 21:22:21 UTC
 
 **Total Participants:** 2536
 
@@ -269,8 +269,8 @@
 | 261 | 720 | Hailey Hil |
 | 262 | 719 | Tempee |
 | 263 | 713 | SyTheEvilGenius1 |
-| 264 | 711 | Chirpy Corner |
-| 265 | 709 | LaToya Chambers |
+| 264 | 711 | LaToya Chambers |
+| 265 | 711 | Chirpy Corner |
 | 266 | 708 | Simply-Beautiful007 |
 | 267 | 706 | TeeMaster Barber IsLyfe |
 | 268 | 700 | Abigail Newman Sweet |
@@ -323,10 +323,10 @@
 | 315 | 602 | NastyFriend |
 | 316 | 601 | Marie Wilson |
 | 317 | 599 | IThinkNot |
-| 318 | 591 | Koi |
-| 319 | 589 | Slinky Brickmatch |
-| 320 | 589 | Chasem45 |
-| 321 | 588 | Sheila Burnham |
+| 318 | 593 | Sheila Burnham |
+| 319 | 591 | Koi |
+| 320 | 589 | Slinky Brickmatch |
+| 321 | 589 | Chasem45 |
 | 322 | 586 | Denisa Amazon Clark |
 | 323 | 583 | Shanaa Germany Crittenden |
 | 324 | 583 | DaGuy |
@@ -527,11 +527,11 @@
 | 519 | 400 | Sara Meri |
 | 520 | 400 | Bbyunicorn |
 | 521 | 399 | Kala LaRicka |
-| 522 | 396 | Chirpy Buildgrid |
-| 523 | 396 | Aridevina |
-| 524 | 395 | Ysma Simmons |
-| 525 | 395 | Rachel |
-| 526 | 394 | Aaron Hartmann |
+| 522 | 398 | Aaron Hartmann |
+| 523 | 396 | Chirpy Buildgrid |
+| 524 | 396 | Aridevina |
+| 525 | 395 | Ysma Simmons |
+| 526 | 395 | Rachel |
 | 527 | 393 | Tonya Thomas |
 | 528 | 393 | Hasty Rollzone |
 | 529 | 393 | Shawn Himes |
@@ -561,11 +561,11 @@
 | 553 | 377 | Vera Beckford |
 | 554 | 376 | Skippy |
 | 555 | 375 | Christi Walker Patton |
-| 556 | 374 | AnnaM |
-| 557 | 373 | Falisa Bell |
-| 558 | 372 | Casey Chapman |
-| 559 | 371 | Asha Langford |
-| 560 | 371 | Krystal Maynard |
+| 556 | 374 | Krystal Maynard |
+| 557 | 374 | AnnaM |
+| 558 | 373 | Falisa Bell |
+| 559 | 372 | Casey Chapman |
+| 560 | 371 | Asha Langford |
 | 561 | 370 | Kristie |
 | 562 | 370 | Allison Baxter |
 | 563 | 370 | Travis Davison |
@@ -594,10 +594,10 @@
 | 586 | 359 | Yellowbone |
 | 587 | 358 | Chris Watson Draper |
 | 588 | 358 | LaShawyn Wood |
-| 589 | 357 | Mary Phillippi Blanton |
-| 590 | 357 | Manda Allen |
-| 591 | 355 | Tito Divyn |
-| 592 | 354 | Lindsey |
+| 589 | 357 | Lindsey |
+| 590 | 357 | Mary Phillippi Blanton |
+| 591 | 357 | Manda Allen |
+| 592 | 355 | Tito Divyn |
 | 593 | 354 | LaSharon Jackson |
 | 594 | 353 | Alyssa Rae |
 | 595 | 353 | Dizzy Dashy |
