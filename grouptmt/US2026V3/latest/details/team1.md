@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:05:24 UTC
+# Standings for team1 as of 2026-06-11 07:06:47 UTC
 
 **Total Participants:** 2454
 
@@ -69,8 +69,8 @@
 | 61 | 2367 | Markeeta Lipscomb |
 | 62 | 2359 | Corey Cawthon |
 | 63 | 2359 | Shellzb Roberts |
-| 64 | 2230 | Robyn Caldwell |
-| 65 | 2207 | Snappy Link |
+| 64 | 2267 | Snappy Link |
+| 65 | 2230 | Robyn Caldwell |
 | 66 | 2175 | Brian Bohanon II |
 | 67 | 2166 | Helen Smith |
 | 68 | 2161 | Cherry Rose |
@@ -185,7 +185,7 @@
 | 177 | 942 | Chuck Quarles |
 | 178 | 933 | Keke Ferguson |
 | 179 | 926 | Ebony Waynes-robinson |
-| 180 | 919 | Zippy Tilefall |
+| 180 | 922 | Zippy Tilefall |
 | 181 | 916 | Novaa |
 | 182 | 913 | xXEKUNXx |
 | 183 | 913 | JaszyBadd |
@@ -1098,13 +1098,13 @@
 | 1090 | 151 | Witty Clear |
 | 1091 | 151 | GoldStarJo |
 | 1092 | 151 | Chummy Twisterfit |
-| 1093 | 150 | Vivian Bunnell Myers |
-| 1094 | 150 | Anthony T. Fults |
-| 1095 | 150 | Antoinette Kidd |
-| 1096 | 150 | WReckitraff |
-| 1097 | 150 | Raquel Ortiz |
-| 1098 | 150 | Dawn Basemore |
-| 1099 | 150 | Ruth Ann Ruiz-Nakashima |
+| 1093 | 151 | Ruth Ann Ruiz-Nakashima |
+| 1094 | 150 | Vivian Bunnell Myers |
+| 1095 | 150 | Anthony T. Fults |
+| 1096 | 150 | Antoinette Kidd |
+| 1097 | 150 | WReckitraff |
+| 1098 | 150 | Raquel Ortiz |
+| 1099 | 150 | Dawn Basemore |
 | 1100 | 149 | Macho Lewis |
 | 1101 | 148 | Evelyn Epps |
 | 1102 | 148 | Zany Patternblock |
@@ -2106,22 +2106,22 @@
 | 2098 | 20 | Adrianna Hernandez |
 | 2099 | 20 | Scoots |
 | 2100 | 20 | Sonia Savage-Jones |
-| 2101 | 20 | Lisa Regusters |
-| 2102 | 20 | Tipsy Builderline |
-| 2103 | 20 | AllStar Woods |
+| 2101 | 20 | Tipsy Builderline |
+| 2102 | 20 | AllStar Woods |
+| 2103 | 20 | Jermaine Brown |
 | 2104 | 20 | Allison Davis |
 | 2105 | 20 | Luna Lockwood |
-| 2106 | 20 | Jermaine Brown |
-| 2107 | 20 | prela |
+| 2106 | 20 | Lisa Regusters |
+| 2107 | 20 | Melody Means |
 | 2108 | 20 | Happy Towerfall |
 | 2109 | 20 | Justice 4 P |
 | 2110 | 20 | lilpryncess |
 | 2111 | 20 | Nikki Vaughn |
-| 2112 | 20 | Melody Means |
-| 2113 | 20 | Misha |
+| 2112 | 20 | prela |
+| 2113 | 20 | Kechie Johnson |
 | 2114 | 20 | Edward Croom |
 | 2115 | 20 | Tanika Duffey |
-| 2116 | 20 | Kechie Johnson |
+| 2116 | 20 | Misha |
 | 2117 | 20 | Deme |
 | 2118 | 20 | Nikki Jay |
 | 2119 | 20 | Terry Golatte |
@@ -2132,68 +2132,68 @@
 | 2124 | 19 | Tiara Hitchcock |
 | 2125 | 19 | Young Jason |
 | 2126 | 19 | Joanne Davis Cunningham |
-| 2127 | 19 | Toya Draine |
-| 2128 | 19 | QueenBishhh |
-| 2129 | 19 | Marcus Roberts |
-| 2130 | 19 | Tynesha Woodard |
+| 2127 | 19 | QueenBishhh |
+| 2128 | 19 | Toya Draine |
+| 2129 | 19 | RiffRaff503 |
+| 2130 | 19 | Marcus Roberts |
 | 2131 | 19 | MelliMel |
 | 2132 | 19 | kate |
-| 2133 | 18 | Marie SheReady Harris |
-| 2134 | 18 | Raynell Mcfrazier |
+| 2133 | 19 | Tynesha Woodard |
+| 2134 | 18 | Dizzy Ziggy |
 | 2135 | 18 | Poppy Pivot |
-| 2136 | 18 | Giddy Puzzler |
-| 2137 | 18 | MURLWORLD |
-| 2138 | 18 | Dizzy Ziggy |
-| 2139 | 18 | The Aries Vixen |
-| 2140 | 18 | Yeshanna Nicholson |
+| 2136 | 18 | MURLWORLD |
+| 2137 | 18 | Giddy Puzzler |
+| 2138 | 18 | The Aries Vixen |
+| 2139 | 18 | Yeshanna Nicholson |
+| 2140 | 18 | Raynell Mcfrazier |
 | 2141 | 18 | Daring Twistfit |
 | 2142 | 18 | Jeaudi Gray |
 | 2143 | 18 | Dominick Towns |
 | 2144 | 18 | Anissa Williams |
 | 2145 | 18 | Saucy Linkgrid |
-| 2146 | 18 | Lynn Formby |
-| 2147 | 18 | Keke |
-| 2148 | 18 | Una |
-| 2149 | 18 | star |
-| 2150 | 18 | random |
-| 2151 | 18 | Naudia Hampton |
+| 2146 | 18 | Keke |
+| 2147 | 18 | Una |
+| 2148 | 18 | star |
+| 2149 | 18 | Lynn Formby |
+| 2150 | 18 | Naudia Hampton |
+| 2151 | 18 | random |
 | 2152 | 18 | Cory Richboy BoutthemRackz |
 | 2153 | 18 | Beach girl444 |
 | 2154 | 18 | Aliceia Gee |
-| 2155 | 18 | Andrea Jones |
-| 2156 | 17 | Party Pandad 3 |
-| 2157 | 17 | Sue Boyce |
-| 2158 | 17 | Rochelle Latimer |
+| 2155 | 18 | Marie SheReady Harris |
+| 2156 | 18 | Andrea Jones |
+| 2157 | 17 | Rochelle Latimer |
+| 2158 | 17 | Party Pandad 3 |
 | 2159 | 17 | Andre Rivera |
-| 2160 | 17 | law |
+| 2160 | 17 | Sue Boyce |
 | 2161 | 17 | Wacky Riserpiece |
 | 2162 | 17 | Christina |
-| 2163 | 17 | Sassy Dashfit |
-| 2164 | 17 | Coy Williams |
-| 2165 | 17 | Marcy Hernandez |
-| 2166 | 17 | babygirl |
-| 2167 | 17 | Demetria Thompson |
+| 2163 | 17 | law |
+| 2164 | 17 | Sassy Dashfit |
+| 2165 | 17 | Coy Williams |
+| 2166 | 17 | Marcy Hernandez |
+| 2167 | 17 | babygirl |
 | 2168 | 17 | Dapper Basegrid |
-| 2169 | 17 | Christopher Allan Petty II |
+| 2169 | 17 | Demetria Thompson |
 | 2170 | 17 | Frisky Cascadefit |
-| 2171 | 17 | Latarriea God'sChild |
-| 2172 | 17 | Giggly Bouncer |
-| 2173 | 17 | Almarasha Grice |
-| 2174 | 16 | Darius Benefield Christina Benefield |
-| 2175 | 16 | RiffRaff503 |
+| 2171 | 17 | Christopher Allan Petty II |
+| 2172 | 17 | Latarriea God'sChild |
+| 2173 | 17 | Giggly Bouncer |
+| 2174 | 17 | Almarasha Grice |
+| 2175 | 16 | Darius Benefield Christina Benefield |
 | 2176 | 16 | Teevibing |
 | 2177 | 16 | Michael Johnson |
 | 2178 | 16 | Cacinda Clark-Love |
-| 2179 | 16 | Vanessa Winn |
-| 2180 | 16 | Geno Bankroll McGill |
+| 2179 | 16 | Geno Bankroll McGill |
+| 2180 | 16 | Vanessa Winn |
 | 2181 | 16 | Giddy Tower |
 | 2182 | 16 | Tabitha Burks |
 | 2183 | 16 | Hulk |
 | 2184 | 16 | Desmond Bernard Street |
 | 2185 | 16 | BuildABlock007 |
 | 2186 | 16 | JahMilly19 |
-| 2187 | 15 | Artis Williams |
-| 2188 | 15 | Dimitri Moore |
+| 2187 | 15 | Dimitri Moore |
+| 2188 | 15 | Artis Williams |
 | 2189 | 15 | Hasty Match |
 | 2190 | 15 | sweetkiafruit |
 | 2191 | 15 | James Copeland |
