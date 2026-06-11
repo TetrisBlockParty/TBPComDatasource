@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:20:41 UTC
+# Standings for team2 as of 2026-06-11 09:21:20 UTC
 
 **Total Participants:** 2938
 
@@ -22,7 +22,7 @@
 | 14 | 9961 | Kathleen M Cox |
 | 15 | 9630 | Lola C Davis |
 | 16 | 9620 | A.j. Langley |
-| 17 | 9271 | Christina Shell |
+| 17 | 9276 | Christina Shell |
 | 18 | 9262 | Maggie McFarland |
 | 19 | 9017 | Bobbi |
 | 20 | 8427 | Elizabeth Mooney |
@@ -62,7 +62,7 @@
 | 54 | 4511 | Julie Renee Bertram |
 | 55 | 4486 | Brent Bittenbender |
 | 56 | 4412 | Charles Varca |
-| 57 | 4241 | Nawang Nawang |
+| 57 | 4281 | Nawang Nawang |
 | 58 | 4224 | LaWanda Powell |
 | 59 | 3995 | Betty Barrett |
 | 60 | 3990 | Anthony Lilley |
@@ -548,35 +548,35 @@
 | 540 | 413 | Travis Bundrum |
 | 541 | 412 | Marge Cromer |
 | 542 | 411 | Brittney Williams |
-| 543 | 410 | Ssirkus |
-| 544 | 407 | Holly Huval |
-| 545 | 407 | Arik DiLorenzo |
-| 546 | 407 | Mona Good |
-| 547 | 406 | Spunky Linkblock |
-| 548 | 406 | Brooklyn Todd |
-| 549 | 405 | Martha Lynn Wiggins |
-| 550 | 405 | Brittni Lawrence |
-| 551 | 405 | Brandi Christensen-Henley |
-| 552 | 405 | DirtySweet84 |
-| 553 | 403 | krissy |
-| 554 | 402 | Buffy Diane Blake |
-| 555 | 401 | Marilyn Mendoza |
-| 556 | 401 | Robin Lamb |
-| 557 | 400 | Tracy Lee |
-| 558 | 400 | Carrie Hayes Lankford |
-| 559 | 400 | Tiffany Lewis |
-| 560 | 400 | Loopy Tower |
-| 561 | 399 | Nicky Steigerwalt |
-| 562 | 399 | Gina Leal |
-| 563 | 399 | Mandeee |
-| 564 | 399 | Plucky Grabber |
-| 565 | 399 | Nikki Layman |
-| 566 | 399 | James Sayers |
-| 567 | 398 | Vanessa King |
-| 568 | 398 | David Skelton |
-| 569 | 398 | Ashley Billiot Rhodes |
-| 570 | 397 | Sltwtrcndrla |
-| 571 | 396 | Joanie Swann Ruiter |
+| 543 | 411 | Joanie Swann Ruiter |
+| 544 | 410 | Ssirkus |
+| 545 | 407 | Holly Huval |
+| 546 | 407 | Arik DiLorenzo |
+| 547 | 407 | Mona Good |
+| 548 | 406 | Spunky Linkblock |
+| 549 | 406 | Brooklyn Todd |
+| 550 | 405 | Martha Lynn Wiggins |
+| 551 | 405 | Brittni Lawrence |
+| 552 | 405 | Brandi Christensen-Henley |
+| 553 | 405 | DirtySweet84 |
+| 554 | 403 | krissy |
+| 555 | 402 | Buffy Diane Blake |
+| 556 | 401 | Marilyn Mendoza |
+| 557 | 401 | Robin Lamb |
+| 558 | 400 | Tracy Lee |
+| 559 | 400 | Carrie Hayes Lankford |
+| 560 | 400 | Tiffany Lewis |
+| 561 | 400 | Loopy Tower |
+| 562 | 399 | Nicky Steigerwalt |
+| 563 | 399 | Gina Leal |
+| 564 | 399 | Mandeee |
+| 565 | 399 | Plucky Grabber |
+| 566 | 399 | Nikki Layman |
+| 567 | 399 | James Sayers |
+| 568 | 398 | Vanessa King |
+| 569 | 398 | David Skelton |
+| 570 | 398 | Ashley Billiot Rhodes |
+| 571 | 397 | Sltwtrcndrla |
 | 572 | 395 | Hector |
 | 573 | 395 | murd3rmous3 |
 | 574 | 395 | Traci Abern |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:20:41 UTC
+# Standings for team1 as of 2026-06-11 09:21:20 UTC
 
 **Total Participants:** 2469
 
@@ -417,13 +417,13 @@
 | 409 | 434 | Tipsy Linkroll |
 | 410 | 432 | blockman |
 | 411 | 431 | Charlene Baltimore |
-| 412 | 431 | Lauraly |
-| 413 | 430 | John Spath |
-| 414 | 430 | Chilly Wipebuilder |
-| 415 | 428 | Poppy Buildout |
-| 416 | 427 | Cynthia Cruell |
-| 417 | 426 | Nate Myers |
-| 418 | 425 | Saucy Faller |
+| 412 | 431 | Saucy Faller |
+| 413 | 431 | Lauraly |
+| 414 | 430 | John Spath |
+| 415 | 430 | Chilly Wipebuilder |
+| 416 | 428 | Poppy Buildout |
+| 417 | 427 | Cynthia Cruell |
+| 418 | 426 | Nate Myers |
 | 419 | 425 | Jas |
 | 420 | 423 | Jai |
 | 421 | 421 | Jae Thompson-Tyus |
@@ -1086,30 +1086,30 @@
 | 1078 | 157 | Scorpiogurl Cruz |
 | 1079 | 157 | Nichelle Warren |
 | 1080 | 157 | Wrist Mask |
-| 1081 | 155 | b |
-| 1082 | 155 | Ja'mice Nelson |
-| 1083 | 155 | Kyle Franklin |
-| 1084 | 154 | Ruth Ann Ruiz-Nakashima |
-| 1085 | 154 | Gabriela Hernandez |
-| 1086 | 154 | Lauren Farkas |
-| 1087 | 153 | Quirky Spinblock |
-| 1088 | 153 | Shaun Baker |
-| 1089 | 153 | Kara |
-| 1090 | 153 | Anthony Collins |
-| 1091 | 153 | Dee Dee |
-| 1092 | 152 | E Dubb$ |
-| 1093 | 152 | Brittany Cole |
-| 1094 | 151 | GoldStarJo |
-| 1095 | 151 | BlessedBeauty |
+| 1081 | 156 | Dawn Basemore |
+| 1082 | 155 | b |
+| 1083 | 155 | Ja'mice Nelson |
+| 1084 | 155 | Kyle Franklin |
+| 1085 | 154 | Ruth Ann Ruiz-Nakashima |
+| 1086 | 154 | Gabriela Hernandez |
+| 1087 | 154 | Lauren Farkas |
+| 1088 | 153 | Quirky Spinblock |
+| 1089 | 153 | Shaun Baker |
+| 1090 | 153 | Kara |
+| 1091 | 153 | Anthony Collins |
+| 1092 | 153 | Dee Dee |
+| 1093 | 152 | E Dubb$ |
+| 1094 | 152 | Brittany Cole |
+| 1095 | 151 | lady |
 | 1096 | 151 | Chummy Twisterfit |
-| 1097 | 151 | Witty Clear |
-| 1098 | 151 | lady |
-| 1099 | 150 | Antoinette Kidd |
-| 1100 | 150 | WReckitraff |
-| 1101 | 150 | Raquel Ortiz |
+| 1097 | 151 | BlessedBeauty |
+| 1098 | 151 | Witty Clear |
+| 1099 | 151 | GoldStarJo |
+| 1100 | 150 | Antoinette Kidd |
+| 1101 | 150 | WReckitraff |
 | 1102 | 150 | Vivian Bunnell Myers |
 | 1103 | 150 | Anthony T. Fults |
-| 1104 | 150 | Dawn Basemore |
+| 1104 | 150 | Raquel Ortiz |
 | 1105 | 149 | Macho Lewis |
 | 1106 | 148 | Zany Patternblock |
 | 1107 | 148 | Raymond Boosie Freeman |
