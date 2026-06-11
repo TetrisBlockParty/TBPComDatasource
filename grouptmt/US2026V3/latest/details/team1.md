@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:38:27 UTC
+# Standings for team1 as of 2026-06-11 12:39:21 UTC
 
 **Total Participants:** 2483
 
@@ -47,9 +47,9 @@
 | 39 | 3763 | Sha Harris |
 | 40 | 3761 | Brian Stackhouse |
 | 41 | 3609 | Chill Clusterer |
-| 42 | 3528 | Jennifer To |
+| 42 | 3543 | Jennifer To |
 | 43 | 3442 | Yolanda McDonald |
-| 44 | 3343 | Mimi 1.0 |
+| 44 | 3419 | Mimi 1.0 |
 | 45 | 3145 | COSA303 |
 | 46 | 3140 | Will |
 | 47 | 3082 | JoJo |
@@ -345,18 +345,18 @@
 | 337 | 515 | Queenie Perry |
 | 338 | 513 | Analiza Ramos |
 | 339 | 513 | Tasha |
-| 340 | 511 | Dizzy Dropper |
-| 341 | 511 | Lauraly |
-| 342 | 511 | NewEve |
-| 343 | 510 | ♈️ Ariesbaby |
-| 344 | 509 | wuvbuug |
+| 340 | 512 | wuvbuug |
+| 341 | 511 | NewEve |
+| 342 | 511 | Lauraly |
+| 343 | 511 | Dizzy Dropper |
+| 344 | 510 | ♈️ Ariesbaby |
 | 345 | 509 | JaClanDiah |
 | 346 | 508 | Heather Aurelia |
 | 347 | 507 | Teresa Yanira Cepeda |
 | 348 | 505 | Cheri Robinson |
 | 349 | 505 | Jackie Sanasay |
-| 350 | 503 | Chummy Frame |
-| 351 | 503 | Tonia Lance |
+| 350 | 503 | Tonia Lance |
+| 351 | 503 | Chummy Frame |
 | 352 | 502 | Tamika Fisher |
 | 353 | 501 | SeanSanchez |
 | 354 | 501 | Chris Rogers |
@@ -1016,37 +1016,37 @@
 | 1008 | 181 | Maria Baez Medina |
 | 1009 | 180 | Hasty Pivoty |
 | 1010 | 180 | Keith Big-Sixx Mackell |
-| 1011 | 179 | Mumitt |
-| 1012 | 179 | Kahh |
-| 1013 | 179 | Lively Rollpiece |
-| 1014 | 179 | Boymama917 |
-| 1015 | 179 | Wacky Stackbuilder |
+| 1011 | 179 | Kahh |
+| 1012 | 179 | Boymama917 |
+| 1013 | 179 | Wacky Stackbuilder |
+| 1014 | 179 | Lively Rollpiece |
+| 1015 | 179 | Mumitt |
 | 1016 | 178 | TotoCherue |
 | 1017 | 177 | nashsr |
 | 1018 | 176 | Frisky Gridder |
 | 1019 | 176 | Taylor Jordan Hollis |
 | 1020 | 176 | April Lane |
-| 1021 | 175 | DaemahnFriday |
+| 1021 | 176 | Ayanna James |
 | 1022 | 175 | Jennifer Moore |
-| 1023 | 175 | Melvin Simpson |
-| 1024 | 174 | Hoppy Rumbler |
-| 1025 | 174 | Austin Smith |
+| 1023 | 175 | DaemahnFriday |
+| 1024 | 175 | Melvin Simpson |
+| 1025 | 174 | Hoppy Rumbler |
 | 1026 | 174 | Hasty Brickzone |
-| 1027 | 173 | Latanya Gayle |
-| 1028 | 173 | Damien Fonseca |
-| 1029 | 171 | Sharon Lynn |
-| 1030 | 171 | Margretta Henry |
-| 1031 | 171 | Deihja Weaver |
-| 1032 | 171 | Pinky Pink |
-| 1033 | 171 | Shanell Thomas |
-| 1034 | 170 | Aaron Sohnrey |
+| 1027 | 174 | Austin Smith |
+| 1028 | 173 | Latanya Gayle |
+| 1029 | 173 | Damien Fonseca |
+| 1030 | 171 | Sharon Lynn |
+| 1031 | 171 | Margretta Henry |
+| 1032 | 171 | Deihja Weaver |
+| 1033 | 171 | Pinky Pink |
+| 1034 | 171 | Shanell Thomas |
 | 1035 | 170 | Shawna Passwater |
-| 1036 | 170 | Sarah Guarino |
-| 1037 | 170 | Devron Reedy |
-| 1038 | 169 | Amilia Cruz |
+| 1036 | 170 | Aaron Sohnrey |
+| 1037 | 170 | Sarah Guarino |
+| 1038 | 170 | Devron Reedy |
 | 1039 | 169 | rb |
-| 1040 | 169 | Latricia George |
-| 1041 | 169 | Ayanna James |
+| 1040 | 169 | Amilia Cruz |
+| 1041 | 169 | Latricia George |
 | 1042 | 169 | LAhoneybun82 |
 | 1043 | 169 | Nicole Coko Thomas |
 | 1044 | 168 | Kidgib5 |
@@ -1314,56 +1314,56 @@
 | 1306 | 108 | Smiley Tilebuilder |
 | 1307 | 108 | Tony P Burke |
 | 1308 | 107 | Amanda Miller |
-| 1309 | 107 | Arjuna Taylor |
-| 1310 | 107 | Mrs |
-| 1311 | 107 | Jeremy Pope |
-| 1312 | 107 | Brandon Knox |
-| 1313 | 106 | Zappy Zoney |
-| 1314 | 106 | Toohartless Mech |
-| 1315 | 106 | Hound Dog |
-| 1316 | 106 | NataAllDay |
-| 1317 | 106 | Symonne 'Monnie' Pierce |
-| 1318 | 106 | Dani McLeod |
-| 1319 | 105 | Maria |
-| 1320 | 105 | Michael Smith |
-| 1321 | 105 | smash56! |
-| 1322 | 104 | Lush Crasher |
+| 1309 | 107 | Jeremy Pope |
+| 1310 | 107 | Arjuna Taylor |
+| 1311 | 107 | Brandon Knox |
+| 1312 | 107 | Mrs |
+| 1313 | 106 | Hound Dog |
+| 1314 | 106 | NataAllDay |
+| 1315 | 106 | Dani McLeod |
+| 1316 | 106 | Symonne 'Monnie' Pierce |
+| 1317 | 106 | Toohartless Mech |
+| 1318 | 106 | Zappy Zoney |
+| 1319 | 105 | smash56! |
+| 1320 | 105 | Maria |
+| 1321 | 105 | Michael Smith |
+| 1322 | 104 | Ahvae Lee |
 | 1323 | 104 | Cozy Balancefit |
-| 1324 | 104 | Jiff |
-| 1325 | 104 | Briela Sabrina |
-| 1326 | 104 | Ahvae Lee |
-| 1327 | 104 | Jenni |
+| 1324 | 104 | Jenni |
+| 1325 | 104 | Jiff |
+| 1326 | 104 | Briela Sabrina |
+| 1327 | 104 | Lush Crasher |
 | 1328 | 103 | Desi |
-| 1329 | 103 | BigMike |
-| 1330 | 103 | H Hr De Gfe |
+| 1329 | 103 | H Hr De Gfe |
+| 1330 | 103 | BigMike |
 | 1331 | 102 | Chip |
 | 1332 | 102 | Ray Day |
-| 1333 | 101 | Frothy Snapmatch |
-| 1334 | 101 | Duane Thomas Lmt |
+| 1333 | 102 | Sugar Foot |
+| 1334 | 101 | Frothy Snapmatch |
 | 1335 | 101 | Ryan Holm |
-| 1336 | 100 | Megan Payette |
-| 1337 | 100 | Oldheads |
-| 1338 | 100 | Babette Estep |
+| 1336 | 101 | Duane Thomas Lmt |
+| 1337 | 100 | Megan Payette |
+| 1338 | 100 | Warren Miller |
 | 1339 | 100 | Jeaneé Nay |
-| 1340 | 100 | Sugar Foot |
-| 1341 | 100 | Warren Miller |
-| 1342 | 100 | Jamie Mclean |
-| 1343 | 100 | Thomas Pearson |
-| 1344 | 99 | don ralph |
+| 1340 | 100 | Jamie Mclean |
+| 1341 | 100 | Thomas Pearson |
+| 1342 | 100 | Babette Estep |
+| 1343 | 100 | Oldheads |
+| 1344 | 99 | TiffanyG |
 | 1345 | 99 | DeShonna Bailey |
-| 1346 | 99 | TiffanyG |
+| 1346 | 99 | don ralph |
 | 1347 | 99 | Plucky Dashgrid |
-| 1348 | 99 | Tellisa Payne |
-| 1349 | 99 | Kechie Johnson |
-| 1350 | 98 | Chinkey Overit |
-| 1351 | 98 | Leon Matthew Williams |
-| 1352 | 98 | Kallsign |
-| 1353 | 98 | Azeiare Ziare |
-| 1354 | 98 | OG LUCKY |
-| 1355 | 98 | Crafty Link |
-| 1356 | 98 | Mighty plantlady |
-| 1357 | 97 | Kevin Turner |
-| 1358 | 97 | 1ofaking |
+| 1348 | 99 | Kechie Johnson |
+| 1349 | 99 | Tellisa Payne |
+| 1350 | 98 | Kallsign |
+| 1351 | 98 | Azeiare Ziare |
+| 1352 | 98 | OG LUCKY |
+| 1353 | 98 | Mighty plantlady |
+| 1354 | 98 | Leon Matthew Williams |
+| 1355 | 98 | Chinkey Overit |
+| 1356 | 98 | Crafty Link |
+| 1357 | 97 | 1ofaking |
+| 1358 | 97 | Kevin Turner |
 | 1359 | 97 | Denise Cunningham-English |
 | 1360 | 97 | Derek Beverly |
 | 1361 | 96 | Giggly Shatterline |
