@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 20:02:46 UTC
+# Standings for team2 as of 2026-06-11 20:03:25 UTC
 
 **Total Participants:** 3006
 
@@ -13,9 +13,9 @@
 | 5 | 17162 | boblawboblaw |
 | 6 | 16243 | Ashlea McBlaine |
 | 7 | 15320 | Mellzey |
-| 8 | 14612 | Lacey Nolting |
-| 9 | 14576 | Crystalin Heath Lewis |
-| 10 | 14406 | Jewels |
+| 8 | 14638 | Jewels |
+| 9 | 14612 | Lacey Nolting |
+| 10 | 14576 | Crystalin Heath Lewis |
 | 11 | 14060 | Cori Keberlein |
 | 12 | 13840 | Mocha |
 | 13 | 13700 | Crafty Ziggy |
@@ -191,18 +191,18 @@
 | 183 | 1247 | Monique Frantz |
 | 184 | 1234 | Spicy Risegrid |
 | 185 | 1234 | Cristi Doris |
-| 186 | 1219 | Chris Cooper |
-| 187 | 1217 | Leigh Ann |
-| 188 | 1214 | Jeska Gaines |
-| 189 | 1199 | Nancy Schwartz Gusman-Oliver |
-| 190 | 1199 | Allie Bug |
-| 191 | 1189 | AndrewandShela Gornik |
-| 192 | 1181 | Sarah Mccolgan |
-| 193 | 1179 | MegaPooh |
-| 194 | 1164 | Nikki Hayes |
-| 195 | 1164 | Jamie Jones |
-| 196 | 1159 | Theresa Hollinger |
-| 197 | 1140 | Nichole Wilson |
+| 186 | 1234 | Nichole Wilson |
+| 187 | 1219 | Chris Cooper |
+| 188 | 1217 | Leigh Ann |
+| 189 | 1214 | Jeska Gaines |
+| 190 | 1199 | Nancy Schwartz Gusman-Oliver |
+| 191 | 1199 | Allie Bug |
+| 192 | 1189 | AndrewandShela Gornik |
+| 193 | 1181 | Sarah Mccolgan |
+| 194 | 1179 | MegaPooh |
+| 195 | 1164 | Nikki Hayes |
+| 196 | 1164 | Jamie Jones |
+| 197 | 1159 | Theresa Hollinger |
 | 198 | 1139 | Tina Marie |
 | 199 | 1137 | Perii Reynoso |
 | 200 | 1132 | Groovy Snapper |
@@ -523,17 +523,17 @@
 | 515 | 467 | Maria Ward |
 | 516 | 467 | Missy Renia |
 | 517 | 465 | SunnySquare |
-| 518 | 463 | Mandy Van Laningham Bishop |
+| 518 | 465 | Talyn Domingues |
 | 519 | 463 | Flashy Hitter |
-| 520 | 461 | Que Henderson |
+| 520 | 463 | Mandy Van Laningham Bishop |
 | 521 | 461 | Jennifer Lalk |
-| 522 | 460 | Jackie Walker |
+| 522 | 461 | Que Henderson |
 | 523 | 460 | Tiffany Lewis |
-| 524 | 459 | TiffTaff |
-| 525 | 459 | Talyn Domingues |
-| 526 | 458 | Clever Fallmatch |
-| 527 | 458 | Hoppy Mover |
-| 528 | 458 | Hyper Cascade |
+| 524 | 460 | Jackie Walker |
+| 525 | 459 | TiffTaff |
+| 526 | 458 | Hoppy Mover |
+| 527 | 458 | Hyper Cascade |
+| 528 | 458 | Clever Fallmatch |
 | 529 | 458 | Reni Seven |
 | 530 | 458 | Paula Haskins |
 | 531 | 458 | Olivia Jefferson |
