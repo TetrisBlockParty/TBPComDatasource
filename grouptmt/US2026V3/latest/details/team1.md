@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:14:24 UTC
+# Standings for team1 as of 2026-06-11 11:15:25 UTC
 
 **Total Participants:** 2476
 
@@ -324,9 +324,9 @@
 | 316 | 541 | Penee Wiggins |
 | 317 | 541 | Clever Fitblock |
 | 318 | 539 | Rayya Kiser |
-| 319 | 535 | Tina Mitchell |
-| 320 | 533 | Bunnie Celtavini |
-| 321 | 532 | akosua |
+| 319 | 537 | akosua |
+| 320 | 535 | Tina Mitchell |
+| 321 | 533 | Bunnie Celtavini |
 | 322 | 532 | Jessica Russell |
 | 323 | 532 | Koi |
 | 324 | 531 | Kesha Brady |
@@ -1232,90 +1232,90 @@
 | 1224 | 122 | Amanda Colwell |
 | 1225 | 122 | Tip318 |
 | 1226 | 122 | Hyper Patternline |
-| 1227 | 122 | Silly Shatterline |
-| 1228 | 122 | Nick Stowers |
+| 1227 | 122 | Nick Stowers |
+| 1228 | 122 | Silly Shatterline |
 | 1229 | 122 | Nichole Horsley-Conn |
-| 1230 | 120 | Juppi |
-| 1231 | 120 | Laura Wesley |
-| 1232 | 120 | Spunky Strikerbuilder |
-| 1233 | 120 | Snappy Matchfit |
-| 1234 | 120 | Linzi Cole |
-| 1235 | 120 | Tiffany Thompson |
-| 1236 | 120 | Demi Ovalle |
-| 1237 | 120 | Lawreniesha Burkley |
-| 1238 | 120 | Richard Harper |
-| 1239 | 120 | Yolanda Sadler |
-| 1240 | 120 | Fransine Bennett |
-| 1241 | 119 | Jordan Deon Elery |
-| 1242 | 119 | Octavia Whitmire |
-| 1243 | 119 | Evette Moreno |
-| 1244 | 119 | Solomon Valarie |
-| 1245 | 119 | Ashley Shelton |
-| 1246 | 119 | Christina Wesley |
-| 1247 | 119 | Sarah Jones |
-| 1248 | 118 | Michelle Dollah |
+| 1230 | 120 | Richard Harper |
+| 1231 | 120 | Linzi Cole |
+| 1232 | 120 | Demi Ovalle |
+| 1233 | 120 | Yolanda Sadler |
+| 1234 | 120 | Fransine Bennett |
+| 1235 | 120 | Lawreniesha Burkley |
+| 1236 | 120 | Tiffany Thompson |
+| 1237 | 120 | Snappy Matchfit |
+| 1238 | 120 | Spunky Strikerbuilder |
+| 1239 | 120 | Laura Wesley |
+| 1240 | 120 | Juppi |
+| 1241 | 119 | Ashley Shelton |
+| 1242 | 119 | Solomon Valarie |
+| 1243 | 119 | Christina Wesley |
+| 1244 | 119 | Evette Moreno |
+| 1245 | 119 | Douglas Jones |
+| 1246 | 119 | Octavia Whitmire |
+| 1247 | 119 | Jordan Deon Elery |
+| 1248 | 119 | Sarah Jones |
 | 1249 | 118 | Felicia Yahuah Johnson |
-| 1250 | 118 | Shanna Green Williams |
-| 1251 | 118 | Tanisha Robinson |
-| 1252 | 118 | Leslie Ann |
-| 1253 | 117 | Andrea Jackson |
-| 1254 | 117 | Cheery Clusterbuilder |
-| 1255 | 116 | Torrie Eckrote |
+| 1250 | 118 | Michelle Dollah |
+| 1251 | 118 | Shanna Green Williams |
+| 1252 | 118 | Tanisha Robinson |
+| 1253 | 118 | Leslie Ann |
+| 1254 | 117 | Andrea Jackson |
+| 1255 | 117 | Cheery Clusterbuilder |
 | 1256 | 116 | Elizabeth Green |
-| 1257 | 116 | Bouncy Blockclear |
+| 1257 | 116 | Tonya Carroll |
 | 1258 | 116 | Demetrice Buck Wilson |
-| 1259 | 116 | Daring Linkfall |
-| 1260 | 116 | Amanda Bell |
-| 1261 | 116 | Jeffrey Pierce-Overton |
-| 1262 | 116 | Tonya Carroll |
-| 1263 | 115 | Quwana Hall |
-| 1264 | 115 | Shiny Lift |
+| 1259 | 116 | Bouncy Blockclear |
+| 1260 | 116 | Daring Linkfall |
+| 1261 | 116 | Amanda Bell |
+| 1262 | 116 | Jeffrey Pierce-Overton |
+| 1263 | 116 | Torrie Eckrote |
+| 1264 | 115 | Quwana Hall |
 | 1265 | 115 | WOOLFF |
 | 1266 | 115 | Tiffany Weathersby |
-| 1267 | 115 | Tagashel Gotuwe |
+| 1267 | 115 | Shiny Lift |
 | 1268 | 115 | Haakuu |
-| 1269 | 114 | Amy Thomas |
-| 1270 | 114 | Cherita Copney |
-| 1271 | 114 | Pharen Oneofakind Frazier |
-| 1272 | 113 | Bohdi |
-| 1273 | 113 | Wacky Spinfit |
-| 1274 | 113 | Sha Anderson |
-| 1275 | 112 | GamerQueenDS |
+| 1269 | 115 | Tagashel Gotuwe |
+| 1270 | 114 | Pharen Oneofakind Frazier |
+| 1271 | 114 | Cherita Copney |
+| 1272 | 114 | Amy Thomas |
+| 1273 | 113 | Sha Anderson |
+| 1274 | 113 | Bohdi |
+| 1275 | 113 | Wacky Spinfit |
 | 1276 | 112 | Embracing Hair |
-| 1277 | 112 | Elizabeth Hopkins |
-| 1278 | 111 | Khatyrah Burnette |
-| 1279 | 111 | Fred Caston |
-| 1280 | 111 | Letrishia Andrews |
-| 1281 | 111 | Funky Tetris |
-| 1282 | 111 | Dandy Shatterer |
-| 1283 | 111 | Jack Mehof |
-| 1284 | 111 | Alicia Lei |
+| 1277 | 112 | GamerQueenDS |
+| 1278 | 112 | Elizabeth Hopkins |
+| 1279 | 111 | Funky Tetris |
+| 1280 | 111 | Fred Caston |
+| 1281 | 111 | Letrishia Andrews |
+| 1282 | 111 | Alicia Lei |
+| 1283 | 111 | Khatyrah Burnette |
+| 1284 | 111 | midnightxtoker |
 | 1285 | 111 | Francisco R. Avalos |
-| 1286 | 111 | midnightxtoker |
-| 1287 | 111 | Daring Snaplink |
-| 1288 | 110 | PattyPower |
-| 1289 | 110 | Boldy Matchfit |
+| 1286 | 111 | Daring Snaplink |
+| 1287 | 111 | Jack Mehof |
+| 1288 | 111 | Dandy Shatterer |
+| 1289 | 110 | S.S |
 | 1290 | 110 | Tweet Turner |
-| 1291 | 110 | S.S |
-| 1292 | 110 | Swanky Riserfit |
-| 1293 | 110 | Silly Spinblock |
-| 1294 | 109 | Jeremy Myers |
-| 1295 | 109 | OleGey |
-| 1296 | 109 | Jamal D. Wiley |
-| 1297 | 109 | Darlene Johnson |
-| 1298 | 108 | Smiley Tilebuilder |
-| 1299 | 108 | Douglas Jones |
-| 1300 | 108 | Tony P Burke |
-| 1301 | 108 | Phoenix |
-| 1302 | 107 | Jeremy Pope |
-| 1303 | 107 | Mrs |
-| 1304 | 107 | Brandon Knox |
-| 1305 | 107 | Arjuna Taylor |
-| 1306 | 107 | Amanda Miller |
-| 1307 | 106 | Hound Dog |
+| 1291 | 110 | Silly Spinblock |
+| 1292 | 110 | Boldy Matchfit |
+| 1293 | 110 | PattyPower |
+| 1294 | 110 | Swanky Riserfit |
+| 1295 | 109 | Jamal D. Wiley |
+| 1296 | 109 | Jeremy Myers |
+| 1297 | 109 | OleGey |
+| 1298 | 109 | Darlene Johnson |
+| 1299 | 108 | Smiley Tilebuilder |
+| 1300 | 108 | Phoenix |
+| 1301 | 108 | Tony P Burke |
+| 1302 | 107 | Arjuna Taylor |
+| 1303 | 107 | Amanda Miller |
+| 1304 | 107 | Mrs |
+| 1305 | 107 | Jeremy Pope |
+| 1306 | 107 | Brandon Knox |
+| 1307 | 106 | Toohartless Mech |
 | 1308 | 106 | Dani McLeod |
 | 1309 | 106 | NataAllDay |
-| 1310 | 106 | Toohartless Mech |
+| 1310 | 106 | Hound Dog |
 | 1311 | 106 | Zappy Zoney |
 | 1312 | 106 | Symonne 'Monnie' Pierce |
 | 1313 | 105 | Maria |
