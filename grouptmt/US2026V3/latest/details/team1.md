@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 02:04:46 UTC
+# Standings for team1 as of 2026-06-11 02:05:25 UTC
 
 **Total Participants:** 2402
 
@@ -92,8 +92,8 @@
 | 84 | 1821 | Spunky Edgefit |
 | 85 | 1811 | Chenell Gillard |
 | 86 | 1810 | Will |
-| 87 | 1757 | Carolynne Walker-Bell |
-| 88 | 1754 | PandaPrincess |
+| 87 | 1763 | PandaPrincess |
+| 88 | 1757 | Carolynne Walker-Bell |
 | 89 | 1742 | Snappy Link |
 | 90 | 1724 | Sharon Cail |
 | 91 | 1715 | Kimberly Hernandez |
@@ -145,8 +145,8 @@
 | 137 | 1217 | Taylor Evelyn |
 | 138 | 1214 | Anthony Washington |
 | 139 | 1208 | Jazzy Dashpiece |
-| 140 | 1196 | ELM |
-| 141 | 1191 | Slim Shedidthat |
+| 140 | 1196 | Slim Shedidthat |
+| 141 | 1196 | ELM |
 | 142 | 1186 | Plucky Slamdrop |
 | 143 | 1122 | Yasmin Nakea Wright |
 | 144 | 1121 | Zippy Lifter |
@@ -267,13 +267,13 @@
 | 259 | 620 | Tanya Clayton |
 | 260 | 615 | pooh |
 | 261 | 613 | Cheery Linkfall |
-| 262 | 610 | Tobey Marberry |
-| 263 | 608 | Dion Gray |
-| 264 | 607 | Frisky Fall |
-| 265 | 607 | SPNLover24 |
-| 266 | 605 | Aihpos |
-| 267 | 605 | Tamara Johnson-Carter |
-| 268 | 600 | Hailey Hil |
+| 262 | 610 | Hailey Hil |
+| 263 | 610 | Tobey Marberry |
+| 264 | 608 | Dion Gray |
+| 265 | 607 | Frisky Fall |
+| 266 | 607 | SPNLover24 |
+| 267 | 605 | Aihpos |
+| 268 | 605 | Tamara Johnson-Carter |
 | 269 | 599 | Cheeky Pop |
 | 270 | 594 | Rachael Bakowicz Edwards |
 | 271 | 593 | Tessa Gaskin |
@@ -1069,13 +1069,13 @@
 | 1061 | 147 | kayluv85 |
 | 1062 | 147 | Sean Parham |
 | 1063 | 147 | Benjamin Livingston |
-| 1064 | 146 | Paul Doty |
-| 1065 | 146 | Jojo M |
-| 1066 | 145 | Jennifer Moore |
-| 1067 | 145 | Jumpy Gridlock |
-| 1068 | 145 | Abdul Malik |
-| 1069 | 144 | Tammy Collins |
-| 1070 | 144 | Shaun Baker |
+| 1064 | 147 | Shaun Baker |
+| 1065 | 146 | Paul Doty |
+| 1066 | 146 | Jojo M |
+| 1067 | 145 | Jennifer Moore |
+| 1068 | 145 | Jumpy Gridlock |
+| 1069 | 145 | Abdul Malik |
+| 1070 | 144 | Tammy Collins |
 | 1071 | 143 | Beautiful314 |
 | 1072 | 143 | Tray Tolliver |
 | 1073 | 143 | Caitlin Michele |
