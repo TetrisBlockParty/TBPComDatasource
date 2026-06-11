@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 00:04:46 UTC
+# Standings for team2 as of 2026-06-11 00:05:25 UTC
 
 **Total Participants:** 2847
 
@@ -45,12 +45,12 @@
 | 37 | 6117 | Alexia Reagan |
 | 38 | 6088 | Danni Campa |
 | 39 | 5683 | Logan Basham |
-| 40 | 5662 | Chipper Patternblock |
+| 40 | 5675 | Chipper Patternblock |
 | 41 | 5615 | Cassie Swart |
 | 42 | 5561 | Angel Welch |
 | 43 | 5437 | Aubree Richard |
 | 44 | 5411 | Matt Hardin |
-| 45 | 5303 | Quirky Catcher |
+| 45 | 5323 | Quirky Catcher |
 | 46 | 5232 | Spunky Clicker |
 | 47 | 5140 | DarkHorse |
 | 48 | 4987 | Erica Dees Parks |
@@ -175,8 +175,8 @@
 | 167 | 1112 | MegaPooh |
 | 168 | 1067 | Groovy Snapper |
 | 169 | 1062 | Le Sandy |
-| 170 | 1052 | Sarah Mccolgan |
-| 171 | 1049 | Monique Frantz |
+| 170 | 1059 | Monique Frantz |
+| 171 | 1052 | Sarah Mccolgan |
 | 172 | 1049 | Sedy |
 | 173 | 1043 | Sarah Griffey |
 | 174 | 1033 | Theresa Hollinger |
@@ -199,8 +199,8 @@
 | 191 | 942 | Snappy Combo |
 | 192 | 939 | Jgato |
 | 193 | 938 | Amber Miller Wirick |
-| 194 | 933 | Nikki Hayes |
-| 195 | 933 | Jat |
+| 194 | 933 | Jat |
+| 195 | 933 | Nikki Hayes |
 | 196 | 933 | Mouh Med |
 | 197 | 931 | Amanda Sikes |
 | 198 | 920 | SEH |
@@ -271,7 +271,7 @@
 | 263 | 750 | Tisha Hairston |
 | 264 | 749 | Jenni LeBlanc |
 | 265 | 746 | Dsabrina Maxey |
-| 266 | 743 | Charles E Mccardell |
+| 266 | 744 | Charles E Mccardell |
 | 267 | 741 | meg |
 | 268 | 736 | Nikki Carter |
 | 269 | 735 | La chulis |
@@ -315,11 +315,11 @@
 | 307 | 655 | Swanky Fitline |
 | 308 | 651 | Wacky Rollbuilder |
 | 309 | 650 | Jeff Pottgether |
-| 310 | 648 | Kaycie Shaffer |
-| 311 | 648 | Kathleen Dumbazz |
+| 310 | 648 | Kathleen Dumbazz |
+| 311 | 648 | Kaycie Shaffer |
 | 312 | 645 | Kay |
-| 313 | 642 | Bri St Peter |
-| 314 | 642 | Julibeth Wells |
+| 313 | 642 | Julibeth Wells |
+| 314 | 642 | Bri St Peter |
 | 315 | 641 | Pooh |
 | 316 | 640 | Jenny |
 | 317 | 639 | Stephany Green |
@@ -330,8 +330,8 @@
 | 322 | 627 | Theresa Marie |
 | 323 | 622 | Lora Via |
 | 324 | 620 | Rachel Nilles |
-| 325 | 618 | Spicy Basepiece |
-| 326 | 618 | Jason Cunningham |
+| 325 | 618 | Jason Cunningham |
+| 326 | 618 | Spicy Basepiece |
 | 327 | 614 | Chill Line |
 | 328 | 613 | Nicole Plummer |
 | 329 | 612 | Greta Warden |
@@ -341,12 +341,12 @@
 | 333 | 606 | Lindsey Ford |
 | 334 | 606 | Michelle Hicks |
 | 335 | 598 | Thomas Tyrone |
-| 336 | 597 | Perky Linebuilder |
-| 337 | 597 | Norma Ortiz |
+| 336 | 597 | Norma Ortiz |
+| 337 | 597 | Perky Linebuilder |
 | 338 | 595 | Liseth Vasquez |
 | 339 | 595 | Sherri E Woods Hess |
-| 340 | 594 | Zany Blockclear |
-| 341 | 594 | Kristi Chestnut |
+| 340 | 594 | Kristi Chestnut |
+| 341 | 594 | Zany Blockclear |
 | 342 | 593 | Justin McCray |
 | 343 | 592 | MaddieCherie |
 | 344 | 580 | Jamin |
@@ -476,12 +476,12 @@
 | 468 | 430 | Firebone |
 | 469 | 429 | Lazy Staggerpiece |
 | 470 | 428 | Keri Mears |
-| 471 | 427 | Mama G |
-| 472 | 426 | Branden Frankowski |
-| 473 | 426 | Spunky Piecebuilder |
-| 474 | 425 | Hypee |
-| 475 | 424 | Jimmy Francis Shasta Bambi |
-| 476 | 424 | Twisty Tower |
+| 471 | 428 | Twisty Tower |
+| 472 | 427 | Mama G |
+| 473 | 426 | Branden Frankowski |
+| 474 | 426 | Spunky Piecebuilder |
+| 475 | 425 | Hypee |
+| 476 | 424 | Jimmy Francis Shasta Bambi |
 | 477 | 423 | Ashley Miller |
 | 478 | 421 | Pamela Raye |
 | 479 | 420 | Logan Duffey |
