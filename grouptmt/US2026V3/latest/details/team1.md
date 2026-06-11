@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:30:20 UTC
+# Standings for team1 as of 2026-06-11 12:31:24 UTC
 
 **Total Participants:** 2483
 
@@ -280,15 +280,15 @@
 | 272 | 647 | Simply-Beautiful007 |
 | 273 | 641 | Marissa Sweet |
 | 274 | 628 | BabyCakes |
-| 275 | 627 | Tobey Marberry |
-| 276 | 625 | Tamara Johnson-Carter |
-| 277 | 623 | Nicole Watson-Dixon |
-| 278 | 623 | Daris Swearington |
-| 279 | 620 | Jessica Carter |
-| 280 | 620 | Tanya Clayton |
-| 281 | 620 | DellaLucretia Thomas |
-| 282 | 619 | Donnie Withthebody |
-| 283 | 615 | SPNLover24 |
+| 275 | 627 | SPNLover24 |
+| 276 | 627 | Tobey Marberry |
+| 277 | 625 | Tamara Johnson-Carter |
+| 278 | 623 | Nicole Watson-Dixon |
+| 279 | 623 | Daris Swearington |
+| 280 | 620 | Jessica Carter |
+| 281 | 620 | Tanya Clayton |
+| 282 | 620 | DellaLucretia Thomas |
+| 283 | 619 | Donnie Withthebody |
 | 284 | 615 | pooh |
 | 285 | 613 | Cheery Linkfall |
 | 286 | 607 | Frisky Fall |
@@ -383,10 +383,10 @@
 | 375 | 482 | Brave Clearbuilder |
 | 376 | 480 | Erica Charlise |
 | 377 | 480 | Ashleyy Netchert |
-| 378 | 476 | MACHETEEDDIE513 |
-| 379 | 476 | AshyTay |
-| 380 | 476 | Nikki Hogan |
-| 381 | 475 | kick it |
+| 378 | 479 | kick it |
+| 379 | 476 | MACHETEEDDIE513 |
+| 380 | 476 | AshyTay |
+| 381 | 476 | Nikki Hogan |
 | 382 | 475 | Vernon Hoyt |
 | 383 | 473 | Lisa420 |
 | 384 | 471 | Jae Thompson-Tyus |
@@ -430,24 +430,24 @@
 | 422 | 434 | Saucy Faller |
 | 423 | 434 | Tajuana Juana'Cee Coleman |
 | 424 | 434 | Wayne Savannah |
-| 425 | 432 | HarleyJane |
-| 426 | 432 | blockman |
-| 427 | 431 | Charlene Baltimore |
-| 428 | 430 | Chilly Wipebuilder |
-| 429 | 430 | John Spath |
-| 430 | 428 | Poppy Buildout |
-| 431 | 428 | Jelyfish |
-| 432 | 427 | Cynthia Cruell |
-| 433 | 426 | Nate Myers |
-| 434 | 425 | Jas |
-| 435 | 422 | The DUBZ |
-| 436 | 420 | Ketrell Bailey |
-| 437 | 419 | Stephen Glaze |
-| 438 | 418 | Cortaz Lawrie |
-| 439 | 417 | Peppy Towerbuilder |
-| 440 | 417 | John Staub |
-| 441 | 416 | Silly Edgepiece |
-| 442 | 415 | LaShaun Stinson |
+| 425 | 433 | LaShaun Stinson |
+| 426 | 432 | HarleyJane |
+| 427 | 432 | blockman |
+| 428 | 431 | Charlene Baltimore |
+| 429 | 430 | Chilly Wipebuilder |
+| 430 | 430 | John Spath |
+| 431 | 428 | Poppy Buildout |
+| 432 | 428 | Jelyfish |
+| 433 | 427 | Cynthia Cruell |
+| 434 | 426 | Nate Myers |
+| 435 | 425 | Jas |
+| 436 | 422 | The DUBZ |
+| 437 | 420 | Ketrell Bailey |
+| 438 | 419 | Stephen Glaze |
+| 439 | 418 | Cortaz Lawrie |
+| 440 | 417 | Peppy Towerbuilder |
+| 441 | 417 | John Staub |
+| 442 | 416 | Silly Edgepiece |
 | 443 | 414 | Sammie Walker |
 | 444 | 414 | Brittanie Wardlow |
 | 445 | 412 | Ashley MyBeauty Daniels |
@@ -477,25 +477,25 @@
 | 469 | 399 | Twisty Pivot |
 | 470 | 398 | Bubbly Piececlear |
 | 471 | 398 | kitten |
-| 472 | 397 | FunTime |
+| 472 | 397 | Ladybug |
 | 473 | 397 | Eric Spencer Whitaker |
-| 474 | 397 | Ladybug |
+| 474 | 397 | FunTime |
 | 475 | 396 | Glitzy Patternline |
 | 476 | 395 | Ysma Simmons |
 | 477 | 395 | Rachel |
 | 478 | 395 | Derrius SeriousLee Burks |
-| 479 | 394 | Tonia Ramos |
-| 480 | 394 | Aaron Hartmann |
+| 479 | 394 | Aaron Hartmann |
+| 480 | 394 | Tonia Ramos |
 | 481 | 393 | Tesiree Cray |
 | 482 | 393 | Tonya Thomas |
 | 483 | 391 | MindlessMic |
-| 484 | 391 | Christina Rebecca |
-| 485 | 391 | Stacy Nicole |
-| 486 | 390 | Jean Regis |
-| 487 | 390 | Daddy |
-| 488 | 390 | Melissa D. M. Hornsby |
-| 489 | 389 | Betsy B. Yohan |
-| 490 | 385 | Centara Goette |
+| 484 | 391 | Stacy Nicole |
+| 485 | 391 | Christina Rebecca |
+| 486 | 390 | Centara Goette |
+| 487 | 390 | Jean Regis |
+| 488 | 390 | Daddy |
+| 489 | 390 | Melissa D. M. Hornsby |
+| 490 | 389 | Betsy B. Yohan |
 | 491 | 385 | Kimberly Anderson |
 | 492 | 383 | James Bryant II |
 | 493 | 382 | McKayla Owens |
