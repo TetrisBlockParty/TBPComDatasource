@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:08:47 UTC
+# Standings for team1 as of 2026-06-11 09:09:24 UTC
 
 **Total Participants:** 2467
 
@@ -1839,120 +1839,120 @@
 | 1831 | 40 | NiingDing |
 | 1832 | 40 | GLO510 |
 | 1833 | 40 | Jerome Davis |
-| 1834 | 40 | DimplezAOS |
-| 1835 | 40 | Dawn Walker |
-| 1836 | 40 | Brandon Dontell Saunders |
-| 1837 | 40 | Breezy Pivoty |
-| 1838 | 40 | RossA |
-| 1839 | 40 | meep |
-| 1840 | 40 | Katrina Trein Bein Dickerson |
-| 1841 | 40 | Boldy Zoner |
-| 1842 | 40 | Crafty Shatterfit |
-| 1843 | 40 | Peachy Pusher |
+| 1834 | 40 | Crafty Shatterfit |
+| 1835 | 40 | meep |
+| 1836 | 40 | Katrina Trein Bein Dickerson |
+| 1837 | 40 | RossA |
+| 1838 | 40 | Breezy Pivoty |
+| 1839 | 40 | Peachy Pusher |
+| 1840 | 40 | Brandon Dontell Saunders |
+| 1841 | 40 | Dawn Walker |
+| 1842 | 40 | Boldy Zoner |
+| 1843 | 40 | DimplezAOS |
 | 1844 | 40 | Chummy Blockpiece |
-| 1845 | 40 | Tamara Farmer |
-| 1846 | 40 | James Dunlap |
-| 1847 | 40 | Flashy Slam |
-| 1848 | 40 | Steve Renelus |
-| 1849 | 40 | Carol Washington |
-| 1850 | 40 | Bumpy Ricketts |
-| 1851 | 40 | Girly Pop |
-| 1852 | 40 | Chuck Gee |
-| 1853 | 40 | Lisa Messerli |
-| 1854 | 39 | cheehooo |
-| 1855 | 39 | LahMar Hunter |
-| 1856 | 39 | Jenine Wiser |
-| 1857 | 39 | Cheeky Wipegrid |
-| 1858 | 39 | Bouncy Base |
-| 1859 | 39 | Deborah |
-| 1860 | 39 | Diva shrock |
-| 1861 | 39 | Katybeth Pauley |
-| 1862 | 39 | LS Jamison |
-| 1863 | 39 | BP Phillips |
-| 1864 | 39 | Rekeia Minding Mine |
-| 1865 | 38 | Kiyeri |
-| 1866 | 38 | Rex |
-| 1867 | 38 | Saucy Patternbuilder |
-| 1868 | 38 | Charlene Marshall |
-| 1869 | 38 | hope |
-| 1870 | 38 | Pastors Du Bose |
+| 1845 | 40 | Chuck Gee |
+| 1846 | 40 | Bumpy Ricketts |
+| 1847 | 40 | Carol Washington |
+| 1848 | 40 | Girly Pop |
+| 1849 | 40 | Flashy Slam |
+| 1850 | 40 | Lisa Messerli |
+| 1851 | 40 | Steve Renelus |
+| 1852 | 40 | James Dunlap |
+| 1853 | 40 | Tamara Farmer |
+| 1854 | 39 | Neesii |
+| 1855 | 39 | Deborah |
+| 1856 | 39 | Diva shrock |
+| 1857 | 39 | LahMar Hunter |
+| 1858 | 39 | Katybeth Pauley |
+| 1859 | 39 | Jenine Wiser |
+| 1860 | 39 | LS Jamison |
+| 1861 | 39 | Cheeky Wipegrid |
+| 1862 | 39 | Bouncy Base |
+| 1863 | 39 | Rekeia Minding Mine |
+| 1864 | 39 | cheehooo |
+| 1865 | 39 | BP Phillips |
+| 1866 | 38 | Zesty Clearer |
+| 1867 | 38 | Rex |
+| 1868 | 38 | Saucy Patternbuilder |
+| 1869 | 38 | Charlene Marshall |
+| 1870 | 38 | hope |
 | 1871 | 38 | scorpiobae |
-| 1872 | 38 | Krista Shanice |
-| 1873 | 38 | Clever Twistbuilder |
-| 1874 | 38 | Mrs . Candy |
-| 1875 | 38 | Snippy T-spin |
-| 1876 | 38 | Zesty Clearer |
-| 1877 | 38 | Nicole Freeman |
+| 1872 | 38 | Pastors Du Bose |
+| 1873 | 38 | Krista Shanice |
+| 1874 | 38 | Clever Twistbuilder |
+| 1875 | 38 | Mrs . Candy |
+| 1876 | 38 | Snippy T-spin |
+| 1877 | 38 | Kiyeri |
 | 1878 | 38 | Crystal Segura |
-| 1879 | 37 | Witty Blockpiece |
-| 1880 | 37 | Cheeky Matchzone |
-| 1881 | 37 | Zachary Sinclair |
+| 1879 | 38 | Nicole Freeman |
+| 1880 | 37 | Witty Blockpiece |
+| 1881 | 37 | Clever Balancepiece |
 | 1882 | 37 | Juniper |
-| 1883 | 37 | kiki |
-| 1884 | 37 | Wacky T-spin |
-| 1885 | 37 | Twisty Cascader |
-| 1886 | 37 | Jb Mzresilience |
-| 1887 | 37 | Clever Balancepiece |
-| 1888 | 37 | Iván Cedeño |
-| 1889 | 36 | Brownie |
-| 1890 | 36 | Tee4 |
-| 1891 | 36 | Megan Dickerson |
-| 1892 | 36 | cupcake |
-| 1893 | 36 | Sean Walker |
-| 1894 | 36 | Kungfupanda |
+| 1883 | 37 | Cheeky Matchzone |
+| 1884 | 37 | Twisty Cascader |
+| 1885 | 37 | Iván Cedeño |
+| 1886 | 37 | Wacky T-spin |
+| 1887 | 37 | kiki |
+| 1888 | 37 | Jb Mzresilience |
+| 1889 | 37 | Zachary Sinclair |
+| 1890 | 36 | Tionka Green |
+| 1891 | 36 | Abdul Saleem |
+| 1892 | 36 | Kungfupanda |
+| 1893 | 36 | Sharon Fears |
+| 1894 | 36 | Mizta Lewis |
 | 1895 | 36 | Jessica Lee |
-| 1896 | 36 | Tionka Green |
-| 1897 | 36 | Mizta Lewis |
-| 1898 | 36 | Sharon Fears |
-| 1899 | 36 | Abdul Saleem |
-| 1900 | 35 | Tiffany Sherman |
-| 1901 | 35 | Damien Johnson |
+| 1896 | 36 | Tee4 |
+| 1897 | 36 | Sean Walker |
+| 1898 | 36 | Megan Dickerson |
+| 1899 | 36 | cupcake |
+| 1900 | 36 | Brownie |
+| 1901 | 35 | Matos Boiz |
 | 1902 | 35 | Frilly Glidepiece |
-| 1903 | 35 | Evee |
-| 1904 | 35 | Charise McGee |
-| 1905 | 35 | Brandy Jaszewski |
-| 1906 | 35 | MissingYou Nini |
-| 1907 | 35 | Margie Toni Corley |
-| 1908 | 35 | X6TRAUMA9X |
+| 1903 | 35 | Margie Toni Corley |
+| 1904 | 35 | Terrance Jenkins |
+| 1905 | 35 | Evee |
+| 1906 | 35 | Nerdy Twistline |
+| 1907 | 35 | X6TRAUMA9X |
+| 1908 | 35 | Charise McGee |
 | 1909 | 35 | np63 |
-| 1910 | 35 | Matos Boiz |
-| 1911 | 35 | jae |
-| 1912 | 35 | Nerdy Twistline |
-| 1913 | 35 | Terrance Jenkins |
-| 1914 | 35 | Christian Whittaker |
-| 1915 | 34 | Daron Montgomery |
-| 1916 | 34 | Jumpy Brickbuilder |
-| 1917 | 34 | Lauren |
-| 1918 | 34 | Zayy Wavyy |
-| 1919 | 34 | Fancy Strikerbuilder |
-| 1920 | 34 | beeutifullll |
-| 1921 | 34 | Plucky Clearpiece |
+| 1910 | 35 | Damien Johnson |
+| 1911 | 35 | Brandy Jaszewski |
+| 1912 | 35 | MissingYou Nini |
+| 1913 | 35 | Christian Whittaker |
+| 1914 | 35 | jae |
+| 1915 | 35 | Tiffany Sherman |
+| 1916 | 34 | Fancy Strikerbuilder |
+| 1917 | 34 | beeutifullll |
+| 1918 | 34 | Daron Montgomery |
+| 1919 | 34 | Jumpy Brickbuilder |
+| 1920 | 34 | Lauren |
+| 1921 | 34 | Zayy Wavyy |
 | 1922 | 34 | Dazee Rogers |
 | 1923 | 34 | Bouncy Brickroll |
-| 1924 | 33 | Brianna Floyd |
-| 1925 | 33 | Kim Ratcliff Leatherman |
-| 1926 | 33 | Neesii |
-| 1927 | 33 | BigDawg Lessley |
-| 1928 | 33 | Koz176 |
-| 1929 | 32 | Shalyn Law |
-| 1930 | 32 | Melissa Embrey |
-| 1931 | 32 | Tiara Hitchcock |
-| 1932 | 32 | Janie Helton |
-| 1933 | 32 | Shericka Taylor |
-| 1934 | 32 | Tiffany Ali Shaw |
-| 1935 | 32 | Van Cunning |
-| 1936 | 32 | Jädaa Laa'Destïnyy |
-| 1937 | 32 | Tasha Stuckey |
-| 1938 | 32 | Betty Joe Lemberg |
-| 1939 | 32 | Wx_Birdie |
-| 1940 | 31 | EchoQuirky Blockclear |
-| 1941 | 31 | Jennifer Diamond |
+| 1924 | 34 | Plucky Clearpiece |
+| 1925 | 33 | Brianna Floyd |
+| 1926 | 33 | Koz176 |
+| 1927 | 33 | Kim Ratcliff Leatherman |
+| 1928 | 33 | BigDawg Lessley |
+| 1929 | 32 | Janie Helton |
+| 1930 | 32 | Van Cunning |
+| 1931 | 32 | Betty Joe Lemberg |
+| 1932 | 32 | Wx_Birdie |
+| 1933 | 32 | Tiffany Ali Shaw |
+| 1934 | 32 | Jädaa Laa'Destïnyy |
+| 1935 | 32 | Shericka Taylor |
+| 1936 | 32 | Tiara Hitchcock |
+| 1937 | 32 | Melissa Embrey |
+| 1938 | 32 | Tasha Stuckey |
+| 1939 | 32 | Shalyn Law |
+| 1940 | 31 | Emily Burgoon |
+| 1941 | 31 | Edward Hickmon |
 | 1942 | 31 | Zippy Slammer |
-| 1943 | 31 | Otavia Gordon |
-| 1944 | 31 | Edward Hickmon |
-| 1945 | 31 | Emily Burgoon |
+| 1943 | 31 | Jennifer Diamond |
+| 1944 | 31 | EchoQuirky Blockclear |
+| 1945 | 31 | Otavia Gordon |
 | 1946 | 31 | Kelly Darty |
-| 1947 | 30 | Jeanne Bitner |
+| 1947 | 30 | Bob Bon |
 | 1948 | 30 | Tipsy Tilt |
 | 1949 | 30 | Moneke Randolph |
 | 1950 | 30 | PS |
@@ -1960,31 +1960,31 @@
 | 1952 | 30 | Biggie Cheeze |
 | 1953 | 30 | Annette DeLoatch Thompson |
 | 1954 | 30 | DeJuan BD |
-| 1955 | 30 | Chavez James |
-| 1956 | 30 | Grace Page |
-| 1957 | 30 | Bob Bon |
+| 1955 | 30 | Jeanne Bitner |
+| 1956 | 30 | Chavez James |
+| 1957 | 30 | Grace Page |
 | 1958 | 30 | Dee |
-| 1959 | 30 | Dremer Clark |
-| 1960 | 30 | Cool Rumbler |
-| 1961 | 30 | DRIFTER |
+| 1959 | 30 | Myca Cooper |
+| 1960 | 30 | Dremer Clark |
+| 1961 | 30 | Cool Rumbler |
 | 1962 | 30 | Dora Greer |
-| 1963 | 30 | Charlean Sims |
+| 1963 | 30 | DRIFTER |
 | 1964 | 30 | Cierra Banks |
-| 1965 | 30 | Myca Cooper |
+| 1965 | 30 | Charlean Sims |
 | 1966 | 30 | Cucumber |
-| 1967 | 29 | Everett Semmions |
-| 1968 | 29 | Ty Brown |
-| 1969 | 29 | Chris Davidson |
-| 1970 | 29 | Cheeky Tiltbuilder |
+| 1967 | 29 | Ty Brown |
+| 1968 | 29 | Chris Davidson |
+| 1969 | 29 | Cheeky Tiltbuilder |
+| 1970 | 29 | Epic Wipepiece |
 | 1971 | 29 | Virginia Beilen |
-| 1972 | 29 | Epic Wipepiece |
+| 1972 | 29 | Everett Semmions |
 | 1973 | 29 | Swanky Linkmatch |
 | 1974 | 29 | Macaroni Meechie Johnson |
 | 1975 | 29 | Candice Mayo |
 | 1976 | 29 | Caprice Taylor |
 | 1977 | 29 | Elizabeth Ragland |
-| 1978 | 28 | Dannie Brown |
-| 1979 | 28 | Raevon Bailey |
+| 1978 | 28 | Raevon Bailey |
+| 1979 | 28 | Dannie Brown |
 | 1980 | 28 | Carlotta L Parker |
 | 1981 | 28 | Keera425 |
 | 1982 | 28 | Zany Edgepiece |
