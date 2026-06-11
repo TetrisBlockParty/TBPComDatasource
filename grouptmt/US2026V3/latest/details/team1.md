@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:44:46 UTC
+# Standings for team1 as of 2026-06-11 08:45:25 UTC
 
 **Total Participants:** 2466
 
@@ -8,7 +8,7 @@
 | :- | :- | :- |
 | 1 | 56500 | Ariel |
 | 2 | 22000 | Kalynn Parks |
-| 3 | 18431 | Death by SnuSnu |
+| 3 | 18631 | Death by SnuSnu |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13741 | Peppy Piececlear |
 | 6 | 13684 | Carrie English |
@@ -186,8 +186,8 @@
 | 178 | 947 | Keke Ferguson |
 | 179 | 946 | Smiley3000 |
 | 180 | 942 | Chuck Quarles |
-| 181 | 927 | Novaa |
-| 182 | 926 | xXEKUNXx |
+| 181 | 933 | xXEKUNXx |
+| 182 | 927 | Novaa |
 | 183 | 926 | Ebony Waynes-robinson |
 | 184 | 921 | win |
 | 185 | 913 | JaszyBadd |
@@ -425,62 +425,62 @@
 | 417 | 425 | Jas |
 | 418 | 423 | Jai |
 | 419 | 421 | Jae Thompson-Tyus |
-| 420 | 420 | HarleyJane |
-| 421 | 420 | Ketrell Bailey |
+| 420 | 420 | Ketrell Bailey |
+| 421 | 420 | HarleyJane |
 | 422 | 419 | Stephen Glaze |
-| 423 | 418 | Cortaz Lawrie |
-| 424 | 418 | kick it |
+| 423 | 418 | kick it |
+| 424 | 418 | Cortaz Lawrie |
 | 425 | 417 | Peppy Towerbuilder |
-| 426 | 414 | Wayne Savannah |
-| 427 | 414 | Brittanie Wardlow |
+| 426 | 414 | Brittanie Wardlow |
+| 427 | 414 | Wayne Savannah |
 | 428 | 412 | Matthieu Pistone |
 | 429 | 412 | Jessica Kirby |
 | 430 | 411 | Giggy Tower |
 | 431 | 410 | Salim Thugger |
 | 432 | 409 | Amber Wilson |
-| 433 | 409 | Melanin Monroe-Dandridge |
-| 434 | 409 | Still Ten Tay |
-| 435 | 409 | KeeKee Williams |
-| 436 | 409 | Lisa Fletcher |
+| 433 | 409 | KeeKee Williams |
+| 434 | 409 | Lisa Fletcher |
+| 435 | 409 | Melanin Monroe-Dandridge |
+| 436 | 409 | Still Ten Tay |
 | 437 | 408 | Kimberly Linares Hernandez |
-| 438 | 405 | Sherry D Singleton |
-| 439 | 405 | De'Nell Edwards |
+| 438 | 405 | C Lo Green |
+| 439 | 405 | Sherry D Singleton |
 | 440 | 405 | Jennah |
-| 441 | 405 | Bubbly Slammer |
-| 442 | 405 | C Lo Green |
+| 441 | 405 | De'Nell Edwards |
+| 442 | 405 | Bubbly Slammer |
 | 443 | 404 | Montego Allen |
 | 444 | 402 | Trusi Rusi |
 | 445 | 401 | Cynda Cyn |
 | 446 | 401 | Kelli Couture |
-| 447 | 400 | Bbyunicorn |
-| 448 | 400 | Sara Meri |
+| 447 | 400 | Sara Meri |
+| 448 | 400 | Bbyunicorn |
 | 449 | 400 | Denell Sims |
-| 450 | 399 | LaShaun Stinson |
-| 451 | 399 | Twisty Pivot |
+| 450 | 399 | Twisty Pivot |
+| 451 | 399 | LaShaun Stinson |
 | 452 | 398 | kitten |
 | 453 | 398 | Bubbly Piececlear |
 | 454 | 397 | Ladybug |
-| 455 | 396 | Glitzy Patternline |
-| 456 | 396 | Nikki Hogan |
+| 455 | 396 | Nikki Hogan |
+| 456 | 396 | Glitzy Patternline |
 | 457 | 395 | Derrius SeriousLee Burks |
-| 458 | 395 | Sammie Walker |
-| 459 | 395 | Rachel |
-| 460 | 394 | Ashley MyBeauty Daniels |
-| 461 | 394 | Tonia Ramos |
+| 458 | 395 | Rachel |
+| 459 | 395 | Sammie Walker |
+| 460 | 394 | Tonia Ramos |
+| 461 | 394 | Ashley MyBeauty Daniels |
 | 462 | 393 | Tonya Thomas |
 | 463 | 393 | Tesiree Cray |
-| 464 | 391 | Slinky Snapbuilder |
-| 465 | 391 | MindlessMic |
-| 466 | 391 | Christina Rebecca |
+| 464 | 391 | Christina Rebecca |
+| 465 | 391 | Slinky Snapbuilder |
+| 466 | 391 | MindlessMic |
 | 467 | 391 | Stacy Nicole |
-| 468 | 390 | Jean Regis |
-| 469 | 390 | Yadira Salgado |
-| 470 | 390 | Melissa D. M. Hornsby |
+| 468 | 390 | Yadira Salgado |
+| 469 | 390 | Melissa D. M. Hornsby |
+| 470 | 390 | Jean Regis |
 | 471 | 389 | Koreen Johnson-Woolford |
 | 472 | 389 | Betsy B. Yohan |
-| 473 | 386 | Shalya Terry |
-| 474 | 386 | Tajuana Juana'Cee Coleman |
-| 475 | 385 | Eric Spencer Whitaker |
+| 473 | 387 | Eric Spencer Whitaker |
+| 474 | 386 | Shalya Terry |
+| 475 | 386 | Tajuana Juana'Cee Coleman |
 | 476 | 385 | Kimberly Anderson |
 | 477 | 383 | FunTime |
 | 478 | 382 | McKayla Owens |
@@ -997,34 +997,34 @@
 | 989 | 182 | Lexx Robins |
 | 990 | 182 | Comedian Prince Paul |
 | 991 | 182 | Callie Mae |
-| 992 | 181 | Tamyka E Williams |
-| 993 | 181 | Marc Papa |
+| 992 | 181 | Marc Papa |
+| 993 | 181 | Tamyka E Williams |
 | 994 | 181 | Maria Baez Medina |
 | 995 | 181 | Rosanna Ringold |
 | 996 | 180 | Keith Big-Sixx Mackell |
 | 997 | 180 | LAdYPOLy |
 | 998 | 180 | Hasty Pivoty |
-| 999 | 179 | Kahh |
-| 1000 | 179 | Wacky Stackbuilder |
-| 1001 | 179 | Mumitt |
-| 1002 | 179 | Boymama917 |
+| 999 | 179 | Wacky Stackbuilder |
+| 1000 | 179 | Mumitt |
+| 1001 | 179 | Boymama917 |
+| 1002 | 179 | Kahh |
 | 1003 | 179 | Lively Rollpiece |
-| 1004 | 178 | Tyrone Porter |
+| 1004 | 178 | TotoCherue |
 | 1005 | 178 | Michelle Stottlemyer |
-| 1006 | 178 | TotoCherue |
+| 1006 | 178 | Tyrone Porter |
 | 1007 | 177 | nashsr |
 | 1008 | 176 | Taylor Jordan Hollis |
-| 1009 | 176 | April Lane |
-| 1010 | 176 | Frisky Gridder |
+| 1009 | 176 | Frisky Gridder |
+| 1010 | 176 | April Lane |
 | 1011 | 175 | DaemahnFriday |
 | 1012 | 175 | Melvin Simpson |
 | 1013 | 174 | Austin Smith |
-| 1014 | 173 | Damien Fonseca |
-| 1015 | 173 | Latanya Gayle |
-| 1016 | 171 | Deihja Weaver |
-| 1017 | 171 | Abdul Malik |
-| 1018 | 171 | Shanell Thomas |
-| 1019 | 171 | Brandi M. Boney |
+| 1014 | 173 | Brandi M. Boney |
+| 1015 | 173 | Damien Fonseca |
+| 1016 | 173 | Latanya Gayle |
+| 1017 | 171 | Deihja Weaver |
+| 1018 | 171 | Abdul Malik |
+| 1019 | 171 | Shanell Thomas |
 | 1020 | 171 | Margretta Henry |
 | 1021 | 171 | Cheery Strikerbuilder |
 | 1022 | 171 | Pinky Pink |

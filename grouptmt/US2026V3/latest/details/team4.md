@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:44:46 UTC
+# Standings for team4 as of 2026-06-11 08:45:25 UTC
 
 **Total Participants:** 2504
 
@@ -42,13 +42,13 @@
 | 34 | 4841 | Daring Ziggy |
 | 35 | 4678 | Leigh Pierce |
 | 36 | 4657 | Victoria Ver |
-| 37 | 4319 | Tonya Brooks-Johnson |
-| 38 | 4315 | Sherry Mooney |
-| 39 | 4221 | TitiLo72 |
-| 40 | 4179 | Witty Clicky |
-| 41 | 4145 | Blind Bette |
-| 42 | 4142 | Jeanette Hailey |
-| 43 | 3993 | Bryan DjMagnum Evans |
+| 37 | 4384 | Bryan DjMagnum Evans |
+| 38 | 4319 | Tonya Brooks-Johnson |
+| 39 | 4315 | Sherry Mooney |
+| 40 | 4221 | TitiLo72 |
+| 41 | 4179 | Witty Clicky |
+| 42 | 4145 | Blind Bette |
+| 43 | 4142 | Jeanette Hailey |
 | 44 | 3923 | Fruitpunch |
 | 45 | 3922 | Dana Rinaldi |
 | 46 | 3776 | Dana Smith |
@@ -267,9 +267,9 @@
 | 259 | 659 | Krysten Danielle Richard |
 | 260 | 655 | Pandala Mandala |
 | 261 | 651 | Dayna Arthurs |
-| 262 | 649 | Tina Thomas |
-| 263 | 649 | Logan Two-dubs Baker |
-| 264 | 648 | QueenLi86 |
+| 262 | 651 | QueenLi86 |
+| 263 | 649 | Tina Thomas |
+| 264 | 649 | Logan Two-dubs Baker |
 | 265 | 646 | Jacqueline Jackii Ramos |
 | 266 | 644 | Yesenia Castro Monreal |
 | 267 | 643 | Matthew Hudson |
@@ -592,8 +592,8 @@
 | 584 | 318 | Valerie Marrero |
 | 585 | 317 | Chelsea Guajardo |
 | 586 | 317 | Elli Wright |
-| 587 | 317 | crobb77 |
-| 588 | 317 | LaTanya GeminiondaRise Johnson |
+| 587 | 317 | LaTanya GeminiondaRise Johnson |
+| 588 | 317 | crobb77 |
 | 589 | 317 | Stef |
 | 590 | 316 | Dawn Phelps |
 | 591 | 316 | Ashlee Lemus |
@@ -631,12 +631,12 @@
 | 623 | 300 | Kiara Itzel Crowe |
 | 624 | 300 | Ada Rodriguez Spradley |
 | 625 | 299 | Jacinta Hooker-Brown |
-| 626 | 298 | Snippy Racker |
-| 627 | 298 | Brenda Gustamantes |
+| 626 | 298 | Brenda Gustamantes |
+| 627 | 298 | Snippy Racker |
 | 628 | 298 | PsyDMom |
 | 629 | 298 | Elissa Danks |
-| 630 | 297 | Swanky Snapgrid |
-| 631 | 297 | Playa |
+| 630 | 297 | Playa |
+| 631 | 297 | Swanky Snapgrid |
 | 632 | 295 | Redhead girl |
 | 633 | 295 | Heather Garrity |
 | 634 | 295 | Carmen Angelica Sosa |
@@ -644,66 +644,66 @@
 | 636 | 294 | Edward White |
 | 637 | 294 | Mrs |
 | 638 | 294 | Erika Rubio |
-| 639 | 292 | Rachel Lemos |
-| 640 | 292 | All knowing |
-| 641 | 289 | Mighty1 |
-| 642 | 289 | Will E Ayala |
-| 643 | 288 | MattJennifer Marie Ericson |
-| 644 | 288 | Happy Shatterfit |
-| 645 | 288 | Corie A. Brinson |
-| 646 | 288 | chefjaydawg |
-| 647 | 288 | Andretta Sellers Robinson |
-| 648 | 288 | Sarah |
-| 649 | 287 | Mc3003 |
+| 639 | 294 | chefjaydawg |
+| 640 | 292 | Rachel Lemos |
+| 641 | 292 | All knowing |
+| 642 | 289 | Mighty1 |
+| 643 | 289 | Will E Ayala |
+| 644 | 288 | MattJennifer Marie Ericson |
+| 645 | 288 | Happy Shatterfit |
+| 646 | 288 | Corie A. Brinson |
+| 647 | 288 | Sarah |
+| 648 | 288 | alxhue04 |
+| 649 | 288 | Andretta Sellers Robinson |
 | 650 | 287 | sierrabeth |
-| 651 | 287 | Jeremy Barry |
-| 652 | 286 | DizzB400 |
-| 653 | 286 | Gean DeJesus |
-| 654 | 285 | Brainbabe |
-| 655 | 285 | JoJo Hutson |
-| 656 | 283 | Nessa Smith |
-| 657 | 283 | Chris McBlockster |
-| 658 | 282 | Cozy Towerpiece |
-| 659 | 282 | David Lay |
-| 660 | 281 | Margie Thomas |
-| 661 | 281 | Andrea Dre Lomeli |
-| 662 | 281 | DrC |
+| 651 | 287 | Mc3003 |
+| 652 | 287 | Jeremy Barry |
+| 653 | 286 | DizzB400 |
+| 654 | 286 | Gean DeJesus |
+| 655 | 285 | Brainbabe |
+| 656 | 285 | JoJo Hutson |
+| 657 | 283 | Nessa Smith |
+| 658 | 283 | Chris McBlockster |
+| 659 | 282 | Cozy Towerpiece |
+| 660 | 282 | David Lay |
+| 661 | 281 | Margie Thomas |
+| 662 | 281 | Andrea Dre Lomeli |
 | 663 | 281 | Raising Stars |
-| 664 | 281 | Anthony Edwards |
-| 665 | 280 | Jimmy Clark |
-| 666 | 280 | Giddy Basepiece |
-| 667 | 280 | Sharon Tyler |
-| 668 | 279 | LandO |
-| 669 | 278 | Deb 07 |
-| 670 | 277 | Anna Ryan |
-| 671 | 277 | Kuar T Ejen |
-| 672 | 276 | Sarah |
-| 673 | 276 | Allysha McFarland |
+| 664 | 281 | DrC |
+| 665 | 281 | Anthony Edwards |
+| 666 | 280 | Jimmy Clark |
+| 667 | 280 | Giddy Basepiece |
+| 668 | 280 | Sharon Tyler |
+| 669 | 279 | LandO |
+| 670 | 278 | Deb 07 |
+| 671 | 277 | Anna Ryan |
+| 672 | 277 | Kuar T Ejen |
+| 673 | 276 | Sarah |
 | 674 | 276 | pussface |
-| 675 | 276 | Stacy G |
-| 676 | 275 | Taisha Beasley |
-| 677 | 275 | Marcus Fontenot |
-| 678 | 274 | Dominique Summers Tah-tah |
-| 679 | 274 | Sarah Montagne Forsberg |
-| 680 | 274 | Zesty Lift |
-| 681 | 274 | Kiki Moore |
-| 682 | 274 | Mmm |
-| 683 | 274 | Justin Ballard |
-| 684 | 273 | Blessedmom865 |
-| 685 | 273 | Kennita Cox |
-| 686 | 272 | Chelsea Costa |
-| 687 | 271 | Adi Patterson |
+| 675 | 276 | Allysha McFarland |
+| 676 | 276 | Stacy G |
+| 677 | 275 | Taisha Beasley |
+| 678 | 275 | Marcus Fontenot |
+| 679 | 274 | Dominique Summers Tah-tah |
+| 680 | 274 | Sarah Montagne Forsberg |
+| 681 | 274 | Mmm |
+| 682 | 274 | Kiki Moore |
+| 683 | 274 | Zesty Lift |
+| 684 | 274 | Justin Ballard |
+| 685 | 273 | Blessedmom865 |
+| 686 | 273 | Kennita Cox |
+| 687 | 272 | Chelsea Costa |
 | 688 | 271 | Suzi Smas |
-| 689 | 271 | Lord Solrac |
-| 690 | 270 | Loretta Hendricks |
-| 691 | 270 | Tana-Marie Lynn McCarty-Rolf |
-| 692 | 270 | Carissa Thorne-See |
-| 693 | 270 | Dawn Renee Thomas |
-| 694 | 270 | Kelli Hurt |
-| 695 | 269 | Saucy Brickmatch |
-| 696 | 269 | Playful Raccoon |
-| 697 | 269 | Shia Marie |
-| 698 | 268 | alxhue04 |
+| 689 | 271 | Adi Patterson |
+| 690 | 271 | Lord Solrac |
+| 691 | 270 | Loretta Hendricks |
+| 692 | 270 | Tana-Marie Lynn McCarty-Rolf |
+| 693 | 270 | Kelli Hurt |
+| 694 | 270 | Dawn Renee Thomas |
+| 695 | 270 | Carissa Thorne-See |
+| 696 | 269 | Shia Marie |
+| 697 | 269 | Saucy Brickmatch |
+| 698 | 269 | Playful Raccoon |
 | 699 | 268 | Andreas Vs Shinky |
 | 700 | 268 | bribop |
 | 701 | 268 | Janae Harris |

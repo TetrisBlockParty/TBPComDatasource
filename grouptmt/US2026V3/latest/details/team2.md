@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:44:46 UTC
+# Standings for team2 as of 2026-06-11 08:45:25 UTC
 
 **Total Participants:** 2935
 
@@ -14,7 +14,7 @@
 | 6 | 14612 | Lacey Nolting |
 | 7 | 14576 | Crystalin Heath Lewis |
 | 8 | 13761 | Brandon Brown |
-| 9 | 13330 | Mellzey |
+| 9 | 13426 | Mellzey |
 | 10 | 12760 | Cori Keberlein |
 | 11 | 12553 | Jason Wood |
 | 12 | 11800 | Crafty Ziggy |
@@ -24,7 +24,7 @@
 | 16 | 9620 | A.j. Langley |
 | 17 | 9262 | Maggie McFarland |
 | 18 | 9228 | Christina Shell |
-| 19 | 8931 | Bobbi |
+| 19 | 9017 | Bobbi |
 | 20 | 8427 | Elizabeth Mooney |
 | 21 | 8400 | Jennifer Knott |
 | 22 | 8343 | Andre Love |
@@ -92,12 +92,12 @@
 | 84 | 2604 | Marquita Toliver |
 | 85 | 2554 | Frilly Dashfit |
 | 86 | 2549 | Epic Frame |
-| 87 | 2458 | Eileen Egan |
-| 88 | 2444 | AcardBoardBox |
-| 89 | 2419 | Katelyn Rodgers |
-| 90 | 2400 | missat |
-| 91 | 2399 | Monica Galli |
-| 92 | 2398 | Jolly Slice |
+| 87 | 2548 | Jolly Slice |
+| 88 | 2458 | Eileen Egan |
+| 89 | 2444 | AcardBoardBox |
+| 90 | 2419 | Katelyn Rodgers |
+| 91 | 2400 | missat |
+| 92 | 2399 | Monica Galli |
 | 93 | 2394 | Peppy Roll |
 | 94 | 2329 | Karen Reid Cenkush |
 | 95 | 2323 | Angie Mccain |
@@ -161,8 +161,8 @@
 | 153 | 1354 | Jaime P Lamb |
 | 154 | 1351 | Mirr Lulu |
 | 155 | 1350 | Hoppy Rotate |
-| 156 | 1350 | Denise Potter |
-| 157 | 1350 | Sigmamom |
+| 156 | 1350 | Sigmamom |
+| 157 | 1350 | Denise Potter |
 | 158 | 1323 | joey |
 | 159 | 1321 | Allison Jarman |
 | 160 | 1296 | Shea |
@@ -203,8 +203,8 @@
 | 195 | 1028 | Wacky Dashfit |
 | 196 | 1016 | Robin G |
 | 197 | 1003 | Giddy Climber |
-| 198 | 1000 | Sydney Headley |
-| 199 | 1000 | MarioKarasovic |
+| 198 | 1000 | MarioKarasovic |
+| 199 | 1000 | Sydney Headley |
 | 200 | 1000 | Rhonda Diebold |
 | 201 | 996 | Amber Miller Wirick |
 | 202 | 991 | Steven |
@@ -1199,9 +1199,9 @@
 | 1191 | 180 | Amy Renaud |
 | 1192 | 180 | Cheryl Graves Downard |
 | 1193 | 180 | Tasha Gilbert |
-| 1194 | 179 | Sue Fuzy |
+| 1194 | 179 | SarahandAaron Prim |
 | 1195 | 179 | Mee Maw |
-| 1196 | 179 | SarahandAaron Prim |
+| 1196 | 179 | Sue Fuzy |
 | 1197 | 179 | Funko Dave |
 | 1198 | 179 | Jennifer Vitro |
 | 1199 | 178 | Saucy Lifter |
@@ -1210,17 +1210,17 @@
 | 1202 | 178 | Annie Hebdon |
 | 1203 | 177 | Marcia Monroe |
 | 1204 | 177 | CAL1KAWS559 |
-| 1205 | 177 | Nicole Treadway |
-| 1206 | 177 | STARFIRE |
+| 1205 | 177 | STARFIRE |
+| 1206 | 177 | Nicole Treadway |
 | 1207 | 176 | Tucker Catherman |
 | 1208 | 176 | Kimberley Marie |
 | 1209 | 176 | Erin Winberry |
 | 1210 | 176 | bozzycat |
 | 1211 | 175 | Michelle Edgin Tranbarger |
 | 1212 | 175 | Beachmama |
-| 1213 | 175 | Ducky West |
+| 1213 | 175 | Kiersty Redder |
 | 1214 | 175 | James Moore |
-| 1215 | 175 | Kiersty Redder |
+| 1215 | 175 | Ducky West |
 | 1216 | 174 | Giggly Spinblock |
 | 1217 | 174 | Kelly Christine Trimmer |
 | 1218 | 174 | Pamela Gambrell |
@@ -1230,15 +1230,15 @@
 | 1222 | 173 | Tami Weiss |
 | 1223 | 173 | Smiley Clearer |
 | 1224 | 172 | Shannon Vanlester |
-| 1225 | 172 | Trisha Farley |
-| 1226 | 172 | LeighAnn Loftis |
-| 1227 | 172 | Signerlisa |
-| 1228 | 171 | Ryan Sanders |
-| 1229 | 171 | Morgan Olson Pingree |
-| 1230 | 171 | Grimwitch |
-| 1231 | 171 | Megan McDevitt |
-| 1232 | 171 | Paige Lynette Sohl |
-| 1233 | 171 | Helen Townsend |
+| 1225 | 172 | Signerlisa |
+| 1226 | 172 | Trisha Farley |
+| 1227 | 172 | LeighAnn Loftis |
+| 1228 | 171 | Morgan Olson Pingree |
+| 1229 | 171 | Ryan Sanders |
+| 1230 | 171 | Megan McDevitt |
+| 1231 | 171 | Paige Lynette Sohl |
+| 1232 | 171 | Helen Townsend |
+| 1233 | 171 | Grimwitch |
 | 1234 | 170 | Zet block |
 | 1235 | 170 | Tommi Lynn Lawson |
 | 1236 | 170 | David Blocker |
@@ -1246,64 +1246,64 @@
 | 1238 | 170 | Devon |
 | 1239 | 170 | Ashley Eneboe |
 | 1240 | 169 | Angelique Matzke Starns |
-| 1241 | 169 | Jacy Pickett |
-| 1242 | 169 | Frothy Zonebuilder |
-| 1243 | 169 | Wendy Michelle Wise-Ledford |
-| 1244 | 169 | grey panther |
+| 1241 | 169 | Frothy Zonebuilder |
+| 1242 | 169 | Megan Wolfe |
+| 1243 | 169 | Jacy Pickett |
+| 1244 | 169 | Wendy Michelle Wise-Ledford |
 | 1245 | 169 | Joey Grillo |
-| 1246 | 169 | Stazy Warner |
-| 1247 | 168 | Danyell Flood-Morning |
-| 1248 | 168 | Peyton Groce |
-| 1249 | 168 | Erica Abreu |
-| 1250 | 168 | Thomas Chris |
-| 1251 | 168 | Bruni |
-| 1252 | 167 | Robert W Schwartz |
-| 1253 | 167 | Alisha Shelton |
-| 1254 | 167 | Joseph Mejia |
-| 1255 | 167 | Cara Rivera |
-| 1256 | 167 | Aeryal Snow |
-| 1257 | 167 | Brandy Westfall-panchari |
-| 1258 | 166 | Alexis Abner |
-| 1259 | 166 | LyndaLou |
-| 1260 | 166 | Belinda Head |
+| 1246 | 169 | grey panther |
+| 1247 | 169 | Stazy Warner |
+| 1248 | 168 | Bruni |
+| 1249 | 168 | Danyell Flood-Morning |
+| 1250 | 168 | Peyton Groce |
+| 1251 | 168 | Erica Abreu |
+| 1252 | 168 | Thomas Chris |
+| 1253 | 167 | Robert W Schwartz |
+| 1254 | 167 | Alisha Shelton |
+| 1255 | 167 | Joseph Mejia |
+| 1256 | 167 | Cara Rivera |
+| 1257 | 167 | Aeryal Snow |
+| 1258 | 167 | Brandy Westfall-panchari |
+| 1259 | 166 | Alexis Abner |
+| 1260 | 166 | LyndaLou |
 | 1261 | 166 | Amanda Jungclaus |
-| 1262 | 165 | Cassafrass |
-| 1263 | 165 | Bubbly Liner |
+| 1262 | 166 | Belinda Head |
+| 1263 | 165 | Britnee M Karg |
 | 1264 | 165 | Julie Lint |
-| 1265 | 165 | gurlieheart |
-| 1266 | 165 | Britnee M Karg |
-| 1267 | 165 | Black Sheep |
-| 1268 | 165 | Swanky Twister |
+| 1265 | 165 | Cassafrass |
+| 1266 | 165 | gurlieheart |
+| 1267 | 165 | Bubbly Liner |
+| 1268 | 165 | Chris Delauro |
 | 1269 | 165 | Matt Solomon |
-| 1270 | 165 | Chris Delauro |
-| 1271 | 165 | Loony Ziggy |
-| 1272 | 165 | Shaylee Haltiner |
-| 1273 | 164 | Silly Tiltbuilder |
-| 1274 | 164 | Miguel360 |
-| 1275 | 164 | Megan Wolfe |
+| 1270 | 165 | Black Sheep |
+| 1271 | 165 | Swanky Twister |
+| 1272 | 165 | Loony Ziggy |
+| 1273 | 165 | Shaylee Haltiner |
+| 1274 | 164 | Silly Tiltbuilder |
+| 1275 | 164 | Miguel360 |
 | 1276 | 163 | Fancy Stacker |
 | 1277 | 163 | Rochelle O'Loughlin |
 | 1278 | 163 | Zany Cascader |
 | 1279 | 163 | Yany |
 | 1280 | 163 | Armordguy |
-| 1281 | 162 | Christina Kearns |
-| 1282 | 162 | Lu Wallace |
-| 1283 | 162 | Silly Cluster |
-| 1284 | 162 | shell |
-| 1285 | 162 | Toni Tortorici Humphryes |
-| 1286 | 161 | TyGur the Tony |
-| 1287 | 161 | TaLisa Walton |
-| 1288 | 160 | Chey22 |
+| 1281 | 162 | Silly Cluster |
+| 1282 | 162 | shell |
+| 1283 | 162 | Toni Tortorici Humphryes |
+| 1284 | 162 | Lu Wallace |
+| 1285 | 162 | Christina Kearns |
+| 1286 | 161 | TaLisa Walton |
+| 1287 | 161 | TyGur the Tony |
+| 1288 | 160 | Frank Laverty |
 | 1289 | 160 | Tipsy Twistbuilder |
-| 1290 | 160 | Frank Laverty |
-| 1291 | 160 | Casie |
-| 1292 | 160 | Nerdy Spinfit |
-| 1293 | 160 | Christi Hooper |
-| 1294 | 160 | Gloria Appleton |
-| 1295 | 160 | Loriane Shumate Griggs |
-| 1296 | 160 | ll Patton |
-| 1297 | 160 | Cassey Feller |
-| 1298 | 160 | Tiffany Ann |
+| 1290 | 160 | Casie |
+| 1291 | 160 | Loriane Shumate Griggs |
+| 1292 | 160 | ll Patton |
+| 1293 | 160 | Cassey Feller |
+| 1294 | 160 | Christi Hooper |
+| 1295 | 160 | Gloria Appleton |
+| 1296 | 160 | Chey22 |
+| 1297 | 160 | Tiffany Ann |
+| 1298 | 160 | Nerdy Spinfit |
 | 1299 | 160 | Billie Jensen |
 | 1300 | 160 | Elizabeth Cornelius |
 | 1301 | 160 | Amber Simonton |
