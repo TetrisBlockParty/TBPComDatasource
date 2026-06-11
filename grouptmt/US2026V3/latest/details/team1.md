@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:18:25 UTC
+# Standings for team1 as of 2026-06-11 11:19:24 UTC
 
 **Total Participants:** 2476
 
@@ -337,7 +337,7 @@
 | 329 | 523 | Bre Poston |
 | 330 | 521 | Jawaun Daniels |
 | 331 | 521 | Shanaa Germany Crittenden |
-| 332 | 516 | Steve Reno |
+| 332 | 519 | Steve Reno |
 | 333 | 516 | Jayjay Rich |
 | 334 | 515 | Queenie Perry |
 | 335 | 513 | Analiza Ramos |
@@ -430,12 +430,12 @@
 | 422 | 427 | Cynthia Cruell |
 | 423 | 427 | kick it |
 | 424 | 426 | Nate Myers |
-| 425 | 425 | Jas |
-| 426 | 423 | Jai |
-| 427 | 422 | The DUBZ |
-| 428 | 421 | Kelli Couture |
-| 429 | 420 | Ketrell Bailey |
-| 430 | 420 | HarleyJane |
+| 425 | 426 | HarleyJane |
+| 426 | 425 | Jas |
+| 427 | 424 | Kelli Couture |
+| 428 | 423 | Jai |
+| 429 | 422 | The DUBZ |
+| 430 | 420 | Ketrell Bailey |
 | 431 | 419 | Stephen Glaze |
 | 432 | 418 | Cortaz Lawrie |
 | 433 | 417 | Peppy Towerbuilder |
@@ -443,15 +443,15 @@
 | 435 | 414 | Brittanie Wardlow |
 | 436 | 412 | Matthieu Pistone |
 | 437 | 412 | Jessica Kirby |
-| 438 | 411 | Giggy Tower |
-| 439 | 410 | Salim Thugger |
-| 440 | 409 | Amber Wilson |
-| 441 | 409 | Lisa Fletcher |
-| 442 | 409 | Melanin Monroe-Dandridge |
-| 443 | 409 | Still Ten Tay |
-| 444 | 409 | Holly Baker |
+| 438 | 412 | Gbnola |
+| 439 | 411 | Giggy Tower |
+| 440 | 410 | Salim Thugger |
+| 441 | 409 | Holly Baker |
+| 442 | 409 | Lisa Fletcher |
+| 443 | 409 | Melanin Monroe-Dandridge |
+| 444 | 409 | Still Ten Tay |
 | 445 | 409 | KeeKee Williams |
-| 446 | 409 | Gbnola |
+| 446 | 409 | Amber Wilson |
 | 447 | 408 | Kimberly Linares Hernandez |
 | 448 | 405 | C Lo Green |
 | 449 | 405 | Sherry D Singleton |
@@ -1117,54 +1117,54 @@
 | 1109 | 150 | Anthony T. Fults |
 | 1110 | 150 | WReckitraff |
 | 1111 | 149 | Macho Lewis |
-| 1112 | 148 | Alison Emmons |
-| 1113 | 148 | Zany Patternblock |
-| 1114 | 148 | Evelyn Epps |
-| 1115 | 148 | Raymond Boosie Freeman |
-| 1116 | 147 | Charika Marie Bergmann |
-| 1117 | 147 | Taimir Colón |
-| 1118 | 147 | Benjamin Livingston |
-| 1119 | 147 | Sean Parham |
+| 1112 | 148 | Evelyn Epps |
+| 1113 | 148 | Alison Emmons |
+| 1114 | 148 | Raymond Boosie Freeman |
+| 1115 | 148 | Zany Patternblock |
+| 1116 | 147 | Sean Parham |
+| 1117 | 147 | Charika Marie Bergmann |
+| 1118 | 147 | Taimir Colón |
+| 1119 | 147 | Benjamin Livingston |
 | 1120 | 146 | Vortex Viniq |
-| 1121 | 146 | Paul Doty |
-| 1122 | 146 | Jojo M |
-| 1123 | 145 | Jennifer Moore |
-| 1124 | 145 | Jumpy Gridlock |
-| 1125 | 144 | Tammy Collins |
-| 1126 | 143 | Caitlin Michele |
-| 1127 | 143 | Beautiful314 |
-| 1128 | 141 | Happy Blockpiece |
-| 1129 | 141 | star |
-| 1130 | 141 | sunstar |
-| 1131 | 141 | Tiana Monique |
-| 1132 | 140 | Lazy Chiseler |
-| 1133 | 140 | Ebie |
+| 1121 | 146 | Jojo M |
+| 1122 | 146 | Paul Doty |
+| 1123 | 146 | Eugenia Vanclusen |
+| 1124 | 145 | Jennifer Moore |
+| 1125 | 145 | Jumpy Gridlock |
+| 1126 | 144 | Tammy Collins |
+| 1127 | 143 | Caitlin Michele |
+| 1128 | 143 | Beautiful314 |
+| 1129 | 141 | Tiana Monique |
+| 1130 | 141 | Happy Blockpiece |
+| 1131 | 141 | sunstar |
+| 1132 | 141 | star |
+| 1133 | 140 | Lazy Chiseler |
 | 1134 | 140 | Anthony Intrabartolo |
-| 1135 | 140 | Tipsy Bricky |
-| 1136 | 140 | Lynette Manning |
-| 1137 | 140 | Kimberly Noble |
-| 1138 | 139 | Brave Gridmatch |
-| 1139 | 139 | LaTonya Collier |
-| 1140 | 139 | Ruth Ann SotoRogers |
-| 1141 | 139 | Elaine Youmans |
-| 1142 | 139 | Ivan Israel |
-| 1143 | 139 | OneBuke FollowMe |
-| 1144 | 139 | Chyna Blacc |
-| 1145 | 138 | Hasty Slammer |
+| 1135 | 140 | Ebie |
+| 1136 | 140 | Kimberly Noble |
+| 1137 | 140 | Lynette Manning |
+| 1138 | 140 | Tipsy Bricky |
+| 1139 | 139 | Brave Gridmatch |
+| 1140 | 139 | Ivan Israel |
+| 1141 | 139 | OneBuke FollowMe |
+| 1142 | 139 | Chyna Blacc |
+| 1143 | 139 | Elaine Youmans |
+| 1144 | 139 | Ruth Ann SotoRogers |
+| 1145 | 139 | LaTonya Collier |
 | 1146 | 138 | GiantBehemoth |
-| 1147 | 138 | Jazzy Bridger |
-| 1148 | 138 | Franklin Sotelo |
-| 1149 | 138 | Shanae Beasley |
-| 1150 | 137 | Eugenia Vanclusen |
-| 1151 | 137 | Nayyirah Hariyyan |
-| 1152 | 137 | Corbin Henry |
+| 1147 | 138 | Hasty Slammer |
+| 1148 | 138 | Jazzy Bridger |
+| 1149 | 138 | Franklin Sotelo |
+| 1150 | 138 | Shanae Beasley |
+| 1151 | 137 | Corbin Henry |
+| 1152 | 137 | Nayyirah Hariyyan |
 | 1153 | 137 | Wacky Dashgrid |
 | 1154 | 137 | Shaun Anderson |
 | 1155 | 136 | mya |
-| 1156 | 136 | Christina A Patterson |
-| 1157 | 136 | Christopher Wallace |
-| 1158 | 136 | Rissa Rozay |
-| 1159 | 136 | Christopher Shaw-Black |
+| 1156 | 136 | Rissa Rozay |
+| 1157 | 136 | Christina A Patterson |
+| 1158 | 136 | Christopher Shaw-Black |
+| 1159 | 136 | Christopher Wallace |
 | 1160 | 136 | Kendra KJ Joyner |
 | 1161 | 136 | Smiley Bridgepiece |
 | 1162 | 136 | Storie Harris |
