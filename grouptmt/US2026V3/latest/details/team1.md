@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:22:25 UTC
+# Standings for team1 as of 2026-06-11 11:23:24 UTC
 
 **Total Participants:** 2477
 
@@ -12,7 +12,7 @@
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13741 | Peppy Piececlear |
 | 6 | 13684 | Carrie English |
-| 7 | 13381 | Timothy Robert |
+| 7 | 13431 | Timothy Robert |
 | 8 | 12803 | Charlie Roehm |
 | 9 | 12469 | Erika Windom |
 | 10 | 12049 | Tipsy Tetriblast |
@@ -59,7 +59,7 @@
 | 51 | 2900 | Rosey |
 | 52 | 2680 | Jamie Willis |
 | 53 | 2672 | Epic Snapfall |
-| 54 | 2637 | Chris Caniglia |
+| 54 | 2639 | Chris Caniglia |
 | 55 | 2630 | Snappy Link |
 | 56 | 2625 | Blockhead |
 | 57 | 2619 | Zappy Brickline |
@@ -566,18 +566,18 @@
 | 558 | 338 | Daniel Santana |
 | 559 | 337 | Angela Brown Babin |
 | 560 | 337 | Nora Mahmoud |
-| 561 | 336 | Shakmar |
-| 562 | 336 | Silly Edgepiece |
-| 563 | 335 | Tracy Feyler |
-| 564 | 335 | Nona Harriel |
-| 565 | 335 | Phillip Vasquez |
+| 561 | 336 | Silly Edgepiece |
+| 562 | 336 | Shakmar |
+| 563 | 335 | Phillip Vasquez |
+| 564 | 335 | Tracy Feyler |
+| 565 | 335 | Nona Harriel |
 | 566 | 334 | Yashica Smith |
 | 567 | 334 | Kristine Marie Palmer |
 | 568 | 331 | Mrs.Ann |
-| 569 | 330 | Tracey Johnson |
-| 570 | 330 | Tito Divyn |
-| 571 | 329 | Chris Watson Draper |
-| 572 | 329 | Tiffany Jean Hinson |
+| 569 | 330 | Tito Divyn |
+| 570 | 330 | Tracey Johnson |
+| 571 | 329 | Tiffany Jean Hinson |
+| 572 | 329 | Chris Watson Draper |
 | 573 | 329 | Shelly Everette |
 | 574 | 328 | LaShawyn Wood |
 | 575 | 327 | Hardtohandle91 |
@@ -588,29 +588,29 @@
 | 580 | 324 | Kristie |
 | 581 | 323 | Bea Dyer-Fields |
 | 582 | 322 | TNT |
-| 583 | 321 | Iceman |
-| 584 | 321 | Andra Ward |
-| 585 | 321 | Kàrma Lee |
-| 586 | 321 | LuckyStar |
-| 587 | 321 | Terri Smart |
-| 588 | 320 | Centara Goette |
-| 589 | 320 | Phongoudom Tika |
+| 583 | 321 | Daring Riserfit |
+| 584 | 321 | Iceman |
+| 585 | 321 | Andra Ward |
+| 586 | 321 | Kàrma Lee |
+| 587 | 321 | LuckyStar |
+| 588 | 321 | Terri Smart |
+| 589 | 320 | Centara Goette |
 | 590 | 320 | Valerie Alexander |
 | 591 | 320 | Malcolm Stanley |
-| 592 | 319 | Zany Breaker |
-| 593 | 319 | Ciera Peace |
-| 594 | 319 | TY Newme Batts |
-| 595 | 319 | Zappy Snapgrid |
-| 596 | 319 | Christi Walker Patton |
-| 597 | 318 | Daring Riserfit |
+| 592 | 320 | Phongoudom Tika |
+| 593 | 319 | Zany Breaker |
+| 594 | 319 | Ciera Peace |
+| 595 | 319 | TY Newme Batts |
+| 596 | 319 | Zappy Snapgrid |
+| 597 | 319 | Christi Walker Patton |
 | 598 | 318 | Poppy Twister |
-| 599 | 318 | Marlainia Boyd |
-| 600 | 318 | Latore Maxie |
-| 601 | 318 | Nerdy Snapfall |
-| 602 | 317 | Bambi Johnson |
-| 603 | 317 | Mister Reid |
-| 604 | 317 | Chris Holland |
-| 605 | 317 | Monica Tovar |
+| 599 | 318 | Latore Maxie |
+| 600 | 318 | Nerdy Snapfall |
+| 601 | 318 | Marlainia Boyd |
+| 602 | 317 | Monica Tovar |
+| 603 | 317 | Bambi Johnson |
+| 604 | 317 | Mister Reid |
+| 605 | 317 | Chris Holland |
 | 606 | 316 | Comedian Gdane |
 | 607 | 314 | Dana Hawes |
 | 608 | 314 | Breezy Dashpiece |
