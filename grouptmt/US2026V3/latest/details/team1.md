@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 12:40:24 UTC
+# Standings for team1 as of 2026-06-11 12:41:20 UTC
 
 **Total Participants:** 2484
 
@@ -57,7 +57,7 @@
 | 49 | 2909 | Therealdywoune Peay |
 | 50 | 2903 | BlackQueen105 |
 | 51 | 2900 | Rosey |
-| 52 | 2752 | Epic Snapfall |
+| 52 | 2766 | Epic Snapfall |
 | 53 | 2680 | Jamie Willis |
 | 54 | 2647 | Chris Caniglia |
 | 55 | 2632 | D'Andra Stewart |
@@ -314,11 +314,11 @@
 | 306 | 573 | Telisha Mims |
 | 307 | 571 | Block |
 | 308 | 568 | Joey Albright |
-| 309 | 566 | Christopher Dreamsareality McEachin |
-| 310 | 565 | Shanaa Germany Crittenden |
-| 311 | 563 | Jhonny Maii |
-| 312 | 563 | Simmone T. Kadiri |
-| 313 | 554 | Qwlonda Shirrell |
+| 309 | 567 | Qwlonda Shirrell |
+| 310 | 566 | Christopher Dreamsareality McEachin |
+| 311 | 565 | Shanaa Germany Crittenden |
+| 312 | 563 | Jhonny Maii |
+| 313 | 563 | Simmone T. Kadiri |
 | 314 | 553 | Giggly Tiltbuilder |
 | 315 | 549 | Chasem45 |
 | 316 | 548 | Amy Villalpando |
@@ -327,13 +327,13 @@
 | 319 | 543 | Steve Reno |
 | 320 | 541 | Clever Fitblock |
 | 321 | 541 | Penee Wiggins |
-| 322 | 539 | Rayya Kiser |
-| 323 | 536 | Char |
-| 324 | 535 | Tina Mitchell |
-| 325 | 534 | Dacia Hicks |
-| 326 | 533 | Bunnie Celtavini |
-| 327 | 532 | NastyFriend |
-| 328 | 532 | Koi |
+| 322 | 540 | Koi |
+| 323 | 539 | Rayya Kiser |
+| 324 | 536 | Char |
+| 325 | 535 | Tina Mitchell |
+| 326 | 534 | Dacia Hicks |
+| 327 | 533 | Bunnie Celtavini |
+| 328 | 532 | NastyFriend |
 | 329 | 532 | Jessica Russell |
 | 330 | 531 | Tarnisha Neicy Jones |
 | 331 | 531 | Kesha Brady |
@@ -450,22 +450,22 @@
 | 442 | 417 | John Staub |
 | 443 | 416 | Tay |
 | 444 | 416 | Silly Edgepiece |
-| 445 | 414 | Sammie Walker |
-| 446 | 414 | Brittanie Wardlow |
-| 447 | 412 | Matthieu Pistone |
+| 445 | 414 | Brittanie Wardlow |
+| 446 | 414 | Sammie Walker |
+| 447 | 412 | Jessica Kirby |
 | 448 | 412 | Ashley MyBeauty Daniels |
-| 449 | 412 | Jessica Kirby |
+| 449 | 412 | Matthieu Pistone |
 | 450 | 411 | Giggy Tower |
-| 451 | 410 | Salim Thugger |
-| 452 | 410 | Kimberly Linares Hernandez |
-| 453 | 409 | Holly Baker |
-| 454 | 409 | Melanin Monroe-Dandridge |
-| 455 | 409 | Lisa Fletcher |
-| 456 | 409 | Still Ten Tay |
-| 457 | 409 | Amber Wilson |
-| 458 | 409 | KeeKee Williams |
-| 459 | 406 | kitten |
-| 460 | 405 | Centara Goette |
+| 451 | 410 | Centara Goette |
+| 452 | 410 | Salim Thugger |
+| 453 | 410 | Kimberly Linares Hernandez |
+| 454 | 409 | Holly Baker |
+| 455 | 409 | Melanin Monroe-Dandridge |
+| 456 | 409 | Lisa Fletcher |
+| 457 | 409 | Still Ten Tay |
+| 458 | 409 | Amber Wilson |
+| 459 | 409 | KeeKee Williams |
+| 460 | 406 | kitten |
 | 461 | 405 | De'Nell Edwards |
 | 462 | 405 | C Lo Green |
 | 463 | 405 | Sherry D Singleton |

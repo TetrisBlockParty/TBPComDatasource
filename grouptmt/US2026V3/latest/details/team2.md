@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 12:40:24 UTC
+# Standings for team2 as of 2026-06-11 12:41:20 UTC
 
 **Total Participants:** 2954
 
@@ -121,7 +121,7 @@
 | 113 | 2027 | Heather Marie-Tarlton Britt |
 | 114 | 2018 | Deborah Boyce Minor |
 | 115 | 2000 | Jazzy Faller |
-| 116 | 1940 | Josh Twilley |
+| 116 | 1980 | Josh Twilley |
 | 117 | 1937 | Cathy Tippett |
 | 118 | 1934 | Loopy Cascadepiece |
 | 119 | 1929 | Gabriella Humphreys |
@@ -147,7 +147,7 @@
 | 139 | 1548 | Anissa Moore |
 | 140 | 1547 | Lily |
 | 141 | 1546 | snowwol |
-| 142 | 1541 | alf |
+| 142 | 1546 | alf |
 | 143 | 1521 | Renee Freeman Jacobson |
 | 144 | 1510 | Shandrea Crawford |
 | 145 | 1498 | Tim Tim |
@@ -219,7 +219,7 @@
 | 211 | 991 | Steven |
 | 212 | 989 | Lashanda Bertram |
 | 213 | 988 | Dane Marko |
-| 214 | 981 | Hoppy Linkblock |
+| 214 | 984 | Hoppy Linkblock |
 | 215 | 978 | Crystal Allen |
 | 216 | 974 | Jat |
 | 217 | 973 | Chasity Simpson |
@@ -272,10 +272,10 @@
 | 264 | 842 | Kevin Mccoy |
 | 265 | 842 | Becca Marie |
 | 266 | 840 | Frisky Tiltgrid |
-| 267 | 837 | Janice |
-| 268 | 835 | Wacky Rollbuilder |
-| 269 | 835 | Sandra Ruiz |
-| 270 | 835 | Zarah Kettler |
+| 267 | 838 | Zarah Kettler |
+| 268 | 837 | Janice |
+| 269 | 835 | Wacky Rollbuilder |
+| 270 | 835 | Sandra Ruiz |
 | 271 | 827 | SilentBuffalo |
 | 272 | 825 | Marilyn Strickland |
 | 273 | 824 | Mom |
@@ -650,17 +650,17 @@
 | 642 | 367 | Frisky Twist |
 | 643 | 366 | Ozge Akgun Tokat |
 | 644 | 365 | Lee Leonard |
-| 645 | 364 | Robert Brewster |
-| 646 | 364 | Joannah Capilitan |
-| 647 | 364 | Frisky Linkbuilder |
-| 648 | 363 | Hyper Striker |
-| 649 | 361 | Bianca Woodruff |
-| 650 | 361 | Julie Brown |
-| 651 | 361 | Busted9mm |
-| 652 | 360 | Teloney Humphrey |
-| 653 | 360 | Sharilyn Jackson |
-| 654 | 360 | Bouncy Snapmatch |
-| 655 | 360 | Vicke Patterson |
+| 645 | 365 | Vicke Patterson |
+| 646 | 364 | Robert Brewster |
+| 647 | 364 | Joannah Capilitan |
+| 648 | 364 | Frisky Linkbuilder |
+| 649 | 363 | Hyper Striker |
+| 650 | 361 | Bianca Woodruff |
+| 651 | 361 | Julie Brown |
+| 652 | 361 | Busted9mm |
+| 653 | 360 | Teloney Humphrey |
+| 654 | 360 | Sharilyn Jackson |
+| 655 | 360 | Bouncy Snapmatch |
 | 656 | 359 | Sarah Grundisch |
 | 657 | 359 | Michele Stewart |
 | 658 | 359 | Eric Wayne Maschman |
@@ -670,8 +670,8 @@
 | 662 | 357 | Brandy Chinelle |
 | 663 | 356 | Perky Rollfit |
 | 664 | 354 | Spencer Ryder |
-| 665 | 352 | Muffin Popper |
-| 666 | 352 | Amber Marie |
+| 665 | 352 | Amber Marie |
+| 666 | 352 | Muffin Popper |
 | 667 | 352 | Raine |
 | 668 | 351 | Sydney Cheyenne |
 | 669 | 351 | SunnySquare |
@@ -763,16 +763,16 @@
 | 755 | 312 | Mariya Cline |
 | 756 | 312 | Melissa Pronovost |
 | 757 | 312 | whocares |
-| 758 | 311 | Holly Barefoot |
-| 759 | 311 | Alonzo Reed |
-| 760 | 310 | Ashley Diana |
-| 761 | 310 | WhitS |
-| 762 | 310 | Glitzy Roll |
-| 763 | 309 | Jami Borges |
-| 764 | 309 | Peachy Wipegrid |
-| 765 | 308 | Stetson Tetris |
-| 766 | 308 | YAKO |
-| 767 | 308 | Cindy Scott |
+| 758 | 311 | Cindy Scott |
+| 759 | 311 | Holly Barefoot |
+| 760 | 311 | Alonzo Reed |
+| 761 | 310 | Ashley Diana |
+| 762 | 310 | WhitS |
+| 763 | 310 | Glitzy Roll |
+| 764 | 309 | Jami Borges |
+| 765 | 309 | Peachy Wipegrid |
+| 766 | 308 | Stetson Tetris |
+| 767 | 308 | YAKO |
 | 768 | 308 | Jamie Adams |
 | 769 | 307 | GiGi Cool |
 | 770 | 307 | Nikki Sadler |
@@ -869,13 +869,13 @@
 | 861 | 276 | Dustin Bumbalough |
 | 862 | 276 | Connie McCoy |
 | 863 | 276 | NickandJess Reynolds |
-| 864 | 275 | Trisha Schneider |
-| 865 | 275 | rebel4lyfe |
-| 866 | 274 | Clever Gridzone |
-| 867 | 274 | Christine James |
-| 868 | 273 | Lisa Chapman |
-| 869 | 272 | Lydia Shonee |
-| 870 | 271 | Rachel Wooldridge |
+| 864 | 275 | Rachel Wooldridge |
+| 865 | 275 | Trisha Schneider |
+| 866 | 275 | rebel4lyfe |
+| 867 | 274 | Clever Gridzone |
+| 868 | 274 | Christine James |
+| 869 | 273 | Lisa Chapman |
+| 870 | 272 | Lydia Shonee |
 | 871 | 271 | ASL |
 | 872 | 271 | Spicy Balanceblock |
 | 873 | 270 | Cool Balancer |
