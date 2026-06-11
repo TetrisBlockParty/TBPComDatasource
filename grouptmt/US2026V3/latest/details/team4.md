@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 02:00:47 UTC
+# Standings for team4 as of 2026-06-11 02:01:23 UTC
 
 **Total Participants:** 2436
 
@@ -197,8 +197,8 @@
 | 189 | 850 | Shiny Dashy |
 | 190 | 847 | Christy Beezley-Forbush |
 | 191 | 842 | Bean |
-| 192 | 841 | Lynn Grimes |
-| 193 | 841 | Pepone Pepe |
+| 192 | 841 | Pepone Pepe |
+| 193 | 841 | Lynn Grimes |
 | 194 | 840 | CIRAZYPNOY |
 | 195 | 838 | Jennifer Ellyn Sheets |
 | 196 | 836 | Cinta Marie |
@@ -212,8 +212,8 @@
 | 204 | 806 | Gracie Ornelas |
 | 205 | 801 | Baysoph |
 | 206 | 801 | Izz |
-| 207 | 800 | Magz |
-| 208 | 800 | Spicy Chicken |
+| 207 | 800 | Spicy Chicken |
+| 208 | 800 | Magz |
 | 209 | 790 | LastBoi |
 | 210 | 784 | Shocinda Sherwood |
 | 211 | 783 | Regina Williams |
@@ -225,9 +225,9 @@
 | 217 | 749 | Nikki Fuller Johnson |
 | 218 | 748 | Bonnie Powell |
 | 219 | 746 | Chuck Burns |
-| 220 | 738 | Megan Vick |
+| 220 | 739 | Snippy Splitter |
 | 221 | 738 | Malik Thompson |
-| 222 | 736 | Snippy Splitter |
+| 222 | 738 | Megan Vick |
 | 223 | 735 | iiPurgeV2 |
 | 224 | 734 | Tricia Motika Cowan |
 | 225 | 728 | Jackie Miller |
@@ -691,8 +691,8 @@
 | 683 | 260 | Keke Johnson |
 | 684 | 260 | Kiara Itzel Crowe |
 | 685 | 259 | Jessica Peyton |
-| 686 | 258 | Rae Saunders |
-| 687 | 258 | Daring Towerer |
+| 686 | 258 | Daring Towerer |
+| 687 | 258 | Rae Saunders |
 | 688 | 257 | Spicy Peach |
 | 689 | 256 | pussface |
 | 690 | 256 | Honey Honey |
@@ -710,33 +710,33 @@
 | 702 | 249 | Megan Lynn |
 | 703 | 249 | Virgil Mayfield-Brown |
 | 704 | 249 | Edward White |
-| 705 | 249 | Brennan Shea Greene |
-| 706 | 248 | Anna Ryan |
-| 707 | 248 | Ayobribri |
-| 708 | 247 | Adi Patterson |
-| 709 | 247 | Shauna Davis |
-| 710 | 247 | aga |
-| 711 | 247 | Brandon Bedenbaugh |
-| 712 | 247 | Kelly Miller Williams |
-| 713 | 246 | KingCas |
-| 714 | 245 | Raising Stars |
-| 715 | 245 | Marcus Fontenot |
-| 716 | 245 | Stotty |
-| 717 | 245 | Csigirlnc |
+| 705 | 249 | Csigirlnc |
+| 706 | 249 | Brennan Shea Greene |
+| 707 | 248 | Anna Ryan |
+| 708 | 248 | Ayobribri |
+| 709 | 247 | Adi Patterson |
+| 710 | 247 | Shauna Davis |
+| 711 | 247 | aga |
+| 712 | 247 | Brandon Bedenbaugh |
+| 713 | 247 | Kelly Miller Williams |
+| 714 | 246 | KingCas |
+| 715 | 245 | Raising Stars |
+| 716 | 245 | Marcus Fontenot |
+| 717 | 245 | Stotty |
 | 718 | 245 | 1694AF |
 | 719 | 245 | Ilia Blake |
 | 720 | 244 | Chilly Pop |
 | 721 | 244 | Maliyah An |
 | 722 | 244 | Poppy Snapfall |
 | 723 | 244 | Paula Renee McCracken |
-| 724 | 243 | Brandy Lynn |
-| 725 | 243 | Playful Raccoon |
-| 726 | 242 | Deb 07 |
-| 727 | 242 | MrLoner Stoner |
+| 724 | 243 | Playful Raccoon |
+| 725 | 243 | Brandy Lynn |
+| 726 | 242 | MrLoner Stoner |
+| 727 | 242 | Deb 07 |
 | 728 | 242 | Redhead girl |
 | 729 | 241 | Memphiago Tenninois |
-| 730 | 241 | Mrsjcraw18 |
-| 731 | 241 | Allysonjo Varela |
+| 730 | 241 | Allysonjo Varela |
+| 731 | 241 | Mrsjcraw18 |
 | 732 | 240 | Nerdy Brickster |
 | 733 | 240 | Lori Lynn |
 | 734 | 239 | Chelle Williams |
@@ -744,8 +744,8 @@
 | 736 | 238 | Capt'n Crunch |
 | 737 | 238 | Tara Delay Hill |
 | 738 | 237 | Amber Jalbert |
-| 739 | 237 | Trishaann Triplett |
-| 740 | 237 | Erica Pompey |
+| 739 | 237 | Erica Pompey |
+| 740 | 237 | Trishaann Triplett |
 | 741 | 236 | JoJo Hutson |
 | 742 | 236 | Trang Nguyen |
 | 743 | 236 | Domo Dpn |
@@ -2059,9 +2059,9 @@
 | 2051 | 25 | MoCa |
 | 2052 | 25 | Wacky Clearzone |
 | 2053 | 25 | Rebecca Booth |
-| 2054 | 25 | Joseph Gay |
-| 2055 | 25 | Joyell Mersiel |
-| 2056 | 25 | Chad N Tori Steiner |
+| 2054 | 25 | Chad N Tori Steiner |
+| 2055 | 25 | Joseph Gay |
+| 2056 | 25 | Joyell Mersiel |
 | 2057 | 25 | Spunky Winder |
 | 2058 | 25 | Jessica Lee Christy |
 | 2059 | 25 | Happy Slamdrop |
@@ -2071,46 +2071,46 @@
 | 2063 | 24 | Sandra Magaly Rivera Medina |
 | 2064 | 24 | Bouncy Brickmatch |
 | 2065 | 24 | Snippy Twister |
-| 2066 | 24 | Sindee Fell |
+| 2066 | 24 | Giggy Clicky |
 | 2067 | 24 | Bouncy Splitter |
 | 2068 | 24 | Snappy Blockzone |
 | 2069 | 24 | Hannah White |
 | 2070 | 24 | Lively Setter |
-| 2071 | 24 | Flashy Wipebuilder |
-| 2072 | 24 | Katiana Gonzalez |
-| 2073 | 24 | Tonya Raymundo |
-| 2074 | 23 | Monika Webb |
-| 2075 | 23 | Frank Brown |
-| 2076 | 23 | Carole Dyment Westcott |
-| 2077 | 23 | Anthony Cushing |
-| 2078 | 23 | Crafty Builderfit |
+| 2071 | 24 | Sindee Fell |
+| 2072 | 24 | Flashy Wipebuilder |
+| 2073 | 24 | Katiana Gonzalez |
+| 2074 | 24 | Tonya Raymundo |
+| 2075 | 23 | Monika Webb |
+| 2076 | 23 | Frank Brown |
+| 2077 | 23 | Carole Dyment Westcott |
+| 2078 | 23 | Anthony Cushing |
 | 2079 | 23 | Mike Adkins |
-| 2080 | 23 | Lisa Jo Merwin |
-| 2081 | 23 | Katie Stewart |
-| 2082 | 23 | Samantha Mayhall |
-| 2083 | 23 | Jennifer Dixon |
+| 2080 | 23 | Crafty Builderfit |
+| 2081 | 23 | Lisa Jo Merwin |
+| 2082 | 23 | Katie Stewart |
+| 2083 | 23 | Samantha Mayhall |
 | 2084 | 23 | Mystie Malotte |
 | 2085 | 23 | Peachy Tiltpiece |
 | 2086 | 23 | Loony Brickzone |
 | 2087 | 23 | Iceebelle |
-| 2088 | 23 | Anthony |
-| 2089 | 23 | Anthony Pickens |
+| 2088 | 23 | Anthony Pickens |
+| 2089 | 23 | Anthony |
 | 2090 | 23 | Terrick Robinson |
-| 2091 | 22 | Sarah McAllister |
+| 2091 | 23 | Jennifer Dixon |
 | 2092 | 22 | ThickyJicky |
-| 2093 | 22 | Reuben Determination Dixon |
-| 2094 | 22 | Diana Torres |
-| 2095 | 22 | Slinky Edgefit |
-| 2096 | 22 | Chipper Brickfit |
-| 2097 | 22 | Catherine Sandoval |
+| 2093 | 22 | Sarah McAllister |
+| 2094 | 22 | Reuben Determination Dixon |
+| 2095 | 22 | Diana Torres |
+| 2096 | 22 | Slinky Edgefit |
+| 2097 | 22 | Chipper Brickfit |
 | 2098 | 22 | Bianca Harris |
-| 2099 | 22 | Chipper Bridger |
-| 2100 | 22 | Giggy Clicky |
+| 2099 | 22 | Catherine Sandoval |
+| 2100 | 22 | Chipper Bridger |
 | 2101 | 22 | Renee Short Anthony |
 | 2102 | 22 | McScrubby |
 | 2103 | 22 | Richierich Gonzalez |
 | 2104 | 21 | Happy shelli |
-| 2105 | 21 | LOLO |
+| 2105 | 21 | Honnala Vaughn |
 | 2106 | 21 | Froggyone |
 | 2107 | 21 | Hope Fallen |
 | 2108 | 21 | Sophia Hinton |
@@ -2120,7 +2120,7 @@
 | 2112 | 21 | Luluski Ward |
 | 2113 | 21 | Ak Jones |
 | 2114 | 21 | Zanny |
-| 2115 | 21 | Honnala Vaughn |
+| 2115 | 21 | LOLO |
 | 2116 | 20 | Paulo Simba Kanga |
 | 2117 | 20 | Dapper Clicker |
 | 2118 | 20 | Tammy Thomas Peterson |
