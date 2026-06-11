@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 13:20:23 UTC
+# Standings for team1 as of 2026-06-11 13:21:25 UTC
 
 **Total Participants:** 2489
 
@@ -108,8 +108,8 @@
 | 100 | 1668 | La'Chae Nickole |
 | 101 | 1647 | Dawn L Washington-Feuquay |
 | 102 | 1645 | Tameka Jones |
-| 103 | 1639 | Loopy Block |
-| 104 | 1621 | LeeLee08 |
+| 103 | 1641 | LeeLee08 |
+| 104 | 1639 | Loopy Block |
 | 105 | 1612 | Danielle DeLozier Plesec |
 | 106 | 1606 | BYM4L |
 | 107 | 1598 | Voice |
@@ -127,8 +127,8 @@
 | 119 | 1494 | Robbie Cheeseman |
 | 120 | 1473 | rls |
 | 121 | 1467 | Crystal Boyd |
-| 122 | 1457 | Sarah Marie |
-| 123 | 1454 | Spicy Balancer |
+| 122 | 1464 | Spicy Balancer |
+| 123 | 1457 | Sarah Marie |
 | 124 | 1440 | Ashley Espeut |
 | 125 | 1432 | She Higgy |
 | 126 | 1426 | Cj Gorman |
@@ -191,8 +191,8 @@
 | 183 | 950 | Andi McGreevy |
 | 184 | 949 | Chuck Quarles |
 | 185 | 946 | Smiley3000 |
-| 186 | 935 | Dandy Brickfit |
-| 187 | 935 | Ebony Waynes-robinson |
+| 186 | 935 | Ebony Waynes-robinson |
+| 187 | 935 | Dandy Brickfit |
 | 188 | 927 | Nobles Brandon |
 | 189 | 927 | Novaa |
 | 190 | 921 | win |
@@ -206,8 +206,8 @@
 | 198 | 887 | Tessa Gaskin |
 | 199 | 883 | Choc |
 | 200 | 881 | Karebear |
-| 201 | 876 | Tamara N Lee |
-| 202 | 875 | Gael Quintana |
+| 201 | 878 | Gael Quintana |
+| 202 | 876 | Tamara N Lee |
 | 203 | 869 | Shontanese Adams |
 | 204 | 866 | Trendalyn Webb |
 | 205 | 862 | LaSharmeika Fancher |
@@ -321,7 +321,7 @@
 | 313 | 565 | Shanaa Germany Crittenden |
 | 314 | 563 | Jhonny Maii |
 | 315 | 563 | Simmone T. Kadiri |
-| 316 | 558 | Steve Reno |
+| 316 | 559 | Steve Reno |
 | 317 | 553 | Giggly Tiltbuilder |
 | 318 | 549 | Chasem45 |
 | 319 | 548 | Amy Villalpando |
@@ -425,21 +425,21 @@
 | 417 | 444 | kitten |
 | 418 | 444 | Amy Lynn Leifheit |
 | 419 | 441 | LaTonya Myers |
-| 420 | 441 | Dennis J Herron II |
-| 421 | 441 | Lyn Reed |
+| 420 | 441 | Lyn Reed |
+| 421 | 441 | Dennis J Herron II |
 | 422 | 439 | Asani CHumba |
 | 423 | 439 | Smiley Clearpiece |
-| 424 | 438 | CJ Robinson |
-| 425 | 438 | Tipsy Linkroll |
+| 424 | 438 | Tipsy Linkroll |
+| 425 | 438 | CJ Robinson |
 | 426 | 436 | Gbnola |
-| 427 | 434 | Saucy Faller |
-| 428 | 434 | Wayne Savannah |
-| 429 | 434 | Tajuana Juana'Cee Coleman |
-| 430 | 433 | LaShaun Stinson |
-| 431 | 432 | HarleyJane |
-| 432 | 432 | blockman |
-| 433 | 431 | Charlene Baltimore |
-| 434 | 431 | Tonia Ramos |
+| 427 | 434 | Tajuana Juana'Cee Coleman |
+| 428 | 434 | Tonia Ramos |
+| 429 | 434 | Saucy Faller |
+| 430 | 434 | Wayne Savannah |
+| 431 | 433 | LaShaun Stinson |
+| 432 | 432 | HarleyJane |
+| 433 | 432 | blockman |
+| 434 | 431 | Charlene Baltimore |
 | 435 | 430 | John Spath |
 | 436 | 430 | Chilly Wipebuilder |
 | 437 | 429 | Amber Wilson |
@@ -493,8 +493,8 @@
 | 485 | 394 | Aaron Hartmann |
 | 486 | 393 | Tonya Thomas |
 | 487 | 393 | Tesiree Cray |
-| 488 | 391 | Stacy Nicole |
-| 489 | 391 | Tosha Michelle |
+| 488 | 392 | Tosha Michelle |
+| 489 | 391 | Stacy Nicole |
 | 490 | 391 | whatever |
 | 491 | 391 | Jovy |
 | 492 | 391 | Christina Rebecca |
@@ -1267,47 +1267,47 @@
 | 1259 | 118 | Shanna Green Williams |
 | 1260 | 118 | Tanisha Robinson |
 | 1261 | 118 | Leslie Ann |
-| 1262 | 118 | Michelle Dollah |
-| 1263 | 117 | Cheery Clusterbuilder |
-| 1264 | 117 | Andrea Jackson |
-| 1265 | 116 | Elizabeth Green |
-| 1266 | 116 | Tonya Carroll |
-| 1267 | 116 | Jeffrey Pierce-Overton |
-| 1268 | 116 | Amanda Bell |
-| 1269 | 116 | Demetrice Buck Wilson |
-| 1270 | 116 | Daring Linkfall |
-| 1271 | 116 | Bouncy Blockclear |
-| 1272 | 116 | OleGey |
-| 1273 | 116 | Torrie Eckrote |
-| 1274 | 115 | Tiffany Weathersby |
+| 1262 | 118 | Giggy Rollfit |
+| 1263 | 118 | Michelle Dollah |
+| 1264 | 117 | Cheery Clusterbuilder |
+| 1265 | 117 | Andrea Jackson |
+| 1266 | 116 | Elizabeth Green |
+| 1267 | 116 | Tonya Carroll |
+| 1268 | 116 | Jeffrey Pierce-Overton |
+| 1269 | 116 | Amanda Bell |
+| 1270 | 116 | Demetrice Buck Wilson |
+| 1271 | 116 | Daring Linkfall |
+| 1272 | 116 | Torrie Eckrote |
+| 1273 | 116 | Bouncy Blockclear |
+| 1274 | 116 | OleGey |
 | 1275 | 115 | Shiny Lift |
 | 1276 | 115 | WOOLFF |
 | 1277 | 115 | Quwana Hall |
-| 1278 | 114 | Pharen Oneofakind Frazier |
+| 1278 | 115 | Tiffany Weathersby |
 | 1279 | 114 | Amy Thomas |
 | 1280 | 114 | Cherita Copney |
 | 1281 | 114 | Elizabeth Clara |
-| 1282 | 113 | Sha Anderson |
-| 1283 | 113 | Giggy Rollfit |
-| 1284 | 113 | Bohdi |
-| 1285 | 113 | Wacky Spinfit |
-| 1286 | 112 | Embracing Hair |
+| 1282 | 114 | Pharen Oneofakind Frazier |
+| 1283 | 113 | Bohdi |
+| 1284 | 113 | Wacky Spinfit |
+| 1285 | 113 | Sha Anderson |
+| 1286 | 112 | Elizabeth Hopkins |
 | 1287 | 112 | GamerQueenDS |
-| 1288 | 112 | Elizabeth Hopkins |
-| 1289 | 111 | midnightxtoker |
-| 1290 | 111 | Letrishia Andrews |
-| 1291 | 111 | Daring Snaplink |
-| 1292 | 111 | Alicia Lei |
-| 1293 | 111 | Francisco R. Avalos |
-| 1294 | 111 | Dandy Shatterer |
-| 1295 | 111 | Fred Caston |
-| 1296 | 111 | Jack Mehof |
-| 1297 | 111 | Khatyrah Burnette |
+| 1288 | 112 | Embracing Hair |
+| 1289 | 111 | Francisco R. Avalos |
+| 1290 | 111 | Khatyrah Burnette |
+| 1291 | 111 | Jack Mehof |
+| 1292 | 111 | Dandy Shatterer |
+| 1293 | 111 | Fred Caston |
+| 1294 | 111 | Alicia Lei |
+| 1295 | 111 | midnightxtoker |
+| 1296 | 111 | Daring Snaplink |
+| 1297 | 111 | Letrishia Andrews |
 | 1298 | 110 | Silly Spinblock |
 | 1299 | 110 | Boldy Matchfit |
 | 1300 | 110 | PattyPower |
-| 1301 | 110 | Tweet Turner |
-| 1302 | 110 | Swanky Riserfit |
+| 1301 | 110 | Swanky Riserfit |
+| 1302 | 110 | Tweet Turner |
 | 1303 | 110 | S.S |
 | 1304 | 109 | Jeremy Myers |
 | 1305 | 109 | Darlene Johnson |
