@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:39:23 UTC
+# Standings for team1 as of 2026-06-11 18:40:24 UTC
 
 **Total Participants:** 2519
 
@@ -201,8 +201,8 @@
 | 193 | 953 | Ebony Waynes-robinson |
 | 194 | 952 | Ebony |
 | 195 | 950 | Andi McGreevy |
-| 196 | 949 | Chuck Quarles |
-| 197 | 947 | TT |
+| 196 | 950 | TT |
+| 197 | 949 | Chuck Quarles |
 | 198 | 946 | Smiley3000 |
 | 199 | 944 | Kevin M. McGhee Jr |
 | 200 | 942 | Nobles Brandon |
@@ -246,14 +246,14 @@
 | 238 | 774 | Ottison Dianna |
 | 239 | 772 | Dena Marie Lee |
 | 240 | 772 | Latisha Fairley |
-| 241 | 770 | Andy Rivera |
-| 242 | 770 | Genne Scott |
+| 241 | 770 | Genne Scott |
+| 242 | 770 | Andy Rivera |
 | 243 | 766 | Shameka Thrasher |
 | 244 | 761 | Sade Goodwine |
 | 245 | 754 | Jhaime |
 | 246 | 752 | Trina Greenwood |
-| 247 | 740 | Spicy Risepiece |
-| 248 | 740 | Felicia Cain |
+| 247 | 740 | Felicia Cain |
+| 248 | 740 | Spicy Risepiece |
 | 249 | 738 | Deveda Williams |
 | 250 | 734 | Dana Hawes |
 | 251 | 731 | Rhonda Williams Warner |
@@ -262,8 +262,8 @@
 | 254 | 725 | Tishauna Virgo |
 | 255 | 725 | Snippy Breaker |
 | 256 | 723 | Tremaine Hiler |
-| 257 | 720 | Hailey Hil |
-| 258 | 718 | Breezy Dashpiece |
+| 257 | 722 | Breezy Dashpiece |
+| 258 | 720 | Hailey Hil |
 | 259 | 713 | SyTheEvilGenius1 |
 | 260 | 711 | Chirpy Corner |
 | 261 | 708 | Simply-Beautiful007 |
@@ -296,16 +296,16 @@
 | 288 | 641 | Centara Goette |
 | 289 | 641 | Marissa Sweet |
 | 290 | 640 | Lashaunda |
-| 291 | 635 | NewEve |
-| 292 | 630 | Tessa Felice Hill |
-| 293 | 630 | DellaLucretia Thomas |
-| 294 | 628 | Joey Albright |
-| 295 | 627 | Tobey Marberry |
-| 296 | 623 | Daris Swearington |
-| 297 | 623 | Nicole Watson-Dixon |
-| 298 | 622 | Giggly Tiltbuilder |
-| 299 | 620 | Jessica Carter |
-| 300 | 620 | Tanya Clayton |
+| 291 | 640 | Tanya Clayton |
+| 292 | 635 | NewEve |
+| 293 | 630 | Tessa Felice Hill |
+| 294 | 630 | DellaLucretia Thomas |
+| 295 | 628 | Joey Albright |
+| 296 | 627 | Tobey Marberry |
+| 297 | 623 | Daris Swearington |
+| 298 | 623 | Nicole Watson-Dixon |
+| 299 | 622 | Giggly Tiltbuilder |
+| 300 | 620 | Jessica Carter |
 | 301 | 620 | Phongoudom Tika |
 | 302 | 619 | Donnie Withthebody |
 | 303 | 615 | pooh |
@@ -1880,7 +1880,7 @@
 | 1872 | 40 | NiingDing |
 | 1873 | 40 | Dominique Barbie Periandri |
 | 1874 | 40 | Erica Wells |
-| 1875 | 40 | DimplezAOS |
+| 1875 | 40 | Carol Washington |
 | 1876 | 40 | Crafty Shatterfit |
 | 1877 | 40 | Steve Renelus |
 | 1878 | 40 | Chuck Gee |
@@ -1888,7 +1888,7 @@
 | 1880 | 40 | Girly Pop |
 | 1881 | 40 | Dawn Walker |
 | 1882 | 40 | Lisa Messerli |
-| 1883 | 40 | Carol Washington |
+| 1883 | 40 | DimplezAOS |
 | 1884 | 40 | RossA |
 | 1885 | 40 | meep |
 | 1886 | 40 | Flashy Slam |
@@ -1898,84 +1898,84 @@
 | 1890 | 40 | Bumpy Ricketts |
 | 1891 | 40 | Peachy Pusher |
 | 1892 | 40 | Boldy Zoner |
-| 1893 | 39 | LahMar Hunter |
+| 1893 | 39 | Matos Boiz |
 | 1894 | 39 | Jenine Wiser |
-| 1895 | 39 | Matos Boiz |
-| 1896 | 39 | BP Phillips |
-| 1897 | 39 | Kyle Via |
-| 1898 | 39 | Bouncy Base |
-| 1899 | 39 | Rekeia Minding Mine |
-| 1900 | 39 | Cheeky Wipegrid |
-| 1901 | 39 | Katybeth Pauley |
-| 1902 | 39 | Diva shrock |
-| 1903 | 39 | Deborah |
-| 1904 | 38 | Ciara Bedford |
-| 1905 | 38 | Kiyeri |
-| 1906 | 38 | Saucy Patternbuilder |
-| 1907 | 38 | Charlene Marshall |
-| 1908 | 38 | Nicole Freeman |
-| 1909 | 38 | hope |
+| 1895 | 39 | BP Phillips |
+| 1896 | 39 | Kyle Via |
+| 1897 | 39 | Bouncy Base |
+| 1898 | 39 | Rekeia Minding Mine |
+| 1899 | 39 | Cheeky Wipegrid |
+| 1900 | 39 | Katybeth Pauley |
+| 1901 | 39 | Diva shrock |
+| 1902 | 39 | Deborah |
+| 1903 | 39 | LahMar Hunter |
+| 1904 | 38 | Saucy Patternbuilder |
+| 1905 | 38 | Charlene Marshall |
+| 1906 | 38 | Ciara Bedford |
+| 1907 | 38 | Kiyeri |
+| 1908 | 38 | Zesty Clearer |
+| 1909 | 38 | Nicole Freeman |
 | 1910 | 38 | Mrs . Candy |
-| 1911 | 38 | Zesty Clearer |
+| 1911 | 38 | hope |
 | 1912 | 38 | Crystal Segura |
 | 1913 | 38 | Nancy Brown |
-| 1914 | 38 | Bouncy Brickroll |
-| 1915 | 38 | Pastors Du Bose |
+| 1914 | 38 | Sharon Fears |
+| 1915 | 38 | scorpiobae |
 | 1916 | 38 | Snippy T-spin |
-| 1917 | 38 | Sharon Fears |
-| 1918 | 38 | Clever Twistbuilder |
-| 1919 | 38 | scorpiobae |
-| 1920 | 38 | Krista Shanice |
-| 1921 | 37 | Cheeky Matchzone |
-| 1922 | 37 | Wacky T-spin |
-| 1923 | 37 | Juniper |
-| 1924 | 37 | Zappy Matchclear |
-| 1925 | 37 | Zachary Sinclair |
-| 1926 | 37 | Iván Cedeño |
-| 1927 | 37 | Witty Blockpiece |
-| 1928 | 37 | Jb Mzresilience |
-| 1929 | 37 | kiki |
-| 1930 | 36 | Tionka Green |
-| 1931 | 36 | Megan Dickerson |
-| 1932 | 36 | Tee4 |
-| 1933 | 36 | cupcake |
-| 1934 | 36 | Jessica Lee |
-| 1935 | 36 | Jorge M Pereira |
-| 1936 | 36 | Jennifer Diamond |
-| 1937 | 36 | Mizta Lewis |
-| 1938 | 36 | Abdul Saleem |
-| 1939 | 36 | Sean Walker |
-| 1940 | 35 | Terrance Jenkins |
-| 1941 | 35 | Nerdy Twistline |
-| 1942 | 35 | Margie Toni Corley |
-| 1943 | 35 | Patricia Allen |
-| 1944 | 35 | Charise McGee |
-| 1945 | 35 | jae |
+| 1917 | 38 | Pastors Du Bose |
+| 1918 | 38 | Krista Shanice |
+| 1919 | 38 | Clever Twistbuilder |
+| 1920 | 38 | Bouncy Brickroll |
+| 1921 | 37 | Juniper |
+| 1922 | 37 | Zappy Matchclear |
+| 1923 | 37 | Cheeky Matchzone |
+| 1924 | 37 | Tee4 |
+| 1925 | 37 | kiki |
+| 1926 | 37 | Wacky T-spin |
+| 1927 | 37 | Jb Mzresilience |
+| 1928 | 37 | Zachary Sinclair |
+| 1929 | 37 | Debora Honey Lientte Hopkins-Thompson |
+| 1930 | 37 | Iván Cedeño |
+| 1931 | 37 | Witty Blockpiece |
+| 1932 | 36 | cupcake |
+| 1933 | 36 | Megan Dickerson |
+| 1934 | 36 | Mizta Lewis |
+| 1935 | 36 | Jessica Lee |
+| 1936 | 36 | Abdul Saleem |
+| 1937 | 36 | Sean Walker |
+| 1938 | 36 | Jorge M Pereira |
+| 1939 | 36 | Tionka Green |
+| 1940 | 36 | Jennifer Diamond |
+| 1941 | 35 | Terrance Jenkins |
+| 1942 | 35 | Nerdy Twistline |
+| 1943 | 35 | Margie Toni Corley |
+| 1944 | 35 | Patricia Allen |
+| 1945 | 35 | Charise McGee |
 | 1946 | 35 | Evee |
-| 1947 | 35 | np63 |
-| 1948 | 35 | X6TRAUMA9X |
-| 1949 | 35 | Christian Whittaker |
-| 1950 | 35 | Chris Garcia |
+| 1947 | 35 | jae |
+| 1948 | 35 | np63 |
+| 1949 | 35 | X6TRAUMA9X |
+| 1950 | 35 | Christian Whittaker |
 | 1951 | 35 | Brandy Jaszewski |
-| 1952 | 35 | Damien Johnson |
-| 1953 | 34 | Lauren |
-| 1954 | 34 | Plucky Clearpiece |
-| 1955 | 34 | Jumpy Brickbuilder |
-| 1956 | 34 | Debora Honey Lientte Hopkins-Thompson |
-| 1957 | 34 | Daron Montgomery |
-| 1958 | 34 | beeutifullll |
+| 1952 | 35 | Chris Garcia |
+| 1953 | 35 | Damien Johnson |
+| 1954 | 34 | Fancy Strikerbuilder |
+| 1955 | 34 | Plucky Clearpiece |
+| 1956 | 34 | Jumpy Brickbuilder |
+| 1957 | 34 | beeutifullll |
+| 1958 | 34 | Daron Montgomery |
 | 1959 | 34 | Dazee Rogers |
 | 1960 | 34 | Jeaudi Gray |
 | 1961 | 34 | Zayy Wavyy |
-| 1962 | 34 | Fancy Strikerbuilder |
+| 1962 | 34 | Lauren |
 | 1963 | 33 | Brianna Floyd |
 | 1964 | 33 | Kim Ratcliff Leatherman |
 | 1965 | 33 | Raynell Mcfrazier |
 | 1966 | 33 | Koz176 |
 | 1967 | 33 | BigDawg Lessley |
 | 1968 | 33 | Jazzy Snapbuild |
-| 1969 | 33 | Joseph Mclaughlin |
-| 1970 | 33 | Dapper Basegrid |
+| 1969 | 33 | Dapper Basegrid |
+| 1970 | 33 | Joseph Mclaughlin |
 | 1971 | 33 | Funky Clearfit |
 | 1972 | 32 | Jädaa Laa'Destïnyy |
 | 1973 | 32 | Tasha Stuckey |
