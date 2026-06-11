@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:34:50 UTC
+# Standings for team1 as of 2026-06-11 16:35:24 UTC
 
 **Total Participants:** 2506
 
@@ -184,8 +184,8 @@
 | 176 | 1053 | Yolanda E Fergerson |
 | 177 | 1052 | Kellie Hall |
 | 178 | 1047 | Ty Øtg |
-| 179 | 1021 | Jeffrey Barrows |
-| 180 | 1020 | Dandy Brickfit |
+| 179 | 1023 | Dandy Brickfit |
+| 180 | 1021 | Jeffrey Barrows |
 | 181 | 1004 | Antonia Wyche |
 | 182 | 994 | GrkGdess |
 | 183 | 986 | Eugina Slater |
