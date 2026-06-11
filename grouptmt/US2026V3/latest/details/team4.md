@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 17:56:47 UTC
+# Standings for team4 as of 2026-06-11 17:57:25 UTC
 
 **Total Participants:** 2560
 
@@ -63,7 +63,7 @@
 | 55 | 3500 | Kathy Brookins |
 | 56 | 3427 | Jason Allen |
 | 57 | 3395 | Dana Abegil Lawas |
-| 58 | 3312 | Alicia Cook |
+| 58 | 3315 | Alicia Cook |
 | 59 | 3244 | Elissa S-k |
 | 60 | 3224 | 626 |
 | 61 | 3150 | Destiny Dyer |
@@ -223,8 +223,8 @@
 | 215 | 871 | Shiny Dashy |
 | 216 | 865 | Celina DiBastiani |
 | 217 | 858 | Lynn Grimes |
-| 218 | 847 | Devinlee Brown |
-| 219 | 846 | Snippy Splitter |
+| 218 | 848 | Snippy Splitter |
+| 219 | 847 | Devinlee Brown |
 | 220 | 845 | Thomasena Eady Reid |
 | 221 | 844 | Lisa Garcia |
 | 222 | 843 | Spicy Chicken |
@@ -1217,84 +1217,84 @@
 | 1209 | 143 | Amowe |
 | 1210 | 143 | Rebekah Anne Macias |
 | 1211 | 142 | Clever Blockmatch |
-| 1212 | 142 | Meghan Etchells |
-| 1213 | 142 | Gwendolyn Langwinski |
-| 1214 | 142 | Jonathan Jackson |
-| 1215 | 142 | Badmofo |
-| 1216 | 142 | Mandi Rexroat |
-| 1217 | 141 | Aaron Turner |
-| 1218 | 141 | Scott Baum |
-| 1219 | 141 | Audrianna Skaff |
-| 1220 | 140 | John Henry |
-| 1221 | 140 | Janae Gregory |
-| 1222 | 140 | Willy Leung |
-| 1223 | 140 | Tiffy |
-| 1224 | 140 | Alicia Horsea Rojas |
-| 1225 | 140 | Crystal Parker Bryant |
-| 1226 | 139 | DNA |
+| 1212 | 142 | Gwendolyn Langwinski |
+| 1213 | 142 | Meghan Etchells |
+| 1214 | 142 | Pap337 |
+| 1215 | 142 | Mandi Rexroat |
+| 1216 | 142 | Jonathan Jackson |
+| 1217 | 142 | Badmofo |
+| 1218 | 141 | Audrianna Skaff |
+| 1219 | 141 | Scott Baum |
+| 1220 | 141 | Aaron Turner |
+| 1221 | 140 | Tiffy |
+| 1222 | 140 | John Henry |
+| 1223 | 140 | Janae Gregory |
+| 1224 | 140 | Willy Leung |
+| 1225 | 140 | Alicia Horsea Rojas |
+| 1226 | 140 | Crystal Parker Bryant |
 | 1227 | 139 | Hayze |
-| 1228 | 139 | Erich EMac McIntosh |
-| 1229 | 139 | Geneva Mixon |
-| 1230 | 138 | Perky Balanceblock |
-| 1231 | 138 | Myranda Gereau |
-| 1232 | 138 | Ami Ferguson |
+| 1228 | 139 | Geneva Mixon |
+| 1229 | 139 | DNA |
+| 1230 | 139 | Erich EMac McIntosh |
+| 1231 | 138 | Ami Ferguson |
+| 1232 | 138 | Perky Balanceblock |
 | 1233 | 138 | Tammy Lasseigne |
-| 1234 | 138 | Tommy Thomas |
-| 1235 | 138 | Nancy McCalla Abercrombie |
-| 1236 | 137 | Oc Tive |
-| 1237 | 137 | Stephanie Anderson |
-| 1238 | 137 | Shannon Lee |
-| 1239 | 136 | Selina Moore |
-| 1240 | 136 | Clever Clearzone |
-| 1241 | 136 | Crystal Morrin |
-| 1242 | 136 | Pap337 |
+| 1234 | 138 | Myranda Gereau |
+| 1235 | 138 | Tommy Thomas |
+| 1236 | 138 | Nancy McCalla Abercrombie |
+| 1237 | 137 | Shannon Lee |
+| 1238 | 137 | Oc Tive |
+| 1239 | 137 | Stephanie Anderson |
+| 1240 | 136 | Nykell Sturdivant |
+| 1241 | 136 | Clever Clearzone |
+| 1242 | 136 | Selina Moore |
 | 1243 | 136 | Oscar Flores |
-| 1244 | 136 | Nykell Sturdivant |
+| 1244 | 136 | Crystal Morrin |
 | 1245 | 135 | Misty Harland |
 | 1246 | 135 | Daffney Starr |
 | 1247 | 135 | Jennifer Terrill |
 | 1248 | 134 | Heather Cross High |
 | 1249 | 134 | Lauren Zubia Sanchez |
-| 1250 | 134 | Kena T. Tanner |
-| 1251 | 134 | Chummy Twistpiece |
+| 1250 | 134 | Chummy Twistpiece |
+| 1251 | 134 | Kena T. Tanner |
 | 1252 | 134 | Goofy Twistpiece |
 | 1253 | 133 | pisces26luna |
 | 1254 | 133 | taya |
 | 1255 | 132 | Misti Rich |
-| 1256 | 132 | Rebecca Sloan |
-| 1257 | 132 | Jodi Haman-wheeler |
-| 1258 | 132 | Giggly Gridzone |
-| 1259 | 131 | Melissa Abigail |
+| 1256 | 132 | Jodi Haman-wheeler |
+| 1257 | 132 | Giggly Gridzone |
+| 1258 | 132 | Rebecca Sloan |
+| 1259 | 131 | Tracey Hudspath |
 | 1260 | 131 | Pink Tetramino |
-| 1261 | 131 | ZaysWife89 |
-| 1262 | 131 | Tracey Hudspath |
-| 1263 | 131 | Kami |
+| 1261 | 131 | Melissa Abigail |
+| 1262 | 131 | Kami |
+| 1263 | 131 | ZaysWife89 |
 | 1264 | 130 | Regina N Johnson |
 | 1265 | 130 | Katrina S. West |
-| 1266 | 129 | Vlad Rudman |
-| 1267 | 129 | Dsay Yates |
+| 1266 | 129 | Crystal M. Torres |
+| 1267 | 129 | Vlad Rudman |
 | 1268 | 129 | Quiles Yaitza |
-| 1269 | 129 | Crystal M. Torres |
+| 1269 | 129 | Dsay Yates |
 | 1270 | 129 | Peachy Piecefit |
-| 1271 | 128 | Ksawn Collymore-bey Collymore-bey |
-| 1272 | 128 | Fancy Curvetile |
-| 1273 | 128 | Natalia Stone |
-| 1274 | 127 | Cheeky Climber |
+| 1271 | 128 | Fancy Curvetile |
+| 1272 | 128 | Natalia Stone |
+| 1273 | 128 | Ksawn Collymore-bey Collymore-bey |
+| 1274 | 127 | Lola |
 | 1275 | 127 | Jace Warren |
-| 1276 | 127 | Lola |
-| 1277 | 126 | Stacy Brown |
-| 1278 | 126 | Tiffany Roberts |
-| 1279 | 126 | Chipper Fitblock |
-| 1280 | 126 | Tiffany Taylor |
-| 1281 | 126 | Seraphina |
+| 1276 | 127 | Cheeky Climber |
+| 1277 | 126 | Chipper Fitblock |
+| 1278 | 126 | Tiffany Taylor |
+| 1279 | 126 | Seraphina |
+| 1280 | 126 | Tiffany Roberts |
+| 1281 | 126 | Stacy Brown |
 | 1282 | 126 | Swanky Matchfit |
 | 1283 | 125 | Joe Win |
-| 1284 | 125 | Shane Tate |
-| 1285 | 125 | Jailen Harper |
+| 1284 | 125 | CharmingS |
+| 1285 | 125 | Taquilla Branch |
 | 1286 | 125 | Youngkueen |
-| 1287 | 125 | Taquilla Branch |
-| 1288 | 125 | Mari |
-| 1289 | 125 | CharmingS |
+| 1287 | 125 | Shane Tate |
+| 1288 | 125 | Jailen Harper |
+| 1289 | 125 | Mari |
 | 1290 | 125 | Mandie Torres |
 | 1291 | 124 | Melissa Elizabeth |
 | 1292 | 124 | E money |
@@ -2471,19 +2471,19 @@
 | 2463 | 9 | Trippy Mels |
 | 2464 | 9 | Micole Norris |
 | 2465 | 9 | estefi |
-| 2466 | 9 | Ivy Gregorio |
-| 2467 | 9 | Shara Oliver |
-| 2468 | 9 | Burmburm |
-| 2469 | 9 | Terry Peach |
-| 2470 | 9 | Temple Larry |
-| 2471 | 9 | Kristen Templeman |
-| 2472 | 9 | Veronica Maldonado |
-| 2473 | 9 | Frisky Brickfit |
-| 2474 | 9 | fmp |
-| 2475 | 9 | Monica Bell |
-| 2476 | 9 | Frilly Shuffler |
-| 2477 | 9 | K Courtney Camp |
-| 2478 | 8 | Stephanie Wilson Dean |
+| 2466 | 9 | Stephanie Wilson Dean |
+| 2467 | 9 | Ivy Gregorio |
+| 2468 | 9 | Shara Oliver |
+| 2469 | 9 | Burmburm |
+| 2470 | 9 | Terry Peach |
+| 2471 | 9 | Temple Larry |
+| 2472 | 9 | Kristen Templeman |
+| 2473 | 9 | Veronica Maldonado |
+| 2474 | 9 | Frisky Brickfit |
+| 2475 | 9 | fmp |
+| 2476 | 9 | Monica Bell |
+| 2477 | 9 | Frilly Shuffler |
+| 2478 | 9 | K Courtney Camp |
 | 2479 | 8 | keth |
 | 2480 | 8 | Nums |
 | 2481 | 8 | LaTesha D Williams |
