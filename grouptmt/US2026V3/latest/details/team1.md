@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:00:49 UTC
+# Standings for team1 as of 2026-06-11 08:01:24 UTC
 
 **Total Participants:** 2462
 
@@ -72,7 +72,7 @@
 | 64 | 2359 | Shellzb Roberts |
 | 65 | 2304 | Frisky Fallmatch |
 | 66 | 2230 | Robyn Caldwell |
-| 67 | 2178 | Moomoo |
+| 67 | 2217 | Moomoo |
 | 68 | 2175 | Brian Bohanon II |
 | 69 | 2166 | Helen Smith |
 | 70 | 2161 | Cherry Rose |
@@ -247,18 +247,18 @@
 | 239 | 700 | Andy Rivera |
 | 240 | 699 | Dee McCool |
 | 241 | 699 | Tempee |
-| 242 | 692 | Trina Greenwood |
-| 243 | 689 | Elizabeth Vega Coreano |
-| 244 | 688 | Bambi Love |
-| 245 | 685 | Haley Bell |
-| 246 | 684 | Giggy Clusterer |
-| 247 | 680 | Charletha Williams |
-| 248 | 680 | e |
-| 249 | 680 | Erin Sabol |
-| 250 | 679 | Lashawn Wallace |
-| 251 | 676 | Mikayla |
-| 252 | 674 | DaVonte' Cretter |
-| 253 | 673 | Andrew Jay Vaughn |
+| 242 | 693 | Andrew Jay Vaughn |
+| 243 | 692 | Trina Greenwood |
+| 244 | 689 | Elizabeth Vega Coreano |
+| 245 | 688 | Bambi Love |
+| 246 | 685 | Haley Bell |
+| 247 | 684 | Giggy Clusterer |
+| 248 | 680 | Charletha Williams |
+| 249 | 680 | e |
+| 250 | 680 | Erin Sabol |
+| 251 | 679 | Lashawn Wallace |
+| 252 | 676 | Mikayla |
+| 253 | 674 | DaVonte' Cretter |
 | 254 | 672 | Deveda Williams |
 | 255 | 669 | Shell Lewis |
 | 256 | 668 | Dion Gray |
