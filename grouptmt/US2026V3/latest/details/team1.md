@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:15:25 UTC
+# Standings for team1 as of 2026-06-11 11:16:19 UTC
 
 **Total Participants:** 2476
 
@@ -43,7 +43,7 @@
 | 35 | 3940 | Jacoby E Fleming |
 | 36 | 3927 | Mary Jenkins |
 | 37 | 3914 | Juan Kandiss Escobedo Irwin |
-| 38 | 3790 | Cee Emm |
+| 38 | 3810 | Cee Emm |
 | 39 | 3763 | Sha Harris |
 | 40 | 3761 | Brian Stackhouse |
 | 41 | 3609 | Chill Clusterer |
@@ -169,13 +169,13 @@
 | 161 | 1080 | Nerdy Blockpiece |
 | 162 | 1078 | Quirky Fallgrid |
 | 163 | 1073 | Rackemwillie34 |
-| 164 | 1064 | Michelle Titus |
-| 165 | 1061 | Joy Citizen Pickney |
-| 166 | 1061 | Atlantalindi |
-| 167 | 1056 | Cece Fowler |
-| 168 | 1054 | Eartha Brown |
-| 169 | 1053 | Yolanda E Fergerson |
-| 170 | 1053 | Gotcha |
+| 164 | 1072 | Gotcha |
+| 165 | 1064 | Michelle Titus |
+| 166 | 1061 | Joy Citizen Pickney |
+| 167 | 1061 | Atlantalindi |
+| 168 | 1056 | Cece Fowler |
+| 169 | 1054 | Eartha Brown |
+| 170 | 1053 | Yolanda E Fergerson |
 | 171 | 1027 | Ty Øtg |
 | 172 | 1021 | Jeffrey Barrows |
 | 173 | 1012 | Jaida De'Anne Cox |
@@ -433,11 +433,11 @@
 | 425 | 425 | Jas |
 | 426 | 423 | Jai |
 | 427 | 422 | The DUBZ |
-| 428 | 420 | Ketrell Bailey |
-| 429 | 420 | HarleyJane |
-| 430 | 419 | Stephen Glaze |
-| 431 | 418 | Cortaz Lawrie |
-| 432 | 418 | Kelli Couture |
+| 428 | 421 | Kelli Couture |
+| 429 | 420 | Ketrell Bailey |
+| 430 | 420 | HarleyJane |
+| 431 | 419 | Stephen Glaze |
+| 432 | 418 | Cortaz Lawrie |
 | 433 | 417 | Peppy Towerbuilder |
 | 434 | 414 | Wayne Savannah |
 | 435 | 414 | Brittanie Wardlow |
@@ -579,29 +579,29 @@
 | 571 | 329 | Tiffany Jean Hinson |
 | 572 | 329 | Chris Watson Draper |
 | 573 | 329 | Shelly Everette |
-| 574 | 327 | Hardtohandle91 |
-| 575 | 324 | Breezy Catcher |
-| 576 | 324 | Silly Wiper |
-| 577 | 324 | Sharee Robinson |
-| 578 | 324 | Teddy Davis |
-| 579 | 324 | Kristie |
-| 580 | 323 | Bea Dyer-Fields |
-| 581 | 322 | TNT |
-| 582 | 321 | Kàrma Lee |
-| 583 | 321 | Terri Smart |
-| 584 | 321 | Andra Ward |
-| 585 | 321 | LuckyStar |
-| 586 | 321 | Iceman |
-| 587 | 320 | Valerie Alexander |
+| 574 | 328 | LaShawyn Wood |
+| 575 | 327 | Hardtohandle91 |
+| 576 | 324 | Breezy Catcher |
+| 577 | 324 | Silly Wiper |
+| 578 | 324 | Sharee Robinson |
+| 579 | 324 | Teddy Davis |
+| 580 | 324 | Kristie |
+| 581 | 323 | Bea Dyer-Fields |
+| 582 | 322 | TNT |
+| 583 | 321 | Kàrma Lee |
+| 584 | 321 | Iceman |
+| 585 | 321 | Terri Smart |
+| 586 | 321 | LuckyStar |
+| 587 | 321 | Andra Ward |
 | 588 | 320 | Malcolm Stanley |
-| 589 | 320 | Phongoudom Tika |
-| 590 | 319 | Christi Walker Patton |
+| 589 | 320 | Valerie Alexander |
+| 590 | 320 | Phongoudom Tika |
 | 591 | 319 | Zappy Snapgrid |
-| 592 | 319 | Ciera Peace |
+| 592 | 319 | TY Newme Batts |
 | 593 | 319 | Zany Breaker |
-| 594 | 319 | TY Newme Batts |
-| 595 | 318 | Marlainia Boyd |
-| 596 | 318 | LaShawyn Wood |
+| 594 | 319 | Ciera Peace |
+| 595 | 319 | Christi Walker Patton |
+| 596 | 318 | Marlainia Boyd |
 | 597 | 318 | Daring Riserfit |
 | 598 | 318 | Poppy Twister |
 | 599 | 318 | Nerdy Snapfall |
