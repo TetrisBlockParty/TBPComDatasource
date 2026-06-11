@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:24:45 UTC
+# Standings for team2 as of 2026-06-11 07:25:25 UTC
 
 **Total Participants:** 2928
 
@@ -354,8 +354,8 @@
 | 346 | 632 | Naomi Walker |
 | 347 | 631 | Lora Via |
 | 348 | 631 | Jeanna Mendez |
-| 349 | 627 | Theresa Marie |
-| 350 | 626 | Ratchet |
+| 349 | 628 | Ratchet |
+| 350 | 627 | Theresa Marie |
 | 351 | 625 | Greta Warden |
 | 352 | 622 | straighttiptoe |
 | 353 | 619 | Gill |
@@ -387,28 +387,28 @@
 | 379 | 567 | Michael Carmichael |
 | 380 | 566 | Santara Ferguson |
 | 381 | 563 | Alicia Parrish |
-| 382 | 559 | Nikki Greeneyebeauty |
+| 382 | 562 | Nikki Greeneyebeauty |
 | 383 | 559 | Po Yee |
 | 384 | 558 | Tia Guile |
 | 385 | 557 | Janice |
 | 386 | 554 | Amy Gale |
 | 387 | 553 | Bb |
-| 388 | 553 | Aurora June Brock |
-| 389 | 552 | Heather Denise |
-| 390 | 550 | DomDomsNana |
-| 391 | 550 | AndyJo |
-| 392 | 550 | Loopy Dropper |
-| 393 | 548 | Stephanie |
-| 394 | 546 | Newtwidebody |
-| 395 | 545 | Tamara Whiteley |
-| 396 | 544 | Elliott Mikila |
-| 397 | 544 | Sarah Jane Gorsuch |
-| 398 | 544 | Cranky Patternblock |
-| 399 | 542 | Amy Gregg |
-| 400 | 540 | Jim Longnecker |
-| 401 | 540 | Deezie |
-| 402 | 534 | Staci Behrens |
-| 403 | 533 | Marilyn Strickland |
+| 388 | 553 | Marilyn Strickland |
+| 389 | 553 | Aurora June Brock |
+| 390 | 552 | Heather Denise |
+| 391 | 550 | DomDomsNana |
+| 392 | 550 | AndyJo |
+| 393 | 550 | Loopy Dropper |
+| 394 | 548 | Stephanie |
+| 395 | 546 | Newtwidebody |
+| 396 | 545 | Tamara Whiteley |
+| 397 | 544 | Elliott Mikila |
+| 398 | 544 | Sarah Jane Gorsuch |
+| 399 | 544 | Cranky Patternblock |
+| 400 | 542 | Amy Gregg |
+| 401 | 540 | Jim Longnecker |
+| 402 | 540 | Deezie |
+| 403 | 534 | Staci Behrens |
 | 404 | 532 | LadyDeath |
 | 405 | 531 | Quirky Clicky |
 | 406 | 531 | Smiley Staggerpiece |
@@ -668,24 +668,24 @@
 | 660 | 345 | Dhelsie Qurasima |
 | 661 | 345 | DNice |
 | 662 | 343 | Christina Ackley |
-| 663 | 341 | Joanne Fish |
-| 664 | 340 | Hannah Meadows Hammond |
-| 665 | 340 | Tony Medina |
-| 666 | 340 | Wendy Mcbride |
-| 667 | 340 | Shakey Bakey |
-| 668 | 340 | Brandi Williams |
-| 669 | 339 | Michele Rogers |
-| 670 | 338 | Will Jones |
-| 671 | 338 | Giddy Chiseler |
-| 672 | 338 | Peter Fogg |
-| 673 | 338 | Tiffany Hassanshahi |
-| 674 | 337 | Rick |
-| 675 | 337 | Anthony Chavez |
-| 676 | 337 | Josh Vietz |
-| 677 | 335 | Dapper Riser |
-| 678 | 334 | Nikki Hatch |
-| 679 | 334 | Flex |
-| 680 | 334 | Julie Brown |
+| 663 | 343 | Julie Brown |
+| 664 | 341 | Joanne Fish |
+| 665 | 340 | Hannah Meadows Hammond |
+| 666 | 340 | Tony Medina |
+| 667 | 340 | Wendy Mcbride |
+| 668 | 340 | Shakey Bakey |
+| 669 | 340 | Brandi Williams |
+| 670 | 339 | Michele Rogers |
+| 671 | 338 | Will Jones |
+| 672 | 338 | Giddy Chiseler |
+| 673 | 338 | Peter Fogg |
+| 674 | 338 | Tiffany Hassanshahi |
+| 675 | 337 | Rick |
+| 676 | 337 | Anthony Chavez |
+| 677 | 337 | Josh Vietz |
+| 678 | 335 | Dapper Riser |
+| 679 | 334 | Nikki Hatch |
+| 680 | 334 | Flex |
 | 681 | 333 | Catalina Castro |
 | 682 | 333 | Lisa Allen Frisk |
 | 683 | 332 | Mary Whitaker |
@@ -1785,39 +1785,39 @@
 | 1777 | 84 | Audrey F Devis |
 | 1778 | 84 | Giggly Dashy |
 | 1779 | 84 | Tiffany Heether |
-| 1780 | 83 | Dionne Borden |
-| 1781 | 83 | Britters |
-| 1782 | 83 | G Yolany Andramos |
-| 1783 | 83 | Poppy Snapper |
-| 1784 | 83 | Jodee Woods |
-| 1785 | 83 | April Appleton |
-| 1786 | 83 | Amy Hahn Nickels |
-| 1787 | 82 | Alana Albritton Seals |
-| 1788 | 82 | Amanda Nash |
-| 1789 | 82 | Jessica LeNeave |
-| 1790 | 82 | Betu2clos |
-| 1791 | 82 | David Starmer |
+| 1780 | 83 | Britters |
+| 1781 | 83 | G Yolany Andramos |
+| 1782 | 83 | Poppy Snapper |
+| 1783 | 83 | Jodee Woods |
+| 1784 | 83 | Dionne Borden |
+| 1785 | 83 | Amy Hahn Nickels |
+| 1786 | 83 | April Appleton |
+| 1787 | 82 | Betu2clos |
+| 1788 | 82 | Jessica LeNeave |
+| 1789 | 82 | Tipsy Splitter |
+| 1790 | 82 | Alana Albritton Seals |
+| 1791 | 82 | Amanda Nash |
 | 1792 | 82 | John Rosales |
-| 1793 | 82 | Amber Myers |
-| 1794 | 81 | YldBoar |
-| 1795 | 81 | Bouncy Stagger |
+| 1793 | 82 | David Starmer |
+| 1794 | 82 | Amber Myers |
+| 1795 | 81 | YldBoar |
 | 1796 | 81 | Octavia Jus Mae Hill |
-| 1797 | 81 | Bobbie Carrol |
+| 1797 | 81 | Moeshia Turner |
 | 1798 | 81 | Zesty Gridlock |
-| 1799 | 81 | Jazzy Cornerfall |
-| 1800 | 81 | Witty Linkfall |
-| 1801 | 81 | YUKITATA |
-| 1802 | 81 | Moeshia Turner |
-| 1803 | 81 | Disguised Duck |
-| 1804 | 80 | Betty Johnson |
-| 1805 | 80 | Karen Pearson-Wilson |
-| 1806 | 80 | Sarah Davis |
-| 1807 | 80 | Javyjavz |
-| 1808 | 80 | Ramon James |
-| 1809 | 80 | Torb |
+| 1799 | 81 | YUKITATA |
+| 1800 | 81 | Jazzy Cornerfall |
+| 1801 | 81 | Witty Linkfall |
+| 1802 | 81 | Bobbie Carrol |
+| 1803 | 81 | Bouncy Stagger |
+| 1804 | 81 | Disguised Duck |
+| 1805 | 80 | Ramon James |
+| 1806 | 80 | Javyjavz |
+| 1807 | 80 | Torb |
+| 1808 | 80 | Sarah Davis |
+| 1809 | 80 | Karen Pearson-Wilson |
 | 1810 | 80 | John C Morrison |
-| 1811 | 80 | Tessa Kalili |
-| 1812 | 80 | Tipsy Splitter |
+| 1811 | 80 | Betty Johnson |
+| 1812 | 80 | Tessa Kalili |
 | 1813 | 80 | Dapper Pivotfall |
 | 1814 | 79 | Amber Marie Lacey |
 | 1815 | 79 | Shanna Jones Scott |
@@ -1826,31 +1826,31 @@
 | 1818 | 79 | Zippy Wobbler |
 | 1819 | 79 | LaicoosBargains Ln |
 | 1820 | 79 | Jade007 |
-| 1821 | 78 | Dixie Wilson |
-| 1822 | 78 | Danielle Brummett |
-| 1823 | 78 | Casey Hendricks |
-| 1824 | 78 | Shawn Bossuot |
+| 1821 | 78 | Danielle Brummett |
+| 1822 | 78 | Casey Hendricks |
+| 1823 | 78 | Shawn Bossuot |
+| 1824 | 78 | Betty Muise |
 | 1825 | 78 | Catherine Whitt Gaddy |
 | 1826 | 78 | Karen Moore |
-| 1827 | 78 | Chipper Spinzone |
-| 1828 | 78 | Anna Lee Richardson |
-| 1829 | 78 | Steven Palmer |
-| 1830 | 78 | Lively Shatter |
+| 1827 | 78 | Anna Lee Richardson |
+| 1828 | 78 | Dixie Wilson |
+| 1829 | 78 | Chipper Spinzone |
+| 1830 | 78 | Steven Palmer |
 | 1831 | 78 | Elise Marie Mireles |
 | 1832 | 78 | Clever Clusterfit |
-| 1833 | 78 | Tori Hotseller |
-| 1834 | 78 | Betty Muise |
+| 1833 | 78 | Lively Shatter |
+| 1834 | 78 | Tori Hotseller |
 | 1835 | 77 | 3RD LEG |
 | 1836 | 77 | Dan Rosenberg |
 | 1837 | 77 | Clever Riserpiece |
-| 1838 | 76 | Silly Shatter |
-| 1839 | 76 | Joe Dirilo |
+| 1838 | 76 | Joe Dirilo |
+| 1839 | 76 | Mick Loving |
 | 1840 | 76 | Paula |
 | 1841 | 76 | June Salevao |
-| 1842 | 76 | Mick Loving |
-| 1843 | 76 | Peppy Dash |
-| 1844 | 76 | Lisa Amick |
-| 1845 | 76 | Mary Cook |
+| 1842 | 76 | Peppy Dash |
+| 1843 | 76 | Lisa Amick |
+| 1844 | 76 | Mary Cook |
+| 1845 | 76 | Silly Shatter |
 | 1846 | 76 | Happy Riseclear |
 | 1847 | 75 | Donna Casey |
 | 1848 | 75 | Jackie Hayslip |
