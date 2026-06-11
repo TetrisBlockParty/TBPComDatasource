@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 21:10:45 UTC
+# Standings for team2 as of 2026-06-11 21:11:23 UTC
 
 **Total Participants:** 3017
 
@@ -135,7 +135,7 @@
 | 127 | 1937 | Cathy Tippett |
 | 128 | 1934 | Daybreak |
 | 129 | 1929 | Gabriella Humphreys |
-| 130 | 1920 | Anissa Moore |
+| 130 | 1923 | Anissa Moore |
 | 131 | 1882 | Wmk Rathbun |
 | 132 | 1876 | Pickle |
 | 133 | 1806 | Jamie Fenyus |
@@ -320,12 +320,12 @@
 | 312 | 771 | Christina Maria |
 | 313 | 762 | Amy Roseann |
 | 314 | 754 | Jenni LeBlanc |
-| 315 | 752 | Starr Collins |
-| 316 | 750 | Tisha Hairston |
-| 317 | 746 | Mikia Stokes |
-| 318 | 746 | Kathleen Dumbazz |
-| 319 | 744 | Jennifer Smith |
-| 320 | 744 | Rondell Reedster |
+| 315 | 753 | Kathleen Dumbazz |
+| 316 | 752 | Starr Collins |
+| 317 | 750 | Tisha Hairston |
+| 318 | 746 | Mikia Stokes |
+| 319 | 744 | Rondell Reedster |
+| 320 | 744 | Jennifer Smith |
 | 321 | 741 | Marissa Alpeza |
 | 322 | 741 | Churube Finwoiisopw |
 | 323 | 738 | Lora Via |
@@ -581,7 +581,7 @@
 | 573 | 431 | Amber Smith |
 | 574 | 431 | Crystal Poss |
 | 575 | 430 | DNice |
-| 576 | 429 | Robin Lamb |
+| 576 | 430 | Robin Lamb |
 | 577 | 428 | Christy Ford |
 | 578 | 428 | Keri Mears |
 | 579 | 427 | Shannon Curry Riggle |
