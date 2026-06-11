@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 14:05:24 UTC
+# Standings for team4 as of 2026-06-11 14:06:23 UTC
 
 **Total Participants:** 2532
 
@@ -93,7 +93,7 @@
 | 85 | 2063 | Cranky Buildout |
 | 86 | 2003 | Jackie Polanco |
 | 87 | 1992 | 2 kool |
-| 88 | 1946 | Jazzy Gridder |
+| 88 | 1955 | Jazzy Gridder |
 | 89 | 1920 | Alyssa Oth |
 | 90 | 1897 | Chris Covington |
 | 91 | 1896 | Sassy Column |
@@ -147,7 +147,7 @@
 | 139 | 1236 | Hairy Snake |
 | 140 | 1227 | shawna |
 | 141 | 1226 | Jason Garnatz |
-| 142 | 1216 | Hardy Fuller |
+| 142 | 1220 | Hardy Fuller |
 | 143 | 1206 | Kimberly Civinski |
 | 144 | 1195 | Futrell Brent |
 | 145 | 1182 | Phil Peterson |
@@ -198,8 +198,8 @@
 | 190 | 950 | Genag |
 | 191 | 950 | Joyce Myers |
 | 192 | 946 | Lori Stembridge |
-| 193 | 944 | vag1974 |
-| 194 | 944 | adrian |
+| 193 | 944 | adrian |
+| 194 | 944 | vag1974 |
 | 195 | 942 | Kay |
 | 196 | 932 | Dandy Clearfit |
 | 197 | 923 | Roxana Romero |
@@ -982,9 +982,9 @@
 | 974 | 198 | Jeremy Fisher |
 | 975 | 197 | Shawntae Mccary |
 | 976 | 197 | Toria |
-| 977 | 197 | Alex Dawn |
-| 978 | 196 | Tipsy Matchline |
-| 979 | 195 | Daring Patternblock |
+| 977 | 197 | Daring Patternblock |
+| 978 | 197 | Alex Dawn |
+| 979 | 196 | Tipsy Matchline |
 | 980 | 195 | Emily Lowe |
 | 981 | 194 | Jennifer Brucz |
 | 982 | 194 | Shirley Williams |
