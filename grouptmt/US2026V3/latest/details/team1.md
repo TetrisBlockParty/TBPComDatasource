@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 20:06:26 UTC
+# Standings for team1 as of 2026-06-11 20:07:26 UTC
 
 **Total Participants:** 2529
 
@@ -83,7 +83,7 @@
 | 75 | 2154 | Chenell Gillard |
 | 76 | 2154 | Felicia Williams |
 | 77 | 2138 | Linzie Marie |
-| 78 | 2118 | Bre Maugh |
+| 78 | 2128 | Bre Maugh |
 | 79 | 2115 | Sharon Cail |
 | 80 | 2104 | Carolynne Walker-Bell |
 | 81 | 2103 | Sarah Barnum |
@@ -185,8 +185,8 @@
 | 177 | 1053 | Yolanda E Fergerson |
 | 178 | 1052 | Kellie Hall |
 | 179 | 1047 | Ty Øtg |
-| 180 | 1036 | Dandy Brickfit |
-| 181 | 1024 | Teresa Yanira Cepeda |
+| 180 | 1040 | Teresa Yanira Cepeda |
+| 181 | 1036 | Dandy Brickfit |
 | 182 | 1021 | Jeffrey Barrows |
 | 183 | 1004 | Antonia Wyche |
 | 184 | 1002 | Cheeky Pop |
@@ -306,8 +306,8 @@
 | 298 | 627 | Tobey Marberry |
 | 299 | 627 | Kesha Brady |
 | 300 | 626 | De'Mear McKinney |
-| 301 | 623 | Daris Swearington |
-| 302 | 623 | Nicole Watson-Dixon |
+| 301 | 623 | Nicole Watson-Dixon |
+| 302 | 623 | Daris Swearington |
 | 303 | 622 | Giggly Tiltbuilder |
 | 304 | 620 | Jessica Carter |
 | 305 | 620 | Phongoudom Tika |
@@ -316,11 +316,11 @@
 | 308 | 613 | Alivia Dove |
 | 309 | 612 | Jessica Russell |
 | 310 | 607 | Rachael Bakowicz Edwards |
-| 311 | 604 | Andre Sanon |
-| 312 | 602 | NastyFriend |
-| 313 | 601 | Marie Wilson |
-| 314 | 599 | IThinkNot |
-| 315 | 597 | TBABYJ |
+| 311 | 605 | TBABYJ |
+| 312 | 604 | Andre Sanon |
+| 313 | 602 | NastyFriend |
+| 314 | 601 | Marie Wilson |
+| 315 | 599 | IThinkNot |
 | 316 | 591 | Koi |
 | 317 | 589 | Slinky Brickmatch |
 | 318 | 588 | Sheila Burnham |
@@ -748,8 +748,8 @@
 | 740 | 281 | ChunLi |
 | 741 | 280 | NedaWin |
 | 742 | 280 | Leavon Smith |
-| 743 | 280 | Latoya Carson |
-| 744 | 280 | Spotlight |
+| 743 | 280 | Spotlight |
+| 744 | 280 | Latoya Carson |
 | 745 | 280 | Sarah Swietlicki - Lopez |
 | 746 | 280 | Nekka |
 | 747 | 280 | Juicy |
@@ -759,39 +759,39 @@
 | 751 | 276 | Taneka Howell |
 | 752 | 276 | Rosalind Chatman |
 | 753 | 276 | Joseph Vs Cap |
-| 754 | 275 | Chris Sladoje |
+| 754 | 275 | Michelle Peters |
 | 755 | 275 | MzJuice Box |
-| 756 | 275 | Michelle Peters |
-| 757 | 274 | Polite Granny |
-| 758 | 274 | Lynn |
-| 759 | 274 | Jimmy Shannon |
-| 760 | 273 | Frances Davis |
-| 761 | 273 | Mommy Frank |
-| 762 | 273 | Cheery Climber |
-| 763 | 273 | Laysa Nunez |
-| 764 | 273 | Bob |
-| 765 | 272 | kayluv85 |
-| 766 | 272 | Felicia Dungey |
-| 767 | 271 | Sunset Owens |
+| 756 | 275 | Chris Sladoje |
+| 757 | 274 | Mom3granny2 |
+| 758 | 274 | Polite Granny |
+| 759 | 274 | Lynn |
+| 760 | 274 | Jimmy Shannon |
+| 761 | 273 | Frances Davis |
+| 762 | 273 | Laysa Nunez |
+| 763 | 273 | Bob |
+| 764 | 273 | Cheery Climber |
+| 765 | 273 | Mommy Frank |
+| 766 | 272 | kayluv85 |
+| 767 | 272 | Felicia Dungey |
 | 768 | 271 | MsSassygee Boom |
-| 769 | 271 | Xrandomx |
-| 770 | 270 | Lester Malone |
-| 771 | 269 | Blocksy |
-| 772 | 269 | Tara Clarke |
-| 773 | 269 | messyboots |
-| 774 | 268 | QueenShay AllGood |
-| 775 | 268 | Katrina Ramey |
+| 769 | 271 | Sunset Owens |
+| 770 | 271 | Xrandomx |
+| 771 | 270 | Lester Malone |
+| 772 | 269 | messyboots |
+| 773 | 269 | Blocksy |
+| 774 | 269 | Tara Clarke |
+| 775 | 268 | QueenShay AllGood |
 | 776 | 268 | Kala Miller |
-| 777 | 267 | Analesia Taylor |
+| 777 | 268 | Katrina Ramey |
 | 778 | 267 | Rachel Lopez |
-| 779 | 266 | Silly Shifter |
-| 780 | 266 | Semaj Johnson |
-| 781 | 265 | Shanjerrica Taylor Rosell |
-| 782 | 265 | Kortney Adams |
-| 783 | 264 | Glitzy Clusterer |
-| 784 | 264 | Adrian Wilson |
-| 785 | 264 | Tiffany Hooper |
-| 786 | 264 | Mom3granny2 |
+| 779 | 267 | Analesia Taylor |
+| 780 | 266 | Silly Shifter |
+| 781 | 266 | Semaj Johnson |
+| 782 | 265 | Shanjerrica Taylor Rosell |
+| 783 | 265 | Kortney Adams |
+| 784 | 264 | Glitzy Clusterer |
+| 785 | 264 | Adrian Wilson |
+| 786 | 264 | Tiffany Hooper |
 | 787 | 264 | Donna Payne |
 | 788 | 263 | Mami Badd |
 | 789 | 263 | LaPorscha Wright |
@@ -1132,28 +1132,28 @@
 | 1124 | 155 | b |
 | 1125 | 155 | Kyle Franklin |
 | 1126 | 155 | Ja'mice Nelson |
-| 1127 | 155 | The goat |
-| 1128 | 154 | Ruth Ann Ruiz-Nakashima |
-| 1129 | 154 | Lauren Farkas |
+| 1127 | 155 | Tweet |
+| 1128 | 155 | The goat |
+| 1129 | 154 | Ruth Ann Ruiz-Nakashima |
 | 1130 | 154 | Sarah Jones |
 | 1131 | 154 | Gabriela Hernandez |
-| 1132 | 153 | Kara |
-| 1133 | 153 | Goofy T-spin |
-| 1134 | 153 | Terrance Tindall |
+| 1132 | 154 | Lauren Farkas |
+| 1133 | 153 | Terrance Tindall |
+| 1134 | 153 | Goofy T-spin |
 | 1135 | 153 | Quirky Spinblock |
-| 1136 | 153 | Shaun Baker |
-| 1137 | 153 | Anthony Collins |
-| 1138 | 153 | Tweet |
+| 1136 | 153 | Anthony Collins |
+| 1137 | 153 | Kara |
+| 1138 | 153 | Shaun Baker |
 | 1139 | 152 | Brittany Cole |
 | 1140 | 152 | E Dubb$ |
-| 1141 | 151 | WReckitraff |
-| 1142 | 151 | Chummy Twisterfit |
-| 1143 | 151 | lady |
-| 1144 | 151 | GoldStarJo |
-| 1145 | 151 | Witty Clear |
-| 1146 | 150 | Smiley Bridgepiece |
-| 1147 | 150 | Groovy Rotate |
-| 1148 | 150 | Tipsy Bricky |
+| 1141 | 151 | lady |
+| 1142 | 151 | Smiley Bridgepiece |
+| 1143 | 151 | GoldStarJo |
+| 1144 | 151 | Chummy Twisterfit |
+| 1145 | 151 | WReckitraff |
+| 1146 | 151 | Witty Clear |
+| 1147 | 150 | Tipsy Bricky |
+| 1148 | 150 | Groovy Rotate |
 | 1149 | 150 | Anthony T. Fults |
 | 1150 | 150 | Raquel Ortiz |
 | 1151 | 150 | Antoinette Kidd |
@@ -1982,13 +1982,13 @@
 | 1974 | 33 | Koz176 |
 | 1975 | 33 | Dapper Basegrid |
 | 1976 | 33 | Kim Ratcliff Leatherman |
-| 1977 | 32 | Shalyn Law |
-| 1978 | 32 | Brandy Cristina Dickey |
-| 1979 | 32 | Betty Joe Lemberg |
-| 1980 | 32 | Tiffany Ali Shaw |
-| 1981 | 32 | Anissa Williams |
-| 1982 | 32 | Van Cunning |
-| 1983 | 32 | Jädaa Laa'Destïnyy |
+| 1977 | 33 | Jädaa Laa'Destïnyy |
+| 1978 | 32 | Shalyn Law |
+| 1979 | 32 | Brandy Cristina Dickey |
+| 1980 | 32 | Betty Joe Lemberg |
+| 1981 | 32 | Tiffany Ali Shaw |
+| 1982 | 32 | Anissa Williams |
+| 1983 | 32 | Van Cunning |
 | 1984 | 32 | Tiara Hitchcock |
 | 1985 | 32 | Janie Helton |
 | 1986 | 32 | Tasha Stuckey |
