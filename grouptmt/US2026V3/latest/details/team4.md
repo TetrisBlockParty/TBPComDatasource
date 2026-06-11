@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 11:06:42 UTC
+# Standings for team4 as of 2026-06-11 11:07:24 UTC
 
 **Total Participants:** 2516
 
@@ -303,25 +303,25 @@
 | 295 | 596 | Shanae Taylor |
 | 296 | 595 | tigerlilly |
 | 297 | 593 | Chirpy Snapclear |
-| 298 | 592 | Dapper Strikerpiece |
+| 298 | 593 | JuicyJuice |
 | 299 | 592 | Sarah Berry Stevens |
-| 300 | 590 | Funky Riserpiece |
-| 301 | 588 | Tammy June |
-| 302 | 586 | Karen Miller |
-| 303 | 584 | Dae Von |
-| 304 | 581 | Maria Castillo |
-| 305 | 578 | Stephanie Myers |
-| 306 | 576 | Goofy Riser |
-| 307 | 575 | Julian Gasque |
-| 308 | 574 | Alma López Morales |
-| 309 | 573 | Sisi RedVelvet Reneè |
-| 310 | 573 | Sandra Stark |
-| 311 | 571 | Danny Ortiz |
-| 312 | 570 | Fran Aaron-Ring |
-| 313 | 565 | Morgan Stevens |
-| 314 | 563 | Cherrel M. Causey |
-| 315 | 562 | Tipsy Zonebuilder |
-| 316 | 561 | JuicyJuice |
+| 300 | 592 | Dapper Strikerpiece |
+| 301 | 590 | Funky Riserpiece |
+| 302 | 588 | Tammy June |
+| 303 | 586 | Karen Miller |
+| 304 | 584 | Dae Von |
+| 305 | 581 | Maria Castillo |
+| 306 | 578 | Stephanie Myers |
+| 307 | 576 | Goofy Riser |
+| 308 | 575 | Julian Gasque |
+| 309 | 574 | Alma López Morales |
+| 310 | 573 | Sisi RedVelvet Reneè |
+| 311 | 573 | Sandra Stark |
+| 312 | 571 | Danny Ortiz |
+| 313 | 570 | Fran Aaron-Ring |
+| 314 | 565 | Morgan Stevens |
+| 315 | 563 | Cherrel M. Causey |
+| 316 | 562 | Tipsy Zonebuilder |
 | 317 | 560 | Betsy Froemming |
 | 318 | 559 | Groovy Towerbuilder |
 | 319 | 558 | Aramat |
@@ -591,8 +591,8 @@
 | 583 | 323 | Daniel Lossman |
 | 584 | 321 | Casey Thomas |
 | 585 | 321 | Jerett Coplin |
-| 586 | 320 | EpicWizard |
-| 587 | 320 | Christina Barry |
+| 586 | 320 | Christina Barry |
+| 587 | 320 | EpicWizard |
 | 588 | 320 | Britney Kitora |
 | 589 | 320 | Butterfly |
 | 590 | 320 | Tesa Mike Jenkins |
@@ -606,9 +606,9 @@
 | 598 | 318 | Chelsea Guajardo |
 | 599 | 317 | Elli Wright |
 | 600 | 317 | alxhue04 |
-| 601 | 317 | crobb77 |
-| 602 | 317 | Stef |
-| 603 | 317 | LaTanya GeminiondaRise Johnson |
+| 601 | 317 | LaTanya GeminiondaRise Johnson |
+| 602 | 317 | crobb77 |
+| 603 | 317 | Stef |
 | 604 | 316 | Dawn Phelps |
 | 605 | 316 | Ashlee Lemus |
 | 606 | 315 | Travis McKinnon |
@@ -648,15 +648,15 @@
 | 640 | 298 | PsyDMom |
 | 641 | 298 | Elissa Danks |
 | 642 | 298 | Snippy Racker |
-| 643 | 297 | Mighty1 |
-| 644 | 297 | Swanky Snapgrid |
+| 643 | 297 | Swanky Snapgrid |
+| 644 | 297 | Mighty1 |
 | 645 | 297 | MrLoner Stoner |
 | 646 | 295 | Redhead girl |
 | 647 | 295 | Heather Garrity |
 | 648 | 295 | Carmen Angelica Sosa |
 | 649 | 294 | Edward White |
-| 650 | 294 | Erika Rubio |
-| 651 | 294 | Mrs |
+| 650 | 294 | Mrs |
+| 651 | 294 | Erika Rubio |
 | 652 | 292 | Rachel Lemos |
 | 653 | 292 | Nessa Smith |
 | 654 | 292 | All knowing |
@@ -706,8 +706,8 @@
 | 698 | 271 | Adi Patterson |
 | 699 | 271 | Suzi Smas |
 | 700 | 271 | Lord Solrac |
-| 701 | 270 | Loretta Hendricks |
-| 702 | 270 | Tana-Marie Lynn McCarty-Rolf |
+| 701 | 270 | Tana-Marie Lynn McCarty-Rolf |
+| 702 | 270 | Loretta Hendricks |
 | 703 | 270 | Carissa Thorne-See |
 | 704 | 270 | Dawn Renee Thomas |
 | 705 | 269 | Playful Raccoon |
@@ -732,8 +732,8 @@
 | 724 | 260 | Keke Johnson |
 | 725 | 260 | Silly Risegrid |
 | 726 | 259 | Jessica Peyton |
-| 727 | 258 | Clever Patterner |
-| 728 | 258 | Rae Saunders |
+| 727 | 258 | Rae Saunders |
+| 728 | 258 | Clever Patterner |
 | 729 | 258 | Maria Munoz |
 | 730 | 258 | Daring Towerer |
 | 731 | 257 | Spicy Peach |
@@ -749,8 +749,8 @@
 | 741 | 253 | Natalie Dillard |
 | 742 | 253 | Vonni McLean |
 | 743 | 252 | Kimberly Devon |
-| 744 | 252 | Amanda Snow |
-| 745 | 252 | Ryan Paul Clark-Ramsey |
+| 744 | 252 | Ryan Paul Clark-Ramsey |
+| 745 | 252 | Amanda Snow |
 | 746 | 251 | LaToya LeBlanc |
 | 747 | 251 | Tamara Gay |
 | 748 | 250 | KingCas |
@@ -758,27 +758,27 @@
 | 750 | 250 | Jill Chapman-Yancer |
 | 751 | 250 | Silly Fallzone |
 | 752 | 249 | Brennan Shea Greene |
-| 753 | 249 | Virgil Mayfield-Brown |
-| 754 | 249 | Csigirlnc |
-| 755 | 249 | Sassy Frame |
-| 756 | 249 | Megan Lynn |
-| 757 | 248 | Ayobribri |
-| 758 | 248 | Fkvj |
-| 759 | 247 | Brandon Bedenbaugh |
-| 760 | 247 | aga |
-| 761 | 247 | Kelly Miller Williams |
-| 762 | 247 | Shauna Davis |
-| 763 | 247 | Elena Marí |
-| 764 | 247 | Stotty |
-| 765 | 245 | 1694AF |
-| 766 | 244 | Maliyah An |
-| 767 | 244 | SuperJen |
-| 768 | 244 | Chilly Pop |
-| 769 | 244 | Poppy Snapfall |
-| 770 | 244 | Brandi Gray |
+| 753 | 249 | Stefanie Street |
+| 754 | 249 | Virgil Mayfield-Brown |
+| 755 | 249 | Csigirlnc |
+| 756 | 249 | Sassy Frame |
+| 757 | 249 | Megan Lynn |
+| 758 | 248 | Ayobribri |
+| 759 | 248 | Fkvj |
+| 760 | 247 | Brandon Bedenbaugh |
+| 761 | 247 | aga |
+| 762 | 247 | Kelly Miller Williams |
+| 763 | 247 | Shauna Davis |
+| 764 | 247 | Elena Marí |
+| 765 | 247 | Stotty |
+| 766 | 245 | 1694AF |
+| 767 | 244 | Maliyah An |
+| 768 | 244 | SuperJen |
+| 769 | 244 | Chilly Pop |
+| 770 | 244 | Poppy Snapfall |
 | 771 | 244 | Paula Renee McCracken |
-| 772 | 243 | GETBOXED! |
-| 773 | 243 | Stefanie Street |
+| 772 | 244 | Brandi Gray |
+| 773 | 243 | GETBOXED! |
 | 774 | 243 | Brandy Lynn |
 | 775 | 243 | mikey moo |
 | 776 | 243 | Steve Swanson |
@@ -787,8 +787,8 @@
 | 779 | 242 | Japexican Strong |
 | 780 | 241 | Goofy Strike |
 | 781 | 241 | Memphiago Tenninois |
-| 782 | 241 | Loony Edge |
-| 783 | 241 | Allysonjo Varela |
+| 782 | 241 | Allysonjo Varela |
+| 783 | 241 | Loony Edge |
 | 784 | 241 | Kasey Lynne |
 | 785 | 240 | Marie Adkins |
 | 786 | 240 | Mighty Dash |
@@ -807,12 +807,12 @@
 | 799 | 236 | Niki Bastianelli |
 | 800 | 236 | Masiso |
 | 801 | 236 | Ashley DuVall |
-| 802 | 236 | chuck |
-| 803 | 236 | Domo Dpn |
+| 802 | 236 | Domo Dpn |
+| 803 | 236 | chuck |
 | 804 | 236 | Deana Teck |
 | 805 | 235 | Laryssia Taylor |
-| 806 | 235 | Simone |
-| 807 | 235 | Christy Petty |
+| 806 | 235 | Christy Petty |
+| 807 | 235 | Simone |
 | 808 | 235 | Reina Pagan |
 | 809 | 234 | Ajohnna Frazee |
 | 810 | 234 | Tod Jae |
@@ -832,10 +832,10 @@
 | 824 | 228 | Gma420 |
 | 825 | 228 | Tonia Kay |
 | 826 | 227 | Tre'nya Smith |
-| 827 | 227 | Tactical_B |
-| 828 | 227 | Slinky Snapfit |
+| 827 | 227 | Slinky Snapfit |
+| 828 | 227 | Alaina Rousseau |
 | 829 | 227 | Noa Lee |
-| 830 | 227 | Alaina Rousseau |
+| 830 | 227 | Tactical_B |
 | 831 | 226 | Carlos Amaya |
 | 832 | 226 | Buddyblock |
 | 833 | 226 | Scarlett Ashley Clark |
