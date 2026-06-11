@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 04:52:48 UTC
+# Standings for team1 as of 2026-06-11 04:53:24 UTC
 
 **Total Participants:** 2436
 
@@ -131,8 +131,8 @@
 | 123 | 1355 | Whitney Butler |
 | 124 | 1350 | Keeta Chickswit Scott |
 | 125 | 1344 | G Ah Mayes |
-| 126 | 1323 | Catara Renae Oliver |
-| 127 | 1323 | Denise B |
+| 126 | 1323 | Denise B |
+| 127 | 1323 | Catara Renae Oliver |
 | 128 | 1303 | Aviv Zehavi |
 | 129 | 1296 | Alana Renee |
 | 130 | 1294 | Anthony Washington |
@@ -152,8 +152,8 @@
 | 144 | 1179 | Lesley Brunkus Cianfaglione |
 | 145 | 1147 | Kaleisha Smith |
 | 146 | 1142 | Yasmin Nakea Wright |
-| 147 | 1121 | Lisa Müller |
-| 148 | 1121 | Zippy Lifter |
+| 147 | 1121 | Zippy Lifter |
+| 148 | 1121 | Lisa Müller |
 | 149 | 1113 | Cathy Young |
 | 150 | 1100 | Christana Imjustbutton Stone |
 | 151 | 1097 | De'Laonzeo Anthony |
@@ -172,15 +172,15 @@
 | 164 | 1012 | Jaida De'Anne Cox |
 | 165 | 1007 | Ty Øtg |
 | 166 | 1004 | Antonia Wyche |
-| 167 | 994 | GrkGdess |
-| 168 | 992 | Danielle Barthelme |
-| 169 | 977 | Kellie Hall |
-| 170 | 973 | No_Other_Choice |
-| 171 | 955 | Slinky Puzzler |
-| 172 | 952 | Ebony |
-| 173 | 924 | Ebony Waynes-robinson |
-| 174 | 915 | Chuck Quarles |
-| 175 | 914 | Dulo |
+| 167 | 994 | Dulo |
+| 168 | 994 | GrkGdess |
+| 169 | 992 | Danielle Barthelme |
+| 170 | 977 | Kellie Hall |
+| 171 | 973 | No_Other_Choice |
+| 172 | 955 | Slinky Puzzler |
+| 173 | 952 | Ebony |
+| 174 | 924 | Ebony Waynes-robinson |
+| 175 | 915 | Chuck Quarles |
 | 176 | 913 | JaszyBadd |
 | 177 | 909 | Dandy Brickfit |
 | 178 | 907 | Ann White |
@@ -1073,43 +1073,43 @@
 | 1065 | 153 | Danny Talbot |
 | 1066 | 153 | Anthony Collins |
 | 1067 | 153 | Shaun Baker |
-| 1068 | 152 | Brittany Cole |
-| 1069 | 152 | E Dubb$ |
-| 1070 | 151 | GoldStarJo |
-| 1071 | 151 | Witty Clear |
-| 1072 | 151 | lady |
-| 1073 | 150 | Anthony T. Fults |
+| 1068 | 152 | E Dubb$ |
+| 1069 | 152 | Brittany Cole |
+| 1070 | 151 | lady |
+| 1071 | 151 | GoldStarJo |
+| 1072 | 151 | 214Petty |
+| 1073 | 151 | Witty Clear |
 | 1074 | 150 | Raquel Ortiz |
-| 1075 | 150 | Jane Lame |
+| 1075 | 150 | Anthony T. Fults |
 | 1076 | 150 | Antoinette Kidd |
 | 1077 | 150 | Vivian Bunnell Myers |
-| 1078 | 150 | Dawn Basemore |
-| 1079 | 149 | Macho Lewis |
+| 1078 | 150 | Jane Lame |
+| 1079 | 150 | Dawn Basemore |
 | 1080 | 149 | Chummy Twisterfit |
-| 1081 | 148 | Raymond Boosie Freeman |
+| 1081 | 149 | Macho Lewis |
 | 1082 | 148 | Evelyn Epps |
 | 1083 | 148 | Zany Patternblock |
-| 1084 | 148 | Jaxon Antuna |
-| 1085 | 147 | Benjamin Livingston |
-| 1086 | 147 | Sean Parham |
-| 1087 | 147 | Rob'N Blox |
-| 1088 | 147 | Taimir Colón |
-| 1089 | 147 | Charika Marie Bergmann |
-| 1090 | 146 | Vortex Viniq |
-| 1091 | 146 | Paul Doty |
-| 1092 | 146 | Jojo M |
-| 1093 | 145 | Abdul Malik |
+| 1084 | 148 | Raymond Boosie Freeman |
+| 1085 | 148 | Jaxon Antuna |
+| 1086 | 147 | Benjamin Livingston |
+| 1087 | 147 | Sean Parham |
+| 1088 | 147 | Charika Marie Bergmann |
+| 1089 | 147 | Rob'N Blox |
+| 1090 | 147 | Taimir Colón |
+| 1091 | 146 | Jojo M |
+| 1092 | 146 | Paul Doty |
+| 1093 | 146 | Vortex Viniq |
 | 1094 | 145 | Jumpy Gridlock |
-| 1095 | 145 | Jennifer Moore |
-| 1096 | 144 | Tammy Collins |
-| 1097 | 143 | Jennifer Rogers |
-| 1098 | 143 | Beautiful314 |
-| 1099 | 143 | Caitlin Michele |
-| 1100 | 142 | Ace Hardware |
-| 1101 | 141 | Happy Blockpiece |
-| 1102 | 141 | star |
-| 1103 | 141 | sunstar |
-| 1104 | 141 | 214Petty |
+| 1095 | 145 | Abdul Malik |
+| 1096 | 145 | Jennifer Moore |
+| 1097 | 144 | Tammy Collins |
+| 1098 | 143 | Jennifer Rogers |
+| 1099 | 143 | Beautiful314 |
+| 1100 | 143 | Caitlin Michele |
+| 1101 | 142 | Ace Hardware |
+| 1102 | 141 | Happy Blockpiece |
+| 1103 | 141 | star |
+| 1104 | 141 | sunstar |
 | 1105 | 141 | Tiana Monique |
 | 1106 | 140 | Lynette Manning |
 | 1107 | 140 | Lazy Chiseler |
@@ -1245,52 +1245,52 @@
 | 1237 | 115 | Haakuu |
 | 1238 | 115 | Quwana Hall |
 | 1239 | 115 | Shiny Lift |
-| 1240 | 114 | Amy Thomas |
-| 1241 | 114 | Heckabluntstho |
-| 1242 | 114 | Cherita Copney |
+| 1240 | 114 | Heckabluntstho |
+| 1241 | 114 | Cherita Copney |
+| 1242 | 114 | Amy Thomas |
 | 1243 | 114 | Pharen Oneofakind Frazier |
-| 1244 | 113 | Sha Anderson |
+| 1244 | 114 | Amanda Colwell |
 | 1245 | 113 | Wacky Spinfit |
-| 1246 | 113 | Bohdi |
+| 1246 | 113 | Sha Anderson |
 | 1247 | 113 | Lazy Matchgrid |
-| 1248 | 112 | Embracing Hair |
+| 1248 | 113 | Bohdi |
 | 1249 | 112 | Elizabeth Hopkins |
-| 1250 | 112 | Breezy Bouncer |
-| 1251 | 112 | GamerQueenDS |
-| 1252 | 111 | Francisco R. Avalos |
-| 1253 | 111 | Alicia Lei |
-| 1254 | 111 | Letrishia Andrews |
+| 1250 | 112 | GamerQueenDS |
+| 1251 | 112 | Embracing Hair |
+| 1252 | 112 | Breezy Bouncer |
+| 1253 | 111 | Letrishia Andrews |
+| 1254 | 111 | Francisco R. Avalos |
 | 1255 | 111 | Khatyrah Burnette |
 | 1256 | 111 | midnightxtoker |
-| 1257 | 111 | Jack Mehof |
-| 1258 | 111 | Fred Caston |
-| 1259 | 110 | Tweet Turner |
-| 1260 | 110 | Hoppy Towerfall |
-| 1261 | 110 | jac |
-| 1262 | 110 | Swanky Riserfit |
-| 1263 | 110 | PattyPower |
-| 1264 | 110 | Silly Spinblock |
-| 1265 | 110 | S.S |
-| 1266 | 109 | Darlene Johnson |
-| 1267 | 109 | Jamal D. Wiley |
+| 1257 | 111 | Alicia Lei |
+| 1258 | 111 | Jack Mehof |
+| 1259 | 111 | Fred Caston |
+| 1260 | 110 | Tweet Turner |
+| 1261 | 110 | Hoppy Towerfall |
+| 1262 | 110 | jac |
+| 1263 | 110 | Swanky Riserfit |
+| 1264 | 110 | PattyPower |
+| 1265 | 110 | Silly Spinblock |
+| 1266 | 110 | S.S |
+| 1267 | 109 | Darlene Johnson |
 | 1268 | 109 | Jeremy Myers |
-| 1269 | 109 | OleGey |
-| 1270 | 108 | Thelma Samuels |
-| 1271 | 108 | Smiley Tilebuilder |
-| 1272 | 108 | Amanda Colwell |
+| 1269 | 109 | Jamal D. Wiley |
+| 1270 | 109 | OleGey |
+| 1271 | 108 | Thelma Samuels |
+| 1272 | 108 | Smiley Tilebuilder |
 | 1273 | 108 | Douglas Jones |
 | 1274 | 108 | Phoenix |
 | 1275 | 107 | Brandon Knox |
-| 1276 | 107 | Arjuna Taylor |
-| 1277 | 107 | Jeremy Pope |
+| 1276 | 107 | Jeremy Pope |
+| 1277 | 107 | Arjuna Taylor |
 | 1278 | 107 | Amanda Miller |
 | 1279 | 107 | Mrs |
-| 1280 | 106 | Zappy Zoney |
-| 1281 | 106 | NataAllDay |
-| 1282 | 106 | Dani McLeod |
-| 1283 | 106 | Cheery T-spin |
-| 1284 | 106 | Toohartless Mech |
-| 1285 | 106 | Symonne 'Monnie' Pierce |
+| 1280 | 106 | Toohartless Mech |
+| 1281 | 106 | Zappy Zoney |
+| 1282 | 106 | NataAllDay |
+| 1283 | 106 | Dani McLeod |
+| 1284 | 106 | Symonne 'Monnie' Pierce |
+| 1285 | 106 | Cheery T-spin |
 | 1286 | 105 | Michael Smith |
 | 1287 | 105 | smash56! |
 | 1288 | 105 | Maria |
