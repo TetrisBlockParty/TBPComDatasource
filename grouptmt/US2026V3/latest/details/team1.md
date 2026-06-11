@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 06:14:47 UTC
+# Standings for team1 as of 2026-06-11 06:15:24 UTC
 
 **Total Participants:** 2449
 
@@ -210,9 +210,9 @@
 | 202 | 815 | Zippy Tilefall |
 | 203 | 814 | Andi McGreevy |
 | 204 | 813 | Choc |
-| 205 | 812 | Big Tina |
-| 206 | 809 | Chantelle Lee |
-| 207 | 808 | Loopy Block |
+| 205 | 813 | Loopy Block |
+| 206 | 812 | Big Tina |
+| 207 | 809 | Chantelle Lee |
 | 208 | 808 | TT |
 | 209 | 801 | Rachel Zimmerman |
 | 210 | 798 | Zappy Riser |
@@ -621,39 +621,39 @@
 | 613 | 302 | Ebby |
 | 614 | 301 | LaShawyn Wood |
 | 615 | 301 | Monica Fields |
-| 616 | 300 | brite |
-| 617 | 300 | Daring Blockclear |
-| 618 | 300 | Ashlie Mo |
+| 616 | 300 | Kelley Johnson |
+| 617 | 300 | brite |
+| 618 | 300 | Daring Blockclear |
 | 619 | 300 | Cheryl Miller |
-| 620 | 300 | Phillip White |
-| 621 | 300 | Kate Moses |
+| 620 | 300 | Ashlie Mo |
+| 621 | 300 | Phillip White |
 | 622 | 300 | Slinky Swipe |
-| 623 | 299 | Saucy Faller |
-| 624 | 299 | Chandler Magee |
-| 625 | 299 | Kala LaRicka |
-| 626 | 299 | Taz Ballard |
-| 627 | 298 | Rachael R Gull |
-| 628 | 297 | Hasty Rollzone |
-| 629 | 297 | meatballs |
-| 630 | 296 | Lounique |
+| 623 | 300 | Kate Moses |
+| 624 | 299 | Saucy Faller |
+| 625 | 299 | Chandler Magee |
+| 626 | 299 | Kala LaRicka |
+| 627 | 299 | Taz Ballard |
+| 628 | 298 | Rachael R Gull |
+| 629 | 297 | Hasty Rollzone |
+| 630 | 297 | meatballs |
 | 631 | 296 | Stephanie L Jeffries Moultrie |
-| 632 | 296 | Cornelius Neal |
-| 633 | 294 | Cori Cleland |
-| 634 | 294 | Kelley Johnson |
+| 632 | 296 | Lounique |
+| 633 | 296 | Cornelius Neal |
+| 634 | 294 | Cori Cleland |
 | 635 | 294 | Tamika Rocheteau |
 | 636 | 294 | Loony Clearer |
-| 637 | 293 | crumb bumc |
-| 638 | 293 | lizlizliz |
+| 637 | 293 | lizlizliz |
+| 638 | 293 | crumb bumc |
 | 639 | 292 | Courtney Cicoria |
-| 640 | 291 | Bella |
-| 641 | 291 | Brian Taylor |
-| 642 | 291 | Pj Rojas |
+| 640 | 291 | Pj Rojas |
+| 641 | 291 | Bella |
+| 642 | 291 | Brian Taylor |
 | 643 | 290 | Chris Watson Draper |
 | 644 | 289 | TBabii24 |
 | 645 | 289 | Keith Johnson |
-| 646 | 288 | Douglas Price |
-| 647 | 288 | Lozuna |
-| 648 | 288 | Cherika Wright |
+| 646 | 288 | Lozuna |
+| 647 | 288 | Cherika Wright |
+| 648 | 288 | Douglas Price |
 | 649 | 287 | Mary Phillippi Blanton |
 | 650 | 287 | wmedina67 |
 | 651 | 287 | CauliMac |
@@ -1886,34 +1886,34 @@
 | 1878 | 36 | cupcake |
 | 1879 | 36 | Mizta Lewis |
 | 1880 | 36 | Abdul Saleem |
-| 1881 | 35 | np63 |
+| 1881 | 35 | Brittany N. Hess |
 | 1882 | 35 | Terrance Jenkins |
 | 1883 | 35 | Margie Toni Corley |
 | 1884 | 35 | MissingYou Nini |
 | 1885 | 35 | Matos Boiz |
-| 1886 | 35 | Mina Abdullah |
-| 1887 | 35 | Brandy Jaszewski |
-| 1888 | 35 | X6TRAUMA9X |
-| 1889 | 35 | Frilly Glidepiece |
-| 1890 | 35 | Nerdy Twistline |
-| 1891 | 35 | Damien Johnson |
-| 1892 | 35 | Charise McGee |
-| 1893 | 35 | Evee |
-| 1894 | 35 | Ruth Ann SotoRogers |
-| 1895 | 35 | Tiffany Sherman |
-| 1896 | 35 | Christian Whittaker |
-| 1897 | 34 | beeutifullll |
-| 1898 | 34 | Dazee Rogers |
-| 1899 | 34 | Daron Montgomery |
-| 1900 | 34 | Fancy Strikerbuilder |
-| 1901 | 34 | Lauren |
-| 1902 | 34 | Zayy Wavyy |
-| 1903 | 34 | Plucky Clearpiece |
-| 1904 | 34 | Jumpy Brickbuilder |
-| 1905 | 34 | H Hr De Gfe |
-| 1906 | 34 | Bouncy Brickroll |
-| 1907 | 33 | Kim Ratcliff Leatherman |
-| 1908 | 33 | Brittany N. Hess |
+| 1886 | 35 | X6TRAUMA9X |
+| 1887 | 35 | Mina Abdullah |
+| 1888 | 35 | Brandy Jaszewski |
+| 1889 | 35 | np63 |
+| 1890 | 35 | Frilly Glidepiece |
+| 1891 | 35 | Nerdy Twistline |
+| 1892 | 35 | Damien Johnson |
+| 1893 | 35 | Charise McGee |
+| 1894 | 35 | Evee |
+| 1895 | 35 | Ruth Ann SotoRogers |
+| 1896 | 35 | Tiffany Sherman |
+| 1897 | 35 | Christian Whittaker |
+| 1898 | 34 | beeutifullll |
+| 1899 | 34 | Dazee Rogers |
+| 1900 | 34 | Daron Montgomery |
+| 1901 | 34 | Fancy Strikerbuilder |
+| 1902 | 34 | Lauren |
+| 1903 | 34 | Zayy Wavyy |
+| 1904 | 34 | Plucky Clearpiece |
+| 1905 | 34 | Jumpy Brickbuilder |
+| 1906 | 34 | H Hr De Gfe |
+| 1907 | 34 | Bouncy Brickroll |
+| 1908 | 33 | Kim Ratcliff Leatherman |
 | 1909 | 33 | Brianna Floyd |
 | 1910 | 33 | BigDawg Lessley |
 | 1911 | 33 | Koz176 |
@@ -2360,77 +2360,77 @@
 | 2352 | 8 | Tabitha Harris |
 | 2353 | 8 | Leslie |
 | 2354 | 8 | Stu McQueen |
-| 2355 | 8 | Clever Matchpiece |
-| 2356 | 8 | Groovy Riseclear |
-| 2357 | 8 | Adelia Seymour |
-| 2358 | 8 | Abhay Raj |
-| 2359 | 8 | Frothy Matchpiece |
-| 2360 | 8 | All World |
-| 2361 | 8 | Jeremiah Coffey Sr. |
-| 2362 | 8 | Ferocity |
-| 2363 | 8 | Charlotte Jones |
-| 2364 | 8 | Zesty Combofall |
-| 2365 | 8 | Drayon Rogers |
-| 2366 | 8 | Chill Tumbler |
-| 2367 | 8 | David NuggieMan Smith |
+| 2355 | 8 | David NuggieMan Smith |
+| 2356 | 8 | Chill Tumbler |
+| 2357 | 8 | Jeremiah Coffey Sr. |
+| 2358 | 8 | Frothy Matchpiece |
+| 2359 | 8 | Clever Matchpiece |
+| 2360 | 8 | Groovy Riseclear |
+| 2361 | 8 | Adelia Seymour |
+| 2362 | 8 | Abhay Raj |
+| 2363 | 8 | All World |
+| 2364 | 8 | Wx_Birdie |
+| 2365 | 8 | Ferocity |
+| 2366 | 8 | Zesty Combofall |
+| 2367 | 8 | Drayon Rogers |
 | 2368 | 8 | Rixo Blax |
-| 2369 | 7 | crumpettwo |
-| 2370 | 7 | Brittany Killebrew |
-| 2371 | 7 | bri |
-| 2372 | 7 | Bouncy Clearbuilder |
-| 2373 | 7 | Sheena Hamilton |
-| 2374 | 7 | John Boone |
-| 2375 | 7 | Linda Clark |
-| 2376 | 7 | Happy Strike |
-| 2377 | 7 | Volushia Jennings-Figgs |
-| 2378 | 7 | Daniel Okuka |
-| 2379 | 7 | Tierra Latte |
-| 2380 | 7 | Shane Brucewayne |
-| 2381 | 7 | Court Ney |
-| 2382 | 7 | Jazzy |
-| 2383 | 7 | Vicky Brown |
-| 2384 | 7 | Breanna Page |
-| 2385 | 7 | Joey Hoover |
-| 2386 | 7 | Quana |
-| 2387 | 7 | Happy Drop |
-| 2388 | 7 | Hasty Clicky |
-| 2389 | 7 | Gerardo Galiz |
-| 2390 | 7 | Roscoe |
-| 2391 | 7 | style |
-| 2392 | 7 | Beverly Kaday |
-| 2393 | 7 | Loopy Blockline |
-| 2394 | 7 | Albert Smith |
-| 2395 | 7 | Chirpy Cascadeclear |
-| 2396 | 7 | Wx_Birdie |
-| 2397 | 7 | Hyper Basepiece |
-| 2398 | 7 | Mary2 |
-| 2399 | 7 | Shenikka Townsend |
-| 2400 | 7 | Deadra Graham |
-| 2401 | 7 | Jamal Richmond |
-| 2402 | 7 | Teresa F. Campos Eaton |
-| 2403 | 7 | Ciara Bedford |
-| 2404 | 7 | Tipsy Towerzone |
-| 2405 | 7 | Bryan Dell |
-| 2406 | 7 | KingSlim82 |
-| 2407 | 6 | Dandy Tiltbuilder |
+| 2369 | 8 | Charlotte Jones |
+| 2370 | 7 | Quana |
+| 2371 | 7 | Happy Strike |
+| 2372 | 7 | John Boone |
+| 2373 | 7 | Hasty Clicky |
+| 2374 | 7 | Bouncy Clearbuilder |
+| 2375 | 7 | bri |
+| 2376 | 7 | crumpettwo |
+| 2377 | 7 | Brittany Killebrew |
+| 2378 | 7 | Happy Drop |
+| 2379 | 7 | Sheena Hamilton |
+| 2380 | 7 | Linda Clark |
+| 2381 | 7 | Volushia Jennings-Figgs |
+| 2382 | 7 | Daniel Okuka |
+| 2383 | 7 | Tierra Latte |
+| 2384 | 7 | Joey Hoover |
+| 2385 | 7 | Breanna Page |
+| 2386 | 7 | Shane Brucewayne |
+| 2387 | 7 | Court Ney |
+| 2388 | 7 | Vicky Brown |
+| 2389 | 7 | Jazzy |
+| 2390 | 7 | Deadra Graham |
+| 2391 | 7 | Albert Smith |
+| 2392 | 7 | Chirpy Cascadeclear |
+| 2393 | 7 | Hyper Basepiece |
+| 2394 | 7 | Mary2 |
+| 2395 | 7 | Loopy Blockline |
+| 2396 | 7 | Shenikka Townsend |
+| 2397 | 7 | Beverly Kaday |
+| 2398 | 7 | style |
+| 2399 | 7 | Roscoe |
+| 2400 | 7 | KingSlim82 |
+| 2401 | 7 | Teresa F. Campos Eaton |
+| 2402 | 7 | Tipsy Towerzone |
+| 2403 | 7 | Bryan Dell |
+| 2404 | 7 | Ciara Bedford |
+| 2405 | 7 | Gerardo Galiz |
+| 2406 | 7 | Jamal Richmond |
+| 2407 | 6 | Tarsha' Seymone Sherrod |
 | 2408 | 6 | Nerdy Slam |
-| 2409 | 6 | Groovy Grid |
+| 2409 | 6 | Doc Elm |
 | 2410 | 6 | 840PurgeAsylum |
-| 2411 | 6 | Doc Elm |
-| 2412 | 6 | Tarsha' Seymone Sherrod |
-| 2413 | 6 | Stevie Malcon |
-| 2414 | 6 | Andrae Robinson |
-| 2415 | 6 | party t-rex 27 |
-| 2416 | 6 | CK |
-| 2417 | 6 | Kimberly Mann |
-| 2418 | 6 | Dan Quintero |
-| 2419 | 6 | Tiff |
-| 2420 | 6 | Darkness |
-| 2421 | 6 | Sunny Shatterer |
-| 2422 | 6 | Ruben Baca |
-| 2423 | 6 | Barefield Curt |
-| 2424 | 6 | James Singleton |
-| 2425 | 6 | Kyshia |
+| 2411 | 6 | Andrae Robinson |
+| 2412 | 6 | Groovy Grid |
+| 2413 | 6 | party t-rex 27 |
+| 2414 | 6 | Dandy Tiltbuilder |
+| 2415 | 6 | Kimberly Mann |
+| 2416 | 6 | Darkness |
+| 2417 | 6 | Ruben Baca |
+| 2418 | 6 | Barefield Curt |
+| 2419 | 6 | Kyshia |
+| 2420 | 6 | James Singleton |
+| 2421 | 6 | Dan Quintero |
+| 2422 | 6 | Sunny Shatterer |
+| 2423 | 6 | Tiff |
+| 2424 | 6 | CK |
+| 2425 | 6 | Stevie Malcon |
 | 2426 | 5 | Chummy Patternfall |
 | 2427 | 5 | Ashley Marie |
 | 2428 | 5 | Davery Spencer Adair |
