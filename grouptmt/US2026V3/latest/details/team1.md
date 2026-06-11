@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:43:26 UTC
+# Standings for team1 as of 2026-06-11 07:44:46 UTC
 
 **Total Participants:** 2460
 
@@ -11,7 +11,7 @@
 | 3 | 18431 | Death by SnuSnu |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 13684 | Carrie English |
-| 6 | 13174 | Peppy Piececlear |
+| 6 | 13226 | Peppy Piececlear |
 | 7 | 12803 | Charlie Roehm |
 | 8 | 12469 | Erika Windom |
 | 9 | 12431 | Timothy Robert |
@@ -56,7 +56,7 @@
 | 48 | 2909 | Therealdywoune Peay |
 | 49 | 2903 | BlackQueen105 |
 | 50 | 2800 | Rosey |
-| 51 | 2758 | Mimi 1.0 |
+| 51 | 2770 | Mimi 1.0 |
 | 52 | 2680 | Jamie Willis |
 | 53 | 2625 | Blockhead |
 | 54 | 2619 | Zappy Brickline |
@@ -148,8 +148,8 @@
 | 140 | 1227 | KenpachisGirl |
 | 141 | 1225 | Taylor Evelyn |
 | 142 | 1224 | Tiana Moore |
-| 143 | 1208 | Jazzy Dashpiece |
-| 144 | 1205 | Plucky Slamdrop |
+| 143 | 1214 | Plucky Slamdrop |
+| 144 | 1208 | Jazzy Dashpiece |
 | 145 | 1196 | ELM |
 | 146 | 1179 | Lesley Brunkus Cianfaglione |
 | 147 | 1158 | kc |
@@ -740,22 +740,22 @@
 | 732 | 260 | Lester Malone |
 | 733 | 260 | Ashley Danielle |
 | 734 | 259 | Deanna Close |
-| 735 | 259 | Anastasia |
+| 735 | 259 | Adrian Wilson |
 | 736 | 259 | Blocksy |
-| 737 | 259 | Adrian Wilson |
-| 738 | 258 | Stronger Wiser Better |
+| 737 | 259 | Anastasia |
+| 738 | 258 | Ameillia Boughner |
 | 739 | 258 | Lynnette WheelerBushnell |
-| 740 | 258 | Ameillia Boughner |
+| 740 | 258 | Stronger Wiser Better |
 | 741 | 257 | Joka NoTime ForHataz |
-| 742 | 257 | Nekka |
-| 743 | 257 | Chris Nelson |
-| 744 | 257 | Gerold Folk Haddock |
+| 742 | 257 | Chris Nelson |
+| 743 | 257 | Gerold Folk Haddock |
+| 744 | 257 | Nekka |
 | 745 | 257 | Shemar Singleton |
 | 746 | 257 | GetDaOPPS |
-| 747 | 257 | Mario Meliodas |
-| 748 | 257 | Seddrick |
-| 749 | 256 | Semaj Johnson |
-| 750 | 256 | Joseph Vs Cap |
+| 747 | 257 | Joseph Vs Cap |
+| 748 | 257 | Mario Meliodas |
+| 749 | 257 | Seddrick |
+| 750 | 256 | Semaj Johnson |
 | 751 | 256 | messyboots |
 | 752 | 255 | Lindsey |
 | 753 | 255 | Tushama Cheris Okraku |
