@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 13:12:25 UTC
+# Standings for team1 as of 2026-06-11 13:13:19 UTC
 
 **Total Participants:** 2488
 
@@ -39,14 +39,14 @@
 | 31 | 4269 | Shortstak |
 | 32 | 4259 | Janine Hunter |
 | 33 | 4041 | Jacoby E Fleming |
-| 34 | 3985 | Weeze |
-| 35 | 3953 | Jo NewmindNewfocus Bell |
-| 36 | 3950 | Cee Emm |
+| 34 | 4010 | Cee Emm |
+| 35 | 3985 | Weeze |
+| 36 | 3953 | Jo NewmindNewfocus Bell |
 | 37 | 3927 | Mary Jenkins |
 | 38 | 3914 | Juan Kandiss Escobedo Irwin |
 | 39 | 3763 | Sha Harris |
 | 40 | 3761 | Brian Stackhouse |
-| 41 | 3653 | Jennifer To |
+| 41 | 3673 | Jennifer To |
 | 42 | 3609 | Chill Clusterer |
 | 43 | 3442 | Yolanda McDonald |
 | 44 | 3439 | Mimi 1.0 |
@@ -99,11 +99,11 @@
 | 91 | 1870 | TAZ-MF-NIZIL |
 | 92 | 1854 | Jessica Roberts |
 | 93 | 1841 | Spunky Edgefit |
-| 94 | 1717 | sha |
-| 95 | 1711 | Richard Horton |
-| 96 | 1708 | MamaBear |
-| 97 | 1703 | Sanjuro |
-| 98 | 1697 | Roberta Lynn |
+| 94 | 1737 | Roberta Lynn |
+| 95 | 1717 | sha |
+| 96 | 1711 | Richard Horton |
+| 97 | 1708 | MamaBear |
+| 98 | 1703 | Sanjuro |
 | 99 | 1680 | FallDee |
 | 100 | 1668 | La'Chae Nickole |
 | 101 | 1647 | Dawn L Washington-Feuquay |
@@ -210,7 +210,7 @@
 | 202 | 866 | Trendalyn Webb |
 | 203 | 862 | Stef Hu |
 | 204 | 862 | LaSharmeika Fancher |
-| 205 | 854 | Gael Quintana |
+| 205 | 860 | Gael Quintana |
 | 206 | 837 | Crystal Anderson |
 | 207 | 837 | Clint Mcdowell |
 | 208 | 834 | Jamal Itzjusmall Chambers |
@@ -449,24 +449,24 @@
 | 441 | 422 | The DUBZ |
 | 442 | 420 | Ketrell Bailey |
 | 443 | 419 | Stephen Glaze |
-| 444 | 419 | Yadira Salgado |
-| 445 | 418 | Cortaz Lawrie |
-| 446 | 417 | John Staub |
-| 447 | 416 | Twisty Pivot |
-| 448 | 416 | Silly Edgepiece |
-| 449 | 414 | Brittanie Wardlow |
+| 444 | 419 | Tonia Ramos |
+| 445 | 419 | Yadira Salgado |
+| 446 | 418 | Cortaz Lawrie |
+| 447 | 417 | John Staub |
+| 448 | 416 | Twisty Pivot |
+| 449 | 416 | Silly Edgepiece |
 | 450 | 414 | Sammie Walker |
-| 451 | 412 | Matthieu Pistone |
-| 452 | 412 | Ashley MyBeauty Daniels |
+| 451 | 414 | Brittanie Wardlow |
+| 452 | 412 | Matthieu Pistone |
 | 453 | 412 | Jessica Kirby |
-| 454 | 411 | Betsy B. Yohan |
-| 455 | 411 | Giggy Tower |
-| 456 | 410 | Tonia Ramos |
-| 457 | 410 | Salim Thugger |
-| 458 | 410 | Kimberly Linares Hernandez |
-| 459 | 409 | Still Ten Tay |
+| 454 | 412 | Ashley MyBeauty Daniels |
+| 455 | 411 | Betsy B. Yohan |
+| 456 | 411 | Giggy Tower |
+| 457 | 410 | Kimberly Linares Hernandez |
+| 458 | 410 | Salim Thugger |
+| 459 | 409 | KeeKee Williams |
 | 460 | 409 | Melanin Monroe-Dandridge |
-| 461 | 409 | KeeKee Williams |
+| 461 | 409 | Still Ten Tay |
 | 462 | 409 | Holly Baker |
 | 463 | 409 | Amber Wilson |
 | 464 | 409 | Lisa Fletcher |
@@ -2314,17 +2314,17 @@
 | 2306 | 11 | Vanessa Proffitt |
 | 2307 | 11 | Groovy Climber |
 | 2308 | 11 | Snappy Towerpiece |
-| 2309 | 11 | Lively Edgefit |
-| 2310 | 11 | Kourt Short |
-| 2311 | 11 | pizzapie |
-| 2312 | 11 | Carla Mckinney |
-| 2313 | 11 | Jayson |
-| 2314 | 11 | Amber Laine |
-| 2315 | 11 | RelleyNacole |
-| 2316 | 10 | Snazzy Rotator |
-| 2317 | 10 | Tracy Stacy |
+| 2309 | 11 | dz |
+| 2310 | 11 | Lively Edgefit |
+| 2311 | 11 | Kourt Short |
+| 2312 | 11 | pizzapie |
+| 2313 | 11 | Carla Mckinney |
+| 2314 | 11 | Jayson |
+| 2315 | 11 | Amber Laine |
+| 2316 | 11 | RelleyNacole |
+| 2317 | 10 | Snazzy Rotator |
 | 2318 | 10 | Terry Lovett |
-| 2319 | 10 | dz |
+| 2319 | 10 | Tracy Stacy |
 | 2320 | 10 | Popcorn |
 | 2321 | 10 | Jonay Zuri |
 | 2322 | 10 | Ismael Sanchez |
