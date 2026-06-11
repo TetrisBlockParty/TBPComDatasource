@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 13:24:21 UTC
+# Standings for team1 as of 2026-06-11 13:25:25 UTC
 
 **Total Participants:** 2489
 
@@ -28,7 +28,7 @@
 | 20 | 7239 | Ebo Got-Time |
 | 21 | 7154 | Jocelyn Pope-Sewell |
 | 22 | 7037 | Tekedra Wilson |
-| 23 | 6881 | Pdubbl3 |
+| 23 | 7031 | Pdubbl3 |
 | 24 | 6121 | Chandler Spencer |
 | 25 | 6002 | Ivana Schmidt |
 | 26 | 5883 | Hunter Rayborn |
@@ -159,17 +159,17 @@
 | 151 | 1147 | Kaleisha Smith |
 | 152 | 1142 | Yasmin Nakea Wright |
 | 153 | 1136 | Cathy Young |
-| 154 | 1121 | Raymond Keeler |
+| 154 | 1121 | Lisa Müller |
 | 155 | 1121 | Zippy Lifter |
-| 156 | 1121 | Lisa Müller |
-| 157 | 1109 | Keke Ferguson |
-| 158 | 1107 | Katherine Short |
-| 159 | 1100 | Christana Imjustbutton Stone |
-| 160 | 1097 | De'Laonzeo Anthony |
-| 161 | 1084 | Eartha Brown |
-| 162 | 1082 | Gotcha |
-| 163 | 1080 | Nerdy Blockpiece |
-| 164 | 1080 | boogeywoogey |
+| 156 | 1121 | Raymond Keeler |
+| 157 | 1110 | boogeywoogey |
+| 158 | 1109 | Keke Ferguson |
+| 159 | 1107 | Katherine Short |
+| 160 | 1100 | Christana Imjustbutton Stone |
+| 161 | 1097 | De'Laonzeo Anthony |
+| 162 | 1084 | Eartha Brown |
+| 163 | 1082 | Gotcha |
+| 164 | 1080 | Nerdy Blockpiece |
 | 165 | 1078 | Quirky Fallgrid |
 | 166 | 1073 | Rackemwillie34 |
 | 167 | 1068 | Cece Fowler |
@@ -183,19 +183,19 @@
 | 175 | 1021 | Jeffrey Barrows |
 | 176 | 1004 | Antonia Wyche |
 | 177 | 994 | GrkGdess |
-| 178 | 981 | No_Other_Choice |
-| 179 | 971 | Slinky Puzzler |
-| 180 | 964 | Zippy Tilefall |
-| 181 | 957 | Tammye Turner |
-| 182 | 952 | Ebony |
-| 183 | 950 | Andi McGreevy |
-| 184 | 949 | Chuck Quarles |
-| 185 | 946 | Smiley3000 |
-| 186 | 939 | Dandy Brickfit |
-| 187 | 935 | Ebony Waynes-robinson |
-| 188 | 927 | Nobles Brandon |
+| 178 | 982 | Cheeky Pop |
+| 179 | 981 | No_Other_Choice |
+| 180 | 971 | Slinky Puzzler |
+| 181 | 964 | Zippy Tilefall |
+| 182 | 957 | Tammye Turner |
+| 183 | 952 | Ebony |
+| 184 | 950 | Andi McGreevy |
+| 185 | 949 | Chuck Quarles |
+| 186 | 946 | Smiley3000 |
+| 187 | 939 | Dandy Brickfit |
+| 188 | 935 | Ebony Waynes-robinson |
 | 189 | 927 | Novaa |
-| 190 | 922 | Cheeky Pop |
+| 190 | 927 | Nobles Brandon |
 | 191 | 921 | win |
 | 192 | 915 | W.A. Simpson |
 | 193 | 913 | JaszyBadd |
@@ -258,16 +258,16 @@
 | 250 | 706 | TeeMaster Barber IsLyfe |
 | 251 | 699 | Tempee |
 | 252 | 689 | Elizabeth Vega Coreano |
-| 253 | 688 | Bambi Love |
-| 254 | 685 | Haley Bell |
-| 255 | 685 | Tishauna Virgo |
-| 256 | 684 | Giggy Clusterer |
-| 257 | 680 | e |
-| 258 | 680 | Charletha Williams |
-| 259 | 679 | Lashawn Wallace |
-| 260 | 678 | BabyCakes |
-| 261 | 674 | DaVonte' Cretter |
-| 262 | 669 | Shell Lewis |
+| 253 | 689 | Shell Lewis |
+| 254 | 688 | Bambi Love |
+| 255 | 685 | Haley Bell |
+| 256 | 685 | Tishauna Virgo |
+| 257 | 684 | Giggy Clusterer |
+| 258 | 680 | e |
+| 259 | 680 | Charletha Williams |
+| 260 | 679 | Lashawn Wallace |
+| 261 | 678 | BabyCakes |
+| 262 | 674 | DaVonte' Cretter |
 | 263 | 668 | Dion Gray |
 | 264 | 668 | OhNoZer0 |
 | 265 | 667 | Anthony |
@@ -278,10 +278,10 @@
 | 270 | 654 | Nina Davis |
 | 271 | 654 | Rhonda Williams Warner |
 | 272 | 653 | SPNLover24 |
-| 273 | 647 | Shameka Thrasher |
-| 274 | 647 | Simply-Beautiful007 |
-| 275 | 643 | Cheery Linkfall |
-| 276 | 643 | Calvin Green |
+| 273 | 648 | Calvin Green |
+| 274 | 647 | Shameka Thrasher |
+| 275 | 647 | Simply-Beautiful007 |
+| 276 | 643 | Cheery Linkfall |
 | 277 | 641 | Marissa Sweet |
 | 278 | 627 | Tobey Marberry |
 | 279 | 625 | Tamara Johnson-Carter |
@@ -1315,43 +1315,43 @@
 | 1307 | 108 | Smiley Tilebuilder |
 | 1308 | 108 | Phoenix |
 | 1309 | 108 | Tony P Burke |
-| 1310 | 107 | Mrs |
-| 1311 | 107 | Jeremy Pope |
-| 1312 | 107 | Amanda Miller |
+| 1310 | 107 | Jeremy Pope |
+| 1311 | 107 | Amanda Miller |
+| 1312 | 107 | Mrs |
 | 1313 | 107 | Brandon Knox |
 | 1314 | 107 | Arjuna Taylor |
-| 1315 | 106 | Zappy Zoney |
-| 1316 | 106 | Hound Dog |
-| 1317 | 106 | Symonne 'Monnie' Pierce |
-| 1318 | 106 | Toohartless Mech |
-| 1319 | 106 | NataAllDay |
+| 1315 | 106 | Symonne 'Monnie' Pierce |
+| 1316 | 106 | NataAllDay |
+| 1317 | 106 | Hound Dog |
+| 1318 | 106 | Zappy Zoney |
+| 1319 | 106 | Toohartless Mech |
 | 1320 | 106 | Dani McLeod |
-| 1321 | 105 | Maria |
-| 1322 | 105 | smash56! |
-| 1323 | 105 | Michael Smith |
-| 1324 | 104 | Jenni |
+| 1321 | 105 | smash56! |
+| 1322 | 105 | Maria |
+| 1323 | 105 | Plucky Dashgrid |
+| 1324 | 105 | Michael Smith |
 | 1325 | 104 | Cozy Balancefit |
 | 1326 | 104 | Lush Crasher |
-| 1327 | 104 | Briela Sabrina |
+| 1327 | 104 | Ahvae Lee |
 | 1328 | 104 | Jiff |
-| 1329 | 104 | Ahvae Lee |
-| 1330 | 103 | BigMike |
-| 1331 | 103 | H Hr De Gfe |
-| 1332 | 103 | Desi |
-| 1333 | 102 | Chip |
-| 1334 | 102 | Ray Day |
-| 1335 | 101 | Frothy Snapmatch |
-| 1336 | 101 | Plucky Dashgrid |
+| 1329 | 104 | Briela Sabrina |
+| 1330 | 104 | Jenni |
+| 1331 | 103 | BigMike |
+| 1332 | 103 | H Hr De Gfe |
+| 1333 | 103 | Desi |
+| 1334 | 102 | Chip |
+| 1335 | 102 | Ray Day |
+| 1336 | 101 | Frothy Snapmatch |
 | 1337 | 101 | Duane Thomas Lmt |
 | 1338 | 101 | Ryan Holm |
-| 1339 | 100 | Korie Dixon |
-| 1340 | 100 | Megan Payette |
-| 1341 | 100 | Thomas Pearson |
-| 1342 | 100 | Oldheads |
+| 1339 | 100 | Jeaneé Nay |
+| 1340 | 100 | Jamie Mclean |
+| 1341 | 100 | Korie Dixon |
+| 1342 | 100 | Warren Miller |
 | 1343 | 100 | Babette Estep |
-| 1344 | 100 | Warren Miller |
-| 1345 | 100 | Jamie Mclean |
-| 1346 | 100 | Jeaneé Nay |
+| 1344 | 100 | Oldheads |
+| 1345 | 100 | Thomas Pearson |
+| 1346 | 100 | Megan Payette |
 | 1347 | 99 | Kechie Johnson |
 | 1348 | 99 | don ralph |
 | 1349 | 99 | TiffanyG |
