@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:36:46 UTC
+# Standings for team4 as of 2026-06-11 08:37:23 UTC
 
 **Total Participants:** 2503
 
@@ -486,11 +486,11 @@
 | 478 | 373 | Janna Thompson |
 | 479 | 373 | Lupe Chapa |
 | 480 | 371 | Jenny Cabral |
-| 481 | 371 | Kari Smith |
-| 482 | 370 | Jrr |
-| 483 | 370 | Dizzy Slammer |
-| 484 | 369 | Azahares Alonso |
-| 485 | 368 | Kaps |
+| 481 | 371 | Kaps |
+| 482 | 371 | Kari Smith |
+| 483 | 370 | Jrr |
+| 484 | 370 | Dizzy Slammer |
+| 485 | 369 | Azahares Alonso |
 | 486 | 367 | Alyssa Berg |
 | 487 | 366 | KrisTina2007 |
 | 488 | 366 | Erik Clary |
@@ -2351,42 +2351,42 @@
 | 2343 | 11 | Bryan Odle |
 | 2344 | 11 | Tammi Crnza |
 | 2345 | 11 | Melanie Henderson Spencer |
-| 2346 | 11 | Fancy Shuffler |
-| 2347 | 11 | Cindy Prieto |
-| 2348 | 11 | Polo Jeffries |
+| 2346 | 11 | Arsenio Fox |
+| 2347 | 11 | Polo Jeffries |
+| 2348 | 11 | Cindy Prieto |
 | 2349 | 11 | Peppy Glidebuilder |
 | 2350 | 11 | Tye Hayes |
-| 2351 | 11 | SUGARLUV66 |
-| 2352 | 11 | Scott James Cooper |
-| 2353 | 11 | Eric Mellinger |
-| 2354 | 11 | Arsenio Fox |
-| 2355 | 11 | Heather Smith-Carter |
-| 2356 | 11 | Dizzy Snapclear |
-| 2357 | 10 | Esla mamas |
-| 2358 | 10 | James Lackey |
+| 2351 | 11 | Fancy Shuffler |
+| 2352 | 11 | SUGARLUV66 |
+| 2353 | 11 | Scott James Cooper |
+| 2354 | 11 | Eric Mellinger |
+| 2355 | 11 | Dizzy Snapclear |
+| 2356 | 11 | Heather Smith-Carter |
+| 2357 | 10 | $ir Buddwolffe |
+| 2358 | 10 | Elizabeth Leland |
 | 2359 | 10 | Megan Ashli Stolze |
-| 2360 | 10 | Jen Switzer |
-| 2361 | 10 | Breezy Risepiece |
-| 2362 | 10 | Tee |
+| 2360 | 10 | James Lackey |
+| 2361 | 10 | Jen Switzer |
+| 2362 | 10 | Breezy Risepiece |
 | 2363 | 10 | UnknownTrav4300 |
-| 2364 | 10 | frank |
-| 2365 | 10 | Kay Immaslay |
-| 2366 | 10 | Emily Victoria Evans |
+| 2364 | 10 | Tee |
+| 2365 | 10 | frank |
+| 2366 | 10 | Kay Immaslay |
 | 2367 | 10 | Yoko Shiki |
-| 2368 | 10 | Swanky Shatterbuilder |
-| 2369 | 10 | Micha Renee Saldana |
-| 2370 | 10 | $ir Buddwolffe |
+| 2368 | 10 | Emily Victoria Evans |
+| 2369 | 10 | Swanky Shatterbuilder |
+| 2370 | 10 | Micha Renee Saldana |
 | 2371 | 10 | Lazy Crusher |
 | 2372 | 10 | Dreamy Dash |
-| 2373 | 10 | Elizabeth Leland |
+| 2373 | 10 | Esla mamas |
 | 2374 | 10 | Lea Hartley |
 | 2375 | 10 | Mary Crisp |
 | 2376 | 10 | Im walkin here |
 | 2377 | 10 | Susan Buckner |
 | 2378 | 10 | Nicole Washington |
-| 2379 | 10 | John Garza |
-| 2380 | 10 | Antonaya E Garner |
-| 2381 | 10 | ItsJust Ariel |
+| 2379 | 10 | ItsJust Ariel |
+| 2380 | 10 | John Garza |
+| 2381 | 10 | Antonaya E Garner |
 | 2382 | 10 | Cheery Tower |
 | 2383 | 10 | Quana Jackson |
 | 2384 | 10 | Jesse Richardson |
@@ -2395,120 +2395,120 @@
 | 2387 | 10 | Leah Keesling |
 | 2388 | 10 | Crystal |
 | 2389 | 10 | Taurus Princezz |
-| 2390 | 10 | Jumpy Patternfall |
-| 2391 | 10 | Chirpy Linefit |
-| 2392 | 10 | Whoop Blancò |
-| 2393 | 10 | Babygirlpily |
-| 2394 | 10 | Nicole |
+| 2390 | 10 | Chirpy Linefit |
+| 2391 | 10 | Jumpy Patternfall |
+| 2392 | 10 | Anthony Reynolds |
+| 2393 | 10 | Whoop Blancò |
+| 2394 | 10 | Babygirlpily |
 | 2395 | 10 | Zesty Snapmatch |
-| 2396 | 10 | Buchanon Bossingup Jadrienne |
-| 2397 | 10 | Brianne Stull |
-| 2398 | 10 | Lisa Hammock |
-| 2399 | 10 | Cranky Stackbuilder |
-| 2400 | 9 | Frothy Riseclear |
-| 2401 | 9 | apryliss Star |
-| 2402 | 9 | MissGranity |
-| 2403 | 9 | Todd Hamilton |
-| 2404 | 9 | fmp |
-| 2405 | 9 | estefi |
+| 2396 | 10 | Nicole |
+| 2397 | 10 | Buchanon Bossingup Jadrienne |
+| 2398 | 10 | Brianne Stull |
+| 2399 | 10 | Lisa Hammock |
+| 2400 | 10 | Cranky Stackbuilder |
+| 2401 | 9 | Frothy Riseclear |
+| 2402 | 9 | apryliss Star |
+| 2403 | 9 | MissGranity |
+| 2404 | 9 | Todd Hamilton |
+| 2405 | 9 | fmp |
 | 2406 | 9 | Temple Larry |
-| 2407 | 9 | Marty Carver |
-| 2408 | 9 | Trippy Mels |
-| 2409 | 9 | Yuanita Tetelepta-Baskoro |
-| 2410 | 9 | K Courtney Camp |
-| 2411 | 9 | Shawanda Stanford |
+| 2407 | 9 | estefi |
+| 2408 | 9 | Marty Carver |
+| 2409 | 9 | Trippy Mels |
+| 2410 | 9 | Yuanita Tetelepta-Baskoro |
+| 2411 | 9 | K Courtney Camp |
 | 2412 | 9 | Kristen Templeman |
 | 2413 | 9 | Terry Peach |
-| 2414 | 9 | Ivy Gregorio |
-| 2415 | 9 | Monica Bell |
-| 2416 | 9 | Diane Arreola |
-| 2417 | 9 | Micole Norris |
-| 2418 | 9 | Che Che Toussaint |
-| 2419 | 9 | Veronica Maldonado |
-| 2420 | 9 | Shara Oliver |
-| 2421 | 9 | Frilly Shuffler |
-| 2422 | 8 | Phoebe Tracy |
-| 2423 | 8 | corrupt corpse |
-| 2424 | 8 | Virgo27 |
-| 2425 | 8 | Glitzy Shuffler |
+| 2414 | 9 | Frilly Shuffler |
+| 2415 | 9 | Veronica Maldonado |
+| 2416 | 9 | Monica Bell |
+| 2417 | 9 | Shara Oliver |
+| 2418 | 9 | Micole Norris |
+| 2419 | 9 | Diane Arreola |
+| 2420 | 9 | Che Che Toussaint |
+| 2421 | 9 | Ivy Gregorio |
+| 2422 | 9 | Shawanda Stanford |
+| 2423 | 8 | Gerald Marx |
+| 2424 | 8 | Kristin R. Billiot |
+| 2425 | 8 | MissMess |
 | 2426 | 8 | LaTesha D Williams |
-| 2427 | 8 | MissMess |
-| 2428 | 8 | Gerald Marx |
-| 2429 | 8 | Hasty Glidezone |
-| 2430 | 8 | Kristin R. Billiot |
-| 2431 | 8 | Anaya |
-| 2432 | 8 | Shiny Jumper |
-| 2433 | 8 | Cozy Shuffler |
-| 2434 | 8 | John Leslie |
-| 2435 | 8 | Jen Molepske |
-| 2436 | 8 | Evie |
-| 2437 | 8 | Joey Ig |
-| 2438 | 8 | Tony Tenas |
-| 2439 | 8 | Zo |
-| 2440 | 8 | Box smash’em |
-| 2441 | 8 | Lewis Potts |
-| 2442 | 8 | Nums |
-| 2443 | 8 | Floyda Lynch |
-| 2444 | 8 | Ryan Sweeting |
-| 2445 | 8 | Ivory Glenn |
-| 2446 | 8 | Shania Richmond |
-| 2447 | 7 | Malinda Fife |
-| 2448 | 7 | John Brandon Kinney |
-| 2449 | 7 | Angela Mertz |
-| 2450 | 7 | Ghostblock |
-| 2451 | 7 | Twisty Rumbler |
-| 2452 | 7 | Tyler Sanitate |
-| 2453 | 7 | Peaches3569 |
-| 2454 | 7 | pippy |
-| 2455 | 7 | Valencia SeedenFavorite |
-| 2456 | 7 | Sassy Stagger |
-| 2457 | 7 | Estmercy |
-| 2458 | 7 | Sammmzzz |
-| 2459 | 7 | Jennifer Flores |
-| 2460 | 7 | Goofy Fitclear |
-| 2461 | 7 | Michelle Copas |
-| 2462 | 7 | Fancy Blast |
-| 2463 | 7 | Crafty Riser |
-| 2464 | 7 | Chrissy |
-| 2465 | 7 | Farty Pineapple |
-| 2466 | 7 | Lorenzo Lopez |
-| 2467 | 7 | Lisa Morea |
-| 2468 | 7 | Jerrod R VanAlstyne |
-| 2469 | 7 | Lacy Legrant |
-| 2470 | 7 | B |
-| 2471 | 7 | Charlesa Callis |
-| 2472 | 7 | Zany Towerzone |
-| 2473 | 6 | Anthony Reynolds |
-| 2474 | 6 | Aussies Boo |
-| 2475 | 6 | Nutty Dropper |
-| 2476 | 6 | Stacey Kauppi |
-| 2477 | 6 | Jennie Ortiz |
+| 2427 | 8 | Anaya |
+| 2428 | 8 | Hasty Glidezone |
+| 2429 | 8 | Glitzy Shuffler |
+| 2430 | 8 | Virgo27 |
+| 2431 | 8 | corrupt corpse |
+| 2432 | 8 | Phoebe Tracy |
+| 2433 | 8 | Joey Ig |
+| 2434 | 8 | Floyda Lynch |
+| 2435 | 8 | Shiny Jumper |
+| 2436 | 8 | Box smash’em |
+| 2437 | 8 | Zo |
+| 2438 | 8 | Ryan Sweeting |
+| 2439 | 8 | Tony Tenas |
+| 2440 | 8 | John Leslie |
+| 2441 | 8 | Cozy Shuffler |
+| 2442 | 8 | Jen Molepske |
+| 2443 | 8 | Evie |
+| 2444 | 8 | Nums |
+| 2445 | 8 | Lewis Potts |
+| 2446 | 8 | Ivory Glenn |
+| 2447 | 8 | Shania Richmond |
+| 2448 | 7 | Malinda Fife |
+| 2449 | 7 | John Brandon Kinney |
+| 2450 | 7 | Angela Mertz |
+| 2451 | 7 | Lacy Legrant |
+| 2452 | 7 | Goofy Fitclear |
+| 2453 | 7 | Michelle Copas |
+| 2454 | 7 | Fancy Blast |
+| 2455 | 7 | Ghostblock |
+| 2456 | 7 | Crafty Riser |
+| 2457 | 7 | Twisty Rumbler |
+| 2458 | 7 | Tyler Sanitate |
+| 2459 | 7 | Peaches3569 |
+| 2460 | 7 | Sassy Stagger |
+| 2461 | 7 | pippy |
+| 2462 | 7 | Valencia SeedenFavorite |
+| 2463 | 7 | Farty Pineapple |
+| 2464 | 7 | Zany Towerzone |
+| 2465 | 7 | Sammmzzz |
+| 2466 | 7 | Jennifer Flores |
+| 2467 | 7 | Estmercy |
+| 2468 | 7 | Charlesa Callis |
+| 2469 | 7 | B |
+| 2470 | 7 | Chrissy |
+| 2471 | 7 | Lisa Morea |
+| 2472 | 7 | Jerrod R VanAlstyne |
+| 2473 | 7 | Lorenzo Lopez |
+| 2474 | 6 | Nutty Dropper |
+| 2475 | 6 | Zumo0hECO |
+| 2476 | 6 | Aussies Boo |
+| 2477 | 6 | Stacey Kauppi |
 | 2478 | 6 | Megan Cote |
-| 2479 | 6 | Zumo0hECO |
-| 2480 | 6 | Sherry Heilig |
-| 2481 | 6 | Valerie Michelle Dula |
-| 2482 | 6 | Snippy Bouncer |
-| 2483 | 6 | Maria Landa |
-| 2484 | 6 | Crissie Mary Schafer |
+| 2479 | 6 | Crissie Mary Schafer |
+| 2480 | 6 | Jennie Ortiz |
+| 2481 | 6 | Maria Landa |
+| 2482 | 6 | Sherry Heilig |
+| 2483 | 6 | Valerie Michelle Dula |
+| 2484 | 6 | Snippy Bouncer |
 | 2485 | 6 | Frothy Gridmatch |
 | 2486 | 6 | April McWhite |
 | 2487 | 5 | Tippet |
-| 2488 | 5 | Saraya M Wood |
-| 2489 | 5 | Jenise Maldonado |
+| 2488 | 5 | Jenise Maldonado |
+| 2489 | 5 | Saraya M Wood |
 | 2490 | 5 | April Vela |
 | 2491 | 5 | Elizabeth Storey Jones |
-| 2492 | 5 | Racheal Lowry |
-| 2493 | 5 | Kayla Ridnour |
-| 2494 | 5 | Leo |
-| 2495 | 5 | Linda Monique |
-| 2496 | 5 | Tonja Kay Unrue |
-| 2497 | 5 | Gloria Parker |
-| 2498 | 5 | Fabian Yescas |
-| 2499 | 5 | Darlene Adragna |
-| 2500 | 5 | Debbie Johnson |
+| 2492 | 5 | Kayla Ridnour |
+| 2493 | 5 | Linda Monique |
+| 2494 | 5 | Tonja Kay Unrue |
+| 2495 | 5 | Gloria Parker |
+| 2496 | 5 | Debbie Johnson |
+| 2497 | 5 | Fabian Yescas |
+| 2498 | 5 | Darlene Adragna |
+| 2499 | 5 | Sydne Ochs |
+| 2500 | 5 | Mercedes Williams |
 | 2501 | 5 | Dizzy Fallzone |
-| 2502 | 5 | Sydne Ochs |
-| 2503 | 5 | Mercedes Williams |
+| 2502 | 5 | Racheal Lowry |
+| 2503 | 5 | Leo |
 
 ---
 *Standings created by tournaments datasource generation tool*
