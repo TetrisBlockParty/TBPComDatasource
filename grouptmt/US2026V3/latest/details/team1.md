@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 05:48:47 UTC
+# Standings for team1 as of 2026-06-11 05:49:25 UTC
 
 **Total Participants:** 2448
 
@@ -78,7 +78,7 @@
 | 70 | 2104 | Carolynne Walker-Bell |
 | 71 | 2103 | April Inboden |
 | 72 | 2101 | Holly Jolly |
-| 73 | 2068 | Louis Richard Jr |
+| 73 | 2071 | Louis Richard Jr |
 | 74 | 2058 | Frisky Fallmatch |
 | 75 | 2038 | Eric Mcgaughy |
 | 76 | 2026 | Ceilo Marie |
@@ -1414,33 +1414,33 @@
 | 1406 | 85 | Kris Gray |
 | 1407 | 85 | Skye |
 | 1408 | 84 | B |
-| 1409 | 84 | Robyn Ellis |
+| 1409 | 84 | Hoppy Snapper |
 | 1410 | 84 | Peppy Shatterblock |
-| 1411 | 84 | Quirky Gridpiece |
-| 1412 | 83 | Laceshia Finch |
-| 1413 | 83 | Crystal Winters Mckay |
-| 1414 | 83 | Emary Alarcon |
-| 1415 | 83 | Sassy Stack |
-| 1416 | 83 | Alyssa H |
-| 1417 | 83 | lovel |
-| 1418 | 83 | MrsMeadows2019 |
-| 1419 | 83 | Ahsokadog |
-| 1420 | 83 | John C Sexton |
-| 1421 | 83 | Blakk Ru-sta |
-| 1422 | 82 | Kenneth Williams |
-| 1423 | 82 | Dapper Balancefit |
-| 1424 | 82 | Sagitterrorist |
-| 1425 | 82 | Quirky Slammer |
+| 1411 | 84 | Robyn Ellis |
+| 1412 | 84 | Quirky Gridpiece |
+| 1413 | 83 | Laceshia Finch |
+| 1414 | 83 | Crystal Winters Mckay |
+| 1415 | 83 | Emary Alarcon |
+| 1416 | 83 | Sassy Stack |
+| 1417 | 83 | Alyssa H |
+| 1418 | 83 | Blakk Ru-sta |
+| 1419 | 83 | lovel |
+| 1420 | 83 | MrsMeadows2019 |
+| 1421 | 83 | John C Sexton |
+| 1422 | 83 | Ahsokadog |
+| 1423 | 82 | Kenneth Williams |
+| 1424 | 82 | Dapper Balancefit |
+| 1425 | 82 | Michelle Boutherpaper Francis |
 | 1426 | 82 | Lillie Blossom Dixon |
-| 1427 | 82 | Michelle Boutherpaper Francis |
-| 1428 | 81 | Amber Interrobang |
-| 1429 | 81 | JenNay |
-| 1430 | 81 | GracefulOwl808 |
-| 1431 | 81 | Hoppy Snapper |
-| 1432 | 81 | Joy Marie |
-| 1433 | 81 | Hannah Hall |
-| 1434 | 81 | Melanie Houghton-McCann |
-| 1435 | 81 | Vontii Blades |
+| 1427 | 82 | Quirky Slammer |
+| 1428 | 82 | Sagitterrorist |
+| 1429 | 81 | Hannah Hall |
+| 1430 | 81 | Melanie Houghton-McCann |
+| 1431 | 81 | Joy Marie |
+| 1432 | 81 | Vontii Blades |
+| 1433 | 81 | GracefulOwl808 |
+| 1434 | 81 | JenNay |
+| 1435 | 81 | Amber Interrobang |
 | 1436 | 80 | Shoppingbagdrezzy |
 | 1437 | 80 | Michael Gray |
 | 1438 | 80 | Tina Criam |

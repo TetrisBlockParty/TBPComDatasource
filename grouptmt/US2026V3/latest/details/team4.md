@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 05:48:47 UTC
+# Standings for team4 as of 2026-06-11 05:49:25 UTC
 
 **Total Participants:** 2479
 
@@ -158,15 +158,15 @@
 | 150 | 1059 | Beth Belanger |
 | 151 | 1057 | Heather Preston |
 | 152 | 1055 | Jenn Norcross |
-| 153 | 1053 | Keesha Muro |
-| 154 | 1038 | Principal Liz |
-| 155 | 1033 | Daryn Elliott |
-| 156 | 1030 | Gorica Prusina |
-| 157 | 1029 | Chiquita Blue |
-| 158 | 1028 | Alex Armour |
-| 159 | 1015 | Ermadette |
-| 160 | 1013 | Regina Williams |
-| 161 | 1004 | Tanya AfricanQueen Savage |
+| 153 | 1054 | Tanya AfricanQueen Savage |
+| 154 | 1053 | Keesha Muro |
+| 155 | 1038 | Principal Liz |
+| 156 | 1033 | Daryn Elliott |
+| 157 | 1030 | Gorica Prusina |
+| 158 | 1029 | Chiquita Blue |
+| 159 | 1028 | Alex Armour |
+| 160 | 1015 | Ermadette |
+| 161 | 1013 | Regina Williams |
 | 162 | 1001 | DexterDobbins |
 | 163 | 997 | SupaFly |
 | 164 | 996 | Renee Sapp |
@@ -2059,40 +2059,40 @@
 | 2051 | 28 | Margarita Santana |
 | 2052 | 28 | Willedtra Griffin |
 | 2053 | 27 | Loopy Bridger |
-| 2054 | 27 | Anna Bourff |
-| 2055 | 27 | Beto Vidaurri |
-| 2056 | 27 | Twisty Gridclear |
+| 2054 | 27 | Tetrees |
+| 2055 | 27 | Twisty Gridclear |
+| 2056 | 27 | Beto Vidaurri |
 | 2057 | 27 | Kau Morris |
 | 2058 | 27 | Josh Drew |
 | 2059 | 27 | samismia |
 | 2060 | 27 | Cranky Towerbuilder |
-| 2061 | 27 | Tetrees |
-| 2062 | 27 | Chipper Brickfit |
-| 2063 | 27 | boo |
-| 2064 | 27 | Jose Leandro Calderin |
-| 2065 | 27 | Beth Tanacea Mathern |
-| 2066 | 26 | Funky Riser |
+| 2061 | 27 | Jose Leandro Calderin |
+| 2062 | 27 | Anna Bourff |
+| 2063 | 27 | Chipper Brickfit |
+| 2064 | 27 | boo |
+| 2065 | 27 | Giggy Clicky |
+| 2066 | 27 | Beth Tanacea Mathern |
 | 2067 | 26 | Ryan Espinoza |
-| 2068 | 26 | AJscooter |
-| 2069 | 26 | Von |
-| 2070 | 26 | Glenda Zulueta Steed |
-| 2071 | 26 | Cheery Liney |
-| 2072 | 26 | Omega |
-| 2073 | 26 | Zada |
-| 2074 | 26 | Leslie Marie WarClub |
-| 2075 | 26 | Ivyleata McFadden |
-| 2076 | 26 | Kevin Lyles |
-| 2077 | 26 | Rebecca Rae Reed |
-| 2078 | 26 | Rob$GEE |
-| 2079 | 26 | Lacey Decker |
-| 2080 | 26 | Love GH |
-| 2081 | 25 | Gellix |
-| 2082 | 25 | Lush Dash |
-| 2083 | 25 | Spunky Winder |
-| 2084 | 25 | IvyRenee Collette |
-| 2085 | 25 | Mrs Tucker |
-| 2086 | 25 | Joyell Mersiel |
-| 2087 | 25 | Giggy Clicky |
+| 2068 | 26 | Funky Riser |
+| 2069 | 26 | AJscooter |
+| 2070 | 26 | Von |
+| 2071 | 26 | Glenda Zulueta Steed |
+| 2072 | 26 | Cheery Liney |
+| 2073 | 26 | Omega |
+| 2074 | 26 | Zada |
+| 2075 | 26 | Leslie Marie WarClub |
+| 2076 | 26 | Ivyleata McFadden |
+| 2077 | 26 | Kevin Lyles |
+| 2078 | 26 | Rebecca Rae Reed |
+| 2079 | 26 | Rob$GEE |
+| 2080 | 26 | Lacey Decker |
+| 2081 | 26 | Love GH |
+| 2082 | 25 | Gellix |
+| 2083 | 25 | Lush Dash |
+| 2084 | 25 | Spunky Winder |
+| 2085 | 25 | IvyRenee Collette |
+| 2086 | 25 | Mrs Tucker |
+| 2087 | 25 | Joyell Mersiel |
 | 2088 | 25 | Wacky Clearzone |
 | 2089 | 25 | Ak Jones |
 | 2090 | 25 | MoCa |
