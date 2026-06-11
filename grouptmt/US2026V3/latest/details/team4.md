@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 14:02:23 UTC
+# Standings for team4 as of 2026-06-11 14:03:25 UTC
 
 **Total Participants:** 2531
 
@@ -93,7 +93,7 @@
 | 85 | 2063 | Cranky Buildout |
 | 86 | 2003 | Jackie Polanco |
 | 87 | 1992 | 2 kool |
-| 88 | 1943 | Jazzy Gridder |
+| 88 | 1946 | Jazzy Gridder |
 | 89 | 1920 | Alyssa Oth |
 | 90 | 1897 | Chris Covington |
 | 91 | 1896 | Sassy Column |
@@ -149,8 +149,8 @@
 | 141 | 1226 | Jason Garnatz |
 | 142 | 1216 | Hardy Fuller |
 | 143 | 1206 | Kimberly Civinski |
-| 144 | 1182 | Phil Peterson |
-| 145 | 1180 | Futrell Brent |
+| 144 | 1190 | Futrell Brent |
+| 145 | 1182 | Phil Peterson |
 | 146 | 1180 | Anthony Magaraci |
 | 147 | 1177 | Gerald Lew |
 | 148 | 1176 | Shocinda Sherwood |
@@ -2286,12 +2286,12 @@
 | 2278 | 17 | Tina Giordano |
 | 2279 | 17 | Bouncy Rollblock |
 | 2280 | 17 | Chipper Frame |
-| 2281 | 17 | Kelly Pool |
-| 2282 | 17 | Jay Santos |
-| 2283 | 17 | A3R14L22 |
-| 2284 | 17 | Cool Caster |
-| 2285 | 16 | Shonteace Says |
-| 2286 | 16 | Nissi |
+| 2281 | 17 | Nissi |
+| 2282 | 17 | Kelly Pool |
+| 2283 | 17 | Jay Santos |
+| 2284 | 17 | A3R14L22 |
+| 2285 | 17 | Cool Caster |
+| 2286 | 16 | Shonteace Says |
 | 2287 | 16 | Yolanda Ferrer |
 | 2288 | 16 | Fancy Tiley |
 | 2289 | 16 | Mighty Balancer |
