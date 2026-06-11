@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 11:09:23 UTC
+# Standings for team4 as of 2026-06-11 11:10:23 UTC
 
 **Total Participants:** 2516
 
@@ -24,7 +24,7 @@
 | 16 | 8777 | Chris Hills |
 | 17 | 8398 | Jerald Jones |
 | 18 | 8005 | delilahbelle |
-| 19 | 7118 | Bubbly Twistpiece |
+| 19 | 7123 | Bubbly Twistpiece |
 | 20 | 6954 | Senor Moppy |
 | 21 | 6630 | Nia Mayfield |
 | 22 | 6292 | Cal Renee |
@@ -329,12 +329,12 @@
 | 321 | 557 | Tiffany Bunker-Hill |
 | 322 | 557 | Chummy Jumper |
 | 323 | 556 | Cherrypir05 |
-| 324 | 549 | Slinky Column |
-| 325 | 547 | Swanky Brickzone |
-| 326 | 546 | Honey |
+| 324 | 552 | Tipsy Piecebuilder |
+| 325 | 549 | Slinky Column |
+| 326 | 547 | Swanky Brickzone |
 | 327 | 546 | Earl Edwards |
-| 328 | 545 | Bobbie Harrell |
-| 329 | 542 | Tipsy Piecebuilder |
+| 328 | 546 | Honey |
+| 329 | 545 | Bobbie Harrell |
 | 330 | 540 | Shy |
 | 331 | 540 | Goofy Fall |
 | 332 | 538 | Tawna Curry |
