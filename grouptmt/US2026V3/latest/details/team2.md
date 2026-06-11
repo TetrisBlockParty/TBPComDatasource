@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 22:53:25 UTC
+# Standings for team2 as of 2026-06-11 22:54:24 UTC
 
 **Total Participants:** 3033
 
@@ -49,7 +49,7 @@
 | 41 | 6154 | Morgann McDaniel |
 | 42 | 5955 | Nawang Nawang |
 | 43 | 5943 | Logan Basham |
-| 44 | 5767 | Frisky Balanceblock |
+| 44 | 5787 | Frisky Balanceblock |
 | 45 | 5751 | Kymberlee Rolinski |
 | 46 | 5748 | Aubree Richard |
 | 47 | 5734 | Spunky Clicker |
@@ -197,8 +197,8 @@
 | 189 | 1249 | Cristi Doris |
 | 190 | 1249 | Jeska Gaines |
 | 191 | 1247 | Monique Frantz |
-| 192 | 1234 | Spicy Risegrid |
-| 193 | 1233 | Nancy Schwartz Gusman-Oliver |
+| 192 | 1238 | Nancy Schwartz Gusman-Oliver |
+| 193 | 1234 | Spicy Risegrid |
 | 194 | 1219 | Chris Cooper |
 | 195 | 1217 | Leigh Ann |
 | 196 | 1199 | Allie Bug |
@@ -339,8 +339,8 @@
 | 331 | 727 | Amy Gale |
 | 332 | 724 | Jeanna Mendez |
 | 333 | 714 | Curly Windbreaker |
-| 334 | 713 | Tara |
-| 335 | 713 | Kaycie Shaffer |
+| 334 | 713 | Kaycie Shaffer |
+| 335 | 713 | Tara |
 | 336 | 711 | Jeff Pottgether |
 | 337 | 709 | Jeffrey Smith |
 | 338 | 708 | Jumpy Matchbuilder |
@@ -369,8 +369,8 @@
 | 361 | 671 | Gloria May Shook |
 | 362 | 671 | Chill Shatterer |
 | 363 | 670 | Chirpy Grid |
-| 364 | 670 | MaddieCherie |
-| 365 | 670 | Liseth Vasquez |
+| 364 | 670 | Liseth Vasquez |
+| 365 | 670 | MaddieCherie |
 | 366 | 667 | Iesha Cupil |
 | 367 | 664 | Jennifer Wymer |
 | 368 | 660 | Sherri E Woods Hess |
@@ -383,9 +383,9 @@
 | 375 | 652 | Nikki Greeneyebeauty |
 | 376 | 652 | Stephany Green |
 | 377 | 648 | MUMBLES |
-| 378 | 643 | Judy Long |
-| 379 | 642 | Bri St Peter |
-| 380 | 642 | Newtwidebody |
+| 378 | 646 | Newtwidebody |
+| 379 | 643 | Judy Long |
+| 380 | 642 | Bri St Peter |
 | 381 | 641 | Wacky Curve |
 | 382 | 640 | Loopy Dropper |
 | 383 | 639 | Po Yee |
@@ -456,8 +456,8 @@
 | 448 | 540 | andee |
 | 449 | 539 | Earline Dupuy Bordelon |
 | 450 | 539 | Leticia Tillman |
-| 451 | 537 | Wacky Stack |
-| 452 | 537 | Melmel |
+| 451 | 539 | Melmel |
+| 452 | 537 | Wacky Stack |
 | 453 | 534 | Heather Burgett |
 | 454 | 534 | Kathleen Keogh Van Schoyck |
 | 455 | 534 | Staci Behrens |
