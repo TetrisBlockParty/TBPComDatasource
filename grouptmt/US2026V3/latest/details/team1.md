@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 05:00:49 UTC
+# Standings for team1 as of 2026-06-11 05:01:24 UTC
 
 **Total Participants:** 2437
 
@@ -49,8 +49,8 @@
 | 41 | 3587 | Cee Emm |
 | 42 | 3343 | Yolanda McDonald |
 | 43 | 3140 | Will |
-| 44 | 3082 | JoJo |
-| 45 | 3069 | Jennifer To |
+| 44 | 3084 | Jennifer To |
+| 45 | 3082 | JoJo |
 | 46 | 3025 | COSA303 |
 | 47 | 2909 | Therealdywoune Peay |
 | 48 | 2903 | BlackQueen105 |
@@ -1158,7 +1158,7 @@
 | 1150 | 133 | Heather Cross-Davis |
 | 1151 | 133 | Terrance Tindall |
 | 1152 | 133 | Goofy T-spin |
-| 1153 | 131 | Nicole Coko Thomas |
+| 1153 | 133 | Nicole Coko Thomas |
 | 1154 | 131 | WReckitraff |
 | 1155 | 131 | BlessedBeauty |
 | 1156 | 130 | kingbrook |
@@ -1248,17 +1248,17 @@
 | 1240 | 115 | WOOLFF |
 | 1241 | 115 | Shiny Lift |
 | 1242 | 115 | Haakuu |
-| 1243 | 115 | Cee CRaze Perry Sr. |
-| 1244 | 114 | Amy Thomas |
-| 1245 | 114 | Cherita Copney |
-| 1246 | 114 | Heckabluntstho |
-| 1247 | 114 | Pharen Oneofakind Frazier |
-| 1248 | 113 | Wacky Spinfit |
-| 1249 | 113 | Lazy Matchgrid |
-| 1250 | 113 | Sha Anderson |
-| 1251 | 113 | Bohdi |
-| 1252 | 112 | GamerQueenDS |
-| 1253 | 112 | Breezy Bouncer |
+| 1243 | 115 | Breezy Bouncer |
+| 1244 | 115 | Cee CRaze Perry Sr. |
+| 1245 | 114 | Amy Thomas |
+| 1246 | 114 | Cherita Copney |
+| 1247 | 114 | Heckabluntstho |
+| 1248 | 114 | Pharen Oneofakind Frazier |
+| 1249 | 113 | Wacky Spinfit |
+| 1250 | 113 | Lazy Matchgrid |
+| 1251 | 113 | Sha Anderson |
+| 1252 | 113 | Bohdi |
+| 1253 | 112 | GamerQueenDS |
 | 1254 | 112 | Elizabeth Hopkins |
 | 1255 | 112 | Embracing Hair |
 | 1256 | 111 | Letrishia Andrews |
@@ -1333,39 +1333,39 @@
 | 1325 | 98 | Azeiare Ziare |
 | 1326 | 98 | Mighty plantlady |
 | 1327 | 98 | Crafty Link |
-| 1328 | 97 | 1ofaking |
-| 1329 | 97 | Kevin Turner |
-| 1330 | 97 | Denise Cunningham-English |
-| 1331 | 97 | Butta |
+| 1328 | 97 | Kevin Turner |
+| 1329 | 97 | Denise Cunningham-English |
+| 1330 | 97 | Butta |
+| 1331 | 97 | 1ofaking |
 | 1332 | 97 | Derek Beverly |
 | 1333 | 96 | Linda Lasha Messenger |
-| 1334 | 96 | Giggly Shatterline |
+| 1334 | 96 | Kevin Witdaflute |
 | 1335 | 96 | Just2Play$ |
 | 1336 | 96 | Jason Riley |
-| 1337 | 96 | Kevin Witdaflute |
-| 1338 | 95 | Tiffany Weathersby |
-| 1339 | 95 | Nockallday |
-| 1340 | 95 | KingMilo |
-| 1341 | 95 | Jon Doe |
-| 1342 | 95 | Teresa Bean |
-| 1343 | 94 | Ike Nickerson |
+| 1337 | 96 | Giggly Shatterline |
+| 1338 | 95 | dweetyuhself |
+| 1339 | 95 | KingMilo |
+| 1340 | 95 | Tiffany Weathersby |
+| 1341 | 95 | Teresa Bean |
+| 1342 | 95 | Jon Doe |
+| 1343 | 95 | Nockallday |
 | 1344 | 94 | Annie |
-| 1345 | 94 | Antoinette GallowayJohnson |
+| 1345 | 94 | Ike Nickerson |
 | 1346 | 94 | Cortrell Foster |
 | 1347 | 94 | BADBOY658 |
 | 1348 | 94 | Spicy Risepiece |
-| 1349 | 94 | HBTone |
-| 1350 | 94 | Dennis Ripley |
-| 1351 | 93 | Stacey Kesteloot |
-| 1352 | 93 | dweetyuhself |
-| 1353 | 93 | Bold Spinblock |
-| 1354 | 93 | Plucky Dashgrid |
-| 1355 | 93 | Brave Balanceblock |
-| 1356 | 93 | Deantenique Smalls |
-| 1357 | 93 | Cathilia Rodriguez |
+| 1349 | 94 | Dennis Ripley |
+| 1350 | 94 | Antoinette GallowayJohnson |
+| 1351 | 94 | HBTone |
+| 1352 | 93 | Brave Balanceblock |
+| 1353 | 93 | Cathilia Rodriguez |
+| 1354 | 93 | Stacey Kesteloot |
+| 1355 | 93 | Bold Spinblock |
+| 1356 | 93 | Plucky Dashgrid |
+| 1357 | 93 | Deantenique Smalls |
 | 1358 | 92 | AshMo |
-| 1359 | 92 | Keia Price |
-| 1360 | 92 | J Dot Flo |
+| 1359 | 92 | J Dot Flo |
+| 1360 | 92 | Keia Price |
 | 1361 | 92 | Boldy Matchfit |
 | 1362 | 92 | Ryan |
 | 1363 | 91 | Sunnyflower |
