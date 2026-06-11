@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 10:28:42 UTC
+# Standings for team1 as of 2026-06-11 10:29:21 UTC
 
 **Total Participants:** 2472
 
@@ -59,8 +59,8 @@
 | 51 | 2900 | Rosey |
 | 52 | 2680 | Jamie Willis |
 | 53 | 2630 | Snappy Link |
-| 54 | 2625 | Blockhead |
-| 55 | 2620 | Chris Caniglia |
+| 54 | 2625 | Chris Caniglia |
+| 55 | 2625 | Blockhead |
 | 56 | 2619 | Zappy Brickline |
 | 57 | 2605 | Epic Snapfall |
 | 58 | 2599 | Tootsie Pop |
@@ -83,9 +83,9 @@
 | 75 | 2103 | April Inboden |
 | 76 | 2038 | Eric Mcgaughy |
 | 77 | 2026 | Ceilo Marie |
-| 78 | 1978 | Bre Maugh |
-| 79 | 1968 | Daylene Johannes |
-| 80 | 1966 | PandaPrincess |
+| 78 | 1986 | PandaPrincess |
+| 79 | 1978 | Bre Maugh |
+| 80 | 1968 | Daylene Johannes |
 | 81 | 1962 | Chenell Gillard |
 | 82 | 1950 | Chris Russell |
 | 83 | 1899 | Jolly Dropzone |
@@ -314,7 +314,7 @@
 | 306 | 568 | Joey Albright |
 | 307 | 566 | Christopher Dreamsareality McEachin |
 | 308 | 563 | Simmone T. Kadiri |
-| 309 | 553 | Jhonny Maii |
+| 309 | 558 | Jhonny Maii |
 | 310 | 553 | Giggly Tiltbuilder |
 | 311 | 549 | Qwlonda Shirrell |
 | 312 | 549 | Chasem45 |
@@ -1225,55 +1225,55 @@
 | 1217 | 123 | Alice Biggs |
 | 1218 | 123 | LaMinda Todd |
 | 1219 | 123 | Mamiyoung47 |
-| 1220 | 122 | Bluebino |
-| 1221 | 122 | Spicy Hedgehog |
-| 1222 | 122 | Nick Stowers |
+| 1220 | 122 | Nick Stowers |
+| 1221 | 122 | Silly Shatterline |
+| 1222 | 122 | Spicy Hedgehog |
 | 1223 | 122 | Amanda Colwell |
-| 1224 | 122 | Silly Shatterline |
+| 1224 | 122 | Bluebino |
 | 1225 | 122 | Tip318 |
 | 1226 | 122 | Hyper Patternline |
 | 1227 | 122 | Nichole Horsley-Conn |
-| 1228 | 120 | Yolanda Sadler |
+| 1228 | 120 | Juppi |
 | 1229 | 120 | Fransine Bennett |
 | 1230 | 120 | Laura Wesley |
-| 1231 | 120 | Demi Ovalle |
-| 1232 | 120 | Spunky Strikerbuilder |
-| 1233 | 120 | Linzi Cole |
-| 1234 | 120 | Richard Harper |
-| 1235 | 120 | Juppi |
-| 1236 | 120 | Lawreniesha Burkley |
-| 1237 | 120 | Snappy Matchfit |
-| 1238 | 120 | Tiffany Thompson |
-| 1239 | 119 | Octavia Whitmire |
+| 1231 | 120 | Spunky Strikerbuilder |
+| 1232 | 120 | Demi Ovalle |
+| 1233 | 120 | Richard Harper |
+| 1234 | 120 | Yolanda Sadler |
+| 1235 | 120 | Linzi Cole |
+| 1236 | 120 | Tiffany Thompson |
+| 1237 | 120 | Lawreniesha Burkley |
+| 1238 | 120 | Snappy Matchfit |
+| 1239 | 119 | Sarah Jones |
 | 1240 | 119 | Evette Moreno |
-| 1241 | 119 | Jordan Deon Elery |
-| 1242 | 119 | Ashley Shelton |
-| 1243 | 119 | Christina Wesley |
-| 1244 | 119 | Sarah Jones |
-| 1245 | 119 | Solomon Valarie |
-| 1246 | 118 | Michelle Dollah |
-| 1247 | 118 | Shanna Green Williams |
-| 1248 | 118 | Leslie Ann |
-| 1249 | 118 | Tanisha Robinson |
-| 1250 | 118 | Felicia Yahuah Johnson |
-| 1251 | 117 | Andrea Jackson |
-| 1252 | 117 | Cheery Clusterbuilder |
-| 1253 | 116 | Bouncy Blockclear |
-| 1254 | 116 | Amanda Bell |
-| 1255 | 116 | Jeffrey Pierce-Overton |
-| 1256 | 116 | Torrie Eckrote |
-| 1257 | 116 | Tonya Carroll |
-| 1258 | 116 | Demetrice Buck Wilson |
-| 1259 | 116 | Elizabeth Green |
-| 1260 | 116 | Daring Linkfall |
-| 1261 | 115 | Haakuu |
-| 1262 | 115 | Shiny Lift |
-| 1263 | 115 | Tiffany Weathersby |
-| 1264 | 115 | Quwana Hall |
-| 1265 | 115 | WOOLFF |
-| 1266 | 114 | Amy Thomas |
-| 1267 | 114 | Cherita Copney |
-| 1268 | 114 | Heckabluntstho |
+| 1241 | 119 | Christina Wesley |
+| 1242 | 119 | Heckabluntstho |
+| 1243 | 119 | Ashley Shelton |
+| 1244 | 119 | Octavia Whitmire |
+| 1245 | 119 | Jordan Deon Elery |
+| 1246 | 119 | Solomon Valarie |
+| 1247 | 118 | Tanisha Robinson |
+| 1248 | 118 | Michelle Dollah |
+| 1249 | 118 | Felicia Yahuah Johnson |
+| 1250 | 118 | Shanna Green Williams |
+| 1251 | 118 | Leslie Ann |
+| 1252 | 117 | Andrea Jackson |
+| 1253 | 117 | Cheery Clusterbuilder |
+| 1254 | 116 | Torrie Eckrote |
+| 1255 | 116 | Amanda Bell |
+| 1256 | 116 | Jeffrey Pierce-Overton |
+| 1257 | 116 | Bouncy Blockclear |
+| 1258 | 116 | Daring Linkfall |
+| 1259 | 116 | Demetrice Buck Wilson |
+| 1260 | 116 | Elizabeth Green |
+| 1261 | 116 | Tonya Carroll |
+| 1262 | 115 | Haakuu |
+| 1263 | 115 | Shiny Lift |
+| 1264 | 115 | Tiffany Weathersby |
+| 1265 | 115 | Quwana Hall |
+| 1266 | 115 | WOOLFF |
+| 1267 | 114 | Amy Thomas |
+| 1268 | 114 | Cherita Copney |
 | 1269 | 114 | Pharen Oneofakind Frazier |
 | 1270 | 113 | Bohdi |
 | 1271 | 113 | Wacky Spinfit |
@@ -1846,80 +1846,80 @@
 | 1838 | 40 | NiingDing |
 | 1839 | 40 | Jerome Davis |
 | 1840 | 40 | Carol Washington |
-| 1841 | 40 | Dawn Walker |
-| 1842 | 40 | RossA |
+| 1841 | 40 | RossA |
+| 1842 | 40 | Dawn Walker |
 | 1843 | 40 | Breezy Pivoty |
 | 1844 | 40 | Bumpy Ricketts |
 | 1845 | 40 | Chuck Gee |
 | 1846 | 40 | Steve Renelus |
 | 1847 | 40 | Brandon Dontell Saunders |
 | 1848 | 40 | Boldy Zoner |
-| 1849 | 40 | Crafty Shatterfit |
-| 1850 | 40 | DimplezAOS |
+| 1849 | 40 | DimplezAOS |
+| 1850 | 40 | Crafty Shatterfit |
 | 1851 | 40 | Lisa Messerli |
-| 1852 | 40 | James Dunlap |
-| 1853 | 40 | Peachy Pusher |
+| 1852 | 40 | Peachy Pusher |
+| 1853 | 40 | James Dunlap |
 | 1854 | 40 | Girly Pop |
 | 1855 | 40 | Katrina Trein Bein Dickerson |
-| 1856 | 40 | Flashy Slam |
+| 1856 | 40 | Tamara Farmer |
 | 1857 | 40 | meep |
 | 1858 | 40 | Chummy Blockpiece |
-| 1859 | 40 | Tamara Farmer |
-| 1860 | 39 | Deborah |
+| 1859 | 40 | Flashy Slam |
+| 1860 | 39 | Katybeth Pauley |
 | 1861 | 39 | Diva shrock |
-| 1862 | 39 | Katybeth Pauley |
+| 1862 | 39 | Deborah |
 | 1863 | 39 | LS Jamison |
-| 1864 | 39 | LahMar Hunter |
-| 1865 | 39 | Rekeia Minding Mine |
-| 1866 | 39 | Jenine Wiser |
-| 1867 | 39 | Cheeky Wipegrid |
-| 1868 | 39 | BP Phillips |
-| 1869 | 39 | Bouncy Base |
-| 1870 | 38 | hope |
-| 1871 | 38 | Rex |
-| 1872 | 38 | Pastors Du Bose |
-| 1873 | 38 | Mrs . Candy |
-| 1874 | 38 | scorpiobae |
-| 1875 | 38 | Clever Twistbuilder |
-| 1876 | 38 | Charlene Marshall |
-| 1877 | 38 | Krista Shanice |
-| 1878 | 38 | Nicole Freeman |
-| 1879 | 38 | Snippy T-spin |
-| 1880 | 38 | Saucy Patternbuilder |
-| 1881 | 38 | Zesty Clearer |
-| 1882 | 38 | Kiyeri |
-| 1883 | 38 | Crystal Segura |
-| 1884 | 37 | kiki |
-| 1885 | 37 | Jb Mzresilience |
-| 1886 | 37 | Juniper |
-| 1887 | 37 | Clever Balancepiece |
-| 1888 | 37 | Iván Cedeño |
+| 1864 | 39 | Frilly Glidepiece |
+| 1865 | 39 | Cheeky Wipegrid |
+| 1866 | 39 | LahMar Hunter |
+| 1867 | 39 | Rekeia Minding Mine |
+| 1868 | 39 | Jenine Wiser |
+| 1869 | 39 | BP Phillips |
+| 1870 | 39 | Bouncy Base |
+| 1871 | 38 | Crystal Segura |
+| 1872 | 38 | Nicole Freeman |
+| 1873 | 38 | scorpiobae |
+| 1874 | 38 | hope |
+| 1875 | 38 | Rex |
+| 1876 | 38 | Pastors Du Bose |
+| 1877 | 38 | Mrs . Candy |
+| 1878 | 38 | Clever Twistbuilder |
+| 1879 | 38 | Charlene Marshall |
+| 1880 | 38 | Krista Shanice |
+| 1881 | 38 | Saucy Patternbuilder |
+| 1882 | 38 | Snippy T-spin |
+| 1883 | 38 | Zesty Clearer |
+| 1884 | 38 | Kiyeri |
+| 1885 | 37 | Juniper |
+| 1886 | 37 | Clever Balancepiece |
+| 1887 | 37 | Iván Cedeño |
+| 1888 | 37 | Jb Mzresilience |
 | 1889 | 37 | Cheeky Matchzone |
-| 1890 | 37 | Witty Blockpiece |
-| 1891 | 37 | Wacky T-spin |
-| 1892 | 37 | Twisty Cascader |
-| 1893 | 37 | Zachary Sinclair |
-| 1894 | 36 | Tee4 |
-| 1895 | 36 | Jessica Lee |
-| 1896 | 36 | Sharon Fears |
-| 1897 | 36 | Kungfupanda |
-| 1898 | 36 | Abdul Saleem |
+| 1890 | 37 | kiki |
+| 1891 | 37 | Witty Blockpiece |
+| 1892 | 37 | Wacky T-spin |
+| 1893 | 37 | Twisty Cascader |
+| 1894 | 37 | Zachary Sinclair |
+| 1895 | 36 | Tee4 |
+| 1896 | 36 | Jessica Lee |
+| 1897 | 36 | Sharon Fears |
+| 1898 | 36 | Kungfupanda |
 | 1899 | 36 | Mizta Lewis |
-| 1900 | 36 | cupcake |
-| 1901 | 36 | Brownie |
-| 1902 | 36 | Sean Walker |
-| 1903 | 36 | Megan Dickerson |
-| 1904 | 36 | Tionka Green |
-| 1905 | 35 | Matos Boiz |
-| 1906 | 35 | Nerdy Twistline |
-| 1907 | 35 | jae |
-| 1908 | 35 | Brandy Jaszewski |
-| 1909 | 35 | np63 |
-| 1910 | 35 | MissingYou Nini |
-| 1911 | 35 | Margie Toni Corley |
-| 1912 | 35 | Evee |
-| 1913 | 35 | Damien Johnson |
-| 1914 | 35 | Frilly Glidepiece |
+| 1900 | 36 | Abdul Saleem |
+| 1901 | 36 | cupcake |
+| 1902 | 36 | Brownie |
+| 1903 | 36 | Sean Walker |
+| 1904 | 36 | Megan Dickerson |
+| 1905 | 36 | Tionka Green |
+| 1906 | 35 | Matos Boiz |
+| 1907 | 35 | Nerdy Twistline |
+| 1908 | 35 | jae |
+| 1909 | 35 | Brandy Jaszewski |
+| 1910 | 35 | np63 |
+| 1911 | 35 | MissingYou Nini |
+| 1912 | 35 | Margie Toni Corley |
+| 1913 | 35 | Evee |
+| 1914 | 35 | Damien Johnson |
 | 1915 | 35 | Terrance Jenkins |
 | 1916 | 35 | Christian Whittaker |
 | 1917 | 35 | X6TRAUMA9X |
