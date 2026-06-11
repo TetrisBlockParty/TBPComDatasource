@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 01:50:46 UTC
+# Standings for team1 as of 2026-06-11 01:51:23 UTC
 
 **Total Participants:** 2398
 
@@ -10,7 +10,7 @@
 | 2 | 22000 | Kalynn Parks |
 | 3 | 18431 | Death by SnuSnu |
 | 4 | 17596 | Tyeina Johnson |
-| 5 | 12927 | Carrie English |
+| 5 | 12990 | Carrie English |
 | 6 | 12803 | Charlie Roehm |
 | 7 | 12450 | Erika Windom |
 | 8 | 12281 | Timothy Robert |
@@ -59,7 +59,7 @@
 | 51 | 2619 | Zappy Brickline |
 | 52 | 2599 | Tootsie Pop |
 | 53 | 2590 | Epic Snapfall |
-| 54 | 2476 | Blockhead |
+| 54 | 2486 | Blockhead |
 | 55 | 2469 | Chris Caniglia |
 | 56 | 2461 | Mimi 1.0 |
 | 57 | 2412 | D'Andra Stewart |
@@ -991,16 +991,16 @@
 | 983 | 169 | rb |
 | 984 | 169 | LAhoneybun82 |
 | 985 | 168 | Crafty Witch |
-| 986 | 167 | LexiiSamayaa |
-| 987 | 167 | Felicia Woods |
-| 988 | 167 | Richelle Beck |
-| 989 | 167 | Hoppy Rumbler |
-| 990 | 167 | Shadena M Carter Mba |
-| 991 | 167 | Ashley Love Pettit |
-| 992 | 167 | Rachel Lopez |
-| 993 | 166 | Shanell Thomas |
-| 994 | 166 | Rochelle Nash-Evans |
-| 995 | 166 | Centara Goette |
+| 986 | 168 | Centara Goette |
+| 987 | 167 | LexiiSamayaa |
+| 988 | 167 | Felicia Woods |
+| 989 | 167 | Richelle Beck |
+| 990 | 167 | Hoppy Rumbler |
+| 991 | 167 | Shadena M Carter Mba |
+| 992 | 167 | Ashley Love Pettit |
+| 993 | 167 | Rachel Lopez |
+| 994 | 166 | Shanell Thomas |
+| 995 | 166 | Rochelle Nash-Evans |
 | 996 | 166 | Motown Chuck |
 | 997 | 166 | Peppy Wipeblock |
 | 998 | 166 | Desi Guerra |
@@ -1421,16 +1421,16 @@
 | 1413 | 78 | Jose González |
 | 1414 | 78 | SnazzySnippet |
 | 1415 | 78 | Bubbly Crawler |
-| 1416 | 78 | Snappy Matchfit |
-| 1417 | 78 | Mary Kimmons |
-| 1418 | 78 | Breeze |
-| 1419 | 78 | Angela C. |
-| 1420 | 78 | Snappy Fall |
-| 1421 | 78 | sasha |
-| 1422 | 78 | Michelle Dollah |
-| 1423 | 77 | Renee J. Thomas |
-| 1424 | 77 | Frilly Mover |
-| 1425 | 77 | OleGey |
+| 1416 | 78 | OleGey |
+| 1417 | 78 | Snappy Matchfit |
+| 1418 | 78 | Mary Kimmons |
+| 1419 | 78 | Breeze |
+| 1420 | 78 | Angela C. |
+| 1421 | 78 | Snappy Fall |
+| 1422 | 78 | sasha |
+| 1423 | 78 | Michelle Dollah |
+| 1424 | 77 | Renee J. Thomas |
+| 1425 | 77 | Frilly Mover |
 | 1426 | 77 | Lil T |
 | 1427 | 77 | Adonai Saves |
 | 1428 | 77 | Clever Wrecker |
@@ -1675,11 +1675,11 @@
 | 1667 | 50 | TrapQween39Bi |
 | 1668 | 50 | ThaMENACING1 |
 | 1669 | 50 | Steven Bell |
-| 1670 | 50 | Dee |
-| 1671 | 50 | Aero Builder |
-| 1672 | 49 | Temeshia Brooks Washington |
-| 1673 | 49 | Pretty-Lily |
-| 1674 | 49 | Frilly Lifter |
+| 1670 | 50 | Frilly Lifter |
+| 1671 | 50 | Dee |
+| 1672 | 50 | Aero Builder |
+| 1673 | 49 | Temeshia Brooks Washington |
+| 1674 | 49 | Pretty-Lily |
 | 1675 | 49 | Brika Brika |
 | 1676 | 49 | Elle |
 | 1677 | 49 | Lush Buildsnap |
