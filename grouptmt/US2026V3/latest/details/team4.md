@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:31:26 UTC
+# Standings for team4 as of 2026-06-11 08:32:46 UTC
 
 **Total Participants:** 2503
 
@@ -141,7 +141,7 @@
 | 133 | 1227 | shawna |
 | 134 | 1226 | Jason Garnatz |
 | 135 | 1206 | Kimberly Civinski |
-| 136 | 1184 | CJ |
+| 136 | 1189 | CJ |
 | 137 | 1182 | Phil Peterson |
 | 138 | 1180 | Hardy Fuller |
 | 139 | 1180 | Anthony Magaraci |
@@ -202,7 +202,7 @@
 | 194 | 894 | Tiffany Brooke |
 | 195 | 892 | George Palacios |
 | 196 | 881 | Katy |
-| 197 | 869 | Izz |
+| 197 | 873 | Izz |
 | 198 | 862 | Christy Beezley-Forbush |
 | 199 | 862 | Bean |
 | 200 | 860 | Shiny Dashy |
@@ -307,9 +307,9 @@
 | 299 | 575 | Julian Gasque |
 | 300 | 574 | Alma López Morales |
 | 301 | 573 | Sisi RedVelvet Reneè |
-| 302 | 571 | Danny Ortiz |
-| 303 | 570 | Fran Aaron-Ring |
-| 304 | 568 | Shanae Taylor |
+| 302 | 573 | Shanae Taylor |
+| 303 | 571 | Danny Ortiz |
+| 304 | 570 | Fran Aaron-Ring |
 | 305 | 565 | Morgan Stevens |
 | 306 | 564 | Andrick |
 | 307 | 563 | Cherrel M. Causey |
@@ -725,10 +725,10 @@
 | 717 | 258 | Clever Patterner |
 | 718 | 258 | Rae Saunders |
 | 719 | 258 | Daring Towerer |
-| 720 | 257 | Spicy Peach |
-| 721 | 256 | Kristie ML SneekaPuff |
-| 722 | 256 | Lorrie Ann Burchett |
-| 723 | 256 | Maria Munoz |
+| 720 | 258 | Maria Munoz |
+| 721 | 257 | Spicy Peach |
+| 722 | 256 | Kristie ML SneekaPuff |
+| 723 | 256 | Lorrie Ann Burchett |
 | 724 | 256 | Honey Honey |
 | 725 | 255 | Khiem Hernandez |
 | 726 | 254 | Mimi Dominguez |
@@ -2309,81 +2309,81 @@
 | 2301 | 14 | crow me |
 | 2302 | 14 | Evie |
 | 2303 | 14 | Tammy Santiago |
-| 2304 | 14 | Ernesto Flores |
-| 2305 | 14 | Alisha McGahey |
-| 2306 | 14 | Christine Niles |
-| 2307 | 14 | Plucky Crusher |
-| 2308 | 14 | G Money |
+| 2304 | 14 | Kayandra |
+| 2305 | 14 | Ernesto Flores |
+| 2306 | 14 | Alisha McGahey |
+| 2307 | 14 | Christine Niles |
+| 2308 | 14 | Plucky Crusher |
 | 2309 | 14 | Warrenlee Harris |
-| 2310 | 14 | Kayandra |
-| 2311 | 13 | Aaron |
-| 2312 | 13 | Kaliegh Ann Brunette |
-| 2313 | 13 | Mary Lowther |
-| 2314 | 13 | Celestina Aguirre |
-| 2315 | 13 | Michelle Boyd |
-| 2316 | 13 | Jason Ervin |
-| 2317 | 13 | Krystal Lyne Gibson |
-| 2318 | 13 | Liz Aimé Acosta Guilarte |
-| 2319 | 13 | Julie Smith |
-| 2320 | 13 | Swanky Spinzone |
-| 2321 | 13 | Jennyfromtheblock |
-| 2322 | 13 | Jackie Russo-Edens |
-| 2323 | 12 | Tatiyana Hockett |
-| 2324 | 12 | Mee |
-| 2325 | 12 | Jossimar Chairez |
-| 2326 | 12 | Sassy Shiftsnap |
-| 2327 | 12 | Jen&deno |
-| 2328 | 12 | ESPERANTU |
-| 2329 | 12 | Poppy Linkblock |
-| 2330 | 12 | May Espinosa |
-| 2331 | 12 | Maritza Lopez |
-| 2332 | 12 | Jessica Parsons |
-| 2333 | 12 | Dee |
-| 2334 | 12 | Anna Tastad |
-| 2335 | 12 | Boldy Shuffler |
-| 2336 | 12 | Carolyn Lalak |
-| 2337 | 11 | Laurelez R. Carmen |
-| 2338 | 11 | Arsenio Fox |
-| 2339 | 11 | Peppy Glidebuilder |
-| 2340 | 11 | Bryan Odle |
+| 2310 | 14 | Dee |
+| 2311 | 14 | G Money |
+| 2312 | 13 | Julie Smith |
+| 2313 | 13 | Kaliegh Ann Brunette |
+| 2314 | 13 | Jennyfromtheblock |
+| 2315 | 13 | Mary Lowther |
+| 2316 | 13 | Celestina Aguirre |
+| 2317 | 13 | Swanky Spinzone |
+| 2318 | 13 | Aaron |
+| 2319 | 13 | Jason Ervin |
+| 2320 | 13 | Michelle Boyd |
+| 2321 | 13 | Liz Aimé Acosta Guilarte |
+| 2322 | 13 | Krystal Lyne Gibson |
+| 2323 | 13 | Jackie Russo-Edens |
+| 2324 | 12 | Tatiyana Hockett |
+| 2325 | 12 | Mee |
+| 2326 | 12 | Jossimar Chairez |
+| 2327 | 12 | Poppy Linkblock |
+| 2328 | 12 | Sassy Shiftsnap |
+| 2329 | 12 | Jen&deno |
+| 2330 | 12 | ESPERANTU |
+| 2331 | 12 | May Espinosa |
+| 2332 | 12 | Maritza Lopez |
+| 2333 | 12 | Carolyn Lalak |
+| 2334 | 12 | Jessica Parsons |
+| 2335 | 12 | Anna Tastad |
+| 2336 | 12 | Boldy Shuffler |
+| 2337 | 11 | Cindy Prieto |
+| 2338 | 11 | Tammi Crnza |
+| 2339 | 11 | Tye Hayes |
+| 2340 | 11 | Fancy Shuffler |
 | 2341 | 11 | Jane Smith |
-| 2342 | 11 | Scott James Cooper |
-| 2343 | 11 | Kimberly Ann Shifflett |
-| 2344 | 11 | Eric Mellinger |
-| 2345 | 11 | Fancy Shuffler |
-| 2346 | 11 | Tye Hayes |
-| 2347 | 11 | Itsyourgirll_29 |
-| 2348 | 11 | SUGARLUV66 |
-| 2349 | 11 | Heather Smith-Carter |
-| 2350 | 11 | Polo Jeffries |
-| 2351 | 11 | Tammi Crnza |
-| 2352 | 11 | OFOZO |
-| 2353 | 11 | Melanie Henderson Spencer |
-| 2354 | 11 | Dizzy Snapclear |
-| 2355 | 11 | Cindy Prieto |
-| 2356 | 10 | Zesty Snapmatch |
+| 2342 | 11 | Bryan Odle |
+| 2343 | 11 | Dizzy Snapclear |
+| 2344 | 11 | Scott James Cooper |
+| 2345 | 11 | Arsenio Fox |
+| 2346 | 11 | Laurelez R. Carmen |
+| 2347 | 11 | Peppy Glidebuilder |
+| 2348 | 11 | Kimberly Ann Shifflett |
+| 2349 | 11 | Polo Jeffries |
+| 2350 | 11 | Heather Smith-Carter |
+| 2351 | 11 | Melanie Henderson Spencer |
+| 2352 | 11 | SUGARLUV66 |
+| 2353 | 11 | Eric Mellinger |
+| 2354 | 11 | Itsyourgirll_29 |
+| 2355 | 11 | OFOZO |
+| 2356 | 10 | Yoko Shiki |
 | 2357 | 10 | Antonaya E Garner |
 | 2358 | 10 | Megan Ashli Stolze |
 | 2359 | 10 | Nicole |
-| 2360 | 10 | Yoko Shiki |
-| 2361 | 10 | Jen Switzer |
-| 2362 | 10 | Leelee Sayers |
-| 2363 | 10 | Im walkin here |
-| 2364 | 10 | Tee |
-| 2365 | 10 | Esla mamas |
-| 2366 | 10 | Whoop Blancò |
-| 2367 | 10 | Susan Buckner |
-| 2368 | 10 | $ir Buddwolffe |
-| 2369 | 10 | John Garza |
-| 2370 | 10 | ItsJust Ariel |
-| 2371 | 10 | Micha Renee Saldana |
-| 2372 | 10 | Breezy Risepiece |
-| 2373 | 10 | Emily Victoria Evans |
-| 2374 | 10 | James Lackey |
-| 2375 | 10 | Lazy Crusher |
-| 2376 | 10 | Dreamy Dash |
-| 2377 | 10 | Cheery Tower |
-| 2378 | 10 | Nicole Washington |
+| 2360 | 10 | Whoop Blancò |
+| 2361 | 10 | Zesty Snapmatch |
+| 2362 | 10 | Susan Buckner |
+| 2363 | 10 | Cheery Tower |
+| 2364 | 10 | Nicole Washington |
+| 2365 | 10 | Leelee Sayers |
+| 2366 | 10 | Im walkin here |
+| 2367 | 10 | Dreamy Dash |
+| 2368 | 10 | Micha Renee Saldana |
+| 2369 | 10 | Tee |
+| 2370 | 10 | Esla mamas |
+| 2371 | 10 | James Lackey |
+| 2372 | 10 | Lazy Crusher |
+| 2373 | 10 | Jen Switzer |
+| 2374 | 10 | $ir Buddwolffe |
+| 2375 | 10 | John Garza |
+| 2376 | 10 | Emily Victoria Evans |
+| 2377 | 10 | ItsJust Ariel |
+| 2378 | 10 | Breezy Risepiece |
 | 2379 | 10 | frank |
 | 2380 | 10 | Jumpy Patternfall |
 | 2381 | 10 | Babygirlpily |
