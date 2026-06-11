@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 17:13:25 UTC
+# Standings for team2 as of 2026-06-11 17:14:26 UTC
 
 **Total Participants:** 2986
 
@@ -49,7 +49,7 @@
 | 41 | 5943 | Logan Basham |
 | 42 | 5751 | Kymberlee Rolinski |
 | 43 | 5748 | Aubree Richard |
-| 44 | 5724 | Chipper Patternblock |
+| 44 | 5730 | Chipper Patternblock |
 | 45 | 5615 | Cassie Swart |
 | 46 | 5572 | Angel Welch |
 | 47 | 5496 | Spunky Clicker |
@@ -265,11 +265,11 @@
 | 257 | 894 | Spunky Buildout |
 | 258 | 893 | La chulis |
 | 259 | 890 | Jodi Johnson |
-| 260 | 887 | Danielle Blount |
-| 261 | 886 | Milad Arzani |
-| 262 | 880 | Zarah Kettler |
-| 263 | 878 | Kim Hunt |
-| 264 | 877 | Denise Morehart |
+| 260 | 889 | Denise Morehart |
+| 261 | 887 | Danielle Blount |
+| 262 | 886 | Milad Arzani |
+| 263 | 880 | Zarah Kettler |
+| 264 | 878 | Kim Hunt |
 | 265 | 873 | Brandon Link |
 | 266 | 871 | Chipper Stackbuilder |
 | 267 | 870 | Amie Marks |
@@ -922,8 +922,8 @@
 | 914 | 269 | Jolene Hull Hearn |
 | 915 | 269 | Wacky Holder |
 | 916 | 268 | Silly Chiseler |
-| 917 | 267 | Cheeky Cornerfall |
-| 918 | 267 | Marissa Alpeza |
+| 917 | 268 | Marissa Alpeza |
+| 918 | 267 | Cheeky Cornerfall |
 | 919 | 267 | Allison Peterson |
 | 920 | 267 | Chesney |
 | 921 | 267 | Natalie M. Arredondo |
