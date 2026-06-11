@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 20:32:44 UTC
+# Standings for team1 as of 2026-06-11 20:33:24 UTC
 
 **Total Participants:** 2532
 
@@ -241,9 +241,9 @@
 | 233 | 812 | Mic Balew |
 | 234 | 801 | BULLSEYE |
 | 235 | 798 | Zappy Riser |
-| 236 | 796 | Albert McKnight |
-| 237 | 792 | Frisky Fall |
-| 238 | 792 | Johnathan Deese |
+| 236 | 797 | Johnathan Deese |
+| 237 | 796 | Albert McKnight |
+| 238 | 792 | Frisky Fall |
 | 239 | 790 | David Fuentes |
 | 240 | 774 | Ottison Dianna |
 | 241 | 772 | Dena Marie Lee |
@@ -1150,42 +1150,42 @@
 | 1142 | 153 | Terrance Tindall |
 | 1143 | 152 | E Dubb$ |
 | 1144 | 152 | Brittany Cole |
-| 1145 | 151 | Chummy Twisterfit |
-| 1146 | 151 | lady |
-| 1147 | 151 | WReckitraff |
-| 1148 | 151 | GoldStarJo |
-| 1149 | 150 | Groovy Rotate |
-| 1150 | 150 | Tipsy Bricky |
-| 1151 | 150 | Antoinette Kidd |
-| 1152 | 150 | Raquel Ortiz |
-| 1153 | 150 | Anthony T. Fults |
-| 1154 | 149 | Sassy Stack |
-| 1155 | 149 | Macho Lewis |
-| 1156 | 149 | Teisha Scott |
-| 1157 | 149 | Wacky Dashgrid |
-| 1158 | 148 | Amanda Miller |
-| 1159 | 148 | Zany Patternblock |
+| 1145 | 152 | Hound Dog |
+| 1146 | 151 | Chummy Twisterfit |
+| 1147 | 151 | lady |
+| 1148 | 151 | WReckitraff |
+| 1149 | 151 | GoldStarJo |
+| 1150 | 150 | Groovy Rotate |
+| 1151 | 150 | Tipsy Bricky |
+| 1152 | 150 | Anthony T. Fults |
+| 1153 | 150 | Antoinette Kidd |
+| 1154 | 150 | Raquel Ortiz |
+| 1155 | 149 | Wacky Dashgrid |
+| 1156 | 149 | Macho Lewis |
+| 1157 | 149 | Teisha Scott |
+| 1158 | 149 | Sassy Stack |
+| 1159 | 148 | Evelyn Epps |
 | 1160 | 148 | Alison Emmons |
 | 1161 | 148 | Mamiyoung47 |
-| 1162 | 148 | Evelyn Epps |
-| 1163 | 147 | Corbin Henry |
-| 1164 | 147 | Benjamin Livingston |
+| 1162 | 148 | Amanda Miller |
+| 1163 | 148 | Zany Patternblock |
+| 1164 | 147 | Taimir Colón |
 | 1165 | 147 | Charika Marie Bergmann |
-| 1166 | 147 | Taimir Colón |
-| 1167 | 147 | Amy Thomas |
-| 1168 | 146 | Vortex Viniq |
-| 1169 | 146 | Eugenia Vanclusen |
+| 1166 | 147 | Amy Thomas |
+| 1167 | 147 | Corbin Henry |
+| 1168 | 147 | Benjamin Livingston |
+| 1169 | 146 | Paul Doty |
 | 1170 | 146 | Jojo M |
-| 1171 | 146 | Paul Doty |
-| 1172 | 145 | Butta |
-| 1173 | 145 | Jumpy Gridlock |
-| 1174 | 144 | Cee Jones |
-| 1175 | 144 | Khatyrah Burnette |
-| 1176 | 144 | Cee CRaze Perry Sr. |
+| 1171 | 146 | Vortex Viniq |
+| 1172 | 146 | Eugenia Vanclusen |
+| 1173 | 145 | Butta |
+| 1174 | 145 | Jumpy Gridlock |
+| 1175 | 144 | Cee CRaze Perry Sr. |
+| 1176 | 144 | Cee Jones |
 | 1177 | 144 | Crafty Link |
-| 1178 | 144 | Tammy Collins |
-| 1179 | 142 | Lateef |
-| 1180 | 142 | Hound Dog |
+| 1178 | 144 | Khatyrah Burnette |
+| 1179 | 144 | Tammy Collins |
+| 1180 | 142 | Lateef |
 | 1181 | 141 | sunstar |
 | 1182 | 141 | Tiana Monique |
 | 1183 | 141 | star |
@@ -1866,32 +1866,32 @@
 | 1858 | 42 | BizzyCat |
 | 1859 | 42 | Charisse Johnson |
 | 1860 | 42 | Tee $ |
-| 1861 | 42 | Brownie |
-| 1862 | 42 | Nadine Coleman |
-| 1863 | 42 | Clever Balancepiece |
-| 1864 | 42 | Nerdy Riser |
-| 1865 | 42 | Shannon Hargrove |
-| 1866 | 42 | DaRealist1 |
+| 1861 | 42 | Nadine Coleman |
+| 1862 | 42 | Clever Balancepiece |
+| 1863 | 42 | Nerdy Riser |
+| 1864 | 42 | Brownie |
+| 1865 | 42 | DaRealist1 |
+| 1866 | 42 | Shannon Hargrove |
 | 1867 | 42 | MURLWORLD |
 | 1868 | 42 | Shakonya Baynes |
 | 1869 | 42 | Dandy Blockfall |
 | 1870 | 41 | Tynetta Scott |
 | 1871 | 41 | Es Bee |
-| 1872 | 41 | Rebecca Hofer |
-| 1873 | 41 | Saundy |
-| 1874 | 41 | Mary Hughes |
-| 1875 | 41 | Taylor Daniel Davis |
-| 1876 | 41 | Jessica Corey |
-| 1877 | 40 | Steve Renelus |
-| 1878 | 40 | meep |
+| 1872 | 41 | X6TRAUMA9X |
+| 1873 | 41 | Rebecca Hofer |
+| 1874 | 41 | Saundy |
+| 1875 | 41 | Mary Hughes |
+| 1876 | 41 | Taylor Daniel Davis |
+| 1877 | 41 | Jessica Corey |
+| 1878 | 40 | Steve Renelus |
 | 1879 | 40 | Bumpy Ricketts |
 | 1880 | 40 | Dee Doris Ewald Flynn |
-| 1881 | 40 | Fancy Zoner |
-| 1882 | 40 | Flashy Slam |
+| 1881 | 40 | meep |
+| 1882 | 40 | Fancy Zoner |
 | 1883 | 40 | Hasty Bridger |
 | 1884 | 40 | Tamara Farmer |
-| 1885 | 40 | Carol Washington |
-| 1886 | 40 | X6TRAUMA9X |
+| 1885 | 40 | Flashy Slam |
+| 1886 | 40 | Carol Washington |
 | 1887 | 40 | Girly Pop |
 | 1888 | 40 | DimplezAOS |
 | 1889 | 40 | Tonya Mills |
