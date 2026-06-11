@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:23:24 UTC
+# Standings for team1 as of 2026-06-11 08:24:48 UTC
 
 **Total Participants:** 2464
 
@@ -10,7 +10,7 @@
 | 2 | 22000 | Kalynn Parks |
 | 3 | 18431 | Death by SnuSnu |
 | 4 | 17629 | Tyeina Johnson |
-| 5 | 13690 | Peppy Piececlear |
+| 5 | 13741 | Peppy Piececlear |
 | 6 | 13684 | Carrie English |
 | 7 | 12803 | Charlie Roehm |
 | 8 | 12469 | Erika Windom |
@@ -65,13 +65,13 @@
 | 57 | 2594 | Epic Snapfall |
 | 58 | 2535 | Michael J Gresham |
 | 59 | 2478 | Todd C. Clemens |
-| 60 | 2472 | Chris Caniglia |
+| 60 | 2475 | Chris Caniglia |
 | 61 | 2423 | Frisky Fallmatch |
 | 62 | 2412 | D'Andra Stewart |
 | 63 | 2367 | Markeeta Lipscomb |
 | 64 | 2359 | Corey Cawthon |
 | 65 | 2359 | Shellzb Roberts |
-| 66 | 2286 | Moomoo |
+| 66 | 2288 | Moomoo |
 | 67 | 2230 | Robyn Caldwell |
 | 68 | 2175 | Brian Bohanon II |
 | 69 | 2166 | Helen Smith |
@@ -496,12 +496,12 @@
 | 488 | 373 | Brittany Fells |
 | 489 | 373 | Twisty Brickfit |
 | 490 | 372 | Chirpy Buildgrid |
-| 491 | 371 | Asha Langford |
-| 492 | 370 | Allison Baxter |
-| 493 | 370 | Lucy |
-| 494 | 369 | Guard Up |
-| 495 | 368 | Jelyfish |
-| 496 | 367 | Slinky Snapbuilder |
+| 491 | 371 | Slinky Snapbuilder |
+| 492 | 371 | Asha Langford |
+| 493 | 370 | Allison Baxter |
+| 494 | 370 | Lucy |
+| 495 | 369 | Guard Up |
+| 496 | 368 | Jelyfish |
 | 497 | 367 | Darrel Pemberton |
 | 498 | 367 | SweetByNBy |
 | 499 | 366 | Falisa Bell |
@@ -2360,13 +2360,13 @@
 | 2352 | 9 | Catelyn Neal |
 | 2353 | 9 | Shell Poke |
 | 2354 | 9 | Witty Clicker |
-| 2355 | 9 | Sheldon Grosso |
-| 2356 | 9 | Zappy Matchclear |
-| 2357 | 9 | Yester |
-| 2358 | 9 | Jenny McCall Haslacker |
-| 2359 | 9 | Tasha Johnson |
-| 2360 | 9 | ummm |
-| 2361 | 8 | Clever Balancepiece |
+| 2355 | 9 | Clever Balancepiece |
+| 2356 | 9 | Sheldon Grosso |
+| 2357 | 9 | Zappy Matchclear |
+| 2358 | 9 | Yester |
+| 2359 | 9 | Jenny McCall Haslacker |
+| 2360 | 9 | Tasha Johnson |
+| 2361 | 9 | ummm |
 | 2362 | 8 | Zesty Combofall |
 | 2363 | 8 | Janiah Seibert |
 | 2364 | 8 | Drayon Rogers |
