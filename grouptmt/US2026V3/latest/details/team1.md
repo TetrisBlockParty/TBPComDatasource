@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 17:12:44 UTC
+# Standings for team1 as of 2026-06-11 17:13:25 UTC
 
 **Total Participants:** 2509
 
@@ -101,7 +101,7 @@
 | 93 | 1892 | She Higgy |
 | 94 | 1870 | TAZ-MF-NIZIL |
 | 95 | 1854 | Jessica Roberts |
-| 96 | 1781 | Spicy Balancer |
+| 96 | 1841 | Spicy Balancer |
 | 97 | 1776 | sha |
 | 98 | 1766 | Tameka Jones |
 | 99 | 1737 | Roberta Lynn |
@@ -982,24 +982,24 @@
 | 974 | 195 | Fatty May |
 | 975 | 194 | Ernie Waters |
 | 976 | 194 | Mark Steven Pichler |
-| 977 | 193 | Swanky Glide |
-| 978 | 192 | Kanesha Jackson |
-| 979 | 192 | Mike Hromowyk |
-| 980 | 192 | Williams Candace |
+| 977 | 193 | nashsr |
+| 978 | 193 | Swanky Glide |
+| 979 | 192 | Kanesha Jackson |
+| 980 | 192 | Mike Hromowyk |
 | 981 | 192 | Shawna Passwater |
 | 982 | 192 | Ashley Love Pettit |
-| 983 | 192 | QueenzMo |
-| 984 | 191 | nashsr |
+| 983 | 192 | Williams Candace |
+| 984 | 192 | QueenzMo |
 | 985 | 191 | Jane Lame |
 | 986 | 190 | Chipper Clicker |
 | 987 | 190 | Batty B |
-| 988 | 190 | Spicy Tiler |
-| 989 | 190 | West Racks |
+| 988 | 190 | West Racks |
+| 989 | 190 | Spicy Tiler |
 | 990 | 190 | Chipper Snapper |
 | 991 | 190 | Samona Mcculler |
 | 992 | 190 | Shauntai Holiday |
-| 993 | 189 | Sean White |
-| 994 | 189 | Angela Hill O'Neal |
+| 993 | 189 | Angela Hill O'Neal |
+| 994 | 189 | Sean White |
 | 995 | 189 | Vannie G |
 | 996 | 188 | AimlessRain |
 | 997 | 188 | Mikemike Zonethree |
