@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 21:13:19 UTC
+# Standings for team1 as of 2026-06-11 21:14:25 UTC
 
 **Total Participants:** 2535
 
@@ -324,12 +324,12 @@
 | 316 | 601 | Marie Wilson |
 | 317 | 599 | IThinkNot |
 | 318 | 591 | Koi |
-| 319 | 589 | Slinky Brickmatch |
-| 320 | 588 | Sheila Burnham |
-| 321 | 586 | Denisa Amazon Clark |
-| 322 | 583 | DaGuy |
-| 323 | 583 | Shanaa Germany Crittenden |
-| 324 | 582 | Chasem45 |
+| 319 | 589 | Chasem45 |
+| 320 | 589 | Slinky Brickmatch |
+| 321 | 588 | Sheila Burnham |
+| 322 | 586 | Denisa Amazon Clark |
+| 323 | 583 | DaGuy |
+| 324 | 583 | Shanaa Germany Crittenden |
 | 325 | 580 | Qwlonda Shirrell |
 | 326 | 580 | Larina Cherie Johnson |
 | 327 | 577 | Zachary Colegrove |
@@ -760,12 +760,12 @@
 | 752 | 280 | Spotlight |
 | 753 | 280 | NedaWin |
 | 754 | 279 | DeAngelo Sorrells |
-| 755 | 279 | Fina McKinnis |
-| 756 | 278 | Ameillia Boughner |
-| 757 | 277 | Joseph Vs Cap |
-| 758 | 276 | Dannie |
-| 759 | 276 | Rosalind Chatman |
-| 760 | 276 | Taneka Howell |
+| 755 | 279 | Taneka Howell |
+| 756 | 279 | Fina McKinnis |
+| 757 | 278 | Ameillia Boughner |
+| 758 | 277 | Joseph Vs Cap |
+| 759 | 276 | Dannie |
+| 760 | 276 | Rosalind Chatman |
 | 761 | 275 | Chris Sladoje |
 | 762 | 275 | MzJuice Box |
 | 763 | 275 | Michelle Peters |
@@ -950,26 +950,26 @@
 | 942 | 207 | Christopher L Crites |
 | 943 | 206 | Cheery Strikerbuilder |
 | 944 | 206 | Rochelle Nash-Evans |
-| 945 | 205 | Tramaine Crockrum |
-| 946 | 205 | Alexis Alexander |
-| 947 | 205 | Stephen Garland |
-| 948 | 205 | Mellie Mel |
-| 949 | 205 | LAdYPOLy |
-| 950 | 205 | Treneil Daffin |
-| 951 | 205 | Wrist Mask |
-| 952 | 205 | tg |
-| 953 | 205 | Marcello Rush |
-| 954 | 204 | Shauntai Holiday |
-| 955 | 204 | Chill Linkroll |
-| 956 | 204 | Danny Talbot |
-| 957 | 203 | Yazz |
-| 958 | 203 | Erika |
-| 959 | 202 | Jane Lame |
-| 960 | 202 | Hyper Blocky |
-| 961 | 202 | Alexandrla Smith |
-| 962 | 201 | Sabrina Wilkerson |
-| 963 | 201 | 214Petty |
-| 964 | 201 | Audrey Gestring |
+| 945 | 206 | Audrey Gestring |
+| 946 | 205 | Tramaine Crockrum |
+| 947 | 205 | Alexis Alexander |
+| 948 | 205 | Treneil Daffin |
+| 949 | 205 | Stephen Garland |
+| 950 | 205 | Mellie Mel |
+| 951 | 205 | LAdYPOLy |
+| 952 | 205 | Wrist Mask |
+| 953 | 205 | tg |
+| 954 | 205 | Marcello Rush |
+| 955 | 204 | Shauntai Holiday |
+| 956 | 204 | Chill Linkroll |
+| 957 | 204 | Danny Talbot |
+| 958 | 203 | Yazz |
+| 959 | 203 | Erika |
+| 960 | 202 | Jane Lame |
+| 961 | 202 | Hyper Blocky |
+| 962 | 202 | Alexandrla Smith |
+| 963 | 201 | Sabrina Wilkerson |
+| 964 | 201 | 214Petty |
 | 965 | 201 | Boldy Pivoty |
 | 966 | 201 | Tyrone Porter |
 | 967 | 201 | Sunny Tumbler |
