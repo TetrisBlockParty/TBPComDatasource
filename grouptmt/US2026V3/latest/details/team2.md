@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:48:25 UTC
+# Standings for team2 as of 2026-06-11 09:49:20 UTC
 
 **Total Participants:** 2938
 
@@ -59,7 +59,7 @@
 | 51 | 4836 | Charley Bedford |
 | 52 | 4815 | Tonya Taber |
 | 53 | 4790 | Smashanator |
-| 54 | 4561 | Nawang Nawang |
+| 54 | 4621 | Nawang Nawang |
 | 55 | 4511 | Julie Renee Bertram |
 | 56 | 4486 | Brent Bittenbender |
 | 57 | 4412 | Charles Varca |
@@ -229,14 +229,14 @@
 | 221 | 934 | Amanda Sikes |
 | 222 | 932 | Lori Whitman |
 | 223 | 931 | Sandy Lynn |
-| 224 | 927 | SEH |
-| 225 | 926 | Melissa Nash |
-| 226 | 924 | Nettrainer |
-| 227 | 923 | Kimmyc |
-| 228 | 910 | Lashanda Bertram |
+| 224 | 931 | Lashanda Bertram |
+| 225 | 927 | SEH |
+| 226 | 926 | Melissa Nash |
+| 227 | 924 | Nettrainer |
+| 228 | 923 | Kimmyc |
 | 229 | 904 | Carebear05 |
 | 230 | 903 | Theresa Huddleston |
-| 231 | 900 | Laverne Ellis Blair |
+| 231 | 901 | Laverne Ellis Blair |
 | 232 | 898 | Crystal Allen |
 | 233 | 898 | Giggly Wipepiece |
 | 234 | 898 | Lisa Underwood Desmond |
@@ -365,9 +365,9 @@
 | 357 | 619 | Gill |
 | 358 | 618 | Spicy Basepiece |
 | 359 | 617 | Candi Cane |
-| 360 | 613 | Nicole Plummer |
-| 361 | 613 | Norma Ortiz |
-| 362 | 612 | Janice |
+| 360 | 616 | Janice |
+| 361 | 613 | Nicole Plummer |
+| 362 | 613 | Norma Ortiz |
 | 363 | 610 | Judy Long |
 | 364 | 607 | Janelle Edgecombe |
 | 365 | 606 | Lindsey Ford |
@@ -658,8 +658,8 @@
 | 650 | 356 | Perky Rollfit |
 | 651 | 356 | Joshua Dye |
 | 652 | 354 | Spencer Ryder |
-| 653 | 352 | Muffin Popper |
-| 654 | 352 | Amber Marie |
+| 653 | 352 | Amber Marie |
+| 654 | 352 | Muffin Popper |
 | 655 | 352 | Raine |
 | 656 | 351 | Ashley Voelz |
 | 657 | 351 | Patria Osuoha |
@@ -669,30 +669,30 @@
 | 661 | 350 | Brandi Vandevanter-Duke |
 | 662 | 349 | Lively Curve |
 | 663 | 349 | Billy Pittman |
-| 664 | 349 | Greenie |
-| 665 | 349 | Boldy Swipe |
+| 664 | 349 | Boldy Swipe |
+| 665 | 349 | Greenie |
 | 666 | 348 | Mary Carriere |
 | 667 | 347 | Heather |
-| 668 | 346 | Mary Whitaker |
-| 669 | 346 | Sassy Patternblock |
-| 670 | 346 | Mala Phonchanthasone |
-| 671 | 346 | Lindsey Ross |
+| 668 | 346 | Sassy Patternblock |
+| 669 | 346 | Kendra Sizemore |
+| 670 | 346 | Lindsey Ross |
+| 671 | 346 | Mary Whitaker |
 | 672 | 346 | Meagan Grimmett Washburn |
-| 673 | 346 | Kendra Sizemore |
-| 674 | 345 | Charlotte Castelli |
-| 675 | 345 | Dhelsie Qurasima |
+| 673 | 346 | Mala Phonchanthasone |
+| 674 | 345 | Dhelsie Qurasima |
+| 675 | 345 | Charlotte Castelli |
 | 676 | 345 | DNice |
 | 677 | 343 | Christina Ackley |
 | 678 | 341 | Joanne Fish |
-| 679 | 340 | Shakey Bakey |
+| 679 | 340 | Wendy Mcbride |
 | 680 | 340 | Tony Medina |
-| 681 | 340 | Wendy Mcbride |
+| 681 | 340 | Shakey Bakey |
 | 682 | 340 | Hannah Meadows Hammond |
 | 683 | 340 | Brandi Williams |
 | 684 | 339 | Michele Rogers |
-| 685 | 338 | Giddy Chiseler |
-| 686 | 338 | Will Jones |
-| 687 | 338 | Catalina Castro |
+| 685 | 338 | Catalina Castro |
+| 686 | 338 | Giddy Chiseler |
+| 687 | 338 | Will Jones |
 | 688 | 338 | Tiffany Hassanshahi |
 | 689 | 338 | Peter Fogg |
 | 690 | 337 | Rick |
@@ -701,24 +701,24 @@
 | 693 | 335 | Dapper Riser |
 | 694 | 334 | Nikki Hatch |
 | 695 | 334 | Flex |
-| 696 | 332 | Fallon Moss |
+| 696 | 332 | Donutz |
 | 697 | 332 | Jennifer Leigh |
-| 698 | 332 | Donutz |
+| 698 | 332 | Fallon Moss |
 | 699 | 331 | Cassandra Green |
 | 700 | 330 | rageking |
 | 701 | 330 | Cassandra Milner |
 | 702 | 329 | K2N |
 | 703 | 329 | Kenzie |
 | 704 | 328 | Zaniya Brown |
-| 705 | 328 | Ever Chase |
-| 706 | 328 | Carol Whited Loza |
+| 705 | 328 | Carol Whited Loza |
+| 706 | 328 | Ever Chase |
 | 707 | 326 | Riggins Terry |
-| 708 | 325 | Vicke Patterson |
-| 709 | 325 | Diamond Mitchell |
-| 710 | 325 | chad |
+| 708 | 325 | Diamond Mitchell |
+| 709 | 325 | chad |
+| 710 | 325 | Vicke Patterson |
 | 711 | 324 | Carl Mccoy |
-| 712 | 322 | Laurie |
-| 713 | 322 | Dana Vaiden Rivers |
+| 712 | 322 | Dana Vaiden Rivers |
+| 713 | 322 | Laurie |
 | 714 | 321 | Heather Schardan |
 | 715 | 320 | Sunny Tiltbuilder |
 | 716 | 319 | Laura Anderson |
@@ -734,18 +734,18 @@
 | 726 | 314 | Hyper Striker |
 | 727 | 314 | Epic Tilemaker |
 | 728 | 314 | Audrey Wood |
-| 729 | 312 | Mariya Cline |
-| 730 | 312 | Chilly Surge |
+| 729 | 312 | Chilly Surge |
+| 730 | 312 | whocares |
 | 731 | 312 | Melissa Pronovost |
-| 732 | 312 | whocares |
-| 733 | 311 | Holly Barefoot |
-| 734 | 311 | Brian Favre |
-| 735 | 311 | Sydney Cheyenne |
-| 736 | 311 | Alonzo Reed |
-| 737 | 310 | WhitS |
-| 738 | 310 | Ashley Diana |
-| 739 | 310 | Jessica Murphree |
-| 740 | 310 | Witty Shatterline |
+| 732 | 312 | Witty Shatterline |
+| 733 | 312 | Mariya Cline |
+| 734 | 311 | Holly Barefoot |
+| 735 | 311 | Brian Favre |
+| 736 | 311 | Sydney Cheyenne |
+| 737 | 311 | Alonzo Reed |
+| 738 | 310 | WhitS |
+| 739 | 310 | Ashley Diana |
+| 740 | 310 | Jessica Murphree |
 | 741 | 310 | Glitzy Roll |
 | 742 | 310 | Kelly Bormann |
 | 743 | 309 | Peachy Wipegrid |
