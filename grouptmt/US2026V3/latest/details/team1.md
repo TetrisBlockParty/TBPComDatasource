@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:34:21 UTC
+# Standings for team1 as of 2026-06-11 11:35:20 UTC
 
 **Total Participants:** 2478
 
@@ -246,13 +246,13 @@
 | 238 | 730 | ing410 |
 | 239 | 723 | Tremaine Hiler |
 | 240 | 720 | Hailey Hil |
-| 241 | 713 | Snippy Breaker |
-| 242 | 711 | Chirpy Corner |
-| 243 | 706 | TeeMaster Barber IsLyfe |
-| 244 | 700 | Andy Rivera |
-| 245 | 699 | Dee McCool |
-| 246 | 699 | Tempee |
-| 247 | 698 | Erin Sabol |
+| 241 | 718 | Erin Sabol |
+| 242 | 713 | Snippy Breaker |
+| 243 | 711 | Chirpy Corner |
+| 244 | 706 | TeeMaster Barber IsLyfe |
+| 245 | 700 | Andy Rivera |
+| 246 | 699 | Dee McCool |
+| 247 | 699 | Tempee |
 | 248 | 689 | Elizabeth Vega Coreano |
 | 249 | 688 | Bambi Love |
 | 250 | 687 | Deveda Williams |
@@ -549,55 +549,55 @@
 | 541 | 344 | Onovella Titsworth |
 | 542 | 344 | Boldy Matchbuilder |
 | 543 | 344 | MonaSparks |
-| 544 | 344 | Abby |
-| 545 | 344 | Motown Chuck |
+| 544 | 344 | Juan Santiago |
+| 545 | 344 | Abby |
 | 546 | 344 | Cherika Wright |
-| 547 | 344 | Juan Santiago |
+| 547 | 344 | Motown Chuck |
 | 548 | 344 | EvaLynn NeCole |
 | 549 | 344 | Abigail Newman Sweet |
 | 550 | 343 | Earl Williams |
 | 551 | 343 | Vera Beckford |
-| 552 | 342 | Ashley Monet Terrell |
-| 553 | 341 | MELLZZtick€T |
-| 554 | 341 | Alyssa Rae |
-| 555 | 340 | Chocolate |
-| 556 | 340 | Centara Goette |
-| 557 | 339 | Keith Johnson |
-| 558 | 338 | Daniel Santana |
-| 559 | 338 | Giddy Staggerpiece |
-| 560 | 337 | Angela Brown Babin |
+| 552 | 343 | Shakmar |
+| 553 | 342 | Ashley Monet Terrell |
+| 554 | 341 | MELLZZtick€T |
+| 555 | 341 | Alyssa Rae |
+| 556 | 340 | Chocolate |
+| 557 | 340 | Centara Goette |
+| 558 | 339 | Keith Johnson |
+| 559 | 338 | Daniel Santana |
+| 560 | 338 | Giddy Staggerpiece |
 | 561 | 337 | Nora Mahmoud |
-| 562 | 336 | Silly Edgepiece |
-| 563 | 336 | Shakmar |
+| 562 | 337 | Angela Brown Babin |
+| 563 | 336 | Silly Edgepiece |
 | 564 | 335 | Phillip Vasquez |
-| 565 | 335 | Nona Harriel |
-| 566 | 335 | Tracy Feyler |
-| 567 | 334 | Kristine Marie Palmer |
-| 568 | 334 | Yashica Smith |
+| 565 | 335 | Tracy Feyler |
+| 566 | 335 | Nona Harriel |
+| 567 | 334 | Yashica Smith |
+| 568 | 334 | Kristine Marie Palmer |
 | 569 | 331 | Mrs.Ann |
 | 570 | 330 | Tracey Johnson |
 | 571 | 330 | Tito Divyn |
 | 572 | 329 | Tiffany Jean Hinson |
-| 573 | 329 | Chris Watson Draper |
-| 574 | 329 | Shelly Everette |
-| 575 | 328 | Silly Wiper |
-| 576 | 328 | LaShawyn Wood |
+| 573 | 329 | Shelly Everette |
+| 574 | 329 | Chris Watson Draper |
+| 575 | 328 | LaShawyn Wood |
+| 576 | 328 | Silly Wiper |
 | 577 | 327 | Hardtohandle91 |
-| 578 | 324 | Kristie |
-| 579 | 324 | Sharee Robinson |
-| 580 | 324 | Teddy Davis |
-| 581 | 324 | Breezy Catcher |
+| 578 | 324 | Breezy Catcher |
+| 579 | 324 | Teddy Davis |
+| 580 | 324 | Kristie |
+| 581 | 324 | Sharee Robinson |
 | 582 | 323 | Bea Dyer-Fields |
 | 583 | 322 | TNT |
-| 584 | 321 | Iceman |
-| 585 | 321 | Kàrma Lee |
-| 586 | 321 | Andra Ward |
-| 587 | 321 | Daring Riserfit |
-| 588 | 321 | LuckyStar |
-| 589 | 321 | Terri Smart |
-| 590 | 320 | Phongoudom Tika |
-| 591 | 320 | Malcolm Stanley |
-| 592 | 320 | Valerie Alexander |
+| 584 | 321 | Daring Riserfit |
+| 585 | 321 | Terri Smart |
+| 586 | 321 | Kàrma Lee |
+| 587 | 321 | Iceman |
+| 588 | 321 | Andra Ward |
+| 589 | 321 | LuckyStar |
+| 590 | 320 | Malcolm Stanley |
+| 591 | 320 | Valerie Alexander |
+| 592 | 320 | Phongoudom Tika |
 | 593 | 319 | Christi Walker Patton |
 | 594 | 319 | Ciera Peace |
 | 595 | 319 | Zany Breaker |
@@ -733,8 +733,8 @@
 | 725 | 268 | Kala Miller |
 | 726 | 267 | Rachel Lopez |
 | 727 | 267 | Taneka Howell |
-| 728 | 265 | MikeHunt |
-| 729 | 265 | Joseph Vs Cap |
+| 728 | 267 | Joseph Vs Cap |
+| 729 | 265 | MikeHunt |
 | 730 | 265 | Kortney Adams |
 | 731 | 264 | Donna Payne |
 | 732 | 264 | Glitzy Clusterer |
