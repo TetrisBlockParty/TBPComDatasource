@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:52:24 UTC
+# Standings for team4 as of 2026-06-11 09:53:20 UTC
 
 **Total Participants:** 2506
 
@@ -88,8 +88,8 @@
 | 80 | 2089 | Twirl Girl |
 | 81 | 2068 | Damon Gaston |
 | 82 | 2066 | kcknbtz |
-| 83 | 2046 | Cherry |
-| 84 | 2029 | Cranky Buildout |
+| 83 | 2057 | Cranky Buildout |
+| 84 | 2046 | Cherry |
 | 85 | 2023 | Sweet Stacker |
 | 86 | 2003 | Jackie Polanco |
 | 87 | 1920 | Alyssa Oth |
@@ -141,8 +141,8 @@
 | 133 | 1236 | Hairy Snake |
 | 134 | 1227 | shawna |
 | 135 | 1226 | Jason Garnatz |
-| 136 | 1206 | Kimberly Civinski |
-| 137 | 1183 | Melissa WC |
+| 136 | 1217 | Melissa WC |
+| 137 | 1206 | Kimberly Civinski |
 | 138 | 1182 | Phil Peterson |
 | 139 | 1180 | Hardy Fuller |
 | 140 | 1180 | Anthony Magaraci |
@@ -224,7 +224,7 @@
 | 216 | 807 | LastBoi |
 | 217 | 806 | Gracie Ornelas |
 | 218 | 796 | Snippy Splitter |
-| 219 | 790 | Kelly Howland |
+| 219 | 793 | Kelly Howland |
 | 220 | 788 | Jackie Jackson |
 | 221 | 781 | Janet Sanfilippo Sullivan |
 | 222 | 778 | Suzanne Carter |
@@ -281,8 +281,8 @@
 | 273 | 632 | Real Talk Vibes |
 | 274 | 629 | Lani |
 | 275 | 625 | Addi JayKay |
-| 276 | 618 | Jeremy |
-| 277 | 617 | Snazzy Corner |
+| 276 | 620 | Snazzy Corner |
+| 277 | 618 | Jeremy |
 | 278 | 617 | Colin |
 | 279 | 614 | Pebbles Gonzalez |
 | 280 | 613 | Cyndi Najar |
@@ -415,10 +415,10 @@
 | 407 | 437 | farfromlocal |
 | 408 | 437 | Dan Butcher |
 | 409 | 436 | John Cotugno |
-| 410 | 434 | Kimyatta Cavin |
-| 411 | 434 | Dolores Falco |
-| 412 | 433 | Slimm |
-| 413 | 433 | Snow77white |
+| 410 | 435 | Snow77white |
+| 411 | 434 | Kimyatta Cavin |
+| 412 | 434 | Dolores Falco |
+| 413 | 433 | Slimm |
 | 414 | 432 | Melissa Lowe |
 | 415 | 431 | Henry Lanier |
 | 416 | 430 | Rhonda Dowling |
@@ -876,14 +876,14 @@
 | 868 | 215 | Swanky Builderline |
 | 869 | 215 | ShaniP |
 | 870 | 214 | Joe Andrews |
-| 871 | 214 | Amori85 |
-| 872 | 214 | Linda |
-| 873 | 214 | Felicia Harrison |
-| 874 | 214 | Monica Shupe |
-| 875 | 214 | Cozy Patternline |
-| 876 | 214 | Worley’s Wife |
-| 877 | 213 | Breezy Rollfit |
-| 878 | 213 | MsChelleAnn |
+| 871 | 214 | MsChelleAnn |
+| 872 | 214 | Amori85 |
+| 873 | 214 | Linda |
+| 874 | 214 | Felicia Harrison |
+| 875 | 214 | Monica Shupe |
+| 876 | 214 | Cozy Patternline |
+| 877 | 214 | Worley’s Wife |
+| 878 | 213 | Breezy Rollfit |
 | 879 | 213 | Deanne Silverdahl |
 | 880 | 213 | Chill Rollpiece |
 | 881 | 213 | Lala |
@@ -1638,8 +1638,8 @@
 | 1630 | 67 | Beezy |
 | 1631 | 67 | Komet Tyler |
 | 1632 | 67 | Wacky Snaplink |
-| 1633 | 67 | Amanda KN |
-| 1634 | 66 | Saucy Buildgrid |
+| 1633 | 67 | Saucy Buildgrid |
+| 1634 | 67 | Amanda KN |
 | 1635 | 66 | james |
 | 1636 | 66 | Hakiem Shorter |
 | 1637 | 66 | ApexVibez |
