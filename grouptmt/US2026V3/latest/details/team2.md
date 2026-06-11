@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:54:46 UTC
+# Standings for team2 as of 2026-06-11 08:55:24 UTC
 
 **Total Participants:** 2937
 
@@ -178,9 +178,9 @@
 | 170 | 1238 | Jackie Tupper |
 | 171 | 1224 | BrendaLee NolanBos |
 | 172 | 1217 | Leigh Ann |
-| 173 | 1208 | Tami Kay Williams Watson |
-| 174 | 1208 | Brenda Jones |
-| 175 | 1199 | Jeska Gaines |
+| 173 | 1209 | Jeska Gaines |
+| 174 | 1208 | Tami Kay Williams Watson |
+| 175 | 1208 | Brenda Jones |
 | 176 | 1199 | Allie Bug |
 | 177 | 1192 | Sabrina Hardrick |
 | 178 | 1189 | AndrewandShela Gornik |
@@ -416,15 +416,15 @@
 | 408 | 532 | LadyDeath |
 | 409 | 531 | Quirky Clicky |
 | 410 | 531 | Smiley Staggerpiece |
-| 411 | 529 | Jessica Lynn |
-| 412 | 528 | Emma Danielle Wynn |
-| 413 | 527 | Doowop40 |
-| 414 | 527 | Joni Michelle Morgan |
-| 415 | 525 | Symmy Norton |
-| 416 | 524 | Chill Shatterer |
-| 417 | 524 | Funway998 |
-| 418 | 524 | Leticia Tillman |
-| 419 | 524 | Marylin Eacker |
+| 411 | 530 | Symmy Norton |
+| 412 | 529 | Jessica Lynn |
+| 413 | 528 | Emma Danielle Wynn |
+| 414 | 527 | Doowop40 |
+| 415 | 527 | Joni Michelle Morgan |
+| 416 | 524 | Funway998 |
+| 417 | 524 | Leticia Tillman |
+| 418 | 524 | Marylin Eacker |
+| 419 | 524 | Chill Shatterer |
 | 420 | 523 | Earline Dupuy Bordelon |
 | 421 | 522 | Victoria Pale |
 | 422 | 516 | StacyBabee |

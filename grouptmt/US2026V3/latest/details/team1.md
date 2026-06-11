@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:54:46 UTC
+# Standings for team1 as of 2026-06-11 08:55:24 UTC
 
 **Total Participants:** 2467
 
@@ -184,7 +184,7 @@
 | 176 | 971 | Slinky Puzzler |
 | 177 | 964 | Zippy Tilefall |
 | 178 | 952 | Ebony |
-| 179 | 947 | Keke Ferguson |
+| 179 | 950 | Keke Ferguson |
 | 180 | 946 | Smiley3000 |
 | 181 | 942 | Chuck Quarles |
 | 182 | 927 | Novaa |
@@ -506,19 +506,19 @@
 | 498 | 367 | Darrel Pemberton |
 | 499 | 367 | SweetByNBy |
 | 500 | 366 | Falisa Bell |
-| 501 | 365 | TieMs BHughez |
-| 502 | 363 | Mighty Dropper |
-| 503 | 361 | Holly Baker |
-| 504 | 361 | John Staub |
+| 501 | 365 | Saucy Faller |
+| 502 | 365 | TieMs BHughez |
+| 503 | 363 | Mighty Dropper |
+| 504 | 361 | Holly Baker |
 | 505 | 361 | Crystal Cheresnowsky |
-| 506 | 361 | Lakiesha Crawford |
-| 507 | 360 | Teri Marie Clayton |
+| 506 | 361 | John Staub |
+| 507 | 361 | Lakiesha Crawford |
 | 508 | 360 | HS Arce |
-| 509 | 360 | Slinky Clearzone |
-| 510 | 359 | Montréal Mars |
-| 511 | 358 | Juan Alvarez |
-| 512 | 358 | Tori Carter |
-| 513 | 357 | Saucy Faller |
+| 509 | 360 | Teri Marie Clayton |
+| 510 | 360 | Slinky Clearzone |
+| 511 | 359 | Montréal Mars |
+| 512 | 358 | Juan Alvarez |
+| 513 | 358 | Tori Carter |
 | 514 | 357 | Manda Allen |
 | 515 | 355 | Shawn Himes |
 | 516 | 354 | Carolyn Delphie |
