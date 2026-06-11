@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:06:24 UTC
+# Standings for team4 as of 2026-06-11 15:07:24 UTC
 
 **Total Participants:** 2540
 
@@ -893,34 +893,34 @@
 | 885 | 219 | Poptart |
 | 886 | 218 | Breezy Wife |
 | 887 | 218 | Has2brat |
-| 888 | 217 | Snippy Fitblock |
+| 888 | 217 | Hilarie Detweiler |
 | 889 | 217 | Bam SwaggSpitter King |
-| 890 | 217 | Hilarie Detweiler |
+| 890 | 217 | Snippy Fitblock |
 | 891 | 217 | Ben Figueroa |
 | 892 | 216 | Jozette Smalarz |
 | 893 | 216 | Groovy Stacker |
 | 894 | 216 | Clever Fallzone |
 | 895 | 216 | Maegon Brazille |
 | 896 | 216 | Layne Davis |
-| 897 | 215 | Mari Isaac |
-| 898 | 215 | ShaniP |
+| 897 | 216 | Daring Patternblock |
+| 898 | 215 | Mari Isaac |
 | 899 | 215 | Autumn Maher |
-| 900 | 215 | Swanky Builderline |
-| 901 | 215 | Larredo Covington |
-| 902 | 215 | Sfalcon1. |
-| 903 | 214 | Monica Shupe |
-| 904 | 214 | Amori85 |
-| 905 | 214 | Felicia Harrison |
-| 906 | 214 | Worley’s Wife |
+| 900 | 215 | ShaniP |
+| 901 | 215 | Swanky Builderline |
+| 902 | 215 | Larredo Covington |
+| 903 | 215 | Sfalcon1. |
+| 904 | 214 | Monica Shupe |
+| 905 | 214 | Amori85 |
+| 906 | 214 | Felicia Harrison |
 | 907 | 214 | Linda |
-| 908 | 213 | Breezy Rollfit |
-| 909 | 213 | Deanne Silverdahl |
-| 910 | 213 | Chill Rollpiece |
-| 911 | 213 | Lala |
-| 912 | 212 | Certified Da Don |
-| 913 | 212 | Daring Patternblock |
-| 914 | 212 | Conela Rouse Goldstein |
-| 915 | 212 | Nerdy Glider |
+| 908 | 214 | Worley’s Wife |
+| 909 | 213 | Breezy Rollfit |
+| 910 | 213 | Deanne Silverdahl |
+| 911 | 213 | Chill Rollpiece |
+| 912 | 213 | Lala |
+| 913 | 212 | Certified Da Don |
+| 914 | 212 | Nerdy Glider |
+| 915 | 212 | Conela Rouse Goldstein |
 | 916 | 212 | David Kirschner |
 | 917 | 211 | Kayla Haddenham |
 | 918 | 211 | Shirley A. Godfrey |
@@ -929,9 +929,9 @@
 | 921 | 210 | Kristine Hj Han |
 | 922 | 210 | Amber Torres |
 | 923 | 210 | Lizxxx |
-| 924 | 209 | Ashley Ferguson |
-| 925 | 209 | Bren70 |
-| 926 | 209 | Ashley Mcdonald |
+| 924 | 209 | Bren70 |
+| 925 | 209 | Ashley Mcdonald |
+| 926 | 209 | Ashley Ferguson |
 | 927 | 209 | Sadeha Simpson |
 | 928 | 209 | Chad Finton |
 | 929 | 209 | Amy Gutierrez |
@@ -1132,55 +1132,55 @@
 | 1124 | 157 | Marie Lily |
 | 1125 | 157 | Skylar Durk |
 | 1126 | 157 | Loyalty83 |
-| 1127 | 157 | Isabel Roman |
-| 1128 | 157 | NotAkaren Barker |
+| 1127 | 157 | NotAkaren Barker |
+| 1128 | 157 | CrystalP83 |
 | 1129 | 157 | Kahlie Grant |
-| 1130 | 157 | CrystalP83 |
-| 1131 | 156 | Bold Clear |
-| 1132 | 156 | Donny Keets |
-| 1133 | 155 | Donna Winget |
-| 1134 | 155 | Chris Somsen |
-| 1135 | 155 | Ern |
+| 1130 | 157 | Isabel Roman |
+| 1131 | 156 | Donny Keets |
+| 1132 | 156 | Bold Clear |
+| 1133 | 155 | Chris Somsen |
+| 1134 | 155 | Ern |
+| 1135 | 155 | Donna Winget |
 | 1136 | 155 | Shayna Vaigneur-Hall |
 | 1137 | 155 | Frisky Pusher |
 | 1138 | 154 | Lady |
-| 1139 | 154 | La Ah Ox |
-| 1140 | 154 | Samantha Brandt |
-| 1141 | 154 | Hhs Ffchh |
-| 1142 | 153 | Giddy Brickline |
-| 1143 | 153 | Allrise99 |
-| 1144 | 153 | Amber Bishop |
-| 1145 | 153 | Groovy Linkmatch |
-| 1146 | 153 | White As Snow |
-| 1147 | 153 | Kristen Hall |
+| 1139 | 154 | Samantha Brandt |
+| 1140 | 154 | Hhs Ffchh |
+| 1141 | 154 | La Ah Ox |
+| 1142 | 153 | Groovy Linkmatch |
+| 1143 | 153 | White As Snow |
+| 1144 | 153 | Kristen Hall |
+| 1145 | 153 | Allrise99 |
+| 1146 | 153 | Giddy Brickline |
+| 1147 | 153 | Amber Bishop |
 | 1148 | 153 | Melissa Anne |
 | 1149 | 153 | Joyce Hampton |
 | 1150 | 152 | Chabetta |
-| 1151 | 151 | Jumpy Lifter |
-| 1152 | 151 | Jason Moves |
-| 1153 | 150 | h_chloe10 |
+| 1151 | 151 | Jason Moves |
+| 1152 | 151 | Jumpy Lifter |
+| 1153 | 151 | Dominique Miesha Smith |
 | 1154 | 150 | MzCeleste Brooks |
-| 1155 | 150 | William Brooks |
-| 1156 | 150 | Cranky Twistpiece |
-| 1157 | 150 | Danielle Porter |
-| 1158 | 150 | Sonya |
-| 1159 | 149 | Natisha Bullock |
-| 1160 | 149 | Krushie |
-| 1161 | 149 | Elizabeth Ann Caro |
+| 1155 | 150 | Cranky Twistpiece |
+| 1156 | 150 | Danielle Porter |
+| 1157 | 150 | h_chloe10 |
+| 1158 | 150 | William Brooks |
+| 1159 | 150 | Sonya |
+| 1160 | 149 | Natisha Bullock |
+| 1161 | 149 | Jazzy Smasher |
 | 1162 | 149 | LynDee Danielle Hankins |
-| 1163 | 149 | Jazzy Smasher |
-| 1164 | 148 | Vanessa Torres |
-| 1165 | 148 | Tika Boo |
-| 1166 | 148 | Cinnanin |
-| 1167 | 148 | Latisha TeTe Williams |
-| 1168 | 148 | da1ndonly |
-| 1169 | 148 | Ty Brown |
-| 1170 | 148 | Jeni |
-| 1171 | 148 | Jasmine Marie |
-| 1172 | 147 | Sandra O'Reilly |
-| 1173 | 147 | CRsLady |
+| 1163 | 149 | Krushie |
+| 1164 | 149 | Elizabeth Ann Caro |
+| 1165 | 148 | Vanessa Torres |
+| 1166 | 148 | Tika Boo |
+| 1167 | 148 | Cinnanin |
+| 1168 | 148 | Latisha TeTe Williams |
+| 1169 | 148 | da1ndonly |
+| 1170 | 148 | Ty Brown |
+| 1171 | 148 | Jeni |
+| 1172 | 148 | Jasmine Marie |
+| 1173 | 147 | Sandra O'Reilly |
 | 1174 | 147 | Tammy Wells |
-| 1175 | 147 | Dominique Miesha Smith |
+| 1175 | 147 | CRsLady |
 | 1176 | 146 | Marie Culbert |
 | 1177 | 146 | Mone DyTorrion Zyan Lotts |
 | 1178 | 146 | Aleah Briann |
