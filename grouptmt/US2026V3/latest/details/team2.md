@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:18:51 UTC
+# Standings for team2 as of 2026-06-11 07:19:24 UTC
 
 **Total Participants:** 2927
 
@@ -1431,32 +1431,32 @@
 | 1423 | 136 | Alexis Meyers |
 | 1424 | 136 | Lauren Maxwell |
 | 1425 | 136 | Fisherman Jackson |
-| 1426 | 136 | Matthew Black |
-| 1427 | 136 | Plucky Linkmatch |
+| 1426 | 136 | Plucky Linkmatch |
+| 1427 | 136 | Matthew Black |
 | 1428 | 135 | Heather Lewis |
 | 1429 | 135 | Ava Taber |
 | 1430 | 135 | Stacey Ann Kelley |
 | 1431 | 135 | Denise Baker |
 | 1432 | 135 | Daring Pivotfall |
 | 1433 | 134 | Glowing Earthy Embers |
-| 1434 | 134 | Bold Bridgepiece |
-| 1435 | 134 | Helen Chao |
-| 1436 | 134 | Mona Wagner |
+| 1434 | 134 | Tucker Catherman |
+| 1435 | 134 | Bold Bridgepiece |
+| 1436 | 134 | Helen Chao |
 | 1437 | 134 | Dizzy Gridder |
 | 1438 | 134 | Lesley Stoeckle |
-| 1439 | 134 | Rachael Roberts |
-| 1440 | 134 | Cheeky Snapline |
-| 1441 | 133 | Nutty Blockline |
-| 1442 | 133 | BigHearted-57 |
-| 1443 | 133 | Nikki Strawn |
-| 1444 | 133 | Wildcat1220 |
-| 1445 | 133 | Glitzy Fallgrid |
-| 1446 | 133 | Sassafras Cass |
-| 1447 | 132 | Cardisa Hall |
-| 1448 | 132 | Tim Moore |
-| 1449 | 132 | Tanya Goodwin |
-| 1450 | 132 | Lively Liner |
-| 1451 | 132 | Tucker Catherman |
+| 1439 | 134 | Mona Wagner |
+| 1440 | 134 | Rachael Roberts |
+| 1441 | 134 | Cheeky Snapline |
+| 1442 | 133 | Nutty Blockline |
+| 1443 | 133 | BigHearted-57 |
+| 1444 | 133 | Nikki Strawn |
+| 1445 | 133 | Wildcat1220 |
+| 1446 | 133 | Glitzy Fallgrid |
+| 1447 | 133 | Sassafras Cass |
+| 1448 | 132 | Cardisa Hall |
+| 1449 | 132 | Tim Moore |
+| 1450 | 132 | Tanya Goodwin |
+| 1451 | 132 | Lively Liner |
 | 1452 | 131 | Mona Smith |
 | 1453 | 131 | Rob Phillips |
 | 1454 | 131 | Lyndzey Sciscoe |
@@ -1467,8 +1467,8 @@
 | 1459 | 130 | Stacey Loretta Wallace |
 | 1460 | 130 | Betsey Terry |
 | 1461 | 130 | Michele Gonzales |
-| 1462 | 130 | Greenbean |
-| 1463 | 130 | Shannon D. Turk |
+| 1462 | 130 | Shannon D. Turk |
+| 1463 | 130 | Greenbean |
 | 1464 | 130 | Lori |
 | 1465 | 130 | Sandy Molina |
 | 1466 | 130 | Bill Edge |

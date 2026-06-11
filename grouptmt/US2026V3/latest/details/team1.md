@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:18:51 UTC
+# Standings for team1 as of 2026-06-11 07:19:24 UTC
 
 **Total Participants:** 2457
 
@@ -151,7 +151,7 @@
 | 143 | 1202 | Plucky Slamdrop |
 | 144 | 1196 | ELM |
 | 145 | 1179 | Lesley Brunkus Cianfaglione |
-| 146 | 1165 | Loopy Block |
+| 146 | 1175 | Loopy Block |
 | 147 | 1158 | kc |
 | 148 | 1147 | Kaleisha Smith |
 | 149 | 1142 | Yasmin Nakea Wright |
@@ -784,49 +784,49 @@
 | 776 | 243 | Eric Machuca |
 | 777 | 243 | whatever |
 | 778 | 242 | Big Bovice |
-| 779 | 241 | Marlynnnnn |
-| 780 | 241 | Ad Doctor |
-| 781 | 241 | Jackytrain52 |
-| 782 | 240 | Leavon Smith |
-| 783 | 240 | lookin |
+| 779 | 242 | Joseph Vs Cap |
+| 780 | 241 | Marlynnnnn |
+| 781 | 241 | Ad Doctor |
+| 782 | 241 | Jackytrain52 |
+| 783 | 240 | Leavon Smith |
 | 784 | 240 | Velma Jones |
-| 785 | 239 | Darrelle Short |
+| 785 | 240 | lookin |
 | 786 | 239 | Rosalind Chatman |
-| 787 | 239 | Anntionette Sotire |
-| 788 | 239 | Joseph Vs Cap |
-| 789 | 239 | Sherri Keys |
-| 790 | 239 | Twisty Cascadeclear |
-| 791 | 238 | Marbama |
+| 787 | 239 | Sherri Keys |
+| 788 | 239 | Darrelle Short |
+| 789 | 239 | Twisty Cascadeclear |
+| 790 | 239 | Anntionette Sotire |
+| 791 | 238 | B.L. Perry |
 | 792 | 238 | William Vidra |
-| 793 | 238 | B.L. Perry |
-| 794 | 237 | Flashy Stacker |
-| 795 | 237 | Shalena Marie Humphrey |
+| 793 | 238 | Marbama |
+| 794 | 237 | Shalena Marie Humphrey |
+| 795 | 237 | Flashy Stacker |
 | 796 | 236 | Rayshawn Cohen |
 | 797 | 235 | Yoellah Benyahmeen |
-| 798 | 235 | Oaklonboy mike |
-| 799 | 235 | Juan Lewis |
+| 798 | 235 | Juan Lewis |
+| 799 | 235 | Oaklonboy mike |
 | 800 | 235 | nameno |
 | 801 | 235 | Squaw Ki Ng |
-| 802 | 234 | Shameka Tiffany |
-| 803 | 234 | Frances Davis |
+| 802 | 234 | Frances Davis |
+| 803 | 234 | Shameka Tiffany |
 | 804 | 233 | Claudia Price |
 | 805 | 233 | Aanngie Aanngie |
 | 806 | 232 | Renee Marshall |
 | 807 | 231 | Tyiesha Pie Farmer |
-| 808 | 231 | Ashley Davis |
-| 809 | 231 | toxictonic92 |
+| 808 | 231 | toxictonic92 |
+| 809 | 231 | Ashley Davis |
 | 810 | 230 | Erica Campbell-Stillings |
-| 811 | 229 | $hort Dog |
-| 812 | 229 | Derald Miller |
-| 813 | 229 | Happy Blocky |
-| 814 | 228 | Kp |
-| 815 | 228 | Meeee |
-| 816 | 227 | Elaine Pauley |
-| 817 | 227 | Nikita Jones |
-| 818 | 227 | Christina Singleton |
-| 819 | 227 | Epic Puzzle |
-| 820 | 227 | Lootch |
-| 821 | 227 | Kimberly Susan Privette |
+| 811 | 229 | Derald Miller |
+| 812 | 229 | Happy Blocky |
+| 813 | 229 | $hort Dog |
+| 814 | 228 | Meeee |
+| 815 | 228 | Kp |
+| 816 | 227 | Epic Puzzle |
+| 817 | 227 | Christina Singleton |
+| 818 | 227 | Nikita Jones |
+| 819 | 227 | Elaine Pauley |
+| 820 | 227 | Kimberly Susan Privette |
+| 821 | 227 | Lootch |
 | 822 | 227 | Sallie Sanborn |
 | 823 | 226 | Undeniable Williams |
 | 824 | 226 | Stephen Providenti |
@@ -1913,110 +1913,110 @@
 | 1905 | 35 | Damien Johnson |
 | 1906 | 35 | Frilly Glidepiece |
 | 1907 | 34 | beeutifullll |
-| 1908 | 34 | Lauren |
-| 1909 | 34 | Zayy Wavyy |
-| 1910 | 34 | Fancy Strikerbuilder |
-| 1911 | 34 | Daron Montgomery |
+| 1908 | 34 | Zayy Wavyy |
+| 1909 | 34 | Lauren |
+| 1910 | 34 | Daron Montgomery |
+| 1911 | 34 | Fancy Strikerbuilder |
 | 1912 | 34 | Jumpy Brickbuilder |
-| 1913 | 34 | Plucky Clearpiece |
-| 1914 | 34 | Dazee Rogers |
-| 1915 | 34 | Bouncy Brickroll |
-| 1916 | 33 | Brianna Floyd |
-| 1917 | 33 | Koz176 |
-| 1918 | 33 | BigDawg Lessley |
+| 1913 | 34 | Bouncy Brickroll |
+| 1914 | 34 | Plucky Clearpiece |
+| 1915 | 34 | Dazee Rogers |
+| 1916 | 34 | Clever Linkroll |
+| 1917 | 33 | Brianna Floyd |
+| 1918 | 33 | Koz176 |
 | 1919 | 33 | Kim Ratcliff Leatherman |
-| 1920 | 32 | Tiffany Ali Shaw |
-| 1921 | 32 | Janie Helton |
-| 1922 | 32 | Shericka Taylor |
-| 1923 | 32 | Betty Joe Lemberg |
-| 1924 | 32 | Bouncy Base |
-| 1925 | 32 | Tasha Stuckey |
-| 1926 | 32 | Melissa Embrey |
+| 1920 | 33 | BigDawg Lessley |
+| 1921 | 32 | Tiffany Ali Shaw |
+| 1922 | 32 | Janie Helton |
+| 1923 | 32 | Shericka Taylor |
+| 1924 | 32 | Betty Joe Lemberg |
+| 1925 | 32 | Bouncy Base |
+| 1926 | 32 | Wx_Birdie |
 | 1927 | 32 | Shalyn Law |
-| 1928 | 32 | Jädaa Laa'Destïnyy |
-| 1929 | 32 | Van Cunning |
-| 1930 | 32 | Wx_Birdie |
-| 1931 | 31 | Zippy Slammer |
-| 1932 | 31 | Otavia Gordon |
-| 1933 | 31 | Edward Hickmon |
-| 1934 | 31 | Kelly Darty |
-| 1935 | 31 | EchoQuirky Blockclear |
-| 1936 | 31 | Jennifer Diamond |
-| 1937 | 31 | Emily Burgoon |
-| 1938 | 30 | Edward Hackett |
-| 1939 | 30 | Grace Page |
-| 1940 | 30 | PS |
-| 1941 | 30 | Bob Bon |
-| 1942 | 30 | Myca Cooper |
-| 1943 | 30 | Annette DeLoatch Thompson |
-| 1944 | 30 | Charlean Sims |
-| 1945 | 30 | Dora Greer |
-| 1946 | 30 | Moneke Randolph |
-| 1947 | 30 | DeJuan BD |
-| 1948 | 30 | Dee |
-| 1949 | 30 | Dremer Clark |
+| 1928 | 32 | Tasha Stuckey |
+| 1929 | 32 | Jädaa Laa'Destïnyy |
+| 1930 | 32 | Melissa Embrey |
+| 1931 | 32 | Van Cunning |
+| 1932 | 31 | Emily Burgoon |
+| 1933 | 31 | EchoQuirky Blockclear |
+| 1934 | 31 | Zippy Slammer |
+| 1935 | 31 | Otavia Gordon |
+| 1936 | 31 | Kelly Darty |
+| 1937 | 31 | Edward Hickmon |
+| 1938 | 31 | Jennifer Diamond |
+| 1939 | 30 | Moneke Randolph |
+| 1940 | 30 | Charlean Sims |
+| 1941 | 30 | Dora Greer |
+| 1942 | 30 | DeJuan BD |
+| 1943 | 30 | Dremer Clark |
+| 1944 | 30 | Annette DeLoatch Thompson |
+| 1945 | 30 | Dee |
+| 1946 | 30 | PS |
+| 1947 | 30 | Bob Bon |
+| 1948 | 30 | Edward Hackett |
+| 1949 | 30 | Grace Page |
 | 1950 | 30 | DRIFTER |
-| 1951 | 30 | Cool Rumbler |
-| 1952 | 30 | Biggie Cheeze |
-| 1953 | 30 | Cierra Banks |
-| 1954 | 30 | Cucumber |
-| 1955 | 30 | Chavez James |
-| 1956 | 30 | Jeanne Bitner |
-| 1957 | 30 | Tipsy Tilt |
-| 1958 | 29 | Neesii |
-| 1959 | 29 | Swanky Linkmatch |
-| 1960 | 29 | Candice Mayo |
-| 1961 | 29 | Epic Wipepiece |
-| 1962 | 29 | Everett Semmions |
-| 1963 | 29 | Cheeky Tiltbuilder |
-| 1964 | 29 | Caprice Taylor |
-| 1965 | 29 | Chris Davidson |
-| 1966 | 29 | Elizabeth Ragland |
-| 1967 | 29 | Clever Linkroll |
-| 1968 | 29 | Macaroni Meechie Johnson |
+| 1951 | 30 | Chavez James |
+| 1952 | 30 | Jeanne Bitner |
+| 1953 | 30 | Tipsy Tilt |
+| 1954 | 30 | Biggie Cheeze |
+| 1955 | 30 | Cierra Banks |
+| 1956 | 30 | Cucumber |
+| 1957 | 30 | Myca Cooper |
+| 1958 | 30 | Cool Rumbler |
+| 1959 | 29 | Virginia Beilen |
+| 1960 | 29 | Epic Wipepiece |
+| 1961 | 29 | Neesii |
+| 1962 | 29 | Cheeky Tiltbuilder |
+| 1963 | 29 | Elizabeth Ragland |
+| 1964 | 29 | Chris Davidson |
+| 1965 | 29 | Caprice Taylor |
+| 1966 | 29 | Macaroni Meechie Johnson |
+| 1967 | 29 | Swanky Linkmatch |
+| 1968 | 29 | Candice Mayo |
 | 1969 | 29 | Ty Brown |
-| 1970 | 29 | Virginia Beilen |
-| 1971 | 28 | Zany Edgepiece |
+| 1970 | 29 | Everett Semmions |
+| 1971 | 28 | Raevon Bailey |
 | 1972 | 28 | Carlotta L Parker |
-| 1973 | 28 | DaNesha Simmons |
-| 1974 | 28 | Raevon Bailey |
+| 1973 | 28 | Dannie Brown |
+| 1974 | 28 | Lauren |
 | 1975 | 28 | Groovy Towerer |
-| 1976 | 28 | Chief block |
-| 1977 | 28 | Shanna Nicole Anderson |
-| 1978 | 28 | Steven Holloway |
-| 1979 | 28 | Dannie Brown |
-| 1980 | 28 | Kenya Richardson |
+| 1976 | 28 | Steven Holloway |
+| 1977 | 28 | Chief block |
+| 1978 | 28 | Kenya Richardson |
+| 1979 | 28 | Zany Edgepiece |
+| 1980 | 28 | Will Stanton |
 | 1981 | 28 | Keera425 |
 | 1982 | 28 | Shutyoface Barber |
-| 1983 | 28 | Lauren |
-| 1984 | 28 | Will Stanton |
-| 1985 | 27 | Bubbly Fallmatch |
-| 1986 | 27 | TanB53 |
-| 1987 | 27 | BloodKnight |
-| 1988 | 27 | Juantize Jackson |
-| 1989 | 27 | Ramon Leno Coolridge |
-| 1990 | 27 | Sanchez Jackson |
-| 1991 | 27 | katia |
-| 1992 | 27 | Manda Pecora |
-| 1993 | 27 | Quirky Snaplink |
-| 1994 | 27 | Tapenga Smith |
-| 1995 | 27 | Taylor Keisha |
-| 1996 | 27 | Shaylyn Lockwood |
-| 1997 | 27 | Kenyae K-Holla Holloway |
-| 1998 | 27 | Adam Harrison |
-| 1999 | 27 | Poppy Clusterbuilder |
-| 2000 | 27 | Zesty Fitclear |
-| 2001 | 27 | marie |
-| 2002 | 27 | Earnest Manning Bey |
-| 2003 | 27 | Tara Hall |
-| 2004 | 26 | MoodieKat |
-| 2005 | 26 | Dee-Dee Stewart |
-| 2006 | 26 | Shiny Crusher |
-| 2007 | 26 | Lush Risebuilder |
+| 1983 | 28 | DaNesha Simmons |
+| 1984 | 28 | Shanna Nicole Anderson |
+| 1985 | 27 | Sanchez Jackson |
+| 1986 | 27 | Quirky Snaplink |
+| 1987 | 27 | Manda Pecora |
+| 1988 | 27 | BloodKnight |
+| 1989 | 27 | TanB53 |
+| 1990 | 27 | Zesty Fitclear |
+| 1991 | 27 | Juantize Jackson |
+| 1992 | 27 | Ramon Leno Coolridge |
+| 1993 | 27 | Tara Hall |
+| 1994 | 27 | Bubbly Fallmatch |
+| 1995 | 27 | katia |
+| 1996 | 27 | Adam Harrison |
+| 1997 | 27 | marie |
+| 1998 | 27 | Kenyae K-Holla Holloway |
+| 1999 | 27 | Shaylyn Lockwood |
+| 2000 | 27 | Taylor Keisha |
+| 2001 | 27 | Tapenga Smith |
+| 2002 | 27 | Poppy Clusterbuilder |
+| 2003 | 27 | Earnest Manning Bey |
+| 2004 | 26 | jae |
+| 2005 | 26 | Rakesia S Williams |
+| 2006 | 26 | Lush Risebuilder |
+| 2007 | 26 | Dee-Dee Stewart |
 | 2008 | 26 | Anyelin |
 | 2009 | 26 | Layla Williams |
-| 2010 | 26 | Rakesia S Williams |
-| 2011 | 26 | jae |
+| 2010 | 26 | Shiny Crusher |
+| 2011 | 26 | MoodieKat |
 | 2012 | 26 | Pynkbuddafly1 |
 | 2013 | 26 | Jolly Zoner |
 | 2014 | 26 | Chevonne Huggins |
