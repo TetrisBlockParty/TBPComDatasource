@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:56:48 UTC
+# Standings for team1 as of 2026-06-11 18:57:23 UTC
 
 **Total Participants:** 2519
 
@@ -577,10 +577,10 @@
 | 569 | 360 | Slinky Clearzone |
 | 570 | 360 | Teri Marie Clayton |
 | 571 | 359 | Montréal Mars |
-| 572 | 358 | Chris Watson Draper |
-| 573 | 357 | Manda Allen |
-| 574 | 357 | Mary Phillippi Blanton |
-| 575 | 356 | Emily Wright |
+| 572 | 359 | Emily Wright |
+| 573 | 358 | Chris Watson Draper |
+| 574 | 357 | Manda Allen |
+| 575 | 357 | Mary Phillippi Blanton |
 | 576 | 355 | Londa Londa |
 | 577 | 355 | Tito Divyn |
 | 578 | 354 | LaSharon Jackson |
