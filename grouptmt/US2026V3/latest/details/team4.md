@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 15:24:51 UTC
+# Standings for team4 as of 2026-06-11 15:25:23 UTC
 
 **Total Participants:** 2541
 
@@ -130,12 +130,12 @@
 | 122 | 1360 | Shaina Sharp |
 | 123 | 1358 | HurkleDurkle88 |
 | 124 | 1356 | Fancy Crasher |
-| 125 | 1350 | Principal Liz |
-| 126 | 1341 | Bri Martin |
-| 127 | 1339 | Beth Belanger |
-| 128 | 1336 | MysticMaven |
-| 129 | 1336 | Jonathan Hewitt |
-| 130 | 1331 | Nicole |
+| 125 | 1352 | Nicole |
+| 126 | 1350 | Principal Liz |
+| 127 | 1341 | Bri Martin |
+| 128 | 1339 | Beth Belanger |
+| 129 | 1336 | MysticMaven |
+| 130 | 1336 | Jonathan Hewitt |
 | 131 | 1316 | Irma |
 | 132 | 1311 | J |
 | 133 | 1285 | Kelly Bernard |
@@ -226,12 +226,12 @@
 | 218 | 843 | Spicy Chicken |
 | 219 | 841 | Waxboss |
 | 220 | 838 | Jennifer Ellyn Sheets |
-| 221 | 835 | Kelly Howland |
+| 221 | 836 | Kelly Howland |
 | 222 | 830 | Kitsune Bi |
-| 223 | 821 | Snippy Splitter |
-| 224 | 820 | Capone |
-| 225 | 815 | Megan Vick |
-| 226 | 814 | iiPurgeV2 |
+| 223 | 824 | iiPurgeV2 |
+| 224 | 821 | Snippy Splitter |
+| 225 | 820 | Capone |
+| 226 | 815 | Megan Vick |
 | 227 | 813 | Misty Leigh |
 | 228 | 813 | Tyson Stroppel |
 | 229 | 806 | Gracie Ornelas |
@@ -605,21 +605,21 @@
 | 597 | 326 | pussface |
 | 598 | 325 | Christina Barry |
 | 599 | 325 | Donna Bush |
-| 600 | 325 | Ilia Blake |
-| 601 | 324 | Alexsandra Hill |
-| 602 | 324 | Sarah Leake |
-| 603 | 324 | Playa |
-| 604 | 323 | shonaberry |
-| 605 | 323 | Lacie Powers |
-| 606 | 323 | GETBOXED! |
-| 607 | 322 | Fancy Gridroll |
-| 608 | 321 | Casey Thomas |
-| 609 | 321 | Jerett Coplin |
-| 610 | 320 | Britney Kitora |
-| 611 | 320 | Will E Ayala |
-| 612 | 320 | EpicWizard |
-| 613 | 320 | Tesa Mike Jenkins |
-| 614 | 320 | Lovetetris |
+| 600 | 325 | Lovetetris |
+| 601 | 325 | Ilia Blake |
+| 602 | 324 | Alexsandra Hill |
+| 603 | 324 | Sarah Leake |
+| 604 | 324 | Playa |
+| 605 | 323 | shonaberry |
+| 606 | 323 | Lacie Powers |
+| 607 | 323 | GETBOXED! |
+| 608 | 322 | Fancy Gridroll |
+| 609 | 321 | Casey Thomas |
+| 610 | 321 | Jerett Coplin |
+| 611 | 320 | Britney Kitora |
+| 612 | 320 | Will E Ayala |
+| 613 | 320 | EpicWizard |
+| 614 | 320 | Tesa Mike Jenkins |
 | 615 | 320 | Jimmy Clark |
 | 616 | 320 | Butterfly |
 | 617 | 319 | Mc3003 |
@@ -1002,16 +1002,16 @@
 | 994 | 190 | TeQuita Jennings |
 | 995 | 190 | Kris McMahon |
 | 996 | 190 | Natalie Ohrtman Strand |
-| 997 | 188 | Vergie Michael |
+| 997 | 189 | Stuart Crosby |
 | 998 | 188 | Andy Petersen |
 | 999 | 188 | LaRue Tee |
-| 1000 | 188 | Chirpy Dashfit |
-| 1001 | 188 | Littleshark |
-| 1002 | 187 | Krystal Simpson |
-| 1003 | 186 | Phredda Helene Gavornik |
-| 1004 | 186 | Quirky Shatterblock |
-| 1005 | 186 | Diqthot |
-| 1006 | 186 | Stuart Crosby |
+| 1000 | 188 | Littleshark |
+| 1001 | 188 | Chirpy Dashfit |
+| 1002 | 188 | Vergie Michael |
+| 1003 | 187 | Krystal Simpson |
+| 1004 | 186 | Phredda Helene Gavornik |
+| 1005 | 186 | Quirky Shatterblock |
+| 1006 | 186 | Diqthot |
 | 1007 | 185 | Hooti Smile |
 | 1008 | 185 | Dannie Ems |
 | 1009 | 184 | Amanda Lynn Robinson |
@@ -1049,26 +1049,26 @@
 | 1041 | 178 | Rin |
 | 1042 | 178 | Krazylegzzzz |
 | 1043 | 178 | Peterson Cottontail |
-| 1044 | 177 | Lionel Hampton |
-| 1045 | 177 | Gualberto Ramirez |
-| 1046 | 176 | Rocky |
-| 1047 | 176 | Rio Rumble |
-| 1048 | 176 | Keith Kosmicki |
-| 1049 | 176 | Keisha Petway |
-| 1050 | 175 | Leslie Ramos |
-| 1051 | 175 | JustLessie |
-| 1052 | 174 | Bridget Reilly |
-| 1053 | 174 | Michelle Michelle |
-| 1054 | 174 | Kay |
-| 1055 | 174 | Giggly Stackbuilder |
-| 1056 | 174 | Sonya |
-| 1057 | 173 | Ana Ruiz |
-| 1058 | 173 | Hasty Snapmatch |
-| 1059 | 173 | Shavondelia Williams |
-| 1060 | 173 | Jazzy Brickfit |
-| 1061 | 173 | Tarsha Thomas-Martinez |
-| 1062 | 173 | Wayne Hendricks |
-| 1063 | 173 | FUNBAT |
+| 1044 | 177 | Sonya |
+| 1045 | 177 | Lionel Hampton |
+| 1046 | 177 | Gualberto Ramirez |
+| 1047 | 176 | Rocky |
+| 1048 | 176 | Rio Rumble |
+| 1049 | 176 | Keith Kosmicki |
+| 1050 | 176 | Keisha Petway |
+| 1051 | 175 | Leslie Ramos |
+| 1052 | 175 | JustLessie |
+| 1053 | 174 | Bridget Reilly |
+| 1054 | 174 | Michelle Michelle |
+| 1055 | 174 | Kay |
+| 1056 | 174 | Giggly Stackbuilder |
+| 1057 | 173 | Shavondelia Williams |
+| 1058 | 173 | Jazzy Brickfit |
+| 1059 | 173 | Tarsha Thomas-Martinez |
+| 1060 | 173 | Wayne Hendricks |
+| 1061 | 173 | FUNBAT |
+| 1062 | 173 | Ana Ruiz |
+| 1063 | 173 | Hasty Snapmatch |
 | 1064 | 172 | Erica Hardwick |
 | 1065 | 172 | Ramona Rosado |
 | 1066 | 172 | Chelsea Pigg |
@@ -1157,8 +1157,8 @@
 | 1149 | 153 | Joyce Hampton |
 | 1150 | 153 | Melissa Anne |
 | 1151 | 152 | Chabetta |
-| 1152 | 152 | Dominique Miesha Smith |
-| 1153 | 151 | Jumpy Lifter |
+| 1152 | 152 | Jumpy Lifter |
+| 1153 | 152 | Dominique Miesha Smith |
 | 1154 | 151 | Jason Moves |
 | 1155 | 150 | MzCeleste Brooks |
 | 1156 | 150 | William Brooks |
@@ -1449,14 +1449,14 @@
 | 1441 | 97 | Goofy Stack |
 | 1442 | 97 | Mary Miller |
 | 1443 | 97 | Mike Artis |
-| 1444 | 97 | Limbo |
-| 1445 | 96 | Poppy Glider |
-| 1446 | 96 | Beck Samoney |
-| 1447 | 95 | Ginnie Strate |
-| 1448 | 95 | KingWing |
-| 1449 | 95 | Winza777 |
-| 1450 | 95 | Jasmine Griffin |
-| 1451 | 95 | Ronald Kent Hall |
+| 1444 | 97 | Ronald Kent Hall |
+| 1445 | 97 | Limbo |
+| 1446 | 96 | Poppy Glider |
+| 1447 | 96 | Beck Samoney |
+| 1448 | 95 | Ginnie Strate |
+| 1449 | 95 | KingWing |
+| 1450 | 95 | Winza777 |
+| 1451 | 95 | Jasmine Griffin |
 | 1452 | 95 | Hyper Balancepiece |
 | 1453 | 95 | Dancy Dinosaur |
 | 1454 | 95 | BlackThanos |
@@ -1835,37 +1835,37 @@
 | 1827 | 51 | DTM0013 |
 | 1828 | 51 | Breezy Clusterfit |
 | 1829 | 51 | Danielle Clutter |
-| 1830 | 50 | Giggy Tetrisline |
-| 1831 | 50 | Breezy Shatterclear |
-| 1832 | 50 | Speedy Snapclear |
-| 1833 | 50 | Renee Short Anthony |
-| 1834 | 50 | Quirky Chiseler |
-| 1835 | 50 | Vinnie Barnett |
-| 1836 | 50 | Angelica Vidales |
-| 1837 | 50 | Jacqueline Wright |
-| 1838 | 50 | Jacquibaybee |
-| 1839 | 50 | Hasty Patternline |
-| 1840 | 50 | Goodie |
-| 1841 | 50 | Mexican130 |
-| 1842 | 49 | smarty |
-| 1843 | 49 | Mindy Phariss |
-| 1844 | 49 | MrChino405 |
-| 1845 | 49 | Karen Riexinger |
-| 1846 | 49 | Naomi Wixon |
-| 1847 | 49 | Ona Jane |
-| 1848 | 49 | Stravo |
-| 1849 | 49 | Lorrie Lane Cummings |
-| 1850 | 49 | Merrick Marion |
-| 1851 | 49 | Hasty Grabber |
-| 1852 | 49 | Cheery Clear |
-| 1853 | 48 | abbie |
-| 1854 | 48 | Cmoss |
-| 1855 | 48 | Rebecca Ramirez |
-| 1856 | 48 | Fancy Linkpiece |
-| 1857 | 48 | $bluemoon |
-| 1858 | 48 | Maria Martinez Oquendo |
-| 1859 | 48 | Wali Muhammad |
-| 1860 | 48 | Sharron Mullins |
+| 1830 | 51 | Sharron Mullins |
+| 1831 | 50 | Goodie |
+| 1832 | 50 | Mexican130 |
+| 1833 | 50 | Giggy Tetrisline |
+| 1834 | 50 | Breezy Shatterclear |
+| 1835 | 50 | Speedy Snapclear |
+| 1836 | 50 | Renee Short Anthony |
+| 1837 | 50 | Quirky Chiseler |
+| 1838 | 50 | Vinnie Barnett |
+| 1839 | 50 | Angelica Vidales |
+| 1840 | 50 | Jacqueline Wright |
+| 1841 | 50 | Jacquibaybee |
+| 1842 | 50 | Hasty Patternline |
+| 1843 | 49 | MrChino405 |
+| 1844 | 49 | Karen Riexinger |
+| 1845 | 49 | Naomi Wixon |
+| 1846 | 49 | Ona Jane |
+| 1847 | 49 | Stravo |
+| 1848 | 49 | Lorrie Lane Cummings |
+| 1849 | 49 | Merrick Marion |
+| 1850 | 49 | Hasty Grabber |
+| 1851 | 49 | Cheery Clear |
+| 1852 | 49 | smarty |
+| 1853 | 49 | Mindy Phariss |
+| 1854 | 48 | Wali Muhammad |
+| 1855 | 48 | abbie |
+| 1856 | 48 | Cmoss |
+| 1857 | 48 | Rebecca Ramirez |
+| 1858 | 48 | Fancy Linkpiece |
+| 1859 | 48 | $bluemoon |
+| 1860 | 48 | Maria Martinez Oquendo |
 | 1861 | 47 | Danyale Collins |
 | 1862 | 47 | Holly Lawrence |
 | 1863 | 47 | Kitty Kat |
