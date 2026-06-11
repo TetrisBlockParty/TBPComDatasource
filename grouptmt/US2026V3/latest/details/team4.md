@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 22:11:20 UTC
+# Standings for team4 as of 2026-06-11 22:12:21 UTC
 
 **Total Participants:** 2595
 
@@ -25,7 +25,7 @@
 | 17 | 8891 | delilahbelle |
 | 18 | 8796 | Chris Hills |
 | 19 | 8615 | Jerald Jones |
-| 20 | 7213 | Bubbly Twistpiece |
+| 20 | 7218 | Bubbly Twistpiece |
 | 21 | 6954 | Senor Moppy |
 | 22 | 6630 | Nia Mayfield |
 | 23 | 6292 | Cal Renee |
@@ -63,8 +63,8 @@
 | 55 | 3500 | Kathy Brookins |
 | 56 | 3447 | Jason Allen |
 | 57 | 3395 | Dana Abegil Lawas |
-| 58 | 3323 | Alicia Cook |
-| 59 | 3323 | Elissa S-k |
+| 58 | 3323 | Elissa S-k |
+| 59 | 3323 | Alicia Cook |
 | 60 | 3224 | 626 |
 | 61 | 3150 | Destiny Dyer |
 | 62 | 3135 | Amber Doyle |
@@ -171,13 +171,13 @@
 | 163 | 1160 | Linda Miltenburg |
 | 164 | 1154 | Tanya AfricanQueen Savage |
 | 165 | 1144 | Dandy Puzzler |
-| 166 | 1133 | Anthony Lewis |
-| 167 | 1123 | Tiffany Loree Tiffany Oneill |
-| 168 | 1118 | Fancy Riserfit |
-| 169 | 1117 | Heather Preston |
-| 170 | 1106 | Loony Towerer |
-| 171 | 1096 | SupaFly |
-| 172 | 1094 | Gracie Ornelas |
+| 166 | 1134 | Gracie Ornelas |
+| 167 | 1133 | Anthony Lewis |
+| 168 | 1123 | Tiffany Loree Tiffany Oneill |
+| 169 | 1118 | Fancy Riserfit |
+| 170 | 1117 | Heather Preston |
+| 171 | 1106 | Loony Towerer |
+| 172 | 1096 | SupaFly |
 | 173 | 1090 | Becky Doll-Hall |
 | 174 | 1088 | Gorica Prusina |
 | 175 | 1083 | Devinlee Brown |
@@ -228,29 +228,29 @@
 | 220 | 883 | Misty Leigh |
 | 221 | 879 | CIRAZYPNOY |
 | 222 | 873 | Izz |
-| 223 | 871 | Shiny Dashy |
-| 224 | 869 | Snippy Splitter |
-| 225 | 865 | Celina DiBastiani |
-| 226 | 848 | Momma Boss |
-| 227 | 845 | Thomasena Eady Reid |
-| 228 | 843 | Spicy Chicken |
+| 223 | 872 | zoes |
+| 224 | 871 | Shiny Dashy |
+| 225 | 869 | Snippy Splitter |
+| 226 | 865 | Celina DiBastiani |
+| 227 | 848 | Momma Boss |
+| 228 | 845 | Thomasena Eady Reid |
 | 229 | 843 | Slinky Stackzone |
-| 230 | 841 | Megan Vick |
-| 231 | 841 | Waxboss |
-| 232 | 839 | Kelly Howland |
-| 233 | 838 | Jennifer Ellyn Sheets |
-| 234 | 834 | iiPurgeV2 |
-| 235 | 833 | Danny Keich III |
-| 236 | 830 | Kitsune Bi |
-| 237 | 829 | Rebecca Watters |
-| 238 | 823 | zoes |
+| 230 | 843 | Spicy Chicken |
+| 231 | 841 | Megan Vick |
+| 232 | 841 | Waxboss |
+| 233 | 839 | Kelly Howland |
+| 234 | 838 | Jennifer Ellyn Sheets |
+| 235 | 834 | iiPurgeV2 |
+| 236 | 833 | Danny Keich III |
+| 237 | 830 | Kitsune Bi |
+| 238 | 829 | Rebecca Watters |
 | 239 | 820 | Capone |
 | 240 | 816 | WeeWooWee |
 | 241 | 801 | Yesenia Castro Monreal |
 | 242 | 799 | Katie Lynn Petit |
 | 243 | 796 | Alyssa Berg |
-| 244 | 788 | Janet Sanfilippo Sullivan |
-| 245 | 788 | Jackie Jackson |
+| 244 | 788 | Jackie Jackson |
+| 245 | 788 | Janet Sanfilippo Sullivan |
 | 246 | 778 | Suzanne Carter |
 | 247 | 776 | Samantha Worley |
 | 248 | 770 | Brick House |
@@ -258,16 +258,16 @@
 | 250 | 765 | Tricia Motika Cowan |
 | 251 | 764 | Tina Thomas |
 | 252 | 760 | Katie Martin |
-| 253 | 758 | Danielle Mitchell |
-| 254 | 758 | Shanae Taylor |
+| 253 | 758 | Shanae Taylor |
+| 254 | 758 | Danielle Mitchell |
 | 255 | 757 | Erika Seaton |
 | 256 | 756 | Smiley Gridzone |
 | 257 | 749 | Nikki Fuller Johnson |
 | 258 | 749 | Shannon Rivera |
 | 259 | 746 | Chuck Burns |
 | 260 | 741 | Iforget |
-| 261 | 738 | Jackie Miller |
-| 262 | 738 | Malik Thompson |
+| 261 | 738 | Malik Thompson |
+| 262 | 738 | Jackie Miller |
 | 263 | 735 | Snazzy Corner |
 | 264 | 731 | Laguya |
 | 265 | 728 | Breezy Cascadeclear |
@@ -293,7 +293,7 @@
 | 285 | 663 | Drh4090 |
 | 286 | 661 | Addi JayKay |
 | 287 | 659 | Krysten Danielle Richard |
-| 288 | 651 | Shanna Fragen |
+| 288 | 656 | Shanna Fragen |
 | 289 | 650 | Jacqueline Jackii Ramos |
 | 290 | 649 | Boldy Rumbler |
 | 291 | 646 | Dapper Strikerpiece |
@@ -1293,48 +1293,48 @@
 | 1285 | 132 | Giggly Gridzone |
 | 1286 | 131 | Kami |
 | 1287 | 131 | Tracey Hudspath |
-| 1288 | 130 | MamaC |
-| 1289 | 130 | Katrina S. West |
-| 1290 | 130 | Nint |
-| 1291 | 130 | Abraham Ch |
-| 1292 | 130 | Melissa Robinson |
-| 1293 | 129 | Dsay Yates |
-| 1294 | 129 | Crystal M. Torres |
-| 1295 | 129 | Peachy Piecefit |
-| 1296 | 129 | Jessica Armistead |
-| 1297 | 129 | Vlad Rudman |
-| 1298 | 129 | Quiles Yaitza |
-| 1299 | 128 | Winza777 |
-| 1300 | 128 | Tonya Cross |
-| 1301 | 128 | Ksawn Collymore-bey Collymore-bey |
-| 1302 | 128 | Fancy Curvetile |
-| 1303 | 127 | Donna Howard |
-| 1304 | 127 | Krystalclear |
-| 1305 | 127 | Jace Warren |
-| 1306 | 127 | Cheeky Climber |
-| 1307 | 127 | Jumpy Tetrisline |
-| 1308 | 126 | Stacy Brown |
-| 1309 | 126 | Tiffany Taylor |
-| 1310 | 126 | Tiffany Roberts |
-| 1311 | 126 | Chipper Fitblock |
-| 1312 | 126 | Seraphina |
-| 1313 | 126 | Swanky Matchfit |
-| 1314 | 125 | Mari |
-| 1315 | 125 | Mandie Torres |
-| 1316 | 125 | Youngkueen |
-| 1317 | 125 | CharmingS |
-| 1318 | 125 | Taquilla Branch |
-| 1319 | 124 | LuLazer27 |
-| 1320 | 124 | sleepy head |
-| 1321 | 124 | Sydney Taylor Sileno |
-| 1322 | 124 | Melissa Elizabeth |
-| 1323 | 124 | E money |
-| 1324 | 124 | Danielle Sulano |
-| 1325 | 123 | Angela Ward |
-| 1326 | 123 | Joshua Conwell |
-| 1327 | 123 | T-Dogger |
-| 1328 | 123 | NikkiLyn79 |
-| 1329 | 123 | Breezy Blockzone |
+| 1288 | 131 | Breezy Blockzone |
+| 1289 | 130 | MamaC |
+| 1290 | 130 | Katrina S. West |
+| 1291 | 130 | Nint |
+| 1292 | 130 | Abraham Ch |
+| 1293 | 130 | Melissa Robinson |
+| 1294 | 129 | Dsay Yates |
+| 1295 | 129 | Crystal M. Torres |
+| 1296 | 129 | Peachy Piecefit |
+| 1297 | 129 | Jessica Armistead |
+| 1298 | 129 | Vlad Rudman |
+| 1299 | 129 | Quiles Yaitza |
+| 1300 | 128 | Winza777 |
+| 1301 | 128 | Tonya Cross |
+| 1302 | 128 | Ksawn Collymore-bey Collymore-bey |
+| 1303 | 128 | Fancy Curvetile |
+| 1304 | 127 | Donna Howard |
+| 1305 | 127 | Krystalclear |
+| 1306 | 127 | Jace Warren |
+| 1307 | 127 | Cheeky Climber |
+| 1308 | 127 | Jumpy Tetrisline |
+| 1309 | 126 | Stacy Brown |
+| 1310 | 126 | Tiffany Taylor |
+| 1311 | 126 | Tiffany Roberts |
+| 1312 | 126 | Chipper Fitblock |
+| 1313 | 126 | Seraphina |
+| 1314 | 126 | Swanky Matchfit |
+| 1315 | 125 | Mari |
+| 1316 | 125 | Mandie Torres |
+| 1317 | 125 | Youngkueen |
+| 1318 | 125 | CharmingS |
+| 1319 | 125 | Taquilla Branch |
+| 1320 | 124 | LuLazer27 |
+| 1321 | 124 | sleepy head |
+| 1322 | 124 | Sydney Taylor Sileno |
+| 1323 | 124 | Melissa Elizabeth |
+| 1324 | 124 | E money |
+| 1325 | 124 | Danielle Sulano |
+| 1326 | 123 | Angela Ward |
+| 1327 | 123 | Joshua Conwell |
+| 1328 | 123 | T-Dogger |
+| 1329 | 123 | NikkiLyn79 |
 | 1330 | 123 | Esmond Johnson IV |
 | 1331 | 122 | Catherine Garza |
 | 1332 | 122 | Tati |
