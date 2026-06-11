@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 22:38:45 UTC
+# Standings for team4 as of 2026-06-11 22:39:23 UTC
 
 **Total Participants:** 2602
 
@@ -106,8 +106,8 @@
 | 98 | 1870 | JoLinda Dunn |
 | 99 | 1857 | Jumpy Brickline |
 | 100 | 1850 | Keg |
-| 101 | 1747 | Patty |
-| 102 | 1736 | SMV |
+| 101 | 1751 | SMV |
+| 102 | 1747 | Patty |
 | 103 | 1728 | Leslie Ann Carter |
 | 104 | 1704 | Beee |
 | 105 | 1691 | Gerald Lew |
@@ -140,12 +140,12 @@
 | 132 | 1370 | Principal Liz |
 | 133 | 1362 | Gloria Nunley Trussell |
 | 134 | 1361 | Dee Wizz |
-| 135 | 1355 | CJ |
-| 136 | 1352 | Nicole |
-| 137 | 1339 | Beth Belanger |
-| 138 | 1336 | Jonathan Hewitt |
-| 139 | 1333 | Trice Stevenson |
-| 140 | 1330 | Wanda Simmons |
+| 135 | 1360 | Wanda Simmons |
+| 136 | 1355 | CJ |
+| 137 | 1352 | Nicole |
+| 138 | 1339 | Beth Belanger |
+| 139 | 1336 | Jonathan Hewitt |
+| 140 | 1333 | Trice Stevenson |
 | 141 | 1318 | Jason Garnatz |
 | 142 | 1311 | J |
 | 143 | 1308 | Jesse Olive |
@@ -196,7 +196,7 @@
 | 188 | 1014 | Jubalicious |
 | 189 | 1010 | Tiffany Brooke |
 | 190 | 1009 | Andrew Dang |
-| 191 | 1002 | Samara Garcia |
+| 191 | 1007 | Samara Garcia |
 | 192 | 997 | LastBoi |
 | 193 | 996 | Renee Sapp |
 | 194 | 992 | Kay |
@@ -383,11 +383,11 @@
 | 375 | 517 | Jumpy Builderpiece |
 | 376 | 516 | EL Booger |
 | 377 | 513 | Melika Zeheb |
-| 378 | 510 | Bridget Stevens |
-| 379 | 510 | Justin Michael |
-| 380 | 510 | jojo |
-| 381 | 509 | Mark Fitch Jr. |
-| 382 | 507 | Pepper |
+| 378 | 511 | Pepper |
+| 379 | 510 | Bridget Stevens |
+| 380 | 510 | Justin Michael |
+| 381 | 510 | jojo |
+| 382 | 509 | Mark Fitch Jr. |
 | 383 | 506 | Anna Gribble |
 | 384 | 506 | Snazzy Fitclear |
 | 385 | 505 | Dominique Summers Tah-tah |
