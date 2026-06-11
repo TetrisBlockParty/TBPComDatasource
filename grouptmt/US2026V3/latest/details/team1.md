@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 19:02:24 UTC
+# Standings for team1 as of 2026-06-11 19:03:25 UTC
 
 **Total Participants:** 2520
 
@@ -1569,24 +1569,24 @@
 | 1561 | 72 | NaeNeezy |
 | 1562 | 72 | Chummy Liner |
 | 1563 | 72 | Darryl Love |
-| 1564 | 71 | Laurene Bivins Fortney |
-| 1565 | 71 | toooooott |
-| 1566 | 71 | Happymama |
-| 1567 | 71 | Emeka Agu |
-| 1568 | 71 | Shona ShayShay Jones |
-| 1569 | 71 | Ana Torres |
-| 1570 | 71 | Ember Hammond |
-| 1571 | 71 | Tynesha Woodard |
-| 1572 | 70 | Eli Delao |
-| 1573 | 70 | Frilly Glidepiece |
-| 1574 | 70 | Leon Brown III |
-| 1575 | 70 | Chris Bell |
-| 1576 | 70 | Jucee |
-| 1577 | 69 | Farah Simpson |
-| 1578 | 69 | Elizabeth Castro |
-| 1579 | 69 | desmi |
-| 1580 | 69 | Niki Bell |
-| 1581 | 69 | Hazey Jay |
+| 1564 | 72 | Hazey Jay |
+| 1565 | 71 | Laurene Bivins Fortney |
+| 1566 | 71 | toooooott |
+| 1567 | 71 | Happymama |
+| 1568 | 71 | Emeka Agu |
+| 1569 | 71 | Shona ShayShay Jones |
+| 1570 | 71 | Ana Torres |
+| 1571 | 71 | Ember Hammond |
+| 1572 | 71 | Tynesha Woodard |
+| 1573 | 70 | Eli Delao |
+| 1574 | 70 | Frilly Glidepiece |
+| 1575 | 70 | Leon Brown III |
+| 1576 | 70 | Chris Bell |
+| 1577 | 70 | Jucee |
+| 1578 | 69 | Farah Simpson |
+| 1579 | 69 | Elizabeth Castro |
+| 1580 | 69 | desmi |
+| 1581 | 69 | Niki Bell |
 | 1582 | 69 | Towanda Chamberlain |
 | 1583 | 69 | Charlie Brown |
 | 1584 | 69 | BrettanMary Adkins |
@@ -1784,29 +1784,29 @@
 | 1776 | 49 | Carl Richardson |
 | 1777 | 49 | Temeshia Brooks Washington |
 | 1778 | 49 | Brika Brika |
-| 1779 | 49 | Lush Buildsnap |
-| 1780 | 48 | Deidre Anderson |
-| 1781 | 48 | Narena Desertsong |
-| 1782 | 48 | Jolly Combo |
-| 1783 | 48 | Jumpy Striker |
-| 1784 | 48 | Rl Valsin |
-| 1785 | 47 | Matos Boiz |
+| 1779 | 49 | Matos Boiz |
+| 1780 | 49 | Lush Buildsnap |
+| 1781 | 48 | Deidre Anderson |
+| 1782 | 48 | Narena Desertsong |
+| 1783 | 48 | Jolly Combo |
+| 1784 | 48 | Jumpy Striker |
+| 1785 | 48 | Rl Valsin |
 | 1786 | 47 | Slinky Balancepiece |
-| 1787 | 47 | Mina Abdullah |
-| 1788 | 47 | Dizzy Ziggy |
-| 1789 | 47 | Pizzle |
-| 1790 | 47 | lou28 |
-| 1791 | 47 | Leonard R. Chanette |
-| 1792 | 47 | Hyper Cluster |
-| 1793 | 47 | Queen |
-| 1794 | 47 | Marc Jones |
-| 1795 | 47 | Major314 |
-| 1796 | 47 | Kristy Nichole Smith |
+| 1787 | 47 | Major314 |
+| 1788 | 47 | Mina Abdullah |
+| 1789 | 47 | Dizzy Ziggy |
+| 1790 | 47 | Marc Jones |
+| 1791 | 47 | Kristy Nichole Smith |
+| 1792 | 47 | Queen |
+| 1793 | 47 | Hyper Cluster |
+| 1794 | 47 | Leonard R. Chanette |
+| 1795 | 47 | lou28 |
+| 1796 | 47 | Pizzle |
 | 1797 | 46 | Beverly Redd-Fountain |
-| 1798 | 46 | Swanky Linkmatch |
-| 1799 | 46 | Daniel Jenkins |
-| 1800 | 46 | Christy Grier |
-| 1801 | 46 | Wu May |
+| 1798 | 46 | Wu May |
+| 1799 | 46 | Swanky Linkmatch |
+| 1800 | 46 | Daniel Jenkins |
+| 1801 | 46 | Christy Grier |
 | 1802 | 46 | NEM0228 |
 | 1803 | 46 | Geneva Carter |
 | 1804 | 46 | cheehooo |
