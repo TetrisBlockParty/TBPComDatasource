@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 07:48:47 UTC
+# Standings for team4 as of 2026-06-11 07:49:24 UTC
 
 **Total Participants:** 2500
 
@@ -215,9 +215,9 @@
 | 207 | 838 | Jennifer Ellyn Sheets |
 | 208 | 838 | Spicy Chicken |
 | 209 | 830 | Kitsune Bi |
-| 210 | 820 | Capone |
-| 211 | 817 | Baysoph |
-| 212 | 816 | Izz |
+| 210 | 823 | Izz |
+| 211 | 820 | Capone |
+| 212 | 817 | Baysoph |
 | 213 | 813 | Misty Leigh |
 | 214 | 813 | Tyson Stroppel |
 | 215 | 807 | LastBoi |
@@ -225,11 +225,11 @@
 | 217 | 788 | Jackie Jackson |
 | 218 | 782 | Snippy Splitter |
 | 219 | 781 | Janet Sanfilippo Sullivan |
-| 220 | 778 | Suzanne Carter |
-| 221 | 777 | Vicki Adams |
-| 222 | 776 | WeeWooWee |
-| 223 | 774 | Katie Lynn Petit |
-| 224 | 772 | Megan Vick |
+| 220 | 780 | Megan Vick |
+| 221 | 778 | Suzanne Carter |
+| 222 | 777 | Vicki Adams |
+| 223 | 776 | WeeWooWee |
+| 224 | 774 | Katie Lynn Petit |
 | 225 | 768 | Danny Keich III |
 | 226 | 765 | iiPurgeV2 |
 | 227 | 755 | Nutty Rollfit |

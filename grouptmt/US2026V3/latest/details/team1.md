@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:48:47 UTC
+# Standings for team1 as of 2026-06-11 07:49:24 UTC
 
 **Total Participants:** 2460
 
@@ -567,64 +567,64 @@
 | 559 | 329 | Shelly Everette |
 | 560 | 329 | Tiffany Jean Hinson |
 | 561 | 329 | Chris Watson Draper |
-| 562 | 325 | Tracy Feyler |
-| 563 | 324 | Teddy Davis |
-| 564 | 324 | Kristie |
+| 562 | 328 | Motown Chuck |
+| 563 | 325 | Tracy Feyler |
+| 564 | 324 | Teddy Davis |
 | 565 | 324 | Breezy Catcher |
-| 566 | 324 | Vera Beckford |
-| 567 | 324 | Sharee Robinson |
-| 568 | 323 | Bea Dyer-Fields |
-| 569 | 322 | TNT |
-| 570 | 321 | Andra Ward |
-| 571 | 321 | LuckyStar |
+| 566 | 324 | Sharee Robinson |
+| 567 | 324 | Kristie |
+| 568 | 324 | Vera Beckford |
+| 569 | 323 | Bea Dyer-Fields |
+| 570 | 322 | TNT |
+| 571 | 321 | Iceman |
 | 572 | 321 | Terri Smart |
-| 573 | 321 | Iceman |
-| 574 | 320 | Aaron Hartmann |
-| 575 | 320 | Valerie Alexander |
-| 576 | 320 | Malcolm Stanley |
-| 577 | 320 | Phongoudom Tika |
-| 578 | 319 | TY Newme Batts |
-| 579 | 319 | Ciera Peace |
-| 580 | 319 | Christi Walker Patton |
-| 581 | 319 | MACHETEEDDIE513 |
-| 582 | 319 | Zappy Snapgrid |
-| 583 | 318 | Latore Maxie |
-| 584 | 318 | Marlainia Boyd |
+| 573 | 321 | Andra Ward |
+| 574 | 321 | LuckyStar |
+| 575 | 320 | Aaron Hartmann |
+| 576 | 320 | Valerie Alexander |
+| 577 | 320 | Malcolm Stanley |
+| 578 | 320 | Phongoudom Tika |
+| 579 | 319 | TY Newme Batts |
+| 580 | 319 | Ciera Peace |
+| 581 | 319 | Christi Walker Patton |
+| 582 | 319 | MACHETEEDDIE513 |
+| 583 | 319 | Zappy Snapgrid |
+| 584 | 318 | Latore Maxie |
 | 585 | 318 | Nerdy Snapfall |
-| 586 | 317 | Bambi Johnson |
-| 587 | 317 | Mister Reid |
-| 588 | 317 | Hardtohandle91 |
-| 589 | 317 | Chris Holland |
-| 590 | 317 | Monica Tovar |
-| 591 | 316 | Comedian Gdane |
-| 592 | 314 | Dana Hawes |
-| 593 | 314 | Breezy Dashpiece |
-| 594 | 314 | PSD |
-| 595 | 312 | Silly Wiper |
+| 586 | 318 | Marlainia Boyd |
+| 587 | 317 | Chris Holland |
+| 588 | 317 | Bambi Johnson |
+| 589 | 317 | Hardtohandle91 |
+| 590 | 317 | Mister Reid |
+| 591 | 317 | Monica Tovar |
+| 592 | 316 | Comedian Gdane |
+| 593 | 314 | PSD |
+| 594 | 314 | Dana Hawes |
+| 595 | 314 | Breezy Dashpiece |
 | 596 | 312 | Spunky Gridder |
-| 597 | 311 | Sarah Steckbauer |
-| 598 | 311 | Jenni Hardman |
+| 597 | 312 | Silly Wiper |
+| 598 | 311 | Sarah Steckbauer |
 | 599 | 311 | Saucy Faller |
-| 600 | 310 | Shakmar |
+| 600 | 311 | Jenni Hardman |
 | 601 | 310 | Bambam |
 | 602 | 310 | Peppy Glider |
-| 603 | 309 | Frilly Shatterline |
+| 603 | 310 | Shakmar |
 | 604 | 309 | Phillip Vasquez |
-| 605 | 308 | Motown Chuck |
-| 606 | 308 | Melissa Olvera |
-| 607 | 308 | Darrel K Pemberton |
-| 608 | 308 | Jjhandsome |
-| 609 | 308 | Tonya Lee Sanders |
-| 610 | 307 | Kàrma Lee |
-| 611 | 307 | Aridevina |
-| 612 | 307 | Zany Breaker |
+| 605 | 309 | Frilly Shatterline |
+| 606 | 308 | Jjhandsome |
+| 607 | 308 | Melissa Olvera |
+| 608 | 308 | Tonya Lee Sanders |
+| 609 | 308 | Darrel K Pemberton |
+| 610 | 307 | Aridevina |
+| 611 | 307 | Zany Breaker |
+| 612 | 307 | Kàrma Lee |
 | 613 | 306 | Rebecca Jackson |
 | 614 | 306 | Zappy Clearfit |
-| 615 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 616 | 306 | Mafio SO |
+| 615 | 306 | Mafio SO |
+| 616 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 617 | 305 | BonnieB |
-| 618 | 304 | Octavia Bsb Johnson |
-| 619 | 304 | Mrs.Ann |
+| 618 | 304 | Mrs.Ann |
+| 619 | 304 | Octavia Bsb Johnson |
 | 620 | 303 | Kelley Johnson |
 | 621 | 303 | Kamilya Rembert |
 | 622 | 303 | Kelvin Cook |
@@ -1173,26 +1173,26 @@
 | 1165 | 133 | Terrance Tindall |
 | 1166 | 133 | Lateef |
 | 1167 | 133 | Heather Cross-Davis |
-| 1168 | 131 | BlessedBeauty |
-| 1169 | 131 | XYZ |
-| 1170 | 130 | Jessica Davis |
-| 1171 | 130 | kingbrook |
-| 1172 | 130 | jac |
-| 1173 | 130 | Breezy Bouncer |
+| 1168 | 132 | LaQuita White |
+| 1169 | 131 | BlessedBeauty |
+| 1170 | 131 | XYZ |
+| 1171 | 130 | Jessica Davis |
+| 1172 | 130 | kingbrook |
+| 1173 | 130 | jac |
 | 1174 | 130 | Tez Mays |
-| 1175 | 129 | Tomme Poliwka |
+| 1175 | 130 | Breezy Bouncer |
 | 1176 | 129 | Chino Baby |
-| 1177 | 129 | Ounquan Wright |
-| 1178 | 128 | rosieredpanda |
-| 1179 | 128 | Brittany Britkany Marsden-Garrison |
-| 1180 | 128 | Willson06 |
-| 1181 | 128 | Alonzo Kirkland |
-| 1182 | 128 | Lazy Matchgrid |
-| 1183 | 127 | tk |
-| 1184 | 127 | Sonia Binti Mfalme |
-| 1185 | 127 | Pretty Yella |
-| 1186 | 127 | LaQuita White |
-| 1187 | 127 | Teisha Scott |
+| 1177 | 129 | Tomme Poliwka |
+| 1178 | 129 | Ounquan Wright |
+| 1179 | 128 | rosieredpanda |
+| 1180 | 128 | Alonzo Kirkland |
+| 1181 | 128 | Lazy Matchgrid |
+| 1182 | 128 | Willson06 |
+| 1183 | 128 | Brittany Britkany Marsden-Garrison |
+| 1184 | 127 | Pretty Yella |
+| 1185 | 127 | Teisha Scott |
+| 1186 | 127 | Sonia Binti Mfalme |
+| 1187 | 127 | tk |
 | 1188 | 126 | Jeremy Hendrix |
 | 1189 | 126 | Shannon Bradley |
 | 1190 | 125 | Rande Smith |
