@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:46:26 UTC
+# Standings for team2 as of 2026-06-11 09:47:19 UTC
 
 **Total Participants:** 2938
 
@@ -193,9 +193,9 @@
 | 185 | 1105 | Jgato |
 | 186 | 1090 | Le Sandy |
 | 187 | 1080 | Erin Thomas |
-| 188 | 1075 | Rhonda Diebold |
-| 189 | 1073 | Nikki Hayes |
-| 190 | 1072 | Groovy Snapper |
+| 188 | 1075 | Groovy Snapper |
+| 189 | 1075 | Rhonda Diebold |
+| 190 | 1073 | Nikki Hayes |
 | 191 | 1061 | Frothy Fitzone |
 | 192 | 1049 | Sedy |
 | 193 | 1046 | Sarah Griffey |
@@ -1039,32 +1039,32 @@
 | 1031 | 216 | KS Hengesbach |
 | 1032 | 215 | Maja Hauff |
 | 1033 | 215 | TheAggie12 |
-| 1034 | 215 | Nerdy Gridlock |
-| 1035 | 215 | Brandy McCleary |
+| 1034 | 215 | Brandy McCleary |
+| 1035 | 215 | Nerdy Gridlock |
 | 1036 | 214 | Erin Moore Galloway |
 | 1037 | 213 | Brenda Zona |
 | 1038 | 213 | Jenny |
 | 1039 | 213 | Lisa Chapman |
 | 1040 | 213 | Jenifer Gasho |
-| 1041 | 212 | Rae |
-| 1042 | 211 | Kaitlyn Hurst |
-| 1043 | 210 | Rubics cube |
-| 1044 | 210 | Robert Fenton |
-| 1045 | 210 | Dee |
-| 1046 | 209 | Clever Linkbuilder |
-| 1047 | 209 | Nina-Christina Cusyck |
-| 1048 | 208 | Kris Dusza Dodus |
-| 1049 | 208 | Chelsea Frye |
-| 1050 | 208 | Reggie Ellerbe |
-| 1051 | 208 | Michelle |
-| 1052 | 207 | Michelle Arnold |
-| 1053 | 207 | Jackie Moran Tiller |
-| 1054 | 206 | Cool Patternbuilder |
-| 1055 | 206 | Tamtam |
-| 1056 | 206 | Stoney McMillion |
-| 1057 | 206 | Stacy Hoffman |
-| 1058 | 206 | Tina Carr |
-| 1059 | 206 | Jolly Balanceblock |
+| 1041 | 212 | Jolly Balanceblock |
+| 1042 | 212 | Rae |
+| 1043 | 211 | Kaitlyn Hurst |
+| 1044 | 210 | Rubics cube |
+| 1045 | 210 | Robert Fenton |
+| 1046 | 210 | Dee |
+| 1047 | 209 | Clever Linkbuilder |
+| 1048 | 209 | Nina-Christina Cusyck |
+| 1049 | 208 | Kris Dusza Dodus |
+| 1050 | 208 | Chelsea Frye |
+| 1051 | 208 | Reggie Ellerbe |
+| 1052 | 208 | Michelle |
+| 1053 | 207 | Michelle Arnold |
+| 1054 | 207 | Jackie Moran Tiller |
+| 1055 | 206 | Tina Carr |
+| 1056 | 206 | Stacy Hoffman |
+| 1057 | 206 | Stoney McMillion |
+| 1058 | 206 | Tamtam |
+| 1059 | 206 | Cool Patternbuilder |
 | 1060 | 205 | Becka Jones |
 | 1061 | 205 | Epic Slice |
 | 1062 | 205 | Edward Conyers |
