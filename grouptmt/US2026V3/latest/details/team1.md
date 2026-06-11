@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:16:46 UTC
+# Standings for team1 as of 2026-06-11 16:17:23 UTC
 
 **Total Participants:** 2505
 
@@ -42,8 +42,8 @@
 | 34 | 4041 | Jacoby E Fleming |
 | 35 | 3985 | Weeze |
 | 36 | 3953 | Jo NewmindNewfocus Bell |
-| 37 | 3927 | Mary Jenkins |
-| 38 | 3924 | Juan Kandiss Escobedo Irwin |
+| 37 | 3938 | Juan Kandiss Escobedo Irwin |
+| 38 | 3927 | Mary Jenkins |
 | 39 | 3768 | Jennifer To |
 | 40 | 3763 | Sha Harris |
 | 41 | 3761 | Brian Stackhouse |
@@ -82,8 +82,8 @@
 | 74 | 2157 | Louis Richard Jr |
 | 75 | 2138 | Linzie Marie |
 | 76 | 2104 | Carolynne Walker-Bell |
-| 77 | 2103 | April Inboden |
-| 78 | 2103 | Bre Maugh |
+| 77 | 2103 | Bre Maugh |
+| 78 | 2103 | April Inboden |
 | 79 | 2088 | Sarah Barnum |
 | 80 | 2072 | Jonathan Vee Jay |
 | 81 | 2060 | Angela R Wilson |
@@ -184,8 +184,8 @@
 | 176 | 1027 | Ty Øtg |
 | 177 | 1021 | Jeffrey Barrows |
 | 178 | 1004 | Antonia Wyche |
-| 179 | 994 | GrkGdess |
-| 180 | 991 | Dandy Brickfit |
+| 179 | 1000 | Dandy Brickfit |
+| 180 | 994 | GrkGdess |
 | 181 | 986 | Eugina Slater |
 | 182 | 982 | Cheeky Pop |
 | 183 | 981 | No_Other_Choice |
@@ -370,25 +370,25 @@
 | 362 | 510 | ♈️ Ariesbaby |
 | 363 | 510 | Krista McNair |
 | 364 | 509 | JaClanDiah |
-| 365 | 509 | Simone Bailey |
-| 366 | 509 | Ta'Kaiyah M. Spann |
+| 365 | 509 | Ta'Kaiyah M. Spann |
+| 366 | 509 | Simone Bailey |
 | 367 | 508 | StingerD |
 | 368 | 507 | Teresa Yanira Cepeda |
 | 369 | 505 | Cheri Robinson |
 | 370 | 503 | Chummy Frame |
-| 371 | 503 | Amber Wilson |
-| 372 | 502 | Tamika Fisher |
-| 373 | 501 | Chris Rogers |
-| 374 | 500 | Denell Sims |
-| 375 | 498 | Michael Bethezar |
-| 376 | 498 | Christian Pham |
-| 377 | 498 | Julian Dickens Jr. |
-| 378 | 498 | Jai |
-| 379 | 496 | Reginald Frank |
-| 380 | 495 | Cynthia Bradley |
-| 381 | 495 | Jana Cheek |
-| 382 | 493 | Devin West |
-| 383 | 493 | Analiza Ramos |
+| 371 | 503 | Analiza Ramos |
+| 372 | 503 | Amber Wilson |
+| 373 | 502 | Tamika Fisher |
+| 374 | 501 | Chris Rogers |
+| 375 | 500 | Denell Sims |
+| 376 | 498 | Michael Bethezar |
+| 377 | 498 | Christian Pham |
+| 378 | 498 | Julian Dickens Jr. |
+| 379 | 498 | Jai |
+| 380 | 496 | Reginald Frank |
+| 381 | 495 | Cynthia Bradley |
+| 382 | 495 | Jana Cheek |
+| 383 | 493 | Devin West |
 | 384 | 492 | SANA |
 | 385 | 490 | Boldy Liner |
 | 386 | 490 | Kate Hancock Malicek |
@@ -896,13 +896,13 @@
 | 888 | 217 | Louise Parker |
 | 889 | 216 | DoMinique Lee |
 | 890 | 216 | Rachel Renae Bettis |
-| 891 | 215 | Perky Balancer |
-| 892 | 215 | Angie Smith |
-| 893 | 215 | Mississippigirl Countrygirl |
-| 894 | 215 | Cheery Swiper |
-| 895 | 215 | Nikiya |
-| 896 | 215 | KimChii |
-| 897 | 215 | Sheesh |
+| 891 | 216 | Sheesh |
+| 892 | 215 | Perky Balancer |
+| 893 | 215 | Angie Smith |
+| 894 | 215 | Mississippigirl Countrygirl |
+| 895 | 215 | Cheery Swiper |
+| 896 | 215 | Nikiya |
+| 897 | 215 | KimChii |
 | 898 | 214 | Sunny Clicky |
 | 899 | 214 | Mary Goode |
 | 900 | 214 | Chanel White |
