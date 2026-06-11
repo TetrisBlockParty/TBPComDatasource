@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 11:02:41 UTC
+# Standings for team4 as of 2026-06-11 11:03:24 UTC
 
 **Total Participants:** 2515
 
@@ -205,21 +205,21 @@
 | 197 | 897 | Samara Garcia |
 | 198 | 894 | Tiffany Brooke |
 | 199 | 881 | Katy |
-| 200 | 877 | Baysoph |
-| 201 | 873 | Izz |
-| 202 | 862 | Christy Beezley-Forbush |
-| 203 | 860 | Shiny Dashy |
-| 204 | 848 | Bonnie Powell |
-| 205 | 847 | Devinlee Brown |
-| 206 | 845 | Thomasena Eady Reid |
-| 207 | 844 | Lisa Garcia |
-| 208 | 843 | Spicy Chicken |
-| 209 | 841 | Pepone Pepe |
-| 210 | 841 | Lynn Grimes |
-| 211 | 840 | CIRAZYPNOY |
-| 212 | 838 | Jennifer Ellyn Sheets |
-| 213 | 830 | Kitsune Bi |
-| 214 | 825 | LastBoi |
+| 200 | 877 | LastBoi |
+| 201 | 877 | Baysoph |
+| 202 | 873 | Izz |
+| 203 | 862 | Christy Beezley-Forbush |
+| 204 | 860 | Shiny Dashy |
+| 205 | 848 | Bonnie Powell |
+| 206 | 847 | Devinlee Brown |
+| 207 | 845 | Thomasena Eady Reid |
+| 208 | 844 | Lisa Garcia |
+| 209 | 843 | Spicy Chicken |
+| 210 | 841 | Pepone Pepe |
+| 211 | 841 | Lynn Grimes |
+| 212 | 840 | CIRAZYPNOY |
+| 213 | 838 | Jennifer Ellyn Sheets |
+| 214 | 830 | Kitsune Bi |
 | 215 | 820 | Capone |
 | 216 | 815 | Snippy Splitter |
 | 217 | 815 | Megan Vick |
@@ -299,14 +299,14 @@
 | 291 | 606 | Andrick |
 | 292 | 600 | Jaci Marie |
 | 293 | 599 | Boldy Rumbler |
-| 294 | 596 | Shanae Taylor |
-| 295 | 595 | tigerlilly |
-| 296 | 593 | Chirpy Snapclear |
-| 297 | 592 | Sarah Berry Stevens |
-| 298 | 592 | Dapper Strikerpiece |
-| 299 | 590 | Funky Riserpiece |
-| 300 | 588 | Tammy June |
-| 301 | 588 | matt |
+| 294 | 598 | matt |
+| 295 | 596 | Shanae Taylor |
+| 296 | 595 | tigerlilly |
+| 297 | 593 | Chirpy Snapclear |
+| 298 | 592 | Sarah Berry Stevens |
+| 299 | 592 | Dapper Strikerpiece |
+| 300 | 590 | Funky Riserpiece |
+| 301 | 588 | Tammy June |
 | 302 | 586 | Karen Miller |
 | 303 | 584 | Dae Von |
 | 304 | 581 | Maria Castillo |
@@ -513,7 +513,7 @@
 | 505 | 360 | Lady Dolphin |
 | 506 | 360 | Mann Manson |
 | 507 | 359 | BCO22 |
-| 508 | 358 | Gigi Ivicsics |
+| 508 | 359 | Gigi Ivicsics |
 | 509 | 357 | Karen Denise Ann Veitch |
 | 510 | 357 | Lively Blockpiece |
 | 511 | 357 | Garden Girlie |
