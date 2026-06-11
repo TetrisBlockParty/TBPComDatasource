@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 08:22:24 UTC
+# Standings for team2 as of 2026-06-11 08:23:24 UTC
 
 **Total Participants:** 2932
 
@@ -27,8 +27,8 @@
 | 19 | 8931 | Bobbi |
 | 20 | 8427 | Elizabeth Mooney |
 | 21 | 8400 | Jennifer Knott |
-| 22 | 8335 | Bea Bee |
-| 23 | 8334 | Andre Love |
+| 22 | 8343 | Andre Love |
+| 23 | 8335 | Bea Bee |
 | 24 | 8086 | Tom Badgley |
 | 25 | 7940 | Dapper Rollout |
 | 26 | 7805 | Rashanna Bockhorn |
@@ -125,10 +125,10 @@
 | 117 | 1905 | Daybreak |
 | 118 | 1899 | Giddy Slamdrop |
 | 119 | 1871 | Pickle |
-| 120 | 1820 | Josh Twilley |
-| 121 | 1781 | jmo87 |
-| 122 | 1766 | Jazzy Faller |
-| 123 | 1749 | Jolly Slice |
+| 120 | 1848 | Jolly Slice |
+| 121 | 1820 | Josh Twilley |
+| 122 | 1781 | jmo87 |
+| 123 | 1766 | Jazzy Faller |
 | 124 | 1734 | Charlie Wilson |
 | 125 | 1699 | Poppy |
 | 126 | 1696 | Amber Salazar |
@@ -334,8 +334,8 @@
 | 326 | 671 | Breeana Bennett |
 | 327 | 671 | Gloria May Shook |
 | 328 | 670 | Chirpy Grid |
-| 329 | 667 | Chill Line |
-| 330 | 667 | Iesha Cupil |
+| 329 | 667 | Iesha Cupil |
+| 330 | 667 | Chill Line |
 | 331 | 666 | Lyric Price |
 | 332 | 660 | Sherri E Woods Hess |
 | 333 | 659 | Jumpy Matchbuilder |
@@ -350,8 +350,8 @@
 | 342 | 642 | Bri St Peter |
 | 343 | 641 | Pooh |
 | 344 | 638 | Flower_child |
-| 345 | 638 | Pam Bauder Ludwig |
-| 346 | 638 | Jason Cunningham |
+| 345 | 638 | Jason Cunningham |
+| 346 | 638 | Pam Bauder Ludwig |
 | 347 | 636 | Tara |
 | 348 | 635 | Bubbly Dash |
 | 349 | 632 | Naomi Walker |
@@ -571,15 +571,15 @@
 | 563 | 399 | Plucky Grabber |
 | 564 | 399 | Nikki Layman |
 | 565 | 398 | Vanessa King |
-| 566 | 398 | David Skelton |
-| 567 | 398 | Ashley Billiot Rhodes |
-| 568 | 397 | Sltwtrcndrla |
-| 569 | 395 | murd3rmous3 |
-| 570 | 395 | Hector |
-| 571 | 395 | Traci Abern |
-| 572 | 395 | Tango Sierra |
-| 573 | 395 | Madonna Ash |
-| 574 | 394 | Ssirkus |
+| 566 | 398 | Ssirkus |
+| 567 | 398 | David Skelton |
+| 568 | 398 | Ashley Billiot Rhodes |
+| 569 | 397 | Sltwtrcndrla |
+| 570 | 395 | murd3rmous3 |
+| 571 | 395 | Hector |
+| 572 | 395 | Madonna Ash |
+| 573 | 395 | Tango Sierra |
+| 574 | 395 | Traci Abern |
 | 575 | 394 | Justin Stark |
 | 576 | 393 | Elizabeth Henry |
 | 577 | 392 | Sassy Twistbuilder |
@@ -662,25 +662,25 @@
 | 654 | 349 | Lively Curve |
 | 655 | 349 | Billy Pittman |
 | 656 | 349 | Greenie |
-| 657 | 348 | Mary Carriere |
-| 658 | 347 | Heather |
-| 659 | 346 | Lindsey Ross |
-| 660 | 346 | Meagan Grimmett Washburn |
-| 661 | 346 | Sassy Patternblock |
-| 662 | 346 | Mala Phonchanthasone |
-| 663 | 346 | Kendra Sizemore |
-| 664 | 345 | DNice |
-| 665 | 345 | Dhelsie Qurasima |
-| 666 | 345 | Charlotte Castelli |
-| 667 | 344 | Mary Whitaker |
-| 668 | 343 | Christina Ackley |
-| 669 | 341 | Joanne Fish |
-| 670 | 340 | Wendy Mcbride |
-| 671 | 340 | Hannah Meadows Hammond |
-| 672 | 340 | Tony Medina |
-| 673 | 340 | Shakey Bakey |
-| 674 | 340 | Brandi Williams |
-| 675 | 339 | Boldy Swipe |
+| 657 | 349 | Boldy Swipe |
+| 658 | 348 | Mary Carriere |
+| 659 | 347 | Heather |
+| 660 | 346 | Lindsey Ross |
+| 661 | 346 | Meagan Grimmett Washburn |
+| 662 | 346 | Sassy Patternblock |
+| 663 | 346 | Mala Phonchanthasone |
+| 664 | 346 | Kendra Sizemore |
+| 665 | 345 | DNice |
+| 666 | 345 | Dhelsie Qurasima |
+| 667 | 345 | Charlotte Castelli |
+| 668 | 344 | Mary Whitaker |
+| 669 | 343 | Christina Ackley |
+| 670 | 341 | Joanne Fish |
+| 671 | 340 | Wendy Mcbride |
+| 672 | 340 | Hannah Meadows Hammond |
+| 673 | 340 | Tony Medina |
+| 674 | 340 | Shakey Bakey |
+| 675 | 340 | Brandi Williams |
 | 676 | 339 | Michele Rogers |
 | 677 | 338 | Will Jones |
 | 678 | 338 | Giddy Chiseler |
@@ -690,8 +690,8 @@
 | 682 | 337 | Rick |
 | 683 | 337 | Josh Vietz |
 | 684 | 335 | Dapper Riser |
-| 685 | 334 | Flex |
-| 686 | 334 | Nikki Hatch |
+| 685 | 334 | Nikki Hatch |
+| 686 | 334 | Flex |
 | 687 | 333 | Catalina Castro |
 | 688 | 332 | Wayne Johnson |
 | 689 | 332 | Fallon Moss |
