@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 13:44:44 UTC
+# Standings for team4 as of 2026-06-11 13:45:24 UTC
 
 **Total Participants:** 2529
 
@@ -113,7 +113,7 @@
 | 105 | 1591 | Sean Mccleary |
 | 106 | 1560 | Neeta Kapadia |
 | 107 | 1559 | Melissa WC |
-| 108 | 1510 | Tina Shalay Hayes |
+| 108 | 1524 | Tina Shalay Hayes |
 | 109 | 1462 | Kelley Roach |
 | 110 | 1446 | Snippy Grid |
 | 111 | 1443 | Jenn Norcross |
@@ -121,7 +121,7 @@
 | 113 | 1430 | Hannah Pazar |
 | 114 | 1414 | Chiquita Blue |
 | 115 | 1398 | Snappy Fitzone |
-| 116 | 1378 | GeorgeButts |
+| 116 | 1381 | GeorgeButts |
 | 117 | 1362 | Gloria Nunley Trussell |
 | 118 | 1361 | Dee Wizz |
 | 119 | 1358 | HurkleDurkle88 |
@@ -490,29 +490,29 @@
 | 482 | 386 | Codey Haffner |
 | 483 | 385 | Lul Babie |
 | 484 | 385 | Alyson M Kehler |
-| 485 | 385 | Crystal Hammonds |
-| 486 | 385 | John Ramos |
-| 487 | 385 | Reggie Laserna Clement |
+| 485 | 385 | Reggie Laserna Clement |
+| 486 | 385 | Crystal Hammonds |
+| 487 | 385 | John Ramos |
 | 488 | 382 | Heidi Hala |
-| 489 | 379 | Inez Nez |
+| 489 | 379 | bollo |
 | 490 | 379 | Ashley Robbins |
-| 491 | 379 | bollo |
+| 491 | 379 | Inez Nez |
 | 492 | 378 | Loopy Hitter |
 | 493 | 375 | Ashley Eskridge |
-| 494 | 374 | Heidi Anne Scheiderer |
-| 495 | 374 | Quirky Fallgrid |
-| 496 | 374 | Nerdy Faller |
-| 497 | 373 | Lupe Chapa |
+| 494 | 374 | Nerdy Faller |
+| 495 | 374 | Azahares Alonso |
+| 496 | 374 | Heidi Anne Scheiderer |
+| 497 | 374 | Quirky Fallgrid |
 | 498 | 373 | Mark Norton |
 | 499 | 373 | Janna Thompson |
-| 500 | 372 | Stasia |
-| 501 | 371 | Kari Smith |
-| 502 | 371 | Luna |
-| 503 | 371 | Dawn Phelps |
-| 504 | 371 | Teester |
-| 505 | 371 | Jenny Cabral |
-| 506 | 370 | Dizzy Slammer |
-| 507 | 369 | Azahares Alonso |
+| 500 | 373 | Lupe Chapa |
+| 501 | 372 | Stasia |
+| 502 | 371 | Kari Smith |
+| 503 | 371 | Luna |
+| 504 | 371 | Dawn Phelps |
+| 505 | 371 | Teester |
+| 506 | 371 | Jenny Cabral |
+| 507 | 370 | Dizzy Slammer |
 | 508 | 368 | Montes Ash |
 | 509 | 366 | Haylee Talkington |
 | 510 | 366 | Erik Clary |
@@ -640,8 +640,8 @@
 | 632 | 312 | Jj Johnson |
 | 633 | 311 | Nicole Colby McCloskey |
 | 634 | 311 | Loony Edge |
-| 635 | 311 | LeRoy jenkins |
-| 636 | 310 | Stephanie Brock |
+| 635 | 311 | Stephanie Brock |
+| 636 | 311 | LeRoy jenkins |
 | 637 | 310 | Saucy Brickmatch |
 | 638 | 310 | Corie A. Brinson |
 | 639 | 310 | Angela Adamo-Tash |
@@ -1041,13 +1041,13 @@
 | 1033 | 178 | Rin |
 | 1034 | 178 | Renzo Tonini |
 | 1035 | 177 | Lionel Hampton |
-| 1036 | 177 | Gualberto Ramirez |
-| 1037 | 176 | Rocky |
-| 1038 | 176 | Rio Rumble |
-| 1039 | 176 | Keith Kosmicki |
-| 1040 | 176 | Keisha Petway |
-| 1041 | 175 | Leslie Ramos |
-| 1042 | 175 | Giggy Snapgrid |
+| 1036 | 177 | Giggy Snapgrid |
+| 1037 | 177 | Gualberto Ramirez |
+| 1038 | 176 | Rocky |
+| 1039 | 176 | Rio Rumble |
+| 1040 | 176 | Keith Kosmicki |
+| 1041 | 176 | Keisha Petway |
+| 1042 | 175 | Leslie Ramos |
 | 1043 | 175 | JustLessie |
 | 1044 | 175 | Yseoj M. Zurc |
 | 1045 | 174 | Michelle Michelle |
@@ -1619,36 +1619,36 @@
 | 1611 | 71 | Tipsy Curvetile |
 | 1612 | 71 | Angelo L Casillas |
 | 1613 | 71 | Bouncy Blockclear |
-| 1614 | 71 | Sheries |
-| 1615 | 71 | SouthernChic |
+| 1614 | 71 | twocrude2 |
+| 1615 | 71 | Sheries |
 | 1616 | 71 | Happy Snapmatch |
-| 1617 | 71 | Danielle Church |
-| 1618 | 71 | Meghan Trice Theodore |
-| 1619 | 70 | Kelli Wells Fuhr |
-| 1620 | 70 | percy |
-| 1621 | 70 | Michelle Coleman |
-| 1622 | 70 | Jennifer Wade |
-| 1623 | 70 | Jada Jordyn Campbell |
-| 1624 | 70 | TIGRESSHOTTIE79 |
-| 1625 | 70 | T boo |
-| 1626 | 70 | Dustin Bell |
-| 1627 | 70 | Syreeta B Robinson |
-| 1628 | 70 | Felicia May Langley |
-| 1629 | 70 | Snippy Balancepiece |
-| 1630 | 69 | Felicity Fahrentin |
-| 1631 | 69 | Tina Lopez |
-| 1632 | 69 | Kristin Ussery |
+| 1617 | 71 | SouthernChic |
+| 1618 | 71 | Danielle Church |
+| 1619 | 71 | Meghan Trice Theodore |
+| 1620 | 70 | Kelli Wells Fuhr |
+| 1621 | 70 | percy |
+| 1622 | 70 | Michelle Coleman |
+| 1623 | 70 | Jennifer Wade |
+| 1624 | 70 | Jada Jordyn Campbell |
+| 1625 | 70 | TIGRESSHOTTIE79 |
+| 1626 | 70 | T boo |
+| 1627 | 70 | Dustin Bell |
+| 1628 | 70 | Syreeta B Robinson |
+| 1629 | 70 | Felicia May Langley |
+| 1630 | 70 | Snippy Balancepiece |
+| 1631 | 69 | Felicity Fahrentin |
+| 1632 | 69 | Tina Lopez |
 | 1633 | 69 | RaeRae |
-| 1634 | 69 | Monica Selwyn |
-| 1635 | 69 | Derrek Lee |
-| 1636 | 69 | mike b |
-| 1637 | 69 | Joshua Doucette |
-| 1638 | 68 | Keys Tome |
-| 1639 | 68 | babygirlw |
-| 1640 | 68 | Fineassdee23 |
-| 1641 | 68 | Kelley Shoop |
-| 1642 | 68 | Bold Snapper |
-| 1643 | 68 | twocrude2 |
+| 1634 | 69 | Kristin Ussery |
+| 1635 | 69 | Monica Selwyn |
+| 1636 | 69 | Derrek Lee |
+| 1637 | 69 | mike b |
+| 1638 | 69 | Joshua Doucette |
+| 1639 | 68 | Keys Tome |
+| 1640 | 68 | babygirlw |
+| 1641 | 68 | Fineassdee23 |
+| 1642 | 68 | Kelley Shoop |
+| 1643 | 68 | Bold Snapper |
 | 1644 | 68 | Renée Neè Neè |
 | 1645 | 68 | Anna Griego |
 | 1646 | 67 | Wacky Snaplink |

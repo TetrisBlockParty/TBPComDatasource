@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 13:44:44 UTC
+# Standings for team2 as of 2026-06-11 13:45:24 UTC
 
 **Total Participants:** 2962
 
@@ -241,8 +241,8 @@
 | 233 | 932 | Theresa Huddleston |
 | 234 | 932 | Lori Whitman |
 | 235 | 931 | Sandy Lynn |
-| 236 | 926 | Melissa Nash |
-| 237 | 922 | Laverne Ellis Blair |
+| 236 | 926 | Laverne Ellis Blair |
+| 237 | 926 | Melissa Nash |
 | 238 | 921 | Jessica Melendy |
 | 239 | 913 | Kelly Rogers |
 | 240 | 911 | Steven Craig |
@@ -406,8 +406,8 @@
 | 398 | 561 | Quirky Shifter |
 | 399 | 559 | Po Yee |
 | 400 | 558 | Tia Guile |
-| 401 | 558 | Sarah Jane Gorsuch |
-| 402 | 553 | Saucy Wrecker |
+| 401 | 558 | Saucy Wrecker |
+| 402 | 558 | Sarah Jane Gorsuch |
 | 403 | 553 | Bb |
 | 404 | 552 | Heather Denise |
 | 405 | 550 | DomDomsNana |
