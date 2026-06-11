@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 18:16:25 UTC
+# Standings for team1 as of 2026-06-11 18:17:24 UTC
 
 **Total Participants:** 2518
 
@@ -35,8 +35,8 @@
 | 27 | 5594 | jaimie |
 | 28 | 5282 | Plucky Swipe |
 | 29 | 4767 | Kkbk |
-| 30 | 4517 | Chummy Combo |
-| 31 | 4461 | Janine Hunter |
+| 30 | 4521 | Janine Hunter |
+| 31 | 4517 | Chummy Combo |
 | 32 | 4269 | Shortstak |
 | 33 | 4151 | Mary Jenkins |
 | 34 | 4140 | Cee Emm |
@@ -83,8 +83,8 @@
 | 75 | 2154 | Chenell Gillard |
 | 76 | 2138 | Linzie Marie |
 | 77 | 2104 | Carolynne Walker-Bell |
-| 78 | 2103 | Bre Maugh |
-| 79 | 2103 | April Inboden |
+| 78 | 2103 | April Inboden |
+| 79 | 2103 | Bre Maugh |
 | 80 | 2088 | Sarah Barnum |
 | 81 | 2088 | Felicia Williams |
 | 82 | 2072 | Jonathan Vee Jay |
@@ -131,7 +131,7 @@
 | 123 | 1502 | Aviv Zehavi |
 | 124 | 1500 | Nutty Spinblock |
 | 125 | 1497 | Rolanda Williams |
-| 126 | 1485 | Cathy Young |
+| 126 | 1495 | Cathy Young |
 | 127 | 1474 | Randizzle |
 | 128 | 1446 | Cj Gorman |
 | 129 | 1440 | Ashley Espeut |
@@ -166,16 +166,16 @@
 | 158 | 1142 | Yasmin Nakea Wright |
 | 159 | 1139 | Atlantalindi |
 | 160 | 1126 | Keke Ferguson |
-| 161 | 1121 | Lisa Müller |
-| 162 | 1121 | Zippy Lifter |
+| 161 | 1121 | Zippy Lifter |
+| 162 | 1121 | Lisa Müller |
 | 163 | 1113 | Eartha Brown |
 | 164 | 1112 | Crystal Anderson |
 | 165 | 1107 | Katherine Short |
 | 166 | 1100 | Christana Imjustbutton Stone |
 | 167 | 1097 | De'Laonzeo Anthony |
 | 168 | 1093 | Dee McCool |
-| 169 | 1080 | Jazzy Fireflighters |
-| 170 | 1080 | Nerdy Blockpiece |
+| 169 | 1080 | Nerdy Blockpiece |
+| 170 | 1080 | Jazzy Fireflighters |
 | 171 | 1078 | Quirky Fallgrid |
 | 172 | 1073 | Rackemwillie34 |
 | 173 | 1068 | Cece Fowler |
@@ -191,27 +191,27 @@
 | 183 | 1002 | Cheeky Pop |
 | 184 | 994 | GrkGdess |
 | 185 | 986 | Eugina Slater |
-| 186 | 981 | No_Other_Choice |
-| 187 | 977 | Slinky Puzzler |
-| 188 | 964 | Karebear |
-| 189 | 964 | Tammye Turner |
+| 186 | 985 | Marcheta Cervantez |
+| 187 | 981 | No_Other_Choice |
+| 188 | 977 | Slinky Puzzler |
+| 189 | 964 | Karebear |
 | 190 | 964 | Zippy Tilefall |
-| 191 | 953 | Ebony Waynes-robinson |
-| 192 | 952 | Ebony |
-| 193 | 950 | Andi McGreevy |
-| 194 | 949 | Chuck Quarles |
-| 195 | 946 | Smiley3000 |
-| 196 | 944 | Kevin M. McGhee Jr |
-| 197 | 942 | Nobles Brandon |
-| 198 | 940 | Crystal Martinez |
-| 199 | 934 | TT |
-| 200 | 927 | Novaa |
-| 201 | 925 | Elizabeth Vega Coreano |
-| 202 | 915 | W.A. Simpson |
-| 203 | 913 | JaszyBadd |
-| 204 | 911 | Shontanese Adams |
-| 205 | 907 | Ann White |
-| 206 | 905 | Marcheta Cervantez |
+| 191 | 964 | Tammye Turner |
+| 192 | 953 | Ebony Waynes-robinson |
+| 193 | 952 | Ebony |
+| 194 | 950 | Andi McGreevy |
+| 195 | 949 | Chuck Quarles |
+| 196 | 946 | Smiley3000 |
+| 197 | 944 | Kevin M. McGhee Jr |
+| 198 | 942 | Nobles Brandon |
+| 199 | 940 | Crystal Martinez |
+| 200 | 934 | TT |
+| 201 | 927 | Novaa |
+| 202 | 925 | Elizabeth Vega Coreano |
+| 203 | 915 | W.A. Simpson |
+| 204 | 913 | JaszyBadd |
+| 205 | 911 | Shontanese Adams |
+| 206 | 907 | Ann White |
 | 207 | 904 | Byron Mario Cawthon |
 | 208 | 899 | Choc |
 | 209 | 896 | Abraham Espaillat |
@@ -310,19 +310,19 @@
 | 302 | 615 | pooh |
 | 303 | 612 | Jessica Russell |
 | 304 | 608 | Alivia Dove |
-| 305 | 604 | Andre Sanon |
-| 306 | 601 | Marie Wilson |
-| 307 | 599 | IThinkNot |
-| 308 | 598 | Lashaunda |
+| 305 | 606 | Lashaunda |
+| 306 | 604 | Andre Sanon |
+| 307 | 601 | Marie Wilson |
+| 308 | 599 | IThinkNot |
 | 309 | 594 | Rachael Bakowicz Edwards |
 | 310 | 591 | Koi |
 | 311 | 589 | Slinky Brickmatch |
 | 312 | 588 | Sheila Burnham |
-| 313 | 583 | DaGuy |
-| 314 | 583 | Shanaa Germany Crittenden |
-| 315 | 580 | Larina Cherie Johnson |
-| 316 | 580 | Qwlonda Shirrell |
-| 317 | 580 | Rayya Kiser |
+| 313 | 583 | Shanaa Germany Crittenden |
+| 314 | 583 | DaGuy |
+| 315 | 580 | Rayya Kiser |
+| 316 | 580 | Larina Cherie Johnson |
+| 317 | 580 | Qwlonda Shirrell |
 | 318 | 577 | Leebo Slice |
 | 319 | 577 | Zachary Colegrove |
 | 320 | 577 | Desire Rice |
@@ -471,11 +471,11 @@
 | 463 | 430 | SnazzyIvy |
 | 464 | 429 | RMGreen |
 | 465 | 428 | Jelyfish |
-| 466 | 425 | Jas |
-| 467 | 424 | Brittanie Wardlow |
-| 468 | 423 | Kimberly Anderson |
-| 469 | 423 | Holly Baker |
-| 470 | 422 | Jennah |
+| 466 | 425 | Jennah |
+| 467 | 425 | Jas |
+| 468 | 424 | Brittanie Wardlow |
+| 469 | 423 | Kimberly Anderson |
+| 470 | 423 | Holly Baker |
 | 471 | 422 | The DUBZ |
 | 472 | 421 | Juan Alvarez |
 | 473 | 420 | Glitzy Patternline |
@@ -890,7 +890,7 @@
 | 882 | 225 | Duncan Timothy |
 | 883 | 224 | Tina Blessed Cage |
 | 884 | 224 | Lively Wipeout |
-| 885 | 222 | Boricua64 |
+| 885 | 224 | Boricua64 |
 | 886 | 222 | MrsDontPlay |
 | 887 | 222 | Mississippigirl Countrygirl |
 | 888 | 221 | LaTonya Collier |
