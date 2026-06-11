@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:45:25 UTC
+# Standings for team1 as of 2026-06-11 08:46:46 UTC
 
 **Total Participants:** 2466
 
@@ -26,7 +26,7 @@
 | 18 | 7797 | Cool Bridger |
 | 19 | 7239 | Ebo Got-Time |
 | 20 | 7154 | Jocelyn Pope-Sewell |
-| 21 | 7024 | Tipsy Tetriblast |
+| 21 | 7034 | Tipsy Tetriblast |
 | 22 | 6881 | Pdubbl3 |
 | 23 | 6637 | Tekedra Wilson |
 | 24 | 6121 | Chandler Spencer |
@@ -71,7 +71,7 @@
 | 63 | 2367 | Markeeta Lipscomb |
 | 64 | 2359 | Corey Cawthon |
 | 65 | 2359 | Shellzb Roberts |
-| 66 | 2298 | Moomoo |
+| 66 | 2302 | Moomoo |
 | 67 | 2230 | Robyn Caldwell |
 | 68 | 2175 | Brian Bohanon II |
 | 69 | 2166 | Helen Smith |
@@ -386,13 +386,13 @@
 | 378 | 460 | Janice Mowel Curtiss |
 | 379 | 460 | SherylU |
 | 380 | 460 | Boldy Liner |
-| 381 | 457 | Saranoh13 |
-| 382 | 456 | Char |
-| 383 | 454 | Dacia Hicks |
-| 384 | 454 | MamushiOh |
-| 385 | 454 | Tonya McElroy |
-| 386 | 453 | Curtis T Cirno |
-| 387 | 453 | Shea Ladynick Henderson |
+| 381 | 458 | Shea Ladynick Henderson |
+| 382 | 457 | Saranoh13 |
+| 383 | 456 | Char |
+| 384 | 454 | Dacia Hicks |
+| 385 | 454 | MamushiOh |
+| 386 | 454 | Tonya McElroy |
+| 387 | 453 | Curtis T Cirno |
 | 388 | 453 | Faith Armone |
 | 389 | 452 | Kenny MrOnethousand Peck |
 | 390 | 451 | Shameka Thrasher |
@@ -462,27 +462,27 @@
 | 454 | 397 | Ladybug |
 | 455 | 396 | Nikki Hogan |
 | 456 | 396 | Glitzy Patternline |
-| 457 | 395 | Derrius SeriousLee Burks |
-| 458 | 395 | Rachel |
-| 459 | 395 | Sammie Walker |
-| 460 | 394 | Tonia Ramos |
-| 461 | 394 | Ashley MyBeauty Daniels |
-| 462 | 393 | Tonya Thomas |
-| 463 | 393 | Tesiree Cray |
-| 464 | 391 | Christina Rebecca |
-| 465 | 391 | Slinky Snapbuilder |
-| 466 | 391 | MindlessMic |
-| 467 | 391 | Stacy Nicole |
-| 468 | 390 | Yadira Salgado |
-| 469 | 390 | Melissa D. M. Hornsby |
-| 470 | 390 | Jean Regis |
-| 471 | 389 | Koreen Johnson-Woolford |
+| 457 | 395 | Sammie Walker |
+| 458 | 395 | Derrius SeriousLee Burks |
+| 459 | 395 | Rachel |
+| 460 | 394 | Ashley MyBeauty Daniels |
+| 461 | 394 | FunTime |
+| 462 | 394 | Tonia Ramos |
+| 463 | 393 | Tonya Thomas |
+| 464 | 393 | Tesiree Cray |
+| 465 | 391 | Christina Rebecca |
+| 466 | 391 | Slinky Snapbuilder |
+| 467 | 391 | MindlessMic |
+| 468 | 391 | Stacy Nicole |
+| 469 | 390 | Jean Regis |
+| 470 | 390 | Melissa D. M. Hornsby |
+| 471 | 390 | Yadira Salgado |
 | 472 | 389 | Betsy B. Yohan |
-| 473 | 387 | Eric Spencer Whitaker |
-| 474 | 386 | Shalya Terry |
-| 475 | 386 | Tajuana Juana'Cee Coleman |
-| 476 | 385 | Kimberly Anderson |
-| 477 | 383 | FunTime |
+| 473 | 389 | Koreen Johnson-Woolford |
+| 474 | 387 | Eric Spencer Whitaker |
+| 475 | 386 | Shalya Terry |
+| 476 | 386 | Tajuana Juana'Cee Coleman |
+| 477 | 385 | Kimberly Anderson |
 | 478 | 382 | McKayla Owens |
 | 479 | 382 | Ann Chung |
 | 480 | 380 | Giggy Edgefit |
@@ -533,55 +533,55 @@
 | 525 | 348 | Emily Wright |
 | 526 | 347 | Travis Davison |
 | 527 | 346 | Marsha Earl |
-| 528 | 346 | Lady T |
-| 529 | 346 | Casey Chapman |
-| 530 | 345 | Heather Wilson |
-| 531 | 344 | Cherika Wright |
-| 532 | 344 | Abby |
-| 533 | 344 | MonaSparks |
-| 534 | 344 | Boldy Matchbuilder |
+| 528 | 346 | Saucy Faller |
+| 529 | 346 | Lady T |
+| 530 | 346 | Casey Chapman |
+| 531 | 345 | Heather Wilson |
+| 532 | 344 | EvaLynn NeCole |
+| 533 | 344 | Juan Santiago |
+| 534 | 344 | Abigail Newman Sweet |
 | 535 | 344 | Onovella Titsworth |
-| 536 | 344 | Abigail Newman Sweet |
-| 537 | 344 | Juan Santiago |
-| 538 | 344 | EvaLynn NeCole |
-| 539 | 343 | Saucy Faller |
-| 540 | 343 | Earl Williams |
-| 541 | 342 | Ashley Monet Terrell |
-| 542 | 341 | MELLZZtick€T |
-| 543 | 341 | Alyssa Rae |
-| 544 | 340 | Chocolate |
-| 545 | 339 | 신재호 |
-| 546 | 339 | Keith Johnson |
-| 547 | 338 | Giddy Staggerpiece |
-| 548 | 338 | Motown Chuck |
-| 549 | 338 | Daniel Santana |
-| 550 | 337 | Angela Brown Babin |
-| 551 | 337 | Nora Mahmoud |
-| 552 | 336 | Silly Edgepiece |
-| 553 | 336 | Jose Rodriguez |
+| 536 | 344 | Boldy Matchbuilder |
+| 537 | 344 | Abby |
+| 538 | 344 | Motown Chuck |
+| 539 | 344 | MonaSparks |
+| 540 | 344 | Cherika Wright |
+| 541 | 343 | Earl Williams |
+| 542 | 342 | Ashley Monet Terrell |
+| 543 | 341 | MELLZZtick€T |
+| 544 | 341 | Alyssa Rae |
+| 545 | 340 | Chocolate |
+| 546 | 339 | 신재호 |
+| 547 | 339 | Keith Johnson |
+| 548 | 338 | Daniel Santana |
+| 549 | 338 | Giddy Staggerpiece |
+| 550 | 337 | Nora Mahmoud |
+| 551 | 337 | Angela Brown Babin |
+| 552 | 336 | Jose Rodriguez |
+| 553 | 336 | Silly Edgepiece |
 | 554 | 335 | Nona Harriel |
 | 555 | 335 | Phillip Vasquez |
 | 556 | 334 | Kristine Marie Palmer |
 | 557 | 334 | Yashica Smith |
 | 558 | 331 | James Bryant II |
-| 559 | 330 | Cynthia Cruell |
-| 560 | 330 | Tracey Johnson |
-| 561 | 330 | Tito Divyn |
-| 562 | 329 | Chris Watson Draper |
-| 563 | 329 | Tiffany Jean Hinson |
-| 564 | 329 | Shelly Everette |
+| 559 | 330 | Tito Divyn |
+| 560 | 330 | Cynthia Cruell |
+| 561 | 330 | Tracey Johnson |
+| 562 | 329 | Tiffany Jean Hinson |
+| 563 | 329 | Shelly Everette |
+| 564 | 329 | Chris Watson Draper |
 | 565 | 327 | Tangy Moore |
 | 566 | 325 | Tracy Feyler |
-| 567 | 324 | Kristie |
-| 568 | 324 | Sharee Robinson |
-| 569 | 324 | Teddy Davis |
+| 567 | 324 | Teddy Davis |
+| 568 | 324 | Kristie |
+| 569 | 324 | Sharee Robinson |
 | 570 | 324 | Vera Beckford |
 | 571 | 324 | Breezy Catcher |
 | 572 | 323 | Bea Dyer-Fields |
 | 573 | 322 | TNT |
-| 574 | 321 | LuckyStar |
-| 575 | 321 | Andra Ward |
-| 576 | 321 | Iceman |
+| 574 | 321 | Andra Ward |
+| 575 | 321 | Iceman |
+| 576 | 321 | LuckyStar |
 | 577 | 321 | Terri Smart |
 | 578 | 320 | Malcolm Stanley |
 | 579 | 320 | Valerie Alexander |
@@ -1162,22 +1162,22 @@
 | 1154 | 136 | Storie Harris |
 | 1155 | 136 | Diamond Nicole |
 | 1156 | 136 | mya |
-| 1157 | 135 | Teresa Menefee |
-| 1158 | 135 | Saucy Tile |
-| 1159 | 135 | Eugenia Vanclusen |
-| 1160 | 135 | UnionBoss |
-| 1161 | 134 | Terrence Webster |
-| 1162 | 134 | Alize |
-| 1163 | 134 | The goat |
-| 1164 | 134 | Laurie Napper |
-| 1165 | 133 | Goofy T-spin |
-| 1166 | 133 | Heather Cross-Davis |
-| 1167 | 133 | Breezy Bouncer |
-| 1168 | 133 | Lateef |
-| 1169 | 133 | Terrance Tindall |
-| 1170 | 132 | dweetyuhself |
-| 1171 | 132 | LaQuita White |
-| 1172 | 131 | MsSassygee Boom |
+| 1157 | 136 | MsSassygee Boom |
+| 1158 | 135 | Teresa Menefee |
+| 1159 | 135 | Saucy Tile |
+| 1160 | 135 | Eugenia Vanclusen |
+| 1161 | 135 | UnionBoss |
+| 1162 | 134 | Terrence Webster |
+| 1163 | 134 | Alize |
+| 1164 | 134 | The goat |
+| 1165 | 134 | Laurie Napper |
+| 1166 | 133 | Goofy T-spin |
+| 1167 | 133 | Heather Cross-Davis |
+| 1168 | 133 | Breezy Bouncer |
+| 1169 | 133 | Lateef |
+| 1170 | 133 | Terrance Tindall |
+| 1171 | 132 | dweetyuhself |
+| 1172 | 132 | LaQuita White |
 | 1173 | 131 | XYZ |
 | 1174 | 130 | kingbrook |
 | 1175 | 130 | jac |
