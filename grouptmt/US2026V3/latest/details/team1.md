@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 16:56:49 UTC
+# Standings for team1 as of 2026-06-11 16:57:24 UTC
 
 **Total Participants:** 2508
 
@@ -140,12 +140,12 @@
 | 132 | 1380 | Jason Mungin |
 | 133 | 1372 | Catara Renae Oliver |
 | 134 | 1372 | Plucky Slamdrop |
-| 135 | 1355 | Whitney Butler |
-| 136 | 1350 | Keeta Chickswit Scott |
-| 137 | 1344 | G Ah Mayes |
-| 138 | 1323 | Denise B |
-| 139 | 1319 | Slim Shedidthat |
-| 140 | 1309 | win |
+| 135 | 1369 | win |
+| 136 | 1355 | Whitney Butler |
+| 137 | 1350 | Keeta Chickswit Scott |
+| 138 | 1344 | G Ah Mayes |
+| 139 | 1323 | Denise B |
+| 140 | 1319 | Slim Shedidthat |
 | 141 | 1284 | xXEKUNXx |
 | 142 | 1282 | Jon Gathers |
 | 143 | 1263 | Po Marley |
@@ -166,15 +166,15 @@
 | 158 | 1142 | Yasmin Nakea Wright |
 | 159 | 1139 | Atlantalindi |
 | 160 | 1123 | Keke Ferguson |
-| 161 | 1121 | Zippy Lifter |
-| 162 | 1121 | Lisa Müller |
+| 161 | 1121 | Lisa Müller |
+| 162 | 1121 | Zippy Lifter |
 | 163 | 1113 | Eartha Brown |
 | 164 | 1107 | Katherine Short |
 | 165 | 1100 | Christana Imjustbutton Stone |
 | 166 | 1097 | De'Laonzeo Anthony |
 | 167 | 1093 | Dee McCool |
-| 168 | 1080 | Jazzy Fireflighters |
-| 169 | 1080 | Nerdy Blockpiece |
+| 168 | 1080 | Nerdy Blockpiece |
+| 169 | 1080 | Jazzy Fireflighters |
 | 170 | 1078 | Quirky Fallgrid |
 | 171 | 1073 | Rackemwillie34 |
 | 172 | 1068 | Cece Fowler |
@@ -192,10 +192,10 @@
 | 184 | 982 | Cheeky Pop |
 | 185 | 981 | No_Other_Choice |
 | 186 | 975 | Slinky Puzzler |
-| 187 | 964 | Karebear |
-| 188 | 964 | Zippy Tilefall |
-| 189 | 959 | Tammye Turner |
-| 190 | 957 | Crystal Anderson |
+| 187 | 967 | Crystal Anderson |
+| 188 | 964 | Karebear |
+| 189 | 964 | Zippy Tilefall |
+| 190 | 959 | Tammye Turner |
 | 191 | 953 | Ebony Waynes-robinson |
 | 192 | 952 | Ebony |
 | 193 | 950 | Andi McGreevy |
@@ -208,8 +208,8 @@
 | 200 | 915 | W.A. Simpson |
 | 201 | 913 | JaszyBadd |
 | 202 | 907 | Ann White |
-| 203 | 905 | Marcheta Cervantez |
-| 204 | 905 | Shontanese Adams |
+| 203 | 905 | Shontanese Adams |
+| 204 | 905 | Marcheta Cervantez |
 | 205 | 904 | TT |
 | 206 | 904 | Byron Mario Cawthon |
 | 207 | 899 | Choc |
@@ -230,8 +230,8 @@
 | 222 | 827 | Andrew Jay Vaughn |
 | 223 | 825 | Aihpos |
 | 224 | 816 | Tasha Jones |
-| 225 | 812 | Mic Balew |
-| 226 | 812 | Big Tina |
+| 225 | 812 | Big Tina |
+| 226 | 812 | Mic Balew |
 | 227 | 801 | BULLSEYE |
 | 228 | 800 | izzybella |
 | 229 | 798 | Zappy Riser |
@@ -1035,14 +1035,14 @@
 | 1027 | 179 | Kahh |
 | 1028 | 179 | Boymama917 |
 | 1029 | 178 | TotoCherue |
-| 1030 | 176 | Taylor Jordan Hollis |
-| 1031 | 176 | Ayanna James |
-| 1032 | 176 | April Lane |
-| 1033 | 176 | Frisky Gridder |
-| 1034 | 175 | Melvin Simpson |
-| 1035 | 175 | DaemahnFriday |
-| 1036 | 175 | Jennifer Moore |
-| 1037 | 175 | Nicole Coko Thomas |
+| 1030 | 177 | Nicole Coko Thomas |
+| 1031 | 176 | Taylor Jordan Hollis |
+| 1032 | 176 | Ayanna James |
+| 1033 | 176 | April Lane |
+| 1034 | 176 | Frisky Gridder |
+| 1035 | 175 | Melvin Simpson |
+| 1036 | 175 | DaemahnFriday |
+| 1037 | 175 | Jennifer Moore |
 | 1038 | 174 | Hasty Brickzone |
 | 1039 | 174 | Hoppy Rumbler |
 | 1040 | 174 | Austin Smith |
