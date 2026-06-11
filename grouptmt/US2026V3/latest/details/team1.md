@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 19:33:23 UTC
+# Standings for team1 as of 2026-06-11 19:34:23 UTC
 
 **Total Participants:** 2525
 
@@ -19,7 +19,7 @@
 | 11 | 10972 | Charnay Peacock |
 | 12 | 10579 | Dyane Leah Ware |
 | 13 | 10075 | Songne Arif |
-| 14 | 9905 | Debbie Carswell |
+| 14 | 9908 | Debbie Carswell |
 | 15 | 9723 | Speedy Spinblock |
 | 16 | 8739 | Tracy Cohen |
 | 17 | 7986 | Cassidy Butler |
@@ -299,8 +299,8 @@
 | 291 | 640 | Lashaunda |
 | 292 | 640 | Tanya Clayton |
 | 293 | 635 | NewEve |
-| 294 | 630 | DellaLucretia Thomas |
-| 295 | 630 | Tessa Felice Hill |
+| 294 | 630 | Tessa Felice Hill |
+| 295 | 630 | DellaLucretia Thomas |
 | 296 | 628 | Joey Albright |
 | 297 | 627 | Tobey Marberry |
 | 298 | 623 | Nicole Watson-Dixon |
@@ -323,25 +323,25 @@
 | 315 | 588 | Sheila Burnham |
 | 316 | 583 | Shanaa Germany Crittenden |
 | 317 | 583 | DaGuy |
-| 318 | 580 | Qwlonda Shirrell |
-| 319 | 580 | Larina Cherie Johnson |
-| 320 | 579 | TBABYJ |
-| 321 | 577 | Desire Rice |
-| 322 | 577 | Zachary Colegrove |
-| 323 | 577 | Leebo Slice |
-| 324 | 576 | Cachet A Ward |
-| 325 | 575 | Denisa Amazon Clark |
-| 326 | 574 | Janice Mowel Curtiss |
-| 327 | 573 | Telisha Mims |
-| 328 | 571 | Kesha Brady |
+| 318 | 581 | Kesha Brady |
+| 319 | 580 | Qwlonda Shirrell |
+| 320 | 580 | Larina Cherie Johnson |
+| 321 | 579 | TBABYJ |
+| 322 | 577 | Desire Rice |
+| 323 | 577 | Zachary Colegrove |
+| 324 | 577 | Leebo Slice |
+| 325 | 576 | Cachet A Ward |
+| 326 | 575 | Denisa Amazon Clark |
+| 327 | 574 | Janice Mowel Curtiss |
+| 328 | 573 | Telisha Mims |
 | 329 | 571 | Block |
-| 330 | 569 | Sean Parham |
-| 331 | 569 | Chasem45 |
+| 330 | 569 | Chasem45 |
+| 331 | 569 | Sean Parham |
 | 332 | 567 | Steve Reno |
 | 333 | 566 | Christopher Dreamsareality McEachin |
-| 334 | 563 | Jhonny Maii |
-| 335 | 563 | Bre Poston |
-| 336 | 563 | Simmone T. Kadiri |
+| 334 | 563 | Simmone T. Kadiri |
+| 335 | 563 | Jhonny Maii |
+| 336 | 563 | Bre Poston |
 | 337 | 562 | Penee Wiggins |
 | 338 | 554 | Heather Aurelia |
 | 339 | 548 | Amy Villalpando |
@@ -593,68 +593,68 @@
 | 585 | 352 | MELLZZtick€T |
 | 586 | 350 | 신재호 |
 | 587 | 348 | Jose Rodriguez |
-| 588 | 347 | Kim Holzmiller |
-| 589 | 347 | PSD |
-| 590 | 347 | Travis Davison |
+| 588 | 347 | PSD |
+| 589 | 347 | Travis Davison |
+| 590 | 347 | Kim Holzmiller |
 | 591 | 347 | Bambi Johnson |
 | 592 | 346 | Marsha Earl |
 | 593 | 346 | Rebecca Jackson |
-| 594 | 345 | Heather Wilson |
-| 595 | 345 | TY Newme Batts |
-| 596 | 345 | Loony Clearer |
-| 597 | 344 | Zappy Snapgrid |
+| 594 | 345 | Loony Clearer |
+| 595 | 345 | Heather Wilson |
+| 596 | 345 | TY Newme Batts |
+| 597 | 344 | EvaLynn NeCole |
 | 598 | 344 | Juan Santiago |
-| 599 | 344 | Motown Chuck |
-| 600 | 344 | Boldy Matchbuilder |
-| 601 | 344 | EvaLynn NeCole |
+| 599 | 344 | MonaSparks |
+| 600 | 344 | Zappy Snapgrid |
+| 601 | 344 | Motown Chuck |
 | 602 | 344 | Onovella Titsworth |
-| 603 | 344 | MonaSparks |
+| 603 | 344 | Boldy Matchbuilder |
 | 604 | 343 | Earl Williams |
 | 605 | 343 | lizlizliz |
-| 606 | 342 | Ebby |
-| 607 | 342 | Ashley Monet Terrell |
-| 608 | 342 | Lounique |
-| 609 | 342 | Nora Mahmoud |
+| 606 | 342 | Nora Mahmoud |
+| 607 | 342 | Lounique |
+| 608 | 342 | Ashley Monet Terrell |
+| 609 | 342 | Ebby |
 | 610 | 341 | Angela Brown Babin |
-| 611 | 340 | Iceman |
-| 612 | 340 | Chocolate |
-| 613 | 340 | Slinky Swipe |
-| 614 | 339 | Jenni Hardman |
-| 615 | 339 | Keith Johnson |
-| 616 | 337 | Daring Riserfit |
-| 617 | 337 | Monica Tovar |
+| 611 | 340 | Slinky Swipe |
+| 612 | 340 | Iceman |
+| 613 | 340 | Chocolate |
+| 614 | 339 | Keith Johnson |
+| 615 | 339 | Jenni Hardman |
+| 616 | 337 | Monica Tovar |
+| 617 | 337 | Daring Riserfit |
 | 618 | 335 | Ashlie Mo |
 | 619 | 335 | Tracy Feyler |
 | 620 | 334 | Yashica Smith |
-| 621 | 334 | Hyedie Badie |
-| 622 | 333 | meatballs |
-| 623 | 333 | Kamilya Rembert |
-| 624 | 333 | Adrian Harris |
-| 625 | 332 | Silly Wiper |
-| 626 | 332 | Bea Dyer-Fields |
-| 627 | 331 | SceneGreenz Wali |
-| 628 | 331 | Mrs.Ann |
-| 629 | 331 | Dede Tate |
-| 630 | 331 | Kelvin Cook |
-| 631 | 330 | Yellowbone |
-| 632 | 330 | Sharee Robinson |
-| 633 | 330 | Karen Knapp |
-| 634 | 330 | Tracey Johnson |
-| 635 | 328 | Poppy Twister |
-| 636 | 327 | Hardtohandle91 |
+| 621 | 334 | TNT |
+| 622 | 334 | Hyedie Badie |
+| 623 | 333 | meatballs |
+| 624 | 333 | Kamilya Rembert |
+| 625 | 333 | Adrian Harris |
+| 626 | 332 | Silly Wiper |
+| 627 | 332 | Bea Dyer-Fields |
+| 628 | 331 | SceneGreenz Wali |
+| 629 | 331 | Kelvin Cook |
+| 630 | 331 | Mrs.Ann |
+| 631 | 331 | Dede Tate |
+| 632 | 330 | Tracey Johnson |
+| 633 | 330 | Sharee Robinson |
+| 634 | 330 | Karen Knapp |
+| 635 | 330 | Yellowbone |
+| 636 | 328 | Poppy Twister |
 | 637 | 327 | Marlainia Boyd |
-| 638 | 325 | Meshia |
-| 639 | 325 | Kàrma Lee |
-| 640 | 324 | Teddy Davis |
-| 641 | 323 | jeremy92 |
-| 642 | 322 | TNT |
+| 638 | 327 | Hardtohandle91 |
+| 639 | 325 | Meshia |
+| 640 | 325 | Kàrma Lee |
+| 641 | 324 | Teddy Davis |
+| 642 | 323 | jeremy92 |
 | 643 | 322 | Mister Reid |
 | 644 | 321 | Terri Smart |
 | 645 | 321 | LuckyStar |
 | 646 | 320 | Malcolm Stanley |
-| 647 | 319 | Ciera Peace |
+| 647 | 319 | Dreamzzz |
 | 648 | 319 | Zany Breaker |
-| 649 | 319 | Dreamzzz |
+| 649 | 319 | Ciera Peace |
 | 650 | 319 | Tamika Rocheteau |
 | 651 | 318 | Nerdy Snapfall |
 | 652 | 318 | Stanley Dixon |
@@ -662,11 +662,11 @@
 | 654 | 316 | Comedian Gdane |
 | 655 | 312 | Spunky Gridder |
 | 656 | 311 | Sarah Steckbauer |
-| 657 | 310 | Bambam |
-| 658 | 310 | Jen Hallin |
-| 659 | 310 | Logan Frost |
-| 660 | 310 | Peppy Glider |
-| 661 | 310 | Brittany Sara Heldwein |
+| 657 | 310 | Peppy Glider |
+| 658 | 310 | Logan Frost |
+| 659 | 310 | Jen Hallin |
+| 660 | 310 | Brittany Sara Heldwein |
+| 661 | 310 | Bambam |
 | 662 | 309 | Frilly Shatterline |
 | 663 | 309 | Kike Lua |
 | 664 | 308 | Melissa Olvera |
