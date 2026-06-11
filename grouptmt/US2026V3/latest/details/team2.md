@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 07:32:47 UTC
+# Standings for team2 as of 2026-06-11 07:33:24 UTC
 
 **Total Participants:** 2928
 
@@ -410,8 +410,8 @@
 | 402 | 540 | Jim Longnecker |
 | 403 | 534 | Staci Behrens |
 | 404 | 532 | LadyDeath |
-| 405 | 531 | Quirky Clicky |
-| 406 | 531 | Smiley Staggerpiece |
+| 405 | 531 | Smiley Staggerpiece |
+| 406 | 531 | Quirky Clicky |
 | 407 | 529 | Jessica Lynn |
 | 408 | 528 | Emma Danielle Wynn |
 | 409 | 527 | Doowop40 |
@@ -422,25 +422,25 @@
 | 414 | 524 | Chill Shatterer |
 | 415 | 523 | Earline Dupuy Bordelon |
 | 416 | 522 | Victoria Pale |
-| 417 | 515 | Dallas Runyan |
-| 418 | 511 | Wacky Curve |
-| 419 | 508 | Patricia Carroll |
-| 420 | 508 | Dawnypooh |
-| 421 | 506 | Monica Gonzalez Rios |
-| 422 | 505 | Melissa Clogher White |
-| 423 | 504 | Xandrea Jones |
-| 424 | 499 | KazzyKay |
-| 425 | 499 | Mikaela Byrd |
-| 426 | 499 | Erica South |
-| 427 | 499 | Monee Stronger |
-| 428 | 498 | Samantha Bugg Stitcher |
-| 429 | 497 | StacyBabee |
+| 417 | 516 | StacyBabee |
+| 418 | 515 | Dallas Runyan |
+| 419 | 511 | Wacky Curve |
+| 420 | 508 | Patricia Carroll |
+| 421 | 508 | Dawnypooh |
+| 422 | 506 | Monica Gonzalez Rios |
+| 423 | 505 | Melissa Clogher White |
+| 424 | 504 | Xandrea Jones |
+| 425 | 499 | KazzyKay |
+| 426 | 499 | Mikaela Byrd |
+| 427 | 499 | Erica South |
+| 428 | 499 | Monee Stronger |
+| 429 | 498 | Samantha Bugg Stitcher |
 | 430 | 497 | Carlos J Blas |
 | 431 | 495 | Harper |
 | 432 | 493 | Saucy Wrecker |
-| 433 | 492 | Wendy Spoor Hof |
-| 434 | 492 | Kathleen Keogh Van Schoyck |
-| 435 | 492 | Goofy Gridclear |
+| 433 | 492 | Kathleen Keogh Van Schoyck |
+| 434 | 492 | Goofy Gridclear |
+| 435 | 492 | Wendy Spoor Hof |
 | 436 | 491 | Adriana Daniela Agapie |
 | 437 | 491 | Charity Hauser |
 | 438 | 490 | Nathan Walker |
@@ -473,17 +473,17 @@
 | 465 | 467 | Missy Renia |
 | 466 | 467 | Maria Ward |
 | 467 | 467 | Spunky Piecebuilder |
-| 468 | 460 | Happy |
-| 469 | 460 | Mrs biotch |
+| 468 | 460 | Mrs biotch |
+| 469 | 460 | Happy |
 | 470 | 460 | Linda Guay |
 | 471 | 459 | TiffTaff |
-| 472 | 458 | Julie Alexander Sykes |
-| 473 | 458 | Olivia Jefferson |
-| 474 | 458 | Talyn Domingues |
-| 475 | 457 | Heather Burgett |
-| 476 | 457 | Coleen Yoder |
-| 477 | 455 | Partin |
-| 478 | 454 | Hoppy Mover |
+| 472 | 458 | Hoppy Mover |
+| 473 | 458 | Julie Alexander Sykes |
+| 474 | 458 | Olivia Jefferson |
+| 475 | 458 | Talyn Domingues |
+| 476 | 457 | Heather Burgett |
+| 477 | 457 | Coleen Yoder |
+| 478 | 455 | Partin |
 | 479 | 453 | Kimberly Cowan |
 | 480 | 453 | Shannon Wilson |
 | 481 | 451 | Tara Flood |
@@ -1226,36 +1226,36 @@
 | 1218 | 173 | Tami Weiss |
 | 1219 | 173 | Smiley Clearer |
 | 1220 | 172 | Shannon Vanlester |
-| 1221 | 172 | LeighAnn Loftis |
-| 1222 | 172 | Signerlisa |
-| 1223 | 172 | Trisha Farley |
-| 1224 | 171 | Ryan Sanders |
-| 1225 | 171 | Paige Lynette Sohl |
-| 1226 | 171 | Morgan Olson Pingree |
-| 1227 | 171 | Grimwitch |
-| 1228 | 171 | Megan McDevitt |
-| 1229 | 171 | Helen Townsend |
-| 1230 | 170 | David Blocker |
-| 1231 | 170 | Zet block |
+| 1221 | 172 | Susan Bosell |
+| 1222 | 172 | LeighAnn Loftis |
+| 1223 | 172 | Signerlisa |
+| 1224 | 172 | Trisha Farley |
+| 1225 | 171 | Ryan Sanders |
+| 1226 | 171 | Paige Lynette Sohl |
+| 1227 | 171 | Morgan Olson Pingree |
+| 1228 | 171 | Grimwitch |
+| 1229 | 171 | Megan McDevitt |
+| 1230 | 171 | Helen Townsend |
+| 1231 | 170 | David Blocker |
 | 1232 | 170 | Tommi Lynn Lawson |
-| 1233 | 170 | Ashley Eneboe |
-| 1234 | 170 | Laura Turner |
-| 1235 | 170 | Devon |
-| 1236 | 169 | Angelique Matzke Starns |
-| 1237 | 169 | grey panther |
-| 1238 | 169 | Joey Grillo |
+| 1233 | 170 | Zet block |
+| 1234 | 170 | Ashley Eneboe |
+| 1235 | 170 | Laura Turner |
+| 1236 | 170 | Devon |
+| 1237 | 169 | Angelique Matzke Starns |
+| 1238 | 169 | grey panther |
 | 1239 | 169 | Stazy Warner |
-| 1240 | 169 | Jacy Pickett |
-| 1241 | 169 | Wendy Michelle Wise-Ledford |
-| 1242 | 169 | Frothy Zonebuilder |
-| 1243 | 168 | Boo Boo Binx |
+| 1240 | 169 | Joey Grillo |
+| 1241 | 169 | Jacy Pickett |
+| 1242 | 169 | Wendy Michelle Wise-Ledford |
+| 1243 | 169 | Frothy Zonebuilder |
 | 1244 | 168 | Erica Abreu |
-| 1245 | 168 | Danyell Flood-Morning |
-| 1246 | 168 | Susan Bosell |
+| 1245 | 168 | Boo Boo Binx |
+| 1246 | 168 | Danyell Flood-Morning |
 | 1247 | 168 | Bruni |
 | 1248 | 168 | Thomas Chris |
-| 1249 | 167 | Joseph Mejia |
-| 1250 | 167 | Robert W Schwartz |
+| 1249 | 167 | Robert W Schwartz |
+| 1250 | 167 | Joseph Mejia |
 | 1251 | 167 | Alisha Shelton |
 | 1252 | 167 | Aeryal Snow |
 | 1253 | 167 | Cara Rivera |

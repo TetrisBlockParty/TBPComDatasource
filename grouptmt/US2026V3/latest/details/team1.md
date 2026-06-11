@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:32:47 UTC
+# Standings for team1 as of 2026-06-11 07:33:24 UTC
 
 **Total Participants:** 2458
 
@@ -656,9 +656,9 @@
 | 648 | 291 | Bella |
 | 649 | 291 | Pj Rojas |
 | 650 | 291 | Brian Taylor |
-| 651 | 289 | TBabii24 |
-| 652 | 288 | Lozuna |
-| 653 | 288 | Tyler |
+| 651 | 289 | Tyler |
+| 652 | 289 | TBabii24 |
+| 653 | 288 | Lozuna |
 | 654 | 288 | Douglas Price |
 | 655 | 287 | CauliMac |
 | 656 | 287 | Mary Phillippi Blanton |
