@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 09:01:25 UTC
+# Standings for team4 as of 2026-06-11 09:02:23 UTC
 
 **Total Participants:** 2505
 
@@ -62,7 +62,7 @@
 | 54 | 3244 | Elissa S-k |
 | 55 | 3200 | 626 |
 | 56 | 3150 | Destiny Dyer |
-| 57 | 3117 | Alicia Cook |
+| 57 | 3126 | Alicia Cook |
 | 58 | 3100 | Posey Smith |
 | 59 | 2973 | Jason Allen |
 | 60 | 2828 | Jace McCullough |
@@ -432,7 +432,7 @@
 | 424 | 422 | Joe Richard |
 | 425 | 422 | Tiggerjake |
 | 426 | 421 | Jay Dee |
-| 427 | 417 | Snow77white |
+| 427 | 420 | Snow77white |
 | 428 | 417 | Shiny Strikerbuilder |
 | 429 | 416 | Jen Roe |
 | 430 | 415 | Matthew Wilcox |
@@ -1775,47 +1775,47 @@
 | 1767 | 53 | Zippy Jumper |
 | 1768 | 53 | Artful*0* |
 | 1769 | 53 | Agent |
-| 1770 | 53 | Funky Rollblock |
-| 1771 | 53 | Shawna Bell |
+| 1770 | 53 | Shawna Bell |
+| 1771 | 53 | Funky Rollblock |
 | 1772 | 53 | Sunshine Dreamchaser Whitfield |
 | 1773 | 53 | Jaison Horton |
 | 1774 | 52 | Dougieanna |
 | 1775 | 52 | Erica Pinneo |
 | 1776 | 52 | Vv |
-| 1777 | 52 | keikei77 |
+| 1777 | 52 | Air1 |
 | 1778 | 52 | Domenique Wilson |
-| 1779 | 52 | Chill Slider |
-| 1780 | 52 | Air1 |
-| 1781 | 51 | Breezy Clusterfit |
-| 1782 | 51 | Gareth |
-| 1783 | 51 | DTM0013 |
-| 1784 | 51 | Shatika Wallace |
+| 1779 | 52 | keikei77 |
+| 1780 | 52 | Chill Slider |
+| 1781 | 51 | Gareth |
+| 1782 | 51 | Breezy Clusterfit |
+| 1783 | 51 | Shatika Wallace |
+| 1784 | 51 | DTM0013 |
 | 1785 | 51 | Danielle Clutter |
 | 1786 | 51 | Jayson Hilliard |
-| 1787 | 51 | Joshua Doucette |
-| 1788 | 50 | Mexican130 |
-| 1789 | 50 | Goodie |
-| 1790 | 50 | Jacqueline Wright |
-| 1791 | 50 | Quirky Chiseler |
+| 1787 | 51 | Chirpy Column |
+| 1788 | 51 | Joshua Doucette |
+| 1789 | 50 | Mexican130 |
+| 1790 | 50 | Goodie |
+| 1791 | 50 | Jacqueline Wright |
 | 1792 | 50 | Renee Short Anthony |
-| 1793 | 50 | Breezy Shatterclear |
-| 1794 | 50 | Natalie Lane |
-| 1795 | 50 | danklilnugget |
-| 1796 | 50 | Vinnie Barnett |
-| 1797 | 50 | Hasty Patternline |
-| 1798 | 50 | Sarah Sherman |
-| 1799 | 50 | Angelica Vidales |
-| 1800 | 50 | Winza777 |
-| 1801 | 50 | Groovy Roll |
-| 1802 | 50 | Honey B |
-| 1803 | 50 | Giggy Tetrisline |
-| 1804 | 50 | Speedy Snapclear |
-| 1805 | 50 | Giggy Clicky |
-| 1806 | 49 | MrChino405 |
-| 1807 | 49 | Ona Jane |
+| 1793 | 50 | Quirky Chiseler |
+| 1794 | 50 | Breezy Shatterclear |
+| 1795 | 50 | Natalie Lane |
+| 1796 | 50 | danklilnugget |
+| 1797 | 50 | Vinnie Barnett |
+| 1798 | 50 | Hasty Patternline |
+| 1799 | 50 | Sarah Sherman |
+| 1800 | 50 | Angelica Vidales |
+| 1801 | 50 | Winza777 |
+| 1802 | 50 | Groovy Roll |
+| 1803 | 50 | Honey B |
+| 1804 | 50 | Giggy Tetrisline |
+| 1805 | 50 | Speedy Snapclear |
+| 1806 | 50 | Giggy Clicky |
+| 1807 | 49 | MrChino405 |
 | 1808 | 49 | Lorrie Lane Cummings |
-| 1809 | 49 | Merrick Marion |
-| 1810 | 49 | Chirpy Column |
+| 1809 | 49 | Ona Jane |
+| 1810 | 49 | Merrick Marion |
 | 1811 | 49 | Karen Riexinger |
 | 1812 | 49 | Cheery Clear |
 | 1813 | 49 | Chris Padilla |
