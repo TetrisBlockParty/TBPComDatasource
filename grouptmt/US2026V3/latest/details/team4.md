@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:24:48 UTC
+# Standings for team4 as of 2026-06-11 08:25:25 UTC
 
 **Total Participants:** 2503
 
@@ -202,9 +202,9 @@
 | 194 | 894 | Tiffany Brooke |
 | 195 | 892 | George Palacios |
 | 196 | 881 | Katy |
-| 197 | 862 | Bean |
-| 198 | 862 | Christy Beezley-Forbush |
-| 199 | 861 | Izz |
+| 197 | 869 | Izz |
+| 198 | 862 | Bean |
+| 199 | 862 | Christy Beezley-Forbush |
 | 200 | 860 | Shiny Dashy |
 | 201 | 857 | Cinta Marie |
 | 202 | 847 | Devinlee Brown |
