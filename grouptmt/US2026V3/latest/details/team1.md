@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 17:07:24 UTC
+# Standings for team1 as of 2026-06-11 17:08:47 UTC
 
 **Total Participants:** 2508
 
@@ -108,7 +108,7 @@
 | 100 | 1711 | Richard Horton |
 | 101 | 1708 | MamaBear |
 | 102 | 1703 | Sanjuro |
-| 103 | 1684 | FallDee |
+| 103 | 1690 | FallDee |
 | 104 | 1682 | Danielle DeLozier Plesec |
 | 105 | 1677 | Alana Renee |
 | 106 | 1668 | La'Chae Nickole |
@@ -624,68 +624,68 @@
 | 616 | 327 | Bambi Johnson |
 | 617 | 327 | Hardtohandle91 |
 | 618 | 326 | Hyedie Badie |
-| 619 | 325 | Meshia |
-| 620 | 325 | Kàrma Lee |
-| 621 | 324 | Marlainia Boyd |
-| 622 | 324 | Sharee Robinson |
-| 623 | 324 | Teddy Davis |
+| 619 | 325 | Kàrma Lee |
+| 620 | 325 | Meshia |
+| 621 | 324 | Sharee Robinson |
+| 622 | 324 | Teddy Davis |
+| 623 | 324 | Marlainia Boyd |
 | 624 | 323 | Bea Dyer-Fields |
 | 625 | 323 | jeremy92 |
 | 626 | 322 | TNT |
 | 627 | 321 | LuckyStar |
-| 628 | 321 | Daring Riserfit |
-| 629 | 321 | Terri Smart |
+| 628 | 321 | Terri Smart |
+| 629 | 321 | Daring Riserfit |
 | 630 | 320 | Malcolm Stanley |
-| 631 | 319 | Dreamzzz |
-| 632 | 319 | Zany Breaker |
-| 633 | 319 | TY Newme Batts |
-| 634 | 319 | Ciera Peace |
-| 635 | 319 | Tamika Rocheteau |
-| 636 | 319 | Christi Walker Patton |
+| 631 | 319 | Christi Walker Patton |
+| 632 | 319 | Dreamzzz |
+| 633 | 319 | Zany Breaker |
+| 634 | 319 | TY Newme Batts |
+| 635 | 319 | Ciera Peace |
+| 636 | 319 | Tamika Rocheteau |
 | 637 | 318 | Nerdy Snapfall |
 | 638 | 318 | Poppy Twister |
 | 639 | 318 | Latore Maxie |
 | 640 | 317 | Shemar Singleton |
 | 641 | 317 | Mister Reid |
 | 642 | 316 | Comedian Gdane |
-| 643 | 314 | PSD |
-| 644 | 314 | Breezy Dashpiece |
+| 643 | 314 | Breezy Dashpiece |
+| 644 | 314 | PSD |
 | 645 | 312 | Spunky Gridder |
 | 646 | 311 | Sarah Steckbauer |
-| 647 | 310 | Bambam |
-| 648 | 310 | Brittany Sara Heldwein |
-| 649 | 310 | Peppy Glider |
-| 650 | 310 | Jen Hallin |
-| 651 | 309 | Kike Lua |
-| 652 | 309 | Frilly Shatterline |
-| 653 | 308 | Darrel K Pemberton |
-| 654 | 308 | Melissa Olvera |
-| 655 | 308 | Tonya Lee Sanders |
-| 656 | 308 | Jjhandsome |
+| 647 | 310 | Peppy Glider |
+| 648 | 310 | Jen Hallin |
+| 649 | 310 | Brittany Sara Heldwein |
+| 650 | 310 | Bambam |
+| 651 | 309 | Frilly Shatterline |
+| 652 | 309 | Kike Lua |
+| 653 | 308 | Jjhandsome |
+| 654 | 308 | Tonya Lee Sanders |
+| 655 | 308 | Melissa Olvera |
+| 656 | 308 | Darrel K Pemberton |
 | 657 | 308 | Michelle Fowler |
 | 658 | 307 | Coco |
-| 659 | 306 | Zappy Clearfit |
-| 660 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 661 | 306 | Mafio SO |
+| 659 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
+| 660 | 306 | Mafio SO |
+| 661 | 306 | Zappy Clearfit |
 | 662 | 305 | BonnieB |
 | 663 | 305 | Shalena Marie Humphrey |
 | 664 | 304 | Octavia Bsb Johnson |
 | 665 | 304 | BB |
-| 666 | 303 | Chris Nelson |
-| 667 | 303 | Kelley Johnson |
-| 668 | 302 | Ebby |
-| 669 | 301 | Monica Fields |
-| 670 | 301 | Rufus |
-| 671 | 300 | Quitito1014 |
-| 672 | 300 | brite |
-| 673 | 300 | Kate Moses |
-| 674 | 300 | Phillip White |
-| 675 | 300 | Cheryl Miller |
-| 676 | 300 | Daring Blockclear |
-| 677 | 300 | Lazy Tiltpiece |
-| 678 | 300 | Stanley Dixon |
-| 679 | 300 | Spadez1231 |
-| 680 | 299 | Spicy Shatterblock |
+| 666 | 303 | Spicy Shatterblock |
+| 667 | 303 | Chris Nelson |
+| 668 | 303 | Kelley Johnson |
+| 669 | 302 | Ebby |
+| 670 | 301 | Monica Fields |
+| 671 | 301 | Rufus |
+| 672 | 300 | Quitito1014 |
+| 673 | 300 | brite |
+| 674 | 300 | Kate Moses |
+| 675 | 300 | Phillip White |
+| 676 | 300 | Cheryl Miller |
+| 677 | 300 | Daring Blockclear |
+| 678 | 300 | Lazy Tiltpiece |
+| 679 | 300 | Stanley Dixon |
+| 680 | 300 | Spadez1231 |
 | 681 | 299 | Chandler Magee |
 | 682 | 298 | Logan Frost |
 | 683 | 298 | Rachael R Gull |
@@ -1074,28 +1074,28 @@
 | 1066 | 167 | LexiiSamayaa |
 | 1067 | 166 | Elizabeth AW |
 | 1068 | 166 | Cheery T-spin |
-| 1069 | 166 | Christopher Shaw-Black |
-| 1070 | 166 | Amaadi Ward |
-| 1071 | 165 | Dawn Basemore |
-| 1072 | 165 | Jerome Lewis |
+| 1069 | 166 | Amaadi Ward |
+| 1070 | 166 | Christopher Shaw-Black |
+| 1071 | 165 | Wrist Mask |
+| 1072 | 165 | Dawn Basemore |
 | 1073 | 165 | Wacky Wipepiece |
-| 1074 | 164 | Alize |
-| 1075 | 164 | Esha I'msoproudofmyself Davis |
-| 1076 | 164 | rosieredpanda |
+| 1074 | 165 | Jerome Lewis |
+| 1075 | 164 | rosieredpanda |
+| 1076 | 164 | Bianca Nawlinsgurl Ferguson |
 | 1077 | 164 | Markeita Jones |
-| 1078 | 164 | Bianca Nawlinsgurl Ferguson |
-| 1079 | 163 | Wrist Mask |
+| 1078 | 164 | Esha I'msoproudofmyself Davis |
+| 1079 | 164 | Alize |
 | 1080 | 163 | Kathleen Boyles |
 | 1081 | 163 | Raymond Boosie Freeman |
-| 1082 | 162 | Sandra Mims |
-| 1083 | 162 | L-Kamice Boykin |
-| 1084 | 162 | Speedy Stacky |
-| 1085 | 162 | Jasmine Hariston-Estis |
-| 1086 | 162 | Jon Doe |
+| 1082 | 162 | L-Kamice Boykin |
+| 1083 | 162 | Sandra Mims |
+| 1084 | 162 | Jon Doe |
+| 1085 | 162 | Speedy Stacky |
+| 1086 | 162 | Jasmine Hariston-Estis |
 | 1087 | 161 | kaboom |
-| 1088 | 160 | Willson06 |
-| 1089 | 160 | Nope Young |
-| 1090 | 160 | Jonathan McKenzie |
+| 1088 | 160 | Nope Young |
+| 1089 | 160 | Jonathan McKenzie |
+| 1090 | 160 | Willson06 |
 | 1091 | 160 | Tipsy Wobbler |
 | 1092 | 160 | Stefan Flick Man |
 | 1093 | 160 | Cheeky Twistpiece |
