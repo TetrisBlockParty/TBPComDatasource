@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 21:14:25 UTC
+# Standings for team2 as of 2026-06-11 21:15:25 UTC
 
 **Total Participants:** 3018
 
@@ -58,15 +58,15 @@
 | 50 | 5300 | DarkHorse |
 | 51 | 5237 | THUMP |
 | 52 | 5231 | Julie Renee Bertram |
-| 53 | 5106 | Wacky Dashfit |
+| 53 | 5108 | Wacky Dashfit |
 | 54 | 5075 | Frisky Balanceblock |
 | 55 | 4987 | Erica Dees Parks |
 | 56 | 4836 | Charley Bedford |
 | 57 | 4815 | Tonya Taber |
 | 58 | 4790 | Smashanator |
 | 59 | 4765 | Kimberly Benson |
-| 60 | 4712 | Charles Varca |
-| 61 | 4536 | Brent Bittenbender |
+| 60 | 4736 | Brent Bittenbender |
+| 61 | 4712 | Charles Varca |
 | 62 | 4476 | LaWanda Powell |
 | 63 | 4417 | Betty Barrett |
 | 64 | 4094 | Sean Rippa |
@@ -261,14 +261,14 @@
 | 253 | 916 | Bubbly Puzzler |
 | 254 | 913 | Kelly Rogers |
 | 255 | 911 | Steven Craig |
-| 256 | 909 | Lisa Underwood Desmond |
-| 257 | 908 | Denise Morehart |
-| 258 | 907 | Danielle Blount |
-| 259 | 907 | Giggly Wipepiece |
-| 260 | 906 | Cool Climber |
-| 261 | 906 | Zesty Strikerbuilder |
-| 262 | 905 | Avie Lou |
-| 263 | 904 | Wacky Rollbuilder |
+| 256 | 909 | Wacky Rollbuilder |
+| 257 | 909 | Lisa Underwood Desmond |
+| 258 | 908 | Denise Morehart |
+| 259 | 907 | Danielle Blount |
+| 260 | 907 | Giggly Wipepiece |
+| 261 | 906 | Cool Climber |
+| 262 | 906 | Zesty Strikerbuilder |
+| 263 | 905 | Avie Lou |
 | 264 | 901 | Spunky Buildout |
 | 265 | 900 | Cheery Tilefall |
 | 266 | 898 | DukeDino |
@@ -283,9 +283,9 @@
 | 275 | 873 | Mom |
 | 276 | 873 | Brandon Link |
 | 277 | 871 | Chipper Stackbuilder |
-| 278 | 864 | Flashy Drop |
-| 279 | 851 | Ozge Akgun Tokat |
-| 280 | 851 | Sandra Ruiz |
+| 278 | 871 | Sandra Ruiz |
+| 279 | 864 | Flashy Drop |
+| 280 | 851 | Ozge Akgun Tokat |
 | 281 | 849 | Brandi Thompson |
 | 282 | 848 | Aldotfus Williams |
 | 283 | 845 | Twisty Buildgrid |
@@ -576,11 +576,11 @@
 | 568 | 437 | Amanda Ann Brooks |
 | 569 | 434 | Josephina |
 | 570 | 434 | DayDreamer79 |
-| 571 | 432 | Muffin Popper |
-| 572 | 431 | Amber Smith |
-| 573 | 431 | murd3rmous3 |
-| 574 | 431 | Crystal Poss |
-| 575 | 430 | Robin Lamb |
+| 571 | 432 | Robin Lamb |
+| 572 | 432 | Muffin Popper |
+| 573 | 431 | Amber Smith |
+| 574 | 431 | murd3rmous3 |
+| 575 | 431 | Crystal Poss |
 | 576 | 430 | DNice |
 | 577 | 428 | Keri Mears |
 | 578 | 428 | Sassy Swiper |
