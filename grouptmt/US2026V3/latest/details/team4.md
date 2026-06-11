@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 08:18:51 UTC
+# Standings for team4 as of 2026-06-11 08:19:24 UTC
 
 **Total Participants:** 2502
 
@@ -55,8 +55,8 @@
 | 47 | 3762 | Watupall13 |
 | 48 | 3627 | Dennis Montoya |
 | 49 | 3600 | Leah Gorsuch |
-| 50 | 3533 | Wendy Zentz |
-| 51 | 3441 | Bryan DjMagnum Evans |
+| 50 | 3587 | Bryan DjMagnum Evans |
+| 51 | 3533 | Wendy Zentz |
 | 52 | 3440 | Kathy Brookins |
 | 53 | 3391 | Dana Abegil Lawas |
 | 54 | 3244 | Elissa S-k |
@@ -1424,8 +1424,8 @@
 | 1416 | 95 | TBabyy |
 | 1417 | 95 | Jasmine Griffin |
 | 1418 | 94 | Kyle Hergert |
-| 1419 | 94 | Athena Hunt |
-| 1420 | 94 | Jim Stewart |
+| 1419 | 94 | Jim Stewart |
+| 1420 | 94 | Athena Hunt |
 | 1421 | 94 | Dandy Balancer |
 | 1422 | 94 | Ronald Kent Hall |
 | 1423 | 94 | Dandy Clusterbuilder |
@@ -1433,45 +1433,45 @@
 | 1425 | 93 | Rizzler26 |
 | 1426 | 93 | Snoopie Johnson |
 | 1427 | 93 | Peachy Linkbuilder |
-| 1428 | 92 | Bruce Hobbs |
+| 1428 | 92 | KingWing |
 | 1429 | 92 | Chelsea Leann Lamb |
-| 1430 | 92 | KingWing |
-| 1431 | 92 | Melissa |
+| 1430 | 92 | Melissa |
+| 1431 | 92 | Bruce Hobbs |
 | 1432 | 92 | Zappy Matchgrid |
 | 1433 | 91 | Funky Zonebuilder |
 | 1434 | 91 | aubz |
 | 1435 | 91 | rick mase |
 | 1436 | 91 | Calleen Ellen Madrigal |
-| 1437 | 91 | Tina Louise |
-| 1438 | 91 | Lashae |
-| 1439 | 91 | A La |
-| 1440 | 90 | Snappy Glidebuilder |
-| 1441 | 90 | Spunky Risegrid |
-| 1442 | 90 | Monique Anne Edwards |
-| 1443 | 90 | Brittany |
-| 1444 | 90 | Sherri G Davis |
-| 1445 | 90 | Melissa Robinson |
-| 1446 | 90 | Nerdy Piecebuilder |
+| 1437 | 91 | Mari |
+| 1438 | 91 | Tina Louise |
+| 1439 | 91 | Lashae |
+| 1440 | 91 | A La |
+| 1441 | 90 | Melissa Robinson |
+| 1442 | 90 | Snappy Glidebuilder |
+| 1443 | 90 | Monique Anne Edwards |
+| 1444 | 90 | Spunky Risegrid |
+| 1445 | 90 | Brittany |
+| 1446 | 90 | Sherri G Davis |
 | 1447 | 90 | Quirky Puzzler |
-| 1448 | 90 | Boldy Clicky |
-| 1449 | 90 | Charles Chauffe |
-| 1450 | 90 | STRay |
-| 1451 | 90 | Heather Griffin |
-| 1452 | 90 | Волна Бог |
-| 1453 | 90 | Spidaman86 |
-| 1454 | 89 | Dawn Ferrin |
-| 1455 | 89 | nanaz86 |
-| 1456 | 89 | Khylee DarDar |
-| 1457 | 89 | Bon Jovi |
-| 1458 | 89 | Aliyah Abdella |
-| 1459 | 89 | Johnny Jeppesen |
-| 1460 | 89 | Ladybug |
-| 1461 | 89 | Bekka Walker |
-| 1462 | 89 | Mari |
-| 1463 | 88 | Musky Pits |
+| 1448 | 90 | Nerdy Piecebuilder |
+| 1449 | 90 | Boldy Clicky |
+| 1450 | 90 | Charles Chauffe |
+| 1451 | 90 | STRay |
+| 1452 | 90 | Heather Griffin |
+| 1453 | 90 | Волна Бог |
+| 1454 | 90 | Spidaman86 |
+| 1455 | 89 | Dawn Ferrin |
+| 1456 | 89 | nanaz86 |
+| 1457 | 89 | Khylee DarDar |
+| 1458 | 89 | Bon Jovi |
+| 1459 | 89 | Aliyah Abdella |
+| 1460 | 89 | Johnny Jeppesen |
+| 1461 | 89 | Ladybug |
+| 1462 | 89 | Bekka Walker |
+| 1463 | 88 | Glendala Whitewing |
 | 1464 | 88 | Hyper Towerfit |
 | 1465 | 88 | Chris Robertson |
-| 1466 | 88 | Glendala Whitewing |
+| 1466 | 88 | Musky Pits |
 | 1467 | 88 | Jade Alley |
 | 1468 | 88 | Ryan Luperena |
 | 1469 | 88 | Ελενη Χολεβα |
@@ -1486,9 +1486,9 @@
 | 1478 | 85 | Sherri Lorent |
 | 1479 | 85 | Dancy Dinosaur |
 | 1480 | 85 | Dee Modest |
-| 1481 | 85 | Brook Marguerite Benson |
-| 1482 | 85 | happy cupcake |
-| 1483 | 85 | Melly |
+| 1481 | 85 | happy cupcake |
+| 1482 | 85 | Melly |
+| 1483 | 85 | Brook Marguerite Benson |
 | 1484 | 85 | Jason Shertzer |
 | 1485 | 85 | Ja'Net Riley |
 | 1486 | 84 | Amber Arnold |

@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 08:18:51 UTC
+# Standings for team1 as of 2026-06-11 08:19:24 UTC
 
 **Total Participants:** 2463
 
@@ -66,9 +66,9 @@
 | 58 | 2535 | Michael J Gresham |
 | 59 | 2478 | Todd C. Clemens |
 | 60 | 2472 | Chris Caniglia |
-| 61 | 2412 | D'Andra Stewart |
-| 62 | 2367 | Markeeta Lipscomb |
-| 63 | 2363 | Frisky Fallmatch |
+| 61 | 2423 | Frisky Fallmatch |
+| 62 | 2412 | D'Andra Stewart |
+| 63 | 2367 | Markeeta Lipscomb |
 | 64 | 2359 | Corey Cawthon |
 | 65 | 2359 | Shellzb Roberts |
 | 66 | 2286 | Moomoo |
