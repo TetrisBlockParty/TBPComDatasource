@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 07:10:25 UTC
+# Standings for team1 as of 2026-06-11 07:11:23 UTC
 
 **Total Participants:** 2454
 
@@ -154,10 +154,10 @@
 | 146 | 1158 | kc |
 | 147 | 1147 | Kaleisha Smith |
 | 148 | 1142 | Yasmin Nakea Wright |
-| 149 | 1134 | Cathy Young |
-| 150 | 1121 | Zippy Lifter |
+| 149 | 1134 | Loopy Block |
+| 150 | 1134 | Cathy Young |
 | 151 | 1121 | Lisa Müller |
-| 152 | 1117 | Loopy Block |
+| 152 | 1121 | Zippy Lifter |
 | 153 | 1100 | Christana Imjustbutton Stone |
 | 154 | 1097 | De'Laonzeo Anthony |
 | 155 | 1092 | Raymond Keeler |
@@ -405,11 +405,11 @@
 | 397 | 444 | Amy Lynn Leifheit |
 | 398 | 441 | Lyn Reed |
 | 399 | 441 | LaTonya Myers |
-| 400 | 441 | Dennis J Herron II |
-| 401 | 439 | Smiley Clearpiece |
-| 402 | 439 | Asani CHumba |
-| 403 | 438 | CJ Robinson |
-| 404 | 437 | Maribel Vasquez |
+| 400 | 441 | Maribel Vasquez |
+| 401 | 441 | Dennis J Herron II |
+| 402 | 439 | Smiley Clearpiece |
+| 403 | 439 | Asani CHumba |
+| 404 | 438 | CJ Robinson |
 | 405 | 436 | DaGuy |
 | 406 | 434 | Tipsy Linkroll |
 | 407 | 432 | blockman |
@@ -686,10 +686,10 @@
 | 678 | 276 | Londa Londa |
 | 679 | 276 | BB |
 | 680 | 276 | Antoinette Jones |
-| 681 | 275 | Chris Sladoje |
-| 682 | 275 | Michelle Peters |
-| 683 | 275 | MzJuice Box |
-| 684 | 275 | Tyler |
+| 681 | 276 | Tyler |
+| 682 | 275 | Chris Sladoje |
+| 683 | 275 | Michelle Peters |
+| 684 | 275 | MzJuice Box |
 | 685 | 274 | Rufus |
 | 686 | 274 | Stephanie Ellis |
 | 687 | 274 | Polite Granny |

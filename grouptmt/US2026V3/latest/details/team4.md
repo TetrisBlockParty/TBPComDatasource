@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 07:10:25 UTC
+# Standings for team4 as of 2026-06-11 07:11:23 UTC
 
 **Total Participants:** 2495
 
@@ -281,13 +281,13 @@
 | 273 | 629 | Lani |
 | 274 | 625 | Addi JayKay |
 | 275 | 617 | Colin |
-| 276 | 614 | Pebbles Gonzalez |
-| 277 | 613 | Cyndi Najar |
-| 278 | 613 | Big Dooka |
-| 279 | 613 | Joseph Hunter |
-| 280 | 611 | Hen |
-| 281 | 611 | Momma Boss |
-| 282 | 610 | Jeremy |
+| 276 | 616 | Jeremy |
+| 277 | 614 | Pebbles Gonzalez |
+| 278 | 613 | Cyndi Najar |
+| 279 | 613 | Big Dooka |
+| 280 | 613 | Joseph Hunter |
+| 281 | 611 | Hen |
+| 282 | 611 | Momma Boss |
 | 283 | 608 | Shanna Fragen |
 | 284 | 607 | Taz |
 | 285 | 605 | Genger |
@@ -511,17 +511,17 @@
 | 503 | 353 | Heidi Hala |
 | 504 | 352 | Brooke Arroyo |
 | 505 | 351 | Cecilia Hicks |
-| 506 | 349 | Reggie Laserna Clement |
-| 507 | 348 | Justin Janachovsky |
-| 508 | 348 | TRUCHILD777$$$ |
-| 509 | 348 | Paulina Deitrick |
-| 510 | 348 | Sally Hiraldo |
-| 511 | 348 | Deva Marie Barber |
-| 512 | 345 | Alyson M Kehler |
-| 513 | 345 | Tipsy Twistslam |
-| 514 | 345 | yodaa |
-| 515 | 344 | Nikki |
-| 516 | 344 | Marina |
+| 506 | 351 | Deva Marie Barber |
+| 507 | 349 | Reggie Laserna Clement |
+| 508 | 348 | Justin Janachovsky |
+| 509 | 348 | TRUCHILD777$$$ |
+| 510 | 348 | Paulina Deitrick |
+| 511 | 348 | Sally Hiraldo |
+| 512 | 345 | Tipsy Twistslam |
+| 513 | 345 | yodaa |
+| 514 | 345 | Alyson M Kehler |
+| 515 | 344 | Marina |
+| 516 | 344 | Nikki |
 | 517 | 343 | maria |
 | 518 | 343 | BookwormCate |
 | 519 | 342 | Nerdy Faller |
@@ -1120,9 +1120,9 @@
 | 1112 | 153 | Kristen Hall |
 | 1113 | 153 | Amber Bishop |
 | 1114 | 152 | Cheeky Linkpiece |
-| 1115 | 152 | Loyalty83 |
-| 1116 | 151 | Jason Moves |
-| 1117 | 151 | Chabetta |
+| 1115 | 152 | Chabetta |
+| 1116 | 152 | Loyalty83 |
+| 1117 | 151 | Jason Moves |
 | 1118 | 151 | Bryanna N Clark |
 | 1119 | 150 | h_chloe10 |
 | 1120 | 150 | William Brooks |
