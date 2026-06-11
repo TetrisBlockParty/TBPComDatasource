@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 09:29:19 UTC
+# Standings for team1 as of 2026-06-11 09:30:22 UTC
 
 **Total Participants:** 2469
 
@@ -71,7 +71,7 @@
 | 63 | 2367 | Markeeta Lipscomb |
 | 64 | 2359 | Corey Cawthon |
 | 65 | 2359 | Shellzb Roberts |
-| 66 | 2307 | Moomoo |
+| 66 | 2311 | Moomoo |
 | 67 | 2230 | Robyn Caldwell |
 | 68 | 2175 | Brian Bohanon II |
 | 69 | 2166 | Helen Smith |
@@ -396,23 +396,23 @@
 | 388 | 453 | Curtis T Cirno |
 | 389 | 452 | Kenny MrOnethousand Peck |
 | 390 | 451 | Shameka Thrasher |
-| 391 | 449 | Brittnay Wright |
-| 392 | 448 | Maribel Vasquez |
-| 393 | 448 | Brand Nu |
+| 391 | 450 | Amy Villalpando |
+| 392 | 449 | Brittnay Wright |
+| 393 | 448 | Maribel Vasquez |
 | 394 | 448 | Brenda Malachi-butler |
-| 395 | 447 | Dedra M Prester |
-| 396 | 447 | Kyra Coleman |
-| 397 | 447 | LiyaSkye |
-| 398 | 446 | Kendra McIntyre |
+| 395 | 448 | Brand Nu |
+| 396 | 447 | LiyaSkye |
+| 397 | 447 | Dedra M Prester |
+| 398 | 447 | Kyra Coleman |
 | 399 | 446 | Richard Flex |
-| 400 | 444 | Amy Lynn Leifheit |
-| 401 | 441 | LaTonya Myers |
-| 402 | 441 | Lyn Reed |
-| 403 | 441 | Dennis J Herron II |
-| 404 | 439 | Smiley Clearpiece |
-| 405 | 439 | Asani CHumba |
-| 406 | 438 | CJ Robinson |
-| 407 | 437 | Amy Villalpando |
+| 400 | 446 | Kendra McIntyre |
+| 401 | 444 | Amy Lynn Leifheit |
+| 402 | 441 | LaTonya Myers |
+| 403 | 441 | Lyn Reed |
+| 404 | 441 | Dennis J Herron II |
+| 405 | 439 | Smiley Clearpiece |
+| 406 | 439 | Asani CHumba |
+| 407 | 438 | CJ Robinson |
 | 408 | 436 | DaGuy |
 | 409 | 434 | Saucy Faller |
 | 410 | 434 | Tipsy Linkroll |
@@ -712,17 +712,17 @@
 | 704 | 272 | Logan Frost |
 | 705 | 272 | Seirra Robinson |
 | 706 | 271 | Sunset Owens |
-| 707 | 270 | Daring Riserfit |
+| 707 | 271 | MsSassygee Boom |
 | 708 | 270 | Bob |
-| 709 | 269 | RMGreen |
-| 710 | 269 | Poppy Twister |
-| 711 | 269 | Tara Clarke |
-| 712 | 269 | Christy Quick |
-| 713 | 269 | Lynn |
-| 714 | 268 | Katrina Ramey |
-| 715 | 268 | Kala Miller |
-| 716 | 267 | Taneka Howell |
-| 717 | 267 | MsSassygee Boom |
+| 709 | 270 | Daring Riserfit |
+| 710 | 269 | RMGreen |
+| 711 | 269 | Poppy Twister |
+| 712 | 269 | Tara Clarke |
+| 713 | 269 | Christy Quick |
+| 714 | 269 | Lynn |
+| 715 | 268 | Katrina Ramey |
+| 716 | 268 | Kala Miller |
+| 717 | 267 | Taneka Howell |
 | 718 | 266 | Dannie |
 | 719 | 265 | Kortney Adams |
 | 720 | 264 | Donna Payne |
@@ -733,10 +733,10 @@
 | 725 | 262 | MamaBearTiff |
 | 726 | 262 | Clipzby |
 | 727 | 262 | LaSharon Jackson |
-| 728 | 261 | Nickeya Phillips |
-| 729 | 261 | Joseph Vs Cap |
-| 730 | 261 | Shannon Carriger |
-| 731 | 261 | Jes Marie |
+| 728 | 261 | Jes Marie |
+| 729 | 261 | Shannon Carriger |
+| 730 | 261 | Nickeya Phillips |
+| 731 | 261 | Joseph Vs Cap |
 | 732 | 261 | Laysa Nunez |
 | 733 | 260 | Spotlight |
 | 734 | 260 | Carolyn Smith |
@@ -1798,44 +1798,44 @@
 | 1790 | 44 | Frisky Pivoty |
 | 1791 | 44 | Wacky1 |
 | 1792 | 44 | MeatSweats |
-| 1793 | 43 | Kris |
-| 1794 | 43 | Speedy Glidezone |
-| 1795 | 43 | Nicolej |
-| 1796 | 43 | Dinky da Don |
-| 1797 | 43 | Annette D Elliott |
+| 1793 | 43 | Speedy Glidezone |
+| 1794 | 43 | Jashana Thomas |
+| 1795 | 43 | Donna Tillis |
+| 1796 | 43 | Honey Beck |
+| 1797 | 43 | Giggly Gridder |
 | 1798 | 43 | Owen Stone |
-| 1799 | 43 | Giggly Gridder |
-| 1800 | 43 | Honey Beck |
-| 1801 | 43 | Donna Tillis |
-| 1802 | 43 | Jashana Thomas |
-| 1803 | 42 | Tee $ |
-| 1804 | 42 | Dandy Blockfall |
-| 1805 | 42 | Nadine Coleman |
+| 1799 | 43 | Kris |
+| 1800 | 43 | Nicolej |
+| 1801 | 43 | Dinky da Don |
+| 1802 | 43 | Annette D Elliott |
+| 1803 | 42 | Nadine Coleman |
+| 1804 | 42 | Louise |
+| 1805 | 42 | Charisse Johnson |
 | 1806 | 42 | Shakonya Baynes |
-| 1807 | 42 | Charisse Johnson |
-| 1808 | 42 | Louise |
-| 1809 | 42 | Nerdy Riser |
-| 1810 | 42 | Slinky Snaplink |
-| 1811 | 42 | BizzyCat |
-| 1812 | 42 | DaRealist1 |
+| 1807 | 42 | Nerdy Riser |
+| 1808 | 42 | Slinky Snaplink |
+| 1809 | 42 | Tee $ |
+| 1810 | 42 | BizzyCat |
+| 1811 | 42 | DaRealist1 |
+| 1812 | 42 | Shannon Hargrove |
 | 1813 | 42 | Spicy Builderfit |
-| 1814 | 42 | Shannon Hargrove |
-| 1815 | 41 | Es Bee |
-| 1816 | 41 | Tynetta Scott |
-| 1817 | 41 | Jessica Corey |
-| 1818 | 41 | Rebecca Hofer |
+| 1814 | 42 | Dandy Blockfall |
+| 1815 | 41 | Jessica Corey |
+| 1816 | 41 | cheehooo |
+| 1817 | 41 | Es Bee |
+| 1818 | 41 | Mary Hughes |
 | 1819 | 41 | Saundy |
-| 1820 | 41 | Mary Hughes |
+| 1820 | 41 | Rebecca Hofer |
 | 1821 | 41 | Dizzy Roĺlback |
 | 1822 | 41 | Taylor Daniel Davis |
-| 1823 | 40 | Rl Valsin |
-| 1824 | 40 | Erica Wells |
-| 1825 | 40 | Fancy Zoner |
-| 1826 | 40 | NiingDing |
-| 1827 | 40 | GLO510 |
-| 1828 | 40 | Ethel Conti Paczka |
-| 1829 | 40 | Jerome Davis |
-| 1830 | 40 | cheehooo |
+| 1823 | 41 | Tynetta Scott |
+| 1824 | 40 | Fancy Zoner |
+| 1825 | 40 | Erica Wells |
+| 1826 | 40 | Rl Valsin |
+| 1827 | 40 | Ethel Conti Paczka |
+| 1828 | 40 | GLO510 |
+| 1829 | 40 | NiingDing |
+| 1830 | 40 | Jerome Davis |
 | 1831 | 40 | Dominique Barbie Periandri |
 | 1832 | 40 | Dee Doris Ewald Flynn |
 | 1833 | 40 | Tonya Mills |

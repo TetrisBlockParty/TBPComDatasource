@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 09:29:19 UTC
+# Standings for team2 as of 2026-06-11 09:30:22 UTC
 
 **Total Participants:** 2938
 
@@ -22,12 +22,12 @@
 | 14 | 9961 | Kathleen M Cox |
 | 15 | 9630 | Lola C Davis |
 | 16 | 9620 | A.j. Langley |
-| 17 | 9291 | Christina Shell |
+| 17 | 9306 | Christina Shell |
 | 18 | 9262 | Maggie McFarland |
 | 19 | 9017 | Bobbi |
-| 20 | 8473 | Andre Love |
-| 21 | 8427 | Elizabeth Mooney |
-| 22 | 8400 | Jennifer Knott |
+| 20 | 8700 | Jennifer Knott |
+| 21 | 8473 | Andre Love |
+| 22 | 8427 | Elizabeth Mooney |
 | 23 | 8335 | Bea Bee |
 | 24 | 8086 | Tom Badgley |
 | 25 | 7940 | Dapper Rollout |
@@ -64,7 +64,7 @@
 | 56 | 4441 | Nawang Nawang |
 | 57 | 4412 | Charles Varca |
 | 58 | 4224 | LaWanda Powell |
-| 59 | 4005 | Betty Barrett |
+| 59 | 4010 | Betty Barrett |
 | 60 | 3990 | Anthony Lilley |
 | 61 | 3984 | Amber |
 | 62 | 3942 | Sean Rippa |
@@ -229,10 +229,10 @@
 | 221 | 932 | Lori Whitman |
 | 222 | 931 | Sandy Lynn |
 | 223 | 927 | SEH |
-| 224 | 926 | Melissa Nash |
-| 225 | 924 | Nettrainer |
-| 226 | 923 | Kimmyc |
-| 227 | 923 | Katrien |
+| 224 | 927 | Katrien |
+| 225 | 926 | Melissa Nash |
+| 226 | 924 | Nettrainer |
+| 227 | 923 | Kimmyc |
 | 228 | 910 | Lashanda Bertram |
 | 229 | 904 | Carebear05 |
 | 230 | 903 | Theresa Huddleston |
@@ -386,10 +386,10 @@
 | 378 | 580 | Jamin |
 | 379 | 579 | Mookshake |
 | 380 | 577 | Lindsay Klemp |
-| 381 | 574 | Brandy McCune Reep |
-| 382 | 574 | Nikki Greeneyebeauty |
-| 383 | 573 | Marilyn Strickland |
-| 384 | 570 | Janice |
+| 381 | 576 | Janice |
+| 382 | 574 | Brandy McCune Reep |
+| 383 | 574 | Nikki Greeneyebeauty |
+| 384 | 573 | Marilyn Strickland |
 | 385 | 570 | Symmy Norton |
 | 386 | 568 | Chummy Faller |
 | 387 | 567 | Roe Sarmiento |
@@ -416,8 +416,8 @@
 | 408 | 534 | puppy mom |
 | 409 | 534 | Staci Behrens |
 | 410 | 532 | LadyDeath |
-| 411 | 531 | Quirky Clicky |
-| 412 | 531 | Smiley Staggerpiece |
+| 411 | 531 | Smiley Staggerpiece |
+| 412 | 531 | Quirky Clicky |
 | 413 | 529 | Jessica Lynn |
 | 414 | 528 | Emma Danielle Wynn |
 | 415 | 527 | Doowop40 |
@@ -431,15 +431,15 @@
 | 423 | 516 | StacyBabee |
 | 424 | 515 | Dallas Runyan |
 | 425 | 511 | Wacky Curve |
-| 426 | 508 | Patricia Carroll |
-| 427 | 508 | Dawnypooh |
+| 426 | 508 | Dawnypooh |
+| 427 | 508 | Patricia Carroll |
 | 428 | 508 | Mama G |
 | 429 | 507 | KazzyKay |
 | 430 | 506 | Monica Gonzalez Rios |
 | 431 | 505 | Melissa Clogher White |
 | 432 | 504 | Xandrea Jones |
-| 433 | 499 | Monee Stronger |
-| 434 | 499 | Erica South |
+| 433 | 499 | Erica South |
+| 434 | 499 | Monee Stronger |
 | 435 | 499 | Mikaela Byrd |
 | 436 | 497 | Carlos J Blas |
 | 437 | 495 | Harper |
@@ -459,13 +459,13 @@
 | 451 | 483 | Larry Cross |
 | 452 | 481 | Twisty Tower |
 | 453 | 480 | Analee Nicole Jones |
-| 454 | 480 | Physhie |
-| 455 | 480 | Jacob Carpenter |
+| 454 | 480 | Jacob Carpenter |
+| 455 | 480 | Physhie |
 | 456 | 480 | Anthony Swift |
 | 457 | 480 | Skye Ehret |
 | 458 | 479 | andee |
-| 459 | 478 | Boldy Wobbler |
-| 460 | 478 | RaeRae |
+| 459 | 478 | RaeRae |
+| 460 | 478 | Boldy Wobbler |
 | 461 | 477 | Brittany Mathis |
 | 462 | 477 | Sandy Justus |
 | 463 | 477 | Melisa |
@@ -1178,50 +1178,50 @@
 | 1170 | 184 | Seamus |
 | 1171 | 184 | Bennie Farbo |
 | 1172 | 183 | Sharon Wade |
-| 1173 | 183 | Maithan Conour |
-| 1174 | 183 | Alena Ross |
+| 1173 | 183 | Nadine Velardo |
+| 1174 | 183 | Peachy Builderpiece |
 | 1175 | 183 | Kennadee Albertson |
-| 1176 | 183 | Peachy Builderpiece |
-| 1177 | 183 | Nadine Velardo |
+| 1176 | 183 | Maithan Conour |
+| 1177 | 183 | Alena Ross |
 | 1178 | 183 | Spunky Cascadeclear |
 | 1179 | 183 | Louis Brudzinski |
 | 1180 | 182 | Emilee Dulyea |
 | 1181 | 182 | Sarai Coronado |
-| 1182 | 182 | Stacey Peters |
-| 1183 | 182 | Jason Williams |
+| 1182 | 182 | Jason Williams |
+| 1183 | 182 | Stacey Peters |
 | 1184 | 182 | Ahada Seber |
-| 1185 | 181 | Cammy Riley |
-| 1186 | 181 | Chass |
+| 1185 | 181 | Meve |
+| 1186 | 181 | Ayana Yanaeboo Eaddy |
 | 1187 | 181 | CowboyChalie |
-| 1188 | 181 | Meve |
-| 1189 | 181 | Ayana Yanaeboo Eaddy |
-| 1190 | 181 | WestieMom |
+| 1188 | 181 | WestieMom |
+| 1189 | 181 | Chass |
+| 1190 | 181 | Cammy Riley |
 | 1191 | 181 | Shiny Spinfit |
 | 1192 | 180 | Dana Wilson |
 | 1193 | 180 | Dawn Kroptavich |
-| 1194 | 180 | Kristy Moore |
-| 1195 | 180 | Amy Renaud |
+| 1194 | 180 | Amy Renaud |
+| 1195 | 180 | Kristy Moore |
 | 1196 | 180 | Ally Miller |
-| 1197 | 180 | Tasha Gilbert |
-| 1198 | 180 | Tonya Templin Smith |
+| 1197 | 180 | Tonya Templin Smith |
+| 1198 | 180 | Kimberley Marie |
 | 1199 | 180 | Cheryl Graves Downard |
-| 1200 | 179 | Funko Dave |
-| 1201 | 179 | Mee Maw |
-| 1202 | 179 | Sue Fuzy |
+| 1200 | 180 | Tasha Gilbert |
+| 1201 | 179 | Sue Fuzy |
+| 1202 | 179 | Mee Maw |
 | 1203 | 179 | SarahandAaron Prim |
 | 1204 | 179 | Jennifer Vitro |
-| 1205 | 178 | Jcflorida |
-| 1206 | 178 | Saucy Lifter |
-| 1207 | 178 | build master |
-| 1208 | 178 | Annie Hebdon |
-| 1209 | 177 | Brianne Coffer |
-| 1210 | 177 | STARFIRE |
-| 1211 | 177 | Nicole Treadway |
-| 1212 | 177 | Marcia Monroe |
+| 1205 | 179 | Funko Dave |
+| 1206 | 178 | Jcflorida |
+| 1207 | 178 | Saucy Lifter |
+| 1208 | 178 | build master |
+| 1209 | 178 | Annie Hebdon |
+| 1210 | 177 | Brianne Coffer |
+| 1211 | 177 | STARFIRE |
+| 1212 | 177 | Nicole Treadway |
 | 1213 | 177 | CAL1KAWS559 |
-| 1214 | 176 | Erin Winberry |
+| 1214 | 177 | Marcia Monroe |
 | 1215 | 176 | Tucker Catherman |
-| 1216 | 176 | Kimberley Marie |
+| 1216 | 176 | Erin Winberry |
 | 1217 | 176 | bozzycat |
 | 1218 | 175 | Michelle Edgin Tranbarger |
 | 1219 | 175 | Beachmama |
@@ -1231,8 +1231,8 @@
 | 1223 | 174 | Kelly Christine Trimmer |
 | 1224 | 174 | Pamela Gambrell |
 | 1225 | 174 | Giggly Spinblock |
-| 1226 | 173 | Tami Weiss |
-| 1227 | 173 | Belinda Gullion Austin |
+| 1226 | 173 | Belinda Gullion Austin |
+| 1227 | 173 | Tami Weiss |
 | 1228 | 173 | Smiley Clearer |
 | 1229 | 173 | Kay Newcomb |
 | 1230 | 173 | Ashley Lee DeHaan |
