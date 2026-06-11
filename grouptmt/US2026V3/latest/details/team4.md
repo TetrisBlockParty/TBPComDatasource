@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-11 12:41:20 UTC
+# Standings for team4 as of 2026-06-11 12:42:23 UTC
 
 **Total Participants:** 2525
 
@@ -383,48 +383,48 @@
 | 375 | 481 | Cool Risepiece |
 | 376 | 480 | Goofy Linkmatch |
 | 377 | 480 | Adam Dickinson |
-| 378 | 478 | Dawn Marie Trujillo |
+| 378 | 480 | Brooke Bauer |
 | 379 | 478 | Joe Richard |
-| 380 | 476 | MomyLiz |
-| 381 | 475 | Jazzy Rollout |
-| 382 | 475 | Shiny Brick |
-| 383 | 472 | Lucy Honer |
-| 384 | 472 | Powder |
-| 385 | 470 | jojo |
-| 386 | 469 | Groovy Cluster |
-| 387 | 469 | Lolita Nettles |
-| 388 | 468 | Shawna Downey |
-| 389 | 466 | Shepreneur Sade |
-| 390 | 465 | Joab Gonzalez |
-| 391 | 465 | farfromlocal |
-| 392 | 463 | Flashy Shatterer |
-| 393 | 462 | BusterBear56 |
-| 394 | 462 | chefjaydawg |
-| 395 | 462 | Tanita Jobe |
-| 396 | 461 | Kayla Fuentes |
-| 397 | 461 | Ash Gribble |
-| 398 | 460 | Shmeedo |
-| 399 | 460 | Snow77white |
-| 400 | 460 | Holly Wessel |
-| 401 | 459 | Cheeky Fallzone |
-| 402 | 458 | Solace Grace |
-| 403 | 458 | Jumpy Clearbuilder |
+| 380 | 478 | Dawn Marie Trujillo |
+| 381 | 476 | MomyLiz |
+| 382 | 475 | Jazzy Rollout |
+| 383 | 475 | Shiny Brick |
+| 384 | 472 | Lucy Honer |
+| 385 | 472 | Powder |
+| 386 | 470 | jojo |
+| 387 | 469 | Groovy Cluster |
+| 388 | 469 | Lolita Nettles |
+| 389 | 468 | Shawna Downey |
+| 390 | 466 | Shepreneur Sade |
+| 391 | 465 | Joab Gonzalez |
+| 392 | 465 | farfromlocal |
+| 393 | 463 | Flashy Shatterer |
+| 394 | 462 | BusterBear56 |
+| 395 | 462 | chefjaydawg |
+| 396 | 462 | Tanita Jobe |
+| 397 | 461 | Kayla Fuentes |
+| 398 | 461 | Ash Gribble |
+| 399 | 460 | Shmeedo |
+| 400 | 460 | Snow77white |
+| 401 | 460 | Holly Wessel |
+| 402 | 459 | Cheeky Fallzone |
+| 403 | 458 | Solace Grace |
 | 404 | 458 | Aisha Estrada |
-| 405 | 455 | Clashy |
-| 406 | 454 | Queen B |
-| 407 | 454 | Jumpy Builderpiece |
-| 408 | 453 | Justin Michael |
-| 409 | 449 | Karen Rodriguez |
-| 410 | 449 | Miwa |
-| 411 | 447 | Lanelva Tiredofbs Marshall |
+| 405 | 458 | Jumpy Clearbuilder |
+| 406 | 455 | Clashy |
+| 407 | 454 | Queen B |
+| 408 | 454 | Jumpy Builderpiece |
+| 409 | 453 | Justin Michael |
+| 410 | 449 | Karen Rodriguez |
+| 411 | 449 | Miwa |
 | 412 | 447 | Dan Butcher |
-| 413 | 444 | bofe |
-| 414 | 444 | Lisa lisa |
-| 415 | 443 | Crissy Hoffman |
-| 416 | 442 | Dazzle Dragon |
+| 413 | 447 | Lanelva Tiredofbs Marshall |
+| 414 | 444 | bofe |
+| 415 | 444 | Lisa lisa |
+| 416 | 443 | Crissy Hoffman |
 | 417 | 442 | EvoKitty |
-| 418 | 441 | Giggly Tilt |
-| 419 | 440 | Brooke Bauer |
+| 418 | 442 | Dazzle Dragon |
+| 419 | 441 | Giggly Tilt |
 | 420 | 440 | Tipsy Builderline |
 | 421 | 438 | Juvon SupaShawdii Brooks |
 | 422 | 437 | FitMeDiva |
@@ -673,11 +673,11 @@
 | 665 | 294 | Mrs |
 | 666 | 292 | Rachel Lemos |
 | 667 | 292 | All knowing |
-| 668 | 292 | Nessa Smith |
-| 669 | 290 | Deb 07 |
-| 670 | 289 | Will E Ayala |
-| 671 | 289 | Squiggy |
-| 672 | 289 | Stephanie Brock |
+| 668 | 292 | Stephanie Brock |
+| 669 | 292 | Nessa Smith |
+| 670 | 290 | Deb 07 |
+| 671 | 289 | Will E Ayala |
+| 672 | 289 | Squiggy |
 | 673 | 288 | Andretta Sellers Robinson |
 | 674 | 288 | Happy Shatterfit |
 | 675 | 287 | Jeremy Barry |
