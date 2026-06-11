@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 11:08:43 UTC
+# Standings for team1 as of 2026-06-11 11:09:23 UTC
 
 **Total Participants:** 2476
 
@@ -1005,18 +1005,18 @@
 | 997 | 182 | JesusSaves 😇 |
 | 998 | 182 | Comedian Prince Paul |
 | 999 | 182 | Audrey Gestring |
-| 1000 | 181 | Tamyka E Williams |
-| 1001 | 181 | Abdul Malik |
-| 1002 | 181 | Rosanna Ringold |
+| 1000 | 181 | Abdul Malik |
+| 1001 | 181 | Rosanna Ringold |
+| 1002 | 181 | Tamyka E Williams |
 | 1003 | 181 | Maria Baez Medina |
 | 1004 | 181 | Marc Papa |
 | 1005 | 180 | Hasty Pivoty |
 | 1006 | 180 | Keith Big-Sixx Mackell |
-| 1007 | 179 | Wacky Stackbuilder |
-| 1008 | 179 | Mumitt |
-| 1009 | 179 | Boymama917 |
-| 1010 | 179 | Kahh |
-| 1011 | 179 | Lively Rollpiece |
+| 1007 | 179 | Mumitt |
+| 1008 | 179 | Kahh |
+| 1009 | 179 | Lively Rollpiece |
+| 1010 | 179 | Boymama917 |
+| 1011 | 179 | Wacky Stackbuilder |
 | 1012 | 178 | Tyrone Porter |
 | 1013 | 178 | TotoCherue |
 | 1014 | 177 | Ashanti Eden |
@@ -1024,25 +1024,25 @@
 | 1016 | 176 | April Lane |
 | 1017 | 176 | Frisky Gridder |
 | 1018 | 176 | Taylor Jordan Hollis |
-| 1019 | 175 | DaemahnFriday |
-| 1020 | 175 | Melvin Simpson |
-| 1021 | 174 | Austin Smith |
-| 1022 | 174 | Hasty Brickzone |
-| 1023 | 173 | Damien Fonseca |
+| 1019 | 175 | Peppy Wipeblock |
+| 1020 | 175 | DaemahnFriday |
+| 1021 | 175 | Melvin Simpson |
+| 1022 | 174 | Austin Smith |
+| 1023 | 174 | Hasty Brickzone |
 | 1024 | 173 | Latanya Gayle |
 | 1025 | 173 | Brandi M. Boney |
-| 1026 | 172 | Peppy Wipeblock |
-| 1027 | 171 | Margretta Henry |
-| 1028 | 171 | Sharon Lynn |
-| 1029 | 171 | Pinky Pink |
-| 1030 | 171 | Deihja Weaver |
-| 1031 | 171 | Shanell Thomas |
-| 1032 | 170 | Aaron Sohnrey |
-| 1033 | 170 | Sarah Guarino |
-| 1034 | 170 | Devron Reedy |
-| 1035 | 170 | Shawna Passwater |
-| 1036 | 169 | rb |
-| 1037 | 169 | LAhoneybun82 |
+| 1026 | 173 | Damien Fonseca |
+| 1027 | 171 | Sharon Lynn |
+| 1028 | 171 | Deihja Weaver |
+| 1029 | 171 | Margretta Henry |
+| 1030 | 171 | Shanell Thomas |
+| 1031 | 171 | Pinky Pink |
+| 1032 | 170 | Shawna Passwater |
+| 1033 | 170 | Devron Reedy |
+| 1034 | 170 | Aaron Sohnrey |
+| 1035 | 170 | Sarah Guarino |
+| 1036 | 169 | LAhoneybun82 |
+| 1037 | 169 | rb |
 | 1038 | 169 | Latricia George |
 | 1039 | 169 | Nicole Coko Thomas |
 | 1040 | 169 | Amilia Cruz |
