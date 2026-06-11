@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-11 06:12:47 UTC
+# Standings for team2 as of 2026-06-11 06:13:22 UTC
 
 **Total Participants:** 2924
 
@@ -206,8 +206,8 @@
 | 198 | 988 | Jgato |
 | 199 | 982 | Brooke Allred |
 | 200 | 973 | Chasity Simpson |
-| 201 | 969 | Jat |
-| 202 | 964 | Hoppy Linkblock |
+| 201 | 973 | Hoppy Linkblock |
+| 202 | 969 | Jat |
 | 203 | 964 | Sarina Vollink |
 | 204 | 961 | Krisanne Kesner-Lonsby |
 | 205 | 959 | Michelle Ferrara |
@@ -238,8 +238,8 @@
 | 230 | 891 | Jessica Melendy |
 | 231 | 886 | Cool Climber |
 | 232 | 883 | Kathy McCormick |
-| 233 | 882 | Danielle Blount |
-| 234 | 882 | JB6 |
+| 233 | 882 | JB6 |
+| 234 | 882 | Danielle Blount |
 | 235 | 881 | Laverne Ellis Blair |
 | 236 | 880 | Jess |
 | 237 | 876 | Katrien |
@@ -1488,10 +1488,10 @@
 | 1480 | 127 | Silly Swiper |
 | 1481 | 127 | Snippy Racker |
 | 1482 | 127 | Snazzy Tiley |
-| 1483 | 126 | Snoop |
-| 1484 | 126 | Ashley Bryant-hatcher |
-| 1485 | 126 | Jolene Moelder |
-| 1486 | 126 | ace510 |
+| 1483 | 127 | ace510 |
+| 1484 | 126 | Snoop |
+| 1485 | 126 | Ashley Bryant-hatcher |
+| 1486 | 126 | Jolene Moelder |
 | 1487 | 126 | Chummy Smasher |
 | 1488 | 126 | Bunny Bt |
 | 1489 | 125 | ElizaThornberry |
