@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-11 22:06:24 UTC
+# Standings for team1 as of 2026-06-11 22:07:21 UTC
 
 **Total Participants:** 2542
 
@@ -18,7 +18,7 @@
 | 10 | 12803 | Charlie Roehm |
 | 11 | 11184 | Charnay Peacock |
 | 12 | 10579 | Dyane Leah Ware |
-| 13 | 10111 | Debbie Carswell |
+| 13 | 10116 | Debbie Carswell |
 | 14 | 10075 | Songne Arif |
 | 15 | 9723 | Speedy Spinblock |
 | 16 | 8739 | Tracy Cohen |
@@ -89,10 +89,10 @@
 | 81 | 2104 | Carolynne Walker-Bell |
 | 82 | 2103 | Sarah Barnum |
 | 83 | 2103 | April Inboden |
-| 84 | 2082 | Kimberly Hernandez |
-| 85 | 2072 | Jonathan Vee Jay |
-| 86 | 2069 | Chris Russell |
-| 87 | 2062 | FallDee |
+| 84 | 2103 | FallDee |
+| 85 | 2082 | Kimberly Hernandez |
+| 86 | 2072 | Jonathan Vee Jay |
+| 87 | 2069 | Chris Russell |
 | 88 | 2060 | Angela R Wilson |
 | 89 | 2032 | She Higgy |
 | 90 | 2026 | Ceilo Marie |
@@ -821,10 +821,10 @@
 | 813 | 259 | Deanna Close |
 | 814 | 259 | Jason Saputo |
 | 815 | 258 | Lynnette WheelerBushnell |
-| 816 | 257 | Renee Marshall |
-| 817 | 257 | Seddrick |
-| 818 | 257 | Joka NoTime ForHataz |
-| 819 | 257 | Shannon Callarman |
+| 816 | 258 | Shannon Callarman |
+| 817 | 257 | Renee Marshall |
+| 818 | 257 | Seddrick |
+| 819 | 257 | Joka NoTime ForHataz |
 | 820 | 256 | Sallie Sanborn |
 | 821 | 254 | Ashley Davis |
 | 822 | 253 | Vontesha Kidd |
@@ -1520,49 +1520,49 @@
 | 1512 | 81 | Rose Smith |
 | 1513 | 81 | GracefulOwl808 |
 | 1514 | 81 | Alisia Johns |
-| 1515 | 81 | Nikki B Dunlap |
-| 1516 | 81 | JenNay |
+| 1515 | 81 | JenNay |
+| 1516 | 81 | Nikki B Dunlap |
 | 1517 | 81 | Catrina Zedd |
 | 1518 | 80 | Frothy Zoney |
 | 1519 | 80 | Chevalier Burley |
 | 1520 | 80 | Demetrius Kelsey |
-| 1521 | 80 | Shannon |
-| 1522 | 80 | Steven Bell |
-| 1523 | 80 | Justice 4 P |
-| 1524 | 80 | Monique Toya Good |
-| 1525 | 80 | Ness |
-| 1526 | 80 | Witty Snapbuilder |
-| 1527 | 80 | Kimberly Red |
-| 1528 | 80 | Robin Prioleau |
-| 1529 | 80 | Lady Scorpio |
-| 1530 | 80 | Anthony D Holmes |
-| 1531 | 80 | Tina Criam |
-| 1532 | 80 | Shoppingbagdrezzy |
-| 1533 | 79 | LadiGurl |
-| 1534 | 79 | smn4evolution |
+| 1521 | 80 | Jamel Bubba Thomas |
+| 1522 | 80 | Shannon |
+| 1523 | 80 | Steven Bell |
+| 1524 | 80 | Justice 4 P |
+| 1525 | 80 | Monique Toya Good |
+| 1526 | 80 | Ness |
+| 1527 | 80 | Witty Snapbuilder |
+| 1528 | 80 | Kimberly Red |
+| 1529 | 80 | Robin Prioleau |
+| 1530 | 80 | Lady Scorpio |
+| 1531 | 80 | Shoppingbagdrezzy |
+| 1532 | 80 | Tina Criam |
+| 1533 | 80 | Anthony D Holmes |
+| 1534 | 79 | LadiGurl |
 | 1535 | 79 | Zany Pivot |
-| 1536 | 78 | Mary Kimmons |
-| 1537 | 78 | Angela C. |
-| 1538 | 78 | Bubbly Crawler |
-| 1539 | 78 | Jose González |
-| 1540 | 77 | Frilly Mover |
-| 1541 | 77 | Alturas Supremenineteen Banks |
-| 1542 | 77 | Chirpy Pivot |
-| 1543 | 77 | Neesii |
-| 1544 | 77 | Lil T |
-| 1545 | 77 | Shemeka Bates |
-| 1546 | 77 | Clever Wrecker |
-| 1547 | 77 | kiki |
-| 1548 | 77 | Laura Long |
-| 1549 | 76 | RealOne95 |
-| 1550 | 76 | Christina Tyler |
-| 1551 | 76 | Tee4 |
-| 1552 | 76 | Crystal Ann |
-| 1553 | 76 | Jacqueline Gory |
-| 1554 | 76 | Joseph Ware Jr. |
+| 1536 | 79 | smn4evolution |
+| 1537 | 78 | Bubbly Crawler |
+| 1538 | 78 | Mary Kimmons |
+| 1539 | 78 | Angela C. |
+| 1540 | 78 | Jose González |
+| 1541 | 77 | Neesii |
+| 1542 | 77 | kiki |
+| 1543 | 77 | Lil T |
+| 1544 | 77 | Alturas Supremenineteen Banks |
+| 1545 | 77 | Chirpy Pivot |
+| 1546 | 77 | Frilly Mover |
+| 1547 | 77 | Shemeka Bates |
+| 1548 | 77 | Clever Wrecker |
+| 1549 | 77 | Laura Long |
+| 1550 | 76 | Mama P |
+| 1551 | 76 | Crystal Ann |
+| 1552 | 76 | Tee4 |
+| 1553 | 76 | Christina Tyler |
+| 1554 | 76 | RealOne95 |
 | 1555 | 76 | luc |
-| 1556 | 76 | Jamel Bubba Thomas |
-| 1557 | 76 | Mama P |
+| 1556 | 76 | Jacqueline Gory |
+| 1557 | 76 | Joseph Ware Jr. |
 | 1558 | 75 | Candice Poe |
 | 1559 | 75 | Jason Rogers |
 | 1560 | 75 | Courtney Robinson |
