@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-12 00:04:46 UTC
+# Standings for team2 as of 2026-06-12 00:05:21 UTC
 
 **Total Participants:** 3051
 
@@ -37,7 +37,7 @@
 | 29 | 8019 | Renee Weedling |
 | 30 | 7804 | Nerdy Glidepiece |
 | 31 | 7735 | Ber |
-| 32 | 7442 | Christina Jambard Sampier |
+| 32 | 7541 | Christina Jambard Sampier |
 | 33 | 7340 | Julie Trede Amerson |
 | 34 | 7241 | Katelyn Rodgers |
 | 35 | 6812 | Chipper Patternblock |
@@ -155,7 +155,7 @@
 | 147 | 1632 | Robin G |
 | 148 | 1628 | Ruby Sandberg |
 | 149 | 1627 | Zachary Vymislicky |
-| 150 | 1605 | Marquetta Johnson |
+| 150 | 1625 | Marquetta Johnson |
 | 151 | 1603 | haune |
 | 152 | 1563 | Amber Triguero |
 | 153 | 1547 | Lily |
@@ -230,7 +230,7 @@
 | 222 | 1046 | Bubbly Dash |
 | 223 | 1038 | Theresa Huddleston |
 | 224 | 1031 | Amber Miller Wirick |
-| 225 | 1029 | Sandra Ruiz |
+| 225 | 1030 | Sandra Ruiz |
 | 226 | 1024 | Sara Perkins |
 | 227 | 1009 | Ackerman 85 |
 | 228 | 1009 | Steven |
@@ -251,8 +251,8 @@
 | 243 | 983 | Becca Marie |
 | 244 | 983 | Layla Petroff |
 | 245 | 978 | Crystal Allen |
-| 246 | 975 | Ashley Green |
-| 247 | 974 | La chulis |
+| 246 | 977 | La chulis |
+| 247 | 975 | Ashley Green |
 | 248 | 974 | Sarina Vollink |
 | 249 | 970 | Sharon L Brazelton |
 | 250 | 963 | Kathy McCormick |
@@ -423,8 +423,8 @@
 | 415 | 578 | Coleen Yoder |
 | 416 | 577 | Lindsay Klemp |
 | 417 | 577 | Joni Michelle Morgan |
-| 418 | 574 | Brandy McCune Reep |
-| 419 | 574 | Chummy Faller |
+| 418 | 574 | Chummy Faller |
+| 419 | 574 | Brandy McCune Reep |
 | 420 | 573 | Mike |
 | 421 | 571 | Partin |
 | 422 | 570 | Symmy Norton |
@@ -443,12 +443,12 @@
 | 435 | 553 | Bb |
 | 436 | 552 | Jessica Christine |
 | 437 | 550 | Spunky Piecebuilder |
-| 438 | 550 | AndyJo |
-| 439 | 550 | DomDomsNana |
+| 438 | 550 | DomDomsNana |
+| 439 | 550 | AndyJo |
 | 440 | 549 | Harper |
 | 441 | 547 | Robert Brewster |
-| 442 | 546 | Dawnypooh |
-| 443 | 546 | Wendy Mcbride |
+| 442 | 546 | Wendy Mcbride |
+| 443 | 546 | Dawnypooh |
 | 444 | 546 | Heather Burgett |
 | 445 | 546 | Melmel |
 | 446 | 545 | Skye Ehret |
@@ -461,9 +461,9 @@
 | 453 | 539 | Earline Dupuy Bordelon |
 | 454 | 539 | Leticia Tillman |
 | 455 | 537 | Wacky Stack |
-| 456 | 534 | Monee Stronger |
-| 457 | 534 | puppy mom |
-| 458 | 534 | Kathleen Keogh Van Schoyck |
+| 456 | 534 | puppy mom |
+| 457 | 534 | Kathleen Keogh Van Schoyck |
+| 458 | 534 | Monee Stronger |
 | 459 | 534 | Staci Behrens |
 | 460 | 532 | LadyDeath |
 | 461 | 532 | Queen |
@@ -481,28 +481,28 @@
 | 473 | 522 | Victoria Pale |
 | 474 | 520 | Cherica Taylor |
 | 475 | 520 | Sandy Justus |
-| 476 | 518 | KazzyKay |
-| 477 | 517 | Wendy Spoor Hof |
-| 478 | 516 | StacyBabee |
-| 479 | 515 | Hector |
-| 480 | 513 | Talyn Domingues |
-| 481 | 510 | Melissa Clogher White |
-| 482 | 509 | Karly Moore |
-| 483 | 507 | Eric Wayne Maschman |
-| 484 | 506 | Monica Gonzalez Rios |
+| 476 | 519 | TiffTaff |
+| 477 | 518 | KazzyKay |
+| 478 | 517 | Wendy Spoor Hof |
+| 479 | 516 | StacyBabee |
+| 480 | 515 | Hector |
+| 481 | 513 | Talyn Domingues |
+| 482 | 510 | Melissa Clogher White |
+| 483 | 509 | Karly Moore |
+| 484 | 507 | Eric Wayne Maschman |
 | 485 | 506 | Gina Louise Parker |
-| 486 | 505 | Sltwtrcndrla |
-| 487 | 505 | Alonzo Reed |
-| 488 | 504 | Treau Torres |
+| 486 | 506 | Monica Gonzalez Rios |
+| 487 | 505 | Sltwtrcndrla |
+| 488 | 505 | Alonzo Reed |
 | 489 | 504 | Silly Clicker |
-| 490 | 503 | Mrs biotch |
+| 490 | 504 | Treau Torres |
 | 491 | 503 | Fallon Moss |
-| 492 | 502 | Keri Mears |
-| 493 | 501 | Reni Seven |
-| 494 | 500 | Linda Guay |
-| 495 | 499 | RaeRae |
+| 492 | 503 | Mrs biotch |
+| 493 | 502 | Keri Mears |
+| 494 | 501 | Reni Seven |
+| 495 | 500 | Linda Guay |
 | 496 | 499 | Erica South |
-| 497 | 499 | TiffTaff |
+| 497 | 499 | RaeRae |
 | 498 | 498 | Larry Cross |
 | 499 | 494 | Teresa Mandich |
 | 500 | 494 | Baby |
@@ -519,14 +519,14 @@
 | 511 | 481 | Sonya YuntHatton |
 | 512 | 480 | Physhie |
 | 513 | 480 | Hypee |
-| 514 | 480 | Analee Nicole Jones |
+| 514 | 480 | Carrie Hayes Lankford |
 | 515 | 480 | Gwendolyn Boykin Mobbs |
-| 516 | 480 | Carrie Hayes Lankford |
-| 517 | 480 | Jacob Carpenter |
-| 518 | 480 | Carolyn McNaughton |
+| 516 | 480 | Jacob Carpenter |
+| 517 | 480 | Carolyn McNaughton |
+| 518 | 480 | Analee Nicole Jones |
 | 519 | 479 | Plucky Grabber |
-| 520 | 479 | Boldy Swipe |
-| 521 | 479 | Mandeee |
+| 520 | 479 | Mandeee |
+| 521 | 479 | Boldy Swipe |
 | 522 | 478 | Boldy Wobbler |
 | 523 | 477 | Brittany Mathis |
 | 524 | 477 | Melisa |
@@ -949,11 +949,11 @@
 | 941 | 277 | Trisha Schneider |
 | 942 | 277 | Cheeky Cornerfall |
 | 943 | 276 | Lindsey Davidson |
-| 944 | 274 | Teea Makensi Meyer |
-| 945 | 273 | Lisa Chapman |
-| 946 | 272 | Loony Clearpiece |
-| 947 | 272 | Lydia Shonee |
-| 948 | 271 | zippity |
+| 944 | 275 | zippity |
+| 945 | 274 | Teea Makensi Meyer |
+| 946 | 273 | Lisa Chapman |
+| 947 | 272 | Loony Clearpiece |
+| 948 | 272 | Lydia Shonee |
 | 949 | 271 | Jenna Thorn |
 | 950 | 271 | Spicy Balanceblock |
 | 951 | 270 | Courtney Madison Hart |
@@ -1777,25 +1777,25 @@
 | 1769 | 100 | Dizzy Dropzone |
 | 1770 | 99 | Lindsay Gregory |
 | 1771 | 99 | LaicoosBargains Ln |
-| 1772 | 99 | Lorrie Girardi |
-| 1773 | 99 | Tipsy Splitter |
-| 1774 | 98 | Rashae Sheets |
-| 1775 | 98 | Zach Walkup |
-| 1776 | 98 | Dawnie Rodarte |
-| 1777 | 97 | Betu2clos |
-| 1778 | 97 | Adri Perez |
+| 1772 | 99 | Alexis Turner |
+| 1773 | 99 | Lorrie Girardi |
+| 1774 | 99 | Tipsy Splitter |
+| 1775 | 98 | Rashae Sheets |
+| 1776 | 98 | Zach Walkup |
+| 1777 | 98 | Dawnie Rodarte |
+| 1778 | 97 | Betu2clos |
 | 1779 | 97 | Bowerhouse |
-| 1780 | 97 | Dani Newton |
-| 1781 | 96 | Amber Myers |
-| 1782 | 96 | Mike Honcho |
-| 1783 | 96 | Kerri Bear |
-| 1784 | 96 | Zippy Blockmatch |
-| 1785 | 96 | Ryan |
-| 1786 | 96 | Denise Oppenheimer-Mace Lawrence Mendoza |
-| 1787 | 96 | Amy Walker |
-| 1788 | 96 | ktabzz |
-| 1789 | 96 | Beverly-Jo Peterson |
-| 1790 | 96 | Alexis Turner |
+| 1780 | 97 | Adri Perez |
+| 1781 | 97 | Dani Newton |
+| 1782 | 96 | Amber Myers |
+| 1783 | 96 | Mike Honcho |
+| 1784 | 96 | Kerri Bear |
+| 1785 | 96 | Zippy Blockmatch |
+| 1786 | 96 | Ryan |
+| 1787 | 96 | Denise Oppenheimer-Mace Lawrence Mendoza |
+| 1788 | 96 | Amy Walker |
+| 1789 | 96 | ktabzz |
+| 1790 | 96 | Beverly-Jo Peterson |
 | 1791 | 96 | Kevin Perez |
 | 1792 | 95 | Perky Patternbuilder |
 | 1793 | 95 | Catherine Whitt Gaddy |
