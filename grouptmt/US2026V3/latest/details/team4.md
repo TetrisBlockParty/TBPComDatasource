@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 01:38:47 UTC
+# Standings for team4 as of 2026-06-12 01:39:27 UTC
 
 **Total Participants:** 2635
 
@@ -66,13 +66,13 @@
 | 58 | 3331 | Alicia Cook |
 | 59 | 3323 | Elissa S-k |
 | 60 | 3317 | Twirl Girl |
-| 61 | 3224 | 626 |
+| 61 | 3242 | 626 |
 | 62 | 3150 | Destiny Dyer |
 | 63 | 3135 | Amber Doyle |
 | 64 | 2904 | woopa 716 |
 | 65 | 2862 | Jessi Goodwin |
-| 66 | 2800 | Caitlin Johnson |
-| 67 | 2800 | Annastaissia Todd |
+| 66 | 2800 | Annastaissia Todd |
+| 67 | 2800 | Caitlin Johnson |
 | 68 | 2770 | Tommy Bond |
 | 69 | 2741 | Joseph Anthony Watkins |
 | 70 | 2714 | Маркус Вік |
@@ -109,8 +109,8 @@
 | 101 | 1850 | Keg |
 | 102 | 1747 | Patty |
 | 103 | 1728 | Leslie Ann Carter |
-| 104 | 1704 | Gerald Lew |
-| 105 | 1704 | Beee |
+| 104 | 1704 | Beee |
+| 105 | 1704 | Gerald Lew |
 | 106 | 1696 | Giggy Matchpiece |
 | 107 | 1694 | blockhead |
 | 108 | 1687 | Neeta Kapadia |
@@ -136,8 +136,8 @@
 | 128 | 1433 | Shaina Sharp |
 | 129 | 1430 | Hannah Pazar |
 | 130 | 1414 | Chiquita Blue |
-| 131 | 1408 | GeorgeButts |
-| 132 | 1408 | MysticMaven |
+| 131 | 1408 | MysticMaven |
+| 132 | 1408 | GeorgeButts |
 | 133 | 1396 | Jesse Olive |
 | 134 | 1379 | Principal Liz |
 | 135 | 1372 | Genag |
@@ -403,8 +403,8 @@
 | 395 | 518 | Joe Richard |
 | 396 | 518 | Miwa |
 | 397 | 516 | EL Booger |
-| 398 | 513 | Melika Zeheb |
-| 399 | 512 | Loopy Hitter |
+| 398 | 514 | Loopy Hitter |
+| 399 | 513 | Melika Zeheb |
 | 400 | 510 | Bridget Stevens |
 | 401 | 509 | Mark Fitch Jr. |
 | 402 | 506 | Snazzy Fitclear |
@@ -658,9 +658,9 @@
 | 650 | 332 | shonaberry |
 | 651 | 332 | Jessica Jones Bolton |
 | 652 | 332 | LyvWyre |
-| 653 | 331 | Lively Cascadebuilder |
-| 654 | 329 | Shia Marie |
-| 655 | 329 | Ashlee Lemus |
+| 653 | 332 | Ashlee Lemus |
+| 654 | 331 | Lively Cascadebuilder |
+| 655 | 329 | Shia Marie |
 | 656 | 329 | Ramona Rosado |
 | 657 | 329 | ariel |
 | 658 | 329 | Alexis Siefker |
@@ -797,15 +797,15 @@
 | 789 | 272 | Chelsea Costa |
 | 790 | 271 | Lord Solrac |
 | 791 | 271 | Scalpel Causes Shambles |
-| 792 | 271 | Sara Cobb |
-| 793 | 271 | Amanda Snow |
-| 794 | 270 | Loretta Hendricks |
-| 795 | 270 | Carissa Thorne-See |
-| 796 | 270 | Dawn Renee Thomas |
-| 797 | 270 | Tod Jae |
-| 798 | 269 | Sassy Frame |
-| 799 | 269 | Chelle Williams |
-| 800 | 269 | Samantha Lohmeyer |
+| 792 | 271 | Samantha Lohmeyer |
+| 793 | 271 | Sara Cobb |
+| 794 | 271 | Amanda Snow |
+| 795 | 270 | Loretta Hendricks |
+| 796 | 270 | Carissa Thorne-See |
+| 797 | 270 | Dawn Renee Thomas |
+| 798 | 270 | Tod Jae |
+| 799 | 269 | Sassy Frame |
+| 800 | 269 | Chelle Williams |
 | 801 | 268 | Trishaann Triplett |
 | 802 | 268 | Sunny Tiltbuilder |
 | 803 | 268 | Daring Towerer |
