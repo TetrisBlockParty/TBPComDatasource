@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 02:56:49 UTC
+# Standings for team4 as of 2026-06-12 02:57:24 UTC
 
 **Total Participants:** 2650
 
@@ -20,7 +20,7 @@
 | 12 | 11432 | Jennifer Edgell Richardson |
 | 13 | 10950 | Kait Confetti |
 | 14 | 10494 | Monica Emel |
-| 15 | 10398 | Chris Hills |
+| 15 | 10414 | Chris Hills |
 | 16 | 10059 | ktothet |
 | 17 | 9529 | delilahbelle |
 | 18 | 8952 | Bryony Nicholson |
@@ -140,7 +140,7 @@
 | 132 | 1408 | GeorgeButts |
 | 133 | 1408 | MysticMaven |
 | 134 | 1396 | Jesse Olive |
-| 135 | 1386 | Dee Wizz |
+| 135 | 1396 | Dee Wizz |
 | 136 | 1379 | Principal Liz |
 | 137 | 1372 | Genag |
 | 138 | 1366 | CJ |
@@ -368,15 +368,15 @@
 | 360 | 574 | Alma López Morales |
 | 361 | 574 | Patrick Alley |
 | 362 | 573 | Sandra Stark |
-| 363 | 572 | jojo |
-| 364 | 571 | Loopy Hitter |
-| 365 | 570 | Fran Aaron-Ring |
-| 366 | 570 | Rodger Lines |
-| 367 | 567 | Kristen Hall |
-| 368 | 565 | Jumpy Builderpiece |
-| 369 | 564 | Funky Tiler |
-| 370 | 563 | Shawna Downey |
-| 371 | 557 | Seraphim Mabry |
+| 363 | 572 | Seraphim Mabry |
+| 364 | 572 | jojo |
+| 365 | 571 | Loopy Hitter |
+| 366 | 570 | Fran Aaron-Ring |
+| 367 | 570 | Rodger Lines |
+| 368 | 567 | Kristen Hall |
+| 369 | 565 | Jumpy Builderpiece |
+| 370 | 564 | Funky Tiler |
+| 371 | 563 | Shawna Downey |
 | 372 | 557 | Tiffany Bunker-Hill |
 | 373 | 557 | Rhonda Dowling |
 | 374 | 556 | jaz |
@@ -487,8 +487,8 @@
 | 479 | 434 | bollo |
 | 480 | 433 | Karen Davis |
 | 481 | 431 | Rosy Perez |
-| 482 | 430 | Josh Keith Travierso |
-| 483 | 430 | TJ |
+| 482 | 431 | TJ |
+| 483 | 430 | Josh Keith Travierso |
 | 484 | 430 | Alyson M Kehler |
 | 485 | 429 | MrsReap |
 | 486 | 429 | Funky Rollzone |
@@ -653,14 +653,14 @@
 | 645 | 342 | Kendall Rhodie |
 | 646 | 342 | Hasty Dropzone |
 | 647 | 342 | shonaberry |
-| 648 | 339 | Mammoth |
-| 649 | 337 | Joshua Garner |
-| 650 | 337 | JoAnn Summerlot Ratliff |
-| 651 | 337 | Leasa Marie |
-| 652 | 337 | Happy Puzzle |
-| 653 | 336 | Maliyah An |
-| 654 | 335 | GETBOXED! |
-| 655 | 335 | Tipsy Matchline |
+| 648 | 339 | Tipsy Matchline |
+| 649 | 339 | Mammoth |
+| 650 | 337 | Joshua Garner |
+| 651 | 337 | JoAnn Summerlot Ratliff |
+| 652 | 337 | Leasa Marie |
+| 653 | 337 | Happy Puzzle |
+| 654 | 336 | Maliyah An |
+| 655 | 335 | GETBOXED! |
 | 656 | 335 | Jeremy Barry |
 | 657 | 335 | Thermeka Lindsey |
 | 658 | 334 | Happy Shatterfit |
@@ -1171,14 +1171,14 @@
 | 1163 | 165 | Liz R |
 | 1164 | 165 | Teresa Lescinskas |
 | 1165 | 165 | Snappy Slice |
-| 1166 | 164 | Seraphina |
-| 1167 | 164 | Maicy Darrah |
-| 1168 | 164 | Elizabeth Nicole Zahm |
-| 1169 | 164 | CrystalP83 |
-| 1170 | 164 | Glitter |
-| 1171 | 164 | Sonia Cordero-Martinez |
-| 1172 | 163 | Jasmine Marie |
-| 1173 | 163 | Breezy Blockzone |
+| 1166 | 164 | Breezy Blockzone |
+| 1167 | 164 | Seraphina |
+| 1168 | 164 | Maicy Darrah |
+| 1169 | 164 | Elizabeth Nicole Zahm |
+| 1170 | 164 | CrystalP83 |
+| 1171 | 164 | Glitter |
+| 1172 | 164 | Sonia Cordero-Martinez |
+| 1173 | 163 | Jasmine Marie |
 | 1174 | 163 | ShortStackz Jones |
 | 1175 | 163 | Tracey Hudspath |
 | 1176 | 162 | Mandi Rexroat |
@@ -1328,13 +1328,13 @@
 | 1320 | 133 | Rai |
 | 1321 | 133 | Stacy Sisson |
 | 1322 | 132 | Misti Rich |
-| 1323 | 132 | Katherine Stec |
-| 1324 | 132 | Rebecca Sloan |
-| 1325 | 132 | Komikeh White |
-| 1326 | 132 | Giggly Gridzone |
-| 1327 | 131 | Kami |
-| 1328 | 131 | Sunny Bricky |
-| 1329 | 130 | NikkiLyn79 |
+| 1323 | 132 | NikkiLyn79 |
+| 1324 | 132 | Katherine Stec |
+| 1325 | 132 | Rebecca Sloan |
+| 1326 | 132 | Komikeh White |
+| 1327 | 132 | Giggly Gridzone |
+| 1328 | 131 | Kami |
+| 1329 | 131 | Sunny Bricky |
 | 1330 | 130 | MamaC |
 | 1331 | 130 | Katrina S. West |
 | 1332 | 130 | Melissa Robinson |
