@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 02:12:45 UTC
+# Standings for team4 as of 2026-06-12 02:13:24 UTC
 
 **Total Participants:** 2640
 
@@ -317,19 +317,19 @@
 | 309 | 642 | Martha Fisher |
 | 310 | 640 | Andrick |
 | 311 | 639 | Merritt Brandt |
-| 312 | 638 | Jumpy Clearbuilder |
-| 313 | 638 | Piece of Cake |
+| 312 | 638 | Piece of Cake |
+| 313 | 638 | Jumpy Clearbuilder |
 | 314 | 636 | Sassy Rollpiece |
 | 315 | 632 | Real Talk Vibes |
 | 316 | 629 | Lani |
 | 317 | 629 | Genger |
-| 318 | 628 | Maurice DeJean |
-| 319 | 628 | Tipsy Piecebuilder |
+| 318 | 628 | Tipsy Piecebuilder |
+| 319 | 628 | Maurice DeJean |
 | 320 | 625 | matt |
 | 321 | 623 | Tanita Jobe |
 | 322 | 621 | Tipsy Builderline |
-| 323 | 618 | Jojo Ann |
-| 324 | 618 | JuicyJuice |
+| 323 | 618 | JuicyJuice |
+| 324 | 618 | Jojo Ann |
 | 325 | 613 | Joseph Hunter |
 | 326 | 611 | Hen |
 | 327 | 607 | Taz |
@@ -341,20 +341,20 @@
 | 333 | 599 | Kea Sushi |
 | 334 | 598 | Stephanie Myers |
 | 335 | 596 | Jozette Smalarz |
-| 336 | 595 | tigerlilly |
-| 337 | 595 | Julian Gasque |
+| 336 | 595 | Julian Gasque |
+| 337 | 595 | tigerlilly |
 | 338 | 594 | Betsy Froemming |
-| 339 | 593 | Groovy Towerbuilder |
-| 340 | 593 | Chirpy Snapclear |
+| 339 | 593 | Chirpy Snapclear |
+| 340 | 593 | Groovy Towerbuilder |
 | 341 | 592 | Sarah Berry Stevens |
 | 342 | 590 | Funky Riserpiece |
 | 343 | 590 | Chummy Jumper |
-| 344 | 586 | Tiffany Morris Garner |
-| 345 | 583 | Chirpy Link |
-| 346 | 581 | Tawna Curry |
-| 347 | 581 | Danny Ortiz |
-| 348 | 581 | Maria Castillo |
-| 349 | 580 | Breezy Blockzone |
+| 344 | 588 | Breezy Blockzone |
+| 345 | 586 | Tiffany Morris Garner |
+| 346 | 583 | Chirpy Link |
+| 347 | 581 | Tawna Curry |
+| 348 | 581 | Danny Ortiz |
+| 349 | 581 | Maria Castillo |
 | 350 | 578 | Sisi RedVelvet Reneè |
 | 351 | 578 | Jay Dee |
 | 352 | 577 | Anthony McAlister |
@@ -362,21 +362,21 @@
 | 354 | 576 | June Hoffman |
 | 355 | 575 | Ash Gribble |
 | 356 | 575 | Swanky Brickzone |
-| 357 | 574 | Patrick Alley |
-| 358 | 574 | Alma López Morales |
+| 357 | 574 | Alma López Morales |
+| 358 | 574 | Patrick Alley |
 | 359 | 573 | Sandra Stark |
 | 360 | 572 | jojo |
 | 361 | 571 | Loopy Hitter |
-| 362 | 570 | Rodger Lines |
-| 363 | 570 | Fran Aaron-Ring |
+| 362 | 570 | Fran Aaron-Ring |
+| 363 | 570 | Rodger Lines |
 | 364 | 569 | Jeri Anne Stormo-Toman |
 | 365 | 567 | Kristen Hall |
 | 366 | 565 | Jumpy Builderpiece |
 | 367 | 563 | Shawna Downey |
 | 368 | 562 | Funky Tiler |
 | 369 | 557 | Tiffany Bunker-Hill |
-| 370 | 556 | Cherrypir05 |
-| 371 | 556 | jaz |
+| 370 | 556 | jaz |
+| 371 | 556 | Cherrypir05 |
 | 372 | 554 | Becky McCool |
 | 373 | 549 | Slinky Column |
 | 374 | 546 | Randy M Hatch |
@@ -1167,17 +1167,17 @@
 | 1159 | 164 | Maicy Darrah |
 | 1160 | 164 | CrystalP83 |
 | 1161 | 164 | Elizabeth Nicole Zahm |
-| 1162 | 164 | Sonia Cordero-Martinez |
-| 1163 | 164 | Cinnanin |
-| 1164 | 164 | Seraphina |
-| 1165 | 164 | Glitter |
-| 1166 | 163 | Tracey Hudspath |
-| 1167 | 163 | Jasmine Marie |
-| 1168 | 163 | ShortStackz Jones |
-| 1169 | 161 | Darren Miguel |
-| 1170 | 161 | Bold Clear |
-| 1171 | 161 | Lush Balanceblock |
-| 1172 | 161 | Crystal Morrin |
+| 1162 | 164 | Crystal Morrin |
+| 1163 | 164 | Sonia Cordero-Martinez |
+| 1164 | 164 | Cinnanin |
+| 1165 | 164 | Seraphina |
+| 1166 | 164 | Glitter |
+| 1167 | 163 | Tracey Hudspath |
+| 1168 | 163 | Jasmine Marie |
+| 1169 | 163 | ShortStackz Jones |
+| 1170 | 161 | Darren Miguel |
+| 1171 | 161 | Bold Clear |
+| 1172 | 161 | Lush Balanceblock |
 | 1173 | 161 | Jonathan Jackson |
 | 1174 | 161 | Cail |
 | 1175 | 161 | Brook Marguerite Benson |
