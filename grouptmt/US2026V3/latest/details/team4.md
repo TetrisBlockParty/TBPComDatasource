@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 03:31:12 UTC
+# Standings for team4 as of 2026-06-12 03:32:12 UTC
 
 **Total Participants:** 2650
 
@@ -1085,75 +1085,75 @@
 | 1077 | 186 | Keith Kosmicki |
 | 1078 | 185 | Hooti Smile |
 | 1079 | 185 | Ash |
-| 1080 | 183 | Joyce Hampton |
-| 1081 | 183 | Mar Mar |
-| 1082 | 183 | Lawanda Mayze |
-| 1083 | 183 | JP |
-| 1084 | 183 | Cflixer |
-| 1085 | 182 | Happy Filler |
-| 1086 | 182 | Patsy |
+| 1080 | 183 | Cflixer |
+| 1081 | 183 | Lawanda Mayze |
+| 1082 | 183 | QuickFreeze |
+| 1083 | 183 | Joyce Hampton |
+| 1084 | 183 | JP |
+| 1085 | 183 | Mar Mar |
+| 1086 | 182 | Lionel Hampton |
 | 1087 | 182 | Lori A Hamann |
-| 1088 | 182 | Lionel Hampton |
-| 1089 | 181 | Lady |
-| 1090 | 181 | Rio Rumble |
-| 1091 | 181 | Krissy Smith |
-| 1092 | 181 | SueSally |
-| 1093 | 181 | Scott If |
-| 1094 | 181 | Selina Moore |
-| 1095 | 181 | Melissa Schwager |
-| 1096 | 181 | Mary Miller |
-| 1097 | 180 | BethB |
+| 1088 | 182 | Patsy |
+| 1089 | 182 | Happy Filler |
+| 1090 | 181 | Mary Miller |
+| 1091 | 181 | Melissa Schwager |
+| 1092 | 181 | Krissy Smith |
+| 1093 | 181 | Selina Moore |
+| 1094 | 181 | Scott If |
+| 1095 | 181 | SueSally |
+| 1096 | 181 | Lady |
+| 1097 | 181 | Rio Rumble |
 | 1098 | 180 | Silly Rollbuilder |
-| 1099 | 180 | Melissa Wilson |
-| 1100 | 180 | Wyatt Karren |
-| 1101 | 180 | Hotstuff |
-| 1102 | 180 | Jaime Haggerty |
-| 1103 | 180 | Charissa W Walton |
-| 1104 | 180 | Krista Diaz |
-| 1105 | 180 | George Marshburn |
-| 1106 | 179 | Giggly Stackbuilder |
+| 1099 | 180 | Hotstuff |
+| 1100 | 180 | Melissa Wilson |
+| 1101 | 180 | George Marshburn |
+| 1102 | 180 | Krista Diaz |
+| 1103 | 180 | BethB |
+| 1104 | 180 | Charissa W Walton |
+| 1105 | 180 | Wyatt Karren |
+| 1106 | 180 | Jaime Haggerty |
 | 1107 | 179 | Dru Lui |
-| 1108 | 178 | Cozy Builderfit |
+| 1108 | 179 | Giggly Stackbuilder |
 | 1109 | 178 | Rin |
 | 1110 | 178 | Jacqueline Arce |
-| 1111 | 178 | Renzo Tonini |
+| 1111 | 178 | Cozy Builderfit |
 | 1112 | 178 | Krazylegzzzz |
-| 1113 | 178 | Peterson Cottontail |
-| 1114 | 177 | Gualberto Ramirez |
-| 1115 | 177 | QuickFreeze |
+| 1113 | 178 | Renzo Tonini |
+| 1114 | 178 | Peterson Cottontail |
+| 1115 | 177 | Nata Lia |
 | 1116 | 177 | Rainbow |
-| 1117 | 177 | Nata Lia |
-| 1118 | 176 | Jazzy Brickfit |
-| 1119 | 176 | Rocky |
-| 1120 | 176 | Pawpawbare |
+| 1117 | 177 | Gualberto Ramirez |
+| 1118 | 176 | Pawpawbare |
+| 1119 | 176 | Jazzy Brickfit |
+| 1120 | 176 | Rocky |
 | 1121 | 176 | Donny Keets |
 | 1122 | 175 | Shauntenay Campbell |
-| 1123 | 175 | Cheeky Linkpiece |
+| 1123 | 175 | Leslie Ramos |
 | 1124 | 175 | JustLessie |
-| 1125 | 175 | Leslie Ramos |
+| 1125 | 175 | Cheeky Linkpiece |
 | 1126 | 174 | Kay |
 | 1127 | 174 | Bridget Reilly |
-| 1128 | 173 | Nicole Ambrose |
-| 1129 | 173 | Shavondelia Williams |
-| 1130 | 173 | Allrise99 |
-| 1131 | 173 | Derkesha Huntley |
+| 1128 | 173 | Shavondelia Williams |
+| 1129 | 173 | Nicole Ambrose |
+| 1130 | 173 | Derkesha Huntley |
+| 1131 | 173 | Allrise99 |
 | 1132 | 172 | Wynisha Johnson |
 | 1133 | 172 | Chelsea Pigg |
 | 1134 | 172 | Marie Culbert |
 | 1135 | 171 | Baby cat |
 | 1136 | 170 | Marisela Alvarado |
-| 1137 | 169 | Lamont |
-| 1138 | 169 | Lush Match |
-| 1139 | 169 | Snappy Fill |
-| 1140 | 169 | Boldy Basegrid |
-| 1141 | 169 | Samantha Brandt |
-| 1142 | 169 | Meghan Etchells |
-| 1143 | 169 | Jolly Fitblock |
-| 1144 | 169 | Kriss Owens Uptegrove |
-| 1145 | 169 | White As Snow |
-| 1146 | 169 | Hayze |
-| 1147 | 168 | Caiti O'Keefe |
-| 1148 | 168 | Crystal Morrin |
+| 1137 | 169 | Meghan Etchells |
+| 1138 | 169 | White As Snow |
+| 1139 | 169 | Boldy Basegrid |
+| 1140 | 169 | Lush Match |
+| 1141 | 169 | Kriss Owens Uptegrove |
+| 1142 | 169 | Hayze |
+| 1143 | 169 | Snappy Fill |
+| 1144 | 169 | Jolly Fitblock |
+| 1145 | 169 | Lamont |
+| 1146 | 169 | Samantha Brandt |
+| 1147 | 168 | Crystal Morrin |
+| 1148 | 168 | Caiti O'Keefe |
 | 1149 | 168 | Joha Mldo Castillo |
 | 1150 | 168 | Heather Brown |
 | 1151 | 168 | Leslie |
