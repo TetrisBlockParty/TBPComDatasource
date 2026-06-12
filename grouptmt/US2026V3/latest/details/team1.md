@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 02:30:49 UTC
+# Standings for team1 as of 2026-06-12 02:31:24 UTC
 
 **Total Participants:** 2587
 
@@ -48,12 +48,12 @@
 | 40 | 4077 | FallDee |
 | 41 | 3972 | Will |
 | 42 | 3965 | Jo NewmindNewfocus Bell |
-| 43 | 3858 | Jennifer To |
-| 44 | 3763 | Sha Harris |
-| 45 | 3642 | Yolanda McDonald |
-| 46 | 3630 | Hyper Slamdrop |
-| 47 | 3609 | Chill Clusterer |
-| 48 | 3598 | Tootsie Pop |
+| 43 | 3898 | Tootsie Pop |
+| 44 | 3858 | Jennifer To |
+| 45 | 3763 | Sha Harris |
+| 46 | 3642 | Yolanda McDonald |
+| 47 | 3630 | Hyper Slamdrop |
+| 48 | 3609 | Chill Clusterer |
 | 49 | 3473 | Mimi 1.0 |
 | 50 | 3402 | JoJo |
 | 51 | 3275 | Shellzb Roberts |
@@ -116,11 +116,11 @@
 | 108 | 1789 | sha |
 | 109 | 1784 | Loopy Block |
 | 110 | 1771 | Yasmin Nakea Wright |
-| 111 | 1766 | Tameka Jones |
-| 112 | 1766 | Roberta Lynn |
-| 113 | 1764 | Sanjuro |
-| 114 | 1756 | BYM4L |
-| 115 | 1751 | Danielle DeLozier Plesec |
+| 111 | 1771 | Danielle DeLozier Plesec |
+| 112 | 1766 | Tameka Jones |
+| 113 | 1766 | Roberta Lynn |
+| 114 | 1764 | Sanjuro |
+| 115 | 1756 | BYM4L |
 | 116 | 1737 | Rolanda Williams |
 | 117 | 1713 | rls |
 | 118 | 1668 | Anthony Washington |
@@ -262,12 +262,12 @@
 | 254 | 782 | Janice Mowel Curtiss |
 | 255 | 774 | Ottison Dianna |
 | 256 | 772 | Latisha Fairley |
-| 257 | 766 | Shameka Thrasher |
-| 258 | 758 | e |
+| 257 | 770 | Hailey Hil |
+| 258 | 766 | Shameka Thrasher |
 | 259 | 758 | Deveda Williams |
-| 260 | 756 | Breezy Dashpiece |
-| 261 | 754 | Jhaime |
-| 262 | 750 | Hailey Hil |
+| 260 | 758 | e |
+| 261 | 756 | Breezy Dashpiece |
+| 262 | 754 | Jhaime |
 | 263 | 740 | Spicy Risepiece |
 | 264 | 736 | Snippy Breaker |
 | 265 | 734 | Rayya Kiser |
@@ -1287,26 +1287,26 @@
 | 1279 | 129 | Ounquan Wright |
 | 1280 | 129 | Chino Baby |
 | 1281 | 129 | Hyper Patternline |
-| 1282 | 128 | Wacky Spinfit |
-| 1283 | 128 | Desi |
-| 1284 | 128 | Alonzo Kirkland |
-| 1285 | 128 | Keia Price |
-| 1286 | 128 | Brittany Britkany Marsden-Garrison |
-| 1287 | 128 | Lazy Matchgrid |
-| 1288 | 127 | Antoinette GallowayJohnson |
-| 1289 | 127 | Sonia Binti Mfalme |
-| 1290 | 127 | Thelma Samuels |
-| 1291 | 127 | Derek Beverly |
-| 1292 | 127 | Pretty Yella |
+| 1282 | 129 | desmi |
+| 1283 | 128 | Wacky Spinfit |
+| 1284 | 128 | Desi |
+| 1285 | 128 | Alonzo Kirkland |
+| 1286 | 128 | Keia Price |
+| 1287 | 128 | Brittany Britkany Marsden-Garrison |
+| 1288 | 128 | Lazy Matchgrid |
+| 1289 | 127 | Pretty Yella |
+| 1290 | 127 | Antoinette GallowayJohnson |
+| 1291 | 127 | Sonia Binti Mfalme |
+| 1292 | 127 | Thelma Samuels |
 | 1293 | 127 | Tiffany Weathersby |
-| 1294 | 127 | Nissa |
-| 1295 | 126 | Jason Riley |
-| 1296 | 126 | desmi |
+| 1294 | 127 | Derek Beverly |
+| 1295 | 127 | Nissa |
+| 1296 | 126 | Jason Riley |
 | 1297 | 126 | Shannon Bradley |
-| 1298 | 125 | Kayd |
-| 1299 | 125 | Stephanie Vinson |
-| 1300 | 125 | Tagashel Gotuwe |
-| 1301 | 125 | Bruce Paléncia |
+| 1298 | 125 | Tagashel Gotuwe |
+| 1299 | 125 | Kayd |
+| 1300 | 125 | Bruce Paléncia |
+| 1301 | 125 | Stephanie Vinson |
 | 1302 | 125 | OG LUCKY |
 | 1303 | 124 | Tony P Burke |
 | 1304 | 124 | Grant Wilson |
@@ -2349,31 +2349,31 @@
 | 2341 | 14 | Nerdy Curvetile |
 | 2342 | 14 | Nikkiy Broseus |
 | 2343 | 14 | Lia Covington |
-| 2344 | 14 | Jazzy |
-| 2345 | 14 | Frisky Linkbuilder |
-| 2346 | 14 | Jerrone Epps |
-| 2347 | 14 | Stephanie Zuniga Tullock |
-| 2348 | 14 | Fancy Mover |
-| 2349 | 14 | Sylvia Lemons |
-| 2350 | 14 | Katrina Rojo |
-| 2351 | 14 | highland cow lover |
-| 2352 | 14 | Carmen Claudio |
-| 2353 | 13 | Duppyman |
-| 2354 | 13 | No Worries |
-| 2355 | 13 | Deanna Pinkard Harrington |
-| 2356 | 13 | Emma Adams |
-| 2357 | 13 | Schuyler Carson Jackson |
+| 2344 | 14 | Stephanie Zuniga Tullock |
+| 2345 | 14 | Carmen Claudio |
+| 2346 | 14 | highland cow lover |
+| 2347 | 14 | Katrina Rojo |
+| 2348 | 14 | Sylvia Lemons |
+| 2349 | 14 | Fancy Mover |
+| 2350 | 14 | Jerrone Epps |
+| 2351 | 14 | Frisky Linkbuilder |
+| 2352 | 14 | Jazzy |
+| 2353 | 13 | Fyah squad |
+| 2354 | 13 | Duppyman |
+| 2355 | 13 | Emma Adams |
+| 2356 | 13 | Schuyler Carson Jackson |
+| 2357 | 13 | Deanna Pinkard Harrington |
 | 2358 | 13 | Gregory Brown |
-| 2359 | 13 | Hasty Shatterbuilder |
-| 2360 | 13 | Rashon Trice |
-| 2361 | 13 | Regina Abney |
-| 2362 | 13 | Eddie Herring |
-| 2363 | 13 | Lakesha Jackson- Anderson |
-| 2364 | 13 | Tipsy Builderfit |
-| 2365 | 12 | Bold Matchpiece |
-| 2366 | 12 | Deanna Dunn-mayfield |
-| 2367 | 12 | toye69 |
-| 2368 | 12 | Fyah squad |
+| 2359 | 13 | No Worries |
+| 2360 | 13 | Hasty Shatterbuilder |
+| 2361 | 13 | Rashon Trice |
+| 2362 | 13 | Regina Abney |
+| 2363 | 13 | Eddie Herring |
+| 2364 | 13 | Lakesha Jackson- Anderson |
+| 2365 | 13 | Tipsy Builderfit |
+| 2366 | 12 | Bold Matchpiece |
+| 2367 | 12 | Deanna Dunn-mayfield |
+| 2368 | 12 | toye69 |
 | 2369 | 12 | Gracee Hodge Kunze |
 | 2370 | 12 | Andrae Johnson |
 | 2371 | 12 | Lavance Sams |
