@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 01:24:48 UTC
+# Standings for team4 as of 2026-06-12 01:25:22 UTC
 
 **Total Participants:** 2632
 
@@ -832,10 +832,10 @@
 | 824 | 260 | Kayla Haddenham |
 | 825 | 260 | CorieBe |
 | 826 | 260 | Marvin Mack |
-| 827 | 259 | Kristie ML SneekaPuff |
-| 828 | 259 | Jessica Peyton |
-| 829 | 258 | Ayobribri |
-| 830 | 258 | Elisha Thompson |
+| 827 | 259 | Elisha Thompson |
+| 828 | 259 | Kristie ML SneekaPuff |
+| 829 | 259 | Jessica Peyton |
+| 830 | 258 | Ayobribri |
 | 831 | 258 | Rae Saunders |
 | 832 | 258 | Ricky Colvin |
 | 833 | 258 | Maria Munoz |
