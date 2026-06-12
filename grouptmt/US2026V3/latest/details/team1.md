@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 01:22:45 UTC
+# Standings for team1 as of 2026-06-12 01:23:25 UTC
 
 **Total Participants:** 2575
 
@@ -84,7 +84,7 @@
 | 76 | 2263 | Zippy Lifter |
 | 77 | 2241 | Cherry Rose |
 | 78 | 2235 | Robyn Caldwell |
-| 79 | 2214 | Kimberly Hernandez |
+| 79 | 2217 | Kimberly Hernandez |
 | 80 | 2175 | Brian Bohanon II |
 | 81 | 2172 | She Higgy |
 | 82 | 2166 | Helen Smith |
@@ -224,8 +224,8 @@
 | 216 | 904 | Abraham Espaillat |
 | 217 | 903 | Choc |
 | 218 | 903 | Trendalyn Webb |
-| 219 | 901 | Jamal Itzjusmall Chambers |
-| 220 | 901 | Rachel Zimmerman |
+| 219 | 901 | Rachel Zimmerman |
+| 220 | 901 | Jamal Itzjusmall Chambers |
 | 221 | 887 | Tessa Gaskin |
 | 222 | 885 | Bambi Love |
 | 223 | 883 | Tasha Jones |
@@ -237,11 +237,11 @@
 | 229 | 862 | LaSharmeika Fancher |
 | 230 | 858 | Big Tina |
 | 231 | 857 | Johnathan Deese |
-| 232 | 848 | Sarah Clark |
-| 233 | 835 | Erin Sabol |
-| 234 | 833 | Desire Rice |
-| 235 | 832 | Chantelle Lee |
-| 236 | 831 | Genne Scott |
+| 232 | 851 | Genne Scott |
+| 233 | 848 | Sarah Clark |
+| 234 | 835 | Erin Sabol |
+| 235 | 833 | Desire Rice |
+| 236 | 832 | Chantelle Lee |
 | 237 | 825 | izzybella |
 | 238 | 825 | Aihpos |
 | 239 | 822 | Frisky Fall |
@@ -256,34 +256,34 @@
 | 248 | 786 | Dena Marie Lee |
 | 249 | 774 | Ottison Dianna |
 | 250 | 772 | Latisha Fairley |
-| 251 | 766 | Shameka Thrasher |
-| 252 | 758 | e |
+| 251 | 766 | TeeMaster Barber IsLyfe |
+| 252 | 766 | Shameka Thrasher |
 | 253 | 758 | Deveda Williams |
-| 254 | 756 | Breezy Dashpiece |
-| 255 | 754 | Jhaime |
-| 256 | 740 | Spicy Risepiece |
-| 257 | 734 | DaVonte' Cretter |
-| 258 | 734 | Dana Hawes |
-| 259 | 734 | Rayya Kiser |
-| 260 | 733 | Abigail Newman Sweet |
-| 261 | 731 | Nina Davis |
+| 254 | 758 | e |
+| 255 | 756 | Breezy Dashpiece |
+| 256 | 754 | Jhaime |
+| 257 | 740 | Spicy Risepiece |
+| 258 | 734 | DaVonte' Cretter |
+| 259 | 734 | Dana Hawes |
+| 260 | 734 | Rayya Kiser |
+| 261 | 733 | Abigail Newman Sweet |
 | 262 | 731 | Rhonda Williams Warner |
-| 263 | 730 | LaToya Chambers |
+| 263 | 731 | Nina Davis |
 | 264 | 730 | ing410 |
-| 265 | 728 | Snippy Breaker |
-| 266 | 727 | Tamara Johnson-Carter |
-| 267 | 725 | Tishauna Virgo |
-| 268 | 723 | Tremaine Hiler |
-| 269 | 720 | Hailey Hil |
-| 270 | 720 | Jessica Carter |
-| 271 | 719 | Tempee |
-| 272 | 717 | Janice Mowel Curtiss |
-| 273 | 713 | SyTheEvilGenius1 |
-| 274 | 711 | Chirpy Corner |
-| 275 | 710 | Ketrell Bailey |
-| 276 | 708 | Simply-Beautiful007 |
+| 265 | 730 | LaToya Chambers |
+| 266 | 728 | Snippy Breaker |
+| 267 | 727 | Tamara Johnson-Carter |
+| 268 | 725 | Tishauna Virgo |
+| 269 | 723 | Tremaine Hiler |
+| 270 | 720 | Hailey Hil |
+| 271 | 720 | Jessica Carter |
+| 272 | 719 | Tempee |
+| 273 | 717 | Janice Mowel Curtiss |
+| 274 | 713 | SyTheEvilGenius1 |
+| 275 | 711 | Chirpy Corner |
+| 276 | 710 | Ketrell Bailey |
 | 277 | 708 | Dion Gray |
-| 278 | 706 | TeeMaster Barber IsLyfe |
+| 278 | 708 | Simply-Beautiful007 |
 | 279 | 695 | Kenny 'Tailormade' Boyd |
 | 280 | 685 | Haley Bell |
 | 281 | 684 | Giggy Clusterer |
@@ -905,13 +905,13 @@
 | 897 | 231 | Tyiesha Pie Farmer |
 | 898 | 231 | toxictonic92 |
 | 899 | 231 | 214Petty |
-| 900 | 230 | Duncan Timothy |
-| 901 | 230 | Crtjstr |
-| 902 | 230 | Nerdy Wipefit |
-| 903 | 229 | Angela Kitchens |
-| 904 | 229 | Tanesha Ga'sFinest Corbett |
-| 905 | 229 | Sara |
-| 906 | 229 | MrsDontPlay |
+| 900 | 231 | MrsDontPlay |
+| 901 | 230 | Duncan Timothy |
+| 902 | 230 | Crtjstr |
+| 903 | 230 | Nerdy Wipefit |
+| 904 | 229 | Angela Kitchens |
+| 905 | 229 | Tanesha Ga'sFinest Corbett |
+| 906 | 229 | Sara |
 | 907 | 227 | Nikita Jones |
 | 908 | 227 | Tina Bongcayao |
 | 909 | 226 | Stephen Providenti |
