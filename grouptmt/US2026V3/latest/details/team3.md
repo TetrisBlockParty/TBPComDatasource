@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-12 03:09:13 UTC
+# Standings for team3 as of 2026-06-12 03:10:13 UTC
 
 **Total Participants:** 10163
 
@@ -484,11 +484,11 @@
 | 476 | 1572 | Jazzy Matchgrid |
 | 477 | 1572 | Targie Manuel |
 | 478 | 1568 | Carla Wright |
-| 479 | 1566 | Demitri Smith |
-| 480 | 1565 | Jasmina Kovacevic |
-| 481 | 1560 | Tammy Gustkey |
-| 482 | 1558 | Jade Olvera |
-| 483 | 1557 | Jolly Patternzone |
+| 479 | 1567 | Jolly Patternzone |
+| 480 | 1566 | Demitri Smith |
+| 481 | 1565 | Jasmina Kovacevic |
+| 482 | 1560 | Tammy Gustkey |
+| 483 | 1558 | Jade Olvera |
 | 484 | 1556 | Kendall Mulanax |
 | 485 | 1552 | lamayzing |
 | 486 | 1549 | Jean Jean |
