@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-12 00:04:20 UTC
+# Standings for team2 as of 2026-06-12 00:04:46 UTC
 
 **Total Participants:** 3051
 
@@ -578,18 +578,18 @@
 | 570 | 446 | Duke Morley |
 | 571 | 446 | Laura Melton |
 | 572 | 446 | Nicole Ashbaugh |
-| 573 | 444 | Amanda |
-| 574 | 443 | Nano. |
-| 575 | 442 | Nicole Good |
-| 576 | 441 | Rachel |
-| 577 | 440 | Michelle Jones |
-| 578 | 440 | Madonna Ash |
-| 579 | 439 | Jumpy Dashpiece |
-| 580 | 439 | Angie Bishop |
-| 581 | 438 | Katie Jones |
-| 582 | 438 | Joanie Swann Ruiter |
-| 583 | 437 | Amanda Ann Brooks |
-| 584 | 437 | Amber Carpenter |
+| 573 | 444 | Amber Carpenter |
+| 574 | 444 | Amanda |
+| 575 | 443 | Nano. |
+| 576 | 442 | Nicole Good |
+| 577 | 441 | Rachel |
+| 578 | 440 | Michelle Jones |
+| 579 | 440 | Madonna Ash |
+| 580 | 439 | Jumpy Dashpiece |
+| 581 | 439 | Angie Bishop |
+| 582 | 438 | Katie Jones |
+| 583 | 438 | Joanie Swann Ruiter |
+| 584 | 437 | Amanda Ann Brooks |
 | 585 | 436 | Shannon Curry Riggle |
 | 586 | 434 | Natasha Lee |
 | 587 | 434 | Josephina |
