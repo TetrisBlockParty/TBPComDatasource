@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-12 03:50:34 UTC
+# Standings for team3 as of 2026-06-12 03:51:12 UTC
 
 **Total Participants:** 10163
 
@@ -1642,85 +1642,85 @@
 | 1634 | 496 | Margie Bond |
 | 1635 | 496 | Kelli Marie |
 | 1636 | 496 | Marannda Lowell |
-| 1637 | 496 | Peppy Column |
-| 1638 | 495 | Elizabeth Cotton |
-| 1639 | 495 | Dana Parker |
-| 1640 | 495 | Nunu Moise |
-| 1641 | 494 | Trisha Gach |
-| 1642 | 494 | Cocoa |
-| 1643 | 494 | Diddeeznutz |
-| 1644 | 494 | OutlawNation |
-| 1645 | 494 | Lulu Zhang |
-| 1646 | 494 | Hyper Twist |
-| 1647 | 493 | Alisha Robinson |
-| 1648 | 493 | Sarah Moore Lempera |
-| 1649 | 493 | John Merry |
-| 1650 | 493 | Witty Combofall |
-| 1651 | 493 | Hiya |
-| 1652 | 492 | Jas Wong |
-| 1653 | 492 | Daniel LeBlanc |
-| 1654 | 492 | Sarah-Ashley Gantt |
-| 1655 | 491 | Chummy Crusher |
-| 1656 | 491 | pussssaaaayyyyyy |
-| 1657 | 491 | Calista Torres Ocasio |
-| 1658 | 491 | Zappy Glidepiece |
-| 1659 | 491 | Étoile Étoile |
-| 1660 | 490 | Kenney Burke |
-| 1661 | 490 | Chill Tiley |
-| 1662 | 490 | Taylor Sanders |
-| 1663 | 490 | Brandy Thompson |
-| 1664 | 490 | Jonathan Russell |
-| 1665 | 490 | Shavine Hill |
-| 1666 | 490 | Carolyn Johnson |
-| 1667 | 489 | Cory Monroe |
-| 1668 | 489 | Jeremy Pickard |
-| 1669 | 488 | Amber Schaar |
-| 1670 | 488 | Scott Allen McConnell |
-| 1671 | 488 | Hyper Pivoty |
-| 1672 | 488 | Derek Burgess |
-| 1673 | 487 | Corie Prosser |
-| 1674 | 487 | Jake Edwards |
-| 1675 | 487 | Valeria Guevara |
-| 1676 | 487 | Caitlin Wells |
-| 1677 | 487 | ToastedMallo |
-| 1678 | 487 | ElaineFrank TsoukiVazz |
-| 1679 | 487 | BigbaddieB |
-| 1680 | 486 | Kaley Edington |
-| 1681 | 486 | ODessa Bourque |
-| 1682 | 486 | Giggy Twisterfit |
-| 1683 | 486 | faith haley |
-| 1684 | 486 | Jolly Gridpiece |
-| 1685 | 485 | Scarface |
-| 1686 | 485 | Jackie DeMoss |
-| 1687 | 485 | Crystal Mueller |
-| 1688 | 485 | Cool Dropper |
-| 1689 | 484 | Jonathan Scott Mashburn |
-| 1690 | 484 | Queen420 |
-| 1691 | 483 | Jennifer Garrett Moore |
-| 1692 | 482 | Rachel Kallenborn |
-| 1693 | 482 | Alysha Morgan |
-| 1694 | 482 | Moe Mahmoud |
-| 1695 | 481 | LuckyChopstix |
-| 1696 | 481 | Jenodd |
-| 1697 | 480 | Zach |
-| 1698 | 480 | BC |
-| 1699 | 480 | Tiffany Janelle Keith-Davis |
-| 1700 | 480 | Jessie Steinke-Kimbrell |
-| 1701 | 480 | Candypockets84 |
-| 1702 | 480 | Sarah Stanonik |
-| 1703 | 479 | Tabitha Morse |
-| 1704 | 478 | Krista Pickett |
+| 1637 | 496 | Dasan Mann |
+| 1638 | 496 | Peppy Column |
+| 1639 | 495 | Elizabeth Cotton |
+| 1640 | 495 | Dana Parker |
+| 1641 | 495 | Nunu Moise |
+| 1642 | 494 | Trisha Gach |
+| 1643 | 494 | Cocoa |
+| 1644 | 494 | Diddeeznutz |
+| 1645 | 494 | OutlawNation |
+| 1646 | 494 | Lulu Zhang |
+| 1647 | 494 | Hyper Twist |
+| 1648 | 493 | Alisha Robinson |
+| 1649 | 493 | Sarah Moore Lempera |
+| 1650 | 493 | John Merry |
+| 1651 | 493 | Witty Combofall |
+| 1652 | 493 | Hiya |
+| 1653 | 492 | Jas Wong |
+| 1654 | 492 | Daniel LeBlanc |
+| 1655 | 492 | Sarah-Ashley Gantt |
+| 1656 | 491 | Chummy Crusher |
+| 1657 | 491 | pussssaaaayyyyyy |
+| 1658 | 491 | Calista Torres Ocasio |
+| 1659 | 491 | Zappy Glidepiece |
+| 1660 | 491 | Étoile Étoile |
+| 1661 | 490 | Kenney Burke |
+| 1662 | 490 | Chill Tiley |
+| 1663 | 490 | Taylor Sanders |
+| 1664 | 490 | Brandy Thompson |
+| 1665 | 490 | Jonathan Russell |
+| 1666 | 490 | Shavine Hill |
+| 1667 | 490 | Carolyn Johnson |
+| 1668 | 489 | Cory Monroe |
+| 1669 | 489 | Jeremy Pickard |
+| 1670 | 488 | Amber Schaar |
+| 1671 | 488 | Scott Allen McConnell |
+| 1672 | 488 | Hyper Pivoty |
+| 1673 | 488 | Derek Burgess |
+| 1674 | 487 | Corie Prosser |
+| 1675 | 487 | Jake Edwards |
+| 1676 | 487 | Valeria Guevara |
+| 1677 | 487 | Caitlin Wells |
+| 1678 | 487 | ToastedMallo |
+| 1679 | 487 | ElaineFrank TsoukiVazz |
+| 1680 | 487 | BigbaddieB |
+| 1681 | 486 | Kaley Edington |
+| 1682 | 486 | ODessa Bourque |
+| 1683 | 486 | Giggy Twisterfit |
+| 1684 | 486 | faith haley |
+| 1685 | 486 | Jolly Gridpiece |
+| 1686 | 485 | Scarface |
+| 1687 | 485 | Jackie DeMoss |
+| 1688 | 485 | Crystal Mueller |
+| 1689 | 485 | Cool Dropper |
+| 1690 | 484 | Jonathan Scott Mashburn |
+| 1691 | 484 | Queen420 |
+| 1692 | 483 | Jennifer Garrett Moore |
+| 1693 | 482 | Rachel Kallenborn |
+| 1694 | 482 | Alysha Morgan |
+| 1695 | 482 | Moe Mahmoud |
+| 1696 | 481 | LuckyChopstix |
+| 1697 | 481 | Jenodd |
+| 1698 | 480 | Zach |
+| 1699 | 480 | BC |
+| 1700 | 480 | Tiffany Janelle Keith-Davis |
+| 1701 | 480 | Jessie Steinke-Kimbrell |
+| 1702 | 480 | Candypockets84 |
+| 1703 | 480 | Sarah Stanonik |
+| 1704 | 479 | Tabitha Morse |
 | 1705 | 478 | Jakiwalene Norby |
-| 1706 | 478 | Dot Bear Lorece Aldridge |
-| 1707 | 478 | Lanisha Thomas |
-| 1708 | 478 | Christy Dawn Cook |
-| 1709 | 478 | Daniel Hayburn |
-| 1710 | 478 | Frilly Bouncer |
-| 1711 | 477 | Liz Barber |
-| 1712 | 477 | Yesenia Gonzalez |
-| 1713 | 477 | Bonnie Wilson |
-| 1714 | 476 | Yesenia Romero |
-| 1715 | 476 | Dasan Mann |
+| 1706 | 478 | Krista Pickett |
+| 1707 | 478 | Dot Bear Lorece Aldridge |
+| 1708 | 478 | Lanisha Thomas |
+| 1709 | 478 | Christy Dawn Cook |
+| 1710 | 478 | Daniel Hayburn |
+| 1711 | 478 | Frilly Bouncer |
+| 1712 | 477 | Liz Barber |
+| 1713 | 477 | Yesenia Gonzalez |
+| 1714 | 477 | Bonnie Wilson |
+| 1715 | 476 | Yesenia Romero |
 | 1716 | 476 | Frilly Corner |
 | 1717 | 476 | Stacy Virtuoso |
 | 1718 | 476 | James Morgan |
@@ -1750,8 +1750,8 @@
 | 1742 | 470 | Witty Combofall |
 | 1743 | 469 | Hockey mom |
 | 1744 | 469 | Brian Bates |
-| 1745 | 469 | Bobbi Hughes |
-| 1746 | 469 | W season |
+| 1745 | 469 | W season |
+| 1746 | 469 | Bobbi Hughes |
 | 1747 | 468 | Carlena Reed |
 | 1748 | 468 | Phantom Eyce |
 | 1749 | 468 | Lucy Loo |
