@@ -1,4 +1,4 @@
-# Standings for team3 as of 2026-06-12 03:08:34 UTC
+# Standings for team3 as of 2026-06-12 03:09:13 UTC
 
 **Total Participants:** 10163
 
@@ -4456,109 +4456,109 @@
 | 4448 | 175 | Samantha Lynn |
 | 4449 | 175 | MightyMomma7 |
 | 4450 | 175 | Kakalina Thayer |
-| 4451 | 174 | Kassy Johnson |
-| 4452 | 174 | Samantha Schwartz |
-| 4453 | 174 | Perky Link |
-| 4454 | 174 | Jason Magyar |
-| 4455 | 174 | Jere Cunningham |
-| 4456 | 174 | Angela Christine |
-| 4457 | 174 | Pamela Marie Tyler |
-| 4458 | 174 | Roseanna Marion |
-| 4459 | 174 | Marlana Rouse |
-| 4460 | 174 | Tori Morgan |
-| 4461 | 174 | Mighty Matchpiece |
-| 4462 | 174 | Brooke Russell |
-| 4463 | 174 | Stephanie Keovixay |
-| 4464 | 174 | Jolly Blockmatch |
-| 4465 | 174 | Abel Arriola |
-| 4466 | 173 | tenmilesky |
-| 4467 | 173 | Nicolas Ryan |
-| 4468 | 173 | Mermaid |
-| 4469 | 173 | Janna Chapple |
-| 4470 | 173 | Emily Dill |
-| 4471 | 173 | Giggy Rotater |
-| 4472 | 173 | Tabatha Hughes |
-| 4473 | 173 | Mica |
+| 4451 | 175 | Julie Johannessohn Oliver |
+| 4452 | 174 | Kassy Johnson |
+| 4453 | 174 | Pamela Marie Tyler |
+| 4454 | 174 | Samantha Schwartz |
+| 4455 | 174 | Perky Link |
+| 4456 | 174 | Jason Magyar |
+| 4457 | 174 | Angela Christine |
+| 4458 | 174 | Jere Cunningham |
+| 4459 | 174 | Roseanna Marion |
+| 4460 | 174 | Marlana Rouse |
+| 4461 | 174 | Tori Morgan |
+| 4462 | 174 | Mighty Matchpiece |
+| 4463 | 174 | Brooke Russell |
+| 4464 | 174 | Stephanie Keovixay |
+| 4465 | 174 | Jolly Blockmatch |
+| 4466 | 174 | Abel Arriola |
+| 4467 | 173 | tenmilesky |
+| 4468 | 173 | Nicolas Ryan |
+| 4469 | 173 | Mermaid |
+| 4470 | 173 | Janna Chapple |
+| 4471 | 173 | Itputsthelotionontheskin |
+| 4472 | 173 | Giggy Rotater |
+| 4473 | 173 | Tabatha Hughes |
 | 4474 | 173 | Tina Innis |
-| 4475 | 173 | Itputsthelotionontheskin |
-| 4476 | 173 | Florence |
-| 4477 | 173 | shelby |
-| 4478 | 173 | Lauren |
-| 4479 | 172 | Chummy Tetriblast |
-| 4480 | 172 | Cassie Mueller |
-| 4481 | 172 | Neek Emerson |
-| 4482 | 172 | Tina |
-| 4483 | 172 | Hoppyfizzy |
-| 4484 | 172 | Becca |
-| 4485 | 172 | Chuck Sarah Metters |
-| 4486 | 172 | Fancy Snapbuilder |
-| 4487 | 172 | Gina Morgan |
-| 4488 | 172 | Real motion on Tictok |
-| 4489 | 172 | Victoria Smith |
-| 4490 | 172 | Quirky Fitline |
-| 4491 | 172 | Marc Mekeel |
-| 4492 | 172 | Carrie Davis |
-| 4493 | 172 | Dream |
-| 4494 | 172 | Brittney Wilcox |
-| 4495 | 172 | Alison Gomes |
-| 4496 | 171 | Daring Demolitionist |
-| 4497 | 171 | Antkc Petebrick |
-| 4498 | 171 | Trystandb |
-| 4499 | 171 | Warren Rice |
-| 4500 | 171 | Jay King |
-| 4501 | 171 | Bunns |
-| 4502 | 171 | Evelyn Diaz |
-| 4503 | 171 | Wayne Bonilla |
-| 4504 | 171 | Amber Fina |
-| 4505 | 171 | Hawkgirl |
-| 4506 | 171 | Cheeky Curvetile |
-| 4507 | 171 | Jess Sparkles |
-| 4508 | 171 | Plucky Patternblock |
-| 4509 | 170 | Bubbly Zone |
-| 4510 | 170 | nastynate |
-| 4511 | 170 | Pokemon |
-| 4512 | 170 | Caryn Elise McEndarfer |
-| 4513 | 170 | Schron Stokes |
+| 4475 | 173 | Mica |
+| 4476 | 173 | Emily Dill |
+| 4477 | 173 | Florence |
+| 4478 | 173 | shelby |
+| 4479 | 173 | Lauren |
+| 4480 | 172 | Chummy Tetriblast |
+| 4481 | 172 | Cassie Mueller |
+| 4482 | 172 | Neek Emerson |
+| 4483 | 172 | Tina |
+| 4484 | 172 | Hoppyfizzy |
+| 4485 | 172 | Gina Morgan |
+| 4486 | 172 | Real motion on Tictok |
+| 4487 | 172 | Quirky Fitline |
+| 4488 | 172 | Victoria Smith |
+| 4489 | 172 | Marc Mekeel |
+| 4490 | 172 | Fancy Snapbuilder |
+| 4491 | 172 | Chuck Sarah Metters |
+| 4492 | 172 | Becca |
+| 4493 | 172 | Carrie Davis |
+| 4494 | 172 | Dream |
+| 4495 | 172 | Brittney Wilcox |
+| 4496 | 172 | Alison Gomes |
+| 4497 | 171 | Daring Demolitionist |
+| 4498 | 171 | Antkc Petebrick |
+| 4499 | 171 | Trystandb |
+| 4500 | 171 | Warren Rice |
+| 4501 | 171 | Jay King |
+| 4502 | 171 | Bunns |
+| 4503 | 171 | Evelyn Diaz |
+| 4504 | 171 | Wayne Bonilla |
+| 4505 | 171 | Amber Fina |
+| 4506 | 171 | Hawkgirl |
+| 4507 | 171 | Cheeky Curvetile |
+| 4508 | 171 | Jess Sparkles |
+| 4509 | 171 | Plucky Patternblock |
+| 4510 | 170 | Bubbly Zone |
+| 4511 | 170 | nastynate |
+| 4512 | 170 | Pokemon |
+| 4513 | 170 | Caryn Elise McEndarfer |
 | 4514 | 170 | ItsAlive |
-| 4515 | 170 | Brooke Shambles |
-| 4516 | 170 | Jessie Ann |
-| 4517 | 170 | Spunky Piececlear |
-| 4518 | 170 | Rene Paul Dudoussat |
-| 4519 | 170 | Reva VanHouten |
-| 4520 | 170 | OC EA NE |
-| 4521 | 170 | MAFIA |
-| 4522 | 170 | Tiffany Brookover |
-| 4523 | 170 | Slvckk Tayle |
-| 4524 | 170 | Jacinda Daugherty |
-| 4525 | 170 | Melissa Marie |
-| 4526 | 170 | Brandon S. Dandy |
-| 4527 | 170 | Karma Braxton |
-| 4528 | 170 | Melody Ann |
-| 4529 | 170 | Twisty Bridgepiece |
-| 4530 | 170 | Dustin Albright |
-| 4531 | 170 | Maleia Dunn |
-| 4532 | 170 | Bell |
-| 4533 | 170 | Michael Worthman |
-| 4534 | 169 | Wacky Bouncer |
-| 4535 | 169 | Dustin Mac McAnulty |
-| 4536 | 169 | Mark Harmon |
-| 4537 | 169 | Mark Anderson |
-| 4538 | 169 | Tinnkerbelle82 |
-| 4539 | 169 | TRam |
-| 4540 | 169 | Heather Howard Thompson |
-| 4541 | 169 | EarnMe |
-| 4542 | 169 | Debbie Cakez |
-| 4543 | 169 | Eryn Blauman |
-| 4544 | 169 | HolyShift |
-| 4545 | 169 | Julie Johannessohn Oliver |
-| 4546 | 169 | CheekyBugger |
-| 4547 | 169 | Renee Onetto Emmick |
-| 4548 | 169 | Bruce Townr |
-| 4549 | 169 | Lacey Lee Schnepper |
-| 4550 | 168 | Burna Brown |
-| 4551 | 168 | Robert Whitfield |
-| 4552 | 168 | Twisty Catcher |
-| 4553 | 168 | Ernest Kinsey |
+| 4515 | 170 | Schron Stokes |
+| 4516 | 170 | Brooke Shambles |
+| 4517 | 170 | Jessie Ann |
+| 4518 | 170 | Spunky Piececlear |
+| 4519 | 170 | Rene Paul Dudoussat |
+| 4520 | 170 | Reva VanHouten |
+| 4521 | 170 | OC EA NE |
+| 4522 | 170 | MAFIA |
+| 4523 | 170 | Tiffany Brookover |
+| 4524 | 170 | Slvckk Tayle |
+| 4525 | 170 | Jacinda Daugherty |
+| 4526 | 170 | Melissa Marie |
+| 4527 | 170 | Brandon S. Dandy |
+| 4528 | 170 | Karma Braxton |
+| 4529 | 170 | Melody Ann |
+| 4530 | 170 | Twisty Bridgepiece |
+| 4531 | 170 | Dustin Albright |
+| 4532 | 170 | Maleia Dunn |
+| 4533 | 170 | Bell |
+| 4534 | 170 | Michael Worthman |
+| 4535 | 169 | Wacky Bouncer |
+| 4536 | 169 | Dustin Mac McAnulty |
+| 4537 | 169 | Mark Harmon |
+| 4538 | 169 | Mark Anderson |
+| 4539 | 169 | Tinnkerbelle82 |
+| 4540 | 169 | TRam |
+| 4541 | 169 | Heather Howard Thompson |
+| 4542 | 169 | EarnMe |
+| 4543 | 169 | Renee Onetto Emmick |
+| 4544 | 169 | Bruce Townr |
+| 4545 | 169 | Debbie Cakez |
+| 4546 | 169 | Lacey Lee Schnepper |
+| 4547 | 169 | HolyShift |
+| 4548 | 169 | CheekyBugger |
+| 4549 | 169 | Eryn Blauman |
+| 4550 | 168 | Twisty Catcher |
+| 4551 | 168 | Ernest Kinsey |
+| 4552 | 168 | Burna Brown |
+| 4553 | 168 | Robert Whitfield |
 | 4554 | 168 | Megan Schultz |
 | 4555 | 168 | Sammie Wick |
 | 4556 | 168 | Brandon Ulmer |
