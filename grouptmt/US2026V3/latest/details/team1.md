@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 00:38:46 UTC
+# Standings for team1 as of 2026-06-12 00:39:24 UTC
 
 **Total Participants:** 2565
 
@@ -260,7 +260,7 @@
 | 252 | 758 | Deveda Williams |
 | 253 | 756 | Breezy Dashpiece |
 | 254 | 754 | Jhaime |
-| 255 | 749 | e |
+| 255 | 750 | e |
 | 256 | 740 | Spicy Risepiece |
 | 257 | 734 | Dana Hawes |
 | 258 | 734 | DaVonte' Cretter |
@@ -398,22 +398,22 @@
 | 390 | 503 | Amber Wilson |
 | 391 | 502 | Tamika Fisher |
 | 392 | 501 | Chris Rogers |
-| 393 | 500 | Denell Sims |
-| 394 | 500 | SherylU |
-| 395 | 498 | Christian Pham |
-| 396 | 498 | Julian Dickens Jr. |
-| 397 | 498 | Lindsey |
-| 398 | 498 | Michael Bethezar |
+| 393 | 500 | SherylU |
+| 394 | 500 | Denell Sims |
+| 395 | 498 | Julian Dickens Jr. |
+| 396 | 498 | Michael Bethezar |
+| 397 | 498 | Christian Pham |
+| 398 | 498 | Lindsey |
 | 399 | 498 | Jai |
-| 400 | 496 | Nerdy Climber |
-| 401 | 496 | MACHETEEDDIE513 |
+| 400 | 496 | MACHETEEDDIE513 |
+| 401 | 496 | Nerdy Climber |
 | 402 | 495 | Guard Up |
 | 403 | 495 | Cynthia Bradley |
 | 404 | 493 | Curtis T Cirno |
-| 405 | 492 | SANA |
-| 406 | 492 | Yadira Salgado |
-| 407 | 492 | Jae Thompson-Tyus |
-| 408 | 492 | Brenda Malachi-butler |
+| 405 | 492 | Yadira Salgado |
+| 406 | 492 | Jae Thompson-Tyus |
+| 407 | 492 | Brenda Malachi-butler |
+| 408 | 492 | SANA |
 | 409 | 490 | Kate Hancock Malicek |
 | 410 | 490 | Boldy Liner |
 | 411 | 488 | KeeKee Williams |
@@ -422,41 +422,41 @@
 | 414 | 485 | Natasha Rucker |
 | 415 | 484 | Joana Thompson |
 | 416 | 484 | Candy Lee |
-| 417 | 483 | Bold Clusterer |
-| 418 | 483 | Maribel Vasquez |
+| 417 | 483 | Maribel Vasquez |
+| 418 | 483 | Bold Clusterer |
 | 419 | 483 | Poppy Buildout |
-| 420 | 482 | Valerie Alexander |
-| 421 | 482 | Brave Clearbuilder |
+| 420 | 482 | Brave Clearbuilder |
+| 421 | 482 | Valerie Alexander |
 | 422 | 477 | Amy Lynn Leifheit |
 | 423 | 477 | Shalya Terry |
 | 424 | 476 | Nikki Hogan |
 | 425 | 476 | AshyTay |
 | 426 | 475 | Vernon Hoyt |
 | 427 | 474 | Tonya McElroy |
-| 428 | 473 | Lisa420 |
-| 429 | 473 | Faith Armone |
+| 428 | 473 | Faith Armone |
+| 429 | 473 | Lisa420 |
 | 430 | 471 | Chilly Wipebuilder |
 | 431 | 470 | Davionte DaeDae Hopson-Rodriguez |
-| 432 | 469 | Kala LaRicka |
-| 433 | 469 | Kendra McIntyre |
-| 434 | 469 | Taz Ballard |
+| 432 | 469 | Kendra McIntyre |
+| 433 | 469 | Taz Ballard |
+| 434 | 469 | Kala LaRicka |
 | 435 | 468 | C Lo Green |
-| 436 | 465 | Bubbly Piececlear |
-| 437 | 465 | HarleyJane |
-| 438 | 464 | Nate Myers |
-| 439 | 464 | Michele Simpson |
-| 440 | 464 | Wayne Savannah |
-| 441 | 464 | Ladybug |
-| 442 | 464 | kitten |
-| 443 | 460 | Kelli Couture |
-| 444 | 460 | Andra Ward |
-| 445 | 459 | Betsy B. Yohan |
-| 446 | 458 | CJ Robinson |
-| 447 | 457 | Saranoh13 |
+| 436 | 465 | HarleyJane |
+| 437 | 465 | Bubbly Piececlear |
+| 438 | 464 | kitten |
+| 439 | 464 | Ladybug |
+| 440 | 464 | Nate Myers |
+| 441 | 464 | Wayne Savannah |
+| 442 | 464 | Michele Simpson |
+| 443 | 462 | Shannon Callarman |
+| 444 | 460 | Kelli Couture |
+| 445 | 460 | Andra Ward |
+| 446 | 459 | Betsy B. Yohan |
+| 447 | 458 | CJ Robinson |
 | 448 | 457 | Kimberly Linares Hernandez |
-| 449 | 457 | Peppy Towerbuilder |
-| 450 | 456 | Jennah |
-| 451 | 456 | Shannon Callarman |
+| 449 | 457 | Saranoh13 |
+| 450 | 457 | Peppy Towerbuilder |
+| 451 | 456 | Jennah |
 | 452 | 455 | Matthieu Pistone |
 | 453 | 454 | tskmstr |
 | 454 | 454 | Smiley Clearpiece |
@@ -469,16 +469,16 @@
 | 461 | 451 | Gbnola |
 | 462 | 450 | SnazzyIvy |
 | 463 | 449 | Brittnay Wright |
-| 464 | 448 | Lucy |
+| 464 | 448 | Brand Nu |
 | 465 | 448 | Melanin Monroe-Dandridge |
-| 466 | 448 | Brand Nu |
+| 466 | 448 | Lucy |
 | 467 | 447 | Kyra Coleman |
 | 468 | 445 | Juan Alvarez |
 | 469 | 444 | LaShaun Stinson |
-| 470 | 443 | Tonia Ramos |
-| 471 | 443 | Lisa Fletcher |
-| 472 | 441 | LaTonya Myers |
-| 473 | 441 | Dennis J Herron II |
+| 470 | 443 | Lisa Fletcher |
+| 471 | 443 | Tonia Ramos |
+| 472 | 441 | Dennis J Herron II |
+| 473 | 441 | LaTonya Myers |
 | 474 | 440 | Carolyn Delphie |
 | 475 | 439 | Bubbly Slammer |
 | 476 | 439 | Sherry D Singleton |
@@ -878,21 +878,21 @@
 | 870 | 240 | Kennedi Brazziel |
 | 871 | 239 | Tina Blessed Cage |
 | 872 | 239 | Nicki JTho |
-| 873 | 238 | B.L. Perry |
-| 874 | 238 | Kp |
-| 875 | 237 | Meepycat |
-| 876 | 237 | Christina Singleton |
-| 877 | 237 | Lootch |
+| 873 | 238 | Elaine Pauley |
+| 874 | 238 | B.L. Perry |
+| 875 | 238 | Kp |
+| 876 | 237 | Meepycat |
+| 877 | 237 | Christina Singleton |
 | 878 | 237 | Yashicha Hertzock |
-| 879 | 236 | Rayshawn Cohen |
-| 880 | 235 | Oaklonboy mike |
-| 881 | 235 | Juan Lewis |
-| 882 | 234 | Rachel Renae Bettis |
-| 883 | 234 | Shameka Tiffany |
-| 884 | 234 | Macho Lewis |
-| 885 | 234 | Cj Chimelis |
-| 886 | 234 | Morenita Rodriguez |
-| 887 | 234 | Elaine Pauley |
+| 879 | 237 | Lootch |
+| 880 | 236 | Rayshawn Cohen |
+| 881 | 235 | Oaklonboy mike |
+| 882 | 235 | Juan Lewis |
+| 883 | 234 | Rachel Renae Bettis |
+| 884 | 234 | Shameka Tiffany |
+| 885 | 234 | Macho Lewis |
+| 886 | 234 | Cj Chimelis |
+| 887 | 234 | Morenita Rodriguez |
 | 888 | 233 | Aanngie Aanngie |
 | 889 | 233 | Ashley Love Pettit |
 | 890 | 233 | Derald Miller |
