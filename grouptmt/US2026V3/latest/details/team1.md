@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 00:32:46 UTC
+# Standings for team1 as of 2026-06-12 00:33:25 UTC
 
 **Total Participants:** 2565
 
@@ -315,7 +315,7 @@
 | 307 | 640 | Lashaunda |
 | 308 | 640 | Tanya Clayton |
 | 309 | 638 | De'Mear McKinney |
-| 310 | 630 | NastyFriend |
+| 310 | 631 | NastyFriend |
 | 311 | 628 | Joey Albright |
 | 312 | 627 | Kesha Brady |
 | 313 | 627 | Tobey Marberry |
@@ -546,27 +546,27 @@
 | 538 | 395 | Ysma Simmons |
 | 539 | 394 | MonaSparks |
 | 540 | 393 | Shawn Himes |
-| 541 | 391 | Kimmie Gargano |
-| 542 | 391 | whatever |
-| 543 | 391 | Shelly Everette |
-| 544 | 390 | Richelle Beck |
-| 545 | 390 | Daddy |
+| 541 | 392 | Mighty Dropper |
+| 542 | 391 | Kimmie Gargano |
+| 543 | 391 | whatever |
+| 544 | 391 | Shelly Everette |
+| 545 | 390 | Richelle Beck |
 | 546 | 390 | Breezy Catcher |
-| 547 | 389 | Seirra Robinson |
-| 548 | 388 | Shakmar |
-| 549 | 388 | Tara Clarke |
-| 550 | 388 | Tiffany Jean Hinson |
-| 551 | 387 | Mighty Dropper |
+| 547 | 390 | Daddy |
+| 548 | 389 | Seirra Robinson |
+| 549 | 388 | Tiffany Jean Hinson |
+| 550 | 388 | Shakmar |
+| 551 | 388 | Tara Clarke |
 | 552 | 387 | Twisty Brickfit |
 | 553 | 386 | Nona Harriel |
-| 554 | 385 | Jack Vlasak |
-| 555 | 385 | Meshia |
+| 554 | 385 | Meshia |
+| 555 | 385 | Jack Vlasak |
 | 556 | 384 | AnnaM |
-| 557 | 383 | AF Cruz |
-| 558 | 383 | SweetByNBy |
+| 557 | 383 | SweetByNBy |
+| 558 | 383 | AF Cruz |
 | 559 | 383 | Tina Sellars |
-| 560 | 382 | Ryan Runyan |
-| 561 | 382 | Ann Chung |
+| 560 | 382 | Ann Chung |
+| 561 | 382 | Ryan Runyan |
 | 562 | 381 | LaSharon Jackson |
 | 563 | 380 | Slinky Swipe |
 | 564 | 380 | Giggy Edgefit |
@@ -760,16 +760,16 @@
 | 752 | 286 | Rieshelda Marie White |
 | 753 | 286 | Kahliah Baker |
 | 754 | 285 | Jes Marie |
-| 755 | 284 | messyboots |
-| 756 | 284 | Dorian Griffin |
-| 757 | 284 | Guy Incognito |
-| 758 | 283 | Lawanda Conley |
-| 759 | 283 | Donna Payne |
-| 760 | 282 | Liqka |
-| 761 | 282 | Poyre Shelton |
-| 762 | 282 | Clipzby |
-| 763 | 282 | Perky Pusher |
-| 764 | 282 | Taneka Howell |
+| 755 | 285 | Taneka Howell |
+| 756 | 284 | messyboots |
+| 757 | 284 | Dorian Griffin |
+| 758 | 284 | Guy Incognito |
+| 759 | 283 | Lawanda Conley |
+| 760 | 283 | Donna Payne |
+| 761 | 282 | Liqka |
+| 762 | 282 | Poyre Shelton |
+| 763 | 282 | Clipzby |
+| 764 | 282 | Perky Pusher |
 | 765 | 282 | Tanisha Taylor |
 | 766 | 281 | Nekka |
 | 767 | 281 | ChunLi |
@@ -914,51 +914,51 @@
 | 906 | 227 | Tina Bongcayao |
 | 907 | 226 | Paul Pendley |
 | 908 | 226 | Stephen Providenti |
-| 909 | 225 | Dizzy Gridmatch |
-| 910 | 225 | Mike Hromowyk |
-| 911 | 225 | squints |
-| 912 | 225 | Essence Jones |
-| 913 | 225 | Vannie G |
-| 914 | 224 | jasi |
-| 915 | 224 | Lively Wipeout |
-| 916 | 224 | Boricua64 |
-| 917 | 224 | Cauiasia DeJ'ae |
+| 909 | 225 | Essence Jones |
+| 910 | 225 | squints |
+| 911 | 225 | Mike Hromowyk |
+| 912 | 225 | Vannie G |
+| 913 | 225 | Dizzy Gridmatch |
+| 914 | 224 | Boricua64 |
+| 915 | 224 | Cauiasia DeJ'ae |
+| 916 | 224 | Lively Wipeout |
+| 917 | 224 | jasi |
 | 918 | 223 | Witty Clear |
-| 919 | 222 | MrsDontPlay |
-| 920 | 222 | Mississippigirl Countrygirl |
-| 921 | 221 | NickyJay Jones |
+| 919 | 222 | Mississippigirl Countrygirl |
+| 920 | 222 | MrsDontPlay |
+| 921 | 221 | LaTonya Collier |
 | 922 | 221 | Melissa Hershberger |
-| 923 | 221 | LaTonya Collier |
-| 924 | 221 | nashsr |
-| 925 | 221 | Hasty Pivoty |
-| 926 | 221 | Angelique Talbot |
+| 923 | 221 | Hasty Pivoty |
+| 924 | 221 | Angelique Talbot |
+| 925 | 221 | nashsr |
+| 926 | 221 | NickyJay Jones |
 | 927 | 220 | Twisty Dashy |
-| 928 | 220 | Marshall Davis |
-| 929 | 220 | Stefan Flick Man |
+| 928 | 220 | Stefan Flick Man |
+| 929 | 220 | Marshall Davis |
 | 930 | 220 | Cheery Swiper |
 | 931 | 219 | Elaine Youmans |
 | 932 | 219 | Desiree Ryder |
 | 933 | 219 | Daphne Ceasar |
 | 934 | 219 | Shawna Passwater |
-| 935 | 218 | Tee Spinks |
+| 935 | 218 | Ivery Lee Grays Jr. |
 | 936 | 218 | KimChii |
-| 937 | 218 | Ivery Lee Grays Jr. |
-| 938 | 217 | Xana Zania Bopp |
+| 937 | 218 | Tee Spinks |
+| 938 | 217 | Felicia Yahuah Johnson |
 | 939 | 217 | Li-Li Ratliff |
-| 940 | 217 | Louise Parker |
-| 941 | 217 | Felicia Yahuah Johnson |
+| 940 | 217 | Xana Zania Bopp |
+| 941 | 217 | Louise Parker |
 | 942 | 216 | Jennifer Rogers |
 | 943 | 216 | DoMinique Lee |
-| 944 | 215 | Angie Smith |
-| 945 | 215 | Perky Balancer |
-| 946 | 215 | Nikiya |
-| 947 | 214 | Hyy |
-| 948 | 214 | Chanel White |
-| 949 | 214 | Mary Goode |
-| 950 | 214 | Amanda Woodruff |
-| 951 | 214 | Kanesha Jackson |
-| 952 | 212 | Ace Hardware |
-| 953 | 212 | Jaxon Antuna |
+| 944 | 216 | Jaxon Antuna |
+| 945 | 215 | Angie Smith |
+| 946 | 215 | Perky Balancer |
+| 947 | 215 | Nikiya |
+| 948 | 214 | Hyy |
+| 949 | 214 | Chanel White |
+| 950 | 214 | Mary Goode |
+| 951 | 214 | Amanda Woodruff |
+| 952 | 214 | Kanesha Jackson |
+| 953 | 212 | Ace Hardware |
 | 954 | 211 | Poppy Smasher |
 | 955 | 211 | Terrie |
 | 956 | 210 | LAhoneybun82 |
@@ -971,11 +971,11 @@
 | 963 | 209 | Bouncy Glide |
 | 964 | 208 | Mikemike Zonethree |
 | 965 | 208 | Ayanna James |
-| 966 | 207 | Kizzy Clark |
-| 967 | 207 | Naee Bee |
-| 968 | 207 | Kayel Good |
-| 969 | 206 | Christopher Shaw-Black |
-| 970 | 206 | Audrey Gestring |
+| 966 | 207 | Naee Bee |
+| 967 | 207 | Kayel Good |
+| 968 | 207 | Kizzy Clark |
+| 969 | 206 | Audrey Gestring |
+| 970 | 206 | Christopher Shaw-Black |
 | 971 | 206 | Rochelle Nash-Evans |
 | 972 | 205 | Treneil Daffin |
 | 973 | 205 | Wrist Mask |
@@ -1207,8 +1207,8 @@
 | 1199 | 144 | Tammy Collins |
 | 1200 | 144 | Crafty Link |
 | 1201 | 144 | Khatyrah Burnette |
-| 1202 | 143 | Terrence Webster |
-| 1203 | 143 | Latisha West |
+| 1202 | 144 | Latisha West |
+| 1203 | 143 | Terrence Webster |
 | 1204 | 142 | Lateef |
 | 1205 | 141 | star |
 | 1206 | 141 | Kevin Turner |
@@ -1346,10 +1346,10 @@
 | 1338 | 116 | Silly Spinblock |
 | 1339 | 116 | Amanda Bell |
 | 1340 | 116 | Jeremy Pope |
-| 1341 | 116 | Jeffrey Pierce-Overton |
+| 1341 | 116 | Duane Thomas Lmt |
 | 1342 | 116 | Demetrice Buck Wilson |
-| 1343 | 115 | Shiny Lift |
-| 1344 | 115 | Duane Thomas Lmt |
+| 1343 | 116 | Jeffrey Pierce-Overton |
+| 1344 | 115 | Shiny Lift |
 | 1345 | 115 | WOOLFF |
 | 1346 | 115 | Elizabeth Hopkins |
 | 1347 | 114 | Pharen Oneofakind Frazier |
