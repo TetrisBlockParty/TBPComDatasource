@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 02:02:45 UTC
+# Standings for team1 as of 2026-06-12 02:03:24 UTC
 
 **Total Participants:** 2584
 
@@ -47,12 +47,12 @@
 | 39 | 4159 | Mary Jenkins |
 | 40 | 3965 | Jo NewmindNewfocus Bell |
 | 41 | 3823 | Jennifer To |
-| 42 | 3763 | Sha Harris |
-| 43 | 3752 | Will |
-| 44 | 3642 | Yolanda McDonald |
-| 45 | 3630 | Hyper Slamdrop |
-| 46 | 3609 | Chill Clusterer |
-| 47 | 3561 | FallDee |
+| 42 | 3792 | Will |
+| 43 | 3763 | Sha Harris |
+| 44 | 3709 | FallDee |
+| 45 | 3642 | Yolanda McDonald |
+| 46 | 3630 | Hyper Slamdrop |
+| 47 | 3609 | Chill Clusterer |
 | 48 | 3473 | Mimi 1.0 |
 | 49 | 3402 | JoJo |
 | 50 | 3275 | Shellzb Roberts |
@@ -167,7 +167,7 @@
 | 159 | 1256 | Raymond Keeler |
 | 160 | 1244 | Cece Fowler |
 | 161 | 1236 | ELM |
-| 162 | 1235 | Lesley Brunkus Cianfaglione |
+| 162 | 1236 | Lesley Brunkus Cianfaglione |
 | 163 | 1227 | KenpachisGirl |
 | 164 | 1220 | Christana Imjustbutton Stone |
 | 165 | 1218 | Quirky Fallgrid |
@@ -349,12 +349,12 @@
 | 341 | 576 | Cachet A Ward |
 | 342 | 574 | JaClanDiah |
 | 343 | 574 | Heather Aurelia |
-| 344 | 573 | Amy Villalpando |
+| 344 | 573 | Shannon Callarman |
 | 345 | 573 | Telisha Mims |
 | 346 | 573 | Sean Parham |
-| 347 | 571 | Block |
+| 347 | 573 | Amy Villalpando |
 | 348 | 571 | Steve Reno |
-| 349 | 569 | Shannon Callarman |
+| 349 | 571 | Block |
 | 350 | 566 | Christopher Dreamsareality McEachin |
 | 351 | 563 | Jhonny Maii |
 | 352 | 563 | Bre Poston |
