@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 00:14:46 UTC
+# Standings for team4 as of 2026-06-12 00:15:19 UTC
 
 **Total Participants:** 2620
 
@@ -509,34 +509,34 @@
 | 501 | 407 | Heidi Hala |
 | 502 | 406 | Paulina Deitrick |
 | 503 | 405 | Lupe Chapa |
-| 504 | 405 | Jrr |
-| 505 | 405 | Alyson M Kehler |
+| 504 | 405 | Alyson M Kehler |
+| 505 | 405 | Jrr |
 | 506 | 405 | Destiny Starr LeValdo |
 | 507 | 405 | Tipsy Twistslam |
 | 508 | 404 | Steven Patshy |
 | 509 | 403 | LilyRose |
 | 510 | 402 | Dandy Cascade |
-| 511 | 402 | Manolo Canety |
-| 512 | 402 | Miss Beast |
-| 513 | 402 | Garden Girlie |
+| 511 | 402 | Miss Beast |
+| 512 | 402 | Garden Girlie |
+| 513 | 402 | Manolo Canety |
 | 514 | 401 | luluraine |
 | 515 | 401 | Candice Sellers Worley |
 | 516 | 399 | Bonique Bier |
 | 517 | 398 | Justin Sercu |
 | 518 | 397 | Chirpy Spinzone |
-| 519 | 396 | Mann Manson |
-| 520 | 396 | Missionary Meda |
-| 521 | 395 | PerfectPieces |
-| 522 | 395 | Kaps |
+| 519 | 396 | Missionary Meda |
+| 520 | 396 | Mann Manson |
+| 521 | 395 | Kaps |
+| 522 | 395 | PerfectPieces |
 | 523 | 395 | Danny Frausto |
 | 524 | 394 | Quirky Fitblock |
-| 525 | 393 | Mark Norton |
-| 526 | 393 | Laurie Patrick |
-| 527 | 393 | Queen B |
-| 528 | 392 | kaykay |
-| 529 | 392 | Cozy Patternbuilder |
-| 530 | 391 | Adi Patterson |
-| 531 | 391 | Matoka Shuford |
+| 525 | 393 | Matoka Shuford |
+| 526 | 393 | Mark Norton |
+| 527 | 393 | Laurie Patrick |
+| 528 | 393 | Queen B |
+| 529 | 392 | kaykay |
+| 530 | 392 | Cozy Patternbuilder |
+| 531 | 391 | Adi Patterson |
 | 532 | 390 | gabs |
 | 533 | 390 | Lady Dolphin |
 | 534 | 389 | Teester |
@@ -879,8 +879,8 @@
 | 871 | 240 | Sierra A Hortman |
 | 872 | 240 | Marie Adkins |
 | 873 | 240 | Bammer |
-| 874 | 240 | Elisha Thompson |
-| 875 | 239 | Jonelle Jacobs |
+| 874 | 240 | Jonelle Jacobs |
+| 875 | 240 | Elisha Thompson |
 | 876 | 239 | Joe Win |
 | 877 | 238 | Robert Moore |
 | 878 | 238 | Fancy Tilefall |
@@ -1251,11 +1251,11 @@
 | 1243 | 144 | Jodi Messere |
 | 1244 | 144 | Tyrell Sanders |
 | 1245 | 144 | Brook Marguerite Benson |
-| 1246 | 144 | Frisky Blocker |
-| 1247 | 143 | Amowe |
-| 1248 | 142 | Badmofo |
+| 1246 | 144 | Natalia Stone |
+| 1247 | 144 | Frisky Blocker |
+| 1248 | 143 | Amowe |
 | 1249 | 142 | Jonathan Jackson |
-| 1250 | 142 | Natalia Stone |
+| 1250 | 142 | Badmofo |
 | 1251 | 142 | Gwendolyn Langwinski |
 | 1252 | 142 | Clever Blockmatch |
 | 1253 | 142 | Chummy Twistpiece |
