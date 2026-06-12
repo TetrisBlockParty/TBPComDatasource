@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 00:20:44 UTC
+# Standings for team1 as of 2026-06-12 00:21:19 UTC
 
 **Total Participants:** 2562
 
@@ -11,7 +11,7 @@
 | 3 | 22000 | Kalynn Parks |
 | 4 | 17629 | Tyeina Johnson |
 | 5 | 15993 | Erika Windom |
-| 6 | 14928 | Peppy Piececlear |
+| 6 | 15028 | Peppy Piececlear |
 | 7 | 14874 | Tipsy Tetriblast |
 | 8 | 13684 | Carrie English |
 | 9 | 13581 | Timothy Robert |
@@ -225,10 +225,10 @@
 | 217 | 903 | Trendalyn Webb |
 | 218 | 903 | Choc |
 | 219 | 901 | Rachel Zimmerman |
-| 220 | 887 | Tessa Gaskin |
-| 221 | 885 | Bambi Love |
-| 222 | 883 | Tasha Jones |
-| 223 | 881 | Jamal Itzjusmall Chambers |
+| 220 | 901 | Jamal Itzjusmall Chambers |
+| 221 | 887 | Tessa Gaskin |
+| 222 | 885 | Bambi Love |
+| 223 | 883 | Tasha Jones |
 | 224 | 877 | Block King |
 | 225 | 877 | Stef Hu |
 | 226 | 868 | Analiza Ramos |
@@ -467,113 +467,113 @@
 | 459 | 450 | SnazzyIvy |
 | 460 | 449 | Brittnay Wright |
 | 461 | 448 | Lucy |
-| 462 | 448 | Melanin Monroe-Dandridge |
-| 463 | 448 | Brand Nu |
+| 462 | 448 | Brand Nu |
+| 463 | 448 | Melanin Monroe-Dandridge |
 | 464 | 447 | Kimberly Linares Hernandez |
 | 465 | 447 | Kyra Coleman |
 | 466 | 445 | Juan Alvarez |
 | 467 | 444 | LaShaun Stinson |
-| 468 | 443 | Tonia Ramos |
-| 469 | 443 | Lisa Fletcher |
+| 468 | 443 | Lisa Fletcher |
+| 469 | 443 | Tonia Ramos |
 | 470 | 443 | Shannon Callarman |
 | 471 | 441 | Dennis J Herron II |
 | 472 | 441 | LaTonya Myers |
 | 473 | 440 | Carolyn Delphie |
-| 474 | 439 | Bubbly Slammer |
+| 474 | 439 | Sherry D Singleton |
 | 475 | 439 | Asani CHumba |
-| 476 | 439 | Sherry D Singleton |
-| 477 | 436 | Twisty Pivot |
-| 478 | 436 | MindlessMic |
-| 479 | 435 | Stacy Nicole |
-| 480 | 435 | Londa Londa |
-| 481 | 434 | Tosha Michelle |
-| 482 | 434 | Saucy Faller |
+| 476 | 439 | Bubbly Slammer |
+| 477 | 436 | MindlessMic |
+| 478 | 436 | Twisty Pivot |
+| 479 | 435 | Londa Londa |
+| 480 | 435 | Stacy Nicole |
+| 481 | 434 | Saucy Faller |
+| 482 | 434 | Tosha Michelle |
 | 483 | 433 | Crystal Cheresnowsky |
 | 484 | 433 | Kristine Marie Palmer |
-| 485 | 432 | James Bryant II |
-| 486 | 432 | Jas |
+| 485 | 432 | Jas |
+| 486 | 432 | James Bryant II |
 | 487 | 432 | blockman |
 | 488 | 431 | Abby |
 | 489 | 430 | Salim Thugger |
 | 490 | 429 | CauliMac |
-| 491 | 429 | RMGreen |
-| 492 | 428 | Jelyfish |
+| 491 | 429 | Slinky Snapbuilder |
+| 492 | 429 | RMGreen |
 | 493 | 428 | Eric Spencer Whitaker |
-| 494 | 425 | Lounique |
-| 495 | 425 | Lady T |
-| 496 | 424 | Brittanie Wardlow |
-| 497 | 423 | Holly Baker |
-| 498 | 423 | Kimberly Anderson |
-| 499 | 422 | The DUBZ |
+| 494 | 428 | Jelyfish |
+| 495 | 425 | Lounique |
+| 496 | 425 | Lady T |
+| 497 | 424 | Brittanie Wardlow |
+| 498 | 423 | Holly Baker |
+| 499 | 423 | Kimberly Anderson |
 | 500 | 422 | Shanns |
-| 501 | 420 | Ashley MyBeauty Daniels |
-| 502 | 420 | Sara Meri |
-| 503 | 420 | Glitzy Patternline |
-| 504 | 419 | Giggy Tower |
-| 505 | 419 | FunTime |
-| 506 | 419 | Stephen Glaze |
-| 507 | 418 | Cortaz Lawrie |
-| 508 | 417 | John Staub |
-| 509 | 416 | Silly Edgepiece |
-| 510 | 416 | De'Nell Edwards |
-| 511 | 414 | Melissa D. M. Hornsby |
+| 501 | 422 | The DUBZ |
+| 502 | 420 | Glitzy Patternline |
+| 503 | 420 | Ashley MyBeauty Daniels |
+| 504 | 420 | Sara Meri |
+| 505 | 419 | Giggy Tower |
+| 506 | 419 | FunTime |
+| 507 | 419 | Stephen Glaze |
+| 508 | 418 | Cortaz Lawrie |
+| 509 | 417 | John Staub |
+| 510 | 416 | Silly Edgepiece |
+| 511 | 416 | De'Nell Edwards |
 | 512 | 414 | Giddy Staggerpiece |
 | 513 | 414 | Sammie Walker |
-| 514 | 413 | Dizzy Dashy |
-| 515 | 412 | Jessica Kirby |
-| 516 | 412 | Montego Allen |
-| 517 | 411 | Tyree Tman Shinette |
-| 518 | 410 | Nisha Sunshine Jenkins |
+| 514 | 414 | Melissa D. M. Hornsby |
+| 515 | 413 | Dizzy Dashy |
+| 516 | 412 | Jessica Kirby |
+| 517 | 412 | Montego Allen |
+| 518 | 411 | Tyree Tman Shinette |
 | 519 | 410 | Jean Regis |
-| 520 | 409 | Still Ten Tay |
-| 521 | 409 | Marsha Earl |
-| 522 | 408 | Michelle Fowler |
-| 523 | 408 | Hasty Rollzone |
-| 524 | 406 | Jessie N Michael Silvers |
-| 525 | 405 | Slinky Snapbuilder |
-| 526 | 404 | Emily Wright |
-| 527 | 403 | Brittany Fells |
-| 528 | 403 | Tesiree Cray |
-| 529 | 403 | Aaron Hartmann |
-| 530 | 402 | Trusi Rusi |
-| 531 | 401 | Cynda Cyn |
-| 532 | 400 | Christina Rebecca |
+| 520 | 410 | Nisha Sunshine Jenkins |
+| 521 | 409 | Still Ten Tay |
+| 522 | 409 | Marsha Earl |
+| 523 | 408 | LuckyStar |
+| 524 | 408 | Hasty Rollzone |
+| 525 | 408 | Michelle Fowler |
+| 526 | 406 | Jessie N Michael Silvers |
+| 527 | 404 | Emily Wright |
+| 528 | 403 | Brittany Fells |
+| 529 | 403 | Tesiree Cray |
+| 530 | 403 | Aaron Hartmann |
+| 531 | 402 | Trusi Rusi |
+| 532 | 401 | Cynda Cyn |
 | 533 | 400 | Bbyunicorn |
-| 534 | 396 | Chirpy Buildgrid |
-| 535 | 396 | Aridevina |
-| 536 | 395 | Ysma Simmons |
-| 537 | 395 | Rachel |
-| 538 | 394 | MonaSparks |
-| 539 | 393 | Shawn Himes |
-| 540 | 391 | Kimmie Gargano |
-| 541 | 391 | whatever |
-| 542 | 391 | Shelly Everette |
-| 543 | 390 | Breezy Catcher |
+| 534 | 400 | Christina Rebecca |
+| 535 | 396 | Chirpy Buildgrid |
+| 536 | 396 | Aridevina |
+| 537 | 395 | Ysma Simmons |
+| 538 | 395 | Rachel |
+| 539 | 394 | MonaSparks |
+| 540 | 393 | Shawn Himes |
+| 541 | 391 | Kimmie Gargano |
+| 542 | 391 | whatever |
+| 543 | 391 | Shelly Everette |
 | 544 | 390 | Richelle Beck |
-| 545 | 390 | Daddy |
-| 546 | 389 | Seirra Robinson |
-| 547 | 388 | Shakmar |
-| 548 | 388 | Tara Clarke |
-| 549 | 388 | Tiffany Jean Hinson |
-| 550 | 387 | Twisty Brickfit |
-| 551 | 386 | Nona Harriel |
-| 552 | 385 | Jack Vlasak |
+| 545 | 390 | Breezy Catcher |
+| 546 | 390 | Daddy |
+| 547 | 389 | Seirra Robinson |
+| 548 | 388 | Shakmar |
+| 549 | 388 | Tara Clarke |
+| 550 | 388 | Tiffany Jean Hinson |
+| 551 | 387 | Twisty Brickfit |
+| 552 | 386 | Nona Harriel |
 | 553 | 385 | Meshia |
-| 554 | 384 | AnnaM |
-| 555 | 383 | SweetByNBy |
-| 556 | 383 | AF Cruz |
+| 554 | 385 | Jack Vlasak |
+| 555 | 384 | AnnaM |
+| 556 | 383 | SweetByNBy |
 | 557 | 383 | Tina Sellars |
-| 558 | 382 | Ryan Runyan |
-| 559 | 382 | Ann Chung |
-| 560 | 381 | LaSharon Jackson |
-| 561 | 380 | Giggy Edgefit |
-| 562 | 380 | LuckyStar |
-| 563 | 380 | Claudia Price |
-| 564 | 380 | Malcolm Stanley |
-| 565 | 380 | Slinky Swipe |
-| 566 | 380 | Daniel Santana |
-| 567 | 378 | Jolly Tilefall |
-| 568 | 378 | Kat |
+| 558 | 383 | AF Cruz |
+| 559 | 382 | Ryan Runyan |
+| 560 | 382 | Ann Chung |
+| 561 | 381 | LaSharon Jackson |
+| 562 | 380 | Slinky Swipe |
+| 563 | 380 | Giggy Edgefit |
+| 564 | 380 | Daniel Santana |
+| 565 | 380 | Claudia Price |
+| 566 | 380 | Malcolm Stanley |
+| 567 | 378 | Kat |
+| 568 | 378 | Jolly Tilefall |
 | 569 | 377 | Vera Beckford |
 | 570 | 377 | Kristie |
 | 571 | 377 | Chris Watson Draper |
