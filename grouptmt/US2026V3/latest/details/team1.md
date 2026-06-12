@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 01:52:49 UTC
+# Standings for team1 as of 2026-06-12 01:53:23 UTC
 
 **Total Participants:** 2582
 
@@ -202,10 +202,10 @@
 | 194 | 986 | Eugina Slater |
 | 195 | 985 | Marcheta Cervantez |
 | 196 | 981 | No_Other_Choice |
-| 197 | 975 | Ebony |
-| 198 | 972 | Tammye Turner |
-| 199 | 972 | Mikayla |
-| 200 | 970 | Elizabeth Vega Coreano |
+| 197 | 976 | Elizabeth Vega Coreano |
+| 198 | 975 | Ebony |
+| 199 | 972 | Tammye Turner |
+| 200 | 972 | Mikayla |
 | 201 | 968 | Karebear |
 | 202 | 964 | Byron Mario Cawthon |
 | 203 | 961 | Ebony Waynes-robinson |
@@ -286,24 +286,24 @@
 | 278 | 708 | Simply-Beautiful007 |
 | 279 | 708 | Dion Gray |
 | 280 | 695 | Kenny 'Tailormade' Boyd |
-| 281 | 686 | Calvin Green |
-| 282 | 685 | Haley Bell |
-| 283 | 680 | Charletha Williams |
-| 284 | 679 | Lashawn Wallace |
-| 285 | 678 | BabyCakes |
-| 286 | 677 | Sunny Clicky |
-| 287 | 676 | Dedra M Prester |
-| 288 | 676 | DellaLucretia Thomas |
-| 289 | 673 | Cheery Linkfall |
-| 290 | 671 | Anthony |
-| 291 | 668 | OhNoZer0 |
-| 292 | 668 | Tonya Thomas |
-| 293 | 667 | Jenna Renee |
-| 294 | 664 | Wild Out Nai |
-| 295 | 664 | NewEve |
-| 296 | 661 | Cheri Robinson |
-| 297 | 659 | DaGuy |
-| 298 | 659 | Mahagony Small |
+| 281 | 687 | Cheri Robinson |
+| 282 | 686 | Calvin Green |
+| 283 | 685 | Haley Bell |
+| 284 | 680 | Charletha Williams |
+| 285 | 679 | Lashawn Wallace |
+| 286 | 678 | BabyCakes |
+| 287 | 677 | Sunny Clicky |
+| 288 | 676 | Dedra M Prester |
+| 289 | 676 | DellaLucretia Thomas |
+| 290 | 673 | Cheery Linkfall |
+| 291 | 671 | Anthony |
+| 292 | 668 | OhNoZer0 |
+| 293 | 668 | Tonya Thomas |
+| 294 | 667 | Jenna Renee |
+| 295 | 664 | Wild Out Nai |
+| 296 | 664 | NewEve |
+| 297 | 659 | Mahagony Small |
+| 298 | 659 | DaGuy |
 | 299 | 658 | NastyFriend |
 | 300 | 656 | Slinky Party |
 | 301 | 655 | pooh |
@@ -412,11 +412,11 @@
 | 404 | 496 | MACHETEEDDIE513 |
 | 405 | 495 | Guard Up |
 | 406 | 495 | Cynthia Bradley |
-| 407 | 493 | Jae Thompson-Tyus |
-| 408 | 493 | Curtis T Cirno |
-| 409 | 492 | Yadira Salgado |
-| 410 | 492 | Brenda Malachi-butler |
-| 411 | 492 | Maribel Vasquez |
+| 407 | 495 | Maribel Vasquez |
+| 408 | 493 | Jae Thompson-Tyus |
+| 409 | 493 | Curtis T Cirno |
+| 410 | 492 | Yadira Salgado |
+| 411 | 492 | Brenda Malachi-butler |
 | 412 | 492 | SANA |
 | 413 | 490 | Boldy Liner |
 | 414 | 490 | Kate Hancock Malicek |
@@ -700,47 +700,47 @@
 | 692 | 311 | wmedina67 |
 | 693 | 311 | Sarah Steckbauer |
 | 694 | 311 | RylonJones |
-| 695 | 310 | Peppy Glider |
-| 696 | 310 | Frilly Shatterline |
+| 695 | 310 | Frilly Shatterline |
+| 696 | 310 | Peppy Glider |
 | 697 | 310 | Jen Hallin |
 | 698 | 310 | Brittany Sara Heldwein |
 | 699 | 309 | Kike Lua |
-| 700 | 309 | William Vidra |
-| 701 | 308 | Tonya Lee Sanders |
-| 702 | 308 | Spicy Shatterblock |
+| 700 | 309 | Cori Cleland |
+| 701 | 309 | William Vidra |
+| 702 | 308 | Tonya Lee Sanders |
 | 703 | 308 | BB |
-| 704 | 307 | Marbama |
-| 705 | 307 | Courtney Cicoria |
+| 704 | 308 | Spicy Shatterblock |
+| 705 | 307 | Marbama |
 | 706 | 307 | Octavia Bsb Johnson |
-| 707 | 306 | Mafio SO |
-| 708 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
-| 709 | 305 | Shalena Marie Humphrey |
+| 707 | 307 | Courtney Cicoria |
+| 708 | 306 | Mafio SO |
+| 709 | 306 | TBP-1C2272AE7663ADA7A8966591C95EA01Fpratter |
 | 710 | 305 | BonnieB |
-| 711 | 304 | Rufus |
-| 712 | 303 | crumb bumc |
-| 713 | 303 | Semaj Johnson |
-| 714 | 303 | Kelley Johnson |
-| 715 | 301 | Monica Fields |
-| 716 | 301 | Darrelle Short |
-| 717 | 301 | Lilly Brown |
-| 718 | 300 | Phillip White |
+| 711 | 305 | Shalena Marie Humphrey |
+| 712 | 304 | Rufus |
+| 713 | 303 | Kelley Johnson |
+| 714 | 303 | Semaj Johnson |
+| 715 | 303 | crumb bumc |
+| 716 | 301 | Lilly Brown |
+| 717 | 301 | Darrelle Short |
+| 718 | 301 | Monica Fields |
 | 719 | 300 | Kate Moses |
 | 720 | 300 | Cheryl Miller |
-| 721 | 300 | Carolyn Smith |
+| 721 | 300 | Phillip White |
 | 722 | 300 | Quitito1014 |
-| 723 | 300 | Lynnette WheelerBushnell |
-| 724 | 300 | Spadez1231 |
-| 725 | 299 | Don Ray Mc |
-| 726 | 299 | DeAngelo Sorrells |
-| 727 | 299 | Mom3granny2 |
-| 728 | 299 | Chandler Magee |
-| 729 | 297 | Mario Meliodas |
-| 730 | 296 | Antoinette Jones |
-| 731 | 296 | Christy Quick |
-| 732 | 296 | Cornelius Neal |
-| 733 | 295 | Tyler |
-| 734 | 294 | Dirty Deeds |
-| 735 | 294 | Cori Cleland |
+| 723 | 300 | Carolyn Smith |
+| 724 | 300 | Lynnette WheelerBushnell |
+| 725 | 300 | Spadez1231 |
+| 726 | 299 | Don Ray Mc |
+| 727 | 299 | DeAngelo Sorrells |
+| 728 | 299 | Mom3granny2 |
+| 729 | 299 | Chandler Magee |
+| 730 | 297 | Mario Meliodas |
+| 731 | 296 | Antoinette Jones |
+| 732 | 296 | Christy Quick |
+| 733 | 296 | Cornelius Neal |
+| 734 | 295 | Tyler |
+| 735 | 294 | Dirty Deeds |
 | 736 | 293 | Rhianna Dinki Austin |
 | 737 | 292 | Frankey Chi |
 | 738 | 292 | Gerold Folk Haddock |
@@ -1640,19 +1640,19 @@
 | 1632 | 69 | Anyelin |
 | 1633 | 69 | Towanda Chamberlain |
 | 1634 | 69 | Charlie Brown |
-| 1635 | 68 | Catherine McGowan |
-| 1636 | 68 | BigDawg Lessley |
-| 1637 | 68 | Livelovelaugh Ward |
-| 1638 | 68 | Saucy Crusher |
-| 1639 | 68 | Debora Honey Lientte Hopkins-Thompson |
-| 1640 | 68 | Ayeisha W |
-| 1641 | 68 | LoveLee |
-| 1642 | 67 | Purple Gem |
-| 1643 | 67 | Rose Chassé |
-| 1644 | 67 | Kikiness |
-| 1645 | 67 | Michele Elizabeth McKay-Johnson |
-| 1646 | 67 | Cheryl |
-| 1647 | 67 | Che Mika Che DeSilva |
+| 1635 | 69 | Che Mika Che DeSilva |
+| 1636 | 68 | Catherine McGowan |
+| 1637 | 68 | BigDawg Lessley |
+| 1638 | 68 | Livelovelaugh Ward |
+| 1639 | 68 | Saucy Crusher |
+| 1640 | 68 | Debora Honey Lientte Hopkins-Thompson |
+| 1641 | 68 | Ayeisha W |
+| 1642 | 68 | LoveLee |
+| 1643 | 67 | Purple Gem |
+| 1644 | 67 | Rose Chassé |
+| 1645 | 67 | Kikiness |
+| 1646 | 67 | Michele Elizabeth McKay-Johnson |
+| 1647 | 67 | Cheryl |
 | 1648 | 67 | Ericka C Branch |
 | 1649 | 67 | Jonathan White |
 | 1650 | 67 | Ray Eyes |
