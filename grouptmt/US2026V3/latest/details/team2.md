@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-12 00:34:48 UTC
+# Standings for team2 as of 2026-06-12 00:35:24 UTC
 
 **Total Participants:** 3053
 
@@ -124,10 +124,10 @@
 | 116 | 2160 | Kurt Brown |
 | 117 | 2112 | Alicia Ellenburg |
 | 118 | 2105 | Loopy Cascadepiece |
-| 119 | 2074 | Zappy Pattern |
-| 120 | 2073 | Giddy Slamdrop |
-| 121 | 2066 | Vistabrat |
-| 122 | 2063 | Deborah Boyce Minor |
+| 119 | 2083 | Deborah Boyce Minor |
+| 120 | 2074 | Zappy Pattern |
+| 121 | 2073 | Giddy Slamdrop |
+| 122 | 2066 | Vistabrat |
 | 123 | 2055 | Jayke Edward |
 | 124 | 2042 | Leah Lynn |
 | 125 | 2035 | Heather Marie-Tarlton Britt |
@@ -236,8 +236,8 @@
 | 228 | 1031 | Amber Miller Wirick |
 | 229 | 1026 | Sara Perkins |
 | 230 | 1013 | Steven |
-| 231 | 1009 | Ackerman 85 |
-| 232 | 1008 | H |
+| 231 | 1011 | H |
+| 232 | 1009 | Ackerman 85 |
 | 233 | 1008 | Katrien |
 | 234 | 1008 | Hoppy Linkblock |
 | 235 | 1003 | Giddy Climber |
@@ -1228,12 +1228,12 @@
 | 1220 | 195 | gurlieheart |
 | 1221 | 195 | TyGur the Tony |
 | 1222 | 194 | Bold Bridgepiece |
-| 1223 | 194 | Kelly Christine Trimmer |
-| 1224 | 193 | CK Hancock |
-| 1225 | 193 | Steve Eakins |
-| 1226 | 193 | Jaimie Walters |
-| 1227 | 193 | JrsWife |
-| 1228 | 193 | blockrocker |
+| 1223 | 194 | blockrocker |
+| 1224 | 194 | Kelly Christine Trimmer |
+| 1225 | 193 | CK Hancock |
+| 1226 | 193 | Steve Eakins |
+| 1227 | 193 | Jaimie Walters |
+| 1228 | 193 | JrsWife |
 | 1229 | 193 | Melinda Rausch |
 | 1230 | 192 | Cozy Builder |
 | 1231 | 192 | Sarai Coronado |
@@ -1884,131 +1884,131 @@
 | 1876 | 84 | Dom D Davis |
 | 1877 | 84 | Teach4life |
 | 1878 | 84 | Audrey F Devis |
-| 1879 | 84 | Jennifer Roper Stanley |
-| 1880 | 84 | Darla |
+| 1879 | 84 | Darla |
+| 1880 | 84 | Jennifer Roper Stanley |
 | 1881 | 84 | Julie Abbott |
 | 1882 | 84 | Loony Glider |
 | 1883 | 84 | Tiffany Heether |
-| 1884 | 83 | Dionne Borden |
-| 1885 | 83 | Goofy Patternbuilder |
-| 1886 | 83 | Jon Torres |
-| 1887 | 83 | Clever Clusterfit |
-| 1888 | 83 | Jodee Woods |
-| 1889 | 83 | Dan Rosenberg |
-| 1890 | 83 | Rikki Jo Hargrove |
-| 1891 | 83 | April Appleton |
-| 1892 | 82 | Snappy Zonepiece |
-| 1893 | 82 | Alana Albritton Seals |
-| 1894 | 82 | Mel Hogan |
-| 1895 | 82 | Amanda Nash |
-| 1896 | 82 | Tee Have |
-| 1897 | 82 | Tipsy Glider |
-| 1898 | 82 | Jessica LeNeave |
-| 1899 | 81 | Zesty Gridlock |
-| 1900 | 81 | Monique Welch |
-| 1901 | 81 | Jazzy Cornerfall |
-| 1902 | 81 | Disguised Duck |
-| 1903 | 81 | Moeshia Turner |
-| 1904 | 81 | Charles Richardson |
-| 1905 | 81 | Octavia Jus Mae Hill |
-| 1906 | 81 | YUKITATA |
-| 1907 | 81 | Bouncy Stagger |
-| 1908 | 81 | Francesca Rice |
-| 1909 | 81 | Paula Smith |
-| 1910 | 81 | Jackie Hayslip |
-| 1911 | 81 | YldBoar |
-| 1912 | 80 | Dapper Pivotfall |
-| 1913 | 80 | Betty Johnson |
-| 1914 | 80 | Lisa McClelland |
+| 1884 | 83 | Goofy Patternbuilder |
+| 1885 | 83 | April Appleton |
+| 1886 | 83 | Dionne Borden |
+| 1887 | 83 | Jon Torres |
+| 1888 | 83 | Clever Clusterfit |
+| 1889 | 83 | Rikki Jo Hargrove |
+| 1890 | 83 | Dan Rosenberg |
+| 1891 | 83 | Jodee Woods |
+| 1892 | 82 | Alana Albritton Seals |
+| 1893 | 82 | Amanda Nash |
+| 1894 | 82 | Jessica LeNeave |
+| 1895 | 82 | Mel Hogan |
+| 1896 | 82 | Snappy Zonepiece |
+| 1897 | 82 | Tee Have |
+| 1898 | 82 | Tipsy Glider |
+| 1899 | 81 | Octavia Jus Mae Hill |
+| 1900 | 81 | Moeshia Turner |
+| 1901 | 81 | Disguised Duck |
+| 1902 | 81 | YUKITATA |
+| 1903 | 81 | Chris |
+| 1904 | 81 | Bouncy Stagger |
+| 1905 | 81 | Monique Welch |
+| 1906 | 81 | Francesca Rice |
+| 1907 | 81 | Zesty Gridlock |
+| 1908 | 81 | Paula Smith |
+| 1909 | 81 | Jazzy Cornerfall |
+| 1910 | 81 | Charles Richardson |
+| 1911 | 81 | Jackie Hayslip |
+| 1912 | 81 | YldBoar |
+| 1913 | 80 | Tessa Kalili |
+| 1914 | 80 | Javyjavz |
 | 1915 | 80 | Why Youasking |
-| 1916 | 80 | Tessa Kalili |
-| 1917 | 80 | Javyjavz |
-| 1918 | 80 | Denise Singleton |
-| 1919 | 80 | John C Morrison |
-| 1920 | 80 | Ramon James |
-| 1921 | 79 | Amber Marie Lacey |
-| 1922 | 79 | T-Tommy Hillbilly |
-| 1923 | 79 | Jade007 |
-| 1924 | 79 | Kristyn Crysel |
+| 1916 | 80 | Denise Singleton |
+| 1917 | 80 | John C Morrison |
+| 1918 | 80 | Ramon James |
+| 1919 | 80 | Lisa McClelland |
+| 1920 | 80 | Betty Johnson |
+| 1921 | 80 | Dapper Pivotfall |
+| 1922 | 79 | Zippy Wobbler |
+| 1923 | 79 | Megan |
+| 1924 | 79 | T-Tommy Hillbilly |
 | 1925 | 79 | Kassidy Lee |
-| 1926 | 79 | Zippy Wobbler |
-| 1927 | 79 | Megan |
-| 1928 | 78 | Elise Marie Mireles |
-| 1929 | 78 | Chipper Spinzone |
-| 1930 | 78 | Betty Muise |
-| 1931 | 78 | Tori Hotseller |
-| 1932 | 78 | Steven Palmer |
-| 1933 | 78 | Casey Hendricks |
+| 1926 | 79 | Amber Marie Lacey |
+| 1927 | 79 | Jade007 |
+| 1928 | 79 | Kristyn Crysel |
+| 1929 | 78 | Betty Muise |
+| 1930 | 78 | Tori Hotseller |
+| 1931 | 78 | Elise Marie Mireles |
+| 1932 | 78 | Chipper Spinzone |
+| 1933 | 78 | Steven Palmer |
 | 1934 | 78 | Karen Moore |
-| 1935 | 77 | Amh09 |
+| 1935 | 78 | Casey Hendricks |
 | 1936 | 77 | 3RD LEG |
-| 1937 | 77 | Groovy Snapbuild |
-| 1938 | 77 | Michael Aldrich |
-| 1939 | 76 | Shawn Moore |
+| 1937 | 77 | Michael Aldrich |
+| 1938 | 77 | Amh09 |
+| 1939 | 77 | Groovy Snapbuild |
 | 1940 | 76 | Peppy Dash |
 | 1941 | 76 | Mary Cook |
-| 1942 | 76 | June Salevao |
+| 1942 | 76 | Shawn Moore |
 | 1943 | 76 | Lisa Amick |
-| 1944 | 76 | ZackoryandJaclin Marlar Brown |
-| 1945 | 76 | Pj |
+| 1944 | 76 | June Salevao |
+| 1945 | 76 | ZackoryandJaclin Marlar Brown |
 | 1946 | 76 | Danh Nguyen |
-| 1947 | 76 | Joe Dirilo |
-| 1948 | 76 | Mick Loving |
-| 1949 | 76 | Slingin.hohoes |
-| 1950 | 76 | Silly Shatter |
-| 1951 | 76 | Happy Riseclear |
-| 1952 | 75 | Donna Casey |
-| 1953 | 75 | Michael Woodall |
-| 1954 | 75 | Tonia M Eckenrode |
-| 1955 | 75 | Angelica Kelley |
-| 1956 | 75 | Nikki |
-| 1957 | 75 | big ray |
-| 1958 | 75 | Aguilar Rita |
-| 1959 | 75 | Chris |
-| 1960 | 74 | Giddy Glider |
+| 1947 | 76 | Mick Loving |
+| 1948 | 76 | Joe Dirilo |
+| 1949 | 76 | Silly Shatter |
+| 1950 | 76 | Slingin.hohoes |
+| 1951 | 76 | Pj |
+| 1952 | 76 | Happy Riseclear |
+| 1953 | 75 | Donna Casey |
+| 1954 | 75 | Michael Woodall |
+| 1955 | 75 | Tonia M Eckenrode |
+| 1956 | 75 | Angelica Kelley |
+| 1957 | 75 | Nikki |
+| 1958 | 75 | big ray |
+| 1959 | 75 | Aguilar Rita |
+| 1960 | 74 | Robert Covey |
 | 1961 | 74 | Dawn Burzee |
 | 1962 | 74 | MattandAngie Hopkins |
-| 1963 | 74 | Robert Covey |
+| 1963 | 74 | Giddy Glider |
 | 1964 | 74 | Cheeky Twistpiece |
 | 1965 | 74 | Mary |
 | 1966 | 73 | Sunny Spinzone |
-| 1967 | 73 | vsavage |
-| 1968 | 73 | Jenica Davis |
-| 1969 | 73 | Dapper Align |
-| 1970 | 73 | Quirky Slammer |
-| 1971 | 73 | Elodie Deveyer |
-| 1972 | 73 | no name |
-| 1973 | 73 | Dapper Corner |
+| 1967 | 73 | Quirky Slammer |
+| 1968 | 73 | no name |
+| 1969 | 73 | Dapper Corner |
+| 1970 | 73 | Elodie Deveyer |
+| 1971 | 73 | vsavage |
+| 1972 | 73 | Jenica Davis |
+| 1973 | 73 | Dapper Align |
 | 1974 | 72 | Alexis Love Bowen |
-| 1975 | 72 | Anna Marie Knight |
-| 1976 | 72 | Stacy Lynn |
-| 1977 | 72 | Littol1 |
-| 1978 | 72 | Aly Welsh |
-| 1979 | 72 | Jennifer Robles |
-| 1980 | 72 | Nicole Dyer |
-| 1981 | 72 | Mario Avila |
-| 1982 | 72 | Trixie |
+| 1975 | 72 | Aly Welsh |
+| 1976 | 72 | Littol1 |
+| 1977 | 72 | Nicole Dyer |
+| 1978 | 72 | Mario Avila |
+| 1979 | 72 | Trixie |
+| 1980 | 72 | Jennifer Robles |
+| 1981 | 72 | Stacy Lynn |
+| 1982 | 72 | Anna Marie Knight |
 | 1983 | 72 | Happy Curvebuilder |
 | 1984 | 71 | Brittany Nichole Ellenburg |
 | 1985 | 71 | Missy Stevens |
 | 1986 | 71 | JesseJo |
-| 1987 | 71 | Chey |
-| 1988 | 71 | Hrodwulf Redfern |
-| 1989 | 71 | Matthew Hanson |
-| 1990 | 71 | Heather |
-| 1991 | 71 | Angela Anderson |
-| 1992 | 71 | Jane Shevlin |
-| 1993 | 71 | Hunter McGee |
-| 1994 | 71 | Nicole Immoos |
-| 1995 | 71 | lols |
-| 1996 | 70 | Abby Dexter |
-| 1997 | 70 | wolfie |
-| 1998 | 70 | Madison Murray |
-| 1999 | 70 | Angela Best |
-| 2000 | 70 | Jami Arne |
-| 2001 | 70 | Michelle |
-| 2002 | 70 | Wayne Mcmillan |
-| 2003 | 70 | Nanette Michelle Donahue |
+| 1987 | 71 | lols |
+| 1988 | 71 | Angela Anderson |
+| 1989 | 71 | Hrodwulf Redfern |
+| 1990 | 71 | Chey |
+| 1991 | 71 | Hunter McGee |
+| 1992 | 71 | Nicole Immoos |
+| 1993 | 71 | Matthew Hanson |
+| 1994 | 71 | Heather |
+| 1995 | 71 | Jane Shevlin |
+| 1996 | 70 | Michelle |
+| 1997 | 70 | Wayne Mcmillan |
+| 1998 | 70 | Nanette Michelle Donahue |
+| 1999 | 70 | Jami Arne |
+| 2000 | 70 | Angela Best |
+| 2001 | 70 | wolfie |
+| 2002 | 70 | Madison Murray |
+| 2003 | 70 | Abby Dexter |
 | 2004 | 70 | Taderbug |
 | 2005 | 70 | Samantha Rhone |
 | 2006 | 70 | Ashley Bennett |
@@ -2383,42 +2383,42 @@
 | 2375 | 39 | Jeff Mullins |
 | 2376 | 39 | Zany Pivoty |
 | 2377 | 39 | Joshua Savoir |
-| 2378 | 39 | Holly Hannahs |
-| 2379 | 39 | Lisa Schwobe |
-| 2380 | 39 | Cyrus Ramirez |
-| 2381 | 38 | Snazzy Racker |
-| 2382 | 38 | Katrina Wheeler |
-| 2383 | 38 | lsbella |
-| 2384 | 38 | Frothy Liner |
-| 2385 | 38 | David Thomas |
-| 2386 | 38 | Kirby Anthony Michael |
-| 2387 | 38 | Brittaney Roth |
-| 2388 | 38 | Stephanie Fitzgerald |
-| 2389 | 37 | Zippy Tumbler |
-| 2390 | 37 | Leon Welch |
-| 2391 | 37 | Nicole Slimick |
-| 2392 | 37 | DaddyBuck |
-| 2393 | 37 | Gen |
-| 2394 | 37 | SassyPants |
-| 2395 | 37 | Carl Antonucci |
+| 2378 | 39 | Stephanie Hill |
+| 2379 | 39 | Holly Hannahs |
+| 2380 | 39 | Lisa Schwobe |
+| 2381 | 39 | Cyrus Ramirez |
+| 2382 | 38 | Snazzy Racker |
+| 2383 | 38 | Katrina Wheeler |
+| 2384 | 38 | lsbella |
+| 2385 | 38 | Frothy Liner |
+| 2386 | 38 | David Thomas |
+| 2387 | 38 | Kirby Anthony Michael |
+| 2388 | 38 | Brittaney Roth |
+| 2389 | 38 | Stephanie Fitzgerald |
+| 2390 | 37 | Carl Antonucci |
+| 2391 | 37 | Leon Welch |
+| 2392 | 37 | Nicole Slimick |
+| 2393 | 37 | DaddyBuck |
+| 2394 | 37 | Gen |
+| 2395 | 37 | SassyPants |
 | 2396 | 37 | Crystal Marie Castillo |
 | 2397 | 37 | Amanda Bishir |
 | 2398 | 37 | Suzee |
-| 2399 | 37 | Stephanie Hill |
-| 2400 | 37 | Lawana Brooks |
+| 2399 | 37 | Lawana Brooks |
+| 2400 | 37 | Zippy Tumbler |
 | 2401 | 37 | teacake |
 | 2402 | 36 | Monica D Brown |
-| 2403 | 36 | zee |
-| 2404 | 36 | Celeste Smith |
-| 2405 | 36 | Holly Riley |
-| 2406 | 36 | Audrey Phillips |
+| 2403 | 36 | Celeste Smith |
+| 2404 | 36 | Holly Riley |
+| 2405 | 36 | Audrey Phillips |
+| 2406 | 36 | Courtney Lashay Hill |
 | 2407 | 36 | Tiana Rodriguez |
-| 2408 | 36 | Courtney Lashay Hill |
-| 2409 | 36 | Kelly Lee Weaver |
-| 2410 | 36 | Amanda Stanley |
-| 2411 | 36 | Paul Medley |
+| 2408 | 36 | Kelly Lee Weaver |
+| 2409 | 36 | Amanda Stanley |
+| 2410 | 36 | Paul Medley |
+| 2411 | 36 | Cody |
 | 2412 | 36 | Christina Hanson |
-| 2413 | 36 | Cody |
+| 2413 | 36 | zee |
 | 2414 | 36 | Kelli Poog |
 | 2415 | 36 | Brandi Phifer |
 | 2416 | 36 | Cammie Freed |

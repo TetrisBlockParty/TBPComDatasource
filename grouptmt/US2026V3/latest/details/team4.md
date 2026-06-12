@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 00:34:48 UTC
+# Standings for team4 as of 2026-06-12 00:35:24 UTC
 
 **Total Participants:** 2626
 
@@ -463,11 +463,11 @@
 | 455 | 444 | Zesty Twistpiece |
 | 456 | 443 | Reggie Laserna Clement |
 | 457 | 443 | Crissy Hoffman |
-| 458 | 440 | Brendan Craven |
+| 458 | 441 | Matoka Shuford |
 | 459 | 440 | Denise Wilson |
-| 460 | 439 | Lisa Jones |
-| 461 | 438 | Juvon SupaShawdii Brooks |
-| 462 | 438 | Matoka Shuford |
+| 460 | 440 | Brendan Craven |
+| 461 | 439 | Lisa Jones |
+| 462 | 438 | Juvon SupaShawdii Brooks |
 | 463 | 437 | FitMeDiva |
 | 464 | 435 | Deborah Ayliffe |
 | 465 | 435 | Melissa Lowe |
@@ -955,35 +955,35 @@
 | 947 | 220 | Glamorous Gracey |
 | 948 | 220 | Zappy Tilemaker |
 | 949 | 219 | Poptart |
-| 950 | 219 | Nachos |
-| 951 | 219 | Jillian Marie |
-| 952 | 219 | Cozy Patternline |
-| 953 | 219 | Mari Isaac |
+| 950 | 219 | Mari Isaac |
+| 951 | 219 | Nachos |
+| 952 | 219 | Jillian Marie |
+| 953 | 219 | Cozy Patternline |
 | 954 | 218 | Deanne Silverdahl |
-| 955 | 217 | Ben Figueroa |
-| 956 | 216 | Frisky Balance |
-| 957 | 216 | Layne Davis |
-| 958 | 216 | Maegon Brazille |
-| 959 | 215 | Autumn Maher |
+| 955 | 217 | Toria |
+| 956 | 217 | Ben Figueroa |
+| 957 | 216 | Frisky Balance |
+| 958 | 216 | Layne Davis |
+| 959 | 216 | Maegon Brazille |
 | 960 | 215 | Swanky Builderline |
-| 961 | 215 | ShaniP |
-| 962 | 215 | Sfalcon1. |
-| 963 | 215 | Larredo Covington |
-| 964 | 214 | Amori85 |
+| 961 | 215 | Larredo Covington |
+| 962 | 215 | ShaniP |
+| 963 | 215 | Autumn Maher |
+| 964 | 215 | Sfalcon1. |
 | 965 | 214 | Combo Snappy |
-| 966 | 214 | Monica Shupe |
-| 967 | 214 | Felicia Harrison |
-| 968 | 214 | idk240 |
-| 969 | 214 | Linda |
+| 966 | 214 | idk240 |
+| 967 | 214 | Monica Shupe |
+| 968 | 214 | Linda |
+| 969 | 214 | Amori85 |
 | 970 | 214 | FUNBAT |
-| 971 | 213 | Toria |
+| 971 | 214 | Felicia Harrison |
 | 972 | 213 | Conela Rouse Goldstein |
-| 973 | 212 | Amanda Lynn Robinson |
-| 974 | 212 | Ana Ruiz |
-| 975 | 212 | David Kirschner |
+| 973 | 212 | David Kirschner |
+| 974 | 212 | Amanda Lynn Robinson |
+| 975 | 212 | Ana Ruiz |
 | 976 | 212 | BigCup ReeseCup |
-| 977 | 211 | Shirley A. Godfrey |
-| 978 | 211 | Crafty Linkfall |
+| 977 | 211 | Crafty Linkfall |
+| 978 | 211 | Shirley A. Godfrey |
 | 979 | 210 | Pickles |
 | 980 | 210 | Kristine Hj Han |
 | 981 | 210 | Amber Torres |
