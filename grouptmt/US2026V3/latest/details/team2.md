@@ -1,4 +1,4 @@
-# Standings for team2 as of 2026-06-12 03:47:12 UTC
+# Standings for team2 as of 2026-06-12 03:48:11 UTC
 
 **Total Participants:** 3090
 
@@ -524,9 +524,9 @@
 | 516 | 487 | Hoppy Mover |
 | 517 | 486 | Firebone |
 | 518 | 486 | Tina Kinney |
-| 519 | 485 | Joshua Hopkins |
-| 520 | 485 | Jenn |
-| 521 | 485 | Jessi Ann |
+| 519 | 486 | Jessi Ann |
+| 520 | 485 | Joshua Hopkins |
+| 521 | 485 | Jenn |
 | 522 | 484 | Carolyn McNaughton |
 | 523 | 484 | ShiverMeSplinter |
 | 524 | 484 | Anna Benjamin Freeman |
