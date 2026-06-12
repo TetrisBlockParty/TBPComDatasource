@@ -1,4 +1,4 @@
-# Standings for team4 as of 2026-06-12 01:42:47 UTC
+# Standings for team4 as of 2026-06-12 01:43:24 UTC
 
 **Total Participants:** 2636
 
@@ -40,7 +40,7 @@
 | 32 | 5591 | Bryan DjMagnum Evans |
 | 33 | 5363 | Chummy Rollzone |
 | 34 | 5200 | Squirrel Donkey |
-| 35 | 5162 | Victoria Ver |
+| 35 | 5163 | Victoria Ver |
 | 36 | 5133 | Leigh Pierce |
 | 37 | 5121 | Jackie Lucas |
 | 38 | 4841 | Daring Ziggy |
@@ -109,11 +109,11 @@
 | 101 | 1850 | Keg |
 | 102 | 1747 | Patty |
 | 103 | 1728 | Leslie Ann Carter |
-| 104 | 1704 | Gerald Lew |
-| 105 | 1704 | Beee |
-| 106 | 1696 | Giggy Matchpiece |
-| 107 | 1694 | blockhead |
-| 108 | 1687 | Neeta Kapadia |
+| 104 | 1711 | Neeta Kapadia |
+| 105 | 1704 | Gerald Lew |
+| 106 | 1704 | Beee |
+| 107 | 1696 | Giggy Matchpiece |
+| 108 | 1694 | blockhead |
 | 109 | 1684 | Jeremy Lopez |
 | 110 | 1670 | Esther Hadassah |
 | 111 | 1669 | Lupe Alburquerque |
@@ -368,12 +368,12 @@
 | 360 | 570 | Rodger Lines |
 | 361 | 570 | Fran Aaron-Ring |
 | 362 | 567 | Kristen Hall |
-| 363 | 563 | Shawna Downey |
-| 364 | 562 | Funky Tiler |
-| 365 | 557 | Tiffany Bunker-Hill |
-| 366 | 556 | jaz |
-| 367 | 556 | Cherrypir05 |
-| 368 | 556 | Jumpy Builderpiece |
+| 363 | 565 | Jumpy Builderpiece |
+| 364 | 563 | Shawna Downey |
+| 365 | 562 | Funky Tiler |
+| 366 | 557 | Tiffany Bunker-Hill |
+| 367 | 556 | jaz |
+| 368 | 556 | Cherrypir05 |
 | 369 | 554 | Becky McCool |
 | 370 | 553 | Swanky Brickzone |
 | 371 | 549 | Slinky Column |
@@ -649,14 +649,14 @@
 | 641 | 336 | Maliyah An |
 | 642 | 335 | Thermeka Lindsey |
 | 643 | 335 | GETBOXED! |
-| 644 | 334 | Hhs Ffchh |
-| 645 | 334 | MattJennifer Marie Ericson |
-| 646 | 334 | Happy Shatterfit |
-| 647 | 334 | Mighty1 |
-| 648 | 334 | Joshua Garner |
-| 649 | 333 | Diana Fernandez |
-| 650 | 332 | shonaberry |
-| 651 | 332 | Ashlee Lemus |
+| 644 | 335 | Ashlee Lemus |
+| 645 | 334 | Hhs Ffchh |
+| 646 | 334 | MattJennifer Marie Ericson |
+| 647 | 334 | Happy Shatterfit |
+| 648 | 334 | Mighty1 |
+| 649 | 334 | Joshua Garner |
+| 650 | 333 | Diana Fernandez |
+| 651 | 332 | shonaberry |
 | 652 | 332 | Jessica Jones Bolton |
 | 653 | 332 | LyvWyre |
 | 654 | 331 | Lively Cascadebuilder |
@@ -675,25 +675,25 @@
 | 667 | 324 | Janae Harris |
 | 668 | 322 | Jeremy Barry |
 | 669 | 321 | Jerett Coplin |
-| 670 | 320 | Jimmy Clark |
-| 671 | 320 | EpicWizard |
+| 670 | 320 | EpicWizard |
+| 671 | 320 | Jimmy Clark |
 | 672 | 320 | Will E Ayala |
 | 673 | 318 | Valerie Marrero |
-| 674 | 317 | Jessica G. Harris |
-| 675 | 317 | Honey Honey |
-| 676 | 317 | Scrumptious |
+| 674 | 317 | Honey Honey |
+| 675 | 317 | Scrumptious |
+| 676 | 317 | Jessica G. Harris |
 | 677 | 315 | 1694AF |
 | 678 | 315 | Sarah Montagne Forsberg |
 | 679 | 314 | Cozy Towerpiece |
-| 680 | 314 | Ginny |
-| 681 | 314 | Angela Adamo-Tash |
-| 682 | 314 | Loopy Clusterline |
+| 680 | 314 | Loopy Clusterline |
+| 681 | 314 | Ginny |
+| 682 | 314 | Angela Adamo-Tash |
 | 683 | 313 | Bear Bair |
 | 684 | 313 | Mrsjcraw18 |
 | 685 | 312 | Blockcrusher |
 | 686 | 312 | Stephanie Brock |
-| 687 | 311 | Poseidon S Davenport |
-| 688 | 311 | Loony Edge |
+| 687 | 311 | Loony Edge |
+| 688 | 311 | Poseidon S Davenport |
 | 689 | 310 | Corie A. Brinson |
 | 690 | 309 | Erika Rubio |
 | 691 | 309 | April Richardson Morgan |
@@ -704,22 +704,22 @@
 | 696 | 306 | Capt'n Crunch |
 | 697 | 305 | Memphiago Tenninois |
 | 698 | 304 | Has2brat |
-| 699 | 304 | Kandylands |
-| 700 | 304 | Csigirlnc |
+| 699 | 304 | Csigirlnc |
+| 700 | 304 | Kandylands |
 | 701 | 303 | Kennita Cox |
-| 702 | 302 | Japexican Strong |
-| 703 | 302 | Mighty Dash |
+| 702 | 302 | Kierra Evans |
+| 703 | 302 | DizzB400 |
 | 704 | 302 | Anna Ryan |
-| 705 | 302 | Kierra Evans |
-| 706 | 302 | DizzB400 |
-| 707 | 301 | King |
-| 708 | 301 | Funky Twistpiece |
+| 705 | 302 | Mighty Dash |
+| 706 | 302 | Japexican Strong |
+| 707 | 301 | Funky Twistpiece |
+| 708 | 301 | King |
 | 709 | 301 | Sa5siy |
 | 710 | 300 | Kiara Itzel Crowe |
-| 711 | 300 | Alice Eisnor-Martens |
-| 712 | 300 | Urplan |
-| 713 | 300 | Bigmamalizzet Latto |
-| 714 | 300 | Ada Rodriguez Spradley |
+| 711 | 300 | Bigmamalizzet Latto |
+| 712 | 300 | Ada Rodriguez Spradley |
+| 713 | 300 | Alice Eisnor-Martens |
+| 714 | 300 | Urplan |
 | 715 | 299 | Jacinta Hooker-Brown |
 | 716 | 298 | Playful Raccoon |
 | 717 | 298 | Fkvj |
