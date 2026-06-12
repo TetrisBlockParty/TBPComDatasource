@@ -1,4 +1,4 @@
-# Standings for team1 as of 2026-06-12 02:24:46 UTC
+# Standings for team1 as of 2026-06-12 02:25:24 UTC
 
 **Total Participants:** 2586
 
@@ -372,11 +372,11 @@
 | 364 | 533 | Bunnie Celtavini |
 | 365 | 532 | Krista McNair |
 | 366 | 532 | Jana Cheek |
-| 367 | 531 | Tarnisha Neicy Jones |
-| 368 | 529 | Dai Bo |
-| 369 | 528 | John Spath |
-| 370 | 527 | MommaCia |
-| 371 | 527 | Chummy Frame |
+| 367 | 532 | Chummy Frame |
+| 368 | 531 | Tarnisha Neicy Jones |
+| 369 | 529 | Dai Bo |
+| 370 | 528 | John Spath |
+| 371 | 527 | MommaCia |
 | 372 | 523 | Tonia Lance |
 | 373 | 521 | SeanSanchez |
 | 374 | 521 | Jawaun Daniels |
@@ -910,11 +910,11 @@
 | 902 | 233 | Nikiya |
 | 903 | 233 | Danny M GR |
 | 904 | 233 | Angela L Charles |
-| 905 | 232 | Ace Hardware |
-| 906 | 232 | Christopher L Crites |
-| 907 | 232 | Lexx Robins |
-| 908 | 231 | toxictonic92 |
-| 909 | 231 | Tyiesha Pie Farmer |
+| 905 | 232 | Tyiesha Pie Farmer |
+| 906 | 232 | Ace Hardware |
+| 907 | 232 | Christopher L Crites |
+| 908 | 232 | Lexx Robins |
+| 909 | 231 | toxictonic92 |
 | 910 | 230 | Crtjstr |
 | 911 | 230 | Duncan Timothy |
 | 912 | 230 | Nerdy Wipefit |
@@ -1336,41 +1336,41 @@
 | 1328 | 120 | Linzi Cole |
 | 1329 | 120 | Jamie Mclean |
 | 1330 | 120 | James Dunlap |
-| 1331 | 119 | Octavia Whitmire |
-| 1332 | 119 | Christina Wesley |
-| 1333 | 119 | Solomon Valarie |
-| 1334 | 119 | kattat |
-| 1335 | 119 | Ashley Shelton |
+| 1331 | 119 | Solomon Valarie |
+| 1332 | 119 | kattat |
+| 1333 | 119 | Octavia Whitmire |
+| 1334 | 119 | Ashley Shelton |
+| 1335 | 119 | Christina Wesley |
 | 1336 | 119 | Jordan Deon Elery |
-| 1337 | 118 | Michelle Dollah |
-| 1338 | 118 | Ginna |
-| 1339 | 118 | Shanna Green Williams |
-| 1340 | 118 | Leslie Ann |
-| 1341 | 117 | Frothy Snapmatch |
-| 1342 | 117 | Plucky Dashgrid |
+| 1337 | 118 | Shanna Green Williams |
+| 1338 | 118 | Michelle Dollah |
+| 1339 | 118 | Leslie Ann |
+| 1340 | 118 | desmi |
+| 1341 | 118 | Ginna |
+| 1342 | 117 | Frothy Snapmatch |
 | 1343 | 117 | Cheery Clusterbuilder |
 | 1344 | 117 | Chip |
-| 1345 | 116 | Amanda Bell |
-| 1346 | 116 | Brandon Knox |
-| 1347 | 116 | Elizabeth Green |
-| 1348 | 116 | Jeffrey Pierce-Overton |
-| 1349 | 116 | Jack Mehof |
-| 1350 | 116 | Demetrice Buck Wilson |
-| 1351 | 116 | Silly Spinblock |
-| 1352 | 116 | Jeremy Pope |
-| 1353 | 115 | Shiny Lift |
-| 1354 | 115 | Elizabeth Hopkins |
+| 1345 | 117 | Plucky Dashgrid |
+| 1346 | 116 | Jeremy Pope |
+| 1347 | 116 | Silly Spinblock |
+| 1348 | 116 | Brandon Knox |
+| 1349 | 116 | Amanda Bell |
+| 1350 | 116 | Elizabeth Green |
+| 1351 | 116 | Jack Mehof |
+| 1352 | 116 | Demetrice Buck Wilson |
+| 1353 | 116 | Jeffrey Pierce-Overton |
+| 1354 | 115 | Shiny Lift |
 | 1355 | 115 | WOOLFF |
-| 1356 | 114 | Elizabeth Clara |
-| 1357 | 114 | Pharen Oneofakind Frazier |
-| 1358 | 114 | Simone Dublin |
-| 1359 | 114 | Dandy Shatterer |
-| 1360 | 113 | Sha Anderson |
-| 1361 | 113 | H Hr De Gfe |
+| 1356 | 115 | Elizabeth Hopkins |
+| 1357 | 115 | Sha Anderson |
+| 1358 | 114 | Elizabeth Clara |
+| 1359 | 114 | Simone Dublin |
+| 1360 | 114 | Pharen Oneofakind Frazier |
+| 1361 | 114 | Dandy Shatterer |
 | 1362 | 113 | Frothy Snapbuilder |
 | 1363 | 113 | LOVE |
-| 1364 | 113 | Leiacellaa23 |
-| 1365 | 112 | desmi |
+| 1364 | 113 | H Hr De Gfe |
+| 1365 | 113 | Leiacellaa23 |
 | 1366 | 112 | GamerQueenDS |
 | 1367 | 112 | Embracing Hair |
 | 1368 | 112 | Jiff |
@@ -1379,26 +1379,26 @@
 | 1371 | 111 | Alicia Lei |
 | 1372 | 111 | midnightxtoker |
 | 1373 | 111 | Joycina Newsome |
-| 1374 | 110 | lovel |
+| 1374 | 110 | PattyPower |
 | 1375 | 110 | Chirpy Glidezone |
 | 1376 | 110 | Boldy Matchfit |
-| 1377 | 110 | PattyPower |
-| 1378 | 110 | Tweet Turner |
+| 1377 | 110 | Tweet Turner |
+| 1378 | 110 | S.S |
 | 1379 | 110 | Alisha Dawson Crouch |
-| 1380 | 110 | S.S |
-| 1381 | 109 | Toohartless Mech |
-| 1382 | 109 | Jeremy Myers |
-| 1383 | 109 | Bouncy Base |
+| 1380 | 110 | lovel |
+| 1381 | 109 | Jamal D. Wiley |
+| 1382 | 109 | don ralph |
+| 1383 | 109 | TiffanyG |
 | 1384 | 109 | Darlene Johnson |
-| 1385 | 109 | don ralph |
-| 1386 | 109 | Jamal D. Wiley |
-| 1387 | 109 | TiffanyG |
+| 1385 | 109 | Toohartless Mech |
+| 1386 | 109 | Bouncy Base |
+| 1387 | 109 | Jeremy Myers |
 | 1388 | 108 | Smiley Tilebuilder |
 | 1389 | 108 | Phoenix |
-| 1390 | 107 | Mrs |
-| 1391 | 107 | Jade Smalls |
-| 1392 | 106 | Symonne 'Monnie' Pierce |
-| 1393 | 106 | NataAllDay |
+| 1390 | 107 | Jade Smalls |
+| 1391 | 107 | Mrs |
+| 1392 | 106 | NataAllDay |
+| 1393 | 106 | Symonne 'Monnie' Pierce |
 | 1394 | 106 | That1Girl |
 | 1395 | 105 | Michael Smith |
 | 1396 | 105 | smash56! |
@@ -1992,14 +1992,14 @@
 | 1984 | 36 | Tionka Green |
 | 1985 | 36 | taz62 |
 | 1986 | 36 | Sean Walker |
-| 1987 | 36 | Jorge M Pereira |
-| 1988 | 36 | Jennifer Diamond |
-| 1989 | 35 | Patricia Allen |
-| 1990 | 35 | Brandy Jaszewski |
-| 1991 | 35 | np63 |
-| 1992 | 35 | Terrance Jenkins |
-| 1993 | 35 | Evee |
-| 1994 | 35 | Otavia Gordon |
+| 1987 | 36 | Otavia Gordon |
+| 1988 | 36 | Jorge M Pereira |
+| 1989 | 36 | Jennifer Diamond |
+| 1990 | 35 | Patricia Allen |
+| 1991 | 35 | Brandy Jaszewski |
+| 1992 | 35 | np63 |
+| 1993 | 35 | Terrance Jenkins |
+| 1994 | 35 | Evee |
 | 1995 | 35 | Margie Toni Corley |
 | 1996 | 35 | Christian Whittaker |
 | 1997 | 35 | Nerdy Twistline |
